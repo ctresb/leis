@@ -1,0 +1,59 @@
+---
+titulo: "Lei Ordinária nº 1.715, de 19 de agosto de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1715"
+data: "1977-08-19"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1737"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2403/text"
+sha256_fonte: "00835a4c74340d4259a08425a4fd425c3529b390f565efd9fb132a29a4a3e7eb"
+sha256_texto: "cb2f61432103ed7b4159561a9736d5243c23ad3c7dcfdf4198f819db03f1f431"
+capturado_em_fonte: "2026-10-27T18:58:42.015195-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.715, de 19 de agosto de 1977
+
+DISPÕE SOBRE REDUÇÃO DE TRIBUTO QUE ESPECIFICA A ENTIDADES ASSISTENCIAIS OU BENEFICENTES LOCALIZADAS NO MUNICÍPIO DE BIRIGUI.
+
+
+Eu, **PEDRO MARIN BERBEL**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+As entidades de assistência social ou beneficentes sediadas no Município de Birigui gozarão de redução de 50% (cinquenta por cento) nas Taxas de Água e Esgoto.
+
+
+§ 1º
+
+Para usufruir do benefício acima, deverão as entidades comprovar que estão legalmente constituídas, sem qualquer fim lucrativo.
+
+
+§ 2º
+
+As reduções estão condicionadas à renovação anulada e serão reconhecidas por ato do Prefeito, sempre a requerimento da entidade interessada.
+
+
+Art. 2º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos dezenove de agosto de mil novecentos e setenta e sete.
+
+**PEDRO MARIN BERBEL Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos dezenove de agosto de mil novecentos e setenta e sete, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

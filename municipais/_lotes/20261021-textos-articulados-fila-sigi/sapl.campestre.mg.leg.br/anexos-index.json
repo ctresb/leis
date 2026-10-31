@@ -1,0 +1,159 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/erratas_leis.pdf da norma Lei Complementar nº 83, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Eliana Maria Muniz",
+                [
+                  "2026-08-24T14:17:33-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Errata para correção de erro material",
+      "anexo_arquivo": "http://sapl.campestre.mg.leg.br/media/sapl/public/anexonormajuridica/2026/1/erratas_leis.pdf",
+      "ano": 2026,
+      "norma": 1753
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/erratas_leis.pdf da norma Lei Complementar nº 73, de 12 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Eliana Maria Muniz",
+                [
+                  "2026-08-24T14:17:33-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Errata para correção de erro material",
+      "anexo_arquivo": "http://sapl.campestre.mg.leg.br/media/sapl/public/anexonormajuridica/2025/2/erratas_leis.pdf",
+      "ano": 2025,
+      "norma": 117
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/emenda_a_lei_organica_302026.pdf da norma Emenda à Lei Orgânica nº 30, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Antonio Marcos da Cunha",
+                [
+                  "2026-09-14T14:21:18-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Flavio Junior Franco",
+                [
+                  "2026-09-14T14:18:52-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Juvenil Benedito da Anunciacao Junior",
+                [
+                  "2026-09-14T14:20:29-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Vagner Miranda Silvio",
+                [
+                  "2026-09-14T14:19:37-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Emenda à Lei Orgânica nº 30/2026 reassinada 14/09/2026",
+      "anexo_arquivo": "http://sapl.campestre.mg.leg.br/media/sapl/public/anexonormajuridica/2026/3/emenda_a_lei_organica_302026.pdf",
+      "ano": 2026,
+      "norma": 1776
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/4/errata_emenda_a_lei_organica_30-2026.pdf da norma Emenda à Lei Orgânica nº 30, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Antonio Marcos da Cunha",
+                [
+                  "2026-09-14T14:43:21-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Flavio Junior Franco",
+                [
+                  "2026-09-14T14:42:36-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Juvenil Benedito da Anunciacao Junior",
+                [
+                  "2026-09-14T14:44:41-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Vagner Miranda Silvio",
+                [
+                  "2026-09-14T14:44:03-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ERRATA a Emenda à Lei Orgânica nº 30/2026 devido a erro formal que não altera o conteúdo da norma",
+      "anexo_arquivo": "http://sapl.campestre.mg.leg.br/media/sapl/public/anexonormajuridica/2026/4/errata_emenda_a_lei_organica_30-2026.pdf",
+      "ano": 2026,
+      "norma": 1776
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campestre.mg.leg.br/9c49b695d545a48ce4a75bb15b424f48428df1fcdb97b425e442e19bb58120ae.json",
+      "url": "https://sapl.campestre.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7b4b7ef1600d326a58bebf2f70c09fa3d1049ed6a7e89fd3bd588e3f6eaeb7d4",
+      "capturado_em": "2026-10-20T22:08:53.756095",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.campestre.mg.leg.br/9c49b695d545a48ce4a75bb15b424f48428df1fcdb97b425e442e19bb58120ae.json"
+    }
+  ]
+}

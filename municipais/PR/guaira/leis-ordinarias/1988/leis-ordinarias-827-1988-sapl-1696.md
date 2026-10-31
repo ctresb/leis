@@ -1,0 +1,591 @@
+---
+titulo: "Lei Ordinária nº 827, de 20 de dezembro de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "827"
+data: "1988-12-20"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 1989-05-08; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1696"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/178/text"
+sha256_fonte: "83b6b53b0ffd3c7dfa352691c71e5136b5522cb6c7f7e0df0e877c125f08f2f7"
+sha256_texto: "9b72ca5987e86176eeb62961c57f6888dbe017dddcd6811d236161a4a34cf0da"
+capturado_em_fonte: "2026-10-28T13:41:06.338229-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 827, de 20 de dezembro de 1988
+
+Institui o Imposto sobre a Transmissão de Bens Imóveis e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DO IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS
+
+
+##### Seção I — Do Fato Gerador e da Incidência
+
+
+Art. 1º.
+
+Fica instituído o imposto sobre transmissão de bens imóveis, mediante ato oneroso "inter-vivos", que tem como fato gerador:
+
+
+I –
+
+a transmissão, a qualquer título, da propriedade ou do domínio útil de bens imóveis por natureza ou por acessão física, conforme definido no Código Civil;
+
+
+II –
+
+a transmissão, a qualquer título, de direitos reais sobre Imóveis, exceto os direitos reais de garantia;
+
+
+III –
+
+a cessão de direitos relativos às transmissões referidas nos incisos anteriores.
+
+
+Art. 2º.
+
+A Incidência do imposto alcança as seguintes mutações patrimoniais:
+
+
+I –
+
+compra e venda pura ou condicional e atos equivalentes;
+
+
+II –
+
+dação em pagamento;
+
+
+III –
+
+permuta;
+
+
+IV –
+
+arrematação ou adjudicação em leilão, hasta pública ou praça;
+
+
+V –
+
+incorporação ao patrimônio de pessoa jurídica ressalvados os casos previstos nos incisos III e IV do art. 3º;
+
+
+VI –
+
+transferência do patrimônio de pessoa jurídica para o de qualquer um de seus sócios, acionistas ou respectivos sucessores;
+
+
+VII –
+
+tornas ou reposições que ocorram;
+
+
+a)
+
+nas partilhas efetuadas em virtude de dissolução da sociedade conjugal ou morte quando o cônjuge ou herdeiros receber, dos imóveis situados no Município, quota-parte cujo valor seja maior do que o da parcela que lhe caberia na totalidade desses imóveis;
+
+
+b)
+
+nas divisões para extinção de condomínio de imóvel, quando for recebida por qualquer condômino quota-parte material cujo valor seja maior do que o de sua quota-parte ideal.
+
+
+VIII –
+
+mandato em causa própria e seus substabelecimentos, quando o Instrumento contiver os requisitos essenciais à compra e venda;
+
+
+IX –
+
+instituição de fideicomisso;
+
+
+X –
+
+enfiteuse e subenfiteuse;
+
+
+XI –
+
+rendas expressamente constituídas sobre imóvel;
+
+
+XII –
+
+concessão real de uso;
+
+
+XIII –
+
+cessão de direitos de usufruto;
+
+
+XIV –
+
+cessão de direitos ao usucapião;
+
+
+XV –
+
+cessão de direitos do arrematante ou adjudicante, depois de assinado o auto de arrematação ou adjudicação;
+
+
+XVI –
+
+cessão de promessa de venda ou cessão de promessa de cessão;
+
+
+XVII –
+
+acessão física quando houver pagamento de indenização;
+
+
+XVIII –
+
+cessão de direitos sobre permuta de bens imóveis;
+
+
+XIX –
+
+qualquer ato judicial ou extrajudicial "inter-vivos" não especifica do neste artigo que importe ou se resolva em transmissão, a título oneroso, de bens Imóveis por natureza ou acessão física, ou de direitos reais sobre Imóveis, exceto os de garantia;
+
+
+XX –
+
+cessão de direitos relativos aos atos mencionados no inciso anterior.
+
+
+§ 1º
+
+Será devido novo imposto:
+
+
+I –
+
+quando o vendedor exercer o direito de prelação;
+
+
+II –
+
+no pacto de melhor comprador;
+
+
+III –
+
+na retrocessão;
+
+
+IV –
+
+na retrovenda.
+
+
+§ 2º
+
+Equipara-se ao contrato de compra e venda, para efeitos fiscais:
+
+
+I –
+
+a permuta de bens imóveis por bens e direitos de outra natureza;
+
+
+II –
+
+a permuta de bens imóveis por outros quaisquer bens situados fora do território do Município;
+
+
+III –
+
+a transação em que seja reconhecido direito que implique transmissão de imóvel ou de direitos a ele relativos.
+
+
+##### Seção II — Das Imunidades e da Não Incidência
+
+
+Art. 3º.
+
+O imposto não incide sobre a transmissão de bens imóveis ou direitos a eles relativos quando:
+
+
+I –
+
+o adquirente for a União, os Estados, o Distrito Federal, os Municípios e respectivas autarquias e fundações;
+
+
+II –
+
+o adquirente for partido político, templo de qualquer culto, instituição de educação e assistência social, para atendimento de suas finalidades essenciais ou delas decorrentes;
+
+
+III –
+
+efetuada para a sua incorporação ao patrimônio de pessoa jurídica em realização de capital;
+
+
+IV –
+
+decorrentes da fusão, incorporação ou extinção de pessoa jurídica.
+
+
+§ 1º
+
+O disposto nos incisos III e IV deste artigo não se aplica quando a pessoa jurídica adquirente tenha como atividade preponderante a compra e venda desses bens ou direitos, locação de bens imóveis ou arrendamento mercantil.
+
+
+§ 2º
+
+Considera-se caracterizada a atividade preponderante referida no parágrafo anterior quando mais de 50% (cinquenta por cento) da receita operacional da pessoa jurídica adquirente nos 2 (dois) anos seguintes à aquisição decorrer de vendas, administração ou cessão de direitos à aquisição de Imóveis.
+
+
+§ 3º
+
+Verificada a preponderância a que se referem os parágrafos anteriores tornar-se-á devido o imposto nos termos da lei vigente à data da aquisição e sobre o valor atualizado do imóvel ou dos direitos sobre eles.
+
+
+§ 4º
+
+As instituições de educação e assistência social deverão observar ainda os seguintes requisitos:
+
+
+I –
+
+não distribuírem qualquer parcela de seu patrimônio ou de suas rendas a título de lucro ou participação no resultado;
+
+
+II –
+
+aplicarem integralmente no país os seus recursos na manutenção e no desenvolvimento dos seus objetivos sociais;
+
+
+III –
+
+manterem escrituração de suas respectivas receitas e despesas em livros revestidos de formalidades capazes de assegurar perfeita exatidão.
+
+
+##### Seção III — Das Isenções
+
+
+Art. 4º.
+
+São isentas do imposto:
+
+
+I –
+
+a extinção do usufruto, quando o seu instituidor tenha continuado dono da nua-propriedade;
+
+
+II –
+
+a transmissão dos bens ao cônjuge, em virtude da comunicação decorrente do regime de bens do casamento;
+
+
+III –
+
+a transmissão em que o alienante seja o Poder Público;
+
+
+IV –
+
+a indenização de benfeitorias pelo proprietário ao locatário, consideradas aquelas de acordo com a lei civil;
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária nº 830, de 08 de maio de 1989.
+
+
+VI –
+
+a transmissão decorrente de investidura;
+
+
+VII –
+
+a transmissão decorrente da execução de planos de habitação para população de baixa renda, patrocinado ou executado por órgãos públicos ou seus agentes;
+
+
+VIII –
+
+a transmissão cujo valor seja inferior a unidades fiscais vigentes no Município;
+
+
+IX –
+
+as transferências de imóveis desapropriados para fins de reforma agrária.
+
+
+##### Seção IV — Do Contribuinte e do Responsável
+
+
+Art. 5º.
+
+O imposto é devido pelo adquirente ou cessionário do bem imóvel ou do direito a ele relativo.
+
+
+Art. 6º.
+
+Nas transmissões que se efetuarem sem o pagamento do imposto devido, ficam solidariamente responsáveis, por esse pagamento, o transmitente e o cedente conforme o caso.
+
+
+##### Seção V — Da Base de Cálculo
+
+
+Art. 7º.
+
+A base de cálculo do imposto é o valor pactuado no negócio jurídico ou o valor venal atribuído ao imóvel ou ao direito transmitido, periodicamente atualizado pelo Município, se este for maior.
+
+
+§ 1º
+
+Na arrematação ou leilão e na adjudicação de bens imóveis, a base de cálculo será o valor estabelecido pela avaliação judicial ou administrativa, ou o preço pago, se este for maior.
+
+
+§ 2º
+
+Nas tornas ou reposições a base de cálculo será o valor da fração ideal.
+
+
+§ 3º
+
+Na instituição de fideicomisso, a base de cálculo será o valor do negócio jurídico ou 70% do valor venal do bem imóvel ou do direito transmitido, se maior.
+
+
+§ 4º
+
+Nas rendas expressamente constituídas sobre imóveis, a base de cálculo será o valor do negócio ou 30% do valor venal do bem imóvel, se maior.
+
+
+§ 5º
+
+Na concessão real de uso, a base de cálculo será o valor do negócio Jurídico ou 40% do valor venal do bem imóvel, se maior.
+
+
+§ 6º
+
+No caso de cessão de direitos de usufruto, a base de cálculo será o valor do negócio jurídico ou 70% do valor venal do bem imóvel, se maior.
+
+
+§ 7º
+
+No caso de acessão física, a base de cálculo será o valor da indenização ou o valor venal da fração ou acréscimo transmitido, se maior.
+
+
+§ 8º
+
+Quando a fixação do valor venal do bem imóvel ou direito transmitido tiver por base o valor da terra-nua estabelecido pelo órgão federal competente, poderá o Município atualizá-lo monetariamente.
+
+
+§ 9º
+
+A impugnação do valor fixado como base de cálculo do imposto será endereçada à repartição municipal que efetuar o cálculo, acompanhada de laudo técnico de avaliação do imóvel ou direito transmitido.
+
+
+##### Seção VI — Das Alíquotas
+
+
+Art. 8º.
+
+O imposto será calculado aplicando-se sobre o valor estabelecido como base de cálculo as seguintes alíquotas:
+
+
+I –
+
+transmissões compreendidas no sistema financeiro da habitação, em relação à parcela financiada - 0,5% (meio por cento);
+
+
+II –
+
+demais transmissões - 2% (dois por cento).
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 830, de 08 de maio de 1989.
+
+
+##### Seção VII — Do Pagamento
+
+
+Art. 9º.
+
+O imposto será pago até a data do fato translativo, exceto nos seguintes casos:
+
+
+I –
+
+na transferência de imóvel a pessoa jurídica ou desta para seus sócios ou acionistas ou respectivos sucessores, dentro de 30 (trinta) dias contados da data da assembleia ou da escritura em que tiverem lugar aqueles atos;
+
+
+II –
+
+na arrematação ou na adjudicação em praça ou leilão, dentro de 30 (trinta) dias contados da data em que tiver sido assinado o auto ou deferida a adjudicação, ainda que exista recurso pendente;
+
+
+III –
+
+na acessão física, até a data do pagamento da indenização;
+
+
+IV –
+
+nas tornas ou reposições e nos demais atos judiciais, dentro de 30 (trinta) dias contados da data da sentença que reconhecer o direito, ainda que exista recurso pendente.
+
+
+Art. 10.
+
+Nas promessas ou compromissos de compra e venda é facultado efetuar-se o pagamento do imposto a qualquer tempo desde que dentro do prazo fixado para o pagamento do preço do Imóvel.
+
+
+§ 1º
+
+Optando-se pela antecipação a que se refere este artigo, tomar-se-á por base o valor do imóvel na data em que for efetuada a antecipação, ficando o contribuinte exonerado do pagamento do imposto sobre o acréscimo de valor, verificado no momento da escritura definitiva.
+
+
+§ 2º
+
+Verificada a redução do valor, não se restituirá a diferença do imposto correspondente.
+
+
+Art. 11.
+
+Não se restituirá o imposto pago:
+
+
+I –
+
+quando houver subsequente cessão da promessa ou compromisso, ou quando qualquer das partes exercer o direito de arrependimento, não sendo, em consequência, lavrada a escritura;
+
+
+II –
+
+aquele que venha a perder o imóvel em virtude de pacto de retrovenda.
+
+
+Art. 12.
+
+O imposto, uma vez pago, só será restituído nos casos de:
+
+
+I –
+
+anulação de transmissão decretada pela autoridade judiciária, em definitiva:
+
+
+II –
+
+nulidade do ato jurídico;
+
+
+III –
+
+rescisão de contrato e desfazimento da arrematação com fundamento no art. 1136 do Código Civil.
+
+
+Art. 13.
+
+A guia para pagamento do imposto será emitida pelo órgão municipal competente, conforme dispuser regulamento.
+
+
+##### Seção VIII — Das Obrigações Acessórias
+
+
+Art. 14.
+
+O sujeito passivo é obrigado a apresentar na repartição competente da Prefeitura os documentos e informações necessários ao lançamento do imposto, conforme estabelecido em regulamento.
+
+
+Art. 15.
+
+Os tabeliães e escrivães não poderão lavrar instrumentos, escrituras ou termos judiciais sem que o Imposto devido tenha sido pago.
+
+
+Art. 16.
+
+Os tabeliães e escrivães transcreverão a guia de recolhimento do imposto nos Instrumentos, escrituras ou termos judiciais que lavrarem.
+
+
+Art. 17.
+
+Todos aqueles que adquirirem bens ou direitos cuja transmissão constitua ou possa constituir fato gerador do imposto são obrigados a apresentar seu título à repartição fiscalizadora do tributo dentro do prazo de 90 (noventa) dias a contar da data em que for lavrado o contrato, carta de adjudicação ou de arrematação, ou qualquer outro título representativo da transferência do bem ou direito.
+
+
+##### Seção IX — Das Penalidades
+
+
+Art. 18.
+
+O adquirente de imóvel ou direito que não apresentar o seu título à repartição fiscalizadora, no prazo legal, fica sujeito à multa de 50% (cinquenta por cento) sobre o valor do imposto.
+
+
+Art. 19.
+
+O não pagamento do imposto nos prazos fixados nesta lei sujeita o infrator à multa correspondente a 100% (cem por cento) sobre o valor do imposto devido.
+
+
+Parágrafo único
+
+Igual penalidade será aplicada aos serventuários que descumprirem o previsto no art. 15.
+
+
+Art. 20.
+
+A omissão ou inexatidão fraudulenta de declaração relativa a elementos que possam influir no cálculo do imposto sujeitará o contribuinte à multa de 200% (duzentos por cento) sobre o valor do imposto sonegado.
+
+
+Parágrafo único
+
+Igual multa será aplicada a qualquer pessoa que intervenha no negócio jurídico ou declaração e seja conivente ou auxiliar na inexatidão ou omissão praticada.
+
+
+#### CAPÍTULO II — DA CONTRIBUIÇÃO DE MELHORIA
+
+
+Art. 21.
+
+A contribuição de melhoria tem como fato gerador a realização de obra pública.
+
+
+DISPOSIÇÕES FINAIS
+
+
+Art. 22.
+
+O Prefeito poderá baixar, no prazo de 30 dias, o regulamento da presente lei.
+
+
+Art. 23.
+
+O crédito tributário não liquidado na época própria fica sujeito à atualização monetária.
+
+
+Art. 24.
+
+Aplicam-se, no que couber, os princípios, normas e demais disposições do Código Tributário Municipal relativos à Administração Tributária.
+
+
+Art. 25.
+
+Esta lei entrará em vigor a partir de 1º de março de 1989.
+
+
+EDIFÍCIO DA PREFEITURA MUNICIPAL DE GUAÍRA, A 20 DE DEZEMBRO DE 1988.  
+  
+OSVALDINO DA SILVEIRA  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

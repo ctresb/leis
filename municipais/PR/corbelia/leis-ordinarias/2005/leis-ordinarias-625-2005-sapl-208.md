@@ -1,0 +1,782 @@
+---
+titulo: "04 - Lei Ordinária nº 625, de 18 de novembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "625"
+data: "2005-11-18"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2019-05-21; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/208"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/106/text"
+sha256_fonte: "c77e46aa08eabd4f69bd443b09ef1b923b4661c908e56dc13f1a555361a41355"
+sha256_texto: "4442dcd48dc3bc0c677387a3ddbad1121daf83034e1e5a43a300b6a1ef2af11e"
+capturado_em_fonte: "2026-10-28T06:43:43.161937-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 625, de 18 de novembro de 2005
+
+Dispõe sobre a Política de Atendimento dos Direitos da Pessoa Idosa, Institui o Conselho Municipal dos Direitos da Pessoal Idosa e o Fundo Municipal dos Direitos da Pessoal Idosa, e dá outras providências.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 1º.
+
+Esta Lei institui a Política Municipal dos Direitos da Pessoa Idosa, o Conselho Municipal dos Direitos da Pessoal Idosa, o Fundo Municipal dos Direitos da Pessoal Idosa e as normas gerais para a sua adequada aplicação.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 2º.
+
+O atendimento dos direitos da Pessoa Idosa no Município de Corbélia será feito através de um conjunto articulado de ações governamentais e não governamentais, assegurando-se em todas elas o tratamento com dignidade e respeito à liberdade e à convivência familiar e comunitária.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 1º
+
+As ações a que se refere o *caput* deste artigo serão implementadas através de:
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+políticas sociais básicas de educação, saúde, recreação, esporte, cultura, lazer, segurança, profissionalização e outras que assegurem o desenvolvimento físico, mental, moral, espiritual e social da Pessoa Idosa, em condições de liberdade e dignidade;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+políticas e programas de assistência social, em caráter supletivo, para aqueles que necessitarem;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+III –
+
+serviços especiais nos termos desta Lei;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IV –
+
+a concessão benefício eventual para idosos com impossibilidade de arcar por conta própria com o enfrentamento de contingências sociais, cuja ocorrência provoca riscos e fragiliza a manutenção do indivíduo, apurado e quantificado em estudo social feito por equipe de Proteção Social.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 2º
+
+O atendimento dos direitos da Pessoa Idosa, para efeito de agilização, será efetuado de forma integrada entre os órgãos de Poder Público e a Comunidade.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 3º.
+
+A Prefeitura destinará recursos e espaços públicos para programações culturais, esportivas e de lazer, voltadas para o público idoso.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 4º.
+
+É vedada a ação de caráter compensatório quando da ausência ou insuficiência das políticas sociais básicas no Município, sem a prévia manifestação do Conselho Municipal dos Direitos da Pessoa Idosa.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+#### CAPÍTULO I — DO CONSELHO MUNICIPAL DOS DIREITOS DA PESSOA IDOSA
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 5º.
+
+Institui o Conselho Municipal dos Direitos da Pessoa Idosa, em consonância com as Leis Federais nº 8.842/94 (Política Nacional do Idoso), 10.741/03 (Estatuto do Idoso) e Lei Estadual nº 11.863/97 (Política Estadual do Idoso).
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 1º
+
+O Conselho Municipal dos Direitos da Pessoa Idosa é um órgão colegiado permanente, de caráter consultivo, deliberativo, supervisor, controlador e fiscalizador, da política municipal do idoso, de composição paritária, vinculado à Secretaria Municipal de Desenvolvimento Social, responsável pela coordenação da Política Municipal dos Direitos da Pessoa Idosa.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 2º
+
+O Conselho tem por finalidade assegurar à pessoa idosa a liberdade, o respeito e a dignidade, como pessoa humana e sujeito de direitos civis, políticos, individuais e sociais, criando condições para promover sua integração e participação efetiva na sociedade, de conformidade ao determinado na Lei Federal nº 10.741/03.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 6º.
+
+Considera-se idoso, para efeito da lei, a pessoa com idade igual ou superior a 60 (sessenta) anos.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+##### Seção I — Da competência
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 7º.
+
+Compete ao Conselho Municipal dos Direitos da Pessoa Idosa:
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+zelar pela aplicação das Leis que norteiam as políticas da pessoa idosa, garantindo que nenhuma pessoa seja objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e que todo atentado aos seus direitos, por ação ou omissão, seja levado e denunciado ao Ministério Público ou órgão competente;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+controlar, supervisionar, acompanhar, deliberar, fiscalizar, cumprir e fazer cumprir a Política Municipal de atendimento e proteção aos direitos da pessoa idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+III –
+
+promover, apoiar e incentivar a criação de organizações destinadas à assistência da pessoa idosa, garantindo-lhe o acesso universal e igualitário às ações, serviços e benefícios outorgados no Estatuto do Idoso;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IV –
+
+propor e aprovar a elaboração de diagnóstico da população idosa, através de realização de pesquisa sobre o seu perfil no município;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+V –
+
+propiciar apoio técnico às organizações de atendimento e assistência à pessoa idosa, governamentais e não governamentais, a fim de tornar efetiva a aplicabilidade do Estatuto do Idoso, e os princípios e diretrizes da Política Nacional e Estadual da Pessoa Idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+VI –
+
+participar da elaboração das propostas orçamentárias das Secretarias do Governo Municipal, visando à destinação de recursos vinculados aos planos, programas e projetos, para a implementação da Política Municipal da Pessoa Idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+VII –
+
+fazer proposições, objetivando aperfeiçoar a legislação pertinente à política de atendimento e proteção dos direitos da pessoa idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+VIII –
+
+promover atividades e campanhas de educação e divulgação, para formação de opinião pública e esclarecimento sobre os direitos da pessoa idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IX –
+
+acompanhar, supervisionar, avaliar e fiscalizar a gestão de recursos, bem como os ganhos sociais e o desempenho dos programas, projetos e serviços, assegurando, assim, que as verbas se destinem ao atendimento da pessoa idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+X –
+
+registrar, acompanhar e fiscalizar as organizações não governamentais e governamentais de atendimento à pessoa idosa no município e solicitar aos órgãos competentes o credenciamento e o cancelamento de registro de instituições destinadas ao atendimento da pessoa idosa, quando não estiverem cumprindo as finalidades propostas, e as leis que regem os direitos da pessoa idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XI –
+
+subsidiar a elaboração de leis atinentes aos interesses da pessoa idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XII –
+
+propor aos poderes constituídos modificações nas estruturas dos órgãos governamentais diretamente ligados à promoção, proteção e à defesa dos direitos da pessoa idosa; (AC)
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XIII –
+
+receber petições, denúncias, reclamações, representações ou notícias de qualquer pessoa por desrespeito aos direitos assegurados à pessoa idosa, protegendo as informações sigilosas, emitindo parecer e encaminhando-as aos órgãos competentes para adoção de medidas cabíveis;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XIV –
+
+deliberar sobre a destinação e fiscalização dos recursos do Fundo Municipal dos Direitos da Pessoa Idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XV –
+
+convocar a Conferência Municipal dos Direitos da Pessoa Idosa e estabelecer as normas de funcionamento em regimento próprio, conforme orientações emanadas dos Conselhos Nacional e Estadual;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XVI –
+
+elaborar, aprovar e alterar seu Regimento Interno;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XVII –
+
+deliberar e propor ao órgão executivo a capacitação de seus conselheiros;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+XVIII –
+
+promover, incentivar e apoiar a realização de eventos, estudos e pesquisas, fóruns, seminários, simpósios e outros, no campo da proteção, da promoção e da defesa dos direitos da pessoa idosa.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+##### Seção II — Da Constituição e da Composição
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 8º.
+
+O Conselho é vinculado à estrutura da Secretaria Municipal de Desenvolvimento Social que coordenará a execução da Política Municipal dos Direitos da Pessoa Idosa, e é formado por membros governamentais e não governamentais, com representação paritária, composta por membros titulares e respectivos suplentes das representações:
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+03 (três) representantes das Secretarias Municipais que têm atribuições na consecução da Política Municipal da Pessoa Idosa;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+01 (um) representante, com idade igual ou superior a 60 (sessenta) anos, munícipe;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+III –
+
+02 (dois) representantes, com idade igual ou superior a 21 (vinte e um) anos, dos usuários das políticas municipais.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Parágrafo único
+
+O Vereador na qualidade de observador, quando presente em qualquer sessão do Conselho, terá direito à voz, sem voto.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+##### Seção II — Da Substituição
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 9º.
+
+Para renovação dos Conselheiros da sociedade civil, após mandato de dois anos, será constituída uma Comissão Eleitoral que terá a função de publicar e convidar as instituições, atuando no Município para inscrição e posterior análise de sua atuação na Política Municipal da Pessoa Idosa.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 10.
+
+As representações da sociedade civil, depois de eleitas, terão prazo de 15 dias, a partir da vigência desta Lei, para apresentar os nomes indicados para representantes titulares e suplentes, junto ao Conselho, e que serão nomeados pelo Prefeito do Município, através de Decreto, juntamente com os conselheiros governamentais por ele indicados.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 1º
+
+Os membros serão nomeados para o mandato de 02 (dois) anos, período em que não poderão ser destituídos, salvo por razões que motivem a deliberação da maioria qualificada do colegiado, ou ainda por desistência, inatividade, insolvência ou impedimento.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 2º
+
+Será destituído o(a) conselheiro(a) (pessoa) indicado(a), que deixar de pertencer ao quadro da instituição eleita, assumindo em seu lugar o suplente, ou outro indicado pela instituição.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+##### Seção III — Da Estrutura e do Funcionamento
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 11.
+
+O Conselho reunir-se-á ordinariamente uma vez por mês, ou extraordinariamente, convocado pelo presidente ou por dois terços dos seus membros, para deliberações relevantes e pertinentes à Política da Pessoa Idosa.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 1º
+
+A função de membro do Conselho não será remunerada, mas o seu exercício é considerado relevante serviço ao Município, com caráter prioritário e, em consequência, justificadas as ausências a qualquer outro serviço, desde que motivadas pelas atividades deste Conselho.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+§ 2º
+
+O Executivo Municipal, responsável pela execução da Política da Pessoa Idosa, prestará o necessário apoio técnico, administrativo e financeiro para a efetivação das finalidades do Conselho Municipal dos Direitos da Pessoa Idosa, bem como fornecerá os subsídios necessários para a representação deste Conselho nas instâncias e eventos para o qual for convocado ou quando sua participação for julgada necessária pela plenária.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 12.
+
+Todas as sessões do Conselho Municipal dos Direitos da Pessoa Idosa serão públicas e precedidas de ampla divulgação.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Parágrafo único
+
+Poderão ser convidadas pessoas ou instituições qualificadas para assessorar o Conselho Municipal dos Direitos da Pessoa Idosa em assuntos específicos.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 13.
+
+A instalação do Conselho dar-se-á no prazo máximo de 90 (noventa) dias após a promulgação da lei.
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 14.
+
+São órgãos do Conselho Municipal dos Direitos da Pessoa Idosa:
+
+Alteração feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+Plenária;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+Mesa Diretora;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+III –
+
+Comissões de Trabalho;
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IV –
+
+Secretaria Executiva.
+
+Inclusão feita pelo Art. 1º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 15.
+
+O fundo será gerido pela Secretaria Municipal da Fazenda em conta bancária especial e só será movimentado de acordo com plano de Aplicação da Secretária Municipal de Assistência Social, em conformidade com o CMI.
+
+
+Parágrafo único
+
+A movimentação dos recursos do FMI dependerá de autorização escrita do Secretário Municipal de Assistência Social e da assinatura conjunta do Prefeito Municipal e Secretário da Fazenda.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 19.
+
+O Fundo será formado pelas seguintes receitas:
+
+
+I –
+
+dotações consignadas anualmente nos orçamentos municipais e os créditos adicionais que a lei estabelecer no decurso do período;
+
+
+II –
+
+dotações, auxilio, contribuição, subvenção e transferência de entidades nacionais e internacionais, governamentais e não-governamentais;
+
+
+III –
+
+remuneração oriunda de aplicação financeira; e
+
+
+IV –
+
+convênio, acordos e contratos firmados com instituições privadas e públicas para repasse às entidades governamentais e não-governamentais executoras de programas ou projetos do Plano Municipal de Atenção ao Idoso.
+
+
+Art. 20.
+
+A aplicação dos recursos de natureza financeira dependerá:
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - 04 - Lei Ordinária nº 1.041, de 21 de maio de 2019.
+
+
+Art. 21.
+
+A execução das despesas orçamentárias deve obrigatoriamente obedecer aos diferentes estágios determinados pela Lei 4.320/64, a saber: empenho prévio, licitação, ordenamento da despesa, liquidação e pagamento.
+
+
+Art. 22.
+
+As contas de cada exercício estão sujeitas à analise e parecer prévio do Tribunal de Contas do Estado do Paraná.
+
+
+Art. 23.
+
+Ficam revogadas as disposições em contrario.
+
+
+Art. 24.
+
+A presente Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de CORBÉLIA
+
+Em 18 (dezoito) de novembro de 2005.
+
+ELIEZER JOSÉ FONTANA
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/208/ta
+

@@ -1,0 +1,232 @@
+{
+  "host": "sapl.garca.sp.leg.br",
+  "metadados_unicos_observados": 1990,
+  "total_api_declarado": 1990,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1565,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/d1559bed6b3bb6b0b23ffa701944721409b5f68ace724ce74d42af74b6149ac4.json",
+    "url": "https://sapl.garca.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "436c281468221969439c9306d8c8ff058807313e96eb3ce8cb5c9d40b456b54d",
+    "bytes": 1261,
+    "capturado_em": "2026-10-28T12:30:08.461773-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/50d52f688c46507522e26a72c2d7a1cc42635db0620a0dcd5a2115edf77af701.json",
+    "url": "https://sapl.garca.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.garca.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "63b38643c25e84f90b743132c55d6b85a74099c8af1f084261d82b838ce7caac",
+    "bytes": 756,
+    "capturado_em": "2026-10-28T12:30:07.384983-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/5a72a93847a11845e9ad8975dff0e493b2283cc019230bd2fa11b64aecc56582.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1f57f0bae48ed69ca02d03b43a45833f1b7b884fd03e79ec459ca0008c21ebae",
+      "bytes": 57311,
+      "capturado_em": "2026-10-28T12:30:09.763381-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/f4922466f8ae65a7a3151451fa8672d50cee064622b3a79246234dbea1b20de4.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2b325dfb1a9014f0eff13f3826880cbc5d1cd71edcc36427c6a53bf75ec0cf71",
+      "bytes": 59182,
+      "capturado_em": "2026-10-28T12:33:10.626858-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/def8678947c1ad9845962e34e843e15798eed90c731371d1aa446b4bd79b4e48.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0a9d69bd540326e16d9612ed2945a3ccf4fedfebe0bf7031cf0d76a85961366b",
+      "bytes": 57418,
+      "capturado_em": "2026-10-28T12:35:48.473013-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/5f956316ac30ce2aea65d93bae3e6c56dd1159e5f4ccdbecfa5cc3d97ec02c70.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e98e3630db678bf0e7b7f02dc92fc083b805361b0954a102156b889c960d9681",
+      "bytes": 60154,
+      "capturado_em": "2026-10-28T12:38:30.408445-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/22c52bf8e88268dd4d00ad37e3e5850a632a802e66e02f3c2a11cc0dad19a656.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "16ba906dcc7476aa0cd3eeafff99b0446ba9a4b5480142f8e6d81d863a07fb9d",
+      "bytes": 61355,
+      "capturado_em": "2026-10-28T12:41:22.696120-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/205f323c8c4ed362f74fca85a9d3e90350f7c2309dcf65b98923409f4cb2d7ab.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "60bc3500aac84e18d4d8b097455424d3ad3ac3bbfabd473e467ecf816d76852b",
+      "bytes": 63452,
+      "capturado_em": "2026-10-28T12:44:05.513639-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/3f8da9bd1316d40f9fb15f9007d7b59588d049f43c1f69b04dd845f977cae31f.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5fa5d76778f2338896e0bd6191f7141548868dabf543cf6927fe7990ba9d50c6",
+      "bytes": 61317,
+      "capturado_em": "2026-10-28T12:46:40.866255-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/48515ce42bf83c1be2400648246dfa90524364478a712b32345daa5df32edefb.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e9d5d44f1d11178d556a1ce1bb3f379a8afcd7d8b44215511bb44060a2fa2e1a",
+      "bytes": 60831,
+      "capturado_em": "2026-10-28T12:49:32.150923-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/16391a143c2e31efdc3fed82f4e36327cfb9baeec89190ca7c939e6142010f6f.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7f10ab22fbc82713a0b5106c7f93cba872ef7fbac2e8bdc3950708b0020fbea9",
+      "bytes": 58954,
+      "capturado_em": "2026-10-28T12:52:28.889582-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/2a929c38e3283762774224ff040a55dad6e8c9b0dde7d4dfa48bc61a7e427dec.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "176f48503353948bf240a31d39eec8925ec6b18e84d3f86cfb474e8dde7c7009",
+      "bytes": 59678,
+      "capturado_em": "2026-10-28T12:55:20.990994-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/f498f709e7a82cbb7ea8197055dc8e33d7ba020ac37b6043f7f184d993d1edcf.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9ba53bb7654b115e83ac37cfd61642d457e5c1dbb5743884b7dfad4a1d3d4d4f",
+      "bytes": 60869,
+      "capturado_em": "2026-10-28T12:58:40.429356-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/993ce3025f50a79b221044e5a2e7cf2e1cb2721b16ca83a69c9bbe0d8337ee55.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0f92b05689d94560abb9329a167680d5c969a083314d54d94b6b3ed08d754b5c",
+      "bytes": 61482,
+      "capturado_em": "2026-10-28T13:01:48.833125-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/4fc00d110c7bb8129830e055a0f05ceb3b12ae0c5c2bf0964c1aefa8e3b22a8d.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2079531ea333a3f079074e6d293a455d6fdb0d8cf25bfb4e4689b13488a02825",
+      "bytes": 61613,
+      "capturado_em": "2026-10-28T13:04:41.065690-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/19754e638094f0832dc705962fafb280433e4ff37ab70ea2ad56f1e8a9f65376.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c54335fcd6357821f62ba28fd8a05102d4c686616bba81ee6c39b1578068efb7",
+      "bytes": 59866,
+      "capturado_em": "2026-10-28T13:07:54.527741-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/9374234701b2faee557165ccdf19e1b122eab7df0dc7255da4694360a429623a.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "60f3c511452374cbd24cbf31f2b4ea0c8706a323ce3051896871f2388de626c4",
+      "bytes": 59623,
+      "capturado_em": "2026-10-28T13:11:08.467771-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/a974ee02eed5a9a0d1b20daaec424a7ee8c37fbe3282e1606e24745ab758fd57.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e60be127f49ff260f9b0e6adf91909f5f037539d67b46a96ac290e20fa0ac3a9",
+      "bytes": 59320,
+      "capturado_em": "2026-10-28T13:14:18.073835-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/c2c05eb3ed0e4702324d662f232ebbd1b88f0aba115272f0d8cb5bdb1dce8376.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3af7586fc42de9beb046bca8bed6b06d71ccd33ff7aa101970df887cede67291",
+      "bytes": 56881,
+      "capturado_em": "2026-10-28T13:17:26.665236-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/0c9b85a5ebd8ae580547a3bc4adbf6fbd7b1c00138cc10f72d517a41b6d186a8.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ad686427cd09003481a573fdd791f3d8b8337ab4eede0d498a9a1ef8c7dd335b",
+      "bytes": 54196,
+      "capturado_em": "2026-10-28T13:20:16.099685-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/6be1b64d30cbc5ba125e9e7eba530429e88d27f607ba64f8f65d108c30206bba.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "007508f26eb35fbc08c6cd1660b0200ca1cacc104aa74f6c2eedfb49a7664d98",
+      "bytes": 55852,
+      "capturado_em": "2026-10-28T13:22:54.790769-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/dbd2f9ed5c83bb0635bdf6eb6e90593d1bcfb932452888a38367de466ce1b476.json",
+      "url": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.garca.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f6ee39335bb4496f39370d85607807afc4a302e95c8ebb48fbae09a82295e12a",
+      "bytes": 49195,
+      "capturado_em": "2026-10-28T13:24:40.187293-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

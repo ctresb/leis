@@ -1,0 +1,65 @@
+“Estima a Receita e Fixa a Despesa do Município de CLARAVAL (MG) para o Exercício de 2004.”
+
+
+O povo do Município de CLARAVAL (MG), por seus representantes aprova e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei estima a receita e fixa a despesa do Município para o exercício de 2004 em R$4.779.000,00 (quatro milhões, setecentos e setenta e nove mil reais) conforme quadros demonstrativos abaixo:
+
+
+§ 1º
+
+Discriminação da receita por subcategoria:
+
+
+<table><tbody><tr><td><p>RECEITA</p></td><td><p>R$</p></td><td><p>R$</p></td></tr><tr><td><p>RECEITAS CORRENTES</p></td><td><p> </p></td><td><p>4.905.000,00</p></td></tr><tr><td><p>               RECEITA TRIBUTARIA</p></td><td><p>94.000,00</p></td><td><p> </p></td></tr><tr><td><p>                              RECEITA DE CONTRIBUIÇÕES</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>                  RECEITA PATRIMONIAL</p></td><td><p>18.000,00</p></td><td><p> </p></td></tr><tr><td><p>                       RECEITA AGROPECUARIA</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>               RECEITA INDUSTRIAL</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>                   RECEITA DE SERVIÇOS</p></td><td><p>35.000,00</p></td><td><p> </p></td></tr><tr><td><p>                                   TRANSFERÊNCIAS CORRENTES</p></td><td><p>4.559.000,00</p></td><td><p> </p></td></tr><tr><td><p>OUTRAS RECEITAS CORRENTES</p></td><td><p>199.000,00</p></td><td><p> </p></td></tr><tr><td><p>                                   SUPERAVIT</p></td><td><p>546.000,00</p></td><td><p> </p></td></tr><tr><td><p>RECEITAS DE CAPITAL</p></td><td><p> </p></td><td><p>420.000,00</p></td></tr><tr><td><p>                  OPERAÇÕES DE CREDITO</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>          ALIENAÇÃO DE BENS</p></td><td><p>50.000,00</p></td><td><p> </p></td></tr><tr><td><p>AMORTIZAÇÃO DE EMPRESTIMOS</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>                          TRANSFERÊNCIAS DE CAPITAL</p></td><td><p>370.000,00</p></td><td><p> </p></td></tr><tr><td><p>                           OUTRAS RECEITAS DE CAPITAL</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>TOTAL DAS RECEITAS</p></td><td><p> </p></td><td><p>5.325.000,00</p></td></tr><tr><td><p>(-) DEDUÇÕES DA RECEITA PARA FORM. DO FUNDEF</p></td><td><p> </p></td><td><p>-546.000,00</p></td></tr><tr><td><p>TOTAL GERAL DAS RECEITAS</p></td><td><p> </p></td><td><p>4.779.000,00</p></td></tr></tbody></table>
+
+
+§ 2º
+
+Discriminação da despesa por funções:
+
+
+<table><tbody><tr><td colspan="2"><p>FUNÇÕES DO GOVERNO</p></td><td><p>R$</p></td></tr><tr><td><p>01</p></td><td><p>LEGISLATIVA</p></td><td><p>245.000,00</p></td></tr><tr><td><p>02</p></td><td><p>JUDICIARIA</p></td><td><p>0,00</p></td></tr><tr><td><p>03</p></td><td><p>ESSENCIAL A JUSTICA</p></td><td><p>0,00</p></td></tr><tr><td><p>04</p></td><td><p>ADMINISTRAÇÃO</p></td><td><p>1.180.000,00</p></td></tr><tr><td><p>05</p></td><td><p>DEFESA NACIONAL</p></td><td><p>0,00</p></td></tr><tr><td><p>06</p></td><td><p>SEGURANÇA PUBLICA</p></td><td><p>26.000,00</p></td></tr><tr><td><p>07</p></td><td><p>RELAÇÕES EXTERIORES</p></td><td><p>0,00</p></td></tr><tr><td><p>08</p></td><td><p>ASSISTENCIA SOCIAL</p></td><td><p>270.000,00</p></td></tr><tr><td><p>09</p></td><td><p>PREVIDENCIA SOCIAL</p></td><td><p>0,00</p></td></tr><tr><td><p>10</p></td><td><p>SAÚDE</p></td><td><p>918.000,00</p></td></tr><tr><td><p>11</p></td><td><p>TRABALHO</p></td><td><p>0,00</p></td></tr><tr><td><p>12</p></td><td><p>EDUCAÇÃO</p></td><td><p>1.333.000,00</p></td></tr><tr><td><p>13</p></td><td><p>CULTURA</p></td><td><p>63.000,00</p></td></tr><tr><td><p>14</p></td><td><p>DIREITOS DA CIDADANIA</p></td><td><p>0,00</p></td></tr><tr><td><p>15</p></td><td><p>URBANISMO</p></td><td><p>341.000,00</p></td></tr><tr><td><p>16</p></td><td><p>HABITAÇÃO</p></td><td><p>100.000,00</p></td></tr><tr><td><p>17</p></td><td><p>SANEAMENTO</p></td><td><p>20.000,00</p></td></tr><tr><td><p>18</p></td><td><p>GESTÃO AMBIENTAL</p></td><td><p>0,00</p></td></tr><tr><td><p>19</p></td><td><p>CIÊNCIA E TECNOLOGIA</p></td><td><p>0,00</p></td></tr><tr><td><p>20</p></td><td><p>AGRICULTURA</p></td><td><p>47.000,00</p></td></tr><tr><td><p>21</p></td><td><p>ORGANIZAÇÃO AGRARIA</p></td><td><p>0,00</p></td></tr><tr><td><p>22</p></td><td><p>INDÚSTRIA</p></td><td><p>0,00</p></td></tr><tr><td><p>23</p></td><td><p>COMERCIO E SERVICOS</p></td><td><p>0,00</p></td></tr><tr><td><p>24</p></td><td><p>COMUNICAÇÕES</p></td><td><p>0,00</p></td></tr><tr><td><p>25</p></td><td><p>ENERGIA</p></td><td><p>30.000,00</p></td></tr><tr><td><p>26</p></td><td><p>TRANSPORTE</p></td><td><p>20.000,00</p></td></tr><tr><td><p>27</p></td><td><p>DESPORTO E LAZER</p></td><td><p>44.000,00</p></td></tr><tr><td><p>28</p></td><td><p>ENCARGOS ESPECIAIS</p></td><td><p>142.000,00</p></td></tr><tr><td colspan="2"><p>           RESERVA DE CONTIGENCIA</p></td><td><p>0,00</p></td></tr><tr><td colspan="2"><p>TOTAL DAS DESPESAS</p></td><td><p>4.779.000,00</p></td></tr></tbody></table>
+
+
+§ 3º
+
+Discriminação da despesa por entidades orçamentárias:
+
+
+<table><tbody><tr><td><p>ENTIDADES DO MUNICIPIO</p></td><td><p>R$</p></td></tr><tr><td><p>PREFEITURA MUNICIPAL DE CLARAVAL</p></td><td><p>           4.534.000,00</p></td></tr><tr><td><p>CÂMARA MUNICIPAL DE CLARAVAL</p></td><td><p>              245.000,00</p></td></tr><tr><td colspan="2"><p>TOTAL DAS DESPESAS                                                                                                                                               4.779.000,00</p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Ficam os órgãos da Administração Direta autorizados a:
+
+
+a)
+
+realizar operações de crédito por antecipação de receita, com a finalidade de manter o equilíbrio financeiro do Município, observados os preceitos legais à matéria;
+
+
+b)
+
+abrir créditos suplementares até o limite de 30 % (trinta por cento) do montante dos respectivos orçamentos, utilizando-se dos recursos estabelecidos no art. 43 de Lei Federal 4320/64;
+
+
+c)
+
+utilizar reserva de contingência destinada ao atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos, conforme estabelecido na Lei de Diretrizes Orçamentárias.
+
+
+Art. 3º.
+
+Revogadas as disposições em contrário, esta Lei entrará em vigor no dia 1º de janeiro de 2004.
+
+
+CLARAVAL (MG), 31 de dezembro de 2003.
+
+JUSCELINO BATISTA BORGES
+
+Prefeito Municipal

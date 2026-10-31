@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 1.961, de 22 de outubro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1961"
+data: "1980-10-22"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1983"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2828/text"
+sha256_fonte: "eed10c3af7c0747791d58736505df44270fe40878daa31faf546c0bc88548aa0"
+sha256_texto: "8128acb67157884536b3ac70155bc60ee68605aaa148c26b7c90fa71a6f4c8ca"
+capturado_em_fonte: "2026-10-27T18:50:34.617491-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.961, de 22 de outubro de 1980
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL DE Cr$ 29.780.000,00.
+
+
+Eu, **ODEYR RAMOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir, por Decreto, no Serviço de Finanças – Setor de Contabilidade, o crédito adicional de Cr$ 29.780.000,00 (vinte e nove milhões, setecentos e oitenta mil cruzeiros), suplementar às seguintes dotações do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">2 - CHEFIA DO EXECUTIVO</td></tr><tr><td colspan="2">2.1 - GABINETE DO PREFEITO</td></tr><tr><td colspan="2">03070202.03 - Manutenção do Gabinete do Prefeito</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 500.000,00</td></tr><tr><td colspan="2">2.2 - SECRETARIA</td></tr><tr><td colspan="2">03070212.06 - Manutenção da Junta de Serviço Militar</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 100.000,00</td></tr><tr><td colspan="2">03070212.07 - Manutenção da Unidade Militar TG. 02-0012</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 70.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 2.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 30.000,00</td></tr><tr><td colspan="2">2.3 - PROCURADORIA</td></tr><tr><td colspan="2">03070212.08 - Manutenção da Procuradoria</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 180.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">3 - FINANÇAS</td></tr><tr><td colspan="2">3.1 - DIRETORIA</td></tr><tr><td colspan="2">3080312.09 - Manutenção da Diretoria de Finanças</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 150.000,00</td></tr><tr><td colspan="2">3.2 - TRIBUTAÇÃO</td></tr><tr><td colspan="2">03080302.10 - Manutenção do Setor de Tributação</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 570.000,00</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 150.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 130.000,00</td></tr><tr><td colspan="2">3.3 - TESOURARIA</td></tr><tr><td colspan="2">03080322.11 - Manutenção da Tesouraria</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 80.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">4 - ADMINISTRAÇÃO</td></tr><tr><td colspan="2">4.1 - SETOR PESSOAL</td></tr><tr><td colspan="2">03070242.15 - Manutenção do Setor Pessoal</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 140.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 28.000,00</td></tr><tr><td colspan="2">4.2 - ALMOXARIFADO</td></tr><tr><td colspan="2">03070212.16 - Manutenção do Almoxarifado</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 650.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 50.000,00</td></tr><tr><td colspan="2">4.3 - OFICINA DE REPARAÇÃO DE VEÍCULOS</td></tr><tr><td colspan="2">03070212.17 - Manutenção da Oficina de Reparação de Veículos</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 300.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 50.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">6 - SERVIÇOS MUNICIPAIS</td></tr><tr><td colspan="2">6.1 - SERVIÇO DE ESTRADAS DE RODAGEM MUNICIPAL (SERM)</td></tr><tr><td colspan="2">16885312.19 - Manutenção dos Serviços de Estradas</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 1.200.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 200.000,00</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 1.000.000,00</td></tr><tr><td colspan="2">6.3 - ADMINISTRAÇÃO DE SERVIÇOS URBANOS</td></tr><tr><td colspan="2">03070212.22 - Manutenção dos Serviços Urbanos</td></tr><tr><td colspan="2">Com recursos do Município</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 2.500.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 430.000,00</td></tr><tr><td colspan="2">6.4 ÁGUA E ESGOTOS</td></tr><tr><td colspan="2">SERVIÇO DE ÁGUA</td></tr><tr><td colspan="2">13764472.23 - Manutenção dos Serviços</td></tr><tr><td colspan="2">Com recursos do Município</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 2.000.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 400.000,00</td></tr><tr><td colspan="2">6.6 - LIMPEZA PÚBLICA</td></tr><tr><td colspan="2">10603252.27 - Manutenção dos Serviços</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 2.500.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 500.000,00</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 1.000.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 300.000,00</td></tr><tr><td colspan="2">6.8 - ILUMINAÇÃO PÚBLICA</td></tr><tr><td colspan="2">10603272.29 - Manutenção da Iluminação Pública</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 1.800.000,00</td></tr><tr><td colspan="2">6.9 - LOGRADOUROS PÚBLICOS</td></tr><tr><td colspan="2">10583232.30 - Conservação de Ruas e Avenidas</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 3.000.000,00</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 800.000,00</td></tr><tr><td colspan="2">10603282.31 - Conservação de Parques e Jardins</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 3.200.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 50.000,00</td></tr><tr><td colspan="2">6.10 - ABASTECIMENTO</td></tr><tr><td colspan="2">1163532.32 - Manutenção do Mercado Municipal</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 120.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2">6.12 - FÁBRICA DE ARTEFATOS DE CIMENTO</td></tr><tr><td colspan="2">03070212.34 - Manutenção da Fábrica de Artefatos de Cimento</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 300.000,00</td></tr><tr><td colspan="2">6.13 - SERVIÇO DE TRÂNSITO</td></tr><tr><td colspan="2">16915732.35 - Manutenção do Serviço de Trânsito</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 50.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">7 - EDUCAÇÃO E CULTURA</td></tr><tr><td colspan="2">7.1 - ENSINO DO 1º GRAU</td></tr><tr><td colspan="2">08421882.36 - Manutenção do Ensino do 1º Grau</td></tr><tr><td colspan="2">Com Recursos do Município</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 800.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 180.000,00</td></tr><tr><td>3230 - Transferências a Instituições Privadas </td><td>Cr$ 700.000,00</td></tr><tr><td colspan="2">7.6 - CULTURA</td></tr><tr><td colspan="2">08482472.45 - Manutenção da Biblioteca Pública Municipal</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 100.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 25.000,00</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 45.000,00</td></tr><tr><td colspan="2">08482472.46 - Manutenção da Corporação Musical “Maestro Antonio Passarelli”</td></tr><tr><td>3213 - Manutenção da Corporação </td><td>Cr$ 100.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">8 - SAÚDE E SANEAMENTO</td></tr><tr><td colspan="2">8.1 - ASSISTÊNCIA MÉDICO-HOSPITALAR</td></tr><tr><td colspan="2">13754282.47 - Manutenção da Assistência Médica e Sanitária</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 1.050.000,00</td></tr><tr><td>3113 - Obrigações Patronais </td><td>Cr$ 200.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 150.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">9 - ENCARGOS GERAIS DO MUNICÍPIO</td></tr><tr><td colspan="2">9.2 - INATIVOS E PENSIONISTAS</td></tr><tr><td colspan="2">15824952.55 - Manutenção do Quadro de Inativos e Pensionistas</td></tr><tr><td>3251 - Inativos </td><td>1.600.000,00</td></tr><tr><td>3252 - Pensionistas </td><td>Cr$ 230.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito a que se reporta o artigo anterior será coberto com recursos provenientes do excesso de arrecadação a se verificar em rubricas da **“RECEITA TRIBUTÁRIA”** do orçamento corrente.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e dois de outubro de mil novecentos e oitenta.
+
+**ODEYR RAMOS Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e dois de outubro de mil novecentos e oitenta, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

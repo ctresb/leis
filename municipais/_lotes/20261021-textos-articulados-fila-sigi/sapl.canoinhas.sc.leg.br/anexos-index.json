@@ -1,0 +1,128 @@
+{
+  "estado": "indice_completo",
+  "total": 11,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/acordao_adin.pdf da norma Lei nº 6.286, de 13 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2018/1/acordao_adin.pdf",
+      "ano": 2018,
+      "norma": 10921
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/comunicado_de_decisao_adin.pdf da norma Lei nº 6.486, de 10 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2020/2/comunicado_de_decisao_adin.pdf",
+      "ano": 2020,
+      "norma": 11360
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/3/evento_69_-_acor1.pdf da norma Lei nº 6.486, de 10 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2020/3/evento_69_-_acor1.pdf",
+      "ano": 2020,
+      "norma": 11360
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/evento_71_-_relvoto1.pdf da norma Lei nº 6.486, de 10 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2020/4/evento_71_-_relvoto1.pdf",
+      "ano": 2020,
+      "norma": 11360
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/certidao_5006073-59.2020.8.24.0000.pdf da norma Lei nº 6.486, de 10 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2020/5/certidao_5006073-59.2020.8.24.0000.pdf",
+      "ano": 2020,
+      "norma": 11360
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/anexo_lei_6682.pdf da norma Lei nº 6.682, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2021/6/anexo_lei_6682.pdf",
+      "ano": 2021,
+      "norma": 11599
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/ata_21a_reuniao_ordinaria_22_04_24.pdf da norma Decreto Legislativo nº 499, de 23 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "https://sapl.canoinhas.sc.leg.br/media/sapl/public/sessaoplenaria/1223/ata/ata_21a_reuniao_ordinaria_22_04_24.pdf",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2024/7/ata_21a_reuniao_ordinaria_22_04_24.pdf",
+      "ano": 2024,
+      "norma": 11946
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/8/ata_da_decima__sexta_ordinaria.pdf da norma Decreto Legislativo nº 496, de 05 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2023/8/ata_da_decima__sexta_ordinaria.pdf",
+      "ano": 2023,
+      "norma": 11770
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/vigesima_quarta_reuniao.pdf da norma Decreto Legislativo nº 497, de 12 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2023/9/vigesima_quarta_reuniao.pdf",
+      "ano": 2023,
+      "norma": 11787
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/ase2021-26_ordinaria.pdf da norma Decreto Legislativo nº 493, de 12 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2021/10/ase2021-26_ordinaria.pdf",
+      "ano": 2021,
+      "norma": 11613
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/11/18a_reuniao_ordinaria.pdf da norma Decreto Legislativo nº 492, de 14 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canoinhas.sc.leg.br/media/sapl/public/anexonormajuridica/2020/11/18a_reuniao_ordinaria.pdf",
+      "ano": 2020,
+      "norma": 11364
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canoinhas.sc.leg.br/8e41e0e84c4f4a6d2a7817cc55c31797a1bf435d8f272126d3023da94168ae66.json",
+      "url": "https://sapl.canoinhas.sc.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.canoinhas.sc.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "390ee8964ea04718b0023f1cb956f3615fcc440227c534144fe72832930e327a",
+      "bytes": 4537,
+      "capturado_em": "2026-10-27T22:29:58.799154-03:00"
+    }
+  ]
+}

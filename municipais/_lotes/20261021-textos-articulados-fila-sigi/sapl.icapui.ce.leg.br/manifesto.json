@@ -1,0 +1,172 @@
+{
+  "host": "sapl.icapui.ce.leg.br",
+  "metadados_unicos_observados": 1377,
+  "total_api_declarado": 1377,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/7f4b619532cf2e0973d954106c29195f932885a4ca74ccdae26e10812be8ebb8.json",
+    "url": "https://sapl.icapui.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c59730af5ef55e2a1f6810224b345031ff4a0bc72ab54a9704f35d98446a0cfd",
+    "bytes": 2645,
+    "capturado_em": "2026-10-28T14:06:02.583470-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/d950e3a67dc47cc2c2a7f7053402be568b40da435d4354799468d85c5d727de6.json",
+    "url": "https://sapl.icapui.ce.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.icapui.ce.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "457e2667b6cfd9f4257c1f8f621fd2363c78d34cc13e282c52fc37e5cdff6a04",
+    "bytes": 731,
+    "capturado_em": "2026-10-28T14:06:01.955230-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/afa930182a26ec24a2a64c97915c943c1eb73496fd867b7453109f6cdc801cfb.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e0a0751754ba5b6c88eac82b9f0089447849322b6a9599b35fc302e81326d3ca",
+      "bytes": 63917,
+      "capturado_em": "2026-10-28T14:06:04.020090-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/872af64c109e0a6de1dc967190b8632853b935fc89ff334389659dbb670bdea8.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "866200c0b6661f43b7148eae8bdc8d965481854f0d597d8b3996b34d758b7b72",
+      "bytes": 62571,
+      "capturado_em": "2026-10-28T14:06:05.029792-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/5858d88faeb2caad76d25db9d79ee05603155c016f462ebab4075f04036126f0.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "363b037d2418e4a7d5f193e674032e8e43b831df748299476b474869b6553ad0",
+      "bytes": 64450,
+      "capturado_em": "2026-10-28T14:06:06.067515-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/897b5253efefcb29de11637fb242f61733db4a70216de75728d468ab09785ef5.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f4c8e5ac957ebf76df9bffc355902f567fd3e6ccbb3daff1d101e49c37b4c61d",
+      "bytes": 62641,
+      "capturado_em": "2026-10-28T14:06:07.018565-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/2d9df0a66ba7d1b8bdcee79ac97e2331e12782006229aeb19c649e5480afb336.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e4b84081d12a3d581cc1918f6d525509d582861c867fed97c12922313558e0e1",
+      "bytes": 61290,
+      "capturado_em": "2026-10-28T14:06:08.033467-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/66a7bb044a90c7a09614c709a5b74384f1c3bc8277f54cd3607588223d2474f2.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ddd2a37102f8e2b6d1b09e14720818997742a7419ecf4b8ed37620c667061386",
+      "bytes": 59563,
+      "capturado_em": "2026-10-28T14:06:09.249121-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/1e85743a6758e6d8a9dc15d0d48c0b3edc1ebd43008426d91c18a6a66564f2b6.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d051745fa18d1c711e7cf09c251d19afda7bcc29067b2402b99fab5e6d521e34",
+      "bytes": 61156,
+      "capturado_em": "2026-10-28T14:06:10.040014-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/5c0d22c028fd2cb2d53116cd587f605757e50c4daa4ca90fd35d7d95c4800d22.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fe294793b131b18df380e30b8b39740788b0d1c3986d73754a1918ce3133a5b6",
+      "bytes": 59761,
+      "capturado_em": "2026-10-28T14:06:11.190101-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/2a903d00e6468a7b39d0811b542771a3a00f4bf55d0261396e49f582a7b948a0.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "97ae3b64c839b9c74169bab5169cbe8d84b4b94a738292fc9192589d670d3b61",
+      "bytes": 60709,
+      "capturado_em": "2026-10-28T14:06:12.043962-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/8e7c94c827a9ea8137fa8b3ff3cbfce573f8b3ebda688d26ae9b0a166eb92308.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3789a2026383cae885ee664dd208b1f7d875fb7562a58b7b45b8ff4816a41240",
+      "bytes": 58453,
+      "capturado_em": "2026-10-28T14:06:13.221937-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/03f7cbc7d8f95a728f8306346c1ecf65565de439513e63474463e85a8f440004.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9254d80810b0c7f26417af322fcf35b23761a0e9df5bc9a2de1ef7cce0632f32",
+      "bytes": 59192,
+      "capturado_em": "2026-10-28T14:06:14.034421-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/59423edb8023503ddd01ac09331253910e4e7d64572be2ceb8604dc71532af24.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0cd599822c8239d01e8b20236d224e05ea0bc9e25734204c3c61b42ac603ad97",
+      "bytes": 57069,
+      "capturado_em": "2026-10-28T14:06:17.219185-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/a53a862e2e182a950e1b485a6c67852b67ab22d750d311f7baf074ade767d9ec.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "76369c8650ab67dc25b4f2eb60a28bb9757b2eb4e3b15518f34a2cf167d87d43",
+      "bytes": 57589,
+      "capturado_em": "2026-10-28T14:06:18.011886-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/b518daae2d9877fe6e9d22db7dc4114ef31f69f1d87538bbea040efc32548363.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.icapui.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "915a1f88f2200334eb68a0d21ca64e0da7ff29010507704d80048de718ed549a",
+      "bytes": 42950,
+      "capturado_em": "2026-10-28T14:06:19.124186-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

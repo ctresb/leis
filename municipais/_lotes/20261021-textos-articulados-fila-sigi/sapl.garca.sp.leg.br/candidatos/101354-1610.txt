@@ -1,0 +1,264 @@
+CÂMARA MUNICIPAL DE GARÇA
+
+ESTADO DE SÃO PAULO
+
+**ATO DA MESA Nº 11/2021**
+
+
+REGULAMENTA A APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS – LGPD (LEI Nº 13.709/2018) NO ÂMBITO DA CÂMARA MUNICIPAL DE GARÇA
+
+
+A Mesa da Câmara Municipal de Garça, Estado de São Paulo, usando das atribuições que lhe são conferidas pela Lei Orgânica Municipal.
+
+Considerando a necessidade de dotar o Poder Legislativo de mecanismos de tratamento e proteção de dados pessoais, objetivando o cumprimento da Lei 13.709, de 14 de agosto de 2018 (LGPD);
+
+Considerando, ainda, o que dispõe o artigo 25, inciso I, da Lei Orgânica do Município de Garça;
+
+
+**R E S O L V E:**
+
+
+Art. 1º.
+
+Este Ato regulamenta, no âmbito da Câmara Municipal de Garça, a aplicação da Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD).
+
+
+§ 1º
+
+Para os fins dispostos neste Ato, adotam-se as terminologias previstas no art. 5° da Lei n. 13.709/2018.
+
+
+§ 2º
+
+Este Ato não se aplica ao tratamento de dados pessoais realizados diretamente por Vereadores, lideranças partidárias ou de governo, bem como frentes parlamentares, quando o tratamento não utilizar sistemas institucionais da Câmara Municipal.
+
+
+Art. 2º.
+
+Considera-se legítimo interesse da Câmara Municipal de Garça, de que trata o art. 10 da Lei nº 13.709/2018, sem prejuízo de outras hipóteses previstas na legislação, a manutenção e promoção do Poder Legislativo, a aproximação com a sociedade, a preservação histórica, o exercício das atividades de representação do povo garcense, de legislar sobre matérias de competência municipal, de controle e fiscalização dos atos do Poder Executivo e da aplicação dos recursos públicos, bem como o fortalecimento da democracia.
+
+
+Art. 3º.
+
+A Câmara Municipal de Garça, na condição de Controladora (art. 5º, VI, da Lei nº 13.709/2018), manterá registro das operações de tratamento de dados pessoais que realizar, especialmente quando baseado no legítimo interesse.
+
+
+Parágrafo único
+
+O registro de que trata o caput deste artigo também será realizado pela Comissão de Avaliação de Documentos e Acesso – CADA, que atuará como Operadora de dados pessoais (art. 5º, VII, da Lei nº 13.709/2018).
+
+
+Art. 4º.
+
+Os direitos do titular de dados pessoais, em qualquer caso, serão ponderados com o interesse público de conservação de dados históricos, preservação da transparência da instituição e das condutas de agentes públicos, no exercício de suas atribuições, e divulgação de informações relevantes à sociedade, no exercício da democracia.
+
+
+Art. 5º.
+
+O titular dos dados pessoais tem o direito de peticionar, em relação aos seus dados, contra a unidade administrativa que realizou o tratamento, mediante requerimento endereçado à Controladoria do Poder Legislativo.
+
+
+Art. 6º.
+
+As informações e os dados poderão ser fornecidos, a critério do titular:
+
+
+I –
+
+por meio eletrônico, seguro e idôneo para esse fim, sem custos;
+
+
+II –
+
+sob forma impressa, com custos pagos pelo solicitante.
+
+
+Art. 7º.
+
+A Câmara Municipal elaborará relatório de impacto à proteção de dados pessoais, inclusive de dados sensíveis, referente a suas operações de tratamento de dados.
+
+
+Art. 8º.
+
+Os padrões de interoperabilidade para fins de portabilidade, livre acesso aos dados e segurança, assim como sobre o tempo de guarda dos registros, tendo em vista especialmente a necessidade e a transparência serão definidas pela Comissão de Avaliação de Documentos e Acesso – CADA.
+
+
+Art. 9º.
+
+Caberá ao Controlador do Legislativo exercer as funções de Encarregado (art. 5º, VIII, da Lei nº 13.709/2018), atuando como canal de comunicação entre a Câmara, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD), bem como com outras entidades de proteção de dados pessoais com as quais a Edilidade estabeleça acordo de serviço ou de cooperação técnica.
+
+
+§ 1º
+
+A identidade e as informações de contato do Encarregado serão publicadas no portal do Legislativo.
+
+
+§ 2º
+
+Compete ao Encarregado pelo tratamento de dados pessoais na Câmara Municipal de Garça:
+
+
+I –
+
+receber reclamações e comunicação dos titulares dos dados, prestar esclarecimentos e adotar providências, observado o disposto no art. 4° deste Ato;
+
+
+II –
+
+receber comunicações da ANPD e adotar providências;
+
+
+III –
+
+orientar os servidores do Poder Legislativo a respeito das práticas a serem adotadas em relação à proteção de dados pessoais;
+
+
+IV –
+
+executar as demais atribuições determinadas pela Câmara ou estabelecidas em normas complementares.
+
+
+§ 3º
+
+Devem ser comunicadas ao Encarregado, pelo gestor da unidade administrativa responsável pelo tratamento dos dados:
+
+
+I –
+
+a existência de qualquer tipo de tratamento de dados pessoais;
+
+
+II –
+
+contratos que envolvam dados pessoais;
+
+
+III –
+
+situações de conflito entre a proteção de dados pessoais, o princípio da transparência ou algum outro interesse público;
+
+
+IV –
+
+qualquer outra situação que precise de análise e encaminhamento.
+
+
+Art. 10.
+
+O Encarregado comunicará à Presidência da Câmara, bem como ao titular dos dados, a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares.
+
+
+§ 1º
+
+A comunicação será feita em prazo razoável, conforme definido em regulamento, e deverá mencionar, no mínimo:
+
+
+I –
+
+a descrição da natureza dos dados pessoais afetados;
+
+
+II –
+
+as informações sobre os titulares envolvidos;
+
+
+III –
+
+a indicação das medidas técnicas e de segurança utilizadas para a proteção dos dados, observados os segredos comercial e industrial;
+
+
+IV –
+
+os riscos relacionados ao incidente;
+
+
+V –
+
+os motivos da demora, caso a comunicação não tenha sido imediata;
+
+
+VI –
+
+as medidas que foram ou que serão adotadas para reverter ou mitigar os efeitos do prejuízo.
+
+
+§ 2º
+
+O Presidente da Câmara verificará a gravidade do incidente e poderá, ouvida a Procuradoria Legislativa, caso necessário para a salvaguarda dos direitos dos titulares, determinar a adoção de providências, tais como:
+
+
+I –
+
+divulgação ampla do fato em meios de comunicação, especialmente no portal da Câmara Municipal;
+
+
+II –
+
+medidas para reverter ou mitigar os efeitos do incidente.
+
+
+§ 3º
+
+No juízo de gravidade do incidente, será avaliada eventual comprovação de que foram adotadas medidas técnicas adequadas que tornem os dados pessoais afetados ininteligíveis, no âmbito e nos limites técnicos de seus serviços, para terceiros não autorizados a acessá-los.
+
+
+Art. 11.
+
+O pedido de dados pessoais, solicitado pelo titular, não se confunde com o pedido realizado com fundamento na Lei n. 12.527/2011 e no Ato da Mesa nº 08/2018, mantendo-se válidos os dispositivos que restringem o acesso a informações pessoais por terceiros, salvo após decorrência do prazo de sigilo, previsão legal ou consentimento expresso do titular.
+
+
+Parágrafo único
+
+Deverá constar do respectivo termo de uso as informações pessoais tratadas pela Câmara Municipal que puderem ser fornecidas por meio de solicitação fundamentada na Lei n. 12.527/2011 e no Ato da Mesa nº 08/2018.
+
+
+Art. 12.
+
+Será procedida a adequação progressiva de bancos de dados e sistemas constituídos e utilizados pelo Poder Legislativo, consideradas a complexidade das operações de tratamento e a natureza dos dados.
+
+
+Art. 13.
+
+Caberá à Comissão de Avaliação de Documentos e Acesso – CADA:
+
+
+I –
+
+expedir normas regulamentares necessárias ao cumprimento da Lei n. 13.709/2018 e deste Ato;
+
+
+II –
+
+assegurar o cumprimento das normas relativas à proteção dos dados pessoais, de forma adequada aos objetivos da Lei nº 13.709/2018;
+
+
+III –
+
+recomendar à Mesa Diretora as medidas indispensáveis à implementação e ao aperfeiçoamento das normas e procedimentos necessários ao correto cumprimento do disposto na Lei nº 13.709/2018;
+
+
+IV –
+
+monitorar a aplicação da Lei nº 13.709/2018 e deste Ato no âmbito da Câmara Municipal de Garça.
+
+
+Art. 14.
+
+Este Ato da Mesa entra em vigor na data de sua publicação.
+
+
+Art. 15.
+
+Ficam revogadas as disposições em contrário.
+
+
+Garça/SP, 21 de junho de 2021.
+
+<table><tbody><tr><td><p><strong>RAFAEL JOSÉ FRABETTI</strong><br><strong>Presidente</strong></p></td><td><p><strong>RODRIGO GUTIERRES</strong><br><strong>Vice-Presidente</strong></p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p><strong>DR. MARCELO MIRANDA</strong><br><strong>1º Secretário</strong></p></td><td><p><strong>ADHEMAR KEMP MARCONDES </strong><br><strong>DE </strong><strong>MOURA FILHO</strong><br><strong>2º Secretário</strong></p></td></tr></tbody></table>
+
+**RAFAEL DE OLIVEIRA MATHIAS**
+
+**Procurador Legislativo Registrado e publicado na Secretaria Administrativa e Financeira da Câmara Municipal de Garça, na data supra JOSÉ ROBERTO CARVALHO Secretário Administrativo e Financeiro**

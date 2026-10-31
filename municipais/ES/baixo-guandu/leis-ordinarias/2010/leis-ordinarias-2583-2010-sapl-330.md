@@ -1,0 +1,76 @@
+---
+titulo: "Lei Ordinária nº 2.583, de 02 de março de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2583"
+data: "2010-03-02"
+municipio: "Baixo Guandu"
+uf: "ES"
+codigo_ibge: "3200805"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2019-05-20; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.baixoguandu.es.leg.br/norma/330"
+fonte_texto: "https://sapl.baixoguandu.es.leg.br/ta/39/text"
+sha256_fonte: "435d42b1172d88b8b7cc6eb178096317efc1dd2f29dbf7683f3e24d36ea35642"
+sha256_texto: "6be7f36e583e40f8c187e7d7c199d1cd840c3c579792553e99641cccdfdb3f2b"
+capturado_em_fonte: "2026-10-27T17:02:46.405663-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.583, de 02 de março de 2010
+
+“Altera redação da lei 2505/2009 e dá outras providências”.
+
+
+O PREFEITO MUNICIPAL DE BAIXO GUANDU, ESTADO DO ESPÍRITO SANTO, no uso de suas atribuições que lhe foram conferidas pela LEI ORGÂNICA MUNICIPAL, faz saber que a Câmara Municipal de Baixo Guandu-ES APROVOU e ele SANCIONA a seguinte lei:
+
+
+Art. 1º.
+
+Fica alterado o anexo I da lei 2505/2009 acrescentando os seguintes cargos:
+
+
+<table><tbody><tr><td><strong>CARGO</strong></td><td><strong>QUANTIDADE</strong></td><td><strong>REMUNERAÇÃO</strong></td></tr></tbody></table>
+
+
+<table><tbody><tr><td>AUXILIAR CONTÁBIL</td><td>1</td><td>R$ 1.694,01</td></tr></tbody></table>
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.998, de 20 de maio de 2019.
+
+
+<table><tbody><tr><td>DIRETOR GERAL</td><td>1</td><td>R$ 3.800,00</td></tr></tbody></table>
+
+Alteração feita pelo Art. 5º. - Lei Ordinária nº 2.913, de 08 de março de 2017.
+
+
+Art. 2º.
+
+Fica alterado o anexo II da lei 2505/2009 passando a vigorar com a seguinte redação:
+
+
+15 ENCARREGADO DE VIGILÂNCIA 15.1 Requisitos de preenchimento - ensino fundamental incompleto - nacionalidade brasileira; - maioridade
+
+
+18 AUXILIAR CONTÁBIL 18.1 Requisitos de Preenchimento - ensino médio completo; - nacionalidade brasileira; - maioridade; - conhecimentos de informática a serem atestados pelo chefe imediato;
+
+
+18.2 ATRIBUIÇÕES DO CARGO - auxiliar o departamento contábil no que lhe for designado; - manter os controles de almoxarifado e patrimônio; - classificar e arquivar os documentos contábeis; - desempenhar atribuições impostas pela Presidência da Câmara; - atender os vereadores quanto aos seus processos individuais que tramitam pelo setor contábil;
+
+
+19 DIRETOR GERAL 19.1 Requisitos de Preenchimento - ensino superior completo; - nacionalidade brasileira; - maioridade - conhecimentos de informática, a serem atestados pelo Presidente;
+
+
+19.2 ATRIBUIÇÕES DO CARGO - Prestar assessoria especial ao Presidente e à Mesa Diretora nos aspectos administrativos e funciona!, bem como à organização dos serviços internos do Legislativo, quando solicitados; - Orientar e coordenar os serviços e atividades atribuídas aos servidores em geral; - Orientar os vereadores e servidores no cumprimento das Leis, Resoluções, Portarias, ordens de serviço e demais atos administrativos; - Propor métodos e rotinas visando a racionalização dos serviços da Câmara Municipal; - Propor, orientar e acompanhar a elaboração de planos e projetos, visando a otimização dos processos de controle e o estabelecimento de normas e procedimentos para o funcionamento da Câmara Municipal; - Orientar e supervisionar todos as atividades administrativas ligadas as áreas de material, compras, patrimônio, documentação, atendimento a público, organização dos serviços, orçamento, contabilidade entre outras determinadas pela Mesa Diretora; - Supervisionar e orientar a operacionalização dos serviços para a prestação de serviços e tarefas atribuídas em caráter excepcional, bem como atestar o montante de horas extraordinárias que vierem a serem prestados; - Supervisionar e controlar a Freqüência dos servidores submetidos a controle de jornada, detendo em sua posse o livro de controle de jornada de trabalho; - Supervisionar os procedimentos administrativos relativos às licitações e concursos públicos; - Supervisionar a elaboração do orçamento anual do Poder Legislativo Municipal de Baixo Guandu/ES
+
+
+Art. 3º.
+
+Fica extinto o cargo de Chefe de Gabinete.
+
+
+Art. 4º.
+
+Esta lei entra em vigor na data de sua publicação, revogando quaisquer disposições em contrário
+

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.dilermandodeaguiar.rs.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dilermandodeaguiar.rs.leg.br/c92d7dacceace2536d43bdb8117db2c6e6a86baa4685c006df9d8e063f77cb09.json",
+    "url": "https://sapl.dilermandodeaguiar.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.dilermandodeaguiar.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ad64747805996dcbde6d82498cf2c77e5ae4f5261a573e5566bd6b0033c8c50f",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:46:11.366323-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dilermandodeaguiar.rs.leg.br/741b533742df09061af7bb9b4c3aa6f6e4000d1b0b881b6595fba92dfa744383.json",
+    "url": "https://sapl.dilermandodeaguiar.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.dilermandodeaguiar.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e18d2dfc80f3d9eaf1aaa3bd7c9974e65fc194bda744e4e8ad86749ca92d1e",
+    "bytes": 861,
+    "capturado_em": "2026-10-28T09:46:10.719109-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dilermandodeaguiar.rs.leg.br/efa8c8219d13baf66cb9cbec381ec1db5ca15453092ae231e56da9a7fceac631.json",
+      "url": "https://sapl.dilermandodeaguiar.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.dilermandodeaguiar.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T09:46:13.368131-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

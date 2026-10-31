@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feijo.ac.leg.br/7c1f1129794f15c25c18dd088cc04e42fa4724e8f6a628f73845966e0a717ce7.json",
+      "url": "https://sapl.feijo.ac.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.feijo.ac.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T10:32:03.726254-03:00"
+    }
+  ]
+}

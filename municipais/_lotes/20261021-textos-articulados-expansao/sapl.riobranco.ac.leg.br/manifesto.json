@@ -1,0 +1,102 @@
+{
+  "host": "sapl.riobranco.ac.leg.br",
+  "metadados_unicos_observados": 626,
+  "total_api_declarado": 626,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 514,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/4fd69aa888a6ab4a3e5319c8add18a62ea4af132904d367fbd7a53d4863b5212.json",
+    "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "43c84f958a7891d56f19e91363f6d153daf38e59c0e6b13894b7b3a21935c8db",
+    "bytes": 957,
+    "capturado_em": "2026-10-21T03:32:20.827015-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/d77c0e17478d2499ec77a1e10ce2315d44589e557cff327755d17e6319635290.json",
+    "url": "https://sapl.riobranco.ac.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.riobranco.ac.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "670379dbd69439ea7d0806c439ac341d861ba6d8d4ffcc169fd4cd892c283c0c",
+    "bytes": 741,
+    "capturado_em": "2026-10-21T03:32:22.631400-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/f7364d8fbebe2ae4a7f0fad62831b21c3b3ca20f06120b3327505307516b51ad.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d41238e3947d599d868b29e6750552b5e1e4d9db7739e63421e35f9cf9ec408c",
+      "bytes": 60297,
+      "capturado_em": "2026-10-21T03:32:26.658588-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/538d9c44db8f1ab22f498487aeb08da02bbba6f4ff15c568c64a1a3b1933933d.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a6bb5507a3c8bad4f19bcbb1ea0335db67ebbb9310287956b368c6da6a521869",
+      "bytes": 63405,
+      "capturado_em": "2026-10-21T03:37:41.333366-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/9abe4b73e772c9152eceefa745f57b4278e4bedf3969afcb824cc723b05af171.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c184bc5d0964ad3739f32140ca0971a5e6f94da72823474f96bfd7722a4a6d89",
+      "bytes": 62384,
+      "capturado_em": "2026-10-21T03:40:50.301782-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/53431f84fd04c3f5c31b7ff3172bc47898a32f45d9ffbaff40d7ae1e7563aae9.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a70c236fa70cf0f5c43e9b73cda78f207cb35381352c4eb79010a01853d34735",
+      "bytes": 58708,
+      "capturado_em": "2026-10-21T03:47:09.480528-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/d01e0ae82eebca39164afc124804eadb0f84e024a798c876a30f021d1a91dc29.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5ef153dd9c81d84da5989e04baa632d135514fb8e7be218f41cf4b96b55dd4c8",
+      "bytes": 57667,
+      "capturado_em": "2026-10-21T03:53:59.405869-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/ea094d51133bf4c3a147424f9828bc18b61cd25d7242098959d4306446e8fbdf.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "56bdcc41fb28925005c1974f318709e1361be9993ba16cc5d93bfa34a4d6d1ff",
+      "bytes": 61074,
+      "capturado_em": "2026-10-21T03:59:45.136968-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/06ab9c9eb0d97369e4d43e760e5d60a12b20687c039896b1981615c8ec224b4a.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6dd03de0afc8091aca4ed3a0cbd29a6a9610f027fbdd8cec8c8af296d258414e",
+      "bytes": 16140,
+      "capturado_em": "2026-10-21T04:05:41.053433-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,208 @@
+Autoriza o uso de meio eletrônico para tramitação de documentos, atos e processos administrativos na Câmara Municipal de Formosa-GO e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORMOSA, Estado de Goiás, aprovou, e eu, sanciono a seguinte Resolução:
+
+
+Art. 1º.
+
+Fica autorizado o uso do meio eletrônico para tramitação de documentos, atos e processos administrativos na Câmara Municipal de Formosa, visando atender aos ditames da Constituição Federal de 1988 referentes aos artigos 37 e 225, estabelecendo assim medidas de proteção ao meio ambiente e também atendendo aos seguintes princípios administrativos: Princípio da Eficiência, Princípio da Celeridade e Princípio da Economia.
+
+
+§ 1º
+
+Para o disposto nesta Resolução, considera-se:
+
+
+I –
+
+meio eletrônico – qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais;
+
+
+II –
+
+transmissão eletrônica – toda forma de comunicação à distância com a utilização de redes de comunicação, preferencialmente a rede mundial de computadores (Internet);
+
+
+III –
+
+assinatura eletrônica – as seguintes formas de identificação inequívoca do signatário:
+
+
+a)
+
+assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, na forma de Lei Federal específica;
+
+
+b)
+
+mediante cadastro de usuário, na Câmara Municipal, conforme disciplinado pelos respectivos.
+
+
+Art. 2º.
+
+O envio de documentos e a prática de atos em geral por meio eletrônico serão admitidos mediante uso de assinatura eletrônica, na forma do art. 1º desta Resolução, por meio de credenciamento.
+
+
+§ 1º
+
+O credenciamento na Câmara Municipal será realizado mediante procedimento no qual esteja assegurada a adequada identificação presencial do interessado.
+
+
+§ 2º
+
+Ao credenciado será atribuído registro e meio de acesso ao sistema, de modo a preservar o sigilo, a identificação e a autenticidade de suas comunicações.
+
+
+§ 3º
+
+A Câmara Municipal poderá criar um cadastro único para o credenciamento previsto neste artigo.
+
+
+Art. 3º.
+
+Consideram-se realizados todos os atos por meio eletrônico no dia e hora do seu envio ao Sistema Legislativo, que deverá fornecer protocolo eletrônico.
+
+
+Parágrafo único.
+
+Para atender prazo regimental, serão considerados tempestivos os documentos eletrônicos que forem enviados até as 24 (vinte e quatro) horas do seu último dia.
+
+
+Art. 4º.
+
+A Câmara Municipal poderá criar o Diário Oficial Eletrônico, disponibilizado em sítio da rede mundial de computadores (Internet), para publicação de todos os atos administrativos próprios, bem como comunicações em geral e publicar todas as Leis Municipais.
+
+
+§ 1º
+
+O sítio e o conteúdo das publicações de que trata este artigo deverão ser assinados digitalmente com base em certificado emitido por Autoridade Certificadora credenciada na forma da Lei Federal específica.
+
+
+§ 2º
+
+A publicação eletrônica na forma deste artigo é um dos meios de publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal.
+
+
+§ 3º
+
+Considera-se como data da publicação o primeiro dia útil seguinte ao da disponibilização da informação.
+
+
+§ 4º
+
+Os prazos terão início no primeiro dia útil que seguir ao considerado como data da publicação.
+
+
+§ 5º
+
+A criação do Diário Oficial Eletrônico deverá ser acompanhada de ampla divulgação e o ato administrativo correspondente será publicado durante 30 (trinta) dias no diário oficial em uso.
+
+
+Art. 5º.
+
+A Câmara Municipal de Formosa poderá desenvolver sistemas eletrônicos de processamento digitais, utilizando, preferencialmente, a rede mundial de computadores e acesso por meio de redes internas e externas.
+
+
+§ 1º
+
+Todos os atos por meio eletrônico serão assinados eletronicamente na forma estabelecida em Lei.
+
+
+§ 2º
+
+Quando, por motivo técnico, for inviável o uso do meio eletrônico, esses atos poderão ser praticados segundo as regras ordinárias, digitalizando-se os documentos físicos, que deverão ser posteriormente destruídos.
+
+
+Art. 6º.
+
+A autuação se dará de forma automática, fornecendo-se recibo eletrônico de protocolo.
+
+
+§ 1º
+
+Quando o ato tiver que ser praticado em determinado prazo, por meio eletrônico, serão considerados tempestivos os efetivados até as 24 (vinte e quatro) horas do último dia.
+
+
+§ 2º
+
+No caso do §1º deste artigo, se o Sistema Municipal se tornar indisponível por motivo técnico, o prazo fica automaticamente prorrogado para o primeiro dia útil seguinte à resolução do problema.
+
+
+§ 3º
+
+Os Órgãos do Município poderão manter equipamentos de digitalização e de acesso à rede mundial de computadores à disposição dos interessados para envio de documentos.
+
+
+Art. 7º.
+
+Os documentos produzidos eletronicamente e juntados aos processos administrativos eletrônicos com garantia da origem e de seu signatário, na forma estabelecida nesta Lei, serão considerados originais para todos os efeitos legais.
+
+
+§ 1º
+
+Os extratos digitais, os documentos digitalizados e juntados por órgãos públicos, pelas repartições públicas, em geral e seus auxiliares, pela Justiça e seus auxiliares, pelo Ministério Público e seus auxiliares, pelas procuradorias, pelas autoridades policiais, por advogados públicos e privados, têm a mesma força probante dos originais, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização.
+
+
+§ 2º
+
+A arguição de falsidade do documento original será processada na forma da lei processual em vigor.
+
+
+§ 3º
+
+Os originais dos documentos digitalizados, mencionados no §2º deste artigo, deverão ser preservados pelo seu detentor.
+
+
+§ 4º
+
+Os documentos cuja digitalização seja tecnicamente inviável devido ao grande volume ou por motivo de ilegibilidade deverão ser apresentados à secretaria geral no prazo de 10 (dez) dias contados do envio de petição eletrônica comunicando o fato, os quais serão devolvidos à parte após o trânsito em julgado.
+
+
+Art. 8º.
+
+A conservação dos documentos poderá ser efetuada total ou parcialmente por meio eletrônico.
+
+
+§ 1º
+
+Os documentos eletrônicos deverão ser protegidos por meio de sistemas de segurança de acesso e armazenados em meio que garanta a preservação, integridade, confidencialidade e disponibilidade dos dados.
+
+
+Art. 9º.
+
+A Câmara Municipal poderá proceder à transferência, gradativamente, de toda a documentação impressa para digital, em prazo a ser estabelecido por regulamentação expedida.
+
+
+Art. 10.
+
+A Câmara Municipal poderá regulamentar esta Resolução no que lhe couber e no âmbito de suas respectivas competências a partir de sua publicação.
+
+
+Art. 11.
+
+As despesas decorrentes da presente Resolução correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.
+
+
+Art. 12.
+
+Esta resolução entrará em vigor na data de sua publicação.
+
+
+Gabinete da Presidência da Câmara Municipal de Formosa, 12 de dezembro de 2012.
+
+Ver. EDMUNDO NUNES DOURADO
+
+Presidente da Câmara
+
+Ver. DIVINO RAMOS DA SILVA
+
+1º Secretário
+
+Registrada as fls. do Livro próprio.  
+Publicado no Placard da Câmara.  
+Data supra.  
+  
+  
+PAULO NATALINO DUTRA  
+Secretário Geral

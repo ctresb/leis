@@ -1,0 +1,102 @@
+{
+  "estado": "indice_completo",
+  "total": 7,
+  "anexos": [
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/01_-_resolucao_01_de_2022_atualizado.pdf da norma Resolução nº 1, de 29 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Atualização de anexos da Resolução 01/2022",
+      "anexo_arquivo": "http://sapl.delfimmoreira.mg.leg.br/media/sapl/public/anexonormajuridica/2022/3/01_-_resolucao_01_de_2022_atualizado.pdf",
+      "ano": 2022,
+      "norma": 1669
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/4/pl_23.2023_credito_suplementar_superavit_turismo_e_educacao.pdf da norma Lei Ordinária nº 1.564, de 30 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.delfimmoreira.mg.leg.br/media/sapl/public/anexonormajuridica/2023/4/pl_23.2023_credito_suplementar_superavit_turismo_e_educacao.pdf",
+      "ano": 2023,
+      "norma": 1837
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/pl_24.2023_credito_suplementar_superavit_saude_gov_adm.pdf da norma Lei Ordinária nº 1.565, de 30 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.delfimmoreira.mg.leg.br/media/sapl/public/anexonormajuridica/2023/5/pl_24.2023_credito_suplementar_superavit_saude_gov_adm.pdf",
+      "ano": 2023,
+      "norma": 1838
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/pl_26.2023_credito_suplementar_anulacao_aquisicao_de_veiculos_social.pdf da norma Lei Ordinária-EXECT nº 1.566, de 19 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.delfimmoreira.mg.leg.br/media/sapl/public/anexonormajuridica/2023/6/pl_26.2023_credito_suplementar_anulacao_aquisicao_de_veiculos_social.pdf",
+      "ano": 2023,
+      "norma": 1843
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/7/portaria_no_02_-_2023_-_atualizacao_diarias_inpc_1.pdf da norma Resolução nº 1, de 29 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre o reajuste dos valores pagos com diárias aos agentes políticos e aos servidores da Câmara Municipal de Delfim Moreira-MG",
+      "anexo_arquivo": "http://sapl.delfimmoreira.mg.leg.br/media/sapl/public/anexonormajuridica/2022/7/portaria_no_02_-_2023_-_atualizacao_diarias_inpc_1.pdf",
+      "ano": 2022,
+      "norma": 1669
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/8/portaria_no_04-2024.pdf da norma Resolução nº 1, de 29 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Marcus Vinicius de Oliveira Costa",
+                [
+                  "2024-02-07T09:57:20-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Dispõe sobre o reajuste dos valores pagos com diárias aos agentes políticos e aos servidores da Câmara Municipal de Delfim Moreira-MG",
+      "anexo_arquivo": "http://sapl.delfimmoreira.mg.leg.br/media/sapl/public/anexonormajuridica/2022/8/portaria_no_04-2024.pdf",
+      "ano": 2022,
+      "norma": 1669
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/pll_no_13_-_2023__nome_de_rua_antonio.pdf da norma Lei Ordinária-GP nº 1.588, de 05 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei do Legislativo 13/2023",
+      "anexo_arquivo": "http://sapl.delfimmoreira.mg.leg.br/media/sapl/public/anexonormajuridica/2024/9/pll_no_13_-_2023__nome_de_rua_antonio.pdf",
+      "ano": 2024,
+      "norma": 1907
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.delfimmoreira.mg.leg.br/bca347c2ce922143086fc3b2818c40220251c2a51daf6fb72a57068df2db313b.json",
+      "url": "https://sapl.delfimmoreira.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5e29693b864ba31a3127949bb4ac50aa6c1d9c5d612e66893e3528ed11c58362",
+      "capturado_em": "2026-10-20T21:20:39.794417",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.delfimmoreira.mg.leg.br/bca347c2ce922143086fc3b2818c40220251c2a51daf6fb72a57068df2db313b.json"
+    }
+  ]
+}

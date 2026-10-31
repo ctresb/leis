@@ -1,0 +1,406 @@
+---
+titulo: "Lei Complementar nº 322, de 11 de janeiro de 2022"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "322"
+data: "2022-01-11"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; 2025-12-22; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13373"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3801/text"
+sha256_fonte: "212c8c2cf7250b0e88047fddb6f50ec4a6d5df784f0519a9a9468cd48a1f5257"
+sha256_texto: "b77cbe2bb40a11e9a5e1f497327f6087d0055ed98a78e2f1acfc9b6ee5635d13"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Complementar nº 322, de 11 de janeiro de 2022
+
+Cria a Escola do Parlamento, no âmbito da Câmara Municipal de Fortaleza.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica criada a Escola do Parlamento, no âmbito da Câmara Municipal de Fortaleza, subordinada à Mesa Diretora.
+
+
+Art. 2º.
+
+São objetivos da Escola do Parlamento:
+
+
+I –
+
+oferecer aos vereadores e aos servidores da Câmara Municipal de Fortaleza suporte conceitual e treinamento para o exercício das atividades legislativas e administrativas relacionadas ao mandato parlamentar;
+
+
+II –
+
+qualificar os servidores nas atividades de suporte técnico, ampliando a sua formação em assuntos legislativos, administrativos e outros relacionados às funções do Poder Legislativo;
+
+
+III –
+
+estimular a pesquisa acadêmica relacionada às funções do Poder Legislativo, em cooperação com outras instituições de ensino públicas ou privadas;
+
+
+IV –
+
+planejar e organizar eventos sobre temas de repercussão na sociedade que contribuam para a educação política e para o aprimoramento da atividade parlamentar;
+
+
+V –
+
+celebrar e gerenciar convênios com órgãos e entidades da administração pública municipal, estadual ou federal; com associações civis e entidades de classe; com instituições de ensino superior e escolas técnicas; propiciando, entre outras atividades conjuntas, a participação de servidores e agentes políticos em conferências, treinamentos e cursos, em formato presencial ou a distância;
+
+
+VI –
+
+desenvolver programas de ensino visando a formação e a qualificação de lideranças comunitárias e políticas;
+
+
+VII –
+
+realizar ações de educação para a cidadania, buscando a aproximação da sociedade fortalezense com a Câmara Municipal;
+
+
+VIII –
+
+informar e capacitar a sociedade fortalezense em temas relacionados com as atividades institucionais do Poder Legislativo;
+
+
+IX –
+
+empreender atividades de treinamento, de capacitação e de ambientação organizacional dos servidores em estágio probatório;
+
+
+X –
+
+elaborar ações motivacionais, por meio de palestras, atividades e políticas de relações humanas;
+
+
+XI –
+
+desenvolver ações de preparo e programas de aposentadoria dos servidores.
+
+
+XII –
+
+promover capacitação em áreas estratégicas de tecnologia, com ênfase em programação e inteligência artificial;
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+XIII –
+
+desenvolver atividades educacionais que incorporem princípios de responsabilidade social e sustentabilidade.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+Art. 3º.
+
+A Mesa Diretora da Câmara Municipal de Fortaleza editará o regulamento da Escola do Parlamento, bem como outros atos complementares necessários ao desempenho de suas atividades.
+
+
+#### CAPÍTULO II — DO CORPO DOCENTE
+
+
+Art. 4º.
+
+O Corpo Docente da Escola do Parlamento será composto por professores com habilitação acadêmica ou profissional, assim como capacidade técnica e didática suficientes para a atividade do magistério no âmbito da escola e no escopo de seus objetivos.
+
+
+§ 1º
+
+As regras de seleção do corpo docente serão estabelecidas no regulamento da Escola do Parlamento.
+
+
+§ 2º
+
+Os professores selecionados que sejam servidores públicos do Município Fortaleza terão o trabalho remunerado por Gratificação por Exercício de Magistério, por hora/aula trabalhada.
+
+
+Art. 5º.
+
+A Gratificação por Exercício de Magistério, prevista no inciso VI do art. 103 da Lei Municipal n.º 6794/1990, será concedida ao servidor da Câmara Municipal de Fortaleza e aos demais servidores públicos municipais designados por ato da Presidência, para exercer funções de magistério nas categorias de professor ou tutor em atividades socioculturais, capacitação por meio de cursos presenciais, seminários, oficinas de trabalho, palestras e cursos de ensino a distância constantes dos programas da Escola do Parlamento ou outros eventos de curta e média duração, sendo o valor calculado por hora-aula, observando-se a complexidade da atividade e a titulação do responsável pela atividade de magistério, de acordo com os incisos abaixo:
+
+
+I –
+
+Graduado: R$ 95,00 (noventa e cinco reais);
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+II –
+
+Especialista: R$ 130,00 (cento e trinta reais);
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+III –
+
+Mestre: R$ 160,00 (cento e sessenta reais);
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+IV –
+
+Doutor: R$ 195,00 (cento e noventa e cinco reais)
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+§ 1º
+
+A gratificação de que trata o caput poderá ser concedida, em caráter excepcional, em horário normal de expediente do servidor.
+
+
+§ 2º
+
+O pagamento da gratificação de que trata o caput não será incorporado ao vencimento ou integrado aos proventos de aposentadoria, não incidindo para desconto de previdência e não servindo de base de cálculo para quaisquer outras vantagens.
+
+
+§ 3º
+
+Será limitada a 40 (quarenta) horas-aula mensais a retribuição do exercício de magistério, ressalvada situação de excepcionalidade, devidamente justificada pelos órgãos competentes e previamente autorizada por ato da Presidência.
+
+
+§ 4º
+
+O reajuste do valor da hora-aula constante dos incisos I, II, III e IV do caput se dará na mesma data e nos mesmos índices concedidos aos servidores públicos e não integrará a base de cálculo de contribuição previdenciária.
+
+
+#### CAPÍTULO III — DO ESTÍMULO AO DESENVOLVIMENTO DOS SERVIDORES
+
+
+Art. 6º.
+
+O desenvolvimento dos servidores da Câmara Municipal de Fortaleza será estimulado por meio dos seguintes incentivos:
+
+
+I –
+
+custeio parcial, mediante indenização, de cursos de pós-graduação lato sensu (especialização) e stricto sensu (mestrado, doutorado e pós-doutorado), dentro ou fora do Município;
+
+
+II –
+
+aquisição de vagas para participação em eventos e cursos de extensão;
+
+
+III –
+
+custeio integral de cursos de pós-graduação lato sensu (especialização) e stricto sensu (mestrado, doutorado e pós-doutorado), dentro ou fora do Município.
+
+
+Parágrafo único.
+
+A concessão dos incentivos elencados neste artigo deverá observar a disponibilidade orçamentária e os critérios de conveniência e oportunidade da administração.
+
+
+Art. 7º.
+
+O incentivo de custeio parcial, mediante indenização, a que se refere o inciso I do art. 6º desta Lei Complementar, não poderá ultrapassar o valor mensal correspondente aos seguintes percentuais do menor vencimento base da tabela vencimental da categoria funcional Analista de Gestão - ANG (Nível Superior):
+
+
+I –
+
+20% (vinte por cento) para cursos de especialização;
+
+
+II –
+
+40% (quarenta por cento) para cursos de mestrado;
+
+
+III –
+
+60% (sessenta por cento) para cursos de doutorado e pós-doutorado.
+
+
+§ 1º
+
+Caberá ao servidor a responsabilidade pelo pagamento das mensalidades e da taxa de matrícula, bem como das taxas adicionais cobradas em virtude de atraso na liquidação do débito.
+
+
+§ 2º
+
+O pagamento do incentivo mediante indenização será efetuado mensalmente na folha de pagamento do servidor, ficando condicionado à apresentação ao Departamento de Recursos Humanos do comprovante de quitação da mensalidade do mês anterior.
+
+
+§ 3º
+
+Fica proibida a concessão cumulativa do benefício previsto nos incisos I, II e III do caput deste artigo com qualquer outro benefício que vise ao mesmo fim.
+
+
+§ 4º
+
+O pagamento do incentivo mediante indenização não integrará o vencimento, nem os proventos de aposentadoria, bem como não integrará a base de cálculo da contribuição previdenciária ou de quaisquer outras vantagens.
+
+
+Art. 8º.
+
+A Câmara Municipal de Fortaleza poderá custear integralmente os incentivos a que se referem os incisos II e III do art. 6º desta Lei Complementar, atendidos o interesse da administração e o melhor interesse público, nos termos do art. 13, inciso VI, e do art. 25, inciso II, da Lei Federal n.º 8666/1993, ou de norma posterior que venha substituí-la.
+
+
+Art. 9º.
+
+Perderá o direito ao incentivo o servidor que, injustificadamente:
+
+
+I –
+
+abandonar o curso;
+
+
+II –
+
+não comprovar a frequência mínima de 75% (setenta e cinco por cento) da carga horária, por módulo ou disciplina cursada;
+
+
+III –
+
+ser reprovado em disciplina ou módulo;
+
+
+IV –
+
+efetuar trancamento total ou parcial do curso, do módulo ou da disciplina sem a prévia e devida autorização;
+
+
+V –
+
+não apresentar declaração de aprovação nas disciplinas.
+
+
+Parágrafo único.
+
+O servidor que, injustificadamente, não concluir o curso ou que deixar de participar do evento deverá ressarcir ao erário municipal todas as despesas realizadas pela Câmara Municipal de Fortaleza, mediante desconto em folha de pagamento, na forma do art. 100 da Lei Municipal n.º 6794/1990.
+
+
+Art. 10.
+
+A autorização de afastamento do servidor para participar de programas de pós-graduação lato sensu e stricto sensu será concedida a juízo da Presidência, após manifestação favorável da unidade de lotação do interessado.
+
+
+Parágrafo único.
+
+O servidor, ao final da conclusão do curso para o qual tenha se afastado do exercício funcional e tenha recebido o incentivo financeiro previsto no art. 6º desta Lei Complementar, será obrigado a permanecer em efetivo exercício por um período mínimo, equivalente ao tempo em que esteve afastado do cargo/função, sob pena de ressarcir ao erário municipal todas as despesas realizadas pela Câmara Municipal de Fortaleza, salvo em hipótese de exoneração ad nutum.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 11.
+
+As despesas decorrentes da execução desta Lei Complementar correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 11-A.
+
+A Escola do Parlamento é dirigida por uma Coordenadoria constituída com a seguinte estrutura administrativa:
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+I –
+
+Supervisão Acadêmica, composta por:
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+a)
+
+Diretoria de Formação Cidadã;
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+b)
+
+Diretoria de Formação Profissional;
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+c)
+
+Diretoria de Formação Tecnológica;
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+d)
+
+Diretoria de Ensino a Distância;
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+e)
+
+Diretoria de Responsabilidade Social;
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+f)
+
+Diretoria de Extensão.
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+II –
+
+Supervisão Administrativa.
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+Art. 12.
+
+Para suprir as necessidades da Escola do Parlamento da Câmara Municipal de Fortaleza, ficam criados 1 (um) cargo de Coordenador da Escola do Parlamento, simbologia DGA-2; 1 (um) cargo de Supervisor Acadêmico, simbologia DGA-3; 1 (um) cargo de Diretor de Formação Cidadã, simbologia AT-1; 1 (um) cargo de Diretor de Formação Profissional, simbologia AT-1; 4 (quatro) cargos de Assessor Técnico, simbologia AT-2.
+
+
+Art. 12-A.
+
+Para suprir as necessidades da nova estrutura administrativa da Escola do Parlamento, nos termos do art. 11-A, ficam criados 1 (um) cargo de Supervisor Administrativo, simbologia DGA-3; 1 (um) cargo de Diretor de Formação Tecnológica, simbologia AT-1; 1 (um) cargo de Diretor de Ensino a Distância, simbologia AT-1; 1 (um) cargo de Diretor de Responsabilidade Social, simbologia AT-1; 1 (um) cargo de Diretor de Extensão, simbologia AT-1; 4 (quatro) cargos de Assessor Técnico, simbologia AT-2; e 4 (quatro) cargos de Assessor Técnico, simbologia AT-4.
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 456, de 22 de dezembro de 2025.
+
+
+Art. 13.
+
+Fica criado o Departamento de Consultoria Técnica (Decot), órgão de direção superior de natureza legislativa subordinado à Coordenadoria Geral de Assuntos Legislativos (Cogel).
+
+
+Parágrafo único.
+
+Fica criado o cargo comissionado de Diretor do Departamento de Consultoria Técnica, simbologia GPS-1, ao qual compete dirigir as atividades de consultoria técnica no âmbito da Coordenadoria Geral de Assuntos Legislativos (Cogel), com a finalidade de dar suporte técnico especializado aos trabalhos legislativos da Mesa Diretora e dos vereadores.
+
+
+Art. 14.
+
+Esta Lei Complementar entra em vigor em 1º de janeiro de 2022.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 11 DE JANEIRO DE 2022.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA**  
+Prefeito Municipal de Fortaleza
+

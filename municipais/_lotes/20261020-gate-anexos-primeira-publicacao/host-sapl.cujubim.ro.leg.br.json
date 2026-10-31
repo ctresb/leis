@@ -1,0 +1,26 @@
+{
+  "host": "sapl.cujubim.ro.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/scan_0001.pdf da norma Portaria-GP nº 16, de 11 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "PORTARIA N°016/RH/2026",
+      "anexo_arquivo": "http://sapl.cujubim.ro.leg.br/media/sapl/public/anexonormajuridica/2026/1/scan_0001.pdf",
+      "ano": 2026,
+      "norma": 7
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.cujubim.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cujubim.ro.leg.br/da7d9089440ce784f72d0491740489d153c8daa67b5e617d585f3c811cf7bf51.json",
+      "sha256": "e2bd525da18ab373d809e7270fc0bad27de1b789fe9046bb99621454514fb343",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cujubim.ro.leg.br/da7d9089440ce784f72d0491740489d153c8daa67b5e617d585f3c811cf7bf51.meta.json"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,22 @@
+{
+  "documentos": 336,
+  "gate_anexos": "municipais/_lotes/20261020-decorativos004-gate-anexos/overlay.json",
+  "gate_anexos_sha256": "f3d16bc25e31f4ce74073f9e5a31d67beb03c34dcd1a2ef85ef3ce3acc457d19",
+  "revisao_visual": "municipais/_lotes/20261020-sapl-decorativos-revisados-acumulados-004/lote-0001.json",
+  "revisao_visual_sha256": "e6182c107502091e70f0147b2b506e0cdca22593d24d27f2c2f4edf4f37b93a5",
+  "sem_sobreposicao": true,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-final/auditoria-municipal.json",
+      "sha256": "766cfeccfee7c0e4ffbfc377a0e8443b3ee192ba326f212fe86eb350b76f6cfe"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-final/lote-0001.json",
+      "sha256": "de3704809ab8fe9fa06b68db95c77a1e01c7f88d3d3dcd958862232006ce6c12"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-final/lote-0001.paths.txt",
+      "sha256": "295c6cd8455a5e36fc4effa2fdee9bc0aaf5e2b671f0da5b7a9824c399c5885c"
+    }
+  ]
+}

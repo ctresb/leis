@@ -1,0 +1,42 @@
+{
+  "host": "sapl.guajaramirim.ro.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guajaramirim.ro.leg.br/005a088f525f4adc22df184fb7b235e833d6d4034b8cc0d24cfd9ead0280828f.json",
+    "url": "https://sapl.guajaramirim.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.guajaramirim.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T13:26:25.919211-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guajaramirim.ro.leg.br/671604a2f1c423fb57e6c57237e40e4eaf1527c6ac22fa418b9ab3568fe7b76b.json",
+    "url": "https://sapl.guajaramirim.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.guajaramirim.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c7d89831714815fd4e5d4e7d50b44f04df35133c762eef0570d094a964041ed8",
+    "bytes": 783,
+    "capturado_em": "2026-10-28T13:26:25.095338-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guajaramirim.ro.leg.br/2a63e0a4b754792037c620c7cfd45136015854051a0c6f0f0159ec120e5281dd.json",
+      "url": "https://sapl.guajaramirim.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.guajaramirim.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b2a34cf3e81d9904b10245e7e458a96fcbd721e7e6767ef2575e47e5df66e2d4",
+      "bytes": 805,
+      "capturado_em": "2026-10-28T13:26:26.978660-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

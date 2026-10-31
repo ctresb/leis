@@ -1,0 +1,196 @@
+---
+titulo: "Lei nº 383, de 14 de setembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "383"
+data: "2000-09-14"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2006-06-01; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/382"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/681/text"
+sha256_fonte: "77fa2e5b530c6a1b61ef084e8e10c1a0a41266af6f45338e83dd78e0fa49c89a"
+sha256_texto: "a5005776a3209a1a60f74a882086ec5ebe481174235108e2b4f29e52bf405ec5"
+capturado_em_fonte: "2026-10-21T07:00:48.764676-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 383, de 14 de setembro de 2000
+
+Dispõe sobre a Constituição do Conselho de Alimentação Escolar e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA,**  
+Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica constituído o Conselho de Alimentação Escolar (CMAE), Órgão Deliberativo e com a finalidade de assegurar a participação da comunidade no Processo de Gestão, fiscalizador e de assessoramento da Alimentação Escolar, criando condições para descentralizar a política municipal.
+
+
+Art. 2º.
+
+O Conselho de Alimentação Escolar será constituído por 07 (sete) membros, com a seguinte composição:
+
+
+I –
+
+01 (um) Representante do Poder Executivo Municipal, indicado pelo Chefe do Poder;
+
+
+II –
+
+01 (um) Representante do Poder Legislativo Municipal, indicado pela Mesa Diretora desse Poder;
+
+
+III –
+
+02 (dois) Representantes dos Professores indicados pelo respectivo órgão da Classe;
+
+
+IV –
+
+02 (dois) Representantes de Pais de Alunos, indicados pelos Conselhos Escolares, Associação de Pais e Mestres ou Entidades Similares;
+
+
+V –
+
+01 (um) Representante de uma Classe Religiosa da Sociedade Local.
+
+
+§ 1º
+
+A designação dos Membros do Conselho será feita por ato do Poder Executivo.
+
+
+§ 2º
+
+O Presidente do CAE será eleito entre os membros titulares, por no mínimo, 2/3 (dois terços) dos conselheiros titulares, em sessão plenária especialmente para tal fim, com o mandato coincidente com o do conselho podendo ser reeleitos uma única vez.
+
+Alteração feita pelo Art. 1º. - Lei nº 668, de 01 de junho de 2006.
+
+
+§ 3º
+
+A indicação dos Membros do Conselho representantes da comunidade será feita pelas organizações ou entidades a que pertencem.
+
+
+§ 4º
+
+Cada Membro Titular do CMAE terá 01 (um) Suplente da mesma categoria representada.
+
+
+§ 5º
+
+O mandato dos Membros do Conselho será de 02 (dois) anos, permitida a recondução, por uma única vez.
+
+
+§ 6º
+
+O mandato dos Membros do Conselho será exercido gratuitamente, ficando expressamente, vedada a concessão de qualquer tipo de remuneração, vantagem ou beneficio de natureza pecuniária, sendo considerado Serviço Público relevante.
+
+
+Art. 3º.
+
+O CMAE reunir-se-á, ordinariamente, uma vez por mês e, extraordinariamente, na forma que dispuser o Regimento Interno.
+
+
+§ 1º
+
+A convocação será feita por escrito, com antecedência, de 48 (quarenta e oito) horas para as Sessões Extraordinárias.
+
+
+§ 2º
+
+As decisões do Conselho serão tomadas com a presença da maioria absoluta de seus membros, tendo o Presidente o voto de qualidade.
+
+
+§ 3º
+
+O Conselho poderá solicitar a colaboração de servidores do Poder Executivo para assessoramento em suas reuniões, podendo constituir uma Secretaria Executiva, se for o caso.
+
+
+§ 4º
+
+Para o pleno funcionamento, o Conselho fica autorizado a utilizar os serviços infra-estruturais das Unidades Administrativas do Poder Executivo
+
+
+Art. 4º.
+
+Compete ao Conselho de Alimentação Escolar:
+
+
+I –
+
+Aprovar as diretrizes e normas para a Gestão da Alimentação Escolar do Município;
+
+
+II –
+
+Acompanhar a aplicação dos Recursos Federais transferidos à conta do PNAE;
+
+
+III –
+
+Zelar pela qualidade dos produtos em todos os níveis desde a aquisição até a distribuição,observando sempre as boas práticas higiênicas e sanitárias;
+
+
+IV –
+
+Receber, analisar e remeter ao FNDE, com parecer conclusivo, as prestações de contas do PNAE encaminhadas pelo Município, na forma da Medida Provisória N° 1979-e suas reedições, acompanhada de cópias de documentos que julgar necessários à comprovação da execução dos recursos;
+
+
+V –
+
+Fiscalizar o uso de recursos públicos à conta do PNAE, e sempre que for apresentada denúncia de irregularidades no PNAE, executar as providências cabíveis na forma da Medida Provisória N° 1979- e suas reedições;
+
+
+VI –
+
+Manter articulação com a Secretaria de Educação do Município, para obter da SEDUC do Governo do Estado assistência técnica prevista na Medida Provisória N° 1979-e suas reedições, especialmente no que se refere a assistência técnica a ser prestada no município em especial na área de pesquisa em alimentação e nutrição, na elaboração dos cardápios e na execução de programas relativos a aplicação de recursos de que trata a mencionada Medida provisória;
+
+
+VII –
+
+provar a elaboração dos cardápios que deverão ser elaborados por Nutricionistas, respeitando os hábitos alimentares do município, sua vocação agrícola e a preferência pelos produtos básicos
+
+
+VIII –
+
+Zelar para que os insumos sejam produtos locais visando especialmente a redução dos custos.
+
+
+Art. 5º.
+
+Dos recursos recebidos do PNAE, pelo menos 70% (setenta por cento) serão utilizados na Aquisição de Produtos Básicos.
+
+
+§ 1º
+
+Considera-se Produtos Básicos os Produtos semi-elaborados e os produtos in natura).
+
+
+§ 2º
+
+Fica adotado o uso do leite "In Natura" no cardápio da Merenda Escolar.
+
+
+Art. 6º.
+
+A presente Lei será regulamentada por Decreto do Executivo, no prazo de 60 (sessenta) dias, contados de sua publicação.
+
+
+Art. 7º.
+
+Esta lei entrará em vigor na data de sua publicação e revoga a Lei N° 221/95, de 14 de março de 1995 e a Lei N° 382/2000 de 21 de agosto de 2000, retroagindo seus efeitos a 24 de agosto de 2000.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA, aos 14 de setembro de 2000.**
+
+**FRANCISCO EDILSON TEIXEIRA Prefeito Municipal**
+

@@ -1,0 +1,86 @@
+{
+  "host": "sapl.rolimdemoura.ro.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/anexos_lei_complementar_no_315_2022.pdf da norma Lei Complementar nº 315, de 13 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Complementar nº 315 de 2022. Plano de Cargo Carreira e Salário dos servidores da Câmara Municipal de Rolim de Moura.",
+      "anexo_arquivo": "http://sapl.rolimdemoura.ro.leg.br/media/sapl/public/anexonormajuridica/2022/1/anexos_lei_complementar_no_315_2022.pdf",
+      "ano": 2022,
+      "norma": 135
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/2/89_-_gratificacao_da_caps----------------------------------setembro.doc da norma Lei Complementar nº 89, de 27 de setembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo I, tabela de valores das gratificações.",
+      "anexo_arquivo": "http://sapl.rolimdemoura.ro.leg.br/media/sapl/public/anexonormajuridica/2011/2/89_-_gratificacao_da_caps----------------------------------setembro.doc",
+      "ano": 2011,
+      "norma": 162
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/anexo_i_da_lei_complementar_no_316.docx da norma Lei Complementar nº 316, de 27 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Tabela de gratificações CAPS.",
+      "anexo_arquivo": "http://sapl.rolimdemoura.ro.leg.br/media/sapl/public/anexonormajuridica/2022/3/anexo_i_da_lei_complementar_no_316.docx",
+      "ano": 2022,
+      "norma": 163
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/4/anexos_da_lei_complementar_no_233.pdf da norma Lei Complementar nº 233, de 22 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.rolimdemoura.ro.leg.br/media/sapl/public/anexonormajuridica/2016/4/anexos_da_lei_complementar_no_233.pdf",
+      "ano": 2016,
+      "norma": 167
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/5/anexos_da_lei_complementar_no_233.pdf da norma Lei Complementar nº 233, de 22 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.rolimdemoura.ro.leg.br/media/sapl/public/anexonormajuridica/2016/5/anexos_da_lei_complementar_no_233.pdf",
+      "ano": 2016,
+      "norma": 167
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/anexos_lei_complementar_no_237.pdf da norma Lei Complementar nº 237, de 30 de março de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.rolimdemoura.ro.leg.br/media/sapl/public/anexonormajuridica/2017/6/anexos_lei_complementar_no_237.pdf",
+      "ano": 2017,
+      "norma": 170
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/anexo_ii_3462.doc da norma Lei Ordinária nº 3.462, de 20 de julho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.rolimdemoura.ro.leg.br/media/sapl/public/anexonormajuridica/2018/7/anexo_ii_3462.doc",
+      "ano": 2018,
+      "norma": 275
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.rolimdemoura.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.rolimdemoura.ro.leg.br/b1af56fad3ca3e0f6ad3a2f42bb003d98c9b8e1a4b5a4d1efc585647cb94a409.json",
+      "sha256": "282c717abab987f37aa54816a1deb7e1267edc6e52b06ced6dbba307bcc1d4cb",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.rolimdemoura.ro.leg.br/b1af56fad3ca3e0f6ad3a2f42bb003d98c9b8e1a4b5a4d1efc585647cb94a409.meta.json"
+    }
+  ],
+  "total": 7
+}

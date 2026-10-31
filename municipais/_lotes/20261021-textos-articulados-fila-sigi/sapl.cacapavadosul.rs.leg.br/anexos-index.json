@@ -1,0 +1,128 @@
+{
+  "estado": "indice_completo",
+  "total": 11,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/copia_de_ldo_2019-1.pdf da norma Lei nº 3.995, de 08 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2018/1/copia_de_ldo_2019-1.pdf",
+      "ano": 2018,
+      "norma": 3159
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/1_-_capa_projeto_de_lei_ldo_2022.doc da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "1- CAPA PROJETO DE LEI LDO 2022",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/2/1_-_capa_projeto_de_lei_ldo_2022.doc",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/3_-_lei_4296_-_ldo_2022_emendada.docx da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "3- LEI 4296 - LDO 2022 - EMENDADA",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/3/3_-_lei_4296_-_ldo_2022_emendada.docx",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/5_-_anexo_iii_-_metas_das_acoes.pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "5- ANEXO III - METAS DAS AÇÕES",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/4/5_-_anexo_iii_-_metas_das_acoes.pdf",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/5.1_-_anexo_iii_-__metas_programaticas.pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "5.1 - ANEXO III - METAS PROGRAMÁTICAS",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/5/5.1_-_anexo_iii_-__metas_programaticas.pdf",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/6_-_padros_niveis__cargos_e_fgs_1.pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "6 - PADRÕES, NÍVEIS, CARGOS E FGS",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/6/6_-_padros_niveis__cargos_e_fgs_1.pdf",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/7_-_possiveis_aposentadorias_2022_1.pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "7 - POSSÍVEIS APOSENTADORIAS 2022",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/7/7_-_possiveis_aposentadorias_2022_1.pdf",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/8_-_estudos_e_estimativas.pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "8 - ESTUDOS E ESTIMATIVAS",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/8/8_-_estudos_e_estimativas.pdf",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/9/9_-_atas_dos_conselhos_e_audiencia_publica_ldo2022.pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "9 - ATAS DOS CONSELHOS E AUDIÊNCIA PÚBLICA LDO 2022",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/9/9_-_atas_dos_conselhos_e_audiencia_publica_ldo2022.pdf",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/4_-_anexos_i_ii_iv_..pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "4- ANEXOS I, II, IV",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/10/4_-_anexos_i_ii_iv_..pdf",
+      "ano": 2021,
+      "norma": 3487
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/8.1_-__projecao_folha_2022..pdf da norma Lei nº 4.296, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "8.1 - PROJEÇÃO FOLHA 2022",
+      "anexo_arquivo": "http://sapl.cacapavadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2021/11/8.1_-__projecao_folha_2022..pdf",
+      "ano": 2021,
+      "norma": 3487
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacapavadosul.rs.leg.br/749782701c758148fb41ca1e8ba8c0b4f955ddb11a05acd74ec53bf90258de20.json",
+      "url": "https://sapl.cacapavadosul.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cacapavadosul.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "104cc44518a99ba3e93f70a58bd164db26e92420889c3d907d2940850fed74f6",
+      "bytes": 4947,
+      "capturado_em": "2026-10-27T21:03:50.834762-03:00"
+    }
+  ]
+}

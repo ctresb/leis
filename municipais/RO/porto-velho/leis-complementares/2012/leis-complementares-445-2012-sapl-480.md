@@ -1,0 +1,512 @@
+---
+titulo: "Lei Complementar nº 445, de 27 de março de 2012"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "445"
+data: "2012-03-27"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2016-06-07; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/480"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1738/text"
+sha256_fonte: "a52300a8820b8b9ac7e335ed57e783e9779494ee6b4c5afc49d6175b5737b704"
+sha256_texto: "66641e6701d211903b6bf9c41fb0387ed4b1403363163c148057039585f8b9b7"
+capturado_em_fonte: "2026-10-27T21:10:13.272398-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 445, de 27 de março de 2012
+
+“Institui, organiza e regula o funcionamento – feiras livres itinerantes.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas no inciso IV, do art. 87 da Lei Orgânica do Município de Porto Velho,
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Institui, organiza e regula o funcionamento das feiras livres itinerantes no Município de Porto Velho.
+
+
+Art. 2º.
+
+É considerada FEIRA LIVRE a atividade mercantil de caráter itinerante, realizada em local público, previamente designado pelo Poder Executivo.
+
+
+§ 1º
+
+As feiras livres de caráter itinerante, caracterizadas pelo uso de instalações provisórias ou removíveis, podem ocorrer em vias de logradouros públicos, ou ainda, em área coberta do tipo pavilhão.
+
+
+§ 2º
+
+Entende-se como pavilhão as áreas públicas edificadas apenas com piso e cobertura destinadas às atividades de feira livre.
+
+
+§ 3º
+
+No projeto do pavilhão poderá ser prevista a destinação de até vinte por cento da área útil a edificação destinada a abrigar atividades comerciais de peixaria, açougue, lanchonetes e similares.
+
+
+§ 4º
+
+A feira livre tem o fim de proporcionar o abastecimento suplementar de produtos hortifrutigranjeiros, cereais, doces, laticínios, pescados, animais vivos considerados domésticos, flores, plantas ornamentais, produtos de artesanato, lanches, gêneros alimentícios de fabricação própria, caldo de cana, temperos, confecção de fabricações, tecidos, armarinhos, calçados, bolsas, bijuterias, artigos religiosos, ferramentas, utensílios domésticos, carnes e aves abatidas, resfriadas ou congeladas, produtos de bazar e produtos agropecuários.
+
+
+§ 5º
+
+A comercialização de espécie de animais vivos provenientes de criadouros legalizados ou de fauna silvestre exótica deverá atender a listagem do Instituto Brasileiro de Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA).
+
+
+§ 6º
+
+As feiras livres de caráter Itinerantes, que estão localizadas nos bairros: CALADINHO, IGARAPÉ, AREAL, NOVA PORTO VELHO, BAIXA UNIÃO E ULISSES GUIMARÃES, terão seu funcionamento e delimitação conforme a seguir:
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 478, de 26 de dezembro de 2012.
+
+
+a)
+
+CALADINHO: Será realizada as terças-feiras na Rua Caetano, entre a Avenida Jatuarana e a Rua do Algodoeiro.
+
+
+b)
+
+IGARAPÉ: Será realizada as quartas-feiras na Rua Ananias Ferreira de Andrade, entre Avenida Calama e a Rua Eliezer de Carvalho;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 478, de 26 de dezembro de 2012.
+
+
+c)
+
+LIBERDADE: Será realizada as quintas-feiras na Rua Rafael Vaz e Silva esq. Com a Rua Senador Álvaro Maia.
+
+
+d)
+
+AREAL: Será realizada as sextas-feiras na Rua Princesa Izabel, entre ruas Marechal Deodoro e Campos Sales.
+
+
+e)
+
+NOVA PORTO VELHO: Será realizada aos sábados na Av. Nicarágua: entre Avenida Amazonas e Rua Raimundo Cantuária; e na Rua Jaci-Paraná: entre ruas Buenos Aires e Nicarágua.
+
+
+f)
+
+BAIXA UNIÃO: Será realizada aos domingos na Av. Rogério Weber entre as ruas João Alfredo e Jaci-Paraná – na feira do produtor rural.
+
+
+g)
+
+ULISSES GUIMARÃES: Será realizada aos sábados e domingos na Rua Blumenau com Estrada dos Periquitos, tendo a sua exposição finalizada na Rua Bola Sete.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 478, de 26 de dezembro de 2012.
+
+
+§ 7º
+
+As feiras livres de caráter itinerantes, que estão localizadas nos Distritos do Município de Porto Velho, terão seu funcionamento conforme disposto a seguir
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+I –
+
+Distrito de Jaci Paraná:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+a)
+
+As Terças-Feiras, será realizada das 16 h. às 22 h. na Rua Rio Madeira, entre a Rua Curitiba e Rua José Pereira;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+b)
+
+As Quintas-Feiras, será realizada DAS 06H. às 14h., na Rua do Galo da Campina, entre a Rua Bem-te-vi e Rua Tuiuiú;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+c)
+
+Aos Domingos, será realizada das 06h. às 14h., na Rua José Rodrigues, entre a Rua Hilário Maia e Rua Eli Crispim.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+II –
+
+Distrito de União Bandeirantes:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+a)
+
+Aos Domingos será realizada das 06h. às 12h., na rua Airton Senna, entre Avenida 03 de Dezembro e Av. 14 de Julho.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+III –
+
+"Distrito de Vila do Rio Pardo;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 624, de 07 de junho de 2016.
+
+
+IV –
+
+Distrito de Nova Califórnia;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 624, de 07 de junho de 2016.
+
+
+V –
+
+Distrito de Extrema;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 624, de 07 de junho de 2016.
+
+
+VI –
+
+Distrito de Vista Alegre do Abunã;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 624, de 07 de junho de 2016.
+
+
+VII –
+
+Distrito de Nova Mutum Paraná.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 624, de 07 de junho de 2016.
+
+
+§ 8º
+
+As feiras itinerantes realizadas nos distritos poderão ter seus locais, dias e horários alterados, desde que haja ajuste prévio e sejam devidamente autorizados pelos órgãos competentes.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+§ 9º
+
+Os demais Distritos do Município de Porto Velho serão acrescentados por meio de Lei Complementar.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 571, de 19 de maio de 2015.
+
+
+Art. 3º.
+
+A atividade de feirante é restrita a Pessoas Físicas, ou ainda, pessoas Jurídicas nos casos em que a Lei exigir, previamente autorizadas pelo Poder Executivo, mediante concessão ou permissão. Conforme disposto em lei.
+
+
+§ 1º
+
+Entende-se como feirante aquele que comercializa produtos de forma varejista, não se admitindo a participação daquele que comercializa mercadorias na forma de atacado.
+
+
+§ 2º
+
+A ocupação dos espaços em feiras livres far-se-á mediante permissão de uso, a título precário, mediante inscrição prévia junto ao Poder Executivo Municipal, obedecidos os critérios fixados por este.
+
+
+Art. 4º.
+
+É assegurado o enquadramento no disposto nesta Lei aos concessionários ou permissionários que estejam atuando em feiras livres itinerantes na data da publicação desta Lei.
+
+
+Art. 5º.
+
+O Poder Executivo deve promover a elaboração dos projetos de edificação e/ou confecção de tendas, bem como a organização e implantação de feiras livres itinerantes no Município, com a participação de associações locais ou do sindicato da categoria.
+
+
+#### CAPÍTULO II — DA ORGANIZAÇÃO E DO FUNCIONAMENTO
+
+
+Art. 6º.
+
+Ao Executivo Municipal caberá:
+
+
+I –
+
+proceder ao zoneamento, à organização e às modificações das feiras livres, agrupando as diversas modalidades de comércio nelas existentes;
+
+
+II –
+
+estabelecer os dias e horários de funcionamento e abastecimento das feiras livres em comum acordo com entidade local representativa da categoria;
+
+
+III –
+
+organizar e manter atualizado o cadastro dos feirantes autorizados e dos permissionários ou titulares da concessão de direito real de uso;
+
+
+IV –
+
+supervisionar e fiscalizar a organização, o funcionamento e as instalações das feiras, bem como o cumprimento de suas finalidades;
+
+
+V –
+
+fiscalizar o pagamento dos preços públicos e taxas devidas pelos feirantes;
+
+
+VI –
+
+propor a criação ou a transferência de feiras livres, consultada a comunidade, a entidade local representativa da categoria e o órgão de planejamento urbano do Município;
+
+
+VII –
+
+conceder autorização e permissões ou concessões de direito real de uso a feirante na forma da lei;
+
+
+VIII –
+
+instituir e cobrar taxa de manutenção e limpeza dos espaços utilizados para promoção das feiras;
+
+
+IX –
+
+instituir e manter em funcionamento órgão de controle e fiscalização sobre a origem e qualidade dos produtos comercializados nas feiras;
+
+
+Art. 7º.
+
+Para manutenção e conservação das feiras livres itinerantes, os feirantes poderão organizar associação ou condomínio, de conformidade com a legislação vigente, sendo obrigatório o rateio das despesas da feira entre todos os feirantes, ainda que qualquer deles não esteja filiado ao condomínio ou à associação.
+
+
+Art. 8º.
+
+O horário de funcionamento das feiras permanentes será determinado pelos respectivos condôminos, respeitado o alvará de funcionamento.
+
+
+Art. 9º.
+
+Nas feiras livres itinerantes, o percentual de bancas, barracas, boxes, lojas e espaços destinados a cada modalidade de comércio, serão fixados pelo Executivo Municipal com a participação das entidades representativas da categoria.
+
+
+#### CAPÍTULO III — DAS INFRAÇÕES E DAS PENALIDADES
+
+
+Art. 10.
+
+Constitui infração a ação ou omissão voluntária ou não, por parte do feirante, que importe a inobservância dos dispositivos a seguir fixados:
+
+
+I –
+
+vender produtos fora do grupo previsto em sua inscrição, exceto acessórios;
+
+
+II –
+
+fornecer a terceiros mercadorias para a venda ou renda no âmbito da respectiva feira;
+
+
+III –
+
+descarregar mercadorias fora do horário permitido;
+
+
+IV –
+
+colocar ou expor mercadoria fora dos limites da área, boxe ou loja, exceto cabides de mostruários, que não pode exceder trinta centímetros;
+
+
+V –
+
+manter balança empregada para a comercialização de suas mercadorias em local que não permita a leitura da pesagem pelo consumidor;
+
+
+VI –
+
+deixar de usar o uniforme estabelecido pela Administração nas atividades que envolvam a manipulação de alimentos, produtos perecíveis e agropecuários.
+
+
+VII –
+
+desacatar servidores da Administração Pública no exercício de suas funções ou em razão delas;
+
+
+VIII –
+
+utilizar pilastras, postes ou paredes das feiras permanentes para colocação de mostruários ou com qualquer outra finalidade;
+
+
+IX –
+
+deixar de observar o horário de funcionamento das feiras;
+
+
+X –
+
+usar jornais impressos e papéis usados ou quaisquer outros que contenham substâncias químicas prejudiciais à saúde para embalagem de mercadorias;
+
+
+XI –
+
+vender animais doentes ou em estado de desnutrição;
+
+
+XII –
+
+prestar declarações que não correspondam à realidade ao agente fiscalizador;
+
+
+XIII –
+
+portar arma de fogo ilegalmente;
+
+
+XIV –
+
+exercer atividade na feira em estado de embriaguez;
+
+
+XV –
+
+deixar de zelar pela conservação e higiene da área, boxe ou loja;
+
+
+XVI –
+
+vender gêneros alimentícios impróprios para o consumo, deteriorados ou condenados pelo Serviço de Fiscalização Sanitária, ou ainda, com peso ou medida irreal;
+
+
+XVII –
+
+deixar de exibir a documentação exigida para o exercício de sua atividade quando solicitada pela fiscalização;
+
+
+XVIII –
+
+deixar de cumprir as normas estabelecidas nesta Lei e as demais disposições constantes na legislação em vigor;
+
+
+XIX –
+
+vender ou ter sob sua guarda bebidas alcoólicas de qualquer espécie nas áreas das feiras livres, inclusive em lanchonetes, salvo aquelas oriundas de produção artesanal, mediante autorização específica do Executivo Municipal, com anuência da entidade local representativa da categoria;
+
+
+XX –
+
+utilizar qualquer tipo de aparelho ou equipamento de som, bem como executar música ao vivo nas áreas das feiras, salvo permissão do Executivo Municipal, com a anuência da entidade local representativa da categoria;
+
+
+XXI –
+
+praticar jogos de azar no recinto das feiras.
+
+
+Art. 11.
+
+As infrações ao dispositivo nesta Lei serão punidas com:
+
+
+I –
+
+notificação;
+
+
+II –
+
+multa;
+
+
+III –
+
+suspensão de autorização, permissão ou concessão por até quinze dias;
+
+
+IV –
+
+cassação da autorização, permissão ou concessão.
+
+
+§ 1º
+
+A cassação da autorização da concessão e da permissão será aplicada ao feirante que:
+
+
+a)
+
+tiver sido suspenso por três vezes, no período de um ano;
+
+
+b)
+
+deixar de comparecer à feira por quatro vezes consecutivas ou cinco alternadas a cada semestre, sem motivo justificado.
+
+
+§ 2º
+
+A aplicação de qualquer sanção prevista nesta Lei não exime o infrator de sanar, quando for o caso, a irregularidade constatada.
+
+
+§ 3º
+
+As infrações cometidas pelos feirantes prescreverão no prazo de um ano contado da data de sua anotação no prontuário do Executivo Municipal.
+
+
+§ 4º
+
+A pena de cassação só poderá ser aplicada após procedimento administrativo que assegure ampla defesa ao feirante.
+
+
+§ 5º
+
+O feirante que tiver a autorização, permissão ou concessão cassada ficará impedido de participar de processo seletivo ou licitação para obtenção de espaço em feira livre ou Mercado Público do Município pelo período de dois anos.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 12.
+
+É vedada em qualquer hipótese, a cessão a terceiros de permissão concedida pelo Poder Público, para fins de exploração de espaço em feira livre.
+
+
+Art. 13.
+
+É vedada a criação de novas feiras livres itinerantes e a comercialização de ambulante de quaisquer produtos em áreas localizadas no raio de 500 (quinhentos) metros das feiras livres.
+
+
+Art. 14.
+
+O Executivo Municipal deve regulamentar esta Lei no prazo de até sessenta dias.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito do Município
+
+**Projeto de LC nº 588/2011**
+
+**Autoria: Ver. Marcelo Reis.**
+

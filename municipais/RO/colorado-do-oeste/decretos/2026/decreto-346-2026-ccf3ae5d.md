@@ -1,0 +1,70 @@
+---
+titulo: "DECRETO N° 346, DE 28 DE AGOSTO DE 2026"
+uf: "RO"
+municipio: "COLORADO DO OESTE"
+tipo: "Decreto"
+numero: "346"
+data: 2026-08-28
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 31/08/2026"
+data_publicacao: 2026-08-31
+codigo_identificador: "CCF3AE5D"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116141_2026-08-28_263a9033191eaa5e1863b7f0b63e3884.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N° 346, DE 28 DE AGOSTO DE 2026
+
+DECRETO N° 346, DE 28 DE AGOSTO DE 2026
+DISPÕE SOBRE O RETORNO DA CARGA
+HORÁRIA
+DE
+SERVIDORA
+PÚBLICA
+MUNICIPAL, A PEDIDO, E DÁ OUTRAS
+PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE COLORADO DO OESTE,
+Estado de Rondônia, no uso de suas atribuições legais que lhe são
+conferidas Por Leis.
+CONSIDERANDO os elementos constates no Processo
+Administrativo n°1875/2025;
+CONSIDERANDO o requerimento apresentado pela servidora
+JULIANA DA CUNHA NABAO, ocupante do cargo efetivo de
+ENFERMEIRA matrícula nº 477-3, solicitando o retorno de sua
+jornada de trabalho de 20 (vinte) horas para 40 (quarenta) horas
+semanais;
+CONSIDERANDO a necessidade e o interesse da Administração
+Pública Municipal;
+DECRETA:
+Art. 1° - Fica autorizado, a pedido da servidora, o retorno da carga
+horária de 20 (vinte) horas para 40 (quarenta) horas semanais da
+servidora JULIANA DA CUNHA NABAO, matrícula nº 477-3,
+ocupante do cargo efetivo de ENFERMEIRA, lotada na Secretaria
+Municipal de Saúde.
+Art. 2º O retorno à jornada de 40 (quarenta) horas semanais terá
+efeitos a partir de 1° de setembro de 2026, passando a servidora a
+cumprir a jornada integral correspondente ao seu cargo, conforme
+escala e horário estabelecidos pela chefia imediata.
+Art. 3º Em decorrência do retorno da carga horária, a remuneração da
+servidora será adequada proporcionalmente à jornada de 40 (quarenta)
+horas semanais, observada a legislação municipal vigente.
+Art. 4° - Este Decreto entra em vigor na data de sua publicação, com
+seus efeitos a partir de 1 ° de setembro de 2026.
+PALÁCIO ―PREFEITO CERENEU JOÃO NAUE‖, 28 DE AGOSTO
+DE 2026.
+EDMILSON RODRIGUES DE ALMEIDA
+Prefeito Municipal
+Av. Paulo de Assis Ribeiro, nº 4132 - Centro - Fone 069- 3341-3421
+CEP 76.993-000
+Email
+prefeitomunicipal@coloradodooeste.ro.gov.br
+/
+Site
+www.coloradodooeste.ro.gov.br
+DECRETO 346 de 28/08/2026, assinado na forma do Decreto nº
+095/2020 (ID: 621198 e CRC: 926CD058). Pág: 2/2
+COLORADO DO OESTE - RO
+
+Publicado por:
+Jéssica de Lima Almeida

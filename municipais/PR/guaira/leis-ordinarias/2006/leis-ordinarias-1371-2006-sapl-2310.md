@@ -1,0 +1,192 @@
+---
+titulo: "Lei Ordinária nº 1.371, de 08 de fevereiro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1371"
+data: "2006-02-08"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2006-09-06; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2310"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/826/text"
+sha256_fonte: "fe1cb986150f4350f46fb3da54592506f3145ab101becd9bdad0a62af551c4a2"
+sha256_texto: "27bb59ff2ad9569ad4a39a2211da9751084168041124e946439d168f99c8445e"
+capturado_em_fonte: "2026-10-28T13:25:50.319999-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.371, de 08 de fevereiro de 2006
+
+Altera a Lei nº 1.369 de 28/12/2005, e autoriza abertura de crédito suplementar no orçamento fiscal do exercício de 2006 no valor de R$ 1.441.500,00 (hum milhão, quatrocentos e quarenta e um mil e quinhentos reais), ficando alterado o valor do orçamento anual.
+
+
+A Câmara Municipal de Guaíra aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir no orçamento fiscal do Município de Guaíra - Pr, aprovado para o exercício de 2006, um crédito adicional suplementar no valor de R$ 1.441.500,00 (Hum milhão, quatrocentos e quarenta e um mil e quinhentos reais) para a inclusão de elementos de despesas, nas seguintes programações orçamentárias:  
+  
+GOVERNO MUNICIPAL - COORDENAÇÃO DE PROGRAMAS ESPECIAIS  
+ÓRGÃO 02 GOVERNO MUNICIPAL  
+UNIDADE 03 COORDENAÇÃO DE PROGRAMAS ESPECIAIS  
+FUNÇÃO 11 TRABALHO  
+SUB-FUNÇÃO 334 FOMENTO AO TRABALHO  
+PROGRAMA 006 FOMENTO AO TRABALHO  
+PROJETO / ATIVIDADE 2.006 MANU. DA COORDENADORIA DA ESTAÇÃO DA LINHA DE OFICIO  
+Fonte 33.90.30 Material de Consumo  
+RUBRICA 1744 33.90.36 Outros Serviços de Terceiros - Pessoa Física..........54.000,00  
+33.90.39 Outros Serviços de Terceiros - Pessoa Jurídica  
+44.90.52 Equipamentos e Materiais Permanentes  
+  
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 EDUCAÇÃO FUNDAMENTAL  
+PROGRAMA 0024 EDUCAÇÃO FUNDAMENTAL  
+PROJETO / ATIVIDADE 2038 MANUTENÇÃO DO ENSINO FUNDAMENTAL - OUTROS RECURSOS  
+RUBRICA Fonte 33.90.30 Material de Consumo....................................R$ 10.000,00  
+1124 33.90.36 Outros Serviços de Terceiros - Pessoa Física  
+33.90.39 Outros Serviços de Terceiros - Pessoa Jurídica  
+44.90.52 Equipamento e Materiais Permanentes  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 EDUCAÇÃO FUNDAMENTAL  
+PROGRAMA 0024 EDUCAÇÃO FUNDAMENTAL  
+PROJETO / ATIVIDADE 2038 MANUTENÇÃO DO ENSINO FUNDAMENTAL - OUTROS RECURSOS  
+RUBRICA Fonte 33.90.30 Material de Consumo....................................R$ 30.000,00  
+1123 33.90.36 Outros Serviços de Terceiros - Pessoa Física  
+33.90.39 Outros Serviços de Terceiros - Pessoa Jurídica  
+44.90.52 Equipamento e Materiais Permanentes  
+  
+SECRETARIA MUNICIPAL DE SAÚDE  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 DEPARTAMENTO MÉDICO  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+  
+PROGRAMA 0037 ASSISTENCIA A SAÚDE  
+PROJETO / ATIVIDADE 2.048 MANUTENÇÃO DO FUNDO MUNICIPAL DE SAÚDE  
+RUBRICA Fonte 44.90.30 Material de Consumo...................................R$ 700.000,00  
+1322 44.90.39 Outros Serviços de Terceiros - Pessoa Jurídica  
+44.90.51 Obras e Instalações  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 DEPARTAMENTO MÉDICO  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0037 ASSISTENCIA A SAÚDE  
+PROJETO / ATIVIDADE 2.048 MANUTENÇÃO DO FUNDO MUNICIPAL DE SAÚDE  
+RUBRICA Fonte..................................................................R$ 7.500,00  
+1318 44.90.52 Equipamento e Materiais Permanentes  
+  
+SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+ÓRGÃO 09 SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+UNIDADE 01 DEPARTAMENTO DE ASSISTENCIA SOCIAL  
+FUNÇÃO 08 ASSISTENCIA SOCIAL  
+SUB-FUNÇÃO 244 INVESTIMENTO SOCIAL  
+PROGRAMA 0047 INVESTIMENTO SOCIAL  
+PROJETO / ATIVIDADE 2.058 MANUTENÇÃO DO FUNDO MUNICIPAL DE ASSIST. SOCIAL  
+RUBRICA Fonte 44.90.30 Material de Consumo....................................R$ 82.000,00  
+1741 44.90.39 Outros Serviços de Terceiros - Pessoa Jurídica  
+44.90.51 Obras e Instalações  
+  
+SECRETARIA MUNICIPAL DE INDÚSTRIA E COMÉRCIO  
+11 SECRETARIA MUNICIPAL DE INDUSTRIA E COMERCIO  
+UNIDADE 01 DEPARTAMENTO DE INDUSTRIA  
+FUNÇÃO 22 INDUSTRIA  
+SUB-FUNÇÃO 661 PROMOÇÃO INDUSTRIAL  
+PROGRAMA 0054 INCENTIVO A INDUSTRIA  
+PROJETO / ATIVIDADE 2.067 MANUTENÇÃO DAS AÇÕES DE DESENVOLVIMENTO INDUSTRIAL  
+RUBRICA Fonte 33.90.30 Material de Consumo....................................R$ 25.000,00  
+1735 33.90.39 Outros Serviços de Terceiros - Pessoa Jurídica..................R$ 31.000,00  
+44.90.52 Equipamentos e Materiais Permanente  
+  
+ÓRGÃO 11 SECRETARIA MUNICIPAL DE INDUSTRIA E COMERCIO  
+UNIDADE 01 DEPARTAMENTO DE INDUSTRIA  
+FUNÇÃO 22 INDUSTRIA  
+SUB-FUNÇÃO 661 PROMOÇÃO INDUSTRIAL  
+PROGRAMA 0054 INCENTIVO A INDUSTRIA  
+PROJETO / ATIVIDADE 2.067 MANUTENÇÃO DAS AÇÕES DE DESENVOLVIMENTO INDUSTRIAL  
+RUBRICA Fonte 44.90.30 Material de Consumo  
+1736 44.90.39 Outros Serviços de Terceiros - Pessoa Jurídica  
+44.90.51 Obras e Instalações..................................................R$ 30.000,00  
+  
+SECRETARIA MUNICIPAL DE TURISMO  
+ÓRGÃO 13 SECRETARIA MUNICIPAL TURISMO  
+UNIDADE 01 DEPARTAMENTO DE ATIVIDADES TURISTICAS  
+FUNÇÃO 23 COMERCIO E TURISMO  
+SUB-FUNÇÃO 695 TURISMO  
+PROGRAMA 0057 INFRA ESTRUTURA TURISTICA  
+PROJETO / ATIVIDADE 2070 FOMENTO DAS ATIVIDADES TURISTICA  
+  
+RUBRICA Fonte 33.90.36 Outros serviços de Terceiros - Pessoa Física..........R$ 110.000,00  
+174333.90.39 Outros serviços de Terceiros - Pessoa Jurídica  
+SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 01 DEPARTAMENTO DE AGRICULTURA  
+FUNÇÃO 20 AGRICULTURA  
+SUB-FUNÇÃO 606 EXTENSÃO RURAL  
+PROGRAMA 0058 APOIO AO PRODUTOR RURAL E INFRA-ESTRUTURA RURAL  
+PROJETO / ATIVIDADE 2.071 OBRAS E MANUT. DAS AÇÕES DESENV. P/ DPTO DE AGRICULTURA  
+RUBRICA Fonte 44.90.52 EQUIPAMENTOS E MATERIAIS PERMANENTE....................R$ 63.000,00  
+1737 PATRULHA MECANIZADA 01  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 01 DEPARTAMENTO DE AGRICULTURA  
+FUNÇÃO 20 AGRICULTURA  
+SUB-FUNÇÃO 606 EXTENSÃO RURAL  
+PROGRAMA 0058 APOIO PRODUTOR RURAL E INFRA-ESTRUTURA RURAL  
+PROJETO / ATIVIDADE 2.071 OBRAS E MANUT. DAS AÇÕES DESENV. P/ DPTO DE AGRICULTURA  
+RUBRICA Fonte 44.90.52 EQUIPAMENTOS E MATERIAIS PERMANENTE....................R$ 74.000,00  
+1739 PATRULHA MECANIZADA 02  
+  
+ÓRGÃO 13 SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE  
+UNIDADE 02 DEPARTAMENTO DE MEIO AMBIENTE  
+FUNÇÃO 18 GESTÃO AMBIENTAL  
+SUB-FUNÇÃO 541 PRESERVAÇÃO E CONSERVAÇÃO AMBIENTAL  
+PROGRAMA 0059 GESTÃO AMBIENTAL  
+PROJETO / ATIVIDADE 2.072 MANUT. DAS AÇÕES DESENV. P/ DPTO DE MEIO AMBIENTE  
+RUBRICA Fonte 33.90.30 Material de Consumo...................................R$ 150.000,00  
+33.90.36 Outros Serviços de Terceiros - Pessoa Física  
+1745 33.90.39 Outros Serviços de Terceiros - Pessoa Jurídica  
+44.90.52 Equipamento e Materiais Permanentes  
+  
+SECRETARIA MUNICIPAL DE FAZENDA  
+ÓRGÃO 05 SECRETARIA MUNICIPAL DE FAZENDA  
+UNIDADE 01 DEPARTAMENTO DE TRIBUTAÇÃO  
+FUNÇÃO 04 ADMINISTRAÇAO  
+SUB-FUNÇÃO 129 ADMINISTRAÇÃO DE RECEITAS  
+PROGRAMA 0023 ADMINISTRAÇÃO FISCALIZAÇÃO E CONTROLE  
+PROJETO / ATIVIDADE 2.035 MANUTENÇÃO DO DEPARTAMENTO DE TRIBUTAÇÃO  
+RUBRICA 44903905 SERVIÇOS TÉCNICOS PROFISSIONAIS..............................R$ 75.000,00
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.421, de 06 de setembro de 2006.
+
+
+Art. 2º.
+
+Altera o valor do orçamento anual aprovado para o exercício de 2006, para R$ 36.554.500,00 (trinta e seis milhões, quinhentos e cinqüenta e quatro mil e quinhentos reais).
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 4º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra-Pr, 08 de fevereiro de 2006.  
+  
+FABIAN PERSI VENDRUSCOLO  
+Prefeito Municipal.
+

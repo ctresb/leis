@@ -1,0 +1,173 @@
+---
+titulo: "Decreto nº 19.193, de 26 de julho de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.193"
+data: "2023-07-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2023-10-18; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25525"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8562/text"
+sha256_fonte: "b2f0f3d4c738c04a45913d9309c916ed8670885026708cd1f75c9dd9dfa411f3"
+sha256_texto: "7ee323e687e40b6aaacc1d06bd77ab3eeae88d0a63a4c5ed57c972ac12ee624b"
+capturado_em_fonte: "2026-10-21T05:23:25.899566-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.193, de 26 de julho de 2023
+
+Dispõe sobre a criação da Comissão de Adequação do Plano Diretor Participativo do Município de Porto Velho e legislações urbanísticas correlatas e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Ofício nº 166/2023/DIPLAD/SUPLAN/SEMPOG, de 20/04/2023 (C6B5B5BB-e)
+
+
+**CONSIDERANDO** a Ação Direta de Inconstitucionalidade nº 0811231-70.2021.8.22.0000 interposta pelo Ministério Público de Rondônia - MP/RO, em face da Lei Complementar n° 838/2021, que “dispõe sobre o Plano Diretor Participativo do Município de Porto Velho”.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituída a Comissão de Adequação do Plano Diretor Participativo do Município de Porto Velho com as legislações urbanísticas correlatas, para fins de que sejam analisadas as considerações decididas na Ação Direta de Inconstitucionalidade nº 0811231-70.2021.8.22.0000 interposta pelo Ministério Público de Rondônia - MP/RO, em face da Lei Complementar n° 838, de 04 de fevereiro de 2021, que “dispõe sobre o Plano Diretor Participativo do Município de Porto Velho.
+
+Alteração feita pelo Art. 1º. - Decreto nº 19.457, de 18 de outubro de 2023.
+
+
+Parágrafo único
+
+Após a análise realizada pela Comissão ora instituída, deverá o ralatório final, bem como por ventura os projetos de lei e demais normas serem encaminhadas para análise de conveniência, oportunidade e juridicidade por parte do Prefeito.
+
+Inclusão feita pelo Art. 1º. - Decreto nº 19.457, de 18 de outubro de 2023.
+
+
+Art. 2º.
+
+A Comissão deAdequação do Plano Diretor Participativo do Município de Porto Velho e legislações urbanísticas correlatas será composta pelos seguintes representantes:
+
+
+I –
+
+2 (dois) representantes da Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG, sendo a Camila Fávero Loss Prestes, Gerente de Divisão de Monitoramento e Avaliação do Plano Diretor - DMAP/DIPLAD/SUPLAN/SEMPOG, matrícula 186016 e Fabiana de Oliveira, Diretora do Departamento de Implementação do Plano Diretor - DIPLAD/SUPLAN/SEMPOG, matrícula 1003087.
+
+
+II –
+
+2 (dois) representantes da Secretaria Municipal de Regularização Fundiária, Habitação e Urbanismo – SEMUR, sendo a Fernanda Rocha Pinheiro Rodrigues, matrícula n° 7105, Diretora do Departamento de Gestão Urbana (DGU) e o Roberto Kleber C. Saldanha Júnior com matrícula n° 61590, Diretor do Departamento de Gestão e Políticas Fundiárias (DGPF);
+
+
+III –
+
+1 (um) representante da Procuradoria Geral do Município – PGM, sendo o servidor Alexandro Borges Coatti, matrícula nº 46385, Técnico Jurídico/Subprocurador Fundiário;
+
+
+IV –
+
+IV – 1 (um) representante da Secretaria Municipal da Fazenda – SEMFAZ, sendo o servidor Hueliton Mendes Rodrigues, matrícula nº 52283;
+
+
+V –
+
+2 (dois) representantes da Secretaria Geral de Governo - SGG, sendo o Moacyr Rodrigues Pontes Netto, Assessor-Chefe de Política Governamental e Institucional, matrícula nº 1006074, e Hailton Alvarez de Aguiar, Assessor-Chefe de Política Setorial e Técnica, matrícula nº 1006005.
+
+Inclusão feita pelo Art. 1º. - Decreto nº 19.457, de 18 de outubro de 2023.
+
+
+Art. 3º.
+
+Compete às Subsecretarias de Gestão Institucional – SUGINST e de Planejamento – SUPLAN da Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG coordenar a Comissão ora instituída.
+
+Alteração feita pelo Art. 1º. - Decreto nº 19.457, de 18 de outubro de 2023.
+
+
+Art. 4º.
+
+A Comissão de Adequação do Plano Diretor Participativo do Município de Porto Velho e legislações urbanísticas correlatas tem por finalidade:
+
+
+I –
+
+Utilizar como base para todas as adequações necessárias, os anteprojetos de lei encaminhados pelo executivo à Câmara de Vereadores;
+
+
+II –
+
+Adequar no Plano Diretor os artigos apontados como inconstitucionais;
+
+
+III –
+
+Ajustar possíveis erros materiais e formais que forem identificados;
+
+
+IV –
+
+Analisar demais artigos modificados pela Casa de Leis, ponderar e verificar a possibilidade de adequação;
+
+
+V –
+
+A partir das mudanças necessárias compatibilizar toda a redação do Plano Diretor, incluindo os anexos;
+
+
+VI –
+
+Com o Plano Diretor definido, compatibilizar todas as legislações urbanísticas correlatas.
+
+
+Art. 5º.
+
+São atribuições da Comissão de Adequação do Plano Diretor Participativo do Município de Porto Velho e legislações urbanísticas correlatas:
+
+
+I –
+
+reunir semanalmente, conforme agenda a ser definida após a publicação deste ato;
+
+
+II –
+
+solicitar das Unidades Setoriais, quando necessário, informações sobre a adequação do Plano Diretor Participativo do Município de Porto Velho – PDPM e demais legislações urbanísticas correlatas;
+
+
+III –
+
+elaborar justificativa técnica de todas as adequações que forem realizadas, tanto para o Plano Diretor, como para as demais legislações correlatas;
+
+
+IV –
+
+encaminhar o Relatório Final, com as justificativas das adequações realizadas na Lei, para o conhecimento do Conselho da Cidade – CONCIDADE;
+
+
+V –
+
+apresentar para a Secretaria Geral do Governo - SGG, o Relatório Final com a justificativa das adequações realizadas na Lei.
+
+
+Parágrafo único
+
+O prazo para vigência das atividades da Comissão de Adequação do Plano Diretor Participativo será de 120 (cento e vinte) dias, podendo ser prorrogado por iguais e sucessivos períodos.
+
+Inclusão feita pelo Art. 1º. - Decreto nº 19.457, de 18 de outubro de 2023.
+
+
+Art. 6º.
+
+A Comissão ora instituída não será remunerada, conforme o Art. 76, § 2º da Lei Complementar nº 385/2010 que “Dispõe sobre o Regime Jurídico dos Servidores Públicos Municipais de Porto Velho, das autarquias, das fundações públicas municipais”.
+
+
+Art. 7º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

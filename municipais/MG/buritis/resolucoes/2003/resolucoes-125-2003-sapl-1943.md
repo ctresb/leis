@@ -1,0 +1,438 @@
+---
+titulo: "Resolução nº 125, de 15 de abril de 2003"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "125"
+data: "2003-04-15"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2023-03-17; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1943"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2041/text"
+sha256_fonte: "97e8d453817a57f496216eed8c845a0c3458d852933a373e3db6e0f981246f71"
+sha256_texto: "cf10916ff4092c86947baac50fb360b2e25d441f8b842711a53cd48954defc76"
+capturado_em_fonte: "2026-10-27T20:20:09.689682-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 125, de 15 de abril de 2003
+
+Institui o Regime de Adiantamento, no âmbito da Câmara Municipal de Buritis, e dá outras providências.
+
+
+A MESA DA CÂMARA MUNICIPAL, aprovou e eu, Presidente da Câmara Municipal, promulgo a seguinte Resolução:
+
+
+Art. 1º.
+
+Fica instituído no âmbito da Câmara Municipal de Buritis, o regime adiantamento, aplicável nos casos de despesas definidas nesta Resolução, consistindo na entrega de numerários ao servidor, sempre precedido de empenho na dotação própria, para o fim de realização de despesas que não possam se subordinar ao processo normal de aplicação.
+
+
+Art. 2º.
+
+O adiantamento de cada espécie de despesa não ultrapassará o valor do duodécimo da dotação correspondente.
+
+
+Art. 3º.
+
+Consideram-se despesas em regime de adiantamento:
+
+Alteração feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+I –
+
+despesas com material de consumo;
+
+Alteração feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+II –
+
+despesas com serviços de terceiros, pessoas física e jurídicа;
+
+Alteração feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+III –
+
+despesas judiciais, custas e emolumentos cartorários;
+
+Alteração feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+IV –
+
+despesas com representação eventual;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+V –
+
+despesa extraordinária e urgente, cuja realização não permita delongas;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+VI –
+
+despesa que tenha de ser efetuada em lugar distante da sede da Câmara Municipal;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+VII –
+
+despesa miúda e de pronto pagamento.
+
+Inclusão feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+§ 1º
+
+Considera-se despesa miúda e de pronto pagamento, para efeitos desta Resolução, as que se realizaram com:
+
+Alteração feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+I –
+
+selos postais, telegramas, radiogramas, material e serviços de limpeza e higiene, lavagem de roupa, café e lanche, pequenos carretos e transportes urbanos, mudanças de mobiliários da Câmara Municipal, pequenos consertos e manutenções pontuais no veículo oficial, dedetização, jardinagem, telefone, água, luz, gás, manutenção de ar condicionado, pequenos reparos de marcenaria, serviços de reparo e manutenção nos dispositivos de informática, de áudio e imagem, eletroeletrônicos e similares, com ou sem aquisição de peças ou baterias, e aquisição avulsa de livros, jornais e outras publicações.
+
+Alteração feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+II –
+
+encadernações avulsas e artigos de escritório, de desenho, impressos e papelaria, em quantidade restrita, para uso ou consumo próximo ou imediato;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+III –
+
+outra qualquer, de pequeno vulto e de necessidade imediata que não possa seguir o processamento normal da despesa, desde que devidamente justificada.
+
+Inclusão feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+§ 2º
+
+Nenhuma despesa realizada pelo regime de adiantamento poderá ultrapassar o valor correspondente a R$ 2.500,00 (dois mil e quinhentos reais), com o valor limite para cada nota fiscal/recibo de até R$ 625,00, podendo esses valores serem atualizados anualmente de acordo com o acumulado dos últimos doze meses do Índice Nacional de Preços ao Consumidor Amplo-IPCA, mediante ato do Presidente da Câmara.
+
+Alteração feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+§ 3º
+
+Ficam excluídas do limite estabelecido neste artigo as despesas correspondentes aos itens III, IV, V e VI do art. 3°.
+
+Inclusão feita pelo Art. 2º. - Resolução nº 351, de 17 de março de 2023.
+
+
+Art. 4º.
+
+As requisições de adiantamentos serão feitas pelos servidores ou agentes públicos, através de ofícios dirigidos ao Chefe do Poder Legislativo, ou a quem por ele for delegada a competência, conforme as necessidades e urgências.
+
+
+Art. 5º.
+
+Os ofícios de adiantamento, deverão constar expressamente:
+
+
+I –
+
+nome completo, cargo ou função do servidor público ao qual será feito o adiantamento;
+
+
+II –
+
+dispositivo legal em que se baseia;
+
+
+III –
+
+a importância requisitada e o fim a que se destina;
+
+
+III –
+
+dotação orçamentária ou o crédito por onde deva correr a despesa;
+
+
+Art. 6º.
+
+O prazo de utilização deverá ser em base mensal, mencionando-se, neste caso, o valor global de adiantamento, a quantia mensal a ser entregue e o período de utilização.
+
+
+Art. 7º.
+
+Não se fará adiantamento:
+
+
+I –
+
+A quem não haja prestado conta do adiantamento anterior no prazo legal;
+
+
+II –
+
+A quem, dentro de 30 (trinta) dias, deixar de atender notificação para regularizar prestação de contas.
+
+
+Art. 8º.
+
+O adiantamento solicitado somente poderá ser utilizado durante o mês a que se refere ou durante o período de 30 (trinta) dias a contar da data da entrega do dinheiro ao responsável.
+
+
+Art. 9º.
+
+Nenhum pagamento poderá ser efetuado fora do período de utilização.
+
+
+Art. 10.
+
+O oficio de solicitação do adiantamento será protocolado e remetido diretamente ao Presidente da Câmara para a competente autorização.
+
+
+Art. 11.
+
+As solicitações de adiantamento terão sempre andamento preferencial e urgente.
+
+
+Art. 12.
+
+Autorizada a despesa será empenhada e paga com cheque nominal a favor responsável indicado no processo.
+
+
+Art. 13.
+
+No caso de adiantamento em duodécimo, a despesa será empenhada globalmente, pelo total do período e, mensalmente, far-se-á pagamento correspondente. Neste caso todos os pagamentos correrão pelo mesmo processo.
+
+
+Art. 14.
+
+Cabe à Contabilidade verificar, antes de registrar o empenho, se foram cumpridas as disposições desta lei. Constatado algum defeito processual, não dará prosseguimento ao processo, devendo devolve-lo à origem, informando para as correções que se fizerem necessárias.
+
+
+Art. 15.
+
+Nos casos de adiantamento considerado de maior vulto, poderá o responsável fazer saques parcelados na tesouraria, mediante simples requisição contendo o número do processo, do empenho e o valor da parcela solicitada.
+
+
+Parágrafo único
+
+Na hipótese deste artigo, o período de aplicação será contado a partir da data em que for entregue a primeira parcela.
+
+
+Art. 16.
+
+O adiantamento não poderá ser utilizado em despesas de classificação diferente daquela para a qual foi autorizada.
+
+
+Art. 17.
+
+A cada pagamento efetuado, o responsável exigirá nota fiscal, nota simplificada, cupom de máquina registradora e recibo.
+
+
+Art. 18.
+
+As notas fiscais serão sempre emitidas em nome da Câmara Municipal de Buritis.
+
+
+Art. 19.
+
+Os comprovantes de despesas não poderão conter rasuras, emendas, borrões e valor ilegível, não sendo admitido em hipótese alguma, segundas vias, cópias xerox, fotocópias ou qualquer outra espécie de reprodução.
+
+
+Art. 20.
+
+Cada pagamento será convenientemente justificado, esclarecendo-se a razão da despesa, o destino da mercadoria ou do serviço e outras informações que possam melhor explicar a necessidade de operação.
+
+
+Art. 21.
+
+Em todos os comprovantes de despesas, deverá constar o atestado de recebimento do material ou da prestação de serviços.
+
+
+Art. 22.
+
+O saldo de adiantamento não utilizado será recolhido à tesouraria da Câmara Municipal, mediante guia de arrecadação, onde constará o nome do responsável e identificação do adiantamento, cujo saldo está sendo restituído.
+
+
+Art. 23.
+
+O prazo de recolhimento do saldo não utilizado será de 05 (cinco) dias, a contar do termo final do período de aplicação.
+
+
+Art. 24.
+
+O valor recolhido será classificado na tesouraria no grupo das receitas extraorçamentárias.
+
+
+Art. 25.
+
+A contabilidade, à vista da guia de recolhimento, emitirá a nota de anulação correspondente, juntando uma via ao processo. Registrará a anulação no diário da despesa empenhada e no diário da despesa realizada.
+
+
+Art. 26.
+
+No mês de dezembro todos os saldos de adiantamento serão recolhidos à tesouraria até o último dia útil, mesmo que o período de utilização não tenha expirado.
+
+
+Art. 27.
+
+Caso, eventualmente, algum saldo de adiantamento for recolhido no exercício seguinte, o valor será classificado como receitas diversas do exercício.
+
+
+Art. 28.
+
+No prazo de 05 (cinco) dias, a contar do termo final do período de utilização, o responsável, prestará contas do adiantamento recebido.
+
+
+Parágrafo único
+
+A cada adiantamento, corresponderá uma prestação de contas.
+
+
+Art. 29.
+
+A prestação de contas far-se-á mediante entrada, na contabilidade, dos seguintes documentos:
+
+
+I –
+
+Oficio, conforme modelo a ser elaborado pela contabilidade;
+
+
+II –
+
+Relação de todos os documentos de despesas constando: Número e data do documento, espécie do documento, nome do interessado e valor da despesa, constando no final da relação a soma da despesa;
+
+
+III –
+
+cópia da guia de recolhimento do saldo aplicado, se houver;
+
+
+IV –
+
+cópias da nota de empenho e da nota de anulação se houver saldo recolhido;
+
+
+V –
+
+documentos das despesas realizadas, dispostos em ordem cronológica na mesma sequência da relação mencionada no item II;
+
+
+VI –
+
+os documentos mencionados no item V, de medidas reduzidas, serão colocados em folhas brancas, tamanho oficio devendo ser colocados em cada folha quantos documentos forem possíveis, sem que fiquem sobrepostos uns aos outros;
+
+
+VII –
+
+em cada documento constará, obrigatoriamente, o atestado de recebimento do material ou da prestação de serviço; a finalidade da despesa; o destino do material e outros esclarecimentos que se fizerem necessários à perfeita caracterização da despesa.
+
+
+Art. 30.
+
+Não serão aceitos documentos rasurados, ilegíveis, com data anterior ou posterior ao período da aplicação do adiantamento ou que se refira a despesa não classificável na espécie de adiantamento concedido.
+
+
+Art. 31.
+
+Caberá à contabilidade realizar tomada de contas dos adiantamentos.
+
+
+Art. 32.
+
+Recebidas as prestações de contas a contabilidade verificará se as disposições da presente lei foram inteiramente cumpridas, fazendo as exigências necessárias, fixando prazos razoáveis para que os responsáveis possam cumpri-las.
+
+
+Art. 33.
+
+Sendo as contas consideradas compatíveis com as normas legais, a contabilidade certificará o fato e encaminhará o processo, apensado aos que autorizou o adiantamento, ao órgão encarregado do Controle Interno para exame final e parecer.
+
+
+Art. 34.
+
+Com o parecer do órgão, o processo será encaminhado diretamente ao chefe do Poder Legislativo, para aprovação ou não, das contas voltando à contabilidade para as providências:
+
+
+I –
+
+no caso de terem sido aprovadas:
+
+
+a)
+
+baixar a responsabilidade inscrita no sistema de compensação;
+
+
+b)
+
+convidar o responsável para tomar ciência, no próprio processo;
+
+
+c)
+
+arquivar o processo de prestação de contas apenso ao processo que autorizou o adiantamento, onde ficará à disposição do Tribunal de Contas;
+
+
+II –
+
+Na hipótese de aprovação das contas condicionadas a determinadas exigências:
+
+
+a)
+
+providenciar o cumprimento das exigências determinadas;
+
+
+b)
+
+adotar as medidas indicadas no item anterior;
+
+
+III –
+
+Não sendo aprovadas as contas, seguir a orientação determinada pelo Presidente da Câmara em seu despacho final.
+
+
+Art. 35.
+
+A contabilidade organizará um calendário para controlar as datas em que deverão retornar as prestações de contas de adiantamento concedidos.
+
+
+Art. 36.
+
+No dia útil imediato ao vencimento do prazo para prestação de contas sem que o responsável as tenha apresentado, a contabilidade oficiará diretamente ao responsável, concedendo-lhe o prazo final e improrrogável de 05 (cinco) dias para faze-lo.
+
+
+Art. 37.
+
+Não sendo cumprida a obrigação de prestação de contas, após o escoamento do prazo final estabelecido no artigo anterior, será imposta ao servidor, multa de 10% (dez por cento) sobre o adiantamento, contados da data do recebimento à data da entrega da prestação de contas e restituição do saldo e o ordenador da despesa solicitará a instauração de inquérito administrativo, na forma da Lei, sem prejuízo da ação penal cabível.
+
+
+Art. 38.
+
+Os casos omissos serão resolvidos pelo Chefe do Poder Legislativo.
+
+
+Art. 39.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Buritis, 15 de abril de 2003.
+
+**Vereador Mário Rodrigues de Farias Presidente da Câmara Municipal**
+
+**Vereador Antônio César Vieira Lobo 1º Secretário da Câmara**
+

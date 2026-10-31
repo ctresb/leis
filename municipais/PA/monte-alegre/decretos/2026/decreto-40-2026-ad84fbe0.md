@@ -1,0 +1,51 @@
+---
+titulo: "DECRETO Nº 40/2026"
+uf: "PA"
+municipio: "MONTE ALEGRE"
+tipo: "Decreto"
+numero: "40"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 05/02/2026"
+data_publicacao: 2026-02-05
+codigo_identificador: "AD84FBE0"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117012_2026-02-04_a47f68c7b126e42b001d5b37eebdb83a.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 40/2026
+
+DECRETO Nº 40/2026
+
+AVISO DE LICITAÇÃO
+NÚMERO DA LICITAÇÃO: 001/2026-SEMED
+PREFEITURA
+MUNICIPAL
+DE
+MOJUI
+CAMPOS/SECRETARIA
+FUNDO
+MUNICIPAL
+EDUCAÇÃO
+MODALIDADE:CHAMADA PÚBLICA
+
+DECRETO Nº 40/2026
+DOS
+DE
+
+DISPÕE SOBRE A EXONERAÇÃO DE
+SERVIDORA NOMEADA PARA CARGO DE
+NATUREZA ESPECIAL DA EDUCAÇÃO E DÁ
+OUTRAS PROVIDÊNCIAS.
+
+OBJETO: CREDENCIAMENTO PARA AQUISIÇÃO DE
+GÊNEROS ALIMENTICÍOS DA AGRICULTURA FAMILIAR,
+PRODUÇÃO CONVENCIONAL E ORGÂNICA PARA
+FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR AOS
+ALUNOS MATRICULADOS NAS ESCOLAS DA REDE
+MUNICIPAL E ESTADUAL DE ENSINO DE MOJUÍ DOS
+CAMPOS/PA. Abertura da sessão pública: 27/02/2026 às 09h00min
+no site www.portaldecompraspublicas.com.br.
+Publicado por:
+Gisele Lima da Silva

@@ -1,0 +1,59 @@
+“Altera as tabelas salariais das Leis Complementares nº 174, de 12 de novembro de 2003; nº 141, de 19 de abril de 2002 e nº 187, de 28 de maio de 2004”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe são conferidas pelos artigos 65, §1º, II, e 87, III, da Lei Orgânica do Município de Porto Velho,  
+  
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica alterado o Anexo II, de que trata o inciso II do art. 33 da Lei Complementar 141, de 19 de abril de 2002, nos termos do Anexo I desta Lei Complementar.
+
+
+Art. 2º.
+
+Fica alterado o Anexo II, da Lei Complementar 187, de 28 de maio de 2004, nos termos do Anexo II desta Lei Complementar.
+
+
+Art. 3º.
+
+Fica alterada a remuneração de que trata o art. 8º da Lei Complementar 174, de 12 de dezembro de 2003, nos termos do Anexo III desta Lei Complementar.
+
+
+Art. 4º.
+
+As despesas decorrentes desta Lei Complementar correrão por conta de recursos disponibilizados no orçamento vigente.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito do Município
+
+**MARIO JONAS FREITAS GUTERRES**
+
+Procurador Geral do Município
+
+
+## Anexo I — TABELAS DE VENCIMENTO - DEMAIS SECRETARIAS
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td rowspan="2"><strong>CLASSE</strong></td><td rowspan="2"><strong>GR</strong></td><td colspan="4"><strong>R E F Ê N C I A S</strong></td></tr><tr><td><strong>1</strong></td><td><strong>2</strong></td><td><strong>3</strong></td><td><strong>4</strong></td></tr><tr><td><strong>A</strong></td><td><strong>1</strong></td><td>467,67</td><td>477,02</td><td>486,56</td><td>496,30</td></tr><tr><td><strong>B</strong></td><td><strong>2</strong></td><td>477,02</td><td>486,56</td><td>496,30</td><td>506,22</td></tr><tr><td><strong>C</strong></td><td><strong>3</strong></td><td>486,56</td><td>496,30</td><td>506,22</td><td>516,35</td></tr><tr><td><strong>D</strong></td><td><strong>4</strong></td><td>496,30</td><td>506,22</td><td>516,35</td><td>526,67</td></tr><tr><td><strong>E</strong></td><td><strong>5</strong></td><td>506,22</td><td>516,35</td><td>526,67</td><td>537,21</td></tr><tr><td><strong>F</strong></td><td><strong>6</strong></td><td>516,35</td><td>526,67</td><td>537,21</td><td>547,95</td></tr></tbody></table>
+
+<table><colgroup></colgroup><tbody><tr><td><strong>CLASSE A – GRUPO – GAO</strong></td></tr><tr><td><strong>CLASSE B – GRUPO – GAA/TAF/GSA</strong></td></tr><tr><td><strong>CLASSE C – GRUPO – GAT/GCI/TAF/GSA</strong></td></tr><tr><td><strong>CLASSE D – GRUPO – TSU/GCI/GOJ/GSA</strong></td></tr><tr><td><strong>CLASSE E</strong></td></tr><tr><td><strong>CLASSE F – GRUPO -GSA</strong></td></tr></tbody></table>
+
+
+## Anexo II — TABELA DE VENCIMENTO – GRUPO TAF
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup span="5"></colgroup><tbody><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td>AUXILIAR DE SERVIÇOS FISCAIS</td><td rowspan="3">TAF-EMC-02 E 03</td><td>A</td><td>465,35</td><td>488,62</td><td>850,39</td><td>1.190,54</td></tr><tr><td>E</td><td>B</td><td>1.428,64</td><td>1.642,94</td><td>1.889,39</td><td>2.172,79</td></tr><tr><td>ASSISTENTE DE ARRECADAÇÃO</td><td>C</td><td>2.498,70</td><td>2.873,51</td><td>3.304,54</td><td>3.800,22</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td>FISCAL MUNICIPAL</td><td rowspan="3">TAF-EMC-04, 05, 06, 07, 08, E 09</td><td> </td><td>467,13</td><td>517,66</td><td>1.138,86</td><td>1.594,41</td></tr><tr><td>MEIO AMBIENTE, OBRAS, POSTURA, TRANSPORTE</td><td>A</td><td>1.913,30</td><td>2.200,28</td><td>2.530,32</td><td>2.909,87</td></tr><tr><td>TRIBUTOS E VIGILÂNCIA SANITÁRIA.</td><td>B</td><td>3.346,36</td><td>3.848,31</td><td>4.425,56</td><td>5.089,41</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3">AUDITOR DO TESOURO</td><td rowspan="3">TAF-NS-01</td><td>A</td><td>581,99</td><td>640,19</td><td>1.409,65</td><td>1.973,50</td></tr><tr><td>B</td><td>2.368,21</td><td>2.723,44</td><td>3.131,96</td><td>3.601,76</td></tr><tr><td>C</td><td>4.142,02</td><td>4.763,31</td><td>5.477,82</td><td>6.299,49</td></tr></tbody></table>
+
+
+## Anexo III — TABELA DE VENCIMENTO – EMPREGOS PÚBLICOS
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td><strong>ORDEM</strong></td><td><strong>NOME DO EMPREGO</strong></td><td><strong>CÓDIGO</strong></td><td><strong>CLASSE</strong></td><td><strong>SÁLARIO</strong></td></tr><tr><td>01</td><td>AGENTE DE SAÚDE PÚBLICA</td><td>GSA-EMC-20</td><td>ÚNICA B</td><td>465,35</td></tr><tr><td>02</td><td>AGENTE COMUNITÁRIO DE SAÚDE</td><td>GSA-EMC-21</td><td>ÚNICA B</td><td>465,35</td></tr></tbody></table>

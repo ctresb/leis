@@ -1,0 +1,42 @@
+{
+  "host": "sapl.altamira.pa.leg.br",
+  "metadados_unicos_observados": 13,
+  "total_api_declarado": 13,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altamira.pa.leg.br/8214fe19c472d97dc6a551e46d4f6aa7d849410dbc99ea40b15387ba08b65bb5.json",
+    "url": "https://sapl.altamira.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.altamira.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T05:27:22.562588-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altamira.pa.leg.br/9f0fc0db4210cfcc38b6816cf5e0eb2d1dd68d919fa3eeef34f3a5e3cf42c7b4.json",
+    "url": "https://sapl.altamira.pa.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.altamira.pa.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1a920c3635a6ec11d8e956d2e5e49ed9676f62dc2dddbdc1918232094731ed4d",
+    "bytes": 713,
+    "capturado_em": "2026-10-21T05:27:20.937736-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altamira.pa.leg.br/471ef2f945558da847e92a615f79aa91deca0121770abf7269b99efc6a88d522.json",
+      "url": "https://sapl.altamira.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.altamira.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a672758c7f48ffc367bf179bf48a7ccc297d4bcffe1d365fd40adbe0c333e7fe",
+      "bytes": 9594,
+      "capturado_em": "2026-10-21T05:27:25.595564-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

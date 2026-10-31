@@ -1,0 +1,36 @@
+Altera a Lei n. 8.230, de 29 de dezembro de 1998, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+A letra a do art. 3º da Lei n. 8.230, de 29 de dezembro de 1998, passa a ter a seguinte redação:
+
+
+Art. 2º.
+
+As atividades constantes na letra a do art. 1º desta lei passam a integrar o Anexo I, a que se refere o art. 4º da Lei n. 8.230, de 29 de dezembro de 1998.
+
+
+Art. 3º.
+
+O uso de bens públicos municipais que envolvam obras, empreendimentos e atividades de possível impacto local, será remunerado por meio de preço público, sujeitando-se a prévio licenciamento ambiental, obedecido o disposto na Lei n. 8.230, de 29 de dezembro de 1998.
+
+
+Art. 4º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza em 18 de dezembro de 2000.**  
+  
+  
+JURACI MAGALHÃES  
+PREFEITO DE FORTALEZA
+
+
+## ANEXO I
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup span="3"></colgroup><tbody><tr><td rowspan="2">Natureza do<br>Empreendimento</td><td rowspan="2">Porte</td><td colspan="3">COEFICIENTE (UFIR)</td></tr><tr><td>LP</td><td>LI</td><td>LO</td></tr><tr><td rowspan="4">Parcelamento do Solo<br>Uso do Solo<br>Uso do Subsolo ou do<br>Espaço Aéreo do Município</td><td>Até 10 ha</td><td>174,8</td><td>349,6</td><td>***</td></tr><tr><td>&lt; 100 = 50ha</td><td>262,2</td><td>524,4</td><td>***</td></tr><tr><td>&gt; 50 = 100 ha</td><td>349,6</td><td>699,2</td><td>***</td></tr><tr><td>Superior a 100 ha</td><td>437</td><td>874</td><td>***</td></tr><tr><td rowspan="7">Pesquisa, extração e<br>Tratamento de minério</td><td>Até 05 ha</td><td>174,8</td><td>349,6</td><td>524,4</td></tr><tr><td>&gt; 05 = 10 ha</td><td>262,2</td><td>437</td><td>611,8</td></tr><tr><td>&gt; 10 = 30 ha</td><td>349,6</td><td>524,4</td><td>699,2</td></tr><tr><td>&gt; 30 = 50 ha</td><td>437</td><td>611,8</td><td>786,6</td></tr><tr><td>&gt; 50 = 100 ha</td><td>524,4</td><td>699,2</td><td>874</td></tr><tr><td>&gt; 100 = 300 ha</td><td>611,8</td><td>786,6</td><td>961,4</td></tr><tr><td>Superior a 300 ha</td><td>690,2</td><td>974</td><td>1048,8</td></tr><tr><td rowspan="4">Salina e Aquicultura</td><td>Até 10 ha</td><td>87,4</td><td>174,8</td><td>262,2</td></tr><tr><td>&gt; 10 = 25 ha</td><td>174,8</td><td>262,2</td><td>349,6</td></tr><tr><td>&gt;25 = 50 ha</td><td>262,2</td><td>349,6</td><td>437</td></tr><tr><td>Superior a 50 ha</td><td>349,6</td><td>437</td><td>524,4</td></tr><tr><td rowspan="4">Conjunto Habitacional</td><td>Até 100 unid. Hab.</td><td>174,8</td><td>349,6</td><td>***</td></tr><tr><td>&gt; 100 = 500</td><td>262,2</td><td>524,4</td><td>***</td></tr><tr><td>&gt; 500 = 1000</td><td>349,6</td><td>699,2</td><td>***</td></tr><tr><td>Superior a 1000</td><td>437</td><td>874</td><td>***</td></tr><tr><td rowspan="5">Construção Civil em Área<br>de Interesse Ambiental<br>(Unidade Unifamiliar)</td><td>Até 0,5 ha</td><td>349,6</td><td>524,4</td><td>***</td></tr><tr><td>&gt; 0,5 = 3 ha</td><td>437</td><td>611,8</td><td>***</td></tr><tr><td>&gt; 3 = 10 ha</td><td>524,4</td><td>699,2</td><td>***</td></tr><tr><td>&gt; 10 = 30 ha</td><td>611,8</td><td>786,6</td><td>***</td></tr><tr><td>&gt; 30 ha</td><td>699,2</td><td>874</td><td>***</td></tr><tr><td rowspan="5">Construção Civil em Área <br>de Interesse Ambiental <br>(Unidade Multifamiliar)</td><td>Até 0,5 ha</td><td>437</td><td>611,8</td><td>***</td></tr><tr><td>&gt; 0,5 = 3 ha</td><td>611,8</td><td>786,4</td><td>***</td></tr><tr><td>&gt; 3 = 10 ha</td><td>786,6</td><td>961,4</td><td>***</td></tr><tr><td>&gt; 10 ha</td><td>961,4</td><td>1136,2</td><td>***</td></tr><tr><td>&gt; 30 ha</td><td>1136,2</td><td>1311</td><td>***</td></tr><tr><td rowspan="5">Outras Atividades Obras ou<br>Empreendimentos<br>Modificadores do<br>Ambiente</td><td>Até 0,5 ha</td><td>262,2</td><td>349,6</td><td>***</td></tr><tr><td>&gt; 0,5 = 3 ha</td><td>437</td><td>524,4</td><td>***</td></tr><tr><td>&gt; 3 = 10 ha</td><td>611,8</td><td>699,2</td><td>***</td></tr><tr><td>&gt; 10 ha</td><td>786,6</td><td>874</td><td>***</td></tr><tr><td>&gt; 30 ha</td><td>874</td><td>1048,8</td><td>***</td></tr></tbody></table>

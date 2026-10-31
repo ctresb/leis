@@ -1,0 +1,3741 @@
+---
+titulo: "Lei Ordinária nº 133, de 23 de dezembro de 1996"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "133"
+data: "1996-12-23"
+municipio: "Conceição do Coité"
+uf: "BA"
+codigo_ibge: "2908408"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-04-16; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodocoite.ba.leg.br/norma/941"
+fonte_texto: "https://sapl.conceicaodocoite.ba.leg.br/ta/485/text"
+sha256_fonte: "61793466c2c18ebf878dc791adabc5a56672e24858115753b9bd6e92b32da3d2"
+sha256_texto: "c96578640b007b5388c768900e45e2dcac1da7d2849a914cdcbfe247abe6bb3c"
+capturado_em_fonte: "2026-10-27T23:20:27.816951-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 133, de 23 de dezembro de 1996
+
+Institui o Estatuto dos Servidores Públicos do Município de Conceição do Coité.
+
+
+O PREFEITO MUNICIPAL DE CONCEIÇÃO DO COITÉ, ESTADO DA BAHIA,
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte
+
+**LEI:**
+
+
+### TÍTULO I — CAPÍTULO ÚNICO Das Disposições Preliminares
+
+
+Art. 1º.
+
+Esta Lei institui o Estatuto dos Servidores Públicos da administração direta, de ambos os seus poderes, das Autarquias e das Fundações Públicas do Município de Conceição do Coité.
+
+
+Art. 2º.
+
+Para efeito desta Lei, servidores são funcionários legalmente investidos em cargos públicos de provimento efetivo ou em comissão.
+
+
+Art. 3º.
+
+Cargo Público é um conjunto de atribuições e responsabilidades, previstas na estrutura organizacional, que devem ser cometidas a um servidor.
+
+
+Parágrafo único
+
+Os cargos públicos, acessíveis a todos os brasileiros, são criados por Lei, com denominação própria e vencimento pago pelos cofres públicos, para provimento em caráter efetivo ou em comissão.
+
+
+Art. 4º.
+
+Os cargos de provimento efetivo da Administração Pública Municipal Direta, das Autarquias e das Funções Públicas serão organizadas em carreira.
+
+
+Art. 5º.
+
+As carreiras serão organizadas em classes de cargos, observadas a escolaridade e a complexidade das atribuições a serem exercidas por seus ocupantes.
+
+
+Art. 6º.
+
+Para os efeitos desta Lei:
+
+
+I –
+
+referência é a posição estabelecida para o ocupante do cargo dentro da respectiva classe, de acordo com o critério de antiguidade;
+
+
+II –
+
+classe é a posição hierarquizada de cargos da mesma denominação dentro da categoria funcional;
+
+
+III –
+
+categoria funcional é um agrupamento de cargos classificados segundo o grau de conhecimento ou habilidade exigidos;
+
+
+IV –
+
+grupo ocupacional é o conjunto de cargos identificados pela similaridade da área de conhecimento ou de atuação, assim como pela natureza dos respectivos trabalhos;
+
+
+V –
+
+carreira é a linha estabelecida para evolução em cargo de igual nomenclatura e na mesma categoria funcional, de acordo com o merecimento e antiguidade do servidor;
+
+
+VI –
+
+estrutura de cargos é o conjunto de cargos ordenados segundo os diversos grupos ocupacionais e categorias funcionais correspondentes;
+
+
+VII –
+
+lotação é o número de cargos de provimento permanente e de provimento temporário, integrantes dos órgãos dos Poderes do Município, das Autarquias e das Fundações Públicas.
+
+
+Art. 7º.
+
+Quadro é o conjunto de cargos de provimento permanente e de provimento temporário, integrante dos órgãos dos Poderes do Município, das Autarquias e das Fundações Públicas.
+
+
+Art. 8º.
+
+É proibido o exercício gratuito de cargos públicos, salvo nos cargos previstos na Lei.
+
+
+### TÍTULO II — Do Provimento, Vacância, Remoção, Redistribuição, Cessão e Distribuição
+
+
+#### CAPÍTULO I — Do Provimento
+
+
+##### Seção I — Das Disposições Gerais
+
+
+Art. 9º.
+
+São requisitos básicos para ingresso no Serviço Público Municipal de Conceição do Coité:
+
+
+I –
+
+a nacionalidade brasileira;
+
+
+II –
+
+o gozo dos direitos políticos;
+
+
+III –
+
+a quitação com as obrigações militares e eleitorais;
+
+
+IV –
+
+o nível de escolaridade exigido para o exercício do cargo;
+
+
+V –
+
+aptidão física e mental;
+
+
+VI –
+
+habilitação legal para o exercício do cargo;
+
+
+VII –
+
+não estar incompatibilizado para o serviço público em razão de penalidade sofrida;
+
+
+VIII –
+
+idade mínima de 18 (dezoito) anos completos.
+
+
+§ 1º
+
+As atribuições específicas de determinados cargos podem justificar a exigência de outros requisitos estabelecidos em Lei.
+
+
+§ 2º
+
+As pessoas portadoras de deficiência física é assegurado o direito de se inscrever em Concurso Público, para provimento de cargo cujas atribuições sejam compatíveis com a deficiência de que são portadoras, reservando-se-lhes até 5% ( cinco por cento) das vagas oferecidas no Concurso.
+
+
+Art. 10.
+
+O provimento dos cargos públicos far-se-á mediante ato do Prefeito, do Presidente da Câmara Municipal ou do Dirigente Superior da Autarquia e/ou Fundação Pública do Município, conforme o caso.
+
+
+Art. 11.
+
+A investidura em cargo público ocorrerá com a posse, completando-se com o exercício.
+
+
+Art. 12.
+
+São formas de provimento em cargo público:
+
+
+I –
+
+nomeação;
+
+
+II –
+
+ascensão;
+
+
+III –
+
+readaptação;
+
+
+IV –
+
+aproveitamento;
+
+
+V –
+
+reintegração;
+
+
+VI –
+
+recondução;
+
+
+VII –
+
+reversão;
+
+
+VIII –
+
+transferência.
+
+
+##### Seção II — Da Nomeação
+
+
+Art. 13.
+
+A nomeação far-se-á:
+
+
+I –
+
+em caráter efetivo quando se tratar de cargo de carreira;
+
+
+II –
+
+em comissão, para cargos declarados em Lei de livre nomeação e exoneração.
+
+
+Art. 14.
+
+A nomeação para cargos de carreira depende de prévia habilitação em Concurso Público de provas ou de provas e títulos, obedecidos a ordem de classificação e o prazo de validade.
+
+
+Parágrafo único
+
+Os demais requisitos para o ingresso e o desenvolvimento do serviço na carreira serão estabelecidos pela Administração Pública Municipal em seus regulamentos.
+
+
+###### Subseção I — Do Concurso Público
+
+
+Art. 15.
+
+O Concurso Público é o processo de regulamento e seleção, de natureza competitiva, classificatória e eliminatória, aberta ao público em geral, atendidos os requisitos de inscrição estabelecidos em edital.
+
+
+Art. 16.
+
+O Concurso Público será de provas ou de provas e títulos, compreendendo uma ou mais etapas, conforme dispuser o ser regulamento.
+
+
+Art. 17.
+
+O Concurso Público terá validade de até 02 ( dois) anos, podendo ser prorrogado somente uma vez, por igual período.
+
+
+§ 1º
+
+O prazo de validade do Concurso Público e as condições de sua realização serão fixadas em edital, que será publicado no órgão oficial e em jornal diário de grande circulação no Município.
+
+
+§ 2º
+
+Durante o prazo de validade do Concurso Público, previsto no edital de convocação, não se poderá realizar novo concurso, sob pena de nulidade deste.
+
+
+###### Subseção II — Da Posse e do Exercício
+
+
+Art. 18.
+
+Posse é a aceitação formal, pelo concursado, das atribuições, dos deveres e das responsabilidades inerentes ao cargo público, formalizada com a assinatura do termo pela autoridade competente e pelo empossado.
+
+
+§ 1º
+
+Só haverá posse no caso de provimento inicial de cargo, por nomeaçã
+
+
+§ 2º
+
+No ato da posse, o concurso apresentará, obrigatoriamente, declaração dos bens e valores que constituem seu patrimônio e declaração sobre exercício ou não de outro cargo, emprego ou função pública.
+
+
+Art. 19.
+
+A posse ocorrerá no prazo de 30 (trinta) dias, contado a partir da publicação do ato de provimento. Este prazo poderá ser prorrogado uma vez, por mais 30 (trinta) dias, a pedido do interessado e a critério da autoridade competente.
+
+
+Parágrafo único
+
+Se o concursado for servidor público e estiver afastado, em férias ou licença, salvo se for de interesse particular, o prazo para posse será contado do término das férias ou licença, não podendo entretanto, ultrapassar aquele estabelecido para a validade do concurso.
+
+
+Art. 20.
+
+Poderá haver posse por procuração específica.
+
+
+Art. 21.
+
+A posse em cargo público dependerá de prévia inspeção médica oficial.
+
+
+Art. 22.
+
+Será tornado sem efeito o ato de nomeação se a posse não ocorrer no prazo previsto no Artigo 19 desta Lei, ou se o concursado for julgado inapto para o exercício do cargo.
+
+
+Art. 23.
+
+São competentes para dar posse as autoridades indicadas no Artigo 19 desta Lei, podendo tal competência ser adquirida por delegação de poderes.
+
+
+Art. 24.
+
+Exercício é o efetivo desempenho pelo servidor das atribuições do cargo público.
+
+
+§ 1º
+
+É de 30 (trinta) dias o prazo para o servidor entrar em exercício, contados da data de posse.
+
+
+§ 2º
+
+Será exonerado o servidor empossado que não entrar em exercício no prazo previsto no parágrafo anterior.
+
+
+§ 3º
+
+Compete a autoridade do órgão ou entidade para onde for indicado o servidor dar-lhe exercício.
+
+
+§ 4º
+
+Ao entrar em exercício, o servidor apresentará ao órgão competente os elementos necessário ao seu assentamento individual.
+
+
+§ 5º
+
+O início, a interrupção e o reinicio do exercício serão registrados no assentamento individual do servidor.
+
+
+§ 6º
+
+Os efeitos financeiros da nomeação somente terão a partir do início do efetivo exercício.
+
+
+###### Subseção III — Da Jornada de Trabalho e da Frequência ao Serviço
+
+
+Art. 25.
+
+A jornada normal do Servidor Público Municipal será de 20 (vinte) horas semanais para os ocupantes dos Cargos de Professor e de 40 (quarenta) para os demais cargos, não podendo ultrapassar 08 (oito) horas diárias, excetuado o regime de turnos e facultada a compensação de horário e a redução da jornada mediante acordo ou negociação coletiva
+
+
+Parágrafo único
+
+Além do cumprimento da jornada normal de trabalho, o exercício de cargo em comissão ou função de confiança exigirá do seu ocupante, dedicação integral ao serviço, podendo ser convocado sempre que houver interesse da administração, sem direito a pagamento de adicional pela prestação de serviços extraordinários.
+
+
+Art. 26.
+
+Poderá haver prorrogarão da duração normal do trabalho por necessidade do serviço ou motivo de força maior.
+
+
+§ 1º
+
+A prorrogação de que trata o “CAPUT” deste Artigo, não poderá ultrapassar a jornada básica semanal nem exceder o limite máximo de 10 (dez) horas diárias, salvo nos casos de jornada especial e em regime de turnos.
+
+
+§ 2º
+
+As horas que excederem a jornada básica serão remuneradas ou compensadas pela correspondente diminuição em outro dia, a pedido do servidor e por conveniência da Administração.
+
+
+§ 3º
+
+Na hipótese de compensação, a jornada de trabalho não poderá exercer a normal fixada para a semana, nem ultrapassar o limite máximo de 10 (dez) horas diárias.
+
+
+Art. 27.
+
+Ao servidor que seja estudante será concedido horário especial de trabalho, sem prejuízo de sua remuneração e demais vantagens, observadas as seguintes condições:
+
+
+I –
+
+comprovação da incompatibilidade dos horários das aulas e do serviço, mediante atestado fornecido pela instituição de ensino onde está matriculado.
+
+
+II –
+
+apresentação de atestado de freqüência mensal, fornecido pela instituição de ensino.
+
+
+Parágrafo único
+
+Ao estudante matriculado em cursos noturnos de formação educacional será facultado ausentar-se de sua função 1 (uma) hora antes do término do expediente, para possibilitar sua locomoção e preparação das atividades educacionais, observando-se o que determina os incisos I e II deste artigo.
+
+
+Art. 28.
+
+Não haverá trabalho nas repartições públicas municipais aos sábados e domingos, que serão considerados como de descanso semanal remunerado, salvo em órgãos ou entidades cujos serviços, pela sua natureza, exijam a execução nestes dias.
+
+
+Parágrafo único
+
+Em caso de trabalho desenvolvido aos sábados e domingos, poderá haver compensação com o correspondente descanso em dias úteis da semana, garantindo-se, pelo menos, o descanso em um domingo do mês.
+
+
+Art. 29.
+
+A frequência dos servidores será apurada através de registros, a ser definido pela Administração, pelo qual se verificarão, diariamente, as entradas e saídas.
+
+
+Art. 30.
+
+Compete ao chefe imediato do servidor o controle e a fiscalização da sua frequência, sob pena de responsabilidade funcional e perda de confiança, passível de exoneração ou dispensa.
+
+
+Parágrafo único
+
+A falta de registro de freqüência ou a prática de ações que visem a sua burla pelo servidor implica na adoção obrigatória, pela chefia imediata, das providências necessárias à aplicação de pena disciplinar.
+
+
+###### Subseção IV — Do Estágio Probatório
+
+
+Art. 31.
+
+Ao entrar em exercício, o servidor público nomeado para o cargo de provimento efetivo ficará sujeito a estágio probatório, por período de 02 (dois) anos, durante o qual a sua aptidão e capacidade serão objeto de avaliação para o desempenho do cargo, observados os seguintes fatores:
+
+
+I –
+
+assiduidade;
+
+
+II –
+
+disciplina;
+
+
+III –
+
+produtividade;
+
+
+IV –
+
+responsabilidade.
+
+
+§ 1º
+
+Três meses antes de findar o período do estágio probatório, será submetida a homologação da autoridade competente a avaliação do desempenho do servidor, realizada de acordo com o que dispuser a Lei ou Regulamento do Sistema de Carreira, sem prejuízo da continuidade de apuração dos fatores enumerados nos incisos I a IV deste artigo.
+
+
+§ 2º
+
+O servidor não aprovado no estágio probatório será exonerado ou, servidor estável, será reconduzido ao cargo anteriormente ocupado, observado ou disposto no Artigo 42.
+
+
+Art. 32.
+
+Durante o período de cumprimento do estágio probatório, o servidor não poderá afastar-se do cargo para qualquer fim, salvo para gozo de licença, para tratamento de saúde e por acidente em serviço, licença à gestante, lactante e adotante e licença paternidade.
+
+
+###### Subseção V — Da Estabilidade
+
+
+Art. 33.
+
+O servidor habilitado em Concurso Público e empossado em cargo de provimento efetivo adquirirá estabilidade no serviço público ao completar 02 (dois) anos de efetivo exercício.
+
+
+Art. 34.
+
+O servidor estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou mediante processo administrativo disciplinar, no qual deverá lhe ser assegurada ampla defesa.
+
+
+##### Seção III — Da Ascensão
+
+
+Art. 35.
+
+Ascensão é a passagem do servidor público da última classe de um cargo ou de classe única para a primeira do cargo imediatamente superior dentro da mesma carreira, obedecidos os requisitos estabelecidos nas Leis que instituírem as diretrizes do sistema de carreira e os planos de carreira e vencimentos.
+
+
+§ 1º
+
+A ascensão dependerá de habilitação em Concurso Público que observará os critérios a serem definidos em edital.
+
+
+§ 2º
+
+Das vagas existentes e fixadas no edital de Concurso Público, até 20% (vinte por cento) deverão ser reservadas e destinadas aos servidores públicos da carreira em que se promove a ascensão, que terão classificação distinta dos demais concorrentes.
+
+
+§ 3º
+
+Se não houver o preenchimento das vagas por ascensão, no todo ou em parte, em virtude da inexistência ou inabilitação de candidatos, poderão ser elas preenchidas por candidatos aprovados no Concurso
+
+
+##### Seção IV — Da Readaptação
+
+
+Art. 36.
+
+Readaptação é a investidura do servidor público estável em cargos de atribuições e responsabilidades compatíveis com as limitações que tenha sofrido em sua capacidade física ou mental, verificada em inspeção médica oficial do Município.
+
+
+§ 1º
+
+A readaptação somente ocorrerá quando não se configurar a incapacidade para o serviço caso em que o servidor será aposentado.
+
+
+§ 2º
+
+A readaptação será efetiva em cargo de atribuições afins, respeitada a habilitação exigida.
+
+
+§ 3º
+
+A readaptação não poderá acarretar aumento ou redução da remuneração do servidor público.
+
+
+##### Seção V — Do Aproveitamento e da Disponibilidade
+
+
+Art. 37.
+
+Aproveitamento é o retorno do servidor estável que se encontra em disponibilidade, ao exercício de cargo público.
+
+
+§ 1º
+
+O aproveitamento dar-se-á no cargo anteriormente ocupado ou em cargo de atribuições e vencimentos compatíveis com o exercício anterior, respeitadas a escolaridade e a habilitação legal exigida.
+
+
+§ 2º
+
+Ocorrendo a existência de vagas nos órgãos ou entidades da Administração Pública Municipal, efetivar-se-á o aproveitamento do servidor em disponibilidade, no prazo de 30 (trinta) dias.
+
+
+§ 3º
+
+O aproveitamento do servidor que se encontra em disponibilidade a mais de 12 (doze) meses, dependerá de prévia comprovação de sua capacidade física e mental, por junta médica do Município.
+
+
+§ 4º
+
+Se julgado apto, o servidor assumirá o exercício do cargo no prazo de 10 ( dez) dias, contados da publicação do ato de aproveitamento.
+
+
+§ 5º
+
+Será tornado sem efeito o aproveitamento e cassada a disponibilidade se o servidor não entrar em exercício no prazo legal, salvo caso de doença comprovada em inspeção por junta médica oficial do Município.
+
+
+§ 6º
+
+Verificada a incapacidade definitiva, o servidor em disponibilidade será aposentado.
+
+
+Art. 38.
+
+Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração integral, no máximo 24 ( vinte e quatro ) meses.
+
+
+Parágrafo único
+
+A proporcionalidade de remuneração será de 1/25 (um vinte e cinco avos) da remuneração do servidor para cada ano de serviços prestados ao Município.
+
+
+Art. 39.
+
+É assegurado ao servidor estável a disponibilidade para o exercício de mandato eletivo, em diretoria de entidade sindical representativo da servidor público municipal, sem prejuízo da remuneração do cargo permanente de que é titular.
+
+
+§ 1º
+
+A disponibilidade limitar-se-á a 04 (quatro) servidores.
+
+
+§ 2º
+
+Além dos 04 (quatro) servidores, para cada 1000 (mil) servidores da base sindical será acrescido de mais 01 (um).
+
+
+§ 3º
+
+A disponibilidade terá duração igual a do mandato, podendo ser prorrogado, no caso de reeleição, por no máximo 02 (dois) mandatos.
+
+
+§ 4º
+
+O servidor não poderá ser relotado ou removido de ofício no período compreendido entre o registro da candidatura para cargos diretivo de entidade sindical e 06 (seis) meses após a realização da eleição ou do término do mandato.
+
+
+§ 5º
+
+Cessada a disponibilidade o servidor retornará, imediatamente, ao exercício do cargo.
+
+
+Art. 40.
+
+Reintegração é a reinvestidura do servidor estável no cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial com ressarcimento do vencimento e demais vantagens do cargo.
+
+
+§ 1º
+
+Na hipótese do cargo ter sido extinto, o servidor ficará em disponibilidade remunerada conforme disposto no Artigo 38 desta Lei.
+
+
+§ 2º
+
+O servidor reintegrado será submetido a inspeção pela junta médica oficial do Município. Verificada a sua incapacidade, será aposentado no cargo que houver sido reintegrado.
+
+
+Art. 41.
+
+Estando provido o cargo o seu eventual ocupante será:
+
+
+I –
+
+reconduzido ao cargo de origem, se houver vaga, sem direito à indenização;
+
+
+II –
+
+o aproveitamento em outros cargos, obedecidas as regras do Artigo 37 e seus parágrafos;
+
+
+III –
+
+posto em disponibilidade remunerada.
+
+
+##### Seção VI — Erro na numeração
+
+
+##### Seção VII — Da Recondução
+
+
+Art. 42.
+
+Recondução é o retorno do servidor estável ao cargo anteriormente ocupado e decorrente de:
+
+
+I –
+
+inabilitação em estágio probatório relativo a outro cargo;
+
+
+II –
+
+reintegração do anterior ocupante.
+
+
+Parágrafo único
+
+Encontrando-se provido o cargo de origem, o servidor será aproveitado em cargo de atribuições e vencimentos compatíveis ao posto em disponibilidade remunerada.
+
+
+##### Seção VIII — Da Reversão
+
+
+Art. 43.
+
+Reversão é o retorno à atividade do servidor aposentado, quando insubsistentes os motivos determinantes de sua aposentadoria por invalidez, verificados em inspeção médica oficial do Município.
+
+
+Art. 44.
+
+\- A reversão far-se-á no mesmo cargo ou no cargo resultante de sua transformação.
+
+
+Parágrafo único
+
+Encontrando-se provido o cargo, o servidor exercerá suas atribuições como excedente, até ocorrência de vaga.
+
+
+Art. 45.
+
+O aposentado não poderá reverter à atividade se contar tempo de serviço para aposentadoria voluntária com proventos integrais, ou se tiver idade igual ou superior a 70 (setenta) anos.
+
+
+##### Seção IX — Da Transferência
+
+
+Art. 46.
+
+Transferência é a passagem do servidor estável de cargo efetivo para outro de igual denominação, pertencente a quadro de pessoal diverso de órgão ou instituição do mesmo poder.
+
+
+§ 1º
+
+A transferência ocorrerá de ofício ou a pedido do servidor, atendido o interesse do serviço, mediante o preenchimento de vaga.
+
+
+§ 2º
+
+Será admitida a transferência do servidor ocupante de cargo de quadro em extinção, para igual situação em quadro de outro órgão ou entidade.
+
+
+#### CAPÍTULO II — Da Vacância
+
+
+Art. 47.
+
+A vacância do Cargo Público decorrerá de:
+
+
+I –
+
+exoneração;
+
+
+II –
+
+demissão;
+
+
+III –
+
+readaptação;
+
+
+IV –
+
+recondução;
+
+
+V –
+
+transferência;
+
+
+VI –
+
+aposentadoria;
+
+
+VII –
+
+posse em outro cargo inacumulável;
+
+
+VIII –
+
+falecimento;
+
+
+IX –
+
+perda do cargo por decisão judicial.
+
+
+Art. 48.
+
+A exoneração de cargo efetivo dar-se-á a pedido do funcionário ou de ofício.
+
+
+Parágrafo único
+
+A exoneração de ofício será aplicada:
+
+
+I –
+
+Quando não satisfeitas as condições do estágio probatório;
+
+
+II –
+
+Quando, tendo tomado posse, o servidor não entrar em exercício no prazo estabelecido;
+
+
+III –
+
+Quando o servidor em disponibilidade não entrar em exercício no prazo estabelecido para o seu aproveitamento.
+
+
+Art. 49.
+
+A exoneração de cargo em comissão dar-se-á:
+
+
+I –
+
+A juízo da autoridade competente;
+
+
+II –
+
+A pedido do próprio servidor.
+
+
+Art. 50.
+
+A vaga ocorrerá na data:
+
+
+I –
+
+falecimento;
+
+
+II –
+
+mediata àquela em que o servidor completar 70 (setenta) anos de idade;
+
+
+III –
+
+da publicação da Lei que criar o cargo e conceder dotação para o seu provimento ou, da que determinar esta última medida, se o cargo já estiver criado ou, ainda, do ato que aposentar, demitir ou conceder promoção ou acesso;
+
+
+IV –
+
+da posse em outro cargo de acumulação proibida.
+
+
+Art. 51.
+
+São competentes para exonerar as mesmas autoridades competentes para nomear, de acordo com o disposto no Artigo 10 desta Lei, salvo delegação de competência.
+
+
+#### CAPÍTULO III — Da Remoção e da Redistribuição
+
+
+##### Seção I — Da Remoção
+
+
+Art. 52.
+
+Remoção é a movimentação do servidor público no âmbito do mesmo órgão ou entidade, de ofício, ou a pedido, observado o interesse do serviço.
+
+
+##### Seção II — Da Redistribuição
+
+
+Art. 53.
+
+Redistribuição é a movimentação do servidor público, com o respectivo cargo, para quadro de pessoal de outro órgão ou entidade do mesmo poder, cujos planos de carreira e vencimentos e carga horária sejam idênticos, observado sempre o interesse da Administração.
+
+
+§ 1º
+
+A redistribuição dar-se-á exclusivamente para ajustamento de quadro de pessoal às necessidades dos serviços, inclusive nos casos de reorganização, extinção ou criação de órgãos ou entidades.
+
+
+§ 2º
+
+Nos casos de extinção de órgão ou entidade, os servidores estáveis que não puderem ser redistribuídos na forma deste artigo serão colocados em disponibilidade remunerada, até seu aproveitamento na forma do artigo 37 desta Lei.
+
+
+#### CAPÍTULO IV — Da Seção e da Substituição
+
+
+##### Seção I — Da Cessão
+
+
+Art. 54.
+
+Cessão é o afastamento do servidor público para ter exercício em outro órgão ou entidade de Poder Público, inclusive do próprio Município, exclusivamente para desempenho de cargo em comissão ou função de confiança.
+
+
+§ 1º
+
+A cessão de servidor público para órgão ou entidade de outro Município, do Estado, do Distrito Federal ou da União dar-se-á, sempre, sem ônus para o órgão ou entidade cedente.
+
+
+§ 2º
+
+Na hipótese de cessão para órgão ou entidade do próprio Município, o servidor público, quando nomeado para exercer cargo em Comissão, fará jus:
+
+
+I –
+
+ao pagamento de remuneração do seu cargo efetivo pelo órgão ou entidade cedente e da gratificação pelo exercício do cargo em Comissão pelo cessionário, ou ;
+
+
+II –
+
+o vencimento do cargo em Comissão, o valor correspondente, pelo órgão ou entidade cessionário, sendo excluído da folha de pagamento do órgão ou entidade cedente.
+
+
+§ 3º
+
+Na cessão para órgão ou entidade do próprio Município, o servidor público, quando designado para exercer função de confiança, fará jus ao pagamento da remuneração do seu cargo efetivo pelo órgão ou entidade cedente e da gratificação pelo exercício da função de confiança pelo órgão ou entidade cessionário.
+
+
+§ 4º
+
+Cessada a investidura do cargo em comissão ou a designação da função de confiança, o servidor deverá se apresentar ao órgão ou entidade de origem no dia útil imediato à sua exoneração ou dispensa, independentemente de qualquer outra formalidade legal.
+
+
+§ 5º
+
+Estando o servidor em exercício em outro Município, o prazo a que se refere o parágrafo anterior poderá ser prorrogado, desde que não ultrapasse 10 (dez) dias, a contar de sua exoneração ou dispensa.
+
+
+Art. 55.
+
+O ato de cessão para órgão ou entidade estranha ao Município é de competência do Prefeito ou do Presidente da Câmara Municipal, de acordo com a lotação do servidor, ouvido, se for o caso, o dirigente superior da Autarquia ou Fundação.
+
+
+##### Seção II — Da Substituição
+
+
+Art. 56.
+
+Substituição é o exercício temporário de cargo em comissão ou de função de confiança, nos casos de impedimento legal ou afastamento do titular.
+
+
+§ 1º
+
+A substituição é automática ou depende de ato de autoridade competente, na forma prevista em regulamento.
+
+
+§ 2º
+
+A substituição será gratuita, salvo se exceder 15 (quinze) dias, quando será remunerado por todo o período.
+
+
+§ 3º
+
+No caso de substituição remunerada, o substituto perceberá o vencimento do cargo em que se der a substituição, salvo se optar pelo seu cargo.
+
+
+§ 4º
+
+Em caso excepcional, atendida a conveniência da Administração, o titular do cargo de direção ou chefia poderá ser nomeado ou designado, cumulativamente, como substituto para outro cargo da mesma natureza, até que se verifique a nomeação ou designação do titular; nesse caso, somente perceberá o vencimento correspondente a um cargo.
+
+
+§ 5º
+
+O substituto fará jus a gratificação pelo exercício do cargo em comissão ou em função do confiança paga na proporção dos dias de efetiva substituição.
+
+
+### TÍTULO III — Dos Direitos e Vantagens
+
+
+#### CAPÍTULO I — Do Vencimento e da Remuneração
+
+
+Art. 57.
+
+Vencimento é a retribuição pecuniária devida ao servidor público pelo efetivo exercício do cargo, com valor fixado em Lei.
+
+
+Parágrafo único
+
+Nenhum servidor receberá, a título de vencimento, importância inferior ao salário mínimo.
+
+
+Art. 58.
+
+Remuneração é o vencimento do cargo, acrescido das vantagens pecuniárias, permanentes ou temporárias, estabelecidas em Lei.
+
+
+Art. 59.
+
+É assegurada a isonomia de vencimento para cargo de atribuições iguais ou assemelhadas do mesmo Poder ou entre funcionários dos Poderes, ressalvadas as vantagens de caráter individual e as relativas à natureza ou ao local do trabalho.
+
+
+Parágrafo único
+
+O provento é irredutível, observado o limite estabelecido no Artigo 61 desta lei.
+
+
+Art. 60.
+
+Provento é a retribuição pecuniária paga ao servidor público aposentado ou em disponibilidade.
+
+
+Parágrafo único
+
+O vencimento do cargo efetivo, acrescido das vantagens de caráter permanente, é irredutível.
+
+
+Art. 61.
+
+Ressalvados os casos de acumulação lícita, os servidores municipais não poderão perceber, mensalmente, importância superior a da remuneração total percebida pelo Prefeito Municipal.
+
+
+Parágrafo único
+
+Ficam excluídas do limite estabelecido neste Artigo, as seguintes parcelas:
+
+
+I –
+
+salário família;
+
+
+II –
+
+décimo terceiro salário;
+
+
+III –
+
+adicional por tempo de serviço;
+
+
+IV –
+
+adicional de férias;
+
+
+V –
+
+adicional pela prestação de serviços extraordinários.
+
+
+Art. 62.
+
+A menor remuneração atribuída aos cargos de carreira não será inferior a 1/40 (um quarenta avos) do teto de remuneração fixada no Artigo anterior.
+
+
+Art. 63.
+
+O servidor perderá:
+
+
+I –
+
+a remuneração dos dias em que faltar injustificadamente ao serviço;
+
+
+II –
+
+a parcela da remuneração diária, proporcional aos atrasos acima da tolerância, ausências e saídas antecipadas, iguais ou superiores a 60 (sessenta) minutos, quando não autorizada pela chefia imediata;
+
+
+III –
+
+metade da remuneração, na hipótese prevista no Parágrafo 2º do Artigo 168 desta Lei.
+
+
+Art. 64.
+
+Salvo de imposição legal, ou mandado judicial, nenhum desconto incidirá sobre a remuneração ou provento.
+
+
+Parágrafo único
+
+Mediante autorização do servidor, poderá haver desconto em folha de pagamento a favor de terceiros, a critério da administração e com reposição de custos, na forma definida em regulamento.
+
+
+Art. 65.
+
+As reposições e indenizações ao erário serão descontadas em parcelas mensais não excedente à décima parte da remuneração ou provento, em valores atualizados.
+
+
+Parágrafo único
+
+Independentemente do parcelamento previsto neste Artigo, o recebimento de quantias indevidas poderá implicar processo disciplinar para apuração das responsabilidades e aplicações cabíveis.
+
+
+Art. 66.
+
+O servidor em débito com o Erário, que for demitido, exonerado ou que tiver sua aposentadoria ou disponibilidade extinta, terá o prazo de 60 (sessenta) dias para quitá-lo.
+
+
+Parágrafo único
+
+A não quitação do débito no prazo previsto implicará sua inscrição em dívida ativa no Município.
+
+
+Art. 67.
+
+O vencimento, a remuneração e o provento não serão objetos de arresto, seqüestro ou penhora, exceto nos casos de prestação de alimentos resultante de decisão judicial.
+
+
+#### CAPÍTULO II — Das Vantagens
+
+
+Art. 68.
+
+Além do vencimento, poderão ser pagos ao servidor as seguintes vantagens:
+
+
+I –
+
+indenizações;
+
+
+II –
+
+ajuda de custo;
+
+
+III –
+
+gratificação;
+
+
+IV –
+
+adicionais.
+
+
+§ 1º
+
+As indenizações não se incorporam ao vencimento em provento para qualquer efeito, nem servirão de base para cálculo de outras vantagens.
+
+
+§ 2º
+
+As gratificações e os adicionais incorporam-se ao vencimento ou provento nos casos e condições indicados em Lei.
+
+
+Art. 69.
+
+As vantagens pecuniárias não serão computadas nem acumuladas para efeito de concessão de qualquer outros acréscimos pecuniários ulteriores, sob o mesmo título ou idêntico.
+
+
+##### Seção I — Numeração vazia
+
+
+##### Seção II — Das Indenizações
+
+
+Art. 70.
+
+Constituem indenizações ao servidor:
+
+
+I –
+
+diárias;
+
+
+II –
+
+de transporte.
+
+
+Art. 71.
+
+Os valores das indenizações, assim como as condições para a sua concessão, serão estabelecidos em regulamento.
+
+
+###### Subseção I — Das Diárias
+
+
+Art. 72.
+
+O servidor que, a serviço, se afastar da sede em caráter eventual ou transitório, para outro ponto do território nacional, fará jus a passagens e diárias, para cobrir as despesas de pousada, alimentação e locomoção urbana.
+
+
+§ 1º
+
+A diária será concedida integralmente por dia de afastamento, sendo devida pela metade quando o deslocamento não exigir pernoite fora da sede.
+
+
+§ 2º
+
+Nos casos em que o deslocamento da sede constituir exigência permanente do cargo, o servidor não fará jus às diárias.
+
+
+Art. 73.
+
+O servidor que receber diárias e não se afastar da sede, por qualquer motivo, ficará obrigado a restituí-las integralmente, no prazo de 05 (cinco) dias.
+
+
+Parágrafo único
+
+Na hipótese do servidor retornar à sede em prazo menor do que o previsto para o seu afastamento, restituirá as diárias recebidas em excesso, no prazo previsto no “caput” deste Artigo.
+
+
+###### Subseção II — Da indenização de transporte
+
+
+Art. 74.
+
+Conceder-se-á indenização de transporte ao servidor que realizar despesas com a utilização de meio próprio de locomoção para a execução de serviços externos, por força das atribuições do cargo, conforme se dispuser em regulamento
+
+
+##### Seção II-1
+
+Da Ajuda de Custo
+
+
+Art. 75.
+
+A ajuda de custo destina-se à compensação das despesas de instalação do funcionário que, no interesse do serviço, passa a ter exercício em nova sede, com mudança de domicílio em caráter permanente.
+
+
+Art. 76.
+
+A ajuda de custo é calculada sobre o vencimento do funcionário, conforme se dispuser em regulamento, não podendo exceder a importância correspondente a 3 (três) meses do respectivo vencimento.
+
+
+Art. 77.
+
+Não será concedida ajuda de custo ao funcionário que se afastar do cargo, ou reassumi-lo, em virtude de mandato eletivo.
+
+
+Art. 78.
+
+O servidor ficará obrigado a restituir a ajuda de custo quando, injustificadamente, não se apresentar na nova sede.
+
+
+Parágrafo único
+
+Não haverá tal obrigação de restituir a ajuda nos casos de exoneração de ofício, ou de retorno por motivo de doença comprovada.
+
+
+##### Seção III — Das Gratificações e Adicionais
+
+
+Art. 79.
+
+Além dos vencimentos e das vantagens previstas nesta Lei, serão deferidos aos servidores as seguintes gratificações e adicionais:
+
+
+I –
+
+gratificação pelo exercício da função de direção, chefia e assessoramento;
+
+
+II –
+
+gratificação natalina;
+
+
+III –
+
+adicional por tempo de serviço;
+
+
+IV –
+
+adicional pelo exercício de atividades insalubres, perigosas ou penosa;
+
+
+V –
+
+adicional pela prestação de serviços extraordinários;
+
+
+VI –
+
+adicional noturno;
+
+
+VII –
+
+adicional de férias;
+
+
+VIII –
+
+abono familiar;
+
+
+IX –
+
+outros, relativos ao local ou à natureza do trabalho.
+
+
+###### Subseção I — Da Gratificação pelo Exercício da Função de Direção, Chefia e Assessoramento
+
+
+Art. 80.
+
+Ao servidor investido em função de direção, chefia ou assessoramento é devida uma gratificação pelo seu exercício.
+
+
+§ 1º
+
+Os percentuais da gratificação serão estabelecidos em Lei, em ordem decrescente, observado o limite estabelecido no artigo 61 desta Lei.
+
+
+§ 2º
+
+A Lei específica estabelecerá a remuneração dos cargos em comissão de que trata o inciso II do Artigo 13 desta Lei.
+
+
+§ 3º
+
+O exercício da função gratificada ou de cargo em comissão só assegurará direitos aos servidor durante o tempo em que estiver exercendo o cargo ou a função.
+
+
+§ 4º
+
+Afastando-se do cargo em comissão ou da função gratificada o servidor perderá a respectiva remuneração.
+
+
+§ 5º
+
+Fica reservado 5% (cinco por cento) dos cargos em comissão para serem preenchidos por servidores ocupantes de cargos efetivos, calculado sobre a quantidade total de cargos de provimento em comissão, excluídos os vinculados aos programas especiais. (NR)
+
+Alteração feita pelo Art. 35. - Lei Ordinária nº 1.114, de 16 de abril de 2025.
+
+
+###### Subseção II — Da Gratificação Natalina (13º)
+
+
+Art. 81.
+
+A gratificação natalina corresponde a 1/12 (um doze avos) da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício no respectivo ano.
+
+
+§ 1º
+
+A fração igual ou superior a 15 (quinze) dias será considerada como mês integral.
+
+
+§ 2º
+
+A gratificação será paga até o dia 20 (vinte) do mês de dezembro de cada ano.
+
+
+Art. 82.
+
+O Servidor exonerado perceberá sua gratificação natalina, proporcionalmente aos meses de exercício, calculada sobre a remuneração do mês de exoneração.
+
+
+Art. 83.
+
+A gratificação natalina não será considerada para cálculo de qualquer vantagem pecuniária..
+
+
+###### Subseção III — Do Adicional por Tempo de Serviço
+
+
+Art. 84.
+
+O adicional por tempo de serviço é devido à razão de 5% (cinco por cento) a cada 5 (cinco) anos de serviço público efetivo prestado à Prefeitura, incidente sobre o vencimento de que trata o artigo 57.
+
+
+§ 1º
+
+O servidor fará jus ao adicional a partir do mês em que completar o quinquênio.
+
+
+§ 2º
+
+O funcionário que exceder, cumulativamente, mais de um cargo, terá direito ao adicional calculado sobre o vencimento de maior monta.
+
+
+###### Subseção IV — Dos Adicionais da Insalubridade, Periculosidade ou Atividades Penosas
+
+
+Art. 85.
+
+Os servidores que trabalham com habitualidade em locais insalubres ou em contato permanente com substancias tóxicas, radioativas ou com risco de vida, fazem jus a um adicional sobre o vencimento do cargo efetivo.
+
+
+§ 1º
+
+O servidor que fizer jus aos adicionais de insalubridade e de periculosidade deverá optar por um deles.
+
+
+§ 2º
+
+O direito ao adicional de insalubridade ou de periculosidade cessa com a eliminação dos riscos que deram causa à concessão.
+
+
+Art. 86.
+
+haverá permanente controle da atividade de servidores em operações ou locais considerados penosos, insalubres ou perigosos.
+
+
+Parágrafo único
+
+A servidora gestante ou lactante será afastada , enquanto durar a gestação e a lactação, das operações e locais previstos neste artigo, exercendo suas atividades em local salubre e em serviço não penoso e não perigoso.
+
+
+Art. 87.
+
+Na concessão dos adicionais de atividades penosas, de insalubridade e de periculosidade, serão observadas as situações estabelecidas em legislação específica.
+
+
+Art. 88.
+
+o adicional de atividades penosas será devido aos servidores em exercício em locais cujas condições de vida o justifiquem, nos termos, condições e limites fixados em regulamento.
+
+
+Art. 89.
+
+Os locais de trabalho e os servidores que operam com raio X ou substâncias radioativas serão mantidos sob controle permanente, de modo que as doses de radiação ionizantes não ultrapassem o nível máximo previsto na legislação própria.
+
+
+Parágrafo único
+
+Os servidores a que se referem este artigo serão submetidos a exames médicos a cada 6 (seis) meses.
+
+
+###### Subseção V — Do Adicional por Serviço Extraordinário
+
+
+Art. 90.
+
+O serviço extraordinário será remunerado som acréscimo de 50% (cinqüenta por cento) em relação à hora normal de trabalho.
+
+
+Parágrafo único
+
+O serviço extraordinário realizado no horário previsto no Artigo 93 será acrescido no percentual relativo ao serviço noturno, em função de cada hora extra.
+
+
+Art. 91.
+
+O serviço extraordinário previsto neste artigo será precedido de autorização da chefia imediata que justificará o fato.
+
+
+Art. 92.
+
+
+###### Subseção VI — Do Adicional Noturno
+
+
+Art. 93.
+
+O servidor noturno, prestado em horário compreendido entre 22 (vinte e duas) horas de um dia e 5 (cinco) horas do dia seguinte, terá o valor da hora de trabalho acrescido de 25% (vinte e cinco por cento), computando-se cada hora com 52 min e 30 segundos (cinqüenta e dois minutos e trinta segundos).
+
+
+Parágrafo único
+
+
+###### Subseção VII — Do Adicional de Férias
+
+
+Art. 94.
+
+Independentemente de solicitação, será pago ao servidor, por ocasião de férias, um adicional correspondente a 1/3 (um terço) da remuneração do período de férias.
+
+
+Parágrafo único
+
+No caso do servidor exercer função gratificada ou ocupar cargo em comissão, a respectiva vantagem será considerada o cálculo adicional de que trata este artigo.
+
+
+#### CAPÍTULO III — Das Férias
+
+
+Art. 95.
+
+O servidor fará jus, anualmente, ao gozo de 30 (trinta) dias consecutivos de férias, que podem ser acumuladas, até no máximo de 2 (dois) períodos, no caso de necessidade de serviço, ressalvadas as hipóteses em que haja legislação específica.
+
+
+§ 1º
+
+Para o primeiro período aquisitivo serão exigidos 12 (doze) meses de exercício.
+
+
+§ 2º
+
+É vedado levar a conta de férias qualquer falta ao serviço.
+
+
+§ 3º
+
+As férias serão programadas e concedidas atendida a conveniência do serviço, pela autoridade competente.
+
+
+Art. 96.
+
+O pagamento da remuneração das férias será efetuado até 2 (dois) dias antes do início do respectivo período.
+
+
+§ 1º
+
+É facultado ao servidor converter 1/3 (um terço) das férias em, abono pecuniário desde que o requeira com pelo menos 60 (sessenta) dias de antecedência.
+
+
+§ 2º
+
+No cálculo do abono pecuniário será considerado o valor adicional de férias.
+
+
+Art. 97.
+
+O servidor que opera direta e permanentemente com raio X ou substâncias radioativas, gozará 20 (vinte) dias consecutivos de férias por semestre de atividade profissional, proibida em qualquer hipótese a acumulação.
+
+
+Parágrafo único
+
+O servidor referido neste artigo não fará jus ao abono pecuniário de que trata o artigo anterior.
+
+
+Art. 98.
+
+As férias somente poderão ser interrompidas por motivo de calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral ou por motivo de superior interesse público municipal.
+
+
+#### CAPÍTULO IV — Das Licenças
+
+
+##### Seção I — Das disposições Gerais
+
+
+Art. 99.
+
+Conceder-se-á ao servidor público municipal licença:
+
+
+I –
+
+por motivo de doença de pessoa da família;
+
+
+II –
+
+por motivo de afastamento do cônjuge ou companheiro;
+
+
+III –
+
+para prestar serviço militar obrigatório;
+
+
+IV –
+
+para atividade política;
+
+
+V –
+
+prêmio por assiduidade;
+
+
+VI –
+
+para tratar de interesses particulares;
+
+
+VII –
+
+para desempenho de mandato classista;
+
+
+VIII –
+
+para tratamento de saúde;
+
+
+IX –
+
+licença à gestante, à adotante e licença-paternidade
+
+
+X –
+
+licença por acidente em serviço
+
+
+§ 1º
+
+A licença prevista no inciso I, será precedida de exame por junta médica oficial do município;
+
+
+§ 2º
+
+O servidor não poderá permanecer em licença da mesma espécie por período superior a 24 (vinte e quatro) meses, salvos nos casos dos incisos II, III, IV e VII.
+
+
+§ 3º
+
+É vedado o exercício de atividade remunerada durante o período de licença previsto no inciso I deste artigo
+
+
+§ 4º
+
+As licenças previstas nos incisos VI e VII deste artigo não se aplicam ao ocupante de cargo em comissão.
+
+
+Art. 100.
+
+A licença concedida dentro de 60 (sessenta) dias do término de outra da mesma espécie será considerada como prorrogação.
+
+
+###### Subseção I — Da Licença por Motivo de Doença em Pessoa da Família
+
+
+Art. 101.
+
+O servidor poderá obter licença por motivo de doença do cônjuge ou companheiro, pais, padrasto ou madrasta, ascendente, descendente, enteado ou colateral consangüíneo ou afim até o 2º grau civil, mediante comprovação por junta médica oficial do município.
+
+
+§ 1º
+
+A licença somente será deferida se a assistência direta do servidor for dispensável e não puder ser prestada simultaneamente com o exercício do cargo.
+
+
+§ 2º
+
+A licença será concedida sem prejuízo da remuneração do cargo efetivo até 90 (noventa) dias, podendo ser prorrogada por até 90 (noventa) dias, mediante parecer de junta médica oficial do município e, excedendo esses prazos, sem remuneração.
+
+
+###### Subseção II — Da Licença por Motivo de Afastamento do Cônjuge ou Companheiro
+
+
+Art. 102.
+
+Poderá ser concedida licença ao servidor para acompanhar cônjuge ou companheiro que for deslocado para outro ponto do território nacional, o para o exercício de mandato eletivo dos Poderes Executivo e Legislativo.
+
+
+Parágrafo único
+
+A licença será por prazo indeterminado e sem remuneração.
+
+
+###### Subseção III — Da Licença para o Serviço Militar
+
+
+Art. 103.
+
+Ao servidor que for convocado para o serviço militar obrigatório ou para outros encargos de Segurança Nacional, será concedida licença com vencimentos e vantagens de caráter permanente, salvo de optar pela remuneração do Serviço Militar.
+
+
+§ 1º
+
+A licença será concedida à vista do documento que comprove a incorporação.
+
+
+§ 2º
+
+Do vencimento ou remuneração descontar-se-á a importância que o Servidor perceber na qualidade de incorporado, salvo de optar pelas vantagens do serviço militar.
+
+
+§ 3º
+
+Concluído o serviço militar, o servidor terá o prazo de 30 (trinta) dias para reassumir o exercício do cargo, findo o qual os dias de ausência serão considerados como de faltas injustificadas.
+
+
+Art. 104.
+
+Ao servidor oficial da reserva das Forças Armadas será também concedida licença, com vencimento ou remuneração integrais, durante os estágios previstos pelos regulamentos militares, quando não perceber qualquer vantagem pecuniária pela convocação.
+
+
+Parágrafo único
+
+Quando o estágio for remunerado, será assegurado ao servidor o direito de opção.
+
+
+###### Subseção IV — Da Licença para Atividade Política
+
+
+Art. 105.
+
+O servidor terá direito a licença sem remuneração, durante o período em que mediar entre a sua escolha em convenção partidária, como candidato a cargo eletivo, e a véspera do registro da sua candidatura perante a Justiça Eleitoral.
+
+
+Parágrafo único
+
+O servidor candidato a cargo eletivo na localidade onde desempenha as suas funções e que exerça cargo de direção, chefia, assessoramento, arrecadação ou fiscalização, dela será afastado a partir do dia imediato ao do registro de sua candidatura perante a Justiça Eleitoral até o 15º (décimo quinto) dia seguinte ao pleito.
+
+
+Art. 106.
+
+O servidor investido em mandato eletivo federal, estadual ou municipal, por opção, poderá ser licenciado com o afastamento do exercício do seu cargo ou função, até o término do mandato.
+
+
+Parágrafo único
+
+O período do exercício do mandato federal, estadual ou municipal será contado como tempo de serviço para todos os efeitos legais, exceto para promoção por merecimento.
+
+
+Art. 107.
+
+Quando no exercício de mandato de prefeito, o servidor afastar-se-á de seu cargo ou função, por todo o período do mandato, podendo optar pelos vencimentos sem prejuízo da verba de representação.
+
+
+Art. 108.
+
+Quando do exercício de mandato de vereador do município, o servidor ficará sujeito as normas constitucionais.
+
+
+###### Subseção V — Da Licença-Prêmio por Assiduidade
+
+
+Art. 109.
+
+Após cada quinquênio de efetivo exercício no serviço público municipal, o servidor fará jus a 3 (três) meses de licença, a título de prêmio por assiduidade, com a remuneração do cargo efetivo, desde que não haja sofrido qualquer das penalidades administrativas previstas neste estatuto.
+
+
+§ 1º
+
+O período em que o servidor estiver em gozo de licença-prêmio será considerado como de efetivo exercício para todos os efeitos legais.
+
+
+§ 2º
+
+Não se concederá licença-prêmio ao servidor que, no período aquisitivo:
+
+
+I –
+
+sofrer penalidade disciplinar de suspensão;
+
+
+II –
+
+afastar-se do cargo em virtude de:
+
+
+a)
+
+licença por motivo de doença em pessoa da família sem remuneração;
+
+
+b)
+
+licença para tratar de interesses particulares;
+
+
+c)
+
+condenação a pena privativa de liberdade por sentença definitiva;
+
+
+d)
+
+afastamento para acompanhar cônjuge ou companheiro.
+
+
+§ 3º
+
+As faltas injustificadas ao serviço retardarão a concessão da licença prevista neste artigo, na proporção de 1 (um) mês para cada falta.
+
+
+Art. 110.
+
+A licença prêmio poderá ser gozada por inteiro ou parceladamente, dividindo-se, neste caso, o tempo relativo de cada quinquênio, em período não inferior a 30 (trinta) dias, devendo para esse fim, o servidor no requerimento em que pedir licença, fazer expressa menção do número de dias que pretende gozar.
+
+
+§ 1º
+
+A concessão da licença prêmio será processada e formalizada quando satisfeitos todos os requisitos legalmente exigidos e se, a respeito do pedido, o chefe imediato do serviço pronunciar-se favoravelmente quanto à oportunidade.
+
+
+§ 2º
+
+O servidor, sob pena de indeferimento do pedido, aguardará em exercício a expedição do ato de concessão da licença a qual deverá ser iniciada dentro de 10 (dez) dias do conhecimento oficial do ato concessionário, sob pena de caducidade da concessão.
+
+
+§ 3º
+
+A licença-prêmio poderá ser convertida em pecúnia, a requerimento do interessado e por conveniência da administração municipal.
+
+
+Art. 111.
+
+O número de servidores em gozo simultâneo de licença-prêmio não poderá ser superior a 1/3 (um terço) de lotação da respectiva unidade administrativa do órgão ou entidade
+
+
+Art. 112.
+
+O servidor que não desejar gozar do benefício da licença-prêmio, terá direito ao cômputo em dobro do tempo de licença, para efeito de aposentadoria
+
+
+###### Subseção VI — Da Licença para Tratar de Interesses particulares
+
+
+Art. 113.
+
+A critério da administração, poderá ser concedida ao servidor estável licença para o trato de interesses particulares, pelo prazo de até 2 (dois) anos consecutivos, sem remuneração.
+
+
+§ 1º
+
+A licença poderá ser interrompida, a qualquer tempo, a pedido do servidor ou no interesse do serviço.
+
+
+§ 2º
+
+Não se concederá a licença a servidores nomeados, removidos, redistribuídos ou transferidos, antes de completarem 2 (dois) anos de exercício.
+
+
+###### Subseção VII — Da Licença para Tratamento de Saúde
+
+
+Art. 114.
+
+Será concedida ao servidor licença para tratamento de saúde, a pedido ou de ofício, com base em perícia médica, sem prejuízo da remuneração a que fizer jus.
+
+
+Art. 115.
+
+Para licença de até 30 (trinta) dias, a inspeção será feita por médico do órgão oficial de inspeção do Município e, por prazo superior, por junta médica oficial do Município.
+
+
+§ 1º
+
+Sempre que necessário, a inspeção médica será realizada na residência do servidor ou no estabelecimento hospitalar onde se encontrar internado.
+
+
+§ 2º
+
+Inexistindo médico ou órgão oficial do Município no local onde se encontrar o servidor, será aceito atestado passado por médico particular.
+
+
+§ 3º
+
+No caso do parágrafo anterior, o atestado só produzirá efeito depois de homologado pelo órgão oficial de inspeção do Município.
+
+
+Art. 116.
+
+O servidor licenciado para tratamento de saúde não poderá dedicar-se-á a qualquer atividade remunerada, sob pena de ter cassada a licença.
+
+
+Art. 117.
+
+Findo prazo da licença, o servidor será submetido a nova inspeção médica, que concluirá pela volta ao serviço, pela prorrogação da licença ou pela aposentadoria.
+
+
+Art. 118.
+
+No curso da licença, poderá o servidor requerer exame médico caso se julgue em condições de reassumir o exercício.
+
+
+Art. 119.
+
+Considerado apto em exame médico, o servidor reassumirá o exercício, sob pena de se apurarem como faltas injustificadas os dias de ausência.
+
+
+Art. 120.
+
+O atestado e o laudo da junta médica não se referirão ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço, doença profissional ou qualquer das doenças especificadas no § 1º do Artigo 225 desta Lei.
+
+
+Art. 121.
+
+O servidor que apresentar indícios de lesões orgânicas ou funcionais será submetido a inspeção médica.
+
+
+###### Subseção VIII — Sem texto
+
+
+###### Subseção IX — Da Licença à Gestante, à Adotante e da Licença-Paternidade
+
+
+Art. 122.
+
+Será concedida à servidora gestante, licença por 120 (cento e vinte) dias consecutivos, sem prejuízo da remuneração.
+
+
+§ 1º
+
+A licença poderá ter início no primeiro dia do 9º (nono) mês de gravidez, salvo antecipação por prescrição médica.
+
+
+§ 2º
+
+No caso de nascimento prematuro, a licença terá início a partir do parto.
+
+
+§ 3º
+
+No caso de natimorto, decorridos 30 (trinta) dias do evento, a servidora será submetida a exame médico e, se julgada apta, reassumirá o exercício.
+
+
+§ 4º
+
+No caso de aborto , atestado por médico oficial, a servidora terá direito a 30 (trinta) dias de repouso remunerado.
+
+
+Art. 123.
+
+Pelo nascimento ou adoção de filhos, o servidor terá direito à licença-paternidade de 5(cinco) dias consecutivos.
+
+
+Art. 124.
+
+Para amamentar o próprio filho, até a idade de 6 (seis) meses, a servidora lactante terá direito, durante a jornada de trabalho, a uma hora de descanso que poderá ser parcelada em 2 (dois) períodos de meia hora.
+
+
+Art. 125.
+
+A servidora que adotar ou obtiver guarda judicial de criança até um ano de idade serão concedidos 90 (noventa) dias de licença remunerada, para ajustamento do adotado ao novo lar.
+
+
+Parágrafo único
+
+No caso de adoção ou guarda-judicial de criança com mais de um ano de idade, o prazo de que trata este artigo será de 30 (trinta) dias.
+
+
+###### Subseção X — Da Licença por Acidente em Serviço
+
+
+Art. 126.
+
+Será licenciado, com remuneração integral, o servidor que sofrer acidente no exercício de suas atribuições ou que contrair doença profissional.
+
+
+Art. 127.
+
+Configura acidente em serviço o dano físico ou mental, sofrido pelo servidor, que se relacione mediata ou imediatemente com as atribuições do cargo exercido.
+
+
+§ 1º
+
+Equipara-se ao acidente em serviço o dano:
+
+
+I –
+
+decorrente de agressão sofrida e não provocada pelo servidor no exercício do cargo;
+
+
+II –
+
+Sofrido no percurso da residência para o trabalho e vice-versa;
+
+
+III –
+
+Sofrido no percurso para o local de refeição ou volta dele, no intervalo do trabalho.
+
+
+§ 2º
+
+O disposto nos itens II e III do parágrafo anterior não se aplica ao acidente sofrido pelo servidor que por interesse pessoal tenha interrompido ou alterado o percurso.
+
+
+Art. 128.
+
+Entende-se por doença profissional a que resulta das condições inerentes ao serviço ou de fatores a ele atribuídos.
+
+
+Art. 129.
+
+O servidor acidentado em serviço que necessite de tratamento especializado poderá ser tratado em instituição privada, à conta de recursos públicos.
+
+
+Parágrafo único
+
+O tratamento recomendado por junta médica oficial constitui medida de exceção e somente será admissível quando não existirem meios e recursos adequados em instituição pública.
+
+
+Art. 130.
+
+A prova do acidente será feita em processo regular, devidamente instruído, inclusive acompanhado de declaração de testemunhas do evento, cabendo a perícia médica do Município descrever o estado geral do acidentado, mencionando as lesões produzidas, bem com as possíveis consequências que poderão advir do acidente
+
+
+Parágrafo único
+
+Cabe o chefe imediato do servidor adotar as providências necessárias para o início do processo regular de que trata este artigo, no prazo de 10 (dez) dias, contado do acidente
+
+
+Art. 131.
+
+Resultando do evento incapacidade total e permanente, o servidor será aposentado com vencimentos integrais.
+
+
+Art. 132.
+
+Entende-se por incapacidade parcial e permanente a redução por toda a vida da capacidade de trabalho; por incapacidade total e permanente, a invalidez irredutível.
+
+
+Art. 133.
+
+No caso de morte resultante de acidente do trabalho será devida pensão aos beneficiários, acrescida a importância correspondente à diferença entre os vencimentos do servidor e aqueles a que faria jus, nos termos no artigo 134.
+
+
+#### CAPÍTULO V — Das Concessões
+
+
+Art. 134.
+
+Sem qualquer prejuízo, poderá o servidor ausentar-se do serviço:
+
+
+I –
+
+por 1 (um) dia, para doação de sangue;
+
+
+II –
+
+por 2(dois) dias, para se alistar como eleitor;
+
+
+III –
+
+por 8 (oito) dias consecutivos em razão de:
+
+
+a)
+
+casamento;
+
+
+b)
+
+falecimento do cônjuge, companheiro, pais, madastra ou padastro, filhos, enteados, menor sob guarda ou tutela e irmão.
+
+
+Art. 135.
+
+Poderá ser concedido horário especial ao servidor estudante, quando comprovada a incompatibilidade entre o horário escolar e o da repartição, sem prejuízo do cargo.
+
+
+Parágrafo único
+
+Para efeito no disposto neste artigo será exigida a compensação de horário na repartição, respeitada a duração semanal do trabalho.
+
+
+#### CAPÍTULO VI — Do Tempo de Serviço
+
+
+Art. 136.
+
+É contado, para todos os efeitos, o tempo de serviço público prestado a administração direta, às autarquias e as fundações públicas do Município, desde que remunerado.
+
+
+Art. 137.
+
+A apuração do tempo de serviço será feita em dias, que serão convertidos em anos, considerando o ano como de 365 (trezentos e sessenta e cinco) dias, salvo quando bissexto.
+
+
+§ 1º
+
+Serão computados os dias de efetivo exercício, a vista de registros próprios, que comprovem a frequência do servidor.
+
+
+§ 2º
+
+Feita a conversão, os dias restantes, até 182 (cento e oitenta e dois), não serão computados, arredondando-se para um ano quando excederem este número, para efeito de aposentadoria.
+
+
+Art. 138.
+
+Além das ausências ao serviço previstas no artigo 137, são consideradas como de efetivo exercício os afastamentos em virtude de:
+
+
+I –
+
+férias;
+
+
+II –
+
+exercício do cargo em comissão ou equivalente, em órgão ou entidade dos Poderes da União, dos Estados, Municípios e Distrito Federal;
+
+
+III –
+
+participação em programas de treinamento regularmente instituída;
+
+
+IV –
+
+desempenho de mandato eletivo federal, estadual ou municipal, exceto para promoção por merecimento;
+
+
+V –
+
+juri e outros serviços obrigatórios por lei;
+
+
+VI –
+
+licença:
+
+
+a)
+
+à gestante, à adotante e paternidade;
+
+
+b)
+
+para tratamento da própria saúde, até 2 (dois) anos;
+
+
+c)
+
+para desempenho de mandato classista, exceto para efeito de promoção por merecimento;
+
+
+d)
+
+por motivo ce acidente em serviço ou doença profissional;
+
+
+e)
+
+prêmio por assiduidade;
+
+
+f)
+
+por convocação para o serviço militar.
+
+
+VII –
+
+participação em competição desportiva nacional ou convocação para integrar representação desportiva nacional no País ou no exterior, conforme disposto em Lei específica.
+
+
+Art. 139.
+
+Contar-se-á apenas para efeito de aposentadoria e disponibilidade:
+
+
+I –
+
+o tempo de serviço público prestado aos Estados, Municípios e Distrito Federal;
+
+
+II –
+
+a licença para tratamento de saúde de pessoa da família do servidor, com remuneração;
+
+
+III –
+
+a licença para atividade política, no caso do Artigo 106 e seu parágrafo único;
+
+
+IV –
+
+o tempo correspondente ao desempenho de mandato eletivo federal, estadual, municipal ou distrital anterior ao ingresso no serviço público municipal;
+
+
+V –
+
+o tempo de serviço em atividade privada, vinculada a Previdência Social;
+
+
+VI –
+
+o tempo de serviço relativo a tiro de guerra
+
+
+§ 1º
+
+O tempo em que o servidor esteve aposentado será contado apenas para a nova aposentadoria.
+
+
+§ 2º
+
+Será contado em dobro o tempo de serviço prestado às Forças Armadas em operações de guerra.
+
+
+§ 3º
+
+É vedada a contagem de tempo de serviço prestado concomitantemente em mais de um cargo ou função de órgão ou entidade dos Poderes da União, Estado, Distrito Federal e Município, Autarquia, Fundação Pública, Sociedade de Economia Mista e empresa Pública.
+
+
+#### CAPÍTULO VII — Do Direito de Petição
+
+
+Art. 140.
+
+É assegurado ao servidor o direito de requerer aos Poderes Públicos, em defesa de direito ou interesse legítimo.
+
+
+Art. 141.
+
+O requerimento será dirigido à autoridade competente para decidi-lo e encaminhado por intermédio daquela a que estiver imediatamente subordinado ao requerente.
+
+
+Art. 142.
+
+Cabe pedido de reconsideração à autoridade que houver expedido o ato ou proferido a primeira decisão, não podendo ser renovado.
+
+
+Parágrafo único
+
+O requerimento e o pedido de reconsideração de que tratam os artigos anteriores deverão ser despachadoss no prazo de 5 (cinco) dias e decididos dentro de 30 (trinta) dias.
+
+
+Art. 143.
+
+Caberá recurso:
+
+
+I –
+
+do indeferimento do pedido de reconsideração;
+
+
+II –
+
+das decisões sobre os recursos sucessivamente interpostos.
+
+
+§ 1º
+
+O recurso será dirigido à autoridade imediatamente superior à que tiver expedido o ato ou proferido a decisão e, sucessivamente, em escala ascendente, às demais autoridades.
+
+
+§ 2º
+
+O recurso será encaminhado por intermédio da autoridade a que estiver imediatamente subordinado o requerente.
+
+
+Art. 144.
+
+O prazo para interposição de re pedido de reconsideração ou de recurso é de 30 (trinta) dias a contar da publicação ou da ciência pelo interessado da decisão recorrida.
+
+
+Art. 145.
+
+O recurso poderá ser recebido com efeito suspensivo a juízo da autoridade competente.
+
+
+Parágrafo único
+
+Em caso de provimento do pedido de reconsideração ou de recursos, os efeitos da decisão retroagirão à data do ato impugnado.
+
+
+Art. 146.
+
+O direito de requerer prescreve:
+
+
+I –
+
+em 5 (cinco) anos, quanto aos atos de demissão e cassação de aposentadoria ou disponibilidade ou que afete interesse patrimonial e créditos resultantes das relações de trabalho;
+
+
+II –
+
+em 120 (cento e vinte) dias, nos demais casos, salvo quando outro prazo for fixado em lei.
+
+
+Parágrafo único
+
+O prazo de prescrição será contado da data de publicação do ato impugnado ou da data da ciência, pelo interessado, quando o ato não for publicado.
+
+
+Art. 147.
+
+O pedido de reconsideração e o recurso, quando cabíveis, interrompem a prescrição.
+
+
+Parágrafo único
+
+Interrompida a prescrição, o parazo recomeçará a correr pelo restante, no dia em que cessar a interrupção.
+
+
+Art. 148.
+
+A prescrição é de ordem pública, não podendo ser relevada pela administração.
+
+
+Art. 149.
+
+para o exercício do direito de petição, é assegurada vista do processo e documentos, na repartição, ao servidor ou a procurador por ele constituído.
+
+
+Art. 150.
+
+A administração deverá rever seus atos, a qualquer tempo, quando elevados de ilegalidade.
+
+
+Art. 151.
+
+São fatais e improrrogáveis os prazos estabelecidos neste capítulo, salvo motivo de força maior.
+
+
+### TÍTULO IV — Do Regime Disciplinar
+
+
+#### CAPÍTULO I — Dos Deveres
+
+
+Art. 152.
+
+São deveres do servidor:
+
+
+I –
+
+exercer com zelo e dedicação as atribuições do cargo;
+
+
+II –
+
+ser leal às instituições a que servir;
+
+
+III –
+
+observar as normas legais e regulamentares;
+
+
+IV –
+
+cumprir as ordens superiores, exceto quando manifestadamente ilegais;
+
+
+V –
+
+atender com presteza:
+
+
+a)
+
+ao público em geral prestando as informações requeridas, ressalvadas as protegidas por sigilo;
+
+
+b)
+
+à expedição de certidões requeridas para defesa de direito ou esclarecimento de situações de interesse pessoal;
+
+
+c)
+
+às requisições para a defesa da Fazenda Pública.
+
+
+VI –
+
+levar ao conhecimento da autoridade superior as irregularidades de que tiver ciência em razão do cargo;
+
+
+VII –
+
+zelar pela economia do material e pela conservação do patrimônio público;
+
+
+VIII –
+
+guardar sigilo sobre assuntos da repartição;
+
+
+IX –
+
+manter conduta compatível com a moralidade administrativa;
+
+
+X –
+
+ser assíduo e pontual ao serviço;
+
+
+XI –
+
+tratar com urbanidade as pessoas;
+
+
+XII –
+
+representar contra ilegalidade, omissão ou abuso de poder.
+
+
+Parágrafo único
+
+A representação de que trata o inciso XII será encaminhada pela via hierárquica e obrigatoriamente apreciada pela autoridade superior àquela contra a qual é formulada, assegurando-se ao representado ampla defesa.
+
+
+#### CAPÍTULO II — Das Proibições
+
+
+Art. 153.
+
+Ao servidor é proibido:
+
+
+I –
+
+ausentar-se do serviço durante o expediente, sem prévia autorização do chefe imediato; I
+
+
+II –
+
+retirar, sem prévia anuência da autoridade competente, qualquer documento ou objeto da repartição;
+
+
+III –
+
+recusar fé a documentos públicos;
+
+
+IV –
+
+opor resistência injustificada ao andamento de documento e processo ou execução de serviço;
+
+
+V –
+
+promover manifestação de apreço ou desapreço no recinto da repartição;
+
+
+VI –
+
+cometer a pessoa estranha à repartição, fora dos casos previstos em lei, o desempenho de atribuição que seja de sua responsabilidade ou de seu subordinado;
+
+
+VII –
+
+coagir ou aliciar subordinados no sentido de filiarem-se a associação profissional ou sindical ou a partido político;
+
+
+VIII –
+
+manter sob sua chefia imediata, em cargo ou função de confiança, cônjuge, companheiro ou parente até o 2º grau civil;
+
+
+IX –
+
+valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública;
+
+
+X –
+
+participar de gerência ou administração de empresa privada, de sociedade civil, ou exercer comércio, exceto na qualidade de acionista, cotista ou comanditário;
+
+
+XI –
+
+atuar, como procurador ou intermediário, junto a repartições públicas, salvo quando se tratar de benefícios previdenciários ou assistenciais de parentes até 2º grau e de cônjuge ou companheiro;
+
+
+XII –
+
+receber propina, comissão, presente ou vantagem de qualquer espécie em razão de suas atribuições;
+
+
+XIII –
+
+aceitar comissão, emprego ou pensão de estado estrangeiro;
+
+
+XIV –
+
+praticar usura sob qualquer de suas formas;
+
+
+XV –
+
+proceder de forma desidiosa;
+
+
+XVI –
+
+utilizar pessoal ou recursos materiais da repartição em serviços ou atividades particulares;
+
+
+XVII –
+
+cometer a outro servidor atribuições estranhas ao cargo que ocupa, exceto em situações de emergências e transitórias;
+
+
+XVIII –
+
+exercer quaisquer atividades que sejam incompatíveis com o exercício do cargo ou função e com horário de trabalho.
+
+
+#### CAPÍTULO III — Da Acumulação
+
+
+Art. 154.
+
+ressalvados os casos previstos na Constituição, é vedada a acumulação remunerada de cargos públicos.
+
+
+§ 1º
+
+A proibição de acumular estende-se a cargos, empregos e funções em autarquias, fundações e empresas públicas, sociedades de economia mista da União, do Distrito Federal, dos Estados, dos Territórios e dos Municípios.
+
+
+§ 2º
+
+A acumulação de cargos, ainda que lícita, fica condicionada à comprovação de compatibilidade de horários.
+
+
+Art. 155.
+
+O servidor não poderá exercer mais de um cargo em comissão, nem ser remunerado pela participação em órgão de deliberação coletiva.
+
+
+Art. 156.
+
+o servidor vinculado ao regime desta lei que acumular licitamente 2 (dois) cargos efetivos, quando investido em cargo de provimento em comissão, ficará afastado de ambos os cargos efetivos.
+
+
+#### CAPÍTULO IV — Das Responsabilidades
+
+
+Art. 157.
+
+O servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições.
+
+
+Art. 158.
+
+A responsabilidade civil decorre de Ato omissivo ou comissivo, doloso ou culposo que resulte em prejuízo ao erário ou a terceiros.
+
+
+§ 1º
+
+A indenização de prejuízo dolosamente causado ao erário somente será liquidada na forma prevista no Artigo 65, deste estatuto, na falta de outros bens que assegurem a execução do débito pela via judicial.
+
+
+§ 2º
+
+Tratando-se de dano causado a terceiros, responderá o servidor perante a Fazenda Pública, em ação regressiva.
+
+
+§ 3º
+
+A obrigação de repara o dano estende-se aos sucessores e contra eles será executada, até o limite do valor da herança recebida.
+
+
+Art. 159.
+
+A responsabilidade penal abrange os crimes e contravenções imputados ao servidor, nessa qualidade.
+
+
+Art. 160.
+
+A responsabilidade administrativa resulta de ato omisso ou comisso praticado no desempenho do cargo ou função.
+
+
+Art. 161.
+
+As sanções civis, penais e administrativas poderão cumular-se, sendo independentes entre si.
+
+
+Art. 162.
+
+A responsabilidade administrativa do servidor será afastada no caso de absolvição criminal que negue a existência do fato ou sua autoria.
+
+
+#### CAPÍTULO V — Das Penalidades
+
+
+Art. 163.
+
+São penalidades disciplinares:
+
+
+I –
+
+advertência;
+
+
+II –
+
+suspensão;
+
+
+III –
+
+demissão;
+
+
+IV –
+
+cassação da aposentadoria ou disponibilidade;
+
+
+V –
+
+destituição de cargo em comissão ou função de confiança.
+
+
+Art. 164.
+
+Na aplicação das penalidades serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para o serviço público, as circunstâncias agravantes ou atenuantes e os antecedentes funcionais do servidor.
+
+
+Art. 165.
+
+A advertência será aplicada por escrito nos casos de violação de proibição no Artigo 153, incisos I a VIII e da inobservância de dever funcional previsto em Lei, regulamentação ou norma interna que não justifique a imposição de penalidades mais graves.
+
+
+Art. 166.
+
+A suspensão será aplicada em caso de reincidência das faltas punidas com advertência e de violação das demais proibições que não tipifiquem infração sujeita a penalidade de demissão, não podendo exceder 90 (noventa) dias.
+
+
+§ 1º
+
+Será punido com suspensão de até 15 (quinze) dias o servidor que, injustificadamente, recusar-se a ser submetido à inspeção médica determinada pela autoridade competente, cessado os efeitos de penalidade uma vez cumprida a determinação.
+
+
+§ 2º
+
+Quando houver conveniência para o serviço, a penalidade de suspensão poderá ser convertida em multa, com base de 50% (cinquenta por cento) por dia do vencimento ou remuneração, ficando o servidor obrigado a permanecer em serviço.
+
+
+Art. 167.
+
+As penalidades de advertência e de suspensão terão seus registros cancelados, após o decurso de 3 (três) e 5 (cinco) anos de efetivo exercício, respectivamente, se o servidor não houver, nesse período, praticado nova infração disciplinar.
+
+
+Parágrafo único
+
+O cancelamento da penalidade não surtirá efeitos retroativos para auferição de quaisquer direitos e vantagens.
+
+
+Art. 168.
+
+A demissão será aplicada ao servidor nos seguintes casos:
+
+
+I –
+
+crime contra Administração Pública;
+
+
+II –
+
+abandono de cargo;
+
+
+III –
+
+inassiduidade habitual;
+
+
+IV –
+
+impossibilidade administrativa
+
+
+V –
+
+incontinência pública, conduta escandalosa e embriaguez habitual;
+
+
+VI –
+
+insubordinação grave em serviço;
+
+
+VII –
+
+ofensa física, em serviço, a servidor ou particular, salvo em legítima defesa ou em defesa de outrem;
+
+
+VIII –
+
+aplicação irregular de dinheiro público;
+
+
+IX –
+
+revelação de segredo do qual se apropriou em razão do cargo;
+
+
+X –
+
+lesão aos cofres públicos e dilapidação do patrimônio municipal;
+
+
+XI –
+
+corrupção;
+
+
+XII –
+
+acumulação ilegal de cargos, empregados ou funções públicas;
+
+
+XIII –
+
+transgressão dos incisos IX a XVI do Artigo 156.
+
+
+Art. 169.
+
+Verificada em processo disciplinar, a acumulação de cargos proibida e provada a boa-fé, o servidor optará por um dos cargos.
+
+
+§ 1º
+
+Provada a má-fé, o servidor perderá também o cargo que exercia a mais tempo e restituíra o que tiver percebido indevidamente.
+
+
+§ 2º
+
+Na hipótese do parágrafo anterior, sendo um dos cargos emprego ou função exercida em outro órgão ou entidade, a demissão ser-lhe-á comunicada.
+
+
+Art. 170.
+
+Será cassada a aposentadoria ou a disponibilidade do inativo que houver praticado na atividade, falta punível com a demissão.
+
+
+Art. 171.
+
+A destituição do cargo em comissão exercido por não ocupante de cargo efetivo será aplicada nos casos de infração sujeita às penalidades da suspensão e de demissão.
+
+
+Parágrafo único
+
+Constatada a hipótese de que trata este Artigo, a exoneração efetuada nos termos do Artigo 49 será convertida em destituição de cargo em comissão.
+
+
+Art. 172.
+
+A demissão ou a destituição de cargo em comissão, nos cargos dos incisos IV, VIII, X, XI do Artigo171 implica a indisponibilidade dos bens e o ressarcimento do erário sem prejuízo da ação penal cabível.
+
+
+Art. 173.
+
+A demissão ou a destituição de cargo em comissão por infrigência do Artigo 156, incisos IX e XI, incompatibiliza o ex-servidor para nova investidura em cargo publico municipal, pelo prazo de 5 (cinco) anos.
+
+
+Parágrafo único
+
+Não poderá retornar ao serviço público municipal o servidor que for demitido do cargo em comissão por infrigência do Artigo 171, incisos I, II, VIII e XI.
+
+
+Art. 174.
+
+Configura abandono do cargo a ausência intencional do servidor aos serviço por mais de 30 (trinta) dias consecutivos.
+
+
+Art. 175.
+
+Entende-se por inassiduidade habitual a falta ao serviço, sem causa justificada, por mais de 60 (sessenta) dias, intercaladamente, durante o período de 12 meses.
+
+
+Art. 176.
+
+O ato de imposição da penalidade mencionará sempre o fundamento legal e a causa sa sanção disciplinar.
+
+
+Art. 177.
+
+As penalidades disciplinares serão aplicadas:
+
+
+I –
+
+pelo Prefeito Municipal, pelo Presidente da Câmara de Vereadores e pelo dirigente superior de Autarquia e Fundação Pública, quando se tratar de demissão e cassação de aponsentadoria ou disponibilidade do servidor vinculado ao respectivo Poder;
+
+
+II –
+
+Pelo Secretário Municipal ou autoridade equivalente, quando se tratar de suspensão a 30 (trinta) dias;
+
+
+III –
+
+pelo chefe da repartição e outras autoridades, nos casos de advertência ou suspensão por até 30 (trinta) dias;
+
+
+IV –
+
+pela autoridade que houver feito a nomeação ou designação, quando se tratar de destituição de função de confiança.
+
+
+Art. 178.
+
+A ação disciplinar prescreverá:
+
+
+I –
+
+em 5 (cinco) anos, quanto às infrações puníveis com demissão, cassação de aposentadoria ou disponibilidade e destituição de cargo em comissão ou função de confiança;
+
+
+II –
+
+em 2 (dois) anos, quanto à suspensão;
+
+
+III –
+
+em 180 (cento e oitenta) dias, quanto à advertência;
+
+
+§ 1º
+
+O prazo de prescrição começa a correr da data em que o fato se tornou conhecido.
+
+
+§ 2º
+
+Os prazos de prescrição na lei penal aplicam-se às infrações disciplinares capituladas também como crime.
+
+
+§ 3º
+
+A abertura de sindicância ou a instauração de processo administrativo disciplinar interrompe a prescrição até a decisão final proferida por autoridade competente.
+
+
+§ 4º
+
+Interrompido o curso da prescrição, o prazo começará a correr a partir do dia em que cessar a interrupção.
+
+
+#### CAPÍTULO VI — Do Processo Administrativo Disciplinar
+
+
+##### Seção I — Das Disposições Gerais
+
+
+Art. 179.
+
+A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, ficando assegurada ampla defesa ao acusado.
+
+
+Art. 180.
+
+As denúncias sobre irregularidades serão objeto de apuração, desde que contenham a identificação e o endereço do denunciante e sejam formuladas por escrito, confirmada a autenticidade.
+
+
+Parágrafo único
+
+Quando o fato narrado não configurar evidente infração disciplinar ou ilícito penal, a denúncia será arquivada, por falta de objeto.
+
+
+Art. 181.
+
+Da sindicância poderá resultar:
+
+
+I –
+
+arquivamento do processo;
+
+
+II –
+
+aplicação de penalidade de advertência ou suspensão de até 30 (trinta) dias;
+
+
+III –
+
+instauração de processo administrativo disciplinar.
+
+
+Parágrafo único
+
+O prazo para conclusão da sindicância não excederá 30 (trinta) dias, podendo ser prorrogado por igual período, a critério da autoridade superior.
+
+
+Art. 182.
+
+Sempre que o ilícito praticado pelo servidor ensejar a imposição de penalidade de suspensão por mais de 30 (trinta) dias e de demissão de cargo em comissão, será obrigatória a instauração de processo disciplinar.
+
+
+##### Seção I-1
+
+Do Afastamento Preventivo
+
+
+Art. 183.
+
+Como medida cautelar e a fim de que o servidor não venha a influenciar na apuração da irregularidade, a autoridade instauradora do processo disciplinar poderá ordenar o seu afastamento do exercício do cargo, pelo prazo de até 60 (sessenta) dias, sem prejuízo da remuneração.
+
+
+Parágrafo único
+
+O afastamento poderá ser prorrogado por igual prazo, findo o qual cessarão os seus efeitos, ainda que não concluído o processo.
+
+
+##### Seção II — Do Processo Disciplinar
+
+
+Art. 184.
+
+O processo disciplinar é o instrumento destinado a apurar as responsabilidades do servidor por infração praticada no exercício de suas atribuições, ou que tenha relação mediata com a as atribuições do cargo em que se encontre investido.
+
+
+Art. 185.
+
+O processo disciplinar será conduzido por comissão composta por 3 (três) servidores estáveis designados pela autoridade competente que indicará, dentre elees, o seu presidente.
+
+
+§ 1º
+
+A comissão terá como secretário o servidor designado pelo seu presidente, podendo a designação recair em um dos seus membros;
+
+
+§ 2º
+
+Não poderá participar da comissão de sindicância ou de inquérito, cônjuge, companheiro ou parente do acusado consangüíneo ou afim, em linha reta ou colateral, até o 3º (terceiro) grau.
+
+
+Art. 186.
+
+A comissão exercerá suas atividades com independência e imparcialidade assegurado o sigilo necessário à elucidação do fato ou exigido pelo interesse da administração.
+
+
+Parágrafo único
+
+As reuniões e as audiências das comissões terão caráter reservado.
+
+
+Art. 187.
+
+O processo disciplinar desenvolve-se nas seguintes fases:
+
+
+I –
+
+instauração, com publicação do ato que constitui a comissão;
+
+
+II –
+
+inquérito administrativo, que compreende instrução, defesa e relatório;
+
+
+III –
+
+julgamento.
+
+
+Art. 188.
+
+O prazo para a conclusão do processo disciplinar não excederá 60 (sessenta) dias, contados da data da publicação do ato que constituir a comissão, admitida a sua prorrogação por igual prazo, quando as circunstâncias o exigirem.
+
+
+###### Subseção I — Do Inquérito
+
+
+Art. 189.
+
+O inquérito administrativo obedecerá ao princípio do contraditório, assegurada ao acusado ampla defesa com a utilização dos meios e recursos admitidos em direito.
+
+
+Art. 190.
+
+Os autos da sindicância integrarão o processo disciplinar, como peça informativa da instrução.
+
+
+Parágrafo único
+
+Na hipótese do relatório da sindicância concluir que a infração está capitulada como ilícito penal, a autoridade competente encaminhará cópia dos autos ao Ministério Público, independentemente da imediata instauração do processo disciplinar.
+
+
+Art. 191.
+
+Na fase do inquérito, a comissão promoverá a tomada de depoimentos, acareações, investigações e diligência cabíveis, objetivando a coleta de prova, recorrendo, quando necessário, a técnicos e peritos, de modo a permitir completa elucidação dos fatos.
+
+
+Art. 192.
+
+É assegurado ao servidor direito de acompanhar o processo, pessoalmente ou por intermédio de procurador, arrolar e reinquirir testemunhas, produzir provas e contra-provas e formular quesitos, quando se tratar de prova pericial.
+
+
+§ 1º
+
+O presidente da comissão poderá denegar pedidos considerados impertinentes, meramente protelatórios ou de nenhum interesse para o esclarecimento dos fatos.
+
+
+§ 2º
+
+Será indeferido o pedido de prova pericial, quando a comprovação do fato independer de conhecimento de peritos.
+
+
+Art. 193.
+
+As testemunhas serão intimadas a depor mediante mandato expedido pelo presidente da comissão, devendo a 2ª (segunda) via, com ciente do interessado, ser anexada aos autos.
+
+
+Parágrafo único
+
+Se a testemunha for servidor público, a expedição do mandato será imediatamente comunicada ao chefe da repartição onde serve, com a indicação do dia e hora marcada para inquirição.
+
+
+Art. 194.
+
+O depoimento será prestado oralmente e reduzido a termo, não sendo lícito à testemunha trazê-lo por escrito.
+
+
+§ 1º
+
+As testemunhas serão inquiridas separadamente.
+
+
+§ 2º
+
+Na hipótese de depoimento contraditório ou que se infirmem, proceder-se-á à acareação entre os depoentes.
+
+
+Art. 195.
+
+Concluída a inquirição das testemunhas, a comissão promoverá o interrogatório do acusado, observados os procedimentos previstos nos artigos 194 e 195.
+
+
+§ 1º
+
+No caso de mais de um acusado, cada um deles será ouvido separadamente e, sempre que divergirem as suas declarações sobre os fatos ou circunstâncias, será promovida a acareação entre ambos.
+
+
+§ 2º
+
+O procurador do acusado poderá assistir ao interrogatório bem como a inquirição das testemunhas sendo-lhe vedado interferir nas perguntas e respostas, facultando-se-lhe, porém, reinquiri-las por intermédio do presidente da comissão.
+
+
+Art. 196.
+
+Quando houver dúvida sobre a sanidade mental do acusado, a comissão proporá à autoridade competente que ele seja submetido a exame por junta médica oficial da qual participe pelo menos um médico psiquiatra.
+
+
+Parágrafo único
+
+O incidente de sanidade mental será processado em auto apartado e apenso ao processo principal após a expedição do laudo pericial.
+
+
+Art. 197.
+
+Tipificada a infração disciplinar, será formulada a indicação do servidor com a especificação dos fatos a ele imputados e das respectivas provas.
+
+
+§ 1º
+
+O indiciado será citado por mandato expedido pelo presidente da comissão para apresentar defesa escrita, no prazo de 10 (dez) dias, assegurando-lhe vista do processo na repartição.
+
+
+§ 2º
+
+Havendo 2 (dois) ou mais indiciados, o prazo será comum e de 20 (vinte) dias.
+
+
+§ 3º
+
+O prazo de defesa poderá ser prorrogado pelo dobro, para diligências reputas indispensáveis.
+
+
+§ 4º
+
+No caso da recusa do indiciado em apor o ciente na cópia da citação, o prazo para defesa contar-se-á da data declarada, em termo próprio, pelo membro da comissão que faz a citação, com a assinatura de 2 (duas) testemunhas.
+
+
+Art. 198.
+
+O indiciado que mudar de residência fica obrigado a comunicar à comissão o lugar onde poderá ser encontrado.
+
+
+Art. 199.
+
+Achando-se o indiciado em lugar incerto e não sabido, será citado por edital, publicado em jornal de grande circulação na localidade do último domicílio conhecido, para apresentar defesa.
+
+
+Parágrafo único
+
+Na hipótese deste artigo, o prazo para defesa será de 15 (quinze) dias, a partir da última publicação do edital.
+
+
+Art. 200.
+
+Considerar-se-á revel o indiciado que, regularmente citado, não apresentar defesa no prazo legal.
+
+
+§ 1º
+
+A revelia será declarada, por termo, nos autos do processo e devolverá o prazo para a defesa.
+
+
+§ 2º
+
+para defender o indiciado revel a autoridade instauradora do processo designará um servidor como defensor dativo, ocupante de cargo de nível igual ou superior do indiciado.
+
+
+Art. 201.
+
+Apreciada a defesa, a comissão elaborará relatório minucioso, onde resumirá as peças principais dos autos e mencionará as provas em que se baseou para formar a sua convicção.
+
+
+§ 1º
+
+O relatório será sempre conclusivo quanto à inocência ou à responsabilidade do servidor.
+
+
+§ 2º
+
+Reconhecida a responsabilidade do servidor, a comissão indicará o dispositivo legal ou regulamentar transgredido bem como as circunstâncias agravantes ou atenuantes.
+
+
+Art. 202.
+
+O processo disciplinar, com o relatório da comissão, será remetido à autoridade que determinou a sua instauração, para julgamento.
+
+
+###### Subseção II — Do Julgamento
+
+
+Art. 203.
+
+No prazo de 20 (vinte) dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão.
+
+
+§ 1º
+
+Se a penalidade a ser aplicada exceder a alçada da autoridade instauradora do processo, este será encaminhado à autoridade competente, que decidirá em igual prazo.
+
+
+§ 2º
+
+Havendo mais de um indiciado e diversidade de sanções, o julgamento caberá a autoridade competente para imposição da pena mais grave.
+
+
+§ 3º
+
+Se a penalidade prevista for a demissão ou cassação da aposentadoria ou disponibilidade, o julgamento caberá à autoridade de trata o inciso I do Artigo 180.
+
+
+Art. 204.
+
+O julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos.
+
+
+Parágrafo único
+
+Quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor da responsabilidade.
+
+
+Art. 205.
+
+Verificada a existência de vício insanável, a autoridade julgadora declarará a nulidade total ou parcial do processo e ordenará a constituição de outra comissão, para instauração de novo processo.
+
+
+§ 1º
+
+O julgamento fora do prazo legal não implica nulidade do processo.
+
+
+§ 2º
+
+A autoridade julgadora que der causa à prescrição de que trata o Artigo 181, § 2º será responsabilizada na forma do capítulo IV do título IV.
+
+
+Art. 206.
+
+Extinta a punibilidade pela prescrição, a autoridade julgadora determinará o registro do fato nos assentamentos individuais do servidor.
+
+
+Art. 207.
+
+Quando a infração estiver capitulada como crime, o processo disciplinar será remetido ao Ministério Público para instauração de ação penal, ficando um translado na repartição.
+
+
+Art. 208.
+
+O servidor que responder a processo disciplinar só poderá ser exonerado a pedido, ou aposentado voluntariamente, após a conclusão do processo e o cumprimento da penalidade, caso aplicada.
+
+
+Parágrafo único
+
+Ocorrida a exoneração de que trata o parágrafo único, inciso I do Artigo 48, o ato será convertido em demissão, se for o caso.
+
+
+Art. 209.
+
+Serão assegurados transportes e diárias:
+
+
+I –
+
+ao servidor convocado para prestar depoimento fora da sede de sua repartição, na condição de testemunha, denunciado ou indiciado;
+
+
+II –
+
+aos membros da comissão e ao secretário, quando obrigados a se deslocarem da sede do trabalho para a realização da missão essencial ao esclarecimento dos fatos.
+
+
+###### Subseção III — Da Revisão do Processo Administrativo Disciplinar
+
+
+Art. 210.
+
+O processo disciplinar poderá ser revisto, a qualquer tempo, a pedido ou de ofício, quando se aduzirem fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou a inadequação da penalidade aplicada.
+
+
+§ 1º
+
+Em caso de falecimento, ausência ou desaparecimento do servidor, qualquer pessoa da família poderá requerer revisão do processo
+
+
+§ 2º
+
+No caso de incapacidade mental do servidor, a revisão será requerida pelo respectivo curador.
+
+
+Art. 211.
+
+No processo revisional, o ônus da prova cabe ao requerente.
+
+
+Art. 212.
+
+A simples alegação de injustiça da penalidade não constitui fundamento para a revisão, que requer elementos novos ainda não apreciados no processo originário.
+
+
+Art. 213.
+
+O requerimento de revisão do processo será dirigido ao Chefe do Poder competente que, se autorizada a revisão, encaminhará o pedido ao dirigente do órgão ou entidade onde se originou o processo disciplinar.
+
+
+Parágrafo único
+
+Deferida a petição, a autoridade competente providenciará a constituição de comissão na forma do Artigo 188.
+
+
+Art. 214.
+
+A revisão correrá em apenso ao processo originário.
+
+
+Parágrafo único
+
+Na petição original, o requerente pedirá dia e hora para a produção de provas e inquirição das testemunhas que arrolar.
+
+
+Art. 215.
+
+A comissão revisora terá 60 (sessenta) dias para a conclusão dos trabalhos.
+
+
+Art. 216.
+
+Aplicam-se aos trabalhos da comissão revisora, no que couber, as normas e procedimentos próprios da comissão de processo disciplinar.
+
+
+Art. 217.
+
+O julgamento caberá à autoridade que aplicou a penalidade, nos termos do Artigo 180.
+
+
+Parágrafo único
+
+O prazo para julgamento será de 20 (vinte) dias, contados do recebimentos do processo, no curso do qual a autoridade julgadora poderá determinar diligências.
+
+
+Art. 218.
+
+Julgada a procedente revisão, será declarada sem efeito a penalidade aplicada, restabelecendo-se todos os direitos do servidor, exceto em relação à destituição do cargo em comissão, que será convertido em exoneração.
+
+
+Parágrafo único
+
+Da revisão do processo não poderá resultar agravamento de penalidade.
+
+
+### TÍTULO V — Dos Benefícios e da Assistência à Saúde
+
+
+#### CAPÍTULO I — Dos Benefícios
+
+
+##### Seção I — Da Aposentadoria
+
+
+Art. 219.
+
+O servidor público será aposentado na forma da Legislação Previdenciária Nacional, conforme o disposto no Artigo 16 do regime jurídico único.
+
+
+##### Seção II — Do Auxílio-natalidade
+
+
+Art. 220.
+
+O auxílio-natalidade é devido à servidora por motivo de nascimento de seu filho. O valor será estabelecido na regulamentação deste estatuto.
+
+
+§ 1º
+
+Na hipótese de parto múltiplo, o valor será acrescido de 50% (cinquenta por cento), por nascituro.
+
+
+§ 2º
+
+O auxílio será pago ao cônjuge ou companheiro servidor público, quando a parturiente não for servidora.
+
+
+##### Seção III — Do Salário-família
+
+
+Art. 221.
+
+O salário-família é devido ao servidor ativo ou inativo, por dependente econômico.
+
+
+Parágrafo único
+
+Consideram-se dependentes econômicos para efeito de percepção do salário-família:
+
+
+I –
+
+o cônjuge ou companheiro e os filhos, inclusive os enteados, até 21 (vinte e um) anos de idade ou, se estudantes, até 24 (vinte e quatro) anos ou, se inválido, de qualquer idade;
+
+
+II –
+
+o menor de 21 (vinte e um) anos que, mediante autorização judicial, viver na companhia e às expesas do servidor ativo ou inativo;
+
+
+III –
+
+a mãe e o pai sem economia própria.
+
+
+Art. 222.
+
+Não se configura a dependência econômica quando o beneficiário do salário-família perceber rendimento do trabalho ou de qualquer natureza outra fonte, inclusive pensão ou provento da aposentadoria, em valor igual ou superior ao salário mínimo.
+
+
+Art. 223.
+
+Quando pais e mãe forem servidores públicos e viverem em comum, o salário-família será pago a um deles; quando separados, será pago a um e outro, de acordo com a distribuição dos dependentes.
+
+
+Parágrafo único
+
+Ao pai e a mãe equiparam-se o padastra e a madastra e, na falta destes, os representantes legais dos incapazes.
+
+
+Art. 224.
+
+O salário-família não está sujeito a qualquer tributo, nem servirá de base para qualquer contribuição, inclusive Previdência Social.
+
+
+Art. 225.
+
+o afastamento do cargo efetivo, sem remuneração, não acarretará a suspensão do pagamento do salário-família.
+
+
+##### Seção IV — Da Pensão
+
+
+Art. 226.
+
+Por morte do servidor, os dependentes fazem jus a uma pensão mensal na forma da Legislação Previdenciária Nacional em vigor.
+
+
+##### Seção V — Do Auxílio-reclusão
+
+
+Art. 227.
+
+A família do servidor ativo é devido o auxílio-reclusão, nos seguintes valores:
+
+
+I –
+
+dois terços da remuneração, quando afastado por motivo de prisão em flagrante ou preventiva, determinada pela autoridade competente, enquanto perdurar a prisão;
+
+
+II –
+
+metade da remuneração durante o afastamento em virtude de condenação, por sentença definitiva, à pena que não determine a perda do cargo.
+
+
+§ 1º
+
+Nos casos previstos no inciso I deste artigo, o servidor terá direito à integralização da remuneração desde que absolvido.
+
+
+§ 2º
+
+O pagamento do auxílio-reclusão cessará a partir do dia imediato em que o servidor for posto em liberdade ainda que condicional.
+
+
+#### CAPÍTULO II — Da Assistência à Saúde
+
+
+Art. 228.
+
+A assistência à saúde do servidor ativo ou inativo e de sua família, compreende assistência médica, hospitalar, odontológica, psicológica e farmacêutica prestada pelo Sistema Único de Saúde ou diretamente pelo órgão ou entidade a qual estiver vinculado o servidor ou, ainda, mediante convênio na forma estabelecida em ato próprio.
+
+
+### TÍTULO VI — CAPÍTULO ÚNICO Da Contratação temporária de Excepcional Interesse Público
+
+
+Art. 229.
+
+Para atender a necessidade temporária de excepcional interesse público, poderão ser efetuadas contratações de pessoal por tempo determinado, mediante contrato de locação de serviços.
+
+
+Art. 230.
+
+consideram-se como de necessidade temporária de excepcional interesse público as contratações que visem a:
+
+
+I –
+
+combater surtos epidêmicos;
+
+
+II –
+
+atender a situações de calamidade pública;
+
+
+§ 1º
+
+O recrutamento será feito mediante processo seletivo simplificado, sujeito a ampla divulgação em jornal de grande circulação no Município, exceto nas hipóteses dos incisos II e IV deste artigo.
+
+
+§ 2º
+
+O número de contratados sob o regime de que trata o artigo anterior não poderá exceder a 5% (cinco por cento) do quadro efetivo de servidores públicos, nem as despesas relativas à remuneração dos mesmos poderão ser superior a 5% (cinco por cento) do valor da folha de pagamento do serviço público municipal, das autarquias e fundações.
+
+
+Art. 231.
+
+As contratações previstas no artigo anterior não poderão ultrapassar o prazo de 6 (seis) meses, exceto no caso do inciso III, que poderá prolongar-se até a conclusão do ano letivo.
+
+
+§ 1º
+
+As contratações previstas neste artigo serão previamente autorizadas pelo Chefe do Poder Executivo, ouvido o órgão responsável pela administração de pessoal do município.
+
+
+§ 2º
+
+Os prazos de que trata este artigo são improrrogáveis, salvo se o prazo de contratação for inferior ao estipulado, podendo a prorrogação ser efetuada até aquele limite.
+
+
+§ 3º
+
+É vedada a contratação da mesma pessoa, ainda que para serviços diferentes, pelo prazo de dois anos, a contar do início do contrato.
+
+
+§ 4º
+
+Não será permitido o desvio de função de pessoa contratada na forma dos artigos anteriores, bem como designações especiais ou nomeações para o cargo em comissão.
+
+
+§ 5º
+
+O contratado não poderá ser ocupante de cargo, função ou emprego público, salvo no caso de acumulação lícita e desde que haja compatibilidade de horário.
+
+
+Art. 232.
+
+Nas contratações por tempo determinado serão observados padrões de vencimentos no plano de carreira da Prefeitura.
+
+
+§ 1º
+
+É expressamente proibida a contratação quando existirem cargos vagos e candidatos aprovados em concurso público no prazo de sua validade.
+
+
+§ 2º
+
+O contratado assumirá o desempenho de suas funções no prazo convencionado no contrato.
+
+
+§ 3º
+
+Os contratados para atender as necessidades temporárias de excepcional interesse público serão sujeitos aos mesmos deveres e proibições e ao mesmo regime de responsabilidade vigente para os demais servidores públicos municipais, no que couber.
+
+
+Art. 233.
+
+A rescisão do contrato administrativo ocorrerá:
+
+
+I –
+
+a pedido do contratado;
+
+
+II –
+
+pela conveniência da Administração, a juízo da autoridade que procedeu a contratação;
+
+
+III –
+
+pelo cometimento de falta disciplinar, apurada em processo sumário, com garantia de ampla defesa.
+
+
+Parágrafo único
+
+Ao término do contrato ou em caso de rescisão, por conveniência da Administração, quando o prazo do mesmo for superior a 30 (trinta) dias, o contratado fará jus ao 13º (décimo terceiro) salário proporcional ao tempo de serviço prestado.
+
+
+Art. 234.
+
+É assegurado ao contratado o direito ao gozo de licença para tratamento da própria saúde, por acidente em serviço ou doença profissional, à gestante e paternidade.
+
+
+§ 1º
+
+A inspeção de saúde, para efeito de afastamento previsto no “caput” deste artigo, será realizada pelo órgão de perícia médica oficial do Município.
+
+
+§ 2º
+
+Ficam vedadas quaisquer outras espécies de afastamento.
+
+
+§ 3º
+
+O contratado terá direito à aposentadoria por invalidez decorrente de acidente em serviço, uma vez atendidos os requisitos legais para sua concessão.
+
+
+### TÍTULO VI-1
+
+Das Disposições Gerais - Capítulo Único
+
+
+Art. 235.
+
+O dia do Servidor Público será comemorado a vinte e oito de outubro.
+
+
+Art. 236.
+
+Os prazos previstos nesta Lei serão contados em dias corridos, excluindo-se o dia do começo e incluindo-se o dia do vencimento, ficando prorrogado para o primeiro dia útil seguinte, o prazo vencido no dia em que não haja expediente.
+
+
+Art. 237.
+
+Por motivo de crença religiosa ou de convicção filosófica ou política, o servidor não poderá ser privado de quaisquer dos seus direitos, sofrer discriminação em sua vida funcional, nem eximir-se do cumprimento de seus deveres.
+
+
+Art. 238.
+
+São isentos de taxas, emolumentos ou custas os requerimentos, certidões e outros papéis que, na esfera administrativa, interessarem ao servidor municipal ativo ou inativo, nessa qualidade.
+
+
+Art. 239.
+
+Ao servidor público municipal é assegurado o direito de promoção na respectiva carreira com base em critérios estabelecidos em regulamento, apurando-se tempo de serviço, merecimento e titulação.
+
+
+Art. 240.
+
+É assegurado ao servidor público municipal o direito à livre associação sindical.
+
+
+Art. 241.
+
+É vedado exigir atestado de ideologia como condição de posse ou exercício em cargo público.
+
+
+Art. 242.
+
+A jornada de trabalho nas repartições municipais será fixada por Decreto do Prefeito Municipal.
+
+
+Art. 243.
+
+Aos servidores integrantes do grupo de Magistério aplicam-se subsidiária e complementarmente as disposições desta Lei.
+
+
+Art. 244.
+
+O Prefeito Municipal baixará, por decreto, os regulamentos necessários à execução da presente Lei.
+
+
+Art. 245.
+
+A presente Lei aplicar-se-á aos servidores da Câmara Municipal, cabendo ao Presidente desta as atribuições reservadas ao Prefeito Municipal, quando for o caso.
+
+
+### TÍTULO VII — Erro numeração
+
+
+### TÍTULO VIII — Das Disposições transitórias e Finais - Capítulo Único
+
+
+Art. 246.
+
+Ficam submetidos ao Regime previsto nesta Lei os servidores da Prefeitura, Câmara Municipal, das Autarquias e das Fundações Públicas Municipais.
+
+
+Art. 247.
+
+O serviço de pessoal dos órgãos e entidade referido no artigo anterior informará aos servidores admitidos pelo regime de Consolidação das Leis do trabalho - CLT - sobre as vantagens e desvantagens do regime instituído por essa Lei.
+
+
+Art. 248.
+
+Os servidores admitidos pelo regime de Consolidação das Leis do Trabalho - CLT -, terão seus empregos transformados em cargos.
+
+
+Parágrafo único
+
+O disposto neste artigo não se aplica aos prestadores de serviços, nem aos contratados por prazo determinado sujeitos a legislação específica.
+
+
+Art. 249.
+
+Com a transformação dos empregos em cargos, os contratos individuais de trabalho ficam extintos.
+
+
+§ 1º
+
+O serviço de pessoal providenciará as anotações nas fichas funcionais dos servidores e procederá as comunicações às autoridades e órgãos federais competentes em matérias trabalhistas.
+
+
+§ 2º
+
+As comunicações previstas no parágrafo anterior serão feitas através de ofício devidamente firmado por autoridades competentes.
+
+
+Art. 250.
+
+Extintos os contratos de trabalho com a transferência do servidor do regime de CLT para o regime Estatutário, o tempo de serviço prestado ininterruptamente ao Município será computado a partir da data de admissão para efeitos de:
+
+
+I –
+
+pontuação graduação em concurso;
+
+
+II –
+
+efetivação dos aprovados em concurso;
+
+
+III –
+
+indenização no caso de dispensa, até a data de entrada em vigor desta Lei, exceto nos casos que acarrete a perda de cargo;
+
+
+IV –
+
+aposentadoria e pensão, observada a legislação pertinente;
+
+
+V –
+
+gratificação e prêmio de incentivo;
+
+
+VI –
+
+licenças e vantagens previstas em Lei Municipal;
+
+
+VII –
+
+complementação de aposentadoria.
+
+
+Parágrafo único
+
+Os direitos e as vantagens que vierem a ser concedidos aos servidores municipais, após a data da vigência desta Lei, observarão as normas previstas no Artigo 183, Parágrafo Único da Constituição Federal e dependerão de Lei Municipal exceto se não acarretarem despesa pública para o Município.
+
+
+Art. 251.
+
+Os servidores que não forem alcançados pela estabilidade prevista no Artigo 19 das Disposições Constitucionais Transitórias da Constituição Federal, se submetidos ao Concurso Público e não aprovados, serão incluídos em Quadro Suplementar em extinção.
+
+
+Art. 252.
+
+A partir do dia seguinte da publicação desta Lei, fica vedado o recolhimento de Fundo de Garantia por Tempo de Serviço, em relação aos servidores submetidos ao regime estatutário.
+
+
+§ 1º
+
+O disposto neste artigo não se aplica aos débitos contraídos antes da vigência desta Lei, inclusive os em regime de parcelamento ou decorrentes de rescisões de contratos de trabalho, exceto nos casos de acordo judicial devidamente homologado.
+
+
+§ 2º
+
+A paralisação do recolhimento, prevista neste artigo, fica condicionada à baixa das inscrições e contas no órgão competente.
+
+
+§ 3º
+
+Fica obrigado o órgão público municipal, tanto o Executivo como o Legislativo, no prazo que determina a Lei, a liberar o FGTS dos servidores.
+
+
+Art. 253.
+
+O tempo de serviço dos servidores contratados anterior a 5 de outubro de 1988 será computado na forma prevista no artigo 202 da Constituição Federal.
+
+
+Art. 254.
+
+O tempo de serviço prestado ao Municipio, posterior a 5 de outubro de 1988 até a data da aposentadoria pela Previdencia Social Federal, assegurará ao servidor o direito a complemtnação proposcional em relação à diferença entre o valor do benneficio e o ultimo vencimento pago pelo Municipio.
+
+
+Art. 255.
+
+A Lei Municipal estabelecerá critérios para compatibilização dos quadros de pessoal, com o disposto nesta Lei e na reforma administrativa pela decorrente.
+
+
+Art. 256.
+
+O Município recorrerá das decisões judiciais contrárias ao seu interesse, decorrentes da aplicação desta Lei.
+
+
+Art. 257.
+
+As contribuições previdenciárias continuarão sendo recolhidas para Órgão Federal.
+
+
+Art. 258.
+
+A competência para julgar reclamações ajuizadas posteriormente à vigência desta Lei é da Justiça Estadual.
+
+
+Art. 259.
+
+Para fazer face às despesas decorrentes da aplicação desta Lei, serão utilizados recursos previstos na Lei Orçamentária Anual.
+
+
+Art. 260.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal,  
+Conceição do Coité, 20 de dezembro de 1996.
+
+MISAEL FERREIRA DE OLIVEIRA  
+Prefeito Municipal
+

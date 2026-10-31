@@ -1,0 +1,42 @@
+{
+  "host": "sapl.aracuai.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aracuai.mg.leg.br/0c65838e7ab7836db776ae2c8e9d8ff81a75903bac16f2c9d0fc6442c31734de.json",
+    "url": "https://sapl.aracuai.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.aracuai.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "326f65a5c879aee7bbe531e00e78b4beb9f945f48764d7b7fe3e6f613cd9a45c",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T16:52:55.038446-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aracuai.mg.leg.br/98ba145e4dafc49951621b6dbf17d6b5e6e6bf5e6d6b084c1abb7cb8d6d602c1.json",
+    "url": "https://sapl.aracuai.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.aracuai.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "39ce377d554865032dceada53d4a92c5f8e84e4981dbadcc69a926049be57bae",
+    "bytes": 754,
+    "capturado_em": "2026-10-27T16:52:54.228313-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aracuai.mg.leg.br/a70c15d441df3afc79a98860e932188060847a7026e4abfecf624b9a484d1318.json",
+      "url": "https://sapl.aracuai.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.aracuai.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T16:52:56.951610-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

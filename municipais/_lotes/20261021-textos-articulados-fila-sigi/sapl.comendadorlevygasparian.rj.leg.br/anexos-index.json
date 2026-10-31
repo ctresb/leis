@@ -1,0 +1,218 @@
+{
+  "estado": "indice_completo",
+  "total": 20,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/lei-1085-22-12-2020-2.pdf da norma Lei Ordinária nº 1.085, de 22 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2020/1/lei-1085-22-12-2020-2.pdf",
+      "ano": 2020,
+      "norma": 311
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/lei-970-07-12-2017-anexo.pdf da norma Lei Ordinária nº 970, de 07 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "LEI DE DIRETRIZES ORÇAMENTÁRIAS ANEXO DE METAS FISCAIS ESTIMA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA ANO = 2017",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2017/2/lei-970-07-12-2017-anexo.pdf",
+      "ano": 2017,
+      "norma": 317
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/3/lei-853-15-05-2014-errata.pdf da norma Lei Ordinária nº 853, de 16 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA NORMA PUBLICADA NO D.O.M.",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2014/3/lei-853-15-05-2014-errata.pdf",
+      "ano": 2014,
+      "norma": 344
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/4/lei-893-23-10-2015-errata.pdf da norma Lei Ordinária nº 893, de 23 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA LEI 893/2015",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2015/4/lei-893-23-10-2015-errata.pdf",
+      "ano": 2015,
+      "norma": 1027
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/lei-1030-17-09-2019-republicacao.pdf da norma Lei Ordinária nº 1.030, de 17 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "REPUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2019/5/lei-1030-17-09-2019-republicacao.pdf",
+      "ano": 2019,
+      "norma": 1144
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/6/acordao_inconstitucionalidade.pdf da norma Lei Ordinária nº 592, de 13 de fevereiro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Acórdão de Inconstitucionalidade da Lei 592/2008",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2008/6/acordao_inconstitucionalidade.pdf",
+      "ano": 2008,
+      "norma": 764
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/68-_lei_no1.252-8.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 1",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/8/68-_lei_no1.252-8.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/68-_lei_no1.252-9.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 2",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/9/68-_lei_no1.252-9.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/68-_lei_no1.252-10.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 3",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/10/68-_lei_no1.252-10.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/68-_lei_no1.252-11.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 4",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/11/68-_lei_no1.252-11.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/68-_lei_no1.252-12.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 5",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/12/68-_lei_no1.252-12.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/68-_lei_no1.252-13.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 6",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/13/68-_lei_no1.252-13.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/68-_lei_no1.252-14.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 7",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/14/68-_lei_no1.252-14.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/68-_lei_no1.252-15.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 8",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/15/68-_lei_no1.252-15.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/68-_lei_no1.252-16.pdf da norma Lei Ordinária nº 1.252, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS- MEMÓRIA E METODOLOGIA DE CALCULO DAS METAS ANUAIS/ ANEXO 9",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/16/68-_lei_no1.252-16.pdf",
+      "ano": 2024,
+      "norma": 1532
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/lei_1236_08-02-2024-8-131.pdf da norma Lei Ordinária nº 1.236, de 16 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "RECEITAS SEGUNDO AS CATEGORIAS ECONOMICAS",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2024/17/lei_1236_08-02-2024-8-131.pdf",
+      "ano": 2024,
+      "norma": 1253
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/18/lei_1146_25-05-2022-6-7.pdf da norma Lei Ordinária nº 1.146, de 25 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS ESTIMA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA - ANO 2022",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2022/18/lei_1146_25-05-2022-6-7.pdf",
+      "ano": 2022,
+      "norma": 1342
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/19/lei_1160_28-09-2022-4.pdf da norma Lei Ordinária nº 1.160, de 28 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "ANEXO ÚNICO",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2022/19/lei_1160_28-09-2022-4.pdf",
+      "ano": 2022,
+      "norma": 1330
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/20/lei-916-23-02-2016-3-4.pdf da norma Lei Ordinária nº 916, de 23 de fevereiro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Axeno I e Anexo II do parcelamento dos débitos junto a empresa Light Serviços de Eletricidade S/A.",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2016/20/lei-916-23-02-2016-3-4.pdf",
+      "ano": 2016,
+      "norma": 1045
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/21/lei-898-18-11-2015-8-11.pdf da norma Lei Ordinária nº 898, de 18 de novembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "FORMULÁRIO PARA REQUERER ACESSO À INFORMAÇÃO",
+      "anexo_arquivo": "http://sapl.comendadorlevygasparian.rj.leg.br/media/sapl/public/anexonormajuridica/2015/21/lei-898-18-11-2015-8-11.pdf",
+      "ano": 2015,
+      "norma": 1032
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/516e241e683b741d678e09481f00974ed73e85e657879de3a11679094858e7cc.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3cff87c59454ec566f0830b8e7279be2242d584ad8b7319c173952a836dc8236",
+      "bytes": 9680,
+      "capturado_em": "2026-10-27T22:55:24.505207-03:00"
+    }
+  ]
+}

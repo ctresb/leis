@@ -1,0 +1,55 @@
+---
+titulo: "Emenda a Lei Orgânica Municipal nº 19, de 17 de dezembro de 2019"
+tipo: "Emenda à Lei Orgânica"
+tipo_na_fonte: "Emenda a Lei Orgânica Municipal"
+numero: "19"
+data: "2019-12-17"
+municipio: "Cachoeiro de Itapemirim"
+uf: "ES"
+codigo_ibge: "3201209"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.cachoeirodeitapemirim.es.leg.br/norma/1087"
+fonte_texto: "https://sapl.cachoeirodeitapemirim.es.leg.br/media/sapl/public/normajuridica/2019/1087/diario5975-26-_emenda_a_lom_no_19.pdf"
+sha256_fonte: "6ffbf7d11214ce494e57a3e66f3aaa474c0ee811ce9aa36db676ca655dccd379"
+sha256_texto: "18620782fa325cab5c5a4437a3b81f6a0f61f7fdd82a9318492f243e10d1a40c"
+baixado_em: "2026-10-16"
+---
+
+# Emenda a Lei Orgânica Municipal nº 19, de 17 de dezembro de 2019
+
+Cachoeiro de Itapemirim (ES), quinta-feira, 26 de dezembro de 2019 DOM nº 5975 Página 33 aprovada vai por todos os presentes assinadas. DATACI Cachoeiro de Itapemirim/ES, 19 de dezembro de 2019 ATA DE REUNIÃO DO CONSELHO FISCAL DA COMPANHIA DE TECNOLOGIA DA INFORMAÇÃO Roney Guimarães Pereira Victor Abreu Moreira DE CACHOEIRO DE ITAPEMIRIM - DATACI Conselheiro Conselheiro
+
+CNPJ nº. 31.720.485/0001-11 – NIRE nº. 32 3 0003133 1 Nilva Brandão de Almeida Novaes Douglas Chagas Fiorin Gerente de Controladoria Contador DIA, HORA E LOCAL: aos 19 (dezenove) dias do mês de dezembro de 2019, às 09:00 horas, na DATACI, situada à Rua Vinte e Cinco de Março, nº. 28, 2º Pavimento, Cachoeiro de EXTRATO DE AVISO DE DISPENSA DE Itapemirim-ES. CONVOCAÇÃO: anúncio publicado no Diário LICITAÇÃO Oficial do Município de Cachoeiro de Itapemirim nos dias 11, 13 e 16 de dezembro de 2019, em cumprimento às disposições do ESPÉCIE: Processo de Dispensa de Licitação. Artigo 124 da Lei n. 6.404 de 15/12/1976 com suas alterações BASE LEGAL: art. 24, inc. II c/c §1.º, da Lei n.º 8.666/93. com o seguinte teor: COMPANHIA DE TECNOLOGIA DA CONTRATANTE: Companhia de Tecnologia da Informação de INFORMAÇÃO DE CACHOEIRO DE ITAPEMIRIM – Cachoeiro de Itapemirim – DATACI – CNPJ: 31.720.485/0001- DATACI - CNPJ nº. 31.720.485/0001-11 – Reunião do Conselho 11. Fiscal – Edital de Convocação – Estão convocados os membros CONTRATADA: Helder Marinho Moreira Eireli – CNPJ: do Conselho Fiscal da Companhia de Tecnologia da Informação 31.470.946/0001-45. de Cachoeiro de Itapemirim – DATACI a se reunirem para OBJETO: Contratação de empresa especializada para confecção participarem da 6ª. Reunião do Conselho Fiscal a realizar-se no e fornecimento de carimbos, destinados à DATACI. dia 19 de dezenove de 2019 às 9:00 horas, na DATACI, situada VALOR GLOBAL: R$ 418,60 (quatrocentos e dezoito reais e à Rua Vinte e Cinco de Março, nº. 28, 2º Pavimento, Cachoeiro sessenta centavos). de Itapemirim-ES, a fim de deliberarem sobre a seguinte ordem RATIFICAÇÃO: em 23/12/2019, por: Carlos Henrique Salgado do dia: QUORUM DE VOTAÇÃO: a reunião instalar-se-á, – Diretor Presidente Interino. em primeira convocação, com a presença de Conselheiros que FONTE DE RECURSOS: Próprio. represente, no mínimo, 1/4 (um quarto) daqueles com direito PROCESSO: 45-43089/2019. de voto; em segunda convocação instalar-se-á com qualquer número. 1) FLUXO DE MOVIMENTO FINANCEIRO; 2) BALANCETE E RAZÃO CONTÁBIL; 3) ASSUNTOS ATOS DO PODER LEGISL ATIVO MUNI C I PA L GERAIS. Cachoeiro de Itapemirim, 19 de dezembro de 2019. PRESENÇAS: Sr. Roney Guimarães Pereira, Sr. Victor Abreu Moreira, do contador Douglas Chagas Fiorin e da Controller da EMENDA À LEI ORGÂNICA MUNICIPAL DATACI Sra Nilva Brandão de Almeida Novaes. MESA: Sr. Nº 019/2019 Roney Guimarães Pereira e Sr. Victor Abreu Moreira. Instalada a reunião, procedeu-se à leitura da convocação e submeteram-se à ACRESCENTA ARTIGO NA LEI ORGÂNICA apreciação dos senhores Conselheiros os assuntos constantes na PARA TORNAR OBRIGATÓRIA A EXECUÇÃO ordem do dia. 1) FLUXO DE MOVIMENTO FINANCEIRO ORÇAMENTÁRIA ORIUNDAS DAS EMENDAS DE OUTUBRO E NOVEMBRO DE 2019: O conselho fiscal INDIVIDUAIS DOS VEREADORES NO ORÇAMENTO realizou a conferência por amostragem do fluxo documental; ANUAL NOS TERMOS DO ART. 166 DA CONSTITUIÇÃO 2) BALANCETE E RAZÃO CONTÁBIL DE OUTUBRO FEDERAL, E DÁ OUTRAS PROVIDÊNCIAS. E NOVEMBRO DE 2019: Foi realizada conferência por amostragem dos saldos de caixa e equivalentes de caixa, receitas A Mesa Diretora da Câmara Municipal de e despesas. Constatada divergência entre o saldo contábil da conta Cachoeiro de Itapemirim, Estado do Espírito Santo, aplicação financeira e extrato da aplicação do Banco do Brasil, no uso das suas atribuições legais, faz saber que a Câmara mês 10/2019 e 11/2019, a Controller da Companhia, Nilva, nos PROMULGA a seguinte EMENDA à LOM: informou que a contabilidade tem ciência da diferença, e está concluindo a conciliação para o devido acerto. Sobre o Benefício Art. 1º – Acrescenta artigo 109 A, e a sub seção I na Lei Orgânica PAT, caso não utilizado no período, recomenda-se a apropriação na do Município de Cachoeiro de Itapemirim-ES; parte B e-Lalur para futura dedução no IRPJ, observado o limite e prazo de prescrição. Recomenda-se analisar a possibilidade Sub Seção I de utilização do crédito tributária apropriado na conta contábil “00040” do balancete de 11/2019, no valor de R$ 9.635,37, DAS EMENDAS INDIVIDUAIS DOS VEREADORES com tributos administrados pela Receita Federal do Brasil, conforme legislação vigente. Recomenda conciliar as provisões Art. 109 A – As emendas individuais ao projeto de lei orçamentária de Férias, Décimo Terceiro e respectivos encargos sociais, a fim serão aprovadas no limite de 1,2% (um vírgula dois por cento) de identificar a saldo devedor constante do balancete de 11/2019 da receita corrente líquida prevista no projeto encaminhado pelo na conta contábil “00222”. Recomenda rever a apuração do Pis e Poder Executivo, sendo que 1/3 (um terço) deste percentual será Cofins, recomenda ainda, observar o Decreto 8.426/2015, o qual destinada a ações e serviços públicos de saúde. dispõe sobre alíquotas diferenciadas, incidentes sobre receitas financeiras. 3) ASSUNTOS GERAIS: Não houve outros assuntos § 1º. A execução do montante destinado a ações e serviços agendados a serem tratados nesta reunião. Nada mais havendo, foi públicos de saúde previsto no caput do artigo, inclusive custeio, encerrada a sessão para a lavratura da presente ata, que após lida e será computada para fins do cumprimento do inciso I do caput do
+
+Cachoeiro de Itapemirim (ES), quinta-feira, 26 de dezembro de 2019 DOM nº 5975 Página 34 artigo, inclusive custeio, será computada para fins do cumprimento Art. 3º – Esta Emenda a Lei Orgânica entra em vigor na data de sua do inciso I do § 2º do art. 198, da Constituição Federal, vedada a publicação e produzirá efeitos a partir da execução orçamentária destinação para pagamento de pessoal ou encargos sociais. de 2019, revogadas as disposições em contrário.
+
+**§ 2º.** É obrigatória a execução orçamentária e financeira conforme Cachoeiro de Itapemirim/ES, 17 de dezembro de 2019. critérios para execução equitativa, das programações a que se refere o caput do artigo, observado o anexo de metas e prioridades ALEXON SOARES CIPRIANO que integrará a lei de diretrizes orçamentária, em montante Presidente correspondente a 1,2% (um vírgula dois por cento) da receita corrente líquida realizada no exercício anterior. ELY ESCARPINI Vice-Presidente
+
+**§ 3º.** As programações orçamentárias previstas no caput do artigo não serão de execução obrigatória nos casos dos impedimentos de ELIO CARLOS SILVA DE MIRANDA ordem técnica. 1º Secretário
+
+**§ 4º.** No caso de impedimento de ordem técnica, no empenho de SILVIO COELHO NETO despesa que integre a programação, na forma do § 2º deste artigo, 2º Secretário serão adotadas as seguintes medidas:
+
+I – até 120 (cento e vinte) dias após a publicação da lei orçamentária, DECRETO LEGISLATIVO Nº 3087/2019. o Poder Executivo, enviará ao Poder Legislativo as justificativas do impedimento; DISPÕE SOBRE EXONERAÇÃO DE SERVIDOR DE CARGO DE PROVIMENTO EM COMISSÃO.
+
+II – até 30 (trinta) dias após o término do prazo previsto no inciso I, o Poder Legislativo indicará ao Poder Executivo o remanejamento O PRESIDENTE DA CÂMARA MUNICIPAL DE da programação cujo impedimento seja insuperável; CACHOEIRO DE ITAPEMIRIM, ESTADO DO ESPÍRITO SANTO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS E
+
+III – até 30 de setembro ou até 30 (trinta) dias após o prazo REGIMENTAIS, EM CONFORMIDADE COM O DISPOSTO previsto no inciso II, o Poder Executivo encaminhará projeto de NA LEI 7676/2019 E SUAS ALTERAÇÕES;
+
+lei sobre o remanejamento da programação cujo impedimento seja insuperável; RESOLVE:
+
+IV – se, até 20 de novembro ou até 30 (trinta) dias após o término Art. 1º - Exonerar, nos termos da Lei nº 7676/2019 e suas do prazo previsto no inciso III, a Câmara Municipal não deliberar alterações, a servidora comissionada, mencionada abaixo, a partir sobre o projeto, o remanejamento será implementado por ato do de 17/12/2019: Poder Executivo, nos termos previstos na lei orçamentária. Servidor Cargo
+
+**§ 5º.** Após o prazo previsto no inciso IV do § 4º, as programações orçamentárias previstas no § 2º não serão de execução obrigatória LÚCIA BATISTA SUPELETE ass. TÉC. APOIO ESPECIAL ADMINISTRATIVO nos casos dos impedimentos justificados na notificação prevista no inciso I do § 4º. Art. 2º - Publique-se para que produza todos os efeitos legais e administrativos.
+
+**§ 6º.** Os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 2º deste artigo, Cachoeiro de Itapemirim-ES, 20 de dezembro de 2019. até o limite de 0,6% (seis décimos por cento) da receita corrente líquida realizada no exercício anterior. ALEXON SOARES CIPRIANO PRESIDENTE
+
+**§ 7º.** Se for verificado que a reestimativa da receita e da despesa poderá resultar no não cumprimento da meta de resultado fiscal estabelecida na lei de diretrizes orçamentárias, o montante PORTARIA Nº 408/2019. previsto no § 2º deste artigo poderá a ser reduzido em até a mesma proporção da limitação incidente sobre o conjunto das despesas DISPÕE SOBRE A EXONERAÇÃO DE SERVIDOR DO discricionárias. EXERCÍCIO DE CARGO EM COMISSÃO.
+
+**§ 8º.** Considera-se equitativa a execução das programações de O PRESIDENTE DA CÂMARA MUNICIPAL DE caráter obrigatório que atenda de forma igualitária e impessoal às CACHOEIRO DE ITAPEMIRIM, ESTADO DO ESPÍRITO
+
+emendas apresentadas, independentemente da autoria. SANTO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS E REGIMENTAIS,
+
+**§ 9º.** As ações e programas devem ser inseridas na Lei de Diretrizes Orçamentárias, objetivando facilitar para o Poder Executivo RESOLVE: a inclusão das mesmas no projeto de lei orçamentário a ser encaminhado anualmente à Câmara Municipal, individualizando Art. 1º - Exonerar, nos termos das Leis Municipais nº 7676/19 as ações com o nome do respectivo parlamentar. e 6717/12, o Assessor de Gabinete Parlamentar (AGP), abaixo mencionado, a requerimento do Vereador Diogo Lube, a partir de
+
+**Art. 2º** – Revogam-se as disposições em contrário. 31/12/2019:
+

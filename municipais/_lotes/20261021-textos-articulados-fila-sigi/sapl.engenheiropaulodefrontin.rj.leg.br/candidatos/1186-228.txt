@@ -1,0 +1,42 @@
+Autoriza a abertura de Crédito Adicional Suplementar ao Orçamento Vigente
+
+
+A CÂMARA MUNICIPAL DE ENG. PAULO DE FRONTIN aprova e eu, José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte
+
+
+Art. 1º.
+
+Em conformidade com o artigo 4º da Lei Municipal nº 1584, de 14 de dezembro de 2021, fica autorizada a abertura de Crédito Adicional Suplementar, no orçamento vigente do Fundo Municipal de Saúde, por Superávit Financeiro, na importância de R$ 81.722,15 (oitenta e um mil, setecentos e vinte e dois reais, quinze centavos).
+
+
+FONTE 0004 = R$ 81.722,15 (Royalties do Petróleo e Gás Natural vinculados a Saúde)
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Fonte</strong><br></td><td><strong>Valor R$</strong></td></tr><tr><td>03</td><td>001</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.14.00.00.00.0</td><td>2.635.000 </td><td>10.000,00</td></tr><tr><td>03</td><td>001</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.30.00.00.00.0 </td><td>2.635.000 </td><td>35.861,08</td></tr><tr><td>03</td><td>001</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.39.00.00.00.0 </td><td>2.635.000 </td><td>35.861,07</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O recurso para atender à presente suplementação é oriundo de Superávit Financeiro apurado no Balanço Patrimonial do Exercício de 2021; conforme inciso I do Art. 43 da Lei nº 4.320 de 17/03/64.
+
+
+Parágrafo único
+
+O Superávit Financeiro apurado a que se refere o caput está demonstrado da seguinte forma:
+
+
+**BALANCETE CONTÁBIL DE VERIFICAÇÃO EM 31/12/2021**  
+Agência 4647-7 Conta 7356-3 Banco do Brasil Saldo: R$ 125.733,44
+
+
+<table><tbody><tr><td colspan="2"><strong>ATIVO</strong></td><td colspan="2"><strong>PASSIVO</strong></td></tr><tr><td colspan="2"><strong>FINANCEIRO</strong></td><td colspan="2"><strong>FINANCEIRO</strong></td></tr><tr><td>Disponibilidades</td><td>R$ 125.733,44</td><td>Obrigações</td><td>R$ 44.011,29</td></tr><tr><td> </td><td> </td><td>Superávit</td><td>R$ 81.722,15</td></tr><tr><td><strong>Total</strong></td><td><strong>R$ 125.733,44</strong></td><td><strong>Total</strong></td><td><strong>R$ 125.733,44</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Engenheiro Paulo de Frontin, 13 de maio de 2022. JOSÉ EMMANOEL RODRIGUES ARTEMENKO**
+
+Prefeito Municipal

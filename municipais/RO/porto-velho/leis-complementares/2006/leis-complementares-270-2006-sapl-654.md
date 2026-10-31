@@ -1,0 +1,323 @@
+---
+titulo: "Lei Complementar nº 270, de 15 de dezembro de 2006"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "270"
+data: "2006-12-15"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/654"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1807/text"
+sha256_fonte: "c94183a294b06dc84bedf125a2395e9a3ac688b8ca0a4468b99355bf6d87e564"
+sha256_texto: "e34cbba5c97a65b7aefc790dfada57a7d4cef12c3c71c594ac44aa13a32704bd"
+capturado_em_fonte: "2026-10-27T21:30:04.335418-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 270, de 15 de dezembro de 2006
+
+“Reorganiza o Conselho Municipal de Transporte Coletivo de Porto Velho – COMTRANS/PVH, e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO,** usando da atribuição que lhe é conferida pelo artigo 87, in ciso IV, da Lei Orgânicado Município de Porto Velho,
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+O Conselho Municipal de Transporte Coletivo de Porto Velho – COMTRANS/PVH, órgão colegiado criado pela Lei nº 436, de 4 de junho de 1985, vinculado à Secretaria Municipal de Transportes e Trânsito – SEMTRAN, fica reorganizado nos termos desta Lei.
+
+
+#### CAPÍTULO I — DA COMPETÊNCIA
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal de Transporte Coletivo – COMTRANS:
+
+
+I –
+
+Participar da elaboração das diretrizes e bases da política municipal de transporte coletivo, em trabalho conjunto com a Secretaria Municipal de Transportes e Trânsito – SEMTRAN e demais órgãos competentes;
+
+
+II –
+
+Cooperar com a Administração Municipal na realização de estudos na área do transporte coletivo, com vistas ao desenvolvimento e à implantação de soluções para os problemas apontados;
+
+
+III –
+
+Propor à Administração a adoção de medidas tendentes ao aperfeiçoamento do sistema de transporte coletivo e ao aprimoramento da qualidade dos serviços prestados por seus operadores e agentes, de acordo com a realidade do Município de Porto Velho;
+
+
+IV –
+
+Acompanhar e participar das negociações referentes ao estabelecimento de tarifas para o transporte coletivo, com observação dos critérios técnicos e das planilhas de custos das empresas, inclusive com analises comparativas baseadas em estudos realizados por órgãos congêneres em outros Municípios da Federação;
+
+
+V –
+
+Manifestar-se sobre os índices de reajustes das tarifas cobradas pelo Transporte Coletivo do Município;
+
+
+VI –
+
+Manifestar-se sobre a criação, ampliação, avaliação e funcionamento das linhas de Transporte Coletivo do Município, com oitiva da população interessada;
+
+
+VII –
+
+Definir os critérios e o procedimento para a fiscalização comunitária do serviço de transporte coletivo urbano;
+
+
+VIII –
+
+Propor mecanismos e acompanhar a execução de políticas para a redução da criminalidade nos veículos de passageiros;
+
+
+IX –
+
+Convidar servidores municipais, representantes ou prepostos de empresas operadoras do transporte público coletivo, ou qualquer outro cidadão, para prestar esclarecimentos a respeito de matéria de seu interesse;
+
+
+X –
+
+Zelar pelo cumprimento da Legislação relativa ao setor;
+
+
+XI –
+
+organizar e convocar a Conferência Municipal de Transporte e Trânsito, a ser realizada a cada 02 (dois) anos;
+
+
+XII –
+
+Elaborar seu regimento interno, com a definição das competências de seus órgãos e as regras de funcionamento, para consolidação por meio de Decreto do Poder Executivo.
+
+
+#### CAPÍTULO II — DA COMPOSIÇÃO
+
+
+Art. 3º.
+
+O Conselho Municipal de Transporte Coletivo de Porto Velho será composto por 14 (catorze) membros titulares, representativos dos segmentos governamentais e empresariais e da sociedade organizada da seguinte forma:
+
+
+I –
+
+Representantes da Administração Municipal:
+
+
+a)
+
+O Secretário Municipal de Transportes e Trânsito;
+
+
+b)
+
+01 (um) representante da Secretaria Municipal de Transportes e Trânsito – SEMTRAN;
+
+
+c)
+
+01 (um) representante da Secretaria Municipal de Obras – SEMOB;
+
+
+d)
+
+01 (um) representante da Secretaria Municipal de Planejamento e Coordenação –SEMPLA;
+
+
+e)
+
+01 (um) representante da Secretaria Municipal de Educação –SEMED.
+
+
+II –
+
+Representante do Poder Legislativo Municipal:
+
+
+a)
+
+01 (um) representante da Câmara Municipal.
+
+
+III –
+
+Representantes da comunidade em geral:
+
+
+a)
+
+01 (um) representante da União Municipal das Associações de Moradores;
+
+
+b)
+
+01 (um) representante de entidade municipal com atuação na área de defesa dos direitos dos estudantes;
+
+
+c)
+
+01 (um) representante de entidade municipal com atuação na área de defesa dos direitos dos idosos;
+
+
+d)
+
+01 (um) representante de entidade municipal com atuação na área de defesa dos direitos das pessoas portadoras de deficiência e com necessidades especiais;
+
+
+e)
+
+01 (um) representante da Associação Comercial de Porto Velho.
+
+
+IV –
+
+Representantes dos operadores do serviço de transporte coletivo:
+
+
+a)
+
+01 (um) representante das empresas operadoras do serviço de transporte coletivo de passageiros, com delegação pelo Município de Porto Velho;
+
+
+b)
+
+01 (um) representante dos autorizados para a operação do serviço de transporte coletivo de passageiros, com delegação pelo Município de Porto Velho;
+
+
+c)
+
+01 (um) representante do sindicato dos trabalhadores nas empresas de transporte coletivo no Município.
+
+
+§ 1º
+
+Todos os membros do Conselho Municipal de Transporte Coletivo de Porto Velho deverão residir no Município de Porto Velho.
+
+
+§ 2º
+
+O exercício da função de membro do Conselho não será remunerado, sendo considerado serviço de alta relevância para o Município de Porto Velho.
+
+
+§ 3º
+
+Os membros do COMTRANS serão indicados por seus órgãos ou entidades de origem com indicação simultânea de um suplente, que substituirá o membro titular em suas ausências ou impedimentos.
+
+
+§ 4º
+
+Os membros titulares do COMTRANS e seus respectivos suplentes serão nomeados por Decreto do Poder Executivo e terão mandato de 02 (dois) anos, vedada a recondução, ressalvado o caso do Secretário Municipal de Transportes e Trânsito, cuja permanência está associada à manutenção do cargo.
+
+
+§ 5º
+
+É facultado aos órgãos, entidades e demais associações interessadas participarem das reuniões do Conselho Municipal de Transporte Coletivo de Porto Velho, na forma do que dispuser o Regimento Interno.
+
+
+#### CAPÍTULO III — DOS ORGAOS DO CONSELHO
+
+
+Art. 4º.
+
+O Conselho Municipal de Transporte Coletivo é composto pelos seguintes órgãos:
+
+
+I –
+
+Presidência;
+
+
+II –
+
+Plenário;
+
+
+III –
+
+Comissões Permanentes e Especiais.
+
+
+Art. 5º.
+
+A Presidência terá a seguinte composição:
+
+
+a)
+
+01 (um) Presidente, que será o Secretário Municipal de Transportes e Trânsito;
+
+
+b)
+
+01 (um) Vice-Presidente, nomeado pelo Prefeito dentre os representantes da Administração Municipal;
+
+
+c)
+
+01 (um) Consultor Técnico, com conhecimento especializado na área de Transporte e Trânsito, escolhido dentre os servidores municipais;
+
+
+d)
+
+01 (um) Secretário Geral, disponibilizado dentre os servidores do quadro da Secretaria Municipal de Transportes e Trânsito.
+
+
+Art. 6º.
+
+As Comissões Permanentes e Especiais deverão ter composição e competência fixadas de acordo com o Regimento Interno.
+
+
+Art. 7º.
+
+O Plenário é o órgão deliberativo de instância máxima do COMTRANS.
+
+
+Parágrafo único
+
+As deliberações do Plenário estão sujeitas à homologação do Prefeito Municipal e, uma vez homologadas, tomarão a forma de Resolução.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 8º.
+
+O Conselho enviará, anualmente, um relatório de suas atividades à Secretaria Municipal de Transporte e Trânsito – SEMTRAN, que o submeterá ao Prefeito Municipal, para apreciação.
+
+
+Art. 9º.
+
+As despesas decorrentes do funcionamento do COMTRANS correrão por conta de dotações consignadas no orçamento da Secretaria Municipal de Transportes e Trânsito, suplementadas, se necessário.
+
+
+Art. 10.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 11.
+
+Revogam-se as disposições em contrário, especialmente a Lei nº. 436, de 4 de junho de 1985.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito do Município
+
+MARIO JONAS FREITAS GUTERRES
+
+Procurador Geral do Município
+

@@ -1,0 +1,23 @@
+{
+  "obtido_em": "2026-10-20T22:59:01.987853",
+  "controle_integral": "municipais/_lotes/20261020-escala-sapl-0003-integral",
+  "sha256_controle_integral": "af770cca6878c4d8a756abf7f9b2298789f469207602c1e02fc3d4bc0e13b495",
+  "aprovados": 0,
+  "retidos": 430,
+  "criterio": "Passou controle integral e proveniência anterior; PDF só aprovado se não contém imagem embutida. Imagens sem revisão, OCR e outras divergências seguem retidos.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-imagens-v2/aprovados.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-imagens-v2/resultados.jsonl",
+      "sha256": "a1487aef1efb830c228c76550cacc4d29ea87c87b90a464389f2eab2a93f0150"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-imagens-v2/retidos.paths.txt",
+      "sha256": "010edc096e71d38ebdd4cd40742cc8752c6a56b2f09dd6519abe45e00a0136ff"
+    }
+  ],
+  "script_sha256": "765b112281ef4a9da8a72dfca1266c5f3b222f53a041c7c2151eadf20b8e8f8e"
+}

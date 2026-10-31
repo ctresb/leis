@@ -1,0 +1,126 @@
+---
+titulo: "Lei nº 2.076, de 03 de outubro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2076"
+data: "2013-10-03"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1130"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2495/text"
+sha256_fonte: "27ea02873fe2b8020898ad30321b22a8cd668c4ae637e61d45c58ec566b814fa"
+sha256_texto: "5a3c15552c714c8ccf67fda7f02b441d826e2edbae67d1001d65e608a097e3ed"
+capturado_em_fonte: "2026-10-27T21:04:05.295627-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.076, de 03 de outubro de 2013
+
+“Dispõe sobre a concessão de Título de Utilidade Pública a instituição de natureza privada e dá outras providências”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO,** Vereador **ALAN KUELSON QUEIROZ FEDER,** no uso das atribuições que lhe confere o § 6º, do artigo 72 da Lei Orgânica do Município, combinado com o § 6º, do art. 165 da Resolução nº. 254/CMPV-91 - REGIMENTO INTERNO, PROMULGA a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Poderão ser declaradas de utilidade pública as instituições sediadas neste Município, desde que sejam filantrópicas, beneficentes, de educação do ensino fundamental, médio e superior, de pesquisa científica ou de cultura, inclusive artísticas, bem como as associações de ação social, comunitárias, de moradores, recreativas, cultural ou esportivas, religiosas e maçônicas, que prestem, efetivamente, serviços ou benefícios que correspondam às suas finalidades.
+
+
+Art. 2º.
+
+A concessão de utilidade pública se fará através de Lei, devendo a entidade interessada, com finalidade de instruir a respectiva proposição legislativa, fazer prova de que:
+
+
+I –
+
+é inscrita no Cadastro Nacional de Pessoa Jurídica do Ministério da Fazenda – CNPJ, e com os estatutos devidamente registrados em cartório, nos termos do Código Civil Brasileiro.
+
+
+II –
+
+permanece em efetivo e contínuo funcionamento há um (01) ano, com a exata observação de seus atos constitutivos que demonstrem suas áreas de atuação.
+
+
+III –
+
+conste declaração, reconhecida em cartório, de que seus membros não são remunerados por qualquer forma e que os serviços são de relevante interesse público.
+
+
+IV –
+
+que a entidade não tenha fins lucrativos e que não distribui lucros, excedentes operacionais, dividendos, bonificações , participações ou parcelas do seu patrimônio sob nenhuma forma ou pretexto, auferido mediante o exercício de suas atividades, e os aplica integralmente na consecução do respectivo objetivo social e em caso de dissolução seu patrimônio será incorporado a de outra entidade congênere ou ao poder público.
+
+
+V –
+
+qualificação completa dos principais representantes da entidade (Presidente, Vice-Presidente, Secretário Geral e Tesoureiro), com expedição de certidão de nada consta da Justiça Federal e Estadual.
+
+
+VI –
+
+promove a educação ou exerce atividades culturais, filantrópicas ou beneficentes, ou de pesquisas científicas.
+
+
+VII –
+
+a ausência de qualquer documento deverá ser suprida pelo proponente no prazo máximo de 30 dias, para que o projeto prossiga sua tramitação regimental.
+
+
+Art. 3º.
+
+As entidades sem fins lucrativos declaradas de utilidade pública, salvo motivo de força maior ficam obrigadas a apresentar até o dia 30 de abril de cada ano, relatório circunstanciado dos serviços que houver prestado à coletividade, no ano anterior, devidamente comprovado, no demonstrativo da receita e da despesa realizadas no período, ainda que não tenham sido assistidas pelo Poder Público, ficando sob o controle da Secretaria Municipal de Assistência Social.
+
+
+Art. 4º.
+
+Poderá ser cassada a declaração de utilidade pública da entidade sem fins lucrativos que:
+
+
+I –
+
+deixar de apresentar, no prazo máximo de dois anos consecutivos, o relatório a que se refere ao art. 3º desta Lei;
+
+
+II –
+
+negar-se prestar serviços compreendidos em seus fins estatutários;
+
+
+III –
+
+retribuir, através de qualquer forma, os membros de sua diretoria, ou lucros, bonificações ou vantagens a dirigentes, mantenedores, ou associados.
+
+
+Art. 5º.
+
+O Poder Executivo poderá apresentar regulamentação ao presente Projeto de Lei, se assim achar necessário.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 7º.
+
+Revogam-se as disposições em contrário, em especial as Leis nº 1.623 de 06 de outubro de 2005, nº 1.686 de 28 de agosto de 2006 e a Lei nº 1.869 de 31 de março de 2010.
+
+
+Câmara Municipal de Porto Velho, 03 de outubro de 2013.
+
+***Vereador ALAN QUEIROZ***
+
+***Presidente***
+
+Projeto de Lei nº. 2.897/2013
+
+Vereador José Wildes - PTB
+

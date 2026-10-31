@@ -1,0 +1,327 @@
+{
+  "estado": "indice_completo",
+  "total": 31,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/pmsb__de_arinos-mg.pdf da norma Lei nº 1.534, de 21 de setembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ANEXO ÚNICO DA LEI QUE APROVA O PLANO MUNICIPAL DE SANEAMENTO BÁSICO - PMSB.",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2018/1/pmsb__de_arinos-mg.pdf",
+      "ano": 2018,
+      "norma": 4023
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/anexo_primeira_parte.pdf da norma Lei nº 1.544, de 03 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "PRIMEIRA PARTE DOS ANEXOS DA LEI 1544, DE 03 DE JANEIRO DE 2019.",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2019/7/anexo_primeira_parte.pdf",
+      "ano": 2019,
+      "norma": 4083
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/segunda_parte_anexos.pdf da norma Lei nº 1.544, de 03 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "SEGUNDA PARTE DOS ANEXOS DA LEI 1544, DE 03 DE JANEIRO DE 2019.",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2019/8/segunda_parte_anexos.pdf",
+      "ano": 2019,
+      "norma": 4083
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/primeira_parte_anexos.pdf da norma Lei nº 1.546, de 03 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "PRIMEIRA PARTE DOS ANEXOS DA LEI 1546, DE 03 DE JANEIRO DE 2019.",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2019/11/primeira_parte_anexos.pdf",
+      "ano": 2019,
+      "norma": 4082
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/06_programas_e_acoes_por_setor_de_governo_1_carlo_oMwIZwe.pdf da norma Lei nº 1.546, de 03 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "SEGUNDA PARTE DOS ANEXOS DA LEI 1546, DE 03 DE JANEIRO DE 2019.",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2019/14/06_programas_e_acoes_por_setor_de_governo_1_carlo_oMwIZwe.pdf",
+      "ano": 2019,
+      "norma": 4082
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/23/anexos_lei_1602.pdf da norma Lei nº 1.602, de 01 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei n° 1602.",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2020/23/anexos_lei_1602.pdf",
+      "ano": 2020,
+      "norma": 4324
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/24/anexo_01_-_despesa-receita.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "RECEITA POR FONTES E DESPESA POR CATEGORIA ECONÔMICA",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/24/anexo_01_-_despesa-receita.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/25/anexo_02_-_despesa_consolidacao__geral.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS - CONSOLIDAÇÃO GERAL",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/25/anexo_02_-_despesa_consolidacao__geral.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/26/anexo_02_-_despesa_por_orgao.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS POR ÓRGÃO",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/26/anexo_02_-_despesa_por_orgao.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/27/anexo_02_-_receita.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "RECEITA SEGUNDO AS CATEGORIAS ECONÔMICAS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/27/anexo_02_-_receita.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/28/anexo_06_-_programa_de_trabalho_por_orgao.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "PROGRAMA DE TRABALHO POR ÓRGÃO",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/28/anexo_06_-_programa_de_trabalho_por_orgao.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/29/anexo_07_-_programa_de_trabalho_do_governo_-_funcoes_e_subfuncoes.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "PROGRAMA DE TRABALHO DO GOVERNO - FUNÇÕES E SUBFUNÇÕES",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/29/anexo_07_-_programa_de_trabalho_do_governo_-_funcoes_e_subfuncoes.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/30/anexo_08_-_demonstrativo_das_despesas_por_funcoes_subfuncoes_programas_conforme_vinculo.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DE DESPESA POR FUNÇÕES E SUBFUNÇÕES",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/30/anexo_08_-_demonstrativo_das_despesas_por_funcoes_subfuncoes_programas_conforme_vinculo.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/31/anexo_09_-_despesa_poder_-_funcoes.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DA DESPESA POR PODER E FUNÇÕES",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/31/anexo_09_-_despesa_poder_-_funcoes.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/32/aplicacao_em_acoes_e_servicos_publicos_de_saude_-_recursos_proprios_-_fonte_de_recurso.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "APLICAÇÃO EM AÇÕES E SERVIÇOS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/32/aplicacao_em_acoes_e_servicos_publicos_de_saude_-_recursos_proprios_-_fonte_de_recurso.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/33/controle_dos_gastos_com_educacao_-_anexo_i_-_fonte_de_recurso.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "CONTROLE DOS GASTOS COM EDUCAÇÃO",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/33/controle_dos_gastos_com_educacao_-_anexo_i_-_fonte_de_recurso.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/34/controle_dos_gastos_com_educacao_-_anexo_iii_-_fonte_de_recurso.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "CONTROLE DOS GASTOS COM EDUCAÇÃO A",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/34/controle_dos_gastos_com_educacao_-_anexo_iii_-_fonte_de_recurso.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/35/demonstrativo_de_funcoes_subfuncoes_e_programas_por_categoria_economica.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DE FUNÇÕES E SUBFUNÇÕES",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/35/demonstrativo_de_funcoes_subfuncoes_e_programas_por_categoria_economica.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/36/demonstrativo_de_gastos_com_pessoal.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DE GASTO COM PESSOAL",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/36/demonstrativo_de_gastos_com_pessoal.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/37/demonstrativo_dos_projetos_-_atividades_a_serem_desenvolvidos.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DOS PROJETOS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/37/demonstrativo_dos_projetos_-_atividades_a_serem_desenvolvidos.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/demonstrativo_i_-_metas_anuais.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO METAS ANUAIS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/38/demonstrativo_i_-_metas_anuais.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/39/demonstrativos_dos_gastos_em_acoes_e_servicos_publicos_de_saude_-_fonte_de_recurso.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DOS GASTOS EM AÇÕES E SERVIÇOS PÚBLICOS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/39/demonstrativos_dos_gastos_em_acoes_e_servicos_publicos_de_saude_-_fonte_de_recurso.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/40/natureza_da_receita_com_incidencia_a_pessoal.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "NATUREZA DA RECEITA COM INCIDÊNCIA A PESSOAL",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/40/natureza_da_receita_com_incidencia_a_pessoal.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/41/principais_finalidades_das_unidades_administrativas_com_a_indicacao_da_respectiva_lesgilacao.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "PRINCIPAIS FINALIDADES DAS UNIDADES ADMINISTRATIVAS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/41/principais_finalidades_das_unidades_administrativas_com_a_indicacao_da_respectiva_lesgilacao.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/42/quadro_de_detalhamento_de_despesas_por_fonte_de_recurso.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE DETALHAMENTO DE DESPESAS POR FONTE DE RECURSO",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/42/quadro_de_detalhamento_de_despesas_por_fonte_de_recurso.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/43/quadro_de_detalhamento_de_despesas.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE DETALHAMENTO DE DESPESAS POR FONTE DE RECURSO",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/43/quadro_de_detalhamento_de_despesas.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/44/quadro_sumario_da_despesa.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "QUADRO SUMÁRIO DA DESPESA",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/44/quadro_sumario_da_despesa.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/45/receita_estimada_por_fonte_de_recurso.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "RECEITA ESTIMADA POR FONTE DE RECURSO",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/45/receita_estimada_por_fonte_de_recurso.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/46/receita_por_fonte_e_da_despesa_por_funcoes_de_governo.pdf da norma Lei nº 1.638, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "RECEITA POR FONTE E DESPESA POR FUNÇÕES DO GOVERNO",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2021/46/receita_por_fonte_e_da_despesa_por_funcoes_de_governo.pdf",
+      "ano": 2021,
+      "norma": 4488
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/49/anexos_ppa.pdf da norma Lei nº 1.720, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2023/49/anexos_ppa.pdf",
+      "ano": 2023,
+      "norma": 4947
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/50/anexos_orcamento.pdf da norma Lei nº 1.721, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS",
+      "anexo_arquivo": "http://sapl.arinos.mg.leg.br/media/sapl/public/anexonormajuridica/2023/50/anexos_orcamento.pdf",
+      "ano": 2023,
+      "norma": 4948
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arinos.mg.leg.br/e399825ab632cb5435c42a6b65be30ca04198544a3a18d0e4d3c2ad07b6f12b0.json",
+      "url": "https://sapl.arinos.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c22171149d0f9f6d6efb8b2fac334de00cdd80f6cc39e275f846822175b5cbfe",
+      "capturado_em": "2026-10-20T20:50:29.717317",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.arinos.mg.leg.br/e399825ab632cb5435c42a6b65be30ca04198544a3a18d0e4d3c2ad07b6f12b0.json"
+    }
+  ]
+}

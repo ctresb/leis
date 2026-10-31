@@ -1,0 +1,29 @@
+---
+titulo: "Lei Complementar-EM nº 2.949, de 21 de novembro de 2024"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "2949"
+data: "2024-11-21"
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.canapolis.mg.leg.br/norma/189"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2024/189/lei_2949-2024_-_dispoe_sobre_as_atribuicoes_do_cargo_de_fiscal_de_tributos_da_prefeitura_de_canapolis-mg_e_da_outras_providencias.pdf"
+sha256_fonte: "7889a30bb539d75c79608081fa8fdda600dffbe1123e00175118598b6d543892"
+sha256_texto: "ebd4f21e2e0d8e1d20df03412f1494429777c32b5667bb808c2be22b320b017b"
+baixado_em: "2026-10-16"
+---
+
+# Lei Complementar-EM nº 2.949, de 21 de novembro de 2024
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI COMPLEMENTAR N° 2.949, DE 21 DE NOVEMBRO DE 2024. "DISPÕE SOBRE AS ATRIBUIÇÕES DO CARGO DE FISCAL DE TRIBUTOS DA PREFEITURA DE CANÁPOLIS-MG E DÁ OUTRAS PROVIDÊNCIAS. " ENIVANDER ALVES DE MORAIS, prefeito do município de Canápolis, Estado de Minas Gerais, no uso de suas atribuições legais, faço saber que a Câmara Municipal, por seus representantes, aprovou e eu, sanciono e promulgo a seguinte Lei: Artigo 1º. O cargo de Fiscal de Tributos deverá exercer atribuições previstas no anexo I, desta lei. Artigo 2° - Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário. Prefeitura Municipal de Canápolis - MG, 21 de novembro de 2024. Inte por ENVANDER ALVES DE ENIVANDER Brasil, O ¿$ecretaria da Receita ALVES DE RAIS: 72406070620 MORAIS: 72406070620 ENIVANDER ALVES DE MORAIS PREFEITO MUNICIPAL Página 1 de 4
+
+ANEXO I CARGO: FISCAL DE TRIBUTOS DESCRIÇÃO DAS ATRIBUIÇÕES DOS FISCAIS DE TRIBUTOS estabelecimentos industriais, comerciais e • fiscalizar prestadores de serviços, verificandoa inscrição correta quanto ao tipo de atividade, o recolhimento de taxas e tributos municipais, a licença de funcionamento, para notificar as irregularidades encontradas; • autuar, notificar e intimar os infratores das obrigações tributárias e das normas municipais, com base em vistorias realizadas, para prestarem esclarecimentos ou pagarem seus débitos junto à Prefeitura Municipal; • elaborar relatórios de irregularidades encontradas, com base nas vistorias efetuadas, informando seus superiores para que sejam tomadas as providências cabíveis; • manter-se atualizado sobre a política de fiscalização tributária, acompanhando as alterações e divulgações feitas em publicações especializadas, colaborando para difundir a legislação vigente; • assessorar a Administração Municipal na elaboração de projetos que visem melhorar a forma de arrecadação de tributos; • realizar fiscalização dá área tributária (livros de lançamento contábeis e cartoriais, notas fiscais), apurando as diferenças e aplicar multas tributárias decorrentes da fiscalização, realizar vistorias, notificar contribuintes, fechar estabelecimentos sem alvará, fiscalizar eventos (diversões públicas), notificar para inscrição no cadastro mobiliário; Pápina 2 de 4 • exercer a fiscalização nas empresas e concessões públicas, fazendo notificações, autuações, registrando e comunicando irregularidades;
+
+• exercer o controle das atividades decorrentes de concessões públicas; • efetuar sindicâncias para verificação das alegações dos contribuintes, decorrentes de requerimentos de revisões, isenções, imunidades e pedidos de baixa de inscrição; • efetuar levantamentos fiscais nos estabelecimentos sujeitos a tributação municipal, orientando os contribuintes quanto a legislação tributária municipal, inclusive quanto ao exercício regulador do poder de polícia; • intimar contribuintes ou responsáveis, lavrando autos de infração; • proceder diligências, prestar informações e emitir pareceres; • elaborar relatórios e boletins estatísticos prestando informações em processos relacionados com sua área de competência; • auxiliar em estudos visando o aperfeiçoamento e atualização dos procedimentos fiscais; • auxiliar na realização de pesquisas de campo, bem como coletar e fornecer dados para a atualização dos cadastros urbanístico e fiscal do Município; • participar, juntamente com técnicos da área, das revisões e atualizações do cadastro técnico imobiliário e fiscal para efeito de avaliação e revisão de valores venais para cálculo do IPTU; • participar, juntamente com técnicos da área, das revisões e atualizações do cadastro técnico imobiliário e fiscal para efeito de avaliação Páei na 3 de 4 e revisão do valor da terra nua para cálculo do ITR; ao cumprimento da • orientar o contribuinte quanto regulamentação urbanística no âmbito municipal;
+
+• realizar plantões fiscais e emitir relatórios sobre os resultados das fiscalizações efetuadas; • contatar, quando necessário, órgãos públicos, comunicando a emergência e solicitando socorro; • articular-se com fiscais de outras áreas, bem como com as forças de policiamento, sempre que necessário; • redigir memorandos, ofícios, relatórios e demais documentos relativos aos serviços de fiscalização executados; • formular críticas e propor sugestões que visem aprimorar e agilizar os trabalhos de fiscalização, tornando-os mais eficazes; • articular-se com fiscais de outras áreas, objetivando a fiscalização integrada e o cumprimento do disposto na legislação no que for área de sua responsabilidade; • participar das atividades administrativas e de apoio referentes à sua área de atuação; • fiscalizar e emitir impostos urbanos e rurais; • lançar crédito tributário, inclusive do ITR; • executar outras atribuições afins com sua área de competência. Prefeitura Municipal de Canápolis - MG, 21 de novembro de 2024. por ENIVANDER ALVES DE ENIVANDER ALVES DE MAY CARA MORAS ADOTOS20 MORAIS: 72406070620 ENIVANDER ALVES DE MORAIS PREFEITO MUNICIPAL
+

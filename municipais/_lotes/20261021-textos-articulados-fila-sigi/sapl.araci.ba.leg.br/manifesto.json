@@ -1,0 +1,62 @@
+{
+  "host": "sapl.araci.ba.leg.br",
+  "metadados_unicos_observados": 222,
+  "total_api_declarado": 222,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 168,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araci.ba.leg.br/60c4c7456d7367995a9bddb8d90eb0562214153055c3f2428b5f7c92baa27b7f.json",
+    "url": "https://sapl.araci.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.araci.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "71e4cbe19a14c39113abdc9e790f79f13ba1ecdef27441062cc945cb899ac339",
+    "bytes": 958,
+    "capturado_em": "2026-10-27T16:52:03.990892-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araci.ba.leg.br/823be0ac1d81ebbef7be56e557270fb171a4275bac20776f998b251543f681e4.json",
+    "url": "https://sapl.araci.ba.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.araci.ba.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b313ca083884938d53912ba8c08b54485e8e71f6020965e9cb1b9831dcdae744",
+    "bytes": 681,
+    "capturado_em": "2026-10-27T16:52:02.944397-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araci.ba.leg.br/a5bd6d0f6f8631213956b425b190d65b8cd455abbb77f410cb8f2a3276ba5ac8.json",
+      "url": "https://sapl.araci.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.araci.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bbd637f99d4b4cc7d367be46dc27ab9e9205b0abb3d59a0d17b505e8bc07b47d",
+      "bytes": 62939,
+      "capturado_em": "2026-10-27T16:52:06.549759-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araci.ba.leg.br/26ea8a85fb98a8e285ba5b0d4ed23a9ffdf268cc0b26d0641362936e5f72a56e.json",
+      "url": "https://sapl.araci.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.araci.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1180801430d32799e27ecf486b9a3ba01418048798dfe5757411d0482b19997d",
+      "bytes": 59996,
+      "capturado_em": "2026-10-27T16:54:28.597202-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araci.ba.leg.br/6e268be76a08813afa1e890b41067d8181b97125aa437f1376a791f97452a04f.json",
+      "url": "https://sapl.araci.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.araci.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "95e492e9905e9e096f026900fb96a420b5d1befb4f7d22af9a2dbceed9ed9dc7",
+      "bytes": 13992,
+      "capturado_em": "2026-10-27T16:57:25.408804-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

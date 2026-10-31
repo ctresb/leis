@@ -1,0 +1,33 @@
+---
+titulo: "Decreto Legislativo nº 2, de 26 de maio de 1998"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "2"
+data: "1998-05-26"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/2903"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1998/2903/decreto_02-1998.pdf"
+sha256_fonte: "d25a677717e797d307fb39223fb8f31f9dd0ce31b601dfa3353d522d605d9eaa"
+sha256_texto: "36b7b66aaadd5a4784053bd4ab7dd5f89c8d81e7b1b685c5502ca2809aaf9507"
+baixado_em: "2026-10-21"
+---
+
+# Decreto Legislativo nº 2, de 26 de maio de 1998
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Câmara de Vereadores de Ivaiporã ESTADO DO PARANA GABINETE DA PRESIDÊNCIA PRAÇA DOS TRÊS PODERES - CEP: 86870-000 - Fone: (043) 472-1644 - FAX: (043) 472-3149 - IVAIPORÃ - PR
+
+DECRETO LEGISLATIVO N° 02/98 EMENTA: CONCEDE TITULO DE CIDADÃO BENEMÉRITO DE IVAIPORA, ESTADO DO PARANA, AO SENHOR ODILON ANDRADE,
+
+O PRESIDENTE DA CÂMARA DE VEREADORES DE IVAIPORA, ESTADO DO PARANA, NO USO DE SUAS ATRIBUIÇÕES E EM CONFORMIDADE COM A LEI N° 02/91, DESTE PO- DER DECREIA:
+
+ART. 1° - PELOS RELEVANTES SERVIÇOS PRESTADOS A COMUNIDADE IVAIPORÃENSE É OUTORGADO AO CIDADÃO ODILON ANDRADE, O TITULO DE CIDADÃO BENEMÉRITO DE IVAIPO- RA, ESTADO DO PARANA.
+
+ART. 2° - REVOGAM-SE AS DISPSOIÇÕES EM CONTRARIO,
+
+ART. 3º - O PRESENTE DECRETO ENTRA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, GABINETE DA PRESIDÊNCIA DA CÂMARA MUNICIPAL DE IVAIPORA, ESTADO DO PARA NA, AOS VINTE E SEIS DIAS DO MES DE MAIO DO ANO DE MIL NOVECENTOS E NOVENTA E OI TO. ROBERTO BALBINO DA SILVA PRESIDENTE ANTONIO VILA REAL SECRETARIO
+

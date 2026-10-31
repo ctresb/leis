@@ -1,0 +1,144 @@
+---
+titulo: "Lei Ordinária nº 2.178, de 04 de abril de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2178"
+data: "2016-04-04"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2023-12-04; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/849"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/212/text"
+sha256_fonte: "7200c87102ba62f3389af1691bef74a1fcf989194c4c9c4413a93ea4a5925366"
+sha256_texto: "1c9f9a6e91e006a603a19bf8f10055d268d77b93909faab53df50d337a69ac56"
+capturado_em_fonte: "2026-10-21T03:58:19.039727-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 2.178, de 04 de abril de 2016
+
+"Institui a Política de Mobilidade Sustentável e incentivo ao uso de bicicleta e dá outras providências".
+
+
+**O PREFEITO DO MUNICÍPIO DE RIO BRANCO - ACRE**, usando das atribuições que lhe são conferidas por Lei, **FAÇO SABER**, que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída a Política de Mobilidade Sustentável e de incentivos ao uso da bicicleta no âmbito do Município de Rio Branco.
+
+
+Parágrafo único
+
+O incentivo ao uso da bicicleta como forma de mobilidade urbana, visam priorizá-la como meio de transporte não motorizado e promover a melhoria do trânsito.
+
+
+Art. 2º.
+
+A execução da Política de que trata esta lei se dará:
+
+
+I –
+
+promoção de ações e projetos e, favor de ciclistas, a fim de melhorar as condições para seu deslocamento e segurança;
+
+
+II –
+
+integração da bicicleta ao sistema de transporte público existente;
+
+
+III –
+
+promoção de campanhas educativas voltadas para o uso da bicicleta;
+
+
+Art. 3º.
+
+São objetivos desta lei, entre outros:
+
+
+I –
+
+possibilitar a redução do uso do automóvel nos trajetos de curta distância;
+
+
+II –
+
+estimular o uso da bicicleta como meio de transporte alternativo e sustentável;
+
+
+III –
+
+criar atitude favorável aos deslocamentos cicloviários;
+
+
+IV –
+
+promover a bicicleta como modalidade de deslocamento urbano eficiente, saudável e ecologicamente correto;
+
+
+V –
+
+incentivar o associativismo entre ciclistas e usuários dessa modalidade de transporte;
+
+
+VI –
+
+estimular a conexão entre cidades, por meio de rotas seguras para o deslocamento cicloviário, voltadas para treinamento dos atletas, o turismo e o lazer.
+
+
+Parágrafo único
+
+Para fins de promoção das políticas de mobilidade urbana, ficam instituídos no calendário oficial do Município, as seguintes datas comemorativas:
+
+
+I –
+
+na segunda-feira do mês de maio de cada ano:
+
+**"DIA MUNICIPAL DE IR AO TRABALHO DE BICICLETA";**
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.476, de 04 de dezembro de 2023.
+
+
+II –
+
+no dia 22 de setembro de cada ano, a campanha "**UM DIA SEM CARRO**".
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.476, de 04 de dezembro de 2023.
+
+
+III –
+
+no dia 19 de agosto, o Dia Municipal do Ciclista." (NR)
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.476, de 04 de dezembro de 2023.
+
+
+Art. 4º.
+
+As ações de implantação da política de uso das bicicletas serão coordenadas pelo Poder Público Municipal, garantida a participação de usuários, representantes da sociedade civil organizada e profissionais com atuação nessa área.
+
+
+Art. 5º.
+
+O Poder Executivo poderá fomentar campanhas publicitárias de educação e conscientização da Política de Mobilidade Sustentável, dando ênfase à aplicação de normas de uso de bicicleta.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Rio Branco-Acre, 04 de Abril de 2016, 128° da República, 114° do Tratado de Petrópolis, 55° do Estado do Acre e 133° do Município de Rio Branco.
+
+
+**Marcus Alexandre**
+
+Prefeito de Rio Branco
+

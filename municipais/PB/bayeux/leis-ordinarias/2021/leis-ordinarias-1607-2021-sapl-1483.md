@@ -1,0 +1,191 @@
+---
+titulo: "Lei Ordinária-PEX nº 1.607, de 31 de maio de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1607"
+data: "2021-05-31"
+municipio: "Bayeux"
+uf: "PB"
+codigo_ibge: "2501807"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.bayeux.pb.leg.br/norma/1483"
+fonte_texto: "https://sapl.bayeux.pb.leg.br/media/sapl/public/normajuridica/2021/1483/lei_1607_autoriza_abertura_credito_especial.pdf"
+sha256_fonte: "265c0479d37fb329933b89ac6a6bf34dbd0c7054bf4620a31d46a493d14ea5e8"
+sha256_texto: "1bc986566098434c1ffc0fe15405287120796a5b7508d20f83bc32ef83053973"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-PEX nº 1.607, de 31 de maio de 2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+DIÁRIO OFICIAL DE BAYEUX - PB Criado pela Lei Municipal n° 296/79, de 18-12-79, publicado no Diário Oficial do Estado da Paraíba, do dia 25-12-79 BAYEUX, 01 DE JUNHO DE 2021 www.bayeux.pb.gov.br
+
+MANUTENÇÃO DO FUNDO MUNICIPAL DE SAÚDE 10.122.3024.2093 500.000,00
+
+O CARPO TERMINADL 500.000,00 VENCIMENTOS E VANTAGENS FIXAS - P. CIVIL SEGURIDADE
+
+120.000,00
+
+LEI MUNICIPAL N° 1.607/2021
+
+Bayeux/rb, 31 de maio de 202-- 80.000,00 (Projeto de Lei do Poder Executivo)
+
+EDUCAÇÃO PERMANENTE DE RECURSOS 10.128.3024.2095 AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL ESPECIAL 8.000,00 MATERIAL DE CONSUMO 3390.30.00.214 AO ORÇAMENTO VIGENTE, PARA FINS QUE ESPECIFICA, E ADOTA OUTRAS PROVIDENCIAS. MANUTENÇÃO DO CENTRO DE ATENÇÃO 10.302.3025.2096 PSICOSOCIAL 4.000,00
+
+A PREFEITA CONSTITUCIONAL DO MUNICÍPIO DE BAYEUX, ESTADO DA EQUIPAMENTOS E MATERIAIS PERMANENTES SEGURIDADE 15.000,00 4490.52.00.215 PARAIBA, no uso das atribuições que lhes são conferidas pelo Art. 45, Inciso IV da Lei Orgânica do Município, faz saber que a Câmara Municipal de Bayeux aprovou e eu sanciono a seguinte Lei: APOIO ÀS AÇÕES DE VIGILÂNCIA SANITÁRIA 10.304.3049.2101ł
+
+3190.04.00.211 15.000,00
+
+de R$ 4.850.000,00
+
+**Art. 1.9** - Fica aberto um Crédito Adicional Especial no 15.000,00 (Quatro Milhões, Oitocentos e Cinquenta Mil Reais), desti as despesas com a
+
+seguinte dotação orçamentária: SECURIDA OBR GACOSARONAS
+
+2.001.00 4.000,00
+
+GABINETE DO PREFEITO CONTRIBUICÕES PATRONAIS 4.000,00 MANUTENÇÃO DAS ATIVIDADES DO GABINETE DO
+
+04.122.2002.2002 SEGUKIDADE PREFEITO 3190.04.00.001 CONTRATAÇÃO POR TEMPO 333.000,00 10.301.3024.2105 APOIO AOS AGENTES COMUNITÁRIOS DE SAÚDE - DETERMINADO ACS
+
+5.000,00
+
+3190.04.00.211 TOTAL DA UNIDADE ORÇAMENTÁRIA 333.000,00
+
+SROURIDADE SECRETARIA DO TRABALHO E AÇÃO SOCIAL 02.09 02.091 FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL - MANUTENÇÃO DA ATENÇÃO PRIMÁRIA À SAÚDE - 10.301.3024.2108 FMAS 08.244.3051.2133 MANUTENÇÃO DE OUTROS PROGRAMAS SOCIAIS 3190.04.00.211
+
+100.000,00
+
+100.000,00 VENCIMENTOS E VANTAGENS FIXAS - P. CIVIL SEGURIDADE MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3390.32.00.520 20.000,0ł
+
+EGURIDADE
+
+EQUIPAMENTOS E MATERIAIS PERMANENTES SEGURIDADE 4490.52.00.520 08.244.3039.2211 SERVIÇOS DA PROTEÇÃO SOCIAL ESPECIAL - PAEFI AMPLIAÇÃO E MANUTENÇÃO DA ESTRATÉGIA DE 10.301.3024.2111ł 3390.30.00.520ł MATERIAL DE CONSUMO
+
+SAÚDE DA FAMÍLIA - ESF MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3390.32.00.520
+
+10.000,00
+
+3190.04.00.211
+
+VENCIMENTOS E VANTAGENS FIXAS - P. CIVIL SEGURIDADE 10.000.00
+
+4490.52.00.520 EQUIPAMENTOS E MATERIAIS PERMANENTES SEGURIDADE 2.000,00
+
+2.000,00
+
+08.244.3038.2232 SERVIÇOS DA PROTEÇÃO SOCIAL BÁSICA - PAIF MATERIAL DE CONSUMO
+
+3390.30.00.520 o: Avenida Liberdade, 3720, Centro - Bayeux - PI Pretectura Municipal de Baycax - UNPn 089/24.58110001-60, Ender MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3390.32.00.520
+
+1.000,00
+
+MANUTENÇÃO DE PROCEDIMENTOS DE MÉDIA E 10.302.3025.2167 08.244.3039.2235 SERVIÇOS DA PROTEÇÃO SOCIAL ESPECIAL - ALTA COMPLEXIDADE - MAC CENTRO POP 50.000,00
+
+3390.30.00.520 MATERIAL DE CONSUMO MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA
+
+3390.32.00.520
+
+MANUTENÇÃO DAS AÇÕES DE SAÚDE BUCAL 10.301.3024.2171
+
+12.000,00 OUTROS SERVIÇOS DE TERCEIROS - P. FÍSICA SEGURIDADE 3390.36.00.211 MANUTENÇÃO DA UNIDADE DE PRONTO 10.302.3025.218¾šŚ SERVIÇOS DA PROTEÇÃO DE ALTA COMPLEXIDADE 08.244.3039.2236 RESIDÊNCIA INCLUSIVA
+
+50.000,00 MATERIAL DE CONSUMO
+
+3390.30.00.520 3190.04.00.213 3390.32.00.520ś 3190.11.00.21łł VENCIMENTOS E VANTAGENS FIXAS - P. CIVIL SEGURIDADE
+
+MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA
+
+5.000,00
+
+5.000,00 3190.13.00.213 EQUIPAMENTOS E MATERIAIS PERMANENTES SEGURIDADE
+
+5.000,00
+
+4490.52.00.520
+
+5.000,00
+
+3191.13.00.213 5.000,00
+
+SERVIÇOS DA PROTEÇÃO DE ALTA COMPLEXIDADE 08.244.3039.2237 3390.08.00.213 CASA DE PASSAGEM
+
+3390.30.00.520ł
+
+MATERIAL DE CONSUMO MATERIAL DE CONSUMO
+
+3390.30.00.211 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA MATERIAL DE CONSUMO
+
+3390.32.00.520 3390.30.00.213ą
+
+MANUTENÇÃO DO CONSELHO MUNICIPAL DE 10.122.2015.2212 SAÚDE 330.000,00 TOTAL DA UNIDADE ORÇAMENTÁRIA 6.000,00 EQUIPAMENTOS E MATERIAIS PERMANENTES SEGURIDADE 4490.52.00.211 SECRETARIA MUNICIPAL DE SAÚDE 02.15 FUNDO MUNICIPAL DE SAÚDE - FMS 02.151 ENFRENTAMENTO DA EMERGÊNCIA COVID19 10.302.3025.2251 CONSTRUÇÃO, REFORMA E OU IMPLANTAÇÃO DE 10.301.2047.1077îšŚ
+
+63.000,00
+
+3190.04.00.213 UNIDADES BÁSICAS DE SAÚDE VENCIMENTOS E VANTAGENS FIXAS - P. CIVIL SEGURIDADE 3190.11.00.213
+
+500.000,00 3390.30.00.214 MATERIAL DE CONSUMO 9.000,00
+
+3190.13.00.213
+
+OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA
+
+3390.39.00.214 7.000,00
+
+3191.13.00.213
+
+13.000,00
+
+IMPLANTAÇÃO DO CENTRO DE ATENÇÃO 10.302.3025.1088
+
+SICOSOCIAL INFANTIL - CAPS i
+
+3390.08.00.21ł 20.000.00 MATERIAL DE CONSUMO
+
+3390.30.00.214 3390.30.00.99źł
+
+100.000,00 MATERIAL DE CONSUMO POIAR A QUALIFICAÇÃO DO CAPS I1 PARA CAPS II 10.302.3025.1136 OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA
+
+3390.39.00.213 3390.30.00.214ł MATERIAL DE CONSUMO
+
+3390.39.00.992 OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA 130.000,00 CONSTRUÇÃO, REFORMA E MANUTENÇÃO DE 10.302.3025.1142
+
+UNIDADES DE SAÚDE - MAC OUTROS SERVIÇOS DE TERCEIROS - P. JURÍDICA 3390.39.00.211
+
+AÇÕES DE VIGILÂNCIA EPIDEMIOLÓGICA E 10.305.3049.2252łą AMBIENTAL CONTRATAÇÃO POR TEMPO DETERMINADO SEGURIDADE 120.000,00 3190.04.00.211
+
+DIÁRIO OFICIAL DE BAYEUX - PB - 01 DE JUNHO DE 2021 www.bayeux.pb.gov.br 2
+
+350.000,00
+
+ESTADO DA PARAÍBA 200.000,00 NCIMENTOS E VANTAGENS FIXAS - P. CIVIL SEGURIDAD
+
+300.000,00
+
+PREFEITURA MUNICIPAL DE BAYEUX
+
+SEGURIDAD
+
+COMISSÃO PERMANENTE DE LICITAÇÃO
+
+70.000,00
+
+40.000,00 SEGURIDAD
+
+SEGURIDAD 60.000,00
+
+25.000,00
+
+AVISO DE LICITAÇÃO - SEGUNDA CHAMADA
+
+PREGÃO ELETRÔNICO SRP N° 00017/2021 - TOTAL DA UNIDADE ORÇAMENTÁRIA 4.187.000,00 PMBEX TOTAL GERAL 4.850.000,00 PROCESSO ADMINISTRATIVO N° 00067/2021 -
+
+**Art. 2.9** - As despesas com o Crédito Adicional Especial de que trata o artigo anterior, terão como fonte de recursos o ingresso de transferências regulares e extraordinárias, como também a PMBEX bertura, através de decreto próprio, no montante necessário à execução, até o limite autorizado, tud em conformidade com os incisos Il e III, §1.° do art. 43 da Lei 4.320/64; A Prefeitura Municipal de Bayeux, através de sua
+
+**Art. 3.9** - As dotações constantes no crédito especial ora aprovado, estão devidamente Pregoeira, torna público que fará realizar Licitação na revistas no Programas e Ações do Plano Plurianual - PPA para o período 2018 a 2021, como tambén Modalidade Pregão Eletrônico, do tipo menor preço por item, com abertura prevista às 11h00min (horário aixo descrita, para adoção de mais adequada son obitos da aço, pas dos d eguinte configuração: subfunção mais adequada local) do dia 14 de Junho de 2021, objetivando a realização de REGISTRO DE PREÇOS CONSIGNADO EM 10.305.3024.2102 APOIO AOS AGENTES DE COMBATE ÀS ENDEMIAS - ACE ATA, PARA EVENTUAL CONTRATAÇÃO DE EMPRESA
+
+**Art. 5.9** - As dotações constantes no crédito especial ora aprovado, estão devidamente ESPECIALIZADA NO FORNECIMENTO DE CESTAS revistas no Programas e Ações do Plano Plurianual - PPA para o período 2018 a 2021, como tambén a Lei de Diretrizes Orçamentárias - LDO para o presente exercício BÁSICAS SERVIÇOS PARA ATENDER OS
+
+**Art. 6.9** - Esta Lei entra em vigor na data de sua publicação, revoga SOCIOASSISTENCIAIS DA SECRETARIA DO TRABALHO -se as disposições em contrário. E AÇÃO SOCIAL DO MUNICÍPIO DE BAYEUX-PB. A sessão pública será realizada através do Site: Gabineté da Prefeita de Bayeux, 31 de maio de 2021. https://www.portaldecomprasbayeux.com.br/, Cópia Andrade fones Hortincął do Edital e seus anexos poderão ser obtidos no Portal da Transparência da Prefeitura Municipal de Bayeux JCIENE ANDRADÉ GOMES MAR Prefeita Constitucional (https://www.bayeux.pb.gov.br/licitacoespmby/), ou por e-mail (licitacaobayeux@gmail.com), a partir da publicação deste aviso. Bayeux - PB, 01 de Junho de 2021. LICITAÇÃO ALICE SOARES DA SILVA Pregoeira Oficial/PMBEX ESTADO DA PARAIBA PREFEITURA MUNICIPAL DE BAYEUX COMISSÃO PERMANENTE DE LICITAÇÃO ESTADO DA PARAIBA AVISO DE LICITAÇÃO - SEGUNDA CHAMADA PREFEITURA MUNICIPAL DE BAYEUX GABINETE DA PREFEITA PREGÃO ELETRÔNICO SRP N° 00018/2021 - FMS- PMBEX A Prefeita Municipal de Bayeux-Pb, no uso de suas atribuições, torna público para conhecimento de todos que decidiu TORNAR SEM EFEITO a Publicação do ATO FORMAL PROCESSO ADMINISTRATIVO N° 00070/2021 - FMS- DE HOMOLOGAÇÃO do PREGÃO ELETRÔNICO SRP N° 00011/2021 - PMBEX-FMS-DMTRAN, PMBEX PROCESSO ADMINISTRATIVO N° 00042/2021 - PMBEX-FMS-DMTRAN, publicado no Diário Oficial do Estado Pag. 28, no dia 26/05/2021 e no Diário Oficial do Município de Bayeux, Pag A Secretaria Municipal de Saúde do Município de Bayeux- 01, no dia 25/05/2021. PB, através da sua Pregoeira, torna público que fará Bayeux - PB, 31 de Maio de 2021. realizar Licitação na Modalidade Pregão Eletrônico, do tipo menor preço por item, com abertura prevista às 14h:00min (horário local) do dia 14 de Junho de 2021, Proleta constons o Menino de aroux. objetivando a realização de REGISTRO DE PREÇOS EVENTUAL ATA, EM PARA CONSIGNADO CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA LOCAÇÃO DE EQUIPAMENTOS E INSUMOS DESTINADOS AO TRATAMENTO DE OXIGENOTERAPIA NO DOMICILIO DOS PACIENTES ASSISTIDOS PELA ATENÇÃO BÁSICA DA AVISO SECRETARIA DE SAUDE DO MUNICIPIO DE BAYEUX-PB. A sessão pública será realizada através do Site: https://www.portaldecomprasbayeux.com.br/, Cópia do Edital e seus anexos poderão ser obtidos no Portal da Transparência da Prefeitura Municipal de Bayeux COMPARE INDÚSTRIA COMÉRCIO DE MASSAS (https://www.bayeux.pb.gov.br/licitacoespmby/). ou LTDA - torna público que recebeu da SEMABY- Secretária de por e-mail (licitacaobayeux@gmail.com), a partir da publicação deste aviso. Meio Ambiente de Bayeux, A LICENÇA SIMPLIFICADA de N° 01/2021 para FABRICAÇÃO DE PRODUTOS DE Bayeux - PB, 01 de Junho de 2021. PADARIA E CONFEITARIA COM PREDOMINÂNCIA DE PRODUÇÃO PRÓPRIA, situado na Rua Celina Miranda, S/N, Centro, BAYEUX-PB. ALICE SOARES DA SILVA Pregoeira Oficial/PMBEX
+

@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/1/ato-01-2019.pdf da norma Lei nº 1.490, de 29 de setembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre reajuste no vale alimentação concedidos aos servidores da Câmara Municipal de Careaçu/MG.",
+      "anexo_arquivo": "http://sapl.careacu.mg.leg.br/media/sapl/public/anexonormajuridica/2015/1/ato-01-2019.pdf",
+      "ano": 2015,
+      "norma": 568
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/2/requerimento.doc da norma Lei nº 1.364, de 15 de setembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Requerimento de isenção do IPTU",
+      "anexo_arquivo": "http://sapl.careacu.mg.leg.br/media/sapl/public/anexonormajuridica/2010/2/requerimento.doc",
+      "ano": 2010,
+      "norma": 409
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/3/ato_01_2025.pdf da norma Lei nº 1.663, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Concede reajuste do vale-alimentação.",
+      "anexo_arquivo": "http://sapl.careacu.mg.leg.br/media/sapl/public/anexonormajuridica/2023/3/ato_01_2025.pdf",
+      "ano": 2023,
+      "norma": 1601
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.careacu.mg.leg.br/b9100efba5224c6bef4494cd86e62ecee16d2197f60bb68cea6f3496de309c26.json",
+      "url": "https://sapl.careacu.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.careacu.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a07ef64dcbd8da73c352cb0779d0e21a1083aa4e230b7d49fdd09f9e92b48e4b",
+      "bytes": 1447,
+      "capturado_em": "2026-10-27T22:32:56.812908-03:00"
+    }
+  ]
+}

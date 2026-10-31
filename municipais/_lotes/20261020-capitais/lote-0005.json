@@ -1,0 +1,26 @@
+{
+  "aprovados": 1,
+  "path": "municipais/GO/goiania/lei-organica/1990/lei-organica-goiania-1990.md",
+  "sha256": "8eb4e264cc9cbdddc14b09b551dc6ff00bcd444306b0d2793a5c4865f1cba762",
+  "tokens": 39970,
+  "fonte": "https://transparencia.camaragyn.go.gov.br/files/Legislacao-compilada/Lei-Organica-do-Municipio-de-Goiania.htm",
+  "criterio": "Todos tokens da seçãoarticle em ordem idênticos aoMarkdown, com notas de alteração/revogação/suspensão. Nenhuma imagem normativa na seção. Página declara redaçãovigente e corteatéEmenda88/2025, cuja publicação declaradaé05/01/2026.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-capitais/lote-0005.paths.txt",
+      "sha256": "d05b39c316e6b3dfa172c50c66b3539309ee9809b696576e3b083e5aeea9e735"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais/lote-0005.auditoria-municipal.json",
+      "sha256": "58c200dc7e28d8f3f085758ce1f1d3bfa4f60c7a5b40808e7951c92810b4c0d5"
+    },
+    {
+      "path": "municipais/_fonte/capitais/goiania/lei-organica-goiania-1990.manifesto.json",
+      "sha256": "49af8f65f43e9eae2c173ec2dbd730d2b11a6f31d996ff7d44d6cf1363e14aa3"
+    },
+    {
+      "path": "scripts/converter_organica_goiania.py",
+      "sha256": "ffa24948c99436bb4496851ea6316334e2379846e0cf077bf065d4e756a22e89"
+    }
+  ]
+}

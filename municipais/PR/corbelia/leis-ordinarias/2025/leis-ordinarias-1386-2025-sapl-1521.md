@@ -1,0 +1,120 @@
+---
+titulo: "04 - Lei Ordinária nº 1.386, de 22 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1386"
+data: "2025-12-22"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1521"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1545/text"
+sha256_fonte: "0bfa4c243ddc2c3279d206f07f80dbda29a6b6650e8e187068942acef1e7d59f"
+sha256_texto: "97b0229faf8c2313daa2fb54a6ec9e47f7b34dba23cdd78ac0422b1ba5a70c48"
+capturado_em_fonte: "2026-10-28T03:13:27.584434-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.386, de 22 de dezembro de 2025
+
+Altera, acresce e revoga dispositivos da Lei Municipal nº 286, de 20 de julho de 1992, que dispõe sobre o estatuto dos servidores públicos do Município de Corbélia.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Esta Lei altera, acresce e revoga dispositivos da Lei Municipal nº 286, de 20 de julho de 1992 com o fim alterar a gratificação por tempo de serviço, condições para a concessão de licenças e atualizar a redação de dispositivos.
+
+
+Art. 2º.
+
+O art. 1º, o parágrafo único do art. 3º, o § 4º do art. 4º, a descrição do Capítulo II do Título I, o inciso VI do *caput* e o § 2º do art. 7º, o *caput* do art. 12, o art. 20, o *caput* do art. 22, o art. 23, o § 4º do art. 52, o art. 53, o inciso II do *caput* do art. 55, o parágrafo único do art. 56, o art. 62, o inciso II do *caput* do art. 67, a descrição da Subseção II da Sessão III do Capítulo II do Título II, o *caput* do art. 73, o *caput* do art. 76, o art. 81, o *caput* e o parágrafo único do art. 82, o *caput*, os incisos I e II e os §§ 1º e 2º do art. 84, o *caput* do art. 85, o inciso II do *caput* do art. 86, o *caput* do art. 88, o inciso I do *caput* do art. 91, o § 1º do art. 93, o *caput* do art. 109, o art. 110, o *caput* do art. 112, o *caput* e o § 5º do art. 117, a alínea “b” do inciso III do *caput* do art. 124, o *caput* do art. 127, o *caput* do art. 157, o art. 159, a descrição da Subseção II da Seção III do Capítulo II do Título III, da Lei Municipal nº 286, de 1992, passam a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+A Lei Municipal nº 286, de 1992 passa a vigorar acrescida do parágrafo único ao art. 55, do § 3º ao art. 73, do art. 78-A, do parágrafo único ao art. 81, dos §§ 3º e 4º ao art. 84, do art. 100-A, do *caput* e incisos I e II do art. 101-A, do § 6º ao art. 117 e dos §§ 1º e 2º ao art. 124, com a seguinte redação:
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revoga-se da Lei Municipal nº 286, de 1992, os seguintes dispositivos:
+
+
+I –
+
+o inciso III do art. 10;
+
+
+II –
+
+o inciso IV do art. 41;
+
+
+III –
+
+o inciso IV do art. 42;
+
+
+IV –
+
+os incisos I a IV do § 4º, do art. 52;
+
+
+V –
+
+o *caput* e os §§ 1º e 2º do art. 63;
+
+
+VI –
+
+o *caput* e o parágrafo único do art. 64;
+
+
+VII –
+
+os arts. 65 e 66;
+
+
+VIII –
+
+os incisos I ao VII do art. 85;
+
+
+IX –
+
+a alínea “d” do inciso II do art. 101;
+
+
+X –
+
+o parágrafo único do art. 112;
+
+
+XI –
+
+os arts. 222, 229, 230 e 234.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 22 de dezembro de 2025, 65º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2435 de 23/12/2025, pág. 25-33.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1521/ta
+

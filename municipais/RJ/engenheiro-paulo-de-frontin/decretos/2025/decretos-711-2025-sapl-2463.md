@@ -1,0 +1,129 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 711, de 09 de outubro de 2025"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "711"
+data: "2025-10-09"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2463"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1924/text"
+sha256_fonte: "81b9cf9be57b468d61f2d49f71b2f7aa16684427ded3dfd37cb8de498fb3cccf"
+sha256_texto: "cf34e750e0fce58ac3c1d79894b38bee30ad27012be7c0eb54d320c7d5fbcaef"
+capturado_em_fonte: "2026-10-28T10:32:50.185181-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 711, de 09 de outubro de 2025
+
+CONSIDERANDO o art. 37, caput e §1º, da Constituição Federal, que trata da publicidade oficial; CONSIDERANDO a Lei Federal nº 12.232/2010, que disciplina a contratação de serviços de publicidade pela Administração Pública; CONSIDERANDO a Lei Federal nº 14.133/2021, que estabelece normas gerais de licitação e contratação pública; e por fim, CONSIDERANDO as diretrizes da Secretaria de Comunicação Social da Presidência da República (SECOM), quanto à difusão institucional e padronização de pagamento por centímetro/coluna e a utilização de banner digital; DECRETA:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Este Decreto regulamenta a difusão institucional no âmbito do Município de Engenheiro Paulo de Frontin, dispondo sobre a contratação de serviços de publicidade em veículos de comunicação impressa e portal de notícias, site jornalístico ou plataforma informativa observando-se o critério de centímetro/coluna, para jornais impressos e as medidas de 300 x 250 pixels (retângulo médio) ou 728 x 90 pixels (Leaderboard) para portal de notícias, sites jornalísticos ou plataforma informativa.
+
+
+Art. 2º.
+
+A comunicação institucional do Município será destinada exclusivamente à transmissão de informações de interesse público, relacionadas a atos, programas, obras, serviços e campanhas que tenham relevância social, educativa ou orientadora, devendo sempre observar os princípios da legalidade, impessoalidade, moralidade, transparência e eficiência.
+
+
+Parágrafo único
+
+É expressamente vedada a utilização das ações comunicacionais com finalidade de promoção pessoal de autoridades, servidores ou partidos políticos, ou que possa caracterizar autopropaganda governamental, nos termos do art. 37, § 1º, da Constituição Federal.
+
+
+#### CAPÍTULO II — DA CONTRATAÇÃO E VALORAÇÃO
+
+
+Art. 3º.
+
+A aquisição de espaço publicitário em veículos impressos será realizada mediante cálculo de centímetro/coluna e portal de notícias, site jornalístico ou plataforma informativa por tamanho e ou por complexidade de produção, tomando-se como referência:
+
+
+I –
+
+parâmetros adotados pela média de preço (pesquisa mercadológica) efetuada por este ente público; ou
+
+
+II –
+
+tabela de preços do próprio veículo.
+
+
+§ 1º
+
+Os valores apresentados no chamamento público, mesmo que inferiores à média de mercado, deverão ser mantidos e considerados irreajustáveis pelo período de 12 (doze) meses, contados da assinatura do respectivo contrato ou termo de adesão.
+
+
+§ 2º
+
+A manutenção dos valores visa assegurar a estabilidade orçamentária, a previsibilidade de gastos e a observância do princípio da economicidade, evitando reajustes indevidos durante o exercício financeiro.
+
+
+Art. 4º.
+
+A contratação dos serviços de difusão institucional será realizada por meio de chamamento público, nos termos da Lei nº 14.133/2021, assegurando-se a ampla concorrência e a seleção da proposta mais vantajosa à Administração.
+
+
+Parágrafo único
+
+O chamamento público se justifica pela natureza técnica e variada dos serviços de publicidade institucional, garantindo transparência, isonomia e adequação dos preços praticados às condições locais de mercado.
+
+
+Art. 5º.
+
+O pagamento será efetuado mediante apresentação de comprovação da publicação e documento fiscal emitido pelo veículo ou agência, conforme contrato vigente respeitando-se o fluxo de pagamento adotado pelo município.
+
+
+#### CAPÍTULO III — DA PUBLICIDADE INSTITUCIONAL
+
+
+Art. 6º.
+
+A publicidade institucional deverá ter caráter educativo, informativo ou de orientação social, sendo expressamente vedada a utilização com fins de promoção pessoal.
+
+
+Art. 7º.
+
+Toda peça publicitária deverá conter identificação clara do órgão ou entidade responsável, em conformidade com as boas práticas de uso.
+
+
+#### CAPÍTULO IV — DA FISCALIZAÇÃO E CONTROLE
+
+
+Art. 8º.
+
+A Secretaria Municipal de Turismo será responsável pelo planejamento, execução, controle e arquivo das publicações institucionais, mantendo registros para fins de auditoria e prestação de contas.
+
+
+Art. 9º.
+
+A execução das ações previstas neste Decreto deverá observar a economicidade, a vantajosidade e a compatibilidade com os princípios da Administração Pública.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+
+Art. 10.
+
+Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 09 de outubro de 2025
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

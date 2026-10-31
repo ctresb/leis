@@ -1,0 +1,1171 @@
+{
+  "obtido_em": "2026-10-20T23:17:17.843545",
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "baseline_sha256": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "criterio": "auditoria local de fonte individual SAPL; sem rede, sem Git, sem edição dos documentos",
+  "aprovados": [
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2014/resolucoes-1-2014-sapl-151.md",
+      "sha256": "c5b584db9622a4d437b8f2a90edf242624527bd2005fdc49376cb383e39c8586",
+      "sha256_corpo": "a5affbbe693f7fe5e371a3a2bb5e9de97a098c0be0f3187e5155ff1bf237b77c",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/151",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2014/151/resolucao_001-2014.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/151.bin",
+          "sha256": "7c8a0991e54491d3614c9577b3b2ef93e3caedaa8a6bde0f34c2d805d7e09fe5"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2018/resolucoes-1-2018-sapl-145.md",
+      "sha256": "fa802e23794d1692851dbd42cad228ced5b8d614c87b23c305044694ac9c06fe",
+      "sha256_corpo": "03f9df77a6647d1b61ce61f5ebed99be0b8773cd2a61d957d373701102ee27cb",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/145",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2018/145/resolucao_001_-_2018.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/145.bin",
+          "sha256": "53309d954c77741e5af547eb6598242a23127baac52df9fd33e29f481e3a7f1e"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2018/resolucoes-3-2018-sapl-146.md",
+      "sha256": "c08493c96ba4ba179486d290ed14591709d03f3ea17cd80f700b4e869b5b02ed",
+      "sha256_corpo": "5755d5b295c3ff941ff44481583aea62d6012bbfeb17360776c79c5a83106e86",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/146",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2018/146/resolucao_003_-_2018.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/146.bin",
+          "sha256": "3e7bf8febab95574ab5ff92f123dd10a760167f616ba62bf66659397cf0fc6a3"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-1-2021-sapl-130.md",
+      "sha256": "fc24d5090bd181b9582ffb6cb707e01a130cd0a6ddb519b1d7d7f7fb0dc46311",
+      "sha256_corpo": "387c38f8b99323ae59756fbf26e0330cc63343ba43d829825620f2edc6822f3b",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/130",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2021/130/resolucao_001-_frente_parlamentar_saneamento_basico.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/130.bin",
+          "sha256": "16277e90c8b67660ae54a44c07a42dc34e368315445ac89205403ccc451d24a2"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-2-2021-sapl-131.md",
+      "sha256": "549b861a8d62dad680acb3761220f798746eb98d79dcb5fb7931b1a85300ebe8",
+      "sha256_corpo": "3864cbba8cec01276a72de4942c8b0e78bd97f10b35c65a73fb1fd57885899e4",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/131",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2021/131/resolucao_002_-_cria_a_escola_do_legislativo.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/131.bin",
+          "sha256": "600ad1ed05b307b399c3be48482c5dabc2cb4406b2f958de30e0d3c3d37066d6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-3-2021-sapl-133.md",
+      "sha256": "6ff95e2e5a3b2c624961c2da7412d66095f70e00163ed0023c292fc77731a318",
+      "sha256_corpo": "c27034fd3e98864e8ded6d805c3fb0bd65aa0bb902d8c3bbd06c20ff0919f2bb",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/133",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2021/133/resolucao_003_-_altera_redacao_-_frente_parlamentar_crianca_e_adolescente.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/133.bin",
+          "sha256": "2da795281ce13cfb013b856524461eafc13a16dbde8b4c41e0c2c4ed239975b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-8-2021-sapl-141.md",
+      "sha256": "debf66b10eb1ae7cf4cfd5a54c3b9e1b3b1d134e1e26da167f8a5d39a27baa99",
+      "sha256_corpo": "aaddef6fae9304e91e6d7d4ef1186db5e3e180fefb5422e165541299974577eb",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/141",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2021/141/resolucao_008_-_cria_a_frente_parlamentar_em_defesa_da_mulher.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/141.bin",
+          "sha256": "b9f37d264edd708ff42cd42e2650ccd7ff0ad66e92bf617d1680b591853dc33d"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-9-2021-sapl-142.md",
+      "sha256": "3ee96d665849c67768ca66de54af1315448be40a41b77d3627a2dee57145f050",
+      "sha256_corpo": "65f5d998b6b43f2bf9af90bb93a1df84b151aa0013661d1a1da30d2233ed365a",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/142",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2021/142/resolucao_009_-_cria_a_frente_parlamentar_em_defesa_do_servidor_publico.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/142.bin",
+          "sha256": "f8c74872b116ff2f56ee756d43aafb1665813db2b38e616b86b8b12243a54340"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-1-2023-sapl-123.md",
+      "sha256": "30861ad3455a6d6e9e305cabd402b7ce0c548eb061dd26ad04d6fe4de1061991",
+      "sha256_corpo": "3a690a40f7bf93e52f09d75be8659f3e05318db3a87bf91f17d4370991531cfe",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/123",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2023/123/resolucao_001_2023_-_galeria_das_mulheres_parlamentares.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/123.bin",
+          "sha256": "969b4f947506148db2f0d3ad0e6efbd36c9eca27aa411f1a0027a0feb20dbb28"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-3-2023-sapl-124.md",
+      "sha256": "34ea6e8a16cd995f41a7278f13535e73885f73809baf7036f538d5469ceac984",
+      "sha256_corpo": "ecbc2c6f06a038010f455c78e44a052ecf28fca2e6c2ac637714409e4131de81",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/124",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2023/124/resolucao_003_2023_-_margem_de_consignados.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/124.bin",
+          "sha256": "4b0af24ef79424c651531ffdc750ab0141b19a93cb21bdce25233bc039658581"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-4-2023-sapl-125.md",
+      "sha256": "f4a505aaf5035347ef8bb457db90952dc8a1da492c0a4fdc936174bf1f83ded7",
+      "sha256_corpo": "292e57ef4ac51b046d17af73b3f419f887d676120457fd51a1a6b97860ca1929",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/125",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2023/125/resolucao_004_2023_-_frente_parlamentar_em_defesa_da_saude.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/125.bin",
+          "sha256": "615d9dd968552381c4d59ce42f177b06220c0007adabc43dd7da4862470c4a79"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-5-2023-sapl-126.md",
+      "sha256": "d967cb2f23a4c581af520b330bad42c4f7e3fc741bc77152e238dc39b915ad15",
+      "sha256_corpo": "0e62c3c862297b07454703c9e106c8cd16c99c2eb7238383de58e1fed0ad7443",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/126",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2023/126/resolucao_005_2023_-_procuradoria_da_mulher.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/126.bin",
+          "sha256": "4773187df44ee8b744f3693d8b23aad53b0eca304363b096d1fa44f699b2c837"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-6-2023-sapl-127.md",
+      "sha256": "cadfdcd1bd9c65a6ffe0134a7f33d6e23e8e25a775acfdf8deb272e8a3839d33",
+      "sha256_corpo": "922a722853715f5d1d994bc5a0a5c12013f1345607f4a2af0b0adf213b70fe9d",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/127",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2023/127/resolucao_006_2023_-_fixa_novos_subsidios_dos_vereadoresas.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/127.bin",
+          "sha256": "3e1cfa635e112b6809e17d721d57bb1b487c3ac1ecd707ddb3b696da896fbca5"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-2-2024-sapl-121.md",
+      "sha256": "a8a4b10105c80bbba7ba2e835594c35c06960d5da5419ffbdc10a2ce66b2374c",
+      "sha256_corpo": "60b210f71d136479a908848b031fd69e2207c47d4509be47437b0b139de230e8",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/121",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2024/121/002_-_regulamenta_lei_de_governanca_publica.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/121.bin",
+          "sha256": "1fcaf06928305be5c17b132a24cb309e96c1d322db56bf31a8edbe6888cc03ee"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-3-2024-sapl-122.md",
+      "sha256": "e95919cde17cd7bccb9aedc684d8d9da18c8b8723ef7c57a050ff0b692dfa68e",
+      "sha256_corpo": "669f80add7354645a44e52fee971cfeceb7c7ee081fead1747ae0cad41852a6b",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/122",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2024/122/003_-_regulamenta_a_lgpd.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/122.bin",
+          "sha256": "01ccae49646031ab018cb2d62be36c46aefc0c60a58f9328709168dd2e6387a3"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-5-2024-sapl-5.md",
+      "sha256": "ff7631a6abd4969eda319c6c39f43e18368f613e110fdc84df16a7993826d44d",
+      "sha256_corpo": "60572538421c41d9f788c2423b4080f8657564ac567e7c9669f0205a312d563c",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/5",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2024/5/005_-_inclui_art._35-a_no_ri.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/5.bin",
+          "sha256": "3675d3461e732bfe7c693c211348d6b894aec0c9653fd19a5be17849f5520c6f"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2025/resolucoes-1-2025-sapl-144.md",
+      "sha256": "2bcb31d69e30c88f6140d42a0c9ccad178ffb14f38f64ec4dbd12a206c8e79aa",
+      "sha256_corpo": "5d17ab0fc79ed6f6a4a4958634a7a0f74fddfa14709f6be1e3dad654e2960ac7",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/144",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2025/144/001_-_altera_resolucao_das_diarias.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/144.bin",
+          "sha256": "42de0f53a98df53516c6ab9cb30f16e71fb1ad24b592fab2391a72cddeed34d0"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2026/resolucoes-1-2026-sapl-159.md",
+      "sha256": "1ff9eafe6715791fa9dbb89bbe526c37d98a93ebf3f3049d9fcda62b5a3b0b0e",
+      "sha256_corpo": "5bbd8b4a93a603e4225448da9abeb045e7479eebfe9a9e4016149f51dc660730",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/159",
+      "fonte_texto": "https://sapl.parelhas.rn.leg.br/media/sapl/public/normajuridica/2026/159/001_2026_-_altera_a_resolucao_da_escola_do_legislativo.pdf",
+      "codigo_ibge": "2408904",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.parelhas.rn.leg.br/159.bin",
+          "sha256": "6a464b181948c6fee10c78462294ce74e8948fac218222c9e55f869137d63cb0"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1.json",
+          "sha256": "fb71626dbbe0b616f9c2af90701912ddea19928ff2e0073d08fcf129ab9837d1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4.json",
+          "sha256": "aad4a24116b3e688e3f5887b0b565854c633997be628f0a63efa492675f655d4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/bfecb997e38f27abb9b1b37ec34b3db956e3e12835cedd415ef59155776c95d3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44.json",
+          "sha256": "a1a840f980202e354fd20649a506bbbbf4602c81431d080b1a84fdc752730e44"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.parelhas.rn.leg.br/d4d0a2095a5ffd7eb493896242ca9a6fe14402473573d342cda9a8d2ff76337a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a.json",
+          "sha256": "689b1bf30a02f9fd99633410d9bbb7863180b6495693eba4e3c3dc774e4a276a"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2022/resolucoes-1-2022-sapl-493.md",
+      "sha256": "4a2bf7f05cbf0a89d2d0e45fd4b9f4315246408dba7888b31e369ba996deb640",
+      "sha256_corpo": "a3fc1d889f314a6671005d304be02e203c84c94f17b7a09cbe2d6205486b3000",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/493",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2022/493/res_001.2022.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/493.bin",
+          "sha256": "f36e91cdad35c8d478085b4ed582a6edc97a6d0b568474abc8017cb513f53ae8"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-1-2024-sapl-482.md",
+      "sha256": "cb143db138979e1f63372cd194d72c91fa22e1e8df5a2662474d13692b4d4417",
+      "sha256_corpo": "710834e8b1de6db9e58e528c1fb39a87cbada9dad8cbcd6393901f82cd04c763",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/482",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2024/482/resolucao_001.2024_-_regulamenta_lai.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/482.bin",
+          "sha256": "afae457089b340903ef84e51a7e2e479ca4c2d703cbef1c7ad858a9dc445ae46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-2-2024-sapl-483.md",
+      "sha256": "9e1e6bb673aa8562bf95223b80333c007bbaa42c80c7784bc0f947e73d474a38",
+      "sha256_corpo": "3e63b531935647fd0a520e7d2db460ec2c74fe2f66140766130715b3863a3e88",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/483",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2024/483/resolucao_002.2024_-_regulamenta_lgpd.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/483.bin",
+          "sha256": "6923e1aecb8f931b2dcd454126c2af3bc9a81f30039d8cb7720ca9df0b38eaaa"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-3-2024-sapl-484.md",
+      "sha256": "2c7cf38cccf409285bfe08f63fef5025035ef084ed3f2817539a1efc2fea3f8a",
+      "sha256_corpo": "7e019bf752c9bae86221af0975657294e0f34d7e6200ec830ef9f02f2a615fdb",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/484",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2024/484/resolucao_003.2024_-_governanca_digital.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/484.bin",
+          "sha256": "54986ae10830264bbe2db9356c02b17a276faef4dcd28054c73b69b8c4a689a0"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-4-2024-sapl-485.md",
+      "sha256": "f0764fcff0f21d8718937ba98c4d98db183fce99564507d48d1cf2a0a9cb53b5",
+      "sha256_corpo": "0c163de9fd4e1ece68118c07a40d9eec3e13a895652f3ea0cad0cc236397cc0f",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/485",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2024/485/resolucao_004.2024_-_regulamenta_ouvidoria.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/485.bin",
+          "sha256": "ee073db599a57f3f5da74ee94d19defb44b7c1c468787e508b7af2cb6a028f9e"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-1-2025-sapl-30.md",
+      "sha256": "d687a37bb756363dfa8421b5f2599e07576e27e40db69f9c3c08c24e069fdd2f",
+      "sha256_corpo": "3fe2af65f00e4c89d5fdd6f4c6c6fe97f8c86356f84a683a6f0ebd9b4646a114",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/30",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2025/30/001_-_res_-_altera_o_recesso_legislativo.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/30.bin",
+          "sha256": "349a6747cc392edb079f1331a5401c6c440b514b8edb0df35a22bac6336f1776"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-2-2025-sapl-31.md",
+      "sha256": "2038bc017f0bc0c4178581f8a94da3cf3a3e93ef4c8ee78eb5166e5394023e81",
+      "sha256_corpo": "4631cdea08d1331815b3206d555d2ca9679b397faa30afd01e9ae3d41965fc2f",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/31",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2025/31/002_-_res_-_altera_dia_das_sessoes_legislativas.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/31.bin",
+          "sha256": "850e23083cfca9af8903fb33431edfe8f55d549cf1dddf85779d75309aef10fe"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-4-2025-sapl-527.md",
+      "sha256": "522bfc176c57039b440dd67b707ddc0b6cbdb9cac6084c29bc8f91663656607d",
+      "sha256_corpo": "ea18ff810022d890aefd4a2872d850f3bad68b13137a76d850e55e75592b8191",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/527",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2025/527/004_-_res_-_altera_dia_das_sessoes_legislativas.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/527.bin",
+          "sha256": "a41a1e859c8d04179ea269e14c026a821810a83a74208907e754424b79936087"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2026/resolucoes-1-2026-sapl-642.md",
+      "sha256": "28db2c6ec25a1a530f5b8708055c0a603a6444e374abcc03da35c849a7616761",
+      "sha256_corpo": "323d3be38a58fcef6131732519cfd69d5c7ae713d749eb7404c16bf266d47343",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/642",
+      "fonte_texto": "https://sapl.saojosedoserido.rn.leg.br/media/sapl/public/normajuridica/2026/642/001_-_res_-_altera_dia_das_sessoes_legislativas.pdf",
+      "codigo_ibge": "2412401",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedoserido.rn.leg.br/642.bin",
+          "sha256": "3a6adf1966e0e4990ac1cae5b7a871963ba8f1fdb8c16a1e70980d598823d845"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46.json",
+          "sha256": "d6ad214c354da160e784b8ff4a27f3598ce354c1d78994e996dace77bbe20b46"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b.json",
+          "sha256": "29aaedffe05a21d47ad347d9064b7b8574d435b32987bbeeb680a33945c3534b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/237ce9e1ee42684e2ed2279ff66ff2b6c8910c245dd505467a92ccca5109021b.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4.json",
+          "sha256": "154c806c2086fb0e84e3435e57c3c3fdd5b0f9e42303ec55aa6a37fa6ef297a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedoserido.rn.leg.br/a9ae7cdaef7d300482f638fdfa727c524ab672530436439796e82c24611c7203.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082.json",
+          "sha256": "9401d8182fb69233edeb56ab652df46ef3332d949e3eacd27cec79172d668082"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    }
+  ],
+  "retidos": []
+}

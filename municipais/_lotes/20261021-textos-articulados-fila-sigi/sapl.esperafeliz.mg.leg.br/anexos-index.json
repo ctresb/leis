@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1982/1/estatuto_dos_funcionarios_publicos_do_municipio.pdf da norma Lei Ordinária nº 52, de 30 de dezembro de 1982",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ESTATUTO DOS FUNCIONÁRIOS PÚBLICOS DO MUNICÍPIO DE ESPERA FELIZ ( DIGITADO)",
+      "anexo_arquivo": "http://sapl.esperafeliz.mg.leg.br/media/sapl/public/anexonormajuridica/1982/1/estatuto_dos_funcionarios_publicos_do_municipio.pdf",
+      "ano": 1982,
+      "norma": 625
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lcm_36-18_integrada.pdf da norma Lei Complementar nº 36, de 18 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "TEXTO INTEGRADO COM AS ALTERAÇÕES DA LEI COMPLEMENTAR Nº 48/20, DE 26 DE MAIO DE 2020; LEI COMPLEMENTAR 49/20, DE 21 DE SETEMBRO DE 2020; E LEI COMPLEMENTAR Nº 55/21, DE 17 DE JUNHO DE 2021.",
+      "anexo_arquivo": "http://sapl.esperafeliz.mg.leg.br/media/sapl/public/anexonormajuridica/2018/2/lcm_36-18_integrada.pdf",
+      "ano": 2018,
+      "norma": 2519
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/ee1c6bb9bd37288f2ea596eb141ea22a19779c3c6e9f840bfd7e15b614652734.json",
+      "url": "https://sapl.esperafeliz.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2b7b1ee005a14f63177061ec119aceb981d1d60ed73d88dee61e53fc1117513f",
+      "capturado_em": "2026-10-20T20:50:42.649871",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.esperafeliz.mg.leg.br/ee1c6bb9bd37288f2ea596eb141ea22a19779c3c6e9f840bfd7e15b614652734.json"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+---
+titulo: "Lei Complementar nº 304, de 16 de abril de 2008"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "304"
+data: "2008-04-16"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2017-07-19; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/686"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1669/text"
+sha256_fonte: "2037973589c171abc43c55dd8a761f2fd3df1803a7a744b3a93de6a7144b917c"
+sha256_texto: "a1b91a7922a91e61f9b3ce10c09c50a607061e7aa35d873273e23be4c098093a"
+capturado_em_fonte: "2026-10-27T21:25:18.901252-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 304, de 16 de abril de 2008
+
+Cria o Conselho Municipal de Esporte e Lazer, e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe confere o inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Esporte e Lazer – COMDEL, em caráter permanente, vinculado a Secretaria Municipal de Esporte e Lazer – SEMES, com funções normativas, disciplinares e deliberativas em matéria de esporte e lazer, no âmbito municipal, competindo-lhe:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 668, de 19 de julho de 2017.
+
+
+I –
+
+Estabelecer as diretrizes de elaboração da Política Municipal de Esportes e Lazer;
+
+
+II –
+
+Estabelecer normas, sob forma de resoluções, que garantam os direitos e impeçam a utilização de meios ilícitos nas práticas desportivas;
+
+
+III –
+
+Dirimir os conflitos de superposição de autonomia;
+
+
+IV –
+
+Emitir pareceres e recomendação sobre questões desportivas no Município de Porto Velho;
+
+
+V –
+
+Participar da elaboração do Plano de Esportes e Lazer;
+
+
+VI –
+
+Estabelecer critérios mínimos e diretrizes básicas fundamentais para aplicação e utilização dos recursos financeiros destinados ao esporte e ao lazer, através de programas e projetos específicos;
+
+
+VII –
+
+Opinar sobre a celebração de contratos e convênios entre o setor público e entidades privadas relativas ao esporte e ao lazer;
+
+
+VIII –
+
+Analisar e aprovar projetos técnicos que contemplem o esporte e o lazer;
+
+
+IX –
+
+Regulamentar e outorgar o certificado de Registro de Entidades de Esporte e lazer do Município de Porto Velho;
+
+
+X –
+
+Elaborar seu Regimento Interno;
+
+
+XI –
+
+Aprovar o Código Municipal de Justiça e Disciplina de Esporte e Lazer Escolar;
+
+
+XII –
+
+Exercer outras atribuições dentro de sua competência.
+
+
+Art. 2º.
+
+O Conselho Municipal de Esporte e Lazer – COMDEL - será composto por treze membros, nomeados pelo chefe do Poder Executivo Municipal, na forma a seguir:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 668, de 19 de julho de 2017.
+
+
+I –
+
+o Secretario Municipal de Esportes e Lazer, membro nato, que o preside;
+
+
+II –
+
+três representantes da Secretaria Municipal de Esportes e Lazer;
+
+
+III –
+
+um representante de reconhecido saber jurídico-desportivo, indicados pelo Secretario Municipal de Esportes e Lazer;
+
+
+IV –
+
+um representante das federações estaduais de entidades desportivas em funcionamento no Município de Porto Velho;
+
+
+V –
+
+um representante dos clubes e entidades de prática de esporte e lazer em funcionamento no Município de Porto Velho;
+
+
+VI –
+
+dois representantes de entidades filantrópicas de pessoas com necessidades especiais;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 668, de 19 de julho de 2017.
+
+
+VII –
+
+um representante da imprensa desportiva;
+
+
+VIII –
+
+um representante das academias de ginástica e similar, em regular funcionamento no Município de Porto Velho;
+
+
+IX –
+
+dois representantes do esporte e do lazer comunitário;
+
+
+X –
+
+um representante do Conselho Regional de Educação Física – CREF/08.
+
+
+XI –
+
+01 (um) representante da Secretaria Municipal de Educação – SEMED.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 436, de 09 de dezembro de 2011.
+
+
+§ 1º
+
+A escolha dos membros do conselho dar-se-á por eleição ou indicação dos segmentos e setores interessados, na forma da regulamentação desta lei.
+
+
+§ 2º
+
+O Presidente será substituído em suas faltas e impedimentos pelo Vice-Presidente, eleito dentre os membros do respectivo organismo, através de voto secreto.
+
+
+Art. 3º.
+
+O Conselheiro terá mandato de 3 anos, vedada a recondução.
+
+
+§ 1º
+
+O comparecimento dos Conselheiros às atividades institucionais do Conselho terá prioridade sobre quaisquer outros encargos funcionais de seus membros e perderão o mandato nas seguintes hipóteses:
+
+
+I –
+
+faltar injustificadamente a 04 (quatro) reuniões consecutivas do conselho no prazo de 30 (trinta) dias;
+
+
+II –
+
+tornar-se incompatível com o exercício do cargo por improbidade ou pratica de atos irregulares.
+
+
+Art. 4º.
+
+O Conselho Municipal de Esportes e Lazer terá a seguinte estrutura básica:
+
+
+I –
+
+Presidência
+
+
+II –
+
+Plenário
+
+
+III –
+
+Câmaras ou Comissões
+
+
+IV –
+
+Diretoria Administrativa.
+
+
+§ 1º
+
+A presidência será composta pelo Presidente e o Vice-Presidente do Conselho Municipal de Esportes e Lazer.
+
+
+§ 2º
+
+O Plenário, integrados por todos os membros, é o órgão Máximo de deliberação de assuntos da competência do Conselho.
+
+
+§ 3º
+
+As Câmaras ou Comissões, estas em caráter permanente ou transitório, serão compostas por membros do conselho, quando permanentes; e por membros de outros órgãos, quando transitórias, e terão por finalidade proceder a estudos e a formular indicações sobre assuntos determinados, na forma do Regimento Interno.
+
+
+§ 4º
+
+A Diretoria Administrativa, chefiada pelo Diretor Administrativo, é o órgão encarregado pelo suporte técnico-administrativo do Conselho, na forma que dispuser o Regimento Interno.
+
+
+Art. 5º.
+
+As decisões do Conselho serão formalizadas através de Resoluções e Pareceres, numerados em séries anuais.
+
+
+Art. 6º.
+
+Fica criado o Certificado de Registro de Entidades de Esportes e Lazer do Município de Porto Velho, a ser outorgado pelo Conselho Municipal de Esportes e lazer – CMEL.
+
+
+§ 1º
+
+As entidades contempladas farão jus a:
+
+
+I –
+
+prioridade no recebimento de recurso de natureza pública;
+
+
+II –
+
+benefícios previstos na legislação em vigor referentes à utilidade pública;
+
+
+c)
+
+benefícios fiscais na forma da Lei.
+
+
+Art. 7º.
+
+Para obtenção do Registro de Entidade de Esporte e Lazer do Município de Porto Velho são requisitos, entre outros:
+
+
+I –
+
+ter estatuto de acordo com legislação em vigor;
+
+
+II –
+
+manter a independência técnica e o apoio administrativo nos órgãos judicantes.
+
+
+Art. 8º.
+
+As despesas decorrentes desta Lei correrão por conta de dotação orçamentária própria da Secretaria Municipal de Esportes e Lazer.
+
+
+Art. 9º.
+
+A presente Lei será regulamentada por Decreto do Prefeito Municipal, no prazo de sessenta dias.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+**Prefeito do Município**
+
+MÁRIO JONAS FREITAS GUTERRES
+
+Procurador Geral do Município
+

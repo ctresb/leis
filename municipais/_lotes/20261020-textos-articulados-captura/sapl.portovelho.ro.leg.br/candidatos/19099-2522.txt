@@ -1,0 +1,56 @@
+Dispõe sobre a alteração do Anexo IV da Lei Complementar Municipal nº 360, de 04 de setembro de 2009 e do Anexo Único da Lei Complementar Municipal nº 778, de 04 de setembro de 2019.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO** usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica alterado o Anexo IV (TABELA DE VENCIMENTOS – FUNÇÕES DE MAGISTÉRIO) da Lei Complementar Municipal n° 360, de 04 de setembro de 2009, que dispõe sobre o Plano de Carreira, Cargos e Remuneração dos Profissionais da Educação da Rede Pública Municipal de Ensino de Porto Velho, que passa a vigorar de acordo com o Anexo I desta Lei Complementar.
+
+
+Art. 2º.
+
+Fica alterado o Anexo Único (TABELA DE VENCIMENTOS – FUNÇÕES DE MONITOR) da Lei Complementar Municipal n° 778, de 04 de setembro de 2019, que dispõe sobre o Plano de Carreira, Cargos e Remuneração dos Profissionais de Monitor, que passa a vigorar de acordo com o Anexo II desta Lei Complementar.
+
+
+Art. 3º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**
+
+**Prefeito**
+
+
+## Anexo I
+
+(Anexo IV à Lei Complementar nº 360, de 04 de setembro de 2009)
+
+**FAIXA INICIAL PROFESSOR/ESPECIALISTA COM REAJUSTE DO PISO – A PARTIR DE 01/01/2022**
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>CARGO</p></td><td rowspan="2"><p>NÍVEL</p></td><td colspan="18"><p><strong>R E F E R Ê N C I A</strong></p></td></tr><tr><td><p>01</p></td><td><p>02</p></td><td><p>03</p></td><td><p>04</p></td><td><p>05</p></td><td><p>06</p></td><td><p>07</p></td><td><p>08</p></td><td><p>09</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>16</p></td><td><p>17</p></td><td><p>18</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="20"><p><strong>40</strong><strong>HORAS</strong><strong>SEMANAIS</strong></p></td></tr><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>3.845,63</p></td><td><p>3.875,55</p></td><td><p>3.905,47</p></td><td><p>3.935,39</p></td><td><p>3.965,31</p></td><td><p>3.995,23</p></td><td><p>4.025,14</p></td><td><p>4.055,06</p></td><td><p>4.084,98</p></td><td><p>4.114,90</p></td><td><p>4.144,82</p></td><td><p>4.174,74</p></td><td><p>4.204,66</p></td><td><p>4.234,58</p></td><td><p>4.264,50</p></td><td><p>4.294,42</p></td><td><p>4.324,33</p></td><td><p>4.354,25</p></td></tr><tr><td><p>II</p></td><td><p>3.845,63</p></td><td><p>3.875,55</p></td><td><p>3.905,47</p></td><td><p>3.935,39</p></td><td><p>3.965,31</p></td><td><p>3.995,23</p></td><td><p>4.025,14</p></td><td><p>4.055,06</p></td><td><p>4.084,98</p></td><td><p>4.114,90</p></td><td><p>4.144,82</p></td><td><p>4.174,74</p></td><td><p>4.204,66</p></td><td><p>4.234,58</p></td><td><p>4.264,50</p></td><td><p>4.294,42</p></td><td><p>4.324,33</p></td><td><p>4.354,25</p></td></tr><tr><td><p>ESPECIALISTA EM EDUCAÇÃO</p></td><td><p>I</p></td><td><p>3.845,63</p></td><td><p>3.875,55</p></td><td><p>3.905,47</p></td><td><p>3.935,39</p></td><td><p>3.965,31</p></td><td><p>3.995,23</p></td><td><p>4.025,14</p></td><td><p>4.055,06</p></td><td><p>4.084,98</p></td><td><p>4.114,90</p></td><td><p>4.144,82</p></td><td><p>4.174,74</p></td><td><p>4.204,66</p></td><td><p>4.234,58</p></td><td><p>4.264,50</p></td><td><p>4.294,42</p></td><td><p>4.324,33</p></td><td><p>4.354,25</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="20"><p><strong>30</strong><strong>HORAS</strong><strong>SEMANAIS</strong></p></td></tr><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>2.884,22</p></td><td><p>2.905,10</p></td><td><p>2.925,98</p></td><td><p>2.946,87</p></td><td><p>2.967,75</p></td><td><p>2.988,63</p></td><td><p>3.009,51</p></td><td><p>3.030,39</p></td><td><p>3.051,27</p></td><td><p>3.072,16</p></td><td><p>3.093,04</p></td><td><p>3.113,92</p></td><td><p>3.134,80</p></td><td><p>3.155,68</p></td><td><p>3.176,56</p></td><td><p>3.197,45</p></td><td><p>3.218,33</p></td><td><p>3.239,21</p></td></tr><tr><td><p>II</p></td><td><p>2.884,22</p></td><td><p>2.905,10</p></td><td><p>2.925,98</p></td><td><p>2.946,87</p></td><td><p>2.967,75</p></td><td><p>2.988,63</p></td><td><p>3.009,51</p></td><td><p>3.030,39</p></td><td><p>3.051,27</p></td><td><p>3.072,16</p></td><td><p>3.093,04</p></td><td><p>3.113,92</p></td><td><p>3.134,80</p></td><td><p>3.155,68</p></td><td><p>3.176,56</p></td><td><p>3.197,45</p></td><td><p>3.218,33</p></td><td><p>3.239,21</p></td></tr><tr><td><p>ESPECIALISTA EM EDUCAÇÃO</p></td><td><p>I</p></td><td><p>2.884,22</p></td><td><p>2.905,10</p></td><td><p>2.925,98</p></td><td><p>2.946,87</p></td><td><p>2.967,75</p></td><td><p>2.988,63</p></td><td><p>3.009,51</p></td><td><p>3.030,39</p></td><td><p>3.051,27</p></td><td><p>3.072,16</p></td><td><p>3.093,04</p></td><td><p>3.113,92</p></td><td><p>3.134,80</p></td><td><p>3.155,68</p></td><td><p>3.176,56</p></td><td><p>3.197,45</p></td><td><p>3.218,33</p></td><td><p>3.239,21</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="20"><p><strong>25</strong><strong>HORAS</strong><strong>SEMANAIS</strong></p></td></tr><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>2.403,51</p></td><td><p>2.420,00</p></td><td><p>2.436,49</p></td><td><p>2.452,97</p></td><td><p>2.469,46</p></td><td><p>2.485,95</p></td><td><p>2.502,44</p></td><td><p>2.518,93</p></td><td><p>2.535,41</p></td><td><p>2.551,90</p></td><td><p>2.568,39</p></td><td><p>2.584,88</p></td><td><p>2.601,37</p></td><td><p>2.617,86</p></td><td><p>2.634,34</p></td><td><p>2.650,83</p></td><td><p>2.667,32</p></td><td><p>2.683,81</p></td></tr><tr><td><p>II</p></td><td><p>2.403,51</p></td><td><p>2.420,00</p></td><td><p>2.436,49</p></td><td><p>2.452,97</p></td><td><p>2.469,46</p></td><td><p>2.485,95</p></td><td><p>2.502,44</p></td><td><p>2.518,93</p></td><td><p>2.535,41</p></td><td><p>2.551,90</p></td><td><p>2.568,39</p></td><td><p>2.584,88</p></td><td><p>2.601,37</p></td><td><p>2.617,86</p></td><td><p>2.634,34</p></td><td><p>2.650,83</p></td><td><p>2.667,32</p></td><td><p>2.683,81</p></td></tr><tr><td><p>ESPECIALISTA EMEDUCAÇÃO</p></td><td><p>I</p></td><td><p>2.403,51</p></td><td><p>2.420,00</p></td><td><p>2.436,49</p></td><td><p>2.452,97</p></td><td><p>2.469,46</p></td><td><p>2.485,95</p></td><td><p>2.502,44</p></td><td><p>2.518,93</p></td><td><p>2.535,41</p></td><td><p>2.551,90</p></td><td><p>2.568,39</p></td><td><p>2.584,88</p></td><td><p>2.601,37</p></td><td><p>2.617,86</p></td><td><p>2.634,34</p></td><td><p>2.650,83</p></td><td><p>2.667,32</p></td><td><p>2.683,81</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="20"><p><strong>20</strong><strong>HORAS</strong><strong>SEMANAIS</strong></p></td></tr><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>1.922,81</p></td><td><p>1.935,06</p></td><td><p>1.947,31</p></td><td><p>1.959,55</p></td><td><p>1.971,80</p></td><td><p>1.984,05</p></td><td><p>1.996,30</p></td><td><p>2.008,55</p></td><td><p>2.020,80</p></td><td><p>2.033,04</p></td><td><p>2.045,29</p></td><td><p>2.057,54</p></td><td><p>2.069,79</p></td><td><p>2.082,04</p></td><td><p>2.094,29</p></td><td><p>2.106,53</p></td><td><p>2.118,78</p></td><td><p>2.131,03</p></td></tr><tr><td><p>II</p></td><td><p>1.922,81</p></td><td><p>1.935,06</p></td><td><p>1.947,31</p></td><td><p>1.959,55</p></td><td><p>1.971,80</p></td><td><p>1.984,05</p></td><td><p>1.996,30</p></td><td><p>2.008,55</p></td><td><p>2.020,80</p></td><td><p>2.033,04</p></td><td><p>2.045,29</p></td><td><p>2.057,54</p></td><td><p>2.069,79</p></td><td><p>2.082,04</p></td><td><p>2.094,29</p></td><td><p>2.106,53</p></td><td><p>2.118,78</p></td><td><p>2.131,03</p></td></tr><tr><td><p>ESPECIALISTA EMEDUCAÇÃO</p></td><td><p>I</p></td><td><p>1.922,81</p></td><td><p>1.935,06</p></td><td><p>1.947,31</p></td><td><p>1.959,55</p></td><td><p>1.971,80</p></td><td><p>1.984,05</p></td><td><p>1.996,30</p></td><td><p>2.008,55</p></td><td><p>2.020,80</p></td><td><p>2.033,04</p></td><td><p>2.045,29</p></td><td><p>2.057,54</p></td><td><p>2.069,79</p></td><td><p>2.082,04</p></td><td><p>2.094,29</p></td><td><p>2.106,53</p></td><td><p>2.118,78</p></td><td><p>2.131,03</p></td></tr></tbody></table>
+
+
+## Anexo II
+
+(Anexo Único à Lei Complementar nº 778, de 04 de setembro de 2019)
+
+**FAIXAINICIALMONITOR –APARTIRDE01/07/2022**
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>CARGO</p></td><td rowspan="2"><p>NÍVEL</p></td><td colspan="18"><p><strong>R E F E R Ê N C I A</strong></p></td></tr><tr><td><p>01</p></td><td><p>02</p></td><td><p>03</p></td><td><p>04</p></td><td><p>05</p></td><td><p>06</p></td><td><p>07</p></td><td><p>08</p></td><td><p>09</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>16</p></td><td><p>17</p></td><td><p>18</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="20"><p><strong>40</strong><strong>HORAS</strong><strong>SEMANAIS</strong></p></td></tr><tr><td><p>MONITOR DE ENSINO</p></td><td><p>I</p></td><td><p>3.176,50</p></td><td><p>3.201,21</p></td><td><p>3.225,92</p></td><td><p>3.250,64</p></td><td><p>3.275,35</p></td><td><p>3.300,06</p></td><td><p>3.324,78</p></td><td><p>3.349,49</p></td><td><p>3.374,20</p></td><td><p>3.398,91</p></td><td><p>3.423,63</p></td><td><p>3.448,34</p></td><td><p>3.473,05</p></td><td><p>3.497,77</p></td><td><p>3.522,48</p></td><td><p>3.547,19</p></td><td><p>3.571,91</p></td><td><p>3.596,62</p></td></tr></tbody></table>

@@ -1,0 +1,203 @@
+---
+titulo: "Lei Ordinária nº 653, de 09 de dezembro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "653"
+data: "1980-12-09"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 1988-03-07; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1498"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/125/text"
+sha256_fonte: "e099ba735016695fb6b582c858f10d175f68fd66318795ab95972aecd017af8d"
+sha256_texto: "3185ab4cf20088b71f4047823f56e0132f66225ddcc5a5f7cf761d2fc19061d9"
+capturado_em_fonte: "2026-10-28T13:41:32.237700-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 653, de 09 de dezembro de 1980
+
+Cria a Fundação Municipal de Ensino Superior de Guaíra - FEMUSEG com a coparticipação da Campanha Nacional de Escolas da Comunidade - CNEC, a iniciar-se com os cursos de filosofia na área de ciências c/ habilitação em matemática e biologia, ciências contábeis e enfermagem.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 806, de 07 de março de 1988.
+
+
+Art. 2º.
+
+A Fundação Municipal de Ensino Superior de Guaíra - FUMESG, é entidade de direito público, gozando de autonomia administrativa, financeira, disciplinar e didático-cientifica, na forma da legislação pertinente e de seu estatuto.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 806, de 07 de março de 1988.
+
+
+Art. 4º.
+
+A Fundação Municipal de Ensino Superior de Guaíra - FUMESG, tem por finalidade o ensino de grau superior, formando profissionais no campo das Ciências Humanas e Exatas, realizando pesquisas e estimulando iniciativas elevadas e criadoras, extensivas à comunidade, mediante atividades especiais.
+
+
+Parágrafo único
+
+Para que possa cumprir suas finalidades, a Fundação Municipal de Ensino Superior de Guaíra - FUMESG, contará com os órgãos:
+
+
+a)
+
+Direção;
+
+
+b)
+
+Conselho de Curadores;
+
+
+c)
+
+Conselho Departamental;
+
+
+d)
+
+Departamentos;
+
+
+e)
+
+Secretaria;
+
+
+f)
+
+Departamento financeiro;
+
+
+g)
+
+Biblioteca.
+
+
+Art. 5º.
+
+A constituição, admissão, mandato e competência dos órgãos constantes do artigo anterior serão definidos no Estatuto e no Regimento.
+
+
+Art. 6º.
+
+O Estatuto da Fundação Municipal de Ensino Superior de Guaíra - FUMESG tomar-se-á efetivo após a sua aprovação por decreto municipal.
+
+
+Art. 7º.
+
+O patrimônio da Fundação Municipal de Ensino Superior de Guaíra - FUMESG será constituído por:
+
+
+a)
+
+bens móveis e imóveis;
+
+
+b)
+
+instalações;
+
+
+c)
+
+equipamentos gerais, laboratórios;
+
+
+d)
+
+biblioteca;
+
+
+e)
+
+saldos de exercícios financeiros;
+
+
+f)
+
+doações e legados.
+
+
+Art. 8º.
+
+A receita da Fundação Municipal de Ensino Superior de Guairá - FUMESG resultará:
+
+
+a)
+
+dos recursos globais a ela destinados no orçamento do Município e no da Campanha Nacional de Escolas da Comunidade - CNEC;
+
+
+b)
+
+dos auxílios e subvenções;
+
+
+c)
+
+das contribuições de alunos e de terceiros;
+
+
+d)
+
+pela prestação de serviços;
+
+
+e)
+
+das rendas patrimoniais.
+
+
+Art. 9º.
+
+O corpo docente e suas prerrogativas serão definidas no Regimento.
+
+
+Art. 10.
+
+O corpo discente terá sua definição, direitos e obrigações estabelecidos no Regimento.
+
+
+Art. 11.
+
+A Fundação Municipal de Ensino Superior de Guaíra terá duração indeterminada, revertendo seu patrimônio ao Município de Guaíra no caso de sua extinção.
+
+
+Art. 12.
+
+Poderá a Fundação Municipal de Ensino Superior de Guaíra - FUMESG integrar uma Federação de Escolas Superiores ou uma Universidade mediante parecer favorável do Conselho de Curadores, da Campanha Nacional de Escolas da Comunidade - CNEC e de decreto municipal de autorização.
+
+
+Art. 13.
+
+Revogadas as disposições em contrário, a presente lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de Guaíra, em 09 de dezembro de 1980.  
+  
+KURT WALTHER HASPER  
+Prefeito Municipal  
+  
+BRASIL ANDRADE HOLSBACH  
+Secretário da Prefeitura
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

@@ -1,0 +1,266 @@
+{
+  "host": "sapl.bertioga.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/1326-2018_-_anexos_da_pgv.pdf da norma Lei Ordinária nº 1.326, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos I a V",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/1/1326-2018_-_anexos_da_pgv.pdf",
+      "ano": 2018,
+      "norma": 4866
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei-1326-2018_-_anexo_i_-_logradouros_e_valores.pdf da norma Lei Ordinária nº 1.326, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - Tabela de Logradouros e Valores",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei-1326-2018_-_anexo_i_-_logradouros_e_valores.pdf",
+      "ano": 2018,
+      "norma": 4866
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/lei-1326-2018_-_anexo__ii_-_tipos_e_padroes_construtivos.pdf da norma Lei Ordinária nº 1.326, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXO  II - Tipos e Padrões Construtivos",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/3/lei-1326-2018_-_anexo__ii_-_tipos_e_padroes_construtivos.pdf",
+      "ano": 2018,
+      "norma": 4866
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/lei-1326-2018_-_anexo_iii_-_setores_cadastrais_urbanos.pdf da norma Lei Ordinária nº 1.326, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III - Setores Cadastrais Urbanos",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/4/lei-1326-2018_-_anexo_iii_-_setores_cadastrais_urbanos.pdf",
+      "ano": 2018,
+      "norma": 4866
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/lei-1326-2018_-_anexo_iv_-_mapas_de_localizacao_do_tX7elMl.pdf da norma Lei Ordinária nº 1.326, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - Mapas de localização dos 26 setores urbanos cadastrais",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/5/lei-1326-2018_-_anexo_iv_-_mapas_de_localizacao_do_tX7elMl.pdf",
+      "ano": 2018,
+      "norma": 4866
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/lei-1326-2018_-_anexo_v_-_fatores_de_profundidade.pdf da norma Lei Ordinária nº 1.326, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ANEXO V - Fatores de Profundidade",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/6/lei-1326-2018_-_anexo_v_-_fatores_de_profundidade.pdf",
+      "ano": 2018,
+      "norma": 4866
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/lei-1331-18_-_anexo_emendas_legislativas.pdf da norma Lei Ordinária nº 1.331, de 26 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo Emendas Legislativas - LOA 2019",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/7/lei-1331-18_-_anexo_emendas_legislativas.pdf",
+      "ano": 2018,
+      "norma": 4872
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/8/lei-1329-18_-_anexo_emendas_legislativas.pdf da norma Lei Ordinária nº 1.329, de 26 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo Emendas Legislativas 2019",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/8/lei-1329-18_-_anexo_emendas_legislativas.pdf",
+      "ano": 2018,
+      "norma": 4870
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/9/lei-1331-18_-_anexo_emendas_legislativas.pdf da norma Lei Ordinária nº 1.330, de 26 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo Emendas Legislativas 2019",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2018/9/lei-1331-18_-_anexo_emendas_legislativas.pdf",
+      "ano": 2018,
+      "norma": 4871
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/10/129-95_autografo.pdf da norma Lei Ordinária nº 129, de 29 de agosto de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Redação Original da Lei nº 129/95 - autógrafo retirado do Processo Administrativo nº 188-1995",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/1995/10/129-95_autografo.pdf",
+      "ano": 1995,
+      "norma": 4076
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/11/lei_1517-2023_-_anexo_ii.pdf da norma Lei Ordinária nº 1.517, de 25 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "LEI 1517/2023 - ANEXO II",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2023/11/lei_1517-2023_-_anexo_ii.pdf",
+      "ano": 2023,
+      "norma": 6426
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/lei_no_1637-2024-anexo_unico.pdf da norma Lei Ordinária nº 1.637, de 05 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2024/12/lei_no_1637-2024-anexo_unico.pdf",
+      "ano": 2024,
+      "norma": 7026
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/13/lc-188-2023-volume-i.pdf da norma Lei Complementar nº 188, de 06 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Plano Diretor de Turismo - PDTUR Volume I",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2023/13/lc-188-2023-volume-i.pdf",
+      "ano": 2023,
+      "norma": 6760
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/14/lc-188-2023-volume-ii.pdf da norma Lei Complementar nº 188, de 06 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Plano Diretor de Turismo - PDTUR Volume II - Inventário Turístico",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2023/14/lc-188-2023-volume-ii.pdf",
+      "ano": 2023,
+      "norma": 6760
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/ato_da_mesa_009-2024_-_anexo_i.pdf da norma Ato da Mesa nº 9, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2024/15/ato_da_mesa_009-2024_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 7138
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/lei-1685.25-2.anexo_.pdf da norma Lei Ordinária nº 1.686, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2025/16/lei-1685.25-2.anexo_.pdf",
+      "ano": 2025,
+      "norma": 7406
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/17/lei-1685.25-2.anexo_.pdf da norma Lei Ordinária nº 1.685, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Caderno contendo o Plano Municipal de Educação Ambiental",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2025/17/lei-1685.25-2.anexo_.pdf",
+      "ano": 2025,
+      "norma": 7405
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/18/lc-0175-2022-alterada_pela_lc_203-2025-anexo_i.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Cargo de Provimento Efetivo",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/18/lc-0175-2022-alterada_pela_lc_203-2025-anexo_i.pdf",
+      "ano": 2022,
+      "norma": 6495
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/19/lc-0175-2022-alterada_pela_lc_203-2025-anexo_ii.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Cargos de Provimento Efetivo - Magistério",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/19/lc-0175-2022-alterada_pela_lc_203-2025-anexo_ii.pdf",
+      "ano": 2022,
+      "norma": 6495
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/20/lc-0175-2022-alterada_pela_lc_203-2025-anexo_iii.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Cargos Efetivos - Guarda Civil Municipal",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/20/lc-0175-2022-alterada_pela_lc_203-2025-anexo_iii.pdf",
+      "ano": 2022,
+      "norma": 6495
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/21/lc-0175-2022-alterada_pela_lc_203-2025-anexo_iv.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Cargos Efetivos em extinção na vacância",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/21/lc-0175-2022-alterada_pela_lc_203-2025-anexo_iv.pdf",
+      "ano": 2022,
+      "norma": 6495
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/22/lc-0175-2022-alterada_pela_lc_203-2025-anexo_v.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Cargos efetivos do Magistério Municipal em extinção na vacância",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/22/lc-0175-2022-alterada_pela_lc_203-2025-anexo_v.pdf",
+      "ano": 2022,
+      "norma": 6495
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/23/lc-0175-2022-alterada_pela_lc_203-2025-anexo_vi.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Sumário de atribuições dos cargos efetivos",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/23/lc-0175-2022-alterada_pela_lc_203-2025-anexo_vi.pdf",
+      "ano": 2022,
+      "norma": 6495
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/24/lc-0175-2022-alterada_pela_lc_203-2025-anexo_vii.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Funções do quadro do magistério municipal - inconstitucional",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/24/lc-0175-2022-alterada_pela_lc_203-2025-anexo_vii.pdf",
+      "ano": 2022,
+      "norma": 6495
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/25/lc-0175-2022-alterada_pela_lc_203-2025-anexo_viii.pdf da norma Lei Complementar nº 175, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Sumário de atribuições das funções do magistério municipal - inconstitucional",
+      "anexo_arquivo": "http://sapl.bertioga.sp.leg.br/media/sapl/public/anexonormajuridica/2022/25/lc-0175-2022-alterada_pela_lc_203-2025-anexo_viii.pdf",
+      "ano": 2022,
+      "norma": 6495
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.bertioga.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.bertioga.sp.leg.br/5bad3d8f2f33f10463561c7eb40efd6f7828600d6cfde8187d08152291f5b2c1.json",
+      "sha256": "0de61a1f8ecc7ee55035abda49fc0b6b1d9236a12b871f14c027a04cc26368b8",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.bertioga.sp.leg.br/5bad3d8f2f33f10463561c7eb40efd6f7828600d6cfde8187d08152291f5b2c1.meta.json"
+    }
+  ],
+  "total": 25
+}

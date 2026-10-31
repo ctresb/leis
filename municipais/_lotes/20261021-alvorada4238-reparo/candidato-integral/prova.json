@@ -1,0 +1,318 @@
+{
+  "sha256_pdf": "64bd928b860f125d4b92d332397fd7d61e72088e8f86c01d9a0ced55825f04fc",
+  "sha256_preimagem": "ca37ad824bb5fccd4258cfa053adffcc8cd471af8dfa0003713f942ed7ed37d3",
+  "sha256_candidato": "125cc1b2898b85f74ebf4d0f6940a4cc01e7a835dc2981f35cb1707d45ef5960",
+  "sha256_nativo": "5be8804f1e75f3e665f28241f010ea309f8891ebee1192a33f289c603c4b3f7a",
+  "sha256_caracteres": "390831937b2f6b50294bb647c4714f9144de270841a487b5633cfd7866898a6b",
+  "caracteres_nao_brancos": 2498,
+  "palavras_bbox": 449,
+  "replay_commonmark": true,
+  "replay_bbox": true,
+  "replay_tipografia_xml": true,
+  "negritos_italicos_preservados": [
+    {
+      "inicio": 2,
+      "fim": 44,
+      "negrito": true,
+      "italico": false,
+      "texto": "SECRETARIA MUNICIPAL DE GOVERNO E GABINETE"
+    },
+    {
+      "inicio": 45,
+      "fim": 98,
+      "negrito": true,
+      "italico": false,
+      "texto": "LEI MUNICIPAL Nº 4.238, DE DOIS DE FEVEREIRO DE 2026."
+    },
+    {
+      "inicio": 212,
+      "fim": 246,
+      "negrito": true,
+      "italico": false,
+      "texto": "DOUGLAS MARTELLO DE SOUZA SILVEIRA"
+    },
+    {
+      "inicio": 451,
+      "fim": 459,
+      "negrito": true,
+      "italico": false,
+      "texto": "Art. 1º."
+    },
+    {
+      "inicio": 710,
+      "fim": 724,
+      "negrito": false,
+      "italico": true,
+      "texto": "“Art. 2-Aº ..."
+    },
+    {
+      "inicio": 725,
+      "fim": 754,
+      "negrito": false,
+      "italico": true,
+      "texto": "I -01 (um) Chefe de Gabinete;"
+    },
+    {
+      "inicio": 755,
+      "fim": 794,
+      "negrito": false,
+      "italico": true,
+      "texto": "II -03 (três) Assessores Parlamentares;"
+    },
+    {
+      "inicio": 795,
+      "fim": 844,
+      "negrito": false,
+      "italico": true,
+      "texto": "III -01 (um) Assessor Parlamentar de Comunicação;"
+    },
+    {
+      "inicio": 845,
+      "fim": 898,
+      "negrito": false,
+      "italico": true,
+      "texto": "IV -02 (dois) Assessores Parlamentares Comunitários.”"
+    },
+    {
+      "inicio": 899,
+      "fim": 907,
+      "negrito": true,
+      "italico": false,
+      "texto": "Art. 2º."
+    },
+    {
+      "inicio": 1024,
+      "fim": 1032,
+      "negrito": true,
+      "italico": false,
+      "texto": "Art. 3º."
+    },
+    {
+      "inicio": 1137,
+      "fim": 1145,
+      "negrito": true,
+      "italico": false,
+      "texto": "Art. 4º."
+    },
+    {
+      "inicio": 1312,
+      "fim": 1346,
+      "negrito": true,
+      "italico": true,
+      "texto": "DOUGLAS MARTELLO DE SOUZA SILVEIRA"
+    },
+    {
+      "inicio": 1381,
+      "fim": 1399,
+      "negrito": true,
+      "italico": true,
+      "texto": "TAISON RIBAS NEVES"
+    },
+    {
+      "inicio": 1439,
+      "fim": 1446,
+      "negrito": true,
+      "italico": false,
+      "texto": "ANEXO I"
+    },
+    {
+      "inicio": 1447,
+      "fim": 1453,
+      "negrito": true,
+      "italico": false,
+      "texto": "Cargo:"
+    },
+    {
+      "inicio": 1489,
+      "fim": 1509,
+      "negrito": true,
+      "italico": false,
+      "texto": "Forma de Provimento:"
+    },
+    {
+      "inicio": 1528,
+      "fim": 1539,
+      "negrito": true,
+      "italico": false,
+      "texto": "Vencimento:"
+    },
+    {
+      "inicio": 1552,
+      "fim": 1563,
+      "negrito": true,
+      "italico": false,
+      "texto": "Requisitos:"
+    },
+    {
+      "inicio": 1564,
+      "fim": 1565,
+      "negrito": true,
+      "italico": false,
+      "texto": "I"
+    },
+    {
+      "inicio": 1587,
+      "fim": 1589,
+      "negrito": true,
+      "italico": false,
+      "texto": "II"
+    },
+    {
+      "inicio": 1614,
+      "fim": 1617,
+      "negrito": true,
+      "italico": false,
+      "texto": "III"
+    },
+    {
+      "inicio": 1657,
+      "fim": 1659,
+      "negrito": true,
+      "italico": false,
+      "texto": "IV"
+    },
+    {
+      "inicio": 1726,
+      "fim": 1727,
+      "negrito": true,
+      "italico": false,
+      "texto": "V"
+    },
+    {
+      "inicio": 1810,
+      "fim": 1812,
+      "negrito": true,
+      "italico": false,
+      "texto": "VI"
+    },
+    {
+      "inicio": 1851,
+      "fim": 1863,
+      "negrito": true,
+      "italico": false,
+      "texto": "Atribuições:"
+    },
+    {
+      "inicio": 1864,
+      "fim": 1865,
+      "negrito": true,
+      "italico": false,
+      "texto": "I"
+    },
+    {
+      "inicio": 1954,
+      "fim": 1956,
+      "negrito": true,
+      "italico": false,
+      "texto": "II"
+    },
+    {
+      "inicio": 2062,
+      "fim": 2065,
+      "negrito": true,
+      "italico": false,
+      "texto": "III"
+    },
+    {
+      "inicio": 2200,
+      "fim": 2202,
+      "negrito": true,
+      "italico": false,
+      "texto": "IV"
+    },
+    {
+      "inicio": 2293,
+      "fim": 2294,
+      "negrito": true,
+      "italico": false,
+      "texto": "V"
+    },
+    {
+      "inicio": 2381,
+      "fim": 2383,
+      "negrito": true,
+      "italico": false,
+      "texto": "VI"
+    },
+    {
+      "inicio": 2508,
+      "fim": 2511,
+      "negrito": true,
+      "italico": false,
+      "texto": "VII"
+    },
+    {
+      "inicio": 2603,
+      "fim": 2607,
+      "negrito": true,
+      "italico": false,
+      "texto": "VIII"
+    },
+    {
+      "inicio": 2645,
+      "fim": 2667,
+      "negrito": true,
+      "italico": false,
+      "texto": "Condições de trabalho:"
+    },
+    {
+      "inicio": 2668,
+      "fim": 2669,
+      "negrito": true,
+      "italico": false,
+      "texto": "I"
+    },
+    {
+      "inicio": 2690,
+      "fim": 2692,
+      "negrito": true,
+      "italico": false,
+      "texto": "II"
+    },
+    {
+      "inicio": 2795,
+      "fim": 2798,
+      "negrito": true,
+      "italico": false,
+      "texto": "III"
+    },
+    {
+      "inicio": 2837,
+      "fim": 2859,
+      "negrito": true,
+      "italico": false,
+      "texto": "Forma de Recrutamento:"
+    },
+    {
+      "inicio": 2886,
+      "fim": 2894,
+      "negrito": true,
+      "italico": false,
+      "texto": "Lotação:"
+    },
+    {
+      "inicio": 2971,
+      "fim": 2985,
+      "negrito": true,
+      "italico": false,
+      "texto": "Publicado por:"
+    },
+    {
+      "inicio": 3091,
+      "fim": 3112,
+      "negrito": true,
+      "italico": false,
+      "texto": "Código Identificador:"
+    }
+  ],
+  "fonte_cabecalho": "   ESTADO DO RIO GRANDE DO SUL\nPREFEITURA MUNICIPAL DE ALVORADA\n",
+  "codigo_ibge": "4300604",
+  "data_epigrafe": "DOIS DE FEVEREIRO DE 2026",
+  "fecho_data": "dois dias do mês de fevereiro do ano de dois mil e vinte e seis",
+  "alteracoes_metadados": {
+    "data": "2026-02-02, literal por extenso na epígrafe e no fecho",
+    "revogada": "null: publicação original não comprova inexistência de revogação posterior",
+    "baixado_em": "2026-10-15 preservado da preimagem; nenhuma recaptura alegada"
+  },
+  "limite": "Reparo privado de um ato; não certifica vigência atual nem corrige genericamente o extrator. Limites e tipografia conferidos visualmente nas páginas 23 e 29."
+}

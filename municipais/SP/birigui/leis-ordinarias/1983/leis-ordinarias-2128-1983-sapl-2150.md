@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 2.128, de 13 de julho de 1983"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2128"
+data: "1983-07-13"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/2150"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3031/text"
+sha256_fonte: "0b13a4298c6950b86ac7775b669dc391a32327350c604467cf075a99026ccafa"
+sha256_texto: "79d16d276fa28460a18514e5f5c1fd4dfa6887929ad2aaba9ffc053c7fbd5677"
+capturado_em_fonte: "2026-10-27T18:44:55.579424-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.128, de 13 de julho de 1983
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL DE Cr$ 82.906.212,00.
+
+
+Eu, **DR. FLORIVAL CERVELATI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir, por decreto, no Serviço de Finanças – Setor de Contabilidade, o crédito adicional de Cr$ 82.906.212,00 (oitenta e dois milhões, novecentos e seis mil, duzentos e doze cruzeiros), suplementar às seguintes verbas do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">1 - CÂMARA MUNICIPAL</td></tr><tr><td colspan="2">1.1 - CORPO LEGISLATIVO</td></tr><tr><td colspan="2">01010012.0 - Manutenção do Corpo Legislativo</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 4.750.000,00</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 400.000,00</td></tr><tr><td>3131 - Remuneração de Serviços de Terceiros </td><td>Cr$ 200.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 1.000.000,00</td></tr><tr><td colspan="2">1.2 - SECRETARIA DA CÂMARA</td></tr><tr><td colspan="2">01010012.02 - Manutenção da Secretaria da Câmara</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 3.600.000,00</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 350.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">2 - CHEFIA DO EXECUTIVO</td></tr><tr><td colspan="2">2.2 - SECRETARIA E OUTROS</td></tr><tr><td colspan="2">03070212.05 - a) Manutenção da Secretaria</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 3.000.000,00</td></tr><tr><td colspan="2">03070212.08 - d) Manutenção da Unidade Militar TG 02-008</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 2.500.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">3 - FINANÇAS</td></tr><tr><td colspan="2">3.1 - DIRETORIA E OUTROS</td></tr><tr><td colspan="2">03080312.11 - a) Manutenção da Diretoria</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 3.000.000,00</td></tr><tr><td colspan="2">03080322.14 - d) Manutenção do Cadastro</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 3.000.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">4 - ADMINISTRAÇÃO GERAL</td></tr><tr><td colspan="2">4.1 - DEPARTAMENTO DE OBRAS E ADMINISTRAÇÃO</td></tr><tr><td colspan="2">03070212.21 - b) Manutenção do Almoxarifado</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 2.500.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">6 - SERVIÇOS DE UTILIDADE PÚBLICA</td></tr><tr><td colspan="2">6.1 - SERVIÇO DE ESTRADAS DE RODAGEM MUNICIPAL - SERM</td></tr><tr><td colspan="2">16885312.25 - Manutenção dos serviços do SERM</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 8.000.000,00</td></tr><tr><td>4120 - Equipamentos e Material Permanente </td><td>Cr$ 5.000.000,00</td></tr><tr><td colspan="2">6.2 - SERVIÇO DE ÁGUA E ESGOTOS</td></tr><tr><td colspan="2">b) ESGOTOS</td></tr><tr><td colspan="2">13764492.29 - Manutenção da rede coletora de esgotos</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 2.000.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">8 - EDUCAÇÃO E CULTURA</td></tr><tr><td colspan="2">8.1 - ENSINO DE 1º GRAU</td></tr><tr><td colspan="2">08421882.38 - Manutenção do ensino de 1º Grau</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 2.000.000,00</td></tr><tr><td colspan="2">08421882.39 - Transporte de Alunos</td></tr><tr><td>3120 - Material de Consumo </td><td>Cr$ 15.000.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 12.000.000,00</td></tr><tr><td colspan="2">08421882.41 - Transferências Correntes</td></tr><tr><td colspan="2">3210 - Transferências Intragovernamentais</td></tr><tr><td>3211 - Ao MOBRAL </td><td>Cr$ 2.606.212,00</td></tr><tr><td colspan="2">8.4 - EDUCAÇÃO FÍSICA E DESPORTOS</td></tr><tr><td colspan="2">08462242.45 - Atividades Esportivas</td></tr><tr><td>3111 - Pessoal Civil </td><td>Cr$ 1.500.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos </td><td>Cr$ 2.500.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">9 - ENCARGOS GERAIS DO MUNICÍPIO</td></tr><tr><td colspan="2">9.6 - PASEP</td></tr><tr><td colspan="2">15844942.56 - Previdência Social</td></tr><tr><td>3280 - Contribuições para Formação do Patrimônio do Servidor Publico </td><td>Cr$ 8.000.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O valor do presente crédito será coberto com recursos previstos pelo inciso II, § 1º, do artigo 43, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos treze de julho de mil novecentos e oitenta e três.
+
+**DR. FLORIVAL CERVELATI Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos treze de julho de mil novecentos e oitenta e três, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

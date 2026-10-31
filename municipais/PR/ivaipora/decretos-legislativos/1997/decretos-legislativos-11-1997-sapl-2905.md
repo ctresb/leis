@@ -1,0 +1,31 @@
+---
+titulo: "Decreto Legislativo nº 11, de 18 de dezembro de 1997"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "11"
+data: "1997-12-18"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/2905"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1997/2905/decreto_11-_1997.pdf"
+sha256_fonte: "1b9de86adaefc7240a079b0929e487a4201f6dcb27003846bef12ce354daeec5"
+sha256_texto: "11e38009d975c2ffc89abb2ec1c87803d8877cf046549011a1ae17012ce6214e"
+baixado_em: "2026-10-21"
+---
+
+# Decreto Legislativo nº 11, de 18 de dezembro de 1997
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Câmara de Vereadores de Ivaiporã ESTADO DO PARANÁ GABINETE DA PRESIDENCIA
+
+DECRETO LEGISLATIVO N° 11/97 EMENTA: CONCEDE TITULO DE CIDADÃO HONORARIO AO DR. CANDIDO MANUEL MARTINS DE OLI VEIRA A CAMARA MUNICIPAL DE IVAIPORA, ESTADO DO PARANA, APROVOU E EU PRESIDEN- TE PROMULGO O PRESENTE
+
+DECRETO LEGISLATIVO:
+
+ART. 1° - CONCEDE AO DR. CÂNDIDO MANUEL MARTINS DE OLIVEIRA, NOS TERMOS DO ARTIGO 19, INCISO XXIII DA LEI ORGÂNICA DO MUNICÍPIO, COMBINADO COM O ARTIGO 68, PARÁGRAFO 2°, INCISO XXIII DO REGIMENTO INTERNO, O TÍTULO DE CIDADÃO HONORÁ- RIO DE IVAIPORA,
+
+ART. 2° - O PRESENTE DECRETO LEGISLATIVO ENTRA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, REVOGADAS AS DISPOSIÇÕES EM CONTRÁRIO, GABINETE DA PRESIDÊNCIA DA CAMARA MUNICIPAL DE IVAIPORA, AOS DEZOITO DIAS DO MES DE DEZEMBRO DO ANO DE MIL NOVECENTOS E NOVENTA E SETE. ROBERTO BALBINO DA SILVA PRES XTE DE ANTÔNIO VILA REAL 1° SECRETARIO
+

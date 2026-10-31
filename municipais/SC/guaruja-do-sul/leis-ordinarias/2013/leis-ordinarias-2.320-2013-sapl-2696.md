@@ -1,0 +1,156 @@
+---
+titulo: "Lei Ordinária nº 2.320, de 11 de dezembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.320"
+data: "2013-12-11"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/2696"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/437/text"
+sha256_fonte: "ea161cfc7688f8e65ef5d5d8e30ceb2828fcd7fdd211c174e8e698c7695957f6"
+sha256_texto: "60edebad4f4152d1fe5eff52fe43c7decf83329c1ec0f180a1d93bffbb2b5224"
+capturado_em_fonte: "2026-10-28T13:58:20.951253-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.320, de 11 de dezembro de 2013
+
+AUTORIZA A TRANSFERÊNCIA DE RECURSOS FINANCEIROS À ASSOCIAÇÃO BENEFICENTE HOSPITALAR GUARUJÁ, E CONTÉM OUTRAS PROVIDÊNCIAS.
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, em nome do Município de Guarujá do Sul, Estado de Santa Catarina, autorizado a transferir à ASSOCIAÇÃO BENEFICENTE HOSPITALAR GUARUJÁ, com o nº de inscrição 83.835.736/0001-07 no Cadastro Nacional de Pessoa Jurídica, IE sob nº 250.287.579, com sede a Rua Presidente Kennedy, nº 270, neste, a importância de até R$ 28.000,00 (vinte e oito mil reais), destinados à manutenção, coordenação e desenvolvimento de suas atividades estatutárias.
+
+
+Art. 2º.
+
+Os recursos serão repassados no mês de dezembro de 2013, conforme a necessidade da Associação e a disponibilidade e fluxo de caixa do Município.
+
+
+Parágrafo único
+
+É obrigatório o depósito dos recursos em conta individualizada e vinculada em instituição bancária Oficial, movimentado por cheques nominais e individuais por credor.
+
+
+Art. 3º.
+
+A associação terá o prazo de 30 (trinta) dias a contar da data do recebimento de cada repasse, para proceder à boa e regular aplicação e comprovação do mesmo, junto a Contadoria Geral do Município.
+
+
+Art. 4º.
+
+A não obediência das finalidades e prazos estabelecidos nesta Lei acarretará no bloqueio ou cancelamento da parcela subsequente, bem como a devolução integral dos valores, atualizados monetariamente pelo IGPM.
+
+
+Art. 5º.
+
+As despesas impugnadas pela Contadoria Geral do Município à luz da legislação vigente, serão atualizadas monetariamente e devolvidas à municipalidade.
+
+
+Art. 6º.
+
+Os saldos não aplicados nos prazos previstos na presente Lei, serão também obrigatoriamente recolhidos à conta do Erário Público Municipal.
+
+
+Art. 7º.
+
+São responsáveis pela aplicação dos recursos transferidos o Ordenador Primário (Presidente) e o Ordenador Secundário (Tesoureiro).
+
+
+Art. 8º.
+
+A prestação de conta dos recursos recebidos será apresentada ao Executivo Municipal, em via e nos prazos previstos nesta Lei, instruídas com os seguintes documentos:
+
+
+I –
+
+ofício de encaminhamento a prestação de contas;
+
+
+II –
+
+balancete Modelo conforme padrão;
+
+
+III –
+
+extrato bancário de conta especial e conciliação do saldo se for o caso;
+
+
+IV –
+
+fotocópia dos documentos suportes de despesas bem legíveis e sem rasuras e/ou entrelinhas;
+
+
+V –
+
+declaração de lançamento contábil ratificando o ingresso dos valores na Receita Orçamentária da Entidade.
+
+
+Parágrafo único
+
+A prestação de contas e demais documentos que comprovarem a boa e regular aplicação do recurso deverão obrigatoriamente ser assinados pelos Ordenadores Primário e Secundário.
+
+
+Art. 9º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a regulamentar por ato próprio se necessário for, o processo de aplicação e tomada de contas dos recursos transferidos, visando a averiguação do emprego do dinheiro público.
+
+
+Art. 10.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a cessar a transferência dos recursos a qualquer tempo.
+
+
+Art. 11.
+
+As despesas decorrentes com a presente Lei, correrão por conta dos itens cabíveis na dotação orçamentária do Orçamento Municipal do Fundo Municipal de Saúde, conforme segue:  
+  
+11 - FUNDO MUNICIPAL DE SAÚDE  
+01 - Departamento Administrativo de Saúde  
+1101.10.301.0010.2.042 - Manutenção do Departamento Administrativo de Saúde  
+(05) 3.3.50.43.00.00.00.00.0002 - Subvenções Sociais.................................R$ 28.000,00
+
+
+Art. 12.
+
+Para dar cobertura parcial do crédito acima descrito, ficará reduzido do orçamento vigente do Fundo Municipal de Saúde as seguintes rubricas orçamentárias:  
+  
+11 - FUNDO MUNICIPAL DE SAÚDE  
+02 - SECRETARIA ADJUNTA  
+1102.10.301.0010.2.068 - Manutenção da Secretaria Adjunta  
+(17) 3.1.90.11.00. - 0002 - Vento e Vantagens Fixas - Pessoa Civil.....R$ 2.000,00  
+(19) 3.3.90.30.00. - 0002 - Material de Consumo.......................................R$ 500,00  
+(20) 3.3.90.39.00. - 0002 - Outros Serviços de Terceiros Pessoa Jurídica R$ 500,00  
+  
+11 - FUNDO MUNICIPAL DE SAÚDE  
+04 - COORDENAÇÃO DE PROGRAMAS  
+1104. 10.301.0010.2.046 - Manutenção da Farmácia Básica  
+(40) 3.3.90.30.00 - 0002 - Material de Consumo..................R$ 11.000,00
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, SC, em  
+11 de Dezembro de 2013
+
+José Carlos Foiatto
+
+Prefeito Municipal
+
+Certificamos que a presente Lei foi publicada e registrada nesta Secretaria em data supra.
+
+Cláudio Inácio Weschenfelder
+
+Secretária Administração e Fazenda
+

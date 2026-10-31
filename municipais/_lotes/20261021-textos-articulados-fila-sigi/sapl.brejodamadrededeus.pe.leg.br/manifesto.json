@@ -1,0 +1,42 @@
+{
+  "host": "sapl.brejodamadrededeus.pe.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brejodamadrededeus.pe.leg.br/26b57996c448515ce730eeddff8096244c1a380376b0b4ee6d1035f859775cac.json",
+    "url": "https://sapl.brejodamadrededeus.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.brejodamadrededeus.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T19:39:27.404669-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brejodamadrededeus.pe.leg.br/6dc4a656d04c349bbf79cf5dcee2454d83132f3bfb982331aeb599da8e91d175.json",
+    "url": "https://sapl.brejodamadrededeus.pe.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.brejodamadrededeus.pe.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d0551c8122a720c3519b0c9814e87365bdbb22b267ef4c0c3bd12932ed7bdd42",
+    "bytes": 820,
+    "capturado_em": "2026-10-27T19:39:26.354026-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brejodamadrededeus.pe.leg.br/810a886c920ae06d6d173cd2ce3d5688e9abe08efb6c8e78ae0f9fd9e45dc741.json",
+      "url": "https://sapl.brejodamadrededeus.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.brejodamadrededeus.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T19:39:29.393067-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

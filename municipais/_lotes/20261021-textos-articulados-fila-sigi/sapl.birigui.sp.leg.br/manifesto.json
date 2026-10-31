@@ -1,0 +1,392 @@
+{
+  "host": "sapl.birigui.sp.leg.br",
+  "metadados_unicos_observados": 3578,
+  "total_api_declarado": 3578,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 3346,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/ef11e544664bd8e8b1512a3bac56ae22556012c737935b4ba7cbdc999b3d0030.json",
+    "url": "https://sapl.birigui.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0412f40f954dac1acf64a7efce2e1dc3e0b3033c69e776e404c2cc8f364a783c",
+    "bytes": 3727,
+    "capturado_em": "2026-10-27T17:41:50.169073-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/07558265d32d7a884aa0eb21db3b662b935c373537409deeed1db77e1275c23d.json",
+    "url": "https://sapl.birigui.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.birigui.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0ce19ed909fcb5a44e8ed16ad0d0097adfbe376da766b16c889f43f62c204b40",
+    "bytes": 783,
+    "capturado_em": "2026-10-27T17:41:49.312667-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/e702b52dd90d220a8ec70f564a486e4876bf4d5ab2349c55c7c08c5f9a6e74a8.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "35784f481db624502ca7f90aaf1117f52fc75d5097c3e352f4891e48a22d4745",
+      "bytes": 67304,
+      "capturado_em": "2026-10-27T17:41:52.744213-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/8497163b354732f31c0c84351c30de7594b81819d68c9f19853bb3bd0e89dbc3.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1db7ed261cdeaf6f9e163f784690998916a5445163dad8cdfccada3477bde5eb",
+      "bytes": 62987,
+      "capturado_em": "2026-10-27T17:45:07.241897-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/f9aa830ad5b5f9652df2f729abfb0bc8f0bc8093332acdab8774ee3ad9c3aa2a.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6694a58054a608cd3e9a6b2e629f30643fa62abc72d433d573af180cbd2ad61c",
+      "bytes": 61218,
+      "capturado_em": "2026-10-27T17:48:23.119243-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/1748bfa9cdccbc1b394920b25fb4d60f4d323f28accec638ac6c197c9bbc987a.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "91308194ace5acfe3b25ff1530c038f5010319600dad68b9dc2426478c45e23d",
+      "bytes": 65467,
+      "capturado_em": "2026-10-27T17:51:38.428677-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/5d56ce48646a8cc70a9d6eabede54b17c04c4467fab1f96c89d114676171d2d9.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fdabfbab0cd302a8f6e49801652a04d3ff2c92ed688faf4f87b5c65b18f503f4",
+      "bytes": 64158,
+      "capturado_em": "2026-10-27T17:54:58.662877-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/8d9bd138e39e7ceec3d4546fb7310c3080e648aa99b938af0b5eae3ccd786067.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "565aaf0e26240c64dcebacd787669871a2802a4ee470be5106a9b21a9ef8f24f",
+      "bytes": 67154,
+      "capturado_em": "2026-10-27T17:58:17.944435-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/22aa5f3c6850f43d4b3767d2fcb8cadd73c69d623dceb885d73c0f5e57028c4c.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5ecfbad72f27e9515753b33b1cb90bc843c47567e8822ec292b77f74e145624f",
+      "bytes": 64728,
+      "capturado_em": "2026-10-27T18:01:37.376927-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/fbe5d048fa85ccf041e878cd7b100c7c983acf11b95fb66f20199fe253c389b2.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d43487fc3af625ed0e654a939c553ab205ed25e515e0a40bea479b78549400c3",
+      "bytes": 66802,
+      "capturado_em": "2026-10-27T18:04:59.129156-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/087e440e537421e02ce38a291789d8ed399930bbc30f7eb6d03f175714afd79e.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9f090c5721734a8f1629e0982548121d31a822652fe8018d12bf44094051f0ec",
+      "bytes": 67738,
+      "capturado_em": "2026-10-27T18:08:16.486760-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/4f4f1d17c3af42f032773838b4b6db1e2253fdf1d12a8c46b9d5f47c095da604.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "46c831d469e984d24507b222c7f7ae4fd1816737ccbc60e3aac298071be4c9a6",
+      "bytes": 67106,
+      "capturado_em": "2026-10-27T18:11:37.705460-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/1167f8e2efe3f96995e262bfcde4538ff218e3891c02b739e69efa60bc561837.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "efb2c215023cacaa109f5311fc988e230234e549167a1b7cb3fa6750f97bc4bb",
+      "bytes": 70303,
+      "capturado_em": "2026-10-27T18:14:58.729200-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/769b8bc110bbb857a8bba2c1239940fd22a82d4b86a30be7d37479eaa4db3196.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ef9e0c4917dd097fdd0ec8807aa3e5094252e487e82aae19a3ccee12166c56f3",
+      "bytes": 61306,
+      "capturado_em": "2026-10-27T18:18:25.943710-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/0be97bdc0d1674cadce1d84b8a260a9f412cc8df0783d0a5f53aaa8eb4544a6d.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "db64593d16df2d0ead739b74805f7cad1a8390af8e43f3a7ba046bf1a9fc808b",
+      "bytes": 60650,
+      "capturado_em": "2026-10-27T18:21:36.995088-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/ba38b02a37a46cd1e33dabb78b0bb960f14759770a714cb30da85b8870bd8601.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a1a0ed054161644fbce296c67056cdfe532795d41ad4e388e4b1b0a86e4adb05",
+      "bytes": 67114,
+      "capturado_em": "2026-10-27T18:24:42.787894-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/7c9f0a6ec841e426bbcbc9c322f46e0e5a529624e58c6d996b675d1963d2f203.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "657dd8745280d8b7efad77ff50ed4ba336ec85bc48490737fe86aec5ad529e22",
+      "bytes": 63365,
+      "capturado_em": "2026-10-27T18:27:31.134748-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/70d1230fd5d14163f417f3ab152060257ef384f141b0417fc6351502c5ab13b7.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8de5c22bc7664ee4d9f4fe79ad70f002dc6417d40e6201465e82a59c71df84bf",
+      "bytes": 61634,
+      "capturado_em": "2026-10-27T18:29:59.479373-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/40b386447381e72fe7ac1b26afa4e37781699523213c06a5a0adbcae06475958.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6602e9071405325a7a5284a7a65c1d93b8315479609647be3d2c0109aad2070c",
+      "bytes": 64693,
+      "capturado_em": "2026-10-27T18:33:11.479136-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/7e98465e71088d03821ce9bc9b09fbcda6fdfe7db0c6084ea5a715a329e42c40.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bbf20100e54547e7b2f71499c2a312d22dc81e91b374b3fcd523e94852c2b8b9",
+      "bytes": 65926,
+      "capturado_em": "2026-10-27T18:36:27.228928-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/fb1b7533a3c3f2dc9cadf9256e352bb44f9c2225b79d30948ec7c0bdc1362f8c.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "30cf75fd049ecd4d276dbaaf6292b4384c27892ced7fff26d5d63d3c0dbdb106",
+      "bytes": 64836,
+      "capturado_em": "2026-10-27T18:39:46.415480-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/ea473cd1f3bb8fcf3c33f22af13428ed719feabe7a8512c7380493e0233bd7f7.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b6cf70f909f04bfdc577b0c7672ee435cd5500dd9bdae271e3d60e3711582b91",
+      "bytes": 61832,
+      "capturado_em": "2026-10-27T18:43:07.672764-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/68490c909144d2d2b3a77c7ad84e7f6e377972099115f2b198279c194f6a0b22.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f3d47df0bea617e76c02a5a6cdceb81fc3598ffc5577fb39d8d7ceb168299362",
+      "bytes": 62129,
+      "capturado_em": "2026-10-27T18:46:29.059055-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/7c422c0c77772c87cf704f9dbd589f1c977bd60eff77ba901fee340715d4f902.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1bd04455daa5dcc3b3506ee8621a021b81f1554c6fabb2dfbb64ed6990380429",
+      "bytes": 60551,
+      "capturado_em": "2026-10-27T18:49:52.722794-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/21b6701b6a993634ce0a65aa07d0fe95bb5099ca6a347761f415a44fa48ca74d.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2b8042f785b3142faecefd5e9a12ab847b9de6c2ff3a8a7f64af4fae20ab455b",
+      "bytes": 60503,
+      "capturado_em": "2026-10-27T18:53:10.614972-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/cd0adf54004fcb55cc3b244038645bc573534644d0733bcc872a714b7e747ceb.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5be88a23d52877223c23f1d9cdd08900094f75c3471ca3cf8631416794e20e08",
+      "bytes": 60163,
+      "capturado_em": "2026-10-27T18:56:31.928172-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/7c609b6e8961ea9bb34e1803cb92e62fcd7afc4792bc05ea1b45e61bc02b0304.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2d1cdd2e651a6ee980c9a9c28d7c940e53ba6b73efd427ef847ab5bb8f4513ab",
+      "bytes": 58663,
+      "capturado_em": "2026-10-27T18:59:49.122380-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/0316644634bfbc9b83f5be9bc66b0fb69624ef570dd456af7ad8472885cc469e.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f2767200f574226a90f39b8258834259d719d6605ca4415549dcfc7ab64890d7",
+      "bytes": 59887,
+      "capturado_em": "2026-10-27T19:03:10.636986-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/dcfaa3f49c25cd6975b18c0f2b24618449806dc7a52b287282971a9fd1fbaa97.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "27d94f9115665ad7ad4f1137f73b7773d4892770a442fa1b8e773d96e1eeb5f9",
+      "bytes": 59605,
+      "capturado_em": "2026-10-27T19:06:34.070545-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/d380860c647773bd61902a8d82147e53ec9fb5283a9772f54475b62624ab4a58.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0125be24c0888142fb333a63817e1dcadc52b6055ba35bcb1d046535b12511d4",
+      "bytes": 61429,
+      "capturado_em": "2026-10-27T19:09:55.432493-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/1ca3d70d4055a157a612b35c476a94b83cfb5c3f66b26e20c09dc56a39fe9d96.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7880426b56e8a70cb9ac340c6577503fa55cc10e4bfeee4eb33c409b52f79e5d",
+      "bytes": 62381,
+      "capturado_em": "2026-10-27T19:13:19.999651-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/c06b746b6034f7ebf99a7f2f5d58626c54145b72944a0984c28b50150adf95db.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "db0a5296c6531df0c7561c3516845c2c0dcfd2c3726fdb10c14b19592fc604de",
+      "bytes": 63088,
+      "capturado_em": "2026-10-27T19:16:41.123577-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/855376b3035d590038d311f3aafe9436bc2bf6e0b6d7603bc4cd68dd97fd6a85.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b9e735b522e84b68c0168b929eaba1811ffcba864ce229bfc773e1ca1cb11163",
+      "bytes": 61018,
+      "capturado_em": "2026-10-27T19:20:02.759318-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/d1202f80091dab496475bf2762f94c502edc0518c5f074b85bef97d846daf067.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2596d23c5c07d618d6713d4e1fafcfd4010a82e6d8de967258b06aea2de50a6d",
+      "bytes": 60396,
+      "capturado_em": "2026-10-27T19:23:22.032056-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/56e7f6fed814a06094cef9a0e1c94378f99ae272a4af5a29a9797cd3c5cd9f82.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "76fe7b426aaf1df269f99071d715699a65aee8a50f3ce3a6d12b4d2ae79a8451",
+      "bytes": 61961,
+      "capturado_em": "2026-10-27T19:26:41.248893-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/b6c232b5e33b77654a1d5541a728f8d5d37aab50501dd7dee14f895a01edc5d8.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d92608f557bb4fc025c5d9730a595a2ecbae9d3d80e5e7f2711044cf24769a86",
+      "bytes": 60135,
+      "capturado_em": "2026-10-27T19:30:04.490542-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/84c220163e1fbbf3e153b40d2a2243ce07fa3a93e989993b9f5a68e441130f0e.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a685bd4ff9aa51bba4b6916568073813759ee45d7f8efb6a4068fb2abce25de9",
+      "bytes": 59583,
+      "capturado_em": "2026-10-27T19:33:26.805218-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/8da9683e79be8ea1e2acc0dfbaf606ad67332926a7475fce53144aefb647ab9c.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e90c993390eeb8592a92df34d5bdbdc0079117ddcca9cdc32476855c268c9bab",
+      "bytes": 44670,
+      "capturado_em": "2026-10-27T19:36:46.166237-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

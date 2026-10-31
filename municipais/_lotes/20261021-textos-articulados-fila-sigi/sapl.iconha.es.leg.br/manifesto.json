@@ -1,0 +1,72 @@
+{
+  "host": "sapl.iconha.es.leg.br",
+  "metadados_unicos_observados": 311,
+  "total_api_declarado": 311,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 265,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.iconha.es.leg.br/9cd1422aa57cc462b6f248d92f1c5b906a0cd82bb997f45b7381a6b210484b60.json",
+    "url": "https://sapl.iconha.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.iconha.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c73fd4b420c03333e1c4109b115bf4a6fbda5a636ad191fec9d9d22da255c97e",
+    "bytes": 959,
+    "capturado_em": "2026-10-28T14:06:28.204694-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.iconha.es.leg.br/72b78ba9b18efff6a9dc14223c3231ccf4284f6bbe3295893235b17928e74c6f.json",
+    "url": "https://sapl.iconha.es.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.iconha.es.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6f17ed94f0dc965a1017df57d9cc152f5c1e288be750606bcce9197567772a7a",
+    "bytes": 713,
+    "capturado_em": "2026-10-28T14:06:27.279151-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.iconha.es.leg.br/287f1deaa92b4b28dd728305214a0b9d918960676759b286ad2416616f37dbe8.json",
+      "url": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "580ab99b893867e6c5d198b52ea6368d65f6c4387b910d0c22fc12d3120ff304",
+      "bytes": 60674,
+      "capturado_em": "2026-10-28T14:06:29.719889-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.iconha.es.leg.br/fd1f7b492999b85621d747cfcf23b8e056f8cff4ae305f0171dbb0654a0f27c7.json",
+      "url": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "067a7b20f31f107f5690ef5bc5dec1d1607522b524bcf7042740003d8a23044d",
+      "bytes": 60476,
+      "capturado_em": "2026-10-28T14:09:19.094235-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.iconha.es.leg.br/bd36ee68b9c3947e60c17d321733d1713db0def5260e08f33b14a78fe83fc9ab.json",
+      "url": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "85e14d25c33b5c543e9e8bbf2c90bba34bcdc764bf95f01260f285f56e30ea96",
+      "bytes": 58592,
+      "capturado_em": "2026-10-28T14:12:14.484894-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.iconha.es.leg.br/8c9600f43fff328e78c2e223de69c7ef832922ecf26c0a8a357e84161c430b54.json",
+      "url": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.iconha.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4d38872f1fcc02c216f9cf2a8895cc76587012878d455fb158e8c7c8eb277586",
+      "bytes": 6537,
+      "capturado_em": "2026-10-28T14:15:17.080536-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

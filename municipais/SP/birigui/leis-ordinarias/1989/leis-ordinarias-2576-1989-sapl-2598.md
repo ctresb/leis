@@ -1,0 +1,188 @@
+---
+titulo: "Lei Ordinária nº 2.576, de 20 de abril de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2576"
+data: "1989-04-20"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/2598"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2317/text"
+sha256_fonte: "340e88e31f2ba5d84e237e6e02f17091a1cde1c2721f7fa92a25aef14137b8dd"
+sha256_texto: "1d260e11c08fb0cd9ecb026a34d6dc357b01e1d082e2d3ebab52c0b3e56386d8"
+capturado_em_fonte: "2026-10-27T18:30:34.612124-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.576, de 20 de abril de 1989
+
+DISPÕE SOBRE EMBARGOS, INTERDIÇÕES, DEMOLIÇÕES E CONCESSÃO DE ALVARÁ DE CONSERVAÇÃO A OBRAS DO MUNICÍPIO DE BIRIGUI.
+
+
+Eu, **PEDRO MARIN BERBEL**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Os embargos, as interdições e as demolições de obras concluídas ou em execução e a concessão de Alvará de Conservação para prédios concluídos, reger-se-ão, no Município de Birigui, pelas disposições abaixo.
+
+
+DOS EMBARGOS
+
+
+Art. 2º.
+
+As obras em andamento, sejam elas de reparos, reconstrução, construção ou reforma, serão embargadas, quando:
+
+
+I –
+
+estiverem sendo executadas sem o Alvará de Licenciamento;
+
+
+II –
+
+for desrespeitado o respectivo projeto em qualquer de seus elementos essenciais, deixando de atender integralmente as disposições contidas no Código de Obras adotado pela Prefeitura e legislação complementar;
+
+
+III –
+
+não forem observadas as indicações de alinhamento ou nivelamento, fornecidas pelo departamento competente;
+
+
+IV –
+
+estiver em risco sua estabilidade, com perigo para o público ou para os executados dos trabalhos.
+
+
+§ 1º
+
+Os proprietários de obras iniciadas e não concluídas anteriormente à vigência da presente lei, terão o prazo de 30 (trinta) dias para protocolarem os respectivos projetos junto à Prefeitura, objetivando a obtenção do competente Alvará de Licenciamento.
+
+
+§ 2º
+
+O Departamento Competente da Prefeitura expedirá o Alvará de Licenciamento, após verificação de preenchimento de todos os requisitos consubstanciados no Código de Obras adotado, dentro de no máximo 15 (quinze) dias, contados da data do protocolo de entrada dos projetos na Prefeitura.
+
+
+Art. 3º.
+
+O desrespeito ao embargo importará, independentemente de outras penalidades, na aplicação de multa correspondente a 50% (cinquenta por cento) do MVR – Maior Valor de Referência, por dia do prosseguimento da obra.
+
+
+Parágrafo único
+
+Poderão ser determinadas, concomitantemente, com a imposição da multa, a interdição da obra ou a sua demolição.
+
+
+Art. 4º.
+
+O Encarregado da Fiscalização embargará as obras em andamento, na hipótese de ocorrências dos casos do artigo 2º, mediante **TERMO DE EMBARGO**, no qual fará constar as providências exigíveis para o prosseguimento das mesmas, mencionando o prazo para serem corrigidas as irregularidades.
+
+
+Art. 5º.
+
+O Termo de Embargo será apresentado ao Responsável Técnico pela obra ou, na sua falta, ao proprietário, para que dele tome conhecimento.
+
+
+Art. 6º.
+
+O embargo só será levantado após o cumprimento das exigências consignadas no respectivo termo.
+
+
+DA INTERDIÇÃO
+
+
+Art. 7º.
+
+Qualquer prédio ou dependência do mesmo poderá ser interditado a qualquer tempo, com impedimento de sua ocupação, quando oferecer iminente perigo de caráter público.
+
+
+Art. 8º.
+
+A interdição prevista no artigo anterior será imposta por escrito, após visória efetuada pelo departamento Competente da Prefeitura, com a devida expedição de Laudo Técnico comprobatório do iminente perigo.
+
+
+Art. 9º.
+
+A situação de interdição será levantada após o cumprimento das exigências constantes do Laudo Técnico.
+
+
+DA DEMOLIÇÃO
+
+
+Art. 10.
+
+A demolição total ou parcial de prédio ou dependências, já executados ou em execução, será imposta quando o proprietário da obra interditada nos termos do artigo 7º, não tomar as providências exigidas no sentido de restabelecer a regularidade habitacional, ou de segurança do prédio, dentro do prazo que lhe foi concedido pelo Departamento Competente da Prefeitura, quando da expedição do respectivo Laudo Técnico de Vistoria.
+
+
+Parágrafo único
+
+Todos os custos decorrentes da aplicação da penalidade imposta neste artigo, correrão por conta do proprietário, inclusive quando a Prefeitura Municipal, por si ou por terceiros contratados, executar a demolição.
+
+
+DA CONCESSÃO DO ALVARÁ DE CONSERVAÇÃO
+
+
+Art. 11.
+
+Todas as construções concluídas anteriormente à vigência desta lei, quando executadas sem licença ou em desacordo com o projeto aprovado, embora não atendendo integralmente as disposições técnicas do Código de Obras adotado a legislação complementar, poderão obter Alvará de Conservação, se apresentarem, a juízo da Prefeitura, condições mínimas de habitabilidade, higiene e segurança, e após o pagamento das taxas devidas pela construção irregular.
+
+
+Art. 12.
+
+Para os efeitos previstos no *caput* do artigo anterior, os interessados deverão apresentar requerimento à Prefeitura, até o dia 31 (trinta e um) de outubro de 1989 (mil novecentos e oitenta e nove), acompanhado de projeto de edificação e prova documental que demonstre a conclusão da obra em data anterior à vigência desta lei.
+
+
+§ 1º
+
+Os imóveis cujos pedidos de conservação foram protocolados na Prefeitura até a data prevista neste artigo, enquanto não receberem despachos decisórios, ficam excluídos do acréscimo a que se refere o artigo 14.
+
+
+§ 2º
+
+A apresentação do projeto de edificações e a prova documental referidos no *caput* deste artigo, serão regulamentadas por Decreto do Executivo, dentro de 10 (dez) dias, a contar da data da vigência da presente lei.
+
+
+Art. 13.
+
+A expedição do Alvará de Conservação de que trata o artigo 11, fica sempre condicionada ao prévio pagamento das taxas devidas relativamente a construções irregulares, salvo no caso de moradias econômicas até 60m² (sessenta metros quadrados), que estarão isentas de qualquer pagamento.
+
+
+Art. 14.
+
+O lançamento do Imposto sobre a Propriedade Predial Urbana será efetuado ou revisto de ofício, com o acréscimo de 100% (cem por cento) para os imóveis cujos proprietários não providenciarem, dentro do prazo previsto no artigo 12, a obtenção dos respectivos Alvarás de Conservação, salvo as moradias econômicas de até 60m² (sessenta metros quadrados).
+
+
+Parágrafo único
+
+A aplicação do acréscimo de que trata este artigo vigorará até o exercício no qual o sujeito passivo satisfazer as exigências que regulam a matéria.
+
+
+Art. 15.
+
+Para a execução de embargos, interdições ou demolições, poderá o Poder Público Municipal requisitar a força policial que garanta a observância dos preceitos estabelecidos nesta lei.
+
+
+Art. 16.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, notadamente as da Lei nº 1.644, de 5 de outubro de 1976.
+
+
+Prefeitura Municipal de Birigui, aos vinte de abril de mil novecentos e oitenta e nove.
+
+**PEDRO MARIN BERBEL Prefeito Municipal**
+
+**ENGº FERNÃO DA SILVA NUNES Diretor do Departamento de Obras Públicas Municipais**
+
+Publicada na Divisão de Expediente da Prefeitura Municipal de Birigui, aos vinte de abril de mil novecentos e oitenta e nove, e por Edital, afixado no local de costume.
+
+**EURICO POMPEU SOBRINHO Chefe Substituto da Divisão de Expediente**
+

@@ -1,0 +1,2995 @@
+---
+titulo: "Lei Ordinária-PEX nº 1.506, de 29 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1506"
+data: "2025-12-29"
+municipio: "Cabixi"
+uf: "RO"
+codigo_ibge: "1100031"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.cabixi.ro.leg.br/norma/136"
+fonte_texto: "https://sapl.cabixi.ro.leg.br/media/sapl/public/normajuridica/2025/136/lei_1506-2025_-_loa.pdf"
+sha256_fonte: "9ec5e40a8345308c193036d0c910fa192612ad25ced36008c66b1e5dc197b9c2"
+sha256_texto: "9901f8b4f99ec6ebe555adfc8d07a997231836a15da2e8831b2c05a97113c450"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária-PEX nº 1.506, de 29 de dezembro de 2025
+
+ESTADO DE RONDÔNIA PREFEITURA MUNICIPAL DECABIXI PODEREXECUTIVO
+
+LEI Nº 1.506, DE 29 DE DEZEMBRO DE 2025.
+
+DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+O PREFEITO DO MUNICÍPIO DE CABIXI, Estado de Rondônia, no uso de suas atribuições legais, faz saber que a CÂMARA MUNICIPAL aprovou e ele sanciona e promulga a seguinte
+
+LEI:
+
+**Art. 1º** - O Orçamento Anual do Município de Cabixi, Estado de Rondônia, para o exercício financeiro de 2026, discriminado pelos anexos integrantes desta lei, estima a receita em R$ 59.801.630,00 (CINQUENTA E NOVE MILHÕES OITOCENTOS E UM MIL SEISCENTOS E TRINTA REAIS) e, fixa a despesa, em igual importância.
+
+**Art. 2º** - A receita será realizada mediante a arrecadação de tributos, desdobrada em receitas correntes e de capital, na forma da legislação em vigor e das especificações do anexo 02 da Lei Federal nº 4.320/64 (quadro demonstrativo da receita por fontes), com o seguinte desdobramento:
+
+ReceitasCorrentes 62.980.420,05 Receitas de Impostos, Taxas e Contribuições de Melhoria 4.301.396,21 Receita de Contribuições 498.125,41 Receita Patrimonial 179.020,26 Transferências Correntes 57.725.526,35 Outras Receitas Correntes 276.351,82 Receitas de Capital 3.852.000,00 Alienação de Bens Móveis e Semoventes 100.000,00 Transferências de Capital 3.752.000,00 (-) Dedução para formação do FUNDEB 7.030.790,05 TOTAL.............................................................................. 59.801.630,00
+
+**Art. 3º** A despesa será realizada segundo discriminação dos quadros “Programa de Trabalho” (Adendo V à Portaria SOF nº 08 de 04.02.85 com alterações introduzidas pelo anexo II da Portaria Interministerial STN/SOF n º 163, de 04.05.01 que apresentam o seguinte desdobramento sintético:
+
+ID: 282783 e CRC: 98610649
+
+ESTADO DE RONDÔNIA PREFEITURA MUNICIPAL DECABIXI PODEREXECUTIVO
+
+1 – POR FUNÇÕES DEGOVERNO
+
+01 - Legislativa 3.288.000,00 04 - Administração 10.960.490,00 08 - Assistência Social 2.849.361,39 10 - Saúde 16.460.675,82 12 - Educação 14.777.709,95 13 - Cultura 100.000,00 15 - Urbanismo 3.003.038,17 17 - Saneamento 530.000,00 18 – Gestão Ambiental 21.000,00 20 - Agricultura 2.403.256,10 26 - Transporte 4.508.970,52 27 – Desporto e Lazer 489.128,05 28 – Encargos Especiais 10.000,00 99 – Reserva de Contingência 400.000,00 TOTAL............................................................................. 59.801.630,00
+
+2 – POR CATEGORIASECONÔMICAS
+
+3.0.0.0 - DespesasCorrentes 53.616.014,16 4.0.0.0 - Despesas de Capital 5.785.615,84 9.9.0.0 - Reserva de Contingência 400.000,00 TOTAL.............................................................................. 59.801.630,00
+
+3 – POR ÓRGÃO DA ADMINISTRAÇÃO
+
+3.1 - PODER LEGISLATIVO 0100 - Câmara Municipal 3.288.000,00 3.2 – PODER EXECUTIVO 0200 - Gabinete do Prefeito 3.138.950,00 0300 - Secretaria Municipal de Administração e Fazenda 4.044.640,00 0400 – Sec. Mun. de Educação, Cultura, Esporte e Turismo 15.366.838,00 0500 - Secretaria Municipal de Saúde 16.460.675,82 0600 - Secretaria Municipal de Assistência Social 2.849.361,39
+
+ID: 282783 e CRC: 98610649
+
+ESTADO DE RONDÔNIA PREFEITURA MUNICIPAL DECABIXI PODEREXECUTIVO 0700 - Secretaria Municipal de Agricultura e Pecuária 2.403.256,10 0800 – Secretaria Municipal de Obras e Serviços Públicos 12.249.908,69 TOTAL......................................................................... 59.801.630,00
+
+**Art. 4º** - Fica o Poder Executivo, no decorrer do exercício de 2026, por ato próprio, na forma de decreto municipal, autorizado a abrir créditos adicionais suplementares até o limite de 10% (dez por cento) do total da receita estimada, utilizando-se como recurso os definidos no Art. 43 da Lei Federal 4.320/64.
+
+Parágrafo Único – Para a abertura de crédito adicional especial por ocasião de recebimento de recursos voluntários da União ou do Estado, somente com autorização legislativa, através de lei específica.
+
+Art. 5º- O Poder Executivo está autorizado a efetuar as alterações por ocasião de créditos adicionais suplementares ou especiais no Plano Plurianual e na
+
+Lei de Diretrizes Orçamentárias, no decorrer do exercício de 2026.
+
+**Art. 6º** - Esta Lei entrará em vigor na data de sua publicação, gerando seus efeitos a partir do dia 1º de janeiro de 2026.
+
+**Art. 7º** - Revogam-se as disposições em contrário.
+
+Cabixi/RO, 29 de dezembro de 2025.
+
+SILVANO ASCARI DE ALMEIDA Prefeito Municipal
+
+ID: 282783 e CRC: 98610649
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+Lei 1506 29/12/2025
+
+ID: 282783 Processo Documento
+
+CRC: 98610649 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:06:47 Finalização: 29/12/2025 10:36:53
+
+MD5: F3A9F23564152DD7543FC6422C55C82F SHA256: 9E37FF16367FE2D6D8E9CAAEEDFAFC63E9A8CF69D978892F9D12BC7EAF4BB9D7
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:08:51
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:09:31
+
+## ANEXOS
+
+ANEXO Relação de Projetos 29/12/2025 282790
+
+ANEXO Relação de Atividades 29/12/2025 282791
+
+ANEXO Evolução da Receita 29/12/2025 282793
+
+ANEXO Evolução da Despesa 29/12/2025 282795
+
+ANEXO Demonstrativo da Receita e Despesa por Categ Econ 29/12/2025 282802
+
+ANEXO Previsão da Receita 29/12/2025 282805
+
+ANEXO RCL - Gasto com Pessoal 29/12/2025 282811
+
+ANEXO Consolidação Geral da Despesa 29/12/2025 282813
+
+ANEXO Natureza da Despesa por Órgão 29/12/2025 282814
+
+ANEXO Natureza da despesa por Órgão e Un 29/12/2025 282818
+
+ANEXO Demonst da Despesa por Órgãos e Funções de Governo 29/12/2025 282822
+
+ANEXO Programa de Trabalho 29/12/2025 282827
+
+ANEXO Programa de Trabalho de Governo 29/12/2025 282828
+
+ANEXO Despesa por Função-Subfunção e Programas 29/12/2025 282829
+
+ANEXO Receita e Despesa por Código de Aplicação 29/12/2025 282831
+
+ANEXO Consolidação da Despesa 29/12/2025 282835
+
+ANEXO Quadro Detalhamento da Despesa - QDD 29/12/2025 282838
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:40
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282783 e o CRC 98610649.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 2.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026
+
+Página 1 TABELA EXPLICATIVA - RELAÇÃO DE PROJETOS
+
+Código Discriminação Valor 1001 Reforma e Ampliação de Unidades Escolares - contrapartida 25.000,00 1002 Aquisição de Veículo Adequado ao Transporte Escolar - contrapartida 20.000,00 1003 Aquisição de Equipamentos para Atenção Básica de Saúde 20.000,00 1004 Construção, Reforma e Ampliação de Unidades Básicas de Saúde 50.000,00 1005 Aquisição de Medicamentos para Atenção Básica de Saúde 25.000,00 1006 Melhoria no Sistema de Transporte de Pacientes 10.000,00 1007 Modernização dos Equipamentos Hospitalares 32.628,05 1008 Ampliação e Reforma do HPP - Contrapartida 15.000,00 1009 Aquisição de Medicamento Hospitalar 200.000,00 1010 Ampliação do Centro de Convivência do Idoso 2.000,00 1011 Contrapartida a Convênios Celebrados com o Estado e a União 2.000,00 1012 Construção de Unidades Habitacionais para Famílias de Baixa Renda - Contrapartida 20.000,00 1013 Estruturação Proteção Social Básica 1.000,00 1014 Realização de Concurso Leiteiro 96.000,00 1015 Convênios Celebrados com o Estado e a União - Contrapartida 20.000,00 1016 Reforma e Readequação do Prédio da Prefeitura 10.000,00 1017 Regularização Fundiária Urbana 50.000,00 1018 Pavimentação Asfáltica Urbana 20.000,00 1019 Construção de Calçamento Público 130.000,00 1020 Recapeamento Asfáltico Urbano 161.912,76 1021 Infraestrutura Urbana e Equipamentos - Transferência Especial 1.500.000,00 1022 Construção e Reforma de Pontes e Bueiros 105.000,00 1023 Aquisição de Veículos e Equipamentos Rodoviários 826.723,34 1024 Recuperação de Estradas Vicinais - Convênio Fitha 715.000,00 1025 Infraestrutura Rural e Equipamentos - Convênio Estadual 1.336.575,00 Total 5.393.839,15
+
+ID: 282790 e CRC: 84EF4491
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Relação de Projetos 29/12/2025
+
+ID: 282790 Processo Documento
+
+CRC: 84EF4491 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:11:18 Finalização: 29/12/2025 10:11:38
+
+MD5: CDA1077E9BF7D8FFCB83A1769044C425 SHA256: 48F3396F6AEBF5B40D5FD5E0257E85B27A4A1B3696BB1A6A608F57C3809198E5
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:11:18
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:11:18
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:40
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282790 e o CRC 84EF4491.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026
+
+Página 1 TABELA EXPLICATIVA - RELAÇÃO DE ATIVIDADES
+
+Código Discriminação Valor
+
+2001 Manutenção das Atividades Legislativas 3.288.000,00 2002 Manutenção das Atividades do Gabinete do Prefeito 2.562.200,00 2003 Ações Alusivas ao Aniversário do Municipio, Decorações Natalinas, Comemorativas e 170.000,00 Cerimonial 2004 Manutenção do Conselho Tutelar 406.750,00 2005 Manutenção das Atividades da Secretaria Municipal de Administração e Fazenda 2.877.000,00 2006 Ações Decorrentes de Concurso Público Municipal 100.000,00 2007 Manutenção das Atividades da Coordenadoria Municipal de Planejamento 657.640,00 2008 Manutenção das Atividades da SEMEC 3.901.527,08 2009 Transporte de Estudantes da Zona Rural 411.000,00 2010 Apoio ao Programa Nacional de Alimentação Escolar - PNAE 40.000,00 2011 Quota Salário Educação 450.000,00 2012 Apoio ao Programa Nacional de Transporte Escolar - PNATE 25.000,00 2013 Manutenção do Transporte Escolar - Programa IR e VIR 2.400.000,00 2014 Ações do Ensino Fundamental e Básico - FUNDEB 70% 5.846.857,00 2015 Ações do Ensino Fundamental e Básico - FUNDEB 30% 13.813,87 2016 Apoio as Ações do Ensino Infantil 1.090.862,00 2017 Transporte de Estudantes do Ensino Superior 553.650,00 2018 Apoio às Ações Culturais 100.000,00 2019 Apoio às Açoes Esportivas 313.128,05 2020 Incentivo ao Turismo 176.000,00 2021 Manutenção do Fundo Municipal de Saúde 11.179.098,17 2022 Manutenção do Conselho Municipal de Saude 52.000,00 2023 Manutenção da Casa de Apoio a Pacientes em Tratamento em Porto Velho 230.000,00 2024 Complementação ao Pagamento do Piso da Enfermagem - Atenção Básica 45.000,00 2025 Incentivo Financeiro da APS - Equipes Saúde da Família 540.570,60 2026 Incentivo Financeiro da APS - Saúde Bucal 115.844,87 2027 Piso da Atenção Primária a Saúde - PAP 1.200.000,00 2028 Incremento Temporário Custeio Serviços de Atenção Primária em Saúde 463.263,98 2029 Incentivo Financeiro da APS - Componente Per Capita de Base Populacional 33.852,00 2030 Apoio ao Programa de Agentes Comunitários de Saúde - PACS 685.677,05 2031 Complementação ao Pagamento do Piso da Enfermagem Hospitalar 507.000,00 2032 Atendimento Hospitalar e Ambulatorial de Média e Alta Complexidade - MAC 660.968,73 2033 Ações de Combate a Endemias 98.951,00 2034 Apoio as Ações de Vigilância em Saúde 65.480,00 2035 Apoio às Ações de Vigilância Sanitária 15.000,00 2036 Assistência Farmacêutica e Insumos da Atenção Básica 215.341,37 2037 Manutenção da Casa de Acolhimento 53.100,00 2038 Ações do Centro Municipal Recanto Feliz - CEMURF 87.100,00 2039 Manutenção do Fundo Municipal de Assistência Social 1.981.280,25 2040 Benefícios Eventuais a Famílias com Renda até 1/4 Salário Mínimo Federal 59.000,00 2041 Bloco de Financiamento da Proteção Social Básica 120.181,14 2042 Bloco de Financiamento da Gestão do Bolsa Família e Cadastro Único 35.600,00 2043 Bloco de Financiamento da Gestão do SUAS 17.100,00 2044 Capacitação, Qualificação e Nivelamento dos Agentes do SUAS 13.000,00 2045 Piso Fixo Proteção Social Básica PFB - Repasse FEAS 165.500,00 2046 Apoio ao Programa Mamãe Cheguei 9.500,00 2047 Piso Fixo Proteção Social Especial PSE - Repasse FEAS 117.000,00 2048 Benefícios Eventuais - Repasse FEAS 20.000,00 2049 Piso Variável - Repasse FEAS 33.000,00 2050 Ações do PROCAD SUAS 25.000,00 2051 Fortalecimento do Controle Social - CMAS 10.000,00 2052 Piso Fixo à Parceria Público Privado - Repasse FEAS 50.000,00 2053 Manutenção do Fundo Municipal dos Direitos da Criança e do Adolescente 28.000,00 2054 Manutenção das Atividades da SEMAP 1.215.000,00 2055 Apoio à Produção Agrícola, à Pecuária e à Piscicultura 992.256,10 2056 Manutenção dos Serviços de Inspeção Municipal - SIM 60.000,00 2057 Ações do Programa de Aquisição de Alimentos - PAA 20.000,00 2058 Manutenção das Atividades da Secretaria Municipal de Obras e Serviços Públicos 4.176.900,00
+
+ID: 282791 e CRC: 8A49DDF4
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026
+
+Página 2 TABELA EXPLICATIVA - RELAÇÃO DE ATIVIDADES
+
+Código Discriminação Valor
+
+2059 Conservação de Vias Públicas Urbanas 170.000,00 2060 Manutenção da Iluminação Pública 918.125,41 2061 Manutenção do Consórcio Intermunicipal para Resíduos Sólidos 53.000,00 2062 Manutenção do Transporte e Disposição Final dos Resíduos Sólidos Urbanos 500.000,00 2063 Manutenção e Melhoria do Sistema de Abastecimento de Água para os Distritos 30.000,00 2064 Conservação de Estradas Vicinais 1.525.672,18 2065 Ações de Educação e Preservação Ambiental 21.000,00 Total 53.997.790,85
+
+ID: 282791 e CRC: 8A49DDF4
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Relação de Atividades 29/12/2025
+
+ID: 282791 Processo Documento
+
+CRC: 8A49DDF4 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:12:15 Finalização: 29/12/2025 10:12:38
+
+MD5: 95B0260D838E540FE6D01B36DA84FAED SHA256: 893B7CB372A553E93D8015FE517B0101D0BA4C530E3552D1B94F0BB790458812
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:12:15
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:12:15
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:41
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282791 e o CRC 8A49DDF4.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 EVOLUÇÃO DA RECEITA Page 1 (Inc.III, Art.22º)
+
+Codigo Discriminação Receita Arrecadada Receita Prevista
+
+2022 2023 2024 2025 2026
+
+1000.00.0.0 RECEITAS CORRENTES. 1100.00.0.0 IMPOSTOS, TAXAS E CONTRIBUIÇÕES DE MELHORIA2.771.245,29 2.764.856,06 2.951.623,60 4.285.164,74 4.301.396,21 1200.00.0.0 CONTRIBUIÇÕES 246.943,21 278.109,26 341.123,96 360.000,00 498.125,41 1300.00.0.0 RECEITA PATRIMONIAL 1.801.838,22 2.096.185,38 1.876.284,86 774.114,84 173.672,39 1600.00.0.0 RECEITA DE SERVIÇOS 1700.00.0.0 TRANSFERÊNCIAS CORRENTES 36.188.667,09 39.371.376,75 45.925.110,91 49.852.494,27 57.730.874,22 1900.00.0.0 OUTRAS RECEITAS CORRENTES 129.450,80 149.839,39 249.877,34 243.114,27 276.351,82 Sub Total 41.138.144,61 44.660.366,84 51.344.020,67 55.514.888,12 62.980.420,05
+
+2000.00.0.0 RECEITAS DE CAPITAL 2200.00.0.0 ALIENAÇÃO DE BENS 736.330,00 287.291,64 100.000,00 100.000,00 2400.00.0.0 TRANSFERÊNCIAS DE CAPITAL 6.565.432,22 3.698.686,25 5.500.000,00 3.650.000,00 3.752.000,00 2900.00.0.0 OUTRAS RECEITAS DE CAPITAL Sub Total 7.301.762,22 3.985.977,89 5.500.000,00 3.750.000,00 3.852.000,00
+
+7000.00.0.0 RECEITAS CORRENTES. (INTRA) 7200.00.0.0 CONTRIBUIÇÕES (INTRA) 7900.00.0.0 OUTRAS RECEITAS CORRENTES – INTRA OFSS Sub Total 0,00 0,00 0,00 0,00 0,00
+
+8000.00.0.0 RECEITAS DE CAPITAL Sub Total 0,00 0,00 0,00 0,00 0,00
+
+ID: 282793 e CRC: C5A66C83
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 EVOLUÇÃO DA RECEITA Page 2 (Inc.III, Art.22º)
+
+Codigo Discriminação Receita Arrecadada Receita Prevista
+
+2022 2023 2024 2025 2026
+
+9000.00.0.0 (R) DEDUCOES DA RECEITA 9100.00.0.0 (R) RENUNCIA 9200.00.0.0 (R) RESTITUIÇÕES -2.532,86 -467,44 9300.00.0.0 (R) DESCONTOS CONCEDIDOS -18.935,16 -21.292,98 9500.00.0.0 (R) DEDUÇÕES DO FUNDEB -5.152.616,78 -5.428.520,18 -6.382.479,38 -6.296.018,12 -7.030.790,05 9900.00.0.0 (R) OUTRAS DEDUÇÕES Sub Total -5.174.084,80 -5.450.280,60 -6.382.479,38 -6.296.018,12 -7.030.790,05
+
+9990.00.0.0 RECURSOS ARRECADADOS EM EXERCÍCIOS ANTERIORES Sub Total 0,00 0,00 0,00 0,00 0,00
+
+TOTAL 43.265.822,03 43.196.064,13 50.461.541,29 52.968.870,00 59.801.630,00
+
+ID: 282793 e CRC: C5A66C83
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Evolução da Receita 29/12/2025
+
+ID: 282793 Processo Documento
+
+CRC: C5A66C83 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:13:10 Finalização: 29/12/2025 10:13:27
+
+MD5: E7FAA79FF26B4F053DEFA89A3E01E4C6 SHA256: 5D3F5BCDE7C0754487AFF317B3B3A7687AC1E7A03322D30599FCAAB07BB0CCE1
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:13:10
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:13:10
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:42
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282793 e o CRC C5A66C83.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Quadro 10 EVOLUÇÃO DA DESPESA (Inc. III, Art. 22)
+
+Codigo Discriminação DESPESA
+
+Realizada 2024 Fixada 2025 Prevista 2026
+
+DESPESAS CORRENTES 3 0 A DEFINIR 3 1 PESSOAL E ENCARGOS SOCIAIS 20.875.448,40 24.968.832,28 28.400.420,62 3 2 JUROS E ENCARGOS DA DIVIDA 3 3 OUTRAS DESPESAS CORRENTES 21.066.703,27 22.045.415,12 25.215.593,54
+
+Sub Total 41.942.151,67 47.014.247,40 53.616.014,16
+
+DESPESAS DE CAPITAL 4 4 INVESTIMENTOS 5.071.730,61 5.603.622,60 5.775.615,84 4 5 INVERSOES FINANCEIRAS 4 6 AMORTIZACAO DA DIVIDA 1.000,00 10.000,00
+
+Sub Total 5.071.730,61 5.604.622,60 5.785.615,84
+
+RESERVA DE CONTINGENCIA E RESERVA DO RPPS 9 9 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 350.000,00 400.000,00
+
+Sub Total 0,00 350.000,00 400.000,00
+
+TOTAL 47.013.882,28 52.968.870,00 59.801.630,00
+
+ID: 282795 e CRC: 0B4601D6
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Evolução da Despesa 29/12/2025
+
+ID: 282795 Processo Documento
+
+CRC: 0B4601D6 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:14:07 Finalização: 29/12/2025 10:14:26
+
+MD5: A813118FF7C89D71A4B261BC19889DDC SHA256: C6938B1D7DC767D7CAAB289E84CF64E70AD59A79A1DC75D5DDEA031B436C6129
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:14:07
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:14:07
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:43
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282795 e o CRC 0B4601D6.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026 Anexo 01 DEMONSTRATIVO DA RECEITA E DESPESA SEGUNDO AS CATEGORIAS ECONOMICAS (Inc.II, §1º, Art.2º) Página 1
+
+RECEITA DESPESA R$ R$ R$ R$
+
+RECEITAS CORRENTES DESPESAS CORRENTES IMPOSTOS, TAXAS E CONTRIBUIÇÕES DE MELHORIA 4.301.396,21 PESSOAL E ENCARGOS SOCIAIS 28.400.420,62 CONTRIBUIÇÕES 498.125,41 OUTRAS DESPESAS CORRENTES 25.215.593,54 RECEITA PATRIMONIAL 173.672,39 TRANSFERÊNCIAS CORRENTES 57.730.874,22 OUTRAS RECEITAS CORRENTES 276.351,82 SUB TOTAL 53.616.014,16 (R) DEDUÇÕES DO FUNDEB -7.030.790,05 SUPERAVIT DO ORCAMENTO CORRENTE 2.333.615,84
+
+SUB TOTAL 55.949.630,00 TOTAL 55.949.630,00
+
+TOTAL 55.949.630,00 DESPESAS DE CAPITAL INVESTIMENTOS 5.775.615,84 SUPERAVIT DO ORCAMENTO CORRENTE 2.333.615,84 AMORTIZACAO DA DIVIDA 10.000,00 RECEITAS DE CAPITAL ALIENAÇÃO DE BENS 100.000,00 SUB TOTAL 5.785.615,84 TRANSFERÊNCIAS DE CAPITAL 3.752.000,00
+
+SUB TOTAL 3.852.000,00 RESERVA DE CONTINGENCIA 400.000,00
+
+TOTAL TOTAL 6.185.615,84 6.185.615,84
+
+RESUMO RESUMO
+
+RECEITAS CORRENTES. 62.980.420,05 DESPESAS CORRENTES 53.616.014,16 DEDUÇÕES DA RECEITA CORRENTE -7.030.790,05 DESPESAS DE CAPITAL 5.785.615,84 RECEITAS DE CAPITAL 3.852.000,00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 400.000,00 59.801.630,00 TOTAL DE DESPESA 59.801.630,00 TOTAL DE RECEITAS
+
+TOTAL 59.801.630,00 TOTAL 59.801.630,00
+
+ID: 282802 e CRC: 7DCE5C8E
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Demonstrativo da Receita e Despesa por 29/12/2025 Categ Econ ID: 282802 Processo Documento
+
+CRC: 7DCE5C8E Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:15:51 Finalização: 29/12/2025 10:16:27
+
+MD5: EB0ABDB6CD696DB2839D95220488B1CE SHA256: B634DE2C9A53F4A241B7ED24A8EADC12A9C034BE13899ECC6DBBAA38B4AEF220
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:15:51
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:15:51
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:44
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282802 e o CRC 7DCE5C8E.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Orçamento Programa - Exercício de 2026 Página 1 Receita Prevista
+
+SubCategoria Categoria F.R. Desdobramento Fonte Econômica Código Especificação 1000.00.0.0 RECEITAS CORRENTES. 0.000.000 62.980.420,05 1100.00.0.0 IMPOSTOS, TAXAS E CONTRIBUIÇÕES DE 0.000.000 4.301.396,21 MELHORIA 1110.00.0.0 IMPOSTOS 0.000.000 3.288.450,97 1112.00.0.0 IMPOSTOS SOBRE O PATRIMÔNIO 0.000.000 1.257.556,88 1112.50.0.0 IMPOSTO SOBRE A PROPRIEDADE PREDIAL E 0.000.000 525.126,60 TERRITORIAL URBANA 1112.53.0.0 ITBI-"INTER VIVOS" 0.000.000 732.430,28 1113.00.0.0 IMPOSTOS SOBRE A RENDA E PROVENTOS 0.000.000 1.378.125,00 DE QUALQUER NATUREZA 1113.03.0.0 IMPOSTO SOBRE A RENDA - RETIDO NA 0.000.000 1.378.125,00 FONTE 1113.03.1.0 IMPOSTO SOBRE A RENDA - RETIDO NA 0.000.000 1.378.125,00 FONTE - TRABALHO 1114.00.0.0 IMPOSTO PRODUÇÃO CIRCULAÇÃO 0.000.000 652.769,09 MERCADORIAS SERVIÇOS 1114.51.0.0 IMPOSTOS SOBRE SERVIÇOS 0.000.000 652.769,09 1114.51.1.0 IMPOSTO SOBRE SERVIÇOS DE QUALQUER 0.000.000 652.769,09 NATUREZA - ISSQN 1120.00.0.0 TAXAS 0.000.000 1.012.945,24 1121.00.0.0 TAXAS PELO EXERCÍCIO DO PODER DE 0.000.000 88.912,93 POLÍCIA 1121.01.0.0 TAXAS DE INSPEÇÃO, CONTROLE E 0.000.000 88.912,93 FISCALIZAÇÃO 1122.00.0.0 TAXAS PELA PRESTAÇÃO DE SERVIÇOS 0.000.000 924.032,31 1122.01.0.0 TAXAS PELA PRESTAÇÃO DE SERVIÇOS EM 0.000.000 924.032,31 GERAL 1200.00.0.0 CONTRIBUIÇÕES 0.000.000 498.125,41 1240.00.0.0 CONTRIBUIÇÃO PARA O CUSTEIO DO 0.000.000 498.125,41 SERVIÇO DE ILUMINAÇÃO PÚBLICA 1241.00.0.0 CONTRIBUIÇÃO PARA O CUSTEIO DO 0.000.000 498.125,41 SERVIÇO DE ILUMINAÇÃO PÚBLICA 1241.50.0.0 CONTRIBUIÇÃO PARA O CUSTEIO DO 0.000.000 498.125,41 SERVIÇO DE ILUMINAÇÃO PÚBLICA 1300.00.0.0 RECEITA PATRIMONIAL 0.000.000 173.672,39 1320.00.0.0 VALORES MOBILIÁRIOS 0.000.000 173.672,39 1321.00.0.0 JUROS E CORREÇÕES MONETÁRIAS 0.000.000 173.672,39 1321.01.0.0 REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS 0.000.000 173.672,39 1700.00.0.0 TRANSFERÊNCIAS CORRENTES 0.000.000 57.730.874,22 1710.00.0.0 TRANSFERÊNCIAS DA UNIÃO E DE SUAS 0.000.000 24.274.889,82 ENTIDADES 1711.00.0.0 TRANSFERÊNCIAS DECORRENTES DE 0.000.000 18.394.407,69 PARTICIPAÇÃO NA RECEITA DA UNI 1711.51.0.0 COTA-PARTE DO FUNDO DE PARTICIPAÇÃO 0.000.000 18.343.067,52 DOS MUNICÍPIOS - FPM 1711.51.1.0 COTA-PARTE DO FUNDO DE PARTICIPAÇÃO 0.000.000 5.166.085,12 DOS MUNICÍPIOS - COTA ME 1711.51.1.0 COTA-PARTE DO FUNDO DE PARTICIPAÇÃO 0.000.000 11.705.090,00 DOS MUNICÍPIOS - COTA ME 1711.51.2.0 COTA-PARTE DO FUNDO DE PARTICIPAÇÃO 0.000.000 1.471.892,40 DOS MUNICÍPIOS - COTAS E 1711.51.2.1 COTA-PARTE DO FPM- COTAS 0.000.000 1.471.892,40 EXTRAORDINARIAS - PRINCIPAL 1711.52.0.0 COTA-PARTE DO IMPOSTO SOBRE A 0.000.000 51.340,17 PROPRIEDADE TERRITORIAL RURAL 1712.00.0.0 TRANSF.COMPENS.FINANC.EXPL.RECURSOS 0.000.000 354.197,43 NATURAIS 1712.51.0.0 COTA-PARTE 0.000.000 54.197,43 COMPENS.FINANC.EXPL.RECURSOS MINERAIS CFEM 1712.52.0.0 COTA-PARTE COMPENSAÇÃO FINANCEIRA 0.000.000 300.000,00 PRODUÇÃO PETRÓLEO 1712.52.4.0 COTA-PARTE DO FUNDO ESPECIAL DO 0.000.000 300.000,00 PETRÓLEO – FEP 1713.00.0.0 TRANSFERÊNCIAS RECURSOS SISTEMA 0.000.000 4.258.071,10 ÚNICO SAÚDE – SUS 1713.50.0.0 TRANSF.SUS-FUNDO A FUNDO - BLOCO DE 0.000.000 4.119.412,00
+
+ID: 282805 e CRC: 8624D7A8
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Orçamento Programa - Exercício de 2026 Página 2 Receita Prevista
+
+SubCategoria Categoria F.R. Desdobramento Fonte Econômica Código Especificação MANUTENÇÃO
+
+1713.50.1.0 TRANSF.SUS-FUNDO A FUNDO - BLOCO DE 0.000.000 3.084.309,76 MANUTENÇÃO 1713.50.1.1 TRANS.SUS-BLOCO 0.000.000 2.408.679,45 MANUT.ATEN.PRIMÁRIA-PRINCIPAL 1713.50.2.0 TRANSF.SUS- BLOCO 0.000.000 703.952,80 MANUTENÇÃO-ATENÇÃO ESPECIALIZADA 1713.50.2.1 TRANS.SUS-BLOCO 0.000.000 703.952,80 MANUT.ATEN.ESPEC.-PRINCIPAL 1713.50.3.0 TRANSF.SUS- BLOCO 0.000.000 261.149,44 MANUTENÇÃO-VIGILÂNCIA EM SAÚDE 1713.50.3.1 TRANS.SUS-BLOCO MANUT-VIGILÂNCIA 0.000.000 261.149,44 SAÚDE-PRINCIPAL 1713.50.4.0 TRANSF.SUS- BLOCO 0.000.000 70.000,00 MANUTENÇÃO-ASSISTÊNCIA FARMACÊUTICA 1713.50.4.1 TRANS.SUS- BLOCO 0.000.000 70.000,00 MANUT.-ASSIST.FARMAC.-PRINCIPAL 1713.51.0.0 TRANSF.SUS-FUNDO A FUNDO - BLOCO DE 0.000.000 138.659,10 ESTRUTURAÇÃO 1713.51.1.0 TRANSF.SUS-FUNDO FUNDO-BLOCO 0.000.000 138.659,10 ESTRUTURAÇÃO-ATENÇÃO PRIMÁRIA 1713.51.1.1 TRANS.SUS-BLOCO 0.000.000 138.659,10 ESTRUT.-ATEN.PRIMÁRIA-PRINCIPAL 1714.00.0.0 TRANSF.RECURSOS FUNDO 0.000.000 612.752,44 NAC.DESENVOLVIMENTO EDUCAÇÃO-FNDE 1714.50.0.0 TRANSFERÊNCIAS DO SALÁRIO-EDUCAÇÃO 0.000.000 450.000,00 1714.52.0.0 TRANSF.PROGRAMA NACIONAL 0.000.000 40.000,00 ALIMENTAÇÃO ESCOLA- PNAE 1714.53.0.0 TRANSF.PROG.NACIONAL 0.000.000 25.000,00 APOIOTRANSPORTE DO ESCOLAR – PNATE 1714.99.0.0 OUTRAS TRANSF.DIRETAS FUNDO NACIONAL 0.000.000 97.752,44 DESENV.EDUCAÇÃO-FNDE 1716.00.0.0 TRANSF.RECURSOS FUNDO NACIONAL 0.000.000 396.245,00 ASSISTÊNCIA SOCIAL-FNAS 1716.50.0.0 TRANSF.RECURSOS FUNDO NACIONAL 0.000.000 396.245,00 ASSISTÊNCIA SOCIAL-FNAS 1716.50.0.1 TRANSF.RECUR.-FNAS-PRINCIPAL 0.000.000
+
+1717.00.0.0 TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO 0.000.000 11.000,00 E DE SUAS ENTIDADES 1717.99.0.0 OUTRAS TRANSF.CONVÊNIOS UNIÃO 0.000.000 11.000,00 ENTIDADES 1717.99.0.1 OUTRAS TRANSF.CONV.UNIÃO 0.000.000 11.000,00 ENTIDADES-PRINCIPAL 1719.00.0.0 OUTRAS TRANSFERÊNCIAS RECURSOS 0.000.000 248.216,16 UNIÃO E DE SUAS ENTIDADES 1719.58.0.0 TRANSF.OBRIG.LEI COMPLEMENTAR Nº 0.000.000 138.211,59 176/2020 1719.99.0.0 OUTRAS TRANSF.RECURSOS UNIÃO 0.000.000 110.004,57 ENTIDADES 1719.99.0.1 OUTRAS TRANSF.RECUR.UNIÃO 0.000.000 110.004,57 ENTID.-PRINCIPAL 1720.00.0.0 TRANSFERÊNCIAS ESTADOS DISTRITO 0.000.000 27.426.254,12 FEDERAL E DE SUAS ENTIDADES 1721.00.0.0 PARTICIPAÇÃO NA RECEITA DOS ESTADOS E 0.000.000 24.154.571,85 DISTRITO FEDERAL 1721.50.0.0 COTA-PARTE DO ICMS 0.000.000 22.354.729,66 1721.51.0.0 COTA-PARTE DO IPVA 0.000.000 1.717.557,67 1721.52.0.0 COTA-PARTE DO IPI – MUNICÍPIOS 0.000.000 50.371,76 1721.53.0.0 COTA-PARTE CONTRIBUIÇÃO INTERVENÇÃO 0.000.000 31.912,76 DOMÍNIO ECONÔMICO 1723.00.0.0 TRANSFERÊNCIAS RECURSOS SISTEMA 0.000.000 26.682,27 ÚNICO SAÚDE – SUS 1723.50.0.0 TRANSFERÊNCIAS RECURSOS SISTEMA 0.000.000 26.682,27 ÚNICO SAÚDE – SUS 1723.50.0.1 TRANSF.RECURSOS-SUS-PRINCIPAL 0.000.000
+
+1724.00.0.0 TRANSF.CONVÊNIOS ESTADOS E DF 0.000.000 3.050.000,00 ENTIDADES 1724.51.0.0 TRANSF. CONVÊNIOS ESTADOS PROGRAMA 0.000.000 2.400.000,00 EDUCAÇÃO 1724.51.0.1 TRANSF.CONV.ESTADOS 0.000.000 2.400.000,00 PROGR.EDUCAÇÃO-PRINCIPAL 1724.99.0.0 OUTRAS TRANSF.CONV.ESTADOS E DF E 0.000.000 650.000,00 ENTIDADES ID: 282805 e CRC: 8624D7A8
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Orçamento Programa - Exercício de 2026 Página 3 Receita Prevista
+
+SubCategoria Categoria F.R. Desdobramento Fonte Econômica Código Especificação 1724.99.0.1 OUTRAS TRANSF.CONV.EST.E DF E 0.000.000 650.000,00 ENTID.-PRINCIPAL 1729.00.0.0 OUTRAS TRANSFERÊNCIAS DOS ESTADOS E 0.000.000 195.000,00 DISTRITO FEDERAL 1729.51.0.0 TRANSFERÊNCIAS DE ESTADOS DESTINADAS 0.000.000 195.000,00 À ASSISTÊNCIA SOCIAL 1750.00.0.0 TRANSFERÊNCIAS DE OUTRAS INSTITUIÇÕES 0.000.000 6.029.730,28 PÚBLICAS 1751.00.0.0 TRANSF.RECURSOS FUNDO MANUTENÇÃO 0.000.000 6.009.367,87 DESENVOL.EDUCAÇÃO-FUNDEB 1751.50.0.0 TRANSF.RECURSOS FUNDO MANUTENÇÃO 0.000.000 6.009.367,87 DESENVOL.EDUCAÇÃO-FUNDEB 1759.00.0.0 DEMAIS TRANSFERÊNCIAS DE OUTRAS 0.000.000 20.362,41 INSTITUIÇÕES PÚBLICAS 1759.99.0.0 DEMAIS TRANSFERÊNCIAS DE OUTRAS 0.000.000 20.362,41 INSTITUIÇÕES PÚBLICAS 1900.00.0.0 OUTRAS RECEITAS CORRENTES 0.000.000 276.351,82 1920.00.0.0 INDENIZAÇÕES, RESTITUIÇÕES E 0.000.000 142.974,45 RESSARCIMENTOS 1922.00.0.0 RESTITUIÇÕES 0.000.000 110.250,00 1922.01.0.0 RESTITUIÇÃO DE CONVÊNIOS 0.000.000 33.075,00 1922.01.1.0 RESTITUIÇÃO DE CONVÊNIOS – PRIMÁRIAS 0.000.000 33.075,00 1922.99.0.0 OUTRAS RESTITUIÇÕES 0.000.000 77.175,00 1922.99.0.1 OUTRAS RESTITUIÇÕES – PRINCIPAL 0.000.000 77.175,00 1923.00.0.0 RESSARCIMENTOS 0.000.000 32.724,45 1923.99.0.0 OUTROS RESSARCIMENTOS 0.000.000 32.724,45 1923.99.0.1 OUTROS RESSARCIMENTOS – PRINCIPAL 0.000.000 32.724,45 1990.00.0.0 DEMAIS RECEITAS CORRENTES 0.000.000 133.377,37 1999.00.0.0 OUTRAS RECEITAS CORRENTES 0.000.000 133.377,37 1999.12.0.0 ENCARGOS LEGAIS PELA INSCRIÇÃO EM 0.000.000 132.476,95 DÍVIDA ATIVA E RECEITAS DE 1999.12.1.0 ENCARGOS LEGAIS PELA INSCRIÇÃO EM 0.000.000 132.476,95 DÍVIDA ATIVA 1999.12.1.1 ENCARGOS LEGAIS INSC.D.ATIVA-PRINCIPAL 0.000.000 109.834,15 1999.99.0.0 OUTRAS RECEITAS 0.000.000 900,42 1999.99.2.0 OUTRAS RECEITAS NÃO ARRECADADAS E 0.000.000 900,42 NÃO PROJETADAS PELA RFB - 2000.00.0.0 RECEITAS DE CAPITAL 0.000.000 3.852.000,00 2200.00.0.0 ALIENAÇÃO DE BENS 0.000.000 100.000,00 2210.00.0.0 ALIENAÇÃO DE BENS MÓVEIS 0.000.000 100.000,00 2213.00.0.0 ALIENAÇÃO DE BENS MÓVEIS E SEMOVENTES 0.000.000 100.000,00 2213.01.0.0 ALIENAÇÃO DE BENS MÓVEIS E SEMOVENTES 0.000.000 100.000,00 2213.01.0.1 ALIEN.BENS MÓVEIS E 0.000.000 100.000,00 SEMOVENTES-PRINCIPAL 2400.00.0.0 TRANSFERÊNCIAS DE CAPITAL 0.000.000 3.752.000,00 2410.00.0.0 TRANSFERÊNCIAS DA UNIÃO E DE SUAS 0.000.000 2.350.000,00 ENTIDADES 2414.00.0.0 TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO 0.000.000 2.350.000,00 E DE SUAS ENTIDADES 2414.99.0.0 OUTRAS TRANSFERÊNCIAS CONVÊNIOS 0.000.000 2.350.000,00 UNIÃO E DE SUAS ENTIDADES 2414.99.0.1 OUTRAS TRANSF.CONV.UNIÃO SUAS 0.000.000 2.350.000,00 ENTID.-PRINCIPAL 2420.00.0.0 TRANSF.ESTADOS E DO DISTRITO FEDERAL E 0.000.000 1.402.000,00 DE SUAS ENTIDADES 2422.00.0.0 TRANSF.CONVÊNIOS ESTADOS E DF E DE 0.000.000 1.402.000,00 SUAS ENTIDADES 2422.99.0.0 OUTRAS TRANSF.CONV. ESTADOS E DF E DE 0.000.000 1.402.000,00 SUA ENTIDADES 9000.00.0.0 (R) DEDUCOES DA RECEITA 0.000.000 -7.030.790,05 9500.00.0.0 (R) DEDUÇÕES DO FUNDEB 0.000.000
+
+ID: 282805 e CRC: 8624D7A8
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Orçamento Programa - Exercício de 2026 Página 4 Receita Prevista
+
+SubCategoria Categoria F.R. Desdobramento Fonte Econômica Código Especificação
+
+-7.030.790,05 9510.00.0.0 (R) DEDUÇÕES DO FUNDEB 0.000.000 -7.030.790,05
+
+Total das Receitas (exceto Intra-Orçamentárias) 59.801.630,00
+
+Total Geral das Receitas 59.801.630,00
+
+ID: 282805 e CRC: 8624D7A8
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Previsão da Receita 29/12/2025
+
+ID: 282805 Processo Documento
+
+CRC: 8624D7A8 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:17:04 Finalização: 29/12/2025 10:17:26
+
+MD5: 8023876AAC6954861785127139F6441B SHA256: 7D727773C83858D1956C7A138C78C8F9214BEBD2D5C1E0CEA4C3EC5921970FF6
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:17:04
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:17:04
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:44
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282805 e o CRC 8624D7A8.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Quadro 20 Orçamento Programa - Exercício de 2026 Página 1 RECEITA CORRENTE LIQUIDA - LC 101, ART. 2, Inciso IV
+
+Código Especificação Previsão
+
+RECEITA ORÇAMENTÁRIA 1100.00.0.0.00.00.00.00IMPOSTOS, TAXAS E CONTRIBUIÇÕES DE MELHORIA 4.301.396,21 1200.00.0.0.00.00.00.00CONTRIBUIÇÕES 498.125,41 1300.00.0.0.00.00.00.00RECEITA PATRIMONIAL 173.672,39 1700.00.0.0.00.00.00.00TRANSFERÊNCIAS CORRENTES 57.730.874,22 1900.00.0.0.00.00.00.00OUTRAS RECEITAS CORRENTES 276.351,82 SUBTOTAL 62.980.420,05 DEDUÇÃO 1710.00.0.0.00.00.00.00TRANSFERÊNCIAS RELATIVAS À AGENTES COMUNITÁRIOS (FONTE STN 604) -737.000,00 9500.00.0.0.00.00.00.00(R) DEDUÇÕES DO FUNDEB -7.030.790,05 SUBTOTAL -7.767.790,05
+
+TOTAL 55.212.630,00
+
+Percentual de Gastos com Pessoal Legislativo Despesa com Pessoal 1.885.416,15
+
+Deduções
+
+Categoria Tipo Valor Descrição da Dedução 3.1.90.94.00 NV 50.011,90 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS
+
+Total Deduções 50.011,90 Despesa Líquida: 1.835.404,25 Percentual Aplicado: 3,32 %
+
+Executivo Despesa com Pessoal 26.515.004,47
+
+Deduções Categoria Tipo Valor Descrição da Dedução 3.1.90.11.00 NV 737.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL - ART. 198 § 7 DA CF 3.1.90.11.00 NV 397.440,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.94.00 NV 294.420,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS
+
+Total Deduções 1.428.860,00
+
+Despesa Líquida: 25.086.144,47 Percentual Aplicado: 45,44 %
+
+\* Nas despesas (deduções) que se enquadram na parcela dedutível do piso salarial do Enfermeiro, Téc. de Enfermagem, Aux. de Enfermagem e Parteira, o valor apresentado corresponde a 72% do valor orçado. EMENDA CONSTITUCIONAL Nº 127, DE 22 DE DEZEMBRO DE 2022. ID: 282811 e CRC: 0D733766
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO RCL - Gasto com Pessoal 29/12/2025
+
+ID: 282811 Processo Documento
+
+CRC: 0D733766 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:18:23 Finalização: 29/12/2025 10:18:44
+
+MD5: F7A731EB269DAA7A173FCF094AC340B7 SHA256: 613470D1F87058F51FF2993804D25A7643A7EFEAC60DCC3000F24B7608876BF5
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:18:23
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:18:23
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:45
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282811 e o CRC 0D733766.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 1 NATUREZA DA DESPESA - CONSOLIDAÇÃO GERAL Código Especificação Elemento Modalidade Grupo Categoria Econômica
+
+.30. 00. 00 DESPESAS CORRENTES 53.616.014,16 .31. 00. 00 PESSOAL E ENCARGOS SOCIAIS 28.400.420,62 .31. 90. 00 APLICAÇÕES DIRETAS 28.400.420,62 .31. 90. 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 24.009.471,83 .31. 90. 13 OBRIGAÇÕES PATRONAIS 3.991.866,89 .31. 90. 34 OUTRAS DESPESAS DE PESSOAL DECORRENTES DE CONTRATOS DE TERC 20.000,00 .31. 90. 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 344.431,90 .31. 90. 96 RESSARCIMENTO DE DESPESAS DE PESSOAL REQUISITADO 34.650,00 .33. 00. 00 OUTRAS DESPESAS CORRENTES 25.215.593,54 .33. 50. 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 497.466,47 .33. 50. 43 SUBVENCOES SOCIAIS 497.466,47 .33. 71. 00 TRANSFERÊNCIAS A CONSÓRCIOS PÚBLICOS 251.000,00 .33. 71. 70 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO PÚBLICO 251.000,00 .33. 90. 00 APLICAÇÕES DIRETAS 24.467.127,07 .33. 90. 14 DIÁRIAS - CIVIL 696.213,61 .33. 90. 30 MATERIAL DE CONSUMO 7.724.487,58 .33. 90. 31 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 195.000,00 .33. 90. 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 247.628,05 .33. 90. 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 280.514,24 .33. 90. 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 266.303,55 .33. 90. 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 7.659.606,23 .33. 90. 46 AUXILIO-ALIMENTACAO 6.638.271,21 .33. 90. 47 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 406.001,42 .33. 90. 48 OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS 100.000,00 .33. 90. 91 SENTENCAS JUDICIAIS 160.000,00 .33. 90. 92 DESPESAS DE EXERCICIOS ANTERIORES 21.601,18 .33. 90. 93 INDENIZAÇÕES E RESTITUIÇÕES 71.500,00 .40. 00. 00 DESPESAS DE CAPITAL 5.785.615,84 .44. 00. 00 INVESTIMENTOS 5.775.615,84 .44. 90. 00 APLICAÇÕES DIRETAS 5.775.615,84 .44. 90. 51 OBRAS E INSTALAÇÕES 2.357.175,46 .44. 90. 52 EQUIPAMENTOS E MATERIAL PERMANENTE 3.418.440,38 .46. 00. 00 AMORTIZACAO DA DIVIDA 10.000,00 .46. 90. 00 APLICAÇÕES DIRETAS 10.000,00 .46. 90. 71 PRINCIPAL DA DÍVIDA CONTRATUAL RESGATADO 10.000,00 .90. 00. 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 400.000,00 .99. 00. 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 400.000,00 .99. 99. 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 400.000,00 .99. 99. 99 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 400.000,00
+
+TOTAL 59.801.630,00
+
+ID: 282813 e CRC: F919FB17
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Consolidação Geral da Despesa 29/12/2025
+
+ID: 282813 Processo Documento
+
+CRC: F919FB17 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:20:02 Finalização: 29/12/2025 10:20:36
+
+MD5: 0B75594CFE1EF0443F8C41158226E817 SHA256: 31761A70D5841C1BFCD75B26DB57359A3FB4125FC8E491CB46607FD86129D9A9
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:20:02
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:20:02
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:46
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282813 e o CRC F919FB17.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 1 NATUREZA DA DESPESA POR ORGÃO PODER 01 PODER LEGISLATIVO ORGÃO 01 Legislativo Municipal
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.859.156,72
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.885.416,15
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.885.416,15
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 1.510.686,36
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 324.717,89
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 50.011,90
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 973.740,57
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 973.740,57
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 300.071,21
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 60.014,24
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 60.014,24
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 22.503,55
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 220.063,52
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 300.071,21
+
+3 . 3 . 90 . 47 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 0.1.500 6.001,42
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 5.001,18
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 428.843,28
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 428.843,28
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 428.843,28
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 349.059,65
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 79.783,63
+
+TOTAL 3.288.000,00
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 2 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 02 Gabinete do Prefeito
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.858.950,00
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.921.150,00
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.921.150,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 1.514.100,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 366.630,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 40.420,00
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 937.800,00
+
+3 . 3 . 71 . 00 TRANSFERÊNCIAS A CONSÓRCIOS PÚBLICOS 0.000.000 198.000,00
+
+3 . 3 . 71 . 70 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO PÚBLICO 0.1.500 198.000,00
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 739.800,00
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 101.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 145.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 30.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.100,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 190.000,00
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 270.600,00
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 2.100,00
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 280.000,00
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 280.000,00
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 280.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 280.000,00
+
+TOTAL 3.138.950,00
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 3 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 03 Secretaria Municipal de Administração e Fazenda
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 3.585.640,00
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.846.140,00
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.846.140,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 1.495.500,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 320.640,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 30.000,00
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 1.739.500,00
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.739.500,00
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 21.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 35.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 15.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.500,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 806.000,00
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 358.000,00
+
+3 . 3 . 90 . 47 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 0.1.500 400.000,00
+
+3 . 3 . 90 . 91 SENTENCAS JUDICIAIS 0.1.500 100.000,00
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 500,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.500 1.500,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 500,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 500,00
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 59.000,00
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 49.000,00
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 49.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 49.000,00
+
+4 . 6 . 00 . 00 AMORTIZACAO DA DIVIDA 0.000.000 10.000,00
+
+4 . 6 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 10.000,00
+
+4 . 6 . 90 . 71 PRINCIPAL DA DÍVIDA CONTRATUAL RESGATADO 0.1.500 10.000,00
+
+9 . 0 . 00 . 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.000.000 400.000,00
+
+9 . 9 . 00 . 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.000.000 400.000,00
+
+9 . 9 . 99 . 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.000.000 400.000,00
+
+9 . 9 . 99 . 99 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.1.500 400.000,00
+
+TOTAL 4.044.640,00
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 4 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 15.032.819,79
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 7.787.319,00
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 7.787.319,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 166.430,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 25.1.500 1.341.560,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 70.1.540 5.090.800,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 16.720,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 25.1.500 185.405,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 70.1.540 874.754,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 25.1.500 46.000,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 30.1.540 1.000,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 70.1.540 30.000,00
+
+3 . 1 . 90 . 96 RESSARCIMENTO DE DESPESAS DE PESSOAL REQUISITADO 25.1.500 34.650,00
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 7.245.500,79
+
+3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 72.628,05
+
+3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 72.628,05
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 7.172.872,74
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 25.1.500 26.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 355.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.550 300.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.552 40.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.553 2.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.569 100.244,55
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.570 11.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.576 300.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.599 20.362,41
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 25.1.500 794.365,78
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 30.1.540 4.000,00
+
+3 . 3 . 90 . 31 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 0.1.500 145.000,00
+
+3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 80.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 25.1.500 14.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.500,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.553 100,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 25.1.500 3.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 30.1.540 1.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 195.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.550 80.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.553 22.900,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.576 2.099.000,00
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 5 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 25.1.500 480.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 30.1.540 4.000,00
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 25.1.500 2.090.400,00
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 25.1.500 1.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.576 1.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 1.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 1.000,00
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 334.018,21
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 334.018,21
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 334.018,21
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 50.000,00
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.550 1.500,00
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 25.1.500 25.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 60.500,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.550 68.500,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 25.1.500 124.704,34
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 30.1.540 3.813,87
+
+TOTAL 15.366.838,00
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 6 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 05 Secretaria Municipal de Saúde
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 16.070.760,62
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 10.209.895,47
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 10.209.895,47
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.600 950.895,47
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.604 737.000,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.605 552.000,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 15.1.500 6.700.000,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 15.1.500 1.200.000,00
+
+3 . 1 . 90 . 34 OUTRAS DESPESAS DE PESSOAL DECORRENTES DE CONTRATOS DE TERC15.1.500 20.000,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 15.1.500 50.000,00
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 5.860.865,15
+
+3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 135.698,17
+
+3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 24.000,00
+
+3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 111.698,17
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 5.725.166,98
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.600 38.642,40
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 15.1.500 107.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 35.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.600 1.154.852,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.621 26.682,27
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 254.326,33
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 525.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.600 8.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 15.1.500 70.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.600 1.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 15.1.500 160.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.600 696.263,98
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 15.1.500 315.000,00
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 15.1.500 2.168.400,00
+
+3 . 3 . 90 . 48 OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS 15.1.500 100.000,00
+
+3 . 3 . 90 . 91 SENTENCAS JUDICIAIS 15.1.500 60.000,00
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 15.1.500 5.000,00
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 389.915,20
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 389.915,20
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 389.915,20
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 15.1.500 65.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.600 6.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.601 138.659,10
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 15.1.500 65.256,10
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 7 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 05 Secretaria Municipal de Saúde
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 15.1.500 115.000,00
+
+TOTAL 16.460.675,82
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 8 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.755.361,39
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.179.000,00
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.179.000,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 950.000,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 209.000,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 20.000,00
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 1.576.361,39
+
+3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 236.512,20
+
+3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 6.000,00
+
+3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 130.512,20
+
+3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.661 100.000,00
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.339.849,19
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 42.000,00
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.660 15.000,00
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.661 25.500,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 171.640,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.660 32.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.661 121.000,00
+
+3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 47.628,05
+
+3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 80.000,00
+
+3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.661 20.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 39.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.660 13.500,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.661 15.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 300,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.660 70.300,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 108.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.660 60.081,14
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.661 101.500,00
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 374.400,00
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 1.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 1.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 1.000,00
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 94.000,00
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 94.000,00
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 94.000,00
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 22.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 53.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.660 7.000,00
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 9 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.661 12.000,00
+
+TOTAL 2.849.361,39
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 10 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 07 Secretaria Mun de Agricultura e Pecuária
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.293.628,05
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 869.000,00
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 869.000,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 700.000,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 154.000,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 15.000,00
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 1.424.628,05
+
+3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 52.628,05
+
+3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 52.628,05
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.372.000,00
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 12.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 30.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 770.000,00
+
+3 . 3 . 90 . 31 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 0.1.500 50.000,00
+
+3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 20.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 15.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 236.000,00
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 234.000,00
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 2.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 1.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 1.000,00
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 109.628,05
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 109.628,05
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 109.628,05
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 20.000,00
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 57.628,05
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 32.000,00
+
+TOTAL 2.403.256,10
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 11 NATUREZA DA DESPESA POR ORGÃO PODER 02 PODER EXECUTIVO ORGÃO 08 Secretaria Municipal de Obras e Serviços Públicos
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 8.159.697,59
+
+3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 2.702.500,00
+
+3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 2.702.500,00
+
+3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 2.300.500,00
+
+3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 340.000,00
+
+3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 62.000,00
+
+3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 5.457.197,59
+
+3 . 3 . 71 . 00 TRANSFERÊNCIAS A CONSÓRCIOS PÚBLICOS 0.000.000 53.000,00
+
+3 . 3 . 71 . 70 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO PÚBLICO 0.1.500 53.000,00
+
+3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 5.404.197,59
+
+3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 8.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 1.581.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.701 556.000,00
+
+3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.720 300.000,00
+
+3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 1.000,00
+
+3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 3.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 1.388.672,18
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.701 159.000,00
+
+3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.751 498.125,41
+
+3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 842.400,00
+
+3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 5.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 32.000,00
+
+3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 30.000,00
+
+4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 4.090.211,10
+
+4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 4.090.211,10
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 4.090.211,10
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 230.000,00
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.701 905.075,00
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.706 500.000,00
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.750 31.912,76
+
+4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.755 100.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 75.000,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.700 816.723,34
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.701 431.500,00
+
+4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.706 1.000.000,00
+
+TOTAL 12.249.908,69
+
+ID: 282814 e CRC: 180C7718
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 02 Página 12 NATUREZA DA DESPESA POR ORGÃO
+
+TOTAL GERAL 59.801.630,00
+
+ID: 282814 e CRC: 180C7718
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Natureza da Despesa por Órgão 29/12/2025
+
+ID: 282814 Processo Documento
+
+CRC: 180C7718 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:22:12 Finalização: 29/12/2025 10:22:34
+
+MD5: 10162324091D37FA5333AE2C8CA64E9F SHA256: 1BCA01AD1AE5E7430C1B940601AE8BE4223BD7520AE1F7287412CA45C4418283
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:22:12
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:22:12
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:47
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282814 e o CRC 180C7718.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 1 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 01 PODER LEGISLATIVO
+
+ORGÃO 01 Legislativo Municipal
+
+UNIDADE 00 Legislativo Municipal
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.859.156,72 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.885.416,15 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.885.416,15 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 1.510.686,36 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 324.717,89 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 50.011,90 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 973.740,57 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 973.740,57 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 300.071,21 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 60.014,24 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 60.014,24 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 22.503,55 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 220.063,52 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 300.071,21 3 . 3 . 90 . 47 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 0.1.500 6.001,42 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 5.001,18 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 428.843,28 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 428.843,28 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 428.843,28 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 349.059,65 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 79.783,63
+
+TOTAL 3.288.000,00
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 2 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 02 Gabinete do Prefeito
+
+UNIDADE 00 Gabinete do Prefeito
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.858.950,00 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.921.150,00 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.921.150,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 1.514.100,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 366.630,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 40.420,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 937.800,00 3 . 3 . 71 . 00 TRANSFERÊNCIAS A CONSÓRCIOS PÚBLICOS 0.000.000 198.000,00 3 . 3 . 71 . 70 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO PÚBLICO 0.1.500 198.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 739.800,00 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 101.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 145.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 30.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.100,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 190.000,00 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 270.600,00 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 2.100,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 280.000,00 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 280.000,00 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 280.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 280.000,00
+
+TOTAL 3.138.950,00
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 3 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 03 Secretaria Municipal de Administração e Fazenda
+
+UNIDADE 00 Secretaria Municipal de Administração e Fazenda
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.942.000,00 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.323.500,00 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.323.500,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 1.083.500,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 230.000,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 10.000,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 1.618.500,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.618.500,00 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 15.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 20.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 10.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 500,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 790.000,00 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 280.000,00 3 . 3 . 90 . 47 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 0.1.500 400.000,00 3 . 3 . 90 . 91 SENTENCAS JUDICIAIS 0.1.500 100.000,00 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 500,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.500 1.500,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 500,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 500,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 45.000,00 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 35.000,00 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 35.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 35.000,00 4 . 6 . 00 . 00 AMORTIZACAO DA DIVIDA 0.000.000 10.000,00 4 . 6 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 10.000,00 4 . 6 . 90 . 71 PRINCIPAL DA DÍVIDA CONTRATUAL RESGATADO 0.1.500 10.000,00 9 . 0 . 00 . 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.000.000 400.000,00 9 . 9 . 00 . 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.000.000 400.000,00 9 . 9 . 99 . 00 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.000.000 400.000,00 9 . 9 . 99 . 99 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 0.1.500 400.000,00
+
+TOTAL 3.387.000,00
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 4 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 03 Secretaria Municipal de Administração e Fazenda
+
+UNIDADE 02 Coordenadoria Municipal de Planejamento
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 643.640,00 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 522.640,00 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 522.640,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 412.000,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 90.640,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 20.000,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 121.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 121.000,00 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 6.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 15.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 5.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 16.000,00 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 78.000,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 14.000,00 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 14.000,00 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 14.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 14.000,00
+
+TOTAL 657.640,00
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 5 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo
+
+UNIDADE 00 Secret Mun de Educ, Cult, Esp e Turismo
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 14.960.191,74 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 7.787.319,00 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 7.787.319,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 166.430,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 25.1.500 1.341.560,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 70.1.540 5.090.800,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 16.720,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 25.1.500 185.405,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 70.1.540 874.754,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 25.1.500 46.000,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 30.1.540 1.000,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 70.1.540 30.000,00 3 . 1 . 90 . 96 RESSARCIMENTO DE DESPESAS DE PESSOAL REQUISITADO 25.1.500 34.650,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 7.172.872,74 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 7.172.872,74 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 25.1.500 26.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 355.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.550 300.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.552 40.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.553 2.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.569 100.244,55 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.570 11.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.576 300.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.599 20.362,41 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 25.1.500 794.365,78 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 30.1.540 4.000,00 3 . 3 . 90 . 31 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 0.1.500 145.000,00 3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 80.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 25.1.500 14.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.500,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.553 100,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 25.1.500 3.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 30.1.540 1.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 195.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.550 80.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.553 22.900,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.576 2.099.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 25.1.500 480.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 30.1.540 4.000,00 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 25.1.500 2.090.400,00 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 25.1.500 1.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.576 1.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 1.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 1.000,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 334.018,21 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 334.018,21
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 6 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo
+
+UNIDADE 00 Secret Mun de Educ, Cult, Esp e Turismo
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 334.018,21 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 50.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.550 1.500,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 25.1.500 25.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 60.500,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.550 68.500,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 25.1.500 124.704,34 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 30.1.540 3.813,87
+
+TOTAL 15.294.209,95
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 7 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo
+
+UNIDADE 01 Secr Mun de Educ,Cult, Esporte e Turismo
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 72.628,05 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 72.628,05 3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 72.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 10.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 5.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 10.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 37.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 10.000,00
+
+TOTAL 72.628,05
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 8 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 05 Secretaria Municipal de Saúde
+
+UNIDADE 00 Secretaria Municipal de Saúde
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 15.669.736,12 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 10.209.895,47 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 10.209.895,47 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.600 950.895,47 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.604 737.000,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.605 552.000,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 15.1.500 6.700.000,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 15.1.500 1.200.000,00 3 . 1 . 90 . 34 OUTRAS DESPESAS DE PESSOAL DECORRENTES DE CONTRATOS DE TERC 15.1.500 20.000,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 15.1.500 50.000,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 5.459.840,65 3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 24.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 24.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 5.435.840,65 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.600 38.642,40 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 15.1.500 107.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.600 1.154.852,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.621 26.682,27 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 525.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.600 8.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 15.1.500 70.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.600 1.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 15.1.500 160.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.600 696.263,98 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 15.1.500 315.000,00 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 15.1.500 2.168.400,00 3 . 3 . 90 . 48 OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS 15.1.500 100.000,00 3 . 3 . 90 . 91 SENTENCAS JUDICIAIS 15.1.500 60.000,00 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 15.1.500 5.000,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 324.659,10 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 324.659,10 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 324.659,10 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 15.1.500 65.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.600 6.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.601 138.659,10 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 15.1.500 115.000,00
+
+TOTAL 15.994.395,22
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 9 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 05 Secretaria Municipal de Saúde
+
+UNIDADE 01 Fundo Municipal de Saúde
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 401.024,50 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 401.024,50 3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 111.698,17 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 17.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 12.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 23.814,02 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 20.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 15.1.500 37.628,05 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 289.326,33 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 35.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 23.814,13 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 47.628,05 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 10.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 47.628,05 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 10.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 67.628,05 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 15.1.500 47.628,05 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 65.256,10 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 65.256,10 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 65.256,10 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 15.1.500 47.628,05 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 15.1.500 17.628,05
+
+TOTAL 466.280,60
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 10 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 06 Secretaria Mun de Assistencia Social
+
+UNIDADE 00 Secretaria Mun de Assistencia Social
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.549.221,14 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 1.179.000,00 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.179.000,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 950.000,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 209.000,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 20.000,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 1.370.221,14 3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 106.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 6.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.661 100.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.264.221,14 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 37.000,00 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.660 15.000,00 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.661 25.500,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 161.640,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.660 32.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.661 121.000,00 3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 80.000,00 3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.661 20.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 34.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.660 13.500,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.661 15.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 300,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.660 70.300,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 100.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.660 60.081,14 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.661 101.500,00 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 374.400,00 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 1.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 1.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 1.000,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 94.000,00 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 94.000,00 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 94.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 22.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 53.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.660 7.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.661 12.000,00
+
+TOTAL 2.643.221,14
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 11 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 06 Secretaria Mun de Assistencia Social
+
+UNIDADE 01 Fundo Municipal de Assistencia Social
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 178.140,25 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 178.140,25 3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 130.512,20 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 22.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 7.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 7.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 30.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 10.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 2.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 10.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 5.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 25.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 10.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 47.628,05 3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 47.628,05
+
+TOTAL 178.140,25
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 12 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 06 Secretaria Mun de Assistencia Social
+
+UNIDADE 02 Fundo Municipal dos Direitos da Criança e do Adolescente
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 28.000,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 28.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 28.000,00 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 5.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 10.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 5.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 8.000,00
+
+TOTAL 28.000,00
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 13 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 07 Secretaria Mun de Agricultura e Pecuária
+
+UNIDADE 00 Secretaria Mun de Agricultura e Pecuária
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 2.211.000,00 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 869.000,00 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 869.000,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 700.000,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 154.000,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 15.000,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 1.342.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 1.342.000,00 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 12.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 770.000,00 3 . 3 . 90 . 31 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 0.1.500 50.000,00 3 . 3 . 90 . 32 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 0.1.500 20.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 15.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 1.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 236.000,00 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 234.000,00 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 2.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 1.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 1.000,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 52.000,00 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 52.000,00 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 52.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 20.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 32.000,00
+
+TOTAL 2.263.000,00
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 14 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 07 Secretaria Mun de Agricultura e Pecuária
+
+UNIDADE 01 Sec Municipal de Agricultura e Pecuaria
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 82.628,05 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 82.628,05 3 . 3 . 50 . 00 TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS SEM FINS LUCRATIVOS 0.000.000 52.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 5.000,00 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 17.628,05 3 . 3 . 50 . 43 SUBVENCOES SOCIAIS 0.1.500 30.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 30.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 30.000,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 57.628,05 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 57.628,05 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 57.628,05 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 10.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 12.628,05 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 15.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 10.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 10.000,00
+
+TOTAL 140.256,10
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 15 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+PODER 02 PODER EXECUTIVO
+
+ORGÃO 08 Secretaria Municipal de Obras e Serviços Públicos
+
+UNIDADE 00 Secretaria Municipal de Obras e Serviços Públicos
+
+Categoria Código Especificação F.R. Elemento Modalidade Grupo Econômica
+
+3 . 0 . 00 . 00 DESPESAS CORRENTES 0.000.000 8.159.697,59 3 . 1 . 00 . 00 PESSOAL E ENCARGOS SOCIAIS 0.000.000 2.702.500,00 3 . 1 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 2.702.500,00 3 . 1 . 90 . 11 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 0.1.500 2.300.500,00 3 . 1 . 90 . 13 OBRIGAÇÕES PATRONAIS 0.1.500 340.000,00 3 . 1 . 90 . 94 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 0.1.500 62.000,00 3 . 3 . 00 . 00 OUTRAS DESPESAS CORRENTES 0.000.000 5.457.197,59 3 . 3 . 71 . 00 TRANSFERÊNCIAS A CONSÓRCIOS PÚBLICOS 0.000.000 53.000,00 3 . 3 . 71 . 70 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO PÚBLICO 0.1.500 53.000,00 3 . 3 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 5.404.197,59 3 . 3 . 90 . 14 DIÁRIAS - CIVIL 0.1.500 8.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.500 1.581.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.701 556.000,00 3 . 3 . 90 . 30 MATERIAL DE CONSUMO 0.1.720 300.000,00 3 . 3 . 90 . 33 PASSAGENS E DESPESAS COM LOCOMOÇÃO 0.1.500 1.000,00 3 . 3 . 90 . 36 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 0.1.500 3.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.500 1.388.672,18 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.701 159.000,00 3 . 3 . 90 . 39 OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA 0.1.751 498.125,41 3 . 3 . 90 . 46 AUXILIO-ALIMENTACAO 0.1.500 842.400,00 3 . 3 . 90 . 92 DESPESAS DE EXERCICIOS ANTERIORES 0.1.500 5.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.700 32.000,00 3 . 3 . 90 . 93 INDENIZAÇÕES E RESTITUIÇÕES 0.1.701 30.000,00 4 . 0 . 00 . 00 DESPESAS DE CAPITAL 0.000.000 4.090.211,10 4 . 4 . 00 . 00 INVESTIMENTOS 0.000.000 4.090.211,10 4 . 4 . 90 . 00 APLICAÇÕES DIRETAS 0.000.000 4.090.211,10 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.500 230.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.701 905.075,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.706 500.000,00 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.750 31.912,76 4 . 4 . 90 . 51 OBRAS E INSTALAÇÕES 0.1.755 100.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.500 75.000,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.700 816.723,34 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.701 431.500,00 4 . 4 . 90 . 52 EQUIPAMENTOS E MATERIAL PERMANENTE 0.1.706 1.000.000,00
+
+TOTAL 12.249.908,69
+
+ID: 282818 e CRC: 9D21974B
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Anexo 02 Página 16 Orçamento Programa - Exercício de 2026 NATUREZA DA DESPESA POR ORGÃO E UNIDADE
+
+TOTAL GERAL 59.801.630,00
+
+ID: 282818 e CRC: 9D21974B
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Natureza da despesa por Órgão e Un 29/12/2025
+
+ID: 282818 Processo Documento
+
+CRC: 9D21974B Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:24:07 Finalização: 29/12/2025 10:24:33
+
+MD5: 5A56AB7676585CB8AD3F250F180B5638 SHA256: 1242D1D6BEEBEDD4824A2F1051A07EBA05815F6BEBDA54CE52FE0C9B07D83B12
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:24:07
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:24:07
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:48
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282818 e o CRC 9D21974B.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 09 Página 1 DEMONSTRATIVO DAS DESPESAS POR ORGÃO E FUNÇÕES DE GOVERNO (Inc.II, § 2º, Art.2º)
+
+Orgão: 01 01 Legislativo Municipal Valor
+
+Função 01 Legislativa 3.288.000,00
+
+Orgão: 02 02 Gabinete do Prefeito Valor
+
+Função 04 Administração 3.138.950,00
+
+Orgão: 02 03 Secretaria Municipal de Administração e Fazenda Valor
+
+Função 04 Administração 3.634.640,00 Função 28 Encargos Especiais 10.000,00 Função 99 Reserva de Contingência 400.000,00
+
+Orgão: 02 04 Secret Mun de Educ, Cult, Esp e Turismo Valor
+
+Função 12 Educação 14.777.709,95 Função 13 Cultura 100.000,00 Função 27 Desporto e Lazer 489.128,05
+
+Orgão: 02 05 Secretaria Municipal de Saúde Valor
+
+Função 10 Saúde 16.460.675,82
+
+Orgão: 02 06 Secretaria Mun de Assistencia Social Valor
+
+Função 08 Assistência Social 2.849.361,39
+
+Orgão: 02 07 Secretaria Mun de Agricultura e Pecuária Valor
+
+Função 20 Agricultura 2.403.256,10
+
+Orgão: 02 08 Secretaria Municipal de Obras e Serviços Públicos Valor
+
+Função 04 Administração 4.186.900,00 Função 15 Urbanismo 3.003.038,17 Função 17 Saneamento 530.000,00 Função 18 Gestão Ambiental 21.000,00 Função 26 Transporte 4.508.970,52
+
+TOTAL GERAL 59.801.630,00
+
+RESUMO DO TOTAL ORÇADO POR ORGÃO
+
+01 01 Legislativo Municipal 3.288.000,00 02 02 Gabinete do Prefeito 3.138.950,00 02 03 Secretaria Municipal de Administração e Fazenda 4.044.640,00 02 04 Secret Mun de Educ, Cult, Esp e Turismo 15.366.838,00
+
+ID: 282822 e CRC: AA54FFA1
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 09 Página 2 DEMONSTRATIVO DAS DESPESAS POR ORGÃO E FUNÇÕES DE GOVERNO (Inc.II, § 2º, Art.2º)
+
+02 05 Secretaria Municipal de Saúde 16.460.675,82 02 06 Secretaria Mun de Assistencia Social 2.849.361,39 02 07 Secretaria Mun de Agricultura e Pecuária 2.403.256,10 02 08 Secretaria Municipal de Obras e Serviços Públicos 12.249.908,69
+
+TOTAL 59.801.630,00
+
+RESUMO DO TOTAL ORÇADO POR FUNÇÃO
+
+01 Legislativa 3.288.000,00 04 Administração 10.960.490,00 08 Assistência Social 2.849.361,39 10 Saúde 16.460.675,82 12 Educação 14.777.709,95 13 Cultura 100.000,00 15 Urbanismo 3.003.038,17 17 Saneamento 530.000,00 18 Gestão Ambiental 21.000,00 20 Agricultura 2.403.256,10 26 Transporte 4.508.970,52 27 Desporto e Lazer 489.128,05 28 Encargos Especiais 10.000,00 99 Reserva de Contingência 400.000,00
+
+TOTAL 59.801.630,00
+
+ID: 282822 e CRC: AA54FFA1
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Demonst da Despesa por Órgãos e 29/12/2025 Funções de Governo ID: 282822 Processo Documento
+
+CRC: AA54FFA1 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:25:29 Finalização: 29/12/2025 10:26:01
+
+MD5: 49BBCFC2DFCE281A3F61B77B5B926332 SHA256: CBC6A819D8142DFEAD2FA7BB3FD50539715031FE1377F8228A6FC95A73E23FC4
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:25:29
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:25:29
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:49
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282822 e o CRC AA54FFA1.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 1 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+01 PODER LEGISLATIVO 01 Legislativo Municipal
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+01 Legislativa 3.288.000,00 3.288.000,00
+
+01 031 Ação Legislativa 3.288.000,00 3.288.000,00
+
+01 031 0001 CÂMARA MODERNA E TRANSPARENTE 3.288.000,00 3.288.000,00 01.031.0001.2001.0000 Manutenção das Atividades Legislativas 3.288.000,00 3.288.000,00
+
+TOTAL 0,00 0,00 3.288.000,00 3.288.000,00
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 2 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+02 PODER EXECUTIVO 02 Gabinete do Prefeito
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+04 Administração 3.138.950,00 3.138.950,00
+
+04 122 Administração Geral 2.732.200,00 2.732.200,00
+
+04 122 0002 TRABALHO E ORGANIZAÇÃO 2.732.200,00 2.732.200,00 04.122.0002.2002.0000 Manutenção das Atividades do Gabinete do Prefeito 2.562.200,00 2.562.200,00 04.122.0002.2003.0000 Ações Alusivas ao Aniversário do Municipio, Decorações 170.000,00 170.000,00 Natalinas, Comemorativas e Cerimonial 04 243 Assistência à Criança e ao Adolescente 406.750,00 406.750,00
+
+04 243 0002 TRABALHO E ORGANIZAÇÃO 406.750,00 406.750,00 04.243.0002.2004.0000 Manutenção do Conselho Tutelar 406.750,00 406.750,00
+
+TOTAL 0,00 0,00 3.138.950,00 3.138.950,00
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 3 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+02 PODER EXECUTIVO 03 Secretaria Municipal de Administração e Fazenda
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+04 Administração 3.634.640,00 3.634.640,00
+
+04 121 Planejamento e Orçamento 657.640,00 657.640,00
+
+04 121 0002 TRABALHO E ORGANIZAÇÃO 657.640,00 657.640,00 04.121.0002.2007.0000 Manutenção das Atividades da Coordenadoria Municipal de 657.640,00 657.640,00 Planejamento 04 122 Administração Geral 100.000,00 100.000,00
+
+04 122 0002 TRABALHO E ORGANIZAÇÃO 100.000,00 100.000,00 04.122.0002.2006.0000 Ações Decorrentes de Concurso Público Municipal 100.000,00 100.000,00
+
+04 123 Administração Financeira 2.877.000,00 2.877.000,00
+
+04 123 0002 TRABALHO E ORGANIZAÇÃO 2.877.000,00 2.877.000,00 04.123.0002.2005.0000 Manutenção das Atividades da Secretaria Municipal de 2.877.000,00 2.877.000,00 Administração e Fazenda 28 Encargos Especiais 10.000,00 10.000,00
+
+28 843 Serviço da Dívida Interna 10.000,00 10.000,00
+
+28 843 0002 TRABALHO E ORGANIZAÇÃO 10.000,00 10.000,00 28.843.0002.0001.0000 Serviço da Dívida Interna 10.000,00 10.000,00
+
+99 Reserva de Contingência 400.000,00 400.000,00
+
+99 999 Reserva de Contingência 400.000,00 400.000,00
+
+99 999 0002 TRABALHO E ORGANIZAÇÃO 400.000,00 400.000,00 99.999.0002.9099.0000 Reserva de Contingencia 400.000,00 400.000,00
+
+TOTAL 410.000,00 0,00 3.634.640,00 4.044.640,00
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 4 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+02 PODER EXECUTIVO 04 Secret Mun de Educ, Cult, Esp e Turismo
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+12 Educação 45.000,00 14.732.709,95 14.777.709,95
+
+12 361 Ensino Fundamental 45.000,00 14.179.059,95 14.224.059,95
+
+12 361 0003 EDUCAR PARA O FUTURO 45.000,00 14.179.059,95 14.224.059,95 12.361.0003.1001.0000 Reforma e Ampliação de Unidades Escolares - 25.000,00 25.000,00 contrapartida 12.361.0003.1002.0000 Aquisição de Veículo Adequado ao Transporte Escolar - 20.000,00 20.000,00 contrapartida 12.361.0003.2008.0000 Manutenção das Atividades da SEMEC 3.901.527,08 3.901.527,08 12.361.0003.2009.0000 Transporte de Estudantes da Zona Rural 411.000,00 411.000,00 12.361.0003.2010.0000 Apoio ao Programa Nacional de Alimentação Escolar - 40.000,00 40.000,00 PNAE 12.361.0003.2011.0000 Quota Salário Educação 450.000,00 450.000,00 12.361.0003.2012.0000 Apoio ao Programa Nacional de Transporte Escolar - 25.000,00 25.000,00 PNATE 12.361.0003.2013.0000 Manutenção do Transporte Escolar - Programa IR e VIR 2.400.000,00 2.400.000,00 12.361.0003.2014.0000 Ações do Ensino Fundamental e Básico - FUNDEB 70% 5.846.857,00 5.846.857,00 12.361.0003.2015.0000 Ações do Ensino Fundamental e Básico - FUNDEB 30% 13.813,87 13.813,87 12.361.0003.2016.0000 Apoio as Ações do Ensino Infantil 1.090.862,00 1.090.862,00
+
+12 364 Ensino Superior 553.650,00 553.650,00
+
+12 364 0004 FUTURO BRILHANTE 553.650,00 553.650,00 12.364.0004.2017.0000 Transporte de Estudantes do Ensino Superior 553.650,00 553.650,00
+
+13 Cultura 100.000,00 100.000,00
+
+13 392 Difusão Cultural 100.000,00 100.000,00
+
+13 392 0005 VIVA A NOSSA HISTÓRIA 100.000,00 100.000,00 13.392.0005.2018.0000 Apoio às Ações Culturais 100.000,00 100.000,00
+
+27 Desporto e Lazer 489.128,05 489.128,05
+
+27 695 Turismo 176.000,00 176.000,00
+
+27 695 0007 DESCUBRA CABIXI 176.000,00 176.000,00 27.695.0007.2020.0000 Incentivo ao Turismo 176.000,00 176.000,00
+
+27 812 Desporto Comunitário 313.128,05 313.128,05
+
+27 812 0006 ESPORTE É VIDA 313.128,05 313.128,05 27.812.0006.2019.0000 Apoio às Açoes Esportivas 313.128,05 313.128,05
+
+TOTAL 0,00 45.000,00 15.321.838,00 15.366.838,00
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 5 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+02 PODER EXECUTIVO 05 Secretaria Municipal de Saúde
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+10 Saúde 352.628,05 16.108.047,77 16.460.675,82
+
+10 122 Administração Geral 11.231.098,17 11.231.098,17
+
+10 122 0008 GOVERNO QUE CUIDA 11.231.098,17 11.231.098,17 10.122.0008.2021.0000 Manutenção do Fundo Municipal de Saúde 11.179.098,17 11.179.098,17 10.122.0008.2022.0000 Manutenção do Conselho Municipal de Saude 52.000,00 52.000,00
+
+10 301 Atenção Básica 105.000,00 3.299.549,87 3.404.549,87
+
+10 301 0010 SAÚDE NA PORTA DE CASA 105.000,00 3.299.549,87 3.404.549,87 10.301.0010.1003.0000 Aquisição de Equipamentos para Atenção Básica de 20.000,00 20.000,00 Saúde 10.301.0010.1004.0000 Construção, Reforma e Ampliação de Unidades Básicas de 50.000,00 50.000,00 Saúde 10.301.0010.1005.0000 Aquisição de Medicamentos para Atenção Básica de 25.000,00 25.000,00 Saúde 10.301.0010.1006.0000 Melhoria no Sistema de Transporte de Pacientes 10.000,00 10.000,00 10.301.0010.2024.0000 Complementação ao Pagamento do Piso da Enfermagem - 45.000,00 45.000,00 Atenção Básica 10.301.0010.2025.0000 Incentivo Financeiro da APS - Equipes Saúde da Família 540.570,60 540.570,60 10.301.0010.2026.0000 Incentivo Financeiro da APS - Saúde Bucal 115.844,87 115.844,87 10.301.0010.2027.0000 Piso da Atenção Primária a Saúde - PAP 1.200.000,00 1.200.000,00 10.301.0010.2028.0000 Incremento Temporário Custeio Serviços de Atenção 463.263,98 463.263,98 Primária em Saúde 10.301.0010.2029.0000 Incentivo Financeiro da APS - Componente Per Capita de 33.852,00 33.852,00 Base Populacional 10.301.0010.2030.0000 Apoio ao Programa de Agentes Comunitários de Saúde - 685.677,05 685.677,05 PACS 10.301.0010.2036.0000 Assistência Farmacêutica e Insumos da Atenção Básica 215.341,37 215.341,37
+
+10 302 Assistência Hospitalar e Ambulatorial 247.628,05 1.397.968,73 1.645.596,78
+
+10 302 0008 GOVERNO QUE CUIDA 507.000,00 507.000,00 10.302.0008.2031.0000 Complementação ao Pagamento do Piso da Enfermagem 507.000,00 507.000,00 Hospitalar 10 302 0009 CUIDANDO DA NOSSA GENTE 247.628,05 890.968,73 1.138.596,78 10.302.0009.1007.0000 Modernização dos Equipamentos Hospitalares 32.628,05 32.628,05 10.302.0009.1008.0000 Ampliação e Reforma do HPP - Contrapartida 15.000,00 15.000,00 10.302.0009.1009.0000 Aquisição de Medicamento Hospitalar 200.000,00 200.000,00 10.302.0009.2023.0000 Manutenção da Casa de Apoio a Pacientes em Tratamento 230.000,00 230.000,00 em Porto Velho 10.302.0009.2032.0000 Atendimento Hospitalar e Ambulatorial de Média e Alta 660.968,73 660.968,73 Complexidade - MAC 10 304 Vigilância Sanitária 15.000,00 15.000,00
+
+10 304 0010 SAÚDE NA PORTA DE CASA 15.000,00 15.000,00 10.304.0010.2035.0000 Apoio às Ações de Vigilância Sanitária 15.000,00 15.000,00
+
+10 305 Vigilância Epidemiológica 164.431,00 164.431,00
+
+10 305 0010 SAÚDE NA PORTA DE CASA 164.431,00 164.431,00 10.305.0010.2033.0000 Ações de Combate a Endemias 98.951,00 98.951,00 10.305.0010.2034.0000 Apoio as Ações de Vigilância em Saúde 65.480,00 65.480,00
+
+TOTAL 0,00 352.628,05 16.108.047,77 16.460.675,82
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 6 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+02 PODER EXECUTIVO 06 Secretaria Mun de Assistencia Social
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+08 Assistência Social 25.000,00 2.824.361,39 2.849.361,39
+
+08 241 Assistência à Pessoa Idosa 2.000,00 2.000,00
+
+08 241 0011 ASSISTÊNCIA DE VERDADE 2.000,00 2.000,00 08.241.0011.1010.0000 Ampliação do Centro de Convivência do Idoso 2.000,00 2.000,00
+
+08 243 Assistência à Criança e ao Adolescente 81.100,00 81.100,00
+
+08 243 0011 ASSISTÊNCIA DE VERDADE 81.100,00 81.100,00 08.243.0011.2037.0000 Manutenção da Casa de Acolhimento 53.100,00 53.100,00 08.243.0011.2053.0000 Manutenção do Fundo Municipal dos Direitos da Criança e 28.000,00 28.000,00 do Adolescente 08 244 Assistência Comunitária 23.000,00 2.743.261,39 2.766.261,39
+
+08 244 0011 ASSISTÊNCIA DE VERDADE 23.000,00 2.743.261,39 2.766.261,39 08.244.0011.1011.0000 Contrapartida a Convênios Celebrados com o Estado e a 2.000,00 2.000,00 União 08.244.0011.1012.0000 Construção de Unidades Habitacionais para Famílias de 20.000,00 20.000,00 Baixa Renda - Contrapartida 08.244.0011.1013.0000 Estruturação Proteção Social Básica 1.000,00 1.000,00 08.244.0011.2038.0000 Ações do Centro Municipal Recanto Feliz - CEMURF 87.100,00 87.100,00 08.244.0011.2039.0000 Manutenção do Fundo Municipal de Assistência Social 1.981.280,25 1.981.280,25 08.244.0011.2040.0000 Benefícios Eventuais a Famílias com Renda até 1/4 Salário 59.000,00 59.000,00 Mínimo Federal 08.244.0011.2041.0000 Bloco de Financiamento da Proteção Social Básica 120.181,14 120.181,14 08.244.0011.2042.0000 Bloco de Financiamento da Gestão do Bolsa Família e 35.600,00 35.600,00 Cadastro Único 08.244.0011.2043.0000 Bloco de Financiamento da Gestão do SUAS 17.100,00 17.100,00 08.244.0011.2044.0000 Capacitação, Qualificação e Nivelamento dos Agentes do 13.000,00 13.000,00 SUAS 08.244.0011.2045.0000 Piso Fixo Proteção Social Básica PFB - Repasse FEAS 165.500,00 165.500,00 08.244.0011.2046.0000 Apoio ao Programa Mamãe Cheguei 9.500,00 9.500,00 08.244.0011.2047.0000 Piso Fixo Proteção Social Especial PSE - Repasse FEAS 117.000,00 117.000,00 08.244.0011.2048.0000 Benefícios Eventuais - Repasse FEAS 20.000,00 20.000,00 08.244.0011.2049.0000 Piso Variável - Repasse FEAS 33.000,00 33.000,00 08.244.0011.2050.0000 Ações do PROCAD SUAS 25.000,00 25.000,00 08.244.0011.2051.0000 Fortalecimento do Controle Social - CMAS 10.000,00 10.000,00 08.244.0011.2052.0000 Piso Fixo à Parceria Público Privado - Repasse FEAS 50.000,00 50.000,00
+
+TOTAL 0,00 25.000,00 2.824.361,39 2.849.361,39
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 7 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+02 PODER EXECUTIVO 07 Secretaria Mun de Agricultura e Pecuária
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+20 Agricultura 116.000,00 2.287.256,10 2.403.256,10
+
+20 608 Promoção da Produção Agropecuária 116.000,00 2.287.256,10 2.403.256,10
+
+20 608 0012 IMPULSIONANDO A PRODUÇÃO 116.000,00 2.287.256,10 2.403.256,10 20.608.0012.1014.0000 Realização de Concurso Leiteiro 96.000,00 96.000,00 20.608.0012.1015.0000 Convênios Celebrados com o Estado e a União - 20.000,00 20.000,00 Contrapartida 20.608.0012.2054.0000 Manutenção das Atividades da SEMAP 1.215.000,00 1.215.000,00 20.608.0012.2055.0000 Apoio à Produção Agrícola, à Pecuária e à Piscicultura 992.256,10 992.256,10 20.608.0012.2056.0000 Manutenção dos Serviços de Inspeção Municipal - SIM 60.000,00 60.000,00 20.608.0012.2057.0000 Ações do Programa de Aquisição de Alimentos - PAA 20.000,00 20.000,00
+
+TOTAL 0,00 116.000,00 2.287.256,10 2.403.256,10
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 8 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+02 PODER EXECUTIVO 08 Secretaria Municipal de Obras e Serviços Públicos
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+04 Administração 10.000,00 4.176.900,00 4.186.900,00
+
+04 122 Administração Geral 10.000,00 4.176.900,00 4.186.900,00
+
+04 122 0002 TRABALHO E ORGANIZAÇÃO 10.000,00 4.176.900,00 4.186.900,00 04.122.0002.1016.0000 Reforma e Readequação do Prédio da Prefeitura 10.000,00 10.000,00 04.122.0002.2058.0000 Manutenção das Atividades da Secretaria Municipal de 4.176.900,00 4.176.900,00 Obras e Serviços Públicos 15 Urbanismo 1.861.912,76 1.141.125,41 3.003.038,17
+
+15 451 Infra-Estrutura Urbana 1.861.912,76 1.861.912,76
+
+15 451 0013 CIDADE QUE CRESCE COM A GENTE 1.861.912,76 1.861.912,76 15.451.0013.1017.0000 Regularização Fundiária Urbana 50.000,00 50.000,00 15.451.0013.1018.0000 Pavimentação Asfáltica Urbana 20.000,00 20.000,00 15.451.0013.1019.0000 Construção de Calçamento Público 130.000,00 130.000,00 15.451.0013.1020.0000 Recapeamento Asfáltico Urbano 161.912,76 161.912,76 15.451.0013.1021.0000 Infraestrutura Urbana e Equipamentos - Transferência 1.500.000,00 1.500.000,00 Especial 15 452 Serviços Urbanos 1.141.125,41 1.141.125,41
+
+15 452 0013 CIDADE QUE CRESCE COM A GENTE 1.141.125,41 1.141.125,41 15.452.0013.2059.0000 Conservação de Vias Públicas Urbanas 170.000,00 170.000,00 15.452.0013.2060.0000 Manutenção da Iluminação Pública 918.125,41 918.125,41 15.452.0013.2061.0000 Manutenção do Consórcio Intermunicipal para Resíduos 53.000,00 53.000,00 Sólidos 17 Saneamento 530.000,00 530.000,00
+
+17 512 Saneamento Básico Urbano 530.000,00 530.000,00
+
+17 512 0013 CIDADE QUE CRESCE COM A GENTE 530.000,00 530.000,00 17.512.0013.2062.0000 Manutenção do Transporte e Disposição Final dos 500.000,00 500.000,00 Resíduos Sólidos Urbanos 17.512.0013.2063.0000 Manutenção e Melhoria do Sistema de Abastecimento de 30.000,00 30.000,00 Água para os Distritos 18 Gestão Ambiental 21.000,00 21.000,00
+
+18 541 Preservação e Conservação Ambiental 21.000,00 21.000,00
+
+18 541 0015 NATUREZA SEM CHAMAS 21.000,00 21.000,00 18.541.0015.2065.0000 Ações de Educação e Preservação Ambiental 21.000,00 21.000,00
+
+26 Transporte 2.983.298,34 1.525.672,18 4.508.970,52
+
+26 782 Transporte Rodoviário 2.983.298,34 1.525.672,18 4.508.970,52
+
+26 782 0014 RUMO AO DESENVOLVIMENTO 2.983.298,34 1.525.672,18 4.508.970,52 26.782.0014.1022.0000 Construção e Reforma de Pontes e Bueiros 105.000,00 105.000,00 26.782.0014.1023.0000 Aquisição de Veículos e Equipamentos Rodoviários 826.723,34 826.723,34 26.782.0014.1024.0000 Recuperação de Estradas Vicinais - Convênio Fitha 715.000,00 715.000,00 26.782.0014.1025.0000 Infraestrutura Rural e Equipamentos - Convênio Estadual 1.336.575,00 1.336.575,00 26.782.0014.2064.0000 Conservação de Estradas Vicinais 1.525.672,18 1.525.672,18
+
+TOTAL 0,00 4.855.211,10 7.394.697,59 12.249.908,69
+
+ID: 282827 e CRC: 06AD2AC0
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 06 Página 9 PROGRAMA DE TRABALHO (Inc.II, § 2º, Art.2º)
+
+TOTAL GERAL 410.000,00 5.393.839,15 53.997.790,85 59.801.630,00
+
+ID: 282827 e CRC: 06AD2AC0
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Programa de Trabalho 29/12/2025
+
+ID: 282827 Processo Documento
+
+CRC: 06AD2AC0 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:27:09 Finalização: 29/12/2025 10:27:27
+
+MD5: 510A4E4131B56C0ADD3893C5FDAABEDA SHA256: 32B69D7824CFE2BD9E1962432B8FE51276D797AE2EC7397D17B813A3B540ABA9
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:27:09
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:27:09
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:50
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282827 e o CRC 06AD2AC0.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 07 Página 1 PROGRAMA DE TRABALHO DO GOVERNO DEMONSTRATIVO DE FUNCÕES, SUBFUNÇÕES E PROGRAMAS POR PROJETOS, ATIVIDADES E OPERAÇÕES ESPECIAIS (Inc.II, § 2º, Art.2º)
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+01 Legislativa 0,00 0,00 3.288.000,00 3.288.000,00
+
+01 031 Ação Legislativa 0,00 0,00 3.288.000,00 3.288.000,00 01 031 0001 CÂMARA MODERNA E TRANSPARENTE 0,00 0,00 3.288.000,00 3.288.000,00 01.031.0001.2001.0000 Manutenção das Atividades Legislativas 0,00 0,00 3.288.000,00 3.288.000,00
+
+04 Administração 0,00 10.000,00 10.950.490,00 10.960.490,00
+
+04 121 Planejamento e Orçamento 0,00 0,00 657.640,00 657.640,00 04 121 0002 TRABALHO E ORGANIZAÇÃO 0,00 0,00 657.640,00 657.640,00 04.121.0002.2007.0000 Manutenção das Atividades da Coordenadoria Municipal de 0,00 0,00 657.640,00 657.640,00 Planejamento
+
+04 122 Administração Geral 0,00 10.000,00 7.009.100,00 7.019.100,00 04 122 0002 TRABALHO E ORGANIZAÇÃO 0,00 10.000,00 7.009.100,00 7.019.100,00 04.122.0002.1016.0000 Reforma e Readequação do Prédio da Prefeitura 0,00 10.000,00 0,00 10.000,00 04.122.0002.2002.0000 Manutenção das Atividades do Gabinete do Prefeito 0,00 0,00 2.562.200,00 2.562.200,00 04.122.0002.2003.0000 Ações Alusivas ao Aniversário do Municipio, Decorações Natalinas, 0,00 0,00 170.000,00 170.000,00 Comemorativas e Cerimonial 04.122.0002.2006.0000 Ações Decorrentes de Concurso Público Municipal 0,00 0,00 100.000,00 100.000,00 04.122.0002.2058.0000 Manutenção das Atividades da Secretaria Municipal de Obras e 0,00 0,00 4.176.900,00 4.176.900,00 Serviços Públicos
+
+04 123 Administração Financeira 0,00 0,00 2.877.000,00 2.877.000,00 04 123 0002 TRABALHO E ORGANIZAÇÃO 0,00 0,00 2.877.000,00 2.877.000,00 04.123.0002.2005.0000 Manutenção das Atividades da Secretaria Municipal de 0,00 0,00 2.877.000,00 2.877.000,00 Administração e Fazenda
+
+04 243 Assistência à Criança e ao Adolescente 0,00 0,00 406.750,00 406.750,00 04 243 0002 TRABALHO E ORGANIZAÇÃO 0,00 0,00 406.750,00 406.750,00 04.243.0002.2004.0000 Manutenção do Conselho Tutelar 0,00 0,00 406.750,00 406.750,00
+
+08 Assistência Social 0,00 25.000,00 2.824.361,39 2.849.361,39
+
+08 241 Assistência à Pessoa Idosa 0,00 2.000,00 0,00 2.000,00 08 241 0011 ASSISTÊNCIA DE VERDADE 0,00 2.000,00 0,00 2.000,00 08.241.0011.1010.0000 Ampliação do Centro de Convivência do Idoso 0,00 2.000,00 0,00 2.000,00
+
+08 243 Assistência à Criança e ao Adolescente 0,00 0,00 81.100,00 81.100,00 08 243 0011 ASSISTÊNCIA DE VERDADE 0,00 0,00 81.100,00 81.100,00 08.243.0011.2037.0000 Manutenção da Casa de Acolhimento 0,00 0,00 53.100,00 53.100,00 08.243.0011.2053.0000 Manutenção do Fundo Municipal dos Direitos da Criança e do 0,00 0,00 28.000,00 28.000,00 Adolescente
+
+08 244 Assistência Comunitária 0,00 23.000,00 2.743.261,39 2.766.261,39
+
+ID: 282828 e CRC: 44BC1008
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 07 Página 2 PROGRAMA DE TRABALHO DO GOVERNO DEMONSTRATIVO DE FUNCÕES, SUBFUNÇÕES E PROGRAMAS POR PROJETOS, ATIVIDADES E OPERAÇÕES ESPECIAIS (Inc.II, § 2º, Art.2º)
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+08 Assistência Social 0,00 25.000,00 2.824.361,39 2.849.361,39
+
+08 244 Assistência Comunitária 0,00 23.000,00 2.743.261,39 2.766.261,39 08 244 0011 ASSISTÊNCIA DE VERDADE 0,00 23.000,00 2.743.261,39 2.766.261,39 08.244.0011.1011.0000 Contrapartida a Convênios Celebrados com o Estado e a União 0,00 2.000,00 0,00 2.000,00 08.244.0011.1012.0000 Construção de Unidades Habitacionais para Famílias de Baixa 0,00 20.000,00 0,00 20.000,00 Renda - Contrapartida 08.244.0011.1013.0000 Estruturação Proteção Social Básica 0,00 1.000,00 0,00 1.000,00 08.244.0011.2038.0000 Ações do Centro Municipal Recanto Feliz - CEMURF 0,00 0,00 87.100,00 87.100,00 08.244.0011.2039.0000 Manutenção do Fundo Municipal de Assistência Social 0,00 0,00 1.981.280,25 1.981.280,25 08.244.0011.2040.0000 Benefícios Eventuais a Famílias com Renda até 1/4 Salário Mínimo 0,00 0,00 59.000,00 59.000,00 Federal 08.244.0011.2041.0000 Bloco de Financiamento da Proteção Social Básica 0,00 0,00 120.181,14 120.181,14 08.244.0011.2042.0000 Bloco de Financiamento da Gestão do Bolsa Família e Cadastro 0,00 0,00 35.600,00 35.600,00 Único 08.244.0011.2043.0000 Bloco de Financiamento da Gestão do SUAS 0,00 0,00 17.100,00 17.100,00 08.244.0011.2044.0000 Capacitação, Qualificação e Nivelamento dos Agentes do SUAS 0,00 0,00 13.000,00 13.000,00 08.244.0011.2045.0000 Piso Fixo Proteção Social Básica PFB - Repasse FEAS 0,00 0,00 165.500,00 165.500,00 08.244.0011.2046.0000 Apoio ao Programa Mamãe Cheguei 0,00 0,00 9.500,00 9.500,00 08.244.0011.2047.0000 Piso Fixo Proteção Social Especial PSE - Repasse FEAS 0,00 0,00 117.000,00 117.000,00 08.244.0011.2048.0000 Benefícios Eventuais - Repasse FEAS 0,00 0,00 20.000,00 20.000,00 08.244.0011.2049.0000 Piso Variável - Repasse FEAS 0,00 0,00 33.000,00 33.000,00 08.244.0011.2050.0000 Ações do PROCAD SUAS 0,00 0,00 25.000,00 25.000,00 08.244.0011.2051.0000 Fortalecimento do Controle Social - CMAS 0,00 0,00 10.000,00 10.000,00 08.244.0011.2052.0000 Piso Fixo à Parceria Público Privado - Repasse FEAS 0,00 0,00 50.000,00 50.000,00
+
+10 Saúde 0,00 352.628,05 16.108.047,77 16.460.675,82
+
+10 122 Administração Geral 0,00 0,00 11.231.098,17 11.231.098,17 10 122 0008 GOVERNO QUE CUIDA 0,00 0,00 11.231.098,17 11.231.098,17 10.122.0008.2021.0000 Manutenção do Fundo Municipal de Saúde 0,00 0,00 11.179.098,17 11.179.098,17 10.122.0008.2022.0000 Manutenção do Conselho Municipal de Saude 0,00 0,00 52.000,00 52.000,00
+
+10 301 Atenção Básica 0,00 105.000,00 3.299.549,87 3.404.549,87 10 301 0010 SAÚDE NA PORTA DE CASA 0,00 105.000,00 3.299.549,87 3.404.549,87 10.301.0010.1003.0000 Aquisição de Equipamentos para Atenção Básica de Saúde 0,00 20.000,00 0,00 20.000,00 10.301.0010.1004.0000 Construção, Reforma e Ampliação de Unidades Básicas de Saúde 0,00 50.000,00 0,00 50.000,00 10.301.0010.1005.0000 Aquisição de Medicamentos para Atenção Básica de Saúde 0,00 25.000,00 0,00 25.000,00 10.301.0010.1006.0000 Melhoria no Sistema de Transporte de Pacientes 0,00 10.000,00 0,00 10.000,00 10.301.0010.2024.0000 Complementação ao Pagamento do Piso da Enfermagem - Atenção 0,00 0,00 45.000,00 45.000,00 Básica 10.301.0010.2025.0000 Incentivo Financeiro da APS - Equipes Saúde da Família 0,00 0,00 540.570,60 540.570,60 10.301.0010.2026.0000 Incentivo Financeiro da APS - Saúde Bucal 0,00 0,00 115.844,87 115.844,87 10.301.0010.2027.0000 Piso da Atenção Primária a Saúde - PAP 0,00 0,00 1.200.000,00 1.200.000,00 10.301.0010.2028.0000 Incremento Temporário Custeio Serviços de Atenção Primária em 0,00 0,00 463.263,98 463.263,98 Saúde 10.301.0010.2029.0000 Incentivo Financeiro da APS - Componente Per Capita de Base 0,00 0,00 33.852,00 33.852,00 Populacional 10.301.0010.2030.0000 Apoio ao Programa de Agentes Comunitários de Saúde - PACS 0,00 0,00 685.677,05 685.677,05 10.301.0010.2036.0000 Assistência Farmacêutica e Insumos da Atenção Básica 0,00 0,00 215.341,37 215.341,37
+
+10 302 Assistência Hospitalar e Ambulatorial 0,00 247.628,05 1.397.968,73 1.645.596,78 10 302 0008 GOVERNO QUE CUIDA 0,00 0,00 507.000,00 507.000,00 10.302.0008.2031.0000 Complementação ao Pagamento do Piso da Enfermagem Hospitalar 0,00 0,00 507.000,00 507.000,00
+
+ID: 282828 e CRC: 44BC1008
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 07 Página 3 PROGRAMA DE TRABALHO DO GOVERNO DEMONSTRATIVO DE FUNCÕES, SUBFUNÇÕES E PROGRAMAS POR PROJETOS, ATIVIDADES E OPERAÇÕES ESPECIAIS (Inc.II, § 2º, Art.2º)
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+10 Saúde 0,00 352.628,05 16.108.047,77 16.460.675,82
+
+10 302 Assistência Hospitalar e Ambulatorial 0,00 247.628,05 1.397.968,73 1.645.596,78 10 302 0009 CUIDANDO DA NOSSA GENTE 0,00 247.628,05 890.968,73 1.138.596,78 10.302.0009.1007.0000 Modernização dos Equipamentos Hospitalares 0,00 32.628,05 0,00 32.628,05 10.302.0009.1008.0000 Ampliação e Reforma do HPP - Contrapartida 0,00 15.000,00 0,00 15.000,00 10.302.0009.1009.0000 Aquisição de Medicamento Hospitalar 0,00 200.000,00 0,00 200.000,00 10.302.0009.2023.0000 Manutenção da Casa de Apoio a Pacientes em Tratamento em Porto 0,00 0,00 230.000,00 230.000,00 Velho 10.302.0009.2032.0000 Atendimento Hospitalar e Ambulatorial de Média e Alta 0,00 0,00 660.968,73 660.968,73 Complexidade - MAC
+
+10 304 Vigilância Sanitária 0,00 0,00 15.000,00 15.000,00 10 304 0010 SAÚDE NA PORTA DE CASA 0,00 0,00 15.000,00 15.000,00 10.304.0010.2035.0000 Apoio às Ações de Vigilância Sanitária 0,00 0,00 15.000,00 15.000,00
+
+10 305 Vigilância Epidemiológica 0,00 0,00 164.431,00 164.431,00 10 305 0010 SAÚDE NA PORTA DE CASA 0,00 0,00 164.431,00 164.431,00 10.305.0010.2033.0000 Ações de Combate a Endemias 0,00 0,00 98.951,00 98.951,00 10.305.0010.2034.0000 Apoio as Ações de Vigilância em Saúde 0,00 0,00 65.480,00 65.480,00
+
+12 Educação 0,00 45.000,00 14.732.709,95 14.777.709,95
+
+12 361 Ensino Fundamental 0,00 45.000,00 14.179.059,95 14.224.059,95 12 361 0003 EDUCAR PARA O FUTURO 0,00 45.000,00 14.179.059,95 14.224.059,95 12.361.0003.1001.0000 Reforma e Ampliação de Unidades Escolares - contrapartida 0,00 25.000,00 0,00 25.000,00 12.361.0003.1002.0000 Aquisição de Veículo Adequado ao Transporte Escolar - 0,00 20.000,00 0,00 20.000,00 contrapartida 12.361.0003.2008.0000 Manutenção das Atividades da SEMEC 0,00 0,00 3.901.527,08 3.901.527,08 12.361.0003.2009.0000 Transporte de Estudantes da Zona Rural 0,00 0,00 411.000,00 411.000,00 12.361.0003.2010.0000 Apoio ao Programa Nacional de Alimentação Escolar - PNAE 0,00 0,00 40.000,00 40.000,00 12.361.0003.2011.0000 Quota Salário Educação 0,00 0,00 450.000,00 450.000,00 12.361.0003.2012.0000 Apoio ao Programa Nacional de Transporte Escolar - PNATE 0,00 0,00 25.000,00 25.000,00 12.361.0003.2013.0000 Manutenção do Transporte Escolar - Programa IR e VIR 0,00 0,00 2.400.000,00 2.400.000,00 12.361.0003.2014.0000 Ações do Ensino Fundamental e Básico - FUNDEB 70% 0,00 0,00 5.846.857,00 5.846.857,00 12.361.0003.2015.0000 Ações do Ensino Fundamental e Básico - FUNDEB 30% 0,00 0,00 13.813,87 13.813,87 12.361.0003.2016.0000 Apoio as Ações do Ensino Infantil 0,00 0,00 1.090.862,00 1.090.862,00
+
+12 364 Ensino Superior 0,00 0,00 553.650,00 553.650,00 12 364 0004 FUTURO BRILHANTE 0,00 0,00 553.650,00 553.650,00 12.364.0004.2017.0000 Transporte de Estudantes do Ensino Superior 0,00 0,00 553.650,00 553.650,00
+
+13 Cultura 0,00 0,00 100.000,00 100.000,00
+
+13 392 Difusão Cultural 0,00 0,00 100.000,00 100.000,00 13 392 0005 VIVA A NOSSA HISTÓRIA 0,00 0,00 100.000,00 100.000,00 13.392.0005.2018.0000 Apoio às Ações Culturais 0,00 0,00 100.000,00 100.000,00
+
+15 Urbanismo 0,00 1.861.912,76 1.141.125,41 3.003.038,17
+
+15 451 Infra-Estrutura Urbana 0,00 1.861.912,76 0,00 1.861.912,76
+
+ID: 282828 e CRC: 44BC1008
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 07 Página 4 PROGRAMA DE TRABALHO DO GOVERNO DEMONSTRATIVO DE FUNCÕES, SUBFUNÇÕES E PROGRAMAS POR PROJETOS, ATIVIDADES E OPERAÇÕES ESPECIAIS (Inc.II, § 2º, Art.2º)
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+15 Urbanismo 0,00 1.861.912,76 1.141.125,41 3.003.038,17
+
+15 451 Infra-Estrutura Urbana 0,00 1.861.912,76 0,00 1.861.912,76 15 451 0013 CIDADE QUE CRESCE COM A GENTE 0,00 1.861.912,76 0,00 1.861.912,76 15.451.0013.1017.0000 Regularização Fundiária Urbana 0,00 50.000,00 0,00 50.000,00 15.451.0013.1018.0000 Pavimentação Asfáltica Urbana 0,00 20.000,00 0,00 20.000,00 15.451.0013.1019.0000 Construção de Calçamento Público 0,00 130.000,00 0,00 130.000,00 15.451.0013.1020.0000 Recapeamento Asfáltico Urbano 0,00 161.912,76 0,00 161.912,76 15.451.0013.1021.0000 Infraestrutura Urbana e Equipamentos - Transferência Especial 0,00 1.500.000,00 0,00 1.500.000,00
+
+15 452 Serviços Urbanos 0,00 0,00 1.141.125,41 1.141.125,41 15 452 0013 CIDADE QUE CRESCE COM A GENTE 0,00 0,00 1.141.125,41 1.141.125,41 15.452.0013.2059.0000 Conservação de Vias Públicas Urbanas 0,00 0,00 170.000,00 170.000,00 15.452.0013.2060.0000 Manutenção da Iluminação Pública 0,00 0,00 918.125,41 918.125,41 15.452.0013.2061.0000 Manutenção do Consórcio Intermunicipal para Resíduos Sólidos 0,00 0,00 53.000,00 53.000,00
+
+17 Saneamento 0,00 0,00 530.000,00 530.000,00
+
+17 512 Saneamento Básico Urbano 0,00 0,00 530.000,00 530.000,00 17 512 0013 CIDADE QUE CRESCE COM A GENTE 0,00 0,00 530.000,00 530.000,00 17.512.0013.2062.0000 Manutenção do Transporte e Disposição Final dos Resíduos Sólidos 0,00 0,00 500.000,00 500.000,00 Urbanos 17.512.0013.2063.0000 Manutenção e Melhoria do Sistema de Abastecimento de Água para 0,00 0,00 30.000,00 30.000,00 os Distritos
+
+18 Gestão Ambiental 0,00 0,00 21.000,00 21.000,00
+
+18 541 Preservação e Conservação Ambiental 0,00 0,00 21.000,00 21.000,00 18 541 0015 NATUREZA SEM CHAMAS 0,00 0,00 21.000,00 21.000,00 18.541.0015.2065.0000 Ações de Educação e Preservação Ambiental 0,00 0,00 21.000,00 21.000,00
+
+20 Agricultura 0,00 116.000,00 2.287.256,10 2.403.256,10
+
+20 608 Promoção da Produção Agropecuária 0,00 116.000,00 2.287.256,10 2.403.256,10 20 608 0012 IMPULSIONANDO A PRODUÇÃO 0,00 116.000,00 2.287.256,10 2.403.256,10 20.608.0012.1014.0000 Realização de Concurso Leiteiro 0,00 96.000,00 0,00 96.000,00 20.608.0012.1015.0000 Convênios Celebrados com o Estado e a União - Contrapartida 0,00 20.000,00 0,00 20.000,00 20.608.0012.2054.0000 Manutenção das Atividades da SEMAP 0,00 0,00 1.215.000,00 1.215.000,00 20.608.0012.2055.0000 Apoio à Produção Agrícola, à Pecuária e à Piscicultura 0,00 0,00 992.256,10 992.256,10 20.608.0012.2056.0000 Manutenção dos Serviços de Inspeção Municipal - SIM 0,00 0,00 60.000,00 60.000,00 20.608.0012.2057.0000 Ações do Programa de Aquisição de Alimentos - PAA 0,00 0,00 20.000,00 20.000,00
+
+26 Transporte 0,00 2.983.298,34 1.525.672,18 4.508.970,52
+
+26 782 Transporte Rodoviário 0,00 2.983.298,34 1.525.672,18 4.508.970,52
+
+ID: 282828 e CRC: 44BC1008
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026
+
+Anexo 07 Página 5 PROGRAMA DE TRABALHO DO GOVERNO DEMONSTRATIVO DE FUNCÕES, SUBFUNÇÕES E PROGRAMAS POR PROJETOS, ATIVIDADES E OPERAÇÕES ESPECIAIS (Inc.II, § 2º, Art.2º)
+
+Código Especificação Operação Especial Projetos Atividades Total
+
+26 Transporte 0,00 2.983.298,34 1.525.672,18 4.508.970,52
+
+26 782 Transporte Rodoviário 0,00 2.983.298,34 1.525.672,18 4.508.970,52 26 782 0014 RUMO AO DESENVOLVIMENTO 0,00 2.983.298,34 1.525.672,18 4.508.970,52 26.782.0014.1022.0000 Construção e Reforma de Pontes e Bueiros 0,00 105.000,00 0,00 105.000,00 26.782.0014.1023.0000 Aquisição de Veículos e Equipamentos Rodoviários 0,00 826.723,34 0,00 826.723,34 26.782.0014.1024.0000 Recuperação de Estradas Vicinais - Convênio Fitha 0,00 715.000,00 0,00 715.000,00 26.782.0014.1025.0000 Infraestrutura Rural e Equipamentos - Convênio Estadual 0,00 1.336.575,00 0,00 1.336.575,00 26.782.0014.2064.0000 Conservação de Estradas Vicinais 0,00 0,00 1.525.672,18 1.525.672,18
+
+27 Desporto e Lazer 0,00 0,00 489.128,05 489.128,05
+
+27 695 Turismo 0,00 0,00 176.000,00 176.000,00 27 695 0007 DESCUBRA CABIXI 0,00 0,00 176.000,00 176.000,00 27.695.0007.2020.0000 Incentivo ao Turismo 0,00 0,00 176.000,00 176.000,00
+
+27 812 Desporto Comunitário 0,00 0,00 313.128,05 313.128,05 27 812 0006 ESPORTE É VIDA 0,00 0,00 313.128,05 313.128,05 27.812.0006.2019.0000 Apoio às Açoes Esportivas 0,00 0,00 313.128,05 313.128,05
+
+28 Encargos Especiais 10.000,00 0,00 0,00 10.000,00
+
+28 843 Serviço da Dívida Interna 10.000,00 0,00 0,00 10.000,00 28 843 0002 TRABALHO E ORGANIZAÇÃO 10.000,00 0,00 0,00 10.000,00 28.843.0002.0001.0000 Serviço da Dívida Interna 10.000,00 0,00 0,00 10.000,00
+
+99 Reserva de Contingência 400.000,00 0,00 0,00 400.000,00
+
+99 999 Reserva de Contingência 400.000,00 0,00 0,00 400.000,00 99 999 0002 TRABALHO E ORGANIZAÇÃO 400.000,00 0,00 0,00 400.000,00 99.999.0002.9099.0000 Reserva de Contingencia 400.000,00 0,00 0,00 400.000,00
+
+TOTAL 410.000,00 5.393.839,15 53.997.790,85 59.801.630,00
+
+ID: 282828 e CRC: 44BC1008
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Programa de Trabalho de Governo 29/12/2025
+
+ID: 282828 Processo Documento
+
+CRC: 44BC1008 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:28:14 Finalização: 29/12/2025 10:28:41
+
+MD5: 722E4708FE6FAEF9219778D46C371AB7 SHA256: B673D81B05875F739599203BE480CA26C46236BF91AB84846B5C0BDC3C3ABDF1
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:28:14
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:28:14
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:51
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282828 e o CRC 44BC1008.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026 Quadro 06 Página 1 DESPESA POR FUNÇÃO, SUBFUNÇÃO E PROGRAMAS CONFORME O VÍNCULO COM OS RECURSOS (Inc.II, § 2º, Art.2º)
+
+Código Especificação Ordinário Vinculado Adm. Indireta Total
+
+01 Legislativa 3.288.000,00 3.288.000,00
+
+01 031 Ação Legislativa 3.288.000,00 3.288.000,00
+
+01 031 0001 CÂMARA MODERNA E TRANSPARENTE 3.288.000,00 3.288.000,00 04 Administração 10.897.490,00 63.000,00 10.960.490,00
+
+04 121 Planejamento e Orçamento 657.640,00 657.640,00
+
+04 121 0002 TRABALHO E ORGANIZAÇÃO 657.640,00 657.640,00 04 122 Administração Geral 6.957.100,00 62.000,00 7.019.100,00
+
+04 122 0002 TRABALHO E ORGANIZAÇÃO 6.957.100,00 62.000,00 7.019.100,00 04 123 Administração Financeira 2.876.000,00 1.000,00 2.877.000,00
+
+04 123 0002 TRABALHO E ORGANIZAÇÃO 2.876.000,00 1.000,00 2.877.000,00 04 243 Assistência à Criança e ao Adolescente 406.750,00 406.750,00
+
+04 243 0002 TRABALHO E ORGANIZAÇÃO 406.750,00 406.750,00 08 Assistência Social 2.254.480,25 594.881,14 2.849.361,39
+
+08 241 Assistência à Pessoa Idosa 2.000,00 2.000,00
+
+08 241 0011 ASSISTÊNCIA DE VERDADE 2.000,00 2.000,00 08 243 Assistência à Criança e ao Adolescente 81.100,00 81.100,00
+
+08 243 0011 ASSISTÊNCIA DE VERDADE 81.100,00 81.100,00 08 244 Assistência Comunitária 2.171.380,25 594.881,14 2.766.261,39
+
+08 244 0011 ASSISTÊNCIA DE VERDADE 2.171.380,25 594.881,14 2.766.261,39 10 Saúde 16.460.675,82 16.460.675,82
+
+10 122 Administração Geral 11.231.098,17 11.231.098,17
+
+10 122 0008 GOVERNO QUE CUIDA 11.231.098,17 11.231.098,17 10 301 Atenção Básica 3.404.549,87 3.404.549,87
+
+10 301 0010 SAÚDE NA PORTA DE CASA 3.404.549,87 3.404.549,87 10 302 Assistência Hospitalar e Ambulatorial 1.645.596,78 1.645.596,78
+
+10 302 0008 GOVERNO QUE CUIDA 507.000,00 507.000,00 10 302 0009 CUIDANDO DA NOSSA GENTE 1.138.596,78 1.138.596,78 10 304 Vigilância Sanitária 15.000,00 15.000,00
+
+10 304 0010 SAÚDE NA PORTA DE CASA 15.000,00 15.000,00 10 305 Vigilância Epidemiológica 164.431,00 164.431,00
+
+10 305 0010 SAÚDE NA PORTA DE CASA 164.431,00 164.431,00 12 Educação 553.650,00 14.224.059,95 14.777.709,95
+
+12 361 Ensino Fundamental 14.224.059,95 14.224.059,95
+
+12 361 0003 EDUCAR PARA O FUTURO 14.224.059,95 14.224.059,95 12 364 Ensino Superior 553.650,00 553.650,00
+
+12 364 0004 FUTURO BRILHANTE 553.650,00 553.650,00 13 Cultura 100.000,00 100.000,00
+
+13 392 Difusão Cultural 100.000,00 100.000,00
+
+13 392 0005 VIVA A NOSSA HISTÓRIA 100.000,00 100.000,00 15 Urbanismo 873.000,00 2.130.038,17 3.003.038,17
+
+15 451 Infra-Estrutura Urbana 230.000,00 1.631.912,76 1.861.912,76
+
+15 451 0013 CIDADE QUE CRESCE COM A GENTE 230.000,00 1.631.912,76 1.861.912,76
+
+ID: 282829 e CRC: 44271100
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Orçamento Programa - Exercício de 2026 Quadro 06 Página 2 DESPESA POR FUNÇÃO, SUBFUNÇÃO E PROGRAMAS CONFORME O VÍNCULO COM OS RECURSOS (Inc.II, § 2º, Art.2º)
+
+Código Especificação Ordinário Vinculado Adm. Indireta Total
+
+15 452 Serviços Urbanos 643.000,00 498.125,41 1.141.125,41
+
+15 452 0013 CIDADE QUE CRESCE COM A GENTE 643.000,00 498.125,41 1.141.125,41 17 Saneamento 530.000,00 530.000,00
+
+17 512 Saneamento Básico Urbano 530.000,00 530.000,00
+
+17 512 0013 CIDADE QUE CRESCE COM A GENTE 530.000,00 530.000,00 18 Gestão Ambiental 21.000,00 21.000,00
+
+18 541 Preservação e Conservação Ambiental 21.000,00 21.000,00
+
+18 541 0015 NATUREZA SEM CHAMAS 21.000,00 21.000,00 20 Agricultura 2.401.256,10 2.000,00 2.403.256,10
+
+20 608 Promoção da Produção Agropecuária 2.401.256,10 2.000,00 2.403.256,10
+
+20 608 0012 IMPULSIONANDO A PRODUÇÃO 2.401.256,10 2.000,00 2.403.256,10 26 Transporte 1.340.672,18 3.168.298,34 4.508.970,52
+
+26 782 Transporte Rodoviário 1.340.672,18 3.168.298,34 4.508.970,52
+
+26 782 0014 RUMO AO DESENVOLVIMENTO 1.340.672,18 3.168.298,34 4.508.970,52 27 Desporto e Lazer 489.128,05 489.128,05
+
+27 695 Turismo 176.000,00 176.000,00
+
+27 695 0007 DESCUBRA CABIXI 176.000,00 176.000,00 27 812 Desporto Comunitário 313.128,05 313.128,05
+
+27 812 0006 ESPORTE É VIDA 313.128,05 313.128,05 28 Encargos Especiais 10.000,00 10.000,00
+
+28 843 Serviço da Dívida Interna 10.000,00 10.000,00
+
+28 843 0002 TRABALHO E ORGANIZAÇÃO 10.000,00 10.000,00 99 Reserva de Contingência 400.000,00 400.000,00
+
+99 999 Reserva de Contingência 400.000,00 400.000,00
+
+99 999 0002 TRABALHO E ORGANIZAÇÃO 400.000,00 400.000,00
+
+TOTAL 23.158.676,58 36.642.953,42 0,00 59.801.630,00
+
+ID: 282829 e CRC: 44271100
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Despesa por Função-Subfunção e 29/12/2025 Programas ID: 282829 Processo Documento
+
+CRC: 44271100 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:29:50 Finalização: 29/12/2025 10:30:30
+
+MD5: 19233D132063BB6077985F14CA0FADC4 SHA256: FE7EDB535520122594A5AE724842939177300E948C98D6404DE575BB02D92706
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:29:50
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:29:50
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:52
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282829 e o CRC 44271100.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Quadro 19 Orçamento Programa - Exercício de 2026 Página 1 RECEITA/DESPESA POR CÓDIGO DE APLICAÇÃO
+
+Cod. Descrição RECEITA PREVISTA DESPESA PREVISTA
+
+001 CÂMARA MUNICIPAL DE CABIXI 0,00 3.288.000,00 001 500 Rec. não vinculados de Impostos 3.288.000,00
+
+002 PREFEITURA MUNICIPAL DE CABIXI 43.807.234,78 40.102.954,18 002 301 Vereador Aparecido Oliveira Feltrin 10.000,00 002 303 Vereador Aparecido Oliveira Feltrin 10.000,00 002 304 Vereador Aparecido Oliveira Feltrin 5.000,00 002 305 Vereador Donizete Nunes da Silva 10.000,00 002 306 Vereador Eleilto Rodrigues dos Santos 30.000,00 002 307 Vereador Eleilto Rodrigues dos Santos 17.628,05 002 308 Vereador Fábio Gonçalves Luz 47.628,05 002 309 Vereador Gilmar Rose 25.000,00 002 310 Vereador Gilmar Rose 12.628,05 002 311 Vereador Gilmar Rose 5.000,00 002 312 Vereador Gilmar Rose 5.000,00 002 313 Vereador Imar de Lima 10.000,00 002 314 Vereador Imar de Lima 10.000,00 002 315 Vereador Imar de Lima 15.000,00 002 316 Vereador Imar de Lima 10.000,00 002 317 Vereador Imar de Lima 2.628,05 002 318 Vereadora Jucieli Andrade de Carli 10.000,00 002 319 Vereadora Jucieli Andrade de Carli 37.628,05 002 320 Vereador Milton Antunes da Silva 30.000,00 002 321 Vereador Milton Antunes da Silva 10.000,00 002 322 Vereador Milton Antunes da Silva 7.628,05 002 323 Vereador Roque Farias 7.628,05 002 324 Vereador Roque Farias 10.000,00 002 325 Vereador Roque Farias 30.000,00 002 326 Vereador Aparecido Oliveira Feltrin 22.628,05 002 500 Rec. não vinculados de Impostos 28.791.042,30 24.695.737,30 002 540 Transf. do FUNDEB - Impostos e Transf. d 6.009.367,87 6.009.367,87 002 550 Transf. do Salário-Educação 450.000,00 450.000,00 002 552 Transf. de Rec. do FNDE Referentes ao Pr 40.000,00 40.000,00 002 553 Transf. de Rec. do FNDE Referentes ao Pr 25.000,00 25.000,00 002 569 Outras Transf. de Rec. do FNDE 100.244,55 100.244,55 002 570 Transf. do Governo Federal referentes a 11.000,00 11.000,00 002 576 PROGRAMA IR E VIR 2.400.000,00 2.400.000,00 002 599 Outros Rec. Vinculados à Educação 20.362,41 20.362,41 002 660 Transf. de Rec. do Fundo Nacional de Ass 197.881,14 197.881,14 002 661 Transf. de Rec. dos Fundos Estaduais de 395.000,00 395.000,00 002 700 Outras Transf. de Conv.ou Repasses da Un 852.223,34 852.223,34 002 701 Outras Transf. de Conv.ou Repasses dos E 2.085.075,00 2.085.075,00 002 706 Transf. Especial da União 1.500.000,00 1.500.000,00 002 720 RECURSOS DO FUNDO ESPECIAL 300.000,00 300.000,00 002 750 Rec. da Contribuição de Intervenção no D 31.912,76 31.912,76
+
+ID: 282831 e CRC: 6A0200E9
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Quadro 19 Orçamento Programa - Exercício de 2026 Página 2 RECEITA/DESPESA POR CÓDIGO DE APLICAÇÃO
+
+Cod. Descrição RECEITA PREVISTA DESPESA PREVISTA
+
+002 751 Rec. da Contribuição para o Custeio do S 498.125,41 498.125,41 002 755 IMPLANTAÇÃO 100.000,00 100.000,00
+
+003 FUNDO MUNICIPAL DE SAÚDE DE CABIXI 15.994.395,22 16.410.675,82 003 301 Vereador Aparecido Oliveira Feltrin 47.628,05 003 302 Vereador Donizete Nunes da Silva 67.628,05 003 303 Vereador Donizete Nunes da Silva 17.628,05 003 304 Vereador Eleilto Rodrigues dos Santos 47.628,05 003 305 Vereador Fábio Gonçalves Luz 47.628,05 003 306 Vereador Gilmar Rose 35.000,00 003 307 Vereador Gilmar Rose 12.628,05 003 308 Vereador Imar de Lima 23.814,13 003 309 Vereador Imar de Lima 23.814,02 003 310 Vereadora Jucieli Andrade de Carli 10.000,00 003 311 Vereadora Jucieli Andrade de Carli 20.000,00 003 312 Vereadora Jucieli Andrade de Carli 17.628,05 003 313 Vereador Milton Antunes da Silva 47.628,05 003 314 Vereador Roque Farias 10.000,00 003 315 Vereador Roque Farias 37.628,05 003 500 Rec. não vinculados de Impostos 11.684.400,00 11.634.400,00 003 600 Transf.Fundo a Fundo Rec. do SUS proveni 2.855.653,85 2.855.653,85 003 601 Transf.Fundo a Fundo Rec. do SUS proveni 138.659,10 138.659,10 003 604 Transf. provenientes do Governo Federal 737.000,00 737.000,00 003 605 PISO PROF. ENFERMAGEM 552.000,00 552.000,00 003 621 Transf. Fundo a Fundo de Rec. do SUS pro 26.682,27 26.682,27
+
+TOTAL 59.801.630,00 59.801.630,00
+
+ID: 282831 e CRC: 6A0200E9
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Quadro 19 Orçamento Programa - Exercício de 2026 Página 3 RECEITA/DESPESA POR CÓDIGO DE APLICAÇÃO
+
+Cod. Descrição RECEITA PREVISTA DESPESA PREVISTA
+
+RECEITA/DESPESA POR FONTE DE RECURSO
+
+Cod. Descrição RECEITA PREVISTA DESPESA PREVISTA 1 Recursos do Exercício Corrente 0,00 59.801.630,00 500 Recursos não Vinculados de Impostos 0,00 3.288.000,00 500 Recursos não Vinculados de Impostos 0,00 19.479.652,18 500 Recursos não Vinculados de Impostos 0,00 35.000,00 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 5.000,00 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 30.000,00 500 Recursos não Vinculados de Impostos 0,00 17.628,05 500 Recursos não Vinculados de Impostos 0,00 47.628,05 500 Recursos não Vinculados de Impostos 0,00 25.000,00 500 Recursos não Vinculados de Impostos 0,00 12.628,05 500 Recursos não Vinculados de Impostos 0,00 5.000,00 500 Recursos não Vinculados de Impostos 0,00 5.000,00 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 15.000,00 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 2.628,05 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 37.628,05 500 Recursos não Vinculados de Impostos 0,00 30.000,00 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 7.628,05 500 Recursos não Vinculados de Impostos 0,00 7.628,05 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 30.000,00 500 Recursos não Vinculados de Impostos 0,00 22.628,05 550 Transferência do Salário-Educação 0,00 450.000,00 552 Transferências de Recursos do FNDE referentes ao Programa Nacional de Alimentação 0,00 Escolar (PNAE) 40.000,00 553 Transferências de Recursos do FNDE Referentes ao Programa Nacional de Apoio ao Transporte Escolar (PNATE) 0,00 25.000,00 569 Outras Transferências de Recursos do FNDE 0,00 100.244,55 570 Transferências do Governo Federal referentes a Convênios e Instrumentos Congêneres 0,00 vinculados à Educação 11.000,00 576 Transferências de Recursos dos Estados para programas de educação 0,00 2.400.000,00 599 Outros Recursos Vinculados à Educação 0,00 20.362,41 600 Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo 0,00Federal - Bloco de Manutenção das Ações e Se 2.855.653,85 601 Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo 0,00Federal - Bloco de Estruturação da Rede de Se 138.659,10 604 Transferências provenientes do Governo Federal destinadas ao vencimento dos0,00agentes comunitários de saúde e dos agente 737.000,00 605 Assistência financeira da União destinada à complementação ao pagamento dos0,00pisos salariais para profissionais 552.000,00 da enferma 621 Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo 0,00Estadual 26.682,27 660 Transferência de Recursos do Fundo Nacional de Assistência Social - FNAS 0,00 197.881,14 661 Transferência de Recursos dos Fundos Estaduais de Assistência Social 0,00 395.000,00 700 Outras Transferências de Convênios ou Instrumentos Congêneres da União 0,00 35.500,00 700 Outras Transferências de Convênios ou Instrumentos Congêneres da União 0,00 816.723,34 701 Outras Transferências de Convênios ou Instrumentos Congêneres dos Estados 0,00 748.500,00 701 Outras Transferências de Convênios ou Instrumentos Congêneres dos Estados 0,00 1.336.575,00 706 Transferência Especial da União 0,00 1.500.000,00 720 Transferências da União Referentes às participações na exploração de Petróleo e Gás Natural destinadas ao 0,00 FEP - Lei 9.478/1 300.000,00 750 Recursos da Contribuição de Intervenção no Domínio Econômico - CIDE 0,00 31.912,76
+
+ID: 282831 e CRC: 6A0200E9
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20 Quadro 19 Orçamento Programa - Exercício de 2026 Página 4 RECEITA/DESPESA POR CÓDIGO DE APLICAÇÃO
+
+Cod. Descrição RECEITA PREVISTA DESPESA PREVISTA
+
+751 Recursos da Contribuição para o Custeio do Serviço de Iluminação Pública - COSIP 0,00 498.125,41 755 Recursos de Alienação de Bens/Ativos - Administração Direta 0,00 100.000,00 500 Recursos não Vinculados de Impostos 0,00 50.000,00 500 Recursos não Vinculados de Impostos 0,00 11.634.400,00 500 Recursos não Vinculados de Impostos 0,00 47.628,05 500 Recursos não Vinculados de Impostos 0,00 67.628,05 500 Recursos não Vinculados de Impostos 0,00 17.628,05 500 Recursos não Vinculados de Impostos 0,00 47.628,05 500 Recursos não Vinculados de Impostos 0,00 47.628,05 500 Recursos não Vinculados de Impostos 0,00 12.628,05 500 Recursos não Vinculados de Impostos 0,00 23.814,13 500 Recursos não Vinculados de Impostos 0,00 23.814,02 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 20.000,00 500 Recursos não Vinculados de Impostos 0,00 17.628,05 500 Recursos não Vinculados de Impostos 0,00 47.628,05 500 Recursos não Vinculados de Impostos 0,00 10.000,00 500 Recursos não Vinculados de Impostos 0,00 37.628,05 500 Recursos não Vinculados de Impostos 0,00 5.166.085,12 540 Transferências do FUNDEB - Impostos e Transferências de Impostos 0,00 13.813,87 540 Transferências do FUNDEB - Impostos e Transferências de Impostos 0,00 5.995.554,00
+
+TOTAL 0,00 59.801.630,00
+
+ID: 282831 e CRC: 6A0200E9
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Receita e Despesa por Código de 29/12/2025 Aplicação ID: 282831 Processo Documento
+
+CRC: 6A0200E9 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:31:38 Finalização: 29/12/2025 10:32:06
+
+MD5: 22D89CFA18A1A5C4791322E7BB307EFB SHA256: 9C1885CC1BED3ED61FA2EFD8AC89F5B066A54CE56D5FC892AAC23384BB44A9AB
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:31:38
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:31:38
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:53
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282831 e o CRC 6A0200E9.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 22.855.159/0001-20 Exercício: 2026
+
+CONSOLIDAÇÃO GERAL DA DESPESA
+
+DOTAÇÃO CODIGO ESPECIFICAÇÃO
+
+01 CÂMARA MUNICIPAL DE CABIXI 3.288.000,00 01 PODER LEGISLATIVO 3.288.000,00 0101 Legislativo Municipal 3.288.000,00 010100 Legislativo Municipal 3.288.000,00 01 Legislativa 3.288.000,00 031 Ação Legislativa 3.288.000,00 0001 CÂMARA MODERNA E TRANSPARENTE 3.288.000,00 2001 Manutenção das Atividades Legislativas 3.288.000,00 02 PREFEITURA MUNICIPAL DE CABIXI 40.070.582,23 02 PODER EXECUTIVO 40.070.582,23 0202 Gabinete do Prefeito 3.138.950,00 020200 Gabinete do Prefeito 3.138.950,00 04 Administração 3.138.950,00 122 Administração Geral 2.732.200,00 0002 TRABALHO E ORGANIZAÇÃO 2.732.200,00 2002 Manutenção das Atividades do Gabinete do Prefeito 2.562.200,00 2003 Ações Alusivas ao Aniversário do Municipio, Decorações Natalinas, Comemorativas e Cerimonial 170.000,00 243 Assistência à Criança e ao Adolescente 406.750,00 0002 TRABALHO E ORGANIZAÇÃO 406.750,00 2004 Manutenção do Conselho Tutelar 406.750,00 0203 Secretaria Municipal de Administração e Fazenda 4.044.640,00 020300 Secretaria Municipal de Administração e Fazenda 3.387.000,00 04 Administração 2.977.000,00 122 Administração Geral 100.000,00 0002 TRABALHO E ORGANIZAÇÃO 100.000,00 2006 Ações Decorrentes de Concurso Público Municipal 100.000,00 123 Administração Financeira 2.877.000,00 0002 TRABALHO E ORGANIZAÇÃO 2.877.000,00 2005 Manutenção das Atividades da Secretaria Municipal de Administração e Fazenda 2.877.000,00 28 Encargos Especiais 10.000,00 843 Serviço da Dívida Interna 10.000,00 0002 TRABALHO E ORGANIZAÇÃO 10.000,00 0001 Serviço da Dívida Interna 10.000,00 99 Reserva de Contingência 400.000,00 999 Reserva de Contingência 400.000,00 0002 TRABALHO E ORGANIZAÇÃO 400.000,00 9099 Reserva de Contingencia 400.000,00
+
+ID: 282835 e CRC: 34D0EFF8
+
+AV. TAMOIOS, 4031 22.855.159/0001-20 Exercício: 2026
+
+CONSOLIDAÇÃO GERAL DA DESPESA
+
+DOTAÇÃO CODIGO ESPECIFICAÇÃO
+
+02 PREFEITURA MUNICIPAL DE CABIXI 40.070.582,23 02 PODER EXECUTIVO 40.070.582,23 0203 Secretaria Municipal de Administração e Fazenda 4.044.640,00 020302 Coordenadoria Municipal de Planejamento 657.640,00 04 Administração 657.640,00 121 Planejamento e Orçamento 657.640,00 0002 TRABALHO E ORGANIZAÇÃO 657.640,00 2007 Manutenção das Atividades da Coordenadoria Municipal de Planejamento 657.640,00 0204 Secret Mun de Educ, Cult, Esp e Turismo 15.366.838,00 020400 Secret Mun de Educ, Cult, Esp e Turismo 15.294.209,95 12 Educação 14.777.709,95 361 Ensino Fundamental 14.224.059,95 0003 EDUCAR PARA O FUTURO 14.224.059,95 1001 Reforma e Ampliação de Unidades Escolares - contrapartida 25.000,00 1002 Aquisição de Veículo Adequado ao Transporte Escolar - contrapartida 20.000,00 2008 Manutenção das Atividades da SEMEC 3.901.527,08 2009 Transporte de Estudantes da Zona Rural 411.000,00 2010 Apoio ao Programa Nacional de Alimentação Escolar - PNAE 40.000,00 2011 Quota Salário Educação 450.000,00 2012 Apoio ao Programa Nacional de Transporte Escolar - PNATE 25.000,00 2013 Manutenção do Transporte Escolar - Programa IR e VIR 2.400.000,00 2014 Ações do Ensino Fundamental e Básico - FUNDEB 70% 5.846.857,00 2015 Ações do Ensino Fundamental e Básico - FUNDEB 30% 13.813,87 2016 Apoio as Ações do Ensino Infantil 1.090.862,00 364 Ensino Superior 553.650,00 0004 FUTURO BRILHANTE 553.650,00 2017 Transporte de Estudantes do Ensino Superior 553.650,00 13 Cultura 100.000,00 392 Difusão Cultural 100.000,00 0005 VIVA A NOSSA HISTÓRIA 100.000,00 2018 Apoio às Ações Culturais 100.000,00 27 Desporto e Lazer 416.500,00 695 Turismo 176.000,00 0007 DESCUBRA CABIXI 176.000,00 2020 Incentivo ao Turismo 176.000,00 812 Desporto Comunitário 240.500,00 0006 ESPORTE É VIDA 240.500,00 2019 Apoio às Açoes Esportivas 240.500,00
+
+ID: 282835 e CRC: 34D0EFF8
+
+AV. TAMOIOS, 4031 22.855.159/0001-20 Exercício: 2026
+
+CONSOLIDAÇÃO GERAL DA DESPESA
+
+DOTAÇÃO CODIGO ESPECIFICAÇÃO
+
+02 PREFEITURA MUNICIPAL DE CABIXI 40.070.582,23 02 PODER EXECUTIVO 40.070.582,23 0204 Secret Mun de Educ, Cult, Esp e Turismo 15.366.838,00 020401 Secr Mun de Educ,Cult, Esporte e Turismo 72.628,05 27 Desporto e Lazer 72.628,05 812 Desporto Comunitário 72.628,05 0006 ESPORTE É VIDA 72.628,05 2019 Apoio às Açoes Esportivas 72.628,05 0205 Secretaria Municipal de Saúde 17.628,05 020501 Fundo Municipal de Saúde 17.628,05 10 Saúde 17.628,05 122 Administração Geral 17.628,05 0008 GOVERNO QUE CUIDA 17.628,05 2021 Manutenção do Fundo Municipal de Saúde 17.628,05 0206 Secretaria Mun de Assistencia Social 2.849.361,39 020600 Secretaria Mun de Assistencia Social 2.643.221,14 08 Assistência Social 2.643.221,14 241 Assistência à Pessoa Idosa 2.000,00 0011 ASSISTÊNCIA DE VERDADE 2.000,00 1010 Ampliação do Centro de Convivência do Idoso 2.000,00 243 Assistência à Criança e ao Adolescente 53.100,00 0011 ASSISTÊNCIA DE VERDADE 53.100,00 2037 Manutenção da Casa de Acolhimento 53.100,00 244 Assistência Comunitária 2.588.121,14 0011 ASSISTÊNCIA DE VERDADE 2.588.121,14 1011 Contrapartida a Convênios Celebrados com o Estado e a União 2.000,00 1012 Construção de Unidades Habitacionais para Famílias de Baixa Renda - Contrapartida 20.000,00 1013 Estruturação Proteção Social Básica 1.000,00 2038 Ações do Centro Municipal Recanto Feliz - CEMURF 87.100,00 2039 Manutenção do Fundo Municipal de Assistência Social 1.803.140,00 2040 Benefícios Eventuais a Famílias com Renda até 1/4 Salário Mínimo Federal 59.000,00 2041 Bloco de Financiamento da Proteção Social Básica 120.181,14 2042 Bloco de Financiamento da Gestão do Bolsa Família e Cadastro Único 35.600,00 2043 Bloco de Financiamento da Gestão do SUAS 17.100,00 2044 Capacitação, Qualificação e Nivelamento dos Agentes do SUAS 13.000,00 2045 Piso Fixo Proteção Social Básica PFB - Repasse FEAS 165.500,00 2046 Apoio ao Programa Mamãe Cheguei 9.500,00 2047 Piso Fixo Proteção Social Especial PSE - Repasse FEAS 117.000,00
+
+ID: 282835 e CRC: 34D0EFF8
+
+AV. TAMOIOS, 4031 22.855.159/0001-20 Exercício: 2026
+
+CONSOLIDAÇÃO GERAL DA DESPESA
+
+DOTAÇÃO CODIGO ESPECIFICAÇÃO
+
+02 PREFEITURA MUNICIPAL DE CABIXI 40.070.582,23 02 PODER EXECUTIVO 40.070.582,23 0206 Secretaria Mun de Assistencia Social 2.849.361,39 020600 Secretaria Mun de Assistencia Social 2.643.221,14 2048 Benefícios Eventuais - Repasse FEAS 20.000,00 2049 Piso Variável - Repasse FEAS 33.000,00 2050 Ações do PROCAD SUAS 25.000,00 2051 Fortalecimento do Controle Social - CMAS 10.000,00 2052 Piso Fixo à Parceria Público Privado - Repasse FEAS 50.000,00 020601 Fundo Municipal de Assistencia Social 178.140,25 08 Assistência Social 178.140,25 244 Assistência Comunitária 178.140,25 0011 ASSISTÊNCIA DE VERDADE 178.140,25 2039 Manutenção do Fundo Municipal de Assistência Social 178.140,25 020602 Fundo Municipal dos Direitos da Criança e do Adolescente 28.000,00 08 Assistência Social 28.000,00 243 Assistência à Criança e ao Adolescente 28.000,00 0011 ASSISTÊNCIA DE VERDADE 28.000,00 2053 Manutenção do Fundo Municipal dos Direitos da Criança e do Adolescente 28.000,00 0207 Secretaria Mun de Agricultura e Pecuária 2.403.256,10 020700 Secretaria Mun de Agricultura e Pecuária 2.263.000,00 20 Agricultura 2.263.000,00 608 Promoção da Produção Agropecuária 2.263.000,00 0012 IMPULSIONANDO A PRODUÇÃO 2.263.000,00 1014 Realização de Concurso Leiteiro 96.000,00 1015 Convênios Celebrados com o Estado e a União - Contrapartida 20.000,00 2054 Manutenção das Atividades da SEMAP 1.215.000,00 2055 Apoio à Produção Agrícola, à Pecuária e à Piscicultura 852.000,00 2056 Manutenção dos Serviços de Inspeção Municipal - SIM 60.000,00 2057 Ações do Programa de Aquisição de Alimentos - PAA 20.000,00 020701 Sec Municipal de Agricultura e Pecuaria 140.256,10 20 Agricultura 140.256,10 608 Promoção da Produção Agropecuária 140.256,10 0012 IMPULSIONANDO A PRODUÇÃO 140.256,10 2055 Apoio à Produção Agrícola, à Pecuária e à Piscicultura 140.256,10 0208 Secretaria Municipal de Obras e Serviços Públicos 12.249.908,69 020800 Secretaria Municipal de Obras e Serviços Públicos 12.249.908,69 04 Administração 4.186.900,00
+
+ID: 282835 e CRC: 34D0EFF8
+
+AV. TAMOIOS, 4031 22.855.159/0001-20 Exercício: 2026
+
+CONSOLIDAÇÃO GERAL DA DESPESA
+
+DOTAÇÃO CODIGO ESPECIFICAÇÃO
+
+02 PREFEITURA MUNICIPAL DE CABIXI 40.070.582,23 02 PODER EXECUTIVO 40.070.582,23 0208 Secretaria Municipal de Obras e Serviços Públicos 12.249.908,69 020800 Secretaria Municipal de Obras e Serviços Públicos 12.249.908,69 122 Administração Geral 4.186.900,00 0002 TRABALHO E ORGANIZAÇÃO 4.186.900,00 1016 Reforma e Readequação do Prédio da Prefeitura 10.000,00 2058 Manutenção das Atividades da Secretaria Municipal de Obras e Serviços Públicos 4.176.900,00 15 Urbanismo 3.003.038,17 451 Infra-Estrutura Urbana 1.861.912,76 0013 CIDADE QUE CRESCE COM A GENTE 1.861.912,76 1017 Regularização Fundiária Urbana 50.000,00 1018 Pavimentação Asfáltica Urbana 20.000,00 1019 Construção de Calçamento Público 130.000,00 1020 Recapeamento Asfáltico Urbano 161.912,76 1021 Infraestrutura Urbana e Equipamentos - Transferência Especial 1.500.000,00 452 Serviços Urbanos 1.141.125,41 0013 CIDADE QUE CRESCE COM A GENTE 1.141.125,41 2059 Conservação de Vias Públicas Urbanas 170.000,00 2060 Manutenção da Iluminação Pública 918.125,41 2061 Manutenção do Consórcio Intermunicipal para Resíduos Sólidos 53.000,00 17 Saneamento 530.000,00 512 Saneamento Básico Urbano 530.000,00 0013 CIDADE QUE CRESCE COM A GENTE 530.000,00 2062 Manutenção do Transporte e Disposição Final dos Resíduos Sólidos Urbanos 500.000,00 2063 Manutenção e Melhoria do Sistema de Abastecimento de Água para os Distritos 30.000,00 18 Gestão Ambiental 21.000,00 541 Preservação e Conservação Ambiental 21.000,00 0015 NATUREZA SEM CHAMAS 21.000,00 2065 Ações de Educação e Preservação Ambiental 21.000,00 26 Transporte 4.508.970,52 782 Transporte Rodoviário 4.508.970,52 0014 RUMO AO DESENVOLVIMENTO 4.508.970,52 1022 Construção e Reforma de Pontes e Bueiros 105.000,00 1023 Aquisição de Veículos e Equipamentos Rodoviários 826.723,34 1024 Recuperação de Estradas Vicinais - Convênio Fitha 715.000,00 1025 Infraestrutura Rural e Equipamentos - Convênio Estadual 1.336.575,00 2064 Conservação de Estradas Vicinais 1.525.672,18
+
+ID: 282835 e CRC: 34D0EFF8
+
+AV. TAMOIOS, 4031 22.855.159/0001-20 Exercício: 2026
+
+CONSOLIDAÇÃO GERAL DA DESPESA
+
+DOTAÇÃO CODIGO ESPECIFICAÇÃO
+
+03 FUNDO MUNICIPAL DE SAÚDE DE CABIXI 16.443.047,77 02 PODER EXECUTIVO 16.443.047,77 0205 Secretaria Municipal de Saúde 16.443.047,77 020500 Secretaria Municipal de Saúde 15.994.395,22 10 Saúde 15.994.395,22 122 Administração Geral 11.119.400,00 0008 GOVERNO QUE CUIDA 11.119.400,00 2021 Manutenção do Fundo Municipal de Saúde 11.067.400,00 2022 Manutenção do Conselho Municipal de Saude 52.000,00 301 Atenção Básica 3.356.921,82 0010 SAÚDE NA PORTA DE CASA 3.356.921,82 1003 Aquisição de Equipamentos para Atenção Básica de Saúde 20.000,00 1004 Construção, Reforma e Ampliação de Unidades Básicas de Saúde 50.000,00 1005 Aquisição de Medicamentos para Atenção Básica de Saúde 25.000,00 1006 Melhoria no Sistema de Transporte de Pacientes 10.000,00 2024 Complementação ao Pagamento do Piso da Enfermagem - Atenção Básica 45.000,00 2025 Incentivo Financeiro da APS - Equipes Saúde da Família 540.570,60 2026 Incentivo Financeiro da APS - Saúde Bucal 115.844,87 2027 Piso da Atenção Primária a Saúde - PAP 1.200.000,00 2028 Incremento Temporário Custeio Serviços de Atenção Primária em Saúde 463.263,98 2029 Incentivo Financeiro da APS - Componente Per Capita de Base Populacional 33.852,00 2030 Apoio ao Programa de Agentes Comunitários de Saúde - PACS 638.049,00 2036 Assistência Farmacêutica e Insumos da Atenção Básica 215.341,37 302 Assistência Hospitalar e Ambulatorial 1.338.642,40 0008 GOVERNO QUE CUIDA 507.000,00 2031 Complementação ao Pagamento do Piso da Enfermagem Hospitalar 507.000,00 0009 CUIDANDO DA NOSSA GENTE 831.642,40 1007 Modernização dos Equipamentos Hospitalares 15.000,00 1008 Ampliação e Reforma do HPP - Contrapartida 15.000,00 1009 Aquisição de Medicamento Hospitalar 200.000,00 2023 Manutenção da Casa de Apoio a Pacientes em Tratamento em Porto Velho 230.000,00 2032 Atendimento Hospitalar e Ambulatorial de Média e Alta Complexidade - MAC 371.642,40 304 Vigilância Sanitária 15.000,00 0010 SAÚDE NA PORTA DE CASA 15.000,00 2035 Apoio às Ações de Vigilância Sanitária 15.000,00 305 Vigilância Epidemiológica 164.431,00 0010 SAÚDE NA PORTA DE CASA 164.431,00 2033 Ações de Combate a Endemias 98.951,00
+
+ID: 282835 e CRC: 34D0EFF8
+
+AV. TAMOIOS, 4031 22.855.159/0001-20 Exercício: 2026
+
+CONSOLIDAÇÃO GERAL DA DESPESA
+
+DOTAÇÃO CODIGO ESPECIFICAÇÃO
+
+03 FUNDO MUNICIPAL DE SAÚDE DE CABIXI 16.443.047,77 02 PODER EXECUTIVO 16.443.047,77 0205 Secretaria Municipal de Saúde 16.443.047,77 020500 Secretaria Municipal de Saúde 15.994.395,22 2034 Apoio as Ações de Vigilância em Saúde 65.480,00 020501 Fundo Municipal de Saúde 448.652,55 10 Saúde 448.652,55 122 Administração Geral 94.070,12 0008 GOVERNO QUE CUIDA 94.070,12 2021 Manutenção do Fundo Municipal de Saúde 94.070,12 301 Atenção Básica 47.628,05 0010 SAÚDE NA PORTA DE CASA 47.628,05 2030 Apoio ao Programa de Agentes Comunitários de Saúde - PACS 47.628,05 302 Assistência Hospitalar e Ambulatorial 306.954,38 0009 CUIDANDO DA NOSSA GENTE 306.954,38 1007 Modernização dos Equipamentos Hospitalares 17.628,05 2032 Atendimento Hospitalar e Ambulatorial de Média e Alta Complexidade - MAC 289.326,33
+
+TOTAL 59.801.630,00
+
+ID: 282835 e CRC: 34D0EFF8
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Consolidação da Despesa 29/12/2025
+
+ID: 282835 Processo Documento
+
+CRC: 34D0EFF8 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:33:08 Finalização: 29/12/2025 10:33:28
+
+MD5: 831EED99DA7E7A289AEA1ECCEA17EDCC SHA256: 828241402D0E14CD0790AE861061CA0A310A571A1EF2BE39A54A506DD451DC51
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:33:08
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:33:08
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:53
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282835 e o CRC 34D0EFF8.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 1 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 01 PODER LEGISLATIVO ORGÃO 01 Legislativo Municipal UNIDADE 00 Legislativo Municipal
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção das Atividades Legislativas 01.031.0001.2001.0000 3.288.000,00 3 DESPESAS CORRENTES 2.859.156,72 1 PESSOAL E ENCARGOS SOCIAIS 1.885.416,15 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 1.510.686,36 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 324.717,89 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 50.011,90 3 OUTRAS DESPESAS CORRENTES 973.740,57 DIÁRIAS - CIVIL 3.3.90.14.00 300.071,21 MATERIAL DE CONSUMO 3.3.90.30.00 60.014,24 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 60.014,24 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 22.503,55 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 220.063,52 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 300.071,21 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 3.3.90.47.00 6.001,42 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 5.001,18 4 DESPESAS DE CAPITAL 428.843,28 4 INVESTIMENTOS 428.843,28 OBRAS E INSTALAÇÕES 4.4.90.51.00 349.059,65 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 79.783,63
+
+TOTAL 3.288.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 2 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 02 Gabinete do Prefeito UNIDADE 00 Gabinete do Prefeito
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção das Atividades do Gabinete do Prefeito 04.122.0002.2002.0000 2.562.200,00 3 DESPESAS CORRENTES 2.287.200,00 1 PESSOAL E ENCARGOS SOCIAIS 1.645.900,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 1.301.600,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 319.880,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 24.420,00 3 OUTRAS DESPESAS CORRENTES 641.300,00 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO PÚBLICO 3.3.71.70.00 198.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 90.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 50.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 20.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 70.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 210.300,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 2.000,00 4 DESPESAS DE CAPITAL 275.000,00 4 INVESTIMENTOS 275.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 275.000,00
+
+Ações Alusivas ao Aniversário do Municipio, Decorações 04.122.0002.2003.0000 170.000,00 Natalinas, Comemorativas e Cerimonial 3 DESPESAS CORRENTES 170.000,00 3 OUTRAS DESPESAS CORRENTES 170.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 70.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 100.000,00
+
+Manutenção do Conselho Tutelar 04.243.0002.2004.0000 406.750,00 3 DESPESAS CORRENTES 401.750,00 1 PESSOAL E ENCARGOS SOCIAIS 275.250,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 212.500,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 46.750,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 16.000,00 3 OUTRAS DESPESAS CORRENTES 126.500,00 DIÁRIAS - CIVIL 3.3.90.14.00 11.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 25.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 10.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 20.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 60.300,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 100,00 4 DESPESAS DE CAPITAL 5.000,00 4 INVESTIMENTOS 5.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 5.000,00
+
+TOTAL 3.138.950,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 3 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 03 Secretaria Municipal de Administração e Fazenda UNIDADE 00 Secretaria Municipal de Administração e Fazenda
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Ações Decorrentes de Concurso Público Municipal 04.122.0002.2006.0000 100.000,00 3 DESPESAS CORRENTES 100.000,00 3 OUTRAS DESPESAS CORRENTES 100.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 100.000,00
+
+Manutenção das Atividades da Secretaria Municipal de 04.123.0002.2005.0000 2.877.000,00 Administração e Fazenda 3 DESPESAS CORRENTES 2.842.000,00 1 PESSOAL E ENCARGOS SOCIAIS 1.323.500,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 1.083.500,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 230.000,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 10.000,00 3 OUTRAS DESPESAS CORRENTES 1.518.500,00 DIÁRIAS - CIVIL 3.3.90.14.00 15.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 20.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 10.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 500,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 690.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 280.000,00 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 3.3.90.47.00 400.000,00 SENTENÇAS JUDICIAIS 3.3.90.91.00 100.000,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 500,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.500,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 500,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 500,00 4 DESPESAS DE CAPITAL 35.000,00 4 INVESTIMENTOS 35.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 35.000,00
+
+Serviço da Dívida Interna 28.843.0002.0001.0000 10.000,00 4 DESPESAS DE CAPITAL 10.000,00 6 AMORTIZACAO DA DIVIDA 10.000,00 PRINCIPAL DA DÍVIDA CONTRATUAL RESGATADO 4.6.90.71.00 10.000,00
+
+Reserva de Contingencia 99.999.0002.9099.0000 400.000,00 9 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 400.000,00 9 RESERVA DE CONTINGENCIA E RESERVA DO RPPS 400.000,00 RESERVA DE CONTINGÊNCIA /RESERVA DO RPPS 9.9.99.99.99 400.000,00
+
+TOTAL 3.387.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 4 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 03 Secretaria Municipal de Administração e Fazenda UNIDADE 02 Coordenadoria Municipal de Planejamento
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção das Atividades da Coordenadoria Municipal de 04.121.0002.2007.0000 657.640,00 Planejamento 3 DESPESAS CORRENTES 643.640,00 1 PESSOAL E ENCARGOS SOCIAIS 522.640,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 412.000,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 90.640,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 20.000,00 3 OUTRAS DESPESAS CORRENTES 121.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 6.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 15.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 5.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 16.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 78.000,00 4 DESPESAS DE CAPITAL 14.000,00 4 INVESTIMENTOS 14.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 14.000,00
+
+TOTAL 657.640,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 5 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo UNIDADE 00 Secret Mun de Educ, Cult, Esp e Turismo
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Reforma e Ampliação de Unidades Escolares - 12.361.0003.1001.0000 25.000,00 contrapartida 4 DESPESAS DE CAPITAL 25.000,00 4 INVESTIMENTOS 25.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 25.000,00
+
+Aquisição de Veículo Adequado ao Transporte Escolar - 12.361.0003.1002.0000 20.000,00 contrapartida 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+Manutenção das Atividades da SEMEC 12.361.0003.2008.0000 3.901.527,08 3 DESPESAS CORRENTES 3.876.822,74 1 PESSOAL E ENCARGOS SOCIAIS 1.555.650,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 1.314.500,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 181.500,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 25.000,00 RESSARCIMENTO DE DESPESAS DE PESSOAL REQUISITADO 3.1.90.96.00 34.650,00 3 OUTRAS DESPESAS CORRENTES 2.321.172,74 DIÁRIAS - CIVIL 3.3.90.14.00 26.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 100.244,55 MATERIAL DE CONSUMO 3.3.90.30.00 11.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 20.362,41 MATERIAL DE CONSUMO 3.3.90.30.00 394.365,78 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 14.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 160.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 1.591.200,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 1.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.000,00 4 DESPESAS DE CAPITAL 24.704,34 4 INVESTIMENTOS 24.704,34 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 24.704,34
+
+Transporte de Estudantes da Zona Rural 12.361.0003.2009.0000 411.000,00 3 DESPESAS CORRENTES 411.000,00 3 OUTRAS DESPESAS CORRENTES 411.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 210.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 200.000,00
+
+Apoio ao Programa Nacional de Alimentação Escolar - 12.361.0003.2010.0000 40.000,00 PNAE 3 DESPESAS CORRENTES 40.000,00 3 OUTRAS DESPESAS CORRENTES 40.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 40.000,00
+
+Quota Salário Educação 12.361.0003.2011.0000 450.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 6 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo UNIDADE 00 Secret Mun de Educ, Cult, Esp e Turismo
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Quota Salário Educação 12.361.0003.2011.0000 450.000,00 3 DESPESAS CORRENTES 380.000,00 3 OUTRAS DESPESAS CORRENTES 380.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 300.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 80.000,00 4 DESPESAS DE CAPITAL 70.000,00 4 INVESTIMENTOS 70.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 1.500,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 68.500,00
+
+Apoio ao Programa Nacional de Transporte Escolar - 12.361.0003.2012.0000 25.000,00 PNATE 3 DESPESAS CORRENTES 25.000,00 3 OUTRAS DESPESAS CORRENTES 25.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 2.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 22.900,00
+
+Manutenção do Transporte Escolar - Programa IR e VIR 12.361.0003.2013.0000 2.400.000,00 3 DESPESAS CORRENTES 2.400.000,00 3 OUTRAS DESPESAS CORRENTES 2.400.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 300.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 2.099.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.000,00
+
+Ações do Ensino Fundamental e Básico - FUNDEB 70% 12.361.0003.2014.0000 5.846.857,00 3 DESPESAS CORRENTES 5.846.857,00 1 PESSOAL E ENCARGOS SOCIAIS 5.846.857,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 4.960.800,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 856.057,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 30.000,00
+
+Ações do Ensino Fundamental e Básico - FUNDEB 30% 12.361.0003.2015.0000 13.813,87 3 DESPESAS CORRENTES 10.000,00 1 PESSOAL E ENCARGOS SOCIAIS 1.000,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 1.000,00 3 OUTRAS DESPESAS CORRENTES 9.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 4.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 4.000,00 4 DESPESAS DE CAPITAL 3.813,87 4 INVESTIMENTOS 3.813,87 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 3.813,87
+
+Apoio as Ações do Ensino Infantil 12.361.0003.2016.0000 1.090.862,00 3 DESPESAS CORRENTES 1.010.862,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 7 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo UNIDADE 00 Secret Mun de Educ, Cult, Esp e Turismo
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Apoio as Ações do Ensino Infantil 12.361.0003.2016.0000 1.090.862,00 3 DESPESAS CORRENTES 1.010.862,00 1 PESSOAL E ENCARGOS SOCIAIS 200.662,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 27.060,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 130.000,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 3.905,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 18.697,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 21.000,00 3 OUTRAS DESPESAS CORRENTES 810.200,00 MATERIAL DE CONSUMO 3.3.90.30.00 190.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 120.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 499.200,00 4 DESPESAS DE CAPITAL 80.000,00 4 INVESTIMENTOS 80.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 80.000,00
+
+Transporte de Estudantes do Ensino Superior 12.364.0004.2017.0000 553.650,00 3 DESPESAS CORRENTES 553.150,00 1 PESSOAL E ENCARGOS SOCIAIS 183.150,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 166.430,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 16.720,00 3 OUTRAS DESPESAS CORRENTES 370.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 280.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 90.000,00 4 DESPESAS DE CAPITAL 500,00 4 INVESTIMENTOS 500,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 500,00
+
+Apoio às Ações Culturais 13.392.0005.2018.0000 100.000,00 3 DESPESAS CORRENTES 80.000,00 3 OUTRAS DESPESAS CORRENTES 80.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 15.000,00 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 3.3.90.31.00 30.000,00 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 20.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 15.000,00 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+Incentivo ao Turismo 27.695.0007.2020.0000 176.000,00 3 DESPESAS CORRENTES 136.000,00 3 OUTRAS DESPESAS CORRENTES 136.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 30.000,00 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 3.3.90.31.00 55.000,00 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 20.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 30.000,00 4 DESPESAS DE CAPITAL 40.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 8 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo UNIDADE 00 Secret Mun de Educ, Cult, Esp e Turismo
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Incentivo ao Turismo 27.695.0007.2020.0000 176.000,00 4 DESPESAS DE CAPITAL 40.000,00 4 INVESTIMENTOS 40.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 20.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+Apoio às Açoes Esportivas 27.812.0006.2019.0000 240.500,00 3 DESPESAS CORRENTES 190.500,00 3 OUTRAS DESPESAS CORRENTES 190.500,00 MATERIAL DE CONSUMO 3.3.90.30.00 30.000,00 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 3.3.90.31.00 60.000,00 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 40.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 500,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 60.000,00 4 DESPESAS DE CAPITAL 50.000,00 4 INVESTIMENTOS 50.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 30.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+TOTAL 15.294.209,95
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 9 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 04 Secret Mun de Educ, Cult, Esp e Turismo UNIDADE 01 Secr Mun de Educ,Cult, Esporte e Turismo
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Apoio às Açoes Esportivas 27.812.0006.2019.0000 72.628,05 3 DESPESAS CORRENTES 72.628,05 3 OUTRAS DESPESAS CORRENTES 72.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 5.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 10.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 10.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 37.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 10.000,00
+
+TOTAL 72.628,05
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 10 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 05 Secretaria Municipal de Saúde UNIDADE 00 Secretaria Municipal de Saúde
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção do Fundo Municipal de Saúde 10.122.0008.2021.0000 11.067.400,00 3 DESPESAS CORRENTES 11.017.400,00 1 PESSOAL E ENCARGOS SOCIAIS 7.970.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 6.700.000,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 1.200.000,00 OUTRAS DESPESAS DE PESSOAL DECORRENTES DE CONTRATOS DE TERCE 3.1.90.34.00 20.000,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 50.000,00 3 OUTRAS DESPESAS CORRENTES 3.047.400,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 24.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 100.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 200.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 60.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 80.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 250.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 2.168.400,00 OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS 3.3.90.48.00 100.000,00 SENTENÇAS JUDICIAIS 3.3.90.91.00 60.000,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 5.000,00 4 DESPESAS DE CAPITAL 50.000,00 4 INVESTIMENTOS 50.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 50.000,00
+
+Manutenção do Conselho Municipal de Saude 10.122.0008.2022.0000 52.000,00 3 DESPESAS CORRENTES 32.000,00 3 OUTRAS DESPESAS CORRENTES 32.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 7.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 10.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 5.000,00 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+Aquisição de Equipamentos para Atenção Básica de Saúde 10.301.0010.1003.0000 20.000,00 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+Construção, Reforma e Ampliação de Unidades Básicas de 10.301.0010.1004.0000 50.000,00 Saúde 4 DESPESAS DE CAPITAL 50.000,00 4 INVESTIMENTOS 50.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 50.000,00
+
+Aquisição de Medicamentos para Atenção Básica de Saúde 10.301.0010.1005.0000 25.000,00 3 DESPESAS CORRENTES 25.000,00 3 OUTRAS DESPESAS CORRENTES 25.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 25.000,00
+
+Melhoria no Sistema de Transporte de Pacientes 10.301.0010.1006.0000 10.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 11 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 05 Secretaria Municipal de Saúde UNIDADE 00 Secretaria Municipal de Saúde
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Melhoria no Sistema de Transporte de Pacientes 10.301.0010.1006.0000 10.000,00 4 DESPESAS DE CAPITAL 10.000,00 4 INVESTIMENTOS 10.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 10.000,00
+
+Complementação ao Pagamento do Piso da Enfermagem - 10.301.0010.2024.0000 45.000,00 Atenção Básica 3 DESPESAS CORRENTES 45.000,00 1 PESSOAL E ENCARGOS SOCIAIS 45.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 45.000,00
+
+Incentivo Financeiro da APS - Equipes Saúde da Família 10.301.0010.2025.0000 540.570,60 3 DESPESAS CORRENTES 540.570,60 1 PESSOAL E ENCARGOS SOCIAIS 520.570,60 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 520.570,60 3 OUTRAS DESPESAS CORRENTES 20.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 10.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00
+
+Incentivo Financeiro da APS - Saúde Bucal 10.301.0010.2026.0000 115.844,87 3 DESPESAS CORRENTES 115.844,87 1 PESSOAL E ENCARGOS SOCIAIS 115.844,87 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 115.844,87
+
+Piso da Atenção Primária a Saúde - PAP 10.301.0010.2027.0000 1.200.000,00 3 DESPESAS CORRENTES 1.200.000,00 1 PESSOAL E ENCARGOS SOCIAIS 300.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 300.000,00 3 OUTRAS DESPESAS CORRENTES 900.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 600.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 300.000,00
+
+Incremento Temporário Custeio Serviços de Atenção 10.301.0010.2028.0000 463.263,98 Primária em Saúde 3 DESPESAS CORRENTES 463.263,98 3 OUTRAS DESPESAS CORRENTES 463.263,98 MATERIAL DE CONSUMO 3.3.90.30.00 200.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 263.263,98
+
+Incentivo Financeiro da APS - Componente Per Capita de 10.301.0010.2029.0000 33.852,00 Base Populacional 3 DESPESAS CORRENTES 33.852,00 1 PESSOAL E ENCARGOS SOCIAIS 2.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 2.000,00 3 OUTRAS DESPESAS CORRENTES 31.852,00 MATERIAL DE CONSUMO 3.3.90.30.00 10.852,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 20.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 12 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 05 Secretaria Municipal de Saúde UNIDADE 00 Secretaria Municipal de Saúde
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Apoio ao Programa de Agentes Comunitários de Saúde - 10.301.0010.2030.0000 638.049,00 PACS 3 DESPESAS CORRENTES 638.049,00 1 PESSOAL E ENCARGOS SOCIAIS 638.049,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 638.049,00
+
+Assistência Farmacêutica e Insumos da Atenção Básica 10.301.0010.2036.0000 215.341,37 3 DESPESAS CORRENTES 76.682,27 3 OUTRAS DESPESAS CORRENTES 76.682,27 MATERIAL DE CONSUMO 3.3.90.30.00 50.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 26.682,27 4 DESPESAS DE CAPITAL 138.659,10 4 INVESTIMENTOS 138.659,10 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 138.659,10
+
+Complementação ao Pagamento do Piso da Enfermagem 10.302.0008.2031.0000 507.000,00 Hospitalar 3 DESPESAS CORRENTES 507.000,00 1 PESSOAL E ENCARGOS SOCIAIS 507.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 507.000,00
+
+Modernização dos Equipamentos Hospitalares 10.302.0009.1007.0000 15.000,00 4 DESPESAS DE CAPITAL 15.000,00 4 INVESTIMENTOS 15.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 15.000,00
+
+Ampliação e Reforma do HPP - Contrapartida 10.302.0009.1008.0000 15.000,00 4 DESPESAS DE CAPITAL 15.000,00 4 INVESTIMENTOS 15.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 15.000,00
+
+Aquisição de Medicamento Hospitalar 10.302.0009.1009.0000 200.000,00 3 DESPESAS CORRENTES 200.000,00 3 OUTRAS DESPESAS CORRENTES 200.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 200.000,00
+
+Manutenção da Casa de Apoio a Pacientes em Tratamento 10.302.0009.2023.0000 230.000,00 em Porto Velho 3 DESPESAS CORRENTES 230.000,00 3 OUTRAS DESPESAS CORRENTES 230.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 90.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 80.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 60.000,00
+
+Atendimento Hospitalar e Ambulatorial de Média e Alta 10.302.0009.2032.0000 371.642,40 Complexidade - MAC 3 DESPESAS CORRENTES 371.642,40
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 13 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 05 Secretaria Municipal de Saúde UNIDADE 00 Secretaria Municipal de Saúde
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Atendimento Hospitalar e Ambulatorial de Média e Alta 10.302.0009.2032.0000 371.642,40 Complexidade - MAC 3 DESPESAS CORRENTES 371.642,40 3 OUTRAS DESPESAS CORRENTES 371.642,40 DIÁRIAS - CIVIL 3.3.90.14.00 15.642,40 MATERIAL DE CONSUMO 3.3.90.30.00 256.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 100.000,00
+
+Apoio às Ações de Vigilância Sanitária 10.304.0010.2035.0000 15.000,00 3 DESPESAS CORRENTES 12.000,00 3 OUTRAS DESPESAS CORRENTES 12.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 2.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 6.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 3.000,00 4 DESPESAS DE CAPITAL 3.000,00 4 INVESTIMENTOS 3.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 3.000,00
+
+Ações de Combate a Endemias 10.305.0010.2033.0000 98.951,00 3 DESPESAS CORRENTES 98.951,00 1 PESSOAL E ENCARGOS SOCIAIS 98.951,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 98.951,00
+
+Apoio as Ações de Vigilância em Saúde 10.305.0010.2034.0000 65.480,00 3 DESPESAS CORRENTES 62.480,00 1 PESSOAL E ENCARGOS SOCIAIS 12.480,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 12.480,00 3 OUTRAS DESPESAS CORRENTES 50.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 11.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 22.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 7.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 10.000,00 4 DESPESAS DE CAPITAL 3.000,00 4 INVESTIMENTOS 3.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 3.000,00
+
+TOTAL 15.994.395,22
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 14 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 05 Secretaria Municipal de Saúde UNIDADE 01 Fundo Municipal de Saúde
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção do Fundo Municipal de Saúde 10.122.0008.2021.0000 111.698,17 3 DESPESAS CORRENTES 111.698,17 3 OUTRAS DESPESAS CORRENTES 111.698,17 SUBVENÇÕES SOCIAIS 3.3.50.43.00 17.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 12.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 23.814,02 SUBVENÇÕES SOCIAIS 3.3.50.43.00 20.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 37.628,05
+
+Apoio ao Programa de Agentes Comunitários de Saúde - 10.301.0010.2030.0000 47.628,05 PACS 4 DESPESAS DE CAPITAL 47.628,05 4 INVESTIMENTOS 47.628,05 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 47.628,05
+
+Modernização dos Equipamentos Hospitalares 10.302.0009.1007.0000 17.628,05 4 DESPESAS DE CAPITAL 17.628,05 4 INVESTIMENTOS 17.628,05 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 17.628,05
+
+Atendimento Hospitalar e Ambulatorial de Média e Alta 10.302.0009.2032.0000 289.326,33 Complexidade - MAC 3 DESPESAS CORRENTES 289.326,33 3 OUTRAS DESPESAS CORRENTES 289.326,33 MATERIAL DE CONSUMO 3.3.90.30.00 35.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 47.628,05 MATERIAL DE CONSUMO 3.3.90.30.00 67.628,05 MATERIAL DE CONSUMO 3.3.90.30.00 47.628,05 MATERIAL DE CONSUMO 3.3.90.30.00 23.814,13 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 47.628,05 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00
+
+TOTAL 466.280,60
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 15 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social UNIDADE 00 Secretaria Mun de Assistencia Social
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Ampliação do Centro de Convivência do Idoso 08.241.0011.1010.0000 2.000,00 4 DESPESAS DE CAPITAL 2.000,00 4 INVESTIMENTOS 2.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 1.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000,00
+
+Manutenção da Casa de Acolhimento 08.243.0011.2037.0000 53.100,00 3 DESPESAS CORRENTES 33.100,00 3 OUTRAS DESPESAS CORRENTES 33.100,00 MATERIAL DE CONSUMO 3.3.90.30.00 30.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 3.000,00 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+Contrapartida a Convênios Celebrados com o Estado e a 08.244.0011.1011.0000 2.000,00 União 4 DESPESAS DE CAPITAL 2.000,00 4 INVESTIMENTOS 2.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 1.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000,00
+
+Construção de Unidades Habitacionais para Famílias de 08.244.0011.1012.0000 20.000,00 Baixa Renda - Contrapartida 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 20.000,00
+
+Estruturação Proteção Social Básica 08.244.0011.1013.0000 1.000,00 4 DESPESAS DE CAPITAL 1.000,00 4 INVESTIMENTOS 1.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000,00
+
+Ações do Centro Municipal Recanto Feliz - CEMURF 08.244.0011.2038.0000 87.100,00 3 DESPESAS CORRENTES 77.100,00 3 OUTRAS DESPESAS CORRENTES 77.100,00 MATERIAL DE CONSUMO 3.3.90.30.00 50.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 27.000,00 4 DESPESAS DE CAPITAL 10.000,00 4 INVESTIMENTOS 10.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 10.000,00
+
+Manutenção do Fundo Municipal de Assistência Social 08.244.0011.2039.0000 1.803.140,00 3 DESPESAS CORRENTES 1.783.140,00 1 PESSOAL E ENCARGOS SOCIAIS 1.179.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 950.000,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 209.000,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 20.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 16 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social UNIDADE 00 Secretaria Mun de Assistencia Social
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção do Fundo Municipal de Assistência Social 08.244.0011.2039.0000 1.803.140,00 3 DESPESAS CORRENTES 1.783.140,00 3 OUTRAS DESPESAS CORRENTES 604.140,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 6.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 20.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 80.640,00 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 30.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 20.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 70.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 374.400,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 1.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.000,00 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 20.000,00
+
+Benefícios Eventuais a Famílias com Renda até 1/4 Salário 08.244.0011.2040.0000 59.000,00 Mínimo Federal 3 DESPESAS CORRENTES 59.000,00 3 OUTRAS DESPESAS CORRENTES 59.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 1.000,00 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 50.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 8.000,00
+
+Bloco de Financiamento da Proteção Social Básica 08.244.0011.2041.0000 120.181,14 3 DESPESAS CORRENTES 115.181,14 3 OUTRAS DESPESAS CORRENTES 115.181,14 MATERIAL DE CONSUMO 3.3.90.30.00 7.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 70.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 38.081,14 4 DESPESAS DE CAPITAL 5.000,00 4 INVESTIMENTOS 5.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 5.000,00
+
+Bloco de Financiamento da Gestão do Bolsa Família e 08.244.0011.2042.0000 35.600,00 Cadastro Único 3 DESPESAS CORRENTES 34.600,00 3 OUTRAS DESPESAS CORRENTES 34.600,00 DIÁRIAS - CIVIL 3.3.90.14.00 10.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 12.500,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 2.000,00 4 DESPESAS DE CAPITAL 1.000,00 4 INVESTIMENTOS 1.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000,00
+
+Bloco de Financiamento da Gestão do SUAS 08.244.0011.2043.0000 17.100,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 17 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social UNIDADE 00 Secretaria Mun de Assistencia Social
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Bloco de Financiamento da Gestão do SUAS 08.244.0011.2043.0000 17.100,00 3 DESPESAS CORRENTES 16.100,00 3 OUTRAS DESPESAS CORRENTES 16.100,00 DIÁRIAS - CIVIL 3.3.90.14.00 5.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 5.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 100,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 5.000,00 4 DESPESAS DE CAPITAL 1.000,00 4 INVESTIMENTOS 1.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000,00
+
+Capacitação, Qualificação e Nivelamento dos Agentes do 08.244.0011.2044.0000 13.000,00 SUAS 3 DESPESAS CORRENTES 13.000,00 3 OUTRAS DESPESAS CORRENTES 13.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 12.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 1.000,00
+
+Piso Fixo Proteção Social Básica PFB - Repasse FEAS 08.244.0011.2045.0000 165.500,00 3 DESPESAS CORRENTES 164.500,00 3 OUTRAS DESPESAS CORRENTES 164.500,00 DIÁRIAS - CIVIL 3.3.90.14.00 10.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 60.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 10.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 84.500,00 4 DESPESAS DE CAPITAL 1.000,00 4 INVESTIMENTOS 1.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000,00
+
+Apoio ao Programa Mamãe Cheguei 08.244.0011.2046.0000 9.500,00 3 DESPESAS CORRENTES 8.500,00 3 OUTRAS DESPESAS CORRENTES 8.500,00 DIÁRIAS - CIVIL 3.3.90.14.00 1.500,00 MATERIAL DE CONSUMO 3.3.90.30.00 6.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 1.000,00 4 DESPESAS DE CAPITAL 1.000,00 4 INVESTIMENTOS 1.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000,00
+
+Piso Fixo Proteção Social Especial PSE - Repasse FEAS 08.244.0011.2047.0000 117.000,00 3 DESPESAS CORRENTES 107.000,00 3 OUTRAS DESPESAS CORRENTES 107.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 50.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 6.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 40.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 5.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 6.000,00 4 DESPESAS DE CAPITAL 10.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 18 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social UNIDADE 00 Secretaria Mun de Assistencia Social
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Piso Fixo Proteção Social Especial PSE - Repasse FEAS 08.244.0011.2047.0000 117.000,00 4 DESPESAS DE CAPITAL 10.000,00 4 INVESTIMENTOS 10.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 10.000,00
+
+Benefícios Eventuais - Repasse FEAS 08.244.0011.2048.0000 20.000,00 3 DESPESAS CORRENTES 20.000,00 3 OUTRAS DESPESAS CORRENTES 20.000,00 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 20.000,00
+
+Piso Variável - Repasse FEAS 08.244.0011.2049.0000 33.000,00 3 DESPESAS CORRENTES 33.000,00 3 OUTRAS DESPESAS CORRENTES 33.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 8.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 15.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 10.000,00
+
+Ações do PROCAD SUAS 08.244.0011.2050.0000 25.000,00 3 DESPESAS CORRENTES 25.000,00 3 OUTRAS DESPESAS CORRENTES 25.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 15.000,00
+
+Fortalecimento do Controle Social - CMAS 08.244.0011.2051.0000 10.000,00 3 DESPESAS CORRENTES 10.000,00 3 OUTRAS DESPESAS CORRENTES 10.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 5.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 5.000,00
+
+Piso Fixo à Parceria Público Privado - Repasse FEAS 08.244.0011.2052.0000 50.000,00 3 DESPESAS CORRENTES 50.000,00 3 OUTRAS DESPESAS CORRENTES 50.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 50.000,00
+
+TOTAL 2.643.221,14
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 19 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social UNIDADE 01 Fundo Municipal de Assistencia Social
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção do Fundo Municipal de Assistência Social 08.244.0011.2039.0000 178.140,25 3 DESPESAS CORRENTES 178.140,25 3 OUTRAS DESPESAS CORRENTES 178.140,25 SUBVENÇÕES SOCIAIS 3.3.50.43.00 10.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 25.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 5.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 10.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 2.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 10.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 30.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 7.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 7.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 22.628,05 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 47.628,05
+
+TOTAL 178.140,25
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 20 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 06 Secretaria Mun de Assistencia Social UNIDADE 02 Fundo Municipal dos Direitos da Criança e do Adolescente
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção do Fundo Municipal dos Direitos da Criança e 08.243.0011.2053.0000 28.000,00 do Adolescente 3 DESPESAS CORRENTES 28.000,00 3 OUTRAS DESPESAS CORRENTES 28.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 5.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 5.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 8.000,00
+
+TOTAL 28.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 21 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 07 Secretaria Mun de Agricultura e Pecuária UNIDADE 00 Secretaria Mun de Agricultura e Pecuária
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Realização de Concurso Leiteiro 20.608.0012.1014.0000 96.000,00 3 DESPESAS CORRENTES 96.000,00 3 OUTRAS DESPESAS CORRENTES 96.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 10.000,00 PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E 3.3.90.31.00 50.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 36.000,00
+
+Convênios Celebrados com o Estado e a União - 20.608.0012.1015.0000 20.000,00 Contrapartida 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 10.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 10.000,00
+
+Manutenção das Atividades da SEMAP 20.608.0012.2054.0000 1.215.000,00 3 DESPESAS CORRENTES 1.195.000,00 1 PESSOAL E ENCARGOS SOCIAIS 869.000,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 700.000,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 154.000,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 15.000,00 3 OUTRAS DESPESAS CORRENTES 326.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 12.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 20.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 15.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 40.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 234.000,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 2.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 1.000,00 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 10.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 10.000,00
+
+Apoio à Produção Agrícola, à Pecuária e à Piscicultura 20.608.0012.2055.0000 852.000,00 3 DESPESAS CORRENTES 840.000,00 3 OUTRAS DESPESAS CORRENTES 840.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 740.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 100.000,00 4 DESPESAS DE CAPITAL 12.000,00 4 INVESTIMENTOS 12.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 12.000,00
+
+Manutenção dos Serviços de Inspeção Municipal - SIM 20.608.0012.2056.0000 60.000,00 3 DESPESAS CORRENTES 60.000,00 3 OUTRAS DESPESAS CORRENTES 60.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 60.000,00
+
+Ações do Programa de Aquisição de Alimentos - PAA 20.608.0012.2057.0000 20.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 22 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 07 Secretaria Mun de Agricultura e Pecuária UNIDADE 00 Secretaria Mun de Agricultura e Pecuária
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Ações do Programa de Aquisição de Alimentos - PAA 20.608.0012.2057.0000 20.000,00 3 DESPESAS CORRENTES 20.000,00 3 OUTRAS DESPESAS CORRENTES 20.000,00 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 3.3.90.32.00 20.000,00
+
+TOTAL 2.263.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 23 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 07 Secretaria Mun de Agricultura e Pecuária UNIDADE 01 Sec Municipal de Agricultura e Pecuaria
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Apoio à Produção Agrícola, à Pecuária e à Piscicultura 20.608.0012.2055.0000 140.256,10 3 DESPESAS CORRENTES 82.628,05 3 OUTRAS DESPESAS CORRENTES 82.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 5.000,00 SUBVENÇÕES SOCIAIS 3.3.50.43.00 17.628,05 SUBVENÇÕES SOCIAIS 3.3.50.43.00 30.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 30.000,00 4 DESPESAS DE CAPITAL 57.628,05 4 INVESTIMENTOS 57.628,05 OBRAS E INSTALAÇÕES 4.4.90.51.00 10.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 10.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 12.628,05 OBRAS E INSTALAÇÕES 4.4.90.51.00 15.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 10.000,00
+
+TOTAL 140.256,10
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 24 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 08 Secretaria Municipal de Obras e Serviços Públicos UNIDADE 00 Secretaria Municipal de Obras e Serviços Públicos
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Reforma e Readequação do Prédio da Prefeitura 04.122.0002.1016.0000 10.000,00 4 DESPESAS DE CAPITAL 10.000,00 4 INVESTIMENTOS 10.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 10.000,00
+
+Manutenção das Atividades da Secretaria Municipal de 04.122.0002.2058.0000 4.176.900,00 Obras e Serviços Públicos 3 DESPESAS CORRENTES 4.096.900,00 1 PESSOAL E ENCARGOS SOCIAIS 2.702.500,00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.1.90.11.00 2.300.500,00 OBRIGAÇÕES PATRONAIS 3.1.90.13.00 340.000,00 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.1.90.94.00 62.000,00 3 OUTRAS DESPESAS CORRENTES 1.394.400,00 DIÁRIAS - CIVIL 3.3.90.14.00 6.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 75.000,00 PASSAGENS E DESPESAS COM LOCOMOÇÃO 3.3.90.33.00 1.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 3.3.90.36.00 3.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 400.000,00 AUXÍLIO-ALIMENTAÇÃO 3.3.90.46.00 842.400,00 DESPESAS DE EXERCÍCIOS ANTERIORES 3.3.90.92.00 5.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 32.000,00 INDENIZAÇÕES E RESTITUIÇÕES 3.3.90.93.00 30.000,00 4 DESPESAS DE CAPITAL 80.000,00 4 INVESTIMENTOS 80.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 30.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 50.000,00
+
+Regularização Fundiária Urbana 15.451.0013.1017.0000 50.000,00 3 DESPESAS CORRENTES 50.000,00 3 OUTRAS DESPESAS CORRENTES 50.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 50.000,00
+
+Pavimentação Asfáltica Urbana 15.451.0013.1018.0000 20.000,00 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 20.000,00
+
+Construção de Calçamento Público 15.451.0013.1019.0000 130.000,00 3 DESPESAS CORRENTES 30.000,00 3 OUTRAS DESPESAS CORRENTES 30.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 30.000,00 4 DESPESAS DE CAPITAL 100.000,00 4 INVESTIMENTOS 100.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 100.000,00
+
+Recapeamento Asfáltico Urbano 15.451.0013.1020.0000 161.912,76 3 DESPESAS CORRENTES 80.000,00 3 OUTRAS DESPESAS CORRENTES 80.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 80.000,00 4 DESPESAS DE CAPITAL 81.912,76
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 25 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 08 Secretaria Municipal de Obras e Serviços Públicos UNIDADE 00 Secretaria Municipal de Obras e Serviços Públicos
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Recapeamento Asfáltico Urbano 15.451.0013.1020.0000 161.912,76 4 DESPESAS DE CAPITAL 81.912,76 4 INVESTIMENTOS 81.912,76 OBRAS E INSTALAÇÕES 4.4.90.51.00 50.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 31.912,76
+
+Infraestrutura Urbana e Equipamentos - Transferência 15.451.0013.1021.0000 1.500.000,00 Especial 4 DESPESAS DE CAPITAL 1.500.000,00 4 INVESTIMENTOS 1.500.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 500.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 1.000.000,00
+
+Conservação de Vias Públicas Urbanas 15.452.0013.2059.0000 170.000,00 3 DESPESAS CORRENTES 170.000,00 3 OUTRAS DESPESAS CORRENTES 170.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 130.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 40.000,00
+
+Manutenção da Iluminação Pública 15.452.0013.2060.0000 918.125,41 3 DESPESAS CORRENTES 908.125,41 3 OUTRAS DESPESAS CORRENTES 908.125,41 MATERIAL DE CONSUMO 3.3.90.30.00 150.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 260.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 498.125,41 4 DESPESAS DE CAPITAL 10.000,00 4 INVESTIMENTOS 10.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 10.000,00
+
+Manutenção do Consórcio Intermunicipal para Resíduos 15.452.0013.2061.0000 53.000,00 Sólidos 3 DESPESAS CORRENTES 53.000,00 3 OUTRAS DESPESAS CORRENTES 53.000,00 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO PÚBLICO 3.3.71.70.00 53.000,00
+
+Manutenção do Transporte e Disposição Final dos 17.512.0013.2062.0000 500.000,00 Resíduos Sólidos Urbanos 3 DESPESAS CORRENTES 400.000,00 3 OUTRAS DESPESAS CORRENTES 400.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 400.000,00 4 DESPESAS DE CAPITAL 100.000,00 4 INVESTIMENTOS 100.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 100.000,00
+
+Manutenção e Melhoria do Sistema de Abastecimento de 17.512.0013.2063.0000 30.000,00 Água para os Distritos 3 DESPESAS CORRENTES 10.000,00 3 OUTRAS DESPESAS CORRENTES 10.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 5.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 5.000,00
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 26 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 08 Secretaria Municipal de Obras e Serviços Públicos UNIDADE 00 Secretaria Municipal de Obras e Serviços Públicos
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+Manutenção e Melhoria do Sistema de Abastecimento de 17.512.0013.2063.0000 30.000,00 Água para os Distritos 4 DESPESAS DE CAPITAL 20.000,00 4 INVESTIMENTOS 20.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 5.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 15.000,00
+
+Ações de Educação e Preservação Ambiental 18.541.0015.2065.0000 21.000,00 3 DESPESAS CORRENTES 21.000,00 3 OUTRAS DESPESAS CORRENTES 21.000,00 DIÁRIAS - CIVIL 3.3.90.14.00 2.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 11.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 8.000,00
+
+Construção e Reforma de Pontes e Bueiros 26.782.0014.1022.0000 105.000,00 3 DESPESAS CORRENTES 100.000,00 3 OUTRAS DESPESAS CORRENTES 100.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 100.000,00 4 DESPESAS DE CAPITAL 5.000,00 4 INVESTIMENTOS 5.000,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 5.000,00
+
+Aquisição de Veículos e Equipamentos Rodoviários 26.782.0014.1023.0000 826.723,34 4 DESPESAS DE CAPITAL 826.723,34 4 INVESTIMENTOS 826.723,34 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 10.000,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 816.723,34
+
+Recuperação de Estradas Vicinais - Convênio Fitha 26.782.0014.1024.0000 715.000,00 3 DESPESAS CORRENTES 715.000,00 3 OUTRAS DESPESAS CORRENTES 715.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 556.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 159.000,00
+
+Infraestrutura Rural e Equipamentos - Convênio Estadual 26.782.0014.1025.0000 1.336.575,00 4 DESPESAS DE CAPITAL 1.336.575,00 4 INVESTIMENTOS 1.336.575,00 OBRAS E INSTALAÇÕES 4.4.90.51.00 905.075,00 EQUIPAMENTOS E MATERIAL PERMANENTE 4.4.90.52.00 431.500,00
+
+Conservação de Estradas Vicinais 26.782.0014.2064.0000 1.525.672,18 3 DESPESAS CORRENTES 1.525.672,18 3 OUTRAS DESPESAS CORRENTES 1.525.672,18 MATERIAL DE CONSUMO 3.3.90.30.00 1.000.000,00 MATERIAL DE CONSUMO 3.3.90.30.00 300.000,00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 3.3.90.39.00 225.672,18
+
+ID: 282838 e CRC: BE862D17
+
+AV. TAMOIOS, 4031 - CNPJ:22.855.159/0001-20
+
+Orçamento Programa - Exercício de 2026 Página 27 QUADRO AUXILIAR DE DETALHAMENTO DA DESPESA
+
+PODER 02 PODER EXECUTIVO ORGÃO 08 Secretaria Municipal de Obras e Serviços Públicos UNIDADE 00 Secretaria Municipal de Obras e Serviços Públicos
+
+Aplicacao Programada Proj/Ativ Finalidade Categoria Detalhada TotalGrupo Total Categ. Total Func. F.R. - C.A.
+
+TOTAL 12.249.908,69
+
+ID: 282838 e CRC: BE862D17
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+ANEXO Quadro Detalhamento da Despesa - QDD 29/12/2025
+
+ID: 282838 Processo Documento
+
+CRC: BE862D17 Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 29/12/2025 10:34:08 Finalização: 29/12/2025 10:34:31
+
+MD5: 82E488B953D99A0BA1BBD9CE9345CCEC SHA256: 9BA5EBDA1AC4AAE889CAF22AF7660EF3C0BF0E1173A9B7CBFEC109D29DC13B29
+
+Súmula/Objeto: DISPÕE SOBRE O ORÇAMENTO ANUAL DO MUNICÍPIO DE CABIXI, PARA O EXERCÍCIO FINANCEIRO DE 2026.
+
+INTERESSADOS Gabinete do Prefeito CABIXI RO 29/12/2025 10:34:08
+
+ASSUNTOS
+
+Lei Orçamentaria Anual 29/12/2025 10:34:08
+
+DOCUMENTOS RELACIONADOS
+
+Lei 1506 29/12/2025 282783
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 29/12/2025 11:18:54
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 282838 e o CRC BE862D17.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+

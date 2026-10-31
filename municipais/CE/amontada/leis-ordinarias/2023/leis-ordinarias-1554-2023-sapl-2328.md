@@ -1,0 +1,96 @@
+---
+titulo: "Lei nº 1.554, de 18 de dezembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1554"
+data: "2023-12-18"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2025-06-02; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/2328"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/131/text"
+sha256_fonte: "06b67611c21fa4f5375c2c7cb41e065da4b495f94d2f8d6e18fc03e6b93dc3a0"
+sha256_texto: "287005dd7ca478918ad38cc2ec1143274136ce46d582a0a264fbf24ae777f1d2"
+capturado_em_fonte: "2026-10-21T05:55:08.736377-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.554, de 18 de dezembro de 2023
+
+Dispõe sobre a doação de terreno ao Instituto Sertão Vivo, para a construção de um conjunto residencial através do Programa Minha Casa, Minha Vida – MCMV Entidades, e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA, ESTADO OO CEARÁ**  
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica desafetado do acervo patrimonial imobiliário do Município de Amontada, para fins de doação ao Instituto Sertão Vivo, pessoa jurídica de direito privado, inscrito no CNPJ/MF sob o nº 06.025.678/0001-05, com endereço na Rua Teófilo Lessa, 308, Altos – José Airton Machado – CEP: 63.800-000 – Quixeramobim/CE, a gleba de 20.990,62 m² (vinte mil, novecentos e noventa metros quadrados e sessenta e dois decímetros quadrados), do imóvel da Matrícula nº 548, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim – Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará, destinado exclusivamente à construção de um conjunto residencial através do Programa Minha Casa, Minha Vida – MCMV-Entidades.
+
+Alteração feita pelo Art. 1º. - Lei nº 1.667, de 02 de junho de 2025.
+
+
+Parágrafo único
+
+A gleba de terra a que a que se destina a construção do conjunto residencial através do Minha Casa, Minha Vida – MCMV-Entidades, tem a seguinte descrição e contorno: gleba urbana destinada para a construção de Unidades Habitacionais, situado na Rua Francisco Adonias de Vasconcelos, s/n, bairro São Raimundo, na sede do Município de Amontada, Estado do Ceará, com uma área total de 20.990,62m² e perímetro de 636,05m. Inicia-se a descrição deste contorno no vértice V-01, de coordenadas E=407.710,610m e N=9.629.586,480m; deste segue confrontando com “JOSÉ NOGUEIRA BRAGA” – (NORTE), com azimute de 102°00'48", com ângulo interno em V01 (91°48’07”) e por uma distância de 92,05m, até o vértice V-02 de coordenadas E=407.800,640m e N=9.629.567,321m; deste segue confrontando com “JOSÉ RAIMUNDO SANTOS TELES” – (LESTE), com azimute de 193°04'37”, com ângulo interno em V02 (88°56’10”) e por uma distância de 156,32m, até o vértice V-03, de coordenadas E=407.765,270m e N=9.629.415,051m; deste segue confrontando com “JOSÉ RAIMUNDO SANTOS TELES” – (LESTE), com azimute de 196°21’09”, com ângulo interno em V03 (176°43’29”) e por uma distância de 38,29m, até o vértice V-04, de coordenadas E=407.754,490m e N=9.629.378,311m; deste segue confrontando com “JOSÉ RAIMUNDO SANTOS TELES” – (LESTE), com azimute de 193°58’54”, com ângulo interno em V04 (182°22’14”) e por uma distância de 32,75m, até o vértice V-05, de coordenadas E=407.746,577m e N=9.629.346,530m; deste segue confrontando com a “PREFEITURA MUNICIPAL DE AMONTADA - MATR. 548” – (SUL), com azimute de 283°48’54”, com ângulo interno em V05 (90°10’00”) e por uma distância de 92,22m, até o vértice V-06, de coordenadas E=407.657,021m e N=9.629.368,552m; deste segue confrontando com a “PREFEITURA MUNICIPAL DE AMONTADA - MATR. 548” – (OESTE), com azimute de 13°48’54”, com ângulo interno em V06 (90°00’00”) e por uma distância de 224,42m, até o vértice V-01, onde teve início essa descrição, perfazendo uma área total de 20.990,62m² e um perímetro de 636,05m.
+
+Inclusão feita pelo Art. 2º. - Lei nº 1.667, de 02 de junho de 2025.
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a doar, com dispensa de licitação em razão do interesse público relevante, ao Instituto Sertão Vivo, pessoa jurídica de direito privado, inscrito no CNPJ/MF sob o nº 06.025.678/0001-05, com endereço na Rua Teófilo Lessa, 308, Altos – José Airton Machado – CEP: 63.800-000 – Quixeramobim/CE, a gleba de 20.990,62 m² (vinte mil, novecentos e noventa metros quadrados e sessenta e dois decímetros quadrados), do imóvel da Matrícula n° 548, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim – Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará, destinado exclusivamente à construção de um conjunto residencial através do Programa Minha Casa, Minha Vida – MCMV-Entidades.
+
+Alteração feita pelo Art. 3º. - Lei nº 1.667, de 02 de junho de 2025.
+
+
+Art. 3º.
+
+Havendo desvio de finalidade ao que estabelece esta Lei, a gleba de terra, objeto de desafetação, e doação ao Instituto Sertão Vivo, será revertido ao patrimônio público municipal, incontinenti e sem aviso prévio, interpelação ou notificação judicial e sem ônus para a municipalidade.
+
+
+Art. 4º.
+
+O donatário terá um prazo de 2 (dois) anos para iniciar as obras do conjunto residencial.
+
+
+Art. 5º.
+
+O donatário perderá a doação objeto desta lei:
+
+
+I –
+
+pelo não cumprimento dos prazos estabelecidos no art. 4º;
+
+
+II –
+
+pelo desvio de finalidade, nos termos do art. 3º;
+
+
+Parágrafo único
+
+No caso de perda da doação, o terreno será automaticamente revertido ao Município, mediante decreto e sem indenização ao donatário, pela utilização e/ou pelas benfeitorias existentes, as quais serão incorporadas ao patrimônio municipal.
+
+
+Art. 6º.
+
+Fica o Poder Executivo autorizado a outorgar a escritura pública de doação ao donatário, ficando este responsável pelas despesas da transcrição imobiliária de que trata esta Lei, inclusive, no que tange às respectivas obrigações tributárias.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA**, em 18 de dezembro de 2023.
+
+**Flávio César Bruno Texeira Filho**  
+Prefeito Municipal de Amontada
+

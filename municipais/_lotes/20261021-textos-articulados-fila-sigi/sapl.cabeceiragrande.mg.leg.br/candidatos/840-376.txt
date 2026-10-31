@@ -1,0 +1,1674 @@
+Institui o Sistema de Controle Interno do Poder Executivo do Município.
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+#### CAPÍTULO I — OBJETO E ÂMBITO DE APLICAÇÃO NORMATIVA
+
+
+Art. 1º.
+
+Esta Lei institui a Controladoria, Ouvidoria e Corregedoria Geral do Município, como órgão do Sistema de Controle Interno do Poder Executivo do Município de Cabeceira Grande.
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+#### CAPÍTULO II — DAS CONCEITUAÇÕES BÁSICAS
+
+
+Art. 2º.
+
+Para os efeitos desta Lei, considera-se:
+
+
+I –
+
+accountability: conjunto de procedimentos adotados pelas organizações públicas e pelos indivíduos que as integram que evidenciam sua responsabilidade por decisões tomadas e ações implementadas, incluindo a salvaguarda de recursos públicos, a imparcialidade e o desempenho das organizações;
+
+
+II –
+
+apetite a risco: nível de risco que uma organização está disposta a aceitar;
+
+
+III –
+
+auditoria interna: atividade independente e objetiva de avaliação e de consultoria, desenhada para adicionar valor e melhorar as operações de uma organização. Ela auxilia a organização a realizar seus objetivos, a partir da aplicação de uma abordagem sistemática e disciplinada para avaliar e melhorar a eficácia dos processos de gerenciamento de riscos, de controles internos, de integridade e de governança. As auditorias internas no âmbito da Administração Pública se constituem na terceira linha ou camada de defesa das organizações, uma vez que são responsáveis por proceder à avaliação da operacionalização dos controles internos da gestão (primeira linha ou camada de defesa, executada por todos os níveis de gestão dentro da organização) e da supervisão dos controles internos (segunda linha ou camada de defesa, executada por instâncias específicas, como comitês de risco e controles internos). Compete às auditorias internas oferecer avaliações e assessoramento às organizações públicas, destinadas ao aprimoramento dos controles internos, de forma que controles mais eficientes e eficazes mitiguem os principais riscos de que os órgãos e entidades não alcancem seus objetivos;
+
+
+IV –
+
+componentes dos controles internos da gestão: são o ambiente de controle interno da entidade, a avaliação de risco, as atividades de controles internos, a informação e comunicação e o monitoramento;
+
+
+V –
+
+controles internos da gestão: conjunto de regras, procedimentos, diretrizes, protocolos, rotinas de sistemas informatizados, conferências e trâmites de documentos e informações, entre outros, operacionalizados de forma integrada pela direção e pelo corpo de servidores das organizações, destinados a enfrentar os riscos e fornecer segurança razoável de que, na consecução da missão da entidade, os seguintes objetivos gerais serão alcançados:
+
+
+a)
+
+execução ordenada, ética, econômica, eficiente e eficaz das operações;
+
+
+b)
+
+cumprimento das obrigações de accountability;
+
+
+c)
+
+cumprimento das leis e regulamentos aplicáveis; e
+
+
+d)
+
+salvaguarda dos recursos para evitar perdas, mau uso e danos. O estabelecimento de controles internos no âmbito da gestão pública visa essencialmente aumentar a probabilidade de que os objetivos e metas estabelecidos sejam alcançados, de forma eficaz, eficiente, efetiva e econômica;
+
+
+VI –
+
+fraude: quaisquer atos ilegais caracterizados por desonestidade, dissimulação ou quebra de confiança. Estes atos não implicam o uso de ameaça de violência ou de força física;
+
+
+VII –
+
+gerenciamento de riscos: processo para identificar, avaliar, administrar e controlar potenciais eventos ou situações, para fornecer razoável certeza quanto ao alcance dos objetivos da organização;
+
+
+VIII –
+
+governança: combinação de processos e estruturas implantadas pela alta administração, para informar, dirigir, administrar e monitorar as atividades da organização, com o intuito de alcançar os seus objetivos;
+
+
+IX –
+
+governança no setor público: compreende essencialmente os mecanismos de liderança, estratégia e controle postos em prática para avaliar, direcionar e monitorar a atuação da gestão, com vistas à condução de políticas públicas e à prestação de serviços de interesse da sociedade;
+
+
+X –
+
+incerteza: incapacidade de saber com antecedência a real probabilidade ou impacto de eventos futuros;
+
+
+XI –
+
+mensuração de risco: significa estimar a importância de um risco e calcular a probabilidade e o impacto de sua ocorrência;
+
+
+XII –
+
+Política de gestão de riscos: declaração das intenções e diretrizes gerais de uma organização relacionadas à gestão de riscos;
+
+
+XIII –
+
+risco: possibilidade de ocorrência de um evento que venha a ter impacto no cumprimento dos objetivos. O risco é medido em termos de impacto e de probabilidade;
+
+
+XIV –
+
+risco inerente: risco a que uma organização está exposta sem considerar quaisquer ações gerenciais que possam reduzir a probabilidade de sua ocorrência ou seu impacto;
+
+
+XV –
+
+risco residual: risco a que uma organização está exposta após a implementação de ações gerenciais para o tratamento do risco; e
+
+
+XVI –
+
+Sistema de Controle Interno do Poder Executivo Municipal: compreende as atividades de avaliação do cumprimento das metas previstas no plano plurianual, da execução dos programas de governo e dos orçamentos do Município de Cabeceira Grande e de avaliação da gestão dos administradores públicos do Município, utilizando como instrumentos a auditoria e a fiscalização, e tendo integradas unidade central e unidades executoras. Não se confunde com os controles internos da gestão, de responsabilidade de cada órgão e entidade do Poder Executivo do Município.
+
+
+Parágrafo único
+
+A referência à expressão “Poder”, procedida isoladamente, nesta Lei, equivale-se a Poder Executivo do Município de Cabeceira Grande.
+
+
+#### CAPÍTULO III — DO SISTEMA DE CONTROLE INTERNO – SCI
+
+
+##### Seção I — Disposições Preliminares
+
+
+Art. 3º.
+
+Fica instituído, no âmbito do Poder Executivo, o Sistema de Controle Interno – SCI, como unidade central integrada pelos pilares de Controladoria, Corregedoria, Auditoria e Ouvidoria, vinculado diretamente ao Gabinete do Prefeito, em observância à Decisão Normativa n.° 2, de 26 de outubro de 2016 (e o respectivo Anexo – Orientações sobre Controle Interno), do Tribunal de Contas do Estado de Minas Gerais e outros normativos e orientações do Tribunal de Contas da União – TCU, atendido o disposto nos artigos 31, 70 e 74 da Constituição Federal e observado, ainda, no que couber, o disposto na Lei Federal n.º 10.180, de 6 de fevereiro de 2001, no Decreto Federal n.º 3.591, de 6 de setembro de 2000 e normativos provindos da Controladoria-Geral da União – CGU, especialmente o disposto na Instrução Normativa Conjunta MP/CGU n.º 1, de 2016, que dispõe sobre controles internos, gestão de risco e governança no âmbito do Poder Executivo Federal, na Instrução Normativa n.º 3, de 9 de junho de 2017, que aprova o Referencial Técnico da Atividade de Auditoria Interna Governamental do Poder Executivo Federal e na Instrução Normativa n.º 9, de 9 de outubro de 2018, que dispõe sobre o Plano Anual de Auditoria Interna – Paint e sobre o Relatório Anual de Atividades de Auditoria Interna – Raint das Unidades de Auditoria Interna Governamental do Poder Executivo Federal e dá outras providências, além de observar, no que couber, normativos e orientações provindas da Controladoria-Geral do Estado de Minas Gerais – CGE.
+
+
+##### Seção II — Disposições Básicas Sobre Controle Interno e o respectivo SCI
+
+
+Art. 4º.
+
+O controle interno é o conjunto coordenado de métodos e de práticas operacionais que deve ser implantado em todos os níveis hierárquicos do Poder, estruturado para enfrentar riscos e fornecer razoável segurança de que, na consecução das metas e dos objetivos do Poder, serão observadas as seguintes diretrizes:
+
+
+I –
+
+execução ordenada, ética, econômica, eficiente e transparente dos processos de trabalho;
+
+
+II –
+
+cumprimento das obrigações de accountability;
+
+
+III –
+
+cumprimento dos princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, da razoabilidade e da finalidade, dos atos legais e infralegais e das melhores técnicas de gestão; e
+
+
+IV –
+
+preservação dos recursos públicos contra perda, mau uso e dano.
+
+
+Art. 5º.
+
+O SCI visa a avaliar a ação governamental e a gestão dos administradores públicos, por intermédio da fiscalização contábil, financeira, orçamentária, operacional e patrimonial, e a apoiar o controle externo no exercício de sua missão institucional.
+
+
+§ 1º
+
+O SCI é formado pelas unidades administrativas de todos os níveis hierárquicos do Poder Executivo, as quais aplicarão, de forma conjunta e integrada, os métodos e as práticas operacionais de controle interno nos processos de trabalho que lhes forem afetos, sob a coordenação de uma unidade central.
+
+
+§ 2º
+
+As unidades administrativas mencionadas no parágrafo 1° deste artigo serão denominadas de unidades executoras do SCI.
+
+
+##### Seção III — Princípios Gerais, Classificação, Elementos e Atribuições do SCI
+
+
+Art. 6º.
+
+Os princípios gerais das ações do SCI são:
+
+
+I –
+
+relação custo e benefício: consiste na avaliação do custo de um controle em relação aos benefícios que ele pode proporcionar, isso porque o custo de uma ação de controle não deve exceder os benefícios que ela pode proporcionar;
+
+
+II –
+
+qualificação adequada, treinamento e rodízio de agentes públicos na execução de atos administrativos: a efetividade do funcionamento do sistema de controle interno está relacionada com a capacitação e a integridade dos agentes públicos, consistindo o rodízio de agentes em uma forma de reduzir ou evitar a ocorrência de erros ou irregularidades na execução de atos administrativos;
+
+
+III –
+
+delegação de poderes: a delegação de poderes constitui instrumento de desconcentração administrativa que assegura mais rapidez e objetividade à tomada de decisão, devendo o ato de delegação indicar, com precisão, a autoridade delegante, a autoridade delegada e o objeto de delegação, nesse caso, a autoridade delegada possui o dever de prestar contas dos atos praticados em virtude das responsabilidades assumidas em razão da delegação (accountability);
+
+
+IV –
+
+definição de responsabilidades: o Poder Executivo deve possuir regulamentação e organograma próprios, com a definição clara dos gestores e das unidades da estrutura organizacional, bem como das responsabilidades a que estão sujeitos e das relações de hierarquia existentes entre eles, pois somente é possível responsabilizar o gestor quando as suas atribuições estão definidas;
+
+
+V –
+
+segregação de funções: nos processos de trabalho do Poder deve haver previsão de separação das funções de autorização, execução, registro e controle entre unidades ou agentes públicos distintos;
+
+
+VI –
+
+instruções formalizadas: os processos de trabalho mais relevantes do Poder Executivo e sujeitos a maior incidência de riscos devem ser regulamentados e padronizados em instruções normativas, em manual de rotinas e de procedimentos ou em fluxogramas;
+
+
+VII –
+
+controles sobre os processos de trabalho: é necessário que seja estabelecido no Poder o acompanhamento dos atos contábeis, financeiros, operacionais e orçamentários, entre outros, a fim de que sejam verificadas a legitimidade do ato, a sua consonância com as finalidades do Poder, e a existência de autorização da autoridade competente para a sua prática; e
+
+
+VIII –
+
+aderência às diretrizes e às normas legais: os procedimentos de controle interno devem estar em conformidade com os atos legais e infralegais, para isso, os agentes públicos devem ter conhecimento dos atos normativos a que estão submetidos, bem como acompanhar as modificações desses atos.
+
+
+Art. 7º.
+
+O SCI poderá ser classificado nas seguintes categorias:
+
+
+I –
+
+operacional: abrange as atividades que buscam assegurar o alcance dos objetivos e das metas do Poder Executivo;
+
+
+II –
+
+contábil: abrange as atividades que buscam assegurar a veracidade, a fidedignidade e a tempestividade dos registros e das demonstrações contábeis; e
+
+
+III –
+
+normativa: abrange as atividades que buscam assegurar a observância dos atos legais e infralegais.
+
+
+Art. 8º.
+
+O SCI deve compreender 5 (cinco) elementos inter-relacionados:
+
+
+I –
+
+ambiente de controle: constitui a base de todo o sistema de controle interno, exerce influência na forma pela qual as estratégias e os objetivos do Poder Executivo serão estabelecidos e na forma pela qual os procedimentos de controle serão estruturados, sendo formado pelos seguintes subelementos:
+
+
+a)
+
+integridade pessoal e profissional e valores éticos da direção e do quadro de pessoal: todos os agentes públicos pertencentes ao Poder (autoridades, gestores e servidores) devem se comportar de forma íntegra e ética, de modo a apoiar as atividades de controle interno;
+
+
+b)
+
+competência: envolve o nível de conhecimento e o de habilidades que contribuirão para assegurar a execução ordenada, ética, econômica, eficiente e transparente dos processos de trabalho, bem como contribuirão para assegurar aos agentes públicos o entendimento adequado sobre a importância da implantação, do desenvolvimento e da manutenção de um sistema de controle interno com qualidade, e sobre as suas responsabilidades individuais no funcionamento desse sistema;
+
+
+c)
+
+"perfil dos superiores": as autoridades e os gestores do Poder Executivo devem adotar uma postura que enalteça o sistema de controle interno e fornecer os subsídios necessários para o seu correto funcionamento, de modo a influenciar, de forma positiva, o comportamento dos demais agentes públicos integrantes do Poder em relação às atividades de controle interno; além disso, devem adotar políticas gerenciais que fomentem a ética e a integridade na conduta dos agentes públicos, para que as diretrizes do sistema de controle interno sejam observadas;
+
+
+d)
+
+estrutura organizacional: o Poder deve criar, em sua estrutura organizacional, uma unidade específica de controle interno, a qual deve atuar com independência e se reportar diretamente à autoridade máxima do Poder; e
+
+
+e)
+
+políticas e práticas de recursos humanos: as políticas e as práticas de recursos humanos do Poder Executivo – as quais envolvem, entre outras medidas, admissão, capacitação, avaliação, remuneração, promoção e ações disciplinares – devem estimular os agentes públicos a terem a integridade, a ética, a competência, a formação e a experiência necessárias ao exercício das atividades de controle interno;
+
+
+II –
+
+mapeamento e avaliação de riscos: os processos de trabalho do Poder Executivo poderão estar sujeitos a riscos (como, por exemplo, o risco de fraude ou de corrupção), em razão de fatores internos ou externos, nesse contexto, o mapeamento e a avaliação de riscos exercem papel essencial na seleção dos procedimentos de controle a serem aplicados no âmbito do Poder na medida em que consideram, entre outros aspectos, a relevância do risco (ou seja, o seu impacto na realização dos objetivos, das finalidades e das metas do Poder), a probabilidade da sua ocorrência, a forma como será administrado, a definição das ações a serem implementadas para evitá-lo ou minimizar o seu potencial;
+
+
+III –
+
+procedimentos de controle: são as medidas e as ações que buscam evitar ou minimizar os riscos a que estão sujeitos os processos de trabalho, e oferecer razoável segurança de que as metas e os objetivos do Poder Executivo serão alcançados, esses procedimentos poderão se concretizar mediante as seguintes técnicas, entre outras:
+
+
+a)
+
+procedimentos de autorização: a autorização deve ser documentada e comunicada, de forma clara, aos agentes públicos destinatários, bem como deve dispor sobre as condições e os termos segundo os quais os atos administrativos devem ser realizados, desse modo, os agentes públicos que agirem em conformidade com as condições e os termos dispostos na autorização estarão, por consequência, agindo em conformidade com as diretrizes e com as limitações estabelecidas no âmbito do Poder ou na legislação;
+
+
+b)
+
+segregação de funções (autorização, execução, registro e controle): para reduzir o risco de erro ou irregularidade na realização dos atos administrativos ou para reduzir o risco de o erro ou a irregularidade não ser identificada, o controle de todas as etapas- chave de um processo de trabalho não deve ser conferido a apenas uma unidade ou um agente público, isso porque as responsabilidades inerentes a um processo de trabalho devem ser assumidas por unidades ou agentes distintos, para que o ato administrativo executado por uma unidade ou agente seja revisto ou avaliado por outro;
+
+
+c)
+
+controles de acesso a recursos: o acesso a recursos deve ser restrito aos agentes públicos autorizados, responsáveis pela sua guarda ou utilização, uma vez que a restrição de acesso aos recursos reduz o risco de utilização não autorizada ou de prejuízo;
+
+
+d)
+
+verificação: os processos de trabalho mais relevantes do Poder Executivo devem ser objeto de verificação antes e depois da sua ocorrência, por exemplo, quando materiais são entregues ao Poder, deve-se verificar se o número de materiais entregues coincide com o número de materiais contratados, e, num momento posterior, deve-se verificar se existe correspondência entre os inventários periódicos dos materiais estocados e os respectivos registros contábeis;
+
+
+e)
+
+conciliação: é a confrontação da mesma informação com dados advindos de bases diferentes, exemplo disso são as informações de uma conta bancária que devem ser confrontadas com os dados constantes dos registros contábeis e com os constantes dos extratos bancários;
+
+
+f)
+
+avaliação de desempenho operacional: o desempenho operacional de um processo de trabalho deve ser avaliado, de forma periódica, sob o enfoque das normas vigentes e dos princípios da eficácia e da eficiência, assim, se a avaliação de desempenho operacional indicar que os objetivos ou padrões do Poder não foram alcançados, o processo de trabalho deve ser revisto, para que nele sejam realizadas melhorias;
+
+
+g)
+
+avaliação dos atos administrativos e dos processos de trabalho: os atos administrativos e os processos de trabalho devem ser objeto de avaliação periódica, a qual visa a assegurar a prática dos atos administrativos e dos processos de trabalho em conformidade com os atos legais e infralegais, entre outros requisitos;
+
+
+h)
+
+supervisão: a supervisão auxilia no cumprimento das diretrizes do controle interno, e compreende os seguintes atos:
+
+
+1
+
+comunicação clara das funções, das responsabilidades e das obrigações de prestar contas a serem atribuídas a cada agente público do Poder;
+
+
+2
+
+revisão sistemática do trabalho realizado por cada agente público;
+
+
+3
+
+aprovação do trabalho, a qual assegurará que esse se desenvolveu de acordo com o requerido; e
+
+
+4
+
+orientação e capacitação dos agentes públicos, com o propósito de evitar ou minimizar a ocorrência de erros na execução dos processos de trabalho e de garantir a compreensão e o cumprimento das diretrizes gerenciais do Poder;
+
+
+IV –
+
+informação e comunicação: a informação e a comunicação são essenciais para a condução e o controle dos processos de trabalho, e encontram-se vinculadas aos seguintes requisitos:
+
+
+a)
+
+para que os agentes públicos possam realizar as atividades afetas ao controle interno e as demais atividades sujeitas à sua responsabilidade, a informação sobre eventos (internos ou externos) deve ser tempestiva, apropriada (a informação necessária existe?), oportuna (a informação encontra-se disponível quando dela se necessita?), atualizada (a informação que se encontra disponível corresponde à última versão?), precisa (a informação está correta?) e acessível (a informação pode ser obtida com facilidade?); e
+
+
+b)
+
+para que o sistema de controle interno seja eficaz, a comunicação da informação deve fluir por toda a estrutura do Poder e ficar disponível a todos os agentes públicos, uma vez que é por meio de uma comunicação adequada que os agentes públicos poderão compreender a importância do sistema de controle interno e o papel a ser por eles desempenhado no funcionamento desse sistema, bem como poderão compreender de que forma as atividades por eles desempenhadas se relacionam com as desempenhadas pelos demais; e
+
+
+V –
+
+monitoramento: o monitoramento avalia a atuação do sistema de controle interno sob a ótica da regularidade, ética, economicidade (princípio da relação custo e benefício), eficiência e eficácia, com o propósito de assegurar a adequação desse sistema às metas, aos objetivos, ao ambiente de controle, aos recursos e aos riscos existentes no Poder, ele pode ocorrer por meio de atividades rotineiras ou de avaliações específicas ou pela combinação de ambas.
+
+
+§ 1º
+
+Os procedimentos de controle previstos nas alíneas “a” a “c” do inciso III deste artigo possuem natureza de prevenção, já os previstos nas alíneas “d” a “f” do inciso III de detecção, e os previstos nas alíneas “g” e “h” do inciso III de prevenção e de detecção.
+
+
+§ 2º
+
+Os procedimentos de controle com natureza de prevenção devem ocorrer em momento anterior ao da execução do ato e visam a minimizar ou a evitar a ocorrência de erros ou irregularidades, já os procedimentos de controle com natureza de detecção devem ocorrer durante ou após a execução do ato, visam a identificar a ocorrência de erros ou irregularidades, e estarão acompanhados, se for o caso, de proposição de medidas corretivas.
+
+
+§ 3º
+
+O Poder Executivo do Município de Cabeceira Grande deve buscar um equilíbrio na utilização dos procedimentos de controle de prevenção e de detecção, de modo que as desvantagens existentes em cada procedimento de controle em específico sejam compensadas.
+
+
+Art. 9º.
+
+O SCI possui, dentre outras, as seguintes atribuições:
+
+
+I –
+
+resguardar a confiabilidade, a fidedignidade, a veracidade, a tempestividade e a integridade de registros contábeis ou de registros de atos administrativos de outra natureza, bem como a disponibilidade desses registros para a tomada de decisão;
+
+
+II –
+
+avaliar o cumprimento e a execução dos programas, objetivos e metas previstos nos instrumentos de planejamento (Plano Plurianual, Lei de Diretrizes Orçamentárias – incluído o Anexo de Metas Fiscais – e Lei Orçamentária Anual), bem como o cumprimento e a execução das metas bimestrais de arrecadação e do cronograma de execução mensal de desembolso;
+
+
+III –
+
+acompanhar o cumprimento da programação de atividades e projetos, com o objetivo de avaliar a conformidade de sua execução, bem como acompanhar as políticas públicas e avaliar os seus resultados;
+
+
+IV –
+
+avaliar a legalidade e a legitimidade da gestão contábil, orçamentária, financeira, patrimonial, e de pessoal, entre outras áreas administrativas, bem como avaliar os resultados dessas gestões sob a ótica da economicidade, da eficiência e da eficácia;
+
+
+V –
+
+avaliar a observância dos limites atinentes ao endividamento do Poder Executivo, bem como se foram adotadas as providências previstas no artigo 31 da Lei Complementar Federal n.º 101, de 4 de maio de 2000, para a recondução dos montantes das dívidas consolidada e mobiliária aos respectivos limites;
+
+
+VI –
+
+avaliar a observância dos limites atinentes à despesa total com pessoal, previstos nos artigos 19 e 20 da Lei Complementar Federal n.º 101, de 2000, bem como se foram adotadas as providências previstas nos artigos 22 e 23 da mesma lei complementar para a recondução da despesa total com pessoal aos respectivos limites;
+
+
+VII –
+
+avaliar os gastos com saúde e com educação (incluídos os gastos com a remuneração dos profissionais do magistério a serem cobertos com recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb);
+
+
+VIII –
+
+avaliar a observância dos limites e das condições para realização de operações de crédito e inscrição em Restos a Pagar;
+
+
+IX –
+
+avaliar os avais e as garantias prestados, bem como os direitos e os haveres do Município de Cabeceira Grande;
+
+
+X –
+
+avaliar a destinação de recursos obtidos com a alienação de ativos, considerando as restrições estabelecidas na Lei Complementar Federal n.º 101, de 2000;
+
+
+XI –
+
+avaliar, de forma seletiva, com base em critérios de materialidade, risco e relevância, a adequação dos procedimentos licitatórios e dos contratos celebrados às normas estabelecidas na Lei Federal n.º 8.666, de 21 de junho de 1993, e na Lei Federal n.º 10.520, de 17 de julho de 2002;
+
+
+XII –
+
+avaliar o cumprimento da ordem cronológica de pagamentos, nos termos do disposto no caput do artigo 5º da Lei Federal n.º 8.666, de 1993;
+
+
+XIII –
+
+avaliar o cumprimento da ordem cronológica de pagamentos, nos termos do disposto no caput do artigo 5º da Lei Federal n.º 8.666, de 1993;
+
+
+XIV –
+
+avaliar a concessão de subvenções e os atos de renúncia de receita;
+
+
+XV –
+
+acompanhar os alertas emitidos pelo Tribunal de Contas do Estado de Minas Gerais nas hipóteses do disposto no parágrafo 1º do artigo 59 da Lei Complementar Federal n.º 101, de 2000;
+
+
+XVI –
+
+possibilitar ao cidadão o acesso às informações sobre a gestão dos recursos públicos e avaliar se os agentes públicos estão cumprindo com a obrigação de prestar contas das ações por eles praticadas (accountability); e
+
+
+XVII –
+
+auxiliar o controle externo no exercício de sua missão institucional.
+
+
+##### Seção IV — Do Funcionamento da Unidade Central e das Unidades Executoras do SCI
+
+
+Art. 10.
+
+A unidade central do SCI integra a estrutura administrativa da Prefeitura Municipal.
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 1º
+
+A unidade central do SCI fica vinculada diretamente com o Gabinete do Prefeito, ficando-lhe assegurada, porém, independência para adequada condução de suas atividades.
+
+
+§ 2º
+
+A estrutura da unidade central do SCI deverá ser condizente com o volume e a complexidade das atividades e dos processos de trabalho realizados no Poder Executivo.
+
+
+Art. 11.
+
+Cabe à unidade central do SCI, além de outras atribuições fixadas em ato normativo expedido pelo Prefeito:
+
+
+I –
+
+zelar pela qualidade e pela independência do SCI;
+
+
+II –
+
+acompanhar os processos de trabalho das unidades executoras, e coordenar, orientar e organizar as atividades de controle interno sobre esses processos;
+
+
+III –
+
+zelar pela integração e pela interação das atividades de controle interno das unidades executoras;
+
+
+IV –
+
+avaliar se as unidades executoras, na realização de seus processos de trabalho, estão cumprindo os atos legais e infralegais, bem como os resultados programados (medição de desempenho);
+
+
+V –
+
+realizar, em caráter periódico, auditorias internas, para medir e avaliar, sob a ótica da legalidade, da legitimidade, da eficácia, da eficiência, da efetividade e da economicidade, os procedimentos de controle interno adotados nas unidades executoras, e, por conseguinte, expedir recomendações ao gestor da unidade ou à autoridade máxima do Poder para evitar a ocorrência de irregularidades (medidas preventivas) ou para sanar as irregularidades apuradas (medidas corretivas);
+
+
+VI –
+
+cientificar o Tribunal de Contas do Estado de Minas Gerais sobre a ocorrência de ilegalidade ou irregularidade apuradas no exercício de suas atividades, na hipótese de aquelas não terem sido sanadas no âmbito do Poder Executivo;
+
+
+VII –
+
+monitorar o cumprimento das recomendações por ela expedidas, quando acolhidas pela autoridade administrativa competente do Poder, bem como o cumprimento das recomendações ou determinações expedidas pelo Tribunal de Contas do Estado de Minas Gerais;
+
+
+VIII –
+
+emitir e assinar, por meio de seu responsável, relatório e parecer conclusivo sobre as contas anuais de governo e sobre as contas anuais de gestão;
+
+
+IX –
+
+emitir e assinar, por meio de seu responsável, relatório conclusivo sobre a tomada de contas especial, bem como certificado de auditoria sobre a regularidade ou irregularidade das contas tomadas;
+
+
+X –
+
+assinar, por meio de seu responsável, o relatório de gestão fiscal, e verificar a consistência dos dados nele contidos, nos termos do disposto nos artigos 54 e 55 da Lei Complementar Federal n.º 101, de 2000;
+
+
+XI –
+
+subsidiar a elaboração de relatórios gerais e informativos a serem encaminhados ao Tribunal de Contas do Estado de Minas Gerais; e
+
+
+XII –
+
+providenciar a normatização, a sistematização e a padronização das suas rotinas de trabalho, mediante a elaboração de manuais, de instruções normativas específicas ou de fluxogramas, bem como providenciar a atualização desses instrumentos.
+
+
+Art. 12.
+
+A existência da unidade central do SCI, ora instituída na estrutura organizacional do Poder Executivo, não exime os gestores das unidades executoras de zelar pelo correto funcionamento das atividades de controle interno incidentes sobre os processos de trabalho sujeitos à sua responsabilidade, inclusive por meio de controles internos de gestão.
+
+
+Art. 13.
+
+A unidade central do SCI orientará e auxiliará as unidades executoras:
+
+
+I –
+
+no mapeamento e no gerenciamento dos riscos a que estão sujeitos os seus processos de trabalho;
+
+
+II –
+
+na identificação das ações que serão objeto de controle dentro dos seus processos de trabalho e dos responsáveis pela execução dessas ações, bem como na seleção dos procedimentos de controle a serem aplicados sobre aquelas ações;
+
+
+III –
+
+na normatização, na sistematização e na padronização das suas rotinas de trabalho e dos procedimentos de controle a serem aplicados sobre essas rotinas, mediante a elaboração de manuais, de instruções normativas específicas ou de fluxogramas, bem como na atualização desses instrumentos; e
+
+
+IV –
+
+na fixação de indicadores de desempenho para os seus processos de trabalho.
+
+
+Parágrafo único
+
+O processo de identificação das ações que serão objeto de controle, nos termos do inciso II deste artigo, deverá considerar, entre outros aspectos, a relevância da ação em relação aos objetivos, às finalidades e às metas do Poder Executivo, bem como a sua maior sujeição à ocorrência de riscos.
+
+
+Art. 14.
+
+Cabe às unidades executoras do sistema de controle interno, além de outras atribuições fixadas em ato normativo próprio expedido pelo Prefeito:
+
+
+I –
+
+executar os métodos e as práticas operacionais de controle interno nos processos de trabalho sujeitos à sua responsabilidade e manter registro dessa operação;
+
+
+II –
+
+cumprir os atos legais e infralegais (manuais e instruções normativas, entre outros) a que estão sujeitas as suas rotinas de trabalho;
+
+
+III –
+
+comunicar à unidade central do sistema de controle interno a ocorrência de ilegalidades ou de irregularidades de que tiverem conhecimento no exercício de suas atividades;
+
+
+IV –
+
+disponibilizar à unidade central do sistema de controle interno todas as informações que lhes forem solicitadas; e
+
+
+V –
+
+auxiliar a unidade central do sistema de controle interno no monitoramento das recomendações por ela expedidas, bem como no monitoramento das recomendações ou determinações expedidas pelo Tribunal de Contas do Estado de Minas Gerais, nos termos do inciso VII do artigo 11 desta Lei.
+
+
+##### Seção V — Das Garantias, Vedações e Obrigações
+
+
+Art. 15.
+
+O Chefe do Poder Executivo deverá conferir o respaldo necessário para que os servidores designados para atuar na unidade central e executoras do SCI tenham:
+
+
+I –
+
+autonomia para planejar e executar as atividades de controle interno, bem como para expor os resultados dos seus trabalhos;
+
+
+II –
+
+independência profissional para o desempenho das atividades na administração direta e indireta;
+
+
+III –
+
+livre acesso a todas as dependências do Poder Executivo e, por conseguinte, às informações que se encontrarem em seus arquivos, quando necessário ao desempenho de suas funções; e
+
+
+IV –
+
+a impossibilidade, no caso da Unidade Central, de destituição da função no último ano do mandato do Chefe do Poder Executivo até 30 dias após a data da entrega da prestação de contas do exercício do último ano do mandato ao Poder Legislativo.
+
+
+Art. 16.
+
+É vedado aos servidores da unidade central e executoras do SCI:
+
+
+I –
+
+ser cônjuge, companheiro ou parente em linha reta, até o terceiro grau, de agente público cujos atos serão objeto de controle;
+
+
+II –
+
+possuir vínculos com partidos políticos ou prestar serviços a eles;
+
+
+III –
+
+ocupar cargo de agente político;
+
+
+IV –
+
+possuir relação de qualquer natureza com a administração pública que possa afetar a sua autonomia profissional;
+
+
+V –
+
+exercer outras atividades que não sejam afetas ao controle interno (princípio da segregação de funções);
+
+
+VI –
+
+delegar o exercício das atividades de controle interno a outros agentes públicos; e
+
+
+VII –
+
+divulgar as informações a que tiverem acesso em virtude do exercício de suas atividades, quando consideradas sigilosas por lei.
+
+
+Parágrafo único
+
+Sem prejuízo do disposto neste artigo, e vedada a nomeação para os cargos integrantes do SCI de pessoas que tenham sido nos últimos 5 (cinco) anos:
+
+
+I –
+
+responsabilizadas por atos julgados irregulares, de forma definitiva, pelos Tribunais de Contas;
+
+
+II –
+
+punidas, por decisão da qual não caiba recurso na esfera administrativa, em processo disciplinar, por ato lesivo ao patrimônio público, em qualquer esfera de governo; ou
+
+
+III –
+
+condenadas em processo por prática de crime contra a Administração Pública, capitulado nos Títulos II e XI da Parte Especial do Código Penal Brasileiro, na Lei Federal n.° 7.492, de 16 de junho de 1986, ou por ato de improbidade administrativa previsto na Lei Federal n.° 8.429, de 2 de junho de 1992.
+
+
+Art. 17.
+
+Os servidores da unidade central e executoras do sistema de controle interno devem manter conduta imparcial em relação aos agentes públicos cujos atos serão objeto de controle, e acompanhar a evolução das normas, dos procedimentos e das técnicas aplicáveis ao controle interno.
+
+
+Art. 18.
+
+As atividades de controle interno devem ser exercidas, em caráter exclusivo, pelos servidores designados para compor a unidade central e executoras do SCI, não sendo admitida a terceirização.
+
+
+##### Seção VI — Do Apoio ao Controle Externo
+
+
+Art. 19.
+
+No apoio às atividades de controle externo, caberá à unidade central do SCI exercer, dentre outras, as seguintes atividades:
+
+
+I –
+
+organizar e executar, mediante pedido do Tribunal de Contas do Estado de Minas Gerais, programação de auditoria contábil, financeira, orçamentária, operacional e patrimonial nas unidades executoras do sistema de controle interno;
+
+
+II –
+
+disponibilizar ao Tribunal os relatórios das auditorias realizadas, os quais devem indicar as ilegalidades ou irregularidades apuradas e as medidas saneadoras recomendadas;
+
+
+III –
+
+emitir, mediante pedido do Tribunal, parecer conclusivo sobre os atos de gestão praticados no âmbito do Poder Executivo;
+
+
+IV –
+
+arquivar os documentos relativos ao planejamento, à execução e aos resultados de suas atividades, e disponibilizá-los ao Tribunal em procedimento de fiscalização in loco ou quando forem requisitados;
+
+
+V –
+
+quando tomar conhecimento de irregularidade da qual possa resultar prejuízo ao erário, alertar a autoridade administrativa competente para que adote as medidas administrativas internas necessárias ao ressarcimento, ou para que instaure a tomada de contas especial, caso não tenha obtido o ressarcimento com a adoção das medidas administrativas internas; e
+
+
+VI –
+
+apoiar o Tribunal a monitorar o cumprimento de suas deliberações e os resultados delas advindos, nos termos do disposto nos artigos 290 e 291, II, da Resolução n.º 12, de 17 de dezembro de 2008 (Regimento Interno do Tribunal de Contas do Estado de Minas Gerais).
+
+
+Art. 20.
+
+O servidor designado para gerenciar a unidade central do SCI, ao apurar ilegalidades ou irregularidades no exercício de suas atribuições, deve expedir recomendações ao gestor da unidade ou à autoridade máxima do Poder Executivo com o propósito de saná-las (medidas corretivas).
+
+
+§ 1º
+
+Caso as ilegalidades ou irregularidades apuradas não sejam sanadas no âmbito do Poder Executivo, o servidor designado para gerenciar a unidade central do SCI comunicará o ocorrido ao Tribunal de Contas do Estado de Minas Gerais.
+
+
+§ 2º
+
+Ao formalizar a comunicação de que trata o parágrafo 1º deste artigo, o servidor designado para gerenciar a unidade central do SCI informará ao Tribunal as recomendações que expediu para:
+
+
+I –
+
+o saneamento da ilegalidade ou da irregularidade apurada;
+
+
+II –
+
+a adequação do ato de gestão aos preceitos legais e infralegais;
+
+
+III –
+
+a obtenção do ressarcimento de possível prejuízo causado ao erário; e
+
+
+IV –
+
+o impedimento de novas ilegalidades ou irregularidades.
+
+
+§ 3º
+
+Se o servidor designado para gerenciar a unidade central do SCI não formalizar a comunicação de que trata o parágrafo 1º deste artigo, poderá ser responsabilizado em caráter solidário pelos atos apurados e ser penalizado com multa, nos termos do disposto no artigo 85, VIII, da Lei Complementar Estadual n.º 102, de 17 de janeiro de 2008.
+
+
+##### Seção VII — Dos Princípios Fundamentais de Ética Profissional comuns aos integrantes do SCI
+
+
+Art. 21.
+
+São princípios fundamentais de ética profissional comuns aos integrantes do SCI, da unidade central e executoras:
+
+
+I –
+
+integridade;
+
+
+II –
+
+proficiência, Competência e zelo profissional;
+
+
+III –
+
+autonomia Técnica e Objetividade;
+
+
+IV –
+
+alinhamento às estragégias, objetivos e riscos da unidade controlada;
+
+
+V –
+
+atuação respaldada em adequado posicionamento e em recursos apropriados;
+
+
+VI –
+
+qualidade e melhoria contínua;
+
+
+VII –
+
+comunicação eficaz;
+
+
+VIII –
+
+confidencialidade e sigilo profissional; e
+
+
+IX –
+
+comportamento com conduta ética, probidade e honestidade.
+
+
+##### Seção VIII — Do Processo de Avaliação e do Nível Operacional
+
+
+Art. 22.
+
+Compreendem, basicamente, no processo de avaliação a cargo do SCI:
+
+
+I –
+
+levantamento prévio;
+
+
+II –
+
+definição ou revisão da estrutura de controle;
+
+
+III –
+
+desenvolvimento dos instrumentos de avaliação;
+
+
+IV –
+
+testes de controle;
+
+
+V –
+
+avaliação dos resultados dos testes de controle;
+
+
+VI –
+
+comunicação de resultados; e
+
+
+VII –
+
+monitoramento (follow-up).
+
+
+Art. 23.
+
+Compreendem, basicamente, como atividades a cargo do SCI em nível operacional:
+
+
+I –
+
+planejamento;
+
+
+II –
+
+levantamento e documentação do processo;
+
+
+III –
+
+validação do processo;
+
+
+IV –
+
+identificação dos objetivos, riscos e controles; e
+
+
+V –
+
+planejamento dos testes de controle.
+
+
+##### Seção IX — Da Gestão e Melhoria da Qualidade
+
+
+Art. 24.
+
+gestão da qualidade promove uma cultura que resulta em comportamentos, atitudes e processos que proporcionam a entrega de produtos de alto valor agregado, atendendo às expectativas das partes interessadas. A gestão da qualidade é responsabilidade de todos os integrantes do SCI, sob a liderança da unidade central respectiva.
+
+
+§ 1º
+
+A unidade central do SCI deverá instituir e manter um Programa de Gestão e Melhoria da Qualidade – PGMQ que contemple toda a atividade de controladoria, auditoria interna governamental, corregedoria e ouvidoria, desde o seu gerenciamento até o monitoramento das recomendações emitidas, tendo por base os requisitos estabelecidos em referencial técnico expedido pela Controladoria-Geral da União, os preceitos legais aplicáveis e as boas práticas nacionais e internacionais relativas ao tema.
+
+
+§ 2º
+
+O PGMQ deverá prever avaliações internas e externas, orientadas para a avaliação da qualidade e a identificação de oportunidades de melhoria.
+
+
+§ 3º
+
+As avaliações internas devem incluir o monitoramento contínuo do desempenho da atividade de controladoria, auditoria interna, corregedoria e ouvidoria.
+
+
+§ 4º
+
+Cabe à unidade central do SCI comunicar periodicamente os resultados do PGMQ à alta administração pública municipal e ao CMTPI. As comunicações devem conter os resultados das avaliações internas e externas, as fragilidades encontradas que possam comprometer a qualidade das respectivas atividades e os respectivos planos de ação corretiva, se for o caso
+
+
+#### CAPÍTULO IV — DA UNIDADE ADMINISTRATIVA DO SCI
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+Art. 25.
+
+O SCI se organiza administrativamente por meio do órgão de Controladoria, Ouvidoria e Corregedoria Geral, que tem como competência:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+I –
+
+na área de Controladoria:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+a)
+
+coordenar e gerir as atividades do SCI;
+
+
+b)
+
+propor ao Prefeito a normatização, sistematização e padronização dos procedimentos operacionais dos órgãos e das unidades integrantes do Sistema de Controle Interno do Poder Executivo Municipal;
+
+
+c)
+
+coordenar as atividades que exijam ações integradas dos órgãos e das unidades do Sistema de Controle Interno do Poder Executivo Municipal, com vistas à efetividade das competências que lhe são comuns;
+
+
+d)
+
+promover a supervisão técnica das atividades desempenhadas pelos órgãos e pelas unidades integrantes do SCI;
+
+
+e)
+
+consolidar os planos de trabalho das unidades executoras do SCI;
+
+
+f)
+
+promover a instituição e manutenção de sistema de informações para o exercício das atividades finalísticas do SCI;
+
+
+g)
+
+prestar informações à unidade central sobre o desempenho e a conduta funcional dos servidores públicos municipais;
+
+
+h)
+
+promover a verificação da consistência dos dados contidos no Relatório de Gestão Fiscal, conforme estabelecido na Lei Complementar Federal n.º 101, de 4 de maio de 2000;
+
+
+i)
+
+promover a elaboração da prestação de contas anual do Poder Executivo;
+
+
+j)
+
+exercer o controle das operações de crédito, avais, garantias, direitos e haveres do Município;
+
+
+k)
+
+avaliar o desempenho da auditoria interna das entidades da administração pública municipal;
+
+
+l)
+
+planejar, coordenar, controlar e avaliar as atividades de controle interno de suas unidades administrativas;
+
+
+m)
+
+verificar a observância dos limites e das condições para realização de operações de crédito e inscrição em Restos a Pagar;
+
+
+n)
+
+verificar e avaliar a adoção de medidas para o retorno da despesa total com pessoal ao limite legal estabelecido na Lei Complementar Federal n.º 101, de 4 de maio de 2000;
+
+
+o)
+
+verificar a adoção de providências para recondução dos montantes das dívidas consolidada e mobiliária aos limites de que trata a Lei Complementar Federal n.º 101, de 4 de maio de 2000;
+
+
+p)
+
+verificar a destinação de recursos obtidos com a alienação de ativos, tendo em vista as restrições constitucionais e legais;
+
+
+q)
+
+avaliar o cumprimento das metas estabelecidas no Plano Plurianual e na Lei de Diretrizes Orçamentárias;
+
+
+r)
+
+avaliar a execução do Orçamento Geral do Município;
+
+
+s)
+
+fiscalizar e avaliar a execução dos programas de governo, inclusive ações descentralizadas realizadas à conta de recursos oriundos do Orçamento Geral do Município, quanto ao nível de execução das metas e dos objetivos estabelecidos e à qualidade do gerenciamento;
+
+
+t)
+
+fornecer informações sobre a situação físico-financeira dos projetos e das atividades constantes do Orçamento Geral do Município;
+
+
+u)
+
+promover medidas para criar condições para o exercício do controle social sobre os programas contemplados com recursos constantes do Orçamento Geral do Município;
+
+
+v)
+
+realizar auditorias e fiscalização nos sistemas contábil, financeiro, orçamentário, de pessoal e demais sistemas administrativos e operacionais;
+
+
+w)
+
+manter atualizado o cadastro de gestores públicos municipais;
+
+
+x)
+
+apurar os atos ou fatos inquinados de ilegais ou irregulares, praticados por agentes públicos ou privados, na utilização de recursos públicos municipais, dar ciência ao controle externo e, quando for o caso, comunicar à unidade responsável pela contabilidade, para as providências cabíveis.
+
+
+y)
+
+zelar pelo fiel cumprimento do Código de Conduta Ética dos Agentes Públicos do Poder Executivo de Cabeceira Grande de que trata o Decreto Municipal n.° 2.534, de 28 de março de 2019; e
+
+
+z)
+
+executar outras atribuições correlatas.
+
+
+II –
+
+na área de Corregedoria:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+a)
+
+planejar, organizar e coordenar as atividades operacionais do Sistema de Correição do Poder Executivo;
+
+
+b)
+
+dar andamento às representações e denúncias relacionadas à lesão ou ameaça de lesão ao patrimônio público, cuidando para a sua competente e integral conclusão;
+
+
+c)
+
+instaurar sindicâncias e processos administrativos sempre que necessários à apuração de fatos, denúncias ou representações recebidas, inclusive em face do descumprimento do Código de Ética ou de ilícitos disciplinares estatutários;
+
+
+d)
+
+requisitar informações ou avocar processos em andamento, em quaisquer outros órgãos integrantes da Administração Direta e Indireta do Poder Executivo, sempre que necessário ao exercício das suas funções;
+
+
+e)
+
+adotar as providências necessárias quando constatados indícios de improbidade administrativa;
+
+
+f)
+
+acompanhar correições, auditorias, averiguações, processos administrativos e sindicâncias em andamento nos órgãos integrantes da Administração Direta e Indireta do Poder Executivo, avaliando a regularidade, correção de falhas e adotando as medidas cabíveis em caso de omissão ou retardamento das autoridades responsáveis;
+
+
+g)
+
+planejar, coordenar e controlar as atividades de auditoria e controle de gestão nos órgãos da Administração Direta e Indireta do Poder Executivo, em fundos instituídos por Lei, com a participação do Município, nos instrumentos que geram e extinguem direitos e obrigações e nos beneficiários de transferências à conta do orçamento do Município;
+
+
+h)
+
+planejar, orientar e controlar as atividades de ouvidoria, zelando pelo registro, tratamento interno e retorno aos usuários, quanto às solicitações, críticas, denúncias, sugestões e pedidos de informações;
+
+
+i)
+
+zelar pelo fiel cumprimento do Código de Conduta Ética dos Agentes Públicos do Poder Executivo de Cabeceira Grande de que trata o Decreto Municipal n.° 2.534, de 28 de março de 2019;
+
+
+j)
+
+observar as regras da Atividade Correcional de que tratam o Decreto Federal n.° 5.480, de 30 de junho de 2005 e a Instrução Normativa n.° 14, de 14 de novembro de 2018, da Controladoria-Geral da União;
+
+
+k)
+
+executar outras atribuições correlatas.
+
+
+III –
+
+na área de Auditoria e Transparência:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+a)
+
+promover a confecção e execução do Plano Anual de Auditoria Interna – Paint, integrado por auditorias proativas e reativas em setores predefinidos da administração, e do Relatório Anual de Atividades de Auditoria Interna – Raint;
+
+
+b)
+
+avaliar e fiscalizar todos os contratos, convênios e outros instrumentos congêneres de receita e despesa celebrados pelos órgãos da Administração Pública Municipal;
+
+
+c)
+
+fiscalizar os processos licitatórios, sua dispensa ou inexigibilidade e sobre o cumprimento e/ou legalidade de atos, contratos e outros instrumentos congêneres;
+
+
+d)
+
+acompanhar e avaliar o cumprimento das condições e limites impostos pela Lei de Responsabilidade Fiscal, emitindo relatórios trimestrais;
+
+
+e)
+
+fiscalizar os valores concedidos a título de doações, subvenções, auxílios e contribuições;
+
+
+f)
+
+planejar, gerenciar, elaborar relatórios e acompanhar os resultados das atividades e auditorias relacionados ao SCI;
+
+
+g)
+
+fiscalizar e avaliar os controles internos nos órgãos da Administração;
+
+
+h)
+
+realizar auditoria preventiva interna e de controle nos processos administrativos dos diversos órgãos da administração municipal, bem como nos sistemas contábil, financeiro, orçamentário, patrimonial, de pessoal e nos demais sistemas administrativos e operacionais;
+
+
+i)
+
+exercer a orientação técnica objetivando acompanhar e regularizar o controle de Almoxarifado, Patrimônio e Combustível do município;
+
+
+j)
+
+orientar acerca do cumprimento das Leis e regulamentos aplicáveis;
+
+
+k)
+
+sugerir a adoção de medidas necessárias à prevenção de detecção de irregularidades na Administração Pública municipal;
+
+
+l)
+
+contribuir para a promoção da ética e o fortalecimento da integridade das instituições públicas;
+
+
+m)
+
+zelar pelo fiel cumprimento do Código de Conduta Ética dos Agentes Públicos do Poder Executivo de Cabeceira Grande de que trata o Decreto Municipal n.° 2.534, de 28 de março de 2019;
+
+
+n)
+
+observar o Referencial Técnica da Atividade de Auditoria Interna Governamental de que trata a Instrução Normativa n.º 3, de 9 de junho de 2017, da Controladoria-Geral da União; e
+
+
+o)
+
+executar outras atribuições correlatas.
+
+
+IV –
+
+na área de Ouvidoria:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+a)
+
+dar cumprimento ao relacionado à Ouvidoria na forma prevista na Lei Municipal n.° 562, de 4 de outubro de 2017, c/c o disposto na Lei Federal n.º 13.460, de 26 de junho de 2017 e no Decreto Federal n.º 9.094, de 17 de julho de 2017;
+
+
+b)
+
+promover a participação do usuário na administração pública, em cooperação com outras entidades de defesa do usuário;
+
+
+c)
+
+acompanhar a prestação dos serviços, visando a garantir a sua efetividade;
+
+
+d)
+
+propor aperfeiçoamentos na prestação dos serviços;
+
+
+e)
+
+auxiliar na prevenção e correção dos atos e procedimentos incompatíveis com os princípios estabelecidos nesta Lei;
+
+
+f)
+
+propor a adoção de medidas para a defesa dos direitos do usuário, em observância às determinações desta Lei;
+
+
+g)
+
+receber, analisar e encaminhar às autoridades competentes as manifestações, acompanhando o tratamento e a efetiva conclusão das manifestações de usuário perante órgão ou entidade a que se vincula;
+
+
+h)
+
+promover a adoção de mediação e conciliação entre o usuário e o órgão ou a entidade pública, sem prejuízo de outros órgãos competentes;
+
+
+i)
+
+zelar pelo fiel cumprimento do Código de Conduta Ética dos Agentes Públicos do Poder Executivo de Cabeceira Grande de que trata o Decreto Municipal n.° 2.534, de 28 de março de 2019; e
+
+
+j)
+
+executar outras atribuições correlatas.
+
+
+Parágrafo único
+
+Constituem atribuições comuns dos integrantes das unidades central e executora do SCI promover o reporte para a alta administração pública municipal e para o CMTPI por meio de comunicações periódicas do desempenho das respectivas atividades, contendo, dentre outras, as seguintes informações:
+
+
+I –
+
+o propósito, a autoridade e a responsabilidade das unidades do SCI;
+
+
+II –
+
+a comparação entre os trabalhos realizados e o planejamento aprovado;
+
+
+III –
+
+recomendações não atendidas que representem riscos aos processos de governança, de gerenciamento de riscos e de controles internos da unidade controlada ou auditada; e
+
+
+IV –
+
+a exposição a riscos significativos e deficiências existentes nos controles internos da unidade controlada ou auditada.
+
+
+#### CAPÍTULO V — DO CONSELHO MUNICIPAL DE TRANSPARÊNCIA PÚBLICA E INTEGRIDADE
+
+
+Art. 26.
+
+Fica instituído o Conselho Municipal de Transparência Pública e Integridade – CMTPI, como órgão consultivo integrante da estrutura básica da Controladoria Geral, unidade central do SCI, tendo por finalidade debater e sugerir medidas de aperfeiçoamento e fomento de políticas e estratégias, no âmbito da administração pública do Município de Cabeceira Grande, sobre:
+
+
+I –
+
+enfrentamento da corrupção e da impunidade;
+
+
+II –
+
+fomento da transparência e do acesso à informação pública;
+
+
+III –
+
+promoção de medidas de governo aberto;
+
+
+IV –
+
+integridade e ética nos setores público e privado;
+
+
+V –
+
+controle social para acompanhamento e fiscalização da aplicação dos recursos públicos; e
+
+
+VI –
+
+zelar pelo fiel cumprimento do Código de Conduta Ética dos Agentes Públicos do Poder Executivo de Cabeceira Grande de que trata o Decreto Municipal n.° 2.534, de 28 de março de 2019.
+
+
+Parágrafo único
+
+O CMTPI apresentará plano de trabalho com a identificação das políticas e das estratégias a serem priorizadas, para fins de cumprimento do disposto no caput deste artigo.
+
+
+Art. 27.
+
+Compete ao CMTPI:
+
+
+I –
+
+contribuir para a formulação de diretrizes para ações, no âmbito dos órgãos e das entidades da administração pública do Município de Cabeceira Grande, sobre:
+
+
+a)
+
+transparência, governo aberto e acesso à informação pública;
+
+
+b)
+
+integridade e responsabilidade corporativa;
+
+
+c)
+
+prevenção e enfrentamento da corrupção;
+
+
+d)
+
+estímulo ao controle social no acompanhamento da aplicação de recursos públicos; e
+
+
+e)
+
+orientação e comunicação quanto aos temas relacionados às suas atividades;
+
+
+II –
+
+apresentar, em relação às políticas e às estratégias priorizadas, medidas para aperfeiçoamento e integração de ações com vistas a potencializar a efetividade das políticas;
+
+
+III –
+
+sugerir medidas e procedimentos destinados a valorizar a articulação intragovernamental na execução, no monitoramento e na avaliação de ações conjuntas, troca de experiências, transferência de tecnologia e capacitação quanto às políticas e às estratégias a que se refere esta Lei; e
+
+
+IV –
+
+atuar como instância de articulação e mobilização da sociedade civil em relação às políticas e às estratégias a que se refere esta Lei.
+
+
+Art. 28.
+
+O CMTPI será composto de 5 (cinco) membros, a saber:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+I –
+
+do Poder Público:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+a)
+
+o Controlador, Ouvidor e Corregedor Geral;
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+b)
+
+o Secretário Municipal de Fazenda;
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+c)
+
+o Procurador Geral do Município;
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+d)
+
+1 (um) representante do Comitê de Ética Pública – CEP de que trata o Decreto Municipal n.° 2.534, de 28 de março de 2019 ou, na sua ausência, da Secretaria Municipal da Administração.
+
+
+II –
+
+da Sociedade Civil:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+a)
+
+um servidor efetivo, com formação em nível superior, indicado pelo Sindicato dos Servidores Municipais; e
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+b)
+
+um servidor efetivo, com formação em nível superior, indicado pelo Prefeito Municipal.
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 1º
+
+Os servidores efetivos, indicados nos termos das alíneas do inciso II deste artigo, terão mandato de 02 (dois) anos.
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 2º
+
+O CMTPI será presidido pelo Controlador, Ouvidor e Corregedor Geral.
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo a) - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo a) - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 5º
+
+A nomeação dos membros do CMTPI deverá ser feita por Decreto expedido pelo Chefe do Poder Executivo após as devidas indicações das representações, que deverão recair sobre cidadãos de reconhecida idoneidade moral, reputação ilibada e dotados de notórios conhecimentos de Administração Pública.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo a) - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 7º
+
+Os membros indicado para o CMTPI somente perderão o mandato por:
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+I –
+
+renúncia em caráter irrevogável e irretratável;
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo b) - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+III –
+
+nos termos do regimento interno.
+
+Alteração feita pelo Art. 36. - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 8º
+
+A atuação dos membros do CMTPI:
+
+
+I –
+
+não será remunerada;
+
+
+II –
+
+é considerada atividade de relevante interesse público e social; e
+
+
+III –
+
+assegura isenção da obrigatoriedade de testemunhar sobre informações recebidas ou prestadas em razão do exercício de suas atividades de conselheiro e sobre as pessoas que lhes confiarem ou deles receberem informações.
+
+
+§ 9º
+
+As decisões do CMTPI serão consubstanciadas em resoluções.
+
+
+§ 10
+
+As resoluções do CMTPI, bem como os temas tratados em plenário, reuniões de diretoria e comissões deverão ser registrados em ata.
+
+
+§ 11
+
+Sem prejuízo do disposto neste artigo, o suplente substituirá o titular do CMTPI nos casos de ausências, impedimentos e afastamentos temporários ou eventuais deste.
+
+
+§ 12
+
+(Revogado)
+
+Revogado pelo a) - LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022.
+
+
+§ 13
+
+O CMTPI reunir-se-á, ordinariamente, uma vez ao mês e, extraordinariamente, sempre que necessário, sendo que suas reuniões devem ser abertas ao público, com pauta e datas previamente divulgadas, na forma que dispuser o Regimento Interno.
+
+
+§ 14
+
+O Regimento Interno do CMTPI definirá, além de disposições usuais, o quórum mínimo para o caráter deliberativo das reuniões do Plenário, para as questões de suplência e perda de mandato por faltas.
+
+
+#### CAPÍTULO VI — DA EXTINÇÃO E TRANSFORMAÇÃO DE UNIDADES ADMINISTRATIVAS E CARGOS PÚBLICOS
+
+
+Art. 29.
+
+Fica extinta a Coordenadoria Especial de Licitações de Média Complexidade da Secretaria Municipal da Administração e o respectivo cargo de provimento comissionado de Coordenador Especial de Licitações de Média Complexidade constantes da Lei n.º 385, de 24 de janeiro de 2013.
+
+
+Art. 30.
+
+Fica transformada a Coordenadoria de Patrimônio Imobiliário e Programas de Regularização Fundiária da Secretaria Municipal da Administração em Coordenadoria de Regularização Fundiária e Licitações de Média Complexidade e o respectivo cargo de provimento comissionado de Coordenador de Patrimônio Imobiliário e Programas de Regularização Fundiária em Coordenador de Regularização Fundiária e Licitações de Média Complexidade, com o mesmo vencimento e atribuições, e com absorção das atribuições do cargo extinto pelo artigo 29 desta Lei, constantes da Lei n.º 385, de 2013.
+
+
+Art. 31.
+
+A extinção e transformação de unidades administrativas e cargos públicos de que tratam os artigos 29 e 30 desta Lei serão consubstanciadas em republicação da Lei n.º 385, de 2013.
+
+
+#### CAPÍTULO VII — DISPOSIÇÕES FINAIS
+
+
+Art. 32.
+
+Fica o Chefe do Poder Executivo autorizado a proceder no Orçamento Geral do Município e demais peças do ciclo orçamentário aos ajustamentos que se fizerem necessários em decorrência desta Lei, observados os elementos de despesa e as funções de governo.
+
+
+Art. 33.
+
+Para fins de atendimento ao disposto no inciso I do parágrafo 1º do artigo 169 da Constituição Federal, a execução desta Lei dependerá de prévia dotação orçamentária suficiente para atender às projeções de despesa de pessoal e aos acréscimos dela decorrentes a ser devidamente apurada e consignada.
+
+
+Art. 34.
+
+O provimento dos cargos comissionados criados por esta Lei dependerá da plena observância dos limites da despesa total com pessoal do ente federado de que trata a Lei Complementar Federal n.º 101, de 4 de maio de 2000.
+
+
+Art. 35.
+
+Fica o Poder Executivo autorizado a celebrar convênios, parcerias ou outros instrumentos com órgãos públicos federais e estaduais, notadamente com a Controladoria-Geral da União – CGU, Controladoria-Geral do Estado de Minas Gerais – CGE e outros órgãos afins, visando o cumprimento desta Lei.
+
+
+Art. 36.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Art. 37.
+
+Fica revogada a Lei n.º 117, de 23 de março de 2001.
+
+
+Cabeceira Grande, 14 de maio de 2020.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+DAILTON GERALDO RODRIGUES GONÇALVES
+
+Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.
+
+**"Este texto não substitui o original."**

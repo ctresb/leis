@@ -1,0 +1,407 @@
+---
+titulo: "Lei Ordinária Municipal nº 6.683, de 08 de janeiro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "6683"
+data: "2020-01-08"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/18475"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/527/text"
+sha256_fonte: "e00a75aabfda83f16d6c3a662689cd0e39acd5ad8baba3e1faff7e935f86b4dc"
+sha256_texto: "1de979a3ba3d51f8886e91eeecfc6d310ac84fd8f1bbf9b9a409f8532d0fa37c"
+capturado_em_fonte: "2026-10-21T03:36:27.317758-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 6.683, de 08 de janeiro de 2020
+
+Dispõe sobre o estágio de estudantes em órgãos do Poder Executivo.
+
+
+O Prefeito Municipal de Erechim, em exercício, Estado do Rio Grande do Sul, no uso de atribuições conferidas pelo Artigo 64, Inciso V da Lei Orgânica do Município:
+
+
+Faço saber que o Poder Legislativo aprovou, e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Mediante prévia e expressa autorização do Prefeito Municipal, e com limitação nos recursos disponíveis, poderão os órgãos da Administração Pública Municipal direta, autárquica e fundacional, que tenham condições de proporcionar experiência prática na linha de sua formação, aceitar, como estagiários, alunos que estejam frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos, com observância do disposto na Lei Federal n.° 11.788, de 25 de setembro de 2008.
+
+
+Art. 2º.
+
+Para a aceitação de estagiários, o Município, como parte concedente, poderá conveniar diretamente com as instituições de ensino públicas, celebrar parcerias com instituições de ensino privadas sem fins lucrativos ou contratar agentes de integração.
+
+
+Art. 3º.
+
+O estágio poderá ser obrigatório e não-obrigatório, conforme determinação das diretrizes curriculares da etapa, modalidade e área de ensino e do projeto pedagógico do curso.
+
+
+Art. 4º.
+
+A realização do estágio não acarretará vínculo empregatício de qualquer natureza, desde que respeitados os seguintes requisitos:
+
+
+I –
+
+matrícula e frequência regular do educando em qualquer dos cursos referidos no artigo primeiro desta Lei, atestados pela instituição de ensino;
+
+
+II –
+
+celebração de termo de compromisso entre o educando, o Município e a instituição de ensino, além do agente de integração, no caso de participação deste;
+
+
+III –
+
+compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso.
+
+
+Parágrafo único
+
+É obrigação do Município manter à disposição da fiscalização os documentos que comprovem a relação de estágio.
+
+
+Art. 5º.
+
+No termo de compromisso a que se refere o inciso II do Art. 4.° deverá constar, pelo menos:
+
+
+I –
+
+identificação das partes interessadas: instituição de ensino, Município, estudante e agente de integração, se houver;
+
+
+II –
+
+menção do convênio, do acordo de cooperação ou do contrato a que se vincula;
+
+
+III –
+
+objetivo do estágio, indicando as condições de adequação do mesmo à proposta pedagógica do curso, à etapa e modalidade da formação escolar do estudante e ao horário e calendário escolar;
+
+
+IV –
+
+local de realização do estágio;
+
+
+V –
+
+plano de atividades do estagiário, elaborado em compatibilidade com as atividades a serem desenvolvidas;
+
+
+VI –
+
+carga horária semanal, distribuída nos horários de funcionamento setor do Município onde será realizado o estágio, que deve ser compatível com o horário escolar, especificando o intervalo intrajomada que não será computado na jornada diária;
+
+
+VII –
+
+redução da carga horária pela metade, em períodos de realização de avaliações escolares ou acadêmicas, devendo tais períodos serem comunicados previamente à Administração, no início do período letivo e mediante comprovação documentada pela Instituição de Ensino;
+
+
+VIII –
+
+vigência do termo que deverá ser de 06 (seis) meses, podendo ser prorrogado por iguais períodos não podendo exceder 2 (dois) anos, exceto quando se tratar de estagiário portador de deficiência, que será regulamentado por Decreto Municipal;
+
+
+IX –
+
+menção de que o estágio não acarretará qualquer vínculo empregatício;
+
+
+X –
+
+valor da bolsa mensal;
+
+
+XI –
+
+concessão de vale-transporte ou auxilio-transporte, desde que o estagiário comprove e declare a necessidade de utilização de transporte público coletivo no itinerário residência local de estágio e vice-versa;
+
+
+XII –
+
+concessão do recesso, preferencialmente durante as férias escolares ou nos últimos de 15 (quinze) dias de vigência do termo;
+
+
+XIII –
+
+número da apólice de seguro contratada em favor do estagiário, com a indicação do nome da seguradora
+
+
+XIV –
+
+extensão de outras vantagens ou benefícios aos estagiários;
+
+
+XV –
+
+indicação, pela instituição de ensino, de um professor-orientador, da área em que será desenvolvido o estágio, como responsável pelo acompanhamento e pela avaliação das atividades do estagiário;
+
+
+XVI –
+
+indicação de um servidor, pelo Município, preferencialmente, com formação ou experiência profissional na área do curso do estágio, para orientar e supervisionar o estagiário;
+
+
+XVII –
+
+obrigação do estagiário de apresentar relatórios de atividades à instituição de ensino, no máximo a cada 6 (seis) meses, sobre o desenvolvimento das tarefas que lhe forem acometidas;
+
+
+XVIII –
+
+obrigação do Município de entregar ao estagiário, por ocasião do seu desligamento, termo de realização do estágio, com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho;
+
+
+XIX –
+
+assinaturas das partes participantes da relação de estágio, mencionadas no inciso I deste artigo;
+
+
+§ 1º
+
+supervisor designado pela parte concedente poderá, no máximo, supervisionar simultaneamente 10 (dez) estagiários e será de sua responsabilidade:
+
+
+a)
+
+apor vistos nos relatórios do estagiário a que se refere o inciso XVII;
+
+
+b)
+
+enviar relatórios de atividades à instituição de ensino, com periodicidade mínima de 6 (seis) meses, com vista obrigatória do estagiário;
+
+
+§ 2º
+
+Ao professor-orientador designado pela instituição de ensino, compete também apor vistos nos relatórios do estagiário.
+
+
+Art. 6º.
+
+Somente poderão ser aceitos estudantes de cursos cujas áreas estejam relacionadas diretamente com as atividades, programas, planos e projetos desenvolvidos nos locais em que realizar o estágio.
+
+
+Art. 7º.
+
+É obrigação da instituição de ensino avaliar as instalações ofertadas pelo Município para a realização do estágio, bem como sua adequação à formação cultural e profissional do educando.
+
+
+Art. 8º.
+
+A jornada de atividade em estágio será definida em comum acordo entre a instituição de ensino, o Município e o aluno estagiário ou seu representante legal, devendo constar do termo de compromisso, ser compatível com as atividades escolares e não ultrapassar:
+
+
+I –
+
+4 (quatro) horas diárias e 20 (vinte) semanais, no caso de estudantes de educação especial e dos anos finais de ensino fundamental, na modalidade profissional de educação de jovens e adultos;
+
+
+II –
+
+6 (seis) horas diárias e 30 (trinta) semanais, no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular;
+
+
+III –
+
+até 8 (oito) horas diárias e 40 (quarenta) semanais, quando se tratar de estudantes de cursos que alternem teoria e prática, nos períodos em que não estão programadas aulas presenciais, desde que isto esteja previsto no projeto pedagógico do curso e da instituição de ensino.
+
+
+§ 1º
+
+Será considerado, para efeito de cálculo das horas de estágio para pagamento da bolsa, o controle da carga horária do estagiário, mediante a entrega do cartão ponto / efetividade;
+
+
+§ 2º
+
+A jornada de atividades em estágio, a ser cumprida pelo estudante, deverá ser compatível com o seu horário escolar e com o horário da parte em que venha a ocorrer o estágio.
+
+
+Art. 9º.
+
+Nos casos de estágio não obrigatório, será concedido aos estagiários dos órgãos da Administração Pública Municipal, mencionados no Art. 1°, caput, desta Lei, os seguintes benefícios:
+
+
+I –
+
+bolsa-auxílio, valores descriminados abaixo conforme a carga horária mensal de estágio efetivamente realizado;
+
+
+a)
+
+para carga horária semanal de 16 (dezesseis) horas, o valor da bolsa-auxílio será de R$ 439,89 (quatrocentos e trinta e nove reais e oitenta e nove centavos);
+
+
+b)
+
+para carga horária semanal de 20 (vinte) horas, o valor da bolsa-auxílio será de R$ 549,88 (quinhentos e quarenta e nove reais e oitenta e oito centavos);
+
+
+c)
+
+para carga horária semanal de 30 (trinta) horas, o valor da bolsa-auxílio será de R$ 824,84 (oitocentos e vinte e quatro reais e oitenta e quatro centavos);
+
+
+II –
+
+Os valores previstos nas alíneas "a", "b" e "c" do inciso I, deste artigo serão reajustados na mesma data e na mesma proporção em que se der o reajuste geral anual dos servidores públicos municipais;
+
+
+III –
+
+Auxílio-transporte nos mesmos valores e moldes concedidos aos servidores públicos municipais, com concessão no mês subsequente, depois de apresentada a efetividade do mês anterior;
+
+
+IV –
+
+Recesso remunerado de 15 (quinze) dias sempre que o estágio tenha duração igual a 6 (seis) meses e que haja pagamento de bolsa-auxílio;
+
+
+V –
+
+A concessão da bolsa-auxílio e do Auxílio-transporte será obrigatório quando se tratar de estágio não-obrigatório e facultativo quando se tratar de estágio obrigatório;
+
+
+VI –
+
+Serão deduzidos do valor da bolsa-auxílio os dias de falta e descanso semanal e a parcela de remuneração diária, proporcional aos atrasos e saídas antecipadas, exceto quando em decorrência de atividade de aprendizagem como viagem de estudos, fóruns, seminários, anteriormente autorizada pelo competente Secretário Municipal, e da redução a que tem direito o estagiário, nos dias de verificações de aprendizagem periódicas ou finais, nos períodos de avaliação, de acordo com o art. 10, 2° da Lei Federal n° 11.788/2008;
+
+
+VII –
+
+Os dias de recesso serão concedidos de maneira proporcional, nos casos de o estágio ter duração inferior a 6 (seis) meses;
+
+
+VIII –
+
+Excepcionalmente, nos casos em que restar impossibilitado o gozo do período de recesso, e que seja do interesse do estagiário, o mesmo poderá optar por não gozar e não receber os dias de recesso comunicando em documento específico.
+
+
+Art. 10.
+
+Aplica-se ao estagiário a legislação relacionada à saúde e segurança no trabalho, sendo sua implementação de responsabilidade do Município, nos termos da legislação federal.
+
+
+Art. 11.
+
+O seguro contra acidentes pessoais será contratado, em favor do estagiário:
+
+
+I –
+
+pelo Município, através de apólice compatível com valores de mercado, quando o compromisso de estágio for celebrado diretamente com a instituição de ensino;
+
+
+II –
+
+pelo agente de integração, quando a relação de estágio for intermediada por esse auxiliar;
+
+
+III –
+
+pela instituição de ensino, quando se tratar de estágio, na modalidade obrigatória.
+
+
+Art. 12.
+
+O número máximo de estagiários em relação ao quadro de pessoal do Município deverá atender às seguintes proporções: acima de 25 (vinte e cinco) servidores: até 20% (vinte por cento) de estagiários.
+
+
+§ 1º
+
+Para efeito desta Lei, considera-se quadro de pessoal o conjunto total de servidores existentes no Poder Executivo Municipal.
+
+
+§ 2º
+
+Quando o cálculo do percentual disposto neste artigo resultar em fração, poderá ser arredondado para o número inteiro imediatamente superior.
+
+
+§ 3º
+
+Não se aplica o disposto no caput deste artigo aos estágios de nível superior e de nível médio profissional.
+
+
+§ 4º
+
+Fica assegurado às pessoas portadoras de deficiência o percentual de 10% (dez por cento) das vagas oferecidas pelo Município, conforme regulamentação em Decreto Municipal.
+
+
+Art. 13.
+
+Ocorrerá o término do estágio:
+
+
+I –
+
+automaticamente, ao término de seu prazo;
+
+
+II –
+
+a qualquer tempo, de acordo com a conveniência e interesse do Município;
+
+
+III –
+
+a pedido do estagiário;
+
+
+IV –
+
+pela interrupção ou término do curso realizado na instituição de ensino a que pertença o estagiário;
+
+
+V –
+
+pelo Agente de Integração quando ocorrer irregularidade na documentação.
+
+
+Art. 14.
+
+A aceitação de estagiários só poderá ser efetuada se houver prévia e suficiente dotação orçamentária constante do orçamento do Município.
+
+
+Art. 15.
+
+As despesas decorrentes da aplicação desta Lei correrão à conta dotações orçamentárias previstas nas dotações orçamentárias de cada secretaria.
+
+
+Art. 16.
+
+Revogam-se as disposições em contrário, especialmente as Leis n.ºs 4.381, de 04 de Novembro de 2008 e 5.737, de 26 de Novembro de 2014.
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Erechim/RS, 08 de janeiro de 2020.  
+  
+  
+MARCOS ANTÔNIO LANDO  
+Prefeito Municipal em Exercício
+
+
+Registre-se e Publique-se  
+Data supra  
+  
+  
+  
+VALDIR FARINA  
+Secretário Municipal de Administração
+

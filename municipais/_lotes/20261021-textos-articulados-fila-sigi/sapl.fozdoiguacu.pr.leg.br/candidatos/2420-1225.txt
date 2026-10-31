@@ -1,0 +1,43 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Especial, no valor de R$ 5.837.227,00 (cinco milhões, oitocentos e trinta e sete mil, duzentos e vinte sete reais), ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Especial ao Orçamento Geral do Município, no valor de R$ 5.837.227,00 (cinco milhões, oitocentos e trinta e sete mil, duzentos e vinte sete reais), para reforço de dotações, na forma especificada no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º., na forma do art. 43, § 1º, inciso II e § 3º da Lei Federal nº 4.320, de 17 de março de 1964, os provenientes de excesso de arrecadação por tendência, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 11 de abril de 2025.  
+  
+Joaquim Silva e Luna  
+Prefeito Municipal  
+  
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos  
+  
+Eduardo Castanheira Garrido Alves  
+Secretário Municipal de Finanças e Orçamento
+
+
+## Anexo I — CRÉDITO ADICIONAL ESPECIAL
+
+
+<table><tbody><tr><td>Órgão</td><td>16</td><td>SECRETARIA MUNICIPAL DE PLANEJAMENTO E URBANISMO</td><td>Valor</td></tr><tr><td>Unidade</td><td>01</td><td>GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>Funcional Programática</td><td>04.127.0160.2150</td><td>Manutenção do Gabinete do Secretário</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.39</td><td>Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.2015</td><td>PMFI/Caixa Econômica Federal - Termo de Compromisso 968753/2024/MCIDADES/CAIXA - Elaboração de Estudos e Projetos para Contenção de Enchentes e Alagamentos</td><td>3.995.987,00</td></tr><tr><td>Fonte de Recursos</td><td>1.2017</td><td>PMFI/Caixa Econômica Federal - Termo de Compromisso 968754/2024/MCIDADES/CAIXA - Elaboração de Estudos e Projetos para Contenção de Enchentes e Alagamentos</td><td>1.841.240,00</td></tr><tr><td colspan="4">Justificativa: Abertura do recurso orçamentário referente aos Termos de Compromisso nos 968753/2024 e 968754/2024, celebrado entre Ministério das Cidades/Caixa Econômica Federal e o Município de Foz do Iguaçu, com a finalidade de elaboração de estudos e projetos para contenção de enchentes e alagamentos nos bairros Jardim Canadá e Jardim Liberdade.</td></tr><tr><td colspan="3">TOTAL DO CRÉDITO ADICIONAL ESPECIAL</td><td>5.837.227,00</td></tr></tbody></table>
+
+
+## Anexo II — MEMÓRIA DE CÁLCULO DE TENDÊNCIA DE EXCESSO DE ARRECADAÇÃO RECEITA
+
+
+<table><tbody><tr><td>DEMONSTRATIVO DA RECEITA ARRECADADA</td><td> </td></tr><tr><td>Código de Classificação da Receita</td><td>2.4.5.1.01.0.1.12.00.00.00.00 - PMFI/Caixa Econômica Federal - Termo de Compromisso 968753/2024/MCIDADES/CAIXA - Elaboração de Estudos e Projetos para Contenção de Enchentes e Alagamentos</td></tr><tr><td>(1) Total Orçado em 2025</td><td>0,00</td></tr><tr><td>(2) Arrecadação Estimada com base no Termo de Compromisso 968753/2024/MCIDADES/CAIXA</td><td>3.995.987,00</td></tr><tr><td>(3) Valor da Suplementação Fonte 1.2015</td><td>3.995.987,00</td></tr><tr><td>(4) Saldo utilizado até 18/03/2025</td><td>0,00</td></tr><tr><td>(5) Saldo para Suplementação [Item 2 - Item 1 - Item 3 - Item 4]</td><td>0,00</td></tr></tbody><tbody><tr><td> </td><td> </td></tr></tbody><tbody><tr><td>DEMONSTRATIVO DA RECEITA ARRECADADA</td><td> </td></tr><tr><td>Código de Classificação da Receita</td><td>2.4.5.1.01.0.1.13.00.00.00.00 - PMFI/Caixa Econômica Federal - Termo de Compromisso 968754/2024/MCIDADES/CAIXA - Elaboração de Estudos e Projetos para Contenção de Enchentes e Alagamentos</td></tr><tr><td>(1) Total Orçado em 2025</td><td>0,00</td></tr><tr><td>(2) Arrecadação Estimada com base no Termo de Compromisso 968754/2024/MCIDADES/CAIXA</td><td>1.841.240,00</td></tr><tr><td>(3) Valor da Suplementação Fonte 1.2017</td><td>1.841.240,00</td></tr><tr><td>(4) Saldo utilizado até 18/03/2025</td><td>0,00</td></tr><tr><td>(5) Saldo para Suplementação [Item 2 - Item 1 - Item 3 - Item 4]</td><td>0,00</td></tr></tbody></table>

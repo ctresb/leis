@@ -1,0 +1,675 @@
+Dispõe sobre a padronização de procedimentos a serem adotados nos processos de licitações e contratações públicas no âmbito da Administração Pública Municipal direta, autárquica e fundacional do Poder Executivo do Município de Porto Velho.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no Art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Proc.00600-00017679/2024-83-e.
+
+**CONSIDERANDO** o disposto no inciso XXI, Art. 37 da Constituição da República Federativa do Brasil de 1988; na Lei Federal nº 4.320/1964 e alterações; no Art. 187 da Lei Federal nº 14.133/2021; na Lei Complementar nº 882/2022 e alterações; no Decreto nº 18.892/2023 e nas legislações correlatas.
+
+**DECRETA:**
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Este Decreto dispõe sobre a padronização de procedimentos a serem adotados nos processos de licitações e contratações públicas no âmbito da Administração Pública Municipal direta e, no que couber, nas autarquias e fundações do Poder Executivo do Município de Porto Velho.
+
+
+Art. 2º.
+
+Para os fins deste Decreto, consideram-se os conceitos dispostos na Lei Federal nº 14.133/2021 e em suas alterações:
+
+
+I –
+
+documento de Formalização de Demanda: instrumento que contém o detalhamento da necessidade do setor requisitante da solução a ser atendida pela contratação;
+
+
+II –
+
+Estudo Técnico Preliminar: documento constitutivo da primeira etapa do planejamento de uma contratação que caracteriza o interesse público envolvido e a sua melhor solução e dá base ao anteprojeto, ao termo de referência ou ao projeto básico a serem elaborados caso se conclua pela viabilidade da contratação;
+
+
+III –
+
+Mapa de Riscos: documento elaborado para análise dos principais riscos que permeiam o procedimento de contratação e das ações para controle, prevenção e mitigação dos impactos que possam comprometer o sucesso da licitação e a boa execução contratual;
+
+
+IV –
+
+Matriz de Riscos: cláusula contratual definidora de riscos e de responsabilidades entre as partes e caracterizadora do equilíbrio econômico-financeiro inicial do contrato, em termos de ônus financeiro decorrente de eventos supervenientes à contratação, sendo obrigatória quando a contratação se referir a obras e serviços de grande vulto ou forem adotados os regimes de contratação integrada e semi-integrada;
+
+
+V –
+
+Termo de Referência: documento elaborado a partir dos estudos técnicos preliminares e deve conter os elementos necessários e suficientes, com nível de precisão adequado, para caracterizar o objeto da licitação;
+
+
+VI –
+
+Termo de Referência Simplificado – Adesão a Ata de Registro de Preços: documento elaborado a partir dos estudos técnicos preliminares e deve conter os elementos necessários e suficientes, com nível de precisão adequado, para caracterizar o objeto da licitação para fins de adesão à ata de registro de preços;
+
+
+VII –
+
+Projeto Básico: documento composto de elementos necessários e suficientes, com nível de precisão adequado para definir e dimensionar a obra ou o serviço, ou o complexo de obras ou de serviços objeto da licitação, elaborado com base nas indicações dos estudos técnicos preliminares, que assegure a viabilidade técnica e o adequado tratamento do impacto ambiental do empreendimento, bem como possibilite a avaliação do custo da obra e a definição dos métodos e do prazo de execução;
+
+
+VIII –
+
+Controle de Execução Orçamentária: mecanismo de controle programático da unidade orçamentária, detalhando o programa, ação, elemento de despesa, fonte, valor do objeto de despesa em questão. Instrumento que subsidia a emissão do Pré-empenho conforme autorização do ordenador de despesa;
+
+
+IX –
+
+Pré-empenho: mecanismo de bloqueio de saldo orçamentário, emitido no sistema contábil, que subsidia a realização do processo licitatório, processo de compras e demais atos, até a emissão do empenho orçamentário;
+
+
+X –
+
+Nota de Empenho: documento emanado pela autoridade competente que cria para o Município obrigação de pagamento pendente ou não de implemento de condição, que poderá substituir o contrato nas hipóteses previstas;
+
+
+XI –
+
+Contrato: são ajustes de vontades realizados entre particulares (pessoas físicas ou pessoas jurídicas) e a administração pública, com cláusulas específicas exigidas pela Lei Federal nº 14.133/2021, com a finalidade de gerar obrigações recíprocas entre os contratantes;
+
+
+XII –
+
+Acréscimo Contratual: modificação do valor contratual em decorrência de acréscimo quantitativo de seu objeto, nos limites permitidos pela Lei Federal nº 14.133/2021, ou de alteração qualitativa, quando houver a necessidade de alteração do projeto ou especificações do objeto original para melhor adequação ao objetivo pretendido;
+
+
+XIII –
+
+Supressão Contratual: modificação do valor contratual em decorrência de diminuição quantitativa de seu objeto, nos limites permitidos pela Lei Federal nº 14.133/2021, ou de alteração qualitativa, quando houver a necessidade de alteração do projeto ou especificações do objeto original para melhor adequação ao objetivo pretendido;
+
+
+XIV –
+
+Reequilíbrio Contratual: trata-se de procedimento que visa restabelecer o equilíbrio econômico-financeiro inicial do contrato em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilize a execução do contrato nos termos inicialmente pactuados, respeitada, em qualquer caso, a repartição objetiva de risco estabelecida no contrato;
+
+
+XV –
+
+Reajuste Contratual: forma de manutenção do equilíbrio econômico financeiro de contrato consistente na aplicação do índice de correção monetária previsto em cláusula contratual, que deve retratar a variação efetiva do custo de produção, admitida a adoção de índices específicos ou setoriais;
+
+
+XVI –
+
+Repactuação Contratual: forma de manutenção do equilíbrio econômico financeiro de contrato utilizada para serviços contínuos com regime de dedicação exclusiva de mão de obra ou predominância de mão de obra, por meio da análise da variação dos custos contratuais, devendo estar prevista no edital, com data vinculada à apresentação das propostas, para os custos decorrentes do mercado, e com data vinculada ao acordo, à convenção coletiva ou ao dissídio coletivo ao qual o orçamento esteja vinculado, para os custos decorrentes da mão de obra;
+
+
+XVII –
+
+Termo Aditivo: instrumento que formaliza a alteração das condições contratuais inicialmente estabelecidas, observadas as cláusulas e critérios legais, tais como prorrogações, reajustes, acréscimos, supressões, entre outras;
+
+
+XVIII –
+
+Termo de Apostilamento: instrumento que tem por objetivo registrar e/ou anotar novas condições que não alterem a essência da avença ou que não modifiquem as bases contratuais, isto é, trata-se de instrumento voltado a modificar matérias distintas das veiculadas no Termo Aditivo;
+
+
+XIX –
+
+Termo de Dispensa de Licitação: ato da autoridade competente que autoriza a dispensa de licitação;
+
+
+XX –
+
+Termo de Inexigibilidade de Licitação: ato da autoridade competente que autoriza a inexigibilidade de licitação;
+
+
+XXI –
+
+Termo de Adesão a Ata de Registro de Preços: ato da autoridade competente que autoriza a adesão à ata de registro de preços;
+
+
+XXII –
+
+Termo de Conformidade da Fase Preparatória da Contratação de Bens e Serviços Comuns: documento que tem por finalidade verificar a conformidade dos procedimentos da fase preparatória da licitação, antes da remessa ao órgão de assessoramento jurídico;
+
+
+XXIII –
+
+Formulário de Conferência de Procedimento: documento que tem por finalidade estabelecer critérios objetivos para a verificação da conformidade dos procedimentos dos atos de despesa com as normas vigentes;
+
+
+XXIV –
+
+Modelo Padrão: documento preliminar que contém os termos e condições legais essenciais da respectiva peça com formato predefinido, que tem por finalidade ser guia para elaboração da versão definitiva;
+
+
+XXV –
+
+Sistema de Controle Interno: conjunto de procedimentos de controle estruturados por sistemas administrativos especificados em regulamentos próprios, executados em todas as unidades da estrutura organizacional, conforme dispõe a Lei Complementar nº 767, de 14 de junho de 2019;
+
+
+XXVI –
+
+Contrato de Escopo: aqueles que impõem ao contratado o dever de realizar a prestação de um serviço específico em período predeterminado, podendo ser prorrogado, desde que justificadamente, pelo prazo necessário à conclusão do objeto;
+
+
+XXVII –
+
+Contrato de Serviço ou Fornecimento Continuado: serviços contratados e compras realizadas pela Administração Pública para a manutenção da atividade administrativa, decorrentes de necessidades permanentes ou prolongadas.
+
+
+#### CAPÍTULO II — DOS PROCEDIMENTOS PARA TRAMITAÇÃO DOS PROCESSOS
+
+
+Art. 3º.
+
+Os processos administrativos de licitações e contratações que objetivam a aquisição de bens e/ou a contratação de serviços e obras de engenharia, inclusive adesões de atas, dispensas e inexigibilidade de licitação, instruídos pelas Secretarias Municipais, Controladoria Geral do Município - CGM, Procuradoria Geral do Município - PGM e Fundação Cultural do Município - FUNCULTURAL, deverão, obrigatoriamente, ser instruídos em estrita observância aos procedimentos e modelos padrões definidos neste Decreto.
+
+
+Art. 4º.
+
+O processo de contratação será iniciado pela unidade administrativa demandante e deverá estar em conformidade com os Formulários de Conferência de Procedimentos, sendo instruído com as seguintes peças: Documento de Formalização de Demanda, Estudo Técnico Preliminar, Mapa de Risco e Minuta de Termo de Referência/Projeto Básico, dentre outros, em conformidade com os respectivos modelos padrões, salvo exceções legais e demais casos previstos neste Decreto.
+
+
+§ 1º
+
+A elaboração do Estudo Técnico Preliminar será facultada nas hipóteses dos incisos I, II, VII e VIII do Art. 75 deste Decreto e do § 7º do Art. 90 da Lei Federal nº 14.133 de 2021; e será dispensada na hipótese do inciso III do Art. 75 da Lei Federal nº 14.133 de 2021, e nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
+
+
+§ 2º
+
+O Mapa de Risco poderá ser dispensado, mediante justificativa, na hipótese do inciso II do Art. 75 da Lei Federal nº 14.133 de 2021, envolvendo contratação de objetos de baixo valor ou baixa complexidade.
+
+
+§ 3º
+
+Nas hipóteses de adesão a ata de registro de preços, deverá ser adotado o Termo de referência simplificado específico para a adesão a ata de registro de preços, conforme modelo-padrão.
+
+
+Art. 5º.
+
+Cumprida a instrução processual do artigo anterior, a unidade administrativa demandante encaminhará os autos à Superintendência Municipal de Gestão de Gastos Públicos - SGP para análise e parecer opinativo quanto à contratação da despesa sob os aspectos qualitativos, quantitativos e a relação custo-benefício, quando aplicável.
+
+
+§ 1º
+
+Serão igualmente objeto de análise e parecer da SGP os processos administrativos relacionados a prorrogações de contratos de serviços de natureza continuada e locação de imóveis.
+
+
+§ 2º
+
+O prazo para manifestação da SGP será de até 15 (quinze) dias úteis a contar do registro de entrada do processo administrativo no Sistema Informatizado de Protocolo, salvo disposição em contrário estabelecida em regulamento próprio.
+
+
+§ 3º
+
+O prazo para as unidades administrativas demandantes providenciarem eventuais saneamentos dos autos será de até 15 (quinze) dias úteis a contar do registro de entrada do processo administrativo no Sistema Informatizado de Protocolo.
+
+
+Art. 6º.
+
+Após manifestação da SGP, os autos serão encaminhados à Superintendência Municipal de Licitações – SML para análise da minuta do Termo de Referência/Projeto Básico, bem como os demais procedimentos necessários à instrução da fase preparatória do processo de contratação, tais como: realização de cotações de preços, elaboração de Termo de Referência Definitivo, elaboração da minuta de edital e contrato, indicação da modalidade licitatória, designação dos agentes de contratação e demais atos de sua competência atinentes a fase externa da licitação.
+
+
+Parágrafo único
+
+O prazo para realização dos procedimentos de competência da SML dispostos no caput deste artigo serão estabelecidos em regulamento próprio, observadas as especificidades do objeto e os prazos determinados pela Lei Federal nº 14.133/2021 e outras normas correlatas.
+
+
+Art. 7º.
+
+Ao final da fase preparatória, o processo licitatório seguirá para a Procuradoria Geral do Município - PGM, órgão de assessoramento jurídico da Administração Pública Municipal, que realizará o controle prévio de legalidade mediante análise jurídica da contratação, observado o disposto no Art. 53 da Lei Federal nº 14.133/2021.
+
+
+§ 1º
+
+Será dispensada análise jurídica nas hipóteses previamente definidas em orientação normativa emitida pela autoridade jurídica máxima da PGM, que deverá considerar o baixo valor, a baixa complexidade da contratação, a entrega imediata do bem ou a utilização de minutas de editais e instrumentos de contrato, convênio ou outros ajustes previamente padronizados pelo órgão de assessoramento jurídico.
+
+
+§ 2º
+
+Fica dispensada a análise jurídica da PGM nas hipóteses de prorrogação automática dos prazos de execução e vigência previstos nos Arts. 111 e 115, § 5º, da Lei Federal nº 14.133/2021.
+
+
+§ 3º
+
+O prazo para análise jurídica da PGM será de até 15 (quinze) dias úteis a contar da entrada do processo administrativo registrado no Sistema Informatizado de Protocolo, salvo disposição em contrário estabelecida em regulamento próprio.
+
+
+Art. 8º.
+
+Após análise jurídica favorável acerca da fase preparatória da licitação, os autos serão encaminhados a SML para deflagração da fase externa da licitação.
+
+
+Parágrafo único
+
+Finalizadas as etapas da fase externa, deverá ser juntado aos autos a lista de verificação da fase externa da licitação, conforme modelo padrão e submetido à autoridade competente para deliberação quanto à homologação do resultado da licitação.
+
+
+Art. 9º.
+
+A unidade administrativa demandante adotará Termo de Apostilamento, que será assinado pelo ordenador de despesas e anexado aos autos, dispensado o envio à PGM, nas situações previstas no § 5º do Art. 115 e Art. 136 da Lei Federal nº 14.133/2021, sendo:
+
+
+I –
+
+prorrogação do prazo de execução do contrato no caso de impedimento, ordem de paralisação ou suspensão;
+
+
+II –
+
+variação do valor contratual para fazer face ao reajuste ou à repactuação de preços previstos no próprio contrato;
+
+
+III –
+
+atualizações, compensações ou penalizações financeiras decorrentes das condições de pagamento previstas no contrato;
+
+
+IV –
+
+alterações na razão ou na denominação social do contratado;
+
+
+V –
+
+empenho de dotações orçamentárias suplementares até o limite do valor corrigido.
+
+
+Art. 10.
+
+No caso de prorrogação de contratos de serviços e fornecimento continuado e locação de imóveis, após a análise e parecer da SGP, o processo será encaminhado à Procuradoria Geral do Município - PGM para análise jurídica e elaboração de aditivo contratual.
+
+
+#### CAPÍTULO III — DOS FORMULÁRIOS E MODELOS PARA PADRONIZAÇÃO DE PROCEDIMENTOS
+
+
+Art. 11.
+
+Objetivando a padronização na instrução dos processos administrativos de contratação prevista no Art. 3º deste Decreto, ficam instituídos os Formulários de Conferência de Procedimentos e Modelos Padrões disponibilizados no Portal de Transparência, na aba de Licitações/Compras.
+
+
+§ 1º
+
+Os critérios estabelecidos nos Formulários de Conferência de Procedimentos e Modelos Padrões variam conforme o objeto, modalidade e etapa da contratação a ser realizada.
+
+
+§ 2º
+
+Os procedimentos e modelos descritos no caput poderão ser atualizados quando ocorrer alteração na legislação ou a critério da administração, visando o aperfeiçoamento do controle dos atos de gestão, conforme disponibilização no Portal da Transparência.
+
+
+§ 3º
+
+A não utilização dos Formulários e Modelos Padrões, sem a devida apresentação de justificativa, ensejará a imediata devolução dos autos à unidade administrativa demandante.
+
+
+§ 4º
+
+A disponibilização no Portal da Transparência ocorrerá após a devida republicação do formulário aprovado por meio deste Decreto.
+
+
+Art. 12.
+
+Os formulários a serem disponibilizados na aba Transparência/Licitações/Compras/Modelos de Licitações e Contratos do Portal da Transparência são os seguintes:
+
+
+I –
+
+Formulário de Conferência de Procedimentos para Licitação de Compras e Serviços (exceto para Sistema de Registro de Preços);
+
+
+II –
+
+Formulário de Conferência de Procedimentos para Licitação de Obras e Serviços de Engenharia (exceto para Sistema de Registro de Preços);
+
+
+III –
+
+Formulário de Conferência de Procedimentos para Implantação de Sistema de Registro de Preços – SRP ou Sistema de Registro de Preços Permanente - SRPP;
+
+
+IV –
+
+Formulário de Conferência de Procedimentos para Gerenciamento de Ata de Registro de Preços;
+
+
+V –
+
+Formulário de Conferência de Procedimentos para Adesão em Ata de Registro de Preços (Carona);
+
+
+VI –
+
+Formulário de Conferência de Procedimentos para Atualização de Sistema de Registro de Preços Permanente - SRPP;
+
+
+VII –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação - Compras e Serviços em Razão do Valor (inciso II, Art. 75 da Lei Federal nº 14.133/2021 - exceto obras e serviços de engenharia ou de serviços de manutenção de veículos automotores);
+
+
+VIII –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação - Obras e Serviços de Engenharia ou de Serviços de Manutenção de Veículos Automotores em Razão do Valor (inciso I, Art. 75 da Lei Federal nº 14.133/2021);
+
+
+IX –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação com fundamento na alínea “a”, inciso III, Art. 75 da Lei Federal nº 14.133/2021;
+
+
+X –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação com fundamento na alínea “b”, inciso III, Art. 75 Lei Federal nº 14.133/2021);
+
+
+XI –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação Emergência e Calamidade Pública (inciso VIII, Art. 75 Lei Federal nº 14.133/2021);
+
+
+XII –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação – Contratação de Instituição Brasileira Sem Fins Lucrativos (inciso XV, Art. 75 Lei Federal nº 14.133/2021);
+
+
+XIII –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação – Contratação de Entidade Privada Sem Fins Lucrativos (incisos XVII e XVIII, Art. 75 Lei Federal nº 14.133/2021);
+
+
+XIV –
+
+Formulário de Conferência de Procedimentos para Dispensa de Licitação nos casos do § 3º e § 6º do Art. 76 e demais casos do Art. 75 da Lei Federal nº 14.133/2021 (exceto os incisos I, II, III, VIII, XV, XVII e XVIII);
+
+
+XV –
+
+Formulário de Conferência de Procedimentos para Inexigibilidade de Licitação - Empresário Exclusivo ou Representante Comercial Exclusivo (incisos I e II, Art. 74 da Lei Federal nº 14.133/2021;
+
+
+XVI –
+
+Formulário de Conferência de Procedimentos para Inexigibilidade de Licitação - Serviços Técnicos Especializados (inciso III, Art. 74 Lei Federal nº 14.133/2021);Formulário de Conferência de Procedimentos para Inexigibilidade de Licitação – Objetos que devam ou possam ser contratados por meio de Credenciamento (inciso IV, Art. 74 Lei Federal nº 14.133/2021);
+
+
+XVII –
+
+Formulário de Conferência de Procedimentos para Inexigibilidade de Licitação – Aquisição ou Locação de Imóvel (inciso V, Art. 74 Lei Federal nº 14.133/2021);
+
+
+XVIII –
+
+Formulário de Conferência de Procedimentos para Licitação na Modalidade de Concorrência (inciso XXXVIII, Art. 6º da Lei Federal nº 14.133/2021);
+
+
+XIX –
+
+Formulário de Conferência de Procedimentos para Licitação na Modalidade de Pregão Eletrônico (inciso XLI, Art. 6º da Lei Federal nº 14.133/2021);
+
+
+XX –
+
+Formulário de Conferência de Procedimentos para Licitação na Modalidade de Concurso (inciso XXXIX, Art. 6º da Lei Federal nº 14.133/2021);
+
+
+XXI –
+
+Formulário de Conferência de Procedimentos para Licitação na Modalidade de Leilão (inciso XL, Art. 6º da Lei Federal nº 14.133/2021);
+
+
+XXII –
+
+Formulário de Conferência de Procedimentos para Licitação na Modalidade de Diálogo Competitivo (inciso XLII, Art. 6º da Lei Federal nº 14.133/2021);
+
+
+XXIII –
+
+Formulário de Conferência de Procedimentos para Renovação de Contrato de Locação de Imóvel;
+
+
+XXIV –
+
+Formulário de Conferência de Procedimentos para Prorrogação de Contrato de Serviços Continuados (Art. 107 da Lei Federal nº 14.133/2021);
+
+
+XXV –
+
+Formulário de Conferência de Procedimentos para Repactuação Contratual (inciso LIX, Art. 6º da Lei Federal nº 14.133/2021);
+
+
+XXVI –
+
+Formulário de Conferência de Procedimentos para Reajuste Contratual (inciso LVIII, Art. 6º da Lei Federal nº 14.133/2021);
+
+
+XXVII –
+
+Formulário de Conferência de Procedimentos para Acréscimo e Diminuição Contratual (alínea “b”, inciso I, Art. 124 da Lei Federal nº 14.133/2021);
+
+
+XXVIII –
+
+Formulário de Conferência de Procedimentos para Pedido Alteração de Preço de Objeto Licitado (Art. 77 e 79 do Decreto nº 18.892/2023);
+
+
+XXIX –
+
+Formulário de Conferência de Procedimentos para Pedido Troca de Marca de Objeto Licitado (Art. 81 do Decreto nº 18.892/2023);
+
+
+XXX –
+
+Formulário de Conferência de Procedimentos para a Fase Executora da Despesa.
+
+
+Art. 13.
+
+Os modelos padrões a serem disponibilizados na aba Transparência/Licitações/Compras/Modelos de Licitações e Contratos do Portal da Transparência são os seguintes:
+
+
+I –
+
+Orientações Gerais para Elaboração de Relatórios de Conferência dos Processos de Despesa;
+
+
+II –
+
+Documento de Formalização da Demanda - DFD;
+
+
+III –
+
+Estudo Técnico Preliminar - ETP;
+
+
+IV –
+
+Mapa de Riscos;
+
+
+V –
+
+Termo de Referência - TR;
+
+
+VI –
+
+Termo de Referência – TR Simplificado – Adesão Ata de Registro de Preços;
+
+
+VII –
+
+Termo de Referência de Obras e Serviços de Engenharia - TRO;
+
+
+VIII –
+
+Requisição de Gerenciamento da Ata de Registro de Preços;
+
+
+IX –
+
+Pesquisa de Preços;
+
+
+X –
+
+Quadro Comparativo de Preços;
+
+
+XI –
+
+Controle de Execução Orçamentária;
+
+
+XII –
+
+Justificativa da Economicidade e Vantajosidade de Adesão a Ata de Registro de Preços;
+
+
+XIII –
+
+Termo de Dispensa de Licitação;
+
+
+XIV –
+
+Termo de Inexigibilidade de Licitação;
+
+
+XV –
+
+Termo de Adesão a Ata de Registro de Preços;
+
+
+XVI –
+
+Relatório Técnico de Imóvel;
+
+
+XVII –
+
+Vistoria para Entrada e Saída de Imóvel;
+
+
+XVIII –
+
+Termo de Apostilamento;
+
+
+XIX –
+
+Relatório de Fiscalização Mensal de Contrato;
+
+
+XX –
+
+Relatório de Fiscalização de Prestação de Serviços com Alocação de Obra;
+
+
+XXI –
+
+Termo de Recebimento Definitivo;
+
+
+XXII –
+
+Atesto das Notas Fiscais.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 14.
+
+Na fase prévia ao pagamento da despesa, os processos deverão conter, obrigatoriamente, conforme modelos estabelecidos neste Decreto:
+
+
+I –
+
+documento de recebimento definitivo que comprove o atendimento das exigências contratuais;
+
+
+II –
+
+Formulário de Conferência de Procedimentos da Fase de Execução da Despesa preenchido e assinado pelos gerentes das divisões responsáveis pela aquisição/contratação ou cargos equiparados;
+
+
+III –
+
+relatório de exame expedido pelas Unidades Executoras de Controle Interno das Unidades Requisitantes.
+
+
+Art. 15.
+
+Fica dispensada a análise jurídica da PGM nas hipóteses de prorrogação automática dos prazos de execução e vigência previstos nos Arts. 111 e 115, § 5º, da Lei Federal nº 14.133/2021.
+
+
+Art. 16.
+
+Os processos de prestação de contas de diárias e suprimento de fundos serão analisados pelas Unidades Executoras de Controle Interno ou setor equivalente, ou ainda, por comissão de servidores designada pelo Ordenador de Despesa, e certificados pelos diretores dos departamentos administrativos, em atenção ao § 2º, Art. 13, do Decreto nº 17.353/2021 e em alteração às disposições do § 10, Art. 21, do Decreto nº 14.707/2017, respectivamente.
+
+
+Art. 17.
+
+Durante as etapas de instrução processual, as unidades administrativas demandantes deverão realizar a devida divulgação no Portal de Transparência oficial do Município e no Portal Nacional de Contratações Públicas das seguintes informações acerca das contratações:
+
+
+I –
+
+edital de credenciamento;
+
+
+II –
+
+termos de dispensa e inexigibilidade de licitação;
+
+
+III –
+
+inteiro teor do contrato, carta contrato e termo aditivo;
+
+
+IV –
+
+nota fiscal eletrônica, quando for o caso;
+
+
+V –
+
+relação dos gestores e fiscais de cada contrato e eventuais alterações;
+
+
+VI –
+
+quantitativos e os preços unitários e totais de obras a contratar e executados;
+
+
+VII –
+
+convênio, termo, acordo, ajustes e termo de adesão;
+
+
+VIII –
+
+os documentos elaborados na fase preparatória que porventura não tenham integrado o edital e seus anexos.
+
+
+Parágrafo único
+
+Fica dispensada a divulgação no Portal Nacional de Contratações Públicas - PNCP os casos previstos nos incisos V e VI deste artigo.
+
+
+Art. 18.
+
+Este Decreto entra em vigor na data de publicação.
+
+
+Art. 19.
+
+Revogam-se o Decreto nº 15.403 de 22 de agosto de 2018.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito

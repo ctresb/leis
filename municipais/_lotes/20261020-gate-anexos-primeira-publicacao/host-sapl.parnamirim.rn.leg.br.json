@@ -1,0 +1,15 @@
+{
+  "host": "sapl.parnamirim.rn.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.parnamirim.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parnamirim.rn.leg.br/7c35671525afdbc51c64e24b0b6db56e1f8744e94235df8b0de8d9ed96fe62ff.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parnamirim.rn.leg.br/7c35671525afdbc51c64e24b0b6db56e1f8744e94235df8b0de8d9ed96fe62ff.meta.json"
+    }
+  ],
+  "total": 0
+}

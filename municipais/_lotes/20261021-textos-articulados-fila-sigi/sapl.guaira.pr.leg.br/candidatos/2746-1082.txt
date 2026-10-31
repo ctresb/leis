@@ -1,0 +1,39 @@
+Altera a Lei Orçamentária anual - LOA 2026 (Lei Municipal 2446 de 05/12/2025), ajusta as programações estabelecidas no PPA - Plano Plurianual – 2026 a 2029 (Lei Municipal 2444 de 05/12/2025) e LDO - Lei de Diretrizes Orçamentárias (Lei Municipal 2445 de 05/12/2025), para a criação de dotação por REDUÇÃO no valor de R$ 176.000,00 (cento e setenta e seis mil reais), e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir no Orçamento Geral do Município de Guaíra – LOA (Lei (2446 de 05/12/2025) para o exercício de 2026, Crédito Adicional Especial no valor de R$ 176.000,00 (cento e setenta e seis mil reais), utilizando como recurso, a redução de dotação existente no exercício de 2026, nos termos do art. 43, § 1º, inciso I, da Lei Federal nº 4320/64, conforme detalhamento abaixo:
+
+<table><tbody><tr><td><p><strong>Órgão:</strong></p></td><td colspan="3"><p><strong>10 - Secretaria Municipal de Assistência Social</strong></p></td></tr><tr><td><p><strong>Unidade:</strong></p></td><td colspan="3"><p><strong>001 - Fundo Municipal de Assistência Social</strong></p></td></tr><tr><td><p><strong>Programa:</strong></p></td><td colspan="3"><p><strong>019 - PROTEÇÃO SOCIAL BASICA</strong></p></td></tr><tr><td><p><strong>Função:</strong></p></td><td colspan="3"><p><strong>008 - Assistência Social</strong></p></td></tr><tr><td><p><strong>Subfunção:</strong></p></td><td colspan="3"><p><strong>244 - Assistência Comunitária</strong></p></td></tr><tr><td><p><strong>Atividade:</strong></p></td><td colspan="3"><p><strong>2116 - MANUTENÇÃO DAS ATIVIDADES DA PROTEÇÃO SOCIAL BÁSICA</strong></p></td></tr><tr><td><p><strong>Ref.</strong></p></td><td><p><strong>Modalidade de Aplicação</strong></p></td><td><p><strong>Vínculo</strong></p></td><td><p><strong>Valor R$</strong></p></td></tr><tr><td><p> </p></td><td><p>3390480000000000000 – Demais Auxílios Financeiros a Pessoas Físicas</p></td><td><p>505</p></td><td><p>100.000,00</p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p><strong>Órgão:</strong></p></td><td colspan="3"><p><strong>13 - Secretaria Municipal de Turismo, Esporte e Cultura</strong></p></td></tr><tr><td><p><strong>Unidade:</strong></p></td><td colspan="3"><p><strong>002 - Diretoria de Turismo</strong></p></td></tr><tr><td><p><strong>Programa:</strong></p></td><td colspan="3"><p><strong>011 - GUAÍRA EM OBRAS</strong></p></td></tr><tr><td><p><strong>Função:</strong></p></td><td colspan="3"><p><strong>023 - Comércio e Serviços</strong></p></td></tr><tr><td><p><strong>Subfunção:</strong></p></td><td colspan="3"><p><strong>695 - Turismo</strong></p></td></tr><tr><td><p><strong>Atividade:</strong></p></td><td colspan="3"><p><strong>1026 - INFRAESTRUTURA DE TURISMO</strong></p></td></tr><tr><td><p><strong>Ref.</strong></p></td><td><p><strong>Modalidade de Aplicação</strong></p></td><td><p><strong>Vínculo</strong></p></td><td><p><strong>Valor R$</strong></p></td></tr><tr><td><p>1993</p></td><td><p>449030000000000000 – Material de consumo</p></td><td><p>505</p></td><td><p>38.000,00</p></td></tr><tr><td><p>1995</p></td><td><p>449039000000000000 – Outros serviços de terceiros - PJ</p></td><td><p>505</p></td><td><p>38.000,00</p></td></tr><tr><td colspan="3"><p><strong>TOTAL</strong></p></td><td><p><strong>176.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Em decorrência da abertura do crédito adicional especial de que trata esta Lei, ficam reajustadas as programações estabelecidas no Plano Plurianual PPA 2026-2029 (Lei Municipal 2444 de 05/12/2025) e Lei de Diretrizes Orçamentárias LDO 2026 (Lei Municipal 2445 de 05/12/2025) conforme detalhamento acima e Anexo I que fará parte integrante desta lei.
+
+
+Art. 3º.
+
+Os recursos necessários para a abertura do Crédito Adicional Especial serão gerados pela redução da seguinte dotação da LOA vigente para o exercício de 2026 (Lei nº 2446 de 05/12/2025):
+
+<table><tbody><tr><td><p><strong>Órgão:</strong></p></td><td colspan="3"><p><strong>10 - Secretaria Municipal de Assistência Social</strong></p></td></tr><tr><td><p><strong>Unidade:</strong></p></td><td colspan="3"><p><strong>001 - Fundo Municipal de Assistência Social</strong></p></td></tr><tr><td><p><strong>Programa:</strong></p></td><td colspan="3"><p><strong>019 - PROTEÇÃO SOCIAL BASICA</strong></p></td></tr><tr><td><p><strong>Função:</strong></p></td><td colspan="3"><p><strong>008 - Assistência Social</strong></p></td></tr><tr><td><p><strong>Subfunção:</strong></p></td><td colspan="3"><p><strong>245 - Serviços Socioassistenciais</strong></p></td></tr><tr><td><p><strong>Atividade:</strong></p></td><td colspan="3"><p><strong>2117 - MANUTENÇÃO DAS ATIVIDADES DO CRAS</strong></p></td></tr><tr><td><p><strong>Ref.</strong></p></td><td><p><strong>Modalidade de Aplicação</strong></p></td><td><p><strong>Vínculo</strong></p></td><td><p><strong>Valor R$</strong></p></td></tr><tr><td><p>1313</p></td><td><p>3390300000000000000 – Material de consumo</p></td><td><p>505</p></td><td><p>100.000,00</p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p><strong>Órgão:</strong></p></td><td colspan="3"><p><strong>13 - Secretaria Municipal de Turismo, Esporte e Cultura</strong></p></td></tr><tr><td><p><strong>Unidade:</strong></p></td><td colspan="3"><p><strong>002 - Diretoria de Turismo</strong></p></td></tr><tr><td><p><strong>Programa:</strong></p></td><td colspan="3"><p><strong>011 - GUAÍRA EM OBRAS</strong></p></td></tr><tr><td><p><strong>Função:</strong></p></td><td colspan="3"><p><strong>023 - Comércio e Serviços</strong></p></td></tr><tr><td><p><strong>Subfunção:</strong></p></td><td colspan="3"><p><strong>695 - Turismo</strong></p></td></tr><tr><td><p><strong>Atividade:</strong></p></td><td colspan="3"><p><strong>1026 - INFRAESTRUTURA DE TURISMO</strong></p></td></tr><tr><td><p><strong>Ref.</strong></p></td><td><p><strong>Modalidade de Aplicação</strong></p></td><td><p><strong>Vínculo</strong></p></td><td><p><strong>Valor R$</strong></p></td></tr><tr><td><p>1739</p></td><td><p>449051000000000000 – Obras e instalações</p></td><td><p>505</p></td><td><p>76.000,00</p></td></tr><tr><td colspan="3"><p><strong>TOTAL</strong></p></td><td><p><strong>176.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 24 de julho de 2026.
+
+***GILEADE GABRIEL OSTI***
+
+Prefeito Municipal

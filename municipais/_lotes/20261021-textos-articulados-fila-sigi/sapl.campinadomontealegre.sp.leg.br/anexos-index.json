@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinadomontealegre.sp.leg.br/abec942b5e2da4ec0254c71f9c192b3200c61b75f52eea98491604d949e1e1de.json",
+      "url": "https://sapl.campinadomontealegre.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.campinadomontealegre.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:20:47.025647-03:00"
+    }
+  ]
+}

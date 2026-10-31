@@ -1,0 +1,46 @@
+{
+  "host": "sapl.ribasdoriopardo.ms.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/tomo_i_diagn_prognostico_vf.pdf da norma Lei Ordinária nº 1.126, de 22 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE SANEAMENTO BÁSICO DE RIBAS DO RIO PARDO/MS - DIAGNÓSTICO TÉCNICO-PARTICIPATIVO E PROGNÓSTICO",
+      "anexo_arquivo": "http://sapl.ribasdoriopardo.ms.leg.br/media/sapl/public/anexonormajuridica/2019/1/tomo_i_diagn_prognostico_vf.pdf",
+      "ano": 2019,
+      "norma": 348
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/tomo_ii_planejamento_vf.pdf da norma Lei Ordinária nº 1.126, de 22 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE SANEAMENTO BÁSICO DE RIBAS DO RIO PARDO/MS - PLANEJAMENTO ESTRATÉGICO",
+      "anexo_arquivo": "http://sapl.ribasdoriopardo.ms.leg.br/media/sapl/public/anexonormajuridica/2019/2/tomo_ii_planejamento_vf.pdf",
+      "ano": 2019,
+      "norma": 348
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/tomo_iii_sintese_executiva_vf.pdf da norma Lei Ordinária nº 1.126, de 22 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE SANEAMENTO BÁSICO DE RIBAS DO RIO PARDO/MS - SÍNTESE EXECUTIVA",
+      "anexo_arquivo": "http://sapl.ribasdoriopardo.ms.leg.br/media/sapl/public/anexonormajuridica/2019/3/tomo_iii_sintese_executiva_vf.pdf",
+      "ano": 2019,
+      "norma": 348
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.ribasdoriopardo.ms.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.ribasdoriopardo.ms.leg.br/b4b8276a07b5c13bc48c1b39a64ab4eb4b93fd84f5859beca43da508951cc003.json",
+      "sha256": "f5783555adf48059f3a320ce733b1a6b60a01450b734ef14611360dde18a8dc2",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.ribasdoriopardo.ms.leg.br/b4b8276a07b5c13bc48c1b39a64ab4eb4b93fd84f5859beca43da508951cc003.meta.json"
+    }
+  ],
+  "total": 3
+}

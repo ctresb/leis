@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguasformosas.mg.leg.br/729aa57a43d3dde248c73f483711ce3da57efd253c770d3b67ff98ec5a543e70.json",
+      "url": "https://sapl.aguasformosas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.aguasformosas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-21T05:00:14.237785-03:00"
+    }
+  ]
+}

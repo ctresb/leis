@@ -1,0 +1,65 @@
+{
+  "aplicado": true,
+  "plano": "municipais/_referencias/auditorias/tachados-7los-contexto-20261020/plano-revisado.json",
+  "plano_sha256": "642ce29bcd50b9d887da0388b27f651715717dd6608c02ff9f43cd9d569780dd",
+  "script_sha256": "1bfcac9de8ce8aa469f3087b0fccb6ec0be591953c47230bbf2183b8591f0a74",
+  "documentos": [
+    {
+      "documento": "municipais/MG/campina-verde/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "sha256_anterior": "e28a89bc016cf8f48ed50f411c8b8046f19ea3c527abf26009dc5ae2669feb38",
+      "sha256_novo": "1b662bcd4d2fec5bd242a4ce72b5e2ba21184be6dba7b934aea156ef1ecda660",
+      "backup": "municipais/_lotes/20261020-tachados-7los-corrigidos/backup/e28a89bc016cf8f48ed50f411c8b8046f19ea3c527abf26009dc5ae2669feb38.md",
+      "trechos": 4,
+      "corpo_anterior_recuperavel_exatamente": true
+    },
+    {
+      "documento": "municipais/MG/muriae/lei-organica/1990/lei-organica-1-1990-sapl-2.md",
+      "sha256_anterior": "68cf1176d01b09039ee6a52757922a3f8683a56d47e240b2a9ed70cf6576b55c",
+      "sha256_novo": "8310dca20ec07e62e4480a28377dc6ad1b5dc9bc796b787520107f1d5f279646",
+      "backup": "municipais/_lotes/20261020-tachados-7los-corrigidos/backup/68cf1176d01b09039ee6a52757922a3f8683a56d47e240b2a9ed70cf6576b55c.md",
+      "trechos": 16,
+      "corpo_anterior_recuperavel_exatamente": true
+    },
+    {
+      "documento": "municipais/MG/rio-pomba/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "sha256_anterior": "4f46829a6f3cd21c18faf4992d5b07bacc2a7258dab599ec4ff8ef66247eb685",
+      "sha256_novo": "ed6ccb4c9df233461210539cf637ec9d2f39864b112612d3f31c3f497dabed06",
+      "backup": "municipais/_lotes/20261020-tachados-7los-corrigidos/backup/4f46829a6f3cd21c18faf4992d5b07bacc2a7258dab599ec4ff8ef66247eb685.md",
+      "trechos": 15,
+      "corpo_anterior_recuperavel_exatamente": true
+    },
+    {
+      "documento": "municipais/MG/uruana-de-minas/lei-organica/1997/lei-organica-1-1997-sapl-628.md",
+      "sha256_anterior": "756dc8c6086a09294540fc4f9bed92e752cc4566ada360bff8e9e078494166aa",
+      "sha256_novo": "3700e014e4cccbcb6feb5e3d3a5f66ef6e917372d46f92b1723b4e1931287d83",
+      "backup": "municipais/_lotes/20261020-tachados-7los-corrigidos/backup/756dc8c6086a09294540fc4f9bed92e752cc4566ada360bff8e9e078494166aa.md",
+      "trechos": 3,
+      "corpo_anterior_recuperavel_exatamente": true
+    },
+    {
+      "documento": "municipais/PR/clevelandia/lei-organica/2023/lei-organica-1-2023-sapl-5.md",
+      "sha256_anterior": "91ac60c176472054434b424d56497c79165461f1ecae1263e77007286fa12274",
+      "sha256_novo": "3c6cb3610045cb2e17792f16f5aa9cde457fd0ea7a6d90f564f70d2959ef70e8",
+      "backup": "municipais/_lotes/20261020-tachados-7los-corrigidos/backup/91ac60c176472054434b424d56497c79165461f1ecae1263e77007286fa12274.md",
+      "trechos": 3,
+      "corpo_anterior_recuperavel_exatamente": true
+    },
+    {
+      "documento": "municipais/RO/sao-francisco-do-guapore/lei-organica/2008/lei-organica-1-2008-sapl-8.md",
+      "sha256_anterior": "599275f4710e272f7579c88f8bc750aa8d21a40b3e0bfc265eb7ffcd68a2ab51",
+      "sha256_novo": "4895f402b3b5754f4c18c3a37d65fbed7449282aeef6f57764493a93b4009e0a",
+      "backup": "municipais/_lotes/20261020-tachados-7los-corrigidos/backup/599275f4710e272f7579c88f8bc750aa8d21a40b3e0bfc265eb7ffcd68a2ab51.md",
+      "trechos": 8,
+      "corpo_anterior_recuperavel_exatamente": true
+    },
+    {
+      "documento": "municipais/SP/leme/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "sha256_anterior": "e55430f04885323e2f9698e4d6bcea26d06c9c46b5622a76f6b84769c8851592",
+      "sha256_novo": "f42e0d5f9876507263c99a600433e49543842d8825a09c882d466cc9f4a7e67c",
+      "backup": "municipais/_lotes/20261020-tachados-7los-corrigidos/backup/e55430f04885323e2f9698e4d6bcea26d06c9c46b5622a76f6b84769c8851592.md",
+      "trechos": 29,
+      "corpo_anterior_recuperavel_exatamente": true
+    }
+  ],
+  "limite": "Identifica somente a marca gráfica revisada; não infere revogação, efeitos ou vigência jurídica integral."
+}

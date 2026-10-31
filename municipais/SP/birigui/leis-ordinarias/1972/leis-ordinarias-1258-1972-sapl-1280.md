@@ -1,0 +1,139 @@
+---
+titulo: "Lei Ordinária nº 1.258, de 26 de maio de 1972"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1258"
+data: "1972-05-26"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1280"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1911/text"
+sha256_fonte: "82ef800b976b799a24bf0480ce7cc7a800eb6860e6dba9cc8c37c2e5e0276c6e"
+sha256_texto: "094730618f78d0a265a3331a041830d23e7f0a99245040e86374c4196d46d592"
+capturado_em_fonte: "2026-10-27T19:14:08.177880-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.258, de 26 de maio de 1972
+
+DISPÕE SOBRE UM EMPRÉSTIMO DE Cr$ 500.000,00 A SER CONTRAÍDO COM A CAIXA ECONÔMICA DO ESTADO DE SÃO PAULO.
+
+
+Eu, **WILSON STROSE**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Prefeita Municipal autorizada a contrair com a Caixa Econômica do Estado de São Paulo, um empréstimo até a importância de Cr$ 500.000,00 (quinhentos mil cruzeiros), destinado à execução das obras de pavimentação parcial da sede do Município, a serem realizadas de acordo com os estudos e projetos elaborados e aprovados a propósito.
+
+
+Art. 2º.
+
+Fica expressamente autorizada a inclusão no contrato que for celebrado, de todas as cláusulas e condições adotadas em operações dessa natureza e, de modo especial, as seguintes:
+
+
+a)
+
+prazo máximo de 3 (três) anos, com resgate do débito acrescido de correções monetárias, em prestações mensais de juros e amortização pela Tabela Price, vencendo-se a primeira prestação no último dia do mês seguinte ao da integralização do empréstimo;
+
+
+b)
+
+juros de 12% (doze por cento) ao ano, contados sobre as importâncias em débito, sujeitos à majoração de 1% (um por cento) ao mês, na falta de pagamento, nos prazos estipulados das prestações e amortização de empréstimo, calculada sobre as parcelas em atraso;
+
+
+c)
+
+correção monetária anual das prestações de amortização, bem como de débito remanescente, resultante do capital mutuado, de acordo com idêntica proporção em que for aumentado o salário mínimo da Capital do Estado de São Paulo, 60 (sessenta) dias após a sua decretação;
+
+
+d)
+
+durante o período de integralização do empréstimo incidirão juros de 1% (um por cento) ao mês sobre as importâncias entregues, corrigidas trimestralmente, de acordo com os índices de variação das UPCs (Unidades Padrão de Capital); na ocasião da integralização, as importâncias entregues serão corrigidas na primeira vez, pela aplicação do coeficiente do Plano de Equivalência Salarial, vigente na data do início da amortização;
+
+
+e)
+
+garantia das rendas provenientes das taxas e tarifas dos serviços de pavimentação e das demais rendas do Município, inclusive a quota atribuída ao Município, por força do disposto no Artigo 23, item II, § 8º, da Constituição da República Federativa do Brasil;
+
+
+f)
+
+multa de 10% (dez por cento) sobre o montante de débito, para atender às despesas de execução judicial, no caso de inadimplemento do contrato por parte do Município.
+
+
+Art. 3º.
+
+As leis orçamentárias consignarão verbas especiais para o pagamento de juros, amortização de financiamento e correções monetárias incidentes, e será custeado com as rendas dos próprios serviços subsidiariamente com as demais rendas municipais.
+
+
+Art. 4º.
+
+Para o efeito da garantia mencionada na alínea “e”, parte inicial, do Artigo 2º, as taxas que passarão a ser arrecadadas desde que os serviços sejam postos à disposição dos beneficiários, nos termos da Lei nº 786, de 15/12/1966, serão ajustadas às necessidades de custeio e conservação, mediante estudo econômico e financeiro. A Prefeitura Municipal obriga-se a entregar os avisos de débito aos contribuintes de serviço de pavimentação, os quais somente poderão ser pagos em qualquer Agência local da “Caixa”, conforme for combinado, liberando o que exceder aos encargos financeiros contratuais mensais, ficando a credora autorizada a cobrar-se das prestações mensais de juros e de amortização de principal e juros, no dia imediato aos dos respectivos vencimentos.
+
+
+Art. 5º.
+
+Para cumprimento e efetivação da garantia de que trata a alínea “e”, do Artigo 2º, fica a Prefeitura Municipal autorizada a conferir à Caixa Econômica do Estado de São Paulo, em caráter irrevogável e exclusivo, os poderes necessários para o recebimento das quotas atribuídas ao Município por força do disposto no Artigo 23, item II, § 8º, da Constituição da República Federativa do Brasil, devendo a Caixa entregar ao Município o total que receber, ou saldo respectivo, na hipótese de atraso no pagamento das prestações do empréstimo.
+
+
+Art. 6º.
+
+Fica a Caixa, desde já, autorizada a levar a débito do Município procedendo ao recebimento das importâncias eventualmente devidas, no caso do recolhimento de quaisquer importâncias ou das quotas do Imposto de Circulação de Mercadorias, efetuado diretamente em conta aberta em nome deste Município, na Agência local da credora.
+
+
+Art. 7º.
+
+Fica igualmente a Prefeitura Municipal autorizada a contratar a execução das obras, observadas as condições que forem estipuladas na escritura de concessão do empréstimo.
+
+
+Parágrafo único
+
+O contrato respectivo obedecerá à minuta adotada para os serviços dessa natureza, em regime que melhor consulte os interesses do Município, obedecendo as especificações constantes do orçamento já elaborado, reservando-se, à credora, a faculdade de exercer a direção técnica e a fiscalização das obras, por intermédio de seus órgãos próprios.
+
+
+Art. 8º.
+
+Fica aberto na Contadoria Municipal um crédito especial de Cr$ 80.000,00 (oitenta mil cruzeiros), com vigência até 31/12/1972, para ocorrer ao pagamento dos juros, sobre as importâncias que forem devidas à Caixa Econômica do Estado de São Paulo, referentes ao mesmo empréstimo, inclusive despesas de escritura e outras decorrentes da contratação do empréstimo autorizado no Artigo 1º.
+
+
+Parágrafo único
+
+O valor do presente crédito será coberto com operações de crédito que o Prefeito Municipal fica autorizado a proceder.
+
+
+Art. 9º.
+
+Fica igualmente aberto na Contadoria Municipal, crédito especial de Cr$ 500.000,00 (quinhentos mil cruzeiros), com vigência de 18 (dezoito) meses, partir da assinatura do contrato de empréstimo autorizado pela presente lei.
+
+
+§ 1º
+
+O valor do presente crédito será empregado exclusivamente na execução das obras de pavimentação, nos termos do Artigo 1º desta lei.
+
+
+§ 2º
+
+O presente crédito será coberto com o recurso previsto na operação financeira autorizada pelo Artigo 1º da presente lei, suplementando-se com recursos próprios da Prefeitura, a importância que superar o valor fixado naquele Artigo.
+
+
+Art. 10.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, notadamente as da Lei nº 1.248, de 01/03/1972.
+
+
+Prefeitura Municipal de Birigui, aos vinte e seis de maio de mil novecentos e setenta e dois.
+
+**WILSON STROSE Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e seis de maio de mil novecentos e setenta e dois, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

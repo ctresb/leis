@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.goianesiadopara.pa.leg.br/59f4c913725b93460f8ca254c5f150891adf3d6acb46961f4698e579c96e243b.json",
+      "url": "https://sapl.goianesiadopara.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.goianesiadopara.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T12:41:20.876455-03:00"
+    }
+  ]
+}

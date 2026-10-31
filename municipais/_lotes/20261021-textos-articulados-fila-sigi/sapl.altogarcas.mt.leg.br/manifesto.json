@@ -1,0 +1,52 @@
+{
+  "host": "sapl.altogarcas.mt.leg.br",
+  "metadados_unicos_observados": 166,
+  "total_api_declarado": 166,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 89,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/a62b0bbdbf3a4f319ba3819a43b861bb0aaa4cf1fdb1ff2733361c74e390a4b2.json",
+    "url": "https://sapl.altogarcas.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.altogarcas.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "623e62828666197832b6cf538b053442f27a925fd7a1086ccd8568a4be3d1775",
+    "bytes": 2906,
+    "capturado_em": "2026-10-21T05:27:48.758007-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/76edd7285a24e3037c5e9b9454b84a3b34c9623a7dbb708b83e601da20456abd.json",
+    "url": "https://sapl.altogarcas.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.altogarcas.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fb58fe6302acc2f0d4cc499e1520ec4d0fbdca9fef1194c489954bfe12c498f6",
+    "bytes": 754,
+    "capturado_em": "2026-10-21T05:27:47.557620-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/d262fed1bf7c385175798f34859508ebcef6948bb86b1355ab1675c024f819bb.json",
+      "url": "https://sapl.altogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.altogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6ba0ee870af4cde196296e900b65a00073737e29431783a74bfd6e07292bbc40",
+      "bytes": 71386,
+      "capturado_em": "2026-10-21T05:27:52.017308-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/19f4ee3bbee1b89755a6844f7e4b9c0c67d3e359c38a2cf3c669177485e9e708.json",
+      "url": "https://sapl.altogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.altogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9dbc76fd46993b35374b1a615d95469133804c3180edc11f2b88214144d6eb12",
+      "bytes": 44394,
+      "capturado_em": "2026-10-21T05:30:20.722377-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

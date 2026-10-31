@@ -1,0 +1,221 @@
+---
+titulo: "Lei Ordinária-CMCN nº 3.719, de 21 de fevereiro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3719"
+data: "2022-02-21"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2025-04-22; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/109"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/75/text"
+sha256_fonte: "265e1a7c5eb5046e12c70b311950f4140e18c75ab60bab06ab278e9cf871b1b6"
+sha256_texto: "d0d42f8032491f6ccf693bae7b640f04a7ba4507cfb1eb9b054e3597f9ec67a2"
+capturado_em_fonte: "2026-10-28T09:46:12.210963-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 3.719, de 21 de fevereiro de 2022
+
+Dispõe sobre a concessão de bolsas para médicos residentes de medicina de família e comunidade e para médicos que atuem em preceptoria de programas de residência médica e em programas de fixação de médicos especialistas na rede de serviços do SUS e estabelece outras providências.
+
+
+O PREFEITO MUNICIPAL DE CURRAIS NOVOS, ESTADO DO RIO GRANDE DO NORTE, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Currais Novos/RN aprovou o Projeto de Lei nº 002/2022 de autoria do Executivo Municipal e EU sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída a concessão de bolsas de que trata esta Lei para todos os médicos, bem como para todos os profissionais de especialidades não médicas, de nível superior, que atuem na rede de serviços do Sistema Único de Saúde (SUS) e preencham as demais exigências prescritas na presente Lei.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+Parágrafo único
+
+A concessão de bolsas para residentes na rede de serviços do SUS obedecerá às normas estabelecidas pela legislação federal que regem o Sistema Único de Saúde e às normas Gerais da Educação Superior.
+
+
+Art. 2º.
+
+O valor da bolsa para médicos não residentes e demais profissionais não médicos que integrem a rede de serviços do SUS será definido de acordo com os respectivos editais lançados pelas instituições públicas de ensino superior que possuam convênio específico para este fim com o Município de Currais Novos.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+Parágrafo único
+
+A bolsa instituída neste ato poderá ter caráter complementar à bolsa de residência proveniente do Governo Federal ou Estadual.
+
+
+Art. 3º.
+
+O valor da bolsa para médicos residentes de que trata esta Lei utilizará como base de cálculo a diferença entre o valor da bolsa do programa Mais Médico para o Brasil e o valor da bolsa de Residência Médico.
+
+
+§ 1º
+
+Para a base de cálculo acima referida serão utilizados os valores definidos pelo Ministério da Saúde para o Programa Mais Médico para o Brasil (ou programa que lhe venha a suceder) e pelo Ministério da Educação para os programas de Residência Médica.
+
+
+§ 2º
+
+O valor da bolsa será creditado mensalmente em conta específica indicada pelo médico residente.
+
+
+§ 3º
+
+Por se tratar de bolsa, não haverá incidência de pagamento de 13º (décimo terceiro) salário, férias ou demais verbas de natureza trabalhista.
+
+
+Art. 4º.
+
+Serão requisitos mínimos para concessão de bolsas para médicos e especialidades não médicas na rede de serviços do SUS:
+
+Alteração feita pelo Art. 3º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+I –
+
+Vínculo ao programa de residência médica ou a outro convênio com instituição de ensino, cuja Secretaria Municipal de Saúde de Currais Novos seja a instituição executora ou que sejam desenvolvidos por instituições públicas de ensino superior e que possuam convênio específico para este fim com a mesma secretaria;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+II –
+
+Carga horária semanal máxima de 60 (sessenta) horas, podendo incluir um máximo de 24 (vinte e quatro) horas de plantão e 10 a 20% de atividades teórico-práticas, conforme definido pelo Programa de Residência;
+
+
+III –
+
+Integrar equipe no município de Currais Novos e desenvolver as atividades em serviços vinculados à Rede Pública de Saúde, que por sua vez estejam vinculados ao Programa de Residência.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+Art. 5º.
+
+A concessão da bolsa terá um período de vigência máximo de quatro anos, podendo ser interrompida a qualquer momento por decisão da Secretaria Municipal de Saúde de Currais Novos.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+Parágrafo único
+
+O período de vigência da bolsa pode ser acrescido em seis meses, em caso de afastamentos previstos no Regimento Interno do Programa de Residência.
+
+
+Art. 6º.
+
+Fica instituída no âmbito desta Lei, a Bolsa de Preceptoria de Campo em Residência, destinada a garantir a adequada supervisão dos médicos residentes nos serviços de saúde, bem como outros profissionais da saúde que integrem rede de serviços do SUS.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+§ 1º
+
+A seleção dos preceptores se dará por meio de Edital Público lançado pela Secretaria Municipal de Saúde e operacionalizado em parceria com a Coordenação do programa de Residência Médica em Medicina Geral de Família e Comunidade, devendo obedecer aos requisitos estabelecidos no Regimento Interno do Programa de Residência.
+
+
+§ 2º
+
+Dentre os critérios para seleção dos preceptores será garantida prioridade aos médicos ou profissionais não médicos que tenham vínculo profissional com a Secretaria Municipal de Saúde do município de Currais Novos.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-CMCN nº 3.996, de 22 de abril de 2025.
+
+
+§ 3º
+
+A Bolsa de Preceptoria de Campo em Residência de que trata esta Lei terá valor máximo equivalente ao da bolsa-supervisão do programa Mais Médicos para o Brasil ou de programa que lhe venha a suceder, considerando-se a supervisão de 3 (três) médicos residentes por preceptor.
+
+
+§ 4º
+
+Na eventualidade do preceptor supervisionar um número menor do que 3 médicos residentes, o valor da bolsa será calculado de forma proporcional.
+
+
+§ 5º
+
+O percebimento da Bolsa de Preceptoria de Campo em Residência cessará automaticamente na falta de residente(s) a ser(em) supervisionado(s).
+
+
+§ 6º
+
+Em nenhuma hipótese, a bolsa de preceptoria se incorporará ao vencimento do servidor e não implicará em incidência de pagamento de 13º (décimo terceiro) salário, férias ou demais verbas de natureza trabalhista.
+
+
+§ 7º
+
+A Bolsa de Preceptoria de Campo em Residência poderá ser acumulada com outra bolsa de preceptoria ou tutoria que venha a ser financiada por instituição pública de ensino superior, no âmbito do Programa de Desenvolvimento da Preceptoria em Saúde (Prodeps), do Programa de Educação pelo Trabalho para a Saúde (PET-Saúde) ou de outro programa equivalente.
+
+
+Art. 7º.
+
+Fica instituída no âmbito desta Lei a Bolsa de Estímulo à Fixação de Médicos Especialistas na rede municipal de Saúde do Município de Currais Novos.
+
+
+§ 1º
+
+A bolsa de Estímulo à Fixação de Médicos Especialistas será destinada a egressos de programas de Residência Médica certificados pelo MEC e que assumam compromisso de atuar na rede municipal de saúde de Currais Novos por igual período da respectiva Residência.
+
+
+§ 2º
+
+Esta modalidade de Bolsa tem por objetivo estimular a fixação de médicos especialistas no município de Currais Novos e aplica-se a especialidades médicas estratégicas para a consolidação da rede municipal de saúde.
+
+
+§ 3º
+
+A seleção de candidatos a esta modalidade de bolsa se dará por meio de Edital Público lançado pela Secretaria Municipal de Saúde, devendo ser obedecidos os seguintes requisitos:
+
+
+I –
+
+Egresso de programa de Residência Médica reconhecido pelo MEC na(s) especialidade(s) médica(s) estabelecida(s) como prioritária(s) pela Secretaria Municipal de Saúde;
+
+
+II –
+
+Termo de compromisso de permanecer no programa por igual período de sua Residência Médica;
+
+
+III –
+
+Disponibilidade para desempenhar carga horária de 20 horas semanais nos serviços de saúde municipais.
+
+
+IV –
+
+Disponibilidade e interesse para atuar na preceptoria e gestão dos programas de Residência Médica desenvolvidos na rede municipal de saúde de Currais Novos.
+
+
+§ 4º
+
+A Bolsa de Estímulo à Fixação de Médicos Especialistas terá valor definido como 50% da bolsa paga pelo Ministério da Saúde aos médicos participantes do Programa Mais Médicos para o Brasil ou de programa de provimento que lhe venha a suceder.
+
+
+Art. 8º.
+
+As despesas decorrentes da execução desta Lei ocorrerão por conta de recursos próprios consignados na Lei Orçamentária e/ou de recursos provenientes do incentivo financeiro de custeio adicional mensal para os municípios com equipes de saúde integradas a programas de formação profissional no âmbito da Atenção Primária à Saúde.
+
+
+Art. 9º.
+
+Fica o Executivo Municipal autorizado a abrir créditos suplementares necessários para a cobertura das despesas geradas por esta Lei.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito “Raul Macêdo”, em 21 de  
+fevereiro de 2022.
+
+**ODON OLIVEIRA DE SOUZA JÚNIOR**  
+Prefeito Municipal
+

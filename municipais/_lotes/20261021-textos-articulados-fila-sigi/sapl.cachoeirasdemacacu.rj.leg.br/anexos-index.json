@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/errata_-_resolucao_no_43_de_18_de_marco_de_2025_-_mesa_diretora.docx_-_documentos_google.pdf da norma Resolução nº 43, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cachoeirasdemacacu.rj.leg.br/media/sapl/public/anexonormajuridica/2025/1/errata_-_resolucao_no_43_de_18_de_marco_de_2025_-_mesa_diretora.docx_-_documentos_google.pdf",
+      "ano": 2025,
+      "norma": 3640
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/resolucao_no_43_de_11_de_marco_de_2025_-_mesa_diretora.docx_-_documentos_google.pdf da norma Resolução nº 43, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cachoeirasdemacacu.rj.leg.br/media/sapl/public/anexonormajuridica/2025/2/resolucao_no_43_de_11_de_marco_de_2025_-_mesa_diretora.docx_-_documentos_google.pdf",
+      "ano": 2025,
+      "norma": 3640
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirasdemacacu.rj.leg.br/0e198e62cb6b8a30b9c7fd2eaa97ee82d223e34944a549039259403f17ca1c2f.json",
+      "url": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e5d11ca758b608bc4c043199d0c73a10b5d3d90ffe8ef8b5974f842cfc1637cf",
+      "bytes": 1225,
+      "capturado_em": "2026-10-27T21:04:07.621348-03:00"
+    }
+  ]
+}

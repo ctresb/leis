@@ -1,0 +1,219 @@
+---
+titulo: "Lei Ordinária nº 5.077, de 14 de agosto de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "5077"
+data: "2023-08-14"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-10-16; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4644"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/512/text"
+sha256_fonte: "1bb01913a6bcbdeab958c06e5a09ab9270a907b4d0d2758d8b6d95536d198228"
+sha256_texto: "9ad71ae97d01c7f18fb3035200c42e94fd6c89522f97d4780c00c2169a97e529"
+capturado_em_fonte: "2026-10-27T17:22:16.495149-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 5.077, de 14 de agosto de 2023
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU PROMULGO A SEGUINTE:
+
+
+LEI Nº5077, DE 14 DE AGOSTO DE 2023.
+
+
+Dispõe sobre o Programa Banco de Alimentos, no âmbito do Município de Barra Mansa, e dá outras providências.
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município de Barra Mansa, о programa "Banco de Alimentos", equipamento público permanente de segurança alimentar e nutricional, de responsabilidade da Secretaria Municipal de Assistência Social e Direitos Humanos, que tem por objetivo captar doações de alimentos e promover, prioritariamente, à assistência social por meio dos Centros de Referência da Assistência Social (CRAS), bem como às organizações assistenciais previamente cadastradas, contribuindo diretamente para o combate à fome e ao desperdicio de alimentos, visando atingir às políticas de abastecimento e segurança alimentar e de assistência social.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 6.109, de 16 de outubro de 2025.
+
+
+Parágrafo único
+
+Considera-se em estado de vulnerabilidade alimentar e nutricional os indivíduos e as famílias sob risco alimentar e nutricional, bem como as entidades sociais sem fins lucrativos que não disponham de condições de ofertar refeições ou alimentos necessários à subsistência de seus beneficiários.
+
+
+Art. 2º.
+
+O Banco de Alimentos será constituído de estrutura física e logística para oferta do serviço de captação e distribuição gratuita de gêneros alimentícios oriundos de doações dos setores públicos e privados e que serão direcionados aos indivíduos, famílias e instituições públicas ou privadas sem fins lucrativos, caracterizadas como prestadoras de serviço de assistência social, de proteção e defesa civil, estabelecimentos de saúde e demais unidades de alimentação e nutrição.
+
+
+§ 1º
+
+A captação das doações dos alimentos de comercialização inviável, mas em condições próprias para consumo com segurança alimentar, ocorrerá junto aos produtores rurais, estabelecimentos industriais e comerciais e na comunidade em geral.
+
+
+§ 2º
+
+Os alimentos doados poderão ser entregues diretamente na sede do programa, em postos autorizados divulgados pelos meios de comunicação ou retirados no local indicado pelo doador.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária nº 6.109, de 16 de outubro de 2025.
+
+
+§ 4º
+
+Os doadores poderão oferecer ao programa, a qualquer tempo, todo tipo de quantidade de alimentos, observadas as exigências estabelecidas nesta Lei, estando desobrigados da continuidade ou frequência dessa colaboração.
+
+
+§ 5º
+
+O Programa Banco de Alimentos poderá receber em doação o produto de ação de fiscalização, desde que devidamente provido da documentação e atendidos os requisitos de segurança alimentar e sanitárias, conforme legislação específica.
+
+
+Art. 3º.
+
+Para participação do programa de que trata esta Lei, as entidades assistenciais deverão atender aos seguintes requisitos:
+
+
+I –
+
+não ter fins lucrativos;
+
+
+II –
+
+situar-se no Município de Barra Mansa
+
+
+III –
+
+estar inscrita no Cadastro Nacional de Pessoa Jurídica (CNPJ).
+
+
+§ 1º
+
+As entidades assistenciais cadastradas no programa serão:
+
+
+I –
+
+submetidas a visitas periódicas da equipe técnica, a partir de seu cadastro, para verificação de suas instalações, com a finalidade de conferir o registro do grupo assistido e acompanhar as atividades desenvolvidas, sem aviso prévio e de acordo com o planejamento do programa;
+
+
+II –
+
+obrigadas a comparecer, sempre que convidadas, aos cursos, treinamentos, oficinas e outras atividades definidas pelo programa.
+
+
+Art. 4º.
+
+Fica vedada a concessão do benefício de que trata a presente Lei a 2 (duas) ou mais pessoas do mesmo grupo familiar, sob pena de cancelamento do benefício e do cadastro da família beneficiária junto ao Banco de Alimentos.
+
+
+Art. 5º.
+
+Além dos produtos e gêneros alimentícios obtidos na forma desta Lei, o Programa Banco de Alimentos poderá aceitar cessão gratuita ou doação de móveis, utensílios e equipamentos destinados ao preparo, armazenamento, recondicionamento, avaliação e transporte de alimentos, os quais serão objetos de catalogação específica, passando a constar no rol de patrimônios do Município de Barra Mansa.
+
+
+Art. 6º.
+
+O Programa Banco de Alimentos promoverá o cadastro de voluntários, dentre profissionais das diversas áreas de conhecimento, empresários e membros da sociedade em geral, com intuito de realizarem as seguintes atividades:
+
+
+I –
+
+coleta, seleção, armazenamento e distribuição dos alimentos doados;
+
+
+II –
+
+pesquisas, debates, informações e educação sobre questões relacionadas à fome, à nutrição e ao desperdício de alimentos;
+
+
+III –
+
+cursos, treinamentos, capacitação e oficinas sobre os temas concernentes à área de alimentação e nutrição às atividades do "Banco de Alimentos."
+
+
+Art. 7º.
+
+Para atendimento do disposto nesta Lei, o Executivo Municipal deverá criar condições administrativas, operacionais, técnicas, estruturais e sanitárias necessárias à triagem, separação, embalagem e distribuição dos alimentos recebidos em doação.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária nº 6.109, de 16 de outubro de 2025.
+
+
+Art. 9º.
+
+Da equipe técnica de coleta e distribuição de alimentos participará pelo menos um profissional legalmente habilitado a aferir e atestar a qualidade dos produtos e gêneros alimentícios arrecadados in natura, industrializados ou preparados, segundo critérios de segurança sanitária e alimentar, disciplinadas em leis municipais, estaduais e federais específicas.
+
+
+§ 1º
+
+Poderá ser convocado mais de um profissional caso seja estabelecido sistema de plantão e divisão de equipes técnicas operacionais.
+
+
+§ 2º
+
+A equipe técnica de coleta será responsável pela elaboração do "Manual de Práticas e Procedimentos para o Banco de Alimentos" quanto aos critérios técnicos e sanitários para captação, armazenamento, embalagem e distribuição, com a finalidade de assegurar a qualidade sanitária do produto para doação.
+
+
+Art. 10.
+
+À coordenação geral do Programa Banco de Alimentos competirá:
+
+
+I –
+
+definir as diretrizes básicas do programa;
+
+
+II –
+
+operar permanentemente como captadora de doações;
+
+
+III –
+
+motivar o trabalho voluntariado;
+
+
+IV –
+
+instituir e manter atualizado o sistema de registro e controle das doações recebidas;
+
+
+V –
+
+promover o intercâmbio com universidades, centros e instituições de pesquisa e outras entidades públicas, privadas ou não governamentais para a execução e aprimoramento do programa;
+
+
+VI –
+
+promover a transparência da utilização dos recursos do Programa Banco de Alimentos, devendo a cada 6 (seis) meses divulgar o número de indivíduos, grupo familiar e entidades assistenciais contempladas, preservando a identidade dos beneficiários finais, exceto com relação às entidades assistências que terão o nome, CNPJ e endereço divulgados para conhecimento da população.
+
+
+Art. 11.
+
+Para consecução dos objetivos do Programa Banco de Alimentos, o Município de Barra Mansa poderá firmar parcerias e convênios com órgãos e entidades, governamentais ou não, observado o disposto na Lei nº 13.019, de 31 de julho de 2014, com redação dada pela Lei nº 13.204, de 14 de dezembro de 2015, ficando para tanto autorizado.
+
+
+Art. 12.
+
+As despesas com a execução da presente Lei correrão por conta das dotações orçamentárias próprias, suplementadas quando necessário.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, DE 14 DE AGOSTO DE 2023.
+
+
+PAULO SANDRO SOARES  
+PRESIDENTE
+

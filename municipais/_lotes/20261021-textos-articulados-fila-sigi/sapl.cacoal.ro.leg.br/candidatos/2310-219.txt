@@ -1,0 +1,260 @@
+DISPÕE SOBRE A PLANTA DE VALORES PARA O CÁLCULO DE TRIBUTOS IMOBILIÁRIOS E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A PREFEITA DE CACOAL, GLAUCIONE MARIA RODRIGUES NERI, no uso de suas atribuições legais, faz saber que o Poder Legislativo Municipal aprovou e ela sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aprovada a Planta de Valores para cálculo do valor venal imobiliário do Município de Cacoal.
+
+
+Art. 2º.
+
+Os fatores de correção e os índices a serem considerados para efeito de cálculo do valor venal imobiliário são os seguintes:
+
+
+I – TOPOGRAFIA:
+
+<table><tbody><tr><td><p>A.1. Regular......................................................................................................................1,0</p></td></tr><tr><td><p>A.2. Irregular.....................................................................................................................0,8</p></td></tr><tr><td><p>A.3. Aclive........................................................................................................................0,8</p></td></tr><tr><td><p>A.4. Declive......................................................................................................................0,8</p></td></tr></tbody></table>
+
+II – PEDOLOGIA:
+
+<table><tbody><tr><td><p>B.1. Firme.........................................................................................................................1,0</p></td></tr><tr><td><p>B.2. Inundável ou rochoso...........................................................................................0,8</p></td></tr><tr><td><p>B.3. Brejo..........................................................................................................................0,4</p></td></tr></tbody></table>
+
+III. NÚMERO DE TESTADAS
+
+<table><tbody><tr><td><p>C.1. Duas testadas........................................................................................................1,1</p></td></tr><tr><td><p>C.2. Três testadas.........................................................................................................1,2</p></td></tr><tr><td><p>C.3. Quatro testadas.....................................................................................................1,3</p></td></tr></tbody></table>
+
+IV - ZONA FISCAL:
+
+<table><tbody><tr><td><p>VALOR POR  M² EM UFC</p></td></tr><tr><td><p>1.0...................................................................................................................................13,61</p></td></tr><tr><td><p>1.1...................................................................................................................................10,89</p></td></tr><tr><td><p>2.0.....................................................................................................................................8,71</p></td></tr><tr><td><p>2.1.....................................................................................................................................7,08</p></td></tr><tr><td><p>3.0.....................................................................................................................................3,81</p></td></tr><tr><td><p>3.1.....................................................................................................................................2,72</p></td></tr><tr><td><p>4.0.....................................................................................................................................2,18</p></td></tr><tr><td><p>4.1.....................................................................................................................................1,85</p></td></tr><tr><td><p>5.0.....................................................................................................................................1,63</p></td></tr><tr><td><p>5.1.....................................................................................................................................1,31</p></td></tr><tr><td><p>6.0.....................................................................................................................................1,09</p></td></tr><tr><td><p>6.1.....................................................................................................................................0,87</p></td></tr></tbody></table>
+
+V - SITUAÇÃO
+
+<table><tbody><tr><td><p>TESTADA                                                                                                 </p></td></tr><tr><td><p>02 Testadas.....................................................................................................................1.1</p></td></tr><tr><td><p>03 Testadas.....................................................................................................................1.2</p></td></tr><tr><td><p>04 Testadas.....................................................................................................................1.3</p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Ficam estabelecidos os critérios relacionados ao padrão da edificação, para efeitos de cálculo e determinação do valor venal:
+
+
+I – PADRÃO
+
+<table><tbody><tr><td><p>PADRÕES                                                           VALOR POR  M² EM UFC</p></td></tr><tr><td><p>A – LUXO...................................................................................................................18,43</p></td></tr><tr><td><p>B – ALTA........................................................................................................................14,61</p></td></tr><tr><td><p>C – BOA..........................................................................................................................13,93</p></td></tr><tr><td><p>D – MÉDIA................................................................................................................12,65</p></td></tr><tr><td><p>E – POPULAR..................................................................................................................8,67</p></td></tr><tr><td><p>F – BAIXA........................................................................................................................7,10</p></td></tr><tr><td><p>G – PRECÁRIA................................................................................................................2,60</p></td></tr></tbody></table>
+
+II – ESTRUTURA
+
+A) Taipa - 1
+
+B) Madeira/Taipa - 2
+
+C) Alvenaria/Taipa - 3
+
+D) Madeira-5
+
+E) Alvenaria/madeira - 7
+
+F) Alvenaria - 10
+
+G) Concreto - 15
+
+III – COBERTURA
+
+A) Palha - 1
+
+B) Cavaco - 2
+
+C) Cimento amianto comum ou metal - 3
+
+D) Cimento amianto especial - 5
+
+E) Telha - 7
+
+F) Laje - 10
+
+G) Especial - 15
+
+IV – PISO
+
+A) Terra - 0
+
+B) Madeira - 2
+
+C) Tijolo/Cimento - 4
+
+D) Taco/Cerâmica - 7
+
+E) Especial - 12
+
+V – REVESTIMENTO EXTERNO
+
+A) Sem - 0
+
+B) Reboco - 3
+
+C) Madeira comum - 5
+
+D) Madeira trabalhada ou massa corrida - 8
+
+E) Painéis especiais ou materiais cerâmicos - 15
+
+VI – FORRO
+
+A) Sem - 0
+
+B) Caiação - 2
+
+C) Pintura comum - 5
+
+D) Pintura lavável - 9
+
+E) Especial - 14
+
+VII – ACABAMENTO EXTERNO
+
+A) Sem - 0
+
+B) Caiação - 2
+
+C) Pintura comum - 5
+
+D) Pintura lavável ou óleo - 9
+
+E) Especial - 14
+
+VIII – ACABAMENTO INTERNO
+
+A) Sem - 0
+
+B) Caiação - 2
+
+C) Pintura comum - 5
+
+D) Pintura lavável ou óleo - 9
+
+E) Especial - 14
+
+IX – REVESTIMENTO INTERNO
+
+A) Sem - 0
+
+B) Reboco - 3
+
+C) Madeira comum - 5
+
+D) Madeira trabalhada ou massa corrida - 8
+
+E) Painéis especiais ou material cerâmico - 15
+
+X – INSTALAÇÕES ELÉTRICAS
+
+A) Sem - 0
+
+B) Aparente - 3
+
+C) Semi-embutida - 6
+
+D) Embutida - 10
+
+XI – INSTALAÇÕES SANITÁRIAS
+
+A) Precária - 0
+
+B) Incompleta externamente - 3
+
+C) Incompleta Internamente e completa externamente - 5
+
+D) Completa simples, louça branca, piso comum, meia barra - 10
+
+E) Completa bom, interno, louça de cor, piso bom, especial azulejos até o teto - 18
+
+
+§ 1º
+
+O padrão da construção, estabelecido segundo a pontuação da Tabela abaixo, será identificado pelos critérios definidos neste artigo.
+
+
+<table><tbody><tr><td><p><strong>PONTOS</strong>                                             <strong>PADRÃO</strong>                                        <strong>DENOMINAÇÃO</strong></p></td></tr><tr><td><p><strong>Até 18</strong>                                                       <strong>G</strong>                                                         <strong>Precária</strong></p></td></tr><tr><td><p><strong>De 19-30</strong>                                                   <strong>F</strong>                                                         <strong>Baixa</strong></p></td></tr><tr><td><p><strong>De 31-40</strong>                                                   <strong>E</strong>                                                         <strong>Popular</strong></p></td></tr><tr><td><p><strong>De 41-60</strong>                                                   <strong>D</strong>                                                        <strong>Média</strong></p></td></tr><tr><td><p><strong>De 61-85</strong>                                                   <strong>C</strong>                                                        <strong>Boa</strong>  </p></td></tr><tr><td><p><strong>De 86-120</strong>                                                 <strong>B</strong>                                                        <strong>Alta</strong></p></td></tr><tr><td><p><strong>Acima</strong>                                                       <strong>A</strong>                                                        <strong>Luxo</strong></p></td></tr></tbody></table>
+
+
+§ 2º
+
+O tipo de conservação da construção e respectivo índice, cujos são considerados para efeitos de cálculo e aferição, estão definidos na Tabela abaixo:
+
+
+<table><tbody><tr><td><p>NOVO                           BOM                                REGULAR                                   RUIM</p></td></tr><tr><td><p>1,1                                  1,0                                       0,95                                              0,90</p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+Para apurar o valor venal territorial será aplicada a seguinte fórmula: Área do terreno (AT) x valor por m² da zona fiscal (Vm²ZF) x Pedologia (P) x Topografia (T) x Situação (Si), ou seja Valor Venal = AT x Vm²ZF x P x T x Si, conforme definido nos artigos 2º e 3º desta Lei.
+
+
+Art. 5º.
+
+Para apurar o valor venal predial será aplicada a seguinte fórmula: Área construída (AC) x Padrão (Pa) x Conservação (C), ou seja, Valor Venal = AC x Pa x C.
+
+
+Parágrafo único
+
+Para o cálculo do valor venal predial serão consideradas as áreas construídas, o padrão da construção e conservação, conforme definidos no art. 3º.
+
+
+Art. 6º.
+
+As taxas pela prestação de serviços públicos serão definidas da seguinte forma: Serviços (S) x Percentual da UFC (UFC) x Testadas (Te), ou seja: Taxa = Sx % UFC x Te.
+
+
+Art. 7º.
+
+Fica estabelecido o valor da Zona Fiscal nº 6.0 constante no Art. 2º, para cálculo do valor venal territorial e predial urbano para os lotes urbanos do Riozinho, e o valor da Zona Fiscal nº 6.1 para cálculo do valor venal territorial e predial para as chácaras urbanas do Riozinho.
+
+
+Art. 8º.
+
+Fica estabelecido que sobre as áreas ocupadas ainda não regularizadas, incidirá o valor da Zona Fiscal equivalente à Zona Fiscal aplicada à área mais próxima com as mesmas semelhanças e características, para cálculo do valor venal territorial e predial urbano.
+
+
+Art. 9º.
+
+As chácaras que estão localizadas na Zona Urbana ou Perímetro Urbano de Cacoal pagarão o Imposto Territorial Predial Urbano - IPTU, ficando estabelecido o valor venal de acordo com a Zona Fiscal 6.1, por metro quadrado (m²), para efeitos de cálculo.
+
+
+Art. 10.
+
+As chácaras contendo construção ou sendo produtivas pagarão a alíquota de 0,165% do valor venal, como IPTU, ou, alternativamente, sendo vazias, pagarão 0,35% do valor venal, como IPTU.
+
+
+Parágrafo único
+
+Os critérios a serem definidos para estabelecer se a chácara é ou não produtiva, serão definidos por Decreto do Executivo Municipal.
+
+
+Art. 11.
+
+Altera o Item I e II do Anexo I da Lei n. 2.554/PMC/2009 que passa a ter a seguinte redação:
+
+
+Art. 12.
+
+Fica instituído Imposto Predial e Territorial Urbano – IPTU progressivo no tempo, com fundamento nos artigos 5º, 6º e 7º do Estatuto das Cidades – Lei nº. 10.257/2001 e artigo 57 do Plano Diretor – Lei n. 2.016/PMC/2006, cuja alíquota máxima não excederá 15% (quinze por cento) do valor venal e os critérios de definição da majoração da alíquota e os procedimentos serão regulamentados por Decreto do Executivo Municipal.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação, produzindo eficácia jurídica a partir de 1º de janeiro de 2018.
+
+
+Cacoal, 12 de setembro de 2017.
+
+GLAUCIONE MARIA RODRIGUES NERI
+
+Prefeita
+
+WALTER MATHEUS BERNARDINO SILVA
+
+Procurador-Geral do município
+
+OAB/RO 3716

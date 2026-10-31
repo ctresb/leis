@@ -1,0 +1,92 @@
+{
+  "host": "sapl.conceicaodocoite.ba.leg.br",
+  "metadados_unicos_observados": 577,
+  "total_api_declarado": 577,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 356,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/0b6ae5d3f80a068fb75e859091bcbfa5b702d040a076b9b637fdf19a20d706ac.json",
+    "url": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0099c9ce7b013edcf78f2b92491c122ed698d7f89103a2ff335284baefd3f031",
+    "bytes": 955,
+    "capturado_em": "2026-10-27T23:08:02.457636-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/c237dd8a80d06e7f3d65fc04aad5c302863d64d5d69f506d36921490313454ee.json",
+    "url": "https://sapl.conceicaodocoite.ba.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f6d9b8631eb535b28fa17cbf7ae1ffc076f04e7bf04720232033d661e1675edf",
+    "bytes": 831,
+    "capturado_em": "2026-10-27T23:08:01.645482-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/f8585470b7f382d9fc927fbcfd9fffb7c756c5f77cb79ff63238dcae3ba718e1.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6dc77fc0e92afda85f716425f13c60c54075ce70f00b4e72b21440648cbe9b9e",
+      "bytes": 52424,
+      "capturado_em": "2026-10-27T23:08:03.804910-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/b20348c7fa032e2e2377e9f49c2f74b88fbd9de4559b26c2a1a7c0f9e8dea437.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e8b1e25ca3c1713256ec6eb089cb9f4a2a8320a5942bb70b092086470d4026be",
+      "bytes": 53643,
+      "capturado_em": "2026-10-27T23:10:55.702556-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/839559582442ee50d8b3353aba2e1d3b60b7259d1785749e763bd37d8b544712.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "91763867b827c86406be1560325a8e31b65b1c3d9bbe0b8831c22328043320fc",
+      "bytes": 55725,
+      "capturado_em": "2026-10-27T23:13:56.117588-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/1733a6f6b34e06cef7c7cba54fee0e282395a424eb5efd989f8908fd8f606742.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d5530c924bff5645a206abcfc02e1e5554ad8d614fc70dcc0bdbb8635d5de9b5",
+      "bytes": 61600,
+      "capturado_em": "2026-10-27T23:16:53.712984-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/c700c979ceb7d936f4523c261794b4c69adf2776301694461c0db14dfb02cae2.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f37ed82fd2a25a8d8d57684e91e44cee444572c1d1544c941d39d8f9dc6b0533",
+      "bytes": 55193,
+      "capturado_em": "2026-10-27T23:17:37.946468-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/0e22ae5350fbe21c224ced2ff0ffa11c034b85e49158b0d3e597d81a8e956894.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.conceicaodocoite.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "34fc42f7c7ca45b1c184348fcf5027a44cabd85482ce38641f18b7da491bc765",
+      "bytes": 41485,
+      "capturado_em": "2026-10-27T23:19:04.268946-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

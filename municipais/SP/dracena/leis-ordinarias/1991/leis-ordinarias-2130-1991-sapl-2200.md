@@ -1,0 +1,39 @@
+---
+titulo: "Lei Ordinária nº 2.130, de 23 de abril de 1991"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2130"
+data: "1991-04-23"
+municipio: "Dracena"
+uf: "SP"
+codigo_ibge: "3514403"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.dracena.sp.leg.br/norma/2200"
+fonte_texto: "https://sapl.dracena.sp.leg.br/media/sapl/public/normajuridica/1991/2200/lei_02130-1991.pdf"
+sha256_fonte: "efd3735cf0331123218fe40b945696eb7b98c94a5b254ff98ea92024998a809a"
+sha256_texto: "0d3b0e56d789d2af2b5f3517b39e270016f490242a5f12c9843675d9374a798b"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 2.130, de 23 de abril de 1991
+
+LEI N.º 2130 - DE 23 DE ABRIL DE 1991. Dispõe sobre autorização ao Senhor Prefeito Municipal, para implementar o programa de apoio e incentivo aos setores Comercial, de Prestação de Serviços e Industrial de Dracena e dá outras providências.
+
+DR. JOSÉ CLÁUDIO GRANDO, Prefeito Municipal de Dracena, Estado de São Paulo, usando das atribuições que lhe são conferidas por lei,
+
+FAZ SABER QUE A CÂMARA MUNICIPAL APROVOU E ELE SANCIONA E PROMULGA A SEGUINTE LEI:
+
+**Artigo 1º** - Fica o Poder Executivo autorizado a implementar o programa de apoio e incentivo aos setores Comercial, de Prestação de Serviços e Industrial de Dracena, consistente na divulgação de notícia, imagem e informação sobre o município e atividades nela exercidas.
+
+**Artigo 2º** - As despesas decorrentes desta Lei correrão à conta de dotação própria do Gabinete do Prefeito.
+
+**Artigo 3º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Gabinete do Prefeito Municipal Dracena, 23 de abril de 1991.
+
+DR. JOSÉ CLÁUDIO GRANDO Prefeito Municipal
+
+Registrada nesta Secretaria e publicada por afixação, no lugar público do costume desta Prefeitura e na imprensa local.
+
+Dracena, data supra.
+
+ISAURA GAIOTTI DE OLIVEIRA - Secretária - CM n.º 38/1991
+

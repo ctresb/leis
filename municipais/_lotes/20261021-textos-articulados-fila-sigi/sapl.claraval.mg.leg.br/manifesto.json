@@ -1,0 +1,122 @@
+{
+  "host": "sapl.claraval.mg.leg.br",
+  "metadados_unicos_observados": 886,
+  "total_api_declarado": 886,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 710,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/9e9f2dd112588bc7fc1f101a7965e710207f016cf9621f4a534a278529667a57.json",
+    "url": "https://sapl.claraval.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "10e1803a0b04ec7b9764ee9d8148c3c556797f610458b5038c6f3d786514eaa1",
+    "bytes": 963,
+    "capturado_em": "2026-10-27T22:42:15.513042-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/61c5132c68e0923baf08d5ddbcbce50eecb755fdb1f5eea99f1eaa9c8c961ee6.json",
+    "url": "https://sapl.claraval.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.claraval.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80e976b6f9d513fd8626fd6b95cad3db92bfca6ff7f02f8a4c2d4cb96579373f",
+    "bytes": 671,
+    "capturado_em": "2026-10-27T22:42:14.351375-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/948122fa5f277dcf267a8ce8bfba7801cc502591d5db37a096d036d1c9a14652.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d65d5bc6974e78a8773bd21b0d823534655d3bb3ec4065e9695f400961101650",
+      "bytes": 73298,
+      "capturado_em": "2026-10-27T22:42:18.635285-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/2a32dac7a5a97f9511ee8ccb0e125d39bc8a1d611676ac4c2cb28e39698dcfc3.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0532e4f1673b9970c09d2817c566b89e77dcbceff3c388d7cd78fcd71ebe7c26",
+      "bytes": 64193,
+      "capturado_em": "2026-10-27T22:43:18.517930-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/2ef5b52660f1404caf1d0cb4bb6c968d4e5b50c8e2b26551f9e78bd802a9512b.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5078712254412cad0b3ca73bca8e418a525b1b5fb07ddb56a161c555973e9f8f",
+      "bytes": 63216,
+      "capturado_em": "2026-10-27T22:44:45.794411-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/e30467a0812a03ea59323f92fd749c40f45683018e28965f18ed0556cd4d51bf.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2830e6ede876f2b36d9c104a6f50b871e86d0c171705cf65c73d725325e5cb3f",
+      "bytes": 62204,
+      "capturado_em": "2026-10-27T22:47:48.245231-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/04f9799bc1abde03615d43808ddf25c1afb202708f901d0d3593ffe9d651ea1d.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3399d5f7cf0eac1e58650bffa8a99049697255ad57d61550b5fc9bbd2ecc11f8",
+      "bytes": 60813,
+      "capturado_em": "2026-10-27T22:51:11.227790-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/be5a30ab9b216ffb5a9c44d62437eac14da39cba5a988460b4cbf2cfa6a261aa.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "20ada23496c8aa1bae89cfb00fe5e7c8d15db3018cf1ee48a5cc1622d903fb88",
+      "bytes": 61339,
+      "capturado_em": "2026-10-27T22:54:25.842269-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/4b9deab598452c6e25c06b294caa2df1220648f80af2e2814be5a117226fa2a2.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8eb4c7ece79355c901aa10620c11c9dcccbefabefab9299a418a99f8a43232f2",
+      "bytes": 61379,
+      "capturado_em": "2026-10-27T22:57:40.675362-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/e25edcc8f43f4e8a99549ed42c436d9a5d122440ee67de18f76082058abfc9e5.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f6c9b3e6b9e600da4ef4bc46e33494b4505d60403a1b6a64f4176e5f8811416b",
+      "bytes": 59714,
+      "capturado_em": "2026-10-27T23:00:59.383110-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/fd62faccfd810510f4cb924483b6cb7663106fc3a67e5cad6d2c3e80a50bc3bd.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6c71916e8462faedc61b887bc0b624221a91511b7879a7f5aeab08e740d785f8",
+      "bytes": 50720,
+      "capturado_em": "2026-10-27T23:04:29.278417-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

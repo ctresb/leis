@@ -1,0 +1,62 @@
+---
+titulo: "Lei Ordinária nº 1.744, de 21 de novembro de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1744"
+data: "1977-11-21"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1766"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2433/text"
+sha256_fonte: "85e2c54a0b086cc4b7290a66aa47c664573c5e4c6d898fb30e5608402330a839"
+sha256_texto: "35c55be2534083d7a78a540a859d6900b275c6e66914df3651a6fa8e06facf39"
+capturado_em_fonte: "2026-10-27T18:57:46.006308-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.744, de 21 de novembro de 1977
+
+DISPÕE SOBRE VENDA DE AÇÕES.
+
+
+Eu, **PEDRO MARIN BERBEL**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Prefeitura Municipal de Birigui autorizada a vender, por intermédio de **BANESPA S/C CORRETORA DE CÂMBIO E TÍTULOS** e ao valor da cotação da Bolsa de Valores de São Paulo, no dia da transação, as ações de sua propriedade, emitidas pela **COMPANHIA PAULISTA DE FORÇA E LUZ**, constante discriminação abaixo:
+
+
+<table><thead><tr><th>TIPO</th><th>CAUTELA Nº</th><th>APÓLICE Nº</th><th>QUANTIDADE</th><th>VALOR NOMINAL Cr$</th><th>TOTAL Cr$</th></tr></thead><tbody><tr><td>COMUM</td><td>223031</td><td>1032069393 a 1032136649</td><td>67.257</td><td>1,00</td><td>67.257,00</td></tr><tr><td>COMUM</td><td>229024</td><td>1420523085 a 1420547296</td><td>24.212</td><td>1,00</td><td>24.212,00</td></tr><tr><td>COMUM</td><td>229486</td><td>1545904683 a 1545996934</td><td>92.252</td><td>1,00</td><td>92.252,00</td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td><td><strong>183.721,00</strong></td></tr></tbody></table>
+
+
+Parágrafo único
+
+A corretagem relativa à venda das ações será instituída pelo Banco Central do Brasil e pela Bolsa de Valores de São Paulo, deduzida do valor apurado na respectiva venda.
+
+
+Art. 2º.
+
+O numerário auferido com a venda ora autorizada será destinado ao reforço de caixa, para aplicação em despesas orçamentárias.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e um de novembro de mil novecentos e setenta e sete.
+
+**PEDRO MARIN BERBEL Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e um de novembro de mil novecentos e setenta e sete, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

@@ -1,0 +1,345 @@
+---
+titulo: "Lei Complementar nº 48, de 14 de maio de 2018"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "48"
+data: "2018-05-14"
+municipio: "Bom Despacho"
+uf: "MG"
+codigo_ibge: "3107406"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bomdespacho.mg.leg.br/norma/381"
+fonte_texto: "https://sapl.bomdespacho.mg.leg.br/ta/145/text"
+sha256_fonte: "16db6fb9d89bff849f7863abc71c3c9c64653c7dac29f17755610458ad4921e6"
+sha256_texto: "c43d7cfdf9a5240f70585293ae30e6239565b05386017d28d17de1250ae93231"
+capturado_em_fonte: "2026-10-27T19:28:44.692883-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 48, de 14 de maio de 2018
+
+**Lei Complementar nº 48, de 14 de maio de 2.018.**
+
+
+Dispõe sobre a realização de feiras itinerantes no Município de Bom Despacho e dá outras providências.
+
+
+O Povo do Município de Bom Despacho/MG, através de seus representantes legais, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei.
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei estabelece as normas para a realização de feiras itinerantes no Município de Bom Despacho e dá outras providências.
+
+
+Art. 2º.
+
+Para efeitos desta lei, consideram-se feiras itinerantes as exposições, vendas, bazares ou similares, temporários ou eventuais, voltados para a comercialização de produtos manufaturados, bens e serviços, de venda no varejo ou atacado, em espaço unitário ou dividido em estandes individuais, com participação de um ou mais comerciantes, em locais abertos ou fechados, públicos ou privados.
+
+
+§ 1º
+
+Não são consideradas feiras itinerantes:
+
+
+I –
+
+as realizadas por entidades beneficentes com sede ou filial instalada no município de Bom Despacho, desde que com o fim de arrecadação para manutenção de seu próprio funcionamento específico, sem objetivo de lucro ou remuneração de terceiros.
+
+
+II –
+
+as realizadas por empresas instaladas no Município de Bom Despacho, com objetivo de explorar oportunidades temporárias e eventuais em exposições, feiras, eventos culturais ou esportivos e afins.
+
+
+III –
+
+as mostras de caráter científico, tecnológico, esportivo e cultural, que não tiverem por finalidade a venda de mercadorias ou serviços;
+
+
+IV –
+
+que tenham por finalidade a difusão da arte, cultura ou ciências;
+
+
+V –
+
+feiras, festas, bazares e mostras realizadas em parceria com o Município, que não tiverem por finalidade a venda de mercadorias ou serviços.
+
+
+§ 2º
+
+Fica vedada a formação de acordos ou parcerias entre organizadores de feiras itinerantes com sede fora do município de Bom Despacho e entidades beneficentes, ainda que parte do produto das vendas seja destinada a entidade beneficente.
+
+
+§ 3º
+
+Consideram-se as seguintes definições para efeitos desta Lei:
+
+
+I –
+
+locais abertos: os logradouros públicos ou áreas de terrenos privados ao ar livre, com ou sem possibilidade de controle de entrada e saída do público;
+
+
+II –
+
+locais fechados: os galpões, salões, armazéns, ginásios, áreas cobertas e similares, cuja entrada e saída do público possa ser controlada;
+
+
+III –
+
+estande: subdivisão de qualquer natureza que permita a venda ou exposição independente de produtos, mesmo que contíguo à outra unidade, cujos produtos sejam iguais ou similares, independentemente de quem as explore;
+
+
+IV –
+
+organizador: pessoa física ou jurídica responsável por organizar, promover e instalar as feiras itinerantes;
+
+
+V –
+
+período de realização da feira itinerante: intervalo entre o início da montagem da estrutura até a efetiva retirada de todos os produtos, equipamentos e desmontagem da estrutura do local de realização do evento.
+
+
+Art. 3º.
+
+As feiras itinerantes não poderão ser realizadas em locais que:
+
+
+I –
+
+dificultem o trânsito de veículos ou pessoas;
+
+
+II –
+
+impeçam, dificultem ou interfiram em outras atividades existentes no local;
+
+
+III –
+
+não tenham condições de higiene ou de salubridade.
+
+
+Parágrafo único
+
+Não será fornecido alvará de funcionamento caso o local de realização do evento não esteja em consonância com o Plano Diretor do Município e demais Leis de Ordenamento Urbano para realização de eventos dessa natureza.
+
+
+Art. 4º.
+
+As pessoas físicas ou jurídicas interessadas em organizar, promover, instalar as feiras itinerantes, de atuação no âmbito do comércio ou, ainda, de prestação de serviços direta a usuário final no local do evento, deverão, previamente, requerer Alvará de Funcionamento junto à Prefeitura Municipal.
+
+
+§ 1º
+
+Em caso de feira itinerante constituída de estandes, na forma do artigo 2º, parágrafo terceiro, inciso III, desta lei, será expedido somente um Alvará de Funcionamento em nome da pessoa física ou jurídica organizadora, ficando esta responsável por todos os aspectos do funcionamento da feira.
+
+
+§ 2º
+
+Na hipótese do parágrafo primeiro deste artigo, o Alvará de Funcionamento somente será expedido se todos os estandes estiverem de acordo com esta Lei, e não tiver os impedimentos listados no artigo 3º desta.
+
+
+§ 3º
+
+O Alvará de Funcionamento tem caráter precário, podendo ser revogado quando ocorrer impedimento ou irregularidade previstos nesta Lei ou outra norma aplicável, inclusive durante a realização do evento, e que não possam ser sanados a contento.
+
+
+§ 4º
+
+Todos os produtos industrializados expostos a venda na feira deverão possuir nota fiscal de compra, com discriminação pormenorizada.
+
+
+§ 5º
+
+Poderá a Administração Pública requisitar do expositor, a qualquer momento, a apresentação de nota fiscal de procedência dos produtos expostos, sob pena de imediata revogação da licença que lhe foi concedida e fechamento do estande, sem prejuízo de outras sanções legais cabíveis.
+
+
+#### CAPÍTULO II — DO ALVARÁ DE FUNCIONAMENTO
+
+
+Art. 5º.
+
+A pessoa física ou jurídica organizadora deverá requerer, junto à Prefeitura Municipal, o alvará de funcionamento, com antecedência mínima de 30 (trinta) dias da data de realização do evento.
+
+
+§ 1º
+
+O poder público municipal estabelecerá, em regulamento próprio, no prazo de 30 (trinta) dias após a publicação desta lei, o modelo de formulário, os documentos e informações necessários para expedição do alvará de funcionamento.
+
+
+§ 2º
+
+As feiras terão duração máxima de 07 (sete) dias consecutivos, devendo respeitar o período mínimo de 05 (cinco) dias úteis de antecedência das seguintes datas comemorativas:
+
+
+I –
+
+Dia das Mães (2º domingo de maio);
+
+
+II –
+
+Dia dos namorados (12 de junho);
+
+
+III –
+
+Dia dos Pais (2º domingo de agosto);
+
+
+IV –
+
+Dia das Crianças (12 de outubro);
+
+
+V –
+
+Natal (25 dezembro).
+
+
+#### CAPÍTULO III — DOS DEVERES E OBRIGAÇÕES
+
+
+Art. 6º.
+
+Toda feira itinerante terá um organizador responsável pela totalidade do evento, podendo ser pessoa física ou jurídica.
+
+
+§ 1º
+
+O organizador e os participantes da feria são solidariamente responsáveis, civil e administrativamente, perante a Fazenda Municipal e frequentadores da feira.
+
+
+§ 2º
+
+O organizador é, também, responsável pelo recolhimento dos tributos municipais, bem como responde pelas obrigações assessórias, pelo inadimplemento e eventuais multas ou acréscimos decorrentes de mora.
+
+
+Art. 7º.
+
+Fica proibida a instalação de Feiras Itinerantes em prédios pertencentes ao Município de Bom Despacho ou sob sua administração.
+
+
+Parágrafo único
+
+Excetuam-se à proibição contida no caput deste artigo as feiras promovidas pelo Poder Público, entidades educacionais de ensino regular, bem como aquelas definidas no parágrafo primeiro do artigo segundo desta Lei.
+
+
+Art. 8º.
+
+É obrigatória a colocação de extintores de incêndio no local do evento, a serem supervisionados e aprovados previamente pelo Corpo de Bombeiros.
+
+
+Art. 9º.
+
+Os organizadores do evento, seus prepostos e feirantes usarão obrigatoriamente crachá de identificação com nome e fotografia atualizada.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES FINAIS
+
+
+Art. 10.
+
+O horário de funcionamento do evento deverá obedecer ao horário indicado no alvará.
+
+
+Art. 11.
+
+As instalações para realização do evento deverão estar concluídas pelo menos 03 (três) dias úteis antes de seu início, para que possam ser vistoriadas pelos órgãos técnicos e fiscais do Município, sendo vedado o início do evento antes da vistoria e da expedição do Alvará de Funcionamento.
+
+
+Art. 12.
+
+As feiras itinerantes equiparam-se, para fins tributários, ao comércio eventual ou ambulante de que trata o Código Tributário Municipal.
+
+
+Art. 13.
+
+As feiras itinerantes estão sujeitas ao recolhimento das taxas de que trata o Código Tributário Municipal.
+
+
+Parágrafo único
+
+O pagamento das taxas a que se refere o Caput deste artigo deverá ser realizado até a data do requerimento do Alvará de que trata o artigo 5º.
+
+
+Art. 14.
+
+Será cobrada Taxa de Licença de Publicidade na forma da legislação em vigor, observadas as modalidades de veiculação publicitária que o interessado optar.
+
+
+Art. 15.
+
+Os comprovantes de pagamento dos impostos, taxas, tarifas e preços públicos poderão ser exigidos a qualquer momento pela fiscalização municipal, inclusive durante a realização do evento.
+
+
+Art. 16.
+
+O organizador do evento é responsável por verificar toda a documentação dos expositores, participantes e, em caso de descumprimento da legislação vigente, ele será corresponsável solidário com o infrator nas penalidades aplicadas.
+
+
+Art. 17.
+
+Ficam proibidas a exposição, o estoque e a comercialização das seguintes mercadorias nas feiras itinerantes:
+
+
+a)
+
+Mercadorias importadas sem a competente guia de liberação expedida pela Secretaria da Receita Federal e a regularização desta pelo Fisco Estadual, cujos documentos deverão estar em mãos do feirante para exibição à fiscalização;
+
+
+b)
+
+Mercadorias nacionais sem a documentação exigida por Lei;
+
+
+c)
+
+Fogos de artifícios e correlatos;
+
+
+d)
+
+Cigarros e produtos assemelhados ou correlatos.
+
+
+Art. 18.
+
+As normas contidas nesta Lei não se aplicam às Feiras de Artesanato, as quais serão organizadas, coordenadas e realizadas pelo Município.
+
+
+Art. 19.
+
+As despesas necessárias para instalação da feira itinerante, em local aberto ou fechado, correrão por conta exclusiva do respectivo Organizador.
+
+
+Art. 20.
+
+Fica autorizada a cobrança de ingresso para acesso ao local da feira itinerante.
+
+
+Parágrafo único
+
+Havendo cobrança de ingresso, incidirá ISSQN, nos termos do Código Tributário Municipal.
+
+
+Art. 21.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Bom Despacho, 14 de maio de 2.018, 106º ano de emancipação do Município.
+
+
+Fernando Cabral  
+Prefeito Municipal
+

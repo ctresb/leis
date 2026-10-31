@@ -1,0 +1,42 @@
+{
+  "host": "sapl.gloria.ba.leg.br",
+  "metadados_unicos_observados": 3,
+  "total_api_declarado": 3,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gloria.ba.leg.br/32cab4c3eab377494555300d4fdafcac4d54f61f918167bc33f85124321cf002.json",
+    "url": "https://sapl.gloria.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.gloria.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "097dbe412115ff51a02fd5cc57ba7765d7527af78b9a8f22ec781ef339434cb4",
+    "bytes": 951,
+    "capturado_em": "2026-10-28T12:41:05.079737-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gloria.ba.leg.br/1f43a9431005653fc7d6e652581dfa8b17203fa4d1caef7234c13aaec01df86e.json",
+    "url": "https://sapl.gloria.ba.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.gloria.ba.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "61d54d3d288d7620da5dde69953ac6962157a2e3585ae833384d3bf2f7f778ee",
+    "bytes": 750,
+    "capturado_em": "2026-10-28T12:41:04.181583-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gloria.ba.leg.br/51e8df6dfa8386cddc87f3fb99a17d67e1457f1c59f7879fe7c1037493010015.json",
+      "url": "https://sapl.gloria.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.gloria.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "961703c6c8f5df1aa98264a96d6cf74343b55eb92c097a443fd08e236b650f86",
+      "bytes": 2147,
+      "capturado_em": "2026-10-28T12:41:07.109853-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

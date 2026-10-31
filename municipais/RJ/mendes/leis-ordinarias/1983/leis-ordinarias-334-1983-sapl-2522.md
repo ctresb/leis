@@ -1,0 +1,73 @@
+---
+titulo: "Lei Municipal nº 334, de 16 de novembro de 1983"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Municipal"
+numero: "334"
+data: "1983-11-16"
+municipio: "Mendes"
+uf: "RJ"
+codigo_ibge: "3302809"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.mendes.rj.leg.br/norma/2522"
+fonte_texto: "https://sapl.mendes.rj.leg.br/media/sapl/public/normajuridica/1983/2522/lei_municipal_334-1983.pdf"
+sha256_fonte: "4c19bede34ab83c4613c2658949db231e74e86835c77bb0d00c4dfcb66fc3b6d"
+sha256_texto: "f785d7eafae66bbd864e9fd0f09c774adfca6fc0ef999d5c902bcbe9db9824e6"
+baixado_em: "2026-10-20"
+---
+
+# Lei Municipal nº 334, de 16 de novembro de 1983
+
+é
+
+" E
+
+ESTADO DO RIO DE JANEIRO CÂMARA MUNICIPAL DE MENDES
+
+be NOVEMBRO
+
+LEI MUNICIPAL No 334 DE 16
+
+EMENTA: Autoriza abertura de Crédito Adicional Suplementar.
+
+A CÂMARA MUNICIPAL TE MENDES decreta e eu sanciono a HS
+
+seguinte
+
+LEI MUNICIHAL q
+
+**Art. 1o** — Fica o Cha fe do Executivo Municipel autori zado à abrir Crédito Adicional rícitos 2 mena importência de crê Te 918.680,00 (SETE2A11HÕES, NOVICENTOS E DEZOITO MIL & SEISCEN .
+
+TOS E OITENTA CRUZEIROS), para reforço das seguintes Dotações or camentárias: PROGRAMA DE TRABALHO NATUREZA UA DESPESA FONTES VALOR GR$
+
+06070212.003 2001. 3111.00 oo 50.000,00 03070202, 002 2001.3120. 00 oo 200,.000;00 03070212. 002 2002. 3111.00 oo 50. 000,00 03080212,002 2003. 31111.00 oo 30.000,00 03080212,002 2003. 3413.00 oo 1.000.000,00 03080212.002 2003. 3120,00 . oo 500.000,00 15824952.006 2003. 32451.00 [019] 610.000,00 215824952.006 2003. 3452.00 oo 10.000,00 11653632,.002 2004. 3120,.00 oo 100.000,00 16070212,002 2005. 3W11.00 oo 50.009,00 08421882,.002 \* 2006. 3W11.00 oo 90.000,00 10070212,.002 2008. 3411.00 oo 3+ 900.000,00 10070212, 002 2008. 3132,.00 oo 1.328.680,00
+
+**Art. 2o** - Os recursds para atender o presente Crédi- to Adicional Suplementar corre à conta da reestimativa das Co tas do imposto Sobre Circulação de lercadorias — ICM e de Impos- to Sobre Transmissão de Bens Imd veis — ITBI, previstas para o corrente exercício, conforme Andxo 1, desta Lei. .
+
+**Art. 3o** - Esta Lei unicipal entrará em vigor na da ta de sua publicação, revogadas ess disposições em contrário. GABINETE DO PREFEITO MUNICIPAL IENDES, em 16 de Novembro
+
+ía, É Lual de 1983.
+
+RUBENS JOSÉ DE MACEDO -Prefeito Municipal-
+
+DIFERENÇA A SER IMPOSTO |. REESTINATIVA ESTINATIVA SUPLEMENTADA
+
+ICM T8.658.000,00 72.007. 000,00 6. 651.000,00
+
+ITBI 45527 o153,00 3.259.473,00 1.267.680,00
+
+TOTAL REESTIMADO 7.918.680,00
+
+CRÉDITO ADICIONAL SUFLTETNTAR GABINETE DO PREFEITO : "PROGRANA DE TRABALHO NATUREZA DA DESEZSA TONE VIDOR 06070212,003 2001. 3111,.00 — oo 50.000,00 03070202,002. | 2001.3120,.00 OO 200.000,00 250.000,00 SECRETARIA DA PREFEITURA ” o | PROGRAMA DE TRABALHO NATUREZA DA DESPESA FONTE VALOR 03070212 ,.002 2002,.3111,00 fere) 502.000,00 50.000,00 DIVISÃO DE FAZENDA PROGRAMA DE TRABALHO NATUREZA DA DESEFESA FONTE VALOR 03080212,002 2003.3111,00 DO 30.000,00 03080212,.002 2003.3113,.00 OO 1. 000.000,00 03080212 ,002 2003. 3120.00 OO 500.000,00 15824952.006 2003. 3251.00 oo 610.000,00 15824952,.006 2003. 3252.00 Ooo 10.000,00 2.150.000,00
+
+DIVISÃO DE INDUSTRIA, COMÉRCIO E SERVIÇOS —.— .— Ôa ss...
+
+Continuação,
+
+DIVISÃO DE VIAÇÃO, TRANSPORTE: E COMUNICAÇÃO PROGRAMA. DE TRABALHO NATUREZA DA: DESPESA FONTE VALOR: 16070212,.002 2005. 3111,00 OOo. 00 504000 ,
+
+DIVISÃO DE EDUCAÇÃO ECULTURA PROGRAMA DE TRABALHO NATUREZA DA DESPESA FONTE: VALOR OB421882,.002. 20062 3111,.00 OO 902000500 90.000,00
+
+DIVISÃO DE HABITAÇÃO E URBANISMO PROGRAMA DE TRABALHO NATUREZA: DA DESPESA. FONTE. VALOR: TOO70212, 002: | 2008.3111.00 OO 3.900.000,00 T0070212,.002 2008.3132,.00 OO 12328,680,00: 5.228.680,00 TOTAL DO CRÉDITO ADICIONAL SUPLEMENTAR
+
+OCOo/0CO0,.
+

@@ -1,0 +1,302 @@
+{
+  "host": "sapl.fozdoiguacu.pr.leg.br",
+  "metadados_unicos_observados": 2684,
+  "total_api_declarado": 2684,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2403,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/953ed885baaba34b04bfdf112ba5d54206cded234d7d1d5e1a4c512b4abd6dd9.json",
+    "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c184a4cc22c9e01bdaab61d837196f7f09fd4e555a2262a9ac314ad29eda75da",
+    "bytes": 959,
+    "capturado_em": "2026-10-28T11:16:03.993391-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/8505b16f2f1eb705b3ce944099074c56da593d57a8e957225829cafab7da6058.json",
+    "url": "https://sapl.fozdoiguacu.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a5e879f32459fce4829ac7f6f17c4098e90a16d968abb87b79d7950d998f8b87",
+    "bytes": 775,
+    "capturado_em": "2026-10-28T11:16:03.113080-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/24c831231a8dd9c88d9706937ca27ce67f4880195f7e209e70cf6e874fbd26e3.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d94103c4e9b18d747fdaeeb0fb3f9b8fe5aaf7ecc3fd9aa335bf468f0b8b904d",
+      "bytes": 66989,
+      "capturado_em": "2026-10-28T11:16:06.440850-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/170f0cc7478d18d24aca4375c5a2425e0ed4156f63c897d1ef3bd9809e4565af.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "874fa5d37619ebbbf252a6cd7c6c49218e7428c8013cd9b59457e171a5a8a540",
+      "bytes": 66451,
+      "capturado_em": "2026-10-28T11:19:09.985918-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/d9becd25abe8dbe5ee7ff101e8e3b6092b72b293327ea546284073c3943312df.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4694a889844a2d9f0a9016e30d2f74b798f94856f1186746acf7446562fc141b",
+      "bytes": 67394,
+      "capturado_em": "2026-10-28T11:21:59.234090-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/56542fedcd17e666c10bb70ad37d0b5a9cb13d213b31068cca669faa2aff7257.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d4b43e3544318332516612fd27ba3f6f03b66b91ed2fce143e0ade2f8a4e9b7b",
+      "bytes": 68882,
+      "capturado_em": "2026-10-28T11:24:47.041481-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/7e3f14d40a12c74d790a9079d3521d35f0342230ae1a0650e4b90fcee8a79b2a.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b215dd79016d5139bae992b0325c3fc32a8efe075dd204c8e51fb729f861b239",
+      "bytes": 66296,
+      "capturado_em": "2026-10-28T11:26:20.512434-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/2b26f2f02e14d3910ca2dd2719c1e25a7ccc756a9ead90a45b8bf64cd620cb85.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0d46dec7fc3fc701e69a5c67d5b63d807d6435c50558c9d07f77ca9703f84e57",
+      "bytes": 66431,
+      "capturado_em": "2026-10-28T11:29:11.808999-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/9d4870c1427810d60989c8c4d970e1730b304a9ee217196c20cf3d92a205220e.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b4b11aff6d25435684fd7838191622a9d99211563664363df1e0f99ff08e9724",
+      "bytes": 66043,
+      "capturado_em": "2026-10-28T11:31:38.020793-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/26ab997c4a3d39a939914a1f78580fbf7548214143ee13286572d26f187f8068.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2522fe30b6e05044fe8f1c4dccd5c8d50c17553ecc078d7271a7d0442fae39e2",
+      "bytes": 64519,
+      "capturado_em": "2026-10-28T11:34:35.510586-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/4af5f8c44b0ebe32263cb985d97791879e85719c0c2d029c8adcdfac682cd265.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "19ced94649f39cfd98060b7b015dea88cacf9468c0e08b428013b7ae5c54f71e",
+      "bytes": 64612,
+      "capturado_em": "2026-10-28T11:37:49.111588-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/386e7dca18b187492e322d4358ef4983db08e919762653925b64b726ea0a44dc.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "459802a154e2bcbe75657330cbdffedfcec7786be225d0976dc8abc04da05540",
+      "bytes": 66348,
+      "capturado_em": "2026-10-28T11:41:01.450670-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/3f81e04b09650d463b8dd162d09a2c9072f4c7186400f367aad8bc551b6a0b76.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "861abf2cad9508fd962425cfd4263ae04b1a07d8a332200d5f339b8838458a2f",
+      "bytes": 67253,
+      "capturado_em": "2026-10-28T11:44:16.928563-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/1efe4c210b169a2f10a7ac2276fe769acf4e511f436d79d7cb8be93a64427771.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "afb5d9b3484ddab13ee5f4030b31177bba5bed21d1138b6cb862ef01d83e4924",
+      "bytes": 68567,
+      "capturado_em": "2026-10-28T11:47:28.279910-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/95a64cf08a1ef0bafb05a08b5e1ef2454337e4f8f0a3b8024c84efb26678979b.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "934abeaec636bead98c71bea5251194ad0c95ffffa2e72130ea9cbc1aade0015",
+      "bytes": 68835,
+      "capturado_em": "2026-10-28T11:50:45.704110-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/9e14a5ec07932d6ed0381adfe6faebfa83518a05a90bc4827cca8c3a51dd5279.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b5623976659f87606c8f092d5306a1fb23b552a6229a7eb7d31f402c757949de",
+      "bytes": 68767,
+      "capturado_em": "2026-10-28T11:54:02.210212-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/39c644a166caf738a500ecd6021e1af1b682ef9b0787dfa792582788c990fc8a.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "01052a298b1a94893365aa0dad8e66461f14302326a37be6a32fe917405f2792",
+      "bytes": 67128,
+      "capturado_em": "2026-10-28T11:57:06.638789-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/a8fc4d5d815c6af7214edd980310b2cb07f05d9412ab033d7f505543a16cfb05.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8b011a0965a93a0b9c240342e47860650e2076365d45b2553f10949cbce9fdb0",
+      "bytes": 66260,
+      "capturado_em": "2026-10-28T12:00:09.596475-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/9967e9e0da69005835b131c4d551e5f467cf812db200215c6396adfa4a2e686d.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2e797a8175f6386c633d9ff348abd2a034188003eb1412fd3ec2d761c1f0ee47",
+      "bytes": 67603,
+      "capturado_em": "2026-10-28T12:03:35.028912-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/a33b4b6b32a9ae82fd10399e645cc633e51e22da1bf10b7f556b5e081d3f8947.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f43981fd845da406bcd2b2856994485dd7e7db4dd8b40e0d408d123f9413b888",
+      "bytes": 64665,
+      "capturado_em": "2026-10-28T12:06:55.707621-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/eb850ad38b83c0ef61bbf81f5d60f6d6667d8ffe3157ca7ef35b67858646e861.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "838e4ac83639b9d243298041dcefd4f0c1950af7bc4605919a46d16b2f01e03f",
+      "bytes": 63880,
+      "capturado_em": "2026-10-28T12:10:24.485140-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/d28965a0c3f238187756407073f942acf1778746a2925f0e1aec4025940d211c.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7524a61ff88a3d3c9509834edd082bc6f119f8c0cf4f768e09f62853472db8a7",
+      "bytes": 62495,
+      "capturado_em": "2026-10-28T12:14:02.411611-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/bafb3353be7495dceb5d026f90f5eec8037679a942c48fe76422d923bcd48a1a.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7cfb5db60b8e7d3f82114a2e77f11ed97f1d074cc646ffc2e5142e8ba5d17f91",
+      "bytes": 62001,
+      "capturado_em": "2026-10-28T12:17:32.631037-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/b43d98d066e903a1ab7d43e2c517bc6e778818030f5b2bc74fd94deab9e5ef71.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f3545e28fddc5e758db461f40a3b3e4cd48fd6cd78e7653a5fb327bdce91a291",
+      "bytes": 58363,
+      "capturado_em": "2026-10-28T12:20:59.927816-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/bda847a22137a6dd12b7c023b69373735a5b3747c9a6db6c3a14fbad45c8fd15.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3e1838076a80beab5a36db4a029e221aeb189aa42d3b234088769646470e40df",
+      "bytes": 57664,
+      "capturado_em": "2026-10-28T12:24:19.309396-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/796ccc82f91dc40b90b7b639033ecc93fca76be9d3f887c1df0426daaeda9936.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "49b1ae6f15e5a1d5b199873a270c493d1dc1c833cebb04f25d7679201615e69d",
+      "bytes": 53010,
+      "capturado_em": "2026-10-28T12:27:43.695996-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/b008449f1801cde902e00b8b440589d966693b46f48dae025838e725268f162c.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a597e51165c642b0b233a2e834b6e6e71ac189e84c528cbd1be73e602e796a15",
+      "bytes": 52342,
+      "capturado_em": "2026-10-28T12:31:06.709677-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/2cf69799cd0b35ebdd083c65fd1683fb81daabf7936e286db98441c5fd47bf63.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "621d3154615b83bceed2dc6ff565c4a1a2c99105133f09a8dec21a697d256045",
+      "bytes": 51365,
+      "capturado_em": "2026-10-28T12:34:28.376955-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/3c83b1023e0832775513717bff65ee247e22e3ae0115c914ea541d36c06c2bb4.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "efdfa84d03ad488080e5f6103542687060aa023b0bffddf9bd663ac83fcc5a97",
+      "bytes": 45247,
+      "capturado_em": "2026-10-28T12:38:03.308955-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

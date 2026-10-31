@@ -1,0 +1,158 @@
+---
+titulo: "Lei Ordinária nº 4, de 26 de novembro de 1947"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4"
+data: "1947-11-26"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/9"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/288/text"
+sha256_fonte: "9d096cac558a8e7cfd8cebd9462b7f0e0eb99785f6998aef24e61a5c540044b5"
+sha256_texto: "c9c31c3998bf648192760e202aaaa10d446385d9845f476a747c2c1b0d4df1b5"
+capturado_em_fonte: "2026-10-27T19:38:58.419442-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4, de 26 de novembro de 1947
+
+Orça a Receita e fixa a Despesa para o exercício de 1948
+
+
+O Prefeito Municipal de Biriguí, nos têrmos do inciso II, do Art. 3º, do **Ato das Disposições Constitucionais Transitórias, da Constituição Estadual** e de acôrdo com a **Resolução nº 1.177-M/47**, da Assembléia Legislativa de São Paulo, promulga a seguinte lei:
+
+
+#### CAPÍTULO I — Da Receita Geral
+
+
+Art. 1º.
+
+A Receita Geral do Município de **Biriguí**, para o exercício de 1948, é orçada em Cr$ 1.750.000,00 (um milhão, setecentos e cinquenta mil cruzeiros), e será arrecadada de conformidade com a legislação em vigor, obedecendo a seguinte classificação:
+
+
+§ 1º
+
+Receita Ordinária:
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th>Da Séde</th><th>Soma</th><th>Receita efetiva</th></tr><tr><td><br></td><td><strong>A - Receita Tributária</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>0</td><td><strong>a) Impostos</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>0-11-1</td><td>Imposto Territorial Urbano</td><td>Cr$ 30.000,00</td><td>Cr$ 30.000,00</td><td>Cr$ 30.000,00</td></tr><tr><td>0-12-1</td><td>Imposto Predial Urbano</td><td>Cr$ 300.000,00</td><td>Cr$ 300.000,00</td><td>Cr$ 300.000,00</td></tr><tr><td>0-17-3</td><td>Imposto de Industrias e Profissões<br></td><td>Cr$ 700.000,00</td><td>Cr$ 700.000,00</td><td>Cr$ 700.000,00</td></tr><tr><td>0-18-3</td><td>Imposto de Licença<br></td><td>Cr$ 100.000,00</td><td>Cr$ 100.000,00</td><td>Cr$ 100.000,00</td></tr><tr><td>0-27-3</td><td>Imposto sobre Jogos e Diversões<br></td><td>Cr$ 10.000,00</td><td>Cr$ 10.000,00</td><td>Cr$ 10.000,00</td></tr><tr><td><br></td><td><strong>Total de Impostos</strong></td><td><br></td><td><strong>Cr$ 1.140.000,00</strong></td><td><br></td></tr><tr><td>1</td><td><strong>b) Taxas</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>1-11-2</td><td>Taxa de Conservação de Estradas de Rodagem</td><td>Cr$ 90.000,00</td><td>Cr$ 90.000,00</td><td>Cr$ 90.000,00</td></tr><tr><td>1-21-4</td><td>Taxa de Expediente</td><td>Cr$ 10.000,00</td><td>Cr$ 10.000,00</td><td>Cr$ 10.000,00</td></tr><tr><td>1-23-4</td><td>Taxa de Aferição de Pesos e Medidas</td><td>Cr$ 2.000,00</td><td>Cr$ 2.000,00</td><td>Cr$ 2.000,00</td></tr><tr><td>1-24-1</td><td>Taxa de Remoção de Lixo Domiciliar</td><td>Cr$ 36.000,00</td><td>Cr$ 36.000,00</td><td>Cr$ 36.000,00</td></tr><tr><td>1-24-1</td><td>Taxa de Limpeza das Vias Públicas</td><td>Cr$ 20.000,00</td><td>Cr$ 20.000,00</td><td>Cr$ 20.000,00</td></tr><tr><td>1-25-1</td><td>Taxa de Execução do Calçamento</td><td>Cr$ 20.000,00</td><td>Cr$ 20.000,00</td><td>Cr$ 20.000,00</td></tr><tr><td>1-25-1</td><td>Taxa de Conservação de Guias e Sargetas</td><td>Cr$ 7.000,00</td><td>Cr$ 7.000,00</td><td>Cr$ 7.000,00</td></tr><tr><td><br></td><td><strong>Total de Taxas</strong></td><td><br></td><td><strong>Cr$ 185.000,00</strong></td><td><br></td></tr><tr><td><br></td><td><strong>Total da Receita Tributária</strong></td><td><br></td><td><strong>Cr$ 1.325.000,00</strong></td><td><br></td></tr><tr><td>2</td><td><strong>B - Receita Patrimonial</strong><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td>2-02-0</td><td>Renda de Capitais</td><td><br></td><td><br></td><td><br></td></tr><tr><td>2-02-0</td><td>Juros de Depósitos</td><td>Cr$ 1.000,00</td><td>Cr$ 1.000,00</td><td>Cr$ 1.000,00</td></tr><tr><td><br></td><td><strong>Total da Receita Patrimonial</strong></td><td><br></td><td><strong>Cr$ 1.000,00</strong></td><td><br></td></tr><tr><td>3</td><td><strong>C - Receita Industrial</strong><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td>3-03-0</td><td>Taxa de Consumo de Água<br></td><td>Cr$ 220.000,00</td><td>Cr$ 220.000,00</td><td>Cr$ 220.000,00</td></tr><tr><td>3-03-0</td><td>Taxa de Ligação de Água</td><td>Cr$ 4.000,00</td><td>Cr$ 4.000,00</td><td>Cr$ 4.000,00</td></tr><tr><td><br></td><td><strong>Total da Receita Industrial</strong></td><td><br></td><td><strong>Cr$ 224.000,00</strong></td><td><br></td></tr><tr><td><br></td><td><strong>D - Receitas Diversas</strong><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td>4</td><td><strong>Receita de Mercados, Feiras e Matadouros</strong><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td>4-11-0</td><td>Receita de Matadouro<br></td><td>Cr$ 90.000,00</td><td>Cr$ 90.000,00</td><td>Cr$ 90.000,00</td></tr><tr><td>4-12-0</td><td>Receita de Cemitérios</td><td>Cr$ 35.000,00</td><td>Cr$ 35.000,00</td><td>Cr$ 35.000,00</td></tr><tr><td><br></td><td><strong>Total das Receitas Diversas</strong></td><td><br></td><td><strong>Cr$ 125.000,00</strong></td><td><br></td></tr></tbody></table>
+
+
+§ 2º
+
+Receita Extraordinária:
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th>Da Séde</th><th>Soma</th><th>Receita efetiva</th><th>Mutações patrimoniais</th></tr><tr><td>6-12-0</td><td>Cobrança da Dívida Ativa</td><td>Cr$ 60.000,00</td><td>Cr$ 60.000,00</td><td><br></td><td>Cr$ 60.000,00</td></tr><tr><td>6-21-0</td><td>Multas</td><td>Cr$ 2.000,00</td><td>Cr$ 2.000,00</td><td>Cr$ 2.000,00</td><td><br></td></tr><tr><td>6-23-0</td><td>Eventuais</td><td>Cr$ 13.000,00</td><td>Cr$ 13.000,00</td><td>Cr$ 13.000,00</td><td><br></td></tr><tr><td><br></td><td><strong>Total da Receita Extraordinária</strong></td><td><br></td><td><strong>Cr$ 75.000,00</strong></td><td><br></td><td><br></td></tr><tr><td><br></td><td><strong>Total Geral</strong></td><td><br></td><td><strong>Cr$ 1.750.000,00</strong></td><td><strong>Cr$ 1.690.000,00</strong></td><td><strong>Cr$ 60.000,00</strong></td></tr></tbody></table>
+
+
+#### CAPÍTULO II — Da Despesa Geral
+
+
+Art. 2º.
+
+A Despesa Geral do Município de **Biriguí**, para o exercício de 1948, é fixada em Cr$ 1.750.000,00 (um milhão, setecentos e cinquenta mil cruzeiros), e será realizada de conformidade com a legislação em vigor, obedecendo a seguinte classificação:
+
+
+§ 1º
+
+Administração Municipal
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th></tr><tr><td><br></td><td><strong>Poder Executivo</strong></td><td><br></td><td><br></td></tr><tr><td>8-02-0</td><td>Pessoal Fixo</td><td>Cr$ 39.600,00</td><td>Cr$ 39.600,00</td></tr><tr><td>8-02-4</td><td>Despesas Diversas</td><td>Cr$ 2.000,00</td><td>Cr$ 2.000,00</td></tr><tr><td><br></td><td><strong>Distrito da Séde</strong></td><td><br></td><td><br></td></tr><tr><td>8-07-0</td><td>Pessoal Fixo</td><td>Cr$ 50.000,00</td><td>Cr$ 50.000,00</td></tr><tr><td>8-09-0</td><td>Pessoal Fixo</td><td>Cr$ 123.600,000</td><td>Cr$ 123.600,000</td></tr><tr><td>8-09-1</td><td>Pessoal Variável</td><td>Cr$ 18.600,00</td><td>Cr$ 18.600,00</td></tr><tr><td>8-09-3</td><td>Material de Consumo</td><td>Cr$ 50.000,00</td><td>Cr$ 50.000,00</td></tr><tr><td>8-03-4</td><td>Despesas Diversas</td><td>Cr$ 12.700,000</td><td>Cr$ 12.700,000</td></tr><tr><td>8-13-0</td><td>Pessoal Fixo</td><td>Cr$ 43.560,00</td><td>Cr$ 43.560,00</td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 340.060,00</strong></td><td><br></td></tr></tbody></table>
+
+
+§ 2º
+
+Serviços Publicos Municipais
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th></tr><tr><td><br></td><td><strong>Matadouro</strong></td><td><br></td><td><br></td></tr><tr><td>8-89-0</td><td>Pessoal Fixo</td><td>Cr$ 25.200,00</td><td>Cr$ 25.200,00</td></tr><tr><td>8-89-3</td><td>Material de Consumo</td><td>Cr$ 10.000,00</td><td>Cr$ 10.000,00</td></tr><tr><td><br></td><td><strong>Cemitério</strong></td><td><br></td><td><br></td></tr><tr><td>8-89-0</td><td>Pessoal Fixo</td><td>Cr$ 31.200,00</td><td>Cr$ 31.200,00</td></tr><tr><td>8-89-3</td><td>Material de Consumo</td><td>Cr$ 3.000,00</td><td>Cr$ 3.000,00</td></tr><tr><td><br></td><td><strong>Limpeza Pública</strong></td><td><br></td><td><br></td></tr><tr><td>8-85-0</td><td>Pessoal Fixo</td><td>Cr$ 12.000,00</td><td>Cr$ 12.000,00</td></tr><tr><td>8-85-1</td><td>Pessoal Variável</td><td>Cr$ 60.000,00</td><td>Cr$ 60.000,00</td></tr><tr><td>8-85-3</td><td>Material de Consumo</td><td>Cr$ 20.000,00</td><td>Cr$ 20.000,00</td></tr><tr><td>8-85-4</td><td>Despesas Diversas</td><td>Cr$ 1.800,00</td><td>Cr$ 1.800,00</td></tr><tr><td><br></td><td><strong>Serviços Industriais</strong></td><td><br></td><td><br></td></tr><tr><td>8-63-0</td><td>Pessoal Fixo</td><td>Cr$ 117.000,00</td><td>Cr$ 117.000,00</td></tr><tr><td>8-63-1</td><td>Pessoal Variável</td><td>Cr$ 25.000,00</td><td>Cr$ 25.000,00</td></tr><tr><td>8-63-3</td><td>Material de Consumo</td><td>Cr$ 28.000,00</td><td>Cr$ 28.000,00</td></tr><tr><td>8-63-4</td><td>Despesas Diversas</td><td>Cr$ 42.000,00</td><td>Cr$ 42.000,00</td></tr><tr><td><br></td><td><strong>Jardins Públicos</strong></td><td><br></td><td><br></td></tr><tr><td>8-81-0</td><td>Pessoal Fixo</td><td>Cr$ 53.400,00</td><td>Cr$ 53.400,00</td></tr><tr><td>8-81-1</td><td>Pessoal Variável</td><td>Cr$ 25.000,00</td><td>Cr$ 25.000,00</td></tr><tr><td>8-81-3</td><td>Material de Consumo</td><td>Cr$ 2.000,00</td><td>Cr$ 2.000,00</td></tr><tr><td><br></td><td><strong>Iluminação Pública</strong></td><td><br></td><td><br></td></tr><tr><td>8-88-4</td><td>Despesas Diversas</td><td>Cr$ 65.000,00</td><td>Cr$ 65.000,00</td></tr><tr><td><br></td><td><strong>Serviços Diversos</strong></td><td><br></td><td><br></td></tr><tr><td>8-89-1</td><td>Pessoal Variável</td><td>Cr$ 34.000,00</td><td>Cr$ 34.000,00</td></tr><tr><td>8-89-3</td><td>Material de Consumo</td><td>Cr$ 3.000,00</td><td>Cr$ 3.000,00</td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 557.600,00</strong></td><td><br></td></tr></tbody></table>
+
+
+§ 3º
+
+Obras e Melhoramentos Públicos
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th></tr><tr><td><br></td><td><strong>Conservação de Vias Públicas</strong></td><td><br></td><td><br></td></tr><tr><td>8-81-1</td><td>Pessoal Variável</td><td>Cr$ 90.000,00</td><td>Cr$ 90.000,00</td></tr><tr><td>8-81-3</td><td>Material de Consumo</td><td>Cr$ 90.000,00</td><td>Cr$ 90.000,00</td></tr><tr><td><br></td><td><strong>Conservação de Rodovias</strong></td><td><br></td><td><br></td></tr><tr><td>8-82-0</td><td>Pessoal Fixo</td><td>Cr$ 29.000,00</td><td>Cr$ 29.000,00</td></tr><tr><td>8-82-1</td><td>Pessoal Variável</td><td>Cr$ 41.160,00</td><td>Cr$ 41.160,00</td></tr><tr><td>8-82-3</td><td>Material de Consumo</td><td>Cr$ 38.800,00</td><td>Cr$ 38.000,00</td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 288.960,00</strong></td><td><br></td></tr></tbody></table>
+
+
+§ 4º
+
+Serviços Públicos de Interesse Comum com o Estado
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th><th>Mutações patrimoniais</th></tr><tr><td><br></td><td><strong>Higiene</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-48-4</td><td>Despesas Diversas</td><td>Cr$ 6.000,00</td><td>Cr$ 6.000,00</td><td><br></td></tr><tr><td><br></td><td><strong>Escolas Municipais</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-33-0</td><td>Pessoal Fixo</td><td>Cr$ 110.400,00</td><td>Cr$ 110.400,00</td><td><br></td></tr><tr><td>8-33-2</td><td>Material Permanente</td><td>Cr$ 64.640,00</td><td><br></td><td>Cr$ 64.640,00</td></tr><tr><td>8-38-4</td><td>Despesas Diversas</td><td>Cr$ 70.960,00</td><td>Cr$ 70.960,00</td><td><br></td></tr><tr><td><br></td><td><strong>Segurança Pública</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-28-4</td><td>Despesas Diversas</td><td>Cr$ 12.000,00</td><td>Cr$ 12.000,00</td><td><br></td></tr><tr><td><br></td><td><strong>Órgãos Culturais</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-34-0</td><td>Pessoal Fixo</td><td>Cr$ 4.800,00</td><td>Cr$ 4.800,00</td><td><br></td></tr><tr><td>8-34-4</td><td>Despesas Diversas</td><td>Cr$ 2.160,00</td><td>Cr$ 2.160,00</td><td><br></td></tr><tr><td>8-38-4</td><td>Despesas Diversas</td><td>Cr$ 2.400,00</td><td>Cr$ 2.400,00</td><td><br></td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 273.360,00</strong></td><td><br></td><td><br></td></tr></tbody></table>
+
+
+§ 5º
+
+Dívidas
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th><th>Mutações patrimoniais</th></tr><tr><td><br></td><td><strong>Dívida Consolidada</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-73-4</td><td>Despesas Diversas</td><td>Cr$ 49.955,70</td><td><br></td><td>Cr$ 49.955,70</td></tr><tr><td>8-74-4</td><td>Despesas Diversas</td><td>Cr$ 23.550,00</td><td>Cr$ 23.550,00</td><td><br></td></tr><tr><td>8-75-4</td><td>Despesas Diversas</td><td>Cr$ 900,00</td><td>Cr$ 900,00</td><td><br></td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 74.405,70</strong></td><td><br></td><td><br></td></tr></tbody></table>
+
+
+§ 6º
+
+Auxílios e Subvenções
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th></tr><tr><td><br></td><td><strong>Assistência Pública</strong></td><td><br></td><td><br></td></tr><tr><td>8-48-4</td><td>Despesas Diversas</td><td>Cr$ 10.000,00</td><td>Cr$ 10.000,00</td></tr><tr><td><br></td><td><strong>Assistência Social</strong></td><td><br></td><td><br></td></tr><tr><td>8-29-4</td><td>Despesas Diversas</td><td>Cr$ 78.200,00</td><td>Cr$ 78.200,00</td></tr><tr><td><br></td><td><strong>Diversões Públicas</strong></td><td><br></td><td><br></td></tr><tr><td>8-38-4</td><td>Despesas Diversas</td><td>Cr$ 28.000,00</td><td>Cr$ 28.000,00</td></tr><tr><td><br></td><td><strong>Auxílios Diversos</strong></td><td><br></td><td><br></td></tr><tr><td>8-98-4</td><td>Despesas Diversas</td><td>Cr$ 39.000,00</td><td>Cr$ 39.000,00</td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 155.200,00</strong></td><td><br></td></tr></tbody></table>
+
+
+§ 7º
+
+Aposentadorias e Pensões
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th></tr><tr><td><br></td><td><strong>Contribuição para Previdência</strong></td><td><br></td><td><br></td></tr><tr><td>8-91-4</td><td>Despesas Diversas</td><td>Cr$ 13.000,00</td><td>Cr$ 13.000,00</td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 13.000,00</strong></td><td><br></td></tr></tbody></table>
+
+
+§ 8º
+
+Despesas Judiciais
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th></tr><tr><td><br></td><td><strong>Executivos Fiscais</strong></td><td><br></td><td><br></td></tr><tr><td>8-13-4</td><td>Despesas Diversas</td><td>Cr$ 10.000,00</td><td>Cr$ 10.000,00</td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 10.000,00</strong></td><td><br></td></tr></tbody></table>
+
+
+§ 9º
+
+Despesas Diversas
+
+
+<table><tbody><tr><th>C.G.</th><th><br></th><th><br></th><th>Despesa efetiva</th><th>Mutações patrimoniais</th></tr><tr><td><br></td><td><strong>Indenizações e Restituições</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-92-4</td><td>Despesas Diversas</td><td>Cr$ 3.000,00</td><td>Cr$ 3.000,00</td><td><br></td></tr><tr><td><br></td><td><strong>Seguros e Acidentes</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-94-4</td><td>Despesas Diversas</td><td>Cr$ 6.000,00</td><td>Cr$ 6.000,00</td><td><br></td></tr><tr><td><br></td><td><strong>Eventuais</strong></td><td><br></td><td><br></td><td><br></td></tr><tr><td>8-99-4</td><td>Despesas Diversas</td><td>Cr$ 28.414,30</td><td>Cr$ 28.414,30</td><td><br></td></tr><tr><td><br></td><td><strong>Total do Parágrafo</strong></td><td><strong>Cr$ 37.414,30</strong></td><td><br></td><td><br></td></tr><tr><td><br></td><td><strong>Total Geral</strong><br></td><td><strong>Cr$ 1.750,000,00</strong></td><td><strong>Cr$ 1.635.404,30</strong><br></td><td><strong>Cr$ 114.595,70</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Depende de autorização legislativa qualquer pagamento pelas verbas de Subvenções, Contribuições e Auxílios previstas na presente lei.
+
+
+Parágrafo único
+
+A autorização legislativa a que se refere o presente artigo dependerá do cumprimento das exigências constantes do Decreto-Lei que regulamenta a cooperação financeira do Municipio com as entidades que prestam assistência social ou cultural.
+
+
+Art. 4º.
+
+Esta lei entrará em vigor no dia 1º de Janeiro de 1948, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Biriguí, em 26 de Novembro de 1947.
+
+**Joaquim Baptista de Oliveira Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura, na mesma data.
+
+**Irmgard A. P. Stuhr Coradazzi Secretária Interina da Prefeitura**
+
+Registrada na data supra, por mim, Irmgard A. P. Stuhr Coradazzi, Secretária Interina da Prefeitura, que a conferi e subscrevo.
+

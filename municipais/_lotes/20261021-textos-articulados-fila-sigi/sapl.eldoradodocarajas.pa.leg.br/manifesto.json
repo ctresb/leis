@@ -1,0 +1,42 @@
+{
+  "host": "sapl.eldoradodocarajas.pa.leg.br",
+  "metadados_unicos_observados": 7,
+  "total_api_declarado": 7,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eldoradodocarajas.pa.leg.br/82ca0bf050991d26c32c6ba99931a63b32efbdb41b85db929a0267071ffaa40c.json",
+    "url": "https://sapl.eldoradodocarajas.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.eldoradodocarajas.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "326f65a5c879aee7bbe531e00e78b4beb9f945f48764d7b7fe3e6f613cd9a45c",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:26:11.704655-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eldoradodocarajas.pa.leg.br/cf94f3d9dd1dd178504143ae2260771360d392c947fdcce5e40ac19adbf0ef19.json",
+    "url": "https://sapl.eldoradodocarajas.pa.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.eldoradodocarajas.pa.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1899d2ee04efc2c9761078203125582ac1fe3031d6b8946e468f4198d7064523",
+    "bytes": 812,
+    "capturado_em": "2026-10-28T10:26:10.782669-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eldoradodocarajas.pa.leg.br/cac10a79b788a045ab72e2557279bd1986e22b076742c65e4d054c483356ce9d.json",
+      "url": "https://sapl.eldoradodocarajas.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.eldoradodocarajas.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c3a587bc5273d179111ab63999e7553f9de3350720fb523a37487a9634ba0a61",
+      "bytes": 5230,
+      "capturado_em": "2026-10-28T10:26:13.734111-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

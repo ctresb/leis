@@ -1,0 +1,57 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/1/lei_2.393_de_11-02-2014_-_anexo_com_numeracoes_de__zE66qAu.pdf da norma Lei Ordinária nº 2.393, de 11 de fevereiro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Numerações de Ações de PPA e LOA.",
+      "anexo_arquivo": "http://sapl.bomdespacho.mg.leg.br/media/sapl/public/anexonormajuridica/2014/1/lei_2.393_de_11-02-2014_-_anexo_com_numeracoes_de__zE66qAu.pdf",
+      "ano": 2014,
+      "norma": 106
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/lei_2.718_de_04-03-2020_-_altera_a_lei_2.708_de_13_de_dezembro_de_2.019_que_da_denominacao_a_logradouro_publico_e_da_outras_providencias.pdf da norma Lei Ordinária nº 2.708, de 13 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Rua Mário Lúcio Camilo",
+      "anexo_arquivo": "http://sapl.bomdespacho.mg.leg.br/media/sapl/public/anexonormajuridica/2019/2/lei_2.718_de_04-03-2020_-_altera_a_lei_2.708_de_13_de_dezembro_de_2.019_que_da_denominacao_a_logradouro_publico_e_da_outras_providencias.pdf",
+      "ano": 2019,
+      "norma": 1278
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/3/plano_saneamento_municipal_2015_-1a_parte.pdf da norma Lei Ordinária nº 2.514, de 12 de novembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo a Lei Municipal nº 2.514/2015",
+      "anexo_arquivo": "http://sapl.bomdespacho.mg.leg.br/media/sapl/public/anexonormajuridica/2015/3/plano_saneamento_municipal_2015_-1a_parte.pdf",
+      "ano": 2015,
+      "norma": 230
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/4/plano_saneamento_municipal_2015_-2a_parte.pdf da norma Lei Ordinária nº 2.514, de 12 de novembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomdespacho.mg.leg.br/media/sapl/public/anexonormajuridica/2015/4/plano_saneamento_municipal_2015_-2a_parte.pdf",
+      "ano": 2015,
+      "norma": 230
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomdespacho.mg.leg.br/89deccf47f18a2d52cd096893b4f0ac59148885d6c6d5026f5b82db63ebd0239.json",
+      "url": "https://sapl.bomdespacho.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "24bd05628e241ac0f6fc5e6e04a06f40ff4360bd057e4679eca2b4b0371a4c18",
+      "capturado_em": "2026-10-20T20:50:31.183499",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.bomdespacho.mg.leg.br/89deccf47f18a2d52cd096893b4f0ac59148885d6c6d5026f5b82db63ebd0239.json"
+    }
+  ]
+}

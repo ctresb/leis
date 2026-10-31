@@ -1,0 +1,986 @@
+---
+titulo: "LEI ORDINÁRIA nº 546, de 13 de novembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "546"
+data: "2023-11-13"
+municipio: "Alvorada do Norte"
+uf: "GO"
+codigo_ibge: "5200803"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.alvoradadonorte.go.leg.br/norma/562"
+fonte_texto: "https://sapl.alvoradadonorte.go.leg.br/ta/24/text"
+sha256_fonte: "a63337bb995c11998b406e89860376d1efcc0cafd8c1dc5c62e77bcc62bdbe61"
+sha256_texto: "98cded2a51cb1c7436925c430cc10fa0b656a51382d5349c1b8fa9de5d754318"
+capturado_em_fonte: "2026-10-21T05:35:17.186491-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 546, de 13 de novembro de 2023
+
+"Reestrutura a organização administrativa do Regime Próprio de Previdência Social do Município de Alvorada do Norte, revoga artigos da Lei Municipal nº 269, de 11 de junho de 2007, e dá outras providências."
+
+
+A PREFEITA MUNICIPAL DE ALVORADA DO NORTE, Estado de Goiás, no uso das atribuições legais que lhe são conferidas, faz saber que a Câmara Municipal de Vereadores aprovou e ela sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — Da Organização do RPPS
+
+
+Art. 1º.
+
+A organização do FUNPAN será composta pela seguinte estrutura:
+
+
+I –
+
+Diretoria Executiva - DE;
+
+
+II –
+
+Conselho Deliberativo de Previdência - CDP;
+
+
+III –
+
+Conselho Fiscal de Previdência - CFP;
+
+
+IV –
+
+Comitê de Investimentos - CI.
+
+
+##### Seção I — Diretoria Executiva
+
+
+Art. 2º.
+
+O Prefeito Municipal nomeará uma Diretoria Executiva composta pelo Gestor do RPPS, Gestor de Recursos, um Tesoureiro e um Secretário, para administrar, nos termos desta Lei e da Lei Municipal nº 269/2007, o Fundo de Previdência Social, com mandato de 4 (quatro) anos, podendo ser renovado de forma sucessiva, observadas ainda as disposições da Lei Federal nº 4.320, de 17 de março de 1.964.
+
+
+Art. 3º.
+
+As funções de Gestor do RPPS e de Gestor de Recursos podem ser exercidas pela mesma pessoa, que terá necessariamente que ser um segurado do Regime Próprio de Previdência Social do Município de Alvorada do Norte, indicado pelo Chefe do Poder Executivo, cuja remuneração e os encargos sociais inerentes à nomeação correrão por conta do Fundo Municipal de Previdência ou do Poder Executivo.
+
+
+Art. 4º.
+
+O tesoureiro e o secretário, que terão que ser necessariamente segurados do Regime Próprio de Previdência Social do Município de Alvorada do Norte, serão indicados pelo Chefe do Poder Executivo.
+
+
+Art. 5º.
+
+Os membros da Diretoria Executiva, para sua nomeação e permanência na função, deverão cumprir cumulativamente os seguintes requisitos:
+
+
+I –
+
+não ter sofrido condenação criminal ou incidido em alguma das demais situações de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar;
+
+
+II –
+
+possuir certificação, por meio de processo realizado por entidade certificadora para comprovação de atendimento e verificação de conformidade com os requisitos técnicos necessários para o exercício de determinado cargo ou função, observadas as exigências da Secretaria de Previdência;
+
+
+III –
+
+possuir comprovada experiência de, no mínimo, 2 (dois) anos, no exercício de atividade nas áreas financeira, administrativa, contábil, jurídica, de fiscalização, atuarial ou de auditoria; e
+
+
+IV –
+
+ter formação acadêmica em nível superior.
+
+
+§ 1º
+
+A comprovação do requisito de que trata o inciso I do caput deste artigo será exigida a cada 2 (dois) anos, observados os seguintes parâmetros:
+
+
+I –
+
+a inexistência de condenação criminal, inclusive para os delitos previstos no inciso I do art. 1° da Lei Complementar nº 64, de 1990, mediante apresentação de certidões negativas de antecedentes criminais da Justiça Estadual e da Justiça Federal competentes; e
+
+
+II –
+
+no que se refere às demais situações previstas no inciso I do art. 1° da Lei Complementar n° 64, de 1990, mediante declaração de não ter incidido em alguma das situações ali previstas, conforme modelo de declaração disponibilizado pela SPREV na página da Previdência Social na Internet.
+
+
+§ 2º
+
+Em caso de ocorrência das situações de que trata o § 1º deste artigo, os profissionais deixarão de ser considerados como habilitados para as correspondentes funções desde a data de implementação do ato ou fato obstativo.
+
+
+§ 3º
+
+A comprovação do requisito de que trata o inciso II do caput deste artigo deverá observar as exigências da Secretaria de Previdência quanto a quantidade mínima de membros certificados, quanto a data de limite para comprovação da certificação e quanto aos níveis de certificação.
+
+
+§ 4º
+
+Outros requisitos para nomeação e permanência dos membros da Diretoria Executiva poderão ser disciplinados por Decreto do Chefe do Poder Executivo, inclusive em caso de atualização das normas que disciplinam estes critérios.
+
+
+Art. 6º.
+
+O Secretário será o responsável por lavrar as atas da Diretoria Executiva, do Conselho Deliberativo de Previdência, do Conselho Fiscal de Previdência e do Comitê de Investimentos.
+
+
+Art. 7º.
+
+O Gestor do RPPS e o Tesoureiro serão responsáveis pelas assinaturas eletrônicas de transferências, TED/DOC, PIX e dos cheques das contas bancárias em nome do Fundo Municipal de Previdência.
+
+
+Art. 8º.
+
+O Gestor do RPPS tem as seguintes atribuições, entre outras de natureza específica:
+
+
+I –
+
+administrar, gerenciar e exercer as atividades da gestão do FUNPAN;
+
+
+II –
+
+garantir o cumprimento do plano de benefício do RPPS, observados os critérios estabelecidos na presente lei;
+
+
+III –
+
+administrar, nos termos da presente lei, o FUNPAN através da Diretoria Executiva composta de Gestor do RPPS, Gestor de Recursos, um Tesoureiro e um Secretário;
+
+
+IV –
+
+gerenciar e acompanhar as atividades dos colaboradores em suas atribuições;
+
+
+V –
+
+conferir e autorizar o pagamento da folha de pagamento dos aposentados e pensionistas;
+
+
+VI –
+
+conferir e autorizar o pagamento dos consignados;
+
+
+VII –
+
+formalizar e acompanhar, até a conclusão, os processos de aposentadorias e pensões;
+
+
+VIII –
+
+administrar, acompanhar e controlar o sistema econômico e financeiro do FUNPAN;
+
+
+IX –
+
+acompanhar e fiscalizar as prestações de serviços das empresas de assessoria ou consultoria jurídica e assessoria contábil;
+
+
+X –
+
+garantir o pleno acesso dos segurados às informações relativas à gestão do FUNPAN;
+
+
+XI –
+
+levantar eventuais débitos que o município de Alvorada do Norte possa ter para com o FUNPAN, apresentar ao Conselho Deliberativo de Previdência - CDP e providenciar a cobrança junto ao prefeito municipal para a realização do pagamento;
+
+
+XII –
+
+verificar diariamente os extratos bancários das contas do FUNPAN;
+
+
+XIII –
+
+acompanhar e cobrar os repasses das contribuições previdenciárias do FUNPAN dos servidores cedidos a outros municípios;
+
+
+XIV –
+
+comparecer às reuniões, junto com a consultoria/assessoria jurídica;
+
+
+XV –
+
+informar ao Conselho Deliberativo de Previdência - CDP a situação de inadimplência dos órgãos e da Prefeitura para com o FUNPAN;
+
+
+XVI –
+
+elaborar e encaminhar banco de dados para confecção do cálculo atuarial anualmente;
+
+
+XVII –
+
+proceder, no âmbito FUNPAN, a gestão e o controle financeiro dos recursos orçamentários previstos na sua Unidade, bem como a gestão de pessoas e recursos materiais existentes, em consonância com as diretrizes e regulamentos emanados do Chefe do Poder Executivo;
+
+
+XVIII –
+
+outras atribuições na sua área de atuação que venham a ser delegadas pelo Chefe do Poder Executivo ou por aprovação do Conselho Deliberativo de Previdência - CDP.
+
+
+Art. 9º.
+
+O Gestor de Recursos tem as seguintes atribuições, entre outras de natureza específica:
+
+
+I –
+
+proceder às aplicações financeiras do FUNPAN, na forma da lei, e acompanhá-las;
+
+
+II –
+
+fornecer relatórios ou informações (extratos bancários, aplicações e valores recebidos) à consultoria/assessoria jurídica, contábil e de investimentos, para as devidas informações;
+
+
+III –
+
+elaborar juntamente com o consultor de investimentos a política de investimentos anualmente e acompanhar os relatórios trimestrais de resultados da aplicação para tomadas de decisões em conjunto com o Comitê de Investimentos - CI;
+
+
+##### Seção II — Do Conselho Deliberativo de Previdência
+
+
+Art. 10.
+
+Fica instituído o Conselho Deliberativo de Previdência – CDP, órgão superior de deliberação colegiada, composto pelos seguintes membros:
+
+
+I –
+
+01(um) presidente, necessariamente servidor efetivo;
+
+
+II –
+
+01 (um) representante do Poder Executivo;
+
+
+III –
+
+01 (um) representante do Poder Legislativo;
+
+
+IV –
+
+01 (um) representante dos servidores ativos;
+
+
+V –
+
+01 (um) representante dos inativos e pensionistas.
+
+
+§ 1º
+
+Os membros do CDP terão mandatos de 04 (quatro) anos, permitida a recondução de forma sucessiva.
+
+
+§ 2º
+
+Cada membro terá um suplente com igual período de mandato do titular.
+
+
+§ 3º
+
+Os membros suplentes terão participação com direito a voto somente na ausência do seu titular.
+
+
+§ 4º
+
+Os membros titulares do CDP e respectivos suplentes serão escolhidos da seguinte forma:
+
+
+I –
+
+o presidente, que terá voto de qualidade, será indicado pelo Chefe do Poder Executivo, e deverá ser necessariamente servidor efetivo.
+
+
+II –
+
+os representantes do Poder Executivo e do Legislativo serão indicados pelos respectivos poderes; e
+
+
+III –
+
+os representantes dos servidores ativos, dos inativos e pensionistas, eleitos entre seus pares, serão indicados pelos sindicatos ou associações correspondentes, ou ainda, por uma comissão de representação, caso não haja sindicato ou associação.
+
+
+§ 5º
+
+Os membros do CDP não serão destituíveis ad nutum, e somente podem ser afastados de suas funções a pedido ou, depois de julgados em processo administrativo, se culpados por falta grave ou infração punível com demissão, ou ainda em caso de vacância, assim entendida a ausência não justificada em três reuniões consecutivas ou em quatro intercaladas no mesmo ano.
+
+
+Art. 11.
+
+O CDP reunir-se-á, ordinariamente, em sessões mensais e, extraordinariamente, quando convocado pelo presidente ou por, pelo menos, três de seus membros, com antecedência mínima de 03 (três) dias;
+
+
+Parágrafo único
+
+Das reuniões do CDP, serão lavradas atas em livro próprio, com indicação de presença e falta dos respectivos membros.
+
+
+Art. 12.
+
+As decisões do CDP serão tomadas por maioria, exigido o quórum mínimo de 03 (três) membros.
+
+
+Parágrafo único
+
+Não será permitido ao membro do CDP omissão ou abstenção de voto.
+
+
+Art. 13.
+
+Incumbirá à Diretoria Executiva proporcionar ao CDP os meios necessários ao exercício de suas competências.
+
+
+Art. 14.
+
+Compete ao Conselho Deliberativo de Previdência - CDP:
+
+
+I –
+
+aprovar o Plano de Ação Anual ou Planejamento Estratégico;
+
+
+II –
+
+acompanhar a execução das políticas relativas à gestão do RPPS;
+
+
+III –
+
+emitir parecer relativo às propostas de atos normativos com reflexos na gestão dos ativos e passivos previdenciários;
+
+
+IV –
+
+acompanhar os resultados das auditorias dos órgãos de controle e supervisão e acompanhar as providências adotadas;
+
+
+V –
+
+elaborar seu regimento interno, estabelecer e normatizar as diretrizes gerais do RPPS;
+
+
+VI –
+
+apreciar e aprovar a proposta orçamentária do RPPS;
+
+
+VII –
+
+organizar e definir a estrutura administrativa, financeira e técnica do FUNPAN;
+
+
+VIII –
+
+conceber, acompanhar e avaliar a gestão operacional, econômica e financeira dos recursos do RPPS;
+
+
+IX –
+
+examinar e emitir parecer conclusivo sobre propostas de alteração da política previdenciária do Município;
+
+
+X –
+
+autorizar a contratação de empresas ou profissionais especializados para assessorar na gestão e para realização de auditorias contábeis e estudos atuariais ou financeiros;
+
+
+XI –
+
+autorizar a alienação de bens imóveis integrantes do patrimônio do FUNPAN, observada a legislação pertinente;
+
+
+XII –
+
+aprovar a contratação de agentes financeiros, bem como a celebração de contratos, convênios e ajustes pelo FUNPAN;
+
+
+XIII –
+
+deliberar sobre a aceitação de doações, cessões de direitos e legados, quando onerados por encargos;
+
+
+XIV –
+
+adotar as providências cabíveis para a correção de atos e fatos, decorrentes de gestão, que prejudiquem o desempenho e o cumprimento das finalidades do FUNPAN;
+
+
+XV –
+
+acompanhar a aplicação da legislação pertinente ao RPPS;
+
+
+XVI –
+
+solicitar a elaboração de estudos e pareceres técnicos relativos a aspectos atuariais, jurídicos, financeiros e organizacionais relativos a assuntos de sua competência;
+
+
+XVII –
+
+dirimir dúvidas quanto à aplicação das normas regulamentares, relativas ao RPPS, nas matérias de sua competência;
+
+
+XVIII –
+
+manifestar sobre eventuais débitos que o município de Alvorada do Norte possa ter para com o RPPS para apresentação ao Prefeito Municipal para a realização do pagamento;
+
+
+XIX –
+
+manifestar em projetos de lei de acordos de composição de débitos previdenciários do Município com o RPPS; e
+
+
+XX –
+
+deliberar sobre os casos omissos no âmbito das regras aplicáveis ao RPPS.
+
+
+Parágrafo único
+
+Outras atribuições e competências do CDP poderão ser disciplinadas por Decreto do Chefe do Poder Executivo.
+
+
+Art. 15.
+
+Os membros do Conselho Deliberativo de Previdência – CDP, para sua nomeação e permanência deverão cumprir cumulativamente os seguintes requisitos:
+
+
+I –
+
+não ter sofrido condenação criminal ou incidido em alguma das demais situações de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar;
+
+
+II –
+
+possuir certificação, por meio de processo realizado por entidade certificadora para comprovação de atendimento e verificação de conformidade com os requisitos técnicos necessários para o exercício de sua função, observadas as exigências da Secretaria de Previdência;
+
+
+§ 1º
+
+A comprovação do requisito de que trata o inciso I do caput deste artigo será exigida a cada 2 (dois) anos, observados os seguintes parâmetros:
+
+
+I –
+
+a inexistência de condenação criminal, inclusive para os delitos previstos no inciso I do art. 1° da Lei Complementar nº 64, de 1990, mediante apresentação de certidões negativas de antecedentes criminais da Justiça Estadual e da Justiça Federal competentes; e
+
+
+II –
+
+no que se refere às demais situações previstas no inciso I do art. 1° da Lei Complementar n° 64, de 1990, mediante declaração de não ter incidido em alguma das situações ali previstas, conforme modelo de declaração disponibilizado pela SPREV na página da Previdência Social na Internet.
+
+
+§ 2º
+
+Em caso de ocorrência das situações de que trata o § 1º deste artigo, os profissionais deixarão de ser considerados como habilitados para as correspondentes funções desde a data de implementação do ato ou fato obstativo.
+
+
+§ 3º
+
+A comprovação do requisito de que trata o inciso II do caput deste artigo deverá observar as exigências da Secretaria de Previdência quanto a quantidade mínima de membros certificados, quanto a data de limite para comprovação da certificação e quanto aos níveis de certificação.
+
+
+§ 4º
+
+Outros requisitos para nomeação e permanência dos membros do CDP poderão ser disciplinados por Decreto do Chefe do Poder Executivo, inclusive em caso de atualização das normas que disciplinam estes critérios.
+
+
+##### Seção III — Do Conselho Fiscal de Previdência
+
+
+Art. 16.
+
+Fica instituído o Conselho Fiscal de Previdência – CFP, órgão de fiscalização interna do Regime Próprio de Previdência Municipal, composto pelos seguintes membros:
+
+
+I –
+
+01 (um) representante do Poder Executivo, necessariamente servidor efetivo;
+
+
+II –
+
+02 (dois) representantes dos servidores ativos.
+
+
+§ 1º
+
+Os membros do CFP terão mandatos de 04 (quatro) anos, permitida a recondução de forma sucessiva.
+
+
+§ 2º
+
+Cada membro terá um suplente com igual período de mandato do titular.
+
+
+§ 3º
+
+Os membros suplentes terão participação com direito a voto somente na ausência do seu titular.
+
+
+§ 4º
+
+Será eleito um presidente por maioria de votos dentre os membros do CFP.
+
+
+§ 5º
+
+Os membros titulares do CFP e respectivos suplentes serão escolhidos da seguinte forma:
+
+
+I –
+
+o representante do Poder Executivo será indicado pelo Chefe do Poder Executivo e deverá ser necessariamente servidor efetivo.
+
+
+II –
+
+os representantes dos servidores ativos, eleitos entre seus pares, serão indicados pelos sindicatos ou associações correspondentes, ou ainda, por uma comissão de representação, caso não haja sindicato ou associação.
+
+
+§ 6º
+
+Os membros do CFP não serão destituíveis ad nutum, e somente podem ser afastados de suas funções a pedido ou, depois de julgados em processo administrativo, se culpados por falta grave ou infração punível com demissão, ou ainda em caso de vacância, assim entendida a ausência não justificada em três reuniões consecutivas ou em quatro intercaladas no mesmo ano.
+
+
+Art. 17.
+
+O CFP reunir-se-á, ordinariamente, em sessões mensais e, extraordinariamente, quando convocado pelo presidente ou por, pelo menos, dois de seus membros, com antecedência mínima de 03 (três) dias;
+
+
+Parágrafo único
+
+Das reuniões do CFP, serão lavradas atas em livro próprio, com indicação de presença e falta dos respectivos membros.
+
+
+Art. 18.
+
+As decisões do CFP serão tomadas por maioria.
+
+
+Parágrafo único
+
+Não será permitido ao membro do CFP omissão ou abstenção de voto.
+
+
+Art. 19.
+
+Incumbirá à Diretoria Executiva proporcionar ao CFP os meios necessários ao exercício de suas competências.
+
+
+Art. 20.
+
+Compete ao Conselho Fiscal de Previdência - CFP:
+
+
+I –
+
+zelar pela gestão econômico-financeira;
+
+
+II –
+
+examinar o balanço anual, balancetes e demais atos de gestão;
+
+
+III –
+
+verificar a coerência das premissas e resultados da avaliação atuarial;
+
+
+IV –
+
+acompanhar e fiscalizar o cumprimento do plano de custeio, em relação ao repasse das contribuições e aportes previstos;
+
+
+V –
+
+examinar, a qualquer tempo, livros e documentos;
+
+
+VI –
+
+emitir parecer sobre a prestação de contas anual da unidade gestora do RPPS, nos prazos legais estabelecidos;
+
+
+VII –
+
+relatar as discordâncias eventualmente apuradas, sugerindo medidas saneadoras;
+
+
+VIII –
+
+manifestar-se sobre a prestação de contas mensal e anual a ser remetida ao Tribunal de Contas;
+
+
+IX –
+
+fiscalizar a aplicação da legislação pertinente ao RPPS;
+
+
+X –
+
+elaborar seu regimento interno;
+
+
+XI –
+
+fiscalizar todas as demais ações do RPPS.
+
+
+Parágrafo único
+
+Outras atribuições e competências do CFP poderão ser disciplinadas por Decreto do Chefe do Poder Executivo.
+
+
+Art. 21.
+
+Os membros do Conselho Fiscal de Previdência – CFP para sua nomeação e permanência deverão cumprir cumulativamente os seguintes requisitos:
+
+
+I –
+
+não ter sofrido condenação criminal ou incidido em alguma das demais situações de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar;
+
+
+II –
+
+possuir certificação, por meio de processo realizado por entidade certificadora para comprovação de atendimento e verificação de conformidade com os requisitos técnicos necessários para o exercício de sua função, observadas as exigências da Secretaria de Previdência;
+
+
+§ 1º
+
+A comprovação do requisito de que trata o inciso I do caput deste artigo será exigida a cada 2 (dois) anos, observados os seguintes parâmetros:
+
+
+I –
+
+a inexistência de condenação criminal, inclusive para os delitos previstos no inciso I do art. 1° da Lei Complementar nº 64, de 1990, mediante apresentação de certidões negativas de antecedentes criminais da Justiça Estadual e da Justiça Federal competentes; e
+
+
+II –
+
+no que se refere às demais situações previstas no inciso I do art. 1° da Lei Complementar n° 64, de 1990, mediante declaração de não ter incidido em alguma das situações ali previstas, conforme modelo de declaração disponibilizado pela SPREV na página da Previdência Social na Internet.
+
+
+§ 2º
+
+Em caso de ocorrência das situações de que trata o § 1º deste artigo, os profissionais deixarão de ser considerados como habilitados para as correspondentes funções desde a data de implementação do ato ou fato obstativo.
+
+
+§ 3º
+
+A comprovação do requisito de que trata o inciso II do caput deste artigo deverá observar as exigências da Secretaria de Previdência quanto a quantidade mínima de membros certificados, quanto a data de limite para comprovação da certificação e quanto aos níveis de certificação.
+
+
+§ 4º
+
+Outros requisitos para nomeação e permanência dos membros do CFP poderão ser disciplinados por Decreto do Chefe do Poder Executivo, inclusive em caso de atualização das normas que disciplinam estes critérios.
+
+
+##### Seção IV — Do Comitê de Investimentos
+
+
+Art. 22.
+
+Fica instituído o Comitê de Investimento – CI, órgão colegiado do RPPS, de caráter consultivo, propositivo e deliberativo, que tem por atribuição específica o planejamento, execução, monitoramento e avaliação de estratégias na gestão dos recursos, bem como participar do processo decisório de formulação e execução da Política de Investimento do Regime Próprio de Previdência Municipal, composto pelos seguintes membros:
+
+
+I –
+
+01 (um) responsável técnico pela gestão de recursos;
+
+
+II –
+
+01 (um) membro do Conselho Deliberativo de Previdência; e,
+
+
+III –
+
+01 (um) segurado do RPPS que tenha formação em nível superior.
+
+
+§ 1º
+
+Os membros do CI terão mandatos de 04 (quatro) anos, permitida a recondução de forma sucessiva.
+
+
+§ 2º
+
+Será eleito um presidente por maioria de votos dentre os membros do CI.
+
+
+§ 3º
+
+Os membros do CI serão escolhidos da seguinte forma:
+
+
+I –
+
+o responsável técnico pela gestão de recursos será o Gestor de Recursos do FUNPAN;
+
+
+II –
+
+o membro de Conselho Deliberativo de Previdência será eleito entre seus pares;
+
+
+III –
+
+o segurado do RPPS será indicado pelo Chefe do Poder Executivo, necessariamente efetivo.
+
+
+§ 4º
+
+Os membros do CI não serão destituíveis ad nutum, e somente podem ser afastados de suas funções a pedido ou, depois de julgados em processo administrativo, se culpados por falta grave ou infração punível com demissão, ou ainda em caso de vacância, assim entendida a ausência não justificada em três reuniões consecutivas ou em quatro intercaladas no mesmo ano.
+
+
+Art. 23.
+
+O CI reunir-se-á, ordinariamente, em sessões mensais e, extraordinariamente, quando convocado pelo presidente ou por, pelo menos, 02 (dois) de seus membros, com antecedência mínima de 03 (três) dias;
+
+
+Parágrafo único
+
+Das reuniões do CI, serão lavradas atas em livro próprio, com indicação de presença e falta dos respectivos membros.
+
+
+Art. 24.
+
+As decisões do CI serão tomadas por maioria.
+
+
+Parágrafo único
+
+Não será permitido ao membro do Comitê de Investimentos omissão ou abstenção de voto.
+
+
+Art. 25.
+
+Incumbirá à Diretoria Executiva proporcionar ao CI os meios necessários ao exercício de suas competências.
+
+
+Art. 26.
+
+Compete ao Comitê de Investimento - CI:
+
+
+I –
+
+deliberar sobre as alocações dos recursos financeiros, observados os limites estabelecidos na Resolução CMN nº 4.963/2021 e na Política de Investimentos;
+
+
+II –
+
+apresentar os resultados financeiros;
+
+
+III –
+
+avaliar a conjuntura econômica e o desempenho da carteira de investimentos;
+
+
+IV –
+
+avaliar e tomar decisões embasadas nos seguintes aspectos:
+
+
+a)
+
+cenário macroeconômico;
+
+
+b)
+
+evolução da execução do orçamento do RPPS;
+
+
+c)
+
+dados atualizados dos fluxos de caixa e dos investimentos, com visão de curto e longo prazo; e
+
+
+d)
+
+propostas de investimentos e respectivas análises técnicas, que deverão identificar e avaliar os riscos de cada proposta, incluídos os riscos de crédito, de mercado, de liquidez, operacional, jurídico e sistêmico.
+
+
+V –
+
+propor, anualmente, a política de investimentos, bem como eventuais revisões para posterior encaminhamento e aprovação pelo CDP;
+
+
+VI –
+
+acompanhar o desempenho obtido pelos investimentos, em consonância com a política de investimentos, bem como os limites de investimentos e diversificações estabelecidos na Resolução CMN nº 4.963 de 25/11/2021, ou qualquer outra que vier a alterá-la ou substituí-la;
+
+
+VII –
+
+alocar taticamente os investimentos, em consonância com a política de investimentos, o cenário macroeconômico e as características e peculiaridades do passivo;
+
+
+VIII –
+
+selecionar opções de investimentos, verificando as oportunidades de ingressos e retiradas em investimentos;
+
+
+IX –
+
+zelar por uma gestão de ativos, em consonância com a legislação em vigor e as restrições e diretrizes contidas na política de investimentos, e que atendam aos mais elevados padrões técnicos, éticos e de prudências;
+
+
+X –
+
+determinar política de taxas e corretagens, considerando os custos e serviços envolvidos;
+
+
+XI –
+
+credenciar administradores e gestores de fundos de investimentos, observando as disposições contidas no artigo 103, da Portaria MTP nº 1.467, de 02 junho de 2022;
+
+
+XII –
+
+selecionar os prestadores de serviços diretamente ligados à atividade de administração de recursos, tais como, corretoras, distribuidoras de valores mobiliários e consultores de investimentos, assegurando-se quanto à observância de elevados padrões éticos e de conduta na consecução de suas atividades;
+
+
+XIII –
+
+elaborar seu regimento interno.
+
+
+Parágrafo único
+
+Outras atribuições e competências do CI poderão ser disciplinadas por Decreto do Chefe do Poder Executivo.
+
+
+Art. 27.
+
+Os membros do Comitê de Investimentos – CI para sua nomeação e permanência deverão cumprir cumulativamente os seguintes requisitos:
+
+
+I –
+
+não ter sofrido condenação criminal ou incidido em alguma das demais situações de inelegibilidade previstas no inciso I do caput do art. 1º da Lei Complementar nº 64, de 18 de maio de 1990, observados os critérios e prazos previstos na referida Lei Complementar;
+
+
+II –
+
+possuir certificação, por meio de processo realizado por entidade certificadora para comprovação de atendimento e verificação de conformidade com os requisitos técnicos necessários para o exercício de sua função, observadas as exigências da Secretaria de Previdência;
+
+
+§ 1º
+
+A comprovação do requisito de que trata o inciso I do caput deste artigo será exigida a cada 2 (dois) anos, observados os seguintes parâmetros:
+
+
+I –
+
+a inexistência de condenação criminal, inclusive para os delitos previstos no inciso I do art. 1° da Lei Complementar nº 64, de 1990, mediante apresentação de certidões negativas de antecedentes criminais da Justiça Estadual e da Justiça Federal competentes; e
+
+
+II –
+
+no que se refere às demais situações previstas no inciso I do art. 1° da Lei Complementar n° 64, de 1990, mediante declaração de não ter incidido em alguma das situações ali previstas, conforme modelo de declaração disponibilizado pela SPREV na página da Previdência Social na Internet.
+
+
+§ 2º
+
+Em caso de ocorrência das situações de que trata o § 1º deste artigo, os profissionais deixarão de ser considerados como habilitados para as correspondentes funções desde a data de implementação do ato ou fato obstativo.
+
+
+§ 3º
+
+A comprovação do requisito de que trata o inciso II do caput deste artigo deverá observar as exigências da Secretaria de Previdência quanto a quantidade mínima de membros certificados, quanto a data de limite para comprovação da certificação e quanto aos níveis de certificação.
+
+
+§ 4º
+
+Outros requisitos para nomeação e permanência dos membros do CI poderão ser disciplinados por Decreto do Chefe do Poder Executivo, inclusive em caso de atualização das normas que disciplinam estes critérios.
+
+
+Art. 28.
+
+Nas reuniões ordinárias os seguintes assuntos deverão, obrigatoriamente, compor a pauta:
+
+
+I –
+
+análise do cenário macroeconômico de curto, médio e longo prazo, bem como as expectativas de mercado;
+
+
+II –
+
+avaliação dos investimentos que compõe o patrimônio dos diversos segmentos de aplicação;
+
+
+III –
+
+análise do fluxo de caixa, considerando as obrigações previdenciárias e administrativas para o mês em curso;
+
+
+IV –
+
+proposições de investimentos e/ou desinvestimentos, considerando avaliações técnica com relação aos ativos objetos da proposta, e que justifiquem o movimento proposto.
+
+
+#### CAPÍTULO II — Das Disposições Gerais
+
+
+Art. 29.
+
+Todas as questões referentes à Diretoria Executiva, aos Membros dos Conselhos Deliberativo, Fiscal e Comitê de Investimentos do RPPS devem respeitar o disposto na presente Lei, bem como o disposto na Portaria MTP nº 1.467, de 02 junho de 2022, e na Lei nº 9.717, de 27 de novembro de 1998.
+
+
+Parágrafo único
+
+Fica autorizado proceder complementações das normas estabelecidas na presente Lei por meio de decreto quando houver atualização das normas que disciplinam a Diretoria Executiva, os Membros dos Conselhos Deliberativo, Fiscal e Comitê de Investimentos do RPPS.
+
+
+#### CAPÍTULO III — Das Disposições Finais
+
+
+Art. 30.
+
+O Município de Alvorada do Norte terá prazo até 31 de julho de 2024 para adoção das medidas estabelecidas nesta lei com relação à certificação da Diretoria Executiva, do Conselho Deliberativo de Previdência, do Conselho Fiscal de Previdência e do Comitê de Investimento.
+
+
+Art. 31.
+
+Ficam revogados os §§ 1º, 2º, 3º e 4º do art. 12, bem como os arts. 22, 23, 24, 25, 26, todos da Lei Municipal nº 269, de 11 de junho de 2007.
+
+
+Art. 32.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as demais disposições em contrário.
+
+
+**GABINETE DA PREFEITA MUNICIPAL DE ALVORADA DO NORTE, aos 13 dias do mês de Novembro de 2023.**
+
+**IOLANDA HOLICENI MOREIRA DOS SANTOS**
+
+**Prefeita Municipal**
+

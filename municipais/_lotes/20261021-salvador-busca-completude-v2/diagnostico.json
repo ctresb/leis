@@ -1,0 +1,32 @@
+{
+  "situacao": "retido",
+  "conclusao": "Novas fontes municipais preservadas, mas não resolvem a entrada ANEXO do sumário da compilação de 2024. Nenhuma mescla de edições ou promoção automática.",
+  "achados": [
+    {
+      "fonte": "https://www.cms.ba.gov.br/uploads/LOM001.pdf",
+      "edicao": "Emenda 34, janeiro de 2016",
+      "paginas": 91,
+      "prova": "Página física 5 / fólio 4 remete ANEXO 90; última página física 91 / fólio 90 traz o final do ADCT, art. 36. Ambas as páginas renderizadas e conferidas visualmente. Só uma ocorrência de ANEXO no texto integral, no sumário."
+    },
+    {
+      "fonte": "https://previdencia.salvador.ba.gov.br/wp-content/uploads/2022/05/Lei-Organica-de-Salvador-BA-3.pdf",
+      "paginas": 69,
+      "rotulos_literais": [
+        "Versão consolidada, com alterações até o dia 31/05/2000",
+        "Atualizada até a Emenda nº 34",
+        "Data de Inserção no Sistema LeisMunicipais: 14/03/2022"
+      ],
+      "limite": "Reprodução impressa LeisMunicipais disponibilizada pela Previdência municipal; rótulos temporais divergentes preservados. Não serve para atestar anexo ausente na edição 41/2024. Texto termina no ADCT art. 36, sem ocorrência de ANEXO."
+    }
+  ],
+  "descoberta": [
+    {
+      "url": "https://repositorio.ufba.br/bitstream/ri/31529/1/Disserta%C3%A7%C3%A3o.pdf",
+      "uso": "Bibliografia fornece URL municipal LOM001; tese não usada como texto normativo."
+    },
+    {
+      "url": "https://repositorio.ufba.br/bitstream/ri/39584/1/DISSERTA%C3%87%C3%83O%20FINAL%20COM%20A%20FICHA%20CATALOGR%C3%81FICA%20INSTRUMENTO%20DE%20AVALIA%C3%87%C3%83O%20DO%20GERENCIAMENTO%20DE%20RES%C3%8DDUOS%20DE%20SERVI%C3%87OS%20DE%20SA%C3%9ADE.pdf",
+      "uso": "Bibliografia fornece URL pública municipal da Previdência; tese não usada como texto normativo."
+    }
+  ]
+}

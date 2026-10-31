@@ -1,0 +1,438 @@
+---
+titulo: "Lei Ordinária nº 355, de 24 de março de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "355"
+data: "2021-03-24"
+municipio: "Araci"
+uf: "BA"
+codigo_ibge: "2902104"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araci.ba.leg.br/norma/382"
+fonte_texto: "https://sapl.araci.ba.leg.br/ta/103/text"
+sha256_fonte: "2ea283e82bba883c475af13a9a05ade19c0a14857128728f6824f41a806cdc37"
+sha256_texto: "e72848ea69aab1b4cc1b1031a68b609ed88d767bb020beaf4c41da5ff7551e09"
+capturado_em_fonte: "2026-10-27T16:55:37.197034-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 355, de 24 de março de 2021
+
+Dispõe sobre a Reestruturação do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - CACS-FUNDEB do Município de Araci - Bahia, em conformidade com o artigo 212-A da Constituição Federal, regulamentado na forma da Lei Federal nº 14.113, de 25 de dezembro de 2020, e dá outras providências.
+
+
+A PREFEITA MUNICIPAL DE ARACI, Estado da Bahia, no uso de suas atribuições legais e nos termos do art. 30, inciso II da Constituição Federal, da Lei Orgânica Municipal e, faz saber que a Câmara Municipal de Vereadores, aprova e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação CACS-FUNDEB no Município de Araci - Bahia, criado nos termos da Lei Municipal nº 70/2011, fica em conformidade com a Lei I Federal nº 14.113/2020, reestruturado de acordo com disposições desta lei.
+
+
+#### CAPÍTULO II — DA COMPOSIÇÃO
+
+
+Art. 2º.
+
+O Conselho a que se refere o art. 1º passa a ser constituído por 14 (quatorze) membros titulares, acompanhados de seus respectivos suplentes, conforme representação e indicação a seguir discriminadas:
+
+
+a)
+
+(dois) representantes do Poder Executivo municipal, dos quais pelo menos 1 (um) da Secretaria Municipal de Educação ou órgão educacional equivalente;
+
+
+b)
+
+(um) representante dos professores da educação básica pública;
+
+
+c)
+
+01 (um) representante dos diretores das escolas básicas públicas;
+
+
+d)
+
+01 (um) representante dos servidores técnico-administrativos das escolas básicas públicas;
+
+
+e)
+
+02 (dois) representantes dos pais de alunos da educação básica pública;
+
+
+f)
+
+02 (dois) representantes dos estudantes da educação básica pública, dos quais 1 (um) indicado pela entidade de estudantes secundaristas.
+
+
+g)
+
+01 (um) representante do respectivo Conselho Municipal de Educação (CME);
+
+
+h)
+
+01 (um) representante do Conselho Tutelar a que se refere a Lei nº 8.069, de 13 de julho de 1990, indicado por seus pares;
+
+
+i)
+
+02 (dois) representante organizações da sociedade civil;
+
+
+j)
+
+01 (um) representante das escolas do campo.
+
+
+§ 1º
+
+Os membros titulares que serão indicados pelo conjunto dos estabelecimentos, farão o processo eletivo organizado para escolha do Presidente.
+
+
+§ 2º
+
+Os conselheiros de que trata o caput deste artigo deverão guardar vínculo formal com os segmentos que representam, devendo esta condição constituir-se como pré-requisito à participação no processo eletivo previsto no § 1º.
+
+
+I –
+
+nos casos dos representantes dos diretores, pais de alunos e estudantes, pelo conjunto dos estabelecimentos ou entidades de âmbito municipal, em processo eletivo organizado para esse fim, pelos respectivos pares;
+
+
+II –
+
+nos casos de representantes de professores e servidores, pelas entidades sindicais da respectiva categoria;
+
+
+§ 3º
+
+A indicação referida no caput deste artigo, para os mandatos posteriores ao primeiro, deverá ocorrer em até vinte dias antes do término do mandato vigente, para a nomeação dos conselheiros que atuarão no mandato seguinte.
+
+
+§ 4º
+
+São impedidos de integrar o Conselho do Fundeb:
+
+
+I –
+
+cônjuge e parentes, consangüíneos ou afins até terceiro grau, do Prefeito e do Vice-Prefeito, e dos Secretários Municipais;
+
+
+II –
+
+tesoureiro, contador ou funcionário de empresa de assessoria ou consultoria que prestem serviços relacionados à administração ou controle interno dos recursos do Fundo, bem como cônjuges, parentes consangüíneos ou afins, até terceiro grau, desses profissionais;
+
+
+III –
+
+estudantes que não sejam emancipados; e
+
+
+IV –
+
+pais de alunos que:
+
+
+a)
+
+exerçam cargos ou funções públicas de livre nomeação e exoneração no âmbito do Poder Executivo Municipal; ou
+
+
+b)
+
+prestem serviços terceirizados ao Poder Executivo Municipal.
+
+
+§ 5º
+
+Na hipótese de inexistência de estudantes emancipados, representação estudantil poderá acompanhar as reuniões do conselho com direito a voz.
+
+
+§ 6º
+
+O presidente do conselho será eleito por seus pares em reunião do colegiado, sendo impedido de ocupar a função o representante do governo gestor dos recursos do Fundo no âmbito do Município.
+
+
+§ 7º
+
+As organizações da sociedade civil a que se refere este artigo:
+
+
+a)
+
+são pessoas jurídicas de direito privado sem fins lucrativos, nos termos da Lei nº 13.019, de 31 de julho de 2014;
+
+
+b)
+
+desenvolvem atividades direcionadas à localidade do respectivo conselho;
+
+
+c)
+
+devem atestar o seu funcionamento há pelo menos 01(um) ano contado da data de publicação do edital;
+
+
+d)
+
+não figuram como beneficiárias de recursos fiscalizados pelo conselho ou como contratadas da Administração da localidade a título oneroso.
+
+
+Art. 3º.
+
+O suplente substituirá o titular do Conselho do Fundeb nos casos de afastamentos temporários ou eventuais deste, e assumirá sua vaga temporariamente (até que seja nomeado outro titular) nas hipóteses de afastamento definitivo decorrente de:
+
+
+I –
+
+desligamento por motivos particulares;
+
+
+II –
+
+rompimento do vínculo de que trata o § 2º, do art. 2º; e
+
+
+III –
+
+situação de impedimento previsto no § 4º, do art.2° incorrida pelo titular no decorrer de seu mandato.
+
+
+Art. 4º.
+
+Excepcionalmente o primeiro mandato dos Conselheiros do CACS-FUNDEB, nomeados nos termos desta lei terá vigência até 31 de dezembro de 2022.
+
+
+Parágrafo único
+
+Caberá aos atuais membros do CACS-FUNDEB exercer as funções de acompanhamento e controle previstas na legislação até a assunção dos novos membros do colegiado nomeados nos termos desta lei.
+
+
+Art. 5º.
+
+O mandato dos membros dos conselhos do Fundeb será de 4 (quatro) anos, vedada a recondução para o próximo mandato, e iniciar-se-á em 1º de janeiro do terceiro ano de mandato do respectivo titular do Poder Executivo.
+
+
+#### CAPÍTULO III — DAS COMPETÊNCIAS DO CONSELHO DO FUNDEB
+
+
+Art. 6º.
+
+Compete ao Conselho do FUNDEB:
+
+
+I –
+
+acompanhar e controlar a repartição, transferência e aplicação dos recursos do Fundo;
+
+
+II –
+
+supervisionar a realização do Censo Escolar e a elaboração da proposta orçamentária anual do Poder Executivo Municipal, com o objetivo de concorrer para o regular e tempestivo tratamento e encaminhamento dos dados estatísticos e financeiros que alicerçam a operacionalização do Fundeb;
+
+
+III –
+
+examinar os registros contábeis e demonstrativos gerenciais mensais e atualizados relativos aos recursos repassados ou retidos à conta do Fundo;
+
+
+IV –
+
+emitir parecer sobre as prestações de contas dos recursos do Fundo, que deverão ser disponibilizadas mensalmente pelo Poder Executivo Municipal
+
+
+V –
+
+aos conselhos incumbe, também, acompanhar a aplicação dos recursos federais transferidos à conta do Programa Nacional de Apoio ao Transporte do Escolar - PNATE e do Programa de Apoio aos Sistemas de Ensino para Atendimento à Educação de Jovens e Adultos - PEJA e, ainda, receber e analisar as prestações de contas referentes a esses Programas, formulando pareceres conclusivos acerca da aplicação desses recursos e encaminhando-os ao Fundo Nacional de Desenvolvimento da Educação - FNDE.
+
+
+VI –
+
+outras atribuições que a legislação específica eventualmente estabeleça;
+
+
+Parágrafo único
+
+O parecer de que trata o inciso IV deste artigo deverá ser apresentado ao Poder Executivo Municipal em até trinta dias antes do vencimento do prazo para a apresentação da prestação de contas junto ao Tribunal de Contas dos Municípios.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 7º.
+
+O Conselho do Fundeb terá um Presidente e um Vice-Presidente, ambos eleitos por seus pares.
+
+
+Parágrafo único
+
+Estão impedidos de ocupar a Presidência e a Vice-presidência os conselheiros designados nos termos do art. 2º, alínea a, desta lei.
+
+
+Art. 8º.
+
+Na hipótese em que o membro que ocupa a função de Presidente do Conselho do Fundeb incorrer na situação de afastamento definitivo previsto no art. 3º, a Presidência será ocupada pelo Vice-Presidente.
+
+
+Art. 9º.
+
+No prazo máximo de 60 (sessenta) dias após a instalação do Conselho do Fundeb, deverá ser aprovado o Regimento Interno que viabilize seu funcionamento.
+
+
+Art. 10.
+
+As reuniões ordinárias do Conselho do Fundeb serão realizadas trimestralmente, com a presença da maioria de seus membros, e, extraordinariamente, quando convocados pelo Presidente ou mediante solicitação por escrito de pelo menos um terço dos membros efetivos.
+
+
+Parágrafo único
+
+As deliberações serão tomadas pela maioria dos membros presentes, cabendo ao Presidente o voto de qualidade, nos casos em que o julgamento depender de desempate.
+
+
+Art. 11.
+
+As deliberações serão tomadas pela maioria dos membros presentes, cabendo ao Presidente o voto de qualidade, nos casos em que o julgamento depender de desempate.
+
+
+Art. 12.
+
+A atuação dos membros do Conselho do Fundeb:
+
+
+I –
+
+não será remunerada;
+
+
+II –
+
+é considerada atividade de relevante interesse social;
+
+
+III –
+
+assegura isenção da obrigatoriedade de testemunhar sobre informações recebidas ou prestadas em razão do exercício de suas atividades de conselheiro, e sobre as pessoas que lhes confiarem ou deles receberem informações; e
+
+
+IV –
+
+veda, quando os conselheiros forem representantes de professores e diretores ou de servidores das escolas públicas, no curso do mandato:
+
+
+a)
+
+exoneração de ofício ou demissão do cargo ou emprego sem justa causa, ou transferência involuntária do estabelecimento de ensino em que atuam;
+
+
+b)
+
+atribuição de falta injustificada ao serviço, em função das atividades do conselho; e
+
+
+c)
+
+afastamento involuntário e injustificado da condição de conselheiro antes do término do mandato para o qual tenha sido designado.
+
+
+V –
+
+veda, quando os conselheiros forem representantes de estudantes em atividades do Conselho, no curso do mandato, atribuição de falta injustificada nas atividades escolares.
+
+
+Art. 13.
+
+Caberá ao Poder Executivo, com vistas à execução plena das competências do CACS- FUNDEB, assegurar:
+
+
+I –
+
+infraestrutura, condições materiais e equipamentos adequados e local para realização das reuniões;
+
+
+II –
+
+profissional de apoio para secretariar as reuniões do colegiado.
+
+
+Art. 14.
+
+O Conselho do Fundeb poderá, por decisão da maioria de seus membros, sempre que julgar conveniente:
+
+
+I –
+
+apresentar, ao Poder Legislativo local e aos órgãos de controle interno e externo manifestação formal acerca dos registros contábeis e dos demonstrativos gerenciais do Fundo, dando ampla transparência ao documento em sítio da internet;
+
+
+II –
+
+convocar o Secretário Municipal de Educação, ou servidor equivalente, para prestar esclarecimentos acerca do fluxo de recursos e a execução das despesas do Fundo, devendo a autoridade convocada apresentar-se em prazo não superior a trinta dias.
+
+
+III –
+
+requisitar ao Poder Executivo cópia de documentos, os quais serão imediatamente concedidos, devendo a resposta ocorrer em prazo não superior a 20 (vinte) dias uteis, referentes a:
+
+
+a)
+
+licitação, empenho, liquidação e pagamento de obras e serviços custeados com recursos do Fundo;
+
+
+b)
+
+folhas de pagamento dos profissionais da educação, as quais deverão discriminar aqueles em efetivo exercício na educação básica e indicar o respectivo nível, modalidade ou tipo de estabelecimento a que estejam vinculados;
+
+
+c)
+
+documentos referentes a convênios do Poder Executivo com as instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos que são contempladas com recursos do Fundeb;
+
+
+d)
+
+outros documentos necessários ao desempenho de suas funções;
+
+
+IV –
+
+realizar visitas e inspetorias in loco para verificar:
+
+
+a)
+
+o desenvolvimento regular de obras e serviços efetuados nas instituições escolares com recursos do Fundo;
+
+
+b)
+
+a adequação do serviço de transporte escolar;
+
+
+c)
+
+a utilização em benefício do sistema de ensino de bens adquiridos com recursos do Fundo;
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 16.
+
+Revogada as disposições em contrário, em especial a Lei Municipal nº 70/2011.
+
+
+MARIA BETIVÂNIA LIMA DA SILVA Prefeita
+

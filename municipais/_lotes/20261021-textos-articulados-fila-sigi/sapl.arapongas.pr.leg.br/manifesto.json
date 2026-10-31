@@ -1,0 +1,132 @@
+{
+  "host": "sapl.arapongas.pr.leg.br",
+  "metadados_unicos_observados": 977,
+  "total_api_declarado": 977,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 21,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/f0a68788368d7be22bb9456ac7ad4f449dcebd045b30020e24304000712ce413.json",
+    "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f1b4a8662a92fdb5e3080b4a9d56abe0351ad9aa186cce813617c8476bf89d29",
+    "bytes": 952,
+    "capturado_em": "2026-10-27T16:54:46.014000-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/0851ea309adc24036c932163c18c00a80a89ee4d48db3541c535d08cf71d063c.json",
+    "url": "https://sapl.arapongas.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.arapongas.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ed5432b78fd5634914f776090aefafdb1a7edd21e2670da6948ffbe8674c8717",
+    "bytes": 730,
+    "capturado_em": "2026-10-27T16:54:45.196667-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/1d588914edb39de506ba8207cb45f60c28416efcbf3c00a11512cd5867b04649.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "995d074ca81e5b414ec000b73882ad4c54cbf65367fca529dfdc5d2628fded1c",
+      "bytes": 66113,
+      "capturado_em": "2026-10-27T16:54:47.640538-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/2b35f9bd42c641b2bad7d5057151b2c6e17767caa9c053afc3ac3abea7eed95a.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8a1d8b56fa948e67d2a29ef98c523564a57462ba255f48050da6744c3cbdc0aa",
+      "bytes": 55491,
+      "capturado_em": "2026-10-27T16:55:31.703788-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/0ad2eb32b1578fc31a5cac91d0796653aab4f37b543ee20bcab4561532ad5745.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "70a10ec77027fd93b0a1bc73c8b764fb1e4a4fa792c8d2d0714765504d7924fa",
+      "bytes": 52357,
+      "capturado_em": "2026-10-27T16:55:32.707697-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/e7820514537d5b480b1b0398eb02d7e6d90d5308cdd90116b120786ae8cf8d4c.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c52b6fa806e92985c93c20d4da8cfd8e1bfbb029aac83721a6c29ce823f10be8",
+      "bytes": 51111,
+      "capturado_em": "2026-10-27T16:55:33.631485-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/6ecd51f2c5c06797723e98cc2f1b5d015b588a1578d921f11af8653b60bdea51.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c46dc3379a0bfc4edc80517de613247f4ff616b88e1c19ec179a604ad79db65d",
+      "bytes": 52125,
+      "capturado_em": "2026-10-27T16:55:34.674964-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/5aa736fef8b2f9d10b4ce0f2031e6f233ab79c82e84d804c0e72ff15695f6a9e.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9ca088cf7e802b9a4d061bcca2d875ca13da004fcc69d8ed8104b04e1ec5fd3c",
+      "bytes": 53800,
+      "capturado_em": "2026-10-27T16:55:35.597543-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/880e19317690c924a73a5f49e8c9fc978c1ee512dfa4ef71306b43dc2c8a25a0.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6898dc0049fe5625c52ebe5cb60b735984f6762b9a2edad5a6de7130f353c084",
+      "bytes": 54076,
+      "capturado_em": "2026-10-27T16:55:36.605243-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/60f7298f4f43774721478cdcfa6eeade03abe793820c8187cd4a62bc3ebaac37.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "dc8984cd554ded6d5cec35a9fdc0f77701d07af6ed01abd25e3c17078592e4e2",
+      "bytes": 56888,
+      "capturado_em": "2026-10-27T16:55:37.796542-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/1513478ded090328fbedc5e3fd93bb3f6455568f5312c3a5751c83c32b7ef6bb.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4ffa0822e117836cf4c2c6d9dc5434a41191cee7c09493b12bdd1647ee06c183",
+      "bytes": 53548,
+      "capturado_em": "2026-10-27T16:55:38.619867-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapongas.pr.leg.br/8915415725fa567b2aed5395910d08810450daf8b5755180d8d6d4da8fcc4758.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.arapongas.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3d7c867542c08af1758e3bb62ab81f7f0fc8bf2007e8b32bf2647ec87b128df8",
+      "bytes": 38025,
+      "capturado_em": "2026-10-27T16:55:39.502761-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

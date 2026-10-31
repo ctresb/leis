@@ -1,0 +1,185 @@
+---
+titulo: "Lei nº 1.974, de 08 de agosto de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1974"
+data: "2025-08-08"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/2402"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/879/text"
+sha256_fonte: "4a5180b78c6844d37aa9d2ee65630645f176a63ea1742924051ae187ff1c62d3"
+sha256_texto: "648efdcf39d16fb28a782481daab1eac232808811d8265654d7d51ef393cd318"
+capturado_em_fonte: "2026-10-28T09:36:30.195563-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.974, de 08 de agosto de 2025
+
+Dispõe sobre a redução da carga horária de servidor público municipal que possua cônjuge, filho ou dependente, com deficiência de qualquer natureza, sem prejuízo da remuneração no âmbito do Município de Cunha, e dá outras providências.
+
+
+Ademir Sanches, Presidente da Câmara Municipal da Estância Climática de Cunha, no uso de suas atribuições legais, que lhe são conferidas por Lei, e no Art. 42, §7º da Lei Orgânica Municipal, faz saber que a Câmara Municipal aprovou e ele promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica assegurado ao Servidor Público Municipal que cumpra carga horária semanal de no mínimo 40( quarenta) horas de trabalho presencial e que possua: cônjuge, companheiro (a), filho (a) ou dependente, com deficiência, que esteja sob sua guarda, a redução de 30% (trinta por cento) do seu expediente diário, sem que haja desconto equivalente em vencimentos e compensação de horário, desde que comprovada a necessidade de acompanhamento para o desenvolvimento de suas atividades sociais, educacionais e vitais.
+
+
+§ 1º
+
+Considera-se para efeitos desta Lei, pessoa com deficiência conforme Decreto Federal nº 5.296, de 02 de dezembro de 2004, a que possui limitação ou incapacidade para o desempenho de atividade e se enquadra nas seguintes categorias:
+
+
+I –
+
+deficiência física: alteração completa ou parcial de um ou mais segmentos do corpo humano, acarretando o comprometimento da função física, apresentando-se sob a forma de paraplegia, paraparesia, monoplegia, monoparesia, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, ostomia, amputação ou ausência de membro, paralisia cerebral, nanismo, membros com deformidade congênita ou adquirida, exceto às deformidades estéticas e as que não produzam dificuldades para o desempenho das funções;
+
+
+II –
+
+deficiência auditiva: perda bilateral, parcial ou total, de quarenta e um decibéis (DB) ou mais “na média”, aferida por audiograma nas frequências de 500Hz, 1000Hz, 2000Hz e 3000Hz;
+
+
+III –
+
+deficiência visual - cegueira, na qual a acuidade visual é igual ou menor que 0,05 no melhor olho, com a melhor correção óptica; a baixa visão, que significa acuidade visual entre 0,3 e 0,05 no melhor olho, com a melhor correção óptica; os casos nos quais a somatória da medida do campo visual em ambos os olhos for igual ou menor que 60º; ou a ocorrência simultânea de quaisquer das condições anteriores;
+
+
+IV –
+
+deficiência intelectual: funcionamento intelectual significativamente inferior à média, com manifestação antes dos dezoitos anos e limitações associadas a duas ou mais áreas de habilidade adaptativa, tais como:
+
+
+a)
+
+comunicação;
+
+
+b)
+
+cuidado pessoal;
+
+
+c)
+
+habilidades sociais;
+
+
+d)
+
+utilização dos recursos da comunidade;
+
+
+e)
+
+saúde e segurança;
+
+
+f)
+
+habilidades acadêmicas;
+
+
+g)
+
+lazer;
+
+
+h)
+
+trabalho;
+
+
+i)
+
+deficiência múltipla - associação de duas ou mais deficiências.
+
+
+V –
+
+transtorno do espectro autista (TEA): Condição do neurodesenvolvimento caracterizada por déficits na comunicação e interação social, além de padrões restritos e repetitivos de comportamento, podendo manifestar-se em diferentes níveis de suporte, conforme classificação diagnóstica vigente.
+
+
+VI –
+
+síndrome de Down: Condição genética que implica alterações no desenvolvimento físico e intelectual, sendo reconhecida como deficiência para fins de proteção e garantia de direitos conforme legislação vigente.
+
+
+§ 2º
+
+Para os casos de TEA, a análise do grau de suporte necessário (níveis 1, 2 ou 3), conforme laudo médico e critérios técnicos, poderá ser considerada como elemento complementar na avaliação da necessidade de acompanhamento constante, sem prejuízo do reconhecimento do direito ao benefício previsto nesta Lei.
+
+
+Art. 2º.
+
+Na hipótese em que ambos os pais sejam servidores públicos municipais, a redução prevista no caput do artigo 1º desta Lei, será assegurada somente a um deles, mediante escolha, porém, a alternância entre um e outro será permitida, desde que periódica.
+
+
+Art. 3º.
+
+Para fazer jus ao benefício desta Lei, o servidor deverá apresentar requerimento acompanhado dos seguintes documentos:
+
+
+I –
+
+laudo médico fornecido por profissional, aprovado pela perícia médica oficial do município;
+
+
+II –
+
+certidão de nascimento do filho, certidão de casamento, declaração de união estável, guarda judicial, sendo que, o documento da pessoa com as deficiências supramencionadas deverá estar atualizada;
+
+
+III –
+
+comprovação da necessidade de assistência direta em horários coincidentes com o de trabalho.
+
+
+§ 1º
+
+A documentação exigida no inciso II do artigo 3º, deverá ser apresentada observando o caso concreto em razão da relação do servidor público com a pessoa com deficiência.
+
+
+§ 2º
+
+Compreende como documento comprobatório exigido no inciso III, do art. 3º, relatório com parecer social expedido pelo assistente social do município.
+
+
+Art. 4º.
+
+A autorização do benefício desta Lei poderá ser concedida de forma permanente ou temporária, conforme laudo e decisão dos profissionais competentes.
+
+
+Art. 5º.
+
+O ato da redução de carga horária deverá ser renovado periodicamente, podendo sua validade se estender por mais de 90 (noventa) dias, nos casos de necessidades temporárias e, pelo tempo que se fizer necessário, nos casos de necessidades permanentes, sem exigência de compensação de horário.
+
+
+Parágrafo único
+
+A redução da carga horária cessará quando findo o motivo que a tenha determinado.
+
+
+Art. 6º.
+
+A redução da carga horária será considerada como de efetivo exercício para todos os fins e efeitos legais.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+*Sala das Sessões “Plínio Pereira Coelho” em 8 de agosto de 2025*.
+
+**Ademir Sanches**
+
+**PRESIDENTE**
+

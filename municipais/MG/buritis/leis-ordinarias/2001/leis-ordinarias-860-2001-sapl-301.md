@@ -1,0 +1,216 @@
+---
+titulo: "Lei nº 860, de 10 de outubro de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "860"
+data: "2001-10-10"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/301"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2377/text"
+sha256_fonte: "fe598010c668c731016edfe86aceb0d9c4455d721c19d27b2d988219ddf62d63"
+sha256_texto: "fc8f4099fe5c0a8a535a82b418341f8de91bc44ff90de1edff7202a9516a5950"
+capturado_em_fonte: "2026-10-27T20:22:21.133572-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 860, de 10 de outubro de 2001
+
+DISPÕE SOBRE NOVA REDAÇÃO À LEI N.º 717/97, DE 24 DE ABRIL DE 1997.
+
+
+O Povo, por seus representantes aprova e o prefeito municipal sanciona a seguinte lei:
+
+
+Art. 1º.
+
+A ementa da Lei n.° 717/97, passa a Ter a seguinte redação:
+
+"INSTITUI O CONSELHO MUNICIPAL DE DESENVOLVIMENTO RURAL  
+SUSTENTÁVEL, e, dá outras providências".
+
+
+Art. 2º.
+
+O caput do art. 2º, da Lei n.º 717/97, passa a Ter a seguinte redação:
+
+"Art.2°. Respeitados os limites legais, compete ao Conselho Municipal de  
+Desenvolvimento Rural Sustentável:"
+
+
+Art. 3º.
+
+O caput do art. 3º, a alínea "c" do inciso II, e respectivos parágrafos 1º e 2°, da Lei  
+n.° 717/97, passam a Ter a seguinte redação:
+
+
+"Art.3°. O Conselho Municipal de Desenvolvimento Rural Sustentável, terá a seguinte  
+composição:
+
+I. 50% (cinqüenta por cento) de representantes do Governo:
+
+a) 01(um) representante da Secretaria Municipal da Fazenda;
+
+b) 01(um) representante da Secretaria Municipal de Agricultura;
+
+c) 01(um) representante da Secretaria Municipal de Saúde
+
+d) 01(um) representante do Setor de Assistência Social;
+
+e) 01(um) representante da Secretaria Municipal de Educação;
+
+f) 01(um) representante da Secretaria municipal de Transporte;
+
+g) 01(um) representante da Secretaria Municipal de Planejamento;
+
+h) 01(um) representante da Assessoria Jurídica.
+
+II. 50% (cinqüenta por cento) de representes dos usuários:
+
+a) 01(um) representante do Sindicato dos Trabalhadores Rurais;
+
+b) 01(um) representante do Sindicato Rural;
+
+c) 01(um) representante das Associações dos Projetos de Assentamentos;
+
+d) 01(um) representante dos profissionais da área agrária;
+
+e) 01(um) representante da Ordem dos Advogados do Brasil;
+
+f) 03(três) representantes das Associações (Conselhos) dos Pequenos Produtores do  
+Município.
+
+"Parágrafo 1° - A cada titular do Conselho Municipal de Desenvolvimento Rural  
+Sustentável, corresponderá 01(um) suplente"
+
+"Parágrafo 2° - Será considerada como existente, para fins de participação no  
+Conselho Municipal de Desenvolvimento Rural Sustentável, a entidade regularmente  
+constituída".
+
+
+Art. 4º.
+
+O caput art. 4° e respectivo parágrafo 2°, da Lei n.º 717/97, passam a Ter a seguinte  
+redação:
+
+"Art.4°. Os membros efetivos e suplentes do Conselho Municipal de Desenvolvimento  
+Rural Sustentável, serão nomeados pelo Prefeito Municipal, mediante portaria, após  
+indicação das respectivas entidades."
+
+"Parágrafo 2° - O Secretário Municipal da Agricultura é membro nato do Conselho  
+Municipal de Desenvolvimento Rural Sustentável"
+
+
+Art. 5º.
+
+O art. 5° e respectivos incisos II e III, da Lei n.º 717/97, passam a Ter a seguinte  
+redação:
+
+"Art.5°. O Conselho Municipal de Desenvolvimento Rural Sustentável, reger-se-á  
+pelas seguintes disposições, no que se refere a seus membros:"
+
+"I - Os membros do Conselho Municipal de Desenvolvimento Rural Sustentável,  
+serão substituídos caso faltem, sem motivo justificado, a 03(três) reuniões consecutivas  
+ou 06(seis) reuniões intercaladas no período de 01(um) ano;"
+
+"II - Оs membros do Conselho Municipal de Desenvolvimento Rural Sustentável  
+poderão ser substituídos mediante solicitação da entidade, apresentada ao Prefeito  
+Municipal."
+
+
+Art. 6º.
+
+A redação do caput do art. 6°, e respectivo inciso II da Lei n.° 717/97, passam a Ter  
+a seguinte redação:
+
+"Art.6°. O Conselho Municipal de Desenvolvimento Rural Sustentável, terá seu  
+funcionamento regido por disposições que figurarão no seu regimento interno, sendo  
+que:"
+
+"II - As decisões do Conselho Municipal de Desenvolvimento Rural Sustentável serão  
+consubstanciadas em resoluções."
+
+
+Art. 7º.
+
+O Art. 7º da Lei n.° 717/97, passa a Ter a seguinte redação:
+
+"Art.7°. A Secretaria Municipal de Agricultura, prestará o apoio administrativo  
+necessário ao funcionamento do Conselho Municipal de Desenvolvimento Rural  
+Sustentável".
+
+
+Art. 8º.
+
+O caput do art. 8º e respectivos incisos I, II, III, passam a Ter a seguinte redação:
+
+"Art.8°. Para melhor desempenho de suas funções o Conselho Municipal de  
+Desenvolvimento Rural Sustentável, poderá recorrer a pessoas e entidades, mediante  
+os seguintes critérios:
+
+I - Consideram-se colaboradoras do Conselho Municipal de Desenvolvimento Rural  
+Sustentável as entidades representativas de profissionais e usuários dos serviços da  
+área agrária, sem embargo de sua condição de membros;
+
+II - Poderão ser convidadas pessoas ou instituições de notória especialização para  
+assessorar o Conselho Municipal de Desenvolvimento Rural Sustentável em assuntos  
+específicos;
+
+III - Poderão ser criadas comissões internas, constituídas por entidades-membros do  
+Conselho Municipal de Desenvolvimento Rural Sustentável e outras instituições, para  
+promoverem estudos e emitir pareceres a respeito de temas específicos."
+
+
+Art. 9º.
+
+O caput do art. 9° e respectivo parágrafo Único, da Lei n.° 717/97, passam a Ter a  
+seguinte redação:
+
+"Art.9°. As sessões plenárias ordinárias do Conselho Municipal de Desenvolvimento  
+Rural Sustentável deverão Ter divulgação ampla e acesso assegurado ao público."
+
+Parágrafo Único - As resoluções do Conselho Municipal de Desenvolvimento Rural  
+Sustentável, bem como os temas tratados em plenário, reuniões de diretoria e  
+comissões, deverão ser amplamente divulgadas."
+
+
+Art. 10.
+
+O art. 10 da Lei n.° 717/97, passa a Ter a seguinte redação:
+
+"Art.10. O Conselho Municipal de Desenvolvimento Rural Sustentável elaborará seu  
+regimento interno no prazo de 120(cento e vinte dias) após a promulgação desta Lei,  
+sendo este aprovado pela maioria absoluta.  
+Uma vez aprovado, o Regimento Interno só poder ser alterado com a  
+aprovação de 2/3 (dois terços) dos membros do Conselho Municipal de  
+Desenvolvimento Rural Sustentável."
+
+
+Art. 11.
+
+O art. 11 da Lei n.° 717/97, passa a Ter a seguinte redação:
+
+"Art.11. Fica o Prefeito Municipal autorizado a abrir crédito especial, no valor de  
+R$100,00, para prover as despesas com a instalação do Conselho Municipal de  
+Desenvolvimento Rural Sustentável."
+
+
+Art. 12.
+
+Esta lei, entra em vigor na data de sua publicação, revogadas as disposições em  
+contrário.
+
+
+Buritis - MG, 10 de Outubro de 2001
+
+**JOSÉ VICENTE DAMASCENO Prefeito Municipal**
+
+Projeto de Lei n° 017/2001. Aprovado em primeira votação por 09х00, em  
+24/09/2001. Aprovado em Segunda votação por 09x00, em 01/10/2001. Autoria: Executivo  
+Municipal. Emendado pelo vereador Mário Rodrigues de Farias.
+

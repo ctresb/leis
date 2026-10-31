@@ -1,0 +1,28 @@
+{
+  "aprovados": 27,
+  "retidos": 5,
+  "hosts": 2,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/aprovados.paths.txt",
+      "sha256": "5cae03665fa311a9d5f9da676060b8dc5db40566c156fd54d955716186d78e4d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/host-sapl.parelhas.rn.leg.br.json",
+      "sha256": "eaf8a361f5e052a2cf483e12b9b6fc34395a169ffbba70bcf60cbb1e0408b3b8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/host-sapl.saojosedoserido.rn.leg.br.json",
+      "sha256": "88574819e7a4ef2c9637543287c79f9be01cd385401adb94488d21a0a0a9694f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/overlay.json",
+      "sha256": "dd6195ddee06157bc3ac62d2ec48422884985487856edd0db3f37c055cfe7ebf"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/retidos.paths.txt",
+      "sha256": "6570db80dbd32e0c3e519f5a9131cf2e8e6dbd9824c22cf418e2ba2782207389"
+    }
+  ],
+  "script_sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362"
+}

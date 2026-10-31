@@ -1,0 +1,33 @@
+Altera o Quadro de Detalhamento de Despesa (QDD) da Câmara Municipal de Acari – RN para o exercício de 2026.
+
+
+Art. 1º.
+
+Fica autorizada a readequação orçamentária do valor de R$ 30.000,00 (trinta mil reais), constante do Quadro de Detalhamento de Despesa desta Câmara, referente à Lei Municipal nº 1.395/2025, de 26/11/2025, publicada no Diário Oficial dos Municípios do Estado do Rio Grande do Norte nº 3696, de 26/11/2025, para criar dotações especificadas no item I do Anexo Único desta Resolução.
+
+
+Art. 2º.
+
+Os recursos necessários à readequação orçamentária de que trata o artigo anterior são oriundos da anulação, de igual importância, da dotação discriminada no item II do Anexo Único desta Resolução.
+
+
+Art. 3º.
+
+Esta Resolução entra em vigor na data da sua publicação.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+Sala das Sessões “Plenário Vereador Antônio Ferreira da Costa”, 29 de junho de 2026.
+
+**PALOMA VITÓRIA DA SILVA BARACHO**
+
+Presidente
+
+
+**ANEXO ÚNICO**
+
+<table><tbody><tr><td colspan="7"><p>ITEM I - ACRÉSCIMO</p></td></tr><tr><td><p>DATA</p></td><td><p>UN</p></td><td><p>CLASSIFICACAO FUNCIONAL</p></td><td><p>CONTA</p></td><td><p>FONTE</p></td><td><p>E</p></td><td><p> VALOR </p></td></tr><tr><td><p>29/06/2026</p></td><td><p>01</p></td><td><p>01.031.0001.2001.0000</p></td><td><p>3.3.90.14</p></td><td><p>1.500.0000</p></td><td><p>F</p></td><td><p>R$ 30.000,00</p></td></tr><tr><td colspan="6"><p>TOTAL</p></td><td><p>R$ 30.000,00</p></td></tr><tr><td colspan="7"><p>ITEM II – REDUÇÃO</p></td></tr><tr><td><p>DATA</p></td><td><p>UN</p></td><td><p>CLASSIFICACAO FUNCIONAL</p></td><td><p>CONTA</p></td><td><p>FONTE</p></td><td><p>E</p></td><td><p> VALOR </p></td></tr><tr><td><p>29/06/2026</p></td><td><p>01</p></td><td><p>01.031.0001.2001.0000</p></td><td><p>3.3.90.46</p></td><td><p>1.500.0000</p></td><td><p>F</p></td><td><p>-R$ 30.000,00</p></td></tr><tr><td colspan="6"><p>TOTAL</p></td><td><p>-R$ 30.000,00</p></td></tr></tbody></table>

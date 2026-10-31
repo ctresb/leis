@@ -1,0 +1,47 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Especial, no valor de R$ 1.500.000,00 (um milhão e quinhentos mil reais), ao Orçamento do Instituto de Habitação de Foz do Iguaçu - FOZHABITA.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Especial ao Orçamento Geral do Instituto de Habitação de Foz do Iguaçu - FOZHABITA, no valor de R$ 1.500.000,00 (um milhão e quinhentos mil reais), para reforço de dotações, na forma especificada no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º., na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 13 de junho de 2025.  
+  
+Joaquim Silva e Luna  
+Prefeito Municipal  
+  
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos  
+  
+Eduardo Castanheira Garrido Alves  
+Secretário Municipal de Finanças e Orçamento
+
+
+## Anexo I — CRÉDITO ADICIONAL ESPECIAL
+
+
+<table><tbody><tr><td>Órgão</td><td>33</td><td>INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU - FOZHABITA</td><td>VALOR</td></tr><tr><td>Unidade</td><td>02</td><td>FUNDO MUNICIPAL DE HABITAÇÃO - FOZHABITA</td><td> </td></tr><tr><td>Funcional Programática</td><td>16.482.0700.2194</td><td>Manutenção do Fundo Municipal da Habitação</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.20.42</td><td>Auxílios</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente...</td><td>1.500.000,00</td></tr><tr><td colspan="4">Justificativa: Abertura de dotação específica para execução da contrapartida do Município aos Empreendimentos Habitacionais de Interesse Social, Elis Regina (160 unidades) e Rita Lee (160 unidades), onde serão alocados os recursos próprios e do Fundo Municipal de Habitação de Interesse Social - FMHIS.</td></tr><tr><td colspan="3">TOTAL DO CRÉDITO ADICIONAL ESPECIAL ...</td><td>1.500.000,00</td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO
+
+
+<table><tbody><tr><td>Órgão</td><td>15</td><td>SECRETARIA MUNICIPAL DE OBRAS</td><td>VALOR</td></tr><tr><td>Unidade</td><td>05</td><td>DIRETORIA DE PAVIMENTAÇÃO</td><td> </td></tr><tr><td>Funcional Programática</td><td>15.451.0640.2144</td><td>Infraestrutura Urbana</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>50.000,00</td></tr><tr><td>Unidade</td><td>06</td><td>DIRETORIA DE PRODUÇÃO ASFÁLTICA</td><td> </td></tr><tr><td>Funcional Programática</td><td>15.451.0640.2143</td><td>Usina de Asfalto - Manutenção de Pavimentação Asfáltica e Poliédrica</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.30</td><td>Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>10.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>50.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.52</td><td>Equipamentos e Material Permanente</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>50.000,00</td></tr><tr><td>Órgão</td><td>16</td><td>SECRETARIA MUNICIPAL DE PLANEJAMENTO E URBANISMO</td><td>VALOR</td></tr><tr><td>Unidade</td><td>01</td><td>GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>Funcional Programática</td><td>127.0160.1055</td><td>DESAPROPRIAÇÃO E AQUISIÇÃO DE ÁREAS</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.61</td><td>Aquisição de Imóveis</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>90.000,00</td></tr><tr><td>Órgão</td><td>20</td><td>SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO, TRABALHO E AGRICULTURA</td><td>VALOR</td></tr><tr><td>Unidade</td><td>04</td><td>DIRETORIA DE DESENVOLVIMENTO SOCIOECONÔMICO</td><td> </td></tr><tr><td>Funcional Programática</td><td>22.661.0660.2129</td><td>Manutenção dos Distritos Industriais e Parques de Serviços</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>170.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.52</td><td>Equipamentos e Material Permanente</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>30.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>33</td><td>INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU - FOZHABITA</td><td>VALOR</td></tr><tr><td>Unidade</td><td>02</td><td>FUNDO MUNICIPAL DE HABITAÇÃO - FOZHABITA</td><td> </td></tr><tr><td>Funcional Programática</td><td>16.482.0700.2194</td><td>Manutenção do Fundo Municipal de Habitação</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.39</td><td>Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.501</td><td>Receitas de Alienações de Ativos - Exercício Corrente..</td><td>1.050.000,00</td></tr><tr><td colspan="4">Justificativa: Anulação para execução da contrapartida do Município aos Empreendimentos Habitacionais de Interesse Social, Elis Regina (160 unidades) e Rita Lee (160 unidades), onde serão alocados os recursos próprios e do Fundo Municipal de Habitação de Interesse Social - FMHIS.</td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO .....................</td><td>1.500.000,00</td></tr></tbody></table>
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

@@ -1,0 +1,96 @@
+AUTORIZA O MUNICÍPIO DE BIRIGUI ABRIR CRÉDITOS ADICIONAIS JUNTO A LEI Nº 6.808/2019 – LEI ORÇAMENTÁRIA DE 2020, NA LEI Nº 6.740/2019 – LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2020 E NA LEI Nº 6.430/2017 – PLANO PLURIANUAL – PPA DE 2018 A 2021 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 125/2020, de autoria do prefeito Municipal
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir por decreto crédito adicional especial na Lei nº 6.430/2017 – PPA 2018/2021 e alterações, na Lei nº 6.740/2019 – LDO de 2020 e alterações e na Lei nº 6.808/2019 – Lei Orçamentária de 2020, com as seguintes classificações contábeis:
+
+
+<table><tbody><tr><td>02.00.00:</td><td>PODER EXECUTIVO</td></tr><tr><td>02.01.00:</td><td>GABINETE DO PREFEITO E DEPENDÊNCIAS</td></tr><tr><td>FUNÇÃO:</td><td>04 – Administração</td></tr><tr><td>SUBFUNÇÃO:</td><td>122 – Administração Geral</td></tr><tr><td>PROGRAMA:</td><td>0036 – Administração do Executivo Municipal</td></tr><tr><td>AÇÃO:</td><td>2.098 – Atendimento Administrativo do Executivo Municipal</td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.35.00 – Serviços de Consultoria</td></tr><tr><td>Fonte de Recurso:</td><td>01 – Recursos Próprios - Tesouro</td></tr><tr><td>Valor:</td><td>R$ 45.000,00 (quarenta e cinco mil)</td></tr><tr><td> </td><td> </td></tr><tr><td>02.00.00:</td><td>PODER EXECUTIVO</td></tr><tr><td>02.09.00:</td><td>SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL</td></tr><tr><td>02.09.02:</td><td>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td></tr><tr><td>FUNÇÃO:</td><td>08 – Social</td></tr><tr><td>SUBFUNÇÃO:</td><td>244 – Assistência Comunitária</td></tr><tr><td>PROGRAMA:</td><td>0008 – Proteção Social Especial</td></tr><tr><td>AÇÃO:</td><td>2.024 – Serviço de Proteção e Atendimento Especializado a Família e Indivíduos</td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.36.00 – Outros Serviços de Terceiros - Pessoa Física</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferência e Convênios - Federais</td></tr><tr><td>Valor:</td><td>R$ 6.000,00 (seis mil reais)</td></tr><tr><td> </td><td> </td></tr><tr><td>02.00.00:</td><td>PODER EXECUTIVO</td></tr><tr><td>02.10.00:</td><td>SECRETARIA MUNICIPAL DE SAÚDE</td></tr><tr><td>02.10.01:</td><td>FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td>FUNÇÃO:</td><td>10 – Saúde</td></tr><tr><td>SUBFUNÇÃO:</td><td>302 – Assistência Hospitalar e Ambulatorial</td></tr><tr><td>PROGRAMA:</td><td>0043 – Média e Alta Complexidade</td></tr><tr><td>AÇÃO:</td><td>2.190 – Enfrentamento da COVID-19</td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.32.00 – Material, Bem ou Serviço para Distribuição Gratuita</td></tr><tr><td>Fonte de Recurso:</td><td>02 – Transferências e Convênios Estaduais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 170.000,00 (cento e setenta mil reais)</td></tr><tr><td> </td><td> </td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.39.00 – Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>Fonte de Recurso:</td><td>02 – Transferências e Convênios Estaduais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 30.000,00 (trinta mil reais)</td></tr><tr><td> </td><td> </td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.39.00 – Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 200.000,00 (duzentos mil reais)</td></tr><tr><td> </td><td> </td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.36.00 – Outros Serviços de Terceiros - Pessoa Física</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 50.000,00 (cinquenta mil reais)</td></tr><tr><td> </td><td> </td></tr><tr><td>Elemento Econômico:</td><td>4.4.90.52.00 – Equipamentos e Material Permanente</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 200.000,00 (duzentos mil reais)</td></tr><tr><td> </td><td> </td></tr><tr><td>02.00.00:</td><td>PODER EXECUTIVO</td></tr><tr><td>02.10.00:</td><td>SECRETARIA MUNICIPAL DE SAÚDE</td></tr><tr><td>02.10.01:</td><td>FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td>FUNÇÃO:</td><td>10 – Saúde</td></tr><tr><td>SUBFUNÇÃO:</td><td>303 – Suporte Profilático e Terapêutico</td></tr><tr><td>PROGRAMA:</td><td>0046 – Assistência Farmacêutica Básica</td></tr><tr><td>AÇÃO:</td><td>2.127 – Assistência Farmacêutica Básica</td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.30.00 – Material de Consumo</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 24.000,00 (vinte e quatro mil reais)</td></tr><tr><td> </td><td> </td></tr><tr><td>Elemento Econômico:</td><td>4.4.90.52.00 – Equipamentos e Material Permanente</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 65.387,14 (sessenta e cinco mil, trezentos e oitenta e sete reais e quatorze centavos)</td></tr><tr><td> </td><td> </td></tr><tr><td>02.00.00:</td><td>PODER EXECUTIVO</td></tr><tr><td>02.17.00:</td><td>SECRETARIA MUNICIPAL DE CULTURA</td></tr><tr><td>FUNÇÃO:</td><td>13 – Cultura</td></tr><tr><td>SUBFUNÇÃO:</td><td>392 – Difusão Cultural</td></tr><tr><td>PROGRAMA:</td><td>0029 – Programa Mais Cultura</td></tr><tr><td>AÇÃO:</td><td>2.073 – Atividades Culturais</td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.36.00 – Outros Serviços de Terceiros - Pessoa Física</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 573.496,22 (quinhentos e setenta e três mil, quatrocentos e noventa e seis reais e vinte e dois centavos)</td></tr><tr><td> </td><td> </td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.39.00 – Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 271.000,00 (duzentos e setenta e um mil reais)</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Fica o Executivo Municipal autorizado a abrir, por Decreto, através da Secretaria Municipal de Planejamento e Finanças, crédito adicional suplementar de R$ 4.601.127,20 (quatro milhões, seiscentos e um mil, cento e vinte e sete reais e vinte centavos), conforme abaixo discriminado:
+
+
+<table><tbody><tr><th colspan="5">02.00.00 - PODER EXECUTIVO</th></tr><tr><th colspan="5">02.10.01 - SECRETARIA MUNICIPAL DE SAÚDE</th></tr><tr><td>02.10.01</td><td>10.302.0043.2.190 / 3.3.90.30.00</td><td>Ficha nº 1049</td><td>Fonte: 02</td><td>R$ 150.000,00</td></tr><tr><td>02.10.01</td><td>10.302.0043.2.190 / 3.3.50.39.00</td><td>Ficha nº 1046</td><td>Fonte: 05</td><td>R$ 1.500.000,00</td></tr><tr><td>02.10.01</td><td>10.302.0043.2.190 / 3.3.90.30.00</td><td>Ficha nº 1050</td><td>Fonte: 05</td><td>R$ 1.499.627,20</td></tr><tr><td>02.10.01</td><td>10.301.0042.2.103 / 3.1.90.11.00</td><td>Ficha nº 391</td><td>Fonte: 05</td><td>R$ 783.102,00</td></tr><tr><td>02.10.01</td><td>10.301.0042.2.104 / 3.1.91.11.00</td><td>Ficha nº 413</td><td>Fonte: 05</td><td>R$ 384.398,00</td></tr><tr><td>02.10.01</td><td>10.303.0046.2.127 / 3.3.90.32.00</td><td>Ficha nº 469</td><td>Fonte: 05</td><td>R$ 200.000,00</td></tr><tr><th colspan="5">02.11.01 - SECRETARIA MUNICIPAL DE EDUCAÇÃO</th></tr><tr><td>02.11.01</td><td>12.361.0052.2.144 / 3.3.90.36.00</td><td>Ficha nº 567</td><td>Fonte: 01</td><td>R$ 84.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Os créditos adicionais autorizados nos artigos 1º e 2º desta Lei, serão cobertos conforme especificado abaixo:
+
+
+I –
+
+o valor parcial de R$ 135.000,00 (cento e trinta e cinco mil reais) correrá à conta de recursos especificados no art. 43, § 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, mediante anulação parcial da dotação abaixo, consubstanciada no orçamento corrente:
+
+
+<table><tbody><tr><th colspan="5">SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANÇAS</th></tr><tr><td>02.05.00</td><td>04.122.0053.2.152 / 3.3.90.47.00</td><td>Ficha nº 118</td><td>Fonte: 01</td><td>R$ 45.000,00 </td></tr><tr><th colspan="5">SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL</th></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.1.90.11.00</td><td>Ficha nº 329</td><td>Fonte: 05</td><td>R$ 6.000,00</td></tr><tr><th colspan="5">SECRETARIA MUNICIPAL DE EDUCAÇÃO</th></tr><tr><td>02.11.01</td><td>12.361.0052.2.144 / 3.3.90.39.00</td><td>Ficha nº 568</td><td>Fonte: 01</td><td>R$ 84.000,00</td></tr></tbody></table>
+
+
+II –
+
+o valor parcial de R$ 200.000,00 (duzentos mil reais) provenientes de **EXCESSO DE ARRECADAÇÃO** conforme Resolução SS 86/2020, que estabelece a transferência de recursos financeiros do Fundo Estadual de Saúde para os Fundos Municipais de Saúde, Vínculo Detalhado 02.312.0142, Fonte 543 e 544.
+
+
+III –
+
+o valor parcial de R$ 24.000,00 (vinte e quatro mil reais) provenientes de **EXCESSO DE ARRECADAÇÃO** conforme Processo 25000.022327/2020-15, recursos disponibilizados Governo Federal para organização dos serviços de assistência farmacêutica no SUS, Vínculo Detalhado 05.300.0129, Fonte 516.
+
+
+IV –
+
+o valor parcial de R$ 65.387,14 (sessenta e cinco mil, trezentos e oitenta e sete reais e quatorze centavos) provenientes de **EXCESSO DE ARRECADAÇÃO** conforme Processo 25000.022325/2020-26, recursos disponibilizados Governo Federal para organização dos serviços de assistência farmacêutica no SUS, Vínculo Detalhado 05.300.0130, Fonte 517.
+
+
+V –
+
+o valor parcial de R$ 150.000,00 (cento e cinquenta mil reais) provenientes de **EXCESSO DE ARRECADAÇÃO** conforme Resolução SS 48/2020, que estabelece a transferência de recursos financeiros do Fundo Estadual de Saúde para os Fundos Municipais de Saúde, Vínculo Detalhado 02.312.0134, Fonte 522.
+
+
+VI –
+
+o valor parcial de R$ 4.617.127,20 (quatro milhões, seiscentos e dezessete mil, cento e vinte e sete reais e vinte centavos) provenientes de **EXCESSO DE ARRECADAÇÃO** conforme, Portaria nº 1.666, que dispõe sobre a transferência de recursos financeiros aos municípios para enfrentamento da emergência de saúde decorrente da Coronavírus COVID-19, Vínculo Detalhado 05.312.0143, Fonte 545.
+
+
+VII –
+
+o valor parcial de R$ 200.000,00 (duzentos mil reais) provenientes de **SUPERÁVIT FINANCEIRO** apurado no fechamento do exercício anterior, vinculado a Fonte 05 – Transferências e Convênios Federais, depositado na Caixa Econômica Federal - Agência 0574-6 conta nº 00600624043-8 – FMS SUS CUSTEIO.
+
+
+VIII –
+
+o valor parcial de R$ 844.496,22 (oitocentos e quarenta e quatro mil, quatrocentos e noventa e seis reais e vinte e dois centavos) provenientes de **EXCESSO DE ARRECADAÇÃO** conforme Lei nº 14.017 de 29 de junho de 2020, e Decreto 10.464 de 17 de Agosto*“Lei Aldir Blanc”*, dispõe sobre as ações emergenciais destinadas ao setor cultural a serem adotadas durante o estado de calamidade pública.
+
+
+Art. 4º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no P.P.A. – Plano Plurianual e L.D.O. – Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 5º.
+
+As dotações incluídas na presente Lei poderão ser suplementadas, se necessário, através de Decreto do Executivo Municipal.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos dezessete de setembro de dois mil e vinte.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+**FABIO VIEIRA PINTO Secretário Municipal de Planejamento e Finanças**
+
+Publicada na Divisão de Atos Oficiais e Expediente da Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, aos dezessete de setembro de dois mil e vinte, por afixação no local de costume.
+
+**CAIQUE MANTOVANI DA ROCHA Chefe da Divisão de Atos Oficiais e Expediente**

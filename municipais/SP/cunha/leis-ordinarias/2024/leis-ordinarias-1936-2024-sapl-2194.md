@@ -1,0 +1,963 @@
+---
+titulo: "Lei nº 1.936, de 27 de março de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1936"
+data: "2024-03-27"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/2194"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/436/text"
+sha256_fonte: "6b92a36044392d1057ca63d736d468f40608a294a95a9773b96f9c9923fba9c3"
+sha256_texto: "d7a5c23d7de69ef3847a2b924a5c367c8c7f9f9a432545291d80311ae2cafd47"
+capturado_em_fonte: "2026-10-28T09:38:19.777716-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.936, de 27 de março de 2024
+
+Dispõe sobre a gestão participativa na organização de espaços públicos do Município de Cunha, e dá outras providências.
+
+
+José Éder Galdino da Costa, Prefeito Municipal da Estância Climática de Cunha, Estado de São Paulo, usando de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 1º.
+
+Esta lei dispõe sobre a gestão participativa dos cidadãos, entidades da sociedade civil, associações comerciais e de moradores, empresas públicas e privadas, na organização de espaços públicos do município de Cunha, além de instituir os Programas de Adoção de Praças e Áreas Públicas, Árvores e Pontos de Ônibus e estabelece seus objetivos, princípios e instrumentos.
+
+
+Art. 2º.
+
+Estarão abrangidos pela presente lei os espaços públicos urbanos tais como: praças públicas, praças de esportes, parques, áreas verdes, áreas ajardinadas, taludes, remanescentes viários, canteiros, espaços livres, calçadões, escadarias, locais que propiciem lazer, convivência e recreação para a população, além de árvores e pontos de ônibus.
+
+
+Parágrafo único
+
+Excetuam-se da presente lei: a Praça Cônego Siqueira, a Praça do Rosário, o Parque Lavapés, o Parque das Montanhas e o Parque Nova Cunha. Tais locais são de gestão exclusiva do Poder Executivo Municipal, sendo permitida apenas a adoção de árvores e pontos de ônibus localizados nestes.
+
+
+Art. 3º.
+
+Para os efeitos desta lei, aplicam-se as seguintes definições:
+
+
+a)
+
+Praças públicas: Espaços públicos urbanos, ajardinados ou não, que proporcionem aos moradores e visitantes convivência em comunidade, lazer e recreação, cumprindo a sua função social.
+
+
+b)
+
+Praças de esportes: Centros esportivos públicos, quadras poliesportivas públicas, quadras e espaços públicos destinados à pratica de um ou mais esportes e atividades, desde que não pertencentes às escolas públicas.
+
+
+c)
+
+Parques: Áreas verdes localizadas na zona urbana, dotadas de atributos naturais e paisagísticos, ou que tenham função de preservação da fauna e flora regionais e possuam a denominação própria de parque.
+
+
+d)
+
+Áreas verdes, áreas ajardinadas, canteiros: Áreas pequenas, geralmente próximas às vias públicas onde existem plantas e árvores de pequeno e médio porte.
+
+
+e)
+
+Taludes: Encostas naturais com superfície inclinada
+
+
+f)
+
+Remanescentes viários: Espaços livres, pertencentes à municipalidade local, entre duas vias públicas. Não abrangem os remanescentes viários pertencentes ao Estado ou à União.
+
+
+g)
+
+Espaços livres: Áreas urbanas, pertencentes à municipalidade local, que não se enquadrem nas definições acima, onde ainda não existam benfeitorias, além de não se destinarem para fins específicos e que não possuam projetos a serem realizados pelo Poder Executivo Municipal.
+
+
+h)
+
+Adotante: Cidadãos, entidades da sociedade civil, associações comerciais e de moradores, empresas públicas e privadas que tenham interesse em se responsabilizar por um dos objetos da presente lei.
+
+
+i)
+
+Equipamentos e mobiliário urbano: Todos os bens que tenham finalidade específica e sejam instalados nos espaços públicos que agreguem valor a estes, tais como: bancos, lixeiras, fontes, parquinho infantil, entre outros.
+
+
+j)
+
+Grafite: Forma de arte que consiste na pintura em paredes ou outros tipos de suportes, geralmente em espaços públicos, representando desenhos e/ou escritas elaboradas, desde que previamente autorizados. Não se confundem com pichação e vandalismo.
+
+
+k)
+
+Sacheamento: Corte e limpeza de vegetação rasteira que cresce de maneira invasora entre os calçamentos.
+
+
+l)
+
+Coroamento: Plantio de flores ornamentais nos pés das árvores.
+
+
+Art. 4º.
+
+Entende-se por gestão participativa a cooperação entre o Poder Público Municipal e os adotantes, com o objetivo de conservação, revitalização, requalificação e implantação de melhorias nos locais abrangidos por esta lei, visando garantir aos espaços públicos uma maior qualidade e conforto a todos os cidadãos.
+
+
+Art. 5º.
+
+A gestão participativa de espaços públicos tem como objetivos principais a sensibilização e conscientização da comunidade para conservação e valorização das áreas públicas urbanas, promovendo a sustentabilidade do espaço urbano, buscando a inclusão da sociedade na participação do dia a dia do município e ainda a fruição dos espaços públicos pela comunidade, dando ênfase ao patrimônio ambiental, paisagísticos, histórico, social e cultural de Cunha.
+
+
+#### CAPÍTULO II — Da Adoção
+
+
+Art. 6º.
+
+Para fins da presente lei, entende-se por adoção o ato através do qual o adotante assume a responsabilidade de cuidados e manutenção dos espaços públicos, árvores e pontos de ônibus abrangidos pela presente, mediante celebração de termo de cooperação com o Município, firmado perante as respectivas secretarias municipais.
+
+
+§ 1º
+
+O adotante assume às suas expensas e sob sua responsabilidade, os encargos necessários para a manutenção e conservação dos espaços públicos, além de se comprometer a realizar obras de melhorias e instalação de equipamentos e mobiliários urbanos que venham a acrescentar valor ao local adotado.
+
+
+§ 2º
+
+Os acordos de celebração do ato de adoção de praças públicas, praças de esportes, parques, áreas verdes, áreas ajardinadas, taludes, remanescentes viários, canteiros, espaços livres, calçadões, escadarias, locais que propiciem lazer, convivência e recreação para a população, além de árvores e pontos de ônibus, serão avaliados pela Secretaria de Obras e Planejamento municipal.
+
+
+§ 3º
+
+Os acordos de celebração do ato de adoção de parques, áreas verdes, canteiros e árvores, serão ainda avaliados pela Secretaria de Agricultura e Meio Ambiente municipal.
+
+
+§ 4º
+
+O adotante que desejar celebrar acordo de cooperação com o município deverá protocolar sua proposta junto ao Serviço de Protocolo da Prefeitura Municipal de Cunha, onde o mesmo será encaminhado para o setor responsável e posteriormente para as respectivas secretarias.
+
+
+Art. 7º.
+
+A adoção terá vigência mínima de 06 (seis) meses e máxima de 03 (três) anos a contar da data do deferimento do termo de cooperação, podendo ser renovada, somente após a revisão e aprovação mútua das atribuições e dos direitos das partes, no prazo de 01 (um) mês antes do término da vigência do termo de cooperação.
+
+
+Parágrafo único
+
+Os termos de cooperação deverão ser publicados no Diário Oficial do Município, na íntegra, no prazo máximo de 15 (quinze) dias a contar da data de deferimento do mesmo.
+
+
+##### Seção I — Dos Cadastros
+
+
+Art. 8º.
+
+A Prefeitura Municipal de Cunha disponibilizará modelo para a formalização da proposta de adoção de espaços públicos, árvores e pontos de ônibus, além de manter cadastro atualizado de locais disponíveis para a adoção, locais já adotados, nome e qualificação dos adotantes:
+
+
+§ 1º
+
+O cadastro e ficha de adoção deverão conter os seguintes dados pessoais do adotante:
+
+
+a)
+
+Nome completo;
+
+
+b)
+
+Nome fantasia – se houver;
+
+
+c)
+
+Nome completo e dados pessoais do responsável – se houver;
+
+
+d)
+
+Número de documento de identificação – se houver;
+
+
+e)
+
+Número de inscrição municipal e estadual – se houver;
+
+
+f)
+
+Número do Cadastro de Pessoa Física (CPF) – se houver;
+
+
+g)
+
+Número de Cadastro Nacional da Pessoa Jurídica (CNPJ) – se houver;
+
+
+h)
+
+Data de nascimento/constituição;
+
+
+i)
+
+Nacionalidade e naturalidade;
+
+
+j)
+
+Endereço completo;
+
+
+k)
+
+E-mail;
+
+
+l)
+
+Telefone para contato.
+
+
+§ 2º
+
+Em se tratando de espaços públicos, o cadastro e ficha de adoção deverão conter os seguintes dados do local adotado:
+
+
+a)
+
+Nome do local;
+
+
+b)
+
+Nome pelo qual é conhecido o local – se houver;
+
+
+c)
+
+Endereço completo;
+
+
+d)
+
+Tipo de local adotado (praça, parque, canteiro, etc.);
+
+
+e)
+
+Projetos a serem realizados;
+
+
+f)
+
+Tempo de adoção;
+
+
+g)
+
+Informações sobre as características do local;
+
+
+h)
+
+Informações sobre vegetação predominante e espécimes arbóreos, quando couber;
+
+
+i)
+
+Informações sobre equipamentos, mobiliários urbanos e iluminação existentes;
+
+
+j)
+
+Informação sobre monumentos, esculturas, fontes e obras de arte – inclusive pinturas em paredes (grafite) – se houver;
+
+
+k)
+
+Existência de comodato, enfiteuse ou cessão – se for o caso.
+
+
+§ 3º
+
+Em se tratando de árvores, o cadastro e ficha de adoção deverão conter os seguintes dados da espécie adotada:
+
+
+a)
+
+Nome científico da espécie adotada;
+
+
+b)
+
+Nome popular da espécie adotada;
+
+
+c)
+
+Porte da espécie adotada;
+
+
+d)
+
+Local onde se encontra a espécie arbórea;
+
+
+e)
+
+Endereço completo;
+
+
+f)
+
+Idade aproximada da espécie arbórea – se possível a verificação;
+
+
+g)
+
+Projetos a serem realizados;
+
+
+h)
+
+Tempo de adoção;
+
+
+i)
+
+Espécimes urbanas de raiz não tabular.
+
+
+§ 4º
+
+Em se tratando de pontos de ônibus, o cadastro e ficha de adoção deverão conter os seguintes dados do local adotado:
+
+
+a)
+
+Local onde o ponto de ônibus se encontra instalado;
+
+
+b)
+
+Endereço completo;
+
+
+c)
+
+Projetos a serem realizados;
+
+
+d)
+
+Tempo de adoção.
+
+
+Art. 9º.
+
+Deverá a Prefeitura Municipal de Cunha realizar a atualização periódica dos locais passíveis de adoção, bem como árvores e pontos de ônibus.
+
+
+Art. 10.
+
+Deverá o adotante manter seu cadastro atualizado junto à Prefeitura Municipal, em especial seu endereço, E-mail e telefone para contato.
+
+
+Art. 11.
+
+Após a apresentação do pedido de cadastro e adoção, deverá o Poder Executivo local, por meio de suas secretarias, realizar a avaliação do pedido e aprová-lo ou reprová-lo no prazo de 20 (vinte) dias úteis.
+
+
+Parágrafo único
+
+Em se tratando de local que se encontre na área de preservação histórica, ficará o pedido de adoção sujeito à aprovação pelo Condephaat (Conselho de Defesa do Patrimônio Histórico, Arqueológico, Artístico e Turístico do Estado de São Paulo), e para os casos de árvores ameaçadas de extinção ou sob proteção ambiental, ficará o pedido de adoção sujeito à aprovação pelo IBAMA (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis), podendo o prazo para a conclusão do cadastro se estender até o retorno pelos órgãos responsáveis.
+
+
+##### Seção II — Dos Adotantes
+
+
+Art. 12.
+
+Poderão figurar como adotantes qualquer cidadão maior de 18 (dezoito) anos de idade, natural de Cunha ou não, entidades da sociedade civil, associações comerciais e de moradores, empresas públicas e privadas localizadas ou não no município de Cunha, mas que possuam real interesse na manutenção e organização da Cidade e servirão como critério para organização das adoções os itens abaixo na seguinte ordem:
+
+
+§ 1º
+
+Será dada a prioridade no momento da adoção para moradores naturais de Cunha e que ainda residam na cidade.
+
+
+§ 2º
+
+Terá prioridade no momento da adoção aquele morador que residir próximo ao local onde deseja adotar.
+
+
+§ 3º
+
+Será possível a cooperação entre os adotantes para as manutenções nos espaços públicos, árvores ou pontos de ônibus, desde que seja realizado cadastro para cada um dos responsáveis.
+
+
+§ 4º
+
+Nos casos de cooperação entre adotantes todos serão responsáveis solidários pelo bem, salvo eventual ação de regresso.
+
+
+§ 5º
+
+As pessoas físicas terão prioridade com relação às pessoas jurídicas, exceto no caso de adoção de pontos de ônibus.
+
+
+§ 6º
+
+Caso haja mais de um interessado na adoção do mesmo local, não havendo acordo de cooperação entre eles e não sendo possível a utilização dos critérios acima para desempate, será realizado sorteio para a concessão da adoção.
+
+
+##### Seção III — Das Modalidades
+
+
+Art. 13.
+
+Serão admitidas as seguintes modalidades de adoção:
+
+
+I –
+
+Adoção com responsabilidade total: modalidade na qual o adotante assume os custos, o fornecimento de mão de obra e a responsabilidade sobre a execução das obras, melhorias e manutenções das áreas, árvores ou pontos de ônibus adotados, suas características, equipamentos e mobiliário urbano;
+
+
+II –
+
+Adoção com responsabilidade pela manutenção: modalidade na qual o adotante se responsabiliza pela integral manutenção e conservação das áreas, árvores ou pontos de ônibus adotados e de seus equipamentos e mobiliário urbano, fornecendo a mão de obra necessária, sendo que as verbas para tais obras poderão ser provenientes de investidores/patrocinadores particulares;
+
+
+III –
+
+Adoção através de investimento/patrocínio de melhorias: modalidade na qual o adotante se responsabiliza pelos custos da execução de melhorias específicas ou pelos custos das despesas correntes do local, árvore ou ponto de ônibus adotado, sendo que a responsabilidade pelo fornecimento de mão de obra poderá ser pelo adotante com responsabilidade pela manutenção ou ainda permanecendo com a Administração Municipal;
+
+
+Parágrafo único
+
+Poderá o Poder Executivo Municipal criar outras modalidades de adoção em ato próprio para tal, porém, fica desde já expressamente proibida a criação de modalidade de adoção onde o Poder Público forneça verbas para particulares para a manutenção das áreas, praças ou pontos de ônibus adotados.
+
+
+Art. 14.
+
+Independentemente da modalidade de adoção, ficará o Poder Público Municipal autorizado à realização de obras e manutenções nas áreas, árvores ou pontos de ônibus adotados, devendo realizar a notificação do adotante com ao menos 48 (quarenta e oito) horas de antecedência.
+
+
+§ 1º
+
+Em hipótese alguma o adotante poderá atrapalhar ou proibir os serviços por parte do Poder Público, sob pena de término imediato do termo de cooperação.
+
+
+§ 2º
+
+A limpeza e varrição, corte de grama, capinação, raspagem, sacheamento, ajardinamento e manutenção das áreas ajardinadas deverão ser realizadas pelo próprio adotante, contudo, a equipe municipal de limpeza e de serviços urbanos poderá realizar tais serviços periodicamente.
+
+
+§ 3º
+
+A poda e retirada de galhos das árvores será de responsabilidade do adotante, podendo ser contratado terceiro para tal, para que o serviço seja realizado de maneira correta e por profissionais preparados para isso. Fica a Secretaria de Agricultura e Meio Ambiente fica responsável por supervisionar.
+
+
+§ 4º
+
+A Prefeitura Municipal, por seus funcionários, não poderá realizar a poda das árvores adotadas ou pertencentes a espaços públicos adotados, sem a prévia notificação do adotante e sem que esse esteja presente no local ou indique responsável para tal, visando a fiscalização para que não ocorra a poda em excesso causando danos à espécie arbórea e ainda à sua estética e características físicas.
+
+
+§ 5º
+
+A fiscalização com relação à necessidade de limpeza e varrição, corte de grama, capinação, raspagem, sacheamento, ajardinamento e manutenção das áreas ajardinadas, poda e retirada de galhos das árvores, além da organização e manutenção de espaços públicos, árvores e pontos de ônibus, poderá ser realizada pelo Poder Público, por entidade da sociedade civil ou ainda por qualquer cidadão, diretamente ao setor responsável da Prefeitura local, que deverá notificar o adotante a atender à solicitação no prazo de setenta e duas (72) horas, sob pena de término antecipado do termo de cooperação, além das penalidades cabíveis.
+
+
+##### Seção IV — Dos Deveres e Direitos Decorrentes da Adoção
+
+
+Art. 15.
+
+Após a aprovação pelos órgãos responsáveis do termo de cooperação, o adotante terá o direito e dever de cuidados sobre o bem adotado.
+
+
+Art. 16.
+
+Após a devida aprovação do termo de cooperação, ficará o adotante obrigado a afixar na área adotada placa padronizada, cujo modelo deverá ser disponibilizado pelo Poder Executivo local, constando o nome do adotante e informações para contato, o número do termo de cooperação, a modalidade de adoção, o tempo de adoção, dados do bem adotado, assim como o objetivo da adoção.
+
+
+§ 1º
+
+Ficará inteiramente sob responsabilidade do adotante as custas com relação à confecção e instalação da placa indicativa do termo de adoção.
+
+
+§ 2º
+
+Em se tratando de árvore, deverá, ainda, constar na placa indicativa a espécie arbórea, seu nome científico e seu nome popular e, quando possível a verificação, a idade aproximada no momento da adoção.
+
+
+Art. 17.
+
+As placas indicativas deverão seguir os seguintes padrões para instalação:
+
+
+§ 1º
+
+Em se tratando de espaços públicos:
+
+
+a)
+
+Características: Largura: 60cm; Altura: 40cm; Material resistente às intempéries; Confeccionada no modelo dupla face;
+
+
+b)
+
+Fixação: Estacas paralelas de modo que a borda inferior da placa fique à cerca de 50cm do solo; Estacas em material que garantam uma fixação efetiva ao solo; Podendo ser instalada uma placa no local a cada 200m²; Em se tratando de canteiros lineares, podendo ser instalada uma placa a cada 500m lineares; Instalação preferencialmente em áreas permeáveis existentes, em caso de impossibilidade, deverá ser consultada a respectiva secretaria sobre o local de fixação; Fica terminantemente proibida a instalação diretamente nas árvores.
+
+
+§ 2º
+
+Em se tratando de árvores:
+
+
+a)
+
+Características: Largura: 25cm; Altura: 15cm; Material resistente às intempéries; Confeccionada no modelo dupla face;
+
+
+b)
+
+Fixação: Estacas paralelas de modo que a borda inferior da placa fique entre de 30cm e 50cm do solo; Estacas em material que garantam uma fixação efetiva ao solo; Devendo ser instalada apenas uma placa no canteiro entorno da árvore; Instalação obrigatoriamente nas áreas permeáveis existentes; Fica terminantemente proibida a instalação diretamente nas árvores.
+
+
+§ 3º
+
+Em se tratando de ponto de ônibus:
+
+
+a)
+
+Características: Largura: 20cm; Altura: 15cm; Material resistente às intempéries; Confeccionada no modelo face única;
+
+
+b)
+
+Fixação: Diretamente nas paredes do ponto de ônibus, preferencialmente no canto superior direito da parte interna das paredes do fundo do ponto; Devendo ser instalada apenas uma placa no ponto de ônibus;
+
+
+Art. 18.
+
+Ficará autorizado o adotante a instalar placa de divulgação de negócio do qual seja proprietário e/ou sócio, desde que mencionado especificamente no termo de cooperação e ainda que não infrinja nenhuma das proibições constantes da presente lei.
+
+
+Parágrafo único
+
+O formato, características e modo de instalação deverão seguir os mesmos moldes do artigo anterior, a depender do bem adotado, devendo ainda apresentar o número do termo de cooperação e o nome do adotante.
+
+
+Art. 19.
+
+Os adotantes ficam proibidos de utilizar dos bens adotados para fins comerciais, exceto propagandas de comércios dos quais sejam proprietários e/ou sócios, conforme mencionado no artigo acima.
+
+
+Parágrafo único
+
+O convênio de adoção, em momento algum gerará qualquer direito de exploração comercial da área pública pelo adotante, nem tampouco deverá conceder qualquer tipo de uso à entidade adotante, exceto aqueles previstos nesta Lei, principalmente no que se refere à concessão ou permissão de uso, não alterando a natureza de uso e de gozo do respectivo bem público pela população.
+
+
+Art. 20.
+
+Fica expressamente proibida a locação ou cessão do bem adotado, bem como do espaço das placas indicativas e de propaganda por parte dos adotantes em favor de terceiros, mesmo que a título gratuito.
+
+
+Art. 21.
+
+Fica taxativamente proibida a utilização dos locais adotados, bem como das placas indicativas e de propaganda para a promoção pessoal dos adotantes, bem como a utilização para a realização de propaganda eleitoral e/ou qualquer tipo de propaganda vinculadas a políticos e suas ideologias.
+
+
+Art. 22.
+
+Poderão ser realizados nos espaços públicos adotados eventos culturais e esportivos, desde que adequados à vocação do espaço e previamente autorizados pelas autoridades competentes.
+
+
+§ 1º
+
+Os eventos deverão respeitar a livre expressão artística, cabendo ao proponente a responsabilidade por sua realização e pelos custos financeiros, sendo de responsabilidade da Prefeitura a orientação acerca das autorizações necessárias.
+
+
+§ 2º
+
+Os eventos de que trata o presente artigo, quando realizados pelos adotantes ou por terceiros, deverão ser realizados a título gratuito, sendo vedada qualquer tipo de cobrança para adentrar e/ou permanecer no local.
+
+
+§ 3º
+
+Quando da realização dos eventos, pelo período em que perdurarem, poderão ser instalados temporariamente comércios de alimentos, desde que previamente autorizados pelas autoridades competentes.
+
+
+§ 4º
+
+Não poderá o adotante impedir a realização de tais eventos pela Prefeitura Municipal de Cunha, mesmo que a título oneroso, desde que notificado previamente, devendo a Prefeitura restituir a área nas mesmas condições em que se encontrava antes da atividade.
+
+
+§ 5º
+
+Para a realização de eventos pagos, deverão os proponentes requererem autorização especial junto à Prefeitura Municipal de Cunha.
+
+
+Art. 23.
+
+Em hipótese alguma os adotantes poderão restringir o acesso de pessoas ao local adotado, nem mesmo delimitar horários para tal, sendo permitido apenas o controle de entrada de pessoal para que sejam respeitados os limites definidos pelas autoridades, sob pena de ferir o direito de ir e vir.
+
+
+Parágrafo único
+
+O mesmo se aplica para bairros, espaços para recreação e loteamentos públicos, novos ou antigos, mesmo que construídos em parceria do Poder Público com a iniciativa privada, sendo permitida a instalação de guarita para realização do controle de entrada de pessoal, ficando proibido que esta se encontre fechada impedindo a passagem de pessoas e veículos. Excetuam-se os loteamentos e condomínios particulares.
+
+
+Art. 24.
+
+Encerrada a cooperação de que trata a presente lei e não sendo renovado o termo de cooperação, as melhorias dela decorrentes passarão a integrar o patrimônio público municipal, sem qualquer direito de retenção ou indenização, devendo as placas serem retiradas no prazo máximo de 72 (setenta e duas) horas.
+
+
+#### CAPÍTULO III — Dos Programas de Adoção
+
+
+Art. 25.
+
+Pela presente lei ficam instituídos os Programas: Adote Uma Praça; Adote uma Árvore; e Adote um Ponto de Ônibus.
+
+
+Art. 26.
+
+As praças públicas, praças de esportes, parques, áreas verdes, áreas ajardinadas, taludes, remanescentes viários, canteiros, espaços livres, calçadões, escadarias, locais que propiciem lazer, convivência e recreação para a população, além de árvores e pontos de ônibus, deverão seguir o padrão a ser estabelecido pelas secretarias de Obras e Planejamento e de Agricultura e Meio Ambiente municipais, sendo que os adotantes se comprometem a realizar apenas reformas autorizadas por tais secretarias.
+
+
+##### Seção I — Programa Adote Uma Praça
+
+
+Art. 27.
+
+Serão abrangidos pelo Programa Adote Uma Praça os espaços públicos urbanos tais como: praças públicas, praças de esportes, parques, áreas verdes, áreas ajardinadas, taludes, remanescentes viários, canteiros, espaços livres, calçadões, escadarias, locais que propiciem lazer, convivência e recreação para a população.
+
+
+Parágrafo único
+
+Os canteiros que rodeiam determinadas árvores que por ventura sejam adotas individualmente, são de responsabilidade do adotante da árvore, não podendo ser adotado separadamente, o mesmo não se aplica às árvores que se encontrem em parques, sendo de responsabilidade solidária dos adotantes.
+
+
+Art. 28.
+
+Ficará o adotante responsável por todos os atos que praticar nesta condição, devendo zelar pelo espaço público, garantindo a manutenção, limpeza e organização, além de se comprometer a realizar obras aprovadas pela Prefeitura Municipal, instalar equipamentos e mobiliário urbano, buscando deixar o local agradável ao convívio social.
+
+
+Parágrafo único
+
+As obras que forem realizadas sem a aprovação pelo Poder Público poderão ser desfeitas, desde que comprovadas não serem necessárias e/ou convenientes à vocação do espaço público, sem prejuízos para o Poder Público.
+
+
+Art. 29.
+
+São ações de responsabilidade do adotante: limpeza e varrição, corte de grama, capinação, raspagem, sacheamento, ajardinamento e manutenção das áreas ajardinadas, poda e retirada de galhos das árvores, além da organização e manutenção de espaços públicos, plantio de árvores, arbustos, flores e vegetação herbácea, manutenção de calçadas, caminhos e áreas pavimentadas, instalação, conserto e substituição de equipamentos públicos e mobiliário urbano.
+
+
+§ 1º
+
+A realização do plantio de árvores de médio e grande porte deverão ser autorizados pelas secretarias responsáveis, ao passo que o plantio de flores ornamentais, ajardinamento, manutenção das áreas ajardinadas, demais manutenções e plantio de árvores de pequeno porte e arbustos, poderão ser realizados independentemente de autorização, desde que respeitada as condições e vocação do espaço público.
+
+
+§ 2º
+
+Será permitido apenas o plantio de árvores frutíferas e árvores naturais da região de Cunha, ficando vedado o plantio de árvores e plantas de outras regiões que por ventura possam atrapalhar o equilíbrio natural, bem como gerar riscos para as espécies nativas.
+
+
+§ 3º
+
+Uma vez comprovada a inexistência de riscos para as espécies nativas, poderá o adotante solicitar autorização junto à Secretaria de Agricultura e Meio Ambiente para realizar o plantio de árvores e plantas de outras regiões, desde que respeitadas as condições e vocação do espaço público.
+
+
+§ 4º
+
+Caso existam árvores, independentemente do porte, que corram risco de cair, poderá o adotante, solicitar ao Poder Público Municipal a retirada da mesma, devendo ser emitido parecer sobre o corte da árvore e relatório sobre a sua retirada, o qual deverá permanecer uma cópia com o adotante e outra junto à Secretaria de Agricultura e Meio Ambiente municipal.
+
+
+Art. 30.
+
+Os espaços públicos adotados deverão ser adaptados para garantir a acessibilidade de todas as pessoas, ficando sob responsabilidade do adotante a realização de obras para tais adaptações.
+
+
+Art. 31.
+
+Poderão ser instalados parquinhos infantis e academias ao ar livre nos espaços públicos adotados, desde que pertinentes aos espaços e que seja mantida uma área mínima para circulação de pessoas.
+
+
+§ 1º
+
+Os itens acima deverão seguir os princípios de ergonomia e segurança, de acordo com as normas técnicas pertinentes, devendo constar informações sobre sua forma de uso e segurança.
+
+
+§ 2º
+
+Os adotantes poderão contratar empresas especializadas para instalação e manutenção de tais equipamentos, sendo permitida a colocação de placa indicativa da empresa que produziu os mesmos, ficando vedada qualquer tipo de propaganda.
+
+
+§ 3º
+
+A instalação de parquinhos infantis e academias ao ar livre ficam condicionadas à aprovação pela Secretaria de Obras e planejamento.
+
+
+Art. 32.
+
+Quando possível, será autorizada a instalação de caixas d’água, bebedouros, cisternas e banheiros públicos, que deverão manter padrões de higiene e segurança aos usuários, podendo estes serem trancados no período noturno para evitar danos e prejuízos.
+
+
+Art. 33.
+
+A coleta de lixo e resíduos será realizada pela Prefeitura local, devendo o adotante organizar o material a ser coletado para evitar transtornos.
+
+
+Art. 34.
+
+Poderão ainda ser instalados: bancos, mesas para jogos e piquenique, pontos para armação de redes de descanso, pontos para ligação de luz, estacionamento para bicicletas, quiosques, coretos, palcos para manifestações artísticas, espaços para recreação de animais, painéis informativos, pontos para uso de sinal de internet e áreas para a prática de atividades e esportes.
+
+
+Parágrafo único
+
+A instalação e construção de tais equipamentos ficam condicionados à aprovação pela Secretaria de Obras e planejamento.
+
+
+Art. 35.
+
+A Prefeitura de Cunha poderá disponibilizar projetos para serem realizados nos espaços públicos.
+
+
+Art. 36.
+
+Será permitida a cooperação entre adotantes dos espaços públicos, desde que seja formalizado um termo de cooperação para cada um destes.
+
+
+##### Seção II — Programa Adote Uma Árvore
+
+
+Art. 37.
+
+Serão abrangidos pelo Programa Adote Uma Árvore as espécies arbóreas de pequeno, médio e grande porte que se encontrem em propriedade pública pertencente à municipalidade local.
+
+
+Parágrafo único
+
+As árvores serão classificadas da seguinte maneira: - Pequeno porte: altura: até 8m. / diâmetro: até 6m. - Médio porte: altura: 8-15m. / diâmetro: 6-12m. - Grande porte: altura: mais de 15m / diâmetro: mais de 12m.
+
+
+Art. 38.
+
+Ficará o adotante responsável por todos os atos que praticar nesta condição, devendo zelar pela espécie arbórea adotada, garantindo a manutenção no canteiro, limpeza e organização do espaço, além de se comprometer em realizar a poda quando necessário, retirada de galhos e aplicação de adubos, soluções e produtos para o crescimento e fortalecimento das árvores, buscando deixar a cidade agradável ao convívio social.
+
+
+Parágrafo único
+
+A aplicação de adubos, soluções e produtos deverá ser realizada por profissional competente e com equipamento próprio para tal, podendo o adotante contratar terceiros e/ou solicitar a aplicação diretamente à Prefeitura local.
+
+
+Art. 39.
+
+São ações de responsabilidade do adotante: o preparo do local e do solo, a adubação, inclusive de manutenção, a irrigação, a remoção de pragas, vegetação invasora e ervas daninhas, a poda de ramos e galhos, corte de grama dos canteiros, o ajardinamento e manutenção da área ajardinada dos canteiros, limpeza e varrição dos entornos, raspagem, sacheamento, plantio de arbustos, flores e vegetação herbácea, além da organização e manutenção dos espaços públicos onde a árvores se encontra.
+
+
+§ 1º
+
+O preparo do solo e adubação deverão ser realizados para corrigir níveis de acidez do solo, devendo ser utilizados compostos fertilizantes minerais e orgânicos devidamente definidos e calculados por engenheiro agrônomo, podendo ser solicitado diretamente à Secretaria de Agricultura e Meio Ambiente municipal a realização de tal cálculo.
+
+
+§ 2º
+
+A irrigação deverá ser realizada de forma periódica e na frequência ideal para proporcionar os níveis adequados de umidade do solo.
+
+
+§ 3º
+
+Deverá o adotante realizar o controle e remoção de pragas, vegetação invasora, ervas daninhas e resíduos sempre que necessário, podendo ser aplicados herbicidas e outros produtos para realização de tal controle, desde que não afetem o meio ambiente e especialmente a árvores adotada.
+
+
+Art. 40.
+
+Os canteiros onde a árvore se encontrar deverão estar sempre em perfeitas condições, devendo o adotante realizar as obras de conservação que forem necessárias.
+
+
+Art. 41.
+
+As árvores que se encontrarem em parques e espaços públicos poderão ter coroamento nas seguintes proporções, não sendo necessária a autorização do adotante do espaço público, mas somente a sua notificação. - Árvores de pequeno porte: 40cm. - Árvores de médio porte: 60cm. - Árvores de grande porte: 80cm.
+
+
+Art. 42.
+
+Poderá o adotante firmar termo de cooperação com o fim de plantio de mudas e/ou árvores ainda em desenvolvimento, ficando responsável a partir do plantio e assumindo a responsabilidade pela árvore.
+
+
+Parágrafo único
+
+A adoção nesta modalidade poderá se dar em espaços públicos abrangidos pelo Programa Adote Uma Praça, desde que firmado termo de cooperação com o adotante destes.
+
+
+Art. 43.
+
+Poderá o adotante construir cerca de proteção entorno das árvores adotadas, desde não impeça a visão dos cidadãos, sendo que no caso de mudas e árvores novas essa proteção será obrigatória a fim de evitar dados a estas e garantindo o seu desenvolvimento.
+
+
+Art. 44.
+
+A Prefeitura de Cunha disponibilizará projetos para serem realizados nos canteiros das árvores.
+
+
+Art. 45.
+
+Será permitida a cooperação entre adotantes de árvores, desde que seja formalizado um termo de cooperação para cada um destes.
+
+
+##### Seção III — Programa Adote Um Ponto de Ônibus
+
+
+Art. 46.
+
+Serão abrangidos pelo Programa Adote Um Ponto de Ônibus os abrigos e pontos de ônibus pertencentes à municipalidade local, englobando também os abrigos e pontos de ônibus localizados na zona rural do Município de Cunha.
+
+
+Art. 47.
+
+Ficará o adotante responsável por todos os atos que praticar nesta condição, devendo zelar pelo ponto de ônibus adotado, garantindo a sua manutenção, limpeza e organização do espaço, buscando deixar a cidade agradável ao convívio social.
+
+
+Art. 48.
+
+São ações de responsabilidade do adotante: a limpeza e organização, a manutenção estrutural dos abrigos e pontos de ônibus, a construção e manutenção de acentos, a construção e manutenção de cobertura em material resistente às intempéries e que forneça proteção contra o Sol e chuva, a construção de paredes de fundo e laterais, a construção e manutenção de contrapiso ou outra forma de calçamento no local.
+
+
+§ 1º
+
+Fica autorizada a instalação de iluminação no local, bem como a instalação de tomadas e pontos de acesso à internet, garantindo maior segurança e comodidade aos usuários do local, devendo todos os gastos serem custeados pelo adotante.
+
+
+§ 2º
+
+Deve ainda, o adotante, zelar pela organização e manutenção dos espaços públicos onde o ponto de ônibus se encontre instalado.
+
+
+§ 3º
+
+Todas as obras de instalação, construção e manutenção dos abrigos e pontos de ônibus deverão ser autorizadas pela Secretaria de Obras e Planejamento municipal.
+
+
+Art. 49.
+
+Os abrigos e pontos de ônibus serão adotados preferencialmente por empresas públicas ou privadas que estejam instaladas no Município de Cunha, sendo garantido às empresas de viação que prestem serviços à comunidade local, o direito a ao menos um abrigo ou ponto de ônibus de sua escolha.
+
+
+Parágrafo único
+
+As empresas de viação que prestem serviços na Cidade de Cunha, deverão realizar o cadastro junto à Prefeitura local indicando tal situação.
+
+
+Art. 50.
+
+A Prefeitura Municipal de Cunha, por sua Secretaria de Obras e Planejamento, disponibilizará projetos e modelos de abrigos e pontos de ônibus, os quais deverão ser construídos, instalados e mantidos pelos adotantes, devendo ser respeitado um padrão dentro do Município, sendo vedada a construção e instalação de abrigos e pontos de ônibus fora dos padrões definidos.
+
+
+Art. 51.
+
+Nos abrigos e pontos de ônibus adotados, poderá ser estampada imagem na parede de fundo do mesmo.
+
+
+§ 1º
+
+Será dada prioridade para exposição de fotos e imagens relacionadas às belezas naturais, atrativos e pontos turísticos, tradições culturais e outras imagens relativas à população Cunhense, à cultura e à Cidade de Cunha.
+
+
+§ 2º
+
+Poderá o adotante substituir a placa de divulgação mencionada no art. 18 da presente, por propagando inclusa na imagem exposta no fundo do abrigo e ponto de ônibus adotado, desde que possua alguma das imagens mencionadas no parágrafo anterior e a arte seja aprovada pela Secretaria de Obras e Planejamento local.
+
+
+§ 3º
+
+A substituição da placa de divulgação não desobriga o adotante da instalação da placa indicativa do termo de adoção.
+
+
+Art. 52.
+
+A Prefeitura de Cunha disponibilizará projetos para serem realizados nos abrigos e pontos de ônibus.
+
+
+Art. 53.
+
+Será permitida a cooperação entre adotantes dos espaços públicos, desde que seja formalizado um termo de cooperação para cada um destes.
+
+
+#### CAPÍTULO IV — Das Disposições Finais
+
+
+Art. 54.
+
+Será permitida a adoção de mais de um espaço público, bem como de árvores e pontos de ônibus pelo mesmo adotante, desde que não haja outro interessado na adoção.
+
+
+Art. 55.
+
+Fica desde já o Poder Executivo Municipal autorizado a conceder incentivos fiscais aos adotantes, inclusive redução nos valores de IPTU, desde que cumpridas todas as normas estabelecidas na presente lei e em eventual decreto ou outra norma que venha a regulamentar a mesma.
+
+
+Art. 56.
+
+Deverá o Poder Executivo Municipal, no instrumento que regulamentar a presente lei, instituir penalidades aos adotantes e à terceiros que praticarem atos de vandalismos ou qualquer outro ato que atrapalhe, impeça ou inviabilize a realização das atividades aqui definidas.
+
+
+Art. 57.
+
+Para demais especificações técnicas, que não estejam abrangidas por esta lei, os adotantes deverão se direcionar às Secretarias de Obras e Planejamento e de Agricultura e Meio Ambiente municipais.
+
+
+Art. 58.
+
+O descumprimento de qualquer das normas especificadas na presente lei, em especial às vedações estabelecidas, poderá ensejar a aplicação de penalidades administrativas e sancionatórias, bem como a aplicação de multas que serão definidas pelo Poder Executivo Municipal.
+
+
+Parágrafo único
+
+Além das penalidades acima mencionadas, o descumprimento da presente lei poderá ocasionar a rescisão antecipada dos termos de cooperações.
+
+
+Art. 59.
+
+O Poder Executivo Municipal regulamentará a presente lei, no que for necessário, no prazo de até 60 (sessenta) dias a contar da data de sua publicação.
+
+
+Art. 60.
+
+As despesas decorrentes da presente lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessárias.
+
+
+Art. 61.
+
+Pela presente lei ficam revogas as Leis 794/1997, 1.262/2010 e 1.657/2018, bem como as demais disposições em contrário.
+
+
+Art. 62.
+
+A presente lei entra em vigor na data de sua publicação.
+
+
+PM de Cunha em 21 de março de 2024.
+
+José Éder Galdino da Costa
+
+Prefeito Municipal
+

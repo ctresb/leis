@@ -1,0 +1,65 @@
+---
+titulo: "DECRETO N° 065, DE 05 DE FEVEREIRO DE 2026"
+uf: "RO"
+municipio: "COLORADO DO OESTE"
+tipo: "Decreto"
+numero: "065"
+data: 2026-02-05
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 10/02/2026"
+data_publicacao: 2026-02-10
+codigo_identificador: "4EEF71DD"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_115999_2026-02-09_a9e8fa83aa3a8573e131ea5dad384154.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N° 065, DE 05 DE FEVEREIRO DE 2026
+
+DECRETO N° 065, DE 05 DE FEVEREIRO DE 2026
+DISPÕE SOBRE CONCESSÃO DE LICENÇA
+PREMIO
+O PREFEITO DO MUNICÍPIO DE COLORADO DO OESTE,
+Estado de Rondônia, no uso de suas
+atribuições legais que lhe são conferidas pela Lei complementar nº
+071 de 28 de dezembro de 2012.
+RESOLVE:
+Art. 1° - Conceder a servidora MALVINA DA SILVA ANDRADE,
+lotada na Secretaria Municipal de
+Saúde, empossada no regime estatutário em 17 de agosto de 2010,
+ocupante do cargo de Técnica em
+Enfermagem, o direito adquirido referente ao quinquênio 2015/2020,
+Licença Prêmio por 30 (trinta) dias, a
+ser usufruída a contar do dia 05 de fevereiro ao dia 06 de março de
+2026.
+Art. 2° - Este Decreto entrara em vigor na data de sua publicação.
+PALÁCIO PREFEITO
+FEVEREIRO DE 2026.
+
+CERENEU
+
+JOÃO
+
+NAUE,
+
+05
+
+DE
+
+EDMILSON RODRIGUES DE ALMEIDA
+Prefeito Municipal
+(Assinado Digitalmente)
+Av. Paulo de Assis Ribeiro, nº 4132 - Centro - Fone 069- 3341-3421 –
+CEP 76.993-000
+Email gabprefcol@hotmail.com / Site www.coloradodooeste.ro.gov.br
+COLORADO DO OESTE - RO
+Documento assinado eletronicamente (ICP-BR) por Edmilson
+Rodrigues de Almeida, Prefeito, em 09/02/2026 às 11:12, horário de
+Colorado do Oeste/RO, com fulcro no art. 18 do Decreto nº 095 de
+29/04/2020.
+A autenticidade deste documento pode ser conferida no site
+transparencia.coloradodooeste.ro.gov.br, informando o ID 546002 e o
+código verificador B989E7C5.
+Docto ID: 546002 v1
+Publicado por:
+Jéssica de Lima Almeida

@@ -1,0 +1,33 @@
+---
+titulo: "Lei Ordinária nº 915, de 12 de setembro de 1995"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "915"
+data: "1995-09-12"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/4056"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1995/4056/lei_no_915_de_12_de_setembro_de_1995.pdf"
+sha256_fonte: "5b02cfade485aa1bc6cfca8a7ca0dfd22b3c64f0a374391c02c4a881727b5929"
+sha256_texto: "92be26139db07bf07b74a2576381a64e0824d8e602946924d06a1a50eeda23cb"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 915, de 12 de setembro de 1995
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA DO MUNICIPIO DE IVAIPORÃ ESTADO DO PARANA Adm. Melvis Muchiuti
+
+LEI N° 915/95 PUBLICADO(A) NO JORNAL Tribuna o Noite EMENTA: AUTORIZA A PERMUTA DOS IMÓVEIS QUE ESPECIFICA.
+
+N.o 1356, Pág. A CAMARA DE VEREADORES DE IVAIPORA, ESTADO DO PARANA, APRO- Edição de /·
+
+VOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
+
+ART. 1° - FICA O EXECUTIVO MUNICIPAL AUTORIZADO A PERMUTAR, COM O SR. JOSÉ DE OLIVEIRA (RG. N° 758.911-5), O IMÓVEL DE PROPRIEDADE DO MUNICÍPIO, CONSTITUÍDO PELA DATA N° 3 DA QUADRA N° 3, COM ÁREA DE 312,00M', NO ÁREA JARDIM OURO PRETO, NESTA CIDADE, PELA POSSE VINTENÁRIA DE UMA DE TERRAS COM 450,00M', PARTE DA CHÁCARA N° 53, NESTA CIDADE, E DE UMA CASA MISTA DE MADEIRA E ALVENARIA COM ÁREA CONSTRUÍDA DE 100,00 Mº, EDIFICADA SOBRE O REFERIDO TERRENO.
+
+ART. 2° - REVOGADAS AS DISPOSIÇÕES EM CONTRÁRIO, ESTA LEI ENTRARÁ EM VIGOR NA DATA DE SUA PUBLICAÇÃO. PAÇO MUNICIPAL "PREFEITO ADAIL BOLIVAR ROTHER", GABINETE DO PREFEI- TO, AOS DOZE DIAS DO MÊS DE SETEMBRO DO ANO DE MIL NOVECENTOS E NOVENTA E CIN- co. DR. MELVIS MUCHIUTI PREFEITO MUNICIPAL
+

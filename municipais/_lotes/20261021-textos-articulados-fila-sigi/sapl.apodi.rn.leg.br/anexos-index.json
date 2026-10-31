@@ -1,0 +1,438 @@
+{
+  "estado": "indice_completo",
+  "total": 42,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/novo_regimento_interno_da_camara_municipal_de_apodi_rn.pdf da norma Regimento Interno nº 1, de 28 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO Nº. 098, DE 26 DE OUTUBRO DE 2021 - Aprova o Novo Regimento Interno da Câmara Municipal de Apodi – Rio Grande do Norte.",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2021/1/novo_regimento_interno_da_camara_municipal_de_apodi_rn.pdf",
+      "ano": 2021,
+      "norma": 25
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/cma_lei_organica_-_revisada.pdf da norma Lei Orgânica Municipal nº 1, de 19 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "LEI ORGÂNICA DO MUNICÍPIO DE APODI, PROMULGADA EM 5 DE ABRIL DE 1990, COM AS ALTERAÇÕES ADOTADAS PELAS EMENDAS ORGÂNICAS N.ºS 001/1996 A 034/2021",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2021/2/cma_lei_organica_-_revisada.pdf",
+      "ano": 2021,
+      "norma": 24
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/3/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_balancete_orcamentario_da_receita.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/3/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_balancete_orcamentario_da_receita.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/4/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_relacao_de_alteracoes_orcamentarias.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/4/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_relacao_de_alteracoes_orcamentarias.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_relacao_de_bloqueio_e_desbloqueio.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/5/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_relacao_de_bloqueio_e_desbloqueio.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_relacao_de_valores_loa_por_fonte_de_recursos.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/6/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_relacao_de_valores_loa_por_fonte_de_recursos.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/7/le1c321.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/7/le1c321.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/8/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_6_da_lei_n__4.320_64___programa_de_trabalho.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/8/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_anexo_6_da_lei_n__4.320_64___programa_de_trabalho.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_balancete_de_contingenciamento_por_fonte_de_recursos.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/9/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_balancete_de_contingenciamento_por_fonte_de_recursos.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/10/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_programa_de_trabalho_de_governo.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/10/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_programa_de_trabalho_de_governo.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/11/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_quadro_detalhamento_da_despesa_-_qdd.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/11/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_quadro_detalhamento_da_despesa_-_qdd.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/12/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_relacao_das_despesas_loa5.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/12/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_relacao_das_despesas_loa5.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/13/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_relacao_de_receitas_loa.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/13/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_relacao_de_receitas_loa.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/14/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_relacao_de_valores_loa_por_fonte_de_recursos.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/14/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_relacao_de_valores_loa_por_fonte_de_recursos.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/15/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_valores_previstos_da_receita.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/15/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_valores_previstos_da_receita.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_valores_previstos_da_receita_consolidado.pdf da norma Lei Orçamentária Anual nº 2.120, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei N 2120 2023, 26 de dezembro de 2023 - Autor Poder Executivo - Diário Oficial",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2023/16/lei_n_2120_2023_26_de_dezembro_de_2023_-_autor_poder_executivo_-_diario_oficial_valores_previstos_da_receita_consolidado.pdf",
+      "ano": 2023,
+      "norma": 366
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/anexo_da_lei_n_2229_2024_13_de_dezembro_de_2024_-_autor_poder_executivo_-_diario_oficial_anexo_da_loa_-_2025.pdf da norma Lei Orçamentária Anual nº 2.229, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei N 2229 2024, 13 de dezembro de 2024 - Autor Poder Executivo - Diário Oficial (Anexo da LOA - 2025)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2024/17/anexo_da_lei_n_2229_2024_13_de_dezembro_de_2024_-_autor_poder_executivo_-_diario_oficial_anexo_da_loa_-_2025.pdf",
+      "ano": 2024,
+      "norma": 510
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/18/01-portal_da_chapada-mapa_01.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "PORTAL_DA_CHAPADA-Mapa_01.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/18/01-portal_da_chapada-mapa_01.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/19/02-i.p.e-mapa_02.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "I.P.E-Mapa_02.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/19/02-i.p.e-mapa_02.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/20/03-pody_dos_encantos-mapa_03.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "PODY_DOS_ENCANTOS-Mapa_03.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/20/03-pody_dos_encantos-mapa_03.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/04-peque-mapa_04.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "PEQUÉ-Mapa_04.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/21/04-peque-mapa_04.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/05-bacurau_ii-mapa_05.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "BACURAU_II-Mapa_05.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/22/05-bacurau_ii-mapa_05.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/06-betel-mapa_06.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "BETEL-Mapa_06.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/23/06-betel-mapa_06.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/24/07-caic-mapa_07.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "CAIC-Mapa_07.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/24/07-caic-mapa_07.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/25/08-garilandia-mapa_08.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "GARILÂNDIA-Mapa_08.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/25/08-garilandia-mapa_08.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/09-baixa_da_alegria-mapa_09.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "BAIXA_DA_ALEGRIA-Mapa_09.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/26/09-baixa_da_alegria-mapa_09.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/27/10-timbauba_do_campo-mapa_10.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "TIMBAUBA_DO_CAMPO-Mapa_10.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/27/10-timbauba_do_campo-mapa_10.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/28/11-cruz_de_almas-mapa_11.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "CRUZ_DE_ALMAS-Mapa_11.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/28/11-cruz_de_almas-mapa_11.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/29/12-lagoa_seca-mapa_12.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "LAGOA_SECA-Mapa_12.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/29/12-lagoa_seca-mapa_12.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/30/13-sao_sebastiao-mapa_13.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "SÃO_SEBASTIÃO-Mapa_13.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/30/13-sao_sebastiao-mapa_13.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/31/14-centro-mapa_14.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "CENTRO-Mapa_14.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/31/14-centro-mapa_14.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/32/15-sao_joao-mapa_15.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "SÃO_JOÃO-Mapa_15.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/32/15-sao_joao-mapa_15.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/33/16-malvinas-mapa_16.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "MALVINAS-Mapa_16.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/33/16-malvinas-mapa_16.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/34/17-missoes-mapa_17.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "MISSÕES-Mapa_17.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/34/17-missoes-mapa_17.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/35/18-bacurau_i-mapa_18.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "BACURAU_I-Mapa_18.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/35/18-bacurau_i-mapa_18.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/36/19-bico_torto-mapa_19.19_a0.pdf da norma Mapas dos Bairros de Apodi RN nº 1, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "BICO_TORTO-Mapa_19.19_(A0)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/36/19-bico_torto-mapa_19.19_a0.pdf",
+      "ano": 2025,
+      "norma": 617
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/37/decreto_municipal_no_0139.2025_de_12_de_novembro_de_2025_regulamenta_a_lei_municipal_2311.2025.pdf da norma Lei Ordinária nº 2.311, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "DECRETO MUNICIPAL Nº 0139/2025 DE 12 DE NOVEMBRO DE 2025 -Regulamenta a Lei Municipal nº 2311/2025, de 07 de outubro de 2025, que autoriza a alienação mediante doação de imóvel à Fundação Universidade do Estado do Rio Grande do Norte – FUERN...",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/37/decreto_municipal_no_0139.2025_de_12_de_novembro_de_2025_regulamenta_a_lei_municipal_2311.2025.pdf",
+      "ano": 2025,
+      "norma": 616
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/lei_n_2338_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_loa_2026_-_diario_oficial_-_anexos.pdf da norma Lei Ordinária nº 2.338, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DA LOA - LEI MUNICIPAL Nº 2338/2025 DE 29 DE DEZEMBRO DE 2025 - Estima a Receita e Fixa a Despesa do Município de Apodi/RN para o exercício financeiro de 2026 - FEMURN 06/01/2026. Edição 3702",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/38/lei_n_2338_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_loa_2026_-_diario_oficial_-_anexos.pdf",
+      "ano": 2025,
+      "norma": 658
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/lei_n_2338_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_loa_2026_-_diario_oficial_-_loa_qdd_anexos.pdf da norma Lei Ordinária nº 2.338, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS - LOA QDD - LEI MUNICIPAL Nº 2338/2025 DE 29 DE DEZEMBRO DE 2025 - Estima a Receita e Fixa a Despesa do Município de Apodi/RN para o exercício financeiro de 2026 - FEMURN 06/01/2026. Edição 3702",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/39/lei_n_2338_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_loa_2026_-_diario_oficial_-_loa_qdd_anexos.pdf",
+      "ano": 2025,
+      "norma": 658
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/40/lei_n_2337_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_ppa_2026-2029_-_diario_oficial_anexos_ppa_2026-2029.pdf da norma Lei Ordinária nº 2.337, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI Nº 096/2025 – AUTOR PODER EXECUTIVO – ESTIMA RECEITA E FIXA A DESPESA DO MUNICÍPIO DE APODI/RN PARA O EXERCÍCIO Matéria publicada no Diário Oficial dos Municípios do Estado do Rio Grande do Norte no dia 06/01/2026. Edição 3702 (ANEXOS)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/40/lei_n_2337_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_ppa_2026-2029_-_diario_oficial_anexos_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 657
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/41/lei_n_2338_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_loa_2026_-_diario_oficial_-_anexos.pdf da norma Lei Orçamentária Anual nº 2.338, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DA LOA - LEI MUNICIPAL Nº 2338/2025 DE 29 DE DEZEMBRO DE 2025 - Estima a Receita e Fixa a Despesa do Município de Apodi/RN para o exercício financeiro de 2026 - FEMURN 06/01/2026. Edição 3702",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/41/lei_n_2338_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_loa_2026_-_diario_oficial_-_anexos.pdf",
+      "ano": 2025,
+      "norma": 659
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/42/lei_n_2337_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_ppa_2026-2029_-_diario_oficial_anexos_ppa_2026-2029.pdf da norma Plano Plurianual nº 2.337, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI Nº 096/2025 – AUTOR PODER EXECUTIVO – ESTIMA RECEITA E FIXA A DESPESA DO MUNICÍPIO DE APODI/RN PARA O EXERCÍCIO Matéria publicada no Diário Oficial dos Municípios do Estado do Rio Grande do Norte no dia 06/01/2026. Edição 3702 (ANEXOS)",
+      "anexo_arquivo": "http://sapl.apodi.rn.leg.br/media/sapl/public/anexonormajuridica/2025/42/lei_n_2337_2025_29_de_dezembro_de_2025_-_autor_poder_executivo_-_ppa_2026-2029_-_diario_oficial_anexos_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 660
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.apodi.rn.leg.br/175b50f35850acf2979d9a09c154a3d34a29ba5680517c15169dca1e8192cae2.json",
+      "url": "https://sapl.apodi.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.apodi.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "efd4be771a4c3ca02a5da2ea784af99e126d211e2d4ecfd6e27106ff7b271881",
+      "bytes": 24676,
+      "capturado_em": "2026-10-27T16:46:43.193118-03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+---
+titulo: "DECRETO Nº 3.145/I, DE 11 DE JUNHO DE 2026."
+uf: "RO"
+municipio: "PORTO VELHO"
+tipo: "Decreto"
+numero: "3145"
+data: 2026-06-11
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/06/2026"
+data_publicacao: 2026-06-12
+codigo_identificador: "C9BA6FC3"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116085_2026-06-11_8a988c251841c70ad3f89929eab34b11.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 3.145/I, DE 11 DE JUNHO DE 2026.
+
+DECRETO Nº 3.145/I, DE 11 DE JUNHO DE 2026.
+
+Tornar sem efeito a exoneração da servidora abaixo relacionada do
+Cargo em Comissão da Secretaria Municipal de Economia – SEMEC,
+a partir de 1° de junho de 2026, constante no Decreto nº 3.142/I, de 10
+de junho de 2026.
+JULIANA
+GONÇALVES Divisão de Elaboração de Normas e GERENTE
+STURZENEGGER LAGO
+Procedimentos Contábeis
+II
+
+DAS
+05
+
+LEONARDO BARRETO DE MORAES
+Prefeito
+Publicado por:
+Fernanda Santos Julio

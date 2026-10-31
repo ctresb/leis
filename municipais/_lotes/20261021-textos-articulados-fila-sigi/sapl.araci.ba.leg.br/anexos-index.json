@@ -1,0 +1,73 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/1/lei_orcamentaria_anual_de_2012_-_quadro_de_detalhamento_da_despesa_qdd..pdf da norma Lei Ordinária nº 111, de 17 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Quadro de Detalhamento da Despesa (QDD).",
+      "anexo_arquivo": "http://sapl.araci.ba.leg.br/media/sapl/public/anexonormajuridica/2012/1/lei_orcamentaria_anual_de_2012_-_quadro_de_detalhamento_da_despesa_qdd..pdf",
+      "ano": 2012,
+      "norma": 127
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/erratas_no_001_e_002-2022_referentes_as_resolucoes_003_e_004-2021.pdf da norma Resolução nº 4, de 03 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araci.ba.leg.br/media/sapl/public/anexonormajuridica/2022/2/erratas_no_001_e_002-2022_referentes_as_resolucoes_003_e_004-2021.pdf",
+      "ano": 2022,
+      "norma": 417
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/erratas_no_001_e_002-2022_referentes_as_resolucoes_003_e_004-2021.pdf da norma Resolução nº 3, de 03 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araci.ba.leg.br/media/sapl/public/anexonormajuridica/2022/3/erratas_no_001_e_002-2022_referentes_as_resolucoes_003_e_004-2021.pdf",
+      "ano": 2022,
+      "norma": 416
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/prefeituramunicipaldearaciestadodabahiadiariooficialdomunicipioano2024leicomplementarn038de31dedezembro2024_compressed.pdf.crdownload.pdf da norma Lei Complementar nº 38, de 31 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "J. J. S. Silva",
+                [
+                  "2024-12-31T16:10:00-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araci.ba.leg.br/media/sapl/public/anexonormajuridica/2024/4/prefeituramunicipaldearaciestadodabahiadiariooficialdomunicipioano2024leicomplementarn038de31dedezembro2024_compressed.pdf.crdownload.pdf",
+      "ano": 2024,
+      "norma": 539
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araci.ba.leg.br/470079d34a7be77cf42821d7a8f40cc94528f5f80bf9cd06fe262ffd280c468e.json",
+      "url": "https://sapl.araci.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.araci.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "843fc05aaa76b7892fa4c95ee53985c56fe1f223043aad06e899443c79e07267",
+      "bytes": 2374,
+      "capturado_em": "2026-10-27T16:52:04.846888-03:00"
+    }
+  ]
+}

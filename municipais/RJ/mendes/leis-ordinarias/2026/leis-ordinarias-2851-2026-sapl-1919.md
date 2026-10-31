@@ -1,0 +1,281 @@
+---
+titulo: "Lei Municipal nº 2.851, de 18 de março de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Municipal"
+numero: "2851"
+data: "2026-03-18"
+municipio: "Mendes"
+uf: "RJ"
+codigo_ibge: "3302809"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.mendes.rj.leg.br/norma/1919"
+fonte_texto: "https://sapl.mendes.rj.leg.br/media/sapl/public/normajuridica/2026/1919/2.851__cemiterio_municipal__mensagem_002_2026_1.pdf"
+sha256_fonte: "bf470670a05e71c2cfaf6525bc4d7a8ad59aed04debb2de520b20d9b415cc2bc"
+sha256_texto: "7df948e3e9bc23f9ee9a2a9abfb3d4e3972033d9e2928f4f2398a8cee708953b"
+baixado_em: "2026-10-20"
+---
+
+# Lei Municipal nº 2.851, de 18 de março de 2026
+
+LEI MUNICIPAL Nº2.851 DE 18 DE MARÇO DE 2026.
+
+DISPÕE SOBRE A ADMINISTRAÇÃO, FUNCIONAMENTO E UTILIZAÇÃO DO CEMITÉRIO MUNICIPAL DE MENDES - RJ E
+
+DÁ OUTRAS PROVIDÊNCIAS.
+
+#### CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
+
+**Art. 1º** - O Cemitério Municipal de Mendes terá sua administração, funcionamento e utilização regulamentados pela presente Lei e pelas normas específicas aplicáveis à matéria.
+
+**Art. 2º** - Para efeitos desta Lei, são adotadas as seguintes definições: I – sepultura: espaço unitário, destinado a sepultamentos;
+
+II - construção tumular ou túmulo: é a construção erigida em uma sepultura, dotada ou não de compartimentos para sepultamento, compreendendo:
+
+a) jazigo é o compartimento destinado a sepultamento contido;
+
+b) carneiro ou gaveta - é a unidade de cada um dos compartimentos para sepultamentos, existentes em uma construção tumular;
+
+c) cripta – compartimento destinado a sepultamento no interior de edificações, templos ou suas dependências;
+
+III – sepultamento ou inumação: é a colocação da pessoa falecida ou seus restos mortais em local adequado;
+
+IV – exumação: é a retirada da pessoa falecida ou seus restos mortais, do local em que se acha sepultado; V – reinumação: é a reintrodução da pessoa falecida ou de seus restos
+
+mortais, após exumação, na mesma sepultura ou em outra;
+
+VI – urna ou caixão: é a caixa com formato adequado para conter pessoa falecida ou seus restos mortais;
+
+VII – urna ossária: é o recipiente de tamanho adequado para conter ossos ou partes de corpos exumados;
+
+VIII – urna cinerária: é o recipiente destinado a cinzas de corpos cremados;
+
+IX – ossário: é o local para acomodação de ossos, contidos ou não em urna ossária; X – columbário: é o local para guardar urnas e cinzas funerárias, dispostos horizontal ou verticalmente, com acesso coberto ou não, adjacente ao fundo, com um muro ou outro conjunto de jazigos; e XI – translado: ato de remover pessoa falecida ou restos mortais, de um lugar a outro.
+
+#### CAPÍTULO II DA ADMINISTRAÇÃO E FUNCIONAMENTO
+
+**Art. 3º** - O Cemitério Municipal tem caráter público, secular, inviolável e de utilização reservada, incumbindo sua administração, fiscalização e os serviços de cemitério à Secretaria de Ordem Pública.
+
+**Art. 4º** - Constituem-se serviços de cemitério, para fins desta Lei:
+
+I - sepultamentos;
+
+II – exumações;
+
+III – inumações;
+
+IV - construção de sepulturas e túmulos; V - cremação de cadáveres;
+
+VI - manutenção de ossários e cinzários;
+
+VII - organização, escrituras e controle de serviços;
+
+VIII - vigilância;
+
+IX - ajardinamento, limpeza e conservação; X - construção e montagem de canteiros;
+
+XI - manutenção e jardinagem de túmulos e jazigos, em áreas comuns;
+
+XII - demais serviços afins.
+
+**§ 1º** - Para a execução de obras de pequeno porte no cemitério, a pessoa física ou jurídica deverá estar prévia e expressamente autorizada pelo órgão municipal competente.
+
+**§ 2º** - No caso do parágrafo anterior deste artigo, caberá aos responsáveis pela obra a responsabilidade por danos ou prejuízos causados a quaisquer bens, sejam do Cemitério ou de terceiros.
+
+**Art. 5º** - Os preços devidos pelos serviços e obras executadas no cemitério municipal deverão ser fixados nos termos da Tabela constante no Anexo Único desta
+
+Lei.
+
+**Art. 6º** - Os cadáveres de munícipes considerados indigentes, de pessoas não reclamadas ou remetidas por autoridades policiais, os hipossuficientes econômicos e as crianças de até 06 (seis) anos deverão ser sepultados gratuitamente em quadras específicas do cemitério desde que haja disponibilidade de sepultura.
+
+**Art. 7º** - A inadimplência das taxas relativas aos serviços ou a concessão de uso constitui causa da extinção dos respectivos direitos.
+
+**Art. 8º** - Deverá ficar exposta, em lugar amplamente visível, na entrada principal do respectivo cemitério, a tabela de preços públicos e taxas vigentes que devam ser cobradas para os diversos serviços funerários.
+
+**Art. 9º** - Fica o Poder Executivo autorizado a isentar as cobranças de taxas previstas nesta Lei aos munícipes considerados indigentes, de pessoas não reclamadas ou remetidos por autoridades policiais, os hipossuficientes econômicos e as crianças até 6 (seis) anos.
+
+Parágrafo único: Compreender-se-á no estado de hipossuficiência econômica referido pelo caput do presente artigo, as famílias que residam no Município e cuja renda mensal seja de até 01 (um) salário mínimo nacional ou s ser beneficiário de algum programa social da União, Estado ou Município ou doadores de órgãos.
+
+**Art. 10** - O interessado ou seu responsável legal protocolará, junto a
+
+Secretaria de Ação Social, requerimento de isenção, que deverá vir acompanhado de: I – Originais e fotocópias de documentos de identidade e CPF;
+
+II – Original e fotocópia do comprovante de endereço;
+
+III - Original e fotocópia do comprovante de renda;
+
+IV – Comprovação do registro e recebimento de programa social atualizado, se houver; V – Demais comprovações de hipossuficiência econômica.
+
+**Art. 11** - O requerimento de que trata esta Lei deverá ser analisado pela Secretaria Municipal de Assistência Social que, com base na documentação apresentada, avaliará as condições para a concessão da gratuidade.
+
+**Art. 12** - A administração do Cemitério Municipal deverá manter registro dos sepultamentos ocorridos, contendo o nome da pessoa falecida, idade, sexo, estado civil, filiação, naturalidade, causa mortis, data e lugar do óbito e outros esclarecimentos que forem necessários
+
+**Art. 13** - Na área do Cemitério Municipal é permitida a todas as confissões religiosas a prática de seus ritos desde que não sejam contrários à lei, à moral e aos bons costumes.
+
+**Art. 14** - A entrada e permanência nas dependências do Cemitério Municipal somente será permitida no horário de funcionamento, sendo que após este período os seus acessos serão fechados.
+
+**Art. 15** - As pessoas que ingressarem na área de cemitério são obrigadas a
+
+guardar as mais estritas normas de respeito, sendo expressamente proibido: I – escalar muros, alambrados e cercas-vivas;
+
+II – danificar gramado, flores, árvores ou quaisquer benfeitorias existentes;
+
+III – jogar papéis ou outros detritos na área, fora dos cestos ou lixeiras existentes para este fim; IV – entrar em áreas de acesso restrito à administração do local ou usar indevidamente as dependências do cemitério;
+
+V – utilizar ou retirar materiais ou instrumentos destinado dos ao funcionamento, reparos, construção ou conservação do cemitério;
+
+VI – promover a venda de qualquer mercadoria, agenciar negócios, efetuar reuniões alheias à finalidade do local;
+
+VII – praticar atos que perturbem a disciplina interna ou as pessoas presentes;
+
+VIII – afixar anúncios de qualquer espécie;
+
+e IX – desrespeitar a autoridade dos servidores responsáveis pela administração do cemitério. Parágrafo único. Não poderão permanecer no recinto do Cemitério Municipal os ébrios, ambulantes, indigentes e crianças desacompanhadas.
+
+**Art. 16** - As flores, coroas e ornamentos utilizados em funerais ou colocados a qualquer tempo sobre os jazigos, quando estiverem deteriorados ou em mau estado de conservação, poderão ser retirados pelos servidores responsáveis
+
+pelo Cemitério, sem que assista direito à reclamação.
+
+#### CAPÍTULO III DA ORGANIZAÇÃO DOS ESPAÇOS PARA SEPULTAMENTO
+
+**Art. 17** - A identificação das gavetas, sepulturas, jazigos, filas e setores deverão obedecer às seguintes regras:
+
+I – as gavetas, sepulturas, jazigos e filas serão numerados com algarismos arábicos, na ordem crescente em relação à sua localização; e II – os setores serão identificados através de letras.
+
+**Art. 18** - As pessoas falecidas serão sepultadas em caixão e sepulturas individuais.
+
+**Art. 19** - As sepulturas deverão ter as dimensões máximas de 1,20 metros de altura acima do solo, largura externa de 1,10 metros e comprimento externo de 2,60 metros.
+
+**Art. 20** - Entre as sepulturas deverá haver um espaço livre de, no mínimo, 0,60 metros. Parágrafo único. Quando se tratar de sepultura contígua ao corredor central, deverá ser observado, além do espaço previsto no caput deste artigo, um distanciamento adicional de 0,50 metros do meio-fio.
+
+**Art. 21** - As construções tumulares deverão ser edificadas com o material adequado, tais como tijolos maciços, chapa de concreto ou laje inteira.
+
+**Art. 22** - Quando as sepulturas ou carneiras estiverem reunidas em grupos, deverão estar separadas umas das outras por paredes de espessura mínima de oito
+
+centímetros.
+
+**Art. 23** – Fica obrigatória a utilização de invólucros protetores nos corpos sepultados no Cemitério Municipal.
+
+**§1º** - O invólucro protetor deverá ser fabricado com material que permita a decomposição do corpo sem impedir a troca gasosa necessária ao processo de decomposição natural.
+
+**§2º** - A obrigatoriedade do uso do invólucro protetor se aplica a todos os sepultamentos e exumações realizados no Cemitério Municipal, exceto em casos específicos onde a legislação dispuser de outra forma.
+
+#### CAPÍTULO IV DAS CONCESSÕES DE USO
+
+**Art. 24** – A ocupação dos jazigos, sepulturas e gavetas no Cemitério Municipal dar-se-á sob a forma de concessão de uso remunerada ou, no caso de indigentes, gratuita.
+
+**Art. 25** - As concessões de uso dividem-se em temporárias e perpétuas.
+
+**Art. 26** - As concessões de uso temporário, das quais trata esta lei, serão concedidas pelo prazo de 03 (três) anos, podendo ser prorrogadas por iguais períodos, com exceção das concessões gratuitas, destinadas a indigentes, que não poderão ser prorrogadas.
+
+**Art. 27** - Após expirado o prazo da concessão temporária, a família do de
+
+cujus deverá ser previamente notificada pela Administração Pública e terá o prazo de quinze dias, contados do recebimento da notificação, para a retirada dos despojos, sob pena de a Administração Pública proceder à retirada e encaminhá-los ao Ossário.
+
+**Art. 28** - A transmissão de direitos das concessões de uso perpétuo opera-se por causa mortis na forma da sucessão legítima sendo vedado a alienação ou transmissão para pessoas que não possuam relação de parentesco.
+
+**§ 1º** - Inexistindo familiar apto a suceder o titular da concessão de uso perpetuo ou passados 05 (cinco) anos sem a reclamação de interessados as concessões de uso perpetuo reverterão ao Município.
+
+**§ 2º** - Os transmitentes devem atentar na destinação dos restos mortais das pessoas inumadas na sepultura objeto da transferência, de acordo com as normas vigentes.
+
+**Art. 29** - Os concessionários de gavetas, sepulturas ou jazigos no Cemitério Municipal ficam responsáveis pelas obras de conservação e reparação no que tiverem construído e que forem necessários à estética, segurança e salubridade do local.
+
+**Parágrafo único.** Em casos excepcionais, a administração do Cemitério fará a conservação ou manutenção dos espaços e construções, cujos gastos serão cobrados dos concessionários, conforme Decreto de regulamentação.
+
+**Art. 30** - A concessão de uso perpétuo será revogada nos casos de ruína, abandono ou não pagamento das taxas devidas ao Município, pelo período de 05 (cinco) anos consecutivos. Parágrafo único. A revogação da concessão de uso motivada pelo não pagamento de taxas não exime o devedor do pagamento da dívida,
+
+que será inscrita em dívida ativa, no caso de inadimplência.
+
+**Art. 31** - Toda construção realizada na área do Cemitério Municipal, deverá ser previamente aprovada pelo Município, sob pena de demolição e sem direito à qualquer indenização.
+
+**§ 1º** - As despesas com a construção de túmulos, mausoléus, capelas ou carneiros, bem como a colocação de lápide ou ornamento, correrão por conta do concessionário ou da família do de cujus, incluídos os custos de conservação dos mesmos.
+
+**§ 2º** - Compete à família do de cujus ou concessionário a retirada dos itens descritos no parágrafo primeiro, em assim desejando, ressalvando-se que o local deverá restar em perfeitas condições de uso.
+
+**§ 3º** - Não cabe indenização de qualquer espécie e nesses casos, a ser postulada por parte dos sujeitos descritos nos parágrafos primeiro e segundo deste artigo.
+
+**Art. 32** - Nas sepulturas concedidas perpetuamente, serão inumados os restos mortais do titular da concessão ou de qualquer pessoa, mediante autorização expressa do concessionário ou de seu representante legal.
+
+#### CAPÍTULO V DOS SEPULTAMENTOS
+
+**Art. 33** - Os sepultamentos serão efetuados mediante:
+
+I – exibição da certidão de óbito;
+
+II – pagamento das taxas de sepultamento e outras taxas devidas a Municipalidade;
+
+III – apresentação do título de concessão perpétua ou comprovante de concessão temporária; e IV – apresentação, quando for o caso, de procuração para os fins específicos ou autorização do concessionário.
+
+**Parágrafo único.** Quando, justificadamente, não for possível efetuar o pagamento das taxas devidas antes do sepultamento, o Município poderá autorizar seu recolhimento em, no máximo, 02 (dois) dias úteis, a contar da emissão da guia, sob pena de cobrança judicial ou extrajudicial, inscrição em dívida ativa e demais providências legais cabíveis.
+
+**Art. 34** - Os sepultamentos serão sempre individuais, salvo quando se tratar de mãe e filho natimorto, que poderão ser sepultados juntos.
+
+#### CAPÍTULO VI DAS EXUMAÇÕES
+
+**Art. 35** - As exumações, salvo determinação de autoridade competente, somente serão realizadas após 03 (três) anos de inumação.
+
+**Art. 36** - A exumação nos terrenos em que haja sido efetuado a inumação de pessoa falecida de moléstia contagiosa será efetuada mediante autorização e de
+
+acordo com os procedimentos emanados das autoridades sanitárias competentes.
+
+**Art. 37** - A exumação só será feita depois de tomadas as precauções sanitárias julgadas necessárias pelas autoridades competentes.
+
+**Art. 38** - Quando da exumação de restos mortais, os compartimentos denominados carneiros, catacumbas, gavetas e covas rasas deverão ser obrigatoriamente limpos, de forma a que não permaneçam quaisquer resíduos em seu interior.
+
+**Art. 39** - Após a limpeza deverá ser lançada camada de cal virgem para higienização do compartimento.
+
+**Art. 40** - A localização, remoção e acondicionamento temporário dos restos mortais deverão ser realizados de forma cuidadosa, devendo as ossadas serem acondicionadas em compartimentos adequados e devidamente registrados.
+
+**Art. 41** - Após a devida notificação, em não sendo retirados os restos mortais requisitados por familiares ou pessoas legalmente autorizadas, poderá a Administração do cemitério incinerar o material exumado em fornos crematórios licenciados, ou, se o preferir, enterrá-los em ossuário público.
+
+**Art. 42** - Os funcionários envolvidos na exumação e higienização do compartimento deverão obrigatoriamente utilizar Equipamento de Proteção Individual (EPI) condizente com os serviços.
+
+**Art. 43** - Qualquer material contaminado (restos de urna, tecidos) deverá ser descartado conforme as normas sanitárias e ambientais vigentes.
+
+#### CAPÍTULO VII DISPOSIÇÕES FINAIS
+
+**Art. 44** - Fica o Poder Executivo autorizado a realizar recadastramento periódico dos concessionários, que deverá ser amplamente divulgado através dos meios de comunicação e de publicação de edital de chamamento público, no órgão de imprensa oficial do Município.
+
+**Art. 45** - Decorridos 05 (cinco) anos, sem que se consiga identificar o nome do concessionário ou das pessoas que estiverem sepultadas nos jazigos, por falta de registro nos arquivos públicos, o terreno onde já houver jazigo reverterá ao patrimônio do Município.
+
+**§ 1º** - Para efeitos deste artigo, deverá ser publicado edital, apenas 01 (uma) vez, no órgão oficial do Município, contendo todas as características do terreno e sua localização dentro do cemitério, a fim de que eventual concessionário tome conhecimento da situação e comprove a titularidade da concessão, no prazo de até 90 (noventa) dias.
+
+**§ 2º** - Identificando-se o nome do concessionário ou de quem estiver sepultado no jazigo, o Município outorgará a concessão a quem de direito, obedecendo a ordem sucessória prevista na lei civil, desde que não conste de forma diferente em tratamento ou partilha judicial de bens. § 3º - No caso previsto no parágrafo segundo, deste artigo, a ordem de nomeação será decidida pelos próprios sucessores, no prazo máximo de 180 (cento e oitenta) dias, sob pena de perda da concessão.
+
+**§ 3º** - Esgotadas as providências exigidas em lei, sem que se identifique o concessionário ou a pessoa que estiver sepultada nos jazigos, o Município procederá a exumação, mantendo os restos mortais por 05 (cinco) anos, devidamente identificados pelo local de sepultamento. § 5º - Após o prazo previsto no parágrafo quarto, deste artigo, não havendo manifestação da família do de cujus, os restos mortais serão encaminhados ao Ossário.
+
+**Art. 46** - As transferências de titularidade, ampliação ou alteração de medidas da sepultura estarão sujeitas à cobrança das taxas previstas no Código Tributário Municipal.
+
+**Art. 47** - Em caso de insuficiência de área no Cemitério Municipal, o Município fica autorizado a adquirir espaços para sepultamento junto a outros cemitérios, aplicando-se, no que couber, as disposições desta Lei.
+
+**Art. 48** - A fim de que a limpeza do cemitério para as comemorações de finados não fique prejudicada, as construções, nos cemitérios, só poderão ser iniciadas em prazo hábil, de modo a poderem ser concluídas até 25 de outubro.
+
+**Art. 49** - Em cada sepultura será colocada pelo administrador, uma placa com o número correspondente ao lançado no livro respectivo.
+
+**Art. 50** - Os casos omissos serão decididos pela Administração Municipal, que poderá regulamentar a presente Lei, no que couber, por decreto executivo.
+
+**Art. 51** - A presente lei entrará em vigor após a sua publicação, revogadas as disposições em contrário.
+
+**Art. 52** - Fica vedada a concessão de novas sepulturas em caráter perpétuo no Cemitério Municipal, em virtude do esgotamento das vagas disponíveis para sepultamentos.
+
+Parágrafo Único: As concessões já existentes em caráter perpétuo permanecem válidas, devendo os concessionários ou seus herdeiros respeitar as condições de manutenção, conforme estabelecido nesta Lei. Nos casos de abandono ou ausência de sucessores por mais de 5 (cinco) anos, o espaço revertido ao Município será destinado à utilização conforme regulamentação vigente.
+
+ENTERRAMENTO/INUMAÇÃO Nº UFM PERIODICIDADE Sepultura comum adulto 80 POSTERIOR AO FATO Sepultura comum de criança 40 POSTERIOR AO FATO Sepultura perpétua de adulto 80 POSTERIOR AO FATO Sepultura perpétua de criança 40 POSTERIOR AO FATO Carneira perpétua 80 POSTERIOR AO FATO Carneira temporária 40 POSTERIOR AO FATO DIVERSOS Nº UFM Exumação 16 PREVIA AO FATO Entrada de ossos vindos de 8 PREVIA AO FATO outros cemitérios Saída de ossos de cemitério 8 PREVIA AO FATO Conservação de cemitério 40 ANUAL
+
+Numeração 8 PREVIA AO FATO Uso do necrotério 8 PREVIA AO FATO Traslado 8 POSTERIOR AO FATO
+
+Mendes,18 de março de 2026.
+
+JORGE HENRIQUE COSTA DE OLIVEIRA PREFEITO MUNICIPAL
+
+MUNICÍPIO DE MENDES RUA PROF. PAULO SERGIO NADER FERREIRA, Nº 250 - CENTRO MENDES/RJ - CEP 26.700-000 | CNPJ: 28.580.694/0001-50 FONE: (24) 2465-0661
+
+CÓDIGO DE ACESSO 3AAB1415096A4CCB9DABFAAAD7DA529E
+
+VERIFICAÇÃO DAS ASSINATURAS
+
+Este documento foi assinado digitalmente/eletronicamente pelos seguintes signatários nas datas indicadas
+
+Assinante: JORGE HENRIQUE COSTA DE OLIVEIRA em 19/03/2026 11:13:33 CPF:\*\*\*.\*\*\*-.597-09 Certificadora: MUNICÍPIO DE MENDES - ROOT
+
+Para verificar a validade das assinaturas acesse o link abaixo https://mendes.flowdocs.com.br/public/assinaturas/3AAB1415096A4CCB9DABFAAAD7DA529E
+

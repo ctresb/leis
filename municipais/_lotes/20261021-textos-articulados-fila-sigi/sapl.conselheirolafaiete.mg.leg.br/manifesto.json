@@ -1,0 +1,52 @@
+{
+  "host": "sapl.conselheirolafaiete.mg.leg.br",
+  "metadados_unicos_observados": 108,
+  "total_api_declarado": 108,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 78,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conselheirolafaiete.mg.leg.br/be2dc2b686484a6c8d350616d4f9b4870e2e8354f01b3e2d5e553015957522c7.json",
+    "url": "https://sapl.conselheirolafaiete.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.conselheirolafaiete.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0d85167a15c9be8fb22ddd1830b6d5a48d06a907ce05d58796b25d9c2cb952d9",
+    "bytes": 957,
+    "capturado_em": "2026-10-28T00:50:02.676694-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conselheirolafaiete.mg.leg.br/1c69251130a2adb325ba02e661717bde06ee349cb200819397116e44524df203.json",
+    "url": "https://sapl.conselheirolafaiete.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.conselheirolafaiete.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6442a209adbc5895db2f439ecaa3bc9002a14f688396267a855b64de69f5e6eb",
+    "bytes": 810,
+    "capturado_em": "2026-10-28T00:50:02.096152-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conselheirolafaiete.mg.leg.br/6efd2fd7d3273bd127ea81cf47088ddcc6936358bffdadd7ffaadf43b640309d.json",
+      "url": "https://sapl.conselheirolafaiete.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.conselheirolafaiete.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d50a54455e6beb45ae8ce592af41e70c2ea5749a687906f43aa1693afe58edb3",
+      "bytes": 75922,
+      "capturado_em": "2026-10-28T01:06:43.328455-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conselheirolafaiete.mg.leg.br/c0ee824ca61ecba232c84685dcd44bc8a6c6ee17dba3768029264bf41c818159.json",
+      "url": "https://sapl.conselheirolafaiete.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.conselheirolafaiete.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "eee18ec0c72dccc4e0684a0730fafc6660de949aa5bf74a8c2a0102ee2062268",
+      "bytes": 4506,
+      "capturado_em": "2026-10-28T02:23:12.456687-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

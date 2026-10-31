@@ -1,0 +1,452 @@
+{
+  "host": "sapl.alfenas.mg.leg.br",
+  "metadados_unicos_observados": 4191,
+  "total_api_declarado": 4191,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/0c5293f88e5a28d761430f7f782adef53032ed2248df96d36fcb56eab3a322ef.json",
+    "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T05:22:49.746571-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/6ef0cde83ebfb9887f4f2d3fc40030ed88802804df1682a4c9f6488d5f0cb9cb.json",
+    "url": "https://sapl.alfenas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.alfenas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "290967e4207d7cb52ec30bfce975ee674c3057d1a34db8909a4d57ffc00af85c",
+    "bytes": 714,
+    "capturado_em": "2026-10-21T05:22:48.741701-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/36d12c0bae2bffe922d36cef54cfcaf766881a6bd5e33fc5333b779f8f95515f.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ff6d1cbabca2e182d04d25a9afef59662e7aa1d7d38b8f34b3eddc7410045832",
+      "bytes": 233063,
+      "capturado_em": "2026-10-21T05:22:53.164529-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/7965d8a323ecea08d86ba914651dd853f847cedda40f12653314891665c2a19d.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c86477b88d61ad35e452f700e762ecfddab942272035a16ab7d53af1014c50b0",
+      "bytes": 183916,
+      "capturado_em": "2026-10-21T05:22:54.765271-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/123b7a23d98dbf6625d4c97f6fd122ee21ff12a7553da9915281a75ae451876c.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d16c05f959f1ab780cea4b1c570e22e3235dddc2058d2909d8f8ba1e022b9b73",
+      "bytes": 171366,
+      "capturado_em": "2026-10-21T05:22:56.476887-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/89c1d8e7e7896c6b1c91b5a06853122f94f2028ea85638217d6398b6a9fd04b3.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "013a40ae60eedb8dd0bf016821c9754d5277418cc6f480116a25622a0c85e40e",
+      "bytes": 159284,
+      "capturado_em": "2026-10-21T05:22:58.598202-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/04c96c4c7207ccf9d03cf79467c50203c535f57c04a477063af8ce3df8850e09.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "189a825f3d5a723beea809fe328ec654d5024ad38af13f87265f0b73bf7153e2",
+      "bytes": 163118,
+      "capturado_em": "2026-10-21T05:23:00.556104-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/5a0642ab5efdec98d296e5856bbf3d2f023d57334d44fe60134e3669bac58fbc.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "097fac01d984f813db65ead90b3de3e2e5604f95507fab556524811691198043",
+      "bytes": 121122,
+      "capturado_em": "2026-10-21T05:23:02.520108-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/fecfb6441c23376958776bb9ff4b577a25da0b0b46b45b866da1ee0da2fdee38.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2af9242182422fd342e7c98fa1973ff408650cebaad2b9ac9b556e6369d66dfc",
+      "bytes": 110774,
+      "capturado_em": "2026-10-21T05:23:04.564526-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/43ba1c1017118145718a5119c9eaed8b38f9154537a15b46e1271cb135abdf7a.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "11ed1b04fafeec26ae502f41837ad2a10d1bbab2943a95a32468997d2f03936e",
+      "bytes": 146070,
+      "capturado_em": "2026-10-21T05:23:06.293925-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/92aa17910988ae219bc2e763960c65a345f133cd33c94472cfba9f7bfedc2cd5.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ef32f0a68128d4686e8729bad15892b26aeacee4bbb02f8927702ac8a5fba348",
+      "bytes": 131812,
+      "capturado_em": "2026-10-21T05:23:08.455871-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/755b91a10760e08de4271b336bdc3e880aebd768f20fad52b9f383b76a0e1efd.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2aee22c3c79704f4ea94b4d6349def0ad42779b39a851b55bc22f9291276047d",
+      "bytes": 125705,
+      "capturado_em": "2026-10-21T05:23:10.076685-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/0cc2b7fd79389db7c16fe94dad242c48f1b4e4fe484eea53bf831d3db98c9c83.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bc772b1ca335c46c3a653384a4d427d6113120c8c77c54cfa9bf8f165421ec6b",
+      "bytes": 127826,
+      "capturado_em": "2026-10-21T05:23:12.105560-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/5891499c97e9f8a1ee0843fc09470bf47bd7e736c90542a2ee521b12f8a32044.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8283eaab1d82c6916395b6cc7fd58340639e25b549ef4025c22a8cc0cbc55537",
+      "bytes": 101236,
+      "capturado_em": "2026-10-21T05:23:13.707642-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/df82519f445d0114b4f8bad441d5a009d0f9433af474fe281450b739f939a7d7.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a64c43adde0ed7d8cfd8f4c4d27d3540b56ffa456c37483113adf6503c79e3e6",
+      "bytes": 91087,
+      "capturado_em": "2026-10-21T05:23:15.473228-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/0511a8a25da51de04eec8088769534ee4b80bcb2ac2a4dff20390dfc3a5b83ed.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3bbd24b21688806cea0cc1c7d98e2753283e87d7889d53f876a76d434b3f9e77",
+      "bytes": 102558,
+      "capturado_em": "2026-10-21T05:23:17.100420-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/c195bc3e450cbc4975a4dd1f6236f555ea91576866dd32b39918cb4f3445c521.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5750731bcbc1269203de8610c6170b88be57209ad74b79ed3ae3d970249743d7",
+      "bytes": 93364,
+      "capturado_em": "2026-10-21T05:23:19.033424-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/9283d43c0a55c4e0ac28dc1f48bae8a698f747d4883afa1f19b4ce6d422f8f83.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "755061019beb4b20eb89ae3277cee97f641570a9bb6dd5134a0893726edf6d08",
+      "bytes": 83944,
+      "capturado_em": "2026-10-21T05:23:20.436458-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/f4b166acfda411284f139c9917716fe5c6dc14f0c469076230313efedd44d6a9.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "11eaf6b46c39d98092e1a3430cad509f508ea695cfe77d068c0d1bd942e95897",
+      "bytes": 84619,
+      "capturado_em": "2026-10-21T05:23:22.257412-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/5109e22d139578c0f7866693f66733c0c21c6ee4a41159080f8dfef5ef69f625.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "436da3d3db0c8ee57a61ea4cd54607942107f4c04e5466b87f08f3d6fe26df50",
+      "bytes": 91659,
+      "capturado_em": "2026-10-21T05:23:24.016017-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/2f44ec9710607f0d99406b1203e60c12d358357b10d3e38abdc6e9af22d27e99.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9f68194b8f6f4cbb11dce23bc17ccba724bb382898584b57de9a20649682a78a",
+      "bytes": 86298,
+      "capturado_em": "2026-10-21T05:23:25.649301-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/c12de7056293d27ede051fbd99b30ddeff1fe1b90fcc1a02aa79724d10cac432.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4867e3ceff93a174160697d28805230e93869a27d8594497a55e9e3deeb27588",
+      "bytes": 89826,
+      "capturado_em": "2026-10-21T05:23:27.476270-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/5cb80a120c5a83a46508e97c2112bef66e6116f1e76470371317252e15f9f2b8.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "50a9202ed2f63661827ba3503b706416a3a4214612ad75b2a7747b6afa8717b1",
+      "bytes": 89301,
+      "capturado_em": "2026-10-21T05:23:28.627724-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/dea81d93b7b77fe5962571ea93b03789baded7a003780d0c6bc167e748c30476.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c236cdc9ebe193d9a43ecb86f01e45f975d62c6b0972c912f7c52bacdc556721",
+      "bytes": 90785,
+      "capturado_em": "2026-10-21T05:23:30.454633-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/41f16a012668a7d702492b2608901de43e69b329f1f235330d0e992f53547d13.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8822f2a6d50ab712d7c6712784795d174a9ede19903c4c901b83e0d3220ccc38",
+      "bytes": 89843,
+      "capturado_em": "2026-10-21T05:23:32.433844-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/b824f9ca14e38d3301e5a4e9205551b41b07fcd39acf23fd2b3dacd7dd2296aa.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bac9aea0dd27e79f68d533a9d8581799b50d09e656012b8379fe12243cb4478f",
+      "bytes": 85621,
+      "capturado_em": "2026-10-21T05:23:34.244038-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/3618af715bd784056aa7103a110223517d9ec4bc2a9a8f7b5761c7b943031c43.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "343d0741bfa427daba9e32d9b58acf28c66c84274e2febb4be9ab8e9e96cafba",
+      "bytes": 89708,
+      "capturado_em": "2026-10-21T05:23:36.036688-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/b194e9044e71d3db1aa0623184d32aea7391bfe247427f8975c90d308d2166bc.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f291df6937e438ae0651c65461fdf98d30f48f3962401fbaf88e58dae53ef8db",
+      "bytes": 93881,
+      "capturado_em": "2026-10-21T05:23:37.822781-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/9ef8fb266c5b87c3332f9bd7b4410c678b641e712f5a0c4dc4e1887beff5eded.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "579daa7e4a716acb5e8a7ec3134776e1dec66a4ae2a9dac2bcb0fe477e84ee8a",
+      "bytes": 80549,
+      "capturado_em": "2026-10-21T05:23:39.802117-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/cc7b9b25371c61b4ab31406a94ee375709b54d8a65fdb89f245d2b446921d7cc.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "13a8080ba5938b9af197ce74d887477ec24ac6caa79e800c81d1b0478585a43e",
+      "bytes": 96513,
+      "capturado_em": "2026-10-21T05:23:41.505245-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/c1b73a2aec579e8de223b038a631b0aac18392afecbab5e81ac889861c1421cb.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d5df7f4ce25db638b28a4e4fa884866a28c091f29db3472b8cb67ebe9a32b42f",
+      "bytes": 93834,
+      "capturado_em": "2026-10-21T05:23:43.244366-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/e031b09dc8158672574f9406e23a4f21aecc9b443691551b618f912e289ec88d.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e6ff9d4bfbdbd5100128f1a5c7854f599adc30bf56901249ca3f041c02a4cdb0",
+      "bytes": 81794,
+      "capturado_em": "2026-10-21T05:23:45.010961-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/93123b5fee36c558b06112d3b548b3ebd59937b26f24d9df8ac8ad942d566d5b.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "918b4f5e725235e321c2a7015e3fba7041c40dc20468db9dfe3dbfbedeab8f2f",
+      "bytes": 63789,
+      "capturado_em": "2026-10-21T05:23:47.026468-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/d48868a4f68c5f0f5e0341898338e943adb865fc8c0e46a0597d7588e0b20575.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c1453bdde0182b05be1233afde2c8a42c72566355fe7ee99608845f6c338f40b",
+      "bytes": 72735,
+      "capturado_em": "2026-10-21T05:23:48.424438-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/977c1d293cd2b511d5ec1c8714e1d7fbb0e767f38dbe3ae2b0cceba173dce499.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "586e241f547ab73e242033ef30a57802605bfb717389b8a4174a0ff3bed0d9f9",
+      "bytes": 63762,
+      "capturado_em": "2026-10-21T05:23:50.223894-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/aa19bf419dbdac7c4457e376799949bf7f95a0db5c4f5e756eec1ae426efe59d.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "50bc97d7be88530bf38e373f06636b55140537f958aa251d5716ef642e48f3c4",
+      "bytes": 63472,
+      "capturado_em": "2026-10-21T05:23:52.032561-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/711ee71f308a115d48cc7c651343e36e268ee6ad02743ed8e411356e65d6cfe9.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "64317c4b0cb31550b6f4863580e1ef9a06f1c3d0b674bd9e3191a2bbb8bd159c",
+      "bytes": 63315,
+      "capturado_em": "2026-10-21T05:23:53.628906-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/e1375bd6c5c30828a9ec7c1f81d9e2393d069d7a3ea8ad6e1d71c6338cde3709.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9b38f17ce00fc2ea678dbc28e18c37faa38dcb06667038b84c791c3f0b763b82",
+      "bytes": 65968,
+      "capturado_em": "2026-10-21T05:23:55.446957-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/8e357fe84ed78377c3404a2f2ba534d230623cdb0c14d18ecb3f3189136a846f.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=37",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=37",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0793086eaa7e5810800698b3f32eb707490e422889c24bec8361d20301c805ef",
+      "bytes": 68499,
+      "capturado_em": "2026-10-21T05:23:57.450684-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/7218febc9765a8b8ddfc8a7e758887eee30b35118912f01e03c456512b0f5b56.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=38",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=38",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "292500ac4301008d9e647ccb04a540bce1d9351d51fba21fd63a20ce8cf1a2f2",
+      "bytes": 75895,
+      "capturado_em": "2026-10-21T05:23:59.215252-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/941100e9f00880a8a8ae7cd83499e0b8f4f49269fd35f58577601640e50e1b7e.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=39",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=39",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "007dbe267b922521cbce93505748fd4ffcbc321b61c452e7b34b2b7039c69cec",
+      "bytes": 65967,
+      "capturado_em": "2026-10-21T05:24:00.828098-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/4b918d9a522fce824405270e3942ce8f53f325d93277b8e8f76635a961b8e363.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=40",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=40",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "00f9972ec34cbd1a19d038be4065ae0decec9eff4503d17e497136a509d959c6",
+      "bytes": 60514,
+      "capturado_em": "2026-10-21T05:24:02.445598-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/355142ad4d8bb73c23e67c59a51d8e06ba69e77bbb0ce019d5dbba56e85a1903.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=41",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=41",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f62ee56c3c663bb052d3b843c71f28231a0ceb1552466301ad8f4d42b6e38336",
+      "bytes": 62392,
+      "capturado_em": "2026-10-21T05:24:04.029590-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/877833cbb7d7477305a5b17e7151aba9f7688eaa38cce31a784b3ec76959fb77.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=42",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=42",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c5c193dfeb5d2e4bd8c6686f7019a15ea9754e793ce3871652458a82aae5a571",
+      "bytes": 56019,
+      "capturado_em": "2026-10-21T05:24:05.787094-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.estanciavelha.rs.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.estanciavelha.rs.leg.br/8fae137ce9dc76481177e51e46e879b9dd84234ffe3ed76f792fc0ef5f950790.json",
+    "url": "https://sapl.estanciavelha.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.estanciavelha.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:29:26.006521-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.estanciavelha.rs.leg.br/d34211209b72a9ed143b343f26cbf5e7f9862beb9c21a9735865e83b580f7fc5.json",
+    "url": "https://sapl.estanciavelha.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.estanciavelha.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "669634ad26197db4a12ab28dafef800ea5bc504f6de60494e3168f5c66540dbb",
+    "bytes": 741,
+    "capturado_em": "2026-10-28T10:29:25.185942-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.estanciavelha.rs.leg.br/bd3ca052d104db95c66b1c967a1ca5a0705ff52f95d196518d12b48ce99c44aa.json",
+      "url": "https://sapl.estanciavelha.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.estanciavelha.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e62f7d85809e14f0c964d48ebb794e2993f654c314b7dc8404fdae7541f4ff5c",
+      "bytes": 1162,
+      "capturado_em": "2026-10-28T10:29:28.003745-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,248 @@
+{
+  "estado": "indice_completo",
+  "total": 23,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/plo_71-2018_-_reajusta_os_valores_da_contribuicao_de_iluminacao_publica_-_cip.pdf da norma Lei nº 1.495, de 26 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "REAJUSTA OS VALORES DA CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA - CIP, PARA O ANO DE 2019, CONFORME PREVISTO NO PARÁGRAFO ÚNICO DO ART. 2º DA LEI MUNICIPAL N.º 1.495/2017.",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2017/1/plo_71-2018_-_reajusta_os_valores_da_contribuicao_de_iluminacao_publica_-_cip.pdf",
+      "ano": 2017,
+      "norma": 102
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/port_13_e_14-202203032023.pdf da norma Portaria (Poder Legislativo) nº 14, de 01 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2022/2/port_13_e_14-202203032023.pdf",
+      "ano": 2022,
+      "norma": 3445
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/3/576_texto_integral.pdf da norma Lei nº 566, de 30 de dezembro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Texto assinado",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2002/3/576_texto_integral.pdf",
+      "ano": 2002,
+      "norma": 576
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/4/relatorio_da_cetpla.pdf da norma Resolução Legislativa nº 9, de 22 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Relatório final",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2023/4/relatorio_da_cetpla.pdf",
+      "ano": 2023,
+      "norma": 3455
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/1885_-_pesquisavel_1.pdf da norma Lei nº 1.885, de 09 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Pesquisável - Parte 1",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2023/5/1885_-_pesquisavel_1.pdf",
+      "ano": 2023,
+      "norma": 3717
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/1885_pesquisavel_2.pdf da norma Lei nº 1.885, de 09 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Pesquisável - Parte 2",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2023/6/1885_pesquisavel_2.pdf",
+      "ano": 2023,
+      "norma": 3717
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/lei_1554-2018_-___texto_original.pdf da norma Lei nº 1.554, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Texto original - publicado no D.O de 05/12/2018.",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2018/7/lei_1554-2018_-___texto_original.pdf",
+      "ano": 2018,
+      "norma": 2133
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/01_-_sumario_geral.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "SUMÁRIO GERAL",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/8/01_-_sumario_geral.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/02_-_receitas_e_despesas.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "RECEITAS E DESPESAS",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/9/02_-_receitas_e_despesas.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/03_-_anexo_2_especificacao_da_receita.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "ESPECIFICAÇÃO DA RECEITA",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/10/03_-_anexo_2_especificacao_da_receita.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/04_-_anexo_2_natureza_da_despesa.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "NATUREZA DA DESPESA",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/11/04_-_anexo_2_natureza_da_despesa.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/05_-_programa_de_trabalho.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "PROGRAMA DE TRABALHO",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/12/05_-_programa_de_trabalho.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/06_-_funcoes_por_projeto.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "FUNÇÕES POR PROJETO",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/13/06_-_funcoes_por_projeto.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/07_-_demonst_desp_conf.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/14/07_-_demonst_desp_conf.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/08_-_demonst_desp_por_orgaos.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO ÓRGÃOS",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/15/08_-_demonst_desp_por_orgaos.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/09_-_quadro_demonst_das_dotacoes.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE DOTAÇÕES",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/16/09_-_quadro_demonst_das_dotacoes.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/10_-_quadro_demonst_programas.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "PROGRAMAS",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/17/10_-_quadro_demonst_programas.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/12_-_quadro_sumario_da_despesa.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "SUMÁRIO DA DESPESA",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/18/12_-_quadro_sumario_da_despesa.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/13_-_quadro_das_dotacoes_por_orgao.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "DOTAÇÕES POR ORGÃO",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/19/13_-_quadro_das_dotacoes_por_orgao.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/20/14_-_quadro_detalhamento_de_despesa.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "QDD",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/20/14_-_quadro_detalhamento_de_despesa.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/21/11_-_quadro_sumario_da_receita.pdf da norma Lei nº 1.937, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "SUMÁRIO RECEITA",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2024/21/11_-_quadro_sumario_da_receita.pdf",
+      "ano": 2024,
+      "norma": 3964
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/22/1772-2022.pdf da norma Lei nº 1.772, de 25 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Texto Original - Publicação em Diário Oficial",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2022/22/1772-2022.pdf",
+      "ano": 2022,
+      "norma": 2727
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/23/errata_re_50-2017.pdf da norma Resolução Legislativa nº 50, de 08 de março de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Errata nome da creche.",
+      "anexo_arquivo": "http://sapl.conceicaodemacabu.rj.leg.br/media/sapl/public/anexonormajuridica/2017/23/errata_re_50-2017.pdf",
+      "ano": 2017,
+      "norma": 1738
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodemacabu.rj.leg.br/2804f94b94e13dc7eb0c862662e34c9c2c612e90146b72ff6e304bd3a19efa6a.json",
+      "url": "https://sapl.conceicaodemacabu.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.conceicaodemacabu.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3d7af06c54b4fe354226c57a9da84491ee7f8fa1131073b3ddd0bb39b9848480",
+      "bytes": 10141,
+      "capturado_em": "2026-10-27T23:07:28.036069-03:00"
+    }
+  ]
+}

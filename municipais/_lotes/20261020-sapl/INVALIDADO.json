@@ -1,0 +1,3 @@
+{
+  "motivo": "Auditoria preliminar invalidada: parser herdado de metadados não lia chaves com dígitos (sha256_fonte e sha256_texto). Nenhuma lista entregue. Auditoria corrigida em20261020-sapl-v2."
+}

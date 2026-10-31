@@ -1,0 +1,43 @@
+---
+titulo: "Lei Ordinária nº 570, de 26 de março de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "570"
+data: "2021-03-26"
+municipio: "Cuitegi"
+uf: "PB"
+codigo_ibge: "2505204"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.cuitegi.pb.leg.br/norma/630"
+fonte_texto: "https://sapl.cuitegi.pb.leg.br/media/sapl/public/normajuridica/2021/630/pl_n06_de_26_de_marco_de_2021.pdf"
+sha256_fonte: "8af8dae0076e0e30f9d5755bc880819034a8974143af75b8114025971f02cfa5"
+sha256_texto: "1a94fbcfae097a6cf27a2659a75d5973ab29a2c9676d6cb895d633d9612c8828"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 570, de 26 de março de 2021
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+570/ 202łł Jailson Pereira Presidente PROJETO DE LEI N° 06/2021 "Ratifica protocolo de intenções firmado Aprovado em 1ª discuss entre Municipios brasileiros, com a Em L6102 20g finalidade de adquirir vacinas para Presidente combate à pandemia do coronavirus; medicamentos, insumos e Aprovado em 2° discussac equipamentos na área da saúde". Em. 20102/20 Presidente O PREFEITO CONSTITUCIONAL DO MUNICÍPIO DE CUITEGI, no uso de suas atribuições que lhe são conferidas pela Lei Orgânica do Município, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1°** Fica ratificado, nos termos da lei federal n° 11.107/2005 e seu decreto federal regulamentador n° 6.017/2007, o protocolo de intenções firmado entre municípios de todas as regiões da República Federativa do Brasil, visando precipuamente a aquisição de vacinas para combate à pandemia do coronavírus, além de outras finalidades de interesse público relativas à aquisição de medicamentos, insumos e equipamentos na área da saúde.
+
+**Art. 2°** O protocolo de intenções, após sua ratificação, converter-se-á em contrato de consórcio público.
+
+**Art. 3°** O consórcio que ora se ratifica terá a personalidade jurídica de direito público, com natureza autarquica.
+
+**Art. 4°** Fica autorizada a abertura de dotação orçamentária própria para fins de cumprimento do Art. 8° da Lei Federal 11.107/2005, podendo ser suplementadas em caso de necessidade.
+
+**Art. 5°** Esta lei entra em vigor na data de sua publicação.
+
+**Art. 6°** Revogam-se as disposições em contrário. GABINETE DO PREFEITO CONSTITUCIONAL DO MUNICIPIO DE CUITEGI/PB, 26 DE MARÇO DE 2021. Geraldo Alves Serafim Prefeito Constitucional
+
+CUITEG
+
+MENSAGEM DE PROJETO DE LEI MUNICIPAL N° 06/2021 Senhor(a) Presidente e Senhores Vereadores: O recrudescimento dos casos de COVID-19 em todo território nacional tem preocupado prefeitas e prefeitos de todo o país. A justificativa do envio do presente projeto de lei a esta Egrégia Casa Legislativa se dá nesse cenário desalentador, que exige atitudes tempestivas, tanto do Executivo quanto dos pares desta Câmara. Há urgente necessidade de vacinação em massa da população brasileira, não só para frear o iminente colapso generalizado na área da saúde, evitando mortes por desassistência, como também para retomar a atividade econômica, a geração de emprego e renda e o convívio social. Preliminarmente, cabe destacar que o Programa Nacional de Imunizações (PNI), instituído em 1973, explicita que a aquisição de vacinas é competência legal e administrativa do Governo Federal. O tema da aquisição de vacinas foi objeto de judicialização nas diversas instâncias do Poder Judiciário brasileiro. Também não escapou à jurisdição constitucional do Supremo Tribunal Federal(STF). Com efeito, na Ação Direta de Descumprimento de Preceito Fundamental -ADPF n° 770 -ajuizada pela Ordem dos Advogados do Brasil (OAB) - o STF enfrentou a questão da competência para aquisição de vacinas para combate à pandemia. A Suprema Corte referendou a decisão, por unanimidade, em 24 de fevereiro de 2021, que os Municípios brasileiros também possuem competência constitucional para aquisição e fornecimento de vacinas nos casos de: i) descumprimento do Plano Nacional de Imunização pelo Governo Federal, e ii) insuficiência de doses para imunização da população brasileira. Na mesma linhada decisão proferida pelo STF, motivadora dessa iniciativa, o Congresso Nacional aprovou, em 02 de março de 2021, o Projeto de Lei n° 534/2021, que autoriza a aquisição de vacinas pelos Municípios brasileiros. Nesse contexto, a Frente Nacional de Prefeitos (FNP), entidade suprapartidária de representação nacional de Municípios, apoia tecnicamente a instituição de Consórcio Público de abrangência nacional para aquisição de vacinas. Diante disso, e zelosa da plena segurança jurídica de que se reveste a medida, a FNP lidera e apoia tecnicamente a formatação de Consórcio Público de abrangência nacional, ora levado à apreciação de Vossas Senhorias. A iniciativa, que conta com manifestação de interessede1.703Municípios -o que abrange mais de 125milhões de brasileiros, cerca de 60% do total de habitantes (dados registrados até 12h, de 05de março de 2021) -, tem finalidade de contribuir para agilizar a imunização da população e
+
+também de atender eventuais demandas por medicamentos, equipamentos e insumos que sejam necessários aos serviços públicos municipais de saúde. Com a missão de, caso seja necessário, adquirir imunizações complementares ao PNI, o Consórcio visa fortalecer o Sistema Único de Saúde (SUS), na medida em que todas as doses serão obrigatoriamente ofertadas à população de forma gratuita. Assim, representa uma concertação federativa que favorecerá a todos, já que quanto mais doses estiverem disponíveis, mais rapidamente os brasileiros serão vacinados. Ademais, esse Consórcio é efetivamente um instrumento para oportunizar ganho de escala, proporcionando vantajosidade nas negociações dos Municípios, sejam de preços, condições contratuais e/ou prazos. Trata-se de um instrumento legal, amparado na Lei Federal n° 11.107/2005, que oferece segurança jurídica, podendo minimizar judicializações a que compras em menor escala estariam sujeitas. Além disso, o fato de o Município estar apto a comprar por intermédio do Consórcio não impede aquisições diretas de nenhuma espécie. Portanto, o Consórcio não interfere na autonomia dos Municípios. Pelo contrário, a reforça. Na medida que reúne grande número de Municípios, que representam uma parcela considerável da população nacional, o Consórcio ora instituído, fortalece o poder local. Oportuniza acesso e imagem robusta nas relações internacionais, fundamentais para as negociações de vacinas, especialmente durante a pandemia. A proposta que sustenta a formação do presente Consórcio Público é a de colaboração entre os Entes Federativos. A FNP, que estimula, e as centenas de cidades brasileiras, que manifestaram interesse formal em aderir ao Consórcio, apostam em um federalismo cada vez mais cooperativo. Por isso, cabe ressaltar, que o Consórcio também não compete ou se sobrepõe ao papel das entidades de representação política na tederação, tais como as associações de Municípios microrregionais, regionais e nacionais Instituições que detém personalidade jurídica, governança e atribuições específicas, distintas e independentes. Há que se destacar que os recursos para a compra dos indispensáveis itens, a que se propõe o Consórcio, podem vir de diversas fontes, dentre elas: recursos municipais; repasses de verbas federais, inclusive decorrentes de emendas parlamentares; e doações advindas de fontes nacionais e internacionais. O Consórcio Público, que será constituído a partir do presente protocolo de intenções, está em sintonia com a Lei Federal n° 11.107/2005 e seu decreto federal regulamentador. A partir da ratificação do protocolo de intenções surgirá nova pessoa jurídica de direito público, com natureza jurídica autárquica, que será estruturada para executar as linalidades que motivaram sua criação, sendo certo que o Consórcio irá se submeter a todos os princípios que regem a ação administrativa do Estado, como, por exempio, legalidade, moralidade, impessoalidade, publicidade e eficiência.
+
+Esse projeto também garante, como dever ser, o pleno controle externo das atividades desenvolvidas pelo Consórcio, em obediência às normas de direito financeiro e de responsabilidade fiscal. Para finalizar, cabe destacar que se trata de uma iniciativa de vulto e inédita no país. Ação que se apresenta como possibilidade para colaborar no enfrentamento a um problema iminente que é de todos, a escassez de vacinas para imunização em massa da população e, a médio e longo prazos, de outros insumos. Diante do exposto, apresentamos para avaliação e análise de Vossas Senhorias o presente protocolo de intenções. Atenciosamente, Geraldo Alves Serafim Prefeito Constitucional
+

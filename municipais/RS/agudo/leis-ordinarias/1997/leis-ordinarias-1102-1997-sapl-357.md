@@ -1,0 +1,94 @@
+---
+titulo: "Lei nº 1.102, de 28 de maio de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1102"
+data: "1997-05-28"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1997-06-11; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/357"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1299/text"
+sha256_fonte: "3b9cb24ebb6116735accd1b3ee6ffffac98c823b3f38579df013a87ca77075e7"
+sha256_texto: "6a906fd9c9f76b3cde5ca248337c9bf7bc1fd79a7843af362cd78ed83a7e358c"
+capturado_em_fonte: "2026-10-27T21:15:02.520333-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.102, de 28 de maio de 1997
+
+AUTORIZA O MUNICÍPIO DE AGUDO A PARTICIPAR DE CONSÓRCIO INTERMUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+LAURO REINOLDO REETZ, PREFEITO MUNICIPAL DE AGUDO,  
+FAÇO SABER, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado à promover a participação do Município de Agudo no Consórcio Intermunicipal de Saúde, constituído por Municípios do Estado do Rio Grande do Sul, para a consecução das seguintes finalidades:
+
+
+a)
+
+Realizar ações conjuntas de promoção, prevenção e recuperação da saúde;
+
+
+b)
+
+planejar, adotar e executar programas e medidas, em consonância com as diretrizes do Sistema Único de Saúde;
+
+
+c)
+
+integrar Pessoa Jurídica, se assim for deliberado e convir ao bom desempenho das atividades do Consórcio.
+
+
+Art. 2º.
+
+O Consórcio somente será constituído de Municípios regularmente autorizados pelas respectivas Câmaras Municipais.
+
+
+Art. 3º.
+
+Fica 0 Poder Executivo Municipal autorizado a efetuar o pagamento da taxa de inscrição no valor de R$ 120,00 e o valor mensal de R$ 1.784,16 a partir do mês de maio de 1997.
+
+
+Art. 4º.
+
+As despesas decorrentes da presente Lei correrão à conta da seguinte Dotação Orçamentária do exercício de 1997:
+
+08 - SECRETARIA DA SAÚDE E BEM ESTAR SOCIAL
+
+1.036 - Consórcio Intermunicipal de Saúde
+
+3.2.2.4 - Transferências à Instituições Multigovernamentais.
+
+Alteração feita pelo Art. 1º. - Lei nº 1.106, de 11 de junho de 1997.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL, aos 28 de maio de 1997.
+
+LAURO REINOLDO REETZ
+
+Prefeito Municipal
+
+Registre-se e publique-se.
+
+HASSO HARRAS BRÄUNIG  
+Se. Mun. de Administração
+

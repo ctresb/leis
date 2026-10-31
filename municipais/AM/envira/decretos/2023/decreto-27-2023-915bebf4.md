@@ -1,0 +1,180 @@
+---
+titulo: "DECRETO Nº 27 , DE 02 DE OUTUBRO DE 2023 - LEI N.424"
+uf: "AM"
+municipio: "ENVIRA"
+tipo: "Decreto"
+numero: "27"
+data: 2023-10-02
+ano: "2023"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 18/03/2026"
+data_publicacao: 2026-03-18
+codigo_identificador: "915BEBF4"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118819_2026-03-17_ef0e7fd0f5e4beaecb3fe18532057d1c.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 27 , DE 02 DE OUTUBRO DE 2023 - LEI N.424
+
+DECRETO Nº 27 , DE 02 DE OUTUBRO DE 2023 - LEI N.424
+Abre no orçamento vigente crédito adicional
+suplementar e da outras providências
+DECRETA:
+Artigo 1o.- Fica aberto no orçamento vigente, um crédito adicional
+todos na
+importância de R$2.827.196,00 distribuídos as seguintes dotações:
+Suplementação ( + ) 2.827.196,00
+Excesso
+02 04 01 SECRETARIA MUNICIPAL DE EDUCACAO
+523 12.361.0060.2015.0000 TRANSPORTE ESCOLAR 21.450,00
+Manutenção do Transporte Escolar do Ensino Fundamental F.R.: 015
+019
+3.3.90.33.00 PASSAGENS E DESPESAS COM LOCOMOÇÃO
+15 OUTRAS TRANSFERÊNCIAS DO FNDE
+200 000 EDUCAÇÃO
+133
+12.361.0062.2016.0000
+QUALIDADE
+DO
+ENSINO
+FUNDAMENTAL 214.000,00
+Manutenção da Rede de Ensino Fundamental F.R.: 012 012
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO
+12 FUNDEB
+002 100 Ensino Fundeb 70%
+139
+12.361.0062.2016.0000
+QUALIDADE
+DO
+ENSINO
+FUNDAMENTAL 338.500,00
+Manutenção da Rede de Ensino Fundamental F.R.: 012 012
+3.1.90.11.00 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL
+CIVIL
+12 FUNDEB
+002 110 Ensino Fundeb 70% VAAF (Complementação)
+155
+12.361.0062.2016.0000
+QUALIDADE
+DO
+ENSINO
+FUNDAMENTAL 44.640,00
+Manutenção da Rede de Ensino Fundamental F.R.: 012 011
+3.3.90.30.00 MATERIAL DE CONSUMO
+12 FUNDEB
+002 200 Ensino Fundeb 30%
+167
+12.361.0062.2016.0000
+QUALIDADE
+DO
+ENSINO
+FUNDAMENTAL 137.702,00
+Manutenção da Rede de Ensino Fundamental F.R.: 012 011
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA
+12 FUNDEB
+002 200 Ensino Fundeb 30%
+
+APOIO
+473
+12.361.0062.2016.0000
+FUNDAMENTAL 1.160,00
+www.diariomunicipal.com.br/aam
+
+QUALIDADE
+
+DO
+
+ENSINO
+
+91
+
+Amazonas , 18 de Março de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4067
+Manutenção da Rede de Ensino Fundamental F.R.: 012 012
+3.1.90.16.00 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL
+12 FUNDEB
+251 000 EDUCAÇÃO-FUNDEF-MAGISTÉRIO
+Excesso
+02 04 01 SECRETARIA MUNICIPAL DE EDUCACAO
+496
+12.361.0062.2016.0000
+QUALIDADE
+DO
+ENSINO
+FUNDAMENTAL 57.957,00
+Manutenção da Rede de Ensino Fundamental F.R.: 015 115
+3.3.90.30.00 MATERIAL DE CONSUMO
+15 OUTRAS TRANSFERÊNCIAS DO FNDE
+200 000 EDUCAÇÃO
+487 12.365.0070.2022.0000 MANUTENCAO E REVITALIZACAO
+DA EDUCACAO INFANTI 390.800,00
+Manutencao da Educação Infantil F.R.: 012 012
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO
+12 FUNDEB
+002 111 Ensino Fundeb 70% VAAT (Complementação)
+488 12.365.0070.2022.0000 MANUTENCAO E REVITALIZACAO
+DA EDUCACAO INFANTI 4.400,00
+Manutencao da Educação Infantil F.R.: 012 011
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO
+12 FUNDEB
+002 200 Ensino Fundeb 30%
+03 01 01 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+525 08.243.0034.2035.0000 ATENÇÃO COMUNITÁRIA 16.550,00
+Encargos com Bloco de Programas F.R.: 011 763
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA
+11 TRANSFERENCIA DO SISTEMA DE ASSISTENCIA SOCIAL
+- SUAS
+004 100 Assistencia Social Transferência do FNA
+05 01 01 FUNDO MUNICIPAL DE SAÚDE
+406 10.301.0052.2042.0000 ATENÇÃO À SAÚDE DA
+POPULAÇÃO 298.350,00
+Manutenção do Programa de Atenção Basica a Saude F.R.: 010 002
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO
+10 TRANSFERÊNCIA DO SISTEMA UNICO DE SAUDE - SUS
+003 199 Saude Transferências do SUS
+431 10.302.0052.2045.0000 ATENÇÃO À SAÚDE DA
+POPULAÇÃO 245.892,00
+Manutenção do Programa da Atenção à Saúde da População p F.R.:
+010 009
+3.1.90.04.00 CONTRATAÇÃO POR TEMPO DETERMINADO
+10 TRANSFERÊNCIA DO SISTEMA UNICO DE SAUDE - SUS
+003 199 Saude Transferências do SUS
+438 10.302.0052.2045.0000 ATENÇÃO À SAÚDE DA
+POPULAÇÃO 81.800,00
+Manutenção do Programa da Atenção à Saúde da População p F.R.:
+010 009
+3.3.90.39.00 OUTROS SERVIÇOS DE TERCEIROS - PESSOA
+JURÍDICA
+10 TRANSFERÊNCIA DO SISTEMA UNICO DE SAUDE - SUS
+003 199 Saude Transferências do SUS
+Excesso
+05 01 01 FUNDO MUNICIPAL DE SAÚDE
+507 10.301.0052.2042.0000 ATENÇÃO À SAÚDE DA
+POPULAÇÃO 9.840,00
+Manutenção do Programa de Atenção Basica a Saude F.R.: 010 779
+3.1.90.94.00
+INDENIZAÇÕES
+E
+RESTITUIÇÕES
+TRABALHISTAS
+10 TRANSFERÊNCIA DO SISTEMA UNICO DE SAUDE - SUS
+003 199 Saude Transferências do SUS
+
+519 10.301.0052.2042.0000 ATENÇÃO À SAÚDE DA
+POPULAÇÃO 964.155,00
+Manutenção do Programa de Atenção Basica a Saude F.R.: 010 002
+3.3.90.30.00 MATERIAL DE CONSUMO
+10 TRANSFERÊNCIA DO SISTEMA UNICO DE SAUDE - SUS
+300 000 SAÚDE
+Artigo 2o.- O crédito aberto na forma do artigo anterior será coberto
+com recursos
+provenientes de:
+Excesso: 2.827.196,00
+Artigo 3o.- Este decreto entra em vigor na data de sua publicação.
+PAULO RUAN PORTELA MATTOS
+Prefeito Municipal
+PUBLICADO NO QUADRO DE AVISO DA PREFEITURA
+MUNCIPAL DE EM 02/10/2023
+Publicado por:
+Maria Nicélia Páscoa Bezerra

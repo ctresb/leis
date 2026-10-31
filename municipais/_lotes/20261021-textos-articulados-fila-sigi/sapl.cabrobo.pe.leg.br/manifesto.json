@@ -1,0 +1,232 @@
+{
+  "host": "sapl.cabrobo.pe.leg.br",
+  "metadados_unicos_observados": 1974,
+  "total_api_declarado": 1974,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/2e2909024aac577df8a6284c2ecd26fddb64e84f79fb8f253e7ac07f60fa6adf.json",
+    "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "00494451979b12eaf65b774af329f81c36e657e9af297fda81d7d218ea5af148",
+    "bytes": 959,
+    "capturado_em": "2026-10-27T21:03:26.757188-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/f7584440f883b51f9ebdd48076968011b731bff57cc556434f6f1bd527a7d611.json",
+    "url": "https://sapl.cabrobo.pe.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cabrobo.pe.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "113d31160090032c4acd9bc7ad66c84132e039d3ea15f80d3a28faefe14d7304",
+    "bytes": 783,
+    "capturado_em": "2026-10-27T21:03:25.940367-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/cfb5315dfdae502302c30a5cb819240f40a189d721dddedb3d82b9a9d49ae208.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "abcd712447017e7789990d640ea361ed877556e06d990ea174026983a470d8d4",
+      "bytes": 70979,
+      "capturado_em": "2026-10-27T21:03:29.178312-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/e35a4cd2d59a02d9c3781e4a587d762043929b0690873128d662f63602836a7e.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "85c7a6d1eb21b367caac9d784d8bac25d5a80d755d62c42782d854c32b9d85bc",
+      "bytes": 71331,
+      "capturado_em": "2026-10-27T21:03:30.220262-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/49e9c51c108844117cfa108fe16e7b0f01fb358a7493b0238e6fae439fba735f.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "053e3f9889d453a72f4eb5345f97fa922a1dfe9535fcb4eec155e4622cb1d043",
+      "bytes": 69993,
+      "capturado_em": "2026-10-27T21:03:31.194827-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/1e7dce01e9a20fb436c2a701b73c70f8673ad93d9ae7249f5264b5abcba9e3d0.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "799475e7bf950b799f158f81e15eb6ea94eb3269a77a6a81af012e0eefdb5eec",
+      "bytes": 68779,
+      "capturado_em": "2026-10-27T21:03:32.200940-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/51140c28d29533eb56c6044c11af5591b73d2783d00f71173f4fa26efbd6796a.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "21d368759ba75cfb9071dd099aeaedd79e984d97bb21c1bdcd604f03cf1d7a65",
+      "bytes": 67490,
+      "capturado_em": "2026-10-27T21:03:33.393632-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/16de62816cd28db8bddebc3aca9da189c88bd8b089a642e8d86d729bb2a8592d.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1f20ca919dce9b599aae0615b7c48bb89e3c677a6686aef4b3bc4b3b778cdb3e",
+      "bytes": 67056,
+      "capturado_em": "2026-10-27T21:03:34.224087-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/a7ce2eb923e22772a915c6e392aa178af6d162b59684183a466f2d03d9e69681.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "54a32b51e69dc939c70ae7e287185cb1a658a01d62c9ab5604eff8ab3e2fe56a",
+      "bytes": 69852,
+      "capturado_em": "2026-10-27T21:03:35.424225-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/859a0ac54b283ef1be016ef3206e5e85451ef0d02ecca1413e2c19ecb5b44816.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "845bf92a0295fb6a8c012ba6db8488ad9dcab54263b1aed33faec64cb9ae220d",
+      "bytes": 67040,
+      "capturado_em": "2026-10-27T21:03:36.198872-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/a9181d55cf53d7ed1026b57ffbf0b2cc31b16793e7675d5e277ec0186e65abb8.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d4b9d1f187f5268d8f199bee450a177198a398ac1319053d779e4f49c008f320",
+      "bytes": 63546,
+      "capturado_em": "2026-10-27T21:03:37.179840-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/01b00484c6fbb68d9a7bde50a70e57e81d6c132bb1048989e2597b6a4171a41f.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ba5ac2ca1249010f138ca08651940f601cde8a2470b4b0c7725c5f4577d5b12d",
+      "bytes": 64921,
+      "capturado_em": "2026-10-27T21:03:38.416407-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/f096c4c4aa4e42e01df1623b6761bb3cfb352169e0bb559b844cd368cd92319a.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "31b108f1b7a8f5e5074874b813c57f8b140a559585a120b67feeec7df02ca23a",
+      "bytes": 66278,
+      "capturado_em": "2026-10-27T21:03:39.190130-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/97306aab42f59393c70f089bcd573ccab5bb5d3a5848b4176ea6de4a80aade09.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "098527c9ddae29c7cbeb1e67c32c6432d16110d8b0017f79a9d9a5f26a8c6eda",
+      "bytes": 64071,
+      "capturado_em": "2026-10-27T21:03:40.217446-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/87fa2a5528ce4d5c1619d4ec3041d8ab78122c67d522f1775d70d5e36e0221c8.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "62e48b13fcd35accdd41a181f3d098fdb4eba08c76ea0eafebb019858dc671ad",
+      "bytes": 62181,
+      "capturado_em": "2026-10-27T21:03:41.192021-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/4742dbef5562f51bd688fa80b43f58cdfc386cff4c767cb8ec72c561f4c80c83.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b7e756da93d25ad77cb6fbcd95f1eec12c81dbae2463928f95476f510e43c73e",
+      "bytes": 62570,
+      "capturado_em": "2026-10-27T21:03:42.175122-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/29f43095f57cda2231374679064dbd933c5977ab3275827b841208e8866d7d28.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "37bbcf94091180d1cfee1c51c332644101359ea6de20e848ef065cb80f9b4ebc",
+      "bytes": 63578,
+      "capturado_em": "2026-10-27T21:03:43.434658-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/7d831bfc4cf44ad73c460fb903768bcee51936029061544f38b6e3b7b6b11a4f.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6cf52d74d6ae03c04fa159174518029c345316d298839d803dc952407d03d4a6",
+      "bytes": 64223,
+      "capturado_em": "2026-10-27T21:03:44.426140-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/958dfa9f78b5a6d0adaefff3e9e7a19f2554347a4062257afc760a2ed1f55b02.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2626bc2da00f70e9a2372404c72485481f5d4c25b8ed809f634f65083ffed4ce",
+      "bytes": 65059,
+      "capturado_em": "2026-10-27T21:03:45.443268-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/04405c025056e3a5056c34929dcf969ff32d47e8cd038ebf86b5af5c0194aa62.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "74c1c6a79e9918709c9f430412eab3eafdad4650d04beca17f3f66250697c652",
+      "bytes": 62327,
+      "capturado_em": "2026-10-27T21:03:46.466202-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/934b105f8536e6844af24e7c0b001e5fc3f99bcb4d3d94a012102e33d7984bb3.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0e1a68cc245cc57da1f15d014e25f8380779d02e0b6ad66347bd0fc5c56ee0c9",
+      "bytes": 64179,
+      "capturado_em": "2026-10-27T21:03:47.433068-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabrobo.pe.leg.br/476ca24df1574c34439c6f7ef9d3783ab5d54bdbe70b5034853d58b08e2c05fc.json",
+      "url": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.cabrobo.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "db4255b2a1407713118d532d1c4578b8853c4d2d42c753e9b43eaf673deb63a4",
+      "bytes": 43882,
+      "capturado_em": "2026-10-27T21:03:48.196040-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

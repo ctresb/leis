@@ -1,0 +1,76 @@
+Cria e extingue cargos de provimento em comissão, altera número de vagas de cargos de provimento efetivos e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram e Eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei Complementar:
+
+
+Art. 1º.
+
+O anexo VI, da Lei Complementar n° 038/2007 de 28.08.2007, que Dispõe sobre a Estruturação do Plano de Cargos e Carreiras da Prefeitura Municipal de Buritis - MG, Estabelece Normas Gerais de enquadramento, institui nova tabela de vencimentos e dá outras providências, alterado pelas Leis Complementares nº 50 de 23.12.2008, 54 de 26.03.2009 e 56 de 03.07.2009 passam a vigorar com a seguinte redação:
+
+
+## ANEXO VI — Cargos de provimento em comissão
+
+<table><tbody><tr><td><p><strong>CARGO</strong></p></td><td><p><strong>VAGAS</strong></p></td><td><p><strong>CÓDIGO</strong></p></td><td><p><strong>VENCIMENTO</strong></p></td></tr><tr><td><p>Administrador Regional</p></td><td><p>2</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Assessor de Gabinete</p></td><td><p>1</p></td><td><p>CC – 7</p></td><td><p>        1.300,00 </p></td></tr><tr><td><p>Assessor de Imprensa e Relações Institucionais</p></td><td><p>1</p></td><td><p>CC - 6</p></td><td><p>        1.200,00 </p></td></tr><tr><td><p>Assessor de Secretaria</p></td><td><p>8</p></td><td><p>CC - 1</p></td><td><p>           600,00 </p></td></tr><tr><td><p>Assessor Jurídico</p></td><td><p>2</p></td><td><p>CC – 11</p></td><td><p>        2.330,00 </p></td></tr><tr><td><p>Assistente Judiciário</p></td><td><p>2</p></td><td><p>CC - 7</p></td><td><p>        1.300,00 </p></td></tr><tr><td><p>Chefe de Gabinete</p></td><td><p>1</p></td><td><p>CC – 9</p></td><td><p>1.800,00</p></td></tr><tr><td><p>Chefe Dep. Agricultura Familiar</p></td><td><p>1</p></td><td><p>CC – 5</p></td><td><p>1.000,00</p></td></tr><tr><td><p>Chefe Dep. Almoxarifado e Patrimônio</p></td><td><p>1</p></td><td><p>CC - 8</p></td><td><p>        1.500,00 </p></td></tr><tr><td><p>Chefe Dep. Atenção Social</p></td><td><p>1</p></td><td><p> CC – 5</p></td><td><p>1.000,00</p></td></tr><tr><td><p>Chefe Dep. Cadastro Único</p></td><td><p>1</p></td><td><p> CC – 6</p></td><td><p>        1.200,00 </p></td></tr><tr><td><p>Chefe Dep. Coleta de Lixo e Limpeza Urbana</p></td><td><p>1</p></td><td><p> CC - 6</p></td><td><p>        1.200,00 </p></td></tr><tr><td><p>Chefe Dep. Compras e Licitações</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Chefe Dep. Contabilidade</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>2.000,00</p></td></tr><tr><td><p>Chefe Dep. Controle e Avaliação</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Chefe Dep. De Atenção à Saúde</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Chefe Dep. Financeiro</p></td><td><p>1</p></td><td><p>CC - 8</p></td><td><p>        1.500,00 </p></td></tr><tr><td><p>Chefe Dep. Informática</p></td><td><p>1</p></td><td><p>CC – 9</p></td><td><p>        1.800,00 </p></td></tr><tr><td><p>Chefe Dep. Meio Ambiente</p></td><td><p>1</p></td><td><p> CC - 6</p></td><td><p>        1.200,00 </p></td></tr><tr><td><p>Chefe Dep. Obras</p></td><td><p>1</p></td><td><p>CC - 9</p></td><td><p>        1.800,00 </p></td></tr><tr><td><p>Chefe Dep. Parques e Jardins</p></td><td><p>1</p></td><td><p> CC – 5</p></td><td><p>1.000,00</p></td></tr><tr><td><p>Chefe Dep. Pecuário</p></td><td><p>1</p></td><td><p>CC - 6</p></td><td><p>        1.200,00 </p></td></tr><tr><td><p>Chefe Dep. Projetos</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Chefe Dep. Recursos Humanos</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Chefe Dep. Segurança Alimentar</p></td><td><p>1</p></td><td><p>CC - 6</p></td><td><p>        1.200,00 </p></td></tr><tr><td><p>Chefe Dep. Serviços Gerais</p></td><td><p>1</p></td><td><p>CC – 5</p></td><td><p>        1.000,00 </p></td></tr><tr><td><p>Chefe dep. Transporte</p></td><td><p>1</p></td><td><p>CC – 9</p></td><td><p>        1.800,00 </p></td></tr><tr><td><p>Chefe Dep. Tributos e Arrecadação</p></td><td><p>1</p></td><td><p> CC - 8</p></td><td><p>        1.500,00 </p></td></tr><tr><td><p>Chefe Dep. Vigilância em Saúde</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Chefe do SIAT</p></td><td><p>1</p></td><td><p> CC – 6</p></td><td><p>1.200,00</p></td></tr><tr><td><p>Chefe Setor de Suporte Técnico</p></td><td><p>1</p></td><td><p> CC – 5</p></td><td><p>        1.000,00 </p></td></tr><tr><td><p>Controlador Geral</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>        2.000,00 </p></td></tr><tr><td><p>Coordenador de Atenção Social </p></td><td><p>1</p></td><td><p> CC - 6</p></td><td><p>1.200,00</p></td></tr><tr><td><p>Coordenador de Farmácia</p></td><td><p>1</p></td><td><p>CC – 7</p></td><td><p>1.800,00</p></td></tr><tr><td><p>Coordenador de Fomento à Produção</p></td><td><p>1</p></td><td><p>CC – 4</p></td><td><p>        900,00 </p></td></tr><tr><td><p>Coordenador de Matadouro</p></td><td><p>1</p></td><td><p>CC - 2</p></td><td><p>           700,00 </p></td></tr><tr><td><p>Coordenador de Saúde Bucal</p></td><td><p>1</p></td><td><p>CC - 10</p></td><td><p>2.000,00</p></td></tr><tr><td><p>Coordenador do PAV</p></td><td><p>1</p></td><td><p> CC – 5</p></td><td><p>        1.000,00 </p></td></tr><tr><td><p>Inspetor do Matadouro</p></td><td><p>1</p></td><td><p> CC – 8</p></td><td><p>1.500,00</p></td></tr><tr><td><p>Motorista de Gabinete</p></td><td><p>1</p></td><td><p>CC - 3</p></td><td><p>           800,00 </p></td></tr><tr><td><p>Secretária de Gabinete</p></td><td><p>2</p></td><td><p>CC - 3</p></td><td><p>           800,00 </p></td></tr><tr><td><p>Secretário da JSM</p></td><td><p>1</p></td><td><p>CC - 3</p></td><td><p>           800,00 </p></td></tr></tbody></table>
+
+
+Parágrafo único
+
+As atribuições dos cargos de Coordenador de Saúde Bucal, Coordenador de Fomento à Produção, Coordenador de Atenção Social e Inspetor do Matadouro serão regulamentadas por Decreto do Poder Executivo.
+
+
+Art. 2º.
+
+O anexo VII, da Lei Complementar nº 038/2007 de 28.08.2007, que Dispõe sobre a Estruturação do Plano de Cargos e Carreiras da Prefeitura Municipal de Buritis - MG, Estabelece Normas Gerais de enquadramento, institui nova tabela de vencimentos e dá outras providências, passa a vigorar com a seguinte redação:
+
+
+## ANEXO VII
+
+<table><tbody><tr><td><p><strong>CÓDIGO</strong></p></td><td><p><strong>VENCIMENTO (R$)</strong></p></td></tr><tr><td><p>CC – 1</p></td><td><p>600,00</p></td></tr><tr><td><p>CC – 2</p></td><td><p>700,00</p></td></tr><tr><td><p>CC – 3</p></td><td><p>800,00</p></td></tr><tr><td><p>CC – 4</p></td><td><p>900,00</p></td></tr><tr><td><p>CC – 5</p></td><td><p>1.000,00</p></td></tr><tr><td><p>CC – 6</p></td><td><p>1.200,00</p></td></tr><tr><td><p>CC – 7</p></td><td><p>1.300,00</p></td></tr><tr><td><p>CC – 8</p></td><td><p>1.500,00</p></td></tr><tr><td><p>CC – 9</p></td><td><p>1.800,00</p></td></tr><tr><td><p>CC – 10</p></td><td><p>2.000,00</p></td></tr><tr><td><p>CC – 11</p></td><td><p>2.330,00</p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+O anexo XIV, da Lei Complementar nº 021/2005 de 30.12.2005, que Dispõe sobre a Criação do Plano de Carreira e Remuneração dos Trabalhadores em Educação da Prefeitura Municipal de Buritis - MG e Institui o respectivo Quadro de Cargos e dá outras providências passa a vigorar com a seguinte redação:
+
+
+## ANEXO XIV
+
+<table><tbody><tr><td><p><strong>CARGOS</strong></p></td><td><p><strong>CÓDIGO</strong></p></td><td><p><strong>VAGAS</strong></p></td><td><p> <strong>VENCIMENTO </strong></p></td></tr><tr><td><p>Chefe Dep. Alimentação e Transporte Escolar</p></td><td><p>CCE – 4</p></td><td><p>1</p></td><td><p>           1.000,00 </p></td></tr><tr><td><p>Chefe Dep. Cultura</p></td><td><p>CCE – 2</p></td><td><p>1</p></td><td><p>800,00</p></td></tr><tr><td><p>Chefe Dep. Esportes</p></td><td><p>CCE – 8</p></td><td><p>1</p></td><td><p>           2.000,00 </p></td></tr><tr><td><p>Chefe Dep. Eventos, Lazer e Turismo</p></td><td><p>CCE – 2</p></td><td><p>1</p></td><td><p>800,00</p></td></tr><tr><td><p>Coordenador de Bibliotecas Públicas</p></td><td><p>CCE – 2</p></td><td><p>1</p></td><td><p>              800,00 </p></td></tr><tr><td><p>Coordenador de Centros Educacionais</p></td><td><p>CCE – 2</p></td><td><p>1</p></td><td><p>              800,00 </p></td></tr><tr><td><p>Coordenador de Escola de Música</p></td><td><p>CCE – 2</p></td><td><p>1</p></td><td><p>              800,00 </p></td></tr><tr><td><p>Coordenador Pedagógico</p></td><td><p>CCE – 7</p></td><td><p>1</p></td><td><p>           1.800,00 </p></td></tr><tr><td><p>Diretor I</p></td><td><p>CCE – 3</p></td><td><p>8</p></td><td><p>              900,00 </p></td></tr><tr><td><p>Diretor II</p></td><td><p>CCE – 5</p></td><td><p>5</p></td><td><p>           1.100,00 </p></td></tr><tr><td><p>Diretor III</p></td><td><p>CCE – 6</p></td><td><p>2</p></td><td><p>           1.300,00 </p></td></tr><tr><td><p>Vice Diretor</p></td><td><p>CCE - 1</p></td><td><p>12</p></td><td><p>650,00</p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+No anexo I - Classes da Parte Permanente do Quadro de Pessoal da Lei Complementar nº 038/2007 de 28.08.2007, que Dispõe sobre a Estruturação do Plano de Cargos e Carreiras da Prefeitura Municipal de Buritis - MG, Estabelece Normas Gerais de enquadramento, institui nova tabela de vencimentos e dá outras providências, ficam acrescidas as seguintes vagas nos cargos de provimento efetivo:
+
+
+I –
+
+Motorista de 35 (trinta e cinco) para 40 (quarenta) vagas;
+
+
+II –
+
+Operador de Máquinas Leves de 07 (sete) para 13 (treze) vagas;
+
+
+III –
+
+Operador de Máquina Pesada de 06 (seis) para 07 (sete).
+
+
+Art. 5º.
+
+Fica extinta a função gratificada de Responsável técnico de saúde bucal criado pelo III art. 5° da Lei Complementar nº 50 de 23.12.2008 e alterado pela Lei Complementar nº 54 de 26.03.2009.
+
+
+Art. 6º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, passando a vigorar a partir de 01/10/2009.
+
+
+Buritis, 24 de setembro de 2009.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Proposição de Lei Complementar 033, ref. PLC 011/09 - Executivo Municipal

@@ -1,0 +1,147 @@
+---
+titulo: "Decreto nº 10.011, de 02 de agosto de 2005"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "10.011"
+data: "2005-08-02"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2006-05-23; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/10429"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8649/text"
+sha256_fonte: "90fcd9702b775323f7dd821616e4360dc625d4100e19af8e0a13ca961f54f271"
+sha256_texto: "ff076f62485c06a6a035af89533da93b99e7bd1c80a694223396950dc03257c3"
+capturado_em_fonte: "2026-10-27T21:35:24.635098-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 10.011, de 02 de agosto de 2005
+
+DISPÕE SOBRE O REAJUSTE DE TARIFA PARA AS CORRIDAS DE TÁXI NO PERÍMETRO URBANO DE PORTO VELHO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV do artigo 87, da Lei Orgânica do Município de Porto Velho e,
+
+
+**CONSIDERANDO** os índices de reajuste de preços de peças, acessórios, combustíveis, lubrificantes e dos veículos, praticados nesta praça,
+
+**DECRETA:**
+
+
+Art. 1º.
+
+O valor dos serviços de transportes de passageiros em táxi fica estabelecido da seguinte forma:
+
+
+a)
+
+**BANDEIRADA**: R$ 3,00 (três reais);
+
+
+b)
+
+**QULÔMETRO RODADO: BANDEIRA I** – R$ 1,86 (um real e oitenta e seis centavos);  
+**BANDEIRA II** – R$ 2,57 (dois reais e cinqüenta e sete centavos).
+
+
+c)
+
+**HORA PARADA:** R$ 12,60 (doze reais e sessenta centavos)
+
+
+d)
+
+as corridas para o Aeroporto Governador Jorge Teixeira deverão obedecer ao seguinte critério:  
+- Da zona 1 ao aeroporto: R$ 26,40 (vinte e seis reais e quarenta centavos);  
+- Da zona 2 ao aeroporto: R$ 28,60 (vinte e oito reais e sessenta centavos);  
+- Da zona 3 ao aeroporto: R$ 34,32 (trinta e quatro reais e trinta e dois centavos);  
+- Da zona 4 ao aeroporto: R$ 40,92 (quarenta reais e noventa e dois centavos);
+
+Alteração feita pelo Art. 1º. - Decreto nº 10.381, de 23 de maio de 2006.
+
+
+e)
+
+As corridas do Aeroporto e Aeroclube, para a cidade deverão obedecer ao seguinte critério:
+
+\- Do Aeroporto à Zona 1: R$ 26,40 (vinte e seis reais e quarenta centavos);  
+- Do Aeroporto à Zona 2: R$ 28,60 (vinte e oito reais e sessenta centavos);  
+- Do Aeroporto à Zona 3: R$ 34,32 (trinta e quatro reais e trinta e dois centavos);  
+- Do Aeroporto à Zona 4: R$ 40,92 (quarenta reais e noventa e dois centavos);
+
+
+f)
+
+Fica proibida a cobrança “per-capita”;
+
+
+g)
+
+Os volumes (bagagens) serão cobrados, por unidade desde que excedendo as dimensões de 60x40x20cm, ao preço de 0,65 (sessenta e cinco centavos);
+
+
+h)
+
+Os serviços com hora marcada sofrerão um acréscimo de 50% além do registrado e conferido pela tabela;
+
+
+i)
+
+As corridas para o Terminal Rodoviário e vice-versa, obedecerão exclusivamente ao valor registrado e conferido pela tabela;
+
+
+j)
+
+Corridas para os motéis obedecerão ao taxímetro;
+
+
+k)
+
+Os serviços fora do perímetro urbano deveram ser convencionados, evitando-se assim desentendimento.
+
+
+Art. 2º.
+
+O uso da bandeira 2 (dois) obedecerá o seguinte critério:
+
+
+I –
+
+Dias normais a partir das 22:00 às 06:00 horas do dia imediato;
+
+
+II –
+
+Sábado a partir das 06:00 horas;
+
+
+III –
+
+Domingos e Feriados, o dia todo.
+
+
+Art. 3º.
+
+Os proprietários de veículos de passageiros em táxi disporão de 90 (noventa dias), a partir da publicação deste Decreto, para adaptarem os taxímetros às normas vigentes.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor a partir de 00:00 (zero hora) do dia 11 DE AGOSTO DE 2005.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município**
+
+**JOSÉ CLÁUDIO NOGUEIRA DE CARVALHO Secretário Municipal de Transportes e Trânsito**
+
+**MÁRIO JONAS FREITAS GUTERRES Procurador Geral do Município**
+

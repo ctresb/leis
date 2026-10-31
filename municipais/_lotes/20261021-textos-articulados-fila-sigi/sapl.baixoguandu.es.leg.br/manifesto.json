@@ -1,0 +1,42 @@
+{
+  "host": "sapl.baixoguandu.es.leg.br",
+  "metadados_unicos_observados": 58,
+  "total_api_declarado": 58,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 30,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baixoguandu.es.leg.br/8c25f30de644d2285edd6b593d0089b87a0f69b7cf48d183febee4260131bc29.json",
+    "url": "https://sapl.baixoguandu.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.baixoguandu.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "438ea394ddeddc8b9c284fe17c21d548134940ce1897f6f3f1a456d6e075ca32",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T17:02:07.344429-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baixoguandu.es.leg.br/ee370a026578a8145a884f0fdbe7962ba19f46d5349673357e076a93f77cad79.json",
+    "url": "https://sapl.baixoguandu.es.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.baixoguandu.es.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8586cf7660ae6c9e0c103a150b21ed668de217aead99d03b423510a2af37fe14",
+    "bytes": 817,
+    "capturado_em": "2026-10-27T17:02:06.532468-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baixoguandu.es.leg.br/e00778338c7a468a5cc7f341fbe6f6ed766a01c787c64c9272f7517cd65064e2.json",
+      "url": "https://sapl.baixoguandu.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.baixoguandu.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "25080a52d2c8ecff09b16a918a99265e8d7d26734bc6bf75e14295f542ea6bb6",
+      "bytes": 34279,
+      "capturado_em": "2026-10-27T17:02:09.582239-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

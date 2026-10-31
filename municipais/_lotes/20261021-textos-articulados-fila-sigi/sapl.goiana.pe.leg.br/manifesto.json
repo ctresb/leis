@@ -1,0 +1,42 @@
+{
+  "host": "sapl.goiana.pe.leg.br",
+  "metadados_unicos_observados": 46,
+  "total_api_declarado": 46,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.goiana.pe.leg.br/e26205aa416bbc64e33ee50aabd0660f288bb5855d7dc2b555d7d65a1890696b.json",
+    "url": "https://sapl.goiana.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.goiana.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f370a04e9fb8be768ee8632a06bdf5ac70865d3dbfd197c91ea09bac9aa3ee7f",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T12:41:16.435615-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.goiana.pe.leg.br/1d2b686cef04ac4229b9742b48b15f1d13d81962bb11b561a220b9d588634072.json",
+    "url": "https://sapl.goiana.pe.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.goiana.pe.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5e7eb5e3c25321e82a57757be45b0afeec4b765bf9233c032921d96434e29d78",
+    "bytes": 714,
+    "capturado_em": "2026-10-28T12:41:15.373901-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.goiana.pe.leg.br/a8e3a2d8c76124c856293c746d65b802c60a1890559ee12273c18006e8b1dfe1.json",
+      "url": "https://sapl.goiana.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.goiana.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5d0f34889929fcfdd78843c2ebfb7c55937e042e40bd95d1823e7f38d25a8b05",
+      "bytes": 34649,
+      "capturado_em": "2026-10-28T12:41:18.641571-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

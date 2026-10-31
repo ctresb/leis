@@ -1,0 +1,96 @@
+---
+titulo: "Lei nº 317, de 27 de julho de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "317"
+data: "1984-07-27"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4126"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1216/text"
+sha256_fonte: "af84d9828f5312ea6236e14d7267ed70e58aeef27208856f5427e4974515129a"
+sha256_texto: "b4a259563b6d02b2211d34ec61aa93cd3c221805a152c176819ec12b2360e761"
+capturado_em_fonte: "2026-10-27T22:34:53.911173-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 317, de 27 de julho de 1984
+
+Autoriza o Executivo Municipal abrir Créditos Adicionais e dá outras providencias.
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando das atribuições que lhe são conferidas no § 1° do art. 153, da Constituição do Estado de Rondônia  
+  
+FAÇO SABER que a Camara Municipal de Porto Velho, aprovou e eu sanciono a seguinte  
+  
+L E I :
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a utilizar o superavit, na ordem de 80% (oitenta por cento) sobre o montante da receita prevista na Lei n° 264, de 02 de dezembro de 1983, para abertura de Créditos Adicionais.
+
+
+§ 1º
+
+Os recursos provenientes desta Lei são os tributos do excesso de arrecadação nos tributos de competência do Município , nas transferências e outras receitas tais como: IPTU, ISS, Taxas, ITR, IUM, FRN, FPM, etc.
+
+
+§ 2º
+
+Os créditos adicionais abertos com recursos provenientes de outras fontes que não a prevista nesta Lei, somados, não poderão ultrapassar o limite estabelecido no caput deste artigo.
+
+
+Art. 2º.
+
+Autoriza abrir créditos adicionais até o limite de 80% (oitenta por cento) do total fixado no caput do art. 1° através do elemento de despesa 4.1.3.0. - Investimentos em Regime de Programação Especial, obedecida a legislação vigente.
+
+
+Art. 3º.
+
+O Executivo assegurara em decorrência desta Lei recursos necessários a manutenção do Poder Legislativo ate o li­mite de 256% (duzentos e cincoenta e seis por cento) sobre dotação orçamentaria estabelecida através da Lei n° 264, de 02 de dezembro de 1983.
+
+
+Art. 4º.
+
+Revogadas as disposições em contrario, esta Lei entrará em vigor na data de sua publicação.
+
+
+\- Eng° SEBASTIÃO ASSEF VALLADARES -  
+Prefeito Municipal  
+  
+- HAROLDO CRISTOVAM TEIXEIRA LEITE -  
+Secretário Municipal de Planejamento  
+  
+- LETÁCIO LUCENA FREITAS -  
+Secretário Municipal da Fazenda  
+  
+- ANTONIO CEZAR DUARTE DE QUEIROZ -  
+Secretário Municipal de Administração  
+  
+- JOSÉ ALVARO COSTA -  
+Secretário Municipal de Educação e Cultura  
+  
+- ASSIS DOS ANJOS -  
+Secretário Municipal de Serv. Públicos  
+  
+- VALTER COSTA -  
+Secretário Municipal de Saúde  
+  
+- HIROYKI YAMAGUCHI -  
+Secretário Municipal de Obras  
+  
+- JOÃO PAULO DAS VIRGENS LIMA -  
+Sec. Extraordinário p/Assuntos do Interior
+
+\- MARIA DA GRAÇA DINELLI ALVES -  
+Sec. Municipal de Assist. e Promoção Social  
+  
+- FRANCISCO ARQUELAU DE PAULA -  
+Procurador Geral
+

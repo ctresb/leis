@@ -1,0 +1,68 @@
+{
+  "estado": "indice_completo",
+  "total": 5,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/projeto_de_lei_exec_36-2019.pdf da norma EDITAL nº 5, de 15 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bariri.sp.leg.br/media/sapl/public/anexonormajuridica/2019/1/projeto_de_lei_exec_36-2019.pdf",
+      "ano": 2019,
+      "norma": 891
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/projeto_de_lei_exec_37-2019.pdf da norma EDITAL nº 5, de 15 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bariri.sp.leg.br/media/sapl/public/anexonormajuridica/2019/2/projeto_de_lei_exec_37-2019.pdf",
+      "ano": 2019,
+      "norma": 891
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/projeto_de_lei_exec_33-2019.pdf da norma EDITAL nº 6, de 15 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bariri.sp.leg.br/media/sapl/public/anexonormajuridica/2019/3/projeto_de_lei_exec_33-2019.pdf",
+      "ano": 2019,
+      "norma": 890
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/5/dec_leg_01-98_-projeto.pdf da norma DECRETO LEGISLATIVO nº 1, de 18 de maio de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Decreto Legislativo N° 01/98",
+      "anexo_arquivo": "http://sapl.bariri.sp.leg.br/media/sapl/public/anexonormajuridica/1998/5/dec_leg_01-98_-projeto.pdf",
+      "ano": 1998,
+      "norma": 499
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/ato_03-errata.pdf da norma ATO nº 3, de 03 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Errata - ATO nº 03/2025, de 03 de fevereiro de 2025",
+      "anexo_arquivo": "http://sapl.bariri.sp.leg.br/media/sapl/public/anexonormajuridica/2025/6/ato_03-errata.pdf",
+      "ano": 2025,
+      "norma": 1538
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bariri.sp.leg.br/85dd880ecac37253722e190ddecdb1acc7b188558c3062d80c7f9aa1f2580dc2.json",
+      "url": "https://sapl.bariri.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bariri.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bf2554690260f9b1acb0192963498448945bb2994e8ecd52b4b9a08814730e3d",
+      "bytes": 2148,
+      "capturado_em": "2026-10-27T17:10:13.450160-03:00"
+    }
+  ]
+}

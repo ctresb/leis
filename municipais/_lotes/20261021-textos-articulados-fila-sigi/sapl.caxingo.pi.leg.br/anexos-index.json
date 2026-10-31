@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caxingo.pi.leg.br/a45cc7e3b722f513523b0f7dfa3f25f8ca3716d13736baf900b3a5d260fba601.json",
+      "url": "https://sapl.caxingo.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.caxingo.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:39:34.200442-03:00"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+---
+titulo: "Lei nº 849, de 17 de novembro de 1992"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "849"
+data: "1992-11-17"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/662"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/717/text"
+sha256_fonte: "f0d75d92b4d1bb021c427d3c979a1608c40cf1f45171bcaafd1e447a26f5cfbe"
+sha256_texto: "73eae1cbd5b3fc62a296d4ede61fe1a4176451d77cb7b0d2cc6d770ae6f0b272"
+capturado_em_fonte: "2026-10-27T21:33:19.434106-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 849, de 17 de novembro de 1992
+
+AUTORIZA A ABERTURA DE CRÉDITOS SUPLEMENTARES E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO MUNICIPAL DE AGUDO, no uso de suas atribuições legais  
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir Créditos Suplementares no valor de Cr$ 1.071.500.000,00 (Um bilhão, setenta e um milhões e quinhentos mil cruzeiros), para atender as seguintes dotações orçamentárias:  
+01 - CÂMARA MUNICIPAL DE VEREADORES  
+2001 - Manutenção dos Serviços da Câmara Municipal  
+3.1.3.2-OutrosServiços e Encargos 2.000.000,00  
+3.2.5.5-Assistência Medico-hospitalar 2.000.000,00  
+02 - GABINETE DO PREFEITO  
+2002 - Manutenção do Gabinete do Prefeito  
+3.1.3.2-Outros Serviços e Encargos 10.000.000,00  
+2004 - Serviços de Divulgação  
+3.1.3.2-0utros Serviços e Encargos 5.000.000,00  
+03 - SECRETARIA DA ADMINISTRAÇÃO  
+2007 - Manutenção dos Serviços do Órgão  
+3.1.1.1-Pessoal Civil 10.000.000,00  
+3.1.2.0-Material de Consum 5.000.000,00  
+3.1.3.2-Outros Serviços e Encargos 10.000.000,00  
+04 - SECRETARIA DE FINANÇAS  
+2008 - Manutenção do Serviço da Receita  
+3.1.1.1-Pessoal Civil 15.000.000,00  
+2009 - Manutenção do Serviço da Contabilidade  
+3.1.1.1-Pessoal Civil 32.000.000,00  
+05 - SECRETARIA DE OBRAS E SANEAMENTO  
+1015 - Construção de Canchas e Ginásio de Esportes  
+4.1.1.0-Obras e Instalações 10.000.000,00  
+1018 - Construção e Ampliação de Casas  
+4.1.1.0-Obras e Instalações 5.000.000,00  
+2012 - Manutenção dos Serviços de Limpeza Pública  
+3.1.1.1-Pessoal Civil 5.000.000,00  
+1007 - Extensão de Redes de Esgoto e Canalização de Sangas  
+4.1.1.0-Obras e Instalações 10.000.000,00  
+1008 - Pavimentação de Ruas e Avenidas  
+4.1.1.0-Obras e Instalações 50.000.000,00  
+2015 - Manutenção do Órgão  
+3.1.1.1-Pessoal Civil 4.000.000,00  
+3.1.3.2-Qutros Serviços e Encargos 10.000.000,00  
+1011 - Construção de Obras de Arte  
+4.1.1.0-Obras e Instalações 200.000.000,00  
+2016 - Manutenção de Máquinas e Veículos  
+3.1.2.0-Material de Consumo 40.000.000,00  
+3.1.3.2-Qutros Serviços e Encargos 30.000.000,00  
+2017 - Manutenção e Conservação de Rodovias  
+3.1.1.1-Pessoal Cívil 30.000.000,00  
+3.1.2.0-Materíal de Consumo 30.000.000,00  
+3.1.3.2- Outros Serviços e Encargos 15.000.000,00  
+06 - SECRETARIA DE EDUCAÇÃO E CULTURA  
+2025 - Manutenção da Creche e Pre-Escolar  
+3.1.2.0-Material de Consumo 10.000.000,00  
+3.1.3.1-Remuneração de Serviços Pessoais 500.000,00  
+2022 - Manutenção do Ensino de Primeiro Grau  
+3.1.1.1-Pessoal Cívil 157.000.000,00  
+3.1.2.0-Material de Consumo 20.000.000,00  
+3.1.3.2-Outros Serviços e Encargos 10.000.000,00  
+3.2.5.3-Salário Família 3.000.000,00  
+2038 - Conselho Municipal de Desportos  
+3.1.2.0-Material de Consumo 1.000.000,00  
+3.1.3.2-Outros Serviços e Encargos 3.000.000,00  
+2026 - Concessão de Transporte Escolar  
+3.1.3.2-Qutros Serviços e Encargos 70.000.000,00  
+2049 - Manutenção do Ensino Especial  
+3.1.1.1-Pessoal Civil 6.000.000,00  
+2028 - Manutenção dos Serviços da Merenda Escolar  
+3.1.1.1-Pessoal Civil 11.000.000,00  
+07 - SECRETARIA DA AGRICULTURA  
+2029 - Incentivos a Agricultura  
+3.1.1.1-Pessoal Civil 13.000.000,00  
+3.1.3.2-Outros Serviços e Encargos 1.000.000,00  
+2037 - Inseminação Artiricial  
+3.1.1.1-Pessoal Civil 5.000.000,00  
+2030 - Apoio ao Desenvolvimento Agropecuária  
+3.1.3.2-Outros Serviços e Encargos 8.000.000,00  
+08 - SECRETARIA DA SAÚDE E BEM ESTAR SOCIAL  
+1019 - Assistência Médica  
+3.1.1.1-Pessoal Civil 60.000.000,00  
+3.1.1.3-Obrigações Patronais 1.000.000,00  
+3.1.2.0-Material de Consumo 10.000.000,00  
+2006 - Assistência Social a Indigentes  
+3.1.1.1-Pessoal Civil 4.000.000,00  
+09 - SECRETARIA DE INDÚSTRIA E COMÉRCIO  
+2047 - Manutenção dos Serviços de Telefonia Rural  
+3.1.3.2-Qutros Serviços e Encargos 2.000.000,00  
+1004 - Construção Redes de Transm. de Energia Elétrica  
+4.1.1.0-Obras e Instalações 22.000.000,00  
+2041 - Incentivos a Industria é Comércio  
+3.1.1.1-Pessoal Civil 9.000.000,00  
+10 - ENCARGOS GERAISDO MUNICÍPIO  
+2050 - Manutenção do Centro Administrativo  
+3.1.2.0-Material de Consumo 4.000.000,00  
+2031 - Manutenção dos Serv. Interesse Comum Estado Município  
+3.1.3.2-Outros Serviços e Encargos 2.000.000,00  
+2032 - Manutenção dos Serviços da Dívida Pública  
+3.2.6.1-Juros da Dívida Contratada 15.000.000,00  
+4.3.5.1-Amortização da Dívida Constratada 15.000.000,00  
+2033 - Manutenção da Repetidora de TV  
+3.1.3.2-Outros Serviços e Encargos 4.000.000,00  
+2051 - Assistência a Servidores Municipais  
+3.2.5.5-Assistência Medico-hospitalar 50.000.000,00  
+3.2.5.9-Outras Transferências a Pessoas 15.000.000,00  
+2036 - Contribuição ao PASEP  
+3.2.8.0-PASEP 10.000.000,00
+
+
+Art. 2º.
+
+Para a cobertura dos créditos abertos pelo artigo anterior, serão utilizados os recursos advindos da arrecadação a maior a ser verificada durante o exercício.  
+Participação no ICMS 300. 000.000,00  
+- Cota Parte do FPM 400.000.000,00  
+- Contribuição p/ Prev. Social 100.000.000,00  
+- Contribuição de Melhoria 150.000.000,00  
+- Outras Trnasf. da União 121.500.000,00  
+TOTAL 1.071.500.000,00
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data da sua publicação.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+AGUDO/RS, em 17 de novembro de 1992; 135° da Colonização e 33° da Emancipação.
+
+PEDRO ÁLVARO MÜLLER
+
+Registre-se e Publique-se.
+
+<table><tbody><tr><td>PAULO AUGUSTO WILHELM<br>Sec. de Administração.</td><td>CLÓVIS FERNANDO FICK<br>Sec. de Finanças</td></tr></tbody></table>
+

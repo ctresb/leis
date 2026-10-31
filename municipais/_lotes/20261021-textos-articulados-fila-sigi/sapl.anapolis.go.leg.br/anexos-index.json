@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/1/resolucao_007_-_2015.pdf da norma Resolução nº 7, de 23 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "REVOGA O PARÁGRAFO 3º DO ARTIGO 1º DA RESOLUÇÃO N° 007/2010, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.anapolis.go.leg.br/media/sapl/public/anexonormajuridica/2010/1/resolucao_007_-_2015.pdf",
+      "ano": 2010,
+      "norma": 6688
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/lei_no_3.974_-_com_alteracoes_da_4.010.pdf da norma Lei nº 4.010, de 18 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.anapolis.go.leg.br/media/sapl/public/anexonormajuridica/2019/2/lei_no_3.974_-_com_alteracoes_da_4.010.pdf",
+      "ano": 2019,
+      "norma": 6947
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/anexo_i.pdf da norma Lei Complementar nº 561, de 16 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.anapolis.go.leg.br/media/sapl/public/anexonormajuridica/2024/3/anexo_i.pdf",
+      "ano": 2024,
+      "norma": 7863
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anapolis.go.leg.br/558b3d3fc8f6da796fe0b6d8279bfa5ac249fe4c99d79d0c09abc34489127c3f.json",
+      "url": "https://sapl.anapolis.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.anapolis.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "95d807b5d997e4e960505555688e10ca5aa03fc79dc0564d2b0e7648fe6239c2",
+      "bytes": 1450,
+      "capturado_em": "2026-10-27T16:43:51.527740-03:00"
+    }
+  ]
+}

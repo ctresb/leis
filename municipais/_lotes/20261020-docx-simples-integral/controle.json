@@ -1,0 +1,2704 @@
+{
+  "criterio": "Confronta DOCX simples com Markdown sem depender do conversor textutil.\n\nSem publicação automática: somente OOXML sem imagens, tabelas, campos, listas\nimplícitas, revisões ou partes textuais adicionais pode passar pelo confronto.\nToda estrutura não suportada permanece retida, incluindo links externos.\n",
+  "resultados": [
+    {
+      "path": "municipais/MG/araxa/lei-organica/1990/lei-organica-1-1990-sapl-3.md",
+      "sha256": "41e3f75e2ea1dd93817334f1247cd2a44b710b58f205c7b45ce282af582a9adf",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/formiga/lei-organica/2025/lei-organica-1-2025-sapl-6458.md",
+      "sha256": "b708e46b7a24fda914f95a7a4cdfadfff9c72cc3b28fbd8d51c473ee91601a89",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/joao-pinheiro/lei-organica/1990/lei-organica-1-1990-sapl-150.md",
+      "sha256": "0943252c653a5b585ec151280269bd2f66e42980de4ba01692710e7d11e2e9ad",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MT/barra-do-garcas/lei-organica/1990/lei-organica-1-1990-sapl-170.md",
+      "sha256": "13caa9df47eacfac1b85da162e4bb656a758e36e4ed026a4363ce3d8a2eb4e52",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MT/diamantino/lei-organica/1990/lei-organica-1-1990-sapl-24093.md",
+      "sha256": "9a6e5c71ac97b7f742639a3e815e4d72589a8552f1749b24bab02976c1fab505",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/nova-xavantina/lei-organica/1990/lei-organica-1-1990-sapl-316.md",
+      "sha256": "d86e98565438f9339f71128dc2b5fa618d16494b813f52e165d6c095dcafe1ce",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/PE/machados/lei-organica/1990/lei-organica-1-1990-sapl-673.md",
+      "sha256": "a722e27c17ccbc12ef18fbb89111004187e4368cd72097de1e3fd207cb926642",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: fldChar,instrText,sdt,strike,tab"
+    },
+    {
+      "path": "municipais/PI/paulistana/lei-organica/2008/lei-organica-1-2008-sapl-3.md",
+      "sha256": "4eff10073280f0fd507b77b4ecc3df62ce404dbd4592bf6a54750643e7000f9c",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/arapongas/lei-organica/2012/lei-organica-1-2012-sapl-5223.md",
+      "sha256": "20afde3e75561d21c806a815ff7d9d1e4558883798dde0117ef02a8333c8084d",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/sabaudia/lei-organica/1990/lei-organica-1-1990-sapl-41.md",
+      "sha256": "9974e97f8fafa7693f668123e44d56dc9f277be0dd9fe2f2bbad9a85f20210ea",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RJ/paty-do-alferes/lei-organica/1990/lei-organica-1-1990-sapl-3521.md",
+      "sha256": "87a2771d0a77d9aa7d81a65bb07e9f5c1b2414d7d8449939c98984f367083861",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/canela/lei-organica/2003/lei-organica-2-2003-sapl-2962.md",
+      "sha256": "05acbb31cc3cd648b199890bb6f2b27e89148b7ad5287d995bd327b0a2087199",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/canela/lei-organica/2006/lei-organica-1-2006-sapl-3.md",
+      "sha256": "6edb4057b567ac76982baf5144af7af72df582e638b2dd722dca34522abdc4e4",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/canela/lei-organica/2007/lei-organica-1-2007-sapl-4.md",
+      "sha256": "efc7d120a13d28e89e0e59781f299fe5481138141683cbb374246f1795aed976",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/canela/lei-organica/2007/lei-organica-2-2007-sapl-5.md",
+      "sha256": "83465eb87e8f211ec54cc2871fd11f6a20066bacb4d1fc38bacefc5b32202da1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/canela/lei-organica/2008/lei-organica-1-2008-sapl-6.md",
+      "sha256": "468c0fc6c73b065315de9f8613f867bb6408e7db5715dbe584ff5f1495f0e775",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/canela/lei-organica/2009/lei-organica-1-2009-sapl-3148.md",
+      "sha256": "bc7e9b9548ddcd47615aa5a4f482d636b2b37bb05e1e3b01fb35d37989b432d2",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/lei-organica/2001/lei-organica-0-2001-sapl-4452.md",
+      "sha256": "24ad5e2d9543ccbda8910feb079c28481408dc390b4bca86a8a0033b73d5bf7b",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/anchieta/lei-organica/2018/lei-organica-1-2018-sapl-3.md",
+      "sha256": "b00ce9e8bc444b3c15822c1e16ef29ae6cfeb1fecce22cff066d31ea6ed2bbd0",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: numPr,strike,tab"
+    },
+    {
+      "path": "municipais/SC/anchieta/lei-organica/2020/lei-organica-1-2020-sapl-2760.md",
+      "sha256": "8e778b39cefe4c2cb5f25daa2d8126d3b09b870d1f5c19de58571d5411ad38bc",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/schroeder/lei-organica/2010/lei-organica-1-2010-sapl-53.md",
+      "sha256": "c5f427aed15d025ed4dcd1069c8695ef085beb27ab7a32ff1a6571ff0ae64570",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/lei-organica/1990/lei-organica-1-1990-sapl-5448.md",
+      "sha256": "dc7a592ebfb0e1b0182d7c2272b7c4ae2c00a7ffd914ef85291e10ea18f33497",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/SP/mococa/lei-organica/1990/lei-organica-1001-1990-sapl-5360.md",
+      "sha256": "2e367f60737b61a1882b62ec7c995083d687fbc01b30755ecee6b38d0c6240de",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/salmourao/lei-organica/2026/lei-organica-1331-2026-sapl-987.md",
+      "sha256": "1668870456c5465869242dc1cf3d1ed68601d9ecce06a2087e9be9789f98b2b1",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/ES/sao-mateus/emendas-lei-organica/2022/emendas-lei-organica-51-2022-sapl-6070.md",
+      "sha256": "192b6df566913b59e99026960d65806398b7364624c7a48e4044982a52d66c27",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/MG/araxa/emendas-lei-organica/2014/emendas-lei-organica-22-2014-sapl-7712.md",
+      "sha256": "7774b2209251fe67c6e3b201ceae0911a04da6a8cb9c980f8faaa1feb30d17f4",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/araxa/emendas-lei-organica/2015/emendas-lei-organica-23-2015-sapl-7763.md",
+      "sha256": "97ce8af0daca40d51c0a72c310897db221ede99d7f64944633c84869c223ee65",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/araxa/emendas-lei-organica/2017/emendas-lei-organica-24-2017-sapl-8022.md",
+      "sha256": "0d36684eb63f60d5e25e020ae08786bf2af1e67dec060f481df3a93d248a1cbf",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/araxa/emendas-lei-organica/2021/emendas-lei-organica-26-2021-sapl-8389.md",
+      "sha256": "5251ea827108ad25d4ee5966956984bde514e2836f43e0ff08c418bd79848351",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/araxa/emendas-lei-organica/2024/emendas-lei-organica-27-2024-sapl-9232.md",
+      "sha256": "1d975f990d5754f2da5d4f490981ac745a82de439e995d6b26ee33cc28605783",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/araxa/emendas-lei-organica/2025/emendas-lei-organica-28-2025-sapl-9333.md",
+      "sha256": "1696b8110c20396179e78631a876cc07f3170acb1e294e58c29e26fc5ecb1388",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/araxa/emendas-lei-organica/2026/emendas-lei-organica-29-2026-sapl-9645.md",
+      "sha256": "5100df73a5d01d3d96101838521d551b874baf1ca625f2f8fff3b34aa1111076",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/bonfinopolis-de-minas/emendas-lei-organica/2003/emendas-lei-organica-2-2003-sapl-1246.md",
+      "sha256": "3359284c91051af00b8a2c435de003fda3094a503797034bebe5087490ecc5e8",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/itapeva/emendas-lei-organica/2011/emendas-lei-organica-8-2011-sapl-944.md",
+      "sha256": "8e4e22881fcd7ab276b6f52152465a8a2685e6e0dcc9a1fe8d77912fd8cc8ba7",
+      "aprovado": true,
+      "fonte": "https://sapl.itapeva.mg.leg.br/norma/944",
+      "fonte_texto": "https://sapl.itapeva.mg.leg.br/media/sapl/public/normajuridica/2011/944/emenda_008_-_2011_de_09_de_fevereiro.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.itapeva.mg.leg.br/944.bin",
+        "sha256": "e1c74b73b082cea504b97dd136aeeef8722391352ce2eae2f4fa15dd50d8954e"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "223f2c3b5dc3801239ad579250d78e9a0d3b9e08d55c85631bc7df91d755430e"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "49395915f6cc932b649456e8369b23f32ee5e7531d39ba821942b12b0c2b62e1"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "ba4ccf167b98df54701ba0e7d4f08d184e628bc750e7323987a8021fab0b631d"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "bbc6fff004edcc26b452a0a970deb137121e352fbf7946892c9ca651fda32edc"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "5e0de111fbc9f99dab9067eb9cd883fa916aaf1958d43d4ef07cfd05a2329a54"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "b6ae85be8e8607a97ad3afde4da8d38cf8926a2bea25482fca1704c6d2728bda"
+        }
+      ],
+      "texto_nativo": "\n\nEMENDA 008/2011 DE 09 DE FEVEREIRO\n\n\n\nMODIFICA O ART. 67 DA LEI ORGÂNICA MUNICIPAL.\n\n\n\nA Câmara Municipal de Itapeva, Estado de Minas Gerais, por meio de seus vereadores aprovou e a sua Mesa Diretora, com fulcro no art. 43, §2º da Lei Orgânica deste Município, promulga a seguinte emenda ao texto organizacional :\n\n\n\n\n\nArt. 1º. O Art. 67 da Lei Orgânica Municipal passa a vigorar com a seguinte redação:\n\n\n\nArt. 67. O Prefeito poderá delegar, por decreto, aos Secretários, diretores equivalentes e ao Procurador Municipal, funções administrativas que não sejam de sua competência exclusiva\n\n\n\nArt. 2º - Esta Emenda Organizacional entra em vigor na data de sua publicação.\n\n\n\nItapeva, 09 de fevereiro de 2.011.\n\n\n\nJURANDIR CESÁRIO BEZERRA\n\nPresidente da Câmara\n\n\n\nDANIEL PEREIRA DO COUTO\n\nVice-Presidente \n\n\n\n\n\nDEVANIL LAURINDO DA SILVA\n\nSecretário da Mesa",
+      "tokens": 133,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/MG/limeira-do-oeste/emendas-lei-organica/2023/emendas-lei-organica-19-2023-sapl-2337.md",
+      "sha256": "dce3ddaba02dd74f7a496400d74a51133aee02245a4d35263b66c720533294ed",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1993/emendas-lei-organica-2-1993-sapl-7477.md",
+      "sha256": "1b8d534d2eda041b865109471bf501ad89dd425b74f78ff7ad98f04c76721cd0",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1994/emendas-lei-organica-3-1994-sapl-7478.md",
+      "sha256": "0392c0bbe08d121582c78cbfaa3d3d3a714a9bc91d2ecba16ec5782fba8c5b37",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1995/emendas-lei-organica-4-1995-sapl-7479.md",
+      "sha256": "dc639c12e0c958706fcd5249137b1618cc44bb15e4aca225ce5f00628b65dc62",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1996/emendas-lei-organica-5-1996-sapl-7480.md",
+      "sha256": "d6470fe756fe8a110a7c4beeb1702f39d7e202d99a2082e22e0089f5ecb0694a",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1996/emendas-lei-organica-6-1996-sapl-7481.md",
+      "sha256": "1a671c6ae2c8dc576e4e88effca2b1c3f9421698da267699ca8eb6787e990328",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1996/emendas-lei-organica-7-1996-sapl-7482.md",
+      "sha256": "b6ba53a39f1e5cc30f469ead27d0d142ee972cfaddf254091807eff121e8f744",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1996/emendas-lei-organica-8-1996-sapl-7483.md",
+      "sha256": "778de8a7ad2d8de68ac9c303df5188419ee2920a026dead8247caaf29ef3963b",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/1998/emendas-lei-organica-10-1998-sapl-7485.md",
+      "sha256": "2a5a752aaf116b054e828ccb0f1ef0f43b4a09685966b1c059576e41bff07881",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2001/emendas-lei-organica-11-2001-sapl-7486.md",
+      "sha256": "e475354bdfebed2196e2158d18f9bfbd9c34b33459d3ee36c2779c72e728d133",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2004/emendas-lei-organica-12-2004-sapl-7487.md",
+      "sha256": "bdca6a1127291df49284849ecf44fd5469c806601b420002a038c374604e141f",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2004/emendas-lei-organica-13-2004-sapl-7488.md",
+      "sha256": "6926a61a572b2a6a8de7a601653b868e44aeb66ed95e943409b4f25cc0d5033a",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2005/emendas-lei-organica-14-2005-sapl-7489.md",
+      "sha256": "ed6eb532a4ceaabce373b0cb0bbdded611a9b6c736d5bb43981ad1556b81d126",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2006/emendas-lei-organica-15-2006-sapl-7490.md",
+      "sha256": "8cc814296a41bf35bdea2fb15d7e8161ab8b049f9bae841dcdd0f3c929bdf9e5",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2006/emendas-lei-organica-16-2006-sapl-7491.md",
+      "sha256": "4738588a82d46222fa28283517aca674dc793b6a19cbe5795d21c0d7867c3251",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2009/emendas-lei-organica-17-2009-sapl-7492.md",
+      "sha256": "0bb4800364b181c0d805fb963ee78cdf55ef84b16d903103bd862027f016c21b",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2010/emendas-lei-organica-18-2010-sapl-7493.md",
+      "sha256": "6ed36a76059f7b351f06eeb7968e6fa9f82fd481a2d5da78cd8918eda3d83081",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2011/emendas-lei-organica-19-2011-sapl-7494.md",
+      "sha256": "267a6e8b6b379ce394929ff427db161e72a3701044e84bf9cd8864be090b62ac",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2011/emendas-lei-organica-20-2011-sapl-7495.md",
+      "sha256": "9a765e0451d33e7cfd9d2efcf736ad3eb7909d57cd44ab1b577a48662f0ef4ed",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2013/emendas-lei-organica-21-2013-sapl-8757.md",
+      "sha256": "2f911051610ee8cd6e658fe5d3ad1238150da8de8ceb5932f48129bdc657542c",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2013/emendas-lei-organica-22-2013-sapl-9420.md",
+      "sha256": "d8fe7804198cd22d3ebe1fcb0e5ca0f5f497470aaedab6545fa23bcc62476af4",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2014/emendas-lei-organica-23-2014-sapl-8952.md",
+      "sha256": "ab7ac1ecc9b2fb879c23e4b26a52eea1b646f596905a3e0a1a1efe3c99d3c73d",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2015/emendas-lei-organica-24-2015-sapl-9419.md",
+      "sha256": "77a8158127790d96808e2b74673b1463511ce0cdb4cf3979606d9e7f945fd3cd",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2016/emendas-lei-organica-25-2016-sapl-9754.md",
+      "sha256": "a922aa5e3d39957da8fecc01b02a1f95aa60ebd01ff4d85128d7f276f22a7596",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/patos-de-minas/emendas-lei-organica/2018/emendas-lei-organica-26-2018-sapl-10723.md",
+      "sha256": "64f414b1fe5393825ff37e8919e5e73c5784870d8a785e2f35cdc87ed96e5a52",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2014/emendas-lei-organica-36-2014-sapl-9200.md",
+      "sha256": "cc1dc3580a43f2f392157cd44bbcdb046f06b2cc2e9cf5dadddc49db1d69dac2",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2015/emendas-lei-organica-37-2015-sapl-9201.md",
+      "sha256": "ef961d7dc6262c7e623fb5a5a6443d7345097bd80c5e0a29ee952a30b06d70cd",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2015/emendas-lei-organica-38-2015-sapl-9202.md",
+      "sha256": "6361303b2677daeda824f0d990176429df9619094d4b2cba6a7b90465859754c",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2018/emendas-lei-organica-39-2018-sapl-9080.md",
+      "sha256": "6665c21fd346c85ed2dc6d1e3155de14111b73e720aab16e84075bad0337f3c1",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2018/emendas-lei-organica-40-2018-sapl-9196.md",
+      "sha256": "9ae8217586d1786f579ba6e2f56674ed56858d5bab11c3fc4927b6bcc63612ec",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2018/emendas-lei-organica-41-2018-sapl-9197.md",
+      "sha256": "7343d58ac802df7649f6207286304b99e894bb1830a261677b6a8ed23e5778bc",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2018/emendas-lei-organica-42-2018-sapl-9198.md",
+      "sha256": "fb333a0843a17604945554c315264ddb6662a3200be07a41f40b9ad57ed03040",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2019/emendas-lei-organica-43-2019-sapl-9247.md",
+      "sha256": "e6b91ff0835bc45d4ae51753c768349a34e66d4f51f4b6e059ba9ac94725e449",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2020/emendas-lei-organica-44-2020-sapl-9520.md",
+      "sha256": "cc40e9ed23cf0b4dc265685120aeb12f38367b10c03eea741bca8efbe054654a",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2023/emendas-lei-organica-45-2023-sapl-10154.md",
+      "sha256": "652e99b770dcdf9ceed8a3528b605a005c39fcee800bacfdafaab9a103483daa",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2023/emendas-lei-organica-46-2023-sapl-10214.md",
+      "sha256": "101d552020917a9977404387522568e7467fcd4801e058c42c357ad528c6406e",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2023/emendas-lei-organica-47-2023-sapl-10230.md",
+      "sha256": "2b5c91aa95c2bc1f39e01d158519e8dc1ebe9ad7e31659718bdefbf996eed9a2",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2023/emendas-lei-organica-48-2023-sapl-10337.md",
+      "sha256": "2106bd29329ce42d7309c1d6e32bdca55a1ac21e5dd49bf229332d0c51d87bca",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2023/emendas-lei-organica-49-2023-sapl-10338.md",
+      "sha256": "e0895a4c55f6c89c9f58d0f81d232b448cf50b688484960bfb69af958b7287c3",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2024/emendas-lei-organica-50-2024-sapl-10658.md",
+      "sha256": "176d3750494bf96389fd17e90cb3bbc7e69fe020406276320e3701acc7b2b405",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/sete-lagoas/emendas-lei-organica/2024/emendas-lei-organica-51-2024-sapl-10924.md",
+      "sha256": "e9f9716e4b7a58991093a5da6b5922ee20df4aed5e3be204ae0969cfa26f5407",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/timoteo/emendas-lei-organica/2015/emendas-lei-organica-35-2015-sapl-4525.md",
+      "sha256": "4c0678fd77c5e938e724af70e66a804d1823ebf2454f14a8642a7926220ca38c",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/timoteo/emendas-lei-organica/2023/emendas-lei-organica-2-2023-sapl-7483.md",
+      "sha256": "27eaeca5d9e3d1a7f7ca7652c884811d0bf8033d969eaa70fbd6cdab38b1502e",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2007/emendas-lei-organica-1-2007-sapl-32294.md",
+      "sha256": "fa06f033b7ce1f99194f1158595fb7ee4107b5e2fc8e9ee29b230d9d28192e86",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2007/emendas-lei-organica-2-2007-sapl-17741.md",
+      "sha256": "fe8969baa44b0b0effe8a27006bc86f533ebc27fa28170926352fccdd0506f83",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2008/emendas-lei-organica-3-2008-sapl-17743.md",
+      "sha256": "2a9ef045b0eaf4a83316cee482b0ee9dabb41a395c48d4df4d6be2cbf29f566d",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2010/emendas-lei-organica-1-2010-sapl-17740.md",
+      "sha256": "7d426af31df84abcb958ff3075dcf3f2d4d357fab10f9a3a6bf12ee48f7f447c",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2011/emendas-lei-organica-5-2011-sapl-17742.md",
+      "sha256": "f151e3ceae73d880197c08d667ce5aaa04580caf6400c76897764aed78f0152b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2012/emendas-lei-organica-6-2012-sapl-17744.md",
+      "sha256": "c5650397f5dfc23d0327bab02eb7aaf4e261f9a41d70a977c43856ff05f47401",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2013/emendas-lei-organica-7-2013-sapl-17745.md",
+      "sha256": "9982826042db747abffe6076aaaa14d78986988c575e2cd742c8949e7c80ca41",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2015/emendas-lei-organica-8-2015-sapl-17746.md",
+      "sha256": "64d1d61ab01bee9a2a189b8d8f44afa0fd944ea574254ad02f2d40c011ae8d93",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2017/emendas-lei-organica-10-2017-sapl-23971.md",
+      "sha256": "a82fb58ed353dfeade311941a9aa0c5f2fd186622cece74a84479a22609aac4c",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2017/emendas-lei-organica-11-2017-sapl-23972.md",
+      "sha256": "706c8a33adb6033cbb47d783ed6319eb9313e963a243c7efdfcb62297bcc8110",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2017/emendas-lei-organica-12-2017-sapl-23973.md",
+      "sha256": "a9827611337850fe23c9f30b9bd938aa35f031e2be471e3b77c31519006cddc2",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2017/emendas-lei-organica-9-2017-sapl-23508.md",
+      "sha256": "50ebf809de90f17f70400f49cc2c72be599c71811bfef274aefdff3e41c63902",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2019/emendas-lei-organica-13-2019-sapl-26449.md",
+      "sha256": "6da9ece426c94da615eef325a73726e247f8c2b6f1027dc49ce3dbac87a42116",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MT/diamantino/emendas-lei-organica/2022/emendas-lei-organica-15-2022-sapl-34857.md",
+      "sha256": "4d8e25ad4f058b35806143ec33ef7fe5317f5a772a1cbbd9c34f5258909a4a0c",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/PR/itauna-do-sul/emendas-lei-organica/2016/emendas-lei-organica-2-2016-sapl-212.md",
+      "sha256": "01fa80f337bd1de07dcd4897a694b475d56fa659c3a162b60b68cff6f2e1b400",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2003/emendas-lei-organica-1-2003-sapl-186.md",
+      "sha256": "96e1b8d23b33a67c1f5eb4de8f559e057fc22d8081990d4e83d5e14f962f9839",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2007/emendas-lei-organica-32-2007-sapl-51.md",
+      "sha256": "0fead5c766e758f8b90ca552cfeeb6ff7269e7a040067128848214eb554fccac",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2007/emendas-lei-organica-33-2007-sapl-100.md",
+      "sha256": "089e0950415fe4217bf6ff456b7d4bbbd79c5ba7b3f4ed6b5c7ead4a6e53bfd8",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2008/emendas-lei-organica-34-2008-sapl-149.md",
+      "sha256": "a490672538aab4cbf247ff9914b5aa4162f79fabfb05cce7ceceef4f5363f9db",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2008/emendas-lei-organica-35-2008-sapl-209.md",
+      "sha256": "dfd240ca7f757cbcc1f5a0fda0e69d9dd131d0f2242704fb19c279584727a78b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2008/emendas-lei-organica-36-2008-sapl-212.md",
+      "sha256": "7fbd8f4a808632d2f459d45a5ebc6bd5f27b39547c02e53339622e50ee9286a3",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2008/emendas-lei-organica-37-2008-sapl-213.md",
+      "sha256": "9593b4889cadb4e849ab8820167fa2591a852e08a22f8839b6e07a6939b17f8d",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2009/emendas-lei-organica-38-2009-sapl-295.md",
+      "sha256": "a1c6b99d80eed5ea7dd642359bebda01c79ae1ac2df30dd56dce1b432308a2ca",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2009/emendas-lei-organica-39-2009-sapl-312.md",
+      "sha256": "3d85ff59257c7587a992139b31643c14f3bba76341346ae9f9ab5d01a249a852",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2010/emendas-lei-organica-40-2010-sapl-422.md",
+      "sha256": "82e981e80718b62907859ab640c44f5af6f6e36d67b73441c92c07c183da694c",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2012/emendas-lei-organica-41-2012-sapl-672.md",
+      "sha256": "ad7cc0e3147bf420bca7bf0d871672883fa666abdbe6a44256a2fb0582511d47",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2013/emendas-lei-organica-43-2013-sapl-822.md",
+      "sha256": "1fb9eb2ba543e0ec7cee8526dd78145823db6cb9fb92cfb140581a5af0e454b0",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2014/emendas-lei-organica-44-2014-sapl-927.md",
+      "sha256": "a1f6c2bf4e1e2a348f19e4f0b32fcdea642a27d2afe25e8246a030649cb98eab",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2014/emendas-lei-organica-45-2014-sapl-987.md",
+      "sha256": "be67de65a6757fb2e29273834c3335d67a58c2ba5f1f57b13cd48b30a0e7c335",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2014/emendas-lei-organica-46-2014-sapl-988.md",
+      "sha256": "00bf80974d936d656108aef94a0a9743a6804542a389f4aa7f17d4ff7fd3669e",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2015/emendas-lei-organica-47-2015-sapl-1020.md",
+      "sha256": "0187d8036715379ed098da25f5b98e6637d7bea4388e2dcf1f3e18785a8b60b8",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2015/emendas-lei-organica-48-2015-sapl-1084.md",
+      "sha256": "b44856f6fbdbf6415a860f26aca160347020f3b857ce4444125b13c6f21fafb6",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2015/emendas-lei-organica-49-2015-sapl-1087.md",
+      "sha256": "048abf63e02f2118fcc99024c5c0c2a6061871e3d5f1aaddac534986764b679b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2015/emendas-lei-organica-50-2015-sapl-1114.md",
+      "sha256": "6d9c46ea3beea78aae1a67c7507decc19b9709988fcd0c2682ed41f295cac7d9",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2016/emendas-lei-organica-51-2016-sapl-1250.md",
+      "sha256": "75281920db893863139082aafae845679317209426f339e667f7279c6c2e3cb9",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2016/emendas-lei-organica-52-2016-sapl-1268.md",
+      "sha256": "fc82c6bfdc8e2c3ea1333e9846f4aac06388fc8ef2d9377808f9a645086b8572",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2016/emendas-lei-organica-53-2016-sapl-1270.md",
+      "sha256": "4fceb6dedda0e280121b9b6ff20e2d2de0ec8df3df95b1c6792a24ed47d466bd",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2017/emendas-lei-organica-55-2017-sapl-1326.md",
+      "sha256": "14b0ee26763a2e5a3520ce347df2eafe8cdbc5085948b56b84ab97d960772196",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2019/emendas-lei-organica-1-2019-sapl-1579.md",
+      "sha256": "fcc7092e71b7d056548b7104fbfd35e5d9457c52b985bdc3d6e07648a3edc291",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2022/emendas-lei-organica-2-2022-sapl-1996.md",
+      "sha256": "c4ab8d6dbd3f8db56e2f4452fddbadd4720ef372c8124d9a6d317d6ead3623cf",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2022/emendas-lei-organica-3-2022-sapl-2052.md",
+      "sha256": "1af29cf0e8a8dd11921ff512475a8fc47c9ae1f0537b0250f8415f1c35ddb75a",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2023/emendas-lei-organica-4-2023-sapl-2120.md",
+      "sha256": "852aacf72aba7abcebe75331fb853363974cdefed1dea7471e303fe0b9d22376",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RJ/nova-friburgo/emendas-lei-organica/2024/emendas-lei-organica-5-2024-sapl-2158.md",
+      "sha256": "9930d8f67eef497142a5ebdd620593e75045a08098811c3cc9329af7e53974cb",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2001/emendas-lei-organica-1-2001-sapl-1713.md",
+      "sha256": "2f21ae32ee53b615d9ee9f909214105cdd2384e036e7ab8e98ce3505b859d862",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2001/emendas-lei-organica-2-2001-sapl-1714.md",
+      "sha256": "5c0f9c78f27c2d0cff6959e94202c437377eec4cfce2b3c1850c2e044306efdc",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2004/emendas-lei-organica-1-2004-sapl-1715.md",
+      "sha256": "9996872c2df7b59fefe4527e0740a2429230d894533d4f3e18e094b316ff27c5",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2008/emendas-lei-organica-1-2008-sapl-1746.md",
+      "sha256": "704fd1d23dd616620e2677fb1e436c1dbda798b88e002a387a51017c30d2fb62",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2008/emendas-lei-organica-3-2008-sapl-1748.md",
+      "sha256": "0f5a18f98a0ebbea12b5dc587053eeac8dc6e9821ef2014f547c96cbfd488165",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2008/emendas-lei-organica-4-2008-sapl-1749.md",
+      "sha256": "567c56a4c23b2f0c4efb15ff4f2a58c01e05bbfaadb56e917d9b458cc5f1c4a3",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2008/emendas-lei-organica-5-2008-sapl-1750.md",
+      "sha256": "41071ca4ec0615f260bb9336e155e3ee6ff1331da5cf79d3a15496078cdf973e",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2014/emendas-lei-organica-1-2014-sapl-496.md",
+      "sha256": "4fb2a18d19c068c51ea39e402d57414e2763dceff018d60b090270c2d2f5bcdf",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2014/emendas-lei-organica-2-2014-sapl-497.md",
+      "sha256": "b23972f4704325d6d71307f760b0160e00f99423bcce01bdffd9bd5e2463361a",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2016/emendas-lei-organica-1-2016-sapl-4356.md",
+      "sha256": "98e547e3538e24ef284f0d1402f9d74a1b6d08fdae51f9f55300e86afd8d49b3",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2019/emendas-lei-organica-1-2019-sapl-4853.md",
+      "sha256": "6345703afbb0b779eae1f6601403b6ddf5a048da6e243d836a2d673cb9f7fe3b",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2022/emendas-lei-organica-1-2022-sapl-5320.md",
+      "sha256": "0a87fd24a1f17b4c7d8d0c744b9b5364cb35042b94d01e56137178f2d63794b9",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2023/emendas-lei-organica-1-2023-sapl-5501.md",
+      "sha256": "ca04b6a0b7a2c1856986f079afafaf218f70d0efde07c53d897bf1537968ddb7",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/dois-irmaos/emendas-lei-organica/2024/emendas-lei-organica-1-2024-sapl-5637.md",
+      "sha256": "9ca0eb335ce7ed7906713665fdec62e24d99171760d45f23adc7052a62bba84a",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/pelotas/emendas-lei-organica/2018/emendas-lei-organica-92-2018-sapl-2712.md",
+      "sha256": "296da5aaee64c7b8a1e69f47d804b9914eec33c8e6b94ec35b1e0fbf7e82b514",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/sao-jeronimo/emendas-lei-organica/2019/emendas-lei-organica-1-2019-sapl-3297.md",
+      "sha256": "84fad376ff67eb86afdc6527c223a120aea1eb61d5064fc4acea0092c1688da5",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/sao-jeronimo/emendas-lei-organica/2019/emendas-lei-organica-2-2019-sapl-3298.md",
+      "sha256": "f01b339ba0399712cc96034b1b2a83f6dd9f34fa4aa2560b035f33f4c13d0b56",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1991/emendas-lei-organica-1-1991-sapl-7700.md",
+      "sha256": "97fe5cb733e300477365e516fc4ba0f85a30daa699708a7db0b250850f295c51",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1993/emendas-lei-organica-2-1993-sapl-7701.md",
+      "sha256": "d5c47ed3259a3da90ae557c6fc6f466c25886db511aef4e53f825749f702fd3c",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1993/emendas-lei-organica-3-1993-sapl-7702.md",
+      "sha256": "b9c694b7922b13db9e9bb74d649eed3a5ccb24c4c2732f425f6b8956169dcbd7",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1994/emendas-lei-organica-4-1994-sapl-7703.md",
+      "sha256": "689ba8a6406f912ca9e9dbf59e9cf1643ce46a336b9a46584f6816c90a771a6d",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1994/emendas-lei-organica-5-1994-sapl-7704.md",
+      "sha256": "9ab609e929a77790c7d601f3a9ba68d4c4b6edec10571a6e7b39d5b29adae552",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1994/emendas-lei-organica-6-1994-sapl-7705.md",
+      "sha256": "deb8c8992fc91d780f0b6d85a27dec857e19cfdeea71ca7af0e655190a27f8da",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1994/emendas-lei-organica-7-1994-sapl-7706.md",
+      "sha256": "953006c4eccf5fffdaf9d9cb6b03ed2ce9f3624824700653410f6348a6682d00",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1994/emendas-lei-organica-8-1994-sapl-7707.md",
+      "sha256": "cad98913379c7f46517ffd6c6d901bc35a559cb57b7d423d451dc81145c97784",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1995/emendas-lei-organica-10-1995-sapl-7709.md",
+      "sha256": "982deef210eb87bc747da63da0ad78f8bbfec2664ed81da4caf782663fa4dec3",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1995/emendas-lei-organica-11-1995-sapl-7710.md",
+      "sha256": "35fa485cef25af7e5b26a73534987aac2fc5e66fc81c521039d267a8960c9150",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1995/emendas-lei-organica-9-1995-sapl-7708.md",
+      "sha256": "211c4272ea6f6afe790dc66680cc8a73841adad6947d4ba4678499d465af71ed",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1998/emendas-lei-organica-12-1998-sapl-7711.md",
+      "sha256": "8b6477e0f99c450acea0ec5f6e77f7c648df2be590172ac8542ba5954fa63de1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1999/emendas-lei-organica-13-1999-sapl-7712.md",
+      "sha256": "8b30c13f7e0f5f5439ec9889a3dc9b8c06451a0f3cd5fe13c8d59ed1d8c448d1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/1999/emendas-lei-organica-14-1999-sapl-7713.md",
+      "sha256": "bd1d53271baee9280b895cc8b3d21982871854d357f067792c8f715001eed693",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2001/emendas-lei-organica-15-2001-sapl-7714.md",
+      "sha256": "4d1ed431c4d97333d49f73fe9082579727f431a134e6412a9b8d879f9def2a5f",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2002/emendas-lei-organica-16-2002-sapl-7715.md",
+      "sha256": "d430200883c5bfa92bff2f53ffa2e69f7092c2b4ce20e6e6ed1f094b3d7dc552",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2004/emendas-lei-organica-17-2004-sapl-7716.md",
+      "sha256": "0e6a495bf8bbabc5bf2ecd3e43f32cff3623d9848a5a7c58933dc3ed976a26eb",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2004/emendas-lei-organica-18-2004-sapl-7717.md",
+      "sha256": "b919a3e9020c0855ab61327c73c053ff326a18070bac56c1ee8a28e95a6b6911",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2004/emendas-lei-organica-19-2004-sapl-7718.md",
+      "sha256": "92d215b6a4f0876348d0bac94fda0e1146b22e22c87956e5005057e4e0475aed",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2006/emendas-lei-organica-20-2006-sapl-7719.md",
+      "sha256": "2e5d8539476ec38d99627740a9977194e23bf510b729418a72aaf39aed957d93",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2010/emendas-lei-organica-21-2010-sapl-7720.md",
+      "sha256": "bdc4d90c47d725190c698ec2c6320263aaee7cd8f32d73e5b368912d599ec6ec",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2013/emendas-lei-organica-22-2013-sapl-7721.md",
+      "sha256": "5cf0c5e7c169defc7aceb0ff7531b48ac5783d1c2f399c67fb049f9e37a80d19",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2013/emendas-lei-organica-23-2013-sapl-7722.md",
+      "sha256": "4fd001f1f668e83d81f4e7efaca29a1689bf4a400625a2887b90cccf8c855f84",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2014/emendas-lei-organica-24-2014-sapl-7723.md",
+      "sha256": "0ea6b8e0a4159cab4140370f1373bfdb2b424ee10a98387a42a76079bc8ced98",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2014/emendas-lei-organica-25-2014-sapl-7724.md",
+      "sha256": "73f5e9b1ff5bbbd808c01153768fcf212018ef7e6b353c744cde1e269336e5af",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2019/emendas-lei-organica-27-2019-sapl-6620.md",
+      "sha256": "410d405cbd61e58892e4f014229e1863acb0a71570d2ac7285bdf813e29c254c",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2024/emendas-lei-organica-29-2024-sapl-9085.md",
+      "sha256": "7c12137885bc71e4084c0b8dcd7965e7532e8b10492371ea908c20904670ffbf",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2024/emendas-lei-organica-30-2024-sapl-9086.md",
+      "sha256": "e1a0dce2f505d117e31f02acf2fb82fe7cc96d74484b915f5555e8c6b6896e71",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2025/emendas-lei-organica-31-2025-sapl-9346.md",
+      "sha256": "dcc9f28c6dbd43fa415e9d7ed5d105921b6f880dc3f8ea1d0e78dae5ece87482",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/uruguaiana/emendas-lei-organica/2025/emendas-lei-organica-32-2025-sapl-9378.md",
+      "sha256": "494a8439b6811cedac5490ee1d082dd67c0e1c8ba9ab052634e8c00f7d118c98",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/SC/anchieta/emendas-lei-organica/2018/emendas-lei-organica-7-2018-sapl-2485.md",
+      "sha256": "56b4ee5e05a393b23fec70b5167dbd887e0aee2dec2fef85bce49d5054b44316",
+      "aprovado": false,
+      "retencao": "tokens do texto nativo completo divergem do Markdown"
+    },
+    {
+      "path": "municipais/SC/anchieta/emendas-lei-organica/2020/emendas-lei-organica-8-2020-sapl-3346.md",
+      "sha256": "720095bfd072a526a83e02292afaaa5cfd487fd7fd8eb1175f187b96b8fa2770",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/SC/anchieta/emendas-lei-organica/2022/emendas-lei-organica-10-2022-sapl-3350.md",
+      "sha256": "9e9e277a0eff8f5ba6275cd322d79ed7235281e7b2528e30c6b496fcc1833e3f",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/SC/anchieta/emendas-lei-organica/2022/emendas-lei-organica-9-2022-sapl-3349.md",
+      "sha256": "751f2c0aa77291f10663f71d4c86e821ace9b4ae9b0b3aed6a38879ec989adcb",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/SC/anchieta/emendas-lei-organica/2025/emendas-lei-organica-11-2025-sapl-3352.md",
+      "sha256": "55a55a4843716dbbef207ffa13c09ae07c59624fb0137991b6151676b90411f2",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/emendas-lei-organica/2016/emendas-lei-organica-5-2016-sapl-967.md",
+      "sha256": "6cbcc532c37c3f6e604b322fa68922ccd75a681393929d0a798a0d7468c24b9c",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: numPr,tab,tbl"
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/emendas-lei-organica/2022/emendas-lei-organica-1-2022-sapl-2991.md",
+      "sha256": "f6c32a7321dcff57795d853c2f54bb8fb9bcc2d89720cdf5b3f9b9861457bc4d",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tab"
+    },
+    {
+      "path": "municipais/SC/guaruja-do-sul/emendas-lei-organica/2022/emendas-lei-organica-2-2022-sapl-2992.md",
+      "sha256": "e027f052cfa420245a704e26972e30abaaec31dbdf0f76f9b84d567b0c17964b",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: numPr,tab"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2005/emendas-lei-organica-1-2005-sapl-68.md",
+      "sha256": "bebbde5977be54f442674cb640ba4d81b6f622df5f8bf3397dd2e8e10101e6d5",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2005/emendas-lei-organica-2-2005-sapl-69.md",
+      "sha256": "b47333808eeab0136f5ffb4253942082ed7742a1ffd8439a0d3c8c68d7d43702",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2005/emendas-lei-organica-3-2005-sapl-70.md",
+      "sha256": "330a48479575951eee4142e10fa7685b11aca03c74f643e1b3e3c8b94af905ad",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2006/emendas-lei-organica-4-2006-sapl-71.md",
+      "sha256": "b7cce5277f19f31f0823b46828dd241bacfc4944700c3ed7f08b36faf46a89f4",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2007/emendas-lei-organica-5-2007-sapl-72.md",
+      "sha256": "0cb8e42b4e71c0772aabe11f405c90c77acaf7cfb3d10cc6470d92a7745f68fc",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2007/emendas-lei-organica-6-2007-sapl-75.md",
+      "sha256": "6c7a30775c103af7d3a781859ddb529315199085ab52e685cdbaf3f68c5d930a",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2009/emendas-lei-organica-1-2009-sapl-84.md",
+      "sha256": "3d6f2afab8b9f0212d818aa121f59acbfcbd802eb95e1f0730bb5c609da47b48",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2009/emendas-lei-organica-2-2009-sapl-86.md",
+      "sha256": "9cc62bdf162d91c29e3b3413bb56d6efbcd62e016ae5b8298bbafa6e70462e1e",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2010/emendas-lei-organica-3-2010-sapl-93.md",
+      "sha256": "9a32217c9a64df815eefe4348ce87c3fe82598d92fcbedcddef69c0df44428fb",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2011/emendas-lei-organica-4-2011-sapl-94.md",
+      "sha256": "9e4ff5b7516e005efc3f19a86c45c07e0ed2a7c31b70deefa96e1f4b461fa949",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2011/emendas-lei-organica-5-2011-sapl-95.md",
+      "sha256": "b30c2fa9fe68f4bb1d792f2210d0e9950050a1174408a1b64cf31322f5e6b482",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2011/emendas-lei-organica-6-2011-sapl-103.md",
+      "sha256": "b0708e346f21d2902f6195ef2dbb08e86834e957469c39f48da7d397282e008e",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2011/emendas-lei-organica-7-2011-sapl-104.md",
+      "sha256": "0168d355582ef302ae3f67dd39d8529734696abbb57b19870bb14d16d19917aa",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2011/emendas-lei-organica-8-2011-sapl-105.md",
+      "sha256": "a65cdce8d92b8096ac1321c4e5a425bfedb3c0531e17d38e8081e680411ee5a9",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2012/emendas-lei-organica-10-2012-sapl-107.md",
+      "sha256": "16cde6fae55b6b2ee8b3285eb60943d2c4e9566c4849a8197283eff4fae2afc7",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2012/emendas-lei-organica-9-2012-sapl-106.md",
+      "sha256": "531e8fe3e5c9cadc7f2ebc7d6a942ed8fb391f619bd663f10c7c4f166732ea62",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2014/emendas-lei-organica-1-2014-sapl-108.md",
+      "sha256": "af749bb7dcd5ce270d18908f59efac0f3acac270869d71bc9d73241d9fdd5159",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2014/emendas-lei-organica-2-2014-sapl-109.md",
+      "sha256": "4e092fdbb9c86315eceb45ae592b834792313c099053a5a37488704383a458ec",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2014/emendas-lei-organica-3-2014-sapl-110.md",
+      "sha256": "8c95dd2bfa76c00b69bd0e78eefb65bd58762c292edbba4ff8d3272f30bab3ca",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tab"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2016/emendas-lei-organica-4-2016-sapl-111.md",
+      "sha256": "e31a1622b3fbd5bcfa98bb7c1272050e117cb7cc6f6cf81e369ee0b0d24f3756",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tab"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2018/emendas-lei-organica-1-2018-sapl-112.md",
+      "sha256": "29a2465a5409eaace8e86c3ecd717a5a23a82b98d2d1ad28f9ddfe8e27862b6a",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tab"
+    },
+    {
+      "path": "municipais/SC/sao-bento-do-sul/emendas-lei-organica/2022/emendas-lei-organica-1-2022-sapl-176.md",
+      "sha256": "e6d6908a918ae6c352c26942c558005689ef60aabbb2dd333e4a810e9a5bc280",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tab,tbl"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1992/emendas-lei-organica-1-1992-sapl-4667.md",
+      "sha256": "f6d18cbaf057ae12656cde94d3d40e41a6737a422e330e2a8218583e5f723a42",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1992/emendas-lei-organica-2-1992-sapl-1699.md",
+      "sha256": "f27b031ef40f3919e354876f2f55023de21781414c7b070812705b48fdc98b87",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1992/emendas-lei-organica-3-1992-sapl-1701.md",
+      "sha256": "3162ed65baf9c5a7eb43d85baacfc9fd92f6bc54bf19bfb5dcb3679c97df4801",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1993/emendas-lei-organica-4-1993-sapl-1700.md",
+      "sha256": "80837802c58cdd25cb4e3fd48581c2399a00694b3e2b0b75b5a5c3c3b5e5daf0",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1993/emendas-lei-organica-5-1993-sapl-1698.md",
+      "sha256": "7896f5539b60e040ae294628f47ed67cf70758bd6e0678f651393f68f4540f6e",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1994/emendas-lei-organica-6-1994-sapl-1702.md",
+      "sha256": "e31cbe28f0995b88bf70c86b68cc12e78efe8cedc3655446c49d3970c672199a",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1994/emendas-lei-organica-7-1994-sapl-1703.md",
+      "sha256": "abe7fb882ac56f12644da8c17128ed6bd329322c3ea802ab486221601a35811b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1995/emendas-lei-organica-8-1995-sapl-1704.md",
+      "sha256": "a8aeabf9c15bf667caa47264e2c11c2bb28a31a343e66596e9b00a3fdce52389",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/1998/emendas-lei-organica-12-1998-sapl-1705.md",
+      "sha256": "c1ab220e38f01a251b629bf81840d3b59ef80cc72952ab4ebc2dae4298068934",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2000/emendas-lei-organica-13-2000-sapl-4629.md",
+      "sha256": "57a98f61a85a05e289d543d5b84e4d90e30746c660ec0cdb69b020b88ed4020f",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2001/emendas-lei-organica-14-2001-sapl-4779.md",
+      "sha256": "3c7c35bcd9c7fe8c54ad174faa772a5f8b47386d7f676feee0ba8b54678af4cf",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2002/emendas-lei-organica-15-2002-sapl-4635.md",
+      "sha256": "6c8c5c4afac07caf2920c0a5190c64e14bbd9129d1946d3a3d82c309b3766655",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2004/emendas-lei-organica-16-2004-sapl-1129.md",
+      "sha256": "d42a4b32b50da4b66050743056c6101ab0b821defac7ae8a869e0ace59d74457",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2004/emendas-lei-organica-17-2004-sapl-4733.md",
+      "sha256": "5762dc7a334fc0a1b5cb36faf6a5664d64af6c6636a0762a90a490574b2a3a93",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2006/emendas-lei-organica-18-2006-sapl-4780.md",
+      "sha256": "2a69b18c36d51f4f333d2b79541b651f86db44e9e85738b5c11c32caaba31443",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2006/emendas-lei-organica-19-2006-sapl-4446.md",
+      "sha256": "56b1f4c5e04a320eedb4654b29f857f1f6728e6a76932b0f90d729127f5ecbaf",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2008/emendas-lei-organica-20-2008-sapl-4345.md",
+      "sha256": "78f60f8f70e31ffd0981a84eaccf31e3823caea658e3c8dd8b7134535ebcb563",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2009/emendas-lei-organica-21-2009-sapl-1714.md",
+      "sha256": "fbc36498eece232e647a41f9f03af66079ff96373df5a800a8296b435d3b7d09",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2011/emendas-lei-organica-23-2011-sapl-3276.md",
+      "sha256": "e56d52a3c74cc8b7b8183d0ba4574a69fe9cf4a78340a7b339dcb2379d7c1d61",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2012/emendas-lei-organica-24-2012-sapl-1117.md",
+      "sha256": "c7c4b0eca5319b580750ffe3de243f7531b04b6933d619b1861c4389a40f9f4f",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2012/emendas-lei-organica-25-2012-sapl-4880.md",
+      "sha256": "fe29897ea473d45c5a5b182d8fec881b3aaac776db2eb260e3cb7d50a771b14f",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2013/emendas-lei-organica-26-2013-sapl-5109.md",
+      "sha256": "18c69f2369d8ca5f0b131f02694acbb5ea9283476e696db68fbecc795688d58c",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2014/emendas-lei-organica-27-2014-sapl-5118.md",
+      "sha256": "cffd08e08fdf31470b668fe1264d0df0fdb891c81805ae13dfff1736d51e6ae5",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2015/emendas-lei-organica-28-2015-sapl-5308.md",
+      "sha256": "9e7e8bf22d30a603eaee1bc889ed5a6618687db6c3769e7fb89a3949561042ca",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2017/emendas-lei-organica-29-2017-sapl-5423.md",
+      "sha256": "51707914c056c58ed64e3df9c5462b270de1743277eaaf391238887861557c35",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2017/emendas-lei-organica-30-2017-sapl-5445.md",
+      "sha256": "bf9cbbc1fad0a45e4d0701221638d95e38b4f5023adb3c4ec26782ac7c00588a",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2018/emendas-lei-organica-31-2018-sapl-5534.md",
+      "sha256": "50081ca39377f2aebe1bcca878a1c82d974995372e878a690753114b88fdb6c9",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2018/emendas-lei-organica-32-2018-sapl-100090.md",
+      "sha256": "acf02322609fc6e21b263a7e4813e7395f51d68fa6d36b0dbbd27b966caa23bf",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2018/emendas-lei-organica-33-2018-sapl-100089.md",
+      "sha256": "fb1f8ab2c6c64826720d8052916974a1d6632f4dac9d7347caf8c8bf680ec819",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2019/emendas-lei-organica-35-2019-sapl-100221.md",
+      "sha256": "a68e22fa5cb116947a5393e644ec43f160539f9f7efb9b2c2f8be56e4ac6b902",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2022/emendas-lei-organica-37-2022-sapl-101525.md",
+      "sha256": "72fb41ff16784df608cd46acf6dd8c3e6e01e47b6c7d3634dbe3845573659fa1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2023/emendas-lei-organica-38-2023-sapl-101617.md",
+      "sha256": "8529f86cb656b8c0140180db1e7bfd9448b6fb8e9960dda1d7097319465faa88",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2024/emendas-lei-organica-39-2024-sapl-101835.md",
+      "sha256": "755085a9aab7e01c5fe4dede23a10befcfc09dba6ba402722d123d680ecf7c61",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2025/emendas-lei-organica-40-2025-sapl-102062.md",
+      "sha256": "6ba46535bc120f4376f2ac9782c388503b69efafbe9a39caeddab08d73115784",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/garca/emendas-lei-organica/2025/emendas-lei-organica-41-2025-sapl-102150.md",
+      "sha256": "944320c5a82a9a11b2ef76cd7c891b4f4b33b74f863743972153103860356074",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-1-2015-sapl-2520.md",
+      "sha256": "4136eed1f867ddf09704cd380744e057f31b141a3d311c177135a909ac517108",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2520",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2520/emenda_a_lei_organica_do_municipio_no_001_de_2015_-_altera_o_inciso_vii_do_art._8o_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2520.bin",
+        "sha256": "ef8f2becc9eb9d7a4c093f20d5e1c4fb8d35ff4f386eb50926675b2444d7d227"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "428f7e7d7c49cb6474bf921f3469b86e48c90f1b389874dc1ff06791ea562bfe"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "efb47f8e7be873fc8748c030d115c989b8b574c34e78613e8731128981b3485d"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 001/2015\n\nALTERA A REDAÇÃO DO INCISO VII, DO ARTIGO 8º DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O inciso VII do Artigo 8º da lei Orgânica do Município de Planalto passa a vigorar com a seguinte redação: \n\n“VII ‐ fixar os subsídios do Prefeito, do Vice‐Prefeito, do Presidente da Câmara e dos Vereadores, em cada legislatura, para o subsequente, observados os artigos 37, XI, 150, II, 153, III e 153, § 2°. I da Constituição Federal;”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 167,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-2-2015-sapl-2521.md",
+      "sha256": "dc58c5fce0a115463d8542da56c2d55f79a2a3b6b53f7e1dce11180978bedfd5",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2521",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2521/emenda_a_lei_organica_do_municipio_no_002_de_2015_-_altera_o_art._19_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2521.bin",
+        "sha256": "73581ea8d81db27b0755f2c7c56daf2da3a1e7dc5e58f64f95a8cdcddb515b86"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "9c821463225956f9be1eeac4ab697c1b30d07454ed600480dc663acfff244869"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "5cd6d7b61ad9781ec9d76f50638bceb3fac7a47b92efc70560ecbd2228ad1412"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 002/2015\n\nALTERA A REDAÇÃO DO ARTIGO 19 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Direitora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O Artigo 19 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“ARTIGO 19 A eleição para renovação da Mesa, realizar‐se‐à após o dia 16 (dezesseis) de dezembro até dia 31 de dezembro, considerando‐se automaticamente empossados os eleitos a partir de 1º de janeiro do ano subseqüente.” \n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 159,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-3-2015-sapl-2522.md",
+      "sha256": "ab38fce52128684879699cb0a134cbd0dc5542ed76df105fd5c9815328959fcb",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2522",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2522/emenda_a_lei_organica_do_municipio_no_003_de_2015_-_acrescenta_o_inciso_iii_ao_art._47_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2522.bin",
+        "sha256": "6e2c2a801dc06f3bc4cddcb69d2b5b4a82945602e1a54e2cee1f057988dbb82b"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "ec26caf1ca86e88935d81146fa5511ca4e638f0ab362009587506d20fad2ec49"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "9372d98deef340e74ec588fbbcba3623f3520df16a05e634ce03baaeeaf2355a"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 003/2015\n\nACRESCENTA O INCISO III AO ARTIGO 47 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Direitora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - Fica acrescido o inciso III ao Artigo 47 da lei Orgânica do Município, que passa a vigorar com a seguinte redação:\n\n“Inciso III Fica garantida a fiscalização da Câmara Municipal em todas as suas contas e o acesso da comunidade a licitações do Executivo e do Legislativo.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 154,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-4-2015-sapl-2523.md",
+      "sha256": "18770d34148d68a59ad0e3bad9e48a6bfb8171c4638e12ff5e52f5c6712b2bee",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2523",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2523/emenda_a_lei_organica_do_municipio_no_004_de_2015_-altera_a_redacao_do_paragrafo_3o_do_art._50_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2523.bin",
+        "sha256": "a4d30ae147f4029f171d5b0dc12d668499a88e0911a78ecb700953b9fb17ec5f"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "0f30b8bd5d44708a196eeb31c31efa3197522ca0e75f091c4b6da508b44a9db7"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "c90707841f88667820d0dd24702cb28e42fe2d2cf6da267b0601c891ecf7b56f"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 004/2015\n\nALTERA A REDAÇÃO DO PARÁGRAFO 3º DO ARTIGO 50 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O parágrafo 3º do Artigo 50 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“Parágrafo 3º No ato de posse e ao término do mandato, o Prefeito e o Vice‐Prefeito farão declaração pública de seus bens, devendo ser anualmente atualizadas, de acordo com a legislação Federal.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 160,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-5-2015-sapl-2526.md",
+      "sha256": "2bd9b44a77f1de05891627ed5e064d50488100ec3ae9732410973a31cf091ae7",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2526",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2526/emenda_a_lei_organica_do_municipio_no_005_de_2015_-altera_a_redacao_do_paragrafo_unico_do_art._59_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2526.bin",
+        "sha256": "244d7b5031f1f3c0ef55d734bd608f0ddd3a9e7e422f68e5efee12c090b8e152"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "b7da2b045c6dd9b1f91d8381004dceffc7dc24b07dbb03d0bf9483f98cb05e5d"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "6b1882fc6764017c3d706d4541f45ce11c1b04244a1ad8c0bc0c313a026efea2"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 005/2015\n\nALTERA A REDAÇÃO DO PARÁGRAFO ÚNICO DO ARTIGO 59 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa DIretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O parágrafo único do Artigo 59 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“Parágrafo único Nos casos deste artigo, o Prefeito licenciado terá direito ao subsidio.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 140,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-6-2015-sapl-2527.md",
+      "sha256": "1a5f96efb2d482d0deeb3d8909fe4ed8fcf2e3ebf0bcd7836f182f805516e899",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2527",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2527/emenda_a_lei_organica_do_municipio_no_006_de_2015_-altera_a_redacao_do__art._92_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2527.bin",
+        "sha256": "437808e91173da70206c7632291f6dd314573b5112ac7f214b97631eb9d3f864"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "ad1d1e7f4ce46ab2978bcb3260b0261d994eb640f3312b5970c00b1792d19d82"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "506600ea3a2e84307b72497d2e6ce6db2784e2fc6ccb79a32e4b9bc1803b700e"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 006/2015\n\nALTERA A REDAÇÃO DO ARTIGO 92 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nMesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O Artigo 92 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“ARTIGO 92 São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 143,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-7-2015-sapl-2528.md",
+      "sha256": "e6cd7bfee75fd1b67c7e25723e62ef17f9f661538e47b97b3a5811c64735bd52",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2528",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2528/emenda_a_lei_organica_do_municipio_no_007_de_2015_-altera_a_redacao_do_paragrafo_2o__art._144_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2528.bin",
+        "sha256": "8b02e5fbf16d42464bc3588d4fa01fc5e9d62f437fe216f484f61c68fdcb2b4a"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "89f8347337d96f6c1f393761af9a4744c97962c3424605bef25853eb53c08a3b"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "38302745e584fe05d7aa43d2c48e018196e440a411c26813aaacec71df7f41f8"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 007/2015\n\nALTERA A REDAÇÃO DO PARÁGRAFO 2º DO ARTIGO 144 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O parágrafo 2º do Artigo 144 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“§ 2° Fica assegurado anualmente uma dotação de até 30% (Trinta por cento) sobre a Receita Orçamentária municipal, excluídos os impostos locais, destinados à Entidades Filantrópicas do Município e ainda à Santa Casa de José Bonifácio, Hospital São Francisco de Buritama e ainda Hospital de Base de São José do Rio Preto, por se tratarem de Entidades que também prestam serviços de assistência médica e social no Município, legalmente constituídas e que estejam praticando os seus fins.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 203,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-8-2015-sapl-2529.md",
+      "sha256": "712c54edb4dbe58d4d6ef971de488f8d9ceaa87f7133feb95f90548ada179767",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: numPr,tab"
+    },
+    {
+      "path": "municipais/SP/sales-oliveira/emendas-lei-organica/2023/emendas-lei-organica-3-2023-sapl-2700.md",
+      "sha256": "17694833004eaf5a0a7bcfbd0a771ef24ec822b3fcbe29c8d4fbb4a31c4a4f79",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/AL/japaratinga/leis-ordinarias/2025/leis-ordinarias-739-2025-sapl-146.md",
+      "sha256": "aa754c75aaf4586cf491a2dc73eed9d36b7449edee38aec775e073999a69a3cd",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/AL/japaratinga/leis-ordinarias/2025/leis-ordinarias-743-2025-sapl-147.md",
+      "sha256": "acb269ca8928a19883b51ad1eb3a1afc811905f72660c8a12d9464330a91dfe3",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/AL/japaratinga/leis-ordinarias/2025/leis-ordinarias-746-2025-sapl-3.md",
+      "sha256": "a0267ac7f69958effe4d49346c3d05ca6618b93caee930ebd43bd18662462e0b",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/BA/antas/leis-ordinarias/1991/leis-ordinarias-207-1991-sapl-3.md",
+      "sha256": "a70ac9c777768f5ed396ea4d65fd1534f8a302f756e9efb3a0ffdc6cafcbe3bd",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/BA/antas/leis-ordinarias/1991/leis-ordinarias-208-1991-sapl-4.md",
+      "sha256": "fa9263eacc29099b412601dc75fadde973a7e3c2e13d3f35d20442421cbff6d1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/decretos/2025/decretos-6 082-2025-sapl-41.md",
+      "sha256": "a025d2334ad51caaf847cd42964966a75b9985e164effb0f4887dea89666fad2",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/decretos/2025/decretos-6 097-2025-sapl-55.md",
+      "sha256": "c3f5d4728e14f5d96dd2e9882fab00821351152b6514feb94cdfc8c8c4a9dba2",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2004/leis-ordinarias-3 282-2004-sapl-26.md",
+      "sha256": "c64523cb5898dd9efcf9dad0df1c27c265af1e93752a8011fa39483cf83af11b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2005/leis-ordinarias-3 408-2005-sapl-244.md",
+      "sha256": "8eac935ad5c2ca50dd75f7996c7dd99204c16ea2e30e90729468e135f0ecc886",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 082-2025-sapl-49.md",
+      "sha256": "eea930c8ec16eb97a57da2f19af16bdaaa2b5a60ea29a3805203abb6853b8eec",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 084-2025-sapl-51.md",
+      "sha256": "dee7e2009fff22d1d5cea5656d0935a54a5f79e09bc53fa5117655f405106efc",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 092-2025-sapl-52.md",
+      "sha256": "af6cbb0eb15680fe4309a0f8d7a54724e84746c3436cf5bf6e22b6811b2c2642",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 095-2025-sapl-50.md",
+      "sha256": "6b31d21a904ed09f7948e74c9ef6b69d43e965792580a53fd2dc563b2271c56e",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 096-2025-sapl-48.md",
+      "sha256": "9ccb0a976fbd7a81d4fcdf574eb1d8f28ae71cb5c3867ee738cc078ee9b4a574",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 106-2025-sapl-56.md",
+      "sha256": "37399de26bee65962ec7711a1d698fde11dd086c26c1a5405ab56ce0728f9a0b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 107-2025-sapl-58.md",
+      "sha256": "6e98ffe5f79707d0a47d3b1259800e5806510a466e132f423e923a96358f4eea",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 108-2025-sapl-53.md",
+      "sha256": "5acb8dd2de08168272a3b056d86f8d7e2c8e56a1a3e7c44602aeb5e1d3c480e4",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 109-2025-sapl-40.md",
+      "sha256": "a361a05aaadcb3849e9d78c1ec8d637f4e4595deb0196158fff58b6b4f627056",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 110-2025-sapl-54.md",
+      "sha256": "6869cc1e0425dc8c348ff5a539de525f5dfcc2f9b1cb2968ee86d03078f8361f",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 116-2025-sapl-47.md",
+      "sha256": "efd22876e7e26103cd59cc2470353764551c656b0b8d41ce9ef80807abd1229e",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 117-2025-sapl-57.md",
+      "sha256": "3c727a42f86275fe085357aa82c2929115006e651121be9857d6a38c6b8c66ea",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 121-2025-sapl-60.md",
+      "sha256": "17231b1a162b63b671be52e578410fb55303fbb2bb4306740b7ffc5e1d26a798",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 130-2025-sapl-59.md",
+      "sha256": "c19710ed44a4ef1c77c1cba2c5782714f09324a7f0ef89620ad0d57ffce49ddc",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 131-2025-sapl-78.md",
+      "sha256": "1774f558ff39c19a16c1b6a98fb18733d00f0fdfa2bf3ae9cc9e04fcc07b9fc1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 133-2025-sapl-31.md",
+      "sha256": "d8120779c3d96bba7a24376d82a363f5b15064d15f55de05f88a6d78ef8b59d6",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 134-2025-sapl-32.md",
+      "sha256": "1d6929215277b73850de336063ec9f4e0ca26f054eaff82fd8eff88605e24f9d",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 135-2025-sapl-63.md",
+      "sha256": "91732e786b6ab1610b140e8faa046a4c52b9d3d57be2e2aa53a3ba3f83b5fcd1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 136-2025-sapl-64.md",
+      "sha256": "266ba16ac7eef2e1311e12e3cca9c005b8b5ffcb3f8ebeb923faaf7fce08b1a0",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 138-2025-sapl-65.md",
+      "sha256": "4c708adbb49adf518d00f63c72bba87d8c0ccb1ada36816ca5f13c442620d710",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 139-2025-sapl-66.md",
+      "sha256": "6bfab2059599436e8912f9c76d9b3464468ddaddd023e0310a8468de9f7d875c",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 140-2025-sapl-67.md",
+      "sha256": "ad145322680c7345f7f3e9f70d90eb3937337dcad1c86f9c9a66f55c20d076fe",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 141-2025-sapl-73.md",
+      "sha256": "a90893289dc2c10d36d2931c0432f734423edb0d53dcdcc29954632088d77277",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 142-2025-sapl-74.md",
+      "sha256": "77e4ca774300d3bf1b6a07f1961f79f88039c9720cb52429e01e9606ddcf6e5b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 150-2025-sapl-84.md",
+      "sha256": "64443470913623959622125031295c6a48f52fb033a6bf8268e7ae111aa07a5b",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 152-2025-sapl-83.md",
+      "sha256": "c1ae9eeff17cb0811e68a17996da34c58d29415a1df5044165b0ac7759f198e5",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 154-2025-sapl-81.md",
+      "sha256": "7d0c36ba2a24891d5acfc59f73784f2aa5f97bdeccc9cab7e28af666a5050066",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 155-2025-sapl-82.md",
+      "sha256": "05b4d29e9b29b7b2ac5fdaad46d744445d26fb4b503f7640d58f3f59aaa10bfe",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 156-2025-sapl-99.md",
+      "sha256": "2671f8ee74d61e3368fb8a03fd93b3deb141669821f26f094da2f0be61de729c",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 159-2025-sapl-102.md",
+      "sha256": "134a1b910c3424144ff109fbf2843596d908eb9dc02b5e056eb329a9403918ef",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 160-2025-sapl-103.md",
+      "sha256": "f98beca98ef65684c0094950e5d6dbc3eb77a5643eac23781e5147c9b72f06af",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 161-2025-sapl-104.md",
+      "sha256": "4f8433a0cfafe78b968ea4cfc54614f38a06c7650d2ad3be0a06443d921688fc",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2025/leis-ordinarias-5 162-2025-sapl-96.md",
+      "sha256": "a5fa8f701eb8f3bc0df73543c511ff375f272f38c427634f0d2487d515ed9861",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 169-2026-sapl-178.md",
+      "sha256": "2773f6fec871b33f1b73f66187f77771885a33591f68f0a759ec7a7ef4290321",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 171-2026-sapl-189.md",
+      "sha256": "096337990ab39461170dab8f9d7c6ced45ad4041a4c19457cc4c0c91e27494b5",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 173-2026-sapl-190.md",
+      "sha256": "fdf7d217529e8f442262873c137a639ddf1571af1dd518989f7358f616ee3447",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 174-2026-sapl-180.md",
+      "sha256": "746f16414526cd239c149044673608e9d3e01fbb414b9b47caee1d756ed4b5d1",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 175-2026-sapl-181.md",
+      "sha256": "061f13e5961212ff3808d9542b8ab18ce38d28e19de991463332d529e9e75abd",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 176-2026-sapl-182.md",
+      "sha256": "d5ac5f006d41f1562c926a1293fa09fff574bd06218c72ec656e17f1656644d8",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 177-2026-sapl-183.md",
+      "sha256": "4bf431f8bffe531e98acc1e8ec9658e5c9276c4d34bb9d35925f3cbe91c371c9",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 178-2026-sapl-184.md",
+      "sha256": "7ecc42c0dce2f6c8349b9bcda239ced6939bd0e571e3bd9d3974a58032aa9ef8",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 179-2026-sapl-185.md",
+      "sha256": "6003790a07f975160a3ed7e3f61f0137564f21dce91e1dd638b61e6f4057c44f",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 180-2026-sapl-186.md",
+      "sha256": "bcce9bbb7b33722660193bb1388b7aabbe638d8b71ae3909ac878ef7e54618ff",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 181-2026-sapl-187.md",
+      "sha256": "9e284cc3d528d9195b1798dd6065aa2e0732768a898fec4ddc8f8ae51db4df58",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 182-2026-sapl-188.md",
+      "sha256": "de59189e08e3d7af58aa1ce8d01328ac715d0a9e251fa56057067b99ef84ed2a",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 191-2026-sapl-195.md",
+      "sha256": "70a5646ebf0b434e8213ae3f387556f7b2875ac010311602b4a3a516b23ef741",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 192-2026-sapl-196.md",
+      "sha256": "a430c1d43c169abbc1150cc2b8f50674ca1ca54b1d316a8f3a1460ca500526ac",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 193-2026-sapl-197.md",
+      "sha256": "405c87b0718774d35ce0554c5f50dd7ac8d18c3d0b44d644fd703cf07eb4c800",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 194-2026-sapl-198.md",
+      "sha256": "74374d17496fc226daa9e6b1f8810f422b9bcda2766bb26b7088c5565665c9f4",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 195-2026-sapl-199.md",
+      "sha256": "8fd60e1845111c56b733cb170b6a90e374459f6646f58b5a9a0bc658dad38f20",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 196-2026-sapl-200.md",
+      "sha256": "0773ea464bd279ff2e07f6ea21308837fb15efaccdab7716d07f10c038137ecc",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 197-2026-sapl-201.md",
+      "sha256": "82af8c8f61397795f09aace227be3d0efe81acc028ff38e0f68a6e373f0e1619",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 198-2026-sapl-220.md",
+      "sha256": "9f92a9ab9a0cff84c21337055591b140fe684f61f484300dd4780f4bd467207b",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 199-2026-sapl-221.md",
+      "sha256": "fe33645b44cf5881b968793aab6e213e8d6d1f2fd1de51e436ac65d9ebe93975",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 200-2026-sapl-222.md",
+      "sha256": "9b303f234dcc5e4812a252f270209f301f71e23b79a233d89983fbf99c2213b1",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 201-2026-sapl-223.md",
+      "sha256": "9565a21eb5f2fe2b7511775a5b7275422c9a9d31375e5a8b48279ec0c30fd1da",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 203-2026-sapl-225.md",
+      "sha256": "8cc7583ed60cfce65a1406d7f5061387d61a5eb46bb8f529449ff8cf6b4368df",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 204-2026-sapl-226.md",
+      "sha256": "67e27e0623ee67681bda2c17e0468f161c8621dbb96bfc62f35e275b4f372f81",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 205-2026-sapl-227.md",
+      "sha256": "f0ac21cd5ff3637893afdf816ab34e5701d2430b12695cf13b412fa6eb516f0c",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 206-2026-sapl-228.md",
+      "sha256": "6d9de47cb6842ad3eb09ec0dbaba9d57b14d9c4ebb468c9adbc1482abaca91ae",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 207-2026-sapl-229.md",
+      "sha256": "16e563cf53b0fc2e3513f90fb584af1ec8e2b06080e58be10a3df4a8c769c418",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 208-2026-sapl-231.md",
+      "sha256": "5695193274647ed4673cb457e8a1293b03a3049eddf3a9fdfe3c1a8097ba3b79",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 209-2026-sapl-232.md",
+      "sha256": "f66ffccaf54a09ab6398d81fc9c1007e05de268a98bcef3657fe25cfed2da2b6",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 219-2026-sapl-233.md",
+      "sha256": "61195534bb6bcd4a4e13b7d43a7d759fc254521d3228f2809a292b2605f7297e",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 222-2026-sapl-274.md",
+      "sha256": "c8235e5b0e77a29c18caa3e5a8b94bc6db3ce007212214fe9cbd66abcac72196",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 223-2026-sapl-275.md",
+      "sha256": "bd8942575cb7e821642e1692962bc632cf3cda9b295e8d0a0017c277f2cc7ae7",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 224-2026-sapl-276.md",
+      "sha256": "57284e4c4976c0415bc279df7a9f21a26df9fd0697b12625ae22c5decd92fff3",
+      "aprovado": false,
+      "retencao": "texto em parte adicional: word/footer1.xml"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 225-2026-sapl-281.md",
+      "sha256": "6afa11f2d06c4b1fa789ce843114fd3a6dea505ec6423b9b580488cba590b628",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 226-2026-sapl-277.md",
+      "sha256": "704cdfa67fb2f95b44f1ee8c5788d6c6b236a67f3fa82ae175ca976feae9da32",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 227-2026-sapl-278.md",
+      "sha256": "b3e09cc6ee8ac68eb31d0ca98453632a1186fbaf5057392f8843cfa5eb928964",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 228-2026-sapl-279.md",
+      "sha256": "8cffa2a7e1efd02e85752e49fe8e978467a36e28a29e033e9e6582d185b837d7",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 229-2026-sapl-280.md",
+      "sha256": "825ea0ea68e194f75d4db0d7df7d60b8d47e064b68602f16ff7b6cd2702b29e9",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 230-2026-sapl-283.md",
+      "sha256": "e52fc899d02d6e257f5c75f99d6fac352dc20112cd53bc3f0ef6966c9118f792",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 231-2026-sapl-284.md",
+      "sha256": "184651089807e762daa7474672494a93c427b6dc50a521a0d7702b9583ac356e",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 232-2026-sapl-285.md",
+      "sha256": "e7e6c0365f1be442c71a2e129fc2c8f73c79b4d222e0da9cdf798e2a8479e5a8",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 233-2026-sapl-286.md",
+      "sha256": "e71a3d62ef4cebb2892252a0770f6654696f1507ef1629d6d70a2acf5e6c006a",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 234-2026-sapl-287.md",
+      "sha256": "8d8606f1fb7d5e55e7a1f4a0554daa54554e6f431691eb4295d1f8b7238dc09d",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 235-2026-sapl-320.md",
+      "sha256": "835f8e720a8ff4e2c9a46701172f570f2877e8a46bb6cdc68dc38c0bc6951ae7",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 236-2026-sapl-321.md",
+      "sha256": "599db1039a9b6ed2379ed3404adc39ed2f6c1f3ebc8f2e1657061be7b0a01eb4",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 237-2026-sapl-322.md",
+      "sha256": "399536717cc4dd5e8a5e39cefe9f3c6a06f52218984531379b09bf611fc1d281",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/MG/cataguases/leis-ordinarias/2026/leis-ordinarias-5 258-2026-sapl-323.md",
+      "sha256": "c37a94d869d3dd2bacaeeb2a142e0da787d4c7d17e523293e5d290b2dc940d6e",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2025/resolucoes-11-2025-sapl-33.md",
+      "sha256": "8d61147ea977657804b0dc0a1a98937683259b25bad9888a12dd02cd850066b1",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2025/resolucoes-12-2025-sapl-34.md",
+      "sha256": "ff190d82fd16a012c3ea09648482f31e047f3740becd784d98264008790aa5f5",
+      "aprovado": false,
+      "retencao": "File is not a zip file"
+    },
+    {
+      "path": "municipais/PE/flores/decretos/2023/decretos-29-2023-sapl-234.md",
+      "sha256": "e69043c3dd8e77f6498c0c89be14facc2401651cd9bf5d330edc6cc1493cb8fb",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/mambore/leis-ordinarias/2025/leis-ordinarias-60-2025-sapl-133.md",
+      "sha256": "b3922af69d440d0c671112fe0a607e1c187ac3c4664a64e89063d812dff52daa",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/sertaneja/resolucoes/2021/resolucoes-35-2021-sapl-191.md",
+      "sha256": "0a87c0c01ecf734b2353e0b7fc3b9cbead4cb374be34b21bd18f2f25b5ee2c90",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/sertaneja/resolucoes/2025/resolucoes-42-2025-sapl-21.md",
+      "sha256": "0822c229468635665785ca0f581e091140623b8ad4930018423858cffc8300bc",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/sertaneja/resolucoes/2025/resolucoes-43-2025-sapl-22.md",
+      "sha256": "c79fd65447f267f299e6759639b017eb3749bb25888d21bc7c25243ea7ea8c07",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/sertaneja/resolucoes/2025/resolucoes-44-2025-sapl-23.md",
+      "sha256": "b035f705065eb82e4a4a4143d89e1cba8e450230e4ae017fc3c95fcd6a6a97c4",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/sertaneja/resolucoes/2025/resolucoes-45-2025-sapl-24.md",
+      "sha256": "830d2b54f047e256ca20dfffb9acb8abc0bd272e4568c8bc4104f20224dce9d2",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/sertaneja/resolucoes/2026/resolucoes-46-2026-sapl-9.md",
+      "sha256": "183444322904d385d752793837882c752443be40015f5f6f056db01d48442aea",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/sertaneja/resolucoes/2026/resolucoes-47-2026-sapl-10.md",
+      "sha256": "565c6a766ce457859ae5b755149ecc6890d7baed9931e8b6228da9d8420cd198",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/RN/campo-redondo/leis-ordinarias/2013/leis-ordinarias-396-2013-sapl-6.md",
+      "sha256": "e82eabc0e00a2c0c37aae9202ebae57f805af12e44091046669c4f8c50f881b1",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2023/resolucoes-3-2023-sapl-96.md",
+      "sha256": "e318c3cf410ae7f0e25e106489d175f9b8b1ace554f3179c1c5067f0ccbbea0e",
+      "aprovado": true,
+      "fonte": "https://sapl.coronelbarros.rs.leg.br/norma/96",
+      "fonte_texto": "https://sapl.coronelbarros.rs.leg.br/media/sapl/public/normajuridica/2023/96/resolucao_de_mesa_no_03_-_ponto_facultativo_carnaval.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.coronelbarros.rs.leg.br/96.bin",
+        "sha256": "00daa925d838067051e108863805c7440c4ad7649bb987acbf1a462a83c620eb"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "4ac30544d152ca201c2db0d01d16fe8811c3e2a3d5fbdb47d154587926077532"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "49395915f6cc932b649456e8369b23f32ee5e7531d39ba821942b12b0c2b62e1"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "38803afc7459097d8462b85debdec79a23e7d3767549da38aa07df85db8e0a4e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "08d9c7a8e26998b4b9ee690bd5ea5a7648e741f282a026ea021ef28338b4589c"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "a935be2dde349160ee390cc5b6a06aa057cfd44feac230f6eff440889f53902f"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "4a268018e1f1057231c337b7f15d39664565ea7af8275dd4f21686c71e578a1f"
+        }
+      ],
+      "texto_nativo": "RESOLUÇÃO DE MESA Nº 03, DE 17 DE FEVEREIRO DE 2023\n\n\n\nAdota ponto facultativo na Câmara Municipal de Coronel Barros.\n\n\n\nA Mesa Diretora, dispondo dos poderes previstos no Inciso II do Art. 19 do Regimento Interno, considerando as comemorações do Carnaval;\n\nRESOLVE\n\nArt. 1º Adota ponto facultativo na Câmara Municipal de Coronel Barros nos dias 20 e 21 de fevereiro do ano de 2023.\n\nParágrafo único. O ponto facultativo está previsto no Decreto nº 3.391 de 15 de fevereiro de 2023, editado pelo Poder Executivo.\n\nArt. 2º Esta Resolução de mesa entra em vigor na data de sua publicação.\n\n\n\nSala da Câmara Municipal de Coronel Barros, em 17 de fevereiro de 2023.\n\n\n\n\n\nLUCAS JAIR WOTTRICH\n\nPresidente\n\n\n\nRegistre-se e Publique-se\n\n17/02/2023\n\n\n\n\n\n\n\nCRISTIANA DOS SANTOS ARNT\n\nSecretária",
+      "tokens": 130,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2023/resolucoes-6-2023-sapl-98.md",
+      "sha256": "a775c1d35b0a09e5875fd0e776f487e00376528aaaab8de76a76cef65c7f340f",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2024/resolucoes-2-2024-sapl-75.md",
+      "sha256": "37429971d385009f5dce518080c044b634c552f92fd7e0fd74131f2b489c00a6",
+      "aprovado": false,
+      "retencao": "tokens do texto nativo completo divergem do Markdown"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2024/resolucoes-21-2024-sapl-94.md",
+      "sha256": "f7722843da552d32cba7ad856fdc6cf135cebbac3431b0d67a73222f3546cd5c",
+      "aprovado": false,
+      "retencao": "tokens do texto nativo completo divergem do Markdown"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2024/resolucoes-3-2024-sapl-76.md",
+      "sha256": "9d1a60b395cbd3b02b17b5183c5697ce6607c79942b8f3b733d6d40a02375bce",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tab,tbl"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2024/resolucoes-4-2024-sapl-77.md",
+      "sha256": "55ba930d9e1d19d54ae743ec1ddfe621459cd6c7379e30068bad6e4c73a12199",
+      "aprovado": false,
+      "retencao": "tokens do texto nativo completo divergem do Markdown"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2024/resolucoes-5-2024-sapl-78.md",
+      "sha256": "802a7aa06d5346e4efc2a1ca60ce3fb94257cb38989e932d9da50151c9593eae",
+      "aprovado": false,
+      "retencao": "tokens do texto nativo completo divergem do Markdown"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2025/resolucoes-1-2025-sapl-53.md",
+      "sha256": "ad17e7c98ed09cf6477d3c869b3a172ba7874c5ec9c959ef7c390309d1e628b7",
+      "aprovado": false,
+      "retencao": "tokens do texto nativo completo divergem do Markdown"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2025/resolucoes-238-2025-sapl-10.md",
+      "sha256": "d893e28fa8a6dd7ffd87391a3c5c8ba0e68b806cd1b6c4e3add722354458925a",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2025/resolucoes-239-2025-sapl-11.md",
+      "sha256": "e14b5cf47968302628c35b79334fb08b66d0adf4f9edb3c19c1c8821f5facf96",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2025/resolucoes-5-2025-sapl-57.md",
+      "sha256": "1bd7de66c2a3f54ea56d360f61f72d83b1b7b90dabe5f92fc42f32f4d5e6bbf0",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2025/resolucoes-9-2025-sapl-61.md",
+      "sha256": "83cab0f9baa2bf45806aa18efc97e2006ad124beb7e4249e029d50429ca65b54",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2026/resolucoes-10-2026-sapl-24.md",
+      "sha256": "eb49dea5f87036fff18137707b99ba79bbf7685b272f9122b2f29c6584cf344c",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2015/leis-ordinarias-650-2015-sapl-652.md",
+      "sha256": "f286016ce4684c90229815e14cdd037095d420384b551bcc864b0ba69589d5c8",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1096-2022-sapl-1106.md",
+      "sha256": "7f5a4f69d0760b02f5d63debbb6f3311630b3703b8697e7d8ae03cab912f3f74",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1097-2022-sapl-1107.md",
+      "sha256": "68a5bee010c07beeddc7d8d94231d78faeb4953eacc954b35e842716e59c26cd",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1108-2022-sapl-1117.md",
+      "sha256": "e7bb33c6f18da214ad7a0a2fdbdef5dfe80a252d5b00efb683e9199c8c71a673",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1109-2022-sapl-1118.md",
+      "sha256": "45e6511b60fcf6cbf30f3796463a8a05ae9da0462dd117c8896a1d9c973cd86f",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1110-2022-sapl-1119.md",
+      "sha256": "b9279921181743623950d4e51c0f3b79c7fc65d302cac04cd6f7c7262576ba28",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1111-2022-sapl-1120.md",
+      "sha256": "7482e65ce7e6c31c739bdffa87989028ae995ef5df821fe6cabfa8fe12e53bf4",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1112-2022-sapl-1121.md",
+      "sha256": "4e836f0ed91558f6212326bcbd175a99fb230499811e56ab93f9f06de08adcb4",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1113-2022-sapl-1122.md",
+      "sha256": "6f4671bc29879ce6fb66005166d31e45cfe1ba850367b860bde16199c822bc02",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1114-2022-sapl-1123.md",
+      "sha256": "373d3af49754bfc8d0019c094c898761efe2628d8a5f80110314caea9457d4c9",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1115-2022-sapl-1124.md",
+      "sha256": "33ce5ba54c12465907586604596e76a34daab5008fb079a6be0889bedc8f090f",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-1116-2022-sapl-1125.md",
+      "sha256": "b598e89d369f00925c44e8eeada1795f3d8b10b01940928660e9111a400b3945",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2022/leis-ordinarias-294-2022-sapl-310.md",
+      "sha256": "9e3fc5832c7b104a04f1b20e66fc874e0aa7950ec25f5d1d123f0677de168f4d",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-517-2013-sapl-522.md",
+      "sha256": "3bdd1291a9916a5516cd8643471537c55281b91de04994ecf0046076a576e87d",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-909-2017-sapl-340.md",
+      "sha256": "346c7e309ecbff000a47341719e45091fd42644b3bcf33016436d7c78057b35f",
+      "aprovado": false,
+      "retencao": "ativo gráfico, objeto ou diagrama requer revisão"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-910-2017-sapl-341.md",
+      "sha256": "2d280ca31fffc5910be47445dcf48bccfc22b65f9160a6c0394ae133a0682588",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-911-2017-sapl-343.md",
+      "sha256": "5120a7910fcc8637bbf9e55c686cf70f87e49a88162af70e1c568c5d78afe64c",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-912-2017-sapl-342.md",
+      "sha256": "53e5cc29034c502a736cea06426216dc9b29599a4c40f724815d7da9ff7d008d",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-914-2017-sapl-345.md",
+      "sha256": "c0e455d75a63c5094490e6ccc996cb62e9fc239381522e949786faef5bc1554a",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-915-2017-sapl-348.md",
+      "sha256": "e09e4bbc0b32a4447027a0c33b4be88a336ababcf74c82cca32ac484ec1d1933",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-916-2017-sapl-349.md",
+      "sha256": "88727b2ac0663b8fad712ddae283c65de7ead36d5cd0f7cacf762e6d2ffd04ee",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-917-2017-sapl-350.md",
+      "sha256": "da67845f87d06fba3d47987cfd74bdfb5ac0299d1d4fec28159d2471ffa71da1",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-918-2017-sapl-351.md",
+      "sha256": "e6f06a92ce2ba1a40aded545077857a74e1c3790b8c33269b9df3734ffa84801",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-919-2017-sapl-347.md",
+      "sha256": "5149666455f394d1a948bc64d679dfca6fa87e1ed128e41f57528bbe82083702",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-920-2017-sapl-346.md",
+      "sha256": "dcf16460449fcdfb11836f4dd48cd7c722f28cfea7619f03cf2d607c6b6088d6",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-921-2017-sapl-352.md",
+      "sha256": "7f713c049920a463d26531ec0ec46f45d3d4d624927af0d834249fa01815597d",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-922-2017-sapl-353.md",
+      "sha256": "6d4c89f0f49715e62ffa5c2e846b5230cc7105bbd0291e312566feaaf3163531",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-923-2017-sapl-354.md",
+      "sha256": "7c348b3dd426e9de0379ff727c933a719f1bdc8a6b026ad66752f9f8766f55f6",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-924-2017-sapl-355.md",
+      "sha256": "be2f8964857ab1339bb725f366998e1a5e44d7164612bb201e3613abd235212b",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-925-2017-sapl-356.md",
+      "sha256": "fe7bfa11104f568030d39e5ac380bd82724d8c463abd3cafd3df0301c4d043f3",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-926-2017-sapl-357.md",
+      "sha256": "b5da6d5573b61608b0332794abc11eb3df20d4c4353b8aa95aac7b86352dbb3d",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-927-2017-sapl-378.md",
+      "sha256": "093c73f1b3cf68e91de2c67a1b2383022a4908d16e090036dcb7bbcf234dc749",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-928-2017-sapl-358.md",
+      "sha256": "ccd83cbbbceaff8d8e442e98c50128f967c61d10e64bafc1480ef2b9f1bbe026",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2017/leis-ordinarias-930-2017-sapl-359.md",
+      "sha256": "b0289f76360093dec8f23dc84f72fad6625caeed58ba83a43ab3f4980471ef1f",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2018/leis-ordinarias-931-2018-sapl-360.md",
+      "sha256": "c66d5893730204d22aeb80fa35b826c715ac4c581eebed57b7b42cd099c77a4f",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2018/leis-ordinarias-932-2018-sapl-361.md",
+      "sha256": "f3b672d9b394f9ce8f4c41381c52caed032123f0615eeb67650345d13e44c8e4",
+      "aprovado": false,
+      "retencao": "estrutura não suportada: tbl"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2018/leis-ordinarias-933-2018-sapl-363.md",
+      "sha256": "776571722a7dab27243164885ca4d336c74430d9493406187aeaa9522f5c7ff9",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-ordinarias/2018/leis-ordinarias-935-2018-sapl-362.md",
+      "sha256": "8aac6104aaa2638508da7efaf5883c2d3dd563ab65f7ddd4b02cdf088cd86ada",
+      "aprovado": false,
+      "retencao": "não é DOCX WordprocessingML"
+    }
+  ],
+  "script_sha256": "2844c31ae40dc401283b39bc6e73fe57b94b8b0937e47047f66dff356e8f8b51"
+}

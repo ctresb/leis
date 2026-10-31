@@ -1,0 +1,12 @@
+{
+  "criterio": "Detecta possíveis tachados vetoriais em PDFs para revisão visual.\n\nLinhas horizontais que cruzam o miolo de três ou mais caracteres e anotações\nStrikeOut são suspeitas. Não remove texto nem decide vigência jurídica.\n",
+  "documentos": [
+    {
+      "pdf": "municipais/_fonte/capitais/salvador/lei-organica-consolidada-41-2024.pdf",
+      "sha256_fonte": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598",
+      "paginas": [],
+      "total_paginas": 89
+    }
+  ],
+  "script_sha256": "53ab933e3efe0d4818fa68939516226572950d3a96c292560a01043fd9a0410a"
+}

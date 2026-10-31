@@ -1,0 +1,37 @@
+---
+titulo: "LEI MUNICIPAL Nº 2844, DE 26 DE MAIO DE 2026."
+uf: "RO"
+municipio: "MACHADINHO D'OESTE"
+tipo: "Lei Ordinária"
+numero: "2844"
+data: 2026-05-26
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 28/05/2026"
+data_publicacao: 2026-05-28
+codigo_identificador: "49AAC1F7"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116074_2026-05-27_f5eef4989df98520d307cde42ecbe116.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 2844, DE 26 DE MAIO DE 2026.
+
+LEI MUNICIPAL Nº 2844, DE 26 DE MAIO DE 2026.
+RECEITA:
+Fonte de Recurso:0.1.600.3110
+Código da aplicação: 005.163
+Fonte do STN:1.600
+Agencia
+
+Itapuã do Oeste/RO, 27 de maio de 2026.
+
+Conta
+Bancária
+
+018317 5695754212
+
+ELIEZER BATISTA DA SILVA JÚNIOR
+Pregoeiro
+Portaria N.º 069/GAB-PMIO/2026
+Publicado por:
+Lucilaine Veiga de Souza Volet Castro

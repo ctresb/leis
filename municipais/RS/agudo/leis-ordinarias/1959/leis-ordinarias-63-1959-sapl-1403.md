@@ -1,0 +1,166 @@
+---
+titulo: "Lei nº 63, de 22 de dezembro de 1959"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "63"
+data: "1959-12-22"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/1403"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1729/text"
+sha256_fonte: "f91f34528a9a590e439288b08f182ad4c54868665c04021ba296dbf3785029e8"
+sha256_texto: "11d108b6906cd723a565f3630b3213ddad053b985220c3dd6a82647055037ec4"
+capturado_em_fonte: "2026-10-27T22:16:49.757467-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 63, de 22 de dezembro de 1959
+
+Institue o regulamenta a cobrança do Impôsto Predial.
+
+
+ALDO LUIZ GERMANO BERGER, PREFEITO MUNICIPAL DE AGUDO,  
+FAÇO SABER, no uso das atribuições que me confere o Art. 50, da Lei Orgânica, que à Câmara Municipal aprovou e eu sanciono e promulgo à seguinte Lei:
+
+
+Art. 1º.
+
+O Impôsto Predial, da competência do Município é devido na zonas urbanas e suburbanas da Cidade, vilas e povoações urbanizadas e incide sôbre os prédios e construções nelas situados, ainda que ocupados gratuita ou provisoriamente é desocupados.
+
+
+§ 1º
+
+São considerados prédios ou construções e assim sujeitas ao Impôsto Predial todas construções que possam servir de habitação, depósitos, barcreios, tais como: apartamentos, garagens, cocheiras, depósitos, barrecões, telheiros armazens, galpões ou qualquer outra, seja qual for a denominação, uso ou destino e bem assim, a forma de ocupação, desde que fixada ao solo e impossibilitada de ser transferida dos lugares onde se achem sem desmonte ou demolição.
+
+
+§ 2º
+
+O Impôsto Predial é devido pelos proprietários ou proprietário considerando-se o valor venal do imóvel ou imôveis que constituem o conjunto de moradia e ocupação.
+
+
+Art. 2º.
+
+O Impósto Predial constitue ônus real, passando com o imóvel ao domínio do sucessor ou comprador e grava o imóvel sôbre o que recai, para todos os efeitos legais, respondendo êste pelo seu pagamento.
+
+
+Art. 3º.
+
+O valor de impôsto dos prédios será calculado por ano de aluguel comprovado pelo recibo fixado e real, quando se tratar, de prédio alugado e o Impôsto for maior do que lançado de conformidade com a presente Lei.
+
+
+Art. 4º.
+
+O valor de Impôsto dos prédios será cobrado, a razão de 1% -um-, sôbre o valor venal que compõe o imôvel de uma residência, casa comercial ou indústria.
+
+
+Art. 5º.
+
+Para apurar o valor venal que compõe o imóvel será composta uma comissão de três -3- pessoas, nomeadas pelo Sr. Prefeito Municipal, e que farão o respectivo levantamento, fornecendo os dados à secção competente da Prefeitura, que os encaminhará a Câmara Municipal para as respectiva aprovação.
+
+
+Art. 6º.
+
+Os prédios localizados nas vilas ou povoações urbanizadas pagarão o impôsto a razão de 0,5 -meio por cento- sôbre o valor venal que compõe o imóvel de uma residência, casa comercial ou indústria.
+
+
+Art. 7º.
+
+São isentos do Impôsto Predial As igrejas, capelas, escolas sociedades, hospitais e os da União e do Estado.
+
+
+Art. 8º.
+
+Todo o propretário que ocupar para moradia própria o seu imôvel, gozará de uma bonificação do 10% -dez-.
+
+
+Art. 9º.
+
+Os prédios serão lotados em nome dos seus proprietários ou usufrutários, respondendo êstes, pelos respectivos, impostos.
+
+
+§ 1º
+
+Quando sujeitos a inventários, far-se-á o lançamento em nome do espólio. Feita que for a partilha, será transferido para o nome dos respectivos sucessores, os quais ficarão obrigados a promover a transferência na Prefeitura, para efeito de serviço de cadastro dentro do prazo de trinta dias a contar do encerramento do inventário, quando houver um só herdeiro e a partir do Julgamento definitivo da partilha, se houver mais d um herdeiro, acarretando, expirado este, a aplicação da multa inicial de 10% -dez-, sôbre o valor da taxa de transferência.
+
+
+§ 2º
+
+A notificação do lançamento de prédios pertencentes a massas falidas ou a sociedades em liquidação, se fará em nomeados respectivos representantes legais.
+
+
+§ 3º
+
+Sempre que houver transferência do domínio de algum prédio por título particular, o novo proprietário o levará a Prefeitura para averbação, dentro do prazo de 30 -trinta- dias, sob pena de incorrer na multa inicial de 10 -dez- sobre o valor da taxa de transferência.
+
+
+§ 4º
+
+Os pedidos de baixa do lançamento dos prédios demolidos, incendiados, em ruínas e dos condenados, deverão serem feitos por requerimento escrito, sobre pena de continuar o lançamento do respectivo impôsto.
+
+
+§ 5º
+
+As baixa efetuadas por requerimento importam, em lançamento de Imposto Territorial sobre o terreno do Imóvel deslotado.
+
+
+Art. 10.
+
+O Impôsto de que trata a presente Lei, será arrecadado da seguinte forma:
+
+
+I –
+
+O contribuinte que pagará Impôsto Predial até o dia 31 de Maio terá a bonificação de 5% -cinco-, sobre o mesmo
+
+
+II –
+
+De 1º de Junho a 30 de setembro, serão Imposto Predial pago sem desconto.
+
+
+III –
+
+Sôbre o Impósto Predial pago de 1º de outubro a 31 de Dezembro, deverá o contribuinte pagar um aumento de 10% -dez-.
+
+
+Art. 11.
+
+Fica o Prefeito Municipal autorizado a conceder os seguintes benefícios, pelo prazo de três -3- anos para os casos a seguir:
+
+
+I –
+
+Desconto de 50% -cinquenta- sôbre o valor de imposto para as construções novas que se verificarem para moradias;
+
+
+II –
+
+Isenção de impôsto para prédios de dois ou mais andares;
+
+
+III –
+
+Isenção de impôsto para prédios que se destinarem a indústrias sem similares na cidade, vilas ou povoações urbanizadas;
+
+
+IV –
+
+Passados os três -3- anos de benefício deste artigo a lotação será feita normalmente.
+
+
+Art. 12.
+
+A presente Lei entrará em vigor a partir de 1º de Janeiro de 1960, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, 22 de Dezembro de 1959.
+
+ALDO LUIZ GERMANO BERGER
+
+Prefeito Municipal
+

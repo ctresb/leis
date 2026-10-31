@@ -1,0 +1,415 @@
+---
+titulo: "07 - Resolução Legislativa nº 2, de 04 de julho de 2019"
+tipo: "Resolução"
+tipo_na_fonte: "07 - Resolução Legislativa"
+numero: "2"
+data: "2019-07-04"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/217"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/116/text"
+sha256_fonte: "2866a6f619c6fa2224ad61f7d107bcd5681380b39acf602aae1cfcfbf76a7c08"
+sha256_texto: "b0897479163fb26adb83fffc39093feca2edd94a110ef794c8e987932d9f9363"
+capturado_em_fonte: "2026-10-28T06:06:34.605482-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 07 - Resolução Legislativa nº 2, de 04 de julho de 2019
+
+Institui na câmara municipal de Corbélia a “CÂMARA JOVEM” e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Presidente, promulgo a seguinte:
+
+
+RESOLUÇÃO
+
+
+Art. 1º.
+
+Fica instituído na Câmara Municipal de Corbélia o “O PROGRAMA CÂMARA JOVEM”, com a participação de alunos do ensino fundamental e médio das instituições da rede pública de ensino do Município de Corbélia Estado do Paraná.
+
+
+§ 1º
+
+O exercício de mandato terá caráter instrutivo e participativo, com a duração de seis meses e, a eleição acontecerá em duas etapas:
+
+
+I –
+
+PRIMEIRA ETAPA: No primeiro semestre nas escolas serão realizados o cadastramento e filiação eleitoral, convenções e eleições, em que elegerão representantes pelo voto direto e secreto, em data acordada pela Mesa Diretiva da Câmara Municipal, Núcleo Regional de Educação por meio da Coordenação Pedagógica, Tribunal Regional Eleitoral e estabelecimentos de ensino participantes, observadas a rotina de trabalho desta Casa de Leis, o número de alunos por escola:
+
+
+a)
+
+Colégio Estadual Amâncio Moro - 04 (quatro) representantes;
+
+
+b)
+
+Colégio Estadual Duque de Caxias – 03 (três) representantes;
+
+
+c)
+
+Escola Estadual São Francisco de Assis – 02 (dois) representantes;
+
+
+d)
+
+Colégio Estadual Olavo Bilac – 02 (dois) representes.
+
+
+e)
+
+no caso de algum dos estabelecimentos de ensino, por alguma razão optar por não participar, as vagas que lhe seriam atribuídas deverão ser utilizadas pelos estudantes dos estabelecimentos participantes, sempre que possível observando a equidade em relação ao número de alunos e número de vagas.
+
+
+II –
+
+SEGUNDA ETAPA: Os Vereadores Jovens mais votados em cada uma de suas instituições de ensino, observado o número de representantes, deverão formular, individualmente, um discurso com propostas e proceder à leitura do mesmo, no Plenário da Câmara Municipal para os Vereadores do Município.
+
+
+§ 2º
+
+A "Câmara Jovem” será composta por “Vereadores Jovens”, obrigatoriamente, deverão ser estudantes do ensino fundamental e médio, compreendidos entre o 9º (nono) ano do Ensino Fundamental e 1º (primeiro) ano do Ensino Médio, com idade mínima de 14 (quatorze) anos, e idade máxima de 15 (quinze) anos, devidamente matriculados e cursando regularmente na Rede Pública Estadual de Ensino, em Corbélia, de acordo com o interesse do estabelecimento de ensino.
+
+
+§ 3º
+
+O estudante eleito pelo voto na escola ou colégio e, posteriormente, a realização da leitura de seu discurso aos Vereadores do Município será denominado(a) de “VEREADOR(A) JOVEM”.
+
+
+§ 4º
+
+A Câmara Jovem será composta em número igual à quantidade de Vereadores que compõem a Câmara Municipal e, cada Vereador apadrinhará um dos “Vereadores Jovens” na elaboração de Projetos de Lei, Anteprojetos, Requerimentos, Moções, Resoluções, Indicações e Emendas.
+
+
+§ 5º
+
+A escolha dos apadrinhados e dos padrinhos será feita por meio de sorteio de ambas as partes.
+
+
+§ 6º
+
+Além do Vereador que apadrinhar, o(a) Vereador(a) Jovem contará com a ajuda de um Professor Assessor Parlamentar indicado pelo estabelecimento de ensino em que estiver matriculado e cursando regularmente, e também contará com o auxílio de um Assessor Parlamentar designado pelo Presidente da Casa.
+
+
+Art. 2º.
+
+
+§ 1º
+
+O Programa permitirá ao estudante compreender o papel do Legislativo Municipal dentro do contexto social em que vive, contribuindo assim para a formação da sua cidadania e entendimento dos aspectos políticos da sociedade brasileira e, o entrosamento com as ações políticas a serem desenvolvidas no município.
+
+
+§ 2º
+
+Não será permitida a reeleição de estudantes para o cargo de Vereador Jovem, com intuito de permitir a participação de maior número de jovens do município.
+
+
+Art. 3º.
+
+As escolas e colégios participantes deste programa deverão apresentar por escrito à Mesa Diretora da Câmara Municipal, no prazo de cinco dias antecedentes as eleições da Mesa Diretora da Câmara Jovem, o nome dos candidatos, siglas partidárias e do respectivo estabelecimento de ensino ao qual o mesmo pertence.
+
+
+Art. 4º.
+
+O candidato à vaga no Programa Câmara Jovem obrigatoriamente deve estar matriculado e cursando regularmente em escola do município, e deve estar frequentando entre o 9º (nono) ano do ensino fundamental e o 1º (primeiro) ano do ensino médio.
+
+
+Art. 5º.
+
+O Poder Legislativo realizará, em data e horário a ser definida pela Presidência, a Sessão do Programa Câmara Jovem, nas dependências do Plenário da Câmara Municipal de Corbélia.
+
+
+Art. 6º.
+
+Cada estabelecimento de ensino público estadual, do Município de Corbélia elegerá seu(s) representante(s) à Câmara Jovem.
+
+
+Art. 7º.
+
+Os(as) Vereadore(a)s Jovens eleitos tomarão posse do mandato no Plenário da Câmara Municipal de Corbélia ou, no Centro Cultural Vereador José Rubin, onde prestarão o seguinte compromisso:
+
+
+*“PROMETO CUMPRIR A CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL, A CONSTITUIÇÃO DO ESTADO DO PARANÁ, A LEI ORGÂNICA DO MUNICÍPIO DE CORBÉLIA E O REGIMENTO INTERNO DA CÂMARA JOVEM, E TAMBÉM OBSERVAR AS LEIS, DESEMPENHAR COM LEALDADE E RESPONSABILIDADE, O MANDATO QUE ME FOI CONFERIDO, E TRABALHAR PELO PROGRESSO DO MUNICÍPIO DE CORBÉLIA E PELO BEM-ESTAR DO MEU POVO”.*
+
+
+Art. 8º.
+
+Após o ato de posse, os “Vereadores Jovens” se reunirão no Plenário da Câmara Municipal para procederem à leitura do Regimento Interno da Câmara Jovem, com assessoramento compatível feito pelos servidores da Câmara Municipal.
+
+
+§ 1º
+
+Observar-se-ão no decorrer dos trabalhos da “Câmara Jovem”, tanto quanto possível, os procedimentos regimentais relativos ao trâmite das proposituras, inclusive quanto a sua iniciativa, discussão e votação em Plenário.
+
+
+§ 2º
+
+A Mesa Diretora diligenciará no sentido de que a sessão plenária de “Câmara Jovem” transcorra no Plenário da Câmara de Vereadores e, seja acompanhada por assessoramento compatível com a evolução dos trabalhos.
+
+
+Art. 9º.
+
+Os Vereadores Jovens eleitos se reunirão em sessão no Plenário da Câmara Municipal de Corbélia para, na forma que dispuser o seu Regimento Interno eleger a Mesa Diretora da Legislatura da Câmara Jovem, para um período de três meses, sendo facultada a recondução para o mesmo cargo.
+
+
+§ 1º
+
+A Mesa Diretora da Câmara Jovem será composta dos seguintes cargos:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice-Presidente;
+
+
+III –
+
+1º Secretário;
+
+
+IV –
+
+2º Secretário.
+
+
+§ 2º
+
+As chapas de composição da Mesa Diretora deverão ser inscritas no dia da eleição, após a abertura dos trabalhos pela Coordenação do Programa Câmara Jovem, ficando estabelecido:
+
+
+I –
+
+dez minutos para a inscrição junto à coordenação;
+
+
+II –
+
+dez minutos para cada chapa explanar suas propostas.
+
+
+§ 3º
+
+Fica facultado aos vereadores jovens de cada escola ou colégio, realizar, dentro das normas estabelecidas pela Mesa Diretora da Câmara Municipal, sessenta minutos, campanha no Plenário Legislativo, em prol dos candidatos ao cargo na Mesa Diretora da Câmara Jovem.
+
+
+Art. 10.
+
+A primeira Sessão da Câmara Jovem será para eleger os membros que irão compor a Mesa Diretora do Programa Câmara Jovem.
+
+
+Art. 11.
+
+A escolha da Mesa Diretora do Programa Câmara Jovem de Corbélia será feita através de voto, em plenário, onde votarão os Vereadores Jovens eleitos titulares, ou na sua ausência, o seu suplente, sendo eleitos os candidatos à Mesa Diretora que forem mais votados.
+
+
+Art. 12.
+
+O mandato do representante do Programa Câmara Jovem terá duração de 06 (seis) meses, fica vedada à recondução para uma nova candidatura.
+
+
+Art. 13.
+
+Os Vereadores(as) Jovens terão prerrogativas de apresentarem proposições, na modalidade de indicação, onde serão encaminhadas a Mesa Diretora da Câmara Municipal, que poderá transformar em proposição legislativa oficial para deliberação dos membros da Câmara Municipal, como proposição de Projeto de Lei de Iniciativa Popular.
+
+
+Parágrafo único
+
+Os representantes do Programa Câmara Jovem poderão ainda, utilizar-se da Tribuna da Câmara Municipal, para apresentarem indicações, requerimentos e sugestões de interesse público da escola, do colégio e da cidade.
+
+
+Art. 14.
+
+Fica facultado ao Presidente da Câmara Municipal, promover palestras sobre Processo Legislativo, para esclarecer os representantes do Programa Câmara Jovem sobre a tramitação das proposições, utilizando servidores do próprio Poder Legislativo.
+
+
+§ 1º
+
+Fica autorizada a participação dos servidores da estrutura administrativa da Câmara Municipal de Corbélia, para atuação na coordenação, supervisão e assessoria especial da Câmara Jovem.
+
+
+§ 2º
+
+Observando-se as atribuições de coordenar e planejar os trabalhos, que serão desenvolvidos e apresentados pela Câmara Municipal, na Câmara Jovem.
+
+
+Art. 15.
+
+No final da Legislatura do Programa Câmara Jovem, em Sessão Solene organizada pela Câmara Municipal, será entregue um Diploma ou Certificado aos Jovens Vereadores eleitos.
+
+
+Art. 16.
+
+Demais normas necessárias ao cumprimento desta Resolução, serão baixadas mediante Ato Administrativo da Mesa Diretora da Câmara Municipal de Corbélia.
+
+
+Art. 17.
+
+A Mesa Diretora comunicará através de oficio a direção das escolas a data e horário da realização da Sessão da Câmara Jovem previsto nesta Lei.
+
+
+§ 1º
+
+A Mesa Diretora da Câmara Municipal poderá fazer reuniões com os diretores(as) das escolas e colégios, para prestar esclarecimentos e as informações necessárias do processo a ser seguido.
+
+
+§ 2º
+
+Sempre oportunizando a participação nas reuniões da Coordenadora Pedagógica no Núcleo Regional de Educação de Cascavel.
+
+
+Art. 18.
+
+A Mesa Diretora da Câmara Municipal, mediante regulamento estabelecerá regras para o funcionamento da Câmara Jovem, especialmente quanto:
+
+
+I –
+
+ao cronograma das atividades de organização;
+
+
+II –
+
+as orientações relativas aos procedimentos de inscrição e participação dos interessados;
+
+
+III –
+
+a eleição dos vereadores jovens no âmbito de suas respectivas escolas;
+
+
+IV –
+
+as normas para a eleição da Mesa Diretora;
+
+
+V –
+
+a realização dos trabalhos da Sessão Plenária;
+
+
+VI –
+
+a formação de Comissões Permanentes em que os vereadores jovens se elegerão;
+
+
+VII –
+
+e outros casos, que por ventura estejam omissos nesta Resolução.
+
+
+§ 1º
+
+O Presidente da Câmara Municipal nomeará uma Comissão Executiva, composta por técnicos do Poder Legislativo Municipal e instituições parceiras do Programa, encarregada de implementar todos os procedimentos necessários para a realização da Sessão da Câmara Jovem, na forma estabelecida neste artigo.
+
+
+§ 2º
+
+As demais atividades que venham a compor a Câmara Jovem orientar-se-ão para o conhecimento dos procedimentos legislativos, do sistema político brasileiro, das regras eleitorais, das políticas públicas, dos partidos com representação na Câmara de vereadores, suas propostas políticas e das funções dos líderes partidários.
+
+
+Art. 19.
+
+A Câmara Municipal se responsabilizará pelo custeio do transporte dos participantes do Programa Câmara Jovem, que residirem na área rural do município e Distritos de Nossa Senhora da Penha e Ouro Verde do Piquiri, bem como, pela alimentação dos mesmos, nos dias em que tiverem compromisso da Câmara Jovem na sede da Câmara Municipal e, em deslocamentos, como viagens para realização de visita técnica, equiparadas a missões parlamentares.
+
+
+§ 1º
+
+Nos casos de transporte, com a viatura da frota do Poder Legislativo, sempre será observado o trajeto do local em que resida o participante do programa até o destino, sendo expressamente proibida carona.
+
+
+§ 2º
+
+Os Vereadores Jovens receberão da Câmara Municipal de Corbélia camiseta elaborada nas cores oficiais do Município de Corbélia e Crachá de identificação, nos moldes da Resolução nº 004/2015, para uso obrigatório durante o exercício do mandato.
+
+
+§ 3º
+
+Nas oportunidades de missões em visita técnica, o Vereador Jovem deverá ser acompanhado por um dos pais ou responsável e, nos deslocamentos com distância acima de cem quilômetros serão acompanhados por enfermeira da rede pública municipal de Corbélia, por meio de parceria com o Poder Executivo Municipal.
+
+
+Art. 20.
+
+A Mesa Diretora da Câmara Municipal visando o bom andamento dos trabalhos da “Câmara Jovem” poderá firmar convênios ou parcerias com órgãos públicos ou entidades privadas, que assumam o compromisso nas formas determinadas legalmente, para contribuir com o Projeto e com os Vereadores(as) Jovens, para o atendimento de eventuais necessidades.
+
+
+Art. 21.
+
+Os participantes se comprometerão com a Câmara Jovem, sendo prevista a aplicação de penalidades em caso de descumprimento das normas e também, no caso de conduta incompatível com o propósito do parlamento jovem, que se destina a educação, informação e formação da cidadania, participação cidadã e desenvolvimento social.
+
+
+§ 1º
+
+O não cumprimento por parte do Vereador(a) Jovem, não justificado, ou com justificativa rejeitada pelos demais integrantes da Câmara Jovem, passa o direito ao mandato para o Suplente, que deverá cumprir os quesitos impostos pelo regulamento, não importando o período em que acontecer a mudança.
+
+
+§ 2º
+
+O cumprimento das normas será fiscalizado pela Câmara Municipal e, se constatado o descumprimento ou desvirtuamento de normas e determinações regimentais, ou comportamento incompatível com o mandato outorgado, após ser submetida à análise da Mesa Diretora da Câmara Municipal, acarretará no desligamento do estudante do Programa Câmara Jovem, com a perda do mandato, ficado impedido de participar novamente do Programa Câmara Jovem nos anos subsequentes.
+
+
+§ 3º
+
+Caso seja verificado qualquer tipo de desrespeito ao cumprimento de norma, orientação ou determinação, contra pessoa ou autoridade será imediatamente desligado do Programa, tendo o mandato cassado, devendo ser substituído pelo suplente imediato (mais votado), sem prejuízo de responder legalmente pela infração cometida e eventual sanção.
+
+
+§ 4º
+
+Caso seja verificada a ocorrência de conduta acintosa, infracional ou desrespeitosa durante o exercício do mandato, para com seus pares, autoridades ou servidores fica estabelecida a previsão expressa de que será determinada a retirada do infrator do Plenário, imediatamente e, se for o caso será encaminhado acompanhado pelo docente de seu estabelecimento até o Conselho Tutelar, para a aplicação das medidas educativas punitivas cabíveis ao caso concreto.
+
+
+§ 5º
+
+Em caso de cometimento de infração equiparada à infração penal, como desacato ou afronta contra Autoridade Pública ou contra Servidor Público, o infrator perderá o mandato e ficará impedido de retornar ao Programa, também responderá legalmente pela infração praticada e se for o caso será responsabilizado na forma da Lei, com a aplicação de medidas cabíveis, inclusive, se for o caso, com a previsão de aplicação de penas educativas, como serviços comunitários ou outras ações educativas.
+
+
+Art. 22.
+
+Após designado pelo Presidente da Mesa Executiva, cada Vereador(a) desta Casa de Leis terá um encontro mensal obrigatório com o Vereador(a) Jovem apadrinhado, nas dependências do Plenário da Câmara Municipal de Corbélia, para debater o conteúdo obrigatório que será proposto pelo(a) Vereador(a) Jovem em Sessão da Câmara Jovem, com o apoio dos Assessores designados para apoio da Câmara Jovem.
+
+
+Art. 23.
+
+A Câmara Jovem foi elaborada tomando como base o número de Vereadores da Casa, que atualmente são onze. Caso este número seja alterado, o presente programa se altera automaticamente adequando-se conforme a quantidade de Vereadores fixada na Lei Orgânica Municipal.
+
+
+Art. 24.
+
+Os Vereadores Jovens ao final do mandato receberão um diploma assinado pelo Presidente da Câmara Municipal de Corbélia certificando a conclusão de seu mandato.
+
+
+Art. 25.
+
+As despesas decorrentes com a execução desta Resolução serão oriundas de dotações orçamentárias próprias, suplementadas se necessárias, para o custeio de transporte dos vereadores jovens residentes no interior e distritos para participar das sessões, transporte feito com veículo coletivo para visitas técnicas, despesas com hospedagem quando necessário pernoite, despesas com alimentação, copa e cozinha, despesa com uniforme individual composto por camiseta e crachá.
+
+
+Art. 26.
+
+Esta Resolução entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário, especialmente o Decreto Legislativo nº 001/2012.
+
+
+CÂMARA MUNICIPAL DE CORBÉLIA
+
+Em 04 de julho de 2019, 59º da Emancipação Política.
+
+ELI STEFANELLO
+
+Presidente
+
+Não substitui o texto publicado no DOE 834 de 08/07/2019, pág. 17-23.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/217/ta
+

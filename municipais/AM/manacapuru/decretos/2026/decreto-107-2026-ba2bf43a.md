@@ -1,0 +1,56 @@
+---
+titulo: "DECRETO Nº107 DE 02 DE FEVEREIRO DE 2026"
+uf: "AM"
+municipio: "MANACAPURU"
+tipo: "Decreto"
+numero: "107"
+data: 2026-02-02
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 03/02/2026"
+data_publicacao: 2026-02-03
+codigo_identificador: "BA2BF43A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118788_2026-02-02_76c6b934632ed0386aa36c79cba17031.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº107 DE 02 DE FEVEREIRO DE 2026
+
+DECRETO Nº107 DE 02 DE FEVEREIRO DE 2026
+A PREFEITA MUNICIPAL DE MANACAPURU, Estado do
+Amazonas, no uso das atribuições que lhe confere o inciso I, do artigo
+74 da LEI ORGÂNICA DO MUNICÍPIO DE MANACAPURU.
+CONSIDERANDO as alterações de nomenclaturas dos órgãos da
+administração direta, por força da Lei Municipal nº 1.843 de 02 de
+Setembro de 2025, ―Dispõe sobre a reorganização da estrutura
+administrativa da Prefeitura Municipal de Manacapuru e dá outras
+providências‖.
+
+A PREFEITA MUNICIPAL DE MANACAPURU, Estado do
+Amazonas, no uso das atribuições que lhe confere o inciso I, do artigo
+74 da LEI ORGÂNICA DO MUNICÍPIO DE MANACAPURU.
+RESOLVE
+Art. 1º - NOMEAR o Senhor, EVANDRO JOSÉ REBOUÇAS
+PACHECO, a contar da presente data, no cargo em comissão de
+CHEFE DA JUNTA DO SERVIÇO MILITAR, lotado no Gabinete da
+Prefeita.
+Art. 2º -Este Decreto entrará em vigor na data de sua publicação.
+GABINETE
+DA
+PREFEITA
+MUNICIPAL
+DE
+MANACAPURU/AM, aos 02 (dois) dias do mês de fevereiro de
+2026.
+
+RESOLVE
+Art. 1º - NOMEAR a Senhora, LUCIANA SOUZA DA SILVA
+BARROS, a contar da presente data, no cargo em comissão de
+SUBSECRETÁRIA MUNICIPAL, lotado na Secretaria Municipal de
+Finanças e Tecnologia - SEMFIN.
+Art. 2º -Fica revogado o Decreto nº 011 de 02 de Janeiro de 2025.
+
+VALCILÉIA FLORES MACIEL
+Prefeita Municipal de Manacapuru
+Publicado por:
+Evelyn Melo Campos

@@ -1,0 +1,20 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-classificacao-anexo/diagnostico.json",
+      "sha256": "cd1442cfa07b94d8f13fa1a640f4b64b92acdb73c596a4baeb65dae867ab1709",
+      "bytes": 7881
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-classificacao-anexo/pagina-5.png",
+      "sha256": "f9bc075dd8c4809347275d972121738d96fa6d39b69776eb7dafed648068d1f4",
+      "bytes": 136213
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-classificacao-anexo/pagina-89.png",
+      "sha256": "f3aec6a21d24e9eee914d7d3af6dc50079256bc726c28913bd02b28d2bc44285",
+      "bytes": 203646
+    }
+  ],
+  "revisao_visual": "Páginas físicas 5 e 89 vistas integralmente, sem alteração da fonte ou do candidato. Referência isolada, natureza normativa ou editorial indeterminada."
+}

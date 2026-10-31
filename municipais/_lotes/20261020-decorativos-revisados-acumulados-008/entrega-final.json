@@ -1,0 +1,24 @@
+{
+  "lotes": [
+    {
+      "manifesto": "municipais/_lotes/20261020-decorativos-revisados-acumulados-008/lote-0001.json",
+      "sha256_manifesto": "5f098c38c796c75aa00edc173232f39a5b58e7c8d88c4f8464ecf303f370e476",
+      "lista": "municipais/_lotes/20261020-decorativos-revisados-acumulados-008/lote-0001.paths.txt",
+      "sha256_lista": "639677007f9db3cc53f0fd6f572a664c2c5cbba01a0936cfdcb2d5e9e73bac61",
+      "aprovados": 1000
+    },
+    {
+      "manifesto": "municipais/_lotes/20261020-decorativos-revisados-acumulados-008/lote-0002.json",
+      "sha256_manifesto": "6ddf6e223486a1e82dadb1f25f9987bc9250861336cff8f13616a4fe0864e519",
+      "lista": "municipais/_lotes/20261020-decorativos-revisados-acumulados-008/lote-0002.paths.txt",
+      "sha256_lista": "f52dd004a51faabd81b0a6ee9610be487b24664e17b3df1f4c471b3e2a0a0359",
+      "aprovados": 52
+    }
+  ],
+  "aprovados": 1052,
+  "retidos": 2679,
+  "criterio": "Libera só PDFs já integrais cujas imagens exatas receberam revisão visual.",
+  "sha256_controle_imagens": "6bb9b3e38ed1909270eb6dac4a4fa86316849977e1724388f459b72aa781e088",
+  "sha256_catalogo": "712573717d35712d2aedffc4e215f8237911135beb5dd313f35ba90b10aeffc3",
+  "script_sha256": "17def7e477a31485f466dfbb4debfb8ac3e5cf96f4a6d9be890cb63ef68abae1"
+}

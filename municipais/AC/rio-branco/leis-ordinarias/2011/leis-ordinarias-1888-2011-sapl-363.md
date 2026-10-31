@@ -1,0 +1,931 @@
+---
+titulo: "Lei Ordinária nº 1.888, de 30 de dezembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1888"
+data: "2011-12-30"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2020-03-19; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/363"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/540/text"
+sha256_fonte: "d2724fb2a350f2ff9d8eb2cebc84c65ed27e91d9faea0caa4874e931921d19f6"
+sha256_texto: "9aeb0ba141a2a5a3a186ad78a890f29909947c40d0de3e0eca5c6d289b093cd0"
+capturado_em_fonte: "2026-10-21T04:00:04.298898-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 1.888, de 30 de dezembro de 2011
+
+Altera a Lei 1.690 de 09 de janeiro de 2008, Lei 1.537 de 04 de julho de 2005, a Lei 1.554 de 02 de dezembro de 2005, que trata da Gestão Democrática do Ensino Municipal, adotando o sistema seletivo para a escolha de gestores de unidades escolares e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE RIO BRANCO - ACRE, usando das atribuições que lhe são conferidas por Lei, FAÇO SABER que a Câmara Municipal de Rio Branco aprovou e eu sanciono a seguinte Lei:
+
+
+### TÍTULO I — DA GESTÃO ESCOLAR DEMOCRÁTICA DO ENSINO MUNICIPAL
+
+
+Alteração de rótulo feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 1º.
+
+A gestão escolar democrática do ensino público do Município de Rio Branco é fundamentada nos princípios contidos no inciso IV do art. 206 da Constituição Federal de 05 de outubro de 1988, nos artigos 14 e 15 da Lei Federal nº 9394 de 20 de dezembro de 1996 e na Lei Estadual nº 1513 de 11 de novembro de 2003, que trata da gestão democrática do sistema público do Estado do Acre.
+
+
+§ 1º
+
+Esta Lei disciplina a gestão democrática nas unidades educativas de Ensino Municipal.
+
+
+§ 2º
+
+Entende-se por Unidade Educativa todas as instituições de educação que constituem a Rede Municipal de Ensino, ou seja, Educação Infantil (Creche, Centro de Educação Infantil - CEI e Pré-escola) e Escolas de Ensino Fundamental.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+§ 3º
+
+A gestão democrática nas Unidades Educativas será exercida, harmonicamente, considerando as dimensões administrativas, financeira e pedagógica obedecendo aos seguintes princípios:
+
+
+I –
+
+corresponsabilidade entre poder público e sociedade na gestão da unidade educativa;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+II –
+
+gestão descentralizada com autonomia pedagógica, administrativa e financeira das unidades educativas, mediante organização e funcionamento do Conselho Escolar, respeitando as normas da Secretaria Municipal de Educação e a legislação vigente;
+
+
+III –
+
+gestão participativa que garanta a presença de representantes de todos os segmentos da comunidade escolar nos processos de elaboração das políticas das unidades educativas e nas instâncias decisórias dessas unidades;
+
+
+IV –
+
+definição clara das responsabilidades e atribuições de todos os segmentos das unidades educativas, com efetiva implementação de prestação de contas, respeitando as normas da Secretaria Municipal de Educação e da legislação vigente;
+
+
+V –
+
+transparência dos mecanismos administrativos, financeiros, pedagógicos com monitoramento e avaliação de resultados;
+
+
+VI –
+
+gestão administrativa e pedagógica com foco voltado para a qualidade da aprendizagem.
+
+
+### TÍTULO II — DA AUTONOMIA DA GESTÃO ADMINISTRATIVA
+
+
+Art. 2º.
+
+A autonomia administrativa das Unidades Educativas públicas do Município de Rio Branco será exercida:
+
+
+I –
+
+Conselho Escolar /Unidade Executora;
+
+
+II –
+
+Direção da Unidade Educativa.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+#### CAPÍTULO I — DO CONSELHO ESCOLAR/UNIDADE EXECUTORA
+
+
+Art. 3º.
+
+Em todas as Unidades Educativas da rede municipal funcionará um Conselho Escolar/Unidade Executora, órgão deliberativo, consultivo e fiscalizador dessas unidades, constituído sob a forma de associação, com personalidade jurídica de direito privado, sem fins lucrativos, cujos estatutos devem respeitar o disposto nesta Lei e nas demais Leis e normas pertinentes.
+
+
+§ 1º
+
+O Poder Executivo poderá regulamentar o disposto no **caput**, preferencialmente por meio de estatuto padrão que deverá, obrigatoriamente, ser adotado por todas as Unidades Educativas do Município de Rio Branco/AC.
+
+
+Art. 4º.
+
+Todos os segmentos da comunidade serão representados no Conselho Escolar/Unidade Executora, assegurada à proporcionalidade para professores, funcionários, pais e alunos, nos termos do estatuto do Conselho Escolar/Unidade Executora. (NR).
+
+
+Art. 5º.
+
+A eleição dos Conselhos Escolares dar-se-á por votação direta e secreta ou aclamação e ocorrerão preferencialmente no mês de agosto.
+
+
+Art. 6º.
+
+O mandato dos membros do Conselho Escolar/Unidade Executora terá duração de 04 (quatro) anos, permitindo-se uma reeleição, para cada titular.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 7º.
+
+A posse dos membros do Conselho Escolar ocorrerá imediatamente após a proclamação do resultado das eleições.
+
+
+Art. 8º.
+
+Os membros do Conselho Escolar/Unidade Executora serão escolhidos em Assembleia Geral conforme definido em Estatuto Próprio.
+
+
+§ 1º
+
+A idade mínima para assumir a função de Presidente do Conselho Escolar/Unidade Executora é de 21 (vinte e um) anos.
+
+
+§ 2º
+
+O Coordenador Administrativo da Unidade Educativa será o Tesoureiro do Conselho Escolar/Unidade Executora, como membro nato.
+
+
+§ 3º
+
+Nas Unidades Educativas com menos de 100 (cem) alunos, o professor responsável assumirá a função de Tesoureiro do Conselho Escolar/Unidade Executora.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+§ 5º
+
+O Tesoureiro não terá direito a voto nas reuniões do Conselho Escolar, convocadas para apreciação da prestação de contas dos recursos recebidos e executados na unidade educativa.
+
+
+Art. 9º.
+
+As funções dos membros e dirigentes do Conselho Escolar/Unidade Executora terão caráter voluntário, não podendo ser remuneradas.
+
+
+Art. 10.
+
+As deliberações do Conselho Escolar/Unidade Executora, só terão validade, se forem tomadas por metade mais um dos votos dos membros presentes à reunião, devendo ser observadas a legislação vigente e os assuntos constantes na pauta de convocação entregue aos conselheiros, com 48 horas de antecedência, ou conforme disposto no estatuto do Conselho Escolar/Unidade Executora.
+
+
+Art. 11.
+
+A vacância da função de Conselheiro dar-se-á por renúncia, morte, aposentadoria, desligamento da Unidade Educativa ou destituição, conforme disposto no respectivo estatuto.
+
+
+Parágrafo único
+
+O conselheiro funcionário do quadro permanente da SEME ou aluno regularmente matriculado na Unidade Educativa terá direito a liberação de suas funções e atividades, quando das reuniões ordinárias e extraordinárias do Conselho Escolar/Unidade Executora.
+
+
+#### CAPÍTULO II — DO DIRETOR DA UNIDADE EDUCATIVA
+
+
+Art. 12.
+
+A direção da Unidade Educativa será exercida por um Diretor aprovado em todos os critérios estabelecidos nesta Lei e eleito pela comunidade escolar, em consonância com as deliberações do Conselho Escolar e da Secretaria Municipal de Educação.
+
+
+Parágrafo único
+
+O Diretor eleito escolherá o Coordenador Administrativo, dentre os funcionários não docentes do quadro permanente da SEME, preferencialmente lotados na Unidade Educativa.
+
+
+Art. 13.
+
+O provimento da função de Diretor dar-se-á mediante processo classificatório composto das seguintes etapas:
+
+
+I –
+
+curso de gestão escolar com exame final de certificação ocupacional;
+
+
+II –
+
+escolha através de eleição direta e secreta pela comunidade escolar.
+
+
+Parágrafo único
+
+No caso de reeleição, o candidato a diretor participará da escolha direta pela comunidade, desde que tenha participado da formação continuada, de que trata o artigo 18 e cumpra os requisitos estabelecidos em instrução normativa a ser elaborada pela SEME.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Alteração de rótulo feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 14.
+
+Poderão se inscrever no processo seletivo os profissionais da educação que atenderem aos seguintes requisitos:
+
+
+I –
+
+ser graduado em nível de licenciatura plena;
+
+
+II –
+
+ter no mínimo 03 (três) anos de comprovada experiência no exercício do magistério, no âmbito do ensino público municipal;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+III –
+
+ser servidor de cargo efetivo do quadro permanente de pessoal do magistério da SEME;
+
+
+IV –
+
+não ter sido exonerado, dispensado ou suspenso do exercício da função, em decorrência de processo administrativo, nos últimos 05 (cinco) anos.
+
+
+Parágrafo único
+
+Entende-se por comprovada experiência no exercício do magistério na rede pública a ação do conjunto de profissionais da educação, titulares do cargo de professor que exerçam a docência e as funções de suporte pedagógico vinculado à docência, no âmbito do Ensino Público Municipal.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 15.
+
+O Curso de Gestão Escolar, promovido pela SEME, será constituído de duas fases, sendo a primeira de caráter seletivo com duração de no máximo 80 horas aula, e a segunda fase, destinada à formação continuada aos diretores eleitos, com carga horária de até 200 horas ofertado no primeiro semestre após a eleição de diretor.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+§ 1º
+
+A fase seletiva para os candidatos ao primeiro mandato será constituída de:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+I –
+
+curso;
+
+
+II –
+
+prova escrita;
+
+
+§ 2º
+
+Na fase seletiva, serão trabalhados conteúdos relativos a:
+
+
+I –
+
+planejamento estratégico;
+
+
+II –
+
+gestão pedagógica, de pessoas e processos;
+
+
+III –
+
+conhecimentos de questões conceituais e didáticas do ensino.
+
+
+§ 3º
+
+Na formação continuada, serão trabalhados conteúdos relativos a:
+
+
+I –
+
+legislação educacional;
+
+
+II –
+
+currículo escolar;
+
+
+III –
+
+desenvolvimento integral do aluno;
+
+
+IV –
+
+execução e prestação de contas dos recursos destinados à Unidade Educativa.
+
+
+Alteração de rótulo feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 16.
+
+O exame de certificação ocupacional realizar-se-á para avaliar os conteúdos da fase inicial do Curso de Gestão Escolar.
+
+
+Parágrafo único
+
+A certificação do curso de gestão escolar realizar-se-á a cada 4 anos, pela SEME ou por agência de formação contratada, com validade de 8 anos.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 17.
+
+Participarão da 2ª etapa do processo seletivo, que corresponde ao processo de eleição, os diretores candidatos à reeleição e todos os candidatos que obtiverem a freqüência minima de 75% (setenta e cinco por cento) e alcançarem o aproveitamento minimo de 70% (setenta por cento) no exame de certificação ocupacional.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Parágrafo único
+
+Os candidatos não eleitos comporão um banco para substituir futuras vacâncias.
+
+
+Art. 18.
+
+A formação continuada será promovida pela SEME a todos os Diretores eleitos.
+
+
+Art. 19.
+
+Os candidatos aprovados no processo seletivo e os candidatos à reeleição se submeterão à eleição direta e secreta, pelas respectivas comunidades escolares.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 20.
+
+Entende-se por comunidade escolar, para efeitos desta Lei, os seguintes segmentos:
+
+
+I –
+
+alunos matriculados, a partir do 6° ano, no primeiro segmento da Educação de Jovens e Adultos (EJA), a partir de 16 (dezesseis) anos de idade, que possuam frequência superior a 75% (setenta e cinco por cento) das aulas no bimestre anterior à data da eleição. (NR).
+
+
+II –
+
+pais, mães ou responsáveis dos alunos, cujos filhos estejam regularmente matriculados e com frequência superior a 75% (setenta e cinco por cento) das aulas do bimestre anterior à data da eleição.
+
+
+III –
+
+professores e funcionários não docentes do quadro efetivo da SEME, em exercício na unidade educativa.
+
+
+Art. 21.
+
+Os votos serão computados em urnas separadas, nas seguintes proporções:
+
+
+I –
+
+professores e funcionários: cinquenta por cento;
+
+
+II –
+
+pais, mães ou responsáveis e alunos: cinquenta por cento.
+
+
+§ 1º
+
+Nas unidades educativas que não tenham no mínimo, quarenta por cento de seu quadro de servidores, conforme estabelecido na Instrução Normativa de lotação em vigor, preenchidos por profissionais do quadro efetivo da SEME, o critério de proporcionalidade será definido pelo percentual que estes profissionais representam no universo da escola.
+
+
+§ 2º
+
+Na hipótese do parágrafo anterior, será acrescido à proporcionalidade referida no inciso II, o percentual não atingido pelo quadro efetivo de professores e funcionários da SEME.
+
+
+§ 3º
+
+Os pais, mães ou responsáveis, que tiverem mais de um filho na mesma unidade educativa, votarão apenas 01 (uma) vez.
+
+
+Art. 22.
+
+Considerar-se-á eleito para o cargo de Diretor da Unidade Educativa, o candidato que obtiver aprovação, após o cálculo da proporcionalidade.
+
+
+Parágrafo único
+
+Em caso de candidato único à eleição, o candidato deverá ter aceitação de 50% (cinquenta por cento) mais 01 (um) dos eleitores votantes, devidamente respeitado o critério de proporcionalidade. (NR)
+
+
+Art. 23.
+
+Em caso de empate, será considerado vencedor o candidato com maior média de aproveitamento na fase de certificação ocupacional. Persistindo o empate, será considerado vencedor o candidato que dispor do maior tempo de serviço em efetivo exercício do magistério.
+
+
+Art. 24.
+
+O candidato eleito para o cargo de Diretor da Unidade Educativa terá um mandato de 04 (quatro) anos, com direito a uma reeleição consecutiva.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 26.
+
+O candidato reprovado na etapa inicial do processo seletivo será automaticamente eliminado.
+
+
+Art. 27.
+
+As eleições para a direção das Unidades Educativas deverão ocorrer simultaneamente, na segunda quinzena de novembro.
+
+
+Art. 28.
+
+O início do mandato dos Diretores de unidades educativas deverá ocorrer no mês subsequente à eleição.
+
+
+Parágrafo único
+
+A nomeação e/ou destituição do Diretor da unidade educativa dar-se-á através de portaria do Secretário Municipal de Educação.
+
+
+Art. 29.
+
+O candidato eleito deverá afastar-se das funções de sua lotação original, 30 (trinta) dias antes da posse para, neste período, coordenar o processo de transição da nova gestão.
+
+
+Art. 30.
+
+Em caso de vacância, a SEME nomeará interinamente o coordenador pedagógico da Unidade Educativa para exercício da função de diretor, por um período de no máximo 30 dias, prazo em que deverá ocorrer nova eleição, com candidatos certificados.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Parágrafo único
+
+Esgotado o banco de certificados, conforme o disposto no parágrafo único do art. 17 desta Lei, a SEME nomeará interinamente um professor com certificação de coordenador pedagógico que atenda aos requisitos constantes no art. 14 desta Lei, para assumir a Direção da Unidade Educativa até que se proceda novo processo de certificação ocupacional nos termos do art. 13 desta Lei.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 31.
+
+Nas unidades educativas com menos de 100 (cem) alunos, exceto creches, será nomeado, pelo secretário municipal de educação, um profissional do quadro efetivo para responder pela unidade educativa.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 32.
+
+A Direção da Unidade Educativa será privativa do diretor eleito, conforme disposto nesta Lei, observados os casos previstos no art. 30 desta Lei, terá uma carga-horária de 40 horas semanais, sendo obrigatório o cumprimento de escala semanal que possibilite sua presença em todos os turnos de funcionamento da Unidade Educativa.
+
+
+Parágrafo único
+
+O Diretor eleito firmará um contrato de gestão com a SEME, para cumprimento de metas previamente estabelecidas.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+I –
+
+curso de gestão escolar com exame final de certificação ocupacional específico para creche;
+
+
+II –
+
+escolha através de eleição direta e secreta pelos segmentos que compõem a unidade educativa.
+
+
+Parágrafo único
+
+Entenda-se por segmentos da unidade educativa para efeitos desta Lei:
+
+
+I –
+
+professor e funcionário administrativo;
+
+
+II –
+
+pai, mãe e responsável.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+I –
+
+ser graduado em pedagogia licenciatura plena;
+
+
+II –
+
+ter no mínimo, 03 (três) anos de efetiva docência em creche da rede pública municipal; ser servidor de cargo efetivo do quadro permanente de pessoal do magistério da SEME;
+
+
+III –
+
+ser servidor de cargo efetivo do quadro permanente de pessoal do magistério da SEME;
+
+
+IV –
+
+não ter sido exonerado, dispensado ou suspenso do exercício da função, em decorrência de processo administrativo, nos últimos 05 (cinco) anos.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 36.
+
+São atribuições do Diretor da Unidade Educativa (Creche, Cei, Pré - Escola e Fundamental):
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+I –
+
+responder pela Unidade Educativa junto às instâncias do Sistema Público de Ensino;
+
+
+II –
+
+coordenar a elaboração e/ou revisão do regimento escolar e do Projeto Político Pedagógico da Unidade Educativa, para análise e referendo do Conselho Escolar e posterior aprovação do Conselho Municipal Educação;
+
+
+III –
+
+coordenar a elaboração do Plano de Desenvolvimento da Unidade Educativa, garantindo sua implementação, após aprovação pelo Conselho Escolar;
+
+
+IV –
+
+responsabilizar-se pela qualidade da aprendizagem na Unidade Educativa, enviando ao Conselho Escolar e a SEME, as estratégias de intervenção, diante dos problemas educacionais detectados a cada bimestre:
+
+
+V –
+
+encaminhar, bimestralmente ao Conselho Escolar e a SEME, relatórios sobre rendimento, abandono e reprovação na Unidade Educativa;
+
+
+VI –
+
+apresentar, semestralmente, ao Conselho Escolar e a SEME, prestação de contas dos recursos recebidos e gastos na Unidade Educativa;
+
+
+VII –
+
+ser responsável pela manutenção e conservação do espaço físico e pela qualidade dos serviços prestados na Unidade Educativa;
+
+
+VIII –
+
+avaliar a assiduidade, a frequência e o trabalho dos Coordenadores pedagógicos e administrativos, dos professores e dos servidores administrativos da Unidade Educativa sob sua responsabilidade, observando os critérios da Instrução Normativa da SEME;
+
+
+IX –
+
+ser responsável pela execução e avaliação do Projeto Político Pedagógico e do PDE;
+
+
+X –
+
+assinar declarações, ofícios, certificados, históricos escolares, transferências e outros documentos, assegurando sua legitimidade;
+
+
+XI –
+
+responsabilizar-se pelo cumprimento dos 200 (duzentos) dias letivos e 800 (oitocentas) horas, no mínimo, estabelecidos na Lei de Diretrizes e Bases da Educação Nacional:
+
+
+XII –
+
+participar das reuniões, cursos e encontros promovidos pela SEME, socializando, posteriormente, as informações recebidas para os servidores da Unidade Educativa;
+
+
+XIII –
+
+elaborar o calendário escolar, em conjunto com os Coordenadores pedagógicos, submetendo-o a comunidade escolar;
+
+
+XIV –
+
+submeter à apreciação e deliberação do Conselho Escolar, as transgressões disciplinares de funcionários, alunos e membros do magistério da unidade educativa;
+
+
+XV –
+
+garantir a participação dos servidores da Unidade Educativa nos eventos promovidos pela SEME;
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+XVII –
+
+assinar as Prestações de Contas dos Recursos recebidos pela escola, bem como responsabilizar-se pela entrega dos documentos que compõem a prestação de contas, na SEME, no prazo previsto para este fim;
+
+
+XVIII –
+
+articular e coordenar a elaboração de projetos a serem desenvolvidos em parceria com a comunidade;
+
+
+XIX –
+
+elaborar relatório anual das atividades realizadas pela instituição e do desenvolvimento das crianças;
+
+
+XX –
+
+elaborar e acompanhar toda a rotina da escola;
+
+
+XXI –
+
+participar (quando convocado) das reuniões do Conselho Escolar/Unidade Executora.
+
+
+Art. 37.
+
+Em caso de infração funcional ou descumprimento das atribuições presente nesta Lei, o Diretor da Unidade Educativa ficará sujeito às seguintes sanções por parte da Secretaria Municipal de Educação:
+
+
+I –
+
+advertência escrita;
+
+
+II –
+
+suspensão da função de dirigente da Unidade Educativa pelo período de 15 (quinze) dias;
+
+
+III –
+
+destituição da função de Diretor.
+
+
+Art. 38.
+
+A suspensão e/ou destituição da função de Diretor dar- se-á através de Portaria do Secretário Municipal de Educação, após processo de sindicância que comprove a existência de infração funcional ou o descumprimento das atribuições presentes no art. 36 desta Lei.
+
+
+Parágrafo único
+
+O Secretário Municipal de Educação poderá determinar o afastamento do indiciado durante a realização da sindicância, ficando assegurado o retorno às suas funções, caso a decisão final seja pela não destituição.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+#### CAPÍTULO III — DA COORDENAÇÃO ADMINISTRATIVA
+
+
+Art. 40.
+
+A função de Coordenador Administrativo das Unidades Educativas será exercida por um servidor não docente, do quadro permanente da SEME, com formação mínima de nível médio.
+
+
+Parágrafo único
+
+O professor do quadro efetivo, com laudo médico definitivo expedido por Junta Médica Oficial, poderá exercer a função de coordenador administrativo.
+
+
+Art. 41.
+
+O Coordenador Administrativo será nomeado pelo Diretor da Unidade Educativa, preferencialmente, dentre os servidores lotados na unidade, considerando os requisitos dispostos no art. 40 desta Lei.
+
+
+Art. 42.
+
+O Coordenador Administrativo deverá cumprir, obrigatoriamente, dois turnos na escola. Somente nas unidades educativas que funcionarem em 03 (três) turnos, admitir-se-á a utilização de escala semanal que possibilite sua presença em todos os turnos de funcionamento da Unidade Educativa.
+
+
+Art. 43.
+
+As funções do Coordenador Administrativo serão definidas em Instrução Normativa, elaborada pela SEME, as quais constituirão os Regimentos Internos das Unidades Escolares.
+
+
+Art. 44.
+
+A destituição do Coordenador Administrativo de sua função dar-se-á em caso de descumprimento das atribuições previstas na Instrução Normativa da SEME e:
+
+
+I –
+
+por solicitação do Diretor da Unidade Educativa;
+
+
+II –
+
+por solicitação do Conselho Escolar, com a presença do quórum mínimo de 50% (cinqüenta por cento) mais um de seus membros, através de convocação escrita com, no mínimo 48 horas de antecedência e explicitação da pauta.
+
+
+### TÍTULO III — DA COMISSÃO ELEITORAL
+
+
+Alteração de rótulo feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 45.
+
+O processo seletivo para preenchimento do cargo de Diretor das Unidades Educativas do Sistema Público de Ensino do Município de Rio Branco deverá ser conduzido por uma Comissão Eleitoral paritária, designada pela SEME, abrangendo todos os segmentos da comunidade escolar.
+
+
+Parágrafo único
+
+A Comissão Eleitoral paritária será constituída por representantes dos seguintes segmentos:
+
+
+I –
+
+02 (dois) representantes da Secretaria Municipal de Educação - SEME;
+
+
+II –
+
+01 (um) representante do Sindicato dos Trabalhadores em Educação do Acre - SINTEAC;
+
+
+III –
+
+01 (um) representante do Sindicato dos Professores Licenciados do Acre - Sinproacre;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+IV –
+
+01 (um) representante do Conselho Municipal de Educação;
+
+
+V –
+
+01 (um) representante do Colegiado Municipal de Gestores - CODEP;
+
+
+VI –
+
+01 (um) representante da Casa do Estudante Acreano - CEA.
+
+
+Art. 46.
+
+O processo eleitoral em cada Unidade Educativa será convocado pelo Conselho Escolar, por edital público afixado em locais visíveis, no qual constará a nomeação da Comissão Eleitoral.
+
+
+Parágrafo único
+
+A Comissão Eleitoral, em cada Unidade Educativa, deverá ser acrescida de um membro indicado por candidato inscrito. Esta Comissão elegerá dentre os seus membros, o presidente, vice-presidente, 1° e 2° secretários.
+
+
+### TÍTULO IV — DA CLASSIFICAÇÃO DAS UNIDADES ESCOLARES E DA GRATIFICAÇÃO DOS DIRETORES E COORDENADORES ADMINISTRATIVOS
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Alteração de rótulo feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 47.
+
+As Unidades Educativas do Sistema Municipal de Educação serão classificadas, na forma desta Lei e de acordo com o número de alunos matriculados, com base nos dados do CENSO/MEC, referente ao ano anterior:
+
+
+I –
+
+unidade educativa tipo A - até 100 (cem) alunos;
+
+
+II –
+
+Unidade Educativa tipo B - de 101 (cento e um) até 300 (trezentos) alunos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+III –
+
+Unidade Educativa tipo C - de 301 (trezentos e um) até 500 (quinhentos) alunos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+IV –
+
+Unidade Educativa tipo D - 501 (quinhentos e um) até 700 (setecentos) alunos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+V –
+
+Unidade Educativa tipo E - Acima de 700 (setecentos) alunos.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 48.
+
+A gratificação da função de Diretores das Unidades Educativas (Creche, CEI, Pré-escola e Fundamental) e Coordenadores Administrativos será regulamentada pela Lei Municipal que institui o Plano de Carreira, Cargos e Remuneração (PCCR).
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Parágrafo único
+
+O Diretor de Creche com até 100 alunos, receberá o equivalente à gratificação a que tem direito o Diretor de Unidade Educativa do tipo B.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+### TÍTULO V — DAS DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 49.
+
+O (a) professor(a) responsável pela escola com menos de 100 (cem) alunos, previsto no art. 31 desta Lei, terá sua situação regulada em Instrução Normativa elaborada pela SEME.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 50.
+
+A SEME, com a participação do CODEP, se responsabilizará por avaliar, anualmente, os resultados desta Lei, encaminhando à Câmara Municipal sugestões para o aperfeiçoamento do processo de Gestão Democrática Escolar.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.352, de 19 de março de 2020.
+
+
+Art. 51.
+
+Os casos omissos serão resolvidos pela Secretaria Municipal de Educação.
+
+
+Art. 52.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 53.
+
+Revogam-se as disposições em contrário.
+
+
+Rio Branco-Acre, 30 dezembro de 2011, 123° da República, 109° do Tratado de Petrópolis, 50° do Estado do Acre e 128° do Município de Rio Branco.
+
+
+**Raimundo Angelim Vasconcelos**
+
+Prefeito de Rio Branco
+

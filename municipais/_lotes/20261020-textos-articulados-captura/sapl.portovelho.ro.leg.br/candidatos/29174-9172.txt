@@ -1,0 +1,585 @@
+Dispõe sobre a instituição do Comitê Municipal de Gestão de Riscos e Crises Climáticas e Segurança Hídrica no âmbito do Município de Porto Velho, e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Processo SEI nº 001.000198/2026-69.
+
+**CONSIDERANDO** a necessidade de governança municipal integrada e permanente para enfrentamento de eventos extremos e seus impactos sobre serviços essenciais e comunidades vulneráveis;
+
+**CONSIDERANDO** que a Política Nacional de Proteção e Defesa Civil abrange ações de prevenção, mitigação, preparação, resposta e recuperação e deve integrar-se a políticas setoriais, incluindo mudanças climáticas e recursos hídricos;
+
+**CONSIDERANDO** a necessidade de planejamento, consolidação de dados, transparência e registro de decisões, inclusive para fins de interlocução com órgãos de controle e sistemas oficiais de gestão de riscos e desastres;
+
+**CONSIDERANDO** a necessidade de atualização do marco municipal anterior, cujo foco era restrito à crise hídrica associada à estiagem do ano de 2024;
+
+**CONSIDERANDO** a necessidade de cumprimento das obrigações decorrentes dasAções Civis Públicas nº 7062260-31.2025.8.22.0001 (Justiça Estadual)enº 1011640-34.2024.4.01.4100 (Justiça Federal).
+
+**DECRETA:**
+
+
+#### CAPÍTULO I — DA INSTITUIÇÃO, FINALIDADE E ESCOPO
+
+
+Art. 1º.
+
+Fica instituído o Comitê Municipal de Gestão de Riscos e Crises Climáticas e Segurança Hídrica – CMGRCCSH, instância intersetorial de caráter permanente, com a finalidade de planejar, coordenar, monitorar, integrar informações e propor prioridades, medidas e encaminhamentos estratégicos do Município para a gestão integrada de riscos, crises e desastres decorrentes de eventos climáticos extremos e de situações correlatas de segurança hídrica, com repercussão sobre serviços essenciais, infraestrutura e populações vulneráveis.
+
+
+Art. 2º.
+
+O CMGRCCSH atuará com escopo multiameaças, incluindo, no mínimo:
+
+
+I –
+
+estiagens, seca, escassez hídrica e interrupções no acesso à água potável;
+
+
+II –
+
+cheias, inundações, alagamentos, erosões e isolamento de comunidades;
+
+
+III –
+
+queimadas e incêndios florestais e seus impactos (saúde, logística, infraestrutura e meio ambiente);
+
+
+IV –
+
+ondas de calor, eventos de chuvas intensas, tempestades e demais ocorrências hidrometeorológicas relevantes; e
+
+
+V –
+
+impactos associados sobre saúde pública, assistência social, educação, logística, mobilidade, infraestrutura e abastecimento.
+
+
+Parágrafo único
+
+O Comitê observará, em situações de escassez hídrica, a prioridade do atendimento ao consumo humano e demais usos essenciais definidos em políticas públicas aplicáveis, sem prejuízo das competências legais dos órgãos setoriais.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E DIRETRIZES
+
+
+Art. 3º.
+
+A atuação do CMGRCCSH reger-se-á pelos seguintes princípios e diretrizes:
+
+
+I –
+
+proteção da vida, redução de riscos e prevenção;
+
+
+II –
+
+atuação integrada entre órgãos municipais e articulação com Estado e União;
+
+
+III –
+
+planejamento baseado em evidências, monitoramento e gestão por indicadores;
+
+
+IV –
+
+transparência ativa, com comunicação pública tempestiva e padronizada;
+
+
+V –
+
+eficiência administrativa e prontidão operacional;
+
+
+VI –
+
+proteção de dados pessoais e compartilhamento responsável de informações, nos termos da Lei Federal nº 13.709, de 14 de agosto de 2018;
+
+
+VII –
+
+continuidade administrativa, com registro formal de deliberações e lições aprendidas;
+
+
+VIII –
+
+consonância com os princípios previstos na Política Municipal sobre Mudanças Climáticas, Serviços Ambientais e Biodiversidade de Porto Velho, segundo Lei nº 2.273, de 23 de dezembro de 2015; e
+
+
+IX –
+
+redução da litigiosidade, com atendimento institucional tempestivo às recomendações dos órgãos de controle e às determinações judiciais.
+
+
+#### CAPÍTULO III — DA ESTRUTURA DE GOVERNANÇA
+
+
+Art. 4º.
+
+O CMGRCCSH terá a seguinte estrutura:
+
+
+I –
+
+Plenário (instância deliberativa);
+
+
+II –
+
+Presidência;
+
+
+III –
+
+Secretaria-Executiva;
+
+
+IV –
+
+Diretor;
+
+
+V –
+
+Secretário; e
+
+
+VI –
+
+Câmaras Técnicas e/ou Grupos de Trabalho (GTs), permanentes ou temporários, por tema e/ou território.
+
+
+§ 1º
+
+O Comitê poderá instituir, no mínimo, as seguintes Câmaras/GTs, conforme necessidade:
+
+
+I –
+
+Monitoramento hidrometeorológico e alerta;
+
+
+II –
+
+Segurança hídrica, saneamento e abastecimento de água;
+
+
+III –
+
+Saúde, vigilância e assistência humanitária;
+
+
+IV –
+
+Logística, mobilidade e infraestrutura crítica;
+
+
+V –
+
+Dados, tecnologia e georreferenciamento;
+
+
+VI –
+
+Planejamento, orçamento e captação de recursos;
+
+
+VII –
+
+Comunicação de risco e transparência; e
+
+
+VIII –
+
+O atendimento de demanda judicial relativa ao assunto em questão fica a cargo da Secretaria Executiva.
+
+
+§ 2º
+
+Poderão ser instituídos GTs territoriais (por exemplo: Baixo, Médio e Alto Madeira; distritos e áreas urbanas de risco), conforme deliberação do Plenário.
+
+
+#### CAPÍTULO IV — DA COMPOSIÇÃO
+
+
+Art. 5º.
+
+O CMGRCCSH será composto por representantes titulares e suplentes, preferencialmente com capacidade de despacho e deliberação, dos seguintes órgãos/entidades municipais, ou equivalentes conforme a estrutura administrativa vigente:
+
+
+I –
+
+Superintendência Municipal de Proteção e Defesa Civil (SMPDC);
+
+
+II –
+
+Secretaria de Governo (SGOV);
+
+
+III –
+
+Procuradoria-Geral do Município (PGM - Subprocuradoria de Meio Ambiente);
+
+
+IV –
+
+órgão municipal responsável por meio ambiente (SEMA);
+
+
+V –
+
+órgão municipal responsável por saúde (SEMUSA);
+
+
+VI –
+
+órgão municipal responsável por saúde (SEMUSA);
+
+
+VII –
+
+órgão municipal responsável por educação (SEMED);
+
+
+VIII –
+
+órgão municipal responsável por saneamento/serviços básicos/abastecimento (SEINFRA);
+
+
+IX –
+
+órgão municipal responsável por infraestrutura/obras (SEINFRA);
+
+
+X –
+
+órgão municipal responsável por agricultura e produção rural (SEMAGRIC);
+
+
+XI –
+
+órgão municipal responsável por planejamento e gestão/orçamento (SEMEC);
+
+
+XII –
+
+órgão municipal responsável por tecnologia da informação e dados (SMTI);
+
+
+XIII –
+
+órgão municipal responsável por logística, suprimentos e manutenção de frota/embarcações (SMCL);
+
+
+XIV –
+
+Agência Reguladora dos Serviços Públicos Delegados e de Desenvolvimento do Município de Porto Velho (ARDPV);
+
+
+XV –
+
+órgão municipal de Segurança, Trânsito e Mobilidade (SEMTRAN);
+
+
+XVI –
+
+órgão municipal de Comunicação (SECOM); e
+
+
+XVII –
+
+Gabinete Militar da Prefeitura de Porto Velho (SGOV/GAMIL).
+
+
+XVIII –
+
+Gabinete de Governança da Secretaria de Governo – SGOV;
+
+Inclusão feita pelo Art. 1º. - Decreto nº 22.236, de 20 de julho de 2026.
+
+
+XIX –
+
+Superintendência Municipal de Distritos – SMD; e
+
+Inclusão feita pelo Art. 1º. - Decreto nº 22.236, de 20 de julho de 2026.
+
+
+XX –
+
+Secretaria Municipal de Administração – SEMAD.
+
+Inclusão feita pelo Art. 1º. - Decreto nº 22.236, de 20 de julho de 2026.
+
+
+§ 1º
+
+Cada representação nos incisos deste artigo indicará 01 (um) titular e 01 (um) suplente, com respectivos contatos funcionais, no prazo do art. 15 deste Decreto.
+
+
+§ 2º
+
+O Comitê poderá convidar, sem direito a voto, representantes de: órgãos estaduais e federais, instituições de pesquisa, conselhos, lideranças comunitárias, organizações da sociedade civil, setor produtivo, prestadores de serviços públicos e especialistas, conforme pertinência temática.
+
+
+#### CAPÍTULO V — DA PRESIDÊNCIA E SECRETARIA-EXECUTIVA
+
+
+Art. 6º.
+
+A Presidência do CMGRCCSH será exercida pela Superintendência Municipal de Proteção e Defesa Civil (SMPDC), responsável pela coordenação geral das atividades, convocação de reuniões, consolidação de deliberações e representação institucional do Comitê.
+
+
+Art. 7º.
+
+A Secretaria-Executiva será designada por ato do Presidente do Comitê, competindo-lhe:
+
+
+I –
+
+organizar pautas, registros, atas e arquivos;
+
+
+II –
+
+manter o repositório oficial de decisões, documentos e indicadores;
+
+
+III –
+
+apoiar a integração de informações e o fluxo de trabalho das Câmaras Técnicas e dos Grupos de Trabalho;
+
+
+IV –
+
+apoiar a tramitação de expedientes e ofícios interinstitucionais; e
+
+
+V –
+
+consolidar documentos, relatórios e subsídios técnicos necessários ao atendimento institucional de demandas dos órgãos de controle e de determinações judiciais, sem prejuízo das competências da Procuradoria-Geral do Município.
+
+
+#### CAPÍTULO VI — DAS COMPETÊNCIAS
+
+
+Art. 8º.
+
+Compete ao CMGRCCSH:
+
+
+I –
+
+elaborar, atualizar e monitorar o Plano Municipal Integrado de Preparação e Resposta a Eventos Climáticos Extremos, incluindo planos sazonais (Cheia/Estiagem) e planos temáticos (p.ex., queimadas);
+
+
+II –
+
+promover a integração de dados e consolidar base única oficial sobre impactos, famílias/comunidades atingidas, riscos, necessidades e recursos disponíveis;
+
+
+III –
+
+definir prioridades, metas, responsáveis e prazos, e acompanhar execução pelas pastas competentes;
+
+
+IV –
+
+propor critérios de níveis de ativação do Comitê (monitoramento, alerta, resposta e recuperação) e suas rotinas;
+
+
+V –
+
+padronizar comunicação de risco e boletins oficiais (porta-vozes, números oficiais e periodicidade);
+
+
+VI –
+
+subsidiar, quando cabível, a edição de atos de emergência/calamidade, instruindo com evidências técnicas;
+
+
+VII –
+
+apoiar registros e pleitos em sistemas oficiais, inclusive aqueles de proteção e defesa civil e de captação de recursos;
+
+
+VIII –
+
+articular ações com Estado e União e apoiar planos e projetos estruturantes de resiliência; e
+
+
+IX –
+
+instituir e monitorar indicadores (painel) e produzir relatórios periódicos e pós-evento (“lições aprendidas”).
+
+
+#### CAPÍTULO VII — DO FUNCIONAMENTO, NÍVEIS DE ATIVAÇÃO E DELIBERAÇÕES
+
+
+Art. 9º.
+
+O CMGRCCSH operará em níveis de ativação, definidos em ato do Comitê e detalhados no Plano Municipal Integrado, observando-se, no mínimo:
+
+
+I –
+
+Nível 0 (Monitoramento): rotina de preparação, atualização de planos, simulações e manutenção preventiva;
+
+
+II –
+
+Nível 1 (Alerta): intensificação de monitoramento, mobilização setorial e pré-posicionamento de recursos;
+
+
+III –
+
+Nível 2 (Resposta): coordenação de resposta, priorização de ações emergenciais e reuniões frequentes; e
+
+
+IV –
+
+Nível 3 (Recuperação): coordenação de recuperação, reconstrução, retorno seguro e medidas de redução de risco.
+
+
+Parágrafo único
+
+A definição e a aplicação dos estágios operacionais podem variar de acordo com a natureza e a gravidade do evento.
+
+
+Art. 10.
+
+O Comitê reunir-se-á:
+
+
+I –
+
+ordinariamente, em periodicidade definida pela Presidência (mínimo mensal no Nível 0); e
+
+
+II –
+
+extraordinariamente, sempre que necessário, por convocação da Presidência.
+
+
+§ 1º
+
+Em Nível 2 (Resposta), a periodicidade deverá ser, preferencialmente, semanal, enquanto persistir a situação crítica, salvo deliberação em contrário devidamente justificada em ata.
+
+
+§ 2º
+
+As deliberações ocorrerão por maioria simples, cabendo à Presidência o voto de qualidade em caso de empate.
+
+
+§ 3º
+
+Toda reunião deverá gerar ata, com: deliberações, responsáveis, prazos, providências e status de execução.
+
+
+#### CAPÍTULO VIII — DA GESTÃO DA INFORMAÇÃO, TRANSPARÊNCIA E PROTEÇÃO DE DADOS
+
+
+Art. 11.
+
+O CMGRCCSH adotará diretrizes de transparência ativa e comunicação pública, assegurando:
+
+
+I –
+
+divulgação regular de boletins, dados agregados e avaliações;
+
+
+II –
+
+publicação de atas e relatórios, ressalvadas hipóteses legais de sigilo; e
+
+
+III –
+
+padronização de números oficiais e fontes.
+
+
+Art. 12.
+
+A integração e o compartilhamento de informações observarão:
+
+
+I –
+
+a legislação de acesso à informação; e
+
+
+II –
+
+a legislação de proteção de dados pessoais, com adoção de medidas de segurança da informação, minimização, necessidade e, quando cabível, anonimização de dados.
+
+
+#### CAPÍTULO IX — DAS CONTRATAÇÕES, LOGÍSTICA E PRONTIDÃO OPERACIONAL
+
+
+Art. 13.
+
+As medidas administrativas decorrentes das deliberações do CMGRCCSH serão executadas pelos órgãos competentes, observando-se a legislação aplicável, incluindo a legislação de contratações públicas.
+
+
+Parágrafo único
+
+Em situações formalmente caracterizadas como emergência ou calamidade, poderão ser adotadas medidas de pronta resposta e as hipóteses legais de contratação direta, desde que devidamente motivadas, instruídas e justificadas, sem prejuízo do controle interno, do controle externo e da atuação da Procuradoria-Geral do Município.
+
+
+#### CAPÍTULO X — DAS DISPOSIÇÕES TRANSITÓRIAS E PRAZOS
+
+
+Art. 14.
+
+No prazo de 05 (cinco) dias úteis contados da publicação deste Decreto, os órgãos indicados no art. 5º encaminharão à Presidência do Comitê a indicação de titulares e suplentes.
+
+
+Art. 15.
+
+O CMGRCCSH elaborará e aprovará seu Regimento Interno no prazo de 60 (sessenta) dias.
+
+
+Art. 16.
+
+O CMGRCCSH apresentará, no prazo de 90 (noventa) dias, proposta inicial de:
+
+
+I –
+
+painel de indicadores e elementos de monitoramento; e
+
+
+II –
+
+versão inicial do Plano Municipal Integrado (ou, no mínimo, seu sumário executivo e cronograma de elaboração).
+
+
+#### CAPÍTULO XI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 17.
+
+A atuação do CMGRCCSH não substitui as competências legais dos órgãos municipais, cabendo às secretarias e entidades a execução das medidas em seus âmbitos de atribuição.
+
+
+Art. 18.
+
+A participação noCMGRCCSH, será considerada serviço público relevante, não remunerado.
+
+
+Art. 19.
+
+Fica revogado, em sua integralidade, o Decreto nº 19.800, de 08 de março de 2024, que instituiu Comitê de Gestão de Crise para enfrentamento da crise hídrica de 2024.
+
+
+Art. 20.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**LEONARDO BARRETO DE MORAES**
+
+Prefeito

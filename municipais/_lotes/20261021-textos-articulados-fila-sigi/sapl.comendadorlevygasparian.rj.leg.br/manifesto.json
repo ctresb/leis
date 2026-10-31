@@ -1,0 +1,272 @@
+{
+  "host": "sapl.comendadorlevygasparian.rj.leg.br",
+  "metadados_unicos_observados": 2303,
+  "total_api_declarado": 2303,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1062,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/59a5112d61218c7fee7900eb8b931e1c2cdf6569aeb6686419c52e0e6a89799e.json",
+    "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ad43e1a22e055063cac716fd1c054dc55928b80fa5fd2f0363d8ee4666b31bc3",
+    "bytes": 2640,
+    "capturado_em": "2026-10-27T22:55:23.640858-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/2f4e7bb6a4e63d9252f22a0a549bd2dbdc00a14a2c42b8f4c088619992dc19f8.json",
+    "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c3bfd41bf99d796a5662180bf29c0604e6425fb75cc70d7d8a123b2632477a8e",
+    "bytes": 830,
+    "capturado_em": "2026-10-27T22:55:22.571019-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/d1d3f57ba36e2cf14cc70161f5546c80c29c54de749e6f8dd7a5e8af8ab0769a.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cca7f627cb38510e69b98391f64b89f0926eb8c72c21e3bae9ad1314840a5eb9",
+      "bytes": 70325,
+      "capturado_em": "2026-10-27T22:55:26.078334-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/220dd48793f9bc4c60988b9510f3dbc47d609df396f511ea648254c4157629a3.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "938e7aa01551f11591c6c41139332768b9928dba3c233e4e4262f7c049237cdd",
+      "bytes": 58789,
+      "capturado_em": "2026-10-27T22:56:31.864842-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/8ba7febfcbd447b2edb311d65364c3ad6c32eb5dd5d7564f103185e568492754.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4634753715d9fcb394c3b31d01e1cf1d77bd7b3b3d9835e0a27b043ee5aa63ef",
+      "bytes": 81931,
+      "capturado_em": "2026-10-27T22:57:53.854685-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/89ee146389aabf0d14c318ab9d52c31edb5af5aaa5238ab499a0ebe6abac833e.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9602ff617f9fca49d23f69b8f1e6f40cecffffd4cdfadf436602d2f625e49f9a",
+      "bytes": 63756,
+      "capturado_em": "2026-10-27T22:58:46.105027-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/a8fadbbb0ef34cda24da9e3576ad514c5015dcb1bbaa7f441b2727128148b84d.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fda62dbd050373ce24a1fd3c43c9927a4af64c7cd76dc64f33f4cfc439bbeb91",
+      "bytes": 64246,
+      "capturado_em": "2026-10-27T23:00:03.689642-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/fb858c2e7d09ef512b62ddec050f1d611239066864fab440464882fb7a9ef338.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1870192d4832cc3f02290b65b76b0d2aa00eaf0df5f837011b975b09992053f0",
+      "bytes": 69054,
+      "capturado_em": "2026-10-27T23:01:09.835022-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/ec1be3f399ac341df15ebda643f5d7463410f97a6b72aad3a08999fd89e42f20.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cbf83b6c17a19d39d24abbd1e302e7bc0afffdba0200114f4172073ce1fbc2d4",
+      "bytes": 54811,
+      "capturado_em": "2026-10-27T23:01:57.843467-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/8461b3cd30fdca2f610d3a30273d2053ea61dd25752e0bd63e86dae9262da6c3.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "22b2838e9b249025d155ea970fe49f7c139440ddb1140cc0222fcf2a0c3ec945",
+      "bytes": 64811,
+      "capturado_em": "2026-10-27T23:03:41.291172-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/2d0dec06e549ee07f8c32c79a6352012e9eabd03779faa4fecbd3437f8097379.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "19c0f3a0742e5acd07bd40374ff683996fab5effdfa233ba48e86ff6fd9ae0f9",
+      "bytes": 60699,
+      "capturado_em": "2026-10-27T23:05:34.524469-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/8f220275b01d5f59efa0d084203312e19f2c0f60cffcc11e9314a00b7add468b.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "af40a586e2f5f37f623156521b554e18bb9295215185bfb0e92c9f8c4a4bf901",
+      "bytes": 66163,
+      "capturado_em": "2026-10-27T23:07:14.383597-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/2db898d4ebc6138855be5cc517f60aa979edbb8609885ddad769eb2b9851cd4d.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "980837d29b61f2b0806717674ad2532ad5b73df81291522deee9c57bb0727077",
+      "bytes": 61967,
+      "capturado_em": "2026-10-27T23:08:56.878467-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/16daa97a95d0b02defe3d9d0fc35ac3f78d3680f91ace3346de2a50677b57cc1.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8ddd82c2929a0b4f6c84659a6ce5547ec5b567eb568d3fa87873f8ba1c181da1",
+      "bytes": 65303,
+      "capturado_em": "2026-10-27T23:10:39.102446-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/fd14c033ccdbaaa5b4825f4144c1af08884082d8410b8debb045e0f2ea8c88ba.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7b5a97c363e4504078e5f788ba7765154e788b815a65e178a260a8aaa75ce782",
+      "bytes": 60633,
+      "capturado_em": "2026-10-27T23:12:10.541699-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/474b3809bbc1e2acbd3f00248702dd997f77f935b812cab35f811ed0e14ca9b3.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f47a68ab349c5428271f203d6cd7d719ba9405169154bff725741a79d69506fa",
+      "bytes": 67312,
+      "capturado_em": "2026-10-27T23:13:55.204844-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/da4bd3e032e1ed9c86c7a5752987f6b44680d4c75658999d035471b2860fdfdc.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "75cb04f86f58797f4e94096edccbf2a1caa663d92be59ad649cd0114f937710a",
+      "bytes": 64509,
+      "capturado_em": "2026-10-27T23:15:27.801267-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/e9bdd99832c05c5bfd97f79cfbef292685b340684f4637297a8fdf48cf5f2906.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "117f3a1be67d38f7ffccdb4469ac56fa28ee3650aab3a46f4af1712414661b16",
+      "bytes": 63354,
+      "capturado_em": "2026-10-27T23:17:08.584758-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/5484482dbd435bfe0a4047f59cfcaa2c37da6dfd8e7c73e96dfa2da74f1641ff.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "046ea41017cf80dd2d8d5ad32dd2d44ee3bc622d45d5d4429dfacba9b39a46a1",
+      "bytes": 57468,
+      "capturado_em": "2026-10-27T23:19:00.905857-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/3cac006a8257356f5637e858389bcc8e3a9929bcd48b5c662d8a404f1dfd9aa8.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8817b1337a8f246a9820afb49344073e30973720e3273f06d098ee1af564cd7b",
+      "bytes": 55668,
+      "capturado_em": "2026-10-27T23:20:23.908190-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/a736768e99cb9a1d3abc3f6da96bd03e11fa7210db8c371a3c44acf891d3af95.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "684a7c4b0cbdf004a738ef5a603091dc06b94cfb351c02b4cb7ef5db584b6c57",
+      "bytes": 62434,
+      "capturado_em": "2026-10-27T23:22:02.921901-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/2d65ead5bcd7951873255d9fefe7135ac33cb32438e6aec607022c0e0ebc7694.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3f9a8db237ec5748141fbaede402e11cfc282e71dc603c6e23e31f1825ebaec1",
+      "bytes": 56378,
+      "capturado_em": "2026-10-27T23:24:16.726232-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/574039819ba5bb5d7087650b95ee5875099fb1f4c0ea9a9286ff81d11a780a1e.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3f4a874529ffb5f47c77b64b2c06d10a5a412d8346dd7de3c53bd4c0ac8ab7ed",
+      "bytes": 61452,
+      "capturado_em": "2026-10-28T00:27:12.421030-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/d1877036d61a05bc02f46523f65cc1c1c077e7db022fc09e50ee409c6ec891f7.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a1c75c4afa00b3d4a62d45bc7fd222f23b4191ed857568cb910b7aa52e6b0b0b",
+      "bytes": 62288,
+      "capturado_em": "2026-10-28T00:44:28.082878-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/c137e3c096d6d6cbcb14c39a9721b636080deec5c442633e5307ea6389a6f2f1.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fae0119049d5eee896798952ec67157acc60b6e3c4cef1b52ede070161c3a9ca",
+      "bytes": 57440,
+      "capturado_em": "2026-10-28T00:46:43.748520-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comendadorlevygasparian.rj.leg.br/1d839e4002b5de3586291bc7b7361d3a8a03369766775dba290697af5c47ebce.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.comendadorlevygasparian.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "60786358d63f9e0c1f4e86eabcb211da9c4d8351048325995466952c8a4f9432",
+      "bytes": 1837,
+      "capturado_em": "2026-10-28T00:49:48.357970-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

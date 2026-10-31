@@ -1,0 +1,19 @@
+{
+  "data": "2026-10-20",
+  "origem": "JSON oficial em cache; sem HTTP ou reescrita do corpus",
+  "baseline_sha256": "1568e10e2a2ba5082d612bc88f8c37547eb369922eb846d11cb5d9db2dbdc0f3",
+  "reservas_sha256": {
+    "/tmp/reguladores8865-dados-paths-20261020.txt": "76558c6733b0a6c421bbcc9e4398bb40d9e0c1d001340014a651b7452a4ee901",
+    "/tmp/reguladores8532-paths-20261020.txt": "3084abeddb0d0f8dfe9179f21bd7064d77a4884a20bc7748892b8197389b82e6",
+    "/tmp/reguladores9003-paths-20261020.txt": "503f67ca5c2e7e0dfc2bc685e4ddd53ed83848a2f77ac0dbe4db5572020dc44b",
+    "/tmp/reguladores8900-paths-20261020.txt": "a25b156a4d337e26ad252b8a5a51f26c0abd126f435eba3f9e099245dc28a83a",
+    "/tmp/reguladores8698-paths-20261020.txt": "e55d7611da330cdec35d49495675991271e67a4bf48bf260cea48406cef14ba5",
+    "/tmp/reguladores7931-paths-20261020.txt": "2e9da37d17eb39ad3477d6593c3eead9000d2f2330eb92c18f32496960abcbcf"
+  },
+  "indice_sha256": "1fade9d098f89cdbae2f5980acd38c4d832a0f2bb975ace7fe58ac02cab38923",
+  "total_indice": 115238,
+  "total": 0,
+  "documentos": [],
+  "retidos": [],
+  "motivos": {}
+}

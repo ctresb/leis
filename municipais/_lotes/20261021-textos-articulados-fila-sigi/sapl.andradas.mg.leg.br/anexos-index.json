@@ -1,0 +1,728 @@
+{
+  "estado": "indice_completo",
+  "total": 71,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/lei_organica_municipal_-_livro_oficial_-_manuscrito.pdf da norma Lei Orgânica Municipal nº 955, de 20 de março de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Arquivo referente ao Livro de Leis da Câmara Municipal de Andradas.",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/1990/1/lei_organica_municipal_-_livro_oficial_-_manuscrito.pdf",
+      "ano": 1990,
+      "norma": 4
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/oficio_no_538-2019.pdf da norma Decreto Legislativo nº 250, de 21 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Encaminha Decretos Legislativos nºs: 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260 e 261 que \"Concedem Diplomas de Honra ao Mérito.\"",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/2/oficio_no_538-2019.pdf",
+      "ano": 2019,
+      "norma": 36
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/3/pmsb_-_versao_consolidada_-_16.12.2019-1-200.pdf da norma Lei Ordinária nº 1.937, de 17 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/3/pmsb_-_versao_consolidada_-_16.12.2019-1-200.pdf",
+      "ano": 2020,
+      "norma": 72
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/pmsb_-_versao_consolidada_-_16.12.2019-201-450.pdf da norma Lei Ordinária nº 1.937, de 17 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/4/pmsb_-_versao_consolidada_-_16.12.2019-201-450.pdf",
+      "ano": 2020,
+      "norma": 72
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/5/lei_ordinaria_1836.2017_parte_ii.pdf da norma Lei Ordinária nº 1.836, de 08 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Parte II",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/5/lei_ordinaria_1836.2017_parte_ii.pdf",
+      "ano": 2017,
+      "norma": 95
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/lei_ordinaria_1836.2017_parte_iii.pdf da norma Lei Ordinária nº 1.836, de 08 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Parte 3",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/6/lei_ordinaria_1836.2017_parte_iii.pdf",
+      "ano": 2017,
+      "norma": 95
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/7/lei_ordinaria_1836.2017_parte_iv.pdf da norma Lei Ordinária nº 1.836, de 08 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/7/lei_ordinaria_1836.2017_parte_iv.pdf",
+      "ano": 2017,
+      "norma": 95
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/8/lei_ordinaria_1836.2017_parte_v.pdf da norma Lei Ordinária nº 1.836, de 08 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Parte 5",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/8/lei_ordinaria_1836.2017_parte_v.pdf",
+      "ano": 2017,
+      "norma": 95
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/9/lei_ordinaria_1836.2017_parte_vi.pdf da norma Lei Ordinária nº 1.836, de 08 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Parte 6",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/9/lei_ordinaria_1836.2017_parte_vi.pdf",
+      "ano": 2017,
+      "norma": 95
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/10/lei_ordinaria_1865.2018_parte_ii.pdf da norma Lei Ordinária nº 1.865, de 12 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/10/lei_ordinaria_1865.2018_parte_ii.pdf",
+      "ano": 2018,
+      "norma": 106
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/11/lc_184.2018_anexo_i_cargo_c.pdf da norma Lei Complementar nº 184, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/11/lc_184.2018_anexo_i_cargo_c.pdf",
+      "ano": 2018,
+      "norma": 128
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/12/lc_184.2018_anexo_ii_cargos_c.pdf da norma Lei Complementar nº 184, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/12/lc_184.2018_anexo_ii_cargos_c.pdf",
+      "ano": 2018,
+      "norma": 128
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/13/lc_184.2018_anexo_iii_cargos_c.pdf da norma Lei Complementar nº 184, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/13/lc_184.2018_anexo_iii_cargos_c.pdf",
+      "ano": 2018,
+      "norma": 128
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/14/lc_184.2018_anexo_iv_carga_horaria.pdf da norma Lei Complementar nº 184, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/14/lc_184.2018_anexo_iv_carga_horaria.pdf",
+      "ano": 2018,
+      "norma": 128
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/15/lc_184.2018_anexo_v-a_tabela_venc.pdf da norma Lei Complementar nº 184, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/15/lc_184.2018_anexo_v-a_tabela_venc.pdf",
+      "ano": 2018,
+      "norma": 128
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/16/lc_184.2018_anexo_vi_pessoal_efetivo.pdf da norma Lei Complementar nº 184, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/16/lc_184.2018_anexo_vi_pessoal_efetivo.pdf",
+      "ano": 2018,
+      "norma": 128
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/17/lc_184.2018_anexo_vi_pessoal_efetivo.pdf da norma Lei Complementar nº 184, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/17/lc_184.2018_anexo_vi_pessoal_efetivo.pdf",
+      "ano": 2018,
+      "norma": 128
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/18/lc_185.2018_anexo_i_cargo_c.pdf da norma Lei Complementar nº 185, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/18/lc_185.2018_anexo_i_cargo_c.pdf",
+      "ano": 2018,
+      "norma": 129
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/19/lc_185.2018_anexo_ii_pessoal.pdf da norma Lei Complementar nº 185, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/19/lc_185.2018_anexo_ii_pessoal.pdf",
+      "ano": 2018,
+      "norma": 129
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/20/lc_185.2018_anexo_iii_tabela_venc..pdf da norma Lei Complementar nº 185, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/20/lc_185.2018_anexo_iii_tabela_venc..pdf",
+      "ano": 2018,
+      "norma": 129
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/21/lc_185.2018_anexo_iii_tabela_venc..pdf da norma Lei Complementar nº 185, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/21/lc_185.2018_anexo_iii_tabela_venc..pdf",
+      "ano": 2018,
+      "norma": 129
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/22/lc_185.2018_anexo_iv.pdf da norma Lei Complementar nº 185, de 12 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/22/lc_185.2018_anexo_iv.pdf",
+      "ano": 2018,
+      "norma": 129
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/23/lc_186.2018_anexo_i_186_cargos_c.pdf da norma Lei Complementar nº 186, de 08 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/23/lc_186.2018_anexo_i_186_cargos_c.pdf",
+      "ano": 2018,
+      "norma": 158
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/24/anexos_-_lei_complementar_188.2018.pdf da norma Lei Complementar nº 188, de 21 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/24/anexos_-_lei_complementar_188.2018.pdf",
+      "ano": 2018,
+      "norma": 160
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/25/substitutivo_plc_04.2017_2017_-_anexo_i_e_ii_-_ma_eSyjDaV.pdf da norma Lei Complementar nº 178, de 05 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I E II - MAGISTÉRIO",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/25/substitutivo_plc_04.2017_2017_-_anexo_i_e_ii_-_ma_eSyjDaV.pdf",
+      "ano": 2017,
+      "norma": 177
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/26/substitutivo_plc_04.2017_2017_-_anexo_i_e_ii_-_ma_COMSwYT.pdf da norma Lei Complementar nº 178, de 05 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I E II MAGISTÉRIO",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/26/substitutivo_plc_04.2017_2017_-_anexo_i_e_ii_-_ma_COMSwYT.pdf",
+      "ano": 2017,
+      "norma": 177
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/27/substitutivo_plc_04.2017_-__2017_anexo_iii_lc_95__bFPYzil.pdf da norma Lei Complementar nº 178, de 05 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/27/substitutivo_plc_04.2017_-__2017_anexo_iii_lc_95__bFPYzil.pdf",
+      "ano": 2017,
+      "norma": 177
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/28/lo_1790.2016_parte_ii.pdf da norma Lei Ordinária nº 1.790, de 25 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Parte 2 da Lei",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2016/28/lo_1790.2016_parte_ii.pdf",
+      "ano": 2016,
+      "norma": 239
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/30/lo_1716_2015_parte_ii.pdf da norma Lei Ordinária nº 1.716, de 05 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2015/30/lo_1716_2015_parte_ii.pdf",
+      "ano": 2015,
+      "norma": 240
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/31/lo_1700.2015_parte_ii.pdf da norma Lei Ordinária nº 1.700, de 29 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2015/31/lo_1700.2015_parte_ii.pdf",
+      "ano": 2015,
+      "norma": 242
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/32/lo_1684.2014_parte_ii.pdf da norma Lei Ordinária nº 1.684, de 23 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/32/lo_1684.2014_parte_ii.pdf",
+      "ano": 2014,
+      "norma": 243
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/33/lo_1684.2014_parte_iii.pdf da norma Lei Ordinária nº 1.684, de 23 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/33/lo_1684.2014_parte_iii.pdf",
+      "ano": 2014,
+      "norma": 243
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/34/lei_complementar_172.2016_parte_ii.pdf da norma Lei Complementar nº 172, de 28 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2016/34/lei_complementar_172.2016_parte_ii.pdf",
+      "ano": 2016,
+      "norma": 246
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/35/lei_complementar_172.2016_parte_iii.pdf da norma Lei Complementar nº 172, de 28 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2016/35/lei_complementar_172.2016_parte_iii.pdf",
+      "ano": 2016,
+      "norma": 246
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/36/lei_complementar_172.2016_parte_iv.pdf da norma Lei Complementar nº 172, de 28 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2016/36/lei_complementar_172.2016_parte_iv.pdf",
+      "ano": 2016,
+      "norma": 246
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/37/lei_complementar_172.2016_parte_v.pdf da norma Lei Complementar nº 172, de 28 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2016/37/lei_complementar_172.2016_parte_v.pdf",
+      "ano": 2016,
+      "norma": 246
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/38/lei_complementar_172.2016_parte_vi.pdf da norma Lei Complementar nº 172, de 28 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2016/38/lei_complementar_172.2016_parte_vi.pdf",
+      "ano": 2016,
+      "norma": 246
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/39/lei_complementar__159_2014_parte_ii.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/39/lei_complementar__159_2014_parte_ii.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/40/lei__complementar_159_2014_parte_iii.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/40/lei__complementar_159_2014_parte_iii.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/41/lei_complementar_159_2014_parte_iv.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/41/lei_complementar_159_2014_parte_iv.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/42/lei_complementar_159_2014_parte_v.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/42/lei_complementar_159_2014_parte_v.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/43/lei_complementar_159_2014_parte_vi.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/43/lei_complementar_159_2014_parte_vi.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo:  da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": null,
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/45/lei_complementar_159_2014_parte_vii.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/45/lei_complementar_159_2014_parte_vii.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/46/lei_complementar_159_214_parte_viii.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/46/lei_complementar_159_214_parte_viii.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/47/lei_complementar_159_2014_parte_ix.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/47/lei_complementar_159_2014_parte_ix.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/48/lei_complementar_159_2014_parte_x.pdf da norma Lei Complementar nº 159, de 01 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/48/lei_complementar_159_2014_parte_x.pdf",
+      "ano": 2014,
+      "norma": 251
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/49/lei_complementar_139.2013_anexo_i_pessoal.pdf da norma Lei Complementar nº 139, de 26 de março de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2013/49/lei_complementar_139.2013_anexo_i_pessoal.pdf",
+      "ano": 2013,
+      "norma": 261
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/50/lei_comlementar_139.2013_anexo_est.org.pdf da norma Lei Complementar nº 139, de 26 de março de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2013/50/lei_comlementar_139.2013_anexo_est.org.pdf",
+      "ano": 2013,
+      "norma": 261
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/51/leicomplementar_139.2013_anexo_i_cargos_c..pdf da norma Lei Complementar nº 139, de 26 de março de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2013/51/leicomplementar_139.2013_anexo_i_cargos_c..pdf",
+      "ano": 2013,
+      "norma": 261
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/52/lc_107.2007_anexo_i_cargo_c.pdf da norma Lei Complementar nº 107, de 10 de setembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2007/52/lc_107.2007_anexo_i_cargo_c.pdf",
+      "ano": 2007,
+      "norma": 265
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/53/lc_107.2007_anexo_est.org.pdf da norma Lei Complementar nº 107, de 10 de setembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2007/53/lc_107.2007_anexo_est.org.pdf",
+      "ano": 2007,
+      "norma": 265
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/54/l.c_95.2006-_anexo_i_pessoal.pdf da norma Lei Complementar nº 95, de 12 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/54/l.c_95.2006-_anexo_i_pessoal.pdf",
+      "ano": 2006,
+      "norma": 269
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/55/l.c_95.2006-_anexo_ii_40_h.pdf da norma Lei Complementar nº 95, de 12 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/55/l.c_95.2006-_anexo_ii_40_h.pdf",
+      "ano": 2006,
+      "norma": 269
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/56/l.c_95.2006_anexo_iii_30_h.pdf da norma Lei Complementar nº 95, de 12 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/56/l.c_95.2006_anexo_iii_30_h.pdf",
+      "ano": 2006,
+      "norma": 269
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/57/lc_93.2006_anexo_i_cargo_c.pdf da norma Lei Complementar nº 93, de 04 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/57/lc_93.2006_anexo_i_cargo_c.pdf",
+      "ano": 2006,
+      "norma": 270
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/58/lc_93.2006_anexo_ii_cargo_c.pdf da norma Lei Complementar nº 93, de 04 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/58/lc_93.2006_anexo_ii_cargo_c.pdf",
+      "ano": 2006,
+      "norma": 270
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/59/lc_93.2006_anexo_iii_cargo_c.pdf da norma Lei Complementar nº 93, de 04 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/59/lc_93.2006_anexo_iii_cargo_c.pdf",
+      "ano": 2006,
+      "norma": 270
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/60/lc_93.2006_anexo_iv_forma_r-_carga_h.pdf da norma Lei Complementar nº 93, de 04 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/60/lc_93.2006_anexo_iv_forma_r-_carga_h.pdf",
+      "ano": 2006,
+      "norma": 270
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/61/lc_93.2006_anexo_v-a_tabela_venc..pdf da norma Lei Complementar nº 93, de 04 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/61/lc_93.2006_anexo_v-a_tabela_venc..pdf",
+      "ano": 2006,
+      "norma": 270
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/62/lc_93.2006_anexo_vi_pessoal.pdf da norma Lei Complementar nº 93, de 04 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2006/62/lc_93.2006_anexo_vi_pessoal.pdf",
+      "ano": 2006,
+      "norma": 270
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/63/lc_52.2001_parte_ii.pdf da norma Lei Complementar nº 52, de 27 de dezembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2001/63/lc_52.2001_parte_ii.pdf",
+      "ano": 2001,
+      "norma": 273
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/64/lei_2120_parte_2.pdf da norma Lei Ordinária nº 2.120, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Parte 2 da lei",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/64/lei_2120_parte_2.pdf",
+      "ano": 2023,
+      "norma": 706
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/65/certidao.pdf da norma Lei Ordinária nº 2.129, de 05 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Certifica para os devidos fins que se fizerem necessários a Lei nº 2.129 foi publicada em 08 de março de 2024.",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/65/certidao.pdf",
+      "ano": 2024,
+      "norma": 757
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/66/ord-2039-2022-andradas-mg.pdf da norma Lei Ordinária nº 2.039, de 16 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/66/ord-2039-2022-andradas-mg.pdf",
+      "ano": 2022,
+      "norma": 606
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/ato_de_promulgacao_01-2025.pdf da norma Lei Ordinária nº 2.187, de 03 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/67/ato_de_promulgacao_01-2025.pdf",
+      "ano": 2025,
+      "norma": 871
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/68/ato_de_promulgacao_03-2025.pdf da norma Lei Ordinária nº 2.213, de 17 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/68/ato_de_promulgacao_03-2025.pdf",
+      "ano": 2025,
+      "norma": 903
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/69/arquivo_00399.pdf da norma Lei Ordinária-GAB nº 2.200, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Ato de Promulgação n.º 04/2025.",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/69/arquivo_00399.pdf",
+      "ano": 2025,
+      "norma": 906
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/70/arquivo_00399.pdf da norma Lei Ordinária nº 2.200, de 16 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Ato de Promulgação n.º 04-2025",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/70/arquivo_00399.pdf",
+      "ano": 2025,
+      "norma": 888
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/71/arquivo_00400.pdf da norma Lei Ordinária nº 2.200, de 16 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Novo texto promulgado, após derrubada do veto parcial.",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/71/arquivo_00400.pdf",
+      "ano": 2025,
+      "norma": 888
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/ato_de_promulgacao_n._02-2026_-_promulga_dispositivos_vetados_da_lei_2251.pdf da norma Lei Ordinária nº 2.251, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "ATO DE PROMULGAÇÃO N.º 02/2026\r\n\r\nPromulga dispositivos da Lei nº 2.251, de 23 de janeiro de 2026, que dispõe sobre o orçamento do município de Andradas para o exercício de 2.026, vetados pela Prefeita Municipal e mantidos pela Câmara Municipal",
+      "anexo_arquivo": "http://sapl.andradas.mg.leg.br/media/sapl/public/anexonormajuridica/2026/72/ato_de_promulgacao_n._02-2026_-_promulga_dispositivos_vetados_da_lei_2251.pdf",
+      "ano": 2026,
+      "norma": 949
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.andradas.mg.leg.br/c37c1ae1a20e3b21fa971a9ae116c8bbaf9b87dc4c52649519315ebd9cec0a2b.json",
+      "url": "https://sapl.andradas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.andradas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "448eb74634020bb96b2e59d087843edd9d6e8c7fa6f407c4c194ebef7e07b7a0",
+      "bytes": 29980,
+      "capturado_em": "2026-10-27T16:43:58.472093-03:00"
+    }
+  ]
+}

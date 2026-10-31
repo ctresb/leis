@@ -1,0 +1,762 @@
+Aprova a Metodologia de Gestão de Riscos no âmbito do Poder Executivo Municipal.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Processo SEI nº 013.000318/2026-99.
+
+**CONSIDERANDO** a instituição, pela Lei Complementar nº 648, de 6 de janeiro de 2017 e suas alterações, dos fundamentos de governança, gestão de riscos e controle, conforme descrição no Decreto nº 15.261, de 15 de junho de 2018 que dispõe sobre a política de governança da administração pública municipal direta, autárquica e fundacional;
+
+**CONSIDERANDO** a Lei Complementar nº 767, de 14 de junho de 2019, que institui o Sistema de Controle Interno – SCI no Município de Porto Velho e dá outras providências;
+
+**CONSIDERANDO** o Decreto nº 17.888, de 14 de janeiro de 2022, que dispõe sobre controles internos, gestão de riscos e governança no âmbito do Poder Executivo Municipal;
+
+**CONSIDERANDO** o Acordo de Cooperação Técnica nº 08/2025 celebrado entre o Estado de Minas Gerais, por intermédio da Controladoria Geral do Estado e o Município de Porto Velho, por meio da Controladoria Geral do Município, visando o compartilhamento do Código fonte do Sistema de Gestão Integrada de Riscos – UAI RISK; e
+
+**CONSIDERANDO** a necessidade de identificar, avaliar e tratar riscos que possam comprometer a execução de políticas públicas e o alcance dos objetivos institucionais.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica aprovada a Metodologia de Gestão de Riscos a ser adotada pelos órgãos e entidades do Poder Executivo Municipal.
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 2º.
+
+A gestão de riscos constitui processo permanente, estruturado e sistemático destinado a definir o escopo, contexto e critério, bem como identificar, analisar, avaliar, tratar e monitorar riscos que possam afetar o alcance dos objetivos institucionais da Administração Municipal.
+
+
+#### CAPÍTULO II — DOS CONCEITOS
+
+
+Art. 3º.
+
+Para fins deste Decreto considera-se:
+
+
+I –
+
+causa: fonte do risco ou vulnerabilidade existente na organização que dá origem a um evento, é um fato ou circunstância que influencia de forma direta ou intrínseca a ocorrência do evento, o porquê do risco;
+
+
+II –
+
+consequência: efeito que o evento de risco terá sobre o alcance dos objetivos organizacionais;
+
+
+III –
+
+impacto: grau de efeito que o evento de risco apresenta nas ações de gestão da organização;
+
+
+IV –
+
+mapa de riscos: documento que materializa a análise dos riscos que possam comprometer o alcance dos objetivos institucionais e a adequada execução dos processos, ações, projetos ou atividades, propondo controles capazes de mitigar a probabilidade de sua ocorrência ou reduzir os impactos decorrentes;
+
+
+V –
+
+matriz de riscos: instrumento que permite identificar, classificar e avaliar eventos de risco que possam impactar o alcance dos objetivos institucionais, bem como definir as medidas necessárias para seu tratamento e a atribuição de responsabilidades entre os envolvidos;
+
+
+VI –
+
+medida ou ação de controle: mecanismo utilizado pelo órgão para tratar os riscos levantados, que pode incidir na causa ou na consequência;
+
+
+VII –
+
+plano de ação: conjunto de medidas ou ações de controle utilizados pela gestão para tratamento dos riscos;
+
+
+VIII –
+
+probabilidade: frequência estimada de ocorrência do evento de risco;
+
+
+IX –
+
+tolerância a risco: desvio do nível do apetite a riscos;
+
+
+X –
+
+valor do risco: função da probabilidade e da medida do impacto vinculados ao evento de risco;
+
+
+XI –
+
+matriz de responsabilidades (RACI): ferramenta de governança utilizada para definir, de forma clara e inequívoca, os papéis e responsabilidades dos agentes envolvidos nos macroprocessos, processos e atividades organizacionais, identificando os responsáveis pela execução, aprovação, consulta e informação das atividades e ações de tratamento de riscos;
+
+
+XII –
+
+responsável pela execução (*Responsible* – R): agente público, cargo ou unidade administrativa incumbida de executar operacionalmente determinada atividade ou ação de tratamento de riscos;
+
+
+XIII –
+
+responsável pela aprovação (*Accountable* – A): autoridade responsável pela validação ou aprovação final da atividade, respondendo institucionalmente pelo resultado;
+
+
+XIV –
+
+consultado (*Consulted* – C): órgão, unidade ou agente que deve ser ouvido em razão de sua competência técnica ou legal; e
+
+
+XV –
+
+informado (*Informed* – I): órgão, unidade ou agente que deve ser cientificado da execução da atividade ou da evolução do risco, sem participação direta na sua execução.
+
+
+#### CAPÍTULO III — DA METODOLOGIA DE GESTÃO DE RISCOS
+
+
+Art. 4º.
+
+A metodologia de gestão de riscos do Município observará as seguintes etapas:
+
+
+I –
+
+conhecer o ambiente interno e externo e os objetivos organizacionais: essa fase é caracterizada pela identificação dos fundamentos e dos objetivos relativos ao processo, bem como pela definição dos contextos interno e externo que serão considerados na gestão de riscos;
+
+
+II –
+
+definir o apetite a riscos: a definição do apetite a riscos será realizada pelo Comitê Integrado de Governança, constituindo diretriz de observância obrigatória pelas instâncias responsáveis pela gestão de riscos;
+
+
+III –
+
+identificar os riscos: fase em que são levantados os riscos relativos aos processos do órgão, bem como suas causas e consequências;
+
+
+IV –
+
+analisar e avaliar os riscos: fase de compreensão da natureza do risco e determinação do seu nível de severidade, produto do impacto e probabilidade, seguida da comparação desse resultado com os critérios de apetite e tolerância estabelecidos para subsidiar a decisão sobre o tratamento e a avaliação da eficácia dos controles existentes;
+
+
+V –
+
+tratar os Riscos: fase em que são definidas as respostas aos riscos, com a elaboração de Planos de Ação com o escopo de manter a aderência dos níveis de risco aos ditames da Declaração de Apetite a Riscos do órgão; e
+
+
+VI –
+
+comunicar e monitorar os riscos: deve ocorrer em todas as fases do processo, caracterizada pelo intercâmbio de informações entre as instâncias de gestão de riscos, viabilizando a melhoria contínua e evolução da maturidade do órgão.
+
+
+#### CAPÍTULO IV — DO PROCESSO DE GESTÃO INTEGRADA DE RISCOS
+
+
+##### Seção I — Do Conhecer o Ambiente e os Objetivos
+
+
+Art. 5º.
+
+A etapa de conhecimento do ambiente e dos objetivos organizacionais compreende:
+
+
+I –
+
+identificação dos principais fatores do ambiente interno e externo;
+
+
+II –
+
+análise das partes interessadas;
+
+
+III –
+
+fixação dos objetivos; e
+
+
+IV –
+
+definição dos critérios de análise e avaliação dos riscos.
+
+
+Art. 6º.
+
+A etapa de conhecimento do ambiente e dos objetivos organizacionais será realizada sob duas perspectivas complementares:
+
+
+I –
+
+a abordagem estratégica, voltada à compreensão dos fatores que podem impactar o alcance dos objetivos institucionais, mediante análise de cenário, utilização de ferramentas como a matriz SWOT e realização de reuniões de alinhamento com a alta administração; e
+
+
+II –
+
+a abordagem de processos, direcionada ao entendimento do funcionamento das atividades organizacionais, por meio do mapeamento de macroprocessos e processos, com a aplicação de metodologias como 5W2H, BPMN e outras técnicas de modelagem, a fim de proporcionar visão sistêmica, identificar fragilidades e subsidiar, de forma estruturada, as etapas posteriores da gestão de riscos.
+
+
+##### Seção II — Da Definição do Apetite a Riscos
+
+
+Art. 7º.
+
+O apetite a riscos corresponde ao nível e ao tipo de riscos que a organização está disposta a assumir para alcançar seus objetivos, devendo estar alinhado à sua estratégia e orientar a tomada de decisão e a alocação de recursos.
+
+
+§ 1º
+
+A tolerância a riscos representa a variação aceitável em relação às metas, funcionando como limite de desvio do apetite a riscos.
+
+
+§ 2º
+
+O apetite a riscos deverá ser formalizado em Declaração específica, elaborada e aprovada pelo Comitê Integrado de Governança.
+
+
+§ 3º
+
+O apetite a riscos é dinâmico e deverá ser revisado periodicamente ou sempre que houver mudanças relevantes no contexto organizacional.
+
+
+##### Seção III — Da Identificação dos Riscos
+
+
+Art. 8º.
+
+A etapa de identificação de riscos na execução consiste no levantamento dos eventos potenciais que possam afetar o alcance dos objetivos estratégicos ou a execução dos macroprocessos e processos organizacionais.
+
+
+§ 1º
+
+Consideram-se riscos estratégicos aqueles que impactam os objetivos institucionais e riscos de processos aqueles que impactam a execução das atividades organizacionais.
+
+
+§ 2º
+
+A identificação dos riscos deverá observar as diretrizes da ABNT NBR ISO 31000:2018, contemplando a identificação das fontes de risco, áreas de impacto, eventos, causas e consequências potenciais, com a finalidade de gerar uma lista abrangente de riscos.
+
+
+Art. 9º.
+
+A identificação dos riscos deverá ser estruturada com base no trinômio causa, evento e consequência.
+
+
+§ 1º
+
+A causa corresponde à origem ou vulnerabilidade que possibilita a ocorrência do evento.
+
+
+§ 2º
+
+O evento corresponde à ocorrência ou mudança em um conjunto de circunstâncias.
+
+
+§ 3º
+
+A consequência corresponde ao efeito do evento sobre o alcance dos objetivos.
+
+
+##### Seção IV — Da Análise e Avaliação dos Riscos
+
+
+Art. 10.
+
+A etapa de análise de riscos consiste no processo de compreensão da natureza dos riscos identificados e na determinação de seu nível, de modo a subsidiar sua avaliação e eventual tratamento.
+
+
+§ 1º
+
+A análise de riscos será realizada com base na combinação entre a probabilidade de ocorrência do evento e o impacto de suas consequências sobre os objetivos da organização.
+
+
+§ 2º
+
+O nível de risco será expresso pelo resultado da multiplicação entre a probabilidade e o impacto, sendo o risco igual à probabilidade multiplicada pelo impacto, em que o risco corresponde ao resultado obtido.
+
+
+§ 3º
+
+O resultado da análise consistirá na atribuição de classificação a cada risco identificado, considerando separadamente os critérios de probabilidade e impacto.
+
+
+Art. 11.
+
+A probabilidade do risco deverá ser mensurada com base na frequência observada ou esperada de ocorrência do evento, conforme os seguintes parâmetros:
+
+
+I –
+
+peso 5: quando o evento for esperado na maioria das circunstâncias (≥ 90%);
+
+
+II –
+
+peso 4: quando o evento provavelmente ocorrer na maioria das circunstâncias (≥ 50% e &lt; 90%);
+
+
+III –
+
+peso 3: quando o evento puder ocorrer em algum momento (≥ 30% e &lt; 50%);
+
+
+IV –
+
+peso 2: quando o evento puder ocorrer em circunstâncias eventuais (≥ 10% e &lt; 30%); ou
+
+
+V –
+
+peso 1: quando o evento puder ocorrer apenas em circunstâncias excepcionais (&lt; 10%).
+
+
+Art. 12.
+
+O impacto do risco corresponde à medida das consequências decorrentes da materialização do evento, devendo ser mensurado de acordo com o grau de efeito sobre o atingimento dos objetivos estratégicos ou sobre as ações de gestão da organização.
+
+
+§ 1º
+
+A mensuração do impacto será realizada por meio da atribuição de pesos, conforme a intensidade dos efeitos produzidos pelo risco.
+
+
+§ 2º
+
+Para os riscos estratégicos, os pesos de impacto serão definidos da seguinte forma:
+
+
+I –
+
+peso 10: quando prejudicar totalmente o alcance dos objetivos estratégicos;
+
+
+II –
+
+peso 7: quando prejudicar em mais de cinquenta por cento o alcance dos objetivos estratégicos;
+
+
+III –
+
+peso 5: quando prejudicar parcialmente o alcance dos objetivos estratégicos;
+
+
+IV –
+
+peso 3: quando não houver prejuízo imediato ao alcance dos objetivos estratégicos, mas a situação demandar ação gerencial para prevenir impactos negativos; ou
+
+
+V –
+
+peso 1: quando não prejudicar o alcance dos objetivos estratégicos.
+
+
+§ 3º
+
+Para os riscos de processos, os pesos de impacto serão definidos da seguinte forma:
+
+
+I –
+
+peso 10: quando comprometer acentuadamente os objetivos do macroprocesso ou processo, afetando aspectos financeiros, prazos, imagem ou integridade;
+
+
+II –
+
+peso 7: quando comprometer os objetivos do macroprocesso ou processo, afetando aspectos financeiros, prazos ou imagem;
+
+
+III –
+
+peso 5: quando puder comprometer os objetivos do macroprocesso ou processo, afetando aspectos financeiros ou prazos;
+
+
+IV –
+
+peso 3: quando apresentar baixo impacto sobre os objetivos do macroprocesso ou processo; ou
+
+
+V –
+
+peso 1: quando o impacto for mínimo.
+
+
+§ 4º
+
+No caso dos riscos de processos, deverá ser considerada a categoria predominante do impacto, podendo abranger, entre outros, os aspectos de integridade, operacional, imagem ou reputação, orçamentário ou financeiro, comunicação e conformidade legal.
+
+
+Art. 13.
+
+Para cada risco identificado, deverão ser atribuídos os pesos de probabilidade e impacto, com vistas à apuração do risco, entendido como o resultado da combinação entre a probabilidade de ocorrência do evento e o impacto de suas consequências.
+
+
+§ 1º
+
+Após a determinação do valor do risco, deverá ser utilizada matriz de riscos para sua classificação qualitativa, com base nos níveis de severidade.
+
+
+§ 2º
+
+Os riscos serão classificados quanto ao nível de severidade da seguinte forma:
+
+
+I –
+
+extremo: quando o valor do risco for maior ou igual a 28;
+
+
+II –
+
+alto: quando o valor do risco for maior ou igual a 10 e menor que 28;
+
+
+III –
+
+médio: quando o valor do risco for maior ou igual a 5 e menor que 10; ou
+
+
+IV –
+
+baixo: quando o valor do risco for menor que 5.
+
+
+§ 3º
+
+O nível de severidade poderá ser influenciado pelo percentual de tolerância ou pelo apetite a risco definido pela organização.
+
+
+Art. 14.
+
+Os controles internos correspondem ao conjunto de políticas, normas, procedimentos e práticas adotados para mitigar riscos e assegurar o alcance dos objetivos organizacionais.
+
+
+§ 1º
+
+Os controles classificam-se em:
+
+
+I –
+
+preventivos, quando destinados a evitar a ocorrência de falhas, erros ou fraudes; ou
+
+
+II –
+
+contingenciais, quando destinados a responder a eventos de risco ocorridos, visando minimizar impactos.
+
+
+§ 2º
+
+A avaliação dos controles subsidiará a análise dos riscos, especialmente na definição de sua probabilidade e impacto.
+
+
+§ 3º
+
+Os controles serão classificados nos níveis forte, satisfatório, mediano, fraco e inexistente.
+
+
+Art. 15.
+
+A metodologia adotada considerará exclusivamente o risco residual, não sendo utilizado o conceito de risco inerente, entendido como aquele próprio da atividade ou do processo, independentemente da existência de controles.
+
+
+Parágrafo único
+
+A classificação dos riscos será realizada mediante a atribuição de pesos de probabilidade e impacto para todos os riscos identificados, por meio de reuniões periódicas com a Alta Administração, no caso de riscos estratégicos, e com os gestores dos macroprocessos ou processos, no caso de riscos de processos.
+
+
+Art. 16.
+
+Com base no apetite a riscos previamente definido, a organização deverá identificar os riscos que poderão ser aceitos e aqueles que deverão ser tratados ou minimizados.
+
+
+##### Seção V — Do Tratamento dos Riscos
+
+
+Art. 17.
+
+O tratamento de riscos consiste na seleção e implementação de medidas destinadas a modificar o nível de risco, mediante a redução de sua probabilidade ou impacto, bem como na elaboração de planos de ação que impliquem a criação, aprimoramento ou revisão de controles internos.
+
+
+§ 1º
+
+O tratamento de riscos poderá adotar as seguintes estratégias:
+
+
+I –
+
+evitar o risco, decisão de não realizar determinada atividade, eliminando o risco;
+
+
+II –
+
+aceitar o risco, assunção consciente do risco, sem adoção de medidas adicionais;
+
+
+III –
+
+reduzir ou mitigar o risco, adoção de medidas para diminuir a probabilidade ou o impacto do risco; ou
+
+
+IV –
+
+transferir o risco, compartilhamento do risco com terceiros.
+
+
+§ 2º
+
+A escolha da estratégia deverá considerar o equilíbrio entre custos e benefícios, os esforços de implementação, a possibilidade de geração de novos riscos e a viabilidade econômica das medidas adotadas.
+
+
+§ 3º
+
+Compete ao gestor identificar e selecionar as respostas aos riscos, de modo a reduzi-los a níveis aceitáveis, em conformidade com o apetite a riscos da organização.
+
+
+Art. 18.
+
+O apetite a riscos orientará a definição das respostas e dos controles a serem adotados, sendo classificado nos seguintes níveis:
+
+
+I –
+
+baixo (conservador), quando se admitem apenas riscos de baixa magnitude;
+
+
+II –
+
+médio (moderado), quando se admitem riscos de baixa e média magnitude; ou
+
+
+III –
+
+alto (arrojado), quando se admitem riscos de baixa, média e alta magnitude.
+
+
+§ 1º
+
+As respostas aos riscos correspondem aos controles internos estabelecidos ou ajustados pelos gestores, por meio de planos de ação, com a finalidade de assegurar o alcance dos objetivos organizacionais e a adequada utilização dos recursos.
+
+
+§ 2º
+
+A eficácia e a eficiência dos controles adotados deverão refletir na redução da severidade dos riscos.
+
+
+Art. 19.
+
+A definição do nível de controle deverá observar a classificação do risco, considerando-se que riscos altos ou extremos demandam controles mais rigorosos, enquanto riscos baixos ou médios admitem controles proporcionais.
+
+
+§ 1º
+
+Em situações específicas, poderá ser dispensada a implementação de controles ou promovida a sua revisão ou retirada, mediante justificativa técnica.
+
+
+§ 2º
+
+A estratégia de tratamento de riscos poderá ser alterada mediante justificativa do gestor e aprovação das instâncias de supervisão da Alta Administração.
+
+
+##### Seção VI — Do Monitoramento dos Riscos
+
+
+Art. 20.
+
+A etapa de monitoramento dos riscos constitui parte integrante e essencial do processo de gestão de riscos, nos termos da ISO 31000 e tem por finalidade:
+
+
+I –
+
+detectar mudanças no contexto interno e externo, inclusive alterações nos critérios de risco e nos próprios riscos, que possam demandar a revisão dos tratamentos adotados e suas prioridades, bem como a identificação de riscos emergentes;
+
+
+II –
+
+obter informações adicionais para o aprimoramento da política, da estrutura e do processo de gestão de riscos;
+
+
+III –
+
+analisar eventos, incluindo quase incidentes, mudanças, tendências, sucessos e fracassos, de modo a promover o aprendizado organizacional; e
+
+
+IV –
+
+assegurar que os controles sejam eficazes e eficientes, tanto em seu desenho quanto em sua operação.
+
+
+Parágrafo único
+
+O monitoramento dos riscos deverá fornecer informações atualizadas, com o objetivo de identificar fragilidades, oportunidades de melhoria e verificar o desempenho e a eficiência dos planos de ação implementados, considerando que os riscos são dinâmicos e sujeitos a alterações ao longo do tempo, devendo ser continuamente acompanhados para permitir a adoção tempestiva de ajustes necessários, integrando todas as etapas do processo de gestão de riscos.
+
+
+Art. 21.
+
+Compete ao Comitê Integrado de Governança supervisionar o monitoramento da evolução dos riscos e acompanhar a implementação dos respectivos planos de ação.
+
+
+§ 1º
+
+O Plano de Ação deverá contemplar, no mínimo:
+
+
+I –
+
+a descrição do que será realizado;
+
+
+II –
+
+o controle a ser implementado ou aperfeiçoado;
+
+
+III –
+
+a unidade responsável pela implementação;
+
+
+IV –
+
+o responsável pelo acompanhamento;
+
+
+V –
+
+a estimativa de custos; e
+
+
+VI –
+
+o cronograma de execução.
+
+
+§ 2º
+
+Os Planos de Ação deverão conter, obrigatoriamente, a identificação dos responsáveis pela execução, aprovação, consulta e acompanhamento das ações de tratamento dos riscos, mediante utilização da Matriz de Responsabilidades (RACI), observados os princípios da segregação de funções e da *accountability*.
+
+
+##### Seção VII — Da Comunicação do Risco
+
+
+Art. 22.
+
+Durante todas as etapas do processo de gestão de riscos, deverá ser assegurada comunicação efetiva, de caráter informativo e consultivo, entre a organização e as partes interessadas internas e externas, com os objetivos de:
+
+
+I –
+
+auxiliar no estabelecimento adequado do contexto, assegurando que as percepções, necessidades, suposições, conceitos e preocupações das partes interessadas sejam identificadas, registradas e consideradas;
+
+
+II –
+
+contribuir para a adequada identificação e análise dos riscos, mediante a integração de diferentes áreas de especialização; e
+
+
+III –
+
+garantir que todos os envolvidos estejam cientes de seus papéis e responsabilidades, bem como apoiem e validem as ações de tratamento dos riscos.
+
+
+Parágrafo único
+
+A organização deverá utilizar canais de comunicação adequados para apoiar o gerenciamento de riscos e promover a cultura e o desempenho da gestão de riscos em toda a instituição, assegurando que a comunicação seja oportuna, clara e adequada, compreendida como um fluxo contínuo de informações em todas as direções, inclusive dos níveis superiores aos subordinados e vice-versa.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 23.
+
+Constituem instâncias da gestão de riscos no âmbito do Poder Executivo Municipal:
+
+
+I –
+
+o Comitê Integrado de Governança – CIG, responsável por estabelecer diretrizes estratégicas, aprovar o apetite e os limites globais de exposição a riscos da Administração Municipal, promover a coerência das políticas de governança, gestão de riscos e controles internos, bem como supervisionar a gestão de riscos em nível estratégico e interorganizacional, cujo perfil é o de Governança de Riscos;
+
+
+II –
+
+os Comitês Internos de Governança dos órgãos e entidades, responsáveis por liderar, orientar e supervisionar a institucionalização da gestão de riscos e dos controles internos no âmbito de suas respectivas unidades, aprovar e acompanhar os planos de tratamento dos riscos, supervisionar o mapeamento e a avaliação dos riscos-chave, estabelecer limites de exposição a riscos no âmbito institucional e assegurar o alinhamento da gestão de riscos aos objetivos estratégicos e institucionais, cujo perfil é o de Governança de Riscos;
+
+
+III –
+
+a Alta Administração dos órgãos e entidades, responsável por assegurar a implementação da gestão de riscos, prover os recursos necessários, promover o alinhamento com os objetivos institucionais e apoiar a tomada de decisões baseadas em riscos, cujo perfil é o de Alta Administração;
+
+
+IV –
+
+os gestores de macroprocessos e processos, responsáveis pela identificação, análise, avaliação, tratamento e monitoramento dos riscos no âmbito de suas áreas de atuação, bem como pela elaboração e execução dos respectivos planos de ação, cujo perfis são os de Gestor de Riscos, Proprietário de Riscos e Monitor de Riscos;
+
+
+V –
+
+as unidades executoras de controle interno, responsáveis por orientar e apoiar tecnicamente a efetividade da gestão de riscos e dos controles internos, promovendo recomendações para seu aperfeiçoamento, cujo perfil é o de Gestor de Acessos;
+
+
+VI –
+
+Órgão Central de Controle Interno, responsável por realizar avaliações independentes sobre a adequação e a efetividade da gestão de riscos e dos controles internos, sem prejuízo da autonomia técnica necessária ao exercício de suas funções, cujo perfil é o de Auditoria; e
+
+
+VII –
+
+as demais unidades organizacionais, responsáveis por colaborar com a identificação, análise, avaliação e tratamento dos riscos, no âmbito de suas competências e atribuições.
+
+
+Art. 24.
+
+Fica instituída a elaboração e aplicação da Matriz de Responsabilidades (RACI) em todos os macroprocessos, processos e atividades desenvolvidos no âmbito da Administração Pública Direta e Indireta do Município, como instrumento integrado à metodologia de gestão de riscos.
+
+
+§ 1º
+
+Todos os macroprocessos, processos e atividades desenvolvidos pelos órgãos e entidades do Poder Executivo Municipal deverão possuir Matriz de Responsabilidades (RACI), integrada ao respectivo Mapa de Riscos.
+
+
+§ 2º
+
+Compete aos titulares dos órgãos e entidades indicar formalmente os responsáveis pela execução e aprovação das atividades previstas nas Matrizes RACI de suas respectivas unidades.
+
+
+§ 3º
+
+Nos processos transversais que envolvam mais de um órgão ou entidade, as Matrizes RACI deverão ser pactuadas conjuntamente entre os respectivos titulares.
+
+
+§ 4º
+
+É vedada a cumulação, em um mesmo agente público, das atribuições de Execução (R) e Aprovação (A) em atividades críticas, quando houver potencial conflito de interesses ou comprometimento da independência dos controles internos.
+
+
+Art. 25.
+
+A metodologia de gestão de riscos deverá ser aplicada nos processos organizacionais, programas, projetos e atividades dos órgãos e entidades órgãos e entidades do Poder Executivo Municipal, com base no Guia Metodológico de Gestão Integrada de Riscos, elaborado pela CGE-MG.
+
+
+Art. 26.
+
+A metodologia de gestão de riscos do Município de Porto Velho será implementada por meio do Sistema de Gestão Integrada de Riscos – UAI Risk, *software* governamental desenvolvido pela CGE-MG.
+
+
+Art. 27.
+
+O Comitê Integrado de Governança e a Controladoria Geral do Município poderão expedir normas complementares, manuais, modelos padronizados e orientações técnicas para implementação da metodologia de gestão de riscos e das Matrizes de Responsabilidades (RACI).
+
+
+Art. 28.
+
+A implementação da metodologia deverá ocorrer de forma gradual, priorizando processos críticos e áreas estratégicas da Administração Municipal.
+
+
+Art. 29.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito

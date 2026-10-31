@@ -1,0 +1,30 @@
+DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR NO IMPORTE DE R$ 383.000,00 (TREZENTOS E OITENTA E TRÊS MIL REAIS) e dá outras providências.
+
+
+O povo por seus representantes aprova e o prefeito municipal sanciona a seguinte lei:
+
+
+Art. 1º.
+
+Fica autorizada a abertura, por decreto, de crédito adicional suplementar, no importe de R$ 383.000,00 (trezentos e oitenta e três mil reais), às seguintes dotações do orçamento vigente:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><strong>FICHA</strong></td><td><strong>DOTAÇÃO</strong></td><td><strong>VALOR</strong></td></tr><tr><td>64</td><td>02.02.01.04.181.0601.2.017.3.3.30.30.00 </td><td>3.000,00</td></tr><tr><td>65</td><td>02.02.01.04.181.0601.2.017.3.3.30.39.00</td><td>3.000,00</td></tr><tr><td>139</td><td>02.04.03.12.365.1204.1.017.4.4.90.51.02</td><td>50.000,00</td></tr><tr><td>141</td><td>02.04.03.12.365.1204.1.019.4.4.90.51.02</td><td>50.000,00</td></tr><tr><td>161</td><td>02.04.05.12.361.1202.1.021.4.4.90.51.02</td><td>20.000,00</td></tr><tr><td>232</td><td>02.05.01.15.451.1501.1.029.4.4.90.51.01</td><td>100.000,00</td></tr><tr><td>350</td><td>02.08.02.10.302.1005.2.082.3.3.90.14.00</td><td>8.000,00</td></tr><tr><td>369</td><td>02.08.02.10.302.1006.2.085.3.3.90.48.00</td><td>5.000,00</td></tr><tr><td>375</td><td>02.08.02.10.303.1006.2.087.3.3.90.32.00</td><td>30.000,00</td></tr><tr><td>434</td><td>02.09.02.08.244.0801.2.104.3.3.90.32.00</td><td>10.000,00</td></tr><tr><td>134</td><td>02.04.02.12.361.1202.2.032.3.3.90.39.00</td><td>40.000,00</td></tr><tr><td> </td><td>01.01.01.031.0001.1002.4.4.90.52(Equip. e Mat. Perman.</td><td>9.000,00</td></tr><tr><td> </td><td>01.01.01.031.0001.2001.3.1.90.11(Venc. Vantag. Fixas P.Civil) </td><td>30.000,00</td></tr><tr><td> </td><td>01.01.01.031.0001.2003.3.3.90.30 (Material de Consumo </td><td>5.000,00</td></tr><tr><td> </td><td>01.01.01.031.0001.2004.3.3.90.36(out. serv. Terc. P. física) </td><td>5.000,00</td></tr><tr><td> </td><td>01.01.01.031.0001.2005.3.3.90.39(out.serv. terc. P. Juridica) </td><td>15.000,00</td></tr><tr><td> </td><td><strong>VALOR TOTAL </strong></td><td><strong>383.000,00</strong></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Para acorrer ao disposto no artigo anterior, ficam anuladas, no importe do valor do crédito adicional suplementar, as seguintes dotações do orçamento vigente:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><strong>FICHA </strong></td><td><strong>DOTAÇÃO</strong></td><td><strong>VALOR</strong></td></tr><tr><td>123</td><td>02.04.02.12.361.1202.2.031.3.1.90.16.00</td><td>2.000,00</td></tr><tr><td>159</td><td>02.04.05.12.272.0901.2.038.3.1.90.13.00 </td><td>1091.200,00</td></tr><tr><td>285</td><td>02.07.01.20.122.0405.2.064.3.3.90.35.00 </td><td>1.000,00</td></tr><tr><td>290</td><td>02.07.01.20.543.2002.2.067.3.3.90.30.00 </td><td>15.000,00</td></tr><tr><td>302</td><td>02.07.01.20.606.2005.2.071.3.3.90.36.00 </td><td>3.000,00</td></tr><tr><td>304</td><td>02.08.01.10.122.0403.2.073.3.3.90.36.00 </td><td>2.000,00</td></tr><tr><td>305</td><td>02.08.01.10.122.0403.2.073.3.3.90.39.00 </td><td>3.000,00</td></tr><tr><td>315</td><td>02.08.01.10.122.0405.2.074.3.3.90.92.00 </td><td>1.120,00</td></tr><tr><td>357</td><td>02.08.02.10.302.1005.2.083.3.3.90.14.00 </td><td>1.000,00</td></tr><tr><td>361</td><td>02.08.02.10.302.1006.1.060.4.4.90.52.02 </td><td>1.000,00</td></tr><tr><td>383</td><td>02.08.02.10.305.1007.2.089.3.3.90.36.00</td><td>2.000,00</td></tr><tr><td>384</td><td>02.08.02.10.305.1007.2.089.3.3.90.39.00 </td><td>2.000,00</td></tr><tr><td>395</td><td>02.08.02.10.306.1008.2.092.3.3.90.30.00 </td><td>500,00</td></tr><tr><td>397</td><td>02.08.02.10.306.1008.2.092.3.3.90.39.00 </td><td>539,00</td></tr><tr><td>398</td><td>02.09.01.08.122.0405.1.061.4.4.90.52.02 </td><td>15.000,00</td></tr><tr><td>418</td><td>02.09.02.08.243.0803.1.064.4.4.90.51.02 </td><td>34.000,00</td></tr><tr><td>432</td><td>02.09.02.08.244.0801.2.103.3.3.90.36.00 </td><td>10.000,00</td></tr><tr><td>453</td><td>02.09.02.08.421.0803.2.119.3.3.90.32.00 </td><td>3.000,00</td></tr><tr><td>454</td><td>02.09.02.08.421.0803.2.119.3.3.90.36.00 </td><td>10.000,00</td></tr><tr><td>456</td><td>02.09.02.08.421.0803.2.120.3.3.90.36.00 </td><td>8.000,00</td></tr><tr><td>458</td><td>02.11.01.28.843.0000.2.123.4.6.90.71.00 </td><td>6.000,00</td></tr><tr><td>27</td><td>02.01.01.04.272.0401.2.006.3.1.90.13.00 </td><td>3.641,00</td></tr><tr><td>70</td><td>02.02.01.04.272.0901.2.020.3.1.90.13.00 </td><td>5.000,00</td></tr><tr><td>96</td><td>02.03.01.04.272.0901.2.024.3.1.90.13.00 </td><td>11.000,00</td></tr><tr><td>419</td><td>02.09.02.08.243.0803.1065.4.4.90.51.02 </td><td>21.500,00</td></tr><tr><td>15</td><td>02.01.01.04.122.0401.2003.3.3.90.14.00 </td><td>15.000,00</td></tr><tr><td>113</td><td>2.04.02.12.361.1202.1012.4.4.90.52.02 </td><td>17.000,00</td></tr><tr><td>114</td><td>02.04.02.12.361.1202.1012.4.5.90.52.02 </td><td>24.500,00</td></tr><tr><td> </td><td>01.01.01.031.0001.1001.4.4.90.51(Obras e Instal) </td><td>55.000,00</td></tr><tr><td> </td><td>01.01.01.031.0001.2002.3.1.90.13(Obrig. Patron)</td><td>9.000,00</td></tr><tr><td> </td><td><strong>VALOR TOTAL DA ANULAÇÃO</strong></td><td><strong>383.000,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Revogadas as disposições em contrário, esta lei entra em vigor na data de sua publicação.
+
+
+Buritis - MG, 20 de setembro de 2002.
+
+**JOSÉ VICENTE DAMASCENO Prefeito Municipal**
+
+Autoria: Executivo Municipal

@@ -1,0 +1,106 @@
+{
+  "host": "sapl.senadorjosebento.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/anexos_loa_2020_lei_740.pdf da norma Lei nº 740, de 06 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "LEI ORÇAMENTÁRIA ANUAL - 2020",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2019/1/anexos_loa_2020_lei_740.pdf",
+      "ano": 2019,
+      "norma": 17
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/2/anexo.pdf da norma Lei nº 683, de 05 de maio de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV da lei Municipal 586 de 2010 - tabela de vencimentos.",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2016/2/anexo.pdf",
+      "ano": 2016,
+      "norma": 21
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/3/lei_674_pag_7_a_63_anexos.pdf da norma Lei nº 674, de 24 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Metas e estratégias\r\nAnexo II - Indicadores para monitoramento e avaliação da evolução das metas do PME",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2015/3/lei_674_pag_7_a_63_anexos.pdf",
+      "ano": 2015,
+      "norma": 61
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/4/lei_674_pag_64_a_74_anexo.pdf da norma Lei nº 674, de 24 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - diagnóstico",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2015/4/lei_674_pag_64_a_74_anexo.pdf",
+      "ano": 2015,
+      "norma": 61
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/5/lei_de_diretrizes_orcamentarias_pag_25_a_35.pdf da norma Lei nº 614, de 07 de julho de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2011/5/lei_de_diretrizes_orcamentarias_pag_25_a_35.pdf",
+      "ano": 2011,
+      "norma": 118
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/6/604_lei_orcamentaria_pag_38_a_95.pdf da norma Lei nº 604, de 22 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "\"Estima a receita e fixa a despesa do Município de Senador José Bento para o exercício financeiro de 2011.\"",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2010/6/604_lei_orcamentaria_pag_38_a_95.pdf",
+      "ano": 2010,
+      "norma": 128
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/7/lei_523_pag_56_a_66.pdf da norma Lei nº 523, de 25 de maio de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Continuação do Anexo VII da lei 523, página 56 a 66",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2007/7/lei_523_pag_56_a_66.pdf",
+      "ano": 2007,
+      "norma": 132
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/8/anexo_i_ao_anexo_vi_lei_586.pdf da norma Lei Complementar nº 586, de 02 de março de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I , II , III , IV E V DA LEI 586/2010",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2010/8/anexo_i_ao_anexo_vi_lei_586.pdf",
+      "ano": 2010,
+      "norma": 139
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/9/anexo_vi_da_lei_586.pdf da norma Lei Complementar nº 586, de 02 de março de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI DA LEI 586/2010",
+      "anexo_arquivo": "http://sapl.senadorjosebento.mg.leg.br/media/sapl/public/anexonormajuridica/2010/9/anexo_vi_da_lei_586.pdf",
+      "ano": 2010,
+      "norma": 139
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.senadorjosebento.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.senadorjosebento.mg.leg.br/415623a2bf9dbc8fc61a549db49611eabd7ecc258e206d80669da53c669cfda2.json",
+      "sha256": "54ff7cac72829c5c767d2a3133b6898cb92d31083c5a14d4cbb80be26740e9eb",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.senadorjosebento.mg.leg.br/415623a2bf9dbc8fc61a549db49611eabd7ecc258e206d80669da53c669cfda2.meta.json"
+    }
+  ],
+  "total": 9
+}

@@ -1,0 +1,322 @@
+{
+  "host": "sapl.saofranciscodoguapore.ro.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/1/lei_municipal_no.368-2007_-_termo_de_doacao.pdf da norma Lei Municipal nº 368, de 05 de março de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "TERMO DE DOAÇÃO",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2007/1/lei_municipal_no.368-2007_-_termo_de_doacao.pdf",
+      "ano": 2007,
+      "norma": 445
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/ata_da_15a_sessao_ordinaria_de_2023_-_05-06-23.pdf da norma Decreto Legislativo nº 2, de 06 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão que aprovou o Decreto Legislativo nº.01 de 2023, aprovando assim as contas do Município de São Francisco do Guaporé, exercício financeiro de 2021.",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2023/2/ata_da_15a_sessao_ordinaria_de_2023_-_05-06-23.pdf",
+      "ano": 2023,
+      "norma": 2280
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/ata_da_11._sessao_ordinaria_2022_09_05.pdf da norma Decreto Legislativo nº 4, de 10 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão que aprovou o Decreto Legislativo nº.01 de 2022, aprovando assim as contas do Município de São Francisco do Guaporé, exercício financeiro de 2019.",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2022/3/ata_da_11._sessao_ordinaria_2022_09_05.pdf",
+      "ano": 2022,
+      "norma": 2279
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/lei_2.489_loa_anexos.pdf da norma Lei Municipal nº 2.489, de 26 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA para o exercício de 2025.",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2024/5/lei_2.489_loa_anexos.pdf",
+      "ano": 2024,
+      "norma": 2622
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/anexo_lei_municipal_2443-2024.pdf da norma Lei Municipal nº 2.443, de 10 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2024/6/anexo_lei_municipal_2443-2024.pdf",
+      "ano": 2024,
+      "norma": 2575
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/7/orcamento_2024_-_anexo_lei_completo.pdf da norma Lei Municipal nº 2.316, de 22 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo do Orçamento para o Exercício 2024.",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2023/7/orcamento_2024_-_anexo_lei_completo.pdf",
+      "ano": 2023,
+      "norma": 2425
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/anexo_-_ppa__2026_assinado.pdf da norma Lei Municipal nº 2.655, de 18 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Agnielde Benici Adorno",
+                [
+                  "2025-12-17T11:27:36-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Alessandra Varelo de Brito",
+                [
+                  "2025-12-17T11:26:56-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Braz Carlos Correia",
+                [
+                  "2025-12-17T11:28:12-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Eber Lopes Reis",
+                [
+                  "2025-12-17T11:31:39-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Geferson dos Santos",
+                [
+                  "2025-12-17T11:24:41-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Jorge Antonio Honorato de Souza",
+                [
+                  "2025-12-17T11:28:53-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Marcio Domingos dos Santos",
+                [
+                  "2025-12-17T11:29:47-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Marcio Souza Magalhaes",
+                [
+                  "2025-12-17T11:32:37-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Ozias Alves dos Santos",
+                [
+                  "2025-12-17T11:30:37-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2025/8/anexo_-_ppa__2026_assinado.pdf",
+      "ano": 2025,
+      "norma": 2825
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/anexo_-_ldo__2026_assinado.pdf da norma Lei Municipal nº 2.656, de 18 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Agnielde Benici Adorno",
+                [
+                  "2025-12-17T11:36:35-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Alessandra Varelo de Brito",
+                [
+                  "2025-12-17T11:36:02-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Braz Carlos Correia",
+                [
+                  "2025-12-17T11:37:11-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Eber Lopes Reis",
+                [
+                  "2025-12-17T11:40:59-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Geferson dos Santos",
+                [
+                  "2025-12-17T11:35:24-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Jorge Antonio Honorato de Souza",
+                [
+                  "2025-12-17T11:37:54-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Marcio Domingos dos Santos",
+                [
+                  "2025-12-17T11:39:25-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Marcio Souza Magalhaes",
+                [
+                  "2025-12-17T11:42:51-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Ozias Alves dos Santos",
+                [
+                  "2025-12-17T11:40:12-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2025/9/anexo_-_ldo__2026_assinado.pdf",
+      "ano": 2025,
+      "norma": 2826
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/anexo_-_loa_2026_assinado.pdf da norma Lei Municipal nº 2.657, de 19 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Agnielde Benici Adorno",
+                [
+                  "2025-12-17T09:41:17-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Alessandra Varelo de Brito",
+                [
+                  "2025-12-17T09:40:00-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Braz Carlos Correia",
+                [
+                  "2025-12-17T09:41:53-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Eber Lopes Reis",
+                [
+                  "2025-12-17T09:44:54-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Jorge Antonio Honorato de Souza",
+                [
+                  "2025-12-17T09:42:37-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Marcio Domingos dos Santos",
+                [
+                  "2025-12-17T09:43:16-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Marcio Souza Magalhaes",
+                [
+                  "2025-12-17T09:39:28-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Ozias Alves dos Santos",
+                [
+                  "2025-12-17T09:44:05-04:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2025/10/anexo_-_loa_2026_assinado.pdf",
+      "ano": 2025,
+      "norma": 2827
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/orcamento_2025_-_anexo_lei.pdf da norma Lei Municipal nº 2.501, de 07 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saofranciscodoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2025/11/orcamento_2025_-_anexo_lei.pdf",
+      "ano": 2025,
+      "norma": 2642
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.saofranciscodoguapore.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saofranciscodoguapore.ro.leg.br/eef1812b239ba87d947611ca66fb88d3327a6d0d66e331577da861d6a616c5aa.json",
+      "sha256": "7b95aff2cb94f73f89097e608a7cbe0af7c22ae4d76b555f977597ec3e5b1019",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saofranciscodoguapore.ro.leg.br/eef1812b239ba87d947611ca66fb88d3327a6d0d66e331577da861d6a616c5aa.meta.json"
+    }
+  ],
+  "total": 10
+}

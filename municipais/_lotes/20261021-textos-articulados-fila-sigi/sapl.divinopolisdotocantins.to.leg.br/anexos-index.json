@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/doe_-_no_015_-_02-10-2026.pdf da norma Portaria-CMD nº 41, de 01 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.divinopolisdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/1/doe_-_no_015_-_02-10-2026.pdf",
+      "ano": 2026,
+      "norma": 157
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolisdotocantins.to.leg.br/5aece493ce7db237359fba92ddcd631dd2fe7d6343dc2090b3d2539dc8989048.json",
+      "url": "https://sapl.divinopolisdotocantins.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.divinopolisdotocantins.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "aafacdcdb7b669c3d0930c259b804c1161f6f22117363e1a114310e8b8aa8397",
+      "bytes": 577,
+      "capturado_em": "2026-10-28T09:48:13.716661-03:00"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+---
+titulo: "Lei Ordinária nº 1.170, de 25 de setembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1170"
+data: "2020-09-25"
+municipio: "Iconha"
+uf: "ES"
+codigo_ibge: "3202603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.iconha.es.leg.br/norma/1149"
+fonte_texto: "https://sapl.iconha.es.leg.br/ta/388/text"
+sha256_fonte: "1d5c80fef6f76d9ce061ea6b4f8cb4109e31ce034f9c08fa555f82ce75b9593d"
+sha256_texto: "16ef20b59b2d48d6fdaaf165a847f9d95e0125855b0f113f6e6c595e86074cf7"
+capturado_em_fonte: "2026-10-28T14:06:49.729550-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.170, de 25 de setembro de 2020
+
+REGULA PLANTÃO O FUNCIONAMENTO E DE ATENDIMENTO 24 INSTITUI O HORAS PARA FARMÁCIAS E DROGARIAS NO MUNICÍPIO E DÁ OUTRAS PROVIDENCIAS.
+
+
+o vice presidente da Câmara Municipal de Iconha, Estado do Espírito Santo, usando das atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei.
+
+
+Art. 1º.
+
+Fica instituído o plantão das farmácias e drogarias, sendo obrigatório o seu cumprimento, em sistema de rodízio, pelos estabelecimentos que funcionam ou funcionarão no Bairro Centro da sede do Município de Iconha-ES.
+
+
+§ 1º
+
+As farmácias e drogarias que se localizarem nos bairros próximos ao centro da cidade e demais localidades do Município, consideradas como tal drogarias e/ou farmácias de bairro, ficam livres para funcionar, caso queiram, por 24 horas, todos os dias, devendo, sempre que estiverem fechadas, afixar um informativo dizendo quais as farmácias/drogarias que estão de plantão no Município, naquele período.
+
+
+§ 2º
+
+Os novos estabelecimentos que vierem a se enquadrar nesta categoria comercial após a implantação do sistema de rodízio instituído por esta Lei, instaladas no Bairro Centro, deverão participar do referido sistema, a partir do mês de janeiro do ano subsequente à sua instalação.
+
+
+§ 3º
+
+As farmácias de Manipulação, Alopáticas e Homeopáticas não fazem parte do serviço de plantão de atendimento 24 horas.
+
+
+Art. 2º.
+
+O horário de funcionamento diário das farmácias e drogarias localizadas no Bairro Centro deste Município poderá ser das 07:00 horas às 20:00 horas, de segunda-feira a sábado.
+
+
+Art. 3º.
+
+O estabelecimento que estiver de plantão manterá suas portas abertas, obrigatoriamente, das 07:00 às 22:00 horas e, a partir deste horário, será facultado a cada plantonista manter ou não as portas abertas, podendo atender através de um vão ou janela existente na porta até às 07:00 horas do dia seguinte.
+
+
+Parágrafo único
+
+As farmácias ou drogarias que estiverem de plantão deverão informar à população, por meio de cartazes distribuídos a todos os outros estabelecimentos do ramo instalados no Município, às Unidades de Saúde e ao Hospital e Maternidade Danilo Monteiro de Castro, desta cidade, podendo, caso queiram, ampliar a divulgação com outras formas além das previstas, a critério do proprietário.
+
+
+Art. 4º.
+
+O plantão será realizado a cada rodízio por 01 (um) estabelecimento farmacêutico, iniciando-se às 07:00 horas na segunda-feira e terminando em igual dia e hora da semana seguinte, incluindo neste rodízio os domingos e feriados.
+
+
+Parágrafo único
+
+Para cada plantão previsto no "caput" deste artigo, a Secretaria/Setor responsável irá escolher outro estabelecimento em sistema de rodízio para complementar o plantão, de forma estratégica, para melhor cobertura da área do Bairro Centro o qual funcionará das 07:00 às 22:00 horas, iniciando na segunda-feira e terminando em igual dia da semana seguinte, incluindo domingos e feriados.
+
+
+Art. 5º.
+
+Qualquer estabelecimento escalonado ao plantão poderá, desde que de comum acordo com outro estabelecimento, ceder seu plantão a este, protocolizando um documento que comprove esta cessão, assinado por ambas as partes, com 12 (doze) dias de antecedência ao início do referido plantão, dirigido a Secretaria/Setor responsável.
+
+
+Art. 6º.
+
+Fica a cargo de Secretaria/Setor designado pelo Prefeito a fiscalização do cumprimento integral desta Lei no prazo de 30 (trinta) dias, após entrar em vigor e bem como estabelecer anualmente escala de plantão, adotando sistema de rodízio por sorteio ou acordo assinado pelos responsáveis de todas as drogarias situadas no Centro deste Município, que deve ser protocolizado e encaminhado a Secretaria/Setor responsável com 30 (trinta) dias de antecedência ao início da rodada dos plantões.
+
+
+Art. 7º.
+
+Constitui infração a esta Lei fechar ou abrir farmácia ou drogaria em desacordo com os horários estabelecidos ou, ainda, deixar de funcionar em dia de escala ou não atender ao plantão para o qual esteja designada.
+
+
+Art. 8º.
+
+O descumprimento dos dispositivos desta Lei, por parte dos estabelecimentos, implicará na lavratura do Auto de Infração que culminará, com a seguinte ordem de penalidades:
+
+
+I –
+
+Na primeira Autuação - Advertência por escrito.
+
+
+II –
+
+Na segunda Autuação - Multa.
+
+
+III –
+
+Na terceira Autuação - Multa em dobro.
+
+
+IV –
+
+Na quarta Autuação - Cassação da Licença sanitária por 30 dias.
+
+
+V –
+
+Na quinta Autuação - Cassação da Licença Sanitária por 90 dias.
+
+
+VI –
+
+Na sexta Autuação - Cassação da Licença Sanitária em definitivo.
+
+
+§ 1º
+
+O valor da multa e o sistema de cobrança serão regulamentados pelo Município por meio de Decreto.
+
+
+§ 2º
+
+Fica assegurado ao infrator o contraditório e ampla defesa, apresentando recurso no prazo de 05 (cinco) dias úteis, contados a partir da instauração do processo administrativo.
+
+
+Art. 9º.
+
+Todos os cidadãos são partes legítimas para oferecer denúncia de inobservância desta lei junto ao órgão fiscalizador.
+
+
+Art. 10.
+
+Esta lei entra em vigor depois de decorridos 60 (sessenta) dias de sua publicação, revogando as disposições em contrário.
+
+
+Gabinete da Presidência, Iconha-ES, 25 de setembro de 2020.  
+  
+  
+  
+  
+  
+**Marcelo Lovati Macarini Alan da Silva Lovatti**  
+Presidente da Mesa Diretora Vice-Presidente da Mesa Diretora  
+  
+  
+  
+**Luis Carlos Smider**  
+Secretário Geral da Mesa Diretora
+

@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdapenha.mg.leg.br/e38c3ed76b509c6a3179b5f993ca38b9cbcdf537e230582ecc4fba4e2e91126b.json",
+      "url": "https://sapl.bomjesusdapenha.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bomjesusdapenha.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T19:35:09.554076-03:00"
+    }
+  ]
+}

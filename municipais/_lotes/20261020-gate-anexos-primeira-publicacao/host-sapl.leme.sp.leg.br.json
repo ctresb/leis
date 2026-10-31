@@ -1,0 +1,3317 @@
+{
+  "host": "sapl.leme.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/imprensa_oficial_no_3546.pdf da norma Lei nº 4.307, de 12 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Imprensa.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/1/imprensa_oficial_no_3546.pdf",
+      "ano": 2024,
+      "norma": 2799
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/imprensa_oficial_no_3546.pdf da norma Lei nº 4.306, de 12 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/2/imprensa_oficial_no_3546.pdf",
+      "ano": 2024,
+      "norma": 2798
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/64f328196b9a4fa05e595fb22e5c1906.pdf da norma Lei nº 4.301, de 03 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/3/64f328196b9a4fa05e595fb22e5c1906.pdf",
+      "ano": 2024,
+      "norma": 2793
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/be6ae70d6c64471386fd111e6fbc03a0.pdf da norma Lei nº 4.302, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/4/be6ae70d6c64471386fd111e6fbc03a0.pdf",
+      "ano": 2024,
+      "norma": 2794
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/be6ae70d6c64471386fd111e6fbc03a0.pdf da norma Lei nº 4.303, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/5/be6ae70d6c64471386fd111e6fbc03a0.pdf",
+      "ano": 2024,
+      "norma": 2795
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/be6ae70d6c64471386fd111e6fbc03a0.pdf da norma Lei nº 4.304, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/6/be6ae70d6c64471386fd111e6fbc03a0.pdf",
+      "ano": 2024,
+      "norma": 2796
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/f86dce5b6897bb25ffb5090cc1a90b8e.pdf da norma Lei nº 4.274, de 01 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/7/f86dce5b6897bb25ffb5090cc1a90b8e.pdf",
+      "ano": 2024,
+      "norma": 1543
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/206a578898465bc83658f43571855c6a.pdf da norma Lei Complementar nº 914, de 04 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/8/206a578898465bc83658f43571855c6a.pdf",
+      "ano": 2024,
+      "norma": 3049
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/4267_4268.pdf da norma Lei nº 4.268, de 07 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/9/4267_4268.pdf",
+      "ano": 2024,
+      "norma": 1417
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/imprensa_oficial__numero_3572_.pdf da norma Lei nº 4.317, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/10/imprensa_oficial__numero_3572_.pdf",
+      "ano": 2024,
+      "norma": 3146
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/imprensa_oficial__numero_3572_.pdf da norma Lei nº 4.316, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/11/imprensa_oficial__numero_3572_.pdf",
+      "ano": 2024,
+      "norma": 3145
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/206a578898465bc83658f43571855c6a.pdf da norma Lei nº 4.315, de 03 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/12/206a578898465bc83658f43571855c6a.pdf",
+      "ano": 2024,
+      "norma": 3047
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/imprensa_oficial_numero_3587_.pdf da norma Lei nº 4.318, de 13 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/13/imprensa_oficial_numero_3587_.pdf",
+      "ano": 2024,
+      "norma": 3558
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/0602d88afea5dc4d89e71eb572c23010.pdf da norma Lei nº 4.319, de 16 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/14/0602d88afea5dc4d89e71eb572c23010.pdf",
+      "ano": 2024,
+      "norma": 3559
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/0602d88afea5dc4d89e71eb572c23010.pdf da norma Lei nº 4.320, de 16 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/15/0602d88afea5dc4d89e71eb572c23010.pdf",
+      "ano": 2024,
+      "norma": 3560
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/0602d88afea5dc4d89e71eb572c23010.pdf da norma Lei nº 4.321, de 16 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/16/0602d88afea5dc4d89e71eb572c23010.pdf",
+      "ano": 2024,
+      "norma": 3561
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/0602d88afea5dc4d89e71eb572c23010.pdf da norma Lei nº 4.322, de 16 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/17/0602d88afea5dc4d89e71eb572c23010.pdf",
+      "ano": 2024,
+      "norma": 3562
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/0602d88afea5dc4d89e71eb572c23010.pdf da norma Lei nº 4.323, de 16 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/18/0602d88afea5dc4d89e71eb572c23010.pdf",
+      "ano": 2024,
+      "norma": 3563
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/imprensa_oficial_4__numero_3592_.pdf da norma Lei nº 4.324, de 22 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/19/imprensa_oficial_4__numero_3592_.pdf",
+      "ano": 2024,
+      "norma": 3783
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/20/imprensa_oficial__numero_3593_.pdf da norma Lei Complementar nº 915, de 23 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/20/imprensa_oficial__numero_3593_.pdf",
+      "ano": 2024,
+      "norma": 3784
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/21/1387fc3ea0f3bf487c822ee8ea9600a2.pdf da norma Lei nº 4.325, de 02 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/21/1387fc3ea0f3bf487c822ee8ea9600a2.pdf",
+      "ano": 2024,
+      "norma": 3883
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/imprensa_oficial___numero_3599_.pdf da norma Lei nº 4.326, de 05 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/22/imprensa_oficial___numero_3599_.pdf",
+      "ano": 2024,
+      "norma": 4011
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/23/imprensa_oficial___numero_3599_.pdf da norma Lei nº 4.327, de 05 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/23/imprensa_oficial___numero_3599_.pdf",
+      "ano": 2024,
+      "norma": 4012
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/24/a50b97386faf5f36bcf98fe82392dc28.pdf da norma Lei nº 4.328, de 09 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/24/a50b97386faf5f36bcf98fe82392dc28.pdf",
+      "ano": 2024,
+      "norma": 4084
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/25/imprensa_oficial___numero_3604_.pdf da norma Lei nº 4.329, de 12 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/25/imprensa_oficial___numero_3604_.pdf",
+      "ano": 2024,
+      "norma": 4085
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/26/imprensa_oficial___numero_3604_.pdf da norma Lei nº 4.330, de 12 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/26/imprensa_oficial___numero_3604_.pdf",
+      "ano": 2024,
+      "norma": 4086
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/imprensa_oficial__numero_3617_.pdf da norma Lei nº 4.332, de 04 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/27/imprensa_oficial__numero_3617_.pdf",
+      "ano": 2024,
+      "norma": 4135
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/28/imprensa_oficial__numero_3624_.pdf da norma Lei Complementar nº 916, de 17 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/28/imprensa_oficial__numero_3624_.pdf",
+      "ano": 2024,
+      "norma": 4272
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/29/imprensa_oficial__numero_3628_.pdf da norma Lei nº 4.333, de 24 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/29/imprensa_oficial__numero_3628_.pdf",
+      "ano": 2024,
+      "norma": 4335
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/30/imprensa_oficial__numero_3628_.pdf da norma Lei nº 4.334, de 24 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/30/imprensa_oficial__numero_3628_.pdf",
+      "ano": 2024,
+      "norma": 4336
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/31/imprensa_oficial__numero_3636_.pdf da norma Lei Complementar nº 917, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/31/imprensa_oficial__numero_3636_.pdf",
+      "ano": 2024,
+      "norma": 4506
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/32/imprensa_oficial__numero_3641_.pdf da norma Lei Complementar nº 918, de 18 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/32/imprensa_oficial__numero_3641_.pdf",
+      "ano": 2024,
+      "norma": 4661
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/33/imprensa_oficial__numero_3641_.pdf da norma Lei nº 4.335, de 18 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/33/imprensa_oficial__numero_3641_.pdf",
+      "ano": 2024,
+      "norma": 4662
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/34/lei_ordinaria_no_4.336_de_18_de_novembro_de_2024._autoriza_o_poder_executivo_a_abrir_credito_adicional_especial_e_da_outras_providencias.pdf da norma Lei nº 4.336, de 18 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/34/lei_ordinaria_no_4.336_de_18_de_novembro_de_2024._autoriza_o_poder_executivo_a_abrir_credito_adicional_especial_e_da_outras_providencias.pdf",
+      "ano": 2024,
+      "norma": 4663
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/35/imprensa_oficial__numero_3641_.pdf da norma Lei nº 4.337, de 18 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/35/imprensa_oficial__numero_3641_.pdf",
+      "ano": 2024,
+      "norma": 4664
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/36/759a04dce01741a715fac9f8720d8afb.pdf da norma Lei nº 4.340, de 22 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/36/759a04dce01741a715fac9f8720d8afb.pdf",
+      "ano": 2024,
+      "norma": 4667
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/37/759a04dce01741a715fac9f8720d8afb.pdf da norma Lei nº 4.338, de 19 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/37/759a04dce01741a715fac9f8720d8afb.pdf",
+      "ano": 2024,
+      "norma": 4665
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/38/759a04dce01741a715fac9f8720d8afb.pdf da norma Lei nº 4.339, de 22 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/38/759a04dce01741a715fac9f8720d8afb.pdf",
+      "ano": 2024,
+      "norma": 4666
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/39/093505e9bb7e8a2e9c8929ba341e0618.pdf da norma Lei Complementar nº 919, de 25 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/39/093505e9bb7e8a2e9c8929ba341e0618.pdf",
+      "ano": 2024,
+      "norma": 4668
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/40/9e32ad6af2235e842c2c567d32402df3.pdf da norma Lei nº 4.341, de 29 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/40/9e32ad6af2235e842c2c567d32402df3.pdf",
+      "ano": 2024,
+      "norma": 4711
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/41/imprensa_oficial___numero_3652_.pdf da norma Lei nº 4.342, de 05 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/41/imprensa_oficial___numero_3652_.pdf",
+      "ano": 2024,
+      "norma": 4712
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/42/imprensa_oficial___numero_3652_.pdf da norma Lei nº 4.343, de 05 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/42/imprensa_oficial___numero_3652_.pdf",
+      "ano": 2024,
+      "norma": 4713
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/43/imprensa_oficial___numero_3652_.pdf da norma Lei nº 4.344, de 05 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/43/imprensa_oficial___numero_3652_.pdf",
+      "ano": 2024,
+      "norma": 4714
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/44/imprensa_oficial___numero_3652_.pdf da norma Lei nº 4.345, de 05 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/44/imprensa_oficial___numero_3652_.pdf",
+      "ano": 2024,
+      "norma": 4715
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/45/imprensa_oficial___numero_3652_.pdf da norma Lei nº 4.346, de 05 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/45/imprensa_oficial___numero_3652_.pdf",
+      "ano": 2024,
+      "norma": 4716
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/46/dd4ea23015b13ef93b8fb03ac1942dbb.pdf da norma Lei Complementar nº 920, de 10 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/46/dd4ea23015b13ef93b8fb03ac1942dbb.pdf",
+      "ano": 2024,
+      "norma": 4717
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/47/f0505d79476f8d3c680bf0ad4cc7f242.pdf da norma Lei Complementar nº 921, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/47/f0505d79476f8d3c680bf0ad4cc7f242.pdf",
+      "ano": 2024,
+      "norma": 4720
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/48/f0505d79476f8d3c680bf0ad4cc7f242.pdf da norma Lei Complementar nº 922, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/48/f0505d79476f8d3c680bf0ad4cc7f242.pdf",
+      "ano": 2024,
+      "norma": 4721
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/49/f0505d79476f8d3c680bf0ad4cc7f242.pdf da norma Lei Complementar nº 923, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/49/f0505d79476f8d3c680bf0ad4cc7f242.pdf",
+      "ano": 2024,
+      "norma": 4722
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/50/f0505d79476f8d3c680bf0ad4cc7f242.pdf da norma Lei nº 4.347, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/50/f0505d79476f8d3c680bf0ad4cc7f242.pdf",
+      "ano": 2024,
+      "norma": 4723
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/51/f0505d79476f8d3c680bf0ad4cc7f242.pdf da norma Lei nº 4.348, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/51/f0505d79476f8d3c680bf0ad4cc7f242.pdf",
+      "ano": 2024,
+      "norma": 4724
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/52/f0505d79476f8d3c680bf0ad4cc7f242.pdf da norma Lei nº 4.349, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/52/f0505d79476f8d3c680bf0ad4cc7f242.pdf",
+      "ano": 2024,
+      "norma": 4725
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/53/f0505d79476f8d3c680bf0ad4cc7f242.pdf da norma Lei nº 4.350, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/53/f0505d79476f8d3c680bf0ad4cc7f242.pdf",
+      "ano": 2024,
+      "norma": 4726
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/54/615999f0b1f76abb9dfbfb9fcd8011ad.pdf da norma Lei nº 4.351, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2024/54/615999f0b1f76abb9dfbfb9fcd8011ad.pdf",
+      "ano": 2024,
+      "norma": 4727
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei Complementar nº 924, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/55/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5843
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/56/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei Complementar nº 925, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/56/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5844
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/57/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei nº 4.355, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/57/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5845
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/58/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei nº 4.356, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/58/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5846
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei nº 4.357, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/59/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5847
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei nº 4.358, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/60/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5848
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei nº 4.359, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/61/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5849
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/62/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei nº 4.360, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/62/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5850
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/63/imprensa_oficial_5__numero_3690_suplemento_.pdf da norma Lei nº 4.361, de 13 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/63/imprensa_oficial_5__numero_3690_suplemento_.pdf",
+      "ano": 2025,
+      "norma": 5851
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/64/imprensa_oficial.pdf da norma Lei nº 4.362, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/64/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6077
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/65/imprensa_oficial.pdf da norma Lei nº 4.363, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/65/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6078
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/imprensa_oficial.pdf da norma Lei nº 4.364, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/66/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6079
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/lei_complementar_no_926.pdf da norma Lei Complementar nº 926, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/67/lei_complementar_no_926.pdf",
+      "ano": 2025,
+      "norma": 6080
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/68/imprensa_oficial.pdf da norma Lei Complementar nº 927, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/68/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6081
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/69/65_66_67_68.pdf da norma Lei nº 4.365, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/69/65_66_67_68.pdf",
+      "ano": 2025,
+      "norma": 6175
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/70/65_66_67_68.pdf da norma Lei nº 4.366, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/70/65_66_67_68.pdf",
+      "ano": 2025,
+      "norma": 6176
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/71/65_66_67_68.pdf da norma Lei nº 4.367, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/71/65_66_67_68.pdf",
+      "ano": 2025,
+      "norma": 6177
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/72/65_66_67_68.pdf da norma Lei nº 4.368, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/72/65_66_67_68.pdf",
+      "ano": 2025,
+      "norma": 6178
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/73/69.pdf da norma Lei nº 4.369, de 06 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/73/69.pdf",
+      "ano": 2025,
+      "norma": 6179
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/74/70_71_72.pdf da norma Lei nº 4.371, de 07 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/74/70_71_72.pdf",
+      "ano": 2025,
+      "norma": 6181
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/75/70_71_72.pdf da norma Lei nº 4.372, de 07 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/75/70_71_72.pdf",
+      "ano": 2025,
+      "norma": 6182
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/76/73_74_75_76.pdf da norma Lei nº 4.373, de 13 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/76/73_74_75_76.pdf",
+      "ano": 2025,
+      "norma": 6183
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/77/73_74_75_76.pdf da norma Lei nº 4.374, de 13 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/77/73_74_75_76.pdf",
+      "ano": 2025,
+      "norma": 6184
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/78/73_74_75_76.pdf da norma Lei nº 4.375, de 13 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/78/73_74_75_76.pdf",
+      "ano": 2025,
+      "norma": 6185
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/79/73_74_75_76.pdf da norma Lei nº 4.376, de 13 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/79/73_74_75_76.pdf",
+      "ano": 2025,
+      "norma": 6186
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/80/imprensa_oficial_resolucao_396_e_397.pdf da norma Resolução nº 397, de 14 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/80/imprensa_oficial_resolucao_396_e_397.pdf",
+      "ano": 2025,
+      "norma": 5732
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/81/imprensa_oficial_resolucao_396_e_397.pdf da norma Resolução nº 396, de 14 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/81/imprensa_oficial_resolucao_396_e_397.pdf",
+      "ano": 2025,
+      "norma": 5731
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/82/imprensa_4377.pdf da norma Lei nº 4.377, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/82/imprensa_4377.pdf",
+      "ano": 2025,
+      "norma": 6189
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/83/imprensa_lcs.pdf da norma Lei Complementar nº 928, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/83/imprensa_lcs.pdf",
+      "ano": 2025,
+      "norma": 6190
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/84/imprensa_lcs.pdf da norma Lei Complementar nº 929, de 19 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/84/imprensa_lcs.pdf",
+      "ano": 2025,
+      "norma": 6191
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/85/imprensa_oficial.pdf da norma Lei nº 4.378, de 27 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/85/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6192
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/86/imprensa_oficial.pdf da norma Lei nº 4.379, de 27 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/86/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6193
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/87/imprensa_oficial__numero_3724_.pdf da norma Lei Complementar nº 930, de 02 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Publicação na Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/87/imprensa_oficial__numero_3724_.pdf",
+      "ano": 2025,
+      "norma": 6194
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/88/imprensa_oficial__numero_3724_.pdf da norma Lei nº 4.380, de 02 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Publicação na Imprensa Oficial.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/88/imprensa_oficial__numero_3724_.pdf",
+      "ano": 2025,
+      "norma": 6195
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/89/imprensa_oficial__numero_3724_.pdf da norma Lei nº 4.381, de 02 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "Publicação na Imprensa Oficial.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/89/imprensa_oficial__numero_3724_.pdf",
+      "ano": 2025,
+      "norma": 6196
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/90/imprensa_oficial__numero_3724_.pdf da norma Lei nº 4.382, de 02 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Publicação na Imprensa Oficial.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/90/imprensa_oficial__numero_3724_.pdf",
+      "ano": 2025,
+      "norma": 6197
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/91/3013d24342de297461c8e4f0b52aa4ba.pdf da norma Lei nº 4.386, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/91/3013d24342de297461c8e4f0b52aa4ba.pdf",
+      "ano": 2025,
+      "norma": 6201
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/92/e683d39d107681b6e691d36a36357252.pdf da norma Lei Complementar nº 931, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/92/e683d39d107681b6e691d36a36357252.pdf",
+      "ano": 2025,
+      "norma": 6202
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/93/e683d39d107681b6e691d36a36357252.pdf da norma Lei nº 4.383, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/93/e683d39d107681b6e691d36a36357252.pdf",
+      "ano": 2025,
+      "norma": 6203
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/94/e683d39d107681b6e691d36a36357252.pdf da norma Lei nº 4.384, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/94/e683d39d107681b6e691d36a36357252.pdf",
+      "ano": 2025,
+      "norma": 6204
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/95/e683d39d107681b6e691d36a36357252.pdf da norma Lei nº 4.385, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/95/e683d39d107681b6e691d36a36357252.pdf",
+      "ano": 2025,
+      "norma": 6205
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/96/imprensa_4390.pdf da norma Lei nº 4.390, de 29 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/96/imprensa_4390.pdf",
+      "ano": 2025,
+      "norma": 6210
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/97/imprensa_oficial__numero_3741_.pdf da norma Lei nº 4.391, de 30 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/97/imprensa_oficial__numero_3741_.pdf",
+      "ano": 2025,
+      "norma": 6211
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/98/imprensa_oficial__numero_3741_.pdf da norma Lei nº 4.392, de 30 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/98/imprensa_oficial__numero_3741_.pdf",
+      "ano": 2025,
+      "norma": 6212
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/99/imprensa_oficial__numero_3741_.pdf da norma Lei nº 4.393, de 30 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/99/imprensa_oficial__numero_3741_.pdf",
+      "ano": 2025,
+      "norma": 6213
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/100/imprensa_oficial__numero_3741_.pdf da norma Lei nº 4.394, de 30 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/100/imprensa_oficial__numero_3741_.pdf",
+      "ano": 2025,
+      "norma": 6214
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/101/imprensa_oficial__numero_3741_.pdf da norma Lei nº 4.395, de 30 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/101/imprensa_oficial__numero_3741_.pdf",
+      "ano": 2025,
+      "norma": 6215
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/102/lei_ordinaria_no_4.396_de_30_de_abril_de_2025_autoriza_o_poder_executivo_a_abrir_creditos_adicionais_especiais_e_da_outras_providencias.pdf da norma Lei nº 4.396, de 30 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/102/lei_ordinaria_no_4.396_de_30_de_abril_de_2025_autoriza_o_poder_executivo_a_abrir_creditos_adicionais_especiais_e_da_outras_providencias.pdf",
+      "ano": 2025,
+      "norma": 6216
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/103/11c7bb7e22f2e5d2aca457a1e06b3df2.pdf da norma Lei nº 4.397, de 30 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/103/11c7bb7e22f2e5d2aca457a1e06b3df2.pdf",
+      "ano": 2025,
+      "norma": 6217
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/104/d30dc8769bbd007bc7a0c81133f3b76e.pdf da norma Lei nº 4.398, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/104/d30dc8769bbd007bc7a0c81133f3b76e.pdf",
+      "ano": 2025,
+      "norma": 6219
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/105/d30dc8769bbd007bc7a0c81133f3b76e.pdf da norma Lei nº 4.399, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/105/d30dc8769bbd007bc7a0c81133f3b76e.pdf",
+      "ano": 2025,
+      "norma": 6220
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/106/d30dc8769bbd007bc7a0c81133f3b76e.pdf da norma Lei nº 4.400, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/106/d30dc8769bbd007bc7a0c81133f3b76e.pdf",
+      "ano": 2025,
+      "norma": 6221
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/107/d30dc8769bbd007bc7a0c81133f3b76e.pdf da norma Lei nº 4.401, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/107/d30dc8769bbd007bc7a0c81133f3b76e.pdf",
+      "ano": 2025,
+      "norma": 6222
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/108/4506c0b51c641e11252155d79133a48a.pdf da norma Lei nº 4.402, de 09 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/108/4506c0b51c641e11252155d79133a48a.pdf",
+      "ano": 2025,
+      "norma": 6223
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/109/8a35cafcec74c40d4f172cd220f0104d.pdf da norma Lei nº 4.403, de 13 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/109/8a35cafcec74c40d4f172cd220f0104d.pdf",
+      "ano": 2025,
+      "norma": 6224
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/110/8a35cafcec74c40d4f172cd220f0104d.pdf da norma Lei nº 4.404, de 13 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/110/8a35cafcec74c40d4f172cd220f0104d.pdf",
+      "ano": 2025,
+      "norma": 6225
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/111/8983bf4248a774a6f42be62596f8cc9e.pdf da norma Lei Complementar nº 932, de 25 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/111/8983bf4248a774a6f42be62596f8cc9e.pdf",
+      "ano": 2025,
+      "norma": 6227
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/112/8983bf4248a774a6f42be62596f8cc9e.pdf da norma Lei Complementar nº 933, de 25 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/112/8983bf4248a774a6f42be62596f8cc9e.pdf",
+      "ano": 2025,
+      "norma": 6228
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/113/8983bf4248a774a6f42be62596f8cc9e.pdf da norma Lei Complementar nº 934, de 25 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/113/8983bf4248a774a6f42be62596f8cc9e.pdf",
+      "ano": 2025,
+      "norma": 6229
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/114/d30dc8769bbd007bc7a0c81133f3b76e.pdf da norma Lei Complementar nº 935, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/114/d30dc8769bbd007bc7a0c81133f3b76e.pdf",
+      "ano": 2025,
+      "norma": 6230
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/115/imprensa_oficial.pdf da norma Decreto Legislativo nº 455, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/115/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6226
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/116/imprensa_oficial.pdf da norma Decreto Legislativo nº 449, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/116/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6188
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/117/imprensa_oficial.pdf da norma Decreto Legislativo nº 448, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/117/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6187
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/118/05-08.pdf da norma Lei nº 4.405, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/118/05-08.pdf",
+      "ano": 2025,
+      "norma": 6236
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/119/05-08.pdf da norma Lei nº 4.406, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/119/05-08.pdf",
+      "ano": 2025,
+      "norma": 6237
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/120/05-08.pdf da norma Lei nº 4.407, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/120/05-08.pdf",
+      "ano": 2025,
+      "norma": 6238
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/121/05-08.pdf da norma Lei nº 4.408, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/121/05-08.pdf",
+      "ano": 2025,
+      "norma": 6239
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/122/09-11.pdf da norma Lei nº 4.409, de 22 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/122/09-11.pdf",
+      "ano": 2025,
+      "norma": 6240
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/123/09-11.pdf da norma Lei nº 4.410, de 22 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/123/09-11.pdf",
+      "ano": 2025,
+      "norma": 6241
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/124/09-11.pdf da norma Lei nº 4.411, de 22 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/124/09-11.pdf",
+      "ano": 2025,
+      "norma": 6242
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/125/12.pdf da norma Lei nº 4.412, de 02 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/125/12.pdf",
+      "ano": 2025,
+      "norma": 6243
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/126/13-16.pdf da norma Lei nº 4.413, de 03 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/126/13-16.pdf",
+      "ano": 2025,
+      "norma": 6233
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/127/13-16.pdf da norma Lei nº 4.414, de 03 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/127/13-16.pdf",
+      "ano": 2025,
+      "norma": 6234
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/128/13-16.pdf da norma Lei nº 4.415, de 04 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/128/13-16.pdf",
+      "ano": 2025,
+      "norma": 6244
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/129/13-16.pdf da norma Lei nº 4.416, de 04 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/129/13-16.pdf",
+      "ano": 2025,
+      "norma": 6245
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/130/936_937.pdf da norma Lei Complementar nº 936, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/130/936_937.pdf",
+      "ano": 2025,
+      "norma": 6246
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/131/936_937.pdf da norma Lei Complementar nº 937, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/131/936_937.pdf",
+      "ano": 2025,
+      "norma": 6247
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/132/938.pdf da norma Lei Complementar nº 938, de 28 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/132/938.pdf",
+      "ano": 2025,
+      "norma": 6248
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/133/dec_457.pdf da norma Decreto Legislativo nº 457, de 02 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/133/dec_457.pdf",
+      "ano": 2025,
+      "norma": 6235
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/134/imprensa_oficial.pdf da norma Lei nº 4.420, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/134/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6256
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/135/imprensa_oficial.pdf da norma Lei nº 4.421, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/135/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6257
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/136/imprensa_oficial.pdf da norma Lei nº 4.422, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/136/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6258
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/137/imprensa_4425.pdf da norma Lei nº 4.425, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/137/imprensa_4425.pdf",
+      "ano": 2025,
+      "norma": 6260
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/138/4423.pdf da norma Lei nº 4.423, de 24 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/138/4423.pdf",
+      "ano": 2025,
+      "norma": 6261
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/139/imprensa_4424.pdf da norma Lei nº 4.424, de 24 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/139/imprensa_4424.pdf",
+      "ano": 2025,
+      "norma": 6259
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/140/4417-18-19.pdf da norma Lei nº 4.417, de 18 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/140/4417-18-19.pdf",
+      "ano": 2025,
+      "norma": 6253
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/141/4417-18-19.pdf da norma Lei nº 4.418, de 18 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/141/4417-18-19.pdf",
+      "ano": 2025,
+      "norma": 6254
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/142/4417-18-19.pdf da norma Lei nº 4.419, de 18 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/142/4417-18-19.pdf",
+      "ano": 2025,
+      "norma": 6255
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/143/071b844564f74512463063471be86c0c.pdf da norma Lei Complementar nº 940, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/143/071b844564f74512463063471be86c0c.pdf",
+      "ano": 2025,
+      "norma": 6262
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/144/071b844564f74512463063471be86c0c.pdf da norma Lei nº 4.427, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/144/071b844564f74512463063471be86c0c.pdf",
+      "ano": 2025,
+      "norma": 6263
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/145/lei_ordinaria_no_4.428_de_02_de_julho_de_2025._autoriza_o_poder_executivo_a_abrir_credito_adicional_especial_e_da_outras_providencias.pdf da norma Lei nº 4.428, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/145/lei_ordinaria_no_4.428_de_02_de_julho_de_2025._autoriza_o_poder_executivo_a_abrir_credito_adicional_especial_e_da_outras_providencias.pdf",
+      "ano": 2025,
+      "norma": 6264
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/146/071b844564f74512463063471be86c0c.pdf da norma Lei nº 4.429, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/146/071b844564f74512463063471be86c0c.pdf",
+      "ano": 2025,
+      "norma": 6265
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/147/071b844564f74512463063471be86c0c.pdf da norma Lei nº 4.430, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/147/071b844564f74512463063471be86c0c.pdf",
+      "ano": 2025,
+      "norma": 6266
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/148/071b844564f74512463063471be86c0c.pdf da norma Lei nº 4.431, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/148/071b844564f74512463063471be86c0c.pdf",
+      "ano": 2025,
+      "norma": 6267
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/149/071b844564f74512463063471be86c0c.pdf da norma Lei nº 4.432, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/149/071b844564f74512463063471be86c0c.pdf",
+      "ano": 2025,
+      "norma": 6268
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/150/imprensa_oficial_decreto_460.pdf da norma Decreto Legislativo nº 460, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/150/imprensa_oficial_decreto_460.pdf",
+      "ano": 2025,
+      "norma": 6252
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/151/1888932c81000fbab3eb260dfc0a864b.pdf da norma Lei nº 4.433, de 16 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/151/1888932c81000fbab3eb260dfc0a864b.pdf",
+      "ano": 2025,
+      "norma": 6269
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/152/1888932c81000fbab3eb260dfc0a864b.pdf da norma Lei nº 4.434, de 16 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/152/1888932c81000fbab3eb260dfc0a864b.pdf",
+      "ano": 2025,
+      "norma": 6270
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/153/1888932c81000fbab3eb260dfc0a864b.pdf da norma Lei nº 4.435, de 16 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/153/1888932c81000fbab3eb260dfc0a864b.pdf",
+      "ano": 2025,
+      "norma": 6271
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/154/1888932c81000fbab3eb260dfc0a864b.pdf da norma Lei nº 4.436, de 16 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/154/1888932c81000fbab3eb260dfc0a864b.pdf",
+      "ano": 2025,
+      "norma": 6272
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/155/imprensa_3770_11_06_25.pdf da norma Decreto Legislativo nº 459, de 10 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/155/imprensa_3770_11_06_25.pdf",
+      "ano": 2025,
+      "norma": 6250
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/156/imprensa_3770_11_06_25.pdf da norma Decreto Legislativo nº 458, de 10 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/156/imprensa_3770_11_06_25.pdf",
+      "ano": 2025,
+      "norma": 6249
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/157/imprensa_3770_11_06_25.pdf da norma Resolução nº 399, de 10 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/157/imprensa_3770_11_06_25.pdf",
+      "ano": 2025,
+      "norma": 6251
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/158/imprensa_oficial_3783_05_07_25.pdf da norma Decreto Legislativo nº 461, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "Imprensa Oficial",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/158/imprensa_oficial_3783_05_07_25.pdf",
+      "ano": 2025,
+      "norma": 6273
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/159/imprensa_lo_4426.pdf da norma Lei nº 4.426, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/159/imprensa_lo_4426.pdf",
+      "ano": 2025,
+      "norma": 6274
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/160/imprensa_lc_939.pdf da norma Lei Complementar nº 939, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/160/imprensa_lc_939.pdf",
+      "ano": 2025,
+      "norma": 6275
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/161/imprensa_oficial__numero_3803_.pdf da norma Lei nº 4.437, de 07 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/161/imprensa_oficial__numero_3803_.pdf",
+      "ano": 2025,
+      "norma": 6276
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/162/impresa_oficial_3807_13_08_25.pdf da norma Lei Complementar nº 941, de 13 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/162/impresa_oficial_3807_13_08_25.pdf",
+      "ano": 2025,
+      "norma": 6277
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/163/impresa_oficial_3807_13_08_25.pdf da norma Lei nº 4.438, de 13 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/163/impresa_oficial_3807_13_08_25.pdf",
+      "ano": 2025,
+      "norma": 6278
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/164/impresa_oficial_3807_13_08_25.pdf da norma Lei nº 4.439, de 13 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/164/impresa_oficial_3807_13_08_25.pdf",
+      "ano": 2025,
+      "norma": 6279
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/165/impresa_oficial_3807_13_08_25.pdf da norma Lei nº 4.440, de 13 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/165/impresa_oficial_3807_13_08_25.pdf",
+      "ano": 2025,
+      "norma": 6280
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/166/impresa_oficial_3807_13_08_25.pdf da norma Lei nº 4.441, de 13 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/166/impresa_oficial_3807_13_08_25.pdf",
+      "ano": 2025,
+      "norma": 6281
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/167/impresa_oficial_3807_13_08_25.pdf da norma Lei nº 4.442, de 13 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/167/impresa_oficial_3807_13_08_25.pdf",
+      "ano": 2025,
+      "norma": 6282
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/168/imprensa_oficial_decreto_462.pdf da norma Decreto Legislativo nº 462, de 18 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/168/imprensa_oficial_decreto_462.pdf",
+      "ano": 2025,
+      "norma": 6283
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/169/imprensa_oficial_5__numero_3818_.pdf da norma Lei nº 4.443, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/169/imprensa_oficial_5__numero_3818_.pdf",
+      "ano": 2025,
+      "norma": 6285
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/170/imprensa_oficial_5__numero_3818_.pdf da norma Lei nº 4.444, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/170/imprensa_oficial_5__numero_3818_.pdf",
+      "ano": 2025,
+      "norma": 6286
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/171/d9d0a2a2b2e10a1c94c0b8cc10a23ea7.pdf da norma Decreto Legislativo nº 463, de 25 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/171/d9d0a2a2b2e10a1c94c0b8cc10a23ea7.pdf",
+      "ano": 2025,
+      "norma": 6284
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/172/imprensa_oficial__numero_3823_.pdf da norma Lei nº 4.445, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/172/imprensa_oficial__numero_3823_.pdf",
+      "ano": 2025,
+      "norma": 6288
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/173/imprensa_oficial__numero_3823_.pdf da norma Lei nº 4.446, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/173/imprensa_oficial__numero_3823_.pdf",
+      "ano": 2025,
+      "norma": 6289
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/174/imprensa_oficial__numero_3823_.pdf da norma Lei nº 4.447, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/174/imprensa_oficial__numero_3823_.pdf",
+      "ano": 2025,
+      "norma": 6290
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/175/imprensa_oficial__numero_3823_.pdf da norma Lei nº 4.448, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/175/imprensa_oficial__numero_3823_.pdf",
+      "ano": 2025,
+      "norma": 6291
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/176/imprensa_decreto.pdf da norma Decreto Legislativo nº 464, de 01 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/176/imprensa_decreto.pdf",
+      "ano": 2025,
+      "norma": 6287
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/177/imprensa_oficial__numero_3829_.pdf da norma Lei Complementar nº 942, de 10 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/177/imprensa_oficial__numero_3829_.pdf",
+      "ano": 2025,
+      "norma": 6294
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/178/imprensa_oficial__numero_3829_.pdf da norma Lei nº 4.451, de 10 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/178/imprensa_oficial__numero_3829_.pdf",
+      "ano": 2025,
+      "norma": 6295
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/179/imprensa_oficial__numero_3829_.pdf da norma Lei nº 4.452, de 10 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/179/imprensa_oficial__numero_3829_.pdf",
+      "ano": 2025,
+      "norma": 6296
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/180/imprensa_oficial__numero_3829_.pdf da norma Lei nº 4.453, de 10 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/180/imprensa_oficial__numero_3829_.pdf",
+      "ano": 2025,
+      "norma": 6297
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/181/imprensa_oficial__numero_3861_.pdf da norma Lei Complementar nº 945, de 23 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/181/imprensa_oficial__numero_3861_.pdf",
+      "ano": 2025,
+      "norma": 6332
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/182/4f434a916a4d404df16078b41c985df9.pdf da norma Lei nº 4.476, de 22 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/182/4f434a916a4d404df16078b41c985df9.pdf",
+      "ano": 2025,
+      "norma": 6333
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/183/imprensa_oficial_decreto_472.pdf da norma Decreto Legislativo nº 472, de 30 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/183/imprensa_oficial_decreto_472.pdf",
+      "ano": 2025,
+      "norma": 6334
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/184/imprensa_oficial.pdf da norma Lei Complementar nº 946, de 04 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "IMPRENA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/184/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6341
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/185/imprensa_oficial.pdf da norma Lei nº 4.480, de 04 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/185/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6342
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/186/imprensa_oficial.pdf da norma Lei nº 4.481, de 04 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/186/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6343
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/187/imprensa_oficial.pdf da norma Lei nº 4.482, de 04 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/187/imprensa_oficial.pdf",
+      "ano": 2025,
+      "norma": 6344
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/188/_numero_3875_.pdf da norma Lei nº 4.486, de 12 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/188/_numero_3875_.pdf",
+      "ano": 2025,
+      "norma": 6348
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/189/_numero_3875_.pdf da norma Lei nº 4.487, de 12 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/189/_numero_3875_.pdf",
+      "ano": 2025,
+      "norma": 6349
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/190/5d8d1a2b0243eb875cb3a0c5577e6110.pdf da norma Lei nº 4.488, de 18 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/190/5d8d1a2b0243eb875cb3a0c5577e6110.pdf",
+      "ano": 2025,
+      "norma": 6350
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/191/5d8d1a2b0243eb875cb3a0c5577e6110.pdf da norma Lei nº 4.489, de 18 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/191/5d8d1a2b0243eb875cb3a0c5577e6110.pdf",
+      "ano": 2025,
+      "norma": 6351
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/192/9e6805809ca964d2bd87dd3f79bd08d7.pdf da norma Lei nº 4.490, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/192/9e6805809ca964d2bd87dd3f79bd08d7.pdf",
+      "ano": 2025,
+      "norma": 6352
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/193/9e6805809ca964d2bd87dd3f79bd08d7.pdf da norma Lei nº 4.491, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/193/9e6805809ca964d2bd87dd3f79bd08d7.pdf",
+      "ano": 2025,
+      "norma": 6353
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/194/688a0faa2f146a98592e494f26814e75.pdf da norma Lei nº 4.493, de 27 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/194/688a0faa2f146a98592e494f26814e75.pdf",
+      "ano": 2025,
+      "norma": 6356
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/195/imprensa_oficial_decreto_476.pdf da norma Decreto Legislativo nº 476, de 27 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/195/imprensa_oficial_decreto_476.pdf",
+      "ano": 2025,
+      "norma": 6355
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/196/imprensa_oficial_decreto_478_479.pdf da norma Decreto Legislativo nº 478, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/196/imprensa_oficial_decreto_478_479.pdf",
+      "ano": 2025,
+      "norma": 6360
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/197/imprensa_oficial_decreto_478_479.pdf da norma Decreto Legislativo nº 479, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/197/imprensa_oficial_decreto_478_479.pdf",
+      "ano": 2025,
+      "norma": 6361
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/198/imprensa_lc_947.pdf da norma Lei Complementar nº 947, de 06 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/198/imprensa_lc_947.pdf",
+      "ano": 2025,
+      "norma": 6362
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/199/imprensa_4496-4497.pdf da norma Lei nº 4.496, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/199/imprensa_4496-4497.pdf",
+      "ano": 2025,
+      "norma": 6363
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/200/imprensa_4496-4497.pdf da norma Lei nº 4.497, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/200/imprensa_4496-4497.pdf",
+      "ano": 2025,
+      "norma": 6364
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/201/imprensa_4498-99-500-501.pdf da norma Lei nº 4.498, de 11 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/201/imprensa_4498-99-500-501.pdf",
+      "ano": 2025,
+      "norma": 6365
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/202/imprensa_4498-99-500-501.pdf da norma Lei nº 4.499, de 11 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/202/imprensa_4498-99-500-501.pdf",
+      "ano": 2025,
+      "norma": 6366
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/203/imprensa_4498-99-500-501.pdf da norma Lei nº 4.500, de 11 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/203/imprensa_4498-99-500-501.pdf",
+      "ano": 2025,
+      "norma": 6367
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/204/imprensa_4498-99-500-501.pdf da norma Lei nº 4.501, de 11 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/204/imprensa_4498-99-500-501.pdf",
+      "ano": 2025,
+      "norma": 6368
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/205/imprensa_502-504.pdf da norma Lei nº 4.502, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/205/imprensa_502-504.pdf",
+      "ano": 2025,
+      "norma": 6369
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/206/imprensa_502-504.pdf da norma Lei nº 4.504, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2025/206/imprensa_502-504.pdf",
+      "ano": 2025,
+      "norma": 6371
+    },
+    {
+      "id": 207,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/207/70615145b9bb85753fa97a5366fb440b.pdf da norma Lei nº 4.507, de 16 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/207",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/207/70615145b9bb85753fa97a5366fb440b.pdf",
+      "ano": 2026,
+      "norma": 6375
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/208/imprensa.pdf da norma Lei nº 4.508, de 10 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/208/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6376
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/209/imprensa.pdf da norma Lei nº 4.509, de 11 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/209/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6377
+    },
+    {
+      "id": 210,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/210/672c58ee3ae1f87a18e555ae594963ca.pdf da norma Lei nº 4.510, de 19 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/210",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/210/672c58ee3ae1f87a18e555ae594963ca.pdf",
+      "ano": 2026,
+      "norma": 6379
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/211/672c58ee3ae1f87a18e555ae594963ca.pdf da norma Lei nº 4.511, de 19 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/211/672c58ee3ae1f87a18e555ae594963ca.pdf",
+      "ano": 2026,
+      "norma": 6380
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/212/672c58ee3ae1f87a18e555ae594963ca.pdf da norma Lei nº 4.512, de 19 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/212/672c58ee3ae1f87a18e555ae594963ca.pdf",
+      "ano": 2026,
+      "norma": 6381
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/213/imprensa_lei13-14.pdf da norma Lei nº 4.513, de 24 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/213/imprensa_lei13-14.pdf",
+      "ano": 2026,
+      "norma": 6383
+    },
+    {
+      "id": 214,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/214/imprensa_lei13-14.pdf da norma Lei nº 4.514, de 24 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/214",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/214/imprensa_lei13-14.pdf",
+      "ano": 2026,
+      "norma": 6384
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/215/dec481.pdf da norma Decreto Legislativo nº 481, de 18 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/215/dec481.pdf",
+      "ano": 2026,
+      "norma": 6378
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/216/dec482.pdf da norma Decreto Legislativo nº 482, de 24 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/216/dec482.pdf",
+      "ano": 2026,
+      "norma": 6382
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/217/39a5c5b880bb32d2352a0fdac017e4da.pdf da norma Lei nº 4.515, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/217/39a5c5b880bb32d2352a0fdac017e4da.pdf",
+      "ano": 2026,
+      "norma": 6385
+    },
+    {
+      "id": 218,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/218/39a5c5b880bb32d2352a0fdac017e4da.pdf da norma Lei nº 4.516, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/218",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/218/39a5c5b880bb32d2352a0fdac017e4da.pdf",
+      "ano": 2026,
+      "norma": 6386
+    },
+    {
+      "id": 219,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/219/1463d38a59b7707b6388bdcf03c7be9f.pdf da norma Lei nº 4.517, de 04 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/219",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/219/1463d38a59b7707b6388bdcf03c7be9f.pdf",
+      "ano": 2026,
+      "norma": 6387
+    },
+    {
+      "id": 220,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/220/imprensa_lo_4518.pdf da norma Lei nº 4.518, de 10 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/220",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/220/imprensa_lo_4518.pdf",
+      "ano": 2026,
+      "norma": 6388
+    },
+    {
+      "id": 221,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/221/3143cebf783a8cc114aa53b365f11f74.pdf da norma Lei nº 4.519, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/221",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/221/3143cebf783a8cc114aa53b365f11f74.pdf",
+      "ano": 2026,
+      "norma": 6389
+    },
+    {
+      "id": 222,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/222/3143cebf783a8cc114aa53b365f11f74.pdf da norma Lei nº 4.520, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/222",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/222/3143cebf783a8cc114aa53b365f11f74.pdf",
+      "ano": 2026,
+      "norma": 6390
+    },
+    {
+      "id": 223,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/223/3143cebf783a8cc114aa53b365f11f74.pdf da norma Lei Complementar nº 948, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/223",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/223/3143cebf783a8cc114aa53b365f11f74.pdf",
+      "ano": 2026,
+      "norma": 6391
+    },
+    {
+      "id": 224,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/224/3143cebf783a8cc114aa53b365f11f74.pdf da norma Lei Complementar nº 949, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/224",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/224/3143cebf783a8cc114aa53b365f11f74.pdf",
+      "ano": 2026,
+      "norma": 6392
+    },
+    {
+      "id": 225,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/225/3143cebf783a8cc114aa53b365f11f74.pdf da norma Lei Complementar nº 950, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/225",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/225/3143cebf783a8cc114aa53b365f11f74.pdf",
+      "ano": 2026,
+      "norma": 6393
+    },
+    {
+      "id": 226,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/226/imprensa_oficial__numero_3962_.pdf da norma Lei nº 4.525, de 25 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/226",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/226/imprensa_oficial__numero_3962_.pdf",
+      "ano": 2026,
+      "norma": 6399
+    },
+    {
+      "id": 227,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/227/imprensa_oficial__numero_3962_.pdf da norma Decreto Legislativo nº 483, de 23 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/227",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/227/imprensa_oficial__numero_3962_.pdf",
+      "ano": 2026,
+      "norma": 6396
+    },
+    {
+      "id": 228,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/228/imprensa_3963.pdf da norma Decreto Legislativo nº 484, de 23 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/228",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL 3963",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/228/imprensa_3963.pdf",
+      "ano": 2026,
+      "norma": 6400
+    },
+    {
+      "id": 229,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/229/1c08ff9177e6e897a1947aa4a79f2a3a.pdf da norma Lei nº 4.529, de 31 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/229",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/229/1c08ff9177e6e897a1947aa4a79f2a3a.pdf",
+      "ano": 2026,
+      "norma": 6404
+    },
+    {
+      "id": 230,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/230/1c08ff9177e6e897a1947aa4a79f2a3a.pdf da norma Lei nº 4.528, de 01 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/230",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/230/1c08ff9177e6e897a1947aa4a79f2a3a.pdf",
+      "ano": 2026,
+      "norma": 6403
+    },
+    {
+      "id": 231,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/231/imprensa_oficial___numero_3978__optimized.pdf da norma Lei nº 4.532, de 14 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/231",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/231/imprensa_oficial___numero_3978__optimized.pdf",
+      "ano": 2026,
+      "norma": 6407
+    },
+    {
+      "id": 232,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/232/imprensa_oficial___numero_3978__optimized.pdf da norma Lei nº 4.533, de 14 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/232",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/232/imprensa_oficial___numero_3978__optimized.pdf",
+      "ano": 2026,
+      "norma": 6408
+    },
+    {
+      "id": 233,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/233/imprensa_oficial___numero_3978__optimized.pdf da norma Lei nº 4.534, de 14 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/233",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/233/imprensa_oficial___numero_3978__optimized.pdf",
+      "ano": 2026,
+      "norma": 6409
+    },
+    {
+      "id": 234,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/234/imprensa_oficial___numero_3978__optimized.pdf da norma Lei nº 4.535, de 14 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/234",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/234/imprensa_oficial___numero_3978__optimized.pdf",
+      "ano": 2026,
+      "norma": 6410
+    },
+    {
+      "id": 235,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/235/imprensa_oficial___numero_3978__optimized.pdf da norma Lei nº 4.536, de 14 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/235",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/235/imprensa_oficial___numero_3978__optimized.pdf",
+      "ano": 2026,
+      "norma": 6411
+    },
+    {
+      "id": 236,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/236/oficio_decreto_pra_imprensa.pdf da norma Decreto Legislativo nº 485, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/236",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Cintia Cristina Grossklauss",
+                [
+                  "2026-04-23T10:54:02-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "OFÍCIO PARA IMPRENSA",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/236/oficio_decreto_pra_imprensa.pdf",
+      "ano": 2026,
+      "norma": 6412
+    },
+    {
+      "id": 237,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/237/oficio_decreto_pra_imprensa.pdf da norma Resolução nº 400, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/237",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Cintia Cristina Grossklauss",
+                [
+                  "2026-04-23T10:54:02-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "OFÍCIO PARA IMPRENSA",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/237/oficio_decreto_pra_imprensa.pdf",
+      "ano": 2026,
+      "norma": 6413
+    },
+    {
+      "id": 238,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/238/verificacao_de_assinaturas___decreto_e_resolucao.pdf da norma Decreto Legislativo nº 485, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/238",
+      "metadata": {},
+      "assunto_anexo": "PROTOCOLO 1DOC",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/238/verificacao_de_assinaturas___decreto_e_resolucao.pdf",
+      "ano": 2026,
+      "norma": 6412
+    },
+    {
+      "id": 239,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/239/verificacao_de_assinaturas___decreto_e_resolucao.pdf da norma Resolução nº 400, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/239",
+      "metadata": {},
+      "assunto_anexo": "PROTOCOLO 1DOC",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/239/verificacao_de_assinaturas___decreto_e_resolucao.pdf",
+      "ano": 2026,
+      "norma": 6413
+    },
+    {
+      "id": 240,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/240/7bb08d9188c4f455f187de484dd9c009.pdf da norma Lei nº 4.537, de 23 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/240",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/240/7bb08d9188c4f455f187de484dd9c009.pdf",
+      "ano": 2026,
+      "norma": 6414
+    },
+    {
+      "id": 241,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/241/7bb08d9188c4f455f187de484dd9c009.pdf da norma Lei nº 4.538, de 23 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/241",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/241/7bb08d9188c4f455f187de484dd9c009.pdf",
+      "ano": 2026,
+      "norma": 6415
+    },
+    {
+      "id": 242,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/242/7bb08d9188c4f455f187de484dd9c009.pdf da norma Decreto Legislativo nº 485, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/242",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/242/7bb08d9188c4f455f187de484dd9c009.pdf",
+      "ano": 2026,
+      "norma": 6412
+    },
+    {
+      "id": 243,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/243/7bb08d9188c4f455f187de484dd9c009.pdf da norma Resolução nº 400, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/243",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/243/7bb08d9188c4f455f187de484dd9c009.pdf",
+      "ano": 2026,
+      "norma": 6413
+    },
+    {
+      "id": 244,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/244/imprensa.pdf da norma Decreto Legislativo nº 486, de 04 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/244",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/244/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6419
+    },
+    {
+      "id": 245,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/245/imprensa.pdf da norma Decreto Legislativo nº 487, de 04 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/245",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/245/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6420
+    },
+    {
+      "id": 246,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/246/imprensa.pdf da norma Lei nº 4.541, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/246",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/246/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6421
+    },
+    {
+      "id": 247,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/247/imprensa_oficial___numero_3992_.pdf da norma Lei nº 4.542, de 12 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/247",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/247/imprensa_oficial___numero_3992_.pdf",
+      "ano": 2026,
+      "norma": 6422
+    },
+    {
+      "id": 248,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/248/imprensa_oficial___numero_3992_.pdf da norma Lei nº 4.543, de 12 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/248",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/248/imprensa_oficial___numero_3992_.pdf",
+      "ano": 2026,
+      "norma": 6423
+    },
+    {
+      "id": 249,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/249/4547-488.pdf da norma Decreto Legislativo nº 488, de 18 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/249",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/249/4547-488.pdf",
+      "ano": 2026,
+      "norma": 6425
+    },
+    {
+      "id": 250,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/250/4545-4546.pdf da norma Lei nº 4.545, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/250",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/250/4545-4546.pdf",
+      "ano": 2026,
+      "norma": 6426
+    },
+    {
+      "id": 251,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/251/4545-4546.pdf da norma Lei nº 4.546, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/251",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/251/4545-4546.pdf",
+      "ano": 2026,
+      "norma": 6427
+    },
+    {
+      "id": 252,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/252/4547-488.pdf da norma Lei nº 4.547, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/252",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/252/4547-488.pdf",
+      "ano": 2026,
+      "norma": 6428
+    },
+    {
+      "id": 253,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/253/lc_951_imprensa.pdf da norma Lei Complementar nº 951, de 29 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/253",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/253/lc_951_imprensa.pdf",
+      "ano": 2026,
+      "norma": 6434
+    },
+    {
+      "id": 254,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/254/imprensa_oficial__numero_4002_.pdf da norma Lei Complementar nº 952, de 26 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/254",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/254/imprensa_oficial__numero_4002_.pdf",
+      "ano": 2026,
+      "norma": 6435
+    },
+    {
+      "id": 255,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/255/imprensa_oficial__numero_4002_.pdf da norma Lei nº 4.552, de 26 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/255",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/255/imprensa_oficial__numero_4002_.pdf",
+      "ano": 2026,
+      "norma": 6436
+    },
+    {
+      "id": 256,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/256/imprensa_oficial__numero_4002_.pdf da norma Lei nº 4.553, de 26 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/256",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/256/imprensa_oficial__numero_4002_.pdf",
+      "ano": 2026,
+      "norma": 6437
+    },
+    {
+      "id": 257,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/257/imprensa_4554.pdf da norma Lei nº 4.554, de 27 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/257",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/257/imprensa_4554.pdf",
+      "ano": 2026,
+      "norma": 6438
+    },
+    {
+      "id": 258,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/258/imprensa_953.pdf da norma Lei Complementar nº 953, de 26 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/258",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/258/imprensa_953.pdf",
+      "ano": 2026,
+      "norma": 6439
+    },
+    {
+      "id": 259,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/259/imprensa_oficial__numero_4002_.pdf da norma Resolução nº 402, de 25 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/259",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/259/imprensa_oficial__numero_4002_.pdf",
+      "ano": 2026,
+      "norma": 6433
+    },
+    {
+      "id": 260,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/260/imprensa_oficial__numero_4007_.pdf da norma Lei Complementar nº 954, de 02 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/260",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/260/imprensa_oficial__numero_4007_.pdf",
+      "ano": 2026,
+      "norma": 6441
+    },
+    {
+      "id": 261,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/261/imprensa_oficial__numero_4007_.pdf da norma Lei Complementar nº 955, de 02 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/261",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/261/imprensa_oficial__numero_4007_.pdf",
+      "ano": 2026,
+      "norma": 6442
+    },
+    {
+      "id": 262,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/262/imprensa_oficial___numero_4011_.pdf da norma Lei nº 4.556, de 10 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/262",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/262/imprensa_oficial___numero_4011_.pdf",
+      "ano": 2026,
+      "norma": 6443
+    },
+    {
+      "id": 263,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/263/imprensa_oficial_decreto_489_resolucoes_403_404.pdf da norma Decreto Legislativo nº 489, de 16 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/263",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/263/imprensa_oficial_decreto_489_resolucoes_403_404.pdf",
+      "ano": 2026,
+      "norma": 6444
+    },
+    {
+      "id": 264,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/264/imprensa_oficial_decreto_489_resolucoes_403_404.pdf da norma Resolução nº 403, de 16 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/264",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/264/imprensa_oficial_decreto_489_resolucoes_403_404.pdf",
+      "ano": 2026,
+      "norma": 6445
+    },
+    {
+      "id": 265,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/265/imprensa_oficial_decreto_489_resolucoes_403_404.pdf da norma Resolução nº 404, de 16 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/265",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/265/imprensa_oficial_decreto_489_resolucoes_403_404.pdf",
+      "ano": 2026,
+      "norma": 6446
+    },
+    {
+      "id": 266,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/266/camara_municipal_de.docx da norma Resolução nº 404, de 16 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/266",
+      "metadata": {},
+      "assunto_anexo": "Solicitação de troca de membro da Comissão.",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/266/camara_municipal_de.docx",
+      "ano": 2026,
+      "norma": 6446
+    },
+    {
+      "id": 267,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/267/imp4557.pdf da norma Lei nº 4.557, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/267",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/267/imp4557.pdf",
+      "ano": 2026,
+      "norma": 6447
+    },
+    {
+      "id": 268,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/268/23cffa2d25e0bc2f0b99d4ca52aebfd6lc_956_957.pdf da norma Lei Complementar nº 956, de 22 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/268",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/268/23cffa2d25e0bc2f0b99d4ca52aebfd6lc_956_957.pdf",
+      "ano": 2026,
+      "norma": 6448
+    },
+    {
+      "id": 269,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/269/23cffa2d25e0bc2f0b99d4ca52aebfd6lc_956_957.pdf da norma Lei Complementar nº 957, de 22 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/269",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/269/23cffa2d25e0bc2f0b99d4ca52aebfd6lc_956_957.pdf",
+      "ano": 2026,
+      "norma": 6449
+    },
+    {
+      "id": 270,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/270/imprensa_59-62.pdf da norma Lei nº 4.558, de 24 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/270",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/270/imprensa_59-62.pdf",
+      "ano": 2026,
+      "norma": 6450
+    },
+    {
+      "id": 271,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/271/imprensa_59-62.pdf da norma Lei nº 4.559, de 24 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/271",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/271/imprensa_59-62.pdf",
+      "ano": 2026,
+      "norma": 6451
+    },
+    {
+      "id": 272,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/272/imprensa_59-62.pdf da norma Lei nº 4.560, de 24 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/272",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/272/imprensa_59-62.pdf",
+      "ano": 2026,
+      "norma": 6452
+    },
+    {
+      "id": 273,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/273/imprensa_59-62.pdf da norma Lei nº 4.561, de 24 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/273",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/273/imprensa_59-62.pdf",
+      "ano": 2026,
+      "norma": 6453
+    },
+    {
+      "id": 274,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/274/imprensa_59-62.pdf da norma Lei nº 4.562, de 24 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/274",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/274/imprensa_59-62.pdf",
+      "ano": 2026,
+      "norma": 6454
+    },
+    {
+      "id": 275,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/275/imprensa_63-66.pdf da norma Lei nº 4.563, de 26 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/275",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/275/imprensa_63-66.pdf",
+      "ano": 2026,
+      "norma": 6455
+    },
+    {
+      "id": 276,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/276/imprensa_63-66.pdf da norma Lei nº 4.564, de 26 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/276",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/276/imprensa_63-66.pdf",
+      "ano": 2026,
+      "norma": 6456
+    },
+    {
+      "id": 277,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/277/imprensa_63-66.pdf da norma Lei nº 4.565, de 26 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/277",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/277/imprensa_63-66.pdf",
+      "ano": 2026,
+      "norma": 6457
+    },
+    {
+      "id": 278,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/278/imprensa_63-66.pdf da norma Lei nº 4.566, de 26 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/278",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/278/imprensa_63-66.pdf",
+      "ano": 2026,
+      "norma": 6458
+    },
+    {
+      "id": 279,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/279/impressao_4510f86d811606d2a182b59624408027.pdf da norma Lei nº 4.570, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/279",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/279/impressao_4510f86d811606d2a182b59624408027.pdf",
+      "ano": 2026,
+      "norma": 6467
+    },
+    {
+      "id": 280,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/280/impressao_4510f86d811606d2a182b59624408027.pdf da norma Lei nº 4.571, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/280",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/280/impressao_4510f86d811606d2a182b59624408027.pdf",
+      "ano": 2026,
+      "norma": 6468
+    },
+    {
+      "id": 281,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/281/impressao_4510f86d811606d2a182b59624408027.pdf da norma Lei nº 4.572, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/281",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/281/impressao_4510f86d811606d2a182b59624408027.pdf",
+      "ano": 2026,
+      "norma": 6469
+    },
+    {
+      "id": 282,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/282/impressao_4510f86d811606d2a182b59624408027.pdf da norma Lei nº 4.573, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/282",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/282/impressao_4510f86d811606d2a182b59624408027.pdf",
+      "ano": 2026,
+      "norma": 6470
+    },
+    {
+      "id": 283,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/283/impressao_4510f86d811606d2a182b59624408027.pdf da norma Lei nº 4.574, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/283",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/283/impressao_4510f86d811606d2a182b59624408027.pdf",
+      "ano": 2026,
+      "norma": 6471
+    },
+    {
+      "id": 284,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/284/imprensa.pdf da norma Lei nº 4.575, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/284",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/284/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6472
+    },
+    {
+      "id": 285,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/285/imprensa.pdf da norma Lei nº 4.577, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/285",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/285/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6474
+    },
+    {
+      "id": 286,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/286/imprensa.pdf da norma Lei nº 4.576, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/286",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/286/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6473
+    },
+    {
+      "id": 287,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/287/imprensa.pdf da norma Lei Complementar nº 958, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/287",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/287/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6463
+    },
+    {
+      "id": 288,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/288/imprensa.pdf da norma Lei Complementar nº 959, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/288",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/288/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6464
+    },
+    {
+      "id": 289,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/289/imprensa.pdf da norma Lei Complementar nº 960, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/289",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/289/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6465
+    },
+    {
+      "id": 290,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/290/imprensa.pdf da norma Lei Complementar nº 961, de 06 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/290",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/290/imprensa.pdf",
+      "ano": 2026,
+      "norma": 6466
+    },
+    {
+      "id": 291,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/291/impressao_85_86.pdf da norma Lei nº 4.585, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/291",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/291/impressao_85_86.pdf",
+      "ano": 2026,
+      "norma": 6482
+    },
+    {
+      "id": 292,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/292/impressao_85_86.pdf da norma Lei nº 4.586, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/292",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/292/impressao_85_86.pdf",
+      "ano": 2026,
+      "norma": 6483
+    },
+    {
+      "id": 293,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/293/impressao_67_68_69_87.pdf da norma Lei nº 4.587, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/293",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/293/impressao_67_68_69_87.pdf",
+      "ano": 2026,
+      "norma": 6484
+    },
+    {
+      "id": 294,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/294/impressao_67_68_69_87.pdf da norma Lei nº 4.567, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/294",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/294/impressao_67_68_69_87.pdf",
+      "ano": 2026,
+      "norma": 6459
+    },
+    {
+      "id": 295,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/295/impressao_67_68_69_87.pdf da norma Lei nº 4.568, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/295",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/295/impressao_67_68_69_87.pdf",
+      "ano": 2026,
+      "norma": 6460
+    },
+    {
+      "id": 296,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/296/impressao_67_68_69_87.pdf da norma Lei nº 4.569, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/296",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/296/impressao_67_68_69_87.pdf",
+      "ano": 2026,
+      "norma": 6461
+    },
+    {
+      "id": 297,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/297/impressao_704aec68511bc4da7d4872808fd115b1.pdf da norma Decreto Legislativo nº 490, de 03 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/297",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/297/impressao_704aec68511bc4da7d4872808fd115b1.pdf",
+      "ano": 2026,
+      "norma": 6485
+    },
+    {
+      "id": 298,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/298/impressao_704aec68511bc4da7d4872808fd115b1.pdf da norma Decreto Legislativo nº 491, de 03 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/298",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/298/impressao_704aec68511bc4da7d4872808fd115b1.pdf",
+      "ano": 2026,
+      "norma": 6486
+    },
+    {
+      "id": 299,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/299/impressao_704aec68511bc4da7d4872808fd115b1.pdf da norma Decreto Legislativo nº 492, de 03 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/299",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/299/impressao_704aec68511bc4da7d4872808fd115b1.pdf",
+      "ano": 2026,
+      "norma": 6487
+    },
+    {
+      "id": 300,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/300/impressao_704aec68511bc4da7d4872808fd115b1.pdf da norma Lei nº 4.588, de 05 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/300",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/300/impressao_704aec68511bc4da7d4872808fd115b1.pdf",
+      "ano": 2026,
+      "norma": 6488
+    },
+    {
+      "id": 301,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/301/impressao_704aec68511bc4da7d4872808fd115b1.pdf da norma Lei nº 4.589, de 05 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/301",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/301/impressao_704aec68511bc4da7d4872808fd115b1.pdf",
+      "ano": 2026,
+      "norma": 6489
+    },
+    {
+      "id": 302,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/302/impressao_704aec68511bc4da7d4872808fd115b1.pdf da norma Lei nº 4.590, de 05 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/302",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/302/impressao_704aec68511bc4da7d4872808fd115b1.pdf",
+      "ano": 2026,
+      "norma": 6490
+    },
+    {
+      "id": 304,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/304/impressao_b9276fb2079e558116456f8c2299abe2.pdf da norma Lei nº 4.591, de 05 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/304",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/304/impressao_b9276fb2079e558116456f8c2299abe2.pdf",
+      "ano": 2026,
+      "norma": 6491
+    },
+    {
+      "id": 305,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/305/imprensa_oficial_n._4042_de_12.08.2026.pdf da norma Lei nº 4.592, de 12 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/305",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Daniela Regina Nascimento Cerbi",
+                [
+                  "2026-08-12T17:02:55-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/305/imprensa_oficial_n._4042_de_12.08.2026.pdf",
+      "ano": 2026,
+      "norma": 6492
+    },
+    {
+      "id": 306,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/306/imprensa_oficial_n._4042_de_12.08.2026.pdf da norma Lei nº 4.593, de 12 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/306",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Daniela Regina Nascimento Cerbi",
+                [
+                  "2026-08-12T17:02:55-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/306/imprensa_oficial_n._4042_de_12.08.2026.pdf",
+      "ano": 2026,
+      "norma": 6493
+    },
+    {
+      "id": 307,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/307/impressao_87c0df49934d1b657a5d85ec9818563e.pdf da norma Lei Complementar nº 962, de 14 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/307",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/307/impressao_87c0df49934d1b657a5d85ec9818563e.pdf",
+      "ano": 2026,
+      "norma": 6494
+    },
+    {
+      "id": 308,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/308/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf da norma Lei Complementar nº 963, de 19 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/308",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/308/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf",
+      "ano": 2026,
+      "norma": 6495
+    },
+    {
+      "id": 309,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/309/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf da norma Lei nº 4.594, de 19 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/309",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/309/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf",
+      "ano": 2026,
+      "norma": 6496
+    },
+    {
+      "id": 310,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/310/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf da norma Lei nº 4.595, de 19 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/310",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/310/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf",
+      "ano": 2026,
+      "norma": 6497
+    },
+    {
+      "id": 311,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/311/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf da norma Lei nº 4.596, de 19 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/311",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/311/impressao_a67ec01ae5f9afb16e68486d1d76640a.pdf",
+      "ano": 2026,
+      "norma": 6498
+    },
+    {
+      "id": 312,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/312/lo4598.pdf da norma Lei nº 4.598, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/312",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/312/lo4598.pdf",
+      "ano": 2026,
+      "norma": 6503
+    },
+    {
+      "id": 313,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/313/impressao.php.pdf da norma Lei nº 4.599, de 27 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/313",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/313/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6504
+    },
+    {
+      "id": 314,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/314/impressao.php.pdf da norma Lei nº 4.600, de 27 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/314",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/314/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6505
+    },
+    {
+      "id": 315,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/315/impressao.php.pdf da norma Lei nº 4.601, de 27 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/315",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/315/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6506
+    },
+    {
+      "id": 316,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/316/impressao.php.pdf da norma Lei nº 4.602, de 27 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/316",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/316/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6507
+    },
+    {
+      "id": 317,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/317/impressao.php.pdf da norma Lei nº 4.603, de 27 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/317",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/317/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6508
+    },
+    {
+      "id": 318,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/318/imprensa_decretos.pdf da norma Decreto Legislativo nº 493, de 31 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/318",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/318/imprensa_decretos.pdf",
+      "ano": 2026,
+      "norma": 6500
+    },
+    {
+      "id": 319,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/319/imprensa_decretos.pdf da norma Decreto Legislativo nº 494, de 31 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/319",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/319/imprensa_decretos.pdf",
+      "ano": 2026,
+      "norma": 6501
+    },
+    {
+      "id": 320,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/320/imprensa_decretos.pdf da norma Decreto Legislativo nº 495, de 31 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/320",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/320/imprensa_decretos.pdf",
+      "ano": 2026,
+      "norma": 6502
+    },
+    {
+      "id": 321,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/321/impressao.php.pdf da norma Lei nº 4.604, de 02 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/321",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/321/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6509
+    },
+    {
+      "id": 322,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/322/impressao.php.pdf da norma Lei nº 4.605, de 02 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/322",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/322/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6510
+    },
+    {
+      "id": 323,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/323/impressao.php.pdf da norma Decreto Legislativo nº 498, de 15 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/323",
+      "metadata": {},
+      "assunto_anexo": "IMPRENSA OFICIAL",
+      "anexo_arquivo": "http://sapl.leme.sp.leg.br/media/sapl/public/anexonormajuridica/2026/323/impressao.php.pdf",
+      "ano": 2026,
+      "norma": 6513
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/0afe9688ebef6a00cd8a53320666202d4cc26bd1ea560370e35967b34624bdf9.json",
+      "sha256": "ef6e0c010c45f5c8758b1e924d896b8b06cff9e3b610668d0a7003b1ffb09e4b",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/0afe9688ebef6a00cd8a53320666202d4cc26bd1ea560370e35967b34624bdf9.meta.json"
+    },
+    {
+      "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/3d4182c2edb8f11e0967579952a77e5fd9d8081a7b83b3ccbdc6951b430c865e.json",
+      "sha256": "06bbc0fe4db2216938ae390243eec2ed6eb39e640d3cc713b68d774f2ac3a088",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/3d4182c2edb8f11e0967579952a77e5fd9d8081a7b83b3ccbdc6951b430c865e.meta.json"
+    },
+    {
+      "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/057ee6a18b3d02e49872b7165f35ae853bf7e8e7d43ef688e5fbfac998af6b2f.json",
+      "sha256": "9579c254afbe75bfef18c61630b16271122914341cf62cf3a9fa62ae97de8a77",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/057ee6a18b3d02e49872b7165f35ae853bf7e8e7d43ef688e5fbfac998af6b2f.meta.json"
+    },
+    {
+      "url": "https://sapl.leme.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/7d767501e8132071a28060dc708c91317687cfe00461f46fc2ea33c508fc4d51.json",
+      "sha256": "a5b4aee81b9f9509e3ab34a0f8e50c14abfbde040de9a17e5f2731b97d7943fc",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.leme.sp.leg.br/7d767501e8132071a28060dc708c91317687cfe00461f46fc2ea33c508fc4d51.meta.json"
+    }
+  ],
+  "total": 322
+}

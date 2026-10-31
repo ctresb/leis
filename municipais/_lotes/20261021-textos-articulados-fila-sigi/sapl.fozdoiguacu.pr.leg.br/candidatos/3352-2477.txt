@@ -1,0 +1,703 @@
+Dispõe sobre as diretrizes, regulamentação e operacionalização do sistema de controle interno no âmbito da Câmara Municipal de Foz do Iguaçu e revoga a Resolução nº 102, de 23 de dezembro de 2013.
+
+
+O Presidente da Câmara Municipal de Foz do Iguaçu, Estado do Paraná, Faço saber que a Câmara Municipal aprovou e eu, na qualidade de seu Presidente, promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica instituído, no âmbito da Câmara Municipal de Foz do Iguaçu, o sistema de controle interno, nos termos dos arts. 31, 70 e 74 da Constituição Federal e do art. 122 da Lei Orgânica do Município, com as seguintes finalidades:
+
+
+I –
+
+avaliar, acompanhar e contribuir para o cumprimento dos objetivos e metas previstas no Plano Plurianual e no Planejamento Estratégico da Câmara Municipal de Foz do Iguaçu;
+
+
+II –
+
+verificar a observância e a comprovação da legalidade dos atos de gestão e avaliar os resultados quanto à efetividade, eficácia e eficiência das ações administrativas relativas à gestão orçamentária, financeira, de pessoal, patrimonial e operacional;
+
+
+III –
+
+apoiar o Tribunal de Contas do Estado do Paraná no exercício de sua missão institucional;
+
+
+IV –
+
+evitar erros, fraudes, desperdícios, irregularidades ou ilegalidades, mediante controles internos que priorizem as ações preventivas e concomitantes à execução dos atos controlados, sem prejuízo de controles corretivos, e;
+
+
+V –
+
+adotar práticas de gerenciamento de riscos e instituição de controles internos.
+
+
+##### Seção I — Das Definições
+
+
+Art. 2º.
+
+Para fins do disposto nesta Resolução, entende-se por:
+
+
+I –
+
+Sistema de Controle Interno: processo conduzido pela estrutura de governança e executado pela Administração e por todo o seu corpo funcional, integrado ao processo de gestão em todas as áreas e em todos os setores da Câmara Municipal de Foz do Iguaçu, e estruturado para enfrentar riscos e fornecer razoável segurança de que, na consecução da missão, dos objetivos e das metas institucionais, os princípios constitucionais da Administração Pública serão obedecidos e os objetivos gerais de controle serão atendidos;
+
+
+II –
+
+Unidade de Controle Interno: unidade organizacional independente da gerência e que se reporta diretamente à Presidência, responsável pela orientação, acompanhamento e avaliação do Sistema de Controle Interno da Câmara Municipal de Foz do Iguaçu;
+
+
+III –
+
+Controles Internos Administrativos: conjunto de atividades e procedimentos de controle incidentes sobre os processos de trabalho da organização com o objetivo de diminuir os riscos e alcançar os objetivos da Câmara Municipal de Foz do Iguaçu, presentes em todos os níveis e em todas as funções e executados por todo o corpo funcional;
+
+
+IV –
+
+Controles Internos Avaliativos: realizado pela Unidade de Controle Interno com a finalidade de auditar e avaliar a consistência, qualidade e suficiência dos controles internos administrativos ou de gestão;
+
+
+V –
+
+Unidades Executoras do Sistema de Controle Interno: todas as unidades integrantes da estrutura organizacional responsáveis pela execução do processo de trabalho da Câmara Municipal de Foz do Iguaçu, pela identificação e avaliação dos riscos inerentes a esses processos e pela normatização e execução das rotinas de trabalho e dos procedimentos de controle destinados à mitigação dos riscos;
+
+
+VI –
+
+Processo de Trabalho: conjunto de atividades relacionadas e sequenciais que recebe entradas, agrega valor e produz saídas;
+
+
+VII –
+
+Risco: possibilidade de que um evento afete negativamente o alcance dos objetivos;
+
+
+VIII –
+
+Gerenciamento de Riscos: adoção de um conjunto de técnicas e metodologias que ajudem a identificar, analisar e gerir os riscos de maneira efetiva;
+
+
+IX –
+
+Auditoria Interna: atividade independente e objetiva que presta serviços de avaliação e consultoria, tendo como objetivo adicionar valor e melhorar as operações de uma organização;
+
+
+X –
+
+Modelo das Três Linhas: modelo que visa ajudar a Câmara Municipal de Foz do Iguaçu a identificar estruturas e processos que melhor auxiliam no atingimento de objetivos e facilitam uma forte governança e gerenciamento de riscos, sendo baseado na atuação coordenada de três linhas, cada uma delas com responsabilidades e funções;
+
+
+XI –
+
+Órgãos de Governança: órgãos colegiados responsáveis pelo mais alto nível de direção da Câmara Municipal de Foz do Iguaçu, compreendendo a responsabilidade pela definição e avaliação da estratégia e políticas institucionais, pelo monitoramento da conformidade e do desempenho destas, de modo a garantir que atendam ao interesse público;
+
+
+XII –
+
+Pontos de Controle: aspectos relevantes em um sistema administrativo, integrantes das rotinas de trabalho ou na forma de indicadores, sobre os quais, em função de sua importância, grau de risco ou efeitos posteriores, deve haver algum procedimento de controle.
+
+
+##### Seção II — Dos Princípios
+
+
+Art. 3º.
+
+Além dos princípios constitucionais e legais aplicáveis, em especial os da legalidade, impessoalidade, moralidade, publicidade, eficiência, razoabilidade, economicidade e do dever de prestar contas, o Sistema de Controle Interno deve ser fundamentado nos seguintes princípios gerais de controle interno:
+
+
+I –
+
+relação custo/benefício;
+
+
+II –
+
+qualificação e treinamento de pessoal;
+
+
+III –
+
+rodízio de atividades e/ou atribuições, sempre que possível, entre os integrantes do setor, respeitado o grau de responsabilidade do cargo e/ou da função;
+
+
+IV –
+
+delimitação de responsabilidades;
+
+
+V –
+
+descentralização e segregação de funções;
+
+
+VI –
+
+instituição de normas e manuais de procedimentos para as atividades integrantes do processo de trabalho;
+
+
+VII –
+
+adoção de sistemas de revisão e avaliação das atividades integrantes do processo de trabalho;
+
+
+VIII –
+
+aderência a diretrizes e normas legais.
+
+
+#### CAPÍTULO II — DO MODELO DAS TRÊS LINHAS
+
+
+Art. 4º.
+
+O Sistema de Controle Interno da Câmara Municipal de Foz do Iguaçu é orientado por Três Linhas, em que cada uma desempenha um papel próprio na estrutura da organização, com diferentes níveis de autonomia.
+
+
+Parágrafo único
+
+O emprego dos termos "Primeira Linha, Segunda Linha e Terceira Linha" não pretende denotar elementos estruturais, hierarquia ou operações sequenciais, mas tão somente promover uma diferenciação de funções no gerenciamento de riscos da Instituição.
+
+
+Art. 5º.
+
+Incumbe à Presidência e aos órgãos de governança a promoção de elevados padrões éticos e de integridade, além do estabelecimento de cultura organizacional que demonstre e enfatize a importância do gerenciamento de risco e a adoção de controles internos.
+
+
+Art. 6º.
+
+A existência do Sistema de Controle Interno não exime a responsabilidade dos agentes públicos pelos atos por eles praticados no exercício de suas funções, nos limites de suas competências.
+
+
+##### Seção I — Da Primeira Linha
+
+
+Art. 7º.
+
+A Primeira Linha contempla os controles internos administrativos a serem instituídos e mantidos pelos gestores no âmbito de seus processos de trabalho.
+
+
+§ 1º
+
+A Primeira Linha é exercida por chefes de setores, vereadores e demais agentes públicos atuantes na execução de atividades e tarefas.
+
+
+§ 2º
+
+O exercício da Primeira Linha envolve as seguintes atribuições:
+
+
+I –
+
+supervisionar as atividades executadas por seus subordinados;
+
+
+II –
+
+identificar, mensurar, avaliar e mitigar riscos;
+
+
+III –
+
+instituir, implementar e manter controles internos adequados e eficientes, na medida requerida pelos riscos, em conformidade com a natureza, a complexidade, a estrutura e a missão da Câmara Municipal de Foz do Iguaçu;
+
+
+IV –
+
+implementar ações corretivas para resolver deficiências em processos de trabalho e controles internos administrativos; e
+
+
+V –
+
+guiar o desenvolvimento e a implementação de políticas e procedimentos internos destinados a garantir que as atividades sejam realizadas de acordo com as metas e objetivos da Câmara Municipal de Foz do Iguaçu.
+
+
+##### Seção II — Da Segunda Linha
+
+
+Art. 8º.
+
+A Segunda Linha contempla funções de:
+
+
+I –
+
+suporte ao gerenciamento de riscos e conformidade realizado pela Primeira Linha, com a finalidade de fornecer conhecimentos complementares, apoio, monitoramento e questionamentos àqueles com atuação na Primeira Linha;
+
+
+II –
+
+avaliação de conformidade dos atos praticados pela Primeira Linha.
+
+
+Art. 9º.
+
+A Segunda Linha é exercida pelos agentes que exercem funções de direção, assessoramento e assistência técnica.
+
+
+Art. 10.
+
+São atribuições da Segunda Linha:
+
+
+I –
+
+prestar auxílio à Primeira Linha na concepção e desenvolvimento de processos e controles internos para gerir adequadamente os riscos;
+
+
+II –
+
+definir atividades para monitorar e medir o resultado em comparação com as expectativas estabelecidas;
+
+
+III –
+
+acompanhar a eficácia das atividades dos controles internos administrativos da Primeira Linha;
+
+
+IV –
+
+fornecer estrutura para o gerenciamento de riscos;
+
+
+V –
+
+identificar e monitorar questões conhecidas e emergentes que afetam os riscos e controles da Câmara Municipal de Foz do Iguaçu;
+
+
+VI –
+
+identificar mudanças no apetite de risco implícito da organização; e
+
+
+VII –
+
+fornecer orientações e formação adequadas relacionadas aos processos de gerenciamento de riscos e controles.
+
+
+##### Seção III — Da Terceira Linha
+
+
+Art. 11.
+
+A Terceira Linha compreende a atividade de auditoria interna e fiscalização, com maior nível de autonomia e objetividade em relação às outras Linhas e é desempenhada pela Unidade de Controle Interno.
+
+
+Art. 12.
+
+Os setores e agentes responsáveis pela Primeira e Segunda Linhas devem contribuir para o desempenho da auditoria interna e as atividades de fiscalização.
+
+
+§ 1º
+
+A Unidade de Controle Interno terá acesso irrestrito à informação, processo ou documento, quando indispensável à auditoria interna e as atividades de fiscalização, devendo os setores e agentes atender às solicitações de forma tempestiva e completa.
+
+
+§ 2º
+
+As informações obtidas em decorrência do exercício de suas funções deverão ser mantidas em absoluto sigilo, devendo ser utilizadas exclusivamente para elaboração de pareceres destinados ao Chefe do Poder Legislativo ou setores para providências e correções.
+
+
+§ 3º
+
+O agente público que, por ação ou omissão dolosa ou culposa, causar embaraço ou obstáculo à auditoria interna e as atividades de fiscalização ficará sujeito à responsabilização.
+
+
+#### CAPÍTULO III — DOS CONTROLES INTERNOS
+
+
+##### Seção I — Dos Controles Internos Administrativos
+
+
+Art. 13.
+
+Os controles internos administrativos são de responsabilidade da gestão, operados pela Primeira e Segunda Linha, funcionando como instrumentos auxiliares de gestão e de resposta aos riscos, com o fim de obter maior probabilidade de atingir os objetivos institucionais.
+
+
+Art. 14.
+
+A instituição de controles internos administrativos deve atender aos seguintes propósitos:
+
+
+I –
+
+dar resposta aos riscos em conformidade com a política instituída pela Câmara Municipal de Foz do Iguaçu;
+
+
+II –
+
+garantir a aderência às leis, aos atos normativos e às políticas da Câmara Municipal de Foz do Iguaçu;
+
+
+III –
+
+assegurar a precisão e a confiabilidade das informações;
+
+
+IV –
+
+estimular a eficiência operacional; e
+
+
+V –
+
+proteger os ativos da Câmara Municipal de Foz do Iguaçu.
+
+
+##### Seção II — Dos Controles Internos Avaliativos
+
+
+Art. 15.
+
+Os controles internos avaliativos são de responsabilidade da Unidade de Controle Interno e tem por finalidade auditar e avaliar a consistência, qualidade e suficiência dos controles internos administrativos.
+
+
+#### CAPÍTULO IV — DOS PROCESSOS DE TRABALHO
+
+
+Art. 16.
+
+Os processos de trabalho serão instituídos, normatizados e executados respeitando-se a legislação vigente e estarão sujeitos a revisões periódicas, devendo, ainda:
+
+
+I –
+
+ser eficazes e eficientes, com a implantação e a execução de controles internos em todos os processos da Cadeia de Valor da Câmara Municipal de Foz do Iguaçu;
+
+
+II –
+
+possibilitar o acompanhamento sistemático das atividades desenvolvidas, viabilizando-se o alcance dos objetivos e metas definidos;
+
+
+III –
+
+prever meios de identificar e avaliar riscos que possam afetar a realização dos objetivos da Câmara Municipal de Foz do Iguaçu;
+
+
+IV –
+
+prever controles internos adequados para dar a resposta aos riscos em conformidade com a política instituída pela Câmara Municipal de Foz do Iguaçu;
+
+
+V –
+
+garantir a segregação de funções entre os Setores e, sempre que necessário, entre os servidores, evitando-se a concentração de responsabilidades concomitantes no mesmo processo de trabalho;
+
+
+VI –
+
+permitir que as decisões relevantes sejam limitadas às pessoas com atribuições para tanto, as quais deverão responder por seus atos; e
+
+
+VII –
+
+prevenir e mitigar os riscos a que a Câmara Municipal de Foz do Iguaçu possa estar exposta.
+
+
+Art. 17.
+
+Os setores responsáveis pelo gerenciamento de determinado processo de trabalho serão identificados a partir do mapeamento definido pela Cadeia de Valor da Câmara Municipal de Foz do Iguaçu.
+
+
+#### CAPÍTULO V — DAS COMPETÊNCIAS
+
+
+##### Seção I — Da Competência da Presidência
+
+
+Art. 18.
+
+Compete à Presidência:
+
+
+I –
+
+regulamentar o funcionamento do Sistema de Controle Interno da Câmara Municipal de Foz do Iguaçu;
+
+
+II –
+
+conduzir e supervisionar o processo de normatização das rotinas e dos procedimentos de controle dos processos de trabalho;
+
+
+III –
+
+garantir o cumprimento ao princípio da segregação de funções na estrutura organizacional e no fluxo dos processos de trabalho da Câmara Municipal de Foz do Iguaçu;
+
+
+IV –
+
+garantir estrutura de trabalho adequada e as prerrogativas e condições necessárias à atuação do Diretor da Unidade de Controle Interno;
+
+
+V –
+
+garantir condições e promover o desenvolvimento profissional contínuo dos profissionais de controle interno;
+
+
+VI –
+
+implantar e supervisionar o funcionamento da política de gerenciamento de riscos da Câmara Municipal de Foz do Iguaçu;
+
+
+VII –
+
+analisar e implementar as avaliações e recomendações propostas pela Unidade de Controle Interno com vistas a melhoria do Sistema de Controle Interno da Câmara Municipal de Foz do Iguaçu.
+
+
+Parágrafo único
+
+Na hipótese de a Presidência entender que as recomendações propostas pela Unidade de Controle Interno não são cabíveis, deverá motivar sua decisão.
+
+
+##### Seção II — Da Competência da Unidade de Controle Interno
+
+
+Art. 19.
+
+Compete à Unidade de Controle Interno:
+
+
+I –
+
+verificar a legalidade e avaliar os resultados quanto à economicidade, eficácia e eficiência, da gestão orçamentária, financeira, operacional, patrimonial e de pessoal da Câmara Municipal de Foz do Iguaçu;
+
+
+II –
+
+avaliar o cumprimento e execução das metas previstas no Plano Plurianual, na Lei de Diretrizes Orçamentárias e na Lei Orçamentária Anual pela Câmara Municipal de Foz do Iguaçu;
+
+
+III –
+
+apoiar o Controle Externo no exercício de suas funções;
+
+
+IV –
+
+representar ao Tribunal de Contas do Estado do Paraná sobre irregularidades e ilegalidades apontadas em diligências, quando não sanadas.
+
+
+V –
+
+acompanhar as atividades relacionadas ao Sistema de Controle Interno da Câmara Municipal de Foz do Iguaçu;
+
+
+VI –
+
+assessorar e orientar a gestão para o aprimoramento do Sistema de Controle Interno, sobre a aplicação da legislação e na definição das rotinas internas e dos procedimentos de controle, assim como sobre os aspectos relacionados ao controle externo;
+
+
+VII –
+
+realizar auditorias internas, inclusive de avaliação do controle interno e de avaliação da política de gerenciamento de riscos da Câmara Municipal de Foz do Iguaçu;
+
+
+VIII –
+
+monitorar as providências adotadas pelo gestor diante de danos causados ao erário;
+
+
+IX –
+
+acompanhar os limites constitucionais e legais;
+
+
+X –
+
+avaliar a observância, pelos órgãos e setores que compõem o Sistema, dos procedimentos, normas e regras estabelecidas pela legislação pertinente;
+
+
+XI –
+
+elaborar parecer conclusivo sobre as contas anuais;
+
+
+XII –
+
+revisar e emitir parecer acerca de processos de Tomadas de Contas Especiais;
+
+
+XIII –
+
+monitorar o cumprimento das recomendações e determinações dos órgãos de controle interno e externo;
+
+
+XIV –
+
+zelar pela qualidade e pela independência do Sistema de Controle Interno;
+
+
+XV –
+
+elaborar o Plano Anual de Atividades da Unidade de Controle Interno e submetê-lo à aprovação da Presidência;
+
+
+XVI –
+
+promover a ética, a transparência e o controle social;
+
+
+XVII –
+
+verificar a consistência dos dados contidos no Relatório de Gestão Fiscal, elaborado no modo estabelecido pelos arts. 54 e 55 da Lei Complementar Federal nº 101/2000 (Lei de Responsabilidade Fiscal), o qual deverá ser assinado, também, pelo Diretor da Unidade de Controle Interno;
+
+
+XVIII –
+
+verificar as medidas necessárias ao cumprimento do estabelecido na Lei de Acesso à Informação (Lei Federal nº 12.527/2011), bem como das regras relativas à Transparência da Gestão Fiscal, disciplinadas no art. 48 da Lei Complementar Federal nº 101/2000 (Lei de Responsabilidade Fiscal), com a Redação dada pela Lei Complementar Federal nº 131/2009;
+
+
+XIX –
+
+elaborar e encaminhar relatórios periódico e anual de atividades à Presidência;
+
+
+XX –
+
+realizar outras atividades específicas determinadas por norma ou ato do Tribunal de Contas do Estado do Paraná ou da Câmara Municipal de Foz do Iguaçu.
+
+
+Parágrafo único
+
+Salvo disposição em contrário ou da impossibilidade em razão da matéria, os trabalhos relacionados às atribuições previstas neste artigo podem ser realizados por amostragem, com a aplicação de critérios de seleção relacionados à materialidade, relevância e criticidade.
+
+
+##### Seção III — Da Competência Das Unidades Executoras
+
+
+Art. 20.
+
+Compete às unidades executoras do Sistema de Controle Interno:
+
+
+I –
+
+prestar apoio na identificação dos pontos de controle inerentes ao sistema administrativo ao qual o Setor está diretamente envolvido, assim como no estabelecimento dos respectivos procedimentos de controle;
+
+
+II –
+
+coordenar o processo de elaboração, implementação ou atualização do Manual de Rotinas Internas e Procedimentos de Controle;
+
+
+III –
+
+cumprir e exercer o acompanhamento sobre a efetiva observância do Manual de Rotinas Internas e Procedimentos de Controle e propor o seu constante aprimoramento;
+
+
+IV –
+
+encaminhar à Unidade de Controle Interno, na forma documental, as situações de irregularidades ou ilegalidades que vierem a seu conhecimento mediante denúncias ou outros meios, juntamente com evidências das apurações;
+
+
+V –
+
+adotar providências para as questões relacionadas ao Tribunal de Contas do Estado do Paraná afetas ao seu Setor;
+
+
+VI –
+
+atender às solicitações da Unidade de Controle Interno quanto às informações, providências e recomendações;
+
+
+VII –
+
+comunicar à chefia superior, com cópia para a Unidade de Controle Interno, as situações de ausência de providências para a apuração e/ou regularização de desconformidades;
+
+
+VIII –
+
+promover o mapeamento e o gerenciamento de riscos relacionados aos objetivos operacionais dos processos de trabalho de responsabilidade do respectivo Setor.
+
+
+#### CAPÍTULO VI — DA ATIVIDADE DE AUDITORIA INTERNA
+
+
+Art. 21.
+
+As auditorias internas serão realizadas pela Unidade de Controle Interno, conforme estabelecido no Plano Anual de Atividades da Unidade de Controle Interno para o exercício.
+
+
+Parágrafo único
+
+Para a elaboração da programação de auditoria interna, poderão ser obtidos subsídios junto aos setores da Câmara Municipal de Foz do Iguaçu para elaboração da matriz de risco.
+
+
+Art. 22.
+
+O processo de auditoria interna engloba as seguintes etapas:
+
+
+I –
+
+planejamento;
+
+
+II –
+
+execução;
+
+
+III –
+
+relatório de auditoria.
+
+
+Parágrafo único
+
+O relatório de auditoria interna deverá ser encaminhado à Presidência, com a descrição dos achados e recomendações de ações e medidas administrativas cabíveis.
+
+
+Art. 23.
+
+Concluído o relatório, a Unidade de Controle Interno fará o monitoramento das questões relatadas, a fim de verificar se as recomendações foram implementadas.
+
+
+Parágrafo único
+
+A fase de monitoramento engloba os seguintes ciclos:
+
+
+I –
+
+primeiro ciclo: avaliação do plano de ação e elaboração da matriz de planejamento do monitoramento;
+
+
+II –
+
+segundo ciclo: verificação do cumprimento das ações descritas no plano de ação, segundo o grau de implementação, elaboração de relatório e redefinição do planejamento do monitoramento;
+
+
+III –
+
+terceiro ciclo: avaliação do cumprimento das recomendações, dos resultados alcançados e elaboração do relatório final.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 24.
+
+Fica revogada a Resolução nº 102, de 23 de dezembro de 2013.
+
+
+Art. 25.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Sala das Sessões da Câmara Municipal de Foz do Iguaçu, 11 de novembro de 2025.
+
+Paulo Aparecido de Souza  
+Presidente
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

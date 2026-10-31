@@ -1,0 +1,42 @@
+{
+  "host": "sapl.chapadadonorte.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadonorte.mg.leg.br/d638665fe83db0dc8e2fd5af55ec717d4404f7be6c93834aef59f37dccf62f9f.json",
+    "url": "https://sapl.chapadadonorte.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.chapadadonorte.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:40:02.027067-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadonorte.mg.leg.br/8f7eed1d4e21e5c03d5d12aa5cda0a1f9446fea7238e106a0fe04445bea3de5f.json",
+    "url": "https://sapl.chapadadonorte.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.chapadadonorte.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9eaa58a82ed6df6d0f167f6ebb64018363c3641fb29abb583f6a693b44f7068c",
+    "bytes": 683,
+    "capturado_em": "2026-10-27T22:40:00.961800-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadonorte.mg.leg.br/9d02cf6544fc5b696d2a642d2f6407b4e9bf14ba0fb4533303c9f6704efdb45f.json",
+      "url": "https://sapl.chapadadonorte.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.chapadadonorte.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:40:04.194094-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

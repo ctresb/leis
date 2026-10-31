@@ -1,0 +1,1258 @@
+{
+  "estado": "indice_completo",
+  "total": 94,
+  "anexos": [
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/10/resolucao_no_04-1999_-_alterada_estabelece_a_estrutura_administrativa_da_camara_municipal_de_cacu.pdf da norma Resolução nº 4, de 09 de dezembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "(Alterada) Estabelece a Estrutura Administrativa da Câmara Municipal de Caçu.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/1999/10/resolucao_no_04-1999_-_alterada_estabelece_a_estrutura_administrativa_da_camara_municipal_de_cacu.pdf",
+      "ano": 1999,
+      "norma": 1291
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/11/resolucao_no_07-2003_-_acrescenta_dispositivo_a_resolucao_no_05-2003.pdf da norma Resolução nº 5, de 18 de junho de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Acrescenta dispositivo legal à Resolução nº 05/03, de 18 de junho de 2003, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2003/11/resolucao_no_07-2003_-_acrescenta_dispositivo_a_resolucao_no_05-2003.pdf",
+      "ano": 2003,
+      "norma": 1293
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/12/resolucao_no_05-2006_-_estabelece_o_regimento_interno_da_camara_municipal_de_cacu.pdf da norma Resolução nº 2, de 10 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Estabelece o Regimento Interno da Câmara Municipal de Caçu.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2006/12/resolucao_no_05-2006_-_estabelece_o_regimento_interno_da_camara_municipal_de_cacu.pdf",
+      "ano": 2006,
+      "norma": 1294
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/16/lei_no_1176_-_institui_o_codigo_tributario_do_municipio_-_em_alteracao.pdf da norma Lei Ordinária nº 1.176, de 30 de dezembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE CAÇU E SUAS ALTERAÇÕES POSTERIORES",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/1998/16/lei_no_1176_-_institui_o_codigo_tributario_do_municipio_-_em_alteracao.pdf",
+      "ano": 1998,
+      "norma": 1553
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/18/lei_2184_-_anexos.pdf da norma Lei Ordinária nº 2.184, de 12 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2018/18/lei_2184_-_anexos.pdf",
+      "ano": 2018,
+      "norma": 2563
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/20/adin_no_5606022.84.2018.8.09.0000.pdf da norma Emenda à Lei Orgânica nº 22, de 13 de agosto de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Ação Direta de Inconstitucionalidade julgada procedente ante a Emenda à Lei Orgânica Municipal nº 22/2018.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2018/20/adin_no_5606022.84.2018.8.09.0000.pdf",
+      "ano": 2018,
+      "norma": 24
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/22/lei_complementar_no_005-2018_-_altera_o_codigo_tributario_do_municipio_de_cacu.pdf da norma Lei Complementar nº 5, de 14 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Lei Complementar nº 005/2018 e alterações",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2018/22/lei_complementar_no_005-2018_-_altera_o_codigo_tributario_do_municipio_de_cacu.pdf",
+      "ano": 2018,
+      "norma": 2721
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/23/lei_956_-_estabelece_a_estrutura_administrativa_da_prefeitura_municipal_de_cacu_estado_de_goias_fixa_vencimentos_e_da_outras_providencias.pdf da norma Lei Ordinária nº 956, de 08 de março de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 956 e alterações",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/1993/23/lei_956_-_estabelece_a_estrutura_administrativa_da_prefeitura_municipal_de_cacu_estado_de_goias_fixa_vencimentos_e_da_outras_providencias.pdf",
+      "ano": 1993,
+      "norma": 1333
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/24/lei_no_2364_-_anexo_-_plano_municipal_de_saneamento_basico-pmsb.pdf da norma Lei Ordinária nº 2.364, de 23 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Saneamento Básico - PMSB",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2020/24/lei_no_2364_-_anexo_-_plano_municipal_de_saneamento_basico-pmsb.pdf",
+      "ano": 2020,
+      "norma": 2739
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/25/lei_no_2368_-_anexo.pdf da norma Lei Ordinária nº 2.368, de 26 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei nº 2368/2020.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2020/25/lei_no_2368_-_anexo.pdf",
+      "ano": 2020,
+      "norma": 2743
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/26/lei_no_2369_-_anexo.pdf da norma Lei Ordinária nº 2.369, de 26 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Quadros e Demonstrativos da Lei nº 2369/2020.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2020/26/lei_no_2369_-_anexo.pdf",
+      "ano": 2020,
+      "norma": 2744
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/27/lei_1835_-_cria_o_programa_de_atendimento_a_populacao_na_area_e_assistencia_social_no_ambito_do_municipio_de_cacu..pdf da norma Lei Ordinária nº 1.835, de 15 de maio de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Lei Ordinária nº 1.835, de 15 de maio de 2013, e alterações.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2013/27/lei_1835_-_cria_o_programa_de_atendimento_a_populacao_na_area_e_assistencia_social_no_ambito_do_municipio_de_cacu..pdf",
+      "ano": 2013,
+      "norma": 2217
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/28/lei_ordinaria_estadual_no_17.810-2012_-_denomina_maria_aparecida_paniago_o_terminal_rodoviario_no_municipio_de_cacu-go.pdf da norma Lei Ordinária nº 1.020, de 24 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Lei Estadual que denomina o Terminal Rodoviário de Caçu",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/1994/28/lei_ordinaria_estadual_no_17.810-2012_-_denomina_maria_aparecida_paniago_o_terminal_rodoviario_no_municipio_de_cacu-go.pdf",
+      "ano": 1994,
+      "norma": 1397
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/29/pl_no_17-21_autoriza_o_poder_executivo_municipal_a_fazer_contribuicao_financeira_a_associacao_arraial_dos_amigos_de_cacu-go_e_da_outras_providencias_de_autoria_da_prefeita..pdf da norma Lei Ordinária nº 2.386, de 07 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 17, de 26 de abril de 2021. Autoriza o Poder Executivo Municipal a fazer contribuição financeira à \"Associação Arraial dos Amigos\" de Caçu/GO, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/29/pl_no_17-21_autoriza_o_poder_executivo_municipal_a_fazer_contribuicao_financeira_a_associacao_arraial_dos_amigos_de_cacu-go_e_da_outras_providencias_de_autoria_da_prefeita..pdf",
+      "ano": 2021,
+      "norma": 2779
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/30/autografo_no_01-2021.pdf da norma Lei Ordinária nº 2.374, de 19 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo de Lei nº 01-2021, Concede revisão geral de salário aos Servidores Públicos ativos, inativos e pensionistas, aos Agentes Políticos do Poder Executivo, aos Conselheiros Tutelares do Município de Caçu/GO, aos servidores do Instituto Municipal",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/30/autografo_no_01-2021.pdf",
+      "ano": 2021,
+      "norma": 2755
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/31/lei_no_2374_-.pdf da norma Autógrafo nº 1, de 19 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Lei Ordinária nº 2374/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/31/lei_no_2374_-.pdf",
+      "ano": 2021,
+      "norma": 2754
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/32/lei_no_2375_-.pdf da norma Autógrafo nº 2, de 01 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 2375/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/32/lei_no_2375_-.pdf",
+      "ano": 2021,
+      "norma": 2764
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/33/lei_no_2376_-.pdf da norma Autógrafo nº 3, de 01 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 2376/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/33/lei_no_2376_-.pdf",
+      "ano": 2021,
+      "norma": 2782
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/34/autografo_no_02-2021.pdf da norma Lei Ordinária nº 2.375, de 02 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo de Lei nº 02/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/34/autografo_no_02-2021.pdf",
+      "ano": 2021,
+      "norma": 2766
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/35/pl_no_17-21.pdf da norma Autógrafo nº 4, de 05 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 17/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/35/pl_no_17-21.pdf",
+      "ano": 2021,
+      "norma": 2783
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/36/pl_no_06-2021_-_22.01_-_dispoe_sobre_abertura_de_credito_especial_e_da_outras_providencias..pdf da norma Autógrafo nº 5, de 05 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 06/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/36/pl_no_06-2021_-_22.01_-_dispoe_sobre_abertura_de_credito_especial_e_da_outras_providencias..pdf",
+      "ano": 2021,
+      "norma": 2784
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/37/projeto_de_lei_no_23.pdf da norma Autógrafo nº 19, de 29 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei Ordinária nº 23/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/37/projeto_de_lei_no_23.pdf",
+      "ano": 2021,
+      "norma": 2800
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/pl_no_20-2021_-_27-05_-_reconhece_o_dispensario_espirita_como_associacao_filantropica_e_prestadora_de_servico_de_utilidade_publica..pdf da norma Autógrafo nº 18, de 29 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei Ordinária nº 20/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/38/pl_no_20-2021_-_27-05_-_reconhece_o_dispensario_espirita_como_associacao_filantropica_e_prestadora_de_servico_de_utilidade_publica..pdf",
+      "ano": 2021,
+      "norma": 2799
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/39/pr_no_05-21_10-05_-_dispoe_sobre_convalidacao_dos_atos_inerente_ao_processo_seletivo_simplificado_no_0012020_e_da_outras_providencias..pdf da norma Resolução nº 5, de 21 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Resolução",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/39/pr_no_05-21_10-05_-_dispoe_sobre_convalidacao_dos_atos_inerente_ao_processo_seletivo_simplificado_no_0012020_e_da_outras_providencias..pdf",
+      "ano": 2021,
+      "norma": 2801
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/40/autografo_no_17-2021.pdf da norma Lei Ordinária nº 2.390, de 21 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo de Lei nº17/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/40/autografo_no_17-2021.pdf",
+      "ano": 2021,
+      "norma": 2798
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/41/anexo_decreto_legislativo.pdf da norma Decreto Legislativo nº 1, de 27 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Anexo do Decreto Legislativo nº 01/2021",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/41/anexo_decreto_legislativo.pdf",
+      "ano": 2021,
+      "norma": 2988
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/42/pl_no_34-2021_-_anexo.pdf da norma Lei Ordinária nº 2.419, de 13 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Anexo do QDD",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/42/pl_no_34-2021_-_anexo.pdf",
+      "ano": 2021,
+      "norma": 3111
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/43/anexo_lei_2465-22.pdf da norma Lei Ordinária nº 2.465, de 10 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei. Croquis e Parecer Técnico.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2022/43/anexo_lei_2465-22.pdf",
+      "ano": 2022,
+      "norma": 3316
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/44/lei_no_2.483-2022_anexo.pdf da norma Lei Ordinária nº 2.483, de 30 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2022/44/lei_no_2.483-2022_anexo.pdf",
+      "ano": 2022,
+      "norma": 3365
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/46/ata_da_sessao_que_julgou_o_pdl_no_01-2019.pdf da norma Decreto Legislativo nº 3, de 14 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Ata da 27ª Sessão Ordinária que votou o Balanço das Contas de Governo do ano de 2012.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2019/46/ata_da_sessao_que_julgou_o_pdl_no_01-2019.pdf",
+      "ano": 2019,
+      "norma": 3052
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/47/ata_da_sessao_que_julgou_o_pdl_no_02-2019.pdf da norma Decreto Legislativo nº 4, de 18 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão que votou no Projeto de Decreto Legislativo que aprova o Balanço das Contas de Governo de 2017.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2019/47/ata_da_sessao_que_julgou_o_pdl_no_02-2019.pdf",
+      "ano": 2019,
+      "norma": 3053
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/48/ata_da_sessao_que_julgou_os_pdls_nos_06_07_e_08-2020.pdf da norma Decreto Legislativo nº 6, de 14 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Votação.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2020/48/ata_da_sessao_que_julgou_os_pdls_nos_06_07_e_08-2020.pdf",
+      "ano": 2020,
+      "norma": 2756
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/49/ata_da_sessao_que_julgou_os_pdls_nos_06_07_e_08-2020.pdf da norma Decreto Legislativo nº 7, de 14 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Votação",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2020/49/ata_da_sessao_que_julgou_os_pdls_nos_06_07_e_08-2020.pdf",
+      "ano": 2020,
+      "norma": 2757
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/50/ata_da_sessao_que_julgou_os_pdls_nos_06_07_e_08-2020.pdf da norma Decreto Legislativo nº 8, de 14 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Votação.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2020/50/ata_da_sessao_que_julgou_os_pdls_nos_06_07_e_08-2020.pdf",
+      "ano": 2020,
+      "norma": 2758
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/51/ata_da_sessao_que_julgou_o_pdl_no_01-2021.pdf da norma Decreto Legislativo nº 1, de 27 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Votação",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2021/51/ata_da_sessao_que_julgou_o_pdl_no_01-2021.pdf",
+      "ano": 2021,
+      "norma": 2988
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/52/ata_da_sessao_que_julgou_o_pdl_no_05-2022.pdf da norma Decreto Legislativo nº 5, de 09 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Votação",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2022/52/ata_da_sessao_que_julgou_o_pdl_no_05-2022.pdf",
+      "ano": 2022,
+      "norma": 3325
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/53/ata_da_sessao_que_julgou_o_pdl_no_01-2023.pdf da norma Decreto Legislativo nº 1, de 14 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Votação.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2023/53/ata_da_sessao_que_julgou_o_pdl_no_01-2023.pdf",
+      "ano": 2023,
+      "norma": 3498
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/55/anexo_i_-_emenda_modificativa_no_12_2023.pdf da norma Autógrafo nº 82, de 08 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2023/55/anexo_i_-_emenda_modificativa_no_12_2023.pdf",
+      "ano": 2023,
+      "norma": 4113
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/56/envio_de_decreto_legislativo_no_32-2023_ao_tcm_11122023.pdf da norma Decreto Legislativo nº 32, de 08 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Comprovante de envio ao TCM.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2023/56/envio_de_decreto_legislativo_no_32-2023_ao_tcm_11122023.pdf",
+      "ano": 2023,
+      "norma": 4099
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/57/ata_da_49a_sessao_ordinaria_de_2023_11122023.pdf da norma Decreto Legislativo nº 32, de 08 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão Ordinária.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2023/57/ata_da_49a_sessao_ordinaria_de_2023_11122023.pdf",
+      "ano": 2023,
+      "norma": 4099
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/58/oficio_no_09-2023_-_laureci_12122023.pdf da norma Resolução nº 12, de 12 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Renúncia do Vereador Laureci, em participar de Comissões.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2023/58/oficio_no_09-2023_-_laureci_12122023.pdf",
+      "ano": 2023,
+      "norma": 4114
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/59/anexo_lei_2575-23_-_qdd_-_loa_2024.pdf da norma Lei Ordinária nº 2.575, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "QDD",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2023/59/anexo_lei_2575-23_-_qdd_-_loa_2024.pdf",
+      "ano": 2023,
+      "norma": 4136
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/60/autografo_de_lei_complementar_01-2024_assinado.pdf da norma Lei Complementar nº 15, de 11 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Carlos Eduardo Barbosa Ferraz",
+                [
+                  "2024-03-11T10:38:47-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Jucivanda Aparecida Maia",
+                [
+                  "2024-03-11T10:50:06-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Orlando Oliveira Silva",
+                [
+                  "2024-03-11T10:32:37-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Virginia Bernardes de Freitas Silva",
+                [
+                  "2024-03-11T10:43:54-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Zilderlei Nunes Ferreira",
+                [
+                  "2024-03-11T10:35:55-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Autógrafo de Lei Complementar nº 01/2024.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/60/autografo_de_lei_complementar_01-2024_assinado.pdf",
+      "ano": 2024,
+      "norma": 4210
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/61/autografo_de_lei_complementar_02-2024_1_1_1_assinado_2.pdf da norma Lei Complementar nº 16, de 18 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Carlos Eduardo Barbosa Ferraz",
+                [
+                  "2024-03-18T10:37:48-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Jucivanda Aparecida Maia",
+                [
+                  "2024-03-18T13:26:04-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Orlando Oliveira Silva",
+                [
+                  "2024-03-18T08:57:14-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Virginia Bernardes de Freitas Silva",
+                [
+                  "2024-03-18T12:44:20-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Zilderlei Nunes Ferreira",
+                [
+                  "2024-03-18T09:00:12-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/61/autografo_de_lei_complementar_02-2024_1_1_1_assinado_2.pdf",
+      "ano": 2024,
+      "norma": 4216
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/62/autografo_de_lei_18_-_2024_revisado.pdf da norma Lei Ordinária nº 2.593, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Carlos Eduardo Barbosa Ferraz",
+                [
+                  "2024-04-15T14:16:52-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Orlando Oliveira Silva",
+                [
+                  "2024-04-15T13:08:19-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Virginia Bernardes de Freitas Silva",
+                [
+                  "2024-04-15T16:40:34-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Zilderlei Nunes Ferreira",
+                [
+                  "2024-04-15T13:39:50-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/62/autografo_de_lei_18_-_2024_revisado.pdf",
+      "ano": 2024,
+      "norma": 4224
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/63/autografo_de_lei_17-2024_revisado.pdf da norma Lei Ordinária nº 2.592, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Carlos Eduardo Barbosa Ferraz",
+                [
+                  "2024-04-15T14:15:25-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Orlando Oliveira Silva",
+                [
+                  "2024-04-15T13:07:18-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Virginia Bernardes de Freitas Silva",
+                [
+                  "2024-04-15T16:39:49-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Zilderlei Nunes Ferreira",
+                [
+                  "2024-04-15T13:38:14-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/63/autografo_de_lei_17-2024_revisado.pdf",
+      "ano": 2024,
+      "norma": 4223
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/64/anexo_-_projeto_de_lei_05-202429012024.pdf da norma Lei Ordinária nº 2.582, de 28 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Mapa da área.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/64/anexo_-_projeto_de_lei_05-202429012024.pdf",
+      "ano": 2024,
+      "norma": 4196
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/65/anexo_i.pdf da norma Lei Ordinária nº 2.619, de 21 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - PLANO PLURIANUAL 2022 A 2025 - EXERCÍCIO 2025",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/65/anexo_i.pdf",
+      "ano": 2024,
+      "norma": 4319
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/66/anexo_iv.pdf da norma Lei Ordinária nº 2.619, de 21 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - JANEIRO DE 2025",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/66/anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 4319
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/67/anexo_1_-_metas_anuais.pdf da norma Lei Ordinária nº 2.618, de 21 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS-METAS ANUAIS-2025",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/67/anexo_1_-_metas_anuais.pdf",
+      "ano": 2024,
+      "norma": 4318
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/68/anexo_3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf da norma Lei Ordinária nº 2.618, de 21 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE METAS FISCAIS - METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/68/anexo_3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf",
+      "ano": 2024,
+      "norma": 4318
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/69/anexo_7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Ordinária nº 2.618, de 21 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/69/anexo_7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2024,
+      "norma": 4318
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/70/demonstrativo_de_riscos_fiscais_e_providencias.pdf da norma Lei Ordinária nº 2.618, de 21 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DE RISCOS FISCAIS E PROVIDÊNCIAS",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/70/demonstrativo_de_riscos_fiscais_e_providencias.pdf",
+      "ano": 2024,
+      "norma": 4318
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/71/anexo_1.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/71/anexo_1.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/72/anexo_2.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/72/anexo_2.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/73/anexo_6.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/73/anexo_6.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/74/anexo_7.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VII",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/74/anexo_7.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/75/anexo_8.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VIII",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/75/anexo_8.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/76/anexo_9.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IX",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/76/anexo_9.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/77/anexo_auxiliar_da_execucao_dos_recursos_orcamentarios_vinculados_as_metas_governametais.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "ANEXO AUXILIAR DA EXECUÇÃO DOS RECURSOS ORÇAMENTÁRIOS VINCULADOS ÀS METAS GOVERNAMÉTAIS.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/77/anexo_auxiliar_da_execucao_dos_recursos_orcamentarios_vinculados_as_metas_governametais.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/78/demonstrativo_das_despesas_por_projetos_atividades_e_operacoes_especiais.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DAS DESPESAS POR PROJETOS, ATIVIDADES E OPERAÇÕES ESPECIAIS",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/78/demonstrativo_das_despesas_por_projetos_atividades_e_operacoes_especiais.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/79/demonstrativo_de_despesa_por_fonte_de_recurso.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DE DESPESA POR FONTE DE RECURSO.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/79/demonstrativo_de_despesa_por_fonte_de_recurso.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/80/quadro_de_detalhamento_da_despesa_por_acoes_grupos_e_fontes.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE DETALHAMENTO DA DESPESA POR AÇÕES, GRUPOS E FONTES.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/80/quadro_de_detalhamento_da_despesa_por_acoes_grupos_e_fontes.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/81/quadro_de_detalhamento_da_despesa_por_ficha_e_fonte.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Quadro de Detalhamento da Despesa por Ficha e Fonte.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/81/quadro_de_detalhamento_da_despesa_por_ficha_e_fonte.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/82/quadro_de_detalhamento_da_despesa.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE DETALHAMENTO DA DESPESA.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/82/quadro_de_detalhamento_da_despesa.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/83/resumo_geral_da_despesa_-_demonstrativo_consolidado_da_despesa_por_grupos_de_natureza.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "RESUMO GERAL DA DESPESA - DEMONSTRATIVO CONSOLIDADO DA DESPESA POR GRUPOS DE NATUREZA.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/83/resumo_geral_da_despesa_-_demonstrativo_consolidado_da_despesa_por_grupos_de_natureza.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/84/resumo_geral_da_receita.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "RESUMO GERAL DA RECEITA.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/84/resumo_geral_da_receita.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/85/tabela_de_evolucao_da_despesa.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "TABELA DE EVOLUÇÃO DA DESPESA.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/85/tabela_de_evolucao_da_despesa.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/86/tabela_de_evolucao_da_receita.pdf da norma Lei Ordinária nº 2.635, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "TABELA DE EVOLUÇÃO DA RECEITA.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/86/tabela_de_evolucao_da_receita.pdf",
+      "ano": 2024,
+      "norma": 4417
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/87/publicacoes__prorrogacao_concurso.pdf da norma Portaria nº 75, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Publicações informando prorrogação do concurso.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2024/87/publicacoes__prorrogacao_concurso.pdf",
+      "ano": 2024,
+      "norma": 4416
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/88/croqui_-_josinei_assinado.pdf da norma Lei Ordinária nº 2.674, de 12 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Evandro Marcel Assis Vieira",
+                [
+                  "2025-05-16T16:35:04-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Croqui da área.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/88/croqui_-_josinei_assinado.pdf",
+      "ano": 2025,
+      "norma": 5441
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/89/memorial_descritivo-josinei_assinado_2.pdf da norma Lei Ordinária nº 2.674, de 12 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Evandro Marcel Assis Vieira",
+                [
+                  "2025-05-16T16:35:04-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Memorial Descritivo.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/89/memorial_descritivo-josinei_assinado_2.pdf",
+      "ano": 2025,
+      "norma": 5441
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/90/aviso_equatorial_25092025.pdf da norma Portaria nº 79, de 26 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/90/aviso_equatorial_25092025.pdf",
+      "ano": 2025,
+      "norma": 5476
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/91/aviso_equatorial_25092025.pdf da norma Portaria nº 80, de 26 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/91/aviso_equatorial_25092025.pdf",
+      "ano": 2025,
+      "norma": 5477
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/92/dem_1.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/92/dem_1.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/93/dem_2.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/93/dem_2.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/94/dem_3.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/94/dem_3.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/95/dem_4.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/95/dem_4.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/96/dem_5.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/96/dem_5.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/97/dem_6.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/97/dem_6.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/98/dem_7.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/98/dem_7.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/99/dem_8.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/99/dem_8.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/100/riscos_e_providencias.pdf da norma Lei Ordinária nº 2.692, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/100/riscos_e_providencias.pdf",
+      "ano": 2025,
+      "norma": 5542
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/101/anexo_i.pdf da norma Lei Ordinária nº 2.693, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/101/anexo_i.pdf",
+      "ano": 2025,
+      "norma": 5543
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/102/anexo_ii.pdf da norma Lei Ordinária nº 2.693, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/102/anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 5543
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/103/anexo_iv.pdf da norma Lei Ordinária nº 2.693, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/103/anexo_iv.pdf",
+      "ano": 2025,
+      "norma": 5543
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/104/portaria_n24_-_correcao_inpc_2026.pdf da norma Portaria nº 24, de 21 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jeandra Alves Guimaraes do Carmo",
+                [
+                  "2026-01-21T10:43:22-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ANEXO II DA PORTARIA 24/2026.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2026/104/portaria_n24_-_correcao_inpc_2026.pdf",
+      "ano": 2026,
+      "norma": 5618
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/105/portaria_no_03_-_calendarios_das_sessoes_ordinarias_4.pdf da norma Portaria nº 26, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jeandra Alves Guimaraes do Carmo",
+                [
+                  "2026-01-05T15:31:43-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Jucivanda Aparecida Maia",
+                [
+                  "2026-01-05T15:39:55-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2026/105/portaria_no_03_-_calendarios_das_sessoes_ordinarias_4.pdf",
+      "ano": 2026,
+      "norma": 5622
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/106/ata_de_eleicao_05082026_105059.pdf da norma Resolução nº 27, de 03 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "Ata de eleição do Conselho.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2025/106/ata_de_eleicao_05082026_105059.pdf",
+      "ano": 2025,
+      "norma": 5569
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/107/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf da norma Decreto Legislativo nº 5, de 24 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jeandra Alves Guimaraes do Carmo",
+                [
+                  "2026-10-02T13:14:44-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Determina a suspensão dos atos subsequentes destinados à efetivação da homenagem como expedição de diplomas e realização de e realização de sessões solenes de entrega.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2026/107/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf",
+      "ano": 2026,
+      "norma": 5825
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/108/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf da norma Decreto Legislativo nº 4, de 24 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jeandra Alves Guimaraes do Carmo",
+                [
+                  "2026-10-02T13:14:44-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Determina a suspensão dos atos subsequentes destinados à efetivação da homenagem como expedição de diplomas e realização de e realização de sessões solenes de entrega.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2026/108/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf",
+      "ano": 2026,
+      "norma": 5824
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/109/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf da norma Decreto Legislativo nº 3, de 24 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jeandra Alves Guimaraes do Carmo",
+                [
+                  "2026-10-02T13:14:44-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Determina a suspensão dos atos subsequentes destinados à efetivação da homenagem como expedição de diplomas e realização de e realização de sessões solenes de entrega.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2026/109/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf",
+      "ano": 2026,
+      "norma": 5823
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/110/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf da norma Decreto Legislativo nº 2, de 24 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jeandra Alves Guimaraes do Carmo",
+                [
+                  "2026-10-02T13:14:44-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Determina a suspensão dos atos subsequentes destinados à efetivação da homenagem como expedição de diplomas e realização de e realização de sessões solenes de entrega.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2026/110/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf",
+      "ano": 2026,
+      "norma": 5822
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/111/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf da norma Decreto Legislativo nº 1, de 07 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jeandra Alves Guimaraes do Carmo",
+                [
+                  "2026-10-02T13:14:44-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Determina a suspensão dos atos subsequentes destinados à efetivação da homenagem como expedição de diplomas e realização de e realização de sessões solenes de entrega.",
+      "anexo_arquivo": "http://sapl.cacu.go.leg.br/media/sapl/public/anexonormajuridica/2026/111/despacho_suspensao_titulos_de_cidadao_em_periodo_eleitoral.pdf",
+      "ano": 2026,
+      "norma": 5738
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/784b63f879d535a3c15f134c03e11cc894173850b1e45e946a2151f2fc03c3bc.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e42052778a830f2cf75a394e5fd09c60666604364c76fd9bb225d06fa5e03e55",
+      "bytes": 48395,
+      "capturado_em": "2026-10-27T21:15:13.249755-03:00"
+    }
+  ]
+}

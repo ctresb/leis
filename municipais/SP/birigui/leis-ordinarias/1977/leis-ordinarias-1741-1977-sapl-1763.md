@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 1.741, de 14 de novembro de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1741"
+data: "1977-11-14"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1763"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2430/text"
+sha256_fonte: "bddc5946930c3f3664b609168f39078e3d221ced0c8e8d781aabe33aae0fb480"
+sha256_texto: "f5b0a739a6d45e89e2c76d97e15afaa025144a423f382512566c70d8be155db4"
+capturado_em_fonte: "2026-10-27T18:57:52.001351-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.741, de 14 de novembro de 1977
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL DE CR$ 1.200.000,00.
+
+
+Eu, **PEDRO MARIN BERBEL**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir, por Decreto, no Serviço de Finanças – Setor de Contabilidade, o crédito adicional de Cr$ 1.200.000,00 (hum milhão e duzentos mil cruzeiros), suplementar às seguintes dotações do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">2 - CHEFIA DO EXECUTIVO</td></tr><tr><td colspan="2">2.3 - EXPEDIÇÃO DE CARTEIRAS PROFISSIONAIS</td></tr><tr><td colspan="2">2.3 / 03070212.05 - Manutenção e Expedição de Carteiras Profissionais</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 3.000,00</td></tr><tr><td colspan="2">2.4 - SECRETARIA</td></tr><tr><td colspan="2">2.4/ 03070212.06 - Manutenção da Secretaria</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 16.000,00</td></tr><tr><td>3130.00 - Serviços de Terceiros</td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2">2.4 / 03070212.08 - Manutenção da Junta de Alistamento Militar</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 27.000,00</td></tr><tr><td colspan="2">2.4 / 03070212.09 - Manutenção da Unidade Militar T.G. 02-012</td></tr><tr><td>3221.00 - Empresas Federais</td><td>Cr$ 7.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">3 - FINANÇAS</td></tr><tr><td colspan="2">3.1 - DIRETORIA</td></tr><tr><td colspan="2">3.1 / 03080212.11 - Manutenção da Diretoria de Finanças</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 60.000,00</td></tr><tr><td colspan="2">3.2 - TRIBUTAÇÃO</td></tr><tr><td colspan="2">3.2 / 03080302.12 - Manutenção da Tributação</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 180.000,00</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 40.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">6 - SERVIÇOS MUNICIPAIS</td></tr><tr><td colspan="2">6.1 - SERVIÇO DE ESTRADAS DE RODAGEM MUNICIPAL (SERM)</td></tr><tr><td colspan="2">6.1 / 16885342.18 - Manutenção do Serviço de Estradas de Rodagem Municipal (SERM)</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 108.000,00</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 100.000,00</td></tr><tr><td colspan="2">6.4 - ÁGUA E ESGOTO</td></tr><tr><td colspan="2">6.4 / 13764471.09 - Ampliação e melhoramentos na rede de água</td></tr><tr><td>4110.00 - Serviços em Regime de Programação Especial - com recursos próprios</td><td>Cr$ 30.000,00</td></tr><tr><td colspan="2">6.4 / 13764472.23 - Manutenção do Setor de Água</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 60.000,00</td></tr><tr><td colspan="2">6.4 / 13764492.24 - Manutenção do Setor de Esgoto</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2">6.5 - LIMPEZA PÚBLICA</td></tr><tr><td colspan="2">6.5 / 10603252.25 - Manutenção da Limpeza Pública</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 30.000,00</td></tr><tr><td colspan="2">6.6 - SERVIÇOS FUNERÁRIOS</td></tr><tr><td colspan="2">6.6 / 10603262.26 - Manutenção dos Serviços Funerários</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 3.000,00</td></tr><tr><td colspan="2">6.7 - ILUMINAÇÃO PÚBLICA</td></tr><tr><td colspan="2">6.7 / 10603272-27 - Manutenção da Iluminação Pública</td></tr><tr><td>3140.00 - Encargos Diversos</td><td>Cr$ 15.000,00</td></tr><tr><td colspan="2">6.8 - PARQUES E JARDINS</td></tr><tr><td colspan="2">6.8 / 10603282.28 - Manutenção das Unidades Parques e Jardins</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 50.000,00</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 10.000,00</td></tr><tr><td colspan="2">6.10 - LOGRADOURO PÚBLICOS</td></tr><tr><td colspan="2">6.10 / 10585752.31 - Conservação de Ruas e Avenidas</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 150.000,00</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 80.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">7 - ADMINISTRAÇÃO</td></tr><tr><td colspan="2">7.2 - MATERIAL</td></tr><tr><td colspan="2">7.2 / 03070212.34 - Manutenção do Almoxarifado</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 45.000,00</td></tr><tr><td>3140.00 - Encargos Diversos</td><td>Cr$ 10.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">8 - EDUCAÇÃO E CULTURA</td></tr><tr><td colspan="2">8.1 - ENSINO DO PRIMEIRO GRAU</td></tr><tr><td colspan="2">8.1 / 08421882.36 - Reforma de Prédios Escolares</td></tr><tr><td>3140.00 - Encargos Diversos</td><td>Cr$ 26.000,00</td></tr><tr><td colspan="2">8.1 / 08421882.36 - Contribuição a Entidades Municipais</td></tr><tr><td>3274.03 - Outros Custeios</td><td>Cr$ 44.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">9 - SAÚDE E SANEAMENTO</td></tr><tr><td colspan="2">9.1 - ASSISTÊNCIA MÉDICO-HOSPITALAR</td></tr><tr><td colspan="2">9.1 / 13754282.48 - Manutenção da Assistência Médica e Sanitária</td></tr><tr><td>3111.01 - Vencimentos e Vantagens Fixas</td><td>Cr$ 2.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">10 - ENCARGOS GERAIS DO MUNICÍPIO</td></tr><tr><td colspan="2">10.1 - ASSISTÊNCIA SOCIAL</td></tr><tr><td colspan="2">10.1 / 15824942.53 - Manutenção do Quadro de Inativos e Pensionistas</td></tr><tr><td>3231.00 - Inativos</td><td>Cr$ 17.000,00</td></tr><tr><td colspan="2">10.2 - PREVIDÊNCIA E PASEP</td></tr><tr><td colspan="2">102 / 15824942.53 - Contribuição para Previdência Social</td></tr><tr><td>3250.01 - I.N.P.S. e F.G.T.S</td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2">10.2 / 15844942.54 - Contribuição para Previdência Social</td></tr><tr><td>3250.02 - PASEP - com recursos próprios</td><td>Cr$ 27.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito a que se reporta o artigo anterior será coberto com os recursos provenientes de:
+
+
+a)
+
+anulações parciais das verbas do orçamento municipal corrente baixo discriminadas:
+
+
+<table><tbody><tr><td colspan="2">8 - EDUCAÇÃO E CULTURA</td></tr><tr><td colspan="2">8.1 - ENSINO DO PRIMEIRO GRAU</td></tr><tr><td colspan="2">8.1 / 08421882.36 - Aquisição de Materiais Escolares e Uniformes</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 30.000,00</td></tr><tr><td colspan="2">8.1 / 08421882.36 - Transporte de Alunos</td></tr><tr><td>3120.00 - Serviços de Terceiros</td><td>Cr$ 30.000,00</td></tr><tr><td colspan="2">8.1 / 08421882.36 - Aluguéis de Prédios Escolares, Viagens e Excursões</td></tr><tr><td>3130.00 - Serviços de Terceiros</td><td>Cr$ 10.000,00</td></tr></tbody></table>
+
+
+b)
+
+excesso de arrecadação verificado nas rubricas 01 / 1000.00.00 - RECEITAS CORRENTES - e 10 / 1500.00.00 - RECEITAS DIVERSAS, - do orçamento municipal vigente: Cr$ 1.130.000,00.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos quatorze de novembro de mil novecentos e setenta e sete.
+
+**PEDRO MARIN BERBEL Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos quatorze de novembro de mil novecentos e setenta e sete, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

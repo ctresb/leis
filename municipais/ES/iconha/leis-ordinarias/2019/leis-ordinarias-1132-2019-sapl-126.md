@@ -1,0 +1,246 @@
+---
+titulo: "Lei Ordinária nº 1.132, de 28 de novembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1132"
+data: "2019-11-28"
+municipio: "Iconha"
+uf: "ES"
+codigo_ibge: "3202603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.iconha.es.leg.br/norma/126"
+fonte_texto: "https://sapl.iconha.es.leg.br/ta/149/text"
+sha256_fonte: "271ab562cd512654b8349198c9cbe6836f162b1d62a8c8d9230d1362b29ba60d"
+sha256_texto: "cd87c1f850bceacd0e27e570019d99f563488d7d1d7f2dc0c0d9ed70123490af"
+capturado_em_fonte: "2026-10-28T14:07:35.938691-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.132, de 28 de novembro de 2019
+
+INSTITUI O “PROGRAMA MUNICIPAL DE DINHEIRO DIRETO NA ESCOLA" - PMDDE, E DA OUTRAS PROVIDÊNCIAS.
+
+
+**O EXCELENTÍSSIMO SENHOR PREFEITO MUNICIPAL DE ICONHA/ES,** no uso de suas atribuições legais, conforme determina o art. 30 da Constituição Federal/88, bem como nos arts. 70 e 71, da Lei Orgânica Municipal e demais normas que regem a matéria, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o PMDDE - Programa Municipal Dinheiro Direto na Escola, com a finalidade de prestar assistência financeira às unidades de educação da Rede de Ensino do Município de Iconha- ES.
+
+
+Art. 2º.
+
+O PMDDE tem como objetivo a liberação de recursos financeiros para manter, reparar e melhorar a infraestrutura física e pedagógica escolar; reforçar a autogestão nos planos financeiro, administrativo e didático, bem como contribuir para a elevação dos índices de desempenho da educação básica em cada unidade de ensino.
+
+
+Art. 3º.
+
+A transferência dos recursos do PMDDE será efetuada através de conta bancária aberta exclusivamente para este fim e vinculada ao CPF do(a) Diretor(a) de cada unidade de ensino nomeado(a) como responsável.
+
+
+§ 1º
+
+Em caso de afastamento do Diretor da unidade de ensino por motivo de férias, licença médica ou outra licença prevista na legislação municipal ficará impedido de movimentar o PMDDE e tal atribuição passará ao Coordenador da referida unidade nos mesmos moldes previstos no caput deste artigo.
+
+
+§ 2º
+
+Em caso de impedimento do Diretor Escolar de movimentar o PMDDE por questões relacionadas ao Cadastro de Pessoa Física (CPF) junto às Instituições Bancárias, tal atribuição passará a um outro funcionário indicado pelo mesmo.
+
+
+Art. 4º.
+
+Os recursos do PMDDE - Programa Municipal Dinheiro Direto na Escola deverão ser empregados, conforme a proposta pedagógica das unidades escolares e as hipóteses de aplicação, visando sempre o bem coletivo, para:
+
+
+I –
+
+Aquisição de material permanente, de consumo, peças e acessórios de equipamentos;
+
+
+II –
+
+Manutenção, conservação e pequenos reparos em móveis, equipamentos e nas instalações físicas da unidade escolar;
+
+
+III –
+
+Manutenção e desenvolvimento do ensino, das atividades pedagógicas e educacionais, incluindo material esportivo, sendo restritas ao aluno;
+
+
+IV –
+
+Pagamento de despesas com regularização de documentos do Conselho de Escola;
+
+
+V –
+
+Aquisição de material e jogos pedagógicos;
+
+
+VI –
+
+Assinaturas de periódicos e revistas voltados para o aperfeiçoamento da prática pedagógica;
+
+
+VII –
+
+Pagamento de despesas com gêneros alimentícios e/ou limpeza, desde que autorizados pelos responsáveis do setor de Alimentação Escolar que deverão apresentar autorização por escrito para ser anexada à prestação de contas, neste caso, só será autorizada a compra dos itens que estiverem em falta ou não forem contemplados pela alimentação escolar.
+
+
+Art. 5º.
+
+Os recursos destinados ao PMDDE - Programa Municipal Dinheiro Direto na Escola serão liberados pela Secretaria Municipal de Finanças, mensalmente, conforme disposições desta Lei, mediante solicitação da Secretaria Municipal de Educação.
+
+
+Art. 6º.
+
+O recurso financeiro liberado ficará disponível em conta específica em banco oficial para movimentação, a partir da data de depósito até o último dia útil do mês de competência, devendo ser devolvido aos cofres públicos em caso de não utilização, juntamente com a prestação de contas.
+
+
+Art. 7º.
+
+A prestação de contas deverá conter a justificativa da aquisição, bem como os documentos fiscais comprobatórios, carimbados com a assinatura de recebimento do material e/ou prestação do serviço, descritos em planilhas, conforme instituído por regulamento a ser expedido pelo Chefe do Poder Executivo.
+
+
+Art. 8º.
+
+A prestação de contas deverá ser entregue à SEMUF no último dia útil do mês, não sendo necessário realizar o protocolo.
+
+
+Art. 9º.
+
+O critério para o valor de repasse será de acordo com as modalidades de Ensino:
+
+
+I –
+
+Escolas Unidocentes - R$ 200,00 (duzentos reais) por unidade de ensino;
+
+
+II –
+
+Escolas de Educação Infantil - R$ 350,00 (trezentos e cinquenta reais); e
+
+
+III –
+
+Escolas de Ensino Fundamental - R$ 500,00 – (quinhentos reais),
+
+
+§ 1º
+
+No caso das escolas unidocentes, a Secretaria Municipal de Finanças repassará o valor definido no inciso I para cada uma das unidades de ensino em única conta específica para tal fim totalizando o valor mensal de no máximo R$ 800,00 (oitocentos reais).
+
+
+§ 2º
+
+Os valores definidos nos incisos I, II e III poderão ser reajustados anualmente, através de Decreto, observada a aplicação na forma do artigo 4º.
+
+
+Art. 10.
+
+A Secretaria Municipal de Educação informará ao Gabinete do Prefeito os gestores de cada Unidade Escolar para que seja realizada a nomeação através de Decreto para informação à SEMUF para providência quanto a abertura de conta.
+
+
+Art. 11.
+
+A liberação dos recursos do PMDDE - Programa Municipal Dinheiro Direto na Escola será precedida de Nota de Empenho na dotação orçamentária própria, consignada na Lei Orçamentária Anual (LOA) vigente no ano de realização da despesa e condicionada a existência de crédito orçamentário e disponibilidade financeira.
+
+
+Art. 12.
+
+A prestação de contas de que trata o artigo 7º é condição essencial para liberação de novos recursos financeiros a Unidade de Ensino.
+
+
+§ 1º
+
+A Secretaria Municipal de Educação acompanhará as etapas de procedimento na execução do recurso.
+
+
+§ 2º
+
+A Secretaria Municipal de Finanças dará prosseguimento as demais etapas complementares decorrentes do exame de prestação de contas.
+
+
+§ 3º
+
+Os critérios, orientações e datas para prestação de contas serão definidos por Decreto de Regulamentação, atendendo as necessidades contábeis e legais específicas.
+
+
+§ 4º
+
+Em caso de aplicação indevida dos recursos do PMDDE a Secretaria Municipal de Finanças dará ciência ao responsável pelo recurso.
+
+
+§ 5º
+
+Os valores aplicados indevidamente serão restituídos pelo responsável pelo recebimento do Recurso do PMDDE, no prazo de até 5 (cinco) dias após o recebimento da notificação.
+
+
+Art. 13.
+
+A aplicação dos recursos do PMDDE - Programa Municipal Dinheiro Direto na Escola esta condicionada a obediência aos preceitos nesta Lei e no regulamento a ser expedido pelo Poder Executivo.
+
+
+Art. 14.
+
+O recurso financeiro repassado para o PMDDE - Programa Municipal Dinheiro Direto na Escola não poderá ser utilizado para pagamento de multas, impostos, medicamentos, combustível, transporte, energia elétrica, serviços de telefonia e internet, água, comemorações para servidores e taxas de qualquer natureza.
+
+
+Art. 15.
+
+Serão responsabilizados civil, penal e administrativamente nos termos da legislação vigente, os responsáveis pelo recurso do PMDDE que autorizarem despesas e efetuarem pagamentos indevidos, além do ressarcimento ao erário publico, do valor principal com os devidos juros e correções legais.
+
+
+Art. 16.
+
+O gestor responsável pela prestação de contas, que inserir e/ou permitir inserir documentos ou declarações falsas, com a finalidade de alterar a verdade sobre os fatos, será responsabilizado civil, penal e administrativamente.
+
+
+Art. 17.
+
+É vedado o recebimento e a guarda dos recursos em conta bancária particular, não podendo transferir o recurso em nenhuma hipótese para outra conta.
+
+
+Art. 18.
+
+Fica o Município de Iconha autorizado a suspender o repasse dos recursos do PMDDE - Programa Municipal Dinheiro Direto na Escola a unidade executora que:
+
+
+I –
+
+Deixar de efetuar a prestação de contas conforme prazo e condições estipuladas;
+
+
+II –
+
+Deixar de cumprir as orientações estabelecidas nesta Lei e em legislação suplementar sobre a aplicação de recursos públicos;
+
+
+III –
+
+Tiver sua prestação de contas rejeitada.
+
+
+Art. 19.
+
+Esta Lei poderá ser regulamentada por Decreto, caso necessário.
+
+
+Art. 20.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Iconha, aos  
+28 (vinte e oito) dias do mês de novembro de 2019 (dois mil e dezenove).  
+  
+  
+João Paganini  
+Prefeito Municipal
+

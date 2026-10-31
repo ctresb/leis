@@ -1,0 +1,311 @@
+---
+titulo: "LEI ORDINÁRIA nº 268, de 10 de março de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "268"
+data: "2008-03-10"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2017-12-13; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/264"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/290/text"
+sha256_fonte: "727bc094b66a6f66202bcf7b563f8af2722e8d1abec34c9f026f8c261f01a8cc"
+sha256_texto: "32b839236723f0da9f4088ad620bca4058c86e534c8e3a9c45f08260e12f1250"
+capturado_em_fonte: "2026-10-27T20:31:57.890792-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 268, de 10 de março de 2008
+
+Cria o Fundo Municipal de Habitação de Interesse Social – FHIS e Institui o Conselho-Gestor do FHIS.
+
+
+**O PREFEITO MUNICIPAL DE CABECEIRA GRANDE-MG,** no uso das atribuições que lhe são conferidas pelo Art. 75, III da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte LEI:
+
+
+Art. 1º.
+
+Esta Lei cria no âmbito municipal o Fundo de Habitação de Interesse Social – FHIS e institui o Conselho-Gestor do FHIS.
+
+
+#### CAPÍTULO I — DO FUNDO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+
+##### Seção I — Objetivos e Fontes
+
+
+Art. 2º.
+
+Fica criado o Fundo de Habitação de Interesse Social – FHIS, de natureza contábil, com o objetivo de centralizar e gerenciar recursos orçamentários para os programas destinados a implementar políticas habitacionais direcionadas à população de menor renda, vinculado à Secretaria Municipal do Desenvolvimento Social e Cidadania.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+Art. 3º.
+
+O FHIS é constituído por:
+
+
+I –
+
+dotações do Orçamento Geral do Município, classificadas na função de habitação;
+
+
+II –
+
+outros fundos ou programas que vierem a ser incorporados ao FHIS;
+
+
+III –
+
+recursos provenientes de empréstimos externos e internos para programas de habitação;
+
+
+IV –
+
+contribuições e doações de pessoas físicas ou jurídicas, entidades e organismos de cooperação nacionais ou internacionais;
+
+
+V –
+
+receitas operacionais e patrimoniais de operações realizadas com recursos do FHIS; e
+
+
+VI –
+
+outros recursos que lhe vierem a ser destinados.
+
+
+##### Seção II — Do Conselho-Gestor do FHIS
+
+
+Art. 4º.
+
+O FHIS será gerido por um Conselho-Gestor.
+
+
+Art. 5º.
+
+O Conselho Gestor é órgão de caráter deliberativo e será composto pelos seguintes órgãos e entidades, que indicarão um conselheiro titular e um suplente para sua representação:
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+1
+
+Secretaria Municipal do Desenvolvimento Social e Cidadania;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+2
+
+Secretaria Municipal da Administração;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+3
+
+Secretaria Municipal da Agricultura, Indústria, Comércio e Serviços Rurais;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+4
+
+Clube do Cavalo;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+5
+
+Associação Comunitária para o Desenvolvimento de Palmital de Minas.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+6
+
+Associação Comunitária para o Desenvolvimento de Palmital de Minas;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+§ 1º
+
+O mandato dos conselheiros será de 2 (dois) anos, podendo ser renovado uma única vez por igual período.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+§ 2º
+
+O Presidente do Conselho Gestor do FHIS será escolhido entre os respetivos membros titulares, conforme dispuser o Regimento Interno.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+§ 3º
+
+O presidente do Conselho Gestor do FHIS exercerá o voto de qualidade.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+§ 4º
+
+Competirá à Secretaria Municipal do Desenvolvimento Social e Cidadania proporcionar ao Conselho Gestor os meios necessários (materiais e humanos) para o exercício de suas competências.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+##### Seção III — Das Aplicações dos Recursos do FHIS
+
+
+Art. 6º.
+
+As aplicações dos recursos do FHIS serão destinadas a ações vinculadas aos programas de habitação de interesse social que contemplem:
+
+
+I –
+
+aquisição, construção, conclusão, melhoria, reforma, locação social e arrendamento de unidades habitacionais em áreas urbanas e rurais;
+
+
+II –
+
+produção de lotes urbanizados para fi ns habitacionais;
+
+
+III –
+
+urbanização, produção de equipamentos comunitários, regularização fundiária e urbanística de áreas caracterizadas de interesse social;
+
+
+IV –
+
+implantação de saneamento básico, infra-estrutura e equipamentos urbanos, complementares aos programas habitacionais de interesse social;
+
+
+V –
+
+aquisição de materiais para construção, ampliação e reforma de moradias;
+
+
+VI –
+
+recuperação ou produção de imóveis em áreas encortiçadas ou deterioradas, centrais ou periféricas, para fi ns habitacionais de interesse social;
+
+
+VII –
+
+outros programas e intervenções na forma aprovada pelo Conselho-Gestor do FHIS.
+
+
+§ 1º
+
+Será admitida a aquisição de terrenos vinculada à implantação de projetos habitacionais.
+
+
+##### Seção IV — Das Competências do Conselho Gestor do FHIS
+
+
+Art. 7º.
+
+Ao Conselho Gestor do FHIS compete:
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+I –
+
+estabelecer diretrizes e fixar critérios para a priorização de linhas de ação, alocação de recursos do FHIS e atendimento dos beneficiários dos programas habitacionais, observado o disposto nesta Lei, a política e o plano municipal de habitação;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+II –
+
+aprovar orçamentos e planos de aplicação e metas anuais e plurianuais dos recursos do FHIS;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+III –
+
+fixar critérios para a priorização de linhas de ações;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+III –
+
+deliberar sobre as contas do FHIS;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+IV –
+
+dirimir dúvidas quanto à aplicação das normas regulamentares, aplicáveis ao FHIS, nas matérias de sua competência; e
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+V –
+
+aprovar seu regimento interno.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 573, de 13 de dezembro de 2017.
+
+
+§ 1º
+
+As diretrizes e critérios previstos no inciso I do caput deste artigo deverão observar ainda as normas emanadas do Conselho Gestor do Fundo Nacional de Habitação de Interesse Social, de que trata a Lei Federal no 11.124, de 16 de junho de 2005, nos casos em que o FHIS vier a receber recursos federais.
+
+
+§ 2º
+
+O Conselho Gestor do FHIS promoverá ampla publicidade das formas e critérios de acesso aos programas, das modalidades de acesso à moradia, das metas anuais de atendimento habitacional, dos recursos previstos e aplicados, identificados pelas fontes de origem, das áreas objeto de intervenção, dos números e valores dos benefícios e dos financiamentos e subsídios concedidos, de modo a permitir o acompanhamento e fiscalização pela sociedade.
+
+
+§ 3º
+
+3º. O Conselho Gestor do FHIS promoverá audiências públicas e conferências, representativas dos segmentos sociais existentes, para debater e avaliar critérios de alocação de recursos e programas habitacionais existentes.
+
+
+#### CAPÍTULO II — DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS
+
+
+Art. 8º.
+
+Esta Lei será implementada em consonância com a Política Nacional de Habitação e com o Sistema Nacional de Habitação de Interesse Social.
+
+
+Art. 9º.
+
+As entidades participantes deverão indicar formalmente ao Chefe do Poder Executivo, os nomes de seus representantes titulares e suplementes no prazo de 30 dias a contar da publicação desta lei.
+
+
+Art. 10.
+
+O Chefe do Poder Executivo fica autorizado a abrir crédito adicional especial até o valor de R$100.000,00 (cem mil reais), necessários à instituição do Fundo de Habitação de Interesse Social no orçamento deste exercício.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande (MG), 10 de Março de 2008.
+
+**ANTÔNIO NAZARÉ SANTANA MELO Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

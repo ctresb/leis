@@ -1,0 +1,322 @@
+{
+  "overlay": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/overlay.json",
+  "sha256_overlay": "eab5b26f18da04614cb69eb697e0585bee7ed96c61184d1a5ad803d4d139fe85",
+  "arquivos": [
+    {
+      "norma": "municipais/SP/serrana/lei-organica/2012/lei-organica-1-2012-sapl-1.md",
+      "anexo": {
+        "id": 12,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2012/12/lom_atualizada_tzAKHS2.docx da norma Lei Orgânica Municipal nº 1, de 04 de abril de 2012",
+        "link_detail_backend": "/norma/anexonormajuridica/12",
+        "metadata": {},
+        "assunto_anexo": "",
+        "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2012/12/lom_atualizada_tzAKHS2.docx",
+        "ano": 2012,
+        "norma": 1
+      },
+      "host": "sapl.serrana.sp.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.serrana.sp.leg.br/12.bin",
+      "sha256": "2313eba05644951442ed35ed2423f06902ae6ef69e8efd973d7add049783310b",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.serrana.sp.leg.br/12.meta.json",
+      "url": "https://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2012/12/lom_atualizada_tzAKHS2.docx",
+      "bytes": 80410
+    },
+    {
+      "norma": "municipais/RN/alexandria/lei-organica/1990/lei-organica-1-1990-sapl-10.md",
+      "anexo": {
+        "id": 1,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/lom.pdf da norma LEI ORGÂNICA MUNICIPAL nº 1, de 03 de abril de 1990",
+        "link_detail_backend": "/norma/anexonormajuridica/1",
+        "metadata": {},
+        "assunto_anexo": "",
+        "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/1990/1/lom.pdf",
+        "ano": 1990,
+        "norma": 10
+      },
+      "host": "sapl.alexandria.rn.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.alexandria.rn.leg.br/1.bin",
+      "sha256": "637a4f123c0d9b311298b61c31c0c73b6ac0309f1bc0e23a0992443f252580bd",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.alexandria.rn.leg.br/1.meta.json",
+      "url": "https://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/1990/1/lom.pdf",
+      "bytes": 356009
+    },
+    {
+      "norma": "municipais/RN/alexandria/lei-organica/1990/lei-organica-1-1990-sapl-10.md",
+      "anexo": {
+        "id": 7,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/1990/7/lei-organica-municipal-publicacao-2016.pdf da norma LEI ORGÂNICA MUNICIPAL nº 1, de 03 de abril de 1990",
+        "link_detail_backend": "/norma/anexonormajuridica/7",
+        "metadata": {},
+        "assunto_anexo": "Lei Orgânica Municipal",
+        "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/1990/7/lei-organica-municipal-publicacao-2016.pdf",
+        "ano": 1990,
+        "norma": 10
+      },
+      "host": "sapl.alexandria.rn.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.alexandria.rn.leg.br/7.bin",
+      "sha256": "2bfbf706851287e26c474b0417ab3d31b629a10d268a9bb1b4414d825de19e27",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.alexandria.rn.leg.br/7.meta.json",
+      "url": "https://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/1990/7/lei-organica-municipal-publicacao-2016.pdf",
+      "bytes": 9363326
+    },
+    {
+      "norma": "municipais/PR/itauna-do-sul/emendas-lei-organica/2026/emendas-lei-organica-7-2026-sapl-1973.md",
+      "anexo": {
+        "id": 93,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2026/93/elo_07-2026.pdf da norma Emenda à Lei Orgânica nº 7, de 22 de abril de 2026",
+        "link_detail_backend": "/norma/anexonormajuridica/93",
+        "metadata": {},
+        "assunto_anexo": "Assinada",
+        "anexo_arquivo": "http://sapl.itaunadosul.pr.leg.br/media/sapl/public/anexonormajuridica/2026/93/elo_07-2026.pdf",
+        "ano": 2026,
+        "norma": 1973
+      },
+      "host": "sapl.itaunadosul.pr.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.itaunadosul.pr.leg.br/93.bin",
+      "sha256": "eec89d5546271d91462bee3ce75075d1d02a01631c1ce4fbde529ffcb4ad9eae",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.itaunadosul.pr.leg.br/93.meta.json",
+      "url": "https://sapl.itaunadosul.pr.leg.br/media/sapl/public/anexonormajuridica/2026/93/elo_07-2026.pdf",
+      "bytes": 791068
+    },
+    {
+      "norma": "municipais/MG/luz/leis-ordinarias/2008/leis-ordinarias-1634-2008-sapl-445.md",
+      "anexo": {
+        "id": 1,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf da norma Lei Ordinária nº 1.634, de 26 de março de 2008",
+        "link_detail_backend": "/norma/anexonormajuridica/1",
+        "metadata": {},
+        "assunto_anexo": "Anexos à Lei nº 1634/2008",
+        "anexo_arquivo": "http://sapl.luz.mg.leg.br/media/sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf",
+        "ano": 2008,
+        "norma": 445
+      },
+      "host": "sapl.luz.mg.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.luz.mg.leg.br/1.bin",
+      "sha256": "4f734d5a363622d2c12d8007a457d7685b8d89e29bbf5b638e8b763d9f42f6cd",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.luz.mg.leg.br/1.meta.json",
+      "url": "https://sapl.luz.mg.leg.br/media/sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf",
+      "bytes": 164882
+    },
+    {
+      "norma": "municipais/BA/conceicao-do-coite/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "anexo": {
+        "id": 2,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/1990/2/lom_compilada_2015_dezembro_ate_emenda_16.pdf da norma Lei Orgânica Municipal nº 1, de 05 de abril de 1990",
+        "link_detail_backend": "/norma/anexonormajuridica/2",
+        "metadata": {},
+        "assunto_anexo": "Lei Orgânica Municipal - Compilada até Emenda n. 16, de 28 de dezembro de 2015.",
+        "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1990/2/lom_compilada_2015_dezembro_ate_emenda_16.pdf",
+        "ano": 1990,
+        "norma": 1
+      },
+      "host": "sapl.conceicaodocoite.ba.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.conceicaodocoite.ba.leg.br/2.bin",
+      "sha256": "e105c8786c3a8d870b92a22e864a1175eb30a3a241841bcf96748f86a31d8cdc",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.conceicaodocoite.ba.leg.br/2.meta.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1990/2/lom_compilada_2015_dezembro_ate_emenda_16.pdf",
+      "bytes": 1517134
+    },
+    {
+      "norma": "municipais/BA/conceicao-do-coite/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "anexo": {
+        "id": 4,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/1990/4/lom_publicada_28122015compilada_ate_emenda_16.pdf da norma Lei Orgânica Municipal nº 1, de 05 de abril de 1990",
+        "link_detail_backend": "/norma/anexonormajuridica/4",
+        "metadata": {},
+        "assunto_anexo": "Lei Orgânica Municipal, publicada em 28/12/2015, compilada até Emenda 16/2015.",
+        "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1990/4/lom_publicada_28122015compilada_ate_emenda_16.pdf",
+        "ano": 1990,
+        "norma": 1
+      },
+      "host": "sapl.conceicaodocoite.ba.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.conceicaodocoite.ba.leg.br/4.bin",
+      "sha256": "755366390b1d69eab5102203a9613dab05c6e00b35f08654898871f97eaad369",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.conceicaodocoite.ba.leg.br/4.meta.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1990/4/lom_publicada_28122015compilada_ate_emenda_16.pdf",
+      "bytes": 440379
+    },
+    {
+      "norma": "municipais/MT/caceres/emendas-lei-organica/2023/emendas-lei-organica-48-2023-sapl-1125.md",
+      "anexo": {
+        "id": 411,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2023/411/emenda_a_lei_organica_48_de_17-07-2023_isaias.pdf da norma Emenda à Lei Orgânica nº 48, de 17 de julho de 2023",
+        "link_detail_backend": "/norma/anexonormajuridica/411",
+        "metadata": {},
+        "assunto_anexo": "Emenda à Lei Orgânica nº 48, de 17 de julho de 2023",
+        "anexo_arquivo": "http://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/411/emenda_a_lei_organica_48_de_17-07-2023_isaias.pdf",
+        "ano": 2023,
+        "norma": 1125
+      },
+      "host": "sapl.caceres.mt.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/411.bin",
+      "sha256": "b80981ceb48b34dd4dcda0be50b37609647ad2cb68717efd77426012722bc0ae",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/411.meta.json",
+      "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/411/emenda_a_lei_organica_48_de_17-07-2023_isaias.pdf",
+      "bytes": 197625
+    },
+    {
+      "norma": "municipais/MT/caceres/emendas-lei-organica/2023/emendas-lei-organica-49-2023-sapl-1133.md",
+      "anexo": {
+        "id": 419,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2023/419/emenda_a_lei_organica_49_de_17-07-2023_isaias.pdf da norma Emenda à Lei Orgânica nº 49, de 17 de julho de 2023",
+        "link_detail_backend": "/norma/anexonormajuridica/419",
+        "metadata": {},
+        "assunto_anexo": "Emenda à Lei Orgânica nº 49, de 17 de julho de 2023",
+        "anexo_arquivo": "http://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/419/emenda_a_lei_organica_49_de_17-07-2023_isaias.pdf",
+        "ano": 2023,
+        "norma": 1133
+      },
+      "host": "sapl.caceres.mt.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/419.bin",
+      "sha256": "2768aaf204509a45539790405bf1051e2bb2ac57703a00f09b16790fa5f09ea4",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/419.meta.json",
+      "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/419/emenda_a_lei_organica_49_de_17-07-2023_isaias.pdf",
+      "bytes": 204281
+    },
+    {
+      "norma": "municipais/MT/caceres/emendas-lei-organica/2025/emendas-lei-organica-52-2025-sapl-1996.md",
+      "anexo": {
+        "id": 1026,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1026/emenda_a_lei_organica_52_de_20-10-2025.pdf da norma Emenda à Lei Orgânica nº 52, de 20 de outubro de 2025",
+        "link_detail_backend": "/norma/anexonormajuridica/1026",
+        "metadata": {},
+        "assunto_anexo": "Emenda à Lei Orgânica nº 52, de 20 de outubro de 2025",
+        "anexo_arquivo": "http://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1026/emenda_a_lei_organica_52_de_20-10-2025.pdf",
+        "ano": 2025,
+        "norma": 1996
+      },
+      "host": "sapl.caceres.mt.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/1026.bin",
+      "sha256": "364f8ed8ab0e340d363e47fc43dc825252aea5caf5b8e63b6b5acfb24cb11348",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/1026.meta.json",
+      "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1026/emenda_a_lei_organica_52_de_20-10-2025.pdf",
+      "bytes": 277187
+    },
+    {
+      "norma": "municipais/MT/caceres/emendas-lei-organica/2025/emendas-lei-organica-53-2025-sapl-2226.md",
+      "anexo": {
+        "id": 1266,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1266/emenda_a_lei_organica_53_de_25-11-2025.pdf da norma Emenda à Lei Orgânica nº 53, de 16 de dezembro de 2025",
+        "link_detail_backend": "/norma/anexonormajuridica/1266",
+        "metadata": {
+          "signs": {
+            "anexo_arquivo": {
+              "admin": [],
+              "autores": [
+                [
+                  "Camara Municipal Caceres",
+                  [
+                    "2025-12-17T01:07:10Z",
+                    "ICP-Brasil"
+                  ]
+                ]
+              ]
+            }
+          }
+        },
+        "assunto_anexo": "Emenda à Lei Orgânica nº 53, de 16 de dezembro de 2025",
+        "anexo_arquivo": "http://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1266/emenda_a_lei_organica_53_de_25-11-2025.pdf",
+        "ano": 2025,
+        "norma": 2226
+      },
+      "host": "sapl.caceres.mt.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/1266.bin",
+      "sha256": "4e3b46536b47891bc337099bea64b30b4ed23103e902e94906846d70cf8dc70f",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/1266.meta.json",
+      "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1266/emenda_a_lei_organica_53_de_25-11-2025.pdf",
+      "bytes": 348456
+    },
+    {
+      "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2016/leis-ordinarias-1423-2016-sapl-345.md",
+      "anexo": {
+        "id": 2,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2016/2/lei_1.423_-_anexo_1_-_termo_de_nova_verificacao_e_avaliacao_-_novo_leilao.pdf da norma Lei Ordinária nº 1.423, de 22 de setembro de 2016",
+        "link_detail_backend": "/norma/anexonormajuridica/2",
+        "metadata": {},
+        "assunto_anexo": "",
+        "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2016/2/lei_1.423_-_anexo_1_-_termo_de_nova_verificacao_e_avaliacao_-_novo_leilao.pdf",
+        "ano": 2016,
+        "norma": 345
+      },
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.joaquimtavora.pr.leg.br/2.bin",
+      "sha256": "e63ec2e6d9e640389b87e5ec60110f2172fbe44ede220acbc2d67547a908b1ed",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.joaquimtavora.pr.leg.br/2.meta.json",
+      "url": "https://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2016/2/lei_1.423_-_anexo_1_-_termo_de_nova_verificacao_e_avaliacao_-_novo_leilao.pdf",
+      "bytes": 47522
+    },
+    {
+      "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1624-2022-sapl-434.md",
+      "anexo": {
+        "id": 4,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2022/4/lei_1.624_-_anexo_i.pdf da norma Lei Ordinária nº 1.624, de 17 de agosto de 2022",
+        "link_detail_backend": "/norma/anexonormajuridica/4",
+        "metadata": {},
+        "assunto_anexo": "(1) 2° Termo Aditivo do Protocolo de Intenções",
+        "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2022/4/lei_1.624_-_anexo_i.pdf",
+        "ano": 2022,
+        "norma": 434
+      },
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.joaquimtavora.pr.leg.br/4.bin",
+      "sha256": "680533451952d9ffc9c420affd6fb2da6af745df3638246832df766065bdd522",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.joaquimtavora.pr.leg.br/4.meta.json",
+      "url": "https://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2022/4/lei_1.624_-_anexo_i.pdf",
+      "bytes": 113678
+    },
+    {
+      "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1624-2022-sapl-434.md",
+      "anexo": {
+        "id": 5,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/lei_1.624_-_anexo_ii_-_extrato_publicacao_2o_aditivo.pdf da norma Lei Ordinária nº 1.624, de 17 de agosto de 2022",
+        "link_detail_backend": "/norma/anexonormajuridica/5",
+        "metadata": {},
+        "assunto_anexo": "Protocolo de Intenções  para adequação do Consórcio Intermunicipal de Saúde do Norte Pioneiro.",
+        "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2022/5/lei_1.624_-_anexo_ii_-_extrato_publicacao_2o_aditivo.pdf",
+        "ano": 2022,
+        "norma": 434
+      },
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.joaquimtavora.pr.leg.br/5.bin",
+      "sha256": "e33780c4dfb555d9612e9fd2c19c4cd3937212d4c2d6994b333f344066c7075f",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.joaquimtavora.pr.leg.br/5.meta.json",
+      "url": "https://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2022/5/lei_1.624_-_anexo_ii_-_extrato_publicacao_2o_aditivo.pdf",
+      "bytes": 240270
+    },
+    {
+      "norma": "municipais/MT/canarana/emendas-lei-organica/2011/emendas-lei-organica-7-2011-sapl-2481.md",
+      "anexo": {
+        "id": 4,
+        "__str__": "Anexo: sapl/public/anexonormajuridica/2011/4/publicacao_elom_07.pdf da norma Emenda à Lei Orgânica nº 7, de 31 de agosto de 2011",
+        "link_detail_backend": "/norma/anexonormajuridica/4",
+        "metadata": {},
+        "assunto_anexo": "",
+        "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2011/4/publicacao_elom_07.pdf",
+        "ano": 2011,
+        "norma": 2481
+      },
+      "host": "sapl.canarana.mt.leg.br",
+      "estado": "capturado",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.canarana.mt.leg.br/4.bin",
+      "sha256": "20bed8f6534c4747dbc731ba49fbb08d517ed8657fbf1865d9bcb96a0ad5f2f7",
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.canarana.mt.leg.br/4.meta.json",
+      "url": "https://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2011/4/publicacao_elom_07.pdf",
+      "bytes": 13577198
+    }
+  ],
+  "critério": "Apenas captura; nenhum arquivo é norma adicional nem conteúdo declarado integrado sem revisão."
+}

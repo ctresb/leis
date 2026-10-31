@@ -1,0 +1,42 @@
+{
+  "host": "sapl.domingosmartins.es.leg.br",
+  "metadados_unicos_observados": 6,
+  "total_api_declarado": 6,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.domingosmartins.es.leg.br/b48fca4e2ff884d9105a505f3c7c86d6999ec532d6d3e40111ba8f956abc97ef.json",
+    "url": "https://sapl.domingosmartins.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.domingosmartins.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6174fb30d69ed457a71c2e9e02e48d361e9283dd3eaa80b60f73aa00cfce12e8",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:48:32.852455-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.domingosmartins.es.leg.br/e0814b9cb5ff3e2772f72dce0b0f2f3ced2189e60323c90ed097c4c9186d1e72.json",
+    "url": "https://sapl.domingosmartins.es.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.domingosmartins.es.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ce92dbe9f1488b314230f527f2824bd5a134cbe5d608eea9404126a24b330fa2",
+    "bytes": 795,
+    "capturado_em": "2026-10-28T09:48:32.009551-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.domingosmartins.es.leg.br/9d5ecd08c33634d5bf06d596ea4881c25f38e6dc2638ff5c1a3fddfaa7d115b1.json",
+      "url": "https://sapl.domingosmartins.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.domingosmartins.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ec474392a7a8a73dd5bea61df55c1df24967295a6bb114511450a48aefafd187",
+      "bytes": 3765,
+      "capturado_em": "2026-10-28T09:48:33.896042-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

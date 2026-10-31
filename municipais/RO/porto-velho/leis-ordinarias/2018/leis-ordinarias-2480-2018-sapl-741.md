@@ -1,0 +1,162 @@
+---
+titulo: "Lei nº 2.480, de 15 de janeiro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2480"
+data: "2018-01-15"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2018-01-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/741"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2177/text"
+sha256_fonte: "23b8f110a326752730c1b4e25f3dfc3ab83d68e67938850ae3214765472c9678"
+sha256_texto: "7a71b465d3ae88ce60707f481c15acd3c0c050de1655c0b5d452cda575738b30"
+capturado_em_fonte: "2026-10-27T20:37:17.270424-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.480, de 15 de janeiro de 2018
+
+“Institui o Programa Municipal “Adote uma Escola” e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso de suas atribuições que lhe confere o inciso IV, do art. 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**L E I :**
+
+
+Art. 1º.
+
+Fica instituído o Programa Municipal “Adote uma Escola”, com o objetivo de incentivar a sociedade civil organizada e/ou pessoas jurídicas a contribuírem na conservação e manutenção das escolas e proporcionar melhorias na qualidade de ensino na rede pública municipal.
+
+
+Art. 2º.
+
+Para participar do Programa, a sociedade civil organizada, assim compreendida, quaisquer entidades da sociedade civil e as pessoas jurídicas legalmente constituídas e cadastradas no Município de Porto Velho deverão firmar termo de cooperação com a Direção da escola a ser adotada, após consulta com a Secretaria Municipal de Educação.
+
+
+Parágrafo único
+
+Para dar início ao processo de adoção, as pessoas mencionadas no “caput” deste artigo deverão anexar o projeto a ser desenvolvido, para fins de aprovação, ou solicitar um estudo pelo poder Público Municipal, evidenciando as benfeitorias necessárias.
+
+
+Art. 3º.
+
+A participação poderá se dar das seguintes formas:
+
+
+I –
+
+doação de equipamentos e materiais didáticos pertinentes após análise da Direção da escola adotada;
+
+
+II –
+
+realização de obras de reforma, ampliação e pintura de prédios escolares, de acordo com projeto elaborado pelo Poder Público Municipal;
+
+
+III –
+
+conservação e manutenção da escola adotada.
+
+
+§ 1º
+
+Na revitalização de entradas/saídas e áreas de lazer, deverá, obrigatoriamente, incluir-se a construção de rampas de acessibilidade.
+
+
+§ 2º
+
+A adoção de escolas públicas municipais não prejudica a função do Poder Executivo Municipal de administrar os próprios municipais.
+
+
+Art. 4º.
+
+É de responsabilidade da entidade ou pessoa jurídica adotante, a execução de projetos elaborados pelo Poder executivo Municipal, com verba, pessoal e materiais próprios, bem como a conservação e manutenção das escolas adotadas, obedecendo-se estritamente ao termo de cooperação celebrado.
+
+
+Art. 5º.
+
+A entidade ou pessoa jurídica adotante ficará autorizada, após a assinatura do termo de cooperação, veicular publicidade alusiva ao acordo celebrado, conforme padrões e modelos a serem estabelecidos pelo Poder Público Municipal.
+
+
+§ 1º
+
+O ônus com relação à veiculação da publicidade será de inteira responsabilidade do adotante, observados os critérios estabelecidos pelas Leis Municipais pertinentes.
+
+
+§ 2º
+
+A entidade ou pessoa jurídica participante poderá a mesma usar dos espaços definidos pelo Poder Público para fins de publicidade.
+
+
+§ 3º
+
+Fica proibida qualquer publicidade relacionada a cigarros e bebidas alcoólicas, bem como outras que possam ser consideradas impróprias aos objetivos propostos nesta Lei, notadamente aquelas que possam ser inadequadas aos estudantes.
+
+
+§ 4º
+
+O termo de acordo não poderá conceder qualquer tipo de uso à entidade participante a não ser aqueles estabelecidos nesta Lei, principalmente no que diz respeito à concessão de uso ou permissão de uso, sendo revogável unilateralmente pela Administração Pública, sem ônus para esta, quando o interesse público exigir.
+
+
+Art. 6º.
+
+Fica o Poder Público Municipal autorizado a conceder outros benefícios, como redução ou isenção de taxas ou impostos das entidades ou pessoas jurídicas integradas ao Programa.
+
+Alteração feita pelo Art. 6º. - Lei Promulgada nº 2.480, de 15 de janeiro de 2018.
+
+
+Art. 7º.
+
+Estalei regulamentada no prazo de sessenta dias a contar de sua publicação, no qual se estabelecerá, entre outras medidas:
+
+
+I –
+
+os órgãos ou setores responsáveis pelo processo de adoção;
+
+
+II –
+
+os órgãos responsáveis pela aprovação dos projetos e estudos, conforme parágrafo único do art. 2º desta Lei;
+
+
+III –
+
+a forma e tipo de publicidade.
+
+
+Art. 8º.
+
+A adesão ao Programa Municipal “Adote uma Escola”, opera-se em prejuízo da eventual realização de ações, como pequenos reparos e melhorias, por iniciativa de pessoa física ou jurídica.
+
+
+Parágrafo único
+
+As ações previstas no “caput” não acarretarão os encargos e nem ensejarão os benefícios de que trata o Programa, podendo ser desenvolvidas mediante autorização e sob orientação do órgão competente do Poder Público Municipal.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+
+SALATIEL LEMOS VALVERDE
+
+Procurador Geral Adjunto do Município
+
+**Projeto de Lei nº 3.602/2017.**
+
+**Autoria: Vereador Zequinha Araújo**
+

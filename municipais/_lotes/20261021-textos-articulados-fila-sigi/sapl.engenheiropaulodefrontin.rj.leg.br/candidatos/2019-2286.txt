@@ -1,0 +1,36 @@
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir CRÉDITO ADICIONAL SUPLEMENTAR, no valor de R$ 750.000,00 (Setecentos e cinquenta mil reais), para reforço das seguintes dotações:
+
+
+Rdz Órgão Unid Função Sub função Programa Proj/ Ativ Elemento de Despesa Fonte Valor (R$)  
+13 02 003 04 122 2001 2201 3.3.90.30.00.00.00.00 1.704.0000 750.000,00
+
+
+Art. 2º.
+
+Os recursos orçamentários para atender ao crédito adicional são provenientes de anulação das despesas das categorias econômicas, com fulcro no artigo 43, parágrafo 1º, inciso III da Lei 4.320/64, como segue:
+
+
+Rdz Órgão Unid Função Sub função Programa Proj/ Ativ Elemento de Despesa Fonte Valor (R$)  
+38 02 005 12 122 2001 2201 4.4.90.52.00.00.00.00 1.704.0000 142.996,60  
+59 02 005 12 361 2009 2201 3.3.90.92.00.00.00.00 1.704.0000 122.080,00  
+79 02 007 04 122 2001 2201 4.4.90.52.00.00.00.00 1.704.0000 54.267,30  
+96 02 010 23 695 2001 2201 3.3.90.39.00.00.00.00 1.704.0000 200.055,70  
+100 02 012 27 812 2001 2201 3.3.90.30.00.00.00.00 1.704.0000 125.000,40  
+102 02 012 27 812 2001 2201 3.3.90.39.00.00.00.00 1.704.0000 20.600,00  
+105 02 013 20 122 2001 2201 3.3.90.30.00.00.00.00 1.704.0000 85.000,00
+
+
+Art. 3º.
+
+Este Decreto produzirá seus efeitos a contar de sua publicação.
+
+
+Engenheiro Paulo de Frontin, 03 de dezembro de 2024.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal

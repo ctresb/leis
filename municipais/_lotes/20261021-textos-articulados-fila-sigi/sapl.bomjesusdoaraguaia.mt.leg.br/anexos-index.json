@@ -1,0 +1,167 @@
+{
+  "estado": "indice_completo",
+  "total": 15,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/anexo_da_loa_2024.pdf da norma Lei Municipal-Pref nº 661, de 18 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "SÚMULA: ESTIMA A RECEITA E FIXA A DESPESA DO MUNICIPIO DE BOM JESUS DO ARAGUAIA/MT, PARA O EXERCICIODINANCEIRO DE 2024 E DÁ OUTRAS PROVIDENCIAS.",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2023/1/anexo_da_loa_2024.pdf",
+      "ano": 2023,
+      "norma": 43
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/lei_municipal_n.o_820_de_26_de_agosto_de_2026_-_ldo___anexos.pdf da norma Lei Municipal-Pref nº 820, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/2/lei_municipal_n.o_820_de_26_de_agosto_de_2026_-_ldo___anexos.pdf",
+      "ano": 2026,
+      "norma": 879
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/5/lei_municipal_n.o_817_de_26_de_agosto_de_2026_de_autoria_do_poder_legislativo_-dispoe_sobre_a_regulamentacao_da_poda_do_manejo_da_supressao_da_conservacao_e_do_plantio_1.pdf da norma Lei Municipal-Pref nº 817, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/5/lei_municipal_n.o_817_de_26_de_agosto_de_2026_de_autoria_do_poder_legislativo_-dispoe_sobre_a_regulamentacao_da_poda_do_manejo_da_supressao_da_conservacao_e_do_plantio_1.pdf",
+      "ano": 2026,
+      "norma": 876
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/6/lei_municipal_n.o_819_de_26_de_agosto_de_2026_de_autoria_do_poder_legislativo_-institui_a_politica_municipal_de_educacao_para_o_transito_e_seguranca_viaria_no_municipio_de_1.pdf da norma Lei Municipal-Pref nº 819, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/6/lei_municipal_n.o_819_de_26_de_agosto_de_2026_de_autoria_do_poder_legislativo_-institui_a_politica_municipal_de_educacao_para_o_transito_e_seguranca_viaria_no_municipio_de_1.pdf",
+      "ano": 2026,
+      "norma": 878
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/7/lei_municipal_n.o_818_de_26_de_agosto_de_2026_de_autoria_do_poder_legislativo_-dispoe_sobre_a_implantacao_de_equipamentos_de_sonorizacao_amplificacao_ou_difusao_da_voz_na_1.pdf da norma Lei Municipal-Pref nº 818, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/7/lei_municipal_n.o_818_de_26_de_agosto_de_2026_de_autoria_do_poder_legislativo_-dispoe_sobre_a_implantacao_de_equipamentos_de_sonorizacao_amplificacao_ou_difusao_da_voz_na_1.pdf",
+      "ano": 2026,
+      "norma": 877
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/lei_municipal_n.o_816_de_25_de_agosto_de_2026_de_autoria_do_poder_legislativo_-institui_o_cadastro_municipal_dos_musicos_e_a_carteira_de_identificacao_cultural_do_musico_n_1.pdf da norma Lei Municipal-Pref nº 816, de 25 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/8/lei_municipal_n.o_816_de_25_de_agosto_de_2026_de_autoria_do_poder_legislativo_-institui_o_cadastro_municipal_dos_musicos_e_a_carteira_de_identificacao_cultural_do_musico_n_1.pdf",
+      "ano": 2026,
+      "norma": 875
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/lei_municipal_n.o_815_de_25_de_agosto_de_2026_de_autoria_do_poder_legislativo_-dispoe_sobre_a_obrigatoriedade_de_identificacao_dos_veiculos_oficiais_e_a_servico_do_municip_1.pdf da norma Lei Municipal-Pref nº 815, de 25 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/9/lei_municipal_n.o_815_de_25_de_agosto_de_2026_de_autoria_do_poder_legislativo_-dispoe_sobre_a_obrigatoriedade_de_identificacao_dos_veiculos_oficiais_e_a_servico_do_municip_1.pdf",
+      "ano": 2026,
+      "norma": 874
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/10/lei_municipal_n.o_814__de_12_de_agosto_de_2026_-_autoriza_o_poder_executivo_a_abertura_de_credito_suplementar_no_orcamento_vigente_-_agrobomja_2026_1.pdf da norma Lei Municipal-Pref nº 814, de 12 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/10/lei_municipal_n.o_814__de_12_de_agosto_de_2026_-_autoriza_o_poder_executivo_a_abertura_de_credito_suplementar_no_orcamento_vigente_-_agrobomja_2026_1.pdf",
+      "ano": 2026,
+      "norma": 873
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/11/lei_municipal_n.o_813_de_23_de_julho_de_2026_-_autoriza_a_abertura_de_credito_suplementar_no_orcamento_vigente_-_pavimentacao_1_milao_e_600_mil_1.pdf da norma Lei Municipal-Pref nº 813, de 23 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/11/lei_municipal_n.o_813_de_23_de_julho_de_2026_-_autoriza_a_abertura_de_credito_suplementar_no_orcamento_vigente_-_pavimentacao_1_milao_e_600_mil_1.pdf",
+      "ano": 2026,
+      "norma": 872
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/lei_municipal_n.o_812_de_01_de_julho_de_2026_-_autoriza_o_poder_executivo_municipal_a_custear_parcialmente_despesas_com_a_cooperbomja_2.pdf da norma Lei Municipal-Pref nº 812, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/12/lei_municipal_n.o_812_de_01_de_julho_de_2026_-_autoriza_o_poder_executivo_municipal_a_custear_parcialmente_despesas_com_a_cooperbomja_2.pdf",
+      "ano": 2026,
+      "norma": 871
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/13/lei_municipal_n.o_811_de_01_de_julho_de__2026-_dispoe_sobre_a_criacao_do_conselho_municipal_de_habitacao_de_interesse_social_cmhis_do_fundo_municipal_de_habitacao_de_interesse_1.pdf da norma Lei Municipal-Pref nº 811, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/13/lei_municipal_n.o_811_de_01_de_julho_de__2026-_dispoe_sobre_a_criacao_do_conselho_municipal_de_habitacao_de_interesse_social_cmhis_do_fundo_municipal_de_habitacao_de_interesse_1.pdf",
+      "ano": 2026,
+      "norma": 870
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/14/lei_municipal_n.o_810_de_16_de_junho_de_2026_-autoriza_o_poder_executivo_a_abertura_de_credito_suplementar_no_orcamentopavimentacao_asfaltica_e_drenagem__1.pdf da norma Lei Municipal-Pref nº 810, de 16 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/14/lei_municipal_n.o_810_de_16_de_junho_de_2026_-autoriza_o_poder_executivo_a_abertura_de_credito_suplementar_no_orcamentopavimentacao_asfaltica_e_drenagem__1.pdf",
+      "ano": 2026,
+      "norma": 869
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/15/lei_municipal_n.o_809_de_09_de_junho_de_2026_-autoriza_o_poder_executivo_a_abertura_de_credito_suplementar_no_orcamento_van_assistencia_social_320.000_1.pdf da norma Lei Municipal-Pref nº 809, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/15/lei_municipal_n.o_809_de_09_de_junho_de_2026_-autoriza_o_poder_executivo_a_abertura_de_credito_suplementar_no_orcamento_van_assistencia_social_320.000_1.pdf",
+      "ano": 2026,
+      "norma": 868
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/16/lei_municipal_n.o_808_de_09_de_junho_de_2026_-adicional_credito_especial_por_tendencia_excesso_-_brigada_de_incendio_1.pdf da norma Lei Municipal-Pref nº 808, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/16/lei_municipal_n.o_808_de_09_de_junho_de_2026_-adicional_credito_especial_por_tendencia_excesso_-_brigada_de_incendio_1.pdf",
+      "ano": 2026,
+      "norma": 867
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/17/lei_municipal_n.o_807_de_09_de_junho_de_2026_-_adicional_credito_suplementar_por_tendencia_excesso_-_unidades_habitacionais_1.pdf da norma Lei Municipal-Pref nº 807, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2026/17/lei_municipal_n.o_807_de_09_de_junho_de_2026_-_adicional_credito_suplementar_por_tendencia_excesso_-_unidades_habitacionais_1.pdf",
+      "ano": 2026,
+      "norma": 866
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/461e412346088050e5eb5a2d50e4eca1ab4e077f51f3da1c23dca02415608177.json",
+      "url": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "60a733fe22f531db37dd788ef610f8399dbd648d87554b2572568ebde12eef53",
+      "capturado_em": "2026-10-20T22:40:45.821432",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/461e412346088050e5eb5a2d50e4eca1ab4e077f51f3da1c23dca02415608177.json"
+    }
+  ]
+}

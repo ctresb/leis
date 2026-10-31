@@ -1,0 +1,83 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Especial, no valor de R$ 5.854.500,00 (cinco milhões, oitocentos e cinquenta e quatro mil e quinhentos reais), ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a proceder à abertura de um Crédito Adicional Especial ao Orçamento Geral do Município, no valor de R$ 5.854.500,00 (cinco milhões, oitocentos e cinquenta e quatro mil e quinhentos reais), na forma abaixo especificada:
+
+
+<table><tbody><tr><td>04</td><td>- SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</td><td> </td></tr><tr><td>04</td><td colspan="2">- DIRETORIA DE GESTÃO DE PESSOAS</td></tr><tr><td>04 122 0030 2.011</td><td colspan="2">- Despesas Gerais na Gestão de Pessoas e QPDO</td></tr><tr><td>3.1.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente....</td><td>768.900,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>10</td><td>- SECRETARIA MUNICIPAL DA SAÚDE</td><td> </td></tr><tr><td>01</td><td colspan="2">- FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td>10 122 0100 2.090</td><td colspan="2">- Manutenção e Ampliação das Atividades de Gestão em Saúde</td></tr><tr><td>3.1.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.303</td><td>- Saúde - Receitas Vinculadas (EC 29/00 - 15%) - Exercício Corrente....</td><td>1.462.400,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>12</td><td>- SECRETARIA MUNICIPAL DA EDUCAÇÃO</td><td> </td></tr><tr><td>01</td><td colspan="2">- GABINETE DO SECRETÁRIO</td></tr><tr><td>12 361 0120 2.105</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td>3.1.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente....</td><td>2.923.400,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>31</td><td>- FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>01</td><td colspan="2">- FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td></tr><tr><td>13 392 0310 2.180</td><td colspan="2">- Manutenção e Gestão da Fundação Cultural</td></tr><tr><td>3.1.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>19.500,00</td></tr><tr><td>3.3.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>104.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>32</td><td colspan="2">- INSTITUTO DE TRANSPORTES E TRÂNSITO DE FOZ DO IGUAÇU - FOZTRANS</td></tr><tr><td>01</td><td colspan="2">- FOZTRANS</td></tr><tr><td>15 122 0320 2.190</td><td colspan="2">- Manutenção das Atividades do FOZTRANS</td></tr><tr><td>3.1.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>74.300,00</td></tr><tr><td>3.3.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>335.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>33</td><td colspan="2">- INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU - FOZHABITA</td></tr><tr><td>01</td><td colspan="2">- FOZHABITA - INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU</td></tr><tr><td>16 482 0700 2.193</td><td colspan="2">- Manutenção do FOZHABITA</td></tr><tr><td>3.1.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>16.700,00</td></tr><tr><td>3.3.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>51.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>40</td><td>- FOZ PREVIDÊNCIA - DIRETORIA</td><td> </td></tr><tr><td>01</td><td colspan="2">- FOZ PREVIDÊNCIA - DIRETORIA</td></tr><tr><td>09 272 0330 2.195</td><td colspan="2">- Administração da Foz Previdência</td></tr><tr><td>3.1.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.100</td><td>- Recursos Vinculados ao RPPS - Taxa de Administração....</td><td>16.800,00</td></tr><tr><td>3.3.90.46</td><td colspan="2">- Auxílio-Alimentação</td></tr><tr><td>1.100</td><td>- Recursos Vinculados ao RPPS - Taxa de Administração....</td><td>82.500,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>- TOTAL DO CRÉDITO ADICIONAL ESPECIAL ....</td><td>5.854.500,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, e a seguir especificados:
+
+
+<table><tbody><tr><td>04</td><td>- SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</td><td> </td><td> </td></tr><tr><td>04</td><td colspan="2">- DIRETORIA DE GESTÃO DE PESSOAS</td><td> </td></tr><tr><td>04 122 0030 3.002</td><td>04</td><td colspan="2">- SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</td></tr><tr><td>3.3.91.97</td><td>04</td><td colspan="2">- DIRETORIA DE GESTÃO DE PESSOAS</td></tr><tr><td>1.000</td><td>28.846.0030.3002</td><td colspan="2">- Contribuição Patronal e Aportes para o RPPS - Administração</td></tr><tr><td> </td><td>3.3.91.97</td><td colspan="2">- Aporte para Cobertura do Déficit Atuarial do RPPS</td></tr><tr><td> </td><td>1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente....</td><td>833.000,00</td></tr></tbody></table>
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.460, de 08 de agosto de 2024.
+
+
+<table><tbody><tr><td>10</td><td>- SECRETARIA MUNICIPAL DA SAÚDE</td><td> </td><td> </td></tr><tr><td>01</td><td>10</td><td colspan="2">- SECRETARIA MUNICIPAL DA SAÚDE</td></tr><tr><td>10 122 0100 2.092</td><td>01</td><td colspan="2">- FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td>3.1.90.11</td><td>10.301.0550.2092</td><td colspan="2">- Manutenção das Unidades Básicas de Saúde</td></tr><tr><td>1.303</td><td>3.1.90.11</td><td colspan="2">- Vencimentos e Salários</td></tr><tr><td> </td><td>1.303</td><td>- Saúde - Receitas Vinculadas (EC 29/00 - 15%) - Exercício Corrente....</td><td>1.462.400,00</td></tr></tbody></table>
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.460, de 08 de agosto de 2024.
+
+
+<table><tbody><tr><td>12</td><td>- SECRETARIA MUNICIPAL DA EDUCAÇÃO</td><td> </td><td> </td></tr><tr><td>02</td><td>12</td><td colspan="2">- SECRETARIA MUNICIPAL DA EDUCAÇÃO</td></tr><tr><td>12 361 0120 2.114</td><td>02</td><td colspan="2">- DIRETORIA DE ENSINO FUNDAMENTAL</td></tr><tr><td>3.1.90.11</td><td>12.361.0600.2114</td><td colspan="2">- Manutenção do Ensino Fundamental</td></tr><tr><td>1.000</td><td>3.1.90.11</td><td colspan="2">- Vencimentos e Salários</td></tr><tr><td>1.104</td><td>1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente....</td><td>536.400,00</td></tr><tr><td> </td><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente....</td><td>2.923.400,00</td></tr></tbody></table>
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.460, de 08 de agosto de 2024.
+
+
+<table><tbody><tr><td>40</td><td>- FOZ PREVIDÊNCIA - DIRETORIA</td><td> </td></tr><tr><td>01</td><td colspan="2">- FOZ PREVIDÊNCIA - DIRETORIA</td></tr><tr><td>09 272 0330 2.195</td><td colspan="2">- Administração da Foz Previdência</td></tr><tr><td>3.1.90.11</td><td colspan="2">- Vencimentos e Salários</td></tr><tr><td>1.100</td><td>- Recursos Vinculados ao RPPS - Taxa de Administração....</td><td>49.300,00</td></tr><tr><td>3.1.90.91</td><td colspan="2">- Outras Sentenças Judiciais</td></tr><tr><td>1.100</td><td>- Recursos Vinculados ao RPPS - Taxa de Administração....</td><td>25.000,00</td></tr><tr><td>3.1.91.13</td><td colspan="2">- Outras Obrigações Patronais</td></tr><tr><td>1.100</td><td>- Recursos Vinculados ao RPPS - Taxa de Administração....</td><td>25.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td>- TOTAL DA ANULAÇÃO ....</td><td>5.854.500,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 26 de março de 2024.
+
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Eliane Dávilla Sávio  
+Secretária Municipal da Administração  
+  
+Nilton Aparecido Bobato  
+Secretário Municipal da Transparência e Governança  
+  
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda
+
+
+**Nota: Este texto não substitui o original publicado no Diário Oficial.**

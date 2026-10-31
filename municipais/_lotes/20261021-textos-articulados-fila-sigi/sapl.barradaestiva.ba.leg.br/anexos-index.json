@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/lei_municipal_no_003-2014_-_plano_municipal_de_educacao.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 1, de 27 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "“Aprova o Plano Municipal de Educação para o decênio 2014/2023 em consonância com o PLC nº 103/2012 que trata do Plano Nacional de Educação e dá outras providências”.",
+      "anexo_arquivo": "http://sapl.barradaestiva.ba.leg.br/media/sapl/public/anexonormajuridica/2019/1/lei_municipal_no_003-2014_-_plano_municipal_de_educacao.pdf",
+      "ano": 2019,
+      "norma": 66
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/decreto_legislativo_no_005-2026_-_alteracao_de_qdd.pdf da norma DECRETO LEGISLATIVO nº 5, de 22 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barradaestiva.ba.leg.br/media/sapl/public/anexonormajuridica/2026/2/decreto_legislativo_no_005-2026_-_alteracao_de_qdd.pdf",
+      "ano": 2026,
+      "norma": 417
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/decreto_legislativo_no_006-2026_-_alteracao_de_qdd.pdf da norma DECRETO LEGISLATIVO nº 6, de 01 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barradaestiva.ba.leg.br/media/sapl/public/anexonormajuridica/2026/3/decreto_legislativo_no_006-2026_-_alteracao_de_qdd.pdf",
+      "ano": 2026,
+      "norma": 418
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradaestiva.ba.leg.br/39b8759743c3ee867b2343b80fa2e2c3aaa993f8af01d85f4ae6217f7bf6321b.json",
+      "url": "https://sapl.barradaestiva.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.barradaestiva.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c22ab4cbf5def29b3df3cc43a6b591a3e497f1a8e5cbb9b0799cc2afc1cdcabc",
+      "bytes": 1751,
+      "capturado_em": "2026-10-27T17:10:20.532220-03:00"
+    }
+  ]
+}

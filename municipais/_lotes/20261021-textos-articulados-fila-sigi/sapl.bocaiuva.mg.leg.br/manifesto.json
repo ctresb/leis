@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bocaiuva.mg.leg.br",
+  "metadados_unicos_observados": 11,
+  "total_api_declarado": 11,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 5,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bocaiuva.mg.leg.br/6ca9c3bbd31ba4eb216fbaaa3cd83f59d6c090ad2cf94a8f6f9a020d819cc0ef.json",
+    "url": "https://sapl.bocaiuva.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bocaiuva.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "841bca9d160960765bcdf567867e8a1bd0024dd441b06e19c44758acf21dd3be",
+    "bytes": 956,
+    "capturado_em": "2026-10-27T19:07:49.036181-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bocaiuva.mg.leg.br/177d0a5d4257bc562c4fe1a9aaceeefe88bb3eb5ab8a9f15411c7f6c9ecd2d6e.json",
+    "url": "https://sapl.bocaiuva.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bocaiuva.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a8318ea78849f71fca8f3118b6dc0a5ec5f5afbf1613cb4b05268a024c0cba27",
+    "bytes": 775,
+    "capturado_em": "2026-10-27T19:07:48.103542-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bocaiuva.mg.leg.br/3d167ee0c021b09530a209a644aae93b0153866afaa43a994259dea4c5f5fa09.json",
+      "url": "https://sapl.bocaiuva.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bocaiuva.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "070dc43b992c4f3e5f48b1b1df25ef413a3c25a613d1634f5538029f1aca5f94",
+      "bytes": 6609,
+      "capturado_em": "2026-10-27T19:07:51.085052-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

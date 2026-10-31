@@ -1,0 +1,195 @@
+---
+titulo: "DECRETO Nº 4394 / CRED. SUPL. PREFEITURA."
+uf: "RJ"
+municipio: "DUAS BARRAS"
+tipo: "Decreto"
+numero: "4394"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 27/03/2026"
+data_publicacao: 2026-03-27
+codigo_identificador: "5DBCE9B5"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=265&i=publicado_117302_2026-03-26_067664867c7ec3487f5adfd56e2b5495.pdf"
+baixado_em: 2026-10-16
+---
+# DECRETO Nº 4394 / CRED. SUPL. PREFEITURA.
+
+DECRETO Nº 4394 / CRED. SUPL. PREFEITURA.
+DISPÕE SOBRE A ABERTURA DE CRÉDITO SUPLEMENTAR NO ORÇAMENTO DA PREFEITURA MUNICIPAL DE
+DUAS BARRAS.
+
+www.diariomunicipal.com.br/aemerj
+
+14
+
+Rio de Janeiro , 27 de Março de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro •
+
+ANO XVII | Nº 4090
+
+O Prefeito Municipal de Duas Barras, no uso de suas atribuições legais, de acordo com o Art. 4º, Inciso I e Art. 5º Inciso II da Lei Municipal nº 1.580
+de 11 de dezembro de 2025;
+D E C R E T A:
+Art. 1º - Fica aberto o Crédito Suplementar na importância de R$ 704.000,00 (Setecentos e quatro mil reais), para reforçar dotações orçamentárias da
+Prefeitura Municipal de Duas Barras, constantes do Anexo I.
+Art. 2º - Os recursos para atender ao Artº. 1º, serão provenientes de anulação parcial ou total de dotações orçamentárias da Prefeitura Municipal de
+Duas Barras, constantes do Anexo I, nos termos do § 1º, Inciso III do Art. 43 da Lei nº 4.320, de 17 de março de 1964.
+Art. 3º - Este Decreto entra em vigor nesta data, revogadas as disposições em contrário.
+Gabinete do Prefeito, 05 de fevereiro de 2026.
+ARMANDO ROSEMBERTO MATTOS TEIXEIRA
+Prefeito
+ANEXO I
+CÓDIGOS
+PROGRAMA DE TRABALHO
+PMDB
+020900.1212200152.015
+020900.1236100162.016
+020900.1236100162.016
+020900.1236100162.016
+020900.1236100162.017
+020900.1236100162.017
+020900.1236100162.017
+020900.1236500172.021
+020900.1236700512.019
+020900.1212200152.015
+020900.1212200152.015
+020900.1212200152.015
+020900.1212200152.015
+020900.1212200152.015
+020900.1212200152.015
+020900.1236100162.016
+020900.1236100162.016
+020900.1236100162.016
+020900.1236100162.016
+020900.1236100162.016
+020900.1236500172.020
+020900.1236500172.022
+020900.1236500172.022
+020900.1236500172.022
+020900.1236500172.023
+TOTAL
+Decreto Nº 4394/2026
+
+DESPESAS
+
+FICHA
+
+FONTE
+
+31901101
+31900400
+33903000
+33903000
+33903900
+33903900
+33903900
+33903000
+33903900
+33903000
+33903600
+33903900
+33909100
+33909300
+33909300
+31900400
+31901302
+33903200
+33903400
+33903900
+33903900
+33903000
+33903900
+33903900
+33903000
+
+112
+126
+135
+138
+142
+144
+145
+165
+204
+427
+120
+121
+424
+423
+425
+125
+421
+139
+417
+418
+420
+177
+419
+416
+183
+
+150010010000
+154000700000
+150010010000
+157300000000
+150010010000
+155300000000
+157300000000
+150010010000
+150010010000
+150010010000
+157300000000
+150010010000
+150010010000
+150010010000
+155300000000
+150010010000
+154000700000
+157300000000
+150010010000
+150010010000
+150010010000
+157300000000
+150010010000
+157300000000
+157300000000
+
+VALORES
+SUPLEMENTAÇÃO
+
+ANULAÇÃO
+R$ 122.000,00
+R$ 100.000,00
+R$ 38.000,00
+R$ 60.000,00
+R$ 50.000,00
+R$ 16.000,00
+R$ 300.000,00
+R$ 12.000,00
+R$ 6.000,00
+
+R$ 12.000,00
+R$ 30.000,00
+R$ 11.000,00
+R$ 72.000,00
+R$ 3.000,00
+R$ 16.000,00
+R$ 50.000,00
+R$ 100.000,00
+R$ 190.000,00
+R$ 50.000,00
+R$ 10.000,00
+R$ 10.000,00
+R$ 30.000,00
+R$ 10.000,00
+R$ 55.000,00
+R$ 55.000,00
+R$ 704.000,00
+
+R$ 704.000,00
+
+ANULAÇÃO
+
+Publicado por:
+Ubirajara Blanco Gomes

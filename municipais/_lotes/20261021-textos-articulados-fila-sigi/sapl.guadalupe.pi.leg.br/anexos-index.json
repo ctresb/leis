@@ -1,0 +1,528 @@
+{
+  "estado": "indice_completo",
+  "total": 51,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/lei_no._537_anexos_loa_2021.pdf da norma Lei Ordinária nº 537, de 08 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2020/1/lei_no._537_anexos_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 457
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/lei_no._535.2020_lei_de_diretrizes_orcamentarias_ldo_2021_anexos.pdf da norma Lei Ordinária nº 535, de 03 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2020/2/lei_no._535.2020_lei_de_diretrizes_orcamentarias_ldo_2021_anexos.pdf",
+      "ano": 2020,
+      "norma": 443
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/lei_no._526.2019_concessao_de_direito_real_de_uso_para_fins_de_habitacao_anexo.pdf da norma Lei Ordinária nº 526, de 18 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Lista de Benediciados Sorteio Público n° 001/2019",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2019/3/lei_no._526.2019_concessao_de_direito_real_de_uso_para_fins_de_habitacao_anexo.pdf",
+      "ano": 2019,
+      "norma": 433
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/lei_no._524.2019_lei_orcamentaria_anual_loa_2020_anexos.pdf da norma Lei Ordinária nº 524, de 28 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS da LOA 2020",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2019/4/lei_no._524.2019_lei_orcamentaria_anual_loa_2020_anexos.pdf",
+      "ano": 2019,
+      "norma": 431
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/lei_no._513.2019_lei_de_diretrizes_orcamentarias_ldo_2020_anexos.pdf da norma Lei Ordinária nº 513, de 19 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexos de Metas Fiscais da LDO",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2019/5/lei_no._513.2019_lei_de_diretrizes_orcamentarias_ldo_2020_anexos.pdf",
+      "ano": 2019,
+      "norma": 257
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/lei_no._505.2018_orcamento_para_2019_loa_2019_anexos.pdf da norma Lei Ordinária nº 505, de 27 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA 2019",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2018/6/lei_no._505.2018_orcamento_para_2019_loa_2019_anexos.pdf",
+      "ano": 2018,
+      "norma": 248
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/lei_no._504.2018_reformulacao_do_plano_plurianual_-_ppa_2018-2021_anexos.pdf da norma Lei Ordinária nº 504, de 27 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA 2018-2021",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2018/7/lei_no._504.2018_reformulacao_do_plano_plurianual_-_ppa_2018-2021_anexos.pdf",
+      "ano": 2018,
+      "norma": 247
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/lei_no._550.2021_lei_de_diretrizes_orcamentarias_ldo_2022_anexos.pdf da norma Lei Ordinária nº 550, de 28 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2022: METAS E PRIORIDADES",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2021/8/lei_no._550.2021_lei_de_diretrizes_orcamentarias_ldo_2022_anexos.pdf",
+      "ano": 2021,
+      "norma": 467
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/9/lei_no._497.2018_lei_de_diretrizes_orcamentarias_ldo_2019_anexos.pdf da norma Lei Ordinária nº 497, de 19 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2019: METAS FISCAIS",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2018/9/lei_no._497.2018_lei_de_diretrizes_orcamentarias_ldo_2019_anexos.pdf",
+      "ano": 2018,
+      "norma": 240
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/10/lei_no._485.2017_lei_orcamentaria_anual_loa_2018_anexos.pdf da norma Lei Ordinária nº 485, de 28 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA 2018",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2017/10/lei_no._485.2017_lei_orcamentaria_anual_loa_2018_anexos.pdf",
+      "ano": 2017,
+      "norma": 228
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/11/lei_no._484.2017_plano_plurianual_2018-2021_anexos.pdf da norma Lei Ordinária nº 484, de 28 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA 2018-2021",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2017/11/lei_no._484.2017_plano_plurianual_2018-2021_anexos.pdf",
+      "ano": 2017,
+      "norma": 227
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/lei_no._479.2017_lei_de_diretrizes_orcamentarias_ldo_2018_anexos.pdf da norma Lei Ordinária nº 479, de 28 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2018",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2017/12/lei_no._479.2017_lei_de_diretrizes_orcamentarias_ldo_2018_anexos.pdf",
+      "ano": 2017,
+      "norma": 223
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/13/lei_no._473.2016_lei_orcamentaria_anual_loa_2017_anexos.pdf da norma Lei Ordinária nº 473, de 07 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA 2017",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2016/13/lei_no._473.2016_lei_orcamentaria_anual_loa_2017_anexos.pdf",
+      "ano": 2016,
+      "norma": 222
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/14/lei_no._470.2016_lei_de_diretrizes_orcamentarias_ldo_2017_anexos.pdf da norma Lei Ordinária nº 470, de 27 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2017",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2016/14/lei_no._470.2016_lei_de_diretrizes_orcamentarias_ldo_2017_anexos.pdf",
+      "ano": 2016,
+      "norma": 185
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/15/lei_no._469.2016_doacao_de_terreno_a_seduc_anexo.pdf da norma Lei Ordinária nº 469, de 31 de maio de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Planta Baixa",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2016/15/lei_no._469.2016_doacao_de_terreno_a_seduc_anexo.pdf",
+      "ano": 2016,
+      "norma": 184
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/16/lei_no._468.2016_doacao_de_terreno_a_paroquia_anexos.pdf da norma Lei Ordinária nº 468, de 18 de abril de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Certidão de Registro de Imóvel, Planta Baixa",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2016/16/lei_no._468.2016_doacao_de_terreno_a_paroquia_anexos.pdf",
+      "ano": 2016,
+      "norma": 183
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/17/lei_no._463.2015_doa_o_predio_da_igreja_sao_francisco_a_paroquia_anexos.pdf da norma Lei Ordinária nº 463, de 23 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Certidão de Registro de Imóveis",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2015/17/lei_no._463.2015_doa_o_predio_da_igreja_sao_francisco_a_paroquia_anexos.pdf",
+      "ano": 2015,
+      "norma": 180
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/18/lei_no._459.2015_lei_de_diretrizes_orcamentarias_ldo_2016_anexos.pdf da norma Lei Ordinária nº 459, de 30 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS da LDO 2016",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2015/18/lei_no._459.2015_lei_de_diretrizes_orcamentarias_ldo_2016_anexos.pdf",
+      "ano": 2015,
+      "norma": 176
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/19/lei_no._434.2013_plano_plurianual_ppa_2014.2017_anexos.pdf da norma Lei Ordinária nº 434, de 11 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA 2014-2017",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2013/19/lei_no._434.2013_plano_plurianual_ppa_2014.2017_anexos.pdf",
+      "ano": 2013,
+      "norma": 154
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/20/lei_no._433.2013_lei_orcamentaria_para_2014_loa_2014_anexos.pdf da norma Lei Ordinária nº 433, de 11 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DA LOA 2014",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2013/20/lei_no._433.2013_lei_orcamentaria_para_2014_loa_2014_anexos.pdf",
+      "ano": 2013,
+      "norma": 153
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/21/lei_no._417.2013_lei_de_diretrizes_orcamentarias_ldo_2014_anexos.pdf da norma Lei Ordinária nº 417, de 10 de junho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2014",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2013/21/lei_no._417.2013_lei_de_diretrizes_orcamentarias_ldo_2014_anexos.pdf",
+      "ano": 2013,
+      "norma": 137
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/22/lei_no._404.2013_lei_orcamentaria_para_2013_loa_2013_anexos.pdf da norma Lei Ordinária nº 404, de 07 de janeiro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA 2013",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2013/22/lei_no._404.2013_lei_orcamentaria_para_2013_loa_2013_anexos.pdf",
+      "ano": 2013,
+      "norma": 124
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/23/lei_no._398.2012_lei_de_diretrizes_orcamentarias_ldo_2013_anexos.pdf da norma Lei Ordinária nº 398, de 18 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA 2013",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2012/23/lei_no._398.2012_lei_de_diretrizes_orcamentarias_ldo_2013_anexos.pdf",
+      "ano": 2012,
+      "norma": 118
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/24/lei_no._382.2011_diretrizes_orcamentarias_ldo_2012_anexos.pdf da norma Lei Ordinária nº 382, de 05 de agosto de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2012",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2011/24/lei_no._382.2011_diretrizes_orcamentarias_ldo_2012_anexos.pdf",
+      "ano": 2011,
+      "norma": 102
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/25/lei_no._376.2010_orcamento_2011_loa_2011_anexos.pdf da norma Lei Ordinária nº 376, de 30 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA 2011",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2010/25/lei_no._376.2010_orcamento_2011_loa_2011_anexos.pdf",
+      "ano": 2010,
+      "norma": 96
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/26/lei_no._369.2010_diretrizes_orcamentarias_ldo_2011_anexos.pdf da norma Lei Ordinária nº 369, de 29 de julho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2011",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2010/26/lei_no._369.2010_diretrizes_orcamentarias_ldo_2011_anexos.pdf",
+      "ano": 2010,
+      "norma": 98
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/27/lei_no._353.2009_doa_terrenos_a_secretaria_municipal_de_educacao_anexos.pdf da norma Lei Ordinária nº 353, de 17 de agosto de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Documentos diversos das escolas municipais",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2009/27/lei_no._353.2009_doa_terrenos_a_secretaria_municipal_de_educacao_anexos.pdf",
+      "ano": 2009,
+      "norma": 73
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/28/lei_no._351.2009_diretrizes_orcamentarias_ldo_2010_anexos.pdf da norma Lei Ordinária nº 351, de 07 de julho de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2010",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2009/28/lei_no._351.2009_diretrizes_orcamentarias_ldo_2010_anexos.pdf",
+      "ano": 2009,
+      "norma": 71
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/29/lei_no._344.2008_diretrizes_orcamentarias_ldo_2009_anexos.pdf da norma Lei Ordinária nº 344, de 04 de julho de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2009",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2008/29/lei_no._344.2008_diretrizes_orcamentarias_ldo_2009_anexos.pdf",
+      "ano": 2008,
+      "norma": 64
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/30/lei_no._337.2007_diretrizes_orcamentarias_ldo_2008_anexos.pdf da norma Lei Ordinária nº 337, de 06 de setembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2008",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2007/30/lei_no._337.2007_diretrizes_orcamentarias_ldo_2008_anexos.pdf",
+      "ano": 2007,
+      "norma": 208
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/31/lei_no._322.2006_diretrizes_orcamentarias_ldo_2007_anexos.pdf da norma Lei Ordinária nº 322, de 28 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2007",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2006/31/lei_no._322.2006_diretrizes_orcamentarias_ldo_2007_anexos.pdf",
+      "ano": 2006,
+      "norma": 194
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/32/lei_no._303.2004_plano_de_educacao_2004.2013_anexo.pdf da norma Lei Ordinária nº 303, de 14 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Educação 2004 - 2013",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2017/32/lei_no._303.2004_plano_de_educacao_2004.2013_anexo.pdf",
+      "ano": 2017,
+      "norma": 49
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/33/lei_no._294.2003_diretrizes_orcamentarias_ldo_2004_anexos.pdf da norma Lei Ordinária nº 294, de 04 de julho de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2004",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2003/33/lei_no._294.2003_diretrizes_orcamentarias_ldo_2004_anexos.pdf",
+      "ano": 2003,
+      "norma": 36
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/34/lei_no._290.2003_convenio_com_a_procuradoria_geral_de_justica_para_o_decm_termo_de_convenio.pdf da norma Lei Ordinária nº 290, de 19 de março de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Minuta do Termo de Convênio",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2003/34/lei_no._290.2003_convenio_com_a_procuradoria_geral_de_justica_para_o_decm_termo_de_convenio.pdf",
+      "ano": 2003,
+      "norma": 34
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/35/lei_no._286.2002_diretrizes_orcamentarias_ldo_2003_anexos.pdf da norma Lei Ordinária nº 286, de 21 de agosto de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2003",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2002/35/lei_no._286.2002_diretrizes_orcamentarias_ldo_2003_anexos.pdf",
+      "ano": 2002,
+      "norma": 32
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/36/lei_no._277.2001_diretrizes_orcamentarias_ldo_2001_anexo.pdf da norma Lei Ordinária nº 277, de 03 de julho de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2001",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2001/36/lei_no._277.2001_diretrizes_orcamentarias_ldo_2001_anexo.pdf",
+      "ano": 2001,
+      "norma": 26
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/37/lei_no._468.2016_doacao_de_terreno_a_paroquia_anexos.pdf da norma Lei Ordinária nº 464, de 11 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA 2014-2017",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2015/37/lei_no._468.2016_doacao_de_terreno_a_paroquia_anexos.pdf",
+      "ano": 2015,
+      "norma": 491
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/38/lei_no._445.2014_diretrizes_orcamentarias_ldo_2015_anexos.pdf da norma Lei Ordinária nº 445, de 18 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2015",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2014/38/lei_no._445.2014_diretrizes_orcamentarias_ldo_2015_anexos.pdf",
+      "ano": 2014,
+      "norma": 492
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/39/lei_no._557.2021_reformulacao_do_plano_plurianual_-_ppa_2022-2025_anexos.pdf da norma Lei Ordinária nº 557, de 14 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Anexos e tabelas do PPA 2022-2025",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2021/39/lei_no._557.2021_reformulacao_do_plano_plurianual_-_ppa_2022-2025_anexos.pdf",
+      "ano": 2021,
+      "norma": 567
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/40/lei_no._558.2021_lei_orcamentaria_anual_loa_2022_anexos.pdf da norma Lei Ordinária nº 558, de 14 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Anexos e Tabelas da LOA 2022",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2021/40/lei_no._558.2021_lei_orcamentaria_anual_loa_2022_anexos.pdf",
+      "ano": 2021,
+      "norma": 568
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/41/lei_no._565.2022_lei_de_diretrizes_orcamentarias_ldo_2023_anexos.pdf da norma Lei Ordinária nº 565, de 28 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Metas e Prioridades, Metas Fiscais",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2022/41/lei_no._565.2022_lei_de_diretrizes_orcamentarias_ldo_2023_anexos.pdf",
+      "ano": 2022,
+      "norma": 575
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/42/lei_no._572.2022_lei_orcamentaria_anual_loa_2023_anexos.pdf da norma Lei Ordinária nº 572, de 29 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2022/42/lei_no._572.2022_lei_orcamentaria_anual_loa_2023_anexos.pdf",
+      "ano": 2022,
+      "norma": 582
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/43/lei_no._573.2022_reformulacao_do_plano_plurianual_-_ppa_2022-2025_anexos.pdf da norma Lei Ordinária nº 573, de 29 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2022/43/lei_no._573.2022_reformulacao_do_plano_plurianual_-_ppa_2022-2025_anexos.pdf",
+      "ano": 2022,
+      "norma": 583
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/44/lei_no._579_plano_de_cargos_e_salarios_camara_municipal_anexo.pdf da norma Lei Complementar nº 579, de 07 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Atribuições do quadro de servidores Efetivos",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2023/44/lei_no._579_plano_de_cargos_e_salarios_camara_municipal_anexo.pdf",
+      "ano": 2023,
+      "norma": 587
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/45/lei_no._597.2023_lei_de_diretrizes_orcamentarias_ldo_2024_anexos.pdf da norma Lei Ordinária nº 597, de 03 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Anexos com Metas e Prioridades e Metas Fiscais",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2023/45/lei_no._597.2023_lei_de_diretrizes_orcamentarias_ldo_2024_anexos.pdf",
+      "ano": 2023,
+      "norma": 607
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/46/lei_no._608.2023_reformulacao_do_plano_plurianual_-_ppa_2022-2025_anexos.pdf da norma Lei Ordinária nº 608, de 28 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Tabelas anexas do PPA 2022-2025",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2023/46/lei_no._608.2023_reformulacao_do_plano_plurianual_-_ppa_2022-2025_anexos.pdf",
+      "ano": 2023,
+      "norma": 618
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/47/lei_no._609.2023_lei_orcamentaria_anual_loa_2024_anexos.pdf da norma Lei Ordinária nº 609, de 28 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Tabelas anexas da LOA 2024",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2023/47/lei_no._609.2023_lei_orcamentaria_anual_loa_2024_anexos.pdf",
+      "ano": 2023,
+      "norma": 620
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/48/lei_no._624.2024_lei_de_diretrizes_orcamentarias_ldo_2025_anexos.pdf da norma Lei Ordinária nº 624, de 11 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Tabelas anexas da Lei de Diretrizes Orçamentárias para o ano de 2025",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2024/48/lei_no._624.2024_lei_de_diretrizes_orcamentarias_ldo_2025_anexos.pdf",
+      "ano": 2024,
+      "norma": 635
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/49/lei_no._636._2025_lei_de_diretrizes_orcamentarias_ldo_2026_anexos.pdf da norma Lei Ordinária nº 636, de 26 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO 2026",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2025/49/lei_no._636._2025_lei_de_diretrizes_orcamentarias_ldo_2026_anexos.pdf",
+      "ano": 2025,
+      "norma": 655
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/lei_no._640.2025_lei_orcamentaria_anual_loa_2026_anexos.pdf da norma Lei Ordinária nº 640, de 19 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Tabelas integrantes da LOA 2026",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2025/50/lei_no._640.2025_lei_orcamentaria_anual_loa_2026_anexos.pdf",
+      "ano": 2025,
+      "norma": 668
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/lei_no._641.2025_plano_plurianual_-_ppa_2026-2029_anexos.pdf da norma Lei Ordinária nº 641, de 19 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Tabelas integrantes do PPA 2026-2029",
+      "anexo_arquivo": "http://sapl.guadalupe.pi.leg.br/media/sapl/public/anexonormajuridica/2025/51/lei_no._641.2025_plano_plurianual_-_ppa_2026-2029_anexos.pdf",
+      "ano": 2025,
+      "norma": 669
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/f3de01941e194341a9e5e806bc0fcb73143acbf4d4f52a87013e72e02c0f0d1f.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8a5ebc6aa18146f73e3dec7c10d7e877bdefa39eb0f12f338261ba723ca00ff0",
+      "bytes": 25260,
+      "capturado_em": "2026-10-28T12:41:47.547938-03:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.equador.rn.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.equador.rn.leg.br/f5a8f3eda5ab3452cc82791c81ccfa2933cb32f78fdc459f2dd25c77c3904e16.json",
+    "url": "https://sapl.equador.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.equador.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:28:12.358793-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.equador.rn.leg.br/c8ca900701b000bf153a63546c3bed9316c4ecd13c5a732d733b0fdab708dcae.json",
+    "url": "https://sapl.equador.rn.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.equador.rn.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2b4e04077dc6db3d656c38ae09084256bd6f815c1e9096c45914d10619ff448a",
+    "bytes": 762,
+    "capturado_em": "2026-10-28T10:28:11.459022-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.equador.rn.leg.br/3ba7aee32d524c75d53c0935dafb46e3d7fdb12aea5ca11c034dee2941d08d8b.json",
+      "url": "https://sapl.equador.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.equador.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T10:28:14.341315-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

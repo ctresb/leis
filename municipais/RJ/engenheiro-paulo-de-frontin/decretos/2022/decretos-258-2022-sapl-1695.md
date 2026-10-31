@@ -1,0 +1,97 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 258, de 17 de outubro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "258"
+data: "2022-10-17"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1695"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2021/text"
+sha256_fonte: "7cc91b93cf481001385a2ceab0c81c7c8c1d11ac353c9bb38a5ac0aeec6dfc1c"
+sha256_texto: "2476e7419d4faf53b276711b353c7b29b34a273070d88cc8b7d9c6cb01f2dfc9"
+capturado_em_fonte: "2026-10-28T10:44:57.748468-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 258, de 17 de outubro de 2022
+
+CONSIDERANDO a necessidade local para instalação do mercado municipal do produtor rural, da feira de artesanato, bem como da instalação de aparelhos públicos para fins de economicidade; CONSIDERANDO que o imóvel, localizado no centro do município está fechado há mais de 5 (cinco) anos; CONSIDERANDO que o imóvel é de propriedade privada.
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica declarado de UTILIDADE PÚBLICA, para fins de desapropriação por via amigável ou judicial, nos termos do Decreto Lei nº 3.365, de 21/06/1941, e alterações posteriores:
+
+
+I –
+
+Imóvel situado na Avenida João Batista Ferrini, nº 173, nesta cidade de Engenheiro Paulo de Frontin, RJ, formado pelos terrenos e pelas edificações que em seguida se discriminam, a saber: A) Terrenos: Lotes de terreno n°s. IX e X, configurados em planta levantada em agosto de 1938 pelo engenheiro Plinio Magalhães e aprovada pela Prefeitura Municipal de Vassouras, com uma área total de 469,m² (quatrocentos e sessenta e nova metros quadrados) e assim discriminados: Lote n° IX, com 293,00 metros quadrados e confrontando pela frente com o logradouro de sua localização (a Avenida João Batista Ferrini), numa extensão de 7,00 metros; pelos fundos, com Divino Silva, numa extensão de 8,40 metros; à direita, e alinhamento irregular, ainda com Divino Silva, e à esquerda, com o lote n° X e com Divino Silva ainda, numa extensão de 34,90 metros; LOTE N° X, com 176,00 metros quadrados e confrontando pela frente com a Avenida João Batista Ferrini, numa extensão de 8,80 metros; pelos fundos, com Divino Silva, numa extensão de 9,10 metros; à direita, com o lote n° IX, numa extensão de 22,00 metros, e à esquerda cm o Dr. Átila Lengrúber Portugal e com João Batista Seabra, também numa extensão de 22,00 metros; B) Edificações: prédios n°s. 27 e 29, e prédio em forma de galpão, com 319,85m², além de um depósito com 74,60 m². – PROPRIETÁRIO: Companhia Industrial Ferrini, sociedade por ações com sede nesta cidade, inscrita no CGC sob n° 32406308/0001-28, representada, no ato aquisitivo dos terrenos e dos prédios n°s. 27 e 29, pelo seu diretor comercial Jacy Lima da Silva e pelo seu diretor industrial, agora falecido, Nelson de Castro Salles, ambos brasileiros, casados, industriais, o primeiro domiciliado e residente no antigo Distrito Federal e domiciliado e residente o segundo, à época, nesta cidade, então vila e 6° distrito do município de Vassouras, deste Estado, bem como representada pelo diretor Aluisio Lima e Silva, no ato de legalização o galpão e do depósito.
+
+
+Art. 2º.
+
+A desapropriação do imóvel declarada de utilidade pública por este Decreto, é considerada de “urgência”, razão pela qual deverá efetivar-se mediante acordo administrativo, previsto no artigo 10 do Decreto lei nº 3.365/1941, ou processar-se nos termos do artigo 11 e seguintes, do Decreto Lei nº 3.365, de 21/06/1941 e Lei Federal nº 2.786, de 21/05/1956.
+
+
+Parágrafo único
+
+A desapropriação de que trata este Decreto se dará por utilidade pública, na forma do Decreto-Lei 3.365, de 21 de junho de 1941, especificamente em seu artigo 5º, sendo que as áreas mencionadas no artigo primeiro destinar-se-ão a instalação do mercado municipal do produtor rural e feira de artesanato, bem como da instalação de aparelhos públicos para fins de economicidade.
+
+
+Art. 3º.
+
+Ficam as autoridades administrativas autorizadas a penetrar nos prédios compreendidos na declaração, podendo recorrer, em caso de oposição, ao auxílio de força policial.
+
+
+Art. 4º.
+
+No caso de desapropriação amigável, a mesma ocorrerá nos seguintes termos:
+
+
+I –
+
+O Município de Engenheiro Paulo de Frontin, pagará aos proprietários a quantia equivalente ao valor de mercado do bem desapropriado obtido através da média de três avaliações de peritos.
+
+
+II –
+
+O pagamento da indenização decorrente da presente desapropriação poderá ocorrer de forma integral ou parcelada de acordo com os termos do acordo administrativo.
+
+
+III –
+
+O Município de Engenheiro Paulo de Frontin arcará com todos os custos de desmembramento da área, bem como de aditamentos necessários a viabilização da escritura, emolumentos, taxas e outros custos eventualmente existentes para a concretização do negócio e transferência de propriedade da área desapropriada;
+
+
+IV –
+
+Os proprietários da área desapropriada se comprometerão a transferir a propriedade das respectivas terras ao Município de Engenheiro Paulo de Frontin.
+
+
+Art. 5º.
+
+As despesas decorrentes da aplicação deste Decreto correrão por conta das seguintes dotações orçamentárias: 04.061.3.3.90.93.00.00.00.0.1.1.704.
+
+
+Art. 6º.
+
+O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, em 17 de outubro de 2022.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

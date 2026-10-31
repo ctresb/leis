@@ -1,0 +1,1058 @@
+{
+  "criterio": "Triagem de esfera oficial e cabeçalhos municipais nos corpos TA completos.",
+  "cadastro_ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "script_sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+  "emissores_script_sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+  "resultados": [
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2827-2026-sapl-5423.md",
+      "sha256": "6ccad2afc424781cfda87efea6e82c03124bdf4ee5bf9ccceb7bceb7c1554e0f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2826-2026-sapl-5422.md",
+      "sha256": "dacb6a6396b7e2141dbbe72c4bc8114bf25d35e0df3fce76003723f462c24aa4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10116-2013-sapl-3619.md",
+      "sha256": "eba562f3fc684fa389696af6f3eca941d35cced13ad312542e9e0b35c99cc278",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2825-2026-sapl-5427.md",
+      "sha256": "e880e03d7e1f0f341c7318075641da4308767712fb1c5078b5f08c99fb24c3e5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3284-2025-sapl-28262.md",
+      "sha256": "9518d04cc69fc8bc9d9bb2c4999d0fdd2831cdddbabdce9cae4a1321ca087559",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2824-2026-sapl-5426.md",
+      "sha256": "473dfe681e34d43eeef6a5bc44696909b0ea32a5e136a29175991d282c558901",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10107-2013-sapl-3608.md",
+      "sha256": "cea0fc09e8d8b91b13d6d9432a8d752c4e672ffde806a46d58d7f8ec7a0f7f76",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3283-2025-sapl-28261.md",
+      "sha256": "b1a277be91131a0ed72ac3f6227eadbdcd82481702dd62d383d52c85c85e7580",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2823-2026-sapl-5435.md",
+      "sha256": "9733cd67fb6461dfe08069f1c3c97c4d74391347333016dd65e00529c1797da4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3282-2025-sapl-28260.md",
+      "sha256": "06978cb7ea2b4bd330d13c2f3f79e9130adbd7132294248640bd4f18375d9936",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2811-2026-sapl-5415.md",
+      "sha256": "98e6c03624f81ce27d3d2c262f55398eb8276ffafa1b3103f4269905040269d2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10076-2013-sapl-3305.md",
+      "sha256": "f186fc11fe0d90fb02201ec5957a25b34c8248edf57ab71fedd2411f3bb08e0c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3281-2025-sapl-28257.md",
+      "sha256": "16fe2b8c9d1f5286444bbd6af39cb9b5f3c59e4dab719487bf07f53f238d2e6c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2815-2026-sapl-5414.md",
+      "sha256": "3cc1cb614190278444f819eca96c3bcad190cf4d0283c4ab2468107df7b58381",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2813-2026-sapl-5413.md",
+      "sha256": "a8f35e380aed7650279fe0489c10b79633e7c18995b665a89bb07dfc08039d56",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2812-2026-sapl-5412.md",
+      "sha256": "bbb0bf3d124f10fb34d5915fc270d2ff93db250cea894acceb22854ccb0152af",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2810-2026-sapl-5350.md",
+      "sha256": "757b6d66e998eb9f1ee91709d713f1778b2b0aa819b57e6a40079d968a06999c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10024-2013-sapl-1238.md",
+      "sha256": "97ceb53cbbf032e36bfbc94f31b738b97ff9591b310f712035a34fff4c066cb1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2809-2026-sapl-5349.md",
+      "sha256": "648edfe2966b103a8a289f537a1f5d55ea3ed97bbb2f6da4df00f99b5885c448",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10012-2013-sapl-1225.md",
+      "sha256": "10abce1b90aa74c727bfbd4826eadd704e4888b1667f8db26925ec2a57c4414c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2807-2026-sapl-5347.md",
+      "sha256": "988e62353395af12c062db1a499431c97846a4d1032f6c408c7681bb61818dc9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10005-2013-sapl-705.md",
+      "sha256": "59fc14163470b4bc90c9053f0202f369c9c4e19f7edf8b52611030794b704d52",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2806-2026-sapl-5346.md",
+      "sha256": "372c78994fda6b1f4730e1340c7ee7fd49fe45675ba0b61320eca865883a2539",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2805-2026-sapl-5345.md",
+      "sha256": "817a9f2aa1e0830496d75c968a0ae044db649e850076d166f051cb6f7c9508c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2804-2026-sapl-5344.md",
+      "sha256": "9f353ae175fb4deffadb7f00193e7f85cb14edc185943b8b2815a78b61376b7f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2803-2026-sapl-5343.md",
+      "sha256": "f028c36e0a1a070fc95050e342e1ab494d309a01c0acb48b97dee0622be61690",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2802-2026-sapl-5342.md",
+      "sha256": "e570dc0fa54fae6dc8cec00b7e51c47542df9528e0d12aafec22af8198af8f1b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2013/leis-ordinarias-10001-2013-sapl-666.md",
+      "sha256": "41c2cd9859e67540daca1f0d71468d4e918a04550fc69f391ceaf0ca10d3bb5d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2801-2026-sapl-5341.md",
+      "sha256": "e882b36a87b665c54178970e6bf033cf86b2554602a6eaa7ed1d7f67d06d8136",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2800-2026-sapl-5340.md",
+      "sha256": "0178edfc911a6ab166daacf2c768631eedc01f36e89f181924e39521e6bd53db",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2799-2026-sapl-5339.md",
+      "sha256": "73830e4164ad4734f389beb8c9dfcedaddb21274c2666151a9de7cfc3c1aa96a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2796-2026-sapl-5338.md",
+      "sha256": "09c4d645da5ee97b73e816ea4171a7c7716c83a34ec2793aeb4199ccc25082d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2795-2026-sapl-5334.md",
+      "sha256": "b4b7b27337d0d520e3eb4ceaf1b2ed37cf1e88f76e1c262d0cb1fc9b28df11c1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2794-2026-sapl-5337.md",
+      "sha256": "ef6735765c78aefcfb749744ed394e8aaf73086f1b49b272629061328d87adc2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2793-2026-sapl-5336.md",
+      "sha256": "3c8283651bf3bd4f5b5abd640079d6feabc30b9cc0938c93c9f980abe28ecd84",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2026/leis-ordinarias-2791-2026-sapl-5335.md",
+      "sha256": "1b30002ad7294bea7fdd09ee68cb7c676305a823b81522ac3921b5af7a9f5df3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2786-2025-sapl-5326.md",
+      "sha256": "65439af3bc208e10b14aa775436eceff84c8bc4792b927acf842fd5daae5bba0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2785-2025-sapl-5314.md",
+      "sha256": "c22871e08334cf24b20462bc50389c7e5f3496f60c938e9843bc908bb0986ab2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2784-2025-sapl-5313.md",
+      "sha256": "9c34b286fb6320b86839a1f4cde9c04497784019a37c44768bf73c5821f3337d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2783-2025-sapl-5325.md",
+      "sha256": "59ef40fe3332b97434f9fd845518450c551e9d13b03f2f5e9c5be2cc521c78ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2025/leis-ordinarias-2781-2025-sapl-5323.md",
+      "sha256": "a8026e76b5dcfce2b2bd85b345c84a79e16443668308beb8830f3d5d1ee3e2b5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21221-2025-sapl-28124.md",
+      "sha256": "f18de945415b7e9f3eeffa6ff7925f27c75cd98c64b0e6d89ed1a322cbf2fd3e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2023/leis-ordinarias-2487-2023-sapl-4077.md",
+      "sha256": "faceb3f2363812ae7696fa8d93a5dad64a58a3329c648838d8987f195b8cdd7e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21220-2025-sapl-28123.md",
+      "sha256": "91ac7d23e2aa8313646c62d4b7723dea3c2b9e6b18d0afe73328eb8c48c7bb75",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21212-2025-sapl-28105.md",
+      "sha256": "901b02dd54d15d15ff01e4bd219c88fb59f77a2db8e3a9138b9a6b0f129d1b58",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21205-2025-sapl-28095.md",
+      "sha256": "03c47b36402ab791e51772e446be660e9a857b6ac06da9c32d16e033d74b1797",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21204-2025-sapl-28093.md",
+      "sha256": "29fda75dfb604920c335d2c11c40058bdf7b793e948dae54cac11f6303ea9355",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21200-2025-sapl-28082.md",
+      "sha256": "c11a3342daba9664b628702cbafe6057e4f57c809e2acb9b573a40eb90a2dfca",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21197-2025-sapl-28085.md",
+      "sha256": "ac66ea4e9858f15ba608d6d1f70a04952f0c05a4a8f41d57f3c058e19b27d58c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21195-2025-sapl-28099.md",
+      "sha256": "97ebc426c02280f9d901b1d7590a472dd235067ada9a92c10a5301eedbbc109e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2009/leis-ordinarias-1219-2009-sapl-2561.md",
+      "sha256": "58342b95f5f97ff8749b93427874c11216e8bd35c637824ce7202a9b13cf2477",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3279-2025-sapl-28256.md",
+      "sha256": "1f70d4e7caa57c913b7eea16caebf5d4ac8dd6bc367d6c4999174dca23719ddc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/resolucoes/2009/resolucoes-132-2009-sapl-2594.md",
+      "sha256": "0b5e905fe081ca3bb6d10494a8f2a16670cc952bfb475b46b546de4150d8d210",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2008/leis-ordinarias-1044-2008-sapl-2292.md",
+      "sha256": "f849414c6ee631c9f956ab16e256c8bdd6ee81d23245701fc3ae611b344cc6a6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21185-2025-sapl-28078.md",
+      "sha256": "d5111575a748e4a81e3a69a861ce01091f05023d0b6d640ffc3567d221d33086",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-928-2006-sapl-2126.md",
+      "sha256": "79091addac1b4028c3c846d44692feeb82d6989990b18cefcfccaa60b7c9bc2b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3278-2025-sapl-28255.md",
+      "sha256": "8996d751692f7bdae5406b1b71c26f5cc5244790cfe62484468c697bff820543",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/resolucoes/2006/resolucoes-123-2006-sapl-2724.md",
+      "sha256": "6f0e36ca04a5e6cfc126379c5268c72192b10dc938d0d552de100054a2740858",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3277-2025-sapl-28254.md",
+      "sha256": "c3775126e8316ed620b70697a6cc8228104fbe03157f70cda2abbe8c17dc2cdf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-922-2006-sapl-2095.md",
+      "sha256": "c9fbbe081a50335d1bec4f999089230d70eba33dd5aa5bcdc003ff34fccb4af4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3276-2025-sapl-28253.md",
+      "sha256": "81827127c0a1faa4c516f9eb1c3b80780a10ad6a1442367be5da94503b29a2d8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-921-2006-sapl-2094.md",
+      "sha256": "f9af651bdeb38437344703d5a4f80b77df7e65e549259bbf5a8bee243b6fa503",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3275-2025-sapl-28252.md",
+      "sha256": "d0e5587cfbf4437a0000061a113959e033fedbb0ee6d906dc35cb723488c4ca1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-911-2006-sapl-2078.md",
+      "sha256": "5e242a27506c7599fe915fc09aced74030c8a4ae8b1c693fcb8c3e063a29aaab",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3274-2025-sapl-28251.md",
+      "sha256": "7822db9ca5c4a00738b1377c20a7ec10a432829ba3b44996be4d0673d2a37c2d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-910-2006-sapl-2077.md",
+      "sha256": "d91434e146abe0221e91f6f936fccffc86b5cd159e1a3425cde67aafee85ec0f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-899-2006-sapl-2067.md",
+      "sha256": "28eaa3634924f381c981ac010e50db691323fa9224e83eed76fc812eed22282b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-894-2006-sapl-2055.md",
+      "sha256": "f944114890863dfba38b64f3de9b362ff96e3cdb654e87db7c60fc1270583f71",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-893-2006-sapl-2053.md",
+      "sha256": "003fc6dec3f200174a1f1aae4b0dc09c6b47d3fde3549184830af87f3856286f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-889-2006-sapl-2048.md",
+      "sha256": "14d929a82321ff6af6c1c9be9dc323a75953158d1a0bd38737bc3132aba8b301",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-887-2006-sapl-2046.md",
+      "sha256": "b87a3c2df6cb0cac10ac71f89bf2760c215a9603a968d09b8d4050944ff06ec0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-886-2006-sapl-2045.md",
+      "sha256": "9cb6b37ca39546f14225d68c020a32565633a1656333f8a7bf4ff352f55e2a05",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-865-2006-sapl-2010.md",
+      "sha256": "7bbf45542138a31127e012f54d67609c99d3db5a9719deac01fdf730ff43f81f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3273-2025-sapl-28250.md",
+      "sha256": "2e08e40b5bc1789cb6cef0d6b5912c99692577f087b2a25253c3cce7c25f3540",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-863-2006-sapl-2008.md",
+      "sha256": "bed36cf9aa3b536610cda7a61623e6ca76af5ca90b5229eae9361732498b3448",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3272-2025-sapl-28249.md",
+      "sha256": "f393520cdc26b7ca51a2e69f8f2dea34a5c6218b2801520ca5fbd49da9e7a07e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-860-2006-sapl-2005.md",
+      "sha256": "6fa1c25a6be0473fcab4d757f84aabbe7935facd48f2cf18a178f78888b3fca5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-858-2006-sapl-2003.md",
+      "sha256": "3b783903abedf7f4dd47cffd27bdaab63c6205e1bb44323b3e1a2fc41f752a75",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-856-2006-sapl-2001.md",
+      "sha256": "a59ffe063e1eae21b286914d8c066c33fc8c7ef373a341344d204a5068a57a05",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-855-2006-sapl-1996.md",
+      "sha256": "1f1ed069f94ad4b3d4b42683a7076c0bab2c594e0e6dae5b091dcdb7f1187262",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-854-2006-sapl-1994.md",
+      "sha256": "2c3a46e799b1a1952585324be1107ae3b7caa131ab547487fdbef86cffb59f68",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2006/leis-ordinarias-850-2006-sapl-1954.md",
+      "sha256": "7f69be278d7daa878a1647f9ddec61db4b98760efa7b4c4bfba8eae3f4a2104d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-832-2005-sapl-1936.md",
+      "sha256": "83b4c62e882df27ae110ef6268ec2f6393a7e12d6b9adfa46594a37f4ce3e779",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-830-2005-sapl-1934.md",
+      "sha256": "39a516d047678c40f9b344c91d8c172ffe81dac340bb3c9c66b46841548fe781",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-827-2005-sapl-1931.md",
+      "sha256": "a29818799921b54b3dadb2726d526c396394f2f658dab65e87800e648326e84d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-826-2005-sapl-1930.md",
+      "sha256": "11f94addee197ac9897d3adfe08872c937afde42a02f4b0ea5f87fec03361a82",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21162-2025-sapl-28049.md",
+      "sha256": "357f2ff94bcc350f6087cd92b29269e0f950e9e0886b4420b1160210f9f24023",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-824-2005-sapl-1928.md",
+      "sha256": "7665534cc62e852eb1e50ad72312799bc948fbae92f13322196f6f68d1a9129a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-823-2005-sapl-1927.md",
+      "sha256": "160387bf9ea7ab998feabe5b621763b752e6b746e0be670ac6e9d3dc46f5d087",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21160-2025-sapl-28044.md",
+      "sha256": "dee7e3c416d0ecfaf9a6c924118a86a3da47b97810b7b8faa05500d90af4d300",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-819-2005-sapl-1923.md",
+      "sha256": "8bc8dd0b1628eab331cb01875a850d76397289149d583f24563172d6543955c5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-825-2005-sapl-1929.md",
+      "sha256": "ba4ede740931a66d5456fd40502caee7a92ae88359d2a2bfe85031cf3d193325",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-811-2005-sapl-1904.md",
+      "sha256": "a8a29c057fc1c0570c69f2d9996c4c194edfcb5c19288f17c87d3d57cdc3435d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-805-2005-sapl-1894.md",
+      "sha256": "1c7771d590fecccee0d2f756317d887701f0aaff7324001629c414e5999d67d3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21159-2025-sapl-28043.md",
+      "sha256": "7f3f5f0ce9012fba1221926be1044c10286775ac5402915b3cbed33a0749f052",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-804-2005-sapl-1893.md",
+      "sha256": "11aa7bd265fe0e409595417e1b87c22c564ec950f726ae13bafd4dc1b8c64b3f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-803-2005-sapl-1889.md",
+      "sha256": "21e2b0246af36b151161ac8a5848a72e0b44283633ecdc48fbf379f6da4d07a3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-794-2005-sapl-1878.md",
+      "sha256": "779d215de040222eaf674671ada8d81546d8e4b3fe04bbda58f52efa187e8a49",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-783-2005-sapl-1864.md",
+      "sha256": "6015ec5420c1e197ad00a036fb52d94b919153b013a4411b884882a4df4061c3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2005/leis-ordinarias-778-2005-sapl-1858.md",
+      "sha256": "120c2f4969da9165e7d4668ab9437e3c7fb9ccc32a882f1145f5ed53c16c9b50",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3270-2025-sapl-28008.md",
+      "sha256": "b7c340ed53bd1e81ed76e0e0627dfeb2c94dbaf302fea10a067e8ca575524bd6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3269-2025-sapl-28007.md",
+      "sha256": "37b8826a522fd028200936e8df61c726a850370015d03fc602b426b506e130fd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-767-2004-sapl-1821.md",
+      "sha256": "ed91db3398b61f77811431a6960b62e9aec0a6563f6658c837e58bb69924fbaf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3268-2025-sapl-28006.md",
+      "sha256": "0da0790448053c4e2a13a822b02f4a5458f91fed83469a6f97520a7955db15cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3267-2025-sapl-28005.md",
+      "sha256": "f721a1fe4e5654928aed8ea48a0a7ed60587f392a8c1280379a90cfc053fb63a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-755-2004-sapl-1805.md",
+      "sha256": "a3d8b1c94e5fb79962e634fdf3c091a640b415a9867d9f5b487d46b2a96b3ee6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-741-2004-sapl-1782.md",
+      "sha256": "6c9df763b8a4ea2b603e0dde0fad19798c0104dc294bb6d6c0ec40631ac3f6a1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-739-2004-sapl-1780.md",
+      "sha256": "a38acd77296abc4ad6c4a38ea3fdc10bf6f93d8142bb1142214f5a8482d05703",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-730-2004-sapl-1771.md",
+      "sha256": "00b4b37688e8189aad3acfa5d004ba79ca9f426f8f2b01580bcdb9bfb460b67a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-736-2004-sapl-1777.md",
+      "sha256": "ca0b02eff84e1ebd931f55a385bf67fd22aeb5051eec915ada5fa5ca2282eff5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-734-2004-sapl-1775.md",
+      "sha256": "ca6cb31584385ffa29fb8849bd9fc21e998c317b37b5e3f225ac004c5d3c311b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-733-2004-sapl-1774.md",
+      "sha256": "9758097e34e0a95fdf80cb9085d0e90fd5bb25278cbeb8bdf0fe99ad1179004d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2004/leis-ordinarias-731-2004-sapl-1772.md",
+      "sha256": "d3e5b207323486cbcc8a729fef0259a964cf7d12be636cc2e9ba76101f5bbc2d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2003/leis-ordinarias-728-2003-sapl-1769.md",
+      "sha256": "ee6cfe421d7c60c2da8cfca896db6eeb5e7a7a4e41574a89d5a888dba1756c94",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2003/leis-ordinarias-727-2003-sapl-1768.md",
+      "sha256": "bcec1adc341ac02b54c9ecfea87cf8602490e3e3957dad7e8978057cf2f0aa00",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2003/leis-ordinarias-709-2003-sapl-1750.md",
+      "sha256": "1c30f77205b7aece4412f227eda0bf03d3ede26308777c1f18a381c8c0aef838",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-658-2002-sapl-1700.md",
+      "sha256": "712b066d395800708daa7fc76f78b59ad80b8b7e2933e895be157d8925e8b9c2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21120-2025-sapl-27997.md",
+      "sha256": "c0849d649e350ede6f8393d806f11c75ef064282e08c1a10644eb531fc4587a6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-655-2002-sapl-1697.md",
+      "sha256": "967bfad8c71a530efbf843dffa2e8f67969c4ed995467e1fd04c94fa31fa2d00",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21117-2025-sapl-27994.md",
+      "sha256": "aaa9506874634dcf38fbf58c1e76e655a3b2c79389480db455a384fe591dd8ed",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-647-2002-sapl-1689.md",
+      "sha256": "7bac2d7769ad36eed5ae9b7d03a0071dd2c42d7fd226d1a5ce97dcb0f6baa701",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21104-2025-sapl-27976.md",
+      "sha256": "f313821d61a1fa321f8de3a030c1e6f210785ab5ac4b0a04719c789262c78813",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21103-2025-sapl-27975.md",
+      "sha256": "7d81b497ce70a2cc00507df26f4a09d4c86a87ee2d41e822f16fea2ead8c68ea",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-633-2002-sapl-1675.md",
+      "sha256": "3ec749dcb0b980c6c0060001d3d974656de09ed56f0df4b2c75538e47a30bb37",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-629-2002-sapl-1668.md",
+      "sha256": "2e6d30c302c82d282df2e052323f8bc7f169aef1ac877119a3822d16be5da3ff",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2025/leis-complementares-1021-2025-sapl-28116.md",
+      "sha256": "b748b6a9fe4dc04aa6a01d47c2f89155547ac1e54f9c0d739a9ccc48ccce8c04",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2025/leis-complementares-1020-2025-sapl-28115.md",
+      "sha256": "e6d585224522007610f522f9f34fe86baac827f9fab39c5fa80c6610f1a4e1cd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2002/leis-ordinarias-610-2002-sapl-1647.md",
+      "sha256": "f477ba83a6cd2e43d14bf2d08d5336b9afecda5db99c0c57baa4bca8674983d0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2001/leis-ordinarias-600-2001-sapl-1637.md",
+      "sha256": "79e370a5392171850673668e5274247eb4ba17a29acbcc293a034d8ce8ccf4a6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21074-2025-sapl-28011.md",
+      "sha256": "a65a31cd06af242514cd9c0d367d8701aa16554a0be1ddb6638c9f65da2b2066",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2001/leis-ordinarias-599-2001-sapl-1636.md",
+      "sha256": "8e10d9f5a5c186e86f15d0f823c05fac2be6b4691770ebc476d22bc92cedde93",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3265-2025-sapl-27880.md",
+      "sha256": "e95d77191c1987bb67c774a07d790b0599d20ba4d5a94ba4abf17233383191eb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3264-2025-sapl-27879.md",
+      "sha256": "ffa21ce3b9ea69985a5bc219afc183a94c0eec64cf534a6d5c19007c557e4adf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-542-2000-sapl-1578.md",
+      "sha256": "59c5f77f82cd554453c4deab9ba5e390bc0de1ce7719a47e411140d0676d9af0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21053-2025-sapl-27924.md",
+      "sha256": "2ec24bac08afb43619cd25ec08a58e1867916b91eb26c45e4e8233f0f2b09aad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-537-2000-sapl-1573.md",
+      "sha256": "e8da41f876914ed6cd89f236bf34645923fbfd4d80706e97ab5cde3abf5c7517",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21052-2025-sapl-27923.md",
+      "sha256": "1f7b8b068506cffcb9209e220ec8368f158ef3f1a7e449777c8d8fa4f5d3b726",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-536-2000-sapl-1572.md",
+      "sha256": "a6ac1bcb6a5ff3acec6240f0481c5601fcd93293f97507eded68d80c459ee0a1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21051-2025-sapl-27918.md",
+      "sha256": "36935628778dcde366a771857dab97fe658c6823acc318407233dc35b177e1d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-535-2000-sapl-1571.md",
+      "sha256": "6f0d72d82487195393b1411fb0318ff875d852b232dcc8233291cd3d9749ee43",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-534-2000-sapl-1570.md",
+      "sha256": "ed9a38e8eace4007ad837b747b6bb6b53757ff06d710b6d24613eb86136cb051",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21049-2025-sapl-27916.md",
+      "sha256": "45e2ee938b902cec0ed72b5b734cdab1dbe8ee04d7348fd31b010b8e00bd244f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21048-2025-sapl-27915.md",
+      "sha256": "a8b7a3f694c0596102536eb66935f37d339fdb28683b236c3c5cec73944c0aad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21047-2025-sapl-27914.md",
+      "sha256": "1119d34ada530bcb35542f09ae0a651796e76fe2387237081276d0a6364c9143",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21046-2025-sapl-27913.md",
+      "sha256": "07d93e5b4f2d89d015e96e6dc2c4dae141a010e584dc4d075d44ea6e2a1b77f0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-530-2000-sapl-1566.md",
+      "sha256": "f92426572109b1c21ece65bb0a2dcb80ef016f14cfe12493a4c82d7869dfd467",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-521-2000-sapl-1557.md",
+      "sha256": "4454eb9eeab6292c8b64aa47dcfa9081edc1dbc232f068b5a572be38cc25962e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-519-2000-sapl-1555.md",
+      "sha256": "d7788245d32e32b8724d331f48f514beb36d5e9a8bddee59408d7dc7fb8f48f0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21041-2025-sapl-27908.md",
+      "sha256": "4550afb1035e60cb1e8e1c410e6ed7d669abf1a568639164f3020f6f5b8af11a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-518-2000-sapl-1554.md",
+      "sha256": "32fedcfaaff167fc2a4a27c0553e882b8ae6294cd2aa3a2b97019c27f775ff15",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-517-2000-sapl-1553.md",
+      "sha256": "8c12862a2d6991b6afb3a164939e2982878b00a6beebf630405dbacb8bfef0dc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-515-2000-sapl-1551.md",
+      "sha256": "01460b53dd308fed39003d2388be475e050c6bcfc838f1d303e7270f461ddc83",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-514-2000-sapl-1550.md",
+      "sha256": "f851a21d5ee74ac2fb199721e57b9dad7d971e7fdaf87c0d9b43d12f293176ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-512-2000-sapl-1548.md",
+      "sha256": "181d168cebd69cc98bb3219b156bbd6cad7c83a24b9892cb6f7e45d3a07cdeb4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3263-2025-sapl-27866.md",
+      "sha256": "ac83420901f7b9e1f88f69c9a5fa0528ffaf44c1bbd3149d7ea1f9b627841fd0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-511-2000-sapl-1547.md",
+      "sha256": "4ffc694020a8371c933ee5166abdbfc10ab47e839924d247f70ffc3da2201533",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-507-2000-sapl-1512.md",
+      "sha256": "9239471109e1b989db79120c88d26af37f7bde1e5fd901945fa910204645f406",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-510-2000-sapl-1515.md",
+      "sha256": "83134c351008087e74c173bd51de3fd9b962d8df0df139885a1d35372a2d017a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-508-2000-sapl-1513.md",
+      "sha256": "a60e0769170744de335b2a92c324e7e3075c6e099a1585a6fbaff56fecb71b0a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/2000/leis-ordinarias-509-2000-sapl-1514.md",
+      "sha256": "3846530618f09f14924fd831e3b8faffdb62256764b1e32d84be055412bdf544",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21026-2025-sapl-27892.md",
+      "sha256": "a69051e8a75e61d6cb257c389a951fb1e9de59ed4aa581a1564ccec2c726394f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21022-2025-sapl-27862.md",
+      "sha256": "162bb62db3eaecd540489577fdeada33901a0216ce5929d63f20bad91d2782dd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-500-1999-sapl-1505.md",
+      "sha256": "e1d23a1de10551c89e4057313b6ca106585d8ec439d575d3deb967301cea437a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21016-2025-sapl-27834.md",
+      "sha256": "738673066200b522e795c41dd40b38602d52ba66ed7a0018a4b4c78ed46af330",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2025/decretos-21015-2025-sapl-27833.md",
+      "sha256": "2928a68d9b39b60336c05ed6fdbcec4e72a343130f21e59ec1bb90ec1daabd39",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3260-2025-sapl-27809.md",
+      "sha256": "da5e532313960f88b2a5705b0d37874ba2fd11b2ec5e1ac66b0cd4bea045b0af",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-479-1999-sapl-1476.md",
+      "sha256": "d7d419bd5a223314c0485fbb7182ef0993dc3229f07074cbf84ce76586d6593c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3259-2025-sapl-27810.md",
+      "sha256": "596d5693e7dc4466c5ff1018b40e4a236420588a5777190096fa982c3cc53bb3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-478-1999-sapl-1474.md",
+      "sha256": "7d576d7aaba6b0c5d4d3fd1e9f7767d19adf07e7fe359fd02ab65c39e644d360",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3258-2025-sapl-27811.md",
+      "sha256": "44f9eedf744f0a04c5538c35491b11b845f65038f11a7618ec8620e646fb6e77",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-476-1999-sapl-1471.md",
+      "sha256": "164659bca7d34fbfa67891c6b0c406e70690e2ac762ca117cd95a6306752ed38",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2025/leis-ordinarias-3257-2025-sapl-27812.md",
+      "sha256": "ce215f9be46b83bbb1064272f7f44f2853e60e4357cdd7c319577129462c6816",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-475-1999-sapl-1470.md",
+      "sha256": "cbccdfc5c7ebb8b983986f2f3d16e5d88b6a85199d8cb67e664b440c0f384cb7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/resolucoes/1999/resolucoes-94-1999-sapl-2777.md",
+      "sha256": "2cbd26592bf68512bff17eb8f144f7f20e5ac578bea056506cf25a63447f2c7c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RR/boa-vista/leis-ordinarias/1999/leis-ordinarias-474-1999-sapl-1469.md",
+      "sha256": "c0784858021b27d13ce148e937c8947fcbf8855e5b29517b56c643d3867d0c91",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    }
+  ]
+}

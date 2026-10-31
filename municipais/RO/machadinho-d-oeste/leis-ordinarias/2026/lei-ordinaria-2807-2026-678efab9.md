@@ -1,0 +1,93 @@
+---
+titulo: "LEI MUNICIPAL Nº2807, DE 10 DE FEVEREIRO DE 2026."
+uf: "RO"
+municipio: "MACHADINHO D'OESTE"
+tipo: "Lei Ordinária"
+numero: "2807"
+data: 2026-02-10
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/02/2026"
+data_publicacao: 2026-02-12
+codigo_identificador: "678EFAB9"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116001_2026-02-11_1a1ea466bfbc747343c975567f972240.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº2807, DE 10 DE FEVEREIRO DE 2026.
+
+LEI MUNICIPAL Nº2807, DE 10 DE FEVEREIRO DE 2026.
+PLANILHA FINANCEIRA POR TENDÊNCIA DE ARRECADAÇÃO ANEXO I - CONV. Nº 628/2025/PGE/SEDUC AQUISIÇÃO MATERIAL PERMANENTE - CENTRO ACOLHER
+RECEITA:
+Iduso: 6017
+Grupo/Código: 1.571
+Detalhamento: 3220
+Código de aplicação: 004.092
+Agencia
+Conta Bancária
+Descrição da Conta
+VALOR (R$)
+CONV. Nº 628/2025/PGE/SEDUC -AQUISIÇÃO DE MATERIAL PERMANENTE2265-9
+30718-1
+400.000,00
+CENTRO ACOLHER
+SALDO
+400.000,00
+RESTOS
+A
+PAGAR
+NÃO
+0,00
+PROCESSADOS
+TOTAL GERAL
+400.000,00
+TENDENCIA DE ARRECADAÇÃO A SER INSERIDO AO ORÇAMENTO DO EXERCÍCIO FINANCEIRO DE 2026, ATRAVÉS DO CONV. Nº 628/2025/PGE/SEDUC AQUISIÇÃO MATERIAL PERMANENTE CENTRO ACOLHER, FIRMADO ENTRE O ESTADO E PREFEITURA MUNICIPAL TENDO COMO CONTRA PARTIDA O VALOR DE R$ 59.054,04 ( CINQUENTA E NOVE MIL CINQUENTA E QUATRO
+REAIS E QUATRO CENTAVOS) TOTALIZANDO O VALOR DO CONVÊNIO EM R$ 459.054,04( QUATROCENTOS E CINQUENTA E NOVE MIL CINQUENTA E QUATRO REAIS E QUATRO CENTAVOS).
+DESPESA:
+Iduso:6017
+Grupo/Código: 1.571
+Detalhamento: 3220
+Código de aplicação: 004.092
+FICHA
+DESCRIÇÃO
+PROJ/ATIV.
+ELEM. DESPESA
+VALOR
+648
+EQUIP.MAT.PERMANENTE
+12.367.0004.2048.0003
+44.90.52.00
+400.000,00
+SUB TOTAL
+400.000,00
+DESPESA:
+Iduso:25
+Grupo/Código: 1
+Detalhamento: 500
+Código de aplicação: 004.092
+FICHA
+DESCRIÇÃO
+PROJ/ATIV.
+ELEM. DESPESA
+VALOR
+649
+EQUIP.MAT.PERMANENTE
+12.367.0004.2048.0003
+44.90.52.00
+59.054,04
+SUB TOTAL
+59.054,04
+TOTAL GERAL
+459.054,04
+Machadinho D'Oeste,10de fevereiro de 2.026.
+
+PAULO HENRIQUE DOS SANTOS
+Prefeito Municipal
+Av. Rio de Janeiro, 3098 - Centro - Machadinho D´Oeste/RO CEP: 76.868-000
+Contato: (69) 3581-3723 - Site: www.machadinho.ro.gov.br- CNPJ: 22.855.142/0001-73
+Documento assinado eletronicamente (ICP-BR) porPAULO HENRIQUE DOS SANTOS,PREFEITO MUNICIPAL, em 10/02/2026 às 12:19,
+horário de Machadinho D'Oeste/RO, com fulcro no art. 18 do Decreto nº 3.431 de 06/03/2020.
+A autenticidade deste documento pode ser conferida no sitetransparencia.machadinho.ro.gov.br, informando o ID912411e o código
+verificadorACFACCD9.
+Publicado por:
+Lara Sara Avaroma Campos

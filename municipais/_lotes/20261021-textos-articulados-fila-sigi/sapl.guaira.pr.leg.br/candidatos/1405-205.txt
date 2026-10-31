@@ -1,0 +1,44 @@
+Altera a LOA 2025 (Lei Municipal 2.375 de 09/12/2024) e ajusta as programações estabelecidas no PPA - Plano Plurianual - 2022 a 2025 (Lei Municipal 2.202 de 09/12/2021) e LDO - Lei de Diretrizes Orçamentárias (Lei Municipal 2.373 de 08/11/2024), para a criação de dotação por EXCESSO DE ARRECADAÇÃO para abertura de Crédito Adicional Suplementar no valor de R$ 246.000,00 (duzentos e quarenta e seis mil reais).
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aberto no Orçamento Fiscal de 2025 - LOA (2.375 de 09/12/2024) Crédito Adicional Suplementar por EXCESSO DE ARRECADAÇÃO no valor R$ 246.000,00 (duzentos e quarenta e seis mil reais) mediante a inclusão de nova natureza de despesa conforme discriminado abaixo:
+
+<table><tbody><tr><td>Órgão</td><td>07</td><td colspan="3">Secretaria Municipal de Fazenda</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Diretoria de Gestão Orçamentaria e Financeira</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0123</td><td colspan="3">Administração Financeira</td></tr><tr><td>Programa</td><td>0020</td><td colspan="3">SISTEMA MUNICIPAL DE ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td>Projeto/Atividade</td><td>2031</td><td colspan="3">Manutenção das Atividades do Setor de Tesouraria</td></tr><tr><td>Fonte</td><td>555</td><td colspan="3">SETU - Convênio nº 28/2025 - Realização da 46ª Festa das Nações</td></tr><tr><td colspan="3">3339093000000000000 - Indenizações e restituições</td><td>R$</td><td>1.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>13</td><td colspan="3">Secretaria Municipal de Turismo, Esporte e Cultura</td></tr><tr><td>Unidade</td><td>002</td><td colspan="3">Diretoria de Atividades Turísticas</td></tr><tr><td>Função</td><td>0023</td><td colspan="3">Comércio e Serviços</td></tr><tr><td>Subfunção</td><td>0695</td><td colspan="3">Turismo</td></tr><tr><td>Programa</td><td>0054</td><td colspan="3">SISTEMA MUNICIPAL DE INCENTIVO AO TURISMO</td></tr><tr><td>Projeto/Atividade</td><td>2087</td><td colspan="3">Manutenção das Atividades do Depto de Atividades Turísticas</td></tr><tr><td>Fonte</td><td>555</td><td colspan="3">SETU - Convênio nº 28/2025 - Realização da 46ª Festa das Nações</td></tr><tr><td colspan="3">3339039000000000000 - Outros serviços terceiros pessoa jurídica</td><td>R$</td><td>245.000,00</td></tr><tr><td colspan="3">TOTAL</td><td>R$</td><td>246.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Em decorrência da suplementação por EXCESSO DE ARRECADAÇÃO para abertura do Crédito Adicional Suplementar no valor de R$ 246.000,00 (duzentos e quarenta e seis mil reais) as despesas e parte das metas físicas programadas para o exercício de 2025 nas ações orçamentárias estabelecida no PPA - Plano Plurianual - 2022 a 2025 (Lei Municipal 2.202 de 09/12/2021), ficam reprogramadas na forma descrita nos Órgãos e Unidades abaixo:
+
+<table><tbody><tr><td>Órgão</td><td>07</td><td colspan="3">Secretaria Municipal de Fazenda</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Diretoria de Gestão Orçamentaria e Financeira</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0123</td><td colspan="3">Administração Financeira</td></tr><tr><td>Programa</td><td>0020</td><td colspan="3">SISTEMA MUNICIPAL DE ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td>Projeto/Atividade</td><td>2031</td><td colspan="3">Manutenção das Atividades do Setor de Tesouraria</td></tr><tr><td>Fonte</td><td>555</td><td colspan="3">SETU - Convênio nº 28/2025 - Realização da 46ª Festa das Nações</td></tr><tr><td colspan="3">3339093000000000000 - Indenizações e restituições</td><td>R$</td><td>1.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>13</td><td colspan="3">Secretaria Municipal de Turismo, Esporte e Cultura</td></tr><tr><td>Unidade</td><td>002</td><td colspan="3">Diretoria de Atividades Turísticas</td></tr><tr><td>Função</td><td>0023</td><td colspan="3">Comércio e Serviços</td></tr><tr><td>Subfunção</td><td>0695</td><td colspan="3">Turismo</td></tr><tr><td>Programa</td><td>0054</td><td colspan="3">SISTEMA MUNICIPAL DE INCENTIVO AO TURISMO</td></tr><tr><td>Projeto/Atividade</td><td>2087</td><td colspan="3">Manutenção das Atividades do Depto de Atividades Turísticas</td></tr><tr><td>Fonte</td><td>555</td><td colspan="3">SETU - Convênio nº 28/2025 - Realização da 46ª Festa das Nações</td></tr><tr><td colspan="3">3339039000000000000 - Outros serviços terceiros pessoa jurídica</td><td>R$</td><td>245.000,00</td></tr><tr><td colspan="3">TOTAL</td><td>R$</td><td>246.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Em face da suplementação por EXCESSO DE ARRECADAÇÃO para abertura de Crédito Suplementar no valor de R$ 246.000,00 (duzentos e quarenta e seis mil reais), as despesas e parte das metas físicas programadas para o exercício de 2025 nas ações orçamentárias estabelecida no LDO - Lei de Diretrizes Orçamentárias (Lei Municipal 2.373 de 08/11/2024), ficam reprogramadas na forma descrita nos Órgãos e Unidades abaixo:
+
+<table><tbody><tr><td>Órgão</td><td>07</td><td colspan="3">Secretaria Municipal de Fazenda</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Diretoria de Gestão Orçamentaria e Financeira</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0123</td><td colspan="3">Administração Financeira</td></tr><tr><td>Programa</td><td>0020</td><td colspan="3">SISTEMA MUNICIPAL DE ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td>Projeto/Atividade</td><td>2031</td><td colspan="3">Manutenção das Atividades do Setor de Tesouraria</td></tr><tr><td>Fonte</td><td>555</td><td colspan="3">SETU - Convênio nº 28/2025 - Realização da 46ª Festa das Nações</td></tr><tr><td colspan="3">3339093000000000000 - Indenizações e restituições</td><td>R$</td><td>1.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>13</td><td colspan="3">Secretaria Municipal de Turismo, Esporte e Cultura</td></tr><tr><td>Unidade</td><td>002</td><td colspan="3">Diretoria de Atividades Turísticas</td></tr><tr><td>Função</td><td>0023</td><td colspan="3">Comércio e Serviços</td></tr><tr><td>Subfunção</td><td>0695</td><td colspan="3">Turismo</td></tr><tr><td>Programa</td><td>0054</td><td colspan="3">SISTEMA MUNICIPAL DE INCENTIVO AO TURISMO</td></tr><tr><td>Projeto/Atividade</td><td>2087</td><td colspan="3">Manutenção das Atividades do Depto de Atividades Turísticas</td></tr><tr><td>Fonte</td><td>555</td><td colspan="3">SETU - Convênio nº 28/2025 - Realização da 46ª Festa das Nações</td></tr><tr><td colspan="3">3339039000000000000 - Outros serviços terceiros pessoa jurídica</td><td>R$</td><td>245.000,00</td></tr><tr><td colspan="3">TOTAL</td><td>R$</td><td>246.000,00</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 02 de abril de 2025.  
+  
+GILEADE GABRIEL OSTI  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*

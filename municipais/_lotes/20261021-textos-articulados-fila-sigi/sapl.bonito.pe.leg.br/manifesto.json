@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bonito.pe.leg.br",
+  "metadados_unicos_observados": 25,
+  "total_api_declarado": 25,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonito.pe.leg.br/86cfecb87b81f5d3d968ea4308512240937c841fb6ef38f9dad8b642c33263df.json",
+    "url": "https://sapl.bonito.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bonito.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T19:36:16.298506-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonito.pe.leg.br/cc1c7bcef175533955481c5f0f1d674737364a30e924aa56bda29c57d20f63e0.json",
+    "url": "https://sapl.bonito.pe.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bonito.pe.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a88b60eaa0cdca645a0c638485be687ade4fb56e86f9ae5dc54934f2ec89e582",
+    "bytes": 709,
+    "capturado_em": "2026-10-27T19:36:15.380585-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonito.pe.leg.br/36547a62a19ee251f4158534e6f69065ca7f23750a909e7675b35479c8929e7d.json",
+      "url": "https://sapl.bonito.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bonito.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "277d3b537372bb97f8ac571c24283aaf08bb72b9db4752155667b29d2d501346",
+      "bytes": 21034,
+      "capturado_em": "2026-10-27T19:36:18.425079-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

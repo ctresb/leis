@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cerroazul.pr.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cerroazul.pr.leg.br/96bf1444d2f517e00f221e8ffd5d3fb33091cab204e64e24304f50702b319b97.json",
+    "url": "https://sapl.cerroazul.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cerroazul.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3bf36ca949f220558bec4c35111dc5cb8d0723bf5a14bf41b95348df76e4a632",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:39:46.370937-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cerroazul.pr.leg.br/c2c6deef1cfe0e312e627d46f697cd30d297b0f65f5e836d49ba82d85135a275.json",
+    "url": "https://sapl.cerroazul.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cerroazul.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d6473e7e40ad717b4f57bcde24f840e9761db60ffcc6fbd8e8d8131deb22bd95",
+    "bytes": 737,
+    "capturado_em": "2026-10-27T22:39:45.545182-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cerroazul.pr.leg.br/85ee478254f1db9366daa572dc469736435404df31f5664109191441628d54b8.json",
+      "url": "https://sapl.cerroazul.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cerroazul.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "868a5d569c3a5be5d08dc44e52f9dd49f3fd1bb6a04126316f9386cce9d6d2e1",
+      "bytes": 830,
+      "capturado_em": "2026-10-27T22:39:48.362197-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

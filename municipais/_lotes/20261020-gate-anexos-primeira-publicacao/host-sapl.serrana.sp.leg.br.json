@@ -1,0 +1,526 @@
+{
+  "host": "sapl.serrana.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/lei_1854_-_emenda_aditiva.pdf da norma Lei Ordinária nº 1.854, de 22 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Emenda aditiva da Câmara Municipal de Serrana à Lei 1854/2017 - LOA",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2017/1/lei_1854_-_emenda_aditiva.pdf",
+      "ano": 2017,
+      "norma": 82
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/lei_1804_-_programa_combate_cancer_prostata.pdf da norma Lei Ordinária nº 1.804, de 08 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Cria no Município de Serrana, o mês e a semana de combate ao câncer de próstata.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2017/2/lei_1804_-_programa_combate_cancer_prostata.pdf",
+      "ano": 2017,
+      "norma": 129
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/3/lei_1774_-_informar_pais_ausencia_alunos_escola_sa_wVBwsqw.pdf da norma Lei Ordinária nº 1.774, de 22 de março de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a importância dos pais ou responsáveis serem informados sobre ausência do aluno na escola. (sanção Câmara)",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2017/3/lei_1774_-_informar_pais_ausencia_alunos_escola_sa_wVBwsqw.pdf",
+      "ano": 2017,
+      "norma": 133
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/4/lei_1745_emenda_modificativa_ldo.pdf da norma Lei Ordinária nº 1.745, de 29 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Emenda modificativa 01/2016 a Lei Municipal 1745/2016, de 29 de julho de 2016, que dispõe sobre a diretrizes orçamentárias  para o exercício financeiro de 2017, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2016/4/lei_1745_emenda_modificativa_ldo.pdf",
+      "ano": 2016,
+      "norma": 181
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/5/lei_1758_-_sancao_camara.pdf da norma Lei Ordinária nº 1.758, de 21 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a criação do Programa Jovem Cidadão: Meu Primeiro Trabalho no Município de Serrana/SP e dá outras providências. (Sanção pela Câmara Municipal)",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2016/5/lei_1758_-_sancao_camara.pdf",
+      "ano": 2016,
+      "norma": 193
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/6/lei_1691_-_adin_artigos_1_e_2.pdf da norma Lei Ordinária nº 1.691, de 21 de maio de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ADIN ARTIGOS 1º E 2º da Lei 1691/2015, que Altera dispositivos das Leis nºs. 1146/2006, que dispõe sobre a reorganização do Regime de Previdência dos Servidores Públicos do Município de Serrana e 1447/2011, que dispõe sobre o Estatuto Social do IPREM",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2015/6/lei_1691_-_adin_artigos_1_e_2.pdf",
+      "ano": 2015,
+      "norma": 225
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/7/lei_1716_-_programa_de_unidade_itinerante_veterina_Q2s4y7B.pdf da norma Lei Ordinária nº 1.716, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a instituição de programa e criação de unidade itinerante para atendimento veterinário e dá outras providências. (Sanção Câmara)",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2015/7/lei_1716_-_programa_de_unidade_itinerante_veterina_Q2s4y7B.pdf",
+      "ano": 2015,
+      "norma": 253
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/8/lei_1653_ldo_anexo_iv_e_v.pdf da norma Lei Ordinária nº 1.653, de 27 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "LDO anexo IV e V",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2014/8/lei_1653_ldo_anexo_iv_e_v.pdf",
+      "ano": 2014,
+      "norma": 314
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/9/lei_1653_ldo_anexo_vi_planejamento_orcamentario.pdf da norma Lei Ordinária nº 1.653, de 27 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "LDO anexo VI",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2014/9/lei_1653_ldo_anexo_vi_planejamento_orcamentario.pdf",
+      "ano": 2014,
+      "norma": 314
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/10/lei_1659_-_declarada_inconstitucional.pdf da norma Lei Ordinária nº 1.659, de 09 de outubro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Declaração de Inconstitucionalidade",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2014/10/lei_1659_-_declarada_inconstitucional.pdf",
+      "ano": 2014,
+      "norma": 320
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/11/regimento_interno_resolucao_no_02-2014.docx da norma Regimento Interno nº 1, de 19 de fevereiro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2014/11/regimento_interno_resolucao_no_02-2014.docx",
+      "ano": 2014,
+      "norma": 37
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/12/lom_atualizada_tzAKHS2.docx da norma Lei Orgânica Municipal nº 1, de 04 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2012/12/lom_atualizada_tzAKHS2.docx",
+      "ano": 2012,
+      "norma": 1
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/14/lei_no_1973-2020.pdf da norma Lei Ordinária nº 1.973, de 22 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Lei sancionada pelo Prefeito Municipal de Serrana.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2020/14/lei_no_1973-2020.pdf",
+      "ano": 2020,
+      "norma": 384
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/15/resolucao_no_2-2020_subsidio.docx da norma Resolução nº 2, de 03 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Arquivo Word.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2020/15/resolucao_no_2-2020_subsidio.docx",
+      "ano": 2020,
+      "norma": 435
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/acordao_-_tjsp.pdf da norma Lei Complementar nº 513, de 28 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Acórdão Ação Direta de Inconstitucionalidade nº 2009659-04.2020.8.26.0000.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2019/16/acordao_-_tjsp.pdf",
+      "ano": 2019,
+      "norma": 23
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/17/diario_oficial_894.pdf da norma Lei Ordinária-GABPRES nº 2.033, de 27 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2021/17/diario_oficial_894.pdf",
+      "ano": 2021,
+      "norma": 455
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/18/acordao_lei_no_1796-2013.pdf da norma Lei Ordinária nº 1.596, de 11 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Acórdão que julgou a ADI procedente em votação unânime.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2013/18/acordao_lei_no_1796-2013.pdf",
+      "ano": 2013,
+      "norma": 462
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/19/oficio_recebido_no_3-2014.pdf da norma Lei Ordinária nº 1.596, de 11 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Ofício informando o resultado do Acórdão.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2013/19/oficio_recebido_no_3-2014.pdf",
+      "ano": 2013,
+      "norma": 462
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/20/acordao_lei_complementar_no_346-2013.pdf da norma Lei Complementar nº 346, de 11 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Acórdão que julgou a ADI procedente em votação unânime.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2013/20/acordao_lei_complementar_no_346-2013.pdf",
+      "ano": 2013,
+      "norma": 463
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/21/acordao_lei_complementar_no_345-2013.pdf da norma Lei Complementar nº 345, de 11 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Acórdão que julgou a ADI improcedente por maioria de votos.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2013/21/acordao_lei_complementar_no_345-2013.pdf",
+      "ano": 2013,
+      "norma": 71
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/22/oficio_recebido_no_4-2014.pdf da norma Lei Complementar nº 345, de 11 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Ofício informando o resultado do Acórdão.",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2013/22/oficio_recebido_no_4-2014.pdf",
+      "ano": 2013,
+      "norma": 71
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/23/diario_oficial_1004.pdf da norma Lei Complementar nº 543, de 04 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2021/23/diario_oficial_1004.pdf",
+      "ano": 2021,
+      "norma": 476
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/24/resolucao_no_2-2021.docx da norma Resolução nº 2, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2021/24/resolucao_no_2-2021.docx",
+      "ano": 2021,
+      "norma": 486
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/25/agradecimento_eliana_uzueli.pdf da norma Decreto Legislativo nº 4, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2022/25/agradecimento_eliana_uzueli.pdf",
+      "ano": 2022,
+      "norma": 504
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/26/diario_oficial_1417.pdf da norma Lei Ordinária nº 2.191, de 26 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2023/26/diario_oficial_1417.pdf",
+      "ano": 2023,
+      "norma": 596
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/lei_2276-2024_com_artigo_promulgado_pela_camara.pdf da norma Lei Ordinária nº 2.276, de 20 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2024/27/lei_2276-2024_com_artigo_promulgado_pela_camara.pdf",
+      "ano": 2024,
+      "norma": 697
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/28/diario_oficial_1929.pdf da norma Lei Complementar nº 587, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2025/28/diario_oficial_1929.pdf",
+      "ano": 2025,
+      "norma": 766
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/29/diario_oficial_1934.pdf da norma Lei Ordinária nº 2.355, de 01 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2025/29/diario_oficial_1934.pdf",
+      "ano": 2025,
+      "norma": 768
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/30/oficio_cms_217-2025_completo.pdf da norma Lei Ordinária nº 2.355, de 01 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2025/30/oficio_cms_217-2025_completo.pdf",
+      "ano": 2025,
+      "norma": 768
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/31/diario_oficial_2015.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/31/diario_oficial_2015.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/32/demonstrativo_01_-_metas_anuais.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/32/demonstrativo_01_-_metas_anuais.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/33/demonstrativo_02_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/33/demonstrativo_02_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/34/demonstrativo_03_-_das_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/34/demonstrativo_03_-_das_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/35/demonstrativo_04_-_evolucao_do_patrimonio_liquido.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/35/demonstrativo_04_-_evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/36/demonstrativo_05_-_origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/36/demonstrativo_05_-_origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/37/demonstrativo_06_-_avaliacao_da_situacao_financeira_e_atuarial_do_rpps.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/37/demonstrativo_06_-_avaliacao_da_situacao_financeira_e_atuarial_do_rpps.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/38/demonstrativo_07_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/38/demonstrativo_07_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/39/demonstrativo_08_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/39/demonstrativo_08_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/40/demonstrativo_de_riscos_fiscais_e_providencias.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/40/demonstrativo_de_riscos_fiscais_e_providencias.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/anexo_v_planejamento_orcamentario_-_ldo_-_sp.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/41/anexo_v_planejamento_orcamentario_-_ldo_-_sp.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/42/anexo_vi_planejamento_orcamentario_-_ldo_-_sp.pdf da norma Lei Ordinária nº 2.400, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/42/anexo_vi_planejamento_orcamentario_-_ldo_-_sp.pdf",
+      "ano": 2026,
+      "norma": 791
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/43/anexo_1_-_demonstrativo_da_receita_e_despesa_segundo_categorias_economicas.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/43/anexo_1_-_demonstrativo_da_receita_e_despesa_segundo_categorias_economicas.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/44/anexo_2_-_natureza_da_despesa_por_categoria_economica.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/44/anexo_2_-_natureza_da_despesa_por_categoria_economica.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/45/anexo_3_-_receita_por_categoria_economica.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/45/anexo_3_-_receita_por_categoria_economica.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/46/anexo_4_-_quadro_das_dotacoes_por_orgao_do_governo_e_da_administracao_-_qdd.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/46/anexo_4_-_quadro_das_dotacoes_por_orgao_do_governo_e_da_administracao_-_qdd.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/47/anexo_5_-_funcoes_e_subfuncoes_de_governo.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/47/anexo_5_-_funcoes_e_subfuncoes_de_governo.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/48/anexo_6_-_programa_de_trabalho_do_governo.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/48/anexo_6_-_programa_de_trabalho_do_governo.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/50/anexo_7_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_atividades_e_operacoes_especiais.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/50/anexo_7_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_atividades_e_operacoes_especiais.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/51/anexo_8_-_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_vinculo_com_os_recursos.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/51/anexo_8_-_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_vinculo_com_os_recursos.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/52/anexo_9_-_demonstrativo_da_despesa_por_orgao_e_funcoes.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/52/anexo_9_-_demonstrativo_da_despesa_por_orgao_e_funcoes.pdf",
+      "ano": 2026,
+      "norma": 792
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/53/diario_oficial_2015.pdf da norma Lei Ordinária nº 2.401, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.serrana.sp.leg.br/media/sapl/public/anexonormajuridica/2026/53/diario_oficial_2015.pdf",
+      "ano": 2026,
+      "norma": 792
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.serrana.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.serrana.sp.leg.br/163d5c04472ca584cf0bce00a557c0f9b496b0fcdd6c44b212dcd36e9a08048c.json",
+      "sha256": "d4d81f9b222824f6cb31bf4bc81f678158ac26932b3b48f09c4a0b03635ebb4a",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.serrana.sp.leg.br/163d5c04472ca584cf0bce00a557c0f9b496b0fcdd6c44b212dcd36e9a08048c.meta.json"
+    }
+  ],
+  "total": 51
+}

@@ -1,0 +1,191 @@
+{
+  "aprovados": [
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-2-2025-sapl-1124.md",
+      "sha256": "7064b72111d93c9ca6873526eeed42f89f2ba3d88310f929f0406ed75dffe141",
+      "sha256_fonte": "e496e41023bc50ed356d7ec250ee1282c358007e6c872c909755feccbcaada02",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1124",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e496e41023bc50ed356d7ec250ee1282c358007e6c872c909755feccbcaada02/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-3-2025-sapl-1448.md",
+      "sha256": "ef13e700bcecc27a530341fcc862dcbb7cbdd9427cd58e86acd42b57cff2c9e8",
+      "sha256_fonte": "a9f7f5544da4d497aac60d192f27691e3c5310f4baebfb4946cd6f4c69b5f067",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1448",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a9f7f5544da4d497aac60d192f27691e3c5310f4baebfb4946cd6f4c69b5f067/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-4-2025-sapl-1449.md",
+      "sha256": "65d5ec6446c576e398f4fb1a396bb382769dcc84e05cbb393b00597bcbe34b83",
+      "sha256_fonte": "ce8820604be283e75268ffbbde186a5ee758e89b4fa467c55f0f3d8ac7c76ab6",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1449",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ce8820604be283e75268ffbbde186a5ee758e89b4fa467c55f0f3d8ac7c76ab6/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-5-2025-sapl-1469.md",
+      "sha256": "67d55ff695d62dda2174c333dc2b349cbb5f8b3967ffd83f23bcc53a8ec65cca",
+      "sha256_fonte": "62b782532785233ff6c227eab2037dc47f523a25a64a2508770b2de73e7c4329",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1469",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/62b782532785233ff6c227eab2037dc47f523a25a64a2508770b2de73e7c4329/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-6-2025-sapl-1516.md",
+      "sha256": "dafaccdb5e3635362403f25188c37c7a85f3fa513148f14a53cd7e3892431ae1",
+      "sha256_fonte": "bc67c74a2315f7c52da650ae6a217edf957348418be92b1a3601ccdcb561fe84",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1516",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/bc67c74a2315f7c52da650ae6a217edf957348418be92b1a3601ccdcb561fe84/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-7-2025-sapl-1533.md",
+      "sha256": "77119d6ece4010299f7e1bc1083d9558312932ed1ec5740ad7c7df1ba7c484e7",
+      "sha256_fonte": "21426e47deca04f5d51f2478c7b990d22c5a0d9f754b994d41c3fd4b91d889c7",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1533",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/21426e47deca04f5d51f2478c7b990d22c5a0d9f754b994d41c3fd4b91d889c7/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-8-2025-sapl-1565.md",
+      "sha256": "48b190966075e76b7318efcd913b20e33751d92cd4ae4a6da4139bbae52da033",
+      "sha256_fonte": "cafd930ea9601aa8285c57693f2d24b6025a308e91001367d05d797adf5a16da",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1565",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/cafd930ea9601aa8285c57693f2d24b6025a308e91001367d05d797adf5a16da/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2024/resolucoes-3-2024-sapl-562.md",
+      "sha256": "9554c02a4a648934950be722005211f8921f1803067cfe42114a968fca8e6650",
+      "sha256_fonte": "367568461ebd3de6bcb776ebe11a1e53a6d33f2621f6443a987b6411b0c1026d",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/562",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/367568461ebd3de6bcb776ebe11a1e53a6d33f2621f6443a987b6411b0c1026d/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2024/resolucoes-4-2024-sapl-563.md",
+      "sha256": "d6e92a1fe6d5c8fb469e83758f4c1cec3edb24b9958c5fc9075437fa3bf7620b",
+      "sha256_fonte": "0b4d5e788c2e3504c429c63f7ad9e3d43131ab34eb49f7beb57dcd849954a158",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/563",
+      "codigo_ibge": "2402006",
+      "imagens_revisadas": [
+        {
+          "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+          "object_id": [
+            "20",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0b4d5e788c2e3504c429c63f7ad9e3d43131ab34eb49f7beb57dcd849954a158/1/imagem-000.png",
+          "classificacao": "marca ou cabeçalho institucional sem dispositivo legal"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    }
+  ],
+  "revisoes": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-catalogo/revisao-reuso-hashes.json",
+      "sha256": "2de1e36e715f14031331e4796d0dfc74b7e5e4a3fd634f9924c8c7515e247802"
+    }
+  ],
+  "catalogo_sha256": "02e3ee8fc7f2dba75f667455f4db4db99dbead9c6f22229ed57d5822bf4050c2"
+}

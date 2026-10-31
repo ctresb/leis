@@ -1,0 +1,413 @@
+---
+titulo: "Lei nº 815, de 24 de abril de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "815"
+data: "2019-04-24"
+municipio: "Bananeiras"
+uf: "PB"
+codigo_ibge: "2501500"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-03-26; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bananeiras.pb.leg.br/norma/27"
+fonte_texto: "https://sapl.bananeiras.pb.leg.br/ta/45/text"
+sha256_fonte: "63e05c5031f3a9c482dcccf250086e9f527e306538758b766a472d5bbbe9727c"
+sha256_texto: "6d775c6e7d96651f5d5dc6ac1a9bdb8636d5370220ecff4bd7c0de93002f3a35"
+capturado_em_fonte: "2026-10-27T17:09:38.606888-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 815, de 24 de abril de 2019
+
+DISPÕE SOBRE A IMPLANTAÇÃO DE BOLSA AUXÍLIO PARA O ACOLHIMENTO DE CRIANÇAS E ADOLESCENTES EM SITUAÇÃO DE RISCO PESSOAL E SOCIAL, INSERIDAS NO SERVIÇO DE ACOLHIMENTO EM FAMÍLIA ACOLHEDORA E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+0 PREFEITO CONSTITUCIONAL DO MUNICÍPIO DE BANANEIRAS, ESTADO DA PARAIBA, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:.
+
+
+#### CAPÍTULO I — DA BOLSA AUXÍLIO E DA FAMÍLIA ACOLHEDORA
+
+
+Art. 1º.
+
+Fica instituída a Bolsa Auxílio para o acolhimento de Crianças e Adolescentes em situação de risco pessoal e social, residentes e domiciliados no município de Bananeiras/PB, inseridas no Serviço de Acolhimento em Família Acolhedora, ofertado pela Secretaria Municipal de Desenvolvimento Social, que integra o Sistema Único de Assistência Social - SUAS do Município de Bananeiras/PB.
+
+
+§ 1º
+
+A colocação da criança ou adolescente no Serviço de Acolhimento em Família Acolhedora trata-se de medida protetiva provisória e excepcional, por determinação da autoridade judiciária competente, através da guia de acolhimento, conforme preconiza o Art. 101, § 1º, e 3º do Estatuto da Criança e do Adolescente ECA.
+
+
+§ 2º
+
+A manutenção do acolhido ao completar 18 (dezoito) anos de idade, junto ao Serviço de Acolhimento em Família Acolhedora dependerá de parecer técnico no qual deverá constar o grau de autonomia alcançado por este, avaliado através de instrumental próprio, visando definir a necessidade de manutenção do acolhimento até os 21 (vinte e um) anos de idade, considerando-se esta, uma situação excepcional, conforme disposto no Art. 2º do Estatuto da Criança e Adolescente - ECA.
+
+
+§ 3º
+
+Todos os casos de acolhimento familiar, bem como de concessão de Bolsa Auxilio, estarão condicionados aos limites da decisão judicial da Vara da Infância e Juventude.
+
+
+Art. 2º.
+
+Fica assegurada a Bolsa Auxílio às famílias acolhedoras, custeadas com recursos da Secretaria Municipal de Desenvolvimento Social, alocado no Fundo Municipal de Assistência Social - FMAS e no Fundo de Participação do Município - FPM
+
+
+§ 1º
+
+Bolsa Auxílio é o valor repassado à família acolhedora, correspondente a cada criança ou adolescente sob sua guarda, cujo valor lhe será destinado a partir do primeiro dia que assume a responsabilidade de guarda de criança ou adolescente inserida no Serviço de Acolhimento em Família Acolhedora.
+
+
+§ 2º
+
+A Bolsa Auxílio destina-se ao suprimento da alimentação, vestuário, higiene pessoal, lazer e outras necessidades básicas da criança ou adolescente inserido no Serviço de Acolhimento em Família Acolhedora, respeitando-se o direito à convivência familiar e comunitária;
+
+
+§ 3º
+
+§ 3ºO valor do subsídio pago por criança ou adolescente acolhido será equivalente a 1 (um) salário mínimo por mês, nos termos do § 6º do Termo de Cooperação Técnica nº 001/2022, sendo permitido que cada família acolha apenas uma criança ou adolescente por vez, ressalvando-se o acolhimento de irmãos, caso em que será pago o valor de 1 (um) salário mínimo por acolhido, até o limite de 3 (três) subsídios, conforme disposto na Lei Estadual nº 11.038/2017.
+
+Alteração feita pelo Art. 2º. - Lei-SL nº 1.113, de 26 de março de 2025.
+
+
+§ 4º
+
+A Bolsa Auxílio será excepcionalmente destinada a famílias extensas, após avaliação da equipe interdisciplinar do Serviço de Acolhimento em Família Acolhedora, com parecer favorável a reintegração familiar, quando for mais vantajoso ao acolhido e irá garantir o direito a convivência familiar e comunitária.
+
+
+§ 5º
+
+Quando a criança e/ou adolescente necessitar de cuidados especiais, receberá o valor de 1 1/2 (uma e meia) Bolsa Auxílio, consideradas as seguintes situações:
+
+
+I –
+
+usuários de substâncias psicoativas;
+
+
+II –
+
+pessoas que convivem com o HIV;
+
+
+III –
+
+pessoas que convivem com neoplasia (Câncer);
+
+
+IV –
+
+pessoas com deficiência que não tenham condições de desenvolver as atividades da vida diária (AVDs) com autonomia;
+
+
+V –
+
+excepcionalmente, a critério da equipe interdisciplinar do Serviço, pessoas que convivem com doenças degenerativas e psiquiátricas.
+
+
+§ 6º
+
+As situações elencadas nos Incisos do Art. 2º do § 5º , serão comprovadas através de atestado expedido por médico especialista
+
+
+§ 7º
+
+Nos casos em que o acolhimento familiar for inferior a 01 (um) mês, a família acolhedora ou extensa, receberá Bolsa Auxílio proporcional aos dias de acolhimento.
+
+
+§ 8º
+
+Nos casos de acolhimento superior a 01 (um) mês, a família acolhedora ou extensa receberá a Bolsa Auxílio no valor integral.
+
+
+Art. 3º.
+
+Os acolhidos que recebam o Benefício de Prestação Continuada (BPC) ou qualquer Benefício Previdenciário, terão 50% do benefício depositado em conta judicial e o restante será administrado pela família acolhedora ou extensa que estiver com a guarda, visando o atendimento as necessidades do acolhido, exceto nos casos em que houver determinação judicial diversa.
+
+
+Art. 4º.
+
+A família acolhedora ou extensa terá direito, independentemente do número de crianças e/ou adolescentes sob sua guarda, a desconto no pagamento do Imposto Predial e Territorial Urbano - IPTU, na proporção de 1/12 (um doze avos) do imposto devido por mês de efetivo acolhimento, até a total isenção, tomando por base o período de guarda apurado no exercício imediatamente anterior, atestado por declaração emitida pela Secretaria Municipal de Desenvolvimento Social.
+
+
+#### CAPÍTULO II — DA INSCRIÇÃO E SELEÇÃO DAS FAMÍLIAS ACOLHEDORAS
+
+
+Art. 5º.
+
+A inscrição e seleção de candidatos à Família colhedora far-se-á da seguinte forma:
+
+
+I –
+
+Preenchimento de Formulário de Inscrição.
+
+
+II –
+
+Apresentação de documentos.
+
+
+III –
+
+Comprovação de compatibilidade para assumir a responsabilidade de Família Acolhedora.
+
+
+Parágrafo único
+
+0 processo de inscrição e seleção ocorrerá em 30 dias, podendo ser prorrogado por mais 30 dias de acordo com a necessidade do Serviço.
+
+
+##### Seção I — DO PREENCHIMENTO DO FORMULÁRIO DE INSCRIÇÃO
+
+
+Art. 6º.
+
+O preenchimento do Formulário de Inscrição deverá ser realizado pessoalmente na sede do Serviço de Acolhimento em Família Acolhedora.
+
+
+##### Seção II — DA APRESENTAÇÃO DA DOCUMENTAÇÃO
+
+
+Art. 7º.
+
+É obrigatória a entrega sob protocolo, na sede do Serviço de Acolhimento em Família Acolhedora:
+
+
+I –
+
+Documento de Identificação com foto, de todos os membros da família;
+
+
+II –
+
+Certidão de Nascimento ou Casamento, de todos os membros da família;
+
+
+III –
+
+Título de Eleitor do domicílio eleitoral do município de Bananeiras/PB;
+
+
+IV –
+
+Comprovante de Residência;
+
+
+V –
+
+Certidão Negativa de Antecedentes Criminais de todos os membros da Família, que sejam maiores de idade;
+
+
+VI –
+
+Comprovante de atividade remunerada, de pelo menos um membro da família;
+
+
+VII –
+
+Cartão do INSS (no caso de beneficiários da Previdência Social);
+
+
+VIII –
+
+Atestado médico comprovando saúde física e mental dos responsáveis.
+
+
+##### Seção III — DA COMPROVAÇÃO DE COMPATIBILIDADE - FAMÍLIA ACOLHEDORA
+
+
+Art. 8º.
+
+A comprovação de compatibilidade da Família, para assumir a responsabilidade de Família Acolhedora, será realizada através dos seguintes requisitos:
+
+
+I –
+
+Os responsáveis serem maiores de I8 anos, sem restrição quanto ao sexo e estado civil;
+
+
+II –
+
+Obter a concordância de todos os membros da família;
+
+
+III –
+
+Residir no mínima há 1 (um) ano no município de Bananeiras;
+
+
+IV –
+
+Ter disponibilidade de tempo e demonstrar interesse em oferecer proteção e afeto as crianças e adolescentes;
+
+
+V –
+
+Parecer Psicossocial favorável, expedido pela equipe interdisciplinar do Serviço Acolhimento em Família Acolhedora, elaborado a partir de instrumentais técnico operativos, conforme disposto em protocolo próprio aprovado pelo Conselho Municipal de Assistência Social - CMAS e Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA.
+
+
+Parágrafo único
+
+A condição de família acolhedora é de caráter voluntário e contará com o aparato da Secretaria Municipal de Desenvolvimento Social, conforme prevêem os Art. 3º, 4º e 5º.
+
+
+Art. 9º.
+
+Atendidos todos os requisitos mencionados no artigo anterior, a família assinará um Termo de Adesão ao Serviço de Acolhimento em Família Acolhedora, juntamente com a coordenação e o gestor da Secretaria Municipal de Desenvolvimento Social.
+
+
+Art. 10.
+
+O desligamento da família acolhedora poderá ocorrer nas seguintes situações:
+
+
+I –
+
+Solicitação por escrito, indicando os motivos e estabelecendo em conjunto com a equipe interdisciplinar do Serviço, um prazo para efetivação do desligamento;
+
+
+II –
+
+Descumprimento dos requisitos, estabelecidos no Art. 8º desta Lei, comprovado por meio de Parecer Técnico, expedido pela equipe interdisciplinar do Serviço.
+
+
+Parágrafo único
+
+Caso o desligamento ocorra com base no inciso II do Art. 8º, a família acolhedora assinará um Termo de Desligamento.
+
+
+Art. 11.
+
+A família acolhedora poderá acolher apenas uma criança ou um adolescente de cada vez, exceto quando se tratar de grupo de irmãos.
+
+
+§ 1º
+
+Somente quando a criança ou adolescente for desacolhido, a família acolhedora poderá novamente acolher outra criança ou adolescente.
+
+
+§ 2º
+
+As famílias acolhedoras já incluídas no Serviço poderão continuar acolhendo as crianças e adolescentes que estão sob sua guarda, sendo que no caso de transferências ou novos acolhimentos será observado o caput deste artigo.
+
+
+§ 3º
+
+Nos casos de acolhimento de grupo de irmãos, e outros acolhidos na mesma família acolhedora já existentes, será priorizada a avaliação psicossocial visando a possível transferência para outra família no prazo de 90 dias.
+
+
+Art. 12.
+
+A autoridade judiciária competente deferirá a guarda provisória da(s) criança(s) e/ou adolescente(s) acolhido(s) à família acolhedora.
+
+
+Parágrafo único
+
+A revogação da guarda provisória será deferida pela autoridade judiciária competente, a partir da indicação da equipe interdisciplinar do Serviço.
+
+
+Art. 13.
+
+As famílias acolhedoras, extensas e de origem receberão acompanhamento e capacitação continuados.
+
+
+#### CAPÍTULO III — DAS COMPETÊNCIAS E OBRIGAÇÕES DA FAMÍLIA ACOLHEDORA
+
+
+Art. 14.
+
+Compete à família acolhedora:
+
+
+I –
+
+Prestar assistência material, moral, educacional e afetiva à criança e adolescentes, conferindo ao detentor da guarda, o direito de opor-se a terceiros, inclusive aos pais nos termos do artigo 33, do Estatuto da Criança e do Adolescente - ECA;
+
+
+II –
+
+Participar do processo de acompanhamento e capacitação continuados;
+
+
+III –
+
+Prestar informações sobre a situação da criança e do adolescente acolhido à equipe interdisciplinar do Serviço de Acolhimento em Família Acolhedora;
+
+
+IV –
+
+Contribuir na preparação da criança ou adolescente para retorno à família de origem, ou extensa, e na impossibilidade, a colocação em família substituta, sempre sob orientação da equipe interdisciplinar.
+
+
+Art. 15.
+
+Nos casos de inadaptação, a família procederá a desistência formal da guarda, responsabilizando-se pelos cuidados da criança ou adolescente acolhido até novo encaminhamento, que será determinado pela autoridade judiciária.
+
+
+#### CAPÍTULO IV — DA GESTÃO DO SERVIÇO DE ACOLHIMENTO EM FAMÍLIA ACOLHEDORA
+
+
+Art. 16.
+
+A Gestão do Serviço de Acolhimento em Família Acolhedora será de responsabilidade da Secretaria Municipal de Desenvolvimento Social.
+
+
+Art. 17.
+
+A Equipe do Serviço de Acolhimento em Família Acolhedora será composta por Coordenação de nível superior, Equipe de nível Superior interdisciplinar, Equipe técnica de nível médio e Equipe de apoio, conforme preconiza a Norma Operacional Básica de Recursos Humanos do Sistema Único de Assistência Social (NOB/RH/SUAS).
+
+
+Art. 18.
+
+São obrigações da Coordenação:
+
+
+I –
+
+Encaminhar o Termo de Adesão da família acolhedora para assinatura do Gestor Municipal da Secretaria Municipal de Desenvolvimento Social;
+
+
+II –
+
+Encaminhar o Termo de Desligamento da família acolhedora para ciência e controle da Secretaria Municipal de Desenvolvimento Social;
+
+
+III –
+
+Encaminhar relatório mensal à Secretaria Municipal de Desenvolvimento Social, constando: data da inserção da família acolhedora; nome do responsável: RG do responsável; CPF do responsável; endereço da família acolhedora; nome da criança(s)/adolescente(s) acolhido(s); data de nascimento; número da medida de proteção; período de acolhimento; valor a ser pago; nome do Banco e número da agência e conta bancária a ser efetuado o depósito da Bolsa Auxílio.
+
+
+Art. 19.
+
+São obrigações da Coordenação e da Equipe Interdisciplinar do Serviço de Acolhimento em Família Acolhedora, cumprir as obrigações previstas nesta Lei, bem como no Estatuto da Criança e do Adolescente - ECA, as orientações técnicas para os Serviços de Acolhimento e normativas do SUAS.
+
+
+Art. 20.
+
+O Serviço de Acolhimento em Família Acolhedora contará com Recursos Orçamentários e Financeiros alocado no Fundo Municipal de Assistência Social e no Fundo Municipal dos Direitos da Criança e do Adolescente, suficientes para sua manutenção visando garantir a capacitação continuada da equipe interdisciplinar e das famílias acolhedoras ou extensas, espaço físico adequado e acessível, equipamentos, veículos e recursos materiais.
+
+
+Art. 21.
+
+O processo de Monitoramento e Avaliação do Serviço de Acolhimento em Família Acolhedora será realizado pela Coordenação e equipe interdisciplinar do Serviço de Acolhimento em Família Acolhedora e pela Secretaria Municipal de Desenvolvimento Social, conforme preconiza o Sistema Único de Assistência Social - SUAS.
+
+
+Parágrafo único
+
+Compete ao Conselho Municipal dos Direitos da Criança e do Adolescente - CMOCA, ao Conselho Municipal de Desenvolvimento Social - CMAS e aos Conselhos Tutelares, acompanhar e fiscalizar a regularidade do Serviço de Acolhimento em Família Acolhedora, encaminhando ao Juiz da Infância e Juventude, relatório circunstanciado, sempre que observar irregularidades.
+
+
+Art. 22.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Bananeiras, 24 de Abril de 2019
+
+**Douglas Lucena Moura de Medeiros**
+
+**Prefeito Constitucional**
+

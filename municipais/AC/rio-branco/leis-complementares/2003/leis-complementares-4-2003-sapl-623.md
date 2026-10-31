@@ -1,0 +1,243 @@
+---
+titulo: "Lei Complementar nº 4, de 03 de dezembro de 2003"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "4"
+data: "2003-12-03"
+municipio: "Rio Branco"
+uf: "AC"
+codigo_ibge: "1200401"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.riobranco.ac.leg.br/norma/623"
+fonte_texto: "https://sapl.riobranco.ac.leg.br/ta/590/text"
+sha256_fonte: "773b5e3e475bd707dd064bf0ed0635419c1f52dfeffa622a4ad5e25a3be55f9d"
+sha256_texto: "bcbe371ea8059a14689fc1fbb052c4d3c2cb907e0a60aa6153a11ca4e77c4de0"
+capturado_em_fonte: "2026-10-21T04:06:24.972825-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 4, de 03 de dezembro de 2003
+
+"Altera a Lei Complementar nº 001/2003, cria, transforma, extingue cargos e altera organogramas do Gabinete do Vice Prefeito, Secretaria da Cidade, Secretaria Municipal de Finanças, Secretaria Municipal de Gabinete, Secretaria Municipal de Educação, Secretaria Municipal de Assistência Social e Secretaria Municipal do Servidor e do Patrimônio e dá outras providências."
+
+
+**O PREFEITO DE RIO BRANCO - ACRE:**
+
+**FAÇO SABER** que a Câmara Municipal aprovou e eu sanciono a seguinte Lei Complementar.
+
+
+Art. 1º.
+
+Ficam criados no Gabinete do Vice-Prefeito, além dos cargos previstos na Lei Complementar nº 001/2003, 01(um) cargo de Assessor Técnico, correspondente a Gerência 3 - G3 e 02 (dois) cargos de Secretário Administrativo e os correspondentes Cargos Comissionados 2 - CC2.
+
+
+Art. 2º.
+
+Fica criada na estrutura organizacional da Secretaria Municipal da Cidade, a Divisão de Análise de Projetos, subordinada à Coordenação de Obras Públicas da Gerência de Infraestrutura e o correspondente Cargo Comissionado 5 - CC5.
+
+
+Art. 3º.
+
+Fica criada na estrutura organizacional da Secretaria Municipal do Servidor e do Patrimônio, a Divisão de Cadastro e Controle dos Espaços Públicos de Uso Delegado, subordinada à Gerência de Espaços Públicos de uso Delegado e o correspondente Cargo Comissionado 2 - CC2.
+
+
+Art. 4º.
+
+Ficam criados no Gabinete da Secretaria Municipal do Servidor e do Patrimônio, além dos cargos previstos na Lei Complementar nº 001/2003, 01 (um) cargo de Secretário Administrativo e o correspondente Cargo Comissionado 2 - CC2.
+
+
+Art. 5º.
+
+Ficam extintos da estrutura organizacional da Secretaria Municipal de Assistência Social, 05(cinco) cargos comissionados 1 - CC1, correspondente os cargos de Coordenadores das Creches Municipais Jairo Júnior, Hilda Braga, Sagrado Coração de Maria, Laudi Melo, Sorriso de Criança e Maria J.B. dos Reis.
+
+
+Art. 6º.
+
+Compete a Secretaria Municipal de Educação a coordenação, planejamento execução e administração das creches no âmbito do Poder Municipal, cabendo a essa, prover todos os meios necessários ao pleno funcionamento das mesmas.
+
+
+Art. 7º.
+
+Fica Criada na estrutura organizacional da Secretaria Municipal de Educação, a Coordenadoria de Ensino da 1ª Idade, subordinada a Gerência de Assistência ao Educando e o correspondente cargo Gerente 1 - G1 e, 05(cinco) cargos de Coordenador de Creche correspondente ao Cargo Comissionado 2 - CC2, para coordenarem, respectivamente, as Creches Municipais Jairo Júnior, Hilda Braga, Sagrado Coração de Maria, Laudi Melo, Sorriso de Criança e Maria J.B. dos Reis.
+
+
+Art. 8º.
+
+Fica criado na Estrutura Organizacional da Secretaria Municipal de Gabinete, 01 (um) cargo de Assessor Especial, e o correspondente cargo Gerência 5 - G5.
+
+
+Art. 9º.
+
+Fica criado na estrutura organizacional da Secretaria Municipal de Finanças, o Departamento de Cadastro Imobiliário e o correspondente Cargo Comissionado 5 - CC5.
+
+
+Parágrafo único
+
+Ao Departamento de Cadastro Imobiliário compete:
+
+
+I –
+
+promover, coordenar e executar a atualização dos boletins de informações cadastrais - BIC;
+
+
+II –
+
+autorizar certidões e desmembramentos de imóveis;
+
+
+III –
+
+executar cadastramento de imóveis;
+
+
+IV –
+
+lançar a cobrança do Imposto Predial e Territorial Urbano - IPTU;
+
+
+V –
+
+promover a expedição de IPTU;
+
+
+VI –
+
+prestar informações de interesse administrativo e judicial, referente aos imóveis cadastrados no Município.
+
+
+VII –
+
+executar outras atividades afins ou correlatas.
+
+
+Art. 10.
+
+Ficam criadas as Funções Gratificadas (FG) 1, 2, e 3, na forma e percentuais dos incisos deste artigo.
+
+
+I –
+
+FG - 1, trinta por cento (30%);
+
+
+II –
+
+FG - 2, quarenta por cento (40%);
+
+
+III –
+
+FG - 3, cinqüenta por cento (50%);
+
+
+§ 1º
+
+As remunerações a serem percebidas pelas Funções Gratificadas terão seus valores estabelecidos e calculados nos percentuais previstos nos incisos I, II e III deste artigo com base na remuneração percebida pelo Cargo Comissionado 1 - CC1, conforme inciso II, art. 94, e §2º, art. 146 da Lei Complementar nº 001/2003.
+
+
+§ 2º
+
+Decreto do Chefe do Poder Executivo Municipal definirá, quantitativos, qualitativos e Secretarias Municipais onde deverão ser lotadas e estabelecidas as Funções Gratificadas de que trata este artigo.
+
+
+§ 3º
+
+A nomeação das Funções Gratificadas de que trata este artigo, dar-se-á por Decreto do Chefe do Poder Executivo Municipal.
+
+
+Art. 11.
+
+A Gerência de Planejamento, Orçamento e Gestão da Secretaria da Cidade passa a corresponder ao Cargo de Gerência 4 - G4, conforme o inciso I, art. 94, e §1º, art. 146 da Lei Complementar nº 001/2003.
+
+
+Parágrafo único
+
+As Divisões de Controle Ambiental, de Educação Ambiental, de Topografia e de Manutenção da Secretaria da Cidade, passam a corresponderem respectivamente, aos Cargos Comissionados CC4, CC4, CC3 e CC2, conforme inciso II, art. 94, e §2º, art. 146 da Lei Complementar nº 001/2003.
+
+
+Art. 12.
+
+A Gerência de Programação Orçamentária e Gestão da Secretaria Municipal do Servidor e do Patrimônio passa a corresponderem ao Cargo de Gerência 4 - G4, conforme o inciso I, art. 94, e §1º, art. 146 da Lei Complementar nº 001/2003.
+
+
+Parágrafo único
+
+O Departamento de Manutenção e Serviços Gerais e as Divisões de Cadastro Financeiro, de Informação Funcional e de Programação Orçamentária e Gestão da Secretaria Municipal do Servidor e do Patrimônio, passam a corresponderem, respectivamente, aos Cargos Comissionados CC5, CC3, CC3 e CC3 conforme inciso II, art. 94, e §2º, art. 146 da Lei Complementar nº 001/2003.
+
+
+Art. 13.
+
+O Artigo 70 da Lei Complementar nº 001/2003, passa a vigorar com a seguinte redação:
+
+
+Art. 14.
+
+O artigo 73 da Lei Complementar nº 001/2003, passa a vigorar com a seguinte redação:
+
+
+"Art. 73...........................................................................................................................
+
+VIII - ...................................................................................................................................
+
+IX - ...................................................................................................................................
+
+X- ...................................................................................................................................
+
+XI - ...................................................................................................................................
+
+XII - ...................................................................................................................................
+
+XIII - ...................................................................................................................................
+
+XIV - ...................................................................................................................................
+
+XV - ...................................................................................................................................
+
+XVI - ...................................................................................................................................
+
+XVII - administrar os espaços públicos de uso delegado, organizando, orientando,  
+controlando e estabelecendo procedimentos para a ocupação dos referidos espaços; XVIII - elaborar o Termo de Permissão de Uso dos espaços de que trata o inciso  
+anterior;
+
+XIX - supervisionar, coordenar e controlar, inclusive, promover acordos ou negociações para a boa administração dos espaços públicos de uso delegado;
+
+XX - definir, montar, organizar, coordenar e gerenciar os recursos humanos  
+necessários ao cumprimento do inciso anterior,
+
+XXI - promover e estabelecer o controle e monitoramento da arrecadação financeira dos mercados, inclusive dos aluguéis dos espaços públicos de uso delegado;"
+
+
+Art. 15.
+
+O artigo 79 da Lei Complementar nº 001/2003, passa a vigorar com a seguinte redação:
+
+
+XXVIII - promover, estabelecer, organizar, coordenar, controlar, participar e executar políticas de desenvolvimento de agricultura para o Município de Rio Branco.
+
+
+Art. 16.
+
+Fica extinta a Seção de Cadastro Imobiliário constante da estrutura organizacional da Secretaria da Cidade, bem como, o Cargo Comissionado 1 - CC1 a ela atribuída.
+
+
+Art. 17.
+
+Em conseqüência do disposto nesta Lei, ficam alterados os anexos I e II da Lei Complementar nº 001/2003, o quantitativo e estrutura relativos aos organogramas e os quadros de Gerência e Cargos Comissionados do Gabinete do Vice Prefeito, da Secretaria da Cidade, da Secretaria Municipal de Gabinete, da Secretaria Municipal de Educação, da Secretaria Municipal de Assistência Social e da Secretaria Municipal do Servidor e do Patrimônio e da Secretaria Municipal de Finanças da Prefeitura de Rio Branco.
+
+
+Art. 18.
+
+Esta Lei entra em vigor nada data de sua publicação, revogando-se as disposições em contrário.
+
+
+**GABINETE DO PREFEITO DE RIO BRANCO, CAPITAL DO ESTADO DO ACRE, EM 03 DE DEZEMBRO DE 2003.**
+
+
+**Isnard Bastos Barbosa Leite**
+
+Prefeito de Rio Branco
+

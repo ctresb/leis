@@ -1,0 +1,267 @@
+{
+  "estado": "indice_completo",
+  "total": 22,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/anexos_da_lei_complementar_20-2020.pdf da norma Lei Complementar nº 20, de 21 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - QUADROS E MAPA DE DIRETRIZES VIÁRIAS URBANAS",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2020/1/anexos_da_lei_complementar_20-2020.pdf",
+      "ano": 2020,
+      "norma": 1047
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/resolucao_70-2019_-_anexo_i.pdf da norma Resolução nº 70, de 27 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "JUSTIFICATIVA DE AUSÊNCIA AO EXPEDIENTE DE TRABALHO",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2019/2/resolucao_70-2019_-_anexo_i.pdf",
+      "ano": 2019,
+      "norma": 896
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/resolucao_70-2019_-_anexo_ii.pdf da norma Resolução nº 70, de 27 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "REQUERIMENTO PARA COMPENSAÇÃO DE HORAS ADICIONAIS",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2019/3/resolucao_70-2019_-_anexo_ii.pdf",
+      "ano": 2019,
+      "norma": 896
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/resolucao_70-2019_-_anexo_iii.pdf da norma Resolução nº 70, de 27 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "JUSTIFICATIVA DE AUSÊNCIA DE REGISTRO JUNTO AO REGISTRO ELETRÔNICO DE PONTO (REP)",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2019/4/resolucao_70-2019_-_anexo_iii.pdf",
+      "ano": 2019,
+      "norma": 896
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/resolucao_70-2019_-_anexo_iv.pdf da norma Resolução nº 70, de 27 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "FOLHA INDIVIDUAL DE PONTO",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2019/5/resolucao_70-2019_-_anexo_iv.pdf",
+      "ano": 2019,
+      "norma": 896
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/resolucao_70-2019_-_anexo_v.pdf da norma Resolução nº 70, de 27 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "JUSTIFICATIVA DE AUSÊNCIA DE REGISTRO JUNTO AO REGISTRO ELETRÔNICO DE PONTO (REP) POR TRABALHO EXTERNO",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2019/7/resolucao_70-2019_-_anexo_v.pdf",
+      "ano": 2019,
+      "norma": 896
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/8/lei_2983_2016_-_anexo_i.pdf da norma Lei Ordinária nº 2.983, de 01 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "QUADRO PRÓPRIO DE CARGOS DE PROVIMENTO EFETIVO",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2016/8/lei_2983_2016_-_anexo_i.pdf",
+      "ano": 2016,
+      "norma": 486
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/9/lei_2983_2016_-_anexo_ii.pdf da norma Lei Ordinária nº 2.983, de 01 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "QUADRO PRÓPRIO DE CARGOS DE PROVIMENTO EM COMISSÃO",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2016/9/lei_2983_2016_-_anexo_ii.pdf",
+      "ano": 2016,
+      "norma": 486
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/10/lei_2983_2016_-_anexo_iii.pdf da norma Lei Ordinária nº 2.983, de 01 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "DAS DIRETORIAS, COMPETÊNCIAS E DIVISÕES",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2016/10/lei_2983_2016_-_anexo_iii.pdf",
+      "ano": 2016,
+      "norma": 486
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/11/lei_2983_2016_-_anexo_iv.pdf da norma Lei Ordinária nº 2.983, de 01 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "ESTRUTURA ORGANIZACIONAL ADMINISTRATIVA",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2016/11/lei_2983_2016_-_anexo_iv.pdf",
+      "ano": 2016,
+      "norma": 486
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/12/lei_2983_2016_-_anexo_v.pdf da norma Lei Ordinária nº 2.983, de 01 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE CARGOS EM COMISSÃO, REMUNERAÇÕES E RESPECTIVAS ATRIBUIÇÕES",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2016/12/lei_2983_2016_-_anexo_v.pdf",
+      "ano": 2016,
+      "norma": 486
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/13/lei_2983_2016_-_anexo_vi.pdf da norma Lei Ordinária nº 2.983, de 01 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE FUNÇÕES GRATIFICADA DE COORDENAÇÃO E ESPECIAL",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2016/13/lei_2983_2016_-_anexo_vi.pdf",
+      "ano": 2016,
+      "norma": 486
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/14/lei_2983-2016_compilada.pdf da norma Lei Ordinária nº 2.983, de 01 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "LEI 2983/2016 COMPILADA ATRAVÉS DO SAPL.",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2016/14/lei_2983-2016_compilada.pdf",
+      "ano": 2016,
+      "norma": 486
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/15/resolucao_79-2020_-_anexo_i.pdf da norma Resolução nº 79, de 30 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "JUSTIFICATIVA DE AUSÊNCIA AO EXPEDIENTE DE ESTÁGIO",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2020/15/resolucao_79-2020_-_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 1062
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/16/resolucao_79-2020_-_anexo_ii.pdf da norma Resolução nº 79, de 30 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "JUSTIFICATIVA DE AUSÊNCIA DE REGISTRO JUNTO AO REGISTRO ELETRÔNICO DE PONTO (REP)",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2020/16/resolucao_79-2020_-_anexo_ii.pdf",
+      "ano": 2020,
+      "norma": 1062
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/17/ato_01-2021.pdf da norma Decreto Legislativo nº 2, de 23 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "CONSIDERANDO A DECISÃO DO PODER JUDICIÁRIO DO ESTADO PR, NO PROCESSO 0005287-47.2020.8.16.0025 O DECRETO N° 02/2020 FOI TORNADO NULO ATRAVÉS DO ATO DA PRESIDÊNCIA N° 01/2021, PUBLICADO NO DIÁRIO OFICIAL DO MUNICÍPIO EM 12/05/2021 (EDIÇÃO830/2021).",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2020/17/ato_01-2021.pdf",
+      "ano": 2020,
+      "norma": 1025
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/18/processo_legislativo_n_747-2009.pdf da norma Decreto Legislativo nº 1, de 09 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "PROCESSO LEGISLATIVO N°747/2009 - PRESTAÇÃO DE CONTAS DO EXECUTIVO DO EXERCÍCIO DE 2007",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2015/18/processo_legislativo_n_747-2009.pdf",
+      "ano": 2015,
+      "norma": 1284
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/19/processo_legislativo_949-2020.pdf da norma Decreto Legislativo nº 3, de 15 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "PROCESSO N°  949/2020",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2021/19/processo_legislativo_949-2020.pdf",
+      "ano": 2021,
+      "norma": 1106
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/20/projeto_de_decreto_legislativo_03-2021.pdf da norma Decreto Legislativo nº 3, de 15 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "PROCESSO N° 906/2021",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2021/20/projeto_de_decreto_legislativo_03-2021.pdf",
+      "ano": 2021,
+      "norma": 1106
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/21/acordao_5_1.pdf da norma Resolução nº 1, de 14 de dezembro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Diante do exposto, voto no sentido de julgar procedente a presente ação direta, ao efeito de reconhecer a inconstitucionalidade do artigo 7º, parágrafo 5º, do Regimento Interno da Câmara de Vereadores de Araucária (Resolução nº 01, de 14 de dezembro",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/1993/21/acordao_5_1.pdf",
+      "ano": 1993,
+      "norma": 2
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/4.687-2025.pdf da norma Lei Ordinária nº 4.687, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Gustavo Botogoski",
+                [
+                  "2025-12-22T17:19:55-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "PRIMEIRA VERSÃO - Matéria publicada no dia 29/12/2025. Edição 1967/2025",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2025/22/4.687-2025.pdf",
+      "ano": 2025,
+      "norma": 2159
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/anexo_unico_-_pl_2.784-2025.pdf da norma Lei Ordinária nº 4.687, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Araucaria",
+                [
+                  "2026-01-28T08:46:06-03:00",
+                  "ICP-Brasil - videoconferencia"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araucaria.pr.leg.br/media/sapl/public/anexonormajuridica/2025/23/anexo_unico_-_pl_2.784-2025.pdf",
+      "ano": 2025,
+      "norma": 2159
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araucaria.pr.leg.br/9f641b1fa17baa9d78d00a4da47d0f099dfd58298fe487951445fcfd0b72829a.json",
+      "url": "https://sapl.araucaria.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ec4405cc3e67ac277df5c01db3809bc4232a3cf9f4fb14456c415f603e3b38fd",
+      "capturado_em": "2026-10-20T21:01:31.049381",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.araucaria.pr.leg.br/9f641b1fa17baa9d78d00a4da47d0f099dfd58298fe487951445fcfd0b72829a.json"
+    }
+  ]
+}

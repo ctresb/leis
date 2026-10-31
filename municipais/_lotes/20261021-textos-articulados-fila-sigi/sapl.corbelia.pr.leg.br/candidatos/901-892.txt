@@ -1,0 +1,1505 @@
+Regulamenta a Licitação, na Modalidade Pregão, na Forma Eletrônica, para a aquisição de bens e a contratação de serviços comuns, incluídos os serviços comuns de engenharia, e dispõe sobre o uso da Dispensa Eletrônica, no Âmbito da Administração Pública Direta, Autárquica e Fundacional do Município de Corbélia.
+
+
+O PREFEITO MUNICIPAL DE CORBÉLIA, Estado do Paraná, no uso das atribuições que lhe confere o Art. 61, inciso II, Art. 60, Art. 135, inciso I e III e §1º e Art. 138 da Lei Orgânica do Município DECRETA;
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+##### Seção I — Do Objeto e Âmbito de Aplicação
+
+
+Art. 1º.
+
+Este Decreto regulamenta a licitação, na modalidade de pregão, na forma eletrônica, para a aquisição de bens e a contratação de serviços comuns, incluídos os serviços comuns de engenharia, e dispõe sobre o uso da dispensa eletrônica, no âmbito da administração pública direta, autárquica e fundacional do Município de Corbélia – PR.
+
+
+§ 1º
+
+É obrigatória à utilização do pregão, na forma eletrônica, de que trata este decreto, pelos órgãos da administração pública direta, autárquica e fundacional do Município de Corbélia.
+
+
+§ 2º
+
+Excepcionalmente, mediante prévia justificativa da autoridade competente, será admitida a utilização da forma de pregão presencial nas licitações de que trata o caput nas seguintes situações:
+
+
+I –
+
+desde que fique comprovada desvantagem para a Administração na realização da forma eletrônica;
+
+
+II –
+
+nos casos em que a lei ou a regulamentação específica que dispuser sobre a modalidade de transferência discipline de forma diversa as contratações com os recursos do repasse; e
+
+
+III –
+
+nos certames com fonte exclusiva do Tesouro do Município e com valor global máximo de R$ 176.000,00 (cento e setenta e seis mil reais).
+
+
+##### Seção II — Dos Princípios Norteadores
+
+
+Art. 2º.
+
+A licitação na modalidade de pregão é condicionada aos princípios básicos da legalidade, impessoalidade, moralidade, igualdade, publicidade, eficiência, probidade administrativa, desenvolvimento sustentável, vinculação ao instrumento convocatório, julgamento objetivo, razoabilidade, competitividade, proporcionalidade, e dos que lhes são correlatos.
+
+
+Parágrafo único
+
+As normas disciplinadoras da licitação serão, sempre interpretadas em favor da ampliação da disputa entre os interessados, desde que resguardados o interesse da administração, o princípio da isonomia, a finalidade e a segurança da contratação.
+
+
+##### Seção III — Das Definições
+
+
+Art. 3º.
+
+Para fins do disposto neste Decreto, considera-se:
+
+
+I –
+
+aviso do edital - documento que contém:
+
+
+a)
+
+a definição precisa, suficiente e clara do objeto;
+
+
+b)
+
+a indicação dos locais, das datas e dos horários em que poderá ser lido ou obtido o edital;
+
+
+c)
+
+o endereço eletrônico no qual ocorrerá a sessão pública com a data e o horário de sua realização; e
+
+
+d)
+
+o endereço no qual ocorrerá a sessão pública com a data e o horário de sua realização, em se tratando de pregão presencial.
+
+
+II –
+
+bens e serviços comuns - bens cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações reconhecidas e usuais do mercado;
+
+
+III –
+
+bens e serviços especiais - bens que, por sua alta heterogeneidade ou complexidade técnica, não podem ser considerados bens e serviços comuns, nos termos do inciso II;
+
+
+IV –
+
+lances intermediários - lances iguais ou superiores ao menor já ofertado, porém inferiores ao último lance dado pelo próprio licitante;
+
+
+V –
+
+obra - construção, reforma, fabricação, recuperação ou ampliação de bem imóvel, realizada por execução direta ou indireta;
+
+
+VI –
+
+serviço - atividade ou conjunto de atividades destinadas a obter determinada utilidade, intelectual ou material, de interesse da administração pública;
+
+
+VII –
+
+serviço comum de engenharia - atividade ou conjunto de atividades que necessitam da participação e do acompanhamento de profissional engenheiro habilitado, nos termos do disposto na Lei nº 5.194, de 24 de dezembro de 1966, e cujos padrões de desempenho e qualidade possam ser objetivamente definidos pela administração pública, mediante especificações usuais de mercado;
+
+
+VIII –
+
+Cadastro de Fornecedores da Prefeitura de Corbélia - registro cadastral de pessoas físicas e jurídicas que participam de licitações e celebram contratos e atas de registro de preços com o Município de Corbélia;
+
+
+IX –
+
+Sistema de Cadastramento Unificado de Fornecedores - Sicaf - ferramenta informatizada, integrante da plataforma do Sistema Integrado de Administração de Serviços Gerais - Siasg, disponibilizada pelo Ministério da Economia, para cadastramento dos órgãos e das entidades da administração pública, das empresas públicas e dos participantes de procedimentos de licitação, dispensa ou inexigibilidade promovidos pelos órgãos e pelas entidades integrantes do Sistema de Serviços Gerais - Sisg;
+
+
+X –
+
+sistema de dispensa eletrônica - ferramenta informatizada, integrante da plataforma do Siasg, disponibilizada pelo Ministério da Economia, para a realização dos processos de contratação direta de bens e serviços comuns, incluídos os serviços comuns de engenharia;
+
+
+XI –
+
+órgão solicitante - centro de competência instituído para o desempenho da função estatal que solicita, por intermédio de sua autoridade competente, realização de certame licitatório;
+
+
+XII –
+
+autoridade competente - responsável pela licitação pública e pela celebração do futuro contrato;
+
+
+XIII –
+
+Departamento de Licitação - órgão competente para disciplinar e realizar os procedimentos licitatórios requeridos pelos órgãos solicitantes; e
+
+
+XIV –
+
+termo de referência - documento elaborado com base nos estudos técnicos preliminares, que deverá conter:
+
+
+a)
+
+os elementos que embasam a avaliação do custo pela administração pública, a partir dos padrões de desempenho e qualidade estabelecidos e das condições de entrega do objeto, com as seguintes informações:
+
+
+1
+
+a definição do objeto contratual e dos métodos para a sua execução, vedadas especificações excessivas, irrelevantes ou desnecessárias, que limitem ou frustrem a competição ou a realização do certame;
+
+
+2
+
+o valor estimado do objeto da licitação demonstrado em planilhas, de acordo com o preço de mercado; e
+
+
+3
+
+o cronograma físico-financeiro, se necessário;
+
+
+b)
+
+o critério de aceitação do objeto;
+
+
+c)
+
+os deveres do contratado e do contratante;
+
+
+d)
+
+a relação dos documentos essenciais à verificação da qualificação técnica e econômico financeira, se necessária;
+
+
+e)
+
+os procedimentos de fiscalização e gerenciamento do contrato ou da ata de registro de preços;
+
+
+f)
+
+o prazo para execução do contrato; e
+
+
+g)
+
+as sanções previstas de forma objetiva, suficiente e clara.
+
+
+§ 1º
+
+A classificação de bens e serviços como comuns depende de exame predominantemente fático e de natureza técnica.
+
+
+§ 2º
+
+Os bens e serviços que envolverem o desenvolvimento de soluções específicas de natureza intelectual, científica e técnica, caso possam ser definidos nos termos do disposto no inciso II do caput, serão licitados por pregão, na forma eletrônica.
+
+
+##### Seção IV — Das Vedações
+
+
+Art. 4º.
+
+O pregão, na forma eletrônica, não se aplica a:
+
+
+I –
+
+contratações de obras;
+
+
+II –
+
+locações imobiliárias e alienações; e
+
+
+III –
+
+bens e serviços especiais, incluídos os serviços de engenharia enquadrados no disposto no inciso III do caput do art. 3º.
+
+
+#### CAPÍTULO II — DOS PROCEDIMENTOS
+
+
+##### Seção I — Da Forma de Realização
+
+
+Art. 5º.
+
+O pregão eletrônico será realizado à distância, em sessão pública, por meio da utilização do Sistema de Compras do Governo Federal, disponível no endereço eletrônico: www.comprasgovernamentais.com.br, ou mediante sistema próprio ou outros sistemas disponíveis no mercado, conforme venha a ser designado, devendo referido sistema seja dotado dos recursos de criptografia e autenticação, que garantam as condições de segurança nas etapas do certame.
+
+
+Parágrafo único
+
+Para as licitações com utilização de recursos da União decorrentes de transferências voluntárias, tais como convênios e contratos de repasse, somente poderão ser utilizados sistemas próprios ou outros disponíveis no mercado caso estes estejam integrados à plataforma de operacionalização das modalidades de transferência voluntária, na forma do que dispõe o Decreto Federal 10.024, de 20 de setembro de 2019.
+
+
+##### Seção II — Das Etapas
+
+
+Art. 6º.
+
+A realização do pregão, na forma eletrônica, observará as seguintes etapas sucessivas:
+
+
+I –
+
+planejamento da contratação;
+
+
+II –
+
+publicação do aviso de edital;
+
+
+III –
+
+apresentação de propostas e de documentos de habilitação;
+
+
+IV –
+
+abertura da sessão pública e envio de lances, ou fase competitiva;
+
+
+V –
+
+julgamento;
+
+
+VI –
+
+habilitação;
+
+
+VII –
+
+recursal;
+
+
+VIII –
+
+adjudicação; e
+
+
+IX –
+
+homologação.
+
+
+##### Seção III — Dos Critérios de Julgamento das Propostas
+
+
+Art. 7º.
+
+Os critérios de julgamento empregados na seleção da proposta mais vantajosa para a administração serão os de menor preço ou maior desconto, conforme dispuser o edital.
+
+
+Parágrafo único
+
+Serão fixados critérios objetivos para definição do melhor preço, considerados os prazos para a execução do contrato e do fornecimento, as especificações técnicas, os parâmetros mínimos de desempenho e de qualidade, as diretrizes do plano de gestão de logística sustentável e as demais condições estabelecidas no edital.
+
+
+##### Seção IV — Da Documentação
+
+
+Art. 8º.
+
+O processo relativo ao pregão, na forma eletrônica, será instruído com os seguintes documentos, no mínimo:
+
+
+I –
+
+termo de referência;
+
+
+II –
+
+planilha estimativa de despesa;
+
+
+III –
+
+estudo técnico preliminar, quando necessário;
+
+
+IV –
+
+previsão dos recursos orçamentários necessários, com a indicação das rubricas, exceto na hipótese de pregão para registro de preços;
+
+
+V –
+
+autorização de abertura da licitação;
+
+
+VI –
+
+designação do pregoeiro e da equipe de apoio;
+
+
+VII –
+
+edital e respectivos anexos;
+
+
+VIII –
+
+minuta do termo do contrato, ou instrumento equivalente, ou minuta da ata de registro de preços, conforme o caso;
+
+
+IX –
+
+parecer jurídico;
+
+
+X –
+
+documentação exigida e apresentada para a habilitação;
+
+
+XI –
+
+proposta de preços do licitante;
+
+
+XII –
+
+ata da sessão pública, que conterá os seguintes registros, entre outros:
+
+
+a)
+
+os licitantes participantes;
+
+
+b)
+
+as propostas apresentadas;
+
+
+c)
+
+os avisos, os esclarecimentos e as impugnações;
+
+
+d)
+
+os lances ofertados, na ordem de classificação;
+
+
+e)
+
+a suspensão e o reinício da sessão, se for o caso;
+
+
+f)
+
+a aceitabilidade da proposta de preço;
+
+
+g)
+
+a habilitação;
+
+
+h)
+
+a decisão sobre o saneamento de erros ou falhas na proposta ou na documentação;
+
+
+i)
+
+os recursos interpostos, as respectivas análises e as decisões; e
+
+
+j)
+
+o resultado da licitação;
+
+
+XIII –
+
+comprovantes das publicações:
+
+
+a)
+
+do aviso do edital;
+
+
+b)
+
+do extrato do contrato;
+
+
+c)
+
+dos demais atos cuja publicidade seja exigida; e
+
+
+XIV –
+
+ato de homologação.
+
+
+§ 1º
+
+A instrução do processo licitatório poderá ser realizada por meio de sistema eletrônico, de modo que os atos e os documentos de que trata este artigo, constantes dos arquivos e registros digitais, serão válidos para todos os efeitos legais, inclusive para comprovação e prestação de contas.
+
+
+§ 2º
+
+A ata da sessão pública será disponibilizada na internet imediatamente após o seu encerramento, para acesso livre.
+
+
+#### CAPÍTULO III — DO ACESSO AO SISTEMA ELETRÔNICO
+
+
+##### Seção I — Dos Credenciamento
+
+
+Art. 9º.
+
+A autoridade competente do órgão ou da entidade promotora da licitação, o pregoeiro, os membros da equipe de apoio e os licitantes que participarem do pregão, na forma eletrônica, serão previamente credenciados, perante o provedor do sistema eletrônico.
+
+
+§ 1º
+
+O credenciamento para acesso ao sistema ocorrerá pela atribuição de chave de identificação e de senha pessoal e intransferível.
+
+
+§ 2º
+
+Caberá à autoridade competente do órgão ou da entidade promotora da licitação solicitar, junto ao provedor do sistema, o seu credenciamento, o do pregoeiro e o dos membros da equipe de apoio.
+
+
+##### Seção II — Do Licitante
+
+
+Art. 10.
+
+O credenciamento no sistema permite a participação dos interessados em qualquer pregão na forma eletrônica, exceto quando o seu cadastro tenha sido inativado ou excluído por solicitação do credenciado ou por determinação legal.
+
+
+§ 1º
+
+É de responsabilidade exclusiva do licitante qualquer transação efetuada diretamente ou por seu representante, não cabendo ao provedor do sistema a ser utilizado ou ao órgão promotor da licitação responsabilidade por eventuais danos decorrentes de uso indevido, ainda que por terceiros.
+
+
+§ 2º
+
+O credenciamento junto ao provedor do sistema implica a responsabilidade legal do licitante e a presunção de sua capacidade técnica para realização das transações inerentes ao pregão na forma eletrônica.
+
+
+#### CAPÍTULO IV — DA CONDUÇÃO DO PROCESSO
+
+
+##### Seção I — Do Órgão ou Entidade Promotora da Licitação
+
+
+Art. 11.
+
+O pregão será conduzido pelo Departamento de Licitação.
+
+
+Art. 12.
+
+Caberá ao Diretor do Departamento de Licitação ou ao Pregoeiro:
+
+
+I –
+
+exigir da Secretaria interessada, justificativa prévia para o sigilo do preço;
+
+
+II –
+
+determinar o modo de disputa; e
+
+
+III –
+
+determinar, quando for o caso, o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta.
+
+
+Art. 13.
+
+Caberá à autoridade competente do certame, de acordo com suas atribuições legais:
+
+
+I –
+
+designar o pregoeiro e a equipe de apoio;
+
+
+II –
+
+indicar o provedor do sistema;
+
+
+III –
+
+determinar a abertura do processo licitatório;
+
+
+IV –
+
+decidir os recursos contra atos do pregoeiro, quando este mantiver sua decisão;
+
+
+V –
+
+adjudicar o objeto da licitação, quando houver recurso;
+
+
+VI –
+
+homologar o resultado da licitação; e
+
+
+VII –
+
+celebrar o contrato ou assinar a ata de registro de preços.
+
+
+#### CAPÍTULO V — DA FASE PREPARATÓRIA OU PLANEJAMENTO DA CONTRATAÇÃO
+
+
+##### Seção I — Das Orientações Gerais
+
+
+Art. 14.
+
+Na fase preparatória do pregão será observado o seguinte:
+
+
+I –
+
+elaboração do estudo técnico preliminar, quando for o caso, e do termo de referência, que deverá ser aprovado pela autoridade competente ou por quem esta delegar;
+
+
+II –
+
+elaboração do edital, que estabelecerá os critérios de julgamento e a aceitação das propostas, o modo de disputa e, quando necessário, o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta;
+
+
+III –
+
+definição das exigências de habilitação, das sanções aplicáveis, dos prazos e das condições que, pelas suas particularidades, sejam consideradas relevantes para a celebração e a execução do contrato e o atendimento das necessidades da administração pública; e
+
+
+IV –
+
+designação do pregoeiro e de sua equipe de apoio.
+
+
+##### Seção II — Do Valor Estimado ou Valor Máximo Aceitável
+
+
+Art. 15.
+
+O valor estimado ou o valor máximo aceitável para a contratação deverá levar em conta o procedimento de que trata a Lei Federal nº 8.666/93, sendo que se não constar expressamente no edital, possuirá caráter sigiloso e será disponibilizado exclusiva e permanentemente aos órgãos de controle externo e interno.
+
+
+§ 1º
+
+Para fins do disposto no caput, o valor estimado ou o valor máximo aceitável para a contratação será tornado público apenas e imediatamente após o encerramento do envio de lances, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias à elaboração das propostas.
+
+
+§ 2º
+
+Nas hipóteses em que for adotado o critério de julgamento pelo maior desconto, o valor estimado, o valor máximo aceitável ou o valor de referência para aplicação do desconto constará obrigatoriamente do instrumento convocatório.
+
+
+##### Seção III — Do Pregoeiro
+
+
+Art. 16.
+
+Caberá ao pregoeiro, em especial:
+
+
+I –
+
+conduzir a sessão pública;
+
+
+II –
+
+receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos anexos, além de poder requisitar subsídios formais aos responsáveis pela elaboração desses documentos;
+
+
+III –
+
+verificar a conformidade da proposta em relação aos requisitos estabelecidos no edital;
+
+
+IV –
+
+coordenar a sessão pública e o envio de lances;
+
+
+V –
+
+verificar e julgar as condições de habilitação;
+
+
+VI –
+
+sanear erros ou falhas que não alterem a substância das propostas, dos documentos de habilitação e sua validade jurídica;
+
+
+VII –
+
+receber, examinar e decidir os recursos e encaminhá-los à autoridade competente quando mantiver sua decisão;
+
+
+VIII –
+
+indicar o vencedor do certame;
+
+
+IX –
+
+adjudicar o objeto, quando não houver recurso;
+
+
+X –
+
+conduzir os trabalhos da equipe de apoio; e
+
+
+XI –
+
+encaminhar o processo devidamente instruído à autoridade competente e propor a sua homologação.
+
+
+Parágrafo único
+
+O pregoeiro poderá solicitar manifestação técnica jurídica de integrantes da Procuradoria Geral do Município ou de outros setores do órgão ou da entidade, a fim de subsidiar sua decisão.
+
+
+##### Seção IV — Da Equipe de Apoio
+
+
+Art. 17.
+
+Caberá à equipe de apoio auxiliar o pregoeiro nas etapas do processo licitatório.
+
+
+##### Seção V — Do Licitante
+
+
+Art. 18.
+
+Caberá ao licitante interessado em participar do pregão, na forma eletrônica:
+
+
+I –
+
+credenciar-se previamente no sistema eletrônico de licitação utilizado pela Departamento de Licitação;
+
+
+II –
+
+remeter, no prazo estabelecido, exclusivamente via sistema, os documentos de habilitação e a proposta e, quando necessário, os documentos complementares;
+
+
+III –
+
+responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros;
+
+
+IV –
+
+acompanhar as operações no sistema eletrônico de licitação durante o processo licitatório e responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pelo sistema ou de sua desconexão;
+
+
+V –
+
+comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a inviabilidade do uso da senha, para imediato bloqueio de acesso;
+
+
+VI –
+
+utilizar a chave de identificação e a senha de acesso para participar do pregão na forma eletrônica; e
+
+
+VII –
+
+solicitar o cancelamento da chave de identificação ou da senha de acesso por interesse próprio;
+
+
+#### CAPÍTULO VI — DA PUBLICAÇÃO DO AVISO DO EDITAL
+
+
+##### Seção I — Da Publicação
+
+
+Art. 19.
+
+A fase externa do pregão será iniciada com a convocação dos interessados por meio da publicação do aviso do edital no Diário Oficial Eletrônico do Município de Corbélia.
+
+
+§ 1º
+
+Nas hipóteses de pregão realizado para obras e serviços comuns de engenharia, com utilização de recursos da União ou do Estado, decorrentes de transferências voluntárias, tais como convênios e contratos de repasse, além dos meios dispostos no caput, também deverá ser realizada publicação em diário oficial do respectivo ente.
+
+
+§ 2º
+
+Em se tratando de obras comuns, serviços e compras de grande vulto, aquelas cujo valor estimado seja superior a vinte e cinco vezes o limite estabelecido na alínea c, do inciso I, do art. 23 e art. 120, da Lei Federal nº 8.666/1993, além dos meios dispostos no caput, também deverá ser realizada publicação em jornal de grande circulação.
+
+
+##### Seção II — Do Edital
+
+
+Art. 20.
+
+Os editais das licitações promovidas pela Administração Direta e pela Fundação PROEM, serão disponibilizados na íntegra no Portal de Transparência do Município de Corbélia - http://controle.corbelia.pr.gov.br:10081/portaltransparencia/
+
+
+Parágrafo único
+
+Em se tratando de pregão eletrônico, os editais também deverão ser disponibilizados na íntegra no sistema eletrônico de licitação adotado pelo Município de Corbélia.
+
+
+Art. 21.
+
+Modificações no edital serão divulgadas pelo mesmo instrumento de publicação utilizado para divulgação do texto original e o prazo inicialmente estabelecido será reaberto, exceto se, inquestionavelmente, a alteração não afetar a formulação das propostas, resguardado o tratamento isonômico aos licitantes.
+
+
+##### Seção III — Dos Esclarecimentos
+
+
+Art. 22.
+
+Os pedidos de esclarecimentos referentes ao processo licitatório serão enviados ao pregoeiro, até três dias úteis anteriores à data fixada para abertura da sessão pública, exclusivamente por meio eletrônico, na forma do edital.
+
+
+§ 1º
+
+O pregoeiro responderá aos pedidos de esclarecimentos no prazo de dois dias úteis, contado da data de recebimento do pedido, e poderá requisitar subsídios formais aos responsáveis pela elaboração do edital e dos anexos.
+
+
+§ 2º
+
+O pregoeiro responderá aos pedidos de esclarecimentos no prazo de dois dias úteis, contado da data de recebimento do pedido, e poderá requisitar subsídios formais aos responsáveis pela elaboração do edital e dos anexos.
+
+
+##### Seção IV — Da Impugnação
+
+
+Art. 23.
+
+Qualquer pessoa poderá impugnar os termos do edital do pregão, por meio eletrônico, na forma prevista no edital, até três dias úteis anteriores à data fixada para abertura da sessão pública.
+
+
+§ 1º
+
+A impugnação não possui efeito suspensivo e caberá ao pregoeiro, auxiliado pelos responsáveis pela elaboração do edital e dos anexos, decidir sobre a impugnação no prazo de dois dias úteis, contado da data de recebimento da impugnação.
+
+
+§ 2º
+
+A concessão de efeito suspensivo à impugnação é medida excepcional e deverá ser motivada pelo pregoeiro, nos autos do processo de licitação.
+
+
+§ 3º
+
+Acolhida a impugnação contra o edital, será definida e publicada nova data para realização do certame.
+
+
+#### CAPÍTULO VII — DA APRESENTAÇÃO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+
+
+##### Seção I — Do Prazo
+
+
+Art. 24.
+
+O prazo fixado para a apresentação das propostas e dos documentos de habilitação, não será inferior a oito dias úteis, contado a partir da publicação do aviso.
+
+
+##### Seção II — Da Apresentação da Proposta e dos Documentos de Habilitação pelo Licitante
+
+
+Art. 25.
+
+Após a divulgação do edital nos locais designados neste Decreto, os licitantes encaminharão, exclusivamente, por meio do sistema, concomitantemente com os documentos de habilitação exigidos no edital, proposta com a descrição do objeto ofertado e o preço, até a data e o horário estabelecidos para abertura da sessão pública.
+
+
+§ 1º
+
+A etapa de que trata o caput será encerrada com a abertura da sessão pública.
+
+
+§ 2º
+
+Os licitantes poderão deixar de apresentar os documentos de habilitação que constem do Sicaf ou no Cadastro de Fornecedores do Município de Marechal Cândido Rondon, assegurado aos demais licitantes o direito de acesso aos dados constantes dos sistemas.
+
+
+§ 3º
+
+O envio da proposta, acompanhada dos documentos de habilitação exigidos no edital, nos termos do disposto no caput, ocorrerá por meio de chave de acesso e senha.
+
+
+§ 4º
+
+O licitante declarará, em campo próprio do sistema, o cumprimento dos requisitos para a habilitação e a conformidade de sua proposta com as exigências do edital.
+
+
+§ 5º
+
+A falsidade da declaração de que trata o § 4º sujeitará o licitante às sanções previstas neste Decreto.
+
+
+§ 6º
+
+Os licitantes poderão retirar ou substituir a proposta e os documentos de habilitação anteriormente inseridos no sistema, até a abertura da sessão pública.
+
+
+§ 7º
+
+Na etapa de apresentação da proposta e dos documentos de habilitação pelo licitante, observado o disposto no caput, não haverá ordem de classificação das propostas, o que ocorrerá somente após os procedimentos de que trata o Capítulo IX.
+
+
+§ 8º
+
+Os documentos que compõem a proposta e a habilitação do licitante melhor classificado somente serão disponibilizados para avaliação do pregoeiro e para acesso público após o encerramento do envio de lances.
+
+
+§ 9º
+
+Os documentos complementares à proposta e à habilitação, quando necessários à confirmação daqueles exigidos no edital e já apresentados, serão encaminhados pelo licitante melhor classificado após o encerramento do envio de lances, observado o prazo de que trata o § 2º do art. 36.
+
+
+#### CAPÍTULO VIII — ABERTURA DA SESSÃO E ENVIO DE LANCES
+
+
+##### Seção I — Do Horário de Abertura
+
+
+Art. 26.
+
+A partir do horário previsto no edital, a sessão pública na internet será aberta por comando do pregoeiro e com a utilização de sua chave de acesso e senha.
+
+
+§ 1º
+
+Os licitantes poderão participar da sessão pública na internet, devendo, para tanto, utilizar de sua chave de acesso e senha.
+
+
+§ 2º
+
+O sistema disponibilizará campo próprio para troca de mensagens entre o pregoeiro e os licitantes.
+
+
+##### Seção II — Da Conformidade das Propostas
+
+
+Art. 27.
+
+O pregoeiro verificará as propostas apresentadas, desclassificando aquelas que não estejam em conformidade com os requisitos estabelecidos no edital.
+
+
+Parágrafo único
+
+A desclassificação de proposta será sempre fundamentada e registrada no sistema, com acompanhamento em tempo real por todos os participantes.
+
+
+Art. 28.
+
+As propostas contendo a descrição do objeto, valor e eventuais anexos estarão disponíveis na internet.
+
+
+##### Seção III — Da Ordenação e Classificação das Propostas
+
+
+Art. 29.
+
+O sistema ordenará, automaticamente, as propostas classificadas pelo pregoeiro, sendo que somente estas participarão da fase de lance.
+
+
+##### Seção IV — Do Início da Fase Competitiva
+
+
+Art. 30.
+
+Classificadas as propostas, o pregoeiro dará início à fase competitiva, quando, então, os licitantes poderão encaminhar lances, exclusivamente, por meio do sistema eletrônico.
+
+
+§ 1º
+
+O licitante será imediatamente informado do recebimento do lance e do valor consignado no registro.
+
+
+§ 2º
+
+Os licitantes poderão oferecer lances sucessivos, observados o horário fixado para abertura da sessão e as regras estabelecidas no edital.
+
+
+§ 3º
+
+O licitante somente poderá oferecer valor inferior ou maior percentual de desconto ao último lance por ele ofertado e registrado pelo sistema, observado, quando houver, o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta.
+
+
+§ 4º
+
+Não serão aceitos dois ou mais lances iguais, prevalecendo aquele que for recebido e registrado primeiro.
+
+
+§ 5º
+
+Durante a sessão pública, os licitantes serão informados, em tempo real, do valor do menor lance registrado, vedada a identificação do licitante.
+
+
+##### Seção V — Dos Modos de Disputa no Pegão Eletrônico
+
+
+Art. 31.
+
+Serão adotados, para o envio de lances no pregão eletrônico, os seguintes modos de disputa:
+
+
+I –
+
+aberto - os licitantes apresentarão lances públicos e sucessivos, com prorrogações, conforme o critério de julgamento adotado no edital; ou
+
+
+II –
+
+aberto e fechado - os licitantes apresentarão lances públicos e sucessivos, com lance final e fechado, conforme o critério de julgamento adotado no edital.
+
+
+Parágrafo único
+
+No modo de disputa aberto, o edital preverá intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta.
+
+
+##### Seção VI — Do Modo de Disputa Aberto
+
+
+Art. 32.
+
+No modo de disputa aberto, de que trata o inciso I, do caput, do art. 31, a etapa de envio de lances na sessão pública durará dez minutos e, após isso, será prorrogada automaticamente pelo sistema, quando houver lance ofertado nos últimos dois minutos do período de duração da sessão pública.
+
+
+§ 1º
+
+A prorrogação automática da etapa de envio de lances, de que trata o caput, será de dois minutos e ocorrerá, sucessivamente, sempre que houver lances enviados nesse período de prorrogação, inclusive quando se tratar de lances intermediários.
+
+
+§ 2º
+
+Na hipótese de não haver novos lances na forma estabelecida no caput e no § 1º, a sessão pública será encerrada automaticamente.
+
+
+§ 3º
+
+Encerrada a sessão pública sem prorrogação automática pelo sistema, nos termos do disposto no § 1º, o pregoeiro poderá, assessorado pela equipe de apoio, admitir o reinício da etapa de envio de lances, em prol da consecução do melhor preço disposto no parágrafo único do art. 7º, mediante justificativa.
+
+
+##### Seção VII — Do Modo de Disputa Aberto e Fechado
+
+
+Art. 33.
+
+No modo de disputa aberto e fechado, de que trata o inciso II, do caput, do art. 31, a etapa de envio de lances da sessão pública terá duração de quinze minutos.
+
+
+§ 1º
+
+Encerrado o prazo previsto no caput, o sistema encaminhará o aviso de fechamento iminente dos lances e, transcorrido o período de até dez minutos, aleatoriamente determinado, a recepção de lances será automaticamente encerrada.
+
+
+§ 2º
+
+Encerrado o prazo de que trata o § 1º, o sistema abrirá a oportunidade para que o autor da oferta de valor mais baixo e os autores das ofertas com valores até dez por cento superiores àquela possam ofertar um lance final e fechado em até cinco minutos, que será sigiloso até o encerramento deste prazo.
+
+
+§ 3º
+
+Na ausência de, no mínimo, três ofertas nas condições de que trata o § 2º, os autores dos melhores lances subsequentes, na ordem de classificação, até o máximo de três, poderão oferecer um lance final e fechado em até cinco minutos, que será sigiloso até o encerramento do prazo.
+
+
+§ 4º
+
+Encerrados os prazos estabelecidos nos § 2º e § 3º, o sistema ordenará os lances em ordem crescente de vantajosidade.
+
+
+§ 5º
+
+Na ausência de lance final e fechado classificado nos termos dos § 2º e § 3º, haverá o reinício da etapa fechada para que os demais licitantes, até o máximo de três, na ordem de classificação, possam ofertar um lance final e fechado em até cinco minutos, que será sigiloso até o encerramento deste prazo, observado, após esta etapa, o disposto no § 4º.
+
+
+§ 6º
+
+Na hipótese de não haver licitante classificado na etapa de lance fechado que atenda às exigências para habilitação, o pregoeiro poderá, auxiliado pela equipe de apoio, mediante justificativa, admitir o reinício da etapa fechada, nos termos do disposto no § 5º.
+
+
+##### Seção VIII — Da Desconexão do Sistema na Etapa de Lances no Pregão Eletrônico
+
+
+Art. 34.
+
+Na hipótese de o sistema eletrônico desconectar, para o pregoeiro, no decorrer da etapa de envio de lances da sessão pública e permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados.
+
+
+Art. 35.
+
+Quando a desconexão do sistema eletrônico, para o pregoeiro, persistir por tempo superior a dez minutos, a sessão pública será suspensa e reiniciada somente decorridas vinte e quatro horas após a comunicação do fato aos participantes, no sítio eletrônico utilizado para divulgação.
+
+
+#### CAPÍTULO IX — JULGAMENTO
+
+
+##### Seção I — Da Negociação da Proposta
+
+
+Art. 36.
+
+Encerrada a etapa de lances da sessão pública, o pregoeiro poderá encaminhar, pelo sistema eletrônico, contraproposta ao licitante que tenha apresentado o melhor preço, para que seja obtida melhor proposta, vedada a negociação em condições diferentes das previstas no edital.
+
+
+§ 1º
+
+A negociação será realizada por meio do sistema e poderá ser acompanhada pelos demais licitantes.
+
+
+§ 2º
+
+O instrumento convocatório deverá estabelecer prazo de, no mínimo, uma hora, contado da solicitação do pregoeiro no sistema, para envio da proposta e, se necessário, dos documentos complementares, adequada ao último lance ofertado após a negociação de que trata o caput.
+
+
+##### Seção II — Do Julgamento da Proposta
+
+
+Art. 37.
+
+Encerrada a etapa de negociação de que trata o art. 36, o pregoeiro examinará a proposta classificada em primeiro lugar quanto à adequação ao objeto e à compatibilidade do preço em relação ao máximo estipulado para contratação no edital, observado o disposto no parágrafo único do art. 7º, § 9º do art. 25, e verificará a habilitação do licitante conforme disposições do edital, observado o disposto no Capítulo X.
+
+
+#### CAPÍTULO X — HABILITAÇÃO
+
+
+##### Seção I — Da Documentação Obrigatória
+
+
+Art. 38.
+
+Para habilitação dos licitantes, será exigida, exclusivamente, a documentação relativa:
+
+
+I –
+
+à habilitação jurídica;
+
+
+II –
+
+à qualificação técnica;
+
+
+III –
+
+à qualificação econômico-financeira;
+
+
+IV –
+
+à regularidade fiscal Federal, Fundo de Garantia por Tempo de Serviço (FGTS) e trabalhista;
+
+
+V –
+
+à regularidade fiscal perante as Fazendas Estaduais, Distrital e Municipais, conforme for o caso;
+
+
+VI –
+
+ao cumprimento do disposto no inciso XXXIII, do art. 7º, da Constituição e no inciso XVIII, do art. 78, da Lei nº 8.666, de 1993.
+
+
+Parágrafo único
+
+A documentação exigida para atender ao disposto nos incisos I, III, IV e V, do caput, poderá ser substituída pelo registro cadastral no Sicaf e/ou Cadastro de Fornecedores do Município de Corbélia.
+
+
+Art. 39.
+
+Quando permitida a participação de empresas estrangeiras na licitação, as exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados com tradução livre.
+
+
+Parágrafo único
+
+Na hipótese de o licitante vencedor ser estrangeiro, para fins de assinatura do contrato ou da ata de registro de preços, os documentos de que trata o caput, serão traduzidos por tradutor juramentado no País e apostilados nos termos do disposto no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas.
+
+
+Art. 40.
+
+Quando permitida a participação de consórcio de empresas, serão exigidos:
+
+
+I –
+
+a comprovação da existência de compromisso público ou particular de constituição de consórcio, com indicação da empresa líder, que atenderá às condições de liderança estabelecidas no edital e representará as consorciadas perante o Município;
+
+
+II –
+
+a apresentação da documentação de habilitação especificada no edital por empresa consorciada;
+
+
+III –
+
+a comprovação da capacidade técnica do consórcio pelo somatório dos quantitativos de cada empresa consorciada, na forma estabelecida no edital;
+
+
+IV –
+
+a demonstração, por cada empresa consorciada, do atendimento aos índices contábeis definidos no edital, para fins de qualificação econômico-financeira;
+
+
+V –
+
+a responsabilidade solidária das empresas consorciadas pelas obrigações do consórcio, nas etapas da licitação e durante a vigência do contrato;
+
+
+VI –
+
+a obrigatoriedade de liderança por empresa brasileira no consórcio formado por empresas brasileiras e estrangeiras, observado o disposto no inciso I; e
+
+
+VII –
+
+a constituição e o registro do consórcio antes da celebração do contrato.
+
+
+Parágrafo único
+
+Fica vedada a participação de empresa consorciada, na mesma licitação, por meio de mais de um consórcio ou isoladamente.
+
+
+##### Seção II — Dos Procedimentos de Verificação
+
+
+Art. 41.
+
+A habilitação dos licitantes será verificada por meio do Sicaf e/ou Cadastro de Fornecedores do Município de Corbélia, nos documentos por ele abrangidos.
+
+
+§ 1º
+
+Os documentos exigidos para habilitação que não estejam contemplados no Sicaf e/ou Cadastro de Fornecedores, serão enviados nos termos do disposto nos arts. 25.
+
+
+§ 2º
+
+Na hipótese de necessidade de envio de documentos complementares após o julgamento da proposta, os documentos deverão ser apresentados em formato digital, via sistema, no prazo definido no edital, após solicitação do pregoeiro no sistema eletrônico, observado o prazo disposto no § 2.º do art. 37.
+
+
+§ 3º
+
+A verificação pelo órgão ou entidade promotora do certame nos sítios eletrônicos oficiais de órgãos e entidades emissores de certidões constitui meio legal de prova, para fins de habilitação.
+
+
+§ 4º
+
+Na hipótese de a proposta vencedora não for aceitável ou o licitante não atender às exigências para habilitação, o pregoeiro examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até a apuração de uma proposta que atenda ao edital.
+
+
+§ 5º
+
+Na hipótese de contratação de serviços comuns em que a legislação ou o edital exija apresentação de planilha de composição de preços, esta deverá ser encaminhada exclusivamente via sistema no prazo fixado no edital, com os respectivos valores readequados ao lance vencedor.
+
+
+§ 6º
+
+No pregão realizado para o sistema de registro de preços, quando a proposta do licitante vencedor não atender ao quantitativo total estimado para a contratação, poderá ser convocada a quantidade de licitantes necessária para alcançar o total estimado, respeitada a ordem de classificação, observado o preço da proposta vencedora, precedida de posterior habilitação, nos termos do disposto no Capítulo X.
+
+
+§ 7º
+
+A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte será exigida nos termos de regulamento específico do disposto no art. 4º, do Decreto Federal nº 8.538, de 06 de outubro de 2015, enquanto não houver regulamento específico do Município de Corbélia.
+
+
+§ 8º
+
+Constatado o atendimento às exigências estabelecidas no edital, o licitante será declarado vencedor.
+
+
+#### CAPÍTULO XI — RECURSO
+
+
+##### Seção I — Da Intenção de Recorrer e Prazo para Recurso
+
+
+Art. 42.
+
+Declarado o vencedor, qualquer licitante poderá, durante o prazo concedido na sessão pública, de forma imediata, em campo próprio do sistema, manifestar sua intenção de recorrer.
+
+
+§ 1º
+
+As razões do recurso de que trata o caput, deverão ser apresentadas no prazo de três dias.
+
+
+§ 2º
+
+Os demais licitantes ficarão intimados para, se desejarem, apresentar suas contrarrazões, no prazo de três dias, contado da data final do prazo do recorrente, assegurada vista imediata dos elementos indispensáveis à defesa dos seus interesses.
+
+
+§ 3º
+
+A ausência de manifestação imediata e motivada do licitante quanto à intenção de recorrer, nos termos do disposto no caput, importará na decadência desse direito, e o pregoeiro estará autorizado a adjudicar o objeto ao licitante declarado vencedor.
+
+
+§ 4º
+
+O acolhimento do recurso importará na invalidação apenas dos atos que não podem ser aproveitados.
+
+
+#### CAPÍTULO XII — ADJUDICAÇÃO E HOMOLOGAÇÃO
+
+
+Art. 43.
+
+Decididos os recursos e constatada a regularidade dos atos praticados, a autoridade competente adjudicará o objeto e homologará o procedimento licitatório, nos termos do disposto no inciso V e VI do art. 13.
+
+
+Art. 44.
+
+Na ausência de recurso, caberá ao pregoeiro adjudicar o objeto e encaminhar o processo devidamente instruído à autoridade superior e propor a homologação, nos termos do disposto nos incisos IX e XI do art. 16.
+
+
+#### CAPÍTULO XIII — SANEAMENTO DA PROPOSTA E DA HABILITAÇÃO
+
+
+##### Seção I — Dos Erros ou Falhas
+
+
+Art. 45.
+
+O pregoeiro poderá, no julgamento da habilitação e das propostas, sanar erros ou falhas que não alterem a substância das propostas, dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e acessível aos licitantes, e lhes atribuirá validade e eficácia para fins de habilitação e classificação.
+
+
+Parágrafo único
+
+Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, com vistas ao saneamento de que trata o caput, a sessão pública somente poderá ser reiniciada mediante aviso prévio no sistema com, no mínimo, vinte e quatro horas de antecedência, e a ocorrência será registrada em ata.
+
+
+#### CAPÍTULO XIV — CONTRATAÇÃO
+
+
+##### Seção I — Da Assinatura do Contrato ou da Ata de Registro de Preços
+
+
+Art. 46.
+
+Após a homologação, o adjudicatário será convocado para assinar o contrato ou a ata de registro de preços no prazo estabelecido no edital.
+
+
+§ 1º
+
+Na assinatura do contrato ou da ata de registro de preços, será exigida a comprovação das condições de habilitação consignadas no edital, que deverão ser mantidas pelo licitante durante a vigência do contrato ou da ata de registro de preços.
+
+
+§ 2º
+
+Na hipótese de o vencedor da licitação não comprovar as condições de habilitação consignadas no edital ou se recusar a assinar o contrato ou a ata de registro de preços, outro licitante poderá ser convocado, respeitada a ordem de classificação, para, após a comprovação dos requisitos para habilitação, analisada a proposta e eventuais documentos complementares e, feita a negociação, assinar o contrato ou a ata de registro de preços, sem prejuízo da aplicação das sanções de que trata o art. 47.
+
+
+§ 3º
+
+O prazo de validade das propostas será de noventa dias, permitida a fixação de prazo diverso no edital.
+
+
+#### CAPÍTULO XV — SANÇÃO
+
+
+##### Seção I — Dos Impedimento de Licitar e Contratar
+
+
+Art. 47.
+
+Ficará impedido de licitar e de contratar com a Administração Direta, Autárquica e Fundamental do Município de Corbélia e será descredenciado no Cadastro de Fornecedores do Município de Corbélia, pelo prazo de até cinco anos, sem prejuízo das multas previstas em edital e no contrato e das demais cominações legais, garantido o direito à ampla defesa, o licitante que, convocado dentro do prazo de validade de sua proposta:
+
+
+I –
+
+não assinar o contrato ou a ata de registro de preços;
+
+
+II –
+
+não entregar a documentação exigida no edital;
+
+
+III –
+
+apresentar documentação falsa;
+
+
+IV –
+
+causar o atraso na execução do objeto;
+
+
+V –
+
+não mantiver a proposta;
+
+
+VI –
+
+falhar na execução do contrato;
+
+
+VII –
+
+fraudar a execução do contrato;
+
+
+VIII –
+
+comportar-se de modo inidôneo;
+
+
+IX –
+
+declarar informações falsas; e
+
+
+X –
+
+cometer fraude fiscal.
+
+
+§ 1º
+
+As sanções descritas no caput também se aplicam aos integrantes do cadastro de reserva, em pregão para registro de preços que, convocados, não honrarem o compromisso assumido sem justificativa ou com justificativa recusada pela administração pública;
+
+
+§ 2º
+
+As sanções serão registradas e publicadas no Sicaf e no Cadastro de Fornecedores do Município de Corbélia.
+
+
+#### CAPÍTULO XVI — REVOGAÇÃO E ANULAÇÃO
+
+
+Art. 48.
+
+A autoridade competente para homologar o procedimento licitatório de que trata este Decreto poderá revogá-lo somente em razão do interesse público, por motivo de fato superveniente devidamente comprovado, pertinente e suficiente para justificar a revogação, e deverá anulá-lo por ilegalidade, de ofício ou por provocação de qualquer pessoa, por meio de ato escrito e fundamentado.
+
+
+Parágrafo único
+
+Os licitantes não terão direito à indenização em decorrência da anulação do procedimento licitatório, ressalvado o direito do contratado de boa-fé ao ressarcimento dos encargos que tiver suportado no cumprimento do contrato.
+
+
+#### CAPÍTULO XVII — DO SISTEMA DE DISPENSA ELETRÔNICA
+
+
+##### Seção I — Da Aplicação
+
+
+Art. 49.
+
+As unidades gestoras da Administração Direta, Autárquica e Fundacional do Município de Corbélia adotarão o sistema de dispensa eletrônica, nas seguintes hipóteses:
+
+
+I –
+
+contratação de serviços comuns de engenharia, nos termos do disposto no inciso I, do caput, do art. 24, da Lei nº 8.666, de 1993;
+
+
+II –
+
+aquisição de bens e contratação de serviços comuns, nos termos do disposto no inciso II, do caput, do art. 24, da Lei nº 8.666, de 1993; e
+
+
+III –
+
+aquisição de bens e contratação de serviços comuns, incluídos os serviços comuns de engenharia, nos termos do disposto no inciso III e seguintes do caput, do art. 24, da Lei nº 8.666, de 1993, quando cabível.
+
+
+§ 1º
+
+Ato do Secretário Municipal de Administração regulamentará o funcionamento do sistema de dispensa eletrônica.
+
+
+§ 2º
+
+A obrigatoriedade da utilização do sistema de dispensa eletrônica ocorrerá a partir da data de publicação do ato de que trata o § 1º
+
+
+§ 3º
+
+Fica vedada a utilização do sistema de dispensa eletrônica nas hipóteses de que trata o art. 4º
+
+
+#### CAPÍTULO XVIII — DISPOSIÇÕES FINAIS
+
+
+##### Seção I — Das Orientações Gerais
+
+
+Art. 50.
+
+Os horários estabelecidos no edital, no aviso e durante a sessão pública observarão o horário de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no sistema eletrônico e na documentação relativa ao certame.
+
+
+Art. 51.
+
+Os participantes de licitação na modalidade de pregão têm direito público subjetivo à fiel observância do procedimento estabelecido neste Decreto e qualquer interessado poderá acompanhar o seu desenvolvimento em tempo real, por meio da internet.
+
+
+Art. 52.
+
+As propostas que contenham a descrição do objeto, o valor e os documentos complementares estarão disponíveis na internet, após a homologação.
+
+
+Art. 53.
+
+Os arquivos e os registros digitais relativos ao processo licitatório permanecerão à disposição dos órgãos de controle interno e externo.
+
+
+Art. 54.
+
+O Secretário Municipal da Fazenda e Coordenação Geral poderá editar normas complementares ao disposto neste Decreto e disponibilizar informações adicionais.
+
+
+Art. 55.
+
+Este Decreto tem seus efeitos retroativos a 07 de maio de 2020, ficando revogadas as disposições em contrário.
+
+
+**Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná**
+
+Em 07 de maio de 2020, 59º da Emancipação Política.
+
+**GIOVANI MIGUEL WOLF HNATUW**
+
+Prefeito Municipal  
+  
+Não substitui o texto publicado no DOE 1201 de 10/12/2020, pág. 12-38.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/901/ta

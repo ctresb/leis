@@ -1,0 +1,42 @@
+{
+  "host": "sapl.carangola.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carangola.mg.leg.br/87a08bb03596a9beb8079631312238cbac4a920489e36e6dd712f24ef0e96177.json",
+    "url": "https://sapl.carangola.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.carangola.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:32:35.391222-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carangola.mg.leg.br/582ca34592bafbd464428d3bf2a4d6fa12598ba66fbff7b289aa02e407916c3d.json",
+    "url": "https://sapl.carangola.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.carangola.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9906ed27665539d782fb506f97f8f5640c42d20d3b8751913eeb72933c2c4181",
+    "bytes": 750,
+    "capturado_em": "2026-10-27T22:32:34.469674-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carangola.mg.leg.br/573a5fd6d7b3f2a6d9f9190a3a8a8dacc017c74355ceff2fb271d691ab9eefbe.json",
+      "url": "https://sapl.carangola.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.carangola.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:32:37.389737-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

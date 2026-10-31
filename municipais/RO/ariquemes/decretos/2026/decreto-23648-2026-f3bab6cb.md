@@ -1,0 +1,65 @@
+---
+titulo: "DECRETO Nº 23.648, DE 31 DE MARÇO DE 2026. DISPÕE"
+uf: "RO"
+municipio: "ARIQUEMES"
+tipo: "Decreto"
+numero: "23648"
+data: 2026-03-31
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 02/04/2026"
+data_publicacao: 2026-04-02
+codigo_identificador: "F3BAB6CB"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116036_2026-04-01_1478135f01abc7ca97b65120398f6c50.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 23.648, DE 31 DE MARÇO DE 2026. DISPÕE
+
+DECRETO Nº 23.648, DE 31 DE MARÇO DE 2026. DISPÕE
+SOBRE A EXONERAÇÃO DA SERVIDORA PÚBLICA
+MUNICIPAL LARRÚBIA DAVIANE HUPPERS
+DECRETO Nº 23.648,DE 31DE MARÇODE 2026.
+DISPÕE
+SOBRE
+A
+EXONERAÇÃO
+DASERVIDORA
+PÚBLICA
+MUNICIPAL
+LARRÚBIA DAVIANE HUPPERS
+APrefeitaMunicipal de Ariquemes, Estado de Rondônia, no
+exercício de suas atribuições legais;
+ConsiderandooMemorando 503 de 31/03/2026 (ID 3891200),advindo
+daSecretaria Municipal de Governo de Ariquemes;
+DECRETA:
+Art. 1ºFica exonerada a Servidora Pública MunicipalLarrúbia
+Daviane Huppers,docargo deGerente de Redação de Controle de
+Normas e Atos Oficiais, CDS-5A, lotada naProcuradoria Geral do
+Município de Ariquemes.
+Art. 2ºEste Decreto entra em vigor na data de sua publicação, com
+efeitos a partir de 1º de abril de 2026.
+Ariquemes/RO, no Centro Administrativo, em 31 de março de 2026,
+138º da República.
+
+Art. 1ºFica nomeada a Servidora Pública Municipal Aloine De Jesus
+Siqueira,aocargo de Assistente de Procuradoria, CDS-05A, lotada
+naProcuradoria-Geral do Município de Ariquemes.
+Art. 2ºEste Decreto entra em vigor na data de sua publicação, com
+efeitos a partir de 1º de abril de 2026.
+Ariquemes/RO, no Centro Administrativo, em 31 de março de 2026,
+138º da República.
+CARLA GONÇALVES REZENDE
+Prefeita do Município de Ariquemes/RO
+Documento assinado eletronicamente (ICP-BR) porCARLA
+GONCALVES
+REZENDE,PREFEITA
+MUNICIPAL,
+em
+01/04/2026 às 11:31, horário de Ariquemes/RO, com fulcro no art. 18
+doDecreto nº 16.426 de 16/04/2020.
+A autenticidade deste documento pode ser conferida no
+sitetransparencia.ariquemes.ro.gov.br, informando o ID3890119e o
+código verificador7788B07F.
+Publicado por:
+Bruno de Luca Soares Vieira

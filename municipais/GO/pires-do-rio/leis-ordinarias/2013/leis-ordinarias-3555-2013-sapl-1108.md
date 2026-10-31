@@ -1,0 +1,163 @@
+---
+titulo: "Lei Ordinária nº 3.555, de 07 de novembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3555"
+data: "2013-11-07"
+municipio: "Pires do Rio"
+uf: "GO"
+codigo_ibge: "5217401"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.piresdorio.go.leg.br/norma/1108"
+fonte_texto: "https://sapl.piresdorio.go.leg.br/media/sapl/public/normajuridica/2013/1108/lei_no_3.555_de__2013.pdf"
+sha256_fonte: "5c7f69ce74ca5887e45fa7b463826a96f4ff469439fda88d5b5036d956b56a99"
+sha256_texto: "5af43085c57475be8564cc10aee2293d1981f752317d410009c8c6d34e68b695"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 3.555, de 07 de novembro de 2013
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PODER LEGISLATIVO Câmara Municipal de Pires do Rio Entrada:\_ PREFEITURA MUNICIPAL DE PIRES DO RIO egistro n°\_
+
+23 / 12 PRAÇA FRANCISCO FELIPE MACHADO N° 37 - dENTe nário. 12013 1021/13₽
+
+JDO P
+
+LEI Nº 3.555/2013, DE 07 DE NOVEMBRO 2013. "Autoriza a abertura de crédito adicional de natureza suplementar ao orçamento de 2013, na forma que especifica e dá outras providênciasiạiại O PREFEITO MUNICIPAL DE PIRES DO RIO, ESTADO DE GOIÁS, Faço saber que a Câmara Municipal aprovou e eu promulgo a seguinte lei:
+
+**Art. 1°** - Fica o Chefe do Poder Executivo Municipal autorizado a abrir, nos termos do art. 40, 41, inciso l, art. 42, 43, da Lei Federal n°. 4.320/64, Crédito Adicional de Natureza Suplementar, na contadoria do Município, no decorrer da execução orçamentária do exercício de 2013 no valor de R$ 2.047.465,00 (dois milhões e quarenta e sete mil e quatrocentos e sessenta e cinco reais), visando atender a ação abaixo discriminada, inclusive incorporando-a no respectivo orçamento em execução, segundo a nova Classificação Funcional Programática estabelecida pela legislação vigente". ORGÃO: 01 PODER EXECUTIVO DOTAÇÃO ORÇAMENTÁRIA VALOR FICHA
+
+02.0221.04.122.0052.2107.319009
+
+20130044 310.000,00
+
+20130045 02.0221.04.122.0052.2107.319011 11.000,00 02.0221.04.122.0052.2107.339030
+
+20130048
+
+20130050 02.0221.04.122.0052.2107.339039 02.0221.04.122.0052.2108.339039 12.000,00
+
+20130055 15.000,00
+
+20130065 02.0221.04.123.0054.2111.319034 20.000,00 02.0221.04.123.0054.2111.339039
+
+20130068 20130089
+
+02.0222.12.361.1420.2142.339039
+
+82.000,00
+
+20130103 02.0222.12.361.1420.2149.319011
+
+02.0222.12.361.1420.2149.339039 20130108 20130137 55.000,00
+
+02.0222.12.365.1420.2148.319011
+
+02.0222.12.365.1420.2148.339039 5.700,00 20130141 405,00
+
+20130174 02.0222.27.812.1721.2154.339030
+
+TUDO PELA PÁTRIA 02.0222.27.812.1721.2154.339039 20130176
+
+770,00 20130225 02.0223.15.451.1442.2172.339039
+
+24.000,00 20130272 02.0223.26.782.1451.2178.339039
+
+6.000,0łął 02.0225.18.541.1440.2179.319011 20130283
+
+8.000,00 20130323 02.0225.20.606.1450.2193.319011
+
+37.000,00
+
+622.775,00
+
+ORGÃO: 02 FUNDEB 20130360
+
+04.0417.12.361.1420.2218.319009 1.000,00
+
+20130361 04.0417.12.361.1420.2218.319011 50.000,00 20130370
+
+10.000,00 04.0417.12.361.1420.2219.319011
+
+61.000,00 ORGÃO: 05 FUNDO MUNICIPAL DE SAUDE 05.0501.10.301.1460.1140.449052 20130376
+
+450,00
+
+05.0501.10.301.1460.2197.339030 4.200,00 20130387 20130388 2.500,00
+
+05.0501.10.301.1460.2201.339030 05.0501.10.301.1460.2207.319011 71.000,00
+
+20130396
+
+170,00 05.0501.10.301.1460.2207.339039 20130403 75.000,00
+
+20130406 05.0501.10.301.1460.2207.319011 9.000,00
+
+05.0501.10.301.1460.2213.319009 20130437
+
+378.000,00 20130439 05.0501.10.301.1460.2213.319011 22.000,00
+
+20130444 05.0501.10.301.1460.2213.339030
+
+05.0501.10.301.1460.2213.339030 20130445
+
+6.800,00 05.0501.10.301.1460.2213.339039 20130448
+
+6.100,00 20130449 05.0501.10.301.1460.2213.339039
+
+3.500,00 05.0501.10.302.1460.2200.339030 20130463 510.000,00 05.0501.10.302.1460.2209.319011
+
+20130480 7.500,00
+
+05.0501.10.302.1460.2209.339030 20130482 20130483 3.600,00 05.0501.10.302.1460.2209.339030
+
+05.0501.10.302.1460.2209.339039 5.200,00 20130486 20130496 36.000,00
+
+05.0501.10.302.1460.2215.319011
+
+170,00 20130500 05.0501.10.302.1460.2215.339030 05.0501.10.302.1460.2215.339039
+
+200,00 20130503
+
+78.000,00 20130509 05.0501.10.304.1460.2205.319011 76.000,00
+
+20130520 05.0501.10.305.1460.2198.319011 1.325.390,00
+
+A PÁTRIA TUDO ORGÃO: 07 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL 07.0701.08.241.1405.2131.339039 20130549
+
+20130561 07.0701.08.243.1408.2137.319011 17.000,00
+
+20130565 07.0701.08.243.1408.2137.339030
+
+1.300,00 07.0701.08.243.1408.2137.339039
+
+20130568
+
+20130572
+
+07.0701.08.244.0052.2127.319009 20130575 07.0701.08.244.0052.2127.339030
+
+7.000,00 20130576
+
+07.0701.08.244.0052.2127.339030
+
+6.000,00 20130581 07.0701.08.244.0052.2127.339039
+
+07.0701.08.244.1160.2116.339039 20130592
+
+20130626 100,00
+
+07.0701.08.244.1404.2129.339039
+
+38.300,00
+
+2.047.465,00ł TOTAL GERAL
+
+**Art. 2°** - Para cobertura dos créditos abertos no artigo anterior será usado:
+
+a) de excesso de arrecadação de receitas diretamente (2.047.465,00) arrecadadas
+
+**Art. 3º** - Revogadas as disposições em contrário, esta lei entra em vigor na data de sua publicação, retroagindo seus efeitos a partir de 1º de setembro de 2013. Gabinete do Prefeito Municipal de Pires do Rio-Go., em 07 de novembro de 2013. RUIMAR DE ALMEIDA Prefeito Municipal ROBERTO CORRALES Regietrada digitalmente Secretário de Governo, Administração e Finanças. em 07/ 11/13. Mrs/esl. Fale
+

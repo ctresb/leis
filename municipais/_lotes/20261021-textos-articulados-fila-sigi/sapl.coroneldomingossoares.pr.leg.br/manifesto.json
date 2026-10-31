@@ -1,0 +1,42 @@
+{
+  "host": "sapl.coroneldomingossoares.pr.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coroneldomingossoares.pr.leg.br/820fb5770210bc4c6c0907a312be53d4ed30a7fc29785dc239fa3773178ee6c3.json",
+    "url": "https://sapl.coroneldomingossoares.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.coroneldomingossoares.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:21:46.390749-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coroneldomingossoares.pr.leg.br/734b12d9b8ada08930f3784dcb446bae8b62249fb5484dd9a6856dfefca72bf0.json",
+    "url": "https://sapl.coroneldomingossoares.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.coroneldomingossoares.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2fcdfcfa546a5c85d63ca40e12bab58a366ff48e298563b3c9b8c68af08aad68",
+    "bytes": 795,
+    "capturado_em": "2026-10-28T09:21:45.586579-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coroneldomingossoares.pr.leg.br/33e81eb4ce4f0ca8c3def26bfe54d7698ebbbf0501be2d7c8cb34fb96d705886.json",
+      "url": "https://sapl.coroneldomingossoares.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.coroneldomingossoares.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e7cffdd37eb50985a6540c5323a718cdc2e1cf08d40003ee5f6a763d8bb73547",
+      "bytes": 635,
+      "capturado_em": "2026-10-28T09:21:48.449607-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

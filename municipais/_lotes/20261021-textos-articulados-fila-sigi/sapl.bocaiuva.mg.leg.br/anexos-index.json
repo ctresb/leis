@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/1/lom.pdf da norma Lei Orgânica nº 1, de 10 de outubro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bocaiuva.mg.leg.br/media/sapl/public/anexonormajuridica/2007/1/lom.pdf",
+      "ano": 2007,
+      "norma": 1
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/2/regimentointerno.pdf da norma Regimento Interno nº 1, de 10 de outubro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bocaiuva.mg.leg.br/media/sapl/public/anexonormajuridica/2007/2/regimentointerno.pdf",
+      "ano": 2007,
+      "norma": 2
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bocaiuva.mg.leg.br/c2d1dabeb774f450db78430e0849b5d64cd1b1a31e0ff6c1a45a6e426b37cdc2.json",
+      "url": "https://sapl.bocaiuva.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bocaiuva.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a15fef5bc00c540ef3c28b54a11d93502a004f01d49e87486abccfc8da1b7310",
+      "bytes": 891,
+      "capturado_em": "2026-10-27T19:07:50.222444-03:00"
+    }
+  ]
+}

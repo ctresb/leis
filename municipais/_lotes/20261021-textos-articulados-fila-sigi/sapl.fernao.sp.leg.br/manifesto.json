@@ -1,0 +1,172 @@
+{
+  "host": "sapl.fernao.sp.leg.br",
+  "metadados_unicos_observados": 1308,
+  "total_api_declarado": 1308,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1138,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/9d674b09786f5b7c3d7a1b6a853c4bfa5eb27c6c88dbfccaa103659d755fb954.json",
+    "url": "https://sapl.fernao.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8891bb3818e8d804cf6487b3644c720921305609069d62b6e5ceeef479ff9613",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:33:41.939863-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/acad9916d6ba487dd17296f0d2255e1acff26c45eec5a8c2fa09e8ef40714033.json",
+    "url": "https://sapl.fernao.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.fernao.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "cc4a17c3e2c762d8d1dbc5178aacb88d284aff3cf1880978cec45be5d1edf450",
+    "bytes": 731,
+    "capturado_em": "2026-10-28T10:33:41.034129-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/163b0ac575a89304c4561782dcab1c367aa141efc6be0f7c7af8afcb7d2187bc.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ffe0261f0a9ba569225b9c13f8370ee2c6823ff7a38e925a63a6c8cdc1a63452",
+      "bytes": 58544,
+      "capturado_em": "2026-10-28T10:33:51.426049-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/9e2d03769cccbd200f1632541e0f56d5ed638b942841d7ea9d485546155d523b.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "69c7ebeec2bb47d9338d0675dfc59ec85f5ad7da1f5a137ef3a2e341405a977d",
+      "bytes": 58560,
+      "capturado_em": "2026-10-28T10:37:00.909002-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/083e893ac64f108235445972b8a4b483a510e1c3909352425832c5267bd192c7.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5eb0fca84e795d79c82aceedd71708bc14a5a1d5e3ee010cf1e6103ca12bd3f6",
+      "bytes": 59652,
+      "capturado_em": "2026-10-28T10:40:04.414955-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/5b863b162220a5b0c557a37b2f8cea8cbdaae69425c2448befb5276f6d9984a1.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9bf002fc55dbea4dcee8250e8779e8b9110dd1b35320c4ef350eeaa8f1239545",
+      "bytes": 62312,
+      "capturado_em": "2026-10-28T10:42:59.386183-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/89e9ef250d4ab683b2decfabd8e3c44bf1b2451ed6242f667e3839d20be18686.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "384358b4d35ef69d047191d7243e5e9154507d96c1b387a40167ae177d8e33d5",
+      "bytes": 63870,
+      "capturado_em": "2026-10-28T10:45:42.202812-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/fd44b635e830e5b3605b743d812c3427321ec52ce467174f67b6566596a78356.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "021ec8eb6a84acd86594a36f1bfbb1d3899d93df549f9785030a29a874a01973",
+      "bytes": 64506,
+      "capturado_em": "2026-10-28T10:48:37.539623-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/1906b88b768545278310c49baec816fdcffab6ab686ee8469f5ea48ad80fecf7.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "84e7515192b2e5c720babcdd7b9f84becae1526d5f98cb12686f906dd9aaedc2",
+      "bytes": 62165,
+      "capturado_em": "2026-10-28T10:51:29.094993-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/016e1f87991f11b528400d6b9debb5ac10f5d01dacd0e4cd944ff8306ef4ea1e.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "af4dcd2779bf58348920679d8a966d28b92b8f940e466d2447184b1dfa4f2219",
+      "bytes": 65238,
+      "capturado_em": "2026-10-28T10:54:34.892532-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/a9869a1158bae762144434252d7e03cad9382b8be8061b66ed900290ebc174e8.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "657cd0f210d44f1fc81dac887600a7ef3b76b42241346030bf4cfb3a275dbe38",
+      "bytes": 66382,
+      "capturado_em": "2026-10-28T10:57:23.999114-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/b532b7ab8561225908d76bbbb96ce7c96cd99d0f781265a53eba95f5c88e007f.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d54878cf9b616495600d86a09a22bb2a35f105308ec9512b9c6a0b9b08103fc3",
+      "bytes": 61640,
+      "capturado_em": "2026-10-28T11:00:08.467592-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/8d93092ee00b3bf5be81188402ec26918a0a94aacf8d1f4770cc99cf3d35e435.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "08c3be60513124bd0751cfcc465fa75416d39eef85ef3bb5257797b7c3b0ceaa",
+      "bytes": 61390,
+      "capturado_em": "2026-10-28T11:03:02.190739-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/21d66d82ba5f36bef9f11d183de3b2fc2f32d33b6bc32097e3950119662eabc0.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "003a0f3d456c648c09670b3bbfb7776e550ece7dd020d7338f22566541ed901a",
+      "bytes": 61427,
+      "capturado_em": "2026-10-28T11:07:10.856416-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/04eb8b12068b844c2e2c7c76fe6cb1eea594a9926e4d0af5ff5a5cdd22eaa5dd.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e6114a5808a494bbdf992a0476bb0d4026be375be847b4aa7f89ad405d16709b",
+      "bytes": 61246,
+      "capturado_em": "2026-10-28T11:10:23.030351-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/6be0c8cf974f69282db955950567317557138df6a82ff0cfdef11da778338d5a.json",
+      "url": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.fernao.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "872f1d011e21e8c3f9207166d24e7de139fe2568ca0442baa8e80cb96e75f299",
+      "bytes": 4922,
+      "capturado_em": "2026-10-28T11:14:50.927879-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

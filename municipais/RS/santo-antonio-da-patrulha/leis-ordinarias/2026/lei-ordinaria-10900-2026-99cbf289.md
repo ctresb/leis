@@ -1,0 +1,82 @@
+---
+titulo: "LEI N° 10.900, DE 23 DE JANEIRO DE 2026"
+uf: "RS"
+municipio: "SANTO ANTÔNIO DA PATRULHA"
+tipo: "Lei Ordinária"
+numero: "10900"
+data: 2026-01-23
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 26/01/2026"
+data_publicacao: 2026-01-26
+codigo_identificador: "99CBF289"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117766_2026-01-23_1bb9a755f95de09cffa2c42a0cd564de.pdf"
+baixado_em: 2026-10-16
+---
+# LEI N° 10.900, DE 23 DE JANEIRO DE 2026
+
+LEI N° 10.900, DE 23 DE JANEIRO DE 2026
+Abre Crédito Especial por Superávit Financeiro, no
+Orçamento Municipal, altera as Leis Municipais nº
+10.622/2025, que dispõe sobre o Plano Plurianual do
+Município para 2026 a 2029, Lei Municipal nº
+10.737/2025 que dispõe sobre a Lei de Diretrizes
+Orçamentárias para o exercício de 2026 e Lei
+Municipal n° 10.811/2025 que dispõe sobre a Lei
+Orçamentária Anual e suas alterações.
+O PREFEITO MUNICIPAL de Santo Antônio da Patrulha, no uso das
+atribuições que lhe confere o art. 53, inciso IV, da Lei Orgânica do
+Município,
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono e
+promulgo a seguinte Lei:
+Art. 1° Fica autorizada a abertura de Crédito Especial por Superávit
+Financeiro, no valor de R$ 316.793,37, conforme descrição:
+06-SECRETARIA MUNICIPAL DAS OBRAS, TRÂNSITO E
+SEGURANÇA
+03-DEPARTAMENTO DE OBRAS - DMO
+15-URBANISMO
+451-INFRA-ESTRUTURA URBANA
+0002-Gestão do Poder Executivo
+1083- Revitalização da Zona Central do Município-Convênio
+94450/2023 Ministério das Cidades
+4.4.90- APLICAÇÕES DIRETAS – R$ 301.753,37
+4.4.90- APLICAÇÕES DIRETAS – R$ 15.040,00
+TOTAL – R$ 316.793,37
+Art. 2°Servirá de recurso para cobrir a abertura do Crédito Especial
+previsto no artigo anterior, o Superávit Financeiro do exercício de
+2025, Recurso:
+2700 - Outras Transf Convênios ou Instrumentos Congêneres da
+União - 3110000 - Emendas Parlamentares Individuais de
+Transferências da União, no valor de R$ 301.753,37.
+2500 - Recursos não Vinculados de Impostos - 0000000 - Livre, no
+valor de R$ 15.040,00.
+
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono e
+promulgo a seguinte Lei:
+Art. 1° Fica autorizada a abertura de Crédito Especial por Superávit
+Financeiro, no valor de R$ 132.000,00, conforme descrição:
+09-SECRETARIA MUNICIPAL DA CULTURA, TURISMO E
+ESPORTES
+05-DEPARTAMENTO DE TURISMO
+13-CULTURA
+695-TURISMO
+0044-Turismo que Transforma: Tecendo o Desenvolvimento de SAP
+1043-Construção de Praça de Eventos do Município de Santo Antônio
+da Patrulha/RS-CR 973401/2024/MTUR/CAIXA
+4.4.90- APLICAÇÕES DIRETAS – R$ 132.000,00
+TOTAL – R$ 132.000,00
+Art. 2°Servirá de recurso para cobrir a abertura do Crédito Especial
+previsto no artigo anterior, o Superávit Financeiro do exercício de
+2025, Recurso:
+2500 - Recursos não Vinculados de Impostos - 0000000 - Livre, no
+valor de R$ 132.000,00.
+Art. 3° Esta Lei entra em vigor na data de sua publicação.
+Santo Antônio da Patrulha, 23 de janeiro de 2026.
+RODRIGO GOMES MASSULO
+Prefeito Municipal
+Registre-se e publique-se
+RUDINEI UBIRAJARA DOS SANTOS
+Secretário da Administração e Finanças em Exercício
+Publicado por:
+Ana Cristina Salazar

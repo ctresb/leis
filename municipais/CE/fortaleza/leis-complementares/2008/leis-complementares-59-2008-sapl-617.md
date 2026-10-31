@@ -1,0 +1,122 @@
+---
+titulo: "Lei Complementar nº 59, de 30 de dezembro de 2008"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "59"
+data: "2008-12-30"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/617"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3331/text"
+sha256_fonte: "1a13b33b5154fbd22ca85fa92f7056a561089d3e14521839477714caad686f3e"
+sha256_texto: "2d8018f5125628678fa696f5f25c25a5570c2567021cc34d8ce85025e93e96a7"
+capturado_em_fonte: "2026-10-21T03:58:57.297646-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 59, de 30 de dezembro de 2008
+
+Altera a Lei Complementar nº 0033, de 15 de dezembro de 2006, que dispõe sobre o Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) e a Lei nº 4.144, de 27 de dezembro de 1972 (Código Tributário do Município de Fortaleza).
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+A Lei Complementar nº 0033, de 15 de dezembro de 2006, que dispõe sobre o Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU), passa a vigorar com as seguintes modificações:
+
+
+I –
+
+§ 1º, do art. 1º:
+
+
+II –
+
+o artigo 3º, acrescido dos §§ 1º e 2º:
+
+
+III –
+
+o caput do art. 4º, com acréscimo de parágrafo único:
+
+
+IV –
+
+o art. 6º:
+
+
+V –
+
+o inciso VI, do art. 7º:
+
+
+VI –
+
+o art. 11:
+
+
+Art. 2º.
+
+O art. 113 da Lei nº 4.144, de 27 de dezembro de 1972 (Código Tributário do Município de Fortaleza), passa a vigorar com a seguinte redação:
+
+
+“Art. 113 - Considera-se unidade imobiliária o lote-padrão, gleba, casa, apartamento e sala para fim comercial ou profissional, com matrícula própria no cartório de registro de imóveis. § 1º - Para efeito de desmembramento, a nova inscrição somente será efetuada no cadastro do IPTU, mediante comprovação de averbação na matrícula do imóvel no cartório respectivo.
+
+**§ 2º** - Nos casos de existência de unidades imobiliárias cadastradas na SEFIN em desacordo com a legislação de regência, poderá ser efetuado, de ofício, desmembramento ou remembramento, para atender às exigências legais.
+
+**§ 3º** - O desmembramento ou remembramento, para efeito de inscrição no cadastro, poderá ser efetuado, em caráter excepcional, mediante despacho motivado da autoridade competente, desde que comprovada a necessidade da prática de tal medida, sem observância do disposto no § 1º deste artigo.”
+
+
+Art. 3º.
+
+Os clubes sociais que participarem do programa de parceria de disponibilização gratuita de suas instalações, para a realização de eventos sociais, esportivos e culturais de interesse do Poder Público Municipal, terão redução de 100% (cem por cento) do IPTU devido, na forma disposta em regulamento.
+
+
+§ 1º
+
+Conceder-se-á remissão de 75% (setenta e cinco por cento) do IPTU devido, dos anos anteriores, aos clubes sociais citados neste artigo, na forma disposta em regulamento.
+
+
+§ 2º
+
+Às entidades contidas neste artigo fica garantida a anistia de juros, multa e correção monetária dos 25% (vinte e cinco por cento) restantes, podendo serem pagos em 48 (quarenta e oito) parcelas.
+
+
+Art. 4º.
+
+As alíquotas do IPTU aplicáveis aos imóveis territoriais que não cumpram a função social, nos termos do art. 182 da Constituição Federal de 1988, serão majoradas em 2 (duas) vezes o valor referente ao exercício anterior, limitada a 15% (quinze por cento), por 5 (cinco) anos consecutivos.
+
+
+Art. 5º.
+
+Ato do chefe do Poder Executivo Municipal poderá alterar as datas de vencimento da cota única e das parcelas do IPTU.
+
+
+Art. 6º.
+
+O Município de Fortaleza constituirá comissão com a responsabilidade de promover a reavaliação da PGVI deste Município.
+
+
+Art. 7º.
+
+Fica o chefe do Poder Executivo autorizado a baixar os atos que se fizerem necessários ao fiel cumprimento desta Lei Complementar.
+
+
+Art. 8º.
+
+Esta Lei Complementar entra em vigor em 1º de janeiro de 2009, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 30 de dezembro de 2008.**
+
+**Luizianne de Oliveira Lins**
+
+**PREFEITA MUNICIPAL DE FORTALEZA.**
+

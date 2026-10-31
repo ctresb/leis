@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/2022_lei_n_180-2022_ldo_2022-2023_publicado.pdf da norma Lei Ordinária-PMBL nº 180, de 27 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Município.",
+      "anexo_arquivo": "http://sapl.beneditoleite.ma.leg.br/media/sapl/public/anexonormajuridica/2022/1/2022_lei_n_180-2022_ldo_2022-2023_publicado.pdf",
+      "ano": 2022,
+      "norma": 11
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.beneditoleite.ma.leg.br/002e1fc5389f89a716424c5d0417acae0e634f9ac5bc1bfd153eb18d21f56571.json",
+      "url": "https://sapl.beneditoleite.ma.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.beneditoleite.ma.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ad935fa4b1f228ba9c97e6980081c5f037be9c7f49386bbfc83a6bd21dd8afce",
+      "bytes": 675,
+      "capturado_em": "2026-10-27T17:19:30.620106-03:00"
+    }
+  ]
+}

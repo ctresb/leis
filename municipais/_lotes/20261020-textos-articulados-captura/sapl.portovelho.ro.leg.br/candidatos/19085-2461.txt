@@ -1,0 +1,1960 @@
+Dispõe sobre a estrutura administrativa e funcional da Superintendência Municipal de Tecnologia da Informação e Pesquisa do Município de Porto Velho e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso VI do art. 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAZ SABER** que a Câmara Municipal de Porto Velho aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+### TÍTULO I — DA CARACTERIZAÇÃO E DAS COMPETÊNCIAS
+
+
+Art. 1º.
+
+Fica criada a Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI) que tem como função principal gerenciar e coordenar as atividades referentes ao planejamento, desenvolvimento e expansão dos projetos de informática, estabelecidas de acordo com o objetivo estratégico do Plano Diretor de Informática (PDI), que define as áreas e serviços prioritários para atendimento e critérios para assegurar avanços crescentes na melhoria da produtividade dos serviços de tecnologia da informação da Prefeitura de Porto Velho.
+
+
+Art. 2º.
+
+A presente Lei Complementar estabelece as atribuições e competências das estruturas administrativas da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), fundamentando-se na interação de suas unidades setoriais para o cumprimento de suas funções e atividades no âmbito da Prefeitura de Porto Velho.
+
+
+Art. 3º.
+
+Compete à Superintendência Municipal de Tecnologia de Informação e Pesquisa:
+
+
+I –
+
+elaborar, implementar e avaliar o Plano Diretor de Tecnologia da Informação (PDTI), a ser elaborado pelo Comitê Gestor de Tecnologia da Informação (CGTI);
+
+
+II –
+
+propor linhas de ação estabelecendo política e diretrizes que assegurem o cumprimento dos objetivos estabelecidos pelo Plano Diretor de Tecnologia da Informação (PDTI);
+
+
+III –
+
+coordenar as atividades de elaboração, análise e consolidação de normas e padrões obrigatórios a serem utilizados nos órgãos e unidades da Prefeitura de Porto Velho, alinhado a definição estratégica do Comitê Gestor de Tecnologia da Informação (PDTI);
+
+
+IV –
+
+estabelecer os controles necessários para o acompanhamento das atividades da área de Tecnologia da Informação;
+
+
+V –
+
+estabelecer e implantar sistemas de controle de entrada e saída de software e hardware;
+
+
+VI –
+
+planejar, coordenar, dirigir e controlar a operação de computadores, dispositivos, periféricos e acessórios, bem como as suas manutenções corretivas e preventivas;
+
+
+VII –
+
+planejar e controlar as atividades de desenvolvimento, implantação, otimização e manutenção de sistemas computadorizados;
+
+
+VIII –
+
+planejar, orientar e controlar a administração do banco de dados da Prefeitura de Porto Velho;
+
+
+IX –
+
+planejar e orientar estratégias de desenvolvimento de sistemas, configurando os marcos de avaliação, cronogramas de recursos, prazos e técnicas;
+
+
+X –
+
+coordenar e executar os planos de trabalho e cronogramas de realização de atividades, de forma a zelar pelo cumprimento dos prazos estipulados;
+
+
+XI –
+
+elaborar relatórios, estatísticas e estudos referentes às atividades da Coordenadoria;
+
+
+XII –
+
+desempenhar outras competências típicas da unidade, delegadas pela autoridade superior ou contidas em normas.
+
+
+§ 1º
+
+O Comitê Gestor de Tecnologia da Informação (CGTI), responsável pela elaboração do Plano Diretor de Tecnologia da Informação (PDTI), será nomeado pelo Prefeito e composto pelas Secretarias Municipais por ele designadas, sob coordenação da Secretaria Geral de Governo (SGG).
+
+
+§ 2º
+
+É de competência exclusiva da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) a definição operacional das tecnologias a serem implantadas, devendo obedecer às diretrizes estratégicas definidas pelo Comitê Gestor de Tecnologia da Informação (CGTI).
+
+
+Art. 4º.
+
+Entende-se por:
+
+
+I –
+
+**Tecnologia da Informação (TI):** ativo estratégico que suporta processos de negócio institucionais, por meio da conjugação de recursos, processos e técnicas utilizados para obter, processar, armazenar, fazer uso e disseminar informações;
+
+
+II –
+
+**Comunicação:** conjunto de atividades informatizadas relativas a questão de comunicação de rede, software e transmissão de dados;
+
+
+III –
+
+**Solução de TI:** conjunto formado por elementos de tecnologia da informação e processos de trabalho que se integram para produzir resultados que atendam a necessidades da Prefeitura; e,
+
+
+IV –
+
+**Pesquisa:** Capacidade da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) em realizar convênios e acordos de colaboração técnicas com instituições de Ensino Públicas ou Privadas, outras Administrações Diretas ou Indiretas, que visem estudos ou viabilidade prática no desenvolvimento ou alcance de soluções tecnológicas de interesse da Municipalidade.
+
+
+### TÍTULO II — DA ESTRUTURA ORGANIZACIONAL BÁSICA
+
+
+Art. 5º.
+
+A estrutura organizacional e funcional da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) compreende:
+
+
+I –
+
+A estrutura organizacional e funcional da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) compreende:em nível de Direção Superior:
+
+
+a)
+
+Superintendente Municipal de Tecnologia de Informação e Pesquisa; e,
+
+
+b)
+
+Secretário-Executivo de Gabinete.
+
+
+II –
+
+em nível de Assistência Imediata e Assessoramento:
+
+
+a)
+
+Assessoria Executiva Especial (AEE);
+
+
+b)
+
+Assessoria Técnica (ASTEC);
+
+
+c)
+
+Secretária; e
+
+
+d)
+
+Responsável pelo Protocolo.
+
+
+III –
+
+em nível de Execução Instrumental:
+
+
+a)
+
+Departamento Administrativo (DA):
+
+
+1
+
+Divisão de Apoio Administrativo (DAA); e,
+
+
+2
+
+Divisão de Controle e Análise Processual (DICAP).
+
+
+IV –
+
+em nível de Execução Programática:
+
+
+a)
+
+Departamento de Qualidade e Governança de TI (DQG);
+
+
+1
+
+Divisão de Administração de Dados BI (DIAD);
+
+
+2
+
+Divisão de Qualidade de Software (DIQS); e,
+
+
+3
+
+Divisão de Análise de Processos (DIAP).
+
+
+b)
+
+Departamento de Gestão de Redes (DGR):
+
+
+1
+
+Divisão de Segurança de TI (DISET);
+
+
+2
+
+Divisão de Infraestrutura de TI (DIIT); e,
+
+
+3
+
+Divisão de Banco de Dados (DIBD).
+
+
+c)
+
+Departamento de Desenvolvimento de Sistema (DESIS):
+
+
+1
+
+Divisão de Sistema Estruturante (DISE);
+
+
+2
+
+Divisão de Sistema de Apoio (DISA); e,
+
+
+3
+
+Divisão de Integração de Sistema Web (DIWEB).
+
+
+d)
+
+Departamento de Suporte Técnico e Atendimento (DSTA):
+
+
+1
+
+Divisão de Suporte Nível 1 (N1); e,
+
+
+2
+
+Divisão de Suporte Nível 2 (N2).
+
+
+Art. 6º.
+
+A relação de cargos em comissão que compõe a Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) obedece ao disposto no Anexo I da presente Lei Complementar.
+
+
+### TÍTULO III — DAS ATRIBUIÇÕES
+
+
+#### CAPÍTULO I — DA DIREÇÃO SUPERIOR
+
+
+##### Seção I — DO SUPERINTENDENTE MUNICIPAL DE TECNOLOGIA DE INFORMAÇÃO E PESQUISA
+
+
+Art. 7º.
+
+Compete ao Superintendente Municipal de Tecnologia de Informação e Pesquisa:
+
+
+I –
+
+o assessoramento direto e imediato ao Prefeito e de todos os Órgãos e Entidades que compõem a Prefeitura Municipal de Porto Velho nas atividades referentes ao planejamento, desenvolvimento e expansão dos projetos de tecnologia da informação e pesquisa;
+
+
+II –
+
+gerenciar e coordenar as atividades referentes ao planejamento, desenvolvimento e expansão dos projetos de informática, estabelecidas de acordo com o objetivo estratégico do Plano Diretor de Informática (PDI), nas áreas e serviços prioritários para atendimento dos critérios de utilização, visando assegurar a melhoria da produtividade dos serviços da Administração Direta e Indireta da Prefeitura de Porto Velho;
+
+
+III –
+
+estabelecer diretrizes a serem seguidas pelos servidores hierarquicamente subordinados;
+
+
+IV –
+
+desenvolver planos de trabalho;
+
+
+V –
+
+estabelecer as políticas, diretrizes e regulamentações a serem adotadas pela Superintendência, através de instruções normativas, portarias e demais instrumentos normativos no âmbito de suas competências;
+
+
+VI –
+
+propor a apuração dos ilícitos e irregularidades verificados aos órgãos de controle interno, na forma da Lei;
+
+
+VII –
+
+propor a elaboração de normas e instruções relativas aos procedimentos internos às unidades setoriais, no âmbito de sua competência;
+
+
+VIII –
+
+garantir o cumprimento da legislação vigente;
+
+
+IX –
+
+propor capacitação e treinamento para os servidores lotados na Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+X –
+
+promover consultas no âmbito de sua competência, sempre que necessário;
+
+
+XI –
+
+delegar ou avocar atividades específicas de outros órgãos ou servidores da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI), quando julgar necessário;
+
+
+XII –
+
+praticar os atos de aplicação de sanções administrativas na esfera de sua competência;
+
+
+XIII –
+
+outras atividades correlatas.
+
+
+##### Seção II — DO SECRETÁRIO EXECUTIVO DE GABINETE
+
+
+Art. 8º.
+
+Compete ao Secretário-Executivo de Gabinete:
+
+
+I –
+
+substituir o titular da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI) em suas ausências e impedimentos;
+
+
+II –
+
+auxiliar diretamente ou por delegação o titular da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+III –
+
+promover estudos necessários à melhoria dos serviços da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), no âmbito de sua competência;
+
+
+IV –
+
+acompanhar, supervisionar e avaliar os trabalhos dos servidores lotados na Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+V –
+
+comunicar ao titular da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI) a ocorrência de ilegalidades, irregularidades ou práticas antieconômicas de que resultem, ou não, dano ao erário, sob pena de responsabilidade solidária;
+
+
+VI –
+
+coordenar e controlar os processos administrativos da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+VII –
+
+opinar, quando demandado pelo titular, acerca dos atos normativos de interesse da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+VIII –
+
+propor a edição de atos normativos dentro da área de competência da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+IX –
+
+reunir informações para a elaboração de defesas administrativas e/ou judiciais solicitadas ao titular da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI); e,
+
+
+X –
+
+desempenhar outras atividades correlatas.
+
+
+##### Seção III — DA ASSESSORIA EXECUTIVA ESPECIAL (AEE)
+
+
+Art. 9º.
+
+Compete a Assessoria Executiva Especial:
+
+
+I –
+
+assistir, direta e imediatamente, o titular da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI) na supervisão, coordenação das atividades, definição de diretrizes de organização e inovação institucional;
+
+
+II –
+
+elaborar e/ou revisar portarias, termos, despachos e atos normativos referentes à Legislação Municipal;
+
+
+III –
+
+responder às consultas e informações solicitadas nos assuntos de competência da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+IV –
+
+promover ou determinar a elaboração de estudos, levantamentos, pareceres técnicos, pesquisas, relatórios, ofícios, avaliações, exposição de motivos, justificativas e outros atos/ documentos de natureza institucional da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI); e,
+
+
+V –
+
+desempenhar outras atividades correlatas.
+
+
+##### Seção IV — DA ASSESSORIA TÉCNICA (ASTEC)
+
+
+Art. 10.
+
+Compete a Assessoria Técnica (ASTEC):
+
+
+I –
+
+assistir e/ou assessorar o titular da Superintendência Municipal de Tecnologia da Informação (SMTI), o Secretário Executivo de Gabinete e a quem estes delegarem;
+
+
+II –
+
+expedir documentos relativos às atividades na sua área de atuação; e
+
+
+III –
+
+desempenhar outras atividades correlatas.
+
+
+##### Seção V — DA SECRETÁRIA
+
+
+Art. 11.
+
+Compete à Secretária:
+
+
+I –
+
+assistir e assessorar a Direção Superior, prestando serviço de organização e planejamento das ações, bem como efetivando o controle da agenda de compromissos do titular da Superintendência Municipal de Tecnologia da Informação (SMTI) e do Secretário Executivo de Gabinete;
+
+
+II –
+
+elaborar a correspondência oficial (ofícios, memorandos e despachos), atendendo as determinações do Secretário-Executivo de Gabinete;
+
+
+III –
+
+orientar a recepção de autoridades e visitantes e os serviços de atendimento ao público no âmbito da Superintendência Municipal de Tecnologia da Informação (SMTI); e,
+
+
+IV –
+
+desempenhar outras atividades correlatas.
+
+
+##### Seção VI — DO RESPONSÁVEL PELO PROTOCOLO
+
+
+Art. 12.
+
+Compete ao Protocolo:
+
+
+I –
+
+executar o atendimento ao público em geral;
+
+
+II –
+
+promover o recebimento, registro, distribuição, controle da tramitação, arquivo e controle do fluxo documental, com vistas ao registro das informações e disponibilização aos interessados;
+
+
+III –
+
+acompanhar e efetivar o controle dos processos administrativos da Superintendência Municipal de Tecnologia da Informação (SMTI);
+
+
+IV –
+
+prestar informações de tramitação dos processos administrativos, no âmbito de sua competência;
+
+
+V –
+
+comunicar ao superior hierárquico a ocorrência de ilegalidades, irregularidades ou práticas antieconômicas de que resultem, ou não, dano ao erário, sob pena de responsabilidade solidária;
+
+
+VI –
+
+Desempenhar outras atividades correlatas.
+
+
+#### CAPÍTULO II — DA EXECUÇÃO INSTRUMENTAL
+
+
+Seção Única
+
+DO DEPARTAMENTO ADMINISTRATIVO (DA)
+
+
+Art. 13.
+
+Compete ao Departamento Administrativo (DA):
+
+
+I –
+
+propor atos normativos dentro da área de sua competência;
+
+
+II –
+
+coordenar e controlar os serviços de copa, observando as condições de conservação e higiene, bem como os serviços de vigilância e portaria, no âmbito da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+III –
+
+acompanhar e controlar a conservação das instalações da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), bem como sua apresentação visual;
+
+
+IV –
+
+levantar e controlar as necessidades dos recursos materiais de expediente, informática e outros no âmbito da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+V –
+
+dirigir, coordenar e supervisionar as atividades das unidades que lhes são diretamente subordinadas;
+
+
+VI –
+
+gerir a organização administrativa de seu quadro de pessoal;
+
+
+VII –
+
+expedir documentos relativos às atividades na sua área de atuação;
+
+
+VIII –
+
+comunicar ao nível hierárquico superior competente o conhecimento da ocorrência de atos ilegais, ilegítimos, irregulares ou antieconômicos de que resultem, ou não, dano ao erário, sob pena de responsabilidade solidária;
+
+
+IX –
+
+homologar os pareceres, análises e demais documentos produzidos pelas divisões hierarquicamente subordinadas;
+
+
+X –
+
+elaborar relatório gerencial, semestral e anual, das atividades realizadas no âmbito de sua competência;
+
+
+XI –
+
+atuar na estruturação das Unidades da SMTI;
+
+
+XII –
+
+mitigar riscos relacionados aos serviços e produtos fornecidos e aumentar a produtividade das unidades;
+
+
+XIII –
+
+acompanhar a frequência e programar a escala de férias dos servidores lotados na Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+XIV –
+
+desenvolver, manter e criar indicadores de acompanhamento dos seus serviços, além de auxiliar na elaboração do planejamento estratégico da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+XV –
+
+Fornecer suporte e orientação às unidades setoriais da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI) no que diz respeito às políticas, processos, procedimentos, boas práticas, padrões e metodologias relacionadas com a gestão de processos de negócios;
+
+
+XVI –
+
+realizar auditorias de conformidade e adequação de processos;
+
+
+XVII –
+
+realizar a análise de qualquer alteração nas estruturas de processos e estruturas metodológicas da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+XVIII –
+
+elaborar o plano geral de trabalho da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), bem como efetuar o acompanhamento de sua execução;
+
+
+XIX –
+
+preparar dados financeiros, a fim de fornecer subsídios necessários à elaboração e coordenação da proposta orçamentária anual;
+
+
+XX –
+
+propor atos normativos dentro da área de sua competência; e,
+
+
+XXI –
+
+desempenhar outras atividades correlatas.
+
+
+###### Subseção I — Da Divisão de Apoio Administrativo (DAA)
+
+
+Art. 14.
+
+À Divisão de Apoio Administrativo (DAA), subordinada hierarquicamente ao Departamento Administrativo (DA) e sob delegação deste, compete:
+
+
+I –
+
+elaborar o plano geral de trabalho da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), bem como efetuar o acompanhamento de sua execução;
+
+
+II –
+
+preparar dados financeiros, a fim de fornecer subsídios necessários à elaboração;
+
+
+III –
+
+propor a proposta orçamentária anual e o planejamento plurianual da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+IV –
+
+executar a coordenação e controle dos serviços de copa e cantina, observando as condições de conservação e higiene, bem como os serviços de vigilância patrimonial e controle de entrada e saída;
+
+
+V –
+
+executar os atos de conservação das instalações da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), bem como sua apresentação visual;
+
+
+VI –
+
+executar o levantamento e controle das necessidades dos recursos materiais e de expediente, informática e outros;
+
+
+VII –
+
+gerir a organização administrativa do quadro de pessoal;
+
+
+VIII –
+
+expedir documentos relativos às atividades na sua área de atuação;
+
+
+IX –
+
+comunicar ao nível hierárquico superior competente o conhecimento da ocorrência de atos ilegais, ilegítimos, irregulares ou antieconômicos de que resultem, ou não, dano ao erário, sob pena de responsabilidade solidária;
+
+
+X –
+
+expedir pareceres, análises e demais documentos no âmbito de sua competência;
+
+
+XI –
+
+elaborar relatório gerencial, semestral e anual, das atividades realizadas no âmbito de sua competência; e
+
+
+XII –
+
+desempenhar outras atividades correlatas.
+
+
+###### Subseção II — Da Divisão de Controle e Análise Processual (DCAP)
+
+
+Art. 15.
+
+À Divisão de Controle e Análise Processual (DCAP), subordinada hierarquicamente ao Departamento Administrativo (DA) e sob delegação deste, compete:
+
+
+I –
+
+elaborar o plano geral de controle dos processos administrativos da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), bem como efetuar a análise dos processos em sua execução;
+
+
+II –
+
+elaborar termos de referências, projetos básicos e demais documentos necessários para a devida instrução processual, relativa às necessidades da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+III –
+
+realizar o acompanhamento, gerando relatórios diários, da tramitação dos processos produzidos pela Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+IV –
+
+executar o levantamento e controle dos impeditivos ocorridos nos andamentos dos processos, no âmbito da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+V –
+
+expedir documentos relativos às atividades na sua área de atuação;
+
+
+VI –
+
+comunicar ao nível hierárquico superior competente o conhecimento da ocorrência de atos ilegais, ilegítimos, irregulares ou antieconômicos de que resultem, ou não, dano ao erário, sob pena de responsabilidade solidária;
+
+
+VII –
+
+expedir pareceres, análises e demais documentos no âmbito de sua competência;
+
+
+VIII –
+
+elaborar relatório gerencial, semestral e anual, das atividades realizadas no âmbito de sua competência; e,
+
+
+IX –
+
+desempenhar outras atividades correlatas.
+
+
+#### CAPÍTULO III — DA EXECUÇÃO PROGRAMÁTICA
+
+
+##### Seção I — DO DEPARTAMENTO DE QUALIDADE E GOVERNANÇA DE TI (DQG)
+
+
+Art. 16.
+
+O Departamento de Qualidade e Governança de TI (DQG) é responsável pela gestão, definição e controle de estratégias, processos, procedimentos, práticas e padrões de Tecnologia da Informação, no âmbito da governança de Tecnologia da Informação, incluindo as áreas de qualidade de software, administração de dados e BI.
+
+
+Art. 17.
+
+Os cargos em comissão que integram o Departamento de Qualidade e Governança de TI (DQG) possuem as seguintes atribuições:
+
+
+I –
+
+**Diretor do Departamento de Qualidade e Governança de TI:** responsável por conduzir todas as ações do Departamento, subordinando-se hierarquicamente à Direção Superior da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+II –
+
+**Gerente da Divisão de Administração de Dados e BI:** responsável por coordenar as ações relacionadas com administração de dados e business intelligence (BI), subordinando-se hierarquicamente ao Diretor do Departamento de Qualidade e Governança de TI (DQG);
+
+
+III –
+
+**Gerente da Divisão de Qualidade de Software:** responsável por coordenar as ações relacionadas com a produção de software (Análise e Regra de Negócio), de sua qualidade a testes formais de software, subordinando-se hierarquicamente ao Diretor do Departamento de Qualidade e Governança de TI (DQG); e,
+
+
+IV –
+
+**Gerente da Divisão de Análise de Processos:** responsável por desenvolver as atividades relacionadas com a estruturação de processos de negócios e de TI, o que engloba as atividades relacionadas com a área de governança de TI, devendo trabalhar em conjunto a divisão de qualidade de software no que for pertinente a definições das regras de negócio, subordinando-se hierarquicamente ao Diretor do Departamento de Qualidade e Governança de TI (DQG).
+
+
+Art. 18.
+
+Compete ao Departamento de Qualidade e Governança do TI (DQG):
+
+
+I –
+
+elaborar e gerenciar projetos de Tecnologia da Informação em conjunto com os outros departamentos;
+
+
+II –
+
+apoiar o processo decisório na área de Tecnologia da Informação, nas questões que dizem respeito à qualidade e governança de Tecnologia da Informação além dos atos administrativos organizacionais, o que inclui as áreas de: segurança da tecnologia da informação, processos de Tecnologia da Informação e de desenvolvimento de software e as metodologias definidas e utilizadas nessas unidades;
+
+
+III –
+
+estabelecer e manter as políticas, processos, procedimentos, padrões e boas práticas que serão utilizadas pela Prefeitura de Porto Velho;
+
+
+IV –
+
+realizar a definição dos procedimentos de gestão eletrônica de documentos (GED) no âmbito da Prefeitura;
+
+
+V –
+
+gerenciar e conduzir atividades de governança de Tecnologia da Informação da Prefeitura de Porto Velho;
+
+
+VI –
+
+gerenciar e conduzir a execução e manutenção do Plano Diretor de Tecnologia da Informação da Prefeitura, além de auxiliar o titular da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) na elaboração dos programas/atividades que sejam relacionados com sua área de atuação nos instrumentos de planejamento da Prefeitura de Porto Velho;
+
+
+VII –
+
+estabelecer diretrizes para a utilização eficiente de recursos de Tecnologia da Informação;
+
+
+VIII –
+
+colaborar com a assessoria de segurança da tecnologia da informação nas atividades de desenvolvimento e manutenção da política, normas e procedimentos de segurança da tecnologia da informação, indicando e contribuindo para sua efetiva utilização pela Prefeitura de Porto Velho;
+
+
+IX –
+
+gerenciar a estruturação, avaliação, medição e monitoramento contínuo dos processos de Tecnologia da Informação da Prefeitura de Porto Velho;
+
+
+X –
+
+gerenciar a manutenção da metodologia de desenvolvimento de software;
+
+
+XI –
+
+garantir as ferramentas necessárias para execução dos processos de Tecnologia da Informação e desenvolvimento de software;
+
+
+XII –
+
+identificar os treinamentos técnicos, relacionados com a execução dos processos de Tecnologia da Informação e de desenvolvimento de software, incluindo os treinamentos na área de segurança da tecnologia da informação e metodologias definidas na Superintendência Municipal de Tecnologia da Informação (SMTI);
+
+
+XIII –
+
+gerenciar e conduzir a verificação dos resultados dos serviços e produtos providos pela Superintendência Municipal de Tecnologia da Informação (SMTI);
+
+
+XIV –
+
+gerenciar e conduzir auditorias de conformidade e adequação nos processos;
+
+
+XV –
+
+gerenciar e conduzir validações de conformidade de documentos das metodologias definidas;
+
+
+XVI –
+
+gerenciar as atividades, planejamento, especificação e execução de testes formais de software;
+
+
+XVII –
+
+gerenciar e conduzir a análise das propostas de alteração nas estruturas de processos e estruturas metodológicas da Tecnologia da Informação, incluindo as políticas, normas e procedimentos, submetendo-as para a aprovação da Superintendência Municipal de Tecnologia da Informação (SMTI);
+
+
+XVIII –
+
+garantir que todos os processos, procedimentos, metodologias, padrões e práticas sejam devidamente seguidos;
+
+
+XIX –
+
+reportar todas as informações requeridas à Superintendência Municipal de Tecnologia da Informação (SMTI); e,
+
+
+XX –
+
+manter a coordenação de administração de dados e qualidade de software alinhada à visão e planos da gerência de Qualidade e Governança de Tecnologia da Informação.
+
+
+Art. 19.
+
+Compete também ao Departamento de Qualidade e Governança do TI (DQG) realizar o alinhamento estratégico, entre a área de Tecnologia da Informação e as áreas de negócios, proporcionar uma maior transparência e mitigação dos riscos, juntamente com o aumento da produtividade e valor agregado dos produtos e serviços construídos e fornecidos pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI).
+
+
+###### Subseção I — Da Divisão de Administração de Dados BI
+
+
+Art. 20.
+
+Compete à Divisão de Administração de Dados BI, subordinada hierarquicamente ao Departamento de Qualidade e Governança do TI (DQG) e sob delegação deste:
+
+
+I –
+
+conhecer dos processos organizacionais da Prefeitura de Porto Velho, promovendo a interação entre as unidades setoriais e a Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) para suprir a demanda de dados em relação aos projetos do ente público;
+
+
+II –
+
+estabelecer formas de participação da Administração de Dados no levantamento de requisitos da demanda trazendo a visão de dados e suas estruturas;
+
+
+III –
+
+estabelecer diretrizes de compatibilização do planejamento de sistemas com os modelos de dados;
+
+
+IV –
+
+conduzir análise de aderência, no quesito banco de dados, de sistemas terceiros candidatos a adoção;
+
+
+V –
+
+gerenciar os Modelos Conceituais de Dados, os Dicionários de Dados e os níveis de integridade e segurança dos dados nos diversos patamares em que as informações solicitadas progredirem;
+
+
+VI –
+
+estabelecer procedimentos para solicitação de serviços de Administração de Dados;
+
+
+VII –
+
+conduzir a elaboração de guias de padronização nos objetos de Banco de Dados;
+
+
+VIII –
+
+garantir a aderência das evoluções dos sistemas com o Modelo Global de Dados; e,
+
+
+IX –
+
+conduzir o processo de Business Intelligence (BI) no âmbito do Município.
+
+
+###### Subseção II — Da Divisão de Qualidade de Software (DQS)
+
+
+Art. 21.
+
+Compete à Divisão de Qualidade de Software (DQS), subordinada hierarquicamente ao Departamento de Qualidade e Governança do TI (DQG) e sob delegação deste:
+
+
+I –
+
+coordenar as atividades de criação e manutenção das políticas, processos, procedimentos, padrões e boas práticas relacionadas com o desenvolvimento e manutenção de software, bem como a definição e manutenção do repositório de conhecimento relacionado com a qualidade de software da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+II –
+
+coordenar a manutenção contínua da metodologia de desenvolvimento e manutenção de software;
+
+
+III –
+
+coordenar a identificação, teste e homologação de ferramentas necessárias para execução de processos relacionados com o desenvolvimento de software;
+
+
+IV –
+
+identificar treinamentos técnicos, relacionados com o processo e metodologia de gestão, desenvolvimento e manutenção de software da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+V –
+
+coordenar as atividades de planejamento, especificação e execução de testes formais de software;
+
+
+VI –
+
+acompanhar a atuação técnica dos analistas de qualidade nas auditorias de conformidade e adequação de processos;
+
+
+VII –
+
+coordenar as validações de conformidade de documentos;
+
+
+VIII –
+
+coordenar as atividades de análise técnica de qualquer alteração nas estruturas metodológicas e de processos, relacionadas com o desenvolvimento e manutenção de software, definidos pela gerência do Departamento de Qualidade e Governança do TI (DQG);
+
+
+IX –
+
+fazer cumprir todos os processos, procedimentos, metodologias, padrões e práticas definidos pelo Departamento de Qualidade e Governança do TI (DQG) no âmbito do desenvolvimento e manutenção de software;
+
+
+X –
+
+Manter banco de dados atualizado das regras de negócio da Prefeitura de Porto Velho; e,
+
+
+XI –
+
+reportar todas as informações requeridas ao Departamento de Qualidade e Governança do TI (DQG).
+
+
+###### Subseção III — Da Divisão de Análise de Processos (DAP)
+
+
+Art. 22.
+
+Compete à Divisão de Análise de Processos (DAP), subordinada hierarquicamente ao Departamento de Qualidade e Governança do TI (DQG):
+
+
+I –
+
+criar e manter as políticas, processos, procedimentos, padrões e boas práticas que serão utilizadas pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI), no âmbito da gestão de processos e governança de Tecnologia da Informação;
+
+
+II –
+
+definir e manter um repositório de conhecimento relacionado com a área de processos e governança de Tecnologia da Informação;
+
+
+III –
+
+estruturar, avaliar, medir e monitorar continuamente os processos de negócios e de Tecnologia da Informação;
+
+
+IV –
+
+colaborar na identificação, teste e homologação de ferramentas necessárias para execução de processos definidos;
+
+
+V –
+
+executar atividades de governança de Tecnologia da Informação;
+
+
+VI –
+
+executar atividades relacionadas com a criação, execução e manutenção do Plano Diretor de Tecnologia da Informação (PDTI);
+
+
+VII –
+
+ministrar treinamentos, quando necessário, sobre a execução dos processos de negócios e de Tecnologia da Informação, definidos pelo Departamento de Qualidade e Governança do TI (DQG);
+
+
+VIII –
+
+auxiliar as unidades que compõe o Departamento de Qualidade e Governança do TI (DQG) na elaboração das regras de negócio; e,
+
+
+IX –
+
+reportar todas as informações requeridas ao Departamento de Qualidade e Governança do TI (DQG).
+
+
+##### Seção II — DO DEPARTAMENTO DE GESTÃO DE REDES (DGR)
+
+
+Art. 23.
+
+O Departamento de Gestão de Redes (DGR) é a área responsável pela Infraestrutura Tecnológica da Prefeitura de Porto Velho, tanto física quanto lógica, sendo responsável por definir e manter a tecnologia que será utilizada pela Administração Municipal, prospectando atualizações e soluções adequadas à melhoria do desempenho da atuação do Poder Público.
+
+
+Art. 24.
+
+Os cargos em comissão que integram o Departamento de Gestão de Redes (DGR) possuem as seguintes atribuições:
+
+
+I –
+
+**Diretor do Departamento de Gestão de Redes:** responsável por conduzir todas as ações do Departamento, subordinando-se hierarquicamente à Direção Superior da Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI);
+
+
+II –
+
+**Gerente da Divisão de Infraestrutura de TI:** responsável por executar as ações relacionadas com a instalação e manutenção do Sistema de Cabeamento Estruturado, do Sistema de Telefonia Fixa, do Sistema de Monitoramento por Câmeras (CFTV), gerenciamento os servidores de dados da Prefeitura de Porto Velho, bem como pela manutenção da estrutura lógica de rede (roteamento, VLANS, e assemelhados), subordinando-se hierarquicamente ao Diretor do Departamento de Gestão de Redes (DGR);
+
+
+III –
+
+**Gerente da Divisão de Banco de Dados:** responsável por executar as ações relacionadas com os bancos de dados, prestando assessoria e auxílio na definição de sua tecnologia, buscando o correto gerenciamento das estruturas utilizadas pela Prefeitura de Porto Velho, mediante o fomento à interação os setores responsáveis pelo desenvolvimento de sistemas e pela qualidade e governança, subordinando-se hierarquicamente ao Diretor do Departamento de Gestão de Redes (DGR); e,
+
+
+IV –
+
+**Gerente da Divisão de Segurança de TI:** responsável por executar as ações relacionadas à detecção de vulnerabilidades do sistema computacional utilizado pela Prefeitura de Porto Velho, efetivando análise e propondo solução de vulnerabilidades, bem como gerenciando a emissão de Certificados Digitais, subordinando-se hierarquicamente ao Diretor do Departamento de Gestão de Redes (DGR).
+
+
+Art. 25.
+
+Compete ao Departamento de Gestão de Redes (DGR):
+
+
+I –
+
+elaborar e gerenciar projetos de Tecnologia da Informação em conjunto com os outros departamentos;
+
+
+II –
+
+gerenciar suas atividades, elaborando projetos de implantação de ações inseridas em suas atribuições e competências;
+
+
+III –
+
+coordenar e fiscalizar os trabalhos de suas equipes;
+
+
+IV –
+
+validar, avaliar e identificar soluções tecnológicas;
+
+
+V –
+
+planejar projetos que guardem conformidade com as de acordo com as necessidades do negócio;
+
+
+VI –
+
+manter tratativas com fornecedores de bens e serviços para a contratação e/ou aquisição de soluções em nível de hardware, software e/ou serviço de Tecnologia da Informação;
+
+
+VII –
+
+participar do desenvolvimento e implementação de políticas e diretrizes que traduzam as melhores práticas existentes e ou disponíveis no mercado, visando a otimização dos serviços e utilização dos recursos sob sua responsabilidade;
+
+
+VIII –
+
+propor planos de investimentos visando atualização tecnológica dos equipamentos e servidores;
+
+
+IX –
+
+interagir e/ou colaborar com o Departamento de Qualidade e Governança de TI (DQG) no estabelecimento e implantação de padrões para o desenvolvimento de sistemas, através de metodologia adequada; e,
+
+
+X –
+
+desenvolver, manter e criar indicadores de acompanhamento dos seus serviços, além de auxiliar na elaboração do Planejamento Estratégico da Superintendência Municipal de Tecnologia da Informação (SMTI);
+
+
+XI –
+
+Auxiliar na elaboração de termos de referências, projetos básicos e demais documentos necessários para a devida instrução processual, relativa às necessidades da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI).
+
+
+###### Subseção I — Da Divisão de Segurança de Tecnologia da Informação (DSTI)
+
+
+Art. 26.
+
+Compete à Divisão de Segurança de Tecnologia da Informação (DSTI), subordinada hierarquicamente ao Departamento de Gestão de Redes (DGR) e sob delegação deste:
+
+
+I –
+
+manter atributos de confidencialidade, integridade, disponibilidade, autenticidade e as boas práticas relativas à segurança em Tecnologia da Informação;
+
+
+II –
+
+definir, controlar e gerir todo o sistema de certificação digital da Prefeitura de Porto Velho;
+
+
+III –
+
+proteger a tecnologia da informação contra vários tipos de ameaças, para garantir a continuidade do negócio, minimizar riscos, evitar a intrusão e a modificação desautorizada de dados ou informações, armazenados em processamento ou em trânsito, da documentação e do material, assim como as destinadas a prevenir, detectar, deter e documentar eventuais ameaças a seu desenvolvimento.
+
+
+IV –
+
+estudar e adotar controles adequados, incluindo políticas, processos, procedimentos, estruturas organizacionais e funções de software e hardware, que devem ser estabelecidos, implantados, monitorados, analisados criticamente e melhorados onde necessário para garantir que os objetivos do negócio e da segurança da organização sejam atendidos;
+
+
+V –
+
+estabelecer diretrizes, padrões e normas de Segurança da Tecnologia da Informação, submetendo-as à aprovação da Direção da Superintendência Municipal de Tecnologia da Informação (SMTI) e ao Comitê Gestor de Tecnologia da Informação (CGTI);
+
+
+VI –
+
+promover campanhas de conscientização e divulgação da Política e das Normas de Segurança da Tecnologia da Informação, orientando e executando os treinamentos pertinentes, após aprovação da Direção da Superintendência Municipal de Tecnologia da Informação (SMTI) e ao Comitê Gestor de Tecnologia da Informação (CGTI);
+
+
+VII –
+
+propor projetos e iniciativas relacionados ao aperfeiçoamento da Segurança da Tecnologia da Informação;
+
+
+VIII –
+
+estabelecer procedimentos e realizar a gestão dos sistemas de controle de acesso lógico;
+
+
+IX –
+
+analisar os riscos relacionados à segurança da tecnologia da informação e produzir relatórios com indicadores relativos a eles;
+
+
+X –
+
+realizar trabalhos de análise de vulnerabilidade, para aferir o nível de segurança dos Sistemas de Informação e dos ativos relacionados a estes sistemas;
+
+
+XI –
+
+realizar auditorias em sistemas e equipamentos, com o intuito de verificar o cumprimento da Política e das Normas de Segurança da Tecnologia da Informação;
+
+
+XII –
+
+estabelecer mecanismo de registro e controle de incidentes e não conformidades à Política e às Normas de Segurança da Tecnologia da Informação;
+
+
+XIII –
+
+realizar validações em relação à Política de Segurança da Tecnologia da Informação da Prefeitura de Porto Velho e as recomendações do Comitê Gestor de Tecnologia da Informação (CGTI) em relação ao tema;
+
+
+XIV –
+
+realizar alterações nos serviços (configurações) disponibilizados que necessitem de aprimoramento de segurança, sempre em conjunto com a área responsável ou demandante; e,
+
+
+XV –
+
+acompanhar e/ou participar das auditorias de segurança e conformidade de dados.
+
+
+###### Subseção II — DA Divisão de Infraestrutura de Tecnologia da Informação (DITI)
+
+
+Art. 27.
+
+Compete à Divisão de Infraestrutura de Tecnologia da Informação (DITI), subordinada hierarquicamente ao Departamento de Gestão de Redes (DGR) e sob delegação deste:
+
+
+I –
+
+manter base de usuários de acesso à rede e sua integração a diversos sistemas, bem como os perfis de acesso à rede, realizando bloqueios e liberações de acesso de usuários, criação, manutenção e acesso a contas de e-mail, listas de distribuição (com restrição ou não de remetente);
+
+
+II –
+
+manter pastas compartilhadas e seus grupos de usuário para acesso (com ou sem restrição de acesso às subpastas);
+
+
+III –
+
+prover acesso às redes internas e externas (incluída a Internet), fornecendo segurança no acesso e projetando ampliação dos mesmos, provendo os serviços de firewall e da política de acesso à rede local, redes interna e externa, DIC (disponibilidade dos serviços, integridade dos dados e confidencialidade) aos serviços e dados internos sempre que necessário;
+
+
+IV –
+
+prover a comunicação por mensageiro instantâneo, os serviços de e-mail incluindo webmail, anti-spam e antivírus;
+
+
+V –
+
+prover serviço de armazenamento de arquivos em pastas compartilhadas de usuários, acesso remoto (VPN), serviços Web em sistemas internos e externos, proxy para otimização de uso da banda de Internet, FTP (para compartilhamento de arquivos grandes quando necessário), DNS, DHCP e sincronização do horário;
+
+
+VI –
+
+manter servidores para serviços, aplicações, desenvolvimento de sistemas e banco de dados;
+
+
+VII –
+
+prover atualização/aprimoramento dos softwares utilizados pela Prefeitura Municipal de Porto Velho e todos os sistemas na rede;
+
+
+VIII –
+
+realizar backup de arquivos e bases de dados de acordo com tipo de dados, atuando preventivamente no serviço de recuperação de arquivos e base de dados perdidos;
+
+
+IX –
+
+pesquisar e sugerir soluções em software, hardware e tecnologia para a Prefeitura de Porto Velho, apresentando soluções que aprimorem auxiliem na melhoria da prestação de serviços em sua área de atuação especificando tecnicamente as soluções propostas;
+
+
+X –
+
+informar todas as mudanças, quedas e/ou indisponibilidade dos serviços de sua competência às demais unidades da Superintendência Municipal de Tecnologia da Informação (SMTI);
+
+
+XI –
+
+monitorar a infraestrutura tecnológica (disponibilidade e performance) da Prefeitura de Porto Velho;
+
+
+XII –
+
+manter políticas de domínio (GPOs) para melhor controle de usuários e máquinas na rede;
+
+
+XIII –
+
+projetar faixas de endereços IP;
+
+
+XIV –
+
+manter serviço de virtualização;
+
+
+XV –
+
+manter servidores de aplicação para sistemas desenvolvidos pelo Departamento de Desenvolvimento de Sistemas (DESIS) e por terceiros, diagnosticando e solucionando problemas em servidores;
+
+
+XVI –
+
+implantar sistemas desenvolvidos pelo Departamento de Desenvolvimento de Sistemas (DESIS);
+
+
+XVII –
+
+manter o sistema de documentação interna da Superintendência Municipal de Tecnologia da Informação (SMTI);
+
+
+XVIII –
+
+manter dados atualizados em relação à tecnologia e infraestrutura de competência do Departamento de Gestão de Redes (DGR);
+
+
+XIX –
+
+prover atendimento em segundo e terceiro nível aos chamados escalonados pelo Departamento de Suporte Técnico e Atendimento (DSTA);
+
+
+XX –
+
+manter contato com fornecedores de equipamento e softwares, para fins de acompanhamento da prestação dos serviços e/ou fornecimento de bens; e,
+
+
+XXI –
+
+manter outras soluções tecnológicas não descritas que porventura venham a ser adquiridas ou implementadas na Prefeitura de Porto Velho, em relação à sua área de atuação.
+
+
+###### Subseção III — Da Divisão de Banco de Dados (DBD)
+
+
+Art. 28.
+
+Compete à Divisão de Banco de Dados (DBD), subordinada hierarquicamente ao Departamento de Gestão de Redes (DGR) e sob delegação deste:
+
+
+I –
+
+manter os sistemas de Gerenciamento de Banco de Dados (SGBD);
+
+
+II –
+
+prover atendimento a solicitações do Departamento de Qualidade e Governança de TI (DQG) quanto à administração de dados;
+
+
+III –
+
+prover suporte à tecnologia de Banco de Dados para desenvolvedores e fornecedores da Prefeitura de Porto Velho;
+
+
+IV –
+
+manter privilégios de acesso;
+
+
+V –
+
+monitorar desempenho dos Sistemas de Gerenciamento de Bancos de dados (SGBD) e problemas em geral;
+
+
+VI –
+
+executar tarefas de backup e restauração de bancos de dados;
+
+
+VII –
+
+pesquisar solução e funcionalidades do SGBD (compactação, full text search, criptografia, service broker, banco de dados distribuído, entre outros);
+
+
+VIII –
+
+manter rotinas agendadas (jobs) de negócio e administrativas;
+
+
+IX –
+
+manter projeto físico de dados (armazenamento, particionamento, índices, desnormalização, entre outros);
+
+
+X –
+
+executar sizing e planejamento de capacidade de hardware para servidores de Banco de Dados;
+
+
+XI –
+
+realizar auditoria de dados, podendo agir em conjunto com a Divisão de Segurança; e,
+
+
+XII –
+
+manter dados atualizados em relação aos Bancos de Dados de competência do Departamento de Gestão de Redes (DGR).
+
+
+##### Seção III — DO DEPARTAMENTO DE DESENVOLVIMENTO DE SISTEMAS (DESIS)
+
+
+Art. 29.
+
+O Departamento de Desenvolvimento de Sistemas (DESIS) tem a responsabilidade de planejar e controlar a execução de projetos de software, os recursos aplicados e o cumprimento dos prazos estabelecidos pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) da Prefeitura de Porto Velho.
+
+
+Art. 30.
+
+Compete ao Departamento de Desenvolvimento de Sistema (DESIS):
+
+
+I –
+
+elaborar e gerenciar projetos de Tecnologia da Informação relativos a desenvolvimento de software ou contratação de software, atuando conjuntamente com as demais unidades setoriais da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+II –
+
+identificar oportunidades de aplicação de Tecnologia da Informação para otimização dos trabalhos da Prefeitura de Porto Velho;
+
+
+III –
+
+participar do desenvolvimento e implementação de políticas e diretrizes que traduzam as melhores práticas existentes e ou disponíveis no mercado, visando a otimização dos serviços e utilização dos recursos sob sua responsabilidade;
+
+
+IV –
+
+propor planos de investimentos visando atualização tecnológica de seus equipamentos;
+
+
+V –
+
+participar junto com analistas e usuários de levantamentos das necessidades de Sistemas de Informação da Prefeitura do Município de Porto Velho;
+
+
+VI –
+
+realizar estudo de viabilidade das demandas para Sistema de Informação, participando do levantamento de requisitos e/ou análise de projeto, implementação, implantação e sua manutenção;
+
+
+VII –
+
+gerenciar atividades de projeto, implementação e manutenção de sistemas, realizadas por fábrica de software externa;
+
+
+VIII –
+
+colaborar com o Departamento de Qualidade e Governança de TI (DQG) no estabelecimento e implantação de padrões para o desenvolvimento de sistemas, através de metodologia adequada;
+
+
+IX –
+
+analisar e aprovar, em conjunto com o Departamento de Qualidade e Governança de TI (DQG), novas tecnologias para o desenvolvimento de sistemas;
+
+
+X –
+
+aprovar e acompanhar, conjuntamente com as unidades envolvidas, a implantação de sistemas adquiridos pela Prefeitura de Porto Velho, considerando a política de uso e segurança dos recursos computacionais:
+
+
+XI –
+
+emitir, quando solicitado, parecer técnico nas auditorias de tecnologia da informação e nas análises de editais e contratos de Tecnologia da Informação;
+
+
+XII –
+
+realizar atendimento de segundo nível para resolução de problemas relacionados aos Sistemas de Informação da Prefeitura de Porto Velho, quando necessário;
+
+
+XIII –
+
+acompanhar a execução de contratos relativos à sua área de atuação;
+
+
+XIV –
+
+gerenciar atividades e recursos humanos disponíveis;
+
+
+XV –
+
+elaborar, com participação de servidores do Departamento de Desenvolvimento de Sistemas (DESIS), o Plano Estratégico de TI – PETI do Departamento em conformidade com os Planos Estratégico e Diretor de Tecnologia da Informação da Superintendência Municipal de Tecnologia da Informação (SMTI), monitorando o cumprimento das metas estabelecidas, propondo ajustes e avaliando resultados;
+
+
+XVI –
+
+elaborar, com participação de servidores do Departamento de Desenvolvimento de Sistemas (DESIS), o Plano Estratégico de TI – PETI do Departamento em conformidade com os Planos Estratégico e Diretor de Tecnologia da Informação da Superintendência Municipal de Tecnologia da Informação (SMTI), monitorando o cumprimento das metas estabelecidas, propondo ajustes e avaliando resultados;
+
+
+XVII –
+
+identificar necessidades e propor condições para um melhor desempenho e integração da equipe, com ênfase no processo de capacitação dos servidores lotados no Departamento;
+
+
+XVIII –
+
+supervisionar o controle dos materiais e bens patrimoniais sob sua responsabilidade; e,
+
+
+###### Subseção I — Da Divisão de Sistemas de Apoio (DAS)
+
+
+Art. 31.
+
+Compete à Divisão de Sistema de Apoio (DAS), subordinada hierarquicamente ao Departamento de Desenvolvimento de Sistemas (DESIS) e sob delegação deste:
+
+
+I –
+
+realizar o levantamento, análise dos requisitos, artefatos, modelagem de classes do projeto de sistemas;
+
+
+II –
+
+participar do projeto de banco de dados dos sistemas;
+
+
+III –
+
+distribuir as atividades e acompanhar a equipe de codificação do sistema;
+
+
+IV –
+
+planejar, desenvolver e acompanhar a execução dos testes internos do Departamento de Desenvolvimento de Sistema (DESIS), no momento da pré-homologação;
+
+
+V –
+
+realizar, quando necessário, inspeções nos códigos do sistema;
+
+
+VI –
+
+produzir e/ou acompanhar o desenvolvimento dos manuais e treinamentos pertinentes, disponibilizando e executando o treinamento dos usuários no uso dos sistemas desenvolvidos pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+VII –
+
+planejar e acompanhar a implantação do sistema;
+
+
+VIII –
+
+avaliar os impactos das mudanças nos sistemas mantidos pelo DESIS;
+
+
+IX –
+
+elaborar relatórios de acompanhamento do projeto, reportando-os para o coordenador;
+
+
+X –
+
+interpretar artefatos produzidos conforme o processo de desenvolvimento de sistemas da Prefeitura de Porto Velho;
+
+
+XI –
+
+implementar, testar e manter funcionalidades de sistemas de acordo com sua especificação e com diferentes complexidades;
+
+
+XII –
+
+preparar massas de dados a fim de verificar o correto desempenho dos sistemas, corrigindo possíveis erros;
+
+
+XIII –
+
+realizar o desenvolvimento e manutenção de procedures, functions e jobs de negócios relativos a banco de dados, obedecidas as orientações da Divisão de Bancos de Dados (DBD) sobre esses procedimentos;
+
+
+XIV –
+
+utilizar as ferramentas de desenvolvimento e acompanhamento de atividades/programas de governo, inseridas nos instrumentos de Planejamento da Prefeitura de Porto Velho;
+
+
+XV –
+
+conduzir e executar as atividades de migração de dados;
+
+
+XVI –
+
+criar protótipos de sistemas; e,
+
+
+XVII –
+
+auxiliar o atendimento de Suporte Nível 2.
+
+
+###### Subseção II — Da Divisão de Integração de Sistema Web (DISW)
+
+
+Art. 32.
+
+Compete à Divisão de Integração Sistema de WEB (DISW), subordinada hierarquicamente ao Departamento de Desenvolvimento de Sistemas (DESIS) e sob delegação deste:
+
+
+I –
+
+elaborar protótipos de interface dos sistemas da Prefeitura de Porto Velho;
+
+
+II –
+
+efetivar a manutenção do portal (sítio eletrônico) e a intranet da Prefeitura de Porto Velho, mantendo suas funcionalidades e capazes de atendimento das solicitações dos usuários e analistas da Prefeitura de Porto Velho, especificamente em relação às mudanças de ordem técnica necessárias à sua operacionalização e eventual adquação (código fonte e afins);
+
+
+III –
+
+utilizar as ferramentas de desenvolvimento e acompanhamento de atividades adotadas pelo Município; e,
+
+
+IV –
+
+auxiliar o atendimento de Nível 2.
+
+
+##### Seção IV — DO DEPARTAMENTO DE SUPORTE TÉCNICO E ATENDIMENTO AOS USUÁRIOS DE TI (DSTAU)
+
+
+Art. 33.
+
+O Departamento de Suporte Técnico e Atendimento aos Usuários de TI (DSTAU) é responsável por garantir atendimento de qualidade aos usuários internos e externos da Tecnologia da Informação no âmbito da Prefeitura de Porto Velho, executando o efetivo gerenciamento tecnológico das demandas e adotando soluções alinhadas a procedimentos, processos e boas práticas de Tecnologia da Informação, voltadas a contribuir com o aumento da produtividade e valor agregado dos produtos e/ou serviços de competência da Superintendência Municipal de Tecnologia da Informação (SMTI).
+
+
+Art. 34.
+
+Compete ao Departamento de Suporte Técnico e Atendimento aos Usuários de TI (DSTAU):
+
+
+I –
+
+elaborar e gerenciar projetos de Tecnologia da Informação, atuando conjuntamente com as demais unidades setoriais da Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+II –
+
+descrever os serviços de Tecnologia da Informação, seus níveis, papéis e responsabilidades das partes envolvidas no Acordo de Nível de Serviço;
+
+
+III –
+
+gerar relatórios detalhados e gerenciais, em relação aos problemas de infraestrutura, buscando soluções para reduzir o número de incidentes a médio e longo prazo;
+
+
+IV –
+
+analisar solicitações de substituições e provimentos de equipamentos de Tecnologia de Informação geradas por usuários e recomendar atendimento a Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+V –
+
+comunicar e promover a disseminação adequada de informações para as unidades e áreas afetadas pelos eventos relacionados aos incidentes reportados à Central de Atendimento;
+
+
+VI –
+
+implantar um processo efetivo de gerenciamento de demandas, dentro das práticas previstas na disciplina de Suporte aos Serviços (Service Support) preconizados pela Information Tecnology Infrastructure Library – ITI L;
+
+
+VII –
+
+assegurar a efetividade das interfaces (entradas e saídas), processos, sub-processos, atribuições, competências, responsabilidades, e indicadores, relativos à disciplina indicada no inciso anterior;
+
+
+VIII –
+
+praticar e manter as políticas, procedimentos, padrões e boas práticas definidas pela Gerência de Qualidade e Governança de Tecnologia da Informação;
+
+
+IX –
+
+controlar a qualidade dos serviços prestados pelo Departamento de Suporte Técnico e Atendimento aos Usuários de TI (DSTAU), garantindo o cumprimento do Acordo de Nível de Serviço (SLA – Service Level Agreement) estabelecido com os usuários de Tecnologia da Informação;
+
+
+X –
+
+gerenciar conflitos, atuando de forma eficiente, estabelecendo um relacionamento de parceria e confiança com os usuários de Tecnologia da Informação, garantindo assim o nível de satisfação do mesmo;
+
+
+XI –
+
+acompanhar e avaliar os resultados globais das atividades sob sua gestão, fornecendo subsídios e informações, visando o tratamento das prioridades e o planejamento;
+
+
+XII –
+
+coordenar as ações da Central de Atendimento, provendo a Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) com os relatórios gerenciais e indicadores de desempenho, produtividade e qualidade da equipe;
+
+
+XIII –
+
+analisar problemas recorrentes e apresentar alternativas visando a sua eliminação definitiva;
+
+
+XIV –
+
+identificar oportunidades de aplicação de Tecnologia da Informação para otimização dos trabalhos da Prefeitura de Porto Velho;
+
+
+XV –
+
+participar do desenvolvimento e implementação de políticas e diretrizes que traduzam as melhores práticas existentes e ou disponíveis no mercado, visando a otimização dos serviços e utilização dos recursos sob sua responsabilidade;
+
+
+XVI –
+
+propor planos de investimentos visando atualização tecnológica dos equipamentos e servidores do Departamento;
+
+
+XVII –
+
+acompanhar a execução de contratos relativos à sua área de atuação;
+
+
+XVIII –
+
+gerenciar atividades e recursos disponíveis;
+
+
+XIX –
+
+executar os Planos Estratégico e Diretor de Tecnologia da Informação, monitorando o cumprimento das metas estabelecidas, propondo ajustes e avaliando resultados; e,
+
+
+XX –
+
+supervisionar o controle dos materiais e bens patrimoniais sob sua responsabilidade.
+
+
+###### Subseção I — Da Divisão de Suporte Nível 1 (DN1)
+
+
+Art. 35.
+
+Compete à Divisão de Suporte Nível 1 (DN1), subordinada hierarquicamente ao Departamento de Suporte Técnico e Atendimento aos Usuários de TI (DSTAU) e sob delegação deste:
+
+
+I –
+
+identificar os chamados, classificando-os de acordo com a sua natureza e prioridade, encaminhando os atendimentos para áreas específicas, caso estas não possam ser resolvidas no atendimento de 1º nível;
+
+
+II –
+
+cumprir o Acordo de Nível de Serviço (SLA – Service Level Agreement) com os usuários de Tecnologia da Informação, levando em consideração a natureza e prioridade dos chamados;
+
+
+III –
+
+executar funções de suporte final (1º nível), verbal, remotamente ou de forma presencial, incluindo o atendimento e o suporte aos usuários no uso do ambiente computacional sob sua responsabilidade;
+
+
+IV –
+
+diagnosticar e solucionar quando possível, problemas de hardware/software dos Itens de Configuração;
+
+
+V –
+
+facilitar a restauração da operação normal dos serviços de Tecnologia da Informação no menor tempo possível e o mínimo de impacto nos processos de negócios;
+
+
+VI –
+
+realizar suporte operacional dos aplicativos (suíte de escritório, navegador, utilitários etc.) instalados no ambiente computacional da Prefeitura de Porto Velho;
+
+
+VII –
+
+documentar e manter atualizada a base de conhecimento e registros de chamados;
+
+
+VIII –
+
+acompanhar os agendamentos para prover as solicitações de recursos (hardware e software) solicitados para uso nos eventos, audiências e reuniões mediante acesso à pasta compartilhada de Planilha de Reservas de Salas, comunicação eletrônica (e-Mail) e solicitações eventuais e/ou emergenciais (sem prévio agendamento);
+
+
+IX –
+
+receber, controlar e devolver os equipamentos disponibilizados ao Departamento respectivo;
+
+
+X –
+
+alimentar os sistemas de segurança, procedendo com inclusões e alterações cadastrais;
+
+
+XI –
+
+manter atualizado o inventário dos recursos computacionais, incluindo características técnicas, existentes nos órgãos e unidades correspondentes à sua área de atuação;
+
+
+XII –
+
+acompanhar e fechar chamados, após a sua efetiva conclusão;
+
+
+XIII –
+
+realizar pesquisa de satisfação junto aos usuários quando do fechamento dos chamados.
+
+
+###### Subseção II — Da Divisão de Suporte Nível 2 (DN2)
+
+
+Art. 36.
+
+Compete à Divisão de Suporte Nível 2 (DN2), subordinada hierarquicamente ao Departamento de Suporte Técnico e Atendimento aos Usuários de TI (DSTAU) e sob delegação deste:
+
+
+I –
+
+cumprir o Acordo de Nível de Serviço (SLA – Service Level Agreement) com os usuários de Tecnologia da Informação, levando em consideração a natureza e prioridade dos chamados;
+
+
+II –
+
+executar funções de suporte final incluindo o atendimento e o suporte aos usuários no uso do ambiente computacional sob sua responsabilidade;
+
+
+III –
+
+instalar e configurar softwares nos microcomputadores, assegurando o acesso à rede e documentando as configurações feitas;
+
+
+IV –
+
+instalar e configurar hardware e software, impressoras, monitores de vídeo, placas de rede e outros periféricos em geral, além de sistemas operacionais e aplicativos nos terminais de usuário;
+
+
+V –
+
+facilitar a restauração da operação normal dos serviços de Tecnologia da Informação no menor tempo possível e o mínimo de impacto nos processos de negócios;
+
+
+VI –
+
+documentar e manter atualizada a base de conhecimento e registros de chamados;
+
+
+VII –
+
+manter atualizado o inventário dos recursos computacionais, incluindo características técnicas, existentes nos órgãos e unidades correspondentes à sua área de atuação;
+
+
+VIII –
+
+encaminhar atendimentos para áreas específicas ou 2º nível de atendimento, caso estas não possam ser resolvidas no atendimento 1º nível.
+
+
+Art. 37.
+
+Fica conferida autonomia orçamentária e financeira à Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), configurando-se em unidade orçamentária, em razão das especificidades das ações e atribuições a ela conferidas pela presente Lei Complementar.
+
+
+Parágrafo único
+
+Ato do Poder Executivo estabelecerá a programação orçamentária aplicável à Superintendência Municipal de Tecnologia de Informação e Pesquisa (SMTI), assim como o procedimento de inclusão da unidade orçamentária na Lei Orçamentária Anual (LOA) do Município de Porto Velho.
+
+
+Art. 38.
+
+Fazem parte integrante desta Lei Complementar os seguintes Anexos, com os respectivos conteúdos:
+
+
+I –
+
+(Revogado)
+
+Revogado pelo II - Lei Complementar nº 1.019, de 18 de junho de 2025.
+
+
+II –
+
+Anexo II: Composição dos Cargos de Provimento Efetivo da SMTI.
+
+
+Art. 39.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Art. 40.
+
+Revoga-se o Anexo XXIII da Lei Complementar nº 883, de 25 de fevereiro de 2022.
+
+
+**HILDON DE LIMA CHAVES**
+
+**Prefeito**
+
+
+## Anexo I
+
+(Revogado)
+
+Revogado pelo II - Lei Complementar nº 1.019, de 18 de junho de 2025.
+
+
+## Anexo II — COMPOSIÇÃO DOS CARGOS DE PROVIMENTO EFETIVO DA SMTI¹
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td><p>CATEGORIA FUNCIONAL</p></td><td><p>ESCOLARIDADE</p></td><td><p>CLASSE</p></td><td><p>FAIXA</p></td><td><p>QUANT.</p></td></tr><tr><td><p>OPERADOR DE SISTEMA *</p></td><td><p>Nível Fundamental Completo</p></td><td><p>A</p></td><td><p>I A XV</p></td><td><p>08</p></td></tr><tr><td><p>TÉCNICO EM MULTI MEIOS DIDÁTICOS **</p></td><td><p>Nível Médio Completo</p></td><td><p>B</p></td><td><p>I A XV</p></td><td><p>07</p></td></tr><tr><td><p>TÉCNICO EM COMPUTAÇÃO EDUCACIONAL **</p></td><td><p>Nível Médio Completo</p></td><td><p>B</p></td><td><p>I A XV</p></td><td><p>03</p></td></tr><tr><td><p>PROGRAMADOR DE APLICAÇÃO *</p></td><td><p>Nível Médio Completo em Técnico em Informática</p></td><td><p>B</p></td><td><p>I A XV</p></td><td><p>05</p></td></tr><tr><td><p>ANALISTA DE APLICAÇÃO *</p></td><td><p>Bacharel em Ciência da Computação ou Área Afim</p></td><td><p>D</p></td><td><p>I A XV</p></td><td><p>02</p></td></tr><tr><td><p>ANALISTA DE SUPORTE *</p></td><td><p>Bacharel em Ciência da Computação ou Área Afim</p></td><td><p>D</p></td><td><p>I A XV</p></td><td><p>01</p></td></tr><tr><td><p>TÉCNICO DE TECNOLOGIA DA INFORMÁTICA</p></td><td><p>Nível Médio Completo em Técnico em Informática</p></td><td><p>C</p></td><td><p>I A XV</p></td><td><p>30</p></td></tr><tr><td><p>ANALISTA DE REDES E COMUNICAÇÃO DE DADOS</p></td><td><p>Bacharel em Ciência da Computação ou Área Afim</p></td><td><p>D</p></td><td><p>I A XV</p></td><td><p>12</p></td></tr><tr><td><p>ANALISTA DE TECNOLOGIA DA INFORMAÇÃO</p></td><td><p>Bacharel em Ciência da Computação ou Área Afim</p></td><td><p>D</p></td><td><p>I A XV</p></td><td><p>15</p></td></tr><tr><td><p>ANALISTA DE SISTEMA/PROGRAMADOR</p></td><td><p>Bacharel em Ciência da Computação ou Área Afim</p></td><td><p>D</p></td><td><p>I A XV</p></td><td><p>15</p></td></tr><tr><td colspan="4"><p>TOTAL</p></td><td><p>98</p></td></tr></tbody></table>
+
+\* Cargos em extinção, conforme LC 851/2021.
+
+\*\* Cargos a serem extinto com a criação do grupo TI.

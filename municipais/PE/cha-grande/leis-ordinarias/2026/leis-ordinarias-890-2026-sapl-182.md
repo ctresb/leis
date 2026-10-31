@@ -1,0 +1,121 @@
+---
+titulo: "Lei Ordinária-PM nº 890, de 10 de fevereiro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "890"
+data: "2026-02-10"
+municipio: "Chã Grande"
+uf: "PE"
+codigo_ibge: "2604502"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.chagrande.pe.leg.br/norma/182"
+fonte_texto: "https://sapl.chagrande.pe.leg.br/media/sapl/public/normajuridica/2026/182/1771503722_lei-890.pdf"
+sha256_fonte: "83555c46dc3de767e8338d8ef3f1b5a094c3ae8b6f6e7c6bd4c216a4dc9ac987"
+sha256_texto: "e7f8a669180977d7f049d81f1b29c1dbf772dd29fc915fd7fdfba538b4ef096d"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-PM nº 890, de 10 de fevereiro de 2026
+
+LEI Nº 890, DE 10 DE FEVEREIRO DE 2026
+
+ALTERA A LEI MUNICIPAL Nº 552/2010 E ALTERAÇÕES POSTERIORES, PARA ESTABELECER O REAJUSTE DO PISO SALARIAL DO MAGISTÉRIO E DE PARTE DOS PROFISSIONAIS DA EDUCAÇÃO BÁSICA DO MUNICÍPIO DE CHÃ GRANDE/PE, NO EXERCÍCIO DE 2026.
+
+O PREFEITO DO MUNICÍPIO DE CHÃ GRANDE/PE, no uso das atribuições que lhe são conferidas pela Constituição Federal de 1988, pela Constituição do Estado de Pernambuco e pela Lei Orgânica do Município de Chã Grande, FAÇO SABER que o poder Legislativo aprovou e eu sanciono a seguinte LEI:
+
+**Art. 1º.** Ficam reajustados, nos termos da Lei Municipal nº 552/2010 e alterações posteriores, os pisos salariais dos profissionais do magistério e de parte dos profissionais da educação básica do Município de Chã Grande/PE em 8% (oito por cento), passando a vigorar, como piso municipal, os valores constantes dos anexos que integram a presente Lei.
+
+**Art. 2º.** Para os fins do disposto no art. 1º desta Lei, consideram-se partes integrantes e indissociáveis os seguintes anexos:
+
+I – Tabela de Professores – 150 horas;
+
+II – Tabela de Professores – 200 horas;
+
+III – Tabela do cargo de Pedagogo – Nível Superior com 200 horas/aula;
+
+IV – Tabela do cargo de Psicólogo Educacional – Nível Superior com 200 horas/aula;
+
+V – Tabela do cargo de Professor de Música – Nível Superior com 150 horas/aula e Tabela do cargo de Professor de Música – Nível Superior com 200 horas/aula;
+
+VI – Tabela do cargo de Professor de Informática – Nível Superior com 150 horas/aula;
+
+VII – Tabela do cargo de Secretário Escolar – Nível com 200 horas/aula.
+
+**Art. 3º.** As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, consignadas na Lei Orçamentária Anual do exercício de 2026, ficando o Poder Executivo autorizado a promover a abertura de créditos suplementares que se fizerem necessários, observado o limite de suplementação previsto na legislação orçamentária vigente.
+
+**Art. 4º.** Esta Lei entra em vigor na data de sua publicação, produzindo seus efeitos financeiros a partir de 1º de janeiro de 2026, revogadas as disposições em contrário.
+
+Gabinete do Prefeito, 10 de fevereiro de 2026.
+
+Assinado de forma digital por SANDRO CORREA SANDRO CORREA DOS DOS SANTOS:73394440504 SANTOS:73394440504 Dados: -03'00' 2026.02.10 09:09:16
+
+SANDRO CORRÊA DOS SANTOS Prefeito
+
+PROJEÇÃO DA APLICAÇÃO DE 8% SOBRE AS TABELAS DO PCC DOS PROFISSIONAIS DA EDUCAÇÃO BÁSICA DO MUNICÍPIO DE CHÃ GRANDE PARA O EXERCÍCIO 2026
+
+TABELA PROFESSORES 150 HORAS FORMAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM MAGISTÉRIO LICENCIATURA LICENCIATURA PLENA LICENCIATURA PLENA TEMPO DE CLASSE FAIXA LICENCIATURA ESPECIALIZAÇÃ PLENA COM COM MESTRADO COM DOUTORADO SERVIÇO PLENA O PLENA ESPECIALIZAÇÃO NIVEL I NIVEL II NIVEL III NIVEL IV VII G R$ 34,45 R$ 37,90 R$ 41,69 R$ 45,86 R$ 50,45 30 Anos acima VII F R$ 32,81 R$ 36,09 R$ 39,70 R$ 43,68 R$ 48,04 25 a 29 anos VII E R$ 31,24 R$ 34,38 R$ 37,81 R$ 41,59 R$ 45,75 20 a 24 anos IV D R$ 29,76 R$ 32,73 R$ 36,01 R$ 39,61 R$ 43,58 15 a 19 anos III C R$ 28,34 R$ 31,18 R$ 34,30 R$ 37,72 R$ 41,49 10 a 14 anos II B R$ 26,99 R$ 29,69 R$ 32,66 R$ 35,93 R$ 39,52 5 a 9 anos I A R$ 25,70 R$ 28,27 R$ 31,10 R$ 34,21 R$ 37,64 0 a 4 anos
+
+TABELA PROFESSORES 150 HORAS FORMAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM MAGISTÉRIO LICENCIATURA PLENA LICENCIATURA PLENA LICENCIATURA PLENA TEMPO DE CLASSE FAIXA LICENCIATURA PLENA ESPECIALIZAÇÃO COM ESPECIALIZAÇÃO COM MESTRADO COM DOUTORADO SERVIÇO PLENA NIVEL I NIVEL II NIVEL III NIVEL IV VII G R$ 5.167,80 R$ 5.684,58 R$ 6.253,20 R$ 6.878,52 R$ 7.567,02 30 Anos acima VII F R$ 4.921,56 R$ 5.414,04 R$ 5.955,12 R$ 6.551,28 R$ 7.205,76 25 a 29 anos VII E R$ 4.686,66 R$ 5.156,46 R$ 5.671,62 R$ 6.238,62 R$ 6.862,32 20 a 24 anos IV D R$ 4.464,72 R$ 4.910,22 R$ 5.401,08 R$ 5.942,16 R$ 6.536,70 15 a 19 anos III C R$ 4.250,88 R$ 4.676,94 R$ 5.145,12 R$ 5.658,66 R$ 6.224,04 10 a 14 anos II B R$ 4.048,38 R$ 4.453,38 R$ 4.898,88 R$ 5.389,74 R$ 5.927,58 5 a 9 anos I A R$ 3.855,60 R$ 4.241,16 R$ 4.665,60 R$ 5.132,16 R$ 5.645,70 0 a 4 anos
+
+TABELA PROFESSORES 200 HORAS GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM LICENCIATURA PLENA LICENCIATURA PLENA LICENCIATURA PLENA TEMPO CLASSE FAIXA LICENCIATURA PLENA COM COM MESTRADO COM DOUTORADO DE ESPECIALIZAÇÃO
+
+NIVEL I NIVEL II NIVEL III NIVEL IV VII G R$ 37,90 R$ 41,69 R$ 45,86 R$ 50,45 30 Anos acima VII F R$ 36,09 R$ 39,70 R$ 43,68 R$ 48,04 25 a 29 anos VII E R$ 34,38 R$ 37,81 R$ 41,59 R$ 45,75 20 a 24 anos IV D R$ 32,73 R$ 36,01 R$ 39,61 R$ 43,58 15 a 19 anos III C R$ 31,18 R$ 34,30 R$ 37,72 R$ 41,49 10 a 14 anos II B R$ 29,69 R$ 32,66 R$ 35,93 R$ 39,52 5 a 9 anos I A R$ 28,27 R$ 31,10 R$ 34,21 R$ 37,64 0 a 4 anos
+
+TABELA PROFESSORES 200 HORAS GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM GRADUAÇÃO EM LICENCIATURA PLENA LICENCIATURA PLENA LICENCIATURA PLENA TEMPO CLASSE FAIXA LICENCIATURA PLENA COM COM MESTRADO COM DOUTORADO DE ESPECIALIZAÇÃO NIVEL I NIVEL II NIVEL III NIVEL IV SERVIÇO VII G R$ 7.579,44 R$ 8.337,60 R$ 9.171,36 R$ 10.089,36 30 Anos acima VII F R$ 7.218,72 R$ 7.940,16 R$ 8.735,04 R$ 9.607,68 25 a 29 anos VII E R$ 6.875,28 R$ 7.562,16 R$ 8.318,16 R$ 9.149,76 20 a 24 anos IV D R$ 6.546,96 R$ 7.201,44 R$ 7.922,88 R$ 8.715,60 15 a 19 anos III C R$ 6.235,92 R$ 6.860,16 R$ 7.544,88 R$ 8.298,72 10 a 14 anos II B R$ 5.937,84 R$ 6.531,84 R$ 7.186,32 R$ 7.903,44 5 a 9 anos I A R$ 5.654,88 R$ 6.220,80 R$ 6.842,88 R$ 7.527,60 0 a 4 anos
+
+## ANEXO III
+
+TABELA DO CARGO DE PEDAGOGO - NÍVEL SUPERIOR COM 200 HORAS AULAS CLASSE FAIXA NIVEL I NIVEL II NIVEL III TEMPO DE SERVIÇO VII G R$ 32,10 R$ 35,31 R$ 38,84 30 Anos acima VII F R$ 30,57 R$ 33,63 R$ 37,00 25 a 29 anos VII E R$ 29,12 R$ 32,02 R$ 35,23 20 a 24 anos IV D R$ 27,72 R$ 30,51 R$ 33,54 15 a 19 anos III C R$ 26,41 R$ 29,05 R$ 31,96 10 a 14 anos II B R$ 25,15 R$ 27,66 R$ 30,43 5 a 9 anos I A R$ 23,95 R$ 26,35 R$ 28,98 0 a 4 anos
+
+TABELA DO CARGO DE PEDAGOGO - NÍVEL SUPERIOR COM 200 HORAS AULAS
+
+CLASSE FAIXA NIVEL I NIVEL II NIVEL III TEMPO DE SERVIÇO VII G R$ 6.420,25 R$ 7.061,04 R$ 7.767,36 30 Anos acima VII F R$ 6.114,53 R$ 6.725,98 R$ 7.400,16 25 a 29 anos VII E R$ 5.823,36 R$ 6.404,40 R$ 7.045,92 20 a 24 anos IV D R$ 5.544,72 R$ 6.102,00 R$ 6.708,96 15 a 19 anos III C R$ 5.281,95 R$ 5.810,14 R$ 6.391,15 10 a 14 anos II B R$ 5.030,42 R$ 5.531,76 R$ 6.086,88 5 a 9 anos I A R$ 4.790,88 R$ 5.269,97 R$ 5.795,28 0 a 4 anos
+
+## ANEXO IV
+
+TABELA DO CARGO DE PSICÓLOGO EDUCACIONAL- NÍVEL SUPERIOR COM 200 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 24,66 R$ 27,13 R$ 29,84 R$ 32,81 30 Anos acima VII F R$ 23,47 R$ 25,83 R$ 28,40 R$ 31,26 25 a 29 anos VII E R$ 22,36 R$ 24,60 R$ 27,05 R$ 29,78 20 a 24 anos IV D R$ 21,30 R$ 23,43 R$ 25,77 R$ 28,35 15 a 19 anos III C R$ 20,29 R$ 22,32 R$ 24,55 R$ 26,99 10 a 14 anos II B R$ 19,32 R$ 21,25 R$ 23,38 R$ 25,70 5 a 9 anos I A R$ 18,40 R$ 20,25 R$ 22,27 R$ 24,49 0 a 4 anos
+
+TABELA DO CARGO DE PSICÓLOGO EDUCACIONAL- NÍVEL SUPERIOR COM 200 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 4.931,28 R$ 5.425,92 R$ 5.968,51 R$ 6.562,08 30 Anos acima VII F R$ 4.693,68 R$ 5.166,50 R$ 5.680,80 R$ 6.251,04 25 a 29 anos VII E R$ 4.471,20 R$ 4.920,48 R$ 5.410,80 R$ 5.955,12 20 a 24 anos IV D R$ 4.259,52 R$ 4.685,04 R$ 5.153,54 R$ 5.670,00 15 a 19 anos III C R$ 4.057,91 R$ 4.463,42 R$ 4.909,77 R$ 5.397,84 10 a 14 anos II B R$ 3.864,67 R$ 4.250,88 R$ 4.676,40 R$ 5.140,80 5 a 9 anos I A R$ 3.680,64 R$ 4.050,00 R$ 4.453,92 R$ 4.898,88 0 a 4 anos
+
+## ANEXO V
+
+TABELA DO CARGO DE PROFESSOR DE MÚSICA- NÍVEL SUPERIOR COM 150 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 34,46 R$ 37,90 R$ 41,70 R$ 45,88 30 Anos acima VII F R$ 32,82 R$ 36,09 R$ 39,71 R$ 43,69 25 a 29 anos VII E R$ 31,26 R$ 34,39 R$ 37,82 R$ 41,60 20 a 24 anos IV D R$ 29,49 R$ 32,75 R$ 36,03 R$ 39,61 15 a 19 anos III C R$ 28,78 R$ 31,18 R$ 34,29 R$ 37,74 10 a 14 anos II B R$ 26,99 R$ 29,69 R$ 32,66 R$ 35,93 5 a 9 anos I A R$ 25,70 R$ 28,27 R$ 31,11 R$ 34,23 0 a 4 anos
+
+TABELA DO CARGO DE PROFESSOR DE MÚSICA- NÍVEL SUPERIOR COM 150 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 5.169,42 R$ 5.684,58 R$ 6.254,82 R$ 6.881,76 30 Anos acima VII F R$ 4.923,18 R$ 5.414,04 R$ 5.956,74 R$ 6.552,90 25 a 29 anos VII E R$ 4.688,28 R$ 5.158,08 R$ 5.673,24 R$ 6.240,24 20 a 24 anos IV D R$ 4.424,22 R$ 4.911,84 R$ 5.404,32 R$ 5.942,16 15 a 19 anos III C R$ 4.317,30 R$ 4.676,94 R$ 5.143,50 R$ 5.660,28 10 a 14 anos II B R$ 4.048,38 R$ 4.453,38 R$ 4.898,88 R$ 5.389,74 5 a 9 anos I A R$ 3.855,60 R$ 4.241,16 R$ 4.667,22 R$ 5.133,78 0 a 4 anos
+
+TABELA DO CARGO DE PROFESSOR DE MÚSICA- NÍVEL SUPERIOR COM 200 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 37,90 R$ 41,70 R$ 45,88 R$ 50,57 30 Anos acima VII F R$ 36,09 R$ 39,70 R$ 43,69 R$ 48,04 25 a 29 anos VII E R$ 34,39 R$ 37,82 R$ 41,60 R$ 45,76 20 a 24 anos IV D R$ 32,75 R$ 36,03 R$ 39,61 R$ 43,59 15 a 19 anos III C R$ 31,18 R$ 34,30 R$ 37,74 R$ 41,50 10 a 14 anos II B R$ 29,69 R$ 32,66 R$ 35,93 R$ 39,53 5 a 9 anos I A R$ 28,27 R$ 31,11 R$ 34,23 R$ 37,66 0 a 4 anos
+
+TABELA DO CARGO DE PROFESSOR DE MÚSICA- NÍVEL SUPERIOR COM 200 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 7.579,44 R$ 8.339,76 R$ 9.175,68 R$ 10.113,12 30 Anos acima VII F R$ 7.218,72 R$ 7.940,16 R$ 8.737,20 R$ 9.607,68 25 a 29 anos VII E R$ 6.877,44 R$ 7.564,32 R$ 8.320,32 R$ 9.151,92 20 a 24 anos IV D R$ 6.549,12 R$ 7.205,76 R$ 7.922,88 R$ 8.717,76 15 a 19 anos III C R$ 6.235,92 R$ 6.860,16 R$ 7.547,04 R$ 8.300,88 10 a 14 anos II B R$ 5.937,84 R$ 6.531,84 R$ 7.186,32 R$ 7.905,60 5 a 9 anos I A R$ 5.654,88 R$ 6.222,96 R$ 6.845,04 R$ 7.531,92 0 a 4 anos
+
+## ANEXO VI
+
+TABELA DO CARGO DE PROFESSOR DE INFORMÁTICA - NÍVEL SUPERIOR COM 150 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 37,90 R$ 41,70 R$ 45,88 R$ 50,46 30 Anos acima VII F R$ 36,09 R$ 39,70 R$ 43,69 R$ 48,04 25 a 29 anos VII E R$ 34,39 R$ 37,82 R$ 41,60 R$ 45,76 20 a 24 anos IV D R$ 32,75 R$ 36,03 R$ 39,61 R$ 43,59 15 a 19 anos III C R$ 31,18 R$ 34,30 R$ 37,74 R$ 41,50 10 a 14 anos II B R$ 29,69 R$ 32,66 R$ 35,93 R$ 39,53 5 a 9 anos I A R$ 28,27 R$ 31,11 R$ 34,23 R$ 37,66 0 a 4 anos
+
+TABELA DO CARGO DE PROFESSOR DE INFORMÁTICA - NÍVEL SUPERIOR COM 150 HORAS AULAS TEMPO DE CLASSE FAIXA NIVEL I NIVEL II NIVEL III NIVEL IV
+
+VII G R$ 5.684,58 R$ 6.254,82 R$ 6.881,76 R$ 7.568,64 30 Anos acima VII F R$ 5.414,04 R$ 5.955,12 R$ 6.552,90 R$ 7.205,76 25 a 29 anos VII E R$ 5.158,08 R$ 5.673,24 R$ 6.240,24 R$ 6.863,94 20 a 24 anos IV D R$ 4.911,84 R$ 5.404,32 R$ 5.942,16 R$ 6.538,32 15 a 19 anos III C R$ 4.676,94 R$ 5.145,12 R$ 5.660,28 R$ 6.225,66 10 a 14 anos II B R$ 4.453,38 R$ 4.898,88 R$ 5.389,74 R$ 5.929,20 5 a 9 anos I A R$ 4.241,16 R$ 4.667,22 R$ 5.133,78 R$ 5.648,94 0 a 4 anos
+
+aqdad
+
+## ANEXO VII
+
+TABELA DO CARGO DE SECRETÁRIO ESCOLAR- NÍVEL COM 200 HORAS AULAS
+
+CLASSE FAIXA NIVEL I CLASSE FAIXA NIVEL I
+
+VII G R$ 15,87 VII G R$ 3.173,04 VII F R$ 15,12 VII F R$ 3.024,00 VII E R$ 14,40 VII E R$ 2.879,28 IV D R$ 13,71 IV D R$ 2.741,04 III C R$ 13,06 III C R$ 2.611,44 II B R$ 12,43 II B R$ 2.486,16 I A R$ 11,85 I A R$ 2.369,52
+

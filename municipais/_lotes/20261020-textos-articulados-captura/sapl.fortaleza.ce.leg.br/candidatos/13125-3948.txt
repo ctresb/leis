@@ -1,0 +1,48 @@
+Autoriza o Poder Executivo a abrir no orçamento da seguridade social do Município de Fortaleza, em favor do Instituto de Previdência do Município, crédito especial no valor de R$ 591.076.948,00, na forma que indica.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo autorizado a abrir no orçamento da seguridade social do Município de Fortaleza, em favor do Instituto de Previdência do Município, Unidade Orçamentária 18202, crédito especial no valor de R$ 591.076.948,00 (quinhentos e noventa e um milhões, setenta e seis mil e novecentos e quarenta e oito reais) para atender a programação constante no anexo I desta Lei.
+
+
+Art. 2º.
+
+Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial das dotações orçamentárias especificadas no anexo II desta Lei, nos termos do art. 43, § 1º, inciso III, da Lei nº 4.320/64.
+
+
+Art. 3º.
+
+O ato que abrir o crédito indicará o detalhamento da despesa em que serão alocados e cancelados os recursos.
+
+
+Art. 4º.
+
+Durante a execução orçamentária, o crédito autorizado poderá ser alterado, observado o disposto no art. 7º, da Lei nº 11.060, de 23 de dezembro de 2020 (LOA 2021).
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 15 DE JUNHO DE 2021.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA Prefeito Municipal de Fortaleza**
+
+
+## ANEXO I — ORÇAMENTO DA SEGURIDADE SOCIAL
+
+**18202 - INSTITUTO DE PREVIDÊNCIA DO MUNICIPIO – PREVFOR**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><p> </p><p> </p><p><strong>Classificação</strong></p><p><strong>Orçamentária</strong></p><p> </p><p> </p></td><td><p> </p><p> </p><p><strong>Descrição</strong></p></td><td><p> </p><p> </p><p><strong>Fonte</strong></p></td><td><p> </p><p><strong>Pessoal e</strong></p><p><strong>Encargos</strong></p><p><strong>Sociais</strong></p></td></tr><tr><td><p>09</p><p> </p><p>272</p><p> </p><p> </p><p>0001</p><p> </p><p>2900</p><p> </p><p> </p><p> </p><p> </p><p>09.272.0001.2900.0002</p></td><td><p>Previdência Social</p><p> </p><p>Previdência do Regime</p><p>Estatutário</p><p> </p><p>Gestão e Manutenção</p><p> </p><p>Pagamento de Pessoal</p><p>Inativo e Pensionistas do </p><p>Município e Encargos Sociais</p><p> </p><p> </p><p>Pagamento de Pessoal</p><p>Inativo e Pensionistas do</p><p>Município e Encargos Sociais</p></td><td><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>1.001.0000.00.01</p><p>1.410.0131.01.00</p><p>1.410.0131.02.00</p></td><td><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>101.700.000,00</p><p>486.000.000,00</p><p>3.376.948,00</p></td></tr><tr><td colspan="3"><p><strong>T O T A L</strong></p></td><td><p>591.076.948,00</p></td></tr></tbody></table>
+
+
+## ANEXO II — ORÇAMENTO DA SEGURIDADE SOCIAL
+
+**18202 - INSTITUTO DE PREVIDÊNCIA DO MUNICIPIO – PREVFOR**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><p> </p><p> </p><p><strong>Classificação</strong></p><p><strong>Orçamentária</strong></p><p> </p><p> </p></td><td><p> </p><p> </p><p><strong>Descrição</strong></p></td><td><p> </p><p> </p><p><strong>Fonte</strong></p></td><td><p> </p><p><strong>Pessoal e</strong></p><p><strong>Encargos</strong></p><p><strong>Sociais</strong></p></td></tr><tr><td><p>09</p><p> </p><p>122</p><p> </p><p>0001</p><p> </p><p>2900</p><p> </p><p> </p><p> </p><p> </p><p>09.122.0001.2900.0001</p></td><td><p>Previdência Social</p><p> </p><p>Administração Geral</p><p> </p><p>Gestão e Manutenção</p><p> </p><p>Pagamento de Pessoal</p><p>Inativos e Pensionistas do </p><p>Município e Encargos Sociais</p><p> </p><p> </p><p>Pagamento de Pessoal</p><p>Inativos e Pensionistas do</p><p>Município e Encargos Sociais</p></td><td><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>1.001.0000.00.01</p><p>1.410.0131.01.00</p><p>1.410.0131.02.00</p></td><td><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>101.700.000,00</p><p>486.000.000,00</p><p>3.376.948,00</p></td></tr><tr><td colspan="3"><p><strong>T O T A L</strong></p></td><td><p>591.076.948,00</p></td></tr></tbody></table>

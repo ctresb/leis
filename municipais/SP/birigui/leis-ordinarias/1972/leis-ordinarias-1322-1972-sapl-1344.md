@@ -1,0 +1,67 @@
+---
+titulo: "Lei Ordinária nº 1.322, de 27 de dezembro de 1972"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1322"
+data: "1972-12-27"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1344"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1975/text"
+sha256_fonte: "e45e358dc48f2e8dfd1a83e99e229176e093bc992d721c2b4a28d5205a522319"
+sha256_texto: "8be02eb9ff5a4aec425dc2624941554ff9cd1cf919d7208670bf4c1360dcbcf4"
+capturado_em_fonte: "2026-10-27T19:11:59.007888-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.322, de 27 de dezembro de 1972
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL DE Cr$ 76.000,00.
+
+
+Eu, **WILSON STROSE**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto, no Serviço de Finanças – Setor de Contabilidade, um crédito adicional de Cr$ 76.000,00 (setenta e seis mil cruzeiros), suplementar às seguintes verbas do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">0 - GOVERNO E ADMINISTRAÇÃO GERAL</td></tr><tr><td colspan="2">II - PODER EXECUTIVO</td></tr><tr><td colspan="2">a) Gabinete do Prefeito</td></tr><tr><td colspan="2">9 - 3.1.3.0.0.2 - Serviços de terceiros</td></tr><tr><td>01-Mensalidades dos telefones oficiais </td><td>Cr$ 500,00</td></tr><tr><td>09-Para outros encargos </td><td>Cr$ 3.000,00</td></tr><tr><td colspan="2">b) Serviço de Administração e Expediente</td></tr><tr><td colspan="2">16 - 3.1.3.0.0.5 - Serviços de Terceiros</td></tr><tr><td>01-Para publicação de atos oficiais </td><td>Cr$ 5.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">1 - ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td colspan="2">a) Gabinete do Assistente Administrativo</td></tr><tr><td colspan="2">20 - 3.1.2.0.1.1 - Material de Consumo</td></tr><tr><td>Impressos, livros e materiais de expediente </td><td>Cr$ 3.500,00</td></tr><tr><td colspan="2">e) Serviço de Dívidas</td></tr><tr><td colspan="2">28 - 3.1.5.0.1.3 - Despesas de Exercícios anteriores</td></tr><tr><td colspan="2">Para pagamento a credores diversos</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">4 - VIAÇÃO, TRANSPORTES E COMUNICAÇÕES</td></tr><tr><td colspan="2">a) Serviço Municipal de Estradas de Rodagem (SERM)</td></tr><tr><td colspan="2">41 - 3.1.2.0.4.2 - Material de Consumo</td></tr><tr><td>Para compra de ferramentas, gasolina, pneus, peças para veículos e outros materiais </td><td>Cr$ 10.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">6 - EDUCAÇÃO E CULTURA</td></tr><tr><td colspan="2">b) Ensino Médio</td></tr><tr><td colspan="2">57 - 3.1.3.1.6.2 - Comunicações e Transportes</td></tr><tr><td>Para pagamento de transportes de alunos residentes na zona rural </td><td>Cr$ 2.500,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">7 - SAÚDE</td></tr><tr><td colspan="2">Assistência Médico-Hospitalares</td></tr><tr><td colspan="2">73 - 3.1.4.0.7.9- Encargos Diversos</td></tr><tr><td>02-Para despesas com atendimento de transportes de doentes para internamento em hospitais especializados </td><td>Cr$ 3.000,00</td></tr><tr><td colspan="2">75 - 3.2.1.5.7.1 - Instituições Privadas</td></tr><tr><td>01-À Santa Casa de Misericórdia de Birigui </td><td>Cr$ 10.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">9 - SERVIÇOS URBANOS</td></tr><tr><td colspan="2">c) Limpeza Pública</td></tr><tr><td colspan="2">89 - 3.1.2.0.9.2- Material de Consumo</td></tr><tr><td>Para compra de pneus, ferramentas, peças para veículos, gasolina e outros </td><td>Cr$ 5.000,00</td></tr><tr><td colspan="2">d) Iluminação Pública</td></tr><tr><td colspan="2">91 - 3.1.3.0.9.3- Serviços de Terceiros</td></tr><tr><td>para pagamento de iluminação pública </td><td>Cr$ 1.000,00</td></tr><tr><td colspan="2">92 - 4.1.2.0.9.3 - Serviços em Regime de Programação Especial</td></tr><tr><td>Para ampliação e melhoramentos na rede de iluminação pública </td><td>Cr$ 7.500,00</td></tr><tr><td colspan="2">1) Obras Públicas</td></tr><tr><td colspan="2">111 - 4.1.2.0.9.9 - Serviços em Regime de Programação Especial</td></tr><tr><td>Para prosseguimento dos serviços de eletrificação rural </td><td>Cr$ 20.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito a que se refere o Artigo anterior será coberto com recursos provenientes de:
+
+
+a)
+
+excesso de arrecadação, já verificada na rubrica 712/2.5.1.2.0 - Cota-parte do Fundo de Participação dos Municípios, do orçamento vigente: Cr$ 20.000,00;
+
+
+b)
+
+excesso de arrecadação, a se verificar, até o final do exercício, na rubrica 505/1.4.4.1.0-Participação em tributos estaduais - No Imposto Sobre Circulação de Mercadorias, do orçamento municipal vigente: Cr$ 56.000,00.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e sete de dezembro de mil novecentos e setenta e dois.
+
+**WILSON STROSE Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e sete de dezembro de mil novecentos e setenta e dois, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

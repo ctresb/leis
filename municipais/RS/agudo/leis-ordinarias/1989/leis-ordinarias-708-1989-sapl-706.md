@@ -1,0 +1,80 @@
+---
+titulo: "Lei nº 708, de 28 de novembro de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "708"
+data: "1989-11-28"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/706"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1517/text"
+sha256_fonte: "9609f64e97759b276f7c90d38d60cbbfbbb10a1045112a3bb1c53daf3e9675b3"
+sha256_texto: "202ed84a3679670863f6cc03d1291ff7dfeceff36136834559519ac83e163e86"
+capturado_em_fonte: "2026-10-27T21:43:31.644798-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 708, de 28 de novembro de 1989
+
+ESTABELECE NORMAS PARA A CONTRATAÇÃO DE PESSOAL POR TEMPO DETERMINADO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+PEDRO ÁLVARO MÜLLER, PREFEITO MUNICIPAL DE AGUDO, ESTADO DO RIO GRANDE DO SUL, no uso das atribuições legais que me são conferidas, FAÇO SABER que a Câmara Municipal de Vereadores aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+A contratação de Pessoal por tempo determinado - facultada pela Constituição Federal - art.37, inciso IX, está autorizada nas seguintes hipóteses:
+
+
+I –
+
+Atender a termos de convênio, acordo ou ajuste para a execução de obras ou prestação de serviços, durante o período de vigência do convênio, acordo ou ajuste;
+
+
+II –
+
+execução de programas especiais de trabalhos instituídos por Decreto do Prefeito, para atender necessidades conjunturais que demandem a atuação da Prefeitura.
+
+
+Parágrafo único.
+
+Não se instituirá programa especial de trabalho que se inclua na área de Competência dos órgãos existentes na estrutura administrativa da prefeitura Municipal, ressalvados os casos de emergência ou calamidade pública.
+
+
+Art. 2º.
+
+As contratações feitas com base nesta Lei, o serão de Forma prevista no art. 443, $ 1º, da Consolidação das leis do Trabalho - CLT, e dependerão da existência de recursos orçamentários.
+
+
+Art. 3º.
+
+O salário do pessoal contratado no regime instituído por esta Lei será fixado para o cargo idêntico ou assemelhado, integrante do Quadro de Cargos e Empregos do Município.
+
+
+Parágrafo único.
+
+Na contratação de pessoas para cumprir jornada de trabalho diversa do pessoal da Prefeitura, os salários serão aumentados ou reduzidos na mesma proporção.
+
+
+Art. 4º.
+
+Esta lei estrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, em 28 de novembro de 1989.
+
+Dr. PEDRO ÁLVARO MÜLLER
+
+Prefeito Municipal
+
+Registre-se e Publique-se  
+  
+Bel. AURÉLIO ALTAIR LOSEKANN  
+Sec. de Administração
+

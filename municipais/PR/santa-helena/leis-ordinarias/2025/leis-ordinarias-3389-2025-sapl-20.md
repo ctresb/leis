@@ -1,0 +1,61 @@
+---
+titulo: "Lei Ordinária-EXEC nº 3.389, de 19 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3389"
+data: "2025-12-19"
+municipio: "Santa Helena"
+uf: "PR"
+codigo_ibge: "4123501"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.santahelena.pr.leg.br/norma/20"
+fonte_texto: "https://sapl.santahelena.pr.leg.br/media/sapl/public/normajuridica/2025/20/3.389_2025_-_convenio_missal.pdf"
+sha256_fonte: "cb4790bb6280612ae11b8a2b456020a46ad60e5bfa56e94bf62464055746144c"
+sha256_texto: "6f2ab775dd2ed435155f392878f12ddae5d5d873b97b5a493da08bfcdef3bf8d"
+baixado_em: "2026-10-16"
+---
+
+# Lei Ordinária-EXEC nº 3.389, de 19 de dezembro de 2025
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N° 3.389 DE 19 DEZEMBRO DE 2025 Autoriza o Município de Santa Helena a firmar convênio com o Município de Missal e dá outras providências. A CAMARA MUNICIPAL DE SANTA HELENA, ESTADO DO PARANA, APROVOU, E EU, PREFEITO MUNICIPAL SANCIONO A SEGUINTE
+
+**Art. 1°** Fica o Poder Executivo Municipal autorizado a firmar convênio com o Município de Missal, Estado do Paraná, visando a execução de pavimentação asfáltica na Estrada Rural Linha Navegantes, localizada na divisa entre os Municípios, em uma extensão total de 2.056,00 m (dois mil e cinquenta e seis metros).
+
+**Art. 2°** O valor total da obra de pavimentação asfáltica será rateado pelos Municípios na proporção de 50% (cinquenta por cento) cada.
+
+**Parágrafo único.** O pagamento integral à empresa contratada será efetuado pelo Município de Santa Helena, ficando o Município de Missal responsável por repassar a sua cota-parte diretamente ao Município de Santa Helena.
+
+**Art. 3°** Compete ao Município de Santa Helena a elaboração, condução e conclusão do processo licitatório destinado à contratação da empresa responsável pela execução da obra.
+
+**Art. 4°** Os termos e condições do convênio reger-se-ão e pela Minuta do Termo de Convênio e pelo Projeto Arquitetônico que integram os Anexos | e Il desta Lei.
+
+**Art. 5°** As despesas decorrentes da execução do convênio correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+**Art. 6°** Esta Lei entra em vigor na data de sua publicação. Santa Helena, aos dezenove dias do mês de dezembro do ano de dois mil e vinte e cinco. CLADEMAR JOÃO MARASKIN PREFEITO MUNICIPAL
+
+ANEXO I MINUTA DO CONVÊNIO QUE ENTRE SI CELEBRAM O MUNICÍPIO DE SANTA HELENA/PR E O MUNICÍPIO DE MISSAL/PR. Pelo presente instrumento, o MUNICIPIO DE SANTA HELENA, com sede na Rua Paraguai, n°. 1.401, Centro - Santa Helena-PR, inscrito no CNPJ/MF sob o N°. 76.206.457/0001-19, neste ato representado por seu Prefeito Municipal, CLADEMAR JOAO MARASKIN, brasileiro, casado, portador da Cédula de Identidade RG n° 5.032.279-3 inscrito no CPF/MF 848.990.699-87, com som sede na Rua Paraguai, n°. 1.401, Centro - Santa Helena-PR, onde é domiciliado e o MUNICIPIO DE MISSAL/PR, com sede na Rua Nossa Senhora da Conceição, n°. 555, Centro, Caixa Postal n°. 01, CEP: 85.890.000 - Missal/PR, inscrito no CNPJ N°. 78.101.847/0001- 50, Tel. (45) 3244-8000, neste ato representado por seu Prefeito Municipal ADILTO LUIS FERRARI, brasileiro, casado, portador do RG n°. 3.092.743-5 e CPF n.º 017.146.569-50, com sede na Rua Nossa Senhora da Conceição, n°. 555, Centro, Missal - Paraná, CEP 85890-000, com amparo na Lei Municipal n.° xxxx/2025 do Município de Santa Helena/PR, e, na Lei Municipal n.º xxxx/2025 do Municipio de Missal/PR, resolvem firmar o presente CONVÊNIO, de acordo com cláusulas e condições que seguem: CLÁUSULA PRIMEIRA: DO OBJETO O presente Convênio tem por objeto a execução de Pavimentação Asfáltica da Estrada Rural - Linha Navegantes, divisa entre o Município de Santa Helena/PR, e o Município de Missal/PR, com as seguintes especificações:
+
+a) Localização Geográfica: Entre as coordenadas 24°01'10.68S/54°16'27.87O e 25°01'11.48"S/54°17'41.18"0.
+
+b) Metragem Total da Obra: - Comprimento Total: 2056,00 m; - Largura: 5 m; - Área Alargamento de Entroncamento: 125,60 m2; - Area Total de Pontes: 67,50 m2; - Area Total: 125,60m2+10.280,00m2+67,50m2=10.405,60 ml.
+
+c) Natureza da Via: A via em questão está assentada sobre a linha de divisa intermunicipal, com responsabilidade solidária e de interesse primário de ambas as Administrações, com metade do leito pertencente a cada Município. As especificações estão de acordo com o Projeto com respectivo perfil do terreno - Projeto Arquitetônico, Memorial Descritivo e Orçamento ART/RRT N.° xxxxxxxxxxxx,
+
+anexos e que integram o presente Convênio.
+
+CLÁUSULA SEGUNDA: DA EXECUÇÃO Para a execução do objeto do presente instrumento, o Município de Santa Helena- PR, compromete-se contratar a execução da obra, ficando sob sua responsabilidade a realização do devido processo de licitação para execução indireta por empresa especializada, conforme legislação vigente. CLAUSULA TERCEIRA: DOS VALORES, DO PAGAMENTO À EMPRESA VENCEDORA DO PROCESSO LICITATÓRIO E FORMA DE RESSARCIMENTO PELO MUNICÍPIO DE MISSAL-PR, AO MUNICIPIO DE SANTA HELENA-PR. O valor estimado para execução da obra objeto deste Convênio é de R$800.000,00 (oitocentos mil reais), sendo que os valores serão custeados em 50% para cada município, nas condições a seguir descritas: O Município de Santa Helena-PR, contratará a obra objeto do presente 1) Convênio, mediante prévia licitação e pagará à empresa vencedora do certame os valores licitados/contratados; O Município de Missal, deverá efetuar o ressarcimento dos valores a serem pagos pela obra, incluindo eventuais aditivos de aumento de metafísica, no percentual de 50% do valor total, na conclusão da obra, ou seja, no prazo de ate 30 dias, a partir da emissão do Atestado Definitivo da Conclusão da Obra, valores esses, os quais deverão ser depositadas em conta do Município de Santa Helena-PR.
+
+PARÁGRAFO ÚNICO: Realizada a licitação e contratada a obra, o presente Convênio poderá sofrer ajustes de seu valor, visando adequar ao valor efetivamente contratado. CLÁUSULA QUARTA: DA MEDIÇÃO As medições serão realizadas em estrita observância a praxe adotada em obras similares pelo Município contratante, sendo coadjuvado pelo fiscal da execução indicado pelo Município de Missal-PR, devendo os laudos de vistoria e medição ser firmados pelos fiscais dos dois municípios signatários do presente, indicados pelos respectivos gestores. CLÁUSULA QUINTA: DOS RECURSOS A SEREM DESPENDIDOS PELAS PARTES As despesas decorrentes do presente Convênio, correrão por conta do orçamento próprio do Município de Santa Helena-PR, podendo o Município de Missal-PR, contabilizar sua parte em dotação de seu próprio orçamento.
+
+CLÁUSULA SEXTA: DAS OBRIGAÇÕES DAS PARTES 1 - São obrigações do MUNICÍPIO DE SANTA HELENA: providenciar a liberação dos recursos para a contratação da empresa; a) a contratação de empresa especializada para execução da obra, mediante b) prévia licitação; c) assumir responsabilidade sobre o contrato e demais obrigações decorrentes do Convênio, bem como pela supervisão do cumprimento das obrigações sociais e trabalhistas dos colaboradores e empregados da empresa contratada; fornecer os dados necessários para que o Município de Missal-PR, efetue o d) pagamento do valor proporcional a sua cota parte, nos termos deste convenio; supervisionar e fiscalizar o Convênio a que se refere a obra realizada pelo e) Município, emitindo relatório de acompanhamento da obra, podendo ser no próprio laudo de medição; receber o trecho executado mediante "Termo de Recebimento Provisório e Termo Definitivo da ObraiỊị os quais deverão ser encaminhados ao Município de Missal/PR, na forma de cópia; emitir "Termo de Conclusão" atestando o término da Obra e do Convênio; g) Manter informado o Município de Missal sobre todas as intercorrências que n) ocorrerem com a empresa na execução do contrato; O Município de Santa Helena assumirá integral e exclusivamente a responsabilidade pela condução de todas as etapas do processo licitatório decorrente deste convênio, incluindo a elaboração do edital, julgamento e habilitação. Eventuais falhas, omissões, irregularidades ou descumprimentos legais decorrentes da condução do certame serão imputados unicamente ao Município de Santa Helena, não recaindo sobre o Município de Missal qualquer responsabilidade administrativa, civil ou judicial. Fica ainda estabelecido que o Município de Missal não responderá por representações, ações judiciais, penalidades, sanções de órgãos de controle ou quaisquer outras consequências jurídicas que venham a incidir sobre o ente responsável pela condução do processo licitatório.
+
+II - São obrigações do MUNICÍPIO DE MISSAL: providenciar a liberação dos recursos para efetuar o ressarcimento dos valores ao Município de Santa Helena-PR; supervisionar e fiscalizar a obra, objeto do Convênio a que se refere a obra realizada pelo Município de Santa Helena-PR, emitindo relatório da execução, conforme "caput", inciso I, alínea "e", da Cláusula Sexta; efetuar o ressarcimento dos valores a serem pagos pela obra, incluindo c) eventuais aditivos de aumento de metafísica, no percentual de 50% do valor total, na conclusão da obra, ou seja, no prazo de até 30 dias, a partir da emissão do Rua Paraguai, 1401 - Caixa Postal 03 - Fone (45) 3268-8200 - CEP 85892-000 - Santa Helena - Parané
+
+Atestado Definitivo da Conclusão da Obra, valores esses, os quais deverão ser depositadas em conta do Município de Santa Helena-PR; Assumir, em caráter solidário e na proporção de sua cota-parte de 50% (cinquenta por cento), eventuais condenações de natureza trabalhista, previdenciária, fiscal, ambiental ou outras que venham a ser imputadas, diretamente ou de torma subsidiária, ao MUNICÍPIO DE SANTA HELENA, em razão da má execução, da falha na fiscalização ou do inadimplemento da empresa contratada, decorrentes do presente Convênio. Tal responsabilidade solidária é vinculada ao benefício mútuo gerado pela obra em divisa intermunicipal, sem prejuízo da responsabilidade primária da empresa contratada. CLÁUSULA SÉTIMA: DO INADIMPLEMENTO No caso de inadimplemento pelo Município de Missal da obrigação prevista na alínea "b" da cláusula Terceira e na alínea "c", do inciso Il da cláusula Sexta deste convênio, haverá aplicação de multa no percentual de 10% (dez por cento) sobre o valor do ressarcimento, mais despesas judiciais e honorários advocatícios. CLÁUSULA OITAVA: DOS PRAZOS O prazo para execução da obra objeto do presente Convênio é 180 (cento e oitenta) dias corridos, contados a partir da data de emissão da Ordem de Serviços pelo Município contratante e o prazo do Convênio será até o ressarcimento dos valores acordados por parte do Município de Missal-PR. CLAUSULA NONA: DAS ALTERAÇÕES As alterações que porventura possam ocorrer no presente instrumento, somente serão realizadas havendo mútuo acordo entre as partes, e se processarão mediante a lavratura de Termo Aditivo ou Apostilamento, conforme o caso. CLÁUSULA DÉCIMA: DA RESCISÃO DO CONVÊNIO O presente Convênio poderá ser rescindido de pleno direito no caso de infração a quaisquer das Cláusulas ou condições nele estipuladas, ou denunciado por qualquer dos partícipes com antecedência mínima de 30 (trinta) dias, ou a qualquer tempo, em face da superveniência de ato ou norma legal extintiva.
+
+CLÁUSULA DÉCIMA PRIMEIRA: DA VIGÊNCIA A vigência deste Convênio terá início após cumpridas com a assinatura do mesmo, e vigorará até seu total cumprimento. CLÁUSULA DÉCIMA SEGUNDA: DOS CASOS OMISSOS Os casos omissos neste convênio poderão ser sanados mediante eleição de mediador, livremente escolhido pelas partes. CLÁUSULA DÉCIMA TERCEIRA: DO FORO O foro para dirimir as questões decorrentes deste Convênio é o da Cidade de Santa Helena-PR, com expressa renúncia de qualquer outro, por mais privilegiado que seja. E, por estarem de acordo, firmam o presente. Em xx de xxxxx de 2025. CLADEMAR JOÃO MARASKIN ADILTO LUIS FERRARI Prefeito de Missal Prefeito de Santa Helena TESTEMUNHAS: NERI JOSÉ GIROTTO ALDAIR CASSOL FOLETTO Sec. de Obras do Mun. de Santa Helena-PR Sec. de Obras do Mun. de Missal-PR RG n°. 5.163.186-2 RG n°. 4.377.214-7 CPF n°. 647.976.279-72 CPF n°. 702.006.290-34
+
+ANEXO II DETALHE ELEVAÇÃO - CURVA DE NÍVEL DETALHE CONSTRUTIVO PPBE SANTA ELENCIPAL ROJETO ARQUITETÓNICO
+

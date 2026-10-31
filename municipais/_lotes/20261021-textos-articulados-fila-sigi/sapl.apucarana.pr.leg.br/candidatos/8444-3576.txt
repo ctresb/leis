@@ -1,0 +1,1403 @@
+Dispõe sobre o Sistema Viário do Município de Apucarana, Revoga a Lei Complementar Nº 008, de 19 de dezembro de 2014 e o Decreto 034, de 10 de março de 2005, como especifica.
+
+
+A CÂMARA MUNICIPAL DE APUCARANA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO DO MUNICÍPIO, OBEDECENDO AO DISPOSTO NO INCISO V, ARTIGO 55 DA LEI ORGÂNICA, SANCIONO A SEGUINTE:-
+
+LEI COMPLEMENTAR
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+A presente lei destina-se a hierarquização das vias, caracterização geométrica e requisitos complementares do sistema viário em respeito às normas e legislações vigentes e pertinentes a matéria nas esferas estaduais e federais.
+
+
+Parágrafo único
+
+São parte integrante e complementar desta Lei os seguintes anexos:
+
+
+I –
+
+Anexo I – Mapa de Hierarquia Viária Municipal;
+
+
+II –
+
+Anexo II – Mapa de Hierarquia Viária – Sede;
+
+
+III –
+
+Anexo III – Mapa de Hierarquia Viária - Distrito Caixa de São Pedro;
+
+
+IV –
+
+Anexo IV – Mapa de Hierarquia Viária – Distrito Pirapó;
+
+
+V –
+
+Anexo V – Mapa de Hierarquia Viária – Distrito Vila Reis;
+
+
+VI –
+
+Anexo VI – Mapa de Hierarquia Viária – Distrito Correia de Freitas;
+
+
+VII –
+
+Anexo VII – Mapa de Hierarquia Viária – Núcleo Urbano São Domingos;
+
+
+VIII –
+
+Anexo VIII – Mapa de Hierarquia Viária – Núcleo Urbano Barreiro;
+
+
+IX –
+
+Anexo IX – Mapa de Hierarquia Viária – Núcleo Urbano São Pedro do Taquara;
+
+
+X –
+
+Anexo X – Perfis Transversais das Vias de Circulação;
+
+
+XI –
+
+Anexo XI – Parâmetros para Dimensionamento das Vias Urbanas;
+
+
+XII –
+
+Anexo XII – Sistema Cicloviário;
+
+
+XIII –
+
+Anexo XIII – Plano de Rotas Acessíveis;
+
+
+XIV –
+
+Anexo XIV – Acessibilidade e Padronização das Calçadas;
+
+
+XV –
+
+Anexo XV – Avanços de Calçadas;
+
+
+XVI –
+
+Anexo XVI – Baias de Estacionamento;
+
+
+XVII –
+
+Anexo XVII - Parâmetros de Arborização das Calçadas.
+
+
+##### Seção I — Dos Objetivos
+
+
+Art. 2º.
+
+Esta Lei tem por objetivos:
+
+
+I –
+
+organizar o sistema viário, fornecendo acesso às atividades urbanas e garantindo a permeabilidade do tecido urbano e rural;
+
+
+II –
+
+garantir a continuidade do sistema viário, a partir da definição das diretrizes viárias para áreas não parceladas;
+
+
+III –
+
+estabelecer e classificar um sistema hierárquico a fim de compatibilizar as características geométricas das vias ao adensamento e atividades estabelecidas na Lei de Uso e Ocupação do Solo;
+
+
+IV –
+
+incentivar o deslocamento não-motorizado, através da instituição das rotas acessíveis para pedestres e do sistema cicloviário;
+
+
+V –
+
+proporcionar segurança e conforto ao deslocamento de pessoas.
+
+
+##### Seção II — Das Definições
+
+
+Art. 3º.
+
+Para aplicação da presente lei, serão adotadas as seguintes definições:
+
+
+I –
+
+alinhamento predial: linha limitante entre o lote e a caixa da via;
+
+
+II –
+
+área rural: área externa ao polígono definido por lei específica como perímetro urbano;
+
+
+III –
+
+arruamento: logradouros públicos destinados a circulação viária, de pedestres e bicicletas;
+
+
+IV –
+
+avanço da calçada: ampliação do passeio, medindo 2,50m (dois metros e cinquenta centímetros) sobre a pista de rolamento nas esquinas de quadras com hierarquias de avenida das torres, estruturais e perimetrais;
+
+
+V –
+
+avenidas de pista dupla: vias classificadas como avenida das torres, estruturais, perimetrais, que são compostas por calçadas, duas pistas de rolamento e canteiro central;
+
+
+VI –
+
+baias de estacionamento: deslocamento da calçada sobre o recuo com vagas de estacionamento localizadas no nível da pista de rolamento em vias classificadas de avenida das torres, estruturais e vias perimetrais;
+
+
+VII –
+
+caixa da via: distância definida no projeto entre os dois alinhamentos em oposição;
+
+
+VIII –
+
+calçada: parte do logradouro, segregada e em nível diferente, não destinada à circulação de veículos, reservada ao trânsito de pedestres e, quando possível, à implantação de mobiliário urbano, sinalização, vegetação e outros fins, subdividida em:
+
+
+a)
+
+faixa de serviço: faixa com função para acomodar o mobiliário urbano, canteiros, árvores e os postes de iluminação ou sinalização, infraestruturas de saneamento, medindo, no mínimo, 70cm (setenta centímetros);
+
+
+b)
+
+faixa livre ou passeio: destina-se exclusivamente à circulação de pedestres, sendo livre de qualquer obstáculo, sendo contínua e de no mínimo 1,50m (um metro e cinquenta centímetros) de largura;
+
+
+c)
+
+faixa de acesso: espaço de passagem da área pública para o lote, nesta área se localiza a faixa tátil, afastada 40cm (quarenta centímetros) afastada do alinhamento predial.
+
+
+IX –
+
+canteiro lateral: divisor físico construído nas bordas das pistas de rolamento;
+
+
+X –
+
+canteiro central: divisor físico construído entre dois leitos carroçáveis de uma mesma via, podendo este ser pavimentado ou ajardinado;
+
+
+XI –
+
+ciclofaixa: parte da pista de rolamento ou da calçada destinada à circulação exclusiva de ciclos, delimitada por sinalização específica;
+
+
+XII –
+
+ciclovia: pista própria destinada à circulação de ciclos, separada fisicamente do tráfego comum;
+
+
+XIII –
+
+eixo da via: linha que divide em simetria a faixa de domínio ou a caixa da via;
+
+
+XIV –
+
+estacionamento: espaço público ou privado destinado à guarda ou estacionamento de veículos, constituído pelas áreas de vagas e circulação;
+
+
+XV –
+
+faixa de domínio: superfície lindeira às vias rurais, rodovias, ferrovias, emissários de água potável, esgoto, drenagem, dutos e similares, destinada a garantir o uso, a segurança da população e a proteção do meio ambiente, sendo estabelecida pelas Leis específicas e complementares à Lei do Plano Diretor Municipal e/ou pelas concessionárias dos serviços públicos;
+
+
+XVI –
+
+guia ou meio-fio: peça de pedra, concreto ou outro material que separa, em desnível, a calçada e a pistas de rolamento;
+
+
+XVII –
+
+hierarquia viária: definição de funções predominantes em diferentes vias, visando à compatibilidade do tráfego e uso e ocupação do solo;
+
+
+XVIII –
+
+interseção viária: encontro entre duas ou mais vias oficiais de circulação;
+
+
+XIX –
+
+largura da via: distância entre os alinhamentos prediais opostos da via, resultado da somatória da pista, calçada, estacionamento e canteiro central;
+
+
+XX –
+
+pista de rolamento: espaço dentro da caixa da via onde são implantadas a(s) faixa(s) de rolamento e de estacionamento(s) de veículos;
+
+
+XXI –
+
+passarela: obra de transposição viária em desnível para pedestres e ciclistas;
+
+
+XXII –
+
+perímetro urbano: poligonal, estabelecida em lei específica, que delimita a área urbana;
+
+
+XXIII –
+
+redutores de velocidades: lombadas, ondulações transversais ou faixas de travessia elevada;
+
+
+XXIV –
+
+rotatória: interseção destinada à distribuição do tráfego, na qual os veículos circulam em um único sentido ao redor de uma ilha central de forma predominantemente circular;
+
+
+XXV –
+
+sarjeta: calha da pista que conduz águas pluviais às bocas de lobo;
+
+
+XXVI –
+
+sinalização de trânsito: conjunto dos elementos de comunicação visual adotados nas vias públicas para informação, orientação e advertência aos seus usuários;
+
+
+XXVII –
+
+sinalização horizontal: constituída por elementos aplicados no pavimento das vias públicas;
+
+
+XXVIII –
+
+sinalização vertical: representada por painéis e placas implantados ao longo das vias públicas;
+
+
+XXIX –
+
+sistema viário: conjunto de vias que, de forma hierarquizada e articuladas com as vias locais, viabilizam a circulação de pessoas, veículos e cargas;
+
+
+XXX –
+
+tráfego: fluxo de veículos que percorre uma via em determinado período, classificado em:
+
+
+a)
+
+Baixo Volume de Tráfego: até 100 veículos por dia;
+
+
+b)
+
+Médio-Baixo Volume de Tráfego: entre 101 e 500 veículos por dia;
+
+
+c)
+
+Médio Volume de Tráfego: entre 501 e 1.000 veículos por dia;
+
+
+d)
+
+Médio-Alto Volume de Tráfego: entre 1.001 e 2.000 veículos por dia;
+
+
+e)
+
+Alto Volume de Tráfego: acima de 2.000 veículos por dia.
+
+
+XXXI –
+
+trânsito: ato de circular por uma via;
+
+
+XXXII –
+
+estradas: vias pavimentadas ou não, localizadas em área rural ou em área urbana não-parcelada.
+
+
+#### CAPÍTULO II — DO SISTEMA VIÁRIO
+
+
+##### Seção I — Da Hierarquia e da Classificação das Vias
+
+
+Art. 4º.
+
+O Sistema Viário Municipal é composto por:
+
+
+I –
+
+Rodovias Federais;
+
+
+II –
+
+Rodovias Estaduais;
+
+
+III –
+
+Estradas;
+
+
+IV –
+
+Ferrovias;
+
+
+V –
+
+Vias Urbanas.
+
+
+§ 1º
+
+As Rodovias Federais, BR 376 e BR 369, são as principais ligações do Município de Apucarana com outros municípios do Paraná e outros Estados.
+
+
+§ 2º
+
+As Rodovias Estaduais, PR 444, PR 532 e PR 170, são as ligações do Município de Apucarana com municípios vizinhos.
+
+
+§ 3º
+
+A classificação das vias do Sistema Viário Municipal se dá conforme o Anexo I desta Lei Complementar.
+
+
+Art. 5º.
+
+As Vias Urbanas, que compõe o Sistema Viário Urbano, são classificadas conforme sua função e hierarquia em:
+
+
+I –
+
+Avenida das Torres de Transmissão de Energia Elétrica: avenida com canteiro central de maior dimensão, situada ao longo da linha de transmissão de energia elétrica, para garantir a segurança dos moradores e a continuidade do serviço de distribuição;
+
+
+II –
+
+Vias Estruturais: estruturam a organização funcional do sistema viário na sede urbana e acumulam os maiores fluxos de tráfego da cidade;
+
+
+III –
+
+Vias Perimetrais: utilizadas nos deslocamentos urbanos de maior distância, desviando do centro urbano o tráfego que vem pelas Vias Coletoras e Estruturais e promovendo um contorno viário de ligação;
+
+
+IV –
+
+Vias Marginais: vias laterais para tráfego secundário ao longo das Rodovias Federais e Estaduais, com a função de facilitar o acesso às atividades lindeiras a essas vias e ordenar o trânsito de forma segura;
+
+
+V –
+
+Avenida Central: eixo central composto pela Avenida Curitiba;
+
+
+VI –
+
+Anéis Centrais: anéis radiais à Avenida Central da sede de Apucarana;
+
+
+VII –
+
+Vias Coletoras: promovem a ligação das Vias Locais com as Vias Perimetrais, Vias Estruturais e com os Anéis de Contorno;
+
+
+VIII –
+
+Vias Paisagísticas: que delimitam as Zonas de Proteção Ambiental (ZPA) em torno das nascentes e ao longo dos cursos d’água;
+
+
+IX –
+
+Vias Locais: têm como função básica permitir o acesso às propriedades privadas, ou áreas e atividades específicas, implicando em pequeno volume de tráfego;
+
+
+X –
+
+Vias Internas de Condomínios: têm como função básica permitir a circulação em condomínios residenciais horizontais;
+
+
+§ 1º
+
+A classificação do Sistema Viário Urbano está representada nos Anexos II a IX desta Lei Complementar.
+
+
+§ 2º
+
+O IDEPPLAN é o órgão responsável pela definição, classificação, emissão e aprovação das diretrizes viárias obrigatórias em novos parcelamentos de solo para fins urbanos, em consonância com o estabelecido nesta Lei.
+
+
+##### Seção II — Da Pavimentação e Classificação de Tráfego
+
+
+Art. 6º.
+
+A pavimentação das vias deverá ser executada com o tipo de pavimento definido no Anexo XI desta Lei Complementar, de acordo com a classificação quanto ao volume de tráfego das vias:
+
+
+I –
+
+Tráfego Pesado, compreendendo:
+
+
+a)
+
+rodovias federais e estaduais,
+
+
+b)
+
+vias estruturais;
+
+
+c)
+
+anéis centrais;
+
+
+d)
+
+avenida central;
+
+
+e)
+
+avenida das torres de transmissão de energia.
+
+
+II –
+
+Tráfego Médio, compreendendo:
+
+
+a)
+
+vias marginais;
+
+
+b)
+
+vias perimetrais;
+
+
+c)
+
+vias coletoras;
+
+
+d)
+
+vias paisagísticas.
+
+
+III –
+
+Tráfego Leve, compreendendo:
+
+
+a)
+
+vias locais;
+
+
+b)
+
+vias internas de condomínio;
+
+
+c)
+
+ciclovias.
+
+
+§ 1º
+
+As especificações mínimas contidas no Anexo XI são para fins de referência, não eximem do cumprimento das normas técnicas vigentes, da realização de ensaios específicos e da apresentação de projeto executivo acompanhado de Atestado de Responsabilidade Técnica de profissional legalmente habilitado.
+
+
+§ 2º
+
+Rodovias Estaduais e Federais, conforme disposto na alínea “a” do inciso I deste artigo, são dimensionadas e a manutenção realizada a critério dos órgãos competentes da União ou Estado por elas responsáveis.
+
+
+§ 3º
+
+As especificações de pavimentação apresentadas no caput deste artigo, deverão estar vinculadas a estudo técnico pontual, devidamente acompanhado da anotação de responsabilidade técnica de profissional habilitado junto ao conselho de classe competente.
+
+
+Art. 7º.
+
+Todas as vias localizadas no perímetro urbano, de acordo com a Lei de Uso e Ocupação do Solo Urbano de Apucarana, deverão ser dimensionadas de acordo com as normas vigentes, com apresentação de projetos, memorial descritivo, memória de calculo e deverão receber pavimentação do tipo CBUQ, independentemente da classificação quanto ao seu volume de tráfego.
+
+
+Art. 8º.
+
+A manutenção do pavimento das pistas de rolamento, exceto das vias internas nos condomínios, é de responsabilidade do Município.
+
+
+##### Seção III — Do Dimensionamento das Vias
+
+
+Art. 9º.
+
+Os padrões de urbanização para o sistema viário obedecerão aos requisitos estabelecidos nesta Lei Complementar quanto às especificações e ao dimensionamento das caixas das vias, pavimentação das pistas de rolamento e execução das calçadas.
+
+
+Art. 10.
+
+Os arruamentos nos projetos de parcelamento do solo no município deverão obedecer às diretrizes e hierarquia viária dos Anexos II ao XI.
+
+
+Art. 11.
+
+O dimensionamento das vias deverá seguir o disposto no Anexo XI, desta Lei Complementar.
+
+
+Parágrafo único
+
+Excetuam-se do disposto no caput deste artigo as vias internas de condomínios, as quais seguirão os parâmetros específicos definidos no Capítulo V desta Lei Complementar.
+
+
+Art. 12.
+
+As vias locais sem saída deverão medir no máximo 100 m (cem metros) de comprimento, medidos a partir do limite da pista transversal que lhe dá acesso.
+
+
+Parágrafo único
+
+Em sua extremidade final, o bolsão de retorno deverá ter raio mínimo de 15 m (quinze metros) e calçadas com 3m (três metros e cinquenta centímetros).
+
+
+Art. 13.
+
+As estradas municipais terão faixa de domínio de 30m (trinta metros).
+
+
+Art. 14.
+
+As faixas de domínios das rodovias estaduais e federais deverão respeitar o dimensionamento estabelecido pelo órgão responsável.
+
+
+Art. 15.
+
+As vias existentes poderão sofrer ampliações em sua dimensão quando:
+
+
+I –
+
+representarem prejuízo à circulação, segurança ou fluidez do tráfego;
+
+
+II –
+
+estiverem incompatíveis com o adensamento demográfico.
+
+
+Parágrafo único
+
+O IDEPPLAN elaborará estudo específico, incluindo contagem volumétrica de tráfego e projeto geométrico, para definir o dimensionamento do perfil da via, podendo ser o estabelecido conforme sua hierarquia viária ou superior.
+
+
+Art. 16.
+
+As obras de ampliações viárias e melhorias das vias existentes, poderão ser objeto de medidas mitigatórias estabelecidas em Estudos de Impactos de Vizinhança (EIV).
+
+
+##### Seção IV — Das Interseções Viárias
+
+
+Art. 17.
+
+Os projetos das rotatórias deverão ser concebidos de acordo com o Manual de Projeto de Interseções em Nível e Não Semaforizadas em Áreas Urbanas do Departamento Nacional de Trânsito – DENATRAN – e com a legislação pertinente ao assunto e baseados nas diretrizes previamente definidas pelo IDEPPLAN e por esta Lei Complementar.
+
+
+§ 1º
+
+No caso de interseções entre rodovias e vias estruturais, deverá ser prevista área, definida pelo IDEPPLAN, necessária para possibilitar a implantação de trevos, visando ao atendimento da demanda futura de tráfego.
+
+
+§ 2º
+
+Quando houver projeto geométrico realizado pelo IDEPPLAN, o loteador deverá executar a parte incidente na gleba a ser loteada.
+
+
+Art. 18.
+
+Nos cruzamentos de todas as vias, os alinhamentos prediais deverão ser concordados com arco de circunferência de raio mínimo de 3m (três metros) ou chanfrado a 3m da aresta de encontro dos alinhamentos prediais, e as calçadas com raio concordado de 6 m (seis metros), conforme Anexo XV, parte integrante desta Lei Complementar.
+
+
+##### Seção V — Da Sinalização de Trânsito e dos Estacionamentos
+
+
+Art. 19.
+
+Toda sinalização deverá respeitar o Código de Trânsito Brasileiro e demais normas vigentes.
+
+
+Art. 20.
+
+A responsabilidade da execução das sinalizações horizontais e verticais dos novos loteamentos ficará a cargo do loteador, conforme disposto na Lei de Parcelamento.
+
+
+Art. 21.
+
+A manutenção das sinalizações, exceto das vias internas dos condomínios, é de responsabilidade do município.
+
+
+Art. 22.
+
+Os estacionamentos, paradas, áreas de carga e descarga e demais dispositivos viários serão regulamentados pelo órgão municipal responsável.
+
+
+Art. 23.
+
+Os estacionamentos paralelos ao meio fio em vias públicas deverão ser compatíveis com o tráfego da via, sendo estes implantados ou retirados de acordo com a classificação do tráfego, contido no Art. 6º desta Lei Complementar.
+
+
+Art. 24.
+
+Serão autorizados estacionamentos no recuo frontal, desde que:
+
+
+I –
+
+as vagas tenham no mínimo 5m (cinco metros), e localizadas perpendicularmente ao alinhamento predial;
+
+
+II –
+
+não interfiram nos parâmetros de rebaixamento das guias citados no caput do Art. 40 desta Lei Complementar.
+
+
+Art. 25.
+
+É permitido a implantação de baias de estacionamento nas vias classificadas como Coletoras, Perimetrais e Estruturais, de acordo com esta Lei Complementar.
+
+
+§ 1º
+
+Entende-se por baia de estacionamento o conjunto de vagas implantadas a 45° em relação ao meio fio, localizado entre a calçada e a pista de rolamento, conforme disposto no Anexo XVI, parte integrante desta Lei Complementar.
+
+
+§ 2º
+
+Para a execução das baias de estacionamento, o proprietário do lote deverá utilizar o recuo frontal do seu lote para execução da calçada, retornando ao alinhamento da via dentro do seu limite da testada.
+
+
+§ 3º
+
+A vaga de estacionamento não poderá ter comprimento inferior a 5,50m (cinco metros e cinquenta centímetros) medidos a 45° do meio fio.
+
+
+§ 4º
+
+A pavimentação da baia de estacionamento deverá ser executada com piso drenante, a ser definido pelo Município.
+
+
+Art. 25-A.
+
+As estradas rurais municipais ficam classificadas, como:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+I –
+
+Estradas principais ou troncos:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+a)
+
+Radiais: aquelas que convirjam para a Sede do município;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+b)
+
+Longitudinais: cuja direção é pelos meridianos (Norte - Sul};
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+c)
+
+Transversais: cuja direção é paralela (Leste - Oeste); e
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+d)
+
+Diagonais: cuja direção seja de Nordeste - Sudoeste ou Noroeste - Sudeste.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+II –
+
+Estradas secundárias:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+a)
+
+Ligações: ligam para duas ou mais vias;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+b)
+
+Ramais: se originam em ponto de via, mas não atinge outra via; e
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+c)
+
+Acessos: pequenas extensões onde ligam a bairros, estradas ou rodovias.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Art. 25-B.
+
+As estradas municipais deverão atender a largura:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+I –
+
+Estradas principais ou troncos:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+a)
+
+Faixa carroçável de 10,00 a 15,00 m (dez a quinze metros) de largura;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+b)
+
+Faixa lateral de domínio com 15,00 m (quinze metros}, a partir do eixo, em cada margem.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+II –
+
+Estradas secundárias:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+a)
+
+Faixa carroçável de 6,00 a 10,00 m (seis a dez metros) de largura;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+b)
+
+Faixa lateral de domínio com 15,00 m (quinze metros), a partir do eixo, em cada margem.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+#### CAPÍTULO III — DAS CALÇADAS
+
+
+##### Seção I — Da Acessibilidade e da Padronização das Calçadas
+
+
+Art. 26.
+
+As calçadas deverão ser executadas conforme diretrizes estabelecidas pela NBR 9050.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Parágrafo único
+
+Qualquer edificação que realizar a atividade de reforma, ampliação ou regularização, deverão estas, atender o caput deste artigo
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Art. 27.
+
+As esquinas das calçadas localizadas em vias classificadas como Avenida das Torres, Vias Estruturais e Vias Perimetrais deverão apresentar avanço sobre a pista de rolamento destinada ao estacionamento de veículos com o objetivo de aumentar a segurança do pedestre ao atravessar estas vias.
+
+
+Parágrafo único
+
+O avanço de que se trata o caput deste artigo deve atender o disposto no Anexo XV – Avanço das Calçadas, parte integrante desta Lei Complementar.
+
+
+Art. 28.
+
+A implantação da padronização de calçadas e passeios será obrigatória, com ônus para o proprietário do lote, nos seguintes casos:
+
+
+I –
+
+em casos de reforma;
+
+
+II –
+
+novas construções;
+
+
+III –
+
+em caso de notificação/autuação fiscalizatória com base nesta Lei Complementar constatando bloqueios que afetem a circulação de pedestres.
+
+
+Art. 29.
+
+O Plano de Rotas Acessíveis, apresentado no Anexo XIII, parte integrante desta Lei Complementar, define quais calçadas têm prioridade de implantação ou reforma, a ser executada pelo Município, com vistas a garantir acessibilidade universal aos equipamentos urbanos.
+
+
+§ 1º
+
+Cabe ao Município elaborar o cronograma físico financeiro para a execução do Plano de Rotas Acessíveis.
+
+
+§ 2º
+
+As ações mitigadoras exigidas em Estudos de Impacto de Vizinhança (EIV) poderão incluir a execução de trechos das rotas acessíveis.
+
+
+Art. 30.
+
+Todos os passeios devem ser acessíveis, de acordo com a NBR 9050 da ABNT e suas complementações.
+
+
+§ 1º
+
+Fica proibida a construção de qualquer elemento sobre as calçadas, tais como degraus, rampas ou variações bruscas, abaixo ou acima do nível das mesmas, para darem acesso às edificações ou às áreas de estacionamento de veículos no interior dos lotes.
+
+
+§ 2º
+
+Não será permitida, igualmente, a construção de qualquer mureta ao redor das árvores dos passeios, sendo que as existentes deverão ser removidas pelos proprietários dos imóveis correspondentes.
+
+
+Art. 31.
+
+As calçadas deverão ser acessadas através de rampa alinhada frontalmente com a faixa de pedestre, conforme Anexo XIV.
+
+
+§ 1º
+
+As rampas citadas no caput deste artigo terão inclinação máxima longitudinal de 8,33% (oito vírgula trinta e três por cento) e transversal de 2% (dois por cento).
+
+
+§ 2º
+
+Mediante ao esgotamento de soluções projetuais para adoção da inclinação citada no §1º deste artigo, poderá ser adotada a inclinação longitudinal máxima de 12,5% (doze vírgula cinco por cento).
+
+
+##### Seção II — Da Execução e da Manutenção
+
+
+Art. 32.
+
+Quando o Poder Público Municipal determinar a modificação do nível, perfil ou largura de calçada executada dentro das normas, as despesas com as obras correspondentes correrão por conta do Município.
+
+
+Parágrafo único
+
+Nas vias para as quais o Município não possua o respectivo plano de nivelamento, os níveis fornecidos valerão como indicações de caráter precário, sujeitos às modificações que o plano definitivo determinar, sem nenhum ônus para o Município.
+
+
+Art. 33.
+
+O Município poderá criar programas específicos para incentivar a execução das calçadas, e determinar, entre outras coisas, a padronização do tipo de pavimento utilizado, por razões de ordem técnica e estética.
+
+
+Art. 34.
+
+Em novos loteamentos, será de responsabilidade do loteador executar as calçadas públicas em toda a área loteada, de acordo com a Lei Complementar do Parcelamento do Solo de Apucarana.
+
+
+Art. 35.
+
+Para as calçadas não inclusas no Plano de Rotas Acessíveis, caberá ao Município exigir dos proprietários o atendimento ao disposto nesta Seção, bem como emitir notificação e autuação para aqueles que não o fizerem.
+
+
+§ 1º
+
+Findos os prazos legais e não atendidas as intimações para construção ou reforma das calçadas ou sua conservação, o Município poderá executar as obras, cobrando do proprietário as despesas efetuadas, acrescidas de 30% (trinta por cento) de taxa de administração sobre os custos apurados, devidamente corrigidos até a data de seu ressarcimento.
+
+
+§ 2º
+
+Em caso de reincidência a multa será cobrada em dobro.
+
+
+##### Seção III — Das Obras
+
+
+Art. 36.
+
+Durante a execução de obras será obrigatória a manutenção do passeio desobstruído e em perfeitas condições, sendo vedada a sua utilização, ainda que temporária, como canteiro de obras, salvo no lado interior dos tapumes que avançarem sobre a calçada, de acordo com o disposto na Lei do Código de Obras e Edificações do Município de Apucarana.
+
+
+Art. 37.
+
+Quando da pavimentação ou execução de reparos na calçada, o responsável pelo serviço poderá interditar, no máximo, 1/3 (um terço) de sua largura.
+
+
+Art. 38.
+
+Nenhum serviço ou obra que exija escavações nas calçadas ou logradouros poderá ser executado, por particulares, sem a prévia licença do Poder Público.
+
+
+§ 1º
+
+No pedido de licença deverá constar o período e o local da execução dos serviços ou obras.
+
+
+§ 2º
+
+A recuperação do calçamento ou da pavimentação é de responsabilidade do autor da escavação e será feita imediatamente após a sua conclusão, devendo a pavimentação retornar à condição original, o Município efetuará no prazo de 180 (cento e oitenta) dias, um Decreto que regulamentará os critérios, parâmetros e os dispositivos da execução destes serviços;
+
+
+§ 3º
+
+Durante 6 (seis) meses após a recuperação do calçamento ou pavimentação, de que trata o parágrafo 2º deste artigo, o autor da escavação será responsável pelos reparos que neles se fizerem necessários em decorrência da intervenção realizada.
+
+
+§ 4º
+
+Tratando-se de logradouro de grande circulação de veículos, o órgão municipal competente poderá determinar os dias e horários para a execução das obras.
+
+
+§ 5º
+
+A não observância às determinações dispostas neste artigo implicará em notificação e autuação sob forma de multa pelo Município.
+
+
+##### Seção IV — Da Arborização
+
+
+Art. 39.
+
+A arborização das vias deverá seguir o disposto no Anexo XVI desta Lei Complementar e o previsto no Plano de Arborização.
+
+
+Parágrafo único
+
+As espécies vegetais que representem risco a população deverão ser trocadas por espécies adequadas conforme disposto pelo Órgão Municipal competente.
+
+
+##### Seção V — Do Rebaixamento de Guias
+
+
+Art. 40.
+
+É autorizado o rebaixamento de guia apenas para permitir o acesso de veículos no interior dos lotes.
+
+
+§ 1º
+
+O Departamento de Trânsito é responsável pela autorização e fiscalização do rebaixamento da guia, conforme ao estabelecido pelo Conselho Nacional de Trânsito {CONTRAN), Código de Trânsito Brasileiro (CTB} e nas demais legislações municipal.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+§ 2º
+
+Em caso de permissibilidade do rebaixamento total da guia para o uso das vagas no recuo, fica vedado.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+I –
+
+Destinar o estacionamento para o uso privativo;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+II –
+
+Fixar placas com o aviso: "exclusivo para consumidores", ou com frases do gênero;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+III –
+
+Obstruir o acesso com obstáculos.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+§ 3º
+
+Em caso do não cumprimento do disposto no caput deste artigo e nas demais leis vigentes que tratem sobre o tema, o proprietário poderá ser autuado pelo município.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+#### CAPÍTULO IV — DO SISTEMA CICLOVIÁRIO
+
+
+Art. 41.
+
+O sistema cicloviário é composto por ciclovias, ciclofaixas, sinalizações específicas, bicicletários, paraciclos, entre outros.
+
+
+Art. 42.
+
+As ciclovias e ciclofaixas deverão seguir os seguintes parâmetros:
+
+
+I –
+
+mínimo de 1,25m (um metro e vinte cinco centímetros) para unidirecionais;
+
+
+II –
+
+mínimo de 2,50m (dois metros e cinquenta centímetros) para bidirecional.
+
+
+§ 1º
+
+Nos novos loteamentos, é obrigatória a execução de ciclovias nos canteiros centrais de vias classificadas como estruturais, vias perimetrais e avenida das torres, devendo ser construídas em concreto ou asfalto.
+
+
+§ 2º
+
+As ciclofaixas serão executadas somente em áreas consolidadas.
+
+
+Art. 43.
+
+A execução das ciclovias e ciclofaixas poderá ser objeto de medida mitigatória estabelecida em Estudos de Impactos de Vizinhança (EIV), visando à implantação do sistema cicloviário estabelecido nesta Lei Complementar.
+
+
+#### CAPÍTULO V — DAS VIAS INTERNAS DOS CONDOMÍNIOS
+
+
+Art. 44.
+
+O dimensionamento da largura das vias internas dos condomínios residenciais horizontais, obedecerá aos seguintes parâmetros:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+I –
+
+9,00 m (nove metros) de largura as vias internas com função de coletora;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+II –
+
+6,00 m (seis metros) de largura das demais vias internas;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Parágrafo único
+
+Quando a via for sem saída, deverá implantar-se o bolsão de retorno na extremidade final, medindo este, com 15,00 m (quinze metros) de diâmetro.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Art. 45.
+
+As calçadas das vias internas dos condomínios residenciais horizontais deverão estas, apresentar uma largura mínima de 1,20 m (um metro e vinte centímetros)
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Parágrafo único
+
+Excetuam-se do disposto no caput deste artigo as calçadas adjacentes ao muro de divisa do condomínio, as quais terão largura mínima de 1,50 m (um metro e cinquenta centímetros).
+
+
+Art. 46.
+
+É vedado o fechamento de vias municipais existentes.
+
+
+Art. 47.
+
+A implantação de condomínio residencial horizontal não pode interromper as diretrizes viárias estabelecidas nos Anexos II a IX desta Lei Complementar.
+
+
+Parágrafo único
+
+Excetuam-se do disposto no caput deste artigo as diretrizes de vias locais.
+
+
+Art. 48.
+
+Nas vias internas dos condomínios residenciais horizontais, a velocidade máxima permitida:
+
+
+I –
+
+será igual ou inferior a 30 km/h (trinta quilômetros por hora);
+
+
+II –
+
+quando instalados redutores de velocidade, será de 20 km/h (vinte quilômetros por hora), com sinalização antecedendo em 50 m (cinquenta metros) o dispositivo.
+
+
+§ 1º
+
+A execução, manutenção ou substituição de ondulações transversais deverá seguir o modelo estabelecido pela Resolução nº. 600/2016 do CONTRAN e as demais pertinentes a matéria;
+
+
+§ 2º
+
+A execução, manutenção ou substituição de travessias elevadas deverá seguir o modelo estabelecido pela Resolução nº. 738/2018 do CONTRAN e as demais pertinentes a matéria.
+
+
+Art. 49.
+
+Os loteamentos do tipo condomínio, deverão implantar faixas de desaceleração frente a seu acesso, com perfil dimensional de via marginal.
+
+
+Art. 49-A.
+
+As vias de circulação de qualquer loteamento deverão:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+I –
+
+Articular-se com as vias adjacentes oficiais, existentes ou projetadas, em obediência a diretriz municipal;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+II –
+
+Atender aos perfis estabelecidos nesta Lei.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+§ 1º
+
+As vias sem saída deverão ser projetadas com praça de manobra, ou bolsão de retorno, contendo um diâmetro mínimo de 15,00 m (quinze metros) na pista de rolamento.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+§ 2º
+
+As servidões de passagem em glebas a parcelar deverão estas, serem delimitadas pelas novas vias de circulação, atendendo as normas das concessionárias dos respectivos serviços públicos.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+§ 3º
+
+A via que dará acesso para os espaços com características físico-ambientais, e sem acesso principal para as edificações, poderão estas apresentar a largura da via com 7,00 m (sete metros).
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Art. 49-B.
+
+Quando a área do objeto parcelado não for contígua a de um loteamento existente, caberá ao loteador efetuar as suas expensas, com a infraestrutura completa
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+Parágrafo único
+
+O traçado do sistema viário será expedido pelo IDEPPLAN.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 50.
+
+A municipalização das rodovias estaduais e federais, nas áreas urbanas, deverá ser precedida de Lei específica.
+
+
+Art. 51.
+
+O Poder Executivo Municipal expedirá, em até 180 (cento e oitenta) dias a partir da data de publicação desta Lei Complementar, decreto específico tratando sobre a circulação de veículos pesados na área urbana.
+
+
+Art. 52.
+
+Somente será permitida a construção de metade da caixa da via, nos novos loteamentos, quando estas estiverem nas divisas de gleba e forem classificadas, pela Análise de Viabilidade elaborada pelo Município, como Avenida das Torres, Vias Perimetrais ou Vias Estruturais.
+
+
+§ 1º
+
+A execução de metade da caixa da via, conforme disposto no caput deste artigo, deverá ocorrer em sua totalidade, inclusive com a execução da ciclovia prevista, atendendo ao disposto no Anexo X e XI desta Lei Complementar.
+
+
+§ 2º
+
+O Município poderá definir novas diretrizes de vias do sistema viário sempre que julgar necessário, e for de interesse público.
+
+
+§ 3º
+
+O loteador deverá executar a caixa da via em sua totalidade, incluindo calçadas adjacentes, quando a via se localizar na divisa do lote e a diretriz não ter as classificações citada no caput deste artigo.
+
+
+Art. 53.
+
+As obras de grande impacto, conforme Lei do Plano Diretor, deverão obedecer às diretrizes expedidas e cumprir as ações mitigadoras em conformidade com o Estudo de Impacto de Vizinhança (EIV).
+
+
+Art. 54.
+
+Em casos omissos, referentes a presente Lei, serão resolvidos pela Superintendência de Segurança, Trânsito e Transporte do IDEPPLAN, ouvido o Conselho Municipal de Desenvolvimento Urbano.
+
+
+Art. 55.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Art. 56.
+
+Fica revogada a Lei Complementar nº 008, de 19 de dezembro de 2014 e o decreto nº 034 de 10 de março de 2005.
+
+
+Município de Apucarana, em 31 de dezembro de 2020.
+
+Sebastião Ferreira Martins Júnior
+
+(Júnior da Femac)
+
+Prefeito Municipal
+
+
+## Anexo I — MAPA DE HIERARQUIA VIÁRIA - MUNICIPAL
+
+
+## Anexo II — MAPA DE HIERARQUIA VIÁRIA - SEDE
+
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+## Anexo III — MAPA DE HIERARQUIA VIÁRIA - DISTRITO CAIXA DE SÃO PEDRO
+
+
+## Anexo IV — MAPA DE HIERARQUIA VIÁRIA – DISTRITO PIRAPÓ
+
+
+## Anexo V — MAPA DE HIERARQUIA VIÁRIA – DISTRITO VILA REIS
+
+
+## Anexo VI — MAPA DE HIERARQUIA VIÁRIA – DISTRITO CORREIA DE FREITAS
+
+
+## Anexo VII — MAPA DE HIERARQUIA VIÁRIA – NÚCLEO URBANO SÃO DOMINGOS
+
+
+## Anexo VIII — MAPA DE HIERARQUIA VIÁRIA – NÚCLEO URBANO BARREIRO
+
+
+## Anexo IX — MAPA DE HIERARQUIA VIÁRIA – NÚCLEO URBANO SÃO PEDRO DO TAQUARA
+
+
+## Anexo X — PERFIS TRANSVERSAIS DAS VIAS DE CIRCULAÇÃO
+
+
+01
+
+
+02
+
+
+03
+
+
+## Anexo XI — PARÂMETROS PARA DIMENSIONAMENTO DAS VIAS URBANAS
+
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 7, de 17 de maio de 2024.
+
+
+## Anexo XII — SISTEMA CICLOVIÁRIO
+
+
+## Anexo XIII — PLANO DE ROTAS ACESSÍVEIS
+
+
+## Anexo XIV — ACESSIBILIDADE E PADRONIZAÇÃO DAS CALÇADAS
+
+
+## Anexo XV — AVANÇO DAS CALÇADAS
+
+
+## Anexo XVI — BAIAS DE ESTACIONAMENTO
+
+
+PARÂMETROS DE ARBORIZAÇÃO DAS CALÇADAS

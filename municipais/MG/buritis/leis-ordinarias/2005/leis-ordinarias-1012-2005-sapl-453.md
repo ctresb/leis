@@ -1,0 +1,257 @@
+---
+titulo: "Lei nº 1.012, de 25 de outubro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1012"
+data: "2005-10-25"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2005-11-29; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/453"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1740/text"
+sha256_fonte: "bdc52f63f383c3467bb22f840a05cadd604e2c9bd41a9ecb308ffec170c9ab10"
+sha256_texto: "1c1e97a54f2bcd564e63ff8f560a702cbe61b1b03a549732f05996c0b1217a83"
+capturado_em_fonte: "2026-10-27T20:15:51.091641-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.012, de 25 de outubro de 2005
+
+Cria o Conselho Municipal de Turismo e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE BURITIS por seus representantes, aprovou e Eu em seu nome sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DA NATUREZA E DOS OBJETIVOS
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Turismo - COMTUR, como órgão de consulta, assessoramento e decisão nas matérias referentes ao Turismo no Município.
+
+
+#### CAPÍTULO II — DA COMPETÊNCIA
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal de Turismo:
+
+
+I –
+
+coordenar, incentivar e promover o turismo no Município de Buritis;
+
+
+II –
+
+estudar e propor à Administração Municipal medidas de difusão e amparo ao turismo em colaboração com órgãos e entidades especializadas;
+
+
+III –
+
+estimular atividades culturais e turísticas no Município;
+
+
+IV –
+
+promover a articulação de toda a sociedade através de campanhas que promovam a transformação de cada cidadão em agente de imagem turística e defensor do patrimônio cultural e ambiental do Município;
+
+
+V –
+
+promover, junto ás entidades e instituições locais, campanhas no sentido de incrementar o turismo no Município;
+
+
+VI –
+
+deliberar sobre toda e qualquer questão sobre Turismo, respeitadas as competências dos Poderes Executivo e Legislativo.
+
+
+#### CAPÍTULO III — DA ESTRUTURA
+
+
+Art. 3º.
+
+O Conselho Municipal de Turismo será constituído por onze membros, sendo cinco representantes do poder público e seis representantes da comunidade, que exercerão seu mandato de forma não remunerada;
+
+Alteração feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+§ 1º
+
+Serão representantes do Poder Público:
+
+
+I –
+
+Como membro nato, o Secretário Municipal de Agricultura, Meio Ambiente e Desenvolvimento Rural e Econômico;
+
+
+II –
+
+Secretaria Municipal de Educação, Esporte e Lazer;
+
+
+III –
+
+Representante dos meios de comunicação;
+
+
+IV –
+
+Um representante da Secretaria de Estado de Meio e Desenvolvimento Sustentável de Minas Gerais;
+
+
+V –
+
+Um representante do Poder Legislativo.
+
+
+§ 2º
+
+Os representantes da comunidade serão indicados por seus pares, de forma livre e democrática, através das seguintes entidades:
+
+Alteração feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+I –
+
+um representante do segmento hoteleiro, bares e restaurantes;
+
+
+II –
+
+um representante dos clubes de serviços;
+
+
+III –
+
+um representante da Agencia de desenvolvimento;
+
+
+IV –
+
+um representante dos movimentos culturais organizados;
+
+
+V –
+
+um representante da Associação Comercial e Industrial de Buritis.
+
+
+VI –
+
+um representante do segmento hoteleiro;
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+VII –
+
+um representante de bares e restaurantes;
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+VIII –
+
+um representante dos clubes de serviços;
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+IX –
+
+um representante da Agencia de desenvolvimento;
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+X –
+
+um representante dos movimentos culturais organizados;
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+XI –
+
+um representante da Associação Comercial e Industrial de Buritis.
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.015, de 29 de novembro de 2005.
+
+
+§ 3º
+
+A cada Conselheiro Efetivo corresponderá um suplente, sendo que os representantes do Poder público pelo Chefe do Poder Executivo e os representantes da comunidade serão indicados juntamente com seus respectivos suplentes.
+
+
+Art. 4º.
+
+A Secretaria Municipal de Agricultura e Meio Ambiente dará suporte material e pessoal para o funcionamento do Conselho Municipal de Turismo.
+
+
+Art. 5º.
+
+A nomeação dos membros efetivos e suplentes do Conselho far-se-á pelo Prefeito Municipal através de Decreto, após indicação das respectivas entidades descritas no artigo 3°, §2°.
+
+
+§ 1º
+
+O Conselho será dirigido por:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice-Presidente;
+
+
+III –
+
+Secretário.
+
+
+§ 2º
+
+A Diretoria será eleita entre seus membros, em reunião a se iniciar imediatamente após a posse dos Conselheiros.
+
+
+Art. 6º.
+
+O Conselho deverá, no prazo de 30 (trinta) dias de sua instalação, elaborar e aprovar seu Regimento Interno, que será encaminhado ao Prefeito Municipal para aprovação mediante Decreto.
+
+
+Art. 7º.
+
+Os membros do Conselho terão mandado de 3 (três) anos, permitidas uma recondução.
+
+
+Art. 8º.
+
+Caberá ao Prefeito Municipal dar posse ao Primeiro Conselho.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Buritis-MG, 25 de outubro de 2005.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Projeto de Lei nº 033/2005 de autoria dos Vereadores Zaqueu Antonio de Moreira e Marília de Dirceu  
+Lopes Campos, aprovado pela Proposição de Lei n° 042/2005 de 04/09/2005 e sancionada em  
+25/10/2005, sem emendas.
+

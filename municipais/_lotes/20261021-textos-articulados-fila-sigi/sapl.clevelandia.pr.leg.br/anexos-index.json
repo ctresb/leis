@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/anexo_i.pdf da norma Lei Ordinária nº 2.854, de 18 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.clevelandia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/1/anexo_i.pdf",
+      "ano": 2024,
+      "norma": 40
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/ord-2713-2019-clevelandia-pr-anexo.pdf da norma Lei Ordinária nº 2.713, de 20 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.clevelandia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/2/ord-2713-2019-clevelandia-pr-anexo.pdf",
+      "ano": 2019,
+      "norma": 74
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.clevelandia.pr.leg.br/59b6154330416488463120987a468d834cea9e17492583aef736fe5425f34600.json",
+      "url": "https://sapl.clevelandia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9cf30506bf8e08e6368203d3dd43e9bd13a2f562e7681baf5ba7dd5529506858",
+      "capturado_em": "2026-10-20T20:59:20.242197",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.clevelandia.pr.leg.br/59b6154330416488463120987a468d834cea9e17492583aef736fe5425f34600.json"
+    }
+  ]
+}

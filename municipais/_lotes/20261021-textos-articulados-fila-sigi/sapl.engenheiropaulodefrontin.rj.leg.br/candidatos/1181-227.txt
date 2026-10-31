@@ -1,0 +1,85 @@
+Autoriza a abertura de CRÉDITO ESPECIAL por SUPERÁVIT de exercício anterior do FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL e dá outras providências
+
+
+A CÂMARA MUNICIPAL DE ENGENHEIRO PAULO DE FRONTIN aprova e eu José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir crédito especial por superávit no valor de R$ 1.196.915,56 (Hum milhão, cento e noventa e seis mil, novecentos e quinze reais e cinquenta e seis centavos) com as seguintes classificações:
+
+
+Conta: 62188 (Ag: 4647-7 Conta Bancária: 8.925-7) SIGTV.
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4010</td><td>2.416</td><td>3.3.90.30.00.00.00.00.1660.0000</td><td>R$ 250.000,00</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4010</td><td>2.416</td><td>3.3.90.39.00.00.00.00.1660.0000</td><td>R$ 300.000,00</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4010</td><td>2.416</td><td>3.3.90.36.00.00.00.00.1660.0000 </td><td>R$ 64.116,89 </td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$ 614.116,89 </strong><br></td></tr></tbody></table>
+
+
+Conta: 52754 (Ag: 4647-7 Conta Bancária: 7.538-8) – COFINANCIAMENTO ESTADUAL PSB
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.412</td><td>3.3.90.30.00.00.00.00.1669.0000</td><td>R$ 20.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.412</td><td>3.3.90.32.00.00.00.00.1669.0000</td><td>R$ 53.024,48 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.412</td><td>3.3.90.36.00.00.00.00.1669.0000</td><td>R$ 10.000,00</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.412</td><td>3.3.90.39.00.00.00.00.1669.0000 </td><td>R$ 16.186,21 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.412</td><td>4.4.90.52.00.00.00.00.1669.0000 </td><td>R$ 70.000,00 </td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$ 169.210,69</strong><br></td></tr></tbody></table>
+
+
+Conta: 52755 (Ag: 4647-7 Conta Bancária: 7.539-6) – COFINANCIAMENTO ESTADUAL PSE
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.413</td><td>3.3.90.30.00.00.00.00.1669.0000 </td><td>R$ 25.000,00</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.413</td><td>3.3.90.32.00.00.00.00.1669.0000 </td><td>R$ 4.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.413</td><td>3.3.90.36.00.00.00.00.1669.0000</td><td>R$ 15.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.413</td><td>3.3.90.39.00.00.00.00.1669.0000 </td><td>R$ 21.886,23</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4008</td><td>2.413</td><td>4.4.90.52.00.00.00.00.1669.0000 </td><td>R$ 96.360,00 </td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$ 162.246,23</strong></td></tr></tbody></table>
+
+
+Conta: 50924 (Ag: 4647-7 Conta Bancária: 12.284-X) CONSELHO DA CRIANÇA E ADOLESCENTE
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>243</td><td>4011</td><td>2.417</td><td>3.3.90.30.00.00.00.00.1501.0000 </td><td>R$ 1.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>243</td><td>4011</td><td>2.417</td><td>3.3.90.39.00.00.00.00.1501.0000 </td><td>R$ 12.248,87</td></tr><tr><td>04</td><td>001</td><td>08</td><td>243</td><td>4011</td><td>2.417</td><td>4.4.90.52.00.00.00.00.1501.0000 </td><td>R$ 1.000,00 </td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$14.248,87 </strong></td></tr></tbody></table>
+
+
+Conta: 54189 (Ag: 4647-7 Conta Bancária: 7.745-3) –- PSB FEDERAL
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4003</td><td>2.414 </td><td>3.3.90.30.00.00.00.00.1660.0000 </td><td>R$ 3.000,00</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4003</td><td>2.414 </td><td>3.3.90.36.00.00.00.00.1660.0000</td><td>R$ 1.110,64 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4003</td><td>2.414 </td><td>3.3.90.39.00.00.00.00.1660.0000 </td><td>R$ 20.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4003</td><td>2.414 </td><td>4.4.90.52.00.00.00.00.1660.0000 </td><td>R$ 78.000,00 </td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$ 102.110,64 </strong></td></tr></tbody></table>
+
+
+Conta: 57044 (Ag: 4647-7 Conta Bancária: 8.239-2) –- PSE FEDERAL
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4004</td><td>2.415 </td><td>3.3.90.36.00.00.00.00.1660.0000 </td><td>R$ 1.000,00</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4004</td><td>2.415 </td><td>4.4.90.52.00.00.00.00.1660.0000 </td><td>R$ 5.970,46</td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4005</td><td>2.415 </td><td>3.3.90.36.00.00.00.00.1660.0000 </td><td>R$ 4.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4005</td><td>2.415 </td><td>4.4.90.52.00.00.00.00.1660.0000</td><td>R$ 43.150,00 </td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$ 54.120,46 </strong></td></tr></tbody></table>
+
+
+Conta: 55850 (Ag: 4647-7 Conta Bancária: 8.033-0) – CRIANÇA FELIZ – PRIMEIRA INFÂNCIA
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4003</td><td>2.405</td><td>4.4.90.52.00.00.00.00.1660.0000 </td><td>R$ 6.419,06</td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$ 6.419,06</strong></td></tr></tbody></table>
+
+
+Conta: 54192 (Ag: 4647-7 Conta Bancária: 7.741-0) BOLSA FAMÍLIA
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4007</td><td>2.411 </td><td>3.3.90.39.00.00.00.00.1660.0000 </td><td>R$ 15.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4007</td><td>2.411 </td><td>4.4.90.52.00.00.00.00.1660.0000</td><td>R$ 30.000,00 </td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4007</td><td>2.411 </td><td>3.3.90.30.00.00.00.00.1660.0000 </td><td>R$ 23.961,21 </td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td><strong>R$ 68.961,21 </strong></td></tr></tbody></table>
+
+
+Conta: 54191 (Ag: 4647-7 Conta Bancária: 7.742-9) IGD SUAS
+
+
+<table><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função </strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor R$</strong></td></tr><tr><td>04</td><td>001</td><td>08</td><td>244</td><td>4006</td><td>2.410</td><td>4.4.90.52.00.00.00.00.1660.0000 </td><td>R$ 5.481,51</td></tr><tr><td colspan="7"><strong>TOTAL</strong></td><td>R$ 5.481,51 </td></tr></tbody></table>
+
+
+Art. 2º.
+
+Os recursos para atender a presente suplementação são oriundos de Superávit Financeiro apurado no Balanço Patrimonial de 2020, de acordo com o inciso I, do artigo 43, da Lei nº 4.320, de 17/03/64 e parágrafo único do Artigo 8º da Lei de responsabilidade Fiscal (LRF nº 101/2000), conforme demonstrativo abaixo:
+
+
+**BALANCETE CONTÁBIL DE VERIFICAÇÃO EM 31/12/2020**  
+Banco do Brasil – Agência: 4647
+
+
+<table><tbody><tr><td colspan="2"><strong>ATIVO</strong></td><td><strong>PASSIVO</strong></td></tr><tr><td colspan="2"><strong>Financeiro</strong></td><td><strong>Passivo</strong></td></tr><tr><td>SIGTV – CONTA: 8.925-7</td><td>R$ 614.116,89</td><td rowspan="9"><strong>SUPERÁVIT</strong><br><strong>R$ 1.196.915,56 </strong></td></tr><tr><td>COFINANCIAMENTO ESTADO - CRAS CONTA: 7.538-8 </td><td>R$ 169.210,69 </td></tr><tr><td>COFINANCIAMENTO ESTADO - CREAS – CONTA: 7.539-6 </td><td>R$ 162.246,23 </td></tr><tr><td>CONSELHO DA CRIANÇA E ADOLOSCENTE – CONTA: 12.284-X</td><td>R$ 14.248,87 </td></tr><tr><td>CRAS FEDERAL – CONTA: 7.745-3 </td><td>R$ 102.110,64 </td></tr><tr><td>CREAS/ABRIGO FEDERAL – CONTA: 8.239-2</td><td>R$ 54.120,46 </td></tr><tr><td>CRIANÇA FELIZ – PRIMEIRA INFÂNCIA – CONTA: 8.033-0 </td><td>R$ 6.419,06 </td></tr><tr><td>BOLSA FAMÍLIA – CONTA: 7.741-0 </td><td>R$ 68.961,21</td></tr><tr><td>IGD SUAS – CONTA: 7.742-9 </td><td>R$ 5.481,51 </td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td><strong>R$ 1.196.915,56 </strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica o Poder Executivo autorizado a expedir os atos necessários à execução desta Lei.
+
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**
+
+Prefeito Municipal

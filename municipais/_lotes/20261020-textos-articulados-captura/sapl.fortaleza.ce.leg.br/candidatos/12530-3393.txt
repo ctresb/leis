@@ -1,0 +1,992 @@
+Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 2020 e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+São estabelecidas, em cumprimento ao disposto no art. 165, § 2º, da Constituição Federal, na Lei Complementar nº 101, de 4 de maio de 2000, e no art. 173, inciso II, da Lei Orgânica do Município, as diretrizes orçamentárias do Município de Fortaleza para o exercício de 2020, compreendendo:
+
+
+I –
+
+As metas e prioridades da Administração Pública Municipal;
+
+
+II –
+
+A organização e estrutura dos orçamentos;
+
+
+III –
+
+As diretrizes gerais para a elaboração dos orçamentos do Município e suas alterações;
+
+
+IV –
+
+As disposições relativas às despesas com pessoal e encargos sociais;
+
+
+V –
+
+As disposições sobre as alterações na legislação tributária do Município;
+
+
+VI –
+
+As disposições gerais.
+
+
+#### CAPÍTULO II — DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
+
+
+Art. 2º.
+
+As prioridades e metas da Administração Pública Municipal para o exercício de 2020, conforme preconizado no art. 173, § 4º, da Lei Orgânica do Município de Fortaleza, observarão as diretrizes gerais, agrupadas por área temática referenciada em eixos e objetivos estratégicos de Governo, bem como programas pactuados no PPA 2018–2021, preservando-se a conexão com o Projeto Fortaleza 2040:
+
+
+*Habitabilidade e Direito à Cidade*: promoção do direito à moradia digna e redução do déficit habitacional, nas áreas de maior precariedade, com ações voltadas para a habitação de interesse social, oferta de infraestrutura básica aos conjuntos habitacionais, urbanização de assentamentos precários e regularização fundiária. Adicionalmente, dar-se-á prosseguimento à construção de novas moradias, assim como requalificação/reforma de unidades existentes.
+
+
+*Segurança Cidadã e do Patrimônio Público*: desenvolvimento de ações preventivas e fortalecimento do Sistema de Segurança Cidadã, por meio da implementação do Programa Municipal de Proteção Urbana – PMPU, visando à implementação de uma cultura de paz, que favoreça a melhoria da segurança da cidade e de seu patrimônio, contribuindo com a redução dos índices de violência e com a convivência pacífica dos cidadãos de Fortaleza. As ações serão consubstanciadas na expansão do número de células de proteção comunitárias, bases de segurança, no aprimoramento da prevenção e da mediação de conflitos e no aperfeiçoamento do parque de iluminação pública da cidade.
+
+
+*Mobilidade e Acessibilidade Urbanas*: execução prioritária de ações interdependentes e integradas entre as políticas de mobilidade urbana e as intervenções propostas para a forma urbana, especialmente as que promovam segurança na acessibilidade aos espaços públicos e maior fluidez na circulação de pessoas, bens e serviços. Dentre as iniciativas a serem continuadas e aperfeiçoadas, ressalta-se: a implementação de modais alternativos de transporte urbano de baixa emissão de CO2 (Bicicletar, ciclovias e ciclofaixas, veículos com combustíveis alternativos), a requalificação e expansão da infraestrutura viária, com a implantação de novos binários/trinários e o aumento da acessibilidade veicular do Sistema de Transporte Coletivo em ônibus (extensão das faixas exclusivas para ônibus, frota com *wifi* e ar-condicionado, bem como corredores expressos: BRT e miniterminais).
+
+
+*Saúde e Bem-Estar*: articulação entre as 2 (duas) seguintes diretrizes: *a)* promoção da saúde e bem-estar, na perspectiva da melhoria da qualidade de vida da população, conduzindo-a como política pública inclusiva e resolutiva, por meio da continuidade das iniciativas relacionadas à integração, à manutenção, à recuperação, à ampliação e à expansão dos pontos de atenção da saúde primária, secundária e terciária, ressaltando-se o aprimoramento de projetos multissetoriais direcionados à promoção do desenvolvimento integral da primeira infância, a exemplo do Cresça Com Seu Filho – Criança Feliz, do Mais Infância Ceará e do Unidade Amiga da Primeira Infância, desenvolvidos em parceria com outras instâncias do Poder Público e com o suporte de instituições especializadas como o Banco Interamericano de Desenvolvimento-BID; e *b)* interação da prática de atividades para a formação de hábitos saudáveis, que se consolida por meio do desenvolvimento e ampliação das políticas de democratização ao acesso às atividades esportivas e de lazer, proporcionada em espaços como areninhas, academias ao ar livre e núcleos de esporte e lazer implantados prioritariamente em bairros com baixo IDH.
+
+
+*Juventude*: disseminação de oportunidades de acolhimento, formação, qualificação e emancipação dos jovens, mediante o fortalecimento de uma política integrada, que implementa programas e ações multissetoriais e inclusivos, a exemplo do Fortaleza Inclusiva e do PROREDES, possibilitando a inclusão social e produtiva, nos espaços como a Rede CUCA, os Centros de Arte e Esportes Unificados – CEUS, a Academia ENEM e o Projeto Juventude Sem Fronteiras, que vêm impactando de forma positiva na conquista da autonomia da juventude de Fortaleza.
+
+
+*Direitos Humanos e Assistência Social*: enfrentamento da pobreza e proteção e promoção dos direitos de indivíduos, grupos e famílias em situação de vulnerabilidade social, em especial crianças e adolescentes, por intermédio do desenvolvimento da política de Assistência Social e promoção dos Direitos Humanos das minorias em situação de vulnerabilidade (público LGBT, mulheres, afrodescendentes, idosos, pessoas com deficiência, dentre outros), na perspectiva de minimizar as diferenças entre os territórios e contribuir para a redução da vulnerabilidade e dos riscos sociais. A ênfase no fortalecimento das proteções sociais básica - PSB e especial – PSE visa à construção de uma cidade que propicie o convívio baseado no respeito comum, na tolerância, na prevenção e promoção dos direitos dos segmentos historicamente discriminados, seja pela sua condição física, sexo, raça, cor, gênero ou orientação sexual.
+
+
+*Educação, Conhecimento e Inovação*: harmonização entre as 3 (três) diretivas: *a)* ampliação do acesso e melhoria da qualidade da educação, promovendo as intervenções necessárias ao desenvolvimento de uma escola acolhedora, acessível, com foco na formação integral dos educandos, possibilitando, por meio do avanço da Educação Infantil e do Ensino Fundamental, tanto a melhoria e ampliação da rede de atendimento (escolas, ETIs, CEIs e creches) como o investimento na formação sistemática do corpo docente; *b)* fomento e fortalecimento cultural, envolvendo a geração de uma nova dinâmica cultural na cidade, com a inclusão de todos os segmentos da população e a promoção das mais diversas linguagens artísticas, desenvolvidas por projetos como o Bom de Fortaleza, o Ciclo Carnavalesco e os Festejos Juninos, esboçado na continuada ampliação dos bairros beneficiados pelas ações de cultura e no amplo investimento para a cultura municipal, contemplando eventos, equipamentos e políticas de cultura; e *c)* desenvolvimento científico e tecnológico que vem apontando soluções inovadoras e de tecnologia direcionadas à eficiência da gestão, no sentido de prover a cidade de ações capazes de melhorar os serviços públicos e o acesso da população às mídias digitais, viabilizado tanto por meio da diversificação de eventos, promovidos ou apoiados pela gestão municipal, disseminadores da cultura de ambiência local favorável à atração de empreendedores vinculados ao conceito de cidades inteligentes.
+
+
+*Urbanismo, Meio Ambiente e Segurança Hídrica*: inter-relação entre as 3 (três) diretrizes referenciadas a seguir: *a)* planejamento e execução de ações articuladas para manter o meio ambiente seguro, sadio e equilibrado, com destaque para ações direcionadas ao tema Educação Ambiental; *b)* busca pela universalização do saneamento básico, abrangendo: drenagem urbana e a coleta e o tratamento dos resíduos sólidos, especialmente com a expansão da rede de “Ecopontos” e “Ecopolos”, planejando e controlando o ambiente natural e o ambiente construído do Município, de forma a assegurar o direito à cidade e ao bem-estar de seus habitantes; e *c)* fortalecimento do empreendedorismo urbano, com ênfase na ampliação das Zonas Especiais de Dinamização Urbanística e Socioeconômica – ZEDUS, na implementação da política pública de Operações Urbanas Consorciadas e Outorgas Onerosas, além do incremento dos serviços de licenciamento.
+
+
+*Desenvolvimento Econômico*: otimização de ações voltadas ao desenvolvimento econômico local, baseadas no fomento à exploração das vocações e potencialidades econômicas do Município, bem como na promoção da inclusão produtiva, formação profissional e inserção no mercado de trabalho, em apoio ao fortalecimento e à expansão de novos empreendimentos, com foco no crescimento da economia, do emprego e da renda. Alinhadas a estas diretivas, priorizar-se-ão ações e projetos de desenvolvimento sustentável local, tais como o Meu Bairro Empreendedor, que eleva o capital humano, social e empresarial, visando ao melhor aproveitamento das potencialidades dos territórios; e o Cidade Com Futuro, envolvendo ações de infraestrutura, para concluir obras da Avenida Beira Mar, assim como para o Polo Gastronômico da Varjota e o sistema de segurança em toda a orla da capital, dentre outras operações.
+
+
+*Planejamento e Gestão Integrados e Participação e Controle Social*: integração das 2 (duas) seguintes diretivas: *a)* dotação da Administração Pública de mecanismos que assegurem o cumprimento das exigências legais, administrativas e fiscais, otimizando a execução orçamentária, melhorando o gasto público, aprimorando a gestão de pessoas, automatizando processos, investindo em tecnologia de informação e comunicação, além da implementação do modelo de governança institucional e da evolução da política fiscal baseada na eficiência e responsabilidade fiscal. Merecerão destaque as ações que visam ao aumento da arrecadação, ao controle dos gastos correntes, à elevação dos investimentos e ao controle do nível de endividamento, garantindo maior tranquilidade aos gestores e melhores ofertas de serviços a sociedade; *b)* garantia de meios de transparência, democratizando o conhecimento, aperfeiçoando a gestão participativa e descentralizada, por meio da adoção de estratégias de atuação para fortalecer o processo de participação social na cidade, desenvolver atividades visando à maior transparência (divulgação e retorno à população), executar ações programáticas contando com controle interno, suporte e assessoramento jurídico, e fortalecer a integração entre as demandas dos munícipes e o Poder Público Municipal, no sentido de consolidar a participação social como um espaço legitimo de democratização das ações públicas. Adicionalmente, deve-se aprimorar a qualificação da participação da sociedade, na perspectiva de ampliar sua capacidade de interferir nas decisões da gestão, fortalecendo o diálogo direto entre Governo e sociedade.
+
+
+Art. 3º.
+
+As metas prioritárias para o exercício de 2020 serão as especificadas no Anexo de Metas Físicas, não se constituindo, todavia, em limite à programação da despesa.
+
+
+§ 1º
+
+As ações e metas previstas no Anexo de Metas Físicas e Prioridades, não contempladas no Plano Plurianual para o período 2018–2021, passam a ser parte integrante do referido plano.
+
+
+§ 2º
+
+O projeto de lei orçamentária para o ano de 2020 será elaborado de acordo com as seguintes orientações:
+
+
+I –
+
+Responsabilidade na gestão fiscal;
+
+
+II –
+
+Eficiência e qualidade na prestação de serviços públicos, em especial nas ações e serviços da saúde e da educação;
+
+
+III –
+
+Ação planejada, descentralizada, transparente e participação social;
+
+
+IV –
+
+Articulação, cooperação e parceria com a União, o Estado, outros Municípios e iniciativa privada.
+
+
+#### CAPÍTULO III — DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
+
+
+Art. 4º.
+
+Para efeito desta Lei, entende-se por:
+
+
+I –
+
+Programa: instrumento de organização da ação governamental visando à concretização dos objetivos pretendidos, sendo mensurado por indicadores estabelecidos no Plano Plurianual;
+
+
+II –
+
+Atividade: instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações que se realiza, de modo contínuo e permanente, das quais resulta um produto necessário à manutenção da ação de Governo;
+
+
+III –
+
+Projeto: instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações, limitadas no tempo, das quais resulta um produto que concorre para a expansão ou o aperfeiçoamento da ação de Governo;
+
+
+IV –
+
+Operação especial: despesas que não contribuem para a manutenção das ações de Governo, das quais não resulta um produto, e não geram contraprestação direta sob a forma de bens e serviços;
+
+
+V –
+
+Unidade orçamentária: nível intermediário da classificação institucional, agrupada em órgãos orçamentários, entendidos estes como os de maior nível da classificação institucional.
+
+
+§ 1º
+
+Cada programa identificará as ações necessárias para atingir os seus objetivos, sob a forma de atividades, projetos e operações especiais, especificando os respectivos valores e metas, bem como as unidades orçamentárias responsáveis pela realização da ação de Governo.
+
+
+§ 2º
+
+As atividades, projetos e operações especiais serão desdobrados em subtítulos exclusivamente para especificar as suas localizações físicas, integral ou parcial.
+
+
+§ 3º
+
+Cada atividade, projeto e operação especial identificarão a função e a subfunção às quais se vinculam.
+
+
+Art. 5º.
+
+Os orçamentos fiscal e da seguridade social discriminarão a despesa por unidade orçamentária, detalhada por categoria de programação em seu menor nível com suas respectivas dotações, especificando a esfera orçamentária, a modalidade de aplicação, a fonte de recursos, identificador de uso, o identificador de resultado primário e os grupos de despesa, conforme a seguir especificado:
+
+
+1
+
+Pessoal e encargos sociais;
+
+
+2
+
+Juros e encargos da dívida;
+
+
+3
+
+Outras despesas correntes;
+
+
+4
+
+Investimentos;
+
+
+5
+
+Inversões financeiras;
+
+
+6
+
+Amortização da dívida.
+
+
+Art. 6º.
+
+As Metas Físicas serão indicadas de forma regionalizada em nível de subtítulo e agregadas, segundo os respectivos projetos e atividades.
+
+
+Parágrafo único.
+
+Os projetos e/ou atividades que envolverem e beneficiarem mais de uma área do município terá sua regionalização padronizada como Município.
+
+
+Art. 7º.
+
+Os orçamentos fiscal e da seguridade social compreenderão a programação dos Poderes do Município, seus fundos, órgãos, autarquias e fundações instituídas e mantidas pelo Poder Público, bem como o investimento das empresas públicas e sociedade de economia mista nas quais o Município, direta ou indiretamente, detenha a maioria do capital.
+
+
+Art. 8º.
+
+As operações entre órgãos, fundos e entidades integrantes dos Orçamentos Fiscal e da Seguridade Social serão executadas por meio de empenho, liquidação e pagamento, nos termos da Lei Federal nº 4.320/64, utilizando-se a modalidade de Aplicação 91.
+
+
+Art. 9º.
+
+A lei orçamentária discriminará em categorias de programação específica as dotações destinadas:
+
+
+I –
+
+À participação em constituição ou aumento de capital de empresas estatais;
+
+
+II –
+
+Ao pagamento de precatórios judiciais, que constarão das unidades orçamentárias responsáveis pelo débito.
+
+
+Art. 10.
+
+A lei orçamentária será constituída de:
+
+
+I –
+
+Texto da Lei;
+
+
+II –
+
+Quadros orçamentários consolidados;
+
+
+III –
+
+Anexo dos orçamentos fiscal e da seguridade social, discriminando a receita e a despesa na forma definida nesta Lei;
+
+
+IV –
+
+Anexo do orçamento de investimento das empresas a que se refere o art. 165, § 5º, inciso II, da Constituição Federal, e o art. 173, § 7º, inciso II, da Lei Orgânica do Município, na forma definida nesta Lei;
+
+
+V –
+
+Discriminação da legislação da receita e da despesa, referente aos orçamentos fiscal e da seguridade social.
+
+
+§ 1º
+
+Os quadros orçamentários a que se refere o inciso II deste artigo, incluindo os complementos referenciados no art. 22, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, são os seguintes:
+
+
+I –
+
+Evolução da receita do Tesouro, segundo as categorias econômicas e seu desdobramento em fontes, discriminando cada imposto e contribuição;
+
+
+II –
+
+Evolução da despesa do Tesouro, segundo as categorias econômicas e grupo de despesa;
+
+
+III –
+
+Resumo da receita dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, por categoria econômica e origem dos recursos;
+
+
+IV –
+
+Resumo da despesa dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, por categoria econômica e origem dos recursos;
+
+
+V –
+
+Receita e despesa dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, segundo as categorias econômicas, conforme o Anexo I da Lei Federal nº 4.320, de 17 de março de 1964, e suas alterações;
+
+
+VI –
+
+Receitas dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, de acordo com a classificação constante do Anexo III da Lei Federal nº 4.320, de 17 de março de 1964, e suas alterações posteriores, pela Portaria Interministerial de nº 163, de 04 de maio de 2001, e suas alterações posteriores;
+
+
+VII –
+
+Receitas dos orçamentos fiscal e da seguridade social, segundo a sua destinação;
+
+
+VIII –
+
+Resumo da destinação das receitas dos orçamentos fiscal e da seguridade social;
+
+
+IX –
+
+Despesas dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, segundo Poder e órgão, por grupo de despesa e fonte de recursos;
+
+
+X –
+
+Despesas dos orçamentos fiscal e da seguridade social, isolada e conjuntamente, por órgão, função, subfunção, programa e grupo de despesas;
+
+
+XI –
+
+Despesas do orçamento fiscal e da seguridade social, por órgão e região administrativa;
+
+
+XII –
+
+Programação referente à manutenção e ao desenvolvimento do ensino, nos termos do art. 212 da Constituição Federal, em nível de órgão, detalhando fontes e valores por categoria de programação;
+
+
+XIII –
+
+Resumo das fontes de financiamento e da despesa do orçamento de investimento, segundo órgão, função, subfunção e programa;
+
+
+XIV –
+
+Fontes de recursos por grupos de despesas;
+
+
+XV –
+
+Identificador de resultado primário;
+
+
+XVI –
+
+Despesas dos orçamentos fiscal e da seguridade social, segundo os programas de Governo, com seus objetivos, detalhados por atividades, projetos e operações especiais, com identificação das metas, se for o caso, e unidades orçamentárias executoras;
+
+
+XVII –
+
+Gastos com pessoal e encargos sociais, e outras despesas de pessoal, nos termos do art. 20, inciso III, da Lei Complementar nº 101, de 04 de maio de 2000.
+
+
+XVIII –
+
+Demonstrativo regionalizado do efeito, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia, nos termos do § 6º do art. 165 da Constituição Federal;
+
+
+XIX –
+
+Demonstrativo da compatibilidade entre o orçamento proposto para 2020 e os objeti­vos e metas constantes no demonstrativo de Metas Fiscais desta lei, nos termos do inciso I do art. 5º da Lei de Responsabilidade Fiscal;
+
+
+§ 2º
+
+O identificador de resultado primário, de caráter indicativo, tem como finalidade auxiliar a apuração do resultado primário previsto no Anexo de Metas Fiscais do Anexo II desta Lei, devendo constar no Projeto de Lei Orçamentária de 2020 e na respectiva Lei, em todos os grupos de natureza de despesa, identificando se a despesa é:
+
+
+I –
+
+Financeira – (RP - 0);
+
+
+II –
+
+Primária obrigatória – (RP - 1);
+
+
+III –
+
+Primária discricionária de projetos estruturantes do Município financiados com recursos de operações de crédito – (RP - 2);
+
+
+IV –
+
+Do Orçamento de Investimento das empresas estatais que não impacta o resultado primário – (RP - 3).
+
+
+§ 3º
+
+A mensagem que encaminhar o projeto de lei orçamentária conterá:
+
+
+I –
+
+Avaliação das necessidades de financiamento do setor público municipal, explicitando receitas e despesas;
+
+
+II –
+
+Justificativa da estimativa e da fixação, respectivamente, dos principais agregados da receita e da despesa.
+
+
+§ 4º
+
+O Poder Executivo colocará à disposição para consulta do Poder Legislativo e do Ministério Público, no mínimo, 30 (trinta) dias antes do prazo final para o encaminhamento de suas propostas orçamentárias, os estudos e estimativas das receitas para o exercício subsequente, inclusive da corrente líquida, e as respectivas memórias de cálculo.
+
+
+§ 5º
+
+Os valores constantes dos demonstrativos previstos no § 3º deste artigo serão elaborados a preço da proposta orçamentária, explicitando a metodologia utilizada para sua atualização, quando for o caso.
+
+
+§ 6º
+
+O Poder Executivo enviará à Câmara Municipal os projetos de lei orçamentária por meio eletrônico, com sua despesa discriminada por grupo de despesa.
+
+
+Art. 11.
+
+Para efeito do disposto no art. 7º desta Lei, o Poder Legislativo encaminhará à Secretaria Municipal do Planejamento, Orçamento e Gestão, até 30 de julho de 2019, sua proposta orçamentária, observados os parâmetros e as diretrizes estabelecidos nesta Lei, para fins de consolidação do projeto de lei orçamentária.
+
+
+§ 1º
+
+O total da despesa do Poder Legislativo Municipal será de 4,5% (quatro e meio por cento) relativo ao somatório da Receita Tributária, Contribuição para Custeio do Serviço de Iluminação Pública, Contribuição de Intervenção no Domínio Econômico e das Transferências previstas no § 5º, do art. 153, e nos arts. 158 e 159, da Constituição Federal, efetivamente realizado no exercício anterior
+
+
+§ 2º
+
+Para os fins desta Lei, entende-se por Receita Tributária o somatório dos seguintes tributos:
+
+
+I –
+
+Impostos;
+
+
+II –
+
+Taxas;
+
+
+III –
+
+Receita da Dívida Ativa de impostos (principal, juros e multas);
+
+
+IV –
+
+Receita de multas e juros de mora sobre atraso de impostos em Dívida Ativa.
+
+
+§ 3º
+
+Para os fins desta Lei, entende-se por Transferências o somatório das seguintes Receitas:
+
+
+I –
+
+Fundo de Participação dos Municípios (FPM);
+
+
+II –
+
+Imposto Sobre Propriedade Territorial Rural (ITR);
+
+
+III –
+
+Imposto Sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual, Intermunicipal e de Comunicação (ICMS);
+
+
+IV –
+
+Imposto Sobre a Propriedade de Veículos Automotores (IPVA);
+
+
+V –
+
+Imposto Sobre Produto Industrializado (IPI);
+
+
+VI –
+
+ICMS Desoneração previsto na Lei Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir)
+
+
+Art. 12.
+
+O identificador de uso, a que se refere o art. 5º desta Lei, destina-se a indicar se os recursos compõem a contrapartida de empréstimos ou de convênios ou destina-se a outras aplicações, constando da lei orçamentária e de seus créditos adicionais, pelos seguintes dígitos, que antecederão o código das fontes de recursos:
+
+
+0 — Recursos não Destinados à Contrapartida
+
+2 — Contrapartida – Operação de Credito Externa
+
+3 — Contrapartida – Operação de Credito Interna
+
+5 — Contrapartida de Convênios
+
+
+Art. 13.
+
+Na elaboração, aprovação e execução da Lei Orçamentária de 2020 deverão ser consideradas as previsões das receitas e despesas e a obtenção de resultado primário, mensurado pela diferença entre a receita realizada e a despesa liquidada, não financeira, e expresso em percentual do Produto Interno Bruto – PIB estadual, discriminadas no Anexo II – Anexo de Metas Fiscais - que integra esta Lei, e com base nos parâmetros macroeconômicos projetados para 2020, assim como o impacto orçamentário-financeiro do custo de manutenção dos novos investimentos, na data em que entrarem em vigor e nos 2 (dois) anos subsequentes.
+
+
+Parágrafo único.
+
+Os programas, projetos e atividades identificados na Lei Orçamentária Anual 2020, que estejam qualificadas pelo identificador de resultado primário RP 2 e RP 3 de que trata o § 2º, do art. 10, desta Lei, não serão computados para efeito do cálculo do resultado primário.
+
+
+#### CAPÍTULO IV — DAS DIRETRIZES PARA ELABORAÇÃO DOS ORÇAMENTOS E SUAS ALTERAÇÕES
+
+
+##### Seção I — DAS DIRETRIZES GERAIS
+
+
+Art. 14.
+
+A elaboração do projeto, a aprovação e a execução da Lei Orçamentária de 2020 deverão ser realizadas de modo a evidenciar a transparência da gestão fiscal, bem como levar em consideração a obtenção dos resultados previstos nos Anexos de Metas Fiscais, de Riscos Fiscais e de Avaliação da Situação Financeira e Atuarial da Previdência do Município, que integram esta Lei.
+
+
+Parágrafo único.
+
+O Anexo de Metas Fiscais de que trata o caput deste artigo poderá ser alterado sempre que se fizerem necessárias revisões ou inclusões de novas metas, desde que apreciado pelo Legislativo.
+
+
+Art. 15.
+
+Além de observar as demais diretrizes estabelecidas nesta Lei, a alocação dos recursos na lei orçamentária e em seus créditos adicionais será feita de forma a propiciar a avaliação dos resultados dos programas de Governo.
+
+
+Art. 16.
+
+O pagamento de precatórios judiciais será efetuado em ação orçamentária específica, incluída na Lei Orçamentária para esta finalidade e deverá ser processada com observância ao art. 100 da Constituição Federal, bem como às decisões proferidas pelo Supremo Tribunal Federal em sede de controle de constitucionalidade.
+
+
+§ 1º
+
+Os precatórios constarão dos orçamentos dos órgãos e entidades da Administração Indireta a que se referem os débitos, quando o pagamento for realizado com recursos próprios dos referidos órgãos e entidades.
+
+
+§ 2º
+
+Os precatórios constarão dos Encargos Gerais do Município, quando o pagamento for realizado com recursos do Tesouro Municipal.
+
+
+§ 3º
+
+A inclusão de recursos na Lei Orçamentária Anual de 2020, para o pagamento de precatórios, será realizada em conformidade com o que preceitua o art. 100, §§ 1º, 2 e 3º, da Constituição Federal e com o disposto no art. 78 e 101 do Ato das Disposições Constitucionais Transitórias (ADCT).
+
+
+§ 4º
+
+Os órgãos e as entidades da Administração Pública submeterão os processos referentes a pagamento de precatórios à apreciação da Procuradoria Geral do Município, com vistas ao atendimento da requisição judicial.
+
+
+Art. 17.
+
+Na programação da despesa não poderão ser:
+
+
+I –
+
+Fixadas despesas, sem que estejam definidas as respectivas fontes de recursos e legalmente instituídas as unidades executoras;
+
+
+II –
+
+Incluídos projetos novos, se não tiverem sido contemplados todos os projetos em andamento
+
+
+Art. 18.
+
+As alterações orçamentárias que não modifiquem o valor global da categoria de programação e do grupo de despesa não ensejam à abertura de créditos adicionais e poderão ocorrer no sistema de contabilidade para ajustar:
+
+
+I –
+
+A Modalidade de Aplicação, exceto quando envolver a modalidade de Aplicação 91;
+
+
+II –
+
+O Elemento de Despesa;
+
+
+III –
+
+As Fontes de Recurso;
+
+
+IV –
+
+Os Identificadores de Uso.
+
+
+Parágrafo único.
+
+As referidas alterações serão realizadas diretamente no Sistema Integrado de Orçamento e Planejamento de Fortaleza - SIOPFOR, pela Secretaria Municipal do Planejamento, Orçamento e Gestão, que publicará Portaria com as alterações solicitadas.
+
+
+Art. 19.
+
+É vedada a inclusão, na lei orçamentária e em seus créditos adicionais, de dotações a título de subvenções sociais, ressalvadas aquelas destinadas a entidades privadas sem fins lucrativos, de atividade de natureza continuada, de atendimento direto ao público, de forma gratuita, nas áreas de Educação, Saúde e Assistência Social, nos termos do art. 25 da Lei Complementar nº 101, de 04 de maio de 2000.
+
+
+Parágrafo único.
+
+Para habilitar-se ao recebimento de subvenções sociais, a entidade privada sem fins lucrativos deverá apresentar:
+
+
+I –
+
+Declaração de funcionamento regular nos últimos 12 (doze) meses, emitida no exercício por 3 (três) autoridades locais, e comprovante de regularidade do mandato de sua diretoria e certidões negativas de débitos com os Fiscos municipal, estadual e federal;
+
+
+II –
+
+Ata do termo de posse da diretoria, com identificação dos seus membros e respectivos cargos;
+
+
+III –
+
+Estatuto social da entidade;
+
+
+IV –
+
+Prestação de contas realizada por contador devidamente registrado no Conselho Regional de Contabilidade, com o relatório sobre as atividades desenvolvidas, contendo o comparativo entre as metas propostas e os resultados alcançados;
+
+
+V –
+
+Demonstrativo integral da receita e despesa efetivamente realizada na execução dos serviços prestados.
+
+
+Art. 20.
+
+Será considerada despesa irrelevante, para efeito do disposto no § 3º, do art. 16, da Lei Complementar nº 101, de 04 de maio de 2000, a despesa até o valor do limite de dispensa de licitação.
+
+
+Art. 21.
+
+O Poder Executivo deverá elaborar, publicar e encaminhar ao Tribunal de Contas do Estado do Ceará (TCE-CE), até 45 (quarenta e cinco) dias após a publicação da Lei Orçamentária de 2020, cronograma anual de desembolso mensal, por órgão, com vistas ao cumprimento da meta de resultado primário estabelecida nesta Lei.
+
+
+Parágrafo único.
+
+O desembolso dos recursos financeiros, correspondentes aos créditos orçamentários e adicionais consignados ao Poder Legislativo, será feito até o dia 20 (vinte) de cada mês, sob a forma de duodécimos.
+
+
+Art. 22.
+
+Somente poderão ser incluídas no projeto de lei orçamentária dotações relativas às operações de crédito já contratadas ou em processo de tramitação na Secretaria do Tesouro Nacional com previsão de execução no exercício de 2020.
+
+
+Art. 23.
+
+A programação de investimentos para 2020, nos orçamentos fiscal e da seguridade social, observará a regionalização estabelecida no Plano Plurianual do Município, para o quadriênio 2018–2021.
+
+
+Art. 24.
+
+A Secretaria Municipal do Planejamento, Orçamento e Gestão publicará as instruções para a elaboração do projeto de lei orçamentária anual, disponibilizando-as, por meio eletrônico, no sítio da mesma.
+
+
+Art. 25.
+
+O Poder Executivo encaminhará, por meio eletrônico, para cada vereador, exemplar do projeto de lei que trata da proposta orçamentária anual do Município.
+
+
+Art. 26.
+
+A Lei Orçamentária Anual conterá dotação para Reserva de Contingência, no valor de até 1% (um por cento) da receita corrente líquida prevista para o exercício de 2020, deduzidos os valores das receitas vinculadas e as com destinação específica, a ser utilizada como fonte de recursos para a abertura de créditos adicionais destinados ao atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos.
+
+
+Parágrafo único.
+
+**Parágrafo único.** Na hipótese de não utilização da Reserva de Contingência nos fins previstos neste artigo até 30 de novembro de 2020, o Poder Executivo poderá dispor sobre a destinação da dotação para financiamento da abertura de créditos adicionais.
+
+
+Art. 27.
+
+Os projetos de lei relativos a créditos adicionais serão apresentados com o mesmo detalhamento da lei orçamentária.
+
+
+Parágrafo único.
+
+Acompanharão os projetos de lei relativos a créditos adicionais exposições de motivos circunstanciadas que os justifiquem e que indiquem as consequências dos cancelamentos de dotações propostas sobre a execução das atividades, dos projetos e das operações especiais.
+
+
+Art. 28.
+
+O orçamento da seguridade social compreenderá as programações destinadas a atender às ações de Saúde, Previdência e Assistência Social, e contará, entre outros, com os recursos provenientes:
+
+
+I –
+
+Do repasse da contribuição patronal;
+
+
+II –
+
+Da contribuição dos servidores públicos municipais;
+
+
+III –
+
+Do orçamento fiscal;
+
+
+IV –
+
+Dos recursos diretamente arrecadados pelas entidades e fundos que integram exclusivamente o orçamento de que trata esta Seção;
+
+
+V –
+
+Das transferências por convênio.
+
+
+##### Seção II — DAS DIRETRIZES ESPECÍFICAS DO ORÇAMENTO DE INVESTIMENTO DAS EMPRESAS CONTROLADAS PELO MUNICÍPIO
+
+
+Art. 29.
+
+O orçamento de investimento, previsto no art. 165, § 5º, inciso II, da Constituição Federal, e no art. 173, § 7º, inciso II, da Lei Orgânica do Município, será apresentado para cada empresa em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto.
+
+
+§ 1º
+
+Para efeito de compatibilidade da programação orçamentária com a Lei Federal nº 6.404, de 15 de dezembro de 1976, serão consideradas investimentos as despesas com aquisição do ativo imobilizado.
+
+
+§ 2º
+
+O detalhamento das fontes de financiamento dos investimentos de cada empresa referida neste artigo será feito de forma a evidenciar os recursos:
+
+
+I –
+
+Gerados pela empresa;
+
+
+II –
+
+Decorrentes da participação acionária do Município;
+
+
+III –
+
+Oriundos de transferências do Município, sob outras formas que não as compreendidas no inciso II deste artigo;
+
+
+IV –
+
+De outras origens.
+
+
+§ 3º
+
+A programação dos investimentos à conta de recursos oriundos do orçamento fiscal, inclusive mediante participação acionária, observará o valor e a destinação constantes do orçamento original.
+
+
+§ 4º
+
+As empresas cuja programação conste integralmente no orçamento fiscal não integrarão o orçamento de investimento.
+
+
+Art. 30.
+
+Não se aplicam às empresas integrantes do orçamento de investimento as normas gerais da Lei Federal nº 4.320, de 17 de março de 1964, no que concerne ao regime contábil, execução do orçamento e demonstrativo de resultado, ressalvadas aquelas enquadradas como empresas estatais dependentes, nos termos da Portaria STN nº 589, de 27 de dezembro 2001, da Secretaria do Tesouro Nacional/Ministério da Fazenda.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS
+
+
+Art. 31.
+
+As despesas com pessoal e encargos sociais dos Poderes Executivo e Legislativo serão fixadas observando-se o disposto nas normas constitucionais aplicáveis na Lei Complementar nº 101, de 04 de maio de 2000, e a legislação municipal em vigor.
+
+
+Art. 32.
+
+Observado o disposto no art. 31 desta Lei, o Poder Executivo poderá encaminhar projetos de lei, visando:
+
+
+I –
+
+À concessão e absorção de vantagens e aumento de remuneração de servidores;
+
+
+II –
+
+À criação e extinção de cargos públicos;
+
+
+III –
+
+À criação, extinção e alteração da estrutura de carreiras;
+
+
+IV –
+
+Ao provimento de cargos e contratações estritamente necessárias, respeitada a legislação municipal vigente;
+
+
+V –
+
+À revisão do sistema de pessoal, particularmente do Plano de Cargos, Carreiras e Salários, objetivando a melhoria da qualidade do serviço público por meio de políticas de valorização, desenvolvimento profissional e melhoria das condições de trabalho do servidor público.
+
+
+§ 1º
+
+Fica dispensada do encaminhamento de projeto de lei a concessão de vantagens já previstas na legislação.
+
+
+§ 2º
+
+A criação ou ampliação de cargos deverá ser precedida da demonstração do atendimento aos requisitos da Lei Complementar Federal nº 101, de 4 de maio de 2000.
+
+
+§ 3º
+
+Considera-se como substituição de servidores e empregados públicos, para efeito do disposto no caput deste artigo, os serviços de terceirização relativos à execução de atividades fins do órgão ou entidade.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA
+
+
+Art. 33.
+
+O Poder Executivo poderá encaminhar ao Poder Legislativo projetos de lei propondo alterações na legislação, inclusive na que dispõe sobre tributos municipais, se necessárias à preservação do equilíbrio das contas públicas, à consecução da justiça fiscal, à eficiência e modernização da máquina arrecadadora, à alteração das regras de uso e ocupação do solo, subsolo e espaço aéreo, bem como ao cancelamento de débitos cujo montante seja inferior aos respectivos custos de cobrança.
+
+
+Parágrafo único.
+
+Na elaboração da estimativa das receitas do Projeto de Lei Orçamentária Anual de 2020, serão considerados os efeitos de alterações na legislação tributária que venham a ser realizadas até 30 de setembro de 2019.
+
+
+Art. 34.
+
+Os projetos de lei de concessão de anistia, remissão, subsídio, crédito, concessão de isenção em caráter não geral, alteração de alíquota ou modificação de base de cálculos que impliquem redução discriminada de tributos ou contribuições, e outros benefícios que correspondam a tratamento diferenciado, atenderão ao disposto no art. 14 da Lei Complementar Federal nº 101, de 04 de maio de 2000, devendo ser instruídos com demonstrativo, evidenciando que não serão afetadas as metas de resultados nominal e primário.
+
+
+Parágrafo único.
+
+A renúncia de receita decorrente de incentivos fiscais em todas as regiões da cidade de Fortaleza será considerada na estimativa de receita da lei orçamentária.
+
+
+#### CAPÍTULO VII — AS DISPOSIÇÕES GERAIS
+
+
+Art. 35.
+
+A elaboração do projeto de lei orçamentária para o exercício financeiro de 2020, com fundamento no inciso III, do art. 165, da Constituição Federal, e no inciso V, do art. 6º, da Lei Orgânica do Município, será realizada com participação da sociedade, segundo os princípios da democracia direta, da justiça social e da transparência.
+
+
+Parágrafo único.
+
+São instrumentos de transparência da gestão fiscal, aos quais será dada ampla divulgação, inclusive em meios eletrônicos de acesso público:
+
+
+I –
+
+Os planos, orçamentos e leis de diretrizes orçamentárias;
+
+
+II –
+
+As prestações de contas e respectivo parecer prévio;
+
+
+III –
+
+O relatório resumido da execução orçamentária;
+
+
+IV –
+
+O relatório de gestão fiscal;
+
+
+V –
+
+As versões simplificadas dos instrumentos previstos nos incisos anteriores.
+
+
+Art. 36.
+
+Caso seja necessária a limitação de empenho das dotações orçamentárias e da movimentação financeira para atingir as metas fiscais previstas no art. 14 desta Lei, estas serão feitas de forma proporcional ao montante dos recursos alocados para o atendimento de “outras despesas correntes”, “investimentos” e “inversões financeiras”.
+
+
+Parágrafo único.
+
+O Chefe do Poder Executivo publicará ato estabelecendo os montantes que cada órgão, entidade ou fundo, terá como limite de movimentação e empenho.
+
+
+Art. 37.
+
+Todas as receitas realizadas pelos órgãos, fundos e entidades integrantes dos orçamentos fiscal e da seguridade social, inclusive as diretamente arrecadadas, serão devidamente classificadas e contabilizadas no sistema de Gestão de Recursos e Planejamento de Fortaleza – Financeiro e Contábil (GRPFOR – FC), no mês em que ocorrer o respectivo ingresso.
+
+
+Art. 38.
+
+São vedados quaisquer procedimentos pelos ordenadores de despesa que viabilizem a execução de despesa, sem comprovada e suficiente disponibilidade de dotação orçamentária.
+
+
+Art. 39.
+
+Se o projeto de lei orçamentária para o exercício de 2020 não for sancionado pelo Prefeito de Fortaleza até 31 de dezembro de 2019, a programação dele constante poderá ser executada para o atendimento das seguintes despesas:
+
+
+I –
+
+Pessoal e encargos sociais;
+
+
+II –
+
+Pagamento de benefício previdenciário a cargo do Instituto de Previdência do Município (IPM);
+
+
+III –
+
+Pagamento de amortização e encargo da dívida;
+
+
+IV –
+
+Pagamento de despesas obrigatórias.
+
+
+Art. 40.
+
+A Lei Orçamentária Anual poderá conter dotações relativas a projetos a serem desenvolvidos por meio de consórcios públicos, regulados pela Lei Federal nº 11.107, de 06 de abril de 2005.
+
+
+Art. 41.
+
+A Lei Orçamentária Anual poderá conter dotações relativas a projetos a serem desenvolvidos por meio de parcerias público-privadas, reguladas pelas Leis Federais nº 11.079, de 30 de dezembro de 2004, 12.766, de 27 de dezembro de 2012, e pela Lei Municipal nº 9.783, de 13 de junho de 2011.
+
+
+Art. 42.
+
+O Chefe do Poder Executivo publicará, no prazo de até 30 (trinta) dias após a publicação da Lei Orçamentária, os quadros de Detalhamento da Despesa, por unidade orçamentária dos orçamentos fiscal e da seguridade social, especificando, para cada categoria de programação, a natureza da despesa e a fonte de recursos.
+
+
+Art. 43.
+
+Durante a execução orçamentária, o Chefe do Poder Executivo poderá alterar o Detalhamento da Despesa das unidades orçamentárias de que trata o art. 42, por meio de Decreto, observando ainda o disposto no art. 18 desta Lei.
+
+
+Art. 44.
+
+O Poder Executivo publicará e disponibilizará a Lei Orçamentária Anual – LOA, tornando-a acessível ao cidadão em geral, autorizando sua reprodução.
+
+
+Parágrafo único.
+
+A divulgação a que se refere o caput será feita também pela Internet, no prazo máximo de 60 (sessenta) dias após a publicação da referida Lei.
+
+
+Art. 45.
+
+Não poderão ser apresentadas ao PLOA emendas com recursos insuficientes para a conclusão de uma etapa da obra ou para o cumprimento de parcela do contrato de entrega do bem ou do serviço.
+
+
+Art. 46.
+
+A inclusão, a exclusão ou a alteração de programa, indicador, unidade de medida e principais ações serão propostas pelo Poder Executivo, por meio de Projeto de Lei específico, da Lei de Diretrizes Orçamentárias e da Lei Orçamentária Anual, conforme art. 7º da Lei Municipal nº 10.645, de 2017.
+
+
+Art. 47.
+
+Na elaboração da Lei Orçamentária Anual relativa ao exercício de 2020, deverão ser observadas as alterações promovidas na legislação federal aplicável, em especial na Lei Federal nº. 4.320, de 17 de março de 1964, e na Lei Complementar Federal nº 101, de 04 de maio de 2000.
+
+
+Art. 48.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 09 de julho de 2019.  
+  
+  
+Roberto Cláudio Rodrigues Bezerra  
+PREFEITO MUNICIPAL DE FORTALEZA.

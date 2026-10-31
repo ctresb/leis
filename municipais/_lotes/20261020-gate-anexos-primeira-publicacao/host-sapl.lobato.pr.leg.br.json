@@ -1,0 +1,15 @@
+{
+  "host": "sapl.lobato.pr.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.lobato.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.lobato.pr.leg.br/eb0056143be25b929edeafde61c21cac8687c90e21cd2f5e4e68fb6fed957c11.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.lobato.pr.leg.br/eb0056143be25b929edeafde61c21cac8687c90e21cd2f5e4e68fb6fed957c11.meta.json"
+    }
+  ],
+  "total": 0
+}

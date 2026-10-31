@@ -1,0 +1,33 @@
+---
+titulo: "Decreto Legislativo nº 8, de 21 de outubro de 1997"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "8"
+data: "1997-10-21"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/2907"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1997/2907/decreto_08-1997.pdf"
+sha256_fonte: "1b3c116d7caa756a58417113b5e3210ec12b594b6568b810626eb299ba7f2628"
+sha256_texto: "5f7642a95e0098f0915ef9e207d6b98f26411085ebc1e0b2e7e1ecc8ebb16553"
+baixado_em: "2026-10-21"
+---
+
+# Decreto Legislativo nº 8, de 21 de outubro de 1997
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Câmara de Vereadores de Ivaiporã ESTADO DO PARANA GABINETE DA PRESIDÊNCIA
+
+DECRETO LEGISLATIVO N° 08/97 EMENTA: CONCEDE TÍTULO DE CIDADÃO BENEMERITO DE IVAI PORA, ESTADO DO PARANA, AO SENHOR LADISLAU GIL FERNANDES,
+
+O PRESIDENTE DA CAMARA DE VEREADORES DE IVAIPORA, ESTADO DO PARANA, NO USO DE SUAS ATRIBUIÇÕES E EM CONFORMIDADE COM A LEI N° 02/91, DESTE PODER DECRETA
+
+ART. 1° - PELOS RELEVANTES SERVIÇOS PRESTADOS À COMUNIDADE IVAIPORÃENSE, É OUTORGADO AO CIDADAO LADISLAU GIL FERNANDES, O TITULO DE CIDADÃO BENEMÉRITO DE IVAIPORA. ESTADO DO PARANA.
+
+ART. 2° - REVOGAM-SE AS DISPOSIÇÕES EM CONTRARIO,
+
+ART. 3º - O PRESENTE DECRETO ENTRA EM VIGOR NA DATA DE SUA PUBLICAÇAO. GABINETE DA PRESIDENCIA DA CAMARA MUNICIPAL DE IVAIPORA, ESTADO DO PARA - NÁ, AOS VINTE E UM DIAS DO MES DE OUTUBRO DO ANO DE MIL NOVECENTOS E NOVENTA E SE TE• ROBERTO BALBINO DA SILVA PRESIDENTE ar LEONIL GARCIA 2° SECRETARIO
+

@@ -1,0 +1,3287 @@
+{
+  "host": "sapl.montemor.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/anexo_v.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/1/anexo_v.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/anexo_v_.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/2/anexo_v_.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/3/anexo_v__.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/3/anexo_v__.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/4/anexo_v___.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/4/anexo_v___.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/5/anexo_v____.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/5/anexo_v____.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/anexo_v_____.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/6/anexo_v_____.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/7/anexo_vi_a.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/7/anexo_vi_a.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/8/anexo_vi_a_.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/8/anexo_vi_a_.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/9/anexo_vi_a__.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/9/anexo_vi_a__.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/10/anexo_vi.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/10/anexo_vi.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/anexo_vi_.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/12/anexo_vi_.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/13/anexo_vi__.pdf da norma Lei Ordinária nº 2.441, de 06 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2017/13/anexo_vi__.pdf",
+      "ano": 2017,
+      "norma": 2006
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/14/anexo_1_-_demonstrativo.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/14/anexo_1_-_demonstrativo.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/15/anexo_2_-_natureza_despesa.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/15/anexo_2_-_natureza_despesa.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/16/anexo_2_-_orcamento_receita_2.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/16/anexo_2_-_orcamento_receita_2.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/17/anexo_2_-_orcamento_receita.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/17/anexo_2_-_orcamento_receita.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/18/anexo_6_-_consolidado.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/18/anexo_6_-_consolidado.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/19/anexo_6_-_programa_trabalho.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/19/anexo_6_-_programa_trabalho.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/20/anexo_7_-_demonstrativo_funcoes_1.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/20/anexo_7_-_demonstrativo_funcoes_1.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/21/anexo_8_-_demonstrativo_funcoes_2.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/21/anexo_8_-_demonstrativo_funcoes_2.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/22/quadro_detalhamento.pdf da norma Lei Ordinária nº 2.655, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2018/22/quadro_detalhamento.pdf",
+      "ano": 2018,
+      "norma": 2011
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/23/lei_2370_de_06_dezembro_de_2016_anexos_1_e_2_orca_B5DNdhg.pdf da norma Lei Ordinária nº 2.370, de 06 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2016/23/lei_2370_de_06_dezembro_de_2016_anexos_1_e_2_orca_B5DNdhg.pdf",
+      "ano": 2016,
+      "norma": 2185
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/24/lei_2370_de_06_dezembro_de_2016_anexos_3_a_6_orca_BAQUTN1.pdf da norma Lei Ordinária nº 2.370, de 06 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2016/24/lei_2370_de_06_dezembro_de_2016_anexos_3_a_6_orca_BAQUTN1.pdf",
+      "ano": 2016,
+      "norma": 2185
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/25/lei_2370_de_06_dezembro_de_2016_demais_anexos_orc_dhLXRnh.pdf da norma Lei Ordinária nº 2.370, de 06 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2016/25/lei_2370_de_06_dezembro_de_2016_demais_anexos_orc_dhLXRnh.pdf",
+      "ano": 2016,
+      "norma": 2185
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/29/lsviario.pdf da norma Lei Complementar nº 1, de 07 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2006/29/lsviario.pdf",
+      "ano": 2006,
+      "norma": 1883
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/30/luos1.01.pdf da norma Lei Complementar nº 1, de 07 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2006/30/luos1.01.pdf",
+      "ano": 2006,
+      "norma": 1883
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/31/luos1.02.pdf da norma Lei Complementar nº 1, de 07 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2006/31/luos1.02.pdf",
+      "ano": 2006,
+      "norma": 1883
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/32/luos1.03.pdf da norma Lei Complementar nº 1, de 07 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2006/32/luos1.03.pdf",
+      "ano": 2006,
+      "norma": 1883
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/33/p1.d.02.pdf da norma Lei Complementar nº 1, de 07 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2006/33/p1.d.02.pdf",
+      "ano": 2006,
+      "norma": 1883
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/34/pd_01.pdf da norma Lei Complementar nº 1, de 07 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2006/34/pd_01.pdf",
+      "ano": 2006,
+      "norma": 1883
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/35/pd_03.pdf da norma Lei Complementar nº 1, de 07 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2006/35/pd_03.pdf",
+      "ano": 2006,
+      "norma": 1883
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/48/lc_06-2007-_adin.pdf da norma Lei Complementar nº 6, de 09 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Declaração de inconstitucionalidade.",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2007/48/lc_06-2007-_adin.pdf",
+      "ano": 2007,
+      "norma": 2347
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/58/anexo_ii_-_caracteristicas_das_zonas_de_uso_-_tabela.pdf da norma Lei Complementar nº 43, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/58/anexo_ii_-_caracteristicas_das_zonas_de_uso_-_tabela.pdf",
+      "ano": 2015,
+      "norma": 2389
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/59/anexo_iii_-_observacoes_referente_as_caracteristi_RRH7kpM.pdf da norma Lei Complementar nº 43, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/59/anexo_iii_-_observacoes_referente_as_caracteristi_RRH7kpM.pdf",
+      "ano": 2015,
+      "norma": 2389
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/60/anexo_i_-_caracteristicas_das_zonas_de_uso_-_tabela.pdf da norma Lei Complementar nº 44, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/60/anexo_i_-_caracteristicas_das_zonas_de_uso_-_tabela.pdf",
+      "ano": 2015,
+      "norma": 2390
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/61/anexo.pdf da norma Lei Complementar nº 45, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/61/anexo.pdf",
+      "ano": 2015,
+      "norma": 2391
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/62/legislativo_007147.pdf da norma Emenda à Lei Orgânica nº 1, de 30 de março de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Liminar suspendendo eficácia da Emenda à Lei Orgânica.",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2016/62/legislativo_007147.pdf",
+      "ano": 2016,
+      "norma": 2753
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/63/inconstitucionalidade__unico_artigo_12_lei_1857_t_eDsdntX.pdf da norma Lei Ordinária nº 1.857, de 18 de fevereiro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Inconstitucionalidade do parágrafo único do artigo 12 da Lei 1.857, de 18 de fevereiro de 2014.",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/63/inconstitucionalidade__unico_artigo_12_lei_1857_t_eDsdntX.pdf",
+      "ano": 2014,
+      "norma": 1505
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/64/anexo_i_-_receitas.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/64/anexo_i_-_receitas.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/65/anexo_receita.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/65/anexo_receita.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/66/anexo_v_1_ok.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/66/anexo_v_1_ok.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/67/anexo_v_2_ok.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/67/anexo_v_2_ok.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/68/anexo_vi_1_ok.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/68/anexo_vi_1_ok.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/69/anexo_vi_a_-_ok.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/69/anexo_vi_a_-_ok.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/70/anexo_viii_riscos_fiscais.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/70/anexo_viii_riscos_fiscais.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/71/compatibilidade_de_programas_e_metas_-_ldo_2020.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/71/compatibilidade_de_programas_e_metas_-_ldo_2020.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/72/demonstrativo_1.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/72/demonstrativo_1.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/73/demonstrativo_2.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/73/demonstrativo_2.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/74/demonstrativo_3.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/74/demonstrativo_3.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/75/demonstrativo_4.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/75/demonstrativo_4.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/76/demonstrativo_5.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/76/demonstrativo_5.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/77/demonstrativo_6.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/77/demonstrativo_6.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/78/demonstrativo_7.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/78/demonstrativo_7.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/79/demonstrativo_8.pdf da norma Lei Ordinária nº 2.710, de 17 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2019/79/demonstrativo_8.pdf",
+      "ano": 2019,
+      "norma": 2828
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/80/anexo_1_-_pd.01.pdf da norma Lei Complementar nº 42, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/80/anexo_1_-_pd.01.pdf",
+      "ano": 2015,
+      "norma": 1885
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/81/anexo_2_-_pd.02.pdf da norma Lei Complementar nº 42, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/81/anexo_2_-_pd.02.pdf",
+      "ano": 2015,
+      "norma": 1885
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/82/anexo_3.a_-_relatorio_fotografico_atualizado_2015.pdf da norma Lei Complementar nº 42, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/82/anexo_3.a_-_relatorio_fotografico_atualizado_2015.pdf",
+      "ano": 2015,
+      "norma": 1885
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/83/anexo_3.b_-localizacao_fotos_planta.pdf da norma Lei Complementar nº 42, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/83/anexo_3.b_-localizacao_fotos_planta.pdf",
+      "ano": 2015,
+      "norma": 1885
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/84/anexo_3.c_-_divisa_do_municipio_planta.pdf da norma Lei Complementar nº 42, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/84/anexo_3.c_-_divisa_do_municipio_planta.pdf",
+      "ano": 2015,
+      "norma": 1885
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/85/anexo_pl_1916.pdf da norma Lei Ordinária nº 1.916, de 27 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/85/anexo_pl_1916.pdf",
+      "ano": 2014,
+      "norma": 1587
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/86/lei_1981_de_2014_anexos.pdf da norma Lei Ordinária nº 1.981, de 23 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "matrículas do imóvel que consta no artigo 1º da Lei 1981",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/86/lei_1981_de_2014_anexos.pdf",
+      "ano": 2014,
+      "norma": 1652
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/87/ldo_2015___anexo_v_programa_governamentais_metas_custos.pdf da norma Lei Ordinária nº 1.925, de 17 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/87/ldo_2015___anexo_v_programa_governamentais_metas_custos.pdf",
+      "ano": 2014,
+      "norma": 1596
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/88/ldo_2015___anexo_vi_unidades_executoras_e_acoes.pdf da norma Lei Ordinária nº 1.925, de 17 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/88/ldo_2015___anexo_vi_unidades_executoras_e_acoes.pdf",
+      "ano": 2014,
+      "norma": 1596
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/89/ldo_2015___anexo_vii_programa_programa_de_governo.pdf da norma Lei Ordinária nº 1.925, de 17 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/89/ldo_2015___anexo_vii_programa_programa_de_governo.pdf",
+      "ano": 2014,
+      "norma": 1596
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/90/ldo_2015_funcoes_e_subfuncoes.pdf da norma Lei Ordinária nº 1.925, de 17 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/90/ldo_2015_funcoes_e_subfuncoes.pdf",
+      "ano": 2014,
+      "norma": 1596
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/91/ldo_2015_projetosatividades_e_operacoes_especiais.pdf da norma Lei Ordinária nº 1.925, de 17 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/91/ldo_2015_projetosatividades_e_operacoes_especiais.pdf",
+      "ano": 2014,
+      "norma": 1596
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/92/ldo_2015_resumo_da_ldo.pdf da norma Lei Ordinária nº 1.925, de 17 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/92/ldo_2015_resumo_da_ldo.pdf",
+      "ano": 2014,
+      "norma": 1596
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/93/anexo_1_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/93/anexo_1_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/94/anexo_1_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/94/anexo_1_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/95/anexo_1_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/95/anexo_1_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/96/anexo_2_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/96/anexo_2_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/97/anexo_2_camara_nat._despesa_orgao_e_unid._2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/97/anexo_2_camara_nat._despesa_orgao_e_unid._2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/98/anexo_2_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/98/anexo_2_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/99/anexo_2_executivo_nat._despesa_orgao_e_unid._2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/99/anexo_2_executivo_nat._despesa_orgao_e_unid._2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/100/anexo_2_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/100/anexo_2_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/101/anexo_2_ipremor_nat._despesa_orgao_e_unidade_-_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/101/anexo_2_ipremor_nat._despesa_orgao_e_unidade_-_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/102/anexo_6_camara_2015_consolidado.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/102/anexo_6_camara_2015_consolidado.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/103/anexo_6_executivo_2015_consolidado.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/103/anexo_6_executivo_2015_consolidado.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/104/anexo_6_ipremor_2015_consolidado.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/104/anexo_6_ipremor_2015_consolidado.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/105/anexo_7_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/105/anexo_7_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/106/anexo_7_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/106/anexo_7_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/107/anexo_7_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/107/anexo_7_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/108/anexo_8_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/108/anexo_8_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/109/anexo_8_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/109/anexo_8_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/110/anexo_8_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/110/anexo_8_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/111/anexo_9_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/111/anexo_9_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/112/anexo_9_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/112/anexo_9_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/113/anexo_9_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/113/anexo_9_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/114/anexo_despesas_gerais.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/114/anexo_despesas_gerais.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/115/anexo_despesas_por_categoria_economica_geral.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/115/anexo_despesas_por_categoria_economica_geral.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/116/anexo_despesas_por_funcao_geral.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/116/anexo_despesas_por_funcao_geral.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/117/anexo_despesas_por_orgao_geral.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/117/anexo_despesas_por_orgao_geral.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/118/aplicacao_programas_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/118/aplicacao_programas_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/119/aplicacao_programas_executivo_2015..pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/119/aplicacao_programas_executivo_2015..pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/120/aplicacao_programas_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/120/aplicacao_programas_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/121/consolidado_funcao_subfuncao_e_programa_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/121/consolidado_funcao_subfuncao_e_programa_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/122/consolidado_funcao_subfuncao_e_programa_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/122/consolidado_funcao_subfuncao_e_programa_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/123/consolidado_funcao_subfuncao_e_programa_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/123/consolidado_funcao_subfuncao_e_programa_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/124/consolidado_funcao_subfuncao_e_programa_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/124/consolidado_funcao_subfuncao_e_programa_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/125/demonstrativo_despesas_categoria_economica_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/125/demonstrativo_despesas_categoria_economica_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/126/demonstrativo_despesas_categoria_economica_execu_B3TyQkV.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/126/demonstrativo_despesas_categoria_economica_execu_B3TyQkV.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/127/demonstrativo_despesas_categoria_economica_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/127/demonstrativo_despesas_categoria_economica_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/128/demonstrativo_despesas_e_orgaos_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/128/demonstrativo_despesas_e_orgaos_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/129/demonstrativo_despesas_e_orgaos_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/129/demonstrativo_despesas_e_orgaos_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/130/demonstrativo_despesas_e_orgaos_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/130/demonstrativo_despesas_e_orgaos_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/131/demonstrativo_despesas_funcao_e_acao_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/131/demonstrativo_despesas_funcao_e_acao_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/132/demonstrativo_despesas_funcao_e_acao_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/132/demonstrativo_despesas_funcao_e_acao_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/133/demonstrativo_despesas_e_orgaos_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/133/demonstrativo_despesas_e_orgaos_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/134/demonstrativo_despesas_funcao_e_acao_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/134/demonstrativo_despesas_funcao_e_acao_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/135/demonstrativo_despesas_funcao_e_acao_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/135/demonstrativo_despesas_funcao_e_acao_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/136/demonstrativo_despesas_funcao_e_acao_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/136/demonstrativo_despesas_funcao_e_acao_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/137/demonstrativo_programas_e_acoes_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/137/demonstrativo_programas_e_acoes_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/138/demonstrativo_programas_e_acoes_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/138/demonstrativo_programas_e_acoes_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/139/demonstrativo_programas_e_acoes_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/139/demonstrativo_programas_e_acoes_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/140/demonstrativo_resumido_orcamento_seguridade_exec_IQpYwDb.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/140/demonstrativo_resumido_orcamento_seguridade_exec_IQpYwDb.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/141/demonstrativo_resumido_orcamento_seguridade_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/141/demonstrativo_resumido_orcamento_seguridade_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/142/despesas_orgaos_natureza_despesas_programas_e_ac_wnuCaHe.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/142/despesas_orgaos_natureza_despesas_programas_e_ac_wnuCaHe.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/143/despesas_orgaos_natureza_despesas_programas_e_ac_UEudHZ6.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/143/despesas_orgaos_natureza_despesas_programas_e_ac_UEudHZ6.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/144/despesas_orgaos_natureza_despesas_programas_e_ac_Py8J5ow.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/144/despesas_orgaos_natureza_despesas_programas_e_ac_Py8J5ow.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/145/ldo_2015___anexo_vii_programa_programa_de_governo.txt da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/145/ldo_2015___anexo_vii_programa_programa_de_governo.txt",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/146/qdd_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/146/qdd_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/147/qdd_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/147/qdd_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/148/qdd_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/148/qdd_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/149/receitas__anexo_2_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/149/receitas__anexo_2_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/150/receitas__anexo_2_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/150/receitas__anexo_2_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/151/receitas__correntes_e_capital_em__geral_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/151/receitas__correntes_e_capital_em__geral_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/152/receitas__demonstrativo_receita_por_fonte_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/152/receitas__demonstrativo_receita_por_fonte_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/153/receitas_demonstracao_15_saude_geral_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/153/receitas_demonstracao_15_saude_geral_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/154/receitas_demonstracao_25_educacao_geral_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/154/receitas_demonstracao_25_educacao_geral_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/155/receitas_demonstrativo_fiscal_e_seguridade_socia_xIVCS4p.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/155/receitas_demonstrativo_fiscal_e_seguridade_socia_xIVCS4p.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/156/receitas_demonstrativo_fiscal_e_seguridade_socia_bKk31DN.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/156/receitas_demonstrativo_fiscal_e_seguridade_socia_bKk31DN.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/157/receitas_demonstrativo_receita_por_fonte_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/157/receitas_demonstrativo_receita_por_fonte_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/158/receitas_demonstrativo_receita_por_fonte_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/158/receitas_demonstrativo_receita_por_fonte_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/159/receitas_resumo_fonte_recurso_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/159/receitas_resumo_fonte_recurso_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/160/receitas_resumo_fonte_recurso_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/160/receitas_resumo_fonte_recurso_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/161/resumo_fontes_recurso_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/161/resumo_fontes_recurso_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/162/resumo_fontes_recurso_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/162/resumo_fontes_recurso_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/163/resumo_fontes_recurso_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/163/resumo_fontes_recurso_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/164/sumario_geral_receita_despesas_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/164/sumario_geral_receita_despesas_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/165/sumario_geral_receita_despesas_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/165/sumario_geral_receita_despesas_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/166/sumario_geral_receita_despesas_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/166/sumario_geral_receita_despesas_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/167/tabela_evolutiva_receita_e_despesas_camara_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/167/tabela_evolutiva_receita_e_despesas_camara_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/168/tabela_evolutiva_receita_e_despesas_executivo_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/168/tabela_evolutiva_receita_e_despesas_executivo_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/169/tabela_evolutiva_receita_e_despesas_ipremor_2015.pdf da norma Lei Ordinária nº 2.019, de 25 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2014/169/tabela_evolutiva_receita_e_despesas_ipremor_2015.pdf",
+      "ano": 2014,
+      "norma": 1688
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/170/anexos_ldo_-_exercicio_2022.pdf da norma Lei Ordinária nº 2.836, de 06 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/170/anexos_ldo_-_exercicio_2022.pdf",
+      "ano": 2021,
+      "norma": 3067
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/171/anexo_iii-_referente_as_caracteristicas_de_uso_e_ocupacao_do_solo_anexoii.pdf da norma Lei Complementar nº 44, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/171/anexo_iii-_referente_as_caracteristicas_de_uso_e_ocupacao_do_solo_anexoii.pdf",
+      "ano": 2015,
+      "norma": 2390
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/172/anexo_i_-luos.01.pdf da norma Lei Complementar nº 43, de 21 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/172/anexo_i_-luos.01.pdf",
+      "ano": 2015,
+      "norma": 2389
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/173/anexo_i_e_ii_da_lei_1596_de_2012.pdf da norma Lei Ordinária nº 1.596, de 10 de janeiro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - descreve as funções do cargo de agentes de serviços - Cuidador de Crianças criado na alínea j do art. 1º da referida Lei\r\nAnexo II - descreve que a lotação dos cargos ficará na Secretaria de Educação",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2012/173/anexo_i_e_ii_da_lei_1596_de_2012.pdf",
+      "ano": 2012,
+      "norma": 1049
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/174/lc22-2011_-_anexo_i_-_relatorio_parcial_i.pdf da norma Lei Complementar nº 22, de 13 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Relatório Parcial I",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2011/174/lc22-2011_-_anexo_i_-_relatorio_parcial_i.pdf",
+      "ano": 2011,
+      "norma": 2362
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/175/lc_22-2011_-_anexo_ii_-_relatorio_parcial_ii.pdf da norma Lei Complementar nº 22, de 13 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Relatório Parcial II",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2011/175/lc_22-2011_-_anexo_ii_-_relatorio_parcial_ii.pdf",
+      "ano": 2011,
+      "norma": 2362
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/176/lc_22-2011_-_anexo_iii_-_relatorio_parcial_iii.pdf da norma Lei Complementar nº 22, de 13 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Relatório Parcial III",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2011/176/lc_22-2011_-_anexo_iii_-_relatorio_parcial_iii.pdf",
+      "ano": 2011,
+      "norma": 2362
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/177/lc_22-2011_-_anexo_iv_-_relatorio_parcial_iv.pdf da norma Lei Complementar nº 22, de 13 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Relatório Parcial IV",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2011/177/lc_22-2011_-_anexo_iv_-_relatorio_parcial_iv.pdf",
+      "ano": 2011,
+      "norma": 2362
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/178/lc_22-2011_-_anexo_-_plantas.pdf da norma Lei Complementar nº 22, de 13 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Plantas",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2011/178/lc_22-2011_-_anexo_-_plantas.pdf",
+      "ano": 2011,
+      "norma": 2362
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/179/decisao_cautelar_adin_plc_70_de_2022_que_concede_isencao_iptu_minha_casa_minha_vida.pdf da norma Lei Complementar nº 70, de 07 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "ADIN Nº 2306991-16.2022.8.26.0000 SUSPENDE EFEITOS NA LEI COMPLEMENTAR Nº 70 DE 2022 QUE DISPÕE SOBRE A ISENÇÃO DE IPTU AS UNIDADES DO PROGRAMA MINHA CASA MINHA VIDA",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/179/decisao_cautelar_adin_plc_70_de_2022_que_concede_isencao_iptu_minha_casa_minha_vida.pdf",
+      "ano": 2022,
+      "norma": 3174
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/180/anexo_stnldo2023.pdf da norma Lei Ordinária nº 3.094, de 18 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Monte Mor",
+                [
+                  "2023-07-19T10:28:13-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/180/anexo_stnldo2023.pdf",
+      "ano": 2023,
+      "norma": 3443
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/181/anexo_vevi-cmmm.pdf da norma Lei Ordinária nº 3.094, de 18 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Monte Mor",
+                [
+                  "2023-07-19T10:28:24-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/181/anexo_vevi-cmmm.pdf",
+      "ano": 2023,
+      "norma": 3443
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/182/anexos_loa_2023.pdf da norma Lei Ordinária nº 3.023, de 19 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/182/anexos_loa_2023.pdf",
+      "ano": 2022,
+      "norma": 3307
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/183/receita_total_estimada.pdf da norma Lei Ordinária nº 2.758, de 14 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/183/receita_total_estimada.pdf",
+      "ano": 2020,
+      "norma": 2953
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/184/fontes_de_financiamento_dos_programas_governamentais.pdf da norma Lei Ordinária nº 2.758, de 14 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/184/fontes_de_financiamento_dos_programas_governamentais.pdf",
+      "ano": 2020,
+      "norma": 2953
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/185/demonstrativos_1_a_8_e_anexo_de_riscos_fiscais.pdf da norma Lei Ordinária nº 2.758, de 14 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/185/demonstrativos_1_a_8_e_anexo_de_riscos_fiscais.pdf",
+      "ano": 2020,
+      "norma": 2953
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/186/anexo_vi_a_-_demonstrativo_de_programas_e_acoes_por_orgao_e_unidade_-_fisico_e_financeiro.pdf da norma Lei Ordinária nº 2.758, de 14 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/186/anexo_vi_a_-_demonstrativo_de_programas_e_acoes_por_orgao_e_unidade_-_fisico_e_financeiro.pdf",
+      "ano": 2020,
+      "norma": 2953
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/187/anexo_vi_-_unidades_executoras_e_acoes_voltadas_ao_desenvolvimento_do_programa.pdf da norma Lei Ordinária nº 2.758, de 14 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/187/anexo_vi_-_unidades_executoras_e_acoes_voltadas_ao_desenvolvimento_do_programa.pdf",
+      "ano": 2020,
+      "norma": 2953
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/188/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio-por_programa.pdf da norma Lei Ordinária nº 2.758, de 14 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/188/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio-por_programa.pdf",
+      "ano": 2020,
+      "norma": 2953
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/189/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio.pdf da norma Lei Ordinária nº 2.758, de 14 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/189/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio.pdf",
+      "ano": 2020,
+      "norma": 2953
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/190/anexo_1_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/190/anexo_1_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/191/anexo_2_-_receita_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/191/anexo_2_-_receita_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/192/anexo_2_a_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/192/anexo_2_a_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/193/anexo_2_b_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/193/anexo_2_b_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/194/anexo_2_c_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/194/anexo_2_c_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/195/anexo_6_a_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/195/anexo_6_a_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/196/anexo_6_b_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/196/anexo_6_b_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/197/anexo_7_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/197/anexo_7_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/198/anexo_8_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/198/anexo_8_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/199/anexo_9_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/199/anexo_9_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/200/anexo_v_-_ldo_atualizada_2021_1.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/200/anexo_v_-_ldo_atualizada_2021_1.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/201/anexo_v_-_ldo_atualizada_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/201/anexo_v_-_ldo_atualizada_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/202/anexo_v_a_-_ldo_atualizada_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/202/anexo_v_a_-_ldo_atualizada_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/203/anexo_vi_-_ldo_atualizada_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/203/anexo_vi_-_ldo_atualizada_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/204/anexo_vi_a_-_ldo_atualizada_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/204/anexo_vi_a_-_ldo_atualizada_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/205/anexos_1_ao_8_e_riscos_fiscais_-_ldo_atualizada_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/205/anexos_1_ao_8_e_riscos_fiscais_-_ldo_atualizada_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/206/fonte_de_financiamento_-_receita_-_ldo_atualizada_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/206/fonte_de_financiamento_-_receita_-_ldo_atualizada_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 207,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/207/qdd_-_loa_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/207",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/207/qdd_-_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/208/receita_total_estimada_-_ldo_atualizada_2021.pdf da norma Lei Ordinária nº 2.789, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2020/208/receita_total_estimada_-_ldo_atualizada_2021.pdf",
+      "ano": 2020,
+      "norma": 2993
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/209/anexo_1_demonstrativo_receita_e_despesas.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/209/anexo_1_demonstrativo_receita_e_despesas.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 210,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/210/anexo_2_natureza_da_despesa_por_orgao.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/210",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/210/anexo_2_natureza_da_despesa_por_orgao.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/211/anexo_6_programa_de_trabalho_por_orgao_e_unidade_.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/211/anexo_6_programa_de_trabalho_por_orgao_e_unidade_.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/212/anexo_7_demonstrativo_por_funcoes.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/212/anexo_7_demonstrativo_por_funcoes.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/213/anexo_8_demonstracao_de_funcoes.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/213/anexo_8_demonstracao_de_funcoes.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 214,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/214/anexo_v_descricao_dos_programas_plano_ldo_compl.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/214",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/214/anexo_v_descricao_dos_programas_plano_ldo_compl.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/215/anexo_vi_a_demonstrativo_de_programas_e_acoes_planejado_na_ldo.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/215/anexo_vi_a_demonstrativo_de_programas_e_acoes_planejado_na_ldo.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/216/demonstrativo_da_despesa_por_funcao.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/216/demonstrativo_da_despesa_por_funcao.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/217/sumario_geral_da_receita_por_fontes_e_das_despesas.pdf da norma Lei Ordinária nº 2.885, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/217/sumario_geral_da_receita_por_fontes_e_das_despesas.pdf",
+      "ano": 2021,
+      "norma": 3254
+    },
+    {
+      "id": 247,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/247/qdd_-_quadro_detalhado_da_despesa_geral_2024-o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/247",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/247/qdd_-_quadro_detalhado_da_despesa_geral_2024-o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 248,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/248/anexo_1_-_demonstracao_da_receita_e_despesa_segundo_as_categorias_economicas_-_geral.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/248",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/248/anexo_1_-_demonstracao_da_receita_e_despesa_segundo_as_categorias_economicas_-_geral.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 249,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/249/anexo_2_-_natureza_da_despesa_-_por_orgao_-_geral_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/249",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/249/anexo_2_-_natureza_da_despesa_-_por_orgao_-_geral_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 250,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/250/anexo_2_-_natureza_da_despesa_-_por_unidade_orcamentaria_-_geral_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/250",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/250/anexo_2_-_natureza_da_despesa_-_por_unidade_orcamentaria_-_geral_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 251,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/251/anexo_2_-_natureza_da_despesa_-_por_unidade_executora_-_geral_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/251",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/251/anexo_2_-_natureza_da_despesa_-_por_unidade_executora_-_geral_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 252,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/252/consolidacao_geral_por_natureza_da_despesa_-_geral_organized.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/252",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/252/consolidacao_geral_por_natureza_da_despesa_-_geral_organized.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 253,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/253/consolidacao_geral_por_natureza_da_despesa_-_percentual_-_geral_organized.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/253",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/253/consolidacao_geral_por_natureza_da_despesa_-_percentual_-_geral_organized.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 254,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/254/anexo_6_-_programa_de_trabalho_-_geral_organized.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/254",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/254/anexo_6_-_programa_de_trabalho_-_geral_organized.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 255,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/255/anexo_7_-_programa_de_trabalho_de_governo_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_e_atividades_-_geral_organized.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/255",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/255/anexo_7_-_programa_de_trabalho_de_governo_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_e_atividades_-_geral_organized.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 256,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/256/anexo_8_-_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_vinculo_com_recursos_-_geral_organized.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/256",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/256/anexo_8_-_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_vinculo_com_recursos_-_geral_organized.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 257,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/257/anexo_9_-_demonstrativo_da_despesa_por_orgaos_e_funcoes_-_geral_organized.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/257",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/257/anexo_9_-_demonstrativo_da_despesa_por_orgaos_e_funcoes_-_geral_organized.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 258,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/258/demonstrativo_de_funcoes_-_subfuncoes_e_programas_por_categoria_economica_-_geral_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/258",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/258/demonstrativo_de_funcoes_-_subfuncoes_e_programas_por_categoria_economica_-_geral_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 259,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/259/sumario_geral_da_receita_por_fontes_e_da_despesa_por_funcoes_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/259",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/259/sumario_geral_da_receita_por_fontes_e_da_despesa_por_funcoes_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 260,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/260/resumo_das_despesas_por_projetos_-_atividades_-_geral_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/260",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/260/resumo_das_despesas_por_projetos_-_atividades_-_geral_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 261,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/261/anexo_2_-_resumo_geral_da_receita_-_geral_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/261",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/261/anexo_2_-_resumo_geral_da_receita_-_geral_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 262,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/262/receita_por_fonte_de_recurso_-_geral_o.pdf da norma Lei Ordinária nº 3.164, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/262",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2023/262/receita_por_fonte_de_recurso_-_geral_o.pdf",
+      "ano": 2023,
+      "norma": 3513
+    },
+    {
+      "id": 263,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/263/receita_total_estimada.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/263",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/263/receita_total_estimada.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 264,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/264/amf-tabela_-_demonstrativo_para_projecao_das_metas_anuais-1-1.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/264",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/264/amf-tabela_-_demonstrativo_para_projecao_das_metas_anuais-1-1.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 265,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/265/amf-tabela_1_-_demonstrativo_i_-_metas_anuais.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/265",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/265/amf-tabela_1_-_demonstrativo_i_-_metas_anuais.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 266,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/266/amf-tabela_2_-_demonstrativo_2_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/266",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/266/amf-tabela_2_-_demonstrativo_2_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 267,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/267/amf-tabela_3_-_demonstrativo_3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/267",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/267/amf-tabela_3_-_demonstrativo_3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 268,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/268/amf-tabela_4_-_demonstrativo_4_-_evolucao_do_patrimonio_liquido.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/268",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/268/amf-tabela_4_-_demonstrativo_4_-_evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 269,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/269/amf-tabela_5_-_demonstrativo_5_-_origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/269",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/269/amf-tabela_5_-_demonstrativo_5_-_origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 270,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/270/amf-tabela_6_-_demonstrativo_6_-_avaliacao_da_situacao_financeira_e_atuarial_do_regime_proprio_de_previdencia_dos_servidores.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/270",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/270/amf-tabela_6_-_demonstrativo_6_-_avaliacao_da_situacao_financeira_e_atuarial_do_regime_proprio_de_previdencia_dos_servidores.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 271,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/271/amf-tabela_7_-_demonstrativo_7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/271",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/271/amf-tabela_7_-_demonstrativo_7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 272,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/272/amf-tabela_8_-_demonstrativo_8_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/272",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/272/amf-tabela_8_-_demonstrativo_8_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 273,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/273/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/273",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/273/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 274,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/274/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio_2.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/274",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/274/anexo_v_-_descricao_dos_programas_governamentais-metas-custos_para_o_exercicio_2.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 275,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/275/anexo_vi_a_-_demonstrativo_de_programas_e_acoes_por_orgao_e_unidade_-_fisico_e_financeiro.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/275",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/275/anexo_vi_a_-_demonstrativo_de_programas_e_acoes_por_orgao_e_unidade_-_fisico_e_financeiro.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 276,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/276/anexo_vi_a_-_demonstrativo_de_programas_e_acoes_por_orgao_e_unidade_-_fisico.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/276",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/276/anexo_vi_a_-_demonstrativo_de_programas_e_acoes_por_orgao_e_unidade_-_fisico.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 277,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/277/anexo_vi_-_unidades_executoras_e_acoes_voltadas_ao_desenvolvimento_do_programa_governamental.pdf da norma Lei Ordinária nº 2.960, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/277",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2022/277/anexo_vi_-_unidades_executoras_e_acoes_voltadas_ao_desenvolvimento_do_programa_governamental.pdf",
+      "ano": 2022,
+      "norma": 3223
+    },
+    {
+      "id": 278,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/278/resolucao_no_09-2024_-_mural.pdf da norma Resolução nº 9, de 25 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/278",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Mural da Câmara",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/278/resolucao_no_09-2024_-_mural.pdf",
+      "ano": 2024,
+      "norma": 3657
+    },
+    {
+      "id": 279,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/279/resolucao_no_10-2024_-_mural.pdf da norma Resolução nº 10, de 25 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/279",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Mural da Câmara Municipal.",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/279/resolucao_no_10-2024_-_mural.pdf",
+      "ano": 2024,
+      "norma": 3658
+    },
+    {
+      "id": 280,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/280/resolucao_11-2024_mural.pdf da norma Resolução nº 11, de 22 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/280",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/280/resolucao_11-2024_mural.pdf",
+      "ano": 2024,
+      "norma": 3667
+    },
+    {
+      "id": 281,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/281/2325770-48.2024.8.26.0000.pdf da norma Lei Ordinária nº 1.535, de 12 de maio de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/281",
+      "metadata": {},
+      "assunto_anexo": "Decisão de suspensão da eficácia através de Ação Direta de Inconstitucionalidade nº 2325770-48.2024.8.26.0000",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2011/281/2325770-48.2024.8.26.0000.pdf",
+      "ano": 2011,
+      "norma": 996
+    },
+    {
+      "id": 282,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/282/anexo_i_-_das_despesas.pdf da norma Lei Ordinária nº 3.297, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/282",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/282/anexo_i_-_das_despesas.pdf",
+      "ano": 2024,
+      "norma": 3676
+    },
+    {
+      "id": 283,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/283/anexo_ii_-_das_receitas.pdf da norma Lei Ordinária nº 3.297, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/283",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/283/anexo_ii_-_das_receitas.pdf",
+      "ano": 2024,
+      "norma": 3676
+    },
+    {
+      "id": 284,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/284/anexo_iii_-_anexos_atualizados_da_ldo_2025.pdf da norma Lei Ordinária nº 3.297, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/284",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/284/anexo_iii_-_anexos_atualizados_da_ldo_2025.pdf",
+      "ano": 2024,
+      "norma": 3676
+    },
+    {
+      "id": 285,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/285/iv_-_outros_anexos.pdf da norma Lei Ordinária nº 3.297, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/285",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/285/iv_-_outros_anexos.pdf",
+      "ano": 2024,
+      "norma": 3676
+    },
+    {
+      "id": 286,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/286/v_-_emendas_parlamentares_impositivas.pdf da norma Lei Ordinária nº 3.297, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/286",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/286/v_-_emendas_parlamentares_impositivas.pdf",
+      "ano": 2024,
+      "norma": 3676
+    },
+    {
+      "id": 287,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/287/lei_3303-2025_mural.pdf da norma Lei Ordinária nº 3.303, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/287",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/287/lei_3303-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3681
+    },
+    {
+      "id": 288,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/288/lei_3304-2025_mural.pdf da norma Lei Ordinária nº 3.304, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/288",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/288/lei_3304-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3682
+    },
+    {
+      "id": 289,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/289/lei_3305-2025_mural.pdf da norma Lei Ordinária nº 3.305, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/289",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/289/lei_3305-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3683
+    },
+    {
+      "id": 290,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/290/lei_3306-2025_mural.pdf da norma Lei Ordinária nº 3.306, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/290",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/290/lei_3306-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3684
+    },
+    {
+      "id": 291,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/291/lei_3307-2025_mural.pdf da norma Lei Ordinária nº 3.307, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/291",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/291/lei_3307-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3685
+    },
+    {
+      "id": 292,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/292/lei_3308-2025_mural.pdf da norma Lei Ordinária nº 3.308, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/292",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/292/lei_3308-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3686
+    },
+    {
+      "id": 293,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/293/lei_3309-2025_mural.pdf da norma Lei Ordinária nº 3.309, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/293",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/293/lei_3309-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3687
+    },
+    {
+      "id": 294,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/294/lei_3310-2025_mural.pdf da norma Lei Ordinária nº 3.310, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/294",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/294/lei_3310-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3688
+    },
+    {
+      "id": 295,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/295/lei_3311-2025_mural.pdf da norma Lei Ordinária nº 3.311, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/295",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/295/lei_3311-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3689
+    },
+    {
+      "id": 296,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/296/lei_3312-2025_mural.pdf da norma Lei Ordinária nº 3.312, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/296",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/296/lei_3312-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3690
+    },
+    {
+      "id": 297,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/297/lei_3313-2025_mural.pdf da norma Lei Ordinária nº 3.313, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/297",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/297/lei_3313-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3691
+    },
+    {
+      "id": 298,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/298/lei_3314-2025_mural.pdf da norma Lei Ordinária nº 3.314, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/298",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/298/lei_3314-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3692
+    },
+    {
+      "id": 299,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/299/acao_direta_de_inconstitucionalidade_no_2246983-05.2024.8.26.0000.pdf da norma Emenda à Lei Orgânica nº 1, de 01 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/299",
+      "metadata": {},
+      "assunto_anexo": "Declaração de Inconstitucionalidade do § 4º do art. 69-A da Lei Orgânica",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2021/299/acao_direta_de_inconstitucionalidade_no_2246983-05.2024.8.26.0000.pdf",
+      "ano": 2021,
+      "norma": 3038
+    },
+    {
+      "id": 300,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/300/resolucao_no_01-2025_-_mural.pdf da norma Resolução nº 1, de 11 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/300",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/300/resolucao_no_01-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 3693
+    },
+    {
+      "id": 301,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/301/resolucao_no_02-2025_-_mural.pdf da norma Resolução nº 2, de 11 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/301",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/301/resolucao_no_02-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 3694
+    },
+    {
+      "id": 302,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/302/resolucao_no_03-2025_-_mural.pdf da norma Resolução nº 3, de 11 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/302",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/302/resolucao_no_03-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 3695
+    },
+    {
+      "id": 303,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/303/edital_-_adin_assinado_1.pdf da norma Lei Orgânica nº 1, de 12 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/303",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Webert Donizete Carvalho",
+                [
+                  "2025-02-13T12:16:26-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "EDITAL DE DECLARAÇÃO DE INCONSTITUCIONALIDADE DO § 4º DO ART. 69-A DA LEI ORGÂNICA DO MUNICÍPIO DE MONTE MOR",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2012/303/edital_-_adin_assinado_1.pdf",
+      "ano": 2012,
+      "norma": 2323
+    },
+    {
+      "id": 304,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/304/edital_-_adin_assinado.pdf da norma Lei Ordinária nº 1.535, de 12 de maio de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/304",
+      "metadata": {},
+      "assunto_anexo": "SUSPENSÃO DOS EFEITOS DO § 6º DO ART. 14 DA LEI Nº 1535/2011 PELO PODER JUDICIÁRIO.",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2011/304/edital_-_adin_assinado.pdf",
+      "ano": 2011,
+      "norma": 996
+    },
+    {
+      "id": 305,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/305/lei_3316-2025_mural.pdf da norma Lei Ordinária nº 3.316, de 17 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/305",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/305/lei_3316-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3697
+    },
+    {
+      "id": 306,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/306/lei_3315-2025_mural.pdf da norma Lei Ordinária nº 3.315, de 17 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/306",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/306/lei_3315-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 3696
+    },
+    {
+      "id": 307,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/307/anexo_ref._a_lei_2162_anexopme_2015_-_2025.pdf da norma Lei Ordinária nº 2.162, de 16 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/307",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2015/307/anexo_ref._a_lei_2162_anexopme_2015_-_2025.pdf",
+      "ano": 2015,
+      "norma": 1827
+    },
+    {
+      "id": 308,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/308/resolucao_4-2025_diario_oficial.pdf da norma Resolução nº 4, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/308",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/308/resolucao_4-2025_diario_oficial.pdf",
+      "ano": 2025,
+      "norma": 4039
+    },
+    {
+      "id": 309,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/309/decreto_legislativo_1-2025.pdf da norma Decreto Legislativo nº 1, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/309",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/309/decreto_legislativo_1-2025.pdf",
+      "ano": 2025,
+      "norma": 4040
+    },
+    {
+      "id": 310,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/310/decreto_legislativo_2-2025.pdf da norma Decreto Legislativo nº 2, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/310",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/310/decreto_legislativo_2-2025.pdf",
+      "ano": 2025,
+      "norma": 4041
+    },
+    {
+      "id": 311,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/311/decreto_legislativo_3-2025.pdf da norma Decreto Legislativo nº 3, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/311",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/311/decreto_legislativo_3-2025.pdf",
+      "ano": 2025,
+      "norma": 4042
+    },
+    {
+      "id": 312,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/312/decreto_legislativo_4-2025.pdf da norma Decreto Legislativo nº 4, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/312",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/312/decreto_legislativo_4-2025.pdf",
+      "ano": 2025,
+      "norma": 4043
+    },
+    {
+      "id": 313,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/313/decreto_legislativo_5-2025.pdf da norma Decreto Legislativo nº 5, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/313",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/313/decreto_legislativo_5-2025.pdf",
+      "ano": 2025,
+      "norma": 4044
+    },
+    {
+      "id": 314,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/314/decreto_legislativo_6-2025.pdf da norma Decreto Legislativo nº 6, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/314",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/314/decreto_legislativo_6-2025.pdf",
+      "ano": 2025,
+      "norma": 4045
+    },
+    {
+      "id": 315,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/315/decreto_legislativo_7-2025.pdf da norma Decreto Legislativo nº 7, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/315",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/315/decreto_legislativo_7-2025.pdf",
+      "ano": 2025,
+      "norma": 4046
+    },
+    {
+      "id": 316,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/316/decreto_legislativo_8-2025.pdf da norma Decreto Legislativo nº 8, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/316",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/316/decreto_legislativo_8-2025.pdf",
+      "ano": 2025,
+      "norma": 4047
+    },
+    {
+      "id": 317,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/317/decreto_legislativo_9-2025.pdf da norma Decreto Legislativo nº 9, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/317",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário Oficial do Município",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/317/decreto_legislativo_9-2025.pdf",
+      "ano": 2025,
+      "norma": 4048
+    },
+    {
+      "id": 318,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/318/errata_publicacao_lei_3302-2025.pdf da norma Lei Ordinária nº 3.302, de 05 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/318",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/318/errata_publicacao_lei_3302-2025.pdf",
+      "ano": 2025,
+      "norma": 4053
+    },
+    {
+      "id": 319,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/319/resolucao_no_05-2025_mural.pdf da norma Resolução nº 5, de 01 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/319",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/319/resolucao_no_05-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4055
+    },
+    {
+      "id": 320,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/320/resolucao_06-2025_mural.pdf da norma Resolução nº 6, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/320",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/320/resolucao_06-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4056
+    },
+    {
+      "id": 321,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/321/resolucao_07-2025_mural.pdf da norma Resolução nº 7, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/321",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/321/resolucao_07-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4057
+    },
+    {
+      "id": 322,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/322/resolucao_08-2025_mural.pdf da norma Resolução nº 8, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/322",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/322/resolucao_08-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4058
+    },
+    {
+      "id": 323,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/323/resolucao_09-2025_mural.pdf da norma Resolução nº 9, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/323",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/323/resolucao_09-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4059
+    },
+    {
+      "id": 324,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/324/resolucao_10-2025_mural.pdf da norma Resolução nº 10, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/324",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/324/resolucao_10-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4060
+    },
+    {
+      "id": 325,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/325/resolucao_11-2025_mural.pdf da norma Resolução nº 11, de 09 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/325",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/325/resolucao_11-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4061
+    },
+    {
+      "id": 326,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/326/resolucao_12-2025_mural.pdf da norma Resolução nº 12, de 15 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/326",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/326/resolucao_12-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4062
+    },
+    {
+      "id": 327,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/327/resolucao_13-2025_mural.pdf da norma Resolução nº 13, de 15 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/327",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/327/resolucao_13-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4063
+    },
+    {
+      "id": 328,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/328/resolucao_no_14-2025_-_mural.pdf da norma Resolução nº 14, de 29 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/328",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/328/resolucao_no_14-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4065
+    },
+    {
+      "id": 329,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/329/decreto_legislatino_10-2025_mural.pdf da norma Decreto Legislativo nº 10, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/329",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/329/decreto_legislatino_10-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4081
+    },
+    {
+      "id": 330,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/330/resolucao_no_15-2025_-_mural.pdf da norma Resolução nº 15, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/330",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/330/resolucao_no_15-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4082
+    },
+    {
+      "id": 331,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/331/resolucao_no_16-2025_-_mural.pdf da norma Resolução nº 16, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/331",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/331/resolucao_no_16-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4083
+    },
+    {
+      "id": 332,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/332/resolucao_no_17-2025_-_mural.pdf da norma Resolução nº 17, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/332",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/332/resolucao_no_17-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4084
+    },
+    {
+      "id": 333,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/333/resolucao_no_18-2025_-_mural.pdf da norma Resolução nº 18, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/333",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/333/resolucao_no_18-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4085
+    },
+    {
+      "id": 334,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/334/decreto_legislativo_11-2025_mural.pdf da norma Decreto Legislativo nº 11, de 08 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/334",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/334/decreto_legislativo_11-2025_mural.pdf",
+      "ano": 2025,
+      "norma": 4086
+    },
+    {
+      "id": 335,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/335/anexos_lei_3348-2025.pdf da norma Lei Ordinária nº 3.348, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/335",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/335/anexos_lei_3348-2025.pdf",
+      "ano": 2025,
+      "norma": 4098
+    },
+    {
+      "id": 336,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/336/resolucao_no_19-2025_-_mural.pdf da norma Resolução nº 19, de 05 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/336",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/336/resolucao_no_19-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4106
+    },
+    {
+      "id": 337,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/337/decreto_legislativo_12-2025_-_mural.pdf da norma Decreto Legislativo nº 12, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/337",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/337/decreto_legislativo_12-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4107
+    },
+    {
+      "id": 338,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/338/resolucao_no_20-2025_-_mural.pdf da norma Resolução nº 20, de 09 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/338",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/338/resolucao_no_20-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4117
+    },
+    {
+      "id": 339,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/339/resolucao_no_21-2025_-_mural.pdf da norma Resolução nº 21, de 09 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/339",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/339/resolucao_no_21-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4118
+    },
+    {
+      "id": 340,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/340/resolucao_no_22-2025_-_mural.pdf da norma Resolução nº 22, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/340",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/340/resolucao_no_22-2025_-_mural.pdf",
+      "ano": 2025,
+      "norma": 4131
+    },
+    {
+      "id": 341,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/341/lei_3403_-_anexos_loa_2026.pdf da norma Lei Ordinária nº 3.403, de 18 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/341",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/341/lei_3403_-_anexos_loa_2026.pdf",
+      "ano": 2025,
+      "norma": 4160
+    },
+    {
+      "id": 342,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/342/lei_3403_-_anexos_emendas_impositivas_loa_2026.pdf da norma Lei Ordinária nº 3.403, de 18 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/342",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/342/lei_3403_-_anexos_emendas_impositivas_loa_2026.pdf",
+      "ano": 2025,
+      "norma": 4160
+    },
+    {
+      "id": 343,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/343/lei_3402_-_ppa_-_anexo.pdf da norma Lei Ordinária nº 3.402, de 18 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/343",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2025/343/lei_3402_-_ppa_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 4159
+    },
+    {
+      "id": 344,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/344/resolucao_no_01-2026_-_mural.pdf da norma Resolução nº 1, de 20 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/344",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/344/resolucao_no_01-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4170
+    },
+    {
+      "id": 345,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/345/lei_3.413-2026_-_mural.pdf da norma Lei Ordinária nº 3.413, de 25 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/345",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/345/lei_3.413-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4171
+    },
+    {
+      "id": 346,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/346/decreto_legislativo_no_01-2026_-_mural.pdf da norma Decreto Legislativo nº 1, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/346",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/346/decreto_legislativo_no_01-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4178
+    },
+    {
+      "id": 347,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/347/decreto_legislativo_no_02-2026_-_mural.pdf da norma Decreto Legislativo nº 2, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/347",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/347/decreto_legislativo_no_02-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4179
+    },
+    {
+      "id": 348,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/348/decreto_legislativo_no_03-2026_-_mural.pdf da norma Decreto Legislativo nº 3, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/348",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/348/decreto_legislativo_no_03-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4180
+    },
+    {
+      "id": 349,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/349/decreto_legislativo_no_04-2026_-_mural.pdf da norma Decreto Legislativo nº 4, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/349",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/349/decreto_legislativo_no_04-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4181
+    },
+    {
+      "id": 350,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/350/decreto_legislativo_no_05-2026_-_mural.pdf da norma Decreto Legislativo nº 5, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/350",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/350/decreto_legislativo_no_05-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4182
+    },
+    {
+      "id": 351,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/351/decreto_legislativo_no_06-2026_-_mural.pdf da norma Decreto Legislativo nº 6, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/351",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/351/decreto_legislativo_no_06-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4183
+    },
+    {
+      "id": 352,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/352/decreto_legislativo_no_07-2026_-_mural.pdf da norma Decreto Legislativo nº 7, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/352",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/352/decreto_legislativo_no_07-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4184
+    },
+    {
+      "id": 353,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/353/decreto_legislativo_no_08-2026_-_mural.pdf da norma Decreto Legislativo nº 8, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/353",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/353/decreto_legislativo_no_08-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4185
+    },
+    {
+      "id": 354,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/354/resolucao_no_02-2026_-_mural.pdf da norma Resolução nº 2, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/354",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/354/resolucao_no_02-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4186
+    },
+    {
+      "id": 355,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/355/resolucao_no_03-2026_-_mural.pdf da norma Resolução nº 3, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/355",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/355/resolucao_no_03-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4187
+    },
+    {
+      "id": 356,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/356/adi_no_2105687-24.2026.8.26.0000.pdf da norma Lei Complementar nº 81, de 15 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/356",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/356/adi_no_2105687-24.2026.8.26.0000.pdf",
+      "ano": 2024,
+      "norma": 3585
+    },
+    {
+      "id": 357,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/357/adi_no_2105687-24.2026.8.26.0000.pdf da norma Lei Complementar nº 82, de 28 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/357",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/357/adi_no_2105687-24.2026.8.26.0000.pdf",
+      "ano": 2024,
+      "norma": 3603
+    },
+    {
+      "id": 358,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/358/adi_no_2105687-24.2026.8.26.0000.pdf da norma Lei Complementar nº 83, de 17 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/358",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/358/adi_no_2105687-24.2026.8.26.0000.pdf",
+      "ano": 2024,
+      "norma": 3635
+    },
+    {
+      "id": 359,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/359/edital_-_adin_assinado.pdf da norma Lei Complementar nº 81, de 15 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/359",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Webert Donizete Carvalho",
+                [
+                  "2026-05-05T16:25:22-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/359/edital_-_adin_assinado.pdf",
+      "ano": 2024,
+      "norma": 3585
+    },
+    {
+      "id": 360,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/360/edital_-_adin_assinado.pdf da norma Lei Complementar nº 82, de 28 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/360",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Webert Donizete Carvalho",
+                [
+                  "2026-05-05T16:25:22-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/360/edital_-_adin_assinado.pdf",
+      "ano": 2024,
+      "norma": 3603
+    },
+    {
+      "id": 361,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/361/edital_-_adin_assinado.pdf da norma Lei Complementar nº 83, de 17 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/361",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Webert Donizete Carvalho",
+                [
+                  "2026-05-05T16:25:22-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/361/edital_-_adin_assinado.pdf",
+      "ano": 2024,
+      "norma": 3635
+    },
+    {
+      "id": 362,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/362/edital_-_diario_oficial_do_municipio.pdf da norma Lei Complementar nº 81, de 15 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/362",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/362/edital_-_diario_oficial_do_municipio.pdf",
+      "ano": 2024,
+      "norma": 3585
+    },
+    {
+      "id": 363,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/363/edital_-_diario_oficial_do_municipio.pdf da norma Lei Complementar nº 82, de 28 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/363",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/363/edital_-_diario_oficial_do_municipio.pdf",
+      "ano": 2024,
+      "norma": 3603
+    },
+    {
+      "id": 364,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/364/edital_-_diario_oficial_do_municipio.pdf da norma Lei Complementar nº 83, de 17 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/364",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2024/364/edital_-_diario_oficial_do_municipio.pdf",
+      "ano": 2024,
+      "norma": 3635
+    },
+    {
+      "id": 365,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/365/decreto_legislativo_no_09-2026_-_mural.pdf da norma Decreto Legislativo nº 9, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/365",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/365/decreto_legislativo_no_09-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4205
+    },
+    {
+      "id": 366,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/366/lei_3.436-2026_-_mural.pdf da norma Lei Ordinária nº 3.436, de 19 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/366",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/366/lei_3.436-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4208
+    },
+    {
+      "id": 367,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/367/emenda_a_lei_organica_no_01-2026_mural.pdf da norma Emenda à Lei Orgânica nº 1, de 14 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/367",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/367/emenda_a_lei_organica_no_01-2026_mural.pdf",
+      "ano": 2026,
+      "norma": 4209
+    },
+    {
+      "id": 368,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/368/lei_3443_-_anexos_ldo_2027_unificados_comp.pdf da norma Lei Ordinária nº 3.443, de 15 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/368",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/368/lei_3443_-_anexos_ldo_2027_unificados_comp.pdf",
+      "ano": 2026,
+      "norma": 4214
+    },
+    {
+      "id": 369,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/369/decreto_legislativo_no_10-2026_-_mural.pdf da norma Decreto Legislativo nº 10, de 06 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/369",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/369/decreto_legislativo_no_10-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4225
+    },
+    {
+      "id": 370,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/370/decreto_legislativo_no_11-2026_-_mural.pdf da norma Decreto Legislativo nº 11, de 14 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/370",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montemor.sp.leg.br/media/sapl/public/anexonormajuridica/2026/370/decreto_legislativo_no_11-2026_-_mural.pdf",
+      "ano": 2026,
+      "norma": 4230
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/63ef70a515df4e0d07c4d163ad0f4bfcbf3f80ef6d25a47ecae35e94f394575e.json",
+      "sha256": "d4c75d42006c4a9da141aea0a1ceb59a9c25484bb00ca3b9e5750d85a4a363b4",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/63ef70a515df4e0d07c4d163ad0f4bfcbf3f80ef6d25a47ecae35e94f394575e.meta.json"
+    },
+    {
+      "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/621077902c063c7986cff61058854f8c032e46744b6e22fed8c0c7ac10a6ee32.json",
+      "sha256": "9951382041678c68ac309205000acb20160bb6c7035b8857b2a3210f98a587e5",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/621077902c063c7986cff61058854f8c032e46744b6e22fed8c0c7ac10a6ee32.meta.json"
+    },
+    {
+      "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/6fa8457857a2499e86a8174fbadab55148baf44697c998a72ae6a2097e01d8d1.json",
+      "sha256": "f78035c4f3b6f9a19f110c119f359bf032ba76bdb4840e8ff658db4730e38179",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/6fa8457857a2499e86a8174fbadab55148baf44697c998a72ae6a2097e01d8d1.meta.json"
+    },
+    {
+      "url": "https://sapl.montemor.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/f98238ec9654af68790004ae07daafe490ad62e564a997f0d99c5b33e26a063e.json",
+      "sha256": "cbdcedae44f0faeda5833896861bc27a0634cf8f56ac0f4ae430b36d72e00637",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montemor.sp.leg.br/f98238ec9654af68790004ae07daafe490ad62e564a997f0d99c5b33e26a063e.meta.json"
+    }
+  ],
+  "total": 316
+}

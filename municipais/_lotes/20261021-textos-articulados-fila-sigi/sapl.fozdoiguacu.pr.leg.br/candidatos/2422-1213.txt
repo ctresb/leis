@@ -1,0 +1,813 @@
+APROVA O REGULAMENTO DA LEI Nº 3.523, DE 17 DE ABRIL DE 2009, QUE DISPÕE SOBRE O SISTEMA DE BILHETAGEM ELETRÔNICA - SBE - NO MUNICÍPIO DE FOZ DO IGUAÇU.
+
+
+O Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, no uso das atribuições legais que lhe são conferidas pelas alíneas "a", "g" e "j", inciso I, do art. 86 da Lei Orgânica do Município, e de acordo com o disposto no art. 3º, da Lei nº 3.523, de 17 de abril de 2009, DECRETA:
+
+
+Art. 1º.
+
+Fica aprovado o Regulamento do Sistema de Bilhetagem Eletrônica, no âmbito do Município de Foz do Iguaçu, conforme disposto na Lei nº 3.523, de 17 de abril de 2009, na forma do Anexo a este Decreto.
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 1º de julho de 2009.
+
+Paulo Mac Donald Ghisi  
+Prefeito Municipal  
+  
+Francisco Lacerda Brasileiro  
+Secretário Municipal da Administração  
+  
+Ailton José de Faria  
+Diretor Superintendente do Instituto de Transportes e Trânsito de Foz do Iguaçu - FOZTRANS
+
+
+## Anexo I — REGULAMENTO DO SISTEMA DE BILHETAGEM ELETRÔNICA DO MUNICÍPIO DE FOZ DO IGUAÇU
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+##### Seção I — Do Objeto
+
+
+Art. 1º.
+
+O presente Regulamento tem por objeto disciplinar as condições para a implantação e funcionamento do Sistema de Bilhetagem Eletrônica - SBE - do Município de Foz do Iguaçu.
+
+
+##### Seção II — Das Definições
+
+
+Art. 2º.
+
+Para efeito de interpretação deste Regulamento entende-se por:
+
+
+I –
+
+Sistema de Bilhetagem Eletrônica - SBE: é a cobrança automática do preço da respectiva passagem, por meio do uso de cartões inteligentes, sem contato, que permitem o acesso dos passageiros e a respectiva liberação das catracas eletrônicas, tanto na frota operacional de ônibus como em eventuais estações ou terminais, com ou sem acesso externo, assim como integração entre linhas do sistema;
+
+
+II –
+
+Órgão Regulador - Município de Foz do Iguaçu: é o responsável pela elaboração das políticas macro e dos regulamentos para os serviços de transportes do município de Foz do Iguaçu-Pr;
+
+
+III –
+
+Órgão Gestor - Instituto de Transportes e Trânsito de Foz do Iguaçu - FOZTRANS: é o responsável pelo controle, gestão, operação e fiscalização dos transportes urbanos do município de Foz do Iguaçu-Pr;
+
+
+IV –
+
+Operadora do SBE: Instituto de Transportes e Trânsito de Foz do Iguaçu - FOZTRANS: é o responsável pelo controle, gestão, operação e fiscalização dos transportes urbanos do município de Foz do Iguaçu-Pr com o especial objetivo de operacionalizar o sistema "ÚNICO" - Sistema de Bilhetagem Eletrônica de Foz do Iguaçu;
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+V –
+
+"ÚNICO": nome fantasia atribuído ao Sistema de Bilhetagem Eletrônica - SBE - a ser implantado;
+
+
+VI –
+
+Cartões Eletrônicos: mídia eletrônica, dotada de chip padrão mifare, ou aplicativo, e que armazena dados dos usuários para liberação de bloqueios e catracas;
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+VII –
+
+Nível Tarifário: faixa de tarifas que são instituídas pelo Órgão Gestor para a identificação do valor tarifário de cada linha ou conjunto de linhas em operação;
+
+
+VIII –
+
+Validador: equipamento eletrônico composto de hardware e software, instalado dentro de todos os veículos da frota operante e bloqueios de terminais, que efetua a leitura dos Cartões Eletrônicos; e
+
+
+IX –
+
+Catraca Eletrônica ou Bloqueio: equipamento eletromecânico que está ligado eletronicamente aos validadores e só libera a passagem do usuário quando é apresentado um cartão válido ou com créditos compatíveis ao Nível Tarifário da linha ao validador.
+
+
+##### Seção III — Dos Objetivos
+
+
+Art. 3º.
+
+O "ÚNICO" - Sistema de Bilhetagem Eletrônica do Município de Foz do Iguaçu - tem por objetivo melhorar o deslocamento das pessoas, proporcionar mais segurança as concessionárias do transporte coletivo urbano e usuários, e propiciar à população amplo deslocamento e mobilidade de acesso dentro dos limites do Município de Foz do Iguaçu, tendo como principais metas:
+
+
+I –
+
+aumentar a segurança do sistema de transporte, mediante a retirada do numerário ou passes atualmente utilizados a bordo do veículo;
+
+
+II –
+
+conferir maior conforto e agilidade no embarque de passageiro reduzindo os tempos de viagem;
+
+
+III –
+
+oferecer ao usuário segurança da restituição dos valores de seus créditos em caso de perda, extravio ou roubo;
+
+
+IV –
+
+proporcionar tratamento igualitário para todos os usuários, isentos ou não do pagamento da tarifa;
+
+
+V –
+
+controlar a demanda de passageiros transportados;
+
+
+VI –
+
+controlar as gratuidades dos beneficiários de descontos do sistema;
+
+
+VII –
+
+cadastrar os usuários do Vale Transporte; e
+
+
+VIII –
+
+cadastrar os beneficiários de Passe Escolar e isenções tarifárias, observadas as legislações pertinentes.
+
+
+##### Seção IV — Da Competência
+
+
+Art. 4º.
+
+São atribuições do Município de Foz do Iguaçu através do Órgão Gestor, a supervisão, coordenação, controle e fiscalização do Sistema de Bilhetagem Eletrônica.
+
+
+Art. 5º.
+
+Para operação e gerenciamento do "ÚNICO", o FOZTRANS poderá adquirir bens móveis e/ou contratar serviços fundamentais para operacionalizar o Sistema de Bilhetagem Eletrônica.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 6º.
+
+São atribuições da Operadora do SBE:
+
+
+I –
+
+o cadastramento de todos os usuários que gozem de benefícios tarifários e o controle de sua movimentação no transporte coletivo urbano de Foz do Iguaçu;
+
+
+II –
+
+o cadastramento dos empregadores e dos beneficiários do Vale Transporte e o controle de sua movimentação no sistema ÚNICO;
+
+
+III –
+
+o controle automatizado das receitas auferidas;
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+IV –
+
+a emissão de relatórios de controle dos passageiros equivalentes transportados no sistema para fins de cálculos tarifários, de impostos e controle estatístico e operacional por parte do FOZTRANS;
+
+
+V –
+
+a emissão e distribuição dos Cartões Eletrônicos ÚNICO às diferentes categorias de usuários;
+
+
+VI –
+
+disponibilizar instalações adequadas para o atendimento do público usuário em tempo condizente;
+
+
+VII –
+
+comercializar e controlar a venda de passagens antecipadas nas diversas modalidades de cartões;
+
+
+VIII –
+
+descentralizar, caso necessário, através de pontos próprios ou de empresas terceirizadas especializadas na atividade, os locais de recarga dos cartões do tipo cidadão ou vale transporte por todo o Município de Foz do Iguaçu;
+
+
+IX –
+
+registrar a frequência de uso dos Cartões Eletrônicos nas diversas linhas que compõe o sistema para fins de planejamento tarifário e operacional do FOZTRANS;
+
+
+X –
+
+instituir novas modalidades de cartões além daqueles previstos neste regulamento;
+
+
+XI –
+
+transferir diariamente ao Órgão Gestor através de meios eletrônicos todas as informações de operação do sistema no tocante ao uso das linhas do sistema e das modalidades de usuários que as utilizaram;
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+XIII –
+
+fiscalizar através de pesquisa em Banco de Dados os usuários que estejam usando indevidamente os cartões do ÚNICO.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+#### CAPÍTULO II — DAS TARIFAS
+
+
+##### Seção I — Das Modalidades Das Tarifas
+
+
+Art. 7º.
+
+Para efeito de interpretação deste Regulamento as modalidades de "tarifas" podem ser:
+
+
+I –
+
+"Comum ou Antecipada": é aquela estabelecida para o serviço regular e constitui o padrão do sistema. Ocorre quando o usuário ou empresa adquirente do cartão adquire o direito da viagem antes de embarcar ou acessar estações ou terminais e pontos dotados de pré-embarque.
+
+
+II –
+
+" Paga a bordo" ou " Embarcada": é aquela em que a pessoa usuária adquire o direito de viagem diretamente ao motorista, já dentro do ônibus, podendo ser calculada de forma diferenciada, como forma de motivar a adesão ao sistema eletrônico, conferindo mais segurança aos passageiros e as concessionárias do transporte coletivo urbano.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+§ 1º
+
+O Órgão Gestor poderá propor políticas tarifárias que diferenciem os valores das passagens "antecipadas" daquelas "pagas a bordo" como forma de incentivar o uso de cartão e indiretamente obter mais agilidade na operação do sistema, respeitando sempre o equilíbrio econômico-financeiro dos contratos com as concessionárias do transporte coletivo urbano.
+
+
+§ 2º
+
+O Órgão Gestor poderá propor tarifas diferenciadas para os horários considerados "fora de pico", concedendo valores que permitam um melhor aproveitamento da frota operante, respeitando sempre o equilíbrio econômico-financeiro das concessionárias do transporte coletivo urbano e não permitindo concorrência predatória.
+
+
+Art. 8º.
+
+Fica instituída a Unidade Tarifária - UT - no valor de R$ 0,01 (um centavo de real), destinadas ao registro quantitativo de créditos tarifários gerados e transferidos aos cartões dos usuários.
+
+
+§ 1º
+
+Na utilização do cartão eletrônico, o valor do Nível Tarifário será convertido em Unidades Tarifárias - UT`s.
+
+
+§ 2º
+
+As Unidades Tarifárias ficarão a disposição dos usuários dentro da frota de veículos durante o prazo de 60 dias para a recarga embarcada. Findo o prazo, o valor ficará a disposição na sede da operadora do ÚNICO até decorrer o prazo prescricional de 360 (trezentos e sessenta) dias.
+
+
+§ 3º
+
+As Unidades Tarifárias após decorrido o prazo de 60 (sessenta) dias para a recarga de forma embarcada, e dentro do prazo legal de 360 (trezentos e sessenta dias) para a efetivação da recarga manual no posto do ÚNICO, poderão ser estornadas mediante requisição da empresa adquirente dos créditos, estando, todavia, sujeita ao pagamento de taxa administrativa no valor correspondente a 5 (cinco) vezes o valor da tarifa integral vigente pelo ressarcimento de custos operacionais.
+
+
+##### Seção II — Do Sistema Integrado
+
+
+Art. 9º.
+
+Considera-se Integração o serviço pelo qual o passageiro utiliza mais de uma linha para seu deslocamento, considerando sempre um mesmo sentido, dentro de um determinado tempo, com o pagamento da tarifa através do cartão do sistema "ÚNICO".
+
+
+Art. 10.
+
+O Sistema disporá das seguintes modalidades de integração:
+
+
+I –
+
+Integração mesmo nível tarifário: quando o passageiro utiliza ônibus de uma mesma empresa ou empresas diferentes, que tem o mesmo nível tarifário praticado. Nesse caso, estando o deslocamento do usuário sendo feito para um único sentido de "ida" ou de "volta", o pagamento será de uma única tarifa.
+
+
+II –
+
+Integração níveis tarifários diferentes: quando o passageiro utiliza ônibus de uma mesma empresa ou empresas diversas, que tem níveis tarifários diferentes. Nesse caso, estando o deslocamento do usuário sendo feito para um único sentido de "ida" ou de "volta", o pagamento total do cliente será do valor da maior tarifa entre as duas praticadas.
+
+
+Parágrafo único
+
+A integração em qualquer das modalidades, será definida pelo Órgão Gestor com base na avaliação dos relatórios fornecidos pelo operador do SBE, sempre respeitando o equilíbrio econômico-financeiro das concessionárias do transporte coletivo urbano.
+
+
+##### Seção III — Do Sistema de Resgate de Créditos Entre as Concessionárias do Transporte Coletivo Urbano
+
+
+Art. 11.
+
+A Operadora do SBE administrará os recursos arrecadados através do sistema ÚNICO, e fará o pagamento à prestadora do serviço.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+§ 1º
+
+A Operadora do SBE emitirá diariamente o documento " Relatório de Resgate de valores de Passageiros Transportados no Sistema ÚNICO".
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+§ 2º
+
+As despesas de operacionalização e manutenção do Sistema ÚNICO deverão ser realizadas nos moldes apropriados da legislação contábil, estando sujeitas à fiscalização do Órgão Regulador, visto que fazem parte dos insumos que compõe a planilha de custo.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+§ 3º
+
+Do valor arrecadado em dinheiro pelo motorista a empresa deverá prestar conta diariamente ao FOZTRANS, podendo porém utilizar como antecipação do valor devido pela prestação do serviço.
+
+Inclusão feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+§ 4º
+
+Enquanto não efetivada a nova licitação do SBE pelo Município, a receita da venda do vale transporte poderá continuar sendo arrecadada pela empresa, mas ficará sujeita a prestação de conta e a depósito em conta do FOZTRANS até o próximo dia útil.
+
+Inclusão feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+#### CAPÍTULO III — DOS CARTÕES
+
+
+##### Seção I — Das Modalidades Dos Cartões
+
+
+Art. 12.
+
+Ficam instituídas as seguintes modalidades de cartões para fins de identificação do usuário e do armazenamento de Unidas Tarifárias - UT`s:
+
+
+I –
+
+Cartão Vale Transporte;
+
+
+II –
+
+Cartão Estudante;
+
+
+III –
+
+Cartão Cidadão;
+
+
+IV –
+
+Cartão Isento;
+
+
+V –
+
+Cartão Sênior;
+
+
+VI –
+
+Cartão Funcional; e
+
+
+VII –
+
+Cartão Turista.
+
+
+Art. 13.
+
+Do Cartão Vale Transporte: é a modalidade de venda antecipada de passagens mediante o pagamento da tarifa comum pelo empregador, destinado a atender as necessidades de transporte de seus empregados no trajeto residência - trabalho - residência.
+
+
+§ 1º
+
+A Operadora do SBE e os empregadores deverão observar a legislação vigente relativa a vale transporte no âmbito Federal.
+
+
+§ 2º
+
+O Empregador efetuará seu prévio cadastro perante o ÚNICO, através de recursos da Internet ou pessoalmente preenchendo ficha cadastral especifica para o fim. Após seu cadastramento, o ÚNICO irá providenciar a confecção dos cartões para entrega aos empregadores e posterior distribuição aos funcionários.
+
+
+§ 3º
+
+Embora o cadastramento seja feito através do empregador, o cartão é cedido em comodato para o trabalhador, conforme estabelecido nos arts. 579 a 585, do Código Civil Brasileiro.
+
+
+§ 4º
+
+O valor máximo permitido para acúmulo de saldo na modalidade vale transporte é de até 200 (duzentas) vezes o valor da maior tarifa comum utilizada no município.
+
+
+§ 5º
+
+A aquisição dos créditos para distribuição aos funcionários deverá ser efetuada preferencialmente via internet, com individualização dos créditos para os funcionários. Os créditos estarão disponibilizados para os funcionários em qualquer ônibus da frota em até 48 (quarenta e oito) horas após a quitação dos valores na rede bancária.
+
+
+§ 6º
+
+Após o recebimento dos valores da rede bancária, o ÚNICO efetuará a recarga embarcada dos valores adquiridos, individualizados para cada funcionário, e remeterá concomitantemente mensagem eletrônica (e-mail) de confirmação no final da transação, sendo que a mensagem eletrônica somada ao pagamento do boleto bancário valerá como recibo para comprovação da aquisição e cumprimento legal do benefício.
+
+
+§ 7º
+
+Os créditos depositados pelos empregadores terão a validade de uso de 360 (trezentos e sessenta) dias.
+
+
+Art. 14.
+
+Do Cartão Estudante: é a modalidade de venda antecipada de passagem, mediante o pagamento de 50% do valor da tarifa necessária ao deslocamento no trajeto residência - estabelecimento de ensino e vice-versa, durante o período letivo de cada estabelecimento de ensino.
+
+
+§ 1º
+
+Terão direito ao benefício do caput desse artigo, os estudantes que comprovem a residência em distância superior a 1.500 (um mil e quinhentos metros) metros entre o ponto de ônibus mais próximo de sua residência e aquele mais próximo do estabelecimento de ensino.
+
+
+§ 2º
+
+Para cadastramento na Operadora do SBE - ÚNICO - o estudante deverá apresentar documentação comprobatória da identidade, do endereço e de matrícula no estabelecimento de ensino.
+
+
+§ 3º
+
+O estudante somente poderá adquirir créditos, com isenção de 50%, na quantidade exata para o deslocamento mensal "casa-escola-casa" descontados eventuais valores não utilizados do mês anterior.
+
+
+§ 4º
+
+4º Para recarga de créditos efetuada mensalmente, o estudante deverá apresentar comprovante de frequência mensal fornecida pelo estabelecimento de ensino.
+
+
+§ 5º
+
+A comprovação de frequência poderá se dar de forma eletrônica, ficando autorizado à Operadora do SBE desenvolver ferramentas técnicas que viabilizem o intercâmbio de dados entre o ÚNICO e os estabelecimentos de ensino.
+
+
+§ 6º
+
+O intervalo entre duas aquisições de créditos para uso de estudantes será de no mínimo 30 (trinta) dias.
+
+
+§ 7º
+
+O estudante poderá utilizar os créditos com desconto nas linhas operadas pelas empresas que efetuarem o percurso descrito entre a sua residência - escola - residência e vice versa, previamente indicadas em seu cadastramento inicial. Havendo necessidade de transporte em linhas diferentes das cadastradas, a cobrança da tarifa ocorrerá de forma integral.
+
+
+§ 8º
+
+O Cartão Estudante é pessoal e intransferível, contendo a fotografia digitalizada do estudante, devendo ser apresentado previamente ao cobrador e/ou motorista para validação e transposição da catraca.
+
+
+§ 9º
+
+O ÚNICO terá o prazo regulamentar de 7 (sete) dias para a emissão do primeiro cartão, que poderá ser reutilizado nos anos seguintes enquanto a imagem do estudante se mantiver condizente à primeira emissão.
+
+
+§ 10
+
+O Cartão Estudante permitirá o uso máximo de até 4 (quatro) utilizações no dia, ressalvado os casos de atividades extracurriculares devidamente comprovadas.
+
+
+Art. 15.
+
+Do Cartão Cidadão: é a modalidade de venda de créditos antecipados mediante prévio cadastramento no sistema, desde que não exista outro tipo de cartão já emitido em nome do usuário.
+
+
+§ 1º
+
+Para obtenção do cartão o usuário deverá preencher ficha cadastral com os dados pessoais e apresentar os seguintes documentos:
+
+
+I –
+
+Carteira de Identidade;
+
+
+II –
+
+Cadastro de Pessoas Físicas; e
+
+
+III –
+
+Comprovante de endereço de que resida no município de Foz do Iguaçu;
+
+
+§ 2º
+
+A venda ou recarga de créditos nos cartões tipo Cartão Cidadão serão no valor mínimo de 10 (dez) vezes o valor do maior Nível Tarifário previsto no sistema.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 16.
+
+Do Cartão Isento: é a modalidade que possibilita aos beneficiários livre acesso ao Sistema, destinados às pessoas carentes Portadoras de Deficiência e Aposentados por Invalidez, dispostos na Lei nº 2.868, de 17 de dezembro de 2003.
+
+
+§ 1º
+
+Para fins de unificação de procedimentos de acessibilidade aos serviços de transporte urbano de Foz do Iguaçu, ficam delegadas as prerrogativas previstas no art. 2º, da Lei nº 2.868, de 17 de dezembro de 2003, para o Operador do SBE.
+
+
+§ 2º
+
+Cumpridas as exigências legais do § 1º, o beneficiário receberá cartão "ÚNICO" que o identifique como portador do benefício previsto no caput deste artigo, devendo apresentá-lo ao cobrador para a validação e transposição da catraca.
+
+
+§ 3º
+
+O Cartão Isento é pessoal e intransferível, e será válido pelo tempo que a legislação especifica determinar.
+
+
+§ 4º
+
+O Cadastramento dos usuários beneficiados com o Cartão Isento será efetuado na sede do ÚNICO, em local definido pela Operadora do SBE, para coleta da fotografia digitalizada e atualizada mediante entrega dos documentos comprobatórios.
+
+
+§ 5º
+
+Os beneficiários do Cartão Isento podem estar sujeitos a realização de perícia médica que comprove a situação de isenção tarifária, sem custos.
+
+
+Art. 17.
+
+Do Cartão Sênior: é a modalidade que contempla o direito constitucional assegurado às pessoas que possuem mais de 65 anos de idade e livre acesso aos meios de transporte público coletivo urbano.
+
+
+§ 1º
+
+O Cartão Sênior não é obrigatório, todavia, o usuário que não o possuir e optar por apresentar a identidade ao motorista e/ou cobrador não poderá transpor a catraca.
+
+
+§ 2º
+
+O Cartão Sênior será distribuído mediante cadastramento dos beneficiários e terá validade de 1 (um) ano, com vencimento sempre na data de aniversário do idoso.
+
+
+§ 3º
+
+O idoso que possuir o cartão deverá apresentar ao cobrador para conferência da foto, inseri-lo no validador e transpor a catraca como todos os cidadãos, tendo à sua disposição todos os assentos do ônibus.
+
+
+Art. 18.
+
+Do Cartão Funcional: é a modalidade destinada exclusivamente aos funcionários que exerçam trabalhos nas empresas do transporte coletivo como ferramenta de operação dos equipamentos quando dentro de seus turnos.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 19.
+
+Do Cartão Turista: é a modalidade de cartão que conterá créditos pré-carregados e será disponibilizado para pessoas não residentes no Município de Foz do Iguaçu.
+
+
+§ 1º
+
+O Cartão Turista poderá ser comercializado por empresas terceirizadas, preferencialmente aquelas que possuem algum tipo de relacionamento com os turistas que frequentam a cidade, tais como hotéis e restaurantes.
+
+
+§ 2º
+
+Será permitida à Operadora do SBE cobrar até 5 (cinco) vezes o valor da maior tarifa do sistema a título de ressarcimento de custos, visto que o cartão poderá ser levado pelo usuário como suvenir da cidade, sem retorno.
+
+
+Art. 20.
+
+Ao cidadão que não possuir nenhum tipo dos cartões, previstos no art. 12 deste Regulamento, será obrigatório o pagamento da respectiva tarifa em dinheiro diretamente ao motorista.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 21.
+
+O Cartão ÚNICO deverá demonstrar separadamente os beneficiários de gratuidades para cada tipo de utilização a que se destinar, devendo conter, obrigatoriamente, nesses casos, a foto do beneficiário para identificação por parte do cobrador e/ou motorista, e posterior transposição da catraca.
+
+
+§ 1º
+
+O primeiro cartão eletrônico será fornecido pela Operadora do SBE ao usuário, sem custos, na forma de Comodato, conforme estabelecido nos arts. 579 a 585, do Código Civil Brasileiro.
+
+
+§ 2º
+
+Os cartões que não forem utilizados no sistema por mais de 1 (um) ano serão considerados inativos e excluídos do SBE.
+
+
+Art. 22.
+
+O usuário deverá comunicar à Operadora do SBE, o extravio, perda ou roubo do seu cartão.
+
+
+§ 1º
+
+A Operadora, depois de notificada, terá o prazo de até 48 (quarenta e oito) horas para bloqueio dos créditos depositados no cartão, e após este período será emitido um novo cartão com os créditos remanescentes.
+
+
+§ 2º
+
+Na reposição de cartões por extravio ou danificação voluntária será cobrado o equivalente a 5 (cinco) vezes o valor da maior tarifa a título de ressarcimento de custos operacionais.
+
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+#### CAPÍTULO IV — DO SISTEMA DE CONTROLE
+
+
+##### Seção I — Dos Relatórios de Controle
+
+
+Art. 24.
+
+A Operadora do SBE deverá disponibilizar ao Órgão Regulador, sempre que solicitado quaisquer dados relativos aos cadastros relacionados com o Sistema de Bilhetagem Eletrônica, sua comercialização, operação e arrecadação.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+§ 1º
+
+No BCO estarão registrados as datas e horários de realização da linha, contendo no mínimo:
+
+
+I –
+
+dados da empresa concessionária;
+
+
+II –
+
+número da linha;
+
+
+III –
+
+prefixo do ônibus;
+
+
+IV –
+
+horário de saída do ponto inicial;
+
+
+V –
+
+horário de chegada ao ponto final;
+
+
+VI –
+
+horário de espera do final até o reinício de nova linha;
+
+
+VII –
+
+codificação que identifique os motoristas, cobradores e despachantes que operaram naquela linha; e
+
+
+VIII –
+
+número da catraca inicial e final da jornada.
+
+
+§ 2º
+
+O relatório deverá estar disponibilizado no sistema de forma a permitir consulta a qualquer tempo pelo Órgão Gestor.
+
+
+§ 3º
+
+Independente do previsto no § 2º, a Operadora do SBE deverá disponibilizar ao Órgão Gestor, sempre que solicitado quaisquer dados relativos aos cadastros relacionados com o Sistema de Bilhetagem Eletrônica, sua comercialização, operação e arrecadação.
+
+
+Art. 25.
+
+Fica expressamente proibido à Operadora do SBE disponibilizar informações particulares dos usuários constantes de seu banco de dados a terceiros, com exceção de informações ao Órgão Regulador e Órgão Gestor necessárias ao bom desempenho e operação do sistema ou por determinação judicial.
+
+
+Art. 26.
+
+O Órgão Gestor poderá realizar auditorias no banco de dados do sistema, tanto por acesso eletrônico irrestrito às informações nele contidas, quanto por empresas especializadas indicadas formalmente pelo referido Órgão, respeitando-se os direitos de propriedade intelectual e sigilo das informações.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES GERAIS
+
+
+##### Seção I — Das Disposições Transitórias e Finais
+
+
+Art. 27.
+
+A implantação do sistema ÚNICO em todas as suas fases será precedida de ampla campanha de divulgação, com o objetivo de facilitar o entendimento das novas metodologias pelos atuais e futuros usuários do transporte.
+
+
+Art. 28.
+
+O Órgão Gestor baixará as normas complementares necessárias à plena execução desse Decreto.
+
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 31.
+
+Poderão ser instaladas dentro dos ônibus micro-câmeras para auxiliarem na fiscalização e na segurança do Sistema de Transporte como um todo.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 33.
+
+Ficam os funcionários da(s) empresa(s) de transporte coletivo autorizados a reterem os cartões vencidos ou utilizados de forma indevida por usuários ou terceiros, devendo os mesmos, posteriormente, serem repassados à Operadora do SBE.
+
+Alteração feita pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Decreto Executivo nº 31.262, de 27 de março de 2023.
+
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

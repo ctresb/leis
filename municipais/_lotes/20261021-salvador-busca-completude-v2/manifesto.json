@@ -1,0 +1,50 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/camara-lom001-final.png",
+      "sha256": "2413648d9b7f899c84b3019122d17351e46c0107fc2c434fc5fbcafd03447b51",
+      "bytes": 47026
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/camara-lom001-sumario.png",
+      "sha256": "57612a80efbf7b4a2d1975186044b529b708d4b29211d2345d34ee698e61be29",
+      "bytes": 116932
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/camara-lom001.fonte.json",
+      "sha256": "8e5c423e99857a1dd93f9b3f61783bcacc1d63c2bfe1ce3410e5d078cc9ea2c6",
+      "bytes": 563
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/camara-lom001.pdf",
+      "sha256": "bb79c66132c2a8c0d5546a6b8b89dc3e9b1dd119763bea8ab1e501c732436581",
+      "bytes": 602074
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/camara-lom001.txt",
+      "sha256": "4c9c73ee54dbf2f9fc0378054dabbab40f873c2295ca534fa9d01f5c8c8ab4c2",
+      "bytes": 227385
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/diagnostico.json",
+      "sha256": "e0fa6521fcf7e1eaac72ede829adb7f84df6020bae8d42a166fd8689edbcb7f2",
+      "bytes": 1860
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/previdencia.fonte.json",
+      "sha256": "a48d35ca37aa0f7824d399b12c8141e3bf1c02e3122c8b82353d81ba284a2216",
+      "bytes": 671
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/previdencia.pdf",
+      "sha256": "10020f580e77c1885e23d8c02fd8046cb8df1fe475edfa8b80ba695931b75355",
+      "bytes": 592996
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude-v2/previdencia.txt",
+      "sha256": "787bd5dd421415433797ef2f25a3eaf6039a472b93590f66e01fd7484d5b679e",
+      "bytes": 264565
+    }
+  ],
+  "conclusao": "Novas fontes municipais preservadas, mas não resolvem a entrada ANEXO do sumário da compilação de 2024. Nenhuma mescla de edições ou promoção automática."
+}

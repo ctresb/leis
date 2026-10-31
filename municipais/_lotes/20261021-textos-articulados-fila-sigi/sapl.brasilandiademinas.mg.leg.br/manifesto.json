@@ -1,0 +1,132 @@
+{
+  "host": "sapl.brasilandiademinas.mg.leg.br",
+  "metadados_unicos_observados": 951,
+  "total_api_declarado": 951,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 918,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/e7654b5c9141eae44836117f9866ab6cc1b7be674aafd8edb38c54f1e6d814b2.json",
+    "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "92b5f6f36abae6476273ffcc369ce24b75ac2aa15105e1bbfd30eaa0269d5b46",
+    "bytes": 1146,
+    "capturado_em": "2026-10-27T19:36:29.845060-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/ee31c18f4c021d32eaeeb713d1232880572c78dfc4a209d7f8ba8e126f37c609.json",
+    "url": "https://sapl.brasilandiademinas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "17ddd36fb7a3593a353b9df122c0ad47d8676520bc8fad853c10855af10efc18",
+    "bytes": 826,
+    "capturado_em": "2026-10-27T19:36:29.049384-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/8fa76e850199793186c702590e66653ff6d6ab4eaa9b9a342a6e5fb0d92a0f4b.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b9cbf91aa059d12848ee32b11f3f6a2cb8045e6437b4caee0829e523cf8f631e",
+      "bytes": 61331,
+      "capturado_em": "2026-10-27T19:36:32.328142-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/16bf9fb22a5f786868b6c09ddfb4000f611e3e21c00a039cad44d4dcd86a47bc.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "19fdd3632a5ecf2080b777a522d0931ff954a661119f8a8de813c2585bcba928",
+      "bytes": 62964,
+      "capturado_em": "2026-10-27T19:39:34.664035-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/fe2237ab34b64e61b193b933220a8341a5b0e388afdd057779b75b5ef95fac36.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ac0ca7ef3fffa890567bb2388e2550af9e1249b1598abc217802bac2e06e18ec",
+      "bytes": 59151,
+      "capturado_em": "2026-10-27T19:42:50.178275-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/2a219928bc87e7234f9a8b26be183fe2364278d574c4c990bebc37ab4924a35f.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "956a59cb665300e6276d2851a2f11e86369e2f8e449a2a78f0db29e8044d1e42",
+      "bytes": 58839,
+      "capturado_em": "2026-10-27T19:46:04.751102-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/7b226712fd54a8e491e076f18500dd78f493697109eb0bdaf39b022db4dd3c04.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "836b07712f1faff062a915976078b1d8e6957a4399007b2e595ec323648d9771",
+      "bytes": 58720,
+      "capturado_em": "2026-10-27T19:49:28.797586-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/608fe5c0a0bcd3b3e9a3d93f82d5b95dd94aa2b3dc2182fdf6de22a872695796.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d5dcc310e1cd06a33ea0f7fd2ad41ad7642f3918e10c149598700995831f9985",
+      "bytes": 57890,
+      "capturado_em": "2026-10-27T19:52:44.951426-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/da4fecd40635d4b3e7eced888a9298b0afd6f2964bcf8548c3fccb44473a235c.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f14ff7640a4ec770a3f046a325ccf212030daa386f4d1abc354438b078ae15f9",
+      "bytes": 58638,
+      "capturado_em": "2026-10-27T19:56:10.259799-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/9bd81d9340bf73f88e28216e8f09c1033a4f63147c95a3ac1a367fa34be036ad.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e7bc27d75a4722e1c9613d374077b856de04582b36b66fcd1cbdee229f85df70",
+      "bytes": 55624,
+      "capturado_em": "2026-10-27T19:59:30.717548-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/c1862b130186f0176f8879f6f209617cae4becc3771b5c22a39cd5fc8758f28e.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "face735dc7597a10f50fe5c2a95b047cc47d18b6165c499c9d7215151d7fd1ac",
+      "bytes": 58312,
+      "capturado_em": "2026-10-27T20:02:52.982617-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/da3213d3a203d8ef3daf6bcca4ae01ef87157e45733564247201da69d2d370c0.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.brasilandiademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8921091d8ace9afba90a006929a3b937dccbdf4ed6965442dbb2c8c11db676b2",
+      "bytes": 29120,
+      "capturado_em": "2026-10-27T20:06:13.830947-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

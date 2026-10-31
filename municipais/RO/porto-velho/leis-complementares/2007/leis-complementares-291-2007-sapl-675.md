@@ -1,0 +1,120 @@
+---
+titulo: "Lei Complementar nº 291, de 07 de dezembro de 2007"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "291"
+data: "2007-12-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2014-05-08; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/675"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/606/text"
+sha256_fonte: "b860668547dcd1f830304de8fc0aa9de692cef99c986bbc3a5f85901760684e0"
+sha256_texto: "4e3b4f4b46cdda0786ed04cd8a1580ce9d8ebed829421b3825f5ab629cc0b08f"
+capturado_em_fonte: "2026-10-27T21:26:46.493635-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 291, de 07 de dezembro de 2007
+
+Acrescenta alterações e cria o art. 9º-A, na Lei Complementar nº 033, de 3 de novembro de 1994, e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV, do art. 87 da, da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR**:
+
+
+Art. 1º.
+
+Os incisos I e II do art. 9º da Lei Complementar nº 033, de 3 de novembro de 1994, passam a vigorar com as seguintes redações:
+
+
+Art. 2º.
+
+O § 2º do art. 9º da Lei Complementar nº 033, de 3 de novembro de 1994, passa a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+O § 3º do art. 9º da Lei Complementar nº 033, de 3 de novembro de 1994, com alteração dada pela Lei Complementar nº 046, de 10 de maio de 1995, passa a vigorar com a seguinte redação:
+
+
+I –
+
+As autorizações com vistas para alcançar o número previsto no parágrafo anterior, só serão outorgadas a partir de 120 (cento e vinte) dias após a publicação desta Lei.
+
+
+II –
+
+As autorizações para o aumento da frota deverão obrigatoriamente obedecer aos seguintes critérios:
+
+
+a)
+
+para o taxista que estiver devidamente sindicalizado junto ao SINCAVIR.
+
+
+b)
+
+para o taxista que tiver o maior tempo comprovado de serviços prestados no perímetro urbano do município e que esteja efetivamente em atividade, devendo o SINCAVIR e a SEMTRAN conjuntamente comprovarem o exercício deste tempo de serviço.
+
+
+c)
+
+o taxista terá que apresentar comprovante de participação em curso de relações humanas e direção defensiva.
+
+
+Art. 4º.
+
+Fica acrescentado os §§ 5º, 6º e 7º no art. 9º, da Lei Complementar nº 033, de 3 de novembro de 1994, com as seguintes redações:
+
+
+Art. 5º.
+
+Fica acrescentado o art. 9º-A, na Lei Complementar nº 033, de 3 de novembro de 1994, com a seguinte redação:
+
+
+§ 1º
+
+Aos táxis oriundos de outros municípios serão permitidas tão somente a atividade de desembarque de passageiros advindos de sua origem, e o retorno com passageiros para o mesmo local, sendo vedada, de qualquer forma e sob qualquer título, a realização de corridas independentes enquanto permanecer nos limites do Município de Porto Velho.
+
+
+§ 2º
+
+Ao infrator será imposta multa no valor de 25 UPF’s, com imediata apreensão do veículo pelo agente fiscalizador da SEMTRAN.
+
+
+§ 3º
+
+No caso de reincidência no prazo de 01 (um) ano, o valor da multa será duplicado em relação à última aplicada.
+
+
+§ 4º
+
+A liberação do veículo ocorrerá mediante requerimento administrativo do interessado, instruído com prova de propriedade ou posse regular e com os comprovantes de pagamento da penalidade pecuniária aplicada e da taxa de depósito correspondente.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 533, de 08 de maio de 2014.
+
+
+Art. 6º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município**  
+  
+MÁRIO JONAS FREITAS GUTERRES  
+Procurador Geral do Município
+

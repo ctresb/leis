@@ -1,0 +1,338 @@
+---
+titulo: "Lei Complementar nº 188, de 15 de outubro de 2025"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "188"
+data: "2025-10-15"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2366"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2000/text"
+sha256_fonte: "9760844df41fa2e60de7db0156e44b70774f82fa1989b53752b69c8941dba01b"
+sha256_texto: "c1fa6f6260c96d5f9a951b400f2d1d36b7c7dd555a40473bd62514b5e595ea96"
+capturado_em_fonte: "2026-10-27T19:41:14.467733-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 188, de 15 de outubro de 2025
+
+CRIA A SECRETARIA MUNICIPAL DE CULTURA E TURISMO, ALTERA A LEI COMPLEMENTAR N° 051/2008, LEI COMPLEMENTAR N° 094/2013, LEI N° 1.225/2011, LEI N° 1.186/2010, Е DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DE BURITIS, Estado de Minas Gerais, no uso da atribuição que lhe confere os artigos 80, inciso II e 105, inciso VIII, todos da Lei Orgânica do Município, faz saber que a Câmara Municipal de Buritis decreta, e ele, em seu nome, sanciona e promulga a seguinte Lei Complementar:
+
+
+Art. 1º.
+
+Fica criada a Secretaria Municipal de Cultura e Turismo, como órgão de atividade fim da estrutura organizacional da Prefeitura Municipal de Buritis/MG, com a finalidade de planejar, coordenar e executar políticas públicas voltadas ao desenvolvimento cultural e turístico do município.
+
+
+Art. 2º.
+
+O inciso III do art. 4º da Lei Complementar nº 051/2008, com redação dada pela Lei Complementar nº 094/2013, passa a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+Ficam desvinculadas da Secretaria Municipal de Juventude, Esporte, Lazer e Turismo e da Secretaria Municipal de Educação e Cultura todas de competências relativas à Cultura e Turismo, que passam a ser de atribuição exclusiva da Secretaria Municipal de Cultura e Turismo.
+
+
+Art. 4º.
+
+O art. 2º da Lei nº 1.225/2011 passa a vigorar com a seguinte redação:
+
+
+Art. 5º.
+
+O art. 3º da Lei nº 1.225/2011 passa a vigorar com a seguinte redação:
+
+
+Art. 6º.
+
+Compete à Secretaria Municipal de Cultura e Turismo:
+
+
+I –
+
+Formular e executar a política municipal de cultura, em articulação com os demais órgãos da Administração Pública e com sociedade civil;
+
+
+II –
+
+Promover, apoiar e divulgar as manifestações culturais e artísticas locais, regionais e nacionais;
+
+
+III –
+
+Proteger, valorizar e promover o patrimônio histórico, artístico e cultural do município;
+
+
+IV –
+
+Planejar e executar eventos, festividades e atividades culturais no município;
+
+
+V –
+
+Desenvolver políticas de incentivo à leitura, à música, às artes cênicas, plásticas, visuais e à cultura popular;
+
+
+VI –
+
+Estimular e organizar a formação artística e cultural da população por meio de oficinas, cursos e atividades formativas;
+
+
+VII –
+
+Elaborar material de divulgação do município em parceria com outros órgãos da Administração Públicа;
+
+
+VIII –
+
+Opinar sobre anteprojetos e projetos de lei que relacionem com a cultura e o turismo;
+
+
+IX –
+
+Promover, coordenar e executar a política municipal de turismo, articulando-se com órgãos estaduais, federais e entidades privadas;
+
+
+X –
+
+Inventariar, valorizar e divulgar o potencial turístico do município;
+
+
+XI –
+
+Apoiar o turismo ecológico, rural, religioso e histórico-cultural, promovendo o desenvolvimento sustentável do setor;
+
+
+XII –
+
+Participar de eventos e ações de divulgação turística do município em nível regional, estadual e nacional;
+
+
+XIII –
+
+Captar recursos financeiros e técnicos par ao desenvolvimento das políticas públicas de cultura e turismo;
+
+
+XIV –
+
+Outras atribuições correlatas.
+
+
+Art. 7º.
+
+Fica criado o cargo de Secretário Municipal de Cultura e Turismo, a quem competirá a coordenação da pasta ora instituída.
+
+
+Art. 8º.
+
+São atribuições do Secretário Municipal de Cultura e Turismo:
+
+
+I –
+
+Coordenar, planejar, supervisionar e avaliar todas as atividades, projetos programas desenvolvidos pela Secretaria;
+
+
+II –
+
+Elaborar e executar o planejamento estratégico anual e plurianual das ações culturais e turísticas, alinhando-os ao Plano Plurianual de Ação Governamental - PPAG, à Lei de Diretrizes Orçamentarias - LDO e ao Orçamento Anual;
+
+
+III –
+
+Representar o Município, quando designado, em eventos, reuniões, fóruns e instâncias deliberativas relacionadas à cultura e ao turismo, em âmbito local, regional, estadual, nacional e internacional;
+
+
+IV –
+
+Propor diretrizes, regulamentos e normas internas necessárias à execução das políticas públicas de cultura e turismo;
+
+
+V –
+
+rticular e celebrar convênios, parcerias e termos de cooperação técnica e financeira com órgãos e entidades públicas e privadas para desenvolvimento de ações culturais e turísticas;
+
+
+VI –
+
+Garantir a correta aplicação e gestão dos recursos orçamentários e financeiros destinados à cultura e ao turismo;
+
+
+VII –
+
+Promover a integração das políticas culturais e turísticas com outras áreas da administração municipal, visando ações intersetoriais;
+
+
+VIII –
+
+Estimular, apoiar e acompanhar ações de preservação, promoção e difusão do patrimônio histórico, artístico e cultural do Município;
+
+
+IX –
+
+Incentivar e apoiar iniciativas e eventos que fortaleçam a identidade cultural e promovam o turismo local;
+
+
+X –
+
+Zelar pelo bom funcionamento da estrutura administrativa da Secretaria, assegurando a eficiência dos serviços;
+
+
+XI –
+
+Encaminhar ao Chefe do Poder Executivo relatórios periódicos sobre as atividades, resultados e necessidades da Secretaria;
+
+
+XII –
+
+Exercer outras atribuições correlatas, previstas em lei, regulamento ou delegadas pelo Prefeito Municipal.
+
+
+Art. 9º.
+
+O cargo de Assessor de Turismo - GAC 07, previsto no art. 1º, inciso II, da Lei n° 150, de 17 de dezembro de 2021, com atribuições constantes no Anexo I da referida lei, passa a compor a Secretaria Municipal de Cultura e Turismo, mantendo suas atribuições, carga horária e remuneração atuais.
+
+
+Art. 10.
+
+O cargo de Assessor de Chefe do Departamento de Cultura - GAC 07, com atribuições previstas no art. 3°, inciso XXXV, da Lei nº 141, de 09 de junho de 2020, passa a compor a Secretaria de Cultura e Turismo, mantendo suas atribuições, carga horária e remuneração atuais.
+
+
+Art. 11.
+
+Ficam criados, na estrutura organizacional da Secretaria Municipal de Cultura e Turismo, os seguintes cargos em comissão:
+
+
+I –
+
+Assessor de Cultura:
+
+
+a)
+
+Remuneração: R$ 1.847,97 (um mil oitocentos e quarenta e sete reais e noventa e sete centavos);
+
+
+b)
+
+Requisitos para provimento: Ensino médio completo; experiência mínima de 1 (um) ano em atividades culturais, artísticas ou de gestão de projetos culturais; conhecimento básico de informática;
+
+
+c)
+
+Atribuições: Assessorar o Secretário Municipal de Cultura e Turismo na elaboração e execução de programas, projetos e atividades culturais; apoiar a organização de eventos culturais; manter contato com artistas, grupos e entidades culturais; elaborar relatórios e registros das ações desenvolvidas; propor ações de incentivos e promoção da cultura local; auxiliar na captação de recursos e na divulgação das atividades da Secretaria;
+
+
+d)
+
+Carga horária: Dedicação integral.
+
+
+II –
+
+Chefe do Departamento de Turismo:
+
+
+a)
+
+Remuneração: R$ 2.078,97 (dois mil setenta e oito reais e noventa e sete centavos);
+
+
+b)
+
+Requisitos para provimento: Ensino médio completo; experiência mínima de 1 (um) ano na área de turismo, eventos ou promoções turísticas, desejável conhecimento em marketing e gestão de turismo;
+
+
+c)
+
+Atribuições: Coordenar as ações e políticas públicas de turismo do município; planejar, organizar e executar programas e eventos voltados ao desenvolvimento do turismo; articular parcerias com órgãos públicos e entidades privadas para promoção turística; coordenar o inventário еа divulgação dos atrativos turísticos do município, supervisionar as ações de apoio ao turismo ecológico, rural, religioso e histórico-cultural; elaborar relatórios e propostas de captação de recursos;
+
+
+d)
+
+Carga horária: Dedicação integral.
+
+
+Art. 12.
+
+Com a criação da Secretaria Municipal de Cultura e Turismo - SECTUR, poderá o Poder Executivo, mediante decreto, transpor, remanejar, transferir ou utilizar, total ou parcialmente, as dotações orçamentárias aprovadas na Lei nº 1.607, de 16 de dezembro de 2024, ou em créditos adicionais, em decorrência de extinção, transformação, transferência, incorporação ou desmembramento de órgão e entidades, ou alterações de suas competências ou atribuições, mantida a estrutura programática, conforme definida no art. 23, da Lei nº 1.594, de 03 de julho de 2024, bem como as diretrizes, objetivos e metas estabelecidos no Plano Plurianual de Ação Governamental - PPAG -2022-2025.
+
+
+Parágrafo único
+
+A transposição, o remanejamento e a transferência a que se refere este artigo não poderão resultar em alteração dos valores das programações aprovadas na Lei nº 1.607, de 2024, ou em créditos adicionais, podendo, contudo, haver adequação da classificação institucional e funcional da despesa orçamentária ao novo órgão ou entidade.
+
+
+Art. 13.
+
+O art. 1º, o inciso I do art. 2°, art. 4º, art. 5°, o parágrafo único do art. 8°, o parágrafo único do art. 11, a alínea "a" do art. 12, e o caput do art. 13, todos da Lei nº 1.186 de 24 de maio de 2010, passam a vigorar com a seguinte redação:
+
+
+I –
+
+O art. 1° passa a vigorar com a seguinte redação:
+
+
+II –
+
+O inciso I do art. 2º passa a vigorar com a seguinte redação:
+
+
+III –
+
+O art. 4º passa a vigorar com a seguinte redação:
+
+
+IV –
+
+O art. 5º passa a vigorar com a seguinte redação:
+
+
+V –
+
+O parágrafo único do art. 8º passa a vigorar com a seguinte redação:
+
+
+VI –
+
+O parágrafo único do art. 11 passa a vigorar com a seguinte redação:
+
+
+VII –
+
+A alínea "a" do art. 12 passa a vigorar com a seguinte redação:
+
+
+VIII –
+
+O caput do art. 13 passa a vigorar com a seguinte redação:
+
+
+Art. 14.
+
+As despesas decorrentes da execução desta Lei Complementar correrão por conta de dotações próprias do orçamento vigente, podendo ser suplementadas se necessário.
+
+
+Art. 15.
+
+Ficam revogados o art. 58 e o art. 60 da Lei Complementar n° 051/2008.
+
+
+Art. 16.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+**RUFINO CLOVIS FOLADOR Prefeito Municipal de Buritis**
+
+Ref. PLC nº 006/2025. Autoria: Executivo Municipal. Aprovado Conf. Prop. de Lei Compl. nº 005/2025.
+

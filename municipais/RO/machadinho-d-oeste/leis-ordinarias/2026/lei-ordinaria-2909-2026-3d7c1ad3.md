@@ -1,0 +1,101 @@
+---
+titulo: "LEI MUNICIPAL Nº 2909, DE 07 DE OUTUBRO DE 2026."
+uf: "RO"
+municipio: "MACHADINHO D'OESTE"
+tipo: "Lei Ordinária"
+numero: "2909"
+data: 2026-10-07
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 08/10/2026"
+data_publicacao: 2026-10-08
+codigo_identificador: "3D7C1AD3"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116168_2026-10-07_7a23cc090dcc7de9c9f30eaa8a0ea7df.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 2909, DE 07 DE OUTUBRO DE 2026.
+
+LEI MUNICIPAL Nº 2909, DE 07 DE OUTUBRO DE 2026.
+PLANILHA FINANCEIRA POR TENDÊNCIA DE ARRECADAÇÃO ANEXO I -EXCESSO DE ARRECADAÇÃO CONV. Nº CONV. Nº 979750/2025/MAPA - AQUIS.MATERIAL PERMANENTE.
+RECEITA:
+Iduso:1051
+Grupo/Código: 1.700
+Detalhamento: 3110
+Código de aplicação: 001.134
+Agencia
+Conta Bancária
+Descrição da Conta
+VALOR (R$)
+EXCESSO
+DE
+ARRECADAÇÃO
+CONV.
+Nº
+1831-7
+573249648
+979750/2025/MAPA
+AQUIS.MATERIAL 1203714,47
+PERMANENTE.
+SALDO
+1.203.714,47
+RESTOS
+A
+PAGAR
+NÃO
+0,00
+PROCESSADOS
+TOTAL GERAL
+1.203.714,47
+TENDENCIA DE ARRECADAÇÃO A SER INSERIDO AO ORÇAMENTO DO EXERCÍCIO FINANCEIRO DE 2026, ATRAVÉS DO EXCESSO DE ARRECADAÇÃO ATRAVÉS DO CONV.Nº
+979750/2025/MAPA. , FIRMADO ENTRE O UNIÃO E PREFEITURA MUNICIPAL TENDO COMO CONTRA PARTIDA O VALOR DE R$ 147.560,19(CENTO E QUARENTA E SETE MIL QUINHENTOS E
+SESSENTA REAIS E DEZENOVE CENTAVOS) TOTALIZANDO O VALOR DO CONVÊNIO EM R$ 1.351.274,66 ( UM MILHÃO TREZENTOS E CINQUENTA E UM MIL DUZENTOS E SETENTA E QUATRO
+REAIS E SESSENTA E SEIS CENTAVOS).
+DESPESA:
+Iduso:1051
+Grupo/Código: 1.700
+Detalhamento: 3110
+Código de aplicação: 001.134
+FICHA
+DESCRIÇÃO
+PROJ/ATIV.
+ELEM. DESPESA
+VALOR
+892
+EQUIP.MAT.PERMANENTE
+20.606.0016.1045.0003
+44.90.52.00
+1.203.714,47
+SUB TOTAL
+1.203.714,47
+DESPESA:
+Iduso:0
+Grupo/Código: 1
+Detalhamento: 500
+Código de aplicação: 001.134
+FICHA
+DESCRIÇÃO
+PROJ/ATIV.
+ELEM. DESPESA
+VALOR
+893
+EQUIP.MAT.PERMANENTE
+20.606.0016.1045.0003
+44.90.52.00
+147.560
+SUB TOTAL
+147.560,19
+TOTAL GERAL
+1.351.274,66
+
+Machadinho D'Oeste, 07 de Outubro de 2.026.
+PAULO HENRIQUE DOS SANTOS
+Prefeito Municipal
+Av. Rio de Janeiro, 3098 - Centro - Machadinho D´Oeste/RO CEP: 76.868-000
+Contato: (69) 3581-3723 - Site: www.machadinho.ro.gov.br - CNPJ: 22.855.142/0001-73
+Documento assinado eletronicamente (ICP-BR) por PAULO HENRIQUE DOS SANTOS, PREFEITO MUNICIPAL, em 07/10/2026 às 13:10,
+horário de Machadinho D'Oeste/RO, com fulcro no art. 18 do Decreto nº 3.431 de 06/03/2020.
+A autenticidade deste documento pode ser conferida no site transparencia.machadinho.ro.gov.br, informando o ID 1068610 e o código verificador
+AFA24AC6.
+Publicado por:
+Lara Sara Avaroma Campos

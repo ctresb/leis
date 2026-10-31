@@ -1,0 +1,1339 @@
+---
+titulo: "LEI ORDINÁRIA nº 737, de 22 de dezembro de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "737"
+data: "2009-12-22"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2014-01-27; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/210"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/58/text"
+sha256_fonte: "940914cdc668be72bd28a4d791fd56120383c1af9c89bb76f9d3bca996a1818f"
+sha256_texto: "49f79da39768674bc2096c7d550c9466153e980bb6c6d0737f7cd7f4a200ac94"
+capturado_em_fonte: "2026-10-28T09:25:49.868905-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 737, de 22 de dezembro de 2009
+
+DISPÕE SOBRE ADEQUAÇÃO DO PLANO DE CARREIRA, CARGOS E SALÁRIOS DO MAGISTÉRIO PÚBLICO DO MUNICÍPIO DE CORUMBIARA, FIXA SEUS VALORES DE VENCIMENTOS E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Silvino Alves Boaventura, Prefeito do Município de Corumbiara, Estado de Rondônia, no exercício regular de seu cargo e usando das atribuições que lhes são conferidas por lei,
+
+FAZ SABER, que a Câmara Municipal de Corumbiara aprovou e ela sanciona e promulga a presente;
+
+**LEI:**
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+k)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+l)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+m)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+n)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+o)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+p)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+q)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+r)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+##### Seção X
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+Corumbiara/RO, 22 de Dezembro de 2009.
+
+**SILVINO ALVES BOAVENTURA**  
+Prefeito Municipal
+
+
+## ANEXO I
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+## ANEXO II
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+## ANEXO III
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+
+
+(Revogado)
+
+Revogado pelo Art. 54. - LEI COMPLEMENTAR nº 40, de 29 de outubro de 2013.
+

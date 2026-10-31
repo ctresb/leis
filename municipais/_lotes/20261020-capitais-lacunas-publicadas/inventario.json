@@ -1,0 +1,267 @@
+{
+  "baseline_congelado": "/tmp/constituicao-index-20261020-continuacao.z",
+  "adicional_publicado": "municipais/_lotes/20261020-pacote-final-1967/normas.paths.txt",
+  "limite": "Presença não certifica integralidade/vigência das versões antigas. O Distrito Federal possui Lei Orgânica distrital e pertence à frente estadual/distrital; não duplicar como norma municipal.",
+  "capitais": [
+    {
+      "uf": "AC",
+      "capital": "Rio Branco",
+      "publicados": [],
+      "locais_nao_entregues": [
+        {
+          "path": "municipais/AC/rio-branco/lei-organica/2025/lei-organica-39-2025-sapl-3080.md",
+          "sha256": "6116c415db5832dc97c96dd0e03ab71b273710c80ea50c6591ef940243c8b204",
+          "titulo": "Lei Orgânica-RL nº 39, de 09 de julho de 2025",
+          "data_cadastro": "2025-07-09",
+          "fonte": "https://sapl.riobranco.ac.leg.br/norma/3080",
+          "fonte_texto": "https://sapl.riobranco.ac.leg.br/media/sapl/public/normajuridica/2025/3080/emenda_a_lei_organica_no39_09_de_julho_de_2025.pdf",
+          "versao_texto": "texto integral anexado no SAPL municipal; "
+        },
+        {
+          "path": "municipais/AC/rio-branco/lei-organica/2019/lei-organica-2348-2019-sapl-2870.md",
+          "sha256": "71c4257398f3e49f29702a90a24ebdf7483caaf84817c50d62c5f043aec74f36",
+          "titulo": "Lei Orgânica nº 2.348, de 11 de dezembro de 2019",
+          "data_cadastro": "2019-12-11",
+          "fonte": "https://sapl.riobranco.ac.leg.br/norma/2870",
+          "fonte_texto": "https://sapl.riobranco.ac.leg.br/media/sapl/public/normajuridica/2019/2870/lei_municipal_no2.348_de_11_dezembro_de_2019..pdf",
+          "versao_texto": "texto integral anexado no SAPL municipal; "
+        }
+      ]
+    },
+    {
+      "uf": "AL",
+      "capital": "Maceió",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "AP",
+      "capital": "Macapá",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "AM",
+      "capital": "Manaus",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "BA",
+      "capital": "Salvador",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "CE",
+      "capital": "Fortaleza",
+      "publicados": [
+        {
+          "path": "municipais/CE/fortaleza/lei-organica/2006/lei-organica-1-2006.md",
+          "sha256": "5383b555d6d642eb734c8fbd63444cd4ea789cb8221ccef7a0dcc5adb7f268ef",
+          "titulo": "Lei Orgânica nº 1, de 15 de dezembro de 2006 — Município de Fortaleza",
+          "data_cadastro": "2006-12-15",
+          "fonte": "https://sapl.fortaleza.ce.leg.br/norma/5257",
+          "fonte_texto": "https://sapl.fortaleza.ce.leg.br/ta/44/text",
+          "versao_texto": "compilação marcada no SAPL como atual, vigência a partir de 30/06/2025 dada pela Emenda25/2025; dispositivos desativados excluídos, marcadores de revogação preservados; não certifica atualização jurídica além do snapshot"
+        }
+      ],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "DF",
+      "capital": "Brasília",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "ES",
+      "capital": "Vitória",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "GO",
+      "capital": "Goiânia",
+      "publicados": [
+        {
+          "path": "municipais/GO/goiania/lei-organica/1990/lei-organica-goiania-1990.md",
+          "sha256": "8eb4e264cc9cbdddc14b09b551dc6ff00bcd444306b0d2793a5c4865f1cba762",
+          "titulo": "Lei Orgânica do Município de Goiânia, de 5 de abril de 1990",
+          "data_cadastro": "1990-04-05",
+          "fonte": "https://transparencia.camaragyn.go.gov.br/files/Legislacao-compilada/Lei-Organica-do-Municipio-de-Goiania.htm",
+          "fonte_texto": "https://transparencia.camaragyn.go.gov.br/files/Legislacao-compilada/Lei-Organica-do-Municipio-de-Goiania.htm",
+          "versao_texto": "redação vigente identificada no portal oficial, atualizada até a Emenda88 de16/12/2025, publicada noDOM8693 de05/01/2026; notas de revogação/suspensão preservadas; não certifica atualização além do snapshot"
+        }
+      ],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "MA",
+      "capital": "São Luís",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "MT",
+      "capital": "Cuiabá",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "MS",
+      "capital": "Campo Grande",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "MG",
+      "capital": "Belo Horizonte",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "PA",
+      "capital": "Belém",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "PB",
+      "capital": "João Pessoa",
+      "publicados": [],
+      "locais_nao_entregues": [
+        {
+          "path": "municipais/PB/joao-pessoa/lei-organica/1990/lei-organica-1-1990-sapl-14101.md",
+          "sha256": "7a49a93c53c2f24bb747d90a687854bf78f796863eb240c42d01aee686873e1b",
+          "titulo": "Lei  Orgânica do Município nº 1, de 02 de abril de 1990",
+          "data_cadastro": "1990-04-02",
+          "fonte": "https://sapl.joaopessoa.pb.leg.br/norma/14101",
+          "fonte_texto": "https://sapl.joaopessoa.pb.leg.br/media/sapl/public/normajuridica/1990/14101/lei_organica.pdf",
+          "versao_texto": "texto integral anexado no SAPL municipal; Autor Vereadores da Câmara Municipal"
+        }
+      ]
+    },
+    {
+      "uf": "PR",
+      "capital": "Curitiba",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "PE",
+      "capital": "Recife",
+      "publicados": [
+        {
+          "path": "municipais/PE/recife/lei-organica/1990/lei-organica-recife-1990.md",
+          "sha256": "0de130930f10a559b1f2b8a9f418c3f3c69c1e870eb09c7b799358d53ea418c7",
+          "titulo": "Lei Orgânica do Município do Recife, de 4 de abril de 1990",
+          "data_cadastro": "1990-04-04",
+          "fonte": "https://transparencia.recife.pe.leg.br/institucional/competencias/lei-organica_atualizada-em-08-04-2024.pdf",
+          "fonte_texto": "https://transparencia.recife.pe.leg.br/institucional/competencias/lei-organica_atualizada-em-08-04-2024.pdf/@@download/file",
+          "versao_texto": "compilação oficial atualizada em 08/04/2024, com emendas anexas; não certifica atualização posterior"
+        }
+      ],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "PI",
+      "capital": "Teresina",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "RJ",
+      "capital": "Rio de Janeiro",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "RN",
+      "capital": "Natal",
+      "publicados": [],
+      "locais_nao_entregues": [
+        {
+          "path": "municipais/RN/natal/lei-organica/1990/lei-organica-1-1990-sapl-193.md",
+          "sha256": "96ac2eab1128d6841539bb9771161eb143a4322a6d012d02adaae7fa30984253",
+          "titulo": "LEI ORGÂNICA DO MUNICÍPIO nº 1, de 03 de abril de 1990",
+          "data_cadastro": "1990-04-03",
+          "fonte": "https://sapl.natal.rn.leg.br/norma/193",
+          "fonte_texto": "https://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/1990/193/lei_organica_atualizada.pdf",
+          "versao_texto": "texto integral anexado no SAPL municipal; "
+        }
+      ]
+    },
+    {
+      "uf": "RS",
+      "capital": "Porto Alegre",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "RO",
+      "capital": "Porto Velho",
+      "publicados": [],
+      "locais_nao_entregues": [
+        {
+          "path": "municipais/RO/porto-velho/lei-organica/2026/lei-organica-3389-2026-sapl-28997.md",
+          "sha256": "a6d51b5ea2508f588feb7af3e15bde3164b5308df939a1013379c5b2816c83d6",
+          "titulo": "Lei Orgânica-DL nº 3.389, de 05 de março de 2026",
+          "data_cadastro": "2026-03-05",
+          "fonte": "https://sapl.portovelho.ro.leg.br/norma/28997",
+          "fonte_texto": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/2026/28997/lei_no_3.389_de_05.03.2026.arom.pdf",
+          "versao_texto": "texto integral anexado no SAPL municipal; "
+        },
+        {
+          "path": "municipais/RO/porto-velho/lei-organica/1990/lei-organica-1-1990-sapl-13615.md",
+          "sha256": "21b7b6fde82ec2f4f2fbe58971961369678a26184f0b9c1c2a8611d1a36af793",
+          "titulo": "Lei Orgânica nº 1, de 27 de março de 1990",
+          "data_cadastro": "1990-03-27",
+          "fonte": "https://sapl.portovelho.ro.leg.br/norma/13615",
+          "fonte_texto": "https://sapl.portovelho.ro.leg.br/media/sapl/public/normajuridica/1990/13615/leiorganica_pesquisavel.pdf",
+          "versao_texto": "texto integral anexado no SAPL municipal; ADIN: 0802792-41.2019.8.22.0000 -PJe ( Julgo procedente o pedido, confirmo a liminar concedida e declaro a inconstitucionalidade por vício formal do art. 237 e parágrafos 1° a 6°, desta Lei.)\r\nMemorando 065/2019/ASTEC/SGG\r\n\r\nADIN: 0002860-63.2015.8.22.0000-PJe (Por unanimidade, julgar procedente ação com efeitos ex tunc nos termos do voto do relator.)\r\nOfício: 1701/2018/SGG"
+        }
+      ]
+    },
+    {
+      "uf": "RR",
+      "capital": "Boa Vista",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "SC",
+      "capital": "Florianópolis",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "SP",
+      "capital": "São Paulo",
+      "publicados": [
+        {
+          "path": "municipais/SP/sao-paulo/lei-organica/1990/lei-organica-sao-paulo-1990.md",
+          "sha256": "56ac0e0556af587e4dd5fd0827380048d9d4f3c315bd83629a46b68ca340da3d",
+          "titulo": "Lei Orgânica do Município de São Paulo, de 4 de abril de 1990",
+          "data_cadastro": "1990-04-04",
+          "fonte": "https://www.saopaulo.sp.leg.br/lei-organica/",
+          "fonte_texto": "https://www.saopaulo.sp.leg.br/wp-content/uploads/2022/09/LOMC.pdf",
+          "versao_texto": "compilação oficial, edição 2026 atualizada até a Emenda 44/25; índice remissivo preservado"
+        }
+      ],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "SE",
+      "capital": "Aracaju",
+      "publicados": [],
+      "locais_nao_entregues": []
+    },
+    {
+      "uf": "TO",
+      "capital": "Palmas",
+      "publicados": [],
+      "locais_nao_entregues": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "origem": "disco",
+  "escopo_index": {
+    "alterados_index": 0,
+    "demais_index": 0
+  },
+  "raiz": "/Volumes/ExternalSSD/GitHub/constituicao",
+  "lista": "municipais/_lotes/20261020-tachados-7los-corrigidos/normas.paths.txt",
+  "ibge": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/ibge-municipios.json",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "fonte_ibge": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?orderBy=nome",
+  "regra_alias": "acentos e apóstrofos normalizados para identificar nomes; rota exige nome oficial IBGE",
+  "arquivos": 7,
+  "sapl": 7,
+  "problemas": 6,
+  "detalhes": [
+    {
+      "arquivo": "municipais/MG/campina-verde/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "erro": "hash do corpo diverge do metadado SAPL"
+    },
+    {
+      "arquivo": "municipais/MG/muriae/lei-organica/1990/lei-organica-1-1990-sapl-2.md",
+      "erro": "hash do corpo diverge do metadado SAPL"
+    },
+    {
+      "arquivo": "municipais/MG/rio-pomba/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "erro": "hash do corpo diverge do metadado SAPL"
+    },
+    {
+      "arquivo": "municipais/MG/uruana-de-minas/lei-organica/1997/lei-organica-1-1997-sapl-628.md",
+      "erro": "hash do corpo diverge do metadado SAPL"
+    },
+    {
+      "arquivo": "municipais/RO/sao-francisco-do-guapore/lei-organica/2008/lei-organica-1-2008-sapl-8.md",
+      "erro": "hash do corpo diverge do metadado SAPL"
+    },
+    {
+      "arquivo": "municipais/SP/leme/lei-organica/1990/lei-organica-1-1990-sapl-1.md",
+      "erro": "hash do corpo diverge do metadado SAPL"
+    }
+  ],
+  "avisos": []
+}

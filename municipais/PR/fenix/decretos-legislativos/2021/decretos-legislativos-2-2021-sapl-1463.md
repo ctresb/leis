@@ -1,0 +1,311 @@
+---
+titulo: "Decreto Legislativo-GB nº 2, de 09 de março de 2021"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "2"
+data: "2021-03-09"
+municipio: "Fênix"
+uf: "PR"
+codigo_ibge: "4107702"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fenix.pr.leg.br/norma/1463"
+fonte_texto: "https://sapl.fenix.pr.leg.br/ta/78/text"
+sha256_fonte: "4c8c853c28eeb7be8f31a096db7ae29c3eee8486278e4a8fbb46928da16ce1d4"
+sha256_texto: "2e875f29fce75cf64a36e11208ecfcba27bb93254019af3ec7c0d639fa155e0c"
+capturado_em_fonte: "2026-10-28T10:33:02.640527-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Decreto Legislativo-GB nº 2, de 09 de março de 2021
+
+Decreta medidas restritivas visando o enfretamento decorrente da pandemia da covid-19, conforme decreto do Estado do Paraná nº 7.020 de 05 de março 2021.
+
+
+O Presidente da Câmara Municipal de Fênix, Estado do Paraná, no uso de suas atribuições legais, de acordo com alínea “g” do art. 36 do Regimento Interno e:
+
+
+Considerando o Decreto do Estado do Paraná n° 6.983, de 26 de fevereiro de 2021, que determina medidas restritivas de caráter obrigatório, visando o enfrentamento da emergência de saúde pública decorrente da pandemia da COVID-19;
+
+
+Considerando o Decreto do Estado do Paraná nº 7.020, de 05 de março de 2021, prorroga até as 5 horas do dia 10 de março de 2021 a vigência do Decreto nº 6.983, de 26 de fevereiro de 2021 e adota outras providências.
+
+
+Considerando o Decreto Municipal de Fênix n° 21 de 02 de março de 2021, que declara novas medidas restritivas para o enfrentamento da pandemia decorrente do coronavírus (COVID-19) ao Município e da outras providências, de acordo com a Decreto Estadual 6.983/2021 3 da outras providências.
+
+
+Decreta
+
+
+Art. 1º.
+
+Fica estabelecido a modalidade de deliberação remota por videoconferência nas discussões e votações das matérias legislativas sujeitas à apreciação do Plenário e das Comissões, no âmbito Câmara Municipal de Fênix-PR.
+
+
+§ 1º
+
+As discussões e votações na modalidade de deliberação remota consistem no uso de ferramentas de solução tecnológica para apreciação das matérias legislativas, em áudio e vídeo, e por acesso dos vereadores, agentes públicos e munícipes através da rede mundial de computadores – Internet;
+
+
+§ 2º
+
+A apreciação das matérias legislativas será da modalidade remota no Plenário ou nas Comissões, conforme o caso.
+
+
+§ 3º
+
+Conforme o parágrafo 1º do artigo 20 e artigo 56, ambos do Regimento Interno da Casa, o local de funcionamento do plenário da Câmara Municipal de Fênix deve ser prioritariamente o recinto de seu prédio sede, e somente por motivo de força maior, o Plenário reunir-se-á por videoconferência e acesso remoto dos vereadores, nas seguintes casos:
+
+
+I –
+
+Para evitar o contágio e propagação do vírus COVID-19, e da situação de pandemia internacional declarada pela Organização Mundial da Saúde (OMS); e
+
+
+II –
+
+Em outras situações de calamidade pública e/ou grave risco à saúde pública por doença infectocontagioso e declaradas pelo Poder Público.
+
+
+Art. 2º.
+
+A modalidade na deliberação remota deve possuir sistemas com a funcionalidade de transmitir as sessões pela Internet, em áudio e vídeo, e ser usada em situações que impeçam ou inviabilizem a presença física dos Vereadores nas instalações da Câmara Municipal, ou em outro local.
+
+
+Art. 3º.
+
+O funcionamento da modalidade de deliberação remota compreende o uso dos sistemas de videoconferência, com votação nominal ou eletrônica, sincronizados ou não, que permita a participação do Vereador nos debates e votação das matérias legislativas, compreendendo:
+
+
+I –
+
+Funcionamento em equipamentos de comunicação móvel (aparelho celular, computador, tablet ou notebook) conectados à rede mundial de computadores (Internet);
+
+
+II –
+
+Exigência de requisitos para verificação de presença e participação nas deliberações dos Vereadores pelo Sistema de Apoio ao Processo Legislativo (SAPL);
+
+
+III –
+
+Permissão de acesso simultâneo de todos os vereadores e agentes públicos com conexão na videoconferência;
+
+
+IV –
+
+Transmissão ao vivo pela Internet de todas as reuniões ordinárias, extraordinárias e das comissões permanentes realizadas na modalidade por videoconferência, e também a disponibilidade das gravações na íntegra após o término da respectiva reunião, de maneira a garantir ampla publicidade das reuniões na modalidade por videoconferência.
+
+
+V –
+
+Permissão e controle do tempo para o uso da palavra do Vereadores pelo Presidente da respectiva reunião;
+
+
+VI –
+
+Registro de votação nominal e aberta dos Vereadores, por acesso com login e senha no sistema oficial da Casa denominado SAPL para a votação eletrônica das Proposições;
+
+
+VII –
+
+Disponibilização do resultado nos casos votação eletrônica somente quando houver o seu encerramento.
+
+
+VIII –
+
+Captura de imagem e/ou áudio de todos os parlamentares, no curso das discussões e votações;
+
+
+IX –
+
+Gravação da íntegra dos debates e dos resultados das votações;
+
+
+Art. 4º.
+
+As sessões pela modalidade de deliberação remota serão realizadas preferencialmente as segunda feiras, as 20hs00min para a análise e deliberação de matérias altamente relevantes e urgentes.
+
+
+I –
+
+as sessões pela modalidade de deliberação remota serão públicas, complementadas pela transmissão simultânea dos canais de mídia institucionais com a disponibilização do áudio e do vídeo;
+
+
+II –
+
+ao iniciar a sessão, os Vereadores no exercício do mandato receberão endereço eletrônico e/ou código de acesso para a devida conexão virtual, com o apoio do Setor de Informática da Casa;
+
+
+III –
+
+os registros de presença e de votação serão realizados por meio de chamada nominal e/ou ferramentas de controle eletrônico;
+
+
+IV –
+
+ser conectado o Vereador será identificado pelo seu nome parlamentar;
+
+
+V –
+
+todas as demais disposições aplicadas para o andamento do Processo Legislativo definidos no Regimento Interno da Casa devem ser mantidos, ressalvados aqueles casos definidos nas disposições do presente Decreto Legislativo.
+
+
+VI –
+
+a reunião das comissões permanentes poderá ser realizadas pela modalidade de videoconferência, durante o período de impossibilidade por força maior das reuniões presenciais.
+
+
+Art. 5º.
+
+A sessão pela modalidade de deliberação remota terá a sua pauta definida nos termos do artigo 86 do Regimento Interno da Casa.
+
+
+§ 1º
+
+Somente serão submetidos ao sistema remoto de votação os projetos que estiverem em condições de pauta, instruídos com os pareceres das Comissões.
+
+
+§ 2º
+
+Os avulsos das matérias pautadas na Ordem do Dia deverão ser disponibilizados previamente, por meio eletrônico, com as emendas e os pareceres, conforme o caso.
+
+
+Art. 6º.
+
+Serão permitidas inscrições durante a discussão da matéria da Ordem do Dia, nos termos do Regimento Interno da Casa.
+
+
+§ 1º
+
+Haverá a chamada para o uso da palavra por ordem de inscrição, mediante sinal convencionado pelo presidente da sessão.
+
+
+§ 2º
+
+Não havendo oradores inscritos ou os oradores finalizarem as manifestações, o Presidente dará por encerrada a discussão.
+
+
+Art. 7º.
+
+O sistema pelo qual se dará a votação por meio nominal e/ou virtual fará constar as opções ‘SIM’, ‘NÃO’ e ‘ABSTENÇÃO’.
+
+
+§ 1º
+
+A chamada para a votação nominal na modalidade de deliberação remota será considerada pela chamada do nome do vereador para pedido de manifestação e/ou pelo acesso do sistema utilizado pela Câmara Municipal, em dispositivo previamente cadastrado.
+
+
+§ 2º
+
+Para registrar o voto, o Vereador deverá posicionar-se frente à câmara digital de seu dispositivo para a captura da imagem e áudio, para fins de eventual auditoria.
+
+
+§ 3º
+
+O quórum de votação será apurado apenas para os Vereadores que se acharem conectados e que proferirem seus votos, consignando-se falta aos desconectados, salvo problemas técnicos reconhecido pelo Setor de Informática da Câmara Municipal de Fênix.
+
+
+§ 4º
+
+A conclusão dos votos registrados pelos Vereadores será disponibilizada automaticamente no sítio eletrônico oficial da Câmara Municipal, SAPL.
+
+
+Art. 8º.
+
+Havendo pane no sistema, ou que impossibilite seu funcionamento, o presidente repetirá a chamada nominal para que o Vereador declare seu voto oralmente e em ordem alfabética.
+
+
+Parágrafo único
+
+Reserva-se à Câmara Municipal a adoção de um grupo fechado por aplicativo para a chamada dos Vereadores, em caso de falha do sistema no momento da votação, com a posterior publicidade das votações de maneira auditável.
+
+
+Art. 9º.
+
+As atas das sessões pela modalidade de deliberação remota serão disponibilizadas e enviadas a cada um dos Vereadores, e caso haja necessidade de retificação, o interessado deverá requerer as modificações, cabendo ao presidente a decisão.
+
+
+§ 1º
+
+As atas serão publicadas no sistema oficial da Casa e enviadas para o e-mail oficial de cada vereador.
+
+
+Art. 10.
+
+Caberá ao Vereador:
+
+
+I –
+
+providenciar equipamento compatível para conexão à Rede Mundial de Computadores (Internet), com banda larga que permita qualidade de transmissão e recepção de vídeo;
+
+
+II –
+
+utilizar equipamento que possua dispositivo de câmara frontal habilitada e com acessibilidade remota;
+
+
+III –
+
+acompanhar o e-mail oficial sobre comunicados, links, agendamentos, ou demais mensagens;
+
+
+IV –
+
+manter-se conectado ao dispositivo e ao sistema, sem entregar a outrem, evitando interrupções, enquanto durar a sessão virtual; e
+
+
+V –
+
+acessar o Sistema de Apoio ao Processo Legislativo com seu nome de usuário e senha.
+
+
+Art. 11.
+
+A modalidade de deliberação remota deverá integrar as soluções tecnológicas disponíveis na Câmara Municipal, ou que venham a ser desenvolvidas ou adquiridas, e que será adotada por decisão do Presidente em exercício da respectiva reunião.
+
+
+Art. 12.
+
+Aplica-se às sessões na modalidade de deliberação remota, a disciplina das sessões extraordinárias e ordinárias, no que couber.
+
+
+Art. 13.
+
+O Presidente da Câmara Municipal decidirá sobre os casos omissos.
+
+
+Art. 14.
+
+Caberá ao Setor de Informática da Câmara Municipal disponibilizar número telefônico para suporte aos Vereadores durante as sessões pela modalidade de deliberação remota, e definir os softwares a serem utilizados, os métodos, os acessos e demais requisitos para a regularidade e eficiência das reuniões por videoconferência.
+
+
+Parágrafo único
+
+Todos os vereadores e agentes públicos devem utilizar o fone de ouvido com microfone fornecido pelo Setor de Informática, e adotar demais procedimentos tecnológicos indicados pela área de Tecnologia da Casa.
+
+
+Art. 15.
+
+Durante o período do dia 10 de março de 2021 até o dia 16 de março de 2021, não haverá atendimento ao público na Câmara Municipal, devendo o regime de trabalho presencial dos servidores e empregados públicos ser substituído pelo teletrabalho quando possível.
+
+
+Art. 16.
+
+Excepcionalmente, nos casos em que for necessária a prestação de serviços públicos inadiáveis, impossíveis de serem realizados pelo regime de teletrabalho, o Presidente poderá convocar seus servidores para expediente interno presencial.
+
+
+Art. 16.
+
+Este Decreto entra em vigor na data de sua publicação, podendo ser prorrogado, revogando o Decreto Legislativo nº 01/2021.
+
+
+Fênix/Pr, 09 de março de 2021.
+
+João Cezar Dias Batista  
+Presidente
+

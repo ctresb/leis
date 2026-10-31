@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/anexor22023.pdf da norma Resolução-PLEN nº 2, de 22 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Quadro de Detalhamento da Despesa",
+      "anexo_arquivo": "http://sapl.carmopolisdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/1/anexor22023.pdf",
+      "ano": 2023,
+      "norma": 3
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmopolisdeminas.mg.leg.br/eb9522b4343cd4085c65011c492f60cc3721356f3145aaca60842df3c1018e67.json",
+      "url": "https://sapl.carmopolisdeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.carmopolisdeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1b98038bf92c09ed4ff808660fa21d98b18f914f5891070546cd54f18e37f549",
+      "bytes": 585,
+      "capturado_em": "2026-10-27T22:35:40.324047-03:00"
+    }
+  ]
+}

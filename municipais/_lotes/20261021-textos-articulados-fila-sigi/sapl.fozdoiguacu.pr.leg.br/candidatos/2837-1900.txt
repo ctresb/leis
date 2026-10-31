@@ -1,0 +1,45 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 6.500.000,00 (seis milhões e quinhentos mil reais) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento Geral do Município no valor de R$ 6.500.000,00 (seis milhões e quinhentos mil reais), para reforço de dotações, na forma especificada no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º., na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 15 de julho de 2025.  
+  
+Joaquim Silva e Luna  
+Prefeito Municipal  
+  
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos  
+  
+Eduardo Castanheira Garrido Alves  
+Secretário Municipal de Finanças e Orçamento
+
+
+## Anexo I — CRÉDITO ADICIONAL SUPLEMENTAR
+
+
+<table><tbody><tr><td>Órgão</td><td>04</td><td>SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO E RECURSOS HUMANOS</td><td>VALOR</td></tr><tr><td>Unidade</td><td>04</td><td>DIRETORIA DE RECURSOS HUMANOS</td><td> </td></tr><tr><td>Funcional Programática</td><td>04.122.0030.2011</td><td>Despesas Gerais na Gestão de Pessoas e QPDDO</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.94</td><td>Indenizações e Restituições Trabalhistas</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente ...........</td><td>2.350.000,00</td></tr><tr><td colspan="4">Justificativa: Reforço orçamentário para pagamento de retroativos salariais de servidores referentes aos anos de 2020 e 2021.</td></tr><tr><td>Órgão</td><td>10</td><td>SECRETARIA MUNICIPAL DA SAÚDE</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>FUNDO MUNICIPAL DE SAÚDE</td><td> </td></tr><tr><td>Funcional Programática</td><td>10.302.0570.2095</td><td>Manutenção da Unidade Hospitalar Municipal - HMPGL</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.50.85</td><td>Contrato de Gestão</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente ...........</td><td>1.150.000,00</td></tr><tr><td colspan="4">Justificativa: Adequação orçamentária para recompor o orçamento do Contrato de Gestão do Hospital Municipal.</td></tr><tr><td>Órgão</td><td>15</td><td>SECRETARIA MUNICIPAL DE OBRAS</td><td> </td></tr><tr><td>Unidade</td><td>06</td><td>DIRETORIA DE PRODUÇÃO ASFÁLTICA</td><td> </td></tr><tr><td>Funcional Programática</td><td>15.451.0640.2143</td><td>Usina de Asfalto - Manutenção de Pavimentação Asfáltica e Poliédrica</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.30</td><td>Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente ...........</td><td>3.000.000,00</td></tr><tr><td colspan="4">Justificativa: Reforço orçamentário para aquisição de CBUQ e emulsão para recuperação e manutenção da pavimentação asfáltica.</td></tr><tr><td colspan="3">TOTAL DA SUPLEMENTAÇÃO ..........................</td><td>6.500.000,00</td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO
+
+
+<table><tbody><tr><td>Órgão</td><td>01</td><td>CÂMARA MUNICIPAL</td><td>VALOR</td></tr><tr><td>Unidade</td><td>01</td><td>SETOR POLÍTICO</td><td> </td></tr><tr><td>Funcional Programática</td><td>01.031.0001.1002</td><td>Construção da Nova Sede, Reforma e Ampliação</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente ...</td><td>6.500.000,00</td></tr><tr><td colspan="4">Justificativa: Adequação orçamentária para reforço do orçamento do Município.</td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO ...............................</td><td>6.500.000,00</td></tr></tbody></table>
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

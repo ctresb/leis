@@ -1,0 +1,101 @@
+---
+titulo: "Decreto Legislativo nº 5, de 29 de junho de 1987"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "5"
+data: "1987-06-29"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/2762"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1987/2762/decreto_05-1987.pdf"
+sha256_fonte: "054af012192f59c1835095fbd611ac11bcc768faf10ca87c7846ebcdff13cdd3"
+sha256_texto: "c3ef1472911942a5dd04cac64dc4b305e32924542089af75ee1359777627883f"
+baixado_em: "2026-10-21"
+---
+
+# Decreto Legislativo nº 5, de 29 de junho de 1987
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+DISPOE SOBRE O REAJUSTE SALARIAL DOS SERVIDORES DA CAMARA MUNICIPAL DE IVAI- PORÃ, ESTADO DO PARANA. A PRESIDENTE DA CÂMARA MUNICIPAL DE - IVAIPORÃ, ESTADO DO PARANÁ, USANDO DAS ATRIBUIÇÕES QUE LHE SÃO CONFERIDAS POR
+
+LEI . DECRETA
+
+ART. 1° - DE CONFORMIDADE COM O QUE DISPOE A LEI MUNICIPAL N°618/87, (PRINCIPALMENTE O DISPOSTO NO ARTIGO 7°), DE 16.06,87, PUBLICADA NO ÓRGÃO OFICIAL DO MUNICÍ- PIO - (TRIBUNA DA CIDADE) EM 24,06,87, FICAM MAJO- RADOS EM 20% (VINTE POR CENTO), OS VALORES DOS NI- VEIS E SÍMBOLOS PARA OS CARGOS DE PROVIMENTO EFE- TIVO E EM COMISSAO DA CAMARA MUNICIPAL DE IVAIPO- RA, A SABER:
+
+SÍMBOLOS
+
+CC - 3,.
+
+CC - 4.. 2.748,00
+
+CC - 5.. 3,166,00
+
+CC - 6... 3.539.00
+
+CC - 7.. 3.927,00\*
+
+CC - 8. 4.425.00
+
+CC - 9. 4.702,00
+
+CC -10. 5.055,00
+
+CC -11. 5,492,00
+
+CC -12.. 5,886.00
+
+CC -13.. 6.278.00
+
+CC -14 COCC AN
+
+CONTINUAÇAO=
+
+SIMBOLOS 7,848,00
+
+CC - 15.. 9.416,00
+
+CC -16. CARGOS DE PROVIMENTO EFETIVO
+
+NIVEIS
+
+2,661,00 2. 2.789,00
+
+3. 2.926.00
+
+4. 3.080,00 Cz$ 5.. 3,405,00
+
+6.. 3.744.00 .Cz$ 7.. 4.083,00 .Cz$ 8. 4.354,00
+
+9.. 4.592,00
+
+10.. 4.934,00
+
+11. 5.273,00
+
+12. 5,442,00 .Cz$ 13. 5,850,00 Cz$ 14. 6.225,00
+
+15. 7.312,00
+
+16. 7,858,00
+
+17 . 8.270,00
+
+18. 9.328,00
+
+19. 10.204.00
+
+20. 11.087,00
+
+21. 11,902,00 .Cz$ 22. 12.754.00
+
+23. 13,601,00 .Cz$ 24, 15,304,00 Cz$ 25.
+
+Câmara de Vereadores de Ivaipora FONE: 72•1644
+
+DECRETO LEGISLATIVO N°05/87 - CONTINUAÇÃO -
+
+ART. 2° - REVOGAM-SE AS DISPOSIÇÕES EM CONTRÁRIO, ESTE DE- CRETO ENTRA EM VIGOR NESTA DATA E SEUS EFEITOS RETROAGIRAM AO PRIMEIRO DIA DESTE MÊS. GABINETE DA PRESIDÊNCIA DA CÂMARA MUNICIPAL DE IVAIPORA, AOS VINTE E NOVE DIAS DO MÊS DE JUNHO DO ANO DE MIL, NOVECENTOS E OITENTA E SETE, MARIA DAS GRAÇAS ROCHA DE MORAES PRESIDENTI AUGUSTO MARTINS DE ANDRADE / 1° SECRETÁRIO Publicado na Tribuna da Cidado ag . 07 Dia 24.07.87.
+

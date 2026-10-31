@@ -1,0 +1,420 @@
+---
+titulo: "Lei-PMC nº 3.565, de 21 de dezembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3565"
+data: "2015-12-21"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7065"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4922/text"
+sha256_fonte: "5e09247bdf08e2f761774e3d6ca6cf03b593221badbaf0d817227a7d690c9fce"
+sha256_texto: "e214b5f1827a70b1e870874ff90ac569d7343365edb914214399f8ae5e686991"
+capturado_em_fonte: "2026-10-28T02:11:28.157202-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-PMC nº 3.565, de 21 de dezembro de 2015
+
+ESTABELECE NORMAS PARA IMPLANTAÇÃO DE INFRAESTRUTURA DE TELECOMUNICAÇÕES E ESTAÇÕES TRANSMISSORAS DE RADIOCOMUNICAÇÕES NO MUNICÍPIO DE CONGONHAS
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Prefeito sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei estabelece normas aplicáveis ao processo de licenciamento, instalação e compartilhamento de infraestrutura de redes de telecomunicações no Município de Congonhas.
+
+
+Parágrafo único
+
+Não estão sujeitos aos dispositivos previstos nesta Lei:
+
+
+I –
+
+radares militares e civis, com o propósito de defesa ou controle de tráfego aéreo;
+
+
+II –
+
+radiocomunicadores de uso exclusivo das Polícias Militar e Civil, Guarda Municipal; corpo de bombeiros, Defesa Civil, controle de tráfego, ambulâncias e similares;
+
+
+III –
+
+radiocomunicadores instalados em veículos terrestres, aquáticos ou aéreos;
+
+
+IV –
+
+radioamador, faixa do cidadão;
+
+
+Art. 2º.
+
+Para os fins desta Lei, adotam-se as seguintes definições:
+
+
+I –
+
+compartilhamento de infraestrutura: cessão, a título oneroso, de capacidade excedente da infraestrutura de suporte, para a prestação de serviços de telecomunicações por prestadoras de outros grupos econômicos;
+
+
+II –
+
+estação transmissora de radiocomunicação: conjunto de equipamentos ou aparelhos, dispositivos e demais meios necessários à realização de comunicação, seus acessórios e periféricos que emitem radiofrequências, possibilitando a prestação dos serviços de telecomunicações;
+
+
+III –
+
+infraestrutura de suporte: meios físicos fixos utilizados para dar suporte a redes de telecomunicações, entre os quais postes, torres, mastros, armários, estruturas de superfície e estruturas suspensas;
+
+
+IV –
+
+prestadora: pessoa jurídica que detém concessão, permissão ou autorização para a exploração de serviço de telecomunicações;
+
+
+V –
+
+radiocomunicação: telecomunicação que utiliza frequências radioelétricas não confinadas a fios, cabos ou outros meios físicos; e
+
+
+VI –
+
+rede de telecomunicações: conjunto operacional contínuo de circuitos e equipamentos, incluindo funções de transmissão, comutação, multiplexação ou quaisquer outras indispensáveis à operação de serviços de telecomunicações.
+
+
+Art. 3º.
+
+As estações transmissoras de radiocomunicação, incluindo terminais de usuário, deverão atender aos limites de exposição humana aos campos elétricos, magnéticos ou eletromagnéticos estabelecidos em lei e na regulamentação específica.
+
+
+Art. 4º.
+
+Para a instalação de estação transmissora de radiocomunicação e de infraestrutura de suporte de que trata esta Lei, é necessário obter prévia licença, a ser expedida pela Secretaria de Gestão Urbana.
+
+
+Art. 5º.
+
+O licenciamento ocorrerá em 2 (duas) etapas, sendo primeiramente expedido alvará de instalação, após aprovação do projeto de edificação, e, posteriormente à execução da obra, será expedido alvará de localização e funcionamento.
+
+
+Parágrafo único
+
+Para fins desta Lei, o alvará de localização funcionamento é aquele previsto na Lei de Posturas municipal.
+
+
+Art. 6º.
+
+O requerimento do alvará de instalação deverá ser dirigido à Secretaria de Gestão Urbana, em processo próprio, mediante apresentação de projeto de edificação, acompanhado de Anotação de Responsabilidade Técnica, devidamente assinada pelo profissional competente, e da seguinte documentação:
+
+
+I –
+
+Licença de operação e de funcionamento, expedida pela Agência Nacional de Telecomunicações (ANATEL);
+
+
+II –
+
+Escritura ou Certidão de inteiro teor atualizada do imóvel, expedida pelo Cartório de Registro de Imóveis;
+
+
+III –
+
+Contrato de locação ou outro instrumento legal que permita a utilização do imóvel;
+
+
+IV –
+
+Certidão negativa de tributos municipais, tanto do interessado quanto do imóvel em que irá se instalar o novo equipamento;
+
+
+V –
+
+Relatório de Controle Ambiental (RCA) e Plano de Controle Ambiental (PCA);
+
+
+VI –
+
+Estudo de Impacto de Vizinhança (EIV).
+
+
+§ 1º
+
+O Relatório de Controle Ambiental – RCA - deverá ser elaborado de acordo com as diretrizes a serem estabelecidas pela Diretoria de Meio Ambiente, o qual indicará os impactos ambientais, efetivos ou potenciais, decorrentes da instalação e do funcionamento do empreendimento.
+
+
+§ 2º
+
+O Plano de Controle Ambiental – PCA - conterá os projetos executivos de minimização dos impactos ambientais avaliados no RCA.
+
+
+§ 3º
+
+O RCA e o PCA deverão ser submetidos à Diretoria de Meio Ambiente para análise e parecer e posterior encaminhamento ao Conselho Municipal de Meio Ambiente – CODEMA, para aprovação e licenciamento ambiental da atividade.
+
+
+Art. 7º.
+
+Ao término das instalações será emitido, pela Secretaria de Gestão Urbana, alvará de localização e funcionamento, após requerimento do interessado.
+
+
+§ 1º
+
+Para emissão do alvará, a prestadora deverá apresentar relatório quanto às exigências legais e regulamentares, expedido por entidade competente, atestando a conformidade com os limites a que se refere o art. 3° desta Lei.
+
+
+§ 2º
+
+O prazo de validade do alvará de funcionamento corresponderá ao prazo da licença para operação e funcionamento de rede de telecomunicações, outorgado pela ANATEL.
+
+
+Art. 8º.
+
+A Secretaria de Gestão Urbana deliberará sobre os pedidos de alvará de instalação e de funcionamento no prazo máximo de 60 (sessenta) dias a contar do protocolo do requerimento.
+
+
+Art. 9º.
+
+A Secretaria de Gestão Urbana e a Diretoria de Meio Ambiente, desde que devidamente justificado, poderão exigir esclarecimentos, complementação de informações ou a realização de alterações no projeto original, respeitado o prazo previsto no artigo anterior.
+
+
+Parágrafo único
+
+O prazo a que se refere o artigo anterior ficará suspenso entre a data da notificação da exigência a que se refere o caput deste artigo e a data da apresentação dos esclarecimentos, das informações ou das alterações pela prestadora.
+
+
+Art. 10.
+
+É vedada a instalação de estação transmissora de radiocomunicação e de infraestrutura de suporte de que trata esta Lei em:
+
+
+I –
+
+canteiros centrais das avenidas;
+
+
+II –
+
+vias públicas;
+
+
+III –
+
+imóveis lindeiros a bens tombados;
+
+
+IV –
+
+ambiências históricas.
+
+
+Art. 11.
+
+É vedada a instalação de estação transmissora de radiocomunicação e de infraestrutura de suporte a uma distância mínima de 20 (vinte) metros de:
+
+
+a)
+
+monumentos históricos, mesmo que compreendidos fora da área de ambiências históricas;
+
+
+b)
+
+torres de alta tensão;
+
+
+c)
+
+áreas residenciais;
+
+
+d)
+
+hospitais; e
+
+
+e)
+
+escolas, asilos e creches.
+
+
+Parágrafo único
+
+No caso de posterior funcionamento de Hospitais, Escolas, Asilos e Creches próximos a locais onde já se encontram os equipamentos referidos neste artigo, fica autorizado o funcionamento destes últimos pelo prazo máximo de 4 (quatro) anos, quando deverão ser desativados.
+
+
+Art. 12.
+
+Nos casos previstos nos artigo anterior, os equipamentos já instalados no município de Congonhas, que estiverem em desconformidade com os distanciamentos mínimos, deverão ser removidos no prazo máximo de 4 (quatro) anos a contar da entrada em vigor da presente Lei.
+
+
+Art. 13.
+
+É obrigatório o compartilhamento pelas prestadoras de serviço de telecomunicações de infraestrutura de suporte, conforme previsto em Lei, salvo quando houver justificado motivo técnico.
+
+
+Art. 14.
+
+A instalação de estação transmissora de radiocomunicação e de infraestrutura de suporte em áreas verdes e em áreas ambientais protegidas fica condicionada à autorização pelo CODEMA.
+
+
+Art. 15.
+
+A instalação de estação transmissora de radiocomunicação, bem como de infraestrutura de suporte seguirão as Normas da ABNT relativas à segurança, isolamento e sinalização contendo placas de sinalização de advertência e identificação das operadoras com simbologia padronizada.
+
+
+Art. 16.
+
+As prestadoras deverão instalar seus equipamentos, procurando sempre integrá-los à paisagem existente, observando os seguintes parâmetros:
+
+
+I –
+
+utilização de elementos construtivos e/ou camuflagem, visando minimizar os impactos visuais e a integração ao meio ambiente;
+
+
+II –
+
+implantação de paisagismo da área total onde forem instalados os equipamentos, objetivando a sua urbanização e amenizar o impacto causado pela sua implantação;
+
+
+Art. 17.
+
+A cada 2 (dois) anos, até o dia 31 de Março, ou sempre que ocorrerem quaisquer alterações nas características técnicas de operação do sistema ou a qualquer tempo, a critério da Diretoria de Meio Ambiente, prestadoras deverão apresentar relatório quanto às exigências legais e regulamentares, expedido por entidade competente, atestando a conformidade com os limites a que se referem o art. 3° desta Lei.
+
+
+Art. 18.
+
+Constituem infrações à presente lei:
+
+
+I –
+
+instalar estação transmissora de radiocomunicação e infraestrutura de suporte ou operar rede de telecomunicações sem alvarás de instalação ou de localização e funcionamento;
+
+
+II –
+
+instalar estação transmissora de radiocomunicação e infraestrutura de suporte sem placa de identificação;
+
+
+III –
+
+operar rede de telecomunicações em desacordo com o alvará de funcionamento;
+
+
+IV –
+
+deixar de comunicar, à Diretoria de Meio Ambiente, mudanças nas características operacionais licenciadas do sistema ou de enviar relatório quanto às exigências legais e regulamentares, expedido por entidade competente, atestando a conformidade com os limites a que se refere o art. 3° desta Lei;
+
+
+V –
+
+fornecer às autoridades competentes estudos com informações técnicas inexatas;
+
+
+VI –
+
+deixar de cumprir as notificações e requisições do Poder Público Municipal;
+
+
+VII –
+
+deixar de remover os equipamentos não conformes nos prazos previstos nesta Lei;
+
+
+VIII –
+
+deixar de promover as devidas adequações dos equipamentos já instalados no Município no prazo previsto nesta Lei.
+
+
+Art. 19.
+
+Às infrações tipificadas no artigo anterior aplicam-se as seguintes sanções:
+
+
+I –
+
+advertência;
+
+
+II –
+
+multa de 5.000 UPMC (Unidade Padrão do Município de Congonhas);
+
+
+III –
+
+multa diária de 500 UPMC (Unidade Padrão do Município de Congonhas);
+
+
+IV –
+
+embargo;
+
+
+V –
+
+cassação dos alvarás de instalação e de localização e funcionamento;
+
+
+VI –
+
+interdição.
+
+
+§ 1º
+
+São autoridades competentes para aplicação das penalidades os servidores do Departamento de Fiscalização de obras e posturas municipal e do Departamento de Fiscalização e Monitoramento Ambiental, designados para as atividades de fiscalização, nos assuntos que lhes forem correlatos.
+
+
+§ 2º
+
+A fiscalização e a aplicação das sanções, a cargo do Departamento de Fiscalização de obras e posturas municipal, deverão observar, quanto ao procedimento, as normas para apuração de infrações à Lei de Posturas municipal.
+
+
+§ 3º
+
+A fiscalização e a aplicação das penalidades, a cargo dos órgãos ambientais integrantes do Departamento de Fiscalização e Monitoramento Ambiental, deverão observar as normas para apuração de infrações à Política Municipal de Meio Ambiente.
+
+
+§ 4º
+
+Sem prejuízo das sanções aplicadas, a ANATEL deverá ser comunicada das irregularidades cometidas.
+
+
+Art. 20.
+
+As prestadoras, já em operação no Município de Congonhas, terão um prazo de 180 (cento e oitenta) dias após a publicação desta Lei para adequar as antenas já instaladas à presente norma jurídica, mediante apresentação dos documentos referidos nos artigos 5° e 6°,§1°, desta Lei.
+
+
+Art. 21.
+
+Nos casos omissos desta Lei, deverão ser observadas as Resoluções da ANATEL, bem como deverão ser submetidos ao CODEPLAN e ao CODEMA, para análise em conjunto ou separadamente.
+
+
+Art. 22.
+
+Revogam-se as disposições em contrário, especialmente os artigos 54 a 57 da Lei Municipal nº 3.096, de 5 de julho de 2011.
+
+
+Art. 23.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 21 de dezembro de 2015.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

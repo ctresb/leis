@@ -1,0 +1,451 @@
+{
+  "host": "sapl.setelagoas.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/ato__27.217_-_nomeia_comissao_etica.docx da norma Resolução nº 1.164, de 11 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "COMPOSIÇÃO DOS MEMBROS DA COMISSÃO",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/1/ato__27.217_-_nomeia_comissao_etica.docx",
+      "ano": 2019,
+      "norma": 9224
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/anexo_iv_marinheiro_lc_227.pdf da norma Lei Complementar  nº 227, de 04 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/2/anexo_iv_marinheiro_lc_227.pdf",
+      "ano": 2019,
+      "norma": 9328
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/apa_marinheiro-model_lc_227.pdf da norma Lei Complementar  nº 227, de 04 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/3/apa_marinheiro-model_lc_227.pdf",
+      "ano": 2019,
+      "norma": 9328
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/relatorio_final__apa_marinheiro_30042019_versao_fi_Be0Vlr8.pdf da norma Lei Complementar  nº 227, de 04 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/4/relatorio_final__apa_marinheiro_30042019_versao_fi_Be0Vlr8.pdf",
+      "ano": 2019,
+      "norma": 9328
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo:  da norma Lei Complementar  nº 80, de 04 de setembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "(Art. 57 declarado inconstitucional, conforme decisão proferida pelo Órgão Especial do Tribunal de Justiça do Estado de Minas Gerais, nos autos da Ação Direta de Inconstitucionalidade nº 1.0000.18.089805-8/000)",
+      "anexo_arquivo": null,
+      "ano": 2003,
+      "norma": 5698
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/6/anexo_iv_machado_lc_228.pdf da norma Lei Complementar  nº 228, de 04 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/6/anexo_iv_machado_lc_228.pdf",
+      "ano": 2019,
+      "norma": 9329
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/apa-machado_lc_228.pdf da norma Lei Complementar  nº 228, de 04 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/7/apa-machado_lc_228.pdf",
+      "ano": 2019,
+      "norma": 9329
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/relatorio__apa_machado_300419_lc_228.pdf da norma Lei Complementar  nº 228, de 04 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/8/relatorio__apa_machado_300419_lc_228.pdf",
+      "ano": 2019,
+      "norma": 9329
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/anexo_ldo.pdf da norma Lei  nº 9.076, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/9/anexo_ldo.pdf",
+      "ano": 2020,
+      "norma": 9537
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/10/anexo-lei-8727-2017-sete-lagoas-mg.pdf da norma Lei  nº 8.727, de 26 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/10/anexo-lei-8727-2017-sete-lagoas-mg.pdf",
+      "ano": 2017,
+      "norma": 9627
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/anexo_ppa_unificado_ass_9.155.pdf da norma Lei  nº 9.155, de 06 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2021/11/anexo_ppa_unificado_ass_9.155.pdf",
+      "ano": 2021,
+      "norma": 9628
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/12/9.156_estima_a_receita_e_fixa_despesa.doc da norma Lei  nº 9.156, de 06 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2021/12/9.156_estima_a_receita_e_fixa_despesa.doc",
+      "ano": 2021,
+      "norma": 9629
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/13/anexos___lei_9.222-_ldo_2022-unificado.pdf da norma Lei  nº 9.222, de 23 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2021/13/anexos___lei_9.222-_ldo_2022-unificado.pdf",
+      "ano": 2021,
+      "norma": 9759
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/14/anexos_loa_unificado_assinados_-_9.285_estima_a_receita.pdf da norma Lei  nº 9.285, de 07 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/14/anexos_loa_unificado_assinados_-_9.285_estima_a_receita.pdf",
+      "ano": 2022,
+      "norma": 9873
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/15/anexos_ppa_unificado_assinados_-_9.286_institui_o_plano_p.pdf da norma Lei  nº 9.286, de 07 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/15/anexos_ppa_unificado_assinados_-_9.286_institui_o_plano_p.pdf",
+      "ano": 2022,
+      "norma": 9874
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/16/anexos_ldo_-_lei_n_9.378_de_04_de_agosto_de_2022.pdf da norma Lei  nº 9.378, de 04 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/16/anexos_ldo_-_lei_n_9.378_de_04_de_agosto_de_2022.pdf",
+      "ano": 2022,
+      "norma": 9992
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/lei_complementar_270_1.docx da norma Lei Complementar  nº 270, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/17/lei_complementar_270_1.docx",
+      "ano": 2023,
+      "norma": 10115
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/lei_complementar_270_anexo_iii_nao_remembrados.pdf da norma Lei Complementar  nº 270, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/18/lei_complementar_270_anexo_iii_nao_remembrados.pdf",
+      "ano": 2023,
+      "norma": 10115
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/lei_complementar_270_anexo_iii_remembrados.pdf da norma Lei Complementar  nº 270, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/19/lei_complementar_270_anexo_iii_remembrados.pdf",
+      "ano": 2023,
+      "norma": 10115
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/lei_complementar_270_anexo_iv_-_mapa-geral-sete-lagoas.pdf da norma Lei Complementar  nº 270, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/20/lei_complementar_270_anexo_iv_-_mapa-geral-sete-lagoas.pdf",
+      "ano": 2023,
+      "norma": 10115
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/lei_complementar_270_anexo_v_-_vias.pdf da norma Lei Complementar  nº 270, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/21/lei_complementar_270_anexo_v_-_vias.pdf",
+      "ano": 2023,
+      "norma": 10115
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/22/lei_complementar_270_anexo_vii_memorial_descritivo.pdf da norma Lei Complementar  nº 270, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/22/lei_complementar_270_anexo_vii_memorial_descritivo.pdf",
+      "ano": 2023,
+      "norma": 10115
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/23/lei_complementar_269_anexo_viii_hierarquia_viaria.pdf da norma Lei Complementar  nº 269, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/23/lei_complementar_269_anexo_viii_hierarquia_viaria.pdf",
+      "ano": 2023,
+      "norma": 10116
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/24/lei_complementar_269_anexo_viii_mapa-geral-sete-lagoas.pdf da norma Lei Complementar  nº 269, de 10 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/24/lei_complementar_269_anexo_viii_mapa-geral-sete-lagoas.pdf",
+      "ano": 2023,
+      "norma": 10116
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/25/anexos_lei_9.493_ppa.pdf da norma Lei  nº 9.493, de 16 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/25/anexos_lei_9.493_ppa.pdf",
+      "ano": 2023,
+      "norma": 10124
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/26/anexos_lei_9.494_loa.pdf da norma Lei  nº 9.494, de 16 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/26/anexos_lei_9.494_loa.pdf",
+      "ano": 2023,
+      "norma": 10125
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/28/anexo_lei_9.581.pdf da norma Lei  nº 9.581, de 17 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Assinaturas dos representantes das entidades esportivas",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/28/anexo_lei_9.581.pdf",
+      "ano": 2023,
+      "norma": 10277
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/29/pl_236_anexo_procuradoria.pdf da norma Lei  nº 9.588, de 21 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/29/pl_236_anexo_procuradoria.pdf",
+      "ano": 2023,
+      "norma": 10278
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/30/9.590_anexo.pdf da norma Lei  nº 9.590, de 01 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/30/9.590_anexo.pdf",
+      "ano": 2023,
+      "norma": 10283
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/31/anexos_lei_9.599_1.docx da norma Lei  nº 9.599, de 18 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/31/anexos_lei_9.599_1.docx",
+      "ano": 2023,
+      "norma": 10292
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/32/re__leis.zip da norma Lei Complementar  nº 288, de 17 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/32/re__leis.zip",
+      "ano": 2024,
+      "norma": 10589
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/33/loa_unificada_2024_assinado.pdf da norma Lei  nº 9.761, de 25 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Duilio de Castro Faria",
+                [
+                  "2024-01-26T08:36:02-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/33/loa_unificada_2024_assinado.pdf",
+      "ano": 2024,
+      "norma": 10611
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/34/anexo_ppa_2025_2025_assinado.pdf da norma Lei  nº 9.762, de 25 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Duilio de Castro Faria",
+                [
+                  "2024-01-26T08:36:53-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/34/anexo_ppa_2025_2025_assinado.pdf",
+      "ano": 2024,
+      "norma": 10612
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/35/diario_eletronico_edicao_2721_1.pdf da norma Lei  nº 9.845, de 21 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Sete Lagoas",
+                [
+                  "2024-06-26T17:18:09-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "RETIFICAÇÃO REALIZADA EM 26/06/2024 (ATUAL PRAÇA DELFÍNIOS)",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/35/diario_eletronico_edicao_2721_1.pdf",
+      "ano": 2024,
+      "norma": 10745
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/36/9.908_anexo.pdf da norma Lei  nº 9.909, de 18 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/36/9.908_anexo.pdf",
+      "ano": 2024,
+      "norma": 10803
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/37/anexo_i_red._final_-anexos_unificdiversos.pdf da norma Lei  nº 9.919, de 05 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/37/anexo_i_red._final_-anexos_unificdiversos.pdf",
+      "ano": 2024,
+      "norma": 10813
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/38/anexo_ii.pdf da norma Lei  nº 9.919, de 05 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/38/anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 10813
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/39/anexo_iii.pdf da norma Lei  nº 9.919, de 05 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/39/anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 10813
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/40/10.202_anexos.docx da norma Lei  nº 10.202, de 05 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS  II, III, IV, VI, X e XI",
+      "anexo_arquivo": "http://sapl.setelagoas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/40/10.202_anexos.docx",
+      "ano": 2025,
+      "norma": 11133
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.setelagoas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.setelagoas.mg.leg.br/0ead9f09a5b01d58005be1c97eb2c4cb2d734a5a7f63f8d99a7837ebb1cedb23.json",
+      "sha256": "4deb58b43243b02074c927ddeead7408132b58a3a3b5485f9bca98485792b22a",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.setelagoas.mg.leg.br/0ead9f09a5b01d58005be1c97eb2c4cb2d734a5a7f63f8d99a7837ebb1cedb23.meta.json"
+    }
+  ],
+  "total": 39
+}

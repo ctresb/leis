@@ -1,0 +1,17 @@
+{
+  "lotes": [
+    {
+      "manifesto": "municipais/_lotes/20261020-escala-sapl-0002-decorativos-reuso/lote-0001.json",
+      "sha256_manifesto": "359e64158e3c9e56c8ce3d90e8a865a30ef11faaacf87d5362c225a3464e8c89",
+      "lista": "municipais/_lotes/20261020-escala-sapl-0002-decorativos-reuso/lote-0001.paths.txt",
+      "sha256_lista": "fe87b59259b27ba190e21dbd183e3fbc8e3dd2c7faa39a168c78881286f50be5",
+      "aprovados": 9
+    }
+  ],
+  "aprovados": 9,
+  "retidos": 286,
+  "criterio": "Libera só PDFs já integrais cujas imagens exatas receberam revisão visual.",
+  "sha256_controle_imagens": "15748fdbc68e84b0b42b7ffa75652c0b97eb9a5355ded0b9558a7f689d6f4c67",
+  "sha256_catalogo": "02e3ee8fc7f2dba75f667455f4db4db99dbead9c6f22229ed57d5822bf4050c2",
+  "script_sha256": "17def7e477a31485f466dfbb4debfb8ac3e5cf96f4a6d9be890cb63ef68abae1"
+}

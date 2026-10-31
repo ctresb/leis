@@ -1,0 +1,789 @@
+"Dispõe sobre a criação do Instituto de Tecnologia da Informação e Inovação do Município de Rio Branco - ITEC, e dá outras providências."
+
+
+**O PREFEITO DO MUNICÍPIO DE RIO BRANCO-ACRE**, FAÇO SABER que a Câmara Municipal de Rio Branco - Acre aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DA CRIAÇÃO DO INSTITUTO DE TECNOLOGIA DA INFORMAÇÃO E INOVAÇÃO
+
+
+##### Seção I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica criado o Instituto de Tecnologia da Informação e Inovação do Município de Rio Branco - ITEC, com personalidade jurídica de direito público interno, sob a forma de autarquia, com autonomia administrativa, financeira e patrimonial, vinculado à Secretaria Municipal da Casa Civil, tendo por finalidade:
+
+
+I –
+
+Promover a pesquisa e desenvolvimento da tecnologia da informação, no âmbito da Administração Pública Municipal;
+
+
+II –
+
+Elaborar o Plano Diretor de Tecnologia da Informação da Administração Direta e Indireta do Município;
+
+
+III –
+
+Elaborar projetos e prestar assessoria e consultoria aos órgãos da Administração Direta e Indireta do Município na área de tecnologia da informação e seus assemelhados;
+
+
+IV –
+
+Adquirir bens, contratar serviços de informática e de tecnologia de informação e desenvolvimento de “software";
+
+
+V –
+
+Celebrar convênios, acordos, ajustes e contratos com instituições de ensino, pesquisa ou extensão, públicas ou privadas, visando o fomento e o aprimoramento do uso da tecnologia de informação em prol da administração pública;
+
+
+VI –
+
+Criar e implantar uma política de fortalecimento ao empreendedorismo jovem e incentivar a criação de cooperativas solidárias de empresas de Tecnologia da Informação e Comunicação e Economia Criativa Digital;
+
+
+VII –
+
+Orientar tecnicamente a implantação de projetos dos órgãos da Administração Pública Municipal, que visem ao atendimento de necessidades corporativas que compreendam a utilização de informática e tecnologia da informação, inclusive no que se refere aos sistemas de informações geográficas e de geoprocessamento, serviços eletrônicos governamentais, tratamento de imagens e assemelhados;
+
+
+VIII –
+
+Administrar as bases de dados corporativas, resultantes da integração dos bancos de dados alimentados e geridos pelos órgãos das administrações direta e indireta municipal, com a finalidade de fornecer informações estratégicas para o planejamento a execução das políticas públicas;
+
+
+IX –
+
+Administrar, manter e operar a infraestrutura de comunicações da rede municipal de rádio e fibra ótica, incluindo os equipamentos centralizados e descentralizados, como os servidores corporativos, rádios, switches, além de planejar e coordenar a expansão da rede de forma a suportar tráfego integrado de voz, dados e imagens, para as diversas demandas de comunicações no âmbito da Administração Municipal;
+
+
+X –
+
+Administrar, manter e operar a autoridade certificadora da Administração Municipal, promovendo a adoção, pelos órgãos das Administração Direta e Indireta, de certificados digitais, além de outros mecanismos e procedimentos relacionados à segurança da informação, com vistas a preservar a integridade, a confidencialidade e a disponibilidade dos dados sob a guarda e responsabilidade do Governo Municipal;
+
+
+XI –
+
+Elaborar, Planejar, Coordenar e Executar Projetos e Programas de Modernização da Administração Pública Municipal;
+
+
+XII –
+
+Promover a pesquisa no campo da Tecnologia da Informação de forma a disponibilizar novos métodos e soluções de acesso à informação no âmbito da Administração municipal;
+
+
+XIII –
+
+Consolidar e expandir o governo eletrônico, implementando ou coordenando a implementação e disponibilizando novos serviços eletrônicos à população, por meio da "Internet”, numa visão integrada e sistêmica, junto aos demais órgãos da Administração Pública Municipal;
+
+
+XIV –
+
+Testar e homologar os produtos oferecidos pelo mercado, aos órgãos da Administração Municipal Direta ou Indireta, nas áreas de tecnologia da informação e comunicação;
+
+
+XV –
+
+Desenvolver planos de contingência para os ambientes que envolvam a infraestrutura de comunicação de dados e os equipamentos que dão suporte aos sistemas corporativos da Administração Municipal;
+
+
+XVI –
+
+Prover acesso e serviços de “Internet“;
+
+
+XVII –
+
+Firmar contratos corporativos para os principais itens relativos à tecnologia da informação e comunicação;
+
+
+XVIII –
+
+Desenvolver e manter sistemas de informação;
+
+
+XIX –
+
+Cuidar para que todas as conexões de dados, de qualquer natureza tecnológica, que venham a ser estabelecidas com o Instituto de Tecnologia da Informação e Inovação do Município de Rio Branco, estejam em conformidade com os preceitos constantes da politica de segurança da informação vigente no instituto.
+
+
+Parágrafo único
+
+O Plano Diretor a que se refere o inciso II deste artigo, que norteará as ações do Município na área de tecnologia da informação, será elaborado no primeiro ano de cada mandato, com vigência de 04 (quatro) anos e será submetido ao Comitê Municipal de Modernização Tecnológica, a ser criado, cujo regimento será regulamentado por Decreto do Executivo Municipal.
+
+
+#### CAPÍTULO II — DA ESTRUTURA E DA ADMINISTRAÇÃO DO INSTITUTO
+
+
+Art. 2º.
+
+O Instituto de Tecnologia da informação e Inovação do Município de Rio Branco, terá sua estrutura organizacional assim distribuída, conforme o Anexo I:
+
+
+I –
+
+Órgão de Direção e Técnico:
+
+
+a)
+
+Diretor-Presidente;
+
+
+b)
+
+Diretor Administrativo e Financeiro;
+
+
+c)
+
+Diretor Técnico Operacional;
+
+
+II –
+
+Órgão de Assessoramento e Apoio:
+
+
+a)
+
+Assessoria Jurídica;
+
+
+b)
+
+Assessoria Especial Técnica;
+
+
+c)
+
+Chefia de Gabinete;
+
+
+III –
+
+Órgão de Controle:
+
+
+a)
+
+Controle Interno Administrativo
+
+
+§ 1º
+
+O Diretor-Presidente, mediante Portaria, definirá a estrutura organizacional da Autarquia, mantida a estrutura organizacional básica disposta no Anexo I.
+
+
+§ 2º
+
+A estrutura organizacional complementar da Autarquia, será estabelecida por Portaria do Diretor-Presidente, sendo regida por Regulamento Interno.
+
+
+Art. 3º.
+
+As Gerências e Subgerências das atividades fins deverão ser ocupadas por profissionais da área de tecnologia da informação, de reputação ilibada e reconhecida capacidade e experiência.
+
+
+Parágrafo único
+
+As competências das Gerências e Subgerências serão relacionadas no regulamento do Instituto.
+
+
+Art. 4º.
+
+O Diretor-Presidente do Instituto de Tecnologia da Informação e Inovação do Município de Rio Branco será nomeado pelo Prefeito de Rio Branco, dentre pessoas qualificadas para a função, que possua formação em nível superior ou notório conhecimento na área afim, reputação ilibada e conhecimentos em matéria de Administração Pública, o qual terá as mesmas garantias, prerrogativas, deveres, vedações, subsídios e impedimentos dos Secretários Municipais.
+
+
+Art. 5º.
+
+Os Diretores que compõe a Diretoria Executiva do Instituto de Tecnologia da Informação e Inovação serão nomeados pelo Diretor-Presidente, dentre pessoas reconhecidamente qualificadas para função que possua formação em nível superior ou notório conhecimento na área afim, reputação ilibada e conhecimentos em matéria de Administração Pública, no qual terão a remuneração equivalente e oitenta por cento da remuneração do Diretor-Presidente.
+
+
+Parágrafo único
+
+Não poderão ser designados para os cargos de Diretor, as pessoas que tenham parentesco, até o terceiro grau, consanguíneo ou afim, com o Diretor-Presidente, Prefeito. Secretários Municipais e Vereadores do Município de Rio Branco.
+
+
+##### Seção I — Das Substituições
+
+
+Art. 6º.
+
+O Diretor-Presidente será substituído, nas ausências ou impedimentos, pelo Diretor de Técnico Operacional, sem prejuízo das atribuições deste cargo.
+
+
+§ 1º
+
+O Diretor Técnico Operacional será substituído, nas ausências ou impedimentos temporários, pelo Diretor-Presidente.
+
+
+§ 2º
+
+O Diretor Administrativo e Financeiro será substituído, nas ausências ou impedimentos temporários, pelo Diretor Técnico Operacional, sem prejuízo das atribuições dos respectivos cargos.
+
+
+§ 3º
+
+As substituições a que se refere este artigo somente gerarão direito a remuneração quando superiores a trinta dias.
+
+
+§ 4º
+
+O Diretor-Presidente nos seus impedimento e afastamentos legais será substituído mediante designação do Chefe do Poder Executivo.
+
+
+§ 5º
+
+Os demais Diretores nos seus impedimentos e afastamentos legais serão substituídos mediante Portaria do Diretor-Presidente.
+
+
+##### Seção II — Das Atribuições dos Diretores
+
+
+Art. 7º.
+
+Aos Diretores compete:
+
+
+I –
+
+O planejamento, organização, coordenação, controle e avaliação das atividades do instituto, competindo-lhe especificamente cumprir e fazer cumprir as normas legais, apreciar o regimento interno, regulamento, quadro e escalas salariais de pessoal.
+
+
+II –
+
+Apreciar e aprovar os convênios, acordos, ajustes e contratos; autorizar a locação de serviços;
+
+
+III –
+
+Acompanhar a execução e avaliar os resultados das atividades do Instituto;
+
+
+IV –
+
+Apreciar o relatório anual, balanço e prestação de contas anuais;
+
+
+V –
+
+Elaborar a proposta orçamentária e solucionar os casos omissos no regulamento do órgão, zelando pela segurança de dados e informações.
+
+
+##### Seção III — Das Atribuições do Diretor-Presidente
+
+
+Art. 8º.
+
+Ao Diretor-Presidente compete:
+
+
+I –
+
+Planejar, organizar, coordenar, controlar e gerir os negócios e atividades do órgão, obedecendo às resoluções, diretrizes e normas;
+
+
+II –
+
+Promover a elaboração de planos, programas, metas, objetivos e orçamentos anuais e plurianuais;
+
+
+III –
+
+Estabelecer a lotação de pessoal em cada Diretoria, de acordo com a lotação global;
+
+
+IV –
+
+Firmar convênios, acordos, ajustes, contratos e supervisionar, coordenar e controlar as atividades técnicas e administrativas do Instituto;
+
+
+V –
+
+Autorizar despesas, designar os responsáveis pelas unidades orgânicas e coordenar a elaboração do plano de ação do Instituto;
+
+
+VI –
+
+Coordenar ou delegar programas de modernização da área de Informática ou da Administração Municipal;
+
+
+VII –
+
+Delegar atribuições ao Diretor-Técnico, ao e ao Diretor Administrativo e Financeiro.
+
+
+##### Seção IV — Das Atribuições do Diretor Administrativo e Financeiro
+
+
+Art. 9º.
+
+Ao Diretor Administrativo e Financeiro compete:
+
+
+I –
+
+Dirigir e orientar os serviços administrativos do Instituto;
+
+
+II –
+
+Zelar pela conservação dos bens patrimoniais;
+
+
+III –
+
+Coordenar e controlar as atividades das gerencias que lhe estão subordinados;
+
+
+IV –
+
+Dirigir e orientar a execução dos serviços de natureza financeira;
+
+
+V –
+
+Assinar empenhos, liquidações e ordens de pagamento, movimentar contas bancárias em conjunto com o Diretor-Presidente
+
+
+##### Seção V — Das Atribuições do Diretor Técnico Operacional
+
+
+Art. 10.
+
+Ao Diretor Técnico Operacional compete:
+
+
+I –
+
+Prover, planejar, coordenar, controlar e executar as atividades de processamento de dados do Instituto, segundo diretrizes estabelecidas, visando à consecução dos objetivos delegados pela Presidência;
+
+
+II –
+
+Coordenar e controlar as atividades das frações que lhe estão subordinadas, manter constante atualização com a tecnologia da informação;
+
+
+III –
+
+Planejar, coordenar, controlar e executar as atividades de relacionamento com os clientes do Instituto, segundo diretrizes estabelecidas, visando à consecução dos objetivos delegados pela Presidência;
+
+
+IV –
+
+Executar, no que lhe couber, os contratos de prestação de serviços de processamento de dados, observando as cláusulas contratuais que os regem;
+
+
+V –
+
+Elaborar planos, programas, projetos e orçamentos sob sua coordenação, segundo as normas para tal fim baixadas.
+
+
+##### Seção VI — Das Atribuições da Assessoria Jurídica
+
+
+Art. 11.
+
+São atribuições da Assessoria Jurídica:
+
+
+I –
+
+representar judicial e extrajudicialmente o Instituto de Tecnologia da Informação e Inovação, nos assuntos de sua competência perante tribunais, juizados e outros órgãos;
+
+
+II –
+
+analisar e emitir parecer acerca de minutas de contratos, acordos, convênios, editais de fomento e similares;
+
+
+III –
+
+representar e defender o Instituto de Tecnologia da Informação e Inovação em juízo, nos casos em que esta for autora, ré ou interveniente;
+
+
+IV –
+
+examinar, prévia e conclusivamente:
+
+
+a)
+
+os editais de licitação e dos respectivos contratos ou instrumentos congêneres a serem celebrados e publicados;
+
+
+b)
+
+os atos relativos ao reconhecimento de inexigibilidade ou dispensa de licitação, bem como dos respectivos contratos ou instrumentos congêneres a serem celebrados e publicados:
+
+
+c)
+
+as minutas de convênios, acordos, ajustes e instrumentos congêneres;
+
+
+V –
+
+prestar consultoria na elaboração de projetos de lei, decretos, regulamentos e outros atos administrativos de interesse do Instituto de Tecnologia da Informação e Inovação;
+
+
+VI –
+
+assistir o Diretor-Presidente e demais autoridades do Instituto de Tecnologia da Informação e Inovação no controle interno da legalidade administrativa dos atos e serem por eles praticados ou já efetivados e daqueles oriundos de órgãos e entidades sob sua coordenação jurídica;
+
+
+VII –
+
+analisar e orientar a aplicação de leis e regulamentos no âmbito do interesse do Instituto de Tecnologia da Informação e Inovação para Assuntos Administrativos;
+
+
+VIII –
+
+acompanhar o Diretor-Presidente em suas reuniões internas e externas, quando se fizer necessário, dando-lhe o devido assessoramento jurídico;
+
+
+IX –
+
+acompanhar a vinculação da licitação às prescrições legais que a regem, em todos os seus atos e fases, emitindo parecer sugestivo nos processos licitatórios;
+
+
+X –
+
+zelar pelo cumprimento e observância das orientações emanadas dos órgãos de direção da Procuradoria Jurídica do Município de Rio Branco;
+
+
+XI –
+
+exercer outras competências correlatas;
+
+
+§ 1º
+
+A Assessoria Jurídica no Instituto de Tecnologia da Informação e Inovação será composta por dois Procuradores Jurídicos e será subordinado administrativamente ao Diretor-Presidente.
+
+
+§ 2º
+
+0 Cargo em Comissão de Procurador Jurídico deverá ser ocupado por profissional com diploma, devidamente registrado de conclusão de curso de graduação de nível superior em Direito, fornecido por instituição de ensino superior reconhecida pelo Ministério da Educação e registro na Ordem dos Advogados do Brasil - OAB.
+
+
+##### Seção VII — Das Atribuições da Assessoria Especial Técnica
+
+
+Art. 12.
+
+À Assessoria Especial compete:
+
+
+I –
+
+Prestar assistência à Presidência na elaboração de estudos e pareceres técnicos em assuntos relacionados à tecnologia da informação;
+
+
+II –
+
+Auxiliar na formulação da política de tecnologia da informação e da pesquisa na área de ciência da tecnologia da informação;
+
+
+III –
+
+Coordenar a execução de projetos especiais de interesse do Instituto de Tecnologia da Informação e Inovação, além de outras atividades correlatas.
+
+
+##### Seção VII — Das Atribuições da Chefia de Gabinete
+
+
+Art. 13.
+
+À Chefia de Gabinete compete:
+
+
+I –
+
+Prestar serviços de apoio administrativo ao Diretor-Presidente no controle da tramitação de documentos e correspondências;
+
+
+II –
+
+Manter atualizado o cadastro de autoridades, bem como os arquivos e fichários de publicações referentes às atividades do instituto, além de outras atividades correlatas.
+
+
+III –
+
+coordenar a representação social e política do Diretor-Presidente do Instituto de Tecnologia da Informação e Inovação;
+
+
+IV –
+
+organizar e coordenar o fluxo de informações e as relações públicas de interesse do Diretor-Presidente do Instituto de Tecnologia da Informação e Inovação;
+
+
+V –
+
+processar os despachos e elaborar as sínteses dos assuntos a serem submetidos à determinação do Diretor-Presidente do Instituto de Tecnologia da Informação e Inovação;
+
+
+VI –
+
+providenciar o registro permanente, acompanhamento e controle dos processos e despachos, com a apresentação de relatório anual das atividades desenvolvidas ao Diretor-Presidente do Instituto de Tecnologia da Informação e Inovação;
+
+
+VII –
+
+exercer outras competências correlatas.
+
+
+##### Seção IX — Das Atribuições do Controle Interno Administrativo
+
+
+Art. 14.
+
+O Controle Interno do Instituto de Tecnologia da Informação e Inovação visa à avaliação da gestão dos administradores públicos municipais e da aplicação dos recursos públicos por intermédio da fiscalização contábil, financeira, orçamentária, operacional e patrimonial.
+
+
+Art. 15.
+
+O Controle Interno das atividades do Instituto de Tecnologia da Informação e Inovação deverá ser exercido em todos os órgãos e níveis, compreendendo, particularmente:
+
+
+I –
+
+o acompanhamento dos processos em execução e avaliação permanente dos resultados alcançados, dos benefícios sociais e a verificação das normas gerais que regulam o exercício das atividades;
+
+
+II –
+
+o controle da aplicação dos recursos financeiros e da guarda de documentos contábeis;
+
+
+III –
+
+o controle e guarda de documentos administrativos, dos bens móveis e imóveis de patrimônio do Instituto de Tecnologia da Informação e Inovação.
+
+
+#### CAPÍTULO III — Do Patrimônio e das Receitas
+
+
+Art. 16.
+
+O Patrimônio do Instituto de Tecnologia da Informação e Inovação é constituído de:
+
+
+I –
+
+Bens móveis e imóveis doados pelo Município de Rio Branco, bem como outras doações e contribuições de pessoas físicas ou jurídicas, públicas ou privadas, nacionais ou estrangeiras, observando-se as prescrições legais;
+
+
+II –
+
+Direitos e bens oriundos da execução de contratos, convênios, acordos, ajustes e congêneres;
+
+
+III –
+
+Bens móveis e imóveis que adquirir;
+
+
+IV –
+
+Bens móveis, imóveis, semoventes, instalações e equipamentos oriundos do atual acervo, originários do Departamento de Tecnologia da Informação e Modernização da Gestão, que a partir da aprovação desta lei integram os bens patrimoniais do instituto.
+
+
+Art. 17.
+
+Constituem-se receitas do Instituto de Tecnologia da Informação e Inovação:
+
+
+I –
+
+As dotações orçamentárias fixadas anualmente no orçamento geral do Município;
+
+
+II –
+
+Os recursos decorrentes de lei específica, as receitas operacionais compatíveis com as finalidades do Instituto e inclusive aquelas provenientes de acordos, convênios, contratos, ajustes e congêneres;
+
+
+III –
+
+Doações, legados, auxílios, contribuições, subvenções e benefícios, particulares ou oficiais, concedidos por autoridades nacionais ou estrangeiras, com ou sem condições, observando-se as prescrições legais;
+
+
+IV –
+
+Rendas e aplicações financeiras;
+
+
+V –
+
+Os recursos de capital e os resultados de conversão em espécie, de bens e direitos, inclusive remates, bem como as rendas de bens patrimoniais, aluguéis e outras receitas, segundo a legislação vigente;
+
+
+VI –
+
+Os recursos provenientes de fundos existentes, transferidos a execução ao Instituto ou a serem criados;
+
+
+VII –
+
+Os créditos abertos em seu favor;
+
+
+VIII –
+
+Receitas resultantes da prestação e vendas de serviços de quaisquer naturezas, de produtos derivados de suas atividades e outras rendas que vier auferir.
+
+
+#### CAPÍTULO IV — Do Quadro de Pessoal e Remunerações
+
+
+Art. 18.
+
+Ficam criados 25 cargos em comissão que poderão ser escalonados pelo Diretor-Presidente em simbologia CC-1, CC-2, CC-3, CC-4, CC-5, CC-6, CC-7 e CC-8 com remuneração na forma do Anexo II desta Lei.
+
+
+§ 1º
+
+O provimento dos cargos em comissão criados no caput respeitará o limite mensal de gastos de R$ 106.000,00 (Cento e seis mil reais), não incluídos os encargos sociais e previdenciários correspondentes, e serão reajustados nos mesmos percentuais e na mesma data fixada para o Executivo Municipal.
+
+
+§ 2º
+
+Os cargos comissionados serão providos por ato do Diretor-Presidente.
+
+
+§ 3º
+
+As Assessorias, Gerências e Controle Interno Administrativo terão caráter de Cargos em Comissão - CC, a serem designados pelo Diretor-presidente.
+
+
+§ 4º
+
+O servidor nomeado para o exercício de cargo em comissão cumprirá a jornada de 40 (quarenta) horas semanais.
+
+
+Art. 19.
+
+O servidor efetivo do quadro de pessoal da Administração Pública Municipal Direta, suas Autarquias e Fundações Públicas e da Administração Pública Estadual e Federal, suas Autarquias e Fundações Públicas, quando cedidos com ônus para o órgão cedente, poderão fazer opção de 50% (cinquenta por cento) do valor atribuído ao Cargo em Comissão para o qual foi nomeado.
+
+
+Art. 20.
+
+Ficam criadas 10 Funções Gratificadas de Coordenação no escalonamento FGC-1, com valor de R$1.500.00 (um mil e quinhentos reais) e FGC-2 com valor de R$ 2.000,00 (dois mil reais).
+
+
+§ 1º
+
+As Funções Gratificadas de Coordenação são exclusivamente para o exercício de assessoramento superior, função de direção e projetos especiais e poderão ser ocupadas por servidores efetivos da Administração Pública Municipal Direta, suas Autarquias e Fundações Públicas e da Administração Pública Estadual e Federal, suas Autarquias e Fundações Públicas, quando cedidos com ônus para o órgão cedente.
+
+
+§ 2º
+
+A nomeação para o exercício da Função Gratificada de Coordenação (FGC) dar-se-à por Portaria do Diretor-Presidente.
+
+
+§ 3º
+
+Para efeitos do disposto no §2º, art. 3º da Lei Municipal nº 1.794 de 30 de dezembro de 2009, as Funções Gratificadas de Coordenação (FGC) e Cargos em Comissão - CC, também integrarão o percentual de 30% (trinta por cento), quando concedidas a servidores do quadro efetivo do Município de Rio Branco.
+
+
+Art. 21.
+
+Ficam criadas 15 (quinze) Funções Gratificadas (FG) que poderão ser atribuídas a servidores ocupantes de cargo efetivo da Administração Pública Municipal, quando cedidos com ônus para o órgão cedente, na forma dos percentuais dos incisos deste artigo.
+
+
+I –
+
+FG-1 - 20% (vinte por cento) do valor atribuído ao CC1;
+
+
+II –
+
+FG-2 - 30% (trinta por cento) do valor atribuído ao CC1;
+
+
+III –
+
+FG-3 - 40% (quarenta por cento) do valor atribuído ao CC1;
+
+
+IV –
+
+FG-4 - 60% (sessenta por cento) do valor atribuído ao CC1;
+
+
+Parágrafo único
+
+A nomeação para o exercício da Função Gratificada (FG) dar-se-á por Portaria do Diretor-Presidente.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 22.
+
+Fica o Poder Executivo Municipal autorizado a proceder às alterações necessárias no Plano Plurianual para o período 2014-2017, visando o cumprimento desta Lei.
+
+
+Art. 23.
+
+Fica o Poder Executivo municipal autorizado a abrir crédito adicional especial no valor de R$ 3.971.086,43 (Três milhões, novecentos e setenta e um mil, oitenta e seis reais e quarenta e três centavos) para constituição do Instituto de Tecnologia da Informação e Inovação, conforme disposto no Anexo III.
+
+
+Art. 24.
+
+O Crédito Adicional Especial de que trata o Art. 25 no valor de 3.971.086,43 (Três milhões, novecentos e setenta e um mil, oitenta e seis reais e quarenta e três centavos), será compensado de acordo com anulação das dotações orçamentárias, nos termos do disposto no inciso III do parágrafo 1° do artigo 43 da Lei Federal nº 4.320 de 17 de março de 1964, conforme discriminado a seguir: Órgão 01.006.000.000 - Secretaria Municipal de Casa Civil, Unidade 01.006.003.000 - Departamento de Tecnologia da Informação e Modernização, Programa de Trabalho 01.006.003.04.122.0601.2208.000 - Manutenção do Departamento de Tecnologia da Informação e Modernização da Gestão.
+
+
+Art. 25.
+
+As despesas com a criação e manutenção do Instituto de Tecnologia da Informação e Inovação, bem como o pagamento de pessoal correrão a conta do orçamento do tesouro municipal.
+
+
+Art. 26.
+
+Fica o Instituto de Tecnologia da Informação e Inovação autorizado a firmar convênios com órgãos da Administração Pública Municipal Direta, suas Autarquias e Fundações Públicas e da Administração Pública Estadual e Federal, suas Autarquias e Fundações Públicas, ou órgãos da iniciativa privada, visando atender os objetivos estabelecidos no Art. 1° desta Lei.
+
+
+Art. 27.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Rio Branco-Acre, 07 de abril de 2017, 129° da República, 115º do Tratado de Petrópolis, 56º do Estado do Acre e 134º do Município de Rio Branco.
+
+
+**Marcus Alexandre**
+
+Prefeito de Rio Branco
+
+
+## Anexo I — Estrutura Organizacional Básica
+
+
+<table><tbody><tr><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="2"><p>Diretor-Presidente</p></td><td><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="2"><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="2" rowspan="2"><p> </p></td><td rowspan="2"><p>Assessoria Especial</p><p>Técnica</p></td><td><p> </p></td><td><p> </p></td><td rowspan="2"><p>Chefia de Gabinete</p></td><td colspan="2" rowspan="2"><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="2"><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="2" rowspan="2"><p> </p></td><td rowspan="2"><p>Assessoria Jurídica</p></td><td><p> </p></td><td><p> </p></td><td rowspan="2"><p>Controle Interno</p><p>Administrativo</p></td><td colspan="2" rowspan="2"><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="2"><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="2"><p>Diretor Técnico</p><p>Operacional</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td colspan="2"><p>Diretor Administrativo e</p><p>Financeiro</p></td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+## Anexo II — Tabela Salarial do Quadro de Cargos de Provimento em Comissão
+
+
+<table><tbody><tr><td><div><strong>Referência</strong></div></td><td><div><strong>Valor</strong></div></td><td><div><strong>Descrição</strong></div></td></tr><tr><td><div>CC-1</div></td><td><div>R$ 1.400,00</div></td><td><div>Cargo em Comissão</div></td></tr><tr><td><div>CC-2</div></td><td><div>R$ 2.100,00</div></td><td><div>Cargo em Comissão</div></td></tr><tr><td><div>CC-3</div></td><td><div>R$ 3.100,00</div></td><td><div>Cargo em Comissão</div></td></tr><tr><td><div>CC-4</div></td><td><div>R$ 4.200,00</div></td><td><div>Cargo em Comissão</div></td></tr><tr><td><div>CC-5</div></td><td><div>R$ 5.500,00</div></td><td><div>Cargo em Comissão</div></td></tr><tr><td><div>CC-6</div></td><td><div>R$ 6.100,00</div></td><td><div>Cargo em Comissão</div></td></tr><tr><td><div>CC-7</div></td><td><div>R$ 7.200,00</div></td><td><div>Cargo em Comissão</div></td></tr><tr><td><div>CC-8</div></td><td><div>R$ 8.200,00</div></td><td><div>Cargo em Comissão</div></td></tr></tbody></table>
+
+
+## Anexo III — CRÉDITO ADICIONAL ESPECIAL - ABERTURA/ANULAÇÃO ABERTURA
+
+
+<table><tbody><tr><td colspan="2"><p> <strong>Órgão</strong></p></td><td colspan="2"><p><strong>006</strong></p></td><td colspan="6"><p><strong>SECRETARIA MUNICIPAL DA CASA CIVIL</strong></p></td><td colspan="3" rowspan="2"><p><strong>CRÉDITO ADICIONAL</strong></p><p><strong>ESPECIAL</strong></p></td></tr><tr><td colspan="2"><p> <strong>Unidade</strong></p></td><td colspan="2"><p> <strong>204</strong></p></td><td colspan="6"><p><strong>INSTITUTO DE TECNOLOGIA DA INFORMAÇÃO E INOVAÇÃO DO MUNICÍPIO DE RIO BRANCO</strong></p></td></tr><tr><td><p>FUNÇÃO</p></td><td><p>SUBFUNÇÃO</p></td><td><p>PROGRAMA</p></td><td><p>PROJETO /</p><p>ATIVIDADE</p></td><td><p>DESCRIÇÃO</p></td><td><p>CE</p></td><td><p>GND</p></td><td><p>MA</p></td><td><p>ED</p></td><td><p>FONTE</p></td><td><p>TIPO DA FONTE</p></td><td><p>VALOR – R$</p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Administração</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>122</p></td><td><p> </p></td><td><p> </p></td><td><p>Administração Geral</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>122</p></td><td><p>0601</p></td><td><p> </p></td><td><p>Manutenção da Administração Governamental</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>122</p></td><td><p>0601</p></td><td><p>2252.0000</p></td><td><p>Manutenção do Instituto de Tecnologia da Informação e Inovação do Município de Rio Branco</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>DESPESAS CORRENTES</p></td><td><p>3</p></td><td><p>0</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>PESSOAL E ENCARGOS SOCIAIS</p></td><td><p>3</p></td><td><p>1</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Aplicações Diretas</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Vencimentos e Vantagens Fixas Pessoal Civil</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>11</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>1.000.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Obrigações Patronais</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>13</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>200.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Aplicação Direta Decorrente de Operação entre Órgãos, Fundos e Entidades Integrantes dos Orçamentos Fiscal e da  Seguridade Social</p></td><td><p>3</p></td><td><p>1</p></td><td><p>91</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Obrigações Patronais</p></td><td><p>3</p></td><td><p>1</p></td><td><p>91</p></td><td><p>13</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>150.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>OUTRAS DESPESAS CORRENTES</p></td><td><p>3</p></td><td><p>3</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Aplicações Diretas</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Diárias - Civil</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>14</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>14.250,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Material de Consumo</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>30</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>80.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Passagens e Despesas com Locomoção</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>33</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>15.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Serviço de Consultoria</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>35</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>80.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Outros Serviços de Terceiros –Pessoa Física</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>36</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>8.400,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Outros Serviços de Terceiros –Pessoa Jurídica</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>39</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>1.823.436,43</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>DESPESAS DE CAPITAL</p></td><td><p>4</p></td><td><p>0</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>INVESTIMENTOS</p></td><td><p>4</p></td><td><p>4</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Aplicações Diretas</p></td><td><p>4</p></td><td><p>4</p></td><td><p>90</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Equipamentos e Material Permanente</p></td><td><p>4</p></td><td><p>4</p></td><td><p>90</p></td><td><p>52</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>300.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Equipamentos e Material Permanente</p></td><td><p>4</p></td><td><p>4</p></td><td><p>90</p></td><td><p>52</p></td><td><p>08</p></td><td><p>OP. DE</p><p>CÉDITO</p></td><td><p>300.000,00</p></td><td><p> </p></td></tr><tr><td colspan="11"><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="11"><p><strong>TOTAL GERAL</strong></p></td><td><p><strong>3.971.086,43</strong></p></td><td><p> </p></td></tr></tbody></table>
+
+
+**ANULAÇÃO**
+
+
+<table><tbody><tr><td colspan="2"><p><strong>Órgão</strong></p></td><td colspan="2"><p><strong>006</strong></p></td><td colspan="6"><p><strong>SECRETARIA MUNICIPAL DA CASA CIVIL</strong></p></td><td colspan="3" rowspan="2"><p><strong>CRÉDITO ADICIONAL</strong></p><p><strong>ESPECIAL</strong></p><p><strong>ANULAÇÃO</strong></p></td></tr><tr><td colspan="2"><p><strong>Unidade</strong></p></td><td colspan="2"><p><strong>003</strong></p></td><td colspan="6"><p><strong>DEPARTAMENTO DE TECNOLOGIA DA </strong></p><p><strong>INFORMAÇÃO E MODERNIZAÇÃO DA GESTÃO – </strong></p><p><strong>DT</strong></p></td></tr><tr><td><p>FUNÇÃO</p></td><td><p>SUBFUNÇÃO</p></td><td><p>PROGRAMA</p></td><td><p>PROJETO /</p><p>ATIVIDADE</p></td><td><p>DESCRIÇÃO</p></td><td><p>CE</p></td><td><p>GND</p></td><td><p>MA</p></td><td><p>ED</p></td><td><p>FONTE</p></td><td><p>TIPO DA FONTE</p></td><td><p>VALOR – R$</p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Administração</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>122</p></td><td><p> </p></td><td><p> </p></td><td><p>Administração Geral</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>122</p></td><td><p>0601</p></td><td><p> </p></td><td><p>Manutenção da Administração Governamental</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>04</strong></p></td><td><p><strong>122</strong></p></td><td><p><strong>0601</strong></p></td><td><p><strong>22080000</strong></p></td><td><p><strong>Manutenção do </strong></p><p><strong>Departamento de </strong></p><p><strong>tecnologia da Informação</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>DESPESAS CORRENTES</p></td><td><p>3</p></td><td><p>0</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>OUTRAS DESPESAS</p><p>CORRENTES</p></td><td><p>3</p></td><td><p>3</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Aplicações Diretas</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Diárias Civil</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>14</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>14.250,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Material de Consumo</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>30</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>80.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Passagens e Despesas com</p><p>Locomoção</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>33</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>15.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Serviço de Consultoria</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>35</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>80.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Outros Serviços de Terceiros –</p><p>Pessoa Física</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>36</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>8.400,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Outros Serviços de Terceiros –</p><p>Pessoa Jurídica</p></td><td><p>3</p></td><td><p>3</p></td><td><p>90</p></td><td><p>39</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>1.823.436,43</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>DESPESAS DE CAPITAL</p></td><td><p>4</p></td><td><p>0</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>INVESTIMENTOS</p></td><td><p>4</p></td><td><p>4</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Aplicações Diretas</p></td><td><p>4</p></td><td><p>4</p></td><td><p>90</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Equipamentos e Material Permanente</p></td><td><p>4</p></td><td><p>4</p></td><td><p>90</p></td><td><p>52</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>300.000,00</p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Equipamentos e Material Permanente</p></td><td><p>4</p></td><td><p>4</p></td><td><p>90</p></td><td><p>52</p></td><td><p>08</p></td><td><p>OP.</p><p>CRÉD.</p></td><td><p>300.000,00</p></td><td><p> </p></td></tr><tr><td colspan="11"><p><strong>TOTAL DA UNIDADE</strong></p></td><td><p><strong>2.621.086,43</strong></p></td><td><p> </p></td></tr></tbody></table>
+
+
+<table><tbody><tr><td colspan="2"><p><strong>ÓRGÃO</strong></p></td><td colspan="2"><p><strong>008</strong></p></td><td colspan="6"><p><strong>SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO E </strong></p><p><strong>GESTÃO DE PESSOAS – SEAD</strong></p></td><td colspan="3" rowspan="2"><p><strong>CRÉDITO ADICIONAL</strong></p><p><strong>ESPECIAL</strong></p><p><strong>ANULAÇÃO</strong></p></td></tr><tr><td colspan="2"><p><strong>UNIDADE</strong></p></td><td colspan="2"><p><strong>002</strong></p></td><td colspan="6"><p><strong>MANUTENÇÃO DAS ATIVIDADES DE GESTÃO DE</strong></p><p><strong>PESSOAS - SEAD</strong></p></td></tr><tr><td><p>FUNÇÃO</p></td><td><p>SUBFUNÇÃO</p></td><td><p>PROGRAMA</p></td><td><p>PROJETO /</p><p>ATIVIDADE</p></td><td><p> </p><p> </p><p>DESCRIÇÃO</p></td><td><p>CE</p></td><td><p>GND</p></td><td><p>MA</p></td><td><p>ED</p></td><td><p> </p><p>FONTE</p></td><td><p>TIPO DA FONTE</p></td><td><p>VALOR – R$</p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Administração</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>122</p></td><td><p> </p></td><td><p> </p></td><td><p>Administração Geral</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>122</p></td><td><p>0601</p></td><td><p> </p></td><td><p>Manutenção da Administração</p><p>Governamental</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>04</strong></p></td><td><p><strong>122</strong></p></td><td><p><strong>0601</strong></p></td><td><p><strong>2282.0000</strong></p></td><td><p><strong>Manutenção das Atividades de Pessoal da Casa Civil</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>DESPESAS CORRENTES</p></td><td><p>3</p></td><td><p>0</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>PESSOAL E ENCARGOS SOCIAIS</p></td><td><p>3</p></td><td><p>1</p></td><td><p>00</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Aplicações Diretas</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>00</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>Vencimentos e Vantagens</p><p>Fixas Pessoal Civil</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>11</p></td><td><p>01</p></td><td><p>R.P.</p></td><td><p>1.350.000,00</p></td><td><p> </p></td></tr><tr><td colspan="11"><p><strong>TOTAL DA UNIDADE</strong></p></td><td><p><strong>2.621.086,43</strong></p></td><td><p> </p></td></tr><tr><td colspan="11"><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="11"><p><strong>TOTAL GERAL</strong></p></td><td><p><strong>3.971.086,43</strong></p></td><td><p> </p></td></tr></tbody></table>

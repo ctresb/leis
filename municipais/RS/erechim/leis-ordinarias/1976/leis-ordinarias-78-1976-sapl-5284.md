@@ -1,0 +1,334 @@
+---
+titulo: "Lei Ordinária Municipal Legislativa nº 78, de 23 de novembro de 1976"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal Legislativa"
+numero: "78"
+data: "1976-11-23"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 1986-08-25; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/5284"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/188/text"
+sha256_fonte: "ea0f9a1efcbc4b293e201f77546c925e0d812c892872a081d933bdb5afda7c01"
+sha256_texto: "be06e23d5d8e80951ab96d289cdacc921985ff24596805f852c59a8a7dc51f15"
+capturado_em_fonte: "2026-10-21T04:35:18.705021-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal Legislativa nº 78, de 23 de novembro de 1976
+
+ESTABELECE NOVO CRITÉRIO PARA CONTRATAÇÃO DE PROFESSORES MUNICIPAIS E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE ERECHIM, ESTADO DO RIO GRANDE DO SUL, CUMPRINDO LEGISLAÇÃO EM VIGOR, DECRETA E PROMULGA A SEGUINTE LEI:
+
+
+Art. 1º.
+
+No contrato de professores municipais observará o Executivo as disposições e níveis salariais a que se refere a presente lei e demais disposições legais vigentes.
+
+
+Art. 2º.
+
+Os níveis para a formação do Piano de Carreira dos Professores Municipais com seus respectivos vencimentos, obedecerão a classificação, como segue, conforme a sua titulação:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+I –
+
+NÍVEL 1(um) - Professores com curso primário compIeto, professores com curso fundamental completo; professores com curso de 2º grau, que não seja do magistério e que nao esteja cursando faculdade de educação, ou seja: que não tiverem cursos específicos ao magisterio, sem titulação.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+II –
+
+NÍVEL 2 (Dois) - Professores diplomados em curso de magistério - (Normal de 2º grau) , professores que estiverem cursando faculdade de educação e professores diplomados em faculdade que não seja de educação.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+III –
+
+NÍVEL 3 (TRES) - Professores que tiverem além do curso normal de 2º grau, faculdade de curta duração na área de educação, especIfica ao magistério, ou tenham cursos adicionais, em ambos os casos com habilitação de Iº grau, professores que a partir da promulgação da presente lei contarem com mais de dez (10) anos de magistério municipal, com regência de classe no munícipio de Erechim.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+IV –
+
+NÍVEL 4 (QUATRO) - Os professores que tiverem curso de nível superior específico para o magistério, com licenciatura plena e ou ainda, com cursos de pós graduação
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+Parágrafo único
+
+Os professores integrantes dos nfveis I(um) e 2(dois), deverão empenhar-se, no seu aperfeiçoamento, para alcançar habilitação cada vez maior, o que se dará mediante concurso de títulos, em recrutamento preferencial, para atender as metas propostas pela Educação.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+Art. 3º.
+
+A remuneração nos respectivos níveis estabelecidos no Artigo 2º desta lei, serão conforme a classificaçao a seguir:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+I –
+
+NÍVEL 1 (UM) - Receberão 30% (trinta por cento) de acréscimo nos vencimentos, tendo como base o salário mínlmo vlgente.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+II –
+
+Receberão 2 (dois) salários mínimos de vencimento, os professores enquadrados no NÍVEL 2(dois).
+
+Alteração feita pelo Art. 2º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+III –
+
+Receberão 2,5 (dois e meio) salários mínimos de vencimento, os professores que se enquadrarem no NÍVEL 3 (tres).
+
+Alteração feita pelo Art. 2º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+IV –
+
+Receberão 3 (tres) salários mínlmos de venclmento, os professores que se enquadrarem no NÍVEL 4 (quatro).
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+Parágrafo único
+
+A remuneração ou vencimentos de que trata este artigo, são mensais.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+Art. 4º.
+
+As vantagens dos professores já contratados serão adaptadas os níveis enumerados no art. 2º.
+
+
+Art. 5º.
+
+A remuneração fixada no art. 2º, será reajustada anualmente, por Decreto do Executivo.
+
+
+Art. 6º.
+
+O ingresso no Magistério Público Municipal será, sempre, procedido de concurso público de provas de habilitação, para o nível 1, e provas de títulos, para os níveis 2 e 3.
+
+
+Parágrafo único
+
+O concurso a que se refere o caput do artigo 6º, será procedido, sempre, no primeiro semestre dos anos pares e desde que haja vaga nos quadros do Magistério Municipal.
+
+
+Art. 7º.
+
+A indicação dos professores a serem contratados será feita pela SMEC e homologada pelo Prefeito Municipal, em relação especial obedecida a rigorosa ordem de classificação.
+
+
+Art. 8º.
+
+São condições para a contratação do candidato ao Quadro do Magistério Municipal, além da classificação no concurso, a apresentação dos seguintes documentos:
+
+
+a)
+
+Registro do nascimento ou casamento;
+
+
+b)
+
+Atestado de idoneidade moral, fornecido por uma autoridade educacional;
+
+
+c)
+
+Atestado de sanidade física e mental;
+
+
+d)
+
+Atestado de vacinação antivariólica;
+
+
+e)
+
+Título de Eleitor, comprovando estar em dia com as obrigações eleitorais;
+
+
+f)
+
+Comprovante de quitação com o Serviço Militar;
+
+
+g)
+
+Carteira profissional.
+
+
+Art. 9º.
+
+O tempo de efetivo trabalho na escola, será de 22 (vinte e duas) horas semanais.
+
+
+§ 1º
+
+O professor poderá ser convocado para lecionar em regime integral de trabalho, quando o número de alunos da escola for superior a 40(quarenta).
+
+
+§ 2º
+
+No caso do disposto no parágrafo 1º, o tempo de efetivo exercício será de 44 (quarenta e quatro) horas semanais.
+
+
+§ 3º
+
+O professor perceberá, quando em regime integral de trabalho, um acréscimo de 100%(cem por cento), calculado sobre o salário básico.
+
+
+Art. 10.
+
+Quando a escola tiver de 60 (sessenta) a 100 (cem) alunos, um dos professores será designado, pela SMEC, para Diretor.
+
+
+§ 1º
+
+Poderá o Diretor acumular a direção com regência de classe, se devidamente convocado pela SMEC, caso em que fará jus a uma gratificação de 100% (cem por cento), se em tempo integral, e 50% (cinquenta) por cento se o tempo de serviço diário não se configurar regime especial de tempo de trabalho.
+
+
+§ 2º
+
+Não ocorrendo a acumulação a que se refere o parágrafo anterior, o exercício da direção não importará em direito a qualquer gratificação.
+
+
+§ 3º
+
+No entanto, sendo a matrícula superior a 100 (em) alunos, o Diretor fará jús a gratificação a que se refere o § 1º, independente da regência de classe.
+
+
+Art. 11.
+
+Em escola com mais de 150 (cento e cinquenta) alunos e havendo comprovada necessidade, o Diretor poderá ser auxiliado por um professor regularmente designado pela SMEC.
+
+
+Art. 12.
+
+Só será permitida a cedência de professores municipais para efetiva regência de classe em escolas ou entidades com finalidade assistencial, se a escola ou entidade estiver devidamente reconhecida pela Municipalidade.
+
+
+Art. 13.
+
+Os professores requisitados para servir jundo a SMEC ou outras Secretarias, Departamentos ou Secções da Prefeitura Municipal, em regime de tempo integral de trabalho, perceberão um acréscimo de 100% (cem por cento) sobre os vencimentos ou salário básico.
+
+
+Art. 14.
+
+Cabe à SMEC determinar a escola em que o professor deverá atuar.
+
+
+Art. 15.
+
+O professor será contratado, inicialmente, para prestar serviços em Escolas Rurais.
+
+
+§ 1º
+
+Em casos excepcionais poderá, porém, a SMEC determinar o aproveitamento desde logo, em Escola de Zona Urbana.
+
+
+§ 2º
+
+O professor em exercício em escola de difícil acesso, fará jús a uma gratificação de 10%, calculada sobre o vencimento ou salário básico.
+
+
+Art. 16.
+
+Na remoção do professor de Escola Rural para Escola Urbana, serão considerados os critérios de antiguidade e titulação.
+
+
+Art. 17.
+
+A efetividade do professor será atestada pelo Diretor da Escola.
+
+
+Parágrafo único
+
+Nas escolas unidocentes a efetividade será atestada pelo Presidente do respectivo Círculo de Pais e Mestres.
+
+
+Art. 18.
+
+Toda a falta ao trabalho deverá ser justificada no prazo máximo de 72 (setenta e duas) horas. Quando o motivo for enfermidade, o respectivo atestado médico deverá ser encaminhado dentro desse prazo à SMEC, ultrapassado o mesmo, a justificação dependerá de laudo médico expedido pelo Centro de Saúde.
+
+
+Art. 19.
+
+Poderá o professor, por indicação da SMEC, afastar-se do serviço para realizar cursos de aperfeiçoamento ou participar de seminário ou estágios relacionados com a docência, sem prejuízo de sua efetividade e remuneração.
+
+
+Parágrafo único
+
+Tal dispensa não se verificará, no entanto, quando não ocorrer coincidência de horário.
+
+
+Art. 20.
+
+Os professores em regime estatutário, quer em exercício, quer na inatividade, serão integrados nos níveis desta lei, sem prejuízo da gratificação adicional e dos avanços a que façam jús atualmente.
+
+
+Parágrafo único
+
+Relativamente aos inativos, serão adotados os seguintes critérios: se inativados com 30 (trinta) ou mais anos de regência de classe, serão incluídos, desde logo no nível 3; se inativados com 20=VINTE=anos de regência de classe, no NÍVEL 2, e se inativados com menos de 20=VINTE=anos de regência de classe no município, serão incluídos no nível 1.
+
+
+Art. 21.
+
+Aplicam-se aos professores em regime estatutário e disposto nos artigos 9º, 10º, 11º, 12º, 13º e seus parágrafos, da presente lei.
+
+
+Art. 22.
+
+O Executivo regulamentará a presente lei, por DECRETO, no prazo de 60=SESSENTA=dias, após a sua promulgação.
+
+
+Art. 23.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 24.
+
+A presente Lei entrará em vigor na data de sua publicação, produzindo seus efeitos a partir de 1º de janeiro de 1.987, permanecendo os demais artigos da Lei nº 78/76.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária Municipal Legislativa nº 110, de 25 de agosto de 1986.
+
+
+SALA DAS SESSÕES DA CÂMARA MUNICIPAL DE ERECHIM, 23=VINTE E TRÊS DE NOVEMBRO DE 1976=
+
+ARNO NICOLINI
+
+PRESIDENTE
+
+IBRANTINO R. FLORES
+
+1º SECRETÁRIO
+
+DR. ALBANO AMANDO FREY
+
+2º SECRETÁRIO
+

@@ -1,0 +1,185 @@
+---
+titulo: "Lei Ordinária nº 361-A, de 28 de dezembro de 1995"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "361-A"
+data: "1995-12-28"
+municipio: "São Vicente"
+uf: "SP"
+codigo_ibge: "3551009"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.saovicente.sp.leg.br/norma/2345"
+fonte_texto: "https://sapl.saovicente.sp.leg.br/media/sapl/public/normajuridica/1995/2345/lei_a0361.pdf"
+sha256_fonte: "f96dfe8208df6ff8cf0a791220ab68b2b5d229d306c52d37a80cd1e63e6c3c2b"
+sha256_texto: "c0ee13a2df6c045cd1a1a4f2033c690cae2202168c17884d395066842a0cc3d2"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 361-A, de 28 de dezembro de 1995
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+noxo de lei 10/96-0 • Viçonts 0// 021.91 Prefeitura Municipal de Saio Vicente Estância Balneária
+
+Lei N. 361-A Dispõe sobre o Orçamento do SESASV - Serviço de Saúde de São Vicente para o exercício de 1996 e dá outras providências. Proc. n° 16232/95 LUIZ CARLOS PEDRO, Prefeito do Município de São Vicente - Estância Balneária, usando das atribuições que lhe são conferidas por lei, faz saber que a Câmara Municipal decreta e ele sanciona e promulga a seguinte Lei:
+
+**Art. 1°** - É aprovado o Orçamento do Serviço de Saúde de São Vicente - SESASV para o exercício de 1996, discriminado pelos anexos integrantes desta Lei e que estima a Receita e fixa a Despesa em R$ 18.943.736,00.
+
+**Art. 2°** - A Receita será realizada mediante a arrecadação das contribuições e outras fontes de renda na forma da legislação em vigor e das especificações constantes do anexo 2, de acordo com o seguinte desdobramento: RECEITAS CORRENTES Receitas Patrimoniais R$ 10.000,00 R$ Transferências Correntes 17.766.736,00 Outras Receitas Correntes R$ 10.000,00 RECEITAS DE CAPITAL R$ Transferências de Capital 1.157.000,00 R$ TOTAL DA RECEITA 18.943.736,00
+
+**Art. 3°** - As Despesas serão realizadas na forma dos quadros analíticos constantes do anexo 2, conforme discriminação seguinte: ÓRGÃO DESPESAS
+
+POR ADMINISTRAÇÃO SESASV R$ 9.869.000,00 FUNDES 9.074.736,00 R$
+
+II - DESPESAS POR FUNÇÃO DE GOVERNO Saúde e Saneamento R$ 18.831.505,10 Assistência e Previdência R$ 112.230,90 ẠP.L. 61/95 1oe: 95 16%
+
+Anaxo d S. Vicento Prefeitura Municipal de Sio Vicente Estância Balneária Rei N... 361-A 11. 02
+
+**Art. 4°** - Fica o Superintendente do Serviço de Saúde de São Vicente autorizado a:
+
+I - promover a atualização da Receita estimada e da Despesa fixada a preços de 1° de janeiro de 1996, com base na variação do Índice Geral de Preços de Mercado - IGP-M publicado pela Fundação Getúlio Vargas;
+
+II - proceder à transposição total ou parcial de recursos de um elemento de despesa para outro, dentro do mesmo projeto ou atividade.
+
+**Art. 5°** - Poderá o Superintendente do Serviço de Saúde de São Vicente, mediante autorização legislativa:
+
+I - efetuar operações de crédito por antecipação de receitas, e
+
+II - abrir créditos adicionais suplementares nos termos do art. 7° da Lei n° 4.320/64.
+
+**Art. 6°** - A alienação ou aquisição de bem imóvel e as operações de crédito dependerão de autorização do Prefeito Municipal.
+
+**Art. 7°** - Em caso de extinção do IGP-M, as atualizações monetárias previstas nesta Lei serão feitas com base no índice que venha a substituí- 1o.
+
+**Art. 8°** - Esta Lei entrará em vigor em 1° de janeiro de 1996.
+
+**Art. 9°** - Revogam-se as disposições em contrário. São Vicente, Cidade Monumento da História Pátria, Cellula Mater da Nacionalidade, em 28 de dezembro de 1995. LUIZ CARLOS PEDRO Prefeito Municipal
+
+Anexo S. Vicente\_\_ Câmara Municipal de Sao Vicente
+
+WURUKU AMALITICU M. ! KUNICIPAL ORCAMENTO-PROGRAMA PARA O EXERCICIO DE 1.99% IPREFEITURA S. • YICEMTE
+
+Autarquia: SERYICO DE SAUDE
+
+SAO TICENTE AMEXO 1 DA LEI 4.320/64 IDEMONSTRACAO DA RECEITA E DESPESA SEGUNDO AS CATEGORIAS ECOMONICAS |\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* (Yalores em REAIS) ESPECIFICACAO CODIGO DE ESPECIFICA CA O VALORES YALORES
+
+RECEITA !CLASSIFICACAO DE
+
+PARCIAIS PARCIAIS TOTAIS TOTAIS !CLASSIFICACAO D A 3000 ỌẠRECEITAS CORRENTES -DESPESAS CORRENTES 1.00 --DESPESAS DE CUSTEIO 10,000.00ł 3100 17,469,273.94 1300.00.00 --RECEITA PATRIMOMIAL 112,230.90 --TRAMSFEREMCIAS CORREMTES 3200 1500.00.00 --RECEITA INDUSTRIAL 0.00 205,231.1íęŚ SUDES 1600.00.00 $ỌẠỗỌRECEITA DE SERYICOS 17.581.504.84 0.00 1700.00.00 --TRANSFERENCIAS CORRENTES 17,766,736.00 10,000.00 17,786,736.00 . 1900.00.00 --OUTRAS RECEITAS CORRENTES TOTAL CORREMIE 17.581,504.84 CORRENTE 17,786,736.00 TOTAL 205,231.16 ! 1000 -DESPESAS DE CAPITAL SUPERAVIT ORCAMENTO CORRENTE 1,362,231.16 INYESTIMENTOS J.00.00 -RECEITAS DE CAPITAL 4100 100.00.00 --OPERACOES DE CREDITO IMYERSOES FIMAMCEIRAS 0.00 4200 0.00 0.00 TRAMSFEREMCIAS DE CAPITAL 2200.00.00 --ALIENACAO DE BEMS 4300ł 0.00 Superavit ( se ocorrer) 2400.00.00 -TRANSFERENCIAS DE CAPITAL 1,157,000.00 TOTAL .,157,000.00 2500.00.00 --OUTRAS RECEITAS DE CAPITAL .,362.231.1šę 0.00 TOTAL 1,362,231.16 TOTAL .362,231.: RESUMO DAS RESUMO DESPESAS DAS RECEITAS -DESPESAS CORRENTES 1000.00.00 17,786.736.00 : -RECEITAS CORRENTES 3000 17.581.504.84 -DESPESAS DE CAPITAL -RECEITAS DE CAPITAL 2000.00.00 4000 1.362.231.1 1,157,000.00 TOTAL DAS DESPESAS 18,943,736.00 TOTAL DAS RECEITAS .943.736.00 MÉRICAS PRIMEIRA DAS CAMARA
+
+Camara Municipal de Sao Vicente
+
+' QUADRO AMALITICO M. 2 MUNICIPAL !PREFEITURA
+
+S.VICENTE ORCAMENTO-PROGRAMA PARA O EXERCICIO DE 1.996 MICENTE !Autarquia: S E R Y I C O
+
+SAO
+
+RESUMO GERAL DA RECEITA - ANEXO 2 - LEI 4.320/64 (Yalores em REAIS) \*\*\*\*\*\*\*\*\* \*\*\*\*\*\*\* ESPECIFICACAO
+
+ITEM DESOOBRAMENTO FONTE CAT.ECOMOMICA ! CLASSIFICACAO DA S RECEITAS 99999XXX 9999XXXX 999XXXXX 9XXXXXXX 1000.00.00 -RECEITAS CORRENTES 17,786,736.00 1300.00.00 ¿¿RECEITA PATRIMOMIAL 1320.00.00 RECEITAS DE YALORES MOBILIARIOS 10,000.00 10,000.00 1321.00.00 -Juros de titulos de reada 10,000.0oął 1700.00.00 --TRANSFERENCIAS CORRENTES ---TRANSF. INTRAGOYERMAMENTAIS 1710.00.00 8,722.000.00 1713.00.00 Transf. dos municipios 8,122,000.00 1713.01.00 •-Prefeitura Mun.S.Yicente 8,722,000.00 ---TRAMSFERENCIAS DE COMYENIOS 1760.00.00 9,044,736.00 --Transferencias da Uniao 1761.00.00 9,034,736.00 1761.04.00Í ---Convenio Uniao p/ custeio 400,000.00 1761.05.00 --Convenio SUS-Fundo Estim. Hunicipio 10.000.00 1761.06.00 -Convenio SUS-Gestao Semi-Plena 8,624,736.00 1762.00.00 Transferencias dos Estados 10,000.00 Convenio SUS-transfer.p/casteio 1762.05.00 10,000.00 1900.00.00 --OUTRAS RECEITAS CORRENTES 1920.00.00Ś -INDEMIZACOES E RESTITUICOES 10,000.00 1922.00.00 -Restituicoes 10,000.00ł 10.000.00 -PECEITAS DE CAPITAL 2000.00.00 1,157,000.00 --TRANSFERENCIAS DE CAPITAL 2400.00.00 2410.00.00 ---TRANSFERENCIAS IMTRAGOYERMAMENTAIS 1,157,000.00 -- Transferescia da Umiao 2411.00.00 2411.01.00 -Uniao p/desp.capital 5,000.00 1,157,000.00 2412.00.00 Transferencia do Estado 2412.01.00 -Estado p/desp.capital 5,000.0oł 2413.00.00 -Transferencias dos Municipios --Pref. Mun.S.Yicente p/desp.capital 2413.01.00 1.147,000.00 TOTAIS 18,943,736.00 18,943,736.00 18,943,736.00 18,943,736.00 ''PRIMEIRA CÂMARA DAS AMÉRICAS' MOD. 56
+
+Camara Municipal de Sao Vicente
+
+QUADRO AMALITICO N. 3 !PREFEITURA CIPAL
+
+S. YICEMTE ORCAMENTO-PROGAMA PARA O EXERCICIO DE 1.996 !Autarquia Menicipal: S E R Y I C O
+
+SA O YICENTE - SESASY ESPECIFICACÃO DAS DESPESAS, SEGUNDO A MATUREZA CONSOLIDACÃO DAS \*\*\*\*\*\*\*\*\*\*\*\*\*\*\* UMIDADES ORCAMENTARIAS (Anexo 2 da lei 1.320/64) (Yalores em REAIS)
+
+ESPECIFICACAO SUB-ELEM.DESP. ELEMENTO DESP. GRUPE DE DESP. CAT.ECOMOMICA CLASSIFICACAO DESPES^ D € 999% 999% 99xX 9XXX 3006 -DESPESAS CORRENTES 17,581,504.84 3100 --DESPESAS DE CUSTEIO 17,469,273.9€ 3110 --PESSOA! 8.554.769.10 -Pessoal cir:: 2 1 1 1/: 7,840.077.00 3 1 1 3/ -Obrigacoes Patromais 714,692.10 3120 --MATERIAL DE CONSUKłął 2,259,272.00 3 1 2 0/zł ---Material de consumo/mat. saude 1,410,002.40 3 1 2 0/3 ---Material de consumo/outros materiais 849,269.60 3130 ---SERYICOS DE TERCEIROS E EMCARGOS 6,645,232.84 3 1 3 1/1 Remuneracao de servicos pessoais 186,944.84 3 1 3 2/1 -Outros servicos e encargos 50,000.00 3 1 3 2/3 -Outros servicos e encargos 6,408,288.00 3190 •--DIVERSAS DESPESAS DE CUSTEIO 10,000.00 3 1 9 2/3 --Despesas de exercicios anteriores 10,000.00 --TRANSFEREMCIAS CORRENTES 3200 112,230.90 -¿TRANSFERENCIAS A PESSOAS 3250 75,000.0 3 2 5 1/1 --Inativos 60,000.00 --Salario fanilia 3 2 5 3/1 15,000.00 3280 --PASEP 25,000.00ł 32 8 0/1 Contrib. p/formacao patr.sery.publico 25,000.00 3290 -\*-DIVERSAS TRAMSFEREMCIAS CORRENTES 12,230.90 3 2 9 1/3 --Sentencas judiciarias 12.230.90 4000 DE - CAPITAL -DESPESAS 1,362,?31.16ą 4100 --IMYESTIMENTOS 1,362,231.16 ---OBRAS E IMSIALACOES 900,000.00 -Obras e instalacoes 1 1 0/3 900,000.00 -EQUIPAMENTOS E MATERIAL PERMAMENTE
+
+462,231.16 1 2 0/3 Equipamentos e material permamente 462.271.16 18,943.736.00 18,943,736.00 18,943,736.00 18,943,736.00 'PRIMEIRA CÂMARA DAS AMÉRICAS'
+
+Camara Municipal de Sao Vicente
+
+QUADRO AMALITICO M. 4
+
+CIPAL !PREFEITURA ORCAMENTO-PROGANA PARA O EXERCICIO DE 1.996 !Autarquia Municipal: S E R Y I CO
+
+YICENTE - SESASY SA D ESPECIFICAÇAO DAS DESPESAS, SEGUNDO A MATUREZA UNIDADE ORCAMENTARIA ....... 11 - SESASY (Anexo 2 da lei 4.320/64) (Yalores em REAIS)
+
+ESPECIFICACAI ELEMENTO DESP. SUB-ELEM.DESP. GRUPO DE DESP. CRI.ECOMOMICA 999% DA CLASSIFICACÃO
+
+99XX 999% 9XXX 3000 -DESPESAS CORREMTES 8,722,000.00 3100 --DESPESAS DE CUSTEIO 8,609,769.10 3110 ---PESSOAL 8,554,769.10 3 1 1 1.01/1------Pessoal civil 7,840,077.00 3 1 1 3/1 -----Obrigacoes Patronais 714,692.10 3120 ---MATERIAL DE CONSUMO 10,000.0îŚ 3 1 2 0/2/ -----Material de conswao/mat. saude 5,000.0îÍ 3120/3 •---Material de consvmo/outros materiais 5,000.0ОîŘš 3130 ---SERVICOS DE TERCEIROS E ENCARGOS 40,000.0îîŚ ---Remuneracao de servicos pessoais 31 3 1/1 20,000.0îîŚ --Outros servicos e encargos 3 1 3 21 10,000.00 31 3 2/3 --Outros servicos e encargos 10,000.0oął ---DIYERSAS DESPESAS DE CUSTEIO 3190 5,000.00 3 1 9 2/3 ---Despesas de exercicios anteriores 5,000.00 3200 --TRANSFERENCIAS CORRENTES 112,230.90 3250 ---TRANSFERENCIAS A PESSOAS 75,000.00 32 5 1/1 -----Inativos 50,000.00 -----Salario fanilia 32 5 3/1 15,000.0îŘ --PA SEP 25,000.00 3280 3 2 8 0/1 ---Contrib. p/formacao patr.sery.publico 25,000.00 3290 --DIVERSAS TRANSFERENCIAS CORRENTES 12,230.90 3 2 9 1/3 12,230.90 ---Sentencas judiciarias. -DESTESAS \_DE 4000 CAP 1,147,000.00 4100 --INESTIMEMTOS 1,14/,000.00ęź --OBRAS E INSTALACCES 800.000.00 --Obras e instalacoes 4 1 1 0/3 800.000.00 --EQUIPAMENTOS E MATERIAL PERMAMENTE
+
+347,000.00 -Equipamentos e material permanente 347,000.0îŚ 1 1 2 03 TOTAIS 9,869,000.00Ś 9.869.000.00 9,869,000.00 9.869.000.00 % PRIMEIRA CÂMARA DAS AMÉRICAS'›
+
+Camara Municipal de São Vicente
+
+QUADRO AMALITICO M. 5 PREFE
+
+ORCAMENTO-PROGAXA PARA O EXERCICIO DE 1.996 ia Municipal: S E R'
+
+SAO VICENTE
+
+ESPECIFICACAO DAS DESPESAS, SEGUNDO A MATUREZA UNIDADE ORCAMENTARIA \*\*\*\*\*\*\*\*\*\*\* 12 - FUMO ES (Anexo 2 da lei 4.320/64) {Valores em REAIS)
+
+ESPECIFICACAO SUB-ELEM.DESP. ELEMENTO DESP. GRUPO DE DESP. CAT. ECOMONICA CLASSIFICACAO
+
+DA 999% 999% 991X 9XXX -DESPESAS 300•0 CORRENTES 8,859,504.84 --DESPESAS DE CUSTEIO 3100 8,859,504.84 ! 311 0 ---PESSOAL 0.00 : 3 1 1 1/1 ------Pessoal civil 0.00 ! 3 1 1 J/1 ------Obrigacoes patronais 0.00 ---MATERIAL DE CONSUMO
+
+2,249,272.00 ------Material de consumo/mat. saude 0 1 2 0/2 1,405,002.10 3 1 2 0/3 ----Material de consumo/outros materiais 844,269.60 --SERVICOS DE TERCEIROS E ENCARGOS 3130 6,605,232.84 3 1 3 1/1 ------Remuseracao de servicos pessoais 266,944.84 ------Outros servicos e encargos ! 3132/1 40,000.0ОęîŚ 3 1 3 2/3 ----Outros servicos e encargośł 6,398,288.00 3190 ---DIVERSAS DESPESAS DE CUSTEIO 5,000.00 3 1 9 2/3 -----Despesas de exercicios anteriores 5,000.00 3200 --TRANSFERENCIAS CORRENTES 0.00 3250 ---TRANSFEREMCIAS A PESSOAS 0.00 3251/1 -----Imativos 0.00 3 2 5 3/1 ------Salario familia 0.00 1280 ---PAS EP 0.00 1 2 8 0/1 ----Contrib. p/formacao patr.serv.publico 0.00 --DIFERSAS TRANSFEREMCIAS CORRENTES 3290 0.00 3 2 9 1/3 -----Sertencas judiciarias 0.00 -DESPESAS 4000
+
+CAPITAL 215,231.16 --IMPESTIMENTOS 1100 215,231.16 --OBRAS E INSTALACOES 100,000.00 •--Obras e instalacões 1 0/3 100.000.00 -EQUIPAMENTOS E MATERIAL PERMAMENTE 115,231.16 -Equipamentos e material permanente 2 0/3 115,231.1ęŚ TOTAIS 9,074,736.00 9.074.736.00 ,0/4./56.00 MO0.55 PRIMEIRA CÂMARA DAS AMÉRICAS''
+
+Câmara Municipal de Sao Vicente
+
+QUADRO AMALITICO M. 6 !PREFEI
+
+S. YICEMTI ORCAMENTO-PROGRAMA PARA O EXERCICIO DE 1.996 !Autarquia: $ E R1
+
+SAO ICENTE
+
+!SUMARIO GERAL DA RECEITA POR FONTES E DA DESPESA POR FUNCAO ADMIMISTRATIVA (Valores em REAIS)
+
+ESPECIFICACAO
+
+ESPECIFICACAO CLASSIFICACAO D A RECEITA VALOR !CLASSIFICACAO O A
+
+YALOR -RECEITAS CORREN.: 1000.00.0: 0.00 LEGILATIY: 0.00 300.00.0i --RECEITA PATRIMONIA. 10,000.00.
+
+JUDICIARIA 0.00 1500.00.00 --RECEITA IMOUSTRIAL 0.00 ! ADMIMISTRACAO E PLAMEJAMENTO 1600.00.00łł --RECEITA DE SERYICąłą 0.00 !
+
+AGRICULTURA 0.00 : --TRAMSFEREMCIAS CORREMTES 1700.00.00 17,766,736.00 !
+
+COMUMICACOES 0.00 --OUTRAS RECEITAS CORREMTES 1900.00.00 10,000.00 DEFESA MACIONAL E SEGURANCA PUBLICA DESEMYOLYIMENTO REGIONAL 0.00 EDUCACAO E CULTURA EMERGIA E RECURSOS MIMERAIS 0.00 HABITACAO E BABANISMO 0.80 -RECEITAS DE CAPITAL 2000.00.00łą INDUSTRIA, COMERCIO E SERVICOS 0.00 2100.00.00 --OPERACÕES DE CREDITO 0.00 !
+
+RELACOES EXTERIORES 0.00 --ALIENACAO DE BENS 2200.00.00 0.00
+
+SAUDE E SAMEANENTO 18,831,505.10 ! 2100.00.00 --TRAMSFERENCIAS DE CAPITAL 1,157,000.02
+
+TRABALHO 0.00 : 2500.00.00 --OUTRAS RECEITAS DE CAPITAL 0.00
+
+ASSISTEMCIA E PREVIDENCIA 112,230.90
+
+TRAMSPORTE 0.00 RESERVA DE CONTIMGENCIA 0.00 : PRIMEIRA CÂMARA DAS AMÉRICAS
+
+Municipal de Sao Vicente Câmara:
+
+QUADRO ANALITICO M. 7
+
+ORCAMENTO-PROGRAMA PARA O EXERCICIO DE 1.996
+
+VICENTE SA O Q E
+
+TABELA EXPLICATIYA DA EVOLUCAO DA RECEITA E DESPESA (Yalores em REAIS) A HO RECEITA • ANO YALOR
+
+VALOR 9 1 RECEITA ARRECADADA 1,790,370,046.16 DESPESA REALIZADA 2,392,276,196.26 RECEITA ARRECADADA 18,623,427,836.69 : 9 2 DESPESA REALIZADA 25,078,050,880.12 1993 RECEITA ARRECADADA 405,702,065.47 9 9 3 DESPESA REALIZADA 501,748,286.65 1 9 9 4 RECEITA FIXADA PARA O EXERCICIO 310,321,184.00 DESPESA FIXADA PARA O EXERCICIO 310,321,184.00 1 9 9 5 RECEITA PREYISTA PARA 1995 13,262,276.77 ! 1 9 9 5 DESPESA PREYISTA PARA 1995 13,262,276.77 ! ! 1 9 9 6 RECEITA PREYISTA PARA 1996 18,943,736.00 : 9 6 DESPESA PREVISTA PARA 1996 18,943,756.00 "PRIMEIRA CÂMARA DAS AMÉRICAS'
+
+Municipal de Tão Vicente Bâmara A
+
+QUADRO AMALITICO M. 8 ORCAMENTO-PROGRAMA PARA O EXERCICIO DE 1.996
+
+!PREFEITURA 'Autarquia Manicipal: S E R Y I C O O E D E SA O
+
+YICENTE POR FUNCAO DE GOYERMO
+
+\*\*
+
+\*\*\*\*\*\*\* .....\*\* (Valores em REAIS]
+
+- DESPESA
+
+REALIZADA: 1993 FIXADA: 1994 PREYISTA: 1995. PREYISTA: 199łął REALIZADA: 199źîŚł FUNCAO DE GOYERNO CODIGO 489,134,236.23 13,152,758.38 306,458,421.90 24,832,409,751.12 18,831,505.10 13.00.000.00 SAUDE E SANEAMENTO 109,518.39 3,862,762.10 112,230.90 15,614,050.42 443,641,129.00 ! 15.00.000.00 ASSISTENCIA E PREYIDEMCIA 504,748,286.65 310,321,184.00 25,078,050,880.12 13,262,276.77 18,943,736.00: + PRIMEIRA CÂMARA DAS AMÉRICAS' MOD. 58
+

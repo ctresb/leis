@@ -1,0 +1,29 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.240, de 27 de dezembro de 2024, a fim de proceder as adequações orçamentárias no exercício 2025;
+
+Considerando o Ofício n° 033/2025/DEAD/GAB/SMPDC, de 30 de outubro de 2025, pelo qual a Superintendência Municipal de Proteção e Defesa Civil - SMPDC solicita movimentação de recursos para cobertura de despesas com diárias para participação de servidor no 2º Ciclo do Indicador de Capacidade Municipal (ICM) em Proteção e Defesa Civil, a ser realizado nos dias 06 e 07 de novembro de 2025,
+
+**DECRETA:**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 20.000,00 (vinte mil reais).
+
+**Art. 2º** - Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei n.º 3.193, de 27 de junho de 2024 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>02.00 – SECRETARIA DE GOVERNO - SGOV</strong></td></tr><tr><td colspan="7"><strong>02.91 – SUPERINTENDÊNCIA MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL - SMPDC</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DA DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>02.91.04.122.293.2.819</td><td>Manutenção das Atividades do Departamento de Defesa Civil</td><td>FIS</td><td>3.3.90.33</td><td>1.500.0000.0000.0000</td><td>20.000,00</td><td> -</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>20.000,00</strong></td><td><strong>- </strong></td></tr><tr><td colspan="7"><strong>02.00 – SECRETARIA GERAL DE GOVERNO - SGG</strong></td></tr><tr><td colspan="7"><strong>02.71 –  SUPERINTENDÊNCIA MUNICIPAL DE DISTRITOS - SMD</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>  NATUREZA DA DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>02.71.04.122.286.2.692</td><td>Manutenção das sedes administrativas</td><td>FIS</td><td>3.3.90.33</td><td>1.500.0000.0000.0000</td><td>-</td><td>20.000,00</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>20.000,00</strong></td><td><strong>20.000,00</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>20.000,00</strong></td><td><strong>20.000,00</strong></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 20.737, de 27 de dezembro de 2024 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 20.738, de 27 de dezembro de 2024.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+**LEONARDO BARRETO DE MORAES**  
+Prefeito do Município
+
+**WAGNER GARCIA DE FREITAS**  
+Secretário Municipal de Economia
+
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral do Município

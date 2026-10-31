@@ -1,0 +1,63 @@
+Altera o Anexo III da Lei Municipal nº 5.164/2017, de 19 de outubro de 2017 (PPA) e Altera o Anexo IIA da Lei nº 5.304, de 25 de junho de 2019 (LDO) - Autorizando a abertura de crédito especial no montante de R$ 49.200,00 (quarenta e nove mil e duzentos reais), para contratação de serviços de tecnologia da informação.
+
+
+O Prefeito do Município de Garça, Estado de São Paulo, no uso de suas atribuições, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+O Anexo III da Lei Municipal nº 5.164, de 19 de outubro de 2017, que dispõe sobre o Plano Plurianual do Município, para o período de 2018 a 2021, passa a vigorar com a seguinte inclusão:
+
+
+“ANEXO III
+
+PLANO PLURIANUAL – PERÍODO 2018 A 2021
+
+<table><tbody><tr><td colspan="2"><p><strong>Unidade Executora</strong></p></td><td colspan="4"><p>Atenção Básica</p></td></tr><tr><td colspan="2"><p><strong>Código da Unidade</strong></p></td><td colspan="4"><p>Nº. 02.06.02</p></td></tr><tr><td colspan="2"><p><strong>Função</strong></p></td><td colspan="4"><p>Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código da Função</strong></p></td><td colspan="4"><p>Nº. 10</p></td></tr><tr><td colspan="2"><p><strong>Sub-função</strong></p></td><td colspan="4"><p>Atenção Básica </p></td></tr><tr><td colspan="2"><p><strong>Código da Sub-Função</strong></p></td><td colspan="4"><p>Nº. 301</p></td></tr><tr><td colspan="2"><p><strong>Programa</strong></p></td><td colspan="4"><p>Gestão da Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código do Programa</strong></p></td><td colspan="4"><p>Nº. 0010</p></td></tr><tr><td colspan="2"><p><strong>Atividade</strong></p></td><td colspan="4"><p>Atividades da Atenção Básica</p></td></tr><tr><td colspan="2"><p><strong>Código do Projeto</strong></p></td><td colspan="4"><p>Nº. 2029</p></td></tr><tr><td colspan="6"><p><strong>Ações</strong></p></td></tr><tr><td colspan="2"><p><strong>Meta Física</strong></p></td><td colspan="4"><p><strong>Unidade de Medida</strong></p></td></tr><tr><td colspan="2"><p>100</p></td><td colspan="4"><p>Percentual</p></td></tr><tr><td><p><strong>2018</strong></p></td><td><p><strong>2019</strong></p></td><td><p><strong>2020</strong></p></td><td colspan="2"><p><strong>2021</strong></p></td><td><p><strong>Meta PPA</strong></p></td></tr><tr><td><p>000</p></td><td><p>000</p></td><td><p>100</p></td><td colspan="2"><p>000</p></td><td><p>100</p></td></tr><tr><td colspan="6"><p><strong>Custo Financeiro Total</strong></p></td></tr><tr><td colspan="6"><p><strong>Custo Financeiro por Exercício</strong></p></td></tr><tr><td><p><strong>2018</strong></p></td><td><p><strong>2019</strong></p></td><td><p><strong>2020</strong></p></td><td><p><strong>2021</strong></p></td><td colspan="2"><p><strong>Meta PPA</strong></p></td></tr><tr><td><p>0,00</p></td><td><p>R$ 0,00</p></td><td><p>44.200,00</p></td><td><p>0,00</p></td><td colspan="2"><p>R$ 44.200,00</p></td></tr><tr><td colspan="6"><p><strong>Justificativa das modificações: </strong><strong>Inexiste dotação com fonte de Recurso Federal na Secretaria Municipal de Saúde para implantação</strong> do Programa de Apoio à Informatização e Qualificação dos Dados da Atenção Primária à Saúde – Informatiza APS, Portaria 2.983 de 11/11/2020.</p></td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2"><p><strong>Unidade Executora</strong></p></td><td colspan="5"><p>Vigilância em Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código da Unidade</strong></p></td><td colspan="5"><p>Nº. 02.06.05</p></td></tr><tr><td colspan="2"><p><strong>Função</strong></p></td><td colspan="5"><p>Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código da Função</strong></p></td><td colspan="5"><p>Nº. 10</p></td></tr><tr><td colspan="2"><p><strong>Sub-função</strong></p></td><td colspan="5"><p>Vigilância Epidemiológica</p></td></tr><tr><td colspan="2"><p><strong>Código da Sub-Função</strong></p></td><td colspan="5"><p>Nº. 305</p></td></tr><tr><td colspan="2"><p><strong>Programa</strong></p></td><td colspan="5"><p>Gestão da Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código do Programa</strong></p></td><td colspan="5"><p>Nº. 0010</p></td></tr><tr><td colspan="2"><p><strong>Atividade</strong></p></td><td colspan="5"><p>Atividades da Vigilância Epidemiológica</p></td></tr><tr><td colspan="2"><p><strong>Código do Projeto</strong></p></td><td colspan="5"><p>Nº. 2034</p></td></tr><tr><td colspan="7"><p><strong>Ações</strong></p></td></tr><tr><td colspan="3"><p><strong>Meta Física</strong></p></td><td colspan="4"><p><strong>Unidade de Medida</strong></p></td></tr><tr><td colspan="3"><p>100</p></td><td colspan="4"><p>Percentual</p></td></tr><tr><td><p><strong>2018</strong></p></td><td colspan="2"><p><strong>2019</strong></p></td><td><p><strong>2020</strong></p></td><td colspan="2"><p><strong>2021</strong></p></td><td><p><strong>Meta PPA</strong></p></td></tr><tr><td><p>000</p></td><td colspan="2"><p>000</p></td><td><p>100</p></td><td colspan="2"><p>000</p></td><td><p>100</p></td></tr><tr><td colspan="7"><p><strong>Custo Financeiro Total</strong></p></td></tr><tr><td colspan="7"><p><strong>Custo Financeiro por Exercício</strong></p></td></tr><tr><td><p><strong>2018</strong></p></td><td colspan="2"><p><strong>2019</strong></p></td><td><p><strong>2020</strong></p></td><td><p><strong>2021</strong></p></td><td colspan="2"><p><strong>Meta PPA</strong></p></td></tr><tr><td><p>0,00</p></td><td colspan="2"><p>R$ 0,00</p></td><td><p>5.000,00</p></td><td><p>0,00</p></td><td colspan="2"><p>R$ 5.000,00</p></td></tr><tr><td colspan="7"><p><strong>Justificativa das modificações: </strong><strong>Inexiste dotação n</strong>a Secretaria Municipal de Saúde para contratação de serviços de tecnologia da informação, em Vigilância Epidemiológica.”</p></td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+Art. 2º.
+
+O anexo IIA da Lei Municipal nº 5.304, de 25 de junho de 2019, que estabeleceu as Diretrizes Orçamentárias para o exercício de 2020, passa a vigorar com a seguinte inclusão:
+
+
+“ANEXO IIA  
+LEI DE DIRETRIZES ORÇAMENTÁRIAS 2020
+
+<table><tbody><tr><td><p><strong>Unidade Executora</strong></p></td><td colspan="2"><p>Atenção Básica</p></td></tr><tr><td><p><strong>Código da Unidade</strong></p></td><td colspan="2"><p>Nº. 02.06.02</p></td></tr><tr><td><p><strong>Função</strong></p></td><td colspan="2"><p>Saúde</p></td></tr><tr><td><p><strong>Código da Função</strong></p></td><td colspan="2"><p>Nº. 10</p></td></tr><tr><td><p><strong>Sub-função</strong></p></td><td colspan="2"><p>Atenção Básica </p></td></tr><tr><td><p><strong>Código da Sub-Função</strong></p></td><td colspan="2"><p>Nº. 301</p></td></tr><tr><td><p><strong>Programa</strong></p></td><td colspan="2"><p>Gestão da Saúde</p></td></tr><tr><td><p><strong>Código do Programa</strong></p></td><td colspan="2"><p>Nº. 0010</p></td></tr><tr><td colspan="3"><p><strong>Ações</strong></p></td></tr><tr><td colspan="3"><p><strong>Atividade</strong></p></td></tr><tr><td colspan="3"><p>Atividades da Atenção Básica</p></td></tr><tr><td colspan="2"><p><strong>Código da Atividade</strong></p></td><td><p>Nº.2029</p></td></tr><tr><td colspan="2"><p><strong>Meta Física Para o Exercício</strong></p></td><td><p> </p></td></tr><tr><td colspan="2"><p>100</p></td><td><p>Percentual</p></td></tr><tr><td colspan="2"><p><strong>Custo Financeiro Total para o Exercício</strong></p></td><td><p>R$ 44.200,00</p></td></tr><tr><td> </td><td> </td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2"><p><strong>Unidade Executora</strong></p></td><td><p>Vigilância em Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código da Unidade</strong></p></td><td><p>Nº. 02.06.05</p></td></tr><tr><td colspan="2"><p><strong>Função</strong></p></td><td><p>Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código da Função</strong></p></td><td><p>Nº. 10</p></td></tr><tr><td colspan="2"><p><strong>Sub-função</strong></p></td><td><p>Vigilância Epidemiológica</p></td></tr><tr><td colspan="2"><p><strong>Código da Sub-Função</strong></p></td><td><p>Nº. 305</p></td></tr><tr><td colspan="2"><p><strong>Programa</strong></p></td><td><p>Gestão da Saúde</p></td></tr><tr><td colspan="2"><p><strong>Código do Programa</strong></p></td><td><p>Nº. 0010</p></td></tr><tr><td colspan="3"><p><strong>Ações</strong></p></td></tr><tr><td colspan="3"><p><strong>Atividade</strong></p></td></tr><tr><td colspan="3"><p>Atividades da Vigilância Epidemiológica</p></td></tr><tr><td><p><strong>Código da Atividade</strong></p></td><td colspan="2"><p>Nº. 2034</p></td></tr><tr><td><p><strong>Meta Física Para o Exercício</strong></p></td><td colspan="2"><p> </p></td></tr><tr><td><p>100</p></td><td colspan="2"><p>Percentual</p></td></tr><tr><td><p><strong>Custo Financeiro Total para o Exercício</strong></p></td><td colspan="2"><p>R$ 5.000,00”</p></td></tr><tr><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica o Executivo Municipal autorizado a abrir um crédito especial no montante de R$ 49.200,00 (quarenta e nove mil e duzentos reais), cuja operação far-se-á com transferências de recursos do Fundo Nacional de Saúde, sendo R$ 44.200,00 (quarenta e quatro mil e duzentos reais) do Programa de Informatização da APS - Piso de Atenção Básica e R$ 5.000,00 (cinco mil reais) da Vigilância em Saúde - Teto Epidemiológico.
+
+
+Art. 4º.
+
+Fica o Poder Executivo Municipal autorizado a suplementar por decreto, desde que necessário.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Garça, 10 de setembro de 2020.
+
+JOÃO CARLOS DOS SANTOS
+
+PREFEITO
+
+SANDOVAL APARECIDO SIMAS
+
+PROCURADOR GERAL DO MUNICÍPIO
+
+Registrada e publicada neste Departamento de Atos Oficiais e Documentos, na data supra. zmc.
+
+BIANCA CAMPOS
+
+DIRETORA DO DEPARTAMENTO DE ATOS OFICIAIS E DOCUMENTOS

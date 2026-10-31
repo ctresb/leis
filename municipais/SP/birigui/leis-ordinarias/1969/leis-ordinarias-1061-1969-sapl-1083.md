@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 1.061, de 29 de novembro de 1969"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1061"
+data: "1969-11-29"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1083"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1688/text"
+sha256_fonte: "6eb5d85aff99918b8654a2e92cbbbc0c70bb390e6df450ec95c2eb57301f4cf2"
+sha256_texto: "9cf5cdd8727f07e118368a730f17aba3e57e3f6ae1f1f477eeec2f2c52df38e8"
+capturado_em_fonte: "2026-10-27T19:20:44.920347-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.061, de 29 de novembro de 1969
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL.
+
+
+Eu, **WILSON STROSE**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto no Serviço de Finanças – Setor de Contabilidade, um crédito adicional de NCr$ 108.296,20 (cento e oito mil, duzentos e noventa e seis cruzeiros novos e vinte centavos) suplementar às seguintes verbas do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">II - PODER EXECUTIVO</td></tr><tr><td colspan="2">a) Gabinete do Prefeito</td></tr><tr><td colspan="2">7 - 3.1.3.0.0.2 - Serviços de Terceiros</td></tr><tr><td>03-Telefones oficiais</td><td>NCr$ 1.000,00</td></tr><tr><td colspan="2">8 - 3.4.0.0.2 - Encargos Diversos</td></tr><tr><td>03-Inauguração e outras festividades</td><td>NCr$ 3.000,00</td></tr><tr><td>04-Despesas eventuais</td><td>NCr$ 1.000,00</td></tr><tr><td colspan="2">b) Procuradoria</td></tr><tr><td colspan="2">11 -3.1.1.1.0.1 - Pessoal Civil</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Honorários do Advogado contratado</td><td>NC5$ 427,90</td></tr><tr><td colspan="2">c) Serviço de Administração e Expediente</td></tr><tr><td colspan="2">13 - 3.1.1.1.0.2 - Pessoal Civil</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Salários de mensalistas e diaristas</td><td>NCr$ 2.000,00</td></tr><tr><td colspan="2">14 - 3.1.3.0.0.2 - Serviços de Terceiros</td></tr><tr><td colspan="2">01-Publicações e Publicidade</td></tr><tr><td colspan="2">1 - ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td colspan="2">b) Serviço de Tributação</td></tr><tr><td colspan="2">20 - 3.1.1.1.1.9 - Pessoal Civil</td></tr><tr><td>01.00-Vencimentos e Vantagens Fixas</td><td>NCr$ 400,54</td></tr><tr><td colspan="2">21 - 3.1.2.0.1.9 - Material de Consumo</td></tr><tr><td>01-Material de expediente e impressos</td><td>NCr$ 2.000,00</td></tr><tr><td colspan="2">4 - VIAÇÃO, TRANSPORTES E COMUNICAÇÕES</td></tr><tr><td colspan="2">Serviço Municipal de Estradas de Rodagem (SERM)</td></tr><tr><td colspan="2">33 - 3.1.1.1.4.2 - Pessoal Civil</td></tr><tr><td>01.00-Vencimentos e Vantagens Fixas</td><td>NCr$ 275,59</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Salários de mensalistas e diaristas</td><td>NCr$ 11.000,00</td></tr><tr><td colspan="2">5 - INDÚSTRIA</td></tr><tr><td colspan="2">38 - 3.1.1.1.5.9 - Pessoal Civil</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Salários de mensalistas e diaristas</td><td>NCr$ 5.000,00</td></tr><tr><td colspan="2">6 - EDUCAÇÃO E CULTURA</td></tr><tr><td colspan="2">a) Ensino Primário</td></tr><tr><td colspan="2">41 - 3.1.2.0.6.1 - Material de Consumo</td></tr><tr><td>02-Para Merenda Escolar</td><td>NCr$ 2.000,00</td></tr><tr><td colspan="2">45 - 4.1.1.0.6.9 - Obras Públicas</td></tr><tr><td>Para as obras de construção de prédio destinado ao funcionamento de escolas mantidas pelo SESI</td><td>NCr$ 5.000,00</td></tr><tr><td colspan="2">7 - SAÚDE</td></tr><tr><td colspan="2">62 - 3.1.4.0.7.9 - Encargos Diversos</td></tr><tr><td>02-Para despesas de transporte de doentes para hospitais especializados</td><td>NCr$ 1.000,00</td></tr><tr><td colspan="2">8 - BEM ESTAR SOCIAL</td></tr><tr><td colspan="2">66 - 3.2.3.2.8.2 - Pensionistas</td></tr><tr><td>03.00-Outras Pensões</td><td>NCr$ 127,98</td></tr><tr><td>68 -3.1.4.0.8.9 - Licença-prêmio a funcionários</td><td>NCr$ 534,39</td></tr><tr><td colspan="2">72 - 3.1.4.0.8.3 - Encargos Diversos</td></tr><tr><td>03-Para fornecimento de caixões mortuários a pessoas desprovidas de recursos</td><td>NCr$ 500,00</td></tr><tr><td colspan="2">9 - SERVIÇOS URBANOS</td></tr><tr><td colspan="2">b) Serviços de Águas e Esgotos</td></tr><tr><td colspan="2">75 - 3.1.1.1.9.1 - Pessoal Civil</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Salários de mensalistas e diaristas</td><td>NCr$ 8.000,00</td></tr><tr><td colspan="2">76 - 3.1.2.0.9.1 - Material de Consumo</td></tr><tr><td>01-Material para tratamento de água</td><td>NCr$ 2.000,00</td></tr><tr><td colspan="2">77 -3.1.3.0.9.1 - Serviços de Terceiros</td></tr><tr><td>Para fornecimento de energia elétrica às bombas</td><td>NCr$ 10.000,00</td></tr><tr><td colspan="2">d) Iluminação Pública</td></tr><tr><td colspan="2">82 - 3.1.3.0.9.3 - Serviços de Terceiros</td></tr><tr><td>Para fornecimento de energia elétrica às cidade</td><td>NCr$ 10.000,00</td></tr><tr><td colspan="2">83 - 4.1.1.0.9.3 - Obras Públicas</td></tr><tr><td colspan="2">01-Ampliação e melhoramentos na rede de energia elétrica</td></tr><tr><td>2-com recursos próprios do Município</td><td>NCr$ 10.000,00</td></tr><tr><td colspan="2">e) Ruas e Avenidas</td></tr><tr><td colspan="2">Serviço de Conservação de Vias Públicas</td></tr><tr><td colspan="2">84 - 3.1.1.1.9.4 - Pessoal Civil</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Salários de mensalistas e diaristas</td><td>NCr$ 12.000,00</td></tr><tr><td colspan="2">f) Praças, Parques e Jardins</td></tr><tr><td colspan="2">88 - 3.1.2.0.9.5 - Material de Consumo</td></tr><tr><td>02-Materiais de limpeza para os sanitários</td><td>NCr$ 1.000,00</td></tr><tr><td colspan="2">g) Mercados, Feiras e Matadouros</td></tr><tr><td colspan="2">Matadouro</td></tr><tr><td colspan="2">90 - 3.1.1.1.9.6 - Pessoal Civil</td></tr><tr><td>01.00-Vencimentos Vantagens Fixas</td><td>NCr$ 29,80</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Salários de mensalistas e diaristas</td><td>NCr$ 2.000,00</td></tr><tr><td colspan="2">j) Almoxarifado</td></tr><tr><td colspan="2">97 - 3.1.1.1.9.9 - Pessoal Civil</td></tr><tr><td colspan="2">02.00-Despesas Variáveis com o Pessoal Civil</td></tr><tr><td>Salários de mensalistas e diaristas</td><td>NCr$ 17.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito de que trata o Artigo anterior será coberto com recursos provenientes da anulação parcial, em igual importância, da verba 50/4.1.1.0.6.9 - Obras Públicas Para as obras de construção do Ginásio Industrial “Vicente Felício Primo”, do orçamento municipal vigente.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e nove de novembro de mil novecentos e sessenta e nove.
+
+**WILSON STROSE Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e nove de novembro de mil novecentos e sessenta e nove, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

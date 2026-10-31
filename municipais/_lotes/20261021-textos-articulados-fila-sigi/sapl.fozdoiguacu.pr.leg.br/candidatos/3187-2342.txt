@@ -1,0 +1,142 @@
+Dispõe sobre a obrigatoriedade de prestação de informações pelo Poder Executivo Municipal acerca da execução de emendas parlamentares ao orçamento anual, em observância aos princípios da publicidade e transparência da administração pública, e dá outras providências.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal obrigado a disponibilizar, de forma pública, acessível e detalhada, informações acerca da execução das emendas parlamentares ao orçamento anual destinadas pelos vereadores da Câmara Municipal de Foz do Iguaçu, em conformidade com o disposto no art. 113 da Lei Orgânica do Município e amparado pelo art. 11, inciso VI, da Lei nº 8.429/1992, bem como pelo inciso V do art. 5º. e art. 10 da Lei Federal nº 13.019/2014.
+
+
+§ 1º
+
+As informações deverão ser apresentadas de maneira transparente e objetiva, garantindo que a população e os órgãos de controle tenham acesso irrestrito às etapas de execução, justificativas para eventuais atrasos e dados de impacto social das emendas.
+
+
+§ 2º
+
+A divulgação das informações deverá ser feita por meio de ferramentas digitais acessíveis, incluindo o Portal da Transparência, de forma a garantir facilidade de consulta, compatibilidade com dispositivos móveis e acessibilidade para pessoas com deficiência.
+
+
+Art. 2º.
+
+As informações de que trata esta Lei deverão ser prestadas por meio de relatórios trimestrais e publicadas no Portal da Transparência da Prefeitura Municipal, bem como enviadas à Câmara Municipal e às entidades da sociedade civil interessadas.
+
+
+Art. 3º.
+
+Os relatórios trimestrais deverão conter, no mínimo, as seguintes informações:
+
+
+I –
+
+listagem das emendas apresentadas, especificando autor, destinação, objeto e valores;
+
+
+II –
+
+status de execução de cada emenda, discriminando eventuais pendências ou dificuldades;
+
+
+III –
+
+previsão de desembolso e cronograma de execução;
+
+
+IV –
+
+razão fundamentada para eventuais atrasos ou impossibilidade de execução;
+
+
+V –
+
+beneficiários diretos e indiretos das emendas;
+
+
+VI –
+
+prestação de contas dos valores já utilizados;
+
+
+VII –
+
+disponibilização de painel interativo para consulta rápida das informações no Portal da Transparência.
+
+
+Art. 4º.
+
+As informações previstas nesta Lei deverão ser disponibilizadas em formato acessível e de fácil compreensão, permitindo o acompanhamento detalhado pela população.
+
+
+Art. 4º-A.
+
+As informações previstas nesta Lei deverão ser disponibilizadas, além dos relatórios e painéis interativos, também em formato de dados abertos, estruturados em padrões abertos e não proprietários, conforme diretrizes da Infraestrutura Nacional de Dados Abertos (INDA) e da Lei Federal nº 12.527/2011.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 5.684, de 06 de abril de 2026.
+
+
+§ 1º
+
+Os dados deverão ser publicados em formatos que permitam sua extração e tratamento automatizado, como CSV, JSON ou XML, assegurando a interoperabilidade com diferentes sistemas.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 5.684, de 06 de abril de 2026.
+
+
+§ 2º
+
+O Poder Executivo deverá disponibilizar documentação técnica mínima para orientar a sociedade civil, órgãos de controle, imprensa e demais interessados quanto ao acesso e uso das informações.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 5.684, de 06 de abril de 2026.
+
+
+§ 3º
+
+A disponibilização dos dados em formato aberto não substitui a obrigação de publicação em linguagem acessível e de fácil compreensão, prevista no art. 4º. desta Lei.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 5.684, de 06 de abril de 2026.
+
+
+Art. 5º.
+
+O descumprimento do disposto nesta Lei sujeitará o Poder Executivo às penalidades previstas na Lei Orgânica do Município, incluindo:
+
+
+I –
+
+responsabilidade política do Chefe do Executivo, passível de processo administrativo pela Câmara Municipal;
+
+
+II –
+
+encaminhamento ao Ministério Público para apuração de eventuais ilícitos civis e criminais;
+
+
+III –
+
+julgamento nos termos do art. 65 da Lei Orgânica do Município, em caso de descumprimento das normas orçamentárias.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 2 de setembro de 2025.
+
+Joaquim Silva e Luna  
+Prefeito Municipal
+
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos
+
+Toríbio Ramão Silveira  
+Controlador Geral do Município
+
+Eduardo Castanheira Garrido Alves  
+Secretário Municipal de Finanças e Orçamento
+
+Luiz Ninoff Teixeira  
+Secretário Municipal de Tecnologia, Inovação e Modernização Digital
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

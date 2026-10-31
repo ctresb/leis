@@ -1,0 +1,168 @@
+{
+  "estado": "indice_completo",
+  "total": 15,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/diario_oficial_cm_cuitegi_-_22-06-2024.pdf da norma Resolução-MD nº 1, de 21 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Legislativo.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/1/diario_oficial_cm_cuitegi_-_22-06-2024.pdf",
+      "ano": 2024,
+      "norma": 18
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/diario_oficial_cm_cuitegi_-_06-06-2024.pdf da norma Lei Ordinária nº 674, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Poder Legislativo.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/2/diario_oficial_cm_cuitegi_-_06-06-2024.pdf",
+      "ano": 2024,
+      "norma": 23
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/diario_oficial_cm_cuitegi_-_06-06-2024.pdf da norma Lei Ordinária nº 673, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Poder Legislativo.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/3/diario_oficial_cm_cuitegi_-_06-06-2024.pdf",
+      "ano": 2024,
+      "norma": 22
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/diario_oficial_cm_cuitegi_-_06-06-2024.pdf da norma Lei Ordinária nº 672, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Poder Legislativo.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/4/diario_oficial_cm_cuitegi_-_06-06-2024.pdf",
+      "ano": 2024,
+      "norma": 21
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/diario_oficial_cm_cuitegi_-_06-06-2024.pdf da norma Lei Ordinária nº 671, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Poder Legislativo.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/5/diario_oficial_cm_cuitegi_-_06-06-2024.pdf",
+      "ano": 2024,
+      "norma": 17
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/diario_oficial_cm_cuitegi_-_06-06-2024.pdf da norma Lei Ordinária nº 670, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Poder Legislativo.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/6/diario_oficial_cm_cuitegi_-_06-06-2024.pdf",
+      "ano": 2024,
+      "norma": 16
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/diario_oficial_cm_cuitegi_-_06-06-2024.pdf da norma Lei Ordinária nº 669, de 06 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Poder Legislativo.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/7/diario_oficial_cm_cuitegi_-_06-06-2024.pdf",
+      "ano": 2024,
+      "norma": 15
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/diario_oficial_cm_cuitegi_-_22-08-2024.pdf da norma Decreto Legislativo-PLEN nº 4, de 22 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Diário Oficial 22/08/2024 – Edição nº 169",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/8/diario_oficial_cm_cuitegi_-_22-08-2024.pdf",
+      "ano": 2024,
+      "norma": 25
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/diario_oficial_cm_cuitegi_-_09-09-2024.pdf da norma Lei Ordinária nº 681, de 09 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Poder Legislativo - Edição n.º 681/2024.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/9/diario_oficial_cm_cuitegi_-_09-09-2024.pdf",
+      "ano": 2024,
+      "norma": 26
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/diario_oficial_cm_cuitegi_-_19-09-2024.pdf da norma Lei Ordinária nº 683, de 19 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Habitação",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/10/diario_oficial_cm_cuitegi_-_19-09-2024.pdf",
+      "ano": 2024,
+      "norma": 27
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/diario_oficial_cm_cuitegi_-_26-09-2024.pdf da norma Lei Ordinária nº 684, de 26 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário do Poder Legislativo - Edição nº 194/2024 - 26 de setembro de 2024.",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2024/11/diario_oficial_cm_cuitegi_-_26-09-2024.pdf",
+      "ano": 2024,
+      "norma": 28
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/12/lei_no167_de_2000_03_de_novembro_de_2000.pdf da norma Lei Ordinária nº 167, de 03 de novembro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI Nº3 DE 2000",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2000/12/lei_no167_de_2000_03_de_novembro_de_2000.pdf",
+      "ano": 2000,
+      "norma": 83
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/13/pl_n_03_de_26_de_outubro_de_2000..pdf da norma Lei Ordinária nº 167, de 03 de novembro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI Nº03 DE 2000",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2000/13/pl_n_03_de_26_de_outubro_de_2000..pdf",
+      "ano": 2000,
+      "norma": 83
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/14/diario_oficial_do_municipio.pdf da norma Regimento Interno-MD nº 5, de 16 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Diário Oficial do Município de Cuitegi",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2017/14/diario_oficial_do_municipio.pdf",
+      "ano": 2017,
+      "norma": 751
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/15/codigo_de_etica_-_cmc.pdf da norma Lei Orgânica Municipal-MD nº 2, de 16 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cuitegi.pb.leg.br/media/sapl/public/anexonormajuridica/2017/15/codigo_de_etica_-_cmc.pdf",
+      "ano": 2017,
+      "norma": 32
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cuitegi.pb.leg.br/3de52f724e7a617f49e81996b7ca16da3a7ed589c567a0077e9ce2dbba1d4829.json",
+      "url": "https://sapl.cuitegi.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cuitegi.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "27b582d15321af624be79388122edbbedfd88a2c67605fda4ef9166ce1ed3d6c",
+      "bytes": 7264,
+      "capturado_em": "2026-10-28T09:33:59.217173-03:00"
+    }
+  ]
+}

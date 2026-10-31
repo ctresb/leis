@@ -1,0 +1,232 @@
+---
+titulo: "Emenda à Lei Orgânica nº 1, de 29 de novembro de 2004"
+tipo: "Emenda à Lei Orgânica"
+tipo_na_fonte: "Emenda à Lei Orgânica"
+numero: "1"
+data: "2004-11-29"
+municipio: "Careaçu"
+uf: "MG"
+codigo_ibge: "3113602"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.careacu.mg.leg.br/norma/1566"
+fonte_texto: "https://sapl.careacu.mg.leg.br/ta/10/text"
+sha256_fonte: "51a6a231838458be91e58d8b34db1106af0448984971af7a51da7267276a6487"
+sha256_texto: "a1d43d7906002950a91abe71883911ce5bb8042e4172178ff0190d2799c1b1f1"
+capturado_em_fonte: "2026-10-27T22:33:04.958034-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Emenda à Lei Orgânica nº 1, de 29 de novembro de 2004
+
+Emendas à Lei Orgânica do Município de Careaçu
+
+
+Art. 1º.
+
+O “caput” do art. 5º passa a ter a seguinte redação, ficando os seus parágrafos suprimidos:
+
+
+Art. 2º.
+
+O inciso VII do art. 10 passa a ter nova redação com o acréscimo do § 3º com a seguinte redação:
+
+
+Art. 3º.
+
+O art. 15 passa a ter a seguinte redação, ficando seu parágrafo único suprimido:
+
+
+Art. 4º.
+
+O art. 16 passa a ter a seguinte redação, ficando todos os seus incisos suprimidos:
+
+
+Art. 5º.
+
+Ficam acrescidos ao art. 19, os incisos XVII e XVIII, com as seguintes redações:
+
+
+Art. 6º.
+
+Os incisos III, VII, VIII e o § 1º do art. 20 passam a ter nova redação:
+
+
+Art. 7º.
+
+Fica acrescido na Lei Orgânica o art. 20-A com a seguinte redação:
+
+
+Art. 8º.
+
+O art. 23 passa a ter a seguinte redação:
+
+
+Art. 9º.
+
+O art. 24 passa a ter a seguinte redação, ficando suprimidos os seus parágrafos:
+
+
+Art. 10.
+
+O art. 25 passa a ter a seguinte redação, ficando acrescido a este artigo o seguinte parágrafo único:
+
+
+Art. 11.
+
+O art. 26 passa a ter a seguinte redação:
+
+
+Art. 12.
+
+A redação do art. 27 passa a ser a seguinte:
+
+
+Art. 13.
+
+A redação do art. 28 passa a ser a seguinte, ficando suprimido seu primeiro parágrafo único, permanecendo o segundo com a seguinte redação:
+
+
+Art. 14.
+
+No art. 30 o inciso II passa a ter nova redação:
+
+
+Art. 15.
+
+Os arts. 32, 33 e 34 desta Lei Orgânica passam a ter a seguinte redação:
+
+
+Art. 16.
+
+Fica acrescido ao art. 38 desta Lei Orgânica o parágrafo 2º, com a seguinte redação:
+
+
+Art. 17.
+
+No art. 39, o inciso V passa a ter nova redação, sendo ao art. acrescido o inciso XIV, com a seguinte redação:
+
+
+Art. 18.
+
+Fica acrescido ao art. 46, o seguinte parágrafo único:
+
+
+Art. 19.
+
+O inciso III do art. 47 passa a ter a seguinte redação:
+
+
+Art. 20.
+
+Os parágrafos 2º e 3º do art. 49 passam a ter a seguinte redação:
+
+
+Art. 21.
+
+O § 1º do art. 50 passa a ter a seguinte redação, passando os parágrafos 1º, 2º e 3º a serem respectivamente 2º, 3º e 4º:
+
+
+Art. 22.
+
+Fica acrescido ao art. 62, um parágrafo único com a seguinte redação:
+
+
+Art. 23.
+
+O art. 66 passa a ter a seguinte redação, suprimindo seus parágrafos:
+
+
+Art. 24.
+
+O art. 68 passa a ter a seguinte redação:
+
+
+Art. 25.
+
+O art. 70 passa a ter a seguinte redação:
+
+
+Art. 26.
+
+Fica acrescido a esta Lei Orgânica o art. 71-A, com a seguinte redação:
+
+
+Art. 27.
+
+Fica acrescido ainda, nesta Lei Orgânica, o art. 71-B, com a seguinte redação:
+
+
+Art. 28.
+
+O art. 72 da Lei Orgânica de Careaçu passa a ter a seguinte redação:
+
+
+Art. 29.
+
+O parágrafo único do art. 73, passa a ter a seguinte redação:
+
+
+Art. 29-A.
+
+Fica acrescido ao art. 75 da Lei Orgânica Municipal, o parágrafo único, com a seguinte redação:
+
+
+Art. 30.
+
+Fica suprimido o inciso XIII, do art. 74, desta Lei Orgânica e o seu § 1º passa a ter a seguinte redação:
+
+
+Art. 31.
+
+O § 1º do art. 93, passa a ter a seguinte redação:
+
+
+Art. 32.
+
+As letras “c” e “i”, do inciso I, do art. 94, passam a ter a seguinte redação:
+
+
+Art. 33.
+
+Fica suprimida a letra “m”, do Inciso I, do art. 94.
+
+
+Art. 34.
+
+O inciso I, do § 4º, do art. 98, passa a ser o parágrafo 5º e ao mesmo art. 98, fica acrescido os parágrafos 6º e 7º, com as seguintes redações:
+
+
+Art. 35.
+
+O art. 99 passa a ter a seguinte redação:
+
+
+Art. 36.
+
+Fica suprimido o art. 100 da Lei Orgânica de Careaçu.
+
+
+Art. 37.
+
+Fica acrescido o artigo 108-A, com seus parágrafos 1º ao 5º na Lei Orgânica de Careaçu, com as seguintes redações:
+
+
+Art. 38.
+
+O parágrafo único do art. 156 passa a ser o § 1º e ao mesmo art. fica acrescido o § 2º, com a seguinte redação:
+
+
+Art. 39.
+
+O art. 179 passa a ter a seguinte redação:
+
+
+Careaçu, 29 de novembro de 2004.
+
+Raimundo José Pelegrini
+
+*Presidente da Mesa Diretora*
+

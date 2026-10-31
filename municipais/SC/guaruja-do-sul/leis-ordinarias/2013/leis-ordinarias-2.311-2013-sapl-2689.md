@@ -1,0 +1,83 @@
+---
+titulo: "Lei Ordinária nº 2.311, de 25 de outubro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.311"
+data: "2013-10-25"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/2689"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/448/text"
+sha256_fonte: "54f786f19c00161a98441384df5c29349fd386795b03d68445e9f58450aa380a"
+sha256_texto: "d367227d5306eb70e40911505358fcd43a9712deb0cb1c91dd82450d585d8721"
+capturado_em_fonte: "2026-10-28T13:58:36.929411-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.311, de 25 de outubro de 2013
+
+AUTORIZA A ALTERAÇÃO DA LEI ORÇAMENTÁRIA ANUAL ATRAVÉS DA ABERTURA DE UM CRÉDITO ADICIONAL SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+José Carlos Foiatto, Prefeito Municipal de Guarujá do Sul, Estado de Santa Catarina, Faço saber a todos os habitantes deste Município que a Câmara Municipal de Vereadores votou e aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 40.000,00, (Quarenta mil reais), no orçamento geral da Prefeitura Municipal de Guarujá do Sul, no exercício de 2013, destinado ao reforço do seguinte item orçamentário:  
+  
+05-SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE:  
+03 - Departamento de Cultura e Esporte:  
+Atividade: 0503.13.392.0018.2.016 - Manutenção do Setor de Cultura  
+(143) 3.3.90.39-118- Outros Serv. Terceiros Pessoa Jurídica................................R$ 30.000,00  
+  
+08-SECRETARIA DE TRANSPORTES E OBRAS:  
+01- Departamento de Urbanismo:  
+Atividade: 0801.15.452.0019.2.021 - Manut. Serv. De Iluminação Pública  
+3.3.90.39-118- Outros Ser. Terceiros Pessoa Jurídica................................R$ 10.000,00  
+  
+Soma................................R$ 40.000,00
+
+
+Art. 2º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente da Prefeitura Municipal de Guarujá do Sul, os seguintes itens orçamentários:  
+  
+04- SECRETARIA DE ADMINISTRAÇÃO E FAZENDA:  
+07 - Encargos Gerais do Município:  
+ATIVIDADE: 0407.24.722.0020.2072 - Manutenção do Sistema de Internet  
+(87) 3.3.90.30-118 - Material de Consumo.......................................R$ 5.000,00  
+(87) 3.3.90.30-118 - Outros Ser. Terceiros Pessoa Jurídica.........R$ 5.000,00  
+  
+05- SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE:  
+02- Departamento de Ensino Fundamental e Infantil:  
+Atividade: 0502.12.365.0015.2.015 - Manutenção do Ensino Infantil  
+(139) 3.3.90.30- 142- Material de Consumo..........................................................................R$ 12.000,00  
+(139) 4.4.90.52- 142- Equipamento e Material Permanente...........................................R$ 8.000,00  
+(139) 3.1.90.11- 142- Vencimento e Vantagem Fixa - Pessoa Civil..............................R$ 10.000,00  
+  
+Soma.................................................................R$ 40.000,00
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, 25 DE OUTUBRO DE 2013.
+
+José Carlos Foiatto
+
+Prefeito Municipal
+
+Certificamos que a presente Lei foi publicada e registrada nesta Secretaria em data supra.
+
+Cláudio Inácio Weschnfelder
+
+Secretário de Administração e Fazenda
+

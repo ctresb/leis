@@ -1,0 +1,374 @@
+---
+titulo: "LEI Nº 2.484-GP/2026"
+uf: "RO"
+municipio: "NOVA MAMORÉ"
+tipo: "Lei Ordinária"
+numero: "2484"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 05/02/2026"
+data_publicacao: 2026-02-05
+codigo_identificador: "3096B6DA"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_115996_2026-02-04_b68aba8cc8378ec89e7375dbaeb51a71.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 2.484-GP/2026
+
+LEI Nº 2.484-GP/2026
+LEI Nº2.484-GP/2026 Em,04 de fevereiro de 2026.
+Dispõe sobre a abertura de Crédito AdicionalEspecialpor Superávit Financeiro conforme Art. 43, § 1º, inciso I da Lei 4.320/64, na
+2.467-GP-2025(Lei Orçamentária do exercício de 2026).e dá outras providências.
+OPREFEITO do MUNICÍPIO DE NOVA MAMORÉ, Estado de Rondônia, no uso das atribuições que lhes são conferidas por Lei,
+FAZ SABERque a Câmara Municipal de Nova Mamoré aprovou e ele, Prefeito Municipal, sanciono a seguinte:
+L E I:
+Art. 1°- Fica o Poder Executivo Municipal, autorizado a fazer abertura de CréditoAdicional EspecialporSuperávit Financeiro,apurado em Balanço
+Patrimonial do Exercício de 2025, no valor deR$14.093.470,27(quatorze milhões, noventa e três mil, quatrocentos e setenta reais e vinte e sete
+centavos), com a finalidade de atender as necessidades da Secretaria Municipal de Obras e Serviços Público, Estradas e Logística, Educação,
+Desenvolvimento Rural e Chefia do Gabinete do Prefeito, em despesas diversas de acordo com a fonte de cada recurso.Observando-se nas
+classificações institucionais, econômica e funcional programática a seguinte discriminação:
+02.00.00
+02.06.00
+15.451.0002.1007
+02.701.0000
+02.701.0000
+02.701.0000
+02.500.0000
+02.700.0000
+02.701.0000
+02.500.0000
+02.701.0000
+02.500.0000
+02.701.0000
+02.701.0000
+02.500.0000
+02.701.0000
+02.701.0000
+15.451.0002.1037
+02.701.0000
+02.500.0000
+04.122.0002.1038
+02.500.0000
+02.700.0000
+02.700.0000
+15.122.0002.1039
+02.700.0000
+02.500.0000
+02.700.0000
+04.122.0002.1036
+02.700.0000
+15.451.0002.1040
+02.500.0000
+02.700.0000
+15.451.0002.2052
+02.700.0000
+02.700.0000
+15.392.0002.1041
+02.700.0000
+04.122.0002.1042
+02.500.0000
+02.700.0000
+02.700.0000
+02.05.00
+26.782.0013.1030
+02.701.0000
+02.701.0000
+
+F:544
+F:545
+F:546
+F:547
+F:548
+F: 549
+F:550
+F: 551
+F:552
+F: 553
+F: 554
+F:577
+F: 578
+F: 579
+
+3.3.90.93
+4.4.90.30
+3.3.90.93
+4.4.90.51
+3.3.90.93
+4.4.90.30
+4.4.90.30
+3.3.90.93
+4.4.90.30
+4.4.90.30
+3.3.90.93
+4.4.90.30
+4.4.90.30
+3.3.90.93
+
+F:555
+F:556
+
+4.4.90.51
+4.4.90.51
+
+F:560
+F:561
+F:562
+
+4.4.90.51
+4.4.90.51
+3.3.90.93
+
+F:563
+F:564
+F:565
+
+4.4.90.51
+4.4.90.51
+3.3.90.93
+
+F:566
+
+3.3.90.93
+
+F:567
+F:568
+
+4.4.90.51
+3.3.90.93
+
+F:569
+F:570
+
+4.4.90.51
+3.3.90.93
+
+F:571
+
+3.3.90.93
+
+F:573
+F:574
+F:575
+
+4.4.90.51
+4.4.90.51
+3.3.90.93
+
+F:526
+F:528
+
+3.3.90.93
+4.4.90.30
+
+PODER EXECUTIVO
+SECRETARIA MUNICIPAL DE OBRAS E SERV. PÚBLICOS
+Pavimentação c/ Drenagem Superficial e/ou Profunda
+Indenizações e Restituições
+Material de Consumo
+Indenizações e Restituições
+Obras e Instalações
+Indenizações e Restituições
+Material de Consumo
+Material de Consumo
+Indenizações e Restituições
+Material de Consumo
+Material de Consumo
+Indenizações e Restituições
+Material de Consumo
+Material de Consumo
+Indenizações e Restituições
+Sinalização Vertical e Horizontal nas Vias Urbanas
+Obras e Instalações
+Obras e Instalações
+Construção da Câmara Municipal
+Obras e Instalações
+Obras e Instalações
+Indenizações e Restituições
+Construção do Portal Entrada da Cidade
+Obras e Instalações
+Obras e Instalações
+Indenizações e Restituições
+Construção do Almoxarifado Central
+Indenizações e Restituições
+Construção de Praças
+Obras e Instalações
+Indenizações e Restituições
+Instalação, Modernização e Manutenção da Iluminação Pública
+Obras e Instalações
+Indenizações e Restituições
+Centro Alternativo de Cultura, Lazer e Eventos
+Indenizações e Restituições
+Construção Centro Político Administrativo
+Obras e Instalações
+Obras e Instalações
+Indenizações e Restituições
+SECRETARIA MUNIC. DE ESTRADAS E LOGÍSTICA - SEMEL
+Aquisição e Instalação de Tubos p/ Drenagem
+Indenizações e Restituições
+Material de Consumo
+
+www.diariomunicipal.com.br/arom
+
+42.485,59
+355.204,63
+35.625,56
+138.427,00
+129.458,29
+965.000,00
+242.743,77
+121.764,69
+52.751,44
+143.049,88
+33.886,29
+218.948,71
+969.000,00
+106.725,37
+3.207.525,19
+32.399,24
+38.000,00
+760.000,00
+83.367,12
+300.000,00
+15.000,00
+37.920,05
+34.737,73
+20.000,00
+2.480,79
+1.013.229,90
+53.717,04
+893.144,10
+78.598,00
+382.314,24
+78.885,87
+
+85.445,15
+1.637.406,00
+
+261
+
+Rondônia , 05 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4166
+02.500.0000
+02.701.0000
+26.782.0013.2009
+02.701.0000
+02.701.0000
+02.701.0000
+02.701.0000
+02.701.0000
+02.701.0000
+02.701.0000
+02.12.00
+20.606.0009.1004
+02.500.00
+02.701.00
+02.01.00
+04.122.0008.2006
+0.2.701.0000
+02.500.0000
+02.07.00
+12.365.0005.1017
+0.2.500.0000
+02.700.0000
+02.700.0000
+TOTAL GERAL
+
+F: 529
+F:530
+
+4.4.90.30
+3.3.90.93
+
+F:527
+F:537
+F:538
+F:541
+F:542
+F:543
+F:557
+
+3.3.90.93
+3.3.90.93
+3.3.90.93
+3.3.90.93
+3.3.90.93
+3.3.90.93
+3.3.90.93
+
+F:539
+F:540
+
+4.4.90.52
+3.3.90.93
+
+F:558
+F:559
+
+4.4.90.52
+4.4.90.52
+
+F:580
+F:581
+F:582
+
+4.4.90.51
+4.4.90.51
+3.3.90.93
+
+Material de Consumo
+Indenizações e Restituições
+Conservação e Manutenção de Estradas
+Indenizações e Restituições
+Indenizações e Restituições
+Indenizações e Restituições
+Indenizações e Restituições
+Indenizações e Restituições
+Indenizações e Restituições
+Indenizações e Restituições
+SECRETARIA MUNIC. DE DESENVOLVIMENTO RURAL
+Aquisição de Veículos e Máquinas Pesadas
+Equipamentos e Material Permanente
+Indenizações e Restituições
+CHEFIA DE GABINETE DO PREFEITO
+Aquisição de Veículos
+Equipamentos e Material Permanente
+Equipamentos e Material Permanente
+SECRETARIA MUNICIPAL DE EDUCAÇÃO
+Construção, Ampliação de Unidades Escolares
+Obras e Instalações
+Obras e Instalações
+Indenizações e Restituições
+
+181.934,00
+66.296,00
+20.677,01
+84.812,86
+14.056,18
+16.852,30
+379,14
+4.692,30
+74.339,98
+
+18.378,00
+1.195,00
+
+600.000,00
+66.606,67
+
+30.000,00
+600.000,00
+4.009,19
+14.093.470,27
+
+Art. 2º-O recurso autorizado para abertura de Crédito Adicional Especial no artigo 1º da presente lei será coberto com recursos conforme inciso I
+parágrafo 1º, artigo 43 da Lei Federal nº 4.320/1964.
+Art. 3° -O Crédito autorizado no artigo anterior será coberto com recursos provenientes de Superávit Financeiro apurado no Balanço Patrimonial do
+Exercício de 2025.
+Art. 4°EstaLeientra em vigor na data de sua publicação,em especial para proceder às alterações das metas e ações inicialmente previstas naLei
+Municipal nº2.445-GP/2025- Plano Plurianual 2026/2029, Lei Municipal nº2.379-GP-2025(Lei de Diretrizes Orçamentárias do exercício de
+2026) e Lei Municipal nº 2.467-GP-2025(Lei Orçamentária do exercício de 2026).
+Palácio 21 de Julho, em 04 de fevereiro de 2026.
+MARCÉLIO RODRIGUES UCHÔA
+Prefeito do Município de Nova Mamoré
+Publicado por:
+Josieli de Almeida

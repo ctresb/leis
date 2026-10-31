@@ -1,0 +1,83 @@
+---
+titulo: "Lei Complementar nº 34, de 18 de dezembro de 2006"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "34"
+data: "2006-12-18"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/4489"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3150/text"
+sha256_fonte: "31a81dcd35713a755a1c2cd0a769c21c07fb75eebeb3bd57f6ca9464d1db0772"
+sha256_texto: "b1073f567de048dce83f8a5de8f448af19c77e50505dded799ebd4dafd7d989f"
+capturado_em_fonte: "2026-10-21T04:20:28.584676-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 34, de 18 de dezembro de 2006
+
+Modifica a Lei Orgânica da Guarda Municipal, Lei Complementar n. 0004, de 16 de julho de 1991, modificada pelas Leis Complementares n. 0017, de 07 de junho de 2004, e n. 0019, de 08 de setembro de 2004, e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
+
+
+Art. 1º.
+
+O art. 14, da Lei Complementar n. 0004, de 16 de julho de 1991, modificado pelo art. 7º, da Lei Complementar n. 0017, de 07 de junho de 2004, passa a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+O art. 15, da Lei Complementar n. 0004, de 16 de julho de 1991, modificado pelo art. 8º, da Lei Complementar n. 0019, de 08 de setembro de 2004, passa a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+O art. 13, da Lei Complementar n. 0019, de 08 de setembro de 2004, passa a vigorar com a seguinte redação:
+
+
+Art. 4º.
+
+O art. 14, da Lei Complementar n. 0019, de 08 de setembro de 2004, passa a vigorar com a seguinte redação:
+
+
+Art. 5º.
+
+Ficam criadas 320 (trezentas e vinte) novas vagas para o Cargo de Guarda de 2º Classe, a par das existentes.
+
+
+Art. 6º.
+
+Fica acrescido ao art. 19, da Lei Complementar n. 0019, de 08 de setembro de 2004, o seguinte parágrafo, numerando-se o atual parágrafo único como § 1º.
+
+
+Art. 7º.
+
+O Anexo Único da Lei Complementar n. 0019/2004 passa a vigorar com a seguinte redação:
+
+
+<table><colgroup></colgroup><colgroup></colgroup><tbody><tr><td>CLASSE</td><td>QUANTIDADE</td></tr><tr><td>Guarda de 2º Classe</td><td>959</td></tr><tr><td>Guarda de 1º Classe</td><td>855</td></tr><tr><td>Subinspetor de 2º Classe</td><td>300</td></tr><tr><td>Subinspetor de 1º Classe</td><td>225</td></tr><tr><td>Inspetor</td><td>106</td></tr><tr><td>Agente Municipal de Serviços Públicos e de Cidadania</td><td>200</td></tr><tr><td>Agente Especial</td><td>30</td></tr><tr><td>TOTAL</td><td>2675</td></tr></tbody></table>
+
+
+Art. 8º.
+
+O art. 5º da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 9º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza em 18 de dezembro de 2006.**  
+  
+  
+LUIZIANNE DE OLIVEIRA LINS  
+PREFEITA MUNICIPAL DE FORTALEZA
+

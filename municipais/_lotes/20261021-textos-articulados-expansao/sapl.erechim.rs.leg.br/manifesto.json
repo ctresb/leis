@@ -1,0 +1,162 @@
+{
+  "host": "sapl.erechim.rs.leg.br",
+  "metadados_unicos_observados": 1239,
+  "total_api_declarado": 1239,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1073,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/26ed2761f5b80b4cce4dfd253f83a47f72dba204a94c879f4493e33adb5454fe.json",
+    "url": "https://sapl.erechim.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0d85167a15c9be8fb22ddd1830b6d5a48d06a907ce05d58796b25d9c2cb952d9",
+    "bytes": 957,
+    "capturado_em": "2026-10-21T03:32:21.022520-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/9c1f54e0275122150803f7f0ac4ed4ae97b2fe855d89bdf6b693c1e112b57f96.json",
+    "url": "https://sapl.erechim.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.erechim.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3112453d62ccc5786d8b58efaef9e6169054c13b789b9e8532147bd377cb364f",
+    "bytes": 732,
+    "capturado_em": "2026-10-21T03:32:22.224508-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/e38e10534229053564b681812b5b597c890f0ae24f829cbfb650f41c19ae1007.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6b219088fa598337f39657f2cf95e3ed4537688bf91e81829192a44605eb454d",
+      "bytes": 67767,
+      "capturado_em": "2026-10-21T03:32:31.673378-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/7de905f70271683d5fbcf18632d8cbaf58b5f0a022bb991174276ad1b57aa5b7.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "df56097a715733558cd4e0abc26a552245fe0b3edbb857ee77a2768862b8b51f",
+      "bytes": 74965,
+      "capturado_em": "2026-10-21T03:36:48.505925-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/893625e40314cf6035a36d5c513ae893f6d97352455001a40d367334ab0c5956.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "556e7c3af03c2d806ce8011e974be092fbf6635388da80034456076585970836",
+      "bytes": 63175,
+      "capturado_em": "2026-10-21T03:38:26.851287-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/1805db7c8625efff767087ee76c4663a96c670ae4dfe11efab32f95c311e9615.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e880b3903de817e0bab686df7af84f29575d92848e102e72e61196abb44270b7",
+      "bytes": 63918,
+      "capturado_em": "2026-10-21T03:44:46.068400-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/d3b4f6f258ce02c4580430b543e41e29f62c7970d757ced289b4cd6cba324b3a.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "62ee2140899e8c6513d7580a6a8b653cd600757ed4c238eacbb7fb3b9fc308ac",
+      "bytes": 62107,
+      "capturado_em": "2026-10-21T03:51:20.858244-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/6428603160190727efcbf67782e6ae9b3133f3b96fd31dac09aa31b29e6fb3b6.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "58a7a896087363c88bbf1f9459962e934c0dbac76d2af299f7a38cc30f14754c",
+      "bytes": 57954,
+      "capturado_em": "2026-10-21T03:57:38.219097-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/e485bfd4609485c462d3d7a681561b46e980a1eee90d47d580673b5641bd226b.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1ac09c927433914e7d091b98157d1890b556a1cc5f35826bc984abf14b7975e2",
+      "bytes": 55462,
+      "capturado_em": "2026-10-21T04:03:44.719022-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/52dc0ac9f1c96896c264bd5ec36528e395c83c80e85b99a1faad48daea74e1bf.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "006305fce59bf97fd8007f7ff78cbe635ed6d0a291fb52a0f247cffb4c9d3fe8",
+      "bytes": 56043,
+      "capturado_em": "2026-10-21T04:10:15.856381-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/8046ec81940d582e030fa35e92b6a327df449b506e051369d2cfcbb34e0a2cca.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1d5c78d867c039af72cfac2d3d3037e22eab37afefb2c6cf94c94a132f3617c4",
+      "bytes": 54092,
+      "capturado_em": "2026-10-21T04:16:02.487514-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/d1c7f0e348b38360c5d2dcdd27b4db546661648844c621dbd82192555feb05d5.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "718c4b19795b1f758b5efbfd7c92d58a131fcdc1d48001278123086c0c4eb1b3",
+      "bytes": 54048,
+      "capturado_em": "2026-10-21T04:21:52.475616-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/b1e9b8d59270e9914cd17adec5803505e7330cb034ca55e801f0e37c495ac387.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5c611873fd176f56eab7387579f4ff6c97619ca39dac853f2319d79d8211dc41",
+      "bytes": 54016,
+      "capturado_em": "2026-10-21T04:27:59.783956-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/79efae3347d0eb085e0c5b92c35c43d913173313d17d81ba82b58e2001f6020e.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9d86eace1a1bcf8179b5da6bb292fb890817527d53307b3853863b7a5265147c",
+      "bytes": 54979,
+      "capturado_em": "2026-10-21T04:33:41.748010-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/128302e1dcd24bc793219c4ab824e041f30bc933a4995309e0c7464c1701c733.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.erechim.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0d11a7373608f5dd500819833fa7f7e5dbd02c4dc836b15f7c6ff98a63d74a96",
+      "bytes": 21585,
+      "capturado_em": "2026-10-21T04:39:57.734082-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

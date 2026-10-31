@@ -1,0 +1,7 @@
+{
+  "motor": "markdown-it-py 4.0.0 CommonMark + table + strikethrough",
+  "sha256_visivel_fonte": "c105bac63dd78a3e166f9ad4943623538942d7361024c66b9c7e528344d6ef56",
+  "sha256_visivel_renderizado": "c105bac63dd78a3e166f9ad4943623538942d7361024c66b9c7e528344d6ef56",
+  "todos_caracteres_nao_brancos_iguais": true,
+  "pontuacao_sinais_numeros_preservados": true
+}

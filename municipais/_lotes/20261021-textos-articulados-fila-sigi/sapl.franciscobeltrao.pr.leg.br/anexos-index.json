@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.franciscobeltrao.pr.leg.br/3d032a0d20fbee1530076f73aef8ba24c8c33f72d16ffd4453f15b734037164f.json",
+      "url": "https://sapl.franciscobeltrao.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.franciscobeltrao.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T12:29:50.066595-03:00"
+    }
+  ]
+}

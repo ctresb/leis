@@ -1,0 +1,322 @@
+---
+titulo: "Lei nº 735, de 13 de dezembro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "735"
+data: "2007-12-13"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2008-04-01; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/737"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1234/text"
+sha256_fonte: "c6aa51e197cf19f53a19343bc7138d5bb8ebf496e5a61a084e38df5de685678c"
+sha256_texto: "55373f70f23269e350e8ce373806fe1cfa8b9fbd38a325e139435617d234528a"
+capturado_em_fonte: "2026-10-21T06:42:27.063950-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 735, de 13 de dezembro de 2007
+
+Cria o Fundo Municipal de Habitação de Interesse Social – FHIS e Institui o Conselho – Gestor do FHIS.
+
+
+O **PREFEITO MUNICIPAL DE AMONTADA**, no uso de suas atribuições legais, faço saber que a Câmara Municipal Decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei cria o Fundo de Habitação de Interesse Social - FHIS e institui o Conselho-Gestor do FHIS.
+
+
+#### CAPÍTULO I — DO FUNDO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+
+##### Seção I — Objetivos e Fontes
+
+
+Art. 2º.
+
+Fica criado o Fundo de Habitação de Interesse Social - FHIS, de natureza contábil, com o objetivo de centralizar e gerenciar recursos orçamentários para os programas destinados a implementar políticas habitacionais direcionadas à população de menor renda.
+
+
+Art. 3º.
+
+O FHIS é constituído por:
+
+
+I –
+
+dotações do Orçamento Geral do Estado, da União e do Município, classificadas na função de habitação;
+
+
+II –
+
+outros fundos ou programas que vierem a ser incorporados ao FHIS;
+
+
+III –
+
+recursos provenientes de empréstimos externos e internos para programas de habitação;
+
+
+IV –
+
+contribuições e doações de pessoas físicas ou jurídicas, entidades e organismos de cooperação nacionais ou internacionais;
+
+
+V –
+
+receitas operacionais e patrimoniais de operações realizadas com recursos do FHIS; e
+
+
+VI –
+
+outros recursos que lhe vierem a ser destinados.
+
+
+##### Seção II — Do Conselho-Gestor do FHIS
+
+
+Art. 4º.
+
+O FHIS será gerido por um Conselho-Gestor.
+
+
+Art. 5º.
+
+O Conselho gestor é órgão de caráter deliberativo e será composto pelas seguintes Entidades:
+
+Alteração feita pelo Art. 1º. - Lei nº 751, de 01 de abril de 2008.
+
+
+I –
+
+Representantes do Poder Público:
+
+
+a)
+
+01 representante da Secretaria de Educação do Município;
+
+
+b)
+
+01 representante da Secretaria de Ação social do Município;
+
+
+c)
+
+01 representante da Secretária de Saúde do município;
+
+
+d)
+
+01 Representante da Secretaria de Infra-Estrutura;
+
+Alteração feita pelo Art. 1º. - Lei nº 751, de 01 de abril de 2008.
+
+
+e)
+
+01 Representante do Poder Legislativo.
+
+Inclusão feita pelo Art. 1º. - Lei nº 751, de 01 de abril de 2008.
+
+
+II –
+
+Representantes da Sociedade Civil Organizada:
+
+
+a)
+
+01 representante da Igreja Católica;
+
+
+b)
+
+01 representante da Igreja Evangélica;
+
+
+c)
+
+01 representante do Sindicato dos Trabalhadores Rurais;
+
+
+d)
+
+01 representante do Comercio.
+
+
+III –
+
+Representantes dos Movimentos Populares:
+
+Inclusão feita pelo Art. 1º. - Lei nº 751, de 01 de abril de 2008.
+
+
+a)
+
+01 Representante da Associação Comunitária Urbana;
+
+Inclusão feita pelo Art. 1º. - Lei nº 751, de 01 de abril de 2008.
+
+
+b)
+
+01 Representante de Assentamento Comunitário;
+
+Inclusão feita pelo Art. 1º. - Lei nº 751, de 01 de abril de 2008.
+
+
+c)
+
+01 Representante de Associação Comunitária Rural.
+
+Inclusão feita pelo Art. 1º. - Lei nº 751, de 01 de abril de 2008.
+
+
+§ 1º
+
+A Presidência do Conselho-Gestor do FHIS será exercida pelo Secretário Municipal Ação Social.
+
+
+§ 2º
+
+O presidente do Conselho-Gestor do FHIS exercerá o voto de qualidade.
+
+
+§ 3º
+
+Competirá a Secretaria Municipal de Ação social proporcionar ao Conselho Gestor do FHIS os meios necessários ao exercício das suas competências.
+
+
+§ 4º
+
+Cada titular do Conselho Gestor terá um suplente oriundo da mesma categoria representativa.
+
+
+##### Seção III — Das Aplicações dos Recursos do FHIS
+
+
+Art. 6º.
+
+As aplicações dos recursos do FHIS serão destinadas a ações vinculadas aos programas de habitação de interesse social que contemplem:
+
+
+I –
+
+aquisição, construção, conclusão, melhoria, reforma, locação social e arrendamento de unidades habitacionais em áreas urbanas e rurais;
+
+
+II –
+
+produção de lotes urbanizados para fins habitacionais;
+
+
+III –
+
+urbanização, produção de equipamentos comunitários, regularização fundiária e urbanística de áreas caracterizadas de interesse social;
+
+
+IV –
+
+implantação de saneamento básico, infra-estrutura e equipamentos urbanos, complementares aos programas habitacionais de interesse social;
+
+
+V –
+
+aquisição de materiais para construção, ampliação e reforma de moradias;
+
+
+VI –
+
+recuperação ou produção de imóveis em áreas encortiçadas ou deterioradas, centrais ou periféricas, para fins habitacionais de interesse social;
+
+
+VII –
+
+outros programas e intervenções na forma aprovada pelo Conselho-Gestor do FHIS.
+
+
+Parágrafo único
+
+Será admitida a aquisição de terrenos vinculados à implantação de projetos habitacionais.
+
+
+##### Seção IV — Das Competências do Conselho Gestor do FHIS
+
+
+Art. 7º.
+
+Ao Conselho Gestor do FHIS compete:
+
+
+I –
+
+estabelecer diretrizes e fixar critérios para a priorização de linhas de ação, alocação de recursos do FHIS e atendimento dos beneficiários dos programas habitacionais, observado o disposto nesta Lei, a política e o plano municipal de habitação;
+
+
+II –
+
+aprovar orçamentos e planos de aplicação e metas anuais e plurianuais dos recursos do FHIS;
+
+
+III –
+
+fixar critérios para a priorização de linhas de ações;
+
+
+IV –
+
+deliberar sobre as contas do FHIS;
+
+
+V –
+
+dirimir dúvidas quanto à aplicação das normas regulamentares, aplicáveis ao FHIS, nas matérias de sua competência;
+
+
+VI –
+
+aprovar seu regimento interno.
+
+
+§ 1º
+
+As diretrizes e critérios previstos no inciso I do Caput deste artigo deverão observar ainda as normas emanadas do Conselho Gestor do Fundo Nacional de Habitação de Interesse Social, de que trata a Lei Federal N°. 11.124, de 16 de junho de 2005, nos casos em que o FHIS vier a receber recursos federais.
+
+
+§ 2º
+
+O Conselho Gestor do FHIS promoverá ampla publicidade das formas e critérios de acesso aos programas, das modalidades de acesso à moradia, das metas anuais de atendimento habitacional, dos recursos previstos e aplicados, identificados pelas fontes de origem, das áreas objeto de intervenção, dos números e valores dos benefícios e dos financiamentos e subsídios concedidos, de modo a permitir o acompanhamento e fiscalização pela sociedade.
+
+
+§ 3º
+
+O Conselho Gestor do FHIS promoverá audiências públicas e conferências, representativas dos segmentos sociais existentes, para debater e avaliar critérios de alocação de recursos e programas habitacionais existentes.
+
+
+CAPÍTULO
+
+DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS
+
+
+Art. 8º.
+
+Esta Lei será implementada em consonância com a Política Nacional de Habitação e com o Sistema Nacional de Habitação de Interesse Social.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA - CE, EM 13 DE DEZEMBRO DE 2007.**
+
+**EDIVALDO ASSIS DE JESUS Prefeito Municipal**
+

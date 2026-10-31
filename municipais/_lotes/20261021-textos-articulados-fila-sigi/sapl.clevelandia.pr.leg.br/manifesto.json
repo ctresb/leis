@@ -1,0 +1,42 @@
+{
+  "host": "sapl.clevelandia.pr.leg.br",
+  "metadados_unicos_observados": 88,
+  "total_api_declarado": 88,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 70,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.clevelandia.pr.leg.br/0b41901ae32f108124562d398b3ac1a7e4806956498a58e0eb78af41267c080a.json",
+    "url": "https://sapl.clevelandia.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.clevelandia.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d93ec15cca02cb0cf9b75ed2df8bb7096290077fd6f2f1f03be4c14f0edbc345",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T22:48:17.402816-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.clevelandia.pr.leg.br/0e6ac8b00246475006a1d3cd6666dac08ea5de00c09a21feb5cd24f3e3c19a8e.json",
+    "url": "https://sapl.clevelandia.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.clevelandia.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "4cd75db89b8f1afd8dddd8425a33127deb6e2efa16928c4b8c4319a669062c92",
+    "bytes": 811,
+    "capturado_em": "2026-10-27T22:48:16.550879-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.clevelandia.pr.leg.br/973d6855082c5a855cb3263b5a54ac86665be7818120529ab2c2aa238b7491a2.json",
+      "url": "https://sapl.clevelandia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.clevelandia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "527de5f870e6aa6dd52beb9b5023c8e9417000c9d381b444ed21de83ca656c40",
+      "bytes": 56991,
+      "capturado_em": "2026-10-27T22:48:18.968070-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

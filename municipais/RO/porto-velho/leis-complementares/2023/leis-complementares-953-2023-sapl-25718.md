@@ -1,0 +1,487 @@
+---
+titulo: "Lei Complementar nº 953, de 14 de setembro de 2023"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "953"
+data: "2023-09-14"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25718"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4133/text"
+sha256_fonte: "81408f5475032c4855a7d1f5890426b2e22011ec11e092a330101c21ba33d7d8"
+sha256_texto: "bdcd35cdc194c31df3e67b9c43339a73f5b4f1fac42a5a5e8cedea1758a23a09"
+capturado_em_fonte: "2026-10-21T05:09:38.473460-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 953, de 14 de setembro de 2023
+
+Reestrutura o Conselho Municipal de Desenvolvimento Rural – CMDR, criado pelo Art. 233, VII, da Lei Orgânica do Município de Porto Velho.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO** usando da atribuição que lhe é conferida no inciso IV, do Art. 87, da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte,
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+O Conselho Municipal de Desenvolvimento Rural – CMDR criado pelo Art. 233, inciso VII, da Lei Orgânica do Município de Porto Velho, tem por objetivo atuar como órgão consultivo e deliberativo no que se refere a política de desenvolvimento rural, no âmbito da atuação Municipal.
+
+
+Art. 2º.
+
+O CMDR fica reestruturado nos termos desta Lei, vinculado à Secretaria Municipal da Agricultura e Abastecimento – SEMAGRIC.
+
+
+Parágrafo único
+
+O Presidente do CMDR é o Secretário Municipal titular da Secretaria Municipal de Agricultura e Abastecimento – SEMAGRIC e o Vice-Presidente será o Secretário Adjunto, devendo o Presidente indicar a Secretaria Executiva do Conselho entre os membros efetivos da SEMAGRIC.
+
+
+Art. 3º.
+
+Cabe ao CMDR, com a aprovação do seu Presidente, dispor a respeito de todos os assuntos relacionados as ações Municipais para o desenvolvimento rural, especialmente sobre:
+
+
+I –
+
+definição das prioridades da política agrícola;
+
+
+II –
+
+análise da viabilidade técnica e financeira do Plano Municipal de Desenvolvimento Rural;
+
+
+III –
+
+elaboração do Plano de Desenvolvimento Rural;
+
+
+IV –
+
+critérios para a programação e execução financeiras e orçamentárias do Fundo Municipal de Desenvolvimento rural, bem como fiscalizar a movimentação e aplicação dos recursos;
+
+
+V –
+
+avaliação e acompanhamento da aplicação dos recursos do PRONAF e de outras fontes destinadas ao setor agropecuário;
+
+
+VI –
+
+aprovação de critério para a celebração de contratos e convênios entre o setor público e as entidades privadas que prestarem serviços de assistência técnica no setor agropecuário;
+
+
+VII –
+
+elaborar e aprovar seu regimento interno;
+
+
+VIII –
+
+garantir a participação dos agricultores nas decisões de interesse do setor agrícola.
+
+
+Art. 4º.
+
+O Conselho Municipal de Desenvolvimento Rural – CMDR será composto por 34 (trinta e quatro) membros efetivos e igual número de suplentes, tendo a seguinte representação:
+
+
+I –
+
+01 (um) representante da Secretaria Municipal de Agricultura e Abastecimento – SEMAGRIC;
+
+
+II –
+
+01 (um) representante da Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável – SEMA;
+
+
+III –
+
+01 (um) representante da Câmara Municipal de Porto Velho;
+
+
+IV –
+
+01 (um) representante do Banco da Amazônia – BASA;
+
+
+V –
+
+01 (um) representante do Banco do Brasil;
+
+
+VI –
+
+01 (um) representante da Caixa Econômica;
+
+
+VII –
+
+01 (um) representante da Cooperativa Central de Crédito do Norte do Brasil – SICOOB;
+
+
+VIII –
+
+01 (um) representante do Banco do Povo – ACRECID;
+
+
+IX –
+
+01 (um) representante da Empresa de Assistência Técnica e Extensão Rural – Emater;
+
+
+X –
+
+01 (um) representante da Companhia Nacional de Abastecimento – CONAB;
+
+
+XI –
+
+01 (um) representante da Empresa Brasileira de Pesquisa Agropecuária – EMBRAPA;
+
+
+XII –
+
+01 (um) representante da Superintendência Federal a Agricultura – SFA;
+
+
+XIII –
+
+01 (um) representante do Instituto de Colonização e Reforma Agrária – INCRA;
+
+
+XIV –
+
+01 (um) representante da Agência de Defesa Sanitária Agrosilvopastoril do Estado de Rondônia – IDARON;
+
+
+XV –
+
+01 (um) representante da Secretaria de Assistência Social – SEAS;
+
+
+XVI –
+
+01 (um) representante do FAPERON/SENAR;
+
+
+XVII –
+
+01 (um) representante da Secretaria de Educação do Município de PVH – SEMED;
+
+
+XVIII –
+
+01 (um) Sindicato e Organização das Cooperativas Brasileiras – OCB/RO;
+
+
+XIX –
+
+01 (um) Sindicato dos Trabalhadores e Trabalhadoras Rurais do Município de Porto Velho – STTR;
+
+
+XX –
+
+01 (um) representante da Associação Rural de Jaci-Paraná – ARJAP;
+
+
+XXI –
+
+01 (um) representante da Associação dos Pequenos Agrossilvicultores do Projeto Reca – RECA;
+
+
+XXII –
+
+01 (um) representante da Associação Comunitária dos Produtores Rurais Hortifrutigranjeiros – Vale do Sol;
+
+
+XXIII –
+
+01 (um) representante da Associação dos Produtores Rurais da Gleba Aliança – AGRILANÇA;
+
+
+XXIV –
+
+01 (um) representante da Cooperativa de Agroextrativismo do Médio do Baixo Madeira – COOMADE;
+
+
+XXV –
+
+01 (um) representante da Colônia dos Pescadores;
+
+
+XXVI –
+
+01 (um) representante da Cooperativa dos Produtores Rurais Porto Verde – COOPVERDE;
+
+
+XXVII –
+
+01 (um) representante da Associação dos Agricultores, Chacareiros, Hortifrutigranjeiros da Comunidade Terra Santa – ASSGRICTS;
+
+
+XXVIII –
+
+01 (um) representante da Associação Café D’Arc da Linha 17;
+
+
+XXIX –
+
+01 (um) representante da ARGLEC;
+
+
+XXX –
+
+01 (um) representante da Associação do Bom Jesus;
+
+
+XXXI –
+
+01 (um) representante da ASPROL Nova Esperança da Linha 27;
+
+
+XXXII –
+
+01 (um) representante da ASPROL São Sebastião;
+
+
+XXXIII –
+
+01 (um) representante da Associação das Mulheres de União Bandeirantes;
+
+
+XXXIV –
+
+01 (um) representante da Associação do Desenvolvimento Agrícola e Ambiental dos Produtores Rurais do Vale Igarapé do Índio e Entorno – ADAPROVIN.
+
+
+Art. 5º.
+
+O exercício da função de Conselheiro do CMDR é considerado serviço público relevante, e não será remunerada, e obedecerá às disposições seguintes:
+
+
+I –
+
+substituirá o conselheiro titular, no caso de impedimento ou ausência, e suceder-lhe-á, no caso de vaga, o respectivo suplente;
+
+
+II –
+
+será destituído o conselheiro que, injustificadamente, faltar 02 (duas) reuniões consecutivas ou 03 (três) intercaladas no prazo de um ano.
+
+
+Art. 6º.
+
+A Secretaria Executiva do CMDR estará diretamente subordinada à Presidência, tem por finalidade prover o Conselho, do apoio técnico e administrativo necessário à execução de suas atividades.
+
+
+§ 1º
+
+A função de Secretária Executiva do Conselho, será exercida por um(a) dos servidores efetivos da SEMAGRIC.
+
+
+§ 2º
+
+A Secretaria Executiva poderá ser composta por até três servidores(as) designados pelo titular da SEMAGRIC.
+
+
+§ 3º
+
+Os servidores serão designados para exercer as funções de Secretário Executivo, Secretário e Auxiliar de Secretaria.
+
+
+Art. 7º.
+
+Compete ao(a) Secretário(a) Executivo(a):
+
+
+I –
+
+dirimir, supervisionar, coordenar e executar serviços técnicos e administrativos da Secretaria Executiva visando garantir seu eficiente funcionamento;
+
+
+II –
+
+assistir e instruir o Presidente do Conselho no encaminhamento e na coordenação das sessões do CMDR, secretariando as reuniões e demais procedimentos administrativos de estilo;
+
+
+III –
+
+administrar o pessoal da Secretaria Executiva;
+
+
+IV –
+
+cumprir diligências autorizadas ou determinadas pelo presidente do Conselho;
+
+
+V –
+
+proceder o controle das faltas dos Conselheiros através de folhas de frequência;
+
+
+VI –
+
+receber e elaborar a correspondência sujeita ao conhecimento, apreciação e deliberação do Conselho;
+
+
+VII –
+
+efetuar a apresentação do Relatório Final das atividades do Conselho;
+
+
+VIII –
+
+providenciar a publicação das Atas das reuniões do Conselho, resoluções e decisões no Diário Oficial dos Municípios de Rondônia;
+
+
+IX –
+
+cumprir outros encargos que lhe forem atribuídos pelo Conselho Municipal de Desenvolvimento Rural.
+
+
+Art. 8º.
+
+Compete a (o) Secretário (a):
+
+
+I –
+
+auxiliar o(a) Secretário(a) Executivo(a) na coordenação dos trabalhos;
+
+
+II –
+
+substituir o(a) Secretário(a) Executivo(a) nos seus impedimentos ou faltas;
+
+
+III –
+
+preparar a sala de reuniões providenciando, quando necessário, instalação de sistema de som e gravação;
+
+
+IV –
+
+cumprir outros encargos que lhe forem designados pelo(a) Secretário(a) Executivo(a) que visem garantir o eficiente funcionamento do CMDR.
+
+
+Art. 9º.
+
+Compete ao Auxiliar de Secretaria:
+
+
+I –
+
+dar suporte administrativo para a correta condução dos trabalhos do Conselho;
+
+
+II –
+
+controlar a tramitação dos documentos internos do CMDR;
+
+
+III –
+
+auxiliar na transcrição das atas das reuniões do CMDR;
+
+
+IV –
+
+organizar o arquivo das atas de reuniões, resoluções e documentos do CMDR;
+
+
+V –
+
+manter cópia das atas das reuniões realizadas para conhecimento;
+
+
+VI –
+
+manter relações atualizadas, indicando o andamento dos processos, projetos e proposituras em tramitação no CMDR.
+
+
+Art. 10.
+
+O funcionamento do CMDR será regido por Regimento Interno que adotar, respeitadas as seguintes normas:
+
+
+I –
+
+o Plenário é o órgão de deliberação máxima;
+
+
+II –
+
+reunir-se-á ordinariamente a cada três meses e, extraordinariamente, quando convocado pelo Presidente ou 2/3 (dois terços) de seus membros titulares;
+
+
+III –
+
+as reuniões só terão caráter deliberativo com a presença do Presidente ou substituto legal e de 1/3 (um terço) de seus membros, sendo consideradas aprovadas as matérias que obtiverem a maioria absoluta de votos dos presentes;
+
+
+IV –
+
+o Presidente só votará em caso de empate;
+
+
+V –
+
+as reuniões serão públicas, podendo delas participar, com direito a voz, pessoas especialmente convidadas;
+
+
+VI –
+
+das reuniões do plenário será lavrada ata em livro próprio e baixadas Resoluções referentes as decisões tomadas;
+
+
+VII –
+
+cada membro titular terá direito a 01 (um) único voto.
+
+
+Parágrafo único
+
+O CMDR elaborará o seu Regimento Interno no prazo de 90 (noventa) dias a contar da publicação desta Lei Complementar.
+
+
+Art. 11.
+
+A SEMAGRIC prestará o apoio administrativo necessário ao funcionamento do CMDR.
+
+
+Art. 12.
+
+As despesas decorrentes desta Lei Complementar correrão por conta das dotações orçamentárias da Secretaria Municipal de Agricultura e Abastecimento – SEMAGRIC, ficando o Poder Executivo autorizado as suplementações necessárias.
+
+
+Art. 13.
+
+Fica o Poder Executivo Municipal autorizado a regulamentar a presente lei complementar, no que for necessário a sua fiel execução.
+
+
+Art. 14.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Art. 15.
+
+Revogam-se as Leis Complementares nº 107, de 07 de dezembro de 2000; nº 114, de 30 de março de 2001; nº 198, de 10 de dezembro de 2004; nº 252, de 26 de dezembro de 2005; nº 263, de 20 de outubro de 2006; nº 749, de 19 de dezembro de 2018; e nº 920, de 09 de novembro de 2022.
+
+
+**HILDON DE LIMA CHAVES**
+
+**Prefeito**
+

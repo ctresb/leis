@@ -1,0 +1,128 @@
+{
+  "aprovados": 336,
+  "retidos": 24,
+  "hosts": 27,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/aprovados.paths.txt",
+      "sha256": "2e5c7109152edd70e1fb63d2555d9f1f0562b7f7f8ccf4304d142a2055e03e8d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.araguari.mg.leg.br.json",
+      "sha256": "0025e5a369fcb43e3e35759c766605021a072023a3888d0b1ca12685651b7f74"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.araucaria.pr.leg.br.json",
+      "sha256": "a0fd036519e452f1775e479e770d01c96cdd30d28ae63d60e4e2875b2efca1ea"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.barradesaomiguel.pb.leg.br.json",
+      "sha256": "6aca8e326697a3cdb5846725f93ddae98b6cff6c3cb2fd09d2912bf83f7f4160"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.barradogarcas.mt.leg.br.json",
+      "sha256": "f2e44299d7aab2599d014cfd58f6b477ea8670c28709b6f6b180bac26acca2d3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.bomjardim.rj.leg.br.json",
+      "sha256": "e448977cb477d2338fa9c3cd5357207535b13c16870a0eca925515f32646ebf1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.campodotenente.pr.leg.br.json",
+      "sha256": "d30580add6fbd8a1a10e986bb29243982341496fd50206ce1a2561f48a5050fd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.cantagalo.rj.leg.br.json",
+      "sha256": "adbafa8cfee3e5358a08a0996a8620161a00c907084cbed77280928bcf9b1ca3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.cataguases.mg.leg.br.json",
+      "sha256": "c0649cf3c09dc58d932b8aa4a51029ee899aa7dec01bb9cb317d4b00b725b935"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.cmm.am.gov.br.json",
+      "sha256": "dde5f74bfcfc2f8d63a80c772a397eeb7b485963abbb0b1f7d2b8a8699cf54a3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.corbelia.pr.leg.br.json",
+      "sha256": "8f07c05e888939b486e38a6511613c9c93a1f58398e40b6177ec388ae49a36dd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.coronelfabriciano.mg.leg.br.json",
+      "sha256": "0567bce1e235d9a540939e362b57d99ad8ca9e5290736a24b2a6020e4a5ef217"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.formosa.go.leg.br.json",
+      "sha256": "17aaa96301b61041dafb316bfa752acb4c1294963f88a48518ed7ea425228f6f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.iconha.es.leg.br.json",
+      "sha256": "a7f86355fae719a5d6ba18e0ca98d2b1b13fd778397ee286637ab9c874cf8865"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.joaquimtavora.pr.leg.br.json",
+      "sha256": "168ac7a95196e30522ad644fc74d452ab7d77d92e438a7867ba4d31f8d753ff2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.lagoadaprata.mg.leg.br.json",
+      "sha256": "e05672b495ff545c9cbf89ec44bfeffb724bcf5e4b46cdb24ee2308879c43ad1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.laranjalpaulista.sp.leg.br.json",
+      "sha256": "aa3b3f38aff15f5624e1820789788fcdb72b665a5b630433112b20c76cdec35e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.luz.mg.leg.br.json",
+      "sha256": "6bc3b5d272a5bbcd4a332d9dc877da6221b31b780ee15cca659f588fa1c55392"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.mercedes.pr.leg.br.json",
+      "sha256": "ed358d4282e867bff991ad3b653d276e4a83e526a1772c62113b378f13e85e34"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.pedralva.mg.leg.br.json",
+      "sha256": "a27e065ce6492de0691b804f1846a2bcec95bf027eb35ef6713dfd4efce4ccae"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.pelotas.rs.leg.br.json",
+      "sha256": "37c13ce9e176dff39f01417366324c4d170c65bc63385c99d2efe8d25ceeeedd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.pequeri.mg.leg.br.json",
+      "sha256": "c459c0493259483e3e5e7dc6652a771e6b5361c25c239471e63a083a191ac443"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.pontenova.mg.leg.br.json",
+      "sha256": "fed44d1b2ecf83e00513042b8b1cb7887dfb0c3fac217562b053f80c8f8963e8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.santalucia.pr.leg.br.json",
+      "sha256": "306802b16bc28ed617a82e43ad35daa339c30bd4a6ad0e09649cfb8de7995b1e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.sempeixe.mg.leg.br.json",
+      "sha256": "4c248073419380d1597fb0accddf28910d5d2c1eb7106059637155ec98c69b67"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.sertania.pe.leg.br.json",
+      "sha256": "ffecd16520bb925ed6bdabcbde7df53d9af1222140b342be0181d77aac5a4782"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.tomazina.pr.leg.br.json",
+      "sha256": "5f3a8d3cb180957d60fb096c8c9726c4512b72f931f724a265570155fc652af4"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/host-sapl.uba.mg.leg.br.json",
+      "sha256": "4e3b4e3c00ce5a36e7d1654af80ca738265c1d27f0c208dbf4bf5e91fd2b21ee"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/overlay.json",
+      "sha256": "f3d16bc25e31f4ce74073f9e5a31d67beb03c34dcd1a2ef85ef3ce3acc457d19"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos004-gate-anexos/retidos.paths.txt",
+      "sha256": "5149ca2c27df50454354742900742454ddf450667c9cdeb43e0e5e0d3a8fd0aa"
+    }
+  ],
+  "script_sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362"
+}

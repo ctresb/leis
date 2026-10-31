@@ -1,0 +1,66 @@
+{
+  "host": "sapl.pequeri.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/anexo_i_2.pdf da norma Resolução-SLEG nº 4, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pequeri.mg.leg.br/media/sapl/public/anexonormajuridica/2026/1/anexo_i_2.pdf",
+      "ano": 2026,
+      "norma": 141
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/anexo_ii.pdf da norma Resolução-SLEG nº 4, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pequeri.mg.leg.br/media/sapl/public/anexonormajuridica/2026/2/anexo_ii.pdf",
+      "ano": 2026,
+      "norma": 141
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/anexo_iii.pdf da norma Resolução-SLEG nº 4, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pequeri.mg.leg.br/media/sapl/public/anexonormajuridica/2026/3/anexo_iii.pdf",
+      "ano": 2026,
+      "norma": 141
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/anexo_l.pdf da norma Lei Complementar-SLEG nº 1.688, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pequeri.mg.leg.br/media/sapl/public/anexonormajuridica/2025/4/anexo_l.pdf",
+      "ano": 2025,
+      "norma": 6
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/anexo_ll.pdf da norma Lei Complementar-SLEG nº 1.688, de 06 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pequeri.mg.leg.br/media/sapl/public/anexonormajuridica/2025/5/anexo_ll.pdf",
+      "ano": 2025,
+      "norma": 6
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.pequeri.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pequeri.mg.leg.br/79de56a3327b0113e9a630a793408a834c498c63afa262e69edc2ab121202c7d.json",
+      "sha256": "1b7db617878117ec117027bda65bcb89766f32b2e1e184e9b78ebb866c99a816",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pequeri.mg.leg.br/79de56a3327b0113e9a630a793408a834c498c63afa262e69edc2ab121202c7d.meta.json"
+    }
+  ],
+  "total": 5
+}

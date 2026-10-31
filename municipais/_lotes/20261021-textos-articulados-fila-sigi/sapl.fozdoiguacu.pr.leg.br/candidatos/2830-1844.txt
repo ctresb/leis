@@ -1,0 +1,48 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 123.000,00 (cento e vinte três mil reais) ao Orçamento do Instituto de Habitação de Foz do Iguaçu - FOZHABITA.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento do Instituto de Habitação de Foz do Iguaçu - FOZHABITA, no valor de R$ 123.000,00 (cento e vinte três mil reais), para reforço de dotações, na forma especificada no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º., na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 7 de julho de 2025.  
+  
+Joaquim Silva e Luna  
+Prefeito Municipal  
+  
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos  
+  
+Eduardo Castanheira Garrido Alves  
+Secretário Municipal de Finanças e Orçamento  
+  
+Ivatan Batista dos Reis  
+Diretor-superintendente do Instituto de Habitação de Foz do Iguaçu - FOZHABITA
+
+
+## Anexo I — CRÉDITO ADICIONAL SUPLEMENTAR
+
+
+<table><tbody><tr><td>Órgão</td><td>33</td><td>INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU - FOZHABITA</td><td>VALOR</td></tr><tr><td>Unidade</td><td>01</td><td>FOZHABITA - INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Funcional Programática</td><td>16.482.0700.2193</td><td>Manutenção do FOZHABITA</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.11</td><td>Vencimentos e Vantagens Fixas - Pessoal Civil</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente ...</td><td>108.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.13</td><td>Contribuições Patronais</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente ...</td><td>15.000,00</td></tr><tr><td colspan="4">Justificativa: Adequação orçamentária para reestruturação das Diretorias do FOZHABITA.</td></tr><tr><td colspan="3">TOTAL DA SUPLEMENTAÇÃO ..........................</td><td>123.000,00</td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO
+
+
+<table><tbody><tr><td>Órgão</td><td>33</td><td>INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU - FOZHABITA</td><td>VALOR</td></tr><tr><td>Unidade</td><td>02</td><td>FUNDO MUNICIPAL DE HABITAÇÃO - FOZHABITA</td><td> </td></tr><tr><td>Funcional Programática</td><td>16.482.0700.2194</td><td>Manutenção do Fundo Municipal de Habitação</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.39</td><td>Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente ...</td><td>123.000,00</td></tr><tr><td colspan="4">Justificativa: Adequação orçamentária para reestruturação das Diretorias do FOZHABITA.</td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO ...............................</td><td>123.000,00</td></tr></tbody></table>
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

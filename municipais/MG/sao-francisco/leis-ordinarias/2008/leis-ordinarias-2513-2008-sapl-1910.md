@@ -1,0 +1,119 @@
+---
+titulo: "Lei Ordinária-EXEC nº 2.513, de 23 de dezembro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2513"
+data: "2008-12-23"
+municipio: "São Francisco"
+uf: "MG"
+codigo_ibge: "3161106"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.saofrancisco.mg.leg.br/norma/1910"
+fonte_texto: "https://sapl.saofrancisco.mg.leg.br/media/sapl/public/normajuridica/2008/1910/2513.pdf"
+sha256_fonte: "cfb195e9868eadef24561d9791daa6d339f1c77910dcdd501cd5d14171faa489"
+sha256_texto: "aa133f413beb828250216770bc9f2a61bb7fff4105e6f8e349df039a05ffd2fc"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-EXEC nº 2.513, de 23 de dezembro de 2008
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+MINAS GERAIS Rua Montes Claros n° 243 - Centro - CEP 39.300-000 - CNPJ 22.679.153/0001-40 - Fone (38) 3631-1924 São Francisoo - MG
+
+LEI N° 2.513 DE 23 DE DEZEMBRO DE 2008 Estima e receita e fixa a despesa do Município de São Francisco - MG para o exercício financeiro de 2009. O povo do Município de São Francisco, estado de Minas Gerais, por seus representantes na Câmara Municipal aprovou e eu, em seu nome, sanciono a seguinte Lei:
+
+**Art. 1°** - Esta Lei estima a receita do Município para o exercício financeiro de 2009, no montante de R$ 63.720.589,00 (sessenta e três milhões, setecentos e vinte mil, quinhentos e oitenta e nove reais), e fixa a despesa em igual valor, nos termos do
+
+art. 165, § 5°, da Constituição Federal e com base no disposto da
+
+Lei de Diretrizes Orçamentárias para o exercício financeiro de 2009, compreendendo o orçamento fiscal e da seguridade social, referente aos Poderes do Município, seus fundos, órgãos e entidades da Administração Pública Municipal direta e indireta, inclusive fundações instituídas e mantidas pelo Poder Público.
+
+Parágrafo Único - Integram a presente Lei os seguintes quadros: 1 - Quadro I - Receita Orçamentária por categoria e fonte;
+
+II - Quadro II - Despesa Orçamentária por funções de governo;
+
+III - Quadro III - Despesa Orçamentária por órgãos e unidades orçamentárias;
+
+IV - Quadro IV - Resumo das receitas e despesas por órgãos.
+
+**Art. 2°** - Ficam os Chefes dos Poderes Executivo e Legislativo autorizado a:
+
+MINAS GERAIS Rua Montes Claros n° 243 - Centro - CEP 39.300-000 - CNPJ 22.679.153/0001-40 - Fone (38) 3631-1924 1 - abrir créditos suplementares, respeitadas as demais prescrições constitucionais e nos termos da Lei Federal n° 4.320/1964, até o valor correspondente a 30% (trinta por cento) do montante previsto nesta Lei. Parágrafo Unico - Os Poderes Executivo e Legislativo ficam autorizados a transpor, remanejar ou transferir saldos orçamentários entre dotações de mesma categoria programática, justificadamente para atender às necessidades de execução, desde que verificada a inviabilidade técnica, operacional ou econômica da execução orçamentária, mediante Decreto.
+
+**Art. 3°** - Acompanharão a presente Lei os anexos exigidos pela legislação vigente.
+
+**Art. 4°** - Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário. São Francisco, 23 de dezembro de 2008.
+
+JOSE ANTÔNIO DA ROCHA LIMA Prefeito Municipal
+
+MUNICÍPIO DE SAO FRANCISCO 002/004
+
+Opção: 4374
+
+LEI ORÇAMENTARIA ANUAL - 2009 QUADRO I - RECEITA ORÇAMENTÁRIA POR CATEGORIA E FONTE 1. RECEITAS CORRENTES R$ RECEITA TRIBUTARIA 1.730.500,00 RECEITA DE CONTRIBUICOES 1.487.000,00 RECEITA PATRIMONIAL 1.654.000,00îšŚęÍ RECEITA AGROPECUARIA 0,00 RECEITA INDUSTRIAL 0,00 RECEITA DE SERVICOS 3.189.000,00 45.095.889,00 TRANSFERENCIAS CORRENTES 1.752.000,00 OUTRAS RECEITAS CORRENTES RECEITAS CORRENTES INTRA - ORÇAMENTÁRIAS 2.500.000,0ł R$ 2. RECEITAS DE CAPITAL 1.500.000,00 OPERACOES DE CREDITO ALIENACAO DE BENS 600.000,00 AMORTIZACAO DE EMPRESTIMOS 0,00 TRANSFERENCIAS DE CAPITAL 8.415.000,00 0,00 OUTRAS RECEITAS DE CAPITAL 67.923.389,00 TOTAL DAS RECEITAS ( - ) DEDUCOES DA RECEITA PARA FORMACAO DO FUNDEB -4.202.800,00 63.720.589,00 TOTAL GERAL DAS RECEITAS QUADRO II - DESPESA ORÇAMENTÁRIA POR FUNÇÕES DE GOVERNO FUNÇÕES DE GOVERNO TOTAL ADM . INDIRETA ADM . DIRETA COD 1.897.000,00 1.897.000,00 0,00
+
+LEGISLATIVA 278.800,00 278.800,00 0,00
+
+JUDICIARIA 5.845.190,0ął 0,00 5.845.190,00ł ADMINISTRACAO
+
+82.800,00 0,00 SEGURANCA PUBLICA 82.800,00
+
+3.075.350,00 0,00 ASSISTENCIA SOCIAL 3.075.350,00
+
+2.700.000,00 2.700.000,00 0,00 PREVIDENCIA SOCIAL
+
+14.848.900,0ą 0,00 14.848.900,00 SAUDE
+
+15.955.400,00 15.955.400,0ą 0,00 EDUCACAO
+
+565.000,00 0,00 565.000,00 CULTURA
+
+0,00 60.000,00 60.000,00 DIREITOS DE CIDADANIA
+
+1.911.600,00 0,00 1.911.600,00 URBANISMO
+
+202.700,00 0,00 202.700,00 SANEAMENTO
+
+1.263.400,00 0,00 1.263.400,00 GESTAO AMBIENTAL
+
+3.319.100,0îš 0,00 3.319.100,00 AGRICULTURA
+
+6.700,00 0,00 6.700,00 COMERCIO E SERVICOS
+
+47.500,00 0,00 47.500,00 COMUNICACOES
+
+991.100,00 0,00 991.100,00 ENERGIA
+
+4.010.300,00 0,00 4.010.300,00 TRANSPORTE
+
+403.500,00 0,00 403.500,00 DESPORTO E LAZER
+
+3.256.249,00 0,00 3.256.249,00 ENCARGOS ESPECIAIS
+
+3,000.000,00 3.000.000,00 0,00 RESERVAS
+
+63.720.589,00 5.700.000,00 58.020.589,00 TOTAL GERAL ORCLEI emitido em 11/03/2009 às 12:09 por CELIO CARDOSO ROCHA • SIP - Sistemas Públicos
+
+MUNICIPIO DE SAO FRANCISCO 003/004
+
+Opção: 437ęšŚ
+
+LEI ORÇAMENTÁRIA ANUAL - 2009 QUADRO III - DESPESA ORÇAMENTARIA POR ENTIDADES, ORGÃOS E UNIDADES ORÇAMENTARIAS ADMINISTRAÇÃO DIRETA VALOR CÂMARA MUNICIPAL 1.897.000.00ł CORPO LEGISLATIVO 742.000,00 SECRETARIA 844.000,00 SERVIÇOS GERAIS 311.000,00 EXECUTIVO 56.123.589,00 GABINETE DO PREFEITO 1.434.900,00ł GABINETE DO PREFEITO 1.072.800,00 PROCURADORIA JURIDICA 283.800,00 CONTROLE INTERNO 78.300,00 SECRETARIA MUNICIPAL DE ADMINISTRACAO E FINANCAS 6.083.639,00 SECRETARIA MUNICIPAL DE ADMINISTRACAO E FINANCAS 5.991.539,00 SECRETARIA MUNICIPAL DE EDUCACAO, ESPORTE E LAZER 16.358.900,00 SECRETARIA MUNICIPAL DE EDUCACAO, ESPORTE E LAZER 16.358.900,00 SECRETARIA MUNICIPAL DE SAUDE E SANEAMENTO 14.848.900,00 SECRETARIA MUNICIPAL DE SAUDE E SANEAMENTO - FMS 14.848.900,00 SECRETARIA MUNIC.DE OBRAS, URBANIZACAO E TRANSPORTE 8.081.500,00 SECRETARIA MUNIC.DE OBRAS, URBANIZACAO E TRANSPORTE 8.081.500,00 SECRETARIA MUNIC.DE AGRICULTURA E MEIO AMBIENTE 4.808.900,00 SECRETARIA MUNIC. DE AGRICULTURA E MEIO AMBIENTE 4.750.700,00 SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL 3.063.350,00 SECRETARIA MUNICIPAL DE ASSISTENCIA SOCIAL 633.050,0źł FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL 2.354.200,00 FUNDO MUNICIPAL DA CRIANCA E DO ADOLESCENTE 76.100,00 SECRETARIA MUNIC.DE ACOES COMUNIT.E REC.HIDRICOS 695.600,00 SECRETARIA MUNIC.DE ACOES COMUNIT.E REC.HIDRICOS 695.600,00 SECRETARIA MUNICIPAL DE TURISMO, CULTURA E COMERCIO 747.900,00 SECRETARIA MUNICIPAL DE TURISMO, CULTUTA E COMERCIO 747.900,00 TOTAL DA ADMINISTRAÇÃO DIRETA 58.020.589,00 ADMINISTRAÇÃO INDIRETA VALOR IPREMSAF - INST.PREV.MUN. SÃO FRANCISCO 5.700.000,00 CONSELHOS DE ADMINISTRAÇÃO E FISCAL 50.500.00 Conselho de Administração e Fiscal 50.500,00 GERENCIA DE APOIO ADMINISTRATIVO 3.592.500,00 3.592.500,00 Gerencia de Apoio Administrativo 2.057.000,00 GERENCIA DE BENEFICIOS PREVIDENCIARIOS Gerencia de Beneficios Previdenciarios 2.057.000,00 TOTAL DA ADMINISTRAÇÃO INDIRETA 5.700.000.00 TOTAL GERAL 63.720.589,00 ORCLEI mitido em 11/03/2000 as 12.05 • CELIO CARDOSO ROCHA © SIP - Sistemas Públic
+
+MUNICÍPIO DE SAO FRANCISCO 004/004
+
+Opção: 4374
+
+LEI ORÇAMENTARIA ANUAL - 2009 QUADRO IV - RESUMO DAS RECEITAS E DESPESAS POR ENTIDADE DESPESAS RECEITAS ENTIDADE 56.123.589,00 58.020.589,00
+
+1.897.000,00 0,00 CÂMARA MUNICIPAL DE SÃO FRANCISCO 5.700.000,00 5.700.000,00 INST.PREV.MUNI. SÃO FRANCISCO - IPREMSAF 63.720.589,00 63.720.589,00 TOTAL GERAL QUADRO V - RESUMO DAS TRANSFERÊNCIAS FINACEIRAS POR ENTIDADE INTERFERÊNCIAS INTERFERÊNCIAS ENTIDADE PASSIVAS ATIVAS 0,00 1.897.000,00 CÂMARA MUNICIPAL DE SÃO FRANCISCO 1.897.000,00 0,00
+
+1.897.000,00 1.897.000,00 TOTAL © SIP - Sistemas Públicos emitido em 11/03/2009 às 12:09 por CELIO CARDOSO ROCHA 13T0HO
+
+MUNICIPIO DE SAO FRANCISCO 001/004
+
+Opção: 4374
+
+LEI ORÇAMENTÁRIA ANUAL - 2009 osé tutnio da K ouz JOSE ANTONIO DA ROCHA LIMA/ PREFEITO MUNICIPAL ORCLEI mitido em 11/03/2009 às 12:09 por CEL/O CARDOSO ROCHA • SIP - Sistemas Públicos
+

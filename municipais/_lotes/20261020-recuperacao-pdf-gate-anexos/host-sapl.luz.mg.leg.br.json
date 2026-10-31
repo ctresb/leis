@@ -1,0 +1,26 @@
+{
+  "host": "sapl.luz.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf da norma Lei Ordinária nº 1.634, de 26 de março de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos à Lei nº 1634/2008",
+      "anexo_arquivo": "http://sapl.luz.mg.leg.br/media/sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf",
+      "ano": 2008,
+      "norma": 445
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.luz.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.luz.mg.leg.br/5656891330a50dca61bde5e6aa672c4911a2308ad4f20b6b915886714042a9c8.json",
+      "sha256": "e3ab027cf82815bb9b9df398841110c037b1080d943b155226d125d23fd68ea9",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.luz.mg.leg.br/5656891330a50dca61bde5e6aa672c4911a2308ad4f20b6b915886714042a9c8.meta.json"
+    }
+  ],
+  "total": 1
+}

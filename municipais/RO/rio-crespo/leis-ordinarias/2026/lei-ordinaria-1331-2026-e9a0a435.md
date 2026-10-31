@@ -1,0 +1,315 @@
+---
+titulo: "LEI Nº 1.331, DE 21 DE ABRIL DE 2026."
+uf: "RO"
+municipio: "RIO CRESPO"
+tipo: "Lei Ordinária"
+numero: "1331"
+data: 2026-04-21
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 23/04/2026"
+data_publicacao: 2026-04-23
+codigo_identificador: "E9A0A435"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116050_2026-04-22_df114c059ef0ad7c0a59ce17c1f27f91.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1.331, DE 21 DE ABRIL DE 2026.
+
+LEI Nº 1.331, DE 21 DE ABRIL DE 2026.
+―Abre no orçamento vigente crédito adicional especial e da outras providências.‖
+O PREFEITO DO MUNICÍPIO DE RIO CRESPO, no uso da atribuição que lhe confere o art. 66, inciso IV, da Lei Orgânica Municipal, faz
+saber que a Câmara Municipal aprovou e ele sanciona a seguinte LEI:
+Artigo 1º - Fica aberto no orçamento vigente, um crédito adicional na importância de R$480.816,32 distribuídos as seguintes dotações:
+Suplementação ( + ) 480.816,3
+Superav Financeiro
+02 09 01 SEMAS - Secretaria Municipal de Assistência Social
+312
+
+08.244.0003.2007.0000
+
+313
+
+3.3.90.14.00
+2
+004 660
+08.244.0003.2007.0000
+
+314
+
+3.3.90.30.00
+2
+004 660
+08.244.0003.2007.0000
+
+315
+
+3.3.90.39.00
+2
+004 660
+08.244.0003.2007.0000
+
+316
+
+4.4.90.52.00
+2
+004 660
+08.244.0003.2013.0000
+
+317
+
+3.3.90.14.00
+2
+004 660
+08.244.0003.2008.0000
+3.3.90.14.00
+2
+004 661
+
+318
+
+08.244.0003.2008.0000
+
+319
+
+3.3.90.30.00
+2
+004 661
+08.244.0003.2009.0000
+
+320
+
+3.3.90.32.00
+2
+004 661
+08.244.0003.2010.0000
+
+321
+
+3.3.90.14.00
+2
+004 661
+08.244.0003.2010.0000
+
+322
+
+3.3.90.30.00
+2
+004 661
+08.244.0003.2009.0000
+
+323
+
+3.3.90.39.00
+2
+004 661
+08.244.0003.2010.0000
+
+324
+
+4.4.90.52.00
+2
+004 661
+08.244.0003.2011.0000
+
+325
+
+3.3.90.14.00
+2
+004 661
+08.244.0003.2011.0000
+
+FORTALECESUAS - GESTÃO E CIDADANIA
+BLOCO DA PROTEÇÃO SOCIAL BÁSICA (PB-FIXO/SCFV)
+DIÁRIAS - CIVIL
+Recursos de Exercícios Anteriores
+Transferência de Recursos do Fundo Nacio
+FORTALECESUAS - GESTÃO E CIDADANIA
+BLOCO DA PROTEÇÃO SOCIAL BÁSICA (PB-FIXO/SCFV)
+MATERIAL DE CONSUMO
+Recursos de Exercícios Anteriores
+Transferência de Recursos do Fundo Nacio
+FORTALECESUAS - GESTÃO E CIDADANIA
+BLOCO DA PROTEÇÃO SOCIAL BÁSICA (PB-FIXO/SCFV)
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Recursos de Exercícios Anteriores
+Transferência de Recursos do Fundo Nacio
+FORTALECESUAS - GESTÃO E CIDADANIA
+BLOCO DA PROTEÇÃO SOCIAL BÁSICA (PB-FIXO/SCFV)
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Recursos de Exercícios Anteriores
+Transferência de Recursos do Fundo Nacio
+FORTALECESUAS - GESTÃO E CIDADANIA
+BLOCO DE GESTÃO DO SUAS - IGD-SUAS
+DIÁRIAS - CIVIL
+Recursos de Exercícios Anteriores
+Transferência de Recursos do Fundo Nacio
+FORTALECESUAS - GESTÃO E CIDADANIA
+PROGRAMA MAMÃE CHEGUEI - FEAS-RO
+DIÁRIAS - CIVIL
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+
+10.000,00
+F.R.: 0 2
+
+660
+
+30.000,00
+F.R.: 0 2
+
+660
+
+80.386,21
+F.R.: 0 2
+
+660
+
+104.000,00
+F.R.: 0 2
+
+660
+
+1.237,35
+F.R.: 0 2
+
+660
+
+2.255,20
+F.R.: 0 2
+
+661
+
+FORTALECESUAS - GESTÃO E CIDADANIA
+PROGRAMA MAMÃE CHEGUEI - FEAS-RO
+MATERIAL DE CONSUMO
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+BENEFÍCIOS EVENTUAIS - FEAS-RO
+MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATU
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+PISO-FIXO/PSB - PROTEÇÃO SOCIAL BÁSICA - FEAS-RO
+DIÁRIAS - CIVIL
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+PISO-FIXO/PSB - PROTEÇÃO SOCIAL BÁSICA - FEAS-RO
+MATERIAL DE CONSUMO
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+BENEFÍCIOS EVENTUAIS - FEAS-RO
+OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+PISO-FIXO/PSB - PROTEÇÃO SOCIAL BÁSICA - FEAS-RO
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+PISO-FIXO/PSE - PROTEÇÃO SOCIAL ESPECIAL - FEAS-RO
+DIÁRIAS - CIVIL
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+PISO-FIXO/PSE - PROTEÇÃO SOCIAL ESPECIAL - FEAS-RO
+
+12.000,00
+F.R.: 0 2
+
+661
+
+2.773,24
+F.R.: 0 2
+
+661
+
+10.000,00
+F.R.: 0 2
+
+661
+
+20.000,00
+F.R.: 0 2
+
+661
+
+45.000,00
+F.R.: 0 2
+
+661
+
+18.102,52
+F.R.: 0 2
+
+661
+
+10.000,00
+F.R.: 0 2
+
+661
+
+12.863,75
+F.R.: 0 2
+
+661
+
+www.diariomunicipal.com.br/arom
+
+248
+
+Rondônia , 23 de Abril de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4218
+
+326
+
+3.3.90.30.00
+2
+001 001
+08.244.0003.2012.0000
+
+327
+
+3.3.50.43.00
+2
+004 661
+08.244.0003.2004.0000
+4.4.90.52.00
+2
+004 101
+
+MATERIAL DE CONSUMO
+Recursos de Exercícios Anteriores
+RESTOS A PAGAR
+FORTALECESUAS - GESTÃO E CIDADANIA
+PISO-FIXO - Incentivo à Parceria - FEAS-RO
+SUBVENÇÕES SOCIAIS
+Recursos de Exercícios Anteriores
+Transferência de Recursos dos Fundos Est
+FORTALECESUAS - GESTÃO E CIDADANIA
+OPERACIONALIDADE DAS ATIVIDADES DA ASSISTÊNCIA S
+EQUIPAMENTOS E MATERIAL PERMANENTE
+Recursos de Exercícios Anteriores
+SIGTV Nº 886/2023 - C.C: 81.858-5
+
+80.860,37
+F.R.: 0 2
+
+661
+
+41.337,68
+F.R.: 2021 2
+
+669
+
+Artigo 2º - O crédito aberto na forma do artigo anterior será coberto com recursos provenientes de:
+Superávit Financeiro: REABERTURA 480.816,32
+Artigo 3º - Esta Lei entra em vigor na data de sua publicação.
+Rio Crespo–RO, 21 de abril de 2026.
+EDER DA SILVA
+Prefeito Municipal de Rio Crespo – RO
+Publicado por:
+Edilaine Pereira Rodrigues

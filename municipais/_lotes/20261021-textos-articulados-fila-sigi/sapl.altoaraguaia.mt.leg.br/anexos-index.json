@@ -1,0 +1,58 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/ilovepdf_merged_-_convertido.pdf da norma Lei Orgânica nº 1, de 11 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.altoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2024/1/ilovepdf_merged_-_convertido.pdf",
+      "ano": 2024,
+      "norma": 3
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/scanner_20240821_17.pdf da norma Decreto Legislativo nº 6, de 13 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "“Institui /o. Programa de Coleta \r\nSeletiva de Lixo'no Município de Alto \r\nAraguaia.”",
+      "anexo_arquivo": "http://sapl.altoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2021/2/scanner_20240821_17.pdf",
+      "ano": 2021,
+      "norma": 472
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/scanner_20240912_97.2.pdf da norma Portaria do legislativo nº 97, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "“Dispõe sobre Recesso \r\nAdministrativo do Poder \r\nLegislativo Municipal e dá outras \r\nprovidências.”",
+      "anexo_arquivo": "http://sapl.altoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2022/3/scanner_20240912_97.2.pdf",
+      "ano": 2022,
+      "norma": 305
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/diretrizes-orcamentarias-do-municipio-de-alto-araguaia-para-2026-6894c005c3d12-2025-08-07-11-027cade5a7168ef279ece51323.pdf da norma Lei Ordinária nº 4.653, de 25 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Estabelece as diretrizes para elaboração e execução do orçamento municipal de Alto Araguaia, abrangendo prioridades, metas, estrutura orçamentária, regras para despesas, receitas, pessoal, previdência",
+      "anexo_arquivo": "http://sapl.altoaraguaia.mt.leg.br/media/sapl/public/anexonormajuridica/2025/4/diretrizes-orcamentarias-do-municipio-de-alto-araguaia-para-2026-6894c005c3d12-2025-08-07-11-027cade5a7168ef279ece51323.pdf",
+      "ano": 2025,
+      "norma": 738
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoaraguaia.mt.leg.br/2384dbde98ea6ec3e397a07c7875d16bf44d09006f3276bc034e7722a123a9d3.json",
+      "url": "https://sapl.altoaraguaia.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.altoaraguaia.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0095e5eb1f06a08a7bca7c32902bb47ec6caa4aae63767e8f1327eedd1b0c529",
+      "bytes": 2412,
+      "capturado_em": "2026-10-21T05:27:35.551693-03:00"
+    }
+  ]
+}

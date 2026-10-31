@@ -1,0 +1,42 @@
+{
+  "host": "sapl.formiga.mg.leg.br",
+  "metadados_unicos_observados": 20,
+  "total_api_declarado": 20,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formiga.mg.leg.br/2630365196e5b45adaf1c51842c675bb653b572cfa6296a9be75af4b470c158f.json",
+    "url": "https://sapl.formiga.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.formiga.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "326f65a5c879aee7bbe531e00e78b4beb9f945f48764d7b7fe3e6f613cd9a45c",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:59:37.641773-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formiga.mg.leg.br/e0addf431a125e59ccf0b70ec9e96878f7f234a2a9ddea75e8eeb19d32cedbba.json",
+    "url": "https://sapl.formiga.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.formiga.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "78e7309d01d7a60a62d8ce1877f640b0acade1c452a56161b342d8e94d50a496",
+    "bytes": 770,
+    "capturado_em": "2026-10-28T10:59:36.531449-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formiga.mg.leg.br/99556ccc13a517d92e3e026352ad0e976ae18a31367beb8c7ddad40d4422a5a0.json",
+      "url": "https://sapl.formiga.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.formiga.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "69040b0bc6d838790ace7ca30976649c9842a704048686ed5406c0e600c8c8a0",
+      "bytes": 13824,
+      "capturado_em": "2026-10-28T10:59:39.779010-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

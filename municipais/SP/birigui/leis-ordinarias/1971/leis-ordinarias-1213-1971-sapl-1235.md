@@ -1,0 +1,74 @@
+---
+titulo: "Lei Ordinária nº 1.213, de 27 de outubro de 1971"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1213"
+data: "1971-10-27"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1235"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1866/text"
+sha256_fonte: "933ddd282cf1f0d0a8ea159c55074c22f75004057839cfdca5c2962540a2e4da"
+sha256_texto: "feabc66859a5c513389e0373274c453416463d9ced27c7abaca3c744baf5310a"
+capturado_em_fonte: "2026-10-27T19:15:38.282895-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.213, de 27 de outubro de 1971
+
+AUTORIZA O EXECUTIVO MUNICIPAL A CONTRATAR EMPRÉSTIMO COM O BANCO DO BRASIL S.A. E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eu, **WILSON STROSE**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+O Prefeito Municipal de Birigui fica autorizado a contrair empréstimo até o valor de Cr$ 220.000,00 (duzentos e vinte mil cruzeiros), dentro do esquema operacional de aplicação dos recursos do Programa de Formação do Patrimônio do Servidor Público (PASEP), instituído pela Lei Complementar nº 8, de 03/12/70, regulamentada pela Resolução nº 183, de 27/04/71, do Conselho Monetário, e de que é administrador o Banco do Brasil S.A.
+
+
+Art. 2º.
+
+O empréstimo se destinará à aquisição de uma pá carregadeira com retro-escavadeira, dois caminhões, sendo um com carroceria simples e outro basculante, e uma camioneta, e o Prefeito Municipal poderá assinar com o Banco do Brasil S.A. o contrato que for necessário à obtenção do empréstimo, com as cláusulas de praxe; adotadas por aquele estabelecimento bancário, e mais as que forem permitidas ou exigidas pelo Conselho Monetário Nacional, para as operações de que se trata, inclusive correção monetária e juros.
+
+
+Art. 3º.
+
+Fica o Prefeito Municipal autorizado, também, a dar as seguintes garantias, para cobertura do empréstimo:
+
+
+a)
+
+alienação fiduciária em garantia, dos bens financiados, para que poderá incluir no contrato cláusula que permita ao credor vender os bens fiduciariamente alienados, para aplicar o produto da venda no pagamento do débito, independentemente de concorrência ou de qualquer outra espécie de licitação;
+
+
+b)
+
+vinculação de parte das quotas do Município no Fundo de Participação dos Municípios, destinadas a despesas de capital, em montante suficiente para cobrir o débito resultante das obrigações assumidas.
+
+
+Art. 4º.
+
+Para cumprimento das obrigações decorrentes desta lei, inclusive na parte dos recursos próprios a que o Município terá que ocorrer, como condição para obtenção do empréstimo, o Poder Executivo abrirá, no corrente exercício, crédito especial, no valor de Cr$ 5.000,00 (cinco mil cruzeiros), que ocorrerá por conta da seguinte dotação: excesso de arrecadação já verificado na rubrica 707/1.5.9.9.0 – Eventuais, do orçamento municipal vigente. Nos exercícios seguintes, o orçamento consignará as verbas as verbas necessárias ao atendimento das obrigações respectivas, para a hipótese de as quotas do Fundo de Participação dos Municípios, por qualquer motivo, se relevarem insuficientes para o pagamento das obrigações contratuais.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, notadamente as da Lei nº 1.209, de 13 de outubro de 1971.
+
+
+Prefeitura Municipal de Birigui, aos vinte e sete de outubro de mil novecentos e setenta e um.
+
+**WILSON STROSE Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e sete de outubro de mil novecentos e setenta e um, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

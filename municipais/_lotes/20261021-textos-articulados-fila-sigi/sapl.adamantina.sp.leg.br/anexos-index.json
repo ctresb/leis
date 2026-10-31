@@ -1,0 +1,922 @@
+{
+  "estado": "indice_completo",
+  "total": 89,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/parecer_003_-_pdl_001.pdf da norma Decreto Legislativo nº 1, de 18 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Parecer Constituição, Justiça e Redação",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2019/1/parecer_003_-_pdl_001.pdf",
+      "ano": 2019,
+      "norma": 3839
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/parecer_002_-_pdl_002.pdf da norma Decreto Legislativo nº 2, de 18 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Parecer Constituição, Justiça e Redação",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2019/2/parecer_002_-_pdl_002.pdf",
+      "ano": 2019,
+      "norma": 3840
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/parecer_004_-_pdl_003.pdf da norma Decreto Legislativo nº 3, de 18 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Parecer Constituição, Justiça e Redação",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2019/3/parecer_004_-_pdl_003.pdf",
+      "ano": 2019,
+      "norma": 3841
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/aprovado_projeto_de_decreto_legislativo_006_-_fabi_5LIlwA9.pdf da norma Decreto Legislativo nº 6, de 06 de maio de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "(Projeto de Decreto Legislativo nº 006/19 - Concede ao Excelentíssimo Senhor Doutor Fábio Alexandre Marinelli Sola o título de Cidadão Adamantinense”.",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2019/4/aprovado_projeto_de_decreto_legislativo_006_-_fabi_5LIlwA9.pdf",
+      "ano": 2019,
+      "norma": 3872
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/aprovado_projeto_de_decreto_legislativo_007_-_carl_wyZNd1r.pdf da norma Decreto Legislativo nº 7, de 06 de maio de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Decreto Legislativo nº 007/19 - Concede ao Excelentíssimo Senhor Doutor Carlos Gustavo Urquiza Scarazzato o título de Cidadão Adamantinense.",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2019/5/aprovado_projeto_de_decreto_legislativo_007_-_carl_wyZNd1r.pdf",
+      "ano": 2019,
+      "norma": 3873
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/6/12.lei.3549_-_anexo_mod._i_-_diagnostico_pgirs_-_a_NGRL7Xd.pdf da norma Lei nº 3.549, de 22 de novembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Mod. I - Diagnóstico PGIRS - Adamantina",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2012/6/12.lei.3549_-_anexo_mod._i_-_diagnostico_pgirs_-_a_NGRL7Xd.pdf",
+      "ano": 2012,
+      "norma": 280
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/7/12.lei.3549_-_anexo_mod._ii_-_prognostico__e_avali_ZaPfSlu.pdf da norma Lei nº 3.549, de 22 de novembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Mód. II - Prognóstico  e Avaliação Econômico Fianceira PGIRS Adamantina",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2012/7/12.lei.3549_-_anexo_mod._ii_-_prognostico__e_avali_ZaPfSlu.pdf",
+      "ano": 2012,
+      "norma": 280
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/8/12.lei.3549_-_anexo_iii_-_croqui_da_att.pdf da norma Lei nº 3.549, de 22 de novembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Croqui da ATT",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2012/8/12.lei.3549_-_anexo_iii_-_croqui_da_att.pdf",
+      "ano": 2012,
+      "norma": 280
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/9/12.lei.3549_-_anexo_iv_-_fontes_de_financiamento_-_EO9kPyY.pdf da norma Lei nº 3.549, de 22 de novembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Fontes de Financiamento - PGIRS Adamantina",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2012/9/12.lei.3549_-_anexo_iv_-_fontes_de_financiamento_-_EO9kPyY.pdf",
+      "ano": 2012,
+      "norma": 280
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/10/12.lei.3549_-_anexo_v_-_etapas_de_mobilizacao_soc_jFlWFut.pdf da norma Lei nº 3.549, de 22 de novembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - Etapas de Mobilização Social - PGIRS Adamantina",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2012/10/12.lei.3549_-_anexo_v_-_etapas_de_mobilizacao_soc_jFlWFut.pdf",
+      "ano": 2012,
+      "norma": 280
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/11/ldo_2021.pdf da norma Lei nº 3.992, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI COM ANEXOS",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2020/11/ldo_2021.pdf",
+      "ano": 2020,
+      "norma": 4043
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1967/12/pl_lei_858.pdf da norma Lei nº 858, de 07 de agosto de 1967",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 028/67",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/1967/12/pl_lei_858.pdf",
+      "ano": 1967,
+      "norma": 4111
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/13/ato_de_promulgacao.pdf da norma Lei nº 4.020, de 01 de fevereiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Ato de Promulgação nº 001/21",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2021/13/ato_de_promulgacao.pdf",
+      "ano": 2021,
+      "norma": 4229
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1961/14/lei_615_projeto.pdf da norma Lei nº 615, de 22 de novembro de 1961",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Cópia do Projeto de Lei.",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/1961/14/lei_615_projeto.pdf",
+      "ano": 1961,
+      "norma": 4489
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/16/arborizacao_urbana_-_2020.pdf da norma Lei nº 4.003, de 25 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2020/16/arborizacao_urbana_-_2020.pdf",
+      "ano": 2020,
+      "norma": 4057
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/17/lei_3.674_-_anexo.pdf da norma Lei nº 3.674, de 07 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Educação",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2015/17/lei_3.674_-_anexo.pdf",
+      "ano": 2015,
+      "norma": 615
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/18/decreto_legislativo_004.2021_-_biografia_francisco_torturello.pdf da norma Decreto Legislativo nº 4, de 20 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Biografia",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2021/18/decreto_legislativo_004.2021_-_biografia_francisco_torturello.pdf",
+      "ano": 2021,
+      "norma": 4306
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/19/11a_ordinaria_-_projeto_de_lei_035_-_anexo_aguardar_lei.pdf da norma Lei nº 4.443, de 07 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/19/11a_ordinaria_-_projeto_de_lei_035_-_anexo_aguardar_lei.pdf",
+      "ano": 2025,
+      "norma": 5097
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/20/11a_ordinaria_-_projeto_de_lei_038_-_anexo_aguardar_lei.pdf da norma Lei nº 4.444, de 07 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/20/11a_ordinaria_-_projeto_de_lei_038_-_anexo_aguardar_lei.pdf",
+      "ano": 2025,
+      "norma": 5098
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/projeto_de_lei_063_m_066_-_anexo.pdf da norma Lei nº 4.459, de 19 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/21/projeto_de_lei_063_m_066_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5119
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/projeto_de_lei_064_m_067_-_anexo.pdf da norma Lei nº 4.460, de 19 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/22/projeto_de_lei_064_m_067_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5120
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/projeto_de_lei_065_m_068_-_anexo.pdf da norma Lei nº 4.461, de 19 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/23/projeto_de_lei_065_m_068_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5121
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/24/projeto_de_lei_056_m_057_-_anexo_-_ppa.pdf da norma Lei nº 4.462, de 19 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/24/projeto_de_lei_056_m_057_-_anexo_-_ppa.pdf",
+      "ano": 2025,
+      "norma": 5122
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/25/projeto_de_lei_057_m_058_-_anexo_ldo_2026.pdf da norma Lei nº 4.463, de 19 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/25/projeto_de_lei_057_m_058_-_anexo_ldo_2026.pdf",
+      "ano": 2025,
+      "norma": 5123
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/projeto_de_lei_074_-_anexo.pdf da norma Lei nº 4.465, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/26/projeto_de_lei_074_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5125
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/27/projeto_de_lei_073_-_anexo.pdf da norma Lei nº 4.464, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/27/projeto_de_lei_073_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5124
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/28/611744aa-7797-4a3b-9c9a-18852583ba64arquivos_combinados.pdf da norma Lei nº 4.064, de 16 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2021/28/611744aa-7797-4a3b-9c9a-18852583ba64arquivos_combinados.pdf",
+      "ano": 2021,
+      "norma": 4287
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/29/7dd1cde2-deaa-40cd-9770-73cdf9136e81demons_riscos_fiscais.pdf da norma Lei nº 4.254, de 07 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2023/29/7dd1cde2-deaa-40cd-9770-73cdf9136e81demons_riscos_fiscais.pdf",
+      "ano": 2023,
+      "norma": 4863
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/30/31415e13-c054-4fda-b374-f7b8bc22e443anexos_ldo_2025.pdf da norma Lei nº 4.376, de 26 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2024/30/31415e13-c054-4fda-b374-f7b8bc22e443anexos_ldo_2025.pdf",
+      "ano": 2024,
+      "norma": 5014
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/31/loa_2024-2025.pdf da norma Lei nº 4.409, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2024/31/loa_2024-2025.pdf",
+      "ano": 2024,
+      "norma": 5049
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/32/anexo_2_-_natureza_da_despesa_-_por_orgao_-_geral-mesclado.pdf da norma Lei nº 4.305, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2023/32/anexo_2_-_natureza_da_despesa_-_por_orgao_-_geral-mesclado.pdf",
+      "ano": 2023,
+      "norma": 4926
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/33/projeto_de_lei_068_-_soul_feminina.pdf da norma Lei nº 4.466, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/33/projeto_de_lei_068_-_soul_feminina.pdf",
+      "ano": 2025,
+      "norma": 5129
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/34/projeto_de_lei_081_-_anexo.pdf da norma Lei nº 4.470, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/34/projeto_de_lei_081_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5133
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/35/projeto_de_lei_075_-_anexo.pdf da norma Lei nº 4.475, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/35/projeto_de_lei_075_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5138
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/36/projeto_de_lei_078_m_080_-_declaracao.pdf da norma Lei nº 4.477, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/36/projeto_de_lei_078_m_080_-_declaracao.pdf",
+      "ano": 2025,
+      "norma": 5140
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/37/projeto_de_lei_082_-_anexo.pdf da norma Lei nº 4.479, de 19 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/37/projeto_de_lei_082_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5142
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/projeto_de_lei_complementar_018_-_anexo.pdf da norma Lei Complementar nº 470, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/38/projeto_de_lei_complementar_018_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 5147
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/loa_2026.pdf da norma Lei nº 4.482, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2025/39/loa_2026.pdf",
+      "ano": 2025,
+      "norma": 5145
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/40/projeto_de_lei_001_-_anexo.pdf da norma Lei nº 4.483, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/40/projeto_de_lei_001_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5148
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/22a_projeto_de_lei_009_-_anexo.pdf da norma Lei nº 4.484, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/41/22a_projeto_de_lei_009_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5150
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/42/22a_projeto_de_lei_002_-_anexo.pdf da norma Lei nº 4.486, de 25 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/42/22a_projeto_de_lei_002_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5152
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/43/22a_projeto_de_lei_003_-_anexo.pdf da norma Lei nº 4.487, de 25 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/43/22a_projeto_de_lei_003_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5153
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/44/projeto_de_lei_complementar_002_-_anexo.pdf da norma Lei Complementar nº 471, de 26 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/44/projeto_de_lei_complementar_002_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5155
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/45/projeto_de_lei_012_-_anexo.pdf da norma Lei nº 4.489, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/45/projeto_de_lei_012_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5158
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/46/projeto_de_lei_012_-_declaracao_do_ordenador_de_despesa.pdf da norma Lei nº 4.489, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/46/projeto_de_lei_012_-_declaracao_do_ordenador_de_despesa.pdf",
+      "ano": 2026,
+      "norma": 5158
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/47/projeto_de_lei_012_-_impacto_financeiro.pdf da norma Lei nº 4.489, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/47/projeto_de_lei_012_-_impacto_financeiro.pdf",
+      "ano": 2026,
+      "norma": 5158
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/48/projeto_de_lei_012_-_plano_de_trabalho_pai_nosso_lar_-_medicina_2026.pdf da norma Lei nº 4.489, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Alessandro Ferrari Jacinto",
+                [
+                  "2026-02-23T16:36:41-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/48/projeto_de_lei_012_-_plano_de_trabalho_pai_nosso_lar_-_medicina_2026.pdf",
+      "ano": 2026,
+      "norma": 5158
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/49/projeto_de_lei_004_-_anexo.pdf da norma Lei nº 4.490, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/49/projeto_de_lei_004_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5159
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/50/projeto_de_lei_010_-_anexo.pdf da norma Lei nº 4.491, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/50/projeto_de_lei_010_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5160
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/51/projeto_de_lei_018_-_declaracao.pdf da norma Lei nº 4.493, de 19 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/51/projeto_de_lei_018_-_declaracao.pdf",
+      "ano": 2026,
+      "norma": 5161
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/52/projeto_de_lei_015_-_anexo.pdf da norma Lei nº 4.494, de 19 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/52/projeto_de_lei_015_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5162
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/53/projeto_de_lei_016_-_anexo.pdf da norma Lei nº 4.495, de 19 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/53/projeto_de_lei_016_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5163
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/54/projeto_de_lei_019_-_anexo.pdf da norma Lei nº 4.496, de 19 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/54/projeto_de_lei_019_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5164
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/55/projeto_de_lei_017_-_declaracao.pdf da norma Lei nº 4.498, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/55/projeto_de_lei_017_-_declaracao.pdf",
+      "ano": 2026,
+      "norma": 5180
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/56/projeto_de_lei_026_-_anexo.pdf da norma Lei nº 4.502, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/56/projeto_de_lei_026_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5184
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/57/projeto_de_lei_027_-_anexo.pdf da norma Lei nº 4.503, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/57/projeto_de_lei_027_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5185
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/58/projeto_de_lei_028_-_anexo.pdf da norma Lei nº 4.504, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/58/projeto_de_lei_028_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5186
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/59/projeto_de_lei_complementar_011_-_anexo.pdf da norma Lei Complementar nº 478, de 21 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/59/projeto_de_lei_complementar_011_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5191
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/60/projeto_de_lei_complementar_010_-_anexo.pdf da norma Lei Complementar nº 477, de 20 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/60/projeto_de_lei_complementar_010_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5190
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/61/projeto_de_lei_031_-_anexo.pdf da norma Lei nº 4.508, de 21 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/61/projeto_de_lei_031_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5193
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/62/projeto_de_lei_035_-_anexo.pdf da norma Lei nº 4.509, de 21 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/62/projeto_de_lei_035_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5194
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/63/projeto_de_lei_036_-_anexo.pdf da norma Lei nº 4.510, de 25 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/63/projeto_de_lei_036_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5195
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/64/projeto_de_lei_complementar_012_m_045_-_anexo_ppi.pdf da norma Lei Complementar nº 479, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/64/projeto_de_lei_complementar_012_m_045_-_anexo_ppi.pdf",
+      "ano": 2026,
+      "norma": 5198
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/65/projeto_de_lei_complementar_013_m_047_-_anexo_renov_energy.pdf da norma Lei Complementar nº 480, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/65/projeto_de_lei_complementar_013_m_047_-_anexo_renov_energy.pdf",
+      "ano": 2026,
+      "norma": 5199
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/66/projeto_de_lei_complementar_014_m_048_-_anexo_-_maiara_balista_rodrigues_borim_moveis_me.pdf da norma Lei Complementar nº 481, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/66/projeto_de_lei_complementar_014_m_048_-_anexo_-_maiara_balista_rodrigues_borim_moveis_me.pdf",
+      "ano": 2026,
+      "norma": 5200
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/67/projeto_de_lei_039_-_anexo.pdf da norma Lei nº 4.514, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/67/projeto_de_lei_039_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5202
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/68/projeto_de_lei_040_-_anexo.pdf da norma Lei nº 4.515, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/68/projeto_de_lei_040_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5203
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/69/projeto_de_lei_042_-_anexo.pdf da norma Lei nº 4.516, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/69/projeto_de_lei_042_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5204
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/70/projeto_de_lei_041_-_anexo.pdf da norma Lei nº 4.517, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/70/projeto_de_lei_041_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5205
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/71/projeto_de_lei_044_-_anexo.pdf da norma Lei nº 4.518, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/71/projeto_de_lei_044_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5206
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/projeto_de_lei_045_-_anexo.pdf da norma Lei nº 4.519, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/72/projeto_de_lei_045_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5207
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/73/projeto_de_lei_046_-_anexo.pdf da norma Lei nº 4.520, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/73/projeto_de_lei_046_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5208
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/74/projeto_de_lei_047_-_anexo.pdf da norma Lei nº 4.521, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/74/projeto_de_lei_047_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5209
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/75/projeto_de_lei_048_-_anexo.pdf da norma Lei nº 4.522, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/75/projeto_de_lei_048_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5210
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/76/projeto_de_lei_049_-_anexo.pdf da norma Lei nº 4.523, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/76/projeto_de_lei_049_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5211
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/77/projeto_de_lei_054_-_anexo.pdf da norma Lei nº 4.525, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/77/projeto_de_lei_054_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5213
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/78/projeto_de_lei_038_m_043_-_anexos_-_diretrizes_orcamentarias.pdf da norma Lei nº 4.527, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/78/projeto_de_lei_038_m_043_-_anexos_-_diretrizes_orcamentarias.pdf",
+      "ano": 2026,
+      "norma": 5215
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/79/projeto_de_lei_056_-_anexo.pdf da norma Lei nº 4.532, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/79/projeto_de_lei_056_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5220
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/80/projeto_de_lei_057_-_anexo.pdf da norma Lei nº 4.533, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/80/projeto_de_lei_057_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5221
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/81/projeto_de_lei_058_-_anexo.pdf da norma Lei nº 4.534, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/81/projeto_de_lei_058_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5222
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/82/projeto_de_lei_059_-_anexo.pdf da norma Lei nº 4.535, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/82/projeto_de_lei_059_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5223
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/83/projeto_de_lei_060_-_anexo.pdf da norma Lei nº 4.536, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/83/projeto_de_lei_060_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5224
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/84/projeto_de_lei_061_-_anexo.pdf da norma Lei nº 4.537, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/84/projeto_de_lei_061_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5225
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/85/projeto_de_lei_062_-_anexo.pdf da norma Lei nº 4.538, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/85/projeto_de_lei_062_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5226
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/86/projeto_de_lei_complementar_015_-_anexo.pdf da norma Lei Complementar nº 482, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/86/projeto_de_lei_complementar_015_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5228
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/87/projeto_de_lei_complementar_016_-_anexo.pdf da norma Lei Complementar nº 483, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/87/projeto_de_lei_complementar_016_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5229
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/88/projeto_de_lei_066_m_076_-_minuta.pdf da norma Lei nº 4.541, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/88/projeto_de_lei_066_m_076_-_minuta.pdf",
+      "ano": 2026,
+      "norma": 5232
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/89/projeto_de_lei_067_-_anexo.pdf da norma Lei nº 4.542, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/89/projeto_de_lei_067_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5233
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/90/projeto_de_lei_068_-_anexo.pdf da norma Lei nº 4.543, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.adamantina.sp.leg.br/media/sapl/public/anexonormajuridica/2026/90/projeto_de_lei_068_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 5234
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.adamantina.sp.leg.br/674b1bc18b0396d87ed34d4e6a9caf490263a2ef338a16c1f44d5401f58f7af0.json",
+      "url": "https://sapl.adamantina.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "690b9f7199bcfbc46494f47e057c59295a321c06997421d593c2f08faae3e6d1",
+      "capturado_em": "2026-10-20T20:50:28.655779",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.adamantina.sp.leg.br/674b1bc18b0396d87ed34d4e6a9caf490263a2ef338a16c1f44d5401f58f7af0.json"
+    }
+  ]
+}

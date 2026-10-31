@@ -1,0 +1,646 @@
+INSTITUI A NOTA FISCAL ELETRÔNICA DE PRESTAÇÃO DE SERVIÇOS E ALTERA O CAPÍTULO III DA LEI COMPLEMENTAR N.º 001/1997, QUE DISPÕE SOBRE O IMPOSTO SOBRE SERVIÇO DE QUALQUER NATUREZA - (ISSQN) QUE ALTERA O SISTEMA TRIBUTÁRIO DA PREFEITURA MUNICIPAL DE FERNÃO E DISPÕE SOBRE A INSTITUIÇÃO E OBRIGATORIEDADE DA NOTA FISCAL ELETRÔNICA DE SERVIÇOS COM PERTINÊNCIA AO LANÇAMENTO E COBRANÇA DO REFERIDO TRIBUTO, FIXA PRAZOS PARA RECOLHIMENTO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+ALTEMAR CANELADA CAMPOS, PREFEITO DO MUNICÍPIO DE FERNÃO, ESTADO DE SÃO PAULO.
+
+
+FAZ SABER que a Câmara Municipal de Fernão, Estado de São Paulo, aprovou e ele sanciona e promulga a seguinte Lei Complementar:
+
+
+Art. 1º.
+
+Fica instituída a Nota Fiscal Eletrônica de Prestação de Serviços e a Declaração Eletrônica de serviços prestados e tomados no Município de Fernão para o prestador de serviço pessoa jurídica e pessoa física a Nota Fiscal de Serviços Eletrônica, identificada pela sigla NFS-e, como documento emitido e armazenado eletronicamente em sistema próprio desta Prefeitura, com o objetivo de materializar os fatos geradores do Imposto Sobre Serviço de Qualquer Natureza - ISSQN, por meio do registro dos Capítulos e Seções definidos nesta Lei:
+
+
+#### CAPÍTULO I — Da Nota Fiscal de Serviços Eletrônica - NFS-e
+
+
+##### Seção I — Da Definição e das Informações Necessárias
+
+
+Art. 2º.
+
+A Nota Fiscal de Serviços Eletrônica - NFS-e, a ser emitida de acordo com o modelo constante do Anexo I desta Lei, conterá as seguintes informações:
+
+
+I –
+
+número sequencial;
+
+
+II –
+
+código de verificação de autenticidade;
+
+
+III –
+
+data e hora da emissão;
+
+
+IV –
+
+identificação do prestador de serviços, com:
+
+
+a)
+
+nome ou razão social;
+
+
+b)
+
+endereço e telefone;
+
+
+c)
+
+"e-mail";
+
+
+d)
+
+Inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional da Pessoa Jurídica - CNPJ;
+
+
+e)
+
+Inscrição no Cadastro de Contribuintes Mobiliários - CCM (ou o nome correspondente no município, como 'inscrição no Cadastro de Atividades Econômicas do Município)
+
+
+V –
+
+identificação do tomador de serviços, com:
+
+
+a)
+
+nome ou razão social;
+
+
+b)
+
+nome ou razão social;
+
+
+c)
+
+endereço e telefone;
+
+
+d)
+
+"e-mail";
+
+
+VI –
+
+discriminação do serviço;
+
+
+VII –
+
+valor total da Nota Fiscal de Serviços Eletrônica - NFS-e;
+
+
+VIII –
+
+valor da dedução, se houver;
+
+
+IX –
+
+valor da base de cálculo;
+
+
+X –
+
+código de serviço;
+
+
+XI –
+
+alíquota e valor do ISS;
+
+
+XII –
+
+valor do crédito gerado para abatimento do IPTU, quando for o caso;
+
+
+XIII –
+
+indicação de isenção ou imunidade relativa ao ISS, quando for o caso;
+
+
+XIV –
+
+indicação de serviço não tributável pelo Município de Fernão, quando for o caso
+
+
+XV –
+
+indicação de retenção do Imposto Sobre Serviço de Qualquer Natureza - ISSQN na fonte, quando for o caso;
+
+
+XVI –
+
+indicação de opção pelo Simples Nacional, quando for o caso;
+
+
+XVII –
+
+indicação de opção pelo MEl (Microempreendedor Individual), quando for o caso;
+
+
+XVIII –
+
+número e data do Recibo Provisório de Serviços - RPS emitido, nos casos de sua substituição.
+
+
+§ 1º
+
+A NFS-e conterá, no cabeçalho, as expressões Prefeitura do Município de Fernão e "Nota Fiscal de Serviços Eletrônica - NFS-e", além do endereço eletrônico oficial www.fernao.sp.gov.br.
+
+
+§ 2º
+
+O número da NFS-e será gerado pelo sistema, em ordem crescente sequencial; e específico para cada estabelecimento do prestador de serviços.
+
+
+§ 3º
+
+A identificação do tomador de serviços de que trata o inciso V do "caput" deste artigo é opcional:
+
+
+I –
+
+para pessoas físicas;
+
+
+II –
+
+para as pessoas jurídicas, somente quanto à alínea "c" do mesmo inciso V.
+
+
+Art. 3º.
+
+Departamento Financeiro do Município estabelecerá o cronograma de início do cumprimento da obrigação de emissão da NFS-e.
+
+
+§ 1º
+
+O início da obrigação da emissão da NFS-e dar-se-á de forma gradual e por serviços, de acordo com o cronograma estabelecido
+
+
+§ 2º
+
+Independentemente do disposto no caput deste artigo, é facultado aos contribuintes solicitar autorização para o uso da NFS-e.
+
+
+§ 3º
+
+A opção de que trata o disposto no §2° deste artigo, uma vez deferida, será irretratável por parte do contribuinte
+
+
+Art. 4º.
+
+O contribuinte obrigado à emissão da NFS-e que possuir nota fiscal não utilizada em bloco ou em formulário contínuo não poderá mais emiti-Ias e deverá devolvê-Ias ao Setor de Tributação do Município para fins de baixa na respectiva Autorização de Impressão de Documentos Fiscais (AIDF) e inutilização.
+
+
+§ 1º
+
+A devolução de nota fiscal prevista no caput deste artigo deverá ser realizada no momento da liberação para a emissão da NFS-e.
+
+
+§ 2º
+
+O não cumprimento da obrigação prevista neste artigo no prazo estabelecido sujeita o obrigado à multa prevista na legislação tributária do Município de Fernão.
+
+
+Art. 5º.
+
+O contribuinte uma vez incluído no sistema de emissão de Nota Fiscal Eletrônica, deverá fazer a substituição do modelo antigo pela Nota Fiscal Eletrônica, a ser realizado a partir da data da publicação desta Lei e até o dia 31 de julho de 2015, mediante apresentação, pelo contribuinte, à Prefeitura do Livro de Registro de Prestação de Serviços, do cartão do CNPJ e contrato social, se pessoa jurídica, e dos talonários referentes aos últimos 05 (cinco) anos, utilizados ou não utilizados, ou da data da constituição da empresa, se contar menos de cinco anos.
+
+
+§ 1º
+
+A partir de 01º de Agosto de 2015 será obrigatória a utilização do sistema disposto nesta Lei, para declaração eletrônica.
+
+
+§ 2º
+
+Após o prazo para substituição do talonário mencionado no "caput", as pessoas físicas e jurídicas que contratarem serviços de prestadores estabelecidos no município de Fernão-SP, devem aceitar somente a nota fiscal eletrônica de serviço instituída.
+
+
+I –
+
+A aceitação de documento diverso ao determinado nesta Lei sujeitará o contribuinte no enquadramento em crime fiscal de recepção de documento inidôneo, após a apuração da fiscalização Municipal ou Federal, sujeitar-se-á o contribuinte à imposição das sanções previstas pelo descumprimento da Lei.
+
+
+##### Seção II — Da Emissão da NFS-e
+
+
+Art. 6º.
+
+Estarão obrigadas à emissão da NFS-e as pessoas jurídicas e físicas, prestadoras dos serviços e descritos nesta Lei, em conformidade com as datas nela estipuladas.
+
+
+Parágrafo único
+
+Para os serviços de autenticação de documentos, reconhecimento de firmas e prestação de informações por qualquer forma ou meio quando o interessado dispensar a certidão correspondente, o prestador de serviços de registros públicos, cartorários e notariais deverá emitir uma NFS-e por dia, com a totalização
+
+
+Art. 7º.
+
+Os prestadores de serviços inscritos no Cadastro Contribuintes Mobiliários - CCM, desobrigados da emissão da NFS-e, poderão optar por sua emissão, exceto os profissionais autônomos.
+
+
+§ 1º
+
+A opção tratada no caput deste artigo depende de autorização do Setor de Tributação devendo ser solicitada no endereço eletrônico www.fernao.sp.gov.br, mediante a utilização de senha web, sendo que, uma vez deferi da, esta opção é irretratável.
+
+
+§ 2º
+
+O responsável pelo Setor de Tributação comunicará os interessados por "e-mail" ou pelo sistema quanto à deliberação sobre o pedido de autorização.
+
+
+§ 3º
+
+Os prestadores de serviços que optarem pela NFS-e iniciarão sua emissão no primeiro dia do mês subsequente ao do deferimento da autorização e apresentação dos seguintes documentos:
+
+
+a)
+
+cópia simples do CNPJ;
+
+
+b)
+
+cópia autenticada do instrumento de constituição e, se for o caso, suas alterações posteriores ou o instrumento de constituição consolidado, regularmente registrado no órgão competente;
+
+
+Art. 8º.
+
+A NFS-e deve ser emitida "on-line" por meio da Internet, no endereço eletrônico www.fernao.sp.gov.br, somente pelos prestadores de serviços estabelecidos no Município de Fernão, mediante a utilização de Senha Web.
+
+
+§ 1º
+
+O contribuinte que emitir NFS-e deverá fazê-Io para todos os serviços prestados que haja obrigatoriedade de emissão de nota fiscal.
+
+
+§ 2º
+
+A NFS-e emitida deverá ser impressa em via única, a ser entregue ao tomador de serviços, salvo se enviada por "e-mail" ao tomador de serviços, por sua solicitação.
+
+
+Art. 9º.
+
+O documento fiscal de serviço emitido sem a observância ao disposto nesta Lei, por contribuinte obrigado a utilizar a NFS-e, será considerado inidôneo e sujeitará o responsável às multas previstas na legislação tributária do Município de Fernão, para esse tipo de infração, sem prejuízo do pagamento do imposto incidente sobre o serviço.
+
+
+##### Seção III — Do Recibo Provisório de Serviço
+
+
+Art. 10.
+
+No caso de eventual impedimento da emissão "online" da Nota Fiscal de Serviços Eletrônica - NFS-e, como solução de contingência, o prestador de serviços emitirá Recibo Provisórios de Serviços - RPS, que deverá ser substituído por NFS-e na forma deste regulamento.
+
+
+Art. 11.
+
+Alternativamente ao disposto no artigo 5° desta Lei, mediante autorização da Administração Tributária Municipal, o prestador de serviços poderá emitir RPS a cada prestação de serviços, devendo, nesse caso, efetuar a sua substituição por NFS-e, mediante a transmissão em lote dos RPS emitidos.
+
+
+Art. 12.
+
+O RPS poderá ser confeccionado ou impresso em sistema próprio do contribuinte, dispensando-se necessidade de solicitação da Autorização para Impressão de Documentos Fiscais - AIDF, devendo conter todos os dados que permitam a sua substituição por NFS-e.
+
+
+§ 1º
+
+O RPS deve ser emitido em 2 (duas) vias, sendo a 1ª (primeira) entregue ao tomador de serviços, ficando a 2ª (segunda) em poder do emitente.
+
+
+§ 2º
+
+Havendo indício, suspeita ou prova fundada de que a emissão do RPS esteja impossibilitando a perfeita apuração dos serviços prestados, da receita auferida e do imposto devido, o Setor de Tributação poderá obrigar o contribuinte a emitir o RPS mediante Autorização para Impressão de Documentos Fiscais - AIDF.
+
+
+§ 3º
+
+o RPS deve ser emitido com a data da efetiva prestação dos serviços.
+
+
+§ 4º
+
+A opção pela sistemática de emissão de NFS-e prevista neste artigo não gera direito adquirido, podendo ser modificada a qualquer momento pela Administração Tributária Municipal, quando não for verificado o atendimento das condições necessárias para a segurança da emissão do documento fiscal.
+
+
+Art. 13.
+
+O RPS será numerado obrigatoriamente em ordem crescente sequencial a partir do número 1 (um).
+
+
+§ 1º
+
+Para os que já emitiam nota fiscal convencional, o RPS deverá manter sequência numérica do último documento fiscal emitido.
+
+
+§ 2º
+
+Caso o estabelecimento tenha mais de 1 (um) equipamento emissor de RPS, a numeração deverá ser precedida de até 5 (cinco) caracteres alfanuméricos capazes de individualizar os equipamentos.
+
+
+Art. 14.
+
+O RPS deverá ser convertido em NFS-e até o 10° dia do mês subseqüente ao de sua emissão.
+
+
+§ 1º
+
+Nos casos em que o tomador de serviços for o responsável tributário, na forma da legislação vigente, o prazo disposto no "caput" deste artigo não poderá ultrapassar o dia 10 (dez) do mês seguinte ao da prestação de serviços.
+
+
+§ 2º
+
+Os prazos previstos neste artigo iniciam-se no dia seguinte ao da emissão do RPS, não podendo ser postergados caso vença em dia não útil.
+
+
+§ 3º
+
+O RPS emitido, para todos os fins de direito, perderá sua validade após transcorridos os prazos previstos neste artigo.
+
+
+§ 4º
+
+A não substituição do RPS pela NFS-e, ou a substituição fora do prazo, equipara-se a não emissão de nota fiscal, sujeitando o prestador de serviços às penalidades previstas na legislação em vigor.
+
+
+§ 5º
+
+Aplica-se o disposto neste artigo às notas fiscais convencionais já confeccionadas que venham a ser utilizadas na conformidade do §2° do artigo 5° desta Lei.
+
+
+§ 6º
+
+Não se aplica o disposto no "caput" e no §1º deste artigo no caso de substituição de NFS-e cancelada, desde que:
+
+
+I –
+
+a NFS-e cancelada tenha sido emitida "on-line"; ou
+
+
+II –
+
+primeira conversão do RPS, relativa à NFS-e cancelada, tenha sido realizada dentro do prazo legal.
+
+
+##### Seção IV — Do Documento de Arrecadação
+
+
+Art. 15.
+
+O recolhimento do Imposto Sobre Serviço, referente às NFS-e, deverá ser feito exclusivamente por meio de documento de arrecadação emitido pelo sistema.
+
+
+Parágrafo único
+
+Não se aplica o disposto no "caput" deste artigo:
+
+
+I –
+
+aos responsáveis tributários, tratados na Seção IX do Capítulo III, Título III, da Lei Complementar n° 001/1997, Código Tributário Municipal, quando o prestador de serviço deixar de efetuar a substituição de RPS por NFS-e.
+
+
+II –
+
+às microempresas e empresas de pequeno porte optantes pelo tratamento diferenciado e favorecido instituído pela Lei Complementar Federal n° 123, de 14 de dezembro de 2006, relativamente aos serviços prestados.
+
+
+##### Seção V — Do Cancelamento da NFS-e
+
+
+Art. 16.
+
+A NFS-e só poderá ser cancelada pelo administrador da prefeitura, por meio de requerimento descrevendo a justificativa do cancelamento, até o 10º dia do mês subsequente ao de sua emissão, observando-se as normas do Recibo Provisório de Serviços (RPS), da retificação e da substituição da NFS-e
+
+
+§ 1º
+
+Após o pagamento do ISSQN, a NFS-e somente poderá ser cancelada por meio de solicitação de autorização de cancelamento através do sistema, devendo o contribuinte, para tanto, registrar junto à solicitação a justificativa do motivo do cancelamento.
+
+
+§ 2º
+
+No caso do cancelamento da NFS-e previsto no parágrafo anterior ocorrer quando o documento de arrecadação já tenha sido emitido, faz-se necessário o cancelamento do referido documento através do sistema de NFS-e para que seja possível o cancelamento da NFS-e.
+
+
+##### Seção VI — Da Substituição da Nota Fiscal de Serviços Eletrônica
+
+
+Art. 17.
+
+A substituição de NFS-e consiste no cancelamento de uma NFSe emitida incorretamente e na emissão de uma nova NFS-e para substituí-la.
+
+
+Art. 18.
+
+A substituição da NFS-e poderá ser realizada no sistema a qualquer tempo, observados os requisitos abaixo:
+
+
+I –
+
+Será de forma automática:
+
+
+a)
+
+Quando a NFS-e não estiver vinculada a nenhuma guia de recolhimento;
+
+
+b)
+
+Até o 10°. dia do mês subsequente a data de emissão da NFS-e a ser substituída.
+
+
+II –
+
+Será condicionado à aprovação da fiscalização:
+
+
+a)
+
+Quando a NFS-e a ser substituída estiver vinculada a documento de arrecadação já quitado;
+
+
+b)
+
+Até o 10°. dia do mês subsequente a data de emissão da NFS-e a ser substituída
+
+
+§ 1º
+
+Quando o valor do ISSQN quitado da NFS-e substituída for superior ao valor do ISSQN da NFS-e substituta, a diferença apurada será acumulada sob a forma de crédito de ISSQN, que será disponibilizado automaticamente pelo sistema, para abatimento em documento de arrecadação com competência igualou superior ao da NFS-e substituída.
+
+
+§ 2º
+
+Quando o valor do ISSQN quitado da NFS-e substituída for inferior ao valor do ISSQN da NFS-e substituta, o sistema disponibilizará automaticamente documento de arrecadação complementar com a diferença apurada do ISSQN a recolher com as devidas atualizações monetárias, quando for o caso.
+
+
+§ 3º
+
+No caso da ocorrência do previsto no Inciso II deste artigo, a nova NFS-e será emitida e a NFS-e antiga ficará aguardando aprovação da autoridade fiscal para ser cancelada;
+
+
+§ 4º
+
+Caso o cancelamento previsto no parágrafo anterior seja autorizado e o valor do ISSQN da NFS-e substituta seja igualou inferior ao valor da NFS-e substituída, o sistema gerará automaticamente um documento de arrecadação quitado para a NFS-e substituta.
+
+
+Art. 19.
+
+A NFS-e somente poderá ser substituída uma única vez.
+
+
+Parágrafo único
+
+A NFS-e substituta poderá ser substituída em cadeia.
+
+
+Art. 20.
+
+A competência da NFS-e substituta será sempre igual à competência da NFS-e substituída, a não ser quando o ISSQN da NFS-e respectiva for retido na fonte e puder, nos casos previstos na legislação municipal, ter a competência alterada.
+
+
+##### Seção VII — Da Declaração Eletrônica de Serviços Prestados
+
+
+Art. 21.
+
+O sujeito passivo do ISSQN (Imposto Sobre Serviços de Qualquer Natureza), inscrito no cadastro fiscal mobiliário, fica obrigado a apresentar a Declaração Eletrônica do movimento econômico e a Declaração Eletrônica das despesas na forma, prazo, e demais condições estabelecidas nesta Lei.
+
+
+Art. 22.
+
+A Declaração Eletrônica de serviços consiste no registro mensal das informações econômico-fiscais de serviços prestados ou tomados, por sistema de processamento eletrônico de dados, relativamente:
+
+
+I –
+
+às notas fiscais emitidas;
+
+
+II –
+
+às notas fiscais anuladas;
+
+
+III –
+
+às notas fiscais canceladas
+
+
+IV –
+
+às notas fiscais vencidas e não emitidas;
+
+
+V –
+
+às notas fiscais, aos recibos e outros documentos referentes a serviços tomados;
+
+
+VI –
+
+aos valores do ISSQN referente ao movimento econômico e retido através de substituto ou responsável tributário
+
+
+VII –
+
+à movimentação pertinente aos serviços tributáveis pelo ISSQN para empresas que executem as atividades de intermediação financeira, administração de cartões de crédito, administração de consórcio e educação, bem como instituições financeiras e bancárias, autorizadas a funcionar pela União ou por quem de direito;
+
+
+VIII –
+
+Aos dados cadastrais.
+
+
+§ 1º
+
+A Declaração Eletrônica deverá ser realizada, mensalmente até o dia 10 (dez) do mês subsequente à prestação dos serviços, através da articulação específica disponibilizado no endereço eletrônico www.fernao.sp.gov.br.
+
+
+§ 2º
+
+A veracidade dos dados declarados é de inteira responsabilidade do sujeito passivo, ficando sujeita à homologação fiscal.
+
+
+##### Seção VIII — Da Declaração Eletrônica do Responsável Tributário
+
+
+Art. 23.
+
+O responsável tributário deverá realizar através da Internet a Declaração Eletrônica dos Serviços Tomados, até o dia 10 (dez) do mês subsequente àquele em que ocorreu a prestação de serviço, através da articulação específica disponibilizada no site oficial da Prefeitura Municipal (www.fernao.sp.gov.br).
+
+
+Parágrafo único
+
+Em se tratando de pessoa física, a Declaração Eletrônica de Serviços Tomados poderá ser providenciada diretamente junto ao Setor de Tributação da Prefeitura mediante a apresentação das respectivas notas fiscais.
+
+
+Art. 24.
+
+Os tomadores e intermediários de serviços, inscritos ou não no Cadastro de Contribuintes do ISSQN do Município, ficam obrigados a apresentar a Declaração Eletrônica dos serviços tomados ou intermediados juntamente com as notas fiscais, do movimento econômico, na forma, prazo e demais condições estabelecidas nesta Lei.
+
+
+#### CAPÍTULO II — Das Disposições Finais e Transitórias
+
+
+Art. 25.
+
+Todos os contribuintes que optarem ou forem obrigados à emissão de NFS-e deverão recolher o ISS com base no movimento econômico, exceto as microempresas e empresas de pequeno porte optante do Simples Nacional instituído pela Lei Complementar Federal n° 123, de 14 de dezembro de 2006, e suas alterações posteriores.
+
+
+§ 1º
+
+O setor de Tributação efetuará, de ofício, o desenquadramento dos contribuintes sujeitos ao regime de estimativa que optarem ou forem obrigados à emissão de NFS-e.
+
+
+§ 2º
+
+Os regimes especiais de recolhimento do Imposto existentes deixam de ser aplicados aos contribuintes que optarem ou forem obrigados à emissão da NFS-e.
+
+
+Art. 26.
+
+As NFS-e emitidas poderão ser acessadas em sistema próprio da Prefeitura do Município de Fernão até que tenha transcorrido o prazo decadencial, na forma da lei.
+
+
+Parágrafo único
+
+Transcorrido o prazo previsto no "caput", o acesso às NFS-e emitidas somente poderão ser realizados mediante a solicitação por processo administrativo.
+
+
+Art. 27.
+
+Fica o Executivo Municipal autorizado a editar normas complementares através de Decreto Municipal.
+
+
+Art. 28.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, revogando-se todas as disposições em contrário.
+
+
+Prefeitura Municipal de Fernão, 08 de maio de 2015.
+
+Altermar Canelada
+
+Prefeito Municipal
+
+Registrada e publicada por afixação, no saguão principal da Prefeitura Municipal de Fernão - Data Supra

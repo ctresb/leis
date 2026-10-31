@@ -1,0 +1,14 @@
+{
+  "identidades_unicas": 11316,
+  "paths_unicos": 11316,
+  "provas_completas": 11316,
+  "sem_aceite_nos_recibos_rfb": 9896,
+  "motivos_sem_aceite": {
+    "ValueError: HTML ou entidade exige interpretação própria": 3489,
+    "ValueError: anexo exige representação e prova próprias": 6362,
+    "ValueError: âncoras exigem prova contextual própria": 42,
+    "ValueError: tachado, estilo ou agendamento exige prova própria": 3
+  },
+  "prototipos_56904_56906_56908": "Não integram esta população de corpo divergente. Constam como documentos aceitos nos recibos RFB 011 e de retomada 003/005. Os três exemplos não permitem extrapolar elegibilidade às retenções.",
+  "limite": "Aceite em recibo histórico não equivale à comprovação de publicação atual. Nenhuma consulta Git ou HTTP foi executada. Não há candidatos promovidos ou arquivos normativos gerados."
+}

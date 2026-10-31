@@ -1,0 +1,118 @@
+---
+titulo: "Lei Ordinária nº 8.809, de 26 de dezembro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8809"
+data: "2003-12-26"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2006-12-18; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/1329"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/1817/text"
+sha256_fonte: "766376be959c7a5ce80c012ead6c8f8eb6b8a8367130eb2a9792197645617d94"
+sha256_texto: "9436ae25552c2a20b73c742084432f451ec3611e64e1045376f506452f1ab926"
+capturado_em_fonte: "2026-10-21T04:39:57.575031-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 8.809, de 26 de dezembro de 2003
+
+Cria o Programa Municipal de Inclusão Social, na forma que indica.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica criado, no âmbito do Município de Fortaleza, o Programa Municipal de Inclusão Social, destinado às ações de geração de emprego e transferência de renda a indivíduos e entidades, sem fins lucrativos, que atendam às exigências disciplinadas em ato regulamentar, a ser editado pelo Chefe do Poder Executivo Municipal
+
+
+§ 1º
+
+O Programa de que trata o caput deste artigo tem por finalidade a unificação dos procedimentos de gestão e execução das ações de geração de emprego e transferência de renda da Prefeitura Municipal de Fortaleza, especialmente as seguintes:
+
+
+I –
+
+O PROGRAMA QUEM TEM MAIS VESTE MELHOR, voltado ao atendimento às mães, através do Modelo de Atenção Integral à Saúde, que fornecerá enxovais para os bebês durante o primeiro ano de vida, desde que atendidas as seguintes condições mínimas:
+
+
+a)
+
+a realização de todo o pré-natal da gestante;
+
+
+b)
+
+a realização de todo o neonatal da criança recém-nascida;
+
+
+c)
+
+amamentação regular nos primeiros 6 (seis) meses de vida da criança;
+
+
+d)
+
+cumprimento de todo o calendário vacinal da criança.
+
+
+II –
+
+PROGRAMA ATLETA-CIDADÃO, voltado ao incentivo às ligas esportivas de futebol, devidamente construídas e conveniadas com a Prefeitura Municipal de Fortaleza, as quais receberão ajuda de custo para o atendimento às crianças e aos adolescentes dos 9 (nove) aos 16 (dezesseis) anos de idade como o fornecimento de 2 (dois) uniformes por ano para a prática do esporte.
+
+
+III –
+
+PROGRAMA APRENDA A TRABALHAR, através do qual serão oferecidas bolsas de estágio, no valor máximo de 1 (um) salário mínimo, para alunos de nível médio das escolas públicas, a serem selecionados mediante critérios de aproveitamento escolar, para trabalhar nos órgãos da própria Prefeitura Municipal ou em empresas privadas, conveniadas para esse fim específico.
+
+
+IV –
+
+PROGRAMA APRENDA A TRABALHAR, através do qual serão oferecidas bolsas de estágio, no valor máximo de 1 (um) salário mínimo, para alunos de nível médio das escolas públicas, a serem selecionados mediante critérios de aproveitamento escolar, para trabalhar nos órgãos da própria Prefeitura Municipal ou em empresas privadas, conveniadas para esse fim específico.
+
+
+V –
+
+PROGRAMA NOSSA PRAÇA, destinado a incentivar a preservação e a utilização correta dos espaços públicos, onde serão beneficiados aposentados de baixa renda, que se ocuparão do cuidado de praças localizadas próximas às suas respectivas residências, mediante ajuda de curso mensal de R$ 150,00 (cento e cinqüenta reais) para cada idoso engajado no Programa.
+
+
+VI –
+
+PROGRAMA AGENTE DA GENTE, através do qual a Prefeitura subsidiará o pagamento das tarifas de serviços públicos essenciais, tais como do lixo, de transportes coletivos, entre outras, devidas a pessoas de baixa renda que prestem serviços comunitários a serem especificados por ato do Chefe do Poder Executivo e estejam devidamente cadastradas pelos órgãos municipais.
+
+
+VII –
+
+Programa de Crédito Solidário para a Juventude, denominado Credjovem Solidário, uma ação de incentivos financeiros e apoio institucional voltados para grupos de jovens que se organizarem na perspectiva da implantação de atividade econômica auto-sustentável.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 9.128, de 18 de dezembro de 2006.
+
+
+§ 2º
+
+O Chefe do Poder Executivo Municipal fica autorizado a instituir outros programas de inclusão social, geração de emprego e transferência de renda, que não os mencionados no § 1º desta Lei, desde que haja disponibilidade orçamentária para tanto, e que o valor do benefício mensal a ser outorgado não ultrapasse a um salário mínimo mensal, dando-se ciência à Câmara Municipal de Fortaleza.
+
+
+Art. 2º.
+
+A execução dos Programas de Inclusão Social definidos nesta Lei, bem como dos outros que venham a ser criados, se dará, preferencialmente, de forma centralizada na Secretaria Municipal de Desenvolvimento Econômico (SDE), sempre observada a intersetorialidade, a participação comunitária e o controle social.
+
+
+Art. 3º.
+
+As despesas do Programa Municipal de Inclusão Social, da Prefeitura Municipal de Fortaleza, correrão à conta das dotações orçamentárias próprias.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 26 de dezembro de 2003. JURACI VIEIRA DE MAGALHÃES Prefeito de Fortaleza**
+

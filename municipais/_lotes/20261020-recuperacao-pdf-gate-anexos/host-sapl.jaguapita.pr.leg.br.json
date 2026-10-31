@@ -1,0 +1,15 @@
+{
+  "host": "sapl.jaguapita.pr.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.jaguapita.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jaguapita.pr.leg.br/dbb3209522ebcb3a2c97013a6bc82c144873eb4790cd743f0c1ba58ea888c83c.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jaguapita.pr.leg.br/dbb3209522ebcb3a2c97013a6bc82c144873eb4790cd743f0c1ba58ea888c83c.meta.json"
+    }
+  ],
+  "total": 0
+}

@@ -1,0 +1,83 @@
+---
+titulo: "Lei nº 122, de 01 de novembro de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "122"
+data: "1984-11-01"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2104"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/331/text"
+sha256_fonte: "5fbb6a89ba3be092ac7c8400810cb344e5d882a801ffb5fc929102d5f8348484"
+sha256_texto: "64ad5121b1459f56b7cd858b3408d8d7cf4fad5a346c276ee91576e3d58efecb"
+capturado_em_fonte: "2026-10-28T13:55:10.334610-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 122, de 01 de novembro de 1984
+
+Prefeitura Municipal e Ibiúna a receber, mediante repasse efetuado pelo Governo do Estado de São Paulo, recursos financeiros a fundo perdido, oriundos do Tesouro Estadual.
+
+
+**JOSE VICENTE ZEZITO FALCI**, Prefeito do Município de Ibiúna, usando de suas atribuições legais,
+
+**FAÇO SABER**, que a Câmara Municipal de Ibiúna decreta eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Prefeitura Municipal de Ibiúna, autorizada na pessoa do Chefe do Poder Executivo a:
+
+
+I –
+
+Receber, através de repasse efetuado pelo Governo do Estado de São Paulo, recursos financeiros a fundo perdido procedentes do Tesouro Estadual, no valor de CR$ 40.000,000 (quarenta milhões de cruzeiros).
+
+
+II –
+
+Assinar com a Secretaria de Economia e Planejamento do Estado de São Paulo o convenio necessário à obtenção dos recursos financeiros previstos no item I deste artigo, bem como acatar as clausulas e condições estabelecidas pela referida Secretaria.
+
+
+III –
+
+Abrir credito adicional especial no valor de CR$ 40.000.000 (quarenta milhões de cruzeiros) para fazer face às despesas com a execução de obras previstas no Programa Cidades Medias do Estado de São Paulo.
+
+
+Parágrafo único
+
+A cobertura do credito autorizado no inciso III será efetuada mediante a utilização dos recursos a serem repassados.
+
+
+Art. 2º.
+
+O credito adicional a que se refere o inciso III do artigo 1º- terá validade ate 31 de dezembro de 1985.
+
+
+Art. 3º.
+
+Os recursos financeiros mencionados no artigo anterior destinar-se-ão a: Obras Viárias e de infra estrutura na Rua Cel. Salvador Rolim de Freitas.
+
+
+Art. 4º.
+
+Esta lei entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 01 DIAS DO MÊS DE NOVEMBRO DE 1984.
+
+**JOSÉ VICENTE ZEZITO FALCI**
+
+**Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 01 de novembro de 1984.
+
+**DR. JOÃO BENEDICTO DE MELLO JUNIOR**
+
+**Secretário Geral da Administração**
+

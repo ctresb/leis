@@ -1,0 +1,38 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 2.998, de 19 de dezembro de 2022, a fim de proceder às adequações orçamentárias no exercício 2023;
+
+Considerando o Ofício n.° 026/DA/SMTI/SGG, de 24 de janeiro de 2023, pelo qual a Superintendência Municipal de Tecnologia da Informação e Pesquisa - SMTI, solicita movimentação para cobertura orçamentária referente a Contratação de Empresa Especializada no fornecimento de Licenças dessa SQL, constante no Processo Administrativo n.° 02.00355/2021,
+
+D E C R E T A:
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 549.397,74 (quinhentos e quarenta e nove mil, trezentos e noventa e sete reais e setenta e quatro centavos).
+
+**Art. 2º** - Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei nº 2.946, de 30 de junho de 2022 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><p><strong>05.00 – Secretaria Municipal de Planejamento, Orçamento e Gestão - SEMPOG</strong></p></td></tr><tr><td colspan="7"><p><strong>05.01 – Secretaria Municipal de Planejamento, Orçamento e Gestão - SEMPOG</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO </strong></p></td><td><p><strong>ESFERA </strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA</strong></p><p><strong>R$</strong></p></td><td><p><strong>REALOCA </strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>05.01.04.127.152.2.867</p></td><td><p>Execução, Monitoramento e Avaliação do</p><p>Plano Diretor Participativo do Município de</p><p>Porto Velho - PDPM</p></td><td><p>FIS</p></td><td><p>4.4.90.40</p></td><td><p>1.500</p></td><td><p>549.397,74</p></td><td><p>-</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>549.397,74</strong></p></td><td><p><strong>-</strong></p></td></tr><tr><td colspan="7"><p><strong>02.00 – Secretaria </strong><strong>Geral de Governo - SGG</strong></p></td></tr><tr><td colspan="7"><p><strong>02.81 – S</strong><strong>uperintendência</strong><strong> Municipal de Tecnologia da Informação e Pesquisa - SMTI</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO </strong></p></td><td><p><strong>ESFERA </strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA </strong></p><p><strong>R$</strong></p></td><td><p><strong>REALOCA </strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>02.81.19.572.356.2.844</p></td><td><p>Modernizar as Soluções e Ativos de TI</p></td><td><p>FIS</p></td><td><p>4.4.90.40</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>549.397,74</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>-</strong></p></td><td><p><strong>549.397,74</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>549.397,74</strong></p></td><td><p><strong>549.397,74</strong></p></td></tr></tbody></table>
+
+Art.
+
+3º - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor a partir da data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+
+**LUIZ GUILHERME ERSE DA SILVA**
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+**JOÃO ALTAIR CAETANO DOS SANTOS**
+
+Secretário Municipal de Fazenda
+
+**SALATIEL LEMOS VALVERDE**
+
+Procurador Geral Adjunto do Município

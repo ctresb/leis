@@ -1,0 +1,30 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+Considerando o Ofício n.° 859/2026/SEINFRA-DEA, de 05 de fevereiro de 2026, pelo qual a Secretaria Municipal de Infraestrutura - SEINFRA, solicita a movimentação de recursos para cobertura de despesas com os Processos Administrativos n.° 019.000367/2025-91 - Convênio n.° 947459/2023, entre o Ministério da Integração e do Desenvolvimento Regional com o Município de Porto Velho, referente a aquisição de equipamentos pesados (caminhão, varredeira e caminhão hidro jato) e n.° 019.000883/2025-15 - Aquisição de veículo aéreo não tripulado (VANT),
+
+**DECRETA:**
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 5.134.528,04 (cinco milhões, cento e trinta e quatro mil, quinhentos e vinte e oito reais e quatro centavos).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVI do Artigo o 6º da Lei nº 3.348, de 27 de novembro de 2025 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>11.00 - SECRETARIA MUNICIPAL DE INFRAESRTUTURA - SEINFRA</strong></td></tr><tr><td colspan="7"><strong>11.01 - SECRETARIA MUNICIPAL DE INFRAESRTUTURA - SEINFRA</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESPERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>TRANSPÕE R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td rowspan="2">11.01.15.451.154.1.188 </td><td rowspan="2">Pavimentação de Vias Urbanas </td><td rowspan="2">FIS</td><td>4.4.90.51</td><td>1.700.0000.0000.0000</td><td>4.372.545,00</td><td>-</td></tr><tr><td>4.4.90.51</td><td>1.709.0000.0000.0000</td><td>761.983,04</td><td>-</td></tr><tr><td rowspan="2">11.01.15.122.007.2.303 </td><td rowspan="2">Apoio a logística dos Serviços Básicos </td><td rowspan="2">FIS</td><td>4.4.90.52</td><td>1.700.0000.0000.0000</td><td>-</td><td>4.372.545,00</td></tr><tr><td>4.4.90.52</td><td>1.709.0000.0000.0000</td><td>-</td><td>761.983,04</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>5.134.528,04</strong></td><td><strong>5.134.528,04</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>5.134.528,04</strong></td><td><strong>5.134.528,04</strong></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+
+**LEONARDO BARRETO DE MORAES**  
+Prefeito do Município
+
+**WAGNER GARCIA DE FREITAS**  
+Secretário Municipal de Economia
+
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral do Município

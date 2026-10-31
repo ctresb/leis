@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 802, de 05 de outubro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "802"
+data: "2022-10-05"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4796"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1969/text"
+sha256_fonte: "514038be46398e8fe0f2967e3886fcdd9fa59b68b0b68ae789ec5f7c2ae2b804"
+sha256_texto: "fe3a513d5b80739ce7db4c28785ee5b6acd7216dac3c540413bf9ef6e60c7608"
+capturado_em_fonte: "2026-10-28T11:17:41.970913-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 802, de 05 de outubro de 2022
+
+Dispõe sobre a obrigatoriedade de expedição de receitas médicas e odontológicas, guias de encaminhamento de pacientes na forma digitada e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 67/22, de autoria do Vereador Hermes Ferreira da Costa, aprovado em 14 de setembro de 2022.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+As receitas médicas, odontológicas e guias de encaminhamento emitidas por médicos e dentistas particulares ou da rede pública municipal de saúde deverá ser expedidas de forma digitada.
+
+
+Parágrafo único.
+
+É proibido o uso de códigos, abreviações, marcas de uso ou rasuras que possam gerar dúvidas no momento da dispensação dos medicamentos.
+
+
+Art. 2º.
+
+A prescrição deve conter o nome, endereço, telefone da unidade de saúde e a identificação do profissional como o número de inscrição no respectivo conselho de fiscalização, incluindo também o nome completo e o endereço do paciente, medicamento, formas de uso, dosagem, quantidade e a data.
+
+
+Art. 3º.
+
+As reclamações sobre não cumprimento desta lei poderão ser encaminhadas ao Conselho Municipal de Saúde, Ouvidoria do SUS, ou ainda, para o conselho de classe a que pertence o profissional.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando a Lei nº 115/2013.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 05 de outubro de 2022.
+
+Gustavo Marques de Oliveira  
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+.......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 21, de 04 de janeiro de 2021.
+

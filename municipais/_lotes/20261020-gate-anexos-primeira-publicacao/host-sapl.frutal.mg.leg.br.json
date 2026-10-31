@@ -1,0 +1,46 @@
+{
+  "host": "sapl.frutal.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/lei_complementar_91_-_00091.pdf da norma Lei Complementar nº 92, de 28 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "LEI COMPLEMENTAR N.º 091 DE 05 DE OUTUBRO DE 2017\r\nALTERA A LEI COMPLEMENTAR N.º 059, DE 27 DE DEZEMBRO DE 2007 E DÁ OUTRAS PROVIDÊNCIAS",
+      "anexo_arquivo": "http://sapl.frutal.mg.leg.br/media/sapl/public/anexonormajuridica/2017/1/lei_complementar_91_-_00091.pdf",
+      "ano": 2017,
+      "norma": 5266
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1949/2/lei_ordinaria_91_-_arquivo_1.pdf da norma Lei Ordinária nº 135, de 25 de fevereiro de 1949",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Um tanque para irrigação de ruas da cidade até 3.000 litros",
+      "anexo_arquivo": "http://sapl.frutal.mg.leg.br/media/sapl/public/anexonormajuridica/1949/2/lei_ordinaria_91_-_arquivo_1.pdf",
+      "ano": 1949,
+      "norma": 5269
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/3/05653.pdf da norma Lei Ordinária nº 5.564, de 01 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.frutal.mg.leg.br/media/sapl/public/anexonormajuridica/2009/3/05653.pdf",
+      "ano": 2009,
+      "norma": 4721
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.frutal.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.frutal.mg.leg.br/6c3263f36f7f1e75303a84de9e74f5bb2e6646e4e36cbc29473a38bbeca2b83f.json",
+      "sha256": "1ec452bad7a510116c70da82d941f8d9f332c47341658b54b847feca8bf1dcae",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.frutal.mg.leg.br/6c3263f36f7f1e75303a84de9e74f5bb2e6646e4e36cbc29473a38bbeca2b83f.meta.json"
+    }
+  ],
+  "total": 3
+}

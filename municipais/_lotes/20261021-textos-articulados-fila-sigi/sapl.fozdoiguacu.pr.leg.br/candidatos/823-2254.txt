@@ -1,0 +1,39 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Especial, no valor de R$ 181.753,42 (cento e oitenta e um mil, setecentos e cinquenta e três reais e quarenta e dois centavos), ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal em Exercício, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a proceder à abertura de um Crédito Adicional Especial ao Orçamento Geral do Município, no valor de R$ 181.753,42 (cento e oitenta e um mil, setecentos e cinquenta e três reais e quarenta e dois centavos), na forma abaixo especificada:
+
+<table><tbody><tr><td><strong>08</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL</strong></td></tr><tr><td>05</td><td colspan="2">- FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td></tr><tr><td>08 244 0510 1.539</td><td colspan="2">- Contribuição à Associação Mãos Para Servir - Execução Obrigatória</td></tr><tr><td>3.1.50.41</td><td colspan="2">- Contribuições</td></tr><tr><td>1.002</td><td>- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td>46.753,42</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>12</td><td>- SECRETARIA MUNICIPAL DA EDUCAÇÃO</td><td> </td></tr><tr><td>03</td><td>- DIRETORIA DE ASSISTÊNCIA AO EDUCANDO</td><td> </td></tr><tr><td>12 365 0600 1.517</td><td>- Contribuição ao Centro de Educação Infantil Mamãe Carolina - Execução Obrigatória</td><td> </td></tr><tr><td>3.1.50.41</td><td colspan="2">- Contribuições</td></tr><tr><td>1.002</td><td>- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td>75.000,00</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>05</td><td>- DIRETORIA DE EDUCAÇÃO INFANTIL</td><td> </td></tr><tr><td>12 365 0600 1.510</td><td colspan="2">- Contribuição à Associação Proteção à Maternidade e Infância - APMI - Projeto Centro de Apoio à Família - CAF - Execução Obrigatória</td></tr><tr><td>3.1.50.41</td><td colspan="2">- Contribuições</td></tr><tr><td>1.002</td><td>- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td>40.000,00</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td>12 365 0600 1.576</td><td colspan="2">- Melhorias no Centro de Educação Infantil Mãe Maria - Execução Obrigatória</td></tr><tr><td>3.1.50.41</td><td colspan="2">- Contribuições</td></tr><tr><td>1.002</td><td>- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td>20.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>- TOTAL DO CRÉDITO ADICIONAL ESPECIAL</td><td>181.753,42</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, e a seguir especificados:
+
+<table><tbody><tr><td colspan="2"><strong>08</strong></td><td colspan="5"><strong>- SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL</strong></td></tr><tr><td colspan="2">05</td><td colspan="5">- FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td></tr><tr><td colspan="2">08 244 0510 1.539</td><td colspan="5">- Contribuição à Associação Mãos Para Servir - Execução Obrigatória</td></tr><tr><td colspan="2">3.3.50.41</td><td colspan="5">- Contribuições</td></tr><tr><td colspan="2">1.002</td><td colspan="3">- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td colspan="2">46.753,42</td></tr><tr><td colspan="2"> </td><td colspan="5"> </td></tr><tr><td colspan="2">12</td><td colspan="5">- SECRETARIA MUNICIPAL DA EDUCAÇÃO</td></tr><tr><td colspan="2">03</td><td>- DIRETORIA DE ASSISTÊNCIA AO EDUCANDO</td><td colspan="4"> </td></tr><tr><td colspan="2">12 365 0600 1.517</td><td colspan="5">- Contribuição ao Centro de Educação Infantil Mamãe Carolina - Execução Obrigatória</td></tr><tr><td colspan="2">3.3.50.41</td><td colspan="5">- Contribuições</td></tr><tr><td colspan="2">1.002</td><td colspan="3">- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td colspan="2">75.000,00</td></tr><tr><td colspan="2"> </td><td colspan="5"> </td></tr><tr><td colspan="2">05</td><td colspan="5">- DIRETORIA DE EDUCAÇÃO INFANTIL</td></tr><tr><td colspan="2">12 365 0600 1.510</td><td colspan="5">- Contribuição à Associação Proteção à Maternidade e Infância - APMI - Projeto Centro de Apoio A Família - CAF - Execução Obrigatória</td></tr><tr><td colspan="2">3.3.50.41</td><td colspan="5">- Contribuições</td></tr><tr><td colspan="2">1.002</td><td colspan="3">- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td colspan="2">40.000,00</td></tr><tr><td colspan="2"> </td><td colspan="5"> </td></tr><tr><td colspan="2">12 365 0600 1.576</td><td colspan="5">- Melhorias no Centro de Educação Infantil Mãe Maria - Execução Obrigatória</td></tr><tr><td colspan="2">3.3.50.41</td><td colspan="5">- Contribuições</td></tr><tr><td colspan="2">1.002</td><td colspan="4">- DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016</td><td>20.000,00</td></tr><tr><td> </td><td colspan="3">- TOTAL DA ANULAÇÃO</td><td colspan="3">181.753,42</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 3 de dezembro de 2020.
+
+Nilton Aparecido Bobato  
+Prefeito Municipal em Exercício
+
+Eliane Dávilla Sávio  
+Secretária Municipal da Administração
+
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

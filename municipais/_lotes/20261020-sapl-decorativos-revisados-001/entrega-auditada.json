@@ -1,0 +1,27 @@
+{
+  "aprovados": 578,
+  "sem_sobreposicao_lista_pdf_sem_imagens": true,
+  "criterio": "Todos passaram confronto integral e identidade. Cada imagem exata foi vista como brasão/marca institucional sem texto normativo; lista branca restrita a20hashes, não dimensões ou nomes de arquivo.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-sapl-decorativos-revisados-001/entrega-final.json",
+      "sha256": "1c14871acf10175a901add2633940885f15e032082fa22a681d9c56002cabcdb"
+    },
+    {
+      "path": "municipais/_lotes/20261020-sapl-decorativos-revisados-001/lote-0001.json",
+      "sha256": "b37f6198f6360f62c8fee0aad07ef9415ef44843c6f80d767a861666fc2f4427"
+    },
+    {
+      "path": "municipais/_lotes/20261020-sapl-decorativos-revisados-001/lote-0001.paths.txt",
+      "sha256": "67b41ba621baba4df875c3a707ffeec68862f2f351d0ab2055b96ad1259d63e1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-sapl-decorativos-revisados-001/lote-0001.auditoria-municipal.json",
+      "sha256": "7a5d98e28177bd03045064ac7ca7e659958b7549cbc6486245e47317dd11f84f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-001.json",
+      "sha256": "fda248217a17881532b3a38504759fe64a2c8fc3008e763510d8f8a60783bbd7"
+    }
+  ]
+}

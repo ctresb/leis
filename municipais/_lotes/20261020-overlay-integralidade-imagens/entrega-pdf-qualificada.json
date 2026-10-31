@@ -1,0 +1,24 @@
+{
+  "aprovados_pdf": 1059,
+  "outros_formatos_pendentes": 394,
+  "lista_exclusiva_publicavel": "municipais/_lotes/20261020-overlay-integralidade-imagens/pdf-aptos.paths.txt",
+  "criterio": "Somente PDFs com SHA/proveniência/IBGE e epígrafes já conferidos, confronto integral fonte/MD descontando só margens comprovadas, e nenhuma imagem embutida. O restante não recebe certificação por este recibo.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/pdf-aptos.paths.txt",
+      "sha256": "746d30d8c8f415e04c8f25e7f5c22c1f15f0ac93fc2e41123811fd49097733ff"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/pdf-aptos.auditoria-municipal.json",
+      "sha256": "ee5dc2bceebe61fde91f1fff5a105428414238b440399cc8cffc08c0e59406d5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/nao-pdf-pendentes.paths.txt",
+      "sha256": "6232c26f120ce13a086127bd6d580cb1efd0e873471674fd14820d2c894ab2a9"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/entrega-final.json",
+      "sha256": "6bb9b3e38ed1909270eb6dac4a4fa86316849977e1724388f459b72aa781e088"
+    }
+  ]
+}

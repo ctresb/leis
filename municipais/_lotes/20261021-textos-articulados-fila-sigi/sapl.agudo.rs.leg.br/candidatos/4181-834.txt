@@ -1,0 +1,484 @@
+INSTITUI A NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DE AGUDO, ESTADO DO RIO GRANDE DO SUL, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no Art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+#### CAPÍTULO I — DA NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+
+
+##### Seção I — Da Definição da NFS-e
+
+
+Art. 1º.
+
+Fica instituída a Nota Fiscal de Serviços Eletrônica, que deverá ser emitida por ocasião da prestação de serviço.
+
+
+Parágrafo único.
+
+Considera-se Nota Fiscal de Serviços Eletrônica - NFS-e o documento emitido e armazenado eletronicamente em sistema próprio da Prefeitura de Agudo, com o objetivo de registrar as operações relativas à prestação de serviços, de existência exclusivamente digital, com validade jurídica que deverá ser garantida por assinatura digital do emitente e autorização de uso fornecida pela Secretaria da Fazenda/Setor Fiscalização Tributária antes da ocorrência do fato gerador.
+
+
+#### CAPÍTULO II — DO ACESSO AO SISTEMA DA NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+
+
+##### Seção I — Do Acesso pelo Contribuinte
+
+
+Art. 2º.
+
+O acesso ao sistema da Nota Fiscal de Serviços Eletrônica - NFS-e, que conterá dados fiscais de interesse dos contribuintes, será realizado mediante a utilização de senha de segurança.
+
+
+Art. 3º.
+
+Para obter acesso ao sistema de que trata essa Lei, as pessoas deverão efetuar o cadastramento diretamente no setor da Fiscalização Tributária da Prefeitura Municipal de Agudo, através de requerimento e apresentação conjunta da última alteração do contrato social da empresa, documento de identidade do representante legal da empresa e dos blocos de notas fiscais anteriormente autorizados.
+
+
+Art. 4º.
+
+Após a solicitação de acesso, na conformidade do artigo 3º desta Lei e comprovação, pela Secretaria da Fazenda / Setor de Fiscalização Tributária, da regularidade das informações, proceder-se-á a liberação ao sistema da NFS-e.
+
+
+§ 1º
+
+No caso de se constatar qualquer inconsistência nas informações prestadas, a pessoa física ou jurídica interessada na obtenção da senha será informada, via correio eletrônico (e- mail) informado no cadastramento, para, no prazo de até dez (10) dias, tomar as providências necessárias ao seu desbloqueio,
+
+
+§ 2º
+
+Decorrido o prazo de que trata o parágrafo anterior, sem que sejam tomadas as providências mencionadas, a pessoa física ou jurídica terá que comparecer ao Setor de Fiscalização Tributária para providências.
+
+
+Art. 5º.
+
+A senha de acesso, representa a assinatura eletrônica da pessoa física ou jurídica cadastrada, sendo pessoal e intransferível.
+
+
+Art. 6º.
+
+Será cadastrada apenas uma senha de segurança para cada estabelecimento prestador, levando-se em consideração o número de inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ ou cada número de inscrição no Cadastro de Pessoas Físicas - CPF junto ao Ministério da Fazenda, desde que estejam inscritos perante a Receita Municipal.
+
+
+Parágrafo único.
+
+A liberação de acesso fornecida à pessoa jurídica, será concedida ao representante legal indicado no formulário de “AUTORIZAÇÃO PARA UTILIZAÇÃO DA NFS-E”, e conterá as seguintes funções: gerar, cancelar, imprimir notas fiscais eletrônicas, emitir relatórios, gerar guias de pagamento, entre outros.
+
+
+Art. 7º.
+
+A pessoa física ou jurídica detentora da senha de acesso será responsável por todos os atos praticados no sistema da nota fiscal eletrônica.
+
+
+Parágrafo único.
+
+A utilização do sistema de emissão da Nota Fiscal de Serviços Eletrônica – NFS-e, obriga o usuário a enviar mensalmente a Declaração Eletrônica de Serviços, em substituição ao Livro de ISSQN previsto no art. 44 da Lei 1.014/95, até o dia 20 do mês subsequente à emissão das respectivas NFS-e, via sistema próprio fornecido pela Administração Pública, em módulo conjunto com o sistema de emissão da NFS-e.
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.166, de 14 de janeiro de 2020.
+
+
+##### Seção II — Do Acesso pela Secretária da Fazenda/ Fiscalização Tributária
+
+
+Art. 8º.
+
+O acesso ao sistema da Nota Fiscal de Serviços Eletrônica - NFS-e que conterá dados fiscais de interesse da Secretaria da Fazenda, será realizado mediante a utilização de senha de acesso.
+
+
+Art. 9º.
+
+A senha de acesso prevista do artigo anterior será outorgada pelos servidores da Fiscalização Tributária, à qual incumbirá as seguintes funções:
+
+
+I –
+
+Habilitar e desabilitar usuários;
+
+
+II –
+
+Criar ou modificar perfis de utilização do sistema;
+
+
+III –
+
+Incluir e excluir informações de interesse do contribuinte e da Secretaria da Fazenda/Setor Fiscalização Tributária no portal da NFS-e.
+
+
+Art. 10.
+
+Aos fiscais de tributos da Secretaria da Fazenda será permitido acesso ao sistema da NFS-e conforme o perfil habilitado levando-se em consideração a função exercida.
+
+
+#### CAPÍTULO III — DA EMISSÃO DA NOTA FISCAL DE SERVIÇOS ELETRÔNICA - NFS-e
+
+
+Art. 11.
+
+A NFS-e deve conter as seguintes indicações:
+
+
+I –
+
+número sequencial;
+
+
+II –
+
+código de verificação de autenticidade;
+
+
+III –
+
+data da emissão;
+
+
+IV –
+
+identificação do prestador de serviços, com:
+
+
+a)
+
+nome ou razão social;
+
+
+b)
+
+endereço;
+
+
+c)
+
+inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional da Pessoa Jurídica - CNPJ;
+
+
+d)
+
+inscrição no Cadastro Municipal.
+
+
+V –
+
+identificação do tomador de serviços com:
+
+
+a)
+
+nome ou razão social;
+
+
+b)
+
+endereço;
+
+
+c)
+
+inscrição no Cadastro de Pessoas Físicas - CPF ou no Cadastro Nacional da Pessoa Jurídica – CNPJ;
+
+
+d)
+
+discriminação do serviço;
+
+
+e)
+
+valor total da NFS-e;
+
+
+f)
+
+valor da dedução na base de cálculo, se houver e na forma prevista na legislação municipal;
+
+
+g)
+
+valor da base de cálculo;
+
+
+h)
+
+alíquota e valor do ISS.
+
+
+VI –
+
+indicação no corpo da NFS-e de:
+
+
+a)
+
+isenção ou imunidade relativas ao ISS, quando for o caso;
+
+
+b)
+
+serviço não tributável pelo Município de Agudo, nas hipóteses em quê o imposto seja devido no local da prestação, em conformidade com a lei complementar federal e municipal;
+
+
+c)
+
+retenção de ISS na fonte;
+
+
+d)
+
+empresas enquadradas com base de cálculo por estimativa ou outra forma de tratamento tributário diferenciado;
+
+
+e)
+
+existência de decisão judicial suspendendo a exigibilidade do ISSQN;
+
+
+f)
+
+número e data do Recibo Provisório de Serviços - RPS emitido, nos casos de sua substituição.
+
+
+§ 1º
+
+A NFS-e conterá, no cabeçalho, as expressões “Prefeitura Municipal de Agudo”, “Governo do Estado do Rio Grande do Sul” e “Nota Fiscal Eletrônica de Serviços-NFS-e”.
+
+
+§ 2º
+
+O número da NFS-e será gerado pelo sistema, em ordem crescente sequencial, iniciado pelo n° 01, e será específico para cada estabelecimento do prestador de serviços.
+
+
+§ 3º
+
+A NFS-e deverá ser assinada pelo emitente, com assinatura digital certificada por entidade credenciada, contendo o CNPJ de qualquer estabelecimento do emitente ou o CPF do responsável.
+
+
+Art. 12.
+
+A NFS-e deve ser emitida “on-line”, por meio da Internet, no endereço eletrônico http://www.agudo.rs.gov.br, somente pelos prestadores de serviços estabelecidos no Município de Agudo, mediante a liberação de acesso.
+
+
+Parágrafo único.
+
+A NFS-e poderá ser impressa em tantas vias quantas se fizerem necessárias, podendo inclusive ser enviada por correio eletrônico (“e-mail”) ao tomador de serviços.
+
+
+Art. 13.
+
+As notas fiscais eletrônicas emitidas poderão ser consultadas e impressas, nos meios eletrônicos da Secretaria Municipal da Fazenda/ Fiscalização Tributária.
+
+
+Art. 14.
+
+Todo estabelecimento prestador é obrigado a gerar notas fiscais para todos os serviços prestados.
+
+
+##### Seção I — Da emissão da Nota Fiscal de Serviços Eletrônica - NFS-e por pessoa Física
+
+
+Art. 15.
+
+É facultada às pessoas físicas já inscritas no Cadastro Municipal, solicitar a geração e a impressão da NFS-e na sede da Secretaria da Fazenda/Setor de Arrecadação, caso em que haverá a incidência do respectivo preço público.
+
+
+Parágrafo único.
+
+O ISSQN relativo às NFS-e geradas nas instalações da Secretaria da Fazenda/Setor de Arrecadação, deverá ser recolhido nos bancos credenciados ou na tesouraria municipal, mediante autenticação mecânica no Documento Arrecadatório Municipal eletrônico - DAM-e.
+
+
+Art. 16.
+
+A NFS-e na forma dos artigos anteriores será gerada por intermédio da senha específica dos servidores municipais destacados para este fim.
+
+
+Parágrafo único.
+
+A liberação para impressão da NFS-e dar-se-á mediante comprovação visual da autenticação mecânica do DAM-e.
+
+
+##### Seção II — Da Emissão da Nota Fiscal Eletrônica de Serviço Municipal - NFS-e por Bancos e demais Instituições Financeiras Autorizadas a Funcionar pelo Banco Central do Brasil
+
+
+Art. 17.
+
+Os serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras, bem como, outras obrigadas a utilizar o Plano Contábil das Instituições do Sistema Financeiro Nacional - COSIF, deverão adotar o Sistema Eletrônico de Gestão do Imposto Sobre Serviços – ISS.
+
+
+##### Seção III — Do Cancelamento da NFS-e
+
+
+Art. 18.
+
+A NFS-e poderá ser cancelada pelo emitente, por meio do sistema informatizado (“online”), no endereço eletrônico “http://www.agudo.rs.gov.br” na rede mundial de computadores (Internet), antes do pagamento ou vencimento do imposto, seja ele por retenção ou não.
+
+
+§ 1º
+
+Após o pagamento do imposto a NFS-e somente poderá ser cancelada por meio de processo administrativo fiscal regular, no qual deverão ser apresentadas as razões que motivaram o pedido.
+
+
+§ 2º
+
+Havendo o cancelamento da NFS-e, o contribuinte deverá registrar eletronicamente, em campo próprio, os motivos que levaram a anulação do documento, momento em que o sistema enviará automaticamente mensagem eletrônica ao tomador do serviço noticiando a operação.
+
+
+§ 3º
+
+O documento cancelado permanecerá armazenado na base do sistema da NFS-e e sobre ele deverá ser inserida marca identificando a invalidade do mesmo.
+
+
+Art. 19.
+
+Não se admite cancelamento da NFS-e em razão do não recebimento do preço do serviço, sendo o imposto devido em razão da prestação do serviço.
+
+
+#### CAPÍTULO IV — DA PERMANÊNCIA DA UTILIZAÇÃO DO BLOCO DE NOTAS FISCAIS
+
+
+##### Seção I — Da utilização do bloco de notas
+
+
+Art. 20.
+
+Nas hipóteses abaixo relacionadas, ficam, as pessoas físicas e jurídicas prestadoras de serviços, desobrigadas de emitir NFS-e, devendo, contudo, emiti-los por meio de papel:
+
+
+I –
+
+adoção pelo contribuinte de regimes especiais;
+
+
+II –
+
+prestações de serviços efetuadas fora do estabelecimento prestador;
+
+
+III –
+
+impossibilidade de acesso à página eletrônica da Nota Fiscal de Serviços Eletrônica;
+
+
+IV –
+
+serviços pessoais realizados de forma rudimentar.
+
+
+Parágrafo único.
+
+As pessoas físicas ou jurídicas enquadradas neste artigo não estão desobrigadas de apresentar a (DES) Declaração Eletrônica de Serviço.
+
+
+#### CAPÍTULO V — DA INSUFICIÊNCIA OU NÃO RECOLHIMENTO DO ISS
+
+
+Art. 21.
+
+A geração da NFS-e constitui declaração de confissão de dívida do Imposto Sobre Serviços de Qualquer Natureza - ISS incidente na operação, ficando a falta ou insuficiência de seu recolhimento sujeita à cobrança administrativa ou judicial.
+
+
+#### CAPÍTULO VI — DAS PENALIDADES
+
+
+Art. 22.
+
+Nas infrações relativas à NFS-e, aplicar-se-á multa no valor igual a:
+
+
+I –
+
+200 URM para cada NFS-e não emitida ou de outro documento ou declaração exigida pela Administração;
+
+
+II –
+
+200 URM para cada emissão indevida de NFS-e tributáveis como isentos, imunes, ou não tributáveis;
+
+
+III –
+
+200 URM para cada NFS-e Municipal indevidamente cancelada;
+
+
+IV –
+
+30 URM por competência mensal, pela falta da Declaração de Sem Movimentação, no Sistema da “Declaração Eletrônica de Serviços – Livro Eletrônico”, dos serviços tomado ou prestado;
+
+
+V –
+
+30 URM por descumprimento de obrigação acessória relacionada à NFS-e que não possua penalidade específica.
+
+
+Art. 23.
+
+Sem prejuízo de outras imputações fiscais e penais, configura crime de estelionato e outras fraudes, bem como de falsidade ideológica, o uso indevido do sistema de Nota Fiscal de Serviços Eletrônica - NFS-e, tendente a acobertar operações de prestação de serviços inexistentes, com o objetivo de:
+
+
+I –
+
+aumentar a renda para efeito de financiamentos e congêneres;
+
+
+II –
+
+registrar despesas ou créditos indevidos a tributos federais, estaduais ou municipais. Parágrafo único. A infração ao presente artigo será punida com multa igual a 400 URM's.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 24.
+
+Para efeito desta Lei, entende-se por processo administrativo regular, todo àquele instaurado via protocolo no Setor da Fiscalização Tributária pelo contribuinte mediante pedido formal e fundamentado, com o objetivo de corrigir erros nos dados lançados da NFS-e.
+
+
+Parágrafo único.
+
+O processo administrativo referido neste artigo, somente se admite antes de instaurado processo regular de fiscalização.
+
+
+Art. 25.
+
+No ato da homologação do requerimento de senha para uso do sistema eletrônico da NFS-e, fica a Autoridade Fiscal obrigada a inserir de ofício no Cadastro Municipal, todas as informações incompletas, ressalvadas aquelas que dependam de expressa licença administrativa, tais como:
+
+
+I –
+
+mudança de endereço;
+
+
+II –
+
+mudança de ramo de atividade.
+
+
+Art. 26.
+
+Fica estabelecido um período de transição de 90 (noventa) dias a contar da data da obrigatoriedade do uso da NFS-e, para os contribuintes utilizarem o sistema sem que as operações irregulares impliquem nas penalidades previstas no Capítulo VI desta Lei.
+
+
+Parágrafo único.
+
+As irregularidades cometidas no decurso do período de transição deverão ser corrigidas pelo contribuinte em até 30 (trinta) dias após a data de sua ocorrência, sob pena de se sujeitarem às sanções previstas no Capítulo VI desta Lei.
+
+
+Art. 27.
+
+O cronograma de implantação de adesão ao sistema de emissão da Nota Fiscal Eletrônica de Serviços, será disciplinado por regulamento próprio, observados os princípios da razoabilidade;
+
+
+Art. 28.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO, 11 de outubro de 2019; 161º da Colonização e 60º da Emancipação.
+
+VALÉRIO VILÍ TREBIEN  
+Prefeito
+
+Registre-se e publique-se.  
+  
+JOSÉ LUIZ GOMES RAMOS  
+Secretário de Administração e Gestão

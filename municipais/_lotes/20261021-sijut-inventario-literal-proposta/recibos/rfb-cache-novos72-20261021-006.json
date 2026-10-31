@@ -1,0 +1,1517 @@
+{
+  "data": "2026-10-21",
+  "origem": "JSON oficial em cache; sem HTTP ou reescrita do corpus",
+  "baseline_sha256": "4692251ce9c9e4169de0eca3de9031443744f2e4bf84932102d89499669f5230",
+  "reservas_sha256": {
+    "/tmp/reguladores2901-paths-20261021.txt": "4ca5df32559d68c162ca3424501fa2bf971afb3f83684f9ee032d9fc7da3c427",
+    "/tmp/reguladores8592-paths-20261021.txt": "2225cb544685a38f9421f207fd3bef22bb42dc5d29cf08fead285e93f539b862",
+    "/tmp/reguladores6765-paths-20261021.txt": "285eb81c72e45204f7c76c626044aacdce898700d72a3453760da1343fbdeea4",
+    "/tmp/reguladores9058-paths-20261021.txt": "de2af908725b91e757331f74625314c54e3b80c29c99ec3de53a14c06b14d7c8",
+    "/tmp/reguladores18-paths-20261021.txt": "2bc32648ded2319710dffc99898b4ce9b9fefa42b7db9c1ae5b936bf9951228e",
+    "/tmp/reguladores-rfb004-dou017-paths-20261021.txt": "491b7d1434e0ef127195df0d0453d2e0e49aa3552694347a359f747828d75579"
+  },
+  "indice_sha256": "f1b22fe46a1bba76ac6c203a397c82482d9b84a782732570ec883e117534e7eb",
+  "total_indice": 115312,
+  "total": 67,
+  "documentos": [
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154190.md",
+      "id_rfb": 154190,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154190/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154190/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/c42ee3ab239219550e6da8394127bff7e75760f8efa87c693357404d12dc7c82.json.gz",
+      "sha256_fonte": "944251b1228250125694d1319bcb16781851ee65b687ce9e0098dddfcc49ea8e",
+      "sha256_md": "dfaed4948db70e86954e05ba3b004246f95c555818a4e79d502842aa3fb5c23f",
+      "sha256_texto": "5b4195ca1c0caa4b9a4d11601ab0a336dfd46bc69201ea2d76c0d0c5e25d56d8",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1603",
+        "data": "2026-10-20",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154189.md",
+      "id_rfb": 154189,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154189/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154189/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/025571d1ec2043de4515a30abf9cf6cc75cdc6a7a696eaceceeb4d428d463aa6.json.gz",
+      "sha256_fonte": "886e6ac6c1505f85defe489fe6f4a1af8b12a9c9fcfbf06d881c96dd27a2d837",
+      "sha256_md": "79fbef257c363a3cd4f356bf2ee6ff090912571ee2316b106cb0bb259fb9ebc6",
+      "sha256_texto": "af78aebdb7b53d95ff16fefaefec6edc74c657fec8e3c386ae06248e5d5c49df",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "145",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Coordenação-Geral de Administração Aduaneira"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 6,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154188.md",
+      "id_rfb": 154188,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154188/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154188/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/d5b9c317a3e0073e1c6836daf5a22b2e375dfa01a5aabbf347af9697261c85cd.json.gz",
+      "sha256_fonte": "cfd39fdfd47f6f8633ccdc882791749dc23bb481ec8d6b065ca7ac0e48d6c9ee",
+      "sha256_md": "67710ebe3871f5deb8a2abcd76e5da9540bf8469ba2d22fcb04e510e9538b4c3",
+      "sha256_texto": "51ec5bb846840114b6ea40da567f0e802853d747600ecebb6aa7893bf9a2e827",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "144",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Coordenação-Geral de Administração Aduaneira"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154187.md",
+      "id_rfb": 154187,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154187/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154187/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/467b85839adbf504508fcd360643420437e6b9dbe687dd4558378022e1240152.json.gz",
+      "sha256_fonte": "30b6b0f72117a7e4f026ad78065d1bafe6e9142d972470dad0ebe96a2b9af654",
+      "sha256_md": "01f611c08e0829ad07be1d76ddc9e39d106af6931e54e43a38600397259ec3ba",
+      "sha256_texto": "fe2e6190ddea388454cc8fb4095ff03890b467104949fb4838d9e6a8db251f76",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "143",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Coordenação-Geral de Administração Aduaneira"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 18,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154186.md",
+      "id_rfb": 154186,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154186/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154186/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/0c284d0c399deb79a0396cacc1c6645b976aad69dd6148085ebd55781fc2c939.json.gz",
+      "sha256_fonte": "9bca0813bf4e0180343a79b8597003dee39fb8b0784e4151dcb6161936bde9a7",
+      "sha256_md": "3379ce1e8f88db14d805bc4795c6734d79664db7b507a34538a15e319ffb1a19",
+      "sha256_texto": "3837afb2cbd4bb943f5c5308b4d9fb17bdb178a318c111debd606c0ad72abc21",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "202",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Coordenação-Geral de Tributação"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154185.md",
+      "id_rfb": 154185,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154185/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154185/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/98818594044bd6c631619318e407dbc1e0ac2a48473bb597ecded56faebac2d4.json.gz",
+      "sha256_fonte": "bdcd23015fb859138ba8c05f9cb005ee23bf047bc657e987d7c059ad925eb567",
+      "sha256_md": "d353720b15bc872ad316d47a8de0553dda692e8c42c45fa59ea7a75fbebb557b",
+      "sha256_texto": "ccb419e9c59727ea20d5e6b03ff25f43addd7465f9428b5255746ca1e882213a",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1604",
+        "data": "2026-10-20",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154184.md",
+      "id_rfb": 154184,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154184/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154184/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/9d13f551137c465a7cddf38ca740fc10d73a318f27628063f2a19d832c603c77.json.gz",
+      "sha256_fonte": "7095223608ba6323bf98b4ca85d2b76e7c1411f465dc20eb217f9fda2044eb96",
+      "sha256_md": "7b1da618b6b5226e4f0be4f35165e8322ee04c81c436b4e7ff1a7e8c1942a117",
+      "sha256_texto": "d2ca14aef45303a8eefeeab2ce448fee932b59a042c19b4fab25ab7d65a1f245",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1600",
+        "data": "2026-10-20",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154183.md",
+      "id_rfb": 154183,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154183/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154183/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/7fa4703d99e201df0e8c4412742943c92aa7d72c4d033ee2b5769e513101fc0e.json.gz",
+      "sha256_fonte": "2fd1ce964f9554c2e0184fb0a5fcde9cbeb1b010ca249b4b831c3c7547ba6115",
+      "sha256_md": "567b725dd0b9b597ed8b7a8f7d1b5db66ec76ae34383e3d1f5c10b728005011c",
+      "sha256_texto": "440925f8969677e728e3dab2778ac947b77fd4aa5650b5bd290d1a44727befdd",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1602",
+        "data": "2026-10-20",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154182.md",
+      "id_rfb": 154182,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154182/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154182/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/dc6cc72d37ce87168019cd76165bdd8017287234f36e5a7c93bcc18b48cb43b2.json.gz",
+      "sha256_fonte": "99127215aa8cc6d6027823cf713e995fd2f76fe767b4aa1def91b7546c948c8c",
+      "sha256_md": "321c53344941d4cf92d5822afdc6e269d69b740f101f97c6a1e00c05e27de08a",
+      "sha256_texto": "aeb1e71b9f0204313fe2d97e28ad6f6a8dccde7f95fd1c496816b4271abc063d",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "6",
+        "data": "2026-10-20",
+        "orgaos": [
+          "Superintendência Regional da Receita Federal do Brasil 2ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154181.md",
+      "id_rfb": 154181,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154181/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154181/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/f657a16a26a675fd7f9a75592b5d880825077bbe47f7d310364457a9645aa493.json.gz",
+      "sha256_fonte": "ea7ac443fb49775509657982c20f5a599155244a6b380fd122ca8ca05f2aaa79",
+      "sha256_md": "71e292f09fac44c9f6e0dfa248b9793f6573608391695269ffd8bafcc66c4fab",
+      "sha256_texto": "fbe4baad98665cc788780ba69c57f9d4ce8a421deae8a872bc4febf11a354dc1",
+      "identidade": {
+        "tipo": "Portaria",
+        "numero": "1216",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Superintendência Regional da Receita Federal do Brasil 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154180.md",
+      "id_rfb": 154180,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154180/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154180/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/021ad0a1ca680a1697c5078d68acec92e3d4d825fc07d8754f72a1c7ce41c711.json.gz",
+      "sha256_fonte": "ac955c75e00b67572764b83dec50fe86505fe35fedc9c6a21504d0a758338db4",
+      "sha256_md": "db863ae240bf5cca2656c2f370e2204932a079f0d102e540d83603ec4b3bdba6",
+      "sha256_texto": "366549fbcb5ad9dd066fc11d365a2c3c2e0d083db9133bdcdf29048cff6cabc8",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "32",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil no Porto de Vitória"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154179.md",
+      "id_rfb": 154179,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154179/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154179/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/ba10998dfeb76009aa222c14c0f63071b47290403136f81f4ce3a99d58a902ab.json.gz",
+      "sha256_fonte": "9b8182b3ee36aafc2b2a1b8ece40e47bf68dd4a47f59c438da21ace349debb0d",
+      "sha256_md": "6e38363f756e2032b3e46625bb7b47d0a7d23d31312fa3b7cef2a83d551657b5",
+      "sha256_texto": "7900fcd5cb1a236d3b80da18ca170812d02b40a99d93e5fba4026154d5020e04",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "34",
+        "data": "2026-10-20",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Florianópolis"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154178.md",
+      "id_rfb": 154178,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154178/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154178/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/b8deefa53b1f19588fbdad595be566206fbbe864806d1996e5f81cc01d884a17.json.gz",
+      "sha256_fonte": "5e8af841b92b8b161cd7a7d598c0b97513e73a3adc97be8d61f7cc31a1e34723",
+      "sha256_md": "70881d84ef57f1783ae1f6c7866d089591f7166e015021fef280f2b50ff88ba7",
+      "sha256_texto": "6a898328452ef12209837c9da1cc370bd9e7266e72f09e80e9c4c089681ff13c",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "111",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Coordenação-Geral de Administração Aduaneira"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 7,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154177.md",
+      "id_rfb": 154177,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154177/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154177/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/6e6e9ba4c5087e176df521d71b67e40519895df9940f14eedbbdf6833af33d38.json.gz",
+      "sha256_fonte": "150b4d513dfc77f64558cabecd3fbe7b1d40e4c66a0be3ef27e3440b3f0bdfb5",
+      "sha256_md": "075c03528df76596d36cdc5c419387b70b1b9420779c2b054bf011b8e04ae7bf",
+      "sha256_texto": "d5ba6d10f794c0fdd09cc29526da1bf547d354d174853d8acaffa887f19e6a32",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "57",
+        "data": "2026-10-06",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil no Porto do Rio de Janeiro"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154176.md",
+      "id_rfb": 154176,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154176/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154176/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/c177c971d5b9ee49704834453b675123ae8b85292b8d58276b6063c0ef9dc6c5.json.gz",
+      "sha256_fonte": "7a745c3dd0676984ade9a3cfc790b2b58622957fc47785b808a5acaddf4557e3",
+      "sha256_md": "10bd4f7afb6cee0585e5cbb2e2b98133c52b12685a255c3ca2683a366f888e8f",
+      "sha256_texto": "aac23579eba0b74a0bad9d607589cac25c0d5c5f0f0e113c04166ad7d700c4f6",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "108",
+        "data": "2026-10-01",
+        "orgaos": [
+          "Coordenação-Geral de Administração Aduaneira"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154174.md",
+      "id_rfb": 154174,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154174/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154174/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/1e414a4cfcf25c0d1a3c20a474f155f9935de2b3363bd3fa4806d24b4827c4db.json.gz",
+      "sha256_fonte": "f49f1f2b6c25df4c269064b488dd258f416c8ac68c1040ccdde8bf7fe8f2d238",
+      "sha256_md": "31ce49d53887903181493db762e5e7f32f4378a2f819b04a93ad0ace5a625391",
+      "sha256_texto": "e12c1ce6aae1028abe0e3c9088ca5a4e6e356b8f3731b953ce1b1663fb689c24",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1591",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154173.md",
+      "id_rfb": 154173,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154173/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154173/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/ea2f99a10315d1c7c3f9937b21d01788301021aaf7bc9f4ecf2fa787f090ca7b.json.gz",
+      "sha256_fonte": "7ea8eab9203e8efea49b49e1f402185a9645e9f704bf8334091626d0cdc676ae",
+      "sha256_md": "1facfc5b04a010f4496948c973c0292678ec772d2f03112642ae446d43026e59",
+      "sha256_texto": "af681b84c3a6db34751c74a4eb11f224a6a20c8963f832b13882a70aac1b1e62",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "7012",
+        "data": "2026-08-27",
+        "orgaos": [
+          "Divisão de Tributação da 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154169.md",
+      "id_rfb": 154169,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154169/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154169/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/60b67b42db438211c5dfcb753822cebc8a7cb7193bf21760c6f22ed40bf75d24.json.gz",
+      "sha256_fonte": "43daf59d266835c08f39ffbfe7e8707e18399d9f33d6c388e1b9e5588135ea73",
+      "sha256_md": "7ba0491b9356b53c3ed287e01bb956669f865690ea20f634229a0a87ec59333b",
+      "sha256_texto": "9246d0b1399dd1764fa63dcad3286fc650220751d0f98c88bdda7c941c3f098d",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "209",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Delegacia de Fiscalização de Comércio Exterior da Receita Federal do Brasil no Rio de Janeiro"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154168.md",
+      "id_rfb": 154168,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154168/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154168/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/d39ef093a38196bca255ae73ddfd959dae542bcf71e2d646aa69324a8988f5dd.json.gz",
+      "sha256_fonte": "6720f9d9e005bd764f5567f2bc0dfca726da0eb4dcd1eb3deb02dceda418e1d2",
+      "sha256_md": "874b4f5e69fac3b0a9d225a901557c7d30a9d963096e8aa4b2a6365d7c4dfb84",
+      "sha256_texto": "91395fe98452e22fe001b01aa3ecbd468070b9ba197e6b04f00c3ecf4652bba3",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "208",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Delegacia de Fiscalização de Comércio Exterior da Receita Federal do Brasil no Rio de Janeiro"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154167.md",
+      "id_rfb": 154167,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154167/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154167/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/3bad895a15a00615a194fe3afc0c314f579c2530e45cf190e91cb970645cf98c.json.gz",
+      "sha256_fonte": "02207421326f0d8a30cf3e0d762fe7983647a0d286bbd9856e644c62962bf72d",
+      "sha256_md": "121228ae5af0e43932d45719ddb389fd907fecf42183c22fbf0eaaa22790262f",
+      "sha256_texto": "b6fd3529122ea24f2aa25afc8aad1d462194c8f6b7322936e522cdfad273aa33",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1592",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154166.md",
+      "id_rfb": 154166,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154166/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154166/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/4baaf0187a0adcd184a61315d3db2a588f1728f616ade61de9bee225f9289714.json.gz",
+      "sha256_fonte": "bfda097de76383c4bd1d54ad0e3df4d557e8033c5a2637d0e3b8bc47702c9c41",
+      "sha256_md": "93048cc237a7ce921cac4ed43cf6f4131f8afa1bceebf1bbce1337868807c400",
+      "sha256_texto": "1e1c2bb6c3dbd8596e0a3a7f6cc91994080bee3c5b67ddfa03ec40c87bb7284a",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "5",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Niterói"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154165.md",
+      "id_rfb": 154165,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154165/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154165/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/f7aa67034668eec9a36b18ddb14590fab93a399068c27f79465e1c475b415561.json.gz",
+      "sha256_fonte": "9b2f901cd6bc9c4807cf12e5cde59375efcf05b560a72ec8f1712d984c31089a",
+      "sha256_md": "a4f656a9fcf38edb4dbd7bc35fcee3f4a54d1de86d6dc65a69c29a2175136438",
+      "sha256_texto": "c82138a48ef19f55f9ffc4a60e87e309f128e5393617a7d5bcbcf05df3601811",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1593",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154164.md",
+      "id_rfb": 154164,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154164/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154164/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/ce9e2be12b2c79ba213327d924a71f1a20078e2ed789b36f5d1a61ee2be8f811.json.gz",
+      "sha256_fonte": "80d0496025c1158404d5c72248888e6546907f2624b2cd247cef57ec722c9231",
+      "sha256_md": "8f0effce90b6ab1593e623fca184ba198218197e2c9b69096d29eea52046bb96",
+      "sha256_texto": "e81cc95b0736db1b89e7a5d6c4e7d3189ce32e17a914f1ffda875f4d2f5e23c5",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "207",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Delegacia de Fiscalização de Comércio Exterior da Receita Federal do Brasil no Rio de Janeiro"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154163.md",
+      "id_rfb": 154163,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154163/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154163/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/4a6d942b40fd93e8c965489ca50278162c1c6302ffdf9542123ab57779ef9069.json.gz",
+      "sha256_fonte": "ca8f81628b1572717fa56718e4318892b2a94ed9243fd1b4108cb6dbaf647746",
+      "sha256_md": "6628cdb3d3e545af8c26e7dc784713bf9c58f4c561d938e8376703204d3ae8fa",
+      "sha256_texto": "56ddd6f17659583e04b9fefa79d3ce1bbabb0e6f914742ab33ddd44bfcdcca51",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1595",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154162.md",
+      "id_rfb": 154162,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154162/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154162/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/91acdf1ce507b4386c1cb6fc9d867aef0ac9202b55aeeccd3842620f80a86f50.json.gz",
+      "sha256_fonte": "4a865b2895d68b362b5213aa8261bc9ca697699084d5f1a6afc0e1db4b5db170",
+      "sha256_md": "e97579098444347bc50c798c3994df05ecaa1df8f0699cc52829295969539f1f",
+      "sha256_texto": "f1adbe8149da8929bdeb1281be41bfe109a7a07444ac233652b9022e212b2096",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "110",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Delegacia de Fiscalização de Comércio Exterior da Receita Federal do Brasil em São Paulo"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154161.md",
+      "id_rfb": 154161,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154161/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154161/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/bc8eacb480a867ebe32fe6ed3f21f99cdbee336801d224fb7dbdcb163f795928.json.gz",
+      "sha256_fonte": "5b1d786a3655a4f9d79fcce32df6ddc7b41fc9a65617c61c0fba7ad297a396ef",
+      "sha256_md": "d23611615bcad6910c24eb3cb975d9be7a9a35fbff6965d50b61574a95267d55",
+      "sha256_texto": "5eca2b2a261814815c097f57410d086b8b1886fc509e454e59c9318be043ea2f",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1596",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154160.md",
+      "id_rfb": 154160,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154160/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154160/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/186da6fa38a520ea68ed9fc43fee9ebbbf84b03271f0395843aa009b281aa277.json.gz",
+      "sha256_fonte": "0e1c7e1dd5c219139395639f97e3e207fa98d4a0bbf7009cf68e1ee151ab68db",
+      "sha256_md": "7e9b764694b029dd9880c56a1a8539909848ee490354d7516ca4eed4e909d6f3",
+      "sha256_texto": "c47dfbc3ed51334db432d13d38ce2c500cda2b5e20fcb08d92d905712a6e8307",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "7016",
+        "data": "2026-09-29",
+        "orgaos": [
+          "Divisão de Tributação da 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154159.md",
+      "id_rfb": 154159,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154159/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154159/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/8676e7bee9a47fa550e79d4a51c8a76571e8483d5c2aea1fdedf67bdf4fbf2ec.json.gz",
+      "sha256_fonte": "cbcd87f951f7129e8bb86f0b794a647085f38ff8f0ab060e4bbf1fe0d1dcede4",
+      "sha256_md": "770341f76e614c761499b3f5069a84ae7f5cf3c4cd60ba2cf54f84370f2f6cc7",
+      "sha256_texto": "a1824b47938ff56a7f54229f6c8a2e7d6076e1e2e8abbc90199f720f9a03db7a",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "7015",
+        "data": "2026-09-24",
+        "orgaos": [
+          "Divisão de Tributação da 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154158.md",
+      "id_rfb": 154158,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154158/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154158/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/de24a8bbe02ad4624648eed5cc9311dc73351434bab0b7cc9914814d5977f40b.json.gz",
+      "sha256_fonte": "c4ab005956e3dbd1ca2ecede44744ac6a34214abf8796df517e093bb49847555",
+      "sha256_md": "603961c39f84f336dcdcfbc52f34860d654ffc77b3409553c304d309561055be",
+      "sha256_texto": "cedc5dabacf48417ca81b0f5d97aee2e413158cda4625fd41dbaa6dd33d3fe47",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "7014",
+        "data": "2026-08-31",
+        "orgaos": [
+          "Divisão de Tributação da 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154157.md",
+      "id_rfb": 154157,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154157/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154157/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/15f88c2bf7797bcc28ba3b56ea42f6b151134155047b5e7099c83a47e54e73d9.json.gz",
+      "sha256_fonte": "5b6e181c7254e8e5988928568e6c3dfd21097747477dbfd5dc2fac00d70b8376",
+      "sha256_md": "26db43cec52252148f8bb49e368fb76291ae9947a5822f5f6534e20b10a113c9",
+      "sha256_texto": "a99735ae7f0ac250a3da985a7c680157422cbda5dc978a22d9d5d1bc6e926bae",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "7013",
+        "data": "2026-08-28",
+        "orgaos": [
+          "Divisão de Tributação da 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154156.md",
+      "id_rfb": 154156,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154156/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154156/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/5610692a5e692bf1fb6fad63e910c4731c45a6620265776a0e598cdebbdc2cde.json.gz",
+      "sha256_fonte": "83f3c9f70ca6adf8cd370d031c115339d4bf39e427a5247620795ec53b3491d1",
+      "sha256_md": "f8f3c207118bd6293e0759a8d63e600563fae13ef58247b3862eed316adfe4f9",
+      "sha256_texto": "d4444ee2b86f375d6f750973ad2ad995f91d69460fb1fced983ce2b05df61194",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "7011",
+        "data": "2026-08-27",
+        "orgaos": [
+          "Divisão de Tributação da 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154155.md",
+      "id_rfb": 154155,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154155/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154155/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/09447f5c719da5f394b1416484f9794bc2a4f61317b7d193630e1720fc51dfad.json.gz",
+      "sha256_fonte": "d9aff0f9e6c7c2f213872f42f9dc42e29f7277c191c29722ab1b17cec3b526f1",
+      "sha256_md": "095440c47856770088bd803dae411f479f970597cf40f4a1b07d6778d45f68ff",
+      "sha256_texto": "0399b492d03a1dde7f1939c0620c798f0d840ac21509f4d24e2357e8ce83ae8f",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "7010",
+        "data": "2026-08-03",
+        "orgaos": [
+          "Divisão de Tributação da 7ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154154.md",
+      "id_rfb": 154154,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154154/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154154/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/73d80a33aca8bf1f2192c316089e2eec17bb3a677e65fedef2bb98197ad6ba97.json.gz",
+      "sha256_fonte": "44c15954fae76d9dcfa69815eff8f09e560d855c0fa4f8736f91e6e811b13f51",
+      "sha256_md": "514a5e87869899fd5a2abf23c56d3af3135a1f27ad00de1c65f5cdcf00e4d491",
+      "sha256_texto": "9bb1ceaa1d963fe163b0e1912390e586db835822549c1873ffb269c544864cb5",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1594",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154153.md",
+      "id_rfb": 154153,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154153/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154153/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/9b96c13c4899b3bf0349d32cc411c022e404e48300458a7af9a8d6e0f64ac38a.json.gz",
+      "sha256_fonte": "c9b0221ac8f5b2869dac04ddecb987961e1eaa04fdba6ddaf53b5fd40fb20cbd",
+      "sha256_md": "08e1ece3f199ae1e88607fe8ef14175431d2d4fde2de81942b89e4c5f112faf7",
+      "sha256_texto": "115d6197e29e0d146927f19c2ca8b0cf282a4d9649c61086b888743214e1794c",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1597",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154152.md",
+      "id_rfb": 154152,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154152/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154152/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/80ea94afeb8c3bfa36228b5ce37919293a0a2c9fd6169284b73da971f5559fa4.json.gz",
+      "sha256_fonte": "aa77b323658fbb4c107b8528ff1d42f18544074e87e73ea6153eac959deba663",
+      "sha256_md": "60858407ca80bb1aee82aee3c6f37a47e81107abe4d6315cc83bc7c32d951099",
+      "sha256_texto": "604f88a3ec1e09ffc7b57d13129a7a9f3d5351b2c8747709c0fbfad811426f47",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1598",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154151.md",
+      "id_rfb": 154151,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154151/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154151/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/5c80299ce477697c135c6089cf0bfea0043ff868f4b43fbe6d85b79c4ca80795.json.gz",
+      "sha256_fonte": "6b83e2566c2080ff3612b773f05e7e4e901c8ddcde18637eb784d3a9ba2a866c",
+      "sha256_md": "33b0022fb0b9d5ec7f41c00514b90fe20cf9d19749ea05b27a050b91b04a8855",
+      "sha256_texto": "23dd13957e131e967fe9ed71e56cc238368fbed631dfc90344b5297de4a807b4",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1590",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154149.md",
+      "id_rfb": 154149,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154149/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154149/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/53e0b6478b9196720dca3a36de8ceb7258e9dcece0f3e26161325f8b0f16d1db.json.gz",
+      "sha256_fonte": "5476e76b83b7adf592fb7993a79ec4a2a55ef6fc864ca078772d918be919a1b4",
+      "sha256_md": "4c22f75dea8181ea065268cd0c609503d9225394b7db5d7fd48e437f400c4e78",
+      "sha256_texto": "4a6de8a8580bec0db8fab0d597d4b34cc7f5c93d7071d65cca2280f393c8eabe",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Santarém"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154148.md",
+      "id_rfb": 154148,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154148/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154148/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/3cdaa6c60afc66b32d33e2248544b9ddbbe26c4457d627ffa779956e89a0828c.json.gz",
+      "sha256_fonte": "dcdf848a9ff720224b02111826eac5ab6e1a495c4335ae428040e4ad1da68eec",
+      "sha256_md": "071bd3b4f11a19f306d13850a9b88285f6e8cdb8c99064c9f0ebb58228c609d4",
+      "sha256_texto": "101ce65595aa7904e9ec688af155d065af2a68ae056a55f0d0301d8ab7d33252",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "101",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil em Curitiba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154147.md",
+      "id_rfb": 154147,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154147/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154147/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/e5b8f997620f2c97f0bc94e759354472b4021804a04e0bad3214bb20d828e306.json.gz",
+      "sha256_fonte": "60758c68a7239602f84407aab503aca918d72ca518806b3733a12e61350d24e7",
+      "sha256_md": "a26a9e50deaffbb27e8e501cd93c0b6bcd6b911956245484356ef0977f0aee84",
+      "sha256_texto": "4c2109974b55c8f85bd18175fea067a705ab1a54d107bb4ff7c8c10cc4a8e6a1",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "51",
+        "data": "2026-10-19",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil no Porto de Santos"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 4,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154146.md",
+      "id_rfb": 154146,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154146/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154146/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/4b779306fcb4999c718988adbf50da3e86f8c17de0c8b1030378894c9c7f7656.json.gz",
+      "sha256_fonte": "d926756deca7819946710205f983a1fc2f2fa112c4c49cb1a8d6829fbc64c5ec",
+      "sha256_md": "3a180c62eb0152adbd6a6aafb689ed7de622514e9927a051ba56b84ffbac1f13",
+      "sha256_texto": "b20b6cbe1eac2c1a832dc0b8d6656cb243670dc4aa3cbd1d57878d8532e2866f",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "84",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Coordenação-Geral de Arrecadação e Direito Creditório"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154144.md",
+      "id_rfb": 154144,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154144/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154144/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/37e7f196212915bcef7f01ac71e3d0dc7e19e566d435a0c0b24c6a472da84db1.json.gz",
+      "sha256_fonte": "c4d8486eea31e54b5332cf23286f5ea6f9483047233ef96aa4b1749ab7562e49",
+      "sha256_md": "36d028dcc1d241183e4005b87a4089da55642b1ebfe377ceeede7b2e4c988224",
+      "sha256_texto": "82dc5f2457e099f1eb71a13ae66fc0fdc07e050a64a16dcac8f5bca50c0f235c",
+      "identidade": {
+        "tipo": "Portaria",
+        "numero": "3089",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Ministério da Fazenda"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154143.md",
+      "id_rfb": 154143,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154143/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154143/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/f1846ede994c9c53a78de8139902e5edaea42ecfe08596be70fd61adf7600100.json.gz",
+      "sha256_fonte": "6f155615893e7d79d2d2b9dc3d1020d0893c867c1e6c7e28a9e5c74f8e4bb5a4",
+      "sha256_md": "be249231e1796d369bcd34eb2b9cf52512591ee9945645c3ef452a5ecdaf3ac4",
+      "sha256_texto": "8ea482c2db7313cca1e3ccb8bc07393468fff5059032c3c2ca1b9fd085b18837",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "30",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil no Porto de Vitória"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154142.md",
+      "id_rfb": 154142,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154142/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154142/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/cd4febe6f270da449e73272e63f2ccec61f6ee9b90e899bcf5bb1f9de75dd42a.json.gz",
+      "sha256_fonte": "7af0cf7bd366d8f8abd8926f9fe34d8e01edb697ec1dfa48d9d44d7d1ccf043d",
+      "sha256_md": "33d04ea2746a4be8aacf14f639c3793af73a94d521c4360ce685d1975901c111",
+      "sha256_texto": "d20a541db0b14d4ebbc2f648876d533ebd5c45af045a108fbfe6ffd1cb65cdd0",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1588",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154141.md",
+      "id_rfb": 154141,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154141/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154141/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/6f17d12270bbc5fac06f39113d08d6575303259efd487b84df1ef8dd2bd44577.json.gz",
+      "sha256_fonte": "a42105461e7fb80f930d92513915c3acb10d13984af06078005d07af59df5065",
+      "sha256_md": "fe95f71a3a5e3d6fb14fcc45ca0b1f6ae8d5644921c687c812d49a03ba88b23d",
+      "sha256_texto": "a2b5cdc610ba15d0bab14436b1ef51b1b79a9578df8d506faa24230199067170",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "64",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil em Belo Horizonte"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154139.md",
+      "id_rfb": 154139,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154139/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154139/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/f8dd784c301126fb2fa8e5c0cdd6da2c736ddb80545d2f2781aa73d02f63a879.json.gz",
+      "sha256_fonte": "eb63d62599fe78a362f3ed4dff7bcab3c6dc4508db4ba005505521836c7ce1df",
+      "sha256_md": "e85ef112442978f33a27be270401c1a998bcd7dc0823a58b4008140270d03fe7",
+      "sha256_texto": "d8d6ef47d9c6605cc151e63948a4a29e4fa9ee01e34fcb5ca710d7104aa2adb9",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "64",
+        "data": "2026-10-13",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil no Porto de Manaus"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154138.md",
+      "id_rfb": 154138,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154138/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154138/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/9e0c75883f3b83dbc0f8f32c7ebaad3f9670903b2536a70898d4b69741783ed5.json.gz",
+      "sha256_fonte": "a8bba61a80b4e32b807c50512a0028795816eda7e09bf752d67e4273b893fbd3",
+      "sha256_md": "80e1f624182bb82e3cccb2486276c2a7492d48fcfe1a71e954bd2f8086168d83",
+      "sha256_texto": "e29f771427869a3be28d86f725ebfb64d8c306467dd79fd1c7a388637b8b4db2",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "206",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia de Fiscalização de Comércio Exterior da Receita Federal do Brasil no Rio de Janeiro"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154137.md",
+      "id_rfb": 154137,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154137/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154137/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/d598bf006b4743415a47c44dce461096bc15dc568d64b934874ce1e45d24f8ef.json.gz",
+      "sha256_fonte": "befc290d3067b9b96d077549e6e6fcca8278aac13a1d85bfcc4bf288f77889b8",
+      "sha256_md": "332a5b7f662c602bbd8c60f35734b377a8c0a1384259287c2a69cad8519747a0",
+      "sha256_texto": "6bb5a1ff7dbe3d7b1b9bf3826f57568bdf9f388f82be9b6a35e8ce897922fe3f",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1589",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154136.md",
+      "id_rfb": 154136,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154136/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154136/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/c624226bb2b18fc01078fbd801a3be691db8d35e3d3edf8cc09f445113d461cb.json.gz",
+      "sha256_fonte": "bfb073c5b26818cf2644a82c2a74e874990d2fd6e29f46a8cfabe11746c346bb",
+      "sha256_md": "390384abfb54f73e5c8d28958887d58a6fb367f6a88d3322bd577704b00723e3",
+      "sha256_texto": "4895a403718ddcb5bba89431d3c5315cb47b19944ea46fdd0c3feeed2657d98d",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1586",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154135.md",
+      "id_rfb": 154135,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154135/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154135/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/fc3393b5261e35ba1f3da4ab1fe08a5d7a620ccc803cb30f53ef35b396ca916d.json.gz",
+      "sha256_fonte": "9945bd1072eb63216810d06ba3334c071bc05c713036c0ae9fa3d9e0f8bb8097",
+      "sha256_md": "188f7c8cd2774ce7b7f0ebd69e4b88c4d9cee8903089541c398626c3251b4302",
+      "sha256_texto": "660d8481d67234d84327946512676f3626d8824fadc49d746618211c26947ea9",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "63",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil em Belo Horizonte"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154134.md",
+      "id_rfb": 154134,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154134/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154134/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/c71bbf87108689ab741f1583b7480fde2208eafd39faa6d73740db9297b3fc78.json.gz",
+      "sha256_fonte": "6cd891f0b2d75a528cbabccd19f847e73ee85c7b2cc9bfa369f09af172c4dece",
+      "sha256_md": "3a9491bafc4f94501a83ea5f4e128978b33add55785c9929596b31a6e38f9d8e",
+      "sha256_texto": "7ba9c16330c3906755bf3b1710fc49c28c9b112e63ddb95a08af22f4f586467b",
+      "identidade": {
+        "tipo": "Solução de Consulta",
+        "numero": "8022",
+        "data": "2026-07-06",
+        "orgaos": [
+          "Divisão de Tributação da 8ª Região Fiscal"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154132.md",
+      "id_rfb": 154132,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154132/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154132/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/5268fcdb56522d29930fcf0f1cfcdd39ff9a3fb1d0db1145982ec48c8e4560cb.json.gz",
+      "sha256_fonte": "863424486b47d078277d4f0aad81221b0a1a36654c0f9276c043e4e40bb7da9f",
+      "sha256_md": "5447032e75d42f4cca3a81b3fe55816ae04dedf1e659776106fc2557e0c45428",
+      "sha256_texto": "46725f386e2271452242235ecf4b4b92fe871c2f3f47c33c74dcf1a7f7806c84",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "100",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil em Curitiba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154131.md",
+      "id_rfb": 154131,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154131/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154131/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/cd23e24dac73f5b4ba1271d5e347bfea1f1cdc5b810ed6b1862802e55a7cd9c9.json.gz",
+      "sha256_fonte": "0ed453aa8b188a0b3690795692481cf3d2aa8b7a8cc99bb8074a67a37b9e6722",
+      "sha256_md": "5315d8e8b0171b12d3844ca8fe9dcd1d0aa4add348f134d5c2a0091331723a56",
+      "sha256_texto": "65d793cfb232bae56eaffa6a99e9af7904a89d35f60a1a679d3b91d88ba2d940",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "103",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil em Curitiba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154130.md",
+      "id_rfb": 154130,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154130/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154130/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/ccb667f36c7140aa6dd606959d1fa9c3fec442304edde6cb32697403df6d5459.json.gz",
+      "sha256_fonte": "236602cc85059fe3a763add66584af4703569f01e23f92bd83606587ebe59891",
+      "sha256_md": "8dc817062db42036e87d5bb6aa67a1d4e98326e8190673f88b0443722d3d0965",
+      "sha256_texto": "329329de1f7e8f7f255d0a6fe213ae251808f9bb8dde4b02253fa2a8ee8498f5",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1587",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154129.md",
+      "id_rfb": 154129,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154129/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154129/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/f3be74a1fa94a4d5bdd62475e96c8f1847633ba09b464236aee9fc85294e88c9.json.gz",
+      "sha256_fonte": "aa83db397994575f02a34e65d9aadca76211702505f661c5f0e5b4d5cb11953f",
+      "sha256_md": "a5ce0c9904b051ab0fe3c9ba02996cc483920f2b5f3ea84974df649edaf531d1",
+      "sha256_texto": "fb244c23e399c476d519088b927eba6a78148fe7f66cb0e010ed417b0d48f7d1",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "102",
+        "data": "2026-10-16",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil em Curitiba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154128.md",
+      "id_rfb": 154128,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154128/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154128/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/6ea28b8db6bb9c01902c1255ed7900b972d705dfdd1761e0c4b45814493f0aef.json.gz",
+      "sha256_fonte": "2b737d913434303caaec78dfd6e2a7bee5b9b27bf28898b182bc24c1e3efa299",
+      "sha256_md": "49e8c65834d1cf0261f353fc7c54eecc96a0854c968453d824c26352a59cce9b",
+      "sha256_texto": "92d52848587b2df1697d799cdafdc86103f566d64af7390a0ac5550bce219c9d",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1585",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154126.md",
+      "id_rfb": 154126,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154126/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154126/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/f37ff69d417f31e73ebd36131c3658e7f159410df0651353df8cc07481b84caa.json.gz",
+      "sha256_fonte": "dd82f94d6cee3d1ac01c83f39e6b149ec41b450b9e411f91357e15d7c3072fc5",
+      "sha256_md": "b85f796bea9638a4bfaf07b7281b916164181d29702c71cb4bc921b0b4b0c741",
+      "sha256_texto": "0f83c012689d0d8d0a7ffc375e7d18a9ef2472f1ed6a2878852445c063065b88",
+      "identidade": {
+        "tipo": "Portaria",
+        "numero": "214",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Coordenação-Geral de Administração Aduaneira"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154123.md",
+      "id_rfb": 154123,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154123/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154123/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/4c010acb0caf04bbe970b36904a58677b7339892b32b9defd29ab67e18dd3e23.json.gz",
+      "sha256_fonte": "3149e34c307fe125207683d19ffceda7e4cc0d0bc5478ce8dcd6eb586f628199",
+      "sha256_md": "8ef74949eb1d41afeab744e75c794cd6fd5c5f624b146de855f7c2826ff0fe88",
+      "sha256_texto": "2df562d63258d3a65927a4446c7137289bc23e93e54f18efedc4ae4fd27f2278",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1578",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154122.md",
+      "id_rfb": 154122,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154122/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154122/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/afcb75cff108d0b8cbefb5a497c39b43e28d5ddd0c21d1bb3af31917fa5c92fd.json.gz",
+      "sha256_fonte": "d1280be2c6bad11325dae1cc9eab5ef34549e68bf56d16a3017aaee3857063a7",
+      "sha256_md": "17f45e681ca2dc713bd7b310de9f0a8129684079795065fb862847fc7741ed84",
+      "sha256_texto": "f075960db52c06b3643ac6cebc9284461dacb56cd97ca6293a64665205233753",
+      "identidade": {
+        "tipo": "Portaria",
+        "numero": "105",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil no Aeroporto Internacional de São Paulo/Guarulhos"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154121.md",
+      "id_rfb": 154121,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154121/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154121/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/fceb246d77551281d25c69d6046684b6b4a011ed3db54eb455064821d5602073.json.gz",
+      "sha256_fonte": "9229ced99fad000d7b8ae9b761209881cee64a438885566a9b2f06fd8efa4110",
+      "sha256_md": "2bdc2c98a084633314fbf9afa18f2c98b87a77fa9b1cc9f6a3e37309fb7a7171",
+      "sha256_texto": "268a814fd6d0c63e89629be6791a6a01fb4ecd6376f10f59d27becb5d9884e42",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1570",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154120.md",
+      "id_rfb": 154120,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154120/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154120/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/9f5baad3094f6788eea85fbce2bac39db441d6151bd3b8b39d1218f4f7d9c967.json.gz",
+      "sha256_fonte": "53a03017dd4f4b44b28953d7ef900dd19e721245e4fac9946b7e7f877030e6a3",
+      "sha256_md": "83f2f5d16112d7326e7761851a36671d7c846f6a246f8282a68eaf9e0314b685",
+      "sha256_texto": "f933ae38713a3d6b52a32bc23253bb341af0c2a1a9a05da03c532e06522052fc",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1582",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154119.md",
+      "id_rfb": 154119,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154119/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154119/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/cabdc05b0260fdb9c72418036e776710f8aeb2b6b4e53a8c4598b7adf5b4f3e9.json.gz",
+      "sha256_fonte": "2343ca24e864506b263b4a703139212f71c444f8f0e3dea8226de8b2f07b3741",
+      "sha256_md": "1298e4d286115786cc902003028d94b915480182cf5a0170cfccc3be482cb383",
+      "sha256_texto": "821a6c5438a29b5173f8b1e478ee5ccb57b3f399ed40c5a6ff558b4aec14c9f0",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "32",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil em Recife"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 1,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154118.md",
+      "id_rfb": 154118,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154118/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154118/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/9cb512c64b06f0d0d199263aecfd9672ca9bea1754393feb008b3c4f6c9a9aad.json.gz",
+      "sha256_fonte": "840713f97db217d5876eb343ba90ca8a684c319b36b38ff09240b20518ce4766",
+      "sha256_md": "0bc8e76e5c77d47540451b933f873600839595dc5093c7e4ed282589226e9528",
+      "sha256_texto": "680543192e831e30e7b17c6bff26d8766676662d4adc464221c120303ea21a9c",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1580",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154117.md",
+      "id_rfb": 154117,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154117/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154117/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/46c0bf0ade721ee93226515c19d519d9443f08a3b94ff27ddb958a8c632e4e37.json.gz",
+      "sha256_fonte": "c9350bca4d3fceb6e62e32dbf84c2c697f382e9f01edba09141c9ee6d094e289",
+      "sha256_md": "0a621c1302f3ccb130fad7448aaa980f67cd7328785a6c8e46835d92f6e9515e",
+      "sha256_texto": "9d4de77a77022c689054e57816dd6f98e454e5c699d7490676c269b407271f8f",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1579",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154116.md",
+      "id_rfb": 154116,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154116/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154116/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/804f0926aee28fb4e50c0a6e305ff61f60a031ae38215524c9460c8a7e4333fc.json.gz",
+      "sha256_fonte": "c65eec9fa35391a424adeac15beebb294c9033f69df0202f0e7b6a825b6cfc83",
+      "sha256_md": "4a5519f9899f7e3a3e5c0bbd57561792d602ddeff4f7bcd2cf8ecd96ac0d352d",
+      "sha256_texto": "31f9468a3c44730bf7e324dcfcca938ddad182d1b9074676b96d973c4185ab9f",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1577",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154115.md",
+      "id_rfb": 154115,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154115/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154115/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/42475cea8f7be7e96dc17b696efd3cea55755f75bbae0a87c9492ea3fc1e7542.json.gz",
+      "sha256_fonte": "a8cb421143b60f960a74ae76e5c0682f4716170acfbd72356cffee45ccd37a0f",
+      "sha256_md": "d8f8d932f79c0fefbf4f39b9270355f10c0bf3165785a3800b881d94b42b8fee",
+      "sha256_texto": "bbef931240ed8b3d42b5e998a992fd968b07d9c0934ff2f7a5ace56c3235baa9",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "31",
+        "data": "2026-10-14",
+        "orgaos": [
+          "Alfândega da Receita Federal do Brasil no Porto de Vitória"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154114.md",
+      "id_rfb": 154114,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154114/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154114/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/399e89dcdf74739037f2b49bc936c29d8fe9d9d713475583847b014116d4b8fa.json.gz",
+      "sha256_fonte": "a049a33123e34cb111b673d29b07ffe3865527e827524c771288ca46beb0d487",
+      "sha256_md": "92f6239d181773a5a85f2679fe5ad8586f4568d2d66166a98e149a2fa6873e5b",
+      "sha256_texto": "eabbb6940d43dec77ee3309937198410135859d40b4c16c74259d72c8d395e31",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1583",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154113.md",
+      "id_rfb": 154113,
+      "fonte": "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/154113/visao/original",
+      "fonte_api": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/154113/visao/original",
+      "cache": "reguladores/rfb/_fonte/sijut/5ee73123215989073e90e17aace6b53bfdd7da49a5f8ea36d1551d40f740c205.json.gz",
+      "sha256_fonte": "cebeaff2d13a71b3401ffd248b31c3ed219e1b91ab435f55c78d42bb828de199",
+      "sha256_md": "c3159545032da4e98fa754e997ba8b229be89d21f714254dbad59b138a02da91",
+      "sha256_texto": "8a6b1623605d84ac8fd047724c760f1bb6434fb487d0f0ab5a9322eb8768b686",
+      "identidade": {
+        "tipo": "Ato Declaratório Executivo",
+        "numero": "1581",
+        "data": "2026-10-15",
+        "orgaos": [
+          "Delegacia da Receita Federal do Brasil em Sorocaba"
+        ]
+      },
+      "revogada": false,
+      "evidencia_revogacao": "vigente:true",
+      "tabelas": 0,
+      "avisos": []
+    }
+  ],
+  "retidos": [
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154171.md",
+      "motivo": "anexo imagem/PDF exige conferência visual e paginação própria"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154170.md",
+      "motivo": "anexo imagem/PDF exige conferência visual e paginação própria"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154150.md",
+      "motivo": "anexo imagem/PDF exige conferência visual e paginação própria"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154133.md",
+      "motivo": "anexo imagem/PDF exige conferência visual e paginação própria"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154127.md",
+      "motivo": "anexo imagem/PDF exige conferência visual e paginação própria"
+    }
+  ],
+  "motivos": {
+    "anexo imagem/PDF exige conferência visual e paginação própria": 5
+  }
+}

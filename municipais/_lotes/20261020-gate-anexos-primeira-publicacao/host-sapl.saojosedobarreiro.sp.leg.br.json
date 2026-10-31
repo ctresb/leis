@@ -1,0 +1,356 @@
+{
+  "host": "sapl.saojosedobarreiro.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/anexo_1.pdf da norma Lei Ordinária nº 71, de 14 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2019/1/anexo_1.pdf",
+      "ano": 2019,
+      "norma": 1072
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/2021-r5_-_plano_de_saneamento_basico_de_sao_jose_do_barreiro.pdf da norma Lei Ordinária nº 100, de 15 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/2/2021-r5_-_plano_de_saneamento_basico_de_sao_jose_do_barreiro.pdf",
+      "ano": 2021,
+      "norma": 1229
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/produto_v_-_projeto_executivo_-_sjb.pdf da norma Lei Ordinária nº 100, de 15 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/3/produto_v_-_projeto_executivo_-_sjb.pdf",
+      "ano": 2021,
+      "norma": 1229
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/produto_v_-_projeto_executivo_-_sjb_-_a3.pdf da norma Lei Ordinária nº 100, de 15 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/4/produto_v_-_projeto_executivo_-_sjb_-_a3.pdf",
+      "ano": 2021,
+      "norma": 1229
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/relatorio_parcial.pdf da norma Lei Ordinária nº 101, de 15 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/5/relatorio_parcial.pdf",
+      "ano": 2021,
+      "norma": 1230
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/relatorio_final.pdf da norma Lei Ordinária nº 101, de 15 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/6/relatorio_final.pdf",
+      "ano": 2021,
+      "norma": 1230
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/protocolo.pdf da norma Lei Ordinária nº 102, de 15 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Protocolo de Intenções",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/7/protocolo.pdf",
+      "ano": 2021,
+      "norma": 1231
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/8/anexo_lei_42_2017.pdf da norma Lei Ordinária nº 42, de 14 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2017/8/anexo_lei_42_2017.pdf",
+      "ano": 2017,
+      "norma": 1019
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/9/anexo_lei_44_2017.pdf da norma Lei Ordinária nº 44, de 14 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2017/9/anexo_lei_44_2017.pdf",
+      "ano": 2017,
+      "norma": 1021
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/anexo_lei_93_2022.pdf da norma Lei Ordinária nº 93, de 19 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/10/anexo_lei_93_2022.pdf",
+      "ano": 2021,
+      "norma": 1220
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/anexo_lei_94_2021.pdf da norma Lei Ordinária nº 94, de 19 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2021/11/anexo_lei_94_2021.pdf",
+      "ano": 2021,
+      "norma": 1221
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/decreto_mun_02_2017.pdf da norma Lei Ordinária nº 16, de 18 de janeiro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2017/12/decreto_mun_02_2017.pdf",
+      "ano": 2017,
+      "norma": 980
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/13/anexo.pdf da norma Lei Ordinária nº 4, de 12 de abril de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2016/13/anexo.pdf",
+      "ano": 2016,
+      "norma": 958
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/14/anexo_lei_05_2015.pdf da norma Lei Ordinária nº 5, de 13 de abril de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2015/14/anexo_lei_05_2015.pdf",
+      "ano": 2015,
+      "norma": 862
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/15/anexo_lei_08_2015.pdf da norma Lei Ordinária nº 8, de 25 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2015/15/anexo_lei_08_2015.pdf",
+      "ano": 2015,
+      "norma": 865
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/16/anexo.pdf da norma Lei Ordinária nº 18, de 16 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2015/16/anexo.pdf",
+      "ano": 2015,
+      "norma": 875
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/17/anexo.pdf da norma Lei Ordinária nº 14, de 23 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2014/17/anexo.pdf",
+      "ano": 2014,
+      "norma": 834
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/18/anexo_lei_19_2014.pdf da norma Lei Ordinária nº 19, de 04 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2014/18/anexo_lei_19_2014.pdf",
+      "ano": 2014,
+      "norma": 839
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/19/anexo_lei_16_2007.pdf da norma Lei Ordinária nº 16, de 07 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2007/19/anexo_lei_16_2007.pdf",
+      "ano": 2007,
+      "norma": 645
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/20/anexo_lei_26_2011.pdf da norma Lei Ordinária nº 26, de 18 de outubro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2011/20/anexo_lei_26_2011.pdf",
+      "ano": 2011,
+      "norma": 776
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/21/anexo_lei_15_2010.pdf da norma Lei Ordinária nº 15, de 31 de agosto de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2010/21/anexo_lei_15_2010.pdf",
+      "ano": 2010,
+      "norma": 757
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/22/anexo_lei_29_2014.pdf da norma Lei Ordinária nº 29, de 23 de outubro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2014/22/anexo_lei_29_2014.pdf",
+      "ano": 2014,
+      "norma": 850
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/24/anexo_lei_131_2022.pdf da norma Lei Ordinária nº 131, de 28 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/24/anexo_lei_131_2022.pdf",
+      "ano": 2022,
+      "norma": 1280
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/25/anexo_i.pdf da norma Lei Complementar nº 11, de 28 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/25/anexo_i.pdf",
+      "ano": 2022,
+      "norma": 1279
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/26/anexo_ii.pdf da norma Lei Complementar nº 11, de 28 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/26/anexo_ii.pdf",
+      "ano": 2022,
+      "norma": 1279
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/27/anexo_iii.pdf da norma Lei Complementar nº 11, de 28 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/27/anexo_iii.pdf",
+      "ano": 2022,
+      "norma": 1279
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/28/anexo_iv.pdf da norma Lei Complementar nº 11, de 28 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/28/anexo_iv.pdf",
+      "ano": 2022,
+      "norma": 1279
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/29/anexo_v.pdf da norma Lei Complementar nº 11, de 28 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/29/anexo_v.pdf",
+      "ano": 2022,
+      "norma": 1279
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/30/anexo_vi.pdf da norma Lei Complementar nº 11, de 28 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/30/anexo_vi.pdf",
+      "ano": 2022,
+      "norma": 1279
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/31/anexo_lei_134_2022.pdf da norma Lei Ordinária nº 134, de 19 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/31/anexo_lei_134_2022.pdf",
+      "ano": 2022,
+      "norma": 1283
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/32/minuta_convenio_pl_03_2023.pdf da norma Lei Ordinária nº 137, de 08 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Minuta Convênio GSSP/ATP - atuação do Corpo de Bombeiros da Polícia Militar.",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2023/32/minuta_convenio_pl_03_2023.pdf",
+      "ano": 2023,
+      "norma": 1287
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/33/adi_no_2228087-55.2017.8.26.0000.pdf da norma Lei Ordinária nº 13, de 25 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Ação direta de inconstitucionalidade em face da Lei Municipal nº 13, de 25 de maio de 2006.",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2006/33/adi_no_2228087-55.2017.8.26.0000.pdf",
+      "ano": 2006,
+      "norma": 614
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/34/par_cpfo_contas_exec_2019.pdf da norma Decreto Legislativo nº 3, de 01 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Parecer da Comissão Permanente de Finanças e Orçamento referente as contas públicas da prefeitura, exercício de 2019.",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2022/34/par_cpfo_contas_exec_2019.pdf",
+      "ano": 2022,
+      "norma": 1274
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/35/anexos_ldo_2027.pdf da norma Lei Ordinária nº 244, de 28 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Anexos - Lei de Diretrizes Orçamentárias 2027.",
+      "anexo_arquivo": "http://sapl.saojosedobarreiro.sp.leg.br/media/sapl/public/anexonormajuridica/2026/35/anexos_ldo_2027.pdf",
+      "ano": 2026,
+      "norma": 1487
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.saojosedobarreiro.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojosedobarreiro.sp.leg.br/018ccb0016dfc38eda21ad3bf6d0945c8b44c08a1ccef9156e8da762c2c36bef.json",
+      "sha256": "58d2dfd5b5cdb7736091d4dd68b2fa19c78c4d1486817a44cacf33270cf48435",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojosedobarreiro.sp.leg.br/018ccb0016dfc38eda21ad3bf6d0945c8b44c08a1ccef9156e8da762c2c36bef.meta.json"
+    }
+  ],
+  "total": 34
+}

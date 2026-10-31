@@ -1,0 +1,37 @@
+{
+  "comparados": 14753,
+  "candidatos": 78,
+  "colisoes": [],
+  "fontes": [
+    {
+      "arquivo": "/tmp/constituicao-index-20261020-continuacao.z",
+      "sha256": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-pacote-final-1967/normas.paths.txt",
+      "sha256": "6bca97fea7e6f6ac61270f9bedbcd6f5e4920b79b8649d9e6f8636a9a57cb7b0"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-consolidado-municipal-129-v2/normas.paths.txt",
+      "sha256": "c0fce193ac5634be4f9a4392b2eafcd34502527404e902477f2b62bbe262d64c"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-final4/normas.paths.txt",
+      "sha256": "60fa2b91eda2b11079972a138f759b06ea0598d1a6a396ad0b24ea6e5be539dd"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-estrutura-v2/normas.paths.txt",
+      "sha256": "7092f81d33f81c0ff9834a26a24f87644846959238d1a18b5602a815960939a7"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0002-final28/normas.paths.txt",
+      "sha256": "bdecb1187d1344d5e524d4c5b93ac93db0a0430130a54346dd9c0aecc13de39c"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-commonmark-overlay-251/normas.paths.txt",
+      "sha256": "78ada7e0f985fbd70a2ec10a0e9295f4b28c38803310679c162a0cfe35db64f6"
+    }
+  ],
+  "criterio": "URL oficial da norma e do texto articulado; IBGE/tipo/número/ano, mantendo sufixos alfanuméricos. Também compara candidatos internamente. Lê o baseline e as listas finais explicitamente informadas, sem consultar Git nem promover versões antigas.",
+  "codigo_sha256": "66eb979d17b15f77d72c8f3dd74b719049688535402ea463317d2831d100a623"
+}

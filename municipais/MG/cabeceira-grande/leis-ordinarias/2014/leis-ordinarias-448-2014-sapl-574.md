@@ -1,0 +1,350 @@
+---
+titulo: "LEI ORDINÁRIA nº 448, de 18 de novembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "448"
+data: "2014-11-18"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2017-12-13; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/574"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/592/text"
+sha256_fonte: "b24fe837ce29f7163c9350d444c23d163f11ab87c97e810df3c73fc42fbe82f4"
+sha256_texto: "7de3b591042d15d445a7012322a5e4813a344eee4faf572cf688d80faf7af190"
+capturado_em_fonte: "2026-10-27T20:24:27.306079-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 448, de 18 de novembro de 2014
+
+Cria o Conselho Municipal de Políticas sobre Drogas - Comad; institui o Programa Municipal sobre Drogas - Promad e estatui o projeto “Cabeceira Grande e Palmital de Minas sem Drogas” e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÃO PRELIMINAR
+
+
+Art. 1º.
+
+Esta Lei cria o Conselho Municipal de Políticas sobre Drogas - Comad; institui o Programa Municipal sobre Drogas - Promad e estatui o projeto “Cabeceira Grande e Palmital de Minas sem Drogas”, constituindo-se políticas públicas sobre drogas visando desenvolver e executar, de forma articulada, ações de prevenção, tratamento e reiserção social de usuário e dependentes de drogas.
+
+
+#### CAPÍTULO II — DO CONSELHO MUNICIPAL DE POLÍTICAS SOBRE DROGAS
+
+
+##### Seção I — Da criação do Conselho
+
+
+Art. 2º.
+
+Fica criado o Conselho Municipal de Políticas sobre Drogas, identificado pela sigla Comad, órgão colegiado com função consultiva e deliberativa, subordinado diretamente ao Prefeito, que, integrando-se ao esforço nacional de combate às drogas, dedicar-se-á ao pleno desenvolvimento das ações referentes à redução da demanda de drogas.
+
+
+§ 1º
+
+Para os efeitos desta Lei, a sigla Comad e a expressão Conselho equivalem à denominação Conselho Municipal de Políticas sobre Drogas.
+
+
+§ 2º
+
+Ao Comad caberá atuar como coordenador das atividades de todas as instituições e entidades municipais responsáveis pelo desenvolvimento das ações supra mencionadas, assim como dos movimentos comunitários organizados e representações das instituições federais e estaduais existentes no Município e dispostas a cooperar com o esforço municipal.
+
+
+§ 3º
+
+O Comad, como coordenador das atividades mencionadas no parágrafo 2º deste artigo, deverá integrar-se ao Sistema Nacional de Políticas sobre Drogas - Sisnad, de que trata o Decreto Federal 3.696, de 21 de dezembro de 2000.
+
+
+##### Seção II — Das conceituações básicas
+
+
+Art. 3º.
+
+Para os fins desta Lei, considera-se:
+
+
+I –
+
+redução de demanda como o conjunto de ações relacionadas à prevenção do uso indevido de drogas, ao tratamento, à recuperação e a reinserção social dos indivíduos que apresentem transtornos decorrentes do uso indevido de drogas;
+
+
+II –
+
+droga como toda substância natural ou produto químico que, em contato com o organismo humano, atue como depressor, estimulante ou perturbador, alterando o funcionamento do sistema nervoso central, provocando mudanças no humor, na cognição e no comportamento, podendo causar dependência química. Podem ser classificadas em ilícitas e lícitas, destacando-se, dentre essas últimas, o álcool, o tabaco e os medicamentos; e
+
+
+III –
+
+drogas ilícitas aquelas assim especificadas em lei nacional e tratados internacionais firmados pelo Brasil, e outras, relacionadas periodicamente pelo órgão competente do Ministério da Saúde, informada a Secretaria Nacional de Políticas sobre Drogas - Senad e o Ministério da Justiça – MJ.
+
+
+##### Seção III — Dos objetivos do Comad
+
+
+Art. 4º.
+
+São objetivos do Comad:
+
+
+I –
+
+desenvolver o Programa Municipal Antidrogas – Promad, destinado ao desenvolvimento das ações de redução da demanda de drogas;
+
+
+II –
+
+acompanhar o desenvolvimento das ações de fiscalização e repressão, executadas pelo Estado e pela União; e
+
+
+III –
+
+propor, ao Prefeito e a Câmara Municipal, as medidas que assegurem o cumprimento dos compromissos assumidos mediante a instituição desta Lei.
+
+
+Parágrafo único
+
+O Comad deverá avaliar, periodicamente, a conjuntura municipal, mantendo atualizados o Prefeito e a Câmara Municipal, quanto ao resultado de suas ações.
+
+
+##### Seção IV — Da Organização, composição e funcionamento do Comad
+
+
+Art. 5º.
+
+O Comad fica assim constituído:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Secretário-Executivo; e
+
+
+III –
+
+membros.
+
+
+§ 1º
+
+Os conselheiros, cujas nomeações serão publicadas na imprensa ou no local de costume do Município, terão mandato de 2 (dois) anos, permitida a sua recondução por igual período.
+
+
+§ 2º
+
+Sempre que se faça necessário, em função da tecnicidade dos temas em desenvolvimento, o Conselho poderá contar com a participação de consultores a serem indicados pelo Presidente e nomeados pelo Prefeito.
+
+
+Art. 6º.
+
+O Comad terá composição paritária entre Governo e Sociedade Civil Organizada, sendo formado pelos seguintes membros:
+
+
+I –
+
+Representação do Governo:
+
+
+a)
+
+1 (um) representante da Associação de Desportos dos Amigos de Palmital de Minas – ADAPM;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 570, de 13 de dezembro de 2017.
+
+
+b)
+
+1 (um) representante da Secretaria Municipal da Saúde;
+
+
+c)
+
+1 (um) representante da Secretaria Municipal da Educação;
+
+
+d)
+
+1 um representante da Secretaria Municipal da Juventude, Esportes e Cultura; e
+
+
+e)
+
+1 (um) representante da Polícia Militar do Estado de Minas Gerais;
+
+
+II –
+
+Representação da Sociedade Civil Organizada:
+
+
+a)
+
+1 (um) representante do Conselho Tutelar do Município de Cabeceira Grande;
+
+
+b)
+
+1 (um) representante da Associação Comercial, Industrial, Agropecuária e de Serviços de Cabeceira Grande – Aciag;
+
+
+c)
+
+1 (um) representante da Associação Comunitária para o Desenvolvimento de Palmital;
+
+
+d)
+
+1 (um) representante do Clube do Cavalo; e
+
+
+e)
+
+1 (um) representante de instituição religiosa.
+
+
+§ 1º
+
+O suplente substituirá o titular do Codema nos casos de afastamentos temporários ou eventuais deste, e assumirá sua vaga nas hipóteses de afastamento definitivo.
+
+
+§ 2º
+
+Após as indicações terem sido feitas pelas autoridades e pessoas competentes, o Prefeito nomeará e empossará, mediante ato administrativo cabível, os membros do Comad.
+
+
+Art. 7º.
+
+O Comad fica assim organizado:
+
+
+I –
+
+Plenário;
+
+
+II –
+
+Presidência;
+
+
+III –
+
+Secretaria-Executiva; e
+
+
+IV –
+
+Comitê-Remad.
+
+
+Parágrafo único
+
+O detalhamento da organização e funcionamento do Comad será objeto do respectivo Regimento Interno, a ser instituído por Resolução do Conselho e aprovado por ato administrativo cabível do Prefeito.
+
+
+Art. 8º.
+
+O Comad deverá providenciar a imediata instituição do fundo Recursos Municipais de Políticas sobre Drogas - Remad; fundo que, constituído com base nas verbas próprias do orçamento do Município e em recursos suplementares será destinado, com exclusividade, ao atendimento das despesas geradas pelo Promad.
+
+
+§ 1º
+
+O Remad será gerido pelo Órgão Fazendário Municipal, que se incumbirá da execução orçamentária e do cronograma físico-financeiro da proposta orçamentária anual, a ser aprovada pelo Plenário.
+
+
+§ 2º
+
+O detalhamento da constituição e gestão do Remad, assim como de todo aspecto que a este fundo diga respeito, constará do Regimento Interno do Comad.
+
+
+Art. 9º.
+
+As funções de conselheiro não serão remuneradas, porém consideradas de relevante serviço público.
+
+
+Parágrafo único
+
+A relevância a que se refere o caput deste artigo será atestada por meio de certificado expedido pelo Prefeito, mediante indicação do Presidente do Conselho.
+
+
+Art. 10.
+
+O Comad providenciará as informações relativas à sua criação à Senad e ao Conselho Nacional de Políticas sobre Drogas - Conen, visando sua integração aos Sistemas Nacional e Estadual de Políticas sobre Drogas.
+
+
+#### CAPÍTULO III — DO PROGRAMA MUNICIPAL ANTIDROGAS
+
+
+Art. 11.
+
+Fica instituído, no âmbito do Município de Cabeceira Grande (MG), o Programa Municipal de Políticas sobre Drogas – Promad, com a finalidade de integrar as ações a serem desenvolvidas pelo Comad, bem como o seguinte:
+
+
+I –
+
+conscientizar a sociedade da ameaça apresentada pelo uso indevido de drogas e suas consequências;
+
+
+II –
+
+educar, informar, capacitar e formar agentes multiplicadores em todos os segmentos sociais para a ação efetiva e eficaz de redução da demanda, fundamentada em conhecimentos científicos validados e experiências bem sucedidas;
+
+
+III –
+
+sistematizar as iniciativas, ações e campanhas de prevenção do uso indevido de drogas em uma rede operativa de medidas preventivas, com a finalidade de ampliar sua abrangência e eficácia;
+
+
+IV –
+
+avaliar sistematicamente as diferentes iniciativas terapêuticas (fundamentadas em diversos modelos) com a finalidade de promover aquelas que obtiverem resultados favoráveis; e
+
+
+V –
+
+outras ações afins.
+
+
+#### CAPÍTULO IV — DO PROJETO “CABECEIRA GRANDE E PALMITAL DE MINAS SEM DROGAS”
+
+
+Art. 12.
+
+Fica instituído, no âmbito do Município de Cabeceira Grande (MG), o Projeto intitulado “Cabeceira Grande e Palmital de Minas sem Drogas”, que integrará o Promad, cujo projeto será destinado especialmente ao desenvolvimento e promoção de ações e medidas com o fito de tornar o Município referência na prevenção e combate ao uso indevido de drogas.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Art. 14.
+
+Fica revogada a Lei n.º 179, de 1º de julho de 2004.
+
+
+Cabeceira Grande, 18 de Novembro de 2014; 18º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**DAILTON GERALDO RODRIGUES GONÇALVES**
+
+**Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais**
+
+**"Este texto não substitui o original."**
+

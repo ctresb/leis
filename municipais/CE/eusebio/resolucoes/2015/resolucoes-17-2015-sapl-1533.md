@@ -1,0 +1,97 @@
+---
+titulo: "Resolução nº 17, de 28 de setembro de 2015"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "17"
+data: "2015-09-28"
+municipio: "Eusébio"
+uf: "CE"
+codigo_ibge: "2304285"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2019-03-11; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.eusebio.ce.leg.br/norma/1533"
+fonte_texto: "https://sapl.eusebio.ce.leg.br/ta/9/text"
+sha256_fonte: "c324fcb4861646d748c232686027c2dc3ad4c2db06e0084c131c39bf143dd7a4"
+sha256_texto: "d1f32a3a2ff6ac7796c35db35dea746490e4210b0fd6c7665542af8b36662fbf"
+capturado_em_fonte: "2026-10-28T10:31:09.695856-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Resolução nº 17, de 28 de setembro de 2015
+
+Institui a Comenda Eusébio de Queiroz no âmbito do Município de Eusébio na forma que indica.
+
+
+**A CÂMARA MUNICIPAL DE EUSÉBIO APROVOU E EU COM BASE NO INCISO IV DO ART. 52 DO REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE EUSÉBIO, PROMULGO O SEGUINTE DECRETO LEGISLATIVO:**
+
+
+Art. 1º.
+
+Fica instituída a Comenda Eusébio de Queiroz, com o objetivo de reconhecer e valorizar a atuação dos cidadãos de Eusébio, bem como os gestores que se destacam ou se destacaram, através dos seus relevantes serviços prestados ao Município.
+
+
+Parágrafo único
+
+A Comendo Eusébio de Queiroz somente poderá ser concedida a pessoas não nascidas em Eusébio, se primeiro houverem sido agraciadas com o Título de Cidadã(o) Eusebiense na forma da lei.
+
+Inclusão feita pelo Art. 1º. - Resolução nº 25, de 11 de março de 2019.
+
+
+Art. 2º.
+
+A Comenda Eusébio de Queiroz será simbolizada através de uma medalha de caratar condecorativo premial.
+
+
+§ 1º
+
+A comenda terá as seguintes descrições:
+
+
+I –
+
+será cunhada em metal dourado, em formato circular, com 5cm (cinco centímetros) de diâmetro;
+
+
+II –
+
+na face principal da medalha contará o brasão oficial do Município de Eusébio, circundado das inscrições das inscrições: “Câmara Municipal de Eusébio”;
+
+
+III –
+
+na face posterior da medalha constará a efigie de Eusébio de Queiroz circundada pela inscrição: “Medalha Eusébio de Queiroz”;
+
+
+IV –
+
+pendente numa fita de cor verde.
+
+
+§ 2º
+
+Cada Edil poderá propor duas comendas anuais.
+
+
+Art. 3º.
+
+A comenda será outorgada por ato do Presidente da asa que realizará a entrega da premiação em solenidade oficial, marcada o mais aproximado possível do dia 23 de junho, dia este que se comemora o dia do Município de Eusébio.
+
+
+Art. 4º.
+
+As despesas com a execução desta Resolução correrão à conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 5º.
+
+Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA CÂMARA MUNICIPAL DE EUSÉBIO EM 28 DE SETEMBRO DE 2015.**
+
+**ALDACIRA TARGINO DA SILVA**
+
+**Presidente da Câmara Municipal de Eusébio**
+

@@ -1,0 +1,237 @@
+---
+titulo: "Lei Ordinária nº 10.921, de 16 de setembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "10921"
+data: "2019-09-16"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/12779"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3650/text"
+sha256_fonte: "2bc06418cfb7d0bec325b2c376612605af478824b33d20e8414ba80dd9571297"
+sha256_texto: "1af7a50b7b93b7738a1104ff881e8927aff517181f90814637d770e88a1a616d"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 10.921, de 16 de setembro de 2019
+
+Institui o novo Sistema Financeiro de Conta Única no âmbito do Poder Executivo do Município de Fortaleza e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica instituído o novo Sistema Financeiro de Conta Única como instrumento de gerenciamento dos recursos e aplicações financeiras no âmbito dos órgãos públicos da Administração Direta, Autarquias, Fundações, Empresas Públicas e Sociedades de Economia Mista dependentes, entidades descentralizadas e fundos especiais do Município de Fortaleza, desde que destinados às instituições financeiras oficiais com dotação à conta do Orçamento Geral do Município.
+
+
+§ 1º
+
+A operacionalização do Sistema Financeiro de Conta Única será efetuada por intermédio de instituição financeira oficial com a qual o Município de Fortaleza firme contrato, convênio, acordo ou ajuste, com intervenção da Secretaria Municipal das Finanças (SEFIN), para essa finalidade.
+
+
+§ 2º
+
+A instituição financeira oficial credenciada a operar o Sistema de Conta Única fornecerá diariamente, em meio eletrônico, as informações sobre a arrecadação tributária e não tributária, os depósitos efetuados nas contas correntes, inclusive judiciais, as aplicações financeiras, as transferências efetuadas e os pagamentos realizados, para que se processe a conciliação financeira dos dados e das receitas.
+
+
+§ 3º
+
+O credenciamento da instituição financeira oficial de que trata o § 1º deste artigo será realizado obedecendo às disposições constitucionais e infraconstitucionais, ademais dos princípios da legalidade, eficiência e aqueles pertencentes à ordem econômica, notadamente o da livre concorrência e o da livre iniciativa.
+
+
+Art. 2º.
+
+O Sistema Financeiro de Conta Única será constituído de uma conta corrente, denominada Conta Única, titularizada pela Secretaria Municipal das Finanças, e de contas correntes subordinadas, denominadas Subcontas, de titularidade dos órgãos e entidades referidos no art. 1º desta Lei.
+
+
+§ 1º
+
+Enquanto não utilizados para o fim a que se destinam os recursos constituirão disponibilidade financeira na conta centralizadora junto à instituição bancária oficial detentora do Sistema Financeiro de Conta Unica, ficando à disposição do Tesouro Municipal para provimento da execução orçamentária e financeira das unidades orçamentárias e utilização de acordo com a programação financeira e cronograma mensal de desembolso, conforme disciplina o art. 8º da Lei Complementar Federal nº 101, de 04 de maio de 2000.
+
+
+§ 2º
+
+Os rendimentos oriundos das aplicações financeiras da conta centralizadora serão apropriados à conta do Tesouro Municipal, sendo transferidos para as Subcontas, conforme o caso de receita vinculante.
+
+
+Art. 3º.
+
+Serão objeto de centralização, no Sistema Financeiro de Conta Única, os recursos orçamentários e extraorçamentários do Município e aqueles de que sejam titulares ou destinatárias as instituições contratadas na forma do art. 1º desta Lei, englobando as receitas ordinárias e extraordinárias, as entradas restituíveis decorrentes de empréstimos cedidos, depósitos, convênios, doações monetárias, cauções, garantias diversas e demais recursos financeiros arrecadados.
+
+
+Parágrafo único.
+
+Não compõem o Sistema Financeiro de Conta Única as contas de convênios de receitas firmados com a União ou com o Estado, bem como as contas especiais cuja destinação esteja disciplinada em legislação específica.
+
+
+Art. 4º.
+
+Aos responsáveis pela arrecadação, incluídos agentes, órgãos e bancos intervenientes, é vedado efetuar, sem a devida autorização da Secretaria Municipal das Finanças, retenções, compensações, deduções ou aplicações, a qualquer título, com o produto dos recursos arrecadados, cujo montante deverá ser transferido para a Conta do Tesouro Municipal, ficando sujeitos às seguintes sanções:
+
+
+I –
+
+restituição do valor integral retido, compensado, deduzido ou aplicado em desacordo com a sistemática da presente Lei, devidamente atualizado pelo índice Nacional de Preço ao Consumidor Amplo – IPCA ou outro índice oficial que venha a substituí-lo; e
+
+
+II –
+
+multa de 10% (dez por cento), calculado sobre o valor retido, compensado ou aplicado em desacordo com a presente Lei, atualizado na forma do inciso I deste artigo, e juros de mora de 12% (doze por cento) ao ano.
+
+
+§ 1º
+
+A instituição financeira oficial credenciada poderá recorrer da penalidade imposta à Secretaria Municipal das Finanças, no prazo de até 5 (cinco) dias úteis, contado da ciência da notificação, sendo-lhe garantido o contraditório e ampla defesa.
+
+
+§ 2º
+
+Na hipótese de o recurso ser considerado improcedente, a instituição financeira detentora da Conta Única terá o prazo de 3 (três) dias úteis, contado da ciência da decisão, para efetuar e comprovar o recolhimento da penalidade.
+
+
+Art. 5º.
+
+Cada órgão ou entidade integrante do Sistema Financeiro de Conta Única manterá uma Conta de Gestão para pagamentos, via meio eletrônico, movimentações financeiras, transferências, e receitas diretamente arrecadadas, no caso da Administração Indireta e Fundos Especiais.
+
+
+Parágrafo único.
+
+Para fins do disposto no caput deste artigo, entende-se por Conta de Gestão a conta corrente bancária de titularidade do órgão ou entidade, integrante do Sistema Financeiro de Conta Única, na instituição financeira que o detenha.
+
+
+Art. 6º.
+
+Os órgãos e entidades da Administração Direta e Indireta deverão movimentar recursos oriundos da Conta do Tesouro Municipal e das contas de recursos próprios, para pagamento de despesa devidamente formalizada, mediante ordem bancária emitida pelo Sistema Integrado de Administração Financeira e Contábil.
+
+
+Parágrafo único.
+
+Excepcionalmente, para atender ao interesse público, a Secretaria Municipal das Finanças poderá autorizar a movimentação bancária diretamente nos sistemas da instituição financeira.
+
+
+Art. 7º.
+
+A Secretaria Municipal das Finanças poderá movimentar e transferir recursos entre contas integrantes do Sistema Financeiro de Conta Única, com a finalidade de manter a disponibilidade financeira em nível capaz de possibilitar o pagamento de despesas obrigatórias, encargos, dívidas e outras obrigações do Município.
+
+
+Art. 8º.
+
+Competem à Secretaria Municipal das Finanças a gestão e o controle das execuções inerentes à administração orçamentária e financeira no âmbito do Poder Público Municipal, compreendendo a implantação e a operação dos mecanismos e instrumentos de gerência dos recursos monetários do Sistema Financeiro de Conta Única.
+
+
+Art. 9º.
+
+A abertura, o encerramento, a fusão e o desdobramento de contas em nome dos órgãos e entidades referidas no art. 1º desta Lei serão efetuados mediante autorização expressa da Secretaria Municipal das Finanças, para fins de realização de despesas do Município, inclusive as despesas miúdas e de pronto pagamento.
+
+
+Parágrafo único.
+
+É obrigatória a inscrição das contas relacionadas no caput deste artigo no Sistema Financeiro de Conta Única, bem como àquelas destinadas a abrigar recursos diretamente arrecadados e àquelas abertas com CNPJ próprio do órgão ou entidade.
+
+
+Art. 10.
+
+As contas bancárias, em desacordo com o disposto nos arts. 1º, 2º e 9º desta Lei, serão encerradas imediatamente à sua constatação, e os saldos serão transferidos para a conta do Tesouro Municipal ou conta de titularidade do órgão ou entidade, integrante do Sistema Financeiro de Conta Única, conforme avaliação da origem e destinação desses recursos, observada a legislação em vigor.
+
+
+Parágrafo único.
+
+Compete à Secretaria Municipal das Finanças a avaliação de conformidade das contas bancárias prevista no caput deste artigo.
+
+
+Art. 11.
+
+A partir da publicação desta Lei, a Secretaria Municipal das Finanças poderá transferir os saldos das contas bancárias abertas em nome de órgãos e entidades municipais, sem movimentação por mais de 90 (noventa) dias, para a conta do Tesouro Municipal, a fim de que se promovam os devidos encerramentos.
+
+
+Art. 12.
+
+Os órgãos e entidades da Administração Direta e Indireta, exceto as empresas públicas e sociedades de economia mista independentes, deverão recolher suas receitas, preferencialmente, por meio de Documento de Arrecadação Municipal – DAM, contendo código de barras (ou linha digitável correspondente) layout padrão FEBRABAN.
+
+
+Art. 13.
+
+A movimentação financeira da Conta Única será orientada por cronograma mensal de desembolso a ser publicado até 30 (trinta) dias após a publicação dos orçamentos anuais, na forma prevista no art. 8º da Lei Complementar nº 101, de 04 de maio de 2000.
+
+
+§ 1º
+
+O cronograma mensal a que se refere o caput deste artigo fixará a cota de desembolso mensal ou trimestral, que servirão de base para a liberação das provisões financeiras a crédito da instituição destinatária do recurso, podendo sofrer revisões durante o exercício, visando manter o cumprimento dos limites financeiros e de compromissos e, ainda, de metas constitucionais e infraconstitucionais estabelecidas.
+
+
+§ 2º
+
+Os saldos dos créditos provisionados durante o exercício financeiro e não utilizados até o seu término serão cancelados automaticamente, podendo por ato do Poder Executivo ser estabelecido o critério de revalidação, no exercício seguinte, dos saldos das provisões não utilizados no exercício anterior.
+
+
+Art. 14.
+
+As movimentações financeiras de recursos das contas das instituições descritas no art. 1º desta Lei para contas pertencentes às Organizações da Sociedade Civil – OSC, no âmbito do regime jurídico das parcerias definido pela Lei Federal nº 13.019, de 31 de julho de 2014, deverão ser informadas mensalmente à Controladoria e Ouvidoria Geral do Município (CGM).
+
+
+Parágrafo único.
+
+A CGM deverá verificar se a movimentação financeira, a que se refere o caput deste artigo, mantém vinculação, na conta destino, ao objeto da parceria.
+
+
+Art. 15.
+
+Os pagamentos de bens e serviços, de qualquer natureza, fornecidos ou prestados aos órgãos e entidades da Administração Direta e Indireta do Poder Executivo Municipal serão realizados exclusivamente na instituição financeira contratada para esse fim.
+
+
+Parágrafo único.
+
+Excetuam-se da exclusividade prevista no caput deste artigo os casos em que não justifiquem a abertura de conta de depósito na instituição financeira contratada, tais como:
+
+
+I –
+
+pagamentos em parcela única;
+
+
+II –
+
+restituições tributárias;
+
+
+III –
+
+outras hipóteses em que a instituição financeira contratada e/ou a Administração Municipal julguem adequado proceder com o pagamento em nome do favorecido em outra instituição bancária.
+
+
+Art. 16.
+
+A movimentação financeira de recursos de contas de convênios para contas pertencentes ao mesmo órgão deverá ser informada, mensalmente, à Célula de Controle da Dívida Pública, na Secretaria Municipal das Finanças.
+
+
+Parágrafo único.
+
+A Célula de Controle da Dívida Pública deverá verificar se a movimentação financeira mantém vinculação, na conta destino, ao objeto do convênio e ao plano de trabalho.
+
+
+Art. 17.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a regulamentar, mediante Decreto, a presente Lei.
+
+
+Art. 18.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 19.
+
+Ficam revogadas as disposições em contrário, especialmente a Lei nº 6.454, de 07 de junho de 1989.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 16 DE SETEMBRO DE 2019.**
+
+**ROBERTO CLÁUDIO RODRIGUES BEZERRA**  
+Prefeito Municipal de Fortaleza
+

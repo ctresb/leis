@@ -1,0 +1,95 @@
+---
+titulo: "Lei Ordinária nº 1.020, de 20 de maio de 1994"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1020"
+data: "1994-05-20"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 1994-07-29; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1854"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/377/text"
+sha256_fonte: "300c4af47dd3e76cfc4f490827d7f1754c095113978c3939c066e6171c5ff3a2"
+sha256_texto: "e150876d992df8c156a9b734aed94d575ccf344af6e78ea143a4dfb62fdcfb85"
+capturado_em_fonte: "2026-10-28T13:37:11.489169-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.020, de 20 de maio de 1994
+
+Aprova o plano de aplicação dos recursos originários dos Royalties referente parcela de fevereiro/94.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica aprovado o plano de aplicação dos recursos originários da indenização de Itaipu Binacional "Royaties" referente parcela de fevereiro de 1994, conforme descrito a seguir:
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0304 - </strong><strong>Departamento de Atividades Auxiliares</strong></td></tr><tr><td>03070212-013</td><td>Manutenção do Departamento de Atividades Auxiliares</td></tr><tr><td>3132 </td><td>Outros Serviços e encargos</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Auxílio à Associação dos Moradores do Jardim Toyama</td><td>Cr$ 4.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0502 - </strong><strong>Departamento de Educação</strong></td></tr><tr><td>0845216.2-024</td><td>Ensino de Informática</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>3132 - Outros serviços e encargos</p><p>(auxílio à Associação de Pais e Professores da Escola Mendes Gonçalves)</p></td><td>Cr$ 5.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>08472391.002</td><td>Aquisição de veículo p/ transporte escolar</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>4120 - Equipamentos e materias permanentes</p><p>(aquisição de um ônibus p/ transporte escolar)</p></td><td>Cr$30.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0602 - Departamento de Esporte</strong></td></tr><tr><td>08462241.004</td><td>Construção e cobertura de quadra de esportes</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>4110 - Obras e instalações (construção de alambrados nas canchas de esportes das localidades de: São Domingos, Sítio dos Italianos, Mutirão e outros)</p></td><td>Cr$20.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0704 - Departamento de Urbanismo</strong></td></tr><tr><td>10580212.043</td><td>Manutenção do Departamento de Urbanismo</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>4120 - Equipamentos e materiais permantes (aquisição de equipamento p/ construção de meio-fio)</p></td><td>Cr$20.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>10585751.009</td><td>Melhoria de ruas e avenidas</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>4110 - Obras e instalações (construção de calçadas, meio-fio e pavimentação)</p></td><td>Cr$70.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0707 - Departamento da Guarda Municipal</strong></td></tr><tr><td>06301792049</td><td>Participação na Segurança dos Municípios Lindeiros</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>3212 Subvenções Econômicas</p></td><td>Cr$14.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0802 - Departamento Médico</strong></td></tr><tr><td>13754282.052</td><td>Manutenção dos Serviços Municipais de Saúde</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>3132 - Material de consumo (aquisição de seringas descartáveis p/ uso dos diabéticos)</p></td><td>Cr$1.500.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0902 - Departamento de Fomento e Abastecimento</strong></td></tr><tr><td>04140781.014</td><td>Assistência ao Pequeno Agricultor</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>4120 - Equipamento e material permanente (aquisição de dois tratores p/ assistência ao pequeno agricultor)</p></td><td>Cr$140.000.000,00</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><strong>0903 - Departamento de Indústria e Comércio</strong></td></tr><tr><td>11623471.017</td><td>Ampliação do Parque Industrial</td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>4110 - Obras e instalações</p></td><td>Cr$5.000.000,00</td></tr></tbody></table>
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.031, de 29 de julho de 1994.
+
+
+Parágrafo único
+
+A correção monetária e o rendimento de aplicações financeiras dos referidos recursos serão aplicados e distribuídos proporcionalmente a cada atividade constante na presente lei.
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Paço Municipal, em 20 de maio de 1994.
+
+Ada Mafalda Benassi da Silveira
+
+Prefeita Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

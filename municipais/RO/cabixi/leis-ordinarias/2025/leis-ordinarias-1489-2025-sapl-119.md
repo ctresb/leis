@@ -1,0 +1,147 @@
+---
+titulo: "Lei Ordinária-PEX nº 1.489, de 04 de novembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1489"
+data: "2025-11-04"
+municipio: "Cabixi"
+uf: "RO"
+codigo_ibge: "1100031"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.cabixi.ro.leg.br/norma/119"
+fonte_texto: "https://sapl.cabixi.ro.leg.br/media/sapl/public/normajuridica/2025/119/lei_1.489-2025_comp..pdf"
+sha256_fonte: "b77bab0ee0172b47a75416398dc8495813944b632efc6ee7545c41ba1311fd1a"
+sha256_texto: "5df86ceb5052c318db7ce9b71e60afc2094400ffcd243ed2ea58a82e8716634c"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária-PEX nº 1.489, de 04 de novembro de 2025
+
+ESTADO DE RONDÔNIA PREFEITURA MUNICIPAL DE CABIXI PODER EXECUTIVO
+
+LEI Nº 1.489, DE 03 DE NOVEMBRO DE 2025.
+
+DISPÕE SOBRE A ABERTURA DE CRÉDITO ADICIONAL ESPECIAL DECORRENTE DA TRANSFERÊNCIA DE RECURSOS FINANCEIROS PELO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS PARA OS FINS QUE ESPECIFICA.
+
+O PREFEITO DO MUNICÍPIO DE CABIXI, Estado de Rondônia, no uso de suas atribuições legais que lhe são conferidas por lei, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte
+
+LEI:
+
+**Art. 1º** - Fica o Poder Executivo autorizado a abrir no orçamento anual do vigente exercício financeiro um crédito adicional especial no valor de R$ 380.000,00 (trezentos e oitenta mil reais) destinados a abertura da dotação abaixo, conforme segue:
+
+0600 – SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL 0601 – Fundo Municipal de Assistência Social 08.244.0015.1.058 – Aquisição de Veículo Tipo Picape – Transf. FNAS 4.4.90.52.00 – Equipamentos e Material Permanente R$ 380.000,00 Fonte de Recursos: 1660 - Transf. Rec. do Fundo Nacional de Assistência Social - FNAS
+
+TOTAL.....................R$ 380.000,00
+
+**Art. 2º** - Os recursos necessários à cobertura do crédito de que trata o artigo predecessor, são provenientes da transferência de recursos financeiros pelo Fundo Nacional de Assistência Social – FNAS, conforme programação nº 110003120220002 e extrato bancário que integram esta lei.
+
+**Art. 3º** - Esta lei entrará em vigor na data de sua publicação.
+
+Cabixi – RO, 03 de novembro de 2025.
+
+SILVANO ASCARI DE ALMEIDA Prefeito Municipal
+
+ID: 261155 e CRC: F75D777D
+
+Município de Cabixi 22.855.159/0001-20 Av. Tamoios www.cabixi.ro.gov.br
+
+FICHA CADASTRAL DO DOCUMENTO ELETRÔNICO
+
+Tipo do Documento Identificação/Número Data
+
+Lei 1489 04/11/2025
+
+ID: 261155 Processo Documento
+
+CRC: F75D777D Processo: 0-0/0 Usuário: Valmir Martin Mackawiak Criação: 04/11/2025 10:42:53 Finalização: 04/11/2025 10:48:03
+
+MD5: CEB5A8BE056E648CFAFFFDCD28A9FE49 SHA256: 11DE192267F18D3D1DF31C387D5AE4A8F0A1813A17C9D621C9BF18C84FD090FF
+
+Súmula/Objeto: DISPÕE SOBRE A ABERTURA DE CRÉDITO ADICIONAL ESPECIAL DECORRENTE DA TRANSFERÊNCIA DE RECURSOS FINANCEIROS PELO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS PARA OS FINS QUE ESPECIFICA.
+
+INTERESSADOS Secretaria Municipal de Assistência Social CABIXI RO 04/11/2025 10:44:48
+
+ASSUNTOS CREDITO ESPECIAL 04/11/2025 10:45:02
+
+## ANEXOS
+
+Anexo Detalhamento Programação 04/11/2025 261159
+
+Anexo Plano de Trabalho e Programação 04/11/2025 261160
+
+Anexo Ordem de Pagamento 04/11/2025 261161
+
+Anexo Extrato Bancário 04/11/2025 261162
+
+ASSINATURAS ELETRÔNICAS
+
+Silvano Ascari de Almeida Prefeito 04/11/2025 11:31:38
+
+Assinado na forma do Decreto Municipal nº 84/2023.
+
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.cabixi.ro.gov.br informando o ID 261155 e o CRC F75D777D.
+
+DigProc - Gestão Integrada de Documentos e Processos Eletrônicos Página 1.
+
+21/10/2025, 11:53 EstruturaSUAS
+
+EstruturaSUAS NADIR GONCALVES DA SILVA Sistema de Estruturação da Rede de Serviços do SUAS 1.20.3 Gestor Municipal - CABIXI/RO
+
+Gestor Listar Programação Detalhar programação
+
+Detalhar programação Voltar
+
+Dados da indicação do ente federado
+
+Parlamentar Nº da emenda Nº SINDORC Tipo do recurso HUGO LEAL 202281000306 42321 Emenda de Relatoria
+
+Plano de assistência social Esfera administrativa UF Ente Não MUNICIPAL RO CABIXI
+
+Funcional programática Fonte GND Valor indicado ao ente 082445031219G0001 0188000000 4 R$ 380.000,00
+
+Valor programado Nº da programação Situação da programação Nº do processo SEI R$ 380.000,00 110003120220002 Programação com OB Efetivada 71000050806202219
+
+Termo de responsabilidade e compromisso Não se aplica
+
+INFORMAÇÕES RESPONSÁVEL DELIBERAÇÃO PARECER DE DOCUMENTOS PROGRAMAÇÃO GERAIS TÉCNICO DO CONSELHO MÉRITO SOCIAL COMPLEMENTARES
+
+https://estruturasuas.mds.gov.br/gestor/programacao/detalhar/15545/programacao 1/2
+
+\_\_ SIAFI2025-DOCUMENTO-CONSULTA-CONOB (CONSULTA ORDEM BANCARIA) 30/09/25 14:02 USUARIO : DANTH FERNANDES ORDENS BANCARIAS EMITIDAS (INCLUSIVE AS CANCELADAS PAGINA : 2 FAVORECIDO : 14509893/0001-00 - FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+UG GESTAO NUMERO TIPO DATA V A L O R LISTA SN 330013 00001 002971 13 01Jul25 3.323,70 2025LC443041 330013 00001 002544 13 01Jul25 5.442,33 2025LC443068 330013 00001 003147 13 11Jul25 336,00 2025LC443677 330013 00001 003202 13 17Jul25 5.442,33 2025LC443788 330013 00001 003270 13 17Jul25 4.031,36 2025LC443761 330013 00001 003798 13 20Ago25 336,00 2025LC444400 330013 00001 004192 13 20Ago25 5.199,57 2025LC444852 330013 00001 004222 13 20Ago25 4.218,00 2025LC444825 330013 00001 004317 13 08Set25 346,00 2025LC445225 330013 00001 004661 13 25Set25 380.000,00 2025LC445382 330013 00001 004754 13 26Set25 5.199,57 2025LC445768 330013 00001 004737 13 26Set25 4.479,53 2025LC445741
+
+PF1=AJUDA PF2=DETALHA PF3=SAI PF4=ESPELHO PF7=RECUA PF9=SN PF12=RETORNA
+
+\_\_ SIAFI2025-DOCUMENTO-CONSULTA-CONOB (CONSULTA ORDEM BANCARIA) 30/09/25 14:03 USUARIO : DANTH FERNANDES DATA EMISSAO : 25Set25 TIPO OB: 13 NUMERO : 2025OB004661 UG/GESTAO EMITENTE: 330013 / 00001 - FUNDO NACIONAL DE ASSISTENCIA SOCIAL BANCO : 001 AGENCIA : 1607 CONTA CORRENTE : 997380632 FAVORECIDO : 00000000/0001-91 - BANCO DO BRASIL SA BANCO : 001 AGENCIA : 1607 CONTA CORRENTE : BANCO DOCUMENTO ORIGEM : 330013/00001/2025TF804540 SIST. ORIGEM : GESTAOCOMP NUMERO BANCARIO : 004828477-7 PROCESSO : 71000050806202219 VALOR : 380.000,00
+
+IDENT. TRANSFER. : LISTA CREDOR : 2025LC445382 OBSERVACAO DATA SAQUE BACEN: 25/09/25 PAGAMENTO DA PROGRAMAÇÃO N 110003120220002, REFERENTE A SIGTV - ESTRUTURAÇÃO D A REDE DE SERVIÇOS DO SUAS - INVESTIMENTO - A PARTIR DE 2022 - CABIXI-RO - 710 00050806202219 - AUTOR EMENDA DE RELATORIA 2022, EMENDA 202281000306
+
+CONTINUA ... PF1=AJUDA PF3=SAI PF4=ESPELHO PF6=DETALHA LISTA PF9=HISTORICO PF12=RETORNA
+
+\_\_ SIAFI2025-DOCUMENTO-CONSULTA-CONOB (CONSULTA ORDEM BANCARIA) 30/09/25 14:03 USUARIO : DANTH FERNANDES DATA EMISSAO : 25Set25 TIPO OB: 13 NUMERO : 2025OB004661 UG/GESTAO EMITENTE: 330013 / 00001 - FUNDO NACIONAL DE ASSISTENCIA SOCIAL BANCO : 001 AGENCIA : 1607 CONTA CORRENTE : 997380632 FAVORECIDO : 00000000/0001-91 - BANCO DO BRASIL SA BANCO : 001 AGENCIA : 1607 CONTA CORRENTE : BANCO VALOR : 380.000,00 L EVENTO INSCRICAO CLAS.CONT CLAS.ORC VALOR 01 401006 2022NE403490409 44414241 380.000,00 02 531704 2022NE403490 215150000 00000000000191 380.000,00 03 561602 1000000000409D 380.000,00
+
+LANCADO POR : 42668875668 - ANDRE QUINTAO UG : 330013 25Set25 05:40 PF1=AJUDA PF2=SN PF3=SAI PF4=ESPELHO PF5=EVEN./CON. PF9=HISTORICO PF12=RETORNA
+
+03/10/2025, 10:44 Banco do Brasil
+
+Visualizar Pix agrupados G333031139761251008 Extrato de Conta Corrente 03/10/2025 11:43:58
+
+Cliente - Conta atual
+
+Agência 3998-5 Conta corrente 14738-9 SIGTV110003120220002 GND4 Período do 09 / 2025 extrato
+
+Lançamentos Dt. Dt. Ag. origem Lote Histórico Documento Valor R$ Saldo balancete movimento 12/09/2025 0000 00000 000 Saldo Anterior 0,00 C
+
+26/09/2025 0000 14056 632 Ordem Bancária 4.828.477.000.001 380.000,00 C 010029400001-82 FUNDO NACIONAL DE ASSI
+
+26/09/2025 0000 00000 271 BB-APLIC C.PRZ-APL.AUT 1.972 380.000,00 D 0,00 C BB RF Curto Prazo Automático 30/09/2025 0000 00000 999 S A L D O 0,00 C
+
+\*\*\* A CONTA NAO FOI MOVIMENTADA \*\*\*
+
+OBSERVAÇÕES:
+
+Transação efetuada com sucesso por: JI707789 NADIR GONCALVES DA SILVA.
+
+https://autoatendimento2.bb.com.br/apf-apj-autoatendimento/index.html?v=3.9.8#/template/~2Fconsultas~2F009-0.bb 1/1
+

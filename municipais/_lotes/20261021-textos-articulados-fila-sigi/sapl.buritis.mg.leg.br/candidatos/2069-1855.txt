@@ -1,0 +1,109 @@
+"Estima a receita e fixa a despesa do Município de Buritis para o exercício financeiro de 2022 e dá outras providências."
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, por seus representantes, aprovou e eu, PREFEITO MUNICIPAL, Usando da atribuição que me confere o inciso VIII, do art. 105 da Lei Orgânica Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Esta Lei estima a receita e fixa a despesa do Município para o exercício financeiro de 2022, compreendendo o orçamento fiscal referente aos Poderes do Município, seus órgãos e fundos.
+
+
+Art. 2º.
+
+O orçamento do Município de Buritis, estima a receita em R$ 110.757.350,00 (cento e dez milhões e setecentos e cinquenta e sete mil e trezentos e cinquenta reais) e fixa a despesa em igual valor.
+
+
+Art. 3º.
+
+Para o Poder Legislativo, estima a receita de R$ 4.030.000,00 (Quatro milhões, trinta mil reais) e fixa a despesa em igual valor.
+
+
+Art. 4º.
+
+Para o Instituto de Previdencia de Buritis (IPREB), estima a receita de R$ 13.727.350.00 (Treze milhões, setecentos e vinte e ste mil, trezentos e cinquenta reais) e fixa a despesa em igual valor.
+
+
+Art. 5º.
+
+Para o Poder Executivo, estima a receita de R$ 93.000.000,00 (Noventa e três milhões de reais) e fixa a despesa em igual valor.
+
+
+Art. 6º.
+
+As receitas serão realizadas mediante arrecadação dos tributos, contribuições e de outras receitas correntes e de capital, previstas na legislação vigente, de acordo com os quadros anexos a esta Lei, estimados com os seguintes desdobramentos:
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>Receitas por Fontes</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>Receitas Correntes</strong></td><td> </td></tr><tr><td>Impostos, Taxas e Contribuições de Melhoria</td><td>5.923.970,00</td></tr><tr><td>Contribuições</td><td>7.758.850,00</td></tr><tr><td>Receita Patrimonial</td><td>660.500,00</td></tr><tr><td>Receita de Serviços</td><td>21.000,00</td></tr><tr><td>Transferências Correntes</td><td>97.795.120,00</td></tr><tr><td>Outras Receitas Correntes</td><td>3.695.500,00</td></tr><tr><td>Receitas Correntes - Intraorçamentárias</td><td> </td></tr><tr><td>Contribuições - Intra-orçamentárias</td><td>2.880.000,00</td></tr><tr><td><strong>SUBTOTAL</strong></td><td>118.734.940,00</td></tr><tr><td>Dedução para Formação do FUNDEB</td><td>-12.340.590,00</td></tr><tr><td><strong>SUBTOTAL</strong></td><td>-12.340.590,00</td></tr><tr><td>Receitas de Capital</td><td> </td></tr><tr><td>Operações de Crédito</td><td>10.000,00</td></tr><tr><td>Alienação de Bens </td><td>201.000,00</td></tr><tr><td>Transferências de Capital</td><td>4.152.000,00</td></tr><tr><td><strong>SUBTOTAL</strong></td><td>4.363.000,00</td></tr><tr><td><strong>TOTAL GERAL</strong></td><td>110.757.350,00</td></tr></tbody></table>
+
+
+Art. 7º.
+
+As despesas do Município de Buritis serão realizadas de acordo com os seguintes desdobramentos:
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>Despesas por Funções de Governo</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Legislativa</td><td>4.030.00000,00</td></tr><tr><td>Judiciária</td><td>88.8 8.829,70</td></tr><tr><td>Administração</td><td>15.810.7.736,18</td></tr><tr><td>Segurança Pública</td><td>272.87877,75</td></tr><tr><td>Assistência Social</td><td>4.534.698,40</td></tr><tr><td>Previdência Social</td><td>12.024.854,74</td></tr><tr><td>Saúde</td><td>27.079.414,98</td></tr><tr><td>Educação</td><td>30.717.00009,50</td></tr><tr><td>Cultura</td><td>914.51717,00</td></tr><tr><td>Urbanismo</td><td>2.243.309,50</td></tr><tr><td>Habitação</td><td>140.000,00</td></tr><tr><td>Saneamento</td><td>119.542,2,50</td></tr><tr><td>Gestão Ambiental</td><td>1.500.000,00</td></tr><tr><td>Agricultura</td><td>4.009.6922,50</td></tr><tr><td>Comércio e Serviços</td><td>21.321,00</td></tr><tr><td>Energia</td><td>931.500,00</td></tr><tr><td>Transporte</td><td>3.161.835,00</td></tr><tr><td>Desporto e Lazer </td><td>519.061,25</td></tr><tr><td>Encargos Especiais</td><td>2.565.700,00</td></tr><tr><td>Reserva de Contingência</td><td>72.450,00</td></tr><tr><td><strong>TOTAL GERAL</strong></td><td><strong>110.757.350,00</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>Despesas por Unidades de Governo</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Câmara Municipal de Buritis</td><td>4.030.000,00</td></tr><tr><td>Gabinete e Secretaria do Prefeito</td><td>1.254.471,75</td></tr><tr><td>Administração e Planejamento</td><td>9.869.298,87</td></tr><tr><td>Secretaria Municipal de Fazenda</td><td>3.462.811,50</td></tr><tr><td>Sec. Municipal de Educação e Cultura</td><td>31.827.993,25</td></tr><tr><td>Secretaria Municipal de Obras Públicas</td><td>5.205.294,50</td></tr><tr><td>Sec. Municipal de Agricultura e Meio Ambiente</td><td>5.939.838,50</td></tr><tr><td>Secretaria Municipal de Saúde</td><td>27.079.414,98</td></tr><tr><td>Secretaria Municipal de Ação Social</td><td>4.534.698,40</td></tr><tr><td>Secretaria Municipal de Juventude, Esporte, Lazer e Turismo</td><td>664.343,25</td></tr><tr><td>Secretaria Municipal de Transportes</td><td>3.161.835,00</td></tr><tr><td>Instituto de Previdência de Euritis - Ipreb</td><td>13.727.350,00</td></tr><tr><td><strong>TOTAL GERAL</strong></td><td><strong>110.757.350,00</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>Despesas por Categorias e Subcategorias Econômicas</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>Despesas Correntes</strong></td><td> </td></tr><tr><td>Pessoal e Encargos Sociais</td><td>58.937.867,77</td></tr><tr><td>Juros e Encargos Da Dívida</td><td>320.500,00</td></tr><tr><td>Outras Despesas Correntes</td><td>40.184.092,46</td></tr><tr><td>SUBTOTAL</td><td>99.442.460,23</td></tr><tr><td>Despesas de Capital</td><td> </td></tr><tr><td>Investimentos</td><td>9.721.739,77</td></tr><tr><td>Amortização Da Dívida</td><td>1.520.700,00</td></tr><tr><td><strong>SUBTOTAL </strong></td><td><strong>11.242.439,77</strong></td></tr><tr><td>Reserva de Contingência ou Reserva do RPPS</td><td> </td></tr><tr><td>Reserva de Contingência ou Reserva do RPPS</td><td>72.450,00</td></tr><tr><td><strong>SUBTOTAL</strong></td><td><strong>72.450,00</strong></td></tr><tr><td><strong>TOTAL GERAL</strong></td><td><strong>110.757.350,00</strong></td></tr></tbody></table>
+
+
+Art. 8º.
+
+Fica o Executivo autorizado a:
+
+
+I –
+
+abrir Créditos Suplementares até o limite de 20,00% (Vinte porcento) do valor total do orçamento nas dotações que se fizerem insuficientes durante a execução orçamentária de 2022, podendo, para tanto, utilizar-se de anulação parcial e/ou total de dotações conforme dispõe o artigo 43 da Lei 4.320/64.
+
+
+II –
+
+O Poder Legislativo poderá abrir Créditos Suplementares até o limite de 1,0% (um por nte porcento) do valor total do orçamento, por Resolução nos termos do art. 53 da Lei Municipal 1.461 de 22 de junho de 2021, que Dispõe sobre as diretrizes para a elaboração da lei Orçamentária para 2022 e dá outras providências nas dotações que se fizerem insuficientes durante a execução orçamentária de 2022, podendo, para tanto, utilizar-se de anulação parcial e/ou total de dotações conforme dispõe o artigo 43 da Lei 4.320/64.
+
+
+III –
+
+abrir Créditos Suplementares às dotações do orçamento para o exercíciode 2022, podendo, para tanto, utilizar o excesso de arrecadação efetivamente realizado, até o limite de 100,00% (Cem porcento) do total doorçamento.
+
+
+IV –
+
+abrir Créditos Suplementares às dotações do orçamento para o exercíciode 2022, podendo, para tanto, utilizar o superávit financeiro verificado no exercício anterior.
+
+
+V –
+
+promover as medidas necessárias para ajustar os dispêndios ao efetivo comportamento da receita.
+
+
+Art. 9º.
+
+Até 30 dias após a publicação da Lei Orçamentária, o Poder Legislativo estabelecerá por ato próprio, os valores a serem repassados mensalmente pelo Poder Executivo.
+
+
+Parágrafo único
+
+Não estabelecida a programação determinada no caput deste artigo, a entrega de recursos financeiros à Câmara Municipal, para atender ao disposto, do inciso III do §2° do art. 29-A da Constituição Federal será realizada na proporção de 1/12 (um doze avos) do total da despesa destinada ao Poder Legislativo, ate o dia 20 de cada mês.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, gerando efeitos a partir de 01.01.2022..
+
+
+**Rutine Clovis Folador Prefeito Municipal em exercício**
+
+Referente Proposição de Lei 025/2021. De autoria do Executivo Municipal

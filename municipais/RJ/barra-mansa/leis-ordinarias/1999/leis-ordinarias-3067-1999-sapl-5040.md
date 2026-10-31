@@ -1,0 +1,458 @@
+---
+titulo: "Lei Ordinária nº 3.067, de 15 de junho de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3067"
+data: "1999-06-15"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2018-06-25; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5040"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/781/text"
+sha256_fonte: "f3c1a9904a833981d2951f48b6a6e02c8d4d906e3a7a3bc83b098b6f260bd8b6"
+sha256_texto: "6452f091ea19dc51086e6b8ecd03541201f194032afe53c84458f5c4efe83697"
+capturado_em_fonte: "2026-10-27T18:31:49.080099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.067, de 15 de junho de 1999
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº3067, DE 15 DE JUNHO DE 1999.
+
+
+Dispõe sobre a contratação por tempo determinado, nos termos do art.37, inciso IX, da Constituição Federal, e dá outras providências.
+
+
+Art. 1º.
+
+Para atender a necessidade temporária de excepcional interesse público, os órgãos da Administração Municipal poderão efetuar contratação de pessoal por tempo determinado, nas condições e prazos previstos nesta Lei.
+
+
+Art. 2º.
+
+Considera-se necessidade temporária de excepcional interesse público:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.713, de 25 de junho de 2018.
+
+
+I –
+
+assistência a situações de calamidade pública;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+II –
+
+assistência a emergências em saúde pública;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+III –
+
+admissão de professor temporário;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+IV –
+
+realização de pesquisas de natureza estatística.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+V –
+
+atividades:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+a)
+
+mão de obra temporária;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+b)
+
+de identificação e demarcação territorial;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+c)
+
+finalísticas do hospital municipal, postos e unidades de saúde;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+d)
+
+de vigilância e inspeção, relacionadas à defesa agropecuária, no âmbito da Secretaria de Desenvolvimento Rural, para atendimento de situações emergenciais ligadas a surtos endêmicos de origem animal ou vegetal ou de iminente risco à saúde animal, vegetal ou humana;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+e)
+
+de pesquisas e desenvolvimento de produtos destinados à segurança de sistemas de informações;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+f)
+
+técnicas especializadas, no âmbito de projetos de cooperação com prazo determinado, implementados mediante acordos ou convênios;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+g)
+
+técnicas especializadas necessárias à implantação de órgãos ou entidades ou de novas atribuições definidas para órgãos existentes ou as decorrentes de aumento transitório no volume de trabalho que não possam ser atendidas mediante aplicação do art. 3º da Lei no 3058, de 30 de março de 1999;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+h)
+
+técnicas especializadas de tecnologia da informação, de comunicação e de revisão de processos de trabalho, não alcançadas pela alínea “g” e que não se caracterizem como atividades permanentes do órgão;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+i)
+
+admissão de professor, pesquisador e tecnólogo temporário para suprir a falta de professor, pesquisador ou tecnólogo ocupantes de cargo efetivo;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+j)
+
+desenvolvidas no âmbito dos projetos do Sistema de Vigilância de Área de Preservação Ambiental;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+l)
+
+admissão de professor para suprir demandas decorrentes da expansão das instituições municipais de ensino,
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+m)
+
+didático-pedagógicas em escolas municipais;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+n)
+
+de assistência à saúde;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+o)
+
+combate a emergências ambientais, na hipótese de declaração pelo Prefeito ou Secretário de Meio Ambiente e Desenvolvimento Sustentável, da existência de emergência ambiental na região específica.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+p)
+
+de assistência social.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.713, de 25 de junho de 2018.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 1º
+
+A contratação de professor temporário de que trata o inciso III do caput poderá ocorrer nos seguintes casos:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+I –
+
+vacância do cargo;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+II –
+
+afastamento ou licença;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+III –
+
+nomeação para ocupar cargo de direção das escolas da rede pública municipal.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 2º
+
+O número total de professores contratados temporariamente não poderá ultrapassar 20% (vinte por cento) do total de docentes efetivos em exercício no sistema municipal de ensino.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 3º
+
+As contratações a que se refere a alínea “f” serão feitas exclusivamente por projeto, vedado o aproveitamento dos contratados em qualquer área da administração pública.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 4º
+
+Ato do Poder Executivo disporá, para efeitos desta Lei, sobre a declaração de emergências em saúde pública.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 5º
+
+A contratação dos professores temporários fica limitada ao regime de trabalho da Secretaria Municipal de Educação.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 3º.
+
+O recrutamento do pessoal a ser contratado, nos termos desta Lei, será feito mediante processo seletivo simplificado sujeito a ampla divulgação, inclusive através do Boletim Oficial do Município, prescindindo de concurso público.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Parágrafo único
+
+A contratação para atender às necessidades decorrentes de calamidade pública, de emergência ambiental e de emergências em saúde pública prescindirá de processo seletivo.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 4º.
+
+As contratações serão feitas observando o prazo máximo de 12(doze) meses, podendo ser prorrogadas, desde que o prazo inicial mais o da prorrogação não ultrapasse a 24(vinte e quatro) meses.
+
+
+Art. 5º.
+
+As contratações somente poderão ser feitas com observância da dotação orçamentária específica e mediante prévia autorização do Prefeito Municipal ou Dirigente Autárquico/Fundacional, através de ato específico.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 6º.
+
+É proibida a contratação, nos termos desta Lei, de servidores da Administração direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios, bem como de empregados ou servidores de suas subsidiárias e controladas.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 1º
+
+Excetua-se do disposto no caput deste artigo, condicionada à formal comprovação da compatibilidade de horários, a contratação de:
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+I –
+
+professor temporário nas instituições municipais de ensino, desde que o contratado não ocupe cargo efetivo integrante das carreiras de magistério de que trata a Lei no 4467, de 21 de agosto de 2015;
+
+Inclusão feita pelo Art. 4º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+II –
+
+profissionais de saúde em unidades hospitalares, quando administradas pelo Governo Municipal e para atender às necessidades decorrentes de calamidade pública, desde que o contratado não ocupe cargo efetivo ou emprego permanente em órgão ou entidade da administração pública municipal direta e indireta;
+
+Inclusão feita pelo Art. 4º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 2º
+
+Sem prejuízo da nulidade do contrato, a infração do disposto neste artigo importará responsabilidade administrativa da autoridade contratante e do contratado, inclusive, se for o caso, solidariedade quanto à devolução dos valores pagos ao contratado.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 7º.
+
+A remuneração do pessoal contratado nos termos desta Lei será fixada:
+
+Alteração feita pelo Art. 5º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+I –
+
+nos casos dos incisos III do caput do art. 2o, m importância não superior ao valor da remuneração fixada para os servidores de final de Carreira das mesmas categorias, nos planos de retribuição ou nos quadros de cargos e salários do órgão ou entidade contratante;
+
+Inclusão feita pelo Art. 5º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+II –
+
+nos casos dos incisos I, II, IV e V do art. 2o, em importância não superior ao valor da remuneração constante dos planos de retribuição ou nos quadros de cargos e salários do serviço público, para servidores que desempenhem função semelhante, ou, não existindo a semelhança, às condições do mercado de trabalho; e
+
+Inclusão feita pelo Art. 5º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+III –
+
+no caso do inciso IV do art. 2º, quando se tratar de coleta de dados, o valor da remuneração poderá ser formado por unidade produzida, desde que obedecido ao disposto no inciso II deste artigo.
+
+Inclusão feita pelo Art. 5º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 1º
+
+Para os efeitos deste artigo, não se consideram as vantagens de natureza individual dos servidores ocupantes de cargos tomados como paradigma.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 2º
+
+Caberá ao Poder Executivo fixar as tabelas de remuneração para as hipóteses de contratações previstas nas alíneas f, g e h do inciso V do art. 2º.
+
+Inclusão feita pelo Art. 5º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 8º.
+
+O pessoal contratado nos termos desta Lei não poderá:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.694, de 09 de fevereiro de 2018.
+
+
+I –
+
+receber atribuições , funções ou encargos não previstos no respectivo contrato;
+
+Alteração feita pelo Art. 6º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+II –
+
+ser nomeado ou designado , ainda que a título precário ou em substituição, para o exercício de cargo em comissão ou função de confiança;
+
+Alteração feita pelo Art. 6º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+III –
+
+ser novamente contratado, com fundamento nesta Lei, antes de decorridos 6 (seis) meses do encerramento de seu contrato anterior, salvo nas hipóteses dos incisos I e II do art. 2º, mediante prévia autorização, conforme determina o art. 5º, ambos dispositivos desta Lei.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.694, de 09 de fevereiro de 2018.
+
+
+Art. 9º.
+
+O contrato firmado de acordo com esta Lei extinguir-se-á, sem direito a indenizações:
+
+Alteração feita pelo Art. 7º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+I –
+
+pelo término do prazo contratual;
+
+Alteração feita pelo Art. 7º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+II –
+
+por iniciativa do contratado;
+
+Alteração feita pelo Art. 7º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+III –
+
+pela extinção ou conclusão do projeto, definidos pelo contratante, nos casos da alínea h do inciso V do art. 2º.
+
+Alteração feita pelo Art. 7º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 1º
+
+A extinção do contrato, nos casos dos incisos II e III, será comunicada com a antecedência mínima de trinta dias.
+
+Alteração feita pelo Art. 7º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+§ 2º
+
+A extinção do contrato, por iniciativa do órgão ou entidade contratante, decorrente de conveniência administrativa, importará no pagamento ao contratado de indenização correspondente à metade do que lhe caberia referente ao restante do contrato.
+
+Alteração feita pelo Art. 7º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 10.
+
+O tempo de serviço prestado nos termos desta Lei será computado para todos os efeitos legais.
+
+
+Art. 11.
+
+Ao pessoal contratado nos termos desta Lei aplica-se o disposto na Consolidação das Leis do Trabalho – CLT e no Regime Geral de Previdência Social – RGPS.
+
+Alteração feita pelo Art. 8º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 12.
+
+As infrações disciplinares atribuídas ao pessoal contratado nos termos desta Lei serão apuradas mediante sindicância, concluída no prazo de trinta dias e assegurada ampla defesa.
+
+Alteração feita pelo Art. 9º. - Lei Ordinária nº 4.610, de 10 de fevereiro de 2017.
+
+
+Art. 13.
+
+Revogadas as disposições em contrário, em especial a Lei nº2249, de junho de 1989, esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 15 DE JUNHO DE 1999.
+
+
+MARIA INÊS PANDELÓ CERQUEIRA
+
+PREFEITA
+

@@ -1,0 +1,42 @@
+{
+  "estado": "retido",
+  "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1298-2023-sapl-769.md",
+  "sha256_preimagem": "6d69911ff5df17c21c4e75db1f0e787c84a6a6d589fab694b9b96d44dd8a6377",
+  "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/255139d65d07c0e84e7c01e9882c59edd5f3bfb2cb83a415b49c02e798f78e59.html",
+  "sha256_fonte": "ae3a05522146477c8c742dfcc21ff691aaa49e04f384ed146b9bb99bb3a358bc",
+  "listas": [
+    {
+      "dispositivo": "dptt2757",
+      "tag": "ol",
+      "attrs": {
+        "style": "list-style-type: upper-roman;"
+      },
+      "linha": 614,
+      "coluna": 341,
+      "itens": 7,
+      "html_literal": "<ol style=\"list-style-type: upper-roman;\"><li>– educação empreendedora e inovação;</li><li>– desburocratização;</li><li>– instituição da Rede Municipal de Políticas de Desenvolvimento;</li><li>– ampliação da participação dos pequenos negócios nas compras públicas;</li><li>– estímulo ao microempreendedor individual, aos empreendimentos da economia popular solidária e aos negócios de impacto social;</li><li>– estímulo à capitalização do microcrédito; e,</li><li>– incentivos tributários e de infraestrutura.</li></ol>"
+    },
+    {
+      "dispositivo": "dptt2759",
+      "tag": "ol",
+      "attrs": {
+        "style": "list-style-type: upper-roman;"
+      },
+      "linha": 645,
+      "coluna": 117,
+      "itens": 8,
+      "html_literal": "<ol style=\"list-style-type: upper-roman;\"><li>– promover os valores da dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa;</li><li>– fomentar a criação e o desenvolvimento de uma cultura empreendedora;</li><li>– instituir ambiente regulatório favorável à geração de pequenos negócios;</li><li>– fomentar a captação, a formação e a gestão de ativos econômicofinanceiros voltados para investimento em infraestrutura urbanística e/ou imobiliária, com tratamento diferenciado às pessoas jurídicas destinatárias desta Lei;</li><li>– estimular a participação das MPEs, EPPs e MEIs locais nas compras no mercado interno e externo, em especial, nas governamentais;</li><li>– apoiar o relacionamento creditício entre instituições financeiras e as pessoas jurídicas destinatárias desta Lei instaladas no Município;</li><li>– fomentar ganhos de eficiência e produtividade por meio de investimento em inovação; e</li><li>– estimular a utilização da conciliação prévia, da mediação e da arbitragem como instrumentos facilitadores para a solução de conflitos e litígios.</li></ol>"
+    },
+    {
+      "dispositivo": "dptt6888",
+      "tag": "ol",
+      "attrs": {},
+      "linha": 3681,
+      "coluna": 1480,
+      "itens": 3,
+      "html_literal": "<ol><li>microempresa, empresa de pequeno porte ou microempreendedor individual;</li><li>consórcio composto em sua totalidade por microempresas e empresas de pequeno porte, respeitado o disposto no Estatuto Licitatório vigente;</li><li>consórcio composto parcialmente por microempresas ou empresas de pequeno porte com participação igual ou superior ao percentual exigido de subcontratação.</li></ol>"
+    }
+  ],
+  "conclusao": "Não é apenas erro de fechamento Markdown: a fonte define três listas ordenadas nativas, duas com estilo upper-roman e uma com estilo padrão; a transcrição retida converte seus itens em parágrafos e não conserva essa estrutura. O gate independente reteve o caso antes de aprovar numeração implícita.",
+  "limite": "A aparência e os contadores efetivamente renderizados exigem prova própria com os estilos da fonte. Não se presume essa apresentação apenas do texto extraído. Nenhum reparo ou promoção preparado; nenhum canônico ou pacote congelado modificado."
+}

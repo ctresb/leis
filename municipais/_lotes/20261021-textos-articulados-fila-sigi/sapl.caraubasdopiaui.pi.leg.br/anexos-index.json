@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caraubasdopiaui.pi.leg.br/9a01a9b81f3a441de5ce6c842171b4b43ff90e9068fe98490e682ceebea95103.json",
+      "url": "https://sapl.caraubasdopiaui.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.caraubasdopiaui.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:32:53.491954-03:00"
+    }
+  ]
+}

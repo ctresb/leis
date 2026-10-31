@@ -1,0 +1,3560 @@
+Regulamenta a Lei nº 4.806, de 25 de novembro de 2019, que dispõe sobre o Procedimento do Serviço Inspeção Sanitária e Industrial dos Produtos de Origem Animal - SIM/POA.
+
+
+O Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, no uso das atribuições legais que lhe são conferidas pela alínea " a", inciso I, do art. 86 da Lei Orgânica do Município, de conformidade com o disposto na Lei nº 4.806, de 25 de novembro de 2019;
+
+CONSIDERANDO a Lei Federal nº 9.712, de 20 de novembro de 1998, que altera a Lei nº 8.171, de 17 de janeiro de 1991, referente ao Sistema Unificado de Atenção à Sanidade Agropecuária - SUASA;
+
+CONSIDERANDO o disposto no Decreto Federal nº 5.741, de 30 de março de 2006, que Organiza o Sistema Unificado de Atenção à Sanidade Agropecuária, e dá outras providências;
+
+CONSIDERANDO o disposto na Lei Federal nº 7.889, de 23 de novembro de 1989, que Dispõe sobre a inspeção sanitária e industrial dos produtos de origem animal e dá outras providências;
+
+CONSIDERANDO o disposto no Decreto RIISPOA nº 9.013, de 29 de março de 2017, que Regulamenta a Lei Federal nº 1.283, de 8 de 1950 e a Lei Federal nº 7.889, de 23 de novembro de 1989, que dispõe sobre a inspeção industrial e sanitária de produtos de origem animal;
+
+CONSIDERANDO a Instrução Normativa MAPA nº 16, de 23 de junho de 2015, Estabelece, em todo o território nacional, as normas específicas de inspeção e a fiscalização sanitária de produtos de origem animal, referente às agroindústrias de pequeno porte;
+
+CONSIDERANDO a Instrução Normativa MAPA nº 5, de 14 de fevereiro de 2017, dispõe sobre os requisitos para avaliação de equivalência ao Sistema Unificado de Atenção à Sanidade Agropecuária relativos à estrutura física, dependências e equipamentos de estabelecimento agroindustrial de pequeno porte de produtos de origem animal, na forma desta Instrução Normativa;
+
+CONSIDERANDO a Portaria MAPA nº 210 de 10 de novembro de 1998, Regulamento Técnico da Inspeção Tecnológica e Higiênico-Sanitária de Carnes de Aves;
+
+CONSIDERANDO a Portaria MAPA nº 185, de 13 de maio de 1997, Regulamento Técnico de Identidade e Qualidade de Peixe Fresco (Inteiro e Eviscerado);
+
+CONSIDERANDO a Instrução Normativa MAPA nº 21, de 31 de maio de 2017, Regulamento Técnico que fixa a identidade e as características de qualidade que deve apresentar o peixe congelado;
+
+CONSIDERANDO a Portaria MAPA nº 6, de 25 de julho de 1985, que Dispõe sobre as normas higiênico-sanitárias e tecnológicas para Mel, Cera de Abelhas e Derivados;
+
+CONSIDERANDO a Portaria MAPA nº 1, de 21 de fevereiro de 1990, que Dispõe sobre as normas gerais de inspeção de ovos e derivados;
+
+CONSIDERANDO a Portaria MAPA nº 004 de 3 de janeiro de 1978, que Dispõe sobre normas higiênicos-sanitária e tecnológicas para leite e produtos lácteos;
+
+CONSIDERANDO a Portaria nº 711, de 1º de novembro de 1995 de 1º de novembro de 1995, que Dispõe sobre as normas técnicas de instalações e equipamentos para abate e industrialização de suínos;
+
+CONSIDERANDO Tomo de Bovino MAPA de novembro de 2007, Padronização de técnicas, instalações e equipamentos - bovinos - currais e seus anexos, sala de matança;
+
+CONSIDERANDO a Portaria MAPA nº 368, de 4 de setembro de 1997, Regulamento Técnico sobre as Condições Higiênico-Sanitárias e de Boas Práticas de Fabricação para Estabelecimentos Elaboradores/Industrializadores de Alimentos;
+
+CONSIDERANDO a Portaria MAPA nº 46, de 10 de fevereiro de 1998, que Institui o sistema de análise de perigos e pontos críticos de controle;
+
+CONSIDERANDO o solicitado no Memorando Interno nº 61103, de 1º de novembro de 2023, da Secretaria Municipal de Desenvolvimento Comercial, Industrial e Agropecuário, DECRETA:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica regulamentada a Lei nº 4.806, de 25 de novembro de 2019, na parte que trata da inspeção e da fiscalização industrial e sanitária de Produtos de Origem Animal - SIM/POA.
+
+
+Parágrafo único
+
+As atividades de inspeção e de fiscalização industrial e sanitária de Produtos de Origem Animal - SIM/POA, de que trata o caput deste artigo, serão executadas pela Diretoria de Abastecimento - DIRA, vinculada à Secretaria Municipal de Desenvolvimento Comercial Industrial e Agropecuário - SMDC ou outra que vier a substituí-la.
+
+
+Art. 2º.
+
+O Serviço de Inspeção Municipal de Produtos de Origem Animal - SIM/POA será composto, exclusivamente, por médicos veterinários, designados por ato oficial, para o exercício de inspeção e fiscalização de produtos de origem animal.
+
+
+§ 1º
+
+Poderão integrar ao SIM/POA outros profissionais habilitados para exercer atividades específicas e auxiliares.
+
+
+§ 2º
+
+Os profissionais habilitados deverão estar lotados na Divisão do Serviço de Inspeção Municipal - DVSIM:
+
+
+Art. 3º.
+
+As liberações para funcionamento e registro dos estabelecimentos com inspeção serão de competência exclusiva do SIM/POA.
+
+
+Art. 4º.
+
+Constitui incumbência primordial do SIM/POA coibir o abate clandestino, a comercialização de produtos de origem animal sem inspeção sanitária e sem chancela no SIM/POA.
+
+
+#### CAPÍTULO II — DO ÂMBITO DE ATUAÇÃO
+
+
+Art. 5º.
+
+A inspeção e fiscalização de estabelecimentos de produtos de origem animal que realizam comércio municipal, de que trata este Decreto, são de competência da DVSIM.
+
+
+Parágrafo único
+
+O SIM/POA de maneira voluntária poderá aderir a serviços de inspeção por equivalência como: SISBI, SUSAF, SELO ARTE entre outros.
+
+
+Art. 6º.
+
+Ficam sujeitos à inspeção e à fiscalização os animais destinados ao abate, a carne e seus derivados, o pescado e seus derivados, o leite e seus derivados, o ovo e seus derivados e os produtos de abelha e seus derivados, com adição ou não de produtos vegetais.
+
+
+Parágrafo único
+
+A inspeção e fiscalização, a que se refere este artigo, abrange, sob o ponto de vista industrial e sanitário, a inspeção ante mortem e post mortem dos animais, a recepção, a manipulação, o beneficiamento, a industrialização, o fracionamento, a conservação, o acondicionamento, a embalagem, a rotulagem, o armazenamento, a expedição e o trânsito de quaisquer matérias-primas e produtos de origem animal.
+
+
+Art. 7º.
+
+A inspeção e fiscalização de que trata este Decreto serão realizadas:
+
+
+I –
+
+nas propriedades rurais fornecedoras de matérias-primas destinadas à manipulação ou ao processamento de produtos de origem animal;
+
+
+II –
+
+nos estabelecimentos que recebam as diferentes espécies de animais previstas neste Decreto para abate ou industrialização;
+
+
+III –
+
+nos estabelecimentos que recebem o pescado e seus derivados para manipulação, fracionamento, distribuição ou industrialização;
+
+
+IV –
+
+nos estabelecimentos que produzem e recebem ovos e seus derivados para beneficiamento ou industrialização;
+
+
+V –
+
+nos estabelecimentos que recebam o leite e seus derivados para beneficiamento ou industrialização;
+
+
+VI –
+
+nos estabelecimentos que extraiam ou recebam produtos de abelhas e seus derivados para beneficiamento ou industrialização;
+
+
+VII –
+
+nos estabelecimentos que recebam, manipulem, armazenem, conservem, acondicionam ou expeçam matérias primas e produtos de origem animal comestíveis procedentes de estabelecimentos registrados.
+
+
+Art. 8º.
+
+A execução da inspeção e fiscalização, de que trata este Decreto, é exclusiva da DVSIM, implicando proibição de duplicidade de fiscalização industrial ou sanitária de outros órgãos da administração municipal nos estabelecimentos de produtos de origem animal.
+
+
+Parágrafo único
+
+Fica ressalvada a competência da União, através do Ministério da Agricultura, Pecuária e Abastecimento - MAPA e do Estado pelo Serviço de Inspeção do Paraná, na inspeção e fiscalização de que trata este Decreto, quando a produção for destinada ao comércio interestadual ou internacional, sem prejuízo da colaboração do SIM/POA.
+
+
+Art. 9º.
+
+A inspeção industrial e sanitária municipal será realizada em caráter permanente ou periódico.
+
+
+§ 1º
+
+Terão Inspeção permanente os estabelecimentos que realizam a inspeção e fiscalização ante mortem e post mortem as diferentes espécies de animais, e outros que se julgar necessário.
+
+
+§ 2º
+
+Os estabelecimentos não enquadrados no § 1º deste artigo terão inspeção periódica, a juízo do SIM/POA.
+
+
+Art. 10.
+
+A inspeção e a fiscalização industrial e sanitária de produtos de origem animal abrangem, entre outros, os seguintes procedimentos:
+
+
+I –
+
+a classificação e o registro dos estabelecimentos;
+
+
+II –
+
+verificação das condições higiênico-sanitárias das instalações, dos equipamentos e do funcionamento dos estabelecimentos;
+
+
+III –
+
+verificação da prática de higiene e dos hábitos higiênicos pelos manipuladores de produtos de origem animal;
+
+
+IV –
+
+o exame ante e post mortem das diferentes espécies animais;
+
+
+V –
+
+verificação dos programas de autocontrole dos estabelecimentos;
+
+
+VI –
+
+verificação da rotulagem e dos processos dos produtos de origem animal de acordo com o atendimento da legislação específica;
+
+
+VII –
+
+coletas de amostras para análises fiscais e avaliação dos resultados de análises físico-químicos, microbiológicas, histológicas e sensoriais;
+
+
+VIII –
+
+avaliação do bem-estar animal dos animais destinados ao abate;
+
+
+IX –
+
+verificação das águas de abastecimentos;
+
+
+X –
+
+registro de produtos e derivados, de acordo com os tipos e os padrões fixados em legislação específica ou em fórmulas registradas;
+
+
+XI –
+
+verificação dos meios de transporte de animais vivos e produtos derivados e suas matérias-primas destinados à alimentação humana;
+
+
+XII –
+
+verificação dos controles de rastreabilidade dos animais, das matérias-primas, dos insumos, dos ingredientes e dos produtos ao longo da cadeia produtiva, a partir do seu recebimento nos estabelecimentos;
+
+
+XIII –
+
+outros procedimentos de inspeção, sempre que recomendarem a prática e o desenvolvimento da indústria de produtos de origem animal.
+
+
+Art. 11.
+
+Os procedimentos de inspeção e de fiscalização poderão ser modificados pelo SIM/POA, mediante a aplicação da análise de risco, de acordo com o nível de desenvolvimento tecnológico, envolvendo toda a cadeia produtiva com vistas à segurança alimentar.
+
+
+#### CAPÍTULO III — DO REGISTRO DE ESTABELECIMENTOS E TAXAS
+
+
+##### Seção I — Do Registro de Estabelecimentos
+
+
+Art. 12.
+
+Para o funcionamento de qualquer estabelecimento que abate, fracione, industrialize, processe, armazene, transporte e/ou comercialize produtos de origem animal, obrigatoriamente deverá ter registro no SIM/POA e aprovação de seus projetos e localização.
+
+
+Parágrafo único
+
+Os estabelecimentos com classificação de risco de Nível III deverão obter uma aprovação prévia dos seus projetos pela DVSIM.
+
+
+Art. 13.
+
+O registro será requerido ao Chefe da DVSIM, e apresentando os seguintes documentos:
+
+
+I –
+
+requerimento solicitando Registro no SIM/POA;
+
+
+II –
+
+fotocópia do contrato social e alterações ou bloco de produtor rural;
+
+
+III –
+
+fotocópia do cartão do CNPJ ou CPF;
+
+
+IV –
+
+plantas do estabelecimento e anexos assinados por profissional habilitado, compreendendo:
+
+
+a)
+
+planta baixa com detalhes dos equipamentos e instalações (escala 1/100);
+
+
+b)
+
+planta baixa com detalhes do fluxo de produção e movimentação de colaboradores (escala 1/100);
+
+
+c)
+
+planta de corte transversal e longitudinal, demonstrando detalhes de equipamentos e instalações (escala 1/100);
+
+
+d)
+
+planta de situação, com detalhes da rede de esgoto e de água de abastecimento. (escala 1/500);
+
+
+V –
+
+fotocópia do memorial econômico sanitário;
+
+
+VI –
+
+documento de liberação do órgão competente de fiscalização do meio ambiente;
+
+
+VII –
+
+fotocópia da licença de localização e funcionamento (alvará/alvará rural);
+
+
+VIII –
+
+fotocópia do certificado ou contrato de serviço do controle de pragas (serviço terceirizado);
+
+
+IX –
+
+fotocópia do laudo de análise de água;
+
+
+X –
+
+fotocópia da Anotação de Responsabilidade Técnica (ART) homologada pelo conselho;
+
+
+XI –
+
+fotocópia do Manual de Boas Práticas de Fabricação - BPF;
+
+
+XII –
+
+comprovante de Treinamento e/ou certificado em Boas Práticas de Fabricação - BPF;
+
+
+XIII –
+
+fotocópia dos documentos dos veículos de transportes do estabelecimento; e
+
+
+XIV –
+
+recolhimento da taxa respectiva pelo serviço.
+
+
+Art. 14.
+
+O SIM/POA poderá exigir alterações no projeto da planta industrial, nos processos produtivos e no fluxograma de operações, com o objetivo de assegurar a execução das atividades de inspeção e garantir a inocuidade do produto.
+
+
+Parágrafo único
+
+Os projetos devem ser apresentados devidamente datados e assinados por profissional habilitado, com as indicações exigidas pela legislação vigente.
+
+
+Art. 15.
+
+Qualquer ampliação, reforma e/ou construção que influencie na área industrial dos estabelecimentos registrados, tanto em suas dependências como instalações, só poderá ser realizada após aprovação prévia dos projetos pela DVSIM.
+
+
+§ 1º
+
+O SIM/POA realizará uma vistoria final para autorização do início das atividades, finalizadas as obras e as instalações dos equipamentos.
+
+
+§ 2º
+
+As ampliações, reformas e/ou construções, quando realizadas, devem garantir um fluxo operacional racionalizado de produção quanto à recepção, à embalagem, ao acondicionamento e à expedição dos produtos.
+
+
+Art. 16.
+
+Não será concedido o registro ao estabelecimento destinado à produção de alimentos quando situado nas proximidades de outro que, por sua natureza, possa prejudicá-lo.
+
+
+Art. 17.
+
+Atendidas as exigências fixadas neste Decreto e nas normas complementares, o chefe da DVSIM emitirá o Certificado de Registro do estabelecimento, no qual constará o número de registro, nome empresarial, CPF ou CNPJ, a classificação e a localização do estabelecimento.
+
+
+Art. 18.
+
+O estabelecimento que interrompa seu funcionamento por período superior a seis meses somente poderá reiniciar os trabalhos após inspeção prévia de suas dependências, suas instalações e seus equipamentos, observada a sazonalidade das atividades industriais.
+
+
+§ 1º
+
+Quando a interrupção do funcionamento ou a interdição do estabelecimento ultrapassar 12 (doze) meses o respectivo registro será cancelado.
+
+
+§ 2º
+
+No caso de cancelamento de registro será apreendida a rotulagem e serão recolhidos os materiais pertencentes ao SIM/POA, além de documentos, lacres e carimbos oficiais.
+
+
+##### Seção II — Da Transferência
+
+
+Art. 19.
+
+O responsável pelo estabelecimento registrado que for vendido, arrendado, alugado ou qualquer operação que resulte na modificação da razão social ou do responsável legal do estabelecimento, bem como qualquer alteração das informações, objeto do registro sanitário, deve comunicar e realizar a transferência de registro junto ao SIM/POA.
+
+
+§ 1º
+
+É de responsabilidade do vendedor, arrendador ou locador entregar ao SIM/POA uma comunicação da transferência da responsabilidade.
+
+
+§ 2º
+
+Enquanto a transferência do registro não se efetuar, o empresário ou a sociedade empresarial em nome dos quais esteja registrado o estabelecimento continuarão responsáveis pelas irregularidades que se verifiquem no estabelecimento.
+
+
+§ 3º
+
+O novo empresário ou sociedade empresarial será obrigado a cumprir todas as exigências formuladas ao anterior responsável, sem prejuízo de outras que venham a ser determinadas.
+
+
+§ 4º
+
+O método de transferência seguirá, no que for aplicável, o mesmo critério estabelecido para o registro.
+
+
+##### Seção III — Das Taxas
+
+
+Art. 20.
+
+As taxas instituídas pela DVSIM estão atreladas à característica de serviço, classificação dos estabelecimentos e metragem de área construída:
+
+
+I –
+
+consulta prévia para registro de estabelecimento:
+
+
+a)
+
+0,58 Unidade Fiscal de Foz do Iguaçu - UFFI;
+
+
+II –
+
+registro de estabelecimento:
+
+
+a)
+
+02 UFFI`s para estabelecimentos AS, Q, P, M até 200m²;
+
+
+b)
+
+05 UFFI`s os demais estabelecimentos.
+
+
+III –
+
+registro ou atualização de produtos:
+
+
+a)
+
+01 UFFI por produto.
+
+
+IV –
+
+avaliação de projetos:
+
+
+a)
+
+01 UFFI por projeto.
+
+
+V –
+
+registro ou atualização de rótulos:
+
+
+a)
+
+01 UFFI por rótulo.
+
+
+VI –
+
+ingresso e ou baixa de Responsável técnico:
+
+
+a)
+
+01 UFFI.
+
+
+VII –
+
+licença veicular:
+
+
+a)
+
+01 UFFI.
+
+
+VIII –
+
+taxa de serviço de inspeção municipal:
+
+
+a)
+
+01 UFFI.
+
+
+IX –
+
+renovação de estabelecimento:
+
+
+a)
+
+01 UFFI - até 100m²;
+
+
+b)
+
+02 UFFI`s - de 101m² a 300m²;
+
+
+c)
+
+03 UFFI`s - de 301m² a 500m²;
+
+
+d)
+
+04 UFFI`s acima de 500m².
+
+
+§ 1º
+
+O registro será providenciado junto à DVSIM, após o recolhimento da taxa respectiva junto à Secretaria Municipal da Fazenda, conforme a classificação constante no Capítulo IV deste Decreto.
+
+
+§ 2º
+
+As taxas referentes aos serviços dos incisos VII e IX deste artigo deverão ser renovadas anualmente.
+
+
+#### CAPÍTULO IV — DA CLASSIFICAÇÃO GERAL
+
+
+Art. 21.
+
+Os estabelecimentos de produtos de origem animal abrangem:
+
+
+I –
+
+de carnes e derivados;
+
+
+II –
+
+de leite e derivados;
+
+
+III –
+
+de pescado e derivados;
+
+
+IV –
+
+de ovos e derivados; e
+
+
+V –
+
+de produtos de abelhas e derivados.
+
+
+##### Seção I — Dos Estabelecimentos de Carnes e Derivados
+
+
+Art. 22.
+
+A Os estabelecimentos de carnes e derivados são classificados e definidos:
+
+
+I –
+
+ABATEDOURO FRIGORÍFICO - F: entende-se por abatedouro frigorífico o estabelecimento destinado ao abate dos animais produtores de carne, à recepção, à manipulação, ao acondicionamento, à rotulagem, à armazenagem e à expedição dos produtos oriundos do abate, dotado de instalações de frio industrial, podendo realizar o recebimento, a manipulação, a industrialização, o acondicionamento, a rotulagem, a armazenagem e a expedição de produtos comestíveis;
+
+
+II –
+
+UNIDADE DE BENEFICIAMENTO DE CARNE E PRODUTOS CÁRNEOS - UC: entende-se por unidade de beneficiamento de carne e produtos de origem animal o estabelecimento destinado à recepção, à manipulação, ao acondicionamento, à rotulagem, à armazenagem e à expedição de carne e produtos cárneos, podendo realizar industrialização de produtos;
+
+
+III –
+
+AUTOSSERVIÇOS - AS: entende-se por autosserviço a comercialização no varejo e no próprio estabelecimento, de produtos de origem animal fracionados, manipulados, embalados e rotulados na ausência do consumidor, e que fiquem expostos à disposição do consumidor final.
+
+
+Parágrafo único
+
+São incluídos na classificação como autosserviços os estabelecimentos varejistas que elaboram produtos cárneos formulados, desde que não sejam alimentos prontos para consumo.
+
+
+##### Seção II — De Leite e Derivados
+
+
+Art. 23.
+
+Os estabelecimentos de leite e derivados são assim classificados e definidos:
+
+
+I –
+
+UNIDADE DE BENEFICIAMENTO DE LEITE E DERIVADOS - UL: entende-se por unidade de beneficiamento de leite e derivados o estabelecimento destinado à recepção, ao pré-beneficiamento, ao beneficiamento, ao envase, ao acondicionamento, à rotulagem, à armazenagem e à expedição de leite para o consumo humano direto, facultando-se a transferência, a manipulação, a fabricação, a maturação, o fracionamento, a ralação, o acondicionamento, a rotulagem, a armazenagem e a expedição de derivados lácteos, sendo também permitida a expedição de leite fluido a granel de uso industrial;
+
+
+II –
+
+GRANJA LEITEIRA - GL: entende-se por granja leiteira o estabelecimento destinado à produção, ao pré-beneficiamento, ao beneficiamento, ao envase, ao acondicionamento, à rotulagem, à armazenagem e à expedição de leite para o consumo humano direto, podendo também elaborar derivados lácteos a partir de leite exclusivo de sua produção, envolvendo as etapas de pré-beneficiamento, beneficiamento, manipulação, fabricação, maturação, ralação, fracionamento, acondicionamento, rotulagem, armazenagem e expedição;
+
+
+III –
+
+QUEIJARIA - Q: entende-se por queijaria o estabelecimento localizado em propriedade rural destinado à fabricação de queijos, elaborados com leite de sua própria produção, que envolve as etapas de fabricação, maturação, acondicionamento, rotulagem, armazenagem e expedição, e que encaminhe o produto a uma unidade de beneficiamento de leite e derivado, caso não realize o processamento completo do queijo.
+
+
+##### Seção III — De Pescado e Derivados
+
+
+Art. 24.
+
+Os estabelecimentos destinados ao pescado e seus derivados são classificados em:
+
+
+I –
+
+ABATEDOURO FRIGORÍFICO DE PESCADO - FP: entende-se por abatedouro frigorífico de pescado o estabelecimento destinado ao abate de anfíbios e répteis, recepção, lavagem, manipulação, acondicionamento, rotulagem, armazenagem e expedição dos produtos oriundos do abate, podendo realizar recebimento, manipulação, industrialização, acondicionamento, rotulagem, armazenagem e expedição de produtos comestíveis;
+
+
+II –
+
+UNIDADE DE BENEFICIAMENTO DE PESCADO E PRODUTOS DE PESCADO - UP: entende-se por unidade de beneficiamento de pescado e produtos de pescado o estabelecimento destinado à recepção, à lavagem do pescado recebido da produção primária, à manipulação, ao acondicionamento, à rotulagem, à armazenagem e à expedição de pescado e de produtos de pescado, podendo realizar também sua industrialização;
+
+
+III –
+
+PEIXARIA - P: entende-se por peixaria o estabelecimento destinado à comercialização no varejo e no próprio estabelecimento, apenas de pescados fracionados, manipulados, embalados e rotulados na ausência e/ou presença do consumidor, e que fiquem expostos à disposição do consumidor final.
+
+
+##### Seção IV — De Ovos e Derivados
+
+
+Art. 25.
+
+Os estabelecimentos de ovos e derivados são classificados em:
+
+
+I –
+
+GRANJA AVÍCOLA - G: entende-se por granja avícola o estabelecimento destinado à produção, à ovoscopia, à classificação, ao acondicionamento, à rotulagem, à armazenagem e à expedição de ovos oriundos, exclusivamente, de produção própria destinada à comercialização direta.
+
+
+**Parágrafo único.** É permitida à granja avícola a comercialização de ovos para a unidade de beneficiamento de ovos e derivados.
+
+
+II –
+
+UNIDADE BENEFICIADORA DE OVOS E DERIVADOS - UO: entende-se por unidade de beneficiamento de ovos e derivados o estabelecimento destinado à produção, à recepção, à ovoscopia, à classificação, à industrialização, ao acondicionamento, à rotulagem, à armazenagem e à expedição de ovos e seus derivados.
+
+
+§ 1º
+
+É facultada a classificação de ovos quando a unidade de beneficiamento de ovos e derivados adquirir ovos já classificados.
+
+
+§ 2º
+
+Se a unidade de beneficiamento de ovos e derivados destinar-se, exclusivamente, à expedição de ovos, poderá ser dispensada a exigência de instalações para a industrialização de ovos.
+
+
+##### Seção V — De Mel, Cera de Abelhas e Derivados
+
+
+Art. 26.
+
+Os estabelecimentos destinados ao mel e cera de abelhas são classificados em:
+
+
+I –
+
+UNIDADE DE BENEFICIAMENTO DE PRODUTOS DE ABELHAS - M: entende-se por unidade de beneficiamento de produtos de abelhas e derivados o estabelecimento destinado à recepção, à classificação, ao beneficiamento, à industrialização, ao acondicionamento, à rotulagem, à armazenagem e à expedição de produtos e matérias-primas pré-beneficiadas provenientes de outros estabelecimentos de produtos de abelhas e derivados, facultando-se a extração de matérias-primas recebidas de produtores rurais cadastrados.
+
+
+Parágrafo único
+
+É permitida a recepção de matéria-prima previamente extraída pelo produtor rural, desde que atendido o disposto neste Decreto e em normas complementares.
+
+
+#### CAPÍTULO V — DO FUNCIONAMENTO
+
+
+Art. 27.
+
+Para o pleno funcionamento o estabelecimento deve estar completamente instalado e equipado de acordo com os seguintes requisitos exigidos pelo SIM/POA:
+
+
+I –
+
+localizar-se em pontos distantes de inundações, de fontes produtoras de odores desagradáveis e poeira de qualquer natureza;
+
+
+II –
+
+dispor de área suficiente e ser instalado, de preferência, no centro de terreno, devidamente cercado, afastado dos limites das vias públicas no e ter área de circulação que permita a livre movimentação dos veículos de transporte, exceção para aqueles já instalados e que não disponham de afastamento em relação às vias públicas, os quais poderão funcionar desde que as operações de recepção e expedição se apresentem interiorizadas:
+
+
+a)
+
+as ruas e pátios devem ser pavimentados ou com material que evite formação de lama e poeira.
+
+
+III –
+
+dispor de abastecimento de água potável e clorada para atender, suficientemente, às necessidades de trabalho do estabelecimento e das dependências sanitárias;
+
+
+IV –
+
+o controle do teor de cloro e pH deve ser feito de acordo com a atividade e o Programa de Autocontrole do estabelecimento, em conformidade com a legislação.
+
+
+a)
+
+os reservatórios de água devem ser protegidos de contaminação externa e higienizados regularmente.
+
+
+V –
+
+dispor de água quente quando necessário para usos diversos e suficientes às necessidades do estabelecimento;
+
+
+VI –
+
+dispor de iluminação natural e/ou artificial abundantes, bem como de ventilação adequada e suficiente em todas as dependências de acordo com a norma complementar;
+
+
+VII –
+
+possuir piso de material impermeável, resistente à abrasão e à corrosão, ligeiramente inclinado para facilitar o escoamento das águas residuais, bem como para permitir uma fácil lavagem e desinfecção.
+
+
+a)
+
+é vedado o acúmulo de água residual na área de produção do estabelecimento.
+
+
+VIII –
+
+ter paredes lisas, de cor clara, de fácil higienização e impermeáveis com azulejo ou outro material aprovado pelo SIM/POA;
+
+
+IX –
+
+possuir forro de material impermeável, resistente à umidade e a vapores, construído de modo a evitar a aglutinação de sujeira, de fácil lavagem e desinfecção;
+
+
+X –
+
+a sala de abate poderá ser dispensada nos casos em que o telhado propiciar uma perfeita vedação à entrada de poeira, insetos, pássaros e assegurar uma adequada higienização, a critério do SIM/POA;
+
+
+XI –
+
+dispor de dependência de uso exclusivo para a recepção dos produtos não comestíveis e/ou condenados.
+
+
+a)
+
+a dependência deve ser construída com paredes até o teto, não se comunicando diretamente com as dependências que manipulem produtos comestíveis.
+
+
+XII –
+
+dispor de mesas de materiais resistentes e impermeáveis, de preferência de aço inoxidável, para a manipulação dos produtos comestíveis e que permitam uma adequada lavagem e desinfecção;
+
+
+XIII –
+
+dispor de tanques, caixas, bandejas e demais recipientes construídos de material impermeável, de superfície lisa que permitam uma fácil lavagem e desinfecção;
+
+
+XIV –
+
+dispor de barreira sanitária completa nos acesso das dependências do estabelecimento;
+
+
+XV –
+
+dispor de rede de esgoto em todas as dependências, com dispositivo que evite o refluxo de odores e a entrada de roedores e outros animais, ligada a tubos coletores e estes ao sistema geral de escoamento e de instalação para a retenção de gordura, resíduos e corpos flutuantes, bem como de dispositivo para a depuração artificial das águas servidas e de conformidade com as exigências dos órgãos oficiais responsáveis pelo controle ambiental;
+
+
+a)
+
+as caixas de sedimentação de resíduos, ligadas e intercaladas à rede de esgoto devem estar adequadamente limpas.
+
+
+XVI –
+
+dispor de dependências sanitárias e vestiários satisfatoriamente instalados, de dimensões proporcionais ao número de operários, com acesso indireto às dependências industriais, quando localizadas em seu corpo;
+
+
+XVII –
+
+dispor de adequado " pé direito" nas diversas dependências, de modo que permita a disposição adequada dos equipamentos, principalmente da trilhagem aérea, a fim de que os animais pendurados após o atordoamento permaneçam com a ponta do focinho distante do piso, de forma que não haja contaminação da carcaça;
+
+
+XVIII –
+
+dispor de pocilgas cobertas, currais e/ou apriscos com pisos pavimentados apresentando caimento no sentido dos ralos.
+
+
+a)
+
+deverá ainda ser provido de bebedouros para utilização dos animais e pontos de água, com pressão suficiente, para facilitar a lavagem e desinfecção das instalações e dos meios de transporte;
+
+
+b)
+
+os currais e pocilgas deverão dispor de plataforma, quando for o caso, para realização da inspeção ante-mortem.
+
+
+XIX –
+
+dispor de espaços mínimos e de equipamentos que possibilitem as operações de insensibilização, sangria, esfola, evisceração, inspeção, resfriamento, armazenagem, estocagem, acabamento das carcaças e da manipulação dos miúdos, com funcionalidade e que preservem a higiene do produto final além de não permitir que haja contato das carcaças já esfoladas, entre si ou por contaminações cruzadas, antes de terem sido devidamente inspecionadas pelo SIM/POA;
+
+
+XX –
+
+prover a seção de miúdos, quando prevista, de separação física entre as áreas de manipulação do aparelho gastrointestinal e das demais vísceras comestíveis;
+
+
+XXI –
+
+dispor de telas em todas as janelas e/ou dispositivos de fechamento automático em outras passagens para o interior, de modo a impedir a entrada de insetos, pássaros e roedores;
+
+
+XXII –
+
+dispor de almoxarifado para guarda de embalagens, recipientes, produtos de limpeza e outros materiais utilizados na indústria.
+
+
+a)
+
+a armazenagem das embalagens, rótulos, ingredientes e demais insumos a serem utilizados deve ser feita em local que não permita contaminações, separados uns dos outros de forma a não permitir contaminação cruzada, podendo ser realizada em armários de material não absorvente e de fácil limpeza.
+
+
+XXIII –
+
+dispor de dependência, quando necessário, para uso como escritório da administração do estabelecimento, inclusive para pessoal do SIM/POA com inspeção de caráter permanente, podendo ser separada do estabelecimento.
+
+
+Art. 28.
+
+A critério do SIM/POA, autorizar-se-á a retirada de materiais condenados para a industrialização fora do estabelecimento (graxaria industrial), sendo que o seu transporte será efetuado em recipientes e/ou veículos fechados específicos e apropriados.
+
+
+§ 1º
+
+Os estabelecimentos de produtos não comestíveis devem estar regularizados e com a documentação atualizada de acordo com as legislações vigentes.
+
+
+§ 2º
+
+Os equipamentos e utensílios empregados para materiais não-comestíveis ou resíduos deverão ser marcados com a indicação do seu uso (cor vermelha) e não poderão ser usados para produtos comestíveis.
+
+
+Art. 29.
+
+É vedada a guarda de material em desuso ou estranho nos depósitos de produtos, nas salas de matança, sala de corte, sala de manipulação e seus anexos e na expedição.
+
+
+Art. 30.
+
+Os instrumentos de trabalho devem ser em número suficiente e sempre higienizados e desinfetados.
+
+
+Art. 31.
+
+É proibida a entrada de pessoas estranhas às atividades, salvo quando devidamente uniformizadas e autorizadas pelo estabelecimento.
+
+
+#### CAPÍTULO VI — DAS CONDIÇÕES DE HIGIENE
+
+
+Art. 32.
+
+É de responsabilidade dos estabelecimentos garantir que as etapas de fabricação dos produtos de origem animal sejam realizadas de forma higiênica, para obter produtos que atendam aos padrões de qualidade, que não apresentem risco à saúde, à segurança e ao interesse do consumidor.
+
+
+Art. 33.
+
+As dependências, superfícies, os equipamentos e os utensílios dos estabelecimentos devem ser mantidos em condições de higiene antes, durante e após a realização das atividades.
+
+
+Parágrafo único
+
+O estabelecimento é obrigado a seguir as Normas de Boas Práticas de Fabricação de acordo com o Programa de Autocontrole aprovado pelo SIM/POA.
+
+
+Art. 34.
+
+Os resíduos de produção devem ser removidos frequentemente da área de produção.
+
+
+Art. 35.
+
+Será exigido o certificado e/ou treinamento de Boas Práticas de Fabricação dos colaboradores responsáveis que estão envolvidos no processo de produção.
+
+
+Parágrafo único
+
+É obrigatória a lavagem das mãos dos colaboradores antes de entrar no ambiente de trabalho, quando necessário durante a manipulação e a saída de sanitários.
+
+
+Art. 36.
+
+Os colaboradores envolvidos nos processos industriais devem cumprir práticas de higiene pessoal e operacional que garantam a inocuidade dos produtos.
+
+
+Art. 37.
+
+É proibido fumar, cuspir ou escarrar nas dependências destinadas à manipulação ou no depósito de matérias-primas, de produtos de origem animal e de seus insumos.
+
+
+Art. 38.
+
+É obrigatório o uso pelo colaborador que trabalha com produtos comestíveis, desde a área de sangria até a expedição, a utilização de uniforme completo de cor branca ou clara, mantidos convenientemente limpos.
+
+
+Parágrafo único
+
+Por " uniforme completo" entende-se calça, camiseta ou jaleco, protetor de cabeça (gorro ou toca, e quando necessário capacete) e botas.
+
+
+Art. 39.
+
+O uniforme do colaborador que manipula produtos condenados e/ou não comestíveis, que realize a desinfecção dos equipamentos e instrumentos com produtos apropriados e aprovados, deve ter cor diferenciada.
+
+
+Parágrafo único
+
+É proibida a circulação dos colaboradores uniformizados entre áreas de diferentes riscos sanitários ou fora do perímetro industrial.
+
+
+Art. 40.
+
+Deve ser prevista a separação de áreas ou a definição de fluxo de colaboradores dos distintos setores nas áreas de circulação comum, tais como refeitórios, vestiários ou áreas de descanso, entre outras, de forma a prevenir a contaminação cruzada, respeitadas as particularidades das diferentes classificações de estabelecimentos.
+
+
+Art. 41.
+
+Será proibido que o colaborador realize suas refeições nos locais de trabalho, bem como guarde produtos, objetos e material estranho à finalidade da dependência ou, ainda, armazenar roupas de qualquer natureza.
+
+
+Art. 42.
+
+As matérias-primas, os insumos e os produtos devem ser mantidos em condições que previnam contaminações durante todas as etapas de elaboração, desde a recepção até a sua expedição, incluindo o transporte.
+
+
+Art. 43.
+
+Far-se-á todas as vezes que o SIM/POA julgar necessário, a substituição, raspagem, pinturas e reparos em pisos, paredes, tetos e equipamentos.
+
+
+Parágrafo único
+
+É proibido o uso de recipientes, superfícies ou outros utensílios quando danificados, quebrados, com ranhuras, desgastados ou outras alterações que possam influenciar a higiene e qualidade do produto.
+
+
+Art. 44.
+
+Lavar e desinfetar, tantas vezes quanto necessário, os pisos, cercas dos currais, bretes de contenção, mangueiras, pocilgas, apriscos e outras instalações próprias para guardar, descansar e conter os animais vivos ou depósitos de resíduos industriais, bem como de quaisquer outras instalações julgadas necessárias pelo SIM/POA.
+
+
+Art. 45.
+
+As câmaras frias devem ser mantidas em boas condições de higiene, iluminação e ventilação, devendo ser limpas e desinfetadas sempre que se fizer necessário.
+
+
+Art. 46.
+
+É vedado o uso de utensílios que, pela sua forma ou composição possam comprometer a inocuidade da matéria-prima ou do produto nas etapas de elaboração, desde a recepção até a expedição, incluindo o transporte.
+
+
+Art. 47.
+
+A inspeção de saúde e programa de controle médico de saúde ocupacional - PCMSO é exigida para qualquer colaborador do estabelecimento, seus dirigentes ou proprietários, mesmo que realizem atividades esporádicas nas dependências. Sempre que ficar comprovada a existência de dermatoses ou quaisquer doenças infecto-contagiosas ou repugnantes em qualquer pessoa que exerça atividade no estabelecimento será imediatamente afastada do trabalho.
+
+
+Parágrafo único
+
+Deve apresentar comprovação médica atualizada de colaboradores. É obrigatória na carteirinha de saúde a expressão " apto a manipular alimentos."
+
+
+Art. 48.
+
+Os estabelecimentos registrados no SIM/POA devem aplicar um eficaz programa integrado de pragas de modo contínuo para moscas, mosquitos, baratas, ratos, camundongos e quaisquer outros insetos, além de gatos, cães e outros animais, agindo-se cautelosamente quanto ao emprego de venenos, cujo uso só é permitido nas dependências não destinadas à manipulação ou depósito de produtos comestíveis e mediante expressa autorização do SIM/POA.
+
+
+§ 1º
+
+É proibido o emprego de substância não aprovada pelo órgão regulador da saúde para o controle integrado de pragas.
+
+
+§ 2º
+
+O controle químico deve ser executado por empresa especializada ou por pessoal capacitado.
+
+
+Art. 49.
+
+Todos os produtos de limpeza e desinfecção devem ser aprovados pelo SIM/POA e identificados e guardados em local adequado, fora das áreas de manipulação de alimentos.
+
+
+Parágrafo único
+
+É proibido o reaproveitamento de embalagens de saneantes, seus congêneres e de outros produtos capazes de serem nocivos à saúde ou de recipientes que possam modificar as características do produto na fabricação.
+
+
+#### CAPÍTULO VII — DAS OBRIGAÇÕES DOS ESTABELECIMENTOS
+
+
+Art. 50.
+
+Os responsáveis pelos estabelecimentos ficam obrigados a:
+
+
+I –
+
+atender ao disposto neste Decreto e em normas complementares;
+
+
+II –
+
+providenciar, sempre que necessário, nos estabelecimentos sob inspeção em caráter permanente, o apoio administrativo e o pessoal para auxiliar a execução dos trabalhos de inspeção post mortem, conforme normas complementares estabelecidas pelo SIM/POA;
+
+
+III –
+
+disponibilizar instalações, equipamentos e materiais indispensáveis aos trabalhos de inspeção e fiscalização;
+
+
+IV –
+
+fornecer os dados estatísticos, de interesse do SIM/POA, até o décimo dia útil de cada mês subsequente e sempre que solicitado;
+
+
+V –
+
+manter atualizado os dados cadastrais de interesse do SIM/POA;
+
+
+VI –
+
+avisar, com antecedência de 1 (um) dia útil, da chegada de animais a serem abatidos, e fornecer todos os dados que sejam exigido pelo SIM/POA;
+
+
+VII –
+
+obedecer às determinações do SIM/POA quanto ao destino dos animais e dos produtos condenados;
+
+
+VIII –
+
+fornecer materiais, utensílios e substâncias específicas para os trabalhos de coleta, acondicionamento, inviolabilidade e remessa das amostras fiscais aos laboratórios;
+
+
+IX –
+
+arcar com o custo de análises fiscais;
+
+
+X –
+
+dispor de controle de temperaturas das matérias-primas, dos produtos, do ambiente e do processo tecnológico empregado, conforme estabelecido em normas complementares;
+
+
+XI –
+
+manter atualizado o programa de autocontrole do estabelecimento e/ou Manual de Boas Práticas de Fabricação;
+
+
+XII –
+
+manter responsável técnico no controle das atividades de produção do estabelecimento que cumpra com as obrigações pertinentes à sua atuação profissional;
+
+
+XIII –
+
+assegurar o acesso de representantes do SIM/POA a todas as instalações do estabelecimento para realização do trabalho de inspeção, fiscalização, supervisão, auditoria, coleta de amostras, verificação de documentos e outros procedimentos inerentes a inspeção e a fiscalização previsto neste Decreto e em normas complementares;
+
+
+XIV –
+
+comunicar ao SIM/POA, no prazo até o décimo dia útil do mês subsequente, das situações de rescisão ou término de contrato com o responsável técnico, assim como da contratação de novo RT, apresentando a Anotação de responsabilidade Técnica ou documento equivalente;
+
+
+XV –
+
+comunicar ao SIM/POA a suspensão, paralisação ou encerramento das atividades do estabelecimento por qualquer motivo;
+
+
+XVI –
+
+recolher, se for o caso, todas as taxas de inspeção e outras que existam ou vierem a ser instituídas, de acordo com a legislação vigente.
+
+
+Art. 51.
+
+Os estabelecimentos devem possuir programas de autocontrole desenvolvidos, implantados, mantidos, monitorados e verificados por eles mesmos, contendo registro auditáveis que comprovem o atendimento aos requisitos higiênico-sanitários e tecnológicos estabelecidos neste Decreto e em normas complementares, com o objetivo de garantir a inocuidade, a identidade, a qualidade e a integridade dos seus produtos.
+
+
+§ 1º
+
+Os programas de autocontrole devem incluir o bem-estar animal, quando aplicável, as BPF, o PPHO e a APPCC ou outras ferramentas equivalentes.
+
+
+§ 2º
+
+O SIM/POA estabelecerá em normas complementares os procedimentos oficiais de verificação dos programas de autocontrole dos processos de produção aplicados pelos estabelecimentos para assegurar a inocuidade e o padrão de qualidade dos produtos.
+
+
+Art. 52.
+
+Os estabelecimentos devem dispor de mecanismos de controle para assegurar a rastreabilidade das matérias-primas e dos produtos, com a disponibilidade de informações de toda a cadeia produtiva, em consonância com este Decreto e com normas complementares.
+
+
+§ 1º
+
+A rastreabilidade deve garantir o controle desde a produção primária até a recepção no estabelecimento, incluindo o transporte.
+
+
+§ 2º
+
+Para fins de rastreabilidade da origem do leite, fica proibida a recepção de leite cru resfriado, transportado em veículo de propriedade de pessoas físicas ou jurídicas não vinculadas formal e comprovadamente ao programa de qualificação de fornecedores.
+
+
+Art. 53.
+
+Os estabelecimentos devem disponibilizar os documentos e informações solicitados pelo SIM/POA, seja de natureza fiscal ou analítica, e os registros de controle de recepção, estoque, produção, expedição ou quaisquer outros necessários às atividades de inspeção e fiscalização.
+
+
+Art. 54.
+
+Os estabelecimentos só podem expor à venda e distribuir produtos que:
+
+
+I –
+
+não represente risco à saúde pública;
+
+
+II –
+
+não tenham sido adulterados;
+
+
+III –
+
+tenha assegurada a rastreabilidade nas fases de obtenção, recepção, fabricação e de expedição; e
+
+
+IV –
+
+atendam às especificações aplicáveis estabelecidas neste Decreto ou em normas complementares.
+
+
+Parágrafo único
+
+Os estabelecimentos adotarão as providências necessárias para o recolhimento de lotes de produtos que representem risco à saúde pública ou que tenham sido adulterados.
+
+
+#### CAPÍTULO VIII — DA INSPEÇÃO INDUSTRIAL E SANITÁRIA
+
+
+Art. 55.
+
+Nos estabelecimentos sob inspeção municipal, é permitido o abate de diferentes espécies nos termos do disposto neste Decreto e em normas complementares.
+
+
+§ 1º
+
+O abate de diferentes espécies no mesmo estabelecimento poderá ser realizado desde que as instalações e equipamentos sejam compatíveis para esta finalidade.
+
+
+§ 2º
+
+O abate de que trata o § 1º deverá fazer a completa segregação entre as diferentes espécies e seus respectivos produtos durante todas as etapas do processo operacional.
+
+
+§ 3º
+
+Os estabelecimentos de abate que recebem animais da produção primária precisam ter cadastro atualizado de produtores.
+
+
+§ 4º
+
+Os estabelecimentos de abate que recebem animais de produção primária são encarregados pela implantação de programas de melhorias da qualidade da matéria-prima e educação continuada dos produtores.
+
+
+Art. 56.
+
+A critério do SIM/POA e considerados os riscos sanitários, podem ser exigidos registros auditáveis necessários à fiscalização da produção dos estabelecimentos de pequeno porte, a serem realizados pelo proprietário ou por profissional habilitado.
+
+
+##### Seção I — Da Inspeção Ante Mortem
+
+
+Art. 57.
+
+O recebimento das espécies para o abate em qualquer dependência do estabelecimento deve ter prévio conhecimento do SIM/POA.
+
+
+§ 1º
+
+Os animais deverão ser acompanhados de documentos de trânsito quando necessário, sanitários e fiscais pertinentes, para identificação e procedência.
+
+
+§ 2º
+
+É proibido o abate de animais desacompanhados de documentos de trânsito, Guia de Trânsito Animal - GTA.
+
+
+Art. 58.
+
+Os estabelecimentos devem apresentar, anteriormente ao abate, a programação de abate e a documentação necessária dos lotes e as demais informações previstas em legislação específica para verificação das condições fiscais e sanitárias dos animais pelo SIM/POA.
+
+
+§ 1º
+
+Em caso de suspeita de uso de substâncias proibidas ou de falta de informação sobre o prazo de carência de medicamentos, o SIM/POA poderá apreender os lotes de animais ou de produtos, proceder à coleta de amostra para posteriormente dar a destinação.
+
+
+§ 2º
+
+Os documentos de interesse sobre o lote devem ser disponibilizados com, no mínimo, vinte e quatro horas de antecedência.
+
+
+Art. 59.
+
+É obrigatório a realização do exame ante mortem dos animais destinados ao abate por médico veterinário.
+
+
+§ 1º
+
+Os animais deverão ser, compulsoriamente, submetidos à inspeção ante mortem e abate humanitário de acordo com a legislação vigente.
+
+
+§ 2º
+
+Qualquer caso suspeito será submetido à avaliação por fiscal, médico veterinário, que realizará exame clínico, necropsia ou outros procedimentos que julgar necessário para conceder a destinação.
+
+
+§ 3º
+
+O exame ante mortem deve ser realizado sempre que possível após a chegada dos animais.
+
+
+Art. 60.
+
+As fêmeas com gestação adiantada ou com sinais de parto recente, não portadoras de doenças infectocontagiosas, podem ser retiradas do estabelecimento para melhor aproveitamento.
+
+
+Parágrafo único
+
+As fêmeas com sinais de parto recente ou aborto somente poderão ser abatidas após no mínimo dez dias, contados da data do parto, desde que não sejam portadoras de doenças infectocontagiosas, caso em que serão avaliadas de acordo com este Decreto e normas complementares.
+
+
+Art. 61.
+
+Os animais mortos ou impossibilitados de locomoção em veículos transportadores ou que estejam nas instalações para recepção deve ser imediatamente levado ao conhecimento do SIM/POA, para que seja providenciada a necropsia ou abate de emergência e adotadas as medidas que se façam necessárias, respeitar as particularidades de cada espécie.
+
+
+Parágrafo único
+
+O lote de animais no qual se verifique qualquer caso de morte natural deverá ser abatido após o resultado da necropsia.
+
+
+Art. 62.
+
+O SIM/POA encaminhará ao conhecimento do serviço oficial de saúde animal o resultado das necropsias que evidenciarem doenças infectocontagiosas e enviará, quando necessário, material para diagnóstico conforme legislação de saúde animal.
+
+
+##### Seção II — Do Abate Dos Animais
+
+
+Art. 63.
+
+É proibido o abate de animais que não tenham permanecido em descanso, jejum e dieta hídrica, respeitadas as singularidades de cada espécie e as situações emergenciais que prejudiquem o bem-estar animal.
+
+
+Art. 64.
+
+A liberação para abate de animais só poderá ocorrer após a análise da documentação pelo SIM/POA.
+
+
+Art. 65.
+
+Só é permitido o abate de animais com a prévia insensibilização, utilizando-se o método adequado para cada espécie.
+
+
+Parágrafo único
+
+A sangria deve ser imediata e completa respeitando-se o tempo mínimo de acordo com norma complementar, antes do qual não poderá ser realizado nenhum procedimento.
+
+
+Art. 66.
+
+Sempre que julgar necessário o SIM/POA determinará a interrupção do abate ou a redução de sua velocidade.
+
+
+Art. 67.
+
+A evisceração deve ser realizada em local que permita pronto exame das vísceras e de forma que não ocorram contaminações.
+
+
+Parágrafo único
+
+Caso ocorra retardo na evisceração, as carcaças e vísceras serão julgadas de acordo com o disposto na legislação vigente.
+
+
+Art. 68.
+
+O estabelecimento é responsável por garantir a correlação entre as carcaças, as partes das carcaças e suas respectivas vísceras até o término do exame post mortem pelo SIM/POA, observado o disposto em normas complementares.
+
+
+Parágrafo único
+
+É vedada a realização de operações de toalete antes do término do exame post mortem.
+
+
+Art. 69.
+
+Todas as carcaças, as partes de carcaças, os órgãos e as vísceras devem ser resfriados ou congelados, dependendo da especificação do produto.
+
+
+§ 1º
+
+As carcaças ou as partes das carcaças, quando submetidas a processo de resfriamento pelo ar devem ser penduradas em câmaras frigoríficas, respeitadas as particularidades de cada espécie, e dispostas de modo que haja suficiente espaço entre cada peça e entre elas e as paredes, as colunas e os pisos.
+
+
+§ 2º
+
+É proibido depositar carcaças e produtos diretamente sobre o piso.
+
+
+Art. 70.
+
+O SIM/POA deverá verificar o cumprimento dos procedimentos de desinfecção de dependências e equipamentos na ocorrência de doenças infectocontagiosas, para evitar contaminação cruzada.
+
+
+Art. 71.
+
+É obrigatória a remoção, a segregação e a inutilização pelo estabelecimento dos Materiais Especificados de Risco - MER de todos os ruminantes destinados ao abate.
+
+
+§ 1º
+
+As especificações dos órgãos, das partes ou dos tecidos animais classificados como MER será realizada pela legislação de saúde animal.
+
+
+§ 2º
+
+É vedado o uso dos MER para alimentação humana ou animal, sob qualquer forma.
+
+
+#### CAPÍTULO IX — DO REGISTRO DE PRODUTOS, DA EMBALAGEM, DA ROTULAGEM E DOS CARIMBOS DE INSPEÇÃO
+
+
+##### Seção I — Do Registro de Produtos
+
+
+Art. 72.
+
+Todo produto de origem animal comestível produzido e comercializado no Município de Foz do Iguaçu deve ser registrado no SIM/POA.
+
+
+§ 1º
+
+O registro de que trata o caput deste artigo abrange a formulação, o processo de fabricação e o rótulo.
+
+
+§ 2º
+
+As formulações utilizadas nos Produtos de Origem Animal deverão ser previamente aprovadas pelo SIM/POA seguindo os Regulamentos Técnicos de Identidade e Qualidade dos Produtos - RTIQ.
+
+
+Art. 73.
+
+No processo de solicitação de registro de produto, devem constar:
+
+
+I –
+
+matérias-primas e ingredientes, com discriminação das quantidades e dos percentuais utilizados;
+
+
+II –
+
+descrição das etapas de recepção, de manipulação, de beneficiamento, de industrialização, de fracionamento, de conservação, de embalagem, de armazenamento e de transporte de produto;
+
+
+III –
+
+descrição dos métodos de controle realizados pelo estabelecimento para assegurar a identidade, a qualidade e a inocuidade do produto; e
+
+
+IV –
+
+croqui do rótulo a ser utilizado.
+
+
+Parágrafo único
+
+Para registro de produto, podem ser exigidas informações ou documentações complementares, conforme critérios estabelecidos pelo SIM/POA.
+
+
+Art. 74.
+
+É permitida a fabricação de produtos de origem animal, não previstos em normas complementares, desde que seu processo de fabricação e sua composição sejam aprovados pelo SIM/POA.
+
+
+Parágrafo único
+
+O SIM/POA julgará a pertinência dos pedidos de registro, considerados:
+
+
+I –
+
+a segurança e a inocuidade do produto;
+
+
+II –
+
+os requisitos de identidade e de qualidade propostos, com vistas a preservar os interesses dos consumidores; e
+
+
+III –
+
+a existência de métodos validados de avaliação da conformidade do produto final.
+
+
+Art. 75.
+
+Todos os ingredientes e os aditivos apresentados de forma combinada devem dispor de informação clara sobre sua composição e seus percentuais nas solicitações do registro de produto.
+
+
+Parágrafo único
+
+Os coadjuvantes de tecnologia empregados na fabricação devem ser discriminados no processo de fabricação.
+
+
+Art. 76.
+
+Nenhuma modificação na formulação, no processo de fabricação ou no rótulo pode ser realizada sem prévia atualização e aprovação do registro no SIM/POA.
+
+
+Art. 77.
+
+A numeração do registro dos produtos será fornecida pelo estabelecimento solicitante, com numeração crescente e sequencial de dígitos, seguida do número de registro do estabelecimento junto ao SIM/POA.
+
+
+Art. 78.
+
+Os produtos cujos padrões ainda não estejam descritos em RTIQ (Regulamento Técnico de Identidade e Qualidade) ou outra legislação vigente, somente serão registrados após a realização de estudos científicos, consultas e publicações de normas técnicas, porém, o estabelecimento poderá comprovar os padrões do produto através de laudos de análises laboratoriais e embasamento científico, descrevendo os padrões em que o produto se enquadra no memorial descritivo do produto, mediante aprovação do SIM/POA.
+
+
+##### Seção II — Da Embalagem
+
+
+Art. 79.
+
+Compreende-se por " embalagem" o recipiente, o pacote ou a embalagem destinada a conservar, proteger, acomodar e preservar materiais destinados à exposição, embarque, transporte e armazenagem.
+
+
+Art. 80.
+
+Os produtos de origem animal atribuídos à alimentação humana só podem ser acondicionados ou embalados em recipientes aprovados pelo órgão de fiscalização competente.
+
+
+§ 1º
+
+O material utilizado para confecção das embalagens que entram em contato direto com o produto deve ser previamente autorizado pelo órgão regulador da saúde.
+
+
+§ 2º
+
+Quando houver interesse sanitário ou tecnológico, de acordo com a natureza do produto, pode ser exigida embalagem ou acondicionamento específico.
+
+
+Art. 81.
+
+Recipientes anteriormente usados só podem ser aproveitados para o envasamento de produtos e matérias-primas utilizadas na alimentação humana, quando absolutamente íntegros, perfeitos e higienizados.
+
+
+Parágrafo único
+
+Em nenhuma hipótese pode ser utilizado, se anteriormente tenham sido empregados no acondicionamento de produtos e matérias-primas de uso não comestível.
+
+
+##### Seção III — Da Rotulagem
+
+
+Art. 82.
+
+Entende-se por rótulo ou rotulagem toda inscrição, legenda, imagem e toda matéria descritiva ou gráfica que está escrita, impressa, estampada, gravada em relevo, litografada ou colada sobre embalagens ou contentores do produto de origem animal destinado ao comércio, com vistas à identificação.
+
+
+§ 1º
+
+O rótulo deve ser resistente às condições de armazenamento e de transporte dos produtos e, quando em contato direto com o produto, o material utilizado deve ser previamente autorizado pelo órgão regulador de saúde.
+
+
+§ 2º
+
+As informações nos rótulos devem ser visíveis, legíveis, com cor contrastante com o fundo e indelével conforme legislação específica.
+
+
+Art. 83.
+
+Os estabelecimentos só podem expedir ou comercializar matérias-primas e produtos de origem animal registrados pelo SIM/POA quando identificados por meio de rótulos.
+
+
+§ 1º
+
+O rótulo deve estar visível quando destinado ao consumo ou a outro estabelecimento que procederão ao processamento.
+
+
+§ 2º
+
+Os rótulos devem possuir identificação que permita a rastreabilidade dos produtos.
+
+
+Art. 84.
+
+Os ingredientes e aditivos devem constar nos rótulos atendendo a legislação específica.
+
+
+Art. 85.
+
+O rótulo para produtos de origem animal deve conter de forma correta e clara as seguintes informações:
+
+
+I –
+
+nome do produto;
+
+
+II –
+
+nome empresarial, telefone e endereço;
+
+
+III –
+
+classificação do estabelecimento;
+
+
+IV –
+
+carimbo oficial do SIM/POA;
+
+
+V –
+
+marca comercial do produto;
+
+
+VI –
+
+identificação do lote;
+
+
+VII –
+
+prazo de validade ou " consumir até..", VIII - peso líquido;
+
+
+VIII –
+
+lista de ingredientes e aditivos;
+
+
+IX –
+
+indicação quantitativa, conforme legislação do órgão competente;
+
+
+X –
+
+instruções sobre a conservação do produto;
+
+
+XI –
+
+indústria brasileira;
+
+
+XII –
+
+Cadastro Municipal do Contribuinte - CMC ou Cadastro Municipal da Empresa - CME.
+
+
+§ 1º
+
+As informações expressas na rotulagem devem traduzir a verdadeira natureza, a composição e as características do produto.
+
+
+§ 2º
+
+Os rótulos seguirão os parâmetros do SIM/POA, ANVISA e INMETRO.
+
+
+Art. 86.
+
+No caso de terceirização da produção, deve constar a expressão " Fabricado por" ou expressão equivalente, seguida da identificação do fabricante, e a expressão " Para", ou expressão equivalente, seguida da identificação do estabelecimento que comercializa.
+
+
+Art. 87.
+
+No caso de fracionamento da embalagem deverá constar a expressão " Fracionado por" ou expressão equivalente, respectivamente, em substituição à expressão " Fabricado por.
+
+
+##### Seção IV — Dos Carimbos de Inspeção
+
+
+Art. 88.
+
+As carcaças, as partes de carcaças e cortes armazenados ou em trânsito, ou entregues ao comércio, devem estar identificados de forma legível, por meio de carimbos, etiquetas ou rótulos e embalados conforme modelos fornecidos e aprovados pelo SIM/POA.
+
+
+Parágrafo único
+
+Para carcaças, quartos ou partes de carcaças em natureza de bovinos, de equídeos, de suídeos, de ovinos, de caprinos e de ratitas, destinados ao comércio varejista ou em trânsito para outros estabelecimentos recebem o carimbo do SIM/POA diretamente em sua superfície e devem possuir, além deste, etiqueta-lacre inviolável.
+
+
+Art. 89.
+
+Modelos dos carimbos para uso no Serviço de Inspeção Municipal - SIM/POA:
+
+
+§ 1º
+
+Para fins de padronização, ficam definidos os seguintes modelos de carimbos do SIM/POA:
+
+
+Modelo 1:
+
+
+I –
+
+dimensões: 2cm (dois centímetros) de largura e 1,5cm (um centímetro e meio) de altura;
+
+
+II –
+
+forma: triangular;
+
+
+III –
+
+dizeres: horizontalmente na base do triângulo a palavra " INSPECIONADO" com letras maiúsculas no centro, o número de registro da empresa no " SIM/POA", imediatamente acima do número de registro será sigla da classificação do estabelecimento; no ápice do triângulo à sigla SIM e imediatamente abaixo o município" FOZ DO IGUAÇU", todos em letras maiúsculas, letra de forma " Times New Roman", em negrito;
+
+
+IV –
+
+uso: embalagens e rótulos de produtos comestíveis de até 1,0Kg (um quilograma);
+
+
+Modelo 2:
+
+
+V –
+
+dimensões: 2,5cm (dois centímetros e meio) de diâmetro e 2cm (dois centímetro) de altura;
+
+
+VI –
+
+forma: triangular;
+
+
+VII –
+
+dizeres: horizontalmente na base do triângulo a palavra " INSPECIONADO" com letras maiúsculas no centro, o número de registro da empresa no " SIM", imediatamente acima do número de registro será sigla da classificação do estabelecimento; no ápice do triângulo à sigla SIM e imediatamente abaixo o município " FOZ DO IGUAÇU", todos em letras maiúsculas, letra de forma " Times New Roman", em negrito;
+
+
+VIII –
+
+uso: embalagens e rótulos de produtos comestíveis com mais de 1,0Kg (um quilograma);
+
+
+Modelo 3:
+
+
+IX –
+
+dimensões: 7,5cm (sete centímetros e meio) de largura, por 5cm (cinco centímetros) de altura;
+
+
+X –
+
+forma: triangular;
+
+
+XI –
+
+dizeres: horizontalmente na base do triângulo a palavra " INSPECIONADO" com letras maiúsculas no centro o número de registro da empresa no " SIM", imediatamente acima do número de registro será sigla da classificação do estabelecimento; no ápice do triângulo à sigla SIM e imediatamente abaixo o município " FOZ DO IGUAÇU", todos em letras maiúsculas, letra de forma " Times New Roman", em negrito;
+
+
+XII –
+
+uso: carcaças de bovinos, bubalinos, suínos e ovinos em condições de consumo em natureza, aplicado externamente sobre as massas musculares de cada quarto;
+
+
+XIII –
+
+a tinta utilizada na carimbagem deve ser à base de violeta de metila;
+
+
+Modelo 4:
+
+
+XIV –
+
+dimensões: 1,5cm (um centímetro e meio) de largura, por 1cm (um centímetro) de altura;
+
+
+XV –
+
+forma: Triangular;
+
+
+XVI –
+
+dizeres: Horizontalmente na base do triângulo a palavra " INSPECIONADO" com letras maiúsculas no centro, o número de registro da empresa no " SIM", imediatamente acima do número de registro será sigla da classificação do estabelecimento. No ápice do triângulo à sigla SIM e imediatamente abaixo o município " FOZ DO IGUAÇU", todos em letras maiúsculas, letra de forma " Times New Roman", em negrito;
+
+
+XVII –
+
+uso: em produtos de origem animal e/ou derivados fracionados e temperados por autosserviços e supermercados com emissão de etiqueta em balança eletrônica juntamente com o nome do corte ou produto fracionado e temperado;
+
+
+Modelo 5:
+
+
+XVIII –
+
+dimensões: 8cm (oito centímetros) de largura, por 5cm (cinco centímetros) de altura;
+
+
+XIX –
+
+forma: Retangular;
+
+
+XX –
+
+dizeres: Horizontalmente na base do triângulo a palavra " SIM" com letras maiúsculas no centro a palavra " CONDENADO". No ápice do retângulo o município " FOZ DO IGUAÇU", XXI - uso: Uso para produtos condenados.
+
+
+§ 2º
+
+As carcaças de pequenos animais e aves de consumo serão isentas de carimbo direto no produto, desde que acondicionadas por peças, em embalagens individuais e invioláveis, devendo constar o carimbo juntamente com os demais dizeres exigidos no rótulo.
+
+
+§ 3º
+
+Será dispensado a aplicação de carimbo nas carcaças de bovinos, suínos e ovinos em estabelecimentos que realizam o abate e a desossa na mesma unidade industrial.
+
+
+Art. 90.
+
+Fica criado no âmbito do município, o carimbo de Inspeção Municipal, para uso exclusivo no SIM/POA.
+
+
+Art. 91.
+
+O carimbo de Inspeção Municipal é a identificação oficial usada unicamente em estabelecimento sujeito à fiscalização do SIM/POA, constituindo o sinal de garantia de que o produto foi inspecionado pela autoridade sanitária competente do município.
+
+
+Art. 92.
+
+O carimbo de Inspeção Municipal obedecerá exatamente à descrição e o modelo mencionado neste Decreto, devendo respeitar as dimensões, forma, dizeres e tipo, a ser usado nos estabelecimentos fiscalizados pelo SIM/POA.
+
+
+Art. 93.
+
+O carimbo utilizado durante o abate deve ficar sob a guarda do SIM/POA.
+
+
+Art. 94.
+
+Os carimbos destinados às carcaças de animais, obrigatoriamente deverão ser confeccionados em material de nylon ou cobre.
+
+
+#### CAPÍTULO X — DAS ANÁLISES LABORATORIAIS
+
+
+Art. 95.
+
+As matérias-primas, os produtos de origem animal e toda e qualquer substância que entre em suas elaborações, estão sujeitos a análises físicas, microbiológicas, físico-químicas, de biologia molecular, histológicas e demais análises que se fizerem necessárias para a avaliação da conformidade.
+
+
+Art. 96.
+
+As técnicas de exame e a orientação analítica serão as estabelecidas pelo SIM/POA.
+
+
+Parágrafo único
+
+Essas técnicas serão sempre atualizadas, aceitando o SIM/POA sugestões fundamentadas de laboratórios oficiais ou particulares para modificá-las.
+
+
+Art. 97.
+
+O exame físico-químico compreende:
+
+
+I –
+
+os caracteres organolépticos;
+
+
+II –
+
+princípios básicos ou composição centesimal;
+
+
+III –
+
+índices físicos e químicos;
+
+
+IV –
+
+corantes, conservadores ou outros aditivos;
+
+
+V –
+
+provas especiais de caracterização e verificação de qualidade;
+
+
+VI –
+
+análise físico-química da água que abastece os estabelecimentos sob Inspeção Municipal.
+
+
+Parágrafo único
+
+Os caracteres organolépticos, a composição centesimal e os índices físico-químicos serão enquadrados nos padrões normais, aprovados ou que venham a ser aprovados pelo SIM/POA.
+
+
+Art. 98.
+
+A orientação analítica obedecerá à seguinte seriação:
+
+
+I –
+
+caracteres organolépticos;
+
+
+II –
+
+pesquisas de corantes e conservantes;
+
+
+III –
+
+determinação de fraudes, falsificações e alterações;
+
+
+IV –
+
+verificação dos mínimos e máximos constantes na legislação e aprovados pelo SIM/POA, utilizando-se do conjunto de provas e dos elementos que constam das técnicas analíticas que acompanham esta Lei.
+
+
+Parágrafo único
+
+A variação anormal de qualquer índice (iodo, refração, saponificação e outros) será convenientemente pesquisada, para apuração das causas.
+
+
+Art. 99.
+
+O exame microbiológico deve verificar:
+
+
+I –
+
+presença de micro-organismos, quando se tratar de conservas submetidas à esterilização;
+
+
+II –
+
+presença de produtos do metabolismo bacteriano, quando necessário;
+
+
+III –
+
+contagem total de micro-organismos sobre produtos de origem animal e vegetal;
+
+
+IV –
+
+pesquisa e/ou contagem da flora determinada;
+
+
+V –
+
+pesquisa e/ou contagem de flora patogênica;
+
+
+VI –
+
+exame bacteriológico da água que abastece os estabelecimentos sob Inspeção Municipal;
+
+
+VII –
+
+exame bacteriológico de matérias-primas e produtos afins, empregados na elaboração de produtos de origem animal.
+
+
+Art. 100.
+
+A periodicidade e o tipo das análises laboratoriais dos produtos, água e outros, a serem efetuados pelo estabelecimento registrado será definido pelo SIM/POA, observando a legislação pertinente.
+
+
+§ 1º
+
+Para realização das análises referentes a produtos de origem animal, o SIM/POA poderá utilizar laboratórios da rede oficial e/ou credenciados, caso necessário.
+
+
+§ 2º
+
+A coleta de análises oficial é obrigatória, definida e realizada pelo responsável do SIM/POA, onde devem seguir os padrões de coleta de acordo com norma complementar.
+
+
+Art. 101.
+
+É de responsabilidade exclusiva do estabelecimento às despesas da realização e envio de análises laboratoriais constantes neste Decreto.
+
+
+Parágrafo único
+
+As análises laboratoriais deverão ser realizadas por laboratório autorizado e de idoneidade comprovada, e compreenderão as análises de composição, físico-química, microscópica e microbiológica, quando couber.
+
+
+Art. 102.
+
+Sempre que o SIM/POA julgar necessário realizará a coleta de amostras para análises laboratoriais.
+
+
+Art. 103.
+
+A coleta de amostra de matéria-prima, de produto ou de qualquer substância que entre em sua elaboração e de água de abastecimento para análise fiscal deve ser efetuada por servidor do SIM/POA.
+
+
+§ 1º
+
+A amostra deve ser coletada, sempre que possível, na presença do detentor do produto ou de seu representante.
+
+
+§ 2º
+
+Não deve ser coletada amostra de produto cuja identidade, composição, integridade ou conservação esteja comprometida.
+
+
+§ 3º
+
+É de responsabilidade do detentor do produto, a conservação de sua amostra de contraprova, de modo a garantir a sua integridade física.
+
+
+Art. 104.
+
+As amostras para análises devem ser coletadas, manipuladas, acondicionadas, identificadas e transportadas de modo a garantir a manutenção de sua integridade física e a conferir conservação adequada ao produto.
+
+
+Parágrafo único
+
+A autenticidade das amostras deve ser garantida pela autoridade sanitária competente pela coleta.
+
+
+Art. 105.
+
+Para realização das análises fiscais será colhida amostra em triplicata da matéria-prima, insumo ou produto a ser analisado, assegurando sua inviolabilidade e conservação, sendo a prova enviada ao laboratório, uma contraprova mantida sob a guarda do estabelecimento.
+
+
+§ 1º
+
+Quando as análises fiscais forem realizadas em produtos cuja quantidade ou a natureza da amostra não permitir a colheita em triplicata ou, ainda, em produtos que apresentem prazo de validade curto, uma única amostra será encaminhada para o laboratório, podendo o interessado designar um técnico capacitado para acompanhar a realização da análise fiscal.
+
+
+§ 2º
+
+Pode ser dispensada a colheita em triplicata quando se tratar de análises fiscais que, a critério do SIM/POA, possam ser realizadas durante os procedimentos de verificação oficial.
+
+
+§ 3º
+
+O número de amostras colhidas para análise microbiológica fiscal será conforme a amostragem prevista no Regulamento Técnico do produto ou em legislação específica, não cabendo contraprova.
+
+
+Art. 106.
+
+Sem embargos de outras ações pertinentes, na ocorrência de resultado não conforme em análises fiscais, o SIM/POA deverá:
+
+
+I –
+
+notificar o interessado dos resultados analíticos obtidos;
+
+
+II –
+
+lavrar o auto de infração.
+
+
+Art. 107.
+
+No caso de discordância do resultado, o interessado deverá comunicar que realizará a análise da contraprova em seu poder, dentro do prazo de 2 (dois) dias úteis da data da ciência do resultado.
+
+
+§ 1º
+
+Ao informar que realizará a análise de contraprova, o interessado indicará no ofício o nome do laboratório contratado e a data de envio da amostra, que deverá ser a amostra legítima (sem indícios de alteração ou violação) de contraprova que se encontre em poder do detentor ou interessado.
+
+
+§ 2º
+
+Para fins de contraprova, o laboratório deve ser credenciado pelo Ministério da Agricultura, Pecuária e Abastecimento - MAPA, para a análise da amostra em questão, e adotar os métodos oficiais de análise.
+
+
+§ 3º
+
+O laboratório deve atestar as condições de recebimento da contraprova, incluindo as condições do lacre e da embalagem (relatando eventuais indícios de violação), a temperatura de recebimento da amostra, o número do lacre, a marca do produto, o lote ou data de fabricação do produto.
+
+
+§ 4º
+
+Comprovada a violação ou o mau estado de conservação da amostra de contraprova, seu resultado será desconsiderado, sendo mantido o resultado da análise de fiscalização que será considerado o definitivo.
+
+
+§ 5º
+
+A não realização da análise da contraprova sob a guarda do interessado implicará aceitação do resultado da análise de fiscalização.
+
+
+Art. 108.
+
+Em caso de divergência entre os resultados da análise fiscal condenatória e da contraprova do estabelecimento, deverá ser realizado novo exame pericial sobre a amostra de contraprova em poder do SIM/POA, sendo o seu resultado considerado o definitivo.
+
+
+Art. 109.
+
+Nos casos de análises fiscais de produtos que não possuam Regulamentos Técnicos ou legislações específicas, permite-se o seu enquadramento nos padrões estabelecidos para um produto similar.
+
+
+Art. 110.
+
+A realização de análise fiscal não exclui a obrigatoriedade do estabelecimento de realizar análise de controle de seu processo produtivo, abrangendo aspectos tecnológicos, físico-químicos, toxicológicos e microbiológicos, seguindo métodos com reconhecimento técnico-científico comprovado e que disponham de evidências auditáveis pelo SIM/POA.
+
+
+#### CAPÍTULO XI — DO TRÂNSITO DE PRODUTOS DE ORIGEM ANIMAL
+
+
+Art. 111.
+
+Os produtos e matérias-primas de origem animal procedentes de estabelecimentos sob inspeção municipal, satisfeita as exigências deste Decreto, podem ser comercializados em qualquer parte do território municipal.
+
+
+Art. 112.
+
+Todos os produtos de origem animal, em trânsito, devem estar devidamente embalados, acondicionados e rotulados conforme prevê este Decreto, e podem ser reinspecionados pelo SIM/POA, quando julgar necessário.
+
+
+Art. 113.
+
+O trânsito de matérias-primas e de produtos de origem animal devem ser realizados por meio de transporte apropriado, de modo a garantir a manutenção de sua integridade e a permitir sua conservação.
+
+
+§ 1º
+
+Os veículos que transportam matérias-primas ou produtos de origem animal devem ser vistoriados e licenciados anualmente pela DVSIM e/ou outro órgão competente.
+
+
+§ 2º
+
+Os veículos, os contentores ou os compartimentos devem ser higienizados e desinfetados antes e após o transporte.
+
+
+§ 3º
+
+Os veículos, os contentores ou os compartimentos utilizados para o transporte de matérias-primas e de produtos frigorificados devem dispor de isolamento térmico e, quando necessário, de equipamento gerador de frio, além de instrumentos de controle de temperatura.
+
+
+#### CAPÍTULO XII — DAS RESPONSABILIDADES E DAS MEDIDAS CAUTELARES
+
+
+##### Seção I — Dos Responsáveis Pela Infração
+
+
+Art. 114.
+
+Serão responsabilizadas pela infração às disposições deste Decreto, para efeito da aplicação das penalidades nele previstas, as pessoas físicas ou jurídicas:
+
+
+I –
+
+fornecedores de matérias-primas ou de produtos de origem, desde a origem até o recebimento nos estabelecimentos registrados e/ou fiscalizados pelo SIM/POA;
+
+
+II –
+
+proprietários, locatários ou arrendatários de estabelecimentos registrados e/ou fiscalizados pelo SIM/POA onde forem recebidos, manipulados, beneficiados, processados, fracionados, industrializados, conservados, acondicionados, rotulados, armazenados, distribuídos ou expedidos matérias-primas ou produtos de origem animal;
+
+
+III –
+
+que expedirem ou transportarem matérias-primas ou produtos de origem animal; ou
+
+
+IV –
+
+responsável técnico do estabelecimento.
+
+
+Parágrafo único
+
+A responsabilidade a que se refere o caput abrange as infrações cometidas por quaisquer empregados ou preposto das pessoas físicas ou jurídicas que exerçam atividades industriais e comerciais de produtos de origem animal ou de matérias-primas.
+
+
+##### Seção II — Das Medidas Cautelares
+
+
+Art. 115.
+
+Se houver evidência ou suspeita de que a matéria-prima e/ou produto de origem animal represente risco à saúde pública ou em virtude de embaraço a ação fiscalizadora, o SIM/POA adotará, isolada ou cumulativamente, as seguintes medidas cautelares:
+
+
+I –
+
+apreensão do produto, dos rótulos ou das embalagens;
+
+
+II –
+
+suspensão provisória do processo de fabricação ou de suas etapas; ou
+
+
+III –
+
+coleta de amostras do produto para realização de análises laboratoriais;
+
+
+§ 1º
+
+Sempre que necessário, será determinada a revisão dos programas de autocontrole dos estabelecimentos.
+
+
+§ 2º
+
+As medidas cautelares adotadas devem ser proporcionais e tecnicamente relacionadas aos fatos que motivaram.
+
+
+§ 3º
+
+Quando a apreensão de produtos for motivada por deficiências de controle de processo de produção, as medidas cautelares poderão ser estendidas a outros lotes de produtos fabricados sob as mesmas condições.
+
+
+§ 4º
+
+As medidas cautelares adotadas cujas suspeitas que levaram a sua aplicação não forem confirmadas serão levantadas.
+
+
+§ 5º
+
+Após a identificação da causa da irregularidade e adoção das medidas corretivas cabíveis, deverá ser autorizada a retomada do processo de fabricação.
+
+
+§ 6º
+
+Quando for tecnicamente pertinente, a liberação de produtos apreendidos poderá ser condicionada à apresentação de laudos laboratoriais que evidenciem a inexistência da irregularidade.
+
+
+§ 7º
+
+Nos casos de apreensão, após reinspeção completa, as matérias-primas e os produtos podem ser condenados, pode ser autorizado o seu aproveitamento condicional ou liberados para a alimentação humana, conforme julgamento da autoridade sanitária.
+
+
+§ 8º
+
+O disposto no caput não afasta as competências de outros órgãos fiscalizadores, na forma da legislação.
+
+
+#### CAPÍTULO XIII — DAS INFRAÇÕES E DAS PENALIDADES
+
+
+##### Seção I — Das Infrações
+
+
+Art. 116.
+
+Considera-se infração sanitária a desobediência ou inobservância ao disposto em normas legais, regulamentares e outras que, por qualquer forma, se destinem a preservar a segurança e qualidade dos alimentos, objeto deste Decreto.
+
+
+Parágrafo único
+
+As infrações deste Decreto serão punidas administrativamente, em conformidade com a Lei Federal nº 7.889, de 23 de novembro de 1989 e outras que vierem a substituí-las, e, quando for o caso, mediante responsabilidade civil e criminal.
+
+
+Art. 117.
+
+As infrações sanitárias podem ser leves, moderadas, graves e gravíssimas.
+
+
+Art. 118.
+
+As infrações que envolvam o responsável técnico poderá ser comunicadas pela autoridade sanitária ao órgão de classe em que tenha registro o infrator.
+
+
+Art. 119.
+
+Constituem infrações ao disposto neste Decreto, além de outras previstas:
+
+
+I –
+
+construir, ampliar ou reformar instalações sem a prévia aprovação do SIM/POA;
+
+
+II –
+
+não realizar as transferência de responsabilidade ou deixar de notificar o comprador ou locatário ou o arrendatário sobre estas exigências legais, por ocasião da venda, locação ou arrendamento;
+
+
+III –
+
+utilizar rótulos que não atende ao disposto na legislação vigente;
+
+
+IV –
+
+expedir matérias-primas, ingredientes, produtos ou embalagens em condições inadequadas;
+
+
+V –
+
+ultrapassar a capacidade máxima de abate, industrialização, de beneficiamento ou de armazenagem;
+
+
+VI –
+
+expedir produtos sem rótulos ou produtos que não tenham sido registrados no SIM/POA;
+
+
+VII –
+
+desobedecer ou inobservar os preceitos de bem-estar animal;
+
+
+VIII –
+
+desobedecer ou inobservar as exigências sanitárias relativas ao funcionamento e a higiene das instalações, dos equipamentos, dos utensílios e dos trabalhos de manipulação e de preparo de matérias-primas e de produtos;
+
+
+IX –
+
+omitir elementos informativos sobre a composição centesimal e tecnológica do processo de fabricação;
+
+
+X –
+
+receber, utilizar, transportar, armazenar ou expedir matéria-prima, ingrediente ou produto desprovido da comprovação de sua procedência;
+
+
+XI –
+
+utilizar processo, substância, ingredientes ou aditivos que não atendem ao disposto na legislação vigente;
+
+
+XII –
+
+não cumprir prazos previstos nos documentos expedidos em resposta ao SIM/POA, relativos a planos de ação, fiscalizações, autuações, intimações ou notificações;
+
+
+XIII –
+
+adquirir, manipular, expedir ou distribuir produtos de estabelecimentos não registrados no serviço de inspeção;
+
+
+XIV –
+
+fabricar, expedir ou distribuir produtos com rotulagem falsificada;
+
+
+XV –
+
+utilizar produtos com prazo de validade vencida;
+
+
+XVI –
+
+fraudar registros sujeitos a verificação pelo SIM/POA;
+
+
+XVII –
+
+ceder ou utilizar em forma irregular lacres, carimbos oficiais, rótulos e embalagens;
+
+
+XVIII –
+
+adulterar, fraudar ou falsificar produtos e/ou matérias-primas de origem animal;
+
+
+XIX –
+
+simular a legalidade de matérias-prima, de ingredientes ou de produtos de origem desconhecida;
+
+
+XX –
+
+produzir e expedir produtos que representem risco à saúde pública;
+
+
+XXI –
+
+produzir ou expedir, para fins comestíveis, produtos impróprios ao consumo humano;
+
+
+XXII –
+
+fraudar documentos oficiais;
+
+
+XXIII –
+
+não realizar o recolhimento de produtos que possam incorrer em risco à saúde ou que tenham sido adulterados;
+
+
+XXIV –
+
+iniciar atividade sem atender exigências ou pendências estabelecidas por ocasião da concessão do certificado de registro;
+
+
+XXV –
+
+prestar ou apresentar informações, declarações ou documentos falsos ao SIM/POA;
+
+
+XXVI –
+
+apresentar resultado de análise laboratorial de produto, água ou matéria-prima em desacordo com os padrões estabelecidos em legislação vigente.
+
+
+Art. 120.
+
+Incluem-se entre as infrações previstas neste Decreto:
+
+
+I –
+
+atos que procurem embaraçar a ação dos servidores do SIM/POA no exercício de suas funções, visando impedir, dificultar ou burlar os trabalhos de fiscalização;
+
+
+II –
+
+desacato, suborno ou simples tentativa;
+
+
+III –
+
+informações inexatas sobre dados estatísticos referente à quantidade, à qualidade e à procedência dos produtos;
+
+
+IV –
+
+qualquer sonegação de informação de forma direta ou indiretamente que seja de interesse do SIM/POA.
+
+
+Art. 121.
+
+Para efeito das infrações previstas neste Decreto, as matérias-primas e os produtos podem ser considerados fraudados ou falsificados, da seguinte forma:
+
+
+I –
+
+fraudados:
+
+
+a)
+
+as matérias-primas e os produtos que tenham sido privados parcial ou totalmente de seus componentes característicos em razão da substituição por outros inertes ou estranhos e não atendam ao disposto na legislação específica;
+
+
+b)
+
+as matérias-primas e os produtos com adição de ingredientes, de aditivos, de coadjuvantes de tecnologia ou de substâncias com o objetivo de dissimular ou de ocultar alterações, deficiências de qualidade da matéria-prima ou defeitos na elaboração do produto;
+
+
+c)
+
+as matérias-primas e os produtos elaborados com adição de ingredientes, de aditivos, de coadjuvantes de tecnologia ou de substâncias com o objetivo de aumentar o volume ou de peso do produto; ou
+
+
+d)
+
+as matérias-primas e os produtos elaborados ou comercializados em desacordo com a tecnologia ou o processo de fabricação estabelecido em normas complementares ou em desacordo com o processo de fabricação registrado, mediante supressão, abreviação ou substituição de etapas essenciais para qualidade ou identidade do produto.
+
+
+II –
+
+falsificados:
+
+
+a)
+
+as matérias-primas e os produtos em que tenham sido utilizadas denominações diferentes das previstas neste Decreto, em normas complementares ou no registro de produtos junto ao SIM/POA;
+
+
+b)
+
+os que tenham sido elaborados, fracionados ou reembalados, expostos ou não ao consumo, com a aparência e as características gerais de um outro produto registrado junto SIM/POA e que se denominem como este, sem que o seja;
+
+
+c)
+
+as matérias-primas e os produtos que tenham sido elaborados de espécie diferente da declarada no rótulo ou divergente da indicada no registro do produto.
+
+
+d)
+
+as matérias-primas e os produtos que não tenham sofrido o processamento especificado em seu registro, expostos ou não ao consumo, e que estejam indicados como um produto processado;
+
+
+e)
+
+as matérias-primas e os produtos que sofram alterações no prazo de validade; ou
+
+
+f)
+
+as matérias-primas e os produtos que não atendam às especificações referentes à natureza ou à origem indicadas na rotulagem.
+
+
+##### Seção II — Das Penalidades
+
+
+Art. 122.
+
+Para imposição da pena e sua gradação, a autoridade competente deverá considerar:
+
+
+I –
+
+as circunstâncias atenuantes e agravantes;
+
+
+II –
+
+a gravidade do fato, tendo em vista as suas consequências à saúde ou economia públicas;
+
+
+III –
+
+a clandestinidade da atividade e as condições higiênicas, sanitárias e tecnológicas dos produtos;
+
+
+IV –
+
+os antecedentes e a conduta do infrator quanto à observância das normas sanitárias.
+
+
+Art. 123.
+
+São consideradas circunstâncias atenuantes:
+
+
+I –
+
+a ação do infrator não ter sido fundamental para a consecução do evento;
+
+
+II –
+
+ter procurado o infrator, por espontânea vontade, imediatamente reparar ou minorar as consequências do ato lesivo a saúde pública que lhe seja imputado;
+
+
+III –
+
+ter o infrator participado comprovadamente de todas as atividades de educação sanitária a que tenha sido convocado nos 12 meses anteriores à ocorrência da infração;
+
+
+IV –
+
+ter o infrator sofrido coação para a prática do ato;
+
+
+V –
+
+estar o infrator com toda a documentação de registro e funcionamento atualizada;
+
+
+VI –
+
+a infração cometida não incorrer diretamente em risco à saúde pública;
+
+
+VII –
+
+não ter o infrator cometido nenhuma infração nos últimos 12 meses anteriores à ocorrência da infração;
+
+
+VIII –
+
+cumprir integralmente o cronograma de plano de ação nos prazos fixados sem prorrogação.
+
+
+Art. 124.
+
+São consideradas circunstâncias agravantes:
+
+
+I –
+
+ser o infrator reincidente;
+
+
+II –
+
+ter o infrator cometido à infração para obter vantagem pecuniária decorrente do consumo pelo público do produto elaborado em contrário ao disposto na legislação;
+
+
+III –
+
+ter o infrator coagido outrem para a execução material da infração;
+
+
+IV –
+
+ter a infração consequências danosas a saúde pública ou ao consumidor;
+
+
+V –
+
+deixar de tomar as providências de sua alçada tendente a evitar ou minorar o dano, quando tenha conhecimento de ato lesivo à saúde pública;
+
+
+VI –
+
+ter o infrator fraudado, adulterado ou falsificado produtos, documentos, informações ou rótulos;
+
+
+VII –
+
+cometer o infrator ato de ameaça ou desrespeito a servidor no desempenho de suas competências legais de autoridade sanitária;
+
+
+VIII –
+
+cometer desobediência, bem como causar embargo, constrangimento ou obstáculo à atuação do servidor no desempenho de suas competências legais de autoridade sanitária;
+
+
+IX –
+
+valer-se de sábados, domingos, feriados ou período noturno para cometer infrações.
+
+
+Art. 125.
+
+Havendo concurso de circunstâncias atenuantes e agravantes a aplicação da pena considerará aquelas preponderantes.
+
+
+Art. 126.
+
+As penas administrativas a serem aplicadas poderão ser, conforme o caso de:
+
+
+I –
+
+advertência;
+
+
+II –
+
+multa;
+
+
+III –
+
+condenação dos produtos;
+
+
+IV –
+
+suspensão de registro do estabelecimento;
+
+
+V –
+
+cassação de registro.
+
+
+§ 1º
+
+As penas previstas poderão ser aplicadas isoladas ou cumulativamente, dependendo da gravidade da infração.
+
+
+§ 2º
+
+As penas administrativas serão aplicadas por fiscais lotados na DVSIM.
+
+
+Art. 127.
+
+As advertências serão aplicadas quando o infrator for primário e desde que não haja evidência de dolo ou má fé.
+
+
+Parágrafo único
+
+A pena de advertência será aplicada por escrito, mantendo seu registro no SIM/POA.
+
+
+Art. 128.
+
+A suspensão de registro será aplicada quando causar risco à saúde pública ou ameaça de natureza higiênico-sanitária.
+
+
+Parágrafo único
+
+A revogação da suspensão pelo fiscal do SIM/POA está condicionada ao ato comprovado de saneamento das irregularidades que ensejaram a medida administrativa. Não eximindo o proprietário ou responsável da autuação ou aplicação de outras penalidades.
+
+
+Art. 129.
+
+O registro será cassado quando for constatado que o funcionamento do estabelecimento pode pôr em risco a saúde pública ou no caso em que houver funcionamento sem autorização após a suspensão de registro pelo SIM/POA.
+
+
+Parágrafo único
+
+O estabelecimento poderá ter seu registro cassado quando não realizar a renovação anual por 2 (dois) anos consecutivos.
+
+
+Art. 130.
+
+As multas serão aplicadas nos casos de reincidência de conduta infringente ou quando houver manifesto dolo ou má-fé ou conforme a gravidade do caso.
+
+
+§ 1º
+
+Considera-se reincidência, a nova infração à legislação do SIM/POA, cometida pela mesma pessoa natural ou jurídica ou pelos sucessores dentro de cinco anos da data em que passar em julgado, administrativamente, a decisão condenatória referente à infração anterior.
+
+
+§ 2º
+
+A recorrência da reincidência torna o infrator passível de enquadramento no valor máximo da pena de multa em que for classificada a infração.
+
+
+§ 3º
+
+O montante da multa será estabelecido pela soma dos valores individualmente correspondentes às infrações cometidas e classificadas pela sua gravidade, em conformidade aos preceitos de gradação estabelecidos nesta seção.
+
+
+Art. 131.
+
+Para o cálculo da multa será adotada a Unidade Fiscal de Foz do Iguaçu - UFFI ou outro índice que vier a substituí-la.
+
+
+Parágrafo único
+
+Nenhuma multa poderá ser inferior a 2(dois) UFFI`s.
+
+
+Art. 132.
+
+Aos infratores poderão ser aplicadas multas nos seguintes casos:
+
+
+I –
+
+de 2 a 5 UFFI`s, nas faltas leves, quando:
+
+
+a)
+
+desobedecer a quaisquer exigências sanitárias em relação ao funcionamento do estabelecimento e a higiene do equipamento e dependências, bem como trabalhos de manipulação e preparo de matérias-primas, produtos e subprodutos;
+
+
+b)
+
+não conservar os equipamentos, utensílios e instalações do estabelecimento;
+
+
+c)
+
+não respeitar as temperaturas preconizadas pelas legislações específicas para ambientes com climatização obrigatória e para demais processos que exigem controle de temperatura;
+
+
+d)
+
+utilizar água não potável para elaboração de produtos, higienização de instalações, equipamentos, utensílios e na higiene pessoal dos colaboradores;
+
+
+e)
+
+permitir o livre acesso e trânsito no interior do estabelecimento de colaborador estranho ao processo ou visitantes sem estar devidamente uniformizados e autorizados;
+
+
+f)
+
+deixar de respeitar os períodos determinados pela legislação federal, estadual e municipal para descanso, jejum ou dieta hídrica que antecede à matança;
+
+
+g)
+
+deixar de encaminhar nos prazos determinados os dados de produção, de comercialização, lista de fornecedores ou qualquer outro documento solicitados pelo SIM/POA;
+
+
+h)
+
+deixar de fornecer ao SIM/POA os materiais, utensílios e demais itens regulamentados como obrigação pelo estabelecimento;
+
+
+i)
+
+deixar de promover continuamente nas instalações e áreas circulantes o combate a insetos, pragas e roedores transmissores de doenças, realizá-lo através do uso não autorizado, não supervisionado de produtos, agentes químicos ou biológicos ou permitir o acesso de pragas, insetos e roedores às instalações onde se processam produtos;
+
+
+j)
+
+deixar de cumprir os prazos apresentados e aprovados pelo SIM/POA no plano de ação ou ajuste de conduta apresentado pelo estabelecimento;
+
+
+k)
+
+manipular embalagens secundárias ou caixas plásticas que não tenham sido previamente higienizadas, nas áreas de produção até a finalização da embalagem primária;
+
+
+l)
+
+industrializar, elaborar ou manipular produtos sem a assistência de responsável técnico, legalmente habilitado quando a legislação assim o exigir;
+
+
+m)
+
+armazenar ou processar produtos em elaboração sem identificação que permita a sua rastreabilidade;
+
+
+n)
+
+deixar de realizar atualização dos dados de registro e/ou renovação do certificado sanitário anualmente do estabelecimento;
+
+
+o)
+
+permitir deposição de objetos pessoais ou equipamentos, em desuso ou estranhos à finalidade do local nas áreas de produção e armazenamento de alimentos, matérias-primas, aditivos e embalagens;
+
+
+p)
+
+desobedecer ou deixar de observar os preceitos de bem-estar animal disposto neste Decreto e normas complementares;
+
+
+II –
+
+de 6 a 10 UFFI`s, nas faltas consideradas moderadas, quando:
+
+
+a)
+
+não apresentarem a documentação necessária dos animais para o abate;
+
+
+b)
+
+deixar de fornecer à autoridade sanitária os atestados de saúde ocupacional atualizados de todos os manipuladores de alimentos ou permitir a permanência nas atividades de produção de pessoas que não possuam atestado de saúde ocupacional ou equivalentes;
+
+
+c)
+
+deixar de cumprir os prazos estipulados ou atos emanados das autoridades sanitárias competentes ou deixar de cumprir as exigências e os requisitos nele estabelecidos;
+
+
+d)
+
+estejam utilizando os equipamentos, utensílios e instalações para outros fins que não aqueles previamente estabelecidos;
+
+
+e)
+
+transportar produtos em veículos não licenciados, não aprovados, em condições higiênicas inadequadas e/ou em desacordo com a temperatura específica nos rótulos;
+
+
+f)
+
+aos que receberem e mantiverem guardados, em estabelecimentos registrados ou relacionados, ingredientes ou matérias-primas proibidas que possam ser utilizadas na fabricação de produtos;
+
+
+g)
+
+desenvolver atividades diversas de sua classificação de registro no SIM/POA;
+
+
+h)
+
+ultrapassar a capacidade máxima de abate, de industrialização, de beneficiamento, de armazenagem ou beneficiamento de produto;
+
+
+i)
+
+deixar de comunicar e solicitar a transferência de responsabilidade dos estabelecimentos registrados ou relacionados prevista neste Decreto ou deixar de fazer a notificação necessária ao comprador ou locatário sobre essa exigência legal por ocasião do processamento da venda, arrendamento ou locação;
+
+
+j)
+
+permitir o acesso de animais domésticos aos locais onde se encontram matérias-primas, materiais de envase, alimentos terminados ou a qualquer dependência na qual se processa alimentos e nos seus arredores;
+
+
+k)
+
+fazer, em qualquer meio de comunicação, propaganda enganosa, induzir consumidor a erro, informações que contradiz o rótulo ou informações falsas;
+
+
+l)
+
+apresentar resultado de análise laboratorial de produto, água ou matéria-prima em desacordo com os padrões estabelecidos.
+
+
+III –
+
+de 11 a 20 UFFI`, nas faltas consideradas graves, quando:
+
+
+a)
+
+omitir ou prestar informações falsas, dificultar o acesso a elas, ou deixar de proceder à entrega de documentos à autoridade sanitária no prazo fixado;
+
+
+b)
+
+comercializar produtos sem rótulos ou produtos que não tenham sido registrados no SIM/POA;
+
+
+c)
+
+elaborar produtos que não possuam processos de fabricação, de formulação e de composição registrados na DVSIM sem consentimento do SIM/POA;
+
+
+d)
+
+dificultar, burlar, embaraçar ou impedir as decisões e/ou ação da inspeção;
+
+
+e)
+
+não realizar o recolhimento de produtos que possam incorrer em risco a saúde pública ou que tenham sido adulterados;
+
+
+f)
+
+comercializar produtos de origem animal providos de rótulos inadequados ou nos quais não constem todas as informações exigidas na legislação do SIM/POA e/ou ANVISA;
+
+
+g)
+
+comercializar produtos de origem estrangeira sem o registro/habilitação no órgão competente.
+
+
+IV –
+
+de 21 a 40 UFFI`s, nas faltas consideradas gravíssimas, quando:
+
+
+a)
+
+construir, reformar, ampliar ou remodelar qualquer dependência, que altere o fluxo operacional ou caracterize aumento da capacidade de produção, dos estabelecimentos registrados ou relacionados sem prévia aprovação/autorização pelo SIM/POA;
+
+
+b)
+
+simular a legalidade de matérias-primas, de ingredientes ou de produtos de origem desconhecida;
+
+
+c)
+
+não notificar imediatamente ao SIM/POA da existência de doença, ainda que suspeita, de interesse à prevenção da saúde pública ou à defesa sanitária nos animais destinados ao abate ou à produção de matérias-primas;
+
+
+d)
+
+utilizar ou der destinação diversa da determinada pelo SIM/POA aos produtos de origem animal, matéria-prima ou qualquer outro componente interditado, apreendido utilizado na fabricação ou beneficiamento;
+
+
+e)
+
+não dar a devida destinação aos produtos condenados;
+
+
+f)
+
+fazer uso desautorizado de embalagens, carimbos ou rótulos de estabelecimentos registrados no SIM/POA;
+
+
+g)
+
+adquirir, manipular, expedir ou distribuir produtos fabricados em estabelecimentos não registrados no SIM/POA ou não permita sua comercialização no município local.
+
+
+h)
+
+adulterar, fraudar ou falsificar produtos e/ou matérias-primas de origem animal;
+
+
+i)
+
+abater animais sem a presença de inspetor oficial;
+
+
+j)
+
+receber, utilizar, transportar, armazenar ou expedir matérias-primas e de produtos condenados ou desprovidos da comprovação de sua procedência;
+
+
+k)
+
+houver cessão de embalagens rotuladas a terceiros, visando facilitar o comércio de produtos não inspecionados;
+
+
+l)
+
+desenvolver sem autorização do SIM/POA atividades nas quais estão suspensos ou interditados;
+
+
+m)
+
+desacatar, intimidar, retardar, ameaçar, agredir, tentar subornar servidor do SIM/POA;
+
+
+n)
+
+fraudar documentos fiscais;
+
+
+o)
+
+utilizar, sem autorização do SIM/POA, máquinas, equipamentos ou utensílios interditados;
+
+
+p)
+
+produzir ou expedir produtos que representem risco à saúde pública.
+
+
+§ 1º
+
+A critério do SIM/POA poderão ser enquadrados como infração nos diferentes valores de multas, atos ou procedimentos que não constem da presente relação, mas que violem as disposições deste Decreto ou da legislação pertinente.
+
+
+§ 2º
+
+As infrações estarão atreladas de acordo com a natureza e o tipo de classificação dos agentes, a critério do SIM/POA, o valor poderá ser equiparado à Lei Federal nº 14.515, de 29 dezembro de 2022 e suas atualizações.
+
+
+Art. 133.
+
+Quando a mesma conduta for passível de multa em mais de um dispositivo deste Decreto, prevalecerá o enquadramento no item mais específico em relação ao mais genérico.
+
+
+Art. 134.
+
+O não recolhimento da multa no prazo estipulado implicará cobrança judicial.
+
+
+Art. 135.
+
+A apreensão dos produtos possui caráter cautelar e visa à preservação da saúde pública, o fiscal competente deverá lavrar o Auto de Apreensão em 3 (três) vias ou de forma digital, nele consignando:
+
+
+I –
+
+identificação do proprietário ou responsável pelos produtos de origem animal apreendidos;
+
+
+II –
+
+a data, horário e local da apreensão;
+
+
+III –
+
+a descrição detalhada dos produtos de origem animal apreendidos especificando:
+
+
+a)
+
+sua quantidade, peso ou volume;
+
+
+b)
+
+sua espécie, variedade ou tipo.
+
+
+IV –
+
+o motivo e, caso for, a urgência sanitária da apreensão;
+
+
+V –
+
+os dispositivos legais ou regulamentares que motivam a apreensão;
+
+
+VI –
+
+a assinatura do proprietário ou responsável ou, na sua recusa, a identificação e firma de duas testemunhas;
+
+
+VII –
+
+a identificação e assinatura do emitente do Auto de Apreensão.
+
+
+Art. 136.
+
+As penalidades a que se refere o presente Decreto serão agravadas na reincidência.
+
+
+Art. 137.
+
+As penalidades referidas serão aplicadas sem prejuízo de outras que, por lei, possam ser impostas por autoridades de saúde pública, policial ou de defesa do consumidor.
+
+
+Art. 138.
+
+Para efeito de apreensão e/ou condenação, além dos casos específicos previstos, consideram-se impróprios para consumo, no todo ou em parte, os produtos de origem animal que:
+
+
+I –
+
+apresentam-se danificados por umidade ou fermentação, rançosos, mofados ou bolorentos, de caracteres físicos ou organolépticos anormais, contendo quaisquer sujidades ou que demonstrem pouco cuidado na manipulação, elaboração, preparo, conservação ou acondicionamento;
+
+
+II –
+
+houver indícios de adulteração, fraude ou falsificação;
+
+
+III –
+
+contiverem substâncias tóxicas ou nocivas à saúde;
+
+
+IV –
+
+estiver com prazo de validade expirado;
+
+
+V –
+
+não estiverem de acordo com o previsto no presente Decreto;
+
+
+VI –
+
+não apresentarem sinais característicos da realização de inspeção sanitária;
+
+
+VII –
+
+abate e/ou produtos clandestinos.
+
+
+§ 1º
+
+Na apreensão de matérias-primas, produtos, subprodutos e derivados em que não seja possível o seu recolhimento imediato, estes devem ficar sob a guarda de responsável pela produção ou de seu responsável técnico como fiel depositário.
+
+
+§ 2º
+
+O fiel depositário não pode usar, inutilizar, entregar ao consumo, desviar ou substituir o produto por outro, no todo ou em parte.
+
+
+§ 3º
+
+Outras situações não previstas nos incisos de I a VII deste artigo podem tornar as matérias-primas e os produtos impróprios para consumo humano, conforme critérios definidos pelo SIM/POA.
+
+
+Art. 139.
+
+Nos casos dispostos no art. 140 deste Decreto, independentemente de quaisquer outras penalidades que couber, serão adotados os seguintes critérios:
+
+
+I –
+
+nos casos de apreensão, após reinspeção completa, será autorizado o aproveitamento condicional que couber para alimentação humana, após o rebeneficiamento determinado pelo SIM/POA;
+
+
+II –
+
+nos casos de condenação, permite-se sempre aproveitamento das matérias-primas e produtos para fins não comestíveis ou alimentação de animais, em ambos os casos mediante critério do SIM/POA.
+
+
+Art. 140.
+
+O proprietário ou responsável pelos produtos apreendidos, de exíguo prazo de validade, poderá apresentar ao SIM/POA no prazo máximo de quarenta e oito horas, a solicitação da realização de exames ou reinspeção para provar que sua utilização ou consumo não expõe a risco a saúde pública.
+
+
+Art. 141.
+
+Os produtos condenados poderão ser objetos de doações a órgãos públicos ou a entidades filantrópicas, autorizados e inspecionados pelo SIM/POA, desde que não ofereçam riscos à saúde pública.
+
+
+Art. 142.
+
+O cancelamento de registro de produto deve ser aplicado sempre que se mostrar necessária para evitar risco ou dano à saúde pública ou quando constatada fabricação de produtos registrados de modo diferente do aprovado pelo SIM/POA em formulários próprios.
+
+
+§ 1º
+
+Também deve ser cancelado o registro de produto nos casos de não levantamento da suspensão de vendas ou de sua fabricação, decorridos 12 meses do respectivo ato que a originou.
+
+
+§ 2º
+
+O cancelamento de registro de produto não exime o autuado ou responsável da obrigação de sanar o problema que originou a infração, estando sujeito ainda à aplicação de outras penalidades.
+
+
+Art. 143.
+
+O SIM/POA pode divulgar, em casos de interesse público, por qualquer meio de comunicação disponível, as ações fiscais aplicadas e as informações pertinentes.
+
+
+Art. 144.
+
+O estabelecimento que possuir recorrentes condenações em processo administrativo por cometimento de infrações gravíssimas, no período de 12 meses, poderá ter o registro sanitário cancelado/ cassado.
+
+
+Art. 145.
+
+Sem prejuízo das demais sanções previstas em legislação específica, as multas podem ser reduzidas, considerando-se a condição econômica do infrator ou convertidas, total ou parcialmente, em execução compulsória de atividades de educação sanitária ou de investimentos corretivos no estabelecimento a critério do chefe da DVSIM.
+
+
+Art. 146.
+
+As infrações às disposições legais e regulamentares prescrevem em cinco anos.
+
+
+Art. 147.
+
+Não pode ser aplicada multa, sem que previamente seja lavrado o auto de infração detalhando a falta cometida, o artigo infringido, a natureza do estabelecimento, a respectiva localização e a firma responsável.
+
+
+Art. 148.
+
+O auto de infração deve ser assinado pelo servidor que constatar a infração, pelo proprietário do estabelecimento ou representantes da firma ou por duas testemunhas.
+
+
+Parágrafo único
+
+Sempre que o infrator se negar a assinar o auto de infração, será feita declaração a respeito no próprio auto, remetendo-se uma das vias ao proprietário da firma, responsável pelo estabelecimento, por correspondência registrada e mediante recibo.
+
+
+#### CAPÍTULO XIV — DOS PROCESSOS ADMINISTRATIVOS
+
+
+Art. 149.
+
+As normas e instruções referidas neste capítulo disciplinam o processo das autuações, das defesas e dos recursos, estabelecendo prazos, procedimentos e competências.
+
+
+Art. 150.
+
+O Auto de Infração é o documento gerador do Processo Administrativo Punitivo e deverá ser lavrado em 3 (três) vias ou de forma digital, pelo fiscal do SIM/POA com precisão, clareza, sem rasuras, sem emendas ou borrões, nos termos e modelos expedidos, devendo conter:
+
+
+I –
+
+nome do autuado, seu endereço, e-mail, bem como os demais elementos necessários à sua qualificação e identificação civil;
+
+
+II –
+
+data, local e hora na qual a irregularidade foi verificada;
+
+
+III –
+
+descrição da infração e dos dispositivos legais ou regulamentares infringidos;
+
+
+IV –
+
+assinatura do autuado, ou na sua recusa, a identificação e firma de duas testemunhas, dando-lhe ciência de que responderá pelo fato em processo administrativo;
+
+
+V –
+
+local, data e hora da autuação;
+
+
+VI –
+
+penalidades às quais o autuado está sujeito;
+
+
+VII –
+
+prazo e local para interposição e apresentação de defesa; e
+
+
+VIII –
+
+identificação e assinatura da autoridade autuante.
+
+
+§ 1º
+
+As incorreções ou omissões do Auto de Infração não acarretarão sua nulidade, quando nele constarem elementos suficientes para determinar com segurança a infração e possibilitar a defesa do autuado.
+
+
+§ 2º
+
+Havendo circunstâncias ou fatos impeditivos à lavratura do Auto de Infração no lugar onde as irregularidades foram verificadas, este documento poderá ser lavrado em qualquer outro local, neste caso encaminhando-o ao autuado pelas vias legais.
+
+
+Art. 151.
+
+O autuado deverá ser notificado do Auto de Infração e dos demais atos de fiscalização ou de inspeção das seguintes formas:
+
+
+I –
+
+pessoalmente, se esta forma de notificação não prejudicar a celeridade do procedimento ou se for inviável a notificação por outra via;
+
+
+II –
+
+por meios digitais de comunicação como e-mails e aplicativos de mensagens instantâneas;
+
+
+III –
+
+por via postal, desde que exista distribuição domiciliária na localidade de residência ou sede do notificado, com o devido Aviso de Recebimento - AR;
+
+
+IV –
+
+pelo Diário Oficial, caso o notificado esteja em lugar incerto e não sabido.
+
+
+§ 1º
+
+No caso do autuado ou das testemunhas recusarem-se a firmar a notificação ou o Auto de Infração, o fato deverá ser mencionado pela autoridade no documento lavrado, remetendo-se ao interessado uma de suas vias, nos termos dos incisos I a III ou, no caso destas formas restarem infrutíferas, do inciso IV deste artigo.
+
+
+§ 2º
+
+O Diário oficial referido no inciso IV deste artigo será publicado na Imprensa Oficial uma única vez, considerando-se efetivada a notificação 5 (cinco) dias após a publicação.
+
+
+§ 3º
+
+O prazo para o cumprimento da obrigação subsistente, em casos excepcionais, poderá ser prorrogado pelo Chefe da DVSIM que definirá os critérios e fatores determinantes.
+
+
+§ 4º
+
+O auto de infração poderá ser acompanhado de relatório técnico elaborado pelo fiscal que fez a infração para melhor esclarecimento do fato.
+
+
+Art. 152.
+
+A autoridade autuante é plenamente responsável pelas declarações que fizer nos documentos fiscais de sua lavra, estando sujeito às penalidades, por falta grave, em casos de falsidade ou omissão dolosa, em conduta apurada na forma regulamentar prevista.
+
+
+Art. 153.
+
+Lavrado o Auto de Infração, a autoridade autuante deverá:
+
+
+I –
+
+fornecer cópia da autuação ao proprietário pelo estabelecimento ou a quem o representa, informando-o do prazo concedido para contestar os motivos que o fundamentam e as penalidades a que está sujeito;
+
+
+II –
+
+vencido o prazo, apresentada ou não a defesa à autuação, remeter os autos acompanhados de relatório de ocorrência à DIRA;
+
+
+III –
+
+informar à DIRA histórico do autuado quanto à observância das normas de defesa sanitária animal, vegetal e bebidas.
+
+
+Art. 154.
+
+O autuado terá o prazo de 15 (quinze) dias do recebimento do Auto de Infração para apresentar sua defesa.
+
+
+§ 1º
+
+A contestação ou as razões de defesa do autuado deverão ser apresentadas por escrito, dirigidas e encaminhadas através do Protocolo Geral, da Prefeitura Municipal de Foz do Iguaçu, ao Diretor da DIRA.
+
+
+§ 2º
+
+Todos os prazos mencionados neste Decreto são contados nos termos da legislação vigente no ordenamento jurídico.
+
+
+Art. 155.
+
+O autuado terá o prazo de quarenta e oito horas para apresentar defesa e solicitar análise laboratorial quando o produto apreendido for perecível com validade exígua.
+
+
+Art. 156.
+
+A DIRA apreciará os aspectos técnicos relacionados à infração, bem como a defesa apresentada, onde poderá determinar o cumprimento de obrigações subsistentes por parte do autuado, encaminhando os autos ao chefe do DVSIM.
+
+
+Art. 157.
+
+Uma vez realizadas as diligências necessárias pelo SIM/POA os autos serão encaminhados ao Diretor da DIRA, o qual proferirá sobre os fatos relacionados à autuação, lavrando a decisão em primeira instância, em até 30 (trinta) dias, nela discriminando os motivos determinantes.
+
+
+Art. 158.
+
+Da decisão de primeira instância cabe recurso ao Secretário Municipal onde estiver alocada a DVSIM, interposto no prazo de 15 (quinze) dias a contar da ciência do autuado, da decisão final.
+
+
+Art. 159.
+
+Ao Secretário Municipal onde estiver alocada a DIRA, poderá solicitar parecer jurídico da Procuradoria Geral do Município - PGM, procederá à análise detalhada dos fatos relacionados, até 30 (trinta) dias, à autuação e depois lavrará a decisão final em segunda instância, nela discriminando os motivos determinantes.
+
+
+Art. 160.
+
+A multa gerada pela DVSIM será executada pela Secretaria da Fazenda.
+
+
+#### CAPÍTULO XV — DA ORGANIZAÇÃO E ESTRUTURA DO SIM/POA
+
+
+Art. 161.
+
+O SIM/POA deverá dispor de pessoal técnico de nível superior e nível médio em número adequado, devidamente capacitados para realização de inspeção sanitária ante e post-mortem e tecnológica, obedecendo à legislação vigente.
+
+
+§ 1º
+
+A inspeção ante e post-mortem é privativa do Médico Veterinário.
+
+
+§ 2º
+
+O profissional de nível médio, técnico em agricultura, deve ser habilitado para desempenhar trabalhos de fiscalização no campo de:
+
+
+I –
+
+da higiene pública e sanitária;
+
+
+II –
+
+como inspecionar ambientes e estabelecimentos de alimentação e autosserviços, auxiliar nas inspeções de agroindústrias, verificando o cumprimento das normas de higiene sanitária contidas na legislação em vigor; proceder à fiscalização dos estabelecimentos de venda e produção de gêneros alimentícios, inspecionando a qualidade, o estado de conservação e as condições de armazenamento dos produtos oferecidos ao consumo; executar trabalhos e controles administrativos do serviço de inspeção, exercer atividades de planejamento, coordenação e execução das ações de fiscalização sanitária; fiscalizar a qualidade das águas de uso coletivo; emitir laudos e pareceres sobre assuntos de sua responsabilidade.
+
+
+Art. 162.
+
+O SIM/POA deve dispor de meios para registro em compilação dos dados estatísticos referentes ao abate, industrialização de carnes, produção de leite e derivados, condenações e outros dados que porventura se tornem necessários.
+
+
+Parágrafo único
+
+O Serviço de Inspeção deve ter estrutura para arquivar fisicamente ou digitalmente os documentos, sendo que a metodologia está descrita em norma complementar.
+
+
+Art. 163.
+
+O SIM/POA necessitará ter veículos a sua disposição ou outro meio que viabilize a locomoção do seu pessoal, até os locais de fiscalização, além de espaço físico e equipamentos necessários à execução das atribuições.
+
+
+#### CAPÍTULO XVI — DAS OBRIGAÇÕES DO RESPONSÁVEL TÉCNICO
+
+
+Art. 164.
+
+Compete ao Responsável Técnico garantir a execução do disposto neste Decreto e demais normas pertinentes, o acompanhamento das atividades de produção, a rotulagem e o registro dos produtos, a descrição do memorial econômico sanitário, as orientações sanitárias quanto à infraestrutura do estabelecimento, o controle de qualidade em todas as fases de manipulação do produto, o treinamento e a orientação da equipe de trabalho, incluídas as atividades de Educação sanitária, a elaboração, implementação do Programa de Autocontrole do estabelecimento, incluindo a identificação de pontos criativos de controle, bem como outras atividades.
+
+
+Parágrafo único
+
+Nos estabelecimentos em que uma ou mais das competências previstas no caput deste artigo sejam delegadas a terceiros, é obrigação do Responsável Técnico supervisionar e avaliar as atividades desempenhadas.
+
+
+Art. 165.
+
+Todo responsável técnico que presta algum tipo de serviço vinculados com as classificação nacional atividade econômica - CNAE de interesse da SMDC deverá estar inscritos e quites com o município.
+
+
+Parágrafo único
+
+Só poderão ser inscritos os profissionais devidamente registrados no órgão de classe.
+
+
+Art. 166.
+
+O Responsável Técnico deve registrar em documentos auditáveis, a cada vistoria, todas as ações adotadas ou recomendadas no estabelecimento, com assinatura e data.
+
+
+Art. 167.
+
+O Responsável Técnico responderá solidariamente com a direção do estabelecimento pela qualidade dos produtos.
+
+
+Art. 168.
+
+O Responsável Técnico, quando finalizar ou rescindir o contrato de prestação de serviço com o estabelecimento, deve comunicar a DVSIM, por meio do protocolo digital anexando os documentos como: o recolhimento da taxa e o requerimento da baixa da anotação de responsabilidade técnica.
+
+
+#### CAPÍTULO XVII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 169.
+
+As matérias-primas de origem animal que derem entrada em indústria e/ou no comércio do próprio Município deverão proceder de estabelecimento sob inspeção industrial e sanitária, de órgão federal ou equivalente, estadual ou do próprio município devidamente identificado por rótulos, carimbos, documentos sanitários e fiscais pertinentes.
+
+
+Art. 170.
+
+Todos os ingredientes, aditivos e outros produtos que venham a compor qualquer tipo de massa, deverão ter aprovação nos órgãos competentes do Ministério da Saúde.
+
+
+Art. 171.
+
+O SIM/POA poderá adotar procedimentos complementares de inspeção e fiscalização decorrentes da existência ou suspeita de:
+
+
+I –
+
+doença exótica ou não;
+
+
+II –
+
+surtos; ou
+
+
+III –
+
+quaisquer outros eventos que possam comprometer a saúde pública e saúde animal.
+
+
+Parágrafo único
+
+Quando nas atividades de fiscalização e inspeção sanitária, houver suspeita de doenças infectocontagiosas de notificação imediata, o SIM/POA deve notificar o serviço oficial de saúde animal.
+
+
+Art. 172.
+
+O SIM/POA promoverá estreita cooperação e ou parceria com os órgãos congêneres, no sentido de se obter o máximo de eficiência nos trabalhos de inspeção industrial e sanitária.
+
+
+Art. 173.
+
+O Fiscal do SIM/POA sempre que julgar necessário poderá requisitar força policial e/ou outros órgãos fiscalizadores para exercer suas atribuições.
+
+
+Art. 174.
+
+Sempre que possível, a SMDC deve possibilitar a seus técnicos a realização de estágios e cursos, participação em seminários, fóruns e congressos relacionados com os objetivos deste Regulamento.
+
+
+Art. 175.
+
+A DVSIM poderá, em conjunto com outros órgãos públicos, realizar os serviços de fiscalização dos produtos de origem animal.
+
+
+Art. 176.
+
+Em ocorrências de violação das normas sanitárias, de industrialização dos produtos que impliquem em risco a saúde pública e em caso de denúncia ou suspeita de fraudes, adulterações e falsificações ou outras situações que julgar necessário, o SIM/POA poderá solicitar um Regime Especial de Fiscalização (REF).
+
+
+Art. 177.
+
+Sempre que necessário, o presente Decreto poderá ser revisto, modificado ou atualizado.
+
+
+Art. 178.
+
+O SIM/POA adotará as normas complementares estabelecidas pelo Departamento de Inspeção de Produtos de Origem Animal/MAPA nos casos em que não possua legislação própria.
+
+
+Art. 179.
+
+Os casos omissos ou dúvidas que surgirem na implantação e execução do presente Decreto serão resolvidos pelo Chefe do DVSIM e/ou os gestores municipais, podendo ser detalhados por atos normativos do SIM/POA.
+
+
+Art. 180.
+
+Os estabelecimentos que na data da publicação deste Decreto e atos complementares estiverem funcionando sem qualquer tipo de fiscalização legal terão prazo de 90 (noventa) dias para apresentar a documentação necessária para a regularização.
+
+
+Art. 181.
+
+As despesas decorrentes deste Decreto serão atendidas através de dotações orçamentárias próprias.
+
+
+Art. 182.
+
+Os estabelecimentos de Inspeção Permanente ou Periódica terão sua carga horária estabelecida no cronograma de trabalho, de acordo com a classificação análise de risco do estabelecimento, podendo ser consideradas para efeito de cobrança da taxa de inspeção mensal.
+
+
+Art. 183.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 5 de janeiro de 2024.  
+  
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Eliane Dávilla Sávio  
+Secretária Municipal da Administração  
+  
+Andreia Nagel Engler  
+Secretária Municipal de Desenvolvimento Comercial, Industrial e Agropecuário - Interina
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

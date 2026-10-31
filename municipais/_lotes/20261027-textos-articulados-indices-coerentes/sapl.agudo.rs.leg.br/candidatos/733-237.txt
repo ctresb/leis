@@ -1,0 +1,933 @@
+DISPÕE SOBRE O QUADRO DE CARGOS E FUNÇÕES PÚBLICAS DO MUNICÍPIO DE AGUDO, ESTABELECE O PLANO DE CARREIRA DOS SERVIDORES E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+PEDRO ÁLVARO MÜLLER, PREFEITO MUNICIPAL DE AGUDO, no uso das atribuições legais que lhe confere a Lei Orgânica Municipal.  
+FAÇO SABER, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O serviço público centralizado do Executivo Municipal, é integrado pelos seguintes Quadros:
+
+
+I –
+
+Quadro de Cargos de Provimento Efetivo;
+
+
+II –
+
+Quadro de Cargos em Comissão e Funções Gratificadas.
+
+
+Art. 2º.
+
+Para efeitos desta Lei, considera-se:
+
+
+I –
+
+cargo, o conjunto de atribuições e responsabilidades cometidas a um servidor público, mantidas as características de criação por lei, denominação própria, numero certo e retribuição pecuniária padronizada;
+
+
+II –
+
+categoria funcional, o agrupamento de cargos da mesma denominação, com iguais atribuições e responsabilidades, constituída de padrões e classes;
+
+
+III –
+
+carreira, o conjunto de cargos de provimento efetivo para os quais 05 servidores poderão ascender através das classes, mediante promoção;
+
+
+IV –
+
+padrão, a identificação numérica do valor do vencimento da categoria funcional;
+
+
+V –
+
+classe, a graduação de retribuição pecuniária dentro da categoria funcional, constituindo a linha de promoção;
+
+
+VI –
+
+promoção, a passagem do servidor de uma determinada classe para a imediatamente superior da mesma categoria funcional.
+
+
+#### CAPÍTULO II — DO QUADRO DOS CARGOS DE PROVIMENTO EFEITO
+
+
+##### Seção I — Das categorias funcionais
+
+
+Art. 3º.
+
+O Quadro de Cargos de Provimento Efetivo é integrado pelas seguintes categorias funcionais, com o respectivo número de cargos, padrão de vencimentos e jornada de trabalho:
+
+Alteração feita pelo Art. 1º. - Lei nº 2.739, de 25 de setembro de 2026.
+
+
+<table><tbody><tr><td>Denominação da Categoria Funcional</td><td>Nº de Cargos</td><td>Padrão</td><td>Jornada de Trabalho</td></tr><tr><td>MÉDICO CLÍNICO GERAL</td><td>08</td><td>12</td><td>20</td></tr><tr><td>MÉDICO GINECOLOGISTA E OBSTETRA</td><td>01</td><td>12</td><td>20</td></tr><tr><td>MÉDICO PEDIATRA</td><td>01</td><td>12</td><td>20</td></tr><tr><td>MÉDICO PSIQUIATRA</td><td>01</td><td>12</td><td>20</td></tr><tr><td>ARQUITETO E URBANISTA</td><td>01</td><td>11</td><td>40</td></tr><tr><td>ARQUIVISTA</td><td>01</td><td>11</td><td>40</td></tr><tr><td>ASSISTENTE SOCIAL</td><td>03</td><td>11</td><td>30</td></tr><tr><td>CONTADOR</td><td>02</td><td>11</td><td>40</td></tr><tr><td>ENFERMEIRO</td><td>03</td><td>11</td><td>40</td></tr><tr><td>ENGENHEIRO AGRÔNOMO</td><td>01</td><td>11</td><td>40</td></tr><tr><td>ENGENHEIRO CIVIL</td><td>02</td><td>11</td><td>40</td></tr><tr><td>ENGENHEIRO FLORESTAL</td><td>01</td><td>11</td><td>40</td></tr><tr><td>FARMACÊUTICO</td><td>01</td><td>11</td><td>40</td></tr><tr><td>FISCAL AMBIENTAL</td><td>01</td><td>11</td><td>40</td></tr><tr><td>FISCAL DE TRIBUTOS MUNICIPAIS</td><td>01</td><td>11</td><td>40</td></tr><tr><td>FISIOTERAPEUTA</td><td>02</td><td>11</td><td>30</td></tr><tr><td>FONOAUDIÓLOGO</td><td>01</td><td>11/2</td><td>20</td></tr><tr><td>MÉDICO VETERINÁRIO</td><td>02</td><td>11</td><td>40</td></tr><tr><td>NUTRICIONISTA</td><td>02</td><td>11</td><td>40</td></tr><tr><td>ODONTÓLOGO</td><td>04</td><td>11</td><td>40</td></tr><tr><td>PROCURADOR JURÍDICO</td><td>01</td><td>11</td><td>20</td></tr><tr><td>PSICÓLOGO</td><td>04</td><td>11</td><td>40</td></tr><tr><td>TERAPEUTA OCUPACIONAL</td><td>01</td><td>11/2</td><td>20</td></tr><tr><td>TÉCNICO EM CONTABILIDADE</td><td>03</td><td>10</td><td>40</td></tr><tr><td>TESOUREIRO</td><td>01</td><td>09</td><td>40</td></tr><tr><td>FISCAL</td><td>02</td><td>08</td><td>40</td></tr><tr><td>OFICIAL ADMINISTRATIVO</td><td>02</td><td>08</td><td>40</td></tr><tr><td>OFICIAL PREVIDENCIÁRIO</td><td>01</td><td>08</td><td>40</td></tr><tr><td>AUXILIAR ADMINISTRATIVO</td><td>30</td><td>07</td><td>40</td></tr><tr><td>TÉCNICO EM ENFERMAGEM</td><td>09</td><td>07</td><td>40</td></tr><tr><td>TÉCNICO EM INFORMÁTICA</td><td>01</td><td>07</td><td>40</td></tr><tr><td>TÉCNICO EM SEGURANÇA DO TRABALHO</td><td>01</td><td>07</td><td>40</td></tr><tr><td>ALMOXARIFE</td><td>01</td><td>06</td><td>44</td></tr><tr><td>AUXILIAR DE ENFERMAGEM</td><td>02</td><td>06</td><td>40</td></tr><tr><td>AUXILIAR DE SAÚDE BUCAL</td><td>01</td><td>06</td><td>40</td></tr><tr><td>MECÂNICO</td><td>02</td><td>06</td><td>44</td></tr><tr><td>OPERADOR DE MÁQUINAS</td><td>25</td><td>06</td><td>44</td></tr><tr><td>MOTORISTA</td><td>28</td><td>05</td><td>44</td></tr><tr><td>SECRETÁRIO DE ESCOLA</td><td>11</td><td>05</td><td>40</td></tr><tr><td>LAVADOR E LUBRIFICADOR DE VEÍCULOS</td><td>02</td><td>05</td><td>44</td></tr><tr><td>PEDREIRO</td><td>05</td><td>04</td><td>44</td></tr><tr><td>TELEFONISTA-RECEPCIONISTA</td><td>12</td><td>04</td><td>40</td></tr><tr><td>VIVEIRISTA</td><td>01</td><td>04</td><td>44</td></tr><tr><td>AGENTE COMUNITÁRIO DE SAÚDE</td><td>15</td><td>5A</td><td>40</td></tr><tr><td>AGENTE DE COMBATE A ENDEMIAS</td><td>02</td><td>5A</td><td>40</td></tr><tr><td>CALCETEIRO</td><td>6</td><td>03</td><td>44</td></tr><tr><td>ELETRICISTA</td><td>04</td><td>03</td><td>44</td></tr><tr><td>PINTOR</td><td>03</td><td>03</td><td>44</td></tr><tr><td>AUXILIAR DE SERVIÇOS MÉDICOS</td><td>01</td><td>02</td><td>40</td></tr><tr><td>MONITOR DE ESCOLA</td><td>30</td><td>02</td><td>44</td></tr><tr><td>ZELADOR DE CEMITÉRIO</td><td>01</td><td>02</td><td>44</td></tr><tr><td>MERENDEIRA-SERVENTE</td><td>60</td><td>01</td><td>44</td></tr><tr><td>OPERÁRIO</td><td>50</td><td>01</td><td>44</td></tr></tbody></table>
+
+Alteração feita pelo Art. 1º. - Lei nº 2.739, de 25 de setembro de 2026.
+
+
+##### Seção II — Das especificações das categorias funcionais
+
+
+Art. 4º.
+
+Especificações de categorias funcionais, para os efeitos desta Lei, é a diferenciação de cada uma relativamente às atribuições, responsabilidades e dificuldades de trabalho, bem como às qualificações exigíveis para o provimento dos cargos que a integram.
+
+
+Art. 5º.
+
+A especificação de cada categoria funcional deverá conter:
+
+
+I –
+
+denominação de cada categoria funcional;
+
+
+II –
+
+padrão de vencimento;
+
+
+III –
+
+descrição sintética e analítica das atribuições;
+
+
+IV –
+
+condições de trabalho, incluindo o horário semanal e outras específicas; e
+
+
+V –
+
+requisitos para provimento, abrangendo o nível de instrução, a idade e outros especiais de acordo com as atribuições do cargo.
+
+
+Art. 6º.
+
+As especificações das categorias funcionais criadas pela presente Lei são as que constituem o ANEXO I, que é parte integrante desta Lei.
+
+
+##### Seção III — Do recrutamento dos servidores
+
+
+Art. 7º.
+
+O recrutamento para os cargos efetivos far-se-á para a classe inicial de cada categoria funcional, mediante concurso público, nos termos disciplinados no regime jurídico dos servidores.
+
+
+Art. 8º.
+
+O servidor que por força de concurso público for provido em cargo de outra categoria funcional, será enquadrado na classe "A" da respectiva categoria, iniciando nova contagem de tempo de exercício para fins de promoção.
+
+
+##### Seção IV — Do treinamento
+
+
+Art. 9º.
+
+A administração Municipal promoverá treinamento para os seus servidores sempre que verificada a necessidade de melhor capacitá-los para o desempenho de suas funções, visando dinamizar a execução das atividades dos diversos órgãos.
+
+
+Art. 10.
+
+O treinamento será considerado interno quando desenvolvido pelo próprio Município, atendendo as necessidades verificadas, e externo quando executado por órgão ou entidade especializada.
+
+
+##### Seção V — Da promoção
+
+
+Art. 11.
+
+A promoção será realizada dentro da mesma categoria funcional mediante a passagem do servidor de uma determinada classe para a imediatamente superior.
+
+
+Art. 12.
+
+Cada categoria funcional terá seis classes, designadas pelas letras A, B, C, D, E e F sendo esta última a final da carreira.
+
+Alteração feita pelo Art. 3º. - Lei nº 1.823, de 16 de agosto de 2011.
+
+
+Art. 13.
+
+Cada cargo se situa dentro da categoria funcional inicialmente na classe "A" e a ela retorna quando vago.
+
+
+Art. 14.
+
+As promoções obedecerão ao critério de tempo de exercício em cada classe e ao de merecimento.
+
+
+Art. 15.
+
+O tempo de serviço na classe imediatamente anterior, para fins de promoção para a seguinte será:
+
+
+I –
+
+de quatro anos para a classe B;
+
+Alteração feita pelo Art. 3º. - Lei nº 1.823, de 16 de agosto de 2011.
+
+
+II –
+
+de cinco anos para a classe C;
+
+Alteração feita pelo Art. 3º. - Lei nº 1.823, de 16 de agosto de 2011.
+
+
+III –
+
+de seis anos para a classe D;
+
+Alteração feita pelo Art. 3º. - Lei nº 1.823, de 16 de agosto de 2011.
+
+
+IV –
+
+sete anos para a classe E;
+
+Alteração feita pelo Art. 3º. - Lei nº 1.823, de 16 de agosto de 2011.
+
+
+V –
+
+cinco anos para a classe F.
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.823, de 16 de agosto de 2011.
+
+
+Art. 16.
+
+Merecimento é a demonstração positiva do servidor no exercício do seu cargo e se evidencia pelo desempenho de forma eficiente, dedicada e leal das atribuições que lhe são cometidas, bem como pela sua assiduidade, pontualidade e disciplina.
+
+
+§ 1º
+
+Em princípio, todo servidor tem merecimento para ser promovido de classe.
+
+
+§ 2º
+
+Fica prejudicado o merecimento, acarretando à interrupção da contagem do tempo de exercício para fins de promoção, sempre que o servidor:
+
+
+I –
+
+somar duas penalidades de advertência;
+
+
+II –
+
+sofrer pena de suspensão disciplinar, mesmo que convertida em multa;
+
+
+III –
+
+Completar três faltas injustificadas ao serviço;
+
+
+IV –
+
+somar dez atrasos de comparecimento ao serviço e/ou saídas antes do horário marcado para término da jornada;
+
+
+§ 3º
+
+sempre que ocorrer qualquer das hipóteses previstas no parágrafo anterior, iniciar-se-á nova contagem para fins do tempo exigido para promoção.
+
+
+Art. 17.
+
+Suspendem a contagem do tempo para fins de promoção:
+
+
+I –
+
+as licenças e afastamentos sem direito à remuneração;
+
+
+II –
+
+as licenças para tratamento de saúde no que excederem de noventa dias, mesmo quando em prorrogação, exceto as decorrentes de acidente em serviço;
+
+
+III –
+
+as licenças para tratamento de saúde em pessoa da família.
+
+
+Art. 18.
+
+A promoção terá vigência a partir do mês seguinte àquele em que o servidor completar o tempo de exercício exigido.
+
+
+#### CAPÍTULO III — DO QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+Art. 21.
+
+O provimento das funções gratificadas é privativo de servidor público efetivo do Município ou posto à disposição do Município sem prejuízo de seus vencimentos no órgão de origem.
+
+
+Parágrafo único.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 957, de 27 de janeiro de 1995.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+#### CAPÍTULO IV — DAS TABELAS DE PAGAMENTO DOS CARGOS E FUNÇÕES GRATIFICADAS
+
+
+Art. 24.
+
+Os vencimentos dos cargos e o valor das funções gratificadas serão obtidos através da multiplicação dos coeficientes respectivos pelo valor atribuído ao padrão referencial fixado no artigo 28, conforme segue:
+
+
+I –
+
+Cargos de Provimento Efetivo
+
+Alteração feita pelo Art. 1º. - Lei nº 2.727, de 03 de julho de 2026.
+
+
+<table><tbody><tr><td>Padrão</td><td colspan="6"><br>Coeficientes segundo a classe<br><br></td></tr><tr><td>-</td><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td></tr><tr><td>01</td><td>1,65</td><td>1,82</td><td>1,98</td><td>2,15</td><td>2,31</td><td>2,48</td></tr><tr><td>02</td><td>1,85</td><td>2,04</td><td>2,22</td><td>2,41</td><td>2,59</td><td>2,78</td></tr><tr><td>03</td><td>2,05</td><td>2,26</td><td>2,46</td><td>2,67</td><td>2,87</td><td>3,08</td></tr><tr><td>04</td><td>2,25</td><td>2,48</td><td>2,70</td><td>2,93</td><td>3,15</td><td>3,38</td></tr><tr><td>05</td><td>2,75</td><td>3,03</td><td>3,30</td><td>3,58</td><td>3,85</td><td>4,13</td></tr><tr><td>05A</td><td>3,50</td><td>3,60</td><td>3,70</td><td>3,84</td><td>4,13</td><td>4,43</td></tr><tr><td>06</td><td>3,25</td><td>3,58</td><td>3,90</td><td>4,23</td><td>4,55</td><td>4,88</td></tr><tr><td>07</td><td>3,63</td><td>3,99</td><td>4,36</td><td>4,72</td><td>5,08</td><td>5,45</td></tr><tr><td>08</td><td>4,38</td><td>4,82</td><td>5,26</td><td>5,69</td><td>6,13</td><td>6,57</td></tr><tr><td>09</td><td>5,38</td><td>5,92</td><td>6,49</td><td>6,99</td><td>7,53</td><td>8,07</td></tr><tr><td>10</td><td>7,13</td><td>7,84</td><td>8,56</td><td>9,27</td><td>9,98</td><td>10,70</td></tr><tr><td>11</td><td>9,13</td><td>10,04</td><td>10,96</td><td>11,87</td><td>12,78</td><td>13,70</td></tr><tr><td>11/2</td><td>4,56</td><td>5,02</td><td>5,48</td><td>5,93</td><td>6,39</td><td>6,85</td></tr><tr><td>12</td><td>13,70</td><td>13,97</td><td>14,25</td><td>14,52</td><td>14,80</td><td>15,07</td></tr></tbody></table>
+
+Alteração feita pelo Art. 1º. - Lei nº 2.727, de 03 de julho de 2026.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 19. - Lei nº 2.590, de 23 de janeiro de 2025.
+
+
+Art. 25.
+
+Os valores decorrentes da multiplicação do coeficiente pelo valor do padrão referencial, serão arredondados para a unidade de cruzeiro seguinte.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+
+Art. 26.
+
+Ficam extintos todos os cargos, empregos públicos e funções gratificadas existentes na administração centralizada do Executivo Municipal anteriores à vigência desta Lei.
+
+
+Parágrafo único.
+
+Excetuam-se no disposto neste artigo os cargos do Magistério Público Municipal, que terão quadro específico.
+
+
+Art. 27.
+
+Os atuais servidores concursados do Município, ocupantes dos cargos ou empregos públicos extintos pelo artigo 26 e os ocupantes de cargos em extinção serão enquadrados em cargos de categorias funcionais criadas por esta Lei, observadas as seguintes normas:
+
+
+I –
+
+correspondência entre o cargo ou emprego exercido e a nova categoria funcional, conforme previsto no Anexo II, desta Lei;
+
+
+II –
+
+enquadramento de uma das classes da categoria funcional, segundo o tempo de serviço prestado ao Município até a data de vigência desta Lei, conforme segue:
+
+
+a)
+
+na classe A, os que contem até quatro anos;
+
+
+b)
+
+na classe B, os que contem mais de quatro até nove anos;
+
+
+c)
+
+na classe C, os que contem mais de nove até quinze anos;
+
+
+d)
+
+na classe D, os que contém mais de quinze até vinte e dois anos;
+
+
+e)
+
+na classe E, os que contem mais de vinte e dois anos.
+
+
+Art. 28.
+
+O valor do PR – Padrão Referencial é fixado em lei específica.
+
+Alteração feita pelo Art. 1º. - Lei nº 1.849, de 18 de janeiro de 2012.
+
+
+Art. 29.
+
+Os concursos realizados ou em andamento na data de vigência desta Lei, para provimento em cargos ou empregos ora extintos por esta Lei, terão validade para efeitos de aproveitamento do candidato em cargos da categoria funcional de idêntica denominação, ou se transformados, nos resultantes da transformação.
+
+
+Art. 30.
+
+Poderão ser mantidos em seus postos até que ocorra novo provimento do cargo, os atuais ocupantes de cargos em comissão que por força desta Lei passarão a ser providos exclusivamente sob a forma de função gratificada ou preferencialmente por servidor efetivo.
+
+
+Art. 31.
+
+Os atuais servidores não concursados, se o desejarem, e tão automaticamente inscritos para o primeiro Concurso Público a ser realizado no prazo de 150 dias contados da vigência desta Lei.
+
+
+Parágrafo único.
+
+A inscrição automática prevista neste artigo só se fara:
+
+
+I –
+
+para Concurso Público para provimento de cargo idêntico ao em que o servidor atua;
+
+
+II –
+
+se o servidor preencher os "requisitos para Provimento" correspondentes ao cargo, excluindo-se o limite de idade.
+
+
+Art. 32.
+
+As despesas decorrentes da aplicação desta Lei, correrão à conta das dotações orçamentárias próprias.
+
+
+Art. 33.
+
+Esta Lei entrará em vigor na data da sua publicação, retroagindo seus efeitos ao dia 1º de Maio de 1990, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, aos 27 de junho de 2009.
+
+Dr. PEDRO ÁLVARO MÜLLER  
+Prefeito Municipal.
+
+Registre-se e publique-se
+
+<table><tbody><tr><td>PAULO AUGUSTO WILHELM<br>Sec. da Administração.</td><td>Bel. CLOVIS FERNANDO FICK<br>Sec. de Finanças.</td></tr></tbody></table>
+
+
+## Anexo I
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 2.129, de 10 de julho de 2019.
+
+
+## Anexo II — Enquadramento (art. 27, inc. I)
+
+
+<table><colgroup></colgroup><colgroup></colgroup><tbody><tr><td>SITUAÇÃO EXISTENTE</td><td>SITUAÇÃO PREVISTA</td></tr><tr><td>Contador</td><td>Contador</td></tr><tr><td>Médico Veterinário</td><td>Médico Veterinário</td></tr><tr><td>Zootecnista</td><td>Zootecnista</td></tr><tr><td>Inspetor Tributário</td><td>Inspetor Tributário</td></tr><tr><td>Tesoureiro</td><td>Tesoureiro</td></tr><tr><td>Oficial Administrativo</td><td>Oficial Administrativo</td></tr><tr><td>Operador de Máquina</td><td>Operador de Máquina</td></tr><tr><td>Auxiliar Administrativo</td><td>Auxiliar Administrativo</td></tr><tr><td>Motorista</td><td>Motorista</td></tr><tr><td>Mestre de Eletricidade</td><td>Contramestre de Eletricidade</td></tr><tr><td>Telefonista</td><td>Telefonista</td></tr><tr><td>Auxiliar de Operador de Máquina</td><td>Operário Especializado</td></tr><tr><td>Cozinheira</td><td>Cozinheira</td></tr><tr><td>Faxineira</td><td>Servente</td></tr><tr><td>Lavadeira</td><td>Lavadeira</td></tr></tbody></table>

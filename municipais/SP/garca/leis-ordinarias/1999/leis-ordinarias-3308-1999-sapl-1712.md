@@ -1,0 +1,501 @@
+---
+titulo: "Lei nº 3.308, de 11 de março de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3308"
+data: "1999-03-11"
+municipio: "Garça"
+uf: "SP"
+codigo_ibge: "3516705"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2020-11-05; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.garca.sp.leg.br/norma/1712"
+fonte_texto: "https://sapl.garca.sp.leg.br/ta/879/text"
+sha256_fonte: "2a0600049c74a528db3e4ad07d449078eebeea37b55f8b54d8c64521543831e3"
+sha256_texto: "b71e4a17bd15d49e9ffdc3a78fa20701e92914d432223495f388e101cb3ee0d4"
+capturado_em_fonte: "2026-10-28T13:21:46.132079-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 3.308, de 11 de março de 1999
+
+Dispõe sobre o Código de Proteção ao Verde do Município.
+
+
+#### CAPÍTULO I
+
+
+Art. 1º.
+
+Fica instituído o Código de Proteção ao Verde do Município de Garça, o qual, em obediência aos princípios estabelecidos pela Constituição Federal e demais disposições federais, estaduais e municipais, dispõe sobre a proteção, conservação e monitoramento da vegetação de porte arbóreo no Município.
+
+Alteração feita pelo Art. 1º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+Art. 2º.
+
+Considera-se vegetação de porte arbóreo as espécimes de vegetais lenhosos que apresentem diâmetro de caule à altura do peito (DAP) superior a 2,5cm (dois e meio centímetros).
+
+
+Parágrafo único
+
+Diâmetro à altura de peito (DAP) é o diâmetro do caule da árvore à altura de aproximadamente 1,30m (um metro e trinta centímetros), medidos a partir do ponto de intersecção da raiz com o caule da árvore, conhecido como colo.
+
+
+Art. 3º.
+
+O corte ou derrubada de vegetação de porte arbóreo se subordina às exigências e providências que se seguem:
+
+
+I –
+
+Obtenção de licença especial no caso de árvores com diâmetro de tronco ou caule igual ou superior a 6cm (seis centímetros), qualquer que seja a finalidade do procedimento;
+
+
+II –
+
+Para o fim previsto no item I, o proprietário, cessionário ou seu procurador, deverá requerer à Prefeitura, justificando o pedido e anexando duas vias da planta baixa do imóvel, onde serão indicadas as árvores que pretende abater;
+
+
+III –
+
+Quando o diâmetro das árvores for inferior a 6cm (seis centímetros), será dispensada a exigência de apresentação das duas vias de planta baixa, contanto que se proceda prévia vistoria "in loco", a cargo do engenheiro responsável.
+
+
+§ 1º
+
+Somente após a realização da vistoria e expedição de licença , poderá ser efetuada a derrubada ou corte.
+
+
+§ 2º
+
+As despesas oriundas da supressão de espécime arbóreo incorrerá por conta do proprietário do imóvel, salvo se, em último caso, a presença do espécime arbóreo representar risco de vida ou de danos irremediáveis ao patrimônio público ou privado.
+
+
+§ 3º
+
+O conserto em calçamento ou outros danos oriundos da supressão de espécime arbóreo, bem como a colocação de gradil de proteção de novas mudas são de responsabilidade do proprietário do imóvel.
+
+
+§ 4º
+
+VETADO.
+
+
+Art. 4º.
+
+Em se tratando de árvores situadas em terreno a edificar, cujo abate se torne indispensável , o proprietário, ou quem de direito, dará cumprimento aos preceitos do artigo anterior, juntando a licença especial ao pedido do alvará de construção.
+
+
+Art. 5º.
+
+Inclui-se nas prescrições da presente Lei , a queima de vegetação de porte arbóreo, técnicas de envenenamento e outros métodos que levem à supressão de vegetação arbórea.
+
+
+Art. 6º.
+
+Considera-se imune ao corte, a vegetação de porte arbóreo, por motivo de sua localização, raridade, antiguidade, interesse histórico, científico ou paisagístico, ou de sua condição de porta- sementes.
+
+
+Parágrafo único
+
+A imunidade ao corte será estabelecida por decreto municipal, expedido após estudos efetuados pelo setor competente.
+
+
+Art. 7º.
+
+Não poderão ser afixados, ou amarrados, fios, anúncios, cartazes, placas, letreiros ou qualquer outro instrumento de veiculação de publicidade em vegetação de porte arbóreo.
+
+
+#### CAPÍTULO II — DA SUPRESSÃO DE VEGETAÇÃO ARBÓREA EM ÁREA DE DOMÍNIO PÚBLICO
+
+
+Art. 8º.
+
+A supressão de vegetação de porte arbóreo em áreas de domínio público só será permitida quando realizada por:
+
+
+I –
+
+Equipe de funcionários da Prefeitura devidamente treinada, mediante ordem de serviço da secretaria competente, incluindo detalhadamente o número de árvores, a identificação das espécimes a serem suprimidas, a localização, a data e o motivo da supressão;
+
+
+II –
+
+Funcionários de empresas concessionárias de serviços públicos, proprietário do imóvel, desde que as seguintes exigências sejam observadas:
+
+
+a)
+
+A obtenção de autorização, por escrito, do setor competente, incluindo detalhadamente o número de árvores, a identificação das espécimes a serem suprimidas, a localização, a data e o motivo da supressão;
+
+
+b)
+
+Acompanhamento permanente do responsável pela empresa;
+
+
+III –
+
+Soldados do Corpo de Bombeiros, nas ocasiões de emergência, e em que haja risco iminente para a população ou ao patrimônio, tanto público como privado, devendo posteriormente, comunicar o fato ao Setor competente.
+
+
+Parágrafo único
+
+O Setor competente responsável pelo manejo de arborização urbana de domínio público deverá contar com engenheiro agrônomo ou engenheiro florestal.
+
+
+#### CAPÍTULO III — DA PODA
+
+
+Art. 9º.
+
+Fica vedada a poda drástica de espécimes arbóreos, exceto casos em que a poda for necessária para o revigoramento das árvores conforme laudo técnico elaborado por engenheiro agrônomo ou florestal.
+
+
+Parágrafo único
+
+Para fins do disposto neste artigo, considera-se poda drástica aquela que remova mais que 1/3 (um terço) do volume da copa de uma árvore ou arbusto.
+
+Inclusão feita pelo Art. 1º. - Lei nº 5.379, de 05 de novembro de 2020.
+
+
+Art. 10.
+
+A poda de formação, a poda de limpeza ou as podas de contenção de copa, realizadas de acordo com normas técnicas existentes, em áreas de domínio público, só serão permitidas a :
+
+
+I –
+
+Servidores da Prefeitura, mediante ordem de serviço escrita do Setor competente e acompanhamento técnico, ou diretamente pelo proprietário e/ou cessionário do imóvel afetado, nos limites do art. 11 desta Lei.
+
+Alteração feita pelo Art. 2º. - Lei nº 5.379, de 05 de novembro de 2020.
+
+
+Art. 11.
+
+As podas a que se referem os artigos 9º e 10 desta Lei poderão ser realizadas diretamente pelo proprietário e/ou cessionário do imóvel afetado, importando o silêncio da Prefeitura Municipal, 15 (quinze) dias úteis após o protocolo do pedido, em aprovação tácita para todos os efeitos legais, cabendo ao interessado a observância das normas técnicas correspondentes.
+
+Alteração feita pelo Art. 3º. - Lei nº 5.379, de 05 de novembro de 2020.
+
+
+§ 1º
+
+Em caso de necessidade, o interessado deve solicitar a poda à administração municipal, preenchendo requerimento no Setor competente, ou nas hipóteses mais graves e urgentes, ao Corpo de Bombeiros.
+
+Inclusão feita pelo Art. 1º. - Lei nº 4.045, de 01 de dezembro de 2006.
+
+
+§ 2º
+
+Em caso de se tratar de poda de ornamentação, poderá a mesma ser realizada pelo próprio interessado, mediante autorização prévia do órgão competente.
+
+Inclusão feita pelo Art. 1º. - Lei nº 4.045, de 01 de dezembro de 2006.
+
+
+#### CAPÍTULO IV — DO PLANTIO
+
+
+Art. 12.
+
+O plantio de novas espécimes arbóreos na área urbana só será permitido a funcionários da Prefeitura, após determinação do responsável pelo Setor que indicará o espécime apropriado para a área a ser plantada, bem como as técnicas e procedimentos para o plantio.
+
+
+Parágrafo único
+
+A Prefeitura poderá autorizar o ato do plantio por colaboradores ou terceiros, desde que acompanhado de autorização por escrito do Setor competente, com a discriminação do espécime mais adequado para aquela área, bem como as especificações dos padrões exigidos para sua execução; ou, ainda, seja feito o plantio sob supervisão de funcionário indicado pelo Setor competente da Prefeitura.
+
+
+#### CAPÍTULO V — DO REPLANTIO
+
+
+Art. 13.
+
+As árvores suprimidas deverão ser repostas na proporção de três reposições para cada supressão, pelo munícipe ou por empresas licenciadas no município, de acordo com as normas técnicas estabelecidas pelo Setor competente, num prazo máximo de 90 (noventa) dias após a supressão.
+
+
+§ 1º
+
+Não havendo espaço adequado no mesmo local, o replantio será feito em área indicada pelo Setor competente, de forma a manter a densidade arbórea das adjacências.
+
+
+§ 2º
+
+Caso não seja possível o replantio nas adjacências, as mudas para reposição deverão ser replantadas em outras áreas indicadas pelo setor competente.
+
+
+§ 3º
+
+O munícipe se responsabilizará por providenciar gradil(is) de proteção contra a depredação para cada muda a ser replantada.
+
+
+#### CAPÍTULO VI — DOS CRITÉRIOS DE ARBORIZAÇÃO
+
+
+Art. 14.
+
+A Prefeitura Municipal adotará as seguintes normas técnicas como critérios para a arborização urbana:
+
+
+§ 1º
+
+Os critérios de arborização urbana devem ser casados com a elaboração de um projeto global que privilegie, no caso de bairros novos, um sistema de distribuição de espécimes adequadas às diversas realidades locais. Deve-se optar por colocar a árvore certa no local certo, evitando transtornos futuros aos moradores, à administração pública e às concessionárias de serviços de eletrificação urbana, águas e esgotos, e telefonia.
+
+
+§ 2º
+
+VETADO.
+
+
+§ 3º
+
+Deve ser respeitado afastamento mínimo de 5 (cinco) metros de postes de rede elétrica e esquinas , distâncias lineares de 1 (um) a 2 (dois) metros das redes de esgoto, 1 (um) metro de entrada de garagens e portões residenciais; 50 (cinquenta) centímetros entre árvore e meio-fio. Deve-se diversificar as espécies a serem plantadas, optando por 10 (dez) a 15 % (quinze por cento) de cada uma sobre o total a ser plantado, introduzindo sempre a mesma espécime por via pública, sendo aceitável uma mesma espécie por quadra longitudinalmente. Após escolha das espécimes, proceder os critérios de espaçamento que devem respeitar as seguintes medidas:
+
+
+I –
+
+Ruas e avenidas amplas de leito carroçável com largura igual ou superior a 8 (oito) metros e passeios com largura igual ou superior a 3 (três) metros, usar espaçamento de 8 (oito) metros entre as mudas, podendo nestes casos, plantar-se espécimes de porte médio ou grande, desde que estes não se encontrem do lado da rede elétrica e onde não haja fiação aérea . Os canteiros centrais e avenidas devem ter largura suficiente para possibilitar o desenvolvimento de vegetação que não ultrapasse seus limites horizontais, permitindo o livre trânsito de pessoas e veículos ao seu redor;
+
+
+II –
+
+Ruas estreitas com leito carroçável menor que 8 (oito) metros, e passeio com largura inferior a 3 (três) metros, a distância entre as árvores deve ser de 5 (cinco) a 8 (oito) metros, empregando espécimes de porte baixo;
+
+
+III –
+
+Nas vias sem recuo de construção e em áreas comerciais deve-se optar apenas pelo plantio de árvores de pequeno porte.
+
+
+§ 4º
+
+Quanto à origem da espécime, dimensões e forma da árvore, raizame, flores, frutos, folhagem, resistência a doenças e intempéries, deve-se respeitar ainda os seguintes critérios:
+
+
+I –
+
+Quanto a origem da espécie deve-se dar preferência àquelas que se adaptaram a região. Escolher espécimes exóticas somente após proceder estudos técnicos sobre sua viabilidade. Deve-se descartar o plantio de árvores que anteriormente já tenham trazido problemas à municipalidade;
+
+
+II –
+
+Quanto à dimensão e forma da árvore deve-se optar por espécimes que contenham caule único e copa bem definidos, cujos portes em altura e diâmetro de copa, quando adulta, sejam compatíveis com o local em que se encontram plantadas, a fim de evitar riscos e danos à rede elétrica, ao passeio público, à rede de esgoto, às construções;
+
+
+III –
+
+Quanto ao sistema radicular, o raizame deve ser pivotante, evitando-se sempre que possível espécimes com raizame superficial ou tabular, que prejudicam as fundações dos prédios, pisos e calçadas;
+
+
+IV –
+
+Com relação à presença de frutos e flores, evitar, sempre que possível, árvores produtoras de frutos pesados, volumosos, que se soltam das árvores, e os comerciais, apreciados pelo homem. É desejável, porém, o emprego de espécimes que produzam pequenos frutos para alimentação dos pássaros. As árvores podem também conter flores, devendo-se optar por flores de cores vivas e cujo período de permanência na planta seja o mais duradouro possível, evitando porém aquelas que exalam fortes odores, que podem tornar-se desagradáveis;
+
+
+V –
+
+Com relação à folhagem deve-se optar preferentemente por árvores que tenham folhas médias ou grandes, e de folhagem semicaduca ou persistente, pois terão a vantagem de produzir pouca sujeira. A queda das folhas deve ocorrer preferentemente no período do inverno, ocasião onde há maior necessidade de luz solar e de calor nas residências;
+
+
+VI –
+
+Nos quesitos resistência a pragas, doenças, intempéries e princípios tóxicos deve-se optar por árvores resistentes à incidência de insetos e microorganismos fitopatogênicos, dadas as restrições no uso de defensivos no controle de tais pragas. Deve-se optar preferentemente por espécimes resistentes às geadas, seca e ventanias, evitando também aquelas que possuam princípios tóxicos ou que provoquem alergias ao homem.
+
+
+§ 5º
+
+Fica a Prefeitura Municipal autorizada a adotar, quando preciso, outras normas que se fizerem necessárias.
+
+
+§ 6º
+
+VETADO.
+
+
+#### CAPÍTULO VII — DO PLANEJAMENTO
+
+
+Art. 15.
+
+Os projetos de instalação de equipamentos públicos em áreas de domínio público ou particular já arborizadas, deverão compatibilizar-se com a vegetação arbórea existente, de modo a evitar futuras supressões.
+
+
+Art. 16.
+
+As faixas de preservação permanente ao longo de corpos d`água deverão observar as seguintes determinações:
+
+
+I –
+
+30m (trinta metros) das margens de qualquer córrego;
+
+
+II –
+
+50m (cinquenta metros) ao redor das nascentes.
+
+
+Parágrafo único
+
+Margeando as faixas de preservação permanente e os sistemas de lazer dos loteamentos poderá ser implantado uma via pública.
+
+
+#### CAPÍTULO VIII — DAS INFRAÇÕES E PENALIDADES
+
+
+Art. 17.
+
+As pessoas físicas ou jurídicas que infringirem as disposições contidas nesta Lei ficam sujeitas, sem prejuízos das responsabilidades civil e criminal, às seguintes sanções administrativas:
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+I –
+
+Em caso de supressão de vegetação de porte arbóreo:
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+a)
+
+Multa no valor de 500 (quinhentas) UFG`s, por espécime arbóreo suprimido, dobrando-se o valor em caso de reincidência;
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+b)
+
+Ressarcimento à Prefeitura do custo de replantio, que será fixado em UFG`s e demonstrado através de planilha.
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+II –
+
+Em caso de poda drástica na vegetação de porte arbóreo, aplicar-se-á multa no valor de 250 (duzentos e cinquenta) UFG`s por espécime arbóreo, dobrando-se o valor em caso de reincidência.
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+Parágrafo único
+
+Respondem solidariamente pela infração desta Lei:
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+a)
+
+o autor material e/ou seu mandante;
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+b)
+
+o proprietário e/ou cessionário do imóvel; e
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+c)
+
+quem, de qualquer modo, concorrer para a prática da infração.
+
+Alteração feita pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei nº 5.001, de 24 de junho de 2015.
+
+
+Art. 18.
+
+Em hipótese de replantio voluntário, seja pelo infrator ou responsável solidário não reincidente, o valor da multa aplicada poderá ser reduzida em 60% (sessenta por cento) de seu valor.
+
+Alteração feita pelo Art. 4º. - Lei nº 5.379, de 05 de novembro de 2020.
+
+
+Parágrafo único
+
+Quando aplicada a penalidade de multa em razão de poda drástica irregular, aplicar-se-á o disposto no caput deste artigo se restar comprovada a rebrota das vegetações podadas, desde que tenham sido preservadas suas características morfoanatômicas e fisiológicas.
+
+Alteração feita pelo Art. 4º. - Lei nº 5.379, de 05 de novembro de 2020.
+
+
+Art. 19.
+
+O infrator não reincidente ou responsável solidário poderá, caso não replante voluntariamente, doar à Prefeitura do município de Garça, mudas de espécimes em substituição à suprimida, a critério do Setor competente da Prefeitura, na quantidade prevista no Artigo 13.
+
+
+Parágrafo único
+
+Na ocorrência da hipótese do caput, o valor da multa aplicada será reduzido em 40% (quarenta por cento).
+
+
+Art. 20.
+
+Será concedido direito de defesa ao infrator ou responsável solidário, no prazo de 15 (quinze) dias, após a imposição da multa.
+
+
+Art. 21.
+
+Se a infração for cometida por servidor municipal em serviço, a penalidade será determinada após instauração de processo administrativo, na forma da legislação em vigor.
+
+
+Art. 22.
+
+A inobservância do Artigo 7º acarreta ao infrator multa de 500 (quinhentas) UFIRs bem como a obrigatoriedade de retirar o material de propaganda.
+
+
+Art. 23.
+
+VETADO.
+
+
+Art. 24.
+
+O órgão fazendário do município poderá conceder desconto de até 05% (cinco por cento) sobre o valor do Imposto Predial e Territorial Urbano ( IPTU ) para os munícipes que tiverem vegetação de porte arbóreo plantada no passeio em frente à sua residência e/ou estabelecimento comercial ou industrial.
+
+
+Parágrafo único
+
+No caso de área residencial, comercial ou industrial que compreenda metragem superior a 8 (oito metros) de frente para o passeio público, o benefício previsto neste artigo somente será concedido se estiver observado a frequência de espécime arbóreo a cada 8 (oito) metros de passeio.
+
+
+#### CAPÍTULO IX — DISPOSIÇÕES FINAIS
+
+
+Art. 25.
+
+A supressão de florestas de preservação permanente, sujeitas ao regime do Código Florestal, dependerão de prévia autorização da autoridade federal competente, na forma do § 1º Da Lei Federal Nº 4771 de 15 de setembro de 1965, alterada pela Lei Federal Nº 7803 de julho de 1989.
+
+
+Art. 26.
+
+O poder executivo regulamentará esta Lei no prazo de 90 (noventa) dias, a contar da data de sua publicação.
+
+
+Art. 27.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Garça, 11 de março de 1999.
+
+Júlio Marcondes de Moura  
+Prefeito
+

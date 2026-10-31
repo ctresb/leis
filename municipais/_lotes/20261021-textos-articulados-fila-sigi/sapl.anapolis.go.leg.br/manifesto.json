@@ -1,0 +1,42 @@
+{
+  "host": "sapl.anapolis.go.leg.br",
+  "metadados_unicos_observados": 33,
+  "total_api_declarado": 33,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 3,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anapolis.go.leg.br/68c7e3a45ffe1a9e5c93bba923a8133ee05b0658adaf5acbdea4ca3900af5931.json",
+    "url": "https://sapl.anapolis.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.anapolis.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "347b847af28dfd4959cdde287630763c3f26a3686cd16c03c9bc9841dc9e5b7e",
+    "bytes": 950,
+    "capturado_em": "2026-10-27T16:43:50.188971-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anapolis.go.leg.br/35b804520da339b976da89342aab0eae58abe580890a5c0d2c57f02949390aca.json",
+    "url": "https://sapl.anapolis.go.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.anapolis.go.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5320ea1ab03d7a633b12c7912bdcbaa59248565e52f5a832e7853f60a9f4aa7c",
+    "bytes": 822,
+    "capturado_em": "2026-10-27T16:43:49.700349-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anapolis.go.leg.br/b5b2af95afd5037971c2bff0af7c934749c44a8c8277be010a2d4b1ce33fb07e.json",
+      "url": "https://sapl.anapolis.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.anapolis.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "51d74c4520a023b5af1c05ee285733815bf444e8c3d6fc407a195c55fffcb3ec",
+      "bytes": 20409,
+      "capturado_em": "2026-10-27T16:43:52.441121-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

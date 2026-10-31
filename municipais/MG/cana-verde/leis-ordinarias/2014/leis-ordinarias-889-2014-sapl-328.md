@@ -1,0 +1,204 @@
+---
+titulo: "Lei Ordinária nº 889, de 06 de junho de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "889"
+data: "2014-06-06"
+municipio: "Cana Verde"
+uf: "MG"
+codigo_ibge: "3111903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-06-10; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.canaverde.mg.leg.br/norma/328"
+fonte_texto: "https://sapl.canaverde.mg.leg.br/ta/69/text"
+sha256_fonte: "d71b440525392aa4fb5e46db4ed72abc5866f5e56e425434f3ee788936cc0fa0"
+sha256_texto: "546fc825b76e239bd6cc810334684faaf5e7457942f61d2bd368cfc0d0774d71"
+capturado_em_fonte: "2026-10-27T22:29:07.453780-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 889, de 06 de junho de 2014
+
+Dispõe sobre a criação do Serviço Municipal de Viqilância Sanitária.
+
+
+O PREFEITO MUNICIPAL DE CANA VERDE, ESTADO DE MINAS GERAIS, FAZ SABER, que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o serviço Municipal de Saúde, organizado e disciplinado na forma desta Lei.
+
+
+Art. 2º.
+
+O Serviço Municipal de Vigilância Sanitária compreende ações capazes de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde, abrangendo:
+
+
+I –
+
+O controle de bens de consumo que, direta e indiretamente, se relacionem com a saúde, compreendidas todas as etapas e processos, da produção ao consumo
+
+
+II –
+
+O controle da prestação de serviços que se relacionam direta ou indiretamente com a saúde.
+
+
+§ 1º
+
+As ações de vigilância sanitária de que trata este artigo serão desenvolvidas de acordo com as diretrizes emanadas da Secretaria da Saúde do Estado de Minas Gerais, Ministério da Saúde e Agência Nacional de Vigilância Sanitária.
+
+
+§ 2º
+
+Sem prejuízo do disposto no parágrafo anterior, o município desenvolverá ações no âmbito de suas competências estabelecidas no art. 200 da Constituição Federal de 1988 e na Lei Federal nº 8.080/90.
+
+
+Art. 3º.
+
+O município deverá assegurar toda a infraestrutura para a execução das ações do Serviço Municipal de Vigilância Sanitária previstas nesta lei.
+
+
+Art. 4º.
+
+São consideradas autoridades sanitárias para os efeitos desta lei:
+
+
+I –
+
+O responsável técnico pelo Serviço Municipal de Vigilância Sanitária, nomeado mediante portaria do Poder Executivo Municipal para exercício da função, preenchidos os requisitos do §2° deste dispositivo;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.116, de 10 de junho de 2025.
+
+
+II –
+
+os profissionais da equipe municipal de Vigilância Sanitária investidos na função fiscalizadora, na forma do §1° do art. 5º e;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.116, de 10 de junho de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.116, de 10 de junho de 2025.
+
+
+§ 1º
+
+Para fins de Processo Administrativo Sanitário, o Secretário Municipal de Saúde e o Prefeito Municipal serão considerados autoridades sanitárias
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.116, de 10 de junho de 2025.
+
+
+§ 2º
+
+O responsável técnico pelo Serviço Municipal de Vigilância Sanitária será selecionado entre servidores efetivos e contratados do Município e deverá deter conhecimentos específicos ou graduação ou pós-graduação na área de Vigilância Sanitária, devidamente comprovados, ante a natureza técnica da função."
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.116, de 10 de junho de 2025.
+
+
+Art. 5º.
+
+A equipe municipal de vigilância sanitária, investida de sua função fiscalizadora; será competente para fazer cumprir as leis e regulamentos sanitários.
+
+
+§ 1º
+
+Para o exercício de suas atividades fiscalizadoras, os referidos profissionais serão designados mediante portaria do prefeito ou do secretário municipal de saúde.
+
+
+§ 2º
+
+Os profissionais competentes portarão credencial expedida pelo Poder Executivo Municipal e deverão apresentá-la sempre que estiverem no exercício de suas funções.
+
+
+§ 3º
+
+Os profissionais acima designados serão considerados, para todos os efeitos, autoridade sanitária e exercerão todas as atividades inerentes à função de fiscal sanitário, tais como: inspeção e fiscalização sanitária, lavratura de auto de infração sanitária, instauração de processo administrativo sanitário, interdição e apreensão cautelar de produtos; fazer cumprir as penalidades aplicadas pelas autoridades sanitárias competentes nos processos administrativos sanitários; e outras atividades estabelecidas para esse fim.
+
+
+§ 4º
+
+Os profissionais investidos na função fiscalizadora terão poder de policia administrativa, adotando a legislação sanitária federal, estadual e municipal e as demais normas que se referem à proteção da saúde, no que couber
+
+
+§ 5º
+
+As autoridades fiscalizadoras mencionadas nos incisos 1 e II do art. 49 desta Lei, quando do exercício de suas atribuições, terão livre acesso em todos os locais do município sujeitos à legislação sanitária, em qualquer dia e hora, podendo utilizar de todos os meios e equipamentos necessários, ficando responsáveis pela guarda das informações sigilosas.
+
+
+Art. 6º.
+
+As atividades sujeitas às ações da Vigilância Sanitária ensejarão a cobrança de Taxa de Vigilância Sanitária pelo Serviço Municipal de Vigilância Sanitária.
+
+
+§ 1º
+
+Os fatos geradores e os respectivos valores da Taxa de Vigilância Sanitária serão definidos em legislação municipal.
+
+
+§ 2º
+
+os valores da Taxa de Vigilância Sanitária serão recolhidos aos cofres públicos do Município de Cana Verde/MG, creditados ao Fundo Municipal de Saúde, revertidos exclusivamente para o Serviço Municipal de Vigilância Sanitária e sob o controle social do Conselho Municipal de Saúde.
+
+
+§ 3º
+
+Os estabelecimentos integrantes da administração pública ou por ela instituídos, sujeitos às ações de Vigilância Sanitária, estão isentos do recolhimento da Taxa de Vigilância Sanitária prevista neste artigo, porém, para que funcionem, devem cumprir as exigências contidas nas normas legais e regulamentares, além das pertinentes às instalações, aos equipamentos e à aparelhagem adequados e à assistência e responsabilidade técnica.
+
+
+Art. 7º.
+
+Os estabelecimentos sujeitos às ações de vigilância sanitária não poderão funcionar sem que sejam atendidas cumulativamente as seguintes exigências:
+
+
+I –
+
+apresentação de toda a documentação inerente à atividade a ser desenvolvida, para fins de cadastramento;
+
+
+II –
+
+recolhimento do respectivo valor da Taxa de Vigilância Sanitária;
+
+
+III –
+
+realização de inspeção sanitária com parecer favorável da equipe municipal de vigilância sanitária; e
+
+
+IV –
+
+emissão da Licença Sanitária.
+
+
+Art. 8º.
+
+a ausência de norma municipal que disponha sobre infrações sanitárias e penalidades, bem como instauração do devido processo administrativo sanitário, as autoridades sanitárias previstas no art. 42 da presente lei deverão utilizar de maneira suplementar a legislação estadual e/ou federal cabível à espécie.
+
+
+Art. 9º.
+
+As despesas com a execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 10.
+
+Fica o Poder Executivo Municipal autorizado a regulamentar a presente Lei no prazo de 15 (quinze) dias, a contar da data de sua publicação.
+
+
+Art. 11.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrario.
+
+
+Prefeitura Municipal de Cana Verde, em 06 de junho de 2014.
+
+**Jeferson de Alfteida**  
+Prefeito Municipal
+

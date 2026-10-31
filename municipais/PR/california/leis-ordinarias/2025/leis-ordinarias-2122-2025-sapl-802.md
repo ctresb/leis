@@ -1,0 +1,313 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.122, de 25 de fevereiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2122"
+data: "2025-02-25"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/802"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/756/text"
+sha256_fonte: "3414373537494811039af95fd7718cac4acf194856e845f49f05bd72e20ab1a8"
+sha256_texto: "32a733d5427098ac3c8e39d27ff38d2ed403e146916aae6b7413c337a02480d7"
+capturado_em_fonte: "2026-10-27T22:17:54.933417-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.122, de 25 de fevereiro de 2025
+
+Instituiu o Conselho Municipal de Saneamento Básico e Ambiental – CMSBA do Município de Califórnia, e dá outras providências.
+
+
+A Câmara Municipal de Califórnia, Estado do Paraná, aprovou e Eu, Prefeito Municipal, Sanciono a Seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o CONSELHO MUNICIPAL DE SANEAMENTO BÁSICO E AMBIENTAL – CMSBA do Município de Califórnia, órgão colegiado de caráter consultivo e deliberativo na formulação de política de saneamento básico e ambiental, no planejamento e na avaliação de sua execução, sendo assegurada a representação nos termos da Lei Federal nº 11.445, de 5 de janeiro de 2007, regulamentada pelo Decreto Federal nº 7.217, de 21 de junho de 2010, e suas alterações e com atribuições inerentes ao equilíbrio ecológico e implantação de ações destinadas a proteção, recuperação e conservação do meio ambiente e acompanhamento dos serviços prestados na área de saneamento básico e controle social.
+
+
+Art. 2º.
+
+São objetivos do Conselho Municipal de Saneamento Básico e Ambiental - CMSBA:
+
+
+I –
+
+levantar o patrimônio ambiental natural, étnico e cultural do Município;
+
+
+II –
+
+localizar e mapear áreas críticas onde se desenvolvam atividades com utilização de recursos naturais ambientais, consideradas efetiva ou potencialmente poluidoras, bem como, empreendimentos capazes de causar degradação ambiental a fim de permitir a vigilância e o controle desses procedimentos e o cumprimento da legislação vigente;
+
+
+III –
+
+colaborar no planejamento municipal mediante recomendações à proteção do patrimônio ambiental do Município;
+
+
+IV –
+
+estudar, definir e propor normas e procedimentos visando à proteção ambiental do Município;
+
+
+V –
+
+promover e colaborar na execução de programas intersetoriais de proteção ambiental do Município;
+
+
+VI –
+
+fornecer informações e subsídios técnicos relativos ao conhecimento e proteção do meio ambiente;
+
+
+VII –
+
+colaborar em campanhas educacionais relativas ao meio ambiente e aos problemas de saúde, de saneamento básico, de uso e ocupação racional de águas e solos;
+
+
+VIII –
+
+manter intercâmbio com entidades oficiais e privadas de pesquisas e/ou atividades ligadas ao conhecimento e proteção ambiental;
+
+
+IX –
+
+identificar, prever e comunicar as agressões ambientais ocorridas no Município, diligenciando efetiva apuração e sugerindo aos poderes e órgãos públicos as medidas cabíveis, além de contribuir, em caso de emergência para mobilização da comunidade;
+
+
+X –
+
+participar ativamente da elaboração da Política Municipal de Saneamento, bem como no seu planejamento e avaliação;
+
+
+XI –
+
+participar, opinar e deliberar sobre a elaboração sobre a implementação dos Planos Diretores de Abastecimento de Água, Esgotamento Sanitário, Drenagem, Limpeza Urbana e Resíduos Sólidos do Município;
+
+
+XII –
+
+participar na promoção da universalização dos serviços de saneamento básico, assegurando a sua qualidade por meio do acompanhamento de seus indicadores e do cumprimento das metas fixadas nos planos municipais;
+
+
+XIII –
+
+acompanhar o cumprimento das metas fixadas em contrato das empresas concessionárias dos serviços de água e esgoto;
+
+
+XIV –
+
+promover estudos destinados a adequar os anseios da população à Política Municipal de Saneamento;
+
+
+XV –
+
+buscar o apoio de órgãos e entidades realizadoras de estudos sobre meio ambiente e saneamento, de modo a dispor de subsídios técnicos e legais na implementação de suas ações;
+
+
+XVI –
+
+apresentar propostas ao Executivo ou Legislativo, versando sobre a matéria que lhe é de interesse, sempre acompanhados de exposição de motivos;
+
+
+XVII –
+
+apreciar e opinar sobre os casos que lhe forem submetidos pelas partes interessadas;
+
+
+XVIII –
+
+elaborar, aprovar e reformar seu próprio Regimento Interno, dispondo sobre a ordem dos trabalhos e sobre a constituição, competência e funcionamento.
+
+
+XIX –
+
+possuir Conselho Municipal de Saneamento Básico e Ambiental, que deverá ter competências para a definição das diretrizes e mecanismos de acompanhamento, fiscalização e controle do Fundo Municipal de Saneamento Básico e Ambiental e contar com a participação de representantes da sociedade civil ligados, direta ou indiretamente, ao setor de saneamento básico;
+
+
+XX –
+
+publicação oficial da criação, funcionamento e designação dos membros do Conselho Municipal de Saneamento Básico e Ambiental;
+
+
+Art. 3º.
+
+O controle social será exercido pelo Conselho Municipal de Saneamento Básico e Ambiental do Município por meio do recebimento de relatórios e informações que permitam o acompanhamento das ações de saneamento básico, da análise do Plano Plurianual e das propostas orçamentárias anuais e do acompanhamento da execução destes.
+
+
+Art. 4º.
+
+O CONSELHO MUNICIPAL DE SANEAMENTO BÁSICO E AMBIENTAL será composto por um membro titular e seus respectivos suplentes dos seguintes segmentos da sociedade.
+
+
+I –
+
+do EXECUTIVO municipal: Saúde, Meio ambiente, Assistência Social, Defesa do Consumidor;
+
+
+II –
+
+dos usuários de serviços de saneamento básico;
+
+
+III –
+
+das entidades técnicas, organizações da sociedade civil e de defesa de consumidores relacionados ao setor de saneamento básico;
+
+
+IV –
+
+do Poder Legislativo municipal;
+
+
+V –
+
+dos Conselhos Municipais: Saúde, Assistência Social e de Desenvolvimento;
+
+
+§ 1º
+
+As entidades técnicas e organizações da sociedade civil que indicarem representantes no Conselho ora instituído deverão estar devidamente criadas e legalizadas, com registro em cartório há pelo menos 05 (cinco) anos, além de possuir, em seus objetivos estatutários, atuação na área de saneamento básico, devidamente comprovada;
+
+
+§ 2º
+
+O Conselho Municipal de Saneamento Básico e Ambiental reunir-se-á ordinariamente no período designado em seu Regimento Interno e, extraordinariamente, sempre que convocado;
+
+
+§ 3º
+
+Caberá ao Município de Califórnia fornecer toda a estrutura física e de pessoal para o regular funcionamento do Conselho Municipal ora instituído;
+
+
+§ 4º
+
+As reuniões do Conselho Municipal de Saneamento Básico e Ambiental serão públicas e presididas pelo representante titular eleito entre os membros do conselho;
+
+
+§ 5º
+
+Cada um dos membros titulares do Conselho ora criado terá direito a um voto nas reuniões, sendo que seu Presidente votará apenas em caso de desempate e os suplentes nas ausências dos titulares respectivos;
+
+
+§ 6º
+
+Ninguém poderá representar ou votar em nome de duas ou mais entidades numa mesma reunião do Conselho;
+
+
+§ 7º
+
+Os seguimentos da sociedade civil organizada indicarão livremente os membros para composição do CONSELHO, independentemente da convocação.
+
+
+§ 8º
+
+Caso não haja indicação dos membros representativos da comunidade, o Prefeito Municipal poderá faze-lo em livre escolha.
+
+
+Art. 5º.
+
+O CONSELHO se instituirá por decreto do Prefeito Municipal homologando a indicação dos seus membros titulares e suplentes.
+
+
+Parágrafo único
+
+A Diretoria do CONSELHO será composta de Presidente, vice-Presidente, Secretário Geral e Tesoureiro e respectivos suplentes.
+
+
+Art. 6º.
+
+Os membros do CONSELHO terão mandato de 02 (dois) anos, admitida a recondução por uma única vez.
+
+
+Art. 7º.
+
+O exercício das funções de conselheiros do CONSELHO, não dá direito a nenhuma espécie de remuneração ou gratificação de qualquer espécie, constituindo serviços de relevante importância para a Municipalidade.
+
+
+Art. 8º.
+
+O CONSELHO manterá estreito intercâmbio com órgãos da Administração Pública Municipal, Estadual e Federal, com o objetivo de receber e fornecer subsídios técnicos inerentes à defesa e proteção do meio ambiente.
+
+
+Art. 9º.
+
+Identificada qualquer agressão ambiental, o CONSELHO prestará informações às autoridades públicas constituídas, notadamente os poderes executivo e judiciário, ao Ministério Público e outros organismos competentes, alertando das possíveis implicações e sugerindo providências necessárias.
+
+
+Art. 10.
+
+O CONSELHO promoverá a divulgação de conhecimentos e providências relativas à conservação do patrimônio ambiental.
+
+
+Art. 11.
+
+Deverá constar obrigatoriamente dos currículos escolares dos estabelecimentos de ensino fundamental a cargo do município, noções e conhecimentos referentes ao patrimônio ambiental, natural, étnico e cultural, além da respectiva conservação e/ou recuperação.
+
+
+Art. 12.
+
+As despesas com a execução da presente lei correrão por conta de dotações próprias do orçamento do município, seguindo-se as diretrizes anuais e plurianuais.
+
+
+Art. 13.
+
+No prazo de 5 (cinco) dias úteis de sua instituição por decreto do Prefeito Municipal, o CONSELHO elegerá, dentre seus pares, uma diretoria composta de:
+
+
+I –
+
+o presidente;
+
+
+II –
+
+o vice-presidente;
+
+
+III –
+
+o secretário geral
+
+
+IV –
+
+o tesoureiro.
+
+
+Parágrafo único
+
+Para cada cargo será dado o respectivo suplente.
+
+
+Art. 14.
+
+Em trinta dias da formação da diretoria, será elaborado o regimento interno que será aprovado por ato do Prefeito Municipal.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário, em especial a Lei Nº 2.089 de 2024 de 03/09/2024, publicada no Diário Oficial dos Municípios do Paraná - Edição Nº 3103 - de 04/09/2024.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 25 dias do mês de fevereiro de 2025.
+
+***PAULO SÉRGIO CHILEIDE***
+
+Prefeito
+
+**Publicado por:**  
+Neuzeli Federovicz  
+**Código Identificador:**0E1C8551
+
+Matéria publicada no Diário Oficial dos Municípios do Paraná no dia 26/02/2025. Edição 3224  
+A verificação de autenticidade da matéria pode ser feita informando o código identificador no site:  
+https://www.diariomunicipal.com.br/amp/
+

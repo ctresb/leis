@@ -1,0 +1,347 @@
+---
+titulo: "Lei Ordinária-EM nº 1.975, de 11 de novembro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1975"
+data: "2003-11-11"
+municipio: "Arcos"
+uf: "MG"
+codigo_ibge: "3104205"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.arcos.mg.leg.br/norma/1417"
+fonte_texto: "https://sapl.arcos.mg.leg.br/media/sapl/public/normajuridica/2003/1417/l01975-11112003.pdf"
+sha256_fonte: "72190b9a23d77c5f48bb10d1c798d665316533898150f488e8b1704ee8a15d5e"
+sha256_texto: "b3a58547a3d06d8c3f2e06a9c57261eab36751fdd11c2a57c8563c1fd3f6bca8"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-EM nº 1.975, de 11 de novembro de 2003
+
+PREFEITURA MUNICIPAL DE ARCOS Estado de Minas Gerais
+
+LEI MUNICIPAL N° 1.975 — 11/11/2003
+
+DISPÕE SOBRE ALTERAÇÃO DA LEI MUNICIPAL N° 1.858/2001, COM ALTERAÇÃO NA LEI MUNICIPAL N° 1.919 DE 15/10/2002.
+
+A CÂMARA MUNICIPAL DE ARCOS, ESTADO DE MINAS GERAIS, APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
+
+ART. 1° — O art. 5° da Lei Municipal n° 1.858/2001, com alteração dada pela Lei Municipal n° 1.919/2002, passa a ter a seguinte redação:
+
+"ART. 5° - As previsões de gastos com ação governamental estão definidas no Anexo I, com as alterações incluídas para o período de 2004 a 2005."
+
+ART. 2° - Serão incluídos no orçamento anual recursos necessários para o atendimento dos convênios firmados com os órgãos do Governo Federal, Estadual e com as instituições privadas sem fins lucrativos que atendam as ações propostas pelo Governo Municipal.
+
+ART. 3° - Revogam-se as disposições em contrário, entrando esta Lei em vigor na data de sua publicação.
+
+Arcos, 11 de novembro de 2003.
+
+LÉCIO. RIGUE. DE SOUSA PREFEITO M ICIPAL
+
+DADOSRE F. AS
+
+TOTA LG E RA L og o) w co co
+
+GAS TOS COM P ROJ ETOS z o:
+
+a w
+
+co o
+
+RES U MOG ERAL O o w u) r-- o o O csi
+
+ff et Lo et
+
+z
+
+ir) --J CD U) o- o o w o O
+
+z el - 0 O o •r\_. o- O a)
+
+U) CL
+
+JAL DEPAR TAMENTO DE CU LTU RA
+
+) ), i ) 'PI STA SKATE 00' 000' 91, 00' 000' 91, 30.000, 00 O O
+
+Ó O Ó M REFORM ACASADE CULTURAE
+
+EQUIPAMENTOS E U SINA VE LHA 00' 000' 0 1, 00' 000' 09 00' 000 09 o
+
+o o
+
+,- ci u)
+
+,
+
+30. 000, 00 1 00' 000 . 09 1 70. 00, 0 0 01
+
+PLAN OP LU R IAN UAL E a. t/) -1 E z o1— NTEGR AÇÃOSOCIA L k- o ("o O o ,c (./) CL N o as .6 . o c■1 O O L o\_ X o c.> eQ DADOSRE F. AS Õ tu co tu
+
+GASTOSCOMPROJETO S 1) o U) cs, o o O o o "d- o N o 3 EQUIP. E AMORT. dt CONTINUAD A o MATERIAI S MÃODEOBRA o o
+
+Ó
+
+o1-- o o
+
+o o TER RE NO CASAS PO PULAR E S
+
+APOIOAOE SPORTE AMADO R C/ R EFO R MASMUROS, o
+
+o o o
+
+o o o o
+
+o o o o
+
+o o (CI 6
+
+o o ARQ U IBAN CADAS, ETC APO I O ASSOC IAÇÃOBA IR ROS NACON ST RUÇÃOCE NTR OS o o o
+
+ci o o o o
+
+o o co o
+
+o Lo o
+
+o o
+
+COM UN ITÁR IOS RE FO RM AS, AMPL IAÇÕES E o
+
+o o o
+
+o o o o o
+
+o o
+
+ci o 6
+
+o o o MATE RI AI SD ECON STR UÇÃO CON STR UÇÃOQ UADR AS BAI R ROS PLAN AÇTO, SÃO o
+
+o Lr) o
+
+o o o o
+
+o o Ó Ó o r-. o o
+
+o O o
+
+VICE NTE, FLORESTA EOUTROS a- o
+
+CO M PRA D EMESAS, CAD EI RAS, o
+
+oo o
+
+co co coo o AR M ÁR IOSE/OUTRO S EQ U I PAM
+
+o o Lo o
+
+O O O co o
+
+oo Lo e6 o co Lo
+
+o NC=) CO o O co o o O o
+
+00` 000 . 01. 00' 0000 00' 000' 01.
+
+a) 1- z Lu 5ef W 00' 000' 01.
+
+00' 000' 01. 00' 000' O l. \_ á CONTINUADA MÃO DEOB RA1 900Z 1"- Y0 PODE SOBE ZOOl EXECUÇÃO DESPESA CONTROLE I NTERNO P LANOP LU RIANUAL
+
+PLANOP LU RI ANUAL Secretaria: MU NICI PAL DEGOVE RNO
+
+DE SP ES A DADOS REI-. AS GASTOSCOM PROJETOS PROJETOS 2004 DESP. CONTINUADAS SIVIU31VIAI MÃO DE O BRA EQUIP. E AMORT. 1 TOTAL CONTIN UADA
+
+CON ST. P R ÉD IOP/IN STA LAÇÃO ) ) O p 320. 000, 00 320. 000, 00 i ) CFRV 1:1 1.1R1ICOSECÂMARA ) ) 1 i • .'• , 140. 000.00 i 00' 000' 001. 0 Er < a < --- 00' 000 0 01. c0 1- • a I.L. z J. . \_ z 1-
+
+u) < 100. 000, 001 1 CON STR UÇÃOGALPÃOP/ INC EN TIVOAPEQ UENAS
+
+O
+
+ci 00 . 000. 0£ 00' 000' 09 00' 0000£ 30 000, 00 EMP RES AS r-) DESAPRO PRIAÇÃODETE R- 00' 000' 06 00' 00006 40. 000, 00 50. 000, 00 REN OS P/AR ERTURA DERU AS aw O IM PLANTAÇÃODOPLANO DIR ETOR EATUALIZAÇÃODO 00' 000' 0 17 00' 000 OL1. 00' 000' 0L 00' 000' 001. CADAST RO 0£ 00' 0000£ 0 0' 000' 001. 00' 000' 009 00' 000' 04Z 270. 000, 00 230. 000, 00 740. 000, 00
+
+PLANOP LU RI ANUAL Secretar ia: MU NICI PALDESAÚDE Período : 2001/2 005
+
+CO N STR UÇÃOPOSTODE 00' 00008 00' 000 081. 00' 000' 9Z 00' 0000£ 50. 000, 00 SAÚDE cs- ci MA NUTE NÇÃODOHOSPITAL ) ) 00' 000 . 0Z 20. 000, 00 ) ) np mnp RiNni ARINGoLoGIA 20000, 00
+
+I 00' 00000I. 00' 00008 20. 000, 00 00' 000' 00Z 25. 000, 00 150. 000, 00 i
+
+PLA NOP LU RIANUAL a) c/)1r2o . id c
+
+a) = E O Z
+
+w w
+
+\_1 <C o. gt O I< Perío do: 2001/2 005
+
+GASTOSCOMPROJETOS DE S PE SA EXECUÇ ÃO DADOSRE F. ÁS PROJETOS ZOOZ SOU 400Z 900Z DESP. CONTINUADAS MATERIAIS MÃODEOBRA EQUIP. E AMORT. TOTAL CONTI NUADA
+
+AMPLIAÇÃOE CO N ST RUÇÃO D EESCOLA MUNI C I PAL 00' 000' 09 00' 000' 0Z 00' 000' 0£ 00' 000' 001. 50. 000,00 130. 000, 00
+
+{? 2tu u) < 70. 000, 00 1 00' 00009 1 [30' 000'0£1- 30. 000, 00 1 100. 000, 00 1 3j CO NVÊNIO E STADO 00' 000 0 1. 00' 000' 01- 00' 000' 0 1- RE FO RMA E SCOLAS
+
+CO MPRA D EMESAS, CADEIRAS, 00' 000' 0Z 20. 000, 00 00' 000' 0 1. 10. 000, 00 A RM ÁRI OS VE ÍCULOSEOUTROS CONSTRUÇÃO E A M PL IAÇÃO 00 , 000 . 04 00' 000' 09 00' 000' 09 D E CR ECH ES 40. 000, 00 -
+
+00' 000' 091- 40000,00 00' 000' 0L£ 1 00' 000091 210 000, 00 1 170000, 00 1 1
+
+PLANOP LU RI ANUAL z E a. u\_ w z w Perío do: 2 001/2005
+
+GASTOSCOMP ROJETOS DESPESA EX EC UÇÃO DADOSREF. ÁS PROJETO S ZOOZ COOZ 4002 900Z DE SP. CONTINUADAS TOTAL CONTINUADA 1 1—Çj-1 MATE RIAIS MÃODEOBRA EQUIP. EAMORT. 1 1 1 01 COMP UTADO RCOM 00' 000' 9 00' 000' 9 5. 000, 00 IM PRESSOR A AMORTIZAÇÃODA D ÍVI DA nnNTR ATADA 914. 760, 00 914. 760,00 435600, 00 479. 1 60, 00 \_ AMO RTIZAÇÃODEOUTRAS 348.000, 00 348. 000,00 1 74. 000, 00 1 174. 000, 00 DÍVI DAS ( INSS)
+
+l oo' 00°os 600. 000, 001 300. 000, 00 l oo' 000' ooe IN DENIZAÇÕESEPRECATÓR IOS
+
+00`09L199 00' 09L L99 953. 1 60, 00 I.
+
+PLANOPLU RI ANUAL Secretaria: MU NICIPALD EADMINISTRAÇÃO PER ÍO DO: 2001/200 5 GASTOSCOMPROJ ETOS DE SPESA EXECUÇÃO DADOSREF. AS I PROJETOS I MATERIAIS1 MÃODEOBRAIlEQUI P. EAM O RT 1 TOTAL1 CONTINUADA 20022003 % 200420 05 DES P. CONTINUADAS 1
+
+EQ UIPA M E NTOSPARA
+
+MO DE RN IZAÇÃODO 00 . 000 .9£ 00' 000' 9£ 00' 0008 30. 000, 00 PR ÉDIOM UNICIPAL
+
+00' 000 . 9£ 8. 000, 00 00' 000 '0£ 38. 000, 00
+
+-
+
+PLANOP LU RIANUAL Secretaria: PROCU RADORIA J U RÍDICA ■
+
+Período: 2001/200 5 GASTOSCOM PROJETOS DESPESA DADOSREF. AS PROJETOS [ MAT ERIAIS1 MÃODEOBRA1 EQUIP. E AMORT. TOTAL CONTINUADA DESP. CONTINUADAS
+
+MONTAG E MDE 01 0 0 '00 0' 01. 00' 000' 9 5. 000, 00 BI BLIOTE CAJUR ÍDICA 1 10.000,00
+
+111 YIY A
+
+00' 000' 01. 1 10. 000, 00 IN 00' 0005
+
+00' 0009
+
+PLANO PL U RI ANUAL
+
+MUNICI PALDE OB RASESERVIÇOS P ÚBLICOS 2 -8 N O LO
+
+DADOSREF. AS DESPESA
+
+NOZ £00Z VOOZ '6-e 900Z DESP. CONTI NUADAS I MÃODEO B RA CO NT INUADA
+
+300. 000, 00 1 00' 000 . 0Z'. L> < CO O O O
+
+L) Cr O 420000, 00 1 E W W W <D O < o ev O O c;
+
+.i O 00 '0 00 '0£ 00' 000 . 0£ Cr — Efe C ■ az b O C O 00' 000 . 0£ 60. 000, 00 U L a e') 0 1 1 CONSTRUÇÃOM ERCADO O o 00' 000' 09 O O O
+
+ci o 00' 000' 01. 09 00' 00009 MU NICI PAL O
+
+CO NSTRUÇÃODEPONTES E O 00000 91. 15 000, 001 O O 00' 00001 30. 000, 00 O MATAR ..... .. .\_ \_U RROS O
+
+CONSTRUÇ ÃO2 PONTES- CÓR- O 00'000 91. O O 1 5. 000, 00 nr-nr, DOS Aor-ncioln PR ETO ,— Lr) O O
+
+AV. SANITÁR IACÓRREGO O 30. 000, 00 00' 000' 001-
+
+O 130. 000, 00 nn, /-217 C O O O cc O 0 250000, 00 a cc L.. ••-- • Nb o O O O ON 250. 000, 00 1,-, 1 ,40I
+
+EXECUÇÃO RE DE ESGOTO E M O O 00`000 09 20. 000, 00 40 000, 00 nnimr2 G•rte VIAS I URBANAS o CO O O O O 0
+
+O O o o 400. 000, 00 300. 000, 00
+
+u) o o O O O O
+
+b o 700. 000, 00 PAVIM E NTAÇÃOVIASP ÚBLICA S
+
+CONSTRUÇÃOR EDEDE ÁGUA
+
+00' 000 0£ 20 000, 00 no-yr Á rr onrn n QrCc, Anl fl o 0 O O 50 000, 00 cst O O
+
+O o o 00' 000' 0£ 50000, 00 o 0 O O
+
+O 00' 00008 ar O O O ar
+
+COMPRADEMESAS, CADEIRAS EA RMA RI OSP/AL MOXARIFA DO o 5. 000, 00 O
+
+cc 0 00' 000 9 EO UTROSEQ UI PAMENTOS 00' 00009£ 00 000 09£ 00' 000 . 09£ I I 1. 00 000 00 I. I n ge, 11,i , 7, r, owron 00' 000' 001. 00' 00000 1
+
+i , c c c c 'é2 .- c , c .- - o o Ó o o O o o O
+
+I -
+
+PLANOP LU RIANUAL (i) oa) a) co co MUN ICI PALD EOBRASE S ERVIÇOSP ÚBLI COS Pe río do : 2001/2 005
+
+DES PESA EXECUÇ ÃO DADOSREF. ÁS GASTOSCOMPROJETOS PROJETOS \_ E ZOOZ £00Z 9002 DES P. CONTINUADAS W
+
+I- < 2 MÃO D EOBRA EQUIP. EAMORT. TOTAL 1 CONTINUADA 1 4001 ci (,)
+
+-,x G zZ W w O 250. 000, 00 1 250. 000, 00 1 250. 000, 00 1 ir; PRAÇAS:
+
+O
+
+ó 00' 000' 0 1. 10. 000, 00 IDADE \_ pnn RR354./C\_ .\_..\_\_ NOVA — REMODE LAÇÃOPRAÇA FI () PI AN OPEI XOTO 00000' 0L 1 00' 000' 09 1 00` 000 0£ 130. 000, 00 • 2 <C ! cn a 1 < a . a •• z • ct i p - )• O C/) 00' 000' 01. 00' 000' 01. oz oo' 000 . l oo' 000oz l CONSTR UÇÃODEMU ROP/ DIVERSOSFEC HAME NTOS D E -
+
+ci
+
+tri 00' 000' 91. 00' 000 04 oo' 000 91. 25. 000, 00 TERREN OSP ÚBL ICOS ) ce ) < 1-1-1 ) ) cv ! O • < ) 0- • et i I— .' 0 z O er 00' 000 OL 00' 000' 0E 00' 000' 001. 100. 000, 00 .-1 O - 0 CL E-c O
+
+ce C 1.,\_ u. a 5 in —
+
+c) ce o < 00' 000 . 04 00' 000' 09 00' 000' 001. 100. 000, 00 \_......
+
+EXECUÇÃODECALÇADAS E 00' 000' 0£ 00' 000' 09 20. 000, 00 00' 0000£ Ú . PASSEIOSP . BLICOS 00 000"0Z
+
+IMPLAN TAÇÃODE I NF RA- ESTRUTU RAEMDISTR ITO 00' 000' OL l oo` 000 00' 00004 00' 000' 001. I NDUST R IAL\_ 000000L
+
+IMPLANTAÇÃODE I NFRA- ESTRU TU RAEMLOTEAME NTO POPU LARP/ATENDER
+
+ó 120. 000, 00 00' 0000£ 00' 00006
+
+RESSOAR CA RENTE S i. < o . ) [--. 50.000. 00 <-- O ‘< O 5 c7) o < ce õ 120000, 00 00' 000• OZL 00' 000 . 0Z I. .. a 0 )) D cC u, < 1 CON STR UÇÃODAAVENI DA
+
+SAN ITÁRI ADOCÓRREGO DA BIQ UI NH AEESTAÇÃODE 00' 000009 00' 000 OOL 400. 000, 00 TRATA M E NTODEE SGOTO 200. 000, 00 171 8. nrin nn 1. 780. 000,00
+
+PLANOP LU RIAN UAL MUNICI PALDEOBRASES ERVIÇOSP ÚBLICOS II I
+
+DESPESA ZOOl £130E 17001 SOOZ i 1 MÃODEOBRA1 CONTINUADA
+
+ILUM INAykkl, tLLittx1 u mmum
+
+QUA D RADEES PO RTE S O o o o
+
+ci
+
+cri 00' 000 . 0L 20. 000, 00 50.000, 00 Lu, DI VE RS AS cn Iii ci O c" CONS TR UÇÃOD E UM 00` 000 . 0£ 00' 000 . 0£ ..I J C.'I RI nMIIMI CIPAI < ci cm OOO o o 10. 000. 00 cc < o\_ o < .! o O • W z wr, LU CL 5- > z o— 'z o 0 ,.., o o = o < 00' 000 . 00 Z O os ,,,, , ci co O
+
+d- 40. 000. 00
+
+O s. . r, 1CD' O
+
+1 30' 000 . 0ZZ . I- 00' 000. 06Z . 17 oo' 000ou.1. \_2. 235. 000, 00 835. 000, 00
+
+PLA N OPLU R IAN UAL O x w° z z U 5 < o o CO
+
+DESPESA EXEC UÇAO DADOSRE F. Á GASTOSCOMPROJE TOS PROJETOS - 1-71j COOZ POOZ roz- SOOZ DE SP. CONTINUA SIVIU3 1.VW MÃODEOBRA1 EQUIP. EAM ORT. 1 TOTAL CONTINUADA zooz 1 O j.) -É- <o o > .17j 30. 000, 00 (...) Cco o, N oo -Eõ ci LO o> -0 ar c o c° o c ° co
+
+"à" 27. 500, 00 27. 500, 00 11.1 w 0-
+
+cr a,) E O 27. 500, 00
+
+27. 500, 00 27. 500, 00 00' 000' 0£
+
+PLANOPLU RIAN UAL z O —J w Per ío do : 2 001 /2 00 5 O2 w DESPESA EXECUÇÃO DADOSREF. ÁS
+
+1001 COOI 4002 900Z DES P. CONTI NUADAS MÃODEOBRA CONTINUADA
+
+EQ UIP. DE I N FO RMÁTICAPARA 00 , 000 . 0v 00' 000' 04
+
+=c1c c FTnI2FRnASA LJflF ) 40. 000, 00 174. 000, 001 ■ 72. 000, 00 1 102. 000, 001 C < (-; a 174. 000, 00
+
+EQ U I PARPSF ( PROG RAMAS 00' 000' 0£ 1 DE SAÚD EDAFAM ÍL IA) 30. 000,00 30. 000, 00
+
+MO NTAG E MDOSSERV IÇOS: RAI OX; U LTRASO NOGR AFI A; ELETROCAU T ÉR IO, 00' 000 09 1. 00' 000' 091. 00' 000 . 09 00' 000' 09 wrunricr e-)PI . AF \_ FISIOTER AP IA .• \_ „... MICROSCÓP IOS; APAR ELH O
+
+PA RAREALIZAÇÃODE EXA M ES BIOQ U ÍM ICOSEA PA RE LHO PARADOSAGEMHORM ON AL
+
+o-
+
+F T1 1:7F e1 I nF tri Lri ¡ri - ) - 1 2 00' 000' 09 00' 000 . 09 C a ct c cn 00' 00009 O CO NVÉNI O CIOPROGR AM ADE ASSI ST ÊN CIAFARMAC ÊUTI CA 20. 000, 00 -- „ BÁSI CA CONVÊNI OC/0CISASF (CONS ÓRC IOINTERMU NIC I PAL DESA ÚD EDOALTOSAO rpetu ricr.rn 1 20. 000, 00
+
+00' 000' 091 00' 000' 0001.
+
+PR OGRAMADEDISTRI BUIÇÃO 00' 000' L 00' 000. Z nFTAMP A S 7. 000, 00
+
+00' 00091 1 5. 000, 00 15. 000, 00
+

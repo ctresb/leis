@@ -1,0 +1,52 @@
+{
+  "host": "sapl.fenix.pr.leg.br",
+  "metadados_unicos_observados": 138,
+  "total_api_declarado": 138,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 40,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/81adb0989ac7bc781ae581a2275586bc663558653c96e22287b8418ed02663b6.json",
+    "url": "https://sapl.fenix.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.fenix.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "aece0cf044dd8927ccdbbdac9be862c6475f36ce958e92255cec8da8545dd0ec",
+    "bytes": 1113,
+    "capturado_em": "2026-10-28T10:32:12.831656-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/deee410eb6bc3ef1f7db94138065f3dfc4c148da7cfd721de7025d22f3b95abd.json",
+    "url": "https://sapl.fenix.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.fenix.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fc0cb9d7d91a3d7991b52de1b8393ad0db185e7fb6aeb939d0cebaad9770b75c",
+    "bytes": 842,
+    "capturado_em": "2026-10-28T10:32:11.740785-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/73eaf414d594df62b21088730bbdd87be5356dc22134cff9d891d85d5b9a6b6b.json",
+      "url": "https://sapl.fenix.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.fenix.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7660e6f6b852a9277aa0f1ea5ede636bd8e3cb31ba363b63c65001df61ae78bc",
+      "bytes": 59398,
+      "capturado_em": "2026-10-28T10:32:15.417261-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ffa028629190b7d638a124d29e6e0fb01120a5e1858c4c0999c978629c517e6b.json",
+      "url": "https://sapl.fenix.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.fenix.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c201d12b9cbd121b1727d586f60c2890daed6a7fb98f7c92d37901e343b48890",
+      "bytes": 22201,
+      "capturado_em": "2026-10-28T10:33:06.044651-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

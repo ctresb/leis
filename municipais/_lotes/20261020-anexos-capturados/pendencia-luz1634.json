@@ -1,0 +1,21 @@
+{
+  "norma": "municipais/MG/luz/leis-ordinarias/2008/leis-ordinarias-1634-2008-sapl-445.md",
+  "fonte_adicional": "https://sapl.luz.mg.leg.br/media/sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf",
+  "sha256_fonte": "4f734d5a363622d2c12d8007a457d7685b8d89e29bbf5b638e8b763d9f42f6cd",
+  "anexos_detectados": [
+    "I",
+    "II",
+    "III",
+    "IV",
+    "IX",
+    "V",
+    "VI",
+    "VIII",
+    "X"
+  ],
+  "retido": "Arts64–65 exigem AnexoVII, não localizado nem no principal nem no arquivo adicional19p. Não certificada integralidade pela mera integração do adicional.",
+  "transcricao_extraida": {
+    "path": "municipais/_lotes/20261020-anexos-capturados/luz-1.txt",
+    "sha256": "b98ae1cd1750417bae6c85630187c8f7a0a4b8a9e660e348b303804917876e40"
+  }
+}

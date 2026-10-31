@@ -1,0 +1,31 @@
+Abre Crédito Suplementar ao Orçamento vigente
+
+
+A CÂMARA MUNICIPAL DE ENG. PAULO DE FRONTIN aprova e eu, José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte,
+
+
+Art. 1º.
+
+Fica aberto crédito adicional suplementar ao orçamento vigente, no valor de R$ 2.782.123,86 (dois milhões, setecentos e oitenta e dois mil, cento e vinte e três reais, oitenta e seis centavos), para reforço das seguintes dotações:
+
+
+<table><colgroup><col span="6"><col><col></colgroup><tbody><tr><td><strong>Órgão</strong> </td><td><strong>Unid</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Programas</strong> </td><td><strong>Proj/Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Valor (R$)</strong></td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.1.90.94.00.00.00.00.0100 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2345</td><td>3.1.90.13.00.00.00.00.0203 </td><td>410.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2310</td><td>3.3.90.14.00.00.00.00.0201 </td><td>3.939,30</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2350</td><td>3.1.90.13.00.00.00.00.0203 </td><td>77.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.1.90.13.00.00.00.00.0203 </td><td>248.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.39.00.00.00.00.0201 </td><td>557.804,32</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2332</td><td>3.3.90.39.00.00.00.00.0203 </td><td>246.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2350</td><td>3.3.90.39.00.00.00.00.0203 </td><td>39.380,24</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.3.90.39.00.00.00.00.0203 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2368</td><td>3.3.90.39.00.00.00.00.0203 </td><td>1.000.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Os recursos orçamentários para dar cobertura ao crédito adicional suplementar são advindos da anulação das despesas das categorias econômicas, com fulcro no artigo 43, §1º, inciso III da Lei 4.320/64, como segue:
+
+
+<table><colgroup><col span="6"><col><col></colgroup><tbody><tr><td><strong>Órgão</strong> </td><td><strong>Unid</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Programas</strong> </td><td><strong>Proj/Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Valor (R$)</strong></td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.1.90.32.00.00.00.00.0100 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2345</td><td>3.1.90.11.00.00.00.00.0203 </td><td>410.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2310</td><td>3.3.90.32.00.00.00.00.0201 </td><td>3.939,30</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2350</td><td>3.3.90.30.00.00.00.00.0203 </td><td>77.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.3.90.30.00.00.00.00.0203 </td><td>55.579,94</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.3.90.32.00.00.00.00.0203 </td><td>150.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.3.90.39.00.00.00.00.0203 </td><td>22.420,06</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>4.4.90.52.00.00.00.00.0203 </td><td>20.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.30.00.00.00.00.0203 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.30.00.00.00.00.0201 </td><td>48.850,32</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.32.00.00.00.00.0203 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.32.00.00.00.00.0201 </td><td>54.797,12</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.39.00.00.00.00.0203 </td><td>64.610,62</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>4.4.90.52.00.00.00.00.0203 </td><td>50.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>4.4.90.52.00.00.00.00.0201 </td><td>50.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2332</td><td>3.3.90.30.00.00.00.00.0203 </td><td>151.091,26</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2332</td><td>3.3.90.32.00.00.00.00.0203 </td><td>34.908,74</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2332</td><td>4.4.90.52.00.00.00.00.0203 </td><td>60.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2350</td><td>3.3.90.30.00.00.00.00.0203 </td><td>34.380,24</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2350</td><td>3.3.90.32.00.00.00.00.0203 </td><td>5.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.3.90.30.00.00.00.00.0203 </td><td>50.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.3.90.32.00.00.00.00.0203 </td><td>50.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2368</td><td>3.3.90.32.00.00.00.00.0203 </td><td>1.000.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2374</td><td>3.3.90.30.00.00.00.00.0201 </td><td>46.489,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2374</td><td>3.3.90.32.00.00.00.00.0201 </td><td>43.057,26</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação retroagindo seus efeitos a partir de sua edição.
+
+
+Engenheiro Paulo de Frontin, 30 de novembro de 2021.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal

@@ -1,0 +1,106 @@
+---
+titulo: "Lei nº 45, de 08 de julho de 1966"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "45"
+data: "1966-07-08"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/1966"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/187/text"
+sha256_fonte: "ca623319fec128ec51968891c248d6b0c8b9bdca23d359f952a6d5067949ea36"
+sha256_texto: "ce7fa749c3aeab1131cb0adecf239291339170ef88a122c87093f1b2d9a12aff"
+capturado_em_fonte: "2026-10-28T13:59:50.378675-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 45, de 08 de julho de 1966
+
+Que dispõe sobre autorização a Prefeitura para a execução de até 30.000 metros quadrados de cancelamento e abre um crédito especial no valor de CR$ 300.000.000,00
+
+
+**Faço saber que a Câmara Municipal de Ibiúna** aprova, e, eu, Seme Issa na qualidade de Prefeito Municipal de Ibiúna, sanciono e promulgo a seguinte lei.
+
+
+Art. 1º.
+
+Fica a Prefeitura Municipal de Ibiúna, autorizada a executar até 30.000 (trinta mil metros) quadrados de cancelamento com paralelepípedos comum, tipo “Prefeitura”, em vias públicas da cidade na conformidade do esquema a ser elaborado previamente pelo Poder Executivo.
+
+
+§ 1º
+
+Os serviços de que trata este artigo serão realizadas mediante concorrência pública.
+
+
+§ 2º
+
+Poderá a Prefeitura de comum acordo com o vencedor da concorrência reduzir a metragem total, de calçamento, devendo entretanto ser realizado um mínimo CR$ 20.000,00 (vinte mil) metros de calçamento.
+
+
+Art. 2º.
+
+O custo dos serviços de pavimento e colocação de guias, que vierem a ser executados nos termos desta lei, será dividido igualmente entre os proprietários dos imóveis marginais as vias públicas, locando aos proprietários a soma das quotas correspondentes as testadas de suas propriedades ou lados caso a propriedade seja de esquina. Será dividido igualmente entre Prefeitura e os proprietários marginais aos logradouros públicos, se os serviços de pavimentação forem efetuados em praças ou jardins públicos.
+
+
+Art. 3º.
+
+As quotas serão divididas em 30 (trinta) prestações mensais, pagáveis no prazo improrrogável até 10 (dez) dias após o recebimento do aviso.
+
+
+§ 1º
+
+Na execução dos serviços de calçamento colocação de guias e sarjetas e de construção de passeios o custo dos serviços será acrescido de 20% (vinte por cento) cobrado a titulo de administração.
+
+
+§ 2º
+
+AS prestações não pagas dentro do prazo estipulado neste artigo, serão acrescidos da multa de 30% (trinta por cento), podendo ser encaminhada imediatamente a cobrança executiva.
+
+
+Art. 4º.
+
+O produto resultante de arrecadação da taxa de execução de calçamento e colocação de guias, nos termos desta lei, será recolhido a Caixa Econômica ou banco, em conta especial a qual somente poderá ser movimentada para fins de pagamento das prestações a firma executiva, deixando os respectivos cheques serem firmados pelo Prefeito, Tesoureiro e técnico contábil.
+
+
+Art. 5º.
+
+No final do pagamento de contrato celebrado, os juros existentes poderão ser retirados e contabilizados em nome da Prefeitura.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução da presente lei, correrão a conta de credito especial ate a importância de CR$ 300.000.000,00 (trezentos milhões de cruzeiros) com vigência de 03 (três) anos.
+
+
+Art. 7º.
+
+O valor do credito a ser utilizado em cada exercício será coberto com o produto do excesso de arrecadação verificado nas rubricas taxas de execução de calçamento e colocação de guias e sarjetas.
+
+
+Art. 8º.
+
+O pagamento total das quotas de uma só vez, antes do vencimento da 1ª prestação proporcionara ao proprietário um desconto de 10% (dez por cento).
+
+
+Art. 9º.
+
+Esta lei entrara em vigor na data de sua publicação, revogadas as deposições em contrario.
+
+
+PREFEITURA MUNICIPAL DE IBIUNA, AOS 08 DIAS DO MÊS DE JULHO DE 1966.
+
+**SEME ISSA**
+
+**Prefeito Municipal**
+
+Publicado na Secretaria da Prefeitura Municipal em edital afixado ao local de costume data supra.
+
+**Gregório de Almeida Lima Netto**
+
+**Responsável pelo expediente da Secretaria.**
+

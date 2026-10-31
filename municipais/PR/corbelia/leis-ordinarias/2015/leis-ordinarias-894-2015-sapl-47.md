@@ -1,0 +1,192 @@
+---
+titulo: "04 - Lei Ordinária nº 894, de 02 de outubro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "894"
+data: "2015-10-02"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/47"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/255/text"
+sha256_fonte: "29f9c59c2b2d9649e9fa3209b5f7190b2db896070abee2c2eaa56130dff48b0f"
+sha256_texto: "8215fe229707a60354c97748bc7ae24d91f3db478926777e83c3699baf03f221"
+capturado_em_fonte: "2026-10-28T06:11:25.265131-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 894, de 02 de outubro de 2015
+
+Torna obrigatória a instalação de dispositivos de segurança nas agências e nos postos de serviços das instituições financeiras, localizadas no Município de Corbélia – Paraná.
+
+
+A CÂMARA MUNICIPAL DE VEREADORES DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Ficam os estabelecimentos financeiros obrigados a instalar dispositivos de segurança em suas agências e postos de serviços, situados no âmbito do Município.
+
+
+Parágrafo único
+
+Os estabelecimentos financeiros referidos neste artigo compreendem bancos oficiais ou privados, caixas econômicas, sociedades de crédito, associações de poupança, suas agências, postos de atendimento, subagências e seções, assim como as cooperativas singulares de crédito e suas respectivas.
+
+
+Art. 2º.
+
+Sem prejuízo de outros equipamentos, cada unidade de atendimento das instituições de que trata o art. 1º desta Lei deverá dispor de:
+
+
+I –
+
+porta eletrônica de segurança individualizada, em todos os acessos destinados ao público, incluindo o espaço de autoatendimento, provida de:
+
+
+a)
+
+detector de metais;
+
+
+b)
+
+travamento e retorno automático;
+
+
+c)
+
+vidros laminados e resistentes ao impacto de projéteis oriundos de armas de fogo até calibre 45;
+
+
+d)
+
+abertura ou janela para entrega, ao vigilante, do metal detectado;
+
+
+e)
+
+recuo após a fachada externa para facilitar acesso, com armário de portas individualizadas e chaveadas para guarda de objetos de clientes;
+
+
+II –
+
+vidros laminados resistentes a impactos e a disparos de armas de fogo, nas divisórias internas entre o autoatendimento e o interior das agências e postos de serviço bancários no mesmo piso, os quais deverão possuir :
+
+
+a)
+
+composição por lâminas de cristais interligados;
+
+
+b)
+
+película apropriada para a retenção de estilhaços; e
+
+
+c)
+
+nível de proteção III ou III-A, de acordo com a norma internacional para blindagem.
+
+
+III –
+
+sistema de monitoramento e gravação eletrônica de imagens, em tempo real, através de circuito fechado de televisão, interligado com central de controle fora do local monitorado, com:
+
+
+a)
+
+câmeras com sensores capazes de captar imagens em cores com resolução capaz de permitir a clara identificação de assaltantes, criminosos e suspeitos, instaladas em todos os acessos destinados ao público, em todos os caixas e locais de acesso aos mesmos, na sala dos terminais de autoatendimento e em áreas onde houver guarda e movimentação de numerário no interior do estabelecimento, bem como nas calçadas externas e na área de estacionamento, onde houver;
+
+
+b)
+
+equipamento que permita gravação simultânea e ininterrupta das imagens geradas por todas as câmeras do estabelecimento durante o horário de atendimento externo e quando houver movimentação de numerário no interior do estabelecimento;
+
+
+c)
+
+gravação simultânea, permanente e ininterrupta das imagens de todas as câmeras, de forma que sempre se tenha armazenadas, no equipamento de controle, as imagens nas últimas 24 (vinte e quatro) horas;
+
+
+d)
+
+equipamento de gravação de caixa de proteção e instalação em local que não permita sua violação ou remoção através da utilização de armas de fogo, ferramentas ou instrumento de utilização manual;
+
+
+e)
+
+equipamento com alimentação de emergência capaz de mate-lo operante por no mínimo 2 (duas) horas, no caso de estabelecimento de atendimento convencional;
+
+
+IV –
+
+divisórias opacas e com altura de dois metros entre os caixas, inclusive nos caixas eletrônicos, para garantir a privacidade dos clientes durante as suas operações bancárias;
+
+
+V –
+
+biombos ou estrutura similar com altura de dois metros entre a fila de espera e a bateria de caixas das agências, bem como na área dos terminais de autoatendimento, cujos espaços devem ser observados pelos vigilantes e controlados pelas câmeras de filmagem, visando impedir a visualização das operações bancárias por terceiros.
+
+
+Art. 3º.
+
+É vedado aos vigilantes o exercício de qualquer outra atividade no interior da agência, que não seja a segurança.
+
+
+Parágrafo único
+
+O trabalhador de que trata este artigo deverá usar colete à prova de bala de nível 03, portar arma de fogo e arma não letal autorizada, além de dispor de escudo de proteção com assento apropriado.
+
+
+Art. 4º.
+
+O estabelecimento financeiro que infringir a cada um dos itens dispostos nesta lei ficará sujeito às seguintes penalidades:
+
+
+I –
+
+advertência: na primeira autuação, o banco será notificado para que efetue a regularização da pendência em até 10 m(dez) dias úteis;
+
+
+II –
+
+multa: persistindo a infração, será aplicada multa no valor de 1.000 UFFIs (Unidades Fiscais de Corbélia); se, até 30 (trinta) dias úteis após a aplicação da multa, não houver regularização da situação, será aplicada uma segunda multa no valor de 2.000 UFFIs;
+
+
+III –
+
+interdição: se, após 30 (trinta) dias úteis da aplicação da segunda multa, persistir a infração, o Município procederá à interdição do estabelecimento financeiro.
+
+
+Parágrafo único
+
+As entidades sindicais dos bancários e vigilantes poderão representar junto ao Município contra o(s) infrator(es) desta Lei.
+
+
+Art. 5º.
+
+Os estabelecimentos financeiros terão o prazo de 180 (cento e oitenta) dias, a contar da publicação desta Lei, para instalarem os equipamentos exigidos no art. 2º desta Lei.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+EDIFÍCIO DA PREFEITURA MUNICIPAL DE CORBÉLIA PARANÁ
+
+Em 02 de outubro de 2015.
+
+Ivanor Damião Bernardi
+
+Prefeito Municipal
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/47/ta
+

@@ -1,0 +1,39 @@
+---
+titulo: "DECRETO Nº 4635/2026, DE 29 DE JUNHO DE 2026."
+uf: "RO"
+municipio: "MONTE NEGRO"
+tipo: "Decreto"
+numero: "4635"
+data: 2026-06-29
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 01/07/2026"
+data_publicacao: 2026-07-01
+codigo_identificador: "699AAEEA"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116098_2026-06-30_ebf20f10f8f903cff162df9934e69134.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 4635/2026, DE 29 DE JUNHO DE 2026.
+
+DECRETO Nº 4635/2026, DE 29 DE JUNHO DE 2026.
+Abertura de crédito adicional especial, no Orçamento
+programa de 2026.
+O PREFEITO(A) MUNICIPAL DE MONTE NEGRO, no uso de suas
+atribuições que lhe confere a Lei Orgânica do Município de MONTE
+NEGRO e autorização contida na Lei Municipal nº 1949/2026, de 25
+de Junho de 2026.
+D E C R E T A:
+Art. 1º - Fica aberto no corrente exercício Crédito no valor de R$
+327.576,78, para a(s) seguinte(s) dotação(ões) orçamentária(s):
+02.000 - EXECUTIVO
+02.004 - SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS
+PÚBLICOS
+02.004.15.451.3.1066-4.4.90.51.00.00.00.00
+OBRAS
+E
+INSTALAÇÕES
+R$327.576,78
+
+Publicado por:
+Schirle Mariani Marques

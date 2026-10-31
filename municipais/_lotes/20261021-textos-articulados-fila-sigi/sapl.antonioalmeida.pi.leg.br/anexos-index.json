@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.antonioalmeida.pi.leg.br/cbaf523e069455f5ffaf891cfceb8a9fe2cb51be2117e4421a62b5224208cf6c.json",
+      "url": "https://sapl.antonioalmeida.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.antonioalmeida.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T16:45:57.035062-03:00"
+    }
+  ]
+}

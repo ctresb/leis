@@ -1,0 +1,201 @@
+---
+titulo: "LEI MUNICIPAL N° 2.962 DE 23 DE SETEMBRO DE 2026."
+uf: "RJ"
+municipio: "MENDES"
+tipo: "Lei Ordinária"
+numero: "2962"
+data: 2026-09-23
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 24/09/2026"
+data_publicacao: 2026-09-24
+codigo_identificador: "DA55FA4B"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=265&i=publicado_117428_2026-09-23_8fde1f629f90227388c960ff764ba164.pdf"
+baixado_em: 2026-10-16
+---
+# LEI MUNICIPAL N° 2.962 DE 23 DE SETEMBRO DE 2026.
+
+LEI MUNICIPAL N° 2.962 DE 23 DE SETEMBRO DE 2026.
+EMENTA: Abertura de Crédito Adicional Especial em favor da Prefeitura Municipal de Mendes.
+A CÂMARA MUNICIPAL DE MENDES APROVA E EU SANCIONO A PRESENTE LEI
+Art. 1º. Fica o Poder Executivo Municipal autorizado a abrir Crédito Adicional Especial no valor de R$ 2.676.832,60 (Dois milhões, seiscentos e
+setenta e seis mil, oitocentos e trinta e dois reais e sessenta centavos), para atender a despesa da seguinte dotação orçamentária:
+Codificação
+03.
+03.01
+03.01.08
+03.01.08.122
+03.01.08.122.0025
+03.01.08.122.0025.2.045
+3.1.90.04.00.00.00.00.2.500
+3.1.90.11.00.00.00.00.2.500
+
+03.
+03.01
+03.01.08
+03.01.08.271
+03.01.08.271.0025
+03.01.08.271.0025.2.170
+3.1.90.13.00.00.00.00.2.500
+
+12.
+12.01
+12.01.12
+12.01.12.122
+12.01.12.122.0008
+12.01.12.122.0008.2.023
+3.1.90.04.00.00.00.00.2.500.1001
+3.1.90.11.00.00.00.00.2.500.1001
+3.1.90.13.00.00.00.00.2.500.1001
+3.3.90.46.00.00.00.00.2.500.1001
+3.3.90.49.00.00.00.00.2.500.1001
+3.3.90.39.00.00.00.00.2.500.1001
+
+Discriminação da Despesa
+Fundo Municipal de Assistência Social
+Fundo Municipal de Assistência Social
+Assistência Social
+Administração Geral
+Assistência Social Geral
+Manutenção da Unidade
+Contratação por Tempo Determinado
+Vencimentos e Vantagens Fixas – Pessoal Civil
+
+Fundo Municipal de Assistência Social
+Fundo Municipal de Assistência Social
+Assistência Social
+Previdência Básica
+Assistência Social Geral
+Contribuições Previdenciárias
+Obrigações Patronais
+
+Fundo Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Administração Geral
+Administração Executiva
+Manutenção da SME
+Contratação por Tempo Determinado
+Vencimentos e Vantagens Fixas – Pessoal Civil
+Obrigações Patronais
+Auxílio-Alimentação
+Auxílio-Transporte
+Outros Serviços de Terceiros, Pessoa Jurídica
+
+02.
+02.11
+02.11.15
+02.11.15.451
+02.11.15.451.0016
+02.11.15.451.0016.2.019
+3.3.90.39.00.00.00.00.2.500
+
+Prefeitura Municipal de Mendes
+Secretaria Municipal de Obras e Habitação
+Urbanismo
+Infra-Estrutura Urbana
+Melhorias para Cidade
+Infra -Estrutura Manutenção
+Outros Serviços de Terceiros, Pessoa Jurídica
+
+02.
+02.21
+
+Prefeitura Municipal de Mendes
+Secretaria Municipal de Serviços Públicos
+
+www.diariomunicipal.com.br/aemerj
+
+Valor em R$
+
+R$ 85.000,00
+R$ 270.000,00
+
+R$ 27.000,00
+
+R$ 100.000,00
+R$ 390.000,00
+R$ 50.000,00
+R$ 20.000,00
+R$ 24.000,00
+R$ 4.000,00
+
+R$ 340.000,00
+
+14
+
+Rio de Janeiro , 24 de Setembro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVIII | Nº 4212
+02.21.15
+02.21.15.452
+02.21.15.452.0016
+02.21.15.452.0016.2.021
+3.3.90.39.00.00.00.00.2.500
+3.3.90.39.00.00.00.00.2.704
+3.3.90.39.00.00.00.00.2.705
+
+Urbanismo
+Serviços Urbanos
+Melhorias para Cidade
+Iluminação Pública – Manutenção
+Outros Serviços de Terceiros, Pessoa Jurídica
+Outros Serviços de Terceiros, Pessoa Jurídica
+Outros Serviços de Terceiros, Pessoa Jurídica
+
+R$ 814.000,00
+R$ 120.000,00
+R$ 56.000,00
+
+02.
+02.16
+02.16.26
+02.16.26.122
+02.16.26.122.0008
+02.16.26.122.0016.2.044
+3.3.90.39.00.00.00.00.2.705
+
+Prefeitura Municipal de Mendes
+Secretaria Municipal de Transporte
+Transporte
+Administração Geral
+Administração Executiva
+Frota – Manutenção
+Outros Serviços de Terceiros, Pessoa Jurídica
+
+R$ 79.860,00
+
+02.
+02.08
+02.08.04
+02.08.04.122
+
+Prefeitura Municipal de Mendes
+Secretaria Municipal de Administração
+Administração
+Administração Geral
+
+02.08.04.122.0008
+02.08.04.122.0016.2.009
+3.3.90.39.00.00.00.00.2.705
+3.3.90.39.00.00.00.00.2.500
+3.3.90.40.00.00.00.00.2.705
+
+Administração Executiva
+Manutenção da SMA
+Outros Serviços de Terceiros, Pessoa Jurídica
+Outros Serviços de Terceiros, Pessoa Jurídica
+Serviços de Tecnologia da Informação e Comunicação
+
+R$ 49.372,60
+R$ 117.400,00
+R$ 130.200,00
+
+TOTAL DA SUPLEMENTAÇÃO......................................................... R$ 2.676.832,60
+Art. 2º. Para permitir a abertura do Crédito Adicional Especial, será utilizado como fonte de recurso Superávit Financeiro apurado em Balanço
+Patrimonial do exercício anterior de acordo com o inciso I, parágrafo 1º, do artigo 43 da Lei Federal nº 4.320 de 17 de março de 1964.
+Art. 3º. Esta Lei entrará em vigor na data de sua publicação, revogada as disposições em contrário.
+Prefeitura Municipal de Mendes (RJ), em 23 de setembro de 2026.
+JORGE HENRIQUE COSTA DE OLIVEIRA
+Prefeito Municipal
+Publicado por:
+Cristiane Silva Figueira

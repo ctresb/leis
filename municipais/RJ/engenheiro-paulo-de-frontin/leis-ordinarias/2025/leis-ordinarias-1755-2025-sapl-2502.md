@@ -1,0 +1,184 @@
+---
+titulo: "Lei Ordinária-PMEPF nº 1.755, de 10 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1755"
+data: "2025-12-10"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2502"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1785/text"
+sha256_fonte: "140501589dccbf3be8749a37eafcd09e28bd0948a5fdd11520dcf14fa52ca5a4"
+sha256_texto: "2211c3cf32324ce004e64e700e689d94791d3705ce093c3c3c496cd199bc29c9"
+capturado_em_fonte: "2026-10-28T10:31:44.631099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-PMEPF nº 1.755, de 10 de dezembro de 2025
+
+O PREFEITO MUNICIPAL de Engenheiro Paulo de Frontin, Estado do Rio de Janeiro, no uso de suas atribuições legais, faz saber que a CÂMARA MUNICIPAL aprovou e foi sancionada a seguinte LEI MUNICIPAL:
+
+
+Art. 1º.
+
+Fica instituída, no âmbito do Município de Engenheiro Paulo de Frontin - RJ, a nova metodologia de cofinanciamento do Piso de Atenção Primária à Saúde (APS), conforme as diretrizes estabelecidas pela Portaria GM /M S nº 3.493, de 10 de abril de 2024. O cofinanciamento destina-se aos profissionais de saúde devidamente inscritos no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES), e também, os Gerentes das Unidades da Estratégia Saúde da Família, que atuam nas equipes da Estratégia Saúde da Família (ESF), Equipe de Saúde Bucal (ESB) e Equipes Multiprofissionais (EM ulti) do Sistema Único de Saúde (SUS).
+
+
+Art. 2º.
+
+Fica autorizado, no âmbito do Município de Engenheiro Paulo de Frontin - RJ, o pagamento de incentivo financeiro por desempenho aos profissionais de saúde, nos termos da Portaria GM /M S nº 3.493, de 10 de abril de 2024, até que seja publicado novo ato normativo que a substitua.
+
+
+Art. 3º.
+
+O pagamento do incentivo financeiro será realizado em conformidade com a metodologia de cofinanciamento federal do Piso de Atenção Primária à Saúde (APS), instituída pela Portaria GM /M S nº 3.493, de 10 de abril de 2024, que substitui o Programa Previne Brasil. A base do pagamento será o conjunto de indicadores de desempenho a serem observados na execução das atividades das equipes de ESF, ESB e EM ulti, conforme regulamento posterior do Ministério da Saúde.
+
+
+Art. 4º.
+
+A apuração dos indicadores mencionados no art. 3º será realizada de forma quadrimestral, de acordo como cronograma disponibilizado pelo Ministério da Saúde, com os resultados sendo divulgados no quadrimestre subsequente.
+
+
+Art. 5º.
+
+As equipes de profissionais terão direito ao recebimento proporcional ao seu respectivo desempenho, levando em consideração o alcance das metas e as notas técnicas vigentes do Ministério da Saúde, conforme disposto na Portaria GM /M S nº 3.493, de 10 de abril de 2024.
+
+
+Art. 6º.
+
+O pagamento do incentivo será feito mensalmente, desde que os indicadores previstos na Portaria GM /M S nº 3.493, de 10 de abril de 2024, sejam cumpridos, após a confirmação do repasse dos recursos federais.
+
+
+Parágrafo único
+
+O percentual referente ao incentivo por desempenho será distribuído entre os profissionais de cada equipe, conforme as categorias profissionais, com base em avaliação individual instituída pela Comissão de Avaliação.
+
+
+Art. 7º.
+
+A distribuição dos valores referentes às equipes de ESF, ESB e EM ulti seguirá a seguinte metodologia:
+
+
+I –
+
+O valor global do repasse referente ao Componente de Qualidade da Atenção Primária destinado às equipes EM ulti será dividido em 80% (oitenta por cento) para os profissionais da equipe e 20% (vinte por cento) para a Secretaria Municipal de Saúde;
+
+
+II –
+
+O valor global do repasse referente ao Componente de Qualidade da Atenção Primária destinado às equipes ESB será dividido em 80% (oitenta por cento) para os profissionais da equipe e 20% (vinte por cento) para Secretaria Municipal de Saúde;
+
+
+III –
+
+O valor global do repasse referente ao Componente de Qualidade da Atenção Primária destinado às equipes ESF será dividido em 80% (oitenta por cento) para os profissionais da ESF e 20% (vinte por cento) para a equipe de apoio da Superintendência da Atenção Primária.
+
+
+Art. 8º.
+
+Terão direito ao recebimento do incentivo por desempenho os profissionais devidamente cadastrados no SCNES, com vínculo direto com a Prefeitura Municipal, e Gerentes das Unidades da Estratégia Saúde da Família.
+
+
+Art. 9º.
+
+O profissional perderá o direito ao incentivo financeiro por desempenho nos seguintes casos:
+
+
+I –
+
+Faltas não justificadas;
+
+
+II –
+
+Licença de qualquer natureza;
+
+
+III –
+
+férias;
+
+
+IV –
+
+Não atingir a meta estipulada;
+
+
+V –
+
+Descumprimento da carga horária de 40 horas (quarenta horas) semanais;
+
+
+VI –
+
+Mais de 1 (uma) falta justificada por atestado médico no mês;
+
+
+VII –
+
+Participação em programas como o Programa Mais Médicos ou Médicos pelo Brasil, caso o profissional seja vinculado ao governo estadual;
+
+
+VIII –
+
+Ausência injustificada em capacitações ou reuniões referentes à Atenção Primária à Saúde, salvo com justificativa aceita pela Coordenação de Atenção Básica, Coordenador de Saúde Bucal ou Coordenador EM ulti.
+
+
+Art. 10.
+
+Em todos os casos de perda do direito ao incentivo, o valor correspondente será revertido e distribuído entre os membros da equipe de referência do profissional.
+
+
+Art. 11.
+
+Fica instituída a Comissão de Avaliação, por meio desta Lei, podendo ser regulamentada por decreto do Poder Executivo, composta pelo Superintendente de Atenção Básica, Chefe de Saúde Bucal, Coordenador EM ulti, e o representante de cada unidade de saúde.
+
+
+Art. 12.
+
+Em caso de alterações na legislação que regulamenta o pagamento por desempenho do Componente de Qualidade, o Poder Executivo Municipal fica autorizado a regulamentar a matéria por decreto e ajustar as normas vigentes.
+
+
+Art. 13.
+
+O pagamento do incentivo por desempenho, em nenhuma hipótese, poderá ser incorporado ao salário do profissional beneficiado, nem será considerado como base de cálculo para a apuração de outras verbas de qualquer natureza.
+
+
+Art. 14.
+
+O Secretário Municipal de Saúde é instância máxima de julgamento, caso exista alguma dúvida sobre o pagamento da gratificação aos profissionais integrantes da Equipe da Estratégia de Saúde da Família.
+
+
+Art. 15.
+
+Os casos omissos serão decididos de forma motivada e justificada pelo Secretário Municipal de Saúde.
+
+
+Art. 16.
+
+O Município ficará desobrigado de realizar o pagamento do incentivo por desempenho caso os recursos não sejam repassados pelo Ministério da Saúde, ou caso a Portaria GM /M S nº 3.493, de 10 de abril de 2024, seja revogada.
+
+
+Art. 17.
+
+Esta lei revoga a Lei Municipal nº 1.200 de 09 de junho de 2016 e suas atualizações.
+
+
+Art. 18.
+
+Esta Lei entra em vigor na data de sua publicação, com efeitos financeiros retroativos à competência de maio de 2024.
+
+
+Engenheiro Paulo de Frontin, 10 de dezembro de 2025.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

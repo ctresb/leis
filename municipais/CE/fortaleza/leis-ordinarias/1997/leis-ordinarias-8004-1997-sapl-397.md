@@ -1,0 +1,501 @@
+---
+titulo: "Lei Ordinária nº 8.004, de 25 de março de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8004"
+data: "1997-03-25"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2019-10-21; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/397"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/1615/text"
+sha256_fonte: "fb60a2d307cf71bb7ad524ae4a2c71cfd09d15c73cb902babf539c727d0fc958"
+sha256_texto: "1c5a84ca49c326fd5acccb5069d05545132c43c8250e1e5870f7baf8439d83d3"
+capturado_em_fonte: "2026-10-21T05:20:58.312523-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 8.004, de 25 de março de 1997
+
+CRIA NO ÂMBITO DO MUNICÍPIO DE FORTALEZA O SISTEMA DE MOTO-TAXI NA FORMA QUE INDICA.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU PROMULGO SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica criado no município de Fortaleza o serviço de moto-taxi.
+
+
+Art. 2º.
+
+Os serviços de transporte de passageiro em veículo automotor tipo motocicleta, no município de Fortaleza, serão administrados pela Secretaria de Transporte do Município, com assessoramento do COMTUR (Conselho Municipal de Transporte Urbano), sendo regidos por esta Lei.
+
+
+Parágrafo único
+
+Todas as deliberações do órgão gestor que dependam do efetivo assessoramento do COMTUR só terão validade após a aprovação deste Conselho.
+
+
+Art. 3º.
+
+Moto-taxi, para efeito desta Lei, é o serviço de transporte de passageiros em veículo automotor tipo motocicleta.
+
+
+Art. 4º.
+
+Os serviços de moto-taxi classificam-se em:
+
+
+I –
+
+regulares;
+
+
+II –
+
+extraordinários
+
+
+§ 1º
+
+Regulares são os serviços executados de forma contínua e permanente.
+
+
+§ 2º
+
+Extraordinários são os serviços executados, para atender às necessidades excepcionais de transporte, causados por fatores eventuais.
+
+
+Art. 5º.
+
+As motocicletas que executarem o serviço de mototáxi poderão circular em todo o Município de Fortaleza, desde que devidamente autorizadas, e terão pontos oficiais de estacionamentos, determinados pela autoridade gestora de trânsito no Município, observadas as conveniências e os padrões previstos na legislação pertinente.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 8.393, de 14 de dezembro de 1999.
+
+
+§ 1º
+
+As motocicletas poderão circular livremente em busca de passageiros e poderão apanhá-los fora dos pontos de paradas oficiais determinados, quando solicitadas pelos passageiros.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 8.393, de 14 de dezembro de 1999.
+
+
+§ 2º
+
+O órgão gestor do trânsito estabelecerá os pontos de estacionamento nas condições assemelhadas aos pontos de táxis e ônibus, tanto no centro da cidade como nos locais onde estes se fizerem necessários.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 8.393, de 14 de dezembro de 1999.
+
+
+Art. 6º.
+
+Incube ao Município, respeitadas as Legislações Federal, Estadual e Municipal,a prestação de serviço de transporte público de passageiros por veículo automotor tipo motocicleta, diretamente ou mediante delegação a particulares, sob o regime de concessão ou autorização, em conformidade com os interesses e as necessidades da população.
+
+
+Art. 7º.
+
+A exploração dos serviços de transporte de passageiros em veículo automotor tipo motocicleta, respeitadas as Legislações Federal, Estadual e Municipal, serão executadas por particulares através de habilitação para tal serviço, mediante a concessão e autorização dada pelo Município de Fortaleza, em conformidade com os interesses e as necessidades da população.
+
+
+§ 1º
+
+A concessão e autorização para exploração dos serviços de transporte público de passageiros por veiculo automotor tipo motocicleta serão formalizadas mediante contrato ou termo celebrado pela Prefeitura Municipal de Fortaleza, observadas as normas contidas no presente regulamento, na Lei Orgânica do Município e demais legislações existente, no qual constará:
+
+
+I –
+
+qualificação das partes e de seus representantes legais;
+
+
+II –
+
+objetivo da prestação de serviço;
+
+
+III –
+
+prazo de duração;
+
+
+IV –
+
+composição da frota;
+
+
+V –
+
+características de serviços;
+
+
+VI –
+
+elenco das obrigações das partes;
+
+
+VII –
+
+valor da tarifa fixada para o serviço;
+
+
+§ 2º
+
+Os instrumentos de delegação deverão, ainda, estabelecer:
+
+
+I –
+
+os direitos dos usuários;
+
+
+II –
+
+as regras para a remuneração do serviço que garantam o equilíbrio econômico e financeiro do contrato;
+
+
+III –
+
+as normas que possam comprovar eficiência no atendimento do interesse público, bem como permitir a fiscalização pelo Município, de modo a manter o serviço contínuo, adequado e acessível;
+
+
+IV –
+
+as regras para orientar a revisão periódica das bases de cálculo dos custos operacionais da remuneração do serviço, ainda que estipuladas em contrato anterior;
+
+
+V –
+
+nível de atendimento da população em termos de quantidade e qualidade;
+
+
+VI –
+
+mecanismos para atendimento de pedidos e reclamações dos usuários, inclusive apuração de danos causados a terceiros.
+
+
+Art. 8º.
+
+A delegação de serviço, ou sua renovação, considerará os seguintes períodos:
+
+
+I –
+
+cinco (05) anos, para os serviços regulares.
+
+
+II –
+
+um (01) ano, para os serviços especiais.
+
+
+Art. 9º.
+
+A regra geral para a seleção dos prestadores e exploradores dos serviços de transporte público de passageiros em veículos automotores, tipo motocicleta, é a licitação pública.
+
+
+Parágrafo único
+
+Para os serviços extraordinários, a licitação poderá ser dispensada, dando-se preferência de exploração aos delegatários dos serviços regulares.
+
+
+Art. 10.
+
+A prorrogação constitui modificação contratual apenas no que diz respeito ao prazo de duração de concessão.
+
+
+Parágrafo único
+
+A cassação constitui sanção aplicável por inadimplemento de cláusula contratual, falta grave ou perda dos requisitos de idoneidade moral ou capacidade financeira, técnica, operacional ou administrativa do habilitado.
+
+
+Art. 11.
+
+Na autorização deverão constar os dados essenciais quanto ao objetivo, características do serviço, prazo de validade, obrigações e direitos, tarifas a serem cobradas, critérios e prazos de reajuste das tarifas a serem cobradas, demais exigências legais estabelecidas nas legislações Federal, Estadual e Municipal.
+
+
+Art. 12.
+
+São direitos dos usuários:
+
+
+I –
+
+dispor de transporte;
+
+
+II –
+
+ter acesso fácil e permanente às informações sobre horários e outros dados pertinentes à operação.
+
+
+III –
+
+usufruir do transporte público de passageiros em veículo automotor tipo motocicleta.
+
+
+IV –
+
+propor, através do COMTUR, medidas que visem a melhoria do serviço prestado.
+
+
+Art. 13.
+
+Ocorrerá a caducidade da concessão ou autorização no caso em que for imposta sanção por inadimplemento reiterado das normas contratuais de natureza grava, gerando consequência na idoneidade para a continuidade da realização do serviço.
+
+
+Parágrafo único
+
+A aplicação da penalidade prevista neste artigo dependerá de instrução de inquérito administrativo, em que será assegurada ampla defesa ao condutor.
+
+
+Art. 14.
+
+Toda concessão ou autorização pressupõe a prestação de serviço adequado, impõe a remuneração do serviço e importa na permanente fiscalização pelo poder público.
+
+
+Art. 15.
+
+Os serviços de transporte público de passageiros em veículo automotor tipo motocicleta (MOTOTAXI), quando explorado por particulares mediante delegação do Poder Público Municipal, obrigatoriamente serão explorados por pessoas treinadas para este fim.
+
+
+Parágrafo único
+
+Será permitido ao permissionário cadastrar junto ao órgão gestor 1 (um) condutor auxiliar, desde que o mesmo atenda aos requisitos exigidos aos permissionários na realização dessa atividade, ou seja, Categoria A, experiência mínima de 2 (dois) anos, idade mínima de 21 (vinte e um) anos, certificado de aprovação em curso profissionalizante de condutor de motocicleta e Certidão Negativa do Registro de Distribuição Criminal.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 9.348, de 27 de março de 2008.
+
+
+Art. 16.
+
+A exploração dos serviços somente poderá ser transferida com a anuência do órgão gestor, após expressa aprovação do COMTUR.
+
+
+Art. 17.
+
+A transferência depende de:
+
+
+I –
+
+comprovada conveniência administrativa, assegurado o interesse público;
+
+
+II –
+
+prévio requerimento, assinado conjuntamente pela cedente e pelo condutor;
+
+
+III –
+
+apresentação da documentação exigida para habilitação preliminar em licitações;
+
+
+IV –
+
+prévia verificação, quanto à idoneidade moral e à capacidade técnica, financeira e operacional.
+
+
+§ 1º
+
+A transferência efetiva-se-á mediante instrumento próprio de cessão, no qual todos os direitos e obrigações integrantes no contrato de concessão ou termo de autorização passarão ao concedido, pelo prazo restante de duração de contrato.
+
+
+§ 2º
+
+Ocorrendo sucessão por causa mortis, a concessão poderá ser transferida aos herdeiros, observando o disposto nos itens I, III e IV deste artigo, no que couber.
+
+
+Art. 18.
+
+Os veículos motocicletas destinados aos serviços de MOTOTAXI deverão atender às exigências neste artigo.
+
+
+I –
+
+deverão obrigatoriamente pertencer ao titular e estar com a documentação rigorosamente completa e atualizada;
+
+
+II –
+
+deverão ter potência de motor máxima equivalente a 200 CC e mínima equivalente 125 CC;
+
+
+III –
+
+terão obrigatoriamente que ser licenciados pelo órgão oficial (DETRAN) como motocicleta de aluguel e terem placas vermelhas, além de disporem das seguintes condições:
+
+
+a)
+
+pintadas de cor amarela;
+
+
+b)
+
+alça metálica lateral à qual se possa segurar o passageiro;
+
+
+c)
+
+táximetro;
+
+
+d)
+
+dispositivo luminoso de identificação instalado em local de fácil visualização;
+
+
+e)
+
+luminoso MOTOTAXI acima do farol;
+
+
+f)
+
+controle de velocidade permitindo circular com a velocidade máxima de 60 Km/h;
+
+
+g)
+
+cano da descarga com um material isolaste em sua lateral para evitar queimaduras ao passageiro.
+
+
+Art. 19.
+
+Ao pessoal de operação do serviço, MOTOTAXI compete:
+
+
+I –
+
+dispor de 02 (dois) capacetes com viseiras, para uso obrigatório do condutor e do passageiro;
+
+
+II –
+
+transportar toucas descartáveis para uso do passageiro;
+
+
+III –
+
+usar obrigatoriamente luvas;
+
+
+IV –
+
+ter idade mínima de 21 (vinte um) ou no mínimo 02 (dois) anos de habilitação com a comprovação de um curso aprovado para este fim
+
+
+V –
+
+manter seguro de vida para o passageiro que estabeleça indenizações em caso de morte acidental, invalidez permanente e invalidez parcial, cujo valor de prêmio do seguro atinja um mínimo equivalente a:
+
+
+a)
+
+em caso de morte acidental - 6.800UFIR's
+
+
+b)
+
+em caso de invalidez permanente - 4.800 UFIR's
+
+
+c)
+
+em caso de invalidez parcial - 2.720 UFIR's.
+
+
+Parágrafo único.
+
+Os condutores permissionários do serviço de mototáxi deverão, obrigatoriamente, inserir, em local visível de seus uniformes ou de seus capacetes, o grupo sanguíneo e o fator RH como itens padrão de sua identificação.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 10.948, de 21 de outubro de 2019.
+
+
+Art. 20.
+
+Passageiro, para efeito desta Lei, é a pessoa a ser conduzida em motocicleta pelo serviço MOTOTAXI.
+
+
+Art. 21.
+
+Sem prejuízo das obrigações legais perante a legislação civil e de trânsito, os passageiros do serviço obedecerão às exigências deste artigo:
+
+
+I –
+
+serão conduzidos individualmente em motocicletas;
+
+
+II –
+
+usarão obrigatoriamente capacete, que pode ser próprio, ou fornecido pelo condutor, com a touca de proteção higiênica individual, descartável.
+
+
+III –
+
+não poderão conduzir criança no colo.
+
+
+Art. 22.
+
+As tarifas dos serviços de MOTOTAXI serão estabelecidas pelo órgão gestor, após aprovação da lei fixada através de Decreto do Chefe do Executivo.
+
+
+Art. 23.
+
+O Poder Público deverá assegurar o equilíbrio econômico-financeiro dos serviços delegados e fiscalizar as condições indispensáveis à prestação de serviço adequado pela concessionária ou autorizada.
+
+
+Art. 24.
+
+O equilíbrio econômico-financeiro dos serviços será assegurado mediante:
+
+
+I –
+
+tarifa justa, revista periodicamente;
+
+
+II –
+
+não imposição de obrigações acessórias sem cobertura de custo do executante;
+
+
+III –
+
+não instituição de serviços deficitários, sem compensação econômica;
+
+
+IV –
+
+boa conservação das vias de tráfego utilizadas pelo sistema.
+
+
+Art. 25.
+
+O Poder Público, através do órgão gestor e com a expressa aprovação do COMTUR, poderá proceder ao cálculo, parâmetros e coeficiente técnicos em função das peculiaridades do sistema de transporte do Município.
+
+
+Parágrafo único
+
+As planilhas de custos serão submetidas a estudo para verificação viabilidade de atualização tarifaria, sempre que se julgue necessário.
+
+
+Art. 26.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO MUNICIPAL JOSÉ BARROS DE ALENCAR, EM 25 DE MARÇO DE 1997.**  
+  
+  
+  
+ACILON GONÇALVES  
+PRESIDENTE
+

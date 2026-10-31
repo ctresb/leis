@@ -1,0 +1,118 @@
+---
+titulo: "Lei Ordinária nº 2.485, de 21 de maio de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2485"
+data: "2013-05-21"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/756"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/562/text"
+sha256_fonte: "4a008eeff2e3e3a5a73170f518b45f45dcdc4fc5c057fc6b93ca83efa1a95dc4"
+sha256_texto: "cafd505d1005e6a6b795b92ab307dfb1728675fd7e7523c598c584d0c555fd22"
+capturado_em_fonte: "2026-10-28T10:18:10.041720-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.485, de 21 de maio de 2013
+
+**TEXTO ORIGINAL EM PDF**
+
+
+Altera a Lei nº 2.478, de 20 de dezembro de 2012, que autoriza a concessão de subvenções sociais, contribuições e auxílios financeiros para o exercício financeiro de 2013 e a Lei nº 2.479, de 20 de dezembro de 2012, que estima a receita e fixa a despesa para o exercício financeiro de 2013.
+
+
+A Câmara Municipal de Dores do Indaiá, Estado de Minas Gerais, através de seu Plenário, APROVA, e eu, Prefeito Municipal SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+Os incisos | e X do art. 1º da Lei Municipal nº 2478, de 20 de dezembro de 2012, passam a vigorar com os seguintes valores:
+
+
+Art. 2º.
+
+Fica acrescido o inciso XV no art. 1º da Lei Municipal nº 2.478, de 20 de dezembro de 2012:
+
+
+Art. 3º.
+
+Fica o Executivo Municipal autorizado a abrir crédito especial no orçamento de 2013, na importância de R$ 36.000,00 (trinta e seis mil reais), destinado a cobrir despesas decorrentes da inclusão do inciso XV no art. 1º da Lei nº 2478/2012, a seguinte dotação orçamentária dos quadr orçamentários consolidados a que se refere o art. 5º da Lei nº 2.479/2013:
+
+
+12 - SECRETARIA MUNICIPAL DE EDUCAÇÃO  
+010 - ENSINO  
+12 - EDUCAÇÃO  
+364 - ENSINO SUPERIOR  
+0019 - TRANSPORTE ESCOLAR  
+12.364.0019.2245 - TRANSFERÊNCIA DE SUBVENÇÃO SOCIAL PARA ASSOCIAÇÃO DOS ESTUDANTES UNIVERSITÁRIOS DE DORES DO INDAIÁ  
+3.3.50.43.00 - Subvenções Sociais............................R$36.000,00
+
+
+Art. 4º.
+
+Fica o Executivo Municipal autorizado a suplementar a seguinte  
+dotação orçamentária dos quadros orçamentários consolidados a que se refere o art.  
+5º da Lei nº 2.479/2013:
+
+
+30 — FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL  
+030 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL  
+08 — Assistência Social  
+242 — Assistência ao Portador de Deficiência  
+0017 — Proteção Social Básica  
+08.242.0017.2202 — TRANSFERÊNCIA SUBVENÇÃO SOCIAL APAE  
+3.3.50.43.00 — Subvenções Sociais — R$ 278.000,00
+
+
+Art. 5º.
+
+Como recursos à abertura de crédito especial autorizado nos arts. 3º e 4º desta Lei, utilizar-se-á anulação total ou parcial das seguintes dotações orçamentárias dos quadros orçamentários consolidados a que se refere o art. 5º da Lei nº 2.479/2013:
+
+
+12 — SECRETARIA MUNICIPAL DE EDUCAÇÃO  
+010 — ENSINO  
+12 — EDUCAÇÃO  
+361 — ENSINO FUNDAMENTAL  
+0005 - EDUCAÇÃO BÁSICA  
+12.361.0005.2232 — MANUTENÇÃO DO APORTE PARA COBERTURA DO  
+DEFICIT ATUARIAL DO RPPS  
+3.3.91.97.00 — APORTE PARA COBERTURA DO DEFICIT ATUARIAL DO  
+RPPS  
+12.010.12.361.0005.2232.3.3.91.97.00 - R$36.000,00.
+
+08 - SECRETARIA MUNC. AGRICULTURA, PECUÁRIA E AGRONEGÓCIOS  
+010 - DEPARTAMENTO MUNICIPAL DE AGRICULTURA  
+20 — Agricultura  
+601 — Promoção da Produção Vegetal  
+0022 — Gestão Pecuária  
+20.601.0022.1027 - AQUISIÇÃO DE EQUIPAMENTOS E MATERIAL  
+PERMANENTE PARA MECANIZAÇÃO AGRÍCOLA  
+4.4.90.52.00 Equipamento e Material Permanente - R$ 250.000,00.
+
+08 - SECRETARIA MUNC. AGRICULTURA, PECUÁRIA E AGRONEGÓCIOS  
+010 —- DEPARTAMENTO MUNICIPAL DE AGRICULTURA  
+20 — Agricultura  
+601 — Promoção da Produção Vegetal  
+0022 — Gestão Pecuária  
+20.601.0022.2073 — ADMINISTRAÇÃO E MANUTENÇÃO DE ATIVIDADES  
+DE MECANIZAÇÃO AGRÍCOLA  
+3.3.90.30.00 — Material de Consumo - R$ 28.000,00.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Dores do Indaiá, 21 de maio de 2013
+
+Ronaldo Antônio Zica da Costa
+
+Prefeito Municipal
+

@@ -1,0 +1,41 @@
+---
+titulo: "Lei Ordinária nº 4.583, de 24 de maio de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4583"
+data: "2017-05-24"
+municipio: "Dracena"
+uf: "SP"
+codigo_ibge: "3514403"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.dracena.sp.leg.br/norma/5626"
+fonte_texto: "https://sapl.dracena.sp.leg.br/media/sapl/public/normajuridica/2017/5626/lei_4583_2017.pdf"
+sha256_fonte: "79acde4f41b51e8e72eae43e6c119df1921432ac3f8be016bf4df43632415d8c"
+sha256_texto: "89eb2c7fe44c297e81c9430de13bcdc96cc8915679fa7175f4ddcd8a2a34cc9f"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 4.583, de 24 de maio de 2017
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE DRACENA Estado de São Paulo DE 24 DE MAIO DE 2017.
+
+LEI N° 4.583 Autoriza o Poder Executivo Municipal a firmar Termo de Cooperação com o Tribunal de Justiça do Estado de São Paulo, através do Fórum da Comarca de Dracena, conforme especifica. JULIANO BRITO BERTOLINI, Prefeito Municipal de Dracena, Estado de São Paulo, usando das atribuições que lhe são conferidas por lei, FAZ SABER QUE A CÂMARA MUNICIPAL APROVOU E ELE SANCIONA E PROMULGA A SEGUINTE LEI:
+
+**Art. 1°** - Fica o Poder Executivo Municipal autorizado a firmar Termo de Cooperação com o Tribunal de Justiça do Estado de São Paulo, através do Fórum da Comarca de Dracena, tendo por objeto a realização de serviços de reforma do estacionamento, jardim e ampliação da rede de captação de água pluvial do prédio do Fórum de Dracena, localizado na Rua Bolívia, n° 137, Jardim América, nesta Cidade de Dracena, Estado de São Paulo, conforme orçamentos e minuta do Termo de Cooperação
+
+anexos.
+
+**Art. 2°** - Esta Lei entrará em vigor na data de sua publicação. Gabinete do Prefeito Municipal Dracená, 24 de maio de 2017. JULIANO BRITO BERTOLINI Prefeito Municipal Registrada e publicada por afixação, no lugar público do costume desta Prefeitura e na imprensa local. Dracena, data supra. ALESSANDRA SCARPINI ALVES PC - 36 Secretária de Gabinete e Assuntos Jurídicos cm. 43
+
+TERMO DE COOPERAÇÃO TERMO DE COOPERAÇÃO QUE ENTRE SI CELEBRAM A PREFEITURA MUNICIPAL DE DRACENA E O TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO PARA, PROMOVER A EXECUÇÃO DE SERVIÇOS DE REFORMA NO ESTACIONAMENTO E JARDIM DO PRÉDIO PRINCIPAL DO FÓRUM DA DA COMARCA DE DRACENA. Pelo presente Termo de Cooperação, na melhor forma de direito, de um lado a PREFEITURA MUNICIPAL DE DRACENA, com sede nesta cidade, sito na Avenida José Bonifácio, 1437, Centro, Dracena - SP, inscrita no CNPJ sob n° 44.880.060/0001-11, neste ato representada pelo Prefeito Municipal, Senhor JULIANO BRITO BERTOLINI, brasileiro, casado, RG n° 24.607.988-5 e do CPF n° 265.410.268-82, residente e domiciliado nesta cidade, devidamente autorizada pela Lei Municipal n° 4.583, de 24 de maio de 2017 e de outro lado o TRIBUNAL DE JUSITIÇA DO ESTADO DE SAO PAULO, instrito no CNPJ n° 51.174.001/0001- 93, neste ato representado pelo MM. Juiz de Direito Diretor do Fórum da Comarca de Dracena, Dr. MARCUS FRAZÃO FROTA, brasileiro, solteiro, R.G. n.º 2.335.408 SSP/DF , C.P.F. n.º 719.333.951-68, residente e domiciliado nesta cidade, tem entre si justo e pactuado o seguinte: CLAUSULA I - DA FINALIDADE O presente Termo de Cooperação tem por finalidade ajustar a conduta administrativa do MUNICIPIO ao disposto no artigo 62, incisos I e II, da Lei Complementar n.º 101, de 04/05/2000 (Lei de Responsabilidade Fiscal). CLAUSULA II - DA EFICÁCIA A eficácia do presente Termo de Cooperação fica condicionada a Lei n° 4.583, de 24.05.2017. CLAUSULA III - DO OBJETO O presente instrumento tem por objeto a realização, por intermédio da PREFEITURA MUNICIPAL DE DRACENA, de serviços de reforma, visando a adequação do estacionamento com serviços de asfalto e guias na área de terra e recapear a área pavimentada com bloquete com consequente ampliação da rede de captação de água pluvial do estacionamento a fim de sanar os alagamentos e, em parte do jardim, preparar o talude e efetuar o plantio de vegetação adequada para conter a erosão e escoamento da terra por ocasião das chuvas, no prédio principal do Fórum de Dracena, sito à Rua Bolívia, 137 - Jardim América - Dracena - SP, sem ônus ao TRIBUNAL DE JUSTIÇA, compreendendo-se que a PREFEITURA MUNICIPAL suportará os custos com materiais e mão-de-obra
+
+CLAUSULA IV - DAS OBRIGAÇÕES Para a execução do presente compromisso, o TRIBUNAL DE JUSTIÇA e a PREFEITURA MUNICIPAL DE DRACENA terão as seguintes obrigações: Caberá ao MUNICÍPIO: 4.1 4.1.1 Executar, direta ou indiretamente, sob sua responsabilidade técnica e administrativa, com recursos financeiros próprios e em conformidade com as diretrizes adiante discriminadas, as obras de adaptação descritas na Cláusula III, observando as recomendações fornecidas pelo TRIBUNAL DE JUSTIÇA e os melhores padrões de qualidade e economia, inclusive com a realização, se for o caso, de procedimento licitatório prévio, observando a legislação pertinente. 4.1.2. Credenciar, junto ao TRIBUNAL DE JUSTIÇA, e por intermédio do Juízo de Dirieto da Comarca de Dracena, técnico habilitado para acompanhar a execução dos respectivos serviços. Apresentar, ao TRIBUNAL DE JUSTIÇA, memorial descritivo dos serviços a serem 4.1.3. executados. 4.1.4. Adotar as providências cabíveis a fim de permitir aos responsáveis credenciados do TRIBUNAL DE JUSTIÇA condições para inspecionar, periodicamente, os serviços. 4.2 Caberá ao TRIBUNAL DE JUSTIÇA: 4.2.1 Autorizar o MUNICÍPIO a executar as obras de reforma descritas na Cláusula III no imóvel situado na Rua Bolívia, n° 137, Jardim América, sede do Fórum da Comarca de Dracena. 4.2.2. Prestar auxílio ao MUNICÍPIO no que for necessário, a fim de permitir o acesso às instalações e dependências do imóvel, para viabilizar a fiel execução deste Termo. CLAUSULA V - DA EXECUÇÃO DOS SERVIÇOS A execução dos serviços deverá obedecer à melhor técnica para que venha a preencher satisfatoriamente as condições de utilização, eficiência e durabilidade, seguindo as normas reconhecidas em suas últimas atualizações, tais como
+
+PODER JUDICIARIO
+
+• Normas de Associação Brasileira de Normas Técnicas - ABNT; • Decreto do Corpo de Bombeiros; • Normas das Concessionárias Locais (Telefônica, Elektro, Emdaep, etc); • Normas da Agência Nacional de Energia Elétrica - ANEEL; • Normas de Segurança em Edificações do CREA - Conselho Regional de Engenharia, arquitetura e Agronomia; • Normas e Instruções de Segurança, Higiene e Medicina do Trabalho; • Normas da Saúde e do Meio Ambiente; • Leis, Decretos, Regulamentos e dispositivos legais emitidos pelas autoridades governamentais, em âmbito Municipal, estadual e Federal, pertinentes à execução dos serviços, ora contratados. • Seja mantido o padrão existente no local; • Seja utilizado material de qualidade; • Os serviços sejam desenvolvidos com o acompanhamento de responsável técnico habilitado(engenheiro civil ou arquiteto); CLÁUSULA VI - DA VIGÊNCIA O presente Termo de Cooperação terá início a partir de sua assinatura e vigorará pelo tempo suficiente à plena concretização do seu objeto. CLÁUSULA VII - DAS DESPESAS Todas as despesas decorrentes da execução dos serviços objeto deste Termo ficarão a cargo do MUNICÍPIO, sem quaisquer ônus ao TRIBUNAL DE JUSTIÇA. CLÁUSULA VIII - DA RESCISÃO Reserva-se ao TRIBUNAL DE JUSTIÇA a faculdade de rescindir o presente Termo de Cooperação na hipótese de inobservância de qualquer uma das cláusulas, por razões de interesse do Serviço Público, ou, ainda, pela inexecução total ou parcial dos serviços necessários, mediante comunicação escrita com antecedência mínima de 30 (trinta) dias.
+
+CLÁUSULA IX - DO FORO Fica eleito o Fórum da Comarca de Dracena para dirimir toda e qualquer dúvida que eventualmente possa surgir entre as partes, com renúncia expressa de qualquer outro, por mais privilegiado que seja. E, por estarem assim justas e combinadas, assinam as partes o presente instrumento em 04 (quatro) vias de igual teor e forma, na presença das testemunhas abaixo. Dracena, 24 de maio de 2017. Juiz de Direito e Diretor do Fórum da Comarca de Dracena JULIANO BRITO BERTOLINI Prefeito Municipal de Dracena Testemunhas: um estamos NOME: MÁRCA ERISTINA PESTANA MARTINS Teko Nome: Luciana Tabu se Huata RGno 19.387.007 RG n° 36.879.886
+

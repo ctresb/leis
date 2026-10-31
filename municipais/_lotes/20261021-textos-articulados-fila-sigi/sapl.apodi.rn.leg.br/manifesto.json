@@ -1,0 +1,42 @@
+{
+  "host": "sapl.apodi.rn.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.apodi.rn.leg.br/8ef8136d92e87830d9b05595c590f42c79d2434eac1ac049fc5bf5079527d573.json",
+    "url": "https://sapl.apodi.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.apodi.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7e1b603c836b07c085767090cf9813bcea3fdd7d0c4abb30b480a418f8dee103",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T16:46:42.236970-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.apodi.rn.leg.br/6753b77533720e237d1e447ec947bc858b2e3e5b5d194661d154fbce727f39b8.json",
+    "url": "https://sapl.apodi.rn.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.apodi.rn.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fc1e810021bca92bdc3bcdb3c7980ad7696e772d1dedbf8e00f2d4c734538d6f",
+    "bytes": 749,
+    "capturado_em": "2026-10-27T16:46:41.143788-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.apodi.rn.leg.br/9faa899287290d8c7ded751b2f389d8ab3e92eae53fcf311935fdf6ce234a80e.json",
+      "url": "https://sapl.apodi.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.apodi.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T16:46:44.398509-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

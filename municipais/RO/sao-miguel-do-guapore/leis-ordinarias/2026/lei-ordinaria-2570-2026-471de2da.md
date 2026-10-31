@@ -1,0 +1,40 @@
+---
+titulo: "LEI MUNICIPAL Nº. 2570/2026 EM, 01 DE JUNHO DE 2026"
+uf: "RO"
+municipio: "SÃO MIGUEL DO GUAPORÉ"
+tipo: "Lei Ordinária"
+numero: "2570"
+data: 2026-06-01
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 10/06/2026"
+data_publicacao: 2026-06-10
+codigo_identificador: "471DE2DA"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116083_2026-06-09_26325ef75092b86b69f9477bce69520d.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº. 2570/2026 EM, 01 DE JUNHO DE 2026
+
+LEI MUNICIPAL Nº. 2570/2026 EM, 01 DE JUNHO DE 2026
+“AUTORIZA O EXECUTIVO MUNICIPAL A EFETUAR A
+ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO
+PARA 2026, INCLUSÃO NAS DIRETRIZES
+ORÇAMENTÁRIAS PARA 2026, E INCLUSÃO NO PLANO
+PLURIANUAL 2026-2029
+LEI MUNICIPAL Nº. 2570/2026 Em, 01 de junho de 2026
+“AUTORIZA O EXECUTIVO MUNICIPAL A
+EFETUAR A ABERTURA DE CRÉDITO
+ESPECIAL NO ORÇAMENTO PARA 2026,
+INCLUSÃO
+NAS
+DIRETRIZES
+ORÇAMENTÁRIAS PARA 2026, E INCLUSÃO
+NO PLANO PLURIANUAL 2026-2029 DO
+MUNICÍPIO DE SÃO MIGUEL DO GUAPORÉ.”
+
+São Miguel do Guaporé/RO, 08 de junho 2026.
+EDILSON CRISPIN DIAS
+Prefeito Municipal
+Publicado por:
+Juliene Rodrigues

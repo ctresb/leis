@@ -1,0 +1,155 @@
+---
+titulo: "Lei Ordinária nº 4.625, de 04 de julho de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4625"
+data: "2017-07-04"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-11-27; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4421"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/819/text"
+sha256_fonte: "2d5b85c84083fed6065e79f805656c5517f018a19a8ccd76a8284312bf8510a5"
+sha256_texto: "1f3feeb138861ea0936b4356891218d039009c7fd41adc5c7c7c470f53c7b9b3"
+capturado_em_fonte: "2026-10-27T17:41:05.739367-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.625, de 04 de julho de 2017
+
+CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4625, DE 04 DE JULHO DE 2017.
+
+
+Dispõe sobre as sanções administrativas derivadas de condutas e atividades de pichação e vandalismo e dá outras providências.
+
+
+Art. 1º.
+
+Constituem infrações administrativas as práticas de atos de pichação e depredação: "danificar, destruir, depredar, riscar, desenhar, escrever, colar, borrar ou por outro meio conspurcar edificações públicas ou particulares ou suas respectivas fachadas, equipamentos públicos, monumentos ou coisas tombadas e elementos do mobiliário urbanо"
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 6.120, de 27 de novembro de 2025.
+
+
+Art. 2º.
+
+Constituem infrações administrativas as práticas de vandalismo: “ato ou efeito de produzir estrago ou destruição de monumentos ou quaisquer bens públicos ou particulares, atacar coisas belas ou valiosas, com o propósito de arruiná-las deteriorando, quebrando e fixando cartazes”.
+
+
+I –
+
+Consideram-se atos de pichação e vandalismo todos aqueles que resultem na destruição e/ou a descaracterização deliberada, gratuita e injustificável de bens públicos municipais, de bens cuja posse seja exercida pelo Poder Público Municipal ou de outros bens afetados à prestação de serviços públicos municipais delegados.
+
+
+II –
+
+Ficam excluídas das penalidades instituídas por esta Lei os grafites realizados com o objetivo de valorizar o patrimônio público ou privado mediante manifestação artística, desde que consentida pelo proprietário e, quando couber, pelo locatário ou arrendatário do bem privado e, no caso de bem público, com a autorização do órgão competente e a observância das posturas municipais e das normas editadas pelos órgãos governamentais responsáveis pela preservação e conservação do patrimônio histórico e artístico.
+
+
+Art. 3º.
+
+Aquele que for flagrado por qualquer autoridade competente cometendo ato de pichação e/ou vandalismo ou concorrer para essa prática, na condição de autor, co-autor ou partícipe terá o prazo de 72 horas para reparar o dano causado no patrimônio publico e privado afetado.
+
+
+Parágrafo único
+
+A reparação do patrimônio de que trata o caput será atestada seu cumprimento através do aval do Secretario de Ordem Publica, Diretor Executivo do SAAE, Diretor Executivo da Susesp e Superintendente da Fundação de Cultura.
+
+
+Art. 4º.
+
+Aquele que for flagrado cometendo atos descritos no artigo 1º desta lei ou concorrer para essa prática, na condição de autor, co-autor ou partícipe em patrimônio privado, ficará sujeito à multa no valor correspondente a 2.000 UFM's em seu CPF, persistindo ainda a obrigação de reparar o dano.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 6.120, de 27 de novembro de 2025.
+
+
+§ 1º
+
+Aquele que for flagrado cometendo atos descritos no artigo 1° desta lei ou concorrer para essa prática, na condição de autor, co-autor ou partícipe em Patrimônio Público ou bem tombado, ficará sujeito à multa correspondente a 4.000 UFM's em seu CPF, persistindo ainda a obrigação de reparar o dano.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 6.120, de 27 de novembro de 2025.
+
+
+§ 2º
+
+Em caso de reincidência, a multa será aplicada em dobro, persistindo a obrigação de reparar o dano.
+
+
+§ 3º
+
+As multas previstas neste artigo, deverão ser pagas no prazo improrrogável de 30 (trinta) dias, a contar do recebimento da notificação correspondente.
+
+
+§ 4º
+
+A pessoa que registrar por vídeo ou foto a prática de atos descritos no artigo 1° desta lei e realizar denúncia por meio dos canais oficiais do Poder Executivo, contribuindo para a identificação do autor da infração, terá direito a uma recompensa no valor correspondente a 20% (vinte por cento) da multa aplicada ao infrator.
+
+Inclusão feita pelo Art. 3º. - Lei Ordinária nº 6.120, de 27 de novembro de 2025.
+
+
+I –
+
+Ovalor da recompensa será deduzido diretamente da multa aplicada ao infrator, sem qualquer ônus ao erário municipal.
+
+Inclusão feita pelo Art. 3º. - Lei Ordinária nº 6.120, de 27 de novembro de 2025.
+
+
+II –
+
+A identidade do denunciante será mantida sob sigilo, salvo autorização expressa para divulgação.
+
+Inclusão feita pelo Art. 3º. - Lei Ordinária nº 6.120, de 27 de novembro de 2025.
+
+
+Art. 5º.
+
+O não pagamento da multa administrativa no prazo legal resultará em inclusão de pendência no Cadastro de Divida Ativa, observando-se, no que couber, o Código Tributário do Município, bem como em encaminhamento do processo administrativo, devidamente instruído, à Procuradoria Geral do Município, para a propositura da ação judicial cabível;
+
+
+Art. 6º.
+
+Os valores decorrentes das multas aplicadas nos termos do art. 4º desta Lei, deverão ser recolhidos aos cofres públicos em Conta Corrente específica.
+
+
+Art. 7º.
+
+Após o vencimento da multa, o débito será inscrito em dívida ativa, passível o infrator de protesto extrajudicial, além de o responsável ser demandado para ressarcimento das despesas e custas de reparação do bem prejudicado
+
+
+Art. 8º.
+
+O autor ou autores dos atos infracionais encontrados em flagrante delito ou que forem posteriormente identificados, não poderão ser contratados pela Administração Municipal Direta e Indireta para exercer atividade remunerada e ficarão impedidos de participar de concurso público municipal pelo prazo de 2(dois) anos, contados da data da infração, além de serem encaminhados à Delegacia de Policia Civil, para as medidas legais cabíveis.
+
+
+Parágrafo único
+
+Se o infrator tiver menos de 18 (dezoito) anos de idade, a responsabilidade pelo pagamento da multa prevista no art. 4° desta Lei e das despesas da restauração, caberão aos pais ou responsáveis legais.
+
+
+Art. 9º.
+
+O Município poderá firmar convênio com a Polícia Militar bem como outros órgãos e entidades públicas que possam contribuir com a fiscalização e identificação dos autores dos atos infracionais.
+
+
+Art. 10.
+
+O Poder Executivo regulamentará esta Lei no que couber.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 04 DE JULHO DE 2017.
+
+
+RODRIGO DRABLE COSTA  
+PREFEITO
+

@@ -1,0 +1,117 @@
+---
+titulo: "Lei Ordinária-EM nº 1.972, de 27 de outubro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1972"
+data: "2003-10-27"
+municipio: "Arcos"
+uf: "MG"
+codigo_ibge: "3104205"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.arcos.mg.leg.br/norma/1414"
+fonte_texto: "https://sapl.arcos.mg.leg.br/media/sapl/public/normajuridica/2003/1414/l01972-27102003.pdf"
+sha256_fonte: "35353459878540390fdac6589ee4daa3d104d11340232878939f39d70a0b40ad"
+sha256_texto: "e65aa2d6e3b22bdcd893c68a5579dfb12dff35350f714cac015051eff291ab77"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-EM nº 1.972, de 27 de outubro de 2003
+
+LEI MUNICIPAL N° 1.972 — 27/10/2003
+
+ABRE CRÉDITO SUPLEMENTAR E CONTÉM OUTRAS PROVIDÊNCIAS.
+
+A CÂMARA MUNICIPAL DE ARCOS, ESTADO DE MINAS GERAIS, APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
+
+ART. 1° - Ficam abertos às dotações do orçamento vigente, os seguintes créditos suplementares:
+
+01— SECRETARIA MUNICIPAL DE GOVERNO
+
+02 .01.04.122.1224.006-339000
+
+0 2.04.28.843.000.001-369000
+
+R$ 80.000,00 02.04.28.845.000.002-319000
+
+R$ 40.000,00
+
+0 2.06.11271.2711.052-319000
+
+R$129.000,00 02 .06.12.361.3612.045-319000
+
+R$150.000,00 07 — SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E INTEGRAÇÃO SOCIAL
+
+0 2.07.10.306.3066.060-339000
+
+R$ 33.000,00
+
+0 2.08.15.452.4522.066-339000
+
+R$130.000,00 0 2.08.26.122.1224.022-339000
+
+R$ 20.000,00
+
+09 — SECRETARIA MUNICIPAL DE SAÚDE
+
+0 2.09.10.122.1224.029-319000
+
+R$ 12.000,00
+
+10 — FUNDO DE ASSISTÊNCIA SOCIAL
+
+02 . 1 0.08.243.2432.183-339000
+
+R$ 30.000,00
+
+ART. 2° - Os recursos necessários à abertura dos créditos de que trata esta Lei, são os constantes da anulação das dotações abaixo especificadas:
+
+03 — PROCURADORIA JURÍDICA
+
+02 . 0 3.02.061.0611.062-449000
+
+R$ 70.000,00
+
+02.04.99.999.999.159
+
+R$185.000,00
+
+02 .06.12.365.3651.018-449000
+
+07 — SECRETARIA MUNICIPAL DE DESENVOLVIMENTO E INTEGRACÃO SOCIAL
+
+02 .07.04.122.1224.021-449000
+
+R$ 14.000,00 0 2.07.08.244.2443.061-339000
+
+R$ 45.000,00 02 .07.16.451.4512.104-449000
+
+R$ 50.000,00
+
+0 2.08.04.122.1224.094-449000
+
+R$ 5.000,00 0 2.08.10.304.3041.070-449000
+
+R$ 82.000,00 0 2.08.17.512.5123.038-449000
+
+R$ 25.000,00
+
+10 — FUNDO DE ASSISTÊNCIA SOCIAL
+
+0 2.10.08.243.2433.092-449000
+
+R$ 29.000,00
+
+11— DEPARTAMENTO DE CULTURA
+
+02 .11.13.3923921.021-449000
+
+R$ 45.000,00 02 .11.27.813.8131.025-449000
+
+R$ 74.000,00
+
+ART. 3° - Revogam-se as disposições em contrário, entrando esta Lei em vigor na data de sua publicação.
+
+Arcos, 27 de Outubro de 2003
+
+LÉ CI O RIGUE DE SOUSA FEITO ICIPAL
+

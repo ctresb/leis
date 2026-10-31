@@ -1,0 +1,54 @@
+AUTORIZA O PODER EXECUTIVO A PROMOVER LEILÃO PARA ALIENAR VEÍCULOS, MÁQUINAS E INSERVÍVEIS DE PROPRIEDADE DA PREFEITURA MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O **PREFEITO MUNICIPAL DE CHAPADA GAÚCHA**, Estado de Minas Gerais, no uso da atribuição que lhe confere a Lei Orgânica do Município, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a promover leilão público para alienar bens considerados economicamente inviáveis para consertos e manutenções e improdutivos para uso permanente no serviço público, além das sucatas, máquinas e veículos semidestruídos, inservíveis para atendimento das ações programáticas da municipalidade composta dos seguintes bens:
+
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td><strong>LOTE </strong></td><td><strong>PLACA </strong></td><td><strong>Patrimônio</strong></td><td><strong>Discriminação do veículo/bem</strong></td><td><strong>Combustível</strong></td><td><strong>Ano</strong></td><td><strong>Valor</strong></td></tr><tr><td>1</td><td>NXX-1253</td><td>204</td><td>PAS/ÔNIBUS IVECO/CITYCLASS 70C17 – 31L/170CV – AMARELO – Chassi 93ZL70C01D8442373</td><td>Diesel</td><td>2012/2013</td><td>R$ 25.000,00</td></tr><tr><td>2</td><td>OMD-1350</td><td>205</td><td>PAS/ÔNIBUS IVECO/CITYCLASS 70C17 – 29L/170CV – AMARELO – Chassi 93ZL68C01D8442805</td><td>Diesel</td><td>2012/2013</td><td>R$ 5.000,00</td></tr><tr><td>3</td><td>HIL-2D72</td><td>198</td><td>PAS/ÔNIBUS VW 15.190 EOD Escolar HD – 48 lugares – 186/VC/4600 – Amarelo – Chassi 9532E82W5DR305033</td><td>Diesel</td><td>2012/2013</td><td>R$ 30.000,00</td></tr><tr><td>4</td><td>HIL-2379</td><td>196</td><td>PAS/ÔNIBUS VW 15.190 EOD E.S.ORE – 54 lugares – 186/VC/4600 – Amarelo – Chassi 9532E82W6DR306479</td><td>Diesel</td><td>2012/2013</td><td>R$ 10.000,00</td></tr><tr><td>5</td><td>HLF-8531</td><td>201</td><td>PAS/ÔNIBUS IVECO/CITYCLASS 70C16 – 29 lugares – 155/VC – Amarelo – Chassi 93ZL68B01C8434960</td><td>Diesel</td><td>2011/2012</td><td>R$ 15.000,00</td></tr><tr><td>6</td><td>HLF-8289</td><td>203</td><td>PAS/ÔNIBUS VW 15.190 EOD E.HD ORE – 48 lugares – 185/VC/4748 – Amarelo – Chassi 9532882W8CR232505</td><td>Diesel</td><td>2011/2012</td><td>R$ 30.000,00</td></tr><tr><td>7</td><td>QOK-7775</td><td>2683</td><td>ESP/CAMINHONETE AB/C.DUPLA I/FORD RANGER XLSCD2 25C – 1,29T – 173CV – Oficial – Cor branca – Chassi 8AFAR22F0JJ081464</td><td>Álcool/Gasolina</td><td>2018/2018</td><td>R$ 10.000,00</td></tr><tr><td>8</td><td>HLF-1618</td><td>202</td><td>PAS/ÔNIBUS MARCOPOLO/VOLARE V8L Escolar – 31L/115CV – Amarelo – Chassi 913PB42G3P9C030119</td><td>Diesel</td><td>2009/2006</td><td>R$ 20.000,00</td></tr><tr><td>9</td><td>—</td><td>1490</td><td>2 armários em aço; armário em chapa de aço cinza com duas portas, medindo 0,90 × 0,40 × 1,98 m</td><td>—</td><td>—</td><td>R$ 100,00</td></tr><tr><td>10</td><td>—</td><td>3570148</td><td>Estabilizador Nobreak 2000 KVA, bivolt, 6 tomadas tripolares, baterias internas 12 V 7 Ah, marca Ragtech</td><td>—</td><td>—</td><td>R$ 100,00</td></tr><tr><td>11</td><td>HMG-3D42</td><td>—</td><td>MMC/L200 4X4 L</td><td>Diesel</td><td>2004/2005</td><td>R$ 5.000,00</td></tr><tr><td>12</td><td>QQE-3H26</td><td>—</td><td>Fiat Strada HD WK CC</td><td>Álcool/Gasolina</td><td>2019/2019</td><td>R$ 8.000,00</td></tr><tr><td>13</td><td>QPY-4770</td><td>—</td><td>Caminhonete Ford Ranger XL CD4 22C – veículo pick-up</td><td>Diesel</td><td>2018/2019</td><td>R$ 5.000,00</td></tr><tr><td>14</td><td>RUF-3F79</td><td>5399</td><td>MMC/Triton SPO Outdoor GLX 2.4 – Mitsubishi L200 – Renavam 01297645321</td><td>Diesel</td><td>2022/2023</td><td>R$ 15.000,00</td></tr><tr><td>15</td><td>RUG-6C79</td><td>5897</td><td>Renault/Duster VVT 1.6 – cor bege – Chassi 93YHJD202PJ207272</td><td>Álcool/Gasolina</td><td>2022/2023</td><td>R$ 15.000,00</td></tr><tr><td>16</td><td>PVX-7382</td><td>216</td><td>ESP/CAMINHONETE/AB. C.DUPLA MMC/L200 Triton 2.4 HLS – 142CV – branca – Chassi 93XFNKA5TFCF10947</td><td>Álcool/Gasolina</td><td>2015/2015</td><td>R$ 10.000,00</td></tr><tr><td>17</td><td>QXE-3G49</td><td>3159</td><td>Veículo Fiat Mobi Easy 05 PAS 1.0 – cor branca – Chassi 9BD341A4XLY642422</td><td>Álcool/Gasolina</td><td>2019/2020</td><td>R$ 8.000,00</td></tr><tr><td>18</td><td>—</td><td>1610</td><td>2 armários guarda-volume cinza, contendo 08 portas, medindo 0,65 × 0,35 × 1,94 m</td><td>—</td><td>—</td><td>R$ 100,00</td></tr><tr><td>19</td><td>—</td><td>1609</td><td>Carro móvel em aço inox com rodas, com maca removível em metal</td><td>—</td><td>—</td><td>R$ 100,00</td></tr><tr><td>20</td><td>RVX-5C39</td><td>5576</td><td>Veículo Fiat Strada Volcano CD 1.3 Flex, 05 passageiros, 1.322 cilindradas, cor branca – Chassi 9BD281B4JPYY12379 – Motor 463510128322335 – longarinas</td><td>Álcool/Gasolina</td><td>2019</td><td>R$ 10.000,00</td></tr><tr><td>21</td><td>QQE-3725</td><td>3595</td><td>Veículo Fiat Caminhonete Strada Hard Working 1.4 HD CC, branca – Chassi 9BD5781FFKY313865</td><td>Álcool/Gasolina</td><td>2019</td><td>R$ 8.000,00</td></tr><tr><td>22</td><td>—</td><td>—</td><td>Aproximadamente 100 quilos de sucatas, contendo mesas hospitalares, bebedouros e ventiladores</td><td>—</td><td>—</td><td>R$ 600,00</td></tr><tr><td> </td><td> </td><td> </td><td><strong>VALOR TOTAL</strong></td><td> </td><td> </td><td><strong>R$ 232.100,00</strong></td></tr></tbody></table>
+
+
+Parágrafo único
+
+O Laudo de Avaliação da Comissão para Avaliação de Bens Inservíveis da Administração, realizada em 13 de abril de 2026, perfaz o valor total de  
+**R$ 232.100,00 (duzentos e trinta e dois mil e cem reais).**
+
+
+Art. 2º.
+
+A alienação será precedida de prévia avaliação, por uma Comissão de três membros, a ser formada por ato do Chefe do Poder Executivo.
+
+
+Art. 3º.
+
+O valor mínimo de alienação deverá atender o relatório da Comissão para Avaliação de Bens Inservíveis da Administração.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Chapada Gaúcha - MG, 07 de maio de 2026.
+
+JOSÉ RONE RODRIGUES PEREIRA  
+Prefeito Municipal
+
+
+**AVISO IMPORTANTE**
+
+Os **Textos Articulados** disponibilizados neste Portal possuem caráter exclusivamente informativo e destinam-se a facilitar a consulta e o acompanhamento da legislação do Município de Chapada Gaúcha.
+
+Embora elaborados com base nos atos oficiais publicados, **não substituem os textos constantes das publicações oficiais**, que constituem a fonte autêntica para todos os efeitos legais. Em caso de divergência, prevalecerá sempre o texto da publicação oficial.
+
+**Sobre as compilações legislativas**
+
+**Compilação legislativa consiste na reunião e organização dos atos normativos, preservando a redação dos textos legais e evidenciando suas alterações ao longo do tempo, com a finalidade de facilitar a pesquisa e a consulta da legislação.**
+
+**A Compilação da Legislação do Município de Chapada Gaúcha é uma iniciativa da Assessoria Legislativa da Câmara Municipal, desenvolvida com o objetivo de ampliar a transparência, facilitar o acesso à informação e contribuir para a pesquisa legislativa.**
+
+**Embora sejam adotados procedimentos de conferência e atualização permanentes, poderão ocorrer inconsistências decorrentes de alterações legislativas, republicações, revogações ou outros fatores inerentes ao processo de compilação. Por essa razão, recomenda-se que a consulta à compilação seja sempre complementada pela verificação da publicação oficial do ato normativo correspondente, especialmente quando destinada à produção de efeitos jurídicos.**

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.anchieta.sc.leg.br",
+  "metadados_unicos_observados": 19,
+  "total_api_declarado": 19,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anchieta.sc.leg.br/d4a3544763c92c93318539834e7de00597f14d7d155da848321f93c6885ab7b3.json",
+    "url": "https://sapl.anchieta.sc.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.anchieta.sc.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ebb90259ae8e1b6050ee453fcdd34c8996726d59dcaac20b7a5e2981f6bbc42a",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T16:43:53.811713-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anchieta.sc.leg.br/038d9c4bcb9bbfaf0aa3a6949ff243eaf354b54aed6731578284116183e6e320.json",
+    "url": "https://sapl.anchieta.sc.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.anchieta.sc.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5b339da33f66c01a5e71e2e22b1c4874802fc9a32a7702021c414edf775fcac6",
+    "bytes": 747,
+    "capturado_em": "2026-10-27T16:43:52.762337-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anchieta.sc.leg.br/e7b757d9072726ba3f3f42fc9093299834ec8f4084997cde045b9312ceccdf19.json",
+      "url": "https://sapl.anchieta.sc.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.anchieta.sc.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "15d9850bc888ca87137152d13d1f42c0bbe4129cca04d7a1b8886618e9eb6a45",
+      "bytes": 12473,
+      "capturado_em": "2026-10-27T16:43:55.861418-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

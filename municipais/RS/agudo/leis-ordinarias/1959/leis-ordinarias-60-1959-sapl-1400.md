@@ -1,0 +1,124 @@
+---
+titulo: "Lei nº 60, de 22 de dezembro de 1959"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "60"
+data: "1959-12-22"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/1400"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1676/text"
+sha256_fonte: "24d2a2f3a91bebb9552c9a1ae893aaafd1a50d3a3445a2154dfbb878579e2dbb"
+sha256_texto: "ddedb6704fd061d5140204f5f1de8538980d13310c620c2f9b73cfc17527bd40"
+capturado_em_fonte: "2026-10-27T22:16:56.961087-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 60, de 22 de dezembro de 1959
+
+ALTERA O IMPOSTO DE LICENÇAS DOS VENDEDORES AMBULANTES DA LEI MUNICIPAL Nº 9, CRIANDO NOVA CLASSIFICAÇÃO E NORMAS DE FISCALIZAÇÃO.
+
+
+ALDO LUIZ GERMANO BERGER, PREFEITO MUNICIPAL DE AGUDO,  
+FAÇO SABER, no uso das atribuições que me confere o Art. 50 da Lei Orgânica, que a Câmara Municipal aprovou e eu sanciono e promlgo a seguinte Lei:
+
+
+Art. 1º.
+
+O comércio ambulante de mascate, ou similar, exercido em todo o território do Município, objeto da Lei n° 9, fica com sua tributação de licença alterada, e passara a ter as seguintes classificações:
+
+
+Art. 3º.
+
+Este tributo será pago individualmente.
+
+
+Art. 4º.
+
+Si o sistema do comércio ambulante é exercido em grupo, ou seja, mais de uma pessoa, deverá ser pago o tributo individualmente, sempre nas mesmas proporções de pessoa.
+
+
+Art. 5º.
+
+A fiscalização para cumprimento desta Lei, caberá a todo funcionário municipal, seja qual for a sua categoria ou cargo, bem como ao próprio Prefeito, Sub-Prefeito, Chefes de Secções e Inspetores e aos comerciantes estabelecidos no Município.
+
+
+Art. 6º.
+
+A falta de pagamento do que trata o título 2°, importa na situação ou apreensão da mercadoria e o encaminhamento do faltoso, bem como da mercadoria, à sede do Município.
+
+
+Art. 7º.
+
+A eventual alegação de que uma ou mais pessoas do grupo,quando a atividade estiver sendo exercida por mais de uma, sejam empregados ou simples companhia, importará na detenção de todos e na apreensão da mercadoria, pera que desta forma não possam eximir-se do que trata o título 3°, procedendo-se como preceitua o título 6°.
+
+
+Art. 8º.
+
+No caso do infrator negar-se ao pagamento previsto nesta Lei, seja qual for a alegação, caberá ao Município o direito de, através do seu Prefeito, representante legal ou autorizado, apreender e, dentro do prazo de 8 - oito - dias, vender ou mandar vender em leilão, a quem oferecer o maior lance, tantas mercadorias quantas forem necessárias para o devido pagamento.
+
+
+Art. 9º.
+
+Caso se apurar mais no leilão do que o valor a pagar, o excedente ficara à disposição do seu legítimo dono, nos cofres da tesouraria municipal, pelo período de um -1- ano, findo o qual, não sendo reclamado, será contabilizado como RENDA EVENTUAL.
+
+
+Art. 10.
+
+Caberá ao apreensor, excetuando o Prefeito Municipal, uma participação de, no mínimo, 30% - trinta por cento - no respectivo recolhimento.
+
+
+Art. 11.
+
+Caberá à Administração Municipal, já não tendo sido feito pelo apreensor, comunicar,ou encaminhar o faltoso à Exatoria Estadual, para que cumpra também alí o pagamento por ele devidos.
+
+
+Art. 12.
+
+Ao comércio ambulante que fizer estacionamento ou movimento de mercadorias para este sistema de vendas em caminhões, camionetas, autos, carroças, etc., tanto na sede como em todo o território do Município, aplicar-se-a o mesmo tributo da letra " E " do título 2°, sujeito a todas as demais disposições desta Lei.
+
+
+Art. 13.
+
+No caso da autuação ou apreensão acarretar despesas, de transporte e outras no encaminhamento do infrator e sua mercadoria à sede do Município, as mesmas serão pagas pelo faltoso, ou faltosos, e, se houver recusa, serão apreendidas tantas mercadorias quantas forem necessárias para o integral pagamento, procedendo-se como preceitua o título 8°.
+
+
+Art. 14.
+
+Em caso de resistência à apreensão, poderá o apreensor solicitar a colaboração da autoridade policial mais próxima.
+
+
+Art. 15.
+
+Em caso de reincidência, será aplicada ao faltoso a multa de CR$ 500,00 - quinhentos cruzeiros - e o dobro na vez seguinte, assim sucessivamente.
+
+
+Art. 16.
+
+É dever de todo o funcionário previsto nesta Lei, exigir a exibição da quitação com a Tesouraria Municipal de toda pessoa que se dedicar ao ramo já definido nos títulos acima.
+
+
+DAS ISENÇÕES
+
+
+Art. 17.
+
+Ficam isentos desta Lei, continuando porém sujeitos aos Impostos de Indústrias e Profissões e de Licença, conforme determina as especificações da tabela a Lei em apreço, os vendedores ambulantes com ou sem veículo, que operam exclusivamente com produtos coloniais, e que estejam legalmente inscritos nas repartições competentes.
+
+
+Art. 18.
+
+Esta Lei entrará em vigor a partir de 1° de Janeiro de 1960, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, 22 de Dezenbro de 1959.
+
+ALDO LUIZ GERMANO BERGER
+
+Prefeito Municipal
+

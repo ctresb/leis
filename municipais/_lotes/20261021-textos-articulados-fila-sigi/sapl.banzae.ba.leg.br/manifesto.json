@@ -1,0 +1,52 @@
+{
+  "host": "sapl.banzae.ba.leg.br",
+  "metadados_unicos_observados": 181,
+  "total_api_declarado": 181,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 159,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.banzae.ba.leg.br/1532fdb1a9621a05b047fbb0e6710e7b79770c5ccee673f883573ae64863a303.json",
+    "url": "https://sapl.banzae.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.banzae.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "16fce9d667826f46d998efceccb1fe5c06679df91ccff86c624708935a534d6c",
+    "bytes": 958,
+    "capturado_em": "2026-10-27T17:06:49.201407-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.banzae.ba.leg.br/b94af9f1f449c3b3115ee0023e0b2e82edf53c95ed4fa4e5abb80ff525888835.json",
+    "url": "https://sapl.banzae.ba.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.banzae.ba.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e7ae62449b04be2be16555016cd260ac308ef4c01a7ec5ad7ed3d4b30323547a",
+    "bytes": 699,
+    "capturado_em": "2026-10-27T17:06:48.330947-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.banzae.ba.leg.br/27b39674d5e9a363758f1ca8ecc05e42e26b923ff85aded77313261f72393847.json",
+      "url": "https://sapl.banzae.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.banzae.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e7266334f8607e95b3bd2ba1b4dbd3f0fe9576f02ca12859db27b80a3701c41e",
+      "bytes": 61617,
+      "capturado_em": "2026-10-27T17:06:51.727911-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.banzae.ba.leg.br/33b200e0c1e8ff91187f370abd4ff9f1c19720f083bda78a27211fc1465b321e.json",
+      "url": "https://sapl.banzae.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.banzae.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "38dc1a256a1631bc70a69fa724d1844755f96d568ab2c56215da7a555a2d7c7f",
+      "bytes": 44635,
+      "capturado_em": "2026-10-27T17:09:54.086796-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

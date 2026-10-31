@@ -1,0 +1,237 @@
+{
+  "estado": "indice_completo",
+  "total": 22,
+  "anexos": [
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1983/7/lei_1717-83.pdf da norma Lei Ordinária nº 1.717, de 23 de novembro de 1983",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/1983/7/lei_1717-83.pdf",
+      "ano": 1983,
+      "norma": 109
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1983/8/anexos.pdf da norma Lei Ordinária nº 1.717, de 23 de novembro de 1983",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/1983/8/anexos.pdf",
+      "ano": 1983,
+      "norma": 109
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1983/9/anexo_iii_-_continuacao.pdf da norma Lei Ordinária nº 1.717, de 23 de novembro de 1983",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/1983/9/anexo_iii_-_continuacao.pdf",
+      "ano": 1983,
+      "norma": 109
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/tj-rj_adi_00438281220218190000_ae523.pdf da norma Lei Ordinária nº 4.906, de 12 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "ACÓRDÃO QUE DETERMINOU A SUSPENSÃO DE EFEITOS.\r\nADI 0043828-12.2021.8.19.0000",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2021/10/tj-rj_adi_00438281220218190000_ae523.pdf",
+      "ano": 2021,
+      "norma": 21
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/11/anexos.pdf da norma Resolução nº 6, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2023/11/anexos.pdf",
+      "ano": 2023,
+      "norma": 4578
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/14/anexo_proprio_i.pdf da norma Lei Complementar nº 29, de 26 de dezembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2001/14/anexo_proprio_i.pdf",
+      "ano": 2001,
+      "norma": 4745
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/15/anexo_proprio_ii.pdf da norma Lei Complementar nº 29, de 26 de dezembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2001/15/anexo_proprio_ii.pdf",
+      "ano": 2001,
+      "norma": 4745
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/16/anexo_iii.pdf da norma Lei Complementar nº 29, de 26 de dezembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2001/16/anexo_iii.pdf",
+      "ano": 2001,
+      "norma": 4745
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/17/lc_57_-_anexo_i.pdf da norma Lei Complementar nº 57, de 21 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2009/17/lc_57_-_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 1596
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/18/lc_57_-_anexo_ii.pdf da norma Lei Complementar nº 57, de 21 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2009/18/lc_57_-_anexo_ii.pdf",
+      "ano": 2009,
+      "norma": 1596
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/19/lc_57_-_anexo_iii.pdf da norma Lei Complementar nº 57, de 21 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2009/19/lc_57_-_anexo_iii.pdf",
+      "ano": 2009,
+      "norma": 1596
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/20/lc_57_-_anexo_iv.pdf da norma Lei Complementar nº 57, de 21 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2009/20/lc_57_-_anexo_iv.pdf",
+      "ano": 2009,
+      "norma": 1596
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/21/anexo_v.pdf da norma Lei Ordinária nº 3.845, de 21 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2009/21/anexo_v.pdf",
+      "ano": 2009,
+      "norma": 3509
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/resultado_final_concurso_012024.pdf da norma Resolução nº 9, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2024/22/resultado_final_concurso_012024.pdf",
+      "ano": 2024,
+      "norma": 5136
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/23/convocacao_analista_contabil_e__analista_administrativo.pdf da norma Ato da Presidência nº 12, de 31 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "CONVOCAÇÃO ANALISTA CONTÁBIL-FINANCEIRO E ANALISTA ADMINISTRATIVO",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2024/23/convocacao_analista_contabil_e__analista_administrativo.pdf",
+      "ano": 2024,
+      "norma": 5265
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/24/anexo_i.pdf da norma Lei Complementar nº 49, de 06 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2006/24/anexo_i.pdf",
+      "ano": 2006,
+      "norma": 1583
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/25/anexo_ii.pdf da norma Lei Complementar nº 49, de 06 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2006/25/anexo_ii.pdf",
+      "ano": 2006,
+      "norma": 1583
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/26/anexo_iii.pdf da norma Lei Complementar nº 49, de 06 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2006/26/anexo_iii.pdf",
+      "ano": 2006,
+      "norma": 1583
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/p.r._008.2024.pdf da norma Resolução nº 8, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2024/27/p.r._008.2024.pdf",
+      "ano": 2024,
+      "norma": 5135
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1992/28/anexos_lei_complementar_06-1992.pdf da norma Lei Complementar nº 6, de 03 de setembro de 1992",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/1992/28/anexos_lei_complementar_06-1992.pdf",
+      "ano": 1992,
+      "norma": 4586
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/29/anexo_da_lei_3917-2010.pdf da norma Lei Ordinária nº 3.917, de 05 de outubro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2010/29/anexo_da_lei_3917-2010.pdf",
+      "ano": 2010,
+      "norma": 3706
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/30/anexo_da_lei_4041-2012.pdf da norma Lei Ordinária nº 4.041, de 02 de outubro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barramansa.rj.leg.br/media/sapl/public/anexonormajuridica/2012/30/anexo_da_lei_4041-2012.pdf",
+      "ano": 2012,
+      "norma": 3893
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/d78769668ad9113c958b162cba207a7c8dd610493ee8248456e93aed4897ff4b.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "50def4ed0214d537cd1c1cdb65f0bd455d1f8fe7cf36a362aa48b9158460acd3",
+      "capturado_em": "2026-10-20T20:50:30.435208",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.barramansa.rj.leg.br/d78769668ad9113c958b162cba207a7c8dd610493ee8248456e93aed4897ff4b.json"
+    }
+  ]
+}

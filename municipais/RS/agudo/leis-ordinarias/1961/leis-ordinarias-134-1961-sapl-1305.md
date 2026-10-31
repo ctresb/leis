@@ -1,0 +1,110 @@
+---
+titulo: "Lei nº 134, de 19 de agosto de 1961"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "134"
+data: "1961-08-19"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/1305"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1905/text"
+sha256_fonte: "292a1b469c8813320646fe86af3bf50ae8802f3213320e335237887d014b8e02"
+sha256_texto: "1703a672ebd3a7e0cdaaf9125af6c0842ae259a92bbf4cb5c609da0dafd3c1b9"
+capturado_em_fonte: "2026-10-27T22:14:00.739383-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 134, de 19 de agosto de 1961
+
+REVOGA A LEI MUNICIPAL Nº 109 E CRIA NOVAS CONDIÇÕES PARA OS SERVIÇOS URBANOS, ORIUNDOS DA USINA ELÉTRICA MUNICIPAL.
+
+
+ALDO LUIZ GERMANO BERGER, PREFEITO MUNICIPAL DE AGUDO,  
+FAÇO SABER, no uso das atribuições que me confere o art, 50, Inc. II, da Lei Orgânica do Municipio, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica revogada a Lei Municipal n° 109 de 11 de Novembro de 1960 e criadas novas condições para a receita dos Serviços Urbanos, oriundos dos serviços prestados pala Uzina Elétrica Municipal e será arrecadada na forma como segue:
+
+
+§ 1º
+
+Fica autorizada a cobrança de uma taxa mínima mensal de Cr$. 250,00 (Duzentos e cincoenta cruzeiros) para 15 KW e cr$ 10,00 (Dez cruzeiros) por KW excedente para o consumo de luz para os consumidores que possuírem contadores .
+
+
+§ 2º
+
+Fica autorizada a cobrança de uma taxa mínima de Cr$. 250,00 (Duzentos e cincoenta cruzeiros) mais Cr$. 150,00 (Cento e cincoenta cruzeiros) de excesso, ambas mensais, para os consumidores de luz que não possuírem contadores.
+
+
+§ 3º
+
+Fica autorizada a cobrança de uma taxa de Cr$. 250,00 (Duzentos e cincoenta cruzeiros), para 25 KW de força, mensais, para ligação com motor até 4 KWA, mais Cr$. 20,00 ( Vinte cruzeiros), por KWA de força de motor instalado, para motores de mais de 4 KWA e Cr$. 6,00 (Seis cruzeiros) por KW de força excedente consumido.
+
+
+Art. 2º.
+
+Fica autorizada a cobrança das seguintes taxas para os serviços de assistência aos consumidores.
+
+
+a)
+
+ligar ou desligar luz por casa - Cr$. 100,00
+
+
+b)
+
+ligar ou desligar força por casa - Cr$. 150,00
+
+
+c)
+
+ligar ou desligar força ambulante - Cr$. 150,00
+
+
+d)
+
+colocar segurânças aéreas - Cr$. 50,00
+
+
+e)
+
+testar contadores sem conserto - Cr$. 100,00
+
+
+f)
+
+consertar contadores - valôr do serviço e valôr de peças novas utilizadas.
+
+
+Art. 3º.
+
+Fica autorizada a cobrança da multa seguinte para os proprietários ou consumidores de luz bem como aos que procederem o serviço de ligação, desligar, colocar segurânças sem expressa licença:
+
+<table><tbody><tr><td>1ª. infração</td><td>Cr$.    500,00</td></tr><tr><td>2ª. infração</td><td>Cr$. 1.000,00</td></tr><tr><td>3ª. infração</td><td>Cr$. 2.000,00</td></tr><tr><td>Reincidentes após 3ª. infração</td><td>Corte  de  luz</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Fica autorizada a cobrança da seguinte multa e penas aos consugidores de força que dela se utilizarem sem a expressa licença em horários não permitidos:
+
+<table><tbody><tr><td>1ª. infração</td><td>Cr$. 1.000,00</td></tr><tr><td>2ª. infração</td><td>Cr$. 2.000,00</td></tr><tr><td>3ª. infração</td><td>Cr$. 4.000,00</td></tr><tr><td>Reincidentes após 3ª. infração</td><td>Colocação de relógio controlador às expensas do proprietário, consumidor.</td></tr></tbody></table>
+
+
+Art. 5º.
+
+Esta Lei entratá em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, 19 de Agôsto de 1961.
+
+ALDO LUIZ GERMANO BERGER
+
+Prefeito Municipal
+

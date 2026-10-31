@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/emenda_modificativa_no_03-2023_ao_plc_no_04-23.pdf da norma Lei Complementar-EX nº 4.151, de 22 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Emenda Modificativa nº 03-23, de autoria do Vereador Gilmar ao projeto de lei complementar 04-23, que foi aprovada e incluída ao autógrafo de lei complementar e posteriormente incluída à Lei Complementar nº. 4.151, sancionada pelo Prefeito Municipal.",
+      "anexo_arquivo": "http://sapl.catalao.go.leg.br/media/sapl/public/anexonormajuridica/2023/1/emenda_modificativa_no_03-2023_ao_plc_no_04-23.pdf",
+      "ano": 2023,
+      "norma": 1399
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.catalao.go.leg.br/c3decf0e9c5bf3a8ea15d5c42b0aa79974552315c152e0ba955a0aeef52ccee1.json",
+      "url": "https://sapl.catalao.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.catalao.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3763e05c339892f5bcccbb49169de9ccd453532d270c05671c7a947b9354170a",
+      "bytes": 896,
+      "capturado_em": "2026-10-27T22:39:26.862463-03:00"
+    }
+  ]
+}

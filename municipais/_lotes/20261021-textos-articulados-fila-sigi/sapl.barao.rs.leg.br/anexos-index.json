@@ -1,0 +1,2088 @@
+{
+  "estado": "indice_completo",
+  "total": 205,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/lei_2263_demonstrativo_receita_e_despesa.pdf da norma Lei Ordinária nº 2.263, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Demonstração da Receita e Despesa segundo as categorias econômicas - Orçamento de 2019- Anexo 01",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/1/lei_2263_demonstrativo_receita_e_despesa.pdf",
+      "ano": 2018,
+      "norma": 36
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_2263_ii_receita_e_despesa.pdf da norma Lei Ordinária nº 2.263, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Receita - Especificação da Receita - Anexo 2",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_2263_ii_receita_e_despesa.pdf",
+      "ano": 2018,
+      "norma": 36
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/lei_2263_vi_orcamento_2019.pdf da norma Lei Ordinária nº 2.263, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Programa de Trabalho - Orçamento 2019 - Anexo 6",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/3/lei_2263_vi_orcamento_2019.pdf",
+      "ano": 2018,
+      "norma": 36
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/lei_2263_vii_demonstrativo_funcoes_para_orcamento.pdf da norma Lei Ordinária nº 2.263, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo das funções, Programas e subprogramas por Projetos e Atividades - Orçamento 2019 - Anexo 7",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/4/lei_2263_vii_demonstrativo_funcoes_para_orcamento.pdf",
+      "ano": 2018,
+      "norma": 36
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/lei_2263_viii_demonstrativo_de_despesa_e_orcamento.pdf da norma Lei Ordinária nº 2.263, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Funções, Programas e Subprogramas, conforme o vínculo com os recursos - Orçamento 2019 - Anexo 8",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/5/lei_2263_viii_demonstrativo_de_despesa_e_orcamento.pdf",
+      "ano": 2018,
+      "norma": 36
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/lei_2263_ix_demonstrativo_despesa_por_orgao.pdf da norma Lei Ordinária nº 2.263, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Órgão e funções - Orçamento 2019 - Anexo 9",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/6/lei_2263_ix_demonstrativo_despesa_por_orgao.pdf",
+      "ano": 2018,
+      "norma": 36
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/lei_2263_x_demonstrativo_orcamentario.pdf da norma Lei Ordinária nº 2.263, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Orçamento/Despesa",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/7/lei_2263_x_demonstrativo_orcamentario.pdf",
+      "ano": 2018,
+      "norma": 36
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/8/lei_2261_anexo_avaliacao_da_comissao.pdf da norma Lei Ordinária nº 2.261, de 22 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Comissão de valores imobiliários do município de Barão",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/8/lei_2261_anexo_avaliacao_da_comissao.pdf",
+      "ano": 2018,
+      "norma": 38
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/9/lei_2258_metas_e_riscos.pdf da norma Lei Ordinária nº 2.258, de 09 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Tabela Metas e Riscos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/9/lei_2258_metas_e_riscos.pdf",
+      "ano": 2018,
+      "norma": 41
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/10/lei_2258_anexo_i_de_metas_fiscais.pdf da norma Lei Ordinária nº 2.258, de 09 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexos I Metas Fiscais",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/10/lei_2258_anexo_i_de_metas_fiscais.pdf",
+      "ano": 2018,
+      "norma": 41
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/11/lei_2258_anexo_iii_metas_fiscais.pdf da norma Lei Ordinária nº 2.258, de 09 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo III Metas Fiscais",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/11/lei_2258_anexo_iii_metas_fiscais.pdf",
+      "ano": 2018,
+      "norma": 41
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/12/lei_2258_anexo_iv_patrimonio_consolidado.pdf da norma Lei Ordinária nº 2.258, de 09 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV Patrimônio consolidado",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/12/lei_2258_anexo_iv_patrimonio_consolidado.pdf",
+      "ano": 2018,
+      "norma": 41
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/13/lei_2258_plano_de_governo.pdf da norma Lei Ordinária nº 2.258, de 09 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Plano de Governo",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/13/lei_2258_plano_de_governo.pdf",
+      "ano": 2018,
+      "norma": 41
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/14/lei_2258_anexo_ii_riscos_fiscais.pdf da norma Lei Ordinária nº 2.258, de 09 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexo II Riscos Fiscais",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2018/14/lei_2258_anexo_ii_riscos_fiscais.pdf",
+      "ano": 2018,
+      "norma": 41
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/15/lei_2187_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Tabelas Demonstrativas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/15/lei_2187_tabelas_demonstrativas.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/16/lei_2187_anexo_i_metas_fiscais.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Metas Fiscais",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/16/lei_2187_anexo_i_metas_fiscais.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/17/lei_2187_anexo_ii_riscos_fiscais.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Riscos Fiscais",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/17/lei_2187_anexo_ii_riscos_fiscais.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/18/lei_2187_anexo_iii_metas_e_prioridades.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Metas e Prioridades",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/18/lei_2187_anexo_iii_metas_e_prioridades.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/19/lei_2187_anexo_iv_patrimonio_consolidado.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Patrimônio Consolidado",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/19/lei_2187_anexo_iv_patrimonio_consolidado.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/20/lei_2187_programa_de_governo.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Programa de Governo",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/20/lei_2187_programa_de_governo.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/21/lei_2187_audiencias_publicas.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Audiência Pública",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/21/lei_2187_audiencias_publicas.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/22/lei_2187_atas.pdf da norma Lei Ordinária nº 2.187, de 09 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Atas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/22/lei_2187_atas.pdf",
+      "ano": 2017,
+      "norma": 64
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/23/lei_2190_anexo_i_demonstracao_da_receita_e_despesa.pdf da norma Lei Ordinária nº 2.190, de 06 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/23/lei_2190_anexo_i_demonstracao_da_receita_e_despesa.pdf",
+      "ano": 2017,
+      "norma": 111
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/24/lei_2190_anexo_ii_especificacao_da_receita.pdf da norma Lei Ordinária nº 2.190, de 06 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/24/lei_2190_anexo_ii_especificacao_da_receita.pdf",
+      "ano": 2017,
+      "norma": 111
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/25/lei_2190_anexo_vi_programa_de_trabalho.pdf da norma Lei Ordinária nº 2.190, de 06 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/25/lei_2190_anexo_vi_programa_de_trabalho.pdf",
+      "ano": 2017,
+      "norma": 111
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/26/lei_2190_anexo_vii_demonstrativo_das_funcoes.pdf da norma Lei Ordinária nº 2.190, de 06 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/26/lei_2190_anexo_vii_demonstrativo_das_funcoes.pdf",
+      "ano": 2017,
+      "norma": 111
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/27/lei_2190_anexo_ix_despesas.pdf da norma Lei Ordinária nº 2.190, de 06 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/27/lei_2190_anexo_ix_despesas.pdf",
+      "ano": 2017,
+      "norma": 111
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/28/lei_2190_anexo_x_demonstrativos_orcamentos.pdf da norma Lei Ordinária nº 2.190, de 06 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/28/lei_2190_anexo_x_demonstrativos_orcamentos.pdf",
+      "ano": 2017,
+      "norma": 111
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/29/lei_2166_anexo_i_parametros_para_projecoes.pdf da norma Lei Ordinária nº 2.166, de 22 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/29/lei_2166_anexo_i_parametros_para_projecoes.pdf",
+      "ano": 2017,
+      "norma": 134
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/30/lei_2166_programa_de_governo.pdf da norma Lei Ordinária nº 2.166, de 22 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2017/30/lei_2166_programa_de_governo.pdf",
+      "ano": 2017,
+      "norma": 134
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/31/lei_2113_anexo_i_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 2.113, de 08 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Tabelas demonstrativas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2016/31/lei_2113_anexo_i_tabelas_demonstrativas.pdf",
+      "ano": 2016,
+      "norma": 186
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/32/lei_2113_anexo_ii_calculo_da_receita.pdf da norma Lei Ordinária nº 2.113, de 08 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Memória e metodologia de Cálculo de Receita.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2016/32/lei_2113_anexo_ii_calculo_da_receita.pdf",
+      "ano": 2016,
+      "norma": 186
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/33/lei_2108_anexo_i_demonstrativos_de_receitas.pdf da norma Lei Ordinária nº 2.108, de 26 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Receitas e Despesas Correntes",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2016/33/lei_2108_anexo_i_demonstrativos_de_receitas.pdf",
+      "ano": 2016,
+      "norma": 191
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/34/lei_2108_anexo_ii_riscos_fiscais.pdf da norma Lei Ordinária nº 2.108, de 26 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Riscos Fiscais e providências",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2016/34/lei_2108_anexo_ii_riscos_fiscais.pdf",
+      "ano": 2016,
+      "norma": 191
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/35/lei_2108_anexo_iii_programas.pdf da norma Lei Ordinária nº 2.108, de 26 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Programa, Objetivo e Justificativa",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2016/35/lei_2108_anexo_iii_programas.pdf",
+      "ano": 2016,
+      "norma": 191
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/36/lei_2108_anexo_iv_relatorio_de_projetos.pdf da norma Lei Ordinária nº 2.108, de 26 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Relatório sobre Projetos em Execução e a executar e despesas com conservação do patrimônio público.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2016/36/lei_2108_anexo_iv_relatorio_de_projetos.pdf",
+      "ano": 2016,
+      "norma": 191
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/37/lei_2108_anexo_v_programa_de_governo.pdf da norma Lei Ordinária nº 2.108, de 26 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Programa de Governo",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2016/37/lei_2108_anexo_v_programa_de_governo.pdf",
+      "ano": 2016,
+      "norma": 191
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/38/lei_136_anexo_especificacoes.pdf da norma Lei Ordinária nº 136, de 07 de dezembro de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Tabelas Orçamentárias",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1990/38/lei_136_anexo_especificacoes.pdf",
+      "ano": 1990,
+      "norma": 374
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/39/lei_186_anexo_i_assinatura.pdf da norma Lei Ordinária nº 186, de 27 de setembro de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Assinatura dos responsáveis por cada Clube.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1991/39/lei_186_anexo_i_assinatura.pdf",
+      "ano": 1991,
+      "norma": 424
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/40/lei_191_anexo_i_diretrizes.pdf da norma Lei Ordinária nº 191, de 11 de outubro de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1991/40/lei_191_anexo_i_diretrizes.pdf",
+      "ano": 1991,
+      "norma": 429
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/41/lei_196_anexo_i_receita.pdf da norma Lei Ordinária nº 196, de 11 de dezembro de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1991/41/lei_196_anexo_i_receita.pdf",
+      "ano": 1991,
+      "norma": 434
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1992/42/lei_214_anexo_i_recibo.pdf da norma Lei Ordinária nº 214, de 27 de julho de 1992",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1992/42/lei_214_anexo_i_recibo.pdf",
+      "ano": 1992,
+      "norma": 451
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1992/43/lei_231_anexo_i_oficio.pdf da norma Lei Ordinária nº 231, de 27 de novembro de 1992",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1992/43/lei_231_anexo_i_oficio.pdf",
+      "ano": 1992,
+      "norma": 469
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1992/44/lei_235_anexo_i_tabelas.pdf da norma Lei Ordinária nº 235, de 11 de dezembro de 1992",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Natureza da Despesa",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1992/44/lei_235_anexo_i_tabelas.pdf",
+      "ano": 1992,
+      "norma": 473
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1992/45/lei_237_anexo_i.pdf da norma Lei Ordinária nº 237, de 11 de dezembro de 1992",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1992/45/lei_237_anexo_i.pdf",
+      "ano": 1992,
+      "norma": 475
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/46/lei_251_anexo_i_historico_e_atas.pdf da norma Lei Ordinária nº 251, de 26 de fevereiro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Histórico, Atas e Mapas.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1993/46/lei_251_anexo_i_historico_e_atas.pdf",
+      "ano": 1993,
+      "norma": 489
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/47/lei_274_anexo_i_pl_300.pdf da norma Lei Ordinária nº 274, de 21 de maio de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Valores referentes ao mês de maio de 1993",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1993/47/lei_274_anexo_i_pl_300.pdf",
+      "ano": 1993,
+      "norma": 512
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/48/lei_300_laudo_de_reavaliacao_e_avaliacao.pdf da norma Lei Ordinária nº 300, de 17 de setembro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Laudos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1993/48/lei_300_laudo_de_reavaliacao_e_avaliacao.pdf",
+      "ano": 1993,
+      "norma": 538
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/49/lei_316_anexo_meta_objetivo_e_recurso.pdf da norma Lei Ordinária nº 316, de 12 de novembro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1993/49/lei_316_anexo_meta_objetivo_e_recurso.pdf",
+      "ano": 1993,
+      "norma": 561
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/50/lei_317_anexo_i_meta_objetivo_e_recursos.pdf da norma Lei Ordinária nº 317, de 12 de novembro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1993/50/lei_317_anexo_i_meta_objetivo_e_recursos.pdf",
+      "ano": 1993,
+      "norma": 562
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/51/lei_337_anexo_i_valores_cargo_em_comissao.pdf da norma Lei Ordinária nº 337, de 10 de fevereiro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/51/lei_337_anexo_i_valores_cargo_em_comissao.pdf",
+      "ano": 1994,
+      "norma": 574
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/52/lei_337_anexo_ii_valores_cargos_efetivo.pdf da norma Lei Ordinária nº 337, de 10 de fevereiro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/52/lei_337_anexo_ii_valores_cargos_efetivo.pdf",
+      "ano": 1994,
+      "norma": 574
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/53/lei_344_anexo_i_cargo_em_comissao.pdf da norma Lei Ordinária nº 344, de 25 de março de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Valores de Cargo em Comissão e Função gratificada",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/53/lei_344_anexo_i_cargo_em_comissao.pdf",
+      "ano": 1994,
+      "norma": 581
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/54/lei_344_anexo_ii_cargos_de_provimento.pdf da norma Lei Ordinária nº 344, de 25 de março de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Cargos de Provimento Efetivo",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/54/lei_344_anexo_ii_cargos_de_provimento.pdf",
+      "ano": 1994,
+      "norma": 581
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/55/lei_344_anexo_iii_magisterio.pdf da norma Lei Ordinária nº 344, de 25 de março de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Magistério",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/55/lei_344_anexo_iii_magisterio.pdf",
+      "ano": 1994,
+      "norma": 581
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/56/lei_350_anexo_i_mapa.pdf da norma Lei Ordinária nº 350, de 06 de maio de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/56/lei_350_anexo_i_mapa.pdf",
+      "ano": 1994,
+      "norma": 587
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/57/lei_350_anexo_ii_contrato.pdf da norma Lei Ordinária nº 350, de 06 de maio de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/57/lei_350_anexo_ii_contrato.pdf",
+      "ano": 1994,
+      "norma": 587
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/58/lei_350_anexo_iii_ficha_de_inscricao.pdf da norma Lei Ordinária nº 350, de 06 de maio de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/58/lei_350_anexo_iii_ficha_de_inscricao.pdf",
+      "ano": 1994,
+      "norma": 587
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/59/lei_363_anexo_i_valores.pdf da norma Lei Ordinária nº 363, de 16 de setembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/59/lei_363_anexo_i_valores.pdf",
+      "ano": 1994,
+      "norma": 600
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/60/lei_363_anexo_ii_valores_padrao_base.pdf da norma Lei Ordinária nº 363, de 16 de setembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/60/lei_363_anexo_ii_valores_padrao_base.pdf",
+      "ano": 1994,
+      "norma": 600
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/61/lei_363_anexo_iii_valores_magisterio.pdf da norma Lei Ordinária nº 363, de 16 de setembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/61/lei_363_anexo_iii_valores_magisterio.pdf",
+      "ano": 1994,
+      "norma": 600
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/62/lei_365_anexo_i_plano_de_trabalho.pdf da norma Lei Ordinária nº 365, de 07 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/62/lei_365_anexo_i_plano_de_trabalho.pdf",
+      "ano": 1994,
+      "norma": 602
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/63/lei_367_anexo_i_termo_de_compromisso.pdf da norma Lei Ordinária nº 367, de 07 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/63/lei_367_anexo_i_termo_de_compromisso.pdf",
+      "ano": 1994,
+      "norma": 604
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/64/lei_368_anexo_tabelas_orcamentarias.pdf da norma Lei Ordinária nº 368, de 21 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/64/lei_368_anexo_tabelas_orcamentarias.pdf",
+      "ano": 1994,
+      "norma": 605
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/65/lei_369_anexo_i_valores_de_cc_e_fg.pdf da norma Lei Ordinária nº 369, de 21 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/65/lei_369_anexo_i_valores_de_cc_e_fg.pdf",
+      "ano": 1994,
+      "norma": 606
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/66/lei_369_anexo_ii_valores_padrao_base.pdf da norma Lei Ordinária nº 369, de 21 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/66/lei_369_anexo_ii_valores_padrao_base.pdf",
+      "ano": 1994,
+      "norma": 606
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/67/lei_369_anexo_iii_magisterio.pdf da norma Lei Ordinária nº 369, de 21 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/67/lei_369_anexo_iii_magisterio.pdf",
+      "ano": 1994,
+      "norma": 606
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/68/lei_372_anexo_i_valores_cc_e_fg.pdf da norma Lei Ordinária nº 372, de 18 de novembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/68/lei_372_anexo_i_valores_cc_e_fg.pdf",
+      "ano": 1994,
+      "norma": 609
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/69/lei_372_anexo_ii_valores_padrao_base.pdf da norma Lei Ordinária nº 372, de 18 de novembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/69/lei_372_anexo_ii_valores_padrao_base.pdf",
+      "ano": 1994,
+      "norma": 609
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/70/lei_372_anexo_iii_valor_magisterio.pdf da norma Lei Ordinária nº 372, de 18 de novembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/70/lei_372_anexo_iii_valor_magisterio.pdf",
+      "ano": 1994,
+      "norma": 609
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/71/lei_376_anexo_i_valores_cc_e_fg.pdf da norma Lei Ordinária nº 376, de 16 de dezembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/71/lei_376_anexo_i_valores_cc_e_fg.pdf",
+      "ano": 1994,
+      "norma": 613
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/72/lei_376_anexo_ii_valores_padrao.pdf da norma Lei Ordinária nº 376, de 16 de dezembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/72/lei_376_anexo_ii_valores_padrao.pdf",
+      "ano": 1994,
+      "norma": 613
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/73/lei_376_anexo_iii.pdf da norma Lei Ordinária nº 376, de 16 de dezembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/73/lei_376_anexo_iii.pdf",
+      "ano": 1994,
+      "norma": 613
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/74/lei_382_anexo_i_minuta_do_convenio.pdf da norma Lei Ordinária nº 382, de 29 de dezembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1994/74/lei_382_anexo_i_minuta_do_convenio.pdf",
+      "ano": 1994,
+      "norma": 618
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/75/lei_394_anexo_i_cc_e_fg.pdf da norma Lei Ordinária nº 394, de 19 de junho de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "Valores referentes ao mês de junho de 1995, com 10% de aumento CC e FG.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1995/75/lei_394_anexo_i_cc_e_fg.pdf",
+      "ano": 1995,
+      "norma": 631
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/76/lei_394_anexo_ii_padrao_base.pdf da norma Lei Ordinária nº 394, de 19 de junho de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "Valores referentes ao mês de junho de 1995 com 10% de aumento - Padrão.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1995/76/lei_394_anexo_ii_padrao_base.pdf",
+      "ano": 1995,
+      "norma": 631
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/77/lei_394_anexo_iii_magisterio.pdf da norma Lei Ordinária nº 394, de 19 de junho de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Valores referente ao mês de junho 1995 com 10% de aumento - Magistério.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1995/77/lei_394_anexo_iii_magisterio.pdf",
+      "ano": 1995,
+      "norma": 631
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/78/lei_407_ficha_de_inscricao.pdf da norma Lei Ordinária nº 407, de 11 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Documentação Associação.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1995/78/lei_407_ficha_de_inscricao.pdf",
+      "ano": 1995,
+      "norma": 645
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/79/lei_410_anexo_i_tabelas.pdf da norma Lei Ordinária nº 410, de 22 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Tabelas demonstrativas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1995/79/lei_410_anexo_i_tabelas.pdf",
+      "ano": 1995,
+      "norma": 648
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/80/lei_411_especificacoes_de_receita_e_despesa.pdf da norma Lei Ordinária nº 411, de 22 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1995/80/lei_411_especificacoes_de_receita_e_despesa.pdf",
+      "ano": 1995,
+      "norma": 649
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/81/lei_425_anexo_i_cc_e_fg.pdf da norma Lei Ordinária nº 425, de 22 de março de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Valores referentes ao mês de março de 1996 com 10% de aumento.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1996/81/lei_425_anexo_i_cc_e_fg.pdf",
+      "ano": 1996,
+      "norma": 663
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/82/lei_425_anexo_ii_padrao_base.pdf da norma Lei Ordinária nº 425, de 22 de março de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "Valores com 10% de aumento Padrão",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1996/82/lei_425_anexo_ii_padrao_base.pdf",
+      "ano": 1996,
+      "norma": 663
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/83/lei_425_anexo_iii_magisterio.pdf da norma Lei Ordinária nº 425, de 22 de março de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "Valores com aumento de 10% Magistério.",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1996/83/lei_425_anexo_iii_magisterio.pdf",
+      "ano": 1996,
+      "norma": 663
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/84/lei_428_-_anexos.pdf da norma Lei Ordinária nº 428, de 19 de abril de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "Nome das ruas e moradores",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1996/84/lei_428_-_anexos.pdf",
+      "ano": 1996,
+      "norma": 666
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/85/lei_457_-_demonstrativos.pdf da norma Lei Ordinária nº 457, de 01 de novembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos LDO",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1996/85/lei_457_-_demonstrativos.pdf",
+      "ano": 1996,
+      "norma": 695
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/86/lei_461_-_demonstrativos.pdf da norma Lei Ordinária nº 461, de 06 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos LOA",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1996/86/lei_461_-_demonstrativos.pdf",
+      "ano": 1996,
+      "norma": 699
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/87/lei_476_anexos_referente_a_lei.pdf da norma Lei Ordinária nº 476, de 21 de fevereiro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Comprovação de despesas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1997/87/lei_476_anexos_referente_a_lei.pdf",
+      "ano": 1997,
+      "norma": 714
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/88/lei_488_anexo_i_plano_de_acao.pdf da norma Lei Ordinária nº 488, de 04 de abril de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Documentos e Plano de Ação",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1997/88/lei_488_anexo_i_plano_de_acao.pdf",
+      "ano": 1997,
+      "norma": 726
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/89/lei_495_anexo_tabelas_de_valores.pdf da norma Lei Ordinária nº 495, de 16 de maio de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "Previsão de valores",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1997/89/lei_495_anexo_tabelas_de_valores.pdf",
+      "ano": 1997,
+      "norma": 733
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/90/lei_498_anexo_i_meta_objetivo_e_recursos.pdf da norma Lei Ordinária nº 498, de 20 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de metas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1997/90/lei_498_anexo_i_meta_objetivo_e_recursos.pdf",
+      "ano": 1997,
+      "norma": 736
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/91/lei_510_anexo_de_projeto.pdf da norma Lei Ordinária nº 510, de 22 de agosto de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "Plano do programa",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1997/91/lei_510_anexo_de_projeto.pdf",
+      "ano": 1997,
+      "norma": 748
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/92/lei_572_tabelas_e_emendas.pdf da norma Lei Ordinária nº 572, de 10 de novembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1998/92/lei_572_tabelas_e_emendas.pdf",
+      "ano": 1998,
+      "norma": 808
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/93/lei_575_tabela_demonstrativa.pdf da norma Lei Ordinária nº 575, de 08 de dezembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1998/93/lei_575_tabela_demonstrativa.pdf",
+      "ano": 1998,
+      "norma": 811
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/94/lei_594_anexo_i_regulamento_das_tendas.pdf da norma Lei Ordinária nº 594, de 23 de março de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "Regulamento",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1999/94/lei_594_anexo_i_regulamento_das_tendas.pdf",
+      "ano": 1999,
+      "norma": 830
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/95/lei_623_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 623, de 09 de novembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1999/95/lei_623_anexo_tabelas_demonstrativas.pdf",
+      "ano": 1999,
+      "norma": 859
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/96/lei_639_anexos_demonstrativos.pdf da norma Lei Ordinária nº 639, de 21 de dezembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/1999/96/lei_639_anexos_demonstrativos.pdf",
+      "ano": 1999,
+      "norma": 875
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/97/lei_696_anexo_tabelas_demonstrativa.pdf da norma Lei Ordinária nº 696, de 31 de outubro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2000/97/lei_696_anexo_tabelas_demonstrativa.pdf",
+      "ano": 2000,
+      "norma": 932
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/98/lei_699_anexo_demonstrativo.pdf da norma Lei Ordinária nº 699, de 12 de dezembro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2000/98/lei_699_anexo_demonstrativo.pdf",
+      "ano": 2000,
+      "norma": 935
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/99/lei_766_anexo_i_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 766, de 26 de junho de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2001/99/lei_766_anexo_i_tabelas_demonstrativas.pdf",
+      "ano": 2001,
+      "norma": 1002
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/100/lei_775_minuta_do_contrato.pdf da norma Lei Ordinária nº 775, de 14 de agosto de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "Minuta contrato",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2001/100/lei_775_minuta_do_contrato.pdf",
+      "ano": 2001,
+      "norma": 1011
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/101/lei_783_anexo_i_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 783, de 16 de outubro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2001/101/lei_783_anexo_i_tabelas_demonstrativas.pdf",
+      "ano": 2001,
+      "norma": 1019
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/102/lei_789_anexo_demonstracao_da_receita.pdf da norma Lei Ordinária nº 789, de 20 de novembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2001/102/lei_789_anexo_demonstracao_da_receita.pdf",
+      "ano": 2001,
+      "norma": 1025
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/103/lei_807_anexo_atividades_de_impacto.pdf da norma Lei Ordinária nº 807, de 31 de dezembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "Tabelas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2001/103/lei_807_anexo_atividades_de_impacto.pdf",
+      "ano": 2001,
+      "norma": 1043
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/104/lei_848_convenio_para_plantao_hospitalar.pdf da norma Lei Ordinária nº 848, de 19 de junho de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2002/104/lei_848_convenio_para_plantao_hospitalar.pdf",
+      "ano": 2002,
+      "norma": 1086
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/105/lei_862_anexo_i_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 862, de 02 de dezembro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2002/105/lei_862_anexo_i_tabelas_demonstrativas.pdf",
+      "ano": 2002,
+      "norma": 1100
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/106/lei_859_anexo_i_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 859, de 19 de novembro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2002/106/lei_859_anexo_i_tabelas_demonstrativas.pdf",
+      "ano": 2002,
+      "norma": 1097
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/107/lei_959_anexotabelas_demonstrativas.pdf da norma Lei Ordinária nº 959, de 04 de novembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2003/107/lei_959_anexotabelas_demonstrativas.pdf",
+      "ano": 2003,
+      "norma": 1204
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/108/lei_964_anexo_i_demonstracao_de_receita.pdf da norma Lei Ordinária nº 964, de 02 de dezembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2003/108/lei_964_anexo_i_demonstracao_de_receita.pdf",
+      "ano": 2003,
+      "norma": 1209
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/109/lei_1051_anexo_de_metas_prioritarias.pdf da norma Lei Ordinária nº 1.051, de 19 de outubro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2004/109/lei_1051_anexo_de_metas_prioritarias.pdf",
+      "ano": 2004,
+      "norma": 1300
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/110/lei_1098_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.098, de 08 de junho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2005/110/lei_1098_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2005,
+      "norma": 1330
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/111/lei_1130_anexo_i_tabelas_orcamentarias.pdf da norma Lei Ordinária nº 1.130, de 27 de outubro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2005/111/lei_1130_anexo_i_tabelas_orcamentarias.pdf",
+      "ano": 2005,
+      "norma": 1380
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/112/lei_1224_anexo_impacto_local.pdf da norma Lei Ordinária nº 1.224, de 18 de outubro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2006/112/lei_1224_anexo_impacto_local.pdf",
+      "ano": 2006,
+      "norma": 1478
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/113/lei_1232_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.232, de 08 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2006/113/lei_1232_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2006,
+      "norma": 1494
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/114/lei_1236_anexo_demonstracao_de_receita.pdf da norma Lei Ordinária nº 1.236, de 24 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2006/114/lei_1236_anexo_demonstracao_de_receita.pdf",
+      "ano": 2006,
+      "norma": 1498
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/115/lei_1306_anexo_receitas_e_despesas.pdf da norma Lei Ordinária nº 1.306, de 18 de outubro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2007/115/lei_1306_anexo_receitas_e_despesas.pdf",
+      "ano": 2007,
+      "norma": 1560
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/116/lei_1306_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.306, de 18 de outubro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2007/116/lei_1306_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2007,
+      "norma": 1560
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/117/lei_1315_anexotabela_de_incidencias.pdf da norma Lei Ordinária nº 1.315, de 05 de dezembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2007/117/lei_1315_anexotabela_de_incidencias.pdf",
+      "ano": 2007,
+      "norma": 1569
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/118/lei_1389_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.389, de 22 de outubro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2008/118/lei_1389_tabelas_demonstrativas.pdf",
+      "ano": 2008,
+      "norma": 1646
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/119/lei_1402_anexo_tabelas_demonstrativas..pdf da norma Lei Ordinária nº 1.402, de 17 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2008/119/lei_1402_anexo_tabelas_demonstrativas..pdf",
+      "ano": 2008,
+      "norma": 1659
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/120/lei_1448_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.448, de 08 de julho de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2009/120/lei_1448_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2009,
+      "norma": 1705
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/121/lei_1461_anexo_termo_de_compromisso.pdf da norma Lei Ordinária nº 1.461, de 02 de setembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2009/121/lei_1461_anexo_termo_de_compromisso.pdf",
+      "ano": 2009,
+      "norma": 1718
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/122/lei_1470_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.470, de 22 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2009/122/lei_1470_tabelas_demonstrativas.pdf",
+      "ano": 2009,
+      "norma": 1727
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/123/lei_1479_protocolo_de_intencoes.pdf da norma Lei Ordinária nº 1.479, de 25 de novembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2009/123/lei_1479_protocolo_de_intencoes.pdf",
+      "ano": 2009,
+      "norma": 1736
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/124/lei_1544_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.544, de 04 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2010/124/lei_1544_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2010,
+      "norma": 1800
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/125/lei_1554anexodemonstrativo_do_orcamento.pdf da norma Lei Ordinária nº 1.554, de 22 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2010/125/lei_1554anexodemonstrativo_do_orcamento.pdf",
+      "ano": 2010,
+      "norma": 1810
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/126/lei_1554_anexo_despesas_orcamentarias.pdf da norma Lei Ordinária nº 1.554, de 22 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2010/126/lei_1554_anexo_despesas_orcamentarias.pdf",
+      "ano": 2010,
+      "norma": 1810
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/127/lei_1629_anexo_tabelas_demonstrativas_ldo.pdf da norma Lei Ordinária nº 1.629, de 24 de outubro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2011/127/lei_1629_anexo_tabelas_demonstrativas_ldo.pdf",
+      "ano": 2011,
+      "norma": 1885
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/128/lei_1640_anexo_i_demonst._da_estimativa.pdf da norma Lei Ordinária nº 1.640, de 23 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "Lei orçamentária anual para 2012",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2011/128/lei_1640_anexo_i_demonst._da_estimativa.pdf",
+      "ano": 2011,
+      "norma": 1896
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/129/lei_1640_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.640, de 23 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2011/129/lei_1640_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2011,
+      "norma": 1896
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/130/lei_1705_ldo_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.705, de 17 de outubro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2012/130/lei_1705_ldo_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2012,
+      "norma": 1961
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/131/lei_1713_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.713, de 19 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2012/131/lei_1713_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2012,
+      "norma": 1969
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/132/lei_1772_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.772, de 19 de junho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/132/lei_1772_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2013,
+      "norma": 2036
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/133/lei_1804_anexo_i_metas_anuais.pdf da norma Lei Ordinária nº 1.804, de 07 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/133/lei_1804_anexo_i_metas_anuais.pdf",
+      "ano": 2013,
+      "norma": 2068
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/134/lei_1804_anexo_ii_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.804, de 07 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/134/lei_1804_anexo_ii_tabelas_demonstrativas.pdf",
+      "ano": 2013,
+      "norma": 2068
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/135/lei_1804_anexo_iii_tabelas_administrativas.pdf da norma Lei Ordinária nº 1.804, de 07 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/135/lei_1804_anexo_iii_tabelas_administrativas.pdf",
+      "ano": 2013,
+      "norma": 2068
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/136/lei_1804_anexo_iv_rel._projetos.pdf da norma Lei Ordinária nº 1.804, de 07 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/136/lei_1804_anexo_iv_rel._projetos.pdf",
+      "ano": 2013,
+      "norma": 2068
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/137/lei_1804_anexo_v_programa_de_governo.pdf da norma Lei Ordinária nº 1.804, de 07 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/137/lei_1804_anexo_v_programa_de_governo.pdf",
+      "ano": 2013,
+      "norma": 2068
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/138/lei_1817_anexo_i_regras.pdf da norma Lei Ordinária nº 1.817, de 21 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/138/lei_1817_anexo_i_regras.pdf",
+      "ano": 2013,
+      "norma": 2081
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/139/lei_1817_anexo_ii.pdf da norma Lei Ordinária nº 1.817, de 21 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/139/lei_1817_anexo_ii.pdf",
+      "ano": 2013,
+      "norma": 2081
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/140/lei_1817anexo_iii.pdf da norma Lei Ordinária nº 1.817, de 21 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/140/lei_1817anexo_iii.pdf",
+      "ano": 2013,
+      "norma": 2081
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/141/lei_1826_anexo_demonstracao_da_receita.pdf da norma Lei Ordinária nº 1.826, de 19 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/141/lei_1826_anexo_demonstracao_da_receita.pdf",
+      "ano": 2013,
+      "norma": 2092
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/142/lei_1826_anexo_resumo_da_receita.pdf da norma Lei Ordinária nº 1.826, de 19 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/142/lei_1826_anexo_resumo_da_receita.pdf",
+      "ano": 2013,
+      "norma": 2092
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/143/lei_1826_anexo_orcamento.pdf da norma Lei Ordinária nº 1.826, de 19 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/143/lei_1826_anexo_orcamento.pdf",
+      "ano": 2013,
+      "norma": 2092
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/144/lei_1826_anexo_orcamento_2014.pdf da norma Lei Ordinária nº 1.826, de 19 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/144/lei_1826_anexo_orcamento_2014.pdf",
+      "ano": 2013,
+      "norma": 2092
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/145/lei_1826_anexo_despesas.pdf da norma Lei Ordinária nº 1.826, de 19 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/145/lei_1826_anexo_despesas.pdf",
+      "ano": 2013,
+      "norma": 2092
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/146/lei_1826_anexo_demonstrativo.pdf da norma Lei Ordinária nº 1.826, de 19 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/146/lei_1826_anexo_demonstrativo.pdf",
+      "ano": 2013,
+      "norma": 2092
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/147/lei_1826_anexo_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.826, de 19 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2013/147/lei_1826_anexo_tabelas_demonstrativas.pdf",
+      "ano": 2013,
+      "norma": 2092
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/148/lei_1861_aneco_convenio.pdf da norma Lei Ordinária nº 1.861, de 21 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/148/lei_1861_aneco_convenio.pdf",
+      "ano": 2014,
+      "norma": 2127
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/149/lei_1866_anexo_convenio.pdf da norma Lei Ordinária nº 1.866, de 21 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/149/lei_1866_anexo_convenio.pdf",
+      "ano": 2014,
+      "norma": 2132
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/150/lei_1953_anexo_i_orcamento.pdf da norma Lei Ordinária nº 1.953, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/150/lei_1953_anexo_i_orcamento.pdf",
+      "ano": 2014,
+      "norma": 2223
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/151/lei_1953_anexo_ii_resumo_geral_da_receita.pdf da norma Lei Ordinária nº 1.953, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/151/lei_1953_anexo_ii_resumo_geral_da_receita.pdf",
+      "ano": 2014,
+      "norma": 2223
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/152/lei_1953_anexo_vi_programa_de_trabalho.pdf da norma Lei Ordinária nº 1.953, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/152/lei_1953_anexo_vi_programa_de_trabalho.pdf",
+      "ano": 2014,
+      "norma": 2223
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/153/lei_1953_anexo_viii_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.953, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/153/lei_1953_anexo_viii_tabelas_demonstrativas.pdf",
+      "ano": 2014,
+      "norma": 2223
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/154/lei_1953_anexo_ix_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.953, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/154/lei_1953_anexo_ix_tabelas_demonstrativas.pdf",
+      "ano": 2014,
+      "norma": 2223
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/155/lei_1953_anexo_x_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.953, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/155/lei_1953_anexo_x_tabelas_demonstrativas.pdf",
+      "ano": 2014,
+      "norma": 2223
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/156/lei_1946_anexo_i_tabelas_demonstrativas.pdf da norma Lei Ordinária nº 1.946, de 24 de novembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2014/156/lei_1946_anexo_i_tabelas_demonstrativas.pdf",
+      "ano": 2014,
+      "norma": 2225
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/157/lei_2034_anexo_i.pdf da norma Lei Ordinária nº 2.034, de 22 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/157/lei_2034_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 2301
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/158/lei_2034_anexo_ii_riscos_fiscais.pdf da norma Lei Ordinária nº 2.034, de 22 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/158/lei_2034_anexo_ii_riscos_fiscais.pdf",
+      "ano": 2015,
+      "norma": 2301
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/159/lei_2034_anexo_iiitabelas_demonstrativas.pdf da norma Lei Ordinária nº 2.034, de 22 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/159/lei_2034_anexo_iiitabelas_demonstrativas.pdf",
+      "ano": 2015,
+      "norma": 2301
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/160/lei_2034_anexo_v_programa_de_governo.pdf da norma Lei Ordinária nº 2.034, de 22 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/160/lei_2034_anexo_v_programa_de_governo.pdf",
+      "ano": 2015,
+      "norma": 2301
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/161/lei_2034_anexo_iv_relatorio.pdf da norma Lei Ordinária nº 2.034, de 22 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/161/lei_2034_anexo_iv_relatorio.pdf",
+      "ano": 2015,
+      "norma": 2301
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/162/lei_2047anexo_i.pdf da norma Lei Ordinária nº 2.047, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/162/lei_2047anexo_i.pdf",
+      "ano": 2015,
+      "norma": 2306
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/163/lei_2047_anexo_iii.pdf da norma Lei Ordinária nº 2.047, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/163/lei_2047_anexo_iii.pdf",
+      "ano": 2015,
+      "norma": 2306
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/164/lei_2047_anexo_vi.pdf da norma Lei Ordinária nº 2.047, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/164/lei_2047_anexo_vi.pdf",
+      "ano": 2015,
+      "norma": 2306
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/165/lei_2047_anexovii.pdf da norma Lei Ordinária nº 2.047, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/165/lei_2047_anexovii.pdf",
+      "ano": 2015,
+      "norma": 2306
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/166/lei_2047_anexo_viii.pdf da norma Lei Ordinária nº 2.047, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/166/lei_2047_anexo_viii.pdf",
+      "ano": 2015,
+      "norma": 2306
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/167/lei_2047_anexo_ix.pdf da norma Lei Ordinária nº 2.047, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/167/lei_2047_anexo_ix.pdf",
+      "ano": 2015,
+      "norma": 2306
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/168/lei_2047_anexo_x.pdf da norma Lei Ordinária nº 2.047, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2015/168/lei_2047_anexo_x.pdf",
+      "ano": 2015,
+      "norma": 2306
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/169/lei_2325_anexo_plano_de_governo.pdf da norma Lei Ordinária nº 2.325, de 08 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "Plano de Governo",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2019/169/lei_2325_anexo_plano_de_governo.pdf",
+      "ano": 2019,
+      "norma": 2339
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/170/lei_2325_anexotabelas.pdf da norma Lei Ordinária nº 2.325, de 08 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "Tabelas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2019/170/lei_2325_anexotabelas.pdf",
+      "ano": 2019,
+      "norma": 2339
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/171/lei_2325_anexo_iii.pdf da norma Lei Ordinária nº 2.325, de 08 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2019/171/lei_2325_anexo_iii.pdf",
+      "ano": 2019,
+      "norma": 2339
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/172/lei_2325_anexo_ii.pdf da norma Lei Ordinária nº 2.325, de 08 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "Riscos Fiscais",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2019/172/lei_2325_anexo_ii.pdf",
+      "ano": 2019,
+      "norma": 2339
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/173/lei_2325_anexo_i.pdf da norma Lei Ordinária nº 2.325, de 08 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "Metas Fiscais",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2019/173/lei_2325_anexo_i.pdf",
+      "ano": 2019,
+      "norma": 2339
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/174/lei_2408_-_plano_de_governo.pdf da norma Lei Ordinária nº 2.408, de 16 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "Plano de Governo",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/174/lei_2408_-_plano_de_governo.pdf",
+      "ano": 2020,
+      "norma": 2451
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/175/lei_2408_-_tabelas.pdf da norma Lei Ordinária nº 2.408, de 16 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "Tabelas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/175/lei_2408_-_tabelas.pdf",
+      "ano": 2020,
+      "norma": 2451
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/176/lei_2408_-_anexo_i.pdf da norma Lei Ordinária nº 2.408, de 16 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/176/lei_2408_-_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 2451
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/177/lei_2408_-_anexo_ii.pdf da norma Lei Ordinária nº 2.408, de 16 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/177/lei_2408_-_anexo_ii.pdf",
+      "ano": 2020,
+      "norma": 2451
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/178/lei_2408_-_anexo_iii.pdf da norma Lei Ordinária nº 2.408, de 16 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "Anexo III",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/178/lei_2408_-_anexo_iii.pdf",
+      "ano": 2020,
+      "norma": 2451
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/179/lei_2415_-_demonstrativos.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/179/lei_2415_-_demonstrativos.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/180/lei_2415_-_anexo_i.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/180/lei_2415_-_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/181/lei_2415_-_anexo_ii.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/181/lei_2415_-_anexo_ii.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/182/lei_2415_-_anexo_iii.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "Anexo III",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/182/lei_2415_-_anexo_iii.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/183/lei_2415_-_anexo_vi.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/183/lei_2415_-_anexo_vi.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/184/lei_2415_-_anexo_vii.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "Anexo VII",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/184/lei_2415_-_anexo_vii.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/185/lei_2415_-_anexo_viii.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "Anexo VIII",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/185/lei_2415_-_anexo_viii.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/186/lei_2415_-_anexo_ix.pdf da norma Lei Ordinária nº 2.415, de 27 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "Anexo IX",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2020/186/lei_2415_-_anexo_ix.pdf",
+      "ano": 2020,
+      "norma": 2452
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/187/lei_2475_-_plano_de_governo.pdf da norma Lei Ordinária nº 2.475, de 13 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "Plano de Governo",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2021/187/lei_2475_-_plano_de_governo.pdf",
+      "ano": 2021,
+      "norma": 2522
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/188/lei_2475_-_tabelas.pdf da norma Lei Ordinária nº 2.475, de 13 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "Tabelas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2021/188/lei_2475_-_tabelas.pdf",
+      "ano": 2021,
+      "norma": 2522
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/189/pl_2524_-_lei_2504_anexos.pdf da norma Lei Ordinária nº 2.504, de 05 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos e Tabelas",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2021/189/pl_2524_-_lei_2504_anexos.pdf",
+      "ano": 2021,
+      "norma": 2551
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/190/lei_2526_-_demonstrativos.pdf da norma Lei Ordinária nº 2.526, de 29 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2021/190/lei_2526_-_demonstrativos.pdf",
+      "ano": 2021,
+      "norma": 2573
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/191/lei_2526_-_tabelas.pdf da norma Lei Ordinária nº 2.526, de 29 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2021/191/lei_2526_-_tabelas.pdf",
+      "ano": 2021,
+      "norma": 2573
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/192/pl_2672_-_anexos_da_lei_i.pdf da norma Lei Ordinária nº 2.674, de 11 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos de despesa",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2022/192/pl_2672_-_anexos_da_lei_i.pdf",
+      "ano": 2022,
+      "norma": 2728
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/193/pl_2672_-_anexos_da_lei_ii.pdf da norma Lei Ordinária nº 2.674, de 11 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos de Receita",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2022/193/pl_2672_-_anexos_da_lei_ii.pdf",
+      "ano": 2022,
+      "norma": 2728
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/194/pl_2689_-_anexo_i_da_lei_2688.pdf da norma Lei Ordinária nº 2.688, de 06 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2022/194/pl_2689_-_anexo_i_da_lei_2688.pdf",
+      "ano": 2022,
+      "norma": 2742
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/195/pl_2689_-_anexo_ii_da_lei_2688.pdf da norma Lei Ordinária nº 2.688, de 06 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2022/195/pl_2689_-_anexo_ii_da_lei_2688.pdf",
+      "ano": 2022,
+      "norma": 2742
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/196/pl_2771_-_anexos_da_lei.pdf da norma Lei Ordinária nº 2.780, de 11 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "Tabelas e demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2023/196/pl_2771_-_anexos_da_lei.pdf",
+      "ano": 2023,
+      "norma": 2847
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/197/emendas_impositivas_2024.pdf da norma Lei Ordinária nº 2.789, de 29 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2023/197/emendas_impositivas_2024.pdf",
+      "ano": 2023,
+      "norma": 2857
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/198/pl_2894_-_anexos_lei.pdf da norma Lei Ordinária nº 2.900, de 10 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2024/198/pl_2894_-_anexos_lei.pdf",
+      "ano": 2024,
+      "norma": 2985
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/199/lei_2911_-_demonstrativos.pdf da norma Lei Ordinária nº 2.911, de 03 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2024/199/lei_2911_-_demonstrativos.pdf",
+      "ano": 2024,
+      "norma": 2996
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/200/pl_2904_-_impositivas.pdf da norma Lei Ordinária nº 2.911, de 03 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2024/200/pl_2904_-_impositivas.pdf",
+      "ano": 2024,
+      "norma": 2996
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/201/pl_leg._11_-_mapa.pdf da norma Lei Ordinária nº 2.916, de 11 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2024/201/pl_leg._11_-_mapa.pdf",
+      "ano": 2024,
+      "norma": 3002
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/202/pl_2994_-_anexo_da_lei.pdf da norma Lei Ordinária nº 3.009, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2025/202/pl_2994_-_anexo_da_lei.pdf",
+      "ano": 2025,
+      "norma": 3097
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/203/pl_3015_-_lei_3034_anexo_i.pdf da norma Lei Ordinária nº 3.034, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2025/203/pl_3015_-_lei_3034_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 3122
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/204/pl_3015_-_lei_3034_anexo_ii.pdf da norma Lei Ordinária nº 3.034, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2025/204/pl_3015_-_lei_3034_anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 3122
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/205/pca_2026.pdf da norma Resolução de Mesa nº 2, de 03 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "Plano Contratual Anual",
+      "anexo_arquivo": "http://sapl.barao.rs.leg.br/media/sapl/public/anexonormajuridica/2026/205/pca_2026.pdf",
+      "ano": 2026,
+      "norma": 3136
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barao.rs.leg.br/4dae2de1a49d83dab555f71c124454d7830de28182ec4325f1031b616cd6dbeb.json",
+      "url": "https://sapl.barao.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.barao.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "008ce8101511b93b0bed67eb74652a89c996179fd91dc13d4b4df4bd2d27194e",
+      "bytes": 43479,
+      "capturado_em": "2026-10-27T17:09:51.429801-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barao.rs.leg.br/443d607aebd01ee7b392edd2768b82abc6ffd0ea71c52451c9e89c2b9ac8005d.json",
+      "url": "https://sapl.barao.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "url_final": "https://sapl.barao.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1ff4b9cb3e7873255c4c4d24e4bf190b58f0035da380f54971e3e8929075bc9b",
+      "bytes": 41657,
+      "capturado_em": "2026-10-27T17:09:52.304289-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barao.rs.leg.br/14eb7f615846606d92ad0f670a125678f6cc8bd9ea9a7d069195e025a217e77c.json",
+      "url": "https://sapl.barao.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "url_final": "https://sapl.barao.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c727c9e6f4313943cf521fee3c3d87400c8c1e7dc385dc73b2ea36277404feec",
+      "bytes": 2272,
+      "capturado_em": "2026-10-27T17:09:53.079830-03:00"
+    }
+  ]
+}

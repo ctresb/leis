@@ -1,0 +1,5127 @@
+---
+titulo: "Lei Complementar nº 51, de 23 de dezembro de 2008"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "51"
+data: "2008-12-23"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-10-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/103"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2001/text"
+sha256_fonte: "13747ce334ad5658866945df1d0ad9696da0c501da48b276745033a91a6202aa"
+sha256_texto: "69a0e89a0624489ac2f2ca83826fabbf7fe89373a70c47d0e2f23d181673a3e4"
+capturado_em_fonte: "2026-10-27T20:09:45.159417-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 51, de 23 de dezembro de 2008
+
+Reformula a Estrutura Administrativa da Prefeitura Municipal de Buritis, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE BURITIS FAÇO SABER QUE A CÂMARA MUNICIPAL DE BURITIS APROVOU E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
+
+
+### TÍTULO I — Disposições Preliminares
+
+
+Art. 1º.
+
+A presente estrutura trata da organização da Prefeitura Municipal de Buritis e das atribuições gerais das suas unidades administrativas.
+
+
+### TÍTULO II — Da Prefeitura
+
+
+#### CAPÍTULO I — Das Finalidades
+
+
+Art. 2º.
+
+A Administração Pública Municipal tem como objetivo fundamental o desenvolvimento econômico e social do Município, integrando-se para esse fim com as demais pessoas jurídicas de direito público interno.
+
+
+Art. 3º.
+
+A ação do Poder Executivo será baseada no planejamento e na implantação de planos, programas e projetos necessários ao cumprimento das metas e objetivos estabelecidos, tendo em vista os princípios norteadores de ação administrativa e respeitadas as normas da Lei Orgânica Municipal, da Constituição Estadual e da Constituição Federal.
+
+
+#### CAPÍTULO II — Da Estrutura Organizacional
+
+
+Art. 4º.
+
+A Estrutura Organizacional da Prefeitura Municipal de Buritis fica constituída da seguinte forma:
+
+
+I –
+
+ÓRGÃOS DE ASSESSORAMENTO DIRETO AO PREFEITO
+
+
+a)
+
+Gabinete;
+
+
+b)
+
+Assessoria Jurídica;
+
+
+c)
+
+Controladoria e Ouvidoria Geral;
+
+Alteração feita pelo Art. 6º. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+d)
+
+Administração Regional;
+
+
+e)
+
+Chefia de Gabinete;
+
+
+f)
+
+Conselhos Municipais;
+
+
+g)
+
+Assessoria de Imprensa e Relações Institucionais;
+
+
+II –
+
+ÓRGÃOS DE ATIVIDADES MEIO
+
+
+a)
+
+Secretaria Municipal de Administração e Planejamento;
+
+
+b)
+
+Secretaria Municipal da Fazenda;
+
+
+III –
+
+Órgão de Atividade Fim:
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+a)
+
+Secretaria Municipal de Agricultura e Meio Ambiente;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+b)
+
+Secretaria Municipal de Obras e Serviços Públicos;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+c)
+
+Secretaria Municipal de Educação;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+d)
+
+Secretaria Municipal de Saúde;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+e)
+
+Secretaria Municipal de Ação Social;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+f)
+
+Secretaria Municipal de Juventude, Esporte, Lazer e Turismo;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 94, de 10 de dezembro de 2013.
+
+
+g)
+
+Secretaria Municipal de Transportes.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 94, de 10 de dezembro de 2013.
+
+
+### TÍTULO III — Das Competências
+
+
+#### CAPÍTULO II — Dos Órgãos de Assessoramento Direto ao Prefeito
+
+
+##### Seção I — Gabinete do Prefeito
+
+
+Art. 5º.
+
+Ao Gabinete do Prefeito compete:
+
+
+I –
+
+Prestar assistência ao Prefeito em sua representação política e social;
+
+
+II –
+
+Atender as partes que demandam ao Gabinete e encaminhá-los aos respectivos órgãos Administrativos;
+
+
+III –
+
+Redigir, registrar e expedir correspondência do Gabinete;
+
+
+IV –
+
+Organizar e manter atualizados os registros relativos ao controle de atividades cumpridas pelo Gabinete;
+
+
+V –
+
+Manter cadastro atualizado de autoridades, instituições e organizações;
+
+
+VI –
+
+Organizar a agenda de atividades e programas oficiais do Prefeito, tomando as providências necessárias para sua observância;
+
+
+VII –
+
+Organizar o protocolo do cerimonial dos atos públicos ou administrativos em conjunto com a Assessoria de Imprensa e Relações Institucionais;
+
+
+VIII –
+
+Preparar as mensagens do Poder Executivo à Câmara Municipal, acompanhar a tramitação dos atos legislativos e examinar, em conjunto com outros órgãos da Administração Municipal, os projetos que forem submetidos à sanção do Prefeito Municipal;
+
+
+IX –
+
+Receber e registrar o expediente recebido da Câmara de Vereadores e acompanhar a tramitação dos pedidos de informações, proposições e providências;
+
+
+X –
+
+Acompanhar junto ao legislativo, o andamento dos Projetos de Lei, verificar os prazos dos processos do legislativo e providenciar para adimplemento das datas de sanção, promulgação, publicação e veto;
+
+
+XI –
+
+Promover organização de coletânea de leis, decretos, portaria e demais atos do Governo Municipal, bem como da legislação federal e estadual de interesse da Prefeitura;
+
+
+XII –
+
+Selecionar matéria publicada de interesse da Prefeitura e encaminhá-la ao órgão ou qual seja pertinente;
+
+
+XIII –
+
+Receber os processos administrativos dirigidos ao Prefeito e encaminhar ao mesmo para que sejam despachados;
+
+
+XIV –
+
+Coordenar as providências relativas às audiências, reuniões e visitas a serem concedidas pelo Prefeito, de que deve este participar ou em que tenha interesse;
+
+
+XV –
+
+Elaborar pareceres sobre assuntos de natureza política e administrativa, submetidos à deliberação do prefeito.
+
+
+XVI –
+
+Executar outras atividades correlatas que lhe forem determinadas pelo Prefeito;
+
+
+##### Seção II — Assessoria Jurídica do Município
+
+
+Art. 6º.
+
+À Assessoria Jurídica compete:
+
+
+I –
+
+representar, mediante delegação do Prefeito Municipal, o Município e suas autarquias e fundações públicas, em juízo e fora dele;
+
+
+II –
+
+examinar previamente a legalidade dos contratos, convênios, acordos ou ajustes que interessem à Administração Pública;
+
+
+III –
+
+elaborar minutas de informações a serem prestadas ao Poder Judiciário em mandados de segurança, ação popular e ação civil pública, impetradas contra ato do prefeito e de outras autoridades que forem indicadas em norma legal ou regulamento;
+
+
+IV –
+
+exercer funções de consultoria jurídica da Administração Municipal, bem como emitir pareceres, normativos ou não, para fixar a interpretação governamental de leis ou atos administrativos;
+
+
+V –
+
+propor ao Prefeito o encaminhamento de representação para a declaração de inconstitucionalidade de quaisquer atos normativos, minutar a competente petição, bem como as informações que devem ser prestadas pelo Prefeito na forma da legislação específica;
+
+
+VI –
+
+defender os interesses do Município junto aos contenciosos administrativos;
+
+
+VII –
+
+assessorar o Prefeito, cooperando na elaboração de matéria legislativa;
+
+
+VIII –
+
+opinar sobre providências de ordem jurídica aconselhadas pelo interesse público e pela interpretação das leis vigentes;
+
+
+IX –
+
+propor ao Prefeito a edição de normas legais ou regulamentares;
+
+
+X –
+
+propor ao Prefeito, para os órgãos da administração direta e indireta e das fundações instituídas e mantidas pelo Poder Público, medidas de caráter jurídico que visem proteger-lhes o patrimônio ou aperfeiçoar as práticas administrativas;
+
+
+XI –
+
+elaborar minutas padronizadas dos termos de convênios, contratos e outros ajustes a serem firmados pelo Município;
+
+
+XII –
+
+opinar, por determinação do Prefeito, sobre consultas que devam ser formuladas pelos órgãos da administração direta e indireta ao Tribunal de Contas do Estado e demais órgãos de controle financeiro, orçamentário e patrimonial;
+
+
+XIII –
+
+opinar previamente com referência ao cumprimento de decisões judiciais e, por determinação do Prefeito, nos pedidos de extensão de julgados, relacionados com a administração direta municipal;
+
+
+XIV –
+
+opinar, sempre que solicitado, nos processos administrativos em que haja questão judicial correlata ou que neles possa influir como condição de seu prosseguimento;
+
+
+XV –
+
+acompanhar, supervisionar e assessorar comissões processantes em caso de processo disciplinar promovido contra servidor municipal;
+
+
+XVI –
+
+prestar informações à Câmara Municipal, quando solicitadas;
+
+
+XVII –
+
+acompanhar, supervisionar e controlar os princípios da moralidade, legalidade, publicidade, impessoalidade e razoabilidade dos atos do Poder Executivo e a defesa dos interesses legítimos do Município;
+
+
+XVIII –
+
+defender, em juízo e fora dele, ativa ou passivamente, os atos e prerrogativas do Prefeito Municipal.
+
+
+XIX –
+
+examinar a legalidade de atos dos procedimentos licitatórios, de modo especial dos editais, das atas de julgamento e dos contratos celebrados:
+
+
+XX –
+
+apreciar a legalidade, legitimidade, economicidade e razoabilidade de contrato, convênio, ajuste ou instrumento congênere que envolva concessão, cessão, doação ou permissão de qualquer natureza, a título oneroso ou gratuito, de responsabilidade do Município, por qualquer de seus órgãos ou entidades da administração indireta;
+
+
+XXI –
+
+apreciar a legalidade dos atos de admissão de pessoal, a qualquer título, excluídas as nomeações para cargos de livre nomeação e exoneração;
+
+
+XXII –
+
+apreciar a legalidade dos atos de concessão de aposentadoria reforma e pensão;
+
+
+XXIII –
+
+representar, em juízo e fora dele, a Fazenda Pública Municipal; e,
+
+
+XXIV –
+
+executar e cobrar, administrativa e judicialmente, a dívida ativa tributária do Município.
+
+
+XXV –
+
+Prestar assistência judiciária à população de baixa renda;
+
+
+XXVI –
+
+Acompanhar ações, petições e outros procedimentos que visem garantir os direitos dos usuários;
+
+
+XXVII –
+
+Executar outras atividades correlatas.
+
+
+##### Seção III — Assessoria de Imprensa e Relações Institucionais
+
+
+Art. 7º.
+
+À Assessoria de Imprensa e Relações Institucionais compete:
+
+
+I –
+
+Promover a divulgação dos assuntos de interesse administrativo, econômico e social do Município;
+
+
+II –
+
+Publicar e divulgar, através da imprensa, noticiários, editais, avisos e outras comunicações necessárias à Administração Municipal;
+
+
+III –
+
+Manter o Prefeito e os demais órgãos da Prefeitura informados sobre publicações de seus interesses;
+
+
+IV –
+
+Executar e promover atividades de relações públicas, divulgação e publicidade;
+
+
+V –
+
+Preparar a matéria destinada à divulgação;
+
+
+VI –
+
+Coordenar os contatos com a imprensa e outros veículos de comunicação;
+
+
+VII –
+
+Promover entrevistas, conferências e debates sobre assuntos de interesse da Prefeitura;
+
+
+VIII –
+
+Programar e promover a organização de solenidades e festividades públicas;
+
+
+IX –
+
+Promover a organização dos arquivos e recorte de jornais relativos aos assuntos de interesse do Município;
+
+
+X –
+
+Preparar todo cerimonial das reuniões em que compareça o Prefeito Municipal e demais autoridades municipais.
+
+
+##### Seção IV — Controladoria Geral
+
+
+Art. 8º.
+
+A Controladoria e Ouvidoria Geral diretamente ligada ao Gabinete do Prefeito Municipal, com objetivo de executar sistema de controle interno, tem a finalidade de:
+
+Alteração feita pelo Art. 6º. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+I –
+
+verificar a regularidade da programação orçamentária e financeira, avaliando o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo e do orçamento do município;
+
+
+II –
+
+comprovar a legalidade e avaliar os resultados, quanto à eficácia, eficiência e economicidade, da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração direta e indireta municipal, bem como da aplicação de recursos públicos por entidades de direito privado;
+
+
+III –
+
+exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres do Município;
+
+
+IV –
+
+apoiar o controle externo no exercício de sua missão institucional.
+
+
+V –
+
+examinar a escrituração contábil e a documentação a ela correspondente;
+
+
+VI –
+
+examinar as fases de execução da despesa, inclusive verificando a regularidade das licitações e contratos, sob os aspectos da legalidade, legitimidade, economicidade e razoabilidade;
+
+
+VII –
+
+examinar a execução da receita bem como as operações de crédito, emissão de títulos e verificação dos depósitos de cauções e fianças;
+
+
+VIII –
+
+examinar os créditos adicionais bem como a conta “restos a pagar” e “despesas de exercícios anteriores”;
+
+
+IX –
+
+acompanhar a contabilização dos recursos provenientes de celebração de convênios e examinando as despesas correspondentes, na forma do inciso IV deste artigo.
+
+
+X –
+
+acompanhar, para fins de posterior registro no Tribunal de Contas do Estado, os atos de admissão de pessoal, a qualquer título, na administração direta e indireta municipal incluída as fundações instituídas ou mantidas pelo poder público municipal, excetuadas as nomeações para cargo de provimento em comissão e designações para função gratificada;
+
+
+XI –
+
+verificar os atos de aposentadoria para posterior registro no Tribunal de Contas do Estado.
+
+
+XII –
+
+Fazer realizar auditoria nos sistemas contábil, financeiro, de execução orçamentária e demais sistemas;
+
+
+XIII –
+
+Controlar a dívida decorrente de operações de crédito de responsabilidade direta ou indireta da fazenda Município;
+
+
+XIV –
+
+Fiscalizar a observância das leis, instruções, regulamentos, resoluções e portarias, cumprindo as normas da Auditoria Externa, determinadas pelo órgão na esfera Estadual, notadamente o Tribunal de Contas do Estado de Minas Gerais;
+
+
+XV –
+
+Orientar e expedir atos normativos concernentes ao sistema integrado de fiscalização contábil, financeira, tributária e auditorias, supervisionando tecnicamente;
+
+
+XVI –
+
+Zelar pelo equilíbrio financeiro do erário público Municipal;
+
+
+XVII –
+
+Analisar contratos, convênios, consórcios e outras formas de parcerias, envolvendo quaisquer órgãos da estrutura básica da Prefeitura emitindo parecer quanto à sua legalidade, viabilidade e conveniência.
+
+
+XVIII –
+
+Comprovar a legalidade e avaliar os resultados, quanto à eficácia, eficiência e economicidade da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da administração Municipal, bem como da aplicação de recursos públicos por entidades de direito privado;
+
+
+XIX –
+
+Cuidar para que sejam fielmente observados a legislação financeira, licitatória, administrativa e tributária, e os contratos pertinentes às obras, serviços, compras e alienações do município;
+
+
+XX –
+
+Apresentar ao Prefeito, autoridade especial, abrangendo as áreas contábeis, de compras, material, almoxarifado, patrimônio, transporte, serviços gerais, fiscais, legais e tributários, anualmente e sempre que necessário;
+
+
+XXI –
+
+Apoiar o controle externo no exercício da sua missão institucional, desempenhando outras funções, afeta a sua área de competência, que julgarem importantes e necessárias.
+
+
+XXII –
+
+Atuar com ingerência sobre os órgãos e entidades da Administração Direta e Indireta, inclusive fundações públicas e empresas públicas que venham a ser constituídas, exercendo o acompanhamento, o controle e a fiscalização, no âmbito de sua competência.
+
+
+Art. 9º.
+
+Para assegurar a eficácia do controle interno, a Controladoria Geral efetuará ainda a fiscalização dos atos e contratos da Administração de que resultem receita ou despesa.
+
+
+Parágrafo único
+
+Para o perfeito cumprimento do disposto neste artigo, os órgãos e entidades da administração direta e indireta do Município deverão encaminhar a Controladoria Geral imediatamente após a conclusão dos atos:
+
+
+I –
+
+a Lei relativa ao Plano Plurianual, a Lei de Diretrizes Orçamentárias, a Lei Orçamentária Anual e a documentação referente à abertura de créditos adicionais;
+
+
+II –
+
+os editais de licitação ou contratos, inclusive administrativos, e os convênios, acordos, ajustes ou outros instrumentos congêneres.
+
+
+Art. 10.
+
+Verificada a ilegalidade do ato ou contrato, a Controladoria Geral de imediato dará ciência ao Chefe do Executivo e comunicará ao responsável, a fim de que o mesmo adote as providências necessárias ao exato cumprimento da lei, fazendo indicação expressa dos dispositivos a serem observados.
+
+
+Art. 11.
+
+Se, ao exercer a fiscalização, for configurada a ocorrência de desfalque, desvio de dinheiros ou bens ou outra irregularidade de que resulte dano ao erário, a Controladoria Geral comunicará o fato ao Prefeito Municipal que ordenará, desde logo, a instauração de processo administrativo a fim de apurar os fatos e sancionar os envolvidos, sem prejuízo de outras penalidades legais.
+
+
+Art. 12.
+
+No apoio ao controle externo, a Controladoria Geral deverá exercer, dentre outras, as seguintes atividades:
+
+
+I –
+
+organizar e executar, por iniciativa própria ou por solicitação do Tribunal de Contas do Estado, a programação bimestral de auditoria contábil, financeira, orçamentária, operacional e patrimonial nas unidades administrativas sob seu controle, enviando ao mesmo os respectivos relatórios, na forma estabelecida pela legislação do TCE;
+
+
+II –
+
+realizar auditorias nas contas dos responsáveis sob seu controle, emitindo relatório, certificado de auditoria e parecer.
+
+
+Art. 13.
+
+Os responsáveis pelo controle interno ao tomarem conhecimento de qualquer irregularidade ou ilegalidade, dela darão ciência, de imediato, ao Prefeito Municipal para adoção das mediadas legais cabíveis, sob pena de responsabilidade solidária.
+
+
+Art. 14.
+
+Verificada pelo Chefe do Executivo, através de inspeção, irregularidade ou ilegalidade que não tenha sido dado ciência tempestivamente e provada a omissão, os responsáveis pelo controle interno, na qualidade de responsáveis solidários, ficarão sujeitos às sanções previstas em Lei.
+
+
+##### Seção V — Administração Regional
+
+
+Art. 15.
+
+À Administração Regional compete:
+
+
+I –
+
+acompanhar e controlar, nas áreas sob sua jurisdição, as ações dos diversos órgãos da Administração Municipal;
+
+
+II –
+
+atender à população de suas regiões no que se refere a prestação de informações, esclarecimento de dúvidas relativas aos serviços públicos municipais e recebimento de reclamações e sugestões da comunidade;
+
+
+III –
+
+coletar e encaminhar ao Prefeito Municipal sugestões, propostas e reclamações;
+
+
+IV –
+
+levantar demandas de obras e serviços por parte das comunidades e encaminhar soluções junto ao Prefeito Municipal;
+
+
+V –
+
+promover a elaboração e a execução de projetos de melhoria das condições de vida, com a participação da comunidade;
+
+
+VI –
+
+articular com os Secretários Municipais o encaminhamento de medidas e propostas de serviços a serem executados nas Administrações Regionais, junto aos órgãos municipais competentes;
+
+
+VII –
+
+organizar e dirigir os serviços de manutenção e conservação das vias públicas das áreas sob sua jurisdição;
+
+
+VIII –
+
+atender à demanda da comunidade, encaminhando máquinas e equipamentos para o preparo da terra e das vias públicas e demais serviços correlatos;
+
+
+IX –
+
+elaborar o plano anual de melhoria das vias públicas;
+
+
+X –
+
+promover o cadastramento atualizado das rodovias e o diagnóstico permanente do seu estado de conservação;
+
+
+XI –
+
+executar outras atribuições afins.
+
+
+Parágrafo único
+
+São quatro as Administrações Regionais:
+
+
+I –
+
+Administração Regional de Serra Bonita, compreendendo o Distrito de Serra Bonita, Coopago e Ceval;
+
+
+II –
+
+Administração Regional do Passa Três, compreendendo o Distrito de São Pedro do Passa Três, Vila Maravilha, Riacho Morto e assentamentos;
+
+
+III –
+
+Administração Regional do São Vicente, compreendendo a Vila São Vicente, Vila Palmeira, Vila Cordeiro, Vila Rosa e assentamentos;
+
+
+IV –
+
+Administração Regional de Vila Serrana e Barriguda, compreendendo a Vila Serrana, Região da Barriguda I, II e os assentamentos.
+
+
+##### Seção VI — Conselhos Municipais
+
+
+Art. 16.
+
+As competências dos Conselhos Municipais de que trata esta lei complementar serão exercidas nos termos e condições estabelecidos na respectiva legislação de sua criação, estruturação e alteração, observadas as disposições contidas na Lei Orgânica do Município, na Constituição do Estado de Minas Gerais e na Constituição da República.
+
+
+#### CAPÍTULO III — Dos Órgãos de Atividade Meio
+
+
+##### Seção I — Secretaria Municipal de Administração e Planejamento
+
+
+Art. 17.
+
+A Secretaria Municipal de Administração e Planejamento é composta dos seguintes órgãos:
+
+
+I –
+
+Departamento de Recursos Humanos;
+
+
+II –
+
+Departamento de Almoxarifado e Patrimônio;
+
+
+III –
+
+Departamento de Serviços Gerais:
+
+
+a)
+
+Setor de Arquivo;
+
+
+b)
+
+Setor de Copa e Zeladoria;
+
+
+IV –
+
+Departamento de Compras e Licitações:
+
+
+a)
+
+Setor de Compras;
+
+
+b)
+
+Setor de Licitações.
+
+
+V –
+
+Departamento de Projetos;
+
+
+VI –
+
+Departamento de Informática:
+
+
+a)
+
+Setor de Multimídia;
+
+
+b)
+
+Setor de Suporte Técnico.
+
+
+VII –
+
+Departamento de Patrimônio:
+
+Inclusão feita pelo Art. 12. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+Art. 18.
+
+À Secretaria Municipal de Administração e Planejamento compete:
+
+
+I –
+
+Promover a lavratura dos atos referentes a pessoal, e, ainda dos termos de posse;
+
+
+II –
+
+Planejar e supervisionar programas e atividades de capacitação e desenvolvimento de recursos humanos, bem como relativas a recrutamento e seleção de pessoal necessário a administração municipal;
+
+
+III –
+
+Opinar, nos termos da lei em vigor nas licenças aos servidores da Prefeitura, ouvidos, quando for o caso, os órgãos onde os mesmos estejam lotados;
+
+
+IV –
+
+Dar posse aos servidores nomeados e designados para os cargos públicos municipais;
+
+
+V –
+
+Redigir correspondências que lhe for cometida pelo Prefeito, assinando a que estiver definida como de sua competência;
+
+
+VI –
+
+Providenciar junto à imprensa retificações de textos dos atos publicados e rever os atos antes de enviá-los para publicação;
+
+
+VII –
+
+Elaborar normas e adotar procedimentos próprios destinados a direcionar o processo de aquisição de materiais e de contratação das obras e serviços, executando em articulação com a Assessoria Jurídica e por intermédio da Comissão Permanente de Licitação.
+
+
+VIII –
+
+Coordenar a elaboração de planos de Governo, compatibilizando a programação às prioridades e diretrizes para o desenvolvimento econômico do Município;
+
+
+IX –
+
+Coordenar a implantação e a atualização do Plano de Desenvolvimento Urbano da Prefeitura;
+
+
+X –
+
+Coordenar a realização de estudos de natureza social, econômica e urbanística necessários à definição da política de planejamento urbano e ambiental do Município;
+
+
+XI –
+
+Acompanhar, avaliar e atualizar o Plano Diretor do Município;
+
+
+XII –
+
+Estudar e propor a modernização de estruturas administrativas e procedimentos da Administração Municipal, objetivando seu contínuo aperfeiçoamento e maior eficiência na execução de seus programas;
+
+
+XIII –
+
+Prestar assessoramento técnico ao Prefeito em assuntos de desenvolvimento econômico e social do Município e em todas as questões relacionadas a planejamento;
+
+
+XIV –
+
+Elaborar estudos sobre o desempenho da Administração Pública para subsidiar decisões do Chefe do Executivo;
+
+
+XV –
+
+Realizar reuniões de planejamento nos vários níveis, com vistas ao estabelecimento do plano operacional da Prefeitura;
+
+
+XVI –
+
+Coordenar negociação de convênios e projetos especiais, acompanhando junto às secretarias interessadas, todas as suas etapas de desenvolvimento;
+
+
+XVII –
+
+Propor, elaborar e executar o planejamento participativo com as demais secretarias, entidades civis organizadas e a comunidade, para que o orçamento seja elaborado em consonância com todos os órgãos da administração e as entidades civis;
+
+
+XVIII –
+
+Elaborar, executar, e manter atualizados os seguintes instrumentos de planejamento: Plano Diretor, Plano de Governo, e Lei de Diretrizes Orçamentárias;
+
+
+XIX –
+
+Acompanhar e defender os projetos de interesse do município junto aos governos federal e estadual, fazendo acompanhamento de tramitação;
+
+
+XX –
+
+Propor, implantar e implementar o programa de gestão pela qualidade no âmbito das secretarias;
+
+
+###### Subseção I — Departamento de Recursos Humanos
+
+
+Art. 19.
+
+Ao Departamento de Recursos Humanos compete:
+
+
+I –
+
+Promover o registro, o controle funcional, bem como as demais atividades referentes aos servidores municipais, recrutamento e seleção, lotação, movimentação, aposentadoria;
+
+
+II –
+
+Examinar e opinar sobre questões relativas a direitos, vantagens, deveres e responsabilidades dos servidores;
+
+
+III –
+
+Conceder férias ao pessoal, conforme escala de férias aprovada pelos Secretários;
+
+
+IV –
+
+Propor a criação, extinção ou transformação de cargos e função;
+
+
+V –
+
+Manter atualizada a lotação dos servidores das unidades administrativas da Prefeitura;
+
+
+VI –
+
+Providenciar o desconto em folha de pagamento, dos impostos, taxas e contribuições, quando prevista em lei, e desde que devidamente autorizada pela autoridade competente.
+
+
+VII –
+
+Organizar e manter atualizada a ficha funcional de cada servidor;
+
+
+VIII –
+
+Controlar a frequência dos servidores para efeito de pagamento;
+
+
+IX –
+
+Fazer a identificação e a matrícula dos servidores, expedindo-lhes as carteiras funcionais.
+
+
+X –
+
+Registrar todas as denúncias cometidas a qualquer servidor;
+
+
+XI –
+
+Participar na instauração de processo disciplinar;
+
+
+XII –
+
+Encaminhar à Assessoria Jurídica qualquer informação contida no registro funcional do servidor;
+
+
+XIII –
+
+Orientar e auxiliar no processo administrativo de progressão funcional do servidor;
+
+
+XIV –
+
+Fazer levantamento das vantagens e direito dos servidores quando solicitados;
+
+
+XV –
+
+Fazer devidamente as anotações na ficha funcional de direitos incorporados aos servidores;
+
+
+XVI –
+
+Elaborar mensalmente a folha de pagamento dos servidores e agentes políticos;
+
+
+XVII –
+
+Elaborar a GFIP mensalmente;
+
+
+XVIII –
+
+Elaborar a RAIS;
+
+
+XIX –
+
+Elaborar DIRF;
+
+
+XX –
+
+Acompanhar as situações de impedimento de trabalho dos servidores por motivo der saúde, reconduzindo o servidor para outra função quando necessário;
+
+
+XXI –
+
+Promover capacitação continua em consonância com as áreas técnicas conforme a necessidade;
+
+
+XXII –
+
+Promover oficinas de humanização continuada para os servidores que lidam com o público;
+
+
+XXIII –
+
+Zelar para a qualidade do atendimento no serviço público para o bom andamento da Administração Pública;
+
+
+XXIV –
+
+Acolher, analisar e dar encaminhamento às situações pontuais referentes aos servidores da Administração Pública;
+
+
+XXV –
+
+Conduzir e acompanhar a avaliação de desempenho dos servidores públicos;
+
+
+XXVI –
+
+Acompanhar o estágio probatório dos servidores públicos;
+
+
+XXVII –
+
+Promover o processo seletivo para a contratação de pessoal para projetos e programas, bem como acompanhar os contratos de serviços dela decorrentes;
+
+
+###### Subseção II — Departamento de Almoxarifado e Patrimônio
+
+
+Art. 20.
+
+Ao Departamento de Almoxarifado compete:
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+I –
+
+Coordenar, desenvolver e executar todas as atividades relacionadas com o almoxarifado central;
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+II –
+
+Responsabilizar-se pela distribuição dos itens do almoxarifado a todas as secretarias;
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+III –
+
+Administrar o almoxarifado, mantendo sob controle a atualização dos estoques o movimento de entrada e saída de material e o seu custo global e unitário;
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+IV –
+
+Fornecer às repartições municipais, regularmente, materiais requisitados;
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+V –
+
+Controlar o consumo de material, por espécie e por repartição, tendo ainda em vista as cotas preestabelecidas;
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+VI –
+
+Proceder à manutenção do estoque e guarda, em perfeita ordem de armazenamento, conservação, classificação e registro de material;
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+VII –
+
+Verificar o estado de conservação dos materiais recebidos dos fornecedores, bem como data de validade, marca e quantidades adquiridas de acordo com a autorização de fornecimento.
+
+Alteração feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+VIII –
+
+Orientar a guarda de materiais e equipamentos;
+
+
+IX –
+
+Responsabilizar-se pela distribuição dos itens do almoxarifado a todas as secretarias;
+
+
+X –
+
+Administrar o almoxarifado, mantendo sob controle a atualização dos estoques o movimento de entrada e saída de material e o seu custo global e unitário;
+
+
+XI –
+
+Fornecer às repartições municipais, regularmente, materiais requisitados;
+
+
+XII –
+
+Controlar o consumo de material, por espécie e por repartição, tendo ainda em vista as cotas preestabelecidas;
+
+
+XIII –
+
+Proceder à manutenção do estoque e guarda, em perfeita ordem de armazenamento, conservação, classificação e registro de material;
+
+
+XIV –
+
+Coordenar, desenvolver e executar todas as atividades relacionadas com o patrimônio;
+
+
+XV –
+
+Fazer o tombamento de todos os bens patrimoniais, inclusive os imobiliários, mantendo-os devidamente cadastrados;
+
+
+XVI –
+
+Emitir termo de responsabilidade sobre os bens por lotação;
+
+
+XVII –
+
+Fazer trimestralmente a avaliação geral dos bens do patrimônio da Prefeitura;
+
+
+XVIII –
+
+Fazer a carga, aos órgãos da Prefeitura, do material permanente a eles distribuídos e as transferências de materiais de um órgão para outro, bem como a conferência de carga;
+
+
+Art. 20-A.
+
+Compete ao Departamento de Patrimônio:
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+I –
+
+Fazer o tombamento de todos os bens patrimoniais, inclusive os imobiliários, mantendo-os devidamente cadastrados;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+II –
+
+Promover a caracterização e a identificação dos bens municipais;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+III –
+
+Coordenar com o Departamento de Contabilidade para efeito de registro patrimonial do material permanente;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+IV –
+
+Determinar as providências para a apuração dos desvios de material permanente;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+V –
+
+Arquivar escrituras, contratos, notas de vendas e outros documentos referentes aos patrimônios da Prefeitura;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+VI –
+
+Fornecer à Assessoria Jurídica do Município elementos para promoção de medidas jurídicas, nos casos de inadimplência em contratos relacionados com o patrimônio municipal;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+VII –
+
+Orientar a guarda de materiais e equipamentos;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+VIII –
+
+Coordenar, desenvolver e executar todas as atividades relacionadas com o patrimônio;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+IX –
+
+Fazer o tombamento de todos os bens patrimoniais, inclusive os imobiliários, mantendo-os devidamente cadastrados;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+X –
+
+Emitir termo de responsabilidade sobre os bens por lotação;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+XI –
+
+Fazer bimestralmente a avaliação geral dos bens do patrimônio da Prefeitura;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+XII –
+
+Fazer a carga, aos órgãos da Prefeitura, do material permanente a eles distribuídos e as transferências de materiais de um órgão para outro, bem como a conferência de carga;
+
+Inclusão feita pelo Art. 13. - Lei Complementar nº 80, de 31 de dezembro de 2010.
+
+
+###### Subseção III — Departamento de Serviços Gerais
+
+
+Art. 21.
+
+Ao Departamento de Serviços Gerais compete:
+
+
+I –
+
+Coordenar as ações de portaria e zeladoria dos prédios municipais;
+
+
+II –
+
+Coordenar os serviços de protocolo e arquivo;
+
+
+III –
+
+Coordenar os serviços de copa;
+
+
+###### Subseção IV — Setor de Arquivo
+
+
+Art. 22.
+
+Ao Setor de Arquivo compete:
+
+
+I –
+
+Receber, numerar e distribuir os papéis encaminhados ou entregues à Prefeitura, sob a forma inclusive de requerimentos, ofícios e correspondências em geral e controlar a movimentação nos órgãos da Prefeitura;
+
+
+II –
+
+Fazer o exame formal dos papéis recebidos e recusar os que não tenham atendido aos requisitos estabelecidos pela Administração;
+
+
+III –
+
+Controlar a transmissão dos papéis e registrar o despacho final e a data do respectivo arquivamento se for o caso, prestando aos interessados as informações solicitadas;
+
+
+IV –
+
+Organizar e manter atualizado o fichário numérico de todos os processos em andamento na Prefeitura;
+
+
+V –
+
+Fazer as juntadas solicitadas nos processos;
+
+
+VI –
+
+Organizar e manter atualizado o arquivo geral, recebendo, classificando, guardando e conservando os processos, livros, papéis e outros documentos de interesse da Administração;
+
+
+###### Subseção V — Setor de Copa e Zeladoria
+
+
+Art. 23.
+
+Ao Setor de Copa e Zeladoria compete:
+
+
+I –
+
+Executar os serviços de limpeza interna e externa de todas as Secretarias municipais;
+
+
+II –
+
+Executar os serviços de distribuição de café, água e lanches para todas as Secretarias municipais;
+
+
+III –
+
+Executar os serviços de vigilância interna e externa dos prédios públicos;
+
+
+IV –
+
+Comunicar qualquer fato estranho ocorrido durante seu turno às autoridades policiais para apuração do fato;
+
+
+###### Subseção VI — Departamento de Compras e Licitações
+
+
+Art. 24.
+
+Ao Departamento de Compras e Licitações compete:
+
+
+I –
+
+Realizar todas as compras da Prefeitura Municipal;
+
+
+II –
+
+Emitir ordens de compras de materiais e serviços;
+
+
+III –
+
+Realizar licitações em todas as modalidades;
+
+
+IV –
+
+Encaminhar ao Departamento de Contabilidade cópia da ordem de compra ou serviço para empenhamento da despesa.
+
+
+###### Subseção VII — Setor de Compras
+
+
+Art. 25.
+
+Compete ao Setor de Compras:
+
+
+I –
+
+Promover a compra de material necessário às unidades da Prefeitura, em estrita observância com as normas pertinentes;
+
+
+II –
+
+Organizar e manter atualizado o cadastro de fornecedores;
+
+
+III –
+
+Promover a padronização e especificação dos materiais, a fim de facilitar o seu controle;
+
+
+IV –
+
+Distribuir os materiais comprados para o almoxarifado.
+
+
+V –
+
+Organizar e manter atualizado o cadastro de preços correntes dos materiais;
+
+
+VI –
+
+Estabelecer os estoques máximo e mínimo dos materiais utilizados na Prefeitura, para controle do Departamento de Almoxarifado;
+
+
+VII –
+
+Organizar o calendário de compra com base em levantamento, tendo em vista a previsão de necessidade dos diversos órgãos Municipais.
+
+
+###### Subseção VIII — Setor de Licitações
+
+
+Art. 26.
+
+À Setor de Licitações compete:
+
+
+I –
+
+Planejar, organizar, controlar e executar as licitações, a adoção de medidas indispensáveis à realização dos processos licitatórios destinados à contratação de obras, serviços, publicidade, compra, alienação e locações em conformidade com o que estabelecem a legislação e demais normas vigentes;
+
+
+II –
+
+Analisar os recursos apresentados por licitantes que discordem de decisões adotadas, e emitir parecer quanto a essas análises, lavrando-se atas de tais fatos;
+
+
+III –
+
+Analisar propostas, julgá-las e elaborar atas de julgamento das licitações realizadas, submetendo-as à apreciação da Assessoria Jurídica;
+
+
+IV –
+
+Preparar editais de licitações e submetê-los a Assessoria Jurídica;
+
+
+V –
+
+Fazer publicar todos os atos de publicidade de licitações e contratos.
+
+
+###### Subseção IX — Departamento de Projetos
+
+
+Art. 27.
+
+Ao Departamento de Projetos compete:
+
+
+I –
+
+Auxiliar todas as Secretarias Municipais na elaboração de projetos visando à obtenção de recursos junto aos governos Estadual e Federal;
+
+
+II –
+
+Articular-se com o setor de Projetos de Obras Públicas para elaboração de projetos executivos para obtenção de recursos;
+
+
+III –
+
+Acompanhar toda a tramitação dos projetos elaborados junto aos órgãos Estaduais e Federais;
+
+
+IV –
+
+Sanar os problemas oriundos dos projetos apresentados em todas as suas fases;
+
+
+V –
+
+Articular-se com o Departamento de Compras e Licitações para elaboração dos procedimentos licitatórios;
+
+
+VI –
+
+Articular-se com a Secretaria Municipal de Transporte e Obras Públicas no acompanhamento e fiscalização dos convênios;
+
+
+VII –
+
+Acompanhar a execução dos projetos, observando prazos, metas, cronogramas, prestação de contas e outros atos necessários a aprovação das contas dos convênios;
+
+
+VIII –
+
+Realizar outras atividades correlatas determinadas pelo Prefeito Municipal.
+
+
+###### Subseção X — Departamento de Informática
+
+
+Art. 28.
+
+Ao Departamento de Informática Compete:
+
+
+I –
+
+Gerenciar e executar os serviços de processamento de dados;
+
+
+II –
+
+Cuidar da manutenção de máquinas e equipamentos de informática;
+
+
+III –
+
+Desenvolver software de interesse da Administração Municipal e zelar pela manutenção de redes corporativas e outras, tais como intranet e internet, no âmbito da Prefeitura Municipal
+
+
+IV –
+
+Padronizar a aquisição de equipamentos de informática;
+
+
+V –
+
+Manter atualizada a homepage da Prefeitura em articulação com a Assessoria de Imprensa e Relações Institucionais;
+
+
+VI –
+
+Elaborar e executar projetos de informatização introduzindo tecnologia avançada, promovendo a racionalização de métodos e procedimentos;
+
+
+VII –
+
+Orientar os órgãos das Secretarias, na utilização do processamento eletrônico de dados para agilização de atividades;
+
+
+VIII –
+
+Coordenar os serviços de telefonia, reprografia e informática.
+
+
+IX –
+
+Exercer outras atividades correlatas;
+
+
+###### Subseção XI — Setor de Multimídia
+
+
+Art. 29.
+
+Compete ao Setor de Multimídia:
+
+
+I –
+
+registrar, catalogar e preparar material de multimídia para divulgação;
+
+
+II –
+
+promover e controlar o uso de projetos e equipamentos de multimídia;
+
+
+III –
+
+zelar pelo acervo de multimídia, procedendo à manutenção necessária;
+
+
+IV –
+
+organizar, planejar, distribuir tarefas e treinar funcionários;
+
+
+V –
+
+supervisionar o setor;
+
+
+VI –
+
+articular-se com a Assessoria de Imprensa e Relações Institucionais para a execução de filmagens, fotos e outras formas de divulgação para promoção do Município.
+
+
+###### Subseção XII — Setor de Suporte Técnico
+
+
+Art. 30.
+
+Compete ao Setor de Suporte Técnico:
+
+
+I –
+
+Dar todo suporte aos órgãos da Prefeitura na manutenção de computadores e periféricos, equipamentos de som e vídeo;
+
+
+II –
+
+Orientar na execução de programas criados pelo Departamento de Informática ou dos programas alocados pela Prefeitura;
+
+
+III –
+
+Instalar programas autorizados nos computadores de todos os órgãos municipais;
+
+
+IV –
+
+Executar outras tarefas correlatas.
+
+
+##### Seção II — Secretaria Municipal da Fazenda
+
+
+Art. 31.
+
+À Secretaria Municipal de Fazenda compete:
+
+
+I –
+
+Planejar, coordenar e controlar a administração contábil, financeira, tributária e fiscal do Município;
+
+
+II –
+
+Manter adequado sistema de controle contábil apto a fornecer informações sobre a administração financeira e orçamentária da prefeitura;
+
+
+III –
+
+Acompanhar as normas de aplicação do fundo de contas;
+
+
+IV –
+
+Encaminhar a Controladoria Geral, na forma de suas resoluções, toda a documentação relativa à administração financeira e contábil;
+
+
+V –
+
+Controlar o sistema de guarda e movimentação de valores;
+
+
+VI –
+
+Exercer, em articulação com a Controladoria Geral a programação financeira e de desembolso, bem como o controle dos gastos públicos;
+
+
+VII –
+
+Administrar o sistema tributário municipal, estabelecendo normas de arrecadação e fiscalização das receitas próprias municipais;
+
+
+VIII –
+
+Manter articulação com órgãos fazendários, Estaduais, Federais e entidades de direito público e privado, com melhoria do desempenho econômico e fiscal;
+
+
+IX –
+
+Julgar processos administrativos referentes a autos de infração em grau de primeira instância;
+
+
+X –
+
+Elaborar a programação do fluxo financeiro da prefeitura, administrando-o através do controle de desembolso programado dos recursos destinados aos diversos órgãos da Prefeitura;
+
+
+XI –
+
+Coordenar a elaboração das propostas de orçamento anual, Plurianual de investimentos, de abertura de créditos adicionais, Lei de Diretrizes Orçamentárias, controle e acompanhamento da execução orçamentária e proposição de normas orçamentárias que devam ser observadas pelos demais órgãos municipais.
+
+
+###### Subseção I — Departamento de Tributos e Arrecadação
+
+
+Art. 32.
+
+Ao Departamento de Tributos e Arrecadação compete:
+
+
+I –
+
+Orientar as atividades de cadastramento, objetivando a utilização dos cadastros como instrumento técnico;
+
+
+II –
+
+Organizar e manter atualizado o cadastro comercial, industrial e de serviço;
+
+
+III –
+
+Receber e conferir as declarações fiscais, determinando retificações que couberem;
+
+
+IV –
+
+Efetuar, periodicamente, a revisão dos dados constantes das fichas cadastrais dos imóveis, do comércio, da indústria e de serviço;
+
+
+V –
+
+Fazer os registros de transferência de propriedade dos imóveis;
+
+
+VI –
+
+Registrar os alvarás e habites das novas edificações, transcrevendo no cadastro fiscal os dados a ele pertinentes;
+
+
+VII –
+
+Supervisionar a arrecadação dos tributos de competência do Município;
+
+
+VIII –
+
+Fazer análise, diariamente, da receita em face dos documentos fornecidos pelo Departamento Financeiro;
+
+
+IX –
+
+Dar andamento nos processos e recursos de reclamações contra lançamento e cobrança de tributos municipais e a aplicação de penalidades;
+
+
+X –
+
+Conceder licenciamento, de acordo com a legislação em vigor, emitir parecer em processos diversos, dentro da área de arrecadação e realizar quaisquer diligências que se façam necessárias;
+
+
+XI –
+
+Promover a apuração de denúncias ou representações contra os fiscais de tributos, junto ao contribuinte ou Município em geral, comunicando o fato;
+
+
+XII –
+
+Fazer levantamentos de cálculos relativos aos processos que envolvam débitos;
+
+
+XIII –
+
+Efetuar a baixa de débitos liquidados ou cancelados;
+
+
+XIV –
+
+Controlar o registro do cadastro de propriedades;
+
+
+XV –
+
+Efetuar averbações nas fichas cadastrais dos imóveis.
+
+
+XVI –
+
+Emitir guias para recolhimentos de tributos;
+
+
+XVII –
+
+Controlar e conferir com o Departamento Financeiro o recebimento diário das receitas.
+
+
+XVIII –
+
+Opinar nos pedidos de isenção de tributos;
+
+
+XIX –
+
+Promover o fornecimento de certidão negativa de tributos municipais e quaisquer outras relativas às demais rendas;
+
+
+XX –
+
+Emitir termo de início de ação fiscal contra contribuintes em débito com o erário;
+
+
+XXI –
+
+Emitir Auto de Infração;
+
+
+XXII –
+
+Fiscalizar o Comércio, Prestadores de Serviços, Indústria e Ambulantes;
+
+
+XXIII –
+
+Promover a divulgação nas épocas de cobrança dos tributos municipais;
+
+
+XXIV –
+
+Instruir os contribuintes sobre o cumprimento da Legislação Fiscal;
+
+
+XXV –
+
+Controlar a execução da cobrança de tributos, por rede bancária, quando determinado, tomando-se as medidas necessárias;
+
+
+XXVI –
+
+Instruir os processos e recursos de reclamação contra o lançamento e cobrança de tributos municipais e aplicação de penalidade;
+
+
+XXVII –
+
+Propor ao Secretário Municipal da Fazenda o calendário fiscal do Município;
+
+
+XXVIII –
+
+Coibir, através de fiscalização, a sonegação, evasão e fraude no pagamento dos tributos;
+
+
+XXIX –
+
+Realizar as diligências externas que se fizerem necessárias aos lançamentos tributários;
+
+
+XXX –
+
+Fiscalizar o horário de funcionamento dos estabelecimentos comerciais e as escalas de plantão das farmácias e drogarias;
+
+
+XXXI –
+
+Fiscalizar a preservação de passeio ocupado por mesas e cadeiras de estabelecimentos comerciais ou fronteiriços a bares e lanchonetes;
+
+
+XXXII –
+
+Fazer vistorias e inspeções, lavrar autos de infração às disposições legais e aplicação das sanções de advertência, multa, apreensão imediata de mercadorias, interdição de estabelecimento ou serviços; ou cassação da respectiva licença de localização;
+
+
+XXXIII –
+
+Fiscalizar o licenciamento e o funcionamento de casas de diversões, de estabelecimentos hoteleiros e praças desportivas de lazer e as atividades comerciais exercidas em seu interior;
+
+
+XXXIV –
+
+Providenciar imediatamente no encerramento do exercício financeiro, a inscrição de todos os débitos fiscais por contribuinte, provenientes de Impostos, Taxas, Contribuição de Melhoria, na dívida ativa;
+
+
+XXXV –
+
+Promover a inscrição dos inadimplentes em Dívida Ativa e providenciar respectiva cobrança, em articulação com a Assessoria Jurídica;
+
+
+XXXVI –
+
+Relacionar os nomes dos devedores, endereço, origem da dívida e o seu valor para que seja publicada no Órgão Oficial, 30 (trinta) dias subseqüentes a inscrição do Débito Fiscal na Dívida Ativa;
+
+
+XXXVII –
+
+Fornecer sempre que necessário a certidão de Dívida Ativa, contendo todos os dados necessários, inclusive a indicação do livro e da folha de inscrição;
+
+
+XXXVIII –
+
+Manter atualizado o cadastro de Dívida Ativa;
+
+
+XXXIX –
+
+O termo de inscrição da Dívida Ativa deverá conter:
+
+
+a)
+
+O nome do devedor, dos corresponsáveis e, sempre que conhecido, o domicílio e residência de um e de outros;
+
+
+b)
+
+O valor originário da dívida, bem como o termo inicial e a forma de calcular os juros de mora e demais encargos previstos em Lei ou Contratos;
+
+
+c)
+
+A origem, a natureza e o fundamento legal ou contratual da dívida;
+
+
+d)
+
+A indicação se for o caso, de estar a dívida sujeita à atualização monetária, bem como o respectivo fundamento legal e o termo inicial para o cálculo;
+
+
+e)
+
+A data e o número de inscrição, no Registro da Dívida Ativa;
+
+
+f)
+
+O número do processo administrativo ou do Auto de Infração, se neles estiver apurado o valor da dívida.
+
+
+###### Subseção II — Departamento de Contabilidade
+
+
+Art. 33.
+
+Ao Departamento de Contabilidade compete:
+
+
+I –
+
+Promover a escrituração sintética e analítica das operações financeiras, orçamentárias e patrimoniais, em consonância com o plano de contas e instruções de serviços;
+
+
+II –
+
+Organizar anualmente os Balanços da Prefeitura, a prestação de contas do Executivo, os relatórios de análise e interpretação dos resultados contábeis;
+
+
+III –
+
+Promover o levantamento mensal de balancetes dos sistemas de escrituração;
+
+
+IV –
+
+Emitir mapas, resumos, quadros demonstrativos e documentos contábeis similares;
+
+
+V –
+
+Proceder ao registro contábil da receita e da despesa;
+
+
+VI –
+
+Levantar dados para análise financeira da execução orçamentária;
+
+
+VII –
+
+Emitir demonstrativos mensais da receita arrecadada e transferida;
+
+
+VIII –
+
+Registrar os contratos e convênios que impliquem em despesas ou receitas para a Prefeitura;
+
+
+IX –
+
+Encaminhar, conferir e instruir os processos de pagamento, impugnando os irregulares;
+
+
+X –
+
+Controlar prazos e comprovantes da aplicação de adiantamentos, propondo medidas cabíveis quando ocorrer irregularidades;
+
+
+XI –
+
+Fazer a comunicação imediata ao Secretário Municipal da Fazenda sobre diferenças nas prestações de contas não imediatamente cobertas, sob pena de responsabilidade solidária;
+
+
+XII –
+
+Classificar, conferir, registrar e arquivar os comprovantes de lançamento;
+
+
+XIII –
+
+Manter atualizado o lançamento e o arquivamento da documentação contábil;
+
+
+XIV –
+
+Manter registro contábil de todos os bens móveis e imóveis da Prefeitura;
+
+
+XV –
+
+Contabilizar e analisar as alterações patrimoniais;
+
+
+XVI –
+
+Tomar as medidas contábeis referentes à alienação, arrendamento ou aforamento de bens patrimoniais;
+
+
+XVII –
+
+Fornecer aos órgãos interessados dados necessários à elaboração da proposta orçamentária;
+
+
+XVIII –
+
+Prestar toda a informação contábil e orçamentária, por determinação do Secretário Municipal da Fazenda;
+
+
+XIX –
+
+Levantar, para que sejam encaminhadas à Câmara Municipal, dentro do prazo previsto na Lei Orgânica do Município, as contas do Prefeito relativas ao exercício anterior, constituídas de Balanço Patrimonial, da demonstração das Variações Patrimoniais e de seus desdobramentos, na forma das normas gerais de Direito Financeiro, instituídas pela União;
+
+
+XX –
+
+Manter sob controle os depósitos e retiradas bancárias conferindo periodicamente os extratos de contas correntes, conciliando-os, propondo as providências que se fizerem necessárias para o eventual acerto;
+
+
+XXI –
+
+Verificar se todo ato da gestão econômica, financeira e patrimonial é realizado com base em documento hábil, que comprove a operação e o registro em conta adequada.
+
+
+XXII –
+
+Coordenar a elaboração das propostas de orçamento anual, plurianual de investimentos e de abertura de créditos adicionais, o controle e acompanhamento da execução orçamentária, cabendo-lhe, ainda, a proposição de normas orçamentárias que devam ser observadas pelos demais órgãos municipais;
+
+
+XXIII –
+
+Estabelecer, em articulação com a Secretaria Municipal da Fazenda a programação financeira de desembolso, com vistas a adequar os programas e projetos às disponibilidades da prefeitura;
+
+
+XXIV –
+
+Acompanhar em conjunto com as Secretarias a proposta de Planejamento anual para envio à Câmara Municipal;
+
+
+XXV –
+
+Acompanhar e avaliar a execução do plano operacional, propondo momentos de reajuste em função das necessidades existentes;
+
+
+XXVI –
+
+Observar as datas limites para serem encaminhadas à Câmara a Lei de Diretrizes Orçamentárias, Orçamento Anual e o Plano Plurianual.
+
+
+###### Subseção III — Setor de Acompanhamento e Prestação De contas de Convênios
+
+
+Art. 34.
+
+Ao Setor de acompanhamento e prestação de contas de convênios compete:
+
+
+I –
+
+Articular-se com as Secretarias Municipais, para o repasse de informações e forma de execução dos convênios;
+
+
+II –
+
+Efetuar a prestação de contas nos prazos estipulados nos termos de convênio;
+
+
+III –
+
+Acompanhar e avaliar a execução dos convênios, informando os prazos de relatórios parcial e final;
+
+
+IV –
+
+Orientar a Setor de Licitações na formulação dos processos licitatórios.
+
+
+V –
+
+Verificar prazo de validade das certidões em que o Município deva apresentar aos diversos órgãos, bem como a emissão de declarações para a celebração de convênios;
+
+
+VI –
+
+Executar outras atividades correlatas.
+
+
+###### Subseção IV — Departamento Financeiro
+
+
+Art. 35.
+
+Ao Departamento Financeiro compete:
+
+
+I –
+
+Administrar as disponibilidades financeiras, controlando os valores dos fundos especiais;
+
+
+II –
+
+Escriturar a movimentação de entrada e saída de valores;
+
+
+III –
+
+Efetuar mediante prévia autorização, o pagamento dos débitos da Prefeitura;
+
+
+IV –
+
+Preencher os cheques para pagamento, encaminhando-os para a aposição das assinaturas devidas;
+
+
+V –
+
+Efetuar pagamentos de despesas, de acordo com as disponibilidades de numerários, observados ainda os fluxos e instruções recebidas do Secretário Municipal da Fazenda;
+
+
+VI –
+
+Propor esquemas de pagamento dos compromissos, e apresentar, diariamente, ao Departamento de Contabilidade, os registros de caixa com os respectivos comprovantes;
+
+
+VII –
+
+Guardar e conservar os valores da Prefeitura ou a mesma caucionados por terceiros, devolvendo-os quando devidamente autorizada;
+
+
+VIII –
+
+Requisitar talões de cheques junto aos bancos;
+
+
+IX –
+
+Levantar e publicar, diariamente, o movimento de caixa do dia anterior;
+
+
+X –
+
+Manter sob registro os títulos e valores sob sua guarda e as procurações aceitas;
+
+
+XI –
+
+Fazer o recolhimento das contribuições devidas inclusive as de caráter previdenciário;
+
+
+XII –
+
+Manter em dia a escrituração do movimento de arrecadação e pagamento;
+
+
+#### CAPÍTULO IV — Dos Órgãos de Atividades Fim
+
+
+##### Seção I — Secretaria Municipal de Agricultura e Meio Ambiente
+
+
+Art. 36.
+
+À Secretaria Municipal de Agricultura e Meio Ambiente compete:
+
+
+I –
+
+Planejar e implantar a política de desenvolvimento agrícola compatível com a política agrária e com preservação do meio ambiente e conservação do solo;
+
+
+II –
+
+Estimular os sistemas de produção integrada de piscicultura, pecuária, procurando garantir o escoamento da produção;
+
+
+III –
+
+Propor política de incentivo à pesca e ao pequeno produtor rural;
+
+
+IV –
+
+Desenvolver ações que estimulem o associativismo, o cooperativismo e a organização de micro empresas;
+
+
+V –
+
+Emitir pareceres nos processos administrativos de sua competência.
+
+
+VI –
+
+Executar a programação municipal voltada para a preservação do meio ambiente em integração com os demais setores governamentais;
+
+
+VII –
+
+Fiscalizar as áreas verdes do Município, ficando responsável pela sua manutenção e conservação;
+
+
+VIII –
+
+Propor a criação de conselhos para definir o Patrimônio ambiental do Município;
+
+
+IX –
+
+Possibilitar a participação do conselho em operações de fiscalização ambiental e nas reuniões destinadas à elaboração dos orçamentos programas das Secretarias;
+
+
+X –
+
+Propor a elaboração de Lei no sentido de obrigar a fiscalização nas redes de manilhas de rua, a fim de evitar que as águas reservadas das residências sejam jogadas nas redes pluviais;
+
+
+XI –
+
+Promover Fórum Municipal de Meio Ambiente;
+
+
+XII –
+
+Criar condições para parceria entre a sociedade civil e o Poder Público Municipal, a fim de levar Educação Ambiental para todas as comunidades;
+
+
+XIII –
+
+Promover encontro de professores para implantar o questionamento sobre Educação Ambiental na Literatura Infanto-Juvenil;
+
+
+XIV –
+
+Garantir à aplicação da Lei de Crime Ambiental no artigo que diz respeito ao uso de Agrotóxicos e materiais pesados.
+
+
+###### Subseção I — Departamento do Meio Ambiente
+
+
+Art. 37.
+
+Ao Departamento de Meio Ambiente compete:
+
+
+I –
+
+Desenvolver atividades de preservação do solo, da fauna, flora e demais recursos renováveis;
+
+
+II –
+
+Acompanhar e fiscalizar concessões de direitos de pesquisa e exploração de recursos hídricos e minerais;
+
+
+III –
+
+Articular-se com os órgãos municipais, estaduais e federais do sistema nacional do meio ambiente para combater a poluição em qualquer de suas formas;
+
+
+IV –
+
+Controlar a produção, a comercialização e o emprego de técnicas, métodos e substâncias que comportem risco para a vida, a qualidade de vida e o meio ambiente;
+
+
+V –
+
+Promover em conjunto com a Assessoria Jurídica do Município medidas judiciais e administrativas de responsabilidade dos causadores de poluição ou de degradação ambiental;
+
+
+VI –
+
+Estimular e promover o reflorestamento ecológico em áreas degradadas, objetivando especialmente a proteção de encostas e dos recursos hídricos, bem como a consecução de um índice mínimo de cobertura vegetal;
+
+
+VII –
+
+Reprimir a pesca ilegal nos rios da região;
+
+
+VIII –
+
+Reprimir o comércio ilegal de animais silvestres e da flora.
+
+
+IX –
+
+Criar critérios e punição para desmatamento em função de loteamento e até mesmo para corte de árvores das estradas, logradouros e residências;
+
+
+X –
+
+Identificar e fiscalizar as áreas de proteção e preservação ambiental;
+
+
+XI –
+
+Promover treinamento nas escolas e comunidades, quanto à limpeza das cisternas, cloração e filtração da água, a fim de garantir a qualidade da água;
+
+
+XII –
+
+Viabilizar o licenciamento e construção do aterro sanitário Municipal;
+
+
+XIII –
+
+Elaborar plano de limpeza, coleta, reciclagem e tratamento final de lixo;
+
+
+XIV –
+
+Estimular a implantação do regime de Coleta Seletiva para reciclagem do lixo doméstico e comercial.
+
+
+###### Subseção II — Departamento de Agricultura Familiar
+
+
+Art. 38.
+
+Compete ao Departamento de Apoio ao Pequeno Produtor:
+
+
+I –
+
+Viabilizar o atendimento ao pequeno produtor rural na execução de curvas de nível;
+
+
+II –
+
+Criar programas de trocas de sementes;
+
+
+III –
+
+Viabilizar programas de compra direta para compor o cardápio da alimentação escolar;
+
+
+IV –
+
+Articular-se com a secretaria municipal competente para a manutenção das estradas vicinais para escoamento da produção viária;
+
+
+V –
+
+Proporcionar assistência aos pequenos e médios agricultores do município, mantendo serviço de patrulha agrícola mecanizada;
+
+
+VI –
+
+Disciplinar o uso de insumos e implementos agropecuários, incentivando o uso de tecnologia apropriada;
+
+
+VII –
+
+Dinamizar o setor agropecuário com programas que envolvam fornecimentos de sementes e mudas, orientação sobre técnicas de produção, facilitação de uso de maquinaria específica e outros fins;
+
+
+###### Subseção III — Serviço de Patrulha Rural
+
+
+Art. 39.
+
+Compete ao Serviço de Patrulha Rural:
+
+
+I –
+
+Executar os serviços de aração, gradagem, curva de nível e outros serviços necessários ao plantio da safra dos pequenos produtores rurais;
+
+
+II –
+
+Estabelecer um cronograma de atendimento às regiões do Município;
+
+
+III –
+
+Articular-se com a Administração Regional para estabelecer políticas de atendimento ao pequeno produtor rural;
+
+
+IV –
+
+Executar outras atividades correlatas;
+
+
+###### Subseção IV — Departamento Pecuário
+
+
+Art. 40.
+
+Ao Departamento Pecuário compete:
+
+
+I –
+
+Implementar o controle de zoonoses visando à erradicação de doenças dos animais;
+
+
+II –
+
+Desenvolver programas e projetos de fomentos e defesa da pecuária e incentivar a implementação de cooperativas e associações de trabalhos e empresários rurais;
+
+
+III –
+
+Auxiliar os pequenos produtores com programa de distribuição gratuita de vacinas;
+
+
+IV –
+
+Executar outras atividades correlatas.
+
+
+###### Subseção IV — Matadouro Municipal
+
+
+Art. 41.
+
+Compete ao Matadouro Municipal:
+
+
+I –
+
+Recepcionar os animais destinados a abate;
+
+
+II –
+
+Verificar a sanidade dos animais, recusando os que possam causar transmissão de doenças aos consumidores;
+
+
+III –
+
+emitir guias de abates;
+
+
+IV –
+
+realizar a entrega das carnes nos açougues e mercados;
+
+
+V –
+
+realizar outras atividades correlatas;
+
+
+###### Subseção V — Serviço de Inspeção Municipal
+
+
+Art. 42.
+
+O Serviço de Inspeção Municipal deverá observar a legislação específica para o seu funcionamento.
+
+
+###### Subseção VI — Departamento de Fomento à Produção
+
+
+Art. 43.
+
+Ao Departamento de Fomento à Produção compete:
+
+
+I –
+
+Proporcionar assistência aos pequenos e médios agricultores do Município;
+
+
+II –
+
+Propor ao Prefeito assinatura de convênios com entidades como a EMATER para garantir a assistência técnica aos produtores locais;
+
+
+III –
+
+Disciplinar as questões locais referentes ao abastecimento como abate de animais, o funcionamento de mercado popular ou feiras livres e outros, zelando pelo cumprimento de normas e regulamentos próprios.
+
+
+IV –
+
+Implementar programas de distribuição de calcário;
+
+
+V –
+
+Propor projetos de fomento à produção visando o desenvolvimento da produção no Município.
+
+
+##### Seção II — Secretaria Municipal de Obras e Serviços Públicos
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 94, de 10 de dezembro de 2013.
+
+
+Art. 44.
+
+À Secretaria Municipal de Obras e Serviços Públicos compete:
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 94, de 10 de dezembro de 2013.
+
+
+I –
+
+Planejar, coordenar e fiscalizar obras;
+
+
+II –
+
+Coordenar o licenciamento dos projetos de urbanização de obras e os reparos em vias urbanas executadas por entidades públicas ou particulares;
+
+
+III –
+
+Orientar o licenciamento e a fiscalizações das edificações e construções, do parcelamento, zoneamento e uso do solo;
+
+
+IV –
+
+Acompanhar e atualizar os cronogramas físicos das diversas fases de execução das obras em andamento, controlando disponibilidades financeiras em articulação com a Secretaria Municipal da Fazenda;
+
+
+V –
+
+Propor desapropriação de áreas e imóveis para a execução de projetos viários ou urbanísticos;
+
+
+VI –
+
+Elaborar as normas técnicas a que devem subordinar-se a execução ou fiscalização das obras e serviços da competência da Secretaria;
+
+
+VII –
+
+Examinar os relatórios de execução e fazer recomendações ou determinar providências cabíveis;
+
+
+VIII –
+
+Conceder licenças para demolição de prédios, pequenas reformas, construção de passeios e instalação de tapumes;
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Complementar nº 94, de 10 de dezembro de 2013.
+
+
+X –
+
+Controlar os padrões de qualidade e eficiência a serem desenvolvidos pelos Serviços públicos;
+
+
+XI –
+
+Promover estudos visando à racionalização dos Serviços Públicos prestados por terceiros, principalmente do lixo coletado;
+
+
+XII –
+
+Propor medidas para utilização racional dos Cemitérios Públicos;
+
+
+XIII –
+
+Promover a execução e o controle da coleta, do transporte e destino final do lixo.
+
+
+###### Subseção I — Departamento de Transporte
+
+
+Art. 45.
+
+Ao Departamento de Transporte Compete:
+
+
+I –
+
+Inspecionar diariamente o controle de veículos e a quilometragem percorrida, correlacionando-a com os gastos de óleo, combustível e lubrificante;
+
+
+II –
+
+Controlar a escala de veículos a serviço dos diversos órgãos da Prefeitura;
+
+
+III –
+
+Zelar pela regularidade da situação dos motoristas da Prefeitura, em face da legislação de trânsito;
+
+
+IV –
+
+Providenciar o emplacamento dos veículos pertencentes ao Município;
+
+
+V –
+
+Apurar a responsabilidade pelos acidentes com veículos da Prefeitura e adotar as providências de ressarcimento dos prejuízos sofridos pelo Município;
+
+
+VI –
+
+Inspecionar, periodicamente, os veículos da Prefeitura e providenciar os reparos que se fizerem necessários;
+
+
+VII –
+
+Cadastrar os veículos e fiscalizar se os mesmos estão devidamente documentados e ordem de segurança para funcionamento;
+
+
+VIII –
+
+Fazer levantamento de peças que destinam aos veículos da municipalidade;
+
+
+IX –
+
+Fazer levantamento dos veículos abastecidos e encaminhá-los ao secretário de Administração.
+
+
+X –
+
+Promover o controle dos diversos veículos pertencentes à Municipalidade
+
+
+###### Subseção I — Setor de Garagem e Oficina
+
+
+Art. 46.
+
+Compete ao Setor de Garagem e Oficina:
+
+
+I –
+
+Providenciar a lavação de todos os veículos e máquinas;
+
+
+II –
+
+Executar a lubrificação de todos os veículos e máquinas;
+
+
+III –
+
+Abastecer os veículos e máquinas no pátio da garagem;
+
+
+IV –
+
+Controlar, nas fichas individuais dos veículos e máquinas, abastecimento, troca de óleo, troca de filtros, troca de peças e consertos;
+
+
+V –
+
+Zelar pela guarda dos veículos e máquinas;
+
+
+VI –
+
+Dar manutenção em todos os veículos e máquinas;
+
+
+VII –
+
+Zelar e controlar o estoque de peças, óleos, lubrificantes, pneus e outros materiais destinados à manutenção dos veículos e máquinas;
+
+
+VIII –
+
+Executar outras atividades relacionadas aos veículos e máquinas.
+
+
+###### Subseção II — Setor de Estradas
+
+
+Art. 47.
+
+Compete ao Setor de Estradas:
+
+
+I –
+
+Executar a manutenção de todas as estradas municipais;
+
+
+II –
+
+Articular-se com produtores rurais para parcerias de recuperação de estradas vicinais;
+
+
+III –
+
+Articular-se com a Secretaria Municipal de Agricultura para programas de escoamento da safra;
+
+
+IV –
+
+Articular-se com o Departamento de Obras para a construção, reforma e ampliação de pontes;
+
+
+V –
+
+Articular-se com o Departamento de Obras para a construção e reforma de mata burros;
+
+
+VI –
+
+Executar outras atividades correlatas;
+
+
+###### Subseção III — Departamento de Obras
+
+
+Art. 48.
+
+Ao Departamento de Obras compete:
+
+
+I –
+
+Planejar, projetar, orçar, executar e fiscalizar as obras públicas da Prefeitura Municipal;
+
+
+II –
+
+Analisar e fiscalizar a execução de edificações e construções;
+
+
+III –
+
+Fazer cumprir as normas relativas no parcelamento, loteamento e uso do solo;
+
+
+IV –
+
+Executar obras de saneamento básico, definidas em articulação com a Secretaria Municipal de Saúde e Órgãos Federais e Estaduais;
+
+
+V –
+
+Promover os serviços de reposição, construção, conservação e pavimentação das vias públicas;
+
+
+VI –
+
+Manter a rede de galerias pluviais e fiscalizar a limpeza dos cursos d'água;
+
+
+VII –
+
+Executar as obras e/ou reparos solicitados pelas demais secretarias, em articulação com seus setores específicos de prédios e equipamentos;
+
+
+VIII –
+
+Promover a execução de desenhos das obras projetadas, mapas e gráficos necessários aos serviços;
+
+
+IX –
+
+Elaborar as especificações dos materiais a serem aplicados na execução das obras projetadas, tendo em vista o tipo de acabamento da obra;
+
+
+X –
+
+Promover a elaboração de projetos de obras para o município.
+
+
+XI –
+
+Construção e instalação de rede de galerias fluviais;
+
+
+XII –
+
+fiscalizar e fazer cumprir as normas referentes às construções particulares, assim como as posturas municipais, ressalvadas as atribuições relativas à fiscalização sanitária, e a fiscalização dos serviços cedidos ou permitidos pelo Município;
+
+
+XIII –
+
+conservação das obras públicas municipais, assim como dos próprios da Municipalidade;
+
+
+XIV –
+
+execução do serviço de topografia; e outras atividades afins.
+
+
+###### Subseção IV — Setor de Projetos de Obras Públicas
+
+
+Art. 49.
+
+Compete ao Setor de Projetos de Obras Públicas:
+
+
+I –
+
+gerenciar e executar a elaboração de projetos, orçamentos, especificações técnicas e cronogramas de obras, inclusive as relativas à energia elétrica;
+
+
+II –
+
+padronizar e normatizar tecnicamente todos os projetos desenvolvidos pela Municipalidade;
+
+
+III –
+
+manter acervo técnico e caderno de encargos atualizado, com todos os elementos que propiciem subsídios ao desenvolvimento de qualquer ação que requeira o conhecimento de estudos e projetos já executados ou em execução;
+
+
+IV –
+
+coordenar a execução de projetos a cargo de terceiros;
+
+
+V –
+
+analisar e desenvolver projetos oriundos de estudos preliminares efetuados pelos demais órgãos da Municipalidade;
+
+
+VI –
+
+levantar e fornecer elementos técnicos para a realização de processos licitatórios, dele participando por meio de análise das peças técnicas do processo;
+
+
+VII –
+
+coordenar obras públicas empreitadas de médio e grande porte;
+
+
+VIII –
+
+fornecer elementos para solicitação de recursos e respectivas prestações de contas;
+
+
+IX –
+
+executar outras atividades correlatas;
+
+
+###### Subseção V — Setor de Fiscalização de Obras
+
+
+Art. 50.
+
+Compete ao Setor de Fiscalização de Obras:
+
+
+I –
+
+acompanhar, efetuar e solicitar o controle tecnológico de obras;
+
+
+II –
+
+efetuar vistorias e emitir laudos técnicos que envolvam obras ou interferências em área de uso público, inclusive as de energia elétrica;
+
+
+III –
+
+executar e/ou fiscalizar obras de pavimentação, planos comunitários, drenagem, sistema viário, saneamento, edificações e infra-estrutura de responsabilidade do poder público;
+
+
+IV –
+
+analisar e aprovar projetos urbanísticos e de parcelamento do solo;
+
+
+V –
+
+fiscalizar obras particulares;
+
+
+VI –
+
+fornecer projetos de habitação econômica;
+
+
+VII –
+
+analisar, orientar e fiscalizar a execução de projetos de construção reforma e regularizações de residências unifamiliares, multifamiliares, verticais e horizontais, edifícios comerciais e/ou industriais;
+
+
+VIII –
+
+licenciar obras; emitir certificados de conclusão e habite-se;
+
+
+IX –
+
+licenciar e fiscalizar usos comerciais, institucionais, industriais e de publicidade, controlar a poluição visual e sonora;
+
+
+X –
+
+promover vistorias para atestar a segurança de edificações, emitindo laudos técnicos e de interdição;
+
+
+XI –
+
+promover vistorias técnicas em locais de eventos para atestar a segurança e as condições dos equipamentos de prevenção e combate a incêndio;
+
+
+XII –
+
+elaborar laudos de capacidade e quantitativos populacionais;
+
+
+XIII –
+
+vistoriar edifícios para atestar as condições de segurança contra incêndio e pânico;
+
+
+XIV –
+
+Executar outras atividades correlatas.
+
+
+###### Subseção VI — Departamento de Parques, Jardins, Praças e Cemitérios
+
+
+Art. 51.
+
+Ao Departamento de Parques, Jardins, Praças e Cemitérios compete:
+
+
+I –
+
+Coordenar e controlar o funcionamento dos cemitérios;
+
+
+II –
+
+Estabelecer normas e diretrizes para os contratos de serviços com empresas privadas, fazendo a supervisão de sua execução;
+
+
+III –
+
+Promover o alinhamento e numeração das sepulturas;
+
+
+IV –
+
+Cumprir e fazer que se observe a regulamentação dos cemitérios;
+
+
+V –
+
+Conservar, limpar e arborizar o cemitério;
+
+
+VI –
+
+Organizar e manter atualizado os registros relativos a inumações, exumações, transladações e perpetuidade de restos mortais em sepulturas;
+
+
+VII –
+
+Promover arborização e o embelezamento da cidade;
+
+
+VIII –
+
+planejar, coordenar e implementar a política do verde paisagístico, compreendendo-se como tal, a manutenção, a conservação e a expansão das áreas verdes, bosques, jardins e praças públicas, visando a qualidade de vida e o bem-estar da população;
+
+
+IX –
+
+executar a administração, a manutenção e a conservação dos bosques e parques da municipalidade;
+
+
+X –
+
+executar a implantação de praças públicas;
+
+
+XI –
+
+executar a manutenção das praças públicas;
+
+
+XII –
+
+coordenar os viveiros de produção de mudas;
+
+
+XIII –
+
+executar o controle de pragas e doenças incidentes sobre a flora;
+
+
+XIV –
+
+executar vistorias técnicas;
+
+
+XV –
+
+promover a produção de composto orgânico;
+
+
+XVI –
+
+executar o plantio de árvores em vias públicas.
+
+
+###### Subseção VII — Departamento de Coleta de Lixo E Limpeza Urbana
+
+
+Art. 52.
+
+Ao Departamento de Coleta de Lixo e Limpeza Urbana compete:
+
+
+I –
+
+Incumbir-se da execução e fiscalização da limpeza urbana, incluindo varreduras de vias e logradouros públicos, a capina de passeios, meio fios e canteiros das avenidas não arborizadas e a coleta do lixo domiciliar e hospitalar;
+
+
+II –
+
+Efetuar a limpeza mecanizada de entulhos e a roçaguem em terrenos baldios e outras áreas da cidade;
+
+
+III –
+
+Fixar os itinerários para coleta de lixo, capinação, varredura e lavagem das ruas, praças e logradouros públicos;
+
+
+IV –
+
+Promover a conservação dos materiais empregados nos serviços de limpeza pública e controlar sua utilização;
+
+
+V –
+
+Orientar e fiscalizar o trabalho de remoção do lixo da cidade ao destino final, de modo que não afete a saúde pública;
+
+
+VI –
+
+Promover a colocação de coletoras de lixo nas vias públicas;
+
+
+VII –
+
+Remover animais mortos encontrados nas vias públicas providenciando sua cremação ou aterro;
+
+
+##### Seção III — Secretaria Municipal de Educação, Cultura, Esporte, Lazer e Turismo
+
+
+Art. 53.
+
+À Secretaria Municipal de Educação, Cultura, Esporte, Lazer e Turismo compete:
+
+
+I –
+
+Propor e coordenar a execução da política educacional do Município;
+
+
+II –
+
+Manter atualizados os dados necessários ao gerenciamento da rede municipal de ensino, no que se refere ao corpo discente, ao corpo docente, aos prédios e seus equipamentos, e os cursos oferecidos;
+
+
+III –
+
+Realizar, anualmente, o levantamento da população em idade escolar, procedendo a sua chamada para matrícula;
+
+
+IV –
+
+Elaborar e executar planos, programas e projetos educacionais no âmbito municipal, obedecendo às diretrizes e prioridades estabelecidas pelo Governo local e mantendo consonância com as linhas de política educacional definidas nos níveis Estadual e Federal;
+
+
+V –
+
+Definir padrão básico de funcionamento para a rede municipal de ensino;
+
+
+VI –
+
+Elaborar a política educacional do Município com a participação do Conselho Municipal de Educação;
+
+
+VII –
+
+Buscar a cooperação técnica e procurar captar recursos financeiros junto ao Estado e a União, bem como junto à própria unidade e a organizações não governamentais para o necessário atendimento prioritário aos campos da Educação pré-escolar e do ensino fundamental;
+
+
+VIII –
+
+Verificar as necessidades das escolas e quaisquer deficiências ou irregularidades em suas instalações ou funcionamento, providenciando a conservação nos reparos necessários nos prédios escolares.
+
+
+IX –
+
+Propiciar a criação ou a ampliação das instalações existentes, além do aproveitamento dos espaços alternativos, visando a melhor utilização dos ambientes na realização dos diferentes eventos turísticos;
+
+
+X –
+
+Participar junto aos demais órgãos turísticos federais, estaduais e municipais, as ações visando o desenvolvimento do turismo;
+
+
+XI –
+
+Estudar de forma sistemática e permanente o desenvolvimento do turismo municipal;
+
+
+XII –
+
+Elaborar material de divulgação do Município em parceria com outros órgãos da administração;
+
+
+XIII –
+
+Opinar sobre anteprojetos e projetos de lei que se relacionem com o Turismo, Esporte e Lazer;
+
+
+XIV –
+
+Participar de eventos para divulgação do Município;
+
+
+XV –
+
+Promover e coordenar a execução da política desportiva e lazer do município, buscando estimular as situações propiciadoras do crescimento e participação;
+
+
+XVI –
+
+Divulgar os eventos esportivos, solicitando a participação da Assessoria de Imprensa e Relações Institucionais;
+
+
+XVII –
+
+Coordenar a utilização das áreas públicas para fins de recreação e lazer, priorizando aqueles programas direcionados às pessoas carentes e às portadoras de deficiência;
+
+
+###### Subseção I — Departamento de Ensino
+
+
+Art. 54.
+
+Ao Departamento de Ensino compete:
+
+
+I –
+
+Estimular e apoiar o aperfeiçoamento técnico profissional visando à atualização dos servidores municipais da educação;
+
+
+II –
+
+Favorecer a integração de todos os setores da Secretaria de Educação;
+
+
+III –
+
+Manter o elo de ligação entre o Departamento e as unidades escolares;
+
+
+IV –
+
+Estabelecer normas referentes ao Calendário Escolar, ao número de vagas anuais, à frequência dos professores e a vida escolar do aluno, fiscalizando seu cumprimento;
+
+
+V –
+
+Estimular a integração das Redes Municipal, Estadual e particular de ensino;
+
+
+VI –
+
+Promover estudos e/ou pesquisas voltadas para o aperfeiçoamento curricular e para a proposição de inovações metodológicas que contribuam para a melhoria da qualidade do ensino;
+
+
+VII –
+
+Organizar e/ou controlar toda documentação pertinente as Escolas Municipais;
+
+
+VIII –
+
+Transmissão dos assuntos abordados em reunião com a Secretaria de Educação, a fim de disseminar aos integrantes do Departamento as propostas apresentadas;
+
+
+IX –
+
+Estimular a participação de todos, em eventos que invistam na atualização dos integrantes da equipe;
+
+
+X –
+
+Buscar a cooperação quando necessário nos eventos da Secretaria de Educação;
+
+
+XI –
+
+Levantar, analisar dados de informações estatísticas relativas à área de educação.
+
+
+XII –
+
+Acompanhar todo processo pedagógico apresentando às Unidades Escolares;
+
+
+XIII –
+
+Elaborar o processo pedagógico pertinente ao segmento da área de atuação;
+
+
+XIV –
+
+Promover reuniões periódicas com os Professores Orientadores e Professores Dinamizadores no desenvolvimento das atividades, orientando e facilitando suas ações;
+
+
+XV –
+
+Estar em constante atualização, buscando novas formas de desenvolver o Processo Pedagógico;
+
+
+XVI –
+
+Avaliar sistematicamente o processo pedagógico, atentando para mudanças quando necessário;
+
+
+XVII –
+
+Elaborar projetos a serem desenvolvidos pela equipe das Unidades Escolares;
+
+
+XVIII –
+
+Fazer cumprir as ações pedagógicas nas Unidades Escolares;
+
+
+XIX –
+
+Reavaliar sistematicamente a metodologia utilizada em cada caso específico;
+
+
+XX –
+
+Controlar o sistema de avaliação visando o aspecto qualitativo no processo ensino aprendizagem;
+
+
+XXI –
+
+Fazer cumprir a legislação vigente da educação;
+
+
+XXII –
+
+Assessorar as Unidades Escolares da Zona Rural de acordo com suas especificidades;
+
+
+XXIII –
+
+Proporcionar integração entre os Professores Orientadores e Professores Dinamizadores visando novas propostas pedagógicas;
+
+
+XXIV –
+
+Garantir ao aluno com necessidades educacionais especiais a aquisição de conhecimentos, através de modalidades específicas, serviços de apoio, metodologia e materiais didáticos adequados;
+
+
+XXV –
+
+Sistematizar o conhecimento do professor ao nível de cada deficiência;
+
+
+XXVI –
+
+Levar o Professor a refletir sobre a realidade do aluno com necessidades especiais e seu papel como cidadão;
+
+
+XXVII –
+
+Garantir ao aluno com necessidades educacionais a oportunidade de inclusão no Ensino Regular;
+
+
+XXVIII –
+
+Oportunizar o aluno participar de todas as atividades escolares e comunitárias;
+
+
+XXIX –
+
+Implementar projetos educacionais voltados para a Educação e o Trabalho, de alunos Jovens e Adultos que, em virtude de suas deficiências, não concluíram o Ensino Fundamental;
+
+
+XXX –
+
+Implementar o processo de diagnóstico de necessidades educacionais especiais na Rede Municipal de Ensino.
+
+
+XXXI –
+
+Promover ações que deem oportunidade aos alunos que não tiveram acesso ao Ensino Fundamental na idade própria;
+
+
+XXXII –
+
+Viabilizar ações integradas que garanta o acesso e a permanência da clientela de Jovens e Adultos na Escola para conclusão do Ensino Fundamental;
+
+
+XXXIII –
+
+Oportunizar a clientela de Jovens e Adultos, condições de participação crítica e efetiva nos movimentos e demandas sociais;
+
+
+XXXIV –
+
+Elaborar o processo pedagógico da Educação de Jovens e Adultos, considerando suas características próprias.
+
+
+XXXV –
+
+Colaborar na elaboração do Plano Municipal da Educação;
+
+
+XXXVI –
+
+Elaborar normas de organização administrativa;
+
+
+XXXVII –
+
+Zelar pelo cumprimento da política educacional definida pela Secretaria Municipal de Educação;
+
+
+XXXVIII –
+
+Elaborar e desenvolver programas e projetos que possibilitem revitalizar a ação administrativa a Rede Municipal de Ensino;
+
+
+XXXIX –
+
+Acompanhar a aplicação dos recursos financeiros para a educação;
+
+
+XL –
+
+Incentivar a autonomia das Unidades Escolares, orientando-as no processo inicial da criação de Associações de Pais e Mestres;
+
+
+XLI –
+
+Proceder à elaboração de relatórios parciais e anuais das ações realizadas pelo Departamento;
+
+
+XLII –
+
+Planejar, orientar e supervisionar as ações pedagógicas da Coordenação pedagógica das unidades escolares, da Coordenação dos Centros Educacionais e da Coordenação das Bibliotecas Públicas;
+
+
+###### Subseção II — Coordenação de Centros Educacionais
+
+
+Art. 55.
+
+A Coordenação de Centros Educacionais compete:
+
+
+I –
+
+Coordenar, supervisionar e direcionar as atividades dos Centros Educacionais do Município;
+
+
+II –
+
+Organizar e manter atualizada toda documentação pertinente ao Setor;
+
+
+III –
+
+Acompanhar o projeto pedagógico com alfabetização do Município;
+
+
+IV –
+
+Promover reuniões periódicas com as equipes de trabalho que desenvolvem a ação pedagógica diretamente com os Centros Educacionais;
+
+
+V –
+
+Controlar o sistema de avaliação, visando o aspecto qualitativo no processo ensino aprendizagem;
+
+
+VI –
+
+Estar em harmonia com todos os setores do Departamento para perfeito desenvolvimento do trabalho;
+
+
+VII –
+
+Supervisionar o trabalho desenvolvido pelas equipes nos Centro Educacionais;
+
+
+###### Subseção III — Coordenação das Bibliotecas Públicas
+
+
+Art. 56.
+
+Compete à Coordenação das Bibliotecas Públicas:
+
+
+I –
+
+Organizar todo o serviço interno das bibliotecas públicas;
+
+
+II –
+
+Catalogar e organizar todos os livros, jornais e revistas do seu acervo;
+
+
+III –
+
+Criar regimento interno;
+
+
+IV –
+
+Fiscalizar o empréstimo de livros aos usuários;
+
+
+V –
+
+Articular-se com as bibliotecas das Unidades Escolares, para melhor atendimento aos alunos e usuários;
+
+
+VI –
+
+Organizar, orientar e estimular a pesquisa nos computadores e na rede mundial de computadores – internet;
+
+
+VII –
+
+Elaborar projetos e campanhas visando a aquisição e/ou doação de livros e equipamentos para as bibliotecas públicas;
+
+
+VIII –
+
+Executar outras atividades correlatas:
+
+
+###### Subseção IV — Coordenação Pedagógica
+
+
+Art. 57.
+
+À Coordenação Pedagógica compete:
+
+
+I –
+
+Coordenar ações da equipe multidisciplinar, visando resgatar a criança nas esferas sócio, psicoafetiva e emocional;
+
+
+II –
+
+Estabelecer condições favoráveis na escola, na família e na comunidade para que a criança cresça de forma mais harmoniosa e mais saudável;
+
+
+III –
+
+Dar suporte as ações pedagógicas das Unidades Escolares nos fatores relacionados aos processos de desenvolvimento humano;
+
+
+IV –
+
+Estabelecer as relações inter e intrapessoais na dimensão institucional;
+
+
+V –
+
+Contribuir para o processo de orientação para o trabalho;
+
+
+VI –
+
+Participar da atualização pedagógica, através dos grupos de estudo e dos Conselhos de Classe;
+
+
+VII –
+
+Desenvolver com o corpo docente, atividades para os educandos, visando um trabalho preventivo relacionado à afetividade, cognição e socialização;
+
+
+VIII –
+
+Participar de reuniões técnico administrativas pertinentes a área de atuação;
+
+
+IX –
+
+Diagnosticar as necessidades dos alunos dentro do sistema educacional, para possíveis encaminhamentos a serviços de atendimento público da comunidade;
+
+
+X –
+
+Realizar trabalho efetivo junto às famílias dos alunos, e comunidade, visando maior sintonia e equilíbrio dentro e fora do contexto escolar;
+
+
+XI –
+
+Orientar a comunidade escolar quanto aos serviços e recursos públicos existentes, dentro e fora do contexto escolar;
+
+
+XII –
+
+Participar de projetos de apoio, prevenção e proteção à criança, o adolescente, que estejam efetivamente incluídos na Rede Municipal de Ensino.
+
+
+XIII –
+
+Assessorar a Direção da Unidade Escolar, no acompanhamento e controle de atividades administrativas no cotidiano escolar;
+
+
+XIV –
+
+Participar dos Conselhos de Classe das Unidades Escolares;
+
+
+XV –
+
+Buscar junto aos Diretores, soluções para problemas apresentados;
+
+
+XVI –
+
+Reunir-se periodicamente com a equipe de trabalho;
+
+
+XVII –
+
+Manter-se atualizado quanto às normas legais e política educacional do país;
+
+
+XVIII –
+
+Buscar constante atualização pertinente à legislação vigente;
+
+
+XIX –
+
+Estimular e apoiar o aperfeiçoamento profissional e a atualização dos integrantes da equipe;
+
+
+XX –
+
+Controlar e incentivar a frequência dos alunos na Unidade Escolar;
+
+
+XXI –
+
+Estabelecer cooperação técnica sobre a legislação municipal vigente junto ao Conselho Municipal de Educação;
+
+
+XXII –
+
+Zelar pelo fiel cumprimento do Calendário Escolar, nas Unidades Escolares;
+
+
+XXIII –
+
+Zelar pelos dados estatísticos das Unidades Escolares, encaminhando propostas para possíveis distorções.
+
+
+XXIV –
+
+elaborar e coordenar o Projeto Pedagógico da Secretaria Municipal de Educação;
+
+
+XXV –
+
+acompanhar, controlar e avaliar a educação infantil, o ensino fundamental e supletivo;
+
+
+XXVI –
+
+desenvolver a política de capacitação e formação permanente do educador;
+
+
+XXVII –
+
+dar suporte legal e administrativo em concursos, atribuições de aulas, calendário escolar, regimentos, alterações curriculares e outras atividades técnicas e pedagógicas, incluindo a supervisão "in loco" das unidades de ensino;
+
+
+XXVIII –
+
+elaborar e executar programas e projetos educacionais.
+
+
+XXIX –
+
+Subsidiar o trabalho pedagógico das equipes que trabalham no processo de alfabetização;
+
+
+XXX –
+
+Organizar grupos de estudo onde equipe técnica e professores repensem a prática pedagógica;
+
+
+XXXI –
+
+Garantir a continuidade dos Parâmetros Curriculares Nacionais em ação no Município implantados pelo MEC;
+
+
+XXXII –
+
+Aprimorar a prática pedagógica e administrativa através de capacitação sistemática do pessoal da Educação;
+
+
+XXXIII –
+
+Propiciar cursos de atualização para equipe técnica;
+
+
+XXXIV –
+
+Assessorar a Secretaria Municipal de Educação na definição de estratégias de ação para a educação municipal;
+
+
+###### Subseção V — Departamento de Cultura
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+###### Subseção VI — Departamento de Esporte
+
+
+Art. 59.
+
+Ao Departamento de Esporte compete:
+
+
+I –
+
+Organizar, promover e estimular atividades na área do desporto através dos projetos a serem desenvolvidos tanto, na zona urbana e rural;
+
+
+II –
+
+Promover, em conjunto com outros Municípios, jogos e competições esportivas amadoras, inclusive de alunos da rede pública;
+
+
+III –
+
+Apoiar e estimular as instituições locais que atuem na área esportiva;
+
+
+IV –
+
+Apoiar e estimular as instituições locais que necessitem de suporte para realização de esporte;
+
+
+V –
+
+Criar jogos internos nas diversas modalidades esportivas, inclusive para servidores municipais;
+
+
+VI –
+
+Executar política de esportes no âmbito do município, definindo programas e projetos de fortalecimento do esporte no plano de governo;
+
+
+VII –
+
+Estimular a implantação do centro de atividades desportivas, destinado à promoção de escolinhas tais como: futebol, basquete, voleibol, tênis, handebol, natação e outras atividades esportivas;
+
+
+VIII –
+
+Integrar as atividades específicas e técnicas para o cumprimento das atividades esportivas;
+
+
+IX –
+
+Organizar, promover, estimular e apoiar atividades para pessoas portadoras de cuidados especiais;
+
+
+X –
+
+Estimular e apoiar a prática de atividade física e/ou esporte, através da conscientização da importância que a mesma tem para a saúde;
+
+
+XI –
+
+Organizar, promover, estimular e apoiar atividades físicas e/ou esporte para a terceira idade;
+
+
+XII –
+
+Divulgar o Município em âmbito Estadual e Nacional através do Esporte;
+
+
+XIII –
+
+Oferecer suporte aos profissionais de Educação Física;
+
+
+XIV –
+
+Buscar parceria dentro e/ou fora do Município para realização de projetos.
+
+
+XV –
+
+Acompanhar o desenvolvimento do trabalho realizado nas instituições de ensino;
+
+
+XVI –
+
+Reunir-se periodicamente com os professores de Educação Física, buscando aperfeiçoar o trabalho da área;
+
+
+XVII –
+
+Fazer cumprir junto às instituições de ensino o cronograma de ação esportiva;
+
+
+###### Subseção VII — Departamento de Eventos, Lazer e Turismo
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 15. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+###### Subseção VIII — Departamento de Alimentação e Transporte Escolar
+
+
+Art. 61.
+
+Ao Departamento de Alimentação e Transporte Escolar compete:
+
+
+I –
+
+Promover a melhoria das condições de Nutrição da população escolar;
+
+
+II –
+
+Coordenar programas e projetos visando a conscientização da comunidade escolar e da família quanto à importância da nutrição e sua repercussão na saúde física e mental do indivíduo, levando-os à aquisição de hábitos alimentares corretos;
+
+
+III –
+
+Prestar informações e dar assistência aos responsáveis pela nutrição escolar nos estabelecimentos de ensino, orientando-os em seus planos de trabalhos;
+
+
+IV –
+
+Promover, coordenar e supervisionar o fornecimento da merenda escolar e de refeições aos alunos das Escolas Municipais em quantidade e qualidade adequadas;
+
+
+V –
+
+Supervisionar o trabalho das auxiliares de cozinha;
+
+
+VI –
+
+Sugerir cardápios, visando uma alimentação mais nutritiva e adequada ao hábito alimentar do educando;
+
+
+VII –
+
+Supervisionar o local de guarda da merenda das unidades escolares;
+
+
+VIII –
+
+Receber, analisar, arquivar e encaminhar se necessário, toda documentação inerente a Setor;
+
+
+IX –
+
+Elaborar processos de aquisição de gêneros alimentícios para a merenda escolar;
+
+
+X –
+
+Proceder à elaboração de relatórios das ações realizadas.
+
+
+XI –
+
+Levantar mensalmente as necessidades de gêneros alimentícios para a Rede Municipal de Ensino;
+
+
+XII –
+
+Verificar a entrada e saída dos produtos através de comprovantes;
+
+
+XIII –
+
+Exercer a guarda, em perfeita ordem de armazenamento e conservação dos gêneros destinados à distribuição nas escolas segundo orientações;
+
+
+XIV –
+
+Manter limpo e atualizado o local do armazenamento dos gêneros alimentícios;
+
+
+XV –
+
+Receber, controlar diariamente e distribuir os gêneros alimentícios nas unidades de ensino da rede Municipal;
+
+
+XVI –
+
+Emitir relatório mensal informando o saldo de cada produto alimentício.
+
+
+XVII –
+
+Propor critérios e normas de operacionalização a serem observadas pelas Unidades Escolares da Rede quanto à manutenção e conservação patrimoniais a elas confiados;
+
+
+XVIII –
+
+Levantar, no início do ano, a necessidade de transporte para alunos e funcionários da educação municipal;
+
+
+XIX –
+
+Reunir-se mensalmente, com os motoristas para repassar orientações / informações e avaliar o trabalho;
+
+
+XX –
+
+Elaborar semanalmente, o cronograma de trabalho para todas as viaturas a serviço da SME;
+
+
+XXI –
+
+Manter arquivados todas as informações sobre os transportes que estão a serviço da SME;
+
+
+XXII –
+
+Organizar e coordenar os serviços de manutenção e conservação de todos os veículos da SME;
+
+
+XXIII –
+
+Levantar as necessidades de material semestralmente, por unidade escolar;
+
+
+XXIV –
+
+Realizar outras atividades correlatas.
+
+
+##### Seção IV — Secretaria Municipal de Saúde
+
+
+Art. 62.
+
+À Secretaria Municipal de Saúde compete:
+
+
+I –
+
+Promover as atividades de assistência médico-social da população;
+
+
+II –
+
+Proceder à fiscalização sanitária, no âmbito da legislação municipal;
+
+
+III –
+
+Articular-se com outros órgãos, instituições públicas e privadas no atendimento de situações de interesses comum e naquele que, por seu interesse extraordinário ou emergência, exijam soma de esforços;
+
+
+IV –
+
+Propor e coordenar a execução da política de saúde do Município;
+
+
+V –
+
+Buscar a identificação dos principais problemas de saúde existentes na comunidade, ouvindo as instituições ou grupos que a representem a adotar ações políticas voltadas para sua superação;
+
+
+VI –
+
+Enviar a Secretaria Municipal de Administração e Planejamento dados e informações no âmbito da Secretaria Municipal de Saúde;
+
+
+VII –
+
+Propor, junto à população local, campanhas preventivas de educação sanitárias.
+
+
+VIII –
+
+Garantia da integralidade da atenção por meio da realização de ações de promoção da saúde, prevenção de agravos e curativas; e da garantia de atendimento da demanda espontânea, da realização das ações programáticas e de vigilância em saúde;
+
+
+IX –
+
+Regular as ações intermunicipais;
+
+
+X –
+
+Analisar os tipos de procedimento (frequência com que devem ser utilizados pelos pacientes) e os meios de deslocamento disponíveis para o acesso da população, a fim de definir a melhor estratégia a ser utilizada na estruturação do serviço;
+
+
+XI –
+
+Ampliar a cobertura dos atendimentos aos portadores de doenças crônicas através de mecanismos de avaliação, controle, regulação e monitoramento dos serviços de atenção à saúde;
+
+
+###### Subseção I
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+###### Subseção II — Departamento de Atenção à Saúde
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+###### Subseção III
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+###### Subseção IV
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+###### Subseção V
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XVII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XVIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XIX –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XX –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXIV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXVI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXVII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+XXVIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Complementar nº 65, de 30 de dezembro de 2009.
+
+
+##### Seção V — Secretaria Municipal de Ação Social
+
+
+Art. 68.
+
+À Secretaria Municipal de Ação Social compete:
+
+
+I –
+
+A execução das políticas sociais, especialmente daquelas voltadas à atenção e amparo ao idoso, à criança, ao adolescente e às entidades civis com fins sociais estabelecidas no Município, conforme preceitua a Lei Orgânica de Assistência Social e outra legislação constitucional ou infraconstitucional;
+
+
+II –
+
+estabelecer diretrizes e cumprir metas relativas à assistência social;
+
+
+III –
+
+responsabilizar-se pela gestão do Fundo Municipal de Assistência Social;
+
+
+IV –
+
+acompanhar as atividades do Conselho Municipal dos Direitos da Criança e do Adolescente e do Conselho Tutelar dos mesmos direitos e de outros conselhos municipais cujas atividades estejam voltadas à área social;
+
+
+V –
+
+coordenar e participar da execução de todos os programas sociais do Governo Federal e Estadual implantados no Município;
+
+
+VI –
+
+promover a assistência comunitária, associações e outros entes da sociedade cujo fim seja o desenvolvimento de ações sociais e comunitárias;
+
+
+VII –
+
+integrar suas ações, sempre que possível, com as ações desenvolvidas pela Secretaria Municipal da Saúde, Secretaria Municipal da Educação e Secretaria Municipal da Agricultura e Meio Ambiente e com os demais órgãos da Administração Municipal, incluindo o Poder Judiciário e o Ministério Público;
+
+
+VIII –
+
+pronunciar-se sobre solicitações de auxílio à Prefeitura por parte de entidades assistenciais, controlando a aplicação de recursos;
+
+
+IX –
+
+programar e executar campanhas de captação de recursos para benefícios sociais, nutrição, higiene, trabalho e habitação;
+
+
+X –
+
+organizar e participar de programas de esclarecimento em meios de comunicação disponíveis na comunidade;
+
+
+XI –
+
+a orientação à população migrante de baixa renda, proporcionando-lhe ajuda e soluções emergenciais;
+
+
+XII –
+
+a participação em atividades relacionadas com a formação e o aperfeiçoamento da mão-de-obra e o aprimoramento do mercado de trabalho;
+
+
+XIII –
+
+promover e apoiar atividades comunitárias, bem como planejamento, coordenação e execução das atividades de assistência social do Município, no sentido de melhoria das condições de vida dos grupos sociais mais necessitados;
+
+
+XIV –
+
+Promover serviços de assistência funerária a pessoas de baixa renda de acordo com as disponibilidades financeira e orçamentária;
+
+
+XV –
+
+Prestar apoio institucional às ações organizativas das comunidades e de entidades não governamentais quanto a projetos de natureza social;
+
+
+XVI –
+
+Promover a política de geração de emprego e renda através de cursos profissionalizantes da população de baixa renda;
+
+
+XVII –
+
+Formular prioridades a serem incluídas no planejamento do Município em tudo que se refira ou possa afetar as condições de vida das crianças e dos adolescentes;
+
+
+XVIII –
+
+o desempenho de outras competências afins.
+
+
+###### Subseção I — Departamento do Cadastro Único e Bolsa Família
+
+
+Art. 69.
+
+Ao Departamento do Cadastro Único e Bolsa Família compete:
+
+
+I –
+
+Realizar as ações necessárias para o cadastramento de famílias de baixa renda nos programas sociais implantados no Município;
+
+
+II –
+
+Manter atualizado o Cadastro Único;
+
+
+III –
+
+Orientar a população cadastrada para o cumprimento das obrigações dos programas de distribuição de renda;
+
+
+IV –
+
+Criar campanhas de chamamento para renovação de dados do Cadastro Único;
+
+
+V –
+
+Fiscalizar os dados fornecidos, evitando o recebimento de benefícios indevidos;
+
+
+VI –
+
+Executar outras atividades afins;
+
+
+###### Subseção II — Departamento de Atenção Social
+
+
+Art. 70.
+
+Ao Departamento de Atenção Social compete:
+
+
+I –
+
+Identificar e promover integração com grupos e entidades de classe que executem ações de assistência social no Município;
+
+
+II –
+
+Estabelecer o planejamento e a execução da política habitacional do Município, especialmente a destinada a atender as camadas populares de baixa renda;
+
+
+III –
+
+Articular os serviços, programas, projetos e benefícios das atenções básicas e especiais com as demais políticas públicas locais, de forma a dar sustentabilidade às ações desenvolvidas e protagonismo das famílias e indivíduos atendidos, de forma a superar as condições de vulnerabilidade e a prevenir as situações que indicam risco potencial;
+
+
+IV –
+
+Fiscalizar e supervisionar o mapeamento e a organização das áreas de risco social em todo Município;
+
+
+V –
+
+Executar outras atividades correlatas.
+
+
+###### Subseção III — Coordenação de Atenção Social Básica
+
+
+Art. 71.
+
+À Coordenação de Atenção Social Básica compete:
+
+
+I –
+
+Coordenar e executar programas municipais voltados para o desenvolvimento social e apoio comunitário, inclusive aqueles resultantes de convênios com órgãos Estaduais e Federais;
+
+
+II –
+
+Prevenir situações de risco por meio de desenvolvimento de potencialidades e aquisições e o fortalecimento de vínculos familiares e comunitários à população que vive em situação de vulnerabilidade social decorrente da pobreza, privação e, ou fragilização de vínculos afetivos relacionados e pertencimento social;
+
+
+III –
+
+Desenvolver serviços, programas e projetos locais de acolhimento, convivência e socialização de famílias e de indivíduos, conforme identificação da situação de vulnerabilidade apresentada;
+
+
+IV –
+
+Executar o mapeamento e a organização das áreas de risco social quanto à atenção social básica no Município.
+
+
+###### Subseção IV — Coordenação de Atenção Social Especial
+
+
+Art. 72.
+
+Compete à Coordenação da Atenção Social Especial:
+
+
+I –
+
+Atendimento e acompanhamento psicossocial às populações que tenham seus direitos violados;
+
+
+II –
+
+Desencadear estratégias de atenção sociofamiliar que visem à reestruturação do grupo familiar;
+
+
+III –
+
+Coordenar e supervisionar os projetos ditos de atenção especial;
+
+
+IV –
+
+Prestar atendimento assistencial às famílias e indivíduos que se encontram em situação de risco pessoal e social, por ocorrência de abandono, maus tratos físicos e /ou psíquico, abuso sexual, uso de substâncias psicóticas, cumprimento de medidas sócio educativas, situação de risco, trabalho infantil dentre outras.
+
+
+V –
+
+Executar o mapeamento e a organização das áreas de risco social, quanto à atenção social especial no Município.
+
+
+###### Subseção V — Departamento de Segurança Alimentar
+
+
+Art. 73.
+
+Compete ao Departamento de Segurança Alimentar:
+
+
+I –
+
+Promover programas de alimentação para famílias de baixa renda;
+
+
+II –
+
+Cadastrar os usuários dos programas de segurança alimentar;
+
+
+III –
+
+Fiscalizar a utilização dos programas de segurança alimentar;
+
+
+IV –
+
+Fiscalizar a aquisição de gêneros alimentícios para confecção de refeições e lanche para distribuição;
+
+
+V –
+
+Fiscalizar a elaboração de refeições da cozinha comunitária;
+
+
+VI –
+
+Fiscalizar a confecção de pães da padaria comunitária;
+
+
+VII –
+
+Fiscalizar a elaboração da sopa do programa sopão;
+
+
+VIII –
+
+Fiscalizar a distribuição de leite para as famílias de baixa renda;
+
+
+IX –
+
+Promover, em articulação com outras secretarias a criação de hortas comunitárias para atendimento às famílias de baixa renda;
+
+
+X –
+
+Realizar outras atividades afins.
+
+
+### TÍTULO IV — Das Disposições Gerais
+
+
+CAPÍTULO ÚNICO
+
+
+Art. 74.
+
+As unidades administrativas criadas por esta lei entrarão em vigor de acordo com as necessidades da Administração Municipal e dentro das disponibilidades financeiras e orçamentárias.
+
+
+Parágrafo único
+
+As unidades administrativas criadas por esta lei que não constem na Lei Orçamentária anual, deverão ser adicionadas através de lei específica para abertura de crédito adicional especial.
+
+
+Art. 75.
+
+As despesas para execução desta Lei correrão por conta das dotações próprias no orçamento para 2009 e seguintes.
+
+
+Art. 76.
+
+Ficam revogadas as leis 617/93, 734/97, 750/97, 751/97, 753/97, 815/2000 e 816/2000 e as demais disposições em contrário.
+
+
+Buritis, 23 de Dezembro de 2008.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Proposição de Lei Complementar 012/2008. Ref. PLC 015/2008.
+

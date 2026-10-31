@@ -1,0 +1,31 @@
+{
+  "aprovados": 1,
+  "path": "municipais/CE/fortaleza/lei-organica/2006/lei-organica-1-2006.md",
+  "sha256": "5383b555d6d642eb734c8fbd63444cd4ea789cb8221ccef7a0dcc5adb7f268ef",
+  "criterio": "Mesma seleção do controle oficial Texto Vigente COM Links: .dptt.desativado oculto, .dptt.revogado mantido; confronto integral de tokens da seleção ativa.",
+  "ativos": 1837,
+  "historicos_excluidos": 127,
+  "tachados_internos_excluidos": 3,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-capitais/lote-0004.paths.txt",
+      "sha256": "adbeed97484e63098de320d91875eb747aa1c09654d978eb4ee68feab3f9590b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais/lote-0004.auditoria-municipal.json",
+      "sha256": "0665b42d4a5f8fafdc5086993353d6dd9efd8b51722d67614c626c655a3665e8"
+    },
+    {
+      "path": "municipais/_fonte/capitais/fortaleza/lei-organica-1-2006.manifesto.json",
+      "sha256": "4ba801d14ad6e964239eae4c1c55ef6671149bd5d5327701d6433ed0e0a11dbf"
+    },
+    {
+      "path": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d"
+    },
+    {
+      "path": "scripts/test_organica_fortaleza.py",
+      "sha256": "6b7eadb184bc8655e1df046d5ce6b41a0cc27f2eb051efb71545458f6bd4c3eb"
+    }
+  ]
+}

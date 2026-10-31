@@ -1,0 +1,237 @@
+---
+titulo: "Lei Complementar nº 19, de 08 de setembro de 2004"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "19"
+data: "2004-09-08"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2026-01-05; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/554"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3261/text"
+sha256_fonte: "cb71cb620f233d6ad604cdb89845ebf46c292e34f11a411d13485a45006ea498"
+sha256_texto: "c26303af2b27937a540fb94836432351ba188833d435df41bcf6e9d36a5f197f"
+capturado_em_fonte: "2026-10-21T04:35:41.229884-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 19, de 08 de setembro de 2004
+
+Altera a Lei Complementar n. 0004, de 16 de julho de 1991, bem como a Lei n. 8.811, de 30 de dezembro de 2003, que dispõe sobre a finalidade, competência, estrutura organizacional básica da Guarda Municipal de Fortaleza, e cria o Sistema Municipal de Segurança, Defesa Civil e Cidadania.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições que lhe são conferidas pelo art. 30 inciso IV e Parágrafo único do art. 50 da Lei Orgânica do Município, PROMULGA,
+
+
+Art. 1º.
+
+O art. 2º da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+O art. 3º da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+O art. 4º da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 4º.
+
+É acrescentado no art. 4º da Lei Complementar n. 0004, de 16 de julho de 1991, o art. 4-A, com a seguinte redação:
+
+
+Art. 5º.
+
+O art. 5º e seu parágrafo único da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 6º.
+
+O art. 13 da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 7º.
+
+O art. 14 da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 8º.
+
+O art. 15 da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 9º.
+
+O art. 17 da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 10.
+
+O parágrafo único do art. 19 da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 11.
+
+O art. 23 da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 12.
+
+O art. 21 da Lei Complementar n. 0004, de 16 de julho de 1991, passa a vigorar com a seguinte redação:
+
+
+Art. 13.
+
+A Guarda Municipal será composta por um contingente de Guardas correspondente aos cargos necessários ao cumprimento de suas finalidades, sendo um efetivo de Guardas, Agentes de Cidadania e Agentes Especiais fixado no limite máximo de 2.675 (dois mil e seiscentos e setenta e cinco mil) componentes.
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 34, de 18 de dezembro de 2006.
+
+
+Art. 14.
+
+O preenchimento dos cargos, previstos no caput do art. 9º desta Lei Complementar, dar-se-á pelo efetivo já existente da Guarda Municipal de Fortaleza e as promoções dar-se-ão pelos critérios estabelecidos no regulamento, a ser aprovado por Lei Complementar, dentro dos limites e quantitativos abaixo:
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 34, de 18 de dezembro de 2006.
+
+
+I –
+
+106 Inspetores;
+
+
+II –
+
+225 Subinspetores de 1ª Classe;
+
+
+III –
+
+300 Subinspetores de 2ª Classe;
+
+
+IV –
+
+855 Guardas de 1ª Classe;
+
+
+V –
+
+959 Guardas de 2ª Classe;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 34, de 18 de dezembro de 2006.
+
+
+VI –
+
+200 Agentes de Cidadania;
+
+
+VII –
+
+30 Agentes Especiais.
+
+
+Art. 15.
+
+A composição e atribuições dos setores e diversas funções da estrutura organizacional da Guarda Municipal de Fortaleza fixadas por Regulamento a ser aprovado, através de Decreto pelo Chefe do Executivo Municipal, no prazo de 60 (sessenta) dias a contar da publicação desta Lei Complementar.
+
+
+Art. 16.
+
+Fica criado o Sistema Municipal de Segurança, Defesa Civil e Cidadania, constituído pelos mecanismos consolidados por esta Lei Complementar, objetivando a integração das ações preventivas de segurança patrimonial, defesa civil e de serviços públicos no âmbito dos órgãos e entidades do Poder Executivo Municipal.
+
+
+Parágrafo único.
+
+As atividades a serem regulamentadas para o Sistema Municipal de Segurança, Defesa Civil e Cidadania, referido no caput deste artigo, sob nenhuma hipótese, deverão invadir as competências funcionais da Guarda Municipal de Fortaleza, notadamente as da área de segurança.
+
+
+Art. 17.
+
+A formulação do Plano Integrado de Segurança e Cidadania observará as seguintes diretrizes:
+
+
+I –
+
+ação integrada com as demais políticas municipais, principalmente do meio ambiente, educação, saúde, cultura e ação social;
+
+
+II –
+
+promoção de campanhas educativas de estímulo à diminuição da violência, preservação do patrimônio públicos e meio ambiente;
+
+
+III –
+
+integração do serviço de segurança patrimonial do Município, inclusive aquele prestado por empresas terceirizadas;
+
+
+IV –
+
+unificação do serviço de radiocomunicação operado no âmbito da Prefeitura Municipal;
+
+
+Art. 18.
+
+A Jornada de Trabalho dos servidores, integrantes do quadro de pessoal da Guarda Municipal de Fortaleza, é estabelecida no art. 4º da Lei n. 6.794, de 27 de dezembro de 1990, Estatuto dos Servidores do Município, podendo, entretanto, ser estabelecido um sistema de escala de serviço e de aferição de frequência, visando atender ao interesse público.
+
+
+Art. 19.
+
+Será assegurado aos Guardas Municipais, aos Agentes de Defesa Civil e aos Agentes de Segurança Institucional de Fortaleza o direito a passe livre nos transportes coletivos urbanos de passageiros no âmbito do Município de Fortaleza.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 457, de 05 de janeiro de 2026.
+
+
+§ 1º
+
+Usufruirão deste direito os ocupantes dos cargos de Guarda, Subinspetor e Inspetor da Guarda Municipal, bem como Agente de Defesa Civil e Agente de Segurança Institucional, mediante apresentação de identidade funcional ou quando estiverem uniformizados.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 457, de 05 de janeiro de 2026.
+
+
+§ 2º
+
+O documento de identidade funcional, na forma prevista no Regulamento Geral, é de uso obrigatório no exercício da atividade do Guarda Municipal, do Agente de Defesa Civil e do Agente de Segurança Institucional e constitui prova de identidade civil para todos os fins legais.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 457, de 05 de janeiro de 2026.
+
+
+Art. 20.
+
+Excluídas as gratificações por tempo de serviço e as demais percebidas por direito adquirido, todos os Guardas Municipais, ativos e inativos, em suas respetivas classes, deverão receber seus vencimentos e proventos com percepção remuneratória igualitária na forma prevista em lei.
+
+
+Art. 21.
+
+Os integrantes do Corpo da Guarda Municipal de Fortaleza poderão utilizar armamentos e equipamentos para ações defensivas, de acordo com o Estatuto do Desarmamento, Lei Federal n. 10.826, de 22 de dezembro de 2003, e devidamente regulamentado pelo Poder Executivo Municipal através de Decreto.
+
+
+Art. 22.
+
+As despesas decorrentes da execução desta Lei Complementar correrão por conta das dotações orçamentárias da Guarda Municipal, acrescida dos créditos suplementares necessários.
+
+
+Art. 23.
+
+A transgressão disciplinar é a infração administrativa caracterizada pela violação dos deveres dispostos no Decreto Regulamentar de Punições a ser editado posteriormente, cominando ao infrator as sanções previstas no Estatuto dos Servidores do Município de Fortaleza, Lei n. 6.794, de 27 de dezembro de 1990, sem prejuízo das responsabilidades penal e civil cabíveis ao caso.
+
+
+Art. 24.
+
+Esta Lei Complementar entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário, notadamente os arts. 6º, 7º, 8º, 17 e 21 e parágrafo único do art. 2º da Lei Complementar n. 0004, de 16 de julho de 1991; a Lei Complementar n. 0007, de 01 de setembro de 1992; e os Decretos Municipais que regulamentam a atividade da atual Guarda, os quais deverão ser reformulados para se adequarem a esta Lei Complementar.
+
+
+**PAÇO DA CÂMARA MUNICIPAL DE FORTALEZA JOSÉ BARROS DE ALENCAR EM 08 DE SETEMBRO DE 2004.**  
+  
+  
+CARLOS ALBERTO GOMES MESQUITA  
+PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA
+

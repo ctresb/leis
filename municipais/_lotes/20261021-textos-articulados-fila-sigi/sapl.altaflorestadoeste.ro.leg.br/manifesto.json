@@ -1,0 +1,42 @@
+{
+  "host": "sapl.altaflorestadoeste.ro.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altaflorestadoeste.ro.leg.br/a1e28eb1f0b573bbddafb768de023c928a692145daa102a0b3fdbe4eade21008.json",
+    "url": "https://sapl.altaflorestadoeste.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.altaflorestadoeste.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T05:27:16.759001-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altaflorestadoeste.ro.leg.br/3faeccdb2faeba40b0a5f5fef01a3f9776c14d9dae579254eb61f30ce54c0a00.json",
+    "url": "https://sapl.altaflorestadoeste.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.altaflorestadoeste.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "47a9dd2c123a54618e1f2453f96a2bee14db72b51991f284fac80197c945b6a2",
+    "bytes": 796,
+    "capturado_em": "2026-10-21T05:27:15.350404-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altaflorestadoeste.ro.leg.br/281bf18026809fce154e9abc33b9b2112d8d49da8436d2fc750aedaa05269f63.json",
+      "url": "https://sapl.altaflorestadoeste.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.altaflorestadoeste.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e928aa32b6fbecec2c8b33f4736af1e72bf8d86bb96b9376af35bcc43809a40f",
+      "bytes": 1747,
+      "capturado_em": "2026-10-21T05:27:19.576930-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

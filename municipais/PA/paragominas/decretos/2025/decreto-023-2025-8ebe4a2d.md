@@ -1,0 +1,37 @@
+---
+titulo: "DECRETO Nº 023/2025"
+uf: "PA"
+municipio: "PARAGOMINAS"
+tipo: "Decreto"
+numero: "023"
+data: 
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/01/2026"
+data_publicacao: 2026-01-12
+codigo_identificador: "8EBE4A2D"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_116994_2026-01-09_06beec66cb2ea3bbcd8c04bcd7090af0.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 023/2025
+
+DECRETO Nº 023/2025
+
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+
+DECRETO Nº 023/2025 DE 09 DE JANEIRO DE 2026
+
+Gabinete do Prefeito Municipal de Paragominas-PA, em 09 de janeiro
+de 2026.
+
+O Prefeito Municipal de Paragominas Estado do Pará, no uso de suas
+atribuições legais, e com fundamentos na Lei nº 952/2017 e suas
+alterações;
+
+SIDNEY ROSA
+Prefeito Municipal de Paragominas
+
+DECRETA:
+Publicado por:
+Andricelia Fonseca Everton

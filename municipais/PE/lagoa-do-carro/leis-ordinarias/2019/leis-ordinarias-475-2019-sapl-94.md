@@ -1,0 +1,75 @@
+---
+titulo: "Lei-CMLC nº 475, de 24 de maio de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "475"
+data: "2019-05-24"
+municipio: "Lagoa do Carro"
+uf: "PE"
+codigo_ibge: "2608453"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.lagoadocarro.pe.leg.br/norma/94"
+fonte_texto: "https://sapl.lagoadocarro.pe.leg.br/media/sapl/public/normajuridica/2019/94/lei_475.pdf"
+sha256_fonte: "63abc773e733a588dd3b9bc7b8a41fac5231ceb5417d7aedf8b7c05c39c8f0c5"
+sha256_texto: "141faa5f32995d3a8633db0ba827a7c345540ff85a0cc40254db89e6f5490427"
+baixado_em: "2026-10-16"
+---
+
+# Lei-CMLC nº 475, de 24 de maio de 2019
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+• Lagoa do Carro
+
+LEI N°. 475/2019 EMENTA: Dispõe sobre abertura de crédito e dá outras suplementar providências. A PREFEITA DO MUNICIPIO DE LAGOA DO CARRO, ESTADO DE PERNAMBUCO, no uso de suas atribuições legais. Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1°** - Fica o Chefe do Poder Executivo autorizado a abrir um crédito suplementar na ordem de R$ 2.735.000,00 (dois milhoes, setecentos e trinta e cinco mil reais) para atender as despesas, conforme descrição abaixo:
+
+1236818801.105 - AQUISIÇÃO DE LIVROS PARA BIBLIOTECA DAS ESCOLAS
+
+44905100-120-OBRAS E INSTALAÇÕES
+
+1236818801.108 - REEQUIPAMENTO DA EDUCAÇÃO E AQUISIÇÃO DE VEICULOS
+
+157.000,00 02.05 - SECRETARIA DE CULTURA, TURISMO E DESPORTO 1339224701.109 - AQUISIÇÃO DE INSTRUMENTOS MUSICAIS 333.000,0ł 44905200-001-EQUIPAMENTOS E MATERIAL PERMANENTE 1339224702.220 - APOIO AS ATIVIDADES FESTIVAS, CULTURAIS E FOLCLORICAS 30.000,00 33903600-001-OUTROS SERVIÇOS DE TERCEIROS - PESSOA FISICA
+
+150.000,00
+
+1545102501.114 - CONSTRUÇÃO, AMPLIAÇÃO E REFORMAS DE PRÉDIOS PÚBLICOS
+
+50.000,00 1545132301.118 - PAVIMENTAÇÃO ASFALTICA
+
+315.000,00 02.12 - FUNDO MUNICIPAL DE SAUDE 1030142801.137 - REEQUIPAMENTO DA UNIDADE-ATENÇÃO BÁSICA 44905200-218-EQUIPAMENTOS E MATERIAL PERMANENTE 260.000,00 1030242801.140 - REEQUIPAMENTO DA UNIDADE-MAC 44905200-218-EQUIPAMENTOS E MATERIAL PERMANENTE 900.000,00
+
+33903200-001-MATERIAL DE DISTRIBUIÇÃO GRATUITA 140.000,00
+
+Lagoa do Carro
+
+**Art. 2°** - O crédito de que trata o artigo anterior correrá por conta das anulações das dotações orçamentárias abaixo discriminadas:
+
+1236818801.106 - AQUISIÇÃO DE TRANSPORTE ESCOLAR
+
+44905200-120-EQUIPAMENTOS E MATERIAL PERMANENTE 250.000,00
+
+400.000,00 44905100-111-OBRAS E INSTALAÇÕES 1236818802.217 - MANUTENÇÃO DA EDUCAÇÃO BÁSICA 33903000-111-MATERIAL DE CONSUMO 100.000,00
+
+1545132302.231 - GESTÃO TÉCNICA E ADMINISTRATIVA DA SECRETARIA 31901100-001-VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 435.000,00 1545132301.119 - PAVIMENTAÇÃO DE VIAS PÚBLICAS
+
+100.000,00 1581332801.125 - CONSTRUÇÃO E REFORMAS DE PARQUES, PRAÇAS E JARDINS 70.000,00
+
+02.11 - FUNDEB 1236818801.135 - CONT. AMP. E REF. DE UNID. ESCOLARES E QUAD.
+
+1.000.000,00 44905100-113-OBRAS E INSTALAÇÕES
+
+0824448601.141 - CONST, AMPLIA. E REST. DE UNIDADES VINCULADAS AO FMAS
+
+60.000,00
+
+33903600-001-OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 20.000,00
+
+20.000,00 33904800-001-OUTROS AUXÍLIOS FINANCEIROS A PESSOA FÍSICA 80.000,00
+
+**Art. 3°** - Suprimido.
+
+**Art. 4°** - Esta Lei entra em vigor na data de sua publicação., Gabinete da Prefeita, em 24 de maio de 2019. JUDITE MARIA BOTAFOGO SANTANA DA SILVA -Prefeita-
+

@@ -1,0 +1,678 @@
+{
+  "estado": "indice_completo",
+  "total": 66,
+  "anexos": [
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/33/lei_comp_n_710_anexo_i.pdf da norma Lei Complementar nº 710, de 28 de fevereiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/33/lei_comp_n_710_anexo_i.pdf",
+      "ano": 2018,
+      "norma": 730
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/34/lei_comp_n_710_anexo_ii_iii_iv.pdf da norma Lei Complementar nº 710, de 28 de fevereiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/34/lei_comp_n_710_anexo_ii_iii_iv.pdf",
+      "ano": 2018,
+      "norma": 730
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/35/lei_comp_n_710_anexo_v.pdf da norma Lei Complementar nº 710, de 28 de fevereiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/35/lei_comp_n_710_anexo_v.pdf",
+      "ano": 2018,
+      "norma": 730
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/36/lei_comp_n_696_anexos.pdf da norma Lei Complementar nº 696, de 24 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2017/36/lei_comp_n_696_anexos.pdf",
+      "ano": 2017,
+      "norma": 267
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/37/lei_comp_n_689_anexos.pdf da norma Lei Complementar nº 689, de 31 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2017/37/lei_comp_n_689_anexos.pdf",
+      "ano": 2017,
+      "norma": 273
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/39/lei_comp_n_643_anexo_i_-_mapa_zoneamento_e_corred_2AncC5r.pdf da norma Lei Complementar nº 643, de 26 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2016/39/lei_comp_n_643_anexo_i_-_mapa_zoneamento_e_corred_2AncC5r.pdf",
+      "ano": 2016,
+      "norma": 355
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/40/lei_comp_n_643_anexo_2.pdf da norma Lei Complementar nº 643, de 26 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2016/40/lei_comp_n_643_anexo_2.pdf",
+      "ano": 2016,
+      "norma": 355
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/41/lei_comp_n_643_anexo_3_-quadro_1.pdf da norma Lei Complementar nº 643, de 26 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2016/41/lei_comp_n_643_anexo_3_-quadro_1.pdf",
+      "ano": 2016,
+      "norma": 355
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/43/lei_ord_n_2231_-_anexo.pdf da norma Lei nº 2231-A, de 03 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2015/43/lei_ord_n_2231_-_anexo.pdf",
+      "ano": 2015,
+      "norma": 971
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/44/lei_ord_n_2053_anexo.pdf da norma Lei nº 2.053, de 04 de julho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2013/44/lei_ord_n_2053_anexo.pdf",
+      "ano": 2013,
+      "norma": 1107
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/47/lei_ord_n_1722_anexo_i.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/47/lei_ord_n_1722_anexo_i.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/48/lei_ord_n_1722_anexo_ii.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/48/lei_ord_n_1722_anexo_ii.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/49/lei_ord_n_1722_anexo_iii.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/49/lei_ord_n_1722_anexo_iii.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/50/lei_ord_n_1722_anexo_iv.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/50/lei_ord_n_1722_anexo_iv.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/51/lei_ord_n_1722_anexo_v.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/51/lei_ord_n_1722_anexo_v.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/52/lei_ord_n_1722_anexo_vi.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/52/lei_ord_n_1722_anexo_vi.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/55/lei_ord_n_1722_anexo_vii.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/55/lei_ord_n_1722_anexo_vii.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/56/lei_ord_n_1722_anexo_viii.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/56/lei_ord_n_1722_anexo_viii.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/57/lei_ord_n_1722_anexo_ix.pdf da norma Lei nº 1.722, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/57/lei_ord_n_1722_anexo_ix.pdf",
+      "ano": 2007,
+      "norma": 1440
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/58/lei_comp_n_280_anexo_unico.pdf da norma Lei Complementar nº 280, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/58/lei_comp_n_280_anexo_unico.pdf",
+      "ano": 2007,
+      "norma": 663
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/59/lei_comp_n_345_anexos.pdf da norma Lei Complementar nº 345, de 08 de abril de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "realinhamento  anual  dos vencimentos  dos  cargos  do  quadro  de servidores  públicos da prefeitura",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2009/59/lei_comp_n_345_anexos.pdf",
+      "ano": 2009,
+      "norma": 610
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/60/lei_ord._1774_anexos.pdf da norma Lei nº 1.774, de 04 de abril de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "reajuste dos vencimentos quadro de servidores da prefeitura de porto velho",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2008/60/lei_ord._1774_anexos.pdf",
+      "ano": 2008,
+      "norma": 2204
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/61/lei_ord_n_1656_anexo_i.pdf da norma Lei nº 1.656, de 05 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Inclusão de Ações na Lei de Diretrizes Orçamentárias - LDO 2006 (Lei nº 1.613, de 07 de julho de 2005",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2006/61/lei_ord_n_1656_anexo_i.pdf",
+      "ano": 2006,
+      "norma": 1505
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/63/lei_ord_n_1656_anexo_iii.pdf da norma Lei nº 1.656, de 05 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Inclusão de Ações na Lei Orçamentária Anual - LOA 2006 (Lei nº 1.641, de 20 de dezembro de 2005)",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2006/63/lei_ord_n_1656_anexo_iii.pdf",
+      "ano": 2006,
+      "norma": 1505
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/65/lei_ord_n_1656_anexo_ii.pdf da norma Lei nº 1.656, de 05 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Inclusão de Ações no Plano Plurianual - PPA 2006-2009 (Lei nº 1.640, de 20 de dezembro de 2005",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2006/65/lei_ord_n_1656_anexo_ii.pdf",
+      "ano": 2006,
+      "norma": 1505
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/66/decreto__15.139_-_18_anexo_i_-_semed.pdf da norma Decreto nº 15.139, de 11 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "RELAÇÃO COM ITENS AUTORIZADOS PARA COMPRA COM RECURSO DO PROAFEM – INTEGRAL",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/66/decreto__15.139_-_18_anexo_i_-_semed.pdf",
+      "ano": 2018,
+      "norma": 2456
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/67/decreto_15.139_-_18_anexo_ii_-_semed.pdf da norma Decreto nº 15.139, de 11 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "ESCOLAS DE MÚSICA E BIBLIOTECA MUNICIPAL",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/67/decreto_15.139_-_18_anexo_ii_-_semed.pdf",
+      "ano": 2018,
+      "norma": 2456
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/68/decreto__15.139_-_18__anexo_iii_-_semed.pdf da norma Decreto nº 15.139, de 11 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "PLANO DE APLICAÇÃO Programa de Apoio Financeiro ás Escolas Municipais – PROAFEM",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/68/decreto__15.139_-_18__anexo_iii_-_semed.pdf",
+      "ano": 2018,
+      "norma": 2456
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/69/decreto_15.139_-_18_anexo_iv_-_semed.pdf da norma Decreto nº 15.139, de 11 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "CHECK LIST: PROAFEM REGULAR/ED. INTEGRAL/EQUIPAMENTOS",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/69/decreto_15.139_-_18_anexo_iv_-_semed.pdf",
+      "ano": 2018,
+      "norma": 2456
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/70/decreto_15.139_-_18_anexo_v_-_semed.pdf da norma Decreto nº 15.139, de 11 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "CHECK LIST:    PROAFEM MANUTENÇÃO",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/70/decreto_15.139_-_18_anexo_v_-_semed.pdf",
+      "ano": 2018,
+      "norma": 2456
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/71/anexo__i_declaracao_de_utilizacao_do_transporte__Er11DA0.docx da norma Decreto nº 15.204, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "DECLARAÇÃO DE UTILIZAÇÃO DO TRANSPORTE ESCOLAR -( DEC. 15.204)",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/71/anexo__i_declaracao_de_utilizacao_do_transporte__Er11DA0.docx",
+      "ano": 2018,
+      "norma": 2516
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/72/anexo_ii_planilha_fluvial_1.doc da norma Decreto nº 15.204, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "PLANILHA FLUVIAL (1) ( DEC. 15.204)",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/72/anexo_ii_planilha_fluvial_1.doc",
+      "ano": 2018,
+      "norma": 2516
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/74/anexo_ii_planilha_terrestre.docx da norma Decreto nº 15.204, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "PLANILHA DE CONTROLE DIÁRIO DO TRANSPORTE ESCOLAR TERRESTRE",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/74/anexo_ii_planilha_terrestre.docx",
+      "ano": 2018,
+      "norma": 2516
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/75/anexo_iii_alunos_6.docx da norma Decreto nº 15.204, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/75/anexo_iii_alunos_6.docx",
+      "ano": 2018,
+      "norma": 2516
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/76/anexo_iv_carteira_estudantil_1_xFF2t3o.docx da norma Decreto nº 15.204, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/76/anexo_iv_carteira_estudantil_1_xFF2t3o.docx",
+      "ano": 2018,
+      "norma": 2516
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/77/anexo_v_pesquisa_1.docx da norma Decreto nº 15.204, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "DEPARTAMENTO DO SUPORTE LOGÍSTICO DE TRANSPORTE ESCOLAR EDUCACIONAL – DSLE/DIVISÃO",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/77/anexo_v_pesquisa_1.docx",
+      "ano": 2018,
+      "norma": 2516
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/78/anexo_vi_controle_5.docx da norma Decreto nº 15.204, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "CONTROLE INDIVIDUALIZADO DOS TRABALHADORES DAS EMPRESAS PRESTADORAS DE SERVIÇOS DO TRANSPORTE ESCOLAR NO MUNICÍPIO DE PORTO VELHO",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2018/78/anexo_vi_controle_5.docx",
+      "ano": 2018,
+      "norma": 2516
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/79/lei_comp_n_258_anexo_i.pdf da norma Lei Complementar nº 258, de 06 de setembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "TABELA DE SALARIO - VARIAÇÃO DE 5% HORIZONTAL - 10%NIVEL - ANEXO I",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2006/79/lei_comp_n_258_anexo_i.pdf",
+      "ano": 2006,
+      "norma": 723
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/80/lei_comp_n_258_anexo_ii.pdf da norma Lei Complementar nº 258, de 06 de setembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "GRUPO OCUPACIONAL - ANEXO II",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2006/80/lei_comp_n_258_anexo_ii.pdf",
+      "ano": 2006,
+      "norma": 723
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/81/lei_comp_n_258_anexo_ii.pdf da norma Lei Complementar nº 258, de 06 de setembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "GRUPO OCUPACIONAL - ANEXO II",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2006/81/lei_comp_n_258_anexo_ii.pdf",
+      "ano": 2006,
+      "norma": 723
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/82/lei_comp_n_353_anexo_i_e_ii.pdf da norma Lei Complementar nº 353, de 05 de maio de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "LEI COMPLEMENTAR Nº 353 DE 05 DE MAIO DE 2009 TABELA DE VENCIMENTO",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2009/82/lei_comp_n_353_anexo_i_e_ii.pdf",
+      "ano": 2009,
+      "norma": 611
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/83/lei_comp_n_384_promulgada.pdf da norma Lei Complementar nº 384, de 30 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2010/83/lei_comp_n_384_promulgada.pdf",
+      "ano": 2010,
+      "norma": 719
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/84/lei_comp_n_431_anexo_i.pdf da norma Lei Complementar nº 431, de 04 de outubro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2011/84/lei_comp_n_431_anexo_i.pdf",
+      "ano": 2011,
+      "norma": 530
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/85/lei_comp_n_431_anexo.pdf da norma Lei Complementar nº 431, de 04 de outubro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2011/85/lei_comp_n_431_anexo.pdf",
+      "ano": 2011,
+      "norma": 530
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/86/lei_comp_n_467_anexo_i.pdf da norma Lei Complementar nº 467, de 04 de setembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2012/86/lei_comp_n_467_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 499
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/87/lei_comp_n_467_anexo_ii.pdf da norma Lei Complementar nº 467, de 04 de setembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2012/87/lei_comp_n_467_anexo_ii.pdf",
+      "ano": 2012,
+      "norma": 499
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo:  da norma Lei nº 2.554, de 14 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": null,
+      "ano": 2018,
+      "norma": 2957
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/92/anexo_i_-_organograma.pdf da norma Resolução nº 526, de 23 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I -ORGANOGRAMA",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2008/92/anexo_i_-_organograma.pdf",
+      "ano": 2008,
+      "norma": 4968
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/93/anexo_ii_-_cargos_comissionados.pdf da norma Resolução nº 526, de 23 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - CARGOS COMISSIONADOS",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2008/93/anexo_ii_-_cargos_comissionados.pdf",
+      "ano": 2008,
+      "norma": 4968
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/94/anexo_iii_-_funcoes_de_confianca.pdf da norma Resolução nº 526, de 23 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III-FUNÇÕES DE CONFIANÇA",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2008/94/anexo_iii_-_funcoes_de_confianca.pdf",
+      "ano": 2008,
+      "norma": 4968
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/95/anexo_iv_-_atribuicoes_dos_orgaos_administrativos.pdf da norma Resolução nº 526, de 23 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - ATRIBUIÇÕES DOS ÓRGÃOS ADMINISTRATIVOS DA CÂMARA MUNICIPAL DE PORTO VELHO.",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2008/95/anexo_iv_-_atribuicoes_dos_orgaos_administrativos.pdf",
+      "ano": 2008,
+      "norma": 4968
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1992/97/lei_1.017.pdf da norma Lei nº 1.017, de 15 de maio de 1992",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei nº 1.017 de 15/05/1992",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/1992/97/lei_1.017.pdf",
+      "ano": 1992,
+      "norma": 2149
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/98/retificacao_da_resolucao_n_647.pdf da norma Resolução nº 647, de 08 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2021/98/retificacao_da_resolucao_n_647.pdf",
+      "ano": 2021,
+      "norma": 13343
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/99/retificacao_da_resolucao_n_653.pdf da norma Resolução nº 653, de 23 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2021/99/retificacao_da_resolucao_n_653.pdf",
+      "ano": 2021,
+      "norma": 13346
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/100/retificacao_da_lei_n._2.809_de_10_de_maio_de_2021.pdf da norma Lei nº 2.809, de 10 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2021/100/retificacao_da_lei_n._2.809_de_10_de_maio_de_2021.pdf",
+      "ano": 2021,
+      "norma": 13037
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/102/lei-comp-n-311-anexo-unico-plano-diretor.pdf da norma Lei Complementar nº 311, de 30 de junho de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "Plano Diretor",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2008/102/lei-comp-n-311-anexo-unico-plano-diretor.pdf",
+      "ano": 2008,
+      "norma": 693
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/103/lei_comp._no_839_de_04.02.2021.pdf da norma Lei Complementar nº 839, de 04 de fevereiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Saneamento Básico",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2021/103/lei_comp._no_839_de_04.02.2021.pdf",
+      "ano": 2021,
+      "norma": 12596
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/104/retificacao_da_resolucao_da_mesa_diretora_n_33_cmpv_2021_de_09_de_agosto_de_2021-_assessor.pdf da norma Resolução da Mesa nº 33, de 09 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "RETIFICAÇÃO DA RESOLUÇÃO DA MESA DIRETORA N° 33/CMPV2021 DE 09 DE AGOSTO DE 2021.\r\n\r\n\r\n“DISPÕE SOBRE A CONCESSÃO DE DIÁRIAS”.",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2021/104/retificacao_da_resolucao_da_mesa_diretora_n_33_cmpv_2021_de_09_de_agosto_de_2021-_assessor.pdf",
+      "ano": 2021,
+      "norma": 14855
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/105/retificacao_da_resolucao_da_mesa_diretora_n_35_cmpv_2021_de_19_de_agosto_de_2021.pdf da norma Resolução da Mesa nº 35, de 19 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "RETIFICAÇÃO DA RESOLUÇÃO DA MESA DIRETORA N° 35/CMPV2021 DE 19 DE AGOSTO DE 2021.\r\n\r\n\r\n“DISPÕE SOBRE A CONCESSÃO DE DIÁRIAS”.",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2021/105/retificacao_da_resolucao_da_mesa_diretora_n_35_cmpv_2021_de_19_de_agosto_de_2021.pdf",
+      "ano": 2021,
+      "norma": 14862
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1989/107/resolucao__n_162_de_03_agosto_de_1989.pdf da norma Resolução nº 162, de 03 de agosto de 1989",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/1989/107/resolucao__n_162_de_03_agosto_de_1989.pdf",
+      "ano": 1989,
+      "norma": 15890
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1980/108/decreto_1194_28-07-1980.pdf da norma Decreto nº 1.194, de 28 de julho de 1980",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "TABELAS DE FARMÁCIAS DE PLANTÃO.",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/1980/108/decreto_1194_28-07-1980.pdf",
+      "ano": 1980,
+      "norma": 15503
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1980/109/decreto_1212_25-09-1980.pdf da norma Decreto nº 1.212, de 25 de setembro de 1980",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "Escala e Tabela de Plantão das Farmácias e Drogarias no Município de Porto Velho.",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/1980/109/decreto_1212_25-09-1980.pdf",
+      "ano": 1980,
+      "norma": 15537
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/111/plano_municipal_de_educacao.pdf da norma Lei nº 2.228, de 24 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2015/111/plano_municipal_de_educacao.pdf",
+      "ano": 2015,
+      "norma": 967
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/115/anexo_lei_no_1.797_de_23.12.08.pdf da norma Lei nº 1.797, de 23 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2008/115/anexo_lei_no_1.797_de_23.12.08.pdf",
+      "ano": 2008,
+      "norma": 4541
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/119/lei_no_1.625_de_26.10.05_anexo_alteracao_da_ldo..pdf da norma Lei nº 1.625, de 26 de outubro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2005/119/lei_no_1.625_de_26.10.05_anexo_alteracao_da_ldo..pdf",
+      "ano": 2005,
+      "norma": 1581
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/120/anexo_da_lei_n_1.741.pdf da norma Lei nº 1.741, de 01 de agosto de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.portovelho.ro.leg.br/media/sapl/public/anexonormajuridica/2007/120/anexo_da_lei_n_1.741.pdf",
+      "ano": 2007,
+      "norma": 2203
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/691d3365ef36b0f9387ce9b8400e96cae4b6b4cd108516b06b2096fdd399adb7.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.portovelho.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "013497ff3cc8f628957e2d5687c42816a6f3b99a7c2c08eeb0d0cd7841452f5b",
+      "bytes": 28865,
+      "capturado_em": "2026-10-27T20:30:14.277642-03:00"
+    }
+  ]
+}

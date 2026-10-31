@@ -1,0 +1,270 @@
+---
+titulo: "Resolução Legislativa nº 35, de 27 de outubro de 2011"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução Legislativa"
+numero: "35"
+data: "2011-10-27"
+municipio: "Carmo do Paranaíba"
+uf: "MG"
+codigo_ibge: "3114303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.carmodoparanaiba.mg.leg.br/norma/519"
+fonte_texto: "https://sapl.carmodoparanaiba.mg.leg.br/ta/108/text"
+sha256_fonte: "83fefc8ca881c323f53f2b6e404e45850f2c7c8604045a339562f74c10501b24"
+sha256_texto: "512c73277b28e0a1e308c753af20cd4e5b14721e89f30681d1b73963e50bca52"
+capturado_em_fonte: "2026-10-27T22:35:24.754071-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução Legislativa nº 35, de 27 de outubro de 2011
+
+Institui o “Parlamento Jovem” no âmbito da Câmara Municipal de Carmo do Paranaíba e dá outras providências.
+
+
+A Mesa Diretora da Câmara Municipal de Carmo do Paranaíba, Estado de Minas Gerais, de conformidade com o disposto no inciso I, do art. 69, da Lei Orgânica Municipal, promulga a seguinte Resolução.
+
+
+Art. 1º.
+
+Fica instituído o projeto “Parlamento Jovem”, no âmbito da Câmara Municipal, que tem por objetivo incentivar a comunidade estudantil a se organizar como sociedade civil e participar da vida política da cidade de Carmo do Paranaíba e do País.
+
+
+Art. 2º.
+
+O Parlamento Jovem abrange a participação dos alunos matriculados regularmente em todas as séries do ensino médio, escolhidos em processo eleitoral realizado sob a responsabilidade dos estabelecimentos de ensino integrantes da rede pública e particular.
+
+
+Art. 3º.
+
+Para participar do Parlamento Jovem, as escolas devem se inscrever junto à Câmara Municipal, obedecendo aos seguintes critérios:
+
+
+I –
+
+definição do tema a ser trabalhado junto às escolas;
+
+
+II –
+
+os alunos deverão ter entre 15 e 17 anos de idade;
+
+
+III –
+
+cada escola participante deverá eleger um delegado a cada 60(sessenta) alunos participantes das oficinas a serem realizadas periodicamente nos estabelecimentos;
+
+
+IV –
+
+trimestralmente serão realizadas na Câmara Municipal reuniões do Parlamento Jovem para otimizar os trabalhos realizados junto aos estabelecimentos de ensino;
+
+
+V –
+
+a finalização do projeto se dará com a realização, no mês de novembro de cada ano, de uma Assembleia Geral do Parlamento Jovem, com a participação de todos os alunos envolvidos no projeto, representados pelos Delegados eleitos.
+
+
+Art. 4º.
+
+Constituem objetivos específicos do Parlamento Jovem:
+
+
+I –
+
+sensibilizar professores, funcionários de escolas e pais de alunos para participarem do Parlamento Jovem e apresentarem sugestões para o seu aperfeiçoamento;
+
+
+II –
+
+proporcionar a circulação de informação nas escolas sobre projetos, leis e ativi-dades gerais da Câmara Municipal de Carmo do Paranaíba;
+
+
+III –
+
+possibilitar aos alunos o acesso aos Vereadores da Câmara Municipal de Carmo do Paranaíba e conhecimento de suas propostas apresentadas no legislativo em prol da comunidade;
+
+
+IV –
+
+favorecer atividades de discussão e reflexão sobre os problemas da cidade que mais afetam à população.
+
+
+Art. 5º.
+
+O Parlamento Jovem se desenvolverá através das seguintes atividades:
+
+
+I –
+
+capacitação dos agentes que irão trabalhar junto às escolas, ministrando cursos sobre o funcionamento do Poder Legislativo, palestras e oficinas sobre o tema a ser abordado;
+
+
+II –
+
+reuniões dos agentes com os diretores das escolas públicas e particulares para esclarecimento do projeto;
+
+
+III –
+
+reuniões dos agentes com os professores das instituições de ensino inscritas no projeto;
+
+
+IV –
+
+realização de cursos, palestras e oficinas nas escolas participantes;
+
+
+V –
+
+elaboração pelos alunos de cada instituição de um documento preliminar sobre o tema a ser tratado;
+
+
+VI –
+
+realização de Reuniões Plenárias nas instituições para a discussão e redação do documento final a ser encaminhado para o Parlamento Jovem, com a respectiva eleição dos delegados que irão representar a sua comunidade escolar, respeitando a proporcionalidade estabelecida no inciso II, do Art. 3° desta Resolução;
+
+
+VII –
+
+realização de exposições, apresentações musicais e teatrais, entre outras, a serem apresentadas durante a semana em que se realizar a Assembleia Geral do Parla-mento Jovem.
+
+
+§ 1º
+
+Para efeito do disposto nesta Resolução e nos termos de seu regulamento, são “Agentes do Parlamento Jovem”, os universitários matriculados em instituições de ensino superior, conveniadas para participarem do programa, ou, ainda, os alunos especialmente designados para esse fim, pela direção dos estabelecimentos de ensino inscritos no programa.
+
+
+§ 2º
+
+Nos termos do regulamento e do Regimento Interno do Parlamento Jovem, em etapa prévia, serão desenvolvidas oficinas teóricas e práticas sobre tema específico, tais como:
+
+
+I –
+
+Democracia, Cidadania, e Participação Política;
+
+
+II –
+
+Ética Pública e Cidadania;
+
+
+III –
+
+Participação Popular no Processo Legislativo;
+
+
+IV –
+
+Turismo e Meio Ambiente;
+
+
+V –
+
+Saneamento e Meio Ambiente;
+
+
+VI –
+
+Violência nas Escolas;
+
+
+VII –
+
+O jovem e a violência: provocador ou vítima;
+
+
+VIII –
+
+Violência associada às drogas;
+
+
+IX –
+
+Trânsito e violência urbana;
+
+
+X –
+
+Funcionamento dos Poderes Municipais;
+
+
+XI –
+
+Orçamento e Planejamento;
+
+
+XII –
+
+Redação;
+
+
+XIII –
+
+Entrosamento;
+
+
+XIV –
+
+Outros previamente definidos no momento do lançamento anual do projeto.
+
+
+§ 3º
+
+Anualmente, por Portaria, será baixado o regulamento do Parlamento Jovem, que abordará o tema previamente determinado pela Câmara Municipal.
+
+
+§ 4º
+
+Disporá o regulamento, de forma alternada e anualmente, sobre a escolha dos “Agentes do Parlamento Jovem”.
+
+
+Art. 6º.
+
+As datas de execução de cada etapa do projeto serão definidas em regulamento próprio a ser editado por Portaria e, no mês de novembro de cada ano, será realizada a Assembleia Geral do Parlamento Jovem, evento em que serão debatidos os temas abordados pelos estudantes e votadas suas reivindicações, conforme o cronograma de trabalho realizado no decorrer do ano letivo.
+
+
+Art. 7º.
+
+As propostas apresentadas e aprovadas pelos Delegados serão compiladas e encaminhadas ao Poder Legislativo através da Comissão de Legislação, Justiça e Redação, podendo ser dada em forma de requerimentos, indicações, anteprojetos ou projetos, observadas as condições legais e constitucionais de cada matéria.
+
+
+§ 1º
+
+Para efeito do disposto no “caput” deste artigo, fica autorizada a utilização do Plenário da Câmara Municipal para a votação das respectivas propostas.
+
+
+§ 2º
+
+A tramitação das propostas aprovadas, nos termos deste artigo, na Comissão de Legislação, Justiça e Redação, seguirá o rito estabelecido no Regimento Interno da Câmara Municipal.
+
+
+Art. 8º.
+
+Para a realização das atividades externas, propostas para os estabelecimentos de ensino, fica o Poder Legislativo Municipal autorizado a firmar convênio com quaisquer entidades de ensino superior e organizações não governamentais.
+
+
+Art. 9º.
+
+As despesas decorrentes da execução da presente resolução serão suportadas por dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 10.
+
+Esta resolução entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Carmo do Paranaíba/MG, 27 de outubro de 2011.
+
+
+**Mary de Lourdes Costa F. Marques Geraldo José Brandão**
+
+\- Presidente da Câmara - - Vice-Presidente -
+
+**João Vaz de Oliveira**
+
+\- Secretário -
+

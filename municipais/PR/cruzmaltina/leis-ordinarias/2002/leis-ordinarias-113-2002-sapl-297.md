@@ -1,0 +1,252 @@
+---
+titulo: "Lei Ordinária nº 113, de 23 de dezembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "113"
+data: "2002-12-23"
+municipio: "Cruzmaltina"
+uf: "PR"
+codigo_ibge: "4106852"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2025-05-06; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cruzmaltina.pr.leg.br/norma/297"
+fonte_texto: "https://sapl.cruzmaltina.pr.leg.br/ta/104/text"
+sha256_fonte: "58145ce5ac17b7ccc4466db62c2e7135dd8b8af622aa51284f5188b4ae0c150c"
+sha256_texto: "a9c6e36551dd766b2c20a9d568d3f5edf723a44f736431d95dbde9ff388c238e"
+capturado_em_fonte: "2026-10-28T09:33:25.853273-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 113, de 23 de dezembro de 2002
+
+0 Prefeito Municipal de Cruzmaltina, Estado do Paraná, Sr. José Carlos Pastori, no uso das atribuições legais que lhe são conferidas na Lei Orgânica Municipal, faz saber que; a Câmara Municipal aprovou e sanciona esta Lei.
+
+
+Alteração de rótulo feita pelo Art. 1º. - Lei Ordinária nº 851, de 06 de maio de 2025.
+
+
+Art. 1º.
+
+Nos termos do artigo 149-A da Constituição Federal, fica instituída a Contribuição para Custeio e Manutenção do Serviços de Iluminação Publica - COSIP - no Município de Cruzmaltina - PR.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 851, de 06 de maio de 2025.
+
+
+§ 1º
+
+O serviço previsto no caput deste artigo compreende a iluminação de vias, logradouros e demais bens públicos; instalação, manutenção, melhoramento, e expansão da rede de iluminação publica.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 851, de 06 de maio de 2025.
+
+
+§ 2º
+
+Contribuição para Custeio e Manutenção do Serviço de Iluminação Pública - COSIP - tem como fato gerador a utilização efetiva ou potencial dos serviço mencionados no parágrafo anterior, prestados ou posto à disposição do contribuinte.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 851, de 06 de maio de 2025.
+
+
+Art. 2º.
+
+A contribuição incide sobre a propriedade, domínio útil ou a posse a qualquer titulo de imóveis edificados ou não, situados no Município de Cruzmaltina.
+
+
+Art. 3º.
+
+O Sujeito passivo desta obrigação tributária é o proprietário, o titular do domínio útil ou possuidor a qualquer titulo, de imóveis edificado ou não, situados no Município de Cruzmaltina.
+
+
+§ 1º
+
+Considera-se sujeito passivo solidário da COSIP, o locatário, comodatário, meeiro arrendatário e o possuidor a qualquer titulo, de imóvel edificado, situado no Município e que tenha ligação privada e regular de energia elétrica.
+
+
+§ 2º
+
+O lançamento da contribuição será efetuado em nome daquele que figurar no cadastro imobiliário da divisão de tributação do ente municipal ou dos registros da empresa concessionária da distribuição de energia elétrica.
+
+
+§ 3º
+
+
+§ 4º
+
+Os lançamentos serão efetuados para cada unidade imobiliária cadastrada no Município ou na empresa concessionária de energia.
+
+
+Art. 4º.
+
+O valor da COSIP será fixo, em moeda corrente, sendo lançado anualmente para os imóveis não edificados e mensalmente para os edificados.
+
+
+Art. 5º.
+
+A contribuição será variável de acordo com a área, edificação, quantidade de consumo e categoria de consumidor residencial, comercial ou industrial do imóvel.
+
+
+Art. 6º.
+
+Para o exercício de 2003, ficam estabelecidos os seguintes valores para a COSIP :
+
+
+I –
+
+contribuintes proprietários, titulares de domínio útil ou possuidores a qualquer titulo de imóveis não edificados:
+
+
+a)
+
+área de até 150 m2: COSIP= R$ 10,00 ao ano;
+
+
+b)
+
+área de 151 até 300 m2; COSIP= R$ 20,00 ao ano;
+
+
+c)
+
+área de 301 até 450 m2: COSIP= R$ 30,00 ao ano;
+
+
+d)
+
+área de 301 até 450 m2: COSIP= R$ 30,00 ao ano;
+
+
+e)
+
+área de 451 até 600 m2: COSIP= R$ 40,00 ao ano;
+
+
+f)
+
+área superior a 600 m2: COSIP= R$ 50,00 ao ano.
+
+
+II –
+
+contribuintes proprietários, titular de domínio útil ou possuidores a qualquer titulo de imóveis edificados que possuam ligação regular e privada de energia elétrica:
+
+
+a)
+
+classe residencial:
+
+I - até 30 KWH de consumo mensal: COSIP= R$ 0,72 ao mês
+
+II- de 30 a 50 KWH de consumo mensal: COSIP= R$ 0,89 ao mês;
+
+III - de 50 a 70 KWH de consumo mensal: COSIP= R$ 3,22 ao mês;
+
+IV- de 70 á 90 KWH de consumo mensal: COSIP= R$ 4,84 ao mês;
+
+V- de 90 á 120 KWH de consumo mensal: COSIP= R$ 6,57 ao mês;
+
+VI- de 120 á 200 KWH de consumo mensal: COSIP= R$ 10,41 ao mês;
+
+VII - de 200 a 350 KWH de consumo mensal: COSIP= R$ 11,43 ao mês;
+
+VIII- de 350 a 600 KWH de consumo mensal: COSIP= R$ 13,84 ao mês;
+
+IX- de 600 á 1.000 EWH de consumo mensal COSIP= R$ 15,05 ao mês;
+
+X - acima de 1.000 KWH de consumo mensal: COSIP= R$ 16,25 ao mês,
+
+
+b)
+
+classe comercial:
+
+I - até 30 KWW de consumo mensa COSIP= R$ 0,72 ao mês
+
+II- de 30 á 50 KWH de consumo mensal: COSIP= R$ 0,89 ao mês;
+
+III - de 50 a 70 KWH de consumo mensal: COSTP= R$ 3,22 ao mês;
+
+IV- de 70 a 90 KWH de consumo wensal: COSIP= R$ 4,84 ao mês
+
+V- de 90 á 120 KWH de consumo mensal: COSIP= R$ 6,57 ao mês;
+
+VI- de 120 á 200 KWH de consumo mensal: COSIP= R$ 10,41 ao mês;
+
+VII- de 200 a 350 KWH de consumo mensal: COSIP= R$ 11,43 ao mês;
+
+VIII- de 350 a 500 KWH de consumo mensal: COSIP= R$13,84 ao mês;
+
+IX- de 500 á 600 KWH de consumo mensal: COSTP= R$ 20,75 ao mês;
+
+X - de 600 a 1.000 KWH de consumo mensal: COSIP= R$ 22,56 ao mês;
+
+XI- de 1.000 & 1.500 KWH de consumo mensal: COSIP= R$ 24,39 ao mês;
+
+XII- acima de 1.500 KWH de consumo wensal: COSIP= R$ 32,50 ao mês;
+
+
+c)
+
+classe industrial I - até 30 KWH de consumo mensal: COSIP= R$ 0,72 ao mês II- de 30 á 50 KWH de consumo mensal: COSIP= R$ 0,89 ao mês; III- de 50 á 70 KWH de consumo mensal: COSIP= R$ 3,22 ao mês; IV- de 70 á 90 KWH de consumo mensal: COSIP= R$ 4,84 ao mês V- de 90 a 120 KWH de consumo mensal: COSIP= R$ 6,57 ao mês VI- de 120 a 200 KWH de consumo mensal: COSIP= R$ 10,41 ao mês; VII- de 200 a 350 KWH de consumo mensal: COSIP= R$ 11,43 ao mês VIII- de 350 á 600 KWH de consumo mensal: COSIP= R$ 13,84 ao mês; IX - de 600 a 1.000 KWH de consumo mensal: COSTP= R$ 15,05; X - de 1.000 a 2.000 KWH de consumo mensal: COSIP= R$ 24,39; XI - acima de 2.000 KWH de consumo mensal: COSIP= R$ 32, 50;
+
+
+§ 1º
+
+A determinação da classe de consumidor observará as normas da Agência Nacional de Energia Elétrica - AN ou órgão regulador que vier a substituí-la.
+
+
+§ 2º
+
+O valor da COSIP para o exercício subsequente a 2003, poderá ser determinado aplicando-se aos valores definidos neste artigo, a variação da inflação anual medida pelo IGPM/FGV, ou outro índice de preços que vier a ser aplicado para correção dos tributos municipais.
+
+
+§ 3º
+
+
+Art. 7º.
+
+O lançamento da COSIP devida pelo proprietário, titular de domínio útil ou possuidor a qualquer titulo do imóvel não edificado, será feito anualmente juntamente com o IPTU ou não, pelo município na forma disposta em regulamento próprio, o qual deverá estabelecer o prazo de pagamento da contribuição.
+
+
+Art. 8º.
+
+A COSIP devida proprietário titular de domínio útil ou possuidor a qualquer titulo do imóvel que tenha ligação regular e privada de energia elétrica, será lançada mensalmente e será paga juntamente com a fatura mensal de energia elétrica, na forma de convênio a ser firmado entre o ente municipal e a empresa concessionária distribuidora de energia elétrica.
+
+
+§ 1º
+
+O convênio a que se refere este artigo deverá, obrigatoriamente, prever repasse imediato do valor arrecadado pela concessionária ao Município, sendo admitida a compensação dos montantes necessários ao pagamento da energia fornecida para iluminação, dos valores fixados para remuneração dos custos de arrecadação e de débitos que, eventualmente, tenham ou venham a ter o Município com a concessionária.
+
+
+§ 2º
+
+O montante da COSIP devida e não paga a que se refere o "caput” deste artigo, será pela autoridade competente inscrita em dívida ativa no mês seguinte a verificação da inadimplência, servindo como título hábil para à inscrição a comunicação de inadimplência efetuada pela concessionaria acompanhada de duplicata da fatura de energia elétrica não paga.
+
+
+Art. 9º.
+
+Fica criado o Fundo Municipal de Iluminação Publica - FUMIP - de natureza contábil e administrado pela Tesouraria do Município, para o qual deverão ser destinados todos os recursos arrecadados com a COSIP para o custeio do serviços de iluminação pública.
+
+
+Parágrafo único
+
+Todos os valores decorrentes da arrecadação da contribuição de que trata esta Lei, serão depositados em conta específica para controle individual.
+
+
+Art. 10.
+
+O Poder Executivo deverá regulamentar a aplicação desta Lei, podendo firmar o convênio a se refere o caput do artigo 8°, no prazo de trinta dias após sua publicação.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, revogando- e a Lei Municipal n. 029/97 e demais disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Cruzmaltina/PR., aos 23 dias do mês de dezembro de 2002.
+
+
+José Carlos Pastori
+
+Prefeito Munticipal
+

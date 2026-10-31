@@ -1,0 +1,230 @@
+---
+titulo: "Lei-CMC nº 3.458, de 03 de dezembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3458"
+data: "2014-12-03"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6959"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4815/text"
+sha256_fonte: "d904fcef4a97b491b4615d220331625cd3f4ae790b3a431674d7ce31d8c19b7c"
+sha256_texto: "b5f9edecebdcaa8e974b8e8c7042f6a3060915cff12695a431d33cf88e225d01"
+capturado_em_fonte: "2026-10-28T03:41:02.175769-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.458, de 03 de dezembro de 2014
+
+MODERNIZA AS ÁREAS ESPECIAIS PARA ESTACIONAMENTO POR TEMPO LIMITADO, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou e eu, Prefeito sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a modernizar, nas vias e logradouros públicos de Congonhas, as áreas especiais para o estacionamento rotativo de veículos automotores de passageiros e de carga, com capacidade de até 4.000 (quatro mil) quilos, e motocicletas, por tempo limitado e mediante pagamento dos preços estabelecidos para sua ocupação.
+
+
+Art. 2º.
+
+O sistema de estacionamento objeto desta lei é denominado "ROTATIVO SOCIAL CONGONHAS".
+
+
+Art. 3º.
+
+Não se incluem neste sistema de estacionamento:
+
+
+a)
+
+as áreas situadas em frente a hospitais;
+
+
+b)
+
+as áreas destinadas a ponto de veículos de aluguel.
+
+
+Parágrafo único
+
+Estas áreas deverão ser perfeitamente sinalizadas.
+
+
+Art. 4º.
+
+Nas vias e logradouros públicos onde existem locais delimitados e horários estabelecidos para carga e descarga de mercadorias, a operação do sistema de estacionamento ora instituído só será feita fora daqueles horários, assim como os veículos de carga estacionados fora dos horários estabelecidos ficarão sujeitos ao sistema "ROTATIVO SOCIAL CONGONHAS".
+
+
+Art. 5º.
+
+O Município reservará nas áreas de estacionamento de que trata a presente Lei, 7% (sete por cento) das vagas, sendo 2% (dois por cento) para veículos condutores de pessoas portadoras de deficiências e 5% (cinco por cento) para veículos condutores de pessoas acima de 65 anos de idade.
+
+
+Parágrafo único
+
+A localização das vagas a serem reservadas de que trata o caput deste artigo serão definidas proporcionalmente dentre as vagas existentes devidamente sinalizadas;
+
+
+Art. 6º.
+
+Estarão isentos do pagamento da tarifa de estacionamento do “ROTATIVO CONGONHAS”:
+
+
+a)
+
+veículos oficiais da União, dos Estados e do Município, bem como os de uso das empresas e autarquias públicas, desde que em serviço;
+
+
+b)
+
+veículos de transporte de passageiros (táxis), quando estacionados em seus respectivos pontos;
+
+
+c)
+
+veículos de transporte coletivo (ônibus), quando estacionados em seus pontos de parada.
+
+
+Art. 7º.
+
+As motocicletas terão locais previamente estabelecidos por ato do Executivo, ficando expressamente proibido o seu estacionamento fora daqueles locais.
+
+
+Art. 8º.
+
+O horário de estacionamento nos locais abrangidos pelo "ROTATIVO CONGONHAS" compreenderá o período das 7:00 às 19:00 horas, das segundas às sextas-feiras, e das 8:00 às 13:00 horas, aos sábados.
+
+
+Parágrafo único
+
+Em épocas especiais e ou datas comemorativas e de conformidade com o comportamento do comércio, o horário ora estabelecido poderá ser ampliado por ato do Executivo, ouvidos sempre o Órgão de Trânsito do Município e a Associação Comercial e Empresarial de Congonhas.
+
+
+Art. 9º.
+
+O tempo máximo e mínimo de estacionamento será definido por ato do Executivo, após os estudos técnicos elaborados, considerando a ocupação, e rotatividade em cada local.
+
+
+Art. 10.
+
+Constituem infrações à presente lei:
+
+
+a)
+
+estacionar o veículo nas áreas regulamentadas sem a utilização dos equipamentos de controle de estacionamento do “ROTATIVO SOCIAL CONGONHAS”;
+
+
+b)
+
+utilizar os equipamentos de controle de estacionamento do “ROTATIVO SOCIAL CONGONHAS” de forma incorreta, contrariando as instruções nele inseridas;
+
+
+c)
+
+ultrapassar o tempo máximo de estacionamento na mesma vaga;
+
+
+d)
+
+estacionar em local demarcado por faixas amarelas ou fora do espaço delimitado para vaga;
+
+
+e)
+
+utilizar a vaga de deficiente físico sem sê-lo ou sem estar transportando-o;
+
+
+f)
+
+utilizar a vaga de pessoas com mais de 65 (sessenta e cinco) anos de idade transportando-o ou sem sê-lo.
+
+
+Parágrafo único
+
+A fiscalização do estacionamento rotativo, para efeito de notificação, ficará a cargo dos Agentes de Trânsito e Polícia Militar no que couber.
+
+
+Art. 11.
+
+Na hipótese do veículo exceder o período de estacionamento estabelecido, conforme determina o art. 8º, ou se o proprietário ou preposto deixar de pagar o valor devido, ou ainda no caso de motocicletas estacionadas em locais não autorizados, o responsável deverá regularizar sua situação mediante o pagamento da diária de estacionamento do “ROTATIVO SOCIAL CONGONHAS”, no valor correspondente a 10 vezes o valor da tarifa de 1 hora do sistema de estacionamento, no prazo máximo de 24 (vinte e quatro) horas após ter sido notificado pela fiscalização.
+
+
+Parágrafo único
+
+Os infratores ficarão sujeitos ainda às penalidades previstas no CTB – Código de Trânsito Brasileiro e, inclusive, quando for o caso, à imobilização e remoção do veículo para o pátio competente.
+
+
+Art. 12.
+
+Fica o Executivo Municipal autorizado a outorgar a terceiros, mediante licitação e quanto aos atos de consentimento e fiscalização, concessão para a gestão do serviço público de controle do estacionamento rotativo nas vias e logradouros públicos de Congonhas, na forma da presente Lei.
+
+
+Art. 13.
+
+O gerenciamento e o controle do estacionamento rotativo de veículos nas vias e logradouros públicos de Congonhas se dará através de equipamentos eletrônicos de controle de estacionamento – parquímetros, que permitam total controle da arrecadação, aferição de receitas e auditoria permanente por parte do Poder Público.
+
+
+Parágrafo único
+
+Na sua falta poderá ser usado o talonário do Estacionamento Rotativo Pago que poderão ser adquiridos pelos motoristas ou condutores junto aos pontos credenciados e ou pessoas habilitadas para tal fim.
+
+
+Art. 14.
+
+Na hipótese de concessão do sistema de estacionamento à iniciativa privada, o prazo da concessão será de 10 (dez) anos, podendo ser prorrogável por igual período.
+
+
+Art. 15.
+
+A empresa concessionária deverá se incumbir, sem ônus para o Município, de fornecer, instalar e conservar os equipamentos de controle de estacionamento empregados no sistema, bem como de realizar todas as obras, inclusive sinalização viária do sistema de estacionamento rotativo que se fizerem necessárias à operação da concessão.
+
+
+Art. 16.
+
+O preço relativo ao tempo de uso do estacionamento, inclusive sua política tarifária, será fixado por meio de Decreto Municipal, antes do início da licitação.
+
+
+Parágrafo único
+
+A periodicidade, o índice e o critério de reajuste deverão ser fixados no termo de outorga da concessão.
+
+
+Art. 17.
+
+Ao Poder Público Municipal e à concessionária não caberá qualquer responsabilidade por acidentes, danos, furtos ou prejuízos de qualquer natureza que os veículos dos usuários venham a sofrer nos locais de estacionamento, não sendo exigível da concessionária a manutenção de qualquer tipo de seguro contra esses eventos.
+
+
+Art. 18.
+
+As disposições contidas nesta lei serão regulamentadas por Decreto Municipal.
+
+
+Art. 19.
+
+As despesas decorrentes desta lei correrão por conta de dotações orçamentárias próprias, suplementadas, se necessário.
+
+
+Art. 20.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 21.
+
+Fica revogada a Lei nº 3.227, de 28 de dezembro de 2012.
+
+
+Congonhas, 3 de dezembro de 2014.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

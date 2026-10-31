@@ -1,0 +1,95 @@
+---
+titulo: "Decreto nº 20.846, de 17 de março de 2025"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.846"
+data: "2025-03-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27548"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5133/text"
+sha256_fonte: "eeaa1110eef9b6dc8e4aa77500ce93242e21224a366d79c8349cb4eadeed5337"
+sha256_texto: "6d289f721aa5b44dd4a34f704a49bf1ac4623756d880cabbc8983f118c9d04d8"
+capturado_em_fonte: "2026-10-21T03:30:31.386253-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 20.846, de 17 de março de 2025
+
+Fixa os valores das Tarifas Públicas do Serviço de Transporte Coletivo Urbano por Ônibus no Âmbito do Município de Porto Velho.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe são conferidas no art. 87, incisos IV e XXII, art. 118, caput e parágrafo único e no art. 142, inciso IV, todos da Lei Orgânica do Município de Porto Velho, bem como na Lei nº 2.898, de 16 de dezembro de 2021.
+
+**CONSIDERANDO** que não houve revisão tarifária nos anos de 2023 e 2024;
+
+**CONSIDERANDO** a previsão do art. 118 da Lei Orgânica do Município, o qual estabelece que as tarifas de serviços públicos deverão cobrir os seus custos, sendo reajustáveis quando se tornarem deficientes ou excedentes;
+
+**CONSIDERANDO** que a Lei Federal nº 12.587, de 3 de janeiro de 2012, estabelece que a remuneração da prestação do serviço de transporte público coletivo deverá ser constituída pelo preço público (tarifa pública) cobrado do usuário pelos serviços, somado à receita oriunda de outras fontes de custeio, de forma a cobrir os reais custos do serviço prestado ao usuário por operador público ou privado, além da remuneração do prestador;
+
+**CONSIDERANDO**, que devem ser permanentemente mantidas as diretrizes das Leis Federais nº 8.987, de 13 de fevereiro de 1995 e nº 12.587, de 3 de janeiro de 2012 e da Lei nº 2.898, de 16 de dezembro de 2021, quanto à modicidade da tarifa pública para os usuários, sem comprometer a sustentabilidade do serviço público de transporte coletivo;
+
+**CONSIDERANDO** que a implementação de tarifas mais baixas no transporte urbano municipal estimula o crescimento do número de passageiros/usuários, medida autorizada nos termos do art. 2º, § 1º, da Lei nº 2.898, de 16 de dezembro de 2021; e
+
+**CONSIDERANDO** que o presente ato representa ainda, uma ação para suavizar os  
+obstáculos da mobilidade urbana.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica estabelecido o valor da tarifa pública básica, reajustado pela fórmula paramétrica contratual, em razão da variação dos custos setoriais de R$ 6,18 (seis reais e dezoito centavos).
+
+
+Art. 2º.
+
+Além da tarifa referenciada, ficam estabelecidos os seguintes valores referentes à  
+tarifa social:
+
+
+I –
+
+R$ 3,00 (três reais) para tarifa pública paga em **dinheiro**;
+
+
+II –
+
+R$ 3,00 (três reais) para a tarifa pública adquirida antecipadamente, através de créditos  
+eletrônicos, mediante as modalidades **COM CARD Cidadão** e **Vale-transporte**;
+
+
+III –
+
+R$ 1,50 (um real e cinquenta centavos) para a tarifa pública adquirida antecipadamente, através de créditos eletrônicos, mediante o cartão **COM CARD Estudante** e somente quando os mesmos forem adquiridos diretamente pelo estudante ou seu representante legal.
+
+
+Art. 3º.
+
+O valor da tarifa pública básica será cobrado das pessoas jurídicas de direito público  
+que adquiram créditos tarifários para terceiros.
+
+
+Art. 4º.
+
+Os valores das tarifas públicas fixados neste Decreto passarão a vigorar a partir das  
+00:00h do dia 24 de março de 2025.
+
+
+Art. 5º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revoga-se o Decreto nº 18.699, de 8 de dezembro de 2022.
+
+
+**LEONARDO BARRETO DE MORAES Prefeito**
+

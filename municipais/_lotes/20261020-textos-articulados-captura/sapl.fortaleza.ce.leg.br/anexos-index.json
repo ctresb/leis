@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/rfplc_0047-2017_anexo-2_lc-250_18-2.pdf da norma Lei Complementar nº 250, de 03 de julho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.fortaleza.ce.leg.br/media/sapl/public/anexonormajuridica/2018/1/rfplc_0047-2017_anexo-2_lc-250_18-2.pdf",
+      "ano": 2018,
+      "norma": 5265
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/2/diario-oficial_14457ss.pdf da norma Lei Complementar nº 83, de 29 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Página 51",
+      "anexo_arquivo": "http://sapl.fortaleza.ce.leg.br/media/sapl/public/anexonormajuridica/2010/2/diario-oficial_14457ss.pdf",
+      "ano": 2010,
+      "norma": 314
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/d650a0a56a982ce4c6dc82e54ab1fe8c83676d63cda83c250c1e46cbd1f526b7.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bcc0b87a78e640f697681c77ee36222d5ed96d93dfdd1f031997a4b0d572c869",
+      "capturado_em": "2026-10-20T20:50:45.619776",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.fortaleza.ce.leg.br/d650a0a56a982ce4c6dc82e54ab1fe8c83676d63cda83c250c1e46cbd1f526b7.json"
+    }
+  ]
+}

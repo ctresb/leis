@@ -1,0 +1,78 @@
+---
+titulo: "Lei Ordinária nº 3.348, de 25 de janeiro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3348"
+data: "2018-01-25"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/247"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/250/text"
+sha256_fonte: "4e528150d2ffc1118ea41433fa827e8c567609d41da12f281882575bd4bc6612"
+sha256_texto: "dd772c11f73a6f71e8bb48a95842b2fbc4aa77b0ad097741fd73c49663b73bbe"
+capturado_em_fonte: "2026-10-27T21:39:58.910729-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.348, de 25 de janeiro de 2018
+
+Altera os artigos 9º e 10º da Lei nº 1.115, de 28 de julho de 2003, que cria o Conselho Municipal de Turismo e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+O artigo 9º da Lei nº 1.115, de 28 de julho de 2003, passa a vigorar com a seguinte redação:
+
+“Art. 9º O COMTUR será composto por 18 (dezoito) membros, indicados para um mandato de 02 (dois) anos, podendo haver uma extensão por igual período. ”
+
+
+Art. 2º.
+
+O artigo 10º da Lei nº 1.115, de 28 de julho de 2003, passa a vigorar com a seguinte redação:
+
+“Art. 10º O Conselho Municipal de Turismo - COMTUR terá a seguinte composição:
+
+09 representantes do Poder Público Municipal, sendo, 2 da Secretaria Municipal de Desenvolvimento Econômico e Turismo, 1 da Secretaria Municipal de Planejamento e Meio Ambiente, 1 da Secretaria Municipal de Infraestrutura, 1 da Secretaria Executiva de Cultura e Lazer, 1 da Secretaria Municipal de Educação, 1 da Secretaria Municipal de Defesa Social, 1 da Secretaria Executiva de Juventude e Esportes, e 1 da Superintendência de Desenvolvimento Rural;
+
+09 representantes de Entidades e Sociedade Civil ligadas ao turismo, sendo, 1 de representante do Setor Hoteleiro, 1 representante do Setor de Bares e Restaurantes, 1 representante do segmento de Turismo Rural, 1 representante do Comércio, 1 representante de Passeio turísticos, 1 representante do artesanato cabense, 1 representante do Complexo Industrial Portuário de Suape, 1 representante da Associação Geral Reserva do Paiva, 1 representante de entidade de fomento ao turismo e/ou instituição de Ensino Superior voltada ao turismo;
+
+O COMTUR poderá ter convidados especiais permanentes, quer sejam entidades ou mesmo personalidades, desde que sua indicação seja aprovada em reunião do Conselho Municipal de Turismo;
+
+A presidência do COMTUR será escolhida entre seus membros, por maioria simples durante reunião do Conselho e registrada em Ata.”
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Palácio Conde da Boa Vista, em 25 de janeiro de 2018.
+
+***LUIZ CABRAL DE OLIVEIRA FILHO***
+
+Prefeito
+
+CHANCELAS:
+
+***OSVIR GUIMARÃES THOMAZ.***
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ).
+
+***PAULO FERNANDO MENDES CAMINHA JÚNIOR (SMDET).***
+
+Secretário Municipal de Desenvolvimento Econômico e Turismo.
+
+“Lei decorrente do Projeto de Lei à Sanção nº 001/2018, originário do Anteprojeto de Lei nº 02/2018, de **autoria do Poder Executivo**.”
+
+**Publicado por:**  
+Diego Lira de Almeida  
+**Código Identificador:**48521A68
+

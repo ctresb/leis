@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/portaria_19.2025_-_noomeacao_valeria_procuradora_da_mulher.pdf da norma Portaria nº 19, de 23 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.formosadooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2025/1/portaria_19.2025_-_noomeacao_valeria_procuradora_da_mulher.pdf",
+      "ano": 2025,
+      "norma": 3435
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosadooeste.pr.leg.br/6cf52469a149446003e4779feaccf89c9365d1ce0e2b84b134d053632abf947e.json",
+      "url": "https://sapl.formosadooeste.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.formosadooeste.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a16c6a3cc5496954a0c962982eada28847aa2af000b412133e13a451300866de",
+      "bytes": 632,
+      "capturado_em": "2026-10-28T11:15:07.845126-03:00"
+    }
+  ]
+}

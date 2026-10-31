@@ -1,0 +1,3456 @@
+---
+titulo: "Lei Ordinária nº 2.025, de 11 de outubro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2025"
+data: "2017-10-11"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2022-12-19; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/275"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/60/text"
+sha256_fonte: "c90cedf82283af63c6e62d8f5c387fdd2f09053a0e9b62057195e33e04f156f2"
+sha256_texto: "df48bf284b2b5312b3ad47e61e31447aa98c4bebc974b047c183912e23065bf9"
+capturado_em_fonte: "2026-10-28T13:15:39.335556-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.025, de 11 de outubro de 2017
+
+Institui o Estatuto da Guarda Municipal do Município de Guaíra-PR e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal sanciono a presente lei:
+
+
+### TÍTULO I — DO ESTATUTO DA GUARDA MUNICIPAL
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+A Guarda Municipal de Guaíra é órgão integrante da Administração Direta do Poder Executivo do Município de Guaíra, organizada com base na hierarquia e na disciplina, sob a autoridade suprema do Prefeito Municipal, com a finalidade de garantir segurança aos órgãos, entidades, agentes, usuários e serviços, tendo como princípios norteadores de suas ações:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.135, de 04 de maio de 2020.
+
+
+I –
+
+proteção dos direitos humanos fundamentais, do exercício da cidadania e das liberdades públicas;
+
+
+II –
+
+preservação da vida, redução do sofrimento e diminuição das perdas;
+
+
+III –
+
+patrulhamento preventivo;
+
+
+IV –
+
+compromisso com a evolução social da comunidade; e
+
+
+V –
+
+uso progressivo da força.
+
+
+VI –
+
+controle de situações de emergências e calamidades públicas, causadas pelo ser humano, por epidemias ou desastres naturais."
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 2.135, de 04 de maio de 2020.
+
+
+Art. 2º.
+
+Os uniformes, honras, sinais de respeito, protocolo e cerimonial da Guarda Municipal de Guaíra serão determinados por ato do Chefe do Executivo em regulamentos específicos.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+Art. 3º.
+
+As viaturas, o armamento e os equipamentos a serem usados pela Guarda Municipal poderão ser os mesmos adotados pelos órgãos de segurança pública estaduais e federais, já testados e aprovados ao longo do tempo, podendo também ser equipada com qualquer tipo de arma não letal, sempre obedecendo a cor padrão da Guarda Municipal.
+
+
+§ 1º
+
+O Chefe do Poder Executivo Municipal poderá autorizar o acautelamento de arma de fogo de propriedade do Município aos Guardas Municipais, na forma da Lei ou se houver autorização expressa da Polícia Federal.
+
+
+§ 2º
+
+O armamento de fogo de uso da Guarda Municipal será o permitido pela legislação federal vigente.
+
+
+§ 3º
+
+O porte de arma de fogo funcional do Guarda Municipal será regulado pelas leis federais vigentes.
+
+
+Art. 4º.
+
+A Guarda Municipal de Guaíra, subordinada ao Secretário de Segurança, lotada na Secretaria Municipal de Segurança Pública e Trânsito - SMEST, compete especificamente, ressalvadas as competências dos órgãos federais e estaduais:
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 2.135, de 04 de maio de 2020.
+
+
+I –
+
+coibir, infrações penais ou administrativas e atos infracionais que atentem contra os bens, serviços e instalações municipais;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 2.135, de 04 de maio de 2020.
+
+
+II –
+
+prevenir, inibir e auxiliar no controle de situações de calamidades públicas, tais como as relacionadas a desastres naturais, pandemias e outras congêneres;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 2.135, de 04 de maio de 2020.
+
+
+III –
+
+atuar, preventiva e permanentemente, no território do Município, para a proteção sistêmica da população;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 2.135, de 04 de maio de 2020.
+
+
+IV –
+
+colaborar, de forma integrada com os órgãos de segurança pública, em ações conjuntas que contribuam com a paz social;
+
+
+V –
+
+colaborar com a pacificação de conflitos que seus integrantes presenciarem, atentando para o respeito aos direitos fundamentais das pessoas;
+
+
+VI –
+
+exercer as competências de trânsito que lhes forem conferidas, nas vias e logradouros municipais, nos termos da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), ou de forma concorrente, mediante convênio celebrado com órgão de trânsito estadual ou municipal;
+
+
+VII –
+
+proteger o patrimônio ecológico, histórico, cultural, arquitetônico e ambiental do Município, inclusive adotando medidas educativas e preventivas;
+
+
+VIII –
+
+cooperar com os demais órgãos de defesa civil em suas atividades;
+
+
+IX –
+
+interagir com a sociedade civil para discussão de soluções de problemas e projetos locais voltados à melhoria das condições de segurança das comunidades;
+
+
+X –
+
+estabelecer parcerias com os órgãos estaduais e da União, ou de Municípios vizinhos, por meio da celebração de convênios ou consórcios, com vistas ao desenvolvimento de ações preventivas integradas;
+
+
+XI –
+
+articular-se com os órgãos municipais de políticas sociais, visando à adoção de ações interdisciplinares de segurança no Município;
+
+
+XII –
+
+integrar-se com os demais órgãos de poder de polícia administrativa, visando a contribuir para a normatização e a fiscalização das posturas e ordenamento urbano municipal;
+
+
+XIII –
+
+garantir o atendimento de ocorrências emergenciais, ou prestá-lo direta e imediatamente quando deparar-se com elas;
+
+
+XIV –
+
+encaminhar ao delegado de polícia, diante de flagrante delito, o autor da infração, preservando o local do crime, quando possível e sempre que necessário;
+
+
+XV –
+
+contribuir no estudo de impacto na segurança local, conforme plano diretor municipal, por ocasião da construção de empreendimentos de grande porte;
+
+
+XVI –
+
+desenvolver ações de prevenção primária à violência, isoladamente ou em conjunto com os demais órgãos da própria municipalidade, de outros Municípios ou das esferas estadual e federal;
+
+
+XVII –
+
+auxiliar na segurança de grandes eventos e na proteção de autoridades e dignitários;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 2.135, de 04 de maio de 2020.
+
+
+XVIII –
+
+atuar mediante ações preventivas na segurança escolar, zelando pelo entorno e participando de ações educativas com o corpo discente e docente das unidades de ensino municipal, de forma a colaborar com a implantação da cultura de paz na comunidade local.
+
+
+XIX –
+
+assegurar que suas ações estejam sempre fundamentadas no respeito à dignidade humana, à cidadania, à justiça,à legalidade democrática e aos direitos humanos;
+
+
+XX –
+
+atuar de forma preventiva nas áreas de sua circunscrição, onde se presuma ser possível a quebra da situação de normalidade;
+
+
+XXI –
+
+atuar com prudência, firmeza e efetividade, na sua área de responsabilidade, visando ao restabelecimento da situação de normalidade, precedendo eventual emprego da Força Pública Estadual.
+
+
+§ 1º
+
+A Guarda Municipal poderá integrar as atividades policiais de envergadura realizadas no Município, quando planejadas conjuntamente.
+
+
+§ 2º
+
+Na realização dessas atividades, a Guarda Municipal manterá a chefia de suas frações com a finalidade precípua de harmonizar e transmitir ordens pertinentes à consecução dos objetivos comuns.
+
+
+§ 3º
+
+Respeitadas a autonomia e as peculiaridades de cada uma das organizações, com atuação no município, poderão os responsáveis trocar informações sobre os campos de atuação de seus comandos.
+
+
+Art. 5º.
+
+Compete ao Secretário dirigir o órgão, nos aspectos politico-administrativos e ao Superintendente nos aspectos operacionais e técnico.
+
+
+Art. 6º.
+
+A Guarda Municipal tem a seguinte estrutura organizacional:
+
+
+I –
+
+Superintendência da Guarda Municipal
+
+
+II –
+
+Inspetoria da Guarda Municipal
+
+
+III –
+
+Guardas Municipais.
+
+Inclusão feita pelo Art. 6º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+a)
+
+O cargo de Superintendente é de livre escolha do Chefe do Poder Executivo, dentre os indicados em lista tríplice elaborada pelos servidores da Guarda Municipal, devendo os candidatos possuírem mais de 5 (cinco) anos de serviço na Guarda Municipal.
+
+Inclusão feita pelo Art. 6º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+b)
+
+O Superintendente terá mandato de 2 (dois) anos, podendo haver uma recondução pelo mesmo período, sendo que a perda do mandato será decidida pelo Colegiado do Secretariado Municipal, por maioria absoluta.
+
+Inclusão feita pelo Art. 6º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+c)
+
+Os cargos de Inspetores Operacionais são cargos de confiança e de livre escolha do Superintendente, dentre aqueles que colocarem seu nome à disposição e que possuam, ao menos, 3 (três) anos de serviço na Guarda Municipal, podendo ser substituídos havendo interesse público ou quebra de confiança.
+
+Inclusão feita pelo Art. 6º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+d)
+
+Ao menos 1 (um) Inspetor Operacional deverá ser do sexo feminino, exceto se não houver candidatas.
+
+Inclusão feita pelo Art. 6º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+Parágrafo único
+
+Os cargos acima serão de livre escolha do Chefe do Poder Executivo dentre os indicados em lista tríplice elaborada pelos servidores da Guarda Municipal.
+
+
+Art. 7º.
+
+É competência geral da Guarda Municipal de Guaíra a proteção de bens, serviços, logradouros públicos municipais e instalações do Município.
+
+
+Parágrafo único
+
+Os bens mencionados no caput abrangem os de uso comum, os de uso especial e os dominiais.
+
+
+Art. 8º.
+
+A Guarda Municipal terá sede no Município de Guaíra, Estado do Paraná, dispondo de autonomia nos limites do Município e nos termos da presente Lei.
+
+
+Art. 9º.
+
+Fica vedado à Guarda Municipal prestar serviços gratuitos a particulares, entidades e outros organismos públicos ou privados, ressalvados somente os casos de interesse público na preservação da ordem pública e os previstos em lei.
+
+
+Art. 10.
+
+Os Guardas Municipais de Guaíra estão sujeitos ao mesmo regime jurídico em vigor para os demais servidores públicos municipais e, em especial, às normas previstas nesta lei.
+
+
+Art. 11.
+
+Fica criado o efetivo da Guarda Municipal de Guaíra em 100 (cem) cargos de servidores públicos efetivos, cuja investidura se dará através de concurso público, nos termos desta lei.
+
+
+§ 1º
+
+Fica assegurado a proporcionalidade de 30 % (trinta por cento) do efetivo total de guardas municipais para o sexo feminino, devendo esta ser respeitada para efeitos de abertura de vagas em concurso público e ingresso na corporação, desde que atendidas e respeitadas todas as condições e exigências cabíveis, podendo, no caso de não haver candidatas aprovadas, serem preenchidas as vagas por candidatos do sexo masculino.
+
+
+§ 2º
+
+Ocorrendo autorização para o aumento do efetivo, respeitar-se-á o percentual de 0,4% (quatro décimos por cento) da população do Município.
+
+
+#### CAPÍTULO II — DOS CONCEITOS BÁSICOS
+
+
+Art. 12.
+
+Supervisão é a atividade permanentemente desenvolvida em nome da autoridade competente, com o propósito de apurar e determinar o exato cumprimento de ordens e decisões.
+
+
+Art. 13.
+
+Hierarquia é a ordem e a subordinação dos diversos cargos e funções que constituem a estrutura e a carreira da Guarda Municipal e que, conforme a ordem crescente de níveis, investe de autoridade o cargo mais elevado.
+
+
+§ 1º
+
+A civilidade é parte integrante da educação dos servidores da Guarda Municipal, competindo ao superior hierárquico tratar os subordinados de modo respeitoso, e ao subordinado manter deferência para com seus superiores.
+
+
+§ 2º
+
+A camaradagem é indispensável à formação e ao convívio dos integrantes da Guarda Municipal, objetivando o aperfeiçoamento das relações sociais entre os mesmos.
+
+
+Art. 14.
+
+A hierarquia e a disciplina manifestam-se por meio do exato cumprimento dos deveres civis e funcionais, em todos os níveis, escalões, cargos e funções, e constituem a base institucional da Guarda Municipal de Guaíra.
+
+
+§ 1º
+
+A hierarquia é a ordenação da autoridade em níveis diferentes, dentro da estrutura da Guarda Municipal de Guaíra.
+
+
+§ 2º
+
+A disciplina do guarda municipal é a exteriorização da ética do servidor e manifesta-se pelo exato cumprimento de deveres, em todos os escalões e em todos os graus da hierarquia, quanto aos seguintes aspectos:
+
+
+I –
+
+pronta obediência às ordens legais;
+
+
+II –
+
+observância às prescrições legais e regulamentares;
+
+
+III –
+
+emprego de toda a capacidade em benefício do serviço;
+
+
+IV –
+
+correção de atitudes;
+
+
+V –
+
+colaboração espontânea com a disciplina coletiva e com a efetividade dos resultados pretendidos pela Guarda Municipal de Guaíra.
+
+
+VI –
+
+respeito aos direitos humanos e sua promoção.
+
+
+Art. 15.
+
+O princípio da subordinação rege todos os graus da hierarquia da Guarda Municipal de Guaíra, conforme o disposto nesta Lei.
+
+
+#### CAPÍTULO III — DA OUVIDORIA E CORREGEDORIA
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-A.
+
+A Ouvidoria Geral da Guarda Municipal, para garantia de sua independência em relação à direção da Guarda Municipal, não fará parte de sua estrutura física, ficando sob a responsabilidade da Ouvidoria Municipal.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Parágrafo único
+
+O Ouvidor Geral não estará subordinado a nenhum membro da Guarda Municipal, exercendo a plenitude de seu controle externo de forma independente da direção da respectiva guarda, nos termos da Lei Federal nº 13.022/2014.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-B.
+
+A Ouvidoria Geral da Guarda Municipal é o órgão técnico de controle externo, com finalidade de receber, examinar e encaminhar reclamações, sugestões, elogios e denúncias acerca da conduta de seus dirigentes e integrantes e das atividades do órgão, de propor soluções, expedir recomendações e informar os resultados aos interessados, garantindo-lhes orientação, informação e resposta, além de promover os processos disciplinares em face do Corregedor-Geral, do Superintendente e Inspetores, ou requisitar ao Corregedor-Geral a abertura de processo disciplinar em face dos demais membros.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Parágrafo único
+
+O Ouvidor será nomeado pelo chefe do Poder Executivo, dentre os servidores públicos municipais estáveis do quadro geral do Município de Guaíra, não pertencentes à Guarda Municipal, ocupante de cargo efetivo de nível superior, com formação na área jurídica, e que possua pelo menos 3 (três) anos de efetivo exercício no Município de Guaíra, exercendo suas funções cumulativamente com as de seu cargo efetivo.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-C.
+
+A Corregedoria-Geral da Guarda Municipal é o órgão técnico de controle interno, com finalidade de assegurar a correta aplicação da lei, padronizar os procedimentos de atuação da Guarda Municipal e de processos e procedimentos administrativos, realizar correições, fiscalizações e garantir a preservação dos princípios da hierarquia e disciplina na Corporação, bem como apurar irregularidades e promover os processos disciplinares contra os membros da Guarda Municipal, exceto em face do Superintendente e Inspetores.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Parágrafo único
+
+O cargo de Corregedor-Geral é de livre nomeação pelo Prefeito dentre os Inspetores, com preferência àqueles com formação em Direito.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-D.
+
+A Corregedoria da Guarda Municipal será composta pelas seguintes funções:
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+I –
+
+Corregedoria;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+II –
+
+Subcorregedoria;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+III –
+
+Comissão Processante.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+§ 1º
+
+A Comissão Processante será formada por 3 (três) membros, cuja escolha dos integrantes é condicionada ao servidor processado, prezando-se pela paridade de funções.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+§ 2º
+
+Sendo o processado um Guarda Municipal do quadro permanente, a comissão processante será formada por 2 (dois) Guardas Municipais e 1 (um) servidor externo ao quadro da Guarda, todos efetivos e estáveis.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+§ 3º
+
+A função prevista no inciso II será de livre escolha do Corregedor-Geral dentre os ocupantes do cargo de Inspetor;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+§ 4º
+
+Os integrantes da Comissão Processante dos quadros da Guarda Municipal serão escolhidos pelo Corregedor-Geral, e o servidor externo, nos termos estipulados, será de livre escolha do Ouvidor.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-E.
+
+Será designado o Subcorregedor da Guarda Municipal para substituir o Corregedor da Guarda Municipal em caso de impedimento, férias, licença médica, licença especial ou qualquer outra forma de afastamento de suas funções.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Parágrafo único
+
+Nos casos previstos no caput, o Subcorregedor acumulará as duas funções, com todas as atribuições inerentes, pelo prazo máximo de 30 (trinta) dias, tempo este que se findo, deverá ser nomeado outro Corregedor, nos termos da Lei Federal nº 13.022/2014.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-F.
+
+As solicitações de informações aos envolvidos, feitas pela Corregedoria da Guarda Municipal, devem ser atendidas no prazo máximo de 10 (dez) dias, se outro não for fixado, sob pena de apuração de responsabilidade funcional do servidor que se omitir ao ato.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-G.
+
+Somente serão nomeados ao cargo de Corregedor-Geral os servidores que possuam conduta ilibada, comprovada mediante certidões criminais e cíveis, estas últimas relativas à improbidade administrativa e crime de responsabilidade e que não tenham recebido nenhuma sanção disciplinar nos últimos 3 (três) anos.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Parágrafo único
+
+Os corregedores terão mandato de 2 (dois) anos, prorrogável por igual período, cuja perda será decidida pela maioria absoluta da Câmara Municipal, fundada em razão relevante e específica, conforme preceitua o § 2º, do art. 13, da Lei Federal nº 13.022/2014.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+Art. 15-H.
+
+As funções vinculadas à Ouvidoria Geral da Guarda Municipal e Corregedoria-Geral da Guarda Municipal, não serão remuneradas e serão consideradas serviço público relevante para todos os fins.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.147, de 11 de setembro de 2020.
+
+
+### TÍTULO II — DO REGIME FUNCIONAL E DE TRABALHO
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 16.
+
+Esta lei possui caráter suplementar e específico, sendo de aplicação exclusiva aos servidores titulares dos cargos públicos efetivos da Guarda Municipal e, no que couber, especialmente quanto ao Regime Disciplinar previsto nesta Lei, aos ocupantes do cargo em comissão de Superintendente, Inspetor da Guarda Municipal de Guaíra.
+
+
+Parágrafo único
+
+Aplica-se subsidiariamente nos casos omissos nesta lei, o que couber, a Lei Municipal nº 1246/2003.
+
+
+Art. 17.
+
+Para os efeitos desta Lei, entende-se por guarda municipal o servidor legalmente investido em cargo público ou função pública integrante da estrutura funcional da Guarda e em condições para os serviços para a Corporação.
+
+
+#### CAPÍTULO II — DO INGRESSO
+
+
+##### Seção I — Das Condições Gerais
+
+
+Art. 18.
+
+O cargo público efetivo de Guarda Municipal será provido por concurso público, passando a pertencer à estrutura básica administrativa da Secretaria Municipal de Segurança Pública e Trânsito (SEMST), sendo acessível a todos os brasileiros natos ou naturalizados.
+
+
+Parágrafo único
+
+São requisitos básicos para investidura em cargo público na guarda municipal, além dos previstas na lei que institui o regime jurídico dos servidores municipais:
+
+
+I –
+
+idade mínima de 18 (dezoito) anos e máxima de 40 (quarenta) até a data final de inscrições do concurso público
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.242, de 24 de junho de 2022.
+
+
+II –
+
+gozo dos direitos políticos;
+
+
+III –
+
+quitação com as obrigações militares e eleitorais;
+
+
+IV –
+
+nível médio completo de escolaridade;
+
+
+V –
+
+aptidão física, mental e psicológica; e
+
+
+VI –
+
+idoneidade moral comprovada por investigação social e certidões expedidas perante o Poder Judiciário estadual, federal e distrital;
+
+
+VII –
+
+ter carteira nacional de habilitação no mínimo na categoria AB;
+
+
+VIII –
+
+ter altura 1.65m do sexo masculino e 1.60m do sexo feminino e ter peso proporcional à altura a ser conferido em exame de saúde;
+
+
+Art. 19.
+
+A admissão na função de Guarda Municipal far-se-á através de concurso público na forma da legislação vigente, com avaliação intelectual, física, psicológica e de saúde, nos termos do Regimento Interno e do Edital de seleção, para exercício da função, onde constarão os seguintes exames:
+
+
+I –
+
+exame de conhecimento, de caráter eliminatório e classificatório;
+
+
+II –
+
+exame de seleção, de caráter eliminatório, constando o seguinte:
+
+
+a)
+
+exame de Saúde (médico/odontológico/toxicológico);
+
+
+b)
+
+exame Físico;
+
+
+c)
+
+avaliação Psicológica;
+
+
+d)
+
+questionário de Investigação Social, a ser aplicado aos candidatos classificados dentro do número de vagas ofertadas;
+
+
+§ 1º
+
+No edital para o Concurso Público, constarão quais os exames laboratoriais o candidato deverá apresentar durante o exame de saúde (médico/odontológico/toxicológico).
+
+
+§ 2º
+
+Constarão ainda do edital, as matérias e os assuntos a serem abordados no exame de conhecimento, bem como os pontos a serem alcançados na prova prática, de títulos e para classificação no exame físico.
+
+
+Art. 20.
+
+O Município de Guaíra, através do Chefe do Poder Executivo Municipal, poderá criar Centro de Formação e Treinamento, assim como conveniar com órgãos estaduais ou federais e/ou outras instituições que possuam estrutura comprovada para a formação e aperfeiçoamento da Guarda Municipal de Guaíra, respeitado o que preceitua e couber na legislação federal sobre licitações/contratos e do Estatuto Geral das Guardas Municipais.
+
+Alteração feita pelo Art. 7º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+Art. 21.
+
+O candidato regularmente inscrito aprovado e classificado no concurso público, dentro do número de vagas estabelecidas no edital, poderá matricular-se no Curso de Formação da Guarda Municipal desde que apresente, no prazo estipulado, os documentos obrigatórios.
+
+
+§ 1º
+
+Perderá o direito à matrícula no Curso de formação da Guarda Municipal sendo desclassificado, o candidato que deixar de apresentar na data estipulada os documentos obrigatórios para a sua efetivação, conforme constar do Edital para o Concurso Público, sendo chamado o que lhe seguir em classificação.
+
+
+§ 2º
+
+Se o candidato classificado para a matrícula no curso desistir do mesmo, será chamado o que lhe seguir em classificação, porém se a desistência for posterior ao início do curso, a vaga não será preenchida.
+
+
+Art. 22.
+
+O candidato matriculado no curso de formação/capacitação será nomeado na condição de ASPIRANTE, sem usar uniforme da GM, com vencimentos correspondentes a 80% (oitenta por cento) do valor inicial da Tabela de Vencimentos.
+
+
+§ 1º
+
+Sendo o candidato matriculado em curso de formação já servidor público deste Município, ocupante de cargo em provimento efetivo diverso, fica garantido o afastamento do seu cargo ou função, ressalvado o direito de optar pela percepção do vencimento e das vantagens do cargo efetivo.
+
+
+§ 2º
+
+No caso de não aprovação no Curso de formação/capacitação, o servidor afastado poderá retornar ao seu cargo de origem e, em não sendo este servidor, serão tomados os procedimentos legais cabíveis para a sua demissão do serviço público através do devido processo legal.
+
+
+§ 3º
+
+O candidato matriculado no Curso de Formação da Guarda Municipal e dele desistente, terá que reembolsar aos cofres públicos municipais, o auxílio financeiro percebido, dentro do prazo de 30 dias, contados a partir da data de sua desistência, exceto nas hipóteses de caso fortuito ou motivo de força maior.
+
+
+§ 4º
+
+O auxílio financeiro será igualmente devolvido aos cofres públicos, na forma do parágrafo anterior, no caso do aluno ser desclassificado no caso do inc. I do art. 23 bem como não atinja aproveitamento superior a 50% na disciplina.
+
+
+§ 5º
+
+A devolução do auxílio financeiro percebido também será obrigatória, no caso de aprovado o candidato no curso de formação e nomeado, não se apresentar para tomar posse e exercício do cargo, excetuando-se igualmente, situações decorrentes de caso fortuito ou motivo de força maior.
+
+
+**Parágrafo único.** Os casos fortuitos ou motivos de força maior serão analisados e deliberados pela autoridade competente pertencente à Secretaria Municipal de Segurança Pública e/ou Chefe do Poder Executivo Municipal.
+
+
+Art. 23.
+
+O candidato será desclassificado do curso de formação, desde que:
+
+
+I –
+
+Não atinja o mínimo de frequência estabelecida: 10% de faltas não justificadas, por disciplina; e 25% de faltas justificadas, por disciplina ou no geral do curso.
+
+
+II –
+
+Não revele aproveitamento satisfatório, através das avaliações de cada disciplina do curso, conforme norma a ser estabelecida em regulamento próprio do curso, sendo, no entanto obrigatório atingir 70% de aproveitamento em cada disciplina. As disciplinas do curso de formação, com carga horária a partir de 20 horas/aula terão obrigatoriamente provas escritas que influirão na média final do curso. As disciplinas com menos de 20 horas/aula serão avaliadas e terão conceito apto e inapto pelo instrutor encarregado;
+
+
+III –
+
+Não atinja a capacitação física necessária para o cargo;
+
+
+IV –
+
+for condenado por qualquer infração penal dolosa, ainda que por fato anterior a sua missão na Guarda Municipal;
+
+
+V –
+
+utilizar-se de meios ilícitos ou fraudulentos em atividade de ensino ou avaliação.
+
+
+Parágrafo único
+
+Os critérios para apuração da capacidade física serão afixados em regulamento próprio através de tabela de avaliação física que leve em consideração a idade e o sexo do candidato, conforme critérios a serem estabelecidos por profissional da área.
+
+
+Art. 24.
+
+O Curso de Formação deverá ter por fundamento princípios dirigidos para atitudes que assegurem adequada base humanística ao preparo técnico profissional e ao desenvolvimento da cultura geral dos integrantes da Corporação.
+
+
+§ 1º
+
+Com esta finalidade, o Curso de Formação incorporará pessoas selecionadas com aptidão e continuará a selecioná-las durante as atividades educativas de formação, assim especificadas:
+
+
+I –
+
+Moral: Caracterizado pelo mais alto senso de honra, de disciplina, de responsabilidade profissional e de conduta social, a ser trabalhada no convívio diário do Aluno no estabelecimento de ensino.
+
+
+II –
+
+Intelectual: Traduzida por aprimorada cultura, que coloque o Aluno à altura da missão social do Guarda Municipal no que se refere ao desenvolvimento de habilidades conceituais necessárias ao desempenho adequado ao exercício de sua função.
+
+
+III –
+
+Técnico Profissional: Consubstanciada por conhecimentos indispensáveis ao exercício das habilidades de procedimentos e atitudes, destacando processos, técnicas, valores, e convicções, tendo por expectativa as atividades a serem desenvolvidas frente às demandas sociais.
+
+
+IV –
+
+Saúde Física: Destinada a garantir condições de saúde e vigor físico indispensável ao Guarda Municipal, desenvolvendo-lhe o espírito de cooperação e a capacidade de agir.
+
+
+§ 2º
+
+A formação dos guarda municipais dever[a ter como base a Matriz Curricular Nacional em Segurança Pública, elaborada pela Secretaria Nacional de Segurança Pública (SENASP) do Ministério da Justiça.
+
+
+Art. 25.
+
+O candidato que, ao final do curso de capacitação/formação, obtiver o aproveitamento satisfatório definido em regulamento próprio do curso, receberá o certificado de habilitação ao cargo de Guarda Municipal.
+
+
+Art. 26.
+
+A nomeação obedecerá a ordem de classificação final do concurso e será efetuada gradativamente, de acordo com as necessidades e a complementação do quadro efetivo previsto nesta Lei.
+
+
+##### Seção II — Da Substituição
+
+
+Art. 27.
+
+Substituição é o exercício temporário de cargo em comissão nos casos de impedimento legal ou afastamento do titular e depende de autorização do Comando da Guarda.
+
+
+Parágrafo único
+
+O substituto fará jus à remuneração do cargo em comissão, paga na proporção dos dias de efetiva substituição.
+
+
+#### CAPÍTULO III — DO REGIME DE TRABALHO
+
+
+##### Seção I — Da Jornada
+
+
+Art. 28.
+
+A jornada de trabalho dos ocupantes do cargo de provimento efetivo de Guarda Patrimonial será de quarenta (40) horas semanais, sendo cumprida em regime de escala, podendo ser em turnos diários, ininterruptos de seis (06), oito (08) e doze (12) horas, de acordo com a modalidade de serviço que estiver escalado, sendo computada como hora extraordinária a excedente de quarenta (40) horas semanais.
+
+
+Parágrafo único
+
+A Guarda Municipal de Guaíra atuará em turnos diurnos e noturnos de acordo com as escalas de serviço elaboradas por sua administração.
+
+
+Art. 29.
+
+O ocupante de cargo de provimento em comissão cumprirá jornada de 40 (quarenta) horas semanais, podendo ser convocado sempre que houver interesse da Administração, sem que tal medida implique pagamento de horas extraordinárias.
+
+
+##### Seção II — Da Frequência e do Horário
+
+
+Art. 30.
+
+A frequência será apurada, diariamente, por meio de ponto, chamadas de pessoal ou mediante equipamentos de comunicação, no início e ao término do horário do serviço.
+
+
+Art. 31.
+
+Todo o funcionário deverá observar rigorosamente seu horário de trabalho, não sendo admitido atrasos sem motivo justificado.
+
+
+Parágrafo único
+
+Para efeitos do artigo anterior, os atrasos ocorridos por motivos de força maior devidamente comprovados pelo Guarda Municipal, serão considerados justificados e o restante do turno de serviço cumprido normalmente, devendo o fato ser registrado no relatório de serviço.
+
+
+Art. 32.
+
+As alterações de escala de serviço se darão com no mínimo 02 (dois) dias de antecedência de seu cumprimento.
+
+
+§ 1º
+
+Em casos de necessidade justificada, emergências ou questões de segurança pública, o prazo previsto no artigo anterior não precisa ser respeitado, devendo o servidor ser avisado através de convocação por qualquer meio de comunicação existente.
+
+
+§ 2º
+
+É responsabilidade do Guarda Municipal manter seus dados de contato atualizados junto ao setor administrativo da Guarda Municipal, estando sujeito a processo administrativo disciplinar, em rito sumaríssimo, com pena de suspensão de 02 (dois) dias se constatado a falta de atualização dos dados.
+
+
+Art. 33.
+
+Salvo nos casos expressamente previstos em lei ou regulamento, é vetado dispensar o servidor de registro de ponto ou das demais formas de registro de presença, bem como abonar faltas ao serviço.
+
+
+Parágrafo único
+
+O ponto ou as demais formas de registro de presença destinam-se a controlar, diariamente, a entrada e a saída de serviço dos integrantes da Guarda Municipal em seus respectivos locais de trabalho.
+
+
+Art. 34.
+
+O integrante da GUARDA perderá, sem prejuízo da aplicação de penalidade prevista em Regulamento Disciplinar ou na presente lei:
+
+
+I –
+
+a remuneração do dia, se não comparecer ao seu posto de serviço ou local de trabalho para o qual se encontrar escalado;
+
+
+II –
+
+a remuneração equivalente à hora de trabalho a cada período de atraso ou saída antecipada acumulada no período de uma semana, de até 30 (trinta) minutos.
+
+
+Art. 35.
+
+No caso de faltas sucessivas injustificadas, serão computados, para efeito de desconto, os domingos, os feriados e os dias de folga intercalados, sem prejuízo da aplicação de penalidade prevista em Regulamento Disciplinar ou na presente lei.
+
+
+Art. 36.
+
+É considerada falta grave a ausência injustificada ao serviço, especialmente aos plantões.
+
+
+Art. 37.
+
+Fica assegurado, conforme legislação vigente, o pagamento:
+
+
+I –
+
+das horas noturnas trabalhadas no horário compreendido das 20h às 6h, inclusive das horas prorrogadas após esse horário, acrescidas do adicional de 20% sobre a remuneração da hora diurna;
+
+
+II –
+
+da remuneração em dobro dos feriados Nacionais, Estaduais e Municipais, quando trabalhados;
+
+
+III –
+
+do intervalo intrajornada, quando não concedido, limitando-se em até 16 horas mensais, com acréscimo de, no mínimo, 50% sobre o valor da remuneração da hora normal de trabalho. Sobre estas horas, por serem de caráter indenizatório, não incidirão descontos previdenciários.
+
+
+Art. 38.
+
+O exercício do cargo público de provimento em comissão na Guarda Municipal é incompatível com o exercício de outra atividade, pública ou privada.
+
+
+Parágrafo único
+
+É defeso o exercício simultâneo de cargo em comissão ou função gratificada e cargo de provimento efetivo.
+
+
+### TÍTULO III — DAS VANTAGENS
+
+
+##### Seção I — Da Gratificação Pelo Exercício de Atividade Perigosa e Especial
+
+
+Art. 39.
+
+O cargo de Guarda Municipal é considerado de Atividade Especial, por tratar-se de serviço diferenciado, trabalhado em regime de escala nos períodos diurno, noturno, sábados, domingos e feriados e ainda, por tratar-se de uma função de risco.
+
+
+Art. 40.
+
+Ao vencimento base dos ocupantes dos cargos de provimento efetivo de Guarda Municipal, no exercício efetivo das atribuições do cargo, incidirá o adicional de periculosidade de 60% (sessenta por cento) sobre o salário base.
+
+
+Parágrafo único
+
+A Guarda Municipal gestante ou lactante, enquanto durar a gestação e a lactação, exercerá suas atividades em local salubre e em serviço não perigoso, sem prejuízo da percepção do adicional de periculosidade.
+
+
+Art. 41.
+
+Fica assegurada ainda a percepção do adicional de periculosidade pelo servidor quando no gozo de férias e licenças especiais.
+
+
+Art. 42.
+
+Não será pago qualquer outro adicional que tenha a mesma natureza jurídica do adicional de periculosidade aos servidores da Guarda Municipal.
+
+
+##### Seção II — Da Gratificação Pela Prestação de Serviço Extraordinário
+
+
+Art. 43.
+
+Será permitido serviço extraordinário para atender às necessidades do serviço, em situações excepcionais e temporárias, respeitado o limite máximo de 2 (duas) horas por jornada, assim consideradas as horas excedentes à jornada prevista nesta lei, conforme a hipótese:
+
+
+§ 1º
+
+Até o limite de 60 (sessenta) horas mensais de serviço extraordinário, a remuneração será acrescida de 50% (cinquenta por cento) em relação à hora normal de trabalho.
+
+
+§ 2º
+
+As horas que ultrapassarem o limite estabelecido no parágrafo anterior terão acréscimo de 100% (cem por cento).
+
+
+Art. 44.
+
+Aplicam-se subsidiariamente a este Capítulo as disposições do Estatuto do Servidor Público Municipal no que não confrontarem.
+
+
+##### Seção III — Das Recompensas
+
+
+Art. 45.
+
+As recompensas constituem-se em reconhecimento aos bons serviços prestados pelo Guarda.
+
+
+§ 1º
+
+Além de outras previstas em regulamentos especiais, são recompensas os elogios por bons serviços prestados em relevância ao bom nome da Guarda Municipal e a bem da coletividade a que serve, podendo ser individual ou coletivo.
+
+
+§ 2º
+
+A cada elogio individual recebido corresponderá três meses de redução da carência para melhoria do comportamento.
+
+
+### TÍTULO IV — DAS NORMAS GERAIS DE ATUAÇÃO
+
+
+#### CAPÍTULO I — DA ATUAÇÃO EM GERAL
+
+
+Art. 46.
+
+A atuação do Guarda deve condizer com a postura adotada no posto de serviço e as normas legais da Secretaria Municipal de Segurança Pública e Trânsito (SEMST).
+
+
+Art. 47.
+
+O Guarda deverá ater-se a todas as normas e regulamentos em vigor para fins de um bom desempenho e aprimoramento do serviço.
+
+
+Art. 48.
+
+Quanto à apresentação pessoal o Guarda Municipal deve:
+
+Alteração feita pelo Art. 8º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+I –
+
+manter o seu uniforme limpo e apresentável;
+
+
+II –
+
+quando do sexo masculino: manter o cabelo baixo e aparado a máquina ou tesoura, acertando gradualmente de baixo para cima, mantendo bem nítido os contornos junto às orelhas e pescoço; na parte superior da cabeça, o cabelo deverá ser desbastado o suficiente para harmonizar-se com o resto do corte e com o uso da cobertura;
+
+
+III –
+
+quando do sexo feminino: manter os cabelos presos para trás, rente ao couro cabeludo, deixando a testa e as orelhas descobertas; se compridos devem ser presos em forma de coque ou similar, na parte de trás da cabeça na altura da nuca, podendo ser utilizada uma rede da cor dos cabelos ou preta para fixá-los;
+
+
+IV –
+
+as costeletas poderão ter o comprimento até a altura correspondente à metade do pavilhão auricular;
+
+
+V –
+
+é permitido o uso de barba, desde que discreta e aparada;
+
+Alteração feita pelo Art. 8º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+a)
+
+para disfarçar deformidade física, desde que haja parecer médico e o Guarda tenha o seu requerimento deferido pelo Secretário e conste de sua identidade funcional.
+
+
+VI –
+
+é permitido o uso do bigode, desde que discreto, aparado e não ultrapassando as comissuras labiais;
+
+Alteração feita pelo Art. 8º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+VII –
+
+é permitido o uso de pulseira, óculos de sol e anel, desde que discretos;
+
+
+VIII –
+
+manter as unhas curtas;
+
+
+IX –
+
+usar maquiagem com cores suaves e discretas;
+
+
+X –
+
+gargantilha, corrente ou colar não deve ser utilizado sobrepondo-se ao uniforme; e
+
+
+XI –
+
+os brincos devem ser pequenos e discretos, sem elementos pendulares.
+
+
+§ 1º
+
+As Guardas femininas, quando no exercício da função de motociclista, poderão utilizar trança única, devido ao uso do capacete.
+
+
+§ 2º
+
+Não é permitido o uso de piercing aparente quando uniformizado.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.132, de 03 de abril de 2020.
+
+
+Art. 50.
+
+São normas gerais de atuação do Guarda:
+
+
+I –
+
+assumir o serviço com pontualidade, a fim de receber instruções sobre o posto ou atividade a ser desenvolvida;
+
+
+II –
+
+comunicar a Central de Operações quando da assunção do serviço, direto no posto, por meio de rádio ou telefone;
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+IV –
+
+manter-se respeitoso e disciplinado na presença de seus pares, superiores e do público em geral;
+
+
+V –
+
+portar-se com urbanidade e polidez no tratamento com populares;
+
+
+VI –
+
+atender prontamente ao chamado de populares, prestando-lhes toda assistência necessária;
+
+
+VII –
+
+inspecionar, com a devida atenção, a área onde irá desempenhar seu serviço, se inteirando das peculiaridades da mesma;
+
+
+VIII –
+
+comunicar-se imediatamente com a Central de Operações, quando houver suspeita de ocorrência de qualquer ilícito;
+
+
+IX –
+
+percorrer incessantemente o setor da cidade que lhe for confiado, evitando qualquer descuido de vigilância, postando-se de maneira a ser facilmente identificado;
+
+
+X –
+
+prevenir desordens;
+
+
+XI –
+
+evitar atos licenciosos nas vias ou logradouros públicos, sempre agindo branda e persuasivamente;
+
+
+XII –
+
+transmitir à Central de Operações todas as ocorrências e alterações verificadas no seu setor de vigilância, registrando em documento próprio;
+
+
+XIII –
+
+deter e conduzir à autoridade competente:
+
+
+a)
+
+as pessoas que forem encontradas com qualquer indício suspeitos de ter praticado delito;
+
+
+b)
+
+os que conduzirem instrumentos apropriados para a prática de crime;
+
+
+c)
+
+os que transitarem com trajes inconvenientes ou provocarem algazarra, proferindo ditos obscenos;
+
+
+d)
+
+os que forem encontrados em flagrante delito; e
+
+
+e)
+
+os vadios, ébrios e dementes.
+
+
+XIV –
+
+comunicar à Central de Operações, com antecedência razoável evitando prejuízos ao serviço, sobre falta ao serviço;
+
+
+XV –
+
+permutar escala ou posto de serviço somente com autorização prévia e antecipada e por escrito;
+
+
+XVI –
+
+manter-se vigilante, não se distraindo com fatos alheios;
+
+
+XVII –
+
+utilizar-se de equipamento da Instituição somente em serviço e para os fins a que se destina;
+
+
+XVIII –
+
+ater-se ao serviço designado, não extrapolando sua competência de atuação;
+
+
+XIX –
+
+na assunção do serviço inspecionar e conferir o armamento, viatura e o equipamento na presença de seu antecessor;
+
+
+XX –
+
+no ato de deter qualquer pessoa em flagrante delito garantir-lhe seus direitos constitucionais;
+
+
+XXI –
+
+zelar pelo bom nome da Guarda Municipal;
+
+
+XXII –
+
+manter-se em contato com funcionários de outros órgãos, dentro de um clima profissional, de respeito e urbanidade, evitando qualquer tipo de promiscuidade;
+
+
+XXIII –
+
+realizar a travessia dos alunos nas vias em trocas de turnos escolares;
+
+
+XXIV –
+
+ao atuar nos órgãos municipais para cumprimento de sua missão, deve proteger o patrimônio e as pessoas do local;
+
+
+XXV –
+
+impedir a ocorrência de danos;
+
+
+XXVI –
+
+impedir a permanência de pessoas que perturbem a paz pública, encaminhando-as aos órgãos competentes;
+
+
+XXVII –
+
+organizar filas, onde se fizer necessário;
+
+
+XXVIII –
+
+orientar os usuários das áreas restritas de estacionamento, evitando congestionamentos e orientando quanto ao cumprimento do Código de Trânsito Brasileiro;
+
+
+XXIX –
+
+cumprir as normas internas de cada órgão, quando compatíveis com suas atribuições;
+
+
+XXX –
+
+o Guarda em serviço nos eventos municipais manter-se-á atento às ordens emanadas de seus superiores, além das normas peculiares do evento, para que não extrapole sua competência;
+
+
+XXXI –
+
+ao deparar-se com acidentes deverá isolar o local até a chegada das autoridades competentes e ainda tomar medidas de segurança; e
+
+
+XXXII –
+
+toda e qualquer abordagem deve ser comunicada à Central de Operações.
+
+
+XXXIII –
+
+Quando souber de fato contrário a disciplina ou ocorrência de crime por parte de outro membro da Instituição ou servidor público participar por escrito a autoridade superior em até 24 horas do corrido;
+
+
+XXXIV –
+
+Apresentar-se conforme estabelecido no Art. 105 do presente regulamento, com farda impecável, limpa, calçado polido, barba raspada e cabelo curto aparado.
+
+
+XXXV –
+
+Respeitar o superior hierárquico tratando-o como Senhor/Senhora e acatando suas ordens;
+
+
+XXXVI –
+
+Cumprir os termos precisos das escalas de serviço;
+
+
+Parágrafo único
+
+Qualquer violação destes deveres implica em transgressão disciplinar.
+
+
+#### CAPÍTULO II — DA ATUAÇÃO NO ÂMBITO DO EXERCÍCIO DA FUNÇÃO
+
+
+Art. 51.
+
+O Guarda de serviço deve sempre apresentar uma postura correta e digna, tratando a todos com educação e urbanidade.
+
+
+Art. 52.
+
+Da Superintendência Operacional da Guarda Municipal devem partir todas as orientações para o serviço operacional diário da Guarda Municipal, observando as determinações legais.
+
+
+Parágrafo único
+
+Quando necessário, o Inspetor Operacional tomará decisões referentes a seu turno de serviço, comunicando as alterações em documento próprio.
+
+
+Art. 53.
+
+Os Guardas de serviço na sede da Guarda Municipal, independente da função desempenhada, devem:
+
+
+I –
+
+apresentar-se ao chefe imediato, para deste receber as instruções de serviço;
+
+
+II –
+
+fiscalizar a entrada de pessoas na Sede, identificando-as e prestando as informações necessárias;
+
+
+III –
+
+no período noturno atentar para a vigilância, principalmente no pátio da Sede;
+
+
+IV –
+
+se for radio operador ou telefonista deverá:
+
+
+a)
+
+atender todas as chamadas telefônicas com educação e urbanidade, identificando sempre a Instituição e o operador;
+
+
+b)
+
+atender prontamente aos chamados da guarnição, via rádio ou telefone;
+
+
+c)
+
+impedir a utilização do telefone para fins particulares;
+
+
+d)
+
+transmitir pelo rádio somente informações e assuntos de serviço, usando linguagem técnica;
+
+
+e)
+
+manter sob controle as viaturas em operação;
+
+
+f)
+
+preencher de forma correta e legível os impressos em uso; e,
+
+
+g)
+
+reportar-se sempre ao chefe imediato ou seu representante sobre informações ou ordens, e informar o mesmo sobre ocorrências em andamento.
+
+
+#### CAPÍTULO III — DA ATUAÇÃO DE MOTORISTAS E DE MOTOCICLISTAS
+
+
+Art. 54.
+
+Os Guardas condutores de veículos auto ou moto deverão ao assumir o serviço:
+
+
+I –
+
+examinar o estado da viatura e seus materiais, constando em ficha específica qualquer alteração;
+
+
+II –
+
+cuidar da limpeza, conservação e utilização das viaturas e motocicletas;
+
+
+III –
+
+manter e ter pleno conhecimento de todas as ordens referentes às viaturas;
+
+
+IV –
+
+informar a Central de Operações de todos os deslocamentos, anotando-os na ficha de movimentação;
+
+
+V –
+
+transportar pessoas em trajes civis apenas no caso de ocorrência, exceto com autorização do Diretor ou seu representante;
+
+
+VI –
+
+obedecer à legislação de trânsito;
+
+
+VII –
+
+permanecer atento ao radiotransmissor e responder prontamente quando solicitado;
+
+
+VIII –
+
+não deixar a chave ou equipamentos na viatura ao desembarcar;
+
+
+IX –
+
+quando em ronda ou ponto-base, entrar em contato com o responsável pelo evento ou instalação;
+
+
+X –
+
+providenciar a elaboração do Boletim de Ocorrência quando no envolvimento em acidente de trânsito; e
+
+
+XI –
+
+quando na função de motociclista, utilizar os equipamentos de proteção.
+
+
+#### CAPÍTULO IV — DA COMPETÊNCIA PARA ATUAÇÃO
+
+
+Art. 55.
+
+A competência de atuação respeitará o grau de hierarquia.
+
+
+§ 1º
+
+A competência para atuação, independente da classe hierárquica, cabe ao Guarda Municipal além dos termos dos artigos 1º, 3º e 6º, exercer as funções de almoxarife, armeiro, telefonista, palestrante, motorista de viatura, radio-operador e outras conforme a necessidade e conveniência da instituição.
+
+
+§ 2º
+
+As competências do Secretário Municipal de Segurança Pública e Trânsito, do Superintendente e dos Inspetores estão descritas na Lei da Estrutura Administrativa e funções gratificadas.
+
+
+### TÍTULO V — DO REGIME DISCIPLINAR
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Seção Única
+
+Dos Princípios Gerais de Atuação, Disciplina e Hierarquia
+
+
+Art. 56.
+
+Este Título, ao qual estão sujeitos os integrantes do Corpo da Guarda Municipal de Guaíra, tem por finalidade especificar as normas gerais de atuação, as transgressões disciplinares e estabelecer as normas relativas as penalidades, comportamento, recursos e recompensas, processo de controle disciplinar, dispondo sobre a disciplina operacional e administrativa.
+
+
+Art. 57.
+
+A camaradagem é indispensável à formação e ao convívio profissional, visando a desenvolver as melhores relações sociais entre os componentes da Guarda Municipal.
+
+
+Parágrafo único
+
+São manifestações essenciais da disciplina:
+
+
+I –
+
+a pronta obediência às ordens superiores;
+
+
+II –
+
+a pronta obediência às leis e regulamentos;
+
+
+III –
+
+a correção de atitudes;
+
+
+IV –
+
+a dedicação integral ao serviço;
+
+
+V –
+
+a colaboração espontânea à disciplina coletiva e à eficiência da Instituição;
+
+
+VI –
+
+o cumprimento das normativas instituídas pelo Comando da Guarda Municipal.
+
+
+Art. 58.
+
+Entende-se por hierarquia o vínculo que une os integrantes superiores e subordinados.
+
+
+§ 1º
+
+São superiores hierárquicos:
+
+
+I –
+
+o Prefeito Municipal;
+
+
+II –
+
+o Secretário Municipal de Segurança Pública e Trânsito;
+
+
+III –
+
+o Superintendente da Guarda Municipal;
+
+
+IV –
+
+os Inspetores Operacionais (4 vagas);
+
+
+§ 2º
+
+A hierarquia confere ao superior o poder de dar ordens, fiscalizar e rever decisões em relação ao subordinado, a quem ela impõe o dever de obediência, sendo este superior responsável pelos efeitos da ordem que emitir, desde que cumpridas a risca pelo subordinado;
+
+
+§ 3º
+
+O subordinado não é obrigado a cumprir ordem manifestamente ilegal ou criminosa, sendo que em caso de dúvida, quanto a ordem complexa emanada de superior o subordinado pode solicitar que seja exarada por escrito.
+
+
+#### CAPÍTULO II — DA ESFERA DA AÇÃO E DA COMPETÊNCIA PARA APLICAÇÃO
+
+
+Art. 59.
+
+A competência para aplicar as penalidades disciplinares é conferida:
+
+
+I –
+
+Ao Superintendente, para os casos de suspensão e advertência, devendo ser homologada pelo Prefeito Municipal.
+
+
+II –
+
+ao Prefeito Municipal, para os casos de demissão e em caso de transgressão disciplinar cometida pelo Superintendente.
+
+
+Art. 60.
+
+O Guarda Municipal estará subordinado a esta Lei, onde quer que exerça suas atividades.
+
+
+#### CAPÍTULO III — DA PROIBIÇÃO DO USO DE UNIFORME
+
+
+Art. 61.
+
+O Superintendente da Guarda poderá proibir o uso do uniforme ao Guarda Municipal que:
+
+
+I –
+
+estiver disciplinar e legalmente afastado da função;
+
+
+II –
+
+mostrar-se refratário à disciplina; e
+
+
+III –
+
+estiver afastado para tratamento de saúde acima de 15 (quinze) dias.
+
+
+Parágrafo único
+
+Nos casos constantes no presente artigo o uniforme deverá ser recolhido.
+
+
+### TÍTULO VI — DAS TRANSGRESSÕES DISCIPLINARES
+
+
+#### CAPÍTULO I — DA ESPECIFICAÇÃO
+
+
+Art. 62.
+
+Transgressão disciplinar é toda ação ou omissão praticada pelo Guarda, ou qualquer violação dos preceitos da ética, dos deveres e das obrigações profissionais do Guarda, na sua manifestação elementar e simples.
+
+
+Art. 63.
+
+São transgressões disciplinares:
+
+
+I –
+
+todas as ações ou omissões contrárias à disciplina;
+
+
+II –
+
+todas as ações ou omissões, não especificadas na relação de transgressões desta Lei, nem qualificadas como crime em legislação própria, que afetem a normalidade do serviço e do bom funcionamento da Guarda Municipal de Guaíra, a honra pessoal, o decoro da classe, o pundonor e outras prescrições estabelecidas internamente pela Secretaria Municipal, leis, bem como aquelas praticadas contra normas e ordens de serviços emanadas de autoridades competentes.
+
+
+#### CAPÍTULO II — DO JULGAMENTO
+
+
+Art. 64.
+
+O julgamento da transgressão deve ser precedido de análise que considere:
+
+
+I –
+
+o comportamento do transgressor;
+
+
+II –
+
+as causas que a determinaram;
+
+
+III –
+
+a natureza dos fatos ou atos que a envolveram; e
+
+
+IV –
+
+as consequências que dela vieram ou possam advir.
+
+
+Art. 65.
+
+No julgamento da transgressão podem ser levantadas e levadas em consideração, causas que justifiquem a falta e circunstâncias que atenuem ou agravem a punição. Estas deverão ser relatadas minuciosamente no formulário de autuação.
+
+
+Parágrafo único
+
+Nenhum Guarda poderá ser punido sem que lhe seja assegurado o amplo direito de ampla defesa com todos os meios a ela inerentes e o contraditório.
+
+
+Art. 66.
+
+Haverá causa de justificação quando o ato for cometido:
+
+
+I –
+
+na prática de ação meritória relevante ou no interesse do serviço e da Instituição, da ordem, segurança ou do sossego público;
+
+
+II –
+
+quando incidir qualquer uma das excludentes de ilicitude.
+
+
+Parágrafo único
+
+Não haverá penalidade quando for reconhecida qualquer causa dos incisos supracitados.
+
+
+Art. 67.
+
+São circunstâncias atenuantes:
+
+
+I –
+
+bom comportamento;
+
+
+II –
+
+relevância de serviços prestados;
+
+
+III –
+
+ter sido cometida a transgressão para evitar mal maior; e
+
+
+IV –
+
+ter sido cometida a transgressão em defesa própria, de seus direitos ou de outrem, não se configurando causa de justificação.
+
+
+Art. 68.
+
+São circunstâncias agravantes:
+
+
+I –
+
+mau comportamento;
+
+
+II –
+
+prática simultânea ou conexão de duas ou mais transgressões;
+
+
+III –
+
+reincidência de transgressão;
+
+
+IV –
+
+conluio de duas ou mais pessoas;
+
+
+V –
+
+ter abusado o transgressor de sua autoridade hierárquica ou funcional; e
+
+
+VI –
+
+ter se aproveitado de deficiência física e/ou mental, vulnerabilidade ou de ignorância plenamente comprovada de outrem.
+
+
+#### CAPÍTULO III — DA CLASSIFICAÇÃO
+
+
+Art. 69.
+
+As transgressões, segundo sua intensidade, classificam-se em:
+
+
+I –
+
+LEVE: são as transgressões disciplinares que cominam pena de advertência;
+
+
+II –
+
+MÉDIA: são as transgressões disciplinares que cominam pena de suspensão de até seis dias;
+
+
+III –
+
+GRAVE: são as transgressões disciplinares que cominam pena de suspensão acima de seis dias, demissão, cassação e destituição.
+
+
+### TÍTULO VII — DAS PENALIDADES DISCIPLINARES
+
+
+#### CAPÍTULO I — DA GRADUAÇÃO E CONCEITUAÇÃO
+
+
+Art. 70.
+
+A penalidade disciplinar objetiva a preservação da disciplina e deve ter em vista o benefício educativo ao punido e o interesse da coletividade a que ele pertence.
+
+
+Art. 71.
+
+Segundo a classificação resultante do julgamento da transgressão, as penalidades a que está sujeito o Guarda são em ordem de gravidade crescente:
+
+
+I –
+
+advertência;
+
+
+II –
+
+suspensão;
+
+
+III –
+
+demissão;
+
+
+IV –
+
+cassação de aposentadoria ou disponibilidade;
+
+
+V –
+
+destituição de cargo em comissão;
+
+
+VI –
+
+destituição de função comissionada.
+
+
+§ 1º
+
+Na aplicação das penas disciplinares serão consideradas a natureza e a gravidade da infração e os danos que delas provierem para o serviço e para a Administração Municipal.
+
+
+§ 2º
+
+Serão considerados também os bons serviços prestados à Administração Municipal, bem como as peculiaridades de onde foram desenvolvidos.
+
+
+Art. 72.
+
+A advertência é a forma mais branda de punir, expressa de forma escrita, registrada para fins de enquadramento comportamental.
+
+
+Parágrafo único
+
+Havendo reincidência de transgressão, mesmo que diversa, que se culmine em pena de advertência, aplicar-se-á a pena de suspensão, respeitando-se o disposto nesta lei.
+
+
+Art. 73.
+
+A suspensão consiste no cerceamento ao trabalho, sofrendo o punido o corte nos vencimentos, durante esse período.
+
+
+Art. 74.
+
+A demissão é a pena que exclui o Guarda do quadro de servidores do Município de Guaíra.
+
+
+#### CAPÍTULO II — DA APLICAÇÃO
+
+
+Art. 75.
+
+A aplicação da pena deverá ser anotada na Ficha Funcional do Servidor e publicada no Órgão Oficial do Município.
+
+
+Art. 76.
+
+A aplicação da penalidade deverá ser feita com justiça, serenidade e imparcialidade, para que o punido fique consciente e convicto de que a mesma se inspira no cumprimento exclusivo do dever e na preservação da disciplina e que tem em vista o benefício educativo do mesmo e do Corpo da Guarda Municipal.
+
+
+Art. 77.
+
+A aplicação da penalidade deverá obedecer às seguintes normas:
+
+
+I –
+
+a penalidade deverá ser proporcional à gravidade da transgressão;
+
+
+II –
+
+a penalidade não pode atingir o máximo previsto nesta Lei, quando ocorrerem apenas circunstâncias atenuantes;
+
+
+III –
+
+quando ocorrerem circunstâncias atenuantes e agravantes, a penalidade será aplicada conforme preponderarem umas sobre as outras;
+
+
+IV –
+
+por uma única transgressão não deve ser aplicada mais de uma penalidade;
+
+
+V –
+
+a penalidade disciplinar não exime o punido da responsabilidade civil ou penal que lhe couber;
+
+
+VI –
+
+na ocorrência de mais de uma transgressão sem conexão entre si, a cada uma deve ser imposta a penalidade correspondente, e, caso contrário, as de menor gravidade serão consideradas como circunstâncias agravantes da transgressão principal.
+
+
+VII –
+
+Compete ao Superintendente as competências para determinar as providências para a instauração de sindicância e processo administrativo, para apurar a devida responsabilidade do servidor, através competente processo.
+
+
+Art. 78.
+
+O processo administrativo poderá ser revisto a qualquer tempo, a pedido ou de ofício, quando se aduzirem fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou inadequação da penalidade aplicada.
+
+
+Art. 79.
+
+Da revisão do processo não poderá resultar agravamento da penalidade.
+
+
+### TÍTULO VIII — DO COMPORTAMENTO E DA CLASSIFICAÇÃO
+
+
+Art. 80.
+
+O comportamento do Guarda terá sua classificação de acordo com o grau de penalidades sofridas, respeitando a prescrição e a reincidência.
+
+
+§ 1º
+
+O comportamento do Guarda será classificado em:
+
+
+I –
+
+Excepcional: quando, no período de 10 anos de efetivo serviço, não tenha sofrido nenhuma penalidade disciplinar de nenhuma espécie;
+
+
+II –
+
+Ótimo: quando, no período de cinco anos de efetivo serviço, tenha sofrido até uma advertência;
+
+
+III –
+
+Bom: é o conceito que ingressa o GM após a conclusão do Curso de formação e assim se mantém mesmo com a aplicação de até uma advertência;
+
+
+IV –
+
+Regular: ingressa no regular ao sofrer a aplicação de uma suspensão, ou duas advertências no período de até 5 anos; e
+
+
+V –
+
+Mau: quando, no período de 2 anos de efetivo serviço, tenha sofrido acima de uma suspensão.
+
+
+§ 2º
+
+Ingressará automaticamente no comportamento Mau o Guarda que sofrer penalidade de suspensão acima de 6 (seis) dias.
+
+
+§ 3º
+
+Para os efeitos deste artigo é estabelecida a equivalência de penalidades, onde 2 (duas) advertências equivalem a 1 (uma) suspensão.
+
+
+§ 4º
+
+A classificação, reclassificação e melhoria de comportamento é de competência do Superintendente da Guarda, respeitados os termos e os prazos deste artigo e necessariamente publicadas no Boletim Interno da Secretaria Municipal.
+
+
+### TÍTULO IX — DOS RECURSOS E DAS RECOMPENSAS
+
+
+#### CAPÍTULO I — DOS RECURSOS
+
+
+Art. 81.
+
+Interpor reconsideração e/ou recurso administrativo disciplinar é o direito concedido ao Guarda que se julgue prejudicado, ofendido ou injustiçado, na esfera disciplinar.
+
+
+Parágrafo único
+
+O prazo para interposição do pedido de reconsideração ou do recurso é de 30 (trinta) dias a contar da publicação ou da ciência pelo interessado da decisão recorrida.
+
+
+#### CAPÍTULO II — DO CANCELAMENTO DE PENALIDADES
+
+
+Art. 82.
+
+Serão canceladas as penalidades de advertência e suspensão, registradas em suas alterações, após o decurso de 3 (três) e 5 (cinco) anos de efetivo exercício, respectivamente, desde que neste período não sofra nova punição disciplinar de qualquer espécie.
+
+
+Art. 83.
+
+O cancelamento de penalidade não surtirá efeito retroativo.
+
+
+### TÍTULO X — DAS TRANSGRESSÕES DISCIPLINARES
+
+
+#### CAPÍTULO I — DA ADVERTÊNCIA
+
+
+Art. 84.
+
+Aplica-se a penalidade de advertência às seguintes transgressões:
+
+
+I –
+
+deixar de cumprir as normas gerais contidas no Título iV desta Lei e as demais normas instituídas pela Prefeitura Municipal de Guaíra e;
+
+
+II –
+
+deixar de apresentar-se, entrando na Sede da Guarda:
+
+
+a)
+
+ao Prefeito Municipal;
+
+
+b)
+
+ao Diretor Administrativo da Guarda Municipal.
+
+
+c)
+
+ao Superintendente da Guarda Municipal.
+
+
+d)
+
+ao Inspetor Operacional da Guarda Municipal.
+
+
+III –
+
+deixar de apresentar-se, estando em serviço, ao superior imediato;
+
+
+IV –
+
+omitir ou retardar a comunicação de mudança de residência;
+
+
+V –
+
+apresentar-se para o serviço com atraso;
+
+
+VI –
+
+comparecer para o serviço com uniforme diferente do designado ou em desconformidade com a escala de serviço;
+
+
+VII –
+
+procurar resolver assunto referente ao serviço que não seja de sua competência;
+
+
+VIII –
+
+usar termos de gíria ou ato semelhante em comunicação escrita ou verbal;
+
+
+IX –
+
+usar aparelho telefônico de propriedade do Município de Guaíra, para fins particulares, sem autorização;
+
+
+X –
+
+perambular ou permanecer uniformizado, quando em folga ou afastado de suas funções, em logradouros públicos;
+
+
+XI –
+
+deixar de comunicar ao superior a execução de ordem dele recebida;
+
+
+XII –
+
+deixar de trazer consigo a credencial de Guarda quando em serviço;
+
+
+XIII –
+
+deixar de apresentar-se à Sede da Guarda, quando convocado, mesmo estando de folga, nos casos de iminência de perturbação da ordem ou ocorrência de calamidade pública;
+
+
+XIV –
+
+sobrepor os interesses particulares aos de interesse público;
+
+
+XV –
+
+divulgar assuntos técnico-profissionais que possam prejudicar o desempenho da Secretaria Municipal competente;
+
+
+XVI –
+
+retardar sua apresentação ao superior, quando convocado, ainda que fora das horas de trabalho;
+
+
+XVII –
+
+atender ao público com preferências pessoais;
+
+
+XVIII –
+
+deixar de prestar as informações que lhe competirem;
+
+
+XIX –
+
+deixar de devolver qualquer material ou equipamento da Guarda Municipal, quando solicitado;
+
+
+XX –
+
+deixar de comunicar ao superior imediato em tempo oportuno:
+
+
+a)
+
+as ordens que tiver recebido sobre pessoal ou material e as providências tomadas;
+
+
+b)
+
+as ocorrências policiais; e,
+
+
+c)
+
+os estragos ou extravios de qualquer material da Guarda que tenha sob sua responsabilidade.
+
+
+XXI –
+
+deixar de registrar:
+
+
+a)
+
+as ligações telefônicas que receber referentes ao serviço;
+
+
+b)
+
+as ordens e recomendações recebidas; e,
+
+
+c)
+
+as ocorrências policiais.
+
+
+XXII –
+
+fumar de forma ostensiva em serviço e em locais proibidos;
+
+
+XXIII –
+
+deixar de manter em dia os seus assentamentos e os de sua família no órgão de pessoal da Secretaria Municipal competente
+
+
+XXIV –
+
+permitir a permanência ou entrada de pessoas estranhas ao serviço;
+
+
+XXV –
+
+manter postura inadequada ao posto;
+
+
+XXVI –
+
+altar com o devido respeito a autoridades e público em geral;
+
+
+XXVII –
+
+dirigir-se, verbalmente ou por escrito, referente a assuntos da Secretaria Municipal a órgãos externos, desobedecendo às esferas administrativas vigentes;
+
+
+XXVIII –
+
+não ter o devido zelo com qualquer material da Guarda que lhe seja confiado;
+
+
+XXIX –
+
+deixar de comunicar, com antecedência oportuna, o seu impedimento em comparecer ao serviço;
+
+
+XXX –
+
+deixar de devolver o equipamento ou armamento da Instituição utilizado em serviço, logo após o seu término;
+
+
+XXXI –
+
+omitir em nota de ocorrência ou qualquer outro documento dados indispensáveis ao esclarecimento de fato tratado;
+
+
+XXXII –
+
+usar termos descorteses para com os subordinados, seus pares ou civis;
+
+
+XXXIII –
+
+usar no uniforme e insígnias ou distintivos que não sejam regulamentados;
+
+
+XXXIV –
+
+retirar, sem permissão, documento, livro ou objeto existente na repartição quando o ato não configurar crime;
+
+
+XXXV –
+
+promover subscrição em benefício de sociedade ou pessoa, embora com vínculos à Guarda Municipal, sem permissão;
+
+
+XXXVI –
+
+deixar de comunicar ao superior hierárquico transgressão disciplinar praticada por membro da Guarda Municipal.
+
+
+XXXVII –
+
+deixar de preservar o local de crime;
+
+
+XXXVIII –
+
+apresentar comunicação ou recursos destituídos de fundamentos ou sem observar as prescrições regulamentares;
+
+
+XXXIX –
+
+deixar de atender à reclamação justa de subordinado ou impedi-lo de recorrer à autoridade superior, sem que a intervenção deste se torne indispensável;
+
+
+XL –
+
+proceder ao serviço de ronda com irregularidade;
+
+
+XLI –
+
+criticar ato praticado por superior hierárquico de forma verbal;
+
+
+XLII –
+
+simular moléstia para obter dispensa do serviço, licença ou qualquer outra vantagem;
+
+
+XLIII –
+
+utilizar-se de veículo oficial sem autorização ou fazê-lo para fins particulares;
+
+
+XLIV –
+
+dirigir-se ou referir-se ao superior de modo inadequado ou desrespeitoso;
+
+
+XLV –
+
+deixar de inspecionar ou conferir o armamento ou equipamento que ficará sob sua responsabilidade na assunção do serviço;
+
+
+XLVI –
+
+deixar de isolar local de acidentes quando necessário, ou ainda deixar de tomar medidas de segurança;
+
+
+XLVII –
+
+deixar de registrar os deslocamentos quando trabalhando de motorista ou motociclista;
+
+
+XLVIII –
+
+divulgar decisão, despacho, ordem ou informação antes da publicação; e
+
+
+XLIX –
+
+deixar de comparecer em solenidades oficiais quando convocado.
+
+
+Parágrafo único
+
+Na primeira reincidência em transgressão prevista neste artigo comina-se a pena de suspensão de um dia, a segunda de até dois dias, a terceira de até quatro dias e assim sucessivamente, elevando-se em dobro, até no máximo 30 (trinta) dias, respeitando-se as circunstâncias atenuantes e agravantes.
+
+
+#### CAPÍTULO II — DA SUSPENSÃO
+
+
+Art. 85.
+
+As transgressões a que se comina pena de suspensão enumeram-se na ordem progressiva de sua gravidade e se classificam em seis grupos.
+
+
+Art. 86.
+
+Às faltas do primeiro grupo comina-se pena de suspensão de até dois dias:
+
+
+I –
+
+deixar de assumir a responsabilidade de seus atos ou dos subordinados que agirem em cumprimento de ordens suas;
+
+
+II –
+
+dirigir veículo com imprudência, negligência ou imperícia;
+
+
+III –
+
+revelar falta de compostura por atitudes ou gestos estando uniformizado;
+
+
+IV –
+
+envolver a Secretaria Municipal em assuntos de ordem particular;
+
+
+V –
+
+entrar uniformizado, não estando em serviço, em:
+
+
+a)
+
+boates, cabarés ou casas semelhantes;
+
+
+b)
+
+casas de prostituição;
+
+
+c)
+
+clubes de carteado; e,
+
+
+d)
+
+salões de bilhar e de jogos semelhantes.
+
+
+VI –
+
+deixar de revistar pessoa que houver detido;
+
+
+VII –
+
+deixar de comunicar a seu chefe imediato faltas ou crime de que tenha conhecimento;
+
+
+VIII –
+
+usar em serviço equipamentos, acessórios ou uniforme em desacordo com a regulamentação, sendo que os equipamentos e acessórios poderão ser permitidos mediante autorização do Superintendente, com justificativa;
+
+Alteração feita pelo Art. 10. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+IX –
+
+deixar de prestar auxílio para a manutenção ou o restabelecimento da ordem pública;
+
+
+X –
+
+utilizar-se de material ou equipamentos da Secretaria Municipal para uso particular;
+
+
+XI –
+
+ingerir bebidas alcoólicas estando uniformizado ou apresentar-se para o serviço em visível estado de embriaguês;
+
+
+XII –
+
+introduzir ou tentar introduzir bebidas alcoólicas em dependências da Secretaria Municipal ou em repartição pública;
+
+
+XIII –
+
+induzir superiores a erro ou engano, mediante informações inexatas;
+
+
+XIV –
+
+negar-se a receber uniforme ou equipamento que lhe sejam destinados regularmente;
+
+
+XV –
+
+permutar serviço sem permissão prévia causando transtornos ao serviço;
+
+
+XVI –
+
+solicitar a interferência de pessoas estranhas à Secretaria, a fim de obter para si ou para outrem, qualquer vantagem ou benefício;
+
+
+XVII –
+
+trabalhar mal intencionalmente ou com má fé, em prejuízo ao serviço;
+
+
+XVIII –
+
+fazer mau uso do equipamento da Instituição ou usá-lo em proveito próprio ou particular;
+
+
+XIX –
+
+fornecer notícia à imprensa sobre ocorrência que atender ou que tenha conhecimento, sem autorização do comando da GM;
+
+
+XX –
+
+deixar de comunicar ao superior ou à autoridade competente qualquer informação que tiver sobre perturbação da ordem pública ou delito praticado por pares;
+
+
+XXI –
+
+fazer propaganda política, quando uniformizado;
+
+
+XXII –
+
+promover rixa entre os componentes da Guarda ou nela tomar parte;
+
+
+XXIII –
+
+aconselhar para que não seja cumprida ordem legal, ou seja, retardada a sua execução;
+
+
+XXIV –
+
+ofender superior, subordinado ou colega de igual classe com palavras ou gestos;
+
+
+XXV –
+
+valer-se de sua qualidade de Guarda para perseguir desafeto;
+
+
+XXVI –
+
+apresentar-se uniformizado quando proibido legalmente;
+
+
+XXVII –
+
+portar equipamento particular em serviço;
+
+
+XXVIII –
+
+portar-se de modo inconveniente perante a Comissão Processante, Sindicante ou da autoridade judiciária, quando solicitado a prestar declarações;
+
+
+XXIX –
+
+deixar de tomar medidas para evitar que extravie ou danifique equipamento da Guarda Municipal, que estiver sob sua responsabilidade;
+
+
+XXX –
+
+praticar qualquer ato que provoque escândalo público, envolvendo o nome da Guarda Municipal, mesmo estando fora de serviço;
+
+
+XXXI –
+
+violar ou deixar que viole local de acidente ou de crime, ocasionando prejuízo na conclusão de Boletim de Ocorrência, laudo ou perícia;
+
+
+XXXII –
+
+atrasar, sem motivo justificável, a entrega de objetos achados ou apreendidos;
+
+
+XXXIII –
+
+promover discussão ofensiva ou agressiva a superior hierárquico, colega de igual classe ou terceiro;
+
+
+XXXIV –
+
+deixar de apresentar-se no tempo determinado à autoridade competente no caso de requisição para depor ou prestar declarações, sem motivo justificado.
+
+
+Art. 87.
+
+Às faltas do segundo grupo comina-se a pena de suspensão de 3 (três) a 6 (seis) dias:
+
+
+I –
+
+deixar de fazer entrega imediata a quem de direito, de objeto achado, apreendido ou recuperado; Sem prejuízo das consequências criminais.
+
+
+II –
+
+abandonar ou afastar-se sem necessidade ou justificativa plausível do posto de vigilância ou de qualquer lugar em que se deva achar por ordem, de modo a perdê-lo de vista;
+
+
+III –
+
+dormir durante as horas de trabalho;
+
+
+IV –
+
+espalhar notícias falsas em prejuízo da ordem, da disciplina ou do bom nome da Secretaria Municipal;
+
+
+V –
+
+faltar à verdade causando danos ou para obter vantagem para si ou terceiros;
+
+
+VI –
+
+usar de linguagem ofensiva em requerimento, comunicação, informação ou ato semelhante;
+
+
+VII –
+
+deixar que se extravie, deteriore ou estrague material público, sob sua responsabilidade;
+
+
+VIII –
+
+revelar informações do processo ou sindicância em que faça parte como membro de comissão;
+
+
+IX –
+
+utilizar-se do anonimato em prejuízo da Guarda Municipal ou de seus integrantes; e,
+
+
+X –
+
+permanecer em comitê político ou comícios estando uniformizado.
+
+
+Art. 88.
+
+Às faltas do terceiro grupo comina-se a pena de suspensão de 6 (seis) a 12 (doze) dias:
+
+
+I –
+
+divulgar, distribuir ou tentar fazê-lo em dependência da Secretaria Municipal, ou em lugar público, publicações que atentem contra a disciplina ou a moral;
+
+
+II –
+
+dar, emprestar ou vender peças do uniforme ou de equipamentos;
+
+
+III –
+
+deixar de garantir a integridade física das pessoas que tenha detido ou que esteja sob sua custódia; e,
+
+
+Art. 89.
+
+Às faltas do quarto grupo comina-se a pena de suspensão de 12 (doze) a 18 (dezoito) dias.
+
+
+I –
+
+fazer mau uso do armamento da Instituição, deixando de observar as normas regulamentares;
+
+
+II –
+
+portar armamento particular em serviço, salvo se com autorização do Superintendente, sem prejuízo a outros dispositivos legais;
+
+Alteração feita pelo Art. 11. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+III –
+
+extraviar ou deixar que se extravie, culposamente, armamento ou munição da Instituição que estiver sob sua responsabilidade;
+
+
+IV –
+
+promover desordens com uso aparente de arma de qualquer espécie;
+
+
+V –
+
+tomar parte em reunião preparatória de greve estando uniformizado; e
+
+
+VI –
+
+recusar-se a auxiliar as autoridades públicas ou seus agentes que estejam no exercício de suas funções e que necessitem de seu auxílio imediato.
+
+
+Art. 90.
+
+Às faltas do quinto grupo comina-se pena de suspensão de 18 (dezoito) a 24 (vinte e quatro) dias.
+
+
+I –
+
+recusar-se obstinadamente a cumprir ordem legal;
+
+
+II –
+
+evadir-se da escolta do Comando da Guarda ou contra ela resistir; e,
+
+
+III –
+
+ofender com gestos ou palavras a moral e os bons costumes.
+
+
+Art. 91.
+
+Às faltas do sexto grupo comina-se à pena de suspensão de 24 (vinte e quatro) até 30 (trinta) dias.
+
+
+I –
+
+apresentar-se publicamente em visível estado de embriaguez, estando uniformizado;
+
+
+II –
+
+tomar parte em conturbação de ordem pública;
+
+
+III –
+
+aliciar, ameaçar ou coagir vítima, testemunha ou perito durante procedimento administrativo;
+
+
+IV –
+
+emprestar ou ceder a carteira funcional;
+
+
+V –
+
+procurar a parte interessada, no caso de furto ou perda de objeto, mantendo com os mesmos entendimentos que coloquem em dúvida a sua honestidade funcional; e
+
+
+VI –
+
+disparar arma de fogo, quando no exercício da função, sem motivo justificável.
+
+
+Parágrafo único
+
+Havendo reincidência em transgressão neste artigo o Secretário Municipal poderá determinar a abertura de Processo Administrativo para fins de demissão.
+
+
+#### CAPÍTULO III — DA DEMISSÃO
+
+
+Art. 92.
+
+A pena de demissão será aplicada ao Guarda nos seguintes casos:
+
+
+I –
+
+agredir fisicamente subordinado, superior ou qualquer cidadão, salvo em legítima defesa própria ou de outrem;
+
+Alteração feita pelo Art. 12. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+II –
+
+embriaguez habitual em serviço;
+
+
+III –
+
+insubordinação grave em serviço;
+
+
+IV –
+
+extraviar ou deixar que se extravie, dolosamente, armamento ou munição da Instituição que estiver sob sua responsabilidade;
+
+
+V –
+
+crimes contra a Administração Pública, previstos na legislação penal; e,
+
+
+VI –
+
+ameaçar ou coagir por quaisquer meio membros da comissão processante e sindicante, superior, subordinado ou companheiro de igual classe no desempenho da função ou em razão dela.
+
+
+VII –
+
+Promover ou participar de Motim Armado.
+
+
+#### CAPÍTULO IV — DA PRESCRIÇÃO DE PENALIDADES
+
+
+Art. 93.
+
+A ação disciplinar prescreverá:
+
+
+I –
+
+em 5 (cinco) anos, quanto às infrações puníveis com demissão, cassação de aposentadoria, cassação de disponibilidade e destituição de função;
+
+
+II –
+
+em 4 (quatro) anos, quanto às infrações puníveis com suspensão; e,
+
+
+III –
+
+em 2 (dois) ano, quanto às infrações puníveis com advertência.
+
+
+§ 1º
+
+A instauração de sindicância ou de processo disciplinar interrompe a prescrição.
+
+
+§ 2º
+
+O prazo de prescrição começa a fluir da data em que o ato for praticado.
+
+
+§ 3º
+
+Interrompida o curso a prescrição, o prazo começará a fluir a partir do dia em que cessar a interrupção.
+
+
+§ 4º
+
+Os prazos de prescrição previstos em leis penais aplicam-se às infrações disciplinares também capituladas como crime.
+
+
+#### CAPÍTULO V — DAS PENALIDADES ACESSÓRIAS
+
+
+Art. 94.
+
+Além das penalidades previstas neste Regulamento poderão ser aplicadas cumulativamente outras acessórias.
+
+
+Parágrafo único
+
+São penalidades acessórias:
+
+
+I –
+
+destituição de função; e,
+
+
+II –
+
+proibição do uso do uniforme.
+
+
+#### CAPÍTULO VI — DO CUMPRIMENTO DAS PENALIDADES
+
+
+Art. 95.
+
+As penalidades aplicadas serão cumpridas a partir da publicação no Órgão Oficial do Município e ciência ao punido.
+
+
+§ 1º
+
+Encontrando-se o punido suspenso a nova penalidade será cumprida imediatamente depois de cumprida a anterior.
+
+
+§ 2º
+
+Encontrando-se o punido, afastado legalmente, a penalidade será cumprida a partir da data em que reassumir a função.
+
+
+§ 3º
+
+Os prazos mencionados nesta Lei contar-se-ão de acordo com o estabelecido no Código de Processo Civil, excluindo-se o primeiro dia e incluindo o último.
+
+
+### TÍTULO XI — DO CONTROLE ADMINISTRATIVO DISCIPLINAR
+
+
+Art. 96.
+
+O Controle Administrativo Disciplinar é a forma legal para se apurar faltas disciplinares ou denúncias, nas quais existam dúvidas ou que sejam necessárias medidas mais rigorosas para aplicação da penalidade.
+
+
+§ 1º
+
+São formas de controle a Sindicância e o Processo Administrativo.
+
+
+§ 2º
+
+É de competência do Superintendente as providências para a instauração de Processo Administrativo e Sindicância.
+
+
+### TÍTULO XII — DO PROCESSO ADMINISTRATIVO DISCIPLINAR
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 97.
+
+A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância ou processo administrativo disciplinar, assegurada ao acusado ampla defesa e contraditório.
+
+
+§ 1º
+
+A apuração de que trata o caput, por solicitação da autoridade a que se refere, será promovida pela Comissão de Sindicância composta por 3 (três) membros efetivos titulares, todos exclusivamente do quadro efetivo da Guarda Municipal de Guaíra, mediante competência específica para tal finalidade, delegada em caráter permanente ou temporário pelo Prefeito do Município, preservadas as competências para o julgamento que se seguir à apuração.
+
+
+§ 2º
+
+A apuração poderá ser efetuada:
+
+
+a)
+
+de modo sumário, quando a irregularidade for confessada, documentalmente provada ou manifestamente evidente;
+
+
+b)
+
+mediante sindicância, excluídas as condições previstas no inciso anterior;
+
+
+c)
+
+mediante sindicância e processo administrativo, aquela como condição preliminar para este, nos demais casos;
+
+
+d)
+
+por meio de processo administrativo, independentemente de sindicância, quando a irregularidade passível de penalidade prevista no artigo 71, incisos III e IV, se for confessada, documentalmente provada ou manifestamente evidente.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.242, de 24 de junho de 2022.
+
+
+Art. 98.
+
+As denúncias sobre irregularidades serão objeto de apuração, ainda que não contenham a identificação do denunciante, possuindo, no entanto, um mínimo de autenticidade.
+
+Alteração feita pelo Art. 13. - Lei Ordinária nº 2.267, de 19 de dezembro de 2022.
+
+
+Parágrafo único
+
+Quando o fato narrado não configurar evidente infração disciplinar ou ilícito penal, a denúncia será arquivada, por falta de objeto.
+
+
+#### CAPÍTULO II — DO AFASTAMENTO PREVENTIVO
+
+
+Art. 99.
+
+Como medida cautelar e a fim de que o servidor não venha a influir na apuração da irregularidade, a autoridade instauradora do processo disciplinar poderá determinar o seu afastamento do exercício do cargo, pelo prazo de até 60 (sessenta) dias, sem prejuízo da remuneração.
+
+
+Parágrafo único
+
+O afastamento poderá ser prorrogado por igual prazo, findo o qual cessarão os seus efeitos, ainda que não concluído o processo.
+
+
+#### CAPÍTULO III — DA SINDICÂNCIA
+
+
+Art. 100.
+
+A sindicância será instaurada por ordem do Prefeito, do Diretor da Guarda Municipal ou do Superintendente, podendo constituir-se em peça ou fase do processo administrativo respectivo.
+
+
+Art. 101.
+
+A sindicância será confiada à Comissão de Sindicância da Guarda Municipal de Guaíra.
+
+
+Art. 102.
+
+Da sindicância poderá resultar:
+
+
+I –
+
+arquivamento do processo;
+
+
+II –
+
+aplicação de penalidade de advertência ou suspensão de até 30 (trinta) dias;
+
+
+III –
+
+instauração de processo disciplinar.
+
+
+Parágrafo único
+
+Sempre que o ilícito praticado pelo servidor ensejar a imposição de penalidade de suspensão por mais de 30 (trinta) dias, de demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão, será obrigatória a instauração de processo disciplinar.
+
+
+#### CAPÍTULO IV — DO PROCESSO DISCIPLINAR
+
+
+Art. 103.
+
+O processo disciplinar é o instrumento destinado a apurar responsabilidade de servidor por infração praticada no exercício de suas atribuições, ou que tenha relação com as atribuições do cargo em que se encontre investido e será instaurada por ordem do Prefeito, do Diretor da Guarda Municipal ou do Superintendente.
+
+
+Art. 104.
+
+O processo disciplinar será conduzido pela Comissão Disciplinar da Guarda Municipal de Guaíra, constituída, especificamente neste procedimento, por 3 (três) membros da Guarda Municipal devidamente nomeados quando da abertura na forma prevista nesta Lei e que não participaram do processo de sindicância.
+
+
+Art. 105.
+
+O processo disciplinar se desenvolve nas seguintes fases:
+
+
+I –
+
+instauração, com a publicação do ato que constituir a comissão;
+
+
+II –
+
+inquérito administrativo, que compreende instrução, defesa e relatório;
+
+
+III –
+
+julgamento.
+
+
+Art. 106.
+
+O prazo para a conclusão do processo disciplinar não excederá 60 (sessenta) dias, contados da data de publicação do ato que constituir a comissão, admitida a sua prorrogação por igual prazo, quando as circunstâncias o exigirem.
+
+
+§ 1º
+
+Sempre que necessário, a comissão dedicará tempo integral aos seus trabalhos, ficando seus membros dispensados do ponto, até a entrega do relatório final.
+
+
+§ 2º
+
+As reuniões da comissão serão registradas em atas que deverão detalhar as deliberações adotadas.
+
+
+##### Seção I — Do Inquérito
+
+
+Art. 107.
+
+O inquérito administrativo obedecerá ao princípio do contraditório, assegurada ao acusado ampla defesa, com a utilização dos meios e recursos admitidos em direito.
+
+
+Art. 108.
+
+Os autos da sindicância integrarão o processo disciplinar, como peça informativa da instrução.
+
+
+Parágrafo único
+
+Na hipótese de o relatório da sindicância concluir que a infração está capitulada como ilícito penal, a autoridade competente encaminhará cópia dos autos ao Ministério Público, independentemente da imediata instauração do processo disciplinar.
+
+
+Art. 109.
+
+Na fase do inquérito, a comissão promoverá a tomada de depoimentos, acareações, investigações e diligências cabíveis, objetivando a coleta de prova, recorrendo, quando necessário, a técnicos e peritos, de modo a permitir a completa elucidação dos fatos.
+
+
+Art. 110.
+
+É assegurado ao servidor o direito de acompanhar o processo pessoalmente ou por intermédio de procurador, arrolar e reinquirir testemunhas, produzir provas e contraprovas e formular quesitos, quando se tratar de prova pericial.
+
+
+§ 1º
+
+O presidente da comissão poderá denegar pedidos considerados impertinentes, meramente protelatórios, ou de nenhum interesse para o esclarecimento dos fatos.
+
+
+§ 2º
+
+Será indeferido o pedido de prova pericial, quando a comprovação do fato independer de conhecimento especial de perito.
+
+
+Art. 111.
+
+Poderá o indiciado requerer a prova de seu interesse, apresentando rol de no máximo 3 (três) testemunhas, que serão notificadas.
+
+
+Parágrafo único
+
+Durante a produção de prova, será lícito ao indiciado providenciar a substituição de testemunhas ou proceder à indicação de outras, em razão da ausência das inicialmente arroladas.
+
+
+Art. 112.
+
+As testemunhas serão intimadas a depor mediante mandado expedido pelo presidente da comissão, devendo a segunda via, com o ciente do interessado, ser anexado aos autos.
+
+
+§ 1º
+
+Se a testemunha for servidor público, a expedição do mandado será imediatamente comunicada ao chefe da repartição onde serve, com a indicação do dia e hora marcados para inquirição.
+
+
+§ 2º
+
+Se o denunciante ou testemunhas, sendo servidores públicos, se negarem a atender à intimação, o fato será comunicado imediatamente aos seus respectivos superiores hierárquicos, ficando passíveis de responsabilidade funcional.
+
+
+Art. 113.
+
+Quando a testemunha recusar-se a depor perante a comissão, e não pertencendo ela ao serviço público, o presidente solicitará à autoridade policial a providência cabível, a fim de que seja ouvida perante aquela autoridade.
+
+
+Parágrafo único
+
+O presidente encaminhará, neste caso, à autoridade policial, deduzida por itens, a matéria de fato sobre a qual deva ser ouvido o denunciante ou a testemunha.
+
+
+Art. 114.
+
+O depoimento será prestado oralmente e reduzido a termo, não sendo lícito à testemunha trazê-lo por escrito.
+
+
+§ 1º
+
+As testemunhas serão inquiridas separadamente.
+
+
+§ 2º
+
+Na hipótese de depoimentos contraditórios ou que se infirmem, proceder-se-á a acareação entre os depoentes.
+
+
+Art. 115.
+
+Concluída a inquirição das testemunhas, a comissão promoverá o interrogatório do acusado, observados os procedimentos previstos nesta seção.
+
+
+§ 1º
+
+No caso de mais de 1 (um) acusado, cada 1 (um) deles será ouvido separadamente, e sempre que divergirem em suas declarações sobre fatos ou circunstâncias, será promovida a acareação entre eles.
+
+
+§ 2º
+
+O procurador do acusado poderá assistir ao interrogatório, bem como à inquirição das testemunhas, sendo-lhe vedado interferir nas perguntas e respostas, facultando-lhe, porém, reinquiri-las, por intermédio do presidente da comissão.
+
+
+Art. 116.
+
+Quando houver dúvida sobre a sanidade mental do acusado, a comissão proporá à autoridade competente que ele seja submetido a exame por junta médica oficial, da qual participe pelo menos 01 (um) médico psiquiatra.
+
+
+Parágrafo único
+
+O incidente de sanidade mental será processado em auto apartado e apenso ao processo principal, após a expedição do laudo pericial.
+
+
+Art. 117.
+
+Tipificada a infração disciplinar, será formulada a indiciação do servidor, com a especificação dos fatos a ele imputados e das respectivas provas.
+
+
+§ 1º
+
+O indiciado será citado por mandado expedido pelo presidente da comissão para apresentar defesa escrita, no prazo de 10 (dez) dias úteis, assegurando-se-lhe vista do processo na repartição.
+
+
+§ 2º
+
+Havendo 2 (dois) ou mais indiciados, o prazo será comum e de 20 (vinte) dias úteis.
+
+
+§ 3º
+
+O prazo de defesa poderá ser prorrogado pelo dobro, para diligências reputadas indispensáveis.
+
+
+§ 4º
+
+No caso de recusa do indiciado em apor o ciente na cópia da citação, o prazo para defesa contar-se-á da data declarada, em termo próprio, pelo membro da comissão que fez a citação, com a assinatura de 2 (duas) testemunhas.
+
+
+Art. 118.
+
+O indiciado que mudar de residência fica obrigado a comunicar à comissão o lugar onde poderá ser encontrado.
+
+
+Art. 119.
+
+Achando-se o indiciado em lugar incerto e não sabido, será citado por edital, publicado no Diário Oficial do Município para apresentar defesa.
+
+
+Parágrafo único
+
+Na hipótese deste artigo, o prazo para defesa será de 15 (quinze) dias a partir da publicação do edital.
+
+
+Art. 120.
+
+Considerar-se-á revel o indiciado que, regularmente citado, não apresentar defesa no prazo legal.
+
+
+§ 1º
+
+A revelia será declarada, por termo, nos autos do processo e devolverá o prazo para a defesa.
+
+
+§ 2º
+
+Para defender o indiciado revel, a autoridade instauradora do processo designará 1 (um) servidor como defensor dativo, que deverá ser ocupante de cargo efetivo superior ou de mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.
+
+
+Art. 121.
+
+Apreciada a defesa, a comissão elaborará relatório minucioso, onde resumirá as peças principais dos autos e mencionará as provas em que se baseou para formar a sua convicção.
+
+
+§ 1º
+
+O relatório será sempre conclusivo quanto à inocência ou à responsabilidade do servidor.
+
+
+§ 2º
+
+Reconhecida a responsabilidade do servidor, a comissão indicará o dispositivo legal ou regulamentar transgredido, bem como as circunstâncias agravantes ou atenuantes.
+
+
+Art. 122.
+
+É permitido ao indiciado reperguntar as testemunhas por intermédio do presidente, que poderá indeferir as reperguntas que não tiverem conexão com a falta.
+
+
+Parágrafo único
+
+A defesa poderá exigir que seja consignado no termo o indeferimento providenciando, inclusive a repergunta recusada pela presidência.
+
+
+Art. 123.
+
+No caso de testemunhas analfabetas, o termo será assinado a rogo, tomando-se destas a impressão digital, no local reservado à assinatura.
+
+
+Art. 124.
+
+Os menores de 18 (dezoito) anos servirão como informantes, devendo ser assistidos, no ato de inquirição, pelos seus responsáveis.
+
+
+Parágrafo único
+
+Os informantes de que trata este artigo serão intimados na pessoa dos seus responsáveis.
+
+
+Art. 125.
+
+É permitido à comissão tomar conhecimento de arguições novas que surgirem contra o indiciado, caso em que este terá direito de produzir contra elas as provas que tiver.
+
+
+Art. 126.
+
+No caso de abandono de cargo ou função, instaurado o processo e feita a citação, comparecendo o indiciado e tomadas as suas declarações, terá ele o prazo de 5 (cinco) dias para oferecer defesa ou requerer a produção de provas que tiver, que só podem versar sobre força maior ou coação ilegal.
+
+
+Parágrafo único
+
+Não comparecendo o indiciado, o processo prosseguirá à sua revelia, sendo designado pelo presidente 1 (um) servidor efetivo para acompanhá-lo e produzir-lhe a defesa.
+
+
+Art. 127.
+
+O processo disciplinar, com o relatório da comissão, será remetido à autoridade que determinou a sua instauração, para julgamento.
+
+
+##### Seção II — Do Julgamento
+
+
+Art. 128.
+
+No prazo de 20 (vinte) dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão.
+
+
+§ 1º
+
+Se a penalidade a ser aplicada exceder a alçada da autoridade instauradora do processo, este será encaminhado à autoridade competente, que decidirá em igual prazo.
+
+
+§ 2º
+
+Havendo mais de 1 (um) indiciado e diversidade de sanções, o julgamento caberá à autoridade competente para a imposição da pena mais grave.
+
+
+§ 3º
+
+Se a penalidade prevista for a demissão ou cassação de aposentadoria ou disponibilidade, o julgamento caberá ao Chefe do Executivo.
+
+
+§ 4º
+
+Reconhecida pela comissão a inocência do servidor, a autoridade instauradora do processo determinará o seu arquivamento, salvo se flagrantemente contrária à prova dos autos.
+
+
+Art. 129.
+
+O julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos.
+
+
+Parágrafo único
+
+Quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade.
+
+
+Art. 130.
+
+Verificada a ocorrência de vício insanável, a autoridade que determinou a instauração do processo ou outra de hierarquia superior declarará a sua nulidade, total ou parcial, e ordenará, no mesmo ato, a constituição de outra comissão para instauração de novo processo.
+
+
+Parágrafo único
+
+O julgamento fora do prazo legal não implica nulidade do processo.
+
+
+Art. 131.
+
+Extinta a punibilidade pela prescrição, a autoridade julgadora determinará o registro do fato nos assentamentos individuais do servidor.
+
+
+Art. 132.
+
+O servidor que responder a processo disciplinar só poderá ser exonerado a pedido, ou aposentado voluntariamente, após a conclusão do processo e o cumprimento da penalidade, acaso aplicada.
+
+
+##### Seção III — Da Revisão do Processo
+
+
+Art. 133.
+
+O processo disciplinar poderá ser revisto, a qualquer tempo, a pedido ou de ofício, quando se aduzirem fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou a inadequação da penalidade aplicada.
+
+
+§ 1º
+
+Em caso de falecimento, ausência ou desaparecimento do servidor, qualquer pessoa da família poderá requerer a revisão do processo.
+
+
+§ 2º
+
+No caso de incapacidade mental do servidor, a revisão será requerida pelo respectivo curador.
+
+
+Art. 134.
+
+No processo revisional, o ônus da prova cabe ao requerente.
+
+
+Art. 135.
+
+A simples alegação de injustiça da penalidade não constitui fundamento para a revisão, que requer elementos novos, ainda não apreciados no processo originário.
+
+
+Art. 136.
+
+O requerimento de revisão do processo será dirigido ao Chefe do Executivo, que, se autorizar a revisão, encaminhará o pedido ao dirigente do órgão onde se originou o processo disciplinar.
+
+
+§ 1º
+
+Deferida a petição, a autoridade competente providenciará a constituição de comissão, na forma do art. 128, desta lei.
+
+
+§ 2º
+
+Será impedido de funcionar na revisão quem tiver composto a comissão de processo administrativo.
+
+
+Art. 137.
+
+A revisão correrá em apenso ao processo originário.
+
+
+Parágrafo único
+
+Na petição inicial, o requerente pedirá dia e hora para a produção de provas e inquirição das testemunhas que arrolar.
+
+
+Art. 138.
+
+A comissão revisora terá 60 (sessenta) dias para a conclusão dos trabalhos.
+
+
+Art. 139.
+
+Aplicam-se aos trabalhos da comissão revisora, no que couber, as normas e procedimentos próprios da comissão do processo disciplinar.
+
+
+Art. 140.
+
+O julgamento caberá à autoridade que aplicou a penalidade.
+
+
+Parágrafo único
+
+O prazo para julgamento será de 20 (vinte) dias, contados do recebimento do processo, no curso do qual a autoridade julgadora poderá determinar diligências.
+
+
+Art. 141.
+
+Julgada procedente a revisão, será declarada sem efeito a penalidade aplicada, restabelecendo-se todos os direitos do servidor, exceto em relação à destituição do cargo em comissão, que será convertida em exoneração.
+
+
+Parágrafo único
+
+Da revisão do processo não poderá resultar agravamento de penalidade.
+
+
+Art. 142.
+
+Esta lei entra em vigor na data da sua publicação, revogando a Lei Municipal nº 1002/1993.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 11 de outubro de 2017.  
+  
+HERALDO TRENTO  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

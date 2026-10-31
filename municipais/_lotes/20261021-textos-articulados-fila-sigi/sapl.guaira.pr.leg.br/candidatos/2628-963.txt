@@ -1,0 +1,772 @@
+Autoriza o Poder Executivo a criar e efetuar a abertura de crédito adicional especial no orçamento do exercício de 2010 (Lei Municipal 1664 de 18/01/2010) e a ajustar as programações estabelecidas no plano plurianual - 2010 a 2013 (Lei Municipal 1662 de 18/01/2010) e na Lei de Diretrizes Orçamentárias do Município (Lei Municipal 1648 de 17/08/2008 e 1663 de 18/01/2010).
+
+
+A CÂMARA MUNICIPAL DE GUAÍRA, ESTADO DO PARANÁ, APROVOU, e eu, PREFEITO MUNICIPAL, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aberto no Orçamento Fiscal (Lei Municipal nº 1664 de 18/01/2010) crédito adicional especial no valor de R$ 3.354.247,63 (Três milhões, trezentos e cinqüenta e quatro mil, duzentos e quarenta e sete reais e sessenta e três centavos), mediante a inclusão de nova natureza de despesa para a suplementação das seguintes rubricas e programação orçamentárias assim desdobradas como abaixo relacionada:
+
+
+§ 1º
+
+Abrem crédito especial por provável excesso de arrecadação na fonte 1000 RECURSOS ORDINÁRIOS (LIVRES) - EXERCICIO CORRENTE  
+  
+ÓRGÃO 02 GOVERNO MUNICIPAL  
+UNIDADE 04 COORDENADORIA DA GUARDA MUNICIPAL  
+FUNÇÃO 06 SEGURANÇA PÚBLICA  
+SUB-FUNÇÃO 181 POLICIAMENTO  
+PROGRAMA 0009 VIGILANCIA AO PATRIMONIO E SEGURANÇA MUNICIPAL  
+PROJETO/ATIVIDADE 2.009 MANUTENÇÃO E REVIT. DA COORD. GUARDA MUNCIPAL  
+Fonte 1000 RECURSOS ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 46.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 32.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil....................................R$ 9.000,00  
+  
+ÓRGÃO 04 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+UNIDADE 05 DEPARTAMENTO DE COMPRAS  
+FUNÇÃO 04 ADMINISTRAÇÃO  
+SUB-FUNÇÃO 122 ADMINISTRAÇÃO GERAL  
+PROGRAMA 0017 MANUTENÇÃO DA ADMINISTRAÇÃO GERAL DE COMPRAS  
+PROJETO/ATIVIDADE 2.023 MANUTENÇÃO E REVIT. DO DPTO DE COMPRAS  
+Fonte 1000 RECURSOS ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 07 SECRETARIA MUNICIPAL DE ESPORTE E LAZER  
+UNIDADE 01 DEPARTAMENTO DE ESPORTE  
+FUNÇÃO 27 DESPORTO E LAZER  
+  
+SUB-FUNÇÃO 812 DESPORTO COMUNITÁRIO  
+PROGRAMA 0032 INCENTIVO A PRATICA DESPORTIVA  
+PROJETO/ATIVIDADE 2040 MANUTENÇÃO E REVIT. DO DEPARTAMENTO DE ESPORTE  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 65.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 10.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 15.000,00  
+33.90.30.00 Material de Consumo.........................................................R$ 20.000,00  
+33.90.33.00 Passagens e Despesas com Locação............................................R$ 35.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2043 MANUTENÇÃO E REVIT. DO DEPARTAMENTO MÉDICO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 50.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 60.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 30.000,00  
+33.90.14.00 Diárias - Pessoal Civil.....................................................R$ 15.000,00  
+33.90.30.00 Material de Consumo........................................................R$ 100.000,00  
+33.90.32.00 Material de Distribuição Gratuita..........................................R$ 100.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 09 SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+UNIDADE 01 DPTO DE INTEGRAÇÃO E AÇÕES COMUNITÁRIAS  
+FUNÇÃO 08 ASSISTENCIA SOCIAL  
+SUB-FUNÇÃO 244 ASSISTENCIA COMUNITÁRIA  
+PROGRAMA 0037 INVESTIMENTO SOCIAL EM ATIVIDADE COMUNITARIAS  
+PROJETO/ATIVIDADE 2051 MANUTENÇÃO E REVIT. DO DPTO DE INTEGRAÇÃO E AÇÕES COMUNITÁRIAS  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.32.00 Material de Distribuição Gratuita..........................................R$ 200.000,00  
+33.90.33.00 Passagens e Despesas com Locação............................................R$ 15.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 09 SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+UNIDADE 03 FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E ADOLESCENTE  
+  
+FUNÇÃO 08 ASSISTENCIA SOCIAL  
+SUB-FUNÇÃO 243 ASSISTENCIA A CRIANÇA E ADOLESCENTE  
+PROGRAMA 0039 INVESTIMENTO SOCIAL NA CRIANÇA E ADOLESCENTE  
+PROJETO/ATIVIDADE 6055 MANUTENÇÃO E REVIT. DO DPTO ASSIST. SOCIAL A CRIANÇA E AO ADOLESCENTE  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DEPESAS  
+33.90.30.00 Material de Consumo........................................R$ 676,67  
+33.90.33.00 Passagens e Despesas com Locação............................................R$ 25.883,26  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 01 DEPARTAMENTO DE LIMPEZA PUBLICA  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 452 SERVIÇOS URBANOS  
+PROGRAMA 0044 SERVIÇOS PÚBLICOS  
+PROJETO/ATIVIDADE 2.060 MANUTENÇÃO E REVIT. DO DPTO DE LIMPEZA PUBLICA  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo........................................................R$ 100.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 30.000,00  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 03 DEPARTAMENTO DE URBANISMO  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 451 INFRAESTRUTURA URBANA  
+PROGRAMA 0046 INFRAESTRUTURA URBANA  
+PROJETO/ATIVIDADE 2.066 MANUTENÇÃO E REVIT. DO DPTO DE URBANISMO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 20.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 10.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 150.000,00  
+  
+ÓRGÃO 12 SECRETARIA MUNICIPAL DE TURISMO  
+UNIDADE 01 DEPARTAMENTO DE DIVULGAÇÃO  
+FUNÇÃO 23 COMÉRCIO E SERVIÇOS  
+SUB-FUNÇÃO 695 TURISMO  
+PROGRAMA 0052 INCENTIVO AO TURISMO  
+PROJETO/ATIVIDADE 2.069 MANUTENÇÃO E REVIT. DO DPTO DE DIVULGAÇÃO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 130.000,00  
+33.90.39.88 Serviço de Publicidade e Propaganda........................................R$ 150.000,00  
+  
+TOTAL DA SUPLEMENTAÇÃO DA FONTE 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE R$ 1.768.559,93
+
+
+§ 2º
+
+Abrem crédito especial por provável excesso de arrecadação na fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007) R$ 326.340,13 e fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente R$ 294.981,05;  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 1.008 CONSTRUÇÃO E AQUISIÇÃO DE BENS DO ATIVO IMOBILIZADO NAS ESCOLAS DO ENSINO FUNDAMENTAL  
+Fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007)  
+ELEMENTO DE DESPESAS  
+44.90.51.00 Obras e Instalações........................................................R$ 206.340,13  
+44.90.52.00 Equipamentos e Material Permanente..........................................R$ 70.000,00  
+Fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente  
+44.90.51.00 Obras e Instalações........................................................R$ 244.981,05  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2030 MANUTENÇÃO E REVIT. DO ENSINO FUNDAMENTAL- O. RECURSOS  
+Fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007)  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2030 MANUTENÇÃO E REVIT. DO ENSINO FUNDAMENTAL-O. RECURSOS  
+Fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+TOTAL DA SUPLEMENTAÇÃO DA FONTE 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007)  
+demais impostos vinculados à educação - Exercício Corrente.............................R$ 294.981,05
+
+
+§ 3º
+
+Abrem crédito especial por provável excesso de arrecadação na fonte  
+1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente.................R$ 421.743,72  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2043 MANUTENÇÃO E REVIT. DO DEPARTAMENTO MÉDICO  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 40.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 92.743,72  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2044 MANUTENÇÃO E REVIT. DO PROGRAMA SAÚDE DA FAMILIA = PSF  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil..............................R$ 130.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 80.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 30.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 304 VIGILANCIA SANITARIA  
+PROGRAMA 0036 VIGILANCIA A SAÚDE  
+PROJETO/ATIVIDADE 2046 MANUTENÇÃO E REVIT. DO DPTO DE VIGILANCIA SANITÁRIA  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 10.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil.........................................R$ 2.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil....................................R$ 2.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+  
+SUB-FUNÇÃO 305 VIGILANCIA EPIDEMIOLOGICA  
+PROGRAMA 0036 VIGILANCIA A SAÚDE  
+PROJETO/ATIVIDADE 2049 MANUTENÇÃO E REVIT. DO SERVIÇO DE VIGILANCIA EPIDEMIOLOGICA E CONTROLE  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 20.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 15.000,00  
+  
+TOTAL DA SUPLEMENTAÇÃO DA FONTE 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício  
+Corrente...............................................................................R$ 421.743,72
+
+
+§ 4º
+
+Abrem crédito especial por provável excesso de arrecadação na fonte 1102 FUNDEB 40% - Exercício Corrente R$ 358.490,51  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 1.007 CONSTRUÇÃO E AQUISIÇÃO DE BENS DO ATIVO IMOBILIZADO NAS ESCOLAS DO ENSINO FUNDAMENTAL  
+Fonte 1102 FUNDEB 40% - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+44.90.51.00 Obras e Instalações........................................................R$ 258.490,51  
+44.90.52.00 Equipamentos e Material Permanente.........................................R$ 100.000,00  
+  
+TOTAL DA SUPLEMENTAÇÃO DA FONTE 1102 FUNDEB 40% - Exercício Corrente...................R$ 358.490,51
+
+
+§ 5º
+
+Abrem crédito especial por provável excesso de arrecadação na fonte  
+1507 COSIP-CONTRIBUIÇÃO DE ILUMINAÇÃO PUBLICA ART. 149-A CF............................R$ 184.132,29  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 02 DEPARTAMENTO DE OBRAS  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 452 SERVIÇOS URBANOS  
+PROGRAMA 0048 SERVIÇOS URBANOS  
+PROJETO/ATIVIDADE 2.061 MANUTENÇÃO E REVIT. DO SETOR DE ILUMINAÇÃO PUBLICA  
+PROJETO/ATIVIDADE 1.021 EXTENSÃO DE REDE DE ENERGIA ELETRICA  
+Fonte 1507 COSIP-CONTRIBUIÇÃO DE ILUMINAÇÃO PUBLICA ART. 149-A CF  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 34.132,29  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+44.90.51.00 Obras e Instalações........................................................R$ 100.000,00  
+  
+TOTAL DA SUPLEMENTAÇÃO DA FONTE 1507 COSIP-CONTRIBUIÇÃO DE  
+ILUMINAÇÃO PUBLICA ART. 149-ACF........................................................R$ 184.132,29
+
+
+Art. 2º.
+
+Os recursos necessários à execução do contido no Art. 1º decorrerão do excesso de arrecadação das receitas fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE no valor de R$ 2.811.624,83; distribuídos no § 1º fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE R$ 1.768.559,93; no § 2º fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007) R$ 326.340,13; fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente R$ 294.981,05; no § 3º fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente R$ 421.743,72 assim perfazendo o montante de R$ 2.811.624,83 conforme relação abaixo;
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+| RECEITA |PREVISÃO INICIAL| ARRECADADO | PREVISÃO | PROVÁVEL |  
+| | | 31/08/2010 | EM 31/12/2010 | EXCESSO DE |  
+| | | | | ARRECADAÇÃO |  
+|=================+================|===============|===============|===============|  
+|RECEITA TRIBUTARIA | | | |  
+|-----------------+----------------|---------------|---------------|---------------|  
+|IPTU | 1.744.197,60| 1.762.337,77| 2.150.115,40| 405.917,80|  
+|-----------------+----------------|---------------|---------------|---------------|  
+|RECEITAS DA DIVIDA ATIVA | | | |  
+|-----------------+----------------|---------------|---------------|---------------|  
+|DIVIDA ATIVA | 826.000,00| 909.941,80| 1.600.006,39| 774.006,39|  
+|-----------------+----------------|---------------|---------------|---------------|  
+|TRANSFERENCIAS CORRENTES | | | |  
+|-----------------+----------------|---------------|---------------|---------------|  
+|FPM - FUNDO| 11.000.000,00| 7.228.818,03| 11.033.83,61| 33.833,61|  
+|PARTIC. | | | | |  
+|MUNICIPIOS | | | | |  
+|-----------------|----------------|---------------|---------------|---------------|  
+|I.C.M.S -| 6.800.000,00| 5.295.003,97| 8.397.867,03| 1.597.867,03|  
+|ESTADUAL | | | | |  
+|-----------------|----------------|---------------|---------------|---------------|  
+| | | | | 2.811.624,83|  
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|  
+  
+Complementados com § 4º. excesso de arrecadação na fonte 1102 FUNDEB 40% - Exercício Corrente R$ 358.490,51; e § 5º. excesso de arrecadação na fonte 1507 COSIP-CONTRIBUIÇÃO DE ILUMINAÇÃO PUBLICA ART. 149-A CF R$ 184.132,29 conforme relação abaixo:  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+| RECEITA |PREVISÃO INICIAL| ARRECADADO | PREVISÃO EM |PROVÁVEL EXCESSO|  
+| | | 31/08/2010 | 31/12/2010 | DE ARRECADAÇÃO |  
+|================+================|================|================|================|  
+|RECEITAS FUNDEB | | | |  
+|----------------+----------------|----------------|----------------|----------------|  
+|FUNDEB 60% e 40%| 4.930.000,00| 3.448.864,75| 5.288.490,51| 358.490,51|  
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|  
+  
+FONTE 1101 - FUNDEB 60% - EXERCÍCIO CORRENTE FONTE 1102 - FUNDEB 40% - EXERCÍCIO CORRENTE  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+| RECEITAS DE | | | | |  
+| CONTRIBUIÇÕES | | | | |  
+|================|================|================|================|================|  
+|CONTRIBUIÇÃO | 1.250.000,00| 967.980,70| 1.434.132,29| 184.132,29|  
+|ILUMINAÇÃO | | | | |  
+|PUBLICA | | | | |  
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|  
+  
+FONTE 1507 COSIP-CONTRIBUIÇÃO DE ILUMINAÇÃO PUBLICA ART. 149-A CF  
+  
+Assim perfazendo o montante de R$ 3.354.247,63 conforme acima exposto.
+
+
+Art. 3º.
+
+A execução desta Lei especial decorrerá das receitas orçamentárias, advindas de provável excesso de arrecadação no exercício de 2010, e não terá redução por se tratar de valores não previstos no orçamento do exercício de 2010.
+
+
+Art. 4º.
+
+Em decorrência da abertura do crédito adicional especial constante do artigo 1º, com recursos de excesso de arrecadação demonstradas no artigo 2º da presente Lei, o montante de R$ 3.354.247,63 (Três milhões, trezentos e cinqüenta e quatro mil, duzentos e quarenta e sete reais e sessenta e três centavos), das despesas e parte das metas físicas programadas para o exercício de 010 na ação orçamentária estabelecida no ANEXO II da Lei nº 1662 de 18/01/2010 (Plano Plurianual), ficam re-programadas na forma abaixo descrita:  
+  
+ÓRGÃO 02 GOVERNO MUNICIPAL  
+UNIDADE 04 COORDENADORIA DA GUARDA MUNICIPAL  
+FUNÇÃO 06 SEGURANÇA PÚBLICA  
+SUB-FUNÇÃO 181 POLICIAMENTO  
+PROGRAMA 0009 VIGILANCIA AO PATRIMONIO E SEGURANÇA MUNICIPAL  
+PROJETO/ATIVIDADE 2.009 MANUTENÇÃO E REVIT. DA COORD. GUARDA MUNCIPAL  
+Fonte 1000 RECURSOS ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 46.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 32.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil....................................R$ 9.000,00  
+  
+ÓRGÃO 04 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+UNIDADE 05 DEPARTAMENTO DE COMPRAS  
+FUNÇÃO 04 ADMINISTRAÇÃO  
+SUB-FUNÇÃO 122 ADMINISTRAÇÃO GERAL  
+PROGRAMA 0017 MANUTENÇÃO DA ADMINISTRAÇÃO GERAL DE COMPRAS  
+PROJETO/ATIVIDADE 2.023 MANUTENÇÃO E REVIT. DO DPTO DE COMPRAS  
+Fonte 1000 RECURSOS ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 07 SECRETARIA MUNICIPAL DE ESPORTE E LAZER  
+UNIDADE 01 DEPARTAMENTO DE ESPORTE  
+FUNÇÃO 27 DESPORTO E LAZER  
+SUB-FUNÇÃO 812 DESPORTO COMUNITÁRIO  
+PROGRAMA 0032 INCENTIVO A PRATICA DESPORTIVA  
+PROJETO/ATIVIDADE 2040 MANUTENÇÃO E REVIT. DO DEPARTAMENTO DE ESPORTE  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 65.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 10.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 15.000,00  
+33.90.30.00 Material de Consumo.........................................................R$ 20.000,00  
+33.90.33.00 Passagens e Despesas com Locação............................................R$ 35.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2043 MANUTENÇÃO E REVIT. DO DEPARTAMENTO MÉDICO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 50.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 60.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 30.000,00  
+33.90.14.00 Diárias - Pessoal Civil.....................................................R$ 15.000,00  
+33.90.30.00 Material de Consumo........................................................R$ 100.000,00  
+33.90.32.00 Material de Distribuição Gratuita..........................................R$ 100.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 09 SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+UNIDADE 01 DPTO DE INTEGRAÇÃO E AÇÕES COMUNITÁRIAS  
+FUNÇÃO 08 ASSISTENCIA SOCIAL  
+SUB-FUNÇÃO 244 ASSISTENCIA COMUNITÁRIA  
+PROGRAMA 0037 INVESTIMENTO SOCIAL EM ATIVIDADE COMUNITARIAS  
+PROJETO/ATIVIDADE 2051 MANUTENÇÃO E REVIT. DO DPTO DE INTEGRAÇÃO E AÇÕES COMUNITÁRIAS  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.32.00 Material de Distribuição Gratuita..........................................R$ 200.000,00  
+33.90.33.00 Passagens e Despesas com Locação............................................R$ 15.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 09 SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+UNIDADE 03 FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E ADOLESCENTE  
+FUNÇÃO 08 ASSISTENCIA SOCIAL  
+SUB-FUNÇÃO 243 ASSISTENCIA A CRIANÇA E ADOLESCENTE  
+PROGRAMA 0039 INVESTIMENTO SOCIAL NA CRIANÇA E ADOLESCENTE  
+PROJETO/ATIVIDADE 6055 MANUTENÇÃO E REVIT. DO DPTO ASSIST. SOCIAL A CRIANÇA E AO ADOLESCENTE  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo................................................R$ R$ 676,6725.883,26  
+33.90.33.00 Passagens e Despesas com Locação  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 01 DEPARTAMENTO DE LIMPEZA PUBLICA  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 452 SERVIÇOS URBANOS  
+  
+PROGRAMA 0044 SERVIÇOS PÚBLICOS  
+PROJETO/ATIVIDADE 2.060 MANUTENÇÃO E REVIT. DO DPTO DE LIMPEZA PUBLICA  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo........................................................R$ 100.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 30.000,00  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 03 DEPARTAMENTO DE URBANISMO  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 451 INFRAESTRUTURA URBANA  
+PROGRAMA 0046 INFRAESTRUTURA URBANA  
+PROJETO/ATIVIDADE 2.066 MANUTENÇÃO E REVIT. DO DPTO DE URBANISMO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DEPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 20.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 10.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 150.000,00  
+  
+ÓRGÃO 12 SECRETARIA MUNICIPAL DE TURISMO  
+UNIDADE 01 DEPARTAMENTO DE DIVULGAÇÃO  
+FUNÇÃO 23 COMÉRCIO E SERVIÇOS  
+SUB-FUNÇÃO 695 TURISMO  
+PROGRAMA 0052 INCENTIVO AO TURISMO  
+PROJETO/ATIVIDADE 2.069 MANUTENÇÃO E REVIT. DO DPTO DE DIVULGAÇÃO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 130.000,00  
+33.90.39.88 Serviço de Publicidade e Propaganda........................................R$ 150.000,00  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 1.008 CONSTRUÇÃO E AQUISIÇÃO DE BENS DO ATIVO IMOBILIZADO NAS ESCOLAS DO ENSINO FUNDAMENTAL  
+Fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007)  
+ELEMENTO DE DESPESAS  
+44.90.51.00 Obras e Instalações........................................................R$ 206.340,13  
+44.90.52.00 Equipamentos e Material Permanente..........................................R$ 70.000,00  
+Fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente........R$ 244.981,05  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2030 MANUTENÇÃO E REVIT. DO ENSINO FUNDAMENTAL- O. RECURSOS  
+Fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007)  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2030 MANUTENÇÃO E REVIT. DO ENSINO FUNDAMENTAL-O. RECURSOS  
+Fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2043 MANUTENÇÃO E REVIT. DO DEPARTAMENTO MÉDICO  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 40.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 92.743,72  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2044 MANUTENÇÃO E REVIT. DO PROGRAMA SAÚDE DA FAMILIA = PSF  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil..............................R$ 130.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 304 VIGILANCIA SANITARIA  
+PROGRAMA 0036 VIGILANCIA A SAÚDE  
+PROJETO/ATIVIDADE 2046 MANUTENÇÃO E REVIT. DO DPTO DE VIGILANCIA SANITÁRIA  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 10.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil.........................................R$ 2.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil....................................R$ 2.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 305 VIGILANCIA EPIDEMIOLOGICA  
+PROGRAMA 0036 VIGILANCIA A SAÚDE  
+PROJETO/ATIVIDADE 2049 MANUTENÇÃO E REVIT. DO SERVIÇO DE VIGILANCIA EPIDEMIOLOGICA E CONTROLE  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 20.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 15.000,00  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 1.007 CONSTRUÇÃO E AQUISIÇÃO DE BENS DO ATIVO IMOBILIZADO NAS ESCOLAS DO ENSINO FUNDAMENTAL  
+Fonte 1102 FUNDEB 40% - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+44.90.51.00 Obras e Instalações........................................................R$ 258.490,51  
+44.90.52.00 Equipamentos e Material Permanente.........................................R$ 100.000,00  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 02 DEPARTAMENTO DE OBRAS  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 452 SERVIÇOS URBANOS  
+  
+PROGRAMA 0048 SERVIÇOS URBANOS  
+PROJETO/ATIVIDADE 2.061 MANUTENÇÃO E REVIT. DO SETOR DE ILUMINAÇÃO PUBLICA  
+PROJETO/ATIVIDADE 1.021 EXTENSÃO DE REDE DE ENERGIA ELETRICA  
+Fonte 1507 COSIP-CONTRIBUIÇÃO DE ILUMINAÇÃO PUBLICA ART. 149-A CF  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 34.132,29  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+44.90.51.00 Obras e Instalações........................................................R$ 100.000,00
+
+
+Art. 5º.
+
+Face abertura do crédito adicional especial a que se refere o Art. 1º., com recursos de excesso de arrecadação demonstrado no artigo 2º e em razão dos ajustes efetuados através dos § 1º ; § 2º.; § 3º.; § 4º.; § 5º Art. 1º., da presente Lei, o montante de R$ 3.354.247,63 (Três milhões, trezentos e cinqüenta e quatro mil, duzentos e quarenta e sete reais e sessenta e três centavos), das despesas e parte das metas físicas programadas para e exercício de 2010 na ação orçamentária estabelecida no ANEXO I da Lei de Diretrizes Orçamentárias (Lei Municipal 1648 de 17/08/2008 e 1663 de 18/01/2010), ficam re-programadas na forma abaixo descrita:  
+  
+ÓRGÃO 02 GOVERNO MUNICIPAL  
+UNIDADE 04 COORDENADORIA DA GUARDA MUNICIPAL  
+FUNÇÃO 06 SEGURANÇA PÚBLICA  
+SUB-FUNÇÃO 181 POLICIAMENTO  
+PROGRAMA 0009 VIGILANCIA AO PATRIMONIO E SEGURANÇA MUNICIPAL  
+PROJETO/ATIVIDADE 2.009 MANUTENÇÃO E REVIT. DA COORD. GUARDA MUNCIPAL  
+Fonte 1000 RECURSOS ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 46.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 32.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil....................................R$ 9.000,00  
+  
+ÓRGÃO 04 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+UNIDADE 05 DEPARTAMENTO DE COMPRAS  
+FUNÇÃO 04 ADMINISTRAÇÃO  
+SUB-FUNÇÃO 122 ADMINISTRAÇÃO GERAL  
+PROGRAMA 0017 MANUTENÇÃO DA ADMINISTRAÇÃO GERAL DE COMPRAS  
+PROJETO/ATIVIDADE 2.023 MANUTENÇÃO E REVIT. DO DPTO DE COMPRAS  
+Fonte 1000 RECURSOS ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 07 SECRETARIA MUNICIPAL DE ESPORTE E LAZER  
+UNIDADE 01 DEPARTAMENTO DE ESPORTE  
+FUNÇÃO 27 DESPORTO E LAZER  
+SUB-FUNÇÃO 812 DESPORTO COMUNITÁRIO  
+PROGRAMA 0032 INCENTIVO A PRATICA DESPORTIVA  
+  
+PROJETO/ATIVIDADE 2040 MANUTENÇÃO E REVIT. DO DEPARTAMENTO DE ESPORTE  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 65.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 10.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 15.000,00  
+33.90.30.00 Material de Consumo.........................................................R$ 20.000,00  
+33.90.33.00 Passagens e Despesas com Locação............................................R$ 35.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2043 MANUTENÇÃO E REVIT. DO DEPARTAMENTO MÉDICO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 50.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 60.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 30.000,00  
+33.90.14.00 Diárias - Pessoal Civil.....................................................R$ 15.000,00  
+33.90.30.00 Material de Consumo........................................................R$ 100.000,00  
+33.90.32.00 Material de Distribuição Gratuita..........................................R$ 100.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 100.000,00  
+  
+ÓRGÃO 09 SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+UNIDADE 01 DPTO DE INTEGRAÇÃO E AÇÕES COMUNITÁRIAS  
+FUNÇÃO 08 ASSISTENCIA SOCIAL  
+SUB-FUNÇÃO 244 ASSISTENCIA COMUNITÁRIA  
+PROGRAMA 0037 INVESTIMENTO SOCIAL EM ATIVIDADE COMUNITARIAS  
+PROJETO/ATIVIDADE 2051 MANUTENÇÃO E REVIT. DO DPTO DE INTEGRAÇÃO E AÇÕES COMUNITÁRIAS  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.32.00 Material de Distribuição Gratuita..........................................R$ 200.000,00  
+33.90.33.00 Passagens e Despesas com Locação............................................R$ 15.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 09 SECRETARIA MUNICIPAL DE AÇÃO SOCIAL  
+UNIDADE 03 FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E ADOLESCENTE  
+FUNÇÃO 08 ASSISTENCIA SOCIAL  
+SUB-FUNÇÃO 243 ASSISTENCIA A CRIANÇA E ADOLESCENTE  
+  
+PROGRAMA 0039 INVESTIMENTO SOCIAL NA CRIANÇA E ADOLESCENTE  
+PROJETO/ATIVIDADE 6055 MANUTENÇÃO E REVIT. DO DPTO ASSIST. SOCIAL A CRIANÇA E AO ADOLESCENTE  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo................................................R$ R$ 676,6725.883,26  
+33.90.33.00 Passagens e Despesas com Locação  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 01 DEPARTAMENTO DE LIMPEZA PUBLICA  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 452 SERVIÇOS URBANOS  
+PROGRAMA 0044 SERVIÇOS PÚBLICOS  
+PROJETO/ATIVIDADE 2.060 MANUTENÇÃO E REVIT. DO DPTO DE LIMPEZA PUBLICA  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo........................................................R$ 100.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 30.000,00  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 03 DEPARTAMENTO DE URBANISMO  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 451 INFRAESTRUTURA URBANA  
+PROGRAMA 0046 INFRAESTRUTURA URBANA  
+PROJETO/ATIVIDADE 2.066 MANUTENÇÃO E REVIT. DO DPTO DE URBANISMO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 20.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 10.000,00  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 150.000,00  
+  
+ÓRGÃO 12 SECRETARIA MUNICIPAL DE TURISMO  
+UNIDADE 01 DEPARTAMENTO DE DIVULGAÇÃO  
+FUNÇÃO 23 COMÉRCIO E SERVIÇOS  
+SUB-FUNÇÃO 695 TURISMO  
+PROGRAMA 0052 INCENTIVO AO TURISMO  
+PROJETO/ATIVIDADE 2.069 MANUTENÇÃO E REVIT. DO DPTO DE DIVULGAÇÃO  
+Fonte 1000 RECURSO ORDINÁRIO (LIVRES) - EXERCICIO CORRENTE  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica....................................R$ 130.000,00  
+33.90.39.88 Serviço de Publicidade e Propaganda........................................R$ 150.000,00  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 1.008 CONSTRUÇÃO E AQUISIÇÃO DE BENS DO ATIVO IMOBILIZADO NAS ESCOLAS DO ENSINO FUNDAMENTAL  
+Fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007)  
+ELEMENTO DE DESPESAS  
+44.90.51.00 Obras e Instalações........................................................R$ 206.340,13  
+44.90.52.00 Equipamentos e Material Permanente..........................................R$ 70.000,00  
+Fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente  
+44.90.51.00 Obras e Instalações........................................................R$ 244.981,05  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2030 MANUTENÇÃO E REVIT. DO ENSINO FUNDAMENTAL- O. RECURSOS  
+Fonte 1103 20% Sobre Transferências Constitucionais - Exercício Corrente (Lei 11.494/2007)  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2030 MANUTENÇÃO E REVIT. DO ENSINO FUNDAMENTAL-O. RECURSOS  
+Fonte 1104 25% sobre demais impostos vinculados à educação - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2043 MANUTENÇÃO E REVIT. DO DEPARTAMENTO MÉDICO  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 40.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2044 MANUTENÇÃO E REVIT. DO PROGRAMA SAÚDE DA FAMILIA = PSF  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil..............................R$ 130.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 80.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil...................................R$ 30.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 304 VIGILANCIA SANITARIA  
+PROGRAMA 0036 VIGILANCIA A SAÚDE  
+PROJETO/ATIVIDADE 2046 MANUTENÇÃO E REVIT. DO DPTO DE VIGILANCIA SANITÁRIA  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 10.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil.........................................R$ 2.000,00  
+31.90.16.00 Outras Despesas Variáveis - Pessoal Civil....................................R$ 2.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 305 VIGILANCIA EPIDEMIOLOGICA  
+PROGRAMA 0036 VIGILANCIA A SAÚDE  
+PROJETO/ATIVIDADE 2049 MANUTENÇÃO E REVIT. DO SERVIÇO DE VIGILANCIA EPIDEMIOLOGICA E CONTROLE  
+Fonte 1303 15% - Saúde - Receitas Vinculadas (EC 29/00) - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+31.90.11.00 Vencimentos e Vantagens Fixas - Pessoal Civil...............................R$ 20.000,00  
+31.90.13.00 Obrigações Patronais - Pessoal Civil........................................R$ 15.000,00  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+  
+PROJETO/ATIVIDADE 1.007 CONSTRUÇÃO E AQUISIÇÃO DE BENS DO ATIVO IMOBILIZADO NAS ESCOLAS DO ENSINO FUNDAMENTAL  
+Fonte 1102 FUNDEB 40% - Exercício Corrente  
+ELEMENTO DE DESPESAS  
+44.90.51.00 Obras e Instalações........................................................R$ 258.490,51  
+44.90.52.00 Equipamentos e Material Permanente.........................................R$ 100.000,00  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 02 DEPARTAMENTO DE OBRAS  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 452 SERVIÇOS URBANOS  
+PROGRAMA 0048 SERVIÇOS URBANOS  
+PROJETO/ATIVIDADE 2.061 MANUTENÇÃO E REVIT. DO SETOR DE ILUMINAÇÃO PUBLICA  
+PROJETO/ATIVIDADE 1.021 EXTENSÃO DE REDE DE ENERGIA ELETRICA  
+Fonte 1507 COSIP-CONTRIBUIÇÃO DE ILUMINAÇÃO PUBLICA ART. 149-A CF  
+ELEMENTO DE DESPESAS  
+33.90.30.00 Material de Consumo.........................................................R$ 34.132,29  
+33.90.39.00 Outros Serviços de 3º - Pessoa Jurídica.....................................R$ 50.000,00  
+44.90.51.00 Obras e Instalações........................................................R$ 100.000,00
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra - Pr., em 09 de novembro de 2010.  
+  
+DR. MANOEL KUBA,  
+Prefeito Municipal.

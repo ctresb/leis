@@ -1,0 +1,114 @@
+---
+titulo: "Lei Ordinária nº 4.660, de 23 de agosto de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4660"
+data: "2017-08-23"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3359"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/206/text"
+sha256_fonte: "616082fe20a03b817252e3b67b3799487d9dcbec4f452200c42cb3d79939c9ad"
+sha256_texto: "52e98f880f79e2b4edeb49a2654ca14148b6d52f951c93ba16d05c05094b9ead"
+capturado_em_fonte: "2026-10-27T17:39:52.720948-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.660, de 23 de agosto de 2017
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE
+
+
+LEI Nº4660, DE 23 DE AGOSTO DE 2017
+
+
+Dá autorização do Sindicato de Empregados e Funcionários Públicos de Barra Mansa - SEFPBM para celebrar Termo de Convênio com instituições em favor dos filiados e dá outras providências.
+
+
+Art. 1º.
+
+Fica autorizado o Sindicato de Empregados e Funcionários Públicos de Barra Mansa a celebrar Termo de Convênio com entidades públicas, privadas ou sindicais visando ao desconto em folha de pagamento pela Prefeitura e Autarquias, na remuneração dos Servidores Municipais filiados, em favor do Sindicato e/ou Instituições Conveniadas ao Sindicato conforme previsto nos respectivos contratos.
+
+
+§ 1º
+
+A Prefeitura somente efetuará o desconto acima referido se houver prévia autorização escrita do servidor filiado, que será encaminhada pelo Sindicato ou Instituição Conveniada ao Sindicato ao Departamento de Recursos Humanos do Município.
+
+
+§ 2º
+
+O valor do desconto a ser efetuado na folha de pagamento de cada servidor será relacionado pelo Sindicato e ou Entidade conveniada e encaminhada pelo Sindicato ou Instituição Conveniada ao Sindicato ao Departamento de Recursos Humanos do Município.
+
+
+Art. 2º.
+
+O valor do desconto a ser efetuado na folha de pagamento de cada servidor será relacionado pelo Sindicato e/ou Entidade conveniada e encaminhado ao Departamento de Recursos Humanos da Prefeitura até o 5º(quinto) dia de cada mês, impreterivelmente.
+
+
+Art. 3º.
+
+A Prefeitura será a responsável pelo desconto dos valores devidos e pelo seu repasse ao Sindicato e às Instituições Conveniadas, que deverá ser realizado até o quinto dia útil após a data de pagamento da remuneração ao Servidor.
+
+
+§ 1º
+
+Cabe a Prefeitura informar, no demonstrativo de rendimentos do Servidor, de forma discriminada, o valor do desconto mensal decorrente de cada operação proveniente dos convênios celebrados.
+
+
+§ 2º
+
+A Prefeitura não será corresponsável pelo pagamento de qualquer valor proveniente de convênios firmados pelo Servidor.
+
+
+§ 3º
+
+Na hipótese de comprovação de que o pagamento mensal do valor a título de convênio tenha sido descontado do Servidor e não tenha sido repassado pela Prefeitura, à título de convênio tenha sido descontado do Servidor e não tenha sido repassado pela Prefeitura, à Instituição conveniada, fica esta proibida de incluir o nome do Servidor em cadastro de inadimplentes.
+
+
+Art. 4º.
+
+Os descontos e as retenções mencionadas nesta Lei não poderão ultrapassar o limite de 30%(trinta por cento) do valor da remuneração, considerando em todos os casos os descontos já existentes.
+
+
+§ 1º
+
+A Instituição Conveniada que proceder à retenção de valor superior ao limite estabelecido no caput deste artigo perderá todas as garantias que lhe são conferidas por esta Lei.
+
+
+§ 2º
+
+A Prefeitura disponibilizará para a entidade sindical, sempre que solicitada, os valores decorrentes de consignação de cada Servidor filiado por meio digital ou de impressão de segunda via do contracheque.
+
+
+Art. 5º.
+
+O art. 16 da Lei nº 3.965/2011, de 8 de julho de 2011, é acrescido do seguinte parágrafo:
+
+
+Art. 6º.
+
+Ficam revogadas as Leis 4604, de 17 de janeiro de 2017, 4609, de 10 de fevereiro de 2017, 4613 de 10 de fevereiro de 2017 e 4614 de 10 de fevereiro de 2017.
+
+
+Art. 7º.
+
+As despesas com a execução da presente Lei correrão por conta das dotações próprias do Orçamento vigente.
+
+
+Art. 8º.
+
+Ficam revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 23 DE AGOSTO DE 2017.
+
+
+RODRIGO DRABLE COSTA
+
+PREFEITO
+

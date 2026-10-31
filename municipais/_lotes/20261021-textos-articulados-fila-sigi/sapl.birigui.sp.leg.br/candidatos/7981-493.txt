@@ -1,0 +1,87 @@
+AUTORIZA O MUNICÍPIO DE BIRIGUI A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR NA LEI Nº 7.201/2022 – LEI ORÇAMENTÁRIA DE 2023, NA LEI Nº 7.145/2022 – LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2023 E NA LEI Nº 7.067/2021 – PLANO PLURIANUAL-PPA DE 2022 A 2025 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.
+
+Projeto de Lei nº 122/2023, de autoria do Prefeito Municipal.
+
+
+Eu, **LEANDRO MAFFEIS MILANI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir por decreto crédito adicional suplementar até o valor de R$ 3.000.000,00 (três milhões de reais), na Lei nº 7.067/2021 – PPA 2022/2025 e alterações, na Lei nº 7.145/2022 – LDO de 2023 e alterações e na Lei nº 7.201/2022 – Lei Orçamentária de 2023, com as seguintes classificações contábeis:
+
+03.00.00: INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE BIRIGUI  
+03.01.00: INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE BIRIGUI  
+03.01.01: MANUTENÇÃO DA ASSISTÊNCIA E PREVIDÊNCIA – PLANO FINANCEIRO  
+FUNÇÃO: 09 – Previdência Social  
+SUBFUNÇÃO: 272 – Previdência do Regime Estatutário  
+PROGRAMA: 0501 - Gestão da Previdência Municipal  
+AÇÃO: 2.503 - Manutenção da Assistência e Previdência – Plano Financeiro  
+Elemento Econômico: 3.1.90.01.00 – Aposentadorias, Reserva Remunerada E Reformas  
+Fonte de Recurso: 02 – Transferências e Convênios - Estaduais  
+Valor: R$ 3.000.000,00 (TRÊS MILHÕES DE REAIS)
+
+
+Art. 2º.
+
+O crédito adicional especial autorizado no artigo 1º desta Lei, correrá à conta de recursos especificados no art. 43, § 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, mediante anulação parcial das dotações abaixo, consubstanciadas no orçamento de 2023:  
+02.00.00 - PODER EXECUTIVO  
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+02.03.00 04.122.0006.2.015 / 3.3.90.39.00 Ficha nº 78 Fonte: 01 40.000,00  
+02.03.00 04.122.0006.2.016 / 3.3.90.39.00 Ficha nº 89 Fonte: 01 60.000,00  
+SECRETARIA MUNICIPAL DE PLANEJAMENTO E FINANÇAS  
+02.05.00 04.122.0007.2.019 / 3.3.90.47.00 Ficha nº 110 Fonte: 01 360.000,00  
+02.05.00 04.122.0007.2.019 / 3.3.90.91.00 Ficha nº 112 Fonte: 01 350.000,00  
+02.05.00 04.122.0007.2.018 / 3.3.90.39.00 Ficha nº 103 Fonte: 01 250.000,00  
+SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL  
+02.09.01 08.244.0029.2.085 / 3.3.90.30.00 Ficha nº 210 Fonte: 01 200.000,00  
+02.09.02 04.244.0033.2.109 / 3.3.90.36.00 Ficha nº 250 Fonte: 01 50.000,00  
+SECRETARIA MUNICIPAL DE OBRAS  
+02.12.00 15.451.0015.1.015 / 4.4.90.51.00 Ficha nº 636 Fonte: 01 200.000,00  
+02.12.00 15.452.0015.2.043 / 3.3.90.39.00 Ficha nº 640 Fonte: 01 100.000,00  
+02.12.00 15.452.0015.2.043 / 3.3.90.93.00 Ficha nº 643 Fonte: 01 50.000,00  
+SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO  
+02.14.00 04.122.0019.2.052 / 3.3.90.39.00 Ficha nº 689 Fonte: 01 100.000,00  
+02.14.00 19.126.0020.2.053 / 3.3.90.39.00 Ficha nº 694 Fonte: 01 50.000,00  
+SECRETARIA MUNICIPAL DE ESPORTES  
+02.15.00 27.812.0021.2.061 / 3.3.90.39.00 Ficha nº 726 Fonte: 01 200.000,00  
+SECRETARIA MUNICIPAL DE MEIO AMBIENTE  
+02.16.00 17.512.0023.2.066 / 3.3.90.36.00 Ficha nº 734 Fonte: 01 30.000,00  
+02.16.00 17.512.0023.2.068 / 4.4.90.52.00 Ficha nº 746 Fonte: 01 80.000,00  
+02.16.00 17.512.0023.2.069 / 4.4.90.52.00 Ficha nº 750 Fonte: 01 70.000,00  
+02.16.00 18.122.0022.2.062 / 3.3.90.36.00 Ficha nº 758 Fonte: 01 20.000,00  
+SECRETARIA MUNICIPAL DE CULTURA E TURISMO  
+02.17.00 13.392.0024.2.070 / 3.3.90.39.00 Ficha nº 780 Fonte: 01 50.000,00  
+02.17.00 13.695.0025.2.077 / 3.3.90.39.00 Ficha nº 803 Fonte: 01 50.000,00  
+SECRETARIA MUNICIPAL DE MOBILIDADE URBANA  
+02.18.00 06.451.0026.1.010 / 4.4.90.52.00 Ficha nº 810 Fonte: 01 290.000,00  
+02.18.00 06.451.0026.1.011 / 4.4.90.51.00 Ficha nº 811 Fonte: 01 200.000,00  
+02.18.00 06.451.0026.2.081 / 3.3.90.39.00 Ficha nº 819 Fonte: 01 200.000,00
+
+
+Art. 3º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no P.P.A. – Plano Plurianual 2022 a 2025 e na L.D.O. – Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 4º.
+
+Fica acrescida na transferência intragovernamental prevista no § 1º do artigo 3º, da Lei 7.201/2022 – LOA 2023, o valor do crédito adicional de que se trata esta lei.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte e cinco de agosto de dois mil e vinte e três.
+
+**LEANDRO MAFFEIS MILANI Prefeito Municipal**
+
+**ANTÔNIA LUCILENE FERREIRO JARDIM Secretária Municipal de Planejamento e Finanças**
+
+Publicada na Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, aos vinte e cinco de agosto de dois mil e vinte e três, por afixação no local de costume.
+
+**VICTÓRIA ZOCANTE DOS ANJOS Secretária Adjunta de Governo**

@@ -1,0 +1,55 @@
+---
+titulo: "LEI ORDINÁRIA nº 2.045, de 29 de agosto de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "2045"
+data: "2018-08-29"
+municipio: "Sertaneja"
+uf: "PR"
+codigo_ibge: "4126405"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.sertaneja.pr.leg.br/norma/601"
+fonte_texto: "https://sapl.sertaneja.pr.leg.br/media/sapl/public/normajuridica/2018/601/download_lei_2045.pdf"
+sha256_fonte: "fb04f7d65f30f359ad69b6651cb1b1f823d67fcac8af9db5304080daf2bcb790"
+sha256_texto: "650008a7afcc17358c9ec1b7b3167960805ad0c0f9f8eaf82400dc03835798d4"
+baixado_em: "2026-10-16"
+---
+
+# LEI ORDINÁRIA nº 2.045, de 29 de agosto de 2018
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N° 2045/2018 - DE 29 DE AGOSTO DE 2018 Súmula: "Autoriza a Abertura de Crédito Adicional Suplementar no valor de R$ 131.000,00 e dá outras providencias." O PREFEITO MUNICIPAL DE SERTANEJA, Estado do Paraná. FAÇO saber que a Câmara Municipal de Sertaneja, Estado do Paraná, APROVOU e EU, Prefeito Municipal, SANCIONO a seguinte, LEI:
+
+**Art. 1°** - Fica o Chefe do Poder Executivo Municipal autorizado a fazer a Abertura de um Crédito Adicional Suplementar no valor de R$ 131.000,00 (cento e trinta e um mil reais), nas seguintes dotações orçamentárias: 0300/0301 - SECRETARIA MUNICIPAL ADMINIST / DEPTO ADMINISTRATIVO 20.000,Oął 0301.041220021.2302-3390.39.00(32) - F 000 - OUT.SERV. TERC. P. JURIDICA 0600/0603 - SEC. MUNIC. SAUDE / HOSPITAL MUNICIPAL
+
+0603.103020024.2339-3390.30.00(251) - F 000 - MATERIAL CONSUMO 0603.103020024.2339-3390.39.00(253) - F 000 - OUT.SERV. TEC.RC. P. JURIDICA 40.000,00 0700/0701 - SEC. MUNIC. ASSIST. SOCIAL / DEP. ASSIST. SOCIAL 20.000,00 0701.082440025.2352-3390.30.00(25) - F 000 - MAT. DE CONSUMO 0703 - FUNDO MUNICIPAL DIR. CRIANÇA ADOLESCENTE 20.000,00 0703.082430025.2347-3390.30.00(305) - F 000 - MAT. DE CONSUMO 0800/0801 - SEC. M. ESPORTES / DEP. ESPORTES EVENTOS 5.000,0ął 0801.278120026.2353-3390.39.00(338) - F 000 - OUT. SERV . T. P. JURIDICA 0801.278120026.2353-3390.39.00(339) - F 504 - OUT. SERV . T. P. JURIDICA
+
+0904.123650028.1323-4490.52.00(605) - GF 3134 - EQUIP. MAT. PERMANENTE
+
+**Art. 2°** - Para a abertura do Crédito Adicional Suplementar de que trata o artigo anterior desta Lei, será utilizado A REDUÇÃO PARCIAL E TOTAL das seguintes dotações orçamentárias: 0300/0301 - SECRETARIA MUNICIPAL ADMINIST / DEPTO ADMINISTRATIVO
+
+0301.041220021.2302-3390.14.00(26) - F 000 - DIARIAS 0700/0702 - SEC. MUNIC. ASSIST.SOCIAL / FUNDO M. ASSIST. SOCIAL 8.000,00 0702.082440025.2343-3390.30.00(283) - F 000 - MAT. CONSUMO 8.000,0łął 0702.082440025.2344-3390.30.00(287) - F 000 - MAT. CONSUMO 18.000,00 0702.082440025.2345-3390.39.00(295) - F 000 - OUT.S.TERC. P. JURIDICA
+
+0702.082440025.2346-3390.30.00(298) - F 000 -MAT. CONSUMO 0702.082440025.2346-3390.39.00(300) - F 000 - OUT.S.TERC. PESSOA JURIDICA
+
+0703 - FUNDO MUNIC. CRIANÇA ADOLESCENTE 0703.082430025.1310-4490.51.00(302) - F 000 - OBRAS E INSTALAÇÕES
+
+6.000,0ął 0703.082430025.2347-4490.52.00(309) - F 000 - EQUOP. M. PERMANENTE AV. NOSSA SR. DO ROCIO, 233 - TEL.: (043) 562-1172 - FAX (043) 562-1010 CX. POSTAL 11 - CEP 86.340-000 - SERTANEJA - PR
+
+0800/0801 - SEC. MUNIC. ESPORTES / DEP. ESPORTES EVENTOS
+
+0801.278120026.2353-3190.16.00(333) - F 000 - OUT. DESP. VARIAVEIS
+
+0801.278120026.2353-4490.52.00(341) - F 504 - EQUIP.MAT. PERMANENTE 0802 - DEP. TURISMO
+
+0802.236950027.2356-3190.16.00(356) - F 000 - OUT. DESP VARIAVEIS
+
+0802.236950027.2356-4490.52.00(361) - F 000 - EQUIP. MAT. PERMANENTE
+
+0802.236950027.2360-4490.52.00(374) - F 000 - EQUIP.MAT. PERMANENTE 0802.236950027.1319-4490.51.00(351) - F 000 - OBRAS E INSTALAÇÕES
+
+0904.123650028.2370-3390.30.00(603) - GF 3134 - MAT. CONSUMO
+
+**Art. 3°** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Edifício da Prefeitura Municipal de Sertaneja, Estado do Paraná, em 29 de agosto de 2018. JAMISON DONIZETÉ DA SILVA C Prefeito Municipal AV. NOSSA SRº. DO ROCIO, 233 - TEL.: (043) 562-1172 - FAX (043) 562-1010 CX. POSTAL 11 - CEP 86.340-000 - SERTANEJA - PR
+

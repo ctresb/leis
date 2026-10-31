@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/lei_municipal_n._2.145-2023_sancionado.pdf da norma Lei nº 2.145, de 06 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Norma sancionada originalmente, aposta com o veto parcial, mas sancionada como se tivesse sido aprovada na íntegra",
+      "anexo_arquivo": "http://sapl.cascavel.ce.leg.br/media/sapl/public/anexonormajuridica/2023/1/lei_municipal_n._2.145-2023_sancionado.pdf",
+      "ano": 2023,
+      "norma": 1039
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cascavel.ce.leg.br/5d93443fbd6b42c815d45d48105cd874dbb1fdba9214b4777977938d6d28686d.json",
+      "url": "https://sapl.cascavel.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cascavel.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "509f07422249b463d023f238ac522223075386e941d73aad2e6c121967f010d8",
+      "bytes": 701,
+      "capturado_em": "2026-10-27T22:38:17.283449-03:00"
+    }
+  ]
+}

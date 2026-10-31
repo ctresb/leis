@@ -1,0 +1,62 @@
+{
+  "host": "sapl.barradopirai.rj.leg.br",
+  "metadados_unicos_observados": 230,
+  "total_api_declarado": 230,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 89,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradopirai.rj.leg.br/99ff7735b5c510691d260d652ada117a3b155a990196749a5fe80e95e380304c.json",
+    "url": "https://sapl.barradopirai.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.barradopirai.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "61d772b71cc4692c1a8d5670de836b1980249159087ad15b95aa7390f9fab38f",
+    "bytes": 966,
+    "capturado_em": "2026-10-27T17:12:29.094778-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradopirai.rj.leg.br/7e6dbf4613739069a38964fe9322714f40a12a2d4e7abc38cda02a2770d725bf.json",
+    "url": "https://sapl.barradopirai.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.barradopirai.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8ff3bb5895014b702f1bc13e85c773d8ed793159497eb7c6e9b5c3172d4732c8",
+    "bytes": 766,
+    "capturado_em": "2026-10-27T17:12:28.224153-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradopirai.rj.leg.br/e9b6af3a8320556e409cd394e7c5063cbf96a2246e519b687b1b850a44db5570.json",
+      "url": "https://sapl.barradopirai.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.barradopirai.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4551b8a7a8adfcedd733c7a7d6fb90eed36d20ff116d37f0399111cd013c25f4",
+      "bytes": 62422,
+      "capturado_em": "2026-10-27T17:12:31.569224-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradopirai.rj.leg.br/bcee9b210b2ca0919cca4b30b96d71d94e23ae8a013016732fe9238ccea9697a.json",
+      "url": "https://sapl.barradopirai.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.barradopirai.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "17b357e94a12a386c662ee91fb2fb2cdcec35631e16b6fb82be8641230178696",
+      "bytes": 61234,
+      "capturado_em": "2026-10-27T17:12:43.604352-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradopirai.rj.leg.br/32b9903a61c901c73e7eabcf7f31e6e7ed6d6423817281266d2400720183f4c7.json",
+      "url": "https://sapl.barradopirai.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.barradopirai.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "06ad3eba6a4c79d72ffc455f4ff07bed4b603abe5391d19536a397dcdd92495a",
+      "bytes": 17024,
+      "capturado_em": "2026-10-27T17:14:53.468031-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

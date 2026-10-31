@@ -1,0 +1,35 @@
+[
+  {
+    "host": "sapl.amontada.ce.leg.br",
+    "vinculo_sigi": {
+      "municipio": "Amontada",
+      "uf": "CE",
+      "url": "https://sapl.amontada.ce.leg.br/",
+      "codigo_ibge": "2300754",
+      "estado": "candidato oficial SIGI; API municipal ainda não validada",
+      "host": "sapl.amontada.ce.leg.br"
+    },
+    "inicio": "2026-10-21T06:42:10.047095-03:00",
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e60d79a0989389ac9ea96bfa34b3a9d9f4a9ef99f759650418e13f5906b55eab.json",
+      "sha256": "8a3f64d469446b1706dcd79b8db26db84a350830c9ce40f52104cea6a6e0e3ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e60d79a0989389ac9ea96bfa34b3a9d9f4a9ef99f759650418e13f5906b55eab.meta.json",
+      "sha256_metadata": "02293076c2e22f5c09420736345accd0624fbacfde7eb6fa2844b6137db93527"
+    },
+    "estado": "retido; execução parcial ou fonte indisponível",
+    "erro": "ValueError: 'municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.amontada.ce.leg.br/manifesto.json' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute.",
+    "fim": "2026-10-21T07:23:15.298021-03:00",
+    "checkpoint_interrompido_anterior": {
+      "estado": "iniciado; não repetir automaticamente",
+      "inicio": "2026-10-21T05:38:10.352307-03:00",
+      "vinculo_sigi": {
+        "municipio": "Amontada",
+        "uf": "CE",
+        "url": "https://sapl.amontada.ce.leg.br/",
+        "codigo_ibge": "2300754",
+        "estado": "candidato oficial SIGI; API municipal ainda não validada",
+        "host": "sapl.amontada.ce.leg.br"
+      }
+    }
+  }
+]

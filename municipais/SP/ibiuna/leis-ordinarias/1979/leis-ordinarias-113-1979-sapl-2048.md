@@ -1,0 +1,62 @@
+---
+titulo: "Lei nº 113, de 16 de julho de 1979"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "113"
+data: "1979-07-16"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2048"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/272/text"
+sha256_fonte: "02ee61689becae129058a9182e9c58394bf8318d7bac1fabdbb13fdfb087f7c5"
+sha256_texto: "658b2d743f586146d4eb9b6859d54c26a43b533a7b034a974ad69d02d215a9b8"
+capturado_em_fonte: "2026-10-28T13:56:59.490474-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 113, de 16 de julho de 1979
+
+Dispõe sobre a delimitação do Perímetro Urbano do Município de Ibiúna e delimitação do Distrito do Paruru, deste Município
+
+
+**FAÇO SABER que a Câmara Municipal de Ibiúna** aprovou e eu ORLANDO DA SILVA, na qualidade de Prefeito do Município de Ibiúna, sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+O Perímetro Urbano da Sede do Município de Ibiúna, passa a obedecer as seguintes delimitações:
+
+
+“Começa na ponte de concreto, sobre o Rio Sorocamirim, na divisa entre os Municípios de Ibiúna e São Roque; Desta sobe pelo Rio Sorocamirim até a foz do Ribeirão Sará-Sará, também conhecido pelo Ribeirão dos Coelhos; segue subindo o referido ribeirão numa distância de 1.000 ms (Mil metros), atravessando a Estrada Estadual SP-250 (Via Bandeirantes), na altura do Km.57, e daí segue em linha reta até o ponto conhecido por Antônio Bina; daí segue em linha reta , atravessando a antiga Estrada de Ibiúna a São Paulo, até o cruzamento da Estrada do Bairro do Lageadinho com a Estrada do Morro Grande e Estrada do Sorocabuçu; Daí segue em linha reta até o Bairro do Feital, na ponte onde existe uma escola situada em frente à João Antônio Leite da Silva; Daí segue pela Estrada do Cupim até o ponto conhecido por Konishi, cruzamento com a Estrada de Ibiúna ao Bairro do Salto; Desse ponto segue pela Estrada do Cupim ao Bairro do Rio de Una até o cruzamento dessa com a Estrada Ibiúna – Rio de Una, também conhecida por Estrada da Areia Vermelha; Daí segue em linha reta até o ponto alto do cruzamento da Estrada Velha e Nova do Bairro do Colégio; Desse ponto segue pela Estrada Nova do Bairro do Colégio até encontrar a Rodovia Estadual SP-250 (Via Bandeirantes); Daí deflete à esquerda e segue pela referida rodovia, em direção a Piedade, até a altura do Km 80,1 da mesma rodovia, onde defletindo à direita segue pelo divisor entre as águas do Rio de Una, a direita e as do Ribeirão do Colégio, a esquerda, que é também o limite interdistrital entre Ibiúna e Paruru; Continua pelo referido divisor até a cabeceira mais meridional do Córrego Seco, pelo qual desce até a sua foz no Córrego da Ressaca; Daí descendo pelo Córrego da Ressaca até a sua foz na Represa do Rio Sorocaba (Represa Itupararanga); Continua pela Represa até a foz do Córrego da Represa Dois Córregos, na divisa entre Ibiúna e mairinque; Daí segue subindo pelo Córrego da Represa ou Dois Córregos, até a sua cabeceira mais oriental, no divisor Cocosa-Ponte lavrada; Daí segue por este referido divisor até cruzar com o contraforte que finda na foz do Ribeirão Ponte Lavrada no Rio Sorocamirim, seguindo pelo referido contraforte até a referida foz; Daí sobe pelo Rio Sorocamirim, até a Ponte de concreto sobre o mesmo, na divisa entre Ibiúna e São Roque, onde tiveram início estes limites”.
+
+
+Art. 2º.
+
+O Perímetro Urbano da Sede do Distrito do Paruru, deste Município, passa a obedecer as seguintes delimitações:
+
+
+“Começa no divisor que separa as águas dos Rios Una e Piraporinha no ponto de cruzamento com o divisor Una – Colégio; Daí segue pelo primeiro divisor até o contraforte da margem direita do córrego que vem dos Ortizes; Segue por esse contraforte em demanda da foz do córrego que vem dos Ortizes no Ribeirão do paruru; Foz esta que ocorre logo acima da Vila de Paruru; Daí vai, em reta a foz do Córrego da Represa, no Ribeirão Paruru, pelo qual desce até a Represa do Rio Sorocaba (Represa Itupararanga); Daí segue pela referida represa até a foz do Córrego da Ressaca, pelo qual sobe pela foz do Córrego Seco; Daí subindo pelo Córrego Seco, vai até a sua cabeceira mais meridional; Daí segue pelo espigão divisando entre as águas do Ribeirão do Colégio, à direita e as do Rio de Una, à esquerda; Atravessa a Rodovia Estadual SP-250 (Via Bandeirantes), na altura do Km 80,1; Prosseguindo pelo referido divisor até o seu cruzamento com o divisor entre as águas dos Rios Piraporinha e de Una, na divisa com o Município e Piedade, onde tiveram início estas divisas, que compreendem todo o Distrito do Paruru”.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 16 DIAS DO MÊS DE JULHO DE 1979.
+
+**DR. ORLANDO DA SILVA**
+
+**Prefeito Municipal**
+
+Publicado na Secretaria da Prefeitura Municipal a afixada em local de costume em 16/07/1979
+
+**ABIGAIL DE MORAES ROSA**
+
+**Secretária da Prefeitura**
+

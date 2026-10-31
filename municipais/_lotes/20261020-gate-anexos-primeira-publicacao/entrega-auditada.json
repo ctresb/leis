@@ -1,0 +1,27 @@
+{
+  "aprovados": 1403,
+  "retidos": 239,
+  "criterio": "Substitui liberação dos1637SAPL e5capitais. Sólistasem relação oficial de anexos próprios, sem remissões textuais ambíguas ou suspeita de material externo/outraspublicações. Todos passaram controlesanteriores de origem/IBGE/MD/PDF/imagens. Há falsospositivos conservadores que terão revisão separada.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/entrega-final.json",
+      "sha256": "3281d2535b938d90d61796464b541b2dc7c36027bc99bada87b3697348c03b64"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/overlay.json",
+      "sha256": "eab5b26f18da04614cb69eb697e0585bee7ed96c61184d1a5ad803d4d139fe85"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/aprovados.paths.txt",
+      "sha256": "797b249dcc7492acea40b514489718374a117d40cbe8f12e4092a71e48c6175b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/retidos.paths.txt",
+      "sha256": "7c28171ef4484b3f3e28126d3eb7da45b53ff2a75a49d633def0910cd4a31fc1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/aprovados.auditoria-municipal.json",
+      "sha256": "808c285f55eebfc54f71ec5fe534e8800a0ff7002f1d5d0f62d45da728206c03"
+    }
+  ]
+}

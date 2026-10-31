@@ -1,0 +1,167 @@
+{
+  "estado": "indice_completo",
+  "total": 15,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/lei_4281_-_anexo_unico_croqui.pdf da norma LEI ORDINÁRIA nº 4.281, de 18 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Croqui.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2019/1/lei_4281_-_anexo_unico_croqui.pdf",
+      "ano": 2019,
+      "norma": 82
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_4173_-_rua_joao_jorge_da_silva.doc da norma LEI ORDINÁRIA nº 4.173, de 28 de fevereiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre denominação de logradouro público no Bairro Nossa Senhora da Penha.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_4173_-_rua_joao_jorge_da_silva.doc",
+      "ano": 2018,
+      "norma": 225
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/portaria_no_132_-nomeia_ianne_cristina_rufino__assessor_-.doc da norma PORTARIA nº 132, de 08 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Nomear para o cargo de Provimento em Comissão de Assessor Parlamentar, a Senhora Ianne Cristina Rufinno",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2019/3/portaria_no_132_-nomeia_ianne_cristina_rufino__assessor_-.doc",
+      "ano": 2019,
+      "norma": 855
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/portaria_no_124-_a_-nomear_jessica.doc da norma PORTARIA nº 124, de 01 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Nomear para o cargo de Provimento em Comissão de Assessor de Comissões Permanentes, a Jéssica Nunes Barbosa Araújo.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2019/4/portaria_no_124-_a_-nomear_jessica.doc",
+      "ano": 2019,
+      "norma": 847
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/portaria_no_59__a-_exonera_claudiane.doc da norma PORTARIA nº 59, de 01 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Exonerar do cargo comissionado de Diretora do Centro de Atendimento ao Cidadão da Câmara Municipal de Coronel Fabriciano -MG, de que trata a Lei Municipal nº 4.153, de 11 de dezembro de 2017, a Senhora Claudiane Alvarenga Drumond Felipe.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2019/5/portaria_no_59__a-_exonera_claudiane.doc",
+      "ano": 2019,
+      "norma": 782
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/portaria_no_99_-_a-_waldeci_-_nelio.doc da norma PORTARIA nº 99, de 06 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Nomear para o cargo de Provimento em Comissão de Assessor Parlamentar, o senhor Waldeci Pereira Ataíde.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2018/6/portaria_no_99_-_a-_waldeci_-_nelio.doc",
+      "ano": 2018,
+      "norma": 1128
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/portaria_no_115_-_a__exonera_deise.doc da norma PORTARIA nº 115, de 30 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Exonerar do cargo de Provimento em Comissão de Assessora Parlamentar, Deise Ferreira de Souza.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2018/7/portaria_no_115_-_a__exonera_deise.doc",
+      "ano": 2018,
+      "norma": 1145
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/8/portaria_no_116_-a_-nomeia_cantidio__sandro.doc da norma PORTARIA nº 116, de 02 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Nomear para o cargo de Provimento em Comissão de Assessora Parlamentar, Cantídio José Ferreira de Souza.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2018/8/portaria_no_116_-a_-nomeia_cantidio__sandro.doc",
+      "ano": 2018,
+      "norma": 1146
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/9/portaria_no_104_-exonera-_renata_-_recursos_humanos-.doc da norma PORTARIA nº 104, de 15 de setembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Exonerar do cargo de Provimento em Comissão de Assessor de Recursos Humanos, nível D, de que trata a Lei Municipal nº 3.763, de 09 de Janeiro de 2013, Renata Cristina Rolim",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2017/9/portaria_no_104_-exonera-_renata_-_recursos_humanos-.doc",
+      "ano": 2017,
+      "norma": 1445
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/10/portaria_no_94-a_processo_administrativo.doc da norma PORTARIA nº 94, de 05 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Determinar a instauração de PROCESSO ADMINISTRATIVO para proceder à apuração e devolução dos valores recebidos indevidamente.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2017/10/portaria_no_94-a_processo_administrativo.doc",
+      "ano": 2017,
+      "norma": 1447
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/11/portaria_no_189_-exonera_servidores.doc da norma PORTARIA nº 189, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Exonerar dos cargos de Provimento em Comissão.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2018/11/portaria_no_189_-exonera_servidores.doc",
+      "ano": 2018,
+      "norma": 1452
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/12/errata_lei_complementar_no_010_de_29_de_dezembro_de_2021_removed.pdf da norma LEI COMPLEMENTAR-PROGER nº 10, de 29 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "RETIFICA o artigo 471, da LEI COMPLEMENTAR Nº 010, DE 29 DE DEZEMBRO DE 2021, em virtude de erro material em texto.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2021/12/errata_lei_complementar_no_010_de_29_de_dezembro_de_2021_removed.pdf",
+      "ano": 2021,
+      "norma": 1834
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/13/portaria_no_116_-_medidas_preventivas_covid-19.pdf da norma PORTARIA-SGER nº 116, de 08 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2022/13/portaria_no_116_-_medidas_preventivas_covid-19.pdf",
+      "ano": 2022,
+      "norma": 2085
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/resolucao_no_1.472.2024_-_correcao.pdf da norma RESOLUÇÃO-GAP nº 1.472, de 19 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Resolução com as devidas correções, conforme Parecer Jurídico nº 015/2024 da Procuradoria Geral, anexo ao projeto.",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2024/14/resolucao_no_1.472.2024_-_correcao.pdf",
+      "ano": 2024,
+      "norma": 3834
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/anexo_lei_4.582.2024_-_lei_4.153-2017-mmm.pdf da norma LEI ORDINÁRIA-PROGER nº 4.582, de 05 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.coronelfabriciano.mg.leg.br/media/sapl/public/anexonormajuridica/2024/15/anexo_lei_4.582.2024_-_lei_4.153-2017-mmm.pdf",
+      "ano": 2024,
+      "norma": 3835
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coronelfabriciano.mg.leg.br/93985fc6b9130fb3c5e2db29e85f939a6e35051fd8c3de78a51b795178cf1ef8.json",
+      "url": "https://sapl.coronelfabriciano.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "25652333a3716350c3b30f1e118c51aad341493bd9eed83f54d563955a732b81",
+      "capturado_em": "2026-10-20T20:50:39.015662",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.coronelfabriciano.mg.leg.br/93985fc6b9130fb3c5e2db29e85f939a6e35051fd8c3de78a51b795178cf1ef8.json"
+    }
+  ]
+}

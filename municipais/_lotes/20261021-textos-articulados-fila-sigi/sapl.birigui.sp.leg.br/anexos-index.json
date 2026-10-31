@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/errata_lei_7.528-2025.pdf da norma Lei Ordinária nº 7.528, de 20 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ERRATA (LEI Nº 7.528/2025)",
+      "anexo_arquivo": "http://sapl.birigui.sp.leg.br/media/sapl/public/anexonormajuridica/2025/2/errata_lei_7.528-2025.pdf",
+      "ano": 2025,
+      "norma": 8282
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/8a52139a9f5ac9183785518b9b83fe88d3f004045330f081d2f4e4e33374d958.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.birigui.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f215d702a87a0fce514e093cd28d5fd26f897c131cc9315b77be1ca166b8d7ca",
+      "bytes": 598,
+      "capturado_em": "2026-10-27T17:41:51.162525-03:00"
+    }
+  ]
+}

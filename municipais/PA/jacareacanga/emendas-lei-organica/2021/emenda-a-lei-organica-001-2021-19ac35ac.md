@@ -1,0 +1,110 @@
+---
+titulo: "EMENDA A LEI ORGÂNICA Nº 001/2021, DE 17 DE"
+uf: "PA"
+municipio: "JACAREACANGA"
+tipo: "Emenda à Lei Orgânica"
+numero: "001"
+data: 
+ano: "2021"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 17/03/2026"
+data_publicacao: 2026-03-17
+codigo_identificador: "19AC35AC"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117040_2026-03-16_ddeb5d866808a12db2ebe84dd44d213f.pdf"
+baixado_em: 2026-10-15
+---
+# EMENDA A LEI ORGÂNICA Nº 001/2021, DE 17 DE
+
+EMENDA A LEI ORGÂNICA Nº 001/2021, DE 17 DE
+NOVEMBRO DE 2021.
+´´ Acrescenta o Art. 93-A a Lei Orgânica do Munícipio de
+Jacareacanga, para adotar no processo legislativo, para adotar no
+processo regulamentadas na Emenda Constitucional nº 86, de 17 de
+março de 2015, e Emenda Constitucional nº 100, de 26 de junho de
+2019.``
+EMENDA A LEI ORGÂNICA Nº 001/2025, DE 16 DE ABRIL DE
+2025.
+´´ MODIFICA O § 3º E § 4º DO ART. 93 DA LEI ORGÂNICA DO
+MUNICÍPIO
+DE
+JACAREACANGA,
+PARA
+FIM
+DE
+REGULAMENTAR
+A
+TRAMITAÇÃO
+DAS
+PEÇAS
+ORÇAMENTARIAS MUNICIPAIS, NO PRIMEIRO ANO DE
+MANDATO DE CADA GOVERNO. ``
+EMENDA A LEI ORGÂNICA Nº 002/2025, DE 16 DE ABRIL DE
+2025.
+´´ MODIFICA O § 1º E § 3 º E § 8 º DO ART. 93 – A DA LEI
+ORGÂNICA, ACRESCENTADO PELA EMENDA A LEI
+ORGÂNICA DE Nº 001/2021, DE 17 DE NOVEMBRO DE 2021,
+COM O FIM DE REGULAMENTAR AS EMENDAS
+IMPOSITIVAS DE ACORDO COM ATUALIZAÇÃO FEITA PELA
+EMENDA CONSTITUCIONAL Nº 126 DE 21 DE DEZEMBRO DE
+2022 AO ART. Nº 166 DA CONSTITUIÇÃO FEDERAL DE 1988.
+``
+EMENDA A LEI ORGÂNICA Nº 003/2025, DE 16 DE ABRIL DE
+2025.
+´´ACRESCENTA AO ART. 93-B A LEI ORGÂNICA DO
+MUNICÍPIO DE JACAREACANGA PARA ADOTAR O
+PROCESSO LEGISLATIVO MUNICIPAL AS EMENDAS
+IMPOSITIVAS DE BANCADA. ``
+Passando a vigorar com a devida correção, a seguinte sequência
+numérica:
+EMENDA A LEI ORGÂNICA Nº 002/2021, DE 17 DE
+NOVEMBRO DE 2021.
+´´ Acrescenta o Art. 93-A a Lei Orgânica do Munícipio de
+Jacareacanga, para adotar no processo legislativo, para adotar no
+processo regulamentadas na Emenda Constitucional nº 86, de 17 de
+março de 2015, e Emenda Constitucional nº 100, de 26 de junho de
+2019.``
+EMENDA A LEI ORGÂNICA Nº 003/2025, DE 16 DE ABRIL
+DE 2025.
+´´ MODIFICA O § 3º E § 4º DO ART. 93 DA LEI ORGÂNICA DO
+MUNICÍPIO
+DE
+JACAREACANGA,
+PARA
+FIM
+DE
+REGULAMENTAR
+A
+TRAMITAÇÃO
+DAS
+PEÇAS
+ORÇAMENTARIAS MUNICIPAIS, NO PRIMEIRO ANO DE
+MANDATO DE CADA GOVERNO. ``
+EMENDA A LEI ORGÂNICA Nº 004/2025, DE 16 DE ABRIL
+DE 2025.
+´´ MODIFICA O § 1º E § 3 º E § 8 º DO ART. 93 – A DA LEI
+ORGÂNICA, ACRESCENTADO PELA EMENDA A LEI
+
+www.diariomunicipal.com.br/famep
+
+1
+
+Pará , 17 de Março de 2026 • Diário Oficial dos Municípios do Estado do Pará •
+ORGÂNICA DE Nº 001/2021, DE 17 DE NOVEMBRO DE 2021,
+COM O FIM DE REGULAMENTAR AS EMENDAS
+IMPOSITIVAS DE ACORDO COM ATUALIZAÇÃO FEITA PELA
+EMENDA CONSTITUCIONAL Nº 126 DE 21 DE DEZEMBRO DE
+2022 AO ART. Nº 166 DA CONSTITUIÇÃO FEDERAL DE 1988.
+``
+EMENDA A LEI ORGÂNICA Nº 005/2025, DE 16 DE ABRIL
+DE 2025.
+´´ACRESCENTA AO ART. 93-B A LEI ORGÂNICA DO
+MUNICÍPIO DE JACAREACANGA PARA ADOTAR O
+PROCESSO LEGISLATIVO MUNICIPAL AS EMENDAS
+IMPOSITIVAS DE BANCADA. ``
+CÂMARA MUNICIPAL DE JACAREACANGA/PA, 10 DE
+MARÇO DE 2026.
+VER.- EVERTON ARAÚJO DA COSTA – MDB.
+Presidente do Poder Legislativo
+Publicado por:
+Anderson Tadeu Oliveira Pantoja

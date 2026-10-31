@@ -1,0 +1,136 @@
+{
+  "host": "sapl.pelotas.rs.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/dl_735-2021_publicacao_jornal.pdf da norma DECRETO LEGISLATIVO nº 735, de 13 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Página de publicação do Decreto Legislativo nº 735/2021 no jornal Diário Popular (edição de 14.01.2021- pág. 16).",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2021/1/dl_735-2021_publicacao_jornal.pdf",
+      "ano": 2021,
+      "norma": 3024
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/res_06-2020_publicacao_jornal.pdf da norma RESOLUÇÃO nº 6, de 02 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2020/2/res_06-2020_publicacao_jornal.pdf",
+      "ano": 2020,
+      "norma": 3025
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/lei_6908_2021_altera_o_art._7o_da_lei_no_6.745_de_2019_-_errata.pdf da norma LEI ORDINÁRIA nº 6.908, de 11 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Errata (retifica a ementa da Lei)",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2021/3/lei_6908_2021_altera_o_art._7o_da_lei_no_6.745_de_2019_-_errata.pdf",
+      "ano": 2021,
+      "norma": 3065
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/errata_ao_decreto_756_21_da-se_o_nome_do_senhor_jose_julio_ribeiro_da_silva_a_rua_tres_localizada_no_loteamento_solar_da_figueira_bairro_areal_cidade_de_pelotas-rs..pdf da norma DECRETO LEGISLATIVO nº 756, de 12 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Errata ao Decreto Legislativo n°756.",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2021/4/errata_ao_decreto_756_21_da-se_o_nome_do_senhor_jose_julio_ribeiro_da_silva_a_rua_tres_localizada_no_loteamento_solar_da_figueira_bairro_areal_cidade_de_pelotas-rs..pdf",
+      "ano": 2021,
+      "norma": 3121
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/res_05_22_-_errata.pdf da norma RESOLUÇÃO nº 5, de 07 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2022/5/res_05_22_-_errata.pdf",
+      "ano": 2022,
+      "norma": 3240
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/dl_771_22_errata_ao_dl_01_22_da_o_nome_de_luiz_fernando_milbrath_a_praca_situada_entre_as_ruas_frei_caneca_e_machado_de_assis_no_bairro_fragata..pdf da norma DECRETO LEGISLATIVO nº 771, de 17 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2022/6/dl_771_22_errata_ao_dl_01_22_da_o_nome_de_luiz_fernando_milbrath_a_praca_situada_entre_as_ruas_frei_caneca_e_machado_de_assis_no_bairro_fragata..pdf",
+      "ano": 2022,
+      "norma": 3242
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/7/lei_7045_2022_errata.pdf da norma LEI ORDINÁRIA nº 7.045, de 08 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2022/7/lei_7045_2022_errata.pdf",
+      "ano": 2022,
+      "norma": 3235
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/lei_n._6765__errata.pdf da norma LEI ORDINÁRIA nº 6.765, de 17 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2019/8/lei_n._6765__errata.pdf",
+      "ano": 2019,
+      "norma": 2876
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/lei_7150_2023_errata_-_altera_a_redacao_do_inciso_i_do_artigo_21_da_lei_no_6.528_de_12_de_dezembro_de_2017..pdf da norma LEI ORDINÁRIA nº 7.150, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2023/9/lei_7150_2023_errata_-_altera_a_redacao_do_inciso_i_do_artigo_21_da_lei_no_6.528_de_12_de_dezembro_de_2017..pdf",
+      "ano": 2023,
+      "norma": 3408
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/res_07_24_errata.pdf da norma RESOLUÇÃO nº 7, de 16 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Errata à Resolução nº 07/2024",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2024/10/res_07_24_errata.pdf",
+      "ano": 2024,
+      "norma": 3730
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/lei_7502_2025_errata.pdf da norma LEI ORDINÁRIA nº 7.502, de 15 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "*errata",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2025/11/lei_7502_2025_errata.pdf",
+      "ano": 2025,
+      "norma": 3927
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/lei_7558_2026_errata_a_lei_ordinaria_no_7.558-2026.pdf da norma LEI ORDINÁRIA nº 7.558, de 09 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.pelotas.rs.leg.br/media/sapl/public/anexonormajuridica/2026/12/lei_7558_2026_errata_a_lei_ordinaria_no_7.558-2026.pdf",
+      "ano": 2026,
+      "norma": 3997
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.pelotas.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pelotas.rs.leg.br/a55e923867ad72d2ba4d5ea1d8cd341e3b04f87b66de5aca92dc311798a13433.json",
+      "sha256": "c4c68a793aa8b0115b36bccc2c1a51d878691c6a5d0ae934aa10dfbf062c9a11",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pelotas.rs.leg.br/a55e923867ad72d2ba4d5ea1d8cd341e3b04f87b66de5aca92dc311798a13433.meta.json"
+    }
+  ],
+  "total": 12
+}

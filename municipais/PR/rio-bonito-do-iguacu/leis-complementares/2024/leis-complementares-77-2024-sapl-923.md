@@ -1,0 +1,43 @@
+---
+titulo: "Lei Complementar nº 77, de 04 de abril de 2024"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "77"
+data: "2024-04-04"
+municipio: "Rio Bonito do Iguaçu"
+uf: "PR"
+codigo_ibge: "4122156"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.riobonitodoiguacu.pr.leg.br/norma/923"
+fonte_texto: "https://sapl.riobonitodoiguacu.pr.leg.br/media/sapl/public/normajuridica/2023/923/01d3d3887141ce5e94b965718350ebf5.pdf"
+sha256_fonte: "bf2b8c426ef1ab4c2000f864e902a9fbe3ee09825d00551ecb94d0b5f7b125f2"
+sha256_texto: "5b0cfef515d5459c9ae8e6997ce99ebf8e0efd21d38d1b2413fef1fa2f196b07"
+baixado_em: "2026-10-20"
+---
+
+# Lei Complementar nº 77, de 04 de abril de 2024
+
+Lei Comp. nº 077/2023-Pag.1/2
+
+LEI COMPLEMENTAR Nº 077/2023 DE 22 DE NOVEMBRO DE 2023.
+
+SÚMULA: Altera as atribuições do cargo efetivo de Fiscal Municipal instituído por meio da Lei Complementar nº 075/2023 de 28/06/2023 e da outras providências.
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE RIO BONITO DO IGUAÇU, ESTADO DO PARANÁ, APROVOU E EU SEZAR AUGUSTO BOVINO, PREFEITO MUNICIPAL, NO USO DAS ATRIBUIÇÕES QUE ME SÃO CONFERIDAS POR LEI, SANCIONO E AUTORIZO PROMULGAR A SEGUINTE LEI COMPLEMENTAR:
+
+**Art. 1º** As atribuições do cargo efetivo de Fiscal Municipal instituído nos termos da Lei Complementar nº 075/2023 de 28/06/2023, passam a vigorar de acordo com a seguinte redação:
+
+GRUPO OCUPACIONAL: ADMINISTRAÇÃO DENOMINAÇÃO DO CARGO N.º VAGAS CARGA NÍVEL VENCIMENTOS HORÁRIA (R$) FISCAL MUNICIPAL 01 44/HS SEM I 3.681,83 FORMAÇÃO: Nível Superior ATRIBUIÇÕES DO CARGO Tem a função de fiscalizar, notificar, multar, orientar, coordenar e embargar problemas/situações/atividades no âmbito do território do Município de Rio Bonito do Iguaçu; executar outras tarefas e atividades correlatas, tais como: Atividade de Obras, Postura e Edificação Fiscalizar a regularidade do licenciamento de atividades comerciais; Fiscalizar o licenciamento das casas de diversões, hotéis, praças desportivas e de lazer e as atividades comerciais exercidas em seu interior; Fiscalizar o cumprimento de posturas relativas ao fabrico, manipulação, depósito, embarque e desembarque, transporte, comércio e uso de inflamáveis, explosivos e corrosivos; Fiscalizar a utilização de terrenos baldios particulares para estacionamento de veículos; Fiscalizar o licenciamento de jardineiras nos passeios dos logradouros públicos; Fiscalizar o horário de funcionamento dos estabelecimentos comerciais e as escalas de plantão das farmácias e drogarias; Fiscalizar residências quanto às instalações sanitárias infiltrações de detritos de fossas nos depósitos de água potável, comunicação direta entre gabinetes sanitários e cozinhas, existência de lixo, águas paradas, mato ou criação de animais em locais não permitidos pelo código de postura; Apresentar relatórios de suas atividades e manter a chefia informada sobre as irregularidades encontradas; Fiscalizar a produção de ruídos capazes de prejudicar a saúde, a segurança e o sossego público; Fiscalizar a preservação do asseio de passeios ocupados por mesas e cadeiras de estabelecimentos ou fronteiras a bares e lanchonete; Fiscalizar a exposição de peças de arte e exibição de artistas em logradouros públicos; Fiscalizar a veiculação da propaganda sonora em via pública, bem como a propaganda comercial fixa nas ombreiras e vitrines ou fora dos estabelecimentos; Lavrar autos de infração, notificando, intimando e autuando, utilizando blocos numerados, a fim de fazer valer o código de postura existente; Exercer atividades relacionadas com a fiscalização de obras públicas e particulares no âmbito do município em parceria com os engenheiros do Município; Fiscalizar as vias públicas, utilizando blocos de notificação, intimação e auto de infração; Orientar o público quanto a retirada de materiais de construção e entulhos das calçadas; Solicitar à autoridade competente a vistoria de obras que lhe pareçam em desacordo com as normas vigentes; Acompanhar os engenheiros da Prefeitura nas inspeções e vistorias realizadas em sua jurisdição; Verificar a existência de habite-se nos imóveis construídos, reconstruídos ou que tenham sofrido obras de vulto; Verificar imóveis recém-construídos ou reformados, inspecionando funcionamento e instalações, a fim de opinar na concessão do habite-se; Colaborar na elaboração e atualização do cadastro fiscal imobiliário do Município; Verificar o cumprimento das normas tributárias na área de sua competência; Acompanhar a tramitação de processos de obras; Atividade Sanitária: Identificar os problemas de saúde comuns ocasionados, saneastes e domissanitários, radiações, alimentos, zoonoses, condições do ambiente de trabalho e profissões ligadas a saúde, relacionando-os com as condições de vida da População; identificar as necessidades e problemas da população relacionada ao uso indevido de produtos e serviços de interesse da vigilância sanitária, ao exercício ilegal de profissões relacionadas com a saúde, ao controle sanitário dos alimentos e das principais zoonoses; realizar e/ou atualizar o cadastro de estabelecimentos e profissionais de interesse da vigilância sanitária; classificar os estabelecimentos e produtos segundo o critério de risco epidemiológico; promover a participação de grupos da população (associação de bairros, entidades representantes e outros) no planejamento, controle e avaliação das atividades de vigilância sanitária; participar de programação de atividades de inspeção sanitária para estabelecimentos, produtos e serviços de interesse da vigilância sanitária, segundo as prioridades definidas;
+
+Lei Comp. nº 077/2023-Pag.2/2
+
+participar na programação das atividades de colheita de amostras de produtos de interesse da vigilância sanitária (alimentos, água, saneastes, domissanitários e correlatos); realizar levantamento de produtos alimentares disponíveis e de maior consumo, bem como o comportamento das doenças veiculadas por alimentos, condições sanitárias dos estabelecimentos e o perfil da contaminação dos alimentos; realizar e/ou acompanhar inspeções de rotinas (programadas) e emergenciais (surtos, reclamações, registros e outros) em estabelecimentos alimentares e outros de interesse da vigilância Sanitária; auxiliar na inspeção industrial e sanitária de produtos de origem animal; realizar colheita de amostras de produtos de interesse da vigilância sanitária, com fins de análise fiscal, surto e controle de rotina; participar da criação de mecanismos de notificação de casos e/ou surtos de doenças veiculadas por alimento e zoonoses; participar da investigação epidemiológica de doenças veiculadas por alimentos e zoonoses; aplicar, quando necessárias medidas previstas em legislação sanitária vigente (intimações, infrações e apreensões); orientar responsáveis e manipuladores de estabelecimentos quando da emissão dos autos/termos; validar a licença sanitária de estabelecimentos de menor risco epidemiológico, mediante aprovação das condições sanitárias encontradas por ocasião da inspeção; participar da avaliação dos resultados das atividades desenvolvidas e do seu redirecionamento; participar na promoção de atividades de informações de debates com a população, profissionais e entidades representantes de classe sobre temas da vigilância sanitária; executar atividades internas administrativas relacionadas com execução de cadastro/arquivos e atendimento ao público; emitir relatórios técnicos e/ou pareceres relativos a sua área de atuação; efetuar vistoria e fiscalização em estabelecimentos públicos, comerciais e industriais verificando as condições gerais de higiene, limpeza de equipamentos, refrigeração, suprimento de água, instalações sanitárias, armazenagem, estado e graus de deterioração de produtos perecíveis e condições de asseio; inspecionar imóveis antes de serem habitados, verificando condições físicas e sanitárias do local para assegurar as medidas profiláticas e de segurança necessárias, com o fim de obter alvarás; vistoriar estabelecimentos de saúde, salão de beleza e outros, verificando as condições gerais, de higiene, data de vencimento de medicamentos e registro psicotrópicos; coletar para análise físico-química medicamentos e outros produtos relacionados à saúde; entregar quando solicitadas notificações e correspondências diversas; desempenhar outras atividades correlatas.
+
+**Art. 2º** Fica autorizado o Poder Executivo Municipal a atualizar por Decreto todas as Tabelas do quadro de cargos e de vencimentos, efetivos, comissionados e empregos.
+
+**Art. 3º** Esta Lei Complementar entra em vigor na data de sua publicação.
+
+Gabinete do Prefeito Municipal de Rio Bonito do Iguaçu-PR, em 22 de novembro de 2023.
+
+SEZAR AUGUSTO BOVINO Prefeito Municipal
+

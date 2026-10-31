@@ -1,0 +1,980 @@
+---
+titulo: "Lei Ordinária nº 1.912, de 15 de abril de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1912"
+data: "2014-04-15"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2020-03-23; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/993"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/226/text"
+sha256_fonte: "7933c3538cbf8c5aef4f80d948d9646faa4fa2c5d175668e4d3b5ff9da3d2ba3"
+sha256_texto: "0089ebb31c62ce02e6df2848f33048e8eb34f2836a0911a3c09a55148323f4a1"
+capturado_em_fonte: "2026-10-27T21:35:12.831268-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.912, de 15 de abril de 2014
+
+“Estabelece regras sobre parcelamento de solo rural para chacreamento pessoal de recreio no Município de Caçu, e dá outras providências”.
+
+
+A CÂMARA MUNICIPAL DE CAÇU, Estado de Goiás, por seus vereadores, APROVA e eu, PREFEITO MUNICIPAL, no uso das atribuições conferidas pela Lei Orgânica do Município, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O parcelamento do solo rural para efeito da criação de chacreamento pessoal de recreio no Município de Caçu será feito mediatamente implantação de condomínios rurais
+
+
+Art. 2º.
+
+O regime que regulará o fracionamento de áreas rurais com destinação a chacreamento, tanto em suas relações internas como em suas relações com o Município, é o estabelecido nesta lei e, no que couber, nas Leis Federais nºs 4.591/64, 10.406/02 e 6.766/79, correspondendo cada chácara com seus acessórios uma unidade autônoma de propriedade exclusiva do adquirente e as vias, calçadas, áreas verdes e outras áreas de uso comum ao condomínio.
+
+
+Art. 3º.
+
+O ônus da implantação e execução dos projetos urbanístico e ambiental de parcelamento do solo rural e constituição de condomínio é de total responsabilidade do empreendedor instituidor.
+
+
+Art. 4º.
+
+A aprovação do projeto de parcelamentos rural obedecerá ao dispositivo nos artigos referentes à legislação municipal sobre o parcelamento do solo urbano.
+
+
+Art. 5º.
+
+Somente será autorizado o parcelamento do solo rural para fins de chacreamento se respeitada uma distância mínima de 03 km (três quilômetros) entre a linha limítrofe do perímetro urbano e o início da gleba rural.
+
+
+Art. 6º.
+
+Os condomínios rurais serão declarados como integrantes da Zona de Urbanização Especifica para Chacreamento – ZUEC, por Decreto do Poder Executivo, após a aprovação do projeto de parcelamento do solo rural, nos termos do art. 21 desta lei.
+
+
+§ 1º
+
+O projeto deverá ser previamente submetido aos órgãos ambientais competentes quanto à sua viabilidade e adequação às normas ambientais.
+
+
+§ 2º
+
+Não será permitido o parcelamento do solo rural:
+
+
+I –
+
+em terrenos sujeitos a inundação, antes de tomadas as providências para assegurar o escoamento das águas;
+
+
+II –
+
+em terrenos que tenham sido aterrados com material nocivo à saúde pública, sem que sejam previamente saneados;
+
+
+III –
+
+em terrenos com declividade igual ou superior a 30% (trinta por cento), salvo se atendidas exigências específicas das autoridades competentes;
+
+
+IV –
+
+em terrenos onde as condições geológicas não aconselham a edificação, como área sujeita a alagamento;
+
+
+V –
+
+em áreas de reservas legais registradas;
+
+
+VI –
+
+em áreas de preservação permanente, e;
+
+
+VII –
+
+em áreas onde a poluição impeça condições sanitárias suportáveis até sua correção;
+
+
+§ 3º
+
+Áreas que tenham, anteriormente, exibido condições impróprias para construção e que tenham se sujeitado a correções que as tornem próprias ao chacreamento, deverão apresentar prévia autorização do Conselho Municipal de Defesa e Conservação do Meio Ambiente, para pleitear aprovação de seu projeto de parcelamento.
+
+
+#### CAPÍTULO II — DOS REQUISITOS URBANÍSTICO PARA CONDOMÍNIO RURAL
+
+
+Art. 7º.
+
+Os condomínios rurais deverão atender, pelo menos, aos seguintes requisitos:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+I –
+
+constituição e formação de Área Verde e de Área de Preservação Permanente – APP, conforme legislação específica;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+II –
+
+destinação de áreas à implantação de equipamentos urbanísticos, de acordo com os parâmetros definidos em lei;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+III –
+
+chácara com área mínima de 800m2 (oitocentos metros quadrados);
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+IV –
+
+vias articuladas com as vias adjacentes oficiais, existentes ou projetadas, e harmonizadas com a topografia local;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+V –
+
+vias abertas e sinalizadas, com faixa de domínio e declividade máxima estabelecida na legislação vigente que dispõe sobre sistema viário;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+VI –
+
+implantação de vias de circulação e acesso às chácaras do parcelamento do solo rural, conforme disposto nesta lei, asfaltadas, calçadas ou cascalhadas, devidamente compactadas com material apropriado e descrito no respectivo do projeto;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+VII –
+
+demarcação dos logradouros, quadras e chácaras com instalação de marcos em concretos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+VIII –
+
+contenção de encostas, se necessários, instaladas mediante projeto específico sob a responsabilidade técnica de profissional habilitado;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+IX –
+
+obras de escoamento de águas pluviais compreendendo curvas de nível, bacias de contenção, além de outros que se fizerem necessários, de forma a garantir a preservação do solo e do ambiente;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+X –
+
+implantação de rede distribuidora de água potável, com equipamento e acessórios, tais como: estação de recalque, reservatório elevado ou apoiado, poço artesiano, ou outra alternativa, aprovada por órgão competente da Prefeitura Municipal;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+XI –
+
+implantação de sistema de esgotamento sanitário, fossa séptica ou outra alternativa, cujo projeto deverá ser aprovado pelo órgão competente da Prefeitura Municipal;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+XII –
+
+arborização de vias de circulação, área verde e sistema de lazer;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+XIII –
+
+implantação de rede de energia elétrica pública e domiciliar, conforme projeto apresentado ao concessionário do serviço público, mediante compromisso do interessado em fielmente implantá-lo, no prazo de 08 (oito) meses, contados da data da publicação do decreto previsto no artigo 19;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+XIV –
+
+cerca divisória em todo o perímetro do condomínio;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+XV –
+
+implantar serviço de coleta e destinação final do lixo doméstico mediante ecoponto, ficando a Prefeitura obrigada a coleta semanal do material depositado no local.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+XVI –
+
+implantar serviço de coleta e destinação final do lixo doméstico mediante ecoponto, ficando a Prefeitura obrigada a coleta semanal do material depositado no local.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+§ 1º
+
+O condomínio rural terá a obrigação de manter, por si e seus condôminos, os requisitos permanentes de constituição do condomínio rural previsto nos incisos I, IV, V, VI, VIII, IX, X, XII, XIII, XIV e XV desde artigo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+§ 2º
+
+Os condôminos arcarão com as despesas referidas no § 1º desde artigo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+Art. 8º.
+
+Da área total do condomínio rural, será destinado no mínimo 15% (quinze por cento) para área verde, equipamento público ou comunitário e espaços livres de uso público, sendo 3% (três por cento) destinado à praça pública, 7% (sete por cento) destinados a outros equipamentos comunitários e 5% (cinco por cento) destinados a área verde, não computadas eventuais APP – Área de Preservação Permanente.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+Art. 9º.
+
+As vias de circulação deverão atender o disposto na lei municipal de parcelamento do solo urbano.
+
+
+Art. 10.
+
+Exigir-se-á laudo ambiental ou Estudo de Impacto Ambiental – EIA ou Relatório de Impacto Ambiental – RIMA – e sua aprovação pelo órgão competente, conforme exigências das leis ambientais.
+
+
+Art. 11.
+
+As edificações em cada chácara de recreio deverão seguir as seguintes diretrizes:
+
+
+I –
+
+taxa de ocupação máxima de 50% (cinquenta por cento);
+
+
+II –
+
+edificações com gabarito máximo igual a 9,00m (nove metros);
+
+
+III –
+
+obrigatoriedade de observância dos seguintes afastamentos mínimos, em relação à construção
+
+
+a)
+
+recuo de 10,00m (dez metros), medidos a partir da margem do arruamento, quando o imóvel confrontar com via de circulação, e;
+
+
+b)
+
+recuo mínimo de 3,00m (três metros) quando a chácara divisar com outra chácara.
+
+
+IV –
+
+permissão para construção de muros de arrimo, com limites de execução até a altura estritamente necessária a tal finalidade;
+
+
+V –
+
+garantia de área de permeabilidade do solo de 50% (cinquenta por cento) da área construída, deste percentual:
+
+
+a)
+
+30% (trinta por cento) com cobertura vegetal, e;
+
+
+b)
+
+20% (vinte por cento) com piso permeável.
+
+
+VI –
+
+obrigatoriedade de concessão de servidão para passagem de águas pluviais por parte de todo o condomínio, e;
+
+
+VII –
+
+observância da convenção do condomínio.
+
+
+#### CAPÍTULO III — DO PROJETO DE PARCELAMENTO DO SOLO RURAL PARA CHACREAMENTO
+
+
+Art. 12.
+
+O registro de intenção de parcelamento do solo rural para chacreamento será previamente submetido à apreciação do Poder Executivo Municipal, através de Comissão a ser designada para tal fim.
+
+
+Parágrafo único
+
+A Comissão prevista no caput deste artigo será composta por:
+
+
+I –
+
+02 (dois) vereadores designados pelo Presidente da Câmara em exercício;
+
+
+II –
+
+02 (dois) representantes do Poder Executivo, sendo 01 (um) representante da Secretaria do Meio Ambiente e 01 (um) representante do Departamento de Engenharia;
+
+
+III –
+
+01 (um) representante do Sindicato Rural de Caçu;
+
+
+Art. 13.
+
+Aprovado o requerimento de intenção, o empreendedor deverá requerer, obrigatoriamente, à Prefeitura Municipal as diretrizes de parcelamento e para o uso do solo, que será indicada pela Comissão designada no artigo anterior.
+
+
+§ 1º
+
+O requerimento deverá ser apresentado em três vias, sendo duas protocoladas junto ao Departamento de Engenharia e uma via será comprovante do empreendedor.
+
+
+§ 2º
+
+Acompanharão o requerimento os itens abaixo relacionados, devidamente assinados por profissional responsável com registro no órgão competente:
+
+
+I –
+
+a avaliação do pedido de intenção pela Comissão designada;
+
+
+II –
+
+localização da gleba com amarração através de coordenadas dos vértices definidores dos limites do imóvel rural georreferenciada ao sistema geodésico brasileiro e com precisão posicional fixada pelo INCRA, com indicação da proximidade entre o perímetro do chacreamento e a área de expansão urbana, na forma definida no art. 5º desta lei;
+
+
+III –
+
+as divisas da gleba a ser chacreada, contendo demarcação do perímetro da gleba com indicação de todos os confrontantes, ângulos, cotas, referência de norte (RN) e memorial descritivo, conforme descrição constante no documento de propriedade;
+
+
+IV –
+
+curvas de nível de metro em metro e bacia de contenção quando for a hipótese, baseado no nível do mar;
+
+
+V –
+
+localização de cursos d’água, áreas de preservação permanente e verde, bosques, árvores frondosas isoladas, construções e demais elementos físicos naturais e artificiais existentes na gleba;
+
+
+VI –
+
+laudo técnico comprobatório à descaracterização da área como rural;
+
+
+VII –
+
+outros documentos exigidos pelas legislações federal e estadual, assim como por legislação municipal específica, e;
+
+
+VIII –
+
+compromisso de que as chácaras não serão postas à venda antes do registro do projeto junto ao Cartório de Registro de Imóveis.
+
+
+Art. 14.
+
+A Prefeitura Municipal definirá as diretrizes, no prazo máximo de noventa (90) dias corridos, esboçado nas plantas apresentadas pelo interessado:
+
+
+I –
+
+a projeção do sistema de vias de circulação articuladas com as vias adjacentes oficiais, existentes ou projetadas, e harmonizadas com topografia local, em conformidade com as normas de sistema viário;
+
+
+II –
+
+as dimensões mínimas de chácaras e quadras;
+
+
+III –
+
+o tipo de pavimentação a ser usado nas vias quando o caso não comportar a opção dada no inciso VII, do art. 7º desta lei;
+
+
+IV –
+
+localização e identificação da rede de abastecimento de água, observado o disposto no inciso XI, do art. 7º desta lei;
+
+
+V –
+
+os interceptores e coletores de esgoto, fossas sépticas ou outra alternativa escolhida;
+
+
+VI –
+
+as faixas de proteção das águas correntes, cursos d’água, e dormentes dos mananciais;
+
+
+VII –
+
+as faixas de domínio público de proteção de estradas/rodovias, ferrovias, linhas de transmissão de energia, conforme inciso IV, do art. 7º desta Lei.
+
+
+§ 1º
+
+O parecer técnico pela inviabilidade do empreendimento deverá ser fundamentado e especificar, item a item, as irregularidades ou requisitos desatendidos.
+
+
+§ 2º
+
+Recebendo parecer negativo, cientificado o empreendedor oportunizando-o para, no prazo máximo de trinta (30) dias corridos, sanar as irregularidades apontadas, o requerimento será arquivado após expirado o prazo concedido.
+
+
+§ 3º
+
+O empreendedor elaborará Laudo Ambiental ou Estudo de Impacto Ambiental – EIA ou RIMA – Relatório de Impacto Ambiental, embasando-o na legislação ambiental federal, estadual e municipal, e incorporando-o ao projeto ambiental de parcelamento do solo rural, o qual será submetido à apreciação por órgão competente.
+
+
+Art. 15.
+
+O projeto, a análise, as diretrizes e o Laudo Ambiental ou Estudo de Impacto Ambiental – EIA ou RIMA – Relatório de Impacto Ambiental serão apresentados à Secretaria do Meio Ambiente ou Órgão Ambiental Municipal antes do prazo final de validade destes últimos, conforme o caso.
+
+
+Art. 16.
+
+Para aprovação, o projeto de parcelamento do solo rural deverá, obrigatoriamente, seguir a orientação das diretrizes oficiais definidas, contendo:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+I –
+
+Certidão atualizada do imóvel, máximo 30 (trinta) dias de expedição;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+II –
+
+Certidão de ônus atualizada da matrícula da gleba, expedida pelo Cartório de Registros de Imóveis competente;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+III –
+
+Certidão negativa das fazendas municipal, estadual e federal;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+IV –
+
+Projeto urbanístico orientado pelas diretrizes, contendo:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+a)
+
+memorial descritivo;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+b)
+
+planta impressa do projeto, em três (03) vias, devidamente assinadas pelo profissional responsável, na escala de 1:1000 e uma cópia digital em CD com arquivos do tipo “PDF” (memorial e cronogramas) e “DWG” (desenhos), rotulado, identificado e com a informação da versão dos arquivos, além da cópia de ART registrada no órgão competente, da responsabilidade técnica do autor do projeto;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+c)
+
+cronograma de execução das obras;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+d)
+
+a subdivisão das quadras em chácaras, com as respectivas dimensões, numerações, cotas lineares e de nível e ângulos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+e)
+
+sistema de vias de circulação com a respectiva hierarquia em conformidade com o Sistema Viário;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+f)
+
+as dimensões lineares e angulares do projeto, com raios, cordas, arcos, ponto de tangência e ângulo centrais das vias;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+g)
+
+os perfis longitudinais e transversais de todas as vias de circulação, áreas verdes e áreas de preservação permanente, com indicação da porcentagem de inclinação e cotas de nível, na escala de 1:500;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+h)
+
+a indicação dos marcos de alinhamento e nivelamento localizados nos ângulos de curvas e vias projetadas;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+i)
+
+os detalhes dos ângulos, perfis e outros necessários à implantação do projeto;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+j)
+
+os projetos das obras de infraestrutura definidos nesta lei;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+k)
+
+os projetos das obras de infra-estrutura definidos nesta lei;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+V –
+
+licença ambiental emitida por órgão competente;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+VI –
+
+comprovante de pagamento de taxas e emolumentos sobre o parcelamento do solo rural, que serão calculados pela Municipalidade tomando-se por base idênticos parâmetros aplicados ao parcelamento do solo urbano.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+VII –
+
+modelo do contrato ou compromisso de compra e venda das unidades autônomas.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+VIII –
+
+minuta da convenção de condomínio.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+§ 1º
+
+Todos os documentos, relatórios, desenhos e plantas deverão ser assinados pelo proprietário ou representante legal e por profissional legalmente habilitado para os projetos, com as respectivas Anotações de Responsabilidade Técnica – ARTs.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+§ 2º
+
+O empreendedor terá o prazo de até 02 (dois) anos para comprovar ao Município, para todos os efeitos legais, a conclusão das obras e adimplemento das obrigações assumidas, podendo ser tal prazo prorrogado a critério da Administração Pública.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+#### CAPÍTULO IV — DA APROVAÇÃO DO PROJETO DE CONDOMÍNIO RURAL
+
+
+Art. 17.
+
+As Secretarias Municipais de Obras e Serviços Urbanos de Meio Ambiente ou Órgão Ambiental Municipal, terão prazo de 60 (sessenta) dias corridos, contados a partir da apresentação do projeto de parcelamento do solo rural, para apreciá-lo nos termos do Capítulo anterior, parecer que será submetido a homologação pelo Prefeito Municipal.
+
+
+§ 1º
+
+As Secretarias Municipais de Obras e Serviços Urbanos e Meio Ambiente ou Órgão Ambiental Municipal, ao examinarem o projeto, não poderão suprir as diretrizes definidas, sob pena de responder por crime de responsabilidade, sem prejuízo da responsabilidade civil e administrativa, em caso de aprovação de projeto sem a observância do disposto nesta lei.
+
+
+§ 2º
+
+O parecer pela não aprovação do projeto deverá ser fundamentado e especificar, item a item, as irregularidades ou requisitos desatendidos.
+
+
+§ 3º
+
+Quando a irregularidade referir-se à ausência de documentos, as Secretarias e/ou Órgãos mencionados no caput deste artigo facultarão ao empreendedor prazo não superior a trinta (30) dias para corrigir a irregularidade.
+
+
+§ 4º
+
+A abertura de prazo para complementação de documentos fará acrescer, do dobro, o prazo de que dispõe a autoridade para apreciação do projeto.
+
+
+Art. 18.
+
+Os projetos não aprovados ou que tenham sofrido correções poderão ser novamente submetidos ao crivo da municipalidade, sujeitando-se, neste caso, ao trâmite previsto para os projetos apresentados pela primeira vez.
+
+
+§ 1º
+
+Em cada caso, poderão as autoridades municipais, aproveitar atos já praticados e documentos apresentados durante a avaliação do primeiro projeto apresentado.
+
+
+§ 2º
+
+O disposto neste artigo não se aplica às hipóteses de caducidade, termo de prazos e arquivamento do projeto, previstos nesta lei.
+
+
+#### CAPÍTULO V — DA TRANSFORMAÇÃO DA ZONA, DA ANUÊNCIA DO INCRA E DO ALVARÁ DE LICENÇA PARA EXECUÇÃO DE OBRAS
+
+
+##### Seção I — DA TRANSFORMAÇÃO DA ZONA
+
+
+Art. 19.
+
+Aprovado o projeto, o Poder Executivo baixará, no prazo de 10 (dez) dias, o decreto transformando a área correspondente ao mesmo em Zona de Urbanização Específica para Chacreamento – ZUEC, com a finalidade específica de implantação de chacreamento.
+
+
+Parágrafo único
+
+A transformação é reversível nos termos desta lei.
+
+
+Art. 20.
+
+No prazo máximo de 30 (trinta) dias, contados da data da anuência do INCRA, o projeto deverá ser protocolizado para registro no Cartório de Registro de Imóveis, e imediatamente após o registro apresentado ao Município, sob pena de caducidade da aprovação e reversão da área à condição de zoneamento anterior.
+
+
+##### Seção II — DA ANUÊNCIA DO INCRA
+
+
+Art. 21.
+
+O empreendedor terá o prazo de 24 (vinte e quatro) meses, contados da data da expedição do Decreto de consolidação previsto no art. 19 desta Lei, para obter a anuência do INCRA ao projeto aprovado.
+
+
+§ 1º
+
+Decorrido o prazo desde artigo o empreendedor decairá do direito à execução do projeto, sendo o processo arquivado
+
+
+§ 2º
+
+O empreendedor somente poderá requerer o desarquivamento do processo, mediante a renovação das licenças obtidas, mediante recolhimento de novas taxas.
+
+
+##### Seção III — DO ALVARÁ DE LICENÇA PARA EXECUÇÃO DAS OBRAS
+
+
+Art. 22.
+
+Para emissão do alvará de licença para execução das obras, o empreendedor firmará junto à Prefeitura TERMO DE OBRIGAÇÕES DE EMPREENDEDOR, por meio do qual se obrigará a executar o projeto aprovado sem qualquer alteração, obrigando-se, ainda:
+
+
+I –
+
+executar à própria custa, no prazo fixado pela Prefeitura, todas as obras de infraestrutura, arborização de vias de circulação e de área verde, e equipamentos urbanísticos exigidos pela lei municipal de parcelamento do solo urbano, incluindo a constituição e formação de área verde e de área de preservação permanente, quando for a hipótese;
+
+
+II –
+
+fazer constar nos documentos de compra e venda a responsabilidade solidária do comprador para com os serviços e obras do condomínio a ser instituído, na proporção das áreas de suas chácaras, conforme minuta da convenção a ser aprovada.
+
+
+III –
+
+iniciar a venda das chácaras somente após o registro do projeto nos termos do art. 20 desta lei;
+
+
+IV –
+
+averbar junto ao Registro de Imóveis o TERMO DE OBRIGAÇÕES DE EMPREENDEDOR à margem da matrícula de todas as chácaras criadas.
+
+
+Art. 23.
+
+O alvará de execução das obras não será expedido antes do registro do projeto junto ao cartório imobiliário competente e sem que seja assinado o termo de obrigação de empreendedor previsto no art. 22 desta lei.
+
+
+#### CAPÍTULO VI — DA ALIENAÇÃO E DA CONVENÇÃO DE CONDOMÍNIO
+
+
+##### Seção I — DA ALIENAÇÃO DAS CHÁCARAS
+
+
+Art. 24.
+
+A alienação das chácaras, por meio de contrato, somente poderá ocorrer após o registro do projeto junto ao Cartório de Registro de Imóveis.
+
+
+Art. 25.
+
+O contrato de compra e venda constará a responsabilidade do adquirente, como condômino e proporcionalmente a área de sua chácara, pelas despesas com obras e serviços do condomínio, art. 22, II, desta Lei.
+
+
+Art. 26.
+
+O contrato de compra e venda constará que a escritura pública definitiva será outorgada somente após concluídas e recebidas as obras do empreendedor pela Prefeitura.
+
+
+##### Seção II — DA CONVENÇÃO DE CONDOMÍNIO
+
+
+Art. 27.
+
+O responsável pelo empreendimento fica obrigado a:
+
+
+I –
+
+instituir o condomínio e aprovar e registrar a respectiva convenção condominial no órgão competente;
+
+
+II –
+
+constar da convenção de condomínio a proibição expressa a qualquer condômino de desenvolver atividade econômica dentro do condomínio;
+
+
+III –
+
+inserir cláusula no contrato de compra e venda em que os adquirentes se obrigam a contribuir, na proporção de sua chácara, para a manutenção das despesas do condomínio;
+
+
+IV –
+
+fornecer a cada um dos adquirentes, de forma individualizada e constando em destaque o recebimento no contrato, de todas as informações, restrições e obras de conservação, previstas na legislação e cópia da minuta da convenção do condomínio;
+
+
+V –
+
+constar no contrato de forma especificada todas as servidões aparentes ou não que incidam sobre o imóvel ou chácara, e;
+
+
+VI –
+
+manter os serviços de água e energia elétrica, e quando for o caso, de esgoto, de proteção e conservação da área verde e da área de preservação permanente até a aprovação da convenção do condomínio.
+
+
+§ 1º
+
+A convenção de condomínio deverá ser imediatamente aprovada quando vendidas 50% (cinquenta por cento) das chácaras do parcelamento do solo rural.
+
+
+§ 2º
+
+A convenção de condomínio será aprovada por qualquer quorum dos adquirentes presentes na reunião condominial convocada pelo empreendedor, quando ocorrer qualquer ato tendente a retardar a aprovação da mesma.
+
+
+§ 3º
+
+Com o registro da convenção do condomínio no órgão competente, o condomínio assumirá a responsabilidade por todas as obrigações legais e contratuais do chacreamento, respondendo cada condomínio proporcionalmente à área de sua chácara.
+
+
+Art. 28.
+
+Os adquirentes, cessionários ou promitentes cessionários dos direitos das unidades autônomas nos chacreamentos, elaborarão, por escrito, convenção de condomínio nos termos do que fora aprovado em reunião condominial, a qual terá de, obrigatoriamente, disciplinar, no mínimo: o quorum para as deliberações; a nomeação e destituição de síndico; conselho fiscal e diretoria; a fração ideal das chácaras em relação às áreas comuns; as regras e limites para utilização das áreas de uso comum; as regras e limites para construção; a proibição de desenvolvimento de atividade econômica no local; os limites e formas de utilização das unidades autônomas; a responsabilidade tributária do titular das unidades autônomas; os equipamentos e a prestação de serviço coletivo; além das normas de higiene e ambientais em cada unidade.
+
+
+Art. 29.
+
+O empreendedor ficará investido em todas as obrigações do síndico, enquanto não vendidos mais de 60% (sessenta por cento) das chácaras.
+
+
+§ 1º
+
+Atingido o percentual previsto neste artigo, o empreendedor no prazo máximo de 30 (trinta) dias convocará reunião do condomínio para eleição de novo síndico dentre os adquirentes ou terceiro pela Assembleia dos Condôminos.
+
+
+§ 2º
+
+Enquanto não empossados os eleitos, o empreendedor continuará investido nas funções.
+
+
+#### CAPÍTULO VII — DAS PENALIDADES POR INFRAÇÕES ÀS NORMAS DE PARCELAMENTO PARA CONDOMÍNIO RURAL
+
+
+Art. 30.
+
+O projeto de parcelamento do solo rural para chacreamento não executado no prazo do art. 20 desta lei importará na reversão da área transformada em Zona de Urbanização Específica para Chacreamento – ZUEC – em gleba rural, caducando todas as autorizações e alvarás expedidos.
+
+
+Art. 31.
+
+O empreendedor será multado:
+
+
+I –
+
+Em 02 (duas) UFMC – Unidade Fiscal do Município de Caçu por dia de atraso, caso a execução do projeto não seja concluída no prazo de vinte e quatro (24) meses, contados da publicação do Decreto de transformação, conforme art. 21 desta lei.
+
+
+II –
+
+Em 10 (dez) UFMC – Unidade Fiscal do Município de Caçu, caso deixe ocorrer o arquivamento do projeto, art. 21 desta lei.
+
+
+III –
+
+Em 10 (dez) UFMC – Unidade Fiscal do Município de Caçu, caso não registre o projeto na forma do art. 21 desta lei.
+
+
+IV –
+
+Em 25 (vinte e cinco) UFMC – Unidade Fiscal do Município de Caçu, caso não cumpra o disposto nos art. 27 desta lei.
+
+
+V –
+
+Em 120 (cento e vinte) UFMC – Unidade Fiscal do Município de Caçu, caso promova a venda de chácaras sem a observância do disposto nos arts. 14, 23 a 26 e 27, III, desta lei.
+
+
+VI –
+
+Em 240 (duzentas e quarenta) UFMC – Unidade Fiscal do Município de Caçu, caso ocorra a hipótese do art. 33 desta lei.
+
+
+§ 1º
+
+As multas previstas neste artigo são cumuláveis com outras sanções administrativas, civis e penais.
+
+
+§ 2º
+
+Aplicam-se, subsidiariamente, as sanções atinentes ao condomínio, previstas na Lei 10.406 de 10 de Janeiro de 2002 (Código Civil) e na Lei nº 4.591 de 16 de Dezembro de 1964, bem como a Lei 6.766 de 19 de Dezembro de 1979 (Parcelamento do solo).
+
+
+Art. 32.
+
+Os projetos não aprovados devido à irregularidades não sanadas ou cuja aprovação tenha caducado por falta de andamento processual por parte do empreendedor e aqueles para os quais tiver havido reversão da área à condição de zoneamento anterior, não poderão ser objeto de novo pedido de aprovação pelo pazo de 02 (dois) anos.
+
+
+Art. 33.
+
+Constatado a qualquer tempo que as certidões apresentadas como atuais não correspondiam com os registros e averbações cartorárias do tempo da sua apresentação, além das consequências penais cabíveis, serão considerados insubsistentes tanto as diretrizes expedidas anteriormente, a decretação de zona de urbanização específica para chacreamento, quando às aprovações subsequentes.
+
+
+Parágrafo único
+
+Verificada a hipótese deste artigo, o projeto será cancelado e as obras imediatamente embargadas pela Secretaria Municipal de Obras e Serviços Urbanos, respondendo o empreendedor, com seus bens pessoais, pela indenização em dobro dos valores pagos pelos adquirentes, sem prejuízo da multa prevista no art. 31 desta lei.
+
+
+Art. 34.
+
+Os proprietários ou empreendedores de projeto inexecutados ou cancelados devido a falta de interesse em dar andamento ao processo por parte dos empreendedores ficarão impedidos de pleitear novo parcelamento do solo, ainda que sobre outra área, por um prazo de dois (02) anos.
+
+
+Art. 35.
+
+Havendo descumprimento das obrigações assumidas ou decorrentes de lei, o empreendedor e o proprietário da área, serão notificados pelo Município para adimplirem a obrigação, e, persistindo a mora por prazo igual ou superior a 60 (sessenta) dias, responderão pelas sanções previstas no art. 31 desta lei.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 36.
+
+Os parcelamentos do solo rural para chacreamento de recreio aprovados com base nesta lei deverão manter suas características originárias, ficando vedada a alteração do tipo de uso, assim como a divisão das chácaras.
+
+
+Art. 37.
+
+O empreendedor e todos os autorizados à comercialização de chácaras responderão civil e penalmente pelas infrações cometidas contra a legislação e em especial a de proteção ao solo e ao meio ambiente.
+
+
+Art. 38.
+
+A Secretaria Municipal de Obras e Serviços Urbanos, resolverá questões técnicas quando omissa a legislação e regulamentos vigentes, após opinião da Comissão (parágrafo único do art. 12).
+
+
+Art. 39.
+
+Poderá ser realizada audiência pública no processo de análise e aprovação de projeto de parcelamento do solo rural para chacreamento.
+
+
+§ 1º
+
+Havendo audiência pública, os prazos previstos nesta lei iniciarão somente após a realização da referida audiência.
+
+
+§ 2º
+
+À Comissão (parágrafo único do art. 12) caberá a coordenação da audiência pública cujas despesas correrão por conta do interessado na realização.
+
+
+Art. 40.
+
+Considera-se clandestino todo e qualquer parcelamento do solo rural para fins de chacreamento de recreio realizado antes de aprovado o respectivo projeto com a consequente decretação de zona de urbanização específica para chacreamento pelo Município.
+
+
+#### CAPÍTULO IX — DAS DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 41.
+
+Todos os parcelamentos do solo rural para fins de chacreamento de recreio preexistentes a esta lei, havendo ou não, na data da entrada em vigor desta lei, pedido de registro protocolado junto a Prefeitura Municipal, desde que cumprido o disposto no artigo 7º, incisos I, VI, VII, VIII, X, XI, XII, XIII, XIV e XV, observado ainda o disposto nos artigos 12, 16 e 17, terão o prazo de 10 (dez) anos para adequação, e deverão atender ainda o disposto no artigo 19 a 37 desta lei.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+Parágrafo único
+
+A regularização dos empreendimentos imobiliários irregularmente estabelecidos na zona rural, bem como as edificações nele existentes, será feita, sempre que for tecnicamente possível”.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.340, de 23 de março de 2020.
+
+
+Art. 42.
+
+O Poder Executivo regulamentará esta lei, no que for julgado necessário à sua execução
+
+
+Art. 43.
+
+Esta lei entra em vigor na data de publicação, revogando as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CAÇU, Estado de Goiás, aos 15 dias do mês de abril do ano de 2014.
+
+
+**GILMAR JOSÉ DE FREITAS GUIMARÃES**  
+Prefeito Municipal
+

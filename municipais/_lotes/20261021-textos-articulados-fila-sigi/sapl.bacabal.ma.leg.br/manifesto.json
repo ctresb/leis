@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bacabal.ma.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bacabal.ma.leg.br/9d050f43eb6a1488347393fb9a75d97a3aafbeba0ea614a23a283e4d95af7cd2.json",
+    "url": "https://sapl.bacabal.ma.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bacabal.ma.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:02:00.957874-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bacabal.ma.leg.br/dca87d8cbaf6302183d0706572ada53545a83ab1cab286c5d279f98a3963c726.json",
+    "url": "https://sapl.bacabal.ma.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bacabal.ma.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a7e12e86e47204a5f476a5f482861eb303f3e6b13767a52616ced416c281a7c1",
+    "bytes": 738,
+    "capturado_em": "2026-10-27T17:02:00.114887-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bacabal.ma.leg.br/2a7932db8a3e63390311c214222f36dd7b51cb203280abf1c36a718dd7e7c22b.json",
+      "url": "https://sapl.bacabal.ma.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bacabal.ma.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T17:02:02.939022-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,2416 @@
+---
+titulo: "Lei Ordinária nº 2.280, de 31 de outubro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2280"
+data: "2005-10-31"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2022-09-20; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/407"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/410/text"
+sha256_fonte: "ac2d6b3473e38cad0774a459e428bedebee562f0827f731012152a3ec8faeb4a"
+sha256_texto: "aa73f146e2a5417a239a6fe24644544f28b46d4ce858f6ec80e66618737e257e"
+capturado_em_fonte: "2026-10-27T21:46:46.697921-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.280, de 31 de outubro de 2005
+
+DISPÕE SOBRE ALTERAÇÃO DO ESTATUTO DO MAGISTÉRIO PÚBLICO DA EDUCAÇÃO INFANTIL, ENSINO FUNDAMENTAL EDUCAÇÃO DE JOVENS E ADULTOS, EDUCAÇÃO ESPECIAL E ENSINO MÉDIO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município do Cabo de Santo Agostinho: Faço saber que a Câmara decreta e eu sanciono a seguinte Lei:
+
+
+### TÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+#### CAPÍTULO I — DO ESTATUTO E OBJETIVOS
+
+
+Art. 1º.
+
+A presente Lei, denominada ESTATUTO DO MAGISTÉRIO PÚBLICO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO, estrutura, organiza e estabelece princípios pedagógicos, atos administrativos, formação continuada e relação sindical com a entidade representativa dos professores vinculados ao Serviço Público do Município do Cabo de Santo Agostinho
+
+
+Art. 2º.
+
+O Magistério Público do Município do Cabo de Santo Agostinho tem como campo de atuação, obedecida a legislação federal específica:
+
+
+I –
+
+a Educação Infantil, o Ensino Fundamental de 1ª a 4ª série, a Educação de Jovens e Adultos e a Educação Especial, para o Professor I;
+
+
+II –
+
+o Ensino Fundamental de 5ª a 8ª série, Segundo Segmento de Educação de Jovens e Adultos e o Ensino Médio, para o Professor II.
+
+
+Parágrafo único
+
+A docência constitui-se na base comum do exercício do Magistério, compreendido a organização e socialização do conhecimento sistematizado, reflexão e avaliação da prática pedagógica escolar e político-social.
+
+
+#### CAPÍTULO II — DOS CONCEITOS FUNDAMENTAIS
+
+
+Art. 3º.
+
+Para efeito deste Estatuto entende-se por:
+
+
+I –
+
+Magistério Público - Conjunto das funções de professor exercidas no Serviço Público do Município do Cabo de Santo Agostinho incluindo-se: a Docência, a Supervisão, a Coordenação de Área, a Administração Escolar, a Coordenação Escolar, a Inspeção, a Supervisão de Educação Especial e a Secretaria Escolar;
+
+
+II –
+
+Professor - Servidor Público, portador de diploma do Curso de Habilitação mínima do Ensino Normal Médio, para o exercício do Magistério de Educação infantil à 4ª série do ensino Fundamental, Educação dos Jovens e Adultos, Educação Especial e o portador de diploma de Cursos de Licenciatura Plena para o ensino Fundamental de 5ª a 8ª série, Segundo Segmento de Educação de Jovens e Adultos e Ensino Médio;
+
+
+III –
+
+Dirigente - O professor responsável pela direção de escola com estrutura superior a 06 (seis) turmas;
+
+
+IV –
+
+Coordenador Escolar – Professor responsável pela administração de escola ou núcleo escolar que mantenha uma estrutura de, no mínimo, 03 (três) e, no máximo, 06 (seis) turmas.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+V –
+
+Cargos do Magistério - Cargos Públicos, integrantes do quadro permanente do Serviço Público do Município do Cabo de Santo Agostinho, enquadrados na Secretaria Municipal de Educação, organizados em cargos de Professor i e íi, faixas e níveis de remuneração crescentes, e escalonados de acordo com o grau de habilitação exigido do seu ocupante, o tempo de serviço público por este prestado e a avaliação de desempenho.
+
+
+VI –
+
+Função - Conjunto de atividades inerentes à educação incluindo-se a Docência, a Supervisão Escolar, a Coordenação de Área, a Administração Escolar, a Inspeção, Secretaria Escolar e Supervisão de Educação Especial;
+
+
+VII –
+
+Educação Especial - Modalidade de Educação Escolar, processo educacional organizado institucionalmente para apoiar, complementar e suplementar, e em alguns casos substituir os serviços educacionais comuns, de modo a garantir a educação escolar, promover e desenvolver as potencialidades dos educandos que apresentem necessidades educacionais especiais (temporário ou permanente) em todas as etapas e modalidades da educação básica.
+
+
+VIII –
+
+Professor com Formação para atender alunos com necessidades Especiais - São os professores que desenvolvem competências para identificar as necessidades educacionais especiais, define e implanta respostas educativas a estas necessidades, apoia o professor da classe comum, desenvolve estratégia de flexibilização, adaptação curricular e prática pedagógica alternativa.
+
+
+IX –
+
+Professor Itinerante - É o professor que desenvolve serviço de orientação e supervisão pedagógica, fazendo visitas periódicas às escolas, para trabalhar com alunos que apresentam necessidades educacionais especiais e com seus respectivos professores de classe comum da rede regular de ensino, bem como classe hospitalar e ambiente domiciliar em caráter transitório.
+
+
+X –
+
+Núcleo Escolar – Organização administrativa formada por escolas que totalizem de 03 (três) a 06 (seis) turmas.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Educação (SME), publicará portaria indicando os Núcleos Escolares, de acordo com a necessidade da Rede Municipal de Ensino.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+#### CAPÍTULO III — DAS ATRIBUIÇÕES
+
+
+##### Seção I — DAS ATRIBUIÇÕES COMUNS
+
+
+Art. 4º.
+
+São atribuições comuns ao professor no exercício de suas funções:
+
+
+I –
+
+participar do processo de definição, execução e avaliação da Política Municipal de Educação, assegurando um ensino público, gratuito e de qualidade à população;
+
+
+II –
+
+participar do planejamento, execução e avaliação das ações da Rede Municipal de Ensino, garantindo:
+
+
+a)
+
+a democratização da escola pública;
+
+
+b)
+
+a adequação da prática pedagógica às condições de vida e às características sócio-culturais dos alunos, promovendo-lhes a aquisição de conhecimentos sistematizados e o desenvolvimento de habilidade, hábitos e atitudes que conduzam à compreensão e a intervenção na realidade física e social, instrumentalizando-os para o exercício consciente da cidadania;
+
+
+c)
+
+o controle das atividades administrativas e pedagógicas pela comunidade escolar;
+
+
+d)
+
+o acompanhamento e o controle da frequência do aluno, juntamente com a direção escolar, estimulando sua permanência na escola com sucesso;
+
+
+e)
+
+o acompanhamento e o controle do aproveitamento escolar do aluno, visando à elevação dos índices de aprovação;
+
+
+f)
+
+a atualização, o aperfeiçoamento profissional, a melhoria das condições de trabalho e de salário, visando à elevação da qualidade da educação prestada à população;
+
+
+g)
+
+a articulação escola-comunidade, possibilitando o uso do espaço escolar para atividades sociais, culturais e de lazer da comunidade.
+
+
+##### Seção II — DA FUNÇÃO DE DOCÊNCIA
+
+
+Art. 5º.
+
+A função de docência será exercida por professor conforme a sua titularidade, sendo exigido para Educação Infantil, 1ª a 4ª série do Ensino Fundamental, de Jovens e Adultos, Educação Especial no mínimo Habilitação Específica em Ensino Normal Médio, e exigido para o ensino de 5a a 8a série do Ensino Fundamental e Ensino Médio, no mínimo habilitação em Curso de Licenciatura Plena nas disciplinas específicas
+
+
+Art. 6º.
+
+Além das atribuições comuns, definidas no artigo 4º desta Lei, compete ao professor no exercício da função de docência:
+
+
+I –
+
+planejar, preparar e ministrar aula;
+
+
+II –
+
+avaliar a aprendizagem dos alunos, através da preparação, aplicação e correção de instrumentos de avaliação, registro e acompanhamento dos resultados;
+
+
+III –
+
+realizar recuperação sistemática dos alunos com dificuldades de aprendizagem;
+
+
+IV –
+
+planejar e preparar material de apoio didático;
+
+
+V –
+
+organizar e divulgar a produção intelectual dos alunos;
+
+
+VI –
+
+manter articulação com a comunidade visando ao conhecimento das condições de vida e das características sócio-culturais dos alunos, para subsidiar o planejamento e a prática pedagógica;
+
+
+VII –
+
+manter contato com os pais e responsáveis, visando ao acompanhamento da vida escolar dos alunos, a elevação do aproveitamento escolar e da frequência;
+
+
+VIII –
+
+participar das atividades de:
+
+
+a)
+
+elaboração, execução, acompanhamento e avaliação de planos, programas e projetos escolares;
+
+
+b)
+
+seleção de livros, textos e material de apoio didático;
+
+
+c)
+
+formação continuada destinada à atualização e aperfeiçoamento profissional;
+
+
+d)
+
+reuniões pedagógicas e administrativas promovidas e convocadas pela Secretaria Municipal de Educação e Escola, reuniões de pais e Conselhos de Classe;
+
+
+e)
+
+exercer coordenação de área de disciplinas específicas do currículo do Ensino Fundamental da 5ª a 8ª série, Segundo Segmento de Educação de Jovens e Adultos e do currículo do Ensino Médio conforme disciplinado nesta Lei;
+
+
+f)
+
+coordenar e supervisionar estágios curriculares dos alunos do Curso do Ensino Médio do Magistério da Rede Municipal de Ensino;
+
+
+g)
+
+acompanhar estagiários das séries e disciplinas que leciona.
+
+
+IX –
+
+desenvolver ações político-pedagógicas com vistas à interdisciplinaridade exigida pela dinâmica curricular;
+
+
+X –
+
+contribuir junto ao aluno para compreensão do processo democrático da escola visando a sua livre organização.
+
+
+Parágrafo único
+
+A matéria prima, meios e instrumentos necessários à preparação do material didático a que se refere o inciso IV deste artigo serão fornecidos pela Secretaria Municipal de Educação e pela escola em conformidade com os recursos municipais, estaduais e federais.
+
+
+##### Seção III — DO ATENDIMENTO EDUCACIONAL ESPECIAL
+
+
+Art. 7º.
+
+Além das atribuições comuns, definidas no artigo 4º desta Lei, compete ao professor no exercício do atendimento educacional especial:
+
+
+I –
+
+perceber necessidades especiais dos alunos;
+
+
+II –
+
+flexibilizar sua ação pedagógica nas diferentes áreas de conhecimentos;
+
+
+III –
+
+atuar em equipe, inclusive, com professores especializados em educação especial.
+
+
+##### Seção IV — DA FUNÇÃO DE SUPERVISÃO ESCOLAR
+
+
+Art. 8º.
+
+A função de Supervisão Escolar será exercida por professor habilitado em Licenciatura Plena e Pedagogia ou pós-graduação na área de Educação, para atuação na Educação Infantil, Ensino Fundamental, Ensino Médio, Educação de Jovens e Adultos, Educação Especial e Creches.
+
+
+§ 1º
+
+O Supervisor Escolar da Educação de Jovens e Adultos terá o curso de especialização específico nesta área.
+
+
+§ 2º
+
+A especialização a que se refere o parágrafo anterior será efetuada com ônus para a Prefeitura Municipal.
+
+
+Art. 9º.
+
+Além das atribuições comuns definidas no artigo 4º desta Lei, compete ao professor no exercício desta função no interior da escola:
+
+
+I –
+
+acompanhar e orientar, diretamente nas escolas, a prática pedagógica dos professores;
+
+
+II –
+
+elaborar, implementar, acompanhar e avaliar nas escolas, propostas pedagógicas, planos e programas de ensino;
+
+
+III –
+
+selecionar, produzir textos e materiais de apoio ao ensino;
+
+
+IV –
+
+planejar, executar e avaliar as atividades de formação continuada do professor regente;
+
+
+V –
+
+orientar e acompanhar, nas escolas, as reuniões de pais, alunos e de professores;
+
+
+VI –
+
+orientar e acompanhar o desenvolvimento da proposta pedagógica da Educação Infantil, Ensino Fundamental, Creches, do Magistério em nível de Ensino Médio e Educação de Jovens e Adultos, numa perspectiva crítica baseada em parâmetros científicos e vinculada à realidade do público alvo;
+
+
+VII –
+
+orientar e acompanhar os professores regentes no planejamento e preparação de aulas, dos instrumentos de avaliação e do material de apoio didático;
+
+
+VIII –
+
+acompanhar a prática pedagógica do professor da Educação Infantil, Ensino Fundamental e Creches, Magistério em nível de Ensino Médio e Educação de Jovens e Adultos, nas várias atividades específicas de sua função;
+
+
+IX –
+
+acompanhar em conjunto com a comunidade escolar a frequência dos alunos da Educação Infantil, Ensino Fundamental, Creches, Magistério em nível do Ensino Médio e Educação de Jovens e Adultos, a fim de assegurar a elevação dos índices de aprovação, o controle da evasão escolar e qualidade do ensino;
+
+
+X –
+
+coordenar os estágios curriculares dos alunos do curso de Magistério do Ensino Médio da Rede Municipal de Ensino;
+
+
+XI –
+
+acompanhar e orientar os estagiários de sua área de atuação;
+
+
+XII –
+
+participar:
+
+
+a)
+
+das reuniões de pais, conselho de Classe, reuniões de professores, Assembleias Gerais e das atividades complementares da escola;
+
+
+b)
+
+das capacitações e das reuniões promovidas pela Secretaria Municipal de Educação.
+
+
+XIII –
+
+coordenar ações político-pedagógicas com vistas à interdisciplinaridade exigida pelo desenvolvimento da dinâmica curricular;
+
+
+XIV –
+
+discutir com a comunidade escolar sobre as formas de organização e funcionamento da escola, de modo a assegurar condições favoráveis à construção e sistematização do conhecimento.
+
+
+Art. 10.
+
+A distribuição de turmas ao Supervisor Escolar dar-se-á segundo os limites de turmas máximas e o critério de carga horária mensal desempenhada:
+
+
+I –
+
+por 150 (cento e cinquenta) horas-aula, 09 (nove) turmas;
+
+
+II –
+
+por 200 (duzentas) horas-aula, 12 (doze) turmas.
+
+
+Parágrafo único
+
+A carga horária mensal de que trata este artigo, não existindo turmas suficientes para seu preenchimento em uma única escola, será complementada em outra escola.
+
+
+##### Seção V — DA COORDENAÇÃO DE ÁREA
+
+
+Art. 11.
+
+A Coordenação de Área será exercida por professor portador de Licenciatura Plena em sua área específica, que atuará na Secretaria Municipal de Educação e nas escolas.
+
+
+Art. 12.
+
+Além das atribuições comuns, definidas no artigo 4º desta Lei, compete ao professor no exercício desta função:
+
+
+I –
+
+elaborar, selecionar e produzir com os professores da área, textos e matérias de apoio ao ensino;
+
+
+II –
+
+discutir com os professores a formação continuada enquanto ação-reflexão e reconstrução coletiva e permanente da prática pedagógica dentro e fora do Município do Cabo de Santo Agostinho;
+
+
+III –
+
+elaborar conjuntamente com os professores, planos e programas de ensino;
+
+
+IV –
+
+participar das reuniões e atividades promovidas e convocadas pela Secretaria Municipal de Educação, Escolas e Sindicato dos Professores do Município do Cabo de Santo Agostinho.
+
+
+Art. 13.
+
+Os Coordenadores de Áreas serão eleitos a cada 2 (dois) anos, pelos professores da área de conhecimento.
+
+
+§ 1º
+
+É requisito para concorrer à Coordenação de Área estar o professor em exercício há pelo menos 03 (três) anos na mesma área de conhecimento na Rede Municipal de Ensino do Cabo de Santo Agostinho.
+
+
+§ 2º
+
+Os Coordenadores de Área de que trata este artigo podem ser reeleitos, por mais um mandato.
+
+
+§ 3º
+
+Terão direito de votar e ser votado professores lotados nas respectivas áreas de conhecimento.
+
+
+§ 4º
+
+A eleição será regulamentada por regimento eleitoral único, elaborado por uma comissão formada por um professor indicado pela Assembleia Geral de cada área de conhecimento.
+
+
+§ 5º
+
+A Assembleia Geral realizar-se-á sempre no mês de outubro do ano eleitoral, convocada pelo Coordenador de Área em exercício.
+
+
+Art. 14.
+
+O Coordenador de Área terá carga horária de 200 (duzentas) horas-aulas mensais, assim distribuídas:
+
+
+a)
+
+da carga horária total ficará reservada à docência até 30 (trinta) horas-aulas mensais e 20 (vinte) horas-aulas de Atividades Pedagógicas Individuais.
+
+
+b)
+
+a carga horária restante do Coordenador da Área será utilizada no desempenho de suas atividades.
+
+
+Parágrafo único
+
+O Coordenador de Área ao término de seu mandato retornará à escola de origem, assegurada a sua carga horária.
+
+
+##### Seção VI — DA ADMINISTRAÇÃO ESCOLAR
+
+
+Art. 15.
+
+A função de Administração Escolar será exercida nas escolas da Rede Municipal de Ensino por professores habilitados da seguinte forma:
+
+
+a)
+
+em cursos de Licenciatura Plena na Área de Educação escolhidos através de eleição direta. Segundo disposição desta Lei, para exercerem as funções gratificadas de Dirigentes para as escolas que mantém ensino de 5ª a 8ª série do Ensino Fundamental e Ensino Médio;
+
+
+b)
+
+em cursos de Ensino Médio, escolhidos através de eleição direta, segundo disposição desta Lei, para exercerem as funções gratificadas de Dirigentes para as escolas da Educação Infantil, de 1ª a 4ª série do Ensino Fundamental, Educação de Jovens e Adultos e Educação Especial.
+
+
+Parágrafo único
+
+Para o exercício da função de Coordenador Escolar, exigir-se-á, no mínimo, habilitação em Magistério em nível do Ensino Médio.
+
+
+Art. 16.
+
+Além das atribuições comuns definidas no artigo 4º desta Lei, compete ao professor no exercício da função de Administração Escolar:
+
+
+I –
+
+dirigir a escola através de um processo democrático, assegurando o cumprimento dos princípios constitucionais, visando também os princípios democráticos estabelecidos por esta Lei, pragmatizados na Política Municipal de Educação;
+
+
+II –
+
+manter articulação sistemática com a Secretaria Municipal de Educação, a fim de garantir a manutenção das instalações físicas, do mobiliário e dos equipamentos escolares, o suprimento regular de material didático, merenda e demais condições necessárias ao funcionamento adequado da escola;
+
+
+III –
+
+manter articulação sistemática com a Secretaria Municipal de Educação, a fim de garantir a manutenção das instalações físicas, do mobiliário e dos equipamentos escolares, o suprimento regular de material didático, merenda e demais condições necessárias ao funcionamento adequado da escola;
+
+
+IV –
+
+manter articulação sistemática com a Secretaria Municipal de Educação, a fim de garantir a manutenção das instalações físicas, do mobiliário e dos equipamentos escolares, o suprimento regular de material didático, merenda e demais condições necessárias ao funcionamento adequado da escola;
+
+
+V –
+
+propor à Secretaria Municipal de Educação, ao Conselho Escolar e à Assembleia Geral da Escola a execução de medidas que visem à melhoria do funcionamento escolar;
+
+
+VI –
+
+coordenar, em conjunto com a coordenação pedagógica, a elaboração do Plano de Trabalho Anual da Escola, submetendo-o à aprovação do Conselho Escolar;
+
+
+VII –
+
+coordenar, em conjunto com a supervisão escolar, a execução e a avaliação do Plano Anual de Trabalho da Escola, do cumprimento do Calendário Escolar e de todas as atividades pedagógicas e administrativas da escola;
+
+
+VIII –
+
+cumprir e fazer cumprir o regimento interno da escola;
+
+
+IX –
+
+Organizar e coordenar, em conjunto com a Supervisão Escolar, as reuniões da escola, de pais, Conselhos de Classe e reuniões de professores;
+
+
+X –
+
+organizar, em conjunto com o Coordenador de Área e a Supervisão Escolar, o horário da escola e o horário de trabalho dos professores e demais funcionários;
+
+
+XI –
+
+acompanhar, em conjunto com o Secretário Escolar, a matrícula, transferência e registro da vida escolar dos alunos;
+
+
+XII –
+
+manter contato com os pais e responsáveis, visando ao acompanhamento do rendimento escolar e da frequência do aluno à escola, buscando a elevação dos índices de aprovação e o controle da evasão;
+
+
+XIII –
+
+propor à Secretaria Municipal de Educação em conjunto com o Conselho Escolar, a implantação e supressão de cursos, turnos e turmas;
+
+
+XIV –
+
+estimular e apoiar a comunidade escolar na realização de atividades de interesses coletivos que visem à dinamização e a elevação da ação educativa da escola;
+
+
+XV –
+
+participar de reuniões e outras atividades, programadas e convocadas pela Secretaria Municipal de Educação e/ou Sindicato dos Professores do Município do Cabo de Santo Agostinho;
+
+
+XVI –
+
+representar oficialmente a escola junto a órgãos públicos e privados;
+
+
+XVII –
+
+responder administrativamente e juridicamente por irregularidades cometidas na escola, nos limites de suas atribuições e competências;
+
+
+XVIII –
+
+compor o Conselho Escolar;
+
+
+XIX –
+
+encaminhar relatórios anuais para análise e aprovação pelo Conselho escolar.
+
+
+##### Seção VII — DA INSPEÇÃO ESCOLAR
+
+
+Art. 17.
+
+A Inspeção Escolar será exercida por professor habilitado em Licenciatura Plena em qualquer área de Educação.
+
+
+Parágrafo único
+
+O professor que já estiver exercendo a função de Inspetor Escolar, habilitado em outro e qualquer curso, não poderá ser afastado de suas funções.
+
+
+Art. 18.
+
+Além das atribuições comuns, definidas no artigo 4º desta Lei, compete ao professor no exercício desta função:
+
+
+I –
+
+orientar e acompanhar o processo de normatização, escrituração e operacionalização da dinâmica curricular nas escolas, de forma contínua e sistemática, objetivando a regularidade da vida escolar do aluno;
+
+
+II –
+
+organizar os dados e informações referentes a matrícula, transferência, evasão, aprovação e repetência dos alunos;
+
+
+III –
+
+orientar e assessorar as escolas municipais quanto ao cumprimento da legislação vigente;
+
+
+IV –
+
+orientar e acompanhar sistematicamente os secretários escolares.
+
+
+##### Seção VIII — DA SECRETARIA ESCOLAR
+
+
+Art. 19.
+
+Todas as escolas do Município que tiverem ao menos 06 (seis) salas de aula terão um(a) Secretário(a) Escolar, exercida por professor(a) habilitado(a) em Licenciatura Plena em qualquer área de Educação, com exceção daquelas escolas que limitam a Educação Infantil, de 1ª a 4ª série do Ensino Fundamental Educação de Jovens e Adultos e Educação Especial, que poderá ter habilitação em Ensino Normal Médio.
+
+
+Parágrafo único
+
+Ao professor que passar a exercer a função de que trata o caput deste artigo, será assegurado pela Secretaria Municipal de Educação a formação continuada, sem ônus para o professor;
+
+
+Art. 20.
+
+Além das atribuições comuns, definidas no artigo 4º desta Lei, compete ao professor no exercício da função de Secretaria Escolar:
+
+
+I –
+
+organizar a secretaria e os serviços administrativos em conjunto com a direção;
+
+
+II –
+
+organizar e manter atualizado o arquivo ativo e passivo da unidade escolar, garantindo a identificação e o arquivo dos registros de cada aluno;
+
+
+III –
+
+organizar e manter atualizado o arquivo ativo e passivo da unidade escolar, garantindo a identificação e o arquivo dos registros de cada aluno;
+
+
+IV –
+
+controlar o livro de ponto de pessoal docente e administrativo, registrando as faltas;
+
+
+V –
+
+encaminhar à direção, para despacho, os requerimentos de matricula, transferência ou quaisquer outros de competência da direção da unidade, solicitando, quando necessário, expediente a quem de direito;
+
+
+VI –
+
+discutir e organizar com os Dirigentes os horários e as escalas de férias dos servidores públicos administrativos;
+
+
+VII –
+
+lavrar e subscrever as atas e termos referentes à conclusão de cursos e resultados de trabalhos escolares;
+
+
+VIII –
+
+acompanhar, juntamente com a direção escolar os documentos da unidade de ensino;
+
+
+IX –
+
+manter o cadastro e registro do acervo mobiliário e instrumentos didáticos permanentes da unidade escolar;
+
+
+X –
+
+enviar bimestralmente para o setor competente da Secretaria Municipal de Educação dados estatísticos referentes à matricula inicial e efetiva da escola, e resultado do rendimento escolar dos alunos;
+
+
+XI –
+
+informar, aos alunos ao término do bimestre, os resultados de seus aproveitamentos e decisões do Conselho Escolar;
+
+
+XII –
+
+distribuir e organizar, em conjunto com a direção, coordenação de área e a supervisão escolar, a carga horária dos professores.
+
+
+Parágrafo único
+
+A Secretaria Escolar funcionará na unidade de ensino em todos os seus turnos, mediante rodízio de horário entre os ocupantes do cargo.
+
+
+### TÍTULO II — DO REGIME DE TRABALHO
+
+
+#### CAPÍTULO I — DO PROFESSOR NA FUNÇÃO DE DOCÊNCIA
+
+
+Art. 21.
+
+O regime de trabalho do professor do Magistério Público Municipal, no exercício da função de Docência, é fixado em hora-aula, independente do nível de ensino.
+
+
+Art. 22.
+
+A carga horária do professor da Rede Municipal de Ensino é composta de hora-aula docência, horas-aula de Atividade Pedagógica Coletiva e horas-aula de Atividade Pedagógica Individual.
+
+
+Art. 23.
+
+A carga horária mínima do professor II do Magistério Público Municipal é de 150 (cento e cinquenta) horas-aula, e a máxima de 370 (trezentos e setenta) horas-aula mensais.
+
+
+Art. 24.
+
+A carga horária do Professor I será obrigatoriamente de, quando mínima, 180 (cento e oitenta) horas-aula mensais, restando garantidos os 2/3 (dois terços) das horas-aula para atividades de interação com os educandos, conforme previsto no art. 2º, §4º da Lei Federal nº 11.738/2008.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+Art. 25.
+
+O acréscimo de carga horária dos professores, constantes do caput dos artigos 27 e 28 desta Lei, dar-se-á exclusivamente para efeito de docência, quando houver vacância e/ou expansão da Rede Escolar, não se admitindo o acréscimo para substituição de professores.
+
+
+Art. 26.
+
+A opção para o acréscimo de carga horária será, quando necessária, preenchida por requerimento e respeitados os critérios de:
+
+
+a)
+
+comprovação de disponibilidade:
+
+
+b)
+
+declaração expedida pela Secretaria Executiva de Administração, sobre a frequência anual no trabalho;
+
+
+c)
+
+não estar em período probatório.
+
+
+Parágrafo único
+
+Não será autorizado o acréscimo da carga horária se for apurado que o professor, no ano letivo anterior à solicitação, teve faltas não justificadas igual ou superior a 10% (dez por cento) da sua carga horária
+
+
+Art. 27.
+
+As horas-aula destinadas a atividades pedagógicas coletivas, compreendem atividades de formação continuada, reuniões pedagógicas, de pais, de conselho de classe.
+
+
+Parágrafo único
+
+As horas-aula de que trata o caput deste artigo serão cumpridas pelo professor de acordo com programação definida previamente pela Secretaria Municipal de Educação.
+
+
+Art. 28.
+
+As Escolas da Rede Municipal de Ensino organizarão em conjunto, sob a coordenação da Secretaria Municipal de Educação, o horário de aula das turmas de 5a a 8a série do Ensino Fundamental e do ensino Médio, garantindo um horário comum, um dia da semana, destinada às atividades pedagógicas coletivas para todos os professores, por área de conhecimento.
+
+
+Parágrafo único
+
+De acordo com o plano de trabalho da escola, o horário de atividades pedagógicas coletivas será utilizado pelos professores de que trata este artigo em reunião semanal com o coordenador de área, equipe de ensino ou grupos de estudos, para atividades de formação continuada, reuniões e Conselhos de Classe na escola.
+
+
+Art. 29.
+
+As atividades pedagógicas coletivas do professor da Educação Infantil, de Ia a 4a serie do Ensino Fundamental, da Educação de Jovens e Adultos e Educação Especial serão coordenadas pelo Supervisor Escolar, em conformidade com a programação definida pela Secretaria Municipal de Educação.
+
+
+Art. 30.
+
+As horas-aula destinadas a atividades pedagógicas individuais, compreendem atividades de preparação de aulas, de material de apoio didático, preparação e correção de instrumentos de avaliação de aprendizagem de alunos.
+
+
+Parágrafo único
+
+As horas-aula de que trata o caput deste artigo serão cumpridas pelo professor conforme programação individual.
+
+
+Art. 31.
+
+A duração da hora-aula, respeitado o disposto no artigo 24, inciso I, da Lei Federal nº 9.394, de 20 de dezembro de 1996, varia de 40 (quarenta) a 50 (cinquenta) minutos segundo o número de turmas da escola, sendo que:
+
+
+I –
+
+a carga horária semanal será igual ao resultado da multiplicação da carga horária diária por 05 (cinco);
+
+
+II –
+
+a carga horária mensal será igual ao resultado da multiplicação da carga horária semanal por 05 (cinco).
+
+
+Art. 32.
+
+A carga horária mensal mínima do Professor I é de180 (cento e oitenta) horas-aula e a máxima de 340 (trezentos e quarenta) horas-aula, assim distribuídas:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+I –
+
+no caso de carga horária mínima:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+a)
+
+120 (cento e vinte) horas-aula de docência;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+b)
+
+5 (cinco) horas-aula de Atividade Pedagógica Coletiva do Professor na Escola (APCPE);
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+c)
+
+15 (quinze) horas-aula de Atividade Pedagógica Coletiva de Formação promovida pela Secretaria Municipal de Educação — SME (APCF);
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+d)
+
+40 (quarenta) horas-aula de Atividade Pedagógica Individual (API);
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+II –
+
+no caso de carga horária máxima:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+a)
+
+240 (duzentos e quarenta) horas-aula de docência;
+
+
+b)
+
+5 (cinco) horas-aula de Atividade Pedagógica Coletiva do Professor na Escola (APCPE);
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+c)
+
+15 (quinze) horas-aula de Atividade Pedagógica Coletiva de Formação promovida pela Secretaria Municipal de Educação SME (APCF);
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+d)
+
+80 (oitenta) horas-aula de Atividade Pedagógica Individual (API).
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+§ 1º
+
+O professor com acréscimo de carga horária em séries diferentes, terá direito a mais 20 (vinte) horas-aula de atividades pedagógicas coletivas, passando sua carga horária máxima para 360 (trezentas e sessenta) horas-aula.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.807, de 20 de setembro de 2022.
+
+
+§ 2º
+
+É considerado como trabalho escolar, inclusos nas horas-aula de docência, os 15 (quinze) minutos diários de intervalo, devendo a escola incluir essa atividade em sua proposta pedagógica.
+
+
+Art. 33.
+
+A distribuição da carga horária total mínima do Professor II da Rede Municipal de Ensino é de 150 (cento e cinquenta) horas-aula e a total é de 370 (trezentas e setenta) horas-aula, conforme o estabelecido abaixo:
+
+
+I –
+
+carga horária mínima:
+
+
+a)
+
+105 (cento e cinco) horas-aula de docência;
+
+
+b)
+
+30 (trinta) horas-aula de atividade pedagógica coletiva;
+
+
+c)
+
+15 (quinze) horas-aula atividade pedagógica individual
+
+
+II –
+
+carga horária máxima:
+
+
+a)
+
+300 (trezentas) horas-aula de docência;
+
+
+b)
+
+30 (trinta) horas-aula de atividade pedagógica coletiva;
+
+
+c)
+
+40 (quarenta) horas-aula de atividade pedagógica individual.
+
+
+Parágrafo único
+
+O cálculo das horas-aula de Atividade Pedagógica individual dos professores que apresentam carga horária em número intermediário entre a quantidade mínima e máxima será na mesma proporção daquela constante do inciso I deste artigo. A carga horária de Atividade Pedagógica Coletiva em qualquer caso, será de 30 (trinta ) horas aula.
+
+
+Art. 34.
+
+Na distribuição da carga horária de docência do Professor de Educação Física, 25 (vinte e cinco) horas-aula serão destinadas ao Treinamento Desportivo, por equipe.
+
+
+Parágrafo único
+
+A distribuição mencionada no caput é uma faculdade do professor e, se ele optar por exercê-la, não poderá ultrapassar de duas equipes da carga horária mínima e de três equipes da carga horária máxima, de acordo com o artigo 33, desta Lei.
+
+
+#### CAPÍTULO II — DO PROFESSOR EM FUNÇÃO TÉCNICA
+
+
+Art. 35.
+
+O regime de trabalho do professor no exercício da função técnica é fixado em horas- aula, com carga horária mínima de 150 (cento e cinquenta) horas-aula e máxima de 200 (duzentas) horas-aula mensais.
+
+
+Art. 36.
+
+O professor no exercício da função de Dirigente, de Inspetor Escolar, de Coordenador Escolar e de Secretário Escolar perceberão seus vencimentos sob a carga horária de 200 (duzentas) horas-aula.
+
+
+Parágrafo único
+
+A carga horária de que trata o caput deste artigo será aplicada ao Coordenador Escolar na seguinte proporção:
+
+
+a)
+
+nas escolas com até 02 (duas) salas de aula funcionando com 02 (dois) ou mais turnos e no mínimo com 05 professores em docência, estará isento de docência de classe e revezará seus horários para atendimento de todos os
+
+
+b)
+
+nas escolas com apenas 01 (uma) sala de aula funcionando com 02 (dois) turnos e com mais de 01 (um) professor, se não preenchidos todos os turnos com professores, não estará isento do exercício de docência de classe, devendo compatibilizar a docência com o exercício da função técnica e atendimento a todos os turnos.
+
+
+### TÍTULO III — DA ORGANIZAÇÃO, ADMINISTRAÇÃO E COORDENAÇÃO PEDAGÓGICA DE ENSINO DAS ESCOLAS PÚBLICAS MUNICIPAIS
+
+
+#### CAPÍTULO I — DA ORGANIZAÇÃO
+
+
+Art. 37.
+
+As escolas da Rede Municipal de Ensino terão sua organização administrativa e pedagógica estabelecida em Regimento Interno a ser elaborado pela comunidade escolar, revisado ao final de cada ano letivo.
+
+
+Art. 38.
+
+As escolas da Rede Municipal de Ensino terá Calendário Escolar único a ser elaborado pela Secretaria Municipal de Educação, ao final de cada ano letivo a partir de subsídios e propostas encaminhadas pelas escolas através de seus Conselhos Escolares.
+
+
+§ 1º
+
+O Calendário Escolar será elaborado com a participação do Sindicato dos Professores do Município do Cabo de Santo Agostinho.
+
+
+§ 2º
+
+As escolas terão autonomia para organizarem o Calendário Escolar, de modo que, assegurem as peculiaridades específicas de suas realidades e o cumprimento dos dias letivos.
+
+
+§ 3º
+
+O Calendário escolar será fixado em todas as escolas da Rede Municipal de Ensino, no início do ano letivo e distribuído aos pais e responsáveis pelos alunos.
+
+
+Art. 39.
+
+As escolas da Rede Municipal de Ensino funcionarão com até 03 (três) turnos conforme horário fixado pela Secretaria Municipal de Educação.
+
+
+Art. 40.
+
+O número de alunos por turmas, nas escolas da Rede Municipal de Ensino, obedecerá a seguinte tabela:
+
+
+I –
+
+Educação Infantil: 15 a 20 alunos;
+
+
+II –
+
+Ensino Fundamental:
+
+
+a)
+
+1ª e 2ª série: 20 a 25 alunos;
+
+
+b)
+
+3ª e 4ª série: 30 a 35 alunos;
+
+
+c)
+
+5ª a 8ª série: 30 a 40 alunos;
+
+
+III –
+
+Ensino Médio: 40 a 45 alunos;
+
+
+IV –
+
+Educação de Jovens e Adultos: 15 a 30 alunos;
+
+
+V –
+
+Educação Especial: 10 a 15 alunos.
+
+
+Art. 41.
+
+As escolas públicas municipais são obrigadas a elaborarem, ao final de cada ano letivo, de acordo com a programação e orientação da Secretaria Municipal de Educação, o Plano de Trabalho Anual, com a participação e aprovação do Conselho Escolar.
+
+
+#### CAPÍTULO II — DA ADMINISTRAÇÃO DAS ESCOLAS
+
+
+##### Seção I — DOS ÓRGÃOS ADMINISTRATIVOS
+
+
+Art. 42.
+
+A administração local das escolas públicas municipais será exercida por uma Direção constituída por 02 (dois) Dirigentes ou por 01 (um) Coordenador Escolar.
+
+**Parágrafo único.** Para garantia da gestão democrática, as escolas contarão, nos termos do art. 10 da Lei nº 1920 de 29 de dezembro de 2000, com:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+I –
+
+o Conselho Escolar; e
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+II –
+
+a Conferência Municipal de Educação.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+Art. 43.
+
+Compõem a Comunidade Escolar, de que trata o caput anterior:
+
+
+I –
+
+os professores lotados nas escolas públicas e em efetivo exercício;
+
+
+II –
+
+os funcionários administrativos lotados e em efetivo exercício na escola;
+
+
+III –
+
+os alunos maiores de 13 (treze) anos, matriculados e com frequência de no mínimo 75% (setenta e cinco por cento) na Escola;
+
+
+IV –
+
+os pais e responsáveis dos alunos matriculados e com frequência de no mínimo, 75% (setenta e cinco por cento).
+
+
+Art. 44.
+
+Considera-se entidade organizada da sociedade civil, a entidade devidamente constituída na forma da Lei, sem fins lucrativos, há mais de 1 (um) ano, sediada no bairro onde se localiza a escola, a saber:
+
+
+I –
+
+conselhos e associações de moradores;
+
+
+II –
+
+clubes de mães;
+
+
+III –
+
+associações de mulheres;
+
+
+IV –
+
+associações e sindicatos de professores e trabalhadores;
+
+
+V –
+
+organizações religiosas.
+
+
+##### Seção II — DA DIREÇÃO DAS ESCOLAS
+
+
+Art. 45.
+
+Os Dirigentes e os Coordenadores Escolares das Instituições da Rede Municipal de Ensino se submeterão a um processo seletivo que confira competência para exercício da gestão colegiada.
+
+**§ 1º** Aprovados no processo seletivo mencionado no caput deste artigo, os Dirigentes serão eleitos mediante processo de eleições diretas.
+
+**§ 2º** Aprovados no processo seletivo mencionado no caput deste artigo, porém, independentemente de eleição, os Coordenadores Escolares serão indicados pelo Poder Executivo Municipal.
+
+**§ 3º** Dar-se-á indicações para função de Dirigentes e Coordenadores Escolares, pelo Chefe do Poder Executivo, nos seguintes casos:
+
+I - em Instituições de Ensino recém-instaladas até o próximo processo eleitoral do Sistema;
+
+II - em Instituições de Ensino da Rede Municipal que não tenham tido candidatos inscritos e selecionados.
+
+**§ 4º** Selecionados, eleitos e/ou indicados, os Dirigentes e Coordenadores Escolares serão nomeados pelo Chefe do Poder Executivo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+Art. 46.
+
+A direção das escolas será exercida por:
+
+
+I –
+
+02 (dois) Dirigentes nas escolas com estrutura superior a 06 (seis) turmas;
+
+
+II –
+
+01 (um) Coordenador Escolar nas Escolas com no máximo 06 (seis) turmas.
+
+
+Art. 47.
+
+A função de Dirigente e Coordenador Escolar será exercida por professor habilitado em curso de Licenciatura Plena na área de Educação.
+
+
+Parágrafo único
+
+As escolas da Educação Infantil e de 1ª a 4ª série do Ensino Fundamental, Educação de Jovens e Adultos e Educação Especial poderão ser dirigidas por professor habilitado em curso de Ensino Normal Médio
+
+
+Art. 48.
+
+Só poderão candidatar-se, assumir e dirigir as escolas públicas municipais os professores efetivos que, além de preencherem os requisitos de habilitação, definidos no artigo 15 e após seleção referida no art. 45, ambos desta Lei, atendam as seguintes exigências.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+I –
+
+sejam lotados e estejam em efetivo exercício há, no mínimo 03 (três) anos ininterruptos, na Rede Pública Municipal de Ensino do Cabo de Santo Agostinho;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+II –
+
+não tenham sido condenados em inquéritos administrativos, nem a processo- crime, ambos com sentença transitada em julgado;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+III –
+
+não exerça outro cargo na administração pública, exceto um outro de professor ou um técnico cientifico.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+§ 1º
+
+É incompatível com o exercício de qualquer cargo de direção a acumulação com exercício de outra função comissionada, de qualquer natureza, ainda que em outra entidade pública ou empresa privada, exigindo dedicação exclusiva.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+§ 2º
+
+O descumprimento do disposto no parágrafo anterior acarretará na exoneração do cargo de direção no Serviço Público Municipal.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+Art. 49.
+
+Os mandatos dos Dirigentes e Coordenadores Escolares são de 02 (dois) anos, permitida reeleição e nova indicação por uma única vez.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+Art. 50.
+
+As eleições para direção das escolas públicas municipais serão realizadas simultaneamente, a cada dois 02 (anos) até o final do mês de maio.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+§ 1º
+
+Os eleitos serão obrigatoriamente nomeados Dirigentes das respectivas unidades de ensino, pelo Chefe do Poder Executivo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+§ 2º
+
+A posse dos eleitos dar-se-á até o 10º (décimo) dia útil do mês de junho do ano das eleições. § 3º Aplica-se aos Coordenadores Escolares as disposições contidas no presente artigo, sendo suas indicações, nomeações e posse simultâneas às dos Dirigentes.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+Art. 51.
+
+Após a nomeação, a Secretaria Executiva de Educação oferecerá, obrigatoriamente, aos Dirigentes e aos Coordenadores Escolares curso de formação continuada em gestão escolar."
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.375, de 01 de março de 2007.
+
+
+Art. 52.
+
+O horário diário de trabalho dos Dirigentes, de acordo com a carga horária fixada no artigo 36 desta Lei, será organizada de forma a garantir obrigatoriamente, a presença da Direção na escola, durante o seu horário de funcionamento, observando-se o sistema de rodízio.
+
+
+Art. 53.
+
+A carga horária do Coordenador Escolar que obedecerá ao definido nas alíneas "a" e "b" do § único do artigo 36 desta Lei, também será organizada de forma a garantir obrigatoriamente a presença do Coordenador Escolar durante o horário de funcionamento da escola.
+
+
+Art. 54.
+
+Os Dirigentes e os Coordenadores Escolares nomeados poderão ser destituídos de suas funções, antes de completados seus respectivos mandatos, por deliberação da Secretaria Municipal de Educação ou do Conselho Escolar, se apurado descumprimento das Legislações Educacionais vigentes, garantindo o direito de ampla defesa e do contraditório.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+§ 1º
+
+Sendo o processo de destituição iniciado pela SME, o Conselho Escolar deverá apresentar um parecer.
+
+Inclusão feita pelo Art. 3º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+§ 2º
+
+Os Dirigentes e Coordenadores Escolares destituídos, em virtude das hipóteses previstas no caput, ficarão impedidos de concorrer às eleições disciplinadas por esta Lei durante 02 (dois) mandatos subsequentes à sua destituição.
+
+Inclusão feita pelo Art. 3º. - Lei Ordinária nº 3.199, de 12 de maio de 2017.
+
+
+##### Seção III — DO CONSELHO ESCOLAR
+
+
+Art. 55.
+
+O Conselho Escolar é órgão consultivo e deliberativo das atividades administrativas e pedagógicas da escola.
+
+
+Art. 56.
+
+O Conselho Escolar será constituído por eleição direta, mediante participação paritária de todos os segmentos da Comunidade Escolar, definida no artigo 43 desta Lei e das entidades da sociedade civil, definidas no artigo 44 desta Lei.
+
+
+Parágrafo único
+
+Os Conselhos Escolares serão eleitos e empossados até o final do segundo mês do ano letivo com a participação dos Sindicatos dos Professores e Trabalhadores Públicos Municipal do Cabo de Santo Agostinho e da Secretaria Municipal de Educação.
+
+
+Art. 57.
+
+Compete ao Conselho Escolar:
+
+
+I –
+
+garantir a gestão democrática participativa da escola;
+
+
+II –
+
+zelar pela oferta de ensino público e de qualidade, que atenda aos interesses e necessidades reais da população que frequenta a escola pública;
+
+
+III –
+
+assegurar a articulação da escola-família-comunidade;
+
+
+IV –
+
+acompanhar e fiscalizar as ações da escola;
+
+
+V –
+
+garantir a divulgação das ações da escola na comunidade;
+
+
+VI –
+
+propor, apoiar e defender medidas que visem à melhoria da organização e do funcionamento da escola;
+
+
+VII –
+
+apoiar e fiscalizar a organização e realização das eleições diretas para escolha dos Dirigentes da Escola e do Coordenador Escolar, em conjunto com a Comissão Eleitoral local;
+
+
+VIII –
+
+acompanhar o desempenho da direção da escola, indicando quando for o caso, a destituição da função a Assembleia Geral da Escola, conforme regulamentação em lei;
+
+
+IX –
+
+participar da elaboração e acompanhar a execução do Plano de Trabalho Anual da Escola;
+
+
+X –
+
+convocar a Assembleia Geral da Escola;
+
+
+XI –
+
+elaborar proposta de Calendário Escolar a ser analisada e aprovada pela Assembleia Geral da Escola;
+
+
+XII –
+
+apreciar relatórios anuais da escola, analisando seu desempenho segundo as diretrizes e metas estabelecidas pela Comunidade Escolar;
+
+
+XIII –
+
+autorizar, acompanhar e fiscalizar as despesas com os recursos públicos;
+
+
+XIV –
+
+fiscalizar as aquisições de bens e serviços da escola;
+
+
+XV –
+
+expor a prestação de contas em local de fácil acesso.
+
+
+Art. 58.
+
+O Conselho Escolar será regulamentado em Lei e reger-se-á por Regimento Interno Único, a ser elaborado por comissão paritária, constituída por representantes da Secretaria Municipal de Educação e do Sindicato dos Professores do Município do Cabo de Santo Agostinho.
+
+
+Parágrafo único
+
+A renovação dos membros do Conselho Escolar será feita a cada 02 (dois) anos.
+
+
+Art. 59.
+
+Nas escolas dirigidas por Coordenadores Escolares, os Conselhos Escolares serão compostos pelos segmentos existentes da Comunidade Escolar definida no artigo 43 desta Lei.
+
+
+##### Seção IV — DA ASSEMBLÉIA GERAL DA ESCOLA
+
+
+Art. 60.
+
+Cada escola do Serviço Público Municipal do Cabo de Santo Agostinho comporá Assembleia Geral própria com todos os integrantes da Comunidade Escolar enumeradas no artigo 43, desta Lei.
+
+
+Art. 61.
+
+A Assembleia Geral da Escola é instância soberana no que diz respeito ao universo de intervenção ou deliberação da respectiva escola,
+
+
+Parágrafo único
+
+A Assembleia Geral da Escola instalar-se-á com a presença de pelo menos 50% (cinquenta por cento) mais um dos membros de cada um dos segmentos da Comunidade Escolar em primeira chamada e com 20% (vinte por cento) dos membros em segunda chamada.
+
+
+### TÍTULO IV — DOS DIREITOS E VANTAGENS
+
+
+#### CAPÍTULO I — DOS DIREITOS FUNDAMENTAIS
+
+
+Art. 62.
+
+Além dos direitos previstos na Constituição Federal, na Constituição Estadual e na Lei Orgânica do Município, na Lei de Diretrizes e Bases da Educação, Lei do FUNDEF e no Plano de Cargos, Carreira e Remuneração do Magistério, são Direitos Fundamentais do Professor:
+
+
+I –
+
+perceber remuneração de acordo com o nível e referência da carreira, habilitação profissional, tempo de serviço, regime de trabalho e avaliação de desempenho, conforme estabelece esta Lei;
+
+
+II –
+
+receber formação continuada que promova a atualização e o aperfeiçoamento profissional, visando a melhoria da educação;
+
+
+III –
+
+dispor de condições físicas e materiais adequados e suficientes que lhe permitam desempenhar suas funções com eficiência e eficácia;
+
+
+IV –
+
+liberdade de expressar suas ideias e concepções;
+
+
+V –
+
+livre sindicalização e direito de greve;
+
+
+VI –
+
+oportunidade de participar de Congressos, Seminários e outros eventos correlatos à sua área de atuação, com ônus para a Prefeitura do Município do Cabo de Santo Agostinho;
+
+
+VII –
+
+acesso no local de trabalho, a diretrizes e normas legais referentes à educação, à regulamentação funcional e à organização profissional;
+
+
+VIII –
+
+acesso a dados e informações referentes à sua ficha funcional;
+
+
+IX –
+
+votar e ser votado para os cargos eletivos regulamentados nesta Lei;
+
+
+X –
+
+irredutibilidade de carga horária de trabalho e respectiva remuneração, salvo solicitação expressa do professor e os casos previstos nesta Lei;
+
+
+XI –
+
+retornar à lotação originária, quando transferido ou removido por ato caracterizado enquanto perseguição pessoal ou política;
+
+
+XII –
+
+diária, quando do deslocamento autorizado para reuniões de trabalho, seminários e outros eventos correlatos, consoante a legislação específica aplicável aos demais servidores do Municípi
+
+
+XIII –
+
+participar como integrante de Conselho, comissões, estudos e deliberações referentes ao processo educacional;
+
+
+XIV –
+
+reunir-se na unidade escolar, ou em outro órgão municipal para tratar de assuntos de interesse da categoria e da Educação em geral;
+
+
+XV –
+
+participar das Assembleias Gerais da categoria com garantia do abono da respectiva falta;
+
+
+XVI –
+
+gozo de férias e recesso de acordo com o Calendário Escolar;
+
+
+XVII –
+
+liberação de totalidades de sua carga horária, com vencimento e remuneração integrais para cursar pós-graduação em nível de mestrado ou doutorado e pós- doutorado;
+
+
+XVIII –
+
+liberação de 50% (cinquenta por cento) de sua carga horária, com vencimento e remuneração integrais, para a elaboração da monografia em nível de especialização reconhecida por 360 (trezentas e sessenta) horas-aula, considerando o prazo legal determinado pela Instituição de Ensino;
+
+
+XIX –
+
+garantia do abono das faltas para os professores que mantiverem outro vínculo empregatício em outros Municípios ou do Estado, e as Assembleias Gerais das suas respectivas categorias.
+
+
+§ 1º
+
+Os valores pagos enquanto diárias e ajuda de custos serão idênticos quando referentes ao mesmo fato gerador.
+
+
+§ 2º
+
+O gozo de férias e recesso escolar de que trata o inciso XVI, deste artigo, para o professor em função técnica/administrativa dar-se-á de acordo com a necessidade do trabalho.
+
+
+#### CAPÍTULO II — DAS GRATIFICAÇÕES E ADICIONAIS
+
+
+Art. 63.
+
+Aos profissionais do magistério que estejam exercendo funções de Docência, de Dirigente, de Coordenador Escolar, de Supervisor Escolar, de Secretário Escolar ou, ainda, exercendo Função Técnica na Secretaria Municipal de Educação - SME, será atribuída a gratificação de 50% (cinquenta por cento) sobre o seu vencimento, a título de Gratificação de Exercício do Magistério - GEM. I - A gratificação de que trata este artigo será calculada sobre o vencimento equivalente a carga horária total, enquanto vantagem pessoal nominalmente identificada; II - A GEM integra o conjunto de vantagens de caráter permanente sobre as quais incide contribuição para o CABOPREV - Instituto de Previdência Social dos Servidores do Município do Cabo de Santo Agostinho; ficando, em contrapartida, assegurada nos proventos da aposentadoria dos profissionais do magistério, referidos no caput deste artigo; III - A vantagem a que se refere o inciso II, deste artigo, dar-se-á a partir do cumprimento do prazo mínimo e contínuo de 36 (trinta e seis) meses de contribuição, vedada a acumulação e recebimento de gratificação sob o mesmo título ou fundamento, respeitada a situação prevista no parágrafo único, deste artigo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.812, de 25 de julho de 2011.
+
+
+Parágrafo único
+
+Os professores que, sob a vigência das Leis nºs 1636/1992 e 2280/2005, estiveram em efetivo exercício de docência, receberam essa vantagem e sobre ela contribuíram para o CABOPREV - Instituto de Previdência Social dos Servidores do Município do Cabo de Santo Agostinho, terão direito a incorporação da gratificação da docência de classe nos seus proventos de aposentadoria."
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.812, de 25 de julho de 2011.
+
+
+Art. 64.
+
+Será atribuída aos professores lotados e em efetivo exercício de suas funções em escolas classificadas de difícil acesso, conforme sua localização, uma gratificação de forma escalonada, com percentuais estabelecidos através de Decreto Municipal, variando entre 20% (vinte por cento), 35% (trinta e cinco por cento) e 50% (cinquenta por cento), calculado sobre o seu vencimento.
+
+
+§ 1º
+
+O direito à gratificação de difícil acesso cessará nos seguintes casos:
+
+
+I –
+
+O direito à gratificação de difícil acesso cessará nos seguintes casos:
+
+
+II –
+
+perda de classificação de difícil acesso, pela escola.
+
+
+§ 2º
+
+O Decreto do Poder Executivo regulamentando a concessão da gratificação de que trata o caput deste artigo, considerará a proposta da Comissão Paritária formada por representantes da Secretaria Municipal de Educação e do Sindicato dos Professores do Município.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 5º. - Lei Ordinária nº 2.812, de 25 de julho de 2011.
+
+
+Alteração de rótulo feita pelo Art. 1º. - Lei Ordinária nº 2.834, de 09 de novembro de 2011.
+
+
+Art. 66.
+
+Será concedida gratificação de função aos Dirigentes e Coordenadores Escolares, que estejam em efetivo exercício da função, durante o período de sua gestão, calculada sobre o vencimento, de acordo com o número de turmas da escola, conforme a tabela seguinte:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+| Número de Turmas | Gratificação (%) |
+
+|======================================|===================|
+
+|De 01 a 03 turmas |Coordenadores | 50|
+
+|--------------------|-----------------|-------------------|
+
+|De 04 a 06 turmas |Coordenadores | 70|
+
+|--------------------|-----------------|-------------------|
+
+|De 07 a 13 turmas |Dirigentes | 90|
+
+|--------------------|-----------------|-------------------|
+
+**§ 1º** A gratificação de que trata este artigo cessará a partir da mesma data em que o professor deixar de exercer a função de Dirigente ou de Coordenador Escolar.
+
+**§ 2º** Em relação aos Coordenadores de 01 a 03 turmas, nos termos da alínea b, do parágrafo único, do art. 36, desta Lei, a gratificação de que trata este artigo é cumulativa com a Gratificação de Exercício do Magistério - GEM, de 50% (cinquenta por cento), referida no art. 63 desta Lei, alterado pela Lei nº 2812 de 25 de julho de 2011.
+
+**§ 3º** Em relação aos Coordenadores de 04 a 06 turmas e aos Dirigentes, a gratificação de que trata este artigo não é cumulativa com a Gratificação de Exercício do Magistério - GEM, de 50% (cinquenta por cento), referida no art. 63 desta Lei, alterado pela Lei nº 2812 de 25 de julho de 2011.
+
+**§ 4º** Para efeito de incorporação nas suas aposentadorias, os Coordenadores de 04 a 06 turmas e os Dirigentes contribuirão para o CABOPREV - Instituto de Previdência Social dos Servidores do Município do Cabo de Santo Agostinho, sobre o percentual de 50% (cinquenta por cento) do salário base, correspondente à Gratificação de Exercício do Magistério - GEM (antiga docência de classe) que receberiam se estivessem em efetiva docência."
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.834, de 09 de novembro de 2011.
+
+
+#### CAPÍTULO III — DAS FÉRIAS E DO RECESSO ESCOLAR
+
+
+Art. 67.
+
+Os Professores do Município do Cabo de Santo Agostinho terão direito a 30 (trinta) dias de férias, a serem gozadas obrigatoriamente no mês de janeiro e 15 (quinze) dias de recesso no mês de julho, conforme o Calendário Escolar.
+
+
+Art. 68.
+
+O período de férias dos professores lotados em escolas da zona rural atenderá as peculiaridades locais, obedecendo os prazos definidos no artigo 67 desta Lei.
+
+
+Art. 69.
+
+Os professores no exercício de funções técnicas terão direito ao mesmo período de férias assegurado aos professores no exercício da docência, de acordo com o disposto no § 2º do artigo 62 desta Lei.
+
+
+Art. 70.
+
+O pagamento do abono constitucional de férias, correspondente a um terço do vencimento do professor, será feito, antecipadamente, no início do gozo das férias, salvo prévio acordo com a administração pública municipal.
+
+
+Art. 71.
+
+Quando o calendário escolar ficar comprometido em razão dos 200 (duzentos) dias letivos, a recomposição dos dias será efetuada sem ferir o disposto no artigo 67 desta Lei.
+
+
+#### CAPÍTULO IV — DAS LICENÇAS
+
+
+Art. 72.
+
+O professor vinculado ao Magistério Público do Município do Cabo de Santo Agostinho, terá as seguintes licenças:
+
+
+I –
+
+licença prêmio de 03 (três) meses por cada 05 (cinco) anos de serviço prestado no Município, podendo ser gozada a qualquer tempo após a aquisição, em sua totalidade ou parcelas nunca inferior a 30 (trinta) dias;
+
+
+II –
+
+licença para tratamento de saúde nos termos da legislação do Regime Próprio de Previdência Social dos Servidores do Município;
+
+
+III –
+
+licença à professora gestante nos termos da legislação do Regime Próprio de Previdência Social dos Servidores do Município;
+
+
+IV –
+
+licença sem vencimentos, após 03 (três) anos de efetivo exercício no Serviço Público Municipal, por período de no mínimo 01 (um) ano e no máximo 04 (quatro) anos;
+
+
+V –
+
+licença para acompanhar tratamento de saúde de cônjuge, companheiro(a), pai, mãe e filhos, quando comprovada a necessidade indispensável de sua assistência pelo médico que acompanha o doente e mediante incompatibilidade das funções do professor com a assistência a ser prestada;
+
+
+VI –
+
+licença a mãe adotiva ou que obtiver a guarda judicial, comprovada através de apresentação do termo Judicial de Guarda à Adotante ou Guardiã, variável de acordo com a idade da criança, conforme as proporções abaixo:
+
+
+a)
+
+120 (cento e vinte) dias no caso de adoção ou guarda judicial de uma criança até 01 (um) ano de idade;
+
+
+b)
+
+60 (sessenta) dias no caso de adoção ou guarda judicial de criança a partir de 01 (um) ano até 04 (quatro) anos de idade;
+
+
+c)
+
+30 (trinta) dias no caso de adoção ou guarda judicial de criança a partir de 04 (quatro) anos até 08 (oito) anos de idade.
+
+
+VII –
+
+licença sem vencimentos para acompanhar o cônjuge, companheiro(a), funcionário público civil ou militar, recolocado ou transferido para outro Município ou Estado da Federação, mediante requerimento com comprovação do impedimento;
+
+
+VIII –
+
+licença matrimonial, peio período de 05 (cinco) dias, a partir da data do matrimônio, comprovado através de certidão de casamento;
+
+
+IX –
+
+licença luto, por período de 05 (cinco) dias, a partir do falecimento de pai, mãe, cônjuge ou companheiro (a), filhos e irmãos, mediante comprovação com atestado de óbito;
+
+
+X –
+
+licença paternidade ao professor, sem prejuízo do cargo ou remuneração, com duração de 05 (cinco) dias.
+
+
+§ 1º
+
+Não será concedida licença prêmio ao professor que, no período aquisitivo, tiver sofrido pena de suspensão superior a 15 (quinze) dias ou tenha faltado 30% (trinta por cento) da carga horária de docência e atividades pedagógicas coletivas, sem justificativa.
+
+
+§ 2º
+
+O professor ao se aposentar, terá direito a receber o valor das licenças-prêmio não gozadas, na forma da lei, conforme previsto na Emenda Constitucional nº 20, de 16 de dezembro de 1998.
+
+
+§ 3º
+
+No caso de falecimento do professor, seus herdeiros terão direito a receber, o valor correspondente às licenças-prêmio não gozadas, na forma da lei, conforme previsto na Emenda Constitucional nº 20, de 16 de dezembro de 1998
+
+
+§ 4º
+
+Decorrida Licença Gestante de que trata o inciso III, deste artigo, a professora terá direito a 01 (uma) hora, antes do término de sua carga horária, para cuidados maternais, por 120 (cento e vinte) dias.
+
+
+#### CAPÍTULO V — DOS AFASTAMENTOS
+
+
+Art. 73.
+
+Será concedido ao professor em efetivo exercício de suas funções, afastamento, sem prejuízo de seus direitos, vencimentos e vantagens, para os seguintes fins:
+
+
+I –
+
+participar de cursos de aperfeiçoamento, especialização, mestrado e doutorado, relacionados diretamente com a sua área de atuação no Magistério Público do Cabo de Santo Agostinho, por prazo nunca superior a 04 (quatro) anos, de acordo com a duração do curso, renovável mediante parecer da entidade responsável;
+
+
+II –
+
+participar de congressos, seminários e outros eventos similares, relacionados diretamente com sua área de atuação no Magistério Público do Município do Cabo de Santo Agostinho, por período nunca superior a 30 (trinta) dias consecutivos;
+
+
+III –
+
+integrar grupos especiais de trabalho constituídos pela Secretaria Municipal de Educação e Sindicato dos Professores do Município do Cabo de Santo Agostinho, por período até 90 (noventa) dias, podendo ser prorrogado de acordo com a necessidade;
+
+
+IV –
+
+participar da Diretoria do Sindicato dos Professores do Município do Cabo de Santo Agostinho, quando eleito, pelo prazo de duração do respectivo mandato. Sendo destinado 750h/aulas à serem distribuídos ao seus componentes em deliberação própria.
+
+
+§ 1º
+
+Fica assegurado limite máximo de até 15% (quinze por cento) do total de professores por escola e Equipes de Ensino da Secretaria Municipal de Educação, a quantidade de professores a serem liberados, a cada 02 (dois) anos, para participarem dos cursos previstos no inciso I deste artigo, dada a preferência aos professores com menor número de especializações e mais antigos na escola.
+
+
+§ 2º
+
+O professor só poderá ser liberado para participar dos cursos previstos no inciso I deste artigo, após 03 (três) anos de efetivo exercício no Magistério Público Municipal do Cabo de Santo Agostinho, ficando obrigado após o seu retorno, a permanecer em exercício por tempo mínimo igual ao período de afastamento, sob pena de ressarcir aos cofres públicos, os vencimentos recebidos durante o referido período.
+
+
+§ 3º
+
+Ficam vedados os afastamentos previstos nos incisos I, II e III aos professores que, no decorrer de até 01 (um) ano que anteceder o pedido de afastamento, tenham sido condenados, com decisão transitada em julgado, em inquérito administrativo, com garantia de ampla defesa e contraditório, e que também se incluam nos termos do § 1º do artigo 71, desta Lei.
+
+
+§ 4º
+
+Os pedidos de afastamento previsto no inciso I, serão encaminhados, pelo professor, através de requerimento ao Secretário Municipal de Educação acompanhado de documentos que comprovem sua aprovação na seleção para o curso e/ou atestado de matrícula.
+
+
+§ 5º
+
+Os pedidos de afastamento previsto no inciso II, serão encaminhados pelo professor interessado, 10 (dez) dias antes do início do evento, através de requerimento ao Secretário Municipal de Educação, acompanhados do programa oficial do evento.
+
+
+§ 6º
+
+O afastamento previsto no inciso IV, será autorizado mediante declaração do sindicato eletivo e informado o período de duração do mandato
+
+
+§ 7º
+
+Fica o professor obrigado, nos afastamentos previstos no inciso I, a comprovar, semestralmente, junto à Secretaria Municipal de Educação, sua frequência ao curso, sob pena de suspensão de seus vencimentos.
+
+
+§ 8º
+
+Fica o professor obrigado, a comprovar sua participação nos eventos previstos no inciso II, em caso de afastamento, no prazo máximo de 08 (oito) dias após o seu retorno sob pena de desconto em seus vencimentos dos dias de afastamento.
+
+
+§ 9º
+
+A autorização para os afastamentos previstos nos incisos I e II dependerá de parecer favorável da Equipe de Ensino da Secretaria Municipal de Educação, mediante compatibilidade dos cursos e eventos com a área de atuação do professor.
+
+
+§ 10
+
+Somente será concedido novo afastamento, nos casos previstos no inciso I, após o período de tempo do afastamento anterior.
+
+
+§ 11
+
+Fica limitado, a cada professor, 02 (dois) afastamentos por ano, nos casos previstos no inciso II.
+
+
+#### CAPÍTULO VI — DA LOTAÇÃO E DA REMOÇÃO
+
+
+Art. 74.
+
+A Secretaria Municipal de Educação assegurará, conforme as possibilidades e necessidades da Rede Municipal de Ensino, a lotação do professor, prioritariamente, em escolas próximas de sua residência.
+
+
+Parágrafo único
+
+As aulas dos professores em função de docência serão concentradas, conforme as possibilidades e necessidades da Rede Municipal de Ensino, em uma única escola ou em escolas localizadas no mesmo bairro ou em bairros vizinhos.
+
+
+Art. 75.
+
+O professor poderá ser removido a pedido, mediante requerimento escrito à Secretaria Municipal de Educação, encaminhado no final do ano letivo, indicando a escola onde deseja a lotação e as razões do pedido de remoção.
+
+
+§ 1º
+
+A remoção de que trata este artigo somente será concedida se existir vaga na escola solicitada pelo professor, e após o cumprimento do estágio probatório.
+
+
+§ 2º
+
+Admite-se enquanto mecanismo de remoção ou transferência a pedido a permuta entre professores desde que sob expressa concordância de ambos.
+
+
+Art. 76.
+
+O professor poderá ser removido, por determinação da Secretaria Municipal de Educação, nos seguintes casos:
+
+
+I –
+
+inexistência de demanda na comunidade para formação de turmas, no caso do professor de Educação Infantil, Ensino Fundamental de Ia a 4a série, Educação de Jovens e Adultos e Educação Especial;
+
+
+II –
+
+insuficiência de aula, nas disciplinas para as quais o professor está habilitado, nas escolas onde está lotado, no caso dos professores de 5a a 8a série do Ensino Fundamental e do Ensino Médio;
+
+
+III –
+
+por indicação do Conselho Escolar e homologação da Assembleia Geral, com prévia sindicância levada a cabo pela Secretaria Municipal de Educação, assegurada a ampla defesa e o contraditório, em casos de faltas graves e inadequação ou inadaptação do professor à escola.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Educação deverá substituir o professor removido no prazo de 15 (quinze) dias.
+
+
+Art. 77.
+
+A Secretaria Municipal de Educação seguirá os seguintes critérios para remoção, na forma do artigo anterior:
+
+
+I –
+
+residência mais próxima da unidade escolar;
+
+
+II –
+
+mais antigo na escola;
+
+
+III –
+
+mais antigo no exercício do Magistério Público Municipal do Cabo de Santo Agostinho;
+
+
+IV –
+
+mais idoso.
+
+
+#### CAPÍTULO VII — DA SUBSTITUIÇÃO
+
+
+Art. 78.
+
+O professor será substituído em suas faltas, impedimentos, afastamentos e licença, por:
+
+
+I –
+
+professor vinculado ao Magistério Público Municipal com igual ou superior habilitação, que tenha disponibilidade de tempo e compatibilidade de horário sem que a substituição se caracterize em alteração do seu regime de trabalho;
+
+
+II –
+
+professor não vinculado ao Magistério Público Municipal, com igual ou superior habilitação, contratado por tempo determinado, nunca superior a 365 (trezentos e sessenta e cinco) dias, podendo ser prorrogado uma única vez, por no máximo igual período.
+
+
+Parágrafo único
+
+Durante os períodos de greve da categoria profissional dos professores é vedada a substituição de professores.
+
+
+#### CAPÍTULO VIII — DA CARGA HORÁRIA DISPONÍVEL
+
+
+Art. 79.
+
+Consideram-se aulas disponíveis para o professor na função de docência, na Educação Infantil, Ensino Fundamental, Ensino Médio, Educação de Jovens e Adultos e Educação Especial, para efeito de apuração em distribuição, aquelas que ultrapassem a carga horária dos professores em exercício na escola.
+
+
+§ 1º
+
+A carga horária definida neste artigo é aquela proveniente da expansão da Rede de Ensino Municipal, ou vacância de cargos de professor.
+
+
+§ 2º
+
+A carga horária total dos professores incluídas as aulas disponíveis, não poderá em nenhuma hipótese ultrapassar a quantidade máxima de 295 (duzentas e noventa e cinco ) horas-aula para o professor I e de 370 (trezentas e setenta) horas- aula para o professor II.
+
+
+§ 3º
+
+Decreto do Poder Executivo regulamentará a distribuição das horas-aula disponíveis de que trata o caput deste artigo.
+
+
+#### CAPÍTULO IX — DO ABONO DE FALTAS E DA COMPENSAÇÃO DE AULAS
+
+
+Art. 80.
+
+Cada 03 (três) atrasos ou saídas antecipadas no mês, tanto para o professor em função técnica quanto em função de docência, totalizam uma falta correspondente a 01 (uma) hora-aula.
+
+
+§ 1º
+
+Consideram-se atrasos os que tiverem a duração máxima de 15 (quinze) minutos:
+
+
+I –
+
+no início do expediente do professor em função técnica;
+
+
+II –
+
+no início da jornada diária do professor de Educação Infantil e de 1ª a 4ª série do Ensino Fundamental, Educação de Jovens e Adultos e Educação Especial;
+
+
+III –
+
+no início de cada aula do professor de 5ª a 8ª série do Ensino Fundamental II, do Segundo Segmento de Educação de Jovens e Adultos e do Ensino Médio.
+
+
+§ 2º
+
+Consideram-se saídas antecipadas as que ocorrem, no mínimo, 10 (dez) minutos antes de término:
+
+
+I –
+
+do expediente do professor em função técnica;
+
+
+II –
+
+da jornada diária de aula do professor de Educação Infantil e de 1ª a 4ª série do Ensino Fundamental, Educação de Jovens e Adultos e Educação Especial;
+
+
+III –
+
+e cada aula do professor de 5a a 8a série do Ensino Fundamental e do Ensino Médio.
+
+
+Art. 81.
+
+Os atrasos de mais de 15 (quinze) minutos e as saídas antecipadas que ocorrem 10 (dez) minutos antes do término do expediente ou da aula serão computados como falta integral, não abonadas, correspondente a 01 (uma) hora-aula.
+
+
+Art. 82.
+
+As faltas não abonadas serão descontadas dos vencimentos do professor.
+
+
+Art. 83.
+
+As aulas não ministradas, serão compensadas pelo professor dentro do semestre letivo em que ocorrem as faltas.
+
+
+Parágrafo único
+
+As aulas compensadas correspondentes a faltas não abonadas, serão ressarcidas financeiramente ao professor, no mês imediatamente seguinte à compensação.
+
+
+#### CAPÍTULO X — DA FORMAÇÃO CONTINUADA
+
+
+Art. 84.
+
+A Secretaria Municipal de Educação oferecerá formação continuada sistemática e permanente aos professores da Rede Municipal de Ensino, dentro de sua carga horária de trabalho, regulamentada nesta Lei.
+
+
+§ 1º
+
+A formação continuada dos professores da Educação infantil, de 1ª a 4ª série do Ensino Fundamental, Educação de Jovens e Adultos e Educação Especial, será realizada na escola de acordo com sua disponibilidade, como também através de um encontro mensal de 05 (cinco) horas-aula.
+
+
+§ 2º
+
+A formação continuada dos professores de 5a a 8a série do Ensino Fundamental, do Segundo Segmento de Educação de Jovens e Adultos e do Ensino Médio será realizada em encontros semanais de 06 (seis) horas-aula, dentro da dinâmica das coordenadorias de área.
+
+
+§ 3º
+
+As faltas dos professores aos encontros de formação continuada serão descontadas dos seus vencimentos mensais, salvo por motivo devidamente comprovado.
+
+
+§ 4º
+
+Quando o professor ocupar outro cargo, na Rede Pública ou Privada, caberá a Secretaria Municipal de Educação tentar a liberação do professor para a participação nas atividades de formação continuada. Caso a Secretaria Municipal de Educação não logre êxito na tentativa, o professor será dispensado da participação no horário do outro vínculo empregatício.
+
+
+§ 5º
+
+A Secretaria Municipal de Educação do Município do Cabo de Santo Agostinho publicará calendário semestral da Formação Continuada.
+
+
+#### CAPÍTULO XI — DA READAPTAÇÃO
+
+
+Art. 85.
+
+O professor, por motivo de saúde atestado por Junta Médica Oficial, poderá ser readaptado de função para outra compatível com sua formação acadêmica.
+
+
+Art. 86.
+
+O cargo de professor readaptado, na hipótese de impossibilidade de reversibilidade, será considerado vago.
+
+
+Parágrafo único
+
+Na hipótese de reversibilidade será assegurado ao professor assumir o cargo e lotação originária.
+
+
+Art. 87.
+
+Ao professor readaptado serão assegurados todos os direitos e vantagens, quando no exercício do cargo.
+
+
+§ 1º
+
+Ao professor readaptado, na forma deste artigo, quanto à jornada de trabalho e carga horária, manter-se-ão os mesmos percentuais, valores e condições, operados quando do impedimento.
+
+
+§ 2º
+
+Quando a pedido do professor readaptado, poderá haver aumento ou redução de jornada de trabalho e carga horária, na função readaptada, com alteração proporcional de seus vencimentos.
+
+
+Art. 88.
+
+Será computado para todos os efeitos legais o tempo de serviço prestado por professor readaptado.
+
+
+### TÍTULO V — DOS DEVERES E PROIBIÇÕES
+
+
+#### CAPÍTULO I — DOS DEVERES
+
+
+Art. 89.
+
+Além das atribuições comuns e das atribuições específicas de suas funções e dos deveres concernentes a todos os Servidores Públicos Municipais, os professores vinculados ao Magistério Público Municipal terão como deveres:
+
+
+I –
+
+cumprir o horário de trabalho com assiduidade e pontualidade, executando suas funções com competência e responsabilidade;
+
+
+II –
+
+executar as atividades pedagógicas de forma a contribuir com a aprendizagem do aluno, elevando os índices de aprovação;
+
+
+III –
+
+contribuir para a permanência do aluno na escola, diminuindo os índices de evasão;
+
+
+IV –
+
+conduzir-se, no desempenho de suas funções, com responsabilidade, compromisso, ética e respeito aos direitos humanos, nas relações estabelecidas com os outros profissionais, os pais dos alunos e a comunidade;
+
+
+V –
+
+cumprir o Regimento interno da Escola, o Calendário Escolar e o Plano de Trabalho Anual da Escola, contribuindo para a melhoria da organização e do funcionamento da escola.
+
+
+#### CAPÍTULO II — DAS PROIBIÇÕES
+
+
+Art. 90.
+
+É vedado aos professores no exercício de suas funções:
+
+
+I –
+
+suspender aulas e outras atividades sem amparo legal;
+
+
+II –
+
+alterar ou não cumprir a carga horária, a programação de ensino e outras atividades programadas pela Secretaria Municipal de Educação e pela escola;
+
+
+III –
+
+ceder as instalações físicas, mobiliário, equipamento e materiais da escola e demais órgãos da Secretaria Municipal de Educação sem prévia autorização das instâncias competentes;
+
+
+IV –
+
+ministrar aulas remuneradas, em caráter particular a alunos da Rede Municipal de Ensino, dentro da estrutura pública;
+
+
+V –
+
+exercer atividades político-partidárias no recinto do trabalho;
+
+
+VI –
+
+afastar-se do trabalho antes da concessão de licença e afastamento requeridos;
+
+
+VII –
+
+utilizar o local de trabalho para fins comerciais e outros fins estranhos às atividades da Educação Municipal.
+
+
+#### CAPÍTULO III — DO EXERCÍCIO ACUMULATIVO
+
+
+Art. 91.
+
+O exercício acumulativo se dá quando um professor exerce temporariamente função de outro professor em virtude de afastamentos ou licenças.
+
+
+Art. 92.
+
+Ao professor que estiver em exercício acumulativo será garantido o recebimento de todos direitos e vantagens financeiras de acordo com sua faixa e nível salarial, salvo a carga horária de Atividades Pedagógicas Coletivas do professor substituído.
+
+
+Parágrafo único
+
+O professor I que acumule em séries diferentes, terá direito a carga horária de Atividades Pedagógicas Coletivas do professor substituído.
+
+
+Art. 93.
+
+Sempre que algum professor estiver afastado ou de licença suas aulas serão substituídas prioritariamente por professor do quadro funcionai do Município.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 94.
+
+As funções de Supervisor Escolar e Inspetor Escolar, que são privativas do cargo de Professor, serão escolhidas por seleção interna, conforme critérios estabelecidos em Edital.
+
+
+§ 1º
+
+A Secretaria Executiva de Educação publicará o Edital no prazo máximo de 30 (trinta) dias, contados a partir da constatação, devidamente comprovada e documentada, da necessidade do processo seletivo.
+
+
+§ 2º
+
+O Edital cumprirá as exigências dos artigos 8º e 17 desta Lei.
+
+
+Art. 95.
+
+As escolas que oferecem a habilitação de Magistério do Ensino Médio terão um Supervisor Escolar específico para o referido Curso
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 96.
+
+A partir da vigência deste Estatuto, o professor vinculado ao Magistério Público Municipal do Cabo de Santo Agostinho só poderá exercer as funções e atribuições definidas nesta Lei.
+
+
+Art. 97.
+
+Fica assegurado que o valor da hora-aula em quaisquer faixas/níveis não sofrerá alteração em relação a valor, mesmo quando do acréscimo ou redução da quantidade de horas-aulas lecionadas pelo professor, respeitando sempre a carga horária mínima e a máxima permitida.
+
+
+Art. 98.
+
+As Escolas da Rede Municipal de Educação, a partir da vigência desta Lei, terão o prazo de 04 (quatro) meses para atualizar seus Regimentos Internos.
+
+
+Art. 99.
+
+Fica estabelecido que os professores sem habilitação em licenciatura plena devem se adequar as normas exigidas, de acordo com a Legislação específica.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Educação estabelecerá condições que favoreçam ao professor cumprir o estabelecido no caput deste artigo.
+
+
+Art. 100.
+
+Fica garantido a partir da publicação desta Lei:
+
+
+I –
+
+aos professores portadores de habilitação em cursos de Licenciatura Curta, cujo quadro fica em extinção, a manutenção dos seus direitos e vantagens;
+
+H aos professores que estejam cursando graduação na área de educação, a liberação de 01 (uma) hora diária antes do término do horário de trabalho no dia que estiver em estágio curricular, devidamente comprovado;
+
+ITT ao professor que esteja com carga horária inferior a 150 (cento e cinquenta) horas aula, a sua manutenção.
+
+
+Parágrafo único
+
+A partir da publicação desta Lei, fica vedada a distribuição de carga horária inferior a 150 (cento e cinquenta) horas aula mensais.
+
+
+Art. 101.
+
+No período de agosto a dezembro de 2005, as gratificações de que tratam os artigos 63 e 65 desta Lei, obedecerão os seguintes critérios de implantação:
+
+
+I –
+
+no mês de agosto do ano de 2005, passará de 20% (vinte por cento) para 30% (trinta por cento);
+
+
+II –
+
+no mês de janeiro do ano de 2006, passará de 30% (trinta por cento) para 40% (quarenta por cento).
+
+
+Art. 102.
+
+O Município do Cabo de Santo Agostinho concentrará seus esforços e dotações orçamentárias na manutenção da Rede de Educação Infantil, Ensino Fundamental, Ensino Médio, Educação Especial e Educação de Jovens e Adultos.
+
+
+Art. 103.
+
+A Secretaria Municipal de Educação, no prazo de 12 (doze) meses, a contar da publicação desta Lei, proporcionará formação sem ônus para os professores do quadro efetivo, que exercem docência nas classes que atende alunos com necessidades especiais.
+
+
+Art. 104.
+
+O Município do Cabo de Santo Agostinho, no prazo de 24 (vinte e quatro) meses, a contar da entrada em vigor desta Lei, extinguirá os turnos intermediários, compreendidos entre 11 (onze) e 15 (quinze) horas.
+
+
+Art. 105.
+
+A Secretaria Municipal de Educação terá um prazo de 60 (sessenta) dias a partir da publicação desta Lei para publicar a relação das vacâncias para efeito de ocupação de professores através de carga horária disponível.
+
+
+Art. 106.
+
+Este Estatuto, a partir da entrada em vigor, será revisado a cada 04 (quatro) anos.
+
+
+Art. 107.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 108.
+
+Fica revogada a nº 1636, de 01 de julho de 1992 e suas alterações, bem como as demais disposições em contrário.
+
+
+Palácio Conde da Boa Vista, 31 de Outubro de 2005.
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+**Prefeito Municipal**
+
+**JOÃO BATISTA DE MOURA**
+
+Secretário de Assuntos Jurídicos Defesa da Cidadania
+
+Procurador Municipal - OAB/PE 8834
+
+Matrícula 10031
+
+**DERMEVAL FLORÊNCIO DE MIRANDA**
+
+Secretário Executivo de Administração
+
+Matrícula nº 10089
+
+**JOSÉ DE ARIMATÉIA JERÔNIMO SANTOS**
+
+Secretário Executivo de Educação
+
+Matrícula 2353
+

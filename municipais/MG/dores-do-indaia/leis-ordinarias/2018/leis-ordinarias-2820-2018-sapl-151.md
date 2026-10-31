@@ -1,0 +1,177 @@
+---
+titulo: "Lei Ordinária nº 2.820, de 29 de novembro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2820"
+data: "2018-11-29"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2019-12-06; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/151"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/245/text"
+sha256_fonte: "8042b6c90e3f829a0268fc2566f514bab6972d13040770d76bcbeaeb57123b6a"
+sha256_texto: "58c7f6f91bd22130f092e9d538eafadf155cb295ded918f3831f1966f02641ec"
+capturado_em_fonte: "2026-10-28T10:07:17.711845-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.820, de 29 de novembro de 2018
+
+**TEXTO ORIGINAL EM PDF**
+
+
+"Estima receita e fixa despesa para o exercício de 2019".
+
+
+o povo do Município de Dores do Indaiá, Estado de Minas Gerais, por seus representantes legais na Câmara Municipal.  
+  
+APROVA:
+
+
+Art. 1º.
+
+O Orçamento geral do Município de Dores do Indaiá, para o exercício de 2019, estima a Receita e fixa a Despesa em R$ 41.982.552,26 (Quarenta e um milhões, novecentos e oitenta e dois mil, quinhentos e cinqüenta e dois reais e vinte e seis centavos).
+
+
+Art. 2º.
+
+A Receita será realizada mediante-a arrecadação dos tributos, rendas e outras Receitas Correntes e de Capital, na forma da Legislação em vigor e das especificadas constantes do anexo I da Lei 4.320/64, com as modificações introduzidas pela Lei 101/2000 e portarias da STN, conforme o seguinte desdobramento:
+
+
+Art. 3º.
+
+A Despesa será realizada de acordo com a discriminação por Órgãos e Unidades Orçamentárias e por Funções de governo, conforme o seguinte desdobramento:
+
+
+Receita Tributária
+
+Receitas de Contribuições 1.690.249,35
+
+Receita Patrimonial 1.143.873,45
+
+Receita Industrial 199.096,45
+
+Receita de Serviços 39.703,65
+
+Transferências Correntes 32.563.140,57
+
+Outras Receitas Correntes 152.954,91
+
+TOTAL DAS RECEITAS CORRENTES 39.266.821,68
+
+Receitas Intra-orçamentárias 2.564.000,00
+
+TOTAL DAS RECEITAS INTRA-ORÇAMENTÁRIAS 2.564.000,00
+
+Operação de Crédito 326.000,00
+
+Alienação de Bens 71.000,00
+
+Transferências de Capital 4.096.293,65
+
+TOTAL DAS RECEITAS DE CAPITAL 4.493.293,65
+
+TOTAL GERAL 46.324.115,33
+
+**01.CÂMARA MUNICIPAL**
+
+01\. Legislativa 1.752.000,00
+
+TOTAL 1.752.000,00
+
+**02. PREFEITURA MUNICIPAL**
+
+02 – Judiciária 408.162,97
+
+04 — Administração 3.533.841,63
+
+08 - Assistência Social 1.751.954,93
+
+09 - Previdência Social 1.257.122,76
+
+10 – Saúde 10.161.075,27
+
+12 – Educação 9.636.667,84
+
+13 – Cultura 526.316,37
+
+15 – Urbanismo 3.446.141,85
+
+16 – Habitação 189.810,00
+
+17 – Saneamento 20.520,00
+
+18 - Gestão Ambiental 321.385,44
+
+20 – Agricultura 323.735,40
+
+23 - Comércio e Serviços 73.336,85
+
+24 – Comunicações 28.215,00
+
+25 – Energia 721.155,15
+
+26 – Transporte 1.264.926,00
+
+27 - Desporto e Lazer 300.505,57
+
+28 - Encargos Especiais 848.233,71
+
+99 - Reserva de Contingência 92.445,52
+
+TOTAL 34.905.552,26
+
+**03. IPSEMDI**
+
+04 – Administração 385.000,00
+
+09 - Previdência Social 4.790.000,00
+
+99 - Reserva de Contingência 150.000,00
+
+TOTAL 5.325.000,00
+
+**TOTAL GERAL: 41.982.552,26**
+
+
+Art. 4º.
+
+Ficam o Executivo e Legislativo Municipal, autonzados no que couber a:
+
+
+I –
+
+Realizar operações de crédito por AnteCiPa~eita até o limite e nas condições autorizadas pela Lei 101, de 04 de maio de 2000;
+
+
+II –
+
+Abrir créditos suplementares às dotações do orçamento vigente até o limite de 35% (trinta e cinco por cento) nos termos do Artigo 43, § 1.° da Lei 4.320/64.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.886, de 06 de dezembro de 2019.
+
+
+III –
+
+Anular parcial ou totalmente dotações do presente orçamento, como recursos à abertura de créditos adicionais, aproveitar o superávit financeiro apurado no balanço patrimonial do exercício anterior, aproveitar o excesso de arrecadação verificado no exercício em curso.
+
+
+Parágrafo único
+
+As suplementações acima do limite fixado neste artigo dependerão de autorização legislativa específica.
+
+
+Art. 5º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação, com efeitos a partir de 10 de janeiro de 2019.
+
+
+Dores do Indaiá, MG, 29 de novembro de 2018.  
+  
+RONALDO ANTÔNIO ZICA DA COSTA  
+Prefeito Municipal
+

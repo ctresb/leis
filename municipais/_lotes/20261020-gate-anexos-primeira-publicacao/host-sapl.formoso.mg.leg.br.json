@@ -1,0 +1,15 @@
+{
+  "host": "sapl.formoso.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.formoso.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.formoso.mg.leg.br/a934fbf74749621ff1b9d848da6f2c8694caa23bf256ccca44d0f68367b3200a.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.formoso.mg.leg.br/a934fbf74749621ff1b9d848da6f2c8694caa23bf256ccca44d0f68367b3200a.meta.json"
+    }
+  ],
+  "total": 0
+}

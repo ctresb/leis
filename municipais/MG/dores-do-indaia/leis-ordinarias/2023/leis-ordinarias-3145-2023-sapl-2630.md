@@ -1,0 +1,209 @@
+---
+titulo: "Lei Ordinária nº 3.145, de 20 de dezembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3145"
+data: "2023-12-20"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2024-03-22; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/2630"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/883/text"
+sha256_fonte: "1badeba9aa7d51c6226cfb9d22a8fba24f2919e8e0a68fe34513c1fbcad7fe4a"
+sha256_texto: "7894cf146bc286cf9182e6a9d95105e48de4123d4acdd96cf2c48375a4db9d51"
+capturado_em_fonte: "2026-10-28T09:54:59.713936-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 3.145, de 20 de dezembro de 2023
+
+**TEXTO ORIGINAL EM PDF**
+
+**IMPRIMIR TEXTO COMPILADO**
+
+
+CONCEDE BENEFÍCIO ATRAVÉS DE DOAÇÃO DE ÁREA DE PROPRIEDADE DO MUNICÍPIO DE DORES DO INDAIÁ — ESTADO DE MINAS GERAIS À EMPRESA QUE DESCREVE, PARA INSTALAÇÃO DE EMPREENDIMENTO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A CÂMARA MUNICIPAL DE DORES DO INDAIÁ — MG, através de seu Plenário, APROVA, e eu, na condição de PREFEITO MUNICIPAL, SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a conceder benefício, através de doação de área de propriedade do Município de Dores do Indaiá — Minas Gerais abaixo descrita, à empresa TIAGO TEIXEIRA BALBINO, pessoa jurídica de direito privado inscrita no CNPJ sob o nº 50.815.615/0001-44, conforme documentação constante no Processo Administrativo nº 020/2023 da Secretaria Municipal de Desenvolvimento Econômico, Agronegócio e Meio Ambiente, sendo:
+
+
+I –
+
+Fração ideal correspondente a Área total 441,60 m² (quatrocentos e quarenta e um metros e sessenta centímetros quadrados) do terreno situado no “ Campo de Aviação”, lote 12, com área total de 1.911,82 m? ( um mil novecentos e onze metros e oitenta e dois centímetros quadrados ), ficando denominado fração ideal 01, conforme memorial descritivo do anexo I;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.168, de 22 de março de 2024.
+
+
+Parágrafo único
+
+Imóvel de propriedade do Município de Dores do Indaiá, conforme medida e confrontações descritas na certidão de registro de imóveis devidamente registrada na Matricula nº 18.634, do Cartório de Registro de Imóveis da Comarca de Dores do Indaiá, Estado de Minas Gerais.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.168, de 22 de março de 2024.
+
+
+Art. 2º.
+
+A concessão de benefício através de doação de área de propriedade do Município de Dores do Indaiá — Minas Gerais, de que trata o artigo 1º desta Lei, independe de concorrência, tendo em vista a existência de relevante interesse social e de ser feita com encargo, em conformidade com o art. 5º, inciso VI, da Lei Municipal nº 2.935/2021, de 17 de maio de 2021, que “Dispõe sobre a instituição do Programa Municipal de Desenvolvimento Econômico de Dores do Indaiá (PRODEDI), cria a Comissão Municipal de Desenvolvimento Econômico (CMDE) e dá outras providências.” eo art. 116, I da Lei Orgânica Municipal.
+
+
+Art. 3º.
+
+A partir da data de publicação da presente Lei, a BENEFICIÁRIA obriga-se a:
+
+
+I –
+
+No prazo máximo de 06 (seis) meses providenciar a lavratura e o registro da escritura pública de doação junto ao Cartório de Registro de Imóveis da Comarca de Dores do Indaiá — Minas Gerais;
+
+
+II –
+
+Iniciar as obras de infraestrutura em toda área correspondente a área prevista no inciso I do artigo 1º desta Lei;
+
+
+III –
+
+Iniciar a construção das edificações dentro do prazo de 06 (seis) meses;
+
+
+IV –
+
+Iniciar as atividades operacionais em 18 (dezoito) meses, da data de encerramento do prazo de início da construção, podendo ser prorrogado em função da complexidade do projeto e da construção;
+
+
+V –
+
+Não paralisar por mais de 06 (seis) meses suas atividades, excetuando-se em casos fortuitos ou de calamidade pública;
+
+
+VI –
+
+Não alienar o bem público imóvel recebido em doação, no todo ou em parte;
+
+
+VII –
+
+Não dar o bem imóvel destinação ou finalidade distinta da contida nesta Lei;
+
+
+VIII –
+
+Contratar, preferencialmente, mão de obra do Município; e
+
+
+IX –
+
+Promover o licenciamento dos seus veículos no Município.
+
+
+§ 1º
+
+A construção de muros e alambrados não é considerada como início de construção das edificações;
+
+
+§ 2º
+
+As edificações deverão ocupar, no mínimo, 30% (trinta por cento) da área do bem imóvel, de conformidade com o projeto e cronograma de instalação da empresa.
+
+
+Art. 4º.
+
+A área descrita no inciso I, do artigo 1º desta lei, doada a título de benefício, será revertida automaticamente para o Município, caso seja constatado que a BENEFICIÁRIA deu a mesma destinação diversa de sua finalidade, ou por descumprimento de quaisquer das obrigações contidas nesta Lei e, ainda, caso não inicie as obras nos prazos estabelecidos no artigo 3º desta Lei.
+
+
+Art. 5º.
+
+A concessão de benefício através da doação da área a que se refere a presente Lei, com dispensa de licitação, será efetivada mediante Escritura Pública da qual constarão, obrigatoriamente, os encargos da BENEFICIÁRIA, o prazo de seu cumprimento e cláusula de reversão, nos termos do 8 4º do art. 17 da Lei Federal nº 8.666/93, sob pena de nulidade.
+
+
+Art. 6º.
+
+Na escritura pública constará, ainda, cláusula de inalienabilidade do terreno doado, sem prévia autorização escrita da Administração Pública.
+
+
+Art. 7º.
+
+No caso de transferência do imóvel por sucessão decorrente de morte do BENEFICIÁRIO, a vedação de alienação e transferência do imóvel doado, sem prévia autorização escrita da Administração Pública, será mantida aos herdeiros.
+
+
+Art. 8º.
+
+Fica vedada a BENEFICIÁRIA hipotecar ou dar em garantia, às instituições financeiras ou bancárias, a área doada a título de concessão de benefício, para fins de levantamento de empréstimos destinados a qualquer finalidade.
+
+
+Art. 9º.
+
+A escritura pública de doação e seu respectivo registro deverão ser lavrados no prazo máximo de 06 (seis) meses, a contar da data da publicação da presente Lei, sob pena de perda dos efeitos da concessão de benefícios previstos no artigo 1º desta Lei.
+
+
+Art. 10.
+
+As despesas decorrentes da efetivação da escritura pública de doação e registro do imóvel junto ao Cartório de Registro de Imóveis e demais repartições públicas fica a cargo da BENEFICIÁRIA.
+
+
+Art. 11.
+
+A doação terá por base o Laudo de Avaliação de lavra da Comissão Permanente de Avaliações, de Bens Móveis e Imóveis, Para Fins de Desapropriações, Alienações e Locações do Município de Dores do Indaiá, Minas Gerais, para o Exercício de 2.023, nos termos do art. 53, 8 1º, da Lei Federal nº 8.666/93, nomeada e constituída através da Portaria nº 003/2023.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Dores do Indaiá, 20 de dezembro de 2.023.
+
+**ALEXANDRO COÊLHO FERREIRA**
+
+**PREFEITO MUNICIPAL**
+
+
+## Anexo I
+
+
+**MEMORIAL DESCRITIVO — FRACIONAMENTO LOTE 14**
+
+**Assunto:** Fracionamento do Lote 14  
+**Lugar:** Campo de Aviação  
+**Cidade — Estado:** Dores do Indaiá-MG  
+**Proprietário(s):** Município de Dores do Indaiá  
+**CPF/CNPJ:** 18.301.010/0001-22  
+**Responsável Técnico:** Marcus Sacchetto Duarte  
+**Certidão de Matrícula:** 18.636  
+**Área total:** 19.429,93 m²
+
+**DESCRIÇÃO DO PERÍMETRO**
+
+Conforme planta de situação e memorial descritivo elaborado pelo engenheiro civil, Marcus Sacchetto Duarte, CREA 241871, segue o imóvel descrito: Área total do lote 19.429,93 m² (dezenove mil e quatrocentos e vinte e nove metros e noventa e três centímetros quadrados), sendo 149,55 metros (cento e quarenta e nove metros e cinquenta e cinco centímetros) de frente com José Jaime Alves (Sítio Califórnia),  
+matrícula 8.266, (do ponto 01 ao ponto 02): confrontando pela direita (do ponto 02 ao ponto 03) com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 e 16.238, 66,26 metros (sessenta e seis metros e vinte e seis centímetros); ainda confrontando pela direita (do ponto 03 ao ponto 04) com com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 e 16.238, 16,78 metros (dezesseis metros e setenta e oito centímetros), ainda confrontando pela direita (do ponto 04 ao ponto 05) com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 e 16.238, 53,42 metros (cinquenta e três metros e quarenta e dois centímetros); confrontando pelo fundo (do ponto 05 ao ponto 06) com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 16.238, 35,45 metros (trinta e cinco metros e quarenta e cinco centímetros), ainda pelo fundo (do ponto 06 ao ponto 07) com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 e 16.238, 11,54 metros (onze metros e cinquenta e quatro centímetros), ainda pelo fundo (do ponto 07 ao ponto 08) com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 e 16.238, 19,18 metros (dezenove metros e dezoito centímetros), ainda pelo fundo (do ponto 08 ao ponto 09) com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 e 16.238, 43,28 metros (quarenta e três metros e vinte e oito centímetros), ainda pelo fundo (do ponto 09 ao ponto 10) com KM — Kalium Mineração S.A. (Fazenda Condutas), matrículas 12.126, 16.237 e 16.238, 17,75 metros (dezessete metros e setenta e cinco centímetros), ainda pelo fundo (do ponto 10 ao ponto 11) com LM Administradora de Bens LTDA (Fazenda Condutas “Lugar Barra Afundou”), matrícula 16.163, 72,97 metros (setenta e dois metros e noventa e sete centímetros); confrontando pela esquerda (do ponto 11 ao ponto 12) com o Município de Dores do Indaiá, Lote 13, matrícula 18.635, 91,26 metros (noventa e um metros e vinte e seis centímetros), ainda pela esquerda (do ponto 12 ao ponto 01) com o Município de Dores do Indaiá, Lote 12, matrícula 18.634, 28,00 metros (vinte e oito metros).
+
+**DESCRIÇÃO DAS FRAÇÕES**
+
+**FRAÇÃO 01:** Área total 480,00 m² (quatrocentos e oitenta metros quadrados), sendo 31,21 metros (trinta e um metros e vinte e um centímetros) de frente para Rua (sem denominação); confrontando pela direita com a Fração 02, 15,38 metros (quinze metros e trinta e oito centímetros); confrontando pelo fundo com uma Faixa de Segurança, 31,21 metros (trinta e um metros e vinte e um centímetros); confrontando pela esquerda com Rua (sem denominação), 15,38 metros (quinze metros e trinta e oito centímetros). A fração 01 representa uma porcentagem do terreno de 2,47%.
+
+**FRAÇÃO 02:** Área total 521,00 m² (quinhentos e vinte e um metros quadrados), sendo 33,87 metros (trinta e três metros e oitenta e sete metros) de frente para Rua (sem denominação); confrontando pela direita com a Fração 03, 15,38 metros (quinze metros e trinta e oito centímetros); confrontando pelo fundo com uma Faixa de Segurança, 33,87 metros (trinta e três metros e oitenta e sete metros); confrontando pela esquerda com a Fração 01, 15,38 metros (quinze metros e trinta e oito centimetros). A fração 02 representa uma porcentagem do terreno de 2,68%.
+
+**FRAÇÃO 03:** Área total 492,33 m² (quatrocentos e noventa e dois metros e trinta e três centímetros quadrados), sendo 32,00 metros (trinta e dois metros) de frente para Rua (sem denominação); confrontando pela direita com a Fração 04, 15,39 metros (quinze metros e trinta e nove centímetros): confrontando pelo fundo com uma Faixa de Segurança, 32,00 metros (trinta e dois metros); confrontando pela esquerda com a Fração 02, 15,38 metros (quinze metros e trinta e oito centímetros). A fração 03 representa uma porcentagem do terreno de 2,53%.
+
+**FRAÇÃO 04:** Área total 218,20 m² (duzentos e dezoito metros e vinte centímetros quadrados), sendo 14,18 metros (quatorze metros e dezoito centímetros) de frente para Rua (sem denominação); confrontando pela direita com a Fração 03, 15,39 metros (quinze metros e trinta e nove centímetros); confrontando pelo fundo com uma Faixa de Segurança, 14,18 metros (quatorze metros e dezoito centímetros); confrontando pela esquerda com a Fração 03, 15,39 metros (quinze metros e trinta e nove centímetros). A fração 04 representa uma porcentagem do terreno de 1,12%.
+
+**FRAÇÃO 05:** Área total 218,23 m² (duzentos e dezoito metros e vinte e três centímetros quadrados), sendo 14,18 metros (quatorze metros e dezoito centímetros) de frente para Rua (sem denominação); confrontando pela direita com a Fração 04, 15,39 metros (quinze metros e trinta e nove centímetros); confrontando pelo fundo com uma Faixa de Segurança, 14,18 metros (quatorze metros e dezoito centímetros); confrontando pela esquerda com a Fração 04, 15,39 metros (quinze metros e trinta e nove centimetros). A fração 05 representa uma porcentagem do terreno de 1,12%.
+
+**FRAÇÃO 06:** Área total 5.626,47 m² (cinco mil e seiscentos e vinte e seis metros e quarenta e sete centímetros quadrados), sendo 139,41 metros (cento e trinta e nove metros e quarenta e um centímetros) de frente para o Município de Dores do Indaiá, Lote 14, matrícula 18.636; confrontando pela direita com Município de Dores do Indaiá, Lote 13, matrícula 18.635, 43,74 metros (quarenta e três metros e setenta e quatro centímetros); confrontando pelo fundo com as Frações de 01 a 05, 135,90 metros (cento e trinta e cinco metros e noventa centímetros); confrotados pela esquerda com o Município de Dores do Indaiá, Lote 14, matrícula 18.636, 38,48 metros (trinta e oito metros e quarenta e oito centímetros). A fração 06 representa uma porcentagem do terreno de 28,96%.
+
+Dores do Indaiá, 20 de dezembro de 2023.
+
+**Marcus Sacchetto Duarte**
+
+**Engenheiro Civil - CREA-MG 241871/D**
+

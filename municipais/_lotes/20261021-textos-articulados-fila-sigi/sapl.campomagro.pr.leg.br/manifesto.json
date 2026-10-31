@@ -1,0 +1,42 @@
+{
+  "host": "sapl.campomagro.pr.leg.br",
+  "metadados_unicos_observados": 13,
+  "total_api_declarado": 13,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campomagro.pr.leg.br/2b8e93b2e1dc203b7b14fa0640c9564b3b640eec24fb48e723ed0fdfecabe4be.json",
+    "url": "https://sapl.campomagro.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.campomagro.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e43016c7ed101b9668409d37a897a5ed1b3f700e97e40ea3fbcf344b2c3afec5",
+    "bytes": 954,
+    "capturado_em": "2026-10-27T22:21:50.029991-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campomagro.pr.leg.br/6a074e571a139c14663995514c9abb822391262425bc1c3ef9ad5e0ebdc116c3.json",
+    "url": "https://sapl.campomagro.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.campomagro.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "099ea67b7ef86fbe1aed21a51e254888b68becad5bdd226800785b2b1ff45c8d",
+    "bytes": 752,
+    "capturado_em": "2026-10-27T22:21:49.015721-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campomagro.pr.leg.br/cafe1ad6ba0003bba969cf3fdda5b38c9081d4cad8b6f06f3aa40a26bf6c46cb.json",
+      "url": "https://sapl.campomagro.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.campomagro.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cd530d2236a628036d10b674a74806e8d77db30992006a4626d16aa188f3689b",
+      "bytes": 7555,
+      "capturado_em": "2026-10-27T22:21:50.976249-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

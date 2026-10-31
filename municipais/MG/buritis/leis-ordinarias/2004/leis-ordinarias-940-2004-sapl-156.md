@@ -1,0 +1,140 @@
+---
+titulo: "Lei nº 940, de 12 de abril de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "940"
+data: "2004-04-12"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/156"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1755/text"
+sha256_fonte: "8150985c2d5df7e2b80db2fb5677da1f55c457ac33eff4cb1ab8081c6f3ebe08"
+sha256_texto: "09ba19aa340c841f48e4ae49692daab2c38daab26406545a18df3557d1b89c5c"
+capturado_em_fonte: "2026-10-27T20:18:41.428005-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 940, de 12 de abril de 2004
+
+DISPÕE SOBRE PRIORIDADE A IDOSOS E PESSOAS PORTADORAS DE NECESSIDADES ESPECIAIS, NA AQUISIÇÃO/DOAÇÃO DE CASAS POPULARES Е DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica estabelecida a prioridade na aquisição/doação de moradias populares, aos idosos e famílias que tenham portadores de necessidades especiais.
+
+
+Parágrafo único
+
+Para os efeitos desta Lei são consideradas idosas, pessoas a partir dos sessenta anos de idade.
+
+
+Art. 2º.
+
+A prioridade de que trata esta Lei, autoriza o Chefe do Executivo Municipal a destinar dez por cento para os idosos e dez por cento para as famílias que tenham portadores de necessidades especiais, do total de casas a serem construídas com recursos próprios do Município ou originários de transferência de recursos de outros órgãos Federais ou Estaduais, bem como de convênios, contratos ou ajustes.
+
+
+§ 1º
+
+Deverá o imóvel servir de residência do beneficiário, vedada sua cessão ou locação a terceiros.
+
+
+I –
+
+em caso de venda antes da quitação do imóvel, a transferência só será autorizada para outro idoso ou portador de deficiência;
+
+
+II –
+
+na transação de venda após o imóvel quitado, dar-se-á preferência de compra ao adquirente que mais se aproxime das condições do beneficiário titular do imóvel.
+
+
+§ 2º
+
+Deverá ser restabelecido um plano de pagamento para o idoso ou famílias que tenham portador de necessidades especiais, levando-se em'conta a renda mínima oficial do País.
+
+
+§ 3º
+
+Nas proximidades ou centro das alas residenciais dos beneficiados por esta Lei, será incluída a construção de salão social, de uso exclusivo dos beneficiários, para o desenvolvimento de atividades laborativas, recreativas, culturais, associativas e de educação para a cidadania.
+
+
+Art. 3º.
+
+Farão jus aos beneficios desta Lei os idosos e famílias que tenham portadores de deficiência, mediante seleção, obedecidos os seguintes critérios e ordem de preferência dentre os inscritos:
+
+
+I –
+
+comprovem residência fixa no Município, nos últimos cinco anos;
+
+
+II –
+
+não possuam bens imóveis na jurisdição da Comarca;
+
+
+III –
+
+possuam renda familiar de R$ 100,00 a R$ 580,00;
+
+
+IV –
+
+pela ordem de preferência:
+
+
+a)
+
+o sozinho, o mais idoso e com menor renda;
+
+
+b)
+
+o casado, o mais idoso e com menor renda;
+
+
+c)
+
+os demais casos deverão obedecer a uma escala social de preferência sempre para o mais idoso deficiente, o mais idoso, o que tem menor renda, sozinho e casal.
+
+
+Art. 4º.
+
+O percentual de imóveis abrangidos por esta Lei, deverão obedecer critérios especiais de construção, adaptáveis às características e peculiaridades comuns aos idosos e aos portadores de deficiência, visando o maior conforto dos mesmos.
+
+
+Art. 5º.
+
+Para usufruir desta Lei deverá o interessado requerer o beneficio junto a Secretaria Municipal de Assistência Social ou órgão equivalente, independente de lista ou ordem de inscrição para a aquisição da casa própria.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Assistência Social ou órgão equivalente, na época da entrega das casas aos requerentes, deverá proceder a sorteio entre todos os interessados inscritos até aquela data.
+
+
+Art. 6º.
+
+As providências necessárias ao cumprimento desta Lei, ficarão a cargo da Secretaria Municipal de Assistência Social ou órgão equivalente.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis - MG, 12 de abril de 2004.
+
+**JOSÉ VICENTE DAMASCENO Prefeito Municipal**
+
+Projeto de Lei nº 006/2004. Autor: Marília de Dirceu Lopes Campos-vereadora.
+

@@ -1,0 +1,389 @@
+Dispõe sobre o sistema de controle de frequência dos servidores do Poder Legislativo do Município do Cabo de Santo Agostinho e dá outras providências.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DO CABO DE SANTO AGOSTINHO/PE, no uso de suas atribuições regimentalmente constituídas, conforme o Regimento Interno desta Casa Legislativa e com base na Lei Orgânica Municipal,
+
+CONSIDERANDO a observância e a aplicação do Princípio da Eficiência da Administração Pública, previsto no art. 37, caput, da Constituição Federal;
+
+CONSIDERANDO o disposto na Lei Estadual n. 6.123, de 20 de julho de 1968 - Estatuto dos Servidores Públicos do Estado de Pernambuco;
+
+CONSIDERANDO a necessidade de disciplinar os procedimentos relativos à frequência dos servidores da Câmara de Vereadores do Município do Cabo de Santo Agostinho;
+
+CONSIDERANDO a necessidade de incorporação dos recursos da tecnologia da informação para aperfeiçoar o controle da jornada de trabalho dos servidores deste Poder e o banco de horas;
+
+CONSIDERANDO a aprovação da referida Portaria pelo Presidente de Câmara Municipal em exercício;
+
+RESOLVE:
+
+
+Art. 1º.
+
+Instituir o sistema de controle de frequência no âmbito da Câmara de Vereadores do Cabo de Santo Agostinho.
+
+
+Art. 2º.
+
+As disposições desta Portaria aplicam-se a todos os servidores efetivos e ocupantes de cargos em comissão deste Poder Legislativo.
+
+
+Art. 3º.
+
+Compete ao Departamento de Pessoal o gerenciamento do sistema de frequência dos servidores.
+
+
+#### CAPÍTULO I — DA JORNADA DE TRABALHO
+
+
+Art. 4º.
+
+A jornada normal de trabalho dos servidores da Câmara de Vereadores do Cabo de Santo Agostinho será de 06 (seis) horas diárias, não podendo ser superior a 10 (dez) horas diárias ou 30 (trinta) horas semanais, a serem cumpridas de acordo com o estabelecido em escala fixada pelas chefias imediatas dos departamentos.
+
+
+§ 1º
+
+A jornada de trabalho diária, tratada no caput deste artigo, não se aplica aos servidores ocupantes do cargo de Guarda de Patrimônio, os quais cumprirão a jornada em regime de escala 24x72 h.
+
+
+§ 2º
+
+A jornada de trabalho diária não se aplica aos Vereadores que são agentes públicos e ao Procurador da Câmara segundo o Estatuto da Advocacia e da OAB (Lei nº 8.906, de 04 de julho de 1994).
+
+
+§ 3º
+
+As escalas de horários de expediente regular de cada servidor devem ser definidas pelo gestor da área, assegurando-se a distribuição adequada da força de trabalho, durante o período de funcionamento desta Casa Legislativa.
+
+
+§ 4º
+
+É permitida a flexibilização do cumprimento do horário regular estabelecido junto à unidade, observadas a conveniência do serviço, a concordância da chefia imediata e desde que assegurado o quantitativo mínimo de servidores necessário ao adequado funcionamento do setor.
+
+
+§ 5º
+
+É permitida a concessão de folga para o servidor municipal na data exata do seu aniversário sem prejuízo de seus vencimentos, sendo vedada a transferência para qualquer outra data, em consonância com o que dispõe a Lei Municipal n° 2955, de 24 de setembro de 2013.
+
+
+§ 6º
+
+Os registros realizados nos feriados ou finais de semana, poderão ser autorizados pela chefia imediata no sistema de frequência, em decorrência da natureza das atividades ou por necessidade do serviço.
+
+
+Art. 5º.
+
+Ao servidor estudante será concedido horário especial, quando comprovada a incompatibilidade entre o horário escolar e o horário de trabalho na unidade.
+
+
+Parágrafo único
+
+A comprovação do horário especial, tratada no caput deste artigo, deverá ser realizada semestralmente, mediante apresentação de comprovante de matrícula junto ao Departamento de Pessoal.
+
+
+Art. 6º.
+
+Os servidores lotados nos gabinetes parlamentares poderão realizar atividades externas e home office e deverão registrar sua jornada de trabalho através de relatório individual ou coletivo das atividades realizadas nos termos do anexo I e II dessa Portaria.
+
+
+§ 1º
+
+Alguns cargos do Gabinete de Presidência poderão realizar trabalho externo, bem como o chamado home office.
+
+
+§ 2º
+
+O registro de trabalho externo e do sistema home office deverá ser feito através de relatório individual das atividades realizadas nos termos dos anexos I e II desta portaria.
+
+
+§ 3º
+
+A relação dos cargos contidos nos caputs dos § § 1 º e 2º contará no anexo IV desta portaria.
+
+
+§ 4º
+
+Nos setores ou departamentos em que houver Gerente ou Chefe, o home office dependerá de sua autorização prévia.
+
+
+Art. 7º.
+
+O cumprimento da jornada mensal de trabalho a que está sujeito o servidor deverá ser acompanhado pelo Departamento de pessoal, com o apoio de dados disponíveis no sistema eletrônico de controle de frequência.
+
+
+Parágrafo único
+
+O Departamento de Pessoal deverá monitorar o cumprimento dos deveres do servidor, quanto à assiduidade e pontualidade.
+
+
+Art. 8º.
+
+Com base nos dados fornecidos pelo sistema de controle de frequência, o Departamento de Pessoal deverá dar ciência ao servidor sobre a ocorrência de falta não justificada.
+
+
+§ 1º
+
+O servidor poderá justificar as ausências mediante apresentação de documentos definidos no anexo III desta Portaria no prazo de 05 (cinco) dias contados da ciência da caracterização de falta não justificada.
+
+
+§ 2º
+
+O Departamento de Pessoal, após processar a impugnação do servidor, encaminhará, se for o caso, ao gestor imediato do servidor, para apreciação.
+
+
+§ 3º
+
+As faltas não justificadas, após a apreciação do gestor imediato, ensejarão desconto financeiro, não sendo permitida a compensação.
+
+
+§ 4º
+
+O desconto de que trata o § 3º será efetivamente implementado em folha de pagamento a partir do primeiro mês subsequente à ausência injustificada.
+
+
+Art. 9º.
+
+A ausência ocasional do servidor de até 15 (quinze) minutos, não significa ausência injustificada e não enseja desconto na jornada diária.
+
+
+#### CAPÍTULO II — DO SISTEMA DE CONTROLE DE FREQUÊNCIA
+
+
+Art. 10.
+
+O ingresso e a saída dos servidores deste Poder, nos locais que possuam controle de acesso, por meio de catracas eletrônicas, serão registrados nos coletores biométricos.
+
+
+Art. 11.
+
+Os servidores terão livre acesso aos registros de sua frequência para fins de conferência, através de solicitação feita ao Departamento de Pessoal.
+
+
+Art. 12.
+
+Compete à chefia imediata, ou a seus substitutos legais quando estiverem atuando nesta condição, administrar a frequência dos servidores de sua responsabilidade.
+
+
+Art. 13.
+
+O Departamento de Pessoal deverá efetuar registros e lançamentos no sistema para:
+
+•
+
+\- tornar sem efeito os registros de períodos trabalhados em desacordo com esta Portaria;
+
+•
+
+\- registrar ausências para a realização de serviço externo e participação em cursos, congressos e atividades correlatas, desde que previamente autorizadas;
+
+•
+
+\- realizar os ajustes necessários à correta contabilização do cumprimento da jornada de trabalho e da frequência dos servidores, desde que devidamente justificados, mantendo-se o histórico do registro originário;
+
+
+§ 1º
+
+As entradas tardias ou saídas antecipadas, decorrentes de atendimentos médicos do servidor ou de seu familiar, dispensam compensação, desde que devidamente anuídas pelo Departamento de Pessoal e não configurarem hipótese que imponha a necessidade de licença, nos termos da lei.
+
+
+§ 2º
+
+As consultas, exames ou sessões com profissionais de saúde deverão ser programados pelo servidor, sempre que possível, fora do horário de trabalho estabelecido para cumprimento de sua jornada laboral.
+
+
+§ 3º
+
+Os afastamentos decorrentes de férias, licenças e outras ausências permitidas por lei serão integrados no sistema de frequência, após o cumprimento dos trâmites legais.
+
+
+Art. 14.
+
+Quando o equipamento eletrônico apresentar falhas, cabe ao servidor solicitar o registro do acesso junto ao Departamento de pessoal.
+
+
+Art. 15.
+
+Até o quinto dia útil de cada mês, o Departamento de pessoal deverá lançar, no sistema de frequência, os ajustes nos registros de ponto do mês imediatamente anterior, referente aos servidores.
+
+
+§ 1º
+
+O Departamento de Pessoal pode excepcionalmente prorrogar, por razões operacionais, mediante publicação de ato próprio, a data limite mencionada no caput.
+
+
+#### CAPÍTULO III — DO BANCO DE HORAS
+
+
+Art. 16.
+
+Fica regulamentado o Banco de Horas, por meio do qual serão contabilizados os créditos e débitos de horas prestadas, considerando-se o registro de frequência, as ausências ao serviço e a jornada de trabalho ao qual está submetido o servidor.
+
+
+§ 1º
+
+Ao fim de cada mês serão apurados os saldos de horas excedentes ou em débito.
+
+
+§ 2º
+
+As horas trabalhadas além do tempo correspondente à jornada ordinária, desde que não invalidadas pelo Departamento de Pessoal e cumpridas no interesse do serviço poderão ser computadas para compensação futura.
+
+
+§ 3º
+
+O limite para acúmulo de horas positivas será de 12 (doze) horas mensais, sendo assim, o servidor poderá se ausentar até 2 (dois) dias por mês a título de compensação, desde que haja necessidade comprovada e autorização da chefia imediata.
+
+
+§ 4º
+
+A programação de compensação do saldo positivo de que trata o § 3º deve ser estabelecida mediante negociação entre o servidor e a respectiva chefia, tendo como parâmetros a necessidade do serviço e a conveniência administrativa.
+
+
+§ 5º
+
+Em nenhuma hipótese o servidor poderá compensar suas ausências com o período de gozo de férias ou licenças.
+
+
+Art. 17.
+
+O saldo negativo de horas poderá ser impugnado pelo servidor, mediante manifestação a serem formulados perante o Departamento de Pessoal no prazo de 05 (cinco) dias, contados da ciência de sua caracterização.
+
+
+§ 1º
+
+O Departamento de Pessoal, após processar a impugnação do servidor, encaminhará, à Contabilidade para devidos ajustes na folha de pagamento.
+
+
+§ 2º
+
+Só será descontado na folha de pagamento a ausência sem justificativa de um dia inteiro de trabalho.
+
+
+§ 3º
+
+O servidor terá um prazo de 4 (quatro) meses para compensar o saldo negativo e positivo de horas, obedecendo aos seguintes períodos:
+
+Janeiro a Abril
+
+Maio a Agosto
+
+Setembro a Dezembro
+
+
+§ 4º
+
+Caso não haja compensação do saldo negativo de horas no período de 4 (quatro) meses, será descontado em folha de pagamento do servidor o apurado em dias de trabalho.
+
+
+§ 5º
+
+Caso o valor a ser devolvido ao erário público ultrapasse 10% do vencimento bruto do servidor, o desconto em folha deverá ser feito em mais de uma parcela.
+
+
+Art. 18.
+
+As horas excedentes à jornada diária, trabalhadas para fins de Banco de Horas, não caracterizam serviço extraordinário.
+
+
+Art. 19.
+
+As horas acumuladas para fins de banco de horas, em nenhuma hipótese, ensejarão indenização em pecúnia.
+
+
+Art. 20.
+
+No caso de exoneração, vacância e aposentadoria, o saldo negativo de horas será descontado da remuneração do servidor.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 21.
+
+O Departamento de Pessoal ficará responsável por efetuar os registros, no sistema informatizado de ponto, das inclusões e/ou alterações dos servidores.
+
+
+Art. 22.
+
+A utilização indevida dos registros eletrônicos de que trata este normativo, bem como, atos que tenham como objetivo burlar o controle de acesso poderá ensejar a instauração de Inquérito Administrativo, se o fato noticiado for passível de aplicação das penalidades previstas no art. 199 do Estatuto dos Funcionários Públicos do Estado de Pernambuco (Lei Estadual n. 6.123, de 20 de julho de 1968), assegurada ampla defesa aos servidores envolvidos.
+
+
+§ 1º
+
+O uso inadequado dos registros eletrônicos será analisado pelo Controlador Interno, em parceria com a equipe de Informática.
+
+
+§ 2º
+
+O processo deverá ser instruído pelo Controlador Interno, antes do seu encaminhamento à Presidência da Câmara.
+
+
+Art. 23.
+
+Esta Portaria entra em vigor imediatamente após a data de sua publicação com efeito retroativo a 30 de janeiro de 2025.
+
+
+Art. 24.
+
+Fica revogada a Portaria nº 346, de 08 de agosto de 2019.
+
+
+Cabo de Santo Agostinho-PE, 25 de fevereiro de 2025
+
+***MÁRIO ANDERSON DA SILVA BARRETO***
+
+Presidente
+
+
+## Anexo I
+
+
+Modelo para relatório de serviço externo:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td colspan="2"><p>Matrícula:</p></td><td><p>Cargo:</p></td></tr><tr><td colspan="3"><p>DESCRIÇÃO SUSCINTA DO TRABALHO</p></td></tr><tr><td colspan="2"><p>Objetivo</p></td><td><p> </p></td></tr><tr><td colspan="2"><p>Data</p></td><td><p>Atividades Desenvolvidas</p></td></tr><tr><td colspan="2"><p> </p></td><td><p> </p></td></tr><tr><td colspan="3"><p>Data: / /</p></td></tr><tr><td><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="3"><p>ASSINATURA FUNCIONÁRIO</p></td></tr><tr><td><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="3"><p>ASSINATURA DO GESTOR</p></td></tr><tr><td colspan="3"><p>RECEBIMENTO</p></td></tr><tr><td><p>Recebido por:</p></td><td rowspan="2"><p> </p></td><td rowspan="2"><p>Data de apresentação do relatório:</p></td></tr><tr><td><p>Departamento de Pessoal</p></td></tr></tbody></table>
+
+
+## Anexo II
+
+
+Modelo para relatório de serviço home office:
+
+Cargo:
+
+DESCRIÇÃO SUSCINTA DO TRABALHO
+
+Atividades Desenvolvidas
+
+
+## Anexo III
+
+
+Lista de documentos permitidos para justificar ausência de trabalho:
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>DOCUMENTO</p></td><td><p>EXIGÊNCIAS</p></td></tr><tr><td><p>Atestado Médico</p></td><td><p>Câmara seguirá o critério aplicado pelo Caboprev.</p></td></tr><tr><td><p>Atestado de acompanhamento médico</p></td><td><p>Câmara seguirá o critério aplicado pelo Caboprev.</p></td></tr><tr><td><p>Relatório de trabalho externo e/ou Home Office</p></td><td><p>Com descrição sucinta da atividade realizada assinado pelo funcionário e pelo gestor nos termos do anexo I.</p></td></tr><tr><td><p>Participação de congresso e cursos</p></td><td><p>Pauta do congresso e/ou curso definindo o período e certificado de conclusão.</p></td></tr><tr><td><p>Folga compensatório pelo trabalho nas eleições</p></td><td><p>O servidor deverá apresentar ao empregador o documento, expedido pela Justiça Eleitoral, atestando seu comparecimento e o efetivo trabalho nas eleições, a fim de que lhe seja concedido, após a eleição, um descanso</p><p>remunerado equivalente ao dobro dos dias de convocação.</p></td></tr></tbody></table>
+
+
+## Anexo IV
+
+
+Relação de Cargos Comissionados lotados nos gabinetes parlamentares que poderão fazer trabalho externo:
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>CARGO</p></td><td><p>PARÂMETRO LEGAL</p></td></tr><tr><td><p>Chefe de Gabinete de Vereador CCGV-1</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Parlamentar CCGV-2</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr></tbody></table>
+
+
+Relação de Cargos Comissionados lotados nos gabinetes parlamentares que poderão fazer home office:
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>CARGO</p></td><td><p>PARÂMETRO LEGAL</p></td></tr><tr><td><p>Chefe de Gabinete de Vereador CCGV-1</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Parlamentar CCGV-2</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr></tbody></table>
+
+
+Relação de Cargos Comissionados lotados no gabinete da presidência que poderão fazer trabalho externo:
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>CARGO</p></td><td><p>PARÂMETRO LEGAL</p></td></tr><tr><td><p>Chefe de Gabinete da Presidência CCGP-1</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Procurador Geral CCGP-2</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Controlador CCGP-2</p></td><td><p>Lei 2.307, de 16 de dezembro de 2005, Lei 2.489 de 16 de julho de 2009 e Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Secretário Geral da Mesa CCGP-2</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Especial CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Diretor de Departamento Legislativo CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Diretor de Departamento Contábil CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Departamento Legislativo CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Parlamentar Especial CCGP-3</p></td><td><p>Lei 3.447, de 10 de setembro de 2019</p></td></tr><tr><td><p>Assessor de Licitação CCGP-4</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Relacionamento Legislativo CCGP-4</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Departamento de Patrimônio CCGP-4</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Contabilidade CCGP-5</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Diretor de Departamento de Pessoal CCGP-6</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Jurídico CCGP-6</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Gerente de Contabilidade CCGP-7</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Departamento de Pessoal CCGP-7</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Informática CCGP-7</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessoria de Patrimônio CCGP-7</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Jornalismo CCGP-8</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Comunicação CCGP-9</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Material e Suprimento CCGP-9</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Legislativo CCGP-10</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Contabilidade CCGP-11</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Materiais e Suprimentos CCGP-11</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Departamento de Pessoal CCGP-12</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Cerimonial CCGP-12</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefia de Copa e Cozinha CCGP-12</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Segurança CCGP-9</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Assessor Especial da Mesa CCGP-3</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Secretário de Relacionamento institucional CCGP-2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Assessor de Relacionamento institucional CCGP-2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Secretário de Plenário CCGP-2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Assessor da Controladoria CCGP - 2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Assessor de manutenção CCGP-12</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr></tbody></table>
+
+
+Relação de Cargos Comissionados lotados no gabinete da presidência que poderão fazer home office:
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>CARGO</p></td><td><p>PARÂMETRO LEGAL</p></td></tr><tr><td><p>Chefe de Gabinete da Presidência CCGP-1</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Procurador Geral CCGP-2</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Controlador CCGP-2</p></td><td><p>Lei 2.307, de 16 de dezembro de 2005, Lei 2.489 de 16 de julho de 2009 e Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Secretário Geral da Mesa CCGP-2</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Especial CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Diretor de Departamento Legislativo CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Diretor de Departamento Contábil CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Departamento Legislativo CCGP-3</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Parlamentar Especial CCGP-3</p></td><td><p>Lei 3.447, de 10 de setembro de 2019</p></td></tr><tr><td><p>Assessor de Licitação CCGP-4</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Relacionamento Legislativo CCGP-4</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Departamento de Patrimônio CCGP-4</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Contabilidade CCGP-5</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Diretor de Departamento de Pessoal CCGP-6</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Jurídico CCGP-6</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Gerente de Contabilidade CCGP-7</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Departamento de Pessoal CCGP-7</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Informática CCGP-7</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Jornalismo CCGP-8</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Comunicação CCGP-9</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor Legislativo CCGP-10</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Contabilidade CCGP-11</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Assessor de Departamento de Pessoal CCGP-12</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Cerimonial CCGP-12</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Chefe de Segurança CCGP-9</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Assessor Especial da Mesa CCGP-3</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Secretário de Relacionamento institucional CCGP-2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Assessor de Relacionamento institucional CCGP-2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Secretário de Plenário CCGP-2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr><tr><td><p>Assessor da Controladoria CCGP - 2</p></td><td><p>Lei 3.957, de 30 de janeiro de 2025</p></td></tr></tbody></table>
+
+
+Relação de Cargos efetivos que poderão fazer home office:
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>CARGO</p></td><td><p>PARÂMETRO LEGAL</p></td></tr><tr><td><p>Secretário</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Técnico Legislativo</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Auxiliar Administrativo</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Arquivista</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Técnico em Mídias sociais</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Analista em Controle Interno</p></td><td><p>Lei 3.926, de 04 de abril de 2024</p></td></tr><tr><td><p>Procurador Legislativo</p></td><td><p>Lei 3.426, de 08 de abril de 2019, Lei 3.814, de 26 de dezembro de 2022</p></td></tr><tr><td><p>Técnico de Som</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Técnico em manutenção e suprimentos em informática</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr><tr><td><p>Jornalista</p></td><td><p>Lei 3.426, de 08 de abril de 2019</p></td></tr></tbody></table>

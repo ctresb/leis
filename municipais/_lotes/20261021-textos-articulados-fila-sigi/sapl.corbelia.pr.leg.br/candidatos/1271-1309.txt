@@ -1,0 +1,315 @@
+Dispõe sobre a criação do Sistema Geodésico do Município de Corbélia – Estado do Paraná, regulamenta as normas de trabalhos topográficos e geodésicos e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica criado o Sistema Geodésico do Município de Corbélia - PR.
+
+
+Art. 2º.
+
+Os marcos do Sistema Geodésico Municipal fazem parte do patrimônio público municipal, devendo ser preservados como previsto na legislação vigente.
+
+
+Art. 3º.
+
+Fazem parte desta lei os anexos:
+
+
+I –
+
+anexo I: Mapa da Rede de Referência Cadastral Municipal - RRCM;
+
+
+II –
+
+anexo II: Vértices de Apoio da RRCM;
+
+
+Art. 4º.
+
+O Sistema Geodésico Municipal constitui referência oficial para:
+
+
+I –
+
+trabalhos de cartografia em apoio à construção e à atualização cadastral de mapas no território do Município;
+
+
+II –
+
+serviços topográficos para demarcação de projetos no território do Município;
+
+
+III –
+
+serviços de cadastramento e recadastramento imobiliário para registros públicos e fiscais território do Município;
+
+
+IV –
+
+aerolevantamento para fins de serviços públicos.
+
+
+Art. 5º.
+
+Obrigam-se ao cumprimento das determinações e diretrizes do Art. 3º desta lei:
+
+
+I –
+
+os órgãos ou entidades do Município;
+
+
+II –
+
+demais órgãos ou entidades públicas;
+
+
+III –
+
+entidades de direito privado quando o andamento ou os resultados de trabalhos topográficos e geodésicos devam ser acompanhados, verificados e aprovados por órgão ou entidade da Administração Pública Municipal.
+
+
+Art. 6º.
+
+Os elementos cartográficos do Sistema Geodésico, de caráter não sigiloso, são acessíveis ao público em geral, mediante pagamento de taxas respectivas e a observância de normas e condições estabelecidas pela Secretaria Municipal de Obras e Urbanismo.
+
+
+Art. 7º.
+
+Todos os levantamentos planialtimétricos e planimétricos urbanos a serem recebidos, ou que de qualquer forma devam ser conhecidos pelas unidades da administração pública municipal, direta ou indireta, deverão ser elaborados de acordo com as normas desta Lei.
+
+
+Art. 8º.
+
+Todos os Levantamentos Planialtimétricos e Planimétricos deverão ser acompanhados dos memoriais descritivos e de arquivo digital em plataforma de Desenho assistido por computador - CAD, em versão não inferior à 2000.
+
+
+Parágrafo único
+
+Nos pedidos de desdobro, unificação ou retificação de matrículas, os documentos descritos no *caput* deste artigo serão encaminhados ao Cartório de Registro de Imóveis, a fim de integrar o cadastro municipal às matrículas dos imóveis.
+
+
+Art. 9º.
+
+Todos os levantamentos topográficos submetidos ao crivo da municipalidade serão referenciados a partir das coordenadas N-E (UTM) dos marcos geodésicos da Prefeitura Municipal de Corbélia, cujas coordenadas serão fornecidas, nas monografias do Sistema Geodésico Municipal, dentro das normas da Secretaria Municipal de Serviços Públicos e Urbanismo.
+
+
+Art. 10.
+
+Os nivelamentos (geométricos taqueométricos) que motivem perfis ou curvas de nível deverão ser referenciados a partir das cotas dos *datuns* verticais (RN), ou das referências altimétricas do Sistema Geodésico Municipal.
+
+
+Art. 11.
+
+Todos os novos loteamentos e cadastramentos de glebas localizados dentro do perímetro urbano legal e em um raio superior a 5 km do marco geodésico mais próximo deverão conter, a cargo do proprietário, a implantação de 1 (um) marco geodésico, do tipo identificado por chapa de aço inoxidável com pino de centragem forçada.
+
+
+§ 1º
+
+A nomenclatura e numeração do marco a ser implantado será estabelecida pela Prefeitura Municipal, no momento da aprovação do projeto de loteamento.
+
+
+§ 2º
+
+Os marcos deverão estar localizados na área destinada ao uso institucional, observando os seguintes critérios:
+
+
+I –
+
+o horizonte deve estar desobstruído acima de 15º (quinze graus) em relação ao ponto de referência que materializa a estação;
+
+
+II –
+
+evitar locais próximos a estações de transmissão de micro-ondas, radares, antenas de rádio, repetidoras e linhas de transmissão de alta voltagem, por representarem fontes de interferência para os sinais GPS;
+
+
+III –
+
+a área situada a 100m (cem metros) da estação deve estar livre de estruturas artificiais, particularmente paredes metálicas, de alvenaria ou superfícies naturais, como paredões rochosos;
+
+
+IV –
+
+o local de implantação deve ser estável, sem qualquer influência de vibrações ou trepidações;
+
+
+V –
+
+evitar localidades próximas a espelhos d’água, como rios, lagos, etc;
+
+
+VI –
+
+evitar localidades próximas a árvores e vegetação densa.
+
+
+§ 3º
+
+Os marcos deverão acompanhar com os seguintes documentos:
+
+
+I –
+
+monografia conforme padrão adotado pelo Município de Corbélia;
+
+
+II –
+
+demonstração da poligonal de precisão angular e linear;
+
+
+III –
+
+assinatura do engenheiro agrimensor responsável pelos marcos da rode municipal, reservando-se ao profissional o direito de reconhecimento na chapa de aço do marco implantado;
+
+
+IV –
+
+comprovação de recolhimento da taxa de responsabilidade técnica (ART).
+
+
+Art. 12.
+
+Os marcos geodésicos deverão estar vinculados e descritos no Sistema Geodésico Municipal.
+
+
+Art. 13.
+
+Os novos marcos do Sistema Geodésico Municipal poderão ser criados e oficializados por Decreto do Chefe do Poder Executivo Municipal e, acrescidos nesta lei.
+
+
+#### CAPÍTULO II — DOS DESENHOS E PLANTAS
+
+
+Art. 14.
+
+Os desenhos e plantas dos levantamentos topográficos deverão conter:
+
+
+I –
+
+distâncias, azimutes e coordenadas de todos os vértices perimétricos do imóvel; e quando o traçado for em curva deve-se cotar o raio, o angulo central, a tangente e o desenvolvimento;
+
+
+II –
+
+os vértices do perímetro do imóvel identificados por coordenadas topográficas da base oficial municipal;
+
+
+III –
+
+os vértices do perímetro do imóvel com suas cotas altimétricas oficiais;
+
+
+IV –
+
+orientação corretamente instrumentada, com a indicação do ponto, contendo sua declinação magnética e respectiva data de leitura;
+
+
+V –
+
+quadro de legenda;
+
+
+VI –
+
+confrontações do imóvel atualizada, mencionando o número das matrículas dos imóveis confrontantes;
+
+
+VII –
+
+nota esclarecendo e posicionando a origem do sistema de coordenadas e *datuns* verticais utilizados, tanto em planta como no respectivo memorial descritivo:
+
+
+O presente sistema topográfico e geodésico foi referenciado na rede de vértices topográficos do Sistema Topográfico do Município de Corbélia — PR composto de:  
+HORIZONTAL:  
+Aparelho Vértice Nº PMSI. \_\_\_ Nº \_\_\_ E Ré Vértice  
+Nº PMSI. \_\_\_ Nº \_\_\_ E \_\_\_  
+VERTICAL:  
+Referência Vértice Nº PMSI. \_\_\_ H \_\_\_
+
+
+VIII –
+
+planta de situação detalhada do imóvel, apresentando as distâncias com relação à via do acesso principal, nas suas laterais, sempre contrapostas;
+
+
+IX –
+
+Anotação da Responsabilidade Técnica (ART), referente ao serviço prestado e a vinculação a esta Lei;
+
+
+X –
+
+outros elementos referenciais ou informativos conforme as normas da ABNT.
+
+
+#### CAPÍTULO III — DAS INFORMAÇÕES
+
+
+Art. 15.
+
+Os pedidos de informações e esclarecimentos sobre as normas desta Lei devem ser regularmente instruídos em requerimento protocolizado e endereçado à Secretaria Municipal de Obras e Urbanismo.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES ESPECIAIS E TRANSITÓRIAS
+
+
+Art. 16.
+
+Excluem-se de adaptação as normas desta Lei:
+
+
+I –
+
+os levantamentos de área, glebas, quinhões ou lotes, que já forem parte de planos de retalhamento ou loteamento já aprovados ou licenciados por esta Municipalidade;
+
+
+II –
+
+os levantamentos que já se encontram em tramitação nas unidades da Administração Pública municipal, direta ou indireta, quando da publicação desta Lei.
+
+
+Art. 17.
+
+A Secretaria Municipal de Obras e Urbanismo consignará no orçamento e em dotação própria os recursos necessários à atualização periódica dos elementos do Sistema Geodésico Municipal e para o cumprimento da presente Lei.
+
+
+Art. 18.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 29 de setembro de 2023, 63º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1886 de 29/09/2023, pág. 111-116.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1271/ta
+
+
+## Anexo I — MAPA DA REDE DE REFERÊNCIA CADASTRAL MUNICIPAL - RRCM
+
+
+Não substitui o texto publicado no DOE 1886 de 29/09/2023, pág. 111-116.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1271/ta
+
+
+## Anexo II — VÉRTICES DE APOIO DA RRCM
+
+
+Não substitui o texto publicado no DOE 1886 de 29/09/2023, pág. 111-116.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1271/ta

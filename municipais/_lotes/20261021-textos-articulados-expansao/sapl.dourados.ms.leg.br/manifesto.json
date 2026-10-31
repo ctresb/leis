@@ -1,0 +1,42 @@
+{
+  "host": "sapl.dourados.ms.leg.br",
+  "metadados_unicos_observados": 14,
+  "total_api_declarado": 14,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dourados.ms.leg.br/ee1ed1302b2dbf7bb240f51398131ec438c1efbcd4a8e8778133f6d01aef4e2c.json",
+    "url": "https://sapl.dourados.ms.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.dourados.ms.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T03:32:21.429029-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dourados.ms.leg.br/821abfd116cdd26c52455b1b167ca89b3f5f82f48e592213bce91f803b2575da.json",
+    "url": "https://sapl.dourados.ms.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.dourados.ms.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "dee4e3200e25a7d10853bc404b9e98866cb98d3bdc51e2eb6a213464799747c5",
+    "bytes": 751,
+    "capturado_em": "2026-10-21T03:32:23.424865-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dourados.ms.leg.br/656d7aca40fcf442ad34784a1021811443836c27785f807fc88e3d0419e57c28.json",
+      "url": "https://sapl.dourados.ms.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.dourados.ms.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7a7a2ca8d0f6925e84aada30eb459eac508bb60f242c242f0c0f7cd4d5299c37",
+      "bytes": 9455,
+      "capturado_em": "2026-10-21T03:32:26.078821-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

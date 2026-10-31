@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/anexos_i_a_ix.pdf da norma Decreto nº 1, de 20 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos de I a IX",
+      "anexo_arquivo": "http://sapl.claudio.mg.leg.br/media/sapl/public/anexonormajuridica/2026/1/anexos_i_a_ix.pdf",
+      "ano": 2026,
+      "norma": 45
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/anexo_x.pdf da norma Decreto nº 1, de 20 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo X",
+      "anexo_arquivo": "http://sapl.claudio.mg.leg.br/media/sapl/public/anexonormajuridica/2026/2/anexo_x.pdf",
+      "ano": 2026,
+      "norma": 45
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claudio.mg.leg.br/95d0f830d3f509c79205650fa9e29316a21ce9b5c7d85d3cda9308653f6bad59.json",
+      "url": "https://sapl.claudio.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.claudio.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7239c6460ea12f8a499c1ae68b0c09bd670472755e3210906e6c412258af1211",
+      "bytes": 896,
+      "capturado_em": "2026-10-27T22:48:15.195650-03:00"
+    }
+  ]
+}

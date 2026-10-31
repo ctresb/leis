@@ -1,0 +1,32 @@
+Abre Crédito Suplementar ao Orçamento vigente
+
+
+A CÂMARA MUNICIPAL DE ENG. PAULO DE FRONTIN aprova e eu, José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte,
+
+
+Art. 1º.
+
+Fica aberto crédito adicional suplementar ao orçamento vigente, no valor de R$ 1.273.930,76 (hum milhão, duzentos e setenta e três mil, novecentos e trinta reais, setenta e seis centavos), para reforço das seguintes dotações:
+
+
+<table><colgroup><col span="6"><col><col></colgroup><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função</strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor (R$)</strong></td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.1.90.11.00.00.00.00.0100</td><td>850.999,38</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2359</td><td>3.1.90.11.00.00.00.00.0100</td><td>94.215,64</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2345</td><td>3.1.90.11.00.00.00.00.0203</td><td>263.146,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.1.90.11.00.00.00.00.0203</td><td>44.420,06</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.1.90.11.00.00.00.00.0201</td><td>21.149,68</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Os recursos orçamentários para dar cobertura ao crédito adicional suplementar são advindos da anulação das despesas das categorias econômicas, com fulcro no artigo 43, §1º, inciso III da Lei 4.320/64, como segue:
+
+
+<table><colgroup><col span="6"><col><col></colgroup><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub função</strong></td><td><strong>Programas</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor (R$)</strong></td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.1.90.30.00.00.00.00.0100</td><td>99.800,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.32.00.00.00.00.0100</td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.36.00.00.00.00.0100</td><td>12.727,02</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.39.00.00.00.00.0100</td><td>41.077,92</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.49.00.00.00.00.0100</td><td>50.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.31.00.00.00.00.0100</td><td>17.494,44</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.3.90.92.00.00.00.00.0000</td><td>20.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>4.4.90.52.00.00.00.00.0100</td><td>13.900,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2359</td><td>3.3.90.30.00.00.00.00.0100</td><td>43.986,94</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2359</td><td>3.3.90.39.00.00.00.00.0100</td><td>50.228,70</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3002</td><td>2302</td><td>3.3.90.14.00.00.00.00.0100</td><td>1.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3002</td><td>2302</td><td>3.3.90.30.00.00.00.00.0100</td><td>2.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3002</td><td>2302</td><td>3.3.90.36.00.00.00.00.0100</td><td>2.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3002</td><td>2302</td><td>3.3.90.39.00.00.00.00.0000</td><td>3.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3002</td><td>2302</td><td>4.4.90.52.00.00.00.00.0100</td><td>1.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2345</td><td>3.3.90.30.00.00.00.00.0203</td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2345</td><td>3.3.90.32.00.00.00.00.0203</td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2345</td><td>3.3.90.39.00.00.00.00.0203</td><td>43.146,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2345</td><td>4.4.90.52.00.00.00.00.0203</td><td>20.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2365</td><td>3.3.90.30.00.00.00.00.0203</td><td>44.420,06</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.30.00.00.00.00.0201</td><td>21.149,68</td></tr><tr><td>3</td><td>1</td><td>10</td><td>303</td><td>3005</td><td>2312</td><td>3.3.90.32.00.00.00.00.0000</td><td>487.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação retroagindo seus efeitos a partir de sua edição.
+
+
+Eng. Paulo de Frontin, 10 de dezembro de 2021.
+
+***JOSÉ EMMANOEL RODRIGUES ARTEMENKO***
+
+Prefeito Municipal

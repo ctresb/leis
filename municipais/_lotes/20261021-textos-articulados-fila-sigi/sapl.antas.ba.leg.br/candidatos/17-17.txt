@@ -1,0 +1,373 @@
+Institui a Política de Privacidade e Proteção de Dados Pessoais no âmbito da Câmara Municipal de Antas e estabelece diretrizes para a segurança da informação, em conformidade com a Lei Federal nº 13.709, de 14 de agosto de 2018.
+
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE ANTAS, Estado da Bahia, no uso de suas atribuições legais e regimentais, promulga a seguinte Resolução:
+
+
+#### CAPÍTULO I — Disposições Gerais
+
+
+Art. 1º.
+
+Esta Resolução dispõe sobre a aplicação da Lei Federal nº 13.709, de 14 de agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD), no âmbito da Câmara Municipal de Antas.
+
+
+Parágrafo único
+
+Integra esta Resolução, na forma do Anexo I, o Termo de Uso e a Política de Privacidade aplicáveis aos serviços e canais digitais da Câmara Municipal.
+
+
+Art. 2º.
+
+A Câmara Municipal de Antas poderá enquadrar-se como agente de tratamento de pequeno porte, nos termos da regulamentação da Autoridade Nacional de Proteção de Dados (ANPD), observadas as condições estabelecidas na legislação aplicável.
+
+
+Art. 3º.
+
+Esta Resolução aplica-se a todos os agentes públicos, vereadores e prestadores de serviços que realizem tratamento de dados pessoais no âmbito da Câmara Municipal.
+
+
+Art. 4º.
+
+Esta Resolução não se aplica ao tratamento de dados pessoais realizado por vereadores ou gabinetes parlamentares no exercício de atividade parlamentar autônoma, sem utilização de sistemas ou infraestrutura institucional, observado o disposto na legislação vigente.
+
+
+#### CAPÍTULO II — Dos Princípios e Diretrizes
+
+
+Art. 5º.
+
+O tratamento de dados pessoais observará os princípios da finalidade, adequação, necessidade, livre acesso, qualidade dos dados, transparência, segurança, prevenção, não discriminação e responsabilização.
+
+
+Art. 6º.
+
+Constituem diretrizes da política de proteção de dados:
+
+
+I –
+
+padronização de procedimentos internos;
+
+
+II –
+
+capacitação periódica dos agentes públicos;
+
+
+III –
+
+adoção de medidas técnicas e administrativas de segurança;
+
+
+IV –
+
+promoção da cultura de proteção de dados pessoais.
+
+
+#### CAPÍTULO III — DAS RESPONSABILIDADES E GOVERNANÇA
+
+
+Art. 7º.
+
+O Presidente da Câmara designará o Encarregado pelo Tratamento de Dados Pessoais, cujas informações de contato serão divulgadas no sítio eletrônico da instituição.
+
+
+Art. 8º.
+
+Compete ao Encarregado:
+
+
+I –
+
+atuar como canal de comunicação entre a Câmara, os titulares de dados e a ANPD;
+
+
+II –
+
+orientar os agentes públicos acerca das práticas de proteção de dados pessoais;
+
+
+III –
+
+receber e encaminhar comunicações relativas ao tratamento de dados pessoais.
+
+
+Art. 9º.
+
+O Encarregado terá acesso às informações necessárias ao desempenho de suas funções, observado o sigilo legal.
+
+
+Art. 10.
+
+As unidades administrativas deverão comunicar ao Encarregado:
+
+
+I –
+
+operações de tratamento de dados pessoais, quando relevantes;
+
+
+II –
+
+riscos identificados no tratamento de dados pessoais;
+
+
+III –
+
+incidentes de segurança que possam comprometer dados pessoais.
+
+
+#### CAPÍTULO IV — DA GOVERNANÇA E CONTROLE DE PEQUENO PORTE
+
+
+Art. 11.
+
+Os direitos dos titulares de dados serão atendidos por meio eletrônico ou físico, garantindo-se o acesso facilitado às informações sobre o tratamento de seus dados pessoais.
+
+
+Art. 12.
+
+Fica assegurado à Câmara Municipal o prazo em dobro para:
+
+
+I –
+
+atendimento das solicitações dos titulares;
+
+
+II –
+
+comunicação de incidentes de segurança à ANPD, nos termos da regulamentação aplicável.
+
+
+Art. 13.
+
+A Câmara Municipal poderá adotar:
+
+
+I –
+
+política simplificada de segurança da informação;
+
+
+II –
+
+registro simplificado das operações de tratamento de dados pessoais, conforme normas e orientações da ANPD.
+
+
+Art. 14.
+
+Fica instituído o Comitê de Privacidade e Proteção de Dados, de caráter consultivo e de apoio à governança, vinculado à Presidência da Câmara, com a finalidade de coordenar a implementação desta Resolução.
+
+
+Parágrafo único
+
+A composição e o funcionamento do Comitê serão definidos por ato da Mesa Diretora.
+
+
+#### CAPÍTULO V — Disposições Finais
+
+
+Art. 15.
+
+O tratamento de dados pessoais no âmbito da Câmara Municipal observará as hipóteses legais previstas nos arts. 7º, 11 e 23 da Lei nº 13.709, de 2018.
+
+
+Art. 16.
+
+O atendimento aos titulares de dados não substitui nem restringe o direito de acesso à informação previsto na Lei Federal nº 12.527, de 18 de novembro de 2011.
+
+
+Art. 17.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Sala das sessões, 10 de abril de 2026.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Ver. Carlos Eduardo Ferreira de Andrade – PP**
+
+Presidente
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Ver. Jerônimo José Fernandes Neto – PSD**
+
+Vice-presidente
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Ver. João Leiva de Carvalho – PSD**
+
+1º Secretário
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Ver.(a) Marília Menegassi Zotareli – PT**
+
+2º Secretário
+
+
+## Anexo I — TERMO DE USO E POLÍTICA DE PRIVACIDADE
+
+
+**1. APRESENTAÇÃO**
+
+A Câmara Municipal de Antas, no exercício de suas competências legais, estabelece o presente Termo de Uso e Política de Privacidade com o objetivo de informar, de forma clara e transparente, como são utilizados os serviços digitais e como ocorre o tratamento de dados pessoais.
+
+Este documento está em conformidade com a Lei Federal nº 13.709/2018 (Lei Geral de Proteção de Dados – LGPD), bem como com as normas aplicáveis à Administração Pública.
+
+**2. ABRANGÊNCIA**
+
+Este documento aplica-se aos usuários dos serviços digitais da Câmara Municipal de Antas, incluindo:
+
+• Site institucional: https://www.antas.ba.leg.br
+
+• Sistema de Apoio ao Processo Legislativo (SAPL): https://sapl.antas.ba.leg.br
+
+• Portal da Transparência • Sistema Eletrônico do Serviço de Informação ao Cidadão (e-SIC)
+
+• Demais sistemas e serviços digitais disponibilizados pela Câmara
+
+Aplica-se também, no que couber, aos agentes públicos no uso de sistemas institucionais.
+
+Não se aplica às hipóteses de atuação parlamentar autônoma sem uso da infraestrutura institucional, conforme previsto na Resolução.
+
+**3. ACEITAÇÃO DOS TERMOS**
+
+Ao utilizar os serviços digitais da Câmara Municipal, o usuário declara estar ciente e concordar com as disposições deste documento.
+
+**4. DEVERES DO USUÁRIO**
+
+O usuário compromete-se a:
+
+• fornecer informações verdadeiras e atualizadas;
+
+• utilizar os serviços de forma lícita e ética;
+
+• não praticar atos que comprometam a segurança dos sistemas;
+
+• respeitar a legislação vigente.
+
+**5. RESPONSABILIDADES DA CÂMARA**
+
+A Câmara Municipal de Antas:
+
+• adota medidas de segurança para proteção dos dados pessoais;
+
+• busca garantir a disponibilidade e integridade dos serviços;
+
+• poderá realizar manutenções e atualizações nos sistemas;
+
+• não se responsabiliza por indisponibilidades decorrentes de fatores externos.
+
+**6. TRATAMENTO DE DADOS PESSOAIS**
+
+O tratamento de dados pessoais é realizado para atender ao interesse público, com a finalidade de executar competências legais e institucionais da Câmara Municipal, tais como:
+
+• atividade legislativa; • atendimento ao cidadão;
+
+• cumprimento de obrigações legais;
+
+• promoção da transparência pública;
+
+• melhoria dos serviços digitais. Quando aplicável, poderão ser adotadas medidas simplificadas, conforme regulamentação da Autoridade Nacional de Proteção de Dados (ANPD) para agentes de pequeno porte.
+
+**7. DADOS COLETADOS**
+
+Podem ser coletados os seguintes dados:
+
+• dados cadastrais (nome, CPF, e-mail, telefone);
+
+• informações fornecidas pelo usuário em formulários;
+
+• dados de navegação (endereço IP, cookies e registros de acesso).
+
+**8. BASE LEGAL PARA O TRATAMENTO**
+
+O tratamento de dados pessoais é realizado com fundamento nas hipóteses legais previstas na LGPD, especialmente:
+
+• cumprimento de obrigação legal;
+
+• execução de políticas públicas;
+
+• exercício regular de direitos;
+
+• consentimento, quando necessário.
+
+9\. DIREITOS DO TITULAR
+
+O titular de dados pessoais possui os direitos previstos na LGPD, incluindo:
+
+• confirmação da existência de tratamento;
+
+• acesso aos dados;
+
+• correção de dados incompletos ou desatualizados;
+
+• anonimização, bloqueio ou eliminação de dados;
+
+• informação sobre o compartilhamento de dados.
+
+As solicitações podem ser realizadas por meio dos canais oficiais da Câmara, inclusive eletronicamente, observados os prazos legais aplicáveis.
+
+**10. COMPARTILHAMENTO DE DADOS**
+
+• Os dados pessoais poderão ser compartilhados:
+
+• com outros órgãos públicos, para execução de políticas públicas;
+
+• em cumprimento de obrigações legais;
+
+• com prestadores de serviços contratados, sob dever de confidencialidade.
+
+**11. SEGURANÇA DA INFORMAÇÃO**
+
+A Câmara adota medidas técnicas e administrativas para proteger os dados pessoais contra acessos não autorizados, perda, alteração ou divulgação indevida.
+
+**12. COOKIES E REGISTROS DE ACESSO**
+
+Os serviços digitais poderão utilizar cookies e outras tecnologias para:
+
+• garantir o funcionamento adequado dos sistemas;
+
+• coletar estatísticas de uso;
+
+• aprimorar a experiência do usuário.
+
+**13. RETENÇÃO DOS DADOS**
+
+Os dados pessoais serão mantidos pelo tempo necessário ao cumprimento de suas finalidades, respeitando:
+
+• a legislação vigente;
+
+• os prazos de guarda documental;
+
+• o interesse público.
+
+**14. ENCARREGADO PELO TRATAMENTO DE DADOS**
+
+A Câmara Municipal disponibilizará, em seu sítio eletrônico, as informações de contato do Encarregado pelo Tratamento de Dados Pessoais (DPO), responsável por atuar como canal de comunicação com os titulares e a ANPD.
+
+**15. INCIDENTES DE SEGURANÇA**
+
+Em caso de incidentes de segurança que possam acarretar risco ou dano relevante, serão adotadas as medidas previstas na legislação aplicável, incluindo comunicação à Autoridade Nacional de Proteção de Dados e aos titulares, quando necessário.
+
+**16. GOVERNANÇA**
+
+A Câmara poderá adotar estruturas de governança e boas práticas em proteção de dados, incluindo comitês ou mecanismos internos de controle, conforme previsto na Resolução.
+
+**17. ATUALIZAÇÕES DESTE DOCUMENTO**
+
+Este Termo de Uso e Política de Privacidade poderá ser atualizado a qualquer tempo, sendo recomendada sua consulta periódica.
+
+**18. ACESSO À INFORMAÇÃO**
+
+Este documento não substitui nem restringe o direito de acesso à informação previsto na Lei nº 12.527/2011 (Lei de Acesso à Informação – LAI).
+
+**19. DISPOSIÇÕES FINAIS**
+
+Os casos omissos serão resolvidos pela Câmara Municipal de Antas, observada a legislação vigente.

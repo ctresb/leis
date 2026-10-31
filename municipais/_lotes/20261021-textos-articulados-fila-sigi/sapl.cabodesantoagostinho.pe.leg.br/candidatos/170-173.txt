@@ -1,0 +1,3099 @@
+Reestrutura o Instituto de Previdência Social do Município do Cabo de Santo Agostinho – CABOPREV, órgão gestor único do sistema previdenciário no âmbito municipal e dá outras providências.
+
+
+O Prefeito do Município do Cabo de Santo Agostinho: Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+### TÍTULO I — Das Finalidades e dos Beneficiários do Regime Próprio de Previdência Social do Município do Cabo de Santo Agostinho/PE – CABOPREV
+
+
+#### CAPÍTULO I — Das Disposições Preliminares e dos Objetivos
+
+
+Art. 1º.
+
+Nos termos desta lei fica reestruturado o Regime Próprio de Previdência Social do Município do Cabo de Santo Agostinho/PE, Regime Próprio de Previdência Social de que trata o art. 40 da Constituição Federal de 1988, da Emenda Constitucional nº 41, de 19 de dezembro de 2003, da Emenda Constitucional nº 47, de 05 de julho de 2005, da Emenda Constitucional nº 70, de 29 de março de 2012, da Emenda Constitucional nº 88, de 07 de maio de 2015, da Lei Federal nº 9.717, de 27 de novembro de 1998, cuja organização será baseada em normas gerais de contabilidade e atuária, de modo a garantir o seu equilíbrio financeiro e atuarial, e da Lei Federal nº 10.887, de 18 de junho de 2004.
+
+
+Art. 2º.
+
+Fica reestruturado o Instituto de Previdência Social do Município do Cabo de Santo Agostinho/PE – CABOPREV, na qualidade de entidade autárquica de direito público interno, dotada de personalidade jurídica própria, órgão gestor único do Regime Próprio de Previdência Social – RPPS, sistema público de previdência social, de natureza estatutária e contributiva, aplicável aos titulares de cargo efetivo do município, cujo gestor previdenciário aceita o munus de ordenador de despesas no intuito de garantir a gestão e o plano de benefícios do RPPS, observados os critérios estabelecidos nesta Lei e tem por escopo dar cobertura aos riscos a que estão sujeitos os beneficiários e compreende um conjunto de benefícios que atendam às seguintes finalidades:
+
+
+Parágrafo único
+
+O CABOPREV visa dar cobertura aos riscos a que estão sujeitos os beneficiários e compreende um conjunto de benefícios que atendam às seguintes finalidades:
+
+
+I –
+
+assegurar aos seus beneficiários os meios de subsistência nos eventos de invalidez, doença, acidente em serviço, idade, reclusão, morte; e
+
+
+II –
+
+proteção à maternidade e à família.
+
+
+Art. 3º.
+
+Para os efeitos desta Lei definem-se como:
+
+
+I –
+
+segurado ou participante: o servidor público titular de cargo efetivo dos Poderes Executivo e Legislativo do Município, suas autarquias, fundações e aposentados;
+
+
+II –
+
+beneficiário: o segurado ou pessoa que, na qualidade de dependente de segurado, pode exigir o gozo dos benefícios especificados nesta Lei;
+
+
+III –
+
+plano de benefícios: especificação dos benefícios atribuídos por esta Lei aos seus participantes e beneficiários;
+
+
+IV –
+
+plano de custeio: regulamento e especificação das regras relativas às fontes de receita do CABOPREV, necessárias ao custeio dos seus benefícios;
+
+
+V –
+
+hipóteses atuariais: conjunto de parâmetros técnicos adotados para a elaboração da avaliação atuarial necessária à quantificação das reservas técnicas e elaboração do plano de custeio do CABOPREV;
+
+
+VI –
+
+reserva técnica: corresponde às reservas matemáticas totais acrescidas do superávit ou do déficit. Esta reserva tem valor equivalente ao ativo líquido do plano, ou seja, parcela do ativo do CABOPREV destinada à cobertura dos benefícios previdenciários;
+
+
+VII –
+
+reserva matemática: expressão dos valores atuais e obrigações do CABOPREV relativas:
+
+
+a)
+
+reserva matemática: expressão dos valores atuais e obrigações do CABOPREV relativas:
+
+
+b)
+
+a benefícios a conceder, no caso de segurados que já implementaram ou venham a implementar os requisitos exigidos para gozo dos benefícios especificados nesta Lei.
+
+
+VIII –
+
+recursos garantidores: conjunto de bens e direitos integralizados ou por amortizar ao CABOPREV para o pagamento de suas obrigações previdenciárias;
+
+
+IX –
+
+reservas por amortizar: parcela da reserva técnica a integralizar através de um plano suplementar de amortização do CABOPREV, podendo ser por contribuição suplementar temporária;
+
+
+X –
+
+remuneração de contribuição: totalidade da remuneração recebida pelo segurado ou beneficiário exceto:
+
+
+a)
+
+as diárias de viagem;
+
+
+b)
+
+a ajuda de custo em razão de mudança de sede;
+
+
+c)
+
+a indenização de transporte;
+
+
+d)
+
+salário-família;
+
+
+e)
+
+auxílio-alimentação;
+
+
+f)
+
+auxílio-creche;
+
+
+g)
+
+abono de permanência;
+
+
+h)
+
+auxílio doença.
+
+
+XI –
+
+percentual de contribuição ordinária: expressão percentual calculada atuarialmente considerada necessária e suficiente ao custeio ordinário do plano de benefícios mediante a sua incidência sobre a remuneração de contribuição;
+
+
+XII –
+
+contribuições ordinárias: montante de recursos devidos pelo Município e pelos segurados e beneficiários do CABOPREV para o custeio do respectivo plano de benefícios, resultante da aplicação dos percentuais de contribuição ordinária sobre a respectiva remuneração de contribuição;
+
+
+XIII –
+
+contribuição definida: contribuição condizente com um plano ou um benefício estruturado no modelo técnico-atuarial que atribui ao segurado e beneficiário um benefício atuarialmente calculado resultante das contribuições realizadas;
+
+
+XIV –
+
+índice atuarial: indicador econômico adotado na definição e elaboração do plano de custeio para atualização monetária das suas exigibilidades;
+
+
+XV –
+
+taxa de juros técnico atuarial: taxa de juros real adotada como premissa na elaboração do plano de custeio, definida como taxa de remuneração real presumida dos bens e direitos acumulados e por acumular do CABOPREV;
+
+
+XVI –
+
+equilíbrio atuarial: correspondência entre as exigibilidades decorrentes dos planos de benefícios e as reservas técnicas resultantes do plano de custeio;
+
+
+XVII –
+
+benefício definido: modelo de custeio previdenciário onde as alíquotas de contribuição são definidas em função dos benefícios previstos;
+
+
+XVIII –
+
+folha líquida de benefícios: total da despesa previdenciária, deduzidas as contribuições dos participantes.
+
+
+Art. 4º.
+
+O CABOPREV rege-se pelos seguintes princípios:
+
+
+I –
+
+obediência às normas gerais de contabilidade e atuária, de modo a garantir o seu equilíbrio financeiro e atuarial;
+
+
+II –
+
+uniformidade e equivalência dos benefícios;
+
+
+III –
+
+seletividade e distributividade na prestação dos benefícios;
+
+
+IV –
+
+equidade na forma de participação no custeio;
+
+
+V –
+
+subordinação das aplicações de reservas, fundos e provisões a padrões mínimos adequados de diversificação, liquidez e segurança econômico-financeira, conforme estabelecido pelo Conselho Monetário Nacional e definido pelo Comitê de investimentos;
+
+
+VI –
+
+caráter democrático da administração, com participação dos representantes da Administração Pública e dos servidores ativos e aposentados, nos órgãos colegiados;
+
+
+VII –
+
+sujeição às inspeções e auditorias de natureza atuarial, contábil, financeira, orçamentária e patrimonial dos órgãos de controle interno e externo;
+
+
+VIII –
+
+vedação de utilização de recursos, bens direitos e ativos do CABOPREV para:
+
+
+a)
+
+empréstimos de qualquer natureza, inclusive aos entes estatais do Município e aos segurados e beneficiários;
+
+
+b)
+
+prestação assistencial médica e odontológica;
+
+
+c)
+
+aplicação em títulos públicos, com exceção dos títulos de emissão do Governo Federal.
+
+
+IX –
+
+impossibilidade de concessão de benefícios que não estejam previstos no Regime Geral de Previdência Social, salvo disposição em contrário da Constituição Federal de 1988;
+
+
+X –
+
+participação no plano de benefícios, mediante contribuição;
+
+
+XI –
+
+cálculo e manutenção do valor dos benefícios com base na remuneração de contribuição ou nos proventos de aposentadoria do servidor, na forma da Lei;
+
+
+XII –
+
+valor dos benefícios não inferior ao do salário-mínimo, excetuando-se as parcelas pagas a título de complemento de aposentadorias ou pensões, e o rateio, entre dependentes, do benefício da pensão por morte;
+
+
+XIII –
+
+pleno acesso aos segurados e beneficiários às informações relativas à gestão do CABOPREV.
+
+
+#### CAPÍTULO II — Dos Beneficiários
+
+
+Art. 5º.
+
+São filiados ao CABOPREV, na qualidade de beneficiários os segurados e seus dependentes.
+
+
+Art. 6º.
+
+Permanece filiado ao CABOPREV, na qualidade de segurado, o servidor titular de cargo efetivo que estiver:
+
+
+I –
+
+cedido a órgão ou entidade da administração direta e indireta da União, dos Estados, do Distrito Federal ou dos Municípios e
+
+
+II –
+
+afastado ou licenciado, temporariamente, do cargo efetivo sem recebimento de subsídio ou remuneração do Município, observados os prazos previstos no art. 74.
+
+
+§ 1º
+
+Na hipótese prevista no inciso I do caput deste artigo é de responsabilidade do órgão ou entidade em que o servidor estiver em exercício o recolhimento das contribuições previdenciárias devidas.
+
+
+§ 2º
+
+Nos casos previstos no inciso II do caput, o servidor poderá optar:
+
+
+I –
+
+por permanecer no pleno direito de gozar os benefícios previstos nesta Lei, atendidos os requisitos necessários, devendo promover o devido recolhimento, nos prazos legais, das contribuições previdenciárias próprias cabendo ao ente federativo recolher a sua parte;
+
+
+II –
+
+pela suspensão do direito de gozar os benefícios previstos nesta Lei e interrupção do tempo de contribuição para efeito de concessão de benefícios previdenciários, observadas as disposições do art. 68, sendo dispensado de contribuição.
+
+
+Art. 7º.
+
+O servidor efetivo requisitado da União, de Estados, do Distrito federal ou de outros Municípios permanece filiado ao regime previdenciário de origem.
+
+
+Parágrafo único
+
+O segurado investido de mandato de Vereador que ocupe o cargo efetivo em exercício concomitantemente com o referido mandato eletivo filia-se ao CABOPREV, pelo cargo efetivo e ao Regime Geral de Previdência Social – RGPS, pelo mandato de Vereador.
+
+
+##### Seção I — Dos Segurados
+
+
+Art. 8º.
+
+São segurados do CABOPREV:
+
+
+I –
+
+o servidor público titular de cargo efetivo dos órgãos dos Poderes Executivo e Legislativo, suas autarquias, inclusive as de regime especial e fundações públicas; e
+
+
+II –
+
+os aposentados nos cargos citados no inciso anterior.
+
+
+§ 1º
+
+Fica excluído do disposto no caput o servidor ocupante, exclusivamente, de cargo em comissão declarado em lei de livre nomeação e exoneração, bem como de outro cargo temporário ou emprego público, ainda que aposentado ou pensionista em algum regime de previdência social.
+
+
+§ 2º
+
+Na hipótese de acumulação remunerada nos casos previstos na Constituição Federal de 1988, o servidor mencionado neste artigo será segurado obrigatório em relação a cada um dos cargos ocupados.
+
+
+§ 3º
+
+O segurado aposentado que vier a exercer mandato eletivo federal, estadual, distrital ou municipal filiar-se-á ao Regime Geral de Previdência Social na condição de exercente de mandato eletivo.
+
+
+Art. 9º.
+
+A perda da condição de segurado do CABOPREV ocorrerá nas hipóteses:
+
+
+I –
+
+morte;
+
+
+II –
+
+exoneração ou demissão;
+
+
+III –
+
+cassação de aposentadoria ou disponibilidade
+
+
+IV –
+
+falta de recolhimento das contribuições previdenciárias na hipótese prevista no art. 95, após os prazos constantes no art. 74.
+
+
+§ 1º
+
+o servidor afastado do serviço, licenciado sem direito a remuneração, ou cedido com ônus para o cessionário, que deixar de contribuir para o CABOPREV por mais de 2 meses consecutivos, terá suspensa a condição de segurado.
+
+
+§ 2º
+
+o servidor voltará à qualidade de beneficiário do CABOPREV tão logo reassuma seu cargo efetivo e volte a recolher sua contribuição, retomando a contagem do tempo de contribuição para os efeitos de aposentadoria.
+
+
+##### Seção II — Dos Dependentes
+
+
+Art. 10.
+
+São beneficiários do CABOPREV, na condição de dependente do segurado:
+
+
+I –
+
+O cônjuge, o companheiro, a companheira, inclusive união homoafetiva e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido;
+
+
+II –
+
+os pais, desde que não sejam beneficiários (as) de outro sistema de previdência; e
+
+
+III –
+
+o irmão ou irmã inválido (a) ou menor de 21 (vinte e um) anos que viva sob sua dependência econômica cujos pais não tenham condições de assistência e que não estejam inscritos em outro regime de previdência.
+
+
+§ 1º
+
+A dependência econômica das pessoas indicadas no inciso I é presumida e das demais deve ser comprovada.
+
+
+§ 2º
+
+Equiparam-se aos filhos, nas condições do inciso I, mediante declaração escrita do segurado e desde que comprovada à dependência econômica, o enteado e o menor que estejam sob sua tutela e não possuam bens suficientes para o próprio sustento e educação.
+
+
+§ 3º
+
+O menor sob tutela somente poderá ser equiparado aos filhos do segurado mediante apresentação de termo de tutela.
+
+
+§ 4º
+
+Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantenha união estável com o segurado ou segurada.
+
+
+§ 5º
+
+Considera-se união estável aquela verificada entre duas pessoas como entidade familiar, quando forem solteiros, separados judicialmente, divorciados ou viúvos, ou tenham prole em comum, enquanto não se separarem.
+
+
+§ 6º
+
+A existência de dependentes indicados no inciso I deste artigo exclui do direito aos benefícios os da classe subsequente.
+
+
+§ 7º
+
+Considera-se união homoafetiva aquela havida entre pessoas do mesmo sexo, como entidade familiar, quando forem solteiros, divorciados ou viúvos, ou tenham prole em comum, enquanto não se separarem, para fins de concessão do benefício de pensão por morte, fazendo-se necessária a observância do contido no § 2º.
+
+
+§ 8º
+
+O reconhecimento de dependente, na condição de inválido, fica condicionado a parecer da Junta Médica do Município.
+
+
+Art. 11.
+
+A comprovação da condição de beneficiário, quando esta não constar em Ficha Funcional se dará mediante a apresentação por parte do companheiro ou companheira supérstite de Declaração assinada por ele e por duas testemunhas, afirmando que o de cujus, ex-segurado, mantinha relação de união estável com o declarante e acompanhada obrigatoriamente de pelo menos 03 (três) dos seguintes documentos:
+
+
+I –
+
+certidão de nascimento de filho havido em comum;
+
+
+II –
+
+certidão de casamento civil;
+
+
+III –
+
+prova de mesmo domicílio;
+
+
+IV –
+
+prova de encargos domésticos evidentes;
+
+
+V –
+
+procuração ou fiança reciprocamente outorgada;
+
+
+VI –
+
+conta bancária conjunta;
+
+
+VII –
+
+registro em associação de qualquer natureza, onde conste o interessado como dependente;
+
+
+VIII –
+
+ficha de assistência médica, da qual conste o segurado como responsável;
+
+
+IX –
+
+escritura de compra e venda de imóvel pelo segurado em nome do dependente;
+
+
+X –
+
+declaração especial firmada perante tabelião público do segurado em vida;
+
+
+XI –
+
+declaração do imposto de renda do segurado, em que conste o interessado como seu dependente;
+
+
+XII –
+
+disposições testamentárias em vida.
+
+
+§ 1º
+
+Poderá ser ainda reconhecida a união estável através de sentença judicial transitada em julgado, com existência de prova material e originada por ação declaratória ou constitutiva.
+
+
+§ 2º
+
+A justificação judicial isoladamente não é documento suficiente para comprovação da união estável, sendo necessárias outras provas materiais subsidiárias para a configuração da união estável como entidade familiar.
+
+
+Art. 12.
+
+A perda da qualidade de dependente ocorre:
+
+
+I –
+
+o seu falecimento;
+
+
+II –
+
+a anulação do casamento, quando a decisão ocorrer após a concessão da pensão ao cônjuge;
+
+
+III –
+
+a cessação da invalidez, em se tratando de beneficiário inválido, o afastamento da deficiência, em se tratando de beneficiário com deficiência, ou o levantamento da interdição, em se tratando de beneficiário com deficiência intelectual ou mental que o torne absoluta ou relativamente incapaz, respeitados os períodos mínimos decorrentes da aplicação das alíneas “a” e “b” do inciso VI;
+
+
+IV –
+
+o implemento da idade de 21 (vinte e um) anos, ou pela emancipação, ainda que inválido, exceto, neste caso, se a emancipação for decorrente de colação de grau científico em curso de ensino superior, pelo filho ou irmão;
+
+
+V –
+
+a renúncia expressa; e
+
+
+VI –
+
+em relação aos beneficiários de que tratam os incisos I do art. 10, salvo se houver prestação de alimentos;
+
+
+a)
+
+o decurso de 4 (quatro) meses, se o óbito ocorrer sem que o servidor tenha vertido 18 (dezoito) contribuições mensais ou se o casamento ou a união estável tiverem sido iniciados em menos de 2 (dois) anos antes do óbito do servidor;
+
+
+b)
+
+o decurso dos seguintes períodos, estabelecidos de acordo com a idade do pensionista na data de óbito do servidor, depois de vertidas 18 (dezoito) contribuições mensais e pelo menos 2 (dois) anos após o início do casamento ou da união estável:
+
+
+1
+
+3 (três) anos, com menos de 21 (vinte e um) anos de idade;
+
+
+2
+
+6 (seis) anos, entre 21 (vinte e um) e 26 (vinte e seis) anos de idade;
+
+
+3
+
+10 (dez) anos, entre 27 (vinte e sete) e 29 (vinte e nove) anos de idade;
+
+
+4
+
+15 (quinze) anos, entre 30 (trinta) e 40 (quarenta) anos de idade;
+
+
+5
+
+20 (vinte) anos, entre 41 (quarenta e um) e 43 (quarenta e três) anos de idade;
+
+
+6
+
+vitalícia, com 44 (quarenta e quatro) ou mais anos de idade.
+
+
+§ 1º
+
+Serão aplicados, conforme o caso, a regra contida no inciso III ou os prazos previstos na alínea “b” do inciso VII, ambos docaput, se o óbito do servidor decorrer de acidente de qualquer natureza ou de doença profissional ou do trabalho, independentemente do recolhimento de 18 (dezoito) contribuições mensais ou da comprovação de 2 (dois) anos de casamento ou de união estável.
+
+
+§ 2º
+
+Após o transcurso de pelo menos 3 (três) anos e desde que nesse período se verifique o incremento mínimo de um ano inteiro na média nacional única, para ambos os sexos, correspondente à expectativa de sobrevida da população brasileira ao nascer, poderão ser fixadas, em números inteiros, novas idades para os fins previstos na alínea “b” do inciso VII docaput, em ato do Ministro de Estado do Planejamento, Orçamento e Gestão, limitado o acréscimo na comparação com as idades anteriores ao referido incremento.
+
+
+§ 3º
+
+O tempo de contribuição a Regime Próprio de Previdência Social (RPPS) ou ao Regime Geral de Previdência Social (RGPS) será considerado na contagem das 18 (dezoito) contribuições mensais referidas nas alíneas “a” e “b” do inciso VI docaput.
+
+
+##### Seção III — Das Inscrições
+
+
+Art. 13.
+
+A inscrição do segurado é automática e ocorre quando da investidura no cargo efetivo da administração pública direta, autárquica e fundacional do Município.
+
+
+§ 1º
+
+Incumbe ao segurado a inscrição de seus dependentes, que poderão promovê-la se ele falecer sem tê-la efetivada.
+
+
+§ 2º
+
+A inscrição de dependente inválido requer sempre a comprovação desta condição por inspeção pela Junta Médica designada para este fim.
+
+
+§ 3º
+
+As informações referentes aos dependentes deverão ser comprovadas documentalmente.
+
+
+§ 4º
+
+A perda da condição de segurado implica o automático cancelamento da inscrição de seus dependentes.
+
+
+### TÍTULO II — Do Instituto de Previdência Social dos Servidores do Município do Cabo de Santo Agostinho – CABOPREV
+
+
+#### CAPÍTULO I — Da Administração
+
+
+Art. 14.
+
+Para o alcance de seus objetivos e finalidades, o CABOPREV será administrado por uma Diretoria Executiva, um Conselho de Administração, um Conselho Fiscal e um Comitê de Investimentos como órgão auxiliar da Diretoria Executiva.
+
+
+##### Seção I — Da Diretoria Executiva
+
+
+Art. 15.
+
+A Diretoria Executiva será composta de:
+
+
+I –
+
+Diretor-Presidente;
+
+
+II –
+
+Gerente Administrativo-Financeiro;
+
+
+III –
+
+Gerente de Previdência e Benefícios.
+
+
+§ 1º
+
+Os cargos da Diretoria Executiva têm símbolos e vencimentos especificados na forma do Anexo I que integra a presente Lei.
+
+
+§ 2º
+
+Os cargos da Diretoria Executiva serão ocupados, privativamente, por servidor do quadro efetivo, inclusive aposentados, de qualquer um dos Poderes, Legislativo ou Executivo, e suas Entidades da Administração Indireta, da Prefeitura do Cabo de Santo Agostinho, e, exclusivamente, por portadores de nível superior e seus ocupantes firmarão o competente Termo de Posse.
+
+
+Art. 16.
+
+Compete ao Diretor-Presidente:
+
+
+I –
+
+superintender e gerir a administração geral do CABOPREV;
+
+
+II –
+
+elaborar a proposta orçamentária anual, bem como as suas alterações;
+
+
+III –
+
+organizar a estrutura administrativa e o quadro de pessoal de acordo com o orçamento aprovado, mediante prévia aprovação legislativa;
+
+
+IV –
+
+contratar assessoria e/ou consultoria especializada, assinar contratos, acordos ou convênios, realizar concorrências públicas, expedir ordens de serviço e resoluções, decidir sobre requerimentos e solicitações de segurados e seus dependentes e/ou beneficiários;
+
+
+V –
+
+expedir instruções e ordens de serviço;
+
+
+VI –
+
+organizar os serviços de prestação previdenciária;
+
+
+VII –
+
+assinar, em conjunto com o Gerente Administrativo-Financeiro, os cheques e demais documentos, movimentando os recursos financeiros;
+
+
+VIII –
+
+propor a contratação de administradores de carteira de investimentos, de consultores especializados, e outros serviços de interesse;
+
+
+IX –
+
+submeter ao Conselho Fiscal e ao Conselho de Administração os assuntos a eles pertinentes e facilitar aos seus membros o desempenho de suas atribuições, além de cumprir e fazer cumprir as deliberações dos mesmos;
+
+
+X –
+
+adotar as providências cabíveis para a correção de atos e fatos decorrentes de gestão que prejudiquem o desempenho e o cumprimento das finalidades do CABOPREV;
+
+
+XI –
+
+Expedir atos relativos aos benefícios previdenciários, tais como: revisão/concessão/anulação/cassação de tais benefícios;
+
+
+XII –
+
+exercer a representação administrativa e judicial do CABOPREV;
+
+
+XIII –
+
+nomear servidores do quadro efetivo do CABOPREV para ocupar os cargos de provimento em comissão constantes no anexo I desta Lei.
+
+
+Parágrafo único
+
+O cargo de Diretor-Presidente, nomeado pelo Chefe do Poder Executivo, deverá ser exercido por servidor efetivo de nível superior de notório saber em regime previdenciário.
+
+
+Art. 17.
+
+Compete ao gerente Administrativo-Financeiro:
+
+
+I –
+
+coordenar as atividades administrativas e financeiras;
+
+
+II –
+
+gerenciar os recursos humanos;
+
+
+III –
+
+assinar, conjuntamente com o Diretor-Presidente os cheques e demais documentos de movimentação financeira;
+
+
+IV –
+
+acompanhar e coordenar a execução orçamentária;
+
+
+V –
+
+encaminhar, nos prazos legalmente previstos, as informações contábeis e financeiras ao Ministério da Previdência Social, ao Tribunal de Contas do Estado e à Câmara Municipal;
+
+
+VI –
+
+superintender o processo de confecção da folha de pagamento.
+
+
+Art. 18.
+
+Compete ao Gerente de Previdência e Benefícios:
+
+
+I –
+
+coordenar os processos de concessão de benefícios;
+
+
+II –
+
+subsidiar os profissionais de atuária na elaboração dos cálculos anuais;
+
+
+III –
+
+acompanhar as modificações na legislação previdenciária nacional;
+
+
+IV –
+
+elaborar as estatísticas previdenciárias.
+
+
+##### Seção II — Do Conselho de Administração
+
+
+Art. 19.
+
+O Conselho de Administração do CABOPREV será constituído de 6 (seis) membros efetivos e respectivos suplentes, nomeados por decreto do Poder Executivo, sendo:
+
+
+I –
+
+1 (um) membro efetivo e 1 (um) suplente indicados pelo Poder Legislativo;
+
+
+II –
+
+2 (dois) membros efetivos e 2 (dois) suplentes indicados pelo Poder Executivo;
+
+
+III –
+
+2 (dois) membros efetivos e 2 (dois) suplentes, representando os servidores da ativa, indicados pelo Sindicato dos Trabalhadores Públicos do Município do Cabo de Santo Agostinho e pelo Sindicato dos Professores Públicos do Município do Cabo de Santo Agostinho;
+
+
+IV –
+
+1 (um) membro efetivo e 1 (um) membro suplente representando os servidores aposentados e pensionistas, indicados de comum acordo pelo Sindicato dos Trabalhadores Públicos do Município do Cabo de Santo Agostinho e pelo Sindicato dos Professores do Município do Cabo de Santo Agostinho.
+
+
+§ 1º
+
+O Presidente do Conselho de Administração será indicado e nomeado pelo chefe do Poder Executivo e terá voto de qualidade.
+
+
+§ 2º
+
+A Diretoria Executiva do CABOPREV prestará todo o apoio logístico necessário ao normal funcionamento do Conselho de Administração, inclusive disponibilizando um servidor para exercer as funções de secretário.
+
+
+Art. 20.
+
+Compete ao Conselho de Administração:
+
+
+I –
+
+reunir-se ordinariamente, uma vez por mês, e extraordinariamente sempre que convocado pelo seu Presidente, pelo Diretor-Presidente do CABOPREV e por maioria absoluta de seus membros;
+
+
+II –
+
+aprovar a proposta orçamentária anual bem como suas respectivas alterações elaboradas pela Diretoria Executiva;
+
+
+III –
+
+aconselhar a admissão, demissão, promoção e movimentação de funcionários;
+
+
+IV –
+
+acompanhar a contratação de instituição financeira que se encarregará da administração da Carteira de Investimento do CABOPREV, proposta pela Diretoria Executiva;
+
+
+V –
+
+funcionar como órgão de aconselhamento à Diretoria Executiva do CABOPREV, nas questões por ela suscitadas;
+
+
+VI –
+
+pronunciar-se sobre a alienação de bens imóveis de propriedade do CABOPREV;
+
+
+VII –
+
+julgar, em última instância, os recursos dos servidores municipais que se sentirem prejudicados nos seus direitos pertinentes à solicitação de benefícios, sendo suas decisões lavradas em atas que serão encaminhadas ao Diretor-Presidente, que as acatará.
+
+
+VIII –
+
+Convocar e regulamentar a Conferência de Previdência Municipal prevista no art. 115 desta Lei.
+
+
+Art. 21.
+
+Os Conselheiros não farão jus a qualquer tipo de remuneração pela participação nas reuniões do Conselho de Administração, sendo considerado relevante serviço prestado à comunidade.
+
+
+Art. 22.
+
+Os membros do Conselho de Administração terão mandato de 2 (dois) anos, permitida a recondução por uma única vez e por igual período, à exceção do Presidente, cujo mandato será igual ao do Prefeito, podendo ser reconduzido.
+
+
+§ 1º
+
+Em caráter excepcional e objetivando resguardar a continuidade administrativa e a memória do Conselho de Administração, poderá ser permitido, por proposta do Diretor-Presidente do CABOPREV, a recondução do mandato do membro do Conselho de Administração por mais dois anos.
+
+
+§ 2º
+
+Perderá o mandato o conselheiro que faltar a 3 (três) reuniões consecutivas ou 5 (cinco) alternadas, sem justificativas, assumindo neste caso, o seu suplente, e sendo nomeado novo suplente para completar o mandato.
+
+
+##### Seção III — Do Conselho Fiscal
+
+
+Art. 23.
+
+O Conselho Fiscal do CABOPREV será constituído de 6 (seis) membros efetivos e respectivos suplentes, nomeados por Decreto do Poder executivo, sendo:
+
+
+I –
+
+1 (um) membro efeito e 1 (um) suplente indicados pelo Poder Legislativo;
+
+
+II –
+
+2 (dois) membros efetivos e 2 (dois) suplentes indicados pelo Poder Executivo;
+
+
+III –
+
+2 (dois) membros efetivos e 2 (dois) suplentes, representando os servidores da ativa, indicados pelo Sindicato dos Trabalhadores Públicos do Município do Cabo de Santo Agostinho e pelo Sindicato dos Professores Públicos do Município do Cabo de Santo Agostinho;
+
+
+IV –
+
+1 (um) membro efetivo e 1 (um) membro suplente representando os servidores aposentados e pensionistas, indicados de comum acordo pelo Sindicato dos Trabalhadores Públicos do Município do Cabo de Santo Agostinho e pelo Sindicato dos Professores do Município do Cabo de Santo Agostinho.
+
+
+§ 1º
+
+O Presidente do Conselho Fiscal será indicado e nomeado pelo chefe do Poder Executivo e terá voto de qualidade.
+
+
+§ 2º
+
+A Diretoria Executiva do CABOPREV prestará todo o apoio logístico necessário ao normal funcionamento do Conselho Fiscal, inclusive disponibilizando um servidor para exercer as funções de secretário.
+
+
+Art. 24.
+
+Compete ao Conselho Fiscal:
+
+
+I –
+
+reunir-se, ordinariamente, uma vez por mês, e extraordinariamente sempre que convocado pelo seu Presidente, pelo Diretor-Presidente do CABOPREV e por maioria absoluta de seus membros;
+
+
+II –
+
+acompanhar a organização dos serviços técnicos e a admissão de pessoal;
+
+
+III –
+
+acompanhar a execução orçamentária do CABOPREV, conferindo a classificação dos fatos e examinando a sua procedência e exatidão;
+
+
+IV –
+
+examinar as prestações de contas efetivadas pelo CABOPREV aos servidores e dependentes e a respectiva tomada de contas dos responsáveis;
+
+
+V –
+
+proceder, face aos documentos de receita e despesa, a verificação dos balancetes mensais, os quais deverão estar instruídos com os esclarecimentos devidos, para encaminhamento ao Conselho de Administração;
+
+
+VI –
+
+encaminhar ao Poder Executivo e ao Legislativo, anualmente, até o mês de março, com seu parecer técnico, o relatório do exercício anterior do CABOPREV, o processo de tomada de contas, se for o caso, o balanço anual e o inventário a ele referente, assim como o relatório estatístico dos benefícios prestados;
+
+
+VII –
+
+requisitar, ao Diretor-Presidente do CABOPREV, as informações e diligências que julgar necessárias, promover a correção de irregularidades detectadas, apresentando relatório específico aos Chefes dos Poderes Executivo e Legislativo;
+
+
+VIII –
+
+propor ao Diretor-Presidente do CABOPREV medidas que julgar de interesse para resguardar a lisura e a transparência da administração;
+
+
+IX –
+
+proceder a verificação dos valores em depósito na tesouraria, em bancos, nos administradores de carteira de investimentos, e atestar a sua correção ou denunciar irregularidades;
+
+
+X –
+
+pronunciar-se sobre a alienação de bens imóveis de propriedade do CABOPREV;
+
+
+XI –
+
+rever as próprias decisões, fundamentando qualquer possível alteração.
+
+
+Parágrafo único
+
+Assiste a todos os membros do Conselho Fiscal, individualmente, o direito de exercer fiscalização dos serviços do CABOPREV, não lhes sendo permitido envolver-se na sua administração.
+
+
+Art. 25.
+
+Os Conselheiros Fiscais não farão jus a qualquer tipo de remuneração pela participação nas reuniões do Conselho Fiscal, sendo considerado relevante serviço prestado à comunidade.
+
+
+Art. 26.
+
+Os membros do Conselho Fiscal terão mandato de 2 (dois) anos, permitida a recondução, por uma única vez, e por igual período, de seus integrantes, à exceção do Presidente, cujo mandato será igual ao do Prefeito, podendo ser reconduzido.
+
+
+§ 1º
+
+Em caráter excepcional e objetivando resguardar a continuidade administrativa e a memória do Conselho Fiscal, poderá ser permitido, por proposta do Diretor-Presidente do CABOPREV, a recondução do mandato do membro do Conselho Fiscal por mais dois anos.
+
+
+§ 2º
+
+Perderá o mandato o conselheiro que faltar a 3 (três) reuniões consecutivas ou 5 (cinco) alternadas, sem justificativas, assumindo neste caso, o seu suplente, e sendo nomeado novo suplente para completar o mandato.
+
+
+##### Seção IV — Do Comitê de Investimentos
+
+
+Art. 27.
+
+Para fins de atendimento ao que dispõe a legislação emanada do Ministério da Previdência Social no que tange aos investimentos dos recursos do CABOPREV, o Chefe do Poder Executivo Municipal nomeará, mediante Decreto o Comitê de Investimentos no âmbito do Instituto de Previdência dos Servidores Municipais do Cabo de Santo Agostinho – CABOPREV que funcionará como órgão auxiliar da Diretoria Executiva nos processos de tomada de decisão que envolva a gestão dos ativos do CABOPREV, observando as exigências legais relacionadas à segurança, rentabilidade, solvência e liquidez dos investimentos.
+
+
+Art. 28.
+
+O Comitê de Investimentos será composto por 05 (cinco) membros efetivos, sendo assim distribuídos:
+
+
+I –
+
+1 (um) membro do CABOPREV;
+
+
+II –
+
+1 (um) membro do Poder Executivo Municipal;
+
+
+III –
+
+1 (um) membro do Poder Legislativo Municipal;
+
+
+IV –
+
+1 (um) membro do Conselho de Administração;
+
+
+V –
+
+1 (um) membro do Conselho Fiscal;
+
+
+§ 1º
+
+Os membros dos Conselhos de Administração e Fiscal deverão ser representantes do Sindicato dos Trabalhadores Públicos Municipais do Cabo de Santos Agostinho (SINTRAC) e do Sindicato dos Professores do Cabo de Santo Agostinho (SINPC).
+
+
+§ 2º
+
+O Presidente do Comitê de Investimentos deverá, obrigatoriamente, possuir certificado de aprovação em exame de certificação desenvolvido por entidade autônoma de reconhecida capacidade técnica e difusão no mercado brasileiro de capitais, de que trata o § 4° do Art. 2° da Portaria MPS 519, de 24 de agosto de 2011 e deverá ser escolhido pelos seus pares através de escrutínio secreto.
+
+
+§ 3º
+
+Todos os membros do Comitê de Investimentos deverão possuir formação de graduação ou pós-graduação na área de economia, finanças, administração, gestão pública, ciências contábeis, estatística e, pelo menos metade de seus membros, possuírem certificado de aprovação em exame de certificação desenvolvido por entidade autônoma de reconhecida capacidade técnica e difusão no mercado brasileiro de capitais.
+
+
+§ 4º
+
+A fim de atendimento ao disposto na parte final do § 3° deste artigo, a Diretoria do CABOPREV promoverá a capacitação do Comitê de Investimentos para que os membros tenham o certificado em investimentos, cujo prazo será de 60 (sessenta) dias para obter a certificação sob pena de substituição.
+
+
+§ 5º
+
+Os membros do Comitê de Investimentos não farão jus a qualquer tipo de remuneração pela participação nas reuniões do Comitê, sendo considerado relevante serviço prestado à comunidade.
+
+
+§ 6º
+
+A Diretoria Executiva do CABOPREV prestará todo o apoio logístico necessário ao normal funcionamento do Comitê de Investimentos, inclusive disponibilizando um servidor para exercer as funções de secretário, cujas funções serão definidas em regimento interno.
+
+
+Art. 29.
+
+Compete ao Comitê de Investimentos:
+
+
+I –
+
+apoiar a Diretoria Executiva na elaboração da Política de Investimentos, avaliando cenários econômicos;
+
+
+II –
+
+definir e rever, periodicamente, dentro da Política de Investimentos aprovada pelo Conselho de Administração, as estratégias e diretrizes de curto prazo, que envolvam compra, venda e/ou realocação dos ativos das carteiras do CABOPREV;
+
+
+III –
+
+acompanhar o desempenho da carteira de investimentos do CABOPREV, em conformidade com os objetivos estabelecidos pela Política de Investimentos;
+
+
+IV –
+
+avaliar, pré-selecionar e recomendar a seleção de gestores, administradores e custodiantes de investimentos e estabelecer os critérios para a alocação e realocação dos ativos entre as diversas carteiras e gestores;
+
+
+V –
+
+solicitar das instituições financeiras, relatórios detalhados dos riscos e retornos das aplicações financeiras;
+
+
+VI –
+
+garantir a gestão ética e transparente do Comitê de Investimentos;
+
+
+VII –
+
+conduzir quaisquer outros assuntos necessários para assegurar a prudência dos investimentos do CABOPREV;
+
+
+Art. 30.
+
+Ao Presidente do Comitê de Investimentos compete:
+
+
+I –
+
+convocar reuniões do Comitê de Investimentos, estabelecendo a pauta dos assuntos a serem examinados a cada reunião;
+
+
+II –
+
+conduzir as reuniões do Comitê de Investimentos;
+
+
+III –
+
+manter o arquivo atualizado das atas das reuniões do Comitê de investimentos.
+
+
+Art. 31.
+
+Aos demais membros do Comitê de Investimentos competem:
+
+
+I –
+
+comparecer às reuniões habitualmente;
+
+
+II –
+
+votar sobre os assuntos submetidos ao Comitê;
+
+
+III –
+
+sugerir ao Presidente do Comitê de Investimentos a inclusão de assuntos na pauta das reuniões, podendo, inclusive, apresentá-los extrapauta, se a urgência assim o exigir.
+
+
+Art. 32.
+
+As reuniões e decisões do Comitê de Investimentos dar-se-ão da seguinte forma:
+
+
+I –
+
+reunião ordinária mensal e reuniões extraordinárias sempre que necessário;
+
+
+II –
+
+as reuniões deverão contar com a presença de, no mínimo, 3 (três) membros;
+
+
+III –
+
+as decisões dos membros deverão ser embasadas em pareceres, análises técnicas, econômicas, econômicas, financeiras e conjunturais, de instituições públicas ou privadas de reconhecida capacidade técnica, estando sempre em consonância com a Política de Investimentos do CABOPREV;
+
+
+IV –
+
+as matérias aprovadas deverão ser tomadas por maioria simples, sendo lavradas em atas e assinadas pelos membros do Comitê de Investimentos presentes, devendo ser arquivadas e disponibilizadas no endereço eletrônico do CABOPREV;
+
+
+V –
+
+podem participar do Comitê de Investimentos, como convidados, analistas das áreas envolvidas e servidores de outras áreas vinculadas ao RPPS.
+
+
+Art. 33.
+
+Qualquer dos membros poderá convocar reunião extraordinária do Comitê de Investimentos, se a urgência do assunto assim o exigir.
+
+
+Art. 34.
+
+O membro que faltar sem justificativa, a 03 (três) reuniões consecutivas ou 05 (cinco) reuniões intercaladas dentro do período de 12 (doze) meses, será excluído do Comitê de Investimentos.
+
+
+Parágrafo único
+
+No caso previsto no caput deste artigo, ocorrerá a vacância do cargo e deverá ser nomeado outro servidor que atenda às exigências previstas nesta seção no prazo de até 30 (trinta) dias.
+
+
+Art. 35.
+
+Os membros do Comitê de Investimentos não serão responsáveis, judicial ou administrativamente por prejuízos causados ao Instituto em decorrência dos investimentos realizados, salvo se estes foram motivados por posicionamentos contrários à Política de Investimentos ou outras normas legais ou regulamentares aplicáveis aos recursos previdenciários, ou se tais prejuízos decorrerem de atos dolosos de seus membros.
+
+
+Art. 36.
+
+As despesas decorrentes da consecução das diretrizes impostas pela Política de Investimentos e realizadas pelo CABOPREV com a anuência do Comitê de Investimentos correrão por conta de dotação orçamentária própria do CABOPREV, previstas em Lei.
+
+
+#### CAPÍTULO II — Do Plano de Benefícios
+
+
+Art. 37.
+
+O CABOPREV assegurará, nos termos desta Lei, a concessão dos seguintes benefícios de natureza previdenciária:
+
+I - Quanto ao segurado:
+
+a) aposentadoria por incapacidade permanente para o trabalho;
+
+b) aposentadoria compulsória;
+
+c) aposentadoria por idade e tempo de contribuição; e
+
+d) aposentadoria por idade.
+
+II - Quanto ao dependente:
+
+pensão por morte.
+
+**Art. 37-A.** Os benefícios de natureza temporária, não cobertos pelo Regime Próprio de Previdência Social - RPPS, são de responsabilidade do respectivo Poder ou órgão de lotação do servidor e serão custeados diretamente pelo Tesouro Municipal.
+
+**Parágrafo único.** Para os fins desta Lei, consideram-se benefícios de natureza temporária, previstos nos artigos 48 a 56 e art. 66 desta Lei:
+
+I - auxílio-doença;
+
+II - salário-maternidade;
+
+III - salário-família; e
+
+IV - auxílio-reclusão.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.100, de 12 de novembro de 2025.
+
+
+##### Seção I — Da Aposentadoria por Invalidez
+
+
+Art. 38.
+
+A aposentadoria por invalidez será devida ao segurado que, estando ou não em gozo de auxílio-doença, for considerado incapaz de readaptação para o exercício de seu cargo e ser-lhe-á paga a partir da data do laudo médico-pericial que declarar a incapacidade e enquanto permanecer nessa condição.
+
+
+§ 1º
+
+Os proventos da aposentadoria por invalidez serão proporcionais ao tempo de contribuição, exceto se decorrentes de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, hipóteses em que os proventos serão integrais, observado, quanto ao seu cálculo, à regra inserta na EC nº 70/2012.
+
+
+§ 2º
+
+Os proventos, quando proporcionais ao tempo de contribuição, não poderão ser inferiores a 70% (setenta por cento) do valor calculado na forma determinada pela EC nº 70/2012, não podendo, entretanto, ser inferior ao valor do salário mínimo legal vigente.
+
+
+§ 3º
+
+Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas no art. 45, ou pelas regras estabelecidas pelo art. 80 o segurado do RPPS que tiver ingressado por concurso público de provas ou de provas e títulos em cargo público efetivo na Administração Pública Direta, Autárquica e Fundacional da União, Estados, Distrito Federal e Municípios, até 31 de dezembro de 2003 e que tenha se aposentado ou venha a se aposentar por invalidez permanente, com fundamento no inciso I do § 1º do art. 40 da Constituição Federal, tem direito a proventos de aposentadoria calculados com base na remuneração do cargo efetivo em que se der a aposentadoria, na forma da lei, não sendo aplicáveis as disposições constantes dos §§ 3º, 8º e 17 do art. 40 da Constituição Federal.
+
+
+§ 4º
+
+Aplica-se ao valor dos proventos de aposentadorias concedidas com base no caput, o disposto no art. 62 da Lei Municipal n° 1.940/2005, de 22 de julho de 2005, observando-se igual critério de revisão às pensões derivadas dos proventos desses servidores.
+
+
+§ 5º
+
+Acidente em serviço é aquele ocorrido no exercício do cargo, que se relacione, direta ou indiretamente, com as atribuições deste, provocando lesão corporal ou perturbação funcional que cause a perda ou redução, permanente ou temporária, da capacidade para o trabalho.
+
+
+§ 6º
+
+Equiparam-se ao acidente em serviço, para os efeitos desta Lei:
+
+
+I –
+
+o acidente ligado ao serviço que, embora não tenha sido a causa única, haja contribuído diretamente para a redução ou perda da sua capacidade para o trabalho, ou produzido lesão que exija atenção médica para a sua recuperação;
+
+
+II –
+
+o acidente sofrido pelo segurado no local e no horário do trabalho, em consequência de:
+
+
+a)
+
+ato de agressão, sabotagem ou terrorismo praticado por terceiro ou companheiro de serviço;
+
+
+b)
+
+ofensa física intencional, inclusive de terceiro, por motivo de disputa relacionada ao serviço;
+
+
+c)
+
+ato de imprudência, de negligência ou de imperícia de terceiro ou de companheiro de serviço;
+
+
+d)
+
+ato de pessoa privada do uso da razão; e
+
+
+e)
+
+desabamento, inundação, incêndio e outros casos fortuitos ou decorrentes de força maior.
+
+
+III –
+
+a doença proveniente de contaminação acidental do segurado no exercício do cargo; e
+
+
+IV –
+
+o acidente sofrido pelo segurado ainda que fora do local e horário de serviço:
+
+
+a)
+
+na execução de ordem ou na realização de serviço relacionado ao cargo;
+
+
+b)
+
+na prestação espontânea de qualquer serviço ao Município para lhe evitar prejuízo ou proporcionar proveito;
+
+
+c)
+
+em viagem a serviço, inclusive para estudo quando financiada pelo Município dentro de seus planos para melhor capacitação da mão-de-obra, independentemente do meio de locomoção utilizado, inclusive veículo de propriedade do segurado; e
+
+
+d)
+
+no percurso da residência para o local de trabalho ou deste para aquela, qualquer que seja o meio de locomoção, inclusive veículo de propriedade do segurado.
+
+
+§ 7º
+
+Nos períodos destinados a refeição ou descanso, ou por ocasião da satisfação de outras necessidades fisiológicas, no local do trabalho ou durante este, o servidor é considerado no exercício do cargo.
+
+
+§ 8º
+
+Consideram-se doenças graves, contagiosas ou incuráveis, a que se refere o parágrafo segundo, aquelas constantes da relação vigente no RGPS, tais como: tuberculose ativa; hanseníase; alienação mental; esclerose múltipla, neoplasia maligna; cegueira; paralisia irreversível e incapacitante; cardiopatia grave; doença de Parkinson; espondiloartrose anquilosante; nefropatia grave; estado avançado da doença de Paget (osteíte deformante); hepatopatia grave; Síndrome da Deficiência Imunológica Adquirida – AIDS; e contaminação por radiação, com base em conclusão da medicina especializada e
+
+
+§ 9º
+
+A concessão de aposentadoria por invalidez ou sua cassação dependerá da verificação da condição de incapacidade, mediante exame médico-pericial a cargo da Junta Médica designada pelo CABOPREV.
+
+
+§ 10
+
+O pagamento do benefício de aposentadoria por invalidez decorrente de doença mental somente será feito ao curador do segurado, condicionado à apresentação do termo de curatela, ainda que provisório.
+
+
+§ 11
+
+O aposentado que voltar a exercer atividade laboral terá a aposentadoria por invalidez permanente cessada, a partir da data do retorno.
+
+
+§ 12
+
+Em caso de doença que impuser afastamento compulsório, com base em laudo conclusivo da medicina especializada, ratificado pela junta médica, a aposentadoria por invalidez independerá de auxílio doença e será devida a partir da publicação do ato de sua concessão.
+
+
+§ 13
+
+A aposentadoria por invalidez sujeita o beneficiário à realização de perícia periódica a fim de verificar a manutenção do status de inválido que gerou o benefício.
+
+
+##### Seção II — Da Aposentadoria Compulsória
+
+
+Art. 39.
+
+O segurado será aposentado aos 75 (setenta e cinco anos de idade) com proventos proporcionais ao tempo de contribuição, conforme Lei Complementar Nº 152, de 03 de dezembro de 2015.
+
+
+§ 1º
+
+A aposentadoria será declarada por ato, com vigência a partir do dia imediato àquele em que o servidor atingir a idade limite de permanência no serviço, não sendo considerado para nenhum efeito o tempo em que permanecer em atividade após aquela data.
+
+
+§ 2º
+
+Os proventos da aposentadoria compulsória serão equivalentes a um trinta e cinco avos, se homem, e um trinta avos, se mulher, por ano completo de contribuição previdenciária.
+
+
+##### Seção III — Da Aposentadoria por Idade e Tempo de Contribuição
+
+
+Art. 40.
+
+O segurado fará jus à aposentadoria voluntária por idade e tempo de contribuição com proventos integrais, desde que preencha, cumulativamente, os seguintes requisitos:
+
+
+I –
+
+tempo mínimo de 10 (dez) anos de efetivo exercício no serviço público;
+
+
+II –
+
+tempo mínimo de 05 (cinco) anos de efetivo exercício no cargo em que se dará a aposentadoria; e
+
+
+III –
+
+60 (sessenta) anos de idade e 35 (trinta e cinco) anos de tempo de contribuição, se homem, e 55 (cinqüenta e cinco) anos de idade e 30 (trinta) anos de tempo de contribuição, se mulher.
+
+
+§ 1º
+
+Os requisitos de idade e tempo de contribuição previstos neste artigo serão reduzidos em 05 (cinco) anos, para o professor que comprove exclusivamente tempo de efetivo exercício da função de magistério na educação infantil e no ensino fundamental e médio.
+
+
+§ 2º
+
+Para fins do disposto no parágrafo anterior, considera-se função de magistério a atividade docente do professor exercida exclusivamente em sala de aula.
+
+
+§ 3º
+
+É vedada a conversão de tempo de contribuição de magistério, exercido em qualquer época, em tempo de contribuição comum.
+
+
+##### Seção IV — Da Aposentadoria por Idade
+
+
+Art. 41.
+
+O segurado fará jus à aposentadoria por idade, com proventos proporcionais ao tempo de contribuição, calculados na forma prevista no art. 67, desde que preencha, cumulativamente, os seguintes requisitos:
+
+
+I –
+
+tempo mínimo de 10 (dez) anos de efetivo exercício no serviço público federal, estadual, distrital e municipal;
+
+
+II –
+
+tempo mínimo de 05 (cinco) anos de efetivo exercício no cargo em que se dará a aposentadoria; e
+
+
+III –
+
+65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta) anos de idade, se mulher.
+
+
+Parágrafo único
+
+Para o segurado que tenha preenchido o requisito previsto no inciso I deste artigo, mas que não tenha 5 (cinco) anos no cargo efetivo, poderá aposentar-se com a remuneração do cargo anteriormente ocupado, desde que tenha o tempo de 5 (cinco) anos neste cargo, cumulativamente com os demais requisitos fixados neste artigo.
+
+
+##### Seção V — Das Disposições Gerais sobre Aposentadoria
+
+
+Art. 42.
+
+Ressalvado o disposto nos Artigos 38 e 39, a aposentadoria vigorará a partir da data da publicação do respectivo ato.
+
+
+Art. 43.
+
+Para fim de concessão de aposentadoria pelo CABOPREV, é vedada a contagem de tempo de contribuição fictício.
+
+
+Art. 44.
+
+Ressalvadas as aposentadorias decorrentes de cargos acumuláveis na forma da Constituição Federal de 1988, será vedada a percepção de mais de uma aposentadoria por conta do CABOPREV.
+
+
+Art. 45.
+
+No cálculo dos proventos de aposentadoria dos servidores titulares de cargo efetivo, previsto no § 3° do Art. 40 da Constituição Federal de 1988, será considerada a média aritmética simples das maiores remunerações, utilizadas como base para as contribuições do servidor aos regimes de previdência a que esteve vinculado, correspondentes a oitenta por cento de todo o período contributivo desde a competência julho de 1994 ou desde a do início da contribuição, se posterior àquela competência.
+
+
+§ 1º
+
+As remunerações consideradas no cálculo do valor inicial dos proventos terão os seus valores atualizados, mês a mês, de acordo com a variação integral do índice fixado para a atualização dos salários-de-contribuição considerados no cálculo dos benefícios do regime geral da previdência social.
+
+
+§ 2º
+
+Na hipótese da não-instituição de contribuição para o regime próprio durante o período referido no caput, considerar-se-á, como base de cálculo dos proventos, a remuneração do servidor no cargo efetivo no mesmo período.
+
+
+§ 3º
+
+Os valores das remunerações a serem utilizadas no cálculo de que trata este artigo serão comprovados mediante documento fornecido pelos órgãos e entidades gestoras dos regimes próprios de previdência aos quais o servidor esteve vinculado.
+
+
+§ 4º
+
+Para os fins deste artigo, as remunerações consideradas no cálculo da aposentadoria não poderão ser:
+
+
+I –
+
+inferiores ao valor do salário mínimo;
+
+
+II –
+
+superiores aos valores dos limites máximos de remuneração no serviço público do respectivo ente;
+
+
+III –
+
+superiores ao limite máximo do salário-de-contribuição, quanto aos meses em que o servidor esteve vinculado ao regime geral de previdência social.
+
+
+§ 5º
+
+Os proventos, calculados de acordo com o caput, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.
+
+
+§ 6º
+
+Para o cálculo de proventos proporcionais ao tempo de contribuição, considerar-se-á a fração cujo numerador será o total desse tempo em anos civis e o denominador, o tempo necessário à respectiva aposentadoria voluntária, com proventos integrais, no cargo considerado.
+
+
+Art. 46.
+
+Será computado, integralmente, o tempo de contribuição no serviço público federal, estadual, distrital e municipal, prestado sob a égide de qualquer regime jurídico, bem como o tempo de contribuição junto ao Regime Geral de Previdência Social, na forma da Lei.
+
+
+Art. 47.
+
+O servidor que tenha completado as exigências para aposentadoria voluntária estabelecidas no §1°, III, a, do Art. 40 da Constituição Federal de 1988 e que opte por permanecer em atividade fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no § 1°, II, do mesmo artigo.
+
+
+##### Seção VI — Do Auxílio-Doença
+
+
+Art. 48.
+
+O auxílio-doença será devido ao segurado que ficar incapacitado para o seu trabalho por mais de 15 (quinze) dias consecutivos e consistirá no valor de 89% de seu último subsídio ou sua última remuneração de contribuição.
+
+
+I –
+
+Quando requerido por segurado afastado da atividade por mais de 30 (trinta) dias, o auxílio-doença será devido a contar da data da entrada do requerimento.
+
+
+§ 1º
+
+Será concedido auxílio-doença, a pedido ou de ofício, com base em inspeção médica, mediante a expedição de laudo médico-pericial circunstanciado.
+
+
+§ 2º
+
+Nos primeiros 15 (quinze) dias consecutivos de afastamento do segurado por motivo de doença, é responsabilidade do Município o pagamento da sua remuneração.
+
+
+§ 3º
+
+Findo o prazo do benefício, o segurado será submetido à nova inspeção médica, que concluirá pela volta ao serviço, pela prorrogação do auxílio-doença, pela readaptação ou pela aposentadoria por invalidez.
+
+
+§ 4º
+
+Se concedido novo benefício decorrente da mesma doença dentro dos sessenta dias seguintes à cessação do benefício anterior, este será prorrogado, ficando o Município desobrigado do pagamento relativo aos primeiros 15 (quinze) dias.
+
+
+Art. 49.
+
+O segurado em gozo de auxílio-doença, insusceptível de recuperação para exercício do seu cargo, ou de readaptação, deverá ser aposentado por invalidez.
+
+
+##### Seção VII — Do Salário-Maternidade
+
+
+Art. 50.
+
+Será devido salário-maternidade à segurada gestante, por 120 (cento e vinte) dias consecutivos, com início entre 28 (vinte e oito) dias antes do parto e a data de ocorrência deste.
+
+
+§ 1º
+
+Em casos excepcionais, os períodos de repouso anterior e posterior ao parto podem ser aumentados de mais duas semanas, mediante inspeção médica.
+
+
+§ 2º
+
+O salário-maternidade consistirá numa renda mensal igual ao último subsídio ou à última remuneração da segurada.
+
+
+§ 3º
+
+Em caso de aborto não criminoso, comprovado mediante atestado médico, a segurada terá direito ao salário-maternidade correspondente a duas semanas.
+
+
+§ 4º
+
+O salário-maternidade não poderá ser acumulado com benefício por incapacidade.
+
+
+Art. 51.
+
+À segurada que adotar, ou obtiver guarda judicial para fins de adoção de criança, é devido salário-maternidade pelos seguintes períodos:
+
+
+I –
+
+120 (noventa) dias, se a criança tiver até 02 (dois) anos de idade;
+
+
+II –
+
+60 (sessenta) dias, se a criança tiver entre 02 (dois) e 04 (quatro) anos de idade; e
+
+
+III –
+
+30 (trinta) dias, se a criança tiver de 04 (quatro) a 08 (oito) anos de idade.
+
+
+##### Seção VIII — Do Salário-Família
+
+
+Art. 52.
+
+O salário-família será concedido mensalmente ao segurado, por dependente de 0 (zero) a 14 (quatorze) anos de idade; por filho inválido ou excepcional sem limite de idade, pago na forma estabelecida para os segurados do Regime Geral de Previdência Social – RGPS.
+
+
+§ 1º
+
+O salário-família será pago mensalmente pelo órgão empregador e seu valor será deduzido da importância a ser recolhida pelo empregador, através da Guia de Recolhimento Mensal de Contribuições ao CABOPREV.
+
+
+§ 2º
+
+É considerado filho, para os efeitos deste artigo, o de qualquer condição, inclusive o adotivo e o enteado, a este equiparado o menor que, comprovadamente e mediante autorização judicial, viva sob a guarda e expensas do servidor.
+
+
+§ 3º
+
+Ao pai e à mãe, para efeito de percepção em nome dos dependentes, equiparam-se o padrasto, a madrasta e, na falta destes, os representantes legais dos incapazes e as pessoas sob cuja guarda e manutenção estiverem confiados, por autorização judicial.
+
+
+Art. 53.
+
+O valor da cota do salário-família por filho ou equiparado de qualquer condição é de:
+
+
+I –
+
+R$ 44,09 (quarenta e quatro reais e nove centavos), para o segurado com remuneração mensal não superior a R$ 859,88 (oitocentos e cinquenta e nove reais e oitenta e oito centavos);
+
+
+II –
+
+R$ 31,07 (trinta e um reais e sete centavos), para o segurado com remuneração igual ou superior a R$ 859,88 (oitocentos e cinquenta e nove reais e oitenta e oito centavos) e igual ou inferior a R$ 1.292,43 (hum mil, duzentos e noventa e dois reais e quarenta e três centavos).
+
+
+Parágrafo único
+
+Os valores referidos neste artigo serão corrigidos automaticamente pelos mesmos índices aplicados aos benefícios do Regime Geral da Previdência Social – RGPS.
+
+
+Art. 54.
+
+Quando pai e mãe forem segurados do CABOPREV, apenas um terá direito ao salário família, preferencialmente a mãe.
+
+
+Parágrafo único
+
+Em caso de divórcio, separação judicial ou de fato dos pais, ou em caso de abandono legalmente caracterizado ou perda do poder familiar, o salário-família passará a ser pago diretamente àquele a cujo cargo ficar o sustento do menor.
+
+
+Art. 55.
+
+O pagamento do salário-família está condicionado à apresentação da certidão de nascimento do filho e/ou da documentação relativa ao equiparado ou ao inválido; e à apresentação semestral de atestado de vacinação obrigatória e de comprovação de freqüência à escola do filho ou equiparado nos termos da legislação aplicável.
+
+
+Art. 56.
+
+O salário-família não se incorporará ao subsídio, à remuneração ou ao benefício para qualquer efeito.
+
+
+##### Seção IX — Da Pensão por Morte
+
+
+Art. 57.
+
+A pensão por morte consistirá numa importância mensal conferida ao conjunto dos dependentes do segurado, quando do seu falecimento.
+
+
+§ 1º
+
+Será concedida pensão provisória por morte presumida do segurado, nos seguintes casos:
+
+
+I –
+
+sentença declaratória de ausência, expedida por autoridade judiciária competente; e
+
+
+II –
+
+desaparecimento em acidente, desastre ou catástrofe.
+
+
+§ 2º
+
+A pensão provisória será transformada em definitiva com o óbito do segurado ausente ou deve ser cancelada com reaparecimento do mesmo, ficando os dependentes desobrigados da reposição dos valores recebidos, salvo má-fé.
+
+
+Art. 58.
+
+A pensão por morte será devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não, a contar da data:
+
+
+I –
+
+da data do óbito quando requerida até 30 (trinta) dias após esse evento ou da data do protocolo de requerimento quando posteriormente;
+
+
+II –
+
+da data da decisão judicial, no caso de declaração de ausência; ou
+
+
+III –
+
+da data da ocorrência do desaparecimento do segurado por motivo de acidente, desastre ou catástrofe, mediante prova idônea.
+
+
+Art. 59.
+
+Perde o direito à Pensão por Morte:
+
+
+I –
+
+Após o trânsito em julgado, o condenado pela prática de crime de que tenha dolosamente resultado a morte do segurado;
+
+
+II –
+
+O cônjuge, o companheiro ou a companheira se comprovada, a qualquer tempo, simulação ou fraude no casamento ou na união estável, ou a formalização desses com o fim exclusivo de constituir benefício previdenciário, apuradas em processo judicial no qual será assegurado o direito ao contraditório e à ampla defesa.
+
+
+Art. 60.
+
+No que tange à cota individual, sua percepção cessará:
+
+
+I –
+
+Para filho, pessoa a ele equiparada ou irmão, de ambos os sexos, ao completar 21 (vinte e um) anos de idade, salvo se for inválido ou com deficiência;
+
+
+II –
+
+Para filho ou irmão inválido, pela cessação da invalidez;
+
+
+III –
+
+Para filho ou irmão que tenha deficiência intelectual ou mental ou deficiência grave, pelo afastamento da deficiência, nos termos do regulamento;
+
+
+IV –
+
+Para cônjuge ou companheiro:
+
+
+a)
+
+se inválido ou com deficiência, pela cessação da invalidez ou pelo afastamento da deficiência, respeitados os períodos mínimos decorrentes da aplicação das alíneas “b” e “c”;
+
+
+b)
+
+em 4 (quatro) meses, se o óbito ocorrer sem que o segurado tenha vertido 18 (dezoito) contribuições mensais ou se o casamento ou a união estável tiverem sido iniciados em menos de 2 (dois) anos antes do óbito do segurado;
+
+
+c)
+
+transcorridos os seguintes períodos, estabelecidos de acordo com a idade do beneficiário na data de óbito do segurado, se o óbito ocorrer depois de vertidas 18 (dezoito) contribuições mensais e pelo menos 2 (dois) anos após o início do casamento ou da união estável:
+
+
+1
+
+3 (três) anos, com menos de 21 (vinte e um) anos de idade;
+
+
+2
+
+6 (seis) anos, entre 21 (vinte e um) e 26 (vinte e seis) anos de idade;
+
+
+3
+
+10 (dez) anos, entre 27 (vinte e sete) e 29 (vinte e nove) anos de idade;
+
+
+4
+
+15 (quinze) anos, entre 30 (trinta) e 40 (quarenta) anos de idade;
+
+
+5
+
+20 (vinte) anos, entre 41 (quarenta e um) e 43 (quarenta e três) anos de idade;
+
+
+6
+
+vitalícia, com 44 (quarenta e quatro) ou mais anos de idade.
+
+
+Art. 61.
+
+O valor da pensão por morte será igual:
+
+
+I –
+
+à totalidade dos proventos percebidos pelo aposentado na data anterior à do óbito, até o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social, acrescido de 70% (setenta por cento) da parcela excedente a este limite; ou
+
+
+II –
+
+à totalidade da remuneração de contribuição percebida pelo servidor no cargo efetivo na data anterior à do óbito, até o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social, acrescido de 70% (setenta por cento) da parcela excedente a este limite.
+
+
+Parágrafo único
+
+Aos servidores falecidos anteriormente a 19 de fevereiro de 2004, o valor da pensão por morte será igual ao valor dos proventos do servidor falecido ou ao valor dos proventos a que teria direito o servidor em atividade na data de seu falecimento.
+
+
+Art. 62.
+
+A pensão será rateada entre todos os dependentes em partes iguais na hipótese de haver mais de um pensionista e não será protelada pela falta de habilitação de outro possível dependente.
+
+
+§ 1º
+
+O cônjuge ausente não exclui do direito à pensão por morte o companheiro ou a companheira, que somente fará jus ao benefício mediante prova de dependência econômica.
+
+
+§ 2º
+
+A habilitação posterior que importe inclusão ou exclusão de dependente só produzirá efeitos a contar da data da inscrição ou habilitação.
+
+
+§ 3º
+
+Reverterá em favor dos demais a parte daquele cujo direito à pensão cessar.
+
+
+§ 4º
+
+Na hipótese do servidor falecer quando afastado ou licenciado sem percepção de remuneração, a concessão do benefício de pensão por morte fica condicionada ao pagamento das contribuições previdenciárias do período respectivo, cuja responsabilidade do pagamento é exclusiva do beneficiário.
+
+
+§ 5º
+
+O pensionista de que trata o § 1º do art. 57 deverá anualmente declarar que o segurado permanece desaparecido, ficando obrigado a comunicar imediatamente ao gestor do CABOPREV o reaparecimento deste, sob pena de ser responsabilizado civil, penalmente pelo.
+
+
+Art. 63.
+
+A pensão poderá ser requerida a qualquer tempo, observado o disposto no art. 68.
+
+
+Art. 64.
+
+Será admitido o recebimento, pelo dependente, de até duas pensões no âmbito do CABOPREV, exceto a pensão deixada por cônjuge, companheiro ou companheira que só será permitida a percepção de uma, ressalvado o direito de opção pela mais vantajosa.
+
+
+Art. 65.
+
+A condição legal de dependente, para fins desta Lei, é aquela verificada na data do óbito do segurado, observados os critérios de comprovação de dependência econômica do art. 8º a 10 desta Lei.
+
+
+§ 1º
+
+A invalidez ou a alteração de condições quanto ao dependente, supervenientes à morte do segurado, não darão origem a qualquer direito à pensão.
+
+
+§ 2º
+
+O dependente menor de idade, que se invalidar antes de completar 18 (dezoito) anos de idade, deverá ser submetido a exame médico-pericial, não se extinguindo a respectiva parcela se confirmada a invalidez permanente.
+
+
+§ 3º
+
+Os valores referidos neste artigo serão corrigidos pelos mesmos índices aplicados aos benefícios do Regime Geral da Previdência Social - RGPS.
+
+
+##### Seção X — Do Auxílio-Reclusão
+
+
+Art. 66.
+
+O auxílio-reclusão consistirá numa importância mensal, concedida aos dependentes do servidor segurado recolhido à prisão que tenha remuneração ou subsídio igual ou inferior a R$ 1.292,43 (um mil duzentos e noventa e dois reais e quarenta e três centavos), que não perceber remuneração dos cofres públicos.
+
+
+§ 1º
+
+O valor limite referido no caput será corrigido automaticamente pelos mesmos índices aplicados aos benefícios do Regime Geral da Previdência Social – RGPS.
+
+
+§ 2º
+
+O auxílio-reclusão será rateado em cotas-partes iguais entre os dependentes do segurado.
+
+
+§ 3º
+
+O auxílio-reclusão será devido a contar da data em que o segurado preso deixar de perceber dos cofres públicos.
+
+
+§ 4º
+
+Na hipótese de fuga do segurado, o benefício será restabelecido a partir da data da recaptura ou da reapresentação à prisão, nada sendo devido aos seus dependentes enquanto estiver o segurado evadido e pelo período da fuga.
+
+
+§ 5º
+
+Para a instrução do processo de concessão deste benefício, além da documentação que comprovar a condição de segurado e de dependentes, serão exigidos:
+
+
+I –
+
+documento que certifique o não pagamento do subsídio ou da remuneração ao segurado pelos cofres públicos, em razão da prisão; e
+
+
+II –
+
+certidão emitida pela autoridade competente sobre o efetivo recolhimento do segurado à prisão e o respectivo regime de cumprimento da pena, sendo tal documento renovado trimestralmente.
+
+
+§ 6º
+
+Caso o segurado venha a ser ressarcido com o pagamento da remuneração correspondente ao período em que esteve preso, e seus dependentes tenham recebido auxílio-reclusão, o valor correspondente ao período de gozo do benefício deverá ser restituído ao Fundo pelo segurado ou por seus dependentes, aplicando-se os juros e índices de correção incidentes no ressarcimento da remuneração.
+
+
+§ 7º
+
+Aplicar-se-ão ao auxílio-reclusão, no que couberem, as disposições atinentes à pensão por morte.
+
+
+§ 8º
+
+Se o segurado preso vier a falecer na prisão, o benefício será transformado em pensão por morte.
+
+
+##### Seção XI — Do Abono Anual
+
+
+Art. 67.
+
+O abono anual será devido àquele que, durante o ano, tiver recebido proventos de aposentadoria, pensão por morte, auxílio-reclusão, salário-maternidade ou auxílio-doença pagos pelo CABOPREV, observando-se, em todo o caso, a proporcionalidade.
+
+
+Parágrafo único
+
+O abono de que trata o caput será proporcional em cada ano ao número de meses de benefício pago pelo CABOPREV, em que cada mês corresponderá a um doze avos, e terá por base o valor do benefício do mês de dezembro, exceto quando o benefício encerrar-se antes deste mês, quando o valor será o do mês da cessação.
+
+
+##### Seção XII — Das Disposições Gerais sobre os Benefícios
+
+
+Art. 68.
+
+Prescreve em 5 (cinco) anos, a contar da data em que deveriam ter sido pagas, toda e qualquer ação do beneficiário para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pelo CABOPREV, salvo o direito dos menores, incapazes e ausentes, na forma do Código Civil
+
+
+Art. 69.
+
+O segurado aposentado por invalidez permanente e o dependente inválido, independentemente de sua idade, deverão, sob pena de suspensão do benefício, submeter-se anualmente a exame médico a cargo do órgão competente.
+
+
+Art. 70.
+
+Qualquer dos benefícios previstos nesta Lei será pago diretamente ao beneficiário.
+
+
+§ 1º
+
+O disposto no caput não se aplica na ocorrência das seguintes hipóteses, devidamente comprovadas:
+
+
+I –
+
+ausência, na forma da lei civil;
+
+
+II –
+
+moléstia contagiosa; ou
+
+
+III –
+
+impossibilidade de locomoção.
+
+
+§ 2º
+
+Na hipótese prevista no parágrafo anterior, o beneficiário poderá ser pago a procurador legalmente constituído, cujo mandato específico não exceda de 12 (doze) meses, renováveis.
+
+
+§ 3º
+
+O procurador do beneficiário, outorgado por instrumento público, deverá firmar termo de responsabilidade mediante o qual se comprometa a comunicar qualquer evento que possa retirar a eficácia da procuração, principalmente o óbito do outorgante.
+
+
+§ 4º
+
+O valor não recebido em via pelo segurado será pago somente aos seus dependentes habilitados à pensão por morte, ou, na falta deles, aos seus sucessores, independentemente de inventário ou arrolamento, na forma da lei.
+
+
+§ 5º
+
+O benefício devido ao participante ou dependente civilmente incapaz será pago, na ausência de determinação judicial específica, ao cônjuge, mãe, pai, tutor ou curador, conforme o caso.
+
+
+Art. 71.
+
+Serão descontados dos benefícios pagos aos segurados e aos dependentes:
+
+
+I –
+
+a contribuição prevista no inciso II do Art. 94;
+
+
+II –
+
+o valor devido pelo beneficiário ao Município;
+
+
+III –
+
+o valor da restituição do que tiver sido pago indevidamente pelo CABOPREV;
+
+
+IV –
+
+o imposto de renda retido na fonte;
+
+
+V –
+
+a pensão alimentícia determinada por decisão judicial;
+
+
+VI –
+
+as contribuições associativas ou sindicais autorizadas pelos beneficiários; e
+
+
+VII –
+
+os valores relativos a empréstimos consignados realizados e autorizados pelos beneficiários.
+
+
+Art. 72.
+
+Em conformidade com o Art. 40, § 3°, da Constituição Federal, é assegurado o reajustamento dos benefícios para preservar-lhes em caráter permanente, o valor real, conforme critérios estabelecidos em Lei.
+
+
+Parágrafo único
+
+Observado o disposto no Art. 37, XI, da Constituição Federal de 1988, os proventos de aposentadoria dos servidores públicos titulares de cargo efetivo e as pensões dos seus dependentes, em fruição até 21 de dezembro de 2003, bem como os proventos de aposentadoria dos servidores e as pensões dos dependentes abrangidos pelo Art. 3° da Emenda Constitucional n° 41/2003, serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da Lei.
+
+
+Art. 73.
+
+Salvo em caso de divisão entre aqueles que a ele fizerem jus e na hipótese dos Arts. 52 a 56, nenhum benefício previsto nesta Lei terá valor inferior a um salário-mínimo.
+
+
+Art. 74.
+
+Na hipótese do inciso II do Art. 6°, o servidor mantém a qualidade de segurado, independentemente de contribuição, até 12 (doze) meses após a cessação das contribuições.
+
+
+Parágrafo único
+
+O prazo a que se refere o caput será prorrogado por mais de 12 (doze) meses, caso o servidor tenha tempo de contribuição igual ou superior a 120 (cento e vinte) meses.
+
+
+Art. 75.
+
+Concedida a aposentadoria ou pensão será o ato publicado e encaminhado à apreciação do Tribunal de Contas do Estado de Pernambuco – TCE/PE.
+
+
+§ 1º
+
+O CaboPrev terá o prazo de 60 dias, contados a partir da data do requerimento de aposentadoria ou pensão, para se manifestar sobre seu deferimento ou indeferimento.
+
+
+§ 2º
+
+Após expedição da portaria e enquanto o processo de aposentadoria tramitar perante o TCE/PE, o servidor permanecerá em atividade, vinculado ao seu órgão, sendo mantida a contribuição patronal e do servidor, ambas a cargo do Tesouro Municipal, não sendo em tal período computado contagem de tempo de contribuição;
+
+
+§ 3º
+
+Após a homologação do processo de aposentadoria pelo TCE/PE, o pagamento dos proventos do servidor ficará a cargo do CaboPrev, ficando o Ente Municipal dispensado das contribuições citadas no parágrafo primeiro;
+
+
+§ 4º
+
+Caso o ato de concessão não seja julgado legal pelo TCE/PE, o processo de benefício será imediatamente revisto e promovidas as medidas administrativas saneadoras e jurídicas pertinentes.
+
+
+§ 5º
+
+Na hipótese prevista no parágrafo terceiro será garantido ao servidor a contagem do tempo de contribuição do período compreendido entre a expedição da portaria e o julgamento ilegal pelo TCE/PE.
+
+
+Art. 76.
+
+Fica vedada a celebração de convênio, consórcio ou outra forma de associação para a concessão de benefícios previdenciários de que trata esta Lei com a União, Estado, Distrito Federal e outro Município da Federação.
+
+
+Art. 77.
+
+É vedada, nos termos da EC n° 47, de 05 de julho de 2005, a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados, de acordo com os critérios definidos em leis complementares, os casos de servidores:
+
+
+I –
+
+portadores de deficiência;
+
+
+II –
+
+que exerçam atividade de risco;
+
+
+III –
+
+cujas atividades sejam exercidas sob as condições especiais que prejudiquem a saúde ou a integridade física.
+
+
+##### Seção XIII — Das Regras de Transição
+
+
+Art. 78.
+
+Observado o disposto no Art. 4° da Emenda Constitucional n° 20, de 15 de dezembro de 1998, é assegurado o direito de opção pela aposentadoria voluntária com proventos calculados de acordo com o Art. 40, §§ 3° e 17, da Constituição Federal de 1988, àquele que tenha ingressado regularmente em cargo efetivo na administração pública direta, autárquica e fundacional, até a data de publicação daquela Emenda Constitucional, quando o servidor, cumulativamente:
+
+
+I –
+
+tiver 53 (cinquenta e três) anos de idade, se homem, e 48 (quarenta e oito) anos de idade, se mulher;
+
+
+II –
+
+tiver 5 (cinco) anos de efetivo exercício no cargo em que se der a aposentadoria;
+
+
+III –
+
+contar tempo de contribuição igual, no mínimo, à soma de:
+
+
+a)
+
+35 (trinta e cinco) anos, se homem, e 30 (trinta) anos, se mulher; e
+
+
+b)
+
+Um período adicional de contribuição equivalente a 20% (vinte por cento) do tempo que, na data de publicação daquela Emenda, faltaria para atingir o limite de tempo constante da alínea “a” deste inciso.
+
+
+§ 1º
+
+O servidor de que trata este artigo que cumprir as exigências para aposentadoria na forma do caput terá os seus proventos de inatividade reduzidos para cada ano antecipado em relação aos limites de idade estabelecidos pelo Art. 40, § 1°, III, a, e § 5° da Constituição Federal de 1988, na seguinte proporção:
+
+
+I –
+
+3,05% (três inteiros e cinco décimos por cento), para aquele que completar as exigências para aposentadoria na forma do caput até 31 de dezembro de 2005;
+
+
+II –
+
+5,00% (cinco por cento), para aquele que completar as exigências para aposentadoria na forma do caput a partir de 1° de janeiro de 2006.
+
+
+§ 2º
+
+Na aplicação do disposto neste artigo, o segurado professor, de qualquer nível de ensino, que, até 16 de dezembro de 1988, tiver ingressado, por concurso público de provas ou de provas e títulos em cargo de provimento efetivo de magistério e que optar por se aposentar terá o tempo de serviço exercido até essa data contado com acréscimo de 17% (dezessete por cento), se homem, e de 20% (vinte por cento), se mulher, desde que venha a se aposentar exclusivamente com o tempo de efetivo exercício das funções de magistério, nos termos do § 2° do Art. 40.
+
+
+Art. 79.
+
+É assegurada a concessão de aposentadoria e pensão, a qualquer tempo, aos segurados e seus dependentes, que, até 16 de dezembro de 1988, tenham cumprido os requisitos para a obtenção destes benefícios, com base nos critérios da legislação então vigente.
+
+
+§ 1º
+
+Os proventos da aposentadoria a ser concedida aos segurados referidos no caput, tem termos integrais ou proporcionais ao tempo de serviço já exercido até 16 de dezembro de 1988, bem como as pensões de seus dependentes, serão calculadas de acordo com a legislação em vigor à época em que foram atendidas as prescrições nela estabelecidas para a concessão desses benefícios ou nas condições da legislação vigente.
+
+
+§ 2º
+
+São mantidos todos os direitos e garantias assegurados nas disposições constitucionais vigentes em 16 de dezembro de 1998 aos beneficiários, assim como àqueles que já cumpriram, até aquela data, os requisitos para usufruírem tais direitos, observado o disposto no inciso XI do Art. 37 da Constituição Federal.
+
+
+Art. 80.
+
+Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas pelo Art. 40 da Constituição Federal de 1988 ou pelas regras estabelecidas pelo Art. 2° da Emenda Constitucional n° 41, o segurado, que tenha ingressado no serviço público até a data de publicação daquela Emenda poderá aposentar-se com proventos integrais, que corresponderão à totalidade da remuneração do servidor no cargo efetivo em que se der a aposentadoria, na forma da Lei, quando, observadas as reduções de idade e tempo de contribuição contidas no § 5° do Art. 40 da Constituição Federal de 1988, vier a preencher, cumulativamente, as seguintes condições:
+
+
+I –
+
+60 (sessenta) anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher;
+
+
+II –
+
+35 (trinta e cinco) anos de contribuição, se homem, e 30 (trinta) anos de contribuição, se mulher;
+
+
+III –
+
+20 (vinte) anos de efetivo exercício no serviço público; e
+
+
+IV –
+
+10 (dez) anos de carreira e 5 (cinco) anos de efetivo exercício no cargo em que se der a aposentadoria.
+
+
+Parágrafo único
+
+Aos proventos das aposentadorias concedidas conforme este artigo aplicam-se as disposições contidas no Art. 7° da Emenda Constitucional n° 41.
+
+
+Art. 81.
+
+Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas pelo art. 40 da Constituição Federal ou pelas regras estabelecidas pelos arts. 2º e 6º da Emenda Constitucional nº 41, de 2003, o servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até 16 de dezembro de 1998 poderá aposentar-se com proventos integrais, desde que preencha, cumulativamente, as seguintes condições:
+
+
+I –
+
+35 (trinta e cinco) anos de contribuição, se homem, e 30 (trinta) anos de contribuição, se mulher;
+
+
+II –
+
+25 (vinte e cinco) anos de efetivo exercício no serviço público, 15 (quinze) anos de carreira e 5 (cinco) anos no cargo em que se der a aposentadoria;
+
+
+III –
+
+idade mínima resultante da redução, relativamente aos limites do Art. 40, § 1°, inciso III, alínea “a”, da Constituição Federal de 1988, de 1 (um) ano de idade para cada ano de contribuição que exceder a condição prevista no inciso I do caput deste artigo.
+
+
+Parágrafo único
+
+Aplica-se ao valor dos proventos de aposentadorias concedidas com base neste artigo o disposto no Art. 7° da Emenda Constitucional n° 41 de 2003, observando-se igual critério de revisão às pensões derivadas dos proventos de servidores falecidos que tenham se aposentado em conformidade com este artigo.
+
+
+Art. 82.
+
+A vedação prevista no § 10 do Art. 37, da Constituição Federal de 1988, não se aplica aos membros de poder e aos aposentados e servidores que, até 16 de dezembro de 1988, tenham ingressado novamente no serviço público por concurso público de prova ou de provas e títulos, e pelas demais formas previstas pela Constituição Federal de 1988, sendo-lhes proibida a percepção de mais de uma aposentadoria pelo regime de previdência a que se refere o Art. 40 da Constituição Federal de 1988, aplicando-se-lhes, em qualquer hipótese, o limite de que trata o § 11 deste mesmo artigo.
+
+
+Art. 83.
+
+O tempo de serviço, considerado pela legislação vigente, para efeito de aposentadoria, será contado como tempo de contribuição, excluído o tempo fictício.
+
+
+Art. 84.
+
+Reconhecimento do tempo de filiação é o direito do participante de ver a si atribuído, em qualquer época, o tempo de exercício de atividade anteriormente abrangida pelo Regime Próprio de Previdência Social do Município, por outro Regime Próprio de Previdência Social ou pelo Regime Geral de Previdência Social
+
+
+##### Seção XIV — Da Justificação Administrativa
+
+
+Art. 85.
+
+A justificação administrativa constitui recurso utilizado para suprir a falta ou insuficiência de documento ou produzir prova de fato ou circunstância de interesse dos participantes ou beneficiários, perante o CABOPREV.
+
+
+§ 1º
+
+Não será admitida a justificação administrativa quando o fato a comprovar exigir registro público de casamento, de idade ou de óbito, ou de qualquer ato jurídico para o qual a lei prescreva forma especial.
+
+
+§ 2º
+
+O processo de justificação administrativa é parte de processo antecedente, vedada sua tramitação na condição de processo autônomo.
+
+
+Art. 86.
+
+A justificação administrativa somente produzirá efeito quando baseada em início de prova material, não sendo admitida prova exclusivamente testemunhal.
+
+
+§ 1º
+
+É dispensado o início de prova material quando houver ocorrência de motivo de força maior ou caso fortuito.
+
+
+§ 2º
+
+Caracteriza motivo de força maior ou caso fortuito a verificação de ocorrência notória, tais como incêndio, inundação ou desmoronamento que tenha agido o órgão ou entidade na qual o participante alegue ter trabalhado, devendo ser comprovada mediante registro da ocorrência policial feito em época própria ou apresentação de documentos contemporâneos aos fatos, e verificada a correlação entre a atividade da empresa e a profissão do participante, quando for o caso.
+
+
+Art. 87.
+
+A homologação da justificação judicial processada com base em prova exclusivamente testemunhal dispensa a justificação administrativa, se complementada com início razoável de prova material.
+
+
+Art. 88.
+
+Para o processamento de justificação administrativa, o interessado deverá apresentar requerimento que exponha, clara e minuciosamente, os pontos que pretende justificar, indicando testemunhas idôneas, em número não inferior a 3 (três) nem superior a 6 (seis), cujos depoimentos possam levar à convicção da veracidade do que se pretende comprovar.
+
+
+Parágrafo único
+
+As testemunhas, no dia e hora marcados, serão inquiridas a respeito dos pontos que forem objeto da justificação, indo o processo concluso, a seguir, à autoridade que houver designado o processante, a quem competirá homologar ou não a justificação realizada.
+
+
+Art. 89.
+
+Não podem ser testemunhas as pessoas absolutamente incapazes e os ascendentes, descendentes ou colaterais, até o terceiro grau, por consanguinidade ou afinidade.
+
+
+Art. 90.
+
+Não caberá recurso da decisão da Diretoria-Executiva do CABOPREV que considerar eficaz ou ineficaz a justificação administrativa.
+
+
+Art. 91.
+
+A justificação administrativa será avaliada globalmente quanto à forma e ao mérito, valendo perante o CABOPREV para os fins especificamente visados, caso considerada eficaz.
+
+
+Art. 92.
+
+A justificação administrativa será processada sem ônus para o interessado e nos termos das instruções do CABOPREV aplicáveis.
+
+
+Art. 93.
+
+Somente será admitido o processamento de justificação administrativa na hipótese de ficar evidenciada a inexistência de outro meio capaz de configurar a verdade do fato alegado e o início de prova material apresentado levar à convicção do que se pretende comprovar.
+
+
+#### CAPÍTULO III — Do Plano de Custeio
+
+
+##### Seção I — Das Fontes de Financiamento
+
+
+Art. 94.
+
+São fontes de custeio do CABOPREV:
+
+
+I –
+
+contribuição previdenciária dos Poderes do Município, das suas autarquias e das suas fundações;
+
+
+II –
+
+contribuição previdenciária dos segurados;
+
+
+III –
+
+doações, subvenções e legados;
+
+
+IV –
+
+receitas decorrentes de aplicações financeiras e investimentos patrimoniais;
+
+
+V –
+
+valores recebidos a título de compensação financeira, em razão do disposto no Art. 201, § 9°, da Constituição Federal de 1988; e
+
+
+VI –
+
+demais dotações previstas no orçamento municipal.
+
+
+VII –
+
+de receitas, bens, direitos de fundos criados com objetivo de custear o equilíbrio atuarial do Regime Próprio de Previdência Social.
+
+
+§ 1º
+
+Constituem também fontes do plano de custeio as contribuições previdenciárias previstas nos incisos I e II incidentes sobre o abono anual, salário-maternidade e os valores pagos ao segurado pelo seu vínculo com o Município em razão de decisão judicial ou administrativa.
+
+
+§ 2º
+
+As contribuições de que trata este artigo somente poderão ser utilizadas para pagamento de benefícios previdenciários e dos custos relativos à taxa de administração do CABOPREV.
+
+
+§ 3º
+
+Os recursos do CABOPREV serão depositados em conta distinta do Tesouro Municipal.
+
+
+§ 4º
+
+As aplicações financeiras dos recursos mencionados neste artigo atenderão as resoluções do Conselho Monetário Nacional, sendo vedada a aplicação em títulos públicos, excetos os títulos públicos federais, bem como a utilização desses recursos para empréstimo de qualquer natureza.
+
+
+§ 5º
+
+O valor anual da taxa de administração mencionada no parágrafo segundo será de 2% (dois por cento) do valor total da remuneração, subsídios, proventos e pensões pagos aos segurados e beneficiários do CABOPREV no exercício financeiro anterior.
+
+
+Art. 95.
+
+As alíquotas de contribuição previdenciária de que tratam os incisos I e II do artigo anterior são de:
+
+
+I –
+
+no caso dos segurados ativos admitidos antes de 27 de setembro de 2005:
+
+
+a)
+
+22% (vinte e dois por cento) da remuneração de contribuição definida no art. 2°, inciso X, para os Poderes do Município, suas autarquias e suas fundações;
+
+
+b)
+
+14,00% (catorze por cento) da remuneração de contribuição definida no Art. 2°, inciso X, para os segurados;
+
+
+II –
+
+no caso dos segurados ativos admitidos a partir de 27 de setembro de 2005:
+
+
+a)
+
+22,00% (vinte e dois por cento) da remuneração de contribuição definida no art. 2°, inciso X, para os Poderes do Município, suas autarquias e suas fundações;
+
+
+b)
+
+14,00% (catorze por cento) da remuneração de contribuição definida no Art. 2°, inciso X, para os segurados;
+
+
+III –
+
+no caso dos segurados aposentados e pensionistas, 14,00% (catorze por cento) do valor da parcela dos proventos e pensões concedidos pelo CABOPREV, que supere o limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social, de que trata o Art. 201 da Constituição Federal de 1988, exceto nos casos nos quais o beneficiário, na forma da Lei, for portador de doença incapacitante, hipótese em que a contribuição só será aplicada sobre a parcela que superar o dobro do limite máximo estabelecido pelo Regime Geral de Previdência Social.
+
+
+§ 1º
+
+O abono anual será considerado, para fim contributivo, separadamente da remuneração de contribuição relativa ao mês em que for pago.
+
+
+§ 2º
+
+Para o segurado em regime de acumulação remunerada de cargos previsto na Constituição Federal de 1988, considerar-se-á o somatório da remuneração de contribuição referente a cada cargo.
+
+
+§ 3º
+
+A responsabilidade pelo recolhimento ou repasse das contribuições previstas nos incisos I e II do Art. 94 será do dirigente máximo do órgão ou entidade em que o segurado estiver vinculado e ocorrerá até o quinto dia útil do mês subsequente ao do pagamento do subsídio, da remuneração, do abono anual e da decisão judicial ou administrativa.
+
+
+Art. 96.
+
+O plano de custeio do CABOPREV será revisto anualmente por atuário inscrito no Instituto Brasileiro de Atuária – IBA, observadas as normas gerais de atuária, objetivando a manutenção de seu equilíbrio financeiro e atuarial.
+
+
+§ 1º
+
+As reavaliações atuariais serão encaminhadas aos órgãos competentes nos prazos estabelecidos na legislação vigente.
+
+
+§ 2º
+
+O plano de custeio poderá ser revisto por decreto do poder executivo, tanto para alíquotas patronal, como do segurado e suplementares.
+
+
+Art. 97.
+
+O servidor afastado ou licenciado do cargo, sem remuneração ou subsídio, poderá contar o respectivo tempo de afastamento ou licenciamento para fim de aposentadoria, mediante o recolhimento das contribuições previdenciárias estabelecidas nos incisos I e II do Art. 94.
+
+
+Parágrafo único
+
+As contribuições a que se refere o caput serão recolhidas diretamente pelo servidor, ressalvadas as hipóteses do Art. 98.
+
+
+Art. 98.
+
+O recolhimento das contribuições mencionadas nos incisos I e II do Art. 94 é de responsabilidade do órgão ou entidade em que o servidor estiver em exercício, nos seguintes casos:
+
+
+I –
+
+cedido para outro órgão ou entidade da administração direta ou indireta da União, dos Estados, do Distrito Federal ou dos Municípios;
+
+
+II –
+
+investido em mandato eletivo federal, estadual, distrital ou municipal, nos termos do Art. 38 da Constituição Federal de 1988, desde que o afastamento do cargo se dê com prejuízo da remuneração ou subsídio.
+
+
+Parágrafo único
+
+Na hipótese prevista no inciso I quando houver opção do servidor pela remuneração ou subsídio do cargo efetivo, o órgão ou entidade cessionária recolherá somente a contribuição prevista no inciso I, do Art. 94.
+
+
+Art. 99.
+
+Nas hipóteses de que tratam os Arts. 95 e 96, a remuneração de contribuição corresponderá à remuneração ou subsídio relativo ao cargo de que o segurado é titular, calculada na forma do Art. 95.
+
+
+Art. 100.
+
+Nos casos dos Arts. 97 e 98, as contribuições previdenciárias previstas nos incisos I e II do Art. 94 deverão ser recolhidas até o dia quinze do mês seguinte àquele a que as contribuições se referirem, prorrogando-se o vencimento para o dia útil subsequente quando não houver expediente bancário na data do vencimento.
+
+
+Parágrafo único
+
+Na hipótese de alteração na remuneração de contribuição, a complementação do recolhimento de que trata o caput ocorrerá no mês subsequente.
+
+
+Art. 101.
+
+A contribuição previdenciária recolhida ou repassada em atraso, os valores originais serão atualizados pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA/IBGE), acrescido de juros simples de 0,50% (meio por cento) ao mês e multa de 1,00% (hum por cento), acumulados desde a data de vencimento até a data do pagamento.
+
+
+§ 1º
+
+Em caso de parcelamento, para apuração do montante devido a ser parcelado os valores originais serão atualizados pelo IPCA, acrescido de juros simples de 0,50% (zero vírgula cinco por cento) ao mês e multa de 1,00% (hum por cento), acumulados desde a data de vencimento até a data da assinatura do termo de acordo de parcelamento.
+
+
+§ 2º
+
+Em caso de parcelamento, as prestações vincendas serão atualizadas mensalmente pelo IPCA, acrescido de juros simples de 0,50% (zero vírgula cinco por cento) ao mês, acumulados desde a data de consolidação do montante devido no termo de acordo de parcelamento ou reparcelamento até o mês do pagamento.
+
+
+Art. 102.
+
+Não haverá restituição de contribuição recolhida.
+
+
+Parágrafo único
+
+A exceção ao caput se dará apenas no caso de contribuição do servidor com recolhimento indevido.
+
+
+##### Seção II — Do Fundo Previdenciário Municipal e do Fundo Financeiro
+
+
+Art. 103.
+
+O regime de financiamento do CABOPREV é misto, sendo de:
+
+
+I –
+
+repartição simples para os servidores que ingressaram no serviço público municipal até o início da vigência da Lei Municipal n° 2.273/2005;
+
+
+II –
+
+capitalização para os servidores que vierem a ser admitidos, na forma da legislação vigente, após o início de vigência desta Lei.
+
+
+Art. 104.
+
+Fica criado o Fundo Previdenciário Municipal, de natureza contábil e caráter permanente, destinado a custear despesas previdenciárias relativas aos servidores admitidos a partir da data de publicação da Lei Municipal n° 2.273/2005.
+
+
+Parágrafo único
+
+O Fundo Previdenciário Municipal será constituído das seguintes receitas:
+
+
+I –
+
+contribuições previstas no Art. 95, inciso II;
+
+
+II –
+
+créditos oriundos da compensação previdenciária de que trata a Lei Federal n° 9.796, de 05 de maio de 1999, no tocante aos servidores admitidos a partir da data de publicação da Lei Municipal n° 2.273/2005;
+
+
+III –
+
+contribuições adicionais ou coberturas de eventuais insuficiências financeiras do Tesouro Municipal, se apurada a necessidade por avaliação atuarial.
+
+
+IV –
+
+doações, subvenções e legados;
+
+
+V –
+
+receitas decorrentes de aplicações financeiras e investimentos patrimoniais;
+
+
+VI –
+
+demais dotações previstas no orçamento municipal.
+
+
+VII –
+
+de receitas, bens, direitos de fundos criados com objetivo de custear o equilíbrio atuarial do Regime Próprio de Previdência Social.
+
+
+Art. 105.
+
+Para atender as despesas previdenciárias dos segurados admitidos até a data de publicação da Lei Municipal n° 2.273/2005, fica mantido o Fundo Financeiro, de natureza contábil e caráter temporário.
+
+
+§ 1º
+
+O Fundo Financeiro previsto no caput será constituído pelas seguintes receitas:
+
+
+I –
+
+contribuições previstas no Art. 95, inciso I;
+
+
+II –
+
+saldo existente em contas correntes de titularidade do Fundo Municipal de Previdência, instituído pela Lei Municipal n° 1.997/2001;
+
+
+III –
+
+créditos oriundos da compensação previdenciária de que trata a Lei Federal n° 9.796, de 05 de maio de 1999, no tocante aos servidores referidos no caput;
+
+
+IV –
+
+produto da alienação de bens e direitos do CABOPREV ou a este transferido pelo Município;
+
+
+V –
+
+doações e legados;
+
+
+VI –
+
+receitas decorrentes de aplicações financeiras e investimentos patrimoniais;
+
+
+VII –
+
+demais dotações previstas no orçamento municipal.
+
+
+VIII –
+
+de receitas, bens, direitos de fundos criados com objetivo de custear o equilíbrio atuarial do Regime Próprio de Previdência Social.
+
+
+§ 2º
+
+Quando o montante das receitas forem insuficientes para honrar com o pagamento de todas as obrigações do Fundo Financeiro, o Tesouro Municipal, suas autarquias e fundações assumirão a integralidade da folha líquida de benefícios.
+
+
+Art. 106.
+
+O Poder Executivo poderá destinar patrimônio imobiliário e direitos ao Fundo Previdenciário.
+
+
+§ 1º
+
+Fica vedado a dação em pagamento com bens móveis e imóveis de qualquer natureza, ações ou quaisquer outros títulos, para amortização de débitos, excetuada a amortização do déficit atuarial.
+
+
+§ 2º
+
+A entrega de bens e direitos ao Fundo Previdenciário, nos termos deste artigo, depende da aceitação do patrimônio transferido por parte do Comitê de Investimento e far-se-á em caráter incondicional após a respectiva formalização, vedada ao Município qualquer reivindicação ou reversão posterior do ato de cessão, exceto a anulação por ilegalidade.
+
+
+§ 3º
+
+As receitas diretas provenientes dos bens definidos no caput integralizarão as receitas do Fundo Financeiro.
+
+
+Art. 107.
+
+O referido patrimônio definido no artigo 106 poderá ser dado como cotas dos fundos de investimento estruturados com a finalidade de monetização dos bens e direitos do Fundo Previdenciário podendo ser integralizadas mediante a transferência direta da titularidade destes bens e direitos ao fundo de investimento.
+
+
+§ 1º
+
+As receitas diretas provenientes da valorização das cotas, definidas no caput, após o resgate, integralizarão as receitas do Fundo Financeiro, e antes disso, o referido patrimônio será vinculado ao Fundo Previdenciário.
+
+
+§ 2º
+
+Fica o Regime Próprio de Previdência Social - RPPS autorizado a contratar empresas, mediante processo seletivo de credenciamento pautado por critérios objetivos que visem à seleção da modelagem mais vantajosa de negócios.
+
+
+§ 3º
+
+Após a escolha do melhor modelo de negócios, feito pelo Comitê de Investimentos, pode ou não estruturar fundos de investimento ou aderir a outros fundos de investimentos no mercado.
+
+
+§ 4º
+
+As despesas decorrentes da estruturação dos fundos de investimentos de que trata este artigo poderão ser custeados pelo Tesouro Municipal ou por recursos da taxa de administração.
+
+
+§ 5º
+
+A criação de fundos de investimentos, objetivando a monetização dos bens e direitos, deve observar as normas estabelecidas pela Comissão de Valores Mobiliários - CVM para a estruturação e operacionalização de fundos de investimento, bem como as normas que dispõe sobre as condições e os limites para as aplicações dos recursos dos Regimes Próprios de Previdência Social.
+
+
+Art. 108.
+
+Em caso de mora no recolhimento das contribuições devidas pelos participantes ou órgãos e entidades do Município ao CABOPREV incidirão juros, multas e atualizações sobre o valor originalmente devido, calculados sob o mesmo regime aplicável no artigo 101.
+
+
+Art. 109.
+
+(VETADO)
+
+
+#### CAPÍTULO IV — Do Registro Contábil
+
+
+Art. 110.
+
+O CABOPREV observará normas de contabilidade e fixadas pelo órgão competente da União, devendo o registro contábil ser individualizado por segurado, constando:
+
+
+I –
+
+nome, matrícula e remuneração ou subsídio;
+
+
+II –
+
+valores mensais e acumulados das contribuições dos participantes;
+
+
+III –
+
+valores mensais e acumulados das contribuições dos Poderes do Município, suas autarquias e fundações referentes ao participante.
+
+
+Art. 111.
+
+Será publicado, até trinta dias após o encerramento de cada bimestre, demonstrativo financeiro e orçamentário da receita e despesa previdenciária e acumulada do exercício em curso, nos termos da Lei federal 9.717, de novembro de 1998, e sua regulamentação.
+
+
+Parágrafo único
+
+O demonstrativo mencionado no caput será, no mesmo prazo, encaminhado ao Ministério da Previdência Social.
+
+
+#### CAPÍTULO V — Da Comissão Permanente de Licitações e Pregoeiro
+
+
+Art. 112.
+
+O CABOPREV fará indicação de, no mínimo, 3 (três) membros, sendo pelo menos 2 (dois) deles servidores qualificados pertencentes aos quadros permanentes do RPPS, para compor a Comissão Permanente de Licitações - CPL, baseado nos ditames da Lei Federal nº 8.666/93, bem como de e 1 (um) pregoeiro) e equipe de apoio, nos termos da Lei Federal nº 10.520/2002.
+
+
+Art. 113.
+
+A equipe de apoio do pregoeiro poderá ser composta pelo membro e secretário da Comissão Permanente de Licitações.
+
+
+Art. 114.
+
+Fica vedada a concessão da gratificação para os ocupantes dos cargos de Presidente, Membro e Secretário da Comissão Permanente de Licitações, Pregoeiro e equipe de apoio.
+
+
+### TÍTULO III — Da Conferência de Previdência Municipal
+
+
+Art. 115.
+
+A Conferência de Previdência Municipal atuará consultivamente e contará com a participação de representantes dos Poderes do Município e dos servidores públicos municipais.
+
+
+Art. 116.
+
+A Conferência de Previdência Municipal será regulamentada pelo Conselho de Administração do CABOPREV e monitorada através de comissão , estabelecendo, dentre outras regras, o processo de convocação, participação e deliberação.
+
+
+Art. 117.
+
+A Conferência de Previdência Municipal realizar-se-á cada 2 (dois) anos e será convocada pelo Presidente do Conselho de Administração do CABOPREV ou, na sua falta, pela Diretoria Executiva.
+
+
+Art. 118.
+
+A Conferência de Previdência Municipal tem como finalidade:
+
+
+I –
+
+acompanhar e avaliar a formulação e implementação da política previdenciária municipal;
+
+
+II –
+
+avaliar o desempenho do sistema previdenciário, em especial as condições de sua viabilidade e os investimentos realizados para o seu custeio;
+
+
+III –
+
+formular propostas para o aperfeiçoamento normativo do sistema de previdência municipal e do seu gerenciamento.
+
+
+Art. 119.
+
+A Diretoria Executiva apresentará para a Conferência de Previdência Municipal relatório de atividades do CABOPREV, detalhando projeções de suas receitas e despesas para o período de 2 (dois) anos, a avaliação atuarial mais recente, os indicadores de desempenho, políticas e diretrizes para seu melhor desempenho, bem como um plano de trabalho para o período de 2 (dois) anos.
+
+
+### TÍTULO IV — Das Disposições Gerais e Finais
+
+
+Art. 120.
+
+Será mantido programa permanente de revisão da concessão e da manutenção dos benefícios, a fim de apurar irregularidades e falhas eventualmente existentes.
+
+
+§ 1º
+
+Havendo indício de irregularidade na concessão ou na manutenção de benefício será notificado o beneficiário para apresentar defesa, provas ou documentos no prazo de 30 (trinta) dias.
+
+
+§ 2º
+
+A notificação a que se refere o parágrafo anterior far-se-á por via postal com aviso de recebimento e, não comparecendo o beneficiário nem apresentando defesa, será suspenso o benefício, com notificação ao beneficiário por edital resumido publicado uma vez no órgão de divulgação de atos oficiais do Município.
+
+
+Art. 121.
+
+Os Poderes Executivo e Legislativo, suas autarquias e fundações encaminharão mensalmente ao órgão gestor do CABOPREV relação nominal dos segurados e seus dependentes, com os respectivos subsídios, remunerações e valores de contribuição.
+
+
+Art. 122.
+
+O processo orçamentário do CABOPREV submeter-se-á à forma prescrita pelo Art. 107 e seguintes da Lei Federal n° 4.320, de 17 de março de 1964.
+
+
+Art. 123.
+
+O CABOPREV deverá manter os seus registros próprios, criando o seu Plano de Contas que espelhe com fidedignidade a sua situação econômico-financeira de cada exercício, evidenciando, ainda, as despesas e receitas previdenciárias, patrimoniais, financeiras e administrativas, além de sua situação ativa e passiva.
+
+
+Art. 124.
+
+O CABOPREV prestará contas à Câmara Municipal de Vereadores e ao Tribunal de Contas do Estado de Pernambuco, nos prazos previstos em Lei, respondendo seus gestores pelo fiel desempenho de suas atribuições e mandatos, na forma da Lei.
+
+
+Parágrafo único
+
+O Chefe do Poder Executivo Municipal e os gestores do CABOPREV ficam impedidos de aplicar os recursos do Fundo Previdenciário Municipal e do Fundo Financeiro, com despesas não autorizadas por esta Lei.
+
+
+Art. 125.
+
+Ficam os Poderes do Município, suas autarquias e fundações autorizados a ceder servidores de seus quadros, para organização e funcionamento do CABOPREV.
+
+
+Art. 126.
+
+O Município do Cabo de Santo Agostinho é responsável pela cobertura de eventuais insuficiências financeiras do CABOPREV, decorrentes do pagamento de benefícios previdenciários, na forma do parágrafo único do Art. 8° da Lei Federal n° 10.887, de 18 de junho de 2004.
+
+
+Art. 127.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a editar, processo de concessão de benefícios previdenciários, devendo estar em harmonia com as disposições constitucionais, aplicando-se, subsidiariamente, o regramento do Regime Geral de Previdência Social, na inexistência de norma específica, de acordo com a legislação previdenciária vigente.
+
+
+Art. 128.
+
+Esta lei entrará em vigor em 180 (cento e oitenta) dias a partir de sua publicação, quanto à inclusão de pessoas com deficiência grave entre os dependentes dos segurados do Regime Geral de Previdência Social (RGPS) e do Regime Próprio de Previdência Social (RPPS), em 02 (dois) anos no tocante ao Art. 60 e na data de sua publicação quanto às demais disposições contidas nessa Lei.
+
+
+Art. 129.
+
+Revogam-se as disposições em contrário, em especial a Lei n° 2.273/2005, observado o disposto nesta Lei.
+
+
+Palácio Conde da Boa Vista, em 22 de dezembro de 2017.
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+**Prefeito**
+
+CHANCELAS:
+
+**OSVIR GUIMARÃES THOMAZ.**
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ).
+
+**LUÍS ALVES DE LIMA FILHO**
+
+Secretário Municipal de Gestão Pública (SMGP).
+
+**CÉLIA VERÔNICA EMÍDIO**
+
+Diretora-Presidente do Instituto de Previdência Social dos Servidores do Município do Cabo de Santo Agostinho (CABOPREV).
+
+“Lei decorrente do Projeto de Lei à Sanção nº 170/2017, originário do Anteprojeto de Lei nº 30/2017, de autoria do Poder Executivo.”
+
+
+## ANEXO I — CARGOS DE PROVIMENTO EM COMISSÃO
+
+<table><tbody><tr><td rowspan="2"><p><strong>DENOMINAÇÃO</strong></p></td><td rowspan="2"><p><strong>SÍMBOLO</strong></p></td><td rowspan="2"><p><strong>QUANT.</strong></p></td><td colspan="3"><p><strong>REMUNERAÇÃO</strong></p></td></tr><tr><td><p><strong>VENC.</strong></p></td><td><p><strong>REPRES.</strong></p></td><td><p><strong>TOTAL</strong></p></td></tr><tr><td><p>Diretor-Presidente</p></td><td><p>CC1-A</p></td><td><p>01</p></td><td><p>R$ 2.700,15</p></td><td><p>R$ 5.400,37</p></td><td><p>R$ 8.100,52</p></td></tr><tr><td><p>Assessor Especial</p></td><td><p>CC1-B</p></td><td><p>01</p></td><td><p>R$ 2.047,36</p></td><td><p>R$ 4.028,54</p></td><td><p>R$ 6.075,90</p></td></tr><tr><td><p>Gerente Administrativo-Financeiro</p></td><td><p>CC2</p></td><td><p>01</p></td><td><p>R$ 1.433,22</p></td><td><p>R$ 2.866,43</p></td><td><p>R$ 4.299,65</p></td></tr><tr><td><p>Gerente de Previdência e Benefícios</p></td><td><p>CC2</p></td><td><p>01</p></td><td><p>R$ 1.433,22</p></td><td><p>R$ 2.866,43</p></td><td><p>R$ 4.299,65</p></td></tr><tr><td><p>Assessor Técnico</p></td><td><p>CC2</p></td><td><p>02</p></td><td><p>R$ 1.433,22</p></td><td><p>R$ 2.866,43</p></td><td><p>R$ 4.299,65</p></td></tr><tr><td><p>Assessor de Previdência I</p></td><td><p>CC3</p></td><td><p>02</p></td><td><p>R$ 818,94</p></td><td><p>R$ 1.637,89</p></td><td><p>R$ 2.456,83</p></td></tr><tr><td><p>Assessor de Previdência II</p></td><td><p>CC4</p></td><td><p>02</p></td><td><p>R$ 450,57</p></td><td><p>R$ 901,17</p></td><td><p>R$ 1.351,74</p></td></tr></tbody></table>
+
+## ANEXO II — CONTEÚDO MÍNIMO PARA CAPACITAÇÃO DE GESTOR DE
+
+**RECURSOS DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL**
+
+**PARÁGRAFO ÚNICO DO ART. 34**
+
+**I - ECONOMIA E FINANÇAS**
+
+Conceitos Básicos
+
+Política monetária, fiscal e cambial
+
+Índices e indicadores
+
+Taxas de juros nominal, real, equivalente
+
+Capitalização
+
+Índices de referência (benchmark)
+
+**II - SISTEMA FINANCEIRO NACIONAL**
+
+Autoridades monetárias
+
+Tesouro Nacional
+
+Banco Central do Brasil
+
+Comissão de Valores Mobiliários
+
+Órgãos reguladores
+
+**III - INSTITUIÇÕES E INTERMEDIÁRIOS FINANCEIROS**
+
+Bancos Comerciais, de Investimento e Múltiplos
+
+Crédito Imobiliário
+
+Financeiras
+
+Corretoras de Valores, de câmbio e de mercadorias
+
+Distribuidoras de valores
+
+Bolsas de valores - BOVESPA
+
+Bolsas de mercadorias - BM&F
+
+**IV - MERCADO DE CAPITAIS**
+
+Mercado Primário (underwriting) e mercado secundário
+
+Ativos de emissão das companhias - ações, debêntures, commercial papers, bônus
+
+Governança corporativa - novo mercado; nível 1 e nível 2
+
+Mercados a vista, a termo, futuro e de opções
+
+Volatilidade - conceito
+
+Rentabilidade e riscos dos investimentos
+
+Aspectos tributários
+
+Liquidação de operações em bolsas de valores
+
+**V - MERCADO FINANCEIRO**
+
+Títulos de renda fixa
+
+Títulos Públicos e Privados
+
+Operações definitivas e compromissadas
+
+Negociação, liquidação e custódia - CETIP/SELIC
+
+Marcação a mercado da carteira de ativos
+
+Rentabilidade e riscos dos investimentos
+
+Aspectos tributários
+
+**VI - MERCADO DE DERIVATIVOS**
+
+Conceituação de derivativos
+
+Estrutura operacional da BM&F
+
+Mecânica operacional dos mercados futuros, a termo, de
+
+opções e swaps
+
+Contratos derivativos financeiros e de agropecuários
+
+Rentabilidade e riscos dos investimentos
+
+Aspectos tributários
+
+**VII - FUNDOS DE INVESTIMENTO**
+
+Principais fundos existentes em mercado
+
+Abertos, fechados, exclusivos, com ou sem carência
+
+Classificação e definições legais
+
+Regulamentos/regulação
+
+Taxas de administração, de performance, de ingresso e saída
+
+Rentabilidade e riscos dos investimentos e Aspectos tributários

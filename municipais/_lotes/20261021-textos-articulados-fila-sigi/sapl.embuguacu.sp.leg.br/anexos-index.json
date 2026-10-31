@@ -1,0 +1,2708 @@
+{
+  "estado": "indice_completo",
+  "total": 121,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/formulario_de_avaliacao_parcial_-_i.pdf da norma RESOLUÇÃO-MESA nº 1, de 24 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Teste 1",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/1/formulario_de_avaliacao_parcial_-_i.pdf",
+      "ano": 2022,
+      "norma": 567
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/formulario_de_avaliacao_parcial_-_ii.pdf da norma RESOLUÇÃO-MESA nº 1, de 24 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Teste2",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/2/formulario_de_avaliacao_parcial_-_ii.pdf",
+      "ano": 2022,
+      "norma": 567
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/termo_de_entrega_de_honraria-2.pdf da norma DECRETO LEGISLATIVO nº 55, de 05 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/5/termo_de_entrega_de_honraria-2.pdf",
+      "ano": 2023,
+      "norma": 916
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/termo_de_entrega_de_honraria-2.pdf da norma DECRETO LEGISLATIVO nº 56, de 05 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/6/termo_de_entrega_de_honraria-2.pdf",
+      "ano": 2023,
+      "norma": 917
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/termo_de_entrega_de_honraria-2.pdf da norma DECRETO LEGISLATIVO nº 14, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/7/termo_de_entrega_de_honraria-2.pdf",
+      "ano": 2024,
+      "norma": 1042
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/termo_de_entrega_de_honraria-2.pdf da norma DECRETO LEGISLATIVO nº 12, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/8/termo_de_entrega_de_honraria-2.pdf",
+      "ano": 2024,
+      "norma": 1040
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/9/termo_de_entrega_de_honraria-1.pdf da norma DECRETO LEGISLATIVO nº 21, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/9/termo_de_entrega_de_honraria-1.pdf",
+      "ano": 2022,
+      "norma": 636
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/10/termo_de_entrega_de_honraria-3.pdf da norma DECRETO LEGISLATIVO nº 53, de 29 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/10/termo_de_entrega_de_honraria-3.pdf",
+      "ano": 2023,
+      "norma": 910
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/11/termo_de_entrega_de_honraria-4.pdf da norma DECRETO LEGISLATIVO nº 12, de 27 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2014/11/termo_de_entrega_de_honraria-4.pdf",
+      "ano": 2014,
+      "norma": 625
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/12/termo_de_entrega_de_honraria-6.pdf da norma DECRETO LEGISLATIVO nº 11, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/12/termo_de_entrega_de_honraria-6.pdf",
+      "ano": 2022,
+      "norma": 605
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/13/termo_de_entrega_de_honraria-7.pdf da norma DECRETO LEGISLATIVO nº 3, de 29 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2021/13/termo_de_entrega_de_honraria-7.pdf",
+      "ano": 2021,
+      "norma": 418
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/14/termo_de_entrega_de_honraria-8.pdf da norma DECRETO LEGISLATIVO nº 10, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "HONRARIA ENTREGUE",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/14/termo_de_entrega_de_honraria-8.pdf",
+      "ano": 2022,
+      "norma": 604
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/15/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 4, de 02 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2021/15/certidao_0012024secleg_assinado.pdf",
+      "ano": 2021,
+      "norma": 419
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/16/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 6, de 08 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2021/16/certidao_0012024secleg_assinado.pdf",
+      "ano": 2021,
+      "norma": 421
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/17/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 7, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2021/17/certidao_0012024secleg_assinado.pdf",
+      "ano": 2021,
+      "norma": 522
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/18/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 8, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2021/18/certidao_0012024secleg_assinado.pdf",
+      "ano": 2021,
+      "norma": 653
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/19/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 2, de 10 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/19/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 596
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/20/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 3, de 10 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/20/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 597
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/21/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 4, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/21/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 598
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/22/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 5, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/22/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 599
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/23/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 6, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/23/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 600
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/24/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 7, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/24/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 601
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/25/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 8, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/25/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 602
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/26/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 9, de 08 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/26/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 603
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/27/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 17, de 31 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/27/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 628
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/28/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 23, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/28/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 638
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/29/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 25, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/29/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 640
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/30/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 26, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/30/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 641
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/31/certidao_0012024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 27, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/31/certidao_0012024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 642
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/32/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 19, de 31 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/32/certidao_0022024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 630
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/33/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 35, de 25 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/33/certidao_0022024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 668
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/34/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 4, de 27 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/34/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 762
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/35/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 5, de 27 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/35/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 763
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/36/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 6, de 27 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/36/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 764
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/37/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 7, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/37/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 765
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/38/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 8, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/38/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 766
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/39/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 9, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/39/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 767
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/40/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 10, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/40/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 768
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/41/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 11, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/41/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 769
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/42/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 12, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/42/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 770
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/43/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 13, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/43/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 771
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/44/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 14, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/44/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 772
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/45/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 15, de 28 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/45/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 773
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/46/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 26, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/46/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 794
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/47/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 27, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/47/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 795
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/48/certidao_0022024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 28, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/48/certidao_0022024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 796
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/49/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 15, de 04 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/49/certidao_0032024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 618
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/50/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 29, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/50/certidao_0032024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 644
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/51/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 36, de 25 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/51/certidao_0032024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 669
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/52/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 39, de 08 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/52/certidao_0032024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 688
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/53/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 1, de 27 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/53/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 759
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/54/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 2, de 27 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/54/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 760
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/55/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 17, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/55/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 775
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/56/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 19, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/56/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 778
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/57/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 20, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/57/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 779
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/58/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 24, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/58/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 783
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/59/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 29, de 11 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/59/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 807
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/60/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 39, de 18 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/60/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 833
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/61/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 41, de 20 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/61/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 856
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/62/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 43, de 27 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/62/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 862
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/63/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 45, de 27 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/63/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 864
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/64/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 49, de 09 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/64/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 886
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/65/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 50, de 09 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/65/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 887
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/66/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 54, de 29 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/66/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 911
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/67/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 62, de 28 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/67/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 979
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/68/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 63, de 28 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/68/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 980
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/69/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 64, de 28 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/69/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 981
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/70/certidao_0032024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 65, de 28 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:22:42-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/70/certidao_0032024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 982
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/71/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 35, de 18 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/71/certidao_0042024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 829
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/72/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 35, de 18 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/72/certidao_0042024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 829
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/73/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 2, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/73/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1030
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/74/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 3, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/74/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1031
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/75/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 4, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/75/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1032
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/76/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 6, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/76/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1034
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/77/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 8, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/77/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1036
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/78/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 9, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/78/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1037
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/79/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 10, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/79/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1038
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/80/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 11, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/80/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1039
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/81/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 15, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/81/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1043
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/82/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 17, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/82/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1045
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/83/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 18, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/83/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1046
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/84/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 19, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/84/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1047
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/85/certidao_0042024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 20, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/85/certidao_0042024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1048
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/86/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 22, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/86/certidao_0052024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 637
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/87/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 42, de 30 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2022/87/certidao_0052024secleg_assinado.pdf",
+      "ano": 2022,
+      "norma": 695
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/88/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 52, de 29 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/88/certidao_0052024secleg_assinado.pdf",
+      "ano": 2023,
+      "norma": 909
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/89/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 22, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/89/certidao_0052024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1095
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/90/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 23, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/90/certidao_0052024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1096
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/91/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 24, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/91/certidao_0052024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1097
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/92/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 25, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/92/certidao_0052024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1098
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/93/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 26, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/93/certidao_0052024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1099
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/94/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 27, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/94/certidao_0052024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1100
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/95/certidao_0052024secleg_assinado.pdf da norma DECRETO LEGISLATIVO nº 28, de 19 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-05-24T14:25:38-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/95/certidao_0052024secleg_assinado.pdf",
+      "ano": 2024,
+      "norma": 1101
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/96/certidao_0062024secleg_dl_0222023_assinado.pdf da norma DECRETO LEGISLATIVO nº 22, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T13:58:23-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/96/certidao_0062024secleg_dl_0222023_assinado.pdf",
+      "ano": 2023,
+      "norma": 781
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/97/certidao_0072024secleg_dl_0232023_assinado.pdf da norma DECRETO LEGISLATIVO nº 23, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T13:58:23-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/97/certidao_0072024secleg_dl_0232023_assinado.pdf",
+      "ano": 2023,
+      "norma": 782
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/98/certidao_0082024secleg_dl_0302024_assinado.pdf da norma DECRETO LEGISLATIVO nº 30, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T13:58:23-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/98/certidao_0082024secleg_dl_0302024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1103
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/99/certidao_0092024secleg_dl_0362024_assinado.pdf da norma DECRETO LEGISLATIVO nº 36, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T13:58:23-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/99/certidao_0092024secleg_dl_0362024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1109
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/100/certidao_0102024secleg_dl_0712024_assinado.pdf da norma DECRETO LEGISLATIVO nº 71, de 02 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T13:58:23-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/100/certidao_0102024secleg_dl_0712024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1190
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/101/certidao_0112024secleg_dl_0252023_assinado.pdf da norma DECRETO LEGISLATIVO nº 25, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:00:28-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/101/certidao_0112024secleg_dl_0252023_assinado.pdf",
+      "ano": 2023,
+      "norma": 784
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/102/certidao_0122024secleg_dl_0392024_assinado.pdf da norma DECRETO LEGISLATIVO nº 39, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:00:28-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/102/certidao_0122024secleg_dl_0392024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1112
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/103/certidao_0132024secleg_dl_0412024_assinado.pdf da norma DECRETO LEGISLATIVO nº 41, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:00:28-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/103/certidao_0132024secleg_dl_0412024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1114
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/104/certidao_0142024secleg_dl_0432024_assinado.pdf da norma DECRETO LEGISLATIVO nº 43, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:00:28-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/104/certidao_0142024secleg_dl_0432024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1116
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/105/certidao_0152024secleg_dl_0332024_assinado.pdf da norma DECRETO LEGISLATIVO nº 33, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:00:28-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/105/certidao_0152024secleg_dl_0332024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1106
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/106/certidao_0162024secleg_dl_0322024_assinado.pdf da norma DECRETO LEGISLATIVO nº 32, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:02:13-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/106/certidao_0162024secleg_dl_0322024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1105
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/107/certidao_0172024secleg_dl_0442024_assinado.pdf da norma DECRETO LEGISLATIVO nº 44, de 09 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:02:13-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/107/certidao_0172024secleg_dl_0442024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1125
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/108/certidao_0182024secleg_dl_0212023_assinado.pdf da norma DECRETO LEGISLATIVO nº 21, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:02:13-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2023/108/certidao_0182024secleg_dl_0212023_assinado.pdf",
+      "ano": 2023,
+      "norma": 780
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/109/certidao_0192024secleg_dl_0462024_assinado.pdf da norma DECRETO LEGISLATIVO nº 46, de 09 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:02:13-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/109/certidao_0192024secleg_dl_0462024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1127
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/110/certidao_0202024secleg_dl_0502024_assinado.pdf da norma DECRETO LEGISLATIVO nº 50, de 30 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:02:13-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/110/certidao_0202024secleg_dl_0502024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1137
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/111/certidao_0212024secleg_dl_0312024_assinado.pdf da norma DECRETO LEGISLATIVO nº 31, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:03:12-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/111/certidao_0212024secleg_dl_0312024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1104
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/112/certidao_0222024secleg_dl_0382024_assinado.pdf da norma DECRETO LEGISLATIVO nº 38, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Luiz Fernando Ferreira de Souza",
+                [
+                  "2024-07-30T14:03:12-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2024/112/certidao_0222024secleg_dl_0382024_assinado.pdf",
+      "ano": 2024,
+      "norma": 1111
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/113/plano_de_trabalho_simplificado.docx da norma EDITAL-GP nº 26, de 03 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "PLANO DE TRABALHO SIMPLIFICADO – EMENDA IMPOSITIVA / LOA 2026",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/113/plano_de_trabalho_simplificado.docx",
+      "ano": 2025,
+      "norma": 2020
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/114/ata_plano_diretor.pdf da norma EDITAL-GP nº 24, de 24 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "ATA RESUMIDA DA AUDIÊNCIA PÚBLICA – PROJETO DE LEI COMPLEMENTAR Nº 013/2025 (PLANO DIRETOR)",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/114/ata_plano_diretor.pdf",
+      "ano": 2025,
+      "norma": 2016
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/115/audiencia_publica_plano_diretor__participacao_07112025.pdf da norma EDITAL-GP nº 24, de 24 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE PRESENÇA - AUDIÊNCIA PÚBLICA – PROJETO DE LEI COMPLEMENTAR Nº 013/2025 (PLANO DIRETOR)",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/115/audiencia_publica_plano_diretor__participacao_07112025.pdf",
+      "ano": 2025,
+      "norma": 2016
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/116/ata_loa_04112025.pdf da norma EDITAL-GP nº 22, de 17 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "ATA RESUMIDA DA PRIMEIRA AUDIÊNCIA PÚBLICA – LOA 2026",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/116/ata_loa_04112025.pdf",
+      "ano": 2025,
+      "norma": 1957
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/117/ata_loa_05112025.pdf da norma EDITAL-GP nº 22, de 17 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "ATA RESUMIDA DA SEGUNDA AUDIÊNCIA PÚBLICA – LOA 2026",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/117/ata_loa_05112025.pdf",
+      "ano": 2025,
+      "norma": 1957
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/118/audiencia_publica_loa__participacao_04112025.pdf da norma EDITAL-GP nº 22, de 17 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE PARTICIPAÇÃO - PRIMEIRA AUDIÊNCIA PÚBLICA – LOA 2026",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/118/audiencia_publica_loa__participacao_04112025.pdf",
+      "ano": 2025,
+      "norma": 1957
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/119/audiencia_publica_loa__participacao_05112025.pdf da norma EDITAL-GP nº 22, de 17 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE PARTICIPAÇÃO - SEGUNDA AUDIÊNCIA PÚBLICA – LOA 2026",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/119/audiencia_publica_loa__participacao_05112025.pdf",
+      "ano": 2025,
+      "norma": 1957
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/120/ata_ppa_21102025.pdf da norma EDITAL-GP nº 21, de 06 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "ATA RESUMIDA DA PRIMEIRA AUDIÊNCIA PÚBLICA – PPA 2026 2029",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/120/ata_ppa_21102025.pdf",
+      "ano": 2025,
+      "norma": 1930
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/121/ata_ppa_22102025.pdf da norma EDITAL-GP nº 21, de 06 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "ATA RESUMIDA DA SEGUNDA AUDIÊNCIA PÚBLICA – PPA 2026 2029",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/121/ata_ppa_22102025.pdf",
+      "ano": 2025,
+      "norma": 1930
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/122/audiencia_publica_ppa__participacao_21102025.pdf da norma EDITAL-GP nº 21, de 06 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE PARTICIPAÇÃO - PRIMEIRA AUDIÊNCIA PÚBLICA – PPA 2026 2029",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/122/audiencia_publica_ppa__participacao_21102025.pdf",
+      "ano": 2025,
+      "norma": 1930
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/123/audiencia_publica_ppa__participacao_22102025.pdf da norma EDITAL-GP nº 21, de 06 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE PARTICIPAÇÃO - SEGUNDA AUDIÊNCIA PÚBLICA – PPA 2026 2029",
+      "anexo_arquivo": "http://sapl.embuguacu.sp.leg.br/media/sapl/public/anexonormajuridica/2025/123/audiencia_publica_ppa__participacao_22102025.pdf",
+      "ano": 2025,
+      "norma": 1930
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.embuguacu.sp.leg.br/25433c364cceea928d5b489e596f8c1a80bbeeec28ceccf5b45113743bacfcbb.json",
+      "url": "https://sapl.embuguacu.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.embuguacu.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "69f4491767871f18880e463961db67b2cc595f694f6f8b47ebaae7918feebd9e",
+      "bytes": 52689,
+      "capturado_em": "2026-10-28T10:26:16.402999-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.embuguacu.sp.leg.br/fb223e1fe5066954a80a5778550636a481d4b78ac9f499e5a9d00a4ef84eecdb.json",
+      "url": "https://sapl.embuguacu.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "url_final": "https://sapl.embuguacu.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f189e0f83d5ed4ddf56f2c10801575ed1b71f2c31869e028d3d5c18fcd5e1851",
+      "bytes": 11274,
+      "capturado_em": "2026-10-28T10:26:17.141932-03:00"
+    }
+  ]
+}

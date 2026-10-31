@@ -1,0 +1,42 @@
+{
+  "host": "sapl.donaines.pb.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.donaines.pb.leg.br/833b68aaf30583855ffff907f2941a4bbc66fb2b1a69b32802015152bcb11fab.json",
+    "url": "https://sapl.donaines.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.donaines.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:48:35.569082-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.donaines.pb.leg.br/31f65a48258dc11e7565b285e3bf2b15f6b3021583d4a5f73117af3fd4f1580f.json",
+    "url": "https://sapl.donaines.pb.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.donaines.pb.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7a691559690fa4461d8213c9c3fa97fd14cdc46b33273ce1fea59057ba7b152c",
+    "bytes": 740,
+    "capturado_em": "2026-10-28T09:48:34.865063-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.donaines.pb.leg.br/3ba8bb98bff1e175234d1a9ed226818e76e3ad04c1e9683f97c75b1f2543352c.json",
+      "url": "https://sapl.donaines.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.donaines.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T09:48:37.454479-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

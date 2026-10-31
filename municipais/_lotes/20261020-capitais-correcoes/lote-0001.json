@@ -1,0 +1,34 @@
+{
+  "substitui": "municipais/_lotes/20261020-capitais/lote-0003.json",
+  "aprovados": 1,
+  "path": "municipais/SP/sao-paulo/decretos/2026/decreto-65599-2026.md",
+  "sha256": "7808f6169dd90ce01a23586a40af5e90b426d6d808459e5e0c9754b3060c89fb",
+  "criterio": "Mesmo decreto e anexo, corrigidos com transcrição manual das três tabelas rasterizadas:56linhas/230células de dados, conferidas visualmente. Camada textual146958tokens íntegros em ordem, só232fólios excluídos. Não contar como novo documento adicional ao capital3 anterior.",
+  "backup_md_anterior": "municipais/_fonte/auditorias/retidos-capitais/sao-paulo-tributaria-20261020/01bc9730d8c6071390d3565c304da61fabd36c901908f772c915082b6db97649.md",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-capitais-correcoes/lote-0001.paths.txt",
+      "sha256": "3376c9d2972ffc82215ca96d757d48d5847ea18bff8dd4cf45288ef443ee4f43"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais-correcoes/lote-0001.auditoria-municipal.json",
+      "sha256": "43c58119d20469c2841d1de23dfe3b280a64198f556944392366e08b23eea7dc"
+    },
+    {
+      "path": "municipais/_fonte/capitais/sao-paulo/decreto-65599-2026.manifesto.json",
+      "sha256": "2936628f8c34567bc545ce42df2e906dfe4c728ce158adf769a7f1cb8a9122f6"
+    },
+    {
+      "path": "municipais/_fonte/capitais/sao-paulo/decreto-65599-2026.qa-completa.json",
+      "sha256": "a3e0ab0dee4ab6b4b5ff2a518cbb0f4c997061d39ebda3de8f8dbfa717618e0f"
+    },
+    {
+      "path": "municipais/_fonte/capitais/sao-paulo/decreto-65599-2026.imagens.json",
+      "sha256": "e13ab217cf89e6c7b5a1a47335f5b006a0af32679465e97e7307ea79613caaf1"
+    },
+    {
+      "path": "scripts/dados/sp-tributaria-65599-tabelas.json",
+      "sha256": "153fe486cfffff6d125f9560c7c2d7b2f4e547f7c8b6df484aeded08c27c9b2b"
+    }
+  ]
+}

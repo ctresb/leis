@@ -1,0 +1,331 @@
+---
+titulo: "LEI COMPLEMENTAR nº 99, de 08 de novembro de 2019"
+tipo: "Lei complementar"
+tipo_na_fonte: "LEI COMPLEMENTAR"
+numero: "99"
+data: "2019-11-08"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1278"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/286/text"
+sha256_fonte: "488213f18290e3f4a8b38a07e60149fb932cb5b91ac4d7c6f63eacf41de41e17"
+sha256_texto: "ffe7eef4ef4e8719e1d75ed87d431939bb38f2c572cc6195d01c79851ac56d9b"
+capturado_em_fonte: "2026-10-28T09:24:30.762316-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# LEI COMPLEMENTAR nº 99, de 08 de novembro de 2019
+
+“DISPÕE SOBRE O CONSELHO MUNICIPAL DE DESENVOLVIMENTO RURAL SUSTENTÁVEL E SOLIDÁRIO – CMDRASS, E DÁ OUTRAS PROVIDÊNCIAS”
+
+
+Laércio Marchini, prefeito do Município de Corumbiara, Estado de Rondônia, no uso de suas atribuições que lhe são conferidas por Lei, e nos termo dos incisos IV, VI e XXVIII dos Art. 59 e 65 da Lei Orgânica Municipal, faz saber que a Câmara Municipal de Corumbiara aprovou e ele sanciona e publica a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Esta Lei institui no âmbito do Município de Corumbiara o Conselho Municipal de Desenvolvimento Rural Sustentável e Solidário – CMDRASS, de caráter deliberativo, consultivo, normativo e propositivo, com o objetivo de assessorar, avaliar e propor ao Poder Executivo Municipal as diretrizes das políticas públicas do Município ligadas à agricultura familiar, bem como deliberar sobre normas que visem acelerar o desenvolvimento rural sustentável e solidário e, terá como competências:
+
+
+Parágrafo único
+
+A partir da entrada em vigor desta Lei complementar passará a ser denominado de CMDRASS – Conselho Municipal de Desenvolvimento Rural Sustentável e Solidário e, terá como competências:
+
+
+I –
+
+Deliberar e definir acerca da Política Municipal de Desenvolvimento Rural, Ambiental, Sustentável e Solidário em consonância com as diretrizes dos Conselhos Estadual e Nacional de Desenvolvimento Rural Ambiental, Sustentável e Solidário;
+
+
+II –
+
+Assegurar a efetiva e legítima participação de representações dos diversos segmentos e movimentos sociais na discussão e elaboração do Plano Municipal de Desenvolvimento Rural, Ambiental, Sustentável e Solidário - PMDRASS, de forma que este contemple estratégias, ações, programas e projetos de apoio e fomento ao desenvolvimento econômico e social, em bases sustentáveis, do Município;
+
+
+III –
+
+Apreciar e aprovar o PMDRASS bem como os programas e projetos governamentais e não-governamentais de acordo com as prioridades estabelecidas pela Conferência Municipal de Desenvolvimento Rural, Ambiental, Sustentável e Solidário;
+
+
+IV –
+
+Apreciar e aprovar as propostas orçamentárias de Desenvolvimento Rural, Ambiental, Sustentável e Solidário que servirão de subsídios para elaboração dos orçamentos do município seja, o Plano Plurianual (PPA), a Lei de Diretrizes Orçamentárias (LDO) e a Lei Orçamentária Anual (LOA) no que tange aos investimentos a serem destinados à agricultura, pecuária, piscicultura, entre outros investimentos rurais do Município;
+
+
+V –
+
+Acompanhar e supervisionar e referendar os recursos do PRONAF aplicados no Município, deliberar sobre todos os convênios municipais, estaduais e federais;
+
+
+VI –
+
+Convocar, a cada dois anos ou extraordinariamente, a Conferência Municipal de Desenvolvimento Rural, Ambiental, Sustentável e Solidário;
+
+
+VII –
+
+Monitorar, avaliar e aprovar a gestão dos recursos destinados ao setor rural e ambiental de posse do Município, bem como o desempenho dos programas, projetos, ações e atividades, de natureza transitória ou permanente;
+
+
+VIII –
+
+Propor a formulação de estudos e pesquisas com vistas a identificar situações relevantes ao Desenvolvimento Rural, Ambiental, Sustentável e Solidário;
+
+
+IX –
+
+Propor aos Conselhos Estadual e Nacional de Desenvolvimento Rural Sustentável e Solidário e demais órgãos governamentais e não-governamentais, programas, serviços e financiamentos de projetos;
+
+
+X –
+
+Definir a priorização, a hierarquização e o exercício da gestão social local no desenvolvimento de ações e atividades de responsabilidade do setor público;
+
+
+XI –
+
+Realizar consulta quanto ao público beneficiário, à localização, ao período adequado e as demais informações para a composição dos investimentos governamentais no Município;
+
+
+XII –
+
+Instituir Câmaras Técnicas de caráter permanente, Comissões de Fiscalização, e Grupos de Trabalho temporários, para subsidiar as decisões do Conselho;
+
+
+XIII –
+
+Promover a interlocução junto aos órgãos públicos para sugerir adequações e denunciar as irregularidades das suas ações;
+
+
+XIV –
+
+Realizar a compatibilização entre as políticas públicas municipal, territorial, estadual e federal voltadas para o Desenvolvimento Rural, Ambiental, Sustentável e Solidário e para a conquista e consolidação da plena cidadania no Município;
+
+
+XV –
+
+Articular-se com os municípios vizinhos visando à elaboração, qualificação e implementação dos Planos Territoriais de Desenvolvimento Rural, Ambiental, Sustentável e Solidário;
+
+
+XVI –
+
+Identificar, encaminhar e monitorar demandas relacionadas ao fortalecimento da agricultura familiar e outros segmentos sociais fragilizados;
+
+
+XVII –
+
+Promover ações que estimulem, preservem e fortaleçam a cultura local;
+
+
+XVIII –
+
+Buscar o melhor funcionamento e representatividade do Conselho, através do estimulo à participação de diferentes atores sociais do Município, garantindo a representação de organizações de mulheres e jovens;
+
+
+XIX –
+
+Elaborar o Regimento Interno do Conselho.
+
+
+XX –
+
+Publicar atos e deliberações do conselho por meio de resolução, fixar no átrio do poder executivo municipal, dar publicidade nos meios oficiais de comunicação do poder executivo municipal.
+
+
+Art. 2º.
+
+O CMDRASS será paritário e composto por:
+
+
+I –
+
+50% (cinquenta por cento) de representantes do poder público, sendo:
+
+
+a)
+
+Secretário Municipal de Agricultura e Meio Ambiente – SEMAM, com assento permanente;
+
+
+b)
+
+Representante da Prefeitura Municipal vinculado à Secretaria Municipal de Agricultura e meio Ambiente – SEMAM;
+
+
+c)
+
+Representante da Secretaria de Municipal de Educação e Cultura e Desporto- SEMED
+
+
+d)
+
+Representante da Prefeitura Municipal vinculado a Secretaria Municipal de Assistência Social – SEMAS;
+
+
+e)
+
+Representante da Prefeitura Municipal vinculado à Secretaria Municipal de saúde – SEMUSA;
+
+
+f)
+
+Representante da Câmara Municipal de Corumbiara - CMC.
+
+
+g)
+
+Representante do escritório local Entidade Autárquica de Assistência Técnica e Extensão Rural do Estado de Rondônia – EMATER;
+
+
+h)
+
+Representante Agencia de Defesa Sanitária Agrosilvopastoril do Estado de Rondônia- IDARON.
+
+
+II –
+
+50% (cinquenta por cento) de representantes da sociedade civil, sendo:
+
+
+a)
+
+Representante do Sindicato dos Trabalhadores e Trabalhadoras Rurais –STTR;
+
+
+b)
+
+Representante de Associação Comercial de Corumbiara-ACICO;
+
+
+c)
+
+Representante de empresas privadas de assistência técnica rural ou empresa congênere na revenda de produtos agropecuários;
+
+
+d)
+
+Representante setorial rural do distrito Vitoria da União (P.A. Roncalto, P.A Vitória da União, P.A Guarajus);
+
+
+e)
+
+Representante setorial rural do distrito Rondolândia (PICPAR Projeto de Colonização Paulo de Assis Ribeiro linha 01/02/03 da 3ª Eixo);
+
+
+f)
+
+Representante setorial rural do distrito Verde Seringal (P.A. Verde Seringal, PICPAR Projeto de Colonização Paulo de Assis Ribeiro linha 04/05/06 da 2º eixo);
+
+
+g)
+
+Representante setorial rural do distrito Auto Guarajus (P.A. Renato Natan, P.A Zé Bentão, P.A. Alzira Augusto Monteiro, P.A Alberico Carvalho P.A. Adriana, PICPAR Projeto de Colonização Paulo de Assis Ribeiro linha 04/05/06 da 3º e 4º eixo);
+
+
+h)
+
+Representante setorial rural do município de Corumbiara (PICPAR Projeto de Colonização Paulo de Assis Ribeiro linha e Gleba Santa Cruz, linha 03/04/05/06 da 5ª Eixo)
+
+
+Art. 3º.
+
+Os membros indicados pelas respectivas entidades sociais, setoriais, órgãos e/ou representações públicas e privadas integrante do CMDRASS deverá ser informado por escrito, com os nomes do representante titular e do suplente detalhando os dados pessoais tais como RG, CPF e endereço de residência, para mandato de dois anos, podendo ser reconduzidos por igual período de forma sucessiva e substituídos.
+
+
+Parágrafo único
+
+Os representantes nos setores; (Vitória da União, Rondolâdia, Verde Seringal e Auto Guarajus), e setor (Corumbiara), deverão ser eleitos em reunião com ampla divulgação por meio de edital de convocação com prazo de 15 dias, em mural público, nos seguimentos religiosos, nas entidades civis e sociais local, podendo concorrer ao cargo de representante no CMDRASS agricultores e familiares, e a eleição só terá validade com ata datada e assinada por todos presentes na reunião.
+
+
+Art. 4º.
+
+O Prefeito Municipal nomeará, através de Decreto, os Conselheiros titulares e suplentes indicados pelas respectivas representações que compõem o CMDRASS.
+
+
+Parágrafo único
+
+A função de Conselheiro do CMDRASS, considerada de interesse público relevante, será exercida gratuitamente, sendo que as despesas para o exercício da função de Conselheiro serão custeadas através de rubrica própria no orçamento do Município.
+
+
+Art. 5º.
+
+Será deliberada, pelo CMDRASS, a exclusão do Conselheiro titular ou suplente que:
+
+
+I –
+
+Deixar de comparecer a 03 (três) reuniões seguidas ou 04 (quatro) alternadas, sem justificativa;
+
+
+II –
+
+Tiver procedimento incompatível com a dignidade da função, auferindo vantagens ilícitas ou imorais no desempenho do mandato, ressalvado o contraditório e a ampla defesa.
+
+
+Parágrafo único
+
+Na hipótese de exclusão de Conselheiro titular ou suplente, a entidade por este representada será comunicada por escrito que, em decorrência, providenciará uma nova indicação. Em não apresentando nova indicação no prazo de 15 (quinze) dias a partir da data do recebimento da notificação, a entidade será desligada automaticamente.
+
+
+Art. 6º.
+
+O CMDRASS terá uma Diretoria Executiva composta por um Presidente, um Vice-Presidente e um Secretário Executivo.
+
+
+§ 1º
+
+A presidência deverá ser exercida por um representante da sociedade civil.
+
+
+§ 2º
+
+O Presidente, o Vice-Presidente e o Secretário Executivo serão eleitos dentre os membros do Conselho por maioria simples dos votos e nomeados por ato do Prefeito Municipal.
+
+
+§ 3º
+
+A duração dos mandatos do Presidente, Vice-Presidente e do Secretário Executivo será de dois anos, permitida uma única recondução.
+
+
+Art. 7º.
+
+O CMDRASS poderá destituir e substituir toda a Diretoria Executiva ou qualquer membro desta que não cumprir e/ou transgredir dispositivos desta Lei ou do Regimento Interno do Conselho mediante o voto de dois terços dos Conselheiros.
+
+
+Art. 8º.
+
+Sempre que houver necessidade, poderão participar das reuniões do CMDRASS convidados que possam contribuir para a discussão dos temas em pauta, sem direito a voto.
+
+
+Art. 9º.
+
+O CMDRASS instituirá seus atos através de resoluções aprovadas pela maioria simples de seus membros.
+
+
+Art. 10.
+
+O CMDRASS elaborará, num prazo de 60 (sessenta) dias a contar da data em que forem nomeados seus representantes, por ato do Prefeito Municipal, atualização do Regimento Interno, o qual será referendado por maioria simples de seus membros e homologado pelo Prefeito Municipal.
+
+
+Art. 11.
+
+O Poder Executivo Municipal prestará ao CMDRASS o suporte técnico-administrativo, jurídico e operacional, sem prejuízo da colaboração das demais entidades que o compõem.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação, revogando a Lei complementar 035/2002, Lei Complementar nº 037/2003 e Lei Complementar nº 038/2004.
+
+
+Corumbiara/RO, 26 de NOVEMBRO de 2019.
+
+**LAÉRCIO MARCHINI**  
+Prefeito Municipal
+

@@ -1,0 +1,2014 @@
+{
+  "estado": "indice_completo",
+  "total": 186,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/3060-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.060, de 17 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/1/3060-2024.pdf",
+      "ano": 2024,
+      "norma": 9
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/3058-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.058, de 17 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/2/3058-2024.pdf",
+      "ano": 2024,
+      "norma": 10
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/3059-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.059, de 17 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/3/3059-2024.pdf",
+      "ano": 2024,
+      "norma": 11
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/3061-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.061, de 17 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/4/3061-2024.pdf",
+      "ano": 2024,
+      "norma": 12
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/3062-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.062, de 17 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/5/3062-2024.pdf",
+      "ano": 2024,
+      "norma": 13
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/3063-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.063, de 07 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/6/3063-2024.pdf",
+      "ano": 2024,
+      "norma": 14
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/3064-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.064, de 07 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/7/3064-2024.pdf",
+      "ano": 2024,
+      "norma": 15
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/3065-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.065, de 07 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/8/3065-2024.pdf",
+      "ano": 2024,
+      "norma": 16
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/3066-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.066, de 07 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/9/3066-2024.pdf",
+      "ano": 2024,
+      "norma": 17
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/3067-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.067, de 21 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/10/3067-2024.pdf",
+      "ano": 2024,
+      "norma": 18
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/3068-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.068, de 04 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/11/3068-2024.pdf",
+      "ano": 2024,
+      "norma": 19
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/3069-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.069, de 04 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/12/3069-2024.pdf",
+      "ano": 2024,
+      "norma": 20
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/3070-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.070, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/13/3070-2024.pdf",
+      "ano": 2024,
+      "norma": 21
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/3071-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.071, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/14/3071-2024.pdf",
+      "ano": 2024,
+      "norma": 22
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/3072-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.072, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/15/3072-2024.pdf",
+      "ano": 2024,
+      "norma": 23
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/3073-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.073, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/16/3073-2024.pdf",
+      "ano": 2024,
+      "norma": 24
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/3074-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.074, de 08 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/17/3074-2024.pdf",
+      "ano": 2024,
+      "norma": 25
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/3075-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.075, de 27 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/18/3075-2024.pdf",
+      "ano": 2024,
+      "norma": 26
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/3076-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.076, de 27 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/19/3076-2024.pdf",
+      "ano": 2024,
+      "norma": 27
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/20/3077-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.077, de 27 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/20/3077-2024.pdf",
+      "ano": 2024,
+      "norma": 28
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/21/3078-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.078, de 27 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/21/3078-2024.pdf",
+      "ano": 2024,
+      "norma": 29
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/3079-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.079, de 05 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/22/3079-2024.pdf",
+      "ano": 2024,
+      "norma": 30
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/23/resolucao_de_plenario_n__001-2024_-__normatiza_lei_14.133.pdf da norma RESOLUÇÃO-SLEG nº 1, de 10 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Saimon Antonio Rodrigues da Costa",
+                [
+                  "2024-04-16T09:11:28-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Suelen Daiana Meireles da Silva",
+                [
+                  "2024-04-16T09:11:44-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/23/resolucao_de_plenario_n__001-2024_-__normatiza_lei_14.133.pdf",
+      "ano": 2024,
+      "norma": 31
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/24/3080.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.080, de 01 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/24/3080.pdf",
+      "ano": 2024,
+      "norma": 32
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/25/3081.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.081, de 01 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/25/3081.pdf",
+      "ano": 2024,
+      "norma": 33
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/26/3082.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.082, de 01 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/26/3082.pdf",
+      "ano": 2024,
+      "norma": 34
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/3083.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.083, de 01 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/27/3083.pdf",
+      "ano": 2024,
+      "norma": 35
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/28/000101012022.pdf da norma RESOLUÇÃO DE MESA-SLEG nº 1, de 14 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/28/000101012022.pdf",
+      "ano": 2024,
+      "norma": 36
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/29/lei_municipal_3.084-24.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.084, de 06 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/29/lei_municipal_3.084-24.pdf",
+      "ano": 2024,
+      "norma": 37
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/30/lei_municipal_3.085-24.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.085, de 06 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/30/lei_municipal_3.085-24.pdf",
+      "ano": 2024,
+      "norma": 38
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/31/lei_municipal_3.086-24.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.086, de 06 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/31/lei_municipal_3.086-24.pdf",
+      "ano": 2024,
+      "norma": 39
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/32/lei_municipal_3.087-24.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.087, de 06 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/32/lei_municipal_3.087-24.pdf",
+      "ano": 2024,
+      "norma": 40
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/33/lei_municipal_3.088-24.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.088, de 05 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/33/lei_municipal_3.088-24.pdf",
+      "ano": 2024,
+      "norma": 41
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/34/lei_municipal_3.089-24.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.089, de 05 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/34/lei_municipal_3.089-24.pdf",
+      "ano": 2024,
+      "norma": 42
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/35/lei_municipal_3.090-24.pdf da norma LEI ORDINÁRIA MUNICIPAL-SLEG nº 3.090, de 05 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/35/lei_municipal_3.090-24.pdf",
+      "ano": 2024,
+      "norma": 43
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/36/lei_municipal_n_3.103-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.103, de 06 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/36/lei_municipal_n_3.103-2025.pdf",
+      "ano": 2025,
+      "norma": 45
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/37/lei_municipal_n_3.104-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.104, de 06 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/37/lei_municipal_n_3.104-2025.pdf",
+      "ano": 2025,
+      "norma": 46
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/lei_municipal_n_3.105-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.105, de 06 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/38/lei_municipal_n_3.105-2025.pdf",
+      "ano": 2025,
+      "norma": 47
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/lei_municipal_n_3.102-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.102, de 06 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/39/lei_municipal_n_3.102-2025.pdf",
+      "ano": 2025,
+      "norma": 44
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/40/lei_municipal_n3.091-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.091, de 19 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/40/lei_municipal_n3.091-2024.pdf",
+      "ano": 2024,
+      "norma": 48
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/41/lei_municipal_n3.092-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.092, de 23 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/41/lei_municipal_n3.092-2024.pdf",
+      "ano": 2024,
+      "norma": 49
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/42/lei_municipal_n3.093-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 4, de 23 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/42/lei_municipal_n3.093-2024.pdf",
+      "ano": 2024,
+      "norma": 50
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/43/lei_municipal_n3.094-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 5, de 06 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/43/lei_municipal_n3.094-2024.pdf",
+      "ano": 2024,
+      "norma": 51
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/44/lei_municipal_n3.095-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 6, de 20 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/44/lei_municipal_n3.095-2024.pdf",
+      "ano": 2024,
+      "norma": 52
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/45/lei_municipal_n3.096-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 7, de 20 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/45/lei_municipal_n3.096-2024.pdf",
+      "ano": 2024,
+      "norma": 53
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/46/lei_municipal_n3.097-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 8, de 04 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/46/lei_municipal_n3.097-2024.pdf",
+      "ano": 2024,
+      "norma": 54
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/47/lei_municipal_n3.098-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.098, de 04 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/47/lei_municipal_n3.098-2024.pdf",
+      "ano": 2024,
+      "norma": 55
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/48/lei_municipal_n3.099-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.099, de 04 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/48/lei_municipal_n3.099-2024.pdf",
+      "ano": 2024,
+      "norma": 56
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/49/lei_municipal_n3.100-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.100, de 04 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/49/lei_municipal_n3.100-2024.pdf",
+      "ano": 2024,
+      "norma": 57
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/50/lei_municipal_n3.101-2024.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.101, de 04 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2024/50/lei_municipal_n3.101-2024.pdf",
+      "ano": 2024,
+      "norma": 58
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/lei_municipal_n3.106-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.106, de 21 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/51/lei_municipal_n3.106-2025.pdf",
+      "ano": 2025,
+      "norma": 59
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/lei_municipal_n3.107-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.107, de 21 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/52/lei_municipal_n3.107-2025.pdf",
+      "ano": 2025,
+      "norma": 60
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/53/lei_municipal_n3.108-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.108, de 21 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/53/lei_municipal_n3.108-2025.pdf",
+      "ano": 2025,
+      "norma": 61
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/54/lei_municipal_n3.109-2025_-_autoriza_executivo_municipal_a_efetuar_contratacao_temporaria_-_odontologo.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.109, de 07 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/54/lei_municipal_n3.109-2025_-_autoriza_executivo_municipal_a_efetuar_contratacao_temporaria_-_odontologo.pdf",
+      "ano": 2025,
+      "norma": 62
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/lei_municipal_n_3.110-2025_-_estabelece_o_subsidio_dos_secretarios_municipais.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.110, de 07 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/55/lei_municipal_n_3.110-2025_-_estabelece_o_subsidio_dos_secretarios_municipais.pdf",
+      "ano": 2025,
+      "norma": 63
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/56/lei_municipal_n3.111-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.111, de 24 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/56/lei_municipal_n3.111-2025.pdf",
+      "ano": 2025,
+      "norma": 64
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/57/lei_municipal_n3.112-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.112, de 24 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/57/lei_municipal_n3.112-2025.pdf",
+      "ano": 2025,
+      "norma": 65
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/58/lei_municipal_n3.113-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.113, de 24 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/58/lei_municipal_n3.113-2025.pdf",
+      "ano": 2025,
+      "norma": 66
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/lei_municipal_n3.114-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.114, de 24 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/59/lei_municipal_n3.114-2025.pdf",
+      "ano": 2025,
+      "norma": 67
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/lei_municipal_n3.115-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.115, de 10 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/60/lei_municipal_n3.115-2025.pdf",
+      "ano": 2025,
+      "norma": 68
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/lei_municipal_n3.116-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.116, de 10 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/61/lei_municipal_n3.116-2025.pdf",
+      "ano": 2025,
+      "norma": 69
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/62/lei_municipal_n3.117-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.117, de 10 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/62/lei_municipal_n3.117-2025.pdf",
+      "ano": 2025,
+      "norma": 70
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/63/lei_municipal_n3.119-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.119, de 12 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/63/lei_municipal_n3.119-2025.pdf",
+      "ano": 2025,
+      "norma": 71
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/64/lei_municipal_n3.118-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.118, de 10 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/64/lei_municipal_n3.118-2025.pdf",
+      "ano": 2025,
+      "norma": 72
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/65/lei_municipal_n_3.120-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.120, de 12 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/65/lei_municipal_n_3.120-2025.pdf",
+      "ano": 2025,
+      "norma": 73
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/lei_municipal_n3.121-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.121, de 19 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/66/lei_municipal_n3.121-2025.pdf",
+      "ano": 2025,
+      "norma": 74
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/lei_municipal_n3.122-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.122, de 19 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/67/lei_municipal_n3.122-2025.pdf",
+      "ano": 2025,
+      "norma": 75
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/68/lei_municipal_n3.123-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.123, de 19 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/68/lei_municipal_n3.123-2025.pdf",
+      "ano": 2025,
+      "norma": 76
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/69/lei_municipal_n3.124-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.124, de 19 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/69/lei_municipal_n3.124-2025.pdf",
+      "ano": 2025,
+      "norma": 77
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/70/lei_municipal_n3.125-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.125, de 19 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/70/lei_municipal_n3.125-2025.pdf",
+      "ano": 2025,
+      "norma": 78
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/71/lei_municipal_n3.126-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.126, de 19 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/71/lei_municipal_n3.126-2025.pdf",
+      "ano": 2025,
+      "norma": 79
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/72/lei_municipal_no_3.127_-_2025_contratacao_temporaria_-_auxiliar_social.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.127, de 10 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Franciel Tiago Izycki",
+                [
+                  "2025-04-10T15:15:56-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/72/lei_municipal_no_3.127_-_2025_contratacao_temporaria_-_auxiliar_social.pdf",
+      "ano": 2025,
+      "norma": 80
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/73/lei_municipal_no_3.128-_2025_contratacao_temporaria_-_professor_20_h.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.128, de 10 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Franciel Tiago Izycki",
+                [
+                  "2025-04-10T15:16:15-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/73/lei_municipal_no_3.128-_2025_contratacao_temporaria_-_professor_20_h.pdf",
+      "ano": 2025,
+      "norma": 81
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/74/lei_municipal_no_3.129-_2025_contratacao_temporaria_-_fisioterapeuta.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.129, de 10 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Franciel Tiago Izycki",
+                [
+                  "2025-04-10T15:16:49-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/74/lei_municipal_no_3.129-_2025_contratacao_temporaria_-_fisioterapeuta.pdf",
+      "ano": 2025,
+      "norma": 82
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/75/lei_municipal_no_3.130_-_2025_contratacao_temporaria_-_auxiliar_saude_bucal.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.130, de 10 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Franciel Tiago Izycki",
+                [
+                  "2025-04-10T15:17:22-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/75/lei_municipal_no_3.130_-_2025_contratacao_temporaria_-_auxiliar_saude_bucal.pdf",
+      "ano": 2025,
+      "norma": 83
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/76/lei_municipal_n_3.131-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.131, de 29 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/76/lei_municipal_n_3.131-2025.pdf",
+      "ano": 2025,
+      "norma": 84
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/77/lei_municipal_n_3.132-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.132, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/77/lei_municipal_n_3.132-2025.pdf",
+      "ano": 2025,
+      "norma": 85
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/78/lei_municipal_n_3.133-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.133, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/78/lei_municipal_n_3.133-2025.pdf",
+      "ano": 2025,
+      "norma": 86
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/79/lei_municipal_n_3.134-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.134, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/79/lei_municipal_n_3.134-2025.pdf",
+      "ano": 2025,
+      "norma": 87
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/80/lei_municipal_n_3.135-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.135, de 22 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/80/lei_municipal_n_3.135-2025.pdf",
+      "ano": 2025,
+      "norma": 88
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/81/lei_municipal_n_3.136-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.136, de 22 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/81/lei_municipal_n_3.136-2025.pdf",
+      "ano": 2025,
+      "norma": 89
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/82/lei_municipal_n_3.137-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.137, de 03 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/82/lei_municipal_n_3.137-2025.pdf",
+      "ano": 2025,
+      "norma": 90
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/83/lei_municipal_n_3.138-2025_com_anexos.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.138, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/83/lei_municipal_n_3.138-2025_com_anexos.pdf",
+      "ano": 2025,
+      "norma": 91
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/84/lei_municipal_n_3.139-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.139, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/84/lei_municipal_n_3.139-2025.pdf",
+      "ano": 2025,
+      "norma": 92
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/85/lei_municipal_n_3.140-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.140, de 17 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/85/lei_municipal_n_3.140-2025.pdf",
+      "ano": 2025,
+      "norma": 93
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/86/lei_municipal_3.141-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.141, de 09 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/86/lei_municipal_3.141-2025.pdf",
+      "ano": 2025,
+      "norma": 94
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/87/lei_municipal_3.142-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.142, de 09 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/87/lei_municipal_3.142-2025.pdf",
+      "ano": 2025,
+      "norma": 95
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/88/lei_municipal_3.143-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.143, de 09 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/88/lei_municipal_3.143-2025.pdf",
+      "ano": 2025,
+      "norma": 96
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/89/lei_municipal_3.144-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.144, de 09 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/89/lei_municipal_3.144-2025.pdf",
+      "ano": 2025,
+      "norma": 97
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/90/lei_municipal_n_3.145-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.145, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/90/lei_municipal_n_3.145-2025.pdf",
+      "ano": 2025,
+      "norma": 98
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/91/lei_municipal_n_3.146-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.146, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/91/lei_municipal_n_3.146-2025.pdf",
+      "ano": 2025,
+      "norma": 99
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/92/lei_municipal_n_3.147-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.147, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/92/lei_municipal_n_3.147-2025.pdf",
+      "ano": 2025,
+      "norma": 100
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/93/lei_municipal_n_3.148-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.148, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/93/lei_municipal_n_3.148-2025.pdf",
+      "ano": 2025,
+      "norma": 101
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/94/lei_municipal_n_3.149-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.149, de 05 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/94/lei_municipal_n_3.149-2025.pdf",
+      "ano": 2025,
+      "norma": 102
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/95/lei_municipal_n_3.150-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.150, de 05 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/95/lei_municipal_n_3.150-2025.pdf",
+      "ano": 2025,
+      "norma": 103
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/96/lei_municipal_n_3.151-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.151, de 05 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/96/lei_municipal_n_3.151-2025.pdf",
+      "ano": 2025,
+      "norma": 104
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/97/lei_municipal_n_3.152-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.152, de 05 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/97/lei_municipal_n_3.152-2025.pdf",
+      "ano": 2025,
+      "norma": 105
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/98/lei_municipal_n_3.153-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.153, de 19 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/98/lei_municipal_n_3.153-2025.pdf",
+      "ano": 2025,
+      "norma": 106
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/99/lei_municipal_n_3.154-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.154, de 19 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/99/lei_municipal_n_3.154-2025.pdf",
+      "ano": 2025,
+      "norma": 107
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/100/lei_municipal_n_3.155-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.155, de 19 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/100/lei_municipal_n_3.155-2025.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/101/lei_municipal_n3.156-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.156, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/101/lei_municipal_n3.156-2025.pdf",
+      "ano": 2025,
+      "norma": 109
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/102/lei_municipal_n3.157-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.157, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/102/lei_municipal_n3.157-2025.pdf",
+      "ano": 2025,
+      "norma": 110
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/103/lei_municipal_n3.158-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.158, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/103/lei_municipal_n3.158-2025.pdf",
+      "ano": 2025,
+      "norma": 111
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/104/lei_municipal_n3.159-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.159, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/104/lei_municipal_n3.159-2025.pdf",
+      "ano": 2025,
+      "norma": 112
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/105/lei_municipal_n3.160-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.160, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/105/lei_municipal_n3.160-2025.pdf",
+      "ano": 2025,
+      "norma": 113
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/106/lei_municipal_n3.161-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.161, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/106/lei_municipal_n3.161-2025.pdf",
+      "ano": 2025,
+      "norma": 114
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/107/lei_municipal_n3.162-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.162, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/107/lei_municipal_n3.162-2025.pdf",
+      "ano": 2025,
+      "norma": 115
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/108/lei_municipal_n3.163-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.163, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/108/lei_municipal_n3.163-2025.pdf",
+      "ano": 2025,
+      "norma": 116
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/109/lei_municipal_n3.164-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.164, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/109/lei_municipal_n3.164-2025.pdf",
+      "ano": 2025,
+      "norma": 117
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/110/lei_municipal_n_3.165-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.165, de 19 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/110/lei_municipal_n_3.165-2025.pdf",
+      "ano": 2025,
+      "norma": 118
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/111/lei_municipal_3.166-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.166, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/111/lei_municipal_3.166-2025.pdf",
+      "ano": 2025,
+      "norma": 119
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/112/lei_municipal_3.167-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.167, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/112/lei_municipal_3.167-2025.pdf",
+      "ano": 2025,
+      "norma": 120
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/113/lei_municipal_3.168-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.168, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/113/lei_municipal_3.168-2025.pdf",
+      "ano": 2025,
+      "norma": 121
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/114/lei_municipal_3.169-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.169, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/114/lei_municipal_3.169-2025.pdf",
+      "ano": 2025,
+      "norma": 122
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/115/lei_municipal_3.170-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.170, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/115/lei_municipal_3.170-2025.pdf",
+      "ano": 2025,
+      "norma": 123
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/116/lei_municipal_n_3.171-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.171, de 21 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/116/lei_municipal_n_3.171-2025.pdf",
+      "ano": 2025,
+      "norma": 124
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/117/lei_municipal_n_3.172-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.172, de 21 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/117/lei_municipal_n_3.172-2025.pdf",
+      "ano": 2025,
+      "norma": 125
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/118/lei_municipal_n_3.173-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.173, de 05 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/118/lei_municipal_n_3.173-2025.pdf",
+      "ano": 2025,
+      "norma": 126
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/119/lei_municipal_n_3.174-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.174, de 05 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/119/lei_municipal_n_3.174-2025.pdf",
+      "ano": 2025,
+      "norma": 127
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/120/lei_municipal_n_3.175-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.175, de 05 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/120/lei_municipal_n_3.175-2025.pdf",
+      "ano": 2025,
+      "norma": 128
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/121/lei_municipal_n_3.176-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.176, de 05 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/121/lei_municipal_n_3.176-2025.pdf",
+      "ano": 2025,
+      "norma": 129
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/122/lei_municipal_n_3.177-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.177, de 05 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/122/lei_municipal_n_3.177-2025.pdf",
+      "ano": 2025,
+      "norma": 130
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/123/lei_municipal_n_3.178-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.178, de 05 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/123/lei_municipal_n_3.178-2025.pdf",
+      "ano": 2025,
+      "norma": 131
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/124/lei_municipal_n_3.179-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.179, de 18 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/124/lei_municipal_n_3.179-2025.pdf",
+      "ano": 2025,
+      "norma": 132
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/125/lei_municipal_n_3.180-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.180, de 18 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/125/lei_municipal_n_3.180-2025.pdf",
+      "ano": 2025,
+      "norma": 133
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/126/lei_municipal_n_3.181-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.181, de 18 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/126/lei_municipal_n_3.181-2025.pdf",
+      "ano": 2025,
+      "norma": 134
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/127/lei_municipal_3.182-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.182, de 03 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/127/lei_municipal_3.182-2025.pdf",
+      "ano": 2025,
+      "norma": 135
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/128/lei_municipal_3.183-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.183, de 03 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/128/lei_municipal_3.183-2025.pdf",
+      "ano": 2025,
+      "norma": 136
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/129/lei_municipal_3.184-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.184, de 03 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/129/lei_municipal_3.184-2025.pdf",
+      "ano": 2025,
+      "norma": 137
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/130/lei_municipal_3.185-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.185, de 03 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/130/lei_municipal_3.185-2025.pdf",
+      "ano": 2025,
+      "norma": 139
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/131/lei_municipal_3.187-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.187, de 03 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/131/lei_municipal_3.187-2025.pdf",
+      "ano": 2025,
+      "norma": 141
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/132/lei_municipal_3.188-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.188, de 03 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/132/lei_municipal_3.188-2025.pdf",
+      "ano": 2025,
+      "norma": 142
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/133/lei_municipal_3.189-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.189, de 05 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/133/lei_municipal_3.189-2025.pdf",
+      "ano": 2025,
+      "norma": 143
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/134/lei_municipal_3.190-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.190, de 05 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/134/lei_municipal_3.190-2025.pdf",
+      "ano": 2025,
+      "norma": 144
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/135/lei_3.191-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.191, de 20 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/135/lei_3.191-2026.pdf",
+      "ano": 2026,
+      "norma": 145
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/136/lei_3.192-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.192, de 20 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/136/lei_3.192-2026.pdf",
+      "ano": 2026,
+      "norma": 146
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/137/lei_3.193-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.193, de 20 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/137/lei_3.193-2026.pdf",
+      "ano": 2026,
+      "norma": 147
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/138/lei_complementar_001-2026.pdf da norma LEI COMPLEMENTAR-PROCEX nº 1, de 20 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/138/lei_complementar_001-2026.pdf",
+      "ano": 2026,
+      "norma": 148
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/139/lei_municipal_3.194-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.194, de 30 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/139/lei_municipal_3.194-2026.pdf",
+      "ano": 2026,
+      "norma": 149
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/140/resolucao_de_plenario_01-2025_07-10-2025.pdf da norma RESOLUÇÃO DE PLENÁRIO-SLEG nº 1, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/140/resolucao_de_plenario_01-2025_07-10-2025.pdf",
+      "ano": 2025,
+      "norma": 150
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/141/lei_municipal_3.195-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.195, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/141/lei_municipal_3.195-2026.pdf",
+      "ano": 2026,
+      "norma": 151
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/142/lei_municipal_3.196-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.196, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/142/lei_municipal_3.196-2026.pdf",
+      "ano": 2026,
+      "norma": 152
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/143/lei_municipal_3.197-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.197, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/143/lei_municipal_3.197-2026.pdf",
+      "ano": 2026,
+      "norma": 153
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/144/lei_municipal_3.198-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.198, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/144/lei_municipal_3.198-2026.pdf",
+      "ano": 2026,
+      "norma": 154
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/145/lei_municipal_3.199-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.199, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/145/lei_municipal_3.199-2026.pdf",
+      "ano": 2026,
+      "norma": 155
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/146/lei_municipal_3.200-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.200, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/146/lei_municipal_3.200-2026.pdf",
+      "ano": 2026,
+      "norma": 156
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/147/lei_municipal_3.201-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.201, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/147/lei_municipal_3.201-2026.pdf",
+      "ano": 2026,
+      "norma": 157
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/148/lei_municipal_3.202-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.202, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/148/lei_municipal_3.202-2026.pdf",
+      "ano": 2026,
+      "norma": 158
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/149/lei_municipal_3.203-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.203, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/149/lei_municipal_3.203-2026.pdf",
+      "ano": 2026,
+      "norma": 159
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/150/lei_complementar_n_002-2026.pdf da norma LEI COMPLEMENTAR-PROCEX nº 2, de 06 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/150/lei_complementar_n_002-2026.pdf",
+      "ano": 2026,
+      "norma": 160
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/151/lei_municipal_3.204-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.204, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/151/lei_municipal_3.204-2026.pdf",
+      "ano": 2026,
+      "norma": 161
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/152/lei_municipal_3.205-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.205, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/152/lei_municipal_3.205-2026.pdf",
+      "ano": 2026,
+      "norma": 162
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/153/lei_municipal_3.206-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.206, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/153/lei_municipal_3.206-2026.pdf",
+      "ano": 2026,
+      "norma": 163
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/154/l3207-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.207, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/154/l3207-2026.pdf",
+      "ano": 2026,
+      "norma": 164
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/155/l3208-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.208, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/155/l3208-2026.pdf",
+      "ano": 2026,
+      "norma": 165
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/156/lei_municipal_3.209-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.209, de 18 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/156/lei_municipal_3.209-2026.pdf",
+      "ano": 2026,
+      "norma": 167
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/157/lei_municipal_3.210-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.210, de 07 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/157/lei_municipal_3.210-2026.pdf",
+      "ano": 2026,
+      "norma": 168
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/158/lei_municipal_3.211-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.211, de 07 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/158/lei_municipal_3.211-2026.pdf",
+      "ano": 2026,
+      "norma": 169
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/159/lei_municipal_3.212-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.212, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/159/lei_municipal_3.212-2026.pdf",
+      "ano": 2026,
+      "norma": 171
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/160/lei_municipal_3.213-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.213, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/160/lei_municipal_3.213-2026.pdf",
+      "ano": 2026,
+      "norma": 172
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/161/lei_municipal_3.214-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.214, de 22 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/161/lei_municipal_3.214-2026.pdf",
+      "ano": 2026,
+      "norma": 173
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/162/lei_municipal_3.215-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.215, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/162/lei_municipal_3.215-2026.pdf",
+      "ano": 2026,
+      "norma": 174
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/163/lei_municipal_3.216-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.216, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/163/lei_municipal_3.216-2026.pdf",
+      "ano": 2026,
+      "norma": 175
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/164/lei_municipal_3.217-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.217, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/164/lei_municipal_3.217-2026.pdf",
+      "ano": 2026,
+      "norma": 176
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/165/lei_municipal_3.218-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.218, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/165/lei_municipal_3.218-2026.pdf",
+      "ano": 2026,
+      "norma": 177
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/166/lei_municipal_3.219-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.219, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/166/lei_municipal_3.219-2026.pdf",
+      "ano": 2026,
+      "norma": 178
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/167/lei_municipal_3.220-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.220, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/167/lei_municipal_3.220-2026.pdf",
+      "ano": 2026,
+      "norma": 179
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/168/lei_municipal_3.221-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.221, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/168/lei_municipal_3.221-2026.pdf",
+      "ano": 2026,
+      "norma": 180
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/169/lei_municipal_3222-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.222, de 26 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/169/lei_municipal_3222-2026.pdf",
+      "ano": 2026,
+      "norma": 181
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/170/decreto_legislativo_04-2025_-_aprovacao_das_contas_2023_padrao.pdf da norma DECRETO LEGISLATIVO-SLEG nº 4, de 15 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Douglas Martin",
+                [
+                  "2025-10-15T16:09:10-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Suelen Daiana Meireles da Silva",
+                [
+                  "2025-10-15T16:09:49-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2025/170/decreto_legislativo_04-2025_-_aprovacao_das_contas_2023_padrao.pdf",
+      "ano": 2025,
+      "norma": 183
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/171/lei_municipal_3.224-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.224, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/171/lei_municipal_3.224-2026.pdf",
+      "ano": 2026,
+      "norma": 184
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/172/lei_municipal_3.225-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.225, de 21 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/172/lei_municipal_3.225-2026.pdf",
+      "ano": 2026,
+      "norma": 185
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/173/lei_municipal_3.226-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.226, de 21 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/173/lei_municipal_3.226-2026.pdf",
+      "ano": 2026,
+      "norma": 186
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/174/lei_municipal_3.227-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.227, de 21 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/174/lei_municipal_3.227-2026.pdf",
+      "ano": 2026,
+      "norma": 187
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/175/lei_municipal_3.228-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.228, de 21 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/175/lei_municipal_3.228-2026.pdf",
+      "ano": 2026,
+      "norma": 188
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/176/lei_municipal_3.229-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.229, de 21 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/176/lei_municipal_3.229-2026.pdf",
+      "ano": 2026,
+      "norma": 189
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/177/lei_municipal_3.230-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.230, de 04 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/177/lei_municipal_3.230-2026.pdf",
+      "ano": 2026,
+      "norma": 190
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/178/lei_municipal_3.231-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.231, de 04 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/178/lei_municipal_3.231-2026.pdf",
+      "ano": 2026,
+      "norma": 191
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/179/decreto_legislativo_04-2026_-_aprovacao_das_contas_2024_padrao_assinado_28129_assinado.pdf da norma DECRETO LEGISLATIVO-SLEG nº 4, de 04 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Saimon Antonio Rodrigues da Costa",
+                [
+                  "2026-08-06T14:47:09-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Suelen Daiana Meireles da Silva",
+                [
+                  "2026-08-06T14:51:25-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/179/decreto_legislativo_04-2026_-_aprovacao_das_contas_2024_padrao_assinado_28129_assinado.pdf",
+      "ano": 2026,
+      "norma": 192
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/180/lei_municipal_3.232-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.232, de 18 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/180/lei_municipal_3.232-2026.pdf",
+      "ano": 2026,
+      "norma": 195
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/181/lei_municipal_3.233-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.233, de 18 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/181/lei_municipal_3.233-2026.pdf",
+      "ano": 2026,
+      "norma": 196
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/182/lei_municipal_3.235-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.235, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/182/lei_municipal_3.235-2026.pdf",
+      "ano": 2026,
+      "norma": 199
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/183/lei_municipal_3.236-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.236, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/183/lei_municipal_3.236-2026.pdf",
+      "ano": 2026,
+      "norma": 200
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/184/lei_municipal_3.237-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.237, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/184/lei_municipal_3.237-2026.pdf",
+      "ano": 2026,
+      "norma": 201
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/185/lei_municipal_n_3.238-2026_com_anexos.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.238, de 22 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/185/lei_municipal_n_3.238-2026_com_anexos.pdf",
+      "ano": 2026,
+      "norma": 202
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/186/lei_municipal_n_3.239-2026.pdf da norma LEI ORDINÁRIA MUNICIPAL-PROCEX nº 3.239, de 22 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.baraodecotegipe.rs.leg.br/media/sapl/public/anexonormajuridica/2026/186/lei_municipal_n_3.239-2026.pdf",
+      "ano": 2026,
+      "norma": 203
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baraodecotegipe.rs.leg.br/08798fc5ad0ac00b80a17ce116056040bfa29227fc2c9f422d6f2808d133f715.json",
+      "url": "https://sapl.baraodecotegipe.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.baraodecotegipe.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "506641a1091042b2f0ed26449972d7e0770e23b980633bb6e633287d6209f678",
+      "bytes": 42905,
+      "capturado_em": "2026-10-27T17:09:56.751160-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baraodecotegipe.rs.leg.br/8d25250f4620b32d5abba87068f9c13ff0e5480120174bdf9a98e90688c31a1b.json",
+      "url": "https://sapl.baraodecotegipe.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "url_final": "https://sapl.baraodecotegipe.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6f413b2f4925f5caa5560703a00b0b21520c965c28ac7d5fa9a1be897fa31a8f",
+      "bytes": 37430,
+      "capturado_em": "2026-10-27T17:09:57.624326-03:00"
+    }
+  ]
+}

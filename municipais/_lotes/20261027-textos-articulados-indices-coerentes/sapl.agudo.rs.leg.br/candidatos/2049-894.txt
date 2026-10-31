@@ -1,0 +1,320 @@
+ESTABELECE NORMAS PARA INSTALAÇÃO DE ESTAÇÕES RÁDIO BASE (ERBS) MICROCÉLULAS DE TELEFONIA CELULAR, FIXA E EQUIPAMENTOS AFINS.
+
+
+LAURO REINOLDO REETZ, PREFEITO MUNICIPAL DE AGUDO, FAÇO SABER, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+#### CAPÍTULO I — Disposições Preliminares
+
+
+Art. 1º.
+
+A instalação de Estações Rádio Base (ERBs), Microcélulas de Telefonia Celular, Fixa e Equipamentos Afins no município de Agudo, ficará condicionada a adoção das recomendações publicadas pelo Comitê Européen de NormalisationEletrotecnique – CENELEC – ENV 50166-2, 1995-01, pela Resolução 303 e seus anexos da Anatel - Agência Nacional de Telecomunicações e Human Exposure to Radio Freaquency Eletromagnetic Fieldes, “10 KHZ to 300 GHZ”, em face dos padrões brasileiros de faixas de freqüência de emissão utilizadas em Estações Rádio Base - ERBs de Telefonia Fixa, Celular e Equipamentos afins, como transmissores de rádios AM, FM, de Dados, retransmissorasde TV e demais serviços de telecomunicações.
+
+
+§ 1º
+
+Para as diferentes faixas de freqüências utilizadas por equipamentos de transmissão e seu equivalente nível de freqüência para exposição ao público em geral a campos elétricos e magnéticos variáveis no tempo, média em qualquer período de 6 (seis)minutos, será adotada a seguinte tabela:
+
+<table><tbody><tr><td>Faixas de Freqüência <br><br></td><td>Limite máximo de densidade de potência W/m²</td></tr><tr><td>10 – 400 MHz</td><td>2</td></tr><tr><td>400 – 2000 MHz</td><td>f/200 *</td></tr><tr><td>2 – 300 GHz</td><td>10</td></tr></tbody></table>
+
+\* f = freqüência de operação  
+- exemplo:  
+- para freqüência de 870 MHz (telefonia celular 800 MHz) o valor será de 4,35 W/m²;  
+- para freqüência de 1800 MHz (telefonia celular 1800 MHz) valor será de 9 W/m².
+
+
+§ 2º
+
+Toda a instalação de antenas transmissoras de radiação eletromagnética deverá ser realizada de modo que a densidade de potência irradiada total, em qualquer local passível de ocupação humana, não ultrapasse o limite especificado no § 1°, do art.1°, desta Lei.
+
+
+Art. 2º.
+
+É permitido o compartilhamento de estruturas para a instalação demais de uma estação rádio-base de telefonia celular, fixa e equipamentos afins, na mesma torre, desde que a densidade de potência não exceda o limite estabelecido no § 1°, do art. 1°, desta Lei.
+
+
+§ 1º
+
+quando o compartilhamento não for possível, a distância mínima entre duas ou mais estações rádio-base de telefonia celular e equipamentos afins, não poderá ser inferior a 300(trezentos) metros.
+
+
+§ 2º
+
+a instalação de antenas transmissoras deverá observar os seguintes afastamentos das divisas da propriedade:
+
+
+I –
+
+o afastamento lateral e fundos mínimo, será de 5 (cinco) metros;
+
+
+II –
+
+o recuo frontal mínimo será de 10(dez) metros.
+
+
+Art. 3º.
+
+Para a instalação de Estação Rádio Base (ERBs) microcélulas de telefonia celular, fixa e equipamentos afins, o empreendedor deverá solicitar ao Município de Agudo o Estudo de Viabilidade, através de requerimento acompanhado da seguinte documentação:
+
+
+I –
+
+planta de localização do terreno;
+
+
+II –
+
+planta de situação do empreendimento no terreno;
+
+
+III –
+
+fotografias do entorno, devendo contemplar a situação local sem a instalação e com fotomontagem da situação proposta;
+
+
+IV –
+
+laudo técnico teórico, assinado por profissional da área de radiação com a devida ART;
+
+
+V –
+
+laudo de cobertura vegetal, caso o terreno tenha cobertura arbórea e/ou arbustiva.
+
+
+Art. 4º.
+
+O Estudo de Viabilidade será analisado pelo Departamento Municipal de Meio Ambiente ou órgão conveniado.
+
+
+§ 1º
+
+O laudo técnico teórico deverá conter:
+
+
+I –
+
+faixa de freqüência de transmissão;
+
+
+II –
+
+altura, inclinação em relação a vertical e o ganho de irradiação das antenas;
+
+
+III –
+
+estimativa de densidade máxima de potência irradiada (quando se tem o número máximo de canais em operação), bem como os diagramas vertical e horizontal de irradiação da antena, em planta, contendo indicação de distâncias e respectiva densidade de potência;
+
+
+IV –
+
+estimativa de distância mínima da antena, para o atendimento do limite de densidade de potência estabelecido;
+
+
+V –
+
+indicação de medidas de segurança a serem adotadas de forma a evitar o acesso do público em zonas que excedam o limite estabelecido;
+
+
+§ 2º
+
+Aprovada a viabilidade, o empreendedor deverá apresentar:
+
+
+I –
+
+Projeto estrutural e técnico de construção da antena de Estação Rádio Base de Telefonia Celular, Fixa e equipamentos afins;
+
+
+II –
+
+Comprovante de propriedade e/ou locação do espaço destinado às instalações;
+
+
+III –
+
+Certidão negativa de IPTU;
+
+
+IV –
+
+Projeto paisagístico, contemplando essências arbóreas e arbustivas e rasteiras.
+
+
+Art. 5º.
+
+É vedada a instalação de Rádio-Base de telefonia celular, microcélulas para reprodução de sinal e equipamentos afins, nas seguintes situações:
+
+
+I –
+
+na área urbana do Município;
+
+
+II –
+
+em bens públicos municipais, mesmo que dominiais;
+
+
+III –
+
+em áreas verdes complementares, escolas, centros de comunidade, centros culturais, museus e no entorno de equipamentos de interesse sócio-cultural e paisagístico;
+
+
+IV –
+
+quando o ponto de emissão de radiação de antena transmissora esteja a uma distância inferior a 30 (trinta) metros da edificação e das áreas de acesso e circulação onde estiverem instaladas clínicas, centros de saúde, hospitais e assemelhados ou residências;
+
+
+V –
+
+quando a altura e a localização prejudicarem os aspectos paisagísticos do entorno e da região.
+
+
+Art. 6º.
+
+As obras e a instalação dos equipamentos de transmissão só poderão iniciar após a aprovação do projeto pelo Setor de Engenharia da Prefeitura Municipal.
+
+
+Art. 7º.
+
+Fica ao encargo do Município, através do Departamento Municipal de Meio Ambiente, por Decreto, regular as condições para instalação dos equipamentos de que trata a Lei, seguindo Comitê Européen de Normalisation Eletrotecnique – CENELEC – ENV50166-2, 1995-01, pela Agência Nacional de Telecomunicações – ANATEL e Human Exposure to Radio Freaquency Eletromagnetic Fieldes, “10 KHZ to 300 GHZ”.
+
+
+Art. 8º.
+
+O controle das radiações eletromagnéticas e a emissão da Licença de Operação com validade de 1 (um) ano, serão de responsabilidade do Departamento de Meio Ambiente, que deverá solicitar medições a cada renovação da Licença ou quando entender necessário, para certificação de que os equipamentos de transmissão e o sistema irradiante estejam em conformidade com o projeto aprovado.
+
+
+Art. 9º.
+
+Após a conclusão das obras e a instalação dos equipamentos, de transmissão, conforme projeto aprovado, o empreendedor deverá solicitar a Licença de Operação ao Departamento de Meio Ambiente, mediante apresentação do Laudo Radiométrico, assinado por físico ou engenheiro da área de radiação, com a devida ART(Anotação de Responsabilidade Técnica) e pagamento de taxa conforme Tabela constante do Anexo Único desta Lei., que terá os valores reajustados, anualmente, pela variação da URM, por Decreto, pelo Executivo Municipal.
+
+
+§ 1º
+
+No Laudo Radiométrico, deverá constar o levantamento dos níveis de densidade de potência nos limites da propriedade da instalação, edificações vizinhas e que apresentarem altura similar ou superior aos pontos de transmissão e de áreas julgadas sensíveis as radiações eletromagnéticas, em conformidade com estabelecido na presente Lei e por legislação complementar.
+
+
+§ 2º
+
+As medições devem ser feitas com equipamentos devidamente calibrados, dentro das especificações do fabricante e devem abranger toda a faixa de radiofreqüências de interesse. A descrição dos equipamentos de medição, incluindo marca, modelo e número de série deve constar do Laudo Radiométrico.
+
+
+§ 3º
+
+Ao laudo radiométrico deve estar anexada cópia de certificado de calibração, emitido pelo Inmetro, laboratório credenciado ou por instituição técnica devidamente capacitada, que comprove que a calibração do instrumento se encontrava dentro de sua validade, na data das medições.
+
+
+§ 4º
+
+No caso das ERBs de Telefonia Celular e Fixa a avaliação das radiações deverá conter medições de níveis de densidades de potências em qualquer período de 30(trinta) minutos, em situação de pleno funcionamento da ERB, ou seja, quando estiver com todos os canais em operação.
+
+
+§ 5º
+
+Na impossibilidade de garantir que todos os canais estejam simultaneamente acionados, as medições deverão ser realizadas em diferentes dias e horários, de forma a garantir que os horários de maior tráfego telefônico da ERB sejam considerados.
+
+
+Art. 10.
+
+O licenciamento de que trata a presente Lei, poderá ser cancelado a qualquer tempo se comprovado prejuízo ambiental e sanitário e que esteja diretamente relacionado com a localização do equipamento, a partir da legislação federal superveniente, que venha a regrar este assunto.
+
+
+Parágrafo único.
+
+No caso de o licenciamento deferido pela municipal idade ser cancelado, a empresa responsável será notificada e terá 90 (noventa) dias a partir da notificação para regularizar a situação da ERB (Estação Rádio Base) ou equipamentos afins autuados.
+
+
+Art. 11.
+
+Ficam isentos de licenciamento ambiental os sistemas transmissores e receptores associados a:
+
+
+I –
+
+Radares militares civis, com propósito de defesa ou controle de tráfego aéreo;
+
+
+II –
+
+Radioamador, faixa cidadão, estações do serviço limitado privado de uso próprio (rádio-táxi, rádio de polícia, corpo de bombeiros, etc...);
+
+
+III –
+
+Sistemas de Utilidade Pública (órgãos de Segurança Pública Federal, Estadual e Municipal);
+
+
+IV –
+
+Links de microondas (freqüência maior que 2 GHz) ponto a ponto.
+
+
+V –
+
+Equipamentos de transmissão com Potência Efetivamente Irradiada de até 30 dBm (EIRP em dBm).
+
+
+Parágrafo único.
+
+A instalação dos equipamentos referidos no artigo anterior, não está isenta dos demais alvarás, licenças ou certidões de qualquer natureza exigidos pela legislação Federal, Estadual ou Municipal.
+
+
+#### CAPÍTULO II — Das Disposições Finais
+
+
+Art. 12.
+
+As ERBs, microcélulas de retransmissão de sinal ou equipamentos afins, que estiverem instaladas em desconformidade com o ora determinado, a partir da publicação desta Lei, deverão ser adequadas em um prazo máximo de 90 (noventa) dias pelos interessados, exceto pela distância estabelecida no §1°, do art. 2°, desta Lei.
+
+
+Art. 13.
+
+As penalidades aplicáveis tendo em vista procedimentos que estiverem em desacordo com as recomendações ambientais e sanitárias são as especificadas pelo Departamento Municipal de Meio Ambiente, de acordo com a legislação municipal vigente.
+
+
+Art. 14.
+
+As situações peculiares para instalação de Estações Rádio Base de Telefonia Celular Fixa, microcélulas e equipamentos afins que não se enquadrarem na presente Lei, serão analisadas e encaminhadas caso a caso.
+
+
+Art. 15.
+
+O Poder Executivo regulamentará a presente Lei no que couber, por Decreto.
+
+
+Art. 16.
+
+Esta Lei entra em vigor na data de sua publicação, gerando efeitos a partir de 01 de janeiro de 2005, observando o disposto no art.150, Inciso III, letra “c”, da Constituição Federal.
+
+
+GABINETE DO PREFEITO MUNICIPAL, aos 29 de dezembro de 2004; 147º da Colonização e 45º da Emancipação.
+
+LAURO REINOLDO REETZ
+
+Prefeito Municipal
+
+Registre-se e publique-se.  
+  
+HASSO HARRAS BRÄUNIG  
+Sec.Mun.da Administração
+
+
+Anexo Único
+
+
+<table><colgroup></colgroup><colgroup span="6"></colgroup><tbody><tr><td colspan="7">TABELA DE CLASSIFICAÇÃO DE PORTE PARA O LICENCIAMENTO AMBIENTAL DE ESTAÇÕES RÁDIO BASE (ERBs) MICROCÉLULAS DE TELEFONIA CELULAR, FIXA E EQUIPAMENTOS AFINS.</td></tr><tr><td rowspan="2">ATIVIDADES</td><td colspan="6">PORTE EM dBm</td></tr><tr><td>Mínimo</td><td>Pequeno</td><td>Médio</td><td>Grande</td><td>Excepcional</td><td>Grau de Poluição</td></tr><tr><td>Estações rádio base equipamentos afins (EIRP* em dBm**)</td><td>&lt; 30</td><td>30 – 40</td><td>40 – 50</td><td>50 – 60</td><td>&gt; 60</td><td>Médio</td></tr></tbody></table>
+
+\* EIRP = Potência Efetivamente Irradiada
+
+\*\* dBm = Unidade de Medida da Potência Efetivamente Irradiada
+
+<table><colgroup></colgroup><colgroup span="5"></colgroup><tbody><tr><td colspan="6">TABELA DE VALORES PARA O LICENCIAMENTO DE ESTAÇÕES RÁDIO BASE MICROCÉLULAS DE TELEFONIA CELULAR, FIXA E EQUIPAMENTOS AFINS (EM R$)</td></tr><tr><td>PORTE P/ LICENÇA</td><td>MÍNIMO</td><td>PEQUENO</td><td>MÉDIO</td><td>GRANDE</td><td>EXCEPCIONAL</td></tr><tr><td>LO</td><td>Isento</td><td>635,37</td><td>816,91</td><td>1.089,22</td><td>1.815,37</td></tr></tbody></table>
+
+\- Os valores da Tabela acima serão atualizados, anualmente, pela variação da URM, por
+
+Decreto do Executivo Municipal.

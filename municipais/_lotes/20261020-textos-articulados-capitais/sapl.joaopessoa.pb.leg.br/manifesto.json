@@ -1,0 +1,52 @@
+{
+  "host": "sapl.joaopessoa.pb.leg.br",
+  "metadados_unicos_observados": 171,
+  "total_api_declarado": 171,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.joaopessoa.pb.leg.br/01807bf43c6f1fb00c8971d560a4d22191cca6b64d54a8d80a20c1bfbbf7ad00.json",
+    "url": "https://sapl.joaopessoa.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.joaopessoa.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9da81d503fcc8d6cf19efa3f0f2a1b219ccd03fef1bc0831be78438d1f9a73d8",
+    "bytes": 1475,
+    "capturado_em": "2026-10-20T23:28:32.679635"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.joaopessoa.pb.leg.br/5dcc0a68e95cdc31807254acf58b3a49e237916950aa2504701116b7622b1cff.json",
+    "url": "https://sapl.joaopessoa.pb.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.joaopessoa.pb.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "77f8bcc7841756e61b87e48ffa7629213f12aa769994e49236c28df234725b5a",
+    "bytes": 754,
+    "capturado_em": "2026-10-20T23:28:33.488506"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.joaopessoa.pb.leg.br/cad2773db3db779b02f0e31e82b21b7a3f2e732be513e407433203124125a057.json",
+      "url": "https://sapl.joaopessoa.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.joaopessoa.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fc08ff157aee730ecb350fd8fe806f7f3cc5b6dae10235652d3e5e35f1ee7cca",
+      "bytes": 67794,
+      "capturado_em": "2026-10-20T23:28:35.160568"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.joaopessoa.pb.leg.br/9a40fa45718be03c3d616452df914ebcd682cdada9aaeb179ffe8a8efeae9587.json",
+      "url": "https://sapl.joaopessoa.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.joaopessoa.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e4d4153f552136f806f4f8e34b1e44f7767c5fd561ab643ef8656aad80d9e96c",
+      "bytes": 53038,
+      "capturado_em": "2026-10-20T23:28:35.942359"
+    }
+  ],
+  "script_sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

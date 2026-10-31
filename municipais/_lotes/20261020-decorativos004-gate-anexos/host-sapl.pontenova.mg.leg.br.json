@@ -1,0 +1,2215 @@
+{
+  "host": "sapl.pontenova.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/1/promulgacao_dos_dispositivos_vetados_lei_4088.2016.pdf da norma Lei Complementar nº 4.088, de 22 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Ato de Promulgação dos dispositivos vetados, cujo veto foi derrubado pela Câmara.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/1/promulgacao_dos_dispositivos_vetados_lei_4088.2016.pdf",
+      "ano": 2016,
+      "norma": 2205
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/anexo_pl_3705.pdf da norma Lei nº 4.332, de 05 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO - Lei Municipal nº 4332/2019",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2019/2/anexo_pl_3705.pdf",
+      "ano": 2019,
+      "norma": 3376
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/3/acordao_adin_4599820-83-2007-8-13-0000.pdf da norma Lei nº 2.868, de 22 de novembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Acordão Ação Declaratória de Inconstitucionalidade - Lei Municipal n. 2.868-2005 - Julgada Improcedente\r\nVer ADIN nº 4599820-83.2007.8.13.0000 - TJMG",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/3/acordao_adin_4599820-83-2007-8-13-0000.pdf",
+      "ano": 2005,
+      "norma": 1709
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/demonstrativo_prioridades.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Prioridades",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/4/demonstrativo_prioridades.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/relatorio_da_divida_consolidada.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Relatório da Dívida Consolidada",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/5/relatorio_da_divida_consolidada.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/6/relatorio_de_avaliacao_percentual_do_crescimento_da_despesa.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Relatório de avaliação percentual do crescimento da Despesa",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/6/relatorio_de_avaliacao_percentual_do_crescimento_da_despesa.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/7/relatorio_de_avaliacao_percentual_do_crescimento_da_receita.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Relatório de avaliação percentual do crescimento da receita",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/7/relatorio_de_avaliacao_percentual_do_crescimento_da_receita.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/8/relatorio_de_cenario_da_receita.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Relatório de cenário da receita",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/8/relatorio_de_cenario_da_receita.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/relatorio_de_evolucao_patrimonial_receita_despesa_rppsl.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Relatório de evolução patrimonial despesa receita  - RPPSI",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/9/relatorio_de_evolucao_patrimonial_receita_despesa_rppsl.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/10/relatorio_de_projecao_da_despesa_anual.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Relatório de projeção da despesa anual",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/10/relatorio_de_projecao_da_despesa_anual.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/11/relatorio_de_projecao_da_receita_anual.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Relatório de projeção da receita anual",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/11/relatorio_de_projecao_da_receita_anual.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/12/relatorio_de_risco_fiscais_providencias_mensal.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Relatório de Risco mensal providência mensal",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/12/relatorio_de_risco_fiscais_providencias_mensal.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/13/relatorio_origem_aplicacao_recursos_obtidos_alienacao_ativos.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Relatório Origem da Aplicacao de Recursos Obtidos_Alienacao_Ativos",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/13/relatorio_origem_aplicacao_recursos_obtidos_alienacao_ativos.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/14/relatorioindicesoficiais.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Relatório de índices oficiais",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/14/relatorioindicesoficiais.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/15/relatoriometasanuais.pdf da norma Lei nº 4.407, de 28 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Relatório de metas anuais",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/15/relatoriometasanuais.pdf",
+      "ano": 2020,
+      "norma": 3938
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/16/anexos_-lei_4.440.pdf da norma Lei nº 4.440, de 02 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/16/anexos_-lei_4.440.pdf",
+      "ano": 2020,
+      "norma": 4036
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/17/lei_3.445.2010-anexo_6.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Município de Ponte Nova e seus perímetro urbanos",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/17/lei_3.445.2010-anexo_6.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/18/lei_3.445.2010-anexo_7.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Bairros da Sede do Município.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/18/lei_3.445.2010-anexo_7.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/19/lei_3.445.2010-anexo_8.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Zoneamento do Município II",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/19/lei_3.445.2010-anexo_8.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/21/lei_3.445.2010-anexo_9.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Zoneamento do Município II",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/21/lei_3.445.2010-anexo_9.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/22/lei_3.445.2010-anexo_10.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Hierarquização Viária I - Sede do Município",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/22/lei_3.445.2010-anexo_10.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/23/lei_3.445.2010-anexo_11.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Hierarquização Viária II",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/23/lei_3.445.2010-anexo_11.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/24/lei_3.445.2010-anexo_12.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Área com Alto Risco de Escorregamento",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/24/lei_3.445.2010-anexo_12.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/25/lei_3.445.2010-anexo_13.pdf da norma Lei Complementar nº 3.445, de 16 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Expansão Urbana",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/25/lei_3.445.2010-anexo_13.pdf",
+      "ano": 2010,
+      "norma": 60
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/26/anexo_lei_4.291.2019.pdf da norma Lei Complementar nº 4.291, de 30 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos de impacto orçamentário e financeiro no exercício atual e nos dois subsequentes.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2019/26/anexo_lei_4.291.2019.pdf",
+      "ano": 2019,
+      "norma": 3123
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/27/anexo_lei_4.490.2021.pdf da norma Lei nº 4.490, de 21 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "LDO  metas fiscais projeção receita",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2021/27/anexo_lei_4.490.2021.pdf",
+      "ano": 2021,
+      "norma": 6326
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/28/lei_4.088.2016-com_veto1.pdf da norma Lei Complementar nº 4.088, de 22 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 4.088 publicada em 22 de dezembro de 2016, com o veto do Prefeito.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/28/lei_4.088.2016-com_veto1.pdf",
+      "ano": 2016,
+      "norma": 2205
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/29/lei_2.203.1997-anexo.pdf da norma Lei Complementar nº 2.203, de 19 de novembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/1997/29/lei_2.203.1997-anexo.pdf",
+      "ano": 1997,
+      "norma": 2009
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/30/anexo_lei_4135.pdf da norma Lei nº 4.135, de 13 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "O anexo desta Lei contém o croqui e matrícula da área 2B-2-l., que altera o anexo I da Lei Municipal nº 4.000, de 07.10.2015.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/30/anexo_lei_4135.pdf",
+      "ano": 2017,
+      "norma": 2291
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/31/anexo_lei_4.003.2015_-_perimetro_urbano.pdf da norma Lei nº 4.003, de 20 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo do perímetro urbano de Ponte Nova",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/31/anexo_lei_4.003.2015_-_perimetro_urbano.pdf",
+      "ano": 2015,
+      "norma": 1940
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/32/anexo_lei_4.003.2015_-_passa-tempo.pdf da norma Lei nº 4.003, de 20 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo do Bairro Passa-Tempo",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/32/anexo_lei_4.003.2015_-_passa-tempo.pdf",
+      "ano": 2015,
+      "norma": 1940
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/33/anexo_lei_4.003.2015_-_pontal.pdf da norma Lei nº 4.003, de 20 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo do Pontal",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/33/anexo_lei_4.003.2015_-_pontal.pdf",
+      "ano": 2015,
+      "norma": 1940
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/34/anexo_lei_4.003.2015_-_vau-acu.pdf da norma Lei nº 4.003, de 20 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo do Vau-Açu",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/34/anexo_lei_4.003.2015_-_vau-acu.pdf",
+      "ano": 2015,
+      "norma": 1940
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/35/anexo_i_lei_4.003.2015_-_levantamento_planimetrico_pontal.pdf da norma Lei nº 4.003, de 20 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Levantamento planimétrico do perímetro urbano de Ponte Nova.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/35/anexo_i_lei_4.003.2015_-_levantamento_planimetrico_pontal.pdf",
+      "ano": 2015,
+      "norma": 1940
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/36/anexo_lei_4.090.2016_-_pontal.pdf da norma Lei nº 4.090, de 23 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo Distrito Pontal.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/36/anexo_lei_4.090.2016_-_pontal.pdf",
+      "ano": 2016,
+      "norma": 2277
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/37/anexo_lei_4.090.2016_-_levantamento_planimetrico_pontal.pdf da norma Lei nº 4.090, de 23 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Levantamento planimétrico Distrito Pontal.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/37/anexo_lei_4.090.2016_-_levantamento_planimetrico_pontal.pdf",
+      "ano": 2016,
+      "norma": 2277
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/38/anexo_lei_4.090.2016_-_fazenda_tres_coracoes_pontal.pdf da norma Lei nº 4.090, de 23 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Mapa Fazenda Três Corações Distrito Pontal.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/38/anexo_lei_4.090.2016_-_fazenda_tres_coracoes_pontal.pdf",
+      "ano": 2016,
+      "norma": 2277
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/39/anexo_lei_4.027.2016.pdf da norma Lei nº 4.027, de 03 de março de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Certidão",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/39/anexo_lei_4.027.2016.pdf",
+      "ano": 2016,
+      "norma": 2024
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/40/anexo_lei_4.076.2016.pdf da norma Lei nº 4.076, de 05 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "DAIA - Documento Autorizativo para intervenção Ambiente, nº 0048/2016, Ata da Reunião Extraordinária do CODEMA, Ata do Relatório da CTCIU - Câmara Técnica de Construção Civil, infraestrutura e Urbanismo.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/40/anexo_lei_4.076.2016.pdf",
+      "ano": 2016,
+      "norma": 2206
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/41/anexo_lei_4.012.2015.pdf da norma Lei nº 4.012, de 26 de novembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo das prioridades da LDO - Lei de Diretrizes Orçamentárias 2016, que altera a Lei Municipal nº 3.972, de 01.07.2015.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/41/anexo_lei_4.012.2015.pdf",
+      "ano": 2015,
+      "norma": 2095
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/42/anexos_lei_4.153.2017_loa_2018.pdf da norma Lei nº 4.153, de 23 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA - Lei Orçamentária Anual 2018.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/42/anexos_lei_4.153.2017_loa_2018.pdf",
+      "ano": 2017,
+      "norma": 2318
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/43/anexos_lei_4.013.2015_-_loa_2016.pdf da norma Lei nº 4.013, de 26 de novembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Anexos LOA - Lei Orçamentária Anual",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/43/anexos_lei_4.013.2015_-_loa_2016.pdf",
+      "ano": 2015,
+      "norma": 1992
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/44/anexo_lei_3.941.2014_-_loa_2015.pdf da norma Lei nº 3.941, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Anexos LOA - Lei Orçamentária Anual 2015.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/44/anexo_lei_3.941.2014_-_loa_2015.pdf",
+      "ano": 2014,
+      "norma": 1425
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/45/anexos_lei_3.820.2013_-_loa_2014.pdf da norma Lei nº 3.820, de 23 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA - Lei Orçamentária Anual 2014.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2013/45/anexos_lei_3.820.2013_-_loa_2014.pdf",
+      "ano": 2013,
+      "norma": 691
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/46/anexos_lei_2.006.1995_-_cargos_dmaes.pdf da norma Lei Complementar nº 2.006, de 23 de maio de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Anexos I, II, III, IV, V, VI - cargos DMAES",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/1995/46/anexos_lei_2.006.1995_-_cargos_dmaes.pdf",
+      "ano": 1995,
+      "norma": 959
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/47/anexos_da_lei_4.147.2017_-_ppa_2018-2021.pdf da norma Lei nº 4.147, de 13 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA - Plano Plurianual Anual 2018-2021",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/47/anexos_da_lei_4.147.2017_-_ppa_2018-2021.pdf",
+      "ano": 2017,
+      "norma": 2314
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/48/anexos_lei_4.119.2017_-_ldo_2018.pdf da norma Lei nº 4.119, de 12 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO - Lei Diretrizes Orçamentárias 2018.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/48/anexos_lei_4.119.2017_-_ldo_2018.pdf",
+      "ano": 2017,
+      "norma": 2271
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/49/adin_no_1.0000.00.242296-2-000.pdf da norma Lei Orgânica nº 31, de 28 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "ADIN Nº 1.0000.00.242296-2/000",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/49/adin_no_1.0000.00.242296-2-000.pdf",
+      "ano": 2020,
+      "norma": 2129
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/50/adin_no_1.0000.00.274895-2-000.pdf da norma Lei Orgânica nº 31, de 28 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "ADIN Nº 1.0000.00.274895-2/000",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/50/adin_no_1.0000.00.274895-2-000.pdf",
+      "ano": 2020,
+      "norma": 2129
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/52/anexo_lei_2.876.2005.pdf da norma Lei nº 2.876, de 22 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Anexo Lei 2.876, de 22.12.2005 - Plano Plurianual 2006-2009.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/52/anexo_lei_2.876.2005.pdf",
+      "ano": 2005,
+      "norma": 940
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/53/anexos_lei_2.955.2006.pdf da norma Lei nº 2.955, de 28 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei 2.955, de 28.06.2006 - Tabela Salarial e Tabela Salarial Especial",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2006/53/anexos_lei_2.955.2006.pdf",
+      "ano": 2006,
+      "norma": 2565
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/55/anexos_lei_3.940.2014.pdf da norma Lei nº 3.940, de 17 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Anexo Lei 3.940, de 17.12.2014 - substitui  “Anexo de Metas Fiscais”, do “Anexo de Riscos Fiscais” e “Demonstrativos da Metas e Prioridades da LDO 2015.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/55/anexos_lei_3.940.2014.pdf",
+      "ano": 2014,
+      "norma": 1761
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/56/anexos_lei_4.099.2016.pdf da norma Lei nº 4.099, de 30 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Municipal nº 4.099, de 30.12.2016.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/56/anexos_lei_4.099.2016.pdf",
+      "ano": 2016,
+      "norma": 2210
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/57/anexos_lei_4.044.2016.pdf da norma Lei nº 4.044, de 08 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei 4.044, de 08.06.2016 - LDO lei de Diretrizes Orçamentárias.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/57/anexos_lei_4.044.2016.pdf",
+      "ano": 2016,
+      "norma": 2100
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/58/anexo_da_lei_4.098.2016.pdf da norma Lei nº 4.098, de 27 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Municipal nº 4.098, de 27.12.2016.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/58/anexo_da_lei_4.098.2016.pdf",
+      "ano": 2016,
+      "norma": 2208
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/59/anexos_lei_4.086.2016.pdf da norma Lei Complementar nº 4.086, de 20 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Municipal nº 4.086, de 20.12.2016 - Mapas",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/59/anexos_lei_4.086.2016.pdf",
+      "ano": 2016,
+      "norma": 2185
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/60/versao_final_pmsb_ponte_nova_0214_r0_original.pdf da norma Lei Complementar nº 4.086, de 20 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Anexo  da Lei Municipal nº 4.086, de 20.12.2016 - PMSB Plano Municipal de Saneamento Básico de Ponte Nova.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2016/60/versao_final_pmsb_ponte_nova_0214_r0_original.pdf",
+      "ano": 2016,
+      "norma": 2185
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/61/mapa_topografico_projeto_ete_gravata.pdf da norma Decreto Municipal nº 9.957, de 25 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Mapa topográfico Projeto ETE Gravatá.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/61/mapa_topografico_projeto_ete_gravata.pdf",
+      "ano": 2015,
+      "norma": 1907
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/62/memorial_descritivo_projeto_ete_gravata.pdf da norma Decreto Municipal nº 9.957, de 25 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo Projeto ETE Gravatá",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2015/62/memorial_descritivo_projeto_ete_gravata.pdf",
+      "ano": 2015,
+      "norma": 1907
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/68/anexo_lei_3.833.2014.pdf da norma Lei nº 3.833, de 28 de fevereiro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Termo de Convênio",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/68/anexo_lei_3.833.2014.pdf",
+      "ano": 2014,
+      "norma": 747
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/69/anexo_lei_3.814.2013_-__ppa.pdf da norma Lei nº 3.814, de 23 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Anexos PPA - Plano Plurianual",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2013/69/anexo_lei_3.814.2013_-__ppa.pdf",
+      "ano": 2013,
+      "norma": 687
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/70/lei_3.798_anexo.pdf da norma Lei nº 3.798, de 04 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2013/70/lei_3.798_anexo.pdf",
+      "ano": 2013,
+      "norma": 560
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/71/anexo_lei_3.780_-_levantamento_planimetrico.pdf da norma Lei nº 3.780, de 16 de setembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Levantamento planimétrico",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2013/71/anexo_lei_3.780_-_levantamento_planimetrico.pdf",
+      "ano": 2013,
+      "norma": 454
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/72/anexo_lei_3.780_-_memorial_descritivo.pdf da norma Lei nº 3.780, de 16 de setembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Memorial descritivo",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2013/72/anexo_lei_3.780_-_memorial_descritivo.pdf",
+      "ano": 2013,
+      "norma": 454
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/73/decisao_tcemg_processo_770279.pdf da norma Lei nº 3.020, de 21 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Decisão TCEMG – Processo nº 770279",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2006/73/decisao_tcemg_processo_770279.pdf",
+      "ano": 2006,
+      "norma": 781
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/74/portaria_389.2012.pdf da norma Lei nº 3.710, de 19 de setembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "Portaria nº 389, de 07 de março de 2012.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/74/portaria_389.2012.pdf",
+      "ano": 2012,
+      "norma": 520
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/75/convenio_524_segov_padem.pdf da norma Lei nº 3.703, de 15 de agosto de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº 524, de 2012 - SEGOV PADEM",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/75/convenio_524_segov_padem.pdf",
+      "ano": 2012,
+      "norma": 513
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/76/convenio_701569_mec_fnde.pdf da norma Lei nº 3.696, de 09 de julho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº 701569 - MEC Fundo Nacional de Desenvolvimento da Educação",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/76/convenio_701569_mec_fnde.pdf",
+      "ano": 2012,
+      "norma": 506
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/77/anexo_lei_3.689.2012.pdf da norma Lei nº 3.689, de 29 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Demonstrativo de impacto orçamentário-financeiro.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/77/anexo_lei_3.689.2012.pdf",
+      "ano": 2012,
+      "norma": 607
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/78/termo_aditivo_convenio_1477_setop.pdf da norma Lei nº 3.686, de 18 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Terceiro termo aditivo convênio 1477/2010 - SETOP",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/78/termo_aditivo_convenio_1477_setop.pdf",
+      "ano": 2012,
+      "norma": 496
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/79/convenio_cooperacao_financeira_semej.pdf da norma Lei nº 3.685, de 05 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Convênio cooperação técnica Nº 01/2012 SEMEJ",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/79/convenio_cooperacao_financeira_semej.pdf",
+      "ano": 2012,
+      "norma": 495
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/80/anexo_lei_3.660.2012.pdf da norma Lei nº 3.660, de 26 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo Lei 3.660 de 2012 - perímetro urbano.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/80/anexo_lei_3.660.2012.pdf",
+      "ano": 2012,
+      "norma": 172
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/81/anexo_3.657.pdf da norma Lei nº 3.657, de 14 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei 3.654.2012",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/81/anexo_3.657.pdf",
+      "ano": 2012,
+      "norma": 169
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/82/anexo_lei_3.488.pdf da norma Lei Complementar nº 3.488, de 06 de outubro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei Complementar 3.488.2010 -  cria o “Abrigo de Volta pra Casa”.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/82/anexo_lei_3.488.pdf",
+      "ano": 2010,
+      "norma": 764
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/83/lei_ldo_anual_2010.pdf da norma Lei nº 3.461, de 09 de julho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO - Lei de Diretrizes Orçamentárias",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/83/lei_ldo_anual_2010.pdf",
+      "ano": 2010,
+      "norma": 597
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/84/anexos_lei_3.389.2009.pdf da norma Lei nº 3.389, de 21 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA Lei Orçamentária Anual Lei nº 3.389 de 2009.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2009/84/anexos_lei_3.389.2009.pdf",
+      "ano": 2009,
+      "norma": 785
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/85/anexos_lei_3.388.2009_ppa.pdf da norma Lei nº 3.388, de 21 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Anexos PPA Plano Plurianual 2010-2013",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2009/85/anexos_lei_3.388.2009_ppa.pdf",
+      "ano": 2009,
+      "norma": 972
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/86/relatorio_final_comissao_parlamentar_de_inquerito_covid.pdf da norma Portaria Câmara nº 29, de 07 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Relatório Final Comissão Parlamentar de Inquérito (COVID)",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2021/86/relatorio_final_comissao_parlamentar_de_inquerito_covid.pdf",
+      "ano": 2021,
+      "norma": 5835
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/87/anexo_-lei_4.223.2018.pdf da norma Lei nº 4.223, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2018/87/anexo_-lei_4.223.2018.pdf",
+      "ano": 2018,
+      "norma": 2988
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/88/anexo-lei_4.224.2018.pdf da norma Lei nº 4.224, de 10 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2018/88/anexo-lei_4.224.2018.pdf",
+      "ano": 2018,
+      "norma": 2989
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/89/anexo_lei_4.531.2021.pdf da norma Lei nº 4.531, de 27 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2021/89/anexo_lei_4.531.2021.pdf",
+      "ano": 2021,
+      "norma": 6525
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/90/alteracao_anexo_lei_4.531.2021_-_loa.pdf da norma Lei nº 4.531, de 27 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Alteração nos anexo:\r\n- Demonstrativo de Despesa Fixada \r\n- Demonstrativo de Receita Estimada",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2021/90/alteracao_anexo_lei_4.531.2021_-_loa.pdf",
+      "ano": 2021,
+      "norma": 6525
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/91/alteracao_anexo_lei_4.490.2021_-__ldo.pdf da norma Lei nº 4.490, de 21 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "Alteração no anexo:\r\n- Demonstrativo das Prioridades da LDO",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2021/91/alteracao_anexo_lei_4.490.2021_-__ldo.pdf",
+      "ano": 2021,
+      "norma": 6326
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/92/lei_2.822.2005-anexo_i_anna_florencia.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Bairro Ana Florência",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/92/lei_2.822.2005-anexo_i_anna_florencia.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/94/lei_2.822.2005_-_anexo_ii_-_antarville.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Bairro AntarVille",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/94/lei_2.822.2005_-_anexo_ii_-_antarville.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/95/lei_2.822.2005_-_anexo_iii_-_antonio_girundi.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Bairro Antônio Girundi",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/95/lei_2.822.2005_-_anexo_iii_-_antonio_girundi.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/96/lei_2.822.2005_-_anexo_iv_-_bom_jardim.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Bairro Bom Jardim",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/96/lei_2.822.2005_-_anexo_iv_-_bom_jardim.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/97/lei_2.822.2005_-_anexo_v_-_bom_pastor.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - Bairro Bom Pastor",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/97/lei_2.822.2005_-_anexo_v_-_bom_pastor.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/98/lei_2.822.2005_-_anexo_vi_-_bom_viver.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI - Bairro Bom Viver",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/98/lei_2.822.2005_-_anexo_vi_-_bom_viver.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/99/lei_2.822.2005_-_anexo_vii_-_chacaras_vasconcellos.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "Anexo VII - Bairro Chácaras Vasconcellos",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/99/lei_2.822.2005_-_anexo_vii_-_chacaras_vasconcellos.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/100/lei_2.822.2005_-_anexo_viii_-_central.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "Anexo VIII - Bairro Central",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/100/lei_2.822.2005_-_anexo_viii_-_central.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/101/lei_2.822.2005_-_anexo_ix_-_centro_historico.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "Anexo IX - Bairro Centro Histórico",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/101/lei_2.822.2005_-_anexo_ix_-_centro_historico.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/103/lei_2.822.2005_-_anexo_x_-_chacaras_das_flores.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "Anexo X - Bairro Chácaras das Flores",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/103/lei_2.822.2005_-_anexo_x_-_chacaras_das_flores.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/104/lei_2.822.2005_-_anexo_xi_-_cidade_nova.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "Anexo XI - Bairro cidade Nova",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/104/lei_2.822.2005_-_anexo_xi_-_cidade_nova.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/105/lei_2.822.2005_-_anexo_xii_-_copacabana.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "Anexo XII - Bairro Copacabana",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/105/lei_2.822.2005_-_anexo_xii_-_copacabana.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/106/lei_2.822.2005_-_anexo_xiii_-_esplanada.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "Anexo XIII - Bairro Esplanada",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/106/lei_2.822.2005_-_anexo_xiii_-_esplanada.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/107/lei_2.822.2005_-_anexo_xiv_-_fortaleza.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "Anexo XIV - Bairro Fortaleza",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/107/lei_2.822.2005_-_anexo_xiv_-_fortaleza.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/108/lei_2.822.2005_-_anexo_xv_-_guarapiranga.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "Anexo XV - Bairro Guarapiranga",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/108/lei_2.822.2005_-_anexo_xv_-_guarapiranga.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/109/lei_2.822.2005_-_anexo_xvi_-_industrial.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "Anexo XVI - Bairro Industrial",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/109/lei_2.822.2005_-_anexo_xvi_-_industrial.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/110/lei_2.822.2005_-_anexo_xvii_-_nenem_mosqueira.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "Anexo XVII - Bairro Neném Mosqueira",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/110/lei_2.822.2005_-_anexo_xvii_-_nenem_mosqueira.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/111/lei_2.822.2005_-_anexo_xviii_-_nossa_senhora_auxilliadora.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "Anexo XVIII - Bairro Nossa Senhora Auxiliadora",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/111/lei_2.822.2005_-_anexo_xviii_-_nossa_senhora_auxilliadora.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/112/lei_2.822.2005_-_anexo_xix_-_nossa_senhora_de_fatima.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "Anexo XIX - Bairro Nossa Senhora de Fátima",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/112/lei_2.822.2005_-_anexo_xix_-_nossa_senhora_de_fatima.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/113/lei_2.822.2005_-_anexo_xx_-_nova_almeida.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "Anexo XX - Bairro Nova Almeida",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/113/lei_2.822.2005_-_anexo_xx_-_nova_almeida.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/114/lei_2.822.2005_-_anexo_xxi_-_nova_copacabana.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXI - Bairro Nova Copacabana",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/114/lei_2.822.2005_-_anexo_xxi_-_nova_copacabana.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/115/lei_2.822.2005_-_anexo_xxii_-_nova_suica.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXII - Bairro nova Suíça",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/115/lei_2.822.2005_-_anexo_xxii_-_nova_suica.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/116/lei_2.822.2005_-_anexo_xxiii_-_novo_horizonte.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXIII - Bairro Novo Horizonte",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/116/lei_2.822.2005_-_anexo_xxiii_-_novo_horizonte.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/117/lei_2.822.2005_-_anexo_xxiv_-_sagrado_coracao_de_jesus.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXIV - Bairro Sagrado Coração de Jesus",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/117/lei_2.822.2005_-_anexo_xxiv_-_sagrado_coracao_de_jesus.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/118/lei_2.822.2005_-_anexo_xxv_-_palmeiras.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXV - Bairro Palmeiras",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/118/lei_2.822.2005_-_anexo_xxv_-_palmeiras.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/119/lei_2.822.2005_-_anexo_xxvi_-_palmereinse.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXVI - Bairro Palmeirense",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/119/lei_2.822.2005_-_anexo_xxvi_-_palmereinse.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/120/lei_2.822.2005_-_anexo_xxvii_-_paraiso.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXVII - Bairro Paraíso",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/120/lei_2.822.2005_-_anexo_xxvii_-_paraiso.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/121/lei_2.822.2005_-_anexo_xxviii_-primeiro_de_maio.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXVIII - Bairro Primeiro de Maio",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/121/lei_2.822.2005_-_anexo_xxviii_-primeiro_de_maio.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/122/lei_2.822.2005_-_anexo_xxix_-progresso.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXIX - Bairro Progresso",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/122/lei_2.822.2005_-_anexo_xxix_-progresso.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/123/lei_2.822.2005_-_anexo_xxx_-rasa.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXX - Bairro Rasa",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/123/lei_2.822.2005_-_anexo_xxx_-rasa.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/124/lei_2.822.2005_-_anexo_xxxi_-recanto_das_pedras.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXI - Bairro Recanto das Pedras",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/124/lei_2.822.2005_-_anexo_xxxi_-recanto_das_pedras.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/125/lei_2.822.2005_-_anexo_xxxii_-rosario.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXII - Bairro Rosário",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/125/lei_2.822.2005_-_anexo_xxxii_-rosario.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/126/lei_2.822.2005_-_anexo_xxxiii_-santa_tereza.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXIII - Bairro Santa Tereza",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/126/lei_2.822.2005_-_anexo_xxxiii_-santa_tereza.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/127/lei_2.822.2005_-_anexo_xxxiv_-santo_antonio_da_cidade.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXIV - Bairro Santo Antônio da Cidade",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/127/lei_2.822.2005_-_anexo_xxxiv_-santo_antonio_da_cidade.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/128/lei_2.822.2005_-_anexo_xxxv_-santo_antonio.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXV - Bairro Santo Antônio",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/128/lei_2.822.2005_-_anexo_xxxv_-santo_antonio.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/129/lei_2.822.2005_-_anexo_xxxvi_-sao_geraldo.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXVI - Bairro São Geraldo",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/129/lei_2.822.2005_-_anexo_xxxvi_-sao_geraldo.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/130/lei_2.822.2005_-_anexo_xxxvii_-_sargacos.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXVII - Bairro Sargaços",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/130/lei_2.822.2005_-_anexo_xxxvii_-_sargacos.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/131/lei_2.822.2005_-_anexo_xxxviii_-sumare.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXVIII - Bairro Sumaré",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/131/lei_2.822.2005_-_anexo_xxxviii_-sumare.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/132/lei_2.822.2005_-_anexo_xxxix_-sao_judas_tadeu.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "Anexo XXXIX - Bairro São Judas Tadeu",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/132/lei_2.822.2005_-_anexo_xxxix_-sao_judas_tadeu.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/133/lei_2.822.2005_-_anexo_xl_-sao_pedro.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "Anexo XL - Bairro São Pedro",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/133/lei_2.822.2005_-_anexo_xl_-sao_pedro.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/134/lei_2.822.2005_-_anexo_xli_-tijuca.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLI - Bairro Tijuca",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/134/lei_2.822.2005_-_anexo_xli_-tijuca.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/135/lei_2.822.2005_-_anexo_xlii_-triangulo_novo.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLII - Bairro Triângulo Novo",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/135/lei_2.822.2005_-_anexo_xlii_-triangulo_novo.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/136/lei_2.822.2005_-_anexo_xliii_-triangulo.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLIII - Bairro Triângulo",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/136/lei_2.822.2005_-_anexo_xliii_-triangulo.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/137/lei_2.822.2005_-_anexo_xliv_-triangulo_verde.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLIV - Bairro Triângulo Verde",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/137/lei_2.822.2005_-_anexo_xliv_-triangulo_verde.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/138/lei_2.822.2005_-_anexo_xlv_-vale_do_suico.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLV - Bairro Vale do Suiço",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/138/lei_2.822.2005_-_anexo_xlv_-vale_do_suico.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/139/lei_2.822.2005_-_anexo_xlvi_-vale_verde.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLVI - Bairro Vale Verde",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/139/lei_2.822.2005_-_anexo_xlvi_-vale_verde.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/140/lei_2.822.2005_-_anexo_xlvii_-vale_do_ipe.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLVII - Bairro Vale do Ipê",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/140/lei_2.822.2005_-_anexo_xlvii_-vale_do_ipe.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/141/lei_2.822.2005_-_anexo_xlviii_-vila_alvarenga.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLVIII - Bairro Vila Alvarenga",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/141/lei_2.822.2005_-_anexo_xlviii_-vila_alvarenga.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/142/lei_2.822.2005_-_anexo_xlix_-vila_centenario.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "Anexo XLIX - Bairro Vila Centenário",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/142/lei_2.822.2005_-_anexo_xlix_-vila_centenario.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/143/lei_2.822.2005_-_anexo_l_-_vila_lana.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "Anexo L - Bairro Vila Lana",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/143/lei_2.822.2005_-_anexo_l_-_vila_lana.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/144/lei_2.822.2005_-_anexo_li-_vila_oliveira.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "Anexo LI - Bairro Vila Oliveira",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/144/lei_2.822.2005_-_anexo_li-_vila_oliveira.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/145/lei_2.822.2005_-_anexo_lii-_malvinas.pdf da norma Lei Complementar nº 2.822, de 27 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "Anexo LII - Bairro Malvinas",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2005/145/lei_2.822.2005_-_anexo_lii-_malvinas.pdf",
+      "ano": 2005,
+      "norma": 1259
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/146/anexo_original_lei_4.532.2022.pdf da norma Lei nº 4.532, de 27 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "Anexos alterados/substituídos pela Lei Municipal nº 4.642/2022.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2021/146/anexo_original_lei_4.532.2022.pdf",
+      "ano": 2021,
+      "norma": 6526
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/148/anexo_lei_no_4.540.2022.pdf da norma Lei nº 4.540, de 23 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Planilha Orçamentária New Bridge Empreendimentos\r\nAnexo II - Memorial Descritivo Loteamento Estrela da Mata: Projeto de Arquitetura da Praça Dona Quinha",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/148/anexo_lei_no_4.540.2022.pdf",
+      "ano": 2022,
+      "norma": 6674
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/149/anexo_lei_3901.2014.pdf da norma Lei nº 3.901, de 25 de agosto de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/149/anexo_lei_3901.2014.pdf",
+      "ano": 2014,
+      "norma": 1145
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/150/anexo_lei_3901.2014.pdf da norma Lei nº 3.905, de 05 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº 082 - SETOP obras de melhoramento vias públicas",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/150/anexo_lei_3901.2014.pdf",
+      "ano": 2014,
+      "norma": 1315
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/151/anexo_lei_3904.2014.pdf da norma Lei nº 3.904, de 05 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº 440 - SEGOV - obras de melhoramento vias públicas",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/151/anexo_lei_3904.2014.pdf",
+      "ano": 2014,
+      "norma": 1312
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/152/anexo_lei_3914.2014.pdf da norma Lei nº 3.914, de 29 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "Projeto arquitetônico - Empresa Hélio Ferreira da Silva",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/152/anexo_lei_3914.2014.pdf",
+      "ano": 2014,
+      "norma": 1327
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/153/anexo_lei_3922.2014.pdf da norma Lei nº 3.922, de 23 de outubro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "Simulação de financiamento Caixa - DMAES",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/153/anexo_lei_3922.2014.pdf",
+      "ano": 2014,
+      "norma": 1336
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/154/anexo_lei_3923.2014.pdf da norma Lei nº 3.923, de 29 de outubro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº 506 para aquisição equipamentos esportivos",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2014/154/anexo_lei_3923.2014.pdf",
+      "ano": 2014,
+      "norma": 1338
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/155/anexo_ppa_2014_2017_com_fonte.pdf da norma Lei nº 4.147, de 13 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/155/anexo_ppa_2014_2017_com_fonte.pdf",
+      "ano": 2017,
+      "norma": 2314
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/156/anexo_lei_4152.2017_-_demonstrativoprioridades_ldo_2018_.pdf da norma Lei nº 4.152, de 23 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo das Metas e Prioridades da LDO para 2018, que é parte integrante da Lei de Diretrizes Orçamentárias de 2017.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/156/anexo_lei_4152.2017_-_demonstrativoprioridades_ldo_2018_.pdf",
+      "ano": 2017,
+      "norma": 2317
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/158/anexo_lei_4119.2017_-_alterado_lei_4152.2017_-_demonstrativoprioridades_ldo_2018_.pdf da norma Lei nº 4.119, de 12 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo alterado pela Lei Municipal nº 4.152/2017 - Demonstrativo das Metas e Prioridades da LDO para 2018, que é parte integrante da Lei de Diretrizes Orçamentárias de 2017.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/158/anexo_lei_4119.2017_-_alterado_lei_4152.2017_-_demonstrativoprioridades_ldo_2018_.pdf",
+      "ano": 2017,
+      "norma": 2271
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/159/anexos_lei_municipal_4.642.2022.pdf da norma Lei nº 4.642, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA – Alteração da proposta da Lei Municipal nº 4.532, de 27.12.2021",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/159/anexos_lei_municipal_4.642.2022.pdf",
+      "ano": 2022,
+      "norma": 7113
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/160/anexos_lei_municipal_4.642.2022.pdf da norma Lei nº 4.532, de 27 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "Anexos incluídos pela Lei Municipal nº 4.642/2022.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2021/160/anexos_lei_municipal_4.642.2022.pdf",
+      "ano": 2021,
+      "norma": 6526
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/161/anexos_lei_4.643.2022.pdf da norma Lei nº 4.643, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei nº 4.643/2022 que passam a integrar a Lei Municipal nº 4.584/2022. (Demonstrativo das Metas e Prioridades da LDO para 2023)",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/161/anexos_lei_4.643.2022.pdf",
+      "ano": 2022,
+      "norma": 7114
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/162/anexos_original_lei_4.584.2022.pdf da norma Lei nº 4.584, de 15 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "Anexos alterados/substituídos pela Lei Municipal nº 4.643/2022.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/162/anexos_original_lei_4.584.2022.pdf",
+      "ano": 2022,
+      "norma": 6836
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/163/anexos_lei_4.643.2022.pdf da norma Lei nº 4.584, de 15 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "Anexos incluídos pela Lei Municipal nº 4.643/2022.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/163/anexos_lei_4.643.2022.pdf",
+      "ano": 2022,
+      "norma": 6836
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/164/anexo_unico_lei_4.640.2022.pdf da norma Lei Complementar nº 4.640, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "Impacto Orçamentário-Financeiro",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/164/anexo_unico_lei_4.640.2022.pdf",
+      "ano": 2022,
+      "norma": 7116
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/165/anexos_lei_4644.22.pdf da norma Lei nº 4.644, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/165/anexos_lei_4644.22.pdf",
+      "ano": 2022,
+      "norma": 7117
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/166/anexos_lei_4.653.2022.pdf da norma Lei nº 4.653, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/166/anexos_lei_4.653.2022.pdf",
+      "ano": 2022,
+      "norma": 7121
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/167/anexo_lei_4.654.2022.pdf da norma Lei nº 4.654, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/167/anexo_lei_4.654.2022.pdf",
+      "ano": 2022,
+      "norma": 7124
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/168/anexo_lei_4.664.2022.pdf da norma Lei Complementar nº 4.664, de 29 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/168/anexo_lei_4.664.2022.pdf",
+      "ano": 2022,
+      "norma": 7132
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/169/anexo_da_lei_3.588.2011-consolidado.pdf da norma Lei nº 3.588, de 12 de julho de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Municipal nº 3.588, de 12.07.2011\r\n- metas fiscais\r\n- riscos fiscais\r\n- Metas e prioridades da administração pública municipal",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/169/anexo_da_lei_3.588.2011-consolidado.pdf",
+      "ano": 2011,
+      "norma": 610
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/170/anexo_3.672.2012-consolidada.pdf da norma Lei nº 3.672, de 09 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "Anexo I e II da Lei 3.672.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/170/anexo_3.672.2012-consolidada.pdf",
+      "ano": 2012,
+      "norma": 598
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/171/anexo_lei_3673.pdf da norma Lei nº 3.673, de 09 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei 3.673 de 2012.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/171/anexo_lei_3673.pdf",
+      "ano": 2012,
+      "norma": 611
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/172/impacto_orcamento_financeiro_lei_3649.pdf da norma Lei nº 3.649, de 23 de janeiro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Impacto Orçamento Financeiro da Lei 3649/2012. \r\nObs: Documento conforme redação final.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/172/impacto_orcamento_financeiro_lei_3649.pdf",
+      "ano": 2012,
+      "norma": 162
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/173/tabela_salarial_anexo_2_lei_3649.pdf da norma Lei nº 3.649, de 23 de janeiro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "Anexo II-Tabela Salarial. \r\nObs: documento conforme redação final.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/173/tabela_salarial_anexo_2_lei_3649.pdf",
+      "ano": 2012,
+      "norma": 162
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/174/tabela_salarial-gratificacoes_anexo_3.pdf da norma Lei nº 3.649, de 23 de janeiro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "Anexo III- Tabela Salarial Gratificações.\r\nObs: Documento conforme Redação Final.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/174/tabela_salarial-gratificacoes_anexo_3.pdf",
+      "ano": 2012,
+      "norma": 162
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/175/lei_3667_2012_anexo.pdf da norma Lei Complementar nº 3.667, de 09 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Impacto Orçamentário e Financeiro",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/175/lei_3667_2012_anexo.pdf",
+      "ano": 2012,
+      "norma": 538
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/176/anexo__lei_3642_2011.pdf da norma Lei nº 3.642, de 27 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "Anexo Lei 3642 de 2011",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/176/anexo__lei_3642_2011.pdf",
+      "ano": 2011,
+      "norma": 763
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/177/anexo_i_lei_no_3562.11.pdf da norma Lei nº 3.562, de 16 de maio de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Procedimentos a serem executados pelo serviço de ortopedia Complexidade do Hospital Arnaldo Gavazza Filho",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/177/anexo_i_lei_no_3562.11.pdf",
+      "ano": 2011,
+      "norma": 639
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/178/anexo_lei_3569.2011.pdf da norma Lei nº 3.569, de 30 de maio de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei 3.569.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/178/anexo_lei_3569.2011.pdf",
+      "ano": 2011,
+      "norma": 647
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/179/anexo_i_da_lei_3.610_2011.pdf da norma Lei nº 3.610, de 04 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "anexo I (valor venal da área, croqui da área e solicitação de incentivos da Lei 3.589/2011)",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/179/anexo_i_da_lei_3.610_2011.pdf",
+      "ano": 2011,
+      "norma": 796
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/180/anexo_ii_da_lei_3610.2011.pdf da norma Lei nº 3.610, de 04 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "o anexo II (memorial descritivo, documentação da solicitante e ata da Comissão de Desenvolvimento Econômico).",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/180/anexo_ii_da_lei_3610.2011.pdf",
+      "ano": 2011,
+      "norma": 796
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/181/anexo__i_lei_3616.2011.pdf da norma Lei nº 3.616, de 12 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "anexo I (documentos da solicitante e solicitação de incentivos da Lei 3.589/2011",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/181/anexo__i_lei_3616.2011.pdf",
+      "ano": 2011,
+      "norma": 674
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/182/anexo_ii_lei_3616.2011.pdf da norma Lei nº 3.616, de 12 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "o anexo II (croqui da área, valor venal da área e ata da Comissão de Desenvolvimento Econômico)",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/182/anexo_ii_lei_3616.2011.pdf",
+      "ano": 2011,
+      "norma": 674
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/183/anexo_i_lei_3617.2011.pdf da norma Lei nº 3.617, de 12 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "Anexo I (valor venal da área, croqui da área, solicitação de incentivos da Lei 3.589/2011)",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/183/anexo_i_lei_3617.2011.pdf",
+      "ano": 2011,
+      "norma": 675
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/184/anexo_ii_lei_3617.2011.pdf da norma Lei nº 3.617, de 12 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "Anexo II (documentação da solicitante e ata da Comissão de Desenvolvimento Econômico)",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2011/184/anexo_ii_lei_3617.2011.pdf",
+      "ano": 2011,
+      "norma": 675
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/185/anexo_lei_no_3.526.2010.pdf da norma Lei nº 3.526, de 21 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Impacto financeiro",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/185/anexo_lei_no_3.526.2010.pdf",
+      "ano": 2010,
+      "norma": 1530
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/186/mpmg_002423000644-7.pdf da norma Lei Complementar nº 4.637, de 08 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "Procedimento Controle de Constitucionalidade - MPMG nº 0024.23.000644-7",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2022/186/mpmg_002423000644-7.pdf",
+      "ano": 2022,
+      "norma": 7098
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/187/memorial_descritivo_pl_2185.2000_.pdf da norma Lei nº 2.473, de 18 de setembro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2000/187/memorial_descritivo_pl_2185.2000_.pdf",
+      "ano": 2000,
+      "norma": 2774
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/188/anexo_lei_4713-2023.pdf da norma Lei nº 4.713, de 10 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei 4.713/2023.\r\nI - Metas e Prioridades\r\nII - Metas fiscais\r\nIII - Riscos fiscais",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/188/anexo_lei_4713-2023.pdf",
+      "ano": 2023,
+      "norma": 7418
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/189/anexo_da_lei_3723.2012.pdf da norma Lei nº 3.723, de 26 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/189/anexo_da_lei_3723.2012.pdf",
+      "ano": 2012,
+      "norma": 586
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/190/anexo_da_lei_3723.2012.pdf da norma Lei nº 3.690, de 29 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "Anexos alterados pelo art. 1º da Lei Municipal 3.723, de 26.12.2012.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2012/190/anexo_da_lei_3723.2012.pdf",
+      "ano": 2012,
+      "norma": 444
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/191/anexo_lei_2233.98.pdf da norma Lei Complementar nº 2.233, de 16 de janeiro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei 2.233 de 1998.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/1998/191/anexo_lei_2233.98.pdf",
+      "ano": 1998,
+      "norma": 812
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/192/dossie_tombamento_do_pontilhao.pdf da norma Decreto Municipal nº 11.701, de 15 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2020/192/dossie_tombamento_do_pontilhao.pdf",
+      "ano": 2020,
+      "norma": 4180
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/193/dec_13.248.2023.pdf da norma Decreto Municipal nº 13.248, de 31 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "Decreto assinado digitalmente.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/193/dec_13.248.2023.pdf",
+      "ano": 2023,
+      "norma": 7616
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/194/dec_13.251.2023.pdf da norma Decreto Municipal nº 13.251, de 03 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "Arquivo assinado digitalmente.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/194/dec_13.251.2023.pdf",
+      "ano": 2023,
+      "norma": 7619
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/195/dec_13.252.2023.pdf da norma Decreto Municipal nº 13.252, de 03 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "Arquivo assinado digitalmente.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/195/dec_13.252.2023.pdf",
+      "ano": 2023,
+      "norma": 7620
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/196/lei_4.706.2023-primeira_publicacao.pdf da norma Lei Complementar nº 4.706, de 03 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "Norma republicada em 10.08.2023, por erro material.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/196/lei_4.706.2023-primeira_publicacao.pdf",
+      "ano": 2023,
+      "norma": 7537
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/197/lei_4.735.2023-com_veto.pdf da norma Lei Complementar nº 4.735, de 20 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "Lei republicada em 04.12.2023 em decorrência de erro material.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/197/lei_4.735.2023-com_veto.pdf",
+      "ano": 2023,
+      "norma": 7675
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/198/lei_4735.2023-primeira_publicacao-consolidada.pdf da norma Lei Complementar nº 4.735, de 20 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "Lei publicada com erro material em 20.10.2023 e foi republicada em 04.12.2023.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/198/lei_4735.2023-primeira_publicacao-consolidada.pdf",
+      "ano": 2023,
+      "norma": 7675
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/199/promulgacao_dos_dispositivos_vetados_lei_4.735.2023.pdf da norma Lei Complementar nº 4.735, de 20 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "Republicada em 28.11.2023, com a derrubada dos vetos pelo Legislativo na sessão plenária ordinária de 20.11.2023 e promulgada em 27.11.2023.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/199/promulgacao_dos_dispositivos_vetados_lei_4.735.2023.pdf",
+      "ano": 2023,
+      "norma": 7675
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/200/instrucao_normativa_8-2003_tcemg.pdf da norma Portaria Câmara nº 6, de 05 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "Instrução Normativa nº 08/2003 TCE/MG",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/200/instrucao_normativa_8-2003_tcemg.pdf",
+      "ano": 2024,
+      "norma": 7751
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/201/lei_4757.2023-_loa.pdf da norma Lei nº 4.757, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Nome do Assinante Não Localizado.",
+                [
+                  "2023-12-28T20:45:42Z",
+                  "1Doc"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/201/lei_4757.2023-_loa.pdf",
+      "ano": 2023,
+      "norma": 7773
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/202/lei_4755.2023_-_ppa.pdf da norma Lei nº 4.755, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Nome do Assinante Não Localizado.",
+                [
+                  "2023-12-28T20:59:09Z",
+                  "1Doc"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/202/lei_4755.2023_-_ppa.pdf",
+      "ano": 2023,
+      "norma": 7771
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/203/lei_4756.2023_-__ldo.pdf da norma Lei nº 4.756, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Nome do Assinante Não Localizado.",
+                [
+                  "2023-12-28T20:58:06Z",
+                  "1Doc"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2023/203/lei_4756.2023_-__ldo.pdf",
+      "ano": 2023,
+      "norma": 7772
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/204/josegrossi_mat28920.pdf da norma Lei nº 3.813, de 10 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Ephigenia da Cruz de Paula",
+                [
+                  "2024-04-11T13:33:08Z",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Matricula 01",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2013/204/josegrossi_mat28920.pdf",
+      "ano": 2013,
+      "norma": 762
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/205/lavanderia_mat10929.pdf da norma Lei nº 3.813, de 10 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Ephigenia da Cruz de Paula",
+                [
+                  "2024-04-11T13:33:30Z",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Matricula 02",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2013/205/lavanderia_mat10929.pdf",
+      "ano": 2013,
+      "norma": 762
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/206/lei_4.763-2024_-_anexo_v.pdf da norma Lei Complementar nº 4.763, de 05 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - Impacto Orçamentário-Financeiro",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/206/lei_4.763-2024_-_anexo_v.pdf",
+      "ano": 2024,
+      "norma": 7881
+    },
+    {
+      "id": 207,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/207/procoolo_de_intencoes_aris-zm_.pdf da norma Lei nº 4.778, de 10 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/207",
+      "metadata": {},
+      "assunto_anexo": "Protocolo de Intenções da Agência Reguladora Intermunicipal dos Serviços de Saneamento da Zona da Mata de Minas Gerais e Adjacências - ARIS-ZM",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/207/procoolo_de_intencoes_aris-zm_.pdf",
+      "ano": 2024,
+      "norma": 8025
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/208/anexo_lei_3.459.2010.pdf da norma Lei nº 3.459, de 01 de julho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "CONTRATO DE CONSÓRCIO PÚBLICO \r\nConsórcio Intermunicipal de Saúde da Microrregião do Vale do Piranga - CISAMAPI",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/208/anexo_lei_3.459.2010.pdf",
+      "ano": 2010,
+      "norma": 854
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/209/anexo_lei_4.784-quadro_10_metas_fiscais_atuais_comp_3_exec_anteriores.pdf.pdf da norma Lei nº 4.784, de 04 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "Quadro 10 Metas Fiscais Atuais comparadas com as fixadas nos três exercícios anteriores",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/209/anexo_lei_4.784-quadro_10_metas_fiscais_atuais_comp_3_exec_anteriores.pdf.pdf",
+      "ano": 2024,
+      "norma": 8041
+    },
+    {
+      "id": 210,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/210/anexo_lei_4.784-demonstrativo_das_metas_prioridades_da_ldo.pdf da norma Lei nº 4.784, de 04 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/210",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo das Metas Prioridades",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/210/anexo_lei_4.784-demonstrativo_das_metas_prioridades_da_ldo.pdf",
+      "ano": 2024,
+      "norma": 8041
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/211/anexo_lei_4.784-quadro_13_demonstrativo_risco_fiscais_providencias.pdf da norma Lei nº 4.784, de 04 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "Quadro 13 Demonstrativo Riscos Fiscais Providências",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/211/anexo_lei_4.784-quadro_13_demonstrativo_risco_fiscais_providencias.pdf",
+      "ano": 2024,
+      "norma": 8041
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/212/anexos_portaria_14.2025.pdf da norma Portaria Câmara nº 14, de 03 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "Anexo Único",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/212/anexos_portaria_14.2025.pdf",
+      "ano": 2024,
+      "norma": 7987
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/213/lei_3.495.2010_-_anexo_ii.pdf da norma Lei nº 3.495, de 05 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/213/lei_3.495.2010_-_anexo_ii.pdf",
+      "ano": 2010,
+      "norma": 821
+    },
+    {
+      "id": 214,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/214/lei_3.495.2010_-_anexo_iv.pdf da norma Lei nº 3.495, de 05 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/214",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/214/lei_3.495.2010_-_anexo_iv.pdf",
+      "ano": 2010,
+      "norma": 821
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/215/lei_3.495.2010_-_anexo_vi.pdf da norma Lei nº 3.495, de 05 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/215/lei_3.495.2010_-_anexo_vi.pdf",
+      "ano": 2010,
+      "norma": 821
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/216/lei_3.495.2010_-_anexo_viii.pdf da norma Lei nº 3.495, de 05 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2010/216/lei_3.495.2010_-_anexo_viii.pdf",
+      "ano": 2010,
+      "norma": 821
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/217/anexos_-_portaria_30.2025.pdf da norma Portaria Câmara nº 30, de 03 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Portaria 30/2025",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2024/217/anexos_-_portaria_30.2025.pdf",
+      "ano": 2024,
+      "norma": 8240
+    },
+    {
+      "id": 218,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/218/listagem_-_cancelamento_restos_a_pagar.pdf da norma Decreto Municipal nº 13.975, de 26 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/218",
+      "metadata": {},
+      "assunto_anexo": "Listagem - Cancelamento restos a pagar",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2025/218/listagem_-_cancelamento_restos_a_pagar.pdf",
+      "ano": 2025,
+      "norma": 8704
+    },
+    {
+      "id": 219,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/219/lei_4.129.2017-anexo_setembro_2024.pdf da norma Lei Complementar nº 4.129, de 07 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/219",
+      "metadata": {},
+      "assunto_anexo": "Anexos I, II, III, IV, V, VI, VII - atualizados até a Lei 4.777/2024.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2017/219/lei_4.129.2017-anexo_setembro_2024.pdf",
+      "ano": 2017,
+      "norma": 2284
+    },
+    {
+      "id": 220,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/220/portaria_06.2026_-__veiculo_-_anexos.pdf da norma Portaria Câmara nº 6, de 07 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/220",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Portaria nº 06, de 07.01.2026.",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2026/220/portaria_06.2026_-__veiculo_-_anexos.pdf",
+      "ano": 2026,
+      "norma": 8815
+    },
+    {
+      "id": 221,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/221/anexo_pl_4154.25.pdf da norma Lei nº 4.904, de 31 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/221",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2025/221/anexo_pl_4154.25.pdf",
+      "ano": 2025,
+      "norma": 8840
+    },
+    {
+      "id": 222,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/222/anexo_4.207-2026.pdf da norma Lei nº 4.942, de 08 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/222",
+      "metadata": {},
+      "assunto_anexo": "Anexo Único - Plano de Trabalho",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2026/222/anexo_4.207-2026.pdf",
+      "ano": 2026,
+      "norma": 9278
+    },
+    {
+      "id": 223,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/223/lei4947_-_anexo_jayne.pdf da norma Lei nº 4.947, de 29 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/223",
+      "metadata": {},
+      "assunto_anexo": "Anexo",
+      "anexo_arquivo": "http://sapl.pontenova.mg.leg.br/media/sapl/public/anexonormajuridica/2026/223/lei4947_-_anexo_jayne.pdf",
+      "ano": 2026,
+      "norma": 9391
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.pontenova.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/687059675c57ed15ec9ff1539fc282c3cc78574c55e436e290ed9520794d09aa.json",
+      "sha256": "70fbb99eebb80fd769b4c356f0f3f69696da5b8b7d966411e226d0d8cb73c938",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/687059675c57ed15ec9ff1539fc282c3cc78574c55e436e290ed9520794d09aa.meta.json"
+    },
+    {
+      "url": "https://sapl.pontenova.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/aceef333c7ee84c434c0b8ba8aafa59a7da297cb8c943f4b2f6b1855646e737b.json",
+      "sha256": "73492a37f97193cec1c413c7f6dd1b2c19eb51bfc13e5d3af38785d5579e2567",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/aceef333c7ee84c434c0b8ba8aafa59a7da297cb8c943f4b2f6b1855646e737b.meta.json"
+    },
+    {
+      "url": "https://sapl.pontenova.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/6e427755acf57da717e0109b5c3f77102165e4c48361d7708fa7c4fbe01e0f67.json",
+      "sha256": "84191b6e49ba3c81e5097c7368356e8d7468bb7c629d0e4a5f31b9aa6c9233e8",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pontenova.mg.leg.br/6e427755acf57da717e0109b5c3f77102165e4c48361d7708fa7c4fbe01e0f67.meta.json"
+    }
+  ],
+  "total": 211
+}

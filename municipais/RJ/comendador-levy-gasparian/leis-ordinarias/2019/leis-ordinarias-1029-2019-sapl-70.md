@@ -1,0 +1,86 @@
+---
+titulo: "Lei Ordinária nº 1.029, de 17 de setembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1029"
+data: "2019-09-17"
+municipio: "Comendador Levy Gasparian"
+uf: "RJ"
+codigo_ibge: "3300951"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2021-02-09; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.comendadorlevygasparian.rj.leg.br/norma/70"
+fonte_texto: "https://sapl.comendadorlevygasparian.rj.leg.br/ta/32/text"
+sha256_fonte: "ed91dbc6a70959cee5cf0bfb11079a2fc667dad112d1a21ecc590a07a7567149"
+sha256_texto: "c660dfb7dbf32df2374bfd446380436c18cb03a66c939af948d2ecf99ea33514"
+capturado_em_fonte: "2026-10-27T23:15:20.884552-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.029, de 17 de setembro de 2019
+
+Institui a gratificação mensal para o servidor efetivo designado para compor a Comissão Permanente de Licitação e Pregão e dá outras providências.
+
+
+**O POVO DO MUNICÍPIO DE COMENDADOR LEVY GASPARIAN, por seus representantes, decreta e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica instituída a gratificação para o servidor efetivo ou comissionado em exercício da função de membro da função de pregoeiro e equipe de apoio e para os membros da comissão permanente de licitação, no âmbito do Município de Comendador Levy Gasparian, conforme atribuições previstas nas Leis Federais nº 8.666/93 e 10.520/02.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.091, de 09 de fevereiro de 2021.
+
+
+Art. 2º.
+
+O valor da gratificação será de R$ 200,00 (duzentos reais) por pregão presencial ou eletrônico para o pregroeiro e equipe de apoio, bem como todas as licitações realizadas na forma das modalidades do artigo 22, inciso I, II, III, IV e V da lei federal 8.666/93, limitando-se o pagamento a 10(dez) gratificações por servidor.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.091, de 09 de fevereiro de 2021.
+
+
+Parágrafo único
+
+O valor da gratificação será reajustado na mesma data e no mesmo índice da revisão geral anual dos servidores do Poder Executivo Municipal.
+
+
+Art. 3º.
+
+Durante o período em que estiver recebendo a gratificação, o servidor ficará à disposição do Município conforme necessidade dos trabalhos da Comissão, renunciando a vinculação da carga horária do seu cargo.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 1.091, de 09 de fevereiro de 2021.
+
+
+Art. 4º.
+
+O servidor que por qualquer motivo estiver afastado das funções da Comissão não terá direito a percepção da gratificação pelo prazo de seu afastamento, mesmo em caso de férias, licença-prêmio, licença para tratamento da saúde e outros, uma vez que o recebimento do benefício está vinculado à efetiva participação na Comissão de Licitação e Pregão.
+
+
+Art. 5º.
+
+Esta gratificação não terá incidência na remuneração de férias, 1/3 de férias e 13º salário.
+
+
+Art. 6º.
+
+A gratificação disciplinada nesta Lei não será incorporada ao vencimento do servidor em nenhuma hipótese, nem tampouco incidirá nenhuma contribuição previdenciária.
+
+
+Art. 7º.
+
+As despesas decorrentes desta Lei correrão por conta de dotações orçamentárias próprias consignadas no Orçamento Municipal vigente.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 1.091, de 09 de fevereiro de 2021.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas às disposições em contrário.
+
+
+**Valter Luiz Ribeiro Lavinas**
+
+**Prefeito**
+

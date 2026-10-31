@@ -1,0 +1,44 @@
+{
+  "arquivos": 1642,
+  "suspeitos": [
+    {
+      "path": "municipais/MG/luz/leis-ordinarias/2017/leis-ordinarias-2515-2017-sapl-447.md",
+      "alertas": [
+        {
+          "offset": 2282,
+          "trecho": "para respostas, os pedidos de acesso às informações;\n\nIII - orientar o interessado, quanto ao seu pedido, o trâmite, o prazo da resposta e sobre as informações disponíveis no site eletrônico www.luz.mg.gov.br;\n\nIV - zelar pelo atendimento dos prazos assinalados para apresentação de respostas;\n\nV - elaborar relatório mensal dos atendimentos.\n\n**Art. 5º.** Qualquer interessado, devidamente identificado, poderá ter acesso às informações referen"
+        },
+        {
+          "offset": 5799,
+          "trecho": "cação, poderá ser designado um servidor para certificar que confere com o original.\n\n**Art. 8º.** As informações de interesse público serão disponibilizadas no sítio eletrônico www.luz.mg.gov.br, os quais serão atualizados, rotineiramente, e deverá atender, entre outros, aos seguintes requisitos:\n\nI - conter formulário para requerimento de acesso a informação;\n\nII - conter ferramenta de pesquisa de conteúdo que permita o acesso"
+        },
+        {
+          "offset": 6947,
+          "trecho": "mento, a divulgação em seus sítios na Internet de informações de interesse coletivo ou geral por eles produzidas.\n\n**Art. 9º.** Deverão ser disponibilizadas no endereço eletrônico www.luz.mg.gov.br as seguintes informações de interesse público:\n\nI - estrutura organizacional, competências, legislação aplicável, principais cargos e seus ocupantes, endereço e telefones das unidades, horários de atendimento ao público;\n\nII - programas"
+        }
+      ]
+    },
+    {
+      "path": "municipais/MT/caceres/emendas-lei-organica/2025/emendas-lei-organica-52-2025-sapl-1996.md",
+      "alertas": [
+        {
+          "offset": 2390,
+          "trecho": "ília-DF) de Cáceres passam a vigorar com as seguintes redações: LOCAL: https://bll.org.br/ “Art. 111. A outorga de concessão e de permissão para a pres- EDITAL DISPONÍVEL NO SITE DA CÂMARA MUNICIPAL DE CÁCE- tação de serviços públicos de titularidade do Município, inclusive RES PELO LINK https://www.caceres.mt.leg.br/ E NA PLATAFORMA a de saneamento público, precedida ou não da execução de obra https://www.comprasnet.gov.br pública, dependerá de autorização legislativa prévia e específica da Câmara Municipal. OBS: SALVO RESSALVA EXPRESSA, OS HOR"
+        }
+      ]
+    },
+    {
+      "path": "municipais/SP/sao-paulo/decretos/2026/decreto-65599-2026.md",
+      "alertas": [
+        {
+          "offset": 163307,
+          "trecho": "i nº 17.719, de 26 de novembro de\n2021, referentes a fatos geradores ocorridos até 31 de dezembro de 2020. (Art. 28 da Lei nº\n17.719, de 26/11/21) (link para o Anexo III: https://legislacao.prefeitura.sp.gov.br/leis/lei-17719-de-\n26-de-novembro-de-2021)\nParágrafo único. A remissão de que trata este artigo independerá de qualquer requerimento e será\nconcedida de ofício pela unidade responsável pela gestão do Cadastro Imobiliár"
+        },
+        {
+          "offset": 377647,
+          "trecho": "l, cultural e turística que\ndemanda ações articuladas do Poder Público para sua preservação e vitalidade. (Art. 1° da Lei nº\n17.332, de 24/03/20) (link para os anexos: https://legislacao.prefeitura.sp.gov.br/leis/lei-\n17332-de-24-de-marco-de-2020)\n§ 1º O Triângulo SP está inserido nas áreas de abrangência do Polo de Economia Criativa Distrito\nCriativo Sé/República e do Território de Interesse da Cultura e da Paisagem Pauli"
+        }
+      ]
+    }
+  ]
+}

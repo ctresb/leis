@@ -1,0 +1,72 @@
+{
+  "host": "sapl.corumbiara.ro.leg.br",
+  "metadados_unicos_observados": 348,
+  "total_api_declarado": 348,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 217,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corumbiara.ro.leg.br/7094355b87e532728a10ca3dc212147e8126efad78c7d54c8b0d024a2f4fe363.json",
+    "url": "https://sapl.corumbiara.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.corumbiara.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9aa0b4d1bf5af50f94e02bcb6de5778ea0ca994d24f72e90924e69b5ac4fa61a",
+    "bytes": 958,
+    "capturado_em": "2026-10-28T09:22:02.438657-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corumbiara.ro.leg.br/ac9907d5a825be13db3e9779ed0a29bdad891d7227d2070cc27d5b912203c611.json",
+    "url": "https://sapl.corumbiara.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.corumbiara.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "57976c11b889a7adb27bf7336bac178732d6db44d6c11e3e6824c0c4b8bbb8c6",
+    "bytes": 766,
+    "capturado_em": "2026-10-28T09:22:01.430245-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corumbiara.ro.leg.br/fc108a7616b3a2b0d0116b1261d15019b8207382a5ba6a7d6ab7537cf10b766d.json",
+      "url": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "512c26cff0f66e92256a54c0d1aafe43364ff8a593a1f7a5510e6ca46df24415",
+      "bytes": 67051,
+      "capturado_em": "2026-10-28T09:22:04.929053-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corumbiara.ro.leg.br/858ef01882617f84bef28f6b5109ade5c142b8cfe0fa131ee80a0434a910dc7b.json",
+      "url": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "670a5c2f8e94493bde7be81da6bbe47b32f08bdb364595d814b7fb3e87793650",
+      "bytes": 62634,
+      "capturado_em": "2026-10-28T09:23:46.205054-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corumbiara.ro.leg.br/1fa47ecd8a903f5c63ebeda65c2ffe6fe0eb5564a45beb6fa789f8fdd3a1d289.json",
+      "url": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3cc2c76e539950e36eceeffd9c37bfe55c2fefca70c760e66a6e373e21d0ea64",
+      "bytes": 58593,
+      "capturado_em": "2026-10-28T09:26:08.859382-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corumbiara.ro.leg.br/2809fceb10f4cc2d857b02d561ab49a3a468937071284076e3e98139334d7402.json",
+      "url": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.corumbiara.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8dfdea2b71aaa82bcb285551ba2d56d0843a3e0375e6fee98b6373aab39aed25",
+      "bytes": 27410,
+      "capturado_em": "2026-10-28T09:29:16.725758-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

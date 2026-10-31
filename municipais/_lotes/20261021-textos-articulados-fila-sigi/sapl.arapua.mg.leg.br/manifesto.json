@@ -1,0 +1,42 @@
+{
+  "host": "sapl.arapua.mg.leg.br",
+  "metadados_unicos_observados": 3,
+  "total_api_declarado": 3,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapua.mg.leg.br/8f2ef363a25eb49532f3ecdf8ad9cae6ee133ca377bbad1a46e7495bb342f170.json",
+    "url": "https://sapl.arapua.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.arapua.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "544db1ec2a8b9f64f76ece6e225143c395258ae80517203df230b23d83c3e2f2",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T16:55:44.066462-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapua.mg.leg.br/aa66e99968ddf11c386444dd5af38a919a346a5c8d9168db183fa22afe4ecf18.json",
+    "url": "https://sapl.arapua.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.arapua.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b16bb2ee86e886b4941d07999806f0746482ceb1a47908f15343429996b16d8a",
+    "bytes": 735,
+    "capturado_em": "2026-10-27T16:55:43.237801-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapua.mg.leg.br/57ba7e1bcf5384657a8e5e851e8e2ce597a62de30c1777bc0057df62b71b703a.json",
+      "url": "https://sapl.arapua.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.arapua.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "99888485013015b09425730568028fbd32f0669e56add28463607ca97a2611a4",
+      "bytes": 2095,
+      "capturado_em": "2026-10-27T16:55:46.081962-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

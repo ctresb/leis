@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/2023-12-26_loa.pdf da norma Lei Municipal-PEX nº 34, de 18 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação",
+      "anexo_arquivo": "http://sapl.fenix.pr.leg.br/media/sapl/public/anexonormajuridica/2023/1/2023-12-26_loa.pdf",
+      "ano": 2023,
+      "norma": 1423
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/2024-01-12_decreto_legislativo_n01-2024_publicacao.pdf da norma Decreto Legislativo-GB nº 1, de 12 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.fenix.pr.leg.br/media/sapl/public/anexonormajuridica/2024/2/2024-01-12_decreto_legislativo_n01-2024_publicacao.pdf",
+      "ano": 2024,
+      "norma": 1439
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/b22bf8d0fb61bf8f55a5cd1dbb2c34afdf99e1fef057f1b73ba1442baaf6d93a.json",
+      "url": "https://sapl.fenix.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.fenix.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "70d9e55a31bfeafc284673603224b67e7e30c6137871585fc172739601020692",
+      "bytes": 1028,
+      "capturado_em": "2026-10-28T10:32:13.644703-03:00"
+    }
+  ]
+}

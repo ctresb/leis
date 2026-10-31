@@ -1,0 +1,121 @@
+---
+titulo: "Lei Ordinária nº 545, de 13 de agosto de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "545"
+data: "2020-08-13"
+municipio: "Cuitegi"
+uf: "PB"
+codigo_ibge: "2505204"
+versao_texto: "texto integral anexado no SAPL municipal; PROJETO DE LEI."
+fonte: "https://sapl.cuitegi.pb.leg.br/norma/598"
+fonte_texto: "https://sapl.cuitegi.pb.leg.br/media/sapl/public/normajuridica/2020/598/pl_n13_de_13_de_agosto_de_2020.pdf"
+sha256_fonte: "09d91a89a810a83192e4b98e5b434e6ed75cb56dca311c9d35d872284cd36f26"
+sha256_texto: "9c20a30194213a89ab57ce1987ff53c32201916c8a38b4f9775c73f6818aa251"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 545, de 13 de agosto de 2020
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+sproado em, 17 d CHor votes 1° discussao aprovado em N: 5H5 m. 17/0 0.20 1 PAuul Presidente 6 valos provado em ca ESTADO DA PARAIBA 1. +/00 20 2
+
+Prit GABINETE DO PREFEITO Presidente Severno Batista da Silva Projeto de Lei ordinária n° 2 /2020 Presidente de Câmara Municipal de Cuitegi "DISPÓE SOBRE A ABERTURA DE CRÉDITO ESPECIAL AO ORÇAMENTO VIGENTE DESTE MUNICIPIO E DÁ OUTRAS PROVIDENCIASẠỊ O PREFEITO CONSTITUCIOANL DE CUITEGI, ESTADO DA PARAÍBA, Guilherme Madruga Cunha Junior, no uso das atribuições que lhe são conferidas pela Lei Orgânica Municipal e legislação pertinente, Fica o Poder Executivo Municipal, autorizado a abrir crédito especial ao orçamento na modalidade Superávit Financeiro vigente aprovado pela Lei Municipal n° 527/2019 de 04/12/2019, visando o atendimento a realização da receita e execução das despesas com recursos provenientes da Cessão Onerosa do Bônus de Assinatura do Pré-sal, pelo critério do FPM, visando à criação/implantação da rubrica orçamentária abaixo discriminada:
+
+**Art. 1°** - Fica o Poder Executivo Municipal, autorizado a abrir crédito especial ao orçamento vigente aprovado pela Lei Municipal n° 529/2019 de 04/12/2019, visando à criação/implantação da rubrica orçamentária abaixo discriminada: 20.400-Secretaria de Agricultura 20- Agricultura 608- Promoção da Produção Agropecuária 0005-Atendendo ao Homem do Campo 1013-Construção de Passagem Molhada No Sitio Malhada 44.90.51 - Obras e Instalações 122.136,83 FR: 1991 - Cessão Onerosa do Bônus de Assinatura do Pré-Sal. TOTAL R$ 122.136,83
+
+**Art. 2°** - Constituirá fonte de recursos para abertura do Crédito Especial, que trata o
+
+art. 1° desta Lei, o excesso de arrecadação proveniente do recurso da Cessão Onerosa do Bônus de Assinatura do Pré-Sal, contabilizada na rubrica 1.7.1.8.99.1.1 - Outras Transferências da União - Principal, no valor de R$ 300.000,00, cujos recursos só podem ser utilizados nas despesas previstas pela Lei Federal n° 13.885, de 17 de outubro de 2019.
+
+**Art. 3°** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Gabinete do Prefeito Constitucional do Município de Cuitegi, Estado da Paraíba em, 13 de agosto de 2020. GUILHERME CUNHA MADRUGA JUNIOR Prefeito
+
+CUITEGI CÂMARA MUNICIPAL DE CUITEGI COMISSÃO DE LEGISLAÇÃO, JUSTIÇA E REDAÇÃO FINAL COMISSAO DE CONSTITUIÇÃO E JUSTIÇA Ao Senhor Presidente; Parecer n° 0/21/2020, referente ao Projeto de Lei n° 013/2020, de Autoria Do Poder Executivo \*\*' DISPÓE SOBRE A ABERTURA DE CRÉDITO ESPECIAL AO ORÇAMENTO VIGENTE DESTE MUNICIPIO E DA OUTRAS PROVIDENCIASẠỊi
+
+I-Relatório O Chefe do Poder Executivo encaminhou a casa legislativa Projeto de lei que versa sobre matéria de competência do Município em face do interesse local, encontrando amparo no artigo 30, inciso | da Constituição Federal, a permissa legal é o orçamento Municipal, aprovado em 04/12/2019, mas precisamente a Lei Orçamentária n° 527/2019. O objetivo da abertura do Crédito é a "Conclusão de construção de uma Passagem Molhada, no Sítio malhada, Zona RuralỊOs créditos serão cobertos com recursos provenientes de transferências voluntárias do Governo Federal, através de recursos recebidos provenientes do recurso da Cessão Onerosa do Bônus de Assinatura do Pré-Sal, já depositado em conta deste município e contabilizado na rubrica 1.7.1.8.99.1.1 - Outras Transferências da União.
+
+II-Análise Ao analisar detalhadamente, o Projeto cumpre toda a fase da legalidade, de tramitação e de forma, e boa técnica legislativa, as formalidades legais e regimentais. Além de representar os interesses sociais do povo, assegurados pela Constituição Federal, assim como também o poder Executivo consigna fontes de recursos já em conta para quitação das despesas, mostrando o compromisso com o equilíbrio das contas públicas, no tocante ao aumento das despesas sem cobertura de receita. O orçamento vigente permite a abertura de Créditos especiais, assim como também é criação de outas rubricas, asseguradas pela Lei Federal nº4320/64- conhecida como a Lei das Finanças Públicas.
+
+CUITEG CÂMARA MUNICIPAL DE CUITEGI COMISSÃO DE LEGISLAÇÃO, JUSTIÇA E REDAÇÃO FINAL |||-Voto A Comissão de Constituição e Justiça, em reunião no dia 17 de agosto de 2020, com seus membros resolvem, emitir: Parecer Favorável, ao projeto pois representa o interesse Social, especificamente da população do Sítio Malhada, opinando pela Constitucionalidade, e pede pela Aprovação do mesmo em plenária. Sala das comissões, em 17 de agosto de 2020. Jailson Pereira Evangelista Relator
+
+Estado da Paraíba Câmara Municipal de Cuitegi "Casa Virgolino Cavalcante de Melo Comissão de Finanças, Tributação e Administração e Desenvolvimento Urbano. PARECER N° 10 /2020 Ao Senhor Presidente: Foi enviado a esta Comissão Projeto de Lei n° 013/2020 que trata da matéria: "DISPÓE SOBRE A ABERTURA DE CRÉDITO ESPECIAL AO ORÇAMENTO VIGENTE DESTE MUNICIPIO E DÁ OUTRAS PROVIDENCIASẠiỊ Os membros da Comissão de Finanças e Orçamento, da Câmara Municipal de Cuitegi, Estado da Paraíba, reuniram-se no dia 17 de agosto de 2020, para analisar e emitir Parecer sobre o Projeto de Lei n° 013/2020, o qual a Comissão emitiu o seguinte parecer: Em análise à matéria em tela, verifica-se que o mesmo foi proposto pelo Poder Executivo Municipal, quanto à iniciativa preenche os requisitos legais, a abertura de um Crédito Especial no Valor de R$: 122.136,83 (Cento e Vinte e Dois Mil Cento e Trinta e Seis Mil e Oitenta e Três Centavos), para conclusão de obra de Construção de uma passagem molhada no Sítio Malhada. Esta Comissão entende que a conclusão da obra é de fundamental importancia para a população, além de contribuir para o desenvolvimento agropecuário da região. O Município possui receita em conta para pagamento das despesas decorrentes da aplicação desta lei, através de recursos recebidos provenientes do recurso da Cessão Onerosa do Bônus de Assinatura do Pré-Sal,
+
+Estado da Paraíba Câmara Municipal de Cuitegi "Casa Virgolino Cavalcante de Melo contabilizada na rubrica 1.7.1.8.99.1.1 - Outras Transferências da União - Principal, no valor de R$ 456.980,24, sendo que desde montante o valor de R$: 122.136,83 serão destinados a conclusão da obra, cujos recursos só podem ser utilizados nas despesas previstas pela Lei Federal n° 13.885, de 17 de outubro de 2019. O Orçamento do exercício vigente autoriza a abertura de Créditos suplementares e especiais no percentual de até 50% do Orçamento previsto, estando, portanto, dentro do limite autorizado na Lei orçamentária Anual 527/2019, de 04/12/2019. Ademais, a comissão verificou que, o projeto, ora apresentado, está em consonância com as regras que regem a legalidade e dentro dos conceitos constitucionais, apresentando também legalidade dentro dos conceitos da Contabilidade Pública e está dentro da realidade financeira do Município. Ante o exposto, no que nos compete analisar, opinamos pela emissão do Parecer favorável ao Projeto de Lei Complementar do Executivo Municipal n° 013/2020. Este é o parecer. Cuitegi-Pb em 17 de agosto de 2020. Danilla dos Santos Lino Presidente da Comissão.
+
+ESTADO DA PARAÍBA
+
+PROCURADORIA JURIDICA MUNICIPAL Ref.: Tomada de preço n° 00004/2018 - Termo Aditivo ao Contrato n° 00055/2018 Requerente: COMISSÃO PERMANENTE DE LICITAÇÃO Assunto: Pedido de Parecer Técnico Jurídico PARECER JURIDICO EMENTA: PEDIDO DE PARECER TÉCNICO JURÍDICO. CONTRATO ADMINISTRATIVO. DO MODIFICAÇÃO QUALITATIVA DEIO STRATY VALOR CONTRATO ADITIVO 00055/2018. CONTRATUAL. ART. 65, INCISO I, ALINEA 'A', DA LEI N° 8.666/93. DECISÃO N° 215/1999 DO TCU.
+
+I - RELATÓRIO Trata-se de Contrato Administrativo n° 00055/2018, firmado com a empresa PLANENG ENGENHARIA LTDA - ME, o qual tem por objeto a construção de passagem molhada no Sítio Malhada, na zona rural do Município de Cuitegi/PB. Em 16 de janeiro de 2020, a empresa PLANENG ENGENHARIA LTDA - ME solicitou ao Setor de Engenharia a realização de nova sondagem do solo no terreno onde será construída a passagem molhada, devido à constatação inconformidades entre os resultados obtidos na primeira análise do solo, utilizada para elaboração do projeto, e a situação real do terreno verificada, posteriormente, através da escavação da fundação da parte central da passagem molhada. Em cumprimento ao solicitado, após nova análise, o Setor de Engenharia emitiu Justificativa Técnica, na qual constam os fatos que ensejaram a modificação do projeto do Contrato n° 00055/2018 para melhor adequação técnica aos seus objetivos, ocasionando um acréscimo no quantitativo do objeto contratado e a necessidade de modificação do valor contratual. O Setor de Engenharia encaminhou a esta Procuradoria Jurídica a Justificativa Técnica da modificação do projeto do contrato n° 00055/2018 e demais documentos Rua Nossa Senhora do Rosário, 35, Centro.
+
+ESTADO DA PARAÍBA
+
+PROCURADORIA JURÍDICA MUNICIPAL pertinentes, solicitando PARECER TÉCNICO JURÍDICO sobre a possibilidade de realizar tal alteração. É a síntese do necessário. Passo a opinar.
+
+II - FUNDAMENTAÇÃO Primeiramente, é importante detalhar os preceitos legais pertinentes que regulam a matéria em apreço. A Lei n° 8.666/93, a qual institui normas gerais de licitações e contratos da Administração Pública, estabelece nos incisos I e II, do seu art. 65, os casos em que é possível alterar o contrato administrativo. Vejamos:
+
+**Art. 65.** Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos:
+
+I - unilateralmente pela Administração:
+
+a) quando houver modificação do projeto ou das especificações, para melhor adequação técnica aos seus objetivos;
+
+b) quando necessária a modificação do valor contratual em decorrência de acréscimo ou diminuição quantitativa de seu objeto, nos limites permitidos por esta Lei;
+
+II - por acordo das partes:
+
+a) quando conveniente a substituição da garantia de execução;
+
+b) quando necessária a modificação do regime de execução da obra ou serviço, bem como do modo de fornecimento, em face de verificação técnica da inaplicabilidade dos termos contratuais originários;
+
+c) quando necessária a modificação da forma de pagamento, por imposição de circunstâncias supervenientes, mantido o valor inicial atualizado, vedada a antecipação do pagamento, com relação ao cronograma financeiro fixado, sem a correspondente contraprestação de fornecimento de
+
+d) para restabelecer a relação que as partes pactuaram inicialmente entre os encargos do contratado e a retribuição da administração para a justa remuneração da obra, serviço ou fornecimento, objetivando a manutenção do equilíbrio econômico-financeiro inicial do contrato, na hipótese de sobrevirem fatos imprevisíveis, ou previsíveis porém de conseqüências incalculáveis, retardadores ou impeditivos da execução do ajustado, ou, ainda, em caso de força maior, caso fortuito ou fato do príncipe. extracontratual. Portanto, a mutabilidade é uma característica do contrato administrativo. Ela pode Rua Nossa Senhora do Rosário, 35, Centro.
+
+ESTADO DA PARAÍBA
+
+PROCURADORIA JURÍDICA MUNICIPAL ocorrer tanto de forma unilateral, pela Administração Pública, como de forma bilateral, por acordo entre as partes, nas hipóteses apontadas no artigo supracitado. A alteração consensual tem suas hipóteses previstas no inciso II, do art. 65 da Lei n° 8.666/93, o que não impede, todavia, que as hipóteses do inciso 1, do art. 65, de alteração unilateral, também possam ser concretizadas de forma bilateral. Esta previsão normativa apenas estabelece uma prerrogativa para Administração, que não se aplica ao contratado, todavia, é totalmente possível que as partes estejam de acordo com a modificação nestes casos. Ressalte-se que, é a supremacia do interesse público e a indisponibilidade dele - pressupostos fundamentais do regime jurídico administrativo -, que fundamentam a existência da mutabilidade unilateral dos contratos administrativos. Tal prerrogativa da Administração Pública está prevista, ainda, no inciso I, do art. 58 da Lei n° 8.666/93. In verbis:
+
+**Art. 58.** O regime jurídico dos contratos administrativos instituído por esta
+
+Lei confere à Administração, em relação a eles, a prerrogativa de:
+
+I - modificá-los, unilateralmente, para melhor adequação às finalidades de interesse público, respeitados os direitos do contratado; (grifos nossos) Por sua vez, conforme alíneas "a" e "b", do inciso I, do art. 65 da Lei n° 8.666/93, a alteração unilateral só é admitida nas situações de: modificação do projeto, para adequação técnica, ou modificação do valor contratual, em decorrência de acréscimo ou diminuição quantitativa. A doutrina nomeia a primeira situação de modificação qualitativa e a segunda de modificação quantitativa. Apesar das alterações qualitativas derivarem da modificação de projeto ou de especificação do objeto contratual, sem modificá-lo, em natureza ou dimensão, é de salientar que a sua implementação requer, em regra, mudanças no valor original do contrato, muitas vezes em razão da necessidade de mudanças nas quantidades de obras ou serviços necessárias a sua conclusão. É importante destacar que tanto a alteração unilateral como a alteração consensual Rua Nossa Senhora do Rosário, 35, Centro.
+
+ESTADO DA PARAIBA
+
+PROCURADORIA JURÍDICA MUNICIPAL sofrem limitações legais para os seus acréscimos ou supressões, as quais estão previstas nos §§ 1° e 2° do art. 65 da Lei n° 8.666/93, in verbis:
+
+**Art. 65.** Os contratos regidos por esta Lei poderão ser alterados, com as devidas justificativas, nos seguintes casos:
+
+**§ 1º** O contratado fica obrigado a aceitar, nas mesmas condições contratuais, os acréscimos ou supressões que se fizerem nas obras, serviços ou compras, até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato, e, no caso particular de reforma de edifício ou de equipamento, até o limite de 50% (cinqüenta por cento) para os seus acréscimos. Nenhum acréscimo ou supressão poderá exceder os limites estabelecidos no parágrafo anterior, salvo:
+
+I - (VETADO)
+
+II - as supressões resultantes de acordo celebrado entre os contratantes. (grifos nossos) Entretanto, o TCU admite, extraordinariamente, que as alterações unilaterais qualitativas extrapolem os limites legais. Os requisitos, para isso, foram estabelecidos pelo Plenário do Tribunal, em sua Decisão n° 215/1999, ainda hoje citada como referência. Segue os esclarecimentos prestados pelo TCU: ạia) tanto as alterações contratuais quantitativas - que modificam a dimensão do objeto - quanto as unilaterais qualitativas - que mantêm intangível o natureza e em dimensão, estão sujeitas aos limites preestabelecidos nos § § 1° e 2° do art. 65 da Lei 8.666/93, em face do respeito aos direitos do contratado, prescrito no art. 58, I, da mesma lei, do princípio da proporcionalidade e da necessidade de esses limites serem obrigatoriamente fixados em lei;". E que: "b) nas hipóteses de alterações contratuais consensuais, qualitativas e os princípios da finalidade, da razoabilidade e da proporcionalidade, além dos direitos patrimoniais do contratante privado, desde que satisfeitos cumulativamente os seguintes pressupostos: I - não acarretar para a Administração encargos contratuais superiores aos oriundos de uma eventual rescisão contratual por razões de interesse público, acrescidos aos custos da elaboração de um novo procedimento licitatório; II - não possibilitar a inexecução contratual, à vista do nível de capacidade Rua Nossa Senhora do Rosário, 35, Centro.
+
+ESTADO DA PARAIBA
+
+PROCURADORIA JURIDICA MUNICIPAL técnica e econômico-financeira do contratado; III - decorrer de fatos supervenientes que impliquem em dificuldades não previstas ou imprevisíveis por ocasião da contratação inicial; IV - não ocasionar a transfiguração do objeto originalmente contratado em outro de natureza e propósito diversos; V - ser necessárias à completa execução do objeto original do contrato, à otimização do cronograma de execução e à antecipação dos benefícios sociais e econômicos decorrentes; VI - demonstrar-se - na motivação do ato que autorizar o aditamento contratual que extrapole os limites legais mencionados na alínea "a", supra - que as consequências da outra alternativa (a rescisão contratual, seguida de nova licitação e contratação) importam sacrifício insuportável ao interesse público primário (interesse coletivo) a ser atendido pela obra ou serviço, ou seja gravíssimas a esse interesse; inclusive quanto à sua urgência e emergência". Portanto, para que seja possível à Administração ultrapassar os limites previsto no art. 65, §$1° e 2º da Lei n° 8.666/93, deverá preencher os requisitos previsto da Decisão n° 215/1999. Nesse mesmo sentido já se pronunciou o TCE/PB, nos processos PROCESSO TC N° 4226/05 e PROCESSO TC 01678/08. No caso em análise, conforme Justificativa Técnica apresentada pelo Setor de Engenharia, foi necessário adotar uma solução técnica para corrigir as inconformidades encontradas, a qual promove a modificação do projeto do Contrato n° 00055/2018, com acréscimo no quantitativo do objeto. Ou seja, é necessária uma alteração qualitativa, que resultará em modificação quantitativa. O acréscimo gerado, todavia, ultrapassa o limite de 25% para obras, previsto no §1° do art. 65 da Lei n° 8.666/93. O valor inicial do contrato para execução do objeto foi de R$ 307. 067,89 (trezentos e sete mil, sessenta e sete reais e oitenta e nove centavos), como pode ser visto na Planilha Orçamentária em anexo, da empresa vencedora da Tomada de Preços n° 00004/2018. E a solução técnica adotada foi orçada em R$ 189.136,41 (cento e oitenta e nove mil, cento e trinta e seis reais e quarenta e um centavos), como pode ser visto na Planilha Orçamentária em anexo. Como já mencionado acima, o TCU admite, extraordinariamente, que as alterações qualitativas extrapolem os limites legais, desde que preenchidos alguns requisitos. Portanto, é Rua Nosso Senhora do Rosário, 35, Centro.
+
+ESTADO DA PARAIBA
+
+PROCURADORIA JURIDICA MUNICIPAL necessária a análise do caso em questão considerando tais requisitos para se concluir sobre a possibilidade da alteração contratual proposta pelo Setor de Engenharia. No que diz respeito aos requisitos de caráter técnicos, atinentes à execução da obra, a necessidade de adotar a solução técnica, segundo Justificativa Técnica, decorreu de inconformidades constatadas apenas após a contratação. Segue os trechos pertinentes: Durante uma vistoria "in loco"foi identificado no local de construção da passagem molhada, pedaços de estruturas de concreto antigas junto ao material resultante das escavações da obra. Ao se perguntar sobre a origem desse material foram levantadas informações de que se tratava de pedaços de uma antiga passagem molhada que foi construída provisoriamente naquele local. Assim, levantou- se a suspeita que os resultados discrepantes de alguns dos ensaios de sondagem pudessem estar relacionados à presença, até então desconhecida, desse material no terreno. (..) Com base nos dados da Tabela 01, constata-se que os ensaios SP 03 e SP 04 de 2013 estão destoando consideravelmente dos demais resultados, e estes podem ter sido aferidos equivocadamente por interferência imprevisível no momento do ensaio, devendo então ser desconsiderados. Portanto, a necessidade de alteração decorreu de fatos supervenientes que resultaram em dificuldades não previstas ou imprevisíveis por ocasião da contratação inicial. Ademais, a solução proposta, como afirmado também na Justificativa Técnica, é necessária para a completa e segura execução do objeto original do contrato, sem promover a sua descaracterização. Com relação ao requisito que trata da repercussão social da alteração contratual, o TCU requer que a Administração demonstre que as consequências da rescisão contratual, seguida de nova licitação e contratação importam sacrifício insuportável ao interesse público primário (interesse coletivo) a ser atendido pela obra ou serviço, ou seja gravíssimas a esse interesse; inclusive quanto à sua urgência e emergência. As passagens molhadas são pontes construídas sobre córregos intermitentes que, durante o período chuvoso, impedem o transporte rural de pessoas e da produção agrícola, limitando o desenvolvimento social e econômico dos povoados. Logo, a construção da Rua Nossa Senhora do Rosário, 35. Centro.
+
+ESTADO DA PARAÍBA
+
+PROCURADORIA JURIDICA MUNICIPAL passagem molhada na zona rural ao Município de Cuitegi é indispensável, pois ele está localiza em área com clima tropical chuvoso, sendo período de maior quantidade de chuvas entre os meses de março e junho. Diante disso, a finalização da obra, de forma célere, atende ao interesse público primário. No que se refere à repercussão financeira da alteração contratual, a justificativa técnica elaborada pelo Setor de engenharia ressalta a vantajosidade da manutenção do contrato existente, com o aditivo de valor. Isso porque, restou demonstrado que caso o contrato seja rescindido e realizada nova licitação, a planilha com os serviços restantes a serem licitados teria de passar por uma atualização dos valores, diante de sua notória defasagem em relação aos preços praticados no mercado atualmente e a fim de garantir o equilíbrio econômico-financeiro contratual. Assim sendo, conforme segunda planilha orçamentária (Anexo IX) com os mesmos serviços, mas com data de referência dos preços de outubro de 2019, o valor total seria de R$ 313.300,94 (trezentos e treze mil, trezentos reais e noventa e quatro centavos). Uma diferença de R$ 16.167,38 (dezesseis mil, cento e sessenta e sete reais e trinta e oito centavos) para mais do valor inicialmente licitado (vide tabela explicativa da Justificativa Técnica). Ademais, não seria possível garantir na nova licitação o desconto global ofertado pela empresa atualmente contratada ao celebrar termos aditivos. Neste sentido, entende que resta preenchido o requisito financeiro de "não acarretar para a Administração encargos contratuais superiores aos oriundos de uma eventual rescisão contratual por razões de interesse público, acrescidos aos custos da elaboração de um novo procedimento licitatórioại
+
+III - CONCLUSÃO Diante de todo exposto, com base nos fundamentos de fato e de direito retro declinados, o parecer opinativo desta Procuradoria é no sentido de que:
+
+a) o TCU admite, extraordinariamente, que as alterações qualitativas de contrato Rua Nossa Senhora do Rosário, 35, Centro.
+
+ESTADO DA PARAÍBA
+
+PROCURADORIA JURIDICA MUNICIPAL administrativo extrapolem os limites previstos nos §§ 1° e 2º do art. 65 da Lei n° 8.666/93, desde que preenchidos os requisitos estabelecidos pelo Plenário do Tribunal, em sua Decisão n° 215/1999. No mesmo sentido tem decidido o TCE/PB;
+
+b) Segundo Justificativa Técnica e demais documentos enviados pelo Setor de Engenharia do Município de Cuitegi a esta Procuradoria Jurídica Municipal, todos os requisitos técnicos, de execução da obra, financeiros e sociais exigidos pelo TCU para a alteração qualitativa do contrato n° 00055/2018 foram preenchidos;
+
+c) Por fim, sejam enviadas cópias da Justificativa Técnica do Setor de Engenharia e do presente Parecer Técnico Jurídico ao o Setor Financeiro do Município de Cuitegi/PB, a fim de que emitam parecer sobre a disponibilidade orçamentária do Município para que seja possível a modificação do contrato n° 00055/2018 através de Termo Aditivo de Valor. É o parecer. Cuitegi-Pb, 11 de agosto de 2020. Bárbara Kelly Barbosa de Souza Procuradora Jurídica Municipal Rua Nossa Senhora do Rosário, 35, Centro.
+

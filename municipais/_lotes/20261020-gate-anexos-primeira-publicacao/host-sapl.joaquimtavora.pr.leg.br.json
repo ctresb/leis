@@ -1,0 +1,81 @@
+{
+  "host": "sapl.joaquimtavora.pr.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/carta_de_servicos_ao_cidadao.pdf da norma Atos da Presidência-GABPRES nº 1, de 18 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2026/1/carta_de_servicos_ao_cidadao.pdf",
+      "ano": 2026,
+      "norma": 12
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/2/lei_1.423_-_anexo_1_-_termo_de_nova_verificacao_e_avaliacao_-_novo_leilao.pdf da norma Lei Ordinária nº 1.423, de 22 de setembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2016/2/lei_1.423_-_anexo_1_-_termo_de_nova_verificacao_e_avaliacao_-_novo_leilao.pdf",
+      "ano": 2016,
+      "norma": 345
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/3/lei_1.454_-_conselho_municipal_direitos_pessoa_idosa.pdf da norma Lei Ordinária nº 1.454, de 03 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Reginaldo Vilela",
+                [
+                  "2024-04-09T16:18:26-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Alterada pela Lei Municipal n° 1.744/2024.",
+      "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2017/3/lei_1.454_-_conselho_municipal_direitos_pessoa_idosa.pdf",
+      "ano": 2017,
+      "norma": 371
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/4/lei_1.624_-_anexo_i.pdf da norma Lei Ordinária nº 1.624, de 17 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "(1) 2° Termo Aditivo do Protocolo de Intenções",
+      "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2022/4/lei_1.624_-_anexo_i.pdf",
+      "ano": 2022,
+      "norma": 434
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/lei_1.624_-_anexo_ii_-_extrato_publicacao_2o_aditivo.pdf da norma Lei Ordinária nº 1.624, de 17 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Protocolo de Intenções  para adequação do Consórcio Intermunicipal de Saúde do Norte Pioneiro.",
+      "anexo_arquivo": "http://sapl.joaquimtavora.pr.leg.br/media/sapl/public/anexonormajuridica/2022/5/lei_1.624_-_anexo_ii_-_extrato_publicacao_2o_aditivo.pdf",
+      "ano": 2022,
+      "norma": 434
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.joaquimtavora.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.joaquimtavora.pr.leg.br/74a2e89c767b3c68683dc5bf353d8d629bc63c4024b6eb960a3dab0b144c60ea.json",
+      "sha256": "05f03cb04e90bde5fb935a334cd83b913e25ace64c8467a57730a90bb40371a9",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.joaquimtavora.pr.leg.br/74a2e89c767b3c68683dc5bf353d8d629bc63c4024b6eb960a3dab0b144c60ea.meta.json"
+    }
+  ],
+  "total": 5
+}

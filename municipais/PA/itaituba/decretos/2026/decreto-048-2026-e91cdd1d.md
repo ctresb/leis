@@ -1,0 +1,684 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 048/2026 - DISPÕE SOBRE A DESCLASSIFICAÇÃO DE CANDIDATO POR NÃO SE APRESENTAR"
+uf: "PA"
+municipio: "ITAITUBA"
+tipo: "Decreto"
+numero: "048"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 04/02/2026"
+data_publicacao: 2026-02-04
+codigo_identificador: "E91CDD1D"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117011_2026-02-03_ed5b39da6138f0a41c668ccdd6c3088f.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 048/2026 - DISPÕE SOBRE A DESCLASSIFICAÇÃO DE CANDIDATO POR NÃO SE APRESENTAR
+
+DECRETO MUNICIPAL Nº 048/2026 - DISPÕE SOBRE A DESCLASSIFICAÇÃO DE CANDIDATO POR NÃO SE APRESENTAR
+JUNTO À COOPINVEST NO PRAZO LEGAL E DÁ OUTRAS PROVIDÊNCIAS.
+DECRETO MUNICIPAL Nº 048/2026.
+DISPÕE SOBRE A DESCLASSIFICAÇÃO DE CANDIDATO POR NÃO SE APRESENTAR JUNTO À COOPINVEST NO
+PRAZO LEGAL E DÁ OUTRAS PROVIDÊNCIAS.
+NICODEMOS ALVES DE AGUIAR, Prefeito Municipal de Itaituba, no uso de suas atribuições legais e constitucionais que lhe confere a Lei
+Orgânica do Município;
+Considerando a Homologação do Resultado final do Concurso Público da Prefeitura de Itaituba, cujo resultado final foi homologado através do
+Decreto Municipal nº 096/2025, publicado no Diário Oficial dos Municípios do Estado do Pará no dia 10/06/2025, Edição 3768 e na Home Page
+www.consulpam.com.br e a convocação dos candidatos para a realização dos exames admissionais e apresentação de documentos, conforme os
+Editais de Convocação nº 004 e 005/2025.
+DECRETA:
+Art. 1º FICA decretada a desclassificação do candidato abaixo relacionado, por não se apresentar junto à Comissão de Organização e Processo de
+Investidura do Concurso Público da Prefeitura Municipal de Itaituba – COOPINVEST, dentro do prazo legal exigidos nos Editais de Convocações nº
+004 e 005/2025:
+Cargo: 050 – ALMOXARIFE EDUCACIONAL-SEC.MUNICIPAL DE EDUCAÇÃO
+Classificação
+
+Inscrição
+
+Nome
+
+1º
+
+000500031859
+
+VICTOR HENRIQUE GOMES DE SOUSA
+
+Cargo: 053 – AUXILIAR DE CLASSE INFANTIL-SEC.MUNICIPAL DE EDUCAÇÃO- MIRITITUBA
+Classificação
+
+Inscrição
+
+Nome
+
+www.diariomunicipal.com.br/famep
+
+358
+
+Pará , 04 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3936
+1º
+
+000500022464
+
+MARIA EUNICE DA SILVA MATOS
+
+Cargo: 057 – AUXILIAR DE SECRETARIA ESCOLAR-SEC.MUNICIPAL.DE EDUCAÇÃO- SANTARÉM/CUIABÁ
+Classificação
+
+Inscrição
+
+Nome
+
+3º
+
+000500011618
+
+ROSEANE MESQUITA SANTOS
+
+Cargo: 061 – AUXILIAR DE SERVIÇOS GERAIS EDUCACIONAL-SEC.MUNICIPAL DE EDUCAÇÃO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+34º
+
+000500005596
+
+ANNA CAROLINA DA SILVA SOUZA
+
+39º
+
+000500007508
+
+CARMEN NATALIA ARAUJO LIMA
+
+41º
+
+000500029804
+
+LOGAN FELLEN VELOSO DE SOUSA
+
+43º
+
+000500005726
+
+SUELLANI LIMA SAMPAIO PAZ
+
+46º
+
+000500004810
+
+RUAN PABLO BARROS LIMA
+
+Cargo: 063 – AUXILIAR DE SERVIÇOS GERAIS EDUCACIONAL-SEC.MUNICIPAL DE EDUCAÇÃO-SANTARÉM/CUIABÁ
+Classificação
+
+Inscrição
+
+Nome
+
+8º
+
+000500006941
+
+SAMILA MIKELY MARQUES DA SILVA
+
+Cargo:
+064
+–
+AUXILIAR
+TRANSAMAZÔNICA/BUBURÉ
+
+DE
+
+SERVIÇOS
+
+GERAIS
+
+Classificação
+
+Inscrição
+
+Nome
+
+6º
+
+000500018426
+
+MARIA SONIA DA SILVA ALVES
+
+EDUCACIONAL-SEC.MUNICIPAL
+
+DE
+
+EDUCAÇÃO-
+
+Cargo: 068 – COORDENADOR PEDAGÓGICO DA EDUCAÇÃO INFANTIL-SEC.MUNICIPAL DE EDUCAÇÃO-MIRITITUBA
+Classificação
+
+Inscrição
+
+Nome
+
+1º
+
+000500011731
+
+MARIA FRANCISCA FELIX DA SILVA
+
+Cargo: 079 – MOTORISTA DE VEÍCULOS LEVES EDUCACIONAL-SEC.MUNICIPAL DE EDUCAÇÃO
+Classificação
+
+Inscrição
+
+Nome
+
+3º
+
+000500031751
+
+LUCAS DA CONCEICAO SILVA
+
+Cargo: 090 – PORTEIRO ESCOLAR-SEC.MUNICIPAL DE EDUCAÇÃO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+7º
+
+000500016923
+
+VALDERLEY DE MENEZES COUTO
+
+9º
+
+000500023867
+
+ERISNALDO VITAL DE FREITAS
+
+12º
+
+000500032292
+
+LEANDRA FERREIRA DA SILVA
+
+Cargo: 099 – PROFESSOR DE ATENDIMENTO EDUCACIONAL ESPECIALIZADO-SEC.MUN. DE EDUCAÇÃO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+8º
+
+000500024289
+
+ANNA MARIA ALENCAR BRITO
+
+13º
+
+000500010442
+
+LAURA ZELITA SILVA SANTANA
+
+Cargo: 111 – PROFESSOR DE EDUCAÇÃO FÍSICA-SEC.MUN. DE EDUCAÇÃO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+7º
+
+000500018418
+
+ELIAS DA SILVA MELO
+
+Cargo: 117 – PROFESSOR DE EDUCAÇÃO FÍSICA DOS ANOS INICIAIS - SEC.MUN DE EDUCAÇÃO - ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+10º
+
+000500026549
+
+VALDINEY LOBATO DE SOUSA
+
+Cargo: 123 – PROFESSOR DE EDUCAÇÃO INFANTIL - SEC.MUN DE EDUCAÇÃO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+135º
+
+000500011487
+
+ALINE SUELY RODRIGUES DA SILVA
+
+139º
+
+000500026521
+
+KELLY SILVA AGUIAR
+
+141º
+
+000500008166
+
+JOICE MATOS RODRIGUES
+
+148º
+
+000500029244
+
+STEFANE CELINE DINIZ DE ARAUJO
+
+www.diariomunicipal.com.br/famep
+
+359
+
+Pará , 04 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3936
+
+Cargo: 125 – PROFESSOR DE EDUCAÇÃO INFANTIL-SEC.MUN DE EDUCAÇÃO – REGIÃO SANTARÉM/CUIABÁ
+Classificação
+
+Inscrição
+
+Nome
+
+15º
+
+000500027500
+
+DAIANE DE SOUSA MOTA
+
+Cargo: 141 – PROFESSOR DE GEOGRAFIA - SEC.MUN DE EDUCAÇÃO - ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+4º
+
+000500031529
+
+SAMIRA FREITAS DE ARAUJO
+
+Cargo: 153 – PROFESSOR DE INTRODUÇÃO AS TECNOLOGIAS-SEC.MUN. DE EDUCAÇÃO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+3º
+
+000500009687
+
+ADANIEL DA SILVA E SILVA
+
+Cargo: 159 – PROFESSOR DE LÍNGUA ESTRANGEIRA(INGLÊS) - SEC.MUN DE EDUCAÇÃO – ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+6º
+
+000500017536
+
+CRISTIANE PAULA DA SILVA OLIVEIRA
+
+Cargo: 165 – PROFESSOR DE LÍNGUA PORTUGUESA - SEC.MUN DE EDUCAÇÃO – ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+11º
+
+000500012977
+
+GELIANE SOUZA DOS SANTOS
+
+Cargo: 166 – PROFESSOR DE LÍNGUA PORTUGUESA - SEC.MUN DE EDUCAÇÃO – MIRITITUBA
+Classificação
+
+Inscrição
+
+Nome
+
+2º
+
+000500022855
+
+GISLANE MONTEIRO DIAS LIMA
+
+Cargo: 171 – PROFESSOR DE MATEMÁTICA - SEC.MUN DE EDUCAÇÃO – ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+6º
+
+000500007093
+
+JOSE MOREIRA SOARES
+
+9º
+
+000500006221
+
+TATIANE CARDOSO BARRETO
+
+11º
+
+000500026218
+
+ROMERIO RODRIGUES ONETI
+
+Cargo: 177 – PROFESSOR DE SÉRIES INICIAIS - SEC.MUN DE EDUCAÇÃO – ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+101º
+
+000500015607
+
+IZABEL DA CUNHA CONCEICAO BORGES
+
+106º
+
+000500018341
+
+ANTONIA CONCEICAO DA SILVA
+
+107º
+
+000500028457
+
+MARCYLEIDE DE OLIVEIRA GOMES PINHEIRO
+
+110º
+
+000500016085
+
+ELIELSON DA SILVA PEDROSO
+
+118º
+
+000500012726
+
+ANA SABRINA GRASEL
+
+130º
+
+000500031142
+
+GEORGE DAVID FERREIRA BORGES
+
+134º
+
+000500007184
+
+EDINA PEREIRA NEVES
+
+149º
+
+000500029248
+
+MAIELY VIANA PAZ
+
+Cargo: 179 – PROFESSOR DE SÉRIES INICIAIS - SEC.MUN DE EDUCAÇÃO – SANTARÉM/CUIABA
+Classificação
+
+Inscrição
+
+Nome
+
+13º
+
+000500007023
+
+DUCINEIA SILVA CARDOSO
+
+Cargo: 016 – ASSISTENTE ADMINISTRATIVO-SEC.D.ADMIN
+Classificação
+
+Inscrição
+
+Nome
+
+3º
+
+000500011150
+
+ADINAMAR SALEM BARBOSA LIMA
+
+6º
+
+000500000194
+
+CAROLINE DA SILVA DOS ANJOS
+
+Cargo: 017 – AUXILIAR DE SERVIÇOS GERAIS-SEC.MUNICIPAL DE ADMINISTRAÇÃO
+Classificação
+
+Inscrição
+
+Nome
+
+www.diariomunicipal.com.br/famep
+
+360
+
+Pará , 04 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3936
+2º
+
+000500020871
+
+CAMILA DOS SANTOS RIBEIRO
+
+3º
+
+000500014741
+
+ODALEIA DO SOCORRO OLIVEIRA FARIAS
+
+4º
+
+000500014320
+
+ANTONIA ANDREIA SANTANA DE ANDRADE
+
+5º
+
+000500022495
+
+ERICA HELOISE VITORIA PEREIRA HERMINIO COSTA
+
+10º
+
+000500024183
+
+MARA DOS SANTOS SOUSA
+
+Cargo: 022 – TÉCNICO DE INFORMÁTICA -SEC.MUNICIPAL DE ADMINISTRAÇÃO
+Classificação
+
+Inscrição
+
+Nome
+
+1º
+
+000500026719
+
+ALAN NASCIMENTO PEDROSO PEDROSO TAPAJOS MAFRA
+
+2º
+
+000500000345
+
+RAILANDERSON SOUSA DA SILVA
+
+Cargo: 023 – VIGÍA-SEC.MUNICIPAL DE ADMINISTRAÇÃO
+Classificação
+
+Inscrição
+
+Nome
+
+2º
+
+000500005948
+
+RAILANDERSON SOUSA DA SILVA
+
+Cargo: 209 – ASSISTENTE ADMINISTRATIVO-SEC. MUNICIPAL DE GOVERNO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+4º
+
+000500017157
+
+ERICA DE SOUZA SILVA
+
+5º
+
+000500014807
+
+CLEANE DA SILVA SANTOS
+
+Cargo: 210 – AUXILIAR DE SERVIÇOS GERAIS-SEC. MUNICIPAL DE GOVERNO-ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+3º
+
+000500025042
+
+GLEICIANE RODRIGUES DOS SANTOS
+
+4º
+
+000500012623
+
+LEANDRO DE SOUSA DA SILVA
+
+argo: 02 – ASSISTENTE JURÍDICO-PROCUR.GERAL DO MUNÍCIPIO
+Classificação
+
+Inscrição
+
+Nome
+
+3º
+
+000500000398
+
+LUCAS MACEDO MIRANDA DIOGENES
+
+Cargo: 030 – AUX. DE SER. GERAIS-SEC.MUNICIPAL DE CULTURA/TURISMO/ESPORTE/LAZER
+Classificação
+
+Inscrição
+
+Nome
+
+1º
+
+000500019077
+
+MARTA JORGE SANTOS
+
+Cargo: 241 – ANALISTA AMBIENTAL-SEC.MUNICIPAL DO MEIO AMBIENTE -ZONA URBANA
+Classificação
+
+Inscrição
+
+Nome
+
+3º
+
+000500003899
+
+DIEGO DOS SANTOS VIEIRA
+
+Cargo: 010 – TÉCNICO EM AGROPECUÁRIA-SEC.MUNICIPAL DE AGRICULTURA
+Classificação
+
+Inscrição
+
+Nome
+
+1º
+
+000500014341
+
+INACIO CONCEICAO DOS SANTOS
+
+Cargo: 314 – MICROSCOPISTA-SEC.MUN.DE SAÚDE-ZONA RURAL
+Classificação
+
+Inscrição
+
+Nome
+
+2º
+
+000500010712
+
+VANIA CONCEIAO GERVAZIO SENA
+
+4º
+
+000500014916
+
+GIOVANNA SOARES VIEIRA
+
+5º
+
+000500021314
+
+MARCELO FERNANDO DA SILVA
+
+Art. 2º Este Decreto entra em vigor na data da sua publicação.
+GABINETE DO PREFEITO MUNICIPAL DE ITAITUBA, ESTADO DO PARÁ, em 08 de janeiro de 2026.
+NICODEMOS ALVES DE AGUIAR
+Prefeito Municipal
+
+www.diariomunicipal.com.br/famep
+
+361
+
+Pará , 04 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3936
+Registrado na Secretaria Municipal de Administração, publicado no Diário Oficial do Município/Jornal Oficial Eletrônico dos Municípios do Estado
+do Pará (www.diariomunicipal.com.br/famep), na página Oficial da Prefeitura Municipal de Itaituba-PA (www.itaituba.pa.gov.br) e Portal da
+Transparência.
+Publicado por:
+Francildo Nerisson Ferreira Nunes

@@ -1,0 +1,55 @@
+“Altera e acrescenta dispositivos à Lei Complementar nº 199, de 21 de dezembro de 2004, e dá outras providências.”
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso de suas atribuições que lhe confere o inciso IV, do art. 87, da Lei Orgânica do Município de Porto Velho,
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Ficam acrescidos os §§ 12, 13 e 14 ao artigo 147, na Lei Complementar nº 199, de 21 de dezembro de 2004, com as seguintes redações:
+
+
+Art. 2º.
+
+Ficam alterados o § 3º do artigo 147, e os incisos I e II do artigo 153, na Lei Complementar nº 199, de 21 de dezembro de 2004, com as seguintes redações:
+
+
+Art. 4º.
+
+Fica alterado o Anexo II na Lei Complementar nº 199, de 21 de dezembro de 2004, conforme Anexo Único desta Lei Complementar.
+
+
+Art. 5º.
+
+Revogam-se os §§ 1º, 2º e 3º do artigo 153, e o Art. 286, todos da Lei Complementar nº. 199, de 21 de dezembro de 2004, e demais disposições em contrário.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**
+
+**Prefeito**
+
+
+Anexo Único
+
+Altera ANEXO II, da Lei Complementar nº 199, de 21 de dezembro de 2004:
+
+## ANEXO II — TABELA I – FATOR DE SETORIZAÇÃO (Fds) TRSD
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><p><strong>GRUPO</strong></p></td><td><p><strong>SETOR</strong></p></td><td><p><strong>FATOR DE SETORIAZAÇÃO (Fds)</strong></p></td></tr><tr><td><p>Grupo 1</p></td><td><p>01, 02, 03, 04, 08, 09 e 13</p></td><td><p>0,71</p></td></tr><tr><td><p>Grupo 2</p></td><td><p>05, 06, 10, 11, 12 e 24</p></td><td><p>0,66</p></td></tr><tr><td><p>Grupo 3</p></td><td><p>14 e 15</p></td><td><p>0,63</p></td></tr><tr><td><p>Grupo 4</p></td><td><p>07, 16, 17, 18, 21, 25, 28 e 29</p></td><td><p>0,54</p></td></tr><tr><td><p>Grupo 5</p></td><td><p>19, 20, 22, 23, 27, 30, 31, 32, 33, 34, 35, 49, 50 e 51</p></td><td><p>0,45</p></td></tr></tbody></table>
+
+TABELA II – FATOR DE CARACTERIZAÇÃO (Y) TRSD
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><p><strong>SEQ.</strong></p></td><td><p><strong>ÁREA DO IMÓVEL</strong></p></td><td><p><strong>FATOR DE CARACTERIZAÇÃO DO CONTRIBUINTE (Y)</strong></p></td></tr><tr><td><p>I</p></td><td><p>Com até 50m²</p></td><td><p>0,84</p></td></tr><tr><td><p>II</p></td><td><p>Acima de 50m² até 100m²</p></td><td><p>1,28</p></td></tr><tr><td><p>III</p></td><td><p>Acima de 100m² até 150m²</p></td><td><p>1,76</p></td></tr><tr><td><p>IV</p></td><td><p>Acima de 150m² até 200m²</p></td><td><p>3,15</p></td></tr><tr><td><p>V</p></td><td><p>Acima de 200m² até 250m²</p></td><td><p>3,9</p></td></tr><tr><td><p>VI</p></td><td><p>Acima de 250m² até 300m²</p></td><td><p>4,2</p></td></tr><tr><td><p>VII</p></td><td><p>Acima de 300m² até 350m²</p></td><td><p>4,9</p></td></tr><tr><td><p>VIII</p></td><td><p>Acima de 350m² até 400m²</p></td><td><p>5,4</p></td></tr><tr><td><p>IX</p></td><td><p>Acima de 400m² até 500m²</p></td><td><p>5,9</p></td></tr><tr><td><p>X</p></td><td><p>Acima de 500m² até 750m²</p></td><td><p>6,4</p></td></tr><tr><td><p>XI</p></td><td><p>Acima de 750m² até 1.000m²</p></td><td><p>6,9</p></td></tr><tr><td><p>XII</p></td><td><p>Acima de 1.000m²</p></td><td><p>7</p></td></tr></tbody></table>
+
+TABELA III – TIPOLOGIA DO GERADOR
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><p><strong>SEQ.</strong></p></td><td><p><strong>ÁREA</strong></p></td><td><p><strong>ALÍQUOTA</strong></p></td></tr><tr><td><p>I</p></td><td><p>Grandes Geradores (Ksp)</p></td><td><p>3,43</p></td></tr><tr><td><p>II</p></td><td><p>Pequenos Geradores (Ksp)</p></td><td><p>0,45</p></td></tr></tbody></table>

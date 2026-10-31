@@ -1,0 +1,42 @@
+{
+  "host": "sapl.feliznatal.mt.leg.br",
+  "metadados_unicos_observados": 8,
+  "total_api_declarado": 8,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feliznatal.mt.leg.br/fca85e921d2dcaa2123ce012ff62e856c425f518c95ed9e059bb5ece8a05d3ba.json",
+    "url": "https://sapl.feliznatal.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.feliznatal.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f63f0b80fe22888f698debb150f8ec963474457b0ea593d2e79336ddab1b597b",
+    "bytes": 951,
+    "capturado_em": "2026-10-28T10:32:09.423271-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feliznatal.mt.leg.br/92e09a6b6620e5bbcea84909c51cf841d517495027ac7545a0068f15f6aed1fa.json",
+    "url": "https://sapl.feliznatal.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.feliznatal.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3cdd6ecf94133e7d951f8122ada6f5f32397de3127fc9ac48c75fa002ae8dc53",
+    "bytes": 791,
+    "capturado_em": "2026-10-28T10:32:08.495518-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feliznatal.mt.leg.br/310bffc6e6dbf16b42415025c7ab35dc8c3f4ccb01930ba7dcbf2fd9c6863f33.json",
+      "url": "https://sapl.feliznatal.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.feliznatal.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3cf52a782b36ccbf1519545fa611bedd8c97669e58addaa8650372fdf348ed6d",
+      "bytes": 5403,
+      "capturado_em": "2026-10-28T10:32:11.440297-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

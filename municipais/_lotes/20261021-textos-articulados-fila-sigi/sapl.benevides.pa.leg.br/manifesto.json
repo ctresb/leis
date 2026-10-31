@@ -1,0 +1,42 @@
+{
+  "host": "sapl.benevides.pa.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.benevides.pa.leg.br/11891bb828cb7e30e6c525f93089c0433579597b9318096adaf049df6d803831.json",
+    "url": "https://sapl.benevides.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.benevides.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e18b8a4e99f0dcb237a6b8a83b48c42816b19e08ca02d0a3f7fcc155e1ddb1d7",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:19:33.060369-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.benevides.pa.leg.br/b31544841b6223ff7d55b0fb4cb89229c9324b9ceaaf7d9051beb9bedf96d090.json",
+    "url": "https://sapl.benevides.pa.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.benevides.pa.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "12f1c62e344a8f99f62c6f86473afd118f83ebafa58dab8573608228b6c5041a",
+    "bytes": 786,
+    "capturado_em": "2026-10-27T17:19:32.159598-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.benevides.pa.leg.br/448feb417347517fb4f2ffcf6b97a8ec1fbff892aa57c51460c9af51b14f33c3.json",
+      "url": "https://sapl.benevides.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.benevides.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "49a7ea044d264d204eb760499cf998bbd7ed0e9898f50ae4ed18bdda9373bf7e",
+      "bytes": 1343,
+      "capturado_em": "2026-10-27T17:19:35.050702-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

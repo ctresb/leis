@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 662, de 03 de abril de 1965"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "662"
+data: "1965-04-03"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/684"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1086/text"
+sha256_fonte: "b503e8eb75c6e432807ddc5c9f32c669c37987cd3bb5bc12a51c853a6f7e58e4"
+sha256_texto: "5df7383cd37ead4849fb5caa1ad15e4250fd771e8fe79da97da0b2f558394377"
+capturado_em_fonte: "2026-10-27T19:34:06.939873-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 662, de 03 de abril de 1965
+
+DISPÕE SOBRE MAJORAÇÃO DE VENCIMENTOS, SALÁRIOS E PROVENTOS DOS SERVIDORES DO MUNICÍPIO.
+
+
+Eu, **MARIO CRÊM DOS SANTOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Ficam revalorizados de 70% (setenta por cento), os atuais padrões de vencimentos dos funcionários desta Prefeitura, constantes da Tabela instituída pela Lei nº 253, de 12/11/1954 e das leis números 369, 449, 522, 577 e 611, respectivamente de 24/12/1958, 04/11/1960, 28/11/1961, 14/02/1963 e 03/04/1964.
+
+
+Parágrafo único
+
+Serão arredondados para a centena imediatamente superior as unidades e dezenas dos vencimentos ora revalorizados.
+
+
+Art. 2º.
+
+Fica equiparado ao cargo de Escriturário, Padrão G-5, da Tabela instituída pela lei nº 253, de 12 de novembro de 1954, acrescido dos acréscimos autorizados por leis, o cargo de Secretário de Junta de Alistamento Militar local, criado pela Lei nº 371, de 19 de fevereiro de 1959.
+
+
+Art. 3º.
+
+A revalorização dos salários dos extra-numerários será feita na mesma base, observado o disposto no Parágrafo único do Art. 1º.
+
+
+Art. 4º.
+
+A diária máxima dos operários da Municipalidade será de Cr$ 5.000 (cinco mil cruzeiros) e mínima de Cr$ 2.000 (dois mil cruzeiros), correspondente a 8 (oito) horas de serviço.
+
+
+Art. 5º.
+
+As vantagens oriundas desta lei estendem-se aos inativos.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução desta lei correrão por conta de verbas próprias consignadas nos respectivos orçamentos, suplemantados se necessário.
+
+
+Art. 7º.
+
+Os efeitos da presente lei retroagirão a 1º de março de 1965, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos três de abril de mil novecentos e sessenta e cinco.
+
+**MARIO CRÊM DOS SANTOS Prefeito Municipal**
+
+Publicada na Seção do Expediente e do Pessoal da Prefeitura, aos três de abril de mil novecentos e sessenta e cinco, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Assistente Administrativo da Seção de Expediente e do Pessoal da Prefeitura**
+

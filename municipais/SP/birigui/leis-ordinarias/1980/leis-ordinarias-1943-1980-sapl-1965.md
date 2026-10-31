@@ -1,0 +1,129 @@
+---
+titulo: "Lei Ordinária nº 1.943, de 05 de agosto de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1943"
+data: "1980-08-05"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1965"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2770/text"
+sha256_fonte: "4c32e25f66ba79de8f24f0bde2ff1eb8c6fdceafd8e735a7a9e9f714e7c7bbc4"
+sha256_texto: "ecb53322a5c2fa763892738d27f9914d40e4d2957b801e3813d0ff804d4fc3ec"
+capturado_em_fonte: "2026-10-27T18:51:08.645654-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.943, de 05 de agosto de 1980
+
+AUTORIZA EXECUÇÃO DE SERVIÇOS DE PAVIMENTAÇÃO MEDIANTE CONTRATO ENTRE PROPRIETÁRIOS DE IMÓVEIS E FIRMA CONSTRUTORA.
+
+
+Eu, **ODEYR RAMOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a permitir a execução de até 30.000m² (trinta mil metros quadrados) de serviços de pavimentação e obras com eles relacionados, em ruas com planos já aprovados por lei, mediante contrato entre proprietários de imóveis e firma construtora de idoneidade comprovada, vencedora de licitação a ser realizada pela Municipalidade.
+
+
+Parágrafo único
+
+Os proprietários de imóveis por si, ou devidamente representados por seus procuradores, solicitarão à Prefeitura autorização para pavimentar, às suas expensas, e de acordo com o contrato a que se refere este artigo, obrigando-se a Prefeitura a fornecer os elementos técnicos necessários, tais como:
+
+
+a)
+
+seção transversal da via pública;
+
+
+b)
+
+perfil longitudinal;
+
+
+c)
+
+tipo de pavimentação e respectivas especificações;
+
+
+d)
+
+plano da rede e dimensionamento das tubulações para galerias pluviais.
+
+
+Art. 2º.
+
+O Município, por seu representante legal, depois de examinado o plano e preços, e uma vez constatada a sua exequibilidade e satisfeitos os pormenores de sua execução a prazos dentre os quais deverão iniciar-se e completar-se as obras, dará sua aprovação, mediante interveniência no respectivo contrato.
+
+
+§ 1º
+
+A Prefeitura se reserva o direito de fiscalização os serviços, que deverão ser executados dentro das condições técnicas por ela estabelecidas.
+
+
+§ 2º
+
+A firma executante se obriga a fazer caução no calor de 10% (dez por cento) do orçamento dos serviços, em moeda corrente ou títulos de dívida pública, importância essa que só será levantada após 06 (seis) meses à conclusão das obras. Na hipótese da firma construtora abandonar os serviços, perderá o direito de restituição da caução.
+
+
+§ 3º
+
+Obriga-se, também, a firma executante a conservar, às suas expensas, durante o período de 06 (seis) meses, o trecho pavimentado.
+
+
+§ 4º
+
+Além do que se indica no corpo do artigo, poderá o Executivo Municipal exigir outras condições que visem resguardar a garantia dos interesses do Município, para a execução dos serviços.
+
+
+Art. 3º.
+
+Deverão constituir objeto de contrato com execução a cargo dos particulares os serviços correspondentes aos cruzamentos das esquinas.
+
+
+Art. 4º.
+
+Somente será permitida a pavimentação nos termos desta lei, quando os proprietários concordes de sua realização, representarem no mínimo 70% (setenta por cento) do valor dos serviços e se comprometerem a pagar diretamente à empreiteira.
+
+
+Art. 5º.
+
+Na forma do artigo 4º, a área remanescente poderá ser custeada pela Prefeitura, por seus recursos orçamentários, a qual, posteriormente, arrecadará dos proprietários discordes, o custo dos serviços, nas bases do contrato com a firma construtora, acrescido da taxa de administração, multa e demais cominações de direito, além da correção monetária e juros.
+
+
+Art. 6º.
+
+Na hipótese da Prefeitura assumir responsabilidade por interveniência no contrato para posterior lançamento e cobrança da parte remanescente entre a empreiteira e proprietários, pagará à empreiteira, na forma média estabelecida entre esta e os proprietários.
+
+
+Art. 7º.
+
+Incluir-se-á no custo dos serviços, as obras preliminares, tais como: movimento de terra e galerias de águas pluviais, desde que não excedam a 40% (quarenta por cento) do orçamento.
+
+
+Parágrafo único
+
+Verificada a hipótese de exceder de 40% (quarenta por cento) o valor das obras preliminares, o Município responsabilizar-se-á pelo excedente.
+
+
+Art. 8º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos cinco de agosto de mil novecentos e oitenta.
+
+**ODEYR RAMOS Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos cinco de agosto de mil novecentos e oitenta, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

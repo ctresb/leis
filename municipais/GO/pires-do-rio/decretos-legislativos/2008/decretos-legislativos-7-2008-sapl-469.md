@@ -1,0 +1,33 @@
+---
+titulo: "Decreto Legislativo nº 7, de 11 de junho de 2008"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "7"
+data: "2008-06-11"
+municipio: "Pires do Rio"
+uf: "GO"
+codigo_ibge: "5217401"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.piresdorio.go.leg.br/norma/469"
+fonte_texto: "https://sapl.piresdorio.go.leg.br/media/sapl/public/normajuridica/2008/469/decreto_legislativo_007_2008.pdf"
+sha256_fonte: "7140f6fcec974835e03e1aad7bbe6b497f7e80958fb9d54928ac6bc886a31ba2"
+sha256_texto: "32cf57e20d477cd12b93f22c56505e8d93a6caca1f4608b8c3350cd3d165f05b"
+baixado_em: "2026-10-20"
+---
+
+# Decreto Legislativo nº 7, de 11 de junho de 2008
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Recistrade às 178 V Jo livro próprie
+
+ESTADO DE GOIÁS
+
+CÂMARA MUNICIPAL DE PIRES DO RIO CNPJ 03.323.686/0001-40 Av. Maria Guiotti, n° 74, Centro - Edifício Goiaz Cavalcanti Nogueira Pires do Rio - GO CEP - 75.200-000 Cx. Postal 39
+
+DECRETO LEGISLATIVO N° 00+/08, DE 11 DE JUNHO DE 2008 "Aprova a Prestação de Contas - Balancete Financeiro - do Município referente ao mês de JANEIRO de 2003ẠỊỊ A CÂMARA MUNICIPAL DE PIRES DO RIO, ESTADO DE GOIÁS, DECRETA:
+
+**Art. 1°** - Fica APROVADA a Prestação de Contas do Município de Pires do Rio referente o mês de JANEIRO de 2003.
+
+**Art. 2°** - Revogadas as disposições em contrário, este Decreto Legislativo entra em vigor na data de sua publicação. GABINETE DO PRESIDENTE DA CÂMARA MUNICIPAL DE PIRES DO RIO, EM 11 DE JUNHO DE 2008 Vereador KLEIBER RIBEIRO, Vereador PROF. DOMINGOS, Vice-Presidente Presidente Vereador JULIÃO MONTEIRO, Vereador JÚLIO AUTO PEÇAS, 2° Secretário. 1° Secretário PUBLICADO NA SECRETARIA ADMINISTRATIVA DA CAMARA MUNICIPAL DE PIRES DO RIO, EM 11 DE JUNHO DE 2008. Vereador JÚLIO AUTO PEÇAS, 1° Secretário Glau\* "CONHEÇA E DIVULGUE A ARTE E A CULTURA DE GOIÁS" Telefax: (64) 3461-1610, 3461-7729 e 3461-5418 e-mail: cmpr@ prionet.com.br
+

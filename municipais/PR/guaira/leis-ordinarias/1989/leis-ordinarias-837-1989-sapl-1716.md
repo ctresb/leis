@@ -1,0 +1,92 @@
+---
+titulo: "Lei Ordinária nº 837, de 19 de junho de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "837"
+data: "1989-06-19"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1716"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/211/text"
+sha256_fonte: "ba2bfa11bf44cfb13f8c3b5af7405978b880281865f6ae07367d9e9a35cd32e9"
+sha256_texto: "05280ef420888cffefdbf5b76c8d3331b537c3c9b5d7b0fcf46437cefef382e2"
+capturado_em_fonte: "2026-10-28T13:40:46.234443-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 837, de 19 de junho de 1989
+
+Autoriza o Chefe do Executivo Municipal a contratar operação de crédito com o Banco do Estado do Paraná S.A. para execução das obras e serviços integrantes do PRAM - Programa de Ação Municipal.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a presente Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Executivo Municipal autorizado a contratar operação de crédito até o limite de NCZ$240.000,00 (duzentos e quarenta mil cruzados novos) equivalentes a 186.046,51 BTN (Bônus do Tesouro Nacional) a preço de junho de 1989, junto ao Bando do Estado do Paraná S.A. por prazo não superior a dez (10) anos, juros de até 11% ao ano, correção monetária e demais condições a serem fixadas em contratos de operações de crédito, podendo as aludidas operações serem contraídas parceladamente.
+
+
+§ 1º
+
+O montante das operações fixadas neste artigo será reajustado de acordo com a legislação pertinente.
+
+
+§ 2º
+
+Os valores das operações de crédito e respectivos reajustes estão condicionados à capacidade de endividamente do Município, determinado pelas Resoluções nºs 62/75 e 93/76 do Senado Federal e pelas Resoluções nºs 345/75 e 397/76 do Banco Central do Brasil.
+
+
+Art. 2º.
+
+Os recursos advindos das operações de crédito autorizadas por esta lei serão aplicados na execução do PRAM - Programa de Ação Municipal, como contrapartida do Município no programa que prevê investimentos em obras e infraestrutura urbana, e de acordo com as normas operacionais do Banco do Estado do Paraná S.A. e da Secretaria de Estado do Desenvolvimento Urbano e Meio Ambiente.
+
+
+Art. 3º.
+
+Em garantia às operações de crédito, fica o Chefe do Executivo autorizado a ceder ao agente financeiro parcelas do Imposto Sobre Circulação de Mercadorias e Serviços - ICMS ou tributo que o substituir, ao qual, fica vinculada a presente operação de crédito, em montante anuais necessários para amortizar as prestações do principal e dos acessórios, na forma da legislação pertinente.
+
+
+Art. 4º.
+
+Para garantir o pagamento do principal, correção monetária, juros, multas e demais encargos financeiros decorrentes das operações referidas nesta lei, o Chefe do Executivo poderá outorgar ao Banco do Estado do Paraná S.A., com poderes para substabelecer, mandato pleno e irrevogável, para receber e dar quitação no vencimento das referidas obrigações financeiras.
+
+
+Art. 5º.
+
+O prazo e o esquema definitivos de pagamento do principal reajustável, acrescido dos juros e demais encargos incidentes sobre as operações financeiras, obedecidos os limites desta lei, serão estabelecidos pelo Chefe do Executivo com a entidade financiadora.
+
+
+Art. 6º.
+
+Anualmente, a partir do exercício subsequente ao da contratação das operações de crédito, o orçamento do Município consignará dotações próprias para a amortização do principal e dos acessórios das dívidas contratadas.
+
+
+Art. 7º.
+
+Fica, ainda, o Chefe do Executivo autorizado a abrir os créditos adicionais respectivos até o limite do convênio para execução do Programa de Ação Municipal - PRAM, firmado com o Estado do Paraná, para o atendimento das despesas com a sua aplicação.
+
+
+Art. 8º.
+
+Os recursos para abertura dos créditos adicionais, de que trata o artigo anterior, serão os constantes do art. 43, da lei federal nº 4.320/64 e mais os recursos transferidos pelo Estado do Paraná à conta do PRAM - Programa de Ação Municipal.
+
+
+Art. 9º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de Guaíra, em 19 de junho de 1989.
+
+Dr. Mário Barbosa Rodrigues
+
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

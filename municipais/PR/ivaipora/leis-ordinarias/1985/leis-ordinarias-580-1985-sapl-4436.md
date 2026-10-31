@@ -1,0 +1,33 @@
+---
+titulo: "Lei Ordinária nº 580, de 09 de dezembro de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "580"
+data: "1985-12-09"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/4436"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1985/4436/lei_no_580_de_9_de_dezembro_de_1985.pdf"
+sha256_fonte: "b53685ebce7505a03f7447d38150df2c71e7b9b7c9ab910b0034d2fdc5469404"
+sha256_texto: "95ad734cf0c131f4ceb4132ed886c0c6b1d2d8393ee2bc3321a27664fae1cfc9"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 580, de 09 de dezembro de 1985
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+MUNICIPIO DE IVAIPORÃ ESTADO DO PARANÁ
+
+LEI N° 580/8šŚ A CAVARA HUNICIPAL DE IVAIPORÃ, ESTADO DO PA RANA, APROVOU E EU PREFEITO MUNICIPAL, VETO A SEGUINTE
+
+LEI : SUMULA: ALTERA A DENOMINAÇÃO DO PAVILHAO DE EQUINOS, DO PARQUE DE EXPOSI ÇÕES DO MUNICÍPIO DE IVAIPORÃ, E DA OUTRAS PROVIDÊNCIAS.
+
+ART. 1° - FICA ALTERADA A DENOMINAÇÃO DO " PAVILHÃO DE EQUINOS, DO PAR- QUE DE EXPOSIÇÕES DO MUNICÍPIO DE IOVAIPORA, DEiẠỊDR. DORIVAL NO REIRA ", PARA " DACIR POLLER", VETADO.
+
+ART. 2° - O PODER EXECUTIVO DE IVAIPURA, APOS PROMULGAR A PRESENTE LE:. TERA O PRAZO DE 30 ( TRINTA ) DIAS PARA AFIXAR NO LOCAL: PLACA INDICATIVA, COM O NOME DO HOMENAGEADO. VETADO.
+
+ART. 3° - REVOGADAS AS DISPOSIÇÕES EM CONTRÁRIO, A PRESENTE LEI ENTRARA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, PAÇO HUNICIPAL 19 DE NOVERBRO, XXV DA INSTALAÇÃO, GABINETE DO PREFEITO, AOS NOVE DIAS DO MES DE DEZEMBRO DO ANO DE MIL NOVECENTOS E OI TENTA E CINCO. FLAVIO PEREIRA TEIXEIRA PREFEITO NUNICIPAL
+

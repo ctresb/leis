@@ -1,0 +1,42 @@
+{
+  "host": "sapl.aguaboa.mt.leg.br",
+  "metadados_unicos_observados": 54,
+  "total_api_declarado": 54,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/608843d67f5c923534b350240ceb050e422b371044bc7cebd92644eee6232baa.json",
+    "url": "https://sapl.aguaboa.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.aguaboa.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0d85167a15c9be8fb22ddd1830b6d5a48d06a907ce05d58796b25d9c2cb952d9",
+    "bytes": 957,
+    "capturado_em": "2026-10-21T04:59:50.060203-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/ded6ea0de5b8ed0fa4e66073577fd3edc0020ee3c7a0e3da8feb0d7c23c4006c.json",
+    "url": "https://sapl.aguaboa.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.aguaboa.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80de02fad5e0f11a84332755233edea26ca09657d679e801536c9676e352345f",
+    "bytes": 721,
+    "capturado_em": "2026-10-21T04:59:48.769027-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/267aa719f6df06662f34b0d338ca242f32e886eebc0db257d98ea6fa4649c378.json",
+      "url": "https://sapl.aguaboa.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.aguaboa.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "dde7f4521fd878acc391f4c5fa5d9c0e20bf8898563ac4e77f7bee5cde21e2cf",
+      "bytes": 41641,
+      "capturado_em": "2026-10-21T04:59:54.734958-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

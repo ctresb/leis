@@ -1,0 +1,54 @@
+Abre crédito adicional suplementar no valor de R$ 4.350.000,00 (quatro milhões, trezentos e cinquenta mil reais) ao orçamento Programa em vigor, considerando a tendência de excesso de arrecadação do exercício.
+
+
+A CÂMARA MUNICIPAL DE ENGENHEIRO PAULO DE FRONTIN APROVA E EU SANCIONO A SEGUINTE:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir Crédito Adicional suplementar, no valor de R$ 4.350.000,00 (quatro milhões, trezentos e cinquenta mil reais), para reforço das dotações consignadas no orçamento – Programa do Município, como segue:
+
+
+<table><colgroup><col span="6"><col><col span="2"></colgroup><tbody><tr><td><strong>Orgão</strong> </td><td><strong>Un</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Prog.</strong> </td><td><strong>Proj/ Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Fonte</strong> </td><td><strong>Valor R$</strong></td></tr><tr><td>02</td><td>03</td><td>04</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.47.00.00.00.00 </td><td>00</td><td>140.000,00</td></tr><tr><td>02</td><td>03</td><td>04</td><td>122</td><td>2001</td><td>2.203</td><td>3.1.90.11.00.00.00.00 </td><td>00</td><td>1.970.000,00</td></tr><tr><td>02</td><td>05</td><td>12</td><td>361</td><td>2009</td><td>2.211</td><td>3.1.90.34.00.00.00.00 </td><td>00</td><td>270.000,00</td></tr><tr><td>02</td><td>05</td><td>12</td><td>361</td><td>2009</td><td>2.211</td><td>3.1.90.11.00.00.00.00 </td><td>00</td><td>270.000,00</td></tr><tr><td>03</td><td>01</td><td>10</td><td>122</td><td>3001</td><td>2.301</td><td>3.1.90.11.00.00.00.00 </td><td>100</td><td>1.700.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Para suprimento de que trata o artigo anterior, será utilizado o excesso de arrecadação considerando-se ainda a tendência do exercício, na forma do demonstrativo (ANEXO I) que integra o presente, tendo como fundamento o parágrafo 3º, inciso II, do artigo 43 da Lei 4.320 de 17 de março de 1964.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Engenheiro Paulo de Frontin, 08 de outubro de 2021.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal
+
+
+## Anexo I
+
+DEMONSTRATIVO DO CÁLCULO DE TENDENCIA DE EXCESSO DE ARRECADAÇÃO DOS RECURSOS DE TRANSFERENCIAS CONSTITUCIONAIS E RECEITAS DIRETAMENTE ARRECADADAS:
+
+
+**I - Elementos de Cálculo**
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Arrecadação Primeiro Período 2020 - Janeiro a Agosto </td><td>R$ 22.384.526,71</td></tr><tr><td>Arrecadação Segundo Período 2020 – Setembro a Dezembro </td><td>R$ 13.178.824,38</td></tr><tr><td>Arrecadação Primeiro Período 2021 - Janeiro a Agosto </td><td>R$ 26.326.103,45</td></tr><tr><td>Arrecadação Segundo Período 2021 – Setembro a Dezembro (Provável) </td><td>R$ X</td></tr></tbody></table>
+
+
+**II - Fórmulas de Cálculo**
+
+
+Taxa Incremento (TI)= x 100 = 117,60 - 100 = 17,
+
+Arrecadação Provável Segundo Período 2021 = Arrecadação 2º Período 2020 x TI  
+Arrecadação Provável Segundo Período 2021 = R$ 13.178.824,38 + R$ 2.319.473,09 = 15.498.297,47
+
+
+**II - Demonstrativo do Provável Excesso**
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Arrecadação Primeiro Período 2021 ( Janeiro a agosto) </td><td>R$ 26.326.103,45</td></tr><tr><td>Arrecadação Segundo Período 2021 (provável) (setembro a Dezembro) </td><td>R$ 15.498.297,47</td></tr><tr><td>Arrecadação Total 2021 - (Provável) </td><td>R$ 41.824.400,92</td></tr><tr><td>Previsão Orçamentária para 2021 </td><td>R$ 29.641.187,00</td></tr><tr><td>Excesso Provável </td><td>R$ 12.183.213,92</td></tr><tr><td>Excesso Disponível após Decreto nº 109/21 e esta Lei </td><td>R$ 454.647,77</td></tr></tbody></table>

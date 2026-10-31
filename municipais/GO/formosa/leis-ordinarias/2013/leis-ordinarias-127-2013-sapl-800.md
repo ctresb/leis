@@ -1,0 +1,420 @@
+---
+titulo: "Lei Ordinária nº 127, de 23 de dezembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "127"
+data: "2013-12-23"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2015-08-24; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/800"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1539/text"
+sha256_fonte: "cc329af6897facac51c3286b1b5af4e8d0621f66f2abd228bddc175be32ba7ee"
+sha256_texto: "f3c64544d6584adaf3215fbb5f5c69ff83c9a24380dfc34129e56efc3556ff9e"
+capturado_em_fonte: "2026-10-28T11:44:07.147850-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 127, de 23 de dezembro de 2013
+
+Cria o Conselho Municipal da Juventude, altera a nomenclatura da Secretaria de Infância, Juventude e Igualdade Racial para Secretaria Municipal de Juventude e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,
+
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+### TÍTULO I — DOS OBJETIVOS
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a criação do Conselho Municipal da Juventude, entidade de caráter permanente, que tem por finalidade a organização da juventude e das normas gerais para sua adequação e aplicação e altera a nomenclatura da Secretaria Municipal de Infância, Juventude e Igualdade Racial.
+
+
+Art. 2º.
+
+O Conselho Municipal da Juventude têm por objetivo fomentar o desenvolvimento integral dos jovens, a fim de prepará-los para assumir plenamente suas responsabilidades e se incorporarem ao mercado de trabalho e aos processos sociais, como fator de mudança, dentro de princípios de justiça e liberdade.
+
+
+### TÍTULO II — DOS PRINCÍPIOS E DAS DIRETRIZES
+
+
+Art. 3º.
+
+O Conselho Municipal da Juventude rege-se pelos seguintes princípios e diretrizes:
+
+
+I –
+
+assessorar o Governo Municipal na determinação e avaliação das Políticas Públicas em relação à juventude;
+
+
+II –
+
+promover e coordenar programas em favor da juventude que realizem as diversas dependências e organismos da Administração Pública, Autarquias e afins;
+
+
+III –
+
+realizar, sistematizar e difundir estudos sobre juventude e de seus interesses;
+
+
+IV –
+
+estimular a criação de serviços que promovam o desenvolvimento dos jovens e estimulem sua participação nos processos sociais, entre eles, programas de turismo juvenil que favoreçam a identificação e o mútuo conhecimento entre os jovens;
+
+
+V –
+
+propiciar a harmonia dos planos e a coordenação das ações que, em favor dos jovens, se realizem nos organismos públicos e privados, destinados a este fim;
+
+
+VI –
+
+formular e propor as instituições correspondentes, planos e iniciativas tendentes a resolver os problemas dos jovens e realizá-los em suas áreas;
+
+
+VII –
+
+orientar em favor de programas que fomentem o desenvolvimento da juventude e apoiar os que os próprios jovens realizam de acordo com os objetivos propostos;
+
+
+VIII –
+
+criação do Centro de Informação para Juventude, sendo o braço executivo deste conselho, visando abrir canais adequados a um processo de comunicação rápida e útil com os jovens, tendo em vista dar respostas as suas questões nas diversas áreas e apresentar um leque, o mais abrangente possível, das atividades ao seu alcance.
+
+
+### TÍTULO III — DO CONSELHO MUNICIPAL DA JUVENTUDE
+
+
+Art. 4º.
+
+O Conselho Municipal da Juventude é órgão consultivo de caráter permanente e de composição paritária entre o governo e sociedade civil, responsável pela deliberação da Política Municipal da Juventude e controlador das ações na área da juventude.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 267, de 24 de agosto de 2015.
+
+
+Art. 5º.
+
+O Conselho Municipal de Juventude - CMJ será constituído de 14 (catorze) membros titulares, e respectivos suplentes, sendo 07 (sete) membros do Poder Público e 07 (sete) membros da Sociedade Civil, sendo:
+
+
+I –
+
+Poder Público:
+
+
+a)
+
+01 (um) representante da Secretaria Municipal de Juventude;
+
+
+b)
+
+01 (um) representante da Secretaria Municipal de Educação;
+
+
+c)
+
+01 (um) representante da Secretaria Municipal de Esporte e Lazer;
+
+
+d)
+
+01 (um) representante da Secretaria Municipal de Trabalho e Promoção Social;
+
+
+e)
+
+01 (um) representante da Secretaria Municipal de Cultura;
+
+
+f)
+
+01 (um) representante da Secretaria Municipal de Negócios Jurídicos;
+
+
+g)
+
+01 (um) representante da Câmara Municipal de Formosa;
+
+
+II –
+
+Sociedade Civil:
+
+
+a)
+
+01 (um) representante dos portadores de deficiência física;
+
+
+b)
+
+01 (um) representante das instituições de Ensino Médio e Profissionalizante;
+
+
+c)
+
+01 (um) representante de Relações Raciais e Étnicas;
+
+
+d)
+
+01 (um) representante das Associações de Moradores;
+
+
+e)
+
+01 (um) representante dos Movimentos Religiosos;
+
+
+f)
+
+01 (um) representante dos segmentos organizados da sociedade;
+
+
+g)
+
+01 (um) representante de Cultura e Arte.
+
+
+§ 1º
+
+A cada titular do Conselho Municipal da Juventude, corresponderá um suplente.
+
+
+§ 2º
+
+Os membros referidos nos incisos I e II deste artigo, e respectivos suplentes serão indicados pelos órgãos que representam e nomeados pelo Prefeito Municipal.
+
+
+§ 3º
+
+O Conselho Municipal da Juventude contará com uma Secretaria Executiva a qual terá sua estrutura disciplinada em Regimento Interno.
+
+
+§ 4º
+
+O presidente, o vice-presidente e o secretário serão escolhidos entre seus membros efetivos e designados pelo Prefeito Municipal.
+
+
+§ 5º
+
+Os membros do Conselho Municipal da Juventude e seus respectivos suplentes terão mandatos de 02 (dois) anos, sendo permitida a recondução.
+
+
+§ 6º
+
+Os membros do Conselho Municipal da Juventude exercerão seus mandatos gratuitamente. A função de conselheiro será considerada serviço público relevante. Poderá o Município custear as despesas com transporte, estadia e alimentação, mediante apresentação de comprovantes pelo membro do conselho, quando em missão oficial, e esta não será considerada como remuneração.
+
+
+§ 7º
+
+O quadro de pessoal auxiliar e de assessoramento técnico do Conselho será o mesmo da Secretaria Municipal da Juventude.
+
+
+Art. 6º.
+
+Compete ao Conselho Municipal da Juventude:
+
+
+I –
+
+determinar sobre os recursos financeiros do Fundo Municipal da Juventude, destinado ao Conselho Municipal da Juventude, mediante critérios estabelecidos em Regimento Interno;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 267, de 24 de agosto de 2015.
+
+
+II –
+
+requisitar junto as Secretaria Municipal de Juventude, Secretaria Municipal de Educação, Secretaria Municipal de Administração, Secretaria Municipal de Saúde, Secretaria Municipal de Trabalho e Promoção Social, o apoio técnico e assessoramento necessários visando efetivar os princípios e diretrizes do Conselho Municipal da Juventude;
+
+
+III –
+
+prestar serviços assistenciais que visem melhoria da qualidade de vida dos jovens carentes e cujas ações, voltadas para as necessidades básicas, observem os objetivos, princípios e diretrizes estabelecidas na legislação vigente;
+
+
+IV –
+
+decidir sobre o Plano Municipal da Juventude;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 267, de 24 de agosto de 2015.
+
+
+V –
+
+participar do planejamento integrado e orçamentário do Município, formulando as prioridades a serem incluídas no mesmo, no que se refere ou possa afetar as condições de vida da população;
+
+
+VI –
+
+acompanhar e controlar a execução da Política Municipal de Juventude bem como dos programas e projetos aprovados pelo Conselho Municipal da Juventude;
+
+
+VII –
+
+estabelecer, em ação conjunta com a Secretaria Municipal da Juventude, a realização de eventos, estudos e pesquisas integradas no campo da Juventude;
+
+
+VIII –
+
+elaborar e aprovar o seu Regimento Interno;
+
+
+IX –
+
+manter comunicação com os Conselhos da Juventude do Estado de Goiás, da União e de outros municípios, bem como com organismos nacionais e internacionais que atuam na área da juventude, propondo ao Município convênio(s) de mútua cooperação, na forma da Lei;
+
+
+X –
+
+participar de reuniões com conselhos deliberativos existentes no município;
+
+
+XI –
+
+dispor sobre a política da captação e aplicação de recursos do Fundo Municipal da Juventude destinados a este Conselho Municipal da Juventude;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 267, de 24 de agosto de 2015.
+
+
+XII –
+
+manter cadastro de todas as ações, projetos, planos, entidades, relatórios, pesquisa, estudos e outros que tenham relação direta ou indireta, as suas competências e atribuições, referencialmente pela instrumentalização da informática;
+
+
+XIII –
+
+reunir-se ordinariamente e extraordinariamente conforme dispuser o regimento interno.
+
+
+### TÍTULO IV — DA COMPETÊNCIA DO MUNICÍPIO
+
+
+Art. 7º.
+
+Compete ao Município:
+
+
+I –
+
+prestar os serviços assistenciais de caráter eventual que visem a melhoria da qualidade de vida dos jovens carentes e cujas ações, voltadas para as necessidades básicas, observe os objetivos, princípios e diretrizes estabelecidas na Lei do Conselho Municipal da Juventude, respeitada a legislação e limitação orçamentária e financeira;
+
+
+II –
+
+formação de convênios;
+
+
+III –
+
+formação de consórcios.
+
+
+### TÍTULO V — DO ÓRGÃO COORDENADOR E EXECUTOR E DE SUAS COMPETÊNCIAS
+
+
+Art. 8º.
+
+O órgão coordenador e executor de Política Municipal de Juventude é a Secretaria Municipal de Juventude.
+
+
+Parágrafo único.
+
+A Política Municipal de Juventude será executada em sistema descentralizado.
+
+
+Art. 9º.
+
+Compete ao órgão executor da Política da Juventude:
+
+
+I –
+
+oferecer infra-estrutura e pessoal necessário para o funcionalismo do Conselho Municipal de Juventude;
+
+
+II –
+
+estabelecer programa de aperfeiçoamento e atualização dos servidores públicos municipais que estejam diretamente ligados à execução da Política Municipal de Juventude;
+
+
+III –
+
+difundir as políticas sociais básicas e proteção integral;
+
+
+IV –
+
+executar programas de geração de rendas;
+
+
+V –
+
+implantar o Centro de Informação para Juventude.
+
+
+### TÍTULO VI — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+
+Art. 10.
+
+A Secretaria Municipal de Infância, Juventude e Igualdade Racial passa a denominar-se Secretaria Municipal de Juventude.
+
+
+Parágrafo único.
+
+O Titular da Secretaria mencionada no caput deste artigo passa a denominar-se Secretário Municipal de Juventude.
+
+
+Art. 11.
+
+A organização e estrutura do Conselho Municipal da Juventude e seu funcionamento, serão estabelecidos em regimento interno, elaborado pelo Conselho e aprovado por ato do Chefe do Poder Executivo.
+
+
+Art. 12.
+
+O Conselho Municipal terá o prazo de 60 (sessenta) dias para elaborar o seu regimento interno, que disporá sobre seu funcionamento e atribuições de sua estrutura.
+
+
+Art. 13.
+
+O presidente do Conselho Municipal da Juventude solicitará aos órgãos competentes, 30 (trinta) dias antes do término dos mandatos, a indicação dos novos membros.
+
+
+Art. 14.
+
+As despesas decorrentes da presente Lei correrão por conta de dotação própria do orçamento vigente.
+
+
+Art. 15.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 23 de dezembro de 2013.
+
+ITAMAR SEBASTIÃO BARRETO
+
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra.
+
+.................................................................................................
+
+RENATA PENETRA
+
+Superintendente de Legislação e Documentação
+

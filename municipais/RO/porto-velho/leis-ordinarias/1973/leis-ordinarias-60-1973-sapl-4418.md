@@ -1,0 +1,275 @@
+---
+titulo: "Lei nº 60, de 22 de março de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "60"
+data: "1973-03-22"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1973-11-23; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4418"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3371/text"
+sha256_fonte: "69c8727703ed21455cbbb142df29927b37f1da8cc91efb2e9b25250487377113"
+sha256_texto: "f90f416fd116a3e731f2223597f0c2dcb8af9fdacef62a6c4821a9b1b5d94833"
+capturado_em_fonte: "2026-10-27T22:47:25.820573-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 60, de 22 de março de 1973
+
+Disposições mantidas pela Câmara Municipal após veto total do Chefe do Executivo Municipal, e que dispõe sôbre a instituição do Plano de Ação Imediata, estabelece normas para loteamento e dá outras providências.
+
+
+FAÇO saber que a Câmara Municipal de Porto velho, manteve e eu, na qualidade de seu Presidente, promulgo, nos têrmos do artigo 59, § 5º, do Decreto Lei nº 411, de 08 de janeiro de 1969, as disposições vetadas pelo Prefeito Municiál, no que dispõe sôbre a instituição do Plano de Ação Imediata, estabelece normas para loteamento e dá outras providências.
+
+
+#### CAPÍTULO I — Disposições Preliminares
+
+
+Art. 1º.
+
+Fica instituido o Plano de Ação Imediata do Municipio de Porto Velho, cuja execução se processará em obediênca as normas jurídicas estipuladas no Decreto Lei 411/69, com observância nesta Lei e nas Leis de Zoneamento, de Edificações, de Posturas, de Organização Administrativa e do Código Tributário que no seu conjunto formam a legislação básica, reguladora e orientadora do processo de Planejamento do Municipio.
+
+
+Parágrafo único
+
+Em nenhum artigo ou parágrafo, item ou inciso desta Lei, entende-se que a Prefeitura ou outro orgão sob a sua jurisdição, poderá tomar iniciativas ' que resultem em despesas, sem consultar a Câmara.
+
+
+Art. 2º.
+
+Fazem parte integrante desta Lei as diretrizes e medidas contidas nos volumes correspondentes ao Plano Economico, ao Plano Urbanistico Básico e ao Plano Institucional/Orçamento Plurianual de Investimentos do Municipio de Porto Velho.
+
+
+Art. 3º.
+
+O Plano de Ação Imediata abrange todo o Território Municipal, devendo ser fielmente cumprido pelo Governo do Municipio, que, para isso, buscará a colaboração e participação do Governo do Território e entidades, públicas e privadas, atuantes na área, e a comunidade em geral.
+
+
+Art. 4º.
+
+Poderão ser introduzidas modificações nas diretrizes e medidas referidas no Art. 2º, quando necessárias ao aprimoramenro do Plano de Ação Imediata ou decorrentes de estudos e análises devidamente fundamentados, preservados porém os objetivos estratégicos do Plano.
+
+
+Parágrafo único
+
+Em qualquer dos casos previstos no caput deste artigo, as modificações serão fundamentadas ou instruidas pelo Departamento de Planejamento e aprovadas pelo Prefeito, após ouvir a Câmara.
+
+
+Art. 5º.
+
+Anualmente, o Executivo fará incluir no Orçamento Plurianual de Investimento e no Orçamento Anual, as dotações necessárias ao cumprimento do Plano de Ação Imediata bem como alaboração a correspondente programação financeira a ser cumprida no exercicio seguinte.
+
+
+Art. 6º.
+
+Compete a Prefeitura, observando os programas prioritários, dentro de suas possobilidades orçamentárias e cumprindo o diposto no Inciso VII do Art. 54 do De- do Decreto Lei 411/69, dotar as zonas de maior densidade demográfica de equipamentos urbanos, tais como: guias de passeios, pavimentação, arborização, coleta de lixo, praças e jardins, praças de esporte e mercado.
+
+
+Parágrafo único
+
+O custp dos investimentos referidos será recurado no todo ou em parte, pela Prefeitura ' através da cobrança de taxa, especialmente a contribuição de melhoria, e de tarifas, quando couber.
+
+
+Art. 7º.
+
+Com vistas ao controle da expansão da cidade e no interesse de facilitar a circulação de pessoas e bens, em consições de segurança e conforto, as vias públicas ' da área urbana e da expansão, urbana do Municipio passam a integrar a estrutura básica do sistema viário, estabelecida no Plano de Ação Imediata-Plano Urbanistico Básico.
+
+
+Art. 8º.
+
+Nenhuma via pública será aberta ou alterada, nem qualquer obra será permitida sem atendimento à estrutura básica do sistema viário e demais disposições desta ' Lei.
+
+
+Parágrafo único
+
+A Prefeitura não autorizará a execução de obras públicas ou particulares que contrariem essa estrutura básica, mesmo que as cias que a compõem não estejam ainda construidas ou localizadas pelo Departamento de Planejamento, nos termos do artigo 4º e parágrafp único desta lei.
+
+
+Art. 9º.
+
+As áreas necessárias à execução do Plano de Ação Imediata, poderão a partir da vigências desta ' Lei, serem declaradas de utilidade pública.
+
+
+Parágrafo único
+
+Uma vez declarado de utilidade publica, a Prefeitura desapropriará o imóvel, fazendo a indenização pelo valor venal lançado em seu cadastro imobiliario.
+
+
+#### CAPÍTULO II — Dos Loteamentos
+
+
+Art. 10.
+
+A expansão de Porto Velho fica submetido ao controle e orientação da Prefeitura, através do Departamento de Planejamento, sendo de sua exclusiva competência a fiscalização e realização de loteamentos, observando o disposto no artigo anterior.
+
+
+§ 1º
+
+Atendidas as conviniências desta Lei, a Prefeitura poderá, através do Departamento de Planejamento, aprovar loteamentos particulares, individuos ou empresas, desde que sejam observadas as disposições desta Lei.
+
+
+§ 2º
+
+Para realização das atividades referentes a projetos, construção, administração do desenvolvimento urbano e distribuição de lotes, a Prefeitura deverá promover as medidas necessárias à instituição e implantação da EMPRESA MUNICIPAL DE DESENVOLVIMENTO URBANO, previsto nesta lei.
+
+Alteração feita pelo Art. 1º. - Lei nº 78, de 23 de novembro de 1973.
+
+
+Art. 11.
+
+Não será permitido a nenhum individuo ou empresa a subdivisão de áreas de sua posse ou propriedade, para uso urbano, se o interesse público assim o exigir.
+
+
+Art. 12.
+
+Em havebdo, a critérios do Departamento de Planejamento, a necessidade de novas áreas de expansaão ' urbana, deverá a Prefeitura providenciar a disponibilidade das glebas necessárias, se for o caso, com antecedência, a fim de impedir a especulação imobiliária.
+
+
+Parágrafo único
+
+Ds projetos setoriais, incluindo os aspectos de infraestrutura de serviços e equipamentos comunitários e respectiva implantação e construção serão elaborados na ocasião oportuna, de acordo com as especificações ' desta Lei.
+
+
+Art. 13.
+
+Tomadas as medidas especificadoras no artigo anterior, proceder-se-a mediante alienação ou concessão distribuição dos lotes acompanhados dos respectivos títulos de posse ou propriedade, para utilização de acordo com a lei de aoneamento e a lei de edificações, negando-se o direito de novas sub-divisões e desmembramentos futuros, se contrariar o Código de Obras.
+
+
+Art. 14.
+
+O loteamento somente poderá ser' realizado na área suburbana e de expansão urbana prioritária, devendo a Prefeitura na sua realização observar o uso, as dimensões, os recursos e índices urbanísticos determinados na lei de zoneamento.
+
+
+Art. 15.
+
+O loteamento de terrenos inundáveis ou pantonosos deverá ser precedido da execução dos serviços necessários de aterro, drenagem e saneamento.
+
+
+§ 1º
+
+Nos fundos de vales ou talvegues, será observada a reserva de faixa de terreno destinadas a área verdes, a construção de vias publicas ou a outros usos públicos.
+
+
+§ 2º
+
+Ao longo dos cursos d'água, a faixamínima de reserva será de 14 (QUATORZE) metros de cada lado, a contar do leito médio.
+
+
+§ 3º
+
+Ao longo das linhas de transmissão de energia elétrica será reservada faixa de terreno com largura mínima de 15 (QUINZE) metros destinada a vias de conservação.
+
+
+Art. 16.
+
+Nos fundos de lotes cujo desnível da frente ao fundo seja superior a 1 (um) metro, será reservada area para passagem a canalização públicas de esgotos e de águas ' pluviais com largura mínima de 2 (dois) metros.
+
+
+Art. 17.
+
+Nas quadras onde estejam previstas usos residenciais ou comerciais e cujo cumprimento foi maior ou igual a 300 (trezentos) metros, deverão exigir passagens para pedestras de largura mínima de 3 (tres) metros e distantes entre ' sí de 150 (cento e cinquenta) metros no máximo.
+
+
+Art. 18.
+
+Os loteamentos guardarão reserva de no minimo de 35% e no maximo 50% do total da área a ser loteada para sistema viário, equipamentos de educação, saúde, administração e equivalentes, bem como espaços livres de uso público.
+
+
+Art. 19.
+
+As ruas e logradouros deverão obedecer às caracteristicas técnicas estabelecidas nesta lei e em particulae as seguintes:
+
+
+I –
+
+a declividade longitudinal mínima é de 0,5% e a máxima de 4% nas vias principais, 8% nas vias secundárias e 10% nas de trânsito local:
+
+
+II –
+
+nos cruzamentos, os dois alinhamentos, deverão ser concordados por um arco de circulo de raio minimo igual a 9 (nove) metros;
+
+
+III –
+
+o arranjo fisico deverá garantir a continuidade de traçado das vias adjacentes e deverá harmonizar-se com a topografia do terreno.
+
+
+Art. 20.
+
+Na elaboração dos projetos de expansão e projetos setoriais, deverão ser respeitadas pelo Departamento de Planejamento, em especial, as considerações desenvolvidas no capítulo 1.3, 2.1.4, 2.6.3 a 4.2 do Plano de Ação Imediata-Plano Urbanistico Básico.
+
+
+#### CAPÍTULO III — Das Disposições Finais
+
+
+Art. 21.
+
+Observadas as prescrições desta Lei e as condições a serem estabelecidas em contrato, poderá ser cedida em comodato a terceiros parte de bem imóvel de uso comum do povo desde que o comodatário se obrigue a conservar por sua conta o uso da área restante.
+
+
+§ 1º
+
+A escolha do comodatário se fará mediante concorrência, observadas as disposições legais pertinentes e as exigências do edital, fica assegurado o direito dos atuais comodatários desde que cumpram as exigências desta Lei.
+
+
+§ 2º
+
+Do edital de concorrência dar-se-á ampla publicidade, devendo o mesmo ser publicado com antecedência nunca inferior a 30 (trinta) dias para abertura das respectivas propostas do Diário Oficial do Municipio de Porto Velho, no órgão de imprensa local de maior tiragem e em jornais de grande circulação nacional.
+
+
+Art. 22.
+
+Observando o Plano de Ação Imediata Plano Economico e Artigo 1º desta Lei, a Prefeitura Municipal poderá ceder ou doar terrenos para a instalçção de industrias na área própria estabelecidas as cessões ao cumprimento das seguintes exigencias:
+
+
+I –
+
+Inicio da construção dentro do prazo de seis meses, contados da data da escritura respectiva, improrrogavel.
+
+
+II –
+
+Inicio operacional das atividades industriais no prazo mínimo de dez meses, contados do "Habite-se".
+
+
+Parágrafo único
+
+Reverterão aos patrimonio municipal os terrenos objetos de doação ou cessão, inclusive ben-benfeitorias já efetuadas, que não tenham sido utilizados nos prazos estabelecidos nos incisos I e II deste artigo, independentemente de qualquer ação ou interpelação juducial.
+
+
+Art. 23.
+
+De conformidade com o Plano de ação Imediata-Plano Institucional e no sentido de não duplicar esforços, o Governo do Municipio tomará todas as providencias para que sua atuação se processe dentro das funções consideradas de sua competencia prioritária exclusiva.
+
+
+Parágrafo único
+
+São as seguintes as funções consideradas de iniciativa prioritária, porém não exclusiva da Prefeitura: obras públicas e policia urbanistica, ensino técnico-profissional, assistência social, fomento à agropecuária, industrias, comercio e turismo, transportes urbanos, inclusive sinalização do trânsito, limpeza pública, cemitérios, mercados, feiras e matadouros, vigilância noturna e policia administrativa, compreendendo a regulamentação e fiscalização das posturas municipais.
+
+
+Art. 24.
+
+A administração dos recursos humanosm materiais e financeiros, a partir da publicação desta Lei, deverá ser feita com total observância, por parte da Administração Municipal, das disposições do Plano de Ação-Imediata Plano Institucional.
+
+
+Art. 25.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Câmara do Municipio de Porto Velho, 22 de março de 1973.
+
+Cloter Saldanha Mota
+
+Presidente
+
+Paulo Struthos Filho
+
+1º Secretário
+

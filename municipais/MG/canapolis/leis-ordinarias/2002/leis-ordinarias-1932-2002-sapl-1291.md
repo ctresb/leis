@@ -1,0 +1,227 @@
+---
+titulo: "Lei Ordinária-EM nº 1.932, de 26 de dezembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1932"
+data: "2002-12-26"
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.canapolis.mg.leg.br/norma/1291"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2002/1291/lei_1932-2002_reajusta_os_vencimentos_salarios_e_proventos_dos_servdores_publicos_do_municipio_de_canapolis-mg.pdf"
+sha256_fonte: "fea53429b1bf46e454aad701a7af6a0fb1be7d0f99b0f28b7a456da6bd239cf2"
+sha256_texto: "a30835be0d3bb87f79f915221609b8f577b74318d9648a04bab48f7756015015"
+baixado_em: "2026-10-16"
+---
+
+# Lei Ordinária-EM nº 1.932, de 26 de dezembro de 2002
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Lei nạỊẠại1.932/2002. Reajusta os Vencimentos, salários e proventos dos servidores Públicos do Município de Canápolis/MG. A Câmara Municipal de Canápolis, Estado de Minas Gerais, decreta e, eu em seu nome sanciono a seguinte Lei;
+
+**Art. 1°** - Os vencimentos correspondentes aos Símbolos de Vencimentos, Salários e Proventos do Pessoal da Prefeitura Municipal de Canápolis/MG., constantes dos Anexos 1 e Il da Lei N° 1.876, de 30 de outubro de 2001, passam a ser os constantes dos anexos 1 e I1 da Presente Lei. Parágrafo Primeiro - O reajuste autorizado corresponde a 10% (dez por cento), a partir de 1° de janeiro de 2.003, Parágrafo Segundo - o Salário Minimo Oficial do Município, fica fixado em R$ 223,07 ( duzentos e vinte e três reais e sete centavos). Parágrafo Terceiro - Nenhum Servidor Público Municipal, do Quadro de Provimento Efetivo, perceberá vencimento inferior ao Salário Minimo Oficial do Município.
+
+**Art. 2°** - Fica reajustado em 10%(dez por cento), o Salário do Pessoal Inativo da Prefeitura Municipal de Canápolis. Parágrafo Unico - O Salário Família será pago de conformidade com o artigo 99 da Lei 1.902 de 02 de julho de 2002.
+
+Art. 3ồ As despesas com a execução da presente Lei, correrão a conta de Dotação Orçamentária Própria.
+
+Art. 4ồ- Esta Lei entra em vigor no dia 1° de janeiro de 2003.
+
+Art. 5" - Revogam-se as disposições em contrário. Pref. Municipal de Canápolis/MG., 26 de dezembro de 2002. Dr. Ultimo Bitencourt de Freitas
+
+ANEXO 1 CARGOS DE PROVIMENTO EM COMISSÃO SÍMBOLO EM COMISSÃO DENOMINAÇÃO N° DE CARGOS 1 - GRUPO DE DIREÇÃO NIVEL ¡ VALOR
+
+SECRETÁRIO SC-01 2.178,00
+
+PROCURADOR GERAL DO MUNICÍPIO SC- 01 2.178,00
+
+836,66 SC- 01 CONTROLADOR INTERNO
+
+2 - GRUPO DE COORDENAÇÃO AUDITOR FISCAL SC- 02 1.331,00
+
+836,66 SUPERINTENDENTE DE PARTAMENTO SC- 03
+
+SC- 03 DIRETOR ESCOLAR 836,66
+
+SUPERVISOR DE DIVISÃO 492,69 SC- 04
+
+3 - GRUPO DE ASSERORAMENTO ASSESSOR DE COMUNICAÇÃO SC- 04 492,69
+
+ASSESSOR EDUCACIONAL SC- 04 492,69
+
+ASSESSOR ADMINISTRATIVO SC- 04 496,69
+
+ASSESSOR TÉCNICO 364,49 SC- 05
+
+364,49 SC- 05 SECRETÁRIO EXECUTIVO
+
+ASSESSOR 273,58 SC- 06
+
+Dr. Offino Bitencourt de Freitas
+
+TABELA I- CARGOS DA AREA ADMINISTRATIVA DENOMINAÇÃO DOS CARGOS N° DE VAGAS SIMBOLO DE VENCIMENTO CLASSE NİVEL REQUISITO
+
+ADMINIS AUX. DE AUX. ADMINISTRATIVO SV- 11/ SV- 25 1° GRAU DE
+
+AUX. FICALIZAÇÃO SV- 11/ SV - 25
+
+SERVIÇOS ECOLARI- TRATIVO DADE TELEFONISTA SV- 11/ SV - 25ł ADIMINIS-
+
+TRATIVO SV- 11/ SV- 25 DESENHISTA
+
+AGENTE ADIMINISTRATIVO SV- 23/ SV- 37 ADMINIS 2° GRAU DE AGENTE
+
+DE ADIMI- TEC. CONTABILIDADE SV - 23/ SV- 3zął
+
+ECOLARI- TEC. EM COMPUTAÇÃO NISTRA- TRATIVO DADE SV- 23/ SV- 3Zł
+
+SV- 23/ SV - 37 DESENHISTA ÇÃO
+
+FISCAL
+
+SV- 23/ SV - 37 TEC. AGRICOLA SV- 23/ SV - 37
+
+ADMINIS ADVOGADO | SUPERIN- SV- 38/ SV- 52 VI
+
+ENGENHEIRO CIVIL I CURSO SV- 38/ SV - 52 TENDEN- VI
+
+TRATIVO CONTADOR TE ADMI- SV- 38/ SV - 52 VI
+
+TÉC. ADMINISTRATIVO ¡ NISTRA- SV - 38/ SV - 52 SUPERIOR
+
+VI ENG. AGRONOMO SV- 38/ SV - 52ł VI TIVO
+
+ANALISTA DE SISTEMA SV- 38/ SV- 52
+
+VI Dr. Último Bitencourt de Freitas
+
+TABELA II - CARGOS DA ÁREA EDUCACIONAL \_IN° DE VAGAS CLASSE DENOMINAÇÃO DOS CARGOS SÍMBOLO DE VENCIMENTO INVEL REQUISITO
+
+AUX. DE ASSISTENTE DE ALUNOS SV- 08/ SV- 22 AUXILIAR EDUCA-
+
+DE
+
+ELEMENTAR SV- 08/ SV - 22 SERVENTE ESCOLAR CIONAL SV- 11/ SV- 25 REGENTE DE CLASSE ENSINO
+
+AUX. DE CRECHE SV- 11/ SV- 25 AUX. DE SECRETARIA SV- 12/ SV- 26 ASSISTÊN- 1° - GRAU DE
+
+EDUCA- REGENTE DE CLASSE SV - 12/ SV- 26
+
+TE DE EN- CIONAL ESCOLARI- DADE SINO
+
+ADMINISTRADOR CRECHE SV- 23/ SV- 37 ASSISTÊN- EDUCA-
+
+2° GRAU DE SECRETARIO ESCOLAR SV- 23/ SV - 37 TE DE CIONAL ESCOLARI-
+
+SV- 23/ SV- 37
+
+DADE BIBLIOTECARIO EDUCA- III HI PROFESSOR ÇÃO
+
+SV- 23/ SV- 37 ESPECIA- SV- 38/ SV- 52 SUPERVISOR EDUCA-
+
+IV CURSO SUPERIOR SV- 38/ SV - 52 LISTA EM
+
+IV ORIENTADOR CIONAL INSPETOR PSICOLÓGICO IV
+
+EDUCA- SV- 38/ SV- 52 IV EDUCACIONAL PEDAGOGIA ÇÃO Dr. Uffimo Bitencourt de Freitas
+
+TABELA II - CARGOS DA AREA DE SAUDE NÍVEL N° DE VAGAS SIMBOLO DE VENCIMENTO REQUISITO CLASSE DENOMINAÇAO DOS CARGOS
+
+AUXILIAR DE SAÚDE SV- 11/ SV- 25 20 5V-01/SV-25 AUXILIAR ATEND/CONSULTORMED/ ODONTOLOGICO SAÚDE FLEMENTAR | DE
+
+| SV- 11/SV- 25 AUX. DE FISCALIZAÇÃO SANITARIA
+
+¡ SAUDE | SV- 12/ SV- 26 AUX. DE ENFERMAGEM
+
+SAUDE 1° GRAU AGENTE DE ESCOLARI- | SERVIÇO |SV- 12/ SV- 26 AGENTE DE SAUDE\_
+
+DE SAUDE DADE SV- 23/ SV- 37 TÉC. EM HIG, DENTAL 2° GRAU ASSISTENTE 0+ SV- 23/ SV - 37
+
+TEC. EM REABILITAÇÃO OU FISIOTERAPIA SAÚDE DE SV- 23/ SV- 37 TÉC. EM RADIOLOGIA
+
+SERVIÇOS ESCOLA AGENTE DE SAUDE SV- 23/ SV- 37
+
+VIZITADOR SANITARIO SV- 23/ SV- 37 | DE SAÚDE
+
+RIDADE FISIOTERAPEUTA IV SV- 38/ SV- 52
+
+ESPECIA- SV- 38/ SV- 52 ONDOTOLOGO IV
+
+LISTA NA IV SV- 38/ SV- 52
+
+CURSO MEDICO SAUDE paral MED/VETERINARIO SV - 38/ SV- 52
+
+SV- 38/ SV - 52 ÁREA DE PSICOLOGO
+
+IV FARMA/BIOQUIMICO SV- 38/ SV- 52
+
+SUPERIOR ASSITENTE SOCIAL SV- 38/ SV - 52
+
+SV- 38/ SV- 52 FONOAUDIOLOGO
+
+IV ENFERMEIRA PADRÃO SV- 38/ SV - 52
+
+SAUDE Dr. Último Bitencourt de Freitas
+
+TABELA II - CARGOS DA ÁREA DE SAÚDE NÍVEL DENOMINAÇÃO DOS CARGOS N° DE VAGAS SIMBOLO DE VENCIMENTO REQUISITO CLASSE
+
+CONTINUO SV- 01/ SV - 15
+
+SV - 08/ SV- 22 AUX. DE SERVIÇO
+
+SV- 08/ SV- 22
+
+JARDINEIRO
+
+OPERARIO SV- 08/ SV - 22
+
+LAVRADOR AUXILIAR SV- 12/ SV- 26
+
+NIVEL AUX. MECÂNICO
+
+SV- 12/ SV- 26
+
+III SV- 12/ SV- 26
+
+VIGILANTE AUX. LIMP. PÚBLICA SV- 12/ SV- 26 DE
+
+DE SV- 15/ SV- 29
+
+CARPINTEIRO IV ELETRECISTA DE MAQ. E AUTOS IV SV- 15/ SV- 29
+
+ELETRICISTA DE EDIFICAÇÃO IV ESCOLA- SV - 15/ SV- 29
+
+SV- 15/ SV- 29 SOLDADOR IV SERVIÇOS RIDADE
+
+BORRACHEIRO
+
+SV- 15/ SV- 29 IV ENCANADOR IV SV- 15/ SV- 29
+
+GERAIS
+
+TRATORISTA SV- 15/ SV- 29 IV SV- 15/ SV - 29 MOTORISTA IV ELEMEN-
+
+IV PEDREIRO TAR SV- 15/ SV- 29
+
+SV- 15/ SV- 29 MECANICO IV
+
+OPER. MAQUINAS IV SV- 15/ SV- 29
+
+SV - 15/ SV- 29 AGENTE FUNERARIO IV
+
+MOTORISTA VI SV- 18/ SV- 32
+
+MESTRE DE OBRAS SV- 31/ SV- 45
+
+VII VII
+
+SV- 31/ SV- 45 MECANICO PADRÃO Di bemo Freneur de Freiras
+
+TABELA DE VENCIMENTOS
+
+CARGOS CARGOS VALOR EM R$ SIMBOLO DE VENCIMENTO VALOR EM R$ SIMBOLO DE VENCIMENTO 583,91 223,07 SV- 27 SV- 01 SV- 28 223,07 613,06 SV- 02 SV- 29 223,07 643,78 SV - 03
+
+675.93 SV- 04 223,0złł SV - 30 SV- 31 223,07 726,02 SV- ( 223,07 SV - 32 745,26 SV- SV - 33 223,07 782,47 SV-￾ SV - 34 ..... 223,0šź 821,60 SV- 35 242,95 863,09 254,74 872,91 SV - 36 255,64 SV- 37 915,76 SV - 38 297,47 1.048,87 SV- 39 302,94 1.108,85 SV- 40 309,08 1.163,26 1.234,20 325,34 SV- 41 SV- 42 1.274,85 341,40ł 1.338,62 358,44 SV- 43 SV- 44 376,57 1.348,38 395,18 1.489,22 SV- 45 SV - 46 1.549,66 414,95 SV- 47 1.627,13 435,72 445,41 SV- 48 1.708,45 SV - 49 492,69 1.793,88 504,41 1.883,60 SV- 50 SV - 51 529,61 1.977,76 2.076.73 SV- 52 562,10 SV- 26 DF. Ultimo Bitencourt de Freitas
+

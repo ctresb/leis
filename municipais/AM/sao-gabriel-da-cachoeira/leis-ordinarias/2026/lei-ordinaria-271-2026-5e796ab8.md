@@ -1,0 +1,542 @@
+---
+titulo: "LEI Nº 271/2026 DE 11 DE MARÇO DE 2026 - TRATA-SE DA"
+uf: "AM"
+municipio: "SÃO GABRIEL DA CACHOEIRA"
+tipo: "Lei Ordinária"
+numero: "271"
+data: 2026-03-11
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 20/04/2026"
+data_publicacao: 2026-04-20
+codigo_identificador: "5E796AB8"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118842_2026-04-17_5fbe65d868c071993904ff3049320a3b.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 271/2026 DE 11 DE MARÇO DE 2026 - TRATA-SE DA
+
+LEI Nº 271/2026 DE 11 DE MARÇO DE 2026 - TRATA-SE DA
+CRIAÇÃO DOS CARGOS DE AGENTE COMUNITÁRIO DE
+SAÚDE, AGENTE DE COMBATE ÁS ENDEMIAS E
+MICROSCOPISTA
+LEI Nº 271/2026 DE 11 DE MARÇO DE 2026
+Cria e regula, no âmbito do município, nos termos
+dos §§ 4º, 5º e 6º do art. 198 da constituição da
+república federativa do brasil de 1988, da lei federal
+nº 11.350, de 5 de outubro de 2006, e da portaria de
+consolidação nº 6, de 28 de setembro de 2017, do
+ministério da saúde, os cargos de agente comunitário
+de saúde, agente de combate às endemias e de
+microscopista, e dá outras providências.
+A Prefeita de São Gabriel da Cachoeira, Estado do Amazonas, no uso
+das atribuições conferidas pela Lei Orgânica do Município,
+APRESENTA a Câmara de Vereadores o seguinte projeto:
+LEI:
+Art. 1º. São criados no quadro de pessoal do Poder Executivo
+Municipal os cargos de Agente Comunitário de Saúde, Agente de
+Combate às Endemias e Microscopista, subordinados à Secretaria
+Municipal de Saúde.
+§ 1º É essencial e obrigatória a presença de Agentes Comunitários de
+Saúde na Estratégia Saúde da Família, de Agentes de Combate às
+Endemias na estrutura de vigilância epidemiológica e ambiental e de
+Microscopistas nas ações de vigilância e controle das endemias,
+conforme parâmetros estabelecidos pelo Ministério da Saúde.
+§ 2º Os Agentes Comunitários de Saúde, os Agentes de Combate às
+Endemias e os Microscopistas são considerados profissionais de
+saúde, para fins do disposto na alínea “c” do inciso XVI do caput do
+art. 37 da Constituição Federal.
+§ 3º O exercício das atividades de Agente Comunitário de Saúde, de
+Agente de Combate às Endemias e de Microscopista dar-se-á
+exclusivamente no âmbito municipal, no Sistema Único de Saúde –
+SUS, na execução das atividades de responsabilidade do Município e
+com subordinação direta a este.
+§ 4°. O Município:
+I - Observará as regras estabelecidas pelo Ministério da Saúde para as
+atividades de prevenção de doenças, de promoção à saúde, de controle
+e de vigilância a que se referem esta Lei;
+II - Utilizará os parâmetros fixados pelo Ministério da Saúde,
+observadas as diretrizes curriculares nacionais definidas pelo
+Conselho Nacional de Educação, para os cursos previstos no inciso II
+do art. 6ª e I do art. 7º da Lei federal n° 11.350, de 05 de outubro de
+2006;
+III - Definirá as metas dos serviços, as áreas de atuação e as equipes
+de servidores e os critérios que, a partir destas, definam as avaliações
+periódicas para mobilidade na carreira.
+§ 5º Os Agentes Comunitários de Saúde, os Agentes de Combate às
+Endemias e os Microscopistas submetem-se ao Regime Jurídico
+Estatutário, observados o art. 198, § 4º, da Constituição Federal, no
+que tange ao ingresso no serviço público, as peculiaridades da
+presente Lei e as ressalvas ao Estatuto dos Servidores Públicos
+Municipais.
+§ 6º A jornada de trabalho será de 40 (quarenta) horas semanais,
+integralmente dedicada a ações e serviços de promoção da saúde,
+vigilância epidemiológica, diagnóstico e controle de endemias, em
+prol das famílias e comunidades assistidas, segundo as atribuições
+previstas nesta Lei.
+Art. 2°. O Agente Comunitário de Saúde tem como atribuição o
+exercício de atividades de prevenção de doenças e de promoção da
+saúde, a partir dos referenciais da Educação Popular em Saúde,
+mediante ações domiciliares ou comunitárias, individuais ou coletivas,
+desenvolvidas em conformidade com as diretrizes do SUS que
+normatizam a saúde preventiva e a atenção básica em saúde, com
+objetivo de ampliar o acesso da comunidade assistida às ações e aos
+
+serviços de informação, de saúde, de promoção social e de proteção
+da cidadania, sob supervisão do gestor municipal.
+§ 1º Para fins desta Lei, entende-se por Educação Popular em Saúde
+as práticas político-pedagógicas que decorrem das ações voltadas para
+a promoção, a proteção e a recuperação da saúde, estimulando o
+autocuidado, a prevenção de doenças e a promoção da saúde
+individual e coletiva a partir do diálogo sobre a diversidade de saberes
+culturais, sociais e científicos e a valorização dos saberes populares,
+com vistas à ampliação da participação popular no SUS e ao
+fortalecimento do vínculo entre os trabalhadores da saúde e os
+usuários do SUS.
+§ 2º No modelo de atenção em saúde fundamentado na assistência
+multiprofissional em saúde da família, é considerada atividade
+precípua do Agente Comunitário de Saúde, em sua área geográfica de
+atuação, a realização de visitas domiciliares rotineiras, casa a casa,
+para a busca de pessoas com sinais ou sintomas de doenças agudas ou
+crônicas, de agravos ou de eventos de importância para a saúde
+pública e consequente encaminhamento para a unidade de saúde de
+referência
+Art. 3º No modelo de atenção em saúde fundamentado na assistência
+multiprofissional em saúde da família, são consideradas atividades
+típicas do Agente Comunitário de Saúde, em sua área geográfica de
+atuação
+I - A utilização de instrumentos para diagnóstico demográfico e
+sociocultural;
+II - O detalhamento das visitas domiciliares, com coleta e registro de
+dados relativos a suas atribuições, para fim exclusivo de controle e
+planejamento das ações de saúde;
+III - A mobilização da comunidade e o estímulo à participação nas
+políticas públicas voltadas para as áreas de saúde e socioeducacional;
+IV - A realização de visitas domiciliares regulares e periódicas para
+acolhimento e acompanhamento:
+a) da gestante, no pré-natal, no parto e no puerpério;
+b) da lactante, nos seis meses seguintes ao parto;
+c) da criança, verificando seu estado vacinal e a evolução de seu peso
+e de sua altura;
+d) do adolescente, identificando suas necessidades e motivando sua
+participação em ações de educação em saúde, em conformidade com o
+previsto na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança
+e do Adolescente);
+e) da pessoa idosa, desenvolvendo ações de promoção de saúde e de
+prevenção de quedas e acidentes domésticos e motivando sua
+participação em atividades físicas e coletivas;
+f) da pessoa em sofrimento psíquico;
+g) da pessoa com dependência química de álcool, de tabaco ou de
+outras drogas;
+h) da pessoa com sinais ou sintomas de alteração na cavidade bucal;
+i) dos grupos homossexuais e transexuais, desenvolvendo ações de
+educação para promover a saúde e prevenir doenças;
+j) da mulher e do homem, desenvolvendo ações de educação para
+promover a saúde e prevenir doenças;
+V - Realização de visitas domiciliares regulares e periódicas para
+identificação e acompanhamento:
+a) de situações de risco à família;
+b) de grupos de risco com maior vulnerabilidade social, por meio de
+ações de promoção da saúde, de prevenção de doenças e de educação
+em saúde;
+c) do estado vacinal da gestante, da pessoa idosa e da população de
+risco, conforme sua vulnerabilidade e em consonância com o previsto
+no calendário nacional de vacinação;
+VI - O acompanhamento de condicionalidades de programas sociais,
+em parceria com os Centros de Referência de Assistência Social
+(CRAS).
+Art. 4º. No modelo de atenção em saúde fundamentado na assistência
+multiprofissional em saúde da família, desde que o Agente
+Comunitário de Saúde tenha concluído curso técnico e tenha
+disponíveis os equipamentos adequados, são atividades do Agente, em
+sua área geográfica de atuação, assistidas por profissional de saúde de
+nível superior, membro da equipe:
+I - A aferição da pressão arterial, durante a visita domiciliar, em
+caráter excepcional, encaminhando o paciente para a unidade de saúde
+de referência;
+
+www.diariomunicipal.com.br/aam
+
+111
+
+Amazonas , 20 de Abril de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4089
+II - A medição de glicemia capilar, durante a visita domiciliar, em
+caráter excepcional, encaminhando o paciente para a unidade de saúde
+de referência;
+III - a aferição de temperatura axilar, durante a visita domiciliar, em
+caráter excepcional, com o devido encaminhamento do paciente,
+quando necessário, para a unidade de saúde de referência;
+IV - a orientação e o apoio, em domicílio, para a correta administração
+de medicação de paciente em situação de vulnerabilidade;
+V - a verificação antropométrica.
+Art. 5º. No modelo de atenção em saúde fundamentado na assistência
+multiprofissional em saúde da família, são consideradas atividades do
+Agente Comunitário de Saúde compartilhadas com os demais
+membros da equipe, em sua área geográfica de atuação:
+I - A participação no planejamento e no mapeamento institucional,
+social e demográfico;
+II - A consolidação e a análise de dados obtidos nas visitas
+domiciliares;
+III - A realização de ações que possibilitem o conhecimento, pela
+comunidade, de informações obtidas em levantamentos
+socioepidemiológicos realizados pela equipe de saúde;
+IV - A participação na elaboração, na implementação, na avaliação e
+na reprogramação permanente dos planos de ação para o
+enfrentamento de determinantes do processo saúde-doença;
+V - A orientação de indivíduos e de grupos sociais quanto a fluxos,
+rotinas e ações desenvolvidos no âmbito da atenção básica em saúde;
+VI - O planejamento, o desenvolvimento e a avaliação de ações em
+saúde;
+VII - O estímulo à participação da população no planejamento, no
+acompanhamento e na avaliação de ações locais em saúde.
+Art. 6º. O Agente Comunitário de Saúde deverá preencher os
+seguintes requisitos para o exercício da atividade:
+I - Residir na área da comunidade em que atuar, desde a data da
+publicação do edital do processo seletivo público;
+II - Ter concluído, com aproveitamento, curso de formação inicial,
+com carga horária mínima de quarenta horas;
+III - Ter concluído o ensino médio.
+§ 1º Quando não houver candidato inscrito que preencha o requisito
+previsto no inciso III do caput deste artigo, poderá ser admitida a
+nomeação de candidato com ensino fundamental, que deverá
+comprovar a conclusão do ensino médio no prazo máximo de três
+anos.
+§ 2º É vedada a atuação do Agente Comunitário de Saúde fora da área
+geográfica a que se refere o inciso I docaputdeste artigo.
+§ 3º Ao município compete a definição da área geográfica a que se
+refere o inciso I do caput deste artigo, devendo:
+I - Observar os parâmetros estabelecidos pelo Ministério da Saúde;
+II - Considerar a geografia e a demografia da região, com distinção de
+zonas urbanas e rurais;
+III - Flexibilizar o número de famílias e de indivíduos a serem
+acompanhados, de acordo com as condições de acessibilidade local e
+de vulnerabilidade da comunidade assistida.
+§ 4º A área geográfica a que se refere o inciso I do caput deste artigo
+será alterada quando houver risco à integridade física do Agente
+Comunitário de Saúde ou de membro de sua família decorrente de
+ameaça por parte de membro da comunidade onde reside e atua.
+§ 5º Caso o Agente Comunitário de Saúde adquira casa própria fora
+da área geográfica de sua atuação, será excepcionado o disposto no
+inciso I docaputdeste artigo e mantida sua vinculação à mesma equipe
+de saúde da família em que esteja atuando, podendo ser remanejado,
+na forma de regulamento, para equipe atuante na área onde está
+localizada a casa adquirida.
+Art. 7º. O Agente de Combate às Endemias tem como atribuição o
+exercício de atividades de vigilância, prevenção e controle de doenças
+e promoção da saúde, desenvolvidas em conformidade com as
+diretrizes do SUS e sob supervisão do gestor municipal.
+Art. 8º. São consideradas atividades típicas do Agente de Combate às
+Endemias, em sua área geográfica de atuação:
+I - Desenvolvimento de ações educativas e de mobilização da
+comunidade relativas à prevenção e ao controle de doenças e agravos
+à saúde;
+II - Realização de ações de prevenção e controle de doenças e agravos
+à saúde, em interação com o Agente Comunitário de Saúde e a equipe
+de atenção básica;
+
+III - Identificação de casos suspeitos de doenças e agravos à saúde e
+encaminhamento, quando indicado, para a unidade de saúde de
+referência, assim como comunicação do fato à autoridade sanitária
+responsável;
+IV - Divulgação de informações para a comunidade sobre sinais,
+sintomas, riscos e agentes transmissores de doenças e sobre medidas
+de prevenção individuais e coletivas;
+V - Realização de ações de campo para pesquisa entomológica,
+malacológica e coleta de reservatórios de doenças;
+VI - Cadastramento e atualização da base de imóveis para
+planejamento e definição de estratégias de prevenção e controle de
+doenças;
+VII - Execução de ações de prevenção e controle de doenças, com a
+utilização de medidas de controle químico e biológico, manejo
+ambiental e outras ações de manejo integrado de vetores;
+VIII - Execução de ações de campo em projetos que visem a avaliar
+novas metodologias de intervenção para prevenção e controle de
+doenças;
+IX - Registro das informações referentes às atividades executadas, de
+acordo com as normas do SUS;
+X - Identificação e cadastramento de situações que interfiram no curso
+das doenças ou que tenham importância epidemiológica relacionada
+principalmente aos fatores ambientais;
+XI - Mobilização da comunidade para desenvolver medidas simples
+de manejo ambiental e outras formas de intervenção no ambiente para
+o controle de vetores.
+§ 1º É considerada atividade dos Agentes de Combate às Endemias
+assistida por profissional de nível superior e condicionada à estrutura
+de vigilância epidemiológica e ambiental e de atenção básica a
+participação:
+I - No planejamento, execução e avaliação das ações de vacinação
+animal contra zoonoses de relevância para a saúde pública
+normatizadas pelo Ministério da Saúde, bem como na notificação e na
+investigação de eventos adversos temporalmente associados a essas
+vacinações;
+II - Na coleta de animais e no recebimento, no acondicionamento, na
+conservação e no transporte de espécimes ou amostras biológicas de
+animais, para seu encaminhamento aos laboratórios responsáveis pela
+identificação ou diagnóstico de zoonoses de relevância para a saúde
+pública no Município;
+III - Na necropsia de animais com diagnóstico suspeito de zoonoses
+de relevância para a saúde pública, auxiliando na coleta e no
+encaminhamento de amostras laboratoriais, ou por meio de outros
+procedimentos pertinentes;
+IV - Na investigação diagnóstica laboratorial de zoonoses de
+relevância para a saúde pública;
+V - Na realização do planejamento, desenvolvimento e execução de
+ações de controle da população de animais, com vistas ao combate à
+propagação de zoonoses de relevância para a saúde pública, em
+caráter excepcional, e sob supervisão da coordenação da área de
+vigilância em saúde.
+§ 2º O Agente de Combate às Endemias poderá participar, mediante
+treinamento adequado, da execução, da coordenação ou da supervisão
+das ações de vigilância epidemiológica e ambiental.
+Art. 9º. O Agente de Combate às Endemias deverá preencher os
+seguintes requisitos para o exercício da atividade:
+I- Ter concluído, com aproveitamento, curso de formação inicial, com
+carga horária mínima de quarenta horas;
+II - Ter concluído o ensino médio.
+§ 1º Quando não houver candidato inscrito que preencha o requisito
+previsto no inciso II do caput deste artigo, poderá ser admitida a
+nomeação de candidato com ensino fundamental, que deverá
+comprovar a conclusão do ensino médio no prazo máximo de três
+anos.
+§ 2º Ao município compete a definição do número de imóveis a serem
+fiscalizados pelo Agente, observados os parâmetros estabelecidos pelo
+Ministério da Saúde e os seguintes:
+I - Condições adequadas de trabalho;
+II - Geografia e demografia da região, com distinção de zonas urbanas
+e rurais;
+III - Flexibilização do número de imóveis, de acordo com as
+condições de acessibilidade local.
+Art. 10. O cargo de Microscopista, criado nos termos do art. 1º desta
+Lei, integra o quadro permanente da Secretaria Municipal de Saúde,
+
+www.diariomunicipal.com.br/aam
+
+112
+
+Amazonas , 20 de Abril de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4089
+para atuação no Sistema Único de Saúde – SUS, no âmbito da
+Atenção Básica.
+§1º O cargo de Microscopista constitui função estratégica de
+vigilância em saúde, com atuação prioritária no controle da malária e
+outras endemias de relevância epidemiológica, nos termos das normas
+do Ministério da Saúde.
+§2º O Microscopista atuará junto às Equipes de Agentes Comunitários
+de Saúde (eACS), às Equipes de Agentes de Combate às Endemias
+e/ou às Equipes de Saúde da Família (eSF), observadas as diretrizes
+federais.
+§3º A jornada de trabalho será de 40 (quarenta) horas semanais,
+admitida, excepcionalmente, a composição por dois profissionais com
+carga horária mínima de 20 (vinte) horas semanais cada, vedada a
+extrapolação de 40 (quarenta) horas totais, nos termos da
+regulamentação federal.
+Art. 11. São atribuições do Microscopista:
+I – Realizar diagnóstico parasitológico por meio da leitura de lâminas
+coradas, prioritariamente para malária, podendo atuar no diagnóstico
+de doença de Chagas, filariose, leishmaniose tegumentar americana e
+tuberculose, conforme capacitação específica;
+II – Executar coleta, preparo, coloração e leitura de lâminas para
+exames parasitológicos;
+III – Registrar, sistematizar e informar os resultados nos sistemas
+oficiais do Ministério da Saúde;
+IV – Atuar em conjunto com as equipes da Atenção Básica nas ações
+de vigilância epidemiológica e controle da malária;
+V – Desenvolver ações educativas relacionadas à prevenção,
+diagnóstico precoce e controle das endemias;
+VI – Participar de ações de monitoramento, supervisão e controle de
+qualidade laboratorial, conforme diretrizes da Coordenação de
+Endemias e Coordenação da Saúde Ambiental;
+VII – Cumprir as recomendações técnicas constantes do Guia para
+Gestão Local do Controle da Malária – Diagnóstico e Tratamento.
+Parágrafo único. O exercício das atribuições observará as normas
+técnicas expedidas pelo Ministério da Saúde e pela Secretaria
+Estadual de Saúde, no âmbito da gestão municipal do Sistema Único
+de Saúde – SUS.
+Art. 12. O cargo de Microscopista exige:
+I – Aprovação em Processo Seletivo Público de provas ou de provas e
+títulos, observados os princípios do art. 37 da Constituição Federal;
+II – Ensino médio completo;
+III – Conclusão, com aproveitamento, de curso de formação
+específico para microscopista, reconhecido pelo Laboratório Central
+de Saúde Pública (LACEN) ou órgão equivalente;
+IV – Registro no Sistema de Cadastro Nacional de Estabelecimentos
+de Saúde (SCNES), na forma da regulamentação federal vigente.
+Art. 13. O vencimento básico do cargo de Microscopista será
+equivalente ao vencimento inicial dos cargos de Agente Comunitário
+de Saúde e Agente de Combate às Endemias, para jornada de 40
+(quarenta) horas semanais.
+§1º Aplica-se ao Microscopista o mesmo regime jurídico, direitos,
+vantagens, adicionais e critérios de insalubridade previstos para os
+Agentes Comunitários de Saúde e Agentes de Combate às Endemias.
+§2º O Município observará o valor do incentivo financeiro federal
+repassado para custeio do Microscopista, cujo montante corresponde
+ao incentivo destinado a 1 (um) Agente Comunitário de Saúde,
+conforme normas do Ministério da Saúde.
+Art. 14. O provimento e a manutenção do cargo de Microscopista
+ficam condicionados ao recebimento do incentivo financeiro federal
+específico destinado à sua inclusão na Atenção Básica.
+§1º Os recursos financeiros destinados ao custeio do Microscopista
+serão transferidos do Fundo Nacional de Saúde ao Fundo Municipal
+de Saúde, integrando o Piso da Atenção Básica variável.
+§2º Na hipótese de suspensão, bloqueio ou extinção definitiva do
+incentivo financeiro federal:
+I – poderá o Município promover a adequação do quantitativo de
+cargos ao limite de financiamento disponível;
+II – poderá ser proposta a extinção do cargo cuja manutenção se torne
+inviável por ausência de lastro financeiro federal, mediante lei
+específica.
+§3º Na hipótese de cessação definitiva do repasse federal que
+inviabilize a manutenção do cargo, a dispensa do servidor somente
+poderá ocorrer mediante prévia edição de lei específica que promova a
+extinção do respectivo cargo, observados o interesse público, a
+
+motivação administrativa e o devido processo legal, não se
+caracterizando a medida como penalidade disciplinar.
+§4º Persistindo interesse público e disponibilidade orçamentária
+própria, poderá o Município optar pela manutenção do cargo com
+recursos do Tesouro Municipal.
+Art. 15. Aplica-se ao Microscopista, no que couber, o disposto nesta
+Lei relativamente aos Agentes Comunitários de Saúde e aos Agentes
+de Combate às Endemias.
+Art. 16. A entrada no serviço público de Agente Comunitário de
+Saúde, Agente de Combate à Endemias e Microscopista deverá ser
+precedida de Processo Seletivo Público - PSP de provas e títulos, de
+acordo com a natureza e a complexidade de suas atribuições e
+requisitos específicos para o exercício das atividades, que atenda aos
+princípios de legalidade, impessoalidade, moralidade, publicidade e
+eficiência.
+§ 1°. O Processo Seletivo Público terá três fases, a saber:
+I – Prova escrita, de caráter eliminatório e classificatório;
+II – Prova prática, de caráter eliminatório e classificatório, obrigatória
+para o cargo de Microscopista, podendo, para os cargos de Agente
+Comunitário de Saúde e Agente de Combate às Endemias, ser
+substituída por avaliação de títulos, de caráter classificatório;
+III – Curso de formação inicial, de caráter eliminatório e
+classificatório.
+§ 2º. É vedada a contratação temporária ou terceirizada de Agentes
+Comunitários de Saúde, Agentes de Combate às Endemias e
+Microscopistas, salvo na hipótese de combate a surtos endêmicos e/ou
+epidêmicos, aplicadas as especificidades da Lei de Contratação
+Temporária.
+Art. 17. O vencimento inicial das carreiras de Agentes Comunitários
+de Saúde, Agentes de Combate às Endemias e Microscopistas para a
+jornada de 40 (quarenta) horas semanais, não será inferior ao piso
+salarial profissional nacional, estabelecido pela União, na forma da
+Lei 11.350/06, observadas ainda, as atualizações fixadas pela
+legislação federal vigente.
+§ 1º.O exercício de trabalho de forma habitual e permanente em
+condições insalubres, acima dos limites de tolerância estabelecidos
+pelo órgão competente do Poder Executivo federal, assegura aos
+agentes de que trata esta Lei a percepção de adicional de
+insalubridade.
+§ 2º. O Município considerará, no custeio da folha de pagamento
+desses cargos específicos, a assistência financeira complementar da
+União para o cumprimento do piso salarial a que se refere este artigo,
+ajustando o pessoal envolvido no desenvolvimento das atividades
+reguladas na presente Lei e cumprindo as determinações federais
+quanto à natureza dos vínculos funcionais dos servidores,
+regularmente mantidos e formalizados, bem como quanto às
+informações mínimas para a concessão da referida assistência.
+§ 3º. Essa assistência financeira será implementada por meio de
+repasse do Fundo Nacional de Saúde ao Fundo Municipal de Saúde.
+As parcelas repassadas como incentivo financeiro federal, quando
+utilizadas no pagamento de pessoal regulado na presente Lei, serão
+computadas como gasto de pessoal do Município.
+Art. 18. O plano de carreira dos Agentes Comunitários de Saúde,
+Agente de Combate às Endemias e Microscopistas deverá obedecer às
+seguintes diretrizes:
+I - Remuneração paritária dos Agente Comunitário de Saúde e Agente
+de Combate às Endemias;
+II - Definição de metas dos serviços e das equipes;
+III - Estabelecimento de critérios de progressão e promoção;
+IV - Adoção de modelos e instrumentos de avaliação que atendam à
+natureza das atividades, assegurados os seguintes princípios:
+a) transparência do processo de avaliação, assegurando-se ao avaliado
+o conhecimento sobre todas as etapas do processo e sobre o seu
+resultado final;
+b) periodicidade da avaliação;
+c) contribuição do servidor para a consecução dos objetivos do
+serviço;
+d) adequação aos conteúdos ocupacionais e às condições reais de
+trabalho, de forma que eventuais condições precárias ou adversas de
+trabalho não prejudiquem a avaliação;
+e) direito de recurso às instâncias hierárquicas superiores.
+Art. 19. A administração pública poderá exonerar o Agente
+Comunitário de Saúde, Agente de Combate às Endemias ou
+Microscopista na ocorrência de uma das seguintes hipóteses:
+
+www.diariomunicipal.com.br/aam
+
+113
+
+Amazonas , 20 de Abril de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4089
+I - Prática de falta punida com demissão, na forma da Lei Municipal
+nº159 de 10 de dezembro de 2021;
+II-Acumulação ilegal de cargos, empregos ou funções públicas;
+III - Necessidade de redução de quadro de pessoal, por excesso de
+despesa;
+IV - Insuficiência de desempenho, apurada em procedimento no qual
+se assegurem pelo menos um recurso hierárquico dotado de efeito
+suspensivo, que será apreciado em trinta dias, e o prévio
+conhecimento dos padrões mínimos exigidos para a continuidade da
+permanência no serviço público, obrigatoriamente estabelecidos de
+acordo com as peculiaridades das atividades exercidas.
+Parágrafo único. No caso específico do Agente Comunitário de Saúde,
+também poderá ocorrer exoneração na hipótese de não-atendimento ao
+disposto no Art. 6º, inciso I, ou em função de apresentação de
+declaração falsa de residência.
+Art. 20. Os profissionais que, na data de publicação desta Lei,
+exerçam atividades próprias de Agente Comunitário de Saúde, Agente
+de Combate às Endemias e Microscopistas, vinculados diretamente ao
+Município, mas não investidos em cargo ou emprego público oriundo
+de Processo Seletivo Público, poderão permanecer no exercício destas
+atividades, até que seja concluída a realização do referido Processo
+Seletivo Público.
+Parágrafo único: Fica dispensada a exigência do requisito previsto no
+inciso III do art. 6º, inciso II do art. 9º e inciso II do art. 12, aos
+profissionais que, na data da publicação desta Lei, já estejam no
+efetivo exercício das funções de Agente Comunitário de Saúde –
+ACS, Agente de Combate às Endemias – ACE e Microscopista
+permitindo-se sua participação em processo seletivo público, mediante
+comprovação do vínculo e do exercício das atividades.
+Art. 21. O Município fica autorizado a participar de convênios que
+venham a ser ofertados pela União ou pelo Estado do Amazonas para
+compartilhar, por disposição funcional servidores ocupantes dos
+cargos de Agente Comunitário de Saúde e Agente de Combate às
+Endemias.
+Parágrafo único: De igual modo, fica o Município autorizado a
+realizar a gestão associada de serviços públicos, mediante contrato de
+Consórcio Público a ser firmado com a União Federal, com o Estado
+do Amazonas ou com os Municípios limítrofes, para a realização de
+atividades voltadas ao proposito desta lei.
+Art. 22. Esta Lei entra em vigor na data de sua publicação, revogadas
+as disposições em contrário.
+
+São Gabriel da Cachoeira/AM, 11 de março de 2026.
+Excelentíssimo Senhor Presidente,
+Nobres Vereadores e Vereadoras,
+Encaminho à elevada consideração dessa Colenda Câmara Municipal
+o Projeto de Lei nº 001/2026, que Dispõe sobre a criação e
+regulamentação dos cargos de agente de endemias, agente de saúde e
+microscopista e outras providências.
+Diante
+dessas
+justificativas,
+considerando
+a
+legalidade,
+constitucionalidade e o interesse público da matéria, estou enviando o
+presente Projeto de Lei a esta Casa Legislativa para apreciação dos
+nobres vereadores, solicitando-lhes a aprovação.
+Informamos ainda que nos colocamos a disposição desta Colenda
+Casa Legislativa para dirimir eventuais dúvidas em relação ao projeto
+ora encaminhado.
+Certos da compreensão de todos, pedimos a tramitação em regime de
+URGÊNCIA em consonância como Regime Interno desta Casa
+Legislativa.
+Sendo estas as justificativas que anexamos ao presente Projeto de Lei,
+solicitamos que esta Casa Legislativa.
+Atenciosamente,
+ELIANE FARIAS FALCÃO
+Prefeita Municipal de São Gabriel da Cachoeira/AM
+Publicado por:
+Barbara Auristela da Silva Ferreira

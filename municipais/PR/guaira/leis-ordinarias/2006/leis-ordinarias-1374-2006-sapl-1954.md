@@ -1,0 +1,2148 @@
+---
+titulo: "Lei Ordinária nº 1.374, de 08 de fevereiro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1374"
+data: "2006-02-08"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2025-09-03; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1954"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/482/text"
+sha256_fonte: "9198670e30fea0fdc6191ad8d1d2780be16fc021d4e008fcb4292a6381dc8953"
+sha256_texto: "b0381f6d918c6535e526520185f9088d3a32ddc6adc952e81216998771515f56"
+capturado_em_fonte: "2026-10-28T13:25:44.538737-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.374, de 08 de fevereiro de 2006
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+Art. 68.
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+
+
+(Revogado)
+
+Revogado pelo Art. 16. - Lei Ordinária nº 2.426, de 03 de setembro de 2025.
+

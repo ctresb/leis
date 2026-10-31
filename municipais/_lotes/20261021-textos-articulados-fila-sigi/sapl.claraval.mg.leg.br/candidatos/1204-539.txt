@@ -1,0 +1,29 @@
+"DISPÕE SOBRE A ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR AS RUBRICAS QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS."
+
+
+LUIZ GONZAGA CINTRA, Prefeito Municipal de Claraval, Estado de Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por lei, FAZ SABER que a Câmara Municipal APROVOU e ele, em seu nome SANCIONA e PROMULGA a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo devidamente autorizado a abrir Crédito Adicional Suplementar no orçamento vigente, no valor de R$339.500,00 (trezentos e trinta e nove mil e quinhentos reais), destinado a acobertar despesas com as seguintes dotações:
+
+
+<table><tbody><tr><td><p><strong>DOTAÇÃO/RUBRICA</strong></p></td><td><p><strong>VALOR EM R$</strong></p></td></tr><tr><td><p><strong>02 02 01 - ADMINISTRAÇÃO GERAL</strong></p><p>04 122 0401 2.005 - MANUTENÇÃO DAS ATIVIDADES DA ADMINISTRAÇÃO</p><p>319030 - Material de Consumo</p><p>28 843 0000 0.004 - OBRIGAÇÕES DA DÍVIDA PÚBLICA</p><p>469071 - Principal da dívida contratual resgatado</p></td><td><p> </p><p> </p><p> <strong>5.000,00</strong></p><p> </p><p><strong>25.000,00</strong></p></td></tr><tr><td><p><strong>02 02 04 - TRIBUTAÇÃO</strong></p><p>04 123 0402 2.007 - MANUTENÇÃO DAS ATIVIDADES DE TRIBUTAÇÃO</p><p>319011 - Vencimentos e vantagens fixas do pessoal civil</p></td><td><p> </p><p> </p><p>  <strong>3.000,00</strong></p></td></tr><tr><td><p><strong>02 03 04 - ENSINO FUNDAMENTAL - RECURSOS PRÓPRIOS</strong></p><p>12 361 1201 2.061 - MANUTENÇÃO DO TRANSPORTE ESCOLAR  - RECURSOS PRÓPRIOS</p><p>339036 - Outros serviços de terceiros - Pessoa Física</p></td><td><p> </p><p> </p><p><strong>45.000,00</strong></p></td></tr><tr><td><p><strong>02 03 02 - ENSINO FUNDAMENTAL - FUNDEF</strong></p><p>12 361 1202 2.042 - REMUNERAÇÃO DE DOCENTES DO MAGISTÉRIO - FUNDEF</p><p>319013 - Obrigações Patronais</p></td><td><p> </p><p> </p><p>  <strong>5.000,00</strong></p></td></tr><tr><td><p><strong>02 03 05 - ENSINO GERAL</strong></p><p>12 361 1201 2.063 - MANUTENÇÃO DO PROGRAMA DINHEIRO DIRETO NA ESCOLA - PDDE</p><p>339030-Material de Consumo</p><p>12 361 1201 2.041-MANUTENÇÃO DOS RECURSOS – QESE</p><p> 339030-Material de Consumo</p></td><td><p> </p><p>  </p><p><strong>3.000,00</strong></p><p> </p><p><strong>25.000,00</strong></p></td></tr><tr><td><p><strong>02 03 06 - ESPORTE E LAZER</strong></p><p>27 122 2701 2.055 - MANUTENÇÃO DAS ATIVIDADES DO ESPORTE E LAZER</p><p>339039 - Outros serviços de terceiros - Pessoa Jurídica</p></td><td><p> </p><p> </p><p>  <strong>1.000,00</strong></p></td></tr><tr><td><p><strong>02 03 07 - CULTURA</strong></p><p>13 392 1301 2.050 - MANUTENÇÃO DAS ATIVIDADES CULTURAIS</p><p>339031 - Premiações Culturais, Artísticas, Científicas e Desportivas e/ou</p></td><td><p> </p><p> </p><p>  <strong>2.000,00</strong></p></td></tr><tr><td><p><strong>02 04 01 - SAUDE</strong></p><p>10 301 1001 2.025 - MANUTENÇÃO DO PROGRAMA SAÚDE DA FAMÍLIA - PSF</p><p>319004 - Contratação por tempo determinado</p><p>10 301 1001 2.066 - MANUTENÇÃO DO PROGRAMA DE ATENÇÃO BÁSICA - PAB</p><p>319004 - Contratação por tempo determinado</p><p>319011 - Vencimentos e Vantagens Fixas - Pessoal Civil</p><p>10 301 1002 2.030 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE - SUS</p><p>339030 - Material de Consumo</p><p>10 302 1002 2.032 - MANUTENÇÃO DAS ATIVIDADES DA SAÚDE - RECURSOS PRÓPRIOS</p><p>339030 - Material de Consumo</p></td><td><p> </p><p> </p><p> <strong>15.000,00</strong></p><p> </p><p> <strong>1.000,00</strong></p><p>  <strong>3.000,00</strong></p><p> </p><p> <strong>30.000,00</strong></p><p> </p><p><strong>50.000,00</strong></p></td></tr><tr><td><p><strong>02 04 02 - ASSISTÊNCIA SOCIAL</strong></p><p>08 244 0801 2.022 - ATENDIMENTO A POPULAR CARENTE - DISTRIBUIÇÃO DE CESTA BÁSICA</p><p>339032 - Material de Distribuição Gratuita</p><p>08 244 0801 2.023 - MANUTENÇÃO DO CONSELHO TUTELAR DA CRIANÇA E ADOLESCENTE</p><p>319004 - Contratação por tempo determinado</p><p>08 244 0801 2.024 - MANUTENÇÃO DO CONSELHO TUTELAR DA</p><p>CRIANÇA E DO ADOLESCENTE</p><p>339030 - Material de Consumo</p></td><td><p> </p><p> </p><p>  <strong>500,00</strong></p><p> </p><p> <strong>3.000,00</strong></p><p> </p><p> </p><p>  <strong>2.000,00</strong></p></td></tr><tr><td><p><strong>02 05 01 - SERVIÇOS URBANOS</strong></p><p>15 452 0401 2.053 - MANUTENÇÃO DO SETOR DE OBRAS E SERVIÇOS URBANOS</p><p>339030 - Material de Consumo</p><p>339039 - Outros serviços de terceiros - Pessoa Jurídica</p><p>25 752 1501 1.014 - EXTENSÃO DE REDE ELÉTRICA URBANA</p><p>449051 - Obras e instalações</p></td><td><p> </p><p> </p><p> <strong>2.000,00</strong></p><p><strong>25.000,00</strong></p><p> </p><p>  <strong>4.000,00</strong></p></td></tr><tr><td><p><strong>02 05 02 - SERVIÇOS DE ESTRADAS E RODAGENS</strong></p><p>04 606 0410 1.016 - CONSERVAÇÃO E AMPLIAÇÃO DE PONTES E MATA - BURROS</p><p>449051 - Obras e Instalações</p><p>04 606 0410 2.012 - MANUTENÇÃO DO SETOR DE ESTRADAS E RODAGENS</p><p>339030 - Material de Consumo</p></td><td><p> </p><p> </p><p> <strong>30.000,00</strong></p><p> </p><p><strong>60.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Como recursos às dotações constantes do Artigo 1° poderão ser utilizados os decorrentes da anulação parcial ou total de dotações constantes do presente orçamento que não forem utilizadas e/ou tendência do excesso de arrecadação, nos termos do Artigo 43, da Lei nº 4.320/64, parágrafo 1º, incisos II e III e parágrafo 3º.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as eventuais disposições em contrário.
+
+
+Prefeitura Municipal de Claraval, em 23 de agosto de 2005.
+
+LUIZ GONZAGA CINTRA LAÉRCIO DO CARMO GIGLIO
+
+Prefeito Municipal Chefe de Gabinete

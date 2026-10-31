@@ -1,0 +1,42 @@
+{
+  "host": "sapl.feliciodossantos.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feliciodossantos.mg.leg.br/d4929b0531b807e92d9efde6a0b348cc8a00e1cefaa91c4644e11711ee9818d1.json",
+    "url": "https://sapl.feliciodossantos.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.feliciodossantos.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f03f5b623c2836ad77cc7788298f3d6132cc90b1e10a392acca56dddb267a13c",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:32:06.218810-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feliciodossantos.mg.leg.br/4656e916500f8400ed0b8b7876156f4fa6a429695b6bdc13ef9b5ffa00a921a8.json",
+    "url": "https://sapl.feliciodossantos.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.feliciodossantos.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "aa6df206e737ca7c2cad45fb7a4f9264658fe9ac8cb35cd54d981056166ceefc",
+    "bytes": 831,
+    "capturado_em": "2026-10-28T10:32:05.153506-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feliciodossantos.mg.leg.br/271926fc8bbbbbc22fff97cd26798d573206f2695762f570b2bfb3a5454d41f2.json",
+      "url": "https://sapl.feliciodossantos.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.feliciodossantos.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T10:32:08.207927-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

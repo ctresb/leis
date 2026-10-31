@@ -1,0 +1,1282 @@
+Regulamenta o Imposto Sobre Serviços de Qualquer Natureza - ISSQN incidente sobre a prestação de serviços de Cooperativas Médicas e correlatos, Operadoras de Arrendamento Mercantil (Leasing) e correlatos e Administradoras de Cartão de Crédito ou Débito е Congêneres e correlatos; dispõe sobre a prestação de informações contidas nas declarações e relações correspondentes, a cominação de penalidades, o sigilo fiscal e as competências das autoridades e agentes fiscais tributários e dá outras providências.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, por seus representantes, aprova, е o Prefeito Municipal, sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I
+
+DO OBJETO, ÂMBITO DE APLICAÇÃO NORMATIVA E DO ASPECTO ESPACIAL DOS SERVIÇOS DE COOPERATIVA MÉDICA, OPERADORAS DE ARRENDAMENTO MERCANTIL (LEASING) E ADMINISTRADORAS DE CARTÃO DE CRÉDITO OU DÉBITO E CONGÊNERES
+
+
+Art. 1º.
+
+Esta Lei regulamenta o Imposto Sobre Serviços de Qualquer Natureza - ISSQN incidente sobre a prestação de serviços de Cooperativas Médicas e correlatos, Operadoras de Arrendamento Mercantil (Leasing) e correlatos e Administradoras de Cartão de Crédito ou Débito e Congêneres e correlatos, sendo que o serviço considera-se prestado e o ISSQN devido no local do domicílio do tomador dos serviços enquadrados nos subitens 4.23, 10.04, 15.01 e 15.09 e em outros itens e subitens especiais, específicos ou gerais da lista de serviços constantes do Anexo Único da Lei Complementar Municipal n.° 06 de 29 de dezembro de 2003 com as alterações posteriores da Lei Complementar 059 de 02 de outubro de 2009. Esta Lei dispõe, também, sobre a prestação de informações contidas nas declarações e relações correspondentes, a cominação de penalidades, o sigilo fiscal e as competências das autoridades e agentes fiscais tributários e dá outras providências.
+
+
+#### CAPÍTULO II — DAS DECLARAÇÕES ELETRÔNICAS DE SERVIÇOS PRESTADOS E TOMADOS PELAS COOPERATIVAS MÉDICAS, OPERADORAS DE ARRENDAMENTO MERCANTIL (LEASING) E ADMINISTRADORAS DE CARTÃO DE CRÉDITO OU DÉBITO E CONGÊNERES
+
+
+##### Seção I — Disposições Preliminares
+
+
+Art. 2º.
+
+Ficam instituídas:
+
+
+I –
+
+a Declaração Eletrônica de Serviços Prestados e Tomados pelas Cooperativas Médicas, identificada pela sigla Decrom;
+
+
+II –
+
+a Declaração Eletrônica de Serviços Prestados e Tomados pelas Operadoras de Arrendamento Mercantil (Leasing), identificada pela sigla Decrol; e
+
+
+III –
+
+a Declaração Eletrônica de Serviços Prestados e Tomados pelas Administradoras de Cartão de Crédito ou Débito e Congêneres, identificada pela sigla Decred.
+
+
+##### Seção II — Da Declaração Eletrônica de Serviços Prestados e Tomados pelas Cooperativas Médicas - Decrom
+
+
+Art. 3º.
+
+A Decrom:
+
+
+I –
+
+é de uso obrigatório para as cooperativas médicas (cooperativa singular e cooperativa central ou federação de cooperativa, com ou sem associados (cooperados) Individuais, e confederação de cooperativa);
+
+
+II –
+
+deverá conter, de forma individualizada, prestador por prestador e tomador por tomador:
+
+
+a)
+
+no Quadro "Serviços Prestados":
+
+
+1
+
+o Campo "Identificação do Tomador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Emitido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Prestado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+b)
+
+no Quadro "Serviços Tomados":
+
+
+1
+
+o Campo "Identificação do Prestador de Serviço (Nome ou Razão Social, Endereço е CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Recebido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Tomado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+III –
+
+será preenchida e enviada até o último dia útil do mês subsequente ao mês da ocorrência dos serviços prestados, tomados e retidos; e
+
+
+IV –
+
+terá o seu modelo instituído por meio de ato administrativo expedido pelo Prefeito ou delegado ao Secretário Municipal da Fazenda.
+
+
+##### Seção III — Da Declaração Eletrônica de Serviços Prestados e Tomados pelas Operadoras de Arrendamento Mercantil (Leasing)
+
+
+Art. 4º.
+
+A Decrol:
+
+
+I –
+
+é de uso obrigatório para as operadoras de arrendamento mercantil (leasing), ou seja, os bancos múltiplos com carteira de arrendamento mercantil (leasing) e as sociedades de arrendamento mercantil (leasing);
+
+
+II –
+
+deverá conter, de forma individualizada, prestador por prestador e tomador por tomador:
+
+
+a)
+
+no Quadro "Serviços Prestados":
+
+
+1
+
+o Campo "Identificação do Tomador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Emitido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Prestado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+b)
+
+no Quadro "Serviços Tomados":
+
+
+1
+
+o Campo "Identificação do Prestador de Serviço (Nome ou Razão Social, Endereço е CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Recebido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Tomado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+III –
+
+será preenchida e enviada até o último dia útil do mês subsequente ao mês da ocorrência dos serviços prestados, tomados e retidos; e
+
+
+IV –
+
+terá o seu modelo instituído por meio de ato administrativo expedido pelo Prefeito ou delegado ao Secretário Municipal da Fazenda.
+
+
+##### Seção IV — Da Declaração Eletrônica de Serviços Prestados e Tomados pelas Administradoras de Cartão de Crédito ou Débito e Congêneres Operadoras de Arrendamento Mercantil (Leasing)
+
+
+Art. 5º.
+
+A Declaração Eletrônica de Serviços Prestados e Tomados pelas Administradoras de Cartão de Crédito ou Débito e Congêneres:
+
+
+I –
+
+é de uso obrigatório para as administradoras de cartões de crédito ou débito e congêneres, ou seja, as pessoas jurídicas emissoras de cartões de crédito ou débito e congêneres (os titulares das bandeiras de cartões de crédito e as instituições financeiras) e as pessoas jurídicas responsáveis pela captura e transmissão das transações dos cartões de crédito ou débito e congêneres (os titulares das máquinas leitoras dos cartões/point off sales/"maquininhas" ou congêneres);
+
+
+II –
+
+deverá conter, de forma individualizada, prestador por prestador e tomador por tomador:
+
+
+a)
+
+no Quadro "Serviços Prestados":
+
+
+1
+
+o Campo "Identificação do Tomador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Emitido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Prestado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+b)
+
+no Quadro "Serviços Tomados":
+
+
+1
+
+o Campo "Identificação do Prestador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Recebido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Tomado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio";
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+III –
+
+será preenchida e enviada até o último dia útil do mês subsequente ao mês da ocorrência dos serviços prestados, tomados e retidos; e
+
+
+IV –
+
+terá o seu modelo instituído por meio de ato administrativo expedido pelo Prefeito ou delegado ao Secretário Municipal da Fazenda.
+
+
+#### CAPÍTULO III — DAS DECLARAÇÕES ELETRÔNICAS DE SERVIÇOS PRESTADOS E TOMADOS PELAS COOPERATIVAS MÉDICAS, OPERADORAS DE ARRENDAMENTO MERCANTIL (LEASING) E ADMINISTRADORAS DE CARTÃO DE CRÉDITO OU DÉBITO E CONGÊNERES
+
+
+##### Seção I — Disposições Preliminares
+
+
+Art. 6º.
+
+Ficam instituídas:
+
+
+I –
+
+a Declaração Eletrônica de Serviços Prestados e Tomados de Cooperativas Médicas, identificada pela sigla DES-CROM;
+
+
+II –
+
+a Declaração Eletrônica de Serviços Prestados e Tomados de Operadoras de Arrendamento Mercantil (Leasing), identificada pela sigla DES-CROL; e
+
+
+III –
+
+a Declaração Eletrônica de Serviços Prestados e Tomados de Administradoras de Cartão de Crédito ou Débito e Congêneres, identifica pela sigla DES-CRED.
+
+
+##### Seção II — Da Declaração Eletrônica de Serviços Prestados e Tomados de Cooperativas Médicas DES-CROM
+
+
+Art. 7º.
+
+A DES-CROM:
+
+
+I –
+
+é de uso obrigatório para todos os prestadores e tomadores de serviços de cooperativas médicas, tais como, além de outros:
+
+
+a)
+
+o médico candidato a cooperado (associado);
+
+
+b)
+
+o médico cooperado (associado);
+
+
+c)
+
+a empresa responsável pela "venda" (agenciamento e intermediação) do plano de saúde da cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais);
+
+
+d)
+
+o candidato a titular do plano de saúde da cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais);
+
+
+e)
+
+o titular (mensalista – não associado - não cooperado) do plano de saúde da cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais);
+
+
+f)
+
+o estabelecimento candidato a credenciado pelo plano de saúde da cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais);
+
+
+g)
+
+o estabelecimento credenciado pelo plano de saúde da cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais);
+
+
+h)
+
+a cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais) de outro Município, Região ou Estado;
+
+
+i)
+
+o estabelecimento, ainda que não credenciado, prestador de serviço sazonal pelo plano de saúde da cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais);
+
+
+j)
+
+o tomador de serviço não titular (não mensalista - não associado - não cooperado) do plano de saúde da cooperativa médica (cooperativa singular e cooperativa central ou federação de cooperativa com associados/cooperados individuais).
+
+
+II –
+
+deverá conter, de forma individualizada, prestador por prestador e tomador por tomador:
+
+
+a)
+
+no Quadro "Serviços Prestados":
+
+
+1
+
+o Campo "Identificação do Tomador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Emitido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Prestado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio";
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+b)
+
+no Quadro "Serviços Tomados":
+
+
+1
+
+o Campo "Identificação do Prestador de Serviço (Nome ou Razão Social, Endereço CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Recebido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Tomado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; е
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+III –
+
+será preenchida e enviada:
+
+
+a)
+
+para as pessoas jurídicas, até o último dia útil do mês subsequente ao mês da ocorrência dos serviços prestados, tomados e retidos; e
+
+
+b)
+
+para as pessoas físicas, até o último dia útil do mês de março do ano subsequente ao ano da ocorrência dos serviços prestados, tomados e retidos.
+
+
+IV –
+
+terá o seu modelo instituído por meio de ato administrativo expedido pelo Prefeito ou delegado ao Secretário Municipal da Fazenda.
+
+
+##### Seção III — Da Declaração Eletrônica de Serviços Prestados e Tomados de Operadoras de Arrendamento Mercantil (Leasing) - DES-CROM
+
+
+Art. 8º.
+
+A DES-CROM:
+
+
+I –
+
+é de uso obrigatório para todos os prestadores e tomadores de serviços de operadoras de arrendamento mercantil (leasing), tais como, além de outros:
+
+
+a)
+
+a instituição financeira (banco sem carteira de arrendamento mercantil - leasing) agenciadora e intermediária de operação de leasing;
+
+
+b)
+
+o estabelecimento responsável pela venda do bem, como agenciador e intermediário de operação de leasing;
+
+
+c)
+
+a pessoa física ou jurídica adquirente do bem;
+
+
+d)
+
+o Departamento de Trânsito - Detran; e
+
+
+e)
+
+o cartório de registro de títulos e documentos.
+
+
+II –
+
+deverá conter, de forma individualizada, prestador por prestador e tomador por tomador:
+
+
+a)
+
+no Quadro "Serviços Prestados":
+
+
+1
+
+o Campo "Identificação do Tomador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Emitido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Prestado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+b)
+
+no Quadro "Serviços Tomados":
+
+
+1
+
+o Campo "Identificação do Prestador de Serviço (Nome ou Razão Social, Endereço CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Recebido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Tomado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+III –
+
+será preenchida e enviada:
+
+
+a)
+
+para as pessoas jurídicas, até o último dia útil do mês subsequente ao mês da ocorrência dos serviços prestados, tomados e retidos; e
+
+
+b)
+
+para as pessoas físicas, até o último dia útil do mês de março do ano subsequente ao ano da ocorrência dos serviços prestados, tomados e retidos.
+
+
+IV –
+
+terá o seu modelo instituído por meio de ato administrativo expedido pelo Prefeito ou delegado ao Secretário Municipal da Fazenda.
+
+
+##### Seção IV — Da Declaração Eletrônica de Serviços Prestados e Tomados de Administradoras de Cartão de Crédito ou Débito e Congêneres - DES-CRED
+
+
+Art. 9º.
+
+A DES-CRED:
+
+
+I –
+
+é de uso obrigatório para todos os prestadores e tomadores de serviços de administradoras de cartão de crédito ou débito e congêneres, tais como, além de outros:
+
+
+a)
+
+a pessoa jurídica titular da "marca" personalizada no cartão de crédito ou débito e congêneres;
+
+
+b)
+
+a pessoa jurídica titular do cartão de crédito ou débito e congêneres privatelabel;
+
+
+c)
+
+a gráfica responsável pela confecção do cartão de crédito ou débito e congêneres;
+
+
+d)
+
+a pessoa física e jurídica credenciada pela rede de cartão de crédito ou débito congêneres;
+
+
+e)
+
+a pessoa física e jurídica titular do cartão de crédito ou débito e congêneres.
+
+
+II –
+
+deverá conter, de forma individualizada, prestador por prestador e tomador por tomador:
+
+
+a)
+
+no Quadro "Serviços Prestados":
+
+
+1
+
+o Campo "Identificação do Tomador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Emitido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Prestado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+b)
+
+no Quadro "Serviços Tomados":
+
+
+1
+
+o Campo "Identificação do Prestador de Serviço (Nome ou Razão Social, Endereço e CNPJ/CPF)";
+
+
+2
+
+o Campo "Documento Fiscal Recebido (Número e Data)";
+
+
+3
+
+o Campo "Descrição do Serviço Tomado";
+
+
+4
+
+o Campo "Item/Subitem da Lista de Serviço";
+
+
+5
+
+o Campo "Preço do Serviço";
+
+
+6
+
+o Campo "Onde o ISS é Devido";
+
+
+7
+
+o Campo "Valor do ISS Próprio"; e
+
+
+8
+
+o Campo "Valor do ISS Retido".
+
+
+III –
+
+será preenchida e enviada:
+
+
+a)
+
+para as pessoas jurídicas, até o último dia útil do mês subsequente ao mês da ocorrência dos serviços prestados, tomados e retidos; e
+
+
+b)
+
+para as pessoas físicas, até o último dia útil do mês de março do ano subsequente ao ano da ocorrência dos serviços prestados, tomados e retidos.
+
+
+IV –
+
+terá o seu modelo instituído por meio de ato administrativo expedido pelo Prefeito ou delegado ao Secretário Municipal da Fazenda.
+
+
+#### CAPÍTULO IV
+
+DA PRESTAÇÃO DE INFORMAÇÕES CONTIDAS NAS DECLARAÇÕES ELETRÔNICAS DE SERVIÇOS PRESTADOS E TOMADOS PELAS COOPERATIVAS MÉDICAS, OPERADORAS DE ARRENDAMENTO MERCANTIL (LEASING) E ADMINISTRADORAS DE CARTÃO DE CRÉDITO OU DÉBITO E CONGÊNERES
+
+
+Art. 10.
+
+A prestação de informações contidas na Decrom, Decrol, Decred, DES-CROM, DESCROL e DES-CRED deverão ser apresentadas, em meio digital, mediante a utilização de aplicativo a ser disponibilizado, pela Prefeitura, na Rede Mundial de Computadores na Internet, no endereço: ou outro que venha o substituir.
+
+
+Parágrafo único
+
+Nas prestações de informações contidas nas declarações, incluem, também, as informações da administração direta e indireta da União, dos Estados, do Distrito Federal e dos Municípios.
+
+
+Art. 11.
+
+A alteração da Declaração, já entregue, será efetivada mediante apresentação de Declaração Retificadora, que conterá todas as informações, anteriormente, declaradas, ainda que não estejam sujeitas à alteração, bem como as informações a serem adicionadas, se for o caso. A declaração retificadora substituirá, integralmente, as informações apresentadas na declaração anterior.
+
+
+Parágrafo único
+
+É vedada, em vez de apresentar nova declaração - contendo todas as informações, anteriormente, já declaradas - retificando a declaração anterior, a complementação, pura e simples, de informações na declaração já entregue.
+
+
+Art. 12.
+
+Os declarantes deverão conservar cópia dos sistemas utilizados para processamento das informações, bem como das bases de dados processadas, de forma a possibilitar a recomposição e justificativa das informações constantes nas declarações, enquanto perdurar o direito da Fazenda Pública constituir os créditos tributários decorrentes destas prestações.
+
+
+Art. 13.
+
+Quando, por disposição contratual, a responsabilidade pelo pagamento do plano de saúde, da fatura do leasing e do cartão de crédito ou débito e congêneres for atribuída a terceiro, as informações serão apresentadas em nome do terceiro.
+
+
+Art. 14.
+
+A falta de prestação das informações contidas na Decrom, Decrol, Decred, DESCROM, DES-CROL e DES-CRED, ou sua apresentação de forma inexata ou incompleta, sem a sua devida retificação, sujeita o infrator às seguintes penalidades:
+
+
+I –
+
+multa de R$ 1.000,00 (um mil reais) por informação inexata, incompleta ou omitida e não, devidamente, retificada; e
+
+
+II –
+
+multa de R$ 10.000,00 (dez mil reais) por mês-calendário ou fração - independentemente, da sanção de R$ 1.000,00 (um mil reais) por informação inexata, incompleta ou omitida e não, devidamente, retificada - na hipótese de atraso na entrega da declaração.
+
+
+§ 1º
+
+Considera-se apresentação de forma:
+
+
+I –
+
+inexata, quando, não incompleta e nem omissa, não estiver exata;
+
+
+II –
+
+incompleta, quando, não inexata e nem omissa, não estiver completa;
+
+
+III –
+
+omitida, quando não apresentada.
+
+
+§ 2º
+
+Considera-se apresentação de forma inexata, incompleta ou omissa, sem a sua devida retificação, quando, após receber, por mensagem eletrônica, Notificação de Inconformidades Encontradas - NIE, o declarante não efetuar, dentro do prazo regulamentar, a ratificação ou a retificação das informações declaradas;
+
+
+§ 3º
+
+Caso a pessoa física ou jurídica não apresente a declaração, serão lavrados Autos de Infração - Al complementares até a sua efetiva entrega.
+
+
+§ 4º
+
+As multas serão:
+
+
+I –
+
+apuradas, considerando o período compreendido entre o dia seguinte ao término do prazo fixado para a entrega da declaração até a data da efetiva entrega; e
+
+
+II –
+
+majoradas em 100% (cem por cento), na hipótese de lavratura de Auto de Infração de Reincidência - AIR.
+
+
+§ 5º
+
+O processo de aplicação de multas, previstas neste artigo, e de penalidades, contidas no artigo 15 desta Lei, será regulamentado, por meio de Decreto, pelo Chefe do Executivo, devendo os valores pecuniários aqui estabelecidos ser atualizados, anualmente, com base no índice oficial adotado pelo Município.
+
+
+Art. 15.
+
+Além da aplicação das penalidades previstas no artigo 14 desta Lei, a não entrega das declarações, a omissão de informações ou prestação de informações falsas, nas declarações, com a intenção de suprimir ou reduzir o valor do ISS devido, configura hipótese de crime contra a ordem tributária e sujeita os responsáveis à pena de reclusão, de 2 (dois) a 5 (cinco) anos, e multa, aplicando-se, no que couber, o Código Penal, sem prejuízo de outras sanções cabíveis.
+
+
+Parágrafo único
+
+A diferença entre a informação inexata e a falsa é que esta, diferentemente daquela, foi prestada com dolo, fraude ou simulação.
+
+
+#### CAPÍTULO V
+
+DAS OUTRAS OBRIGAÇÕES DAS COOPERATIVAS MÉDICAS, DAS OPERADORAS DE ARRENDAMENTO MERCANTIL (LEASING), DAS ADMINISTRADORAS DE CARTÃO DE CRÉDITO OU DÉBITO E CONGÊNERES E DAS PESSOAS FÍSICAS OU JURÍDICAS CREDENCIADAS PELA REDE DE CARTÃO DE CRÉDITO OU DÉBITO E CONGÊNERES
+
+
+Art. 16.
+
+As Cooperativas Médicas (Cooperativas Singulares e Cooperativas Centrais ou Federações de Cooperativas com Associados/Cooperados Individuais) deverão fornecer, bem como manter atualizada, mensalmente, a relação eletrônica:
+
+
+I –
+
+Dos seus médicos cooperados, com datas e valores cobrados para suas admissões;
+
+
+II –
+
+Dos seus estabelecimentos credenciados, com datas e valores cobrados para seus credenciamentos;
+
+
+III –
+
+Das empresas responsáveis pelas "vendas" (agenciamentos e intermediações) dos seus planos de saúde, com datas de seus credenciamentos e valores fixos e variáveis pagos pelos seus serviços;
+
+
+IV –
+
+Das pessoas físicas ou jurídicas titulares (mensalistas - não associadas - não cooperadas) dos seus planos de saúde, com datas e valores fixos e variáveis cobrados pelas suas aquisições e utilizações;
+
+
+V –
+
+Dos estabelecimentos, ainda que não credenciados, prestadores de serviços sazonais, com datas de suas utilizações e valores fixos e variáveis pagos pelos seus serviços;
+
+
+VI –
+
+Das pessoas físicas ou jurídicas, ainda que não titulares (não mensalistas - não associadas - não cooperadas) dos seus planos de saúde, tomadoras de serviços sazonais, com datas e valores cobrados pelos serviços prestados.
+
+
+Art. 17.
+
+Os Bancos Múltiplos com Carteira de Arrendamento Mercantil (Leasing) e as Sociedades de Arrendamento Mercantil (Leasing) deverão fornecer, bem como, quando for o caso, manter atualizada, mensalmente, a relação eletrônica dos contratos de arrendamento e subarrendamento mercantil (leasing) que tiveram taxas de retorno ou comissões pagas, mencionando as datas, os valores, as razões sociais, os endereços e os CNPJs/CPFS dos seus destinatários (agenciadores e intermediadores de contratos de arrendamento e subarrendamento mercantil [leasing], inclusive os bancos sem carteira de arrendamento mercantil [leasing]) e as datas, os nomes ou as razões sociais, os endereços e os CNPJs dos Cartórios de Registros de Títulos e Documentos, onde os contratos foram registrados.
+
+
+Art. 18.
+
+As Administradoras de Cartão de Crédito ou Débito e Congêneres, assim definidas em ato normativo da Secretaria da Receita Federal do Brasil, deverão fornecer, bem como manter atualizadas:
+
+
+I –
+
+Pessoas jurídicas emissoras de cartões de crédito ou débito e congêneres, a relação eletrônica:
+
+
+a)
+
+das pessoas físicas ou jurídicas titulares de cartões de crédito ou débito e congêneres, as datas das emissões, os nomes ou as razões sociais, os endereços e os CNPJs/CPFs e os valores fixos e variáveis cobrados pelos serviços prestados; e
+
+
+b)
+
+das pessoas físicas ou jurídicas credenciadas pela rede, as datas dos credenciamentos, os nomes ou as razões sociais, os endereços e os CNPJs/CPFs e os valores fixos e variáveis cobrados pelos serviços prestados.
+
+
+II –
+
+pessoas jurídicas responsáveis pela captura e transmissão das transações dos cartões de crédito ou débito e congêneres, a relação eletrônica das pessoas físicas ou jurídicas credenciadas pela rede, as datas dos credenciamentos, os nomes ou as razões sociais, os endereços e os CNPJs/CPFs e os valores fixos e variáveis cobrados pelos serviços prestados.
+
+
+Art. 19.
+
+Os estabelecimentos credenciados pela rede de cartão de crédito ou débito e congêneres, bem como as pessoas físicas, deverão fornecer, bem como manter atualizadas, a relação eletrônica dos titulares das máquinas leitoras dos cartões/point off sales/"maquininhas" ou congêneres responsáveis pela captura e transmissão das transações dos cartões de crédito ou débito e congêneres, as datas do credenciamento, as razões sociais, os endereços e os CNPJs e os valores fixos e variáveis pagos pelos serviços tomados.
+
+
+Art. 20.
+
+A falta de prestação das informações contidas nas relações eletrônicas ou sua apresentação de forma inexata ou incompleta, sem a sua devida retificação, sujeita o infrator às seguintes penalidades:
+
+
+I –
+
+multa de R$ 1.000,00 (um mil reais) por informação inexata, incompleta ou omitida e não, devidamente, retificada; e
+
+
+II –
+
+multa de R$ 10.000,00 (dez mil reais) por mês-calendário ou fração - independentemente, da sanção de R$ 1.000,00 (um mil reais) por informação inexata, incompleta ou omitida e não, devidamente, retificada – na hipótese de atraso na entrega da relação eletrônica.
+
+
+§ 1º
+
+Considera-se apresentação de forma:
+
+
+I –
+
+inexata, quando, não incompleta e nem omissa, não estiver exata;
+
+
+II –
+
+incompleta, quando, não inexata e nem omissa, não estiver completa; e
+
+
+III –
+
+omitida, quando não apresentada.
+
+
+§ 2º
+
+Considera-se apresentação de forma inexata, incompleta ou omissa, sem a sua devida retificação, quando, após receber, por mensagem eletrônica, NIE, o declarante não efetuar, dentro do prazo regulamentar, a ratificação ou a retificação das informações relacionadas.
+
+
+§ 3º
+
+Caso a pessoa física ou jurídica não apresente a relação eletrônica, serão lavrados Al complementares até a sua efetiva entrega.
+
+
+§ 4º
+
+As multas serão:
+
+
+I –
+
+apuradas, considerando o período compreendido entre o dia seguinte ao término do prazo fixado para a entrega da relação eletrônica até a data da efetiva entrega; e
+
+
+II –
+
+majoradas em 100% (cem por cento), na hipótese de lavratura de AIR.
+
+
+§ 5º
+
+O processo de aplicação de multas, previstas neste artigo, e de penalidades contidas no artigo 21 desta Lei, será regulamentado, por meio de Decreto, pelo Chefe do Executivo, devendo os valores pecuniários aqui estabelecidos ser atualizados, anualmente, com base no índice oficial adotado pelo Município.
+
+
+Art. 21.
+
+Além da aplicação das penalidades previstas no artigo 20 desta Lei, a não entrega das declarações, a omissão de informações ou prestação de informações falsas, nas declarações, com a intenção de suprimir ou reduzir o valor do ISSQN devido, configura hipótese de crime contra a ordem tributária e sujeita os responsáveis à pena de reclusão, de 2 (dois) a 5 (cinco) anos, e multa, aplicando-se, no que couber, o Código Penal, sem prejuízo de outras sanções cabíveis.
+
+
+Parágrafo único
+
+A diferença entre a informação inexata e a falsa é que esta, diferentemente daquela, foi prestada com dolo, fraude ou simulação.
+
+
+Art. 22.
+
+As informações contidas nas relações eletrônicas, serão conservadas sob sigilo fiscal, cabendo, à Secretaria Municipal da Fazenda, resguardar, na forma da legislação aplicável à matéria, o sigilo das informações recebidas, facultada sua utilização para instaurar procedimento fiscal tendente a verificar a existência de crédito tributário relativo a tributos sob sua administração.
+
+
+Art. 23.
+
+O Prefeito, por meio de ato administrativo próprio, estabelecerá os modelos das relações eletrônicas previstas no Capítulo V desta Lei e poderá instituir outras normatizações complementares e necessárias, podendo haver delegação ao Secretário Municipal da Fazenda.
+
+
+#### CAPÍTULO VI — DO SIGILO FISCAL DAS INFORMAÇÕES CONTIDAS NAS DECLARAÇOES E RELAÇÕES
+
+
+Art. 24.
+
+As informações contidas nas declarações e relações eletrônicas, serão conservadas sob sigilo fiscal, cabendo, à Secretaria Municipal da Fazenda, resguardar, na forma da legislação aplicável à matéria, o sigilo das informações recebidas, facultada sua utilização para instaurar procedimento fiscal tendente a verificar a existência de crédito tributário relativo a tributos sob sua administração.
+
+
+Art. 25.
+
+O servidor público que:
+
+
+I –
+
+divulgar, revelar ou facilitar a divulgação ou revelação de qualquer informação declarada e(ou) relacionada, constante de sistemas informatizados, arquivos de documentos ou autos de processos protegidos por sigilo fiscal, ficará sujeito à penalidade disciplinar prevista no diploma estatutário, sem prejuízo das sanções civis e penais cabíveis;
+
+
+II –
+
+utilizar ou viabilizar a utilização de qualquer informação obtida sobre as declarações efetuadas e relações entregues, em finalidade ou hipótese diversa da prevista em lei, regulamento ou ato administrativo, será responsabilizado, administrativamente, por descumprimento do dever funcional de observar normas legais ou regulamentares, se o fato não configurar infração mais grave, sem prejuízo de sua responsabilização em ação regressiva própria e da responsabilidade penal cabível;
+
+
+III –
+
+permitir ou facilitar, mediante atribuição, fornecimento ou empréstimo de senha ou qualquer outra forma, o acesso de pessoas não autorizadas a sistemas de informações, banco de dados, arquivos ou a autos de processos que contenham informações sobre as declarações efetuadas e relações entregues, será responsabilizado, administrativamente, nos termos da legislação específica, sem prejuízo das sanções civis e penais cabíveis; е
+
+
+IV –
+
+utilizar-se, indevidamente, do acesso restrito, sobre as declarações efetuadas e relações entregues será responsabilizado, administrativamente, nos termos da legislação específica, sem prejuízo das sanções civis e penais cabíveis.
+
+
+Parágrafo único
+
+O sujeito passivo que se considerar prejudicado por uso indevido das informações obtidas pela administração tributária, sobre as declarações efetuadas e relações entregues, ou por abuso da autoridade requisitante, poderá dirigir representação ao Secretário Municipal da Administração, com vistas à apuração do fato e, se for o caso, à aplicação de penalidades cabíveis ao servidor responsável pela infração. Quando o fato narrado não configurar evidente infração disciplinar ou ilícito penal, a representação será arquivada, por falta de objeto.
+
+
+#### CAPÍTULO VII
+
+DA COMPETÊNCIA DAS AUTORIDADES E DOS AGENTES FISCAIS TRIBUTÁRIOS PARA EXAMINAR DOCUMENTOS, LIVROS E REGISTROS DE SERVIÇOS PRESTADOS E TOMADOS DE COOPERATIVAS MÉDICAS, OPERADORAS DE ARRENDAMENTO MERCANTIL (LEASING) E ADMINISTRADORAS DE CARTÃO DE CRÉDITO OU DÉBITO E CONGÊNERES
+
+
+Art. 26.
+
+As autoridades e os agentes fiscais tributários poderão examinar documentos, livros registros de serviços prestados e tomados de cooperativas médicas, operadoras de arrendamento mercantil (leasing) e administradoras de cartão de crédito ou débito congêneres, inclusive os referentes a contas de depósitos e aplicações financeiras, quando, além de tais exames serem considerados indispensáveis pela autoridade administrativa competente, houver:
+
+
+I –
+
+processo administrativo instaurado; ou,
+
+
+II –
+
+procedimento fiscal em curso, iniciado com a lavratura de Termo de Início de Ação Fiscal - Tiaf e/ou a expedição de Termo de Regime Especial de Fiscalização – Tref.
+
+
+Art. 27.
+
+Recebidas as informações, se detectados indícios de falhas, incorreções ou omissões, ou de cometimento de ilícito fiscal, a autoridade administrativa competente poderá requisitar as informações e os documentos de que necessitar, bem como realizar fiscalização ou auditoria para a adequada apuração dos fatos.
+
+
+Parágrafo único
+
+A apuração dos fatos dar-se-á mediante:
+
+
+I –
+
+processo administrativo instaurado; ou
+
+
+II –
+
+procedimento fiscal em curso, iniciado com a lavratura de Tiaf e/ou Tref.
+
+
+#### CAPÍTULO VIII — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+
+Art. 28.
+
+O Chefe do Poder Executivo, por meio de atos administrativos próprios, poderá estabelecer outras normatizações complementares e necessárias à fiel execução desta Lei, inclusive poderá promover delegações de competências, podendo, inclusive, criar, modificar ou adaptar as declarações e outros instrumentos previstos nesta Lei, assim como outros instrumentos destinados à fiscalização, cruzamento, apuração, conferência, auditoria, perícia e controle dos serviços prestados e/ou tomados pelas prestadoras previstas no presente Diploma Legal.
+
+
+Art. 29.
+
+Fica o Chefe do Poder Executivo autorizado a promover a contratação, na forma da lei, de empresa especializada em Tecnologia da Informação ou Correlatos para desenvolvimento, implantação, operacionalização e procedimentos correlatos dos sistemas informatizados necessários à execução desta Lei, ou, se for o caso, promover, na forma da lei, aditivo em contrato de empresa já contratada.
+
+
+Art. 30.
+
+O disposto nesta Lei não exclui a possibilidade de celebração de eventuais convênios, ajustes ou outros instrumentos que poderão ser celebrados com os órgãos fazendários ou fiscais federais e estaduais, visando o compartilhamento ou uniformização de informações relacionadas a operações vinculadas às Cooperativas Médicas e correlatos, Operadoras de Arrendamento Mercantil (Leasing) e correlatos e Administradoras de Cartão de Crédito ou Débito e Congêneres e correlatos.
+
+
+Art. 31.
+
+Esta Lei entra em vigor na data de sua publicação em decorrência da inaplicabilidade dos princípios da anterioridade anual e da anterioridade nonagesimal (artigo 150, inciso III, alíneas "b" e "c" da Constituição Federal).
+
+
+**Buritis, 27 de dezembro de 2017.**
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Ref. à Proposição de Lei nº 27 de 27/12/17. De autoria do Executivo Municipal

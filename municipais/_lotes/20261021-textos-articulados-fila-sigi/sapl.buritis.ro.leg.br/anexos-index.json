@@ -1,0 +1,98 @@
+{
+  "estado": "indice_completo",
+  "total": 8,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/decreto_no_079-2022.pdf da norma Decreto Legislativo-GPRES nº 79, de 03 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2022/1/decreto_no_079-2022.pdf",
+      "ano": 2022,
+      "norma": 64
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/lei_no_1617-2021_-_parte_ii.pdf da norma Lei Ordinária nº 1.617, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2021/2/lei_no_1617-2021_-_parte_ii.pdf",
+      "ano": 2021,
+      "norma": 1006
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/3/lei_no_1504-2020_-_parte_02.pdf da norma Lei Ordinária nº 1.504, de 16 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2020/3/lei_no_1504-2020_-_parte_02.pdf",
+      "ano": 2020,
+      "norma": 1088
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/lei_no_1626-2021_-_parte_ii.pdf da norma Lei Ordinária nº 1.626, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2021/4/lei_no_1626-2021_-_parte_ii.pdf",
+      "ano": 2021,
+      "norma": 2092
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/lei_no_1626-2021_-_parte_iii.pdf da norma Lei Ordinária nº 1.626, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2021/5/lei_no_1626-2021_-_parte_iii.pdf",
+      "ano": 2021,
+      "norma": 2092
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/projeto_de_lei_no_259-2024-substitutivo_-_publicado.pdf da norma Lei Ordinária nº 2.053, de 04 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2024/6/projeto_de_lei_no_259-2024-substitutivo_-_publicado.pdf",
+      "ano": 2024,
+      "norma": 2120
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/oficio_118-gab-pmb-2025_numero_da_lei_2190_para_promulgacao.pdf da norma Lei Ordinária nº 2.190, de 20 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Resposta Ofício 99/GP/LEG/2025",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2025/7/oficio_118-gab-pmb-2025_numero_da_lei_2190_para_promulgacao.pdf",
+      "ano": 2025,
+      "norma": 2392
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/image_004.pdf da norma Decreto Legislativo nº 286, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Lista de presença",
+      "anexo_arquivo": "http://sapl.buritis.ro.leg.br/media/sapl/public/anexonormajuridica/2026/9/image_004.pdf",
+      "ano": 2026,
+      "norma": 2692
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.ro.leg.br/14907f6cb1be162a4480ba05ec68502462819959abde7fd3b42c675d424a65ab.json",
+      "url": "https://sapl.buritis.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.buritis.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "35dcfd6d2c529099c964d92722eb785d9be99f32cc608760d4c602c834be5176",
+      "bytes": 3486,
+      "capturado_em": "2026-10-27T20:07:59.593883-03:00"
+    }
+  ]
+}

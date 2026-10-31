@@ -1,0 +1,219 @@
+---
+titulo: "Lei nº 873, de 08 de junho de 1993"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "873"
+data: "1993-06-08"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/505"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1477/text"
+sha256_fonte: "60ce0326cf206b7cebbe156b217bc01e24e81fd3eb698605802dd96056063af9"
+sha256_texto: "a99e3dde8254adac5ae65d4b0c517dc368f8ae4a59d092bbb0804d52d540ddb2"
+capturado_em_fonte: "2026-10-27T21:30:56.755823-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 873, de 08 de junho de 1993
+
+DISPÕE SOBRE O REGIME DE ADIANTAMENTO DE NUMERÁRIO AOS SERVIDORES E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+ARI ALVES ANUNCIAÇÃO, PREFEITO MUNICIPAL DE AGUDO,  
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+O regime Excepcional de adiantamento previsto no art. 68, da Lei nº 4320, de 17/03/64, à conta de dotações orçamentárias, obedecerá ao disposto nesta Lei.
+
+
+Art. 2º.
+
+O adiantamento só é permitido nos seguintes casos:
+
+
+a)
+
+quando se tratar de serviços extraordinários e urgentes, que não permitam delongas na satisfação das despesas;
+
+
+b)
+
+quando se tratar de despesa a ser paga em lugar distante da fonte pagadora;
+
+
+c)
+
+quando se tratar de despesas miúdas e de pronto pagamento, nas diversas unidades orçamentárias;
+
+
+d)
+
+quando o adiantamento for autorizado em Lei.
+
+
+Art. 3º.
+
+As requisições de adiantamentos serão expedidas por autoridades que puderem dispor das dotações orçamentárias, devendo ser autorizadas pelo Prefeito e limitadas ao valor máximo de 15 (quinze) vezes o valor de referência vigente no Município.
+
+
+Art. 4º.
+
+As requisições de adiantamentos deverão satisfazer as seguintes condições:
+
+
+I –
+
+indicar a soma a adiantar, em algarismos por extenso, repartição, o cargo e nome do funcionário a quem deve ser feito o adiantamento;
+
+
+II –
+
+indicação do exercício financeiro e dotação orçamentária por onde deve ocorrer a despesa;
+
+
+III –
+
+indicação do fim a que se destina o adiantamento e do período de sua aplicação.
+
+
+Art. 5º.
+
+O adiantamento não poderá ser aplicado em despesas estranhas às que figurarem na respectiva requisição.
+
+
+Art. 6º.
+
+Para os adiantamentos haverá tantos empenhos quantas forem as classificações da despesa.
+
+
+Art. 7º.
+
+Os documentos de comprovação das despesas deverão:
+
+
+I –
+
+conter data posterior à do recebimento do adiantamento;
+
+
+II –
+
+referir-se a serviços ou fornecimentos do período indicado na requisição de adiantamento;
+
+
+III –
+
+ter assinatura dos credores ou de seus procuradores, sendo permitidas as assinaturas à rogo confirmadas pela firma de duas testemunhas, das quais será indica da a profissão e residência;
+
+
+IV –
+
+ser visados pelo responsável.
+
+
+Art. 8º.
+
+As despesas até 20% (vinte por cento) do valor de referência vigente no Município, das quais não seja possível conseguir nota regular, serão individualizadas em uma relação, com toda a clareza.
+
+
+Art. 9º.
+
+No caso de restituição de saldos de adiantamentos, proceder-se-á de acordo com as normas contábeis.
+
+
+Art. 10.
+
+Os recolhimentos de saldos de adiantamentos far-se-ão aos cofres da repartição pagadora.
+
+
+Art. 11.
+
+Para comprovar a aplicação do adiantamento os documentos serão entregues na Fazenda Municipal, sendo fornecido um recibo de entrega, obedecendo as seguintes normas:
+
+
+I –
+
+os documentos de despesas devidamente quitados, numerados e autenticados pelo responsável;
+
+
+II –
+
+se for o caso, a comprovação do recolhimento do saldo do adiantamento;
+
+
+III –
+
+aprovação por parte da autoridade que requisitou o adiantamento.
+
+
+Art. 12.
+
+A comprovação da aplicação do adiantamento deverá ser apresentada à Fazenda Municipal, dentro do prazo estabelecido na requisição, que nunca será superior a 60 dias a contar da data do recebimento do numerário.
+
+
+Parágrafo único.
+
+Não será feito adiantamento a servidor em alcance nem a responsável por dois adiantamentos.
+
+
+Art. 13.
+
+O responsável por adiantamento que deixar de apresentar a comprovação do adiantamento e do recolhimento dos saldos, dentro do prazo determinado, será considerado em alcance.
+
+
+Art. 14.
+
+Os responsáveis por qualquer adiantamento depositarão o dinheiro recebido nos Bancos oficiais, ou inexistindo agência destes, em outro Banco, observado o seguinte:
+
+
+I –
+
+o depósito será feito em conta corrente especial Conta Adiantamento - em nome do responsável pelo adiantamento, com a indicação do cargo ou função que exercer;
+
+
+II –
+
+A conta bancária será movimentada pelo responsável mediante cheque nominal a favor dos credores ou, excepcionalmente, ao portador, para despesas que devem ser pagas em espécie pelo responsável;
+
+
+III –
+
+o extrato da conta corrente bancária deverá acompanhar a prestação de contas para verificação de sua movimentação.
+
+
+Art. 15.
+
+As repartições que efetuarem a entrega de adiantamentos deverão manter rigorosamente em dia o registro cronológico do vencimento dos prazos relativos a prestação de contas pelos responsáveis.
+
+
+Art. 16.
+
+Nos casos omissos, aplicar-se-á o Regulamento Geral da Contabilidade Pública, Decreto nº 15783, de 08 de novembro de 1992 e Lei nº 4320, de 17 de março de 1964.
+
+
+Art. 17.
+
+Esta Lei entrará em vigor na data da sua publicação.
+
+
+Art. 18.
+
+Revogam-se as disposições em contrário.
+
+
+AGUDO/RS, em 08 de junho de 1993; 136º da Colonização e 34º da Emancipação.
+
+ARI ALVES ANUNCIAÇÃO
+
+Registre-se e Publique-se  
+  
+ARI CARLINHOS JAEGER  
+Sec. de Administração.
+

@@ -1,0 +1,3277 @@
+{
+  "estado": "indice_completo",
+  "total": 316,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1992/1/lei_n_15_021_de_15_de_junho_de_1994.pdf da norma Lei nº 14.214, de 08 de julho de 1992",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ALTERA A LEI Nº 14.214/1992",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/1992/1/lei_n_15_021_de_15_de_junho_de_1994.pdf",
+      "ano": 1992,
+      "norma": 776
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/anexo_2_-_receita_-_geral.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - receita - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/7/anexo_2_-_receita_-_geral.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/anexo_2_-_receita_-_orcamento_fiscal.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - receita - orcamento fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/8/anexo_2_-_receita_-_orcamento_fiscal.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/9/anexo_2_-_receita_-_seguridade_social.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - receita - seguridade social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/9/anexo_2_-_receita_-_seguridade_social.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/10/anexo_2_consolidacao_da_despesa_-_geral.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Consolidação da Despesa - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/10/anexo_2_consolidacao_da_despesa_-_geral.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/anexo_2_consolidacao_da_despesa_-_seguridade_social.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Consolidacao da Despesa - Seguridade Social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/11/anexo_2_consolidacao_da_despesa_-_seguridade_social.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/13/anexo_2_natureza_da_despesa_-_geral.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Natureza da Despesa - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/13/anexo_2_natureza_da_despesa_-_geral.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/anexo_2_natureza_da_despesa_-_orcamento_fiscal.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Natureza da Despesa - orcamento fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/14/anexo_2_natureza_da_despesa_-_orcamento_fiscal.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/anexo_2_natureza_da_despesa_-_seguridade_social.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Natureza da Despesa - seguridade Social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/15/anexo_2_natureza_da_despesa_-_seguridade_social.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/anexo_2_natureza_da_despesa_por_unidade_orcamenta_3cfuNEg.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Natureza da Despesa por Unidade Orcamentaria - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/16/anexo_2_natureza_da_despesa_por_unidade_orcamenta_3cfuNEg.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/17/anexo_2_natureza_da_despesa_por_unidade_orcamenta_dYJvPWv.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Natureza da Despesa por Unidade Orçamentaria - Orçamento Fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/17/anexo_2_natureza_da_despesa_por_unidade_orcamenta_dYJvPWv.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/18/anexo_2_natureza_da_despesa_por_unidade_orcamenta_iF4MD7c.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Natureza da Despesa por Unidade Orçamentaria - Seguridade Social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/18/anexo_2_natureza_da_despesa_por_unidade_orcamenta_iF4MD7c.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/19/anexo_6_-_geral.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Anexo 6 - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/19/anexo_6_-_geral.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/20/anexo_6_-_orcamento_fiscal.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Anexo 6 - Orçamento Fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/20/anexo_6_-_orcamento_fiscal.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/anexo_6_-_seguridade_social.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexo 6 - Seguridade Social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/21/anexo_6_-_seguridade_social.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/22/anexo_7_-_geral.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Anexo 7 - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/22/anexo_7_-_geral.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/23/anexo_7_-_orcamento_fiscal.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Anexo 7 - Orçamento Fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/23/anexo_7_-_orcamento_fiscal.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/24/anexo_7_-_seguridade_social.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Anexo 7 - seguridade Social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/24/anexo_7_-_seguridade_social.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/anexo_8_-_geral.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Anexo 8 - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/25/anexo_8_-_geral.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/26/anexo_8_-_orcamento_fiscal.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Anexo 8 - orçamento fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/26/anexo_8_-_orcamento_fiscal.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/27/anexo_8_-_seguridade_social.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Anexo 8 - seguridade social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/27/anexo_8_-_seguridade_social.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/28/anexo_9_-_geral.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Anexo 9 - geral",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/28/anexo_9_-_geral.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/29/anexo_9_-_orcamento_fiscal.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Anexo 9 - orçamento fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/29/anexo_9_-_orcamento_fiscal.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/30/anexo_9_-_seguridade_social.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Anexo 9 - seguridade social",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/30/anexo_9_-_seguridade_social.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/31/anexo_2_consolidacao_da_despesa_-_orcamento_fiscal_.pdf da norma Lei nº 20.879, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 Consolidação da Despesa - orçamento fiscal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/31/anexo_2_consolidacao_da_despesa_-_orcamento_fiscal_.pdf",
+      "ano": 2019,
+      "norma": 1748
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/32/anexo_2_-_ppa_2018_a_2021__metas_por_programas__f_Q1aQg9a.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 A 2021  METAS POR PROGRAMAS  FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/32/anexo_2_-_ppa_2018_a_2021__metas_por_programas__f_Q1aQg9a.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/33/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semap.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 A 2021 - METAS POR PROGRAMAS - SEMAP",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/33/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semap.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/34/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semc.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 A 2021 - METAS POR PROGRAMAS - SEMC",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/34/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semc.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/35/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semdec.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SEMDEC",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/35/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semdec.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/36/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semgof.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SEMGOF",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/36/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semgof.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/37/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_TPctLDO.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SEMINFRA",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/37/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_TPctLDO.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/38/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semma.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SEMMA",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/38/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semma.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/39/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semsa.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SEMSA",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/39/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semsa.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/40/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semtras.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SEMTRAS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/40/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semtras.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/41/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semtur.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SEMTUR",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/41/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_semtur.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/42/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_smt.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 - PPA 2018 a 2021 - METAS POR PROGRAMAS - SMT",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/42/anexo_2_-_ppa_2018_a_2021_-_metas_por_programas_-_smt.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/43/anexo_2__ppa_2018_a_2021_metas_por_programas_fund_xGQN2qq.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2  PPA 2018 A 2021 METAS POR PROGRAMAS FUNDO MUNICIPAL DE DESENVOLVIMENTO",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/43/anexo_2__ppa_2018_a_2021_metas_por_programas_fund_xGQN2qq.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/44/anexo_2_metas_fiscais_por_programas_fundeb.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 METAS FISCAIS POR PROGRAMAS FUNDEB",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/44/anexo_2_metas_fiscais_por_programas_fundeb.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/45/anexo_2_metas_por_programa_camara_municipal.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 METAS POR PROGRAMA CÂMARA MUNICIPAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/45/anexo_2_metas_por_programa_camara_municipal.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/46/anexo_2_ppa_2018_a_2021_-_metas_por_programa_segu_BDRNUUq.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 PPA 2018 a 2021 - METAS POR PROGRAMA SEGUNDO A ÁREA DE ATUAÇÃO",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/46/anexo_2_ppa_2018_a_2021_-_metas_por_programa_segu_BDRNUUq.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/47/anexo_2_ppa_2018_a_2021_metas_por_programas_fundo_adggMCj.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 PPA 2018 A 2021 METAS POR PROGRAMAS FUNDO MUNICIPAL DE INTERESSE SOCIAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/47/anexo_2_ppa_2018_a_2021_metas_por_programas_fundo_adggMCj.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/48/anexo_2_ppa_2018_a_2021_metas_por_programas_fundo_DZjKCj4.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 PPA 2018 A 2021 METAS POR PROGRAMAS FUNDO MUNICIPAL DE MEIO AMBIENTE",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/48/anexo_2_ppa_2018_a_2021_metas_por_programas_fundo_DZjKCj4.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/49/anexo_3_metas_fiscais_por_programas.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 3 METAS FISCAIS POR PROGRAMAS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/49/anexo_3_metas_fiscais_por_programas.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/50/anexo_iv_ppa_2018_a_2021_-_base_de_calculo_do_lim_5ABnrR9.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV PPA 2018 a 2021 - BASE DE CÁLCULO DO LIMITE DE DESPESAS LEGISLATIVAS - EC 25",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/50/anexo_iv_ppa_2018_a_2021_-_base_de_calculo_do_lim_5ABnrR9.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/51/ppa_2018_a_2021_-_anexo_02_-_metas_por_programas_-_semed.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 - ANEXO 02 - METAS POR PROGRAMAS - SEMED",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/51/ppa_2018_a_2021_-_anexo_02_-_metas_por_programas_-_semed.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/52/ppa_2018_a_2021_fortalec_democracia_na_defesa_dir_x4tqFGa.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 FORTALEC DEMOCRACIA NA DEFESA DIREITOS DO CIDADÃO",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/52/ppa_2018_a_2021_fortalec_democracia_na_defesa_dir_x4tqFGa.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/53/ppa_2018_a_2021_macro_objetivo_desenvolvimento_su_FgNcRf9.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 MACRO OBJETIVO DESENVOLVIMENTO SUSTENTÁVEL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/53/ppa_2018_a_2021_macro_objetivo_desenvolvimento_su_FgNcRf9.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/54/ppa_2018_a_2021_macro_objetivo_mobilidade_e_desenv_urbano.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 MACRO OBJETIVO MOBILIDADE E DESENVOLVIMENTO URBANO",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/54/ppa_2018_a_2021_macro_objetivo_mobilidade_e_desenv_urbano.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/55/ppa_2018_a_2021_macro_objetivo_modernizacao_da_ad_RtQRlGG.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 MACRO OBJETIVO MODERNIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/55/ppa_2018_a_2021_macro_objetivo_modernizacao_da_ad_RtQRlGG.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/56/ppa_2018_a_2021_macro_objetivo_promocao_social.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 MACRO OBJETIVO PROMOÇÃO SOCIAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/56/ppa_2018_a_2021_macro_objetivo_promocao_social.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/57/ppa_2018_a_2021_macro_objetivo_protecao_social_saude.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 MACRO OBJETIVO PROTEÇÃO SOCIAL SAÚDE",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/57/ppa_2018_a_2021_macro_objetivo_protecao_social_saude.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/58/ppa_2018_a_2021_macro_objetivo_protecao_social.pdf da norma Lei nº 20.308, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "PPA 2018 A 2021 MACRO OBJETIVO PROTEÇÃO SOCIAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2017/58/ppa_2018_a_2021_macro_objetivo_protecao_social.pdf",
+      "ano": 2017,
+      "norma": 1549
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/59/1_anexo_i_-_demonst._da_receita_e_despesa.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "1 Anexo I - Demonstrativo da Receita e Despesa",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/59/1_anexo_i_-_demonst._da_receita_e_despesa.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/60/2_anexo_i_-_natureza_da_despesa_secretarias_e_fun_qmtsLe8.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "2 Anexo I - Natureza da Despesa Secretarias e Fundos Municipais",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/60/2_anexo_i_-_natureza_da_despesa_secretarias_e_fun_qmtsLe8.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/61/3_anexo_ii_-_natureza_por_cat._economicas_camara__H8KXz3H.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "3 Anexo II - Natureza por Categorias Econômicas - Câmara Municipal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/61/3_anexo_ii_-_natureza_por_cat._economicas_camara__H8KXz3H.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/62/4_anexo_vii_-_programa_de_trabalho_do_governo.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "4 Anexo VII - Programa De Trabalho do Governo",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/62/4_anexo_vii_-_programa_de_trabalho_do_governo.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/63/5_anexo_viii_-_demonstrativo_da_despesa_por_funcao.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "5 Anexo VIII - Demonstrativo da Despesa por Função",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/63/5_anexo_viii_-_demonstrativo_da_despesa_por_funcao.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/64/6_anexo_vx_-_demonstrativo_da_despesa_por_orgao.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "6 Anexo VX - Demonstrativo da Despesa por Órgão",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/64/6_anexo_vx_-_demonstrativo_da_despesa_por_orgao.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/65/7_anexo_xxii_-_demonstrativo_da_evolucao_da_despesa.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "7 anexo XXII - Demonstrativo da Evolução da Despesa",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/65/7_anexo_xxii_-_demonstrativo_da_evolucao_da_despesa.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/66/8_quadro_de_detalhamento_de_despesas_qdd.pdf da norma Lei nº 20.533, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "8 Quadro de Detalhamento de Despesas (QDD)",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/66/8_quadro_de_detalhamento_de_despesas_qdd.pdf",
+      "ano": 2018,
+      "norma": 1611
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/67/resolucao_002_1990_regimento_interno_original.pdf da norma Regimento Interno Resolução nº 2, de 05 de setembro de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO 002/1990, QUE TRATA DO REGIMENTO INTERNO DA CÂMARA MUNICIPAL DE SANTARÉM-PA ORIGINAL.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/1990/67/resolucao_002_1990_regimento_interno_original.pdf",
+      "ano": 1990,
+      "norma": 1904
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/68/lei_n_20_928_de_25_03_2020_inst_de_agentes_comunitario_p_col_do_lixo.pdf da norma Lei nº 20.928, de 25 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 333/20-GAP/PMS DE 21 10 2020\r\nANULA A LEI N º 20.928/2020, DE 25 DE MARÇO DE 2020.\r\nDISPÕE SOBRE A INSTITUIÇÃO DO AGENTE COMUNITÁRIO PARA A COLETA DE LIXO, LIMPEZA DE CANAIS, ESCADARIAS, CANALETAS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2020/68/lei_n_20_928_de_25_03_2020_inst_de_agentes_comunitario_p_col_do_lixo.pdf",
+      "ano": 2020,
+      "norma": 1972
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/69/lei_n_20_929_de_25_03_2020_camp_maria_da_penha_junto_as_escolas.pdf da norma Lei nº 20.929, de 25 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 333/20-GAP/PMS DE 21 10 2020\r\nANULA A LEI N º 20.929/2020, DE 25 DE MARÇO DE 2020.\r\nDISPÕE SOBRE A CRIAÇÃO DA CAMPANHA MARIA DA PENHA JUNTO AS ESCOLAS PELA NÃO VIOLÊNCIA CONTRA A MULHER NO MUNICÍPIO DE SANTARÉM E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2020/69/lei_n_20_929_de_25_03_2020_camp_maria_da_penha_junto_as_escolas.pdf",
+      "ano": 2020,
+      "norma": 1974
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/70/lei_n_20_930_de_25_03_2020_cria_mecanismos_de_incent_a_adocao_de_creches_e_escolas.pdf da norma Lei nº 20.930, de 25 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 333/20-GAP/PMS DE 21 10 2020\r\nANULA A LEI N º 20.930/2020, DE 25 DE MARÇO DE 2020\r\nDISPÕE SOBRE A CRIAÇÃO DE MECANISMOS DE INCENTIVO À ADOÇÃO DE CRECHES E ESCOLAS MUNICIPAIS PELAS EMPRESAS NA CIDADE DE SANTARÉM.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2020/70/lei_n_20_930_de_25_03_2020_cria_mecanismos_de_incent_a_adocao_de_creches_e_escolas.pdf",
+      "ano": 2020,
+      "norma": 1973
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/71/dec_no_334_2020_de_21_10_2020_anula_a_sancao_e_publicacao_das__leis__no_20_852__e_20_572__de_2019.pdf da norma Lei nº 20.852, de 16 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 334/20-GAP/PMS DE 21 10 20\r\nANULA O INCISO VII ART 12 DA LEI Nº 20.852/20 DE 21 10 20\r\nDISPÕE SOBRE A REGULARIZAÇÃO FUNDIÁRIA URBANA NO MUNICÍPIO E INSTITUI MECANISMOS PARA APRIMORAR A EFICIÊNCIA DOS PROCEDIMENTOS DE ALIENAÇÃO DE IMÓVEIS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/71/dec_no_334_2020_de_21_10_2020_anula_a_sancao_e_publicacao_das__leis__no_20_852__e_20_572__de_2019.pdf",
+      "ano": 2019,
+      "norma": 1743
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/72/20_dec_no_334_2020_de_21_10_2020_anula_a_sancao_e_publicacao_das__leis__no_20_852__e_20_572__de_2019.pdf da norma Lei nº 20.572, de 24 de maio de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 334/20-GAP/PMS DE 21 10 20\r\nANULA O PARÁG ÚNICO DO ART. 1º, INC. VII DO ART 3º E 7º, DA LEI Nº 20.572 DE 24 05 20\r\nALTERA E ACRES DISPOSIT À LEI MUNICIPAL N° 19.518, DE 12 DE MAIO DE 2014, QUE INSTITUI O REGULAMENTO DO SERVIÇO DE TÁXI.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/72/20_dec_no_334_2020_de_21_10_2020_anula_a_sancao_e_publicacao_das__leis__no_20_852__e_20_572__de_2019.pdf",
+      "ano": 2019,
+      "norma": 1648
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/73/01._perimetro_urbano_atual.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "CHDU - 01. ANEXO II - MAPA DO PERÍMETRO URBANO ATUAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/73/01._perimetro_urbano_atual.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/74/02._mapa_de_zonas_adm.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "CHDU - 02. MAPA DE ZONAS ADM",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/74/02._mapa_de_zonas_adm.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/75/03._distritos_rurais_atual.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "CHDU - 03. ANEXO V - MAPA DOS DISTRITOS RURAIS ATUAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/75/03._distritos_rurais_atual.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/76/04._bairros.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "CHDU - 04.  ANEXO VI - MAPA DOS BAIRROS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/76/04._bairros.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/77/05._mapa_das_zeis-a1.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "CHDU - 05. MAPA DAS ZEIS-A1",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/77/05._mapa_das_zeis-a1.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/78/06._macrozoneamento_atual.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "CHDU - 06. MACROZONEAMENTO ATUAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/78/06._macrozoneamento_atual.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/79/aptidao_agricola.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "SEMAP - Aptidão Agrícola",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/79/aptidao_agricola.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/80/microssistemas.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "SEMAP - Microssistemas",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/80/microssistemas.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/81/solos.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "SEMAP - Solos",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/81/solos.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/82/terraplanagem.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "SEMAP - Terraplanagem",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/82/terraplanagem.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/83/uso_e_ocupacao_do_solo.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "SEMAP - Uso e Ocupação do Solo",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/83/uso_e_ocupacao_do_solo.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/84/mapa_patrimonio_historico_rural_a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "SEMC -MAPA PATRIMONIO HISTORICO RURAL A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/84/mapa_patrimonio_historico_rural_a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/85/mapa_patrimonio_historico_urbano_1_a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "SEMC - MAPA PATRIMONIO HISTORICO URBANO 1 A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/85/mapa_patrimonio_historico_urbano_1_a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/86/mapa_patrimonio_historico_urbano_2_a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "SEMC - MAPA PATRIMONIO HISTORICO URBANO 2 A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/86/mapa_patrimonio_historico_urbano_2_a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/87/equipamentos_escolares_de_santarem_-_urbano.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "SEMED - Equipamentos Escolares de Santarem - Urbano",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/87/equipamentos_escolares_de_santarem_-_urbano.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/88/equipamentos_escolares_de_santarem.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "SEMED - Equipamentos Escolares de Santarem",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/88/equipamentos_escolares_de_santarem.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/89/espacos_de_esporte_e_lazer.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "SEMED - Espacos de Esporte e Lazer",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/89/espacos_de_esporte_e_lazer.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/90/necessidade_de_impantacao_de_escolas.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "SEMED - Necessidade de Impantação de Escolas",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/90/necessidade_de_impantacao_de_escolas.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/91/coleta_domiciliar_roteiros_carroceiros_2016_.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - COLETA DOMICILIAR ROTEIROS CARROCEIROS 2016",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/91/coleta_domiciliar_roteiros_carroceiros_2016_.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/92/coleta_domiciliar_roteiros_hachura_maio_2016.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - COLETA DOMICILIAR ROTEIROS HACHURA MAIO 2016",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/92/coleta_domiciliar_roteiros_hachura_maio_2016.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/93/mapa_das_ruas__asfaltos-a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - Mapa das Ruas  ASFALTOS-A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/93/mapa_das_ruas__asfaltos-a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/94/mapa_geral_de_drenagem_profunda_de_santarem_05-07-2017_cad_2013-a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - MAPA GERAL DE DRENAGEM PROFUNDA DE SANTARÉM (05-07-2017) cad 2013-A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/94/mapa_geral_de_drenagem_profunda_de_santarem_05-07-2017_cad_2013-a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/95/projeto_redes_coletora_existentes_centro_de_santarem_pac_ii.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - Projeto Redes Coletora Existentes Centro de Santarém PAC II",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/95/projeto_redes_coletora_existentes_centro_de_santarem_pac_ii.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/96/rede_de_agua_de_santarem.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - REDE DE ÁGUA DE SANTARÉM",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/96/rede_de_agua_de_santarem.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/97/rede_de_drenagem_alter_do_chao.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - REDE DE DRENAGEM ALTER DO CHÃO",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/97/rede_de_drenagem_alter_do_chao.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/98/rede_de_esgoto_de_santarem-a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "SEMINFRA - REDE DE ESGOTO DE SANTARÉM-A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/98/rede_de_esgoto_de_santarem-a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/99/areas_protegidas.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "SEMMA - Áreas_Protegidas",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/99/areas_protegidas.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/100/assentamentos.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "SEMMA - Assentamentos",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/100/assentamentos.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/101/florestas_publicas.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "SEMMA - Florestas Públicas",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/101/florestas_publicas.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/102/insercao_regional.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "SEMMA - Inserção Regional",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/102/insercao_regional.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/103/localizacao_municipal.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "SEMMA - Localização Municipal",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/103/localizacao_municipal.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/104/estrategia_agentes_comunitarios_desaude_eacs_planalto-a1.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "SEMSA - ESTRATÉGIA AGENTES COMUNITÁRIOS DESAÚDE (EACS) PLANALTO-A1",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/104/estrategia_agentes_comunitarios_desaude_eacs_planalto-a1.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/105/estrategias_saude_da_familia_esf_planalto-a1.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "SEMSA - ESTRATÉGIAS SAÚDE DA FAMÍLIA (ESF) PLANALTO-A1",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/105/estrategias_saude_da_familia_esf_planalto-a1.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/106/mapa_estrategia_agentes_comunitarios_desaude_eacs_zona_urbana_-_a0-a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "SEMSA - MAPA ESTRATÉGIA AGENTES COMUNITÁRIOS DESAÚDE (EACS) ZONA URBANA - A0-A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/106/mapa_estrategia_agentes_comunitarios_desaude_eacs_zona_urbana_-_a0-a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/107/mapa_estrategias_saude_da_familia_esf__zona_urbana_-_a0-a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "SEMSA - MAPA ESTRATÉGIAS SAÚDE DA FAMÍLIA (ESF ) ZONA URBANA - A0-A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/107/mapa_estrategias_saude_da_familia_esf__zona_urbana_-_a0-a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/108/mapa_estrategias_saude_da_familia_esf__zona_urbana_-_proximos_10_anos_-_a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "SEMSA - MAPA ESTRATÉGIAS SAÚDE DA FAMÍLIA (ESF ) ZONA URBANA - PRÓXIMOS 10 ANOS - A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/108/mapa_estrategias_saude_da_familia_esf__zona_urbana_-_proximos_10_anos_-_a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/109/mapa_conselhos_tutelares.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "SEMTRAS - MAPA CONSELHOS TUTELARES",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/109/mapa_conselhos_tutelares.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/110/mapa_localizacao_cras.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "SEMTRAS - MAPA LOCALIZAÇÃO CRAS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/110/mapa_localizacao_cras.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/111/area_portuaria.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "SMT - MAPA DE DELIMITAÇÃO DA ÁREA DO PORTO ORGANIZADO DE SANTARÉM",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/111/area_portuaria.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/112/desenvolvimento_turistico_a1.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "SEMTUR - DESENVOLVIMENTO TURISTICO A1",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/112/desenvolvimento_turistico_a1.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/113/mapa_pontos_turisticos_urbanos_-_a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "SEMTUR - MAPA PONTOS TURÍSTICOS URBANOS - A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/113/mapa_pontos_turisticos_urbanos_-_a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/114/mapa_rota_gastronomica-a0.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "SEMTUR - MAPA ROTA GASTRONÔMICA-A0",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/114/mapa_rota_gastronomica-a0.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/115/mapas_interesses_turisticos_a0_1.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "SEMTUR - MAPAS INTERESSES TURISTICOS A0 (1)",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/115/mapas_interesses_turisticos_a0_1.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/116/emenda_lom_029_2021_06_04_2021_pub_na_famep.pdf da norma Emenda a Lei Orgânica-MESA nº 29, de 06 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO DA EMENDA A LEI ORGÂNICA Nº 29, DE 06 DE ABRIL DE 2021 NO DIÁRIO OFICIAL DOS MUNICÍPIOS DO ESTADO DO PARÁ.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2021/116/emenda_lom_029_2021_06_04_2021_pub_na_famep.pdf",
+      "ano": 2021,
+      "norma": 2382
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/117/resolucao_n_001_2021_escola_do_legislativo_diario_ofical_19_05_2021.pdf da norma Resolução-MESA nº 1, de 19 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO Nº 001/2021, DE 19 DE MAIO DE 2021 CRIA A ESCOLA DO LEGISLATIVO DA CÂMARA MUNICIPAL DE SANTARÉM/PA, E DÁ OUTRAS PROVIDÊNCIAS. \r\nPublicação FAMEP",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2021/117/resolucao_n_001_2021_escola_do_legislativo_diario_ofical_19_05_2021.pdf",
+      "ano": 2021,
+      "norma": 2384
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/119/dec_leg_003_2019_833_francisco_altera_dec_leg_002_2019_herois_do_tapajos.pdf da norma Decreto Legislativo-MESA nº 2, de 27 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "ALTERA DECRETO LEGISLATIVO Nº 002/2019 QUE DIPÕE SOBRE A CRIAÇÃO DA MEDALHA HERÓIS DO TAPAJÓS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2019/119/dec_leg_003_2019_833_francisco_altera_dec_leg_002_2019_herois_do_tapajos.pdf",
+      "ano": 2019,
+      "norma": 2442
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/120/ppa_de_stm_p_o_periodo_de_2022_a_2025_e_anexos_1_e_2.pdf da norma Lei-PMS nº 21.447, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS 01 FONTES DE FINANCIAMENTO E ANEXO 2 METAS E PROGRAMAS SEGUNDO A AREA DE ATUAÇÃO PPA 2022 A 2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2021/120/ppa_de_stm_p_o_periodo_de_2022_a_2025_e_anexos_1_e_2.pdf",
+      "ano": 2021,
+      "norma": 3408
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/121/anexos_da_lei_n_21_455_de_24_12_2021_pref_descricao_de_cargos_e_atribuicoes.pdf da norma Lei-PMS nº 21.455, de 24 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DA LEI N 21 455 DE 24 12 2021 PREFEITURA DESCRIÇÃO DE CARGOS E ATRIBUIÇÕES",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2021/121/anexos_da_lei_n_21_455_de_24_12_2021_pref_descricao_de_cargos_e_atribuicoes.pdf",
+      "ano": 2021,
+      "norma": 3411
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/122/errata_a_lei_n_21_592_de_14_07_2022_prorefis_2022.pdf da norma Lei-PMS nº 21.592, de 14 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "ERRATA À LEI Nº 21.592, DE 14 DE JULHO DE 2022.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/122/errata_a_lei_n_21_592_de_14_07_2022_prorefis_2022.pdf",
+      "ano": 2022,
+      "norma": 3663
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/123/decreto_002_2022_de_10_10_2022_mesa_of_p_pref_11_10_2022.pdf da norma Decreto Legislativo-MESA nº 2, de 10 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "OF 2.594/22-GP/DL PARA PREFEITURA",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/123/decreto_002_2022_de_10_10_2022_mesa_of_p_pref_11_10_2022.pdf",
+      "ano": 2022,
+      "norma": 3733
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/124/proj_dec_leg_004_2022_grupo_inova_juntos_p_pref_convite_miss_tec_portugal_31_10_2022.pdf da norma Decreto Legislativo-MESA nº 4, de 09 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "O GRUPO INOVA JUNTOS CONVIDA O SENHOR PREFEITO MUNICIPAL DE SANATRÉM PARA UMA  MISSÃO TÉCNICA EM PORTUGAL, MO PERÍODO DE 19 A 24 DE NOVEMBRO DE 2022.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/124/proj_dec_leg_004_2022_grupo_inova_juntos_p_pref_convite_miss_tec_portugal_31_10_2022.pdf",
+      "ano": 2022,
+      "norma": 3825
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/125/proj_dec_leg_004_2022_pref_oficio_823__pref_encam_dec_leg_p_pres_da_cms_01_11_2022.pdf da norma Decreto Legislativo-MESA nº 4, de 09 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "PREFEITO ENCAMINHOU O DECRETO LEGISLATIVO Nº 004/2022 P PRES DA CMS EM 01 11 2022",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/125/proj_dec_leg_004_2022_pref_oficio_823__pref_encam_dec_leg_p_pres_da_cms_01_11_2022.pdf",
+      "ano": 2022,
+      "norma": 3825
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/126/proj_dec_leg_004_2022_pref_oficio_2833_leg_p_pref_encam_dec_leg_09_11_2022.pdf da norma Decreto Legislativo-MESA nº 4, de 09 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "LEGISLATIVO ENCAMINHA AO PREFEITO O DECRETO LEGISLATIVO Nº 004/2022 AO PREFEITO APROVADO E PROMULGADO PELA MESA DIRETORA EM 09/11/2022.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/126/proj_dec_leg_004_2022_pref_oficio_2833_leg_p_pref_encam_dec_leg_09_11_2022.pdf",
+      "ano": 2022,
+      "norma": 3825
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/127/resolucao_001_de_06_de_marco_2023_publicada_na_famep_em_10_03_2023.pdf da norma Resolução-MESA nº 1, de 06 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE O LIMITE FINANCEIRO MENSAL MÁXIMO E NÃO CUMULATIVO PARA PAGAMENTO DE DESPESA EXCLUSIVA COM PESSOAL DOS GABINETES DOS VEREADORES DA CÂMARA MUNICIPAL DE SANTARÉM. \r\nHOMOLOGADO E PUBLICADO PELA FAMEP EM: 10/03/2023",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/127/resolucao_001_de_06_de_marco_2023_publicada_na_famep_em_10_03_2023.pdf",
+      "ano": 2023,
+      "norma": 4929
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/128/lei_21.903_de_27_03_2023_promulgada_pelo_pres_da_cms_dispoe_sobre_a_implant_de_paines_solares_fotovoltaicos_nas_esc_pub_de_stm_homologada_pela_famep_em_28_03_2023.pdf da norma Lei-PMS nº 21.903, de 27 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A IMPLANTAÇÃO DE PAINEIS SOLARES FOTOVOLTAICOS NAS ESCOLAS PÚBLICAS DA REDE MUNICIPAL DE SANTARÉM.\r\nAUTOR: VEREADOR DR. CARLOS MARTINS\r\nNORMA PROMULGADA COM VETO TOTAL.DO EXECUTIVO MANTIDO",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/128/lei_21.903_de_27_03_2023_promulgada_pelo_pres_da_cms_dispoe_sobre_a_implant_de_paines_solares_fotovoltaicos_nas_esc_pub_de_stm_homologada_pela_famep_em_28_03_2023.pdf",
+      "ano": 2023,
+      "norma": 4955
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/129/lei_n_14_899_de_28_de_janeiro_de_1994_rju_serv_pub_santarem_compilado_25_08_2017.pdf da norma Lei nº 14.899, de 28 de janeiro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "LEI MUNICIPAL Nº 14.899, DE 28 DE JANEIRO DE 1994, Dispõe sobre o Regime Jurídico Único dos servidores Públicos Municipais de Santarém.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/1994/129/lei_n_14_899_de_28_de_janeiro_de_1994_rju_serv_pub_santarem_compilado_25_08_2017.pdf",
+      "ano": 1994,
+      "norma": 7
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/130/proj_lei_395_2022_ref_a_lei_mun_21_903_de_27_03_2023__memo_juridoc_p_leg_informando_acerca_de_ajuiz_de_acao_direto_de_insconti_nesta_lei_19_06_2023.pdf da norma Lei-PMS nº 21.903, de 27 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "A LEI Nº 21.903 SANCIONADA EM: 27/03/2023, DEPOIS DO MESMO SER NOTIFICADO PELO TRIBUNAL DE JUSTIÇA, POR AÇÃO DIRETA DE INCONSTITUCIONALIDADE, Nº 0807411-25.202338.14.0000, FOI ENCAMINHADA AO LEGISLATIVO, PARA FINS DE REGISTRO DA AÇÃO JUDICIAL",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/130/proj_lei_395_2022_ref_a_lei_mun_21_903_de_27_03_2023__memo_juridoc_p_leg_informando_acerca_de_ajuiz_de_acao_direto_de_insconti_nesta_lei_19_06_2023.pdf",
+      "ano": 2023,
+      "norma": 4955
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/131/4_proj_dec_leg_1226_2023_oficio_0427_pref_p_pres_cms_05_07_2023.pdf da norma Decreto Legislativo-MESA nº 1, de 27 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "OF 427/23-GAP/PMS ENCAMINHANDO PORTARIA DE VIAGEM DO PREFEITO.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/131/4_proj_dec_leg_1226_2023_oficio_0427_pref_p_pres_cms_05_07_2023.pdf",
+      "ano": 2023,
+      "norma": 4989
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/132/5_proj_dec_leg_1226_2023_portaria_491_pref_em_30_06_2023.pdf da norma Decreto Legislativo-MESA nº 1, de 27 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "PORTARIA 491/23-GAP/PMS SOBRE VIAGEM DO PREFEITO.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/132/5_proj_dec_leg_1226_2023_portaria_491_pref_em_30_06_2023.pdf",
+      "ano": 2023,
+      "norma": 4989
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/133/errata_da_lei_21.830_de_24_novembro_de_2022_proj_lei_98_2022_proc_158_2022.pdf da norma Lei-PMS nº 21.830, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA LEI N ° 21.830, DE 24 DE NOVEMBRO DE 2022. (SANCIONADA PELO PREFEITO)",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/133/errata_da_lei_21.830_de_24_novembro_de_2022_proj_lei_98_2022_proc_158_2022.pdf",
+      "ano": 2022,
+      "norma": 3870
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/134/errata_da_lei_21.830_de_24_novembro_de_2022_publicada_no_diario_oficial_dos_municipios_20_04_2023.pdf da norma Lei-PMS nº 21.830, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA LEI N ° 21.830, DE 24 DE NOVEMBRO DE 2022. (PUBLICADA NO DIÁRIO OFICIAL DOS MUNICÍPIOS-FAMEP)",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/134/errata_da_lei_21.830_de_24_novembro_de_2022_publicada_no_diario_oficial_dos_municipios_20_04_2023.pdf",
+      "ano": 2022,
+      "norma": 3870
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/135/dec_leg_002_2023_de_25_09_2023_mesa_decret_luto_de_03_dias_pelo_falec_do_ver_aguinaldo_famep_em_26_09_2023.pdf da norma Decreto Legislativo-MESA nº 2, de 25 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "DECRETA LUTO DE 03 DIAS PELO FALECIMENTO DO VEREADOR DA CÂMARA MUNICIPAL DE SANTARÉM O SR. AGUINALDO PROMISSÓRIA.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/135/dec_leg_002_2023_de_25_09_2023_mesa_decret_luto_de_03_dias_pelo_falec_do_ver_aguinaldo_famep_em_26_09_2023.pdf",
+      "ano": 2023,
+      "norma": 5019
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/136/lei_n_21_971_de_03_10_2023_pref_autoriz_o_exec_a_repass_recurs_receb_da_uni_p_fins_da_assist_financcomplm_trat_na_emend_parlam_127_2022_e_da_out_prov.pdf da norma Lei-PMS nº 21.971, de 03 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE O AUXÍLIO FINANCEIRO DA UNIÃO PARA COMPLEMENTAÇÃO DO PISO SALARIAL NACIONAL DOS ENFERMEIROS, TÉCNICOS E AUXILIARES DE ENFERMAGEM E PARTEIRA DA ÁREA DE SAÚDE PUBLICA REPASSADO A PREFEITURA MUNICIPAL DE SANTARÉM.\r\nPREF. STM",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/136/lei_n_21_971_de_03_10_2023_pref_autoriz_o_exec_a_repass_recurs_receb_da_uni_p_fins_da_assist_financcomplm_trat_na_emend_parlam_127_2022_e_da_out_prov.pdf",
+      "ano": 2023,
+      "norma": 5031
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/137/1_proj_dec_leg_3261_2023_mesa_diretora_autor_o_pref_a_viajar_p_exterior_no_period_de_20_a_28_10_2023.pdf da norma Decreto Legislativo-MESA nº 3, de 09 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "REVOGA INTEGRALMENTE O DECRETO LEGISLATIVO Nº 003/2023\r\nART. 3º",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/137/1_proj_dec_leg_3261_2023_mesa_diretora_autor_o_pref_a_viajar_p_exterior_no_period_de_20_a_28_10_2023.pdf",
+      "ano": 2023,
+      "norma": 5032
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/138/dec_leg_n_004_2023_mesa_diretora_autor_o_pref_de_stm_a_viajar_p_o_exterior_no_period_de_20_ate_28_10_2023.pdf da norma Decreto Legislativo-MESA nº 4, de 18 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "DECRETO LEGISLATIVO N° 004/2023 DE 18/10/2023- AUTORIZA O PREFEITO MUNICIPAL DE SANTARÉM A VIAJAR PARA O EXTERIOR, NO PERÍODO DE 20 A 28 DE OUTUBRO DE 2023. AUTORIA: MESA DIRETORA.\r\nHOMOLOGADO PELA FAMEP. EM 20/10/2023.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/138/dec_leg_n_004_2023_mesa_diretora_autor_o_pref_de_stm_a_viajar_p_o_exterior_no_period_de_20_ate_28_10_2023.pdf",
+      "ano": 2023,
+      "norma": 5034
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/139/resolucao_004_2023_de_25_de_outubro_de_2023_verba_de_gabinete_dos_vereadores_promulgada__pela_mesa_diretora__25_10_2023.pdf da norma Resolução nº 6, de 25 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE O LIMITE FINANCEIRO PARA O CUSTEIO DE PESSOAL DOS GABINETES DOS VEREADORES E DÁ OUTRAS PROVIDÊNCIAS.\r\nAUTORIA: MESA DIRETORA.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/139/resolucao_004_2023_de_25_de_outubro_de_2023_verba_de_gabinete_dos_vereadores_promulgada__pela_mesa_diretora__25_10_2023.pdf",
+      "ano": 2023,
+      "norma": 5046
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/140/resolucao_005_2023_de_20_de_novembro_de_2023_instit_na_cms_sess_solene_sob_a_campanha_da_fraternidad__a_ser_realizada_no_period_da_quaresma_homolog_famep_27_11_2023.pdf da norma Resolução-MESA nº 5, de 20 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI NO ÂMBITO DO PODER LEGISLATIVO SESSÃO SOLENE SOBRE A CAMPANHA DA FRATERNIDADE A SER REALIZADA NO PERÍODO DA QUARESMA. AUTORIA: VEREADOR DR. CARLOS MARTINS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/140/resolucao_005_2023_de_20_de_novembro_de_2023_instit_na_cms_sess_solene_sob_a_campanha_da_fraternidad__a_ser_realizada_no_period_da_quaresma_homolog_famep_27_11_2023.pdf",
+      "ano": 2023,
+      "norma": 5057
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/141/anexo_i_da_lei_22063_de_12_01_2024.pdf da norma Lei-PMS nº 22.063, de 12 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/141/anexo_i_da_lei_22063_de_12_01_2024.pdf",
+      "ano": 2024,
+      "norma": 5168
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/142/resolucao_n_001_de_13_03_2024_mesa_diretora_disp_suprimento_de_fundos_p_cms_honolog_pela_famep.pdf da norma Resolução-MESA nº 1, de 13 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO N° 001/2024 DISPÕE DE SUPRIMENTOS  DE FUNDOS PARA CÂMARA MUNICIPAL DE SANTARÉM PÁ- HOMOLOGADA PELA FAMEP",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/142/resolucao_n_001_de_13_03_2024_mesa_diretora_disp_suprimento_de_fundos_p_cms_honolog_pela_famep.pdf",
+      "ano": 2024,
+      "norma": 5232
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/143/errata_a_lei_de_terras_n_22_024_de_12_12_2023.pdf da norma Lei-PMS nº 22.024, de 12 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/143/errata_a_lei_de_terras_n_22_024_de_12_12_2023.pdf",
+      "ano": 2023,
+      "norma": 5131
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/144/resolucao_n_002_de_15_04_2024_2024_regulam_a_lei_n_14_129_que_dispo_sobre_o_gov_digital_em_stm_e_da_out_prov_ass_pela_mesa_diretora.pdf da norma Resolução-MESA nº 2, de 15 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "REGULAMENTA LEI FEDERAL N° 14.129/2021, QUE DISPÕE SOBRE O GOVERNO DIGITAL NO ÂMBITO DA CÂMARA MUNICIPAL DE SANTARÉM E DÁ OUTRAS PROVIDÊNCIAS. AUTORIA: MESA DIRETORA.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/144/resolucao_n_002_de_15_04_2024_2024_regulam_a_lei_n_14_129_que_dispo_sobre_o_gov_digital_em_stm_e_da_out_prov_ass_pela_mesa_diretora.pdf",
+      "ano": 2024,
+      "norma": 5245
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/145/dec_001_2024_proc_1587_2024_processo_tre_pa_01_07_2024.pdf da norma Decreto Legislativo-MESA nº 1, de 05 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "O DECRETO LEGISLATIVO Nº 0001/2024 FOI ENCAMINHADO AO TRE-PA EM 25 DE JUNHO DE 2024, EM OBSERVÂNCIA DO PRAZO INDICADO NO ART. 14 §12, DA CF/88. AUTUAÇÃO DO EXPEDIENTE SOB Nº 0600142-19.2024.6.14.0000, QUE TRAMITA EM AUTOS ELETRÔNICOS NA PLATAFORMA PJ",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/145/dec_001_2024_proc_1587_2024_processo_tre_pa_01_07_2024.pdf",
+      "ano": 2024,
+      "norma": 5317
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/146/dec_leg_n_008_2024_mesa_diretora_autor_o_pref_a_viajar_exterior_no_periodo_de_07_a_10_08_2024_homologado_pela_famep_em_07_08_2024.pdf da norma Decreto Legislativo-MESA nº 8, de 05 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "AUTORIZA O PREFEITO MUNICIPAL DE SANTARÉM A VIAJAR PARA O EXTERIOR, NO PERÍODO DE 07 A 10 DE AGOSTO DE 2024. AUTORIA: MESA DIRETORA. HOMOLOGADO PELA FAMEP EM 07 08 2024",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/146/dec_leg_n_008_2024_mesa_diretora_autor_o_pref_a_viajar_exterior_no_periodo_de_07_a_10_08_2024_homologado_pela_famep_em_07_08_2024.pdf",
+      "ano": 2024,
+      "norma": 5388
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/147/07._anexo_vii_-_mapa_do_ordenamento_da_orla_fluvial_plano_diretor_2018_localizacao_a1.pdf da norma Lei-PMS nº 20.534, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VII - MAPA DO ORDENAMENTO DA ORLA FLUVIAL DE SANTARÉM PARÁ",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2018/147/07._anexo_vii_-_mapa_do_ordenamento_da_orla_fluvial_plano_diretor_2018_localizacao_a1.pdf",
+      "ano": 2018,
+      "norma": 1610
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/148/lei_22_316_de_25_de_outubro_de_2024_oficio_2803_2024_da_cms_para_pms_em_29_102024.pdf da norma Lei-PMS nº 22.316, de 25 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Silvio dos Santos Neto",
+                [
+                  "2024-10-29T09:25:24-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "OFÍCIO Nº 2.803/2024-GP/DL Em, 29 de outubro de 2024.\r\nEncaminha ao Senhor prefeito, para conhecimento e as providências necessárias, a Lei nº 22.316, de 25 de outubro de 2024, promulgada por este Poder Legislativo.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/148/lei_22_316_de_25_de_outubro_de_2024_oficio_2803_2024_da_cms_para_pms_em_29_102024.pdf",
+      "ano": 2024,
+      "norma": 5443
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/149/lei_22_050_2023_loa_anexos_demonstrativos_da_receita_e_despesa_seg_categ_econom.pdf da norma Lei-PMS nº 22.050, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "LEI 22 050 2023 LOA ANEXOS DEMONSTRATIVOS DA RECEITA E DESPESA SEG CATEG ECONOM",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/149/lei_22_050_2023_loa_anexos_demonstrativos_da_receita_e_despesa_seg_categ_econom.pdf",
+      "ano": 2023,
+      "norma": 5157
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/150/resolucao_n_004_de_10_12_2024_altera_regimento_interno.pdf da norma Resolução-MESA nº 4, de 10 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Carlos Eduardo Cardoso Martins",
+                [
+                  "2024-12-13T13:43:25-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ],
+              [
+                "Maria Albanice Leal Dias",
+                [
+                  "2024-12-13T13:40:51-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ],
+              [
+                "Silvio dos Santos Neto",
+                [
+                  "2024-12-13T13:36:45-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Resolução n° 004 de 2024 - Texto na formatação CMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/150/resolucao_n_004_de_10_12_2024_altera_regimento_interno.pdf",
+      "ano": 2024,
+      "norma": 5514
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/151/lei_22.352_de_27_dez_2024_loa_2025_anexos_compressed.pdf da norma Lei-PMS nº 22.352, de 27 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DA LOA 2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2024/151/lei_22.352_de_27_dez_2024_loa_2025_anexos_compressed.pdf",
+      "ano": 2024,
+      "norma": 5526
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/152/res_001_de_24_de_fev_de_2025_altera_o_art._91_sessoes_ord_seg_e_ter.pdf da norma Resolução nº 1, de 24 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO FORMATAÇÃO CÂMARA",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/152/res_001_de_24_de_fev_de_2025_altera_o_art._91_sessoes_ord_seg_e_ter.pdf",
+      "ano": 2025,
+      "norma": 5660
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/153/of_pref_p_pres_cms_encaminha_lei_22_479_e_22_480_de_2025.pdf da norma Lei-PMS nº 22.480, de 01 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "OF PREF P PRES CMS ENCAMINHA 22 480 DE 2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/153/of_pref_p_pres_cms_encaminha_lei_22_479_e_22_480_de_2025.pdf",
+      "ano": 2025,
+      "norma": 5667
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/154/of_pref_p_pres_cms_encaminha_lei_22_479_e_22_480_de_2025.pdf da norma Lei-PMS nº 22.479, de 01 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "OF PREF P PRES CMS ENCAMINHA LEI 22 479 DE 2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/154/of_pref_p_pres_cms_encaminha_lei_22_479_e_22_480_de_2025.pdf",
+      "ano": 2025,
+      "norma": 5666
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/155/emenda_a_lei_organica_de_santarem_33_de_2025_de_22_09_2025_publicada_em_26_09_2025_homologada_no_diario_oficial__famep.pdf da norma Emenda a Lei Orgânica nº 33, de 22 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "SANTARÉM 33 DE 2025 DE 22 09 2025 PUBLICADA EM 26 09 2025 HOMOLOGADA NO DIÁRIO OFICIAL  FAMEP",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/155/emenda_a_lei_organica_de_santarem_33_de_2025_de_22_09_2025_publicada_em_26_09_2025_homologada_no_diario_oficial__famep.pdf",
+      "ano": 2025,
+      "norma": 5843
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/156/lei_22839_26_12_2025_of_3215_2025.pdf da norma Lei-PMS nº 22.839, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "OF ENCAM 3215/2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/156/lei_22839_26_12_2025_of_3215_2025.pdf",
+      "ano": 2025,
+      "norma": 6055
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/157/lei_22840_26_12_2025_of_3212_2025.pdf da norma Lei-PMS nº 22.840, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "OF ENCAM 3212/2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/157/lei_22840_26_12_2025_of_3212_2025.pdf",
+      "ano": 2025,
+      "norma": 6058
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/158/lei_22833_19_12_2025_of_3182_2025.pdf da norma Lei-PMS nº 22.833, de 19 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "OF ENCAM 3182/2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/158/lei_22833_19_12_2025_of_3182_2025.pdf",
+      "ano": 2025,
+      "norma": 6057
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/159/lei_22841_26_12_2025of_3213_2025.pdf da norma Lei-PMS nº 22.841, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "OF ENCAM 3213/2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/159/lei_22841_26_12_2025of_3213_2025.pdf",
+      "ano": 2025,
+      "norma": 6059
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/160/lei_22842_29_12_2025_of_3223_2025.pdf da norma Lei-PMS nº 22.842, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "OF ENCAM 3223/2025",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/160/lei_22842_29_12_2025_of_3223_2025.pdf",
+      "ano": 2025,
+      "norma": 6061
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/161/lei_22843_08_01_2026_of_045_2026.pdf da norma Lei-PMS nº 22.843, de 08 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "OF ENCAM 045/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/161/lei_22843_08_01_2026_of_045_2026.pdf",
+      "ano": 2026,
+      "norma": 6062
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/162/lei_22844_13_01_2026_of_079_2026.pdf da norma Lei-PMS nº 22.844, de 13 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "OF ENCAM 079/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/162/lei_22844_13_01_2026_of_079_2026.pdf",
+      "ano": 2026,
+      "norma": 6049
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/163/memo_012_2026_2a_com_proj_p_jur_proj_lei_5_6_8_10_14_17_de_2026_proj_lei_comp_1982_2025_em_11_02_2026.pdf da norma Lei Complementar-PMS nº 13, de 23 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "MEMO 012/2026- 2ª COM",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2022/163/memo_012_2026_2a_com_proj_p_jur_proj_lei_5_6_8_10_14_17_de_2026_proj_lei_comp_1982_2025_em_11_02_2026.pdf",
+      "ano": 2022,
+      "norma": 4003
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/164/lei_n_22_890_de_27_02_2026_bairro_jua_of_470_2026_gab_pms_lei_22.890__em_02_03_2026.pdf da norma Lei nº 22.890, de 27 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "OF 470/2026 GAP/PMS EM 02/03/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/164/lei_n_22_890_de_27_02_2026_bairro_jua_of_470_2026_gab_pms_lei_22.890__em_02_03_2026.pdf",
+      "ano": 2026,
+      "norma": 6063
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/165/of_530_2026_30_milhoes_pms_p_jander_ilson__em_10_03_2026.pdf da norma Lei nº 22.891, de 10 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "OF 530/2026 GAP/PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/165/of_530_2026_30_milhoes_pms_p_jander_ilson__em_10_03_2026.pdf",
+      "ano": 2026,
+      "norma": 6109
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/166/of_531_2026_16_milhoes_pms_p_jander_ilson_em_10_03_2026.pdf da norma Lei nº 22.892, de 10 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "OF 531/2026 GAP/PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/166/of_531_2026_16_milhoes_pms_p_jander_ilson_em_10_03_2026.pdf",
+      "ano": 2026,
+      "norma": 6110
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/167/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.847, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/167/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6065
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/168/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.846, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/168/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6064
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/169/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.845, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/169/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6066
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/170/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.850, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/170/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6069
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/171/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.849, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/171/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6068
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/172/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.848, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/172/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6067
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/173/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.851, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/173/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6070
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/174/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.852, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/174/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6071
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/175/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.853, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/175/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6072
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/176/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.854, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/176/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6073
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/177/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.855, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/177/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6074
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/178/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.856, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/178/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6075
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/179/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.857, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "OF 173/2026 GAP/PMS EM 27/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/179/of_173_2026_leis_22.845_a_22.857_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6076
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/180/of_184_2026_leis_22.858_a_22.889_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.858, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/180/of_184_2026_leis_22.858_a_22.889_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6077
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/181/of_184_2026_leis_22.858_a_22.889_de_23_de_janeiro_de_2026.pdf da norma Lei nº 22.859, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/181/of_184_2026_leis_22.858_a_22.889_de_23_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6078
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/182/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.860, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/182/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6079
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/183/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.861, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/183/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6080
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/184/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.862, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/184/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6081
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/185/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.863, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/185/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6082
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/186/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.864, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/186/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6083
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/187/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.865, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/187/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6084
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/188/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.866, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/188/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6085
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/189/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.867, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/189/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6086
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/190/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.868, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/190/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6087
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/191/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.869, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/191/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6088
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/192/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.870, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/192/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6089
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/193/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.871, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/193/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6090
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/194/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.872, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/194/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6091
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/195/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.873, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/195/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6092
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/196/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.874, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/196/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6093
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/197/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.875, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/197/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6094
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/198/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.876, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/198/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6095
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/199/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.877, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/199/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6096
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/200/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.878, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/200/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6097
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/201/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.879, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/201/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6098
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/202/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.880, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/202/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6099
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/203/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.881, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/203/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6100
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/204/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.882, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/204/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6101
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/205/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.883, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/205/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6102
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/206/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.884, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/206/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6103
+    },
+    {
+      "id": 207,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/207/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.885, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/207",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/207/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6104
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/208/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.886, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/208/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6105
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/209/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.887, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/209/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6106
+    },
+    {
+      "id": 210,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/210/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.889, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/210",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/210/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6108
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/211/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf da norma Lei nº 22.888, de 23 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "OF 184/2026 GAP/PMS EM 28/01/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/211/of_184_2026_leis_22.858_a_22.889_de_28_de_janeiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6107
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/212/oficio_593_2026_proj_de_lei_gran_orient__pms.pdf da norma Lei nº 22.894, de 16 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "OF 593/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/212/oficio_593_2026_proj_de_lei_gran_orient__pms.pdf",
+      "ano": 2026,
+      "norma": 6111
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/213/oficio_593_2026_proj_de_lei_gran_orient__pms.pdf da norma Lei nº 22.893, de 16 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "OF 593/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/213/oficio_593_2026_proj_de_lei_gran_orient__pms.pdf",
+      "ano": 2026,
+      "norma": 6112
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/215/resolucao_no_002_de_2026_verba_de_gabinte.pdf da norma Resolução nº 2, de 30 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jander Ilson Rego Pereira",
+                [
+                  "2026-04-01T11:46:18-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Joziel Marques Colares",
+                [
+                  "2026-04-01T11:53:17-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Maria Albanice Leal Dias",
+                [
+                  "2026-04-01T12:43:41-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "RESOLUÇÃO 002/2026 - VERBA DE GABINETE",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/215/resolucao_no_002_de_2026_verba_de_gabinte.pdf",
+      "ano": 2026,
+      "norma": 6114
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/216/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_1.pdf da norma Lei-PMS nº 22.840, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "LEI 22840 26 12 2025 ORÇAMENTO ANUAL, REC FIXA E DESP DO MUN P 2026 ANEXO 1",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/216/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_1.pdf",
+      "ano": 2025,
+      "norma": 6058
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/217/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_2.pdf da norma Lei-PMS nº 22.840, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {},
+      "assunto_anexo": "LEI 22840 26 12 2025 ORÇAMENTO ANUAL, REC FIXA E DESP DO MUN P 2026 ANEXO 2",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/217/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_2.pdf",
+      "ano": 2025,
+      "norma": 6058
+    },
+    {
+      "id": 218,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/218/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_3.pdf da norma Lei-PMS nº 22.840, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/218",
+      "metadata": {},
+      "assunto_anexo": "LEI 22840 26 12 2025 ORÇAMENTO ANUAL, REC FIXA E DESP DO MUN P 2026 ANEXO 3",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/218/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_3.pdf",
+      "ano": 2025,
+      "norma": 6058
+    },
+    {
+      "id": 219,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/219/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_4.pdf da norma Lei-PMS nº 22.840, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/219",
+      "metadata": {},
+      "assunto_anexo": "LEI 22840 26 12 2025 ORÇAMENTO ANUAL, REC FIXA E DESP DO MUN P 2026 ANEXO 4",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/219/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_4.pdf",
+      "ano": 2025,
+      "norma": 6058
+    },
+    {
+      "id": 220,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/220/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_5.pdf da norma Lei-PMS nº 22.840, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/220",
+      "metadata": {},
+      "assunto_anexo": "LEI 22840 26 12 2025 ORÇAMENTO ANUAL, REC FIXA E DESP DO MUN P 2026 ANEXO 5",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/220/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_5.pdf",
+      "ano": 2025,
+      "norma": 6058
+    },
+    {
+      "id": 221,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/221/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_6.pdf da norma Lei-PMS nº 22.840, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/221",
+      "metadata": {},
+      "assunto_anexo": "LEI 22840 26 12 2025 ORÇAMENTO ANUAL, REC FIXA E DESP DO MUN P 2026 ANEXO 6",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2025/221/lei_22840_26_12_2025_orcamento_anual_rec_fixa_e_desp_do_mun_p_2026_anexo_6.pdf",
+      "ano": 2025,
+      "norma": 6058
+    },
+    {
+      "id": 222,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/222/of_lei.pdf da norma Lei-PMS nº 22.911, de 13 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/222",
+      "metadata": {},
+      "assunto_anexo": "OF LEI 849/2026",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/222/of_lei.pdf",
+      "ano": 2026,
+      "norma": 6115
+    },
+    {
+      "id": 223,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/223/of_865_2026_pms_p_jander_ilson_lei_no22.912_de_2026.pdf da norma Lei-PMS nº 22.912, de 13 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/223",
+      "metadata": {},
+      "assunto_anexo": "OF 865/2026 GAP/PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/223/of_865_2026_pms_p_jander_ilson_lei_no22.912_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6116
+    },
+    {
+      "id": 224,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/224/of_886_2026_gap_pms_lei_22.913_de_15_04_2026.pdf da norma Lei-PMS nº 22.913, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/224",
+      "metadata": {},
+      "assunto_anexo": "OF Nº 886/2026 - PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/224/of_886_2026_gap_pms_lei_22.913_de_15_04_2026.pdf",
+      "ano": 2026,
+      "norma": 6117
+    },
+    {
+      "id": 225,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/225/of_153_2026_gap_pms_lei_22.914__de_17_04_2026_autismo.pdf da norma Lei-PMS nº 22.914, de 17 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/225",
+      "metadata": {},
+      "assunto_anexo": "OF Nº 153/2026 - GAP/PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/225/of_153_2026_gap_pms_lei_22.914__de_17_04_2026_autismo.pdf",
+      "ano": 2026,
+      "norma": 6118
+    },
+    {
+      "id": 226,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/226/lei_n_22_961_14_de_maio_2026_camara_publicada_no_diario_oficial_famep_em_01_06_2026.pdf da norma Lei-PMS nº 22.961, de 14 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/226",
+      "metadata": {},
+      "assunto_anexo": "LEI N° 22.961/2026, de 14 de maio de 2026, publicada no Diário Oficial Famep em 01 06 2026.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/226/lei_n_22_961_14_de_maio_2026_camara_publicada_no_diario_oficial_famep_em_01_06_2026.pdf",
+      "ano": 2026,
+      "norma": 6130
+    },
+    {
+      "id": 227,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/227/lei_no_22.965_2026_of._no_1.147_2026_-_pms.pdf da norma Lei-PMS nº 22.965, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/227",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/227/lei_no_22.965_2026_of._no_1.147_2026_-_pms.pdf",
+      "ano": 2026,
+      "norma": 6170
+    },
+    {
+      "id": 228,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/228/lei_no_22.966_2026_of._no_1.163_2026_-_pms.pdf da norma Lei-PMS nº 22.966, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/228",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/228/lei_no_22.966_2026_of._no_1.163_2026_-_pms.pdf",
+      "ano": 2026,
+      "norma": 6171
+    },
+    {
+      "id": 229,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/229/of_no1231_2026_proj_lei_de_terras_008_de_2026_em_23_06_2026.pdf da norma Lei nº 22.967, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/229",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/229/of_no1231_2026_proj_lei_de_terras_008_de_2026_em_23_06_2026.pdf",
+      "ano": 2026,
+      "norma": 6172
+    },
+    {
+      "id": 230,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/230/of_no1282_2026_lei_22.992_26_06_2026.pdf da norma Lei nº 22.992, de 26 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/230",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.282/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/230/of_no1282_2026_lei_22.992_26_06_2026.pdf",
+      "ano": 2026,
+      "norma": 6173
+    },
+    {
+      "id": 231,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/231/of._no_1.231_2026_-_pms..pdf da norma Lei nº 22.969, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/231",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231 2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/231/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6174
+    },
+    {
+      "id": 232,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/232/of._no_1.231_2026_-_pms..pdf da norma Lei nº 22.968, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/232",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231 2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/232/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6175
+    },
+    {
+      "id": 233,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/233/of._no_1.231_2026_-_pms..pdf da norma Lei nº 22.971, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/233",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231 2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/233/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6176
+    },
+    {
+      "id": 234,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/234/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.990, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/234",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/234/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6196
+    },
+    {
+      "id": 235,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/235/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.989, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/235",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/235/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6195
+    },
+    {
+      "id": 236,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/236/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.988, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/236",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/236/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6194
+    },
+    {
+      "id": 237,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/237/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.987, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/237",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/237/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6193
+    },
+    {
+      "id": 238,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/238/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.986, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/238",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/238/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6192
+    },
+    {
+      "id": 239,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/239/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.985, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/239",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/239/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6191
+    },
+    {
+      "id": 240,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/240/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.984, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/240",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/240/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6190
+    },
+    {
+      "id": 241,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/241/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.983, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/241",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/241/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6189
+    },
+    {
+      "id": 242,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/242/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.982, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/242",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/242/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6188
+    },
+    {
+      "id": 243,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/243/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.981, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/243",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/243/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6187
+    },
+    {
+      "id": 244,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/244/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.979, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/244",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/244/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6186
+    },
+    {
+      "id": 245,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/245/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.978, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/245",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/245/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6185
+    },
+    {
+      "id": 246,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/246/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.977, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/246",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/246/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6184
+    },
+    {
+      "id": 247,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/247/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.976, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/247",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/247/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6183
+    },
+    {
+      "id": 248,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/248/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.975, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/248",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/248/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6182
+    },
+    {
+      "id": 249,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/249/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.980, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/249",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/249/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6181
+    },
+    {
+      "id": 250,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/250/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.974, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/250",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/250/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6180
+    },
+    {
+      "id": 251,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/251/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.973, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/251",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/251/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6179
+    },
+    {
+      "id": 252,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/252/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.972, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/252",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/252/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6178
+    },
+    {
+      "id": 253,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/253/of._no_1.231_2026_-_pms..pdf da norma Lei-PMS nº 22.970, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/253",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.231/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/253/of._no_1.231_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6177
+    },
+    {
+      "id": 254,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/254/of_no1.571_2026_lei_23.031_pms_hospital_de_amor.pdf da norma Lei-PMS nº 23.031, de 31 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/254",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.571/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/254/of_no1.571_2026_lei_23.031_pms_hospital_de_amor.pdf",
+      "ano": 2026,
+      "norma": 6208
+    },
+    {
+      "id": 255,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/255/of_no1497_2026_lei_23.030_17_07_2026_orcamentarias_exerc_financ_2027.pdf da norma Lei-PMS nº 23.030, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/255",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.497/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/255/of_no1497_2026_lei_23.030_17_07_2026_orcamentarias_exerc_financ_2027.pdf",
+      "ano": 2026,
+      "norma": 6207
+    },
+    {
+      "id": 256,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/256/of_no1.461_2026_lei_23.007_16_07_2026_pms_feira_tapajos_negocios.pdf da norma Lei-PMS nº 23.007, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/256",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.461/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/256/of_no1.461_2026_lei_23.007_16_07_2026_pms_feira_tapajos_negocios.pdf",
+      "ano": 2026,
+      "norma": 6206
+    },
+    {
+      "id": 257,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/257/of_no1.460_2026_lei_23.006_17_07_2026_pms_festival_do_limao.pdf da norma Lei-PMS nº 23.006, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/257",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.460/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/257/of_no1.460_2026_lei_23.006_17_07_2026_pms_festival_do_limao.pdf",
+      "ano": 2026,
+      "norma": 6205
+    },
+    {
+      "id": 258,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/258/of_no1459_2026_lei_23.005_17_07_2026_calendario_of_eventos.pdf da norma Lei-PMS nº 23.005, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/258",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.459/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/258/of_no1459_2026_lei_23.005_17_07_2026_calendario_of_eventos.pdf",
+      "ano": 2026,
+      "norma": 6204
+    },
+    {
+      "id": 259,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/259/of_no1.458_2026_lei_23.004_17_07_2026_pms_microbacia_do_irura.pdf da norma Lei-PMS nº 23.004, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/259",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.458/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/259/of_no1.458_2026_lei_23.004_17_07_2026_pms_microbacia_do_irura.pdf",
+      "ano": 2026,
+      "norma": 6203
+    },
+    {
+      "id": 260,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/260/of_no1.457_2026_lei_23.003_17_07_2026_pms_bairro_bela_vista.pdf da norma Lei-PMS nº 23.003, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/260",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.457/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/260/of_no1.457_2026_lei_23.003_17_07_2026_pms_bairro_bela_vista.pdf",
+      "ano": 2026,
+      "norma": 6202
+    },
+    {
+      "id": 261,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/261/of_no1.445_2026_lei_23.002_16_07_2026_pms_bairro_bela_vista.pdf da norma Lei-PMS nº 23.002, de 16 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/261",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.445/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/261/of_no1.445_2026_lei_23.002_16_07_2026_pms_bairro_bela_vista.pdf",
+      "ano": 2026,
+      "norma": 6201
+    },
+    {
+      "id": 262,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/262/of_no1.408_2026_lei_no22.999_pms_cemei_no_bairro_jua.pdf da norma Lei-PMS nº 22.999, de 10 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/262",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.408/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/262/of_no1.408_2026_lei_no22.999_pms_cemei_no_bairro_jua.pdf",
+      "ano": 2026,
+      "norma": 6200
+    },
+    {
+      "id": 263,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/263/of_no1.407_2026_lei_no22.998_pms_esplanada_tapajos.pdf da norma Lei-PMS nº 22.998, de 10 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/263",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.407/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/263/of_no1.407_2026_lei_no22.998_pms_esplanada_tapajos.pdf",
+      "ano": 2026,
+      "norma": 6199
+    },
+    {
+      "id": 264,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/264/of_no1.398_2026_lei_no22.997_pms_nomeclatura_quad_poliesportiva.pdf da norma Lei-PMS nº 22.997, de 09 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/264",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.398/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/264/of_no1.398_2026_lei_no22.997_pms_nomeclatura_quad_poliesportiva.pdf",
+      "ano": 2026,
+      "norma": 6198
+    },
+    {
+      "id": 265,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/265/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.011, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/265",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/265/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6212
+    },
+    {
+      "id": 266,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/266/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.010, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/266",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/266/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6211
+    },
+    {
+      "id": 267,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/267/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.009, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/267",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/267/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6210
+    },
+    {
+      "id": 268,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/268/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.008, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/268",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/268/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6209
+    },
+    {
+      "id": 269,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/269/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.015, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/269",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/269/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6216
+    },
+    {
+      "id": 270,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/270/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.014, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/270",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/270/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6215
+    },
+    {
+      "id": 271,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/271/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.013, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/271",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/271/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6214
+    },
+    {
+      "id": 272,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/272/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.012, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/272",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/272/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6213
+    },
+    {
+      "id": 273,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/273/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.016, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/273",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/273/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6217
+    },
+    {
+      "id": 274,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/274/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.019, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/274",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/274/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6220
+    },
+    {
+      "id": 275,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/275/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.018, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/275",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/275/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6219
+    },
+    {
+      "id": 276,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/276/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.017, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/276",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/276/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6218
+    },
+    {
+      "id": 277,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/277/lei_de_terras_no_23.021_2026.pdf da norma Lei-PMS nº 23.021, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/277",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/277/lei_de_terras_no_23.021_2026.pdf",
+      "ano": 2026,
+      "norma": 6222
+    },
+    {
+      "id": 278,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/278/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.023, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/278",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/278/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6224
+    },
+    {
+      "id": 279,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/279/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.022, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/279",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/279/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6223
+    },
+    {
+      "id": 280,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/280/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.026, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/280",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/280/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6227
+    },
+    {
+      "id": 281,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/281/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.025, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/281",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/281/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6226
+    },
+    {
+      "id": 282,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/282/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.024, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/282",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/282/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6225
+    },
+    {
+      "id": 283,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/283/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.029, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/283",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/283/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6228
+    },
+    {
+      "id": 284,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/284/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.027, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/284",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/284/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6229
+    },
+    {
+      "id": 285,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/285/of._no_1.486_2026_-_pms..pdf da norma Lei-PMS nº 23.028, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/285",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.486/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/285/of._no_1.486_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6230
+    },
+    {
+      "id": 286,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/286/of._no_1.228_2026_-_gap_pms.pdf da norma Lei-PMS nº 22.991, de 19 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/286",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.228/2026 - GAB/PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/286/of._no_1.228_2026_-_gap_pms.pdf",
+      "ano": 2026,
+      "norma": 6231
+    },
+    {
+      "id": 287,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/287/of_no972_2026_lei_no22.962_de_15_de__maio_de_2026_plo_no215_de_2026.pdf da norma Lei-PMS nº 22.962, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/287",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 972/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/287/of_no972_2026_lei_no22.962_de_15_de__maio_de_2026_plo_no215_de_2026.pdf",
+      "ano": 2026,
+      "norma": 6233
+    },
+    {
+      "id": 288,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/288/of_no1.444_2026_lei_no23.001_de_16_julho_de_2026_plo_no2658_de_2022.pdf da norma Lei-PMS nº 23.001, de 16 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/288",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.444/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/288/of_no1.444_2026_lei_no23.001_de_16_julho_de_2026_plo_no2658_de_2022.pdf",
+      "ano": 2026,
+      "norma": 6234
+    },
+    {
+      "id": 289,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/289/lei_21_986_de_20_11_2023_pref_disp_sobre_contrat_de_pessoal_por_praz_determ_adi_0827877-41.2025.8.14.0000-1789571885207-72488-decisao.pdf da norma Lei-PMS nº 21.986, de 20 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/289",
+      "metadata": {},
+      "assunto_anexo": "ADI Nº 0827877-41.2025.8.14.0000 - TJ/PA, REFERENTE AO INCISO II, PARÁGRAFO ÚNICO DO ART. 2º DA LEI Nº  21.986/2023",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2023/289/lei_21_986_de_20_11_2023_pref_disp_sobre_contrat_de_pessoal_por_praz_determ_adi_0827877-41.2025.8.14.0000-1789571885207-72488-decisao.pdf",
+      "ano": 2023,
+      "norma": 5055
+    },
+    {
+      "id": 290,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/290/lei_organica_de_santarem_original_sem_emendas_de_05_04_1990_ouv_interlegis.pdf da norma Lei Orgânica nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/290",
+      "metadata": {},
+      "assunto_anexo": "LEI ORGÂNICA DO MUNICÍPIO DE SANTARÉM-PARÁ - PROMULGADA EM 05 DE ABRIL DE 1990.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/1990/290/lei_organica_de_santarem_original_sem_emendas_de_05_04_1990_ouv_interlegis.pdf",
+      "ano": 1990,
+      "norma": 132
+    },
+    {
+      "id": 291,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/291/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.099, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/291",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/291/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6269
+    },
+    {
+      "id": 292,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/292/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.098, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/292",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/292/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6271
+    },
+    {
+      "id": 293,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/293/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.097, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/293",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/293/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6272
+    },
+    {
+      "id": 294,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/294/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.063, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/294",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/294/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6274
+    },
+    {
+      "id": 295,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/295/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.091, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/295",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/295/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6275
+    },
+    {
+      "id": 296,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/296/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.068, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/296",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/296/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6276
+    },
+    {
+      "id": 297,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/297/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.073, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/297",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/297/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6277
+    },
+    {
+      "id": 298,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/298/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.084, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/298",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/298/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6278
+    },
+    {
+      "id": 299,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/299/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.092, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/299",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/299/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6279
+    },
+    {
+      "id": 300,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/300/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.089, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/300",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994 2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/300/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6280
+    },
+    {
+      "id": 301,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/301/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.088, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/301",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/301/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6281
+    },
+    {
+      "id": 302,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/302/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.062, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/302",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/302/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6282
+    },
+    {
+      "id": 303,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/303/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.100, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/303",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/303/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6283
+    },
+    {
+      "id": 304,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/304/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.087, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/304",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/304/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6284
+    },
+    {
+      "id": 305,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/305/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.061, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/305",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/305/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6285
+    },
+    {
+      "id": 306,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/306/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.072, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/306",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/306/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6286
+    },
+    {
+      "id": 307,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/307/lei_municipal_no_23.060_2026..pdf da norma Lei-PMS nº 23.061, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/307",
+      "metadata": {},
+      "assunto_anexo": "LEI MUNICIPAL Nº 23.060/2026.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/307/lei_municipal_no_23.060_2026..pdf",
+      "ano": 2026,
+      "norma": 6285
+    },
+    {
+      "id": 308,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/308/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.086, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/308",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/308/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6287
+    },
+    {
+      "id": 309,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/309/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.075, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/309",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/309/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6288
+    },
+    {
+      "id": 310,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/310/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.074, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/310",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/310/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6289
+    },
+    {
+      "id": 311,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/311/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.069, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/311",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/311/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6290
+    },
+    {
+      "id": 312,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/312/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.076, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/312",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/312/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6292
+    },
+    {
+      "id": 313,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/313/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.077, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/313",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/313/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6293
+    },
+    {
+      "id": 314,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/314/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.085, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/314",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/314/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6294
+    },
+    {
+      "id": 315,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/315/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.078, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/315",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/315/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6295
+    },
+    {
+      "id": 316,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/316/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.079, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/316",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/316/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6296
+    },
+    {
+      "id": 317,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/317/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.080, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/317",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/317/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6297
+    },
+    {
+      "id": 318,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/318/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.081, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/318",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/318/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6298
+    },
+    {
+      "id": 319,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/319/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.070, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/319",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/319/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6299
+    },
+    {
+      "id": 320,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/320/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.082, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/320",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 – PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/320/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6300
+    },
+    {
+      "id": 321,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/321/of._no_1.994_2026_-_pms_leis..pdf da norma Lei-PMS nº 23.083, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/321",
+      "metadata": {},
+      "assunto_anexo": "OF Nº1994/2026 PMS",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/321/of._no_1.994_2026_-_pms_leis..pdf",
+      "ano": 2026,
+      "norma": 6301
+    },
+    {
+      "id": 322,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/322/of._n_1.994_2026_-_pms..pdf da norma Lei-PMS nº 23.060, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/322",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 1.994/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/322/of._n_1.994_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6304
+    },
+    {
+      "id": 323,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/323/of._no_2015_2026_-_pms..pdf da norma Lei-PMS nº 23.101, de 23 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/323",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 2.015/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/323/of._no_2015_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6303
+    },
+    {
+      "id": 324,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/324/of._no_2015_2026_-_pms..pdf da norma Lei-PMS nº 23.102, de 23 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/324",
+      "metadata": {},
+      "assunto_anexo": "OF. Nº 2.015/2026 - PMS.",
+      "anexo_arquivo": "http://sapl.santarem.pa.leg.br/media/sapl/public/anexonormajuridica/2026/324/of._no_2015_2026_-_pms..pdf",
+      "ano": 2026,
+      "norma": 6302
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.santarem.pa.leg.br/136b4178db6201856f26b579aa27e4ff5f85a27afea7345996ae6fb81aa298df.json",
+      "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6697c7f1d03073d9245eacf88ece3e2991fe456609e03e9c2b7b81c89a6d64df",
+      "capturado_em": "2026-10-20T20:51:14.897644",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/136b4178db6201856f26b579aa27e4ff5f85a27afea7345996ae6fb81aa298df.json"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.santarem.pa.leg.br/8c9ea15e152c61850d937958b60f386a7ac6a7f34d1310fc7fb1f4296e048cd6.json",
+      "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "016219e34eadde0b08387da2ae7545fbf998755a70a82da59cc35bbaa26e9141",
+      "capturado_em": "2026-10-20T20:51:15.910341",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/8c9ea15e152c61850d937958b60f386a7ac6a7f34d1310fc7fb1f4296e048cd6.json"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.santarem.pa.leg.br/73a3ca243e73a918e3dbf4209cebf5402bfd85943e7fca11ab640e4bd8d69e2f.json",
+      "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "11ad628c8492ef1365827a4997ff00f3c023c98143c24167df33e30318ff5bf5",
+      "capturado_em": "2026-10-20T20:51:16.753865",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/73a3ca243e73a918e3dbf4209cebf5402bfd85943e7fca11ab640e4bd8d69e2f.json"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.santarem.pa.leg.br/2fefd83de4c0ae776eaa2258599594d43fa9f53b0f54b81da443e3fefb3905bf.json",
+      "url": "https://sapl.santarem.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "01e7376de95a402ced6022f0edee2e455c0cdfd213111c85e56456e562132857",
+      "capturado_em": "2026-10-20T20:51:17.297296",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.santarem.pa.leg.br/2fefd83de4c0ae776eaa2258599594d43fa9f53b0f54b81da443e3fefb3905bf.json"
+    }
+  ]
+}

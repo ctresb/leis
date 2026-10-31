@@ -1,0 +1,563 @@
+Dispõe sobre a planta genérica de valores, para lançamento e cobrança dos impostos imobiliários, disciplina fórmula de cálculo, estabelece parâmetros e classificação das edificações do município de Corbélia e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI COMPLEMENTAR
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Com fundamento na Constituição Federal de 1988, na Lei Complementar Federal nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), no Art. 14 da Lei Complementar Federal n º 101/2001 (LRF), no Inciso X do Art. 10 da Lei Federal nº 8429/1992 (LIA), e atos posteriores que a modificaram, e especialmente o Código Tributário Municipal, fica aprovada a Planta Genérica de Valores no âmbito do Município de Corbélia.
+
+
+I –
+
+os fatores de cálculo dos terrenos estão relacionados no Anexo I integrante desta Lei Complementar;
+
+
+II –
+
+os fatores de cálculo das edificações estão relacionados no Anexo II integrante desta Lei Complementar;
+
+
+III –
+
+as cartografias que compõem a Planta Genérica de Valores do Município são aquelas relacionadas no Anexo III integrante desta Lei Complementar.
+
+
+Art. 2º.
+
+Para efeitos de lançamento e cobrança do Imposto Sobre a Propriedade Predial e Territorial Urbana a apuração dos valores venais dos imóveis do Município de Corbélia será processada de acordo com as normas estabelecidas nesta Lei Complementar.
+
+
+#### CAPÍTULO II — DA APURAÇÃO DA BASE DE CÁLCULO
+
+
+##### Seção I — DO VALOR VENAL DO IMÓVEL
+
+
+Art. 3º.
+
+O valor venal dos imóveis corresponde ao resultado da soma dos valores venais das áreas edificada e não edificada.
+
+
+Parágrafo único
+
+Nos casos de condomínios edilícios, horizontais ou verticais, os valores venais serão calculados considerando-se as respectivas frações ideais dos terrenos e/ou das edificações.
+
+
+Art. 4º.
+
+O Valor Venal do Imóvel será determinado em função dos seguintes elementos, tomados em conjunto separadamente:
+
+
+I –
+
+características do terreno:
+
+
+a)
+
+área, localização e situação;
+
+
+b)
+
+topografia e pedologia.
+
+
+II –
+
+características da construção:
+
+
+a)
+
+área e estado de conservação;
+
+
+b)
+
+alinhamento e posição.
+
+
+III –
+
+características do mercado:
+
+
+a)
+
+preços correntes;
+
+
+b)
+
+custo de produção.
+
+
+Art. 5º.
+
+O valor do Imposto Territorial Urbano (IPTU) resultará na aplicação da seguinte fórmula de cálculo:
+
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="2"><p>IPTU = (VVI x ALQ)</p></td><td><p>VVI</p></td><td><p>Valor Venal do Imóvel</p></td></tr><tr><td><p>ALQ</p></td><td><p>Alíquota</p></td></tr></tbody></table>
+
+
+Art. 6º.
+
+O valor venal do imóvel resultará na aplicação da seguinte fórmula de cálculo:
+
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="4"><p>VVI = (VVT x FI) + VVE</p></td><td><p>VVI</p></td><td><p>Valor Venal do Imóvel</p></td></tr><tr><td><p>VVT</p></td><td><p>Valor Venal do Terreno</p></td></tr><tr><td><p>VVE</p></td><td><p>Valor Venal da Edificação</p></td></tr><tr><td><p>FI</p></td><td><p>Fração Ideal</p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="5"><p>FI = ALproporcional / ATL</p><p> </p><p> </p><p>ALproporcional = AE x AL / ATC</p></td><td><p>FI</p></td><td><p>Fração Ideal do Terreno</p></td></tr><tr><td><p>ATL</p></td><td><p>Área Total do Lote</p></td></tr><tr><td><p>AE</p></td><td><p>Área da Edificação</p></td></tr><tr><td><p>AL</p></td><td><p>Área do Lote</p></td></tr><tr><td><p>ATC</p></td><td><p>Área Total do Terreno Construída</p></td></tr></tbody></table>
+
+
+##### Seção II — DO VALOR VENAL DO TERRENO
+
+
+Art. 7º.
+
+Os valores unitários por metro quadrado dos terrenos localizados em cada uma das zonas fiscais são aqueles estabelecidos na Tabela II constante no Anexo I desta Lei Complementar.
+
+
+Art. 8º.
+
+Os valores venais do terreno (VVT) resultarão na aplicação da fórmula de cálculo:
+
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="4"><p>VVT = (ATT x VM²T) x FCT</p></td><td><p>VVT</p></td><td><p>Valor Venal do Terreno</p></td></tr><tr><td><p>ATT</p></td><td><p>Área Total do Terreno</p></td></tr><tr><td><p>VM²T</p></td><td><p>Valor do Metro Quadrado do Terreno</p></td></tr><tr><td><p>FCT</p></td><td><p>Fator de Correção do Terreno</p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="4"><p>FCT = (SIT x TOP x PED)</p></td><td><p>FCT</p></td><td><p>Fator de Correção do Terreno</p></td></tr><tr><td><p>TOP</p></td><td><p>Fator de Correção da Topografia</p></td></tr><tr><td><p>PED</p></td><td><p>Fator de Correção da Pedologia</p></td></tr><tr><td><p>SIT</p></td><td><p>Fator de Correção da Situação</p></td></tr></tbody></table>
+
+
+§ 1º
+
+O valor do metro quadrado do terreno (VM2T) será apurado de acordo com a face de quadra do imóvel as quais estão constantes na Tabela II do Anexo I, e sua respectiva classificação no Mapa constante no Anexo II desta Lei Complementar.
+
+
+§ 2º
+
+O Coeficiente do Fator de Correção Situação (SIT) será obtido conforme estabelecido na Tabela I do Anexo I desta Lei Complementar.
+
+
+§ 3º
+
+O Coeficiente do Fator de Correção Topografia (TOP) será obtido conforme estabelecido na Tabela I do Anexo I desta Lei Complementar.
+
+
+§ 4º
+
+O Coeficiente do Fator de Correção Pedologia (PED) será obtido conforme estabelecido na Tabela I do Anexo I desta Lei Complementar.
+
+
+Art. 9º.
+
+Os imóveis sujeitos ao Imposto Predial e Territorial Urbano (IPTU) não integrantes da Planta Genérica de Valores terão a apuração de seu valor venal territorial, para fins tributários, realizada pela Departamento Municipal de Administração e Finanças, após parecer fundamentado da Comissão de Avaliação Imobiliária.
+
+
+##### Seção III — DO VALOR VENAL DAS EDIFICAÇÕES
+
+
+Art. 10.
+
+Os valores venais da edificação (VVE) resultarão na aplicação da fórmula de cálculo abaixo definida:
+
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="5"><p>VVE = ((AE x VM²TE x COF) x CAT) x CONS</p></td><td><p>VVE</p></td><td><p>Valor Venal da Edificação</p></td></tr><tr><td><p>AE</p></td><td><p>Área Construída da Edificação</p></td></tr><tr><td><p>CONS</p></td><td><p>Coeficiente do Estado de Conservação da Edificação</p></td></tr><tr><td><p>VM²TE</p></td><td><p>Valor do Metro Quadrado conforme a classificação do Tipo da Edificação</p></td></tr><tr><td><p>CAT</p></td><td><p>Categoria da Edificação conforme classificação de pontuação do BIC</p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="3"><p>COF = (EST x LOC)</p></td><td><p>COF</p></td><td><p>Coeficiente de ajuste do VM² do Tipo da Edificação</p></td></tr><tr><td><p>EST</p></td><td><p>Coeficiente da Estrutura</p></td></tr><tr><td><p>LOC</p></td><td><p>Coeficiente da Localização</p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p><strong>Fórmula</strong></p></td><td><p><strong>Fator</strong></p></td><td><p><strong>Descrição</strong></p></td></tr><tr><td rowspan="8"><p>CAT = (EST + INST.ELE + PIS + COB + FOR + INST.SAN + REVEST) / 100</p></td><td><p>CAT</p></td><td><p>Categoria da Edificação conforme classificação de pontuação do BIC</p></td></tr><tr><td><p>EST</p></td><td><p>Pontuação da Estrutura</p></td></tr><tr><td><p>INST.ELE</p></td><td><p>Pontuação da Instalação Elétrica</p></td></tr><tr><td><p>PIS</p></td><td><p>Pontuação do Piso</p></td></tr><tr><td><p>COB</p></td><td><p>Pontuação da Cobertura</p></td></tr><tr><td><p>FOR</p></td><td><p>Pontuação do Forro</p></td></tr><tr><td><p>INST.SAN</p></td><td><p>Pontuação da Instalação Sanitária</p></td></tr><tr><td><p>REVEST</p></td><td><p>Pontuação do Revestimento</p></td></tr></tbody></table>
+
+
+§ 1º
+
+Os tipos e padrões das edificações serão classificados conforme estabelecido na Tabela I do Anexo II desta Lei Complementar e o valor do metro quadrado para cada um dos tipos será obtido através de órgãos técnicos ligados a construção civil, tomando-se por base o valor máximo do metro quadrado de cada tipo de edificação em vigor para o Município ou para a região.
+
+
+§ 2º
+
+O valor máximo referido no parágrafo anterior será corrigido de acordo com as características de cada edificação, levando-se em consideração a pontuação alcançada em conformidade com a Tabela III constante no Anexo II desta Lei Complementar.
+
+
+§ 3º
+
+O valor do metro quadrado da edificação (VM2TE) será obtido através dos valores constantes na Tabela IV do Anexo II desta Lei Complementar em conformidade com a classificação da edificação no cadastro municipal e a pontuação alcançada em sua respectiva classificação.
+
+
+§ 4º
+
+Entende-se por área edificada aquela delimitada pelos contornos das faces externas das paredes ou dos pilares da edificação, computando-se os ambientes denominados varandas ou terraços, desde que cobertos, e as áreas de piscina, quando existir abrigo para casa de máquinas, com bomba e sistema de filtragem.
+
+
+§ 5º
+
+Considera-se área de piscina a área correspondente ao espelho da água.
+
+
+§ 6º
+
+A classificação das edificações será individual quando houver mais de uma edificação por lote ou inscrição imobiliária municipal.
+
+
+§ 7º
+
+Nos casos em que houver mais de uma categoria ou padrão de construção por edificação, a classificação do imóvel poderá ser realizada conforme as diferentes áreas construídas, cadastradas individualmente e lançadas conjuntamente para fins de IPTU.
+
+
+§ 8º
+
+No cálculo da área edificada das unidades autônomas de edifícios em condomínio, será acrescentada, à área privativa de cada unidade, a parte correspondente nas áreas comuns em função de sua quota-parte.
+
+
+##### Seção IV — DAS ALÍQUOTAS DO IMPOSTO
+
+
+Art. 11.
+
+O Imposto Sobre a Propriedade Territorial Urbana, calcula-se em percentual sobre o valor venal do imóvel, observadas os seguintes critérios:
+
+
+§ 1º
+
+0,50% (zero virgula cinquenta por cento) para o exercício de 2026 para os imóveis construídos servidos pelas benfeitorias urbanas, pavimentação, água, luz e outros;
+
+
+§ 2º
+
+1,75% (um virgula setenta e cinco por cento), para o exercício de 2026, para os imóveis não construídos servidos pelas benfeitorias urbanas, pavimentação, água, luz e outros;
+
+
+§ 3º
+
+Os imóveis de até 1.000,00m2 (mil metros quadrados) que permanecerem sem edificação terão a alíquota incidente, estabelecido nos incisos deste artigo, acrescida a cada ano, até o quinto ano, dos seguintes percentuais:
+
+
+I –
+
+1,85% (um virgula oitenta e cinco por cento) no segundo ano;
+
+
+II –
+
+1,95% (um virgula noventa e cinco por cento) no terceiro ano;
+
+
+III –
+
+2,05% (dois virgula zero cinco por cento) a partir do quarto ano;
+
+
+IV –
+
+2,15% (dois virgula quinze por cento) a partir do quinto ano.
+
+
+§ 4º
+
+A obrigação de edificar ou utilizar o imóvel não esteja atendida em quatro anos contados da publicação desta Lei Complementar, a partir do quinto ano, o incidente corresponderá à aplicação da alíquota definida no §7º., IV deste artigo, até que se cumpra à referida obrigação, vedada à concessão de isenções ou de anistia relativas a disposições deste artigo independente de prévia notificação pela Fazenda Pública Municipal.
+
+
+§ 5º
+
+Os imóveis que permanecerem sem edificação, superiores a 1.000,00m2 (mil metros quadrados) terá a alíquota progressiva, conforme estabelece o Plano Diretor do Município e com base no Art. 7º e 8º da Lei Federal nº 10.257/2001 que institui o Estatuto das Cidades.
+
+
+§ 6º
+
+Não sofrerá progressividade na alíquota o imóvel com valor venal inferior a R$ 3.000,00 (Três mil reais), cujo proprietário possua até 02 (dois) imóveis.
+
+
+§ 7º
+
+A construção de edificação de no mínimo 15% (quinze por cento) da área do terreno exclui automaticamente a progressividade da alíquota, passando o imposto a ser calculado, nos exercícios seguintes, pela alíquota estabelecida no §1º. deste artigo.
+
+
+§ 8º
+
+Ocorrendo a transmissão da propriedade do imóvel, a alíquota incidente retornará à inicial, obedecido o princípio da anualidade e utilizando-se como prova a escritura pública devidamente registrada ou guia de ITBI quitada.
+
+
+#### CAPÍTULO III — DAS REVISÕES DO VALOR VENAL
+
+
+##### Seção I — DO PROCESSO DE AVALIAÇÃO ESPECIAL DE TERRENOS
+
+
+Art. 12.
+
+Em caso de terrenos desvalorizados em função de fatores que os depreciem poderá ser adotado processo de avaliação especial, nas seguintes hipóteses:
+
+
+I –
+
+localização;
+
+
+II –
+
+conformação topográfica desfavorável;
+
+
+III –
+
+ocorrência de áreas de preservação permanente – APPs;
+
+
+IV –
+
+fenômenos geológico-geotécnicos adversos;
+
+
+V –
+
+outras causas semelhantes, que impossibilitem seu pleno aproveitamento.
+
+
+Parágrafo único
+
+O processo de avaliação especial será iniciado mediante requerimento fundamentado do contribuinte, a ser protocolado até o dia 31 de março de cada exercício, devidamente instruído, contendo fotografias e plantas e/ou croquis ilustrativos.
+
+
+Art. 13.
+
+A Comissão de Avaliação de Bens Imóveis, observando parâmetros técnicos determinados pela Associação Brasileira de Normas Técnicas – ABNT, emitirá parecer fundamentado, sugerindo o deferimento ou indeferimento da revisão do valor venal, aplicável ao caso, para fins de lançamento de IPTU, até o limite de 50% (cinquenta por cento).
+
+
+Parágrafo único
+
+O processo de avaliação especial deverá ser analisado pelo Diretor do Setor Tributário, e ser submetido à deliberação do Departamento Municipal de Administração e Finanças.
+
+
+Art. 14.
+
+Da decisão do Departamento Municipal de Administração e Finanças caberá recurso, nos termos Código Tributário Municipal.
+
+
+Art. 15.
+
+Ao recurso de trata o Art. 13 desta Lei Complementar deverá obrigatoriamente ser anexado laudo técnico de avaliação do imóvel, nos casos de terrenos com mais de 1.000 m² (um mil metros quadrados).
+
+
+§ 1º
+
+O laudo técnico de avaliação do imóvel deverá conter fotografias e plantas e/ou croquis ilustrativos, e ser fundamentado em normas registradas da Associação Brasileira de Normas Técnicas – ABNT e do Instituto Brasileiro de Avaliações e Perícias de Engenharia – IBAPE.
+
+
+§ 2º
+
+O laudo mencionado no §1º deverá estar assinado por profissional habilitado em um dos seguintes conselhos:
+
+
+I –
+
+Conselho Regional de Engenharia e Agronomia do Estado do Paraná- CREA, devendo ser anexada cópia da guia de recolhimento da Anotação de Responsabilidade Técnica – A.R.T.;
+
+
+II –
+
+Conselho Regional dos Corretores de Imóveis – CRECI, devendo constar o nome e o número de registro do corretor responsável pela avaliação; e,
+
+
+III –
+
+Conselho de Arquitetura e Urbanismo – CAU, devendo ser anexada cópia da guia de recolhimento da Anotação de Responsabilidade Técnica – A.R.T.
+
+
+Art. 16.
+
+A Comissão de Avaliação Imobiliária poderá solicitar, sempre que julgar necessário, que o processo administrativo seja instruído com laudo técnico, na forma prevista no Art. 14 desta Lei Complementar, independentemente da metragem do imóvel e de forma justificada.
+
+
+Art. 17.
+
+A revisão do valor venal por meio do processo de avaliação especial será válida apenas para o exercício no qual foi solicitada, não gerando qualquer direito adquirido, devendo ser renovada anualmente, mediante requerimento do contribuinte, no prazo previsto no parágrafo único do Art. 11 desta Lei Complementar.
+
+
+Parágrafo único
+
+O requerimento de renovação poderá estar instruído com declaração assinada pelo avaliador responsável, atestando que as condições do terreno apuradas no laudo técnico previsto no Art. 14 permanecem inalteradas, e será obrigatoriamente anexado ao processo administrativo originário.
+
+
+##### Seção II — DA REVISÃO DAS EDIFICAÇÕES
+
+
+Art. 18.
+
+O contribuinte poderá requerer, a qualquer tempo, a revisão cadastral do imóvel, quanto à área edificada, sua categoria e padrão construtivo, para fins de apuração do valor venal da edificação, mediante preenchimento de formulário específico regulamentado por Decreto pelo chefe do Poder Executivo.
+
+
+§ 1º
+
+Para efeitos de revisão do lançamento do IPTU do exercício em curso, o requerimento deverá ser protocolado até a data determinada para pagamento da cota única cada exercício, devidamente instruído.
+
+
+§ 2º
+
+O requerimento será analisado pela Comissão de Avaliação Imobiliária, que emitirá parecer fundamentado, sugerindo o deferimento ou indeferimento da revisão do valor venal.
+
+
+§ 3º
+
+A Comissão de Avaliação de Bens Imóveis, no caso de deferimento da revisão do valor venal, indicará o percentual de desconto, até o limite de 50% (cinquenta por cento) do valor venal da edificação.
+
+
+§ 4º
+
+O processo de avaliação especial deverá ser analisado pelo Departamento de Tributação, e submetido à decisão do Departamento Municipal de Administração e Finanças, cabendo recurso da deliberação, nos termos do Código Tributário Municipal.
+
+
+§ 5º
+
+Ao recurso de que trata o §4º deste artigo deverá obrigatoriamente ser anexado laudo técnico de avaliação do imóvel, nos casos de edificações com mais de 500 m² (quinhentos metros quadrados), devendo estar assinado por profissional habilitado em um dos seguintes conselhos:
+
+
+I –
+
+Conselho Regional de Engenharia, Arquitetura e Agronomia do Paraná – CREA, devendo ser anexada cópia da guia de recolhimento da Anotação de Responsabilidade Técnica – A.R.T.;
+
+
+II –
+
+Conselho Regional de Corretores de Imóveis do Estado do Paraná – CRECI, devendo constar o nome e o número de registro do corretor responsável pela avaliação;
+
+
+III –
+
+Conselho de Arquitetura e Urbanismo – CAU, devendo ser anexada cópia da guia de recolhimento da Anotação de Responsabilidade Técnica – A.R.T.
+
+
+#### CAPÍTULO IV — DOS LOTEAMENTOS URBANOS E CONDOMINIOS HORIZONTAIS E VERTICAIS
+
+
+Art. 19.
+
+O lançamento do Imposto sobre a Propriedade Predial e Territorial Urbana – IPTU, incidente sobre os imóveis dos novos loteamentos para fins urbanos executados no Município de Corbélia somente poderá ser efetuado em nome da pessoa física ou jurídica adquirente do imóvel, na forma da legislação pertinente, no exercício imediatamente posterior ao da finalização dos serviços e obras de infraestrutura e da consequente liberação, por parte do setor competente da Administração Municipal.
+
+
+Parágrafo único
+
+O lançamento do IPTU antes da finalização dos serviços e obras de infraestrutura e da liberação da edificação dos terrenos será efetuado em nome do proprietário da área objeto do parcelamento.
+
+
+Art. 20.
+
+Os imóveis pertencentes a loteamentos urbanos e condomínios horizontais, desmembrados, aprovados após a publicação desta lei complementar e sujeitos ao Imposto sobre a Propriedade Territorial Urbana, gozarão de redução do imposto, da seguinte forma:
+
+
+§ 1º
+
+No primeiro exercício subsequente ao da data de desmembramento do loteamento ou do condomínio horizontal no cadastro imobiliário o desconto será de 40 % (quarenta por cento);
+
+
+§ 2º
+
+No segundo exercício subsequente ao da data de desmembramento do loteamento ou do condomínio horizontal no cadastro imobiliário o desconto será de 30 % (trinta por cento);
+
+
+§ 3º
+
+No terceiro exercício subsequente ao da data de desmembramento do loteamento ou do condomínio horizontal no cadastro imobiliário o desconto será de 20 % (vinte por cento).
+
+
+§ 4º
+
+Para loteamentos ou condomínios horizontais e verticais aprovados após a publicação desta Lei Complementar deverá ser adotado para fins de cálculo do IPTU no mínimo 70% (setenta por cento) do valor de mercado apurado pelo Departamento Municipal de Administração e Finanças e instituído por lei complementar.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+
+Art. 21.
+
+As despesas decorrente da execução desta Lei Complementar correrão à conta de dotação orçamentária próprias, suplementadas se necessário.
+
+
+Art. 22.
+
+Este Lei Complementar entra em vigor na data da sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 26 de dezembro de 2025, 65º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2436-b de 26/12/2025, pág. 01-24.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1530/ta
+
+
+## Anexo I — DOS FATORES DE CÁLCULO DO TERRENO
+
+
+TABELA I  
+FATORES DE CORREÇÃO DOS TERRENOS
+
+<table><tbody><tr><td><p>SIT</p></td><td colspan="2"><p>SITUAÇÃO</p></td><td><p>OBSERVAÇÃO</p></td></tr><tr><td><p><strong>ID</strong></p></td><td><p><strong>DESCRIÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td><td rowspan="7"><p>A SITUAÇÃO DO TERRENO OU POSIÇÃO consiste em um grau, atribuído ao imóvel conforme sua localização dentro da quadra</p></td></tr><tr><td><p>1</p></td><td><p>Meio de Quadra</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Uma Esquina</p></td><td><p>1,10</p></td></tr><tr><td><p>3</p></td><td><p>Duas Esquinas</p></td><td><p>1,20</p></td></tr><tr><td><p>4</p></td><td><p>Três Esquinas</p></td><td><p>1,30</p></td></tr><tr><td><p>5</p></td><td><p>Quarteirão Inteiro</p></td><td><p>1,40</p></td></tr><tr><td><p>6</p></td><td><p>Encravado</p></td><td><p>0,70</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>TOP</p></td><td colspan="2"><p>PERFIL / TOPOGRAFIA</p></td><td><p>OBSERVAÇÃO</p></td></tr><tr><td><p><strong>ID</strong></p></td><td><p><strong>DESCRIÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td><td rowspan="5"><p>O PERFIL OU TOPOGRAFIA consiste em um grau atribuído ao imóvel conforme a características do solo em relação ao seu relevo</p></td></tr><tr><td><p>1</p></td><td><p>Plano</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Aclive</p></td><td><p>0,90</p></td></tr><tr><td><p>3</p></td><td><p>Declive</p></td><td><p>0,80</p></td></tr><tr><td><p>4</p></td><td><p>Irregular</p></td><td><p>0,70</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>PED</p></td><td colspan="2"><p>PEDOLOGIA / SOLO</p></td><td><p>OBSERVAÇÃO</p></td></tr><tr><td><p><strong>ID</strong></p></td><td><p><strong>DESCRIÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td><td rowspan="7"><p>A PEDOLOGIA OU SOLO consiste é um grau atribuído ao imóvel conforme a característica da composição do solo</p></td></tr><tr><td><p>1</p></td><td><p>Normal / Firme</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Inundável</p></td><td><p>0,90</p></td></tr><tr><td><p>3</p></td><td><p>Alagado</p></td><td><p>0,80</p></td></tr><tr><td><p>4</p></td><td><p>Arenoso</p></td><td><p>0,70</p></td></tr><tr><td><p>5</p></td><td><p>Rochoso</p></td><td><p>1,00</p></td></tr><tr><td><p>6</p></td><td><p>Combinação dos demais</p></td><td><p>1,00</p></td></tr></tbody></table>
+
+TABELA II  
+VALORES UNITÁRIOS POR METRO QUADRADO DOS TERRENOS LOCALIZADOS POR SETOR
+
+<table><tbody><tr><td><p><strong>SETOR</strong></p></td><td><p><strong>IDENTIFICADOR</strong></p></td><td><p><strong>VALOR M² MERCADO</strong></p></td><td><p><strong>EXERCÍCIO DE 2026</strong></p></td></tr><tr><td><p>SETOR 01</p></td><td><p>#b2b0f2</p></td><td><p>R$ 800,00</p></td><td><p>R$ 280,00</p></td></tr><tr><td><p>SETOR 02</p></td><td><p>#ffff00</p></td><td><p>R$ 620,00</p></td><td><p>R$ 217,00</p></td></tr><tr><td><p>SETOR 03</p></td><td><p>#d4f4af</p></td><td><p>R$ 500,00</p></td><td><p>R$ 175,00</p></td></tr><tr><td><p>SETOR 04</p></td><td><p>#ffda7b</p></td><td><p>R$ 360,00</p></td><td><p>R$ 126,00</p></td></tr><tr><td><p>SETOR 05</p></td><td><p>#00bfff</p></td><td><p>R$ 340,00</p></td><td><p>R$ 119,00</p></td></tr><tr><td><p>SETOR 06</p></td><td><p>#467b68</p></td><td><p>R$ 290,00</p></td><td><p>R$ 101,50</p></td></tr><tr><td><p>SETOR 07</p></td><td><p>#999825</p></td><td><p>R$ 270,00</p></td><td><p>R$ 94,50</p></td></tr><tr><td><p>SETOR 08</p></td><td><p>#f44fae</p></td><td><p>R$ 260,00</p></td><td><p>R$ 91,00</p></td></tr><tr><td><p>SETOR 09</p></td><td><p>#15638d</p></td><td><p>R$ 240,00</p></td><td><p>R$ 84,00</p></td></tr><tr><td><p>SETOR 10</p></td><td><p>#e31a1c</p></td><td><p>R$ 230,00</p></td><td><p>R$ 80,50</p></td></tr><tr><td><p>SETOR 11</p></td><td><p>#fd9c1f</p></td><td><p>R$ 200,00</p></td><td><p>R$ 70,00</p></td></tr><tr><td><p>SETOR 12</p></td><td><p>#11dff5</p></td><td><p>R$ 160,00</p></td><td><p>R$ 56,00</p></td></tr><tr><td><p>SETOR 13</p></td><td><p>#b787ac</p></td><td><p>R$ 150,00</p></td><td><p>R$ 52,50</p></td></tr><tr><td><p>SETOR 14</p></td><td><p>#fbc5ea</p></td><td><p>R$ 110,00</p></td><td><p>R$ 38,50</p></td></tr><tr><td><p>SETOR 15</p></td><td><p>#f8bc9a</p></td><td><p>R$ 100,00</p></td><td><p>R$ 35,00</p></td></tr><tr><td><p>SETOR 16</p></td><td><p>#77dd00</p></td><td><p>R$ 70,00</p></td><td><p>R$ 24,50</p></td></tr><tr><td><p>SETOR 17</p></td><td><p>#db6d8d</p></td><td><p>R$ 60,00</p></td><td><p>R$ 21,00</p></td></tr><tr><td><p>SETOR 18</p></td><td><p>#eff9b1</p></td><td><p>R$ 40,00</p></td><td><p>R$ 14,00</p></td></tr><tr><td colspan="3"><p>% do Valor de Mercado</p></td><td><p>35%</p></td></tr><tr><td colspan="4"><p>OBSERVAÇÃO: A classificação de cada imóvel está representada no Anexo III na Prancha I, parte integrante desta Lei Complementar</p></td></tr></tbody></table>
+
+Não substitui o texto publicado no DOE 2436-b de 26/12/2025, pág. 01-24.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1530/ta
+
+
+## Anexo II — DOS FATORES DE CÁLCULO DAS EDIFICAÇÕES
+
+
+TABELA I  
+TIPOLOGIA DAS EDIFICAÇÕES MUNICIPAIS
+
+<table><tbody><tr><td><p><strong>ID</strong></p></td><td><p><strong>CUB</strong></p></td><td><p><strong>CATEGORIA</strong></p></td><td><p><strong>DESCRIÇÃO DO TIPO E PADRÃO DA EDIFICAÇÃO</strong></p></td></tr><tr><td><p>15</p></td><td><p>PP4-N</p></td><td><p>CATEGORIA DE USO RESIDENCIAL HORIZONTAL</p></td><td><p>Edificações destinadas à habitação, correspondendo a uma habitação por lote ou unidade autônoma, com predominância de arquitetura adequada a moradias familiares. Sendo térreas. Com aspectos externos típicos sem modificações internas que as descaracterizem, independentemente de estilo e de forma. Poderão estar localizadas em loteamentos, conjuntos residenciais, condomínios horizontais, chácaras e sítios de recreio, glebas, conjuntos habitacionais de interesse social ou favelas urbanizadas.</p></td></tr><tr><td><p>31</p></td><td><p>R16-A</p></td><td><p>CATEGORIA DE USO RESIDENCIAL VERTICAL - (APARTAMENTO, SOBRADOS, SOBRELOJA RESIDENCIAL)</p></td><td><p>Edificações destinadas à habitação, correspondendo a mais de uma unidade autônoma por lote. Contêm em geral, não necessariamente, mais de três pavimentos. Com aspectos externos típicos, sem modificações funcionais internas que as descaracterizem, independentemente de estilo e de forma. É necessário que mantenham características típicas de agrupamento exclusivamente residencial. Equipadas ou não de elevadores, guaritas, jardim, playground, área de lazer, escadaria interna para acesso e circulação. Poderão estar localizadas em loteamentos, conjuntos residenciais, glebas ou conjuntos habitacionais de interesse social.</p></td></tr><tr><td><p>58</p></td><td><p>CAL8-A</p></td><td><p>CATEGORIA DE EDIFICAÇÕES NÃO RESIDENCIAIS HORIZONTAIS (SALAS, LOJAS, ESCRITÓRIOS)</p></td><td><p>Estabelecimentos de comércio, de prestação de serviços ou correlatos, com construções correspondendo a uma ou mais unidades autônomas de comércio e/ou serviço por lote. Com aspectos externos característicos, poderão apresentar vitrines, marquises, portas de aço ou blindex, com ou sem aproveitamento de recuo para exposição, showroom, pátio de estacionamento ou convívio social, com divisões internas típicas, independentemente de estilo e de forma. Deverão possuir características exclusivamente comerciais ou de serviços. Poderão estar localizados em lotes, glebas ou condomínios horizontais.</p></td></tr><tr><td><p>60</p></td><td><p>CSL16-A</p></td><td><p>CATEGORIA DE EDIFICAÇÕES NÃO RESIDENCIAIS VERTICAIS (SALAS, LOJAS, ESCRITÓRIOS)</p></td><td><p>Estabelecimentos de comércio, de prestação de serviços ou correlatos, com construções correspondendo a uma ou mais unidades autônomas de comércio e/ou serviço por lote. Contêm em geral, não necessariamente, mais de dois pavimentos. Com aspectos externos característicos, poderão apresentar vitrines, marquises, portas de aço ou blindex, com ou sem aproveitamento de recuo para exposição, showroom, pátio de estacionamento ou convívio social, com divisões internas típicas, independentemente de estilo e de forma. Deverão possuir características exclusivamente comerciais ou de serviços. Poderão estar localizados em condomínios verticais.</p></td></tr><tr><td><p>66</p></td><td><p>PIS-B</p></td><td><p>CATEGORIA DE COBERTURAS (TELHEIROS, OU GALPÕES SEM PAREDE)</p></td><td><p>Edificações abertas total ou parcialmente em quaisquer lados, com predominância de uso adequado à prestação de serviços ou ao processamento artesanal de pequenos artefatos. Autônomos e independentes, térreos, sem divisões funcionais internas, sendo típicos para o abrigo de veículos, depósitos dissociados de matrizes/lojas, postos de abastecimento/serviços, modestas oficinas mecânicas ou afins, ranchos de olarias e assemelhados, abrigos para animais e outras construções com adequação física semelhante. Poderão estar inseridos em lotes, glebas, condomínios horizontais ou parques fabris. (exceto garagem anexa a residências ou comércios).</p></td></tr><tr><td><p>74</p></td><td><p>PIS-B</p></td><td><p>CATEGORIA DE USO RESIDENCIAL HORIZONTAL (CONSTRUÇÃO PRECÁRIA/TELHEIROS)</p></td><td><p>Edificação deficiente para sua finalidade: estrutura instável, insegura e que não desempenhe as funções mínimas de vedação, estanqueidade, isolamento, salubridade (edificação com estrutura abalada, com portas, janelas e telhas faltando, esgoto a céu aberto).</p></td></tr><tr><td><p>86</p></td><td><p>GI</p></td><td><p>CATEGORIA DE GALPÕES – (USO INDUSTRIAL E BARRACÃO)</p></td><td><p>Edificações destinadas ao uso industrial ou fabril, adequadas à produção, à montagem, ao beneficiamento, ao acondicionamento ou ao recondicionamento de bens manufaturados ou semimanufaturados, com divisões funcionais internas típicas, independentemente de estilo e de forma. É essencial que mantenham características fabris, inclusive em relação às edificações anexas utilizadas para fins administrativos, depósitos e outras edificações que complementem a atividade industrial inseridas em lotes, glebas ou parques fabris.</p></td></tr><tr><td><p>88</p></td><td><p>R1-A</p></td><td><p>CATEGORIA DE USO RESIDENCIAL EM CONDOMINIOS E ALTO PADRÃO</p></td><td><p>Edificações destinadas à habitação, que apresentam projeto arquitetônico especial e personalizado, acabamento externo e interno com emprego de materiais de primeira qualidade, utilização de mármore, granito, porcelanato ou cerâmicas especiais, janelas com esquadrias de madeira nobre ou alumínio, apresentam ainda um dos seguintes equipamentos adicionais: Climatização ambiental, Equipamento de segurança, Equipamentos para captação de energia solar, Salão de festas, Churrasqueira, Sauna, Piscina, Lareira, Salão de jogos, Sala de ginástica, Aquecedores à gás, Elevadores de serviço e social, e ou mais de uma garagem.</p></td></tr><tr><td><p>89</p></td><td><p>CSL16-A</p></td><td><p>CONSTRUÇÃO COMERCIAL DE USO ESPECIAL</p></td><td><p>Edificação que não se enquadra em nenhum dos tipos anteriores (hospital, clube, teatro, etc.), ou que seja construída com materiais especiais e utilizadas para fins comerciais).</p></td></tr></tbody></table>
+
+TABELA II  
+DOS FATORES DE CORREÇÃO DA EDIFICAÇÃO
+
+<table><tbody><tr><td><p>LOC</p></td><td colspan="2"><p>LOCALIZAÇÃO / DISTRITO</p></td><td><p>OBSERVAÇÃO</p></td></tr><tr><td><p><strong>ID</strong></p></td><td><p><strong>DESCRIÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td><td rowspan="5"><p>O FATOR DE LOCALIZAÇÃO / DISTRITO consiste em um grau atribuído ao imóvel, em relação a sua localização geográfica, se na sede do Município ou distritos</p></td></tr><tr><td><p>1</p></td><td><p>Sede Perímetro Urbano</p></td><td><p>1,10</p></td></tr><tr><td><p>4</p></td><td><p>Distrito de Nossa Senhora da Penha</p></td><td><p>1,00</p></td></tr><tr><td><p>5</p></td><td><p>Distrito de Ouro Verde do Piquiri</p></td><td><p>0,90</p></td></tr><tr><td><p>9</p></td><td><p>Rural</p></td><td><p>0,90</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>EST</p></td><td colspan="2"><p>ESTRUTURA DE PAREDE</p></td><td><p>OBSERVAÇÃO</p></td></tr><tr><td><p><strong>ID</strong></p></td><td><p><strong>DESCRIÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td><td rowspan="6"><p>O FATOR DE ESTRUTURA DE PAREDE consiste em um grau atribuído ao imóvel, em relação a estrutura de sua construção</p></td></tr><tr><td><p>11</p></td><td><p>Alvenaria</p></td><td><p>1,10</p></td></tr><tr><td><p>20</p></td><td><p>Madeira</p></td><td><p>1,00</p></td></tr><tr><td><p>28</p></td><td><p>Mista</p></td><td><p>0,90</p></td></tr><tr><td><p>38</p></td><td><p>Metálica</p></td><td><p>1,10</p></td></tr><tr><td><p>46</p></td><td><p>Concreto</p></td><td><p>1,10</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>CONS</p></td><td colspan="2"><p>ESTADO DE CONSERVAÇÃO</p></td><td><p>OBSERVAÇÃO</p></td></tr><tr><td><p><strong>ID</strong></p></td><td><p><strong>DESCRIÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td><td rowspan="5"><p>O ESTADO DE CONSERVAÇÃO consiste em um grau atribuído ao imóvel construído, em relação ao seu estado de conservação</p></td></tr><tr><td><p>13</p></td><td><p>Nova / Ótima</p></td><td><p>1,10</p></td></tr><tr><td><p>21</p></td><td><p>Boa / Bom</p></td><td><p>1,00</p></td></tr><tr><td><p>30</p></td><td><p>Regular</p></td><td><p>0,90</p></td></tr><tr><td><p>86</p></td><td><p>Mau / Ruim</p></td><td><p>0,90</p></td></tr></tbody></table>
+
+TABELA III  
+PONTUAÇÃO POR CATEGORIA DE EDIFICAÇÃO
+
+<table><tbody><tr><td colspan="2"><p>PONTUAÇÃO</p></td><td colspan="9"><p>IDENTIFICADOR DO TIPO DA EDIFICAÇÃO</p></td></tr><tr><td><p>EST</p></td><td><p>ESTRUTURA DA PAREDE</p></td><td><p>15</p></td><td><p>31</p></td><td><p>58</p></td><td><p>60</p></td><td><p>66</p></td><td><p>74</p></td><td><p>86</p></td><td><p>88</p></td><td><p>89</p></td></tr><tr><td><p>11</p></td><td><p>Alvenaria</p></td><td><p>17</p></td><td><p>19</p></td><td><p>18</p></td><td><p>18</p></td><td><p>17</p></td><td><p>17</p></td><td><p>17</p></td><td><p>19</p></td><td><p>19</p></td></tr><tr><td><p>20</p></td><td><p>Madeira</p></td><td><p>13</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>11</p></td><td><p>11</p></td><td><p>12</p></td><td><p>15</p></td><td><p>15</p></td></tr><tr><td><p>28</p></td><td><p>Mista</p></td><td><p>14</p></td><td><p>16</p></td><td><p>17</p></td><td><p>17</p></td><td><p>12</p></td><td><p>12</p></td><td><p>14</p></td><td><p>16</p></td><td><p>16</p></td></tr><tr><td><p>38</p></td><td><p>Metálica</p></td><td><p>21</p></td><td><p>20</p></td><td><p>21</p></td><td><p>21</p></td><td><p>21</p></td><td><p>21</p></td><td><p>21</p></td><td><p>20</p></td><td><p>20</p></td></tr><tr><td><p>46</p></td><td><p>Concreto</p></td><td><p>19</p></td><td><p>20</p></td><td><p>20</p></td><td><p>20</p></td><td><p>20</p></td><td><p>20</p></td><td><p>19</p></td><td><p>20</p></td><td><p>20</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>INST.ELE</p></td><td><p>INSTALACAO ELETRICA</p></td><td><p>15</p></td><td><p>31</p></td><td><p>58</p></td><td><p>60</p></td><td><p>66</p></td><td><p>74</p></td><td><p>86</p></td><td><p>88</p></td><td><p>89</p></td></tr><tr><td><p>19</p></td><td><p>Inexistente</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>27</p></td><td><p>Aparente</p></td><td><p>4</p></td><td><p>4</p></td><td><p>5</p></td><td><p>5</p></td><td><p>5</p></td><td><p>5</p></td><td><p>5</p></td><td><p>4</p></td><td><p>4</p></td></tr><tr><td><p>43</p></td><td><p>Embutida</p></td><td><p>7</p></td><td><p>8</p></td><td><p>7</p></td><td><p>7</p></td><td><p>7</p></td><td><p>7</p></td><td><p>7</p></td><td><p>8</p></td><td><p>8</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>PIS</p></td><td><p>PISO</p></td><td><p>15</p></td><td><p>31</p></td><td><p>58</p></td><td><p>60</p></td><td><p>66</p></td><td><p>74</p></td><td><p>86</p></td><td><p>88</p></td><td><p>89</p></td></tr><tr><td><p>16</p></td><td><p>Terra Batida</p></td><td><p>6</p></td><td><p>6</p></td><td><p>7</p></td><td><p>7</p></td><td><p>8</p></td><td><p>8</p></td><td><p>5</p></td><td><p>6</p></td><td><p>6</p></td></tr><tr><td><p>24</p></td><td><p>Cimento</p></td><td><p>10</p></td><td><p>9</p></td><td><p>12</p></td><td><p>12</p></td><td><p>10</p></td><td><p>10</p></td><td><p>9</p></td><td><p>10</p></td><td><p>10</p></td></tr><tr><td><p>32</p></td><td><p>Cerâmica/Mosaico</p></td><td><p>11</p></td><td><p>13</p></td><td><p>12</p></td><td><p>12</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td><td><p>13</p></td><td><p>13</p></td></tr><tr><td><p>86</p></td><td><p>Tabuas</p></td><td><p>7</p></td><td><p>8</p></td><td><p>8</p></td><td><p>8</p></td><td><p>9</p></td><td><p>9</p></td><td><p>8</p></td><td><p>8</p></td><td><p>8</p></td></tr><tr><td><p>87</p></td><td><p>Taco/Parquet</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td></tr><tr><td><p>89</p></td><td><p>Material Plástico</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>13</p></td><td><p>14</p></td><td><p>14</p></td></tr><tr><td><p>90</p></td><td><p>Especial</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>COB</p></td><td><p>COBERTURA</p></td><td><p>15</p></td><td><p>31</p></td><td><p>58</p></td><td><p>60</p></td><td><p>66</p></td><td><p>74</p></td><td><p>86</p></td><td><p>88</p></td><td><p>89</p></td></tr><tr><td><p>19</p></td><td><p>Palha/Zinco</p></td><td><p>9</p></td><td><p>10</p></td><td><p>11</p></td><td><p>11</p></td><td><p>12</p></td><td><p>12</p></td><td><p>9</p></td><td><p>10</p></td><td><p>10</p></td></tr><tr><td><p>27</p></td><td><p>Telha de Cimento Amianto</p></td><td><p>11</p></td><td><p>11</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td></tr><tr><td><p>35</p></td><td><p>Telha de Barro</p></td><td><p>14</p></td><td><p>12</p></td><td><p>14</p></td><td><p>14</p></td><td><p>14</p></td><td><p>14</p></td><td><p>13</p></td><td><p>12</p></td><td><p>12</p></td></tr><tr><td><p>43</p></td><td><p>Laje</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>16</p></td><td><p>16</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td></tr><tr><td><p>86</p></td><td><p>Especial</p></td><td><p>16</p></td><td><p>15</p></td><td><p>16</p></td><td><p>16</p></td><td><p>16</p></td><td><p>16</p></td><td><p>16</p></td><td><p>15</p></td><td><p>15</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>FOR</p></td><td><p>FORRO</p></td><td><p>15</p></td><td><p>31</p></td><td><p>58</p></td><td><p>60</p></td><td><p>66</p></td><td><p>74</p></td><td><p>86</p></td><td><p>88</p></td><td><p>89</p></td></tr><tr><td><p>17</p></td><td><p>Inexistente</p></td><td><p>5</p></td><td><p>4</p></td><td><p>5</p></td><td><p>5</p></td><td><p>5</p></td><td><p>5</p></td><td><p>4</p></td><td><p>4</p></td><td><p>4</p></td></tr><tr><td><p>25</p></td><td><p>Madeira</p></td><td><p>9</p></td><td><p>8</p></td><td><p>10</p></td><td><p>10</p></td><td><p>8</p></td><td><p>8</p></td><td><p>8</p></td><td><p>8</p></td><td><p>8</p></td></tr><tr><td><p>33</p></td><td><p>Estuque (Gesso)</p></td><td><p>11</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td><td><p>11</p></td><td><p>11</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td></tr><tr><td><p>41</p></td><td><p>Laje</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td><td><p>14</p></td><td><p>14</p></td><td><p>15</p></td><td><p>15</p></td><td><p>15</p></td></tr><tr><td><p>86</p></td><td><p>Chapas</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td><td><p>13</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>REVEST</p></td><td><p>REVEST FRENTE PRINCIPAL</p></td><td><p>15</p></td><td><p>31</p></td><td><p>58</p></td><td><p>60</p></td><td><p>66</p></td><td><p>74</p></td><td><p>86</p></td><td><p>88</p></td><td><p>89</p></td></tr><tr><td><p>14</p></td><td><p>Inexistente</p></td><td><p>7</p></td><td><p>5</p></td><td><p>7</p></td><td><p>7</p></td><td><p>9</p></td><td><p>9</p></td><td><p>5</p></td><td><p>5</p></td><td><p>5</p></td></tr><tr><td><p>30</p></td><td><p>Reboco</p></td><td><p>10</p></td><td><p>12</p></td><td><p>10</p></td><td><p>10</p></td><td><p>12</p></td><td><p>12</p></td><td><p>8</p></td><td><p>12</p></td><td><p>12</p></td></tr><tr><td><p>-</p></td><td><p>Óleo</p></td><td><p>9</p></td><td><p>7</p></td><td><p>9</p></td><td><p>9</p></td><td><p>7</p></td><td><p>7</p></td><td><p>6</p></td><td><p>6</p></td><td><p>6</p></td></tr><tr><td><p>49</p></td><td><p>Material Cerâmico</p></td><td><p>14</p></td><td><p>15</p></td><td><p>14</p></td><td><p>14</p></td><td><p>15</p></td><td><p>15</p></td><td><p>12</p></td><td><p>15</p></td><td><p>15</p></td></tr><tr><td><p>57</p></td><td><p>Massa Fina</p></td><td><p>13</p></td><td><p>13</p></td><td><p>12</p></td><td><p>12</p></td><td><p>13</p></td><td><p>13</p></td><td><p>10</p></td><td><p>13</p></td><td><p>13</p></td></tr><tr><td><p>86</p></td><td><p>Especial</p></td><td><p>15</p></td><td><p>15</p></td><td><p>14</p></td><td><p>14</p></td><td><p>15</p></td><td><p>15</p></td><td><p>14</p></td><td><p>15</p></td><td><p>15</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>INST.SAN</p></td><td><p>INSTALAÇÃO SANITARIA</p></td><td><p>15</p></td><td><p>31</p></td><td><p>58</p></td><td><p>60</p></td><td><p>66</p></td><td><p>74</p></td><td><p>86</p></td><td><p>88</p></td><td><p>89</p></td></tr><tr><td><p>11</p></td><td><p>Inexistente</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td><td><p>0</p></td></tr><tr><td><p>20</p></td><td><p>Externa</p></td><td><p>7</p></td><td><p>7</p></td><td><p>6</p></td><td><p>6</p></td><td><p>8</p></td><td><p>8</p></td><td><p>5</p></td><td><p>7</p></td><td><p>7</p></td></tr><tr><td><p>46</p></td><td><p>Mais de 1 Interna</p></td><td><p>11</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td><td><p>12</p></td></tr><tr><td><p>86</p></td><td><p>Interna Simples</p></td><td><p>9</p></td><td><p>9</p></td><td><p>9</p></td><td><p>9</p></td><td><p>9</p></td><td><p>9</p></td><td><p>8</p></td><td><p>9</p></td><td><p>9</p></td></tr><tr><td><p>87</p></td><td><p>Interna Completa</p></td><td><p>10</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td><td><p>11</p></td></tr></tbody></table>
+
+TABELA IV  
+DOS VALORES POR METRO QUADRADO E POR TIPO DE EDIFICAÇÃO
+
+<table><tbody><tr><td rowspan="2"><p>ID</p></td><td rowspan="2"><p>CUB/PR</p></td><td rowspan="2"><p>CATEGORIA DA EDIFICAÇÃO</p></td><td colspan="2"><p>VM² DAS EDIFICAÇÕES</p></td></tr><tr><td><p>*CUB/PR</p></td><td><p>EXERCICIO DE 2026</p></td></tr><tr><td><p>15</p></td><td><p>R1-B</p></td><td><p>CATEGORIA DE USO RESIDENCIAL HORIZONTAL - (CASA)</p></td><td><p>R$ 2.418,34</p></td><td><p>R$ 362,75</p></td></tr><tr><td><p>31</p></td><td><p>R1-A</p></td><td><p>CATEGORIA DE USO RESIDENCIAL VERTICAL - (APARTAMENTO, SOBRADOS, SOBRELOJA RESIDENCIAL)</p></td><td><p>R$ 3.695,60</p></td><td><p>R$ 554,25</p></td></tr><tr><td><p>58</p></td><td><p>CAL8-N</p></td><td><p>CATEGORIA DE USO NÃO-RESIDENCIAIS HORIZONTAIS - (SALAS, LOJAS, ESCRITÓRIOS)</p></td><td><p>R$ 2.778,25</p></td><td><p>R$ 416,73</p></td></tr><tr><td><p>60</p></td><td><p>CSL16-N</p></td><td><p>CATEGORIA DE USO NÃO-RESIDENCIAIS VERTICAIS - (SALAS, LOJAS, ESCRITÓRIOS)</p></td><td><p>R$ 3.215,33</p></td><td><p>R$ 482,30</p></td></tr><tr><td><p>66</p></td><td><p>GI</p></td><td><p>CATEGORIA DE USO PARA COBERTURAS - (GALPÕES SEM PAREDE)</p></td><td><p>R$ 1.334,82</p></td><td><p>R$ 200,22</p></td></tr><tr><td><p>74</p></td><td><p>PIS-B</p></td><td><p>CATEGORIA DE USO PARA COBERTURAS - (TELHEIROS/CONSTRUÇÃO PRECÁRIA)</p></td><td><p>R$ 1.670,75</p></td><td><p>R$ 250,61</p></td></tr><tr><td><p>86</p></td><td><p>GI</p></td><td><p>CATEGORIA DE USO INDUSTRIAL GALPÕES - (FABRICAS)</p></td><td><p>R$ 1.334,82</p></td><td><p>R$ 200,22</p></td></tr><tr><td><p>88</p></td><td><p>R1-A</p></td><td><p>CATEGORIA DE USO RESIDENCIAL EM CONDOMINIOS E ALTO PADRÃO</p></td><td><p>R$ 3.695,60</p></td><td><p>R$ 554,25</p></td></tr><tr><td><p>89</p></td><td><p>CSL16-A</p></td><td><p>CATEGORIA DE USO COMERCIAL TIPO ESPECIAL</p></td><td><p>R$ 3.215,33</p></td><td><p>R$ 482,30</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="3"><p>% aplicado sobre o Valor de Referência do CUB/PR</p></td><td><p>100%</p></td><td><p>15%</p></td></tr><tr><td colspan="5"><p>* Os valores acima tiveram como referência a tabela disponibilizada pelo SINDUSCON/PR, no mês de Abril de 2025, que corresponde ao valor de mercado da construção civil.</p></td></tr></tbody></table>
+
+Não substitui o texto publicado no DOE 2436-b de 26/12/2025, pág. 01-24.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1530/ta
+
+
+## Anexo III — DAS CARTOGRAFIAS FISCAIS
+
+
+PRANCHA I  
+CARTOGRAFIA DO ZONEAMENTO FISCAL DO MUNICÍPIO POR SETOR E FACE DE QUADRA DO DISTRITO SEDE MUNICÍPIO DE CORBÉLIA
+
+(ampliar)
+
+
+PRANCHA II  
+CARTOGRAFIA DO ZONEAMENTO FISCAL DO MUNICÍPIO POR SETOR E FACE DE QUADRA DO DISTRITO DE NOSSA SENHORA DA PENHA
+
+(ampliar)
+
+
+PRANCHA III  
+CARTOGRAFIA DO ZONEAMENTO FISCAL DO MUNICÍPIO POR SETOR E FACE DE QUADRA DO DISTRITO DE OURO VERDE DO PIQUIRI
+
+(ampliar)
+
+
+Não substitui o texto publicado no DOE 2436-b de 26/12/2025, pág. 01-24.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1530/ta

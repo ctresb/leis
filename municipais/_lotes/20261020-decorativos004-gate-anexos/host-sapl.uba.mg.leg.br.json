@@ -1,0 +1,156 @@
+{
+  "host": "sapl.uba.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1967/1/justificativa_decreto_de_calamidade_publica.pdf da norma Decreto Executivo nº 259, de 20 de fevereiro de 1967",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Justificativa",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1967/1/justificativa_decreto_de_calamidade_publica.pdf",
+      "ano": 1967,
+      "norma": 1869
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1967/2/decreto_289_-_calamidade_publica.pdf da norma Decreto Executivo nº 259, de 20 de fevereiro de 1967",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Decreto original nº 289, corrigido pela Câmara para nº 259",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1967/2/decreto_289_-_calamidade_publica.pdf",
+      "ano": 1967,
+      "norma": 1869
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1967/3/decreto_aprovado_-_revoga_decreto_259_-calmidade_publica.pdf da norma Decreto Executivo nº 259, de 20 de fevereiro de 1967",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Revoga Decreto nº 259, que decretou calamidade pública",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1967/3/decreto_aprovado_-_revoga_decreto_259_-calmidade_publica.pdf",
+      "ano": 1967,
+      "norma": 1869
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1967/4/justificativa.pdf da norma Decreto Executivo nº 259, de 20 de fevereiro de 1967",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Justificativa de revogação do Decreto nº 259, em 02/07/1967",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1967/4/justificativa.pdf",
+      "ano": 1967,
+      "norma": 1869
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1967/5/10_-_corresp_a_gov_federal_e_estadual_sobre_decreto_calamidade_publica.pdf da norma Decreto Executivo nº 259, de 20 de fevereiro de 1967",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Correspondência do Presidente da Câmara ao Presidente da República, Governador, Secretário Estadual de Saúde e deputados Manoel Costa e Ozanan Coelho , solicitando medidas para minorar os estragos no município;",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1967/5/10_-_corresp_a_gov_federal_e_estadual_sobre_decreto_calamidade_publica.pdf",
+      "ano": 1967,
+      "norma": 1869
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1970/6/7_-_anexos_loa_1971.pdf da norma Lei nº 854, de 27 de novembro de 1970",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexos à Lei Orçamentária para 1971",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1970/6/7_-_anexos_loa_1971.pdf",
+      "ano": 1970,
+      "norma": 1898
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1982/7/mensagem.pdf da norma Lei nº 81, de 23 de setembro de 1982",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Mensagem do Prefeito",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1982/7/mensagem.pdf",
+      "ano": 1982,
+      "norma": 2005
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/portaria_06_-_errata.pdf da norma Portarias nº 6, de 23 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Errata. Publicação: Diário Oficial nº 2.395, páginas 24 e 25.",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/2024/8/portaria_06_-_errata.pdf",
+      "ano": 2024,
+      "norma": 3276
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/errata_24.pdf da norma Portarias nº 24, de 17 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/9/errata_24.pdf",
+      "ano": 2025,
+      "norma": 3560
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/10/microsoft_word_-_lei_2366_concessao_direito_real_uso_fazendinha.doc.pdf da norma Lei-PMU nº 2.840, de 23 de setembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/1998/10/microsoft_word_-_lei_2366_concessao_direito_real_uso_fazendinha.doc.pdf",
+      "ano": 1998,
+      "norma": 3637
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/11/resolucao_no_06-25.pdf da norma Resolução-CMU nº 2, de 05 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/2017/11/resolucao_no_06-25.pdf",
+      "ano": 2017,
+      "norma": 1153
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/13/errata_53.pdf da norma Portarias nº 53, de 25 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/13/errata_53.pdf",
+      "ano": 2025,
+      "norma": 3795
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/14/errata_portaria_23-2026.pdf da norma Portarias nº 23, de 19 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/14/errata_portaria_23-2026.pdf",
+      "ano": 2026,
+      "norma": 4227
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/15/errata_portaria_no_66.pdf da norma Portarias nº 66, de 22 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.uba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/15/errata_portaria_no_66.pdf",
+      "ano": 2026,
+      "norma": 4345
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.uba.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.uba.mg.leg.br/6e9def0970bbec9e55f0329c709f1f8bc20ef0b2ce93aee6674750812e12ee28.json",
+      "sha256": "2a6cf412cab8df265839941e02417e973a77178c529abcbc77512e2cb9552576",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.uba.mg.leg.br/6e9def0970bbec9e55f0329c709f1f8bc20ef0b2ce93aee6674750812e12ee28.meta.json"
+    }
+  ],
+  "total": 14
+}

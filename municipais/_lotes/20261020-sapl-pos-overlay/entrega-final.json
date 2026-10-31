@@ -1,0 +1,27 @@
+{
+  "congelado_em": "2026-10-20T20:08:38.378245",
+  "lotes": [
+    {
+      "manifesto": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0001.json",
+      "sha256_manifesto": "5d7fd4a587b0ba9c0ae765062481bb2a473180716496888a6368050187be50c9",
+      "lista": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0001.paths.txt",
+      "sha256_lista": "b9d4def6ba349c97330b02d326adbef45660f6f82acd0e4fb4bf7fc26361a5c3",
+      "auditoria": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0001.auditoria-municipal.json",
+      "sha256_auditoria": "9c1f4db7d5d656c2572bfe144d36fb924f598937ac608b2e2d10d418c684fd06",
+      "aprovados": 1000,
+      "retidos": 196
+    },
+    {
+      "manifesto": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0002.json",
+      "sha256_manifesto": "7bd3abb96ef4e5db0e386d7ec8d0714c7a6b3204d571c7d892fcf9ec3cf6c50a",
+      "lista": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0002.paths.txt",
+      "sha256_lista": "78948ed7e1583b6fbd11738535ebd4ce415d35fc2a47b2ced9b0c2ca0b18a168",
+      "auditoria": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0002.auditoria-municipal.json",
+      "sha256_auditoria": "f6a2edd225a3fbdff96da074d784c4973bd722ea3a10ea6e8f1e7dabe3f1afb6",
+      "aprovados": 702,
+      "retidos": 53
+    }
+  ],
+  "aprovados": 1702,
+  "retidos": 249
+}

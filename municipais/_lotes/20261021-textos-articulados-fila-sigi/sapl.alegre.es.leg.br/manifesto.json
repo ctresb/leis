@@ -1,0 +1,42 @@
+{
+  "host": "sapl.alegre.es.leg.br",
+  "metadados_unicos_observados": 20,
+  "total_api_declarado": 20,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alegre.es.leg.br/493c8f257834519ca288fe351ea5188503c47e6550a1d0629b50c2e7fc2096aa.json",
+    "url": "https://sapl.alegre.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.alegre.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "26e6246778addf8d914e27949cb8358a2fa39b25f1f8716fd7c62105beb2aea5",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T05:22:29.198673-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alegre.es.leg.br/1fbbbd21eb68992269d7d9614131d8bb17acc12341f172804800740042bceb90.json",
+    "url": "https://sapl.alegre.es.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.alegre.es.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ddbb18bfdb41c27f8937da0b955c14639e49a0f440a442d47d39a10b77bd8325",
+    "bytes": 734,
+    "capturado_em": "2026-10-21T05:22:28.139417-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alegre.es.leg.br/9d13ad6cebe64fd34d871f176cef3f04c97662e907b22f6fe5f1877f0c58b485.json",
+      "url": "https://sapl.alegre.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.alegre.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3a21c4e5f54a483ace882f93677729b9fc603d24024a3dd0609c4fd555ff811e",
+      "bytes": 11863,
+      "capturado_em": "2026-10-21T05:22:30.618343-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

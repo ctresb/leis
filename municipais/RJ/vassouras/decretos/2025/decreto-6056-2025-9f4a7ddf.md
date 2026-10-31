@@ -1,0 +1,1159 @@
+---
+titulo: "DECRETO N°6.056, DE 01 DE DEZEMBRO DE 2025."
+uf: "RJ"
+municipio: "VASSOURAS"
+tipo: "Decreto"
+numero: "6056"
+data: 2025-12-01
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 15/01/2026"
+data_publicacao: 2026-01-15
+codigo_identificador: "9F4A7DDF"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=265&i=publicado_117251_2026-01-14_63332e55fa226a167b3ad5445cdad13a.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N°6.056, DE 01 DE DEZEMBRO DE 2025.
+
+DECRETO N°6.056, DE 01 DE DEZEMBRO DE 2025.
+A Prefeita Municipal de Vassouras, usando das atribuições que
+lhe confere a legislação em vigor e com base na Lei Municipal nº.
+3.738, de 30 de dezembro de 2024.
+D E C R E T A:
+
+02.05 Secretaria Mun.de Esporte
+2781200192.012000 Manutenção da Unidade
+169 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 4.582,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+02.16 Sec. Mun. Integração Políticas da Mulher
+0412200922.012000 Manutenção da Unidade
+418 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 4.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.18 Sec. Mun. Seg. Pública e Defesa Civil
+
+www.diariomunicipal.com.br/aemerj
+
+12
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+0412200942.012000 Manutenção da Unidade
+446 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 6.100,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.19 Sec. Mun. Urbanismo e Patrim. Histórico
+0412200952.012000 Manutenção da Unidade
+466 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 4.600,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.19 Sec. Mun. Urbanismo e Patrim. Histórico
+1545101031.124000 Restauração da Antiga Casa do Barão de
+Vassouras.
+2873 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 84.000,00
+Fonte : 172000Royalties do Petróleo e Gás Natural - FEP - LEI
+Nº 9.478/97
+02.21 Sec. Mun Desenv Econômico e Inovação
+0412600572.183000 Aquisição e Locação de Equipamentos de
+Informática
+2191 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 6.100,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+06.01 Fundo Municipal de Meio Ambiente
+1854100372.805000 Infraestrutura de Área Verdes
+1345 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 17.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+03.01 FUNDO MUNICIPAL DE SAUDE
+1012200402.194000 Secretaria de Saúde
+2808 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 100.000,00
+Fonte : 163500Royalties vinculados à Saúde (art. 2º da Lei
+12.858/2013)
+1030100442.197000 Manutenção das Atividades de Atenção
+Básica
+776 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS
+- PESS R$ 462.628,31
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+
+1030501282.216000 Manutenção das Atividades da Vigilância
+Epidemiológica
+977 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS
+- PESS R$ 115.110,14
+Fonte : 150002Impostos e Transferências de Impostos (ASPS
+15%)
+04.01 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+0812200452.012000 Manutenção da Unidade
+1024 3.1.90.13.05.00.00 Obrigações Patronais RPPS Outros Mun
+R$ 5.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+1027
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 4.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+1033 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 30.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+0812200452.069000 Manutenção do Conselho Tutelar
+1039 3.1.90.04.00.00.00 CONTRATAÇÃO POR
+DETERMINADO R$ 32.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+
+TEMPO
+
+0824300482.158000 PSB FEDERAL - Serviço de Convivência e
+Fortalecimento de Vínculos para crianças,
+1106 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 12.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+0824400492.165000 PSE - Serviço de Proteção e atendimento
+especializado à famílias e indivíduos 1190 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 5.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social – FNAS
+0824401332.191000 Índice de Gestão Descentralizada Programa
+Bolsa Família
+1279 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 15.700,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+
+1030200432.210000 SAMU
+878 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS
+- PESS R$ 137.042,16
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+
+0824401452.232000 PSB - Fortalecimento Emergencial do
+Atendimento do Cadastro Único no SUAS - PROC
+1282 3.1.90.16.00.00.00 OUTRAS DESPESAS VARIÁVEIS PESSOAL R$ 9.600,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+
+1012200402.194000 Secretaria de Saúde
+706 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS
+- PESS R$ 746.121,15
+Fonte : 150002Impostos e Transferências de Impostos (ASPS
+15%)
+
+0824400492.173000 IGD/PBF BOLSA FAMILIA
+2620 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 50.000,00
+Fonte : 266000SUPERÁVIT - Transf. Rec. do Fundo Nacional da
+Assistência Social – FNAS
+
+713
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 1.170,00
+Fonte : 150002Impostos e Transferências de Impostos (ASPS
+15%)
+
+0824400492.163000 PSB - Serviço de Proteção Integral à Família
+- PAIF – Estadual
+1185 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 58.500,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+
+1030100442.195000 Manutenção da Atenção Básica
+757 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS
+- PESS R$ 633.072,31
+Fonte : 150002Impostos e Transferências de Impostos (ASPS
+15%)
+1030200432.201000 Manutenção das Atividades de Média e Alta
+Complexidade
+813 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS
+- PESS R$ 245.956,75
+Fonte : 150002Impostos e Transferências de Impostos (ASPS
+15%)
+
+0824400492.166000 PSE ESTADUAL - Serviço de Proteção e
+atendimento especializado à famílias e indi
+1205 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 13.381,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+0824400492.180000 Programa Primeira Infância no SUAS Criança Feliz
+
+www.diariomunicipal.com.br/aemerj
+
+13
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+1224 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 3.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+0824400492.051000 PSB - Assistência e Concessão de Benefícios
+Eventuais - Estadual
+1156 3.3.90.48.00.00.00 OUTROS AUXÍLIOS FINANCEIROS A
+PESSOA R$ 10.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+0824400492.165000 PSE - Serviço de Proteção e atendimento
+especializado à famílias e indivíduos 1187 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 1.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+0824400492.059000 Prog. de Promoção de Acesso ao Mundo do
+Trabalho - ACESSUAS TRABALHO
+2624 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 1.000,00
+Fonte : 266000SUPERÁVIT - Transf. Rec. do Fundo Nacional da
+Assistência Social - FNAS
+0824300482.157000 Estadual - Serviço de Conv e Fort de Vín
+para crianças, adolesc e jov
+1099 3.1.90.11.02.00.00 Vencimentos e Vant. Fixas-Pessoal Ci R$
+15.000,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+06.01 Fundo Municipal de Meio Ambiente
+1854100642.077000 Coleta e Destinação Final de Resíduos
+Sólidos
+1371 3.1.71.70.00.00.00 RATEIO PELA PARTICIPAÇÃO EM
+CONSÓRCI R$ 9.300,00
+Fonte : 150000Impostos e Transferências de Impostos
+1854100642.077000 Coleta e Destinação Final de Resíduos
+Sólidos
+1374 3.3.71.70.00.00.00 RATEIO PELA PARTICIPAÇÃO EM
+CONSÓRCI R$ 175.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1378 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 12.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1381 4.4.71.70.00.00.00 RATEIO PELA PARTICIPAÇÃO EM
+CONSÓRCI R$ 600,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+11.10 FUNDO MUNICIPAL DE EDUCAÇÃO
+1236100122.012000 Manutenção da Unidade
+1469 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 5.000,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1236100132.889000 Manutenção do Ensino Fundamental
+1597 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 1.818.313,54
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1632 3.1.90.13.05.00.00 Obrigações Patronais RPPS Outros Mun
+R$ 3.000,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1646
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 2.665,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+
+1717 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 909.500,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1236500132.895000 Manutenção do Ensino Infantil - Pré - Escola
+1806 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 323.936,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1851
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 195,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1236700142.145000 Manutenção da Educação Inclusiva
+1901 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 135.703,96
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1236100132.026000
+Manutenção
+Merenda
+Escolar
+Fundamental
+1531 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+37.000,00
+Fonte : 155200Transferências de Recursos do FNDE - PNAE
+Art. 2° - O recurso para atender a presente suplementação é
+oriundo da anulação parcial do Programa de Trabalho abaixo,
+conforme o Inciso III, do Parágrafo 1°, Artigo 43 da Lei 4.320, de
+17 de março de 1964.
+02.01 Gabinete do Prefeito.
+0412201352.012000 Manutenção da Unidade
+49 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 3.336,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+55 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 3.450,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+63 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 40.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.02 Secretaria Municipal de Administração.
+0412200062.012000 Manutenção da Unidade
+77 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 17.790,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+81 3.3.90.48.00.00.00 OUTROS AUXÍLIOS FINANCEIROS A
+PESSOA R$ 8.882,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+82
+3.3.90.92.00.00.00
+DESPESAS
+DE
+EXERCÍCIOS
+ANTERIORES R$ 4.493,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0927200032.005000 Encargos Sociais.
+114
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 10.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+0412200091.023000 Aquisição de Imoveis
+93 4.5.90.61.00.00.00 AQUISIÇÃO DE IMÓVEIS R$ 6.677,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412200092.073000 Manutenção da Administração Geral
+100 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 3.872,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+1236500132.893000 Manutenção do Ensino Infantil - Creche
+
+www.diariomunicipal.com.br/aemerj
+
+14
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+0927200032.179000 Aporte ao RPPS
+119 3.3.91.97.00.00.00 APORTE PARA COBERTURA DO
+DÉFICIT ATU R$ 3.269,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2884100112.021000 Encargos com a Dívida Contratada.
+123 3.2.90.21.00.00.00 JUROS SOBRE A DÍVIDA POR
+CONTRATO R$ 23.829,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.03 Secretaria Municipal de Fazenda.
+0412300102.012000 Manutenção da Unidade
+136 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 2.438,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+138 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+151 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.05 Secretaria Mun.de Esporte
+2781200192.012000 Manutenção da Unidade
+168 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 2.344,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.06 Sec. Mun. Obras e Serv. Públicos
+0412200202.012000 Manutenção da Unidade
+192 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 4.670,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412200591.116000 CONSTRUÇÃO DE QUADRAS, PRAÇAS E
+ÁREAS DE LAZER
+205 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 26.463,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412200592.883000 CONSTRUÇÃO E REVITALIZAÇÃO DE
+VIAS URBANAS E RURAIS
+207 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.083,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545100222.038000 Manutenção do Serviço de Iluminação
+Pública
+214 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.083,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+217 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545100242.079000 Obras Gerais de Infraestrutura
+238 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+254.857,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+240 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 30.052,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+244 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 84.000,00
+Fonte : 172000Royalties do Petróleo e Gás Natural - FEP - LEI
+Nº 9.478/97
+02.07 Secretaria M de Cultura e Lazer
+
+1339200262.221000 Participação e Realização de Eventos
+Culturais
+276 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 23.903,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.08 Sec Mun Ambient Agricultura Desenv Rural
+2012200282.012000 Manutenção da Unidade
+288 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 5.322,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+295
+3.3.90.92.00.00.00
+DESPESAS
+DE
+EXERCÍCIOS
+ANTERIORES R$ 1.724,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2060500322.033000 Apoio a Diversificação de Culturas
+307 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 6.545,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.10 Controladoria Geral do Município
+0412400332.012000 Manutenção da Unidade
+342 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 7.536,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.11 Secretaria Geral de Governo e Planejamento
+0412200052.009000 Manutenção da Assessoria de Imprensa
+346 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 5.209,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412200342.012000 Manutenção da Unidade
+350 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 3.097,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412200342.874000 Viagens do Prefeito
+362 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+363 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412600572.183000 Aquisição e Locação de Equipamentos de
+Informática
+365 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+366 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+368 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.12 Secretaria Municipal de Turismo
+2369500272.040000 Participação e Realização de Eventos
+Turísticos.
+392 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 2.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2369500862.901000 Conselho - Cit Vale
+399 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.500,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+www.diariomunicipal.com.br/aemerj
+
+15
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+400 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.500,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.14 Procuradoria Geral
+0412200382.086000 Sentenças Judiciais
+411 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.15 Secretaria Municipal de Transportes
+2678200392.012000 Manutenção da Unidade
+2181 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 6.608,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2172 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 2.105,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2678200392.087000 Manutenção da Frota de Veiculos e
+Equipamentos Automotores
+2164 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+93.893,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2166 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 9.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2169 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 19.000,00
+Fonte : 170500Transf. dos Estados Referente a Royalties do
+Petróleo e Gás Natural
+02.16 Sec. Mun. Integração Políticas da Mulher
+0412200922.012000 Manutenção da Unidade
+414 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 5.933,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+417 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 17.180,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+469
+3.3.90.92.00.00.00
+DESPESAS
+DE
+EXERCÍCIOS
+ANTERIORES R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+470 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1512600962.220000 Aquisição de Software e Equipamentos de TI
+para Secretaria
+472 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545100972.914000 Dar posse as Pessoas que Aderirem ao
+Projeto REURB
+485 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+488 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 4.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545100982.915000 Melhoria do Acompanhamento das Vias do
+Municipio
+501 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.800,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+507 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 2.349,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545101031.124000 Restauração da Antiga Casa do Barão de
+Vassouras.
+2872 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+0412201302.187000 Núcleo Integrado de Atendimento à mulher
+(NIAM)
+429 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.700,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+1545200581.131000 Elaboração da Revisão do Plano Diretor
+Municipal
+643 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 2.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+02.17 Sec. Mun. de Mod, Integ e Polít Públicas
+0412200912.012000 Manutenção da Unidade
+431 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 4.742,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+1545300731.132000 Elaboração do Plano de Mobilidade Urbana
+do Município
+674 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+677 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+680 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+02.18 Sec. Mun. Seg. Pública e Defesa Civil
+0412200942.012000 Manutenção da Unidade
+442 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 7.263,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.19 Sec. Mun. Urbanismo e Patrim. Histórico
+0412200952.012000 Manutenção da Unidade
+464 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 3.400,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+467 3.3.90.48.00.00.00 OUTROS AUXÍLIOS FINANCEIROS A
+PESSOA R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+468 3.3.90.91.00.00.00 SENTENÇAS JUDICIAIS R$ 1.000,00
+
+1545301001.133000 Aquisição de Veículos
+688 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+www.diariomunicipal.com.br/aemerj
+
+16
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+691 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+698 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+02.21 Sec. Mun Desenv Econômico e Inovação
+0412201512.012000 Manutenção da Unidade
+2211 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 3.461,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2203 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2205 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2207 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2213 3.3.90.48.00.00.00 OUTROS AUXÍLIOS FINANCEIROS A
+PESSOA R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2209 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412201512.241000 Departamento de Inovação
+2231 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2233 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2235 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2237 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412201522.239000 PROCON - Programa de Proteção e Defesa
+do Consumidor
+2214 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2217 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2219 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2221 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412201532.240000 Sala do Cidadão Empreendedor
+2223 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+2225 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2227 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2229 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0412600572.183000 Aquisição e Locação de Equipamentos de
+Informática
+2189 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2193 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.700,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0433301502.238000 Sistema Nacional de Empregos ( SINE )
+2195 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2197 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2199 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2201 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+03.01 FUNDO MUNICIPAL DE SAUDE
+1012200402.194000 Secretaria de Saúde
+754 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 100.000,00
+Fonte : 163500Royalties vinculados à Saúde (art. 2º da Lei
+12.858/2013)
+715 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$13.541,68
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+719 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 3.691,40
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+726 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 18.132,64
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+732 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 4.723,83
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+710 3.1.91.13.00.00.00 CONTRIBUIÇÕES PATRONAIS R$
+1.741.430,35
+Fonte : 150002Impostos e Transferências de Impostos (ASPS
+15%)
+1030100442.197000 Manutenção das Atividades de Atenção
+Básica
+783 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+790 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+794 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+
+www.diariomunicipal.com.br/aemerj
+
+17
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+799 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+774 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 68.319,85
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+780 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 4.450,00
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+784 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 2.327,10
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+787 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 121.335,30
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+791 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 42.856,15
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+803 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1030400412.214000 Manutenção das Atividades da Vigilância
+Sanitária
+970 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.044,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1030200432.201000 Manutenção das Atividades de Média e Alta
+Complexidade
+811 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 9.901,85
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+814 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS FIXAS
+- PESS R$ 2.537,87
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+830 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 19.677,29
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+835 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.131,18
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+839 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 27.152,92
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+1030200432.204000 Regulação Ambulatorial e Hospitalar
+862 3.3.50.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 142.166,10
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+870 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 889,53
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+1030200432.210000 SAMU
+876 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 3.375,00
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+880
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 100,00
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+882 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.357,44
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+1030200432.211000 Atenção Psicossocial
+892 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 53.636,53
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+896
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 100,00
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+
+1030300712.213000 Suporte Profilático e Terapêutico Assistência Farmacêutica
+919 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 134,92
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+925 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 100,00
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+930 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 100,00
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+934 3.3.90.91.00.00.00 SENTENÇAS JUDICIAIS R$ 10.000,00
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+1030501282.216000 Manutenção das Atividades da Vigilância
+Epidemiológica
+975 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 1.887,66
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+985 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 20.042,08
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+992 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 25.880,41
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+999 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 121,74
+Fonte : 160000Transf. do SUS - Bloco de Manut. ASPS (Custeio)
+04.01 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+0812200452.012000 Manutenção da Unidade
+1021 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 37.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+1022 3.1.90.13.01.00.00 Obrigaç s Patronais - FGTS R$ 4.900,00
+Fonte : 150000Impostos e Transferências de Impostos
+1028 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 4.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+0824400492.163000 PSB - Serviço de Proteção Integral à Família
+- PAIF - Estadual
+1180 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 18.000,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+1182 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+40.500,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+0824100462.190000 PSE - Serviço de Acolhimento Institucional
+para Idosos
+1072 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 30.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+0824400492.051000 PSB - Assistência e Concessão de Benefícios
+Eventuais - Estadual
+1109 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+12.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+0824400492.162000 PSB - Serviço de Proteção Integral à Família
+- PAIF
+1171 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 9.600,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+0824400492.165000 PSE - Serviço de Proteção e atendimento
+especializado à famílias e indivíduos 1189
+3.3.90.08.00.00.00
+OUTROS
+BENEFÍCIOS
+ASSISTENCIAIS DO S R$ 5.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+
+www.diariomunicipal.com.br/aemerj
+
+18
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+0824401332.191000 Índice de Gestão Descentralizada Programa
+Bolsa Família
+1273 3.1.90.04.00.00.00 CONTRATAÇÃO POR TEMPO
+DETERMINADO R$ 15.700,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social - FNAS
+0812200452.008000 Manutenção dos Conselhos e Comissões
+Municipais
+1019 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 7.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0812200452.012000 Manutenção da Unidade
+1030 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 4.800,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1032 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 25.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1031 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 10.000,00
+Fonte : 150000Impostos e Transferências de Impostos
+0824100462.190000 PSE - Serviço de Acolhimento Institucional
+para Idosos
+1084 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0824300482.159000 PSE FEDERAL - Serviço de Acolhimento
+institucional para crianças e adolescentes
+1125 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 10.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+0824400492.051000 PSB - Assistência e Concessão de Benefícios
+Eventuais - Estadual
+1153 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 49.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1157 3.3.90.48.00.00.00 OUTROS AUXÍLIOS FINANCEIROS A
+PESSOA R$ 82.030,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1152 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 15.000,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+0824400492.165000 PSE - Serviço de Proteção e atendimento
+especializado à famílias e indivíduos 1191 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+10.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1197 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 4.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2621 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 50.000,00
+Fonte : 266000SUPERÁVIT - Transf. Rec. do Fundo Nacional da
+Assistência Social - FNAS
+1192 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social – FNAS
+
+0824400492.059000 Prog. de Promoção de Acesso ao Mundo do
+Trabalho - ACESSUAS TRABALHO
+2625 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 266000SUPERÁVIT - Transf. Rec. do Fundo Nacional da
+Assistência Social – FNAS
+0824400492.166000 PSE ESTADUAL - Serviço de Proteção e
+atendimento especializado à famílias e indi
+1202 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+13.380,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+1204 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1,00
+Fonte : 166100Transf. de Rec. dos Fundos Estaduais de
+Assistência Social
+0824400492.180000 Programa Primeira Infância no SUAS Criança Feliz
+1215 3.1.90.11.00.00.00 VENCIMENTOS E VANTAGENS
+FIXAS - PESS R$ 3.000,00
+Fonte : 166000Transf. Rec. do Fundo Nacional da Assistência
+Social – FNAS
+06.01 Fundo Municipal de Meio Ambiente
+1812200362.012000 Manutenção da Unidade
+1308 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 3.125,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1311 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 4.792,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1313 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 2.084,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1317 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 2.324,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1854100371.089000 Manutenção e Remediação do Aterro
+Sanitário - Setor A
+1331 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1854100372.148000 Manutenção da Remediação do Aterro
+Sanitário Controlado no Bairro Triunfo
+1335 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 2.084,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1337 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 2.084,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1854100372.805000 Infraestrutura de Área Verdes
+1341 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 2.084,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1343 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 2.084,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1854100372.808000 Programa Municipal de Patrulha Ambiental
+1360 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.042,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1362 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.042,00
+
+www.diariomunicipal.com.br/aemerj
+
+19
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+11.10 FUNDO MUNICIPAL DE EDUCAÇÃO
+1236100132.889000 Manutenção do Ensino Fundamental
+1636 3.1.90.92.00.00.00 DESPESAS DE EXERCÍCIOS
+ANTERIORES R$ 417.503,63
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1641 3.1.91.13.00.00.00 CONTRIBUIÇÕES PATRONAIS R$
+1.027.991,50
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1236500132.893000 Manutenção do Ensino Infantil - Creche
+1753 3.1.90.92.00.00.00 DESPESAS DE EXERCÍCIOS
+ANTERIORES R$ 253.670,59
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1758 3.1.91.13.00.00.00 CONTRIBUIÇÕES PATRONAIS R$
+608.478,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1236500132.895000 Manutenção do Ensino Infantil - Pré - Escola
+1842 3.1.90.92.00.00.00 DESPESAS DE EXERCÍCIOS
+ANTERIORES R$ 405.825,78
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1847 3.1.91.13.00.00.00 CONTRIBUIÇÕES PATRONAIS R$
+484.844,00
+Fonte : 150001Impostos e Transferências de Impostos (MDE 25%)
+1236500132.074000 Manutenção da Merenda Escolar - Creches
+1696 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$
+37.000,00
+Fonte : 155200Transferências de Recursos do FNDE - PNAE
+1236100132.087000 Manutenção da Frota de Veículos e
+Equipamentos Automotores
+1568 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.844,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+12.01 FUNDO MUNICIPAL DE CULTURA
+1312201412.012000 Manutenção da Unidade
+1930 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1931 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1933 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1935 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1938 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1339200262.032000 Participação e Realização de Eventos
+Culturais
+1940 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1942 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1944 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1946 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1312201412.012000 Manutenção da Unidade
+1936 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170500Transf. dos Estados Referente a Royalties do
+Petróleo e Gás Natural
+13.01 FUNDO MUN PROTEÇÃO PATRIMÕNIO CULTURAL
+1545101021.134000 Realização de Obras nos Prédios Históricos
+Municipais
+1949 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1952 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1955 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545101032.919000 Valorização dos Prédios Históricos
+1957 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 2.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+960 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1966 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 40.922,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1969 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545101042.218000 Melhoria do Ambiente de Trabalho e
+Manutenção do Patrimônio Cultural
+1971 3.3.90.14.00.00.00 DIÁRIAS - CIVIL R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1973 3.3.90.30.00.00.00 MATERIAL DE CONSUMO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1976 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1978 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1981 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1987 4.4.90.52.00.00.00 EQUIPAMENTOS E MATERIAL
+PERMANENTE R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545101042.920000 Melhoria da Estrutura do Fundo e do
+Conselho
+1990 3.3.90.32.00.00.00 MATERIAL, BEM OU SERVIÇO PARA
+DISTRI R$ 1.000,00
+
+www.diariomunicipal.com.br/aemerj
+
+20
+
+Rio de Janeiro , 15 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Rio de Janeiro • ANO XVII | Nº 4041
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1993 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1996 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1999 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+1545201061.135000 Digitalização do Arquivo Municipal
+2001 3.3.90.36.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2003 3.3.90.39.00.00.00 OUTROS SERVIÇOS DE TERCEIROS PESSO R$ 1.500,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+2006 4.4.90.51.00.00.00 OBRAS E INSTALAÇÕES R$ 1.000,00
+Fonte : 170400Transf. da União Referente a Royalties do
+Petróleo e Gás Natural
+Artº. 3° - O presente Decreto entrará em vigor na data de sua
+publicação, com efeitos a partir de 01 de dezembro de 2025,
+revogando–se as disposições em contrário.
+Prefeitura Municipal de Vassouras,
+Em 01 de dezembro de 2025.
+Certifico que este Decreto foi afixado em local próprio nesta
+Prefeitura em 01 de dezembro de 2025.
+,
+ROSILANE PIVETI SILVA
+Prefeita
+RUBENS DA PENHA DE ANDRADE LAGE
+Secretário Geral de Gov e Planejamento
+Publicado por:
+Mauricio Pontes de Barros Azevedo

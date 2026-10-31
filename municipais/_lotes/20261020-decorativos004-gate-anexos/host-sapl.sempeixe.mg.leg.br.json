@@ -1,0 +1,181 @@
+{
+  "host": "sapl.sempeixe.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/1/emenda_1_de_2009_lom20260523_0059.pdf da norma Lei Orgânica Municipal nº 1, de 23 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Dá nova redação ao art. 52, da Lei Orgânica Municipal de Sem Peixe",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/1997/1/emenda_1_de_2009_lom20260523_0059.pdf",
+      "ano": 1997,
+      "norma": 1
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/2/emenda_2_de_2009_lom20260523_0060.pdf da norma Lei Orgânica Municipal nº 1, de 23 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Dá Nova Redação ao art. 51, da Lei Orgânica Municipal de Sem Peixe",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/1997/2/emenda_2_de_2009_lom20260523_0060.pdf",
+      "ano": 1997,
+      "norma": 1
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/3/publicacao20260523_0061.pdf da norma Lei Orgânica Municipal nº 1, de 23 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/1997/3/publicacao20260523_0061.pdf",
+      "ano": 1997,
+      "norma": 1
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/454_anexos_loa.pdf da norma Lei Municipal nº 454, de 26 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Eder Eloi Alves Pena",
+                [
+                  "2025-01-30T09:46:35-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Anexos Lei Orçamentária Anual 2025.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2024/4/454_anexos_loa.pdf",
+      "ano": 2024,
+      "norma": 63
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/443_anexos_loa_lei_orcamentariaanual__2024.pdf da norma Lei Municipal nº 443, de 29 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2023/5/443_anexos_loa_lei_orcamentariaanual__2024.pdf",
+      "ano": 2023,
+      "norma": 94
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/6/230__alteracao_lei_222.2010_ratificacao_direitos_e_vantagens_direitos_magisterio.pdf da norma Lei Complementar nº 222, de 24 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a ratificação de direitos e vantagens para os Profissionais do Magistério, Apoio e Serviço Escolar do Município de Sem Peixe, e dá outras\r\nprovidências.  (Acrescida de artigo)",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2010/6/230__alteracao_lei_222.2010_ratificacao_direitos_e_vantagens_direitos_magisterio.pdf",
+      "ano": 2010,
+      "norma": 97
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/7/231_altera_anexo_i_e_iii_da_lei_magisterio_lei_222.2010.pdf da norma Lei Complementar nº 222, de 24 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a alteração dos Anexos | e Ill da Lei Complementar n.º 222/2010, no que diz respeito ao número de vagas e à correlação de cargos, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2010/7/231_altera_anexo_i_e_iii_da_lei_magisterio_lei_222.2010.pdf",
+      "ano": 2010,
+      "norma": 97
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/8/250_altera_anexo_iv_lei_complementar_222-2010_magisterio.pdf da norma Lei Complementar nº 222, de 24 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Altera o Anexo IV da Lei Complementar Municipal n.º 222 de 24 de novembro de 2010, na Classe de Profissionais do Magistério, para fins de  regulamentar o Piso Salarial.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2010/8/250_altera_anexo_iv_lei_complementar_222-2010_magisterio.pdf",
+      "ano": 2010,
+      "norma": 97
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/9/284_alteracao_da_lei_complementar_222._de_24.11.2010_magisterio.pdf da norma Lei Complementar nº 222, de 24 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre alteração da Lei Complementar Municipal nº222, de 24 de novembro de 2010.   (Altera o Parágrafo Único do art.88 da Lei Complementar\r\nMunicipal nº222, de 24 de novembro de 2010)",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2010/9/284_alteracao_da_lei_complementar_222._de_24.11.2010_magisterio.pdf",
+      "ano": 2010,
+      "norma": 97
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/10/478_altera_art_87_lei_complementar__222.2010.pdf da norma Lei Complementar nº 222, de 24 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Altera o art. 87 da Lei Complementar n.º 222/2010, de 24 de novembro de 2010 dá outras providências.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2010/10/478_altera_art_87_lei_complementar__222.2010.pdf",
+      "ano": 2010,
+      "norma": 97
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/11/479_altera_o_art._88-a_da_lei_complementar_n.o_2222010_de_24_de_novembro_de_2010_incluido_pela_lei_complementar_n.o_2302011_de_25_de_maio_de_2011.pdf da norma Lei Complementar nº 222, de 24 de novembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Altera o art. 88-A da Lei Complementar n.º 222/2010, de 24 de novembro de 2010, incluído pela Lei Complementar n.º 230/2011, de 25 de maio de 2011 e dá outras providências.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2010/11/479_altera_o_art._88-a_da_lei_complementar_n.o_2222010_de_24_de_novembro_de_2010_incluido_pela_lei_complementar_n.o_2302011_de_25_de_maio_de_2011.pdf",
+      "ano": 2010,
+      "norma": 97
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/12/255_altera_disposicoes_da_lei_243.2012.pdf da norma Lei Complementar nº 243, de 16 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "ALTERA DISPOSIÇÕES DA LEI COMPLEMENTAR 243/12 DE 16/04/2012, QUE INSTITUI O ESTATUTO DOS SERVIDORES DE SEM PEIXE (MG).",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2012/12/255_altera_disposicoes_da_lei_243.2012.pdf",
+      "ano": 2012,
+      "norma": 98
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/13/285_regulamento_de_apostilamento.pdf da norma Lei Complementar nº 243, de 16 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a regulamentação de apostilamento.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2012/13/285_regulamento_de_apostilamento.pdf",
+      "ano": 2012,
+      "norma": 98
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/14/320_alteracao_da_lei_complementar_243_de_abril.2022.pdf da norma Lei Complementar nº 243, de 16 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre alteração da Lei Complementar Municipal nº 243, de 16 de abril de 2012.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2012/14/320_alteracao_da_lei_complementar_243_de_abril.2022.pdf",
+      "ano": 2012,
+      "norma": 98
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/15/349_altera_lei_243_estatuto.pdf da norma Lei Complementar nº 243, de 16 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a alteração da Lei Complementar nº 243 de 16 de abril de 2012 e dá outras providências.",
+      "anexo_arquivo": "http://sapl.sempeixe.mg.leg.br/media/sapl/public/anexonormajuridica/2012/15/349_altera_lei_243_estatuto.pdf",
+      "ano": 2012,
+      "norma": 98
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.sempeixe.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.sempeixe.mg.leg.br/a363802cd69b53039d471277185af6b21463c0d91b9c9f2ce9e934b34ecda35b.json",
+      "sha256": "799a7ff4b18d5a6b1a64997004936002e1469e8132af30022285700c0b1ac13e",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.sempeixe.mg.leg.br/a363802cd69b53039d471277185af6b21463c0d91b9c9f2ce9e934b34ecda35b.meta.json"
+    }
+  ],
+  "total": 15
+}

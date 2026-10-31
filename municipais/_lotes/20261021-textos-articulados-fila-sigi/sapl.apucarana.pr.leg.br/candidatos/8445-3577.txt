@@ -1,0 +1,1009 @@
+Dispõe sobre instalação de ERB, Mini-ERBS e Fibra Ótica no Município de Apucarana e Revoga as Leis Complementares nº 002, de 21 de março de 2002 e nº 117, de 30 de dezembro de 2017, como especifica.
+
+
+A CÂMARA MUNICIPAL DE APUCARANA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO DO MUNICÍPIO, OBEDECENDO AO DISPOSTO NO INCISO V, ARTIGO 55 DA LEI ORGÂNICA, SANCIONO A SEGUINTE:-
+
+LEI COMPLEMENTAR
+
+
+#### CAPÍTULO I — DAS DEFINIÇÕES
+
+
+Art. 1º.
+
+Para fins dessa Lei, observam-se as seguintes definições:
+
+
+I –
+
+antena: dispositivo para emitir ou capturar ondas eletromagnéticas no espaço;
+
+
+II –
+
+capacidade excedente: infraestrutura de suporte instalada e não utilizada, total ou parcialmente, disponível para compartilhamento;
+
+
+III –
+
+CEMRF: campos elétricos, magnéticos e eletromagnéticos, na faixa de radiofrequências entre 8,3 kHz e 300 GHz;
+
+
+IV –
+
+compartilhamento de infraestrutura: cessão, a título oneroso ou não, da capacidade ociosa de postes, torres, mastros, armários, dutos, condutos e demais meios usados para passagem ou acomodação de elementos de rede que suporte serviços de telecomunicações de interesse coletivo;
+
+
+V –
+
+detentora: pessoa física ou jurídica que detém, administra ou controla, direta ou indiretamente, uma infraestrutura de suporte;
+
+
+VI –
+
+direito de passagem: prerrogativa de acessar, utilizar, atravessar, cruzar, transpor e percorrer imóvel de propriedade alheia, com o objetivo de construir, instalar, alterar ou reparar infraestrutura de suporte, bem como cabos, sistemas, equipamentos ou quaisquer outros recursos ou elementos de redes de telecomunicações;
+
+
+VII –
+
+empresa de infraestrutura: pessoa jurídica, terceirizada ou não da operadora de telefonia celular, capaz de executar obras e serviços de infraestrutura de suporte da Estação Transmissora de Radiocomunicação.
+
+
+VIII –
+
+Estação Rádio Base (ERB): conjunto de equipamentos ou aparelhos, dispositivos e demais meios necessários à realização de comunicação, seus acessórios e periféricos que emitem radiofrequências e, quando for o caso, as instalações que os abrigam e complementam;
+
+
+IX –
+
+Estação Rádio Base Móvel (ERBM): A Estação Rádio Base instalada para permanência máxima de 06 (seis) meses para cobrir demandas específicas, tais como eventos, convenções etc.;
+
+
+X –
+
+estação transmissora de radiocomunicação: conjunto de equipamentos ou aparelhos, dispositivos e demais meios necessários à realização de comunicação, incluindo seus acessórios e periféricos, que emitem radiofrequências, possibilitando a prestação dos serviços de telecomunicações;
+
+
+XI –
+
+exposição: situação em que pessoas estão expostas a CEMRF ou estão sujeitas a correntes de contato ou induzidas, associadas à CEMRF;
+
+
+XII –
+
+exposição ocupacional ou exposição controlada: situação em que pessoas são expostas a CEMRF em consequência de seu trabalho, e estão cientes do potencial de exposição, podendo exercer controle sobre sua permanência no local ou tomar medidas preventivas;
+
+
+XIII –
+
+exposição da população em geral ou exposição não controlada: situação na qual a população em geral é exposta a CEMRF, ou situação na qual pessoas são expostas em consequência de seu trabalho, porém sem estarem cientes da exposição ou sem possibilidade de adotar medidas preventivas, excluindo-se a exposição durante procedimentos médicos.
+
+
+XIV –
+
+fonte transmissora relevante: emissor de radiocomunicações, operando entre 8,3 kHz e 300 GHz, no qual em um determinado ponto de investigação é responsável por uma fração do limite de exposição (quociente de exposição) igual ou superior a 0,05 (cinco centésimos);
+
+
+XV –
+
+infraestrutura de suporte: meios físicos fixos utilizados para dar suporte a redes de telecomunicações, entre os quais postes, torres, mastros, armários, estruturas de superfície e estruturas suspensas;
+
+
+XVI –
+
+instalação externa: instalação em locais não confinados, tais como torres, postes, topo de edificações, fachadas, caixas d água etc.;
+
+
+XVII –
+
+instalação interna: instalação em locais confinados, tais como no interior de edificações, túneis, shoppings, aeroportos, estádios etc.;
+
+
+XVIII –
+
+limiar de acionamento: percentual de uso da capacidade da estação transmissora de radiocomunicação que determina a necessidade de expansão da capacidade da estação ou do sistema da prestadora;
+
+
+XIX –
+
+Mini Estação Radio Base (Mini ERB): a ERB de pequeno porte a que seja de pequenas dimensões e opere com potência de pico máxima, medida na salda do transmissor, que não seja superior a 5 W (cinco watts). Também se enquadra nesta categoria quando os equipamentos estiverem ocultos em mobiliário urbano, enterrados ou instalados no interior da edificação ou suas antenas instaladas em postes de iluminação pública ou privada.
+
+
+XX –
+
+operadora de telefonia celular: pessoa jurídica que detém a licença para funcionamento da Estação Transmissora de Radiocomunicação de telefonia móvel emitida pela Agência Nacional de Telecomunicações - ANATEL;
+
+
+XXI –
+
+prestadora: pessoa jurídica que detém concessão, permissão ou autorização para a exploração de serviço de telecomunicações;
+
+
+XXII –
+
+postes: estrutura vertical apta a comportar equipamentos de telecomunicações, podendo ser metálica ou de concreto;
+
+
+XXIII –
+
+profissional habilitado: trabalhador previamente qualificado e com registro no competente conselho de classe;
+
+
+XXIV –
+
+radiocomunicação: telecomunicação que utiliza frequências radioelétricas não confinadas a fios, cabos ou outros meios físicos;
+
+
+XXV –
+
+rede de telecomunicações: conjunto operacional contínuo de circuitos e equipamentos, incluindo funções de transmissão, comutação, multiplexação ou quaisquer outras indispensáveis à operação de serviços de telecomunicações;
+
+
+XXVI –
+
+torre: modalidade de infraestrutura de suporte vertical para sustentação de equipamentos necessários ao funcionamento das Estações Transmissoras de Radiocomunicação, incluindo fundações, instaladas em lotes vagos ou edificados.
+
+
+#### CAPÍTULO II — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 2º.
+
+A instalação de infraestrutura de rede de telecomunicações em área urbana não poderá:
+
+
+I –
+
+obstruir a circulação de veículos, pedestres ou ciclistas;
+
+
+II –
+
+contrariar parâmetros urbanísticos e paisagísticos aprovados para a área;
+
+
+III –
+
+prejudicar o uso de praças e parques;
+
+
+IV –
+
+prejudicar a visibilidade dos motoristas que circulem em via pública ou interferir na visibilidade da sinalização de trânsito;
+
+
+V –
+
+danificar, impedir acesso ou inviabilizar a manutenção, o funcionamento e a instalação de infraestrutura de outros serviços públicos;
+
+
+VI –
+
+pôr em risco a segurança e a saúde de terceiros e de edificações vizinhas;
+
+
+VII –
+
+interferir no cone aéreo de instalações aeroportuárias.
+
+
+Art. 3º.
+
+É obrigatório o compartilhamento de torres pelas prestadoras de serviços de telecomunicações que utilizam estações transmissoras de radiocomunicação, conforme definição constante do Art. 73 da Lei nº 9.472, de 16 de julho de 1997, nas situações em que o afastamento entre elas for menor do que 500 (quinhentos) metros, exceto quando houver justificado motivo técnico.
+
+
+Art. 4º.
+
+As estações transmissoras de radiocomunicação, incluindo terminais de usuário, deverão atender aos limites de exposição humana aos campos elétricos, magnéticos e eletromagnéticoscom espectro eletromagnético de frequência de 9kHz (nove quilohertz) a 300GHz (trezentos giga-hertz) em acordo com a resolução 700/2018 da Agência Nacional de Telecomunicações (ANATEL), ou a que vier a substitui-la.
+
+
+§ 1º
+
+A fiscalização do atendimento aos limites legais mencionados no caput deste artigo é de competência do órgão regulador federal de telecomunicações.
+
+
+§ 2º
+
+O município deverá comunicar ao estado e a federação sobre eventuais indícios de irregularidades quanto aos limites legais estabelecidos no caput e demais resoluções que vierem a serem instituídas pela ANATEL.
+
+
+#### CAPÍTULO III — DAS LICENÇAS
+
+
+Art. 5º.
+
+A licença para instalação de infraestrutura e de redes de telecomunicações em área urbana obedecerá ao disposto nesta Lei e será pautado pelos seguintes princípios:
+
+
+I –
+
+razoabilidade e proporcionalidade;
+
+
+II –
+
+eficiência e celeridade;
+
+
+III –
+
+integração e complementaridade entre as atividades de instalação de infraestrutura de suporte e dezurbanização;
+
+
+IV –
+
+redução do impacto paisagístico da infraestrutura de telecomunicações, sempre que tecnicamente possível e economicamente viável.
+
+
+Art. 6º.
+
+A instalação e o funcionamento de ERB e Mini-ERB e suas respectivas infraestruturas de suporte em imóveis edificados ou não, privados ou públicos deverão observar os parâmetros urbanísticos vigentes, das Leis de Uso e Ocupação, Código de Obras e demais leis que interferirem na matéria.
+
+
+§ 1º
+
+Além do disposto no caput deste artigo, deverá ser atendido as especificações quanto ao local de instalação das ERB e Mini-ERB, sendo que:
+
+
+I –
+
+no topo de edificações:
+
+
+a)
+
+as antenas poderão ser instaladas acima da última laje da edificação, não podendo, o equipamento, ultrapassar a altura de 10 (dez) metros;
+
+
+b)
+
+as antenas com até 6,00m (seis metros) de altura não são contabilizadas na altura total do edifício, a partir desta altura deverá ser respeitada a altura conforme o zoneamento do lote;
+
+
+c)
+
+o edifício deverá apresentar altura mínima de 10m (dez metros), medidos do nível do pavimento térreo até o nível da laje de cobertura;
+
+
+d)
+
+a implantação da antena e seu elemento de suporte será limitada ainda pelo plano formado por ângulo de 60º conforme Anexo I, parte integrante desta Lei.
+
+
+e)
+
+os demais equipamentos que integram a instalação como containers e armários poderão estar localizados acima da última laje devendo receber tratamento adequado, integrado à composição arquitetônica da edificação.
+
+
+f)
+
+as antenas e sua infraestrutura de suporte bem como os demais equipamentos que integram a instalação deverão respeitar um afastamento mínimodos planos das fachadas ou das empenas da edificação conforme distância estabelecida para os recuos determinados na Lei de Uso e ocupação do Solo.
+
+
+g)
+
+os equipamentos do sistema de transmissão ou recepção potencialmente geradores de ruídos ou vibrações, deverão ser submetidos a tratamento acústico e anti-vibratório de modo que o Nível de Pressão Sonora (NPS) não ultrapasse os limites previstos em legislação pertinente, bem como as vibrações oriundas do sistema não afetem a estrutura física do imóvel;
+
+
+h)
+
+a instalação de qualquer equipamento de ERB e Mini-ERB deverá obedecer aos gabaritos e restrições estabelecidos pelos planos de proteção de aeródromos definidos pela União; e
+
+
+i)
+
+deverão ser garantidas as condições de segurança para acesso de pessoas ao topo do edifício.
+
+
+II –
+
+nas fachadas dos edifícios:
+
+
+a)
+
+somente quando camufladas ou mimetizadas, preservando a harmonia com a edificação e mitigando o impacto com a paisagem;
+
+
+b)
+
+é necessária a apresentação prévia de material gráfico ou fotográfico, de modo a simular a adequação com a edificação e a paisagem, possibilitando a análise e aprovação pelos órgãos municipais competentes;
+
+
+c)
+
+não poderão prejudicar as partes comuns ou as ventilações dos compartimentos existentes na edificação;
+
+
+d)
+
+os equipamentos do sistema de transmissão ou recepção potencialmente geradores de ruídos ou vibrações, deverão ser submetidos a tratamento acústico e anti-vibratório de modo que o Nível de Pressão Sonora (NPS) não ultrapasse os limites previstos em legislação pertinente, bem como as vibrações oriundas do sistema não afetem a estrutura física do imóvel.
+
+
+III –
+
+no nível do solo:
+
+
+a)
+
+quando se tratar de instalações em torres, a altura da estrutura de sustentação, deverá corresponder à da maior edificação existente no raio de 100 (cem) metros do eixo da antena ou ao gabarito ou altura estabelecido para o local pela legislação em vigor, adotada sempre a maior, acrescida de até 15 (quinze) metros, ressalvadas as exceções previstas nesta Lei.
+
+
+b)
+
+quando se tratar de instalações em postes, mastros ou similar deverá ser observada a distância correspondente aos afastamentos e prismas utilizados para ventilar ou iluminar compartimentos das edificações, exigidos pela legislação em vigor, entre as instalações da ERB e Mini-ERB e qualquer edificação existente no local, observados, em qualquer hipótese, os limites de densidade de potência estabelecidos pela ANATEL e os recuos estabelecidos na Lei de Uso e Ocupação do Solo.
+
+
+§ 2º
+
+As antenas e sua infraestrutura de suporte deverão ser perfeitamente afixadas à edificação ou ao solo, conforme o caso, devendo as condições de instalação, operação, segurança, estabilidade e resistência serem assegurada se atestadas por profissional habilitado, com a devida responsabilidade técnica junto ao conselho de classe competente.
+
+
+§ 3º
+
+A licença para instalação em áreas de proteção ambiental ou zonas especiais, serão submetidas à prévia análise da Secretaria de Obras, da Secretaria do Meio Ambiente e do IDEPPLAN.
+
+
+§ 4º
+
+A instalação de qualquer equipamento será permitida desde que garanta a segurança prevista nas leis e normas técnicas aplicáveis.
+
+
+§ 5º
+
+Poderá ser admitida a instalação de ERB e Mini-ERB em postes de iluminação ou de energia elétrica, mastros ou similar, localizados em áreas públicas, observados, em qualquer hipótese, os limites de densidade de potência estabelecidos pela ANATEL, desde que as instalações sejam realizadas em harmonização estética com os elementos da infraestrutura urbana, aprovado pelo órgão municipal competente estabelecido nesta Lei.
+
+
+§ 6º
+
+Para a instalação de equipamentos no topo das edificações, além dos demais documentos exigidos na presente Lei, o interessado deverá apresentar:
+
+
+I –
+
+comprovação da regularidade da construção onde será instalada a estrutura de suporte (projeto aprovado/certidão comprobatória);
+
+
+II –
+
+laudo técnico estrutural constando que a instalação da estação é adequada, não interferindo na estabilidade do prédio e nas condições de segurança da edificação;
+
+
+III –
+
+projeto Executivo do Sistema de Proteção Contra Descargas Atmosféricas - SPDA;
+
+
+##### Seção I — Dos Ritos para Instalação
+
+
+Art. 7º.
+
+Para a instalação de ERB e Mini-ERB, o interessado apresentará ao Poder Público Municipal, para fins de pré-análise, os seguintes documentos:
+
+
+I –
+
+Certidão Negativa de Débitos Municipais referentes ao Lote;
+
+
+II –
+
+comprovante de propriedade e/ou locação do espaço, ou compromisso de locação destinado à instalação para os sistemas de propagação de telecomunicação proposto;
+
+
+III –
+
+projeto contendo:
+
+
+a)
+
+planta de situação do terreno ou edificação;
+
+
+b)
+
+planta de locação completa, contendo as coordenadas geográficas do local pretendido, indicando se existe alguma outra estrutura similar em um raio de 500m (quinhentos metros), atendendo a legislação vigente;
+
+
+c)
+
+elevações em escala adequada, demonstrando o perfil natural do terreno em relação à calçada;
+
+
+IV –
+
+Estudo de Viabilidade Técnica para as instalações de telecomunicações propostas.
+
+
+§ 1º
+
+A Secretaria de Obras analisará e, no prazo de até 30 (trinta) diasaprovará ou não o projeto.
+
+
+§ 2º
+
+Caso não aprovado, o Município deverá se pronunciar sobre as possíveis insuficiências do projeto a serem suprimidas pelo interessado, que deverá reapresentar o projeto com as devidas alterações.
+
+
+Art. 8º.
+
+O pedido de Aprovação para Instalação de ERB e Mini-ERB deverá apresentar, além dos demais dispositivos desta Lei, o formulário constante do Anexo II desta Leidevidamente preenchido.
+
+
+Parágrafo único
+
+Todos os projetos deverão ser devidamente assinados pelo proprietário ou representante local.
+
+
+##### Seção II — Da Aprovação de Instalação da ERB
+
+
+Art. 9º.
+
+Após a aprovação da pré-análise, pela Secretaria de Obras, o interessado em instalar a ERB solicitará a Aprovação de Instalação, apresentando ao Poder Público Municipal, além dos estabelecidos nos incisos I-e II- do Art. 7º , os seguintes documentos:
+
+
+I –
+
+Registro do Imóvel (RI) emitida em no máximo 30 (trinta) dias;
+
+
+II –
+
+cópia de Outorga emitido pelo Ministério das Comunicações – Mcom, para os serviços de radiodifusão (rádio e televisão), para instalações novas ou quando da alteração de localização do sistema irradiante em funcionamento, se for o caso;
+
+
+III –
+
+anotação de responsabilidade técnica de profissional habilitado junto ao conselho de classe competente;
+
+
+IV –
+
+3 (três) cópias do projeto aprovado na pré-análise;
+
+
+V –
+
+relatório fotográfico do entorno;
+
+
+VI –
+
+laudo técnico retratando os Campos Elétricos Magnéticos e Eletromagnéticos Variáveis no Tempo na Faixa de Radiofrequência - CEMRF, totais existentes antes da instalação do sistema proposto (radiação de fundo), com a respectiva anotação de responsabilidade técnica de profissional habilitado junto ao conselho de classe competente, para os serviços de radiodifusão e estações de Rádio-Base (celular, trunking e WLL- Wireless Local Loop);
+
+
+VII –
+
+cópia do Ato de Autorização emitido pela ANATEL, para os serviços propostos;
+
+
+VIII –
+
+Informações do CINDACTA II, com relação à altura da torre, em função do cone de aproximação de voo da Aeronáutica, para estações localizadas próximas de aeródromos.
+
+
+IX –
+
+documento que comprove a anuência de, no mínimo, 75% (setenta e cinco por cento) da vizinhança em um raio de 100m (cem metros) do eixo da área de instalação do equipamento;
+
+
+X –
+
+projeto preliminar demonstrando recuos, taxa de ocupação, altura, respeitando a legislação urbanística vigentes;
+
+
+XI –
+
+declaração comprobatória da destinação final quando esta for desativada.
+
+
+§ 1º
+
+As ERB deverão atender os limites de exposição humana a campos elétricos, magnéticos e eletromagnéticos estabelecidos na Lei Federal nº 11.934/2009, na Resolução nº03 da ANATEL e legislação que vierem a suceder.
+
+
+§ 2º
+
+A Secretaria de Obras poderá exigir demais documentos pertinentes à matéria.
+
+
+§ 3º
+
+A Secretaria de Obras analisará os documentos no prazo máximo de 90 (noventa) dias.
+
+
+§ 4º
+
+Quando se tratar de instalação em fachadas é obrigatória a apresentação de material gráfico demonstrando a adequação da instalação na edificação e na paisagem.
+
+
+§ 5º
+
+A prestadora dos serviços de telecomunicações e os profissionais responsáveis pelo projeto e pela execução da obra firmarão termo de responsabilidade obrigando-se, perante o Poder Público e terceiros, pelo cumprimento das disposições estabelecidas nesta Lei, das normas referentes a telecomunicações previstas na Legislação Federal, bem como das determinações do órgão regulador federal (ANATEL).
+
+
+Art. 10.
+
+O interessado na instalação de ERB estará sujeito a um Licenciamento Municipal Simples, bastando a Prestadora de Serviços comunicar a instalação e apresentar os seguintes documentos:
+
+
+I –
+
+estrutura de suporte de ERB móvel;
+
+
+II –
+
+instalações internas a edificações de ERB.
+
+
+##### Seção III — Da Aprovação de Instalação da Mini-ERB
+
+
+Art. 11.
+
+Após a aprovação da pré-análise, pela Secretaria de Obras, o interessado em instalar uma Mini-ERB solicitará a Aprovação de Instalação, apresentando ao Poder Público Municipal, além dos estabelecidos nos incisos I- e II- do Art. 7º , os seguintes documentos:
+
+
+I –
+
+croqui do local de instalação indicando o lote, o local e dimensões da instalação;
+
+
+II –
+
+anotação de responsabilidade técnica de profissional habilitado junto ao conselho de classe competente;
+
+
+III –
+
+Recuos de 1,50 m (um metro e cinquenta centímetros), desde que a estrutura tenha no máximo 12,00 m (doze metros) de altura
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+IV –
+
+Para estrutura superior as 12,00 m (dose metros) de altura, deverão ser atendidas aos parâmetros de recuos estabelecidos na Lei do Uso e Ocupação do Solo.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+##### Seção IV — Das Disposições Gerais
+
+
+Art. 12.
+
+A licença concedida poderá ser modificada, suspensa ou revogada, quando houver desrespeito aos parâmetros aprovados capazes de ocasionar prejuízos à preservação da ordem urbanística e do paisagismo da Cidade.
+
+
+Art. 13.
+
+O acréscimo de novos equipamentos às instalações licenciadas importará em novo requerimento de licenciamento, obedecidos no que couberem, os requisitos previstos nos artigos desta Lei.
+
+
+Art. 14.
+
+A aceitação das instalações mencionadas no Art. 18 desta Lei será condicionada mediante a apresentação dos seguintes documentos:
+
+
+I –
+
+certificado de licença de operação da Agência Nacional de Telecomunicações (ANATEL);
+
+
+II –
+
+aceite do Corpo de Bombeiros em relação à instalação de para-raios;
+
+
+III –
+
+aceite do Ministério da Aeronáutica quando a infraestrutura se localizar em zonas de proteção a aeródromos;
+
+
+Art. 15.
+
+Fica vedada a instalação de ERB e Mini-ERB e suas respectivas infraestruturas de suporte em:
+
+
+I –
+
+áreas de preservação permanente;
+
+
+II –
+
+áreas de risco;
+
+
+III –
+
+áreas nas quais a localização e a altura das ERB e Mini-ERB prejudiquem os aspectos urbanísticos e paisagísticos da região, e no entorno de qualquer equipamento de interesse sociocultural, paisagístico ouambiental;
+
+
+IV –
+
+cones aéreos em regiões aeroportuárias;
+
+
+V –
+
+marquises;
+
+
+Art. 16.
+
+As ERB e Mini-ERB só poderão ser instaladas em Unidades de Conservação, praças e parques, mediante prévia autorização da Secretaria do Meio Ambiente.
+
+
+Art. 17.
+
+A competência para o licenciamento de instalação de ERB e Mini-ERB ficam assim distribuídas:
+
+
+I –
+
+à Secretaria de Meio Ambiente deverá emitir parecer favorável ou desfavorável, quando a instalação ocorrer em unidades de conservação, praças e parques;
+
+
+II –
+
+o IDEPPLAN emitirá parecer referente às distâncias entres as antenas com decisão de influência de compartilhamento de infraestrutura ou instalação de nova;
+
+
+III –
+
+à Secretaria de Obras caberá analisar os pareceres e emitir a licença ou objeção quanto à instalação quando esta não respeitar as normativas federais, estaduais e municipais vigentes.
+
+
+Art. 18.
+
+O licenciamento das ERB e Mini-ERB já implantadas deverá obedecer ao disposto nesta lei para sua regularização.
+
+
+Art. 19.
+
+Fica estabelecido os parâmetros mínimos para recuos laterais e de fundo da torre, conforme estabelecidos na Lei do Uso e Ocupação do Solo
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+I –
+
+Estrutura de até 12,00 m (doze metros) de altura: 1,50 m (um metros e cinquenta centímetros);
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+II –
+
+Estrutura de até 24,00 m (vinte e quatro metros) de altura: 2,50 m (dois metros e cinquenta centímetros);
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+III –
+
+Estrutura de até 45,00 m (quarenta e cinco metros) de altura: 3,00 m (três metros);
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+IV –
+
+Estrutura de até 57,00 m (cinquenta e sete metros) de altura: 5,00 m (três metros);
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+V –
+
+Estrutura superior a 57,00 m (cinquenta e sete metros) de altura: 7,00 m (sete metros).
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+Parágrafo único
+
+Para o recuo frontal deverá ser considerado o maior valor entre H/12 (doze) ou 7,00 m (sete metros)
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+Art. 19-A.
+
+Fica estabelecido os parâmetros mínimos para os recuos de equipamentos, como: container, armário e etc.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+I –
+
+Recuo frontal: 5,00 m (cinco metros);
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+II –
+
+Recuo lateral e fundo: 2,00 m (dois metros);
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+III –
+
+Demais edificações existentes no lote: 2, 00 m (dois metros)."
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 8, de 17 de maio de 2024.
+
+
+#### CAPÍTULO IV — DAS TAXAS
+
+
+Art. 20.
+
+A taxa de licenciamento será cobrada quando da aprovação, por parte do setor competente, do projeto de instalação ou legalização de torres, postes, mastros e estações de radiocomunicação e telecomunicações das quais trata a presente Lei, na seguinte proporção:
+
+
+I –
+
+para estações com torres, postes ou mastros com até 10m (dez metros) de altura, 70 (setenta) UFM;
+
+
+II –
+
+para estações com torres, postes ou mastros maiores que 10m (dez metros), 112 (cento e doze) UFM.
+
+
+Art. 21.
+
+A taxa de funcionamento será cobrada quando da solicitação, por parte do requerente, do Alvará de funcionamento a ser expedido pelo setor competente, na razão de 70 (setenta) UFM por ano, calculado proporcionalmente, a partir da data de início da atividade que estará permanentemente sujeita à fiscalização quando ao atendimento das exigências previstas nesta Lei.
+
+
+Parágrafo único
+
+A taxa de funcionamento será destinada ao Fundo Municipal do Meio Ambiente para que seja aplicada na manutenção de praças, jardins, fundos de vale e arborização urbana da cidade do Município de Apucarana.
+
+
+Art. 22.
+
+A taxa de renovação é devida anualmente, na razão de 70 (setenta) UFM, quando da solicitação, por parte do requerente, junto ao setor competente de vistoria técnica das instalações existentes.
+
+
+Art. 23.
+
+A concessão de área pública para a instalação de antenas será concedida por 2 (dois) anos, podendo ser prorrogada a critério do Administração Pública, mediante solicitação da empresa interessada.
+
+
+Parágrafo único
+
+Como pagamento pelo uso do bem público, a concessionária recolherá a importância de 70 (setenta) UFM, a cada 50m² (cinquenta metros quadrados) utilizados.
+
+
+#### CAPÍTULO V — FIBRA ÓTICA
+
+
+Art. 24.
+
+O licenciamento da execução de implantação de fibra ótica no passeio público precederá, quando comprovada a impossibilidade de execução por método não destrutivo, ficará vinculada a apresentação de:
+
+
+I –
+
+projeto completo, contendo, no mínimo:
+
+
+a)
+
+os dispositivos a serem instalados;
+
+
+b)
+
+a localização de cada equipamento;
+
+
+c)
+
+o detalhamento das instalações;
+
+
+d)
+
+o modo de instalação (destrutivo ou não destrutivo);
+
+
+II –
+
+termo de responsabilidade técnica de profissional habilitado junto ao conselho de classe competente.
+
+
+§ 1º
+
+É de responsabilidade do requerente, após término da obra, a reconstrução das vias, sendo que o passeio deverá ser recuperado conforme modelo disposto na Lei do Sistema Viário de Apucarana.
+
+
+§ 2º
+
+O requerente deverá informar ao Município, mediante ofício protocolado no órgão competente, o término das obras.
+
+
+§ 3º
+
+Órgão municipal competente fiscalizará a execução e, constatada qualquer irregularidade, notificará o responsável.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 25.
+
+O alvará de funcionamento que trata a matéria desta lei estará condicionado ao licenciamento e terá caráter precário, conforme interesse público.
+
+
+Art. 26.
+
+As ERB e Mini-ERB móveis em eventos só serão admitidas quando este for de interesse público.
+
+
+§ 1º
+
+A área onde estará localizada as ERBe Mini-ERB deve ser isolada e sinalizada com placa de advertência.
+
+
+§ 2º
+
+As placas devem conter o nome da empresa, do empreendedor, do registro profissional do responsável pela manutenção, número da licença expedida pela Secretaria de Obras e o número de licença expedida pela ANATEL.
+
+
+Art. 27.
+
+Em casos de desligamentos das ERB e Mini-ERBmóveis ou não, a Secretaria de Obras deverá ser comunicada, tornando-se obrigatória a retirada de todo equipamento do lote e a respectiva infra estrutura de sustentação em no máximo 90 (noventa) dias com a destinação correta informada no processo do licenciamento.
+
+
+Art. 28.
+
+O descumprimento das normas estabelecidas nesta lei e nas demais vigentes a matéria procederão:
+
+
+I –
+
+Notificação;
+
+
+II –
+
+Embargo;
+
+
+III –
+
+Multa;
+
+
+IV –
+
+Demolição administrativa.
+
+
+§ 1º
+
+O proprietário será notificado quando a prestadora dos serviços de telecomunicações não atender os termos da notificação.
+
+
+§ 2º
+
+As instalações irregulares serão objeto de demolição administrativa, executada pelo órgão responsável, seguida de cobrança dos custos ao infrator.
+
+
+Art. 29.
+
+O direito de passagem será regulamentado por decreto específico municipal.
+
+
+Art. 30.
+
+Os casos omissos nesta Lei seguirão, no que couber, os critérios gerais da Lei do Plano Diretor Municipal e de suas Leis correlatas, leis estaduais e leis federais e serão resolvidos pela Comissão Técnica de Urbanismo (CTU) e Conselho Municipal de Desenvolvimento Urbano (CMDU) designados através de Portaria, devendo seu parecer ser submetido à aprovação do Prefeito Municipal e aval do Departamento Jurídico.
+
+
+Art. 31.
+
+São partes integrantes desta Lei:
+
+
+I –
+
+o Anexo I – Parâmetros para Definição de Altura das Torres de Telecomunicações;
+
+
+II –
+
+o Anexo II – Formulário para Licenciamento de Instalação de Antenas de Estação Radio Base (ERB) e Termos de Responsabilidade do Profissional e da Prestadora de Serviço.
+
+
+Art. 32.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 33.
+
+Fica revogada:
+
+
+I –
+
+a Lei Complementar, nº 002, de 21 de março de 2002;
+
+
+II –
+
+a Lei Complementar, nº 117, de 30 de dezembro de 2017.
+
+
+Art. 34.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Município de Apucarana, em 31 de dezembro de 2020.
+
+Sebastião Ferreira Martins Júnior
+
+(Júnior da Femac)
+
+Prefeito Municipal
+
+
+## Anexo I — PARÂMETROS PARA DEFINIÇÃO DE ALTURA DAS TORRES DE TELECOMUNICAÇÕES
+
+
+## Anexo II
+
+FORMULÁRIO PARA LICENCIAMENTO DE INSTALAÇÃO DE ANTENAS DE ESTAÇÃO RADIO BASE (ERB) E TERMOS DE RESPONSABILIDADE DO PROFISSIONAL E DA PRESTADORA DE SERVIÇO.
+
+
+<table><tbody><tr><td colspan="10"><p>Local da instalação</p></td></tr><tr><td colspan="10"><p>Bairro</p></td></tr><tr><td colspan="3" rowspan="3"><p>Localização da antena no imóvel</p></td><td colspan="7"><p>No topo da edificação ( ) sim ( ) não</p></td></tr><tr><td colspan="7"><p>Na fachada da edificação ( ) sim ( ) não</p></td></tr><tr><td colspan="7"><p>No terreno* ( ) sim ( ) não</p></td></tr><tr><td colspan="3" rowspan="3"><p>Infraestrutura de suporte</p></td><td colspan="7"><p>Elemento de suporte ( ) sim ( ) não</p></td></tr><tr><td colspan="7"><p>Containers ( ) sim ( ) não</p></td></tr><tr><td colspan="7"><p>Armários ( ) sim ( ) não</p></td></tr><tr><td colspan="5"><p>Nome da Prestadora dos Serviços de Telecomunicações</p></td><td colspan="5"><p>CNPJ</p></td></tr><tr><td colspan="10"><p>Endereço</p></td></tr><tr><td colspan="6"><p>Bairro</p></td><td colspan="4"><p>CEP</p></td></tr><tr><td colspan="10"><p>e-mail</p></td></tr><tr><td colspan="7"><p>Nome do autor do projeto</p></td><td colspan="3"><p>CPF</p></td></tr><tr><td colspan="10"><p>Endereço</p></td></tr><tr><td colspan="6"><p>Bairro</p></td><td colspan="4"><p>CEP</p></td></tr><tr><td colspan="2"><p>Profissão</p></td><td colspan="2"><p>Telefone</p></td><td colspan="5"><p>ART/RRT nº</p></td><td><p>CREA/CAU Nº</p></td></tr><tr><td colspan="10"><p>e-mail</p></td></tr><tr><td colspan="4"><p>Nome do responsável pela execução da obra</p></td><td colspan="6"><p>CPF</p></td></tr><tr><td colspan="10"><p>Endereço</p></td></tr><tr><td colspan="4"><p>Bairro</p></td><td colspan="6"><p>CEP</p></td></tr><tr><td><p>Profissão</p></td><td colspan="3"><p>Telefone</p></td><td colspan="4"><p>ART/RRT nº</p></td><td colspan="2"><p>CREA/CAU Nº</p><p> </p></td></tr><tr><td colspan="10"><p>e-mail</p></td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="2"><p><strong>Termo de Responsabilidade Profissional</strong></p><p>Os abaixo assinados respectivamente responsáveis pelo projeto e pela execução das obras no imóvel retro mencionado declaram que estão atendidas todas as disposições determinadas nas leis vigentes que competem à matéria. A instalação de Estação Radio Base (ERB) e de sua infraestrutura de suporte no imóvel mencionado, bem como estão atendidas todas as disposições referentes às telecomunicações previstas na legislação federal e todas as determinações da ANATEL.</p><p> </p><p>Profissional Autor do Projeto</p><p> </p></td><td><p> </p></td></tr><tr><td colspan="2"><p>Profissional Responsável pela Execução da Obra</p><p> </p></td><td><p> </p></td></tr><tr><td colspan="2"><p><strong>Termo de Responsabilidade da Prestadora de Serviços de Telecomunicações</strong></p><p>_____________________________, Prestadora de serviços de telecomunicações, responsável pela Estação Radio Base (ERB) no imóvel mencionado, declara que estão atendidas todas as disposições determinadas na Lei nº...  na instalação da referida Estação Radio Base (ERB), bem como estão atendidas todas as disposições referentes às telecomunicações previstas na legislação federal e todas as determinações da ANATEL.</p><p> </p></td><td><p> </p></td></tr><tr><td colspan="2"><p>Prestadora de Serviços de Telecomunicações</p><p> </p></td><td><p> </p></td></tr><tr><td><p>Licença concedida em:</p></td><td colspan="2"><p>Visto :</p><p> </p></td></tr></tbody></table>

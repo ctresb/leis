@@ -1,0 +1,239 @@
+---
+titulo: "Lei Ordinária nº 2.123, de 26 de dezembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2123"
+data: "2022-12-26"
+municipio: "Campestre"
+uf: "MG"
+codigo_ibge: "3111002"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.campestre.mg.leg.br/norma/345"
+fonte_texto: "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2022/345/lei-2.123-26-de-dezembro-de-2022.pdf"
+sha256_fonte: "af3afcd1b8129ec7e68ed004865ffdee93c999438e73b7ac1a5b988b674ed0f1"
+sha256_texto: "e1473441f882af5abf3eba400c56fef93c74c32a8427bcb98bb3c730bc5f3c9d"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 2.123, de 26 de dezembro de 2022
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI ORDINÁRIA MUNICIPAL N° 2.123 DE 26 DE DEZEMBRO DE 2022 Autoriza abertura de Crédito Adicional Suplementar. O PREFEITO MUNICIPAL DE CAMPESTRE/MINAS GERAIS, faço saber que a Câmara Municipal CAMPESTRE/MG, aprovou e eu sanciono a seguinte Lei: Art. I° - Fica o Chefe do Poder Executivo do Município de CAMPESTRE/Estado de Minas Gerais, autorizado a abrir Crédito Adicional Suplementar de acordo com o Artigo 43, combinado com o Artigo 46 da Lei Federal 4.320/64, no valor total estimado de R$ 1.744.500,00 ( Um Milhão Setecentos e Quarenta e Quatro Mil Reais), para atender despesa com as seguintes dotações orçamentária e respectivas fontes de recursos: SECRETARIA DE GOVERNO
+
+02.01.01.03.092.0003.2011.3.3.90.91.00
+
+02.02.01.04.122.0002.2003.3.1.90.11.00
+
+R$ 22.000,00 02.02.01.04.122.0002.2003.3.1.90.13.00
+
+R$ 4.500,00
+
+02.02.01.06.181.0006.2006.3.1.90.11.00
+
+02.02.01.06.181.0006.2006.3.1.90.13.00 R$ 2.500,00
+
+SECRETARIA DE FAZENDA
+
+02.04.01.04.123.0002.2018.3.1.90.11.00
+
+R$ 20.000,00
+
+02.04.01.28.846.0007.2016.3.3.90.47.00 R$ 50.000,00
+
+SECRETARIA DE ADMINISTRAÇÃO
+
+TELEFONE: 3743-1950ęł
+
+02.05.01.04.122.0002.2116.3.1.90.11.00
+
+R$ 62.000,00
+
+02.05.01.04.122.0002.2116.3.1.90.13.00
+
+R$ 12.500,00 02.05.01.09.271.0008.2014.3.1.90.03.00
+
+02.06.01.04.121.0002.2120.3.1.90.11.00
+
+R$ 17.000,00 02.06.01.04.121.0002.2120.3.1.90.13.00
+
+R$ 2.000,00 SECRETARIA DE DESENVOLVIMENTO URBANO
+
+02.07.01.04.125.0043.2074.3.1.90.11.00
+
+R$ 3.500,00 02.07.01.04.125.0043.2074.3.1.90.13.00
+
+SECRETARIA DE DESENVOLVIMENTO ECONOMICO
+
+02.08.01.04.122.0055.2128.3.1.90.11.00
+
+02.08.01.04.122.0055.2128.3.1.90.13.00
+
+02.08.03.20.606.0040.2070.3.1.90.11.00
+
+SECRETARIA DE ASSISTENCIA SOCIAL
+
+02.09.02.08.243.0037.2117.3.1.90.11.00
+
+R$ 6.000,00 02.09.02.08.243.0037.2117.3.1.90.13.00
+
+R$ 500,00
+
+02.09.03.08.244.0035.2127.3.1.90.11.00
+
+R$ 500,00
+
+SECRETARIA DE EDUCAÇÃO
+
+02.11.01.12.363.0015.2040.3.1.90.13.00
+
+R$ 12.000,00 02.11.02.12.361.0025.2028.3.1.90.11.00
+
+R$ 900.000,00
+
+02.11.02.12.361.0025.2028.3.1.90.13.00
+
+R$ 250.000,0łął SECRETARIA DE SERVIÇOS URBANOS
+
+CEP.: 37.730-000 TELEFONE: 3743-1950
+
+02.12.01.15.452.0045.2076.3.1.90.11.00
+
+R$ 100.000,00
+
+02.12.01.15.452.0045.2076.3.1.90.13.00
+
+R$ 14.000,00
+
+02.12.01.15.452.0046.2077.3.1.90.11.00
+
+R$ 4.500,00
+
+02.12.01.15.452.0046.2077.3.1.90.13.00
+
+02.12.01.15.452.0049.2080.3.1.90.11.00
+
+02.12.01.15.452.0049.2080.3.1.90.13.00
+
+R$ 2.000,00
+
+02.12.01.17.512.0053.2085.3.1.90.11.00
+
+R$ 3.500,00
+
+02.12.01.17.512.0053.2085.3.1.90.13.00 R$ 500,00
+
+02.13.01.04.122.0050.2066.3.1.90.11.00
+
+R$ 35.000,00
+
+02.13.02.06.182.0002.2124.3.1.90.11.00
+
+02.13.02.06.182.0002.2124.3.1.90.13.00
+
+| 100 SECRETARIA DE ESPORTE
+
+R$ 39.000,00 02.15.02.27.812.0016.2034.3.1.90.11.00
+
+02.15.02.27.812.0016.2034.3.1.90.13.00
+
+R$ 6.000,00
+
+SECRETARIA DE OBRAS
+
+02.13.03.26.782.0056.2088.3.1.90.11.00
+
+R$ 36.000,00
+
+02.13.03.26.782.0056.2088.3.1.90.13.00
+
+R$ 10.000,0łął
+
+02.14.01.26.782.0002.2112.3.1.90.11.00
+
+R$ 65.000,00
+
+02.14.01.26.782.0002.2112.3.1.90.13.00
+
+R$ 11.000,00 | 100 TOTAL GERAL R$1.744.500,00
+
+**Art. 2°** - Para suportar os créditos adicionais suplementar autorizado no artigo 1º, serão usados as anulações das dotações do orçamento vigente a fim de atender nos termos do artigo 43, parágrafo 1° da Lei 4320/64. SECRETARIA DE GOVERNO
+
+02.02.01.04.122.0002.2003.3.3.90.36.00
+
+SECRETARIA DE DESENVOLVIMENTO ECONOMICO
+
+02.08.01.04.122.0055.2128.3.3.90.36.00
+
+02.08.02.18.542.0054.2075.4.4.90.52.00
+
+02.08.03.20.606.0040.2070.3.3.90.30.00
+
+R$ 7.000,00
+
+SECRETARIA DE DESENVOLVIMENTO SOCIAL DOTAÇAO
+
+02.09.01.08.244.0035.2062.3.1.90.11.00
+
+R$ 39.000,00
+
+02.09.01.08.244.0035.2062.3.1.90.13.00
+
+R$ 8.000,00
+
+SECRETARIA DE SAÚDE
+
+02.10.01.10.122.0028.2029.3.3.90.14.00 1.000,00 R$
+
+SECRETARIA DE EDUCAÇÃO
+
+02.11.01.12.363.0015.2040.3.1.90.11.00
+
+R$ 36.000,00
+
+02.11.02.12.361.0025.2028.3.1.90.11.00
+
+R$ 649.000,00 R$ 143.000,00 02.11.02.12.361.0025.2028.3.1.90.13.00
+
+02.11.03.12.361.0018.2151.3.1.90.11.00 R$ 202.000,00
+
+R$ 39.500,0ął 02.11.03.12.361.0018.2151.3.3.90.39.00
+
+R$ 02.11.03.12.364.0060.2153.3.3.90.30.00
+
+5.000,0ął
+
+02.11.03.12.365.0018.2150.3.1.90.11.00
+
+R$ 20.000,00
+
+R$ 156.000.00
+
+SECRETARIA DE SERVIÇOS URBANOS
+
+Rua Coronel José Custódio n° 84 - CENTRO CEP.: 37.730-000
+
+R$ 43.500,00 02.12.01.15.451.0049.1040.4.4.90.51.00
+
+R$ 30.000,00 02.12.01.17.512.0052.2052.3.3.90.39.00
+
+R$ 25.000,00 02.12.01.17.512.0053.2085.4.4.90.52.00
+
+SECRETARIA DE OBRAS
+
+DOTAÇAO
+
+R$ 25.000,00 02.13.01.04.122.0038.1075.4.4.90.51.00
+
+02.14.01.26.782.0002.2112.3.3.90.39.00
+
+SECRETARIA DE ESPORTES
+
+R$ 75.500,00 02.15.01.27.813.0016.1015.4.4.90.51.00
+
+R$ 230.000,00 02.15.02.27.812.0016.2034.4.4.90.52.00
+
+R$1.744.500,00 TOTAL GERAL
+
+**Art. 3°** Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 20 de Dezembro de 2022. Prefeitura Municipal de Campestre, 26 de Dezembro de 2022. MARCO ANTÔNIO MESSIAS FRANCO Prefeito Municipal
+

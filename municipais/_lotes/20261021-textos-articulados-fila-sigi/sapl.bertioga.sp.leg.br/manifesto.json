@@ -1,0 +1,572 @@
+{
+  "host": "sapl.bertioga.sp.leg.br",
+  "metadados_unicos_observados": 5351,
+  "total_api_declarado": 5351,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/4ffb9641b8be1d9487367c82a484fbca9f70e5a165c892dd9e864cf3620ac1c9.json",
+    "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "431bfb9ecc0d95ff2c2768afc754eb084a3c82e1e9ac7dc9d9351d839b9153da",
+    "bytes": 955,
+    "capturado_em": "2026-10-27T17:19:39.826498-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/a52955270bf49b32d65104c95225925434e7e8645624b7d539d2f4e8fb37096b.json",
+    "url": "https://sapl.bertioga.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bertioga.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b85074b78000e3c7d94a3f6e9423bec6ec46f89cdd4532656dc25b7bf11074f2",
+    "bytes": 798,
+    "capturado_em": "2026-10-27T17:19:38.709420-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/a1ce0ff0feb3150d4ef6d02119e64ac586ac5b23ee023febf6a0fc302ba7d597.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "05e5f95f6982db423447c415850d0ae5777b72d3dfd23b11a1c237039763435c",
+      "bytes": 65091,
+      "capturado_em": "2026-10-27T17:19:41.064194-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/f881792a869fa6ac93578db97630465c12fdb608764f3651530a26d0aa7921ac.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c977cd2eb41311a7db89118d58e508c1e38296bc22921a95895ad48697b503ed",
+      "bytes": 65126,
+      "capturado_em": "2026-10-27T17:19:42.342481-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/58ed2701bdfbfe7b992701a90301ebb29e6fce7adf271f32997db5accfd92d95.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1c680f47a22afeec952e542354d09ed88b5c1f36388b91f4a6b4890b434c959e",
+      "bytes": 62617,
+      "capturado_em": "2026-10-27T17:19:43.037174-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/f91fd0c883409d4ee7c57e110998cba52db4cebeb0c793ff03ba739e6be04c8b.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "84caa133d9fb12eb8bec03a1dd24279dff3830c0035b6d132f9f182094b13160",
+      "bytes": 63262,
+      "capturado_em": "2026-10-27T17:19:44.180391-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/f0eb1c1cd751904537fbe8e07086133d850d3f514e190060903eaae0bde21b56.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f967fdfad625e7f4f33d289db9e72e83a4797285c95931d5bd81be7219a09e55",
+      "bytes": 61642,
+      "capturado_em": "2026-10-27T17:19:45.065131-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/5d3de5ec4104cdf715f94489ce496f4bbdfea0220539c021bdea63a884815c04.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bbfbd7d54a46837a56b9a05f340579d1691a8c55d759f553b9622b89268505f7",
+      "bytes": 62160,
+      "capturado_em": "2026-10-27T17:19:46.198743-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/efbc9cb078dc327256b5cdef622a107bb9aecdf241413159a79cccda62c41953.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "dc3646680213987210077602c89571237ae8a3439a0c4d1e8eaccdf1205338c7",
+      "bytes": 62947,
+      "capturado_em": "2026-10-27T17:19:47.027991-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/9370d2f80212d75b74e576cc873b816671b16e3a9b1755b63ee4524b36a4e12b.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4abd5c884c5bef4eb3a5d0182de6a53b7f00b949ff298e90ccdc0cf1a5a88f9b",
+      "bytes": 61523,
+      "capturado_em": "2026-10-27T17:19:48.179157-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/ac9dd88802da3a44f75fac35ecad2159b599ba0c6e188f3d1ea5fab3faf3e9d0.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2deef1e47fe14a8878ea133a28519fe1d2685b04dceff0f9575b7a7a09aaddab",
+      "bytes": 60190,
+      "capturado_em": "2026-10-27T17:19:49.035303-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/47b76bdc364616f7c07e17c1300419480ea5a3520aeac32dbac7aaf71a558f3d.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7fc4a5068de056fa1a60189ddc819994853d700e722730c67b2a8e7554791d8b",
+      "bytes": 62603,
+      "capturado_em": "2026-10-27T17:19:50.349352-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/17190912cc0739436906e0d2d9032ae88dc5e436b360138c77d0120350583db3.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "94e991fffcb863d65052297592a19c0c6d2081b5fb61e036bc168893afa1839f",
+      "bytes": 60698,
+      "capturado_em": "2026-10-27T17:19:51.016831-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/7301254b3a94849f12dd3bf912881488ed91e08141856d9b7499ecb63b560ed7.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9ea07578f3dfae6ab0f694c882266d7226aeb86ae4032a2d9d552424077d5477",
+      "bytes": 60701,
+      "capturado_em": "2026-10-27T17:19:52.187741-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/e036908ea75334c0b1832872ad1bd1ac2c163d6166fc9cc8ac74109142afcb71.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e8c458f209ced16b127df196feee7fec10bf950ac1bb377ad33d0325264aa17f",
+      "bytes": 61453,
+      "capturado_em": "2026-10-27T17:19:53.010534-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/cb9125c91ae1aaebbe72db662b96e422c15353a27b8651245e463be2346c8304.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c0a5f94ff6915b8f1915f3eee50c00e9c88cf0295b92c1b5e150bf270066c403",
+      "bytes": 60107,
+      "capturado_em": "2026-10-27T17:19:54.174888-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/22fc9b54e4c78c32b066cee20734522d8f3506cd8fa8a01a44cb1c682441e9cd.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0fc3690b48838dda4c4606fd617cbdff90bb7e3e84c44533883ed17359306898",
+      "bytes": 60271,
+      "capturado_em": "2026-10-27T17:19:55.068133-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/116663e23b79f646384774f8345679e30e076b5900372011de4ff0b92f949173.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0c10a0185b7f63105615f6f0af042e89dabb8a86cf14cd78487375f2765f42b3",
+      "bytes": 61066,
+      "capturado_em": "2026-10-27T17:19:56.224698-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/98da535a088f0ec536ef86136ea36bb58abfabcd5d9b29d9f74539db4164e8b8.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8946d3a452443211f195b29b1dd70ef210dd98ed9911598e0ae716f2098d0284",
+      "bytes": 60041,
+      "capturado_em": "2026-10-27T17:19:57.029236-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/8415371bcbbf2916679cb4a4e848984fd1d5a8b9cef712558f29573e68ad3987.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "665c3971c6606ee6d2ead67530a3d8d685925f4c7b60ca911f71a3e7b63bd5bc",
+      "bytes": 60101,
+      "capturado_em": "2026-10-27T17:19:58.184104-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/57c001d3d48eafc0bd8e50816f34332ac0befc8d1af1b498a4782ed1666cc191.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6bc122c546f5433e396d2eca5aa95b8a6088b8b959b60fd71942af1a1cb4cb9f",
+      "bytes": 59759,
+      "capturado_em": "2026-10-27T17:19:59.050161-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/0e81173df3c75ceb15629d0604b9cce5b18200c996ddb5633f1121cf2b8395ca.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "65d5917dfa9d9c231d69affa81dd370333f437fdf2354be037704cbd6235997d",
+      "bytes": 62674,
+      "capturado_em": "2026-10-27T17:20:00.230965-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/1b07e0297b572a8994266721efa8fc75b3aca02eadd52e2b68299c5fe9538b49.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7bbcbfc5419204f789d3c3644f61cd4bfc41024a54e012c6ccbf842ced4d42d3",
+      "bytes": 58563,
+      "capturado_em": "2026-10-27T17:20:01.052995-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/b1918dff8b6baf2dbf13530cfd7d2b02cb490fdce17b14c55f233f63ebb66914.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "18eda8d4d867abaa8b7486cb0cc4776fd11ecbd2a4b9d75600d6507446bdc1b6",
+      "bytes": 60150,
+      "capturado_em": "2026-10-27T17:20:02.228312-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/04d95c0b34757d04152254f3adece7bc344e6ad63a1ed4151fc85982f27c6e31.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "319ffb2d7145b91cde4fc867938b677542d4bf47bdbbed6c7f5f9956826116e4",
+      "bytes": 60082,
+      "capturado_em": "2026-10-27T17:20:03.035083-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/355ecdb1335f76e3f94b8bc68c9a12dbc199df6989131e53e5ed680fa9ab8d31.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a8f3add5ec30bd4f769d004a4975b2f19088d47daa179594441ba467228b06d0",
+      "bytes": 61536,
+      "capturado_em": "2026-10-27T17:20:04.179161-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/3f919ac5416148c15d1b35073e0ffd1c1d73a379789ff6493cc84da4374acd8d.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d7f614b1c09983c17006d97b98e38ccd0d760e666dc1a3e7042cad8e40242045",
+      "bytes": 60276,
+      "capturado_em": "2026-10-27T17:20:05.030437-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/5ecc3cc0a1603668ddef405cb16febe4f7c2bb0df2d6729ba8cf1872b1feeda7.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "372c4793228f73657cbfeecf946387e11ee26255f072b664812755e299b0265a",
+      "bytes": 60998,
+      "capturado_em": "2026-10-27T17:20:06.200004-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/84614a09d24568871c984a88c422837ee5b5a0278da8c89a158476c11eab8af8.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fae952e86cc510c1b982f2d77ebe38c0c3b8bd90e0b75724960647b0867fbf68",
+      "bytes": 59767,
+      "capturado_em": "2026-10-27T17:20:07.214607-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/99b159b61f721b92e28cb55575118f55ec065d9f2d6d4ccdb5862ec13d09a1a1.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "944b8e747759906e43aa9ef35e3b94ab41fc7b64aef460db034d3f0faad6a0b0",
+      "bytes": 59453,
+      "capturado_em": "2026-10-27T17:20:08.195847-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/a8ff2954b7522be08a6dba397f5197778f81a62bc22edbc61421ddbd1728abc7.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2c01a43b7351f87520108d2253afbc7da93e4eb57ef6cd7477b0ac6600581f8a",
+      "bytes": 60759,
+      "capturado_em": "2026-10-27T17:20:09.006375-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/5d9617cad6a37b50ef37a8dee9d2569f73771cd3b807fae13bc1bc127cb54571.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "aa2064f20290bd5f365ea189828fe214feb8a145a9acf1f4627de6196fbd750a",
+      "bytes": 59983,
+      "capturado_em": "2026-10-27T17:20:10.225643-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/e26a1d3e0bc023bd5101cce09b07df3ed22f7b74cdda8330ee4fed6eaed7d85b.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8db17735270faaf6846f07fee826139316bc8c3526dc11712a30d8e4e91dabe4",
+      "bytes": 60099,
+      "capturado_em": "2026-10-27T17:20:11.072115-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/5aeacc9356289388b0f4189d921dcbdf3ff08e6ec932cef45817c244900bc767.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a948bd0c8f69420d2c9f924c7f036254e1c4dcbe8271e57c3176332cf05d1282",
+      "bytes": 61421,
+      "capturado_em": "2026-10-27T17:20:12.253016-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/0ad9e8ca5abdbf3113181ee230e59b3491bfb8ab34e2a8648c7c109aa8e05dca.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6e06928516eccc9d53bacd841d474864b9d19b4d35678257857bc816a46ec1b9",
+      "bytes": 60663,
+      "capturado_em": "2026-10-27T17:20:13.020185-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/63d313613c700eb582413a26d4de1c5bd1d277ac0bbc51a2b3c754ccf7235f7f.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "89598ea0d98cd0e212d1538c0c96488d8ceb49923f98b3c0d06b2ff0464a3f5a",
+      "bytes": 58825,
+      "capturado_em": "2026-10-27T17:20:14.234602-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/ce7e1446b8b6a568a0c2452d5870d64b02733b80c3c5498970a2c9c18ddd35f2.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6b08304af75fd05f45790dc9edc63f4c448481750f515a2f5dfbc2c27fe121d7",
+      "bytes": 58704,
+      "capturado_em": "2026-10-27T17:20:15.008282-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/036c8089fce0ec8e7c5e2b410e3b7f4f7db00e967637927fa4a02212b19a1297.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3206ced0c0e92d4f3ec80e05ab5ded52eeb5fe0abd9980da00fe77ad246a05ca",
+      "bytes": 57208,
+      "capturado_em": "2026-10-27T17:20:16.170882-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/25e75922212a736e0f1832eca13e54599878fcebb03aa06447280a1bd0fd6b7a.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=37",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=37",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9cf08b9dffe2f0cead551fa119f7ca397ed65d63539d1e460692a1dfd34037f2",
+      "bytes": 57495,
+      "capturado_em": "2026-10-27T17:20:17.016398-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/e27a3d8c3f9cd29a42539cc62863258db61ce57453c7011d8a41b72e9b2afbed.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=38",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=38",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d7269a5ccc644e381c9b596b9094f8b32be44afc2f17b37e339bc992fa69849f",
+      "bytes": 57448,
+      "capturado_em": "2026-10-27T17:20:18.055458-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/ac93721aa865ff70659a7a08ef4c09369bf8c2029633efef6403db191ac90553.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=39",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=39",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "df7cc9408a12d68ddfd4d5d5e5969604ff8fdf8c00da4cbf24bd491e8e298eba",
+      "bytes": 58519,
+      "capturado_em": "2026-10-27T17:20:19.162920-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/9df4a04b9ab9b4502ecebb79b3a5e68ddac224dc4489bbe38c79f2f5b258654b.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=40",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=40",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2acd3334fef3d3a524e88afb098d426580e4e1922a3cb59fa9f9943ad9ab4d65",
+      "bytes": 57812,
+      "capturado_em": "2026-10-27T17:20:20.021466-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/412a2c5c5f6305ca48ec4fcf002225dfe0739c0837df9e7e407fe7d3f1fd1f8c.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=41",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=41",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "45684e798375dfe4c7254320866ff153eb6e2be4c2fbabe2f1b577bfdbb8aa95",
+      "bytes": 59144,
+      "capturado_em": "2026-10-27T17:20:21.148767-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/6b56e63481b5bbb8255fd2cd296766f2fc4bb357d10d80839c8f7315d356221c.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=42",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=42",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d87c7d3da820d41b6dffad0608023fe816225b99da82b1118a1ff9cca20e56a4",
+      "bytes": 60621,
+      "capturado_em": "2026-10-27T17:20:22.021293-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/5aaedec97010d10643614bca50c48f96e55a8b7dd497c976e2ae232e06cbf43e.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=43",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=43",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8e220522ba93f333ed1b9d90b23f063dfe0c56be91f28b5035a2eed7d7559996",
+      "bytes": 60139,
+      "capturado_em": "2026-10-27T17:20:23.224808-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/bfdbed12261d374cc4be865e518c1f8e4c762d14efc3a178dd4eabb9c3ab972e.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=44",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=44",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0cb687cf303d691c8fcf9693884ceab906d86e67ca9e060583d368cd70129037",
+      "bytes": 60214,
+      "capturado_em": "2026-10-27T17:20:24.050319-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/2a8c4fbb556e1b9a35bee4fddfe3139e925d06b9d73b0dec19e368c54739e9e9.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=45",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=45",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f88b8e7f4144412d1340691e280d5e726801c88c267b6b678e8f577ecdf29a0c",
+      "bytes": 59250,
+      "capturado_em": "2026-10-27T17:20:25.204431-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/e8e520ceee5b6448e9089756b11c34dab9a8cc816432b4e6a5e3cc3c87e5b1b5.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=46",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=46",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1b70b1363243201fc30649a09bb927fbff266e319d5553283a390d411f28b315",
+      "bytes": 58146,
+      "capturado_em": "2026-10-27T17:20:26.162139-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/43db86df8e80aa2e12743cbb387f0700288dc6a8218d3620418a260997312a10.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=47",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=47",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "24fcc9183e6ecbab8a5f0a255236fc07cfe2af6600c203d53d15dca99d681c42",
+      "bytes": 59307,
+      "capturado_em": "2026-10-27T17:20:27.223943-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/1c4e4a961688653b8d06da9a716ff87b4d48463b405b88574e59be697cf9117c.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=48",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=48",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f40f18f3ed82bb2b8c828eebf17e46173b914ceb3beacd8624c42534fda599b5",
+      "bytes": 60149,
+      "capturado_em": "2026-10-27T17:20:28.071244-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/a64ff1a7066d44fa07e06d440fa6e0bb8ed1200f36ecb3df58bb3c0265737664.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=49",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=49",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8c4b617c28b596b9cf9f769a71a8408cba8d10d2a7f08d444bcb82314315304b",
+      "bytes": 57312,
+      "capturado_em": "2026-10-27T17:20:29.231980-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/92e16b2234eed87491d07188a28327177b08ee5a6f54dcd243d745106761f6c0.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=50",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=50",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "692a9959726b79e694dd59d1a4ea97676798b683e007f3b69c4fa821e4e12c23",
+      "bytes": 59538,
+      "capturado_em": "2026-10-27T17:20:30.035615-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/8d2434cafd797064d54290381d976f9fc20d62512fefac1eb059a69a8bfa1ee3.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=51",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=51",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e48335ed2ad408deee6c647af62ffdbce5ebeb996deef48a6d7a4e8f205a32c0",
+      "bytes": 60607,
+      "capturado_em": "2026-10-27T17:20:31.191187-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/5f3d9a336f3aa4280a9ff2ec05ca7eb886e5c39c0d18828eff6c042347c5c029.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=52",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=52",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f147140ee31aa7622a30d0cebc735fd5675b223e02d53982cbd3c65a125729ae",
+      "bytes": 58561,
+      "capturado_em": "2026-10-27T17:20:32.031198-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/acc7b381018bd58136924e05d3438dd962717a722b09c4703d86ff2b2ce66582.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=53",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=53",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b6f3a5f170ed894909f95a650357f2828069eb6a93544923486ebb708ea5a9e8",
+      "bytes": 59803,
+      "capturado_em": "2026-10-27T17:20:33.194625-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bertioga.sp.leg.br/06d2d96f46a013c84bacf5943066703d7166570bf0dce0d72dcce0ea6216667d.json",
+      "url": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=54",
+      "url_final": "https://sapl.bertioga.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=54",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "46e30456246c9627dd26f3dda885ae00852e5bccb8b88a4e5d5e2743a0757b46",
+      "bytes": 30224,
+      "capturado_em": "2026-10-27T17:20:33.845303-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

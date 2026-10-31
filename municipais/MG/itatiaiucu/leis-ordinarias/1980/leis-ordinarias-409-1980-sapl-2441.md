@@ -1,0 +1,515 @@
+---
+titulo: "Lei Ordinária-PREF nº 409, de 23 de outubro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "409"
+data: "1980-10-23"
+municipio: "Itatiaiuçu"
+uf: "MG"
+codigo_ibge: "3133709"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.itatiaiucu.mg.leg.br/norma/2441"
+fonte_texto: "https://sapl.itatiaiucu.mg.leg.br/media/sapl/public/normajuridica/1980/2441/lei_409.pdf"
+sha256_fonte: "72bd579c122aa76b30ebe9357fc99170278f96f7bc9227920ba27687e33528c0"
+sha256_texto: "f669a26be37259a7afa0f37b48f6ed5ce45c0ec725cafdbee99737cd0fe4e574"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária-PREF nº 409, de 23 de outubro de 1980
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+creta e eu, em seu nome, sanciono a seguinte lei: dois mil, cento e noventa e nove cruzeiros) e fixa a Despesa em Cr$ 31.955.699,00- (trinta e um milhões,' para o exercício de 1.981, que estima a Receita em Cr$ 33.072.199,00 (trinta e três milhões, setenta grantes desta lei e nos quadros que a acompanham. das rubricas constantes dos anexos, de acordo com os seguintes desdobramentos: RECEITAS CORRENTES novecentos e cinquenta e cinco mil, seiscentos e noventa e RECEITAS DE CAPITAL Receita Tributária Receita Industrial Receita Patrimonial Alienação de Bens Móveis Receitas Diversas TOTAL DA RECEITA: Transferências Corrente Transferências de
+
+**Art. 1º** - Fica aprovado o Orçamento do Município de Itatiaiuçu, Estado de Minas Gerais
+
+Art. 2ª - A Receita Municipal será realizada, O Povo do Município de Itatiaiuçu, Estado de Minas Gerais, por seus representantes de Capital Imóveis PROJETO DE LEI N° /8/80 Estima a Receita e fixa a Despesa para o exercício de 1.981.
+
+nove cruzeiros) discriminado nos anexos inte- mediante arrecadação, na forma da Lei, ' Cr$ 1.800.000,00 Cr$ 16.916.000,00 Cr$ Cr$ Cr$ Cr$ Cr$ 11.333.500,00 2.000.000,00 500.699,00 370.000,00 152.000,00 CFS\_32-972:122.09 Cr$ 14.156.199,00 Cr$ 18.916.000,00 de 23//0/8šîš EXERCICIO
+
+DESPESAS DE CAPITAL HABITAÇÃO E URBANISMO DESPESAS CORRENTES que acompanham esta lei, de acordo com os seguintes desdobramentos! ADMINISTRAÇÃO E PLANEJAMENTO LEGISLATIVA • EDUCAÇÃO E CULTURA • SAÚDE E SANEAMENTO • TRANSPORTE •••• ASSISTÊNCIA E PREVIDÊNCIA continua . tos cruzeiros) que representa a diferença entre a Receita estimada e a Despesa fixada, tem a finalidade específica de constituir a Reserva de Contingência do Município, no exercício financeiro de 1.981, que TOTAL DA DESPESA: TOTAL DA DESPESA: Investimentos Transferências de Capital Transferências Correntes Despesas de Custeio ..
+
+**Art. 32** - A Despesa Municipal será realizada,
+
+**Art. 40** - O valor de Cr$ 1.116.500,00 (hum milhão, cento e dezesseis mil e quinhen
+
+POR CATEGORIAS ECONÔMICAS: POR FUNÇÕES DE GOVERNO:
+
+Cr$ 12.170.000,00 Cr$ Cr$ Cr$ 16.343.199,00 segundo discriminação dos anexos 1.500.000,00 1.942.500,00 Cr$ C.31.955.692.00- Cr$ 13.670.000,00 Cr$ Cr$ Cr$ Cr$ Cr$ Cr$ Crf.31.955.692.00 Cr$ 18.285.699,00 - 6.993.000,00 4.050.000,00 6.226.597,00 1.785.500,00 9.038.000,00 3.135.000,00 •2. 727.602,00 EXERCICIO
+
+l9 de janeiro de 1.981. terior; poderá ser utilizada como fonte de recurso à abertura de Créditos Adicionais autorizados neste Orçamen- artigo 43 § 3º da Lei Federal n° 4.320, de 17-03-64; sas Correntes, como de Capital; to. se fixada, mediante a utilização dos seguintes recursos: reforço de dotações do presente Orçamento, até o limite de 50% (cinquenta por cento) do total da Despe-
+
+III - superávit financeiro apurado
+
+IV - Reserva de Contingência, na forma do artigo 4° desta lei.
+
+II - excesso de arrecadação verificado de conformidade com os critérios contidos no
+
+**Art. 60** - Revogadas as disposições em contrário, esta lei entrará em vigor no dia
+
+**Art. 5°** - Fica o Prefeito Municipal autorizado a abrir Créditos Suplementares para
+
+I - anulação total ou parcial de dotações do presente Orçamento, tanto nas Despe-' Prefeitura Municipal de
+
+Geraldo da
+
+Prefeito Municipal Mir tons
+
+Silva Morais Itatiaiuçu, 30 de setembro de 1.980. em balanço patrimonial encerrado no exercício an 03. EXERCÍCIO
+
+À Contasão de Justiça e Redação para pareser en prinelra discussão. Sala das Sessõos, 30 de 39/ de 1.900 Presidente da Camara 4 Comissão opina pela aprovação eu primeira disoussão, quanto ao sou aspécto constitucional e legal. jono shari de Perende outubro de 1.900 ames Inimo abas Aprovado en primeira discussão, quanto ao sou aspéeto constituelonal e legal. de 1.980 sala das Sessões, O6 de outu Presidente da Câmara à Conissão de Finanças e Orçamento para parocor en segunda diseussão. Sala das Sessões, 06 de outubro de 1.980 Presidente da Câmara A Comissão opina pela aprovação en segunda discussão. Sala das Sessões, 09 de outubro de 1.900 ezas de santo coserio Aprovado em segunda discussão. € 1.980 Sala das Sessoes, 13 de outur residente da Camara À Comissão de Justiça e Redação para parecer em terceira e últina discussão. Sala das Sessoes, 13 de outubja i .. Comissão opina pela aprovação en terceira e última discussão, con a roda ção original. Sala das Sessoes, 16 de outubro de 1.900 Auge tipo Vari de aren de Зиніно оволалт Aprovado em terceira o últina discussão, com a redação original. do senhor ' Prefeito Municipal. de 1.980 Sala das Sessões, 20 de outub Presidente da Câmara
+
+AMA - Rua Bonfim, 1.015 • Fone:
+
+RECEITAS DE CAPITAL RECEITAS CORRENTES TOTAL Receita Tributária DÉFICIT (Do Orçamento CoI Receita Industrial Receita Patrimonial Transferências Correntes Receitas Diversas Alienação de Bena Móveis e rente) Imóveis Transferências de Capital Tec Contab lidude Matozinho Ferre RECEITAS CORRENTES RECEITAS DE CAPITAL
+
+RECEITA CRC G 15 472 ra Barbosa
+
+11.333.500,00 1.800.000,00 370.000,00 500.699,00 152.000,00 CR$ CR$\_: CR$... CR$ 14.156.199,00 18.916.000,00 33.072.199,00 118:216.099.00 14.156.199,00 16.916.000,00 18.285. DEMONSTRAÇÃO DA RECEITA E DESPESA SEGUNDO AS 2.000.000,00 4.129.500,00 CR$
+
+RESUMO ,00 CATEGORIAS ECONÔMICAS RESERVA DE CONTINGÊNCIA. TOTAL DESPESAS CORRENTES DESPESAS DE CAPITAL DÉFICIT DO ORÇAMENTO CORREN Despesas de Custeio RESERVA DE CONTINGÊNCIA Transferências de Capital TE Transferências Correntes Investimentos DESPESAS DE CAPITAL DESPESAS CORRENTES DESPESA 12.170.000,00 16.343.199,00 N.° 15 DE 20/06/78 - LEI N.° ADENDO II A PORTARIA SOF 1.942.500,00îŚłš 1.500.000,00 4.320/64 - ANEXO | CR$ Prefeito Municipal CR$.\_ CR$.. CR$ da Silva Morais 13.670.000,00Śš 18.285.699,00 33.072.199.00 1.116.500,00 .18:216.009.00 13.670.000,00 18.285.699,00 18.285.699,00 4.129.500,00 1.116.500. EXERCÍCIO CR$
+
+, 00
+
+GAMA - Rua Bonfim, 1.015 - Fone: 442-7188 - BH
+
+TOTAL: Alienação de Bens Móveis e Receitas Diversas Transferências de Capital Receita Tributária Receita Industrial Imóveis Receita Patrimonial Transferências Correntes RECEITAS DE CAPITAL RECEITAS CORRENTES
+
+Matozinho Fer
+
+FONTES DA cira Barbosa RECEITA 16.916.000,00 11.333.500,00 2.000.000,00 1.800.000,00 152.000,00 370.000,00îźš 500.699,00îš Cr$ SUMÁRIO GERAL DA RECEITA POR FONTES E DA DESPESA POR FUNCÃO DE GOVERNO 14.156.199,00 33.972:122,99 18.916.000,00 Cr$ TRANSPORTE TOTAL: EDUCAÇÃO E CULTURA ADMINISTRAÇÃO E PLANEJAMENTO ASSISTÊNCIA E PREVIDÊNCIA LEGISLATIVA HABITAÇÃO E URBANISMO SAÚDE E SANEAMENTO
+
+FUNÇOES
+
+1.785.500,00 3.135.000,00 6.226.597,00 6.993.000,00 9.038.000,00 4.050.000,00 GOVERNO 727.602,00 Geraldo da Silva Morais Cr$ Prefeito Municipal 31.955.699,00 33.972.122.99 1.116.500,00 EXERCICIO
+
+Cr$
+
+• 1113.06.00
+
+1122.00.00 1121.00.00 1120.00.00 1113.00.00 1112.02.00 1000.00.00 1100.00.00ł 1110.00.00 1112.00.00 CODIGO Receita Tributária
+
+Receta Patrimonial D E continua . RECEITAS CORRENTES RECEITA TRIBUTÁRIA TAXAS IMPOSTOS der de Polícia viços Taxas pela Prestação de Ser Taxas pelo Exercício do Po Circulação Renda Imposto s/a Produçao
+
+Imposto s/o Patrimônio Serviços Diversos Taxas de Licenças Diver- Taxas de Expediente Imposto s/Serviços
+
+Qualquer Natureza Imposto Predial torial Urbano Receita Industrial Transferências Correntes Terri- RESUMO GERAL DA RECEITA . . de Receitas Diversas 100.000,00 SUB-ALINEAS 100.000,00 100.000,00ł 50.000,00 60.000,00 50.000,00 50.000,00ł 50.000,0îźŚ ALINEAS RUBRICAS 150.000,00 Receitas Correnes 150.000,00îŚ ADENDO 1II A PORTARIA SOF N.° 15.+ DE 20/06/78 - LEI N.° Receitas de Capital 4.320/64 ỗẠANEXO 2ł FONTES 500.699,00~ RECEITA• , 14.156.199,00 ECONOMICA CATEGORIA Receita Total EXERCICIO
+
+1210.00.00 1400.00.00 1310.00.00 1130.00.00 1230.00.00 1290.00.00 1300.00.00 1412.00.00 1200.00.00 1410.00.00 CODIGO Receita Tributária TATIAIUÇU
+
+Receta Patrimonial continua . continuação . . . TRANSFERÊNCIAS CORRENTES RECEITA INDUSTRIAL RECEITA PATRIMONIAL RECEITAS IMOBILIÁRIAS RECEITAS DOS SERVIÇOS INDUSTRI- OUTRAS RECEITAS PATRIMONIAIS PARTICIPAÇÃO EM TRIBUTOS FEDE-' PARTICIPAÇÕES E DIVIDENDOS AIS RAIS CONTRIBUIÇÃO DE MELHORIA Aforamentos e aluquéis cipação dos Municípios Tarifa do Serviço de Esgoto Tarifa do Serviço de Água Outras Receitas
+
+Taxas de Serviços Urbanos Dividendos Diversos Cota-Parte do Fundo de Parti Receita Induatrial Transferências Correntes RESUMO GERAL DA RECEITA 5.901.000,00 1.500.000,00 SUB-ALÍNEAS 120.000,0ОîŚ 200.000,00ł 300.000šŚŘš Receitas Diversas ALINEAS 40.000,00 50.000,00 , 00 1.800.000,00 6.303.500,00 RUBRICAS 200.000,00 200.699,00 120.000,00 Receitas Carrenes 50.000,00 N.° 15, DE 20/06/78 - LEI N.°ą ADENDO 111 A PORTARIA SOF 11.333.500,00 1.800.000,00 4.320/64 - ANEXO 2 FONTES 370.000,00 € Receitas de Capital RECEITA ECONÔMICA CATEGORIA EXERCICIO
+
+Recetta Total
+
+1440.00.00 1510.00.00 1511.00.00 1419.00.00 1512.00.00 1440.10.00 1500.00.00îŚ 1519.00.00 1414.00.00 1415.00.00 1413.00.00
+
+Raceita Tributária ITATIA IUÇU Receta Patrimonial D E continua • continuação .. RECEITAS DIVERSAS MULTAS AIS PARTICIPAÇÃO EM TRIBUTOS ESTADU- culação de Mercadorias Multas dos Impostos Multas de Outras Origens Multas das Taxas Participação no Imposto s/Cir 20 do artigo 24 da Constitui- Imposto Territorial Rural Cota-Parte do Imposto Único' Fonte (§ 10 do artigo 23 • § ção Federal) Cota-Parte da Taxa Rodoviária Única Imposto s/a Renda Retido na ' sobre Lubrificantes e Combus
+
+tíveis Líquidos e Gasosos Receita Induatrial Tranaferências Cortentes RESUMO GERAL DA RECEITA 5.030.000,00 Receitas Diversas SUB-ALINEAS 107.500,00î 250.000,00źŚ 15.000,00 30.000,00 10.000,00 10.000,00 ALINEAS 2.000,00 5.030.000,00 RUBRICAS Receitas Correnes 22.000,00 ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78 - LEI X.° Receitas de Capital 152.000,00 1.320/64 - AXEXO 2 FONTES RECEITA Recetta Total ECONOMICA CATEGORIA EXERCICIO
+
+PREFELTURA MUNICIPAL 2512.00.00 1596.00.00 2300.00.00 2510.00.00 2513.00.00 2500.00.00 2000.00.00 1595.46.00 1520.00.00 1595.00.00 1595.45.00 1530.00.00 1590.00.00 1594.00.00
+
+Receita Tributaria
+
+D E Receta Patrimoalal continua • • • RECEITAS DE CAPITAL continuação • • ALIENAÇÃO DE BENS MÓVEIS E IMÓVEIS TRANSFERÊNCIAS DE CAPITAL RAIS COBRANÇA DA DÍVIDA ATIVA OUTRAS RECEITAS DIVERSAS INDENIZAÇÕES E RESTITUIÇÕES PARTICIPAÇÃO EM TRIBUTOS FEDE-' cipação dos Municípios Correção Monetária s/Lubrificantes e Combustí-' Cota-Parte do Imposto Único' veis líquidos e gasosos Cota-Parte do Fundo de Parti Rendas Eventuais Diversas Rendas:
+
+Rendas de Mercados, Fei-' ras e Matadouros Rendas de Cemitérios Receita Industrial Transferências Correntes RESUMO GERAL DA RECEITA 2.529.000,00 SUB-ALINEAS 107.500,00 Recettas Diversas 10.000,00ł 29.000,00ł ALINEAS 15.000,00 10.000,00 5.000,00 16.916.000,00 RUBRICAS Receitas Correnes 40.000,00 40.000,00 50.000,00 16.916.000,00 N.° 15, DE 20/06/78 - LEI N.п ADENDO 111 A PORTARIA SOF 2.000.000,00 4.320/64 - ANEXO 2 Receitas de Capital FONTES RECEITA 18.916.000,00 ECONÔMICA CATEGORIA Receita Total EXERCICIO
+
+GAMA • Rua Bonfim, 1.015 - Fone: 442-7188 • BH
+
+500.699,00Śš 2514.00.00 2515.00.00 2517.00.00 2513.01.00 Recelta Tributária
+
+370.000,00îš Receita Patrimonial
+
+continuação . .. Matozi! Tac o Ferreira Barbosa Cota-Parte do Imposto Único' e Gasosos ária Única sobre Energia Elétrica Cota-Parte da Taxa Rodovi- ' Cota-Parte do Imposto Único Cota-Parte do Adicional do • sobre Minerais Imposto Único s/Lubrifican-' tes e Combustíveis Líquidos'
+
+1,800.000,00 COCAC 15.072 Receita Industrial 11.333.500,00 Traneferências Correntes RESUMO GERAL DA RECEITA 14.000.000,00 152.000,0ł 100.000,00 Receitas Diversas 155.342,00 SUB-ALINEAS 24.158,00 ALINEAS 14.156.199,00 RUBRICAS Receitas Correntes ADENDO III A PORTARIA SOF N.° 15, DE 20/06/78 - LEI K.° 18.916/000,00 33.072.192,00 Geraião da Silva Morais 4.320/64 - НЕХО 2 FONTES Heceitas de Capital Prefeito Municipal RECEITA нит .5. ECONÔMICA CATEGORIA EXERCICIO Recetta Total
+
+GAMA - Rua Bonfim, 1.015 • Fone: 442-7188 • BH
+
+1410.00.00 1413.00.00 1414.00.00 1415.00.00 1440.00.00 1412.00.00 1420.00.00 1310.00.00 1400.00.00 1210.00.00 1130.00.00 1120.00.00 1200.00.00 1300.00.00 1100.00.00 1000.00.00 1110.00.00 CODIGO ATIAIUÇU
+
+continua RECEITAS CORRENTES TRANSFERÊNCIAS CORRENTES RECEITA INDUSTRIAL RECEITA PATRIMONIAL RECEITA TRIBUTÁRIA PARTICIPAÇÃO EM TRIBUTOS ESTADUAIS RECEITAS DOS SERVIÇOS PARTICIPAÇÃO EM TRIBUTOS FEDERAIS RECEITAS IMOBILIÁRIAS CONTRIBUIÇÃO DE MELHORIA TAXAS IMPOSTOS RECEITA POR FONTES dos e Gasosos e Adicionais brificantes e Combustíveis Líqui- Imposto de Renda Retido na Fonte Cota-Parte do ca Imposto Territorial Rural Cota-Parte da Taxa Rodoviária Úni Cota-Parte do Imposto Único s/Lu- ção dos Municípios Fundo de Participa- QUADRO DISCRIMINATIVO DA RECEITA POR FONTES E RESPECTIVA LEGISLAÇÃO INDUSTRIAIS
+
+Emenda Constitucional nº 1/69 - art. 23
+
+Emenda Constitucional nº 1/69 - art. 26
+
+Emenda Constitucional nº 1/69 - art. 26
+
+Emenda Constitucional nº 1/69 - art. 26
+
+Emenda Constitucional nº 1, de 17-10-69, art.25, alterado pela Emenda Constitucional nº 5/75:
+
+Emenda Constitucional n° 1/69 - art. 26 Código Tributário Municipal Código Tributário Municipal Código Tributário Municipal Código Tributário Municipal Código Tributário Municipal LEGISLAÇÃO • EXERCÍCIO
+
+GAMA • Rua Bonfim, 1.015 - Fone: 442-7188 • BH
+
+1530.00.00 2500.00.00 1510.00.00 1500.00.00 1520.00.00 2300.00.00 1590.00.00 2000.00.00
+
+Mator Tec. Contabilidade - CRCMG 15.472 continuação. RECEITAS DE CAPITAL ALIENAÇÃO DE BENS MÓVEIS.E IMÓVEIS TRANSFERÊNCIAS DE CAPITAL RECEITAS DIVERSAS OUTRAS RECEITAS DIVERSAS MULTAS COBRANÇA DA DÍVIDA ATIVA INDENIZAÇÕES E RESTITUIÇÕES 'erreira Barbosa RECEITA POR FONTES Participação no ICM QUADRO DISCRIMINATIVO DA RECEITA POR FONTES E RESPECTIVA LEGISLAÇÃO Leis Municipais específicas Códiga Tributário Municipal Diversas Leis Municipais Constituição Federal - artigos 25 e 26 Legislação Municipal específica LEGISLAÇÃO Geraldo da Silva Morale Prefeito Municipal EXERCICIO
+
+GAMA - Rua Bonfim, 1.015 • Fone: 442-7188 • BH
+
+0101.01000000 0101.15824940 0101.15000000 0101.15820000 0101.0101001.2 0101.0101001.1 0101.1582494.4 0101.01010000 0101.01010010 CODIGO
+
+Matozinh V'erreira Barbosa ASSISTENCIA E PREVIDÊNCIA LEGISLATIVA 1a - CRCMG 15.472 PROCESSO LEGISLATIVO PREVIDÊNCIA PREVIDÊNCIA SOCIAL AO SERVIDOR PÚBLI- co AÇÃO LEGISLATIVA
+
+Máquinas, móveis e utensílios Manutenção da Câmara Municipal Contribuição para ORGÃO : UNIDADE ORÇAMENTÁRIA:. 01-CÂMARA MUNICIPAL o IPSEMC 01-CÂMARA MUNICIPAL TOTAL PROJETOS 30.000,00 30.000,00ł 30.000,00 30.000,00ł ATIVIDADES 627:692209 697.602,00 697.602,00 697.602,00
+
+LEI N.° 4.320/64 - ANEXO 6 701,192,00 ADENDO Y A PORTARIA SOF N° 15, de 20 / 06 / 78 PROGRAMA DE TRABALHO 3.500,00 3.500,00 3.500,00 3.500,00 Profeito Municipal 727.692.09 697.602,00 727.602,00 727.602,00 TOTAL 731.102,00 30.000,00ł EXERCICIO
+
+3.500,00 3.500,00îŘęŘ 3.500,00
+
+3.1.3.2 3.1.3.0 3.0.0.0 3.1.0.0 3.1.3.1 4.1.0.0 3.1.1.3
+
+3.1.2.0 4.0.0.0 4.1.2.0 3.1.1.0 3.1.1.1
+
+Tee ContabIadal CRCiG 15 272 Matozinho Ferreira Barbosa
+
+DESPESAS DE CAPITAL DESPESAS CORRENTES INVESTIMENTOS DESPESAS DE CUSTEIO MATERIAL DE CONSUMO SERVIÇOS DE TERCEIROS E ENCARGOS PESSOAL Obrigações Patronais Pessoal Civil Remuñeração de Serviços Pessoais Outros Serviços e Encargos
+
+UNIDADE ORÇAMENTÁRIA:\_ ÓRGÃO:\_ 01-CÂMARA MUNICIPAL O1-CÂMARA MUNICIPAL DESDOBRAMENTO 667.602,00 10.000,00 5.000,00 3.500,00 Geraldo da Silva Morais ADENDO 111 A PORTARIA SOF N.° 15, DE 20/05/78-LEI N° 1.320/64 TATA NOS Prefeito ELEMENTO NATUREZA DA DESPESA ASEXO 2 - DESPESA 671.102,00 15.000,00ÍŚ 15.000,00 30.000,00 701.102,00 701.102,00 ECONÔMICA CATEGORIA 731.102,00 EXERCICIO• 30.000,00 30.000,00îŚš 1:981
+
+0202.03070210 0202.03070000 0202.03160960 0202.03180000 0202.0307021.2 0202.0307021.1 0202.03181110 0202.03160000 0202.0316096.4 0202.0318111.6 0202.03000000 0202.03220000 0202.0322134.8 0202.03221340 0202.03300000 CODIGO
+
+contínua • ADMINISTRAÇÃO E PLANEJAMENTO PROMOÇÃO E EXTENSÃO RURAL ABASTECIMENTO SEGURANÇA PÚBLICA TELECOMUNICAÇÕES ADMINISTRAÇÃO SISTEMA DE DISTRIBUIÇÃO DE PRODUTOS AGRÍ- EXTENSÃO RURAL COLAS ADMINISTRAÇÃO GERAL ' TELEFONIA Manutenção do convênio com EMATER Manutenção de convênio c/CEASA - MG Manutenção de Posto Telefônico em con- Manutenção do Gabinete e Secretaria do Máquinas, veículos e móveia para e Ca- binete e Secretaria do Prefeito Prefeito vênio com a TELEMIG
+
+UNIDADE ORÇAMENTÁRIA:... ÓRGÃO: 02-PREFEITURA 02-GABINETE TOTAL •→ PREFEITO E SECRETARIA DO .=399.009x99--2.682:228,99.=7e182:239¿00 PROJETOS 500.000,00 500.000,00 500.000,00ł 2.242.238,00 2.242.238,00 2.242.238,00 ATIVIDADES 180.000,00 180.000,00 180.000,00îš 135.000,00 135.000,00ŚÛ 135.000,00 85.000,00ł 85.000,00ź 85.000,00 40.000,00Śš N° 15, de 20 / 06 / 78 PROGRAMA DE TRABALHO
+
+LEI N.° 4.320/64 - ANEXO 6 ADENDO Y A PORTARIA SOF 2.242.238,00 2.742.238,00 2.742.238,00 180.000,00îź 180.000,00 135.000,00 180.000,00 135.000,00îŚ 500.000,00 135.000,00ł 85.000,00 40.000,00 85.000,00 TOTAL 85.000,00 EXERCICIO •
+
+GAMA • Rua Bonfim, 1.015 - Fone: 442-7188 - BH
+
+0202.03301770 0202.0330177.10
+
+IA IUÇU
+
+Matozinho Ferreira Barbosa Tec Contabilidado CRCVG 15 472 continuação • • • Manutenção de convênio com a PM.MC.
+
+ORGÃO : UNIDADE ORÇAMENTÁRIA 02-PREFEITURA 02-GABINETE TOTAL •→ PREFEITO E SECRETARIA DO PROJETOS 500.000,00ł 000,0šź 2.682.238/00 ATIVIDADES Geraid 40.000,00 40.000,00 PROGRAMA DE TRABALHO N° 15, de 20 / 06 / 78 ADENDO Y A PORTARIA SOF
+
+LEI M.° 4.320/64 - ANEXO 6 Prefeito Municipal de Silva Morais 3.182.238,00 TOTAL 40.000,00 40.000,00 EXERCÍCIO
+
+3.1.9.1 3.1.3.0 3.1.9.2 3.2.0.0 3.2.2.0 3.2.2.2 3.0.0.0 3.1.1.0 3.1.1.1 3.10200 3.1.3.2 3.1.3.1 3.1.9.0 3.1.0.0 3.2.3.0 3.2.3.3
+
+DESPESAS CORRENTES continua • • TRANSFERÊNCIAS CORRENTES DESPESAS DE CUSTEIO TRANSFERÊNCIAS INTERGOVERNAMENTAIS MATERIAL DE CONSUMO DIVERSAS DESPESAS DE CUSTEIO PESSOAL SERVIÇOS DE TERCEIROS E ENCARGOS TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS Sentenças Judiciárias Despesas de Exercicios Anteriores Transferências ao Estado (Manutenção de convênio c/PM.MG) Remuneração de Serviços Pessoais Outros Serviços e Encargos Pessoal Civil Contribuições Correntes:
+
+01-Manutenção de convênio c/EMATER- 02-Manutenção de Convênio c/TELEMIG ÓRGÃO: UNIDADE ORÇAMENTÁRIA: 02-GABINETE MG• 02-PREFEITURA PREFEITO SECRETARIA DO \*DESDOBRAMENTO 1.596.738,00 200.000,0ął 100.000,00ł 405.500,00 180.000,00 20.000,00 20.000,0îźŚ 40.000,00ł 85.000,00 15, DE 20/06/78-LEI N.° 4.320/64 ADENDO 111 A PORTARIA SOF N.° TOTAL •→ 1.596.738,00 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 300.000,00 300.000,00 405.500,00 40.000,00 40.000,00 2.682.238,00 2.236.738,00 445.500,00 ECONÔMICA CATEGORIA EXERCICIO
+
+4.1.0.0 4.1.2.0 4.0.0.0
+
+continuação .. No Ferreira Barbosa INVESTIMENTOS EQUIPAMENTOS E MATERIAL PERMANENTE
+
+03-Manutenção de Convênio c/CEASA 05-Contribuiçao P/AMM 04-Contribuiçao p/ABM ÓRGÃO:. UNIDADE ORÇAMENTARIA: 02-PREFEITURA 02-GABINETE PREFEITO EPIO E SECRETARIA DO DESDOBRAMENTO 135.000,0ОîŚ 2.000,00 3.500,00 Ger: ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.° 4.320/64 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA o da Silva Morais 500.000,00 3.182.238,00 •2. 500.000,00 500.000,00 ECONÔMICA CATEGORIA EXERCÍCIO
+
+GAMA • Rua Bonfim, 1.015 • Fone: 442-7188 - BH
+
+0203.0308030.2 0203.03080300 0203.03080330 0203.03080000 0203.0308030.1 0203.03000000 0203.0308033.4 0203.03080350 0203.0308035.6
+
+ITATIA IUG
+
+Matozinho Tec Contabilidade - CRCMG 15 472 ADMINISTRAÇÃO E PLANEJAMENTO ADMINISTRAÇÃO FINANCEIRA erreira Barbosa ADMINISTRAÇÃO DE RECEITAS DÍVIDA INTERNA PARTICIPAÇÃO SOCIETÁRIA Juros da dívida flutuante Máquínas e móveis para o Serviço da Fazenda Manutenção do Serviço da Fazenda •/ou TELEBRÁS Aquisição de ações da CEMIG, TELEMIG '
+
+ÓRGÃO: UNIDADE ORÇAMENTÁRIA: 03-SERVIÇO DA FAZENDA 02-PREFEITURA TOTAL •→ .350.909.09 PROJETOS 350.000,0ł 300.000,00 300.000,00îš 350.000,00 50.000,00 50.000,00 Gerald U 803.293,00ł ATIVIDADES 803.202,00 793.202,00 803.202,00 793.202,00 10.000,00 10.000,00
+
+LEI N.° 4.320/64 - AXEXO 6 PROGRAMA DE TRABALHO N° 15, de 20 / 06 / 78 ADENDO Y A PORTARIA SOF va Morais -1:15299 1.153.202,00 1.153.202,00 300.000,0ОŘŚ₴ 300.000,00 793.202,00 843.202,00 10.000,0ął 10.000,0Oął TOTAL 50.000,00 EXERCICIO
+
+3.1.3.0 3.1.301 3.10101
+
+3.1.1.0 4.0.0.0 3.1.2.0 3.2.6.0 4.1.2.0 3.1.0.0 4.1.0.0 3.2.0.0 30206.5 3.1.3.2 3.0.0.0 4.1.4.0
+
+DESPESAS DE CAPITAL Ferreira Barbosa TRANSFERÊNCIAS CORRENTES INVESTIMENTOS DESPESAS DE CUSTEIO ENCARGOS DA DÍVIDA INTERNA PRESAS INDUSTRIAIS OU AGRÍCOLAS EQUIPAMENTOS E MATERIAL PERMANENTE SERVIÇOS DE TERCEIROS E ENCARGOS CONSTITUIÇÃO OU AUMENTO DE CAPITAL DE EM MATERIAL DE CONSUMO PESSOAL Juros de Outras Dívidas Outros Serviços e Encargos Remuneraçao de Serviços Pessoais
+
+Pessoal Civil
+
+ÓRGÃO:. UNIDADE ORÇAMENTÁRIA: 02-PREFEITURA 03-SERVIÇO DA FAZENDA DESDOBRAMENTO 717.202,00 10.000,00 8.000,00 8.000,00 Gefa do da Silva Morais 15, DE 20/06/78-LEI N.° 4.320/64 ADENDO 111 A PORTARIA SOF N.° Prefeito Municipal ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 300.000,00 717.202,00 16.000,00ł 10.000,00 50.000,00 60.000,00 1.153.202,00 350.000,00 793.202,00 350.000,00îźš 803.202,00 ECONÔMICA CATEGORIA 10.000,00 EXERCÍCIO
+
+GAMA - Rua Bonfim, 1.015 - Fone: 442-7188 - BH
+
+0204.03000000 0204.0308032.2 0204.03080320 0204.03080000 0204.0308032.1
+
+Matozinho Fer ADMINISTRAÇÃO E PLANEJAMENTO reira Barbosa ADMINISTRAÇÃO FINANCEIRA CONTROLE INTERNO Máquinas e móveis para o Serviço de Manutenção do Serviço de Contabili- dada Contabilidade
+
+UNIDADE ORÇAMENTÁRIA: ÓRGÃO: 02-PREFEITURA 04-SERVIÇO DE CONTABILIDADE TOTAL •→ =19999 PROJETOS 100.000,0źł 100.000,00ął 100.000,00źł 100.000,00 ...2}1e15710! ATIVIDADES Geral 911.157,00 911.157,00 911.157,00îŚ 911.157,00 N° 15, de 20 / 06 / 78
+
+LEI N.° 4.320/64 - ANEXO 6 PROGRAMA DE TRABALHO ADENDO Y A PORTARIA SOF Morara 1.011.157,00 1.011.157,00 1.011.157,00 100.000,0oźł 911.157,0ął TOTAL EXERCICIO -
+
+3.0.0.0 3.1.0.0 3.1.1.0 3.1.1.1 3.1.2.0 3.1.3.0 3.1.3.1 4.1.2.0 4.0.0.0 3.1.3.2 4.1.0.0
+
+Matezinho Ferreimi Tec. Contal lidada
+
+DESPESAS CORRENTES DESPESAS DE CAPITAL DESPESAS DE CUSTEIO INVESTIMENTOS MATERIAL DE CONSUMO SERVIÇOS DE TERCEIROS E ENCARGOS PESSOAL EQUIPAMENTOS E MATERIAL PERMANENTE Pessoal Civil Remuneração de Serviços Pessoais Outros Serviços e Encargos
+
+UNIDADE ORÇAMENTÁRIA:.. ÓRGÃO: \_ 02-PREFEITURA 04-SERVIÇO DE CONTABILIDADE DESDOBRAMENTO 806.157,0ОźŘŚ 35.000,00 20.000,00îŘŚ Geraldo da Silva Morais Prefeito ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.° 4.320/64 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 806.157,00 100.000,00ł A L 55.000,00 50.000,00 Municipal 1.011.157,00 ECONÔMICA 911.157,00 911.157,00ł 100.000, CATEGORIA 100.000,00 EXERCÍCIO•
+
+GAMA - Rua Bonfim, 1.015 • Fone: 442-7188 - .BH 0205.1688534.1 0205.1688534.2 0205.1688534.3 0205.16880000 0205.16000000 0205.16885340
+
+CODIGO ITATIAIUCU
+
+TRANSPORTE TRANSPORTE RODOVIÁRIO ESTRADAS VICINAIS para o SMER Manutenção das atividades do SMER e pontes Máquinas, veículos, tratores e móveis Construção e melhoramento de estradas
+
+UNIDADE ORÇAMENTÁRIA: 05-SE RODA EUNICIPAL DE ESTRADAS ÓRGÃO :.... 02-PREFEITURA TOTAL \*→ 3.700.000,00 3.700.000,00 3.700.000,00 3.000.000,00 PROJETOS 700.000,00 2.750.000,00 2.750,900,00 2.750.000,00 2.750.000,00źš ATIVIDADES PROGRAMA DE TRABALHO ADENDO Y A PORTARIA SOF N° 15, de 20 / 06 / 78
+
+LEI N.° 4.320/64 - ANEXO 6 Mochis 6.450.000,00 3.000.000,00 6.450.000,00 2.750.000,00 6.450.000,00 700.000,00 TOTAL EXERCÍCIO
+
+3.1.3.2 3.1.3.0 3.1.2.0 4.1.1.0 4.1.0.0 4.0.0.0 3.1.3.1 3.1.0.0 3.0.0.0 3.1.1.0 3.1.1.1 4,1.2.0 CODIGO
+
+DESPESAS DE CAPITAL DESPESAS CORRENTES INVESTIMENTOS DESPESAS DE CUSTEIO EQUIPAMENTOS E MATERIAL PERMANENTE OBRAS E INSTALAÇÕES SERVIÇOS DE TERCEIROS E ENCARGOS MATERIAL DE CONSUMO PESSOAL Outras Serviços e Encargos Remuneração de Serviços Pessoais Pessoal Civil
+
+UNIDADE ORÇAMENTÁRIA: 05-SERVIÇO MUNICIPAL DE ESTRADAS A0R22 A 0ESFSA ÓRGÃO:. 02-PREFEITURA DE RODAGEM DESDOBRAMENTO 300.000,00ł 200.000,00 850.000,00 TOTAL 3.000.000,00 ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.º 4.320/6ł 1.400.000,00 ELEMENTO 700.000,0îŘ 500.000,00 850.000,00ł 16.450.000,00 3.700.000,00 3.700.000,00 2.750.000,00 2.750.000,00 ECONÔMICA CATEGORIA EXERCÍCIO
+
+GAMA • Rua Bonfim, 1.015 • Fone: 442-7188 • BH 0206.0842427.6 0206.0842188.3 0206.08421880 0206.08420250 0206.0842025.1 0206.08460000 0206.0842188.2 0206.08424270 0206.0842188.4 0206.08420000 0206.08000000
+
+0206.0846224.5 0206.0846224.7 0206.08462240
+
+continua EDUCAÇÃO E CULTURA EDUCAÇÃO FÍSICA E DESPORTOS ENSINO DE PRIMEIRO GRÁU DESPORTO AMADOR ALIMENTAÇÃO E NUTRIÇÃO ENSINO REGULAR EDIFICAÇÕES PÚBLICAS Obras no Estádio Municipal e construção de campos de futebol nos Povoados e Vi- la de Santa Teresinha de Minas Construção de praça de esportes na cida Manutenção de convênio c/Secretaria Manutenção geral do ensino de no de Primeiro Gráu Para manter convênio com CNAEl Educação p/transporte de professoras Móveis, máquinas e veículos para o Ensi prédios escolares rurais Construção, ampliação e/ou reforma de
+
+UNIDADE ORÇAMENTÁRIA ÓRGÃO : 02-PREFEITURA 06-SERVIÇO DE EDUCAÇÃO, TOTAL •→ ASSISTÊNCIA SOCIAL de ?:179.009.99 1.000.000,00 1.500.000,00 1.500.000,00 PROJETOS 500.000,00 300.000,0ОîŚ 300.000,00ł 350.000,00îŚš 350.000,00 SAÚDE E -4.832.009,99- 4.618.000,00 4.798.000,00 ATIVIDADES - 25.000,00 180.000,0îŚ 25.000,00
+
+LEI N.° 4.320/64 - ANEXO 6 PROGRAMA DE TRABALHO N° 15, de 20 / 06 / 78 ADENDO Y A PORTARIA SOF == 1.500.000,00Śš 1.500.000,00 5.148.000,00 4.618.000,00 6.922.999209 1.000.000,00 5.473.000,00 180.000,00 350.000,0ł 300.000,0îŚš 500.000,00ł 300.000,00 TOTAL 25.000,00 25.000,00 EXERCÍCIO
+
+GAMA - Rua Bonfim, 1.015 0206.13000000 0206.1376447.13 0206.1376447.11 0206.13760000 0206. 0848000łš 0206.13754270 0206.0848247.9 0206.08482470 0206.13764490 0206.13750000 0206.1376449.15 0206.13764470šŚš 0206.1375427.8 0206.1376447.10
+
+CODIGO
+
+• 8H continuação • • • continua • SAÚDE E SANEAMENTO SANEAMENTO SAÚDE CULTURA ABASTECIMENTO D' ÁGUA SISTEMA DE ESGOTOS ASSISTÊNCIA MÉDICA E SANITÁRIA DIFUSÃO CULTURAL Aquisição distribuição d'água na cidade utensílios Santa Terezinha de Minas Obras na ETÁ e extensões de redes de tos sanitários Construçao Manutençao do Setor de Saúde de Itatiaiuçu Aquisição de livros pal Para subvencionar a Fundação
+
+UNIDADE ORÇAMENTARIA ÓRGÃO : e ampliaçao de de para o Setor de Água máquinas, ferramentas 02-PREFEITURA P/Biblioteca Munici de Água redes de esgo 06-SERVIÇO DE EDUCAÇÃO, SAÚDE E TOTAL Municipal' ASSISTÊNCIA Vila de ..3.009.000.99 SOCIAL 2.000.000,00 1.400.000,00 1.350.000,00 PROJETOS 600.000,00źł 600.000,00 20.000,00ł 50.000,00 20.000,00 20.000,00ł 2.959.99 1.180.000,00 1.450.000,00 1.180.000,00 ATIVIDADES 600.000,00 600.000,00ł 600.000,00źł 270.000,00ł
+
+LEI M.° 4.320/64 - ANEXO 6 ADENDO Y A PORTARIA SOF N° 15, de 20 / 06 / 78 PROGRAMA DE TRABALHO -4:959.009:00 3.450.000,00 1.350.000,00 2.580.000,00 1.180.000,00 600.000,00ł 600.000,00 600.000,00ł
+
+870.000,00 600.000,0ął TOTAL 20.000,00 20.000,00 20.000,00 EXERCÍCIO 50.000,00îŚš
+
+GAMA • Rua Bonfim, 1.015 PREFEITURA 0206.15000000 0206.1376449.12 0206.1581486.14 0206.15810000 0206.1581486.16 0206.15814860îŚ 0206.15814870 0206.1581487.18 0206.1581487.20 0206.15824940 0206.1582000ОîŚ 0206.1582494.22 0206.15840000 0206.1584000.24
+
+MUNICIPAL • вн continuação ... ASSISTENCIA E PREVIDÊNCIA ASSISTENCI PREVIDÊNCIA PROGRAMA DE FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO Ferreira Barbosa ade CRC G 15 472 ASSISTENCIA SOCIAL GERAL PREVIDÊNCIA SOCIAL AO SERVIDOR PÚBLICO ASSISTÊNCIA COMUNITÁRIA Manutenção do Setor de Esgotos Subvenção ao Conselho Particular Vicen- Diversas obrigações patronais (IAPAS, ' tino Itatiaiuçu Subvenção a Corporação Musical "Lira de Inativos Abono Familiar São Sebastião FGTS, IPSEMG, SEGUROS de acidentes e ou tras) Contribuição ao PASEP
+
+ÓRGÃO : UNIDADE ORÇAMENTÁRIA 02-PREFEITURA 06-SERVIÇO DE EDUCAÇÃO, SAÚDE E TOTAL •→ ASSISTÊNCIA SOCIAL 4.170.000,00 PROJETOS 1.100.000,00 1.100.000,00 1.100.000,00 8.655.000,00 :782.999209 ATIVIDADES 460.000,00 460.000,00 270.000,00ł 222.000,00 200.000,00ł 120.000,00 22.000,00 12.000,00 10.000,00 80.000,00 PROGRAMA DE TRABALHO
+
+LEI N.° 4.320/64 - ANEXO 6 N° 15, de 20 / 06 / 18 ADENDO Y A PORTARIA SOF 1:782.009.00 12.825.000,00 1.100.000,00 1.100.000,00 1.100.000,00 • 30 120.000,00 222.000,00 460.000,00 270.000,00 460.000,00 200.000,00 TOTAL 10.000,00 12.000,00 22.000,00ł 80.000,00 EXERCICIO
+
+3.0.0.0 3.1.0.0 3.1.3.0 3.2.2.0 3010101 3.1.1.0 3.1.2.0 3.1.301 3.1.3.2 3.2.0.0 3.2.2.2 3.2.2.1 3.2.3.1 3.2.3.0 4.1.1.0 4.0.0.0 4.1.0.0 4.1.1.0-01
+
+D E DESPESAS CORRENTES DESPESAS DE CAPITAL continua • • • DESPESAS DE CUSTEIO TRANSFERÊNCIAS CORRENTES INVESTIMENTOS MATERIAL DE CONSUMO PESSOAL TRANSFERÊNCIAS INTERGOVERNAMENTAIS TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS OBRAS E INSTALAÇÕES Pessoal Civil Remuneração de Serviços Pessoais Subvenções Sociais e praça de esportes Outros Serviços Transferências à União (CNAE) Transferências ao Estado (Secretaria de Educação) Estádio Municipal, campos de futebol
+
+UNIDADE ORÇAMENTÁRIA: 06-SERV. DE ÓRGÃO: 02-PREFEITURA e Encargos Öl-Setor de EduCaÇO, SAUDE ASS• SOC ATURZA DA DESPESA DESDOBRAMENTO 4.120.000,00 1.500.000,00 120.000,00 600.000,00 180.000,00 30.000,00 25.000,00 15, DE 20/06/78-LEI N.º 4.320/64 ADENDO 111 A PORTARIA SOF N.° TOTAL •→ 4.120.000,00 1.800.000,00 ELEMENTO ADERO 2 - DESPESA 205.000,00 348.000,00 150.000,0ł 600.000,0ł 5.423.000,00 4.618.000,00 2.170.000,00 2.170.000,00 ECONOMICA CATEGORIA 805.000,90 EXERCICIO
+
+4.1.2.0-01 4.1.2.0-02 4.1.1.0-02
+
+4.1.2.0
+
+Matozinho Ter Contablidade continuação . .. rreira Barbosa CRC G 15 47 EQUIPAMENTOS E MATERIAL PERMANENTE Móveis, máquinas e veículos para o Se
+
+Livros p/Biblioteca Prédios Escolares tor de Educação
+
+UNIDADE ORÇAMENTARIA: 06-SE ROD ÓRGÃO: 02-PREFEITURA 01-Setor EDUCAÇÃO, SAÚDE ASS. SOCAR fNTR2 DA SPESA Educaçao DESDOBRAMENTO 300.000,00 350.000,00 20.000,00 ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.º 4.320/64 TOTAL ELEMENTO 370.000,0îŘš inicipai 7.593.000,00 2• ECONÔMICA CATEGORIA EXERCICIO
+
+3.1.1.0 3.1.1.3 3.2.0.0 3.2.3.0 3.1.0.0 3.0.0.0 3.2.3.1 3.2.5.0 3.2.8.0 3.2.5.1 3020509
+
+Matozinho Ferreira Barbosa DESPESAS CORRENTES DESPESAS DE CUSTEIO TRANSFERÊNCIAS CORRENTES TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS TRANSFERENCIAS A PESSOAS PESSOAL CONTRIBUIÇÃO PARA FORMAÇÃO DO PATRIMÔNIO DO SERVIDOR PÚBLICO - PASEP Subvenções Sociais Obrigações Patronais Outras Transferências a Pessoas Inativos
+
+ÓRGÃO:.. UNIDADE ORÇAMENTÁRIA: 06-SERV• EDUCAÇAO, SAUDE 02-PREFEITURA 02-Setor de Assistência Social DESDOBRAMENTO 1.100.000,00ł 120.000,00 22.000,00îź 80.000,00 15, DE 20/06/78-LEI N.° 4.320/64 ADENDO 111 A PORTARIA SOF N.° TOTAL AT 1.100.000,00ł ELEMENTO 200.000,00 460.000,00 22.000,00 Geraldo da Silva Morais Prefeito Municipal 1.100.000,00 1.782.000,00 1.782.000,00 ECONÔMICA CATEGORIA 682.000,00 EXERCICIO•
+
+4.1.0.0 3.1.3.2 4.1.1.0 3.1.0.0 3.1.1.1 3.0.0.0 3.1.3.0 3.1.301 4.1.2.0 3.1.1.0 3.1.2.0 4.0.0.0
+
+Tec Contabl Matozinho DESPESAS DE CAPITAL DESPESAS CORRENTES INVESTIMENTOS DESPESAS DE CUSTEIO erreira Barbosa EQUIPAMENTOS E MATERIAL PERMANENTE SERVIÇOS DE TERCEIROS E ENCARGOS OBRAS E INSTALAÇÕES MATERIAL DE CONSUMO PESSOAL CRCVG 15 472 Remuneração de Serviços Pessoais Outros Serviços e Encargos Pessoal Civil
+
+ÓRGÃO:. 02-PREFEITURA DESDOBRAMENTO 900.000,00 40.000,00ł 40.000,00ź ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/T8-LEI N.º 4.320/64 TOTAL 1.350.000,00 ELEMENTO 900.000,00ł 200.000,0Oł 80.000,00ł 50.000,00ł raldo da Silva Morais Prefeito Municipal 1.180.000,00 1.180.000,00 1.400.000,00 1.400 ECONOMICA CATEGORIA 580.000,00 EXERCÍCIO
+
+3.1.3.0 3.1.3.2 301.0.0 3.1.1.0 3.1.2.0 3.1.3.1 3.0.0.0 3.1.1.1 4.0.0.0 4.1.0.0 4.1.1.0ł
+
+ITATIAIUCU
+
+Matozinho Fera Tec Contab lid de DESPESAS DE CAPITAL DESPESAS DE CUSTEIO INVESTIMENTOS MATERIAL DE CONSUMO SERVIÇOS DE TERCEIROS E ENCARGOS OBRAS E INSTALAÇÕES PESSOAL Barbosa Remuneração de Serviços Pessoais Pessoal Civil Outros Serviços e Encargos
+
+ÓRGÃO: UNIDADE ORÇAMENTÁRIA: 06-SERV. EDUCAÇÃO, SAÚDE E 02-PREFEITURA 04-Setor "Esgotos DESDOBRAMENTO 130.000,00 Sanitarios 30.000,00ł 30.000,00źŚš TOTAL 15, DE 20/06/78-LEI N.° 4.320/84 ADENDO 111 A PORTARIA SOF N.° ELEMENTO 600.000,0ОîŚ 130.000,00 60.000,00 80.000,00 va Morais 600.000,00 ฿70.000,00 600.000,0ł 270.000,0îź 270.000,00 ECONÔMICA CATEGORIA EXERCICIO
+
+GAMA • Rua Bonfim, 1.015 • Fone: 442-7188 - BH 0207.0307021.2 0207.03070250 0207.0307025.3 0207.10000000 0207.10600000 0207.1060327.8 0207.1060326.6 0207.10603270Ś 0207.03070210 0207.10603250 0207.03000000 0207.1060326.5 0207.03070000 0207.1060325.4 0207.10603260 0207.0307021.l PREFEITURA
+
+MUNICIPAL ADMINISTRAÇÃO E PLANEJAMENTO HABITAÇÃO E URBANISMO continua • • • ADMINISTRAÇÃO SERVIÇOS DE UTILIDADE PÚBLICA EDIFICAÇÕES PÚBLICAS ADMINISTRAÇÃO GERAL ILUMINAÇÃO PÚBLICA LIMPEZA PÚBLICA SERVIÇOS FUNERÁRIOS Manutenção do cemitério de cidade Manutenção da limpeza urbana utensílios para o Setor de Obras Manutenção da iluminação da cidade e da Para manutenção do Setor Vila de Santa Terezinha de Minas de prédios municipais Construção e/ou ampliação e/ou reformas Aquisição de máquinas, ferramentas e Obras diversas no cemitério da cidade
+
+ÓRGÃO: UNIDADE ORÇAMENTÁRIA: 07-SERVIÇO DE OBRAS PÚBLICAS 02-PREFEITURA TOTAL •→ 1.500.000,00îŚ PROJETOS 359.999.99 250.000,0îîŚ 250.000,00 100.000,00 100.000,00 250.000,00 250.000,0îîŚ 350.000,00 =530.099.99 ATIVIDADES 180.000,00 450.000,00 530.000,0îź 230.000,00 230.000,00 530.000,0ął 530.000,00źŚ₴ 450.000,00 180.000,00 N° 15, de 20 / 06 / 18
+
+LEI N.° 4.320/64 - ANEXO 6 ADENDO Y A PORTARIA SOF PROGRAMA DE TRABALHO 1.730.000,00 3.135.000,00îŚš 450.000,00 230.000,00 530.000,00 180.000,00 450.000,00 430.000,00 100.000,00 250.000,00 250.000,00 250.000,00 630.000,00ł 880.000,00 TOTAL EXERCICIO
+
+GAVA • Rua Bonfim, 1.015 • Fone: 442-7188 - BH 0207.16915750 0207.1691575.15ÍŚ 0207.1691575.13 0207.1691575.12 0207.10603280 0207.1060327.7Ś 0207.16000000îŚš 0207.16910000 0207.1060328.10 0207.1060328.11 0207.1060328.9
+
+Matozin TRANSPORTE continuação ... TRANSPORTE URBANO! VIAS URBANAS PARQUES E JARDINS Manutenção Construção de pontes urbanas faltamento de ruas e avenidas Máquinas, ferramentas e utensílios p/ ' zinha de Minas dade, Povoados e na Vila de Santa Tere- Construção e ampliação de praças na ci- de iluminação pública em geral Construção, abertura, calçamento elétricas e melhoramentos do sistema Manutenção de praças públicas utilização em praças Contribuições p/construção de redes CRCMG 15 472 eira Barbosa
+
+UNIDADE ORÇAMENTÁRIA: ÓRGÃO : de ruas e avenidas 02-PREFEITURA e parques 07-SERVIÇO DE OBRAS PÚBLICAS TOTAL •→ 0 a8- - 2:509.009,00 4.820.000,00 2.500.000,00 1.500.000,00 2.500.000,00 1.000.000,00 1.500.000,00 PROJETOS 220.000,00 200.000,00 20.000,00 1.783.000/, 00 ATIVIDADES 305.000,00šŚš 305.000,00îŚ 88.000,00 88.000,00 88.000,00šŚ ADENDO Y A PORTARIA SOF N° 15, de 20 / 06 / 18 PROGRAMA DE TRABALHO
+
+LEI N.° 4.320/64 - ANEXO 6 Morais 25899909 1.000.000,00 1.500.000,00 2.588.000,00 2.588.000,00 6.603.000,00 1.500.000,00 • 2• 200.000,00 305.000,00ł 525.000,00Ś₴ TOTAL 20.000,00ł 88.000,00ł EXERCÍCIO
+
+3.0.0.0 3.1.1.0 3.1.2.0 3.1.1.1 3.1.0.0 3.1.3.0 4.1.0.0 4.0.0.0 3.1.3.1 3.1.3.2 4.1.1.0 4.1.2.0
+
+DESPESAS CORRENTES DESPESAS DE CUSTEIO INVESTIMENTOS MATERIAL DE CONSUMO PESSOAL OBRAS E INSTALAÇÕES Remuneração de Serviços Pessoais Pessoal Civil Outros Serviços e Encargos Barbosa
+
+UNIDADE ORÇAMENTÁRIA: ÓRGÃO: 02-PREFEITURA 07-SERVIÇO Öl-Setor de
+
+Öbras OBRAS DESDOBRAMENTO 100.000,00 180.000,00 200.000,0o ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.º 4.320/64 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 100.000,00 250.000,00 180.000,00Íîš 300.000,0îŚ 50.000,00 880.000,00 350.000,00 350.000,00 530.000,00 530.000,00 ECONÔMICA CATEGORIA EXERCÍCIO
+
+3.1.2.0 3.1.1.0 3.0.0.0 3.1.0.0 3.1.1.1 3.1.3.2 3.1.3.0 IA TUCU
+
+DESPESAS CORRENTES DESPESAS DE CUSTEIO MATERIAL DE CONSUMO SERVIÇOS DE TERCEIROS E ENCARGOS PESSOAL Pessoal Civil Outros Serviços e Encargos
+
+UNIDADE ORÇAMENTARIA. 56tor ORGÃO: 07-SERVIÇO DE OBRAS PÚBLICAS ạide LImpeza Pública DESDOBRAMENTO 350.000,00 ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.° 4.320/64 TOTAL ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 350.000,00 70.000,00 30.000,00ł ₩450.000,00 450.000,00 ECONOMICA 450.000,00 CATEGORIA EXERCÍCIO
+
+PREFEITURA MUNICIPAL, 3.1.3.2 4.3.3.Oźł 3.1.2.0 3.1.3.0 3.0.0.0 3.1.0.0 4.3.3.2 4.0.0.0 4.3.0.0 091003 ITAT IAIUÇU DESPESAS CORRENTES DESPESAS DE CAPITAL DESPESAS DE CUSTEIO TRANSFERÊNCIAS DE CAPITAL MATERIAL DE CONSUMO SERVIÇOS DE TERCEIROS E ENCARGOS TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS Outros Serviços e Encargos Contribuições para Despesas de Capital
+
+ÓRGÃO: UNIDADE ORÇAMENTARIA: Setor 07-SERVICO Iluminaçao OBRAS DESDOBRAMENTO 1.500.000,00 200.000,00 PÚBLICAS. Publica ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.º 4.320/64 TOTAL 1.500.000,00 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 200.000,00 Geraldo da Silva Morais 30.000,00 Prefeito Munial-l 1.730.000,00 1.500.000,00 1.500.000,00 230.000,00 230.000,00 ECONÔMICA CATEGORIA EXERCICIO
+
+4,0.0.Oł 3.1.3.0 3.1.1.1 3610100 CODIGO 3.1.0.ął 3.0.0.0Śł 3.1.2.0 4,1.0.0 4.1.1.0 3.1.3.2ł
+
+D E DESPESAS CORRENTES DESPESAS DE CAPITAL Matozinho Herreira Barbosa Tec. Contal lidade CRC G 15 472 DESPESAS DE CUSTEIO INVESTIMENTOS MATERIAL DE CONSUMO OBRAS E INSTALAÇÕES SERVIÇOS DE TERCEIROS E ENCARGOS PESSOAL Outros Serviços e Encargos Pessoal Civil
+
+ÓRGÃO:. 02-PREFEITURA OBRAS PÚBLICAS DESDOBRAMENTO 15.000,00ł 85.000,00ł ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.° 4.320/64 TOTAL ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 250.000,00 85.000,00 15.000,00 80.000,00 Ger Prefeito Municioal Silva Morais 250.000,00ł 180.000,0îîź 250.000,00 ECONÔMICA 180.000,00 430.000, 0îŚ CATEGORIA - EXERCICIO
+
+3.1.1.0 4.1.0.0 4,1.1.0 3.0.0.Oł 4.0.0.0 3.1.3.0 3.1.0.0 3.1.2.0 3.1.3.1 3.1.3.2 301.1.1 4,1,2.0 ATIAIUÇU Matozinho Fe DESPESAS CORRENTES DESPESAS DE CAPITAL DESPESAS DE CUSTEIO INVESTIMENTOS MATERIAL DE CONSUMO EQUIPAMENTOS E MATERIAL PERMANENTE SERVIÇOS DE TERCEIROS E ENCARGOS PESSOAL OBRAS E INSTALAÇÕES Remuneração de Serviços Pessoais Pessoal Civil Outros Serviços e Encargos
+
+$72 ÓRGÃO: 02-PREFEITURA UNIDADE ORÇAMENTÁRIA: 07-SERVIÇO DE 05-Setor de Praças e Parques OBRAS DESDOBRAMENTO 260.000,00 10.000,00 PÚBLICAS 5.000,00 ADENDO 111 A PORIARIA SOF N.° 15, DE 20/06/78-LEI N.° 1.320/64 TOTAL ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 200.000,0îîŚ 260.000,00îŚš 30.000,00 20.000,00 15.000,00 220.000 220.000,00 ra Morais 525.000,00 305.000,00îŚł₴ 305.000,00 ECONÔMICA CATEGORIA •EXERCÍCIO
+
+3.1.3.2 3.1.3.1 3.1.1.1 3,1.0.0 3,1.1.0 3,0,0,0 3,1,2.0 3,1.3.0 4,1.0.0 4,0,0.0 .1.1.0
+
+JTATIAIUCU D E DESPESAS DE CAPITAL DESPESAS CORRENTES lidado Ferreira Barbosa INVESTIMENTOS DESPESAS DE CUSTEIO PESSOAL MATERIAL DE CONSUMO OBRAS E INSTALAÇÕES SERVIÇOS DE TERCEIROS E ENCARGOS 6 15 472 Remuneração de Serviços Pessoais Outros Serviços e Encargos Pessoal Civil
+
+ÓRGÃO :... UNIDADE ORÇAMENTÁRIA:... 02-PREFEITURA 07-SERVIÇO DE OBRAS PÚBLICAS 06-Setor de Ruas e Avenidas DESDOBRAMENTO 70.000,00ł 4.000,00 ADENDO 111 A PORTARIA SOF N.° 15, DE 20/06/78-LEI N.º 4.320/64 TOTAL 2.500.000,00 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 70.000,00 10.000,00 8.000,00 2.588,000,00 2.500.000,00 2.500.000,00 ECONÔMICA CATEGORIA 88.000,00 88.000,00 EXERCÍCIO
+
+La Bolim, 1 015 - Fone: 442:7188 - BH 3.1.3.0 3.1.1.1 3,1.0.0 3.1.1.3 3,0.0.0 3.1.9.2 3,1.9.0 3.1.302 3.1.9.1 3.2.2.0 3,2,5.0 3,1.1.0 31.2.0 3.1.3,1 3.2.3.3 3.2.3.1 3.2.0.0 3,2.3.0 3,2,2.1 3.2.2.2
+
+DESPESAS CORRENTES continua • • DESPESAS DE CUSTEIO . TRANSFERÊNCIAS CORRENTES MATERIAL DE CONSUMO SERVIÇOS DE TERCEIROS E ENCARGOS PESSOAL DIVERSAS DESPESAS DE CUSTEIO TRANSFERÊNCIAS INTERGOVERNAMENTAIS TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS TRANSFERÊNCIAS A PESSOAS Pessoal Civil Obrigações Patronais Sentenças Judiciárias Remuneração de Serviços Pessoais Outros Serviços e Encargos Subvenções Sociais Transferências ao Estado Despesas de Exercícios Anteriores Contribuições Correntes Transferências à União
+
+CONSOLIDAÇÃO GERAL 10.732.699,00 1.103.500,00 DESDOBRAMENTO 762.000,00 982.000,00 622.000,00 405.500,0îŚ 20.000,00 20.000,00ł 25.000,00 11.836.199,00 ADENDO III A PORTARIA SOF N.° 15, DE 20/06/78 - LEI N° 4.320/64 TOTAL \*→ 1.744.000,00 2.723.000,00 1.027.500,00 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA 245.000,00 200.000,00ł 40.000,00 18.285.699,00 16.343.199,00 -.942.500,00 ECONOMICA CATEGORIA EXERCÍCIO
+
+EFEITURA MUNICIPAL 3,2.5.1 CODIGO 3,2,8.0 3,2,6.5 3,2,6.0 1.2.5.9 41.4.0 4,3.3.0 411,0 4,3,0,0 4,1.2.0 4,0,0,0 4,1,0,0 9.0,0.0 4,3.3.2 \* Vertin, 1 015 - Fone: 442-7188 - BH- ITATIA IUÇU
+
+Matozi Tec. Cot continuação . • DESPESAS DE CAPITAL RESERVA DE CONTINGÊNCIA INVESTIMENTOS TRANSFERÊNCIAS DE CAPITAL lado • CRCMG 15 472 DO SERVIDOR PÚBLICO ENCARGOS DA DÍVIDA INTERNA CONTRIBUIÇÃO PARA FORMAÇÃO DO PATRIMÔNIO OBRAS E INSTALAÇÕES EQUIPAMENTOS E MATERIAL PERMANENTE CONSTITUIÇÃO OU AUMENTO DE CAPITAL DE EMPRESAS INDUSTRIAIS OU AGRÍCOLAS TRANSFERÊNCIAS A INSTITUIÇÕES Outras Transferências a Pessoas Inativos Juros de Outras Dívidas Contribuições para Despesas tal
+
+Arbosa CONSOLIDAÇÃO GERAL PRIVADAS de Capi 1.500.000,00 DESDOBRAMENTO 120.000,00 10.000,00 80.000,00 ADENDO III A PORTARIA SOF N.° 15, DE 20/06/78 - LEI N° 4.320/64 TOTAq 7.650.000,00 4.220.000,00 1.500.000,00 ELEMENTO NATUREZA DA DESPESA
+
+ANEXO 2 - DESPESA Gerallo da Silva Morais 460.000,00 300.000,00ł 10.000,00 Prefeito Municipal 13.670.000,00 12.170.000,00 53.072.199,00 1.500.000,00 1.116.500,00 ECONÔMICA CATEGORIA EXERCÍCIO
+
+41,2.0 4,0,0.0 41,0.0 31.301 3.1.3.2 J10101 3,0.0.0 11.3.0 EFEITURA MUNICIPAL 3.1,2.0 A etim, 1.015 - Fone: 442-7188 - BH .1.1.3 11.0.0 M1.1.0 CODIGO ITATIA IUÇU
+
+Matozin Tec. Contabilidade DESPESAS DE CAPITAL DESPESAS CORRENTES lo Ferreira INVESTIMENTOS DESPESAS DE CUSTEIO EQUIPAMENTOS E MATERIAL PERMANENTE SERVIÇOS DE TERCEIROS E ENCARGOS MATERIAL DE CONSUMO PESSOAL CRCVG 15 470 Outros Serviços e Encargos Obrigações Patronais Remuneração de Serviços Pessoais Pessoal Civil Barbosa
+
+ÓRGÃO: 01 CONSOLIDAÇÃO POR ÓRGÃO - CAMARA MUNICIPAL DESDOBRAMENTO 667.602,00 10.000,00 5.000,00 3.500,00 TOTARI N° 15, de 20 / 06 / 78 - LEI N.° ADENDO 1II A PORTARIA SOF Gerali ELEMENTO NATUREZA DA DESPESA 4.320/64 - ANEXO 2 671.102,00 15.000,00 30.000,00 15.000,00 Prefeito Municipal do da Silva Morais ECONOMICA 731.102,00 CATEGORIA 701.102,00ŚŘł₴ 701.102,00 30.000,00ł 30.000,00 EXERCICIO
+
+La Vertim, 1 015 - Fone: 442-7188 - BHł 3.2.3.0 3,2.2.1 3.2.3.3ł 3.2.202 3,2.0.0 3,2.2.0 3.2.5.0 3,1.1.0 3,1.0.0 3.0.0.0 3o10101 3.1.9.2 3.2.3.1 3.1.9.0 3.1.9.1 3.1.302
+
+3.1.3.1 3010103 3.1.2.0 3.1.3.0
+
+DESPESAS CORRENTES continua • • DESPESAS DE CUSTEIO TRANSFERÊNCIAS CORRENTES TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS TRANSFERÊNCIAS A PESSOAS PESSOAL TRANSFERÊNCIAS INTERGOVERNAMENTAIS DIVERSAS DESPESAS DE CUSTEIO SERVIÇOS DE TERCEIROS E ENCARGOS MATERIAL DE CONSUMO Pessoal Civil Subvenções Sociais Transferências à União Sentenças Judiciárias Transferências ao Estado Despesas de Exercícios Anteriores Obrigações Patronais Remuneração de Serviços Pessoais Outros Serviços e Encargos Contribuições Correntes
+
+ÓRGÃO: .
+
+CONSOLIDAÇÃO POR ÓRGÃO 10.065.097,00 1.100.000,00 DESDOBRAMENTO 972.000,00ł 622.000,00 757.000,00 405.500,00 220.000,0ął 20.000,00 25.000,00ł 20.000,00 11.165.097,00 TOTAL •→ N° 15, de 20 / 06 / 78 - LEI N.° ADENDO 111 A PORTARIA SOF 1.027.500,00 1.729.000,00 2.708.000,00 ELEMENTO MATUREZA DA DESPESA 245.000,00 4.320/64 - ANEXO 2 200.000,00 40.000,00 17.584.597,00 15.642.097,00 1.942.500,00 ECONÔMICA CATEGORIA
+
+XERCÍCIO
+
+• Na Bonlim, 1.015 - Fone: 442-7188 - BH- 9,0.0.0 4.1.4.0 4.3.3.2ł 4.1.2.0 4.3.3.0 4.3.0.0 3.2.8.0ł 3.2.6.5 4.0.0.0 4.1.0.0 3.2.6.0ł 4.1.1.0 3.2.5.1
+
+3.2.5.9
+
+Tec Contabil de - CROMG 15492ę RESERVA DE CONTINGÊNCIA DESPESAS DE CAPITAL continuação • • • TRANSFERÊNCIAS DE CAPITAL INVESTIMENTOS TRANSFERÊNCIAS A INSTITUIÇÕES PRIVADAS CONSTITUIÇÃO OU AUMENTO DE CAPITAL DE EM PRESAS INDUSTRIAIS OU AGRÍCOLAS ENCARGOS DA DÍVIDA INTERNA CONTRIBUIÇÃO PARA FORMAÇÃO DO PATRIMÔNIO EQUIPAMENTOS E MATERIAL PERMANENTE OBRAS E INSTALAÇÕES DO SERVIDOR PÚBLICO erreira Barbosa Contribuições para Despesas de Capital Outras Transferências a Pessoas Juros de Outras Dívidas Inativos K02N
+
+ÓRGÃO: ..
+
+CONSOLIDAÇÃO POR ÓRGÃO - PREFEITURA 1.500.000,00 DESDOBRAMENTO 120.000,00 10.000,00 80.000,00 N° 15, de 20 / 06 / 78 - LEI N.° ADENDO III A PORTARIA SOF Тянульна 4.190.000,00 1.500.000,00 7.650.000,00 NATUREZA DA DESPESA ELEMENTO Prefeito Maridigal 4.320/64 - AXEXO 2 300.000,00 460.000,00š lo da Silva Morais 10.000,00 12.140.000,00 13.640.000,00 32.341.097,00 1.500.000,00 •116.500,00Śłš ECONÔMICA CATEGORIA •20 EXERCICIO
+
+• Rua Bontm, 1.015 • Fone: 442:7188 - BH 01000000 01010000 03080300 01010010 03181110 03000000 03070210 03160000 03080330 03221340 03080350 03080320 03180000 03220000 03080000 03070250 03070000 03160960
+
+LEGISLATIVA continua • ADMINISTRAÇÃO PROCESSO LEGISLATIVO ADMINISTRAÇÃO FINANCEIRA TELECOMUNICAÇÕES PROMOÇÃO E EXTENSÃO RURAL ABASTECIMENTO Ação Legislativa Administração de Receitas Edificações Públicas Administração Geral Participação Societária Sistema de Distribuição de Produtos Agri colas Controle Interno Divida Interna Extensão Rural Telefonia
+
+DEMONSTRATIVO DAS FUNÇÕES, PROGRAMAS E SUB-PROGRAMAS POR PROGRAMA DE TRABALHO DO GOVERNO PROJETOS E ATIVIDADES TOTAL •→ ..... 20000922271005226527209 PROJETOS 100.000,00ł 600.000,00ł 450.000,00 250.000,00 850.000,00 300.000,00ł 30.000,00 30.000,00ł 50.000,00 N° 15, de 20 / 06 / 78 - LEI N.° ADENDO VI A PORTARIA SOF 2.772.238,00 1.714.359,00 2.772.238,00 ATIVIDADES \_627.693,09ł 4.320/64 - ANEXO T 793.202,00 135.000,00 697.602,00 697.602,00 911.157,0îźŘŚ 135.000,00 180.000,0ł 180.000,00 10.000,00 85.000,00ł 85.000,00 1.011.157,00 3.372.238,00 2.164.359,00 3.622.238,00 \_737:692.09ÍŘŚ 727.602,00 727.602,00 843.202,00źŚ 135.000,00ł 250.000,00 180.000,00 135.000,00 300.000,00 180.000,00 TOTAl 10.000,00 85.000,00 85.000,00źŚ EXERCICIO 1.981łęŚł
+
+• Rua Pontim, 1.015 • Fone: 442-7188 - BH 10600000 03300000 13750000 10000000 08482470 08480000 08462240 10603280 08460000 13000000 10603270 10603250 08420000 10603260 03301770ÍŘ 08000000 08424270 08420250 08421880
+
+continuação • • . EDUCAÇÃO E CULTURA HABITAÇÃO E URBANISMO SAÚDE E SANEAMENTO continua • SEGURANÇA PÚBLICA ENSINO DE PRIMEIRO GRÁU EDUCAÇÃO FÍSICA E DESPORTOS CULTURA SERVIÇOS DE UTILIDADE PÚBLICA SAÚDE Policiamento Militar Edificações Públicas Difusão Cultural Alimentação e Nutrição Desporto Amador Ensino Regular Limpeza Pública Iluminação Pública Serviços Funerários Parques e jardins
+
+DEMONSTRATIVO DAS FUNÇÕES, PROGRAMAS E SUB-PROGRAMAS POR PROGRAMA DE TRABALHO DO GOVERNO PROJETOS E ATIVIDADES TOTAL •→ 2:170:990,99- 3.000.009093:050.00000 1.970.000,00 1.500.000,00 1.500.000,00îŘŚš 1.500.000,00 PROJETOS 350.000,00ł 300.000,00 650.000,00 250.000,00 220.000,00 20.000,00ł 20.000,00ł -4:032.009,00 N° 15, de 20 / 08 / 78 - LEI N.° ADENDO VI A PORTARIA SOF 4.823.000,00 4.798.000,00 1.165.000,00 ATIVIDADES 4.320/64 - ANEXO 1 450.000,00 230.000,00 180.000,00 600.000,00 305.000,0ОîŚ 40.000,00ł 25.000,00 40.000,00ł 3125090 6.222.009,09 .959.0009 1.500.000,00 5.473.000,00 5.148.000,00 1.500.000,00 1.730.000,00 3.135.000,00źš 300.000,00 450.000,00 525.000,00 430.000,00 600.000,00 TOTALÙ 25.000,00ł 20.000,0ął 40.000,00 40.000,00 EXERCICIO 20.000,00
+
+PREFEITURA 16915750 16885340 16910000 99999999 16880000 16000000 15840000 13754280 1582000ął 15810000 15824940ł 1581487ÍîŘ 13764470Ś 1376449ОîŚš a Bonfim, 1.015 • Fone: 442-1180 - BHł 15814860 15000000 13760000ł
+
+ITATIA IUÇU
+
+MUNICIPAL continuação ... Matozinho ASSISTÊNCIA E PREVIDENCIA Tec. Contab/lidade TRANSPORTE RESERVA DE CONTINGENCIA SANEAMENTO PREVIDENCIA ASSISTÊNCIA PROGRAMA DE FORMAÇÃO DO PATRIMONIO DO SERVI DOR PÚBLICO TRANSPORTE RODOVIÁRIO TRANSPORTE URBANO Assistência Médica e Sanitária Sistema de Esgotos Abastecimento D'Água Assistência Comunitéria Assistência Social Geral Previdência Social ao Servidor Público Estradas Vicinais Vias Urbanas Terreira Barbosa CRC
+
+G 15 472 DEMONSTRATIVO DAS FUNÇÕES, PROGRAMAS E SUB-PROGRAMAS POR PROGRAMA DE TRABALHO DO GOVERNO PROJETOS E ATIVIDADES TOTAL \*→ =6.209.9909 13.670.000,00 1.400.000,00 2.000.000,00 PROJETOS 2.500.000,00 2.500.000,00 3.700.000,00 3.700.000,00 600.000,0ОîšŘ N° 15, de 20 / 06 / 18 - LEI N.° ADENDO VI A PORTARIA SOF 19.402.199,00 1.450.000,00Ś 1.180.000,00 20300990 ATIVIDADES 1.103.500,00 1.103.500,00źŚ 2.750.000,00 2.750.000,00 4.320/64 - ANEXO 7 270.000,0 600.000,0îŚę 222.000,0ł 200.000,0 116.509.99 460.000,00 22.000,00źł Gera 88.000,00Ś 88.000,00źŚ 0000909 33.072.199,00 3.450.000,00 2.580.000,00 1.103.500,00 1.103.500,00 6.450.000,00ź 2.588.000,00 2.588.000,00 6.450.000,00 • 30 870.000,00Ś 600.000,00 222.000,00 200.000,00 460.000,00 TOTAL EXERCÍCIO 22.000,00
+
+EFEITURA MUNICIPAL 01000000 03080000 03070250 01010000 01010010 03070210 03000000 03070000 CODIGO 03080300 03080350 03080330îŚšŚ 0308032ОîŚ 03160960 03160000 03181110 03220000 03180000 03221340ł a Setim, 1.015 - Fone: 442.7188 - BM ITATIA IUÇU
+
+LEGISLATIVA ADMINISTRAÇÃO E PLANEJAMENTO continua • PROCESSO LEGISLATIVO ADMINISTRAÇÃO ADMINISTRAÇÃO FINANCEIRA ABASTECIMENTO PROMOÇÃO E EXTENSÃO RURAL TELECOMUNICAÇÕES Ação Legislativa Administração Geral Edificações Públicas Administração de Receitas Controle Interno Dívida Interna Participação Societária Sistema de Distribuição de Produtos Agrí colas Extensão Rural Telefonia
+
+DEMONSTRATIVO DA DESPESA POR FUNÇÕES, PROGRAMAS E SUB-PROGRAMAS CONFORME O VÍNCULO COM OS RECURSOS TOTAL •→ ..177.692200 :421.527.09. ORDINARIO 177.602,00Ř 177.602,00 243.202,00 111.157,0ůŚ 372.238,00 250.000,00ł 514.359,00ł 622.238,0Ł 150.000,00ł 135.000,00 135.000,00îŚ₴ 180.000,00 180.000,00 10.000,00 N° 15, de 20 / 06 / 78 - LEI N.° ADENDO VII A PORTARIA SOF 4:735.009,99 3.000.000,00 1.650.000,00Ś 3.000.000 VINCULADO 4.320/64 - ANEXO 8 550.000,00 550.000,00 600.000,00 150.000,00 900.000,00ł 85.000,00ł 85.000,0Oł ,00 63652799 2.164.359,00 3.372.238,00 3.622.238,00 1.011.157,00 =737:692299łą 727.602,00 727.602,00 250.000,00 843.202,00 135.000,00 135.000,00 300.000,00 180.000,00 TOTAl 180.000,00 EXERCICIO 10.000,00 85.000,00 85.000,00ł
+
+08462240 00000880 10000000 10600000 13000000 00000080 08480000 1060328îŘîŚ 0848247îîŚ 10603270 0330177ŘŚł 08421880 10603260îŚ 13750000 08420000 08424270 08460000 08420250 1060325îŘŚł 091002 • Bonfim, 1.015 - Fone: 442-7188 - BH
+
+continuação • • • EDUCAÇÃO E CULTURA HABITAÇÃO E URBANISMO continua SAÚDE E SANEAMENTO ENSINO DE PRIMEIRO GRÁU SEGURANÇA PÚBLICA EDUCAÇÃO FÍSICA E DESPORTOS CULTURA SERVIÇOS DE UTILIDADE PÚBLICA SAÚDE Policiamento Militar Limpeza Pública Edificações Públicas Difusão Cultural Ensino Regular Desporto Amador Alimentação e Nutrição Serviços Funerários Parques e jardins Iluminação Pública
+
+DEMONSTRATIVO DA DESPESA POR FUNÇÕES, PROGRAMAS E SUB-PROGRAMAS CONFORME O VÍNCULO COM OS RECURSOS TOTAL •→ ==7.909 695099299 1.605.000,00 ORDINÁRIO 230.000,00 450.000,00 430.000,00 495.000,00 40.000,00ł 48.000,00ł 73.000,00ł 40.000,00ł 25.000,00źŚš 1:539.00900 ADENDO VII A PORTARIA SOF N° 15, de 20 / 06 / 78 - LEI N.° 1.500.000,00îźŚ 1.530.000,00 1.500.000,00 5.400.000,00 1.500.000,00źŚ 5.100.000,00 VINCULADO 4.320/64 - ANEXO 8 600.000,00 300.000,00 20.000,00ł 20.000,00 30.000,00Śš 3:125.00909 4050000200 5.148.000,00 1.500.000,00 3.135.000,00 5.473.000,00 1.730.000,00 1.500. 430.000,00 450.000,00 525.000,00 600.000,00 300.000,00 20.000,00 TOTAl 40.000,00 40.000,00 20.000,00 EXERCICIO
+
+.000,00 000.
+
+REFEITURA MUNICIPAL 1376447îŚę 13760000 1375428ОîŘŚ 13764490ł 15000000 16880000ął 16985340 16915750 99999999 15814860 15814870 1582000îŘŚ 15810000 16910000 16000000 15840000 15824940
+
+\* Setim, 1.015 - Fone: 442-7188 - BHłŚ
+
+Matozinho Tec. ContabilLado = CRCMG 15.472 continuação • . ASSISTENCIA E PREVIDÊNCIA TRANSPORTE RESERVA DE CONTINGÊNCIA SANEAMENTO ASSISTENCIA TRANSPORTE RODOVIÁRIO PROGRAMA DE FORMAÇÃO DO PATRIMONIO DO SERVI DOR PÚBLICO PREVIDÊNCIA TRANSPORTE URBANO erreira Barbosa Assistência Médica e Sanitária Abastecimento D' Água Sistema de Esgoto. Previdência Social ao Servidor Público Assistência Comunitéria Assistência Social Geral Estradas Vicinais Vias Urbanas
+
+DEMONSTRATIVO DA DESPESA POR FUNÇÕES, PROGRAMAS E SUB-PROGRAMAS CONFORME O VÍNCULO COM OS RECURSOS TOTAL •→ 1.103.500,00 2.834.500,00 2.834.500,00 1.103.500,00 9.852.699,00 ORDINÁRIO 280.000,00 450.000,00 100.000,00 170.000,00ł 122.000,00ł 291.000,00ł 588.000,00 588.000,0îŚ 22.000,00ł N° 15, de 20 / 06 / 78 - LEI N.° ADENDO VII A PORTARIA SOF Geraldo 23.219.500,00 2.300.000,00 3.000.000,00 3.615.500,00 3.615.500,00 VINCULADO 2.000.000,00 2.000.000,00 4.320/64 - ANEXO 8 100.000,00 700.000,00 600.000,00 100.000,00 169.000,00 Prefeito 1:705.509.0 1:116.500209 33.072.199,00 1.103.500,00 2.580.000,00 3.450.000,00 1.103.500,00 6.450.000,00 2.588.000,00 2.588.000,00 6.450.000,00 • 30 600.000,00 222.000,00 870.000,00 200.000,00 460.000,00 TOTALÙ EXERCICIO 22.000,00
+
+11.333.500,00| 1.800.000,00 8.836.812,00 14.156.199,00 370.000,00 152.000,00 500.699,00 14:351.36729932-972:122200 2.000.000,00 5.414.555,00 18.916.000,00 16.916.000,00 EXERCICIO
+
+197.81 PREVISTA Silva Moratą 4.894.555,00 245.000,00 520.000,00 100.112,00 305.000,0Oł 40. 000,00îŚš 8.146.700,00 RECEITA 1978 0 Gera TABELA COMPARATIVA DA RECEITA 3.676.765,50 19:464:274.łął 49.350,87 159.759,06 440.573,96Śš 6.346.934,92 6.034.802,90 4.117.339,46 67.959,63 35.062,46 197 9 ARRECADADA 5.338.175.52- 38.294,69 75.154,33 117.158,28 1.757.159,66 1.712.557,15 3.331.602,33 3.581.015,93 44.602,51 18.806,30 1978 RECEITA -2:712:412105 13.492,64šŚ 11.709,87 30.947,08 21.260,90 2.349.695,73 2.272.285,24 46.808,94 5.324,59 1.369.716,32 1.317.582,79 197.7 Alienação de Bens Móveis e Outras Receitas de Capital Transferências de Capital Transferências Correntes Receita Patrimonial Receita Industrial Receita Tributária COREFEITURA MUNICIPAL
+
+Receitas Diversas RECEITAS DE CAPITAL RECEITAS CORRENTES ITATIA IUÇU Imóveis TOTAL: SOMA : SOMA : • Pua Bonfim, 1 015 - Fone: 442-7188 - BH
+
+2900.00.00 2500,00.00 2300.00.00 2000.00.00 1500,00.00 1400.00.00 1100.00.00 1000.00.00Ś 1200.00.00 1300.00.00ł
+
+REFEITURA MUNICIPAL
+
+4 • Rua Bonlim, 1 015 - Fone: 442-7188 - BH. 3,0.0.0 3.1.0.0 4.0.000 9.0.0.0 4.3.000 3.2.0.0ł 4.10000
+
+DESPESAS CORRENTES DESPESAS DE CAPITAL Matozinho Despesas de Custeio Transferências Correntes SOMAS: Transferências de Capital Investimentos SOMAS: Reserva de Contingência, TOTAIS: • - CRCMG 15.472 recira Barbosa
+
+TABELA COMPARATIVA DA DESPESA 2.329.087.5614:351.367.00 5.155.928,82 DESPESA REALIZADA 1.130.225,00 4.234.158,74 4.537.005,06 3.103.933,74 618.923,76 1979. 6.486.027,00 6.896.340,00 7.355.027,00 6.385.000,00 Geral‹ 511.340,00 869.000,00Śł 1978 0 DESPESA Silva Morala -23:972:122:00 12.170.000,00 16.343.199,00 13.670.000,00 18.285.699,00 1.116.500,00ł 1.942.500,00 1.500.000,00šŚ FIXADA 197 81 EXERCICIO
+
+• Na Botim, 1 015 - Fone: 442-7188 - BH ORGAOS REFEITURA MUNICIPAL PREFEITURA CAMARA MUNICIPAL RESERVA DE CONTINGÊNCIA TOTAL •→ IAIUÇU
+
+FUNÇOES Matozi ho Ferreira Barbosa LEGISLATIVA 727.602,00 727.602,00 DEMONSTRATIVO DA DESPESA POR ÓRGÃOS E FUNÇÕES JUDICIÁRIA 6.226.597,00 6.226.597,00 E PLANEJAMENTO ADMINISTRAÇÃO AGRICULTURA Prefeito Municipal N.° 15, DE 20/06/78 - LEI N.° ADENDO VIII A PORTARIA SOF COMUNICAÇÕES 4.320/64 - AXEXO 9 Silva Morais E SEG. PÚBLICA DEF. NACIONAL EXERCICIO• FLS.
+
+EFEITURA HICS CARA MUNICIPAL PREFEITURA SERVA DE CONTINGÊNCIA ITA 015 • Fone: 442-7188 - BH IAIUÇU TOTAL
+
+FUNÇOES MUNICIPAL Matozinho Tec. Contabilidado DESENVOLVIMENTO REGIONAL erreira Barbosa CRO G 15 472 DEMONSTRATIVO DA DESPESA POR ÓRGÃOS E FUNÇÕES 6.993.000,00 6.993.000,00 EDUCAÇÃO E CULTURA REC. MINERAIS ENERGIA E 3.135.000,00 3.135.000,00 HABITAÇÃO E URBANISVO K° 15, DE 20/09/79 - LE1 K° INDUSTRIA COMERCIO IDENCO WII A PORTARA SOF 1.320/84 - 11280 9 E SERVIÇOS nunk- Venkipal Alva Morais RELAÇÕES EXTERIORES
+
+REFEITURA ORGÃOS • a Pontin, 1.015 • Fone: 442.7188 • BH CÂMARA MUNICIPAL PREFEITURA RESERVA DE CONTINGÊNCIA ATIAIUÇU
+
+MUNICIPAL TOTAL FUNÇOES ozinho Ferreira Barbosa lidade DEMONSTRATIVO DA DESPESA POR ÓRGÃOS E FUNÇÕES 4.050.000,00 4.050.000,00 SANEAMENTO SAUDE E TRABALHO 1.782.000,00 1.785.500,00 ASSISTÊNCIA E PREVIDÊNCIA 3.500,00 ADENDO VIII A PORTARIA SOF N.° 15, DE 20/05/78 - LEI N.° 9.038.000,00 31.224.597,00 9.038.000.00 TRANSPORTE 4.320/54 - ANEXO 9 Geral l Prefeito M 33.072. 1.116.500,00 731.102,00 TOTAL EXERCÍCIO- FLS. 03
+
+199,00
+

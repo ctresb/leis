@@ -1,0 +1,571 @@
+---
+titulo: "Lei Ordinária nº 1.968, de 28 de dezembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1968"
+data: "1999-12-28"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2019-11-25; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/1484"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/231/text"
+sha256_fonte: "80bcb84d005b8dfd31023fc51d1ce82d8be4289ed0cd31da80fb91f41f31530a"
+sha256_texto: "4e468f084abfa9b3b4f875ff9fa4a2bda26a9bd2122a71312303843065fbe299"
+capturado_em_fonte: "2026-10-28T10:23:46.924630-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.968, de 28 de dezembro de 1999
+
+**TEXTO ORIGINAL EM PDF**
+
+
+O Povo do Município de Dores do Indaiá, MG, por seus representantes na Câmara Municipal, APROVA, e eu, Prefeito Municipal, em seu nome SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+O parcelamento do solo para fins urbano, no Município de Dores do indaiá, MG, será regido por esta lei.
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 2º.
+
+O parcelamento do solo urbano poderá ser feito mediante loteamento ou desmembramento, observadas as disposições desta lei e as normas constitucionais e infraconstitucionais aplicáveis.
+
+
+§ 1º
+
+Considera-se loteamento a subdivisão de gleba em lotes destinados a edificação, com abertura de novas vias de circulação, de logradouros públicos ou prolongamento, modificação ou ampliação das vias existentes.
+
+
+§ 2º
+
+Considera-se desmembramento a subdivisão de gleba em lotes destinados a edificação, com aproveitamento do sistema viário existente, desde que não implique na abertura de novas vias e logradouros públicos, nem no prolongamento, modificação ou ampliação dos já existentes.
+
+
+Art. 3º.
+
+Somente será admitido o parcelamento do solo para fins urbanos em zonas urbanas ou de expansão urbanas, assim definidas por lei municipal.
+
+
+Parágrafo único
+
+Não será permitido o parcelamento do solo:
+
+
+I –
+
+em terrenos alagadiços e sujeitos a inundações, antes de tomadas as providências para assegurar o escoamento das águas;
+
+
+II –
+
+em terrenos que tenham sido aterrados com material nocivo à saúde pública, sem que sejam previamente saneados;
+
+
+III –
+
+em terrenos com declividade igual ou superior a 30% (trinta por cento), salvo se atendidas exigências específicas de técnicos em projetos ou estudos 2 aprovados pela Prefeitura Municipal.
+
+
+IV –
+
+em terrenos onde as condições geológicas não aconselham a edificação;
+
+
+V –
+
+em áreas de preservação ecológica ou naquelas onde a poluição impeça condições sanitárias suportáveis, até a sua correção.
+
+
+#### CAPÍTULO II — DOS REQUISITOS URBANÍSTICOS PARA LOTEAMENTOS
+
+
+Art. 4º.
+
+Os loteamentos deverão atender, pelo menos, aos seguintes requisitos:
+
+
+I –
+
+as áreas destinadas a sistemas de circulação, a implantação de equipamento urbano e comunitário, bem como a espaços livres de uso público, serão proporcionais à densidade de ocupação prevista para a gleba, ressalvado o disposto no § 1º deste artigo;
+
+
+II –
+
+os lotes terão área mínima de 125 m² (cento e vinte e cinco metros quadrados) e frente mínima de 10 (dez) metros, salvo quando o loteamento se destinar a urbanização específica ou edificação de conjuntos habitacionais de interesse social, previamente aprovados pela Câmara Municipal.
+
+
+III –
+
+ao longo das águas correntes e dormentes e das faixas de domínio público das rodovias, ferrovias e dutos, será obrigatória a reserva de uma faixa "Nom aedificandi" de 15 (quinze) metros de cada lado, salvo maiores exigências da legislação específica;
+
+
+IV –
+
+as vias de loteamento deverão articular-se com as vias adjacentes oficiais, existentes ou projetadas, e harmonizar-se com a topografia local.
+
+
+V –
+
+no caso de áreas remanescentes, a frente poderá ser de no mínimo 5 (cinco) metros, respeitando a área mínima de 125m² (cento e vinte e cinco metros quadrados).
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.872, de 25 de novembro de 2019.
+
+
+§ 1º
+
+A percentagem de áreas públicas prevista no inciso I deste artigo não poderá ser inferior a 30% (trinta por cento) da gleba, salvo nos loteamentos destinados ao uso industrial cujos lotes forem maiores do que 5.000m² (cinco mil metros quadrados), caso em que a percentagem poderá ser reduzida.
+
+
+§ 2º
+
+Consideram-se comunitários os equipamentos públicos de educação, cultura, saúde, lazer e similares.
+
+
+§ 3º
+
+Considera-se remanescente para os fins desta Lei, a área restante de um parcelamento de solo, obedecida a Lei Federal n° 6.766, de 19 de dezembro de 1.979.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.872, de 25 de novembro de 2019.
+
+
+Art. 5º.
+
+O Poder Público competente poderá complementarmente exigir, em cada loteamento a reserva de faixa "nom aedificandi" destinadas a equipamentos urbanos.
+
+
+Parágrafo único
+
+Consideram-se urbanos os equipamentos públicos de abastecimento de águas, serviços de esgotos, energia elétrica, coletas de águas pluviais, rede telefônica e gás canalizado.
+
+
+#### CAPÍTULO III — DO PROJETO DE LOTEAMENTO
+
+
+Art. 6º.
+
+Antes da elaboração do projeto de loteamento, o interessado deverá solicitar à prefeitura Municipal que defina as diretrizes para uso do solo, traçado dos lotes, do sistema viário, dos espaços livres e das áreas reservadas para equipamento urbano e comunitário, apresentando, para este fim, requerimento e planta do imóvel contendo, pelo menos:
+
+
+I –
+
+as divisas da gleba a ser loteada;
+
+
+II –
+
+as curvas de nível à distância adequada, quando exigidas por lei municipal;
+
+
+III –
+
+a localização dos cursos d`água, bosques e construções existentes;
+
+
+IV –
+
+a indicação dos arruamentos contíguos a todo o perímetro, a localização das áreas livres, dos equipamentos urbanos e comunitários existentes no local ou em suas adjacências, com as respectivas distâncias da área a ser loteada;
+
+
+V –
+
+o tipo de uso predominante a que o loteamento se destina;
+
+
+VI –
+
+as características, dimensões e localização das zonas de uso contíguas.
+
+
+Art. 7º.
+
+A Prefeitura Municipal indicará nas plantas apresentadas junto com o requerimento de acordo com as diretrizes de planejamento municipal:
+
+
+I –
+
+as ruas ou estradas existentes ou projetadas, que compõem o sistema viário da cidade e do município, relacionadas com o loteamento pretendido e a serem respeitadas;
+
+
+II –
+
+o traçado básico do sistema viário principal;
+
+
+III –
+
+as localizações aproximadas dos terrenos destinados a equipamento urbano e comunitário e das áreas livres de uso público;
+
+
+IV –
+
+as faixas sanitárias do terreno necessárias ao escoamento das águas pluviais e as faixas não edificáveis;
+
+
+V –
+
+a zona ou zonas de uso predominante da área, com indicação dos usos compatíveis.
+
+
+Parágrafo único
+
+As diretrizes expedidas vigorarão pelo prazo máximo de 2 (dois) anos.
+
+
+Art. 8º.
+
+Enquanto o Município não alcançar, estatisticamente, a população de 50.000 (cinquenta mil) habitantes, fica dispensada a fase de fixação das diretrizes previstas nos arts 6º e 7º desta Lei, para aprovação do loteamento.
+
+
+Art. 9º.
+
+Orientado pelo traçado e diretrizes oficiais, quando houver, o projeto, contendo desenhos e memorial descritivo, será apresentado à Prefeitura Municipal, acompanhado do título de propriedade, certidão de ônus reais e certidão negativa de tributos municipais, todos relativos ao imóvel,
+
+
+§ 1º
+
+Os desenhos conterão pelo menos:
+
+
+I –
+
+a subdivisão das quadras em lotes, com as respectivas dimensões e numeração;
+
+
+II –
+
+o sistema de vias com a respectiva hierarquia;
+
+
+III –
+
+as dimensões lineares e angulares do projeto, com raios, cordas, arcos, pontos de tangência e ângulos centrais das vias;
+
+
+IV –
+
+os perfis longitudinais e transversais de todas as vias de circulação e praças;
+
+
+V –
+
+a indicação dos marcos de alinhamento e nivelamento localizados nos ângulos de curvas e vias projetadas;
+
+
+VI –
+
+a indicação, em planta e perfis, de todas as linhas de escoamento das águas pluviais.
+
+
+§ 2º
+
+O memorial descritivo deverá conter, obrigatoriamente, pelo menos:
+
+
+I –
+
+a descrição sucinta do loteamento, com a suas características e a fixação da zona ou zonas de uso predominante;
+
+
+II –
+
+as condições urbanísticas do loteamento e as limitações que incidem sobre os lotes e suas construções, além daquelas constantes das diretrizes fixadas quando for o caso;
+
+
+III –
+
+a indicação das áreas públicas que passarão ao domínio do município no ato de registro do loteamento;
+
+
+IV –
+
+a enumeração dos equipamentos urbanos, comunitários e dos serviços públicos ou de utilidade pública, já existentes no loteamento e adjacências.
+
+
+#### CAPÍTULO IV — DO PROJETO DE DESMEMBRAMENTO
+
+
+Art. 10.
+
+Para a aprovação de projeto de desmembramento, o interessado apresentará requerimento à prefeitura Municipal acompanhado do titulo de propriedade e de planta do imóvel e ser desmembrado contendo:
+
+
+I –
+
+a indicação das vias existentes e dos loteamentos próximos;
+
+
+II –
+
+a indicação do tipo de uso predominante no local;
+
+
+III –
+
+a indicação da divisão de lotes pretendida na área.
+
+
+Art. 11.
+
+Aplicam-se ao desmembramento, no que couber, as disposições urbanísticas exigidas para o loteamento, em especial o inciso II do art. 4º e o art. 5º desta lei.
+
+
+Parágrafo único
+
+O Município fixará os requisitos exigíveis para a aprovação de desmembramento de áreas de grandes extensões cuja destinação da área pública tenha sido inferior à mínima prevista no § 1º do art. 4º desta lei.
+
+
+#### CAPÍTULO V — DA APROVAÇÃO DO PROJETO DE LOTEAMENTO E DESMEMBRAMENTO
+
+
+Art. 12.
+
+O projeto de loteamento e desmembramento deverá ser aprovado pela Prefeitura Municipal, a quem compete também a fixação das diretrizes a que aludem os arts. 6º e 7º desta lei, salvo a exceção prevista no artigo seguinte.
+
+
+Art. 13.
+
+Caberão aos Estados o exame e a anuência prévia para a aprovação, pelo Município, de loteamento e desmembramento nas seguintes condições:
+
+
+I –
+
+quando localizados em áreas de interesse especial, tais com as de proteção aos mananciais ou ao do patrimônio cultural, histórico, paisagístico e arqueológico, assim definida por legislação estadual ou federal;
+
+
+II –
+
+quando o loteamento ou desmembramento localizar-se em área limítrofe do município, ou que pertença a mais de um município.
+
+
+Art. 14.
+
+Os espaços livres de uso comum, as vias e praças, as áreas destinadas a edifícios públicos e outros equipamentos urbanos, constantes do projeto e do memorial descritivo, não poderão ter sua destinação alterada pelo loteador, desde a aprovação do loteamento, salvo as hipóteses de caducidade da licença ou desistência do loteador.
+
+
+#### CAPÍTULO VI — DO REGISTRO DO LOTEAMENTO E DESMEMBRAMENTO
+
+
+Art. 15.
+
+Aprovado o projeto de loteamento ou de desmembramento, o loteador deverá submetê-lo ao registro imobiliário dentro de 180 (cento e oitenta) dias, sob pena de caducidade da aprovação, acompanhado dos seguintes documentos:
+
+
+I –
+
+título de propriedade de imóvel;
+
+
+II –
+
+histórico dos títulos de propriedade do imóvel, abrangendo os últimos 20 (vinte) anos, acompanhados dos respectivos comprovantes;
+
+
+III –
+
+certidões negativas:
+
+
+a)
+
+de tributos federais, estaduais e municipais incidentes sobre o imóvel;
+
+
+b)
+
+de ações reais referentes ao imóvel pelo período de 10 (dez) anos;
+
+
+c)
+
+de ações penais com respeito ao crime contra o patrimônio e contra a administração pública;
+
+
+IV –
+
+certidões:
+
+
+a)
+
+dos cartórios de protestos de títulos, em nome do loteador, pelo período de 05 (cinco) anos;
+
+
+b)
+
+de ações pessoais relativas ao loteador, pelo período de 10 (dez) anos;
+
+
+c)
+
+de ônus reais relativos ao imóvel;
+
+
+d)
+
+de ações penais contra o loteador, pelo período de 10 (dez) anos;
+
+
+V –
+
+cópia do ato de aprovação do loteamento e comprovante do termo de verificação, pela prefeitura, da execução das obras exigidas por legislação municipal, que incluirão, no mínimo, a execução das vias de circulação do loteamento, demarcação dos lotes, quadras e logradouros e das obras de escoamento das águas pluviais ou da aprovação de um cronograma, com a duração máxima de 2 (dois) anos, acompanhada de competente instrumento de garantia para a execução das obras;
+
+
+VI –
+
+exemplar do contrato-padrão de promessa de venda, ou de cessão, do qual constarão obrigatoriamente as indicações previstas no art. 26 desta lei;
+
+
+VII –
+
+declaração do cônjuge do requerente de que consente no registro do loteamento;
+
+
+§ 1º
+
+Os períodos referidos nos incisos III, alínea "b", e IV, alíneas "a", "b" e "d", tomarão por base a data do pedido de registro do loteamento, devendo todas elas ser extraídas em nome daqueles que, nos mencionados períodos, tenham sido titulares de direitos leais sobre o imóvel.
+
+
+§ 2º
+
+A existência de protestos, de ações pessoais ou de ações penais, exceto as referentes a crime contra o patrimônio e contra a administração, não impedirá o registro do loteamento se o requerente comprovar que esses protestos ou ações não poderão prejudicar os adquirentes dos lotes, Se o oficial do registro de imóveis julgar insuficiente a comprovação feita, suscitará a dúvida perante o juiz competente.
+
+
+§ 3º
+
+A declaração a que se refere o inciso VII deste artigo não dispensará o consentimento do declarante para os atos de alienação ou promessa de alienação de lotes, ou de direitos a eles relativos, que venham a ser praticados pelo seu cônjuge.
+
+
+Art. 16.
+
+Examinada a documentação e encontrada em ordem, o oficial do registro de imóveis encaminhará comunicação à Prefeitura e fará publicar, em resumo e com pequeno desenho de localização da área, edital do pedido de registro em 3 (três) dias consecutivos, podendo este ser impugnado no prazo de 15 (quinze) dias contados da data da última publicação
+
+
+§ 1º
+
+Findo o prazo sem impugnação, será feito imediatamente o registro. Se houver impugnação de terceiros, o oficial do registro de imóveis intimará o requerente e a Prefeitura Municipal para que sobre ela se manifestem no prazo de 5 (cinco) dias, sob pena de arquivamento do processo. Com tais manifestações o processo será enviado ao juiz competente para decisão.
+
+
+§ 2º
+
+Ouvido O Ministério Público no prazo de 5 (cinco) dias, o juiz decidirá de plano ou após instrução sumária, devendo remeter ao interessado as vias ordinárias caso a matéria exija maior indagação
+
+
+§ 3º
+
+A publicação do edital, nos casos de loteamento e ou desmembramento, se fará, em resumo e com pequeno desenho de localização da área, edital do pedido do registro em 03 (três) edições consecutivas, em jornais locais, ou não havendo, em jornal da região, podendo este ser impugnado no prazo de 15 (quinze) dias contados da data da última publicação.
+
+
+§ 4º
+
+Registrado o loteamento ou o desmembramento, o oficial de registro comunicará, por certidão, o seu registro à Prefeitura.
+
+
+Art. 17.
+
+O registro do loteamento será feito, por extrato, no livro próprio.
+
+
+Parágrafo único
+
+O registro do loteamento será feito, por extrato, no livro próprio.
+
+
+Art. 18.
+
+Quando a área loteada estiver situada em mais de uma circunscrição imobiliária, o registro será requerido primeiramente perante aquela em que estiver localizada a maior parte da área loteada. Procedido o registro nessa circunscrição, o interessado requererá, sucessivamente, o registro do loteamento em cada uma das demais, comprovando perante cada qual o registro efetuado na anterior, até que o loteamento seja registrado em todas. Denegado o registro em qualquer das circunscrições, essa decisão será comunicada, pelo oficial do registro de imóveis, às demais para efeito de cancelamento dos registros feitos, salvo se ocorrer a hipótese prevista no § 4º deste artigo.
+
+
+§ 1º
+
+Nenhum lote poderá situar-se em mais de uma circunscrição.
+
+
+§ 2º
+
+É defeso ao interessado processar simultaneamente, perante diferentes circunscrições, pedidos de registro do mesmo loteamento, sendo nulos os atos praticados com infração a esta norma.
+
+
+§ 3º
+
+Enquanto não procedidos todos os registros de que trata este artigo, considerar-se-á o loteamento como não registrado para os efeitos desta lei.
+
+
+§ 4º
+
+O indeferimento do registro do loteamento em uma circunscrição não determinará o cancelamento do registro procedido em outra, se o motivo do indeferimento naquela não se estender à área situada sob a competência desta, e desde que o interessado requeira a manutenção do registro obtido, submetido o remanescente do loteamento a uma aprovação prévia perante a Prefeitura Municipal.
+
+
+Art. 19.
+
+Desde a data do registro do loteamento, passam a integrar o domínio do Município as vias e praças, os espaços livres e as áreas destinadas a edifícios públicos e outros equipamentos urbanos, constantes do projeto e do memorial descritivo.
+
+
+Art. 20.
+
+O registro do loteamento só poderá ser cancelado:
+
+
+I –
+
+por decisão judicial;
+
+
+II –
+
+a requerimento do loteador, com anuência da Prefeitura, enquanto nenhum lote houver sido objeto de contrato;
+
+
+III –
+
+a requerimento conjunto do loteador e de todos os adquirentes de lotes, com anuência da Prefeitura e do Estado.
+
+
+§ 1º
+
+A Prefeitura só poderá se opor ao cancelamento se disso resultar inconveniente comprovado para o desenvolvimento urbano ou se já se tiver realizado qualquer melhoramento na área loteada ou adjacências.
+
+
+§ 2º
+
+Nas hipóteses dos incisos II e III, o oficial do registro de imóveis fará publicar, em resumo, edital do pedido de cancelamento, podendo este ser impugnado no prazo de 30 (trinta) dias contados da data da última publicação. Findo esse prazo, com ou sem impugnação, o processo será remetido ao juiz competente para homologação do pedido de cancelamento, ouvido o Ministério Público.
+
+
+§ 3º
+
+A homologação de que se trata o parágrafo anterior será precedida de vistoria destinada a comprovar a inexistência de adquirentes instalados na área loteada.
+
+
+Art. 21.
+
+O ato de aprovação de loteamento será através de Decreto do Executivo, observada a prévia análise técnica para constatação dos requisitos básicos.
+
+
+Art. 22.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 23.
+
+Revogam-se disposições em contrário.
+
+
+Prefeitura Municipal de Dores do Indaiá, 28 de dezembro 1999.
+
+DR. JOAQUIM FERREIRA DA CRUZ
+
+Prefeito Municipal
+
+DORAMAR COSTA FIÚZA
+
+Secretária Municipal
+

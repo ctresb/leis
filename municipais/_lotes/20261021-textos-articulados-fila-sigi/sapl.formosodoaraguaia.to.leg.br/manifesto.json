@@ -1,0 +1,42 @@
+{
+  "host": "sapl.formosodoaraguaia.to.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosodoaraguaia.to.leg.br/f2c26b5ab38d97b93b876173c8d44cc74bb1996c2b35f7cd0ab05ea5c0121b1b.json",
+    "url": "https://sapl.formosodoaraguaia.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.formosodoaraguaia.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ad64747805996dcbde6d82498cf2c77e5ae4f5261a573e5566bd6b0033c8c50f",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T11:15:12.408705-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosodoaraguaia.to.leg.br/0ebaada3f8d1c6dea6a327117ece3892b7290ddbf63a55bae83a4cb2d3d716aa.json",
+    "url": "https://sapl.formosodoaraguaia.to.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.formosodoaraguaia.to.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e7cb50d721ee5b0f6766eed8b7c47c235f1500c6c0264cf85d1c94e1697bc654",
+    "bytes": 678,
+    "capturado_em": "2026-10-28T11:15:11.536649-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosodoaraguaia.to.leg.br/1dd449da5a89d28ed65f8a3db3fe91dcae1404475e12d8b809db474bd8cfe38e.json",
+      "url": "https://sapl.formosodoaraguaia.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.formosodoaraguaia.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T11:15:13.420498-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

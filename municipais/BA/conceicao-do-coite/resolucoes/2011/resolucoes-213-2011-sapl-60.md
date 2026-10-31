@@ -1,0 +1,1108 @@
+---
+titulo: "Resolução nº 213, de 15 de junho de 2011"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "213"
+data: "2011-06-15"
+municipio: "Conceição do Coité"
+uf: "BA"
+codigo_ibge: "2908408"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2023-03-07; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodocoite.ba.leg.br/norma/60"
+fonte_texto: "https://sapl.conceicaodocoite.ba.leg.br/ta/79/text"
+sha256_fonte: "02194fcf7e3fe252251c50ce75f49fb1bdd40cce67c0f7ce5cbbf47e6bef08ab"
+sha256_texto: "fead1d43a63a87005162ef76f731d9c9d9908cbc1ad6d6d64db521b3cfbcdc7f"
+capturado_em_fonte: "2026-10-27T23:18:57.664099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 213, de 15 de junho de 2011
+
+Institui o Código de Ética e Decoro Parlamentar no Legislativo Municipal.
+
+
+**A Câmara Municipal de Conceição do Coité**
+
+resolve:
+
+
+### TÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O Código de Ética e Decoro Parlamentar da Câmara Municipal de Conceição do Coité, Estado da Bahia é instituído na conformidade desta Resolução.
+
+
+Parágrafo único
+
+As normas estabelecidas no Código de Ética e Decoro Parlamentar complementam o Regimento Interno e dele passam a fazer parte integrante.
+
+
+Art. 2º.
+
+Este Código estabelece os princípios éticos e as regras básicas de decoro parlamentar que devem orientar a conduta dos que estejam no exercício do cargo de Vereador.
+
+
+Parágrafo único
+
+Regem-se também por este Código o procedimento disciplinar e as penalidades aplicáveis no caso de descumprimento das normas relativas ao decoro parlamentar.
+
+
+Art. 3º.
+
+O Vereador, no exercício do mandato, atenderá às prescrições constitucionais, legais, regimentais e as estabelecidas neste Código de Ética e Decoro Parlamentar, sujeitando-se aos procedimentos e medidas disciplinares nele previstos.
+
+
+Parágrafo único
+
+As prerrogativas e franquias asseguradas pelas Constituições Federal e Estadual, Lei Orgânica Municipal e pelo Regimento Interno aos Vereadores são institutos destinados à garantia do exercício do mandato popular e à defesa do Poder Legislativo.
+
+
+### TÍTULO II — DO CONSELHO DE ÉTICA E DECORO PARLAMENTAR
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 4º.
+
+Fica criado o Conselho de Ética e Decoro Parlamentar com o objetivo de zelar pela observância dos princípios e preceitos deste Código e do Regimento Interno da Câmara Municipal de Conceição do Coité, atuando no sentido da preservação da dignidade do mandato parlamentar, competindo-lhe:
+
+
+I –
+
+instaurar o processo disciplinar e proceder a todos os atos necessários à sua instrução, nos casos de aplicação de penalidade disciplinar de suspensão de prerrogativas regimentais, suspensão temporária do exercício do mandato e perda do mandato;
+
+
+II –
+
+elaborar projetos de resolução que importem em sanções éticas que devam ser submetidas ao Plenário;
+
+
+III –
+
+opinar sobre o cabimento de sanções éticas, que devam ser impostas, de ofício, pela Mesa Diretora;
+
+
+IV –
+
+dar parecer sobre a adequação das proposições que tenham por objeto matéria de sua competência;
+
+
+V –
+
+apurar omissões e falhas na tramitação dos processos relativos a Recursos contra Ato do Presidente; (NR)
+
+Alteração feita pelo I - Resolução nº 320, de 07 de março de 2023.
+
+
+#### CAPÍTULO II — DA COMPOSIÇÃO
+
+
+##### Seção I — DISPOSIÇÕES GERAIS
+
+
+Art. 5º.
+
+O Conselho de Ética e Decoro Parlamentar será composto de 03 (três) membros titulares, assegurando-se, a representação proporcional dos partidos que componham o Plenário. (NR)
+
+Alteração feita pelo II - Resolução nº 320, de 07 de março de 2023.
+
+
+§ 1º
+
+Os membros do Conselho serão designados mediante Portaria da Presidência da Câmara Municipal, no prazo de 30 (trinta) dias da instalação da primeira e terceira sessões legislativas de cada legislatura, de acordo com a composição numérica das bancadas dos partidos ou blocos parlamentares, observado o princípio da proporcionalidade.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo II - Resolução nº 320, de 07 de março de 2023.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo II - Resolução nº 320, de 07 de março de 2023.
+
+
+§ 4º
+
+O Presidente fará, de ofício, a designação se, no prazo de quarenta e oito horas, depois de notificadas, as lideranças das bancadas não comunicarem os nomes de sua representação para compor o Conselho.
+
+
+§ 5º
+
+Esgotado o prazo fixado no parágrafo anterior, com ou sem as indicações, o Presidente, no prazo de 3 (três) dias mandará publicar, Portaria com a designação dos membros do Conselho, indicando os nomes dos membros titulares e suplentes com a respectiva legenda partidária ou bloco parlamentar a que pertençam, determinando no ato a data, o horário e o local para reunião de instalação e eleição dos respectivos Presidentes e Vice-Presidentes.
+
+
+##### Seção II — DOS IMPEDIMENTOS
+
+
+Art. 6º.
+
+Não poderão compor o Conselho de Ética e Decoro Parlamentar o Presidente e Secretário da Câmara Municipal e os Vereadores, quando: (NR)
+
+Alteração feita pelo III - Resolução nº 320, de 07 de março de 2023.
+
+
+I –
+
+envolvido em processo por crime, em tramitação no Poder Judiciário, ou ainda, submetido a processo disciplinar em curso na Casa, mediante provocação da Mesa Diretora, de partido político representado na Câmara Municipal, por ato incompatível ou atentatório com o decoro parlamentar, previstos nos arts. 34 e 35;
+
+
+II –
+
+que tenha recebido, na legislatura, penalidade disciplinar de suspensão de prerrogativas regimentais, prevista no art. 39, e da qual se tenha o competente registro nos arquivos da Casa.
+
+
+#### CAPÍTULO III — DO PRESIDENTE E VICE-PRESIDENTE
+
+
+Art. 7º.
+
+O Presidente e Vice-Presidente do Conselho de Ética e Decoro Parlamentar, serão eleitos dentre os membros titulares, na reunião de instalação por votação nominal e aberta, cujo mandato coincidirá com os dos seus membros.
+
+
+Art. 8º.
+
+Ao Presidente do Conselho compete:
+
+
+I –
+
+promover a manutenção do decoro, da ordem e da disciplina no âmbito da Câmara Municipal;
+
+
+II –
+
+dar cumprimento às determinações da Mesa, referentes à segurança interna e externa da Casa;
+
+
+III –
+
+supervisionar a proibição de porte de arma, com poderes para revistar e desarmar;
+
+
+IV –
+
+fazer sindicância ou abrir inquérito sobre denúncias de ilícitos no âmbito da Câmara Municipal envolvendo Vereadores;
+
+
+V –
+
+convocar e presidir todas as reuniões do Conselho e nelas manter a ordem necessária;
+
+
+VI –
+
+designar dentre os Membros do Conselho, Secretário “Ad Hoc”, para secretariar os trabalhos durante as reuniões;
+
+
+VII –
+
+fazer ler, a ata da reunião anterior;
+
+
+VIII –
+
+designar relator ao processo sujeito a parecer;
+
+
+IX –
+
+submeter a voto as questões sujeitas à deliberação do Conselho e proclamar o resultado da votação;
+
+
+X –
+
+solicitar ao Presidente da Câmara a designação de substitutos;
+
+
+XI –
+
+resolver de acordo com este Código, ou quando omisso, de acordo com o Regimento Interno da Casa, as questões de ordem ou reclamações suscitadas.
+
+
+§ 1º
+
+Ao Presidente, compete ainda, desempatar as votações ostensivas nas deliberações do Conselho, e votar em escrutínio secreto, contando-se a sua presença, em qualquer caso, para efeito de quorum.
+
+
+§ 2º
+
+O Presidente não poderá funcionar como Relator.
+
+
+Art. 9º.
+
+Ao Vice-Presidente compete:
+
+
+I –
+
+substituir o Presidente, em eventuais ausências, impedimentos ou licenças, e sucedê-lo no caso de vaga.
+
+
+II –
+
+desempenhar os encargos que lhe sejam atribuídos pelo Corregedor Parlamentar.
+
+
+#### CAPÍTULO IV — DAS REUNIÕES
+
+
+Art. 10.
+
+O Conselho de Ética e Decoro Parlamentar atuará mediante provocação do Presidente da Câmara Municipal, nos casos de instauração de processo disciplinar contra o Vereador.
+
+
+Art. 11.
+
+Havendo processo disciplinar em andamento ou qualquer matéria pendente de deliberação, o Presidente do Conselho convocará os membros para se reunirem na sede da Câmara Municipal, em dia e hora prefixados, observado, no que couber, o disposto no Regimento Interno.
+
+
+Parágrafo único
+
+As reuniões serão abertas pelo Presidente, com a presença da maioria absoluta de seus membros, ou com qualquer número se não houver matéria para deliberar.
+
+
+#### CAPÍTULO V — DAS AUSÊNCIAS
+
+
+Art. 12.
+
+O Presidente do Conselho será, nas suas ausências, impedimentos ou licenças, substituído pelo Vice-Presidente e, na ausência deste, pelo membro mais idoso do Conselho.
+
+
+Art. 13.
+
+A ausência do membro titular garante ao suplente participar, automaticamente, da reunião do Conselho, cedendo lugar quando do comparecimento daquele, exceto se iniciada a votação da matéria em apreciação até que seja ultimada a decisão.
+
+
+Parágrafo único
+
+O membro suplente não poderá ser designado Relator, exceto nos casos de impedimento ou licença do titular.
+
+
+#### CAPÍTULO VI — DO AFASTAMENTO TEMPORÁRIO
+
+
+Art. 14.
+
+O Membro do Conselho de Ética e Decoro Parlamentar, que vier a se envolver em processo, nas hipóteses previstas no inciso I, do art. 6°, em razão do impedimento legal, será afastado de suas funções, automaticamente, de ofício, pelo Presidente do Conselho, até a decisão final sobre o processo em que é envolvido.
+
+
+§ 1º
+
+Quando do afastamento do titular, houver impedimento para assunção do respectivo suplente, compete ao Líder do partido ou bloco parlamentar a que pertença, no prazo de quarenta e oito horas, depois de notificado, pelo Presidente da Câmara, indicar o substituto para exercício temporário, nos termos do § 4° do art. 5°, observado, contudo, os impedimentos previstos no art. 6°.
+
+
+§ 2º
+
+Caso haja absolvição, em processo em tramitação no Poder Judiciário, ou que seja, julgado improcedente a representação por ato atentatório ou incompatível com o decoro parlamentar, o titular retornará às suas atribuições no Conselho, caso contrário, o substituto, assumirá definitivamente o exercício da função, para concluir o mandato do titular.
+
+
+§ 3º
+
+Quando se tratar de afastamento do Presidente ou do Vice-Presidente do Conselho, os seus respectivos Suplentes no Conselho, serão convocados, para o exercício temporário da função de membro titular no Conselho de Ética e Decoro Parlamentar.
+
+
+#### CAPÍTULO VII — DAS VAGAS
+
+
+Art. 15.
+
+A vaga no Conselho de Ética e Decoro Parlamentar será preenchida por designação do Presidente da Câmara Municipal, aplicando-se o estabelecido nos §§ 4° e 5° do art. 5° e, nos casos previstos para Comissões Permanentes no Regimento Interno
+
+
+Art. 16.
+
+Se vagar o cargo de Presidente ou de Vice-Presidente do Conselho, proceder-se-á a nova eleição para escolha do sucessor, salvo se faltarem menos de três meses para o término do mandato, caso em que será provido na forma indicada no art. 12.
+
+
+### TÍTULO III — DOS VEREADORES
+
+
+#### CAPÍTULO I — DOS DIREITOS DOS VEREADORES
+
+
+Art. 17.
+
+São direitos dos Vereadores uma vez empossados:
+
+
+I –
+
+inviolabilidade civil e penal por suas opiniões, palavras e votos, no exercício do mandato e na circunscrição do Município;
+
+
+II –
+
+tomar parte das sessões, oferecer proposições, discutir, votar e ser votado;
+
+
+III –
+
+solicitar na forma regimental, informações sobre fatos relacionados com a matéria legislativa em tramitação ou sobre fato sujeito a fiscalização da Câmara Municipal;
+
+
+IV –
+
+fazer parte das comissões;
+
+
+V –
+
+falar, quando julgar necessário, pedindo previamente a palavra ao Presidente, observadas as disposições regimentais;
+
+
+VI –
+
+integrar as comissões de representação e desempenhar missão autorizada;
+
+
+VII –
+
+examinar, a todo tempo, quaisquer documentos existentes no arquivo da Câmara Municipal, respeitado os lacrados em razão de sessão secreta;
+
+
+VIII –
+
+requisitar da autoridade competente, por intermédio da Mesa Diretora ou diretamente, providências para garantia de suas prerrogativas parlamentares;
+
+
+IX –
+
+reclamar, verbalmente ou por escrito, perante qualquer autoridade, contra a inobservância de preceito de lei, regulamento ou regimento;
+
+
+X –
+
+gozar de licença, na forma do art. 22;
+
+
+XI –
+
+remuneração mensal condigna.
+
+
+Art. 18.
+
+Quando no curso de uma discussão ou em outra circunstância, um Vereador for acusado de ato que ofenda sua honorabilidade, pode pedir ao Presidente da Câmara ou de Comissão que mande apurar a veracidade da argüição e o cabimento de censura ao ofensor, no caso de improcedência da acusação.
+
+
+§ 1º
+
+O Presidente da Câmara ou da Comissão, no prazo de setenta e duas horas, encaminhará o expediente ao Conselho de Ética e Decoro Parlamentar, que instituirá o processo na forma deste Código.
+
+
+§ 2º
+
+É facultado ao Vereador ofendido solicitar as providências de que trata o “caput” deste artigo, diretamente ao Conselho de Ética e Decoro Parlamentar.
+
+
+Art. 19.
+
+Por quaisquer atos praticados em decorrência da atividade do mandato parlamentar, o Vereador será representado judicial ou extrajudicialmente pela Assessoria Jurídica da Câmara Municipal, desde que por este expressamente solicitada.
+
+
+#### CAPÍTULO II — DOS DEVERES DOS VEREADORES
+
+
+Art. 20.
+
+São deveres dos Vereadores, uma vez empossados:
+
+
+I –
+
+promover a defesa dos interesses populares, do Município, do Estado e do País;
+
+
+II –
+
+respeitar e cumprir a Constituição Federal, Constituição Estadual, Lei Orgânica Municipal, leis e as normas internas da Câmara;
+
+
+III –
+
+zelar pelo prestígio, aprimoramento e valorização das instituições democráticas e representativas e pelas prerrogativas do Poder Legislativo;
+
+
+IV –
+
+exercer o mandato com dignidade e respeito à coisa pública e à vontade popular, agindo com boa-fé zelo e probidade;
+
+
+V –
+
+apresentar-se à Câmara Municipal durante as sessões legislativas ordinárias e extraordinárias e participar das sessões do Plenário e das reuniões de comissão de que seja membro;
+
+
+VI –
+
+examinar todas as proposições submetidas a sua apreciação e votar sob a ótica do interesse público;
+
+
+VII –
+
+tratar com respeito e independência os colegas, as autoridades, os servidores da Câmara Municipal e os cidadãos com os quais mantenha contato no exercício da atividade parlamentar, não prescindindo de igual tratamento;
+
+
+VIII –
+
+prestar contas do mandato à sociedade, disponibilizando as informações necessárias ao seu acompanhamento e fiscalização;
+
+
+IX –
+
+respeitar as decisões legítimas dos órgãos da Câmara Municipal
+
+
+Art. 21.
+
+Para afastar-se do território nacional, o Vereador deverá dar prévia ciência à Câmara Municipal, por intermédio da Presidência, indicando a natureza do afastamento e sua duração estimada.
+
+
+### TÍTULO IV — DOS PRECEITOS ÉTICOS E DE DECORO PARLAMENTAR
+
+
+#### CAPÍTULO I — DOS ATOS INCOMPATÍVEIS COM O DECORO PARLAMENTAR
+
+
+Art. 22.
+
+Constituem procedimentos incompatíveis com o decoro parlamentar, puníveis com a perda do mandato, os elencados no Art. 35 da Lei Orgânica Municipal, bem como as seguintes práticas:
+
+
+I –
+
+abusar das prerrogativas constitucionais asseguradas aos membros da Câmara Municipal, previstas no art. 29, inciso VIII da Constituição Federal assim como as previstas na Lei Orgânica Municipal;
+
+
+II –
+
+perceber, a qualquer título, em proveito próprio ou de outrem, no exercício da atividade parlamentar, vantagens indevidas;
+
+
+III –
+
+celebrar acordo que tenha por objeto a posse do suplente, condicionando-a a contraprestação financeira ou à prática de atos contrários aos deveres éticos ou regimentais dos Vereadores;
+
+
+IV –
+
+fraudar, por qualquer meio ou forma, o regular andamento dos trabalhos legislativos para alterar o resultado de deliberação;
+
+
+V –
+
+omitir intencionalmente informação relevante, ou, nas mesmas condições, prestar informação falsa nas declarações de que trata o artigo anterior.
+
+
+#### CAPÍTULO II — DOS ATOS ATENTATÓRIOS AO DECORO PARLAMENTAR
+
+
+Art. 23.
+
+Atentam, ainda, contra o decoro parlamentar as seguintes condutas, puníveis na forma deste Código:
+
+
+I –
+
+perturbar a ordem das sessões da Câmara Municipal ou das reuniões de comissão;
+
+
+II –
+
+praticar atos que infrinjam as regras de boa conduta nas dependências da Casa;
+
+
+III –
+
+praticar ofensas físicas ou morais nas dependências da Câmara ou desacatar, por atos ou palavras, a outro parlamentar, a Mesa ou Comissão, ou os respectivos Presidentes;
+
+
+IV –
+
+usar os poderes e prerrogativas do cargo para constranger ou aliciar servidor, colega ou qualquer pessoa sobre a qual exerça ascendência hierárquica, com o fim de obter qualquer espécie de favorecimento;
+
+
+V –
+
+revelar conteúdo de debates ou deliberações que a Câmara Municipal ou comissão haja resolvido que devam ficar secretos;
+
+
+VI –
+
+revelar informações e documentos oficiais de caráter reservado, de que tenha tido conhecimento na forma regimental;
+
+
+VII –
+
+relatar matéria submetida à apreciação da Câmara Municipal, de interesse específico de pessoa física ou jurídica que tenha contribuído para o financiamento de sua campanha eleitoral;
+
+
+VIII –
+
+fraudar, por qualquer meio ou forma, o registro de presença às sessões, ou às reuniões de comissão.
+
+
+#### CAPÍTULO III — DAS PENALIDADES APLICÁVEIS
+
+
+Art. 24.
+
+São as seguintes as penalidades aplicáveis por conduta atentatória ou incompatível com o decoro parlamentar
+
+
+I –
+
+censura, verbal ou escrita;
+
+
+II –
+
+suspensão de prerrogativas regimentais;
+
+
+III –
+
+perda do mandato.
+
+
+Parágrafo único
+
+Na aplicação das penalidades serão consideradas a natureza e a gravidade da infração cometida, os danos que dela provierem para a Câmara Municipal, as circunstâncias agravantes ou atenuantes e os antecedentes do infrator.
+
+
+Art. 25.
+
+A censura verbal será aplicada, de ofício, pelo Presidente da Câmara Municipal, em sessão, ou de Comissão, durante suas reuniões, ao Vereador que incidir nas seguintes condutas:
+
+
+I –
+
+perturbar a ordem das sessões da Câmara Municipal ou das reuniões de Comissão;
+
+
+II –
+
+praticar atos que infrinjam as regras de boa conduta nas dependências da Casa.
+
+
+Parágrafo único
+
+Contra a aplicação da penalidade prevista neste artigo poderá o Vereador recorrer ao respectivo Plenário, que se manifestará, imediatamente, deferindo ou não a aplicação da penalidade.
+
+
+Art. 26.
+
+A censura escrita será aplicada, de ofício, pela Mesa Diretora da Câmara Municipal, por provocação do ofendido, ao Vereador que incidir nas seguintes condutas:
+
+
+I –
+
+reincidir nas condutas referidas no artigo anterior;
+
+
+II –
+
+praticar ofensas físicas ou morais nas dependências da Câmara ou desacatar, por atos ou palavras, outro parlamentar, a Mesa ou Comissão, ou os respectivos Presidentes.
+
+
+Art. 27.
+
+A suspensão de prerrogativas regimentais será aplicada pelo Plenário da Câmara Municipal, ao Vereador que incidir nas seguintes condutas:
+
+
+I –
+
+reincidir nas condutas referidas no artigo anterior;
+
+
+II –
+
+usar os poderes e prerrogativas do cargo para constranger ou aliciar servidor, colega ou qualquer pessoa sobre a qual exerça ascendência hierárquica, com o fim de obter qualquer espécie de favorecimento;
+
+
+III –
+
+revelar conteúdo de debates ou deliberações que a Câmara Municipal ou comissão hajam resolvido que devam ficar secretos;
+
+
+IV –
+
+revelar informações e documentos oficiais de caráter reservado, de que tenha tido conhecimento na forma regimental;
+
+
+V –
+
+relatar matéria submetida à apreciação da Câmara Municipal, de interesse específico de pessoa física ou jurídica que tenha contribuído para o financiamento de sua campanha eleitoral;
+
+
+VI –
+
+fraudar, por qualquer meio ou forma, o registro de presença às sessões, ou às reuniões de comissão.
+
+
+§ 1º
+
+1° São passíveis de suspensão as seguintes prerrogativas:
+
+
+a)
+
+usar a palavra, em sessão, no horário destinado ao Expediente;
+
+
+b)
+
+encaminhar discurso para arquivamento nos anais da Casa;
+
+
+c)
+
+candidatar-se a, ou permanecer exercendo, cargo de membro da Mesa ou de Presidente ou Vice-Presidente de Comissão;
+
+
+d)
+
+ser designado relator de proposição em Comissão ou no Plenário
+
+
+§ 2º
+
+A penalidade aplicada poderá incidir sobre todas as prerrogativas referidas no parágrafo anterior, ou apenas sobre algumas, a juízo do Conselho, que deverá fixar seu alcance tendo em conta a atuação parlamentar pregressa do acusado, os motivos e as conseqüências da infração cometida.
+
+
+§ 3º
+
+Em qualquer caso, a suspensão não poderá estender-se por mais de seis meses.
+
+
+Art. 28.
+
+A perda do mandato será aplicada pelo Plenário da Câmara Municipal, ao Vereador que incidir nas seguintes condutas incompatíveis com o decoro parlamentar
+
+
+I –
+
+abusar das prerrogativas constitucionais asseguradas aos membros da Câmara Municipal, previstas no art. 29, inciso VIII da CF e na Lei Orgânica Municipal;
+
+
+II –
+
+perceber, a qualquer titulo, em proveito próprio ou de outrem, no exercício da atividade parlamentar, vantagens indevidas;
+
+
+III –
+
+celebrar acordo que tenha por objeto a posse do suplente, condicionando-a a contraprestação financeira ou à prática de atos contrários aos deveres éticos ou regimentais dos Vereadores;
+
+
+IV –
+
+fraudar, por qualquer meio ou forma, o regular andamento dos trabalhos legislativos para alterar o resultado de deliberação;
+
+
+V –
+
+omitir intencionalmente informação relevante, ou, nas mesmas condições, prestar informação falsa nas declarações de que trata o artigo anterior.
+
+
+Parágrafo único
+
+Aplica-se ainda, a perda do mandato, nos demais casos previstos no art. 36 da Lei Orgânica Municipal.
+
+
+Art. 29.
+
+A perda do mandato será aplicada ao Vereador, observadas as seguintes formalidades legais:
+
+
+I –
+
+pelo Plenário nos casos do artigo anterior, e nos casos dos incisos I,III, VI e VII do art. 36 da Lei Orgânica Municipal, por voto secreto e quorum de 2/3 (dois terços) dos membros da Câmara, mediante provocação da Mesa Diretora ou de partido político representado na Câmara Municipal, assegurada ampla defesa;
+
+
+II –
+
+pela Mesa Diretora da Câmara nos casos previstos nos incisos IV, V e VIII do art. 36, da Lei Orgânica Municipal, a perda do mandato será declarada pela Mesa da Câmara, de ofício ou mediante provocação de qualquer de seus membros, ou de partido político representado na Câmara Municipal, assegurada ampla defesa.
+
+
+Art. 30.
+
+Qualquer Vereador ou entidade da sociedade civil organizada (entidades cientificas e culturais, de associações e sindicatos e demais instituições representativas) é parte legítima para representar junto à Mesa Diretora da Câmara Municipal contra Vereador por procedimento punível na forma dos arts. 27 e 28, especificando os fatos e respectivas provas.
+
+
+§ 1º
+
+As representações da sociedade civil organizada deverão ser aprovadas nas entidades respectivas, conforme suas determinações estatutárias e encaminhadas junto a petição, com cópia da ata da assembléia que deliberou pela apresentação da representação, bem como, cópia do estatuto da entidade.
+
+
+§ 2º
+
+A Mesa Diretora não poderá deixar de conhecer representação apresentada nos termos deste artigo, devendo sobre ela exarar despacho fundamentado, no prazo de cinco dias, determinando seu arquivamento ou o envio ao Conselho de Ética e Decoro Parlamentar para a instauração do competente processo disciplinar.
+
+
+§ 3º
+
+A decisão da Mesa Diretora é irrecorrível.
+
+
+#### CAPÍTULO IV — DO PROCESSO DISCIPLINAR
+
+
+##### Seção I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 31.
+
+O processo disciplinar será instaurado pelo Conselho de Ética e Decoro Parlamentar, mediante representação, por escrito, vedado o anonimato do autor, com a exposição dos fatos e a indicação das provas, para infrações sujeitas ao julgamento pela Câmara Municipal, sendo assegurado ampla defesa ao denunciado.
+
+
+§ 1º
+
+O Conselho não poderá deixar de conhecer a representação apresentada nos termos deste artigo, devendo, preliminarmente, examinar a legitimidade de iniciativa do denunciante, na com a legislação vigente e sobre ela exarar despacho fundamentado, no prazo de 5 (cinco) dias, determinando seu arquivamento ou a instauração do competente processo disciplinar.
+
+
+§ 2º
+
+O Conselho comunicará imediatamente a Mesa Diretora sobre denúncia recebida contra membro da Câmara Municipal.
+
+
+##### Seção II — DA INSTAURAÇÃO DO PROCESSO
+
+
+Art. 32.
+
+Decidido o recebimento, pelo voto da maioria do Conselho de Ética e Decoro Parlamentar, o seu Presidente instaurará o processo disciplinar, determinando as seguintes providências:
+
+
+I –
+
+o registro e autuação da representação;
+
+
+II –
+
+designação de Relator para promover as devidas apurações dos fatos e das responsabilidades;
+
+
+III –
+
+notificação ao Vereador representado, acompanhada da cópia da respectiva representação e dos documentos que a instruam, para apresentar defesa.
+
+
+§ 1º
+
+Na designação do Relator, o Presidente do Conselho procederá a escolha observando que o Vereador escolhido não seja da mesma sigla partidária do representado, nem que já lhe tenha sido distribuído outro processo em curso.
+
+
+§ 2º
+
+No caso de impedimento ou desistência do Relator, o Presidente do Conselho, no prazo de vinte e quatro horas, designará Relator Substituto.
+
+
+##### Seção III — DA DEFESA
+
+
+Art. 33.
+
+A partir do recebimento da notificação, o Representado terá o prazo de 10 (dez) dias úteis para apresentação de defesa prévia, por escrito, indicando as provas que pretende produzir e o rol de testemunhas, até o máximo de cinco, se entender necessária.
+
+
+Art. 34.
+
+Decorrido o prazo de que trata o artigo anterior, sem que tenha sido apresentada a defesa, o Presidente do Conselho deverá nomear defensor dativo para, em prazo idêntico, oferecê-la ou requerer a produção probatória, ressalvado o direito do Representado de, a todo tempo, nomear outro de sua confiança ou a si mesmo para defender-se.
+
+
+Parágrafo único
+
+A escolha do defensor dativo ficará a critério do Presidente, que poderá nomear um Vereador não membro do Conselho.
+
+
+Art. 35.
+
+Ao Representado é assegurado amplo direito de defesa, podendo acompanhar o processo em todos os seus termos e atos, pessoalmente ou por intermédio de procurador.
+
+
+Parágrafo único
+
+O Representado deverá ser intimado de todos os atos do processo, pessoalmente, ou na pessoa de seu procurador, com a antecedência, pelo menos, de vinte e quatro horas, sendo-lhe permitido assistir às diligências e audiências, bem como formular perguntas e reperguntas às testemunhas e requerer o que for de interesse da defesa.
+
+
+##### Seção IV — DA INSTRUÇÃO PROBATÓRIA
+
+
+Art. 36.
+
+Findo o prazo para apresentação da defesa, o Relator procederá às diligências e a instrução probatória que entender necessária.
+
+
+Parágrafo único
+
+A instrução probatória em qualquer das hipóteses prevista neste Código, será processada em, no máximo, 45 (quarenta e cinco) dias.
+
+
+Art. 37.
+
+Em caso de produção de prova testemunhal, na reunião em que ocorrer oitiva de testemunha, observar-se-ão as seguintes normas:
+
+
+I –
+
+a testemunha prestará compromisso e falará somente sobre o que lhe for perguntado, sendo-lhe defeso qualquer explanação ou consideração inicial à guisa de introdução;
+
+
+II –
+
+ao Relator será facultado inquirir a testemunha no início do depoimento e a qualquer momento que entender necessário;
+
+
+III –
+
+após a inquirição inicial do Relator, será dada a palavra ao Representado;
+
+
+IV –
+
+a chamada para que os Vereadores inquiram a testemunha será feita de acordo com a lista de inscrição, chamando-se primeiramente os membros do Conselho e a seguir os demais Vereadores;
+
+
+V –
+
+será concedido a cada membro o prazo de até dez minutos improrrogáveis para formular perguntas e o tempo máximo de três minutos para a réplica;
+
+
+VI –
+
+será concedido aos Vereadores que não integram o Conselho a metade do tempo dos seus membros;
+
+
+VII –
+
+o Vereador inquiridor não será aparteado;
+
+
+VIII –
+
+a testemunha não será interrompida, exceto pelo Presidente ou pelo Relator;
+
+
+IX –
+
+se a testemunha se fizer acompanhar de advogado, este não poderá intervir ou influir, de qualquer modo, nas perguntas e nas respostas, sendo-lhe permitido consignar protesto ao Presidente do Conselho, em caso de abuso ou violação de direito
+
+
+Art. 38.
+
+Nos casos puníveis com perda do mandato, o Conselho, em petição fundamentada, poderá solicitar à Mesa Diretora, em caráter de urgência, que submeta ao Plenário da Câmara Municipal, requerimento de quebra de sigilo bancário, fiscal e telefônico do Representado.
+
+
+Parágrafo único
+
+Na justificativa do requerimento, além de circunstanciar os fatos e determinar a causa do pedido, o Conselho deverá precisar os documentos aos quais necessita ter acesso.
+
+
+Art. 39.
+
+A Mesa Diretora, o Representante, o Representado ou qualquer Vereador poderá requerer a juntada de documentos em qualquer fase do processo até o encerramento da instrução.
+
+
+Art. 40.
+
+Concluída a instrução, será aberta vista do processo no Conselho ao Representado, pelo prazo de 10 (dez) dias, para apresentar as razões finais, por escrito.
+
+
+Parágrafo único
+
+Esgotado o prazo de que trata o “caput” deste artigo, com ou sem a apresentação das razões finais, o Relator apresentará no prazo de 10 (dez) dias parecer, que poderá concluir pela improcedência, sugerindo o arquivamento da representação, ou pela procedência, caso em que oferecerá, em apenso, o respectivo projeto de resolução destinado, conforme o caso, à declaração de suspensão de prerrogativas regimentais, suspensão temporária do exercício do mandato ou perda do mandato.
+
+
+Art. 41.
+
+Recebido o Parecer do Relator, o Conselho de Ética e Decoro Parlamentar, no prazo 3 (três) dias se reunirá para apreciá-lo, distribuindo cópias do parecer em avulsos aos Membros do Conselho e ao Representado, nas quarenta e oito horas, que anteceder a reunião de deliberação.
+
+
+##### Seção V — DA APRECIAÇÃO DO PARECER NO CONSELHO
+
+
+Art. 42.
+
+Na reunião de apreciação do parecer do Relator, o Conselho observará o seguinte procedimento:
+
+
+I –
+
+anunciada a matéria pelo Presidente passa-se a palavra ao Relator, que procederá a leitura do seu Parecer;
+
+
+II –
+
+a seguir é concedido o prazo de quinze minutos, prorrogáveis por igual prazo, ao Representado ou ao seu procurador para defesa oral;
+
+
+III –
+
+inicia-se a discussão do parecer, podendo cada membro do Conselho usar a palavra durante cinco minutos improrrogáveis e, por três minutos, os Vereadores que a ele não pertençam;
+
+
+IV –
+
+a discussão e a votação realizar-se-ão em reunião pública;
+
+
+V –
+
+ao membro do Conselho que pedir vista do processo, ser-lhe-á concedida por quarenta e oito horas, e se mais de um membro, simultaneamente, pedir vista, ela será conjunta;
+
+
+VI –
+
+é facultado, a critério do Presidente, o prazo de cinco minutos improrrogáveis ao Relator para a réplica e, igual prazo, à defesa para a tréplica;
+
+
+VII –
+
+o Conselho deliberará em processo de votação nominal e por maioria absoluta;
+
+
+VIII –
+
+é vedada a apresentação de destaque ao parecer;
+
+
+IX –
+
+aprovado o parecer, será tido como do Conselho e, desde logo, assinado pelo Presidente e pelo Relator; constando da conclusão os nomes dos votantes e o resultado da votação;
+
+
+X –
+
+se o parecer for rejeitado pelo Conselho, a redação do parecer vencedor será feita no prazo de 3 (três) dias, pelo novo Relator designado pelo Presidente, dentre os que acompanharam o voto vencedor
+
+
+##### Seção VI — DA APRECIAÇÃO DO PARECER NO PLENÁRIO
+
+
+Art. 43.
+
+Concluída a tramitação no Conselho de Ética e Decoro Parlamentar, o Processo Disciplinar, com o Parecer pelo arquivamento ou procedência da representação, será encaminhado ao Presidente da Câmara Municipal, que determinará a leitura do Parecer no expediente da sessão imediata e a sua distribuição dos avulsos.
+
+
+Parágrafo único
+
+Lido o Parecer do Conselho no expediente o Presidente da Câmara, no prazo de quarenta e oito horas, tomará as seguintes providências:
+
+
+I –
+
+convocará sessão extraordinária para julgamento pelo Plenário da Câmara Municipal, nos casos de aplicação de pena de suspensão de prerrogativas regimentais e perda do mandato, nas infrações previstas nos arts. 27, 28, e inciso I do art. 29;
+
+
+II –
+
+convocará reunião da Mesa Diretora para deliberação, nos casos da declaração da pena de perda do mandato, nas infrações previstas no inciso II do art. 29.
+
+
+Art. 44.
+
+Na sessão de julgamento pelo Plenário, o Processo será lido, integralmente, e, a seguir, os Vereadores que o desejarem poderão manifestar-se verbalmente, pelo tempo máximo de cinco minutos cada um, e, ao final o Representado, ou seu Procurador, terá o prazo máximo de 01 (uma) hora, para produzir sua defesa oral.
+
+
+§ 1º
+
+Concluída a defesa, proceder-se-á a tantas votações secretas, quantas forem as infrações na denúncia.
+
+
+§ 2º
+
+Considerar-se-á suspensas as prerrogativas regimentais ou afastado definitivamente do cargo, conforme o caso, o denunciado que for declarado incurso em qualquer das infrações especificadas na representação.
+
+
+§ 3º
+
+Concluído o julgamento, o Presidente da Câmara proclamará imediatamente o resultado e fará lavrar ata que consigne a votação secreta sobre cada infração e, se houver condenação, expedirá competente Resolução, destinada à declaração, conforme o caso, de suspensão de prerrogativas regimentais, suspensão temporária do exercício do mandato ou perda do mandato.
+
+
+§ 4º
+
+Se o resultado for absolutório, o Presidente determinará o arquivamento do processo.
+
+
+##### Seção VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 45.
+
+Os processos instaurados pelo Conselho de Ética e Decoro Parlamentar destinada à declaração de suspensão de prerrogativas regimentais ou perda do mandato não poderão exceder o prazo de 90 (noventa) dias para sua deliberação conforme o caso, pelo Plenário ou pela Mesa.
+
+
+Art. 46.
+
+A renúncia do Vereador submetido a processo que vise ou possa levar à perda do mandato, nos termos deste Código, terá seus efeitos suspensos até as deliberações finais.
+
+
+Art. 47.
+
+Quando a representação apresentada contra o Vereador for considerada leviana e ofensiva à sua imagem, bem como à imagem da Câmara Municipal, os autos do processo respectivo serão encaminhados à Assessoria Jurídica da Casa para que tome as providências reparadoras de sua alçada.
+
+
+#### CAPÍTULO V — DOS DELITOS COMETIDOS POR VEREADOR NA CÂMARA
+
+
+Art. 48.
+
+Se algum Vereador, no âmbito da Casa cometer qualquer ato que deva ter repressão disciplinar, o Presidente da Câmara ou de Comissão conhecerá do fato e solicitará ao Presidente do Conselho de Ética e Decoro Parlamentar a abertura de sindicância ou inquérito para apurar responsabilidades e propor as sanções cabíveis.
+
+
+Art. 49.
+
+Quando, no prédio da Câmara Municipal, for cometido algum delito, por Vereador, será imediatamente oficializada pelo Presidente do Conselho a autoridade policial competente para adotar as providências à seu cargo, sem prejuízo para instauração do processo disciplinar, pelas infrações sujeitas ao julgamento da Câmara Municipal.
+
+
+Parágrafo único
+
+Em caso de flagrante de crime inafiançável, cometido por Vereador, realizar-se-á a prisão do agente da infração, que será entregue com os autos respectivos, pelo Presidente do Conselho à autoridade policial competente, para as providências à seu cargo.
+
+
+Art. 50.
+
+A Assessoria Jurídica da Câmara Municipal participará de todos os trabalhos da Comissão de Ética e Decoro Parlamentar, auxiliando o Presidente, na abertura de sindicâncias, inquéritos para apurar responsabilidades e nos processos disciplinares com vistas a propor as sanções cabíveis.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 51.
+
+O Conselho de Ética e Decoro Parlamentar valer-se-á, subsidiariamente das normas do Regimento Interno da Casa, especialmente, quanto à organização interna, ordem e desenvolvimento dos trabalhos, aplicados às Comissões Permanentes.
+
+
+Art. 52.
+
+Esta Resolução entra em vigor na data da sua publicação.
+
+
+Art. 53.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete da Presidência da Câmara Municipal,
+
+Conceição do Coité, 15 de junho de 2011.
+
+José Jailmo Pereira Gomes Elizane de Pinho Cana Bras
+
+***Presidente Secretária***
+

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.betania.pe.leg.br",
+  "metadados_unicos_observados": 6,
+  "total_api_declarado": 6,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.betania.pe.leg.br/388c83135d0100ce59e133684a4fdb6edd05333a86b270f229a5f89e5afae3bb.json",
+    "url": "https://sapl.betania.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.betania.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "dca24c7d12ce952272dbf18cdabe027431de0968fa481e04104afafcb835de23",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:20:38.334007-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.betania.pe.leg.br/04d9b7e105a0d290ee18dd0f3c786d4b520062663f086f107eff6be54a43dae3.json",
+    "url": "https://sapl.betania.pe.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.betania.pe.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "678211d7a22375cb8fda2543050467c58c331e9e99da05de69be0bcf44a7f417",
+    "bytes": 725,
+    "capturado_em": "2026-10-27T17:20:37.496668-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.betania.pe.leg.br/b15c74f74d2a8eb00a101fa22924169a4ca1517677b2ec04850787ec54edb873.json",
+      "url": "https://sapl.betania.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.betania.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "23251f8bfa9a22ef1ccfcd80cb00b47a2e100d0dbf6a8502da396e1f9f7bb437",
+      "bytes": 4343,
+      "capturado_em": "2026-10-27T17:20:40.336626-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

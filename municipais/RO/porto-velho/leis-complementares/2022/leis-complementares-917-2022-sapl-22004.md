@@ -1,0 +1,411 @@
+---
+titulo: "Lei Complementar nº 917, de 10 de outubro de 2022"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "917"
+data: "2022-10-10"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/22004"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2531/text"
+sha256_fonte: "53f162d41efe94566362bcb0912fdb1fa65c1d774276f98f0e805b76baab96a5"
+sha256_texto: "9fb228ff0b5dc3debe29e8919e35302514a7f668b0bfd99d8dd5c9c455dadd71"
+capturado_em_fonte: "2026-10-21T06:09:01.240603-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 917, de 10 de outubro de 2022
+
+Institui o Transporte Escolar Rural do Município de Porto Velho – RO e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe confere no inciso VI do art. 87, da Lei Orgânica do Munício de Porto Velho.
+
+**CONSIDERANDO** as Legislações pertinentes ao transporte escolar: Constituição Federal/88,Lei Federal nº 9.394, de 20 de dezembro de 1996 – Lei de Diretrizes e Bases da Educação Nacional, Lei Federal nº 8.069, de 13 de julho de 1990 – Estatuto da Criança e do Adolescente, Lei Federal nº 9.503, de 23 de setembro de 1997 – Código de Trânsito Brasileiro e Normas da Autoridade Marítima para Embarcações Empregadas na Navegação Interior, Fundo Nacional de Desenvolvimento da Educação – FNDE, Programa Nacional de Apoio ao Transporte Escolar – PNAT;
+
+**CONSIDERANDO** a competência suplementar do Município de Porto Velho para dispor sobre a regulamentação do transporte de escolares, nos termos do art. 139, da Lei Federal nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, fica instituído e aprovado o Transporte Escolar do Município de Porto Velho – RO, que dispõe sobre o transporte escolar prestado diretamente (frota própria), ou contratado pelo Município.
+
+**FAÇO SABER** que a **CÂMARAMUNICIPALDE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo, autorizado a regulamentar a presente Lei Complementar, no que tange aos protocolos hodiernos de conduta e procedimentos necessários à execução do Transporte Escolar.
+
+
+Parágrafo único
+
+Compete à Secretaria Municipal de Educação – SEMED, através do Departamento de Transporte Escolar, por delegação do Chefe do Poder Executivo Municipal, a edição de Decretos, Portarias, atos e disposições complementares necessários à aplicação deste Regulamento.
+
+
+Art. 2º.
+
+É direito dos usuários receberem o serviço de transporte escolar adequado, atendendo plenamente aos usuários, nos termos desta Lei Complementar e sem prejuízo de outras exigências expressas no processo licitatório e nas normas pertinentes, sendo ofertado diretamente pelo Município ou por meio de serviços terceirizados contratados.
+
+
+Art. 3º.
+
+Serviço adequado é o que satisfaz as condições de continuidade, regularidade, atualidade, segurança, higiene, cortesia e eficiência na sua prestação.
+
+
+Parágrafo único
+
+Para o fim do disposto no caput deste artigo, considera-se:
+
+
+I –
+
+Continuidade: a prestação dos serviços com a observância rigorosa do calendário letivo, das datas, dos turnos e dos trajetos dispostos para o transporte escolar, sem interrupção ou suspensão;
+
+
+II –
+
+Regularidade: a observância dos horários dispostos para cada trajeto do transporte escolar;
+
+
+III –
+
+Atualidade: a modernidade das técnicas, dos veículos, dos equipamentos e das instalações, conforme os padrões mínimos exigidos em edital, em Leis e a sua conservação;
+
+
+IV –
+
+Segurança: a prestação do serviço com a adoção de todas as medidas preventivas para o adequado funcionamento dos veículos, com manutenção e equipamentos de segurança adequados, a condução dos veículos com a observância das normas de trânsito, com toda a prudência e perícia requeridas para as condições peculiares dos trajetos e dos usuários transportados e a orientação e acompanhamento dos usuários no embarque, na viagem e no desembarque;
+
+
+V –
+
+Higiene: a limpeza permanente dos veículos e o asseio dos condutores e acompanhantes, bem como a manutenção dos equipamentos em condições de higienização;
+
+
+VI –
+
+Cortesia: o atendimento e acompanhamento dos usuários e demais agentes públicos envolvidos com o transporte escolar de forma atenciosa, solícita, educada e prestativa, com especial atenção aos aspectos de segurança;
+
+
+VII –
+
+Eficiência: o atendimento de todas as obrigações dispostas em editais, em contratos, nos regulamentos e nas demais normas jurídicas aplicáveis, assim como as ordens dos agentes públicos responsáveis, com observância dos prazos, dos quantitativos e dos qualitativos exigidos.
+
+
+Art. 4º.
+
+Aos Conselhos Escolares e Escolas compete:
+
+
+I –
+
+Manter informada a SEMED com lista atualizada dos alunos que utilizam o transporte escolar;
+
+
+II –
+
+Fixar no mural da escola as rotas e itinerários dos ônibus para aquela localidade;
+
+
+III –
+
+Informar ao setor de transporte escolar, de imediato, quando os alunos que utilizam o transporte escolar forem transferidos ou mudarem de endereço;
+
+
+IV –
+
+Fiscalizar diariamente a qualidade dos serviços de transporte;
+
+
+V –
+
+Comunicar a SEMED qualquer intercorrência na execução do transporte escolar;
+
+
+VI –
+
+Disponibilizar e manter livro de ocorrência de cada veículo vinculado a seu respectivo Conselho;
+
+
+VII –
+
+Manter atualizada a frequência dos motoristas e monitores, enviando cópia mensalmente para o Departamento de Transporte Escolar;
+
+
+VIII –
+
+Colher o termo de Responsabilidade/Consentimento dos pais ou representante legal do aluno;
+
+
+IX –
+
+Acolher e reduzir a termo reclamações e denúncias referente à execução dos serviços, intervindo e/ou encaminhando ao Departamento de Transporte Escolar para providências;
+
+
+X –
+
+Realizar, sempre que entender necessário, a fixação de material impresso nos veículos do transporte próprios ou contratados, com o fim de divulgar os direitos e obrigações dos usuários;
+
+
+XI –
+
+Manter-se devidamente regularizado;
+
+
+XII –
+
+Responsabilizar-se pelo recebimento e aplicação dos recursos financeiros destinados;
+
+
+XIII –
+
+Utilizar os recursos para os fins destinados: manutenção e desenvolvimento de ensino, nas contratações de prestação de serviços, pessoa física ou jurídica, para apoio financeiro ao serviço de transporte escolar;
+
+
+XIV –
+
+Realizar e gerir processo seletivo para contratação de motorista e monitor do transporte escolar para suprir a necessidade do conselho;
+
+
+XV –
+
+Manter todos os registros contábeis e os demonstrativos gerenciais, mensais e atualizados relativos aos recursos repassados, que ficarão permanentemente a disposição dos órgãos federais e estaduais de controle externo, assim como dos órgãos municipais de controle interno e externo;
+
+
+XVI –
+
+Manter em dia toda a despesa relacionada ao pagamento de motoristas, monitores, contador, bem como, todos os tributos/taxas relativos à contratação dos serviços;
+
+
+XVII –
+
+Elaborar prestação de contas da aplicação dos recursos do Programa de Apoio Financeiro ao Transporte Escolar da Rede Municipal de Ensino – PMATE e apresentá-la à SEMED para apreciação da Divisão responsável;
+
+
+XVIII –
+
+Participar e incentivar a participação dos membros do conselho, motoristas, monitores, pilotos e comunidade em treinamento e capacitações oferecidas pelo Departamento de Transporte Escolar;
+
+
+XIX –
+
+Desempenhar outras atribuições delegadas pelo Departamento de Trasporte Escolar, quando se fizer necessário para melhoria na prestação de serviços.
+
+
+Art. 5º.
+
+São direitos dos usuários:
+
+
+I –
+
+receber serviço de transporte adequado;
+
+
+II –
+
+receber do Município e dos prestadores contratados informações para a defesa de interesses individuais ou coletivos;
+
+
+III –
+
+protocolar, por escrito ou comunicação verbal reduzida a termo, às autoridades competentes, os atos ilícitos ou irregularidades de que tenham conhecimento, decorrentes do serviço prestado pelo Município ou por terceiros contratados;
+
+
+IV –
+
+ter ciência do regimento do transporte escolar do município;
+
+
+V –
+
+receber o serviço de transporte escolar em sua propriedade em um único turno, exceto em localidades em que não tiver escolas que atendam os alunos no mesmo turno;
+
+
+VI –
+
+oferecer sugestões de melhoria dos serviços, mediante protocolo físico, digital ou através de telefone.
+
+
+§ 1º
+
+Para o exercício do direito dos usuários, os pais dos alunos ou responsáveis legais podem representar junto à SEMED.
+
+
+§ 2º
+
+As denúncias de ilegalidades ou outras infrações dos condutores e demais envolvidos no transporte escolar, quando não apresentadas por escrito e assinadas, devem ser reduzidas a termo pelo setor responsável pelo transporte escolar, e assinadas pelos pais ou responsáveis.
+
+
+Art. 6º.
+
+São obrigações dos usuários:
+
+
+I –
+
+Comportar-se de forma educada e respeitosa com os colegas, condutor e monitor;
+
+
+II –
+
+Assentar no lugar determinado pelo motorista, piloto ou monitor, usar sempre o equipamento de segurança afivelado (cinto, colete salva vidas);
+
+
+III –
+
+Não estragar assentos ou qualquer outro item do veículo/embarcações;
+
+
+IV –
+
+Respeitar as orientações do condutor, piloto e monitor;
+
+
+V –
+
+Utilizar uniforme escolar dentro do veículo de transporte escolar;
+
+
+VI –
+
+Aguardar no local e hora combinado, para embarque, tanto na vinda para a escola quanto na volta para casa;
+
+
+VII –
+
+Evitar brigas e discussões, brincadeiras de mau gosto, e conversas com o condutor (motorista, piloto) que possam desviar a sua atenção, causando acidentes;
+
+
+VIII –
+
+Responsabilizar-se junto à família pelo pagamento de qualquer dano material causado no veículo ou em materiais dos colegas;
+
+
+IX –
+
+Não jogar lixo, ou qualquer outro objeto dentro ou fora do veículo ou, embarcação, mantendo a higiene e conservação do transporte escolar e, colaborando para a preservação do meio ambiente;
+
+
+X –
+
+Não atravessar na frente ou atrás do veículo, aguardando ter uma visão completa da estrada ou da rua;
+
+
+XI –
+
+Não colocar o corpo ou braços para fora da embarcação ou da janela do veículo;
+
+
+XII –
+
+Aguardar com até 20 (vinte) minutos de antecedência o transporte no ponto determinado pelo Setor de Transporte da SEMED;
+
+
+XIII –
+
+Frequentar as escolas e utilizar o transporte indicado (terrestre, fluvial);
+
+
+XIV –
+
+Contribuir para a conservação dos bens públicos ou privados utilizados na prestação dos serviços;
+
+
+XV –
+
+Comunicar aos pais, condutor, piloto, monitor e Diretor da escola sobre intercorrências durante o trajeto casa/escola/casa;
+
+
+XVI –
+
+Comparecer aos locais e horários indicados pelo setor de transporte escolar, para o embarque e desembarque;
+
+
+XVII –
+
+Cooperar com a fiscalização do transporte escolar;
+
+
+XVIII –
+
+Caberá à escola informar ao setor de transporte escolar, quando os alunos que quando utilizam o transporte escolar, são transferidos.
+
+
+§ 1º
+
+O ponto a que se trata o inciso XII deste artigo será regulamentado pelo Setor de Transporte da SEMED.
+
+
+§ 2º
+
+Acaso o ponto não seja na residência do aluno, este deverá caminhar até o local definido e aguardar o transporte.
+
+
+Art. 7º.
+
+São obrigações dos pais/responsáveis:
+
+
+I –
+
+Protocolar, por escrito ou comunicação verbal reduzida a termo, às autoridades competentes, os atos ilícitos ou irregularidades de que tenham conhecimentos decorrentes do serviço prestado pelo Município ou por terceiros contratados;
+
+
+II –
+
+Orientar o aluno a respeitar e obedecer às orientações do motorista, monitor, piloto, diretor da escola;
+
+
+III –
+
+Instruir o aluno a respeitar os colegas e a zelar pela conservação do transporte escolar;
+
+
+IV –
+
+Em caso de mudança de endereço, os pais ou responsáveis pelo aluno deverão proceder a atualização de endereço do estudante junto a escola, com antecedência mínima de 72 (setenta e duas) horas, prazo que o setor de transporte escolar terá para verificar a viabilidade do atendimento e posterior alteração de rota;
+
+
+V –
+
+Os pais ou responsáveis deverão acompanhar os usuários do transporte escolar até o ponto de embarque ou desembarque;
+
+
+VI –
+
+Responsabilizar-se pelo pagamento de qualquer dano material causado ao veículo ou em materiais dos colegas.
+
+
+Art. 8º.
+
+Os veículos utilizados no transporte escolar deverão apresentar todas as condições exigidas pela legislação e atos regulamentares de trânsito, especialmente as exigidas para o transporte de escolares e passageiros.
+
+
+Art. 9º.
+
+Incube aos prestadores de serviço cumprir as determinações do Código de Trânsito Brasileiro, Resoluções do Conselho Nacional de Trânsito – CONTRAN e as demais normas aplicáveis ao transporte escolar, responder por si ou seus prepostos pelos danos que possam ser causados à União, Estado e Município comprometendo-se a acatar as leis e Regulamentos, quer existentes, quer futuras.
+
+
+Parágrafo único
+
+A fiscalização dos serviços de transporte escolar executados diretamente ou através de delegação, será coordenada pela SEMED de acordo com as normas vigentes.
+
+
+Art. 10.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Art. 11.
+
+Revogam-se o Decreto nº 15.204, de 10 de maio de 2018.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+

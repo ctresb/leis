@@ -1,0 +1,383 @@
+ALTERA ANEXO II DA LEI Nº 2.591, DE 13 DE JANEIRO DE 2006 E ANEXO I E III DA LEI Nº 2.597 DE 10 DE MARÇO DE 2006.
+
+
+A Câmara Municipal, Estado de Minas Gerais, aprovou e eu, Prefeito, sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Ficam alterados os anexos II da Lei nº 2.591, de 13 de janeiro de 2006 e I e III, da Lei nº 2.597 de 10 de maio de 2006, que passam a terem a seguinte redação:
+
+
+## ANEXO I — QUADRO DE PESSOAL “A”
+
+**QUADRO DE CARGOS DE PROVIMENTO EFETIVO**
+
+**CARREIRA E CLASSES**
+
+<table><tbody><tr><td rowspan="2"><p><strong>CARGOS/ CLASSES</strong></p></td><td rowspan="2"><p><strong>ESCOLARIDADE</strong></p></td><td rowspan="2"><p><strong>NÚMERO</strong><strong> DE VAGAS</strong></p></td><td rowspan="2"><p><strong>CARGA</strong></p><p><strong>HORÁRIA</strong></p><p><strong>SEMANAL</strong></p></td><td rowspan="2"><p><strong>SÍMBOLO</strong></p><p><strong>VENCI-MENTO</strong></p></td><td colspan="3"><p><strong>PADRÕES</strong><strong> DE VENCIMENTO</strong></p></td></tr><tr><td><p><strong>NÍVEL</strong></p><p><strong>I</strong></p></td><td><p><strong>NÍVEL</strong></p><p><strong>II</strong></p></td><td><p><strong>NÍVEL</strong></p><p> <strong>III</strong></p></td></tr><tr><td><p><strong>Procurador</strong><strong> Legislativo</strong></p></td><td><p><strong>NS</strong></p></td><td><p><strong>01</strong></p></td><td><p><strong>20</strong></p></td><td><p><strong>SV.41</strong></p></td><td><p><strong>SV.41– SV.45</strong></p></td><td><p><strong>SV.46– SV.51</strong></p></td><td><p><strong>SV.52– SV.64</strong></p></td></tr><tr><td><p><strong>Assistente</strong><strong> Legislativo</strong></p></td><td><p><strong>SG</strong></p></td><td><p><strong>01</strong></p></td><td><p><strong>30</strong></p></td><td><p><strong>SV.34</strong></p></td><td><p><strong>SV.34– SV.41</strong></p></td><td><p><strong>SV.42– SV.48</strong></p></td><td><p><strong>SV.49– SV.59</strong></p></td></tr><tr><td><p><strong>Assistente</strong><strong> Tesoureiro</strong></p></td><td><p><strong>SG</strong></p></td><td><p><strong>01</strong></p></td><td><p><strong>30</strong></p></td><td><p><strong>SV.34</strong></p></td><td><p><strong>SV.34– SV41</strong></p></td><td><p><strong>SV.42– SV.48</strong></p></td><td><p><strong>SV.49– SV.59</strong></p></td></tr><tr><td><p><strong>Oficial</strong><strong> Legislativo</strong></p></td><td><p><strong>SG</strong></p></td><td><p><strong>03</strong></p></td><td><p><strong>30</strong></p></td><td><p><strong>SV.34</strong></p></td><td><p><strong>SV.34– SV41</strong></p></td><td><p><strong>SV.42– SV.48</strong></p></td><td><p><strong>SV.49– SV.59</strong></p></td></tr><tr><td><p><strong>Motorista</strong></p></td><td><p><strong>PG</strong></p></td><td><p><strong>02</strong></p></td><td><p><strong>30</strong></p></td><td><p><strong>SV.25</strong></p><p> </p></td><td><p><strong>SV.25– SV32</strong></p></td><td><p><strong>SV.33– SV.45</strong></p></td><td><p><strong>SV.46– SV.52</strong></p></td></tr><tr><td><p><strong>Vigia</strong></p></td><td><p><strong>PG</strong></p></td><td><p><strong>03</strong></p></td><td><p><strong>30</strong></p></td><td><p><strong>SV.15</strong></p></td><td><p><strong>SV.15– SV22</strong></p></td><td><p><strong>SV.23– SV.28</strong></p></td><td><p><strong>SV.29– SV.35</strong></p></td></tr><tr><td><p><strong>Servente</strong><strong> Copeiro</strong></p></td><td><p><strong>PG</strong></p></td><td><p><strong>03</strong></p></td><td><p><strong>30</strong></p></td><td><p><strong>SV.10</strong></p></td><td><p><strong>SV.10– SV18</strong></p></td><td><p><strong>SV.19– SV.24</strong></p></td><td><p><strong>SV.25– SV.33</strong></p></td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="8"><p><strong><em>TABELA [1] - ESTATUTARIO EFETIVO</em></strong></p><p> </p><p> </p></td></tr><tr><td><p><strong>Símbolo</strong></p></td><td><p><strong>Salário</strong><strong> R$</strong></p></td><td><p> </p></td><td><p><strong>Símbolo</strong></p></td><td><p><strong>Salário</strong><strong> R$</strong></p></td><td><p> </p></td><td><p><strong>Símbolo</strong></p></td><td><p><strong>Salário</strong><strong> R$</strong></p></td></tr><tr><td><p><strong>SV.01</strong></p></td><td><p><strong>278,54</strong></p></td><td><p> </p></td><td><p><strong>SV.25</strong></p></td><td><p><strong>793,09</strong></p></td><td><p> </p></td><td><p><strong>SV.49</strong></p></td><td><p><strong>2.557,82</strong></p></td></tr><tr><td><p><strong>SV.02</strong></p></td><td><p><strong>292,43</strong></p></td><td><p> </p></td><td><p><strong>SV.26</strong></p></td><td><p><strong>832,78</strong></p></td><td><p> </p></td><td><p><strong>SV.50</strong></p></td><td><p><strong>2.685,71</strong></p></td></tr><tr><td><p><strong>SV.03</strong></p></td><td><p><strong>307,06</strong></p></td><td><p> </p></td><td><p><strong>SV.27</strong></p></td><td><p><strong>874,39</strong></p></td><td><p> </p></td><td><p><strong>SV.51</strong></p></td><td><p><strong>2.819,99</strong></p></td></tr><tr><td><p><strong>SV.04</strong></p></td><td><p><strong>322,36</strong></p></td><td><p> </p></td><td><p><strong>SV.28</strong></p></td><td><p><strong>918,08</strong></p></td><td><p> </p></td><td><p><strong>SV.52</strong></p></td><td><p><strong>2.961,00</strong></p></td></tr><tr><td><p><strong>SV.05</strong></p></td><td><p><strong>338,55</strong></p></td><td><p> </p></td><td><p><strong>SV.29</strong></p></td><td><p><strong>964,01</strong></p></td><td><p> </p></td><td><p><strong>SV.53</strong></p></td><td><p><strong>3.109,02</strong></p></td></tr><tr><td><p><strong>SV.06</strong></p></td><td><p><strong>355,50</strong></p></td><td><p> </p></td><td><p><strong>SV.30</strong></p></td><td><p><strong>1.012,17</strong></p></td><td><p> </p></td><td><p><strong>SV.54</strong></p></td><td><p><strong>3.264,50</strong></p></td></tr><tr><td><p><strong>SV.07</strong></p></td><td><p><strong>358,25</strong></p></td><td><p> </p></td><td><p><strong>SV.31</strong></p></td><td><p><strong>1.062,84</strong></p></td><td><p> </p></td><td><p><strong>SV.55</strong></p></td><td><p><strong>3.427,73</strong></p></td></tr><tr><td><p><strong>SV.08</strong></p></td><td><p><strong>361,07</strong></p></td><td><p> </p></td><td><p><strong>SV.32</strong></p></td><td><p><strong>1.115,96</strong></p></td><td><p> </p></td><td><p><strong>SV.56</strong></p></td><td><p><strong>3.599,12</strong></p></td></tr><tr><td><p><strong>SV.09</strong></p></td><td><p><strong>363,31</strong></p></td><td><p> </p></td><td><p><strong>SV.33</strong></p></td><td><p><strong>1.171,78</strong></p></td><td><p> </p></td><td><p><strong>SV.57</strong></p></td><td><p><strong>3.779,08</strong></p></td></tr><tr><td><p><strong>SV.10</strong></p></td><td><p><strong>381,51</strong></p></td><td><p> </p></td><td><p><strong>SV.34</strong></p></td><td><p><strong>1.230,35</strong></p></td><td><p> </p></td><td><p><strong>SV.58</strong></p></td><td><p><strong>3.968,03</strong></p></td></tr><tr><td><p><strong>SV.11</strong></p></td><td><p><strong>400,57</strong></p></td><td><p> </p></td><td><p><strong>SV.35</strong></p></td><td><p><strong>1.291,87</strong></p></td><td><p> </p></td><td><p><strong>SV.59</strong></p></td><td><p><strong>4.166,43</strong></p></td></tr><tr><td><p><strong>SV.12</strong></p></td><td><p><strong>420,58</strong></p></td><td><p> </p></td><td><p><strong>SV.36</strong></p></td><td><p><strong>1.356,43</strong></p></td><td><p> </p></td><td><p><strong>SV.60</strong></p></td><td><p><strong>4.374,76</strong></p></td></tr><tr><td><p><strong>SV.13</strong></p></td><td><p><strong>441,61</strong></p></td><td><p> </p></td><td><p><strong>SV.37</strong></p></td><td><p><strong>1.424,31</strong></p></td><td><p> </p></td><td><p><strong>SV.61</strong></p></td><td><p><strong>4.593,50</strong></p></td></tr><tr><td><p><strong>SV.14</strong></p></td><td><p><strong>463,72</strong></p></td><td><p> </p></td><td><p><strong>SV.38</strong></p></td><td><p><strong>1.495,52</strong></p></td><td><p> </p></td><td><p><strong>SV.62</strong></p></td><td><p><strong>4.823,17</strong></p></td></tr><tr><td><p><strong>SV.15</strong></p></td><td><p><strong>486,84</strong></p></td><td><p> </p></td><td><p><strong>SV.39</strong></p></td><td><p><strong>1.570,29</strong></p></td><td><p> </p></td><td><p><strong>SV.63</strong></p></td><td><p><strong>5.064,34</strong></p></td></tr><tr><td><p><strong>SV.16</strong></p></td><td><p><strong>511,22</strong></p></td><td><p> </p></td><td><p><strong>SV.40</strong></p></td><td><p><strong>1.648,77</strong></p></td><td><p> </p></td><td><p><strong>SV.64</strong></p></td><td><p><strong>5.317,54</strong></p></td></tr><tr><td><p><strong>SV.17</strong></p></td><td><p><strong>536,80</strong></p></td><td><p> </p></td><td><p><strong>SV.41</strong></p></td><td><p><strong>1.731,25</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>SV.18</strong></p></td><td><p><strong>563,66</strong></p></td><td><p> </p></td><td><p><strong>SV.42</strong></p></td><td><p><strong>1.817,77</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>SV.19</strong></p></td><td><p><strong>591,83</strong></p></td><td><p> </p></td><td><p><strong>SV.43</strong></p></td><td><p><strong>1.908,67</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>SV.20</strong></p></td><td><p><strong>621,40</strong></p></td><td><p> </p></td><td><p><strong>SV.44</strong></p></td><td><p><strong>2.004,08</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>SV.21</strong></p></td><td><p><strong>652,48</strong></p></td><td><p> </p></td><td><p><strong>SV.45</strong></p></td><td><p><strong>2.104,28</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>SV.22</strong></p></td><td><p><strong>685,11</strong></p></td><td><p> </p></td><td><p><strong>SV.46</strong></p></td><td><p><strong>2.209,53</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>SV.23</strong></p></td><td><p><strong>719,39</strong></p></td><td><p> </p></td><td><p><strong>SV.47</strong></p></td><td><p><strong>2.320,03</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>SV.24</strong></p></td><td><p><strong>755,33</strong></p></td><td><p> </p></td><td><p><strong>SV.48</strong></p></td><td><p><strong>2.436,02</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr></tbody></table>
+
+## ANEXO II — QUADRO DE PESSOAL “B”
+
+**CARGOS EM COMISSÃO**
+
+<table><tbody><tr><td><p><strong>DENOMINAÇÃO</strong><strong> CARGOS/CLASSES</strong></p></td><td><p><strong>ESCOLARIDADE</strong></p></td><td><p><strong>Nº DE VAGAS</strong></p></td><td><p><strong>SÍMBOLO</strong><strong> DE VENCIMENTO</strong></p></td><td><p><strong>CARGA</strong><strong> HORÁRIA</strong></p><p><strong>HORAS</strong><strong>/SEMANA</strong></p></td></tr><tr><td><p>Procurador Geral do Legislativo</p></td><td><p>NS</p></td><td><p>01</p></td><td><p>SVMD-01</p></td><td><p>20</p></td></tr><tr><td><p>Controlador do Legislativo</p></td><td><p>NS</p></td><td><p>01</p></td><td><p>SVMD-01</p></td><td><p>30</p></td></tr><tr><td><p>Gerente Administrativo</p></td><td><p>SG</p></td><td><p>01</p></td><td><p>SVMD-02</p></td><td><p>30</p></td></tr><tr><td><p>Gerente do Legislativo</p></td><td><p>SG</p></td><td><p>01</p></td><td><p>SVMD-02</p></td><td><p>30</p></td></tr><tr><td><p>Gerente de Informática</p></td><td><p>NS</p></td><td><p>01</p></td><td><p>SVMD-02</p></td><td><p>30</p></td></tr><tr><td><p>Assessor Especial I</p></td><td><p>SG</p></td><td><p>01</p></td><td><p>SVMD-02</p></td><td><p>30</p></td></tr><tr><td><p>Contador</p></td><td><p>SG</p></td><td><p>01</p></td><td><p>SVMD-03</p></td><td><p>30</p></td></tr><tr><td><p>Encarregado Deptº Pessoal </p></td><td><p>SG</p></td><td><p>01</p></td><td><p>SVMD-03</p></td><td><p>30</p></td></tr><tr><td><p>Assessor de Informática</p></td><td><p>SG</p></td><td><p>01</p></td><td><p>SVMD-05</p></td><td><p>30</p></td></tr><tr><td><p>Assessor Especial IV</p></td><td><p>SE</p></td><td><p>11</p></td><td><p>SVMD-06</p></td><td><p>30</p></td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="8"><p><strong><em>TABELA [2] - CARGOS EM COMISSÃO DA MESA DIRETORA</em></strong></p><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>Símbolo</strong></p></td><td><p><strong>Salário</strong><strong> R$</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>SVMD.01</strong></p></td><td><p><strong>3.807,27</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>SVMD.02</strong></p></td><td><p><strong>2.441,55</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>SVMD.03</strong></p></td><td><p><strong>1.957,86</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>SVMD.04</strong></p></td><td><p><strong>1.470,70</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>SVMD.05</strong></p></td><td><p><strong>720,22</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p>SVMD.06</p></td><td><p><strong>585,68</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="8"><p> </p><p> </p><p><strong><em>ANEXO III</em></strong></p><p> </p><p><strong>QUADRO DE PESSOAL “C”</strong></p><p><strong>CARGOS</strong><strong> EM COMISSÃO DE ASSESSOR PARLAMENTAR E ASSISTENTE</strong>  <strong>DE GABINETE</strong></p><p> </p><table><tbody><tr><td><p><strong>DENOMINAÇÃO</strong><strong> CARGOS/CLASSES</strong></p></td><td><p><strong>ESCOLARIDADE</strong></p></td><td><p><strong>NÚMERO</strong><strong> DE VAGAS</strong></p></td><td><p><strong>SÍMBOLOS</strong><strong> DE VENCIMENTOS</strong></p></td><td><p><strong>CARGA</strong><strong> HORÁRIA</strong></p><p><strong>HORAS</strong><strong>/SEMANA</strong></p></td></tr><tr><td><p>Assessor Parlamentar</p></td><td><p>SE</p></td><td><p>27</p></td><td><p>SVAP-01 à </p><p>SVAP-38</p></td><td><p>20</p></td></tr><tr><td><p>Assistente de Gabinete</p></td><td><p>SE</p></td><td><p>18</p></td><td><p>SVAP-01 à </p><p>SVAP-27</p></td><td><p>30</p></td></tr></tbody></table><p> </p><p> </p><p><strong><em>TABELA [3] - CARGOS EM COMISSÃO DE</em></strong></p></td></tr><tr><td colspan="8"><p><strong><em>ASSESSOR</em></strong><strong><em> PARLAMENTAR E ASSISTENTE DE GABINETE</em></strong></p><p> </p></td></tr><tr><td><p><strong>Símbolo</strong></p></td><td><p><strong>Salário</strong><strong> R$</strong></p></td><td><p> </p></td><td><p><strong>Símbolo</strong></p></td><td><p><strong>Salário</strong><strong> R$</strong></p></td><td><p> </p></td><td><p><strong>Símbolo</strong></p></td><td><p><strong>Salário</strong><strong> R$</strong></p></td></tr><tr><td><p><strong>SVAP.01</strong></p></td><td><p><strong>370,01</strong></p></td><td><p> </p></td><td><p><strong>SVAP.14</strong></p></td><td><p><strong>697,75</strong></p></td><td><p> </p></td><td><p><strong>SVAP.27</strong></p></td><td><p><strong>1.315,70</strong></p></td></tr><tr><td><p><strong>SVAP.02</strong></p></td><td><p><strong>388,54</strong></p></td><td><p> </p></td><td><p><strong>SVAP.15</strong></p></td><td><p><strong>732,63</strong></p></td><td><p> </p></td><td><p><strong>SVAP.28</strong></p></td><td><p><strong>1.381,45</strong></p></td></tr><tr><td><p><strong>SVAP.03</strong></p></td><td><p><strong>407,92</strong></p></td><td><p> </p></td><td><p><strong>SVAP.16</strong></p></td><td><p><strong>769,25</strong></p></td><td><p> </p></td><td><p><strong>SVAP.29</strong></p></td><td><p><strong>1.450,56</strong></p></td></tr><tr><td><p><strong>SVAP.04</strong></p></td><td><p><strong>428,34</strong></p></td><td><p> </p></td><td><p><strong>SVAP.17</strong></p></td><td><p><strong>807,73</strong></p></td><td><p> </p></td><td><p><strong>SVAP.30</strong></p></td><td><p><strong>1.523,06</strong></p></td></tr><tr><td><p><strong>SVAP.05</strong></p></td><td><p><strong>449,77</strong></p></td><td><p> </p></td><td><p><strong>SVAP.18</strong></p></td><td><p><strong>848,08</strong></p></td><td><p> </p></td><td><p><strong>SVAP.31</strong></p></td><td><p><strong>1.599,17</strong></p></td></tr><tr><td><p><strong>SVAP.06</strong></p></td><td><p><strong>472,27</strong></p></td><td><p> </p></td><td><p><strong>SVAP.19</strong></p></td><td><p><strong>890,53</strong></p></td><td><p> </p></td><td><p><strong>SVAP.32</strong></p></td><td><p><strong>1.679,16</strong></p></td></tr><tr><td><p><strong>SVAP.07</strong></p></td><td><p><strong>495,88</strong></p></td><td><p> </p></td><td><p><strong>SVAP.20</strong></p></td><td><p><strong>935,02</strong></p></td><td><p> </p></td><td><p><strong>SVAP.33</strong></p></td><td><p><strong>1.763,11</strong></p></td></tr><tr><td><p><strong>SVAP.08</strong></p></td><td><p><strong>520,75</strong></p></td><td><p> </p></td><td><p><strong>SVAP.21</strong></p></td><td><p><strong>981,81</strong></p></td><td><p> </p></td><td><p><strong>SVAP.34</strong></p></td><td><p><strong>1.851,30</strong></p></td></tr><tr><td><p><strong>SVAP.09</strong></p></td><td><p><strong>546,69</strong></p></td><td><p> </p></td><td><p><strong>SVAP.22</strong></p></td><td><p><strong>1.030,87</strong></p></td><td><p> </p></td><td><p><strong>SVAP.35</strong></p></td><td><p><strong>1.943,89</strong></p></td></tr><tr><td><p><strong>SVAP.10</strong></p></td><td><p><strong>574,04</strong></p></td><td><p> </p></td><td><p><strong>SVAP.23</strong></p></td><td><p><strong>1.082,41</strong></p></td><td><p> </p></td><td><p><strong>SVAP.36</strong></p></td><td><p><strong>2.041,06</strong></p></td></tr><tr><td><p><strong>SVAP.11</strong></p></td><td><p><strong>602,76</strong></p></td><td><p> </p></td><td><p><strong>SVAP.24</strong></p></td><td><p><strong>1.136,52</strong></p></td><td><p> </p></td><td><p><strong>SVAP.37</strong></p></td><td><p><strong>2.143,13</strong></p></td></tr><tr><td><p><strong>SVAP.12</strong></p></td><td><p><strong>632,86</strong></p></td><td><p> </p></td><td><p><strong>SVAP.25</strong></p></td><td><p><strong>1.193,38</strong></p></td><td><p> </p></td><td><p><strong>SVAP.38</strong></p></td><td><p><strong>2.250,28</strong></p></td></tr><tr><td><p><strong>SVAP.13</strong></p></td><td><p><strong>664,51</strong></p></td><td><p> </p></td><td><p><strong>SVAP.26</strong></p></td><td><p><strong>1.253,05</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr></tbody></table>
+
+**NS Nível Superior PG Primeiro Grau**
+
+**SG Segundo Grau SE Sem Exigência de Escolaridade**
+
+**DESCRIÇÃO DO CARGO**
+
+**TÍTULO Procurador Geral do Legislativo**
+
+**RECRUTAMENTO NS - Curso de Graduação em Direito**
+
+ATRIBUIÇÕES:
+
+· Prestar assessoramento à Mesa da Câmara em questões que envolvam matéria de natureza jurídica de interesse da Câmara;
+
+· definir a organização da Procuradoria Geral da Câmara, definindo sua organização e estabelecendo diretrizes, políticas e estratégias para a atuação da procuradoria, em apoio às atividades da Câmara;
+
+· dirigir a procuradoria, planejando, organizando, comandando, controlando e avaliando o desenvolvimento dos trabalhos no âmbito de sua competência;
+
+· determinar providências e manter gestões e contatos externos necessários ao desenvolvimento das atividades no âmbito de sua atuação;
+
+· defender os direitos e interesses da Câmara, em juízo ou fora dele, ou fazer-se representar para tal fim;
+
+· prestar assistência jurídica à Mesa Diretora e aos Vereadores, bem como elaborar pareceres sobre consultas formuladas pelas Comissões Permanentes;
+
+· elaborar os pareceres para as comissões permanentes;
+
+· promover a realização de estudos jurídicos determinados pela Mesa Diretora;
+
+· promover a defesa da Câmara Municipal em questões jurídicas;
+
+· supervisionar o Processo Legislativo;
+
+· desempenhar atividades correlatas, em apoio ao desenvolvimento dos trabalhos.
+
+DESCRIÇÃO DE CARGO
+
+**TÍTULO Controlador do Legislativo**
+
+**RECRUTAMENTO Amplo**
+
+ATRIBUIÇÕES:
+
+· Coordenar, orientar e controlar o desempenho das unidades organizacionais que lhes são atribuídas;
+
+· Participar da definição de políticas, diretrizes e do planejamento da Câmara Municipal;
+
+· Determinar providências e estabelecer contatos para resolução de assuntos que dizem respeito à Câmara Municipal;
+
+· Zelar pelo cumprimento das diretrizes, normas e programas estabelecidos pela Mesa Diretora;
+
+· verificar as contas da Mesa da Câmara emitindo relatório e pareceres consignando irregularidades constatadas e sugerindo medidas visando corrigir as falhas encontradas;
+
+· **Proceder a controles financeiros, cálculos e apropriações de custos, registrando e processando informações.**Alertar formalmente a autoridade administrativa competente para que instrua tomada de contas especial sempre que tiver conhecimento das ocorrências de omissão do dever de prestar contas, ocorrência de desfalque ou desvio de dinheiro, bens ou valores públicos administrados pela Câmara e a prática de qualquer ato ilegal, ilegítimo ou antieconômico de que resulte dano ao erário.
+
+**REQUISITOS BÁSICOS**
+
+**· Formação em curso de nível superior**
+
+DESCRIÇÃO DE CARGO
+
+**TÍTULO Gerente do Legislativo**
+
+**RECRUTAMENTO Amplo**
+
+**ATRIBUIÇÕES**
+
+**· Dirigir o serviço legislativo da Câmara Municipal;**
+
+**· Gerenciar os serviços de Assistência Legislativa;**
+
+**· Assistir aos trabalhos das Comissões Permanentes e Especiais;**
+
+**· Controlar as publicações de interesse da Câmara na imprensa oficial e local;**
+
+**· Expedir ordens de serviços na área de sua competência, visando ordens da Presidência;**
+
+**· Controlar os serviços de Gabinete dos Vereadores no processo legislativo;**
+
+**· Propor rotinas de trabalho;**
+
+**· Autorizar a publicação da pauta das reuniões da Câmara;**
+
+**· Assessorar a Mesa Diretora no processo legislativo;**
+
+**· Controlar prazo e o registro das atas no processo legislativo;**
+
+**· Manter contato com órgãos de assessoramento do Executivo Municipal e de outras esferas de poder;**
+
+**· Dirigir veículos da Câmara Municipal, no município, para atendimento aos serviços internos do Legislativo;**
+
+**· Executar tarefas correlatas dentro de sua área de competência;**
+
+**REQUISITOS BÁSICOS**
+
+**· 2o grau completo**
+
+DESCRIÇÃO DE CARGO
+
+**TÍTULO Gerente Administrativo**
+
+**RECRUTAMENTO Amplo**
+
+**ATRIBUIÇÕES**
+
+**· Organizar, estruturar e conduzir atividades administrativas da Câmara Municipal, promovendo o aperfeiçoamento de sistemas, métodos e processos de trabalho;**
+
+**· Levantar dados, junto a unidades organizacionais, relativos a processos e procedimentos utilizados;**
+
+**· Estudar e analisar os dados levantados;**
+
+**· Racionalizar processos e procedimentos tendo em vista a melhoria de resultados e/ou diminuição de custos;**
+
+**· Elaborar diagramas, fluxogramas, gráficos e outras formas de representação de informações;**
+
+**· Participar de processos de informatização, colaborando na identificação de demandas junto a usuários e da implantação de novas rotinas;**
+
+**· Proceder controle dos contratos administrativos da Câmara;**
+
+**· Proceder levantamento de preços para aquisição de bens de consumo e permanente;**
+
+**· Efetuar compras e manter controle das despesas inerentes ao regular funcionamento do Legislativo;**
+
+**· Organizar a participação de vereadores e servidores em congressos, seminários e cursos de capacitação;**
+
+**· Fiscalizar o regular funcionamento dos gabinetes de vereadores, bem como os bens patrimoniais;**
+
+**· Registrar em mapas posições financeiras;**
+
+**· Manter controles sobre gastos e suas respectivas alterações;**
+
+**· Manter o controle da Administração de Pessoal;**
+
+**· Zelar pela manutenção das instalações elétrica, telefônica e hidráulica da Câmara e dos gabinetes dos vereadores;**
+
+**· Dirigir veículos da Câmara Municipal, no município, para atendimento aos serviços internos do Legislativo;**
+
+**· Executar tarefas correlatas dentro de sua área de competência;**
+
+**REQUISITOS BÁSICOS**
+
+**· 2o grau completo**
+
+DESCRIÇÃO DO CARGO
+
+**TÍTULO Gerente de Informática**
+
+**RECRUTAMENTO Amplo**
+
+**ATRIBUIÇÕES**
+
+· Elaborar projetos de desenvolvimento ou aperfeiçoamento de sistemas computacionais para os departamentos ou setores da Câmara, utilizando requisitos e fundamentos de programação orientada a objetos, especificação dos requisitos de software e especificação dos casos de uso;
+
+· Elaborar projetos para estruturação de Banco de Dados utilizando linguagem padrão SQL;
+
+· Projetar interface para o usuário durante o desenvolvimento de sistemas visando usabilidade adequada;
+
+· Instalação e configuração de Sistema Operacional proprietário ou de código aberto (software livre);
+
+· Instalação, configuração e utilização de aplicativos (processador de texto, planilha eletrônica, gerenciador de banco de dados, editoração eletrônica, antivírus, anti-spam) proprietários ou de código aberto;
+
+· Instalação e configuração de softwares auxiliares (SEFIP, RAIS, DIRF, IRPF, etc) nos departamentos de pessoal, contabilidade, controle interno, jurídico e tesouraria;
+
+· Identificar falhas e propor alterações, se necessário, nos sistemas de patrimônio, tramitação de documentos, protocolo, folha de pagamento, tesouraria, contabilidade ou orçamento, locados ou não;
+
+· Projetar, instalar, configurar e gerenciar redes de computadores ponto-a-ponto ou cliente/servidor;
+
+· Desenvolver projeto para criação ou aperfeiçoamento do portal do legislativo na internet;
+
+· Propor atualização (upgrade) do hardware existente em todos os departamentos ou setores;
+
+· Manutenção do hardware efetuando troca de peças defeituosas, além da configuração e ajustes do desempenho dos mesmos;
+
+· Manutenção e configuração de impressoras matriciais, jato de tinta e laser;
+
+· Auxiliar a Mesa Diretora na continuidade da informatização da Câmara, propondo o aperfeiçoamento de software e hardware;
+
+· Manter estoques de suprimentos de informática para os setores da Câmara;
+
+· Elaborar plano de capacitação em informática básica ou avançada para a reciclagem dos servidores;
+
+**· Executar tarefas correlatas dentro de sua área de competência;**
+
+**REQUISITOS BÁSICOS**
+
+**3º grau completo, com formação no curso de Bacharel em Sistemas de Informação.**
+
+*DESCRIÇÃO DO CARGO*
+
+***TÍTULO* *Assessor de Informática***
+
+***RECRUTAMENTO Amplo***
+
+***ATRIBUIÇÕES***
+
+*· Auxiliar no desenvolvimento de sistemas corporativos;*
+
+*· Conhecimento básico de linguagem de Banco de Dados padrão SQL;*
+
+*· Instalação e configuração de Softwares (sistema operacional, aplicativos comerciais, sistemas de proteção a vírus e intrusos);*
+
+*· Utilização dos aplicativos processador de textos, planilha eletrônica, gerenciador de banco de dados, gerador de página web, anti-vírus, anti-spam;*
+
+*· Suporte ao usuário na instalação, configuração e execução de aplicativos gerenciais ou governamentais (DIRF, RAIS, SEFIP, GPS, etc);*
+
+*· Auxiliar na manutenção do hardware, efetuando troca de peças defeituosas, configuração e ajustes do desempenho dos computadores;*
+
+*· Auxiliar na manutenção, configuração e limpeza das impressoras matriciais, jato de tinta ou laser;*
+
+*· Auxiliar na elaboração da relação de suprimentos de informática para os setores da Câmara;*
+
+*· Proceder digitação de documentos (leis, decretos, resoluções, etc) para formação da base de dados eletrônica da Câmara;*
+
+*· Realizar treinamento básico de informática para os servidores da Câmara;*
+
+**· Executar tarefas correlatas dentro de sua área de competência;**
+
+***REQUISITOS BÁSICOS***
+
+***2º grau completo***
+
+DESCRIÇÃO DE CARGO
+
+**TÍTULO Contador**
+
+**RECRUTAMENTO Amplo**
+
+**ATRIBUIÇÕES**
+
+· Analisar relatórios e demonstrativos contábeis da Câmara, supervisionar atividades de contabilização, elaborar balanço, balancetes e outros demonstrativos financeiros;
+
+· Supervisionar a classificação e preparação dos registros contábeis, conforme documentação recebida, para posterior processamento;
+
+· Processar o empenho das Despesas do legislativo;
+
+· Supervisionar e orientar serviços de arquivamento ativo e inativo da área;
+
+· Promover, orientar e supervisionar balancetes mensais analíticos e sintéticos, mediante processamento da contabilização;
+
+· Estudar e promover a atualização do Plano de Contas conforme legislação vigente;
+
+· Elaborar demonstrativos de resultados de balancetes mensais;
+
+· Promover, orientar e supervisionar balanço anual e respectivos demonstrativos financeiros;
+
+· Elaborar relatórios periódicos, para fornecimento de subsídios à decisão de superiores hierárquicos;
+
+· Coordenar o registro e o controle do patrimônio;
+
+· Realizar análise contábil e elaborar pareceres;
+
+· Atender auditorias externas, fornecendo informações sobre documentos e movimento contábil;
+
+· Elaborar ou participar da elaboração de orçamentos correspondentes e planos, programas e projetos anuais da Câmara Municipal;
+
+· Elaborar relatórios ou demonstrativos de acompanhamento físico-financeiro da programação anual da instituição;
+
+· Realizar o controle da execução orçamentária dos recursos liberados pela Prefeitura;
+
+· Controlar e conferir documentos financeiros, assinando-os em conjunto **com o Presidente da Câmara.**
+
+**· Executar tarefas correlatas dentro de sua área de competência;**
+
+**REQUISITOS BÁSICOS**
+
+**· 2º grau completo, com formação de Técnico em Contabilidade**
+
+**DESCRIÇÃO DE CARGO**
+
+**TÍTULO Assessor Especial I**
+
+**RECRUTAMENTO Amplo**
+
+**ATRIBUIÇÕES**
+
+**· Organizar, estruturar e conduzir atividades administrativas da Câmara Municipal, promovendo o aperfeiçoamento de sistema, métodos e processos de trabalho;**
+
+**· Levantar dados, junto a unidades organizacionais, relativos a processos e procedimentos utilizados;**
+
+**· Estudar e analisar os dados levantados;**
+
+**· Racionalizar processos e procedimentos tendo em vista a melhoria de resultados e/ou diminuição de custos;**
+
+**· Elaborar normas de procedimentos;**
+
+**· Elaborar diagramas, fluxogramas, gráficos e outras formas de representação de informações;**
+
+**· Elaborar "lay-outs";**
+
+**· Estudar, analisar, propor, redefinir e implantar formulários e outros instrumentos administrativos;**
+
+**· Participar de processos de informatização, colaborando na identificação de demandas junto a usuários, e da implantação de novas rotinas;**
+
+**· Dirigir veículos da Câmara Municipal, no município, para atendimento aos serviços internos do Legislativo;**
+
+**REQUISITOS BÁSICOS**
+
+**· 2o grau completo**
+
+**DESCRIÇÃO DE CARGO**
+
+**TÍTULO Assessor Especial IV**
+
+**RECRUTAMENTO Amplo**
+
+**ATRIBUIÇÕES**
+
+**· Atendimento à Mesa Diretora para trabalhos a serem desenvolvidos interna e externamente junto a outros órgãos;**
+
+**· Atendimento ao público, fazendo triagem para aqueles voltados aos serviços internos da Câmara e aqueles destinados ao gabinete dos vereadores;**
+
+**· Executar serviços de recepção e secretariado da Mesa Diretora;**
+
+**· Outras tarefas correlatas.**
+
+**REQUISITOS BÁSICOS**
+
+**· Sem exigência de escolaridade**
+
+**DESCRIÇÃO DE CARGO**
+
+**TÍTULO Encarregado do Departamento de Pessoal**
+
+**RECRUTAMENTO Amplo**
+
+**ATRIBUIÇÕES**
+
+**· Controlar pastas individuais dos servidores e vereadores da Casa;**
+
+**· Fazer registros e anotações nas fichas individuais os vereadores e servidores da Casa;**
+
+**· Elaborar e gerar folha de pagamento;**
+
+**· Manter arquivo atualizado da legislação que rege os trabalhos executados;**
+
+**· Fazer controle do ponto dos servidores;**
+
+**· Elaborar relatórios e certidões relativos a área de pessoal;**
+
+**· Propor mudanças na legislação e em procedimentos da área de pessoal;**
+
+**· Dirigir veículos da Câmara Municipal, no município, para atendimento aos serviços internos do Legislativo;**
+
+**· Outras tarefas correlatas.**
+
+**REQUISITOS BÁSICOS**
+
+**· 2o grau completo.**
+
+
+Congonhas, 2 de janeiro de 2008.
+
+**ANDERSON COSTA CABIDO**
+
+**Prefeito de Congonhas**

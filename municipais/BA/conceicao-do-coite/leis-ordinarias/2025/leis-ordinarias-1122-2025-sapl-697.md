@@ -1,0 +1,500 @@
+---
+titulo: "Lei Ordinária nº 1.122, de 13 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1122"
+data: "2025-05-13"
+municipio: "Conceição do Coité"
+uf: "BA"
+codigo_ibge: "2908408"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2026-07-16; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodocoite.ba.leg.br/norma/697"
+fonte_texto: "https://sapl.conceicaodocoite.ba.leg.br/ta/416/text"
+sha256_fonte: "f68eb0ecafe4e391561b0539cc002fb4a436c7de40aee3cb28d6cd79bf29b3d2"
+sha256_texto: "d1cabbf8af9515ddd6988654611f675d7a394862d1a51b498dd4d53a908ffecb"
+capturado_em_fonte: "2026-10-27T23:11:53.130333-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.122, de 13 de maio de 2025
+
+Institui os componentes Municipais do Sistema Nacional de Segurança Alimentar e Nutricional – SISAN e reestrutura o Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA, a Câmara Intersetorial de Segurança Alimentar e Nutricional – CAISAN; Institui a Conferência de Segurança Alimentar e Nutricional e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE CONCEIÇÃO DO COITÉ, ESTADO DA BAHIA:**
+
+Faço saber que a Câmara Municipal aprova e eu sanciono e promulgo a seguinte
+
+**LEI:**
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei estabelece os componentes municipais do SISAN, bem como define parâmetros para elaboração e implementação do Plano Municipal de Segurança Alimentar e Nutricional, em consonância com os princípios e diretrizes estabelecidas pela Lei n.º 11.346 de 15 de setembro de 2006 e em seus atos regulatórios nos âmbitos Federal e Estadual, com a propósito de garantir o direito humano à alimentação adequada.
+
+
+Art. 2º.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA é órgão consultivo e deliberativo, no âmbito de sua competência, vinculado à Secretaria Municipal de Assistência e Desenvolvimento Social com agenda permanente de assessoramento ao executivo municipal na articulação entre governo e sociedade civil na proposição de diretrizes para políticas e ações de alimentação e nutrição.
+
+
+Art. 3º.
+
+A alimentação adequada é direito básico do ser humano, indispensável à realização dos seus direitos consagrados na Constituição Federal, cabendo ao poder público adotar as políticas e ações que se façam necessárias para respeitar, proteger, promover e prover e Direitos Humanos à Alimentação Adequada e Segurança Alimentar e Nutricional de toda população.
+
+
+§ 1º
+
+A adoção dessas políticas e ações, deverá levar em conta as dimensões ambientais, culturais, econômicas, regionais e sociais do Município, com prioridade para as regiões e populações mais vulneráveis.
+
+
+§ 2º
+
+É dever do poder público, além das previstas no caput do artigo, avaliar, fiscalizar e monitorar a realização do Direito Humano a Alimentação Adequada, bem como criar e fortalecer os mecanismos para sua exigibilidade.
+
+
+Art. 4º.
+
+A Segurança Alimentar e Nutricional consiste na realização do direito de todos ao acesso regular e permanente a alimentos de qualidade, em quantidade práticas alimentares promotoras de saúde que respeitem a diversidade cultural e que sejam ambiental, cultural, econômico e socialmente sustentáveis.
+
+
+Parágrafo único
+
+A Segurança Alimentar e Nutricional inclui a realização do direito de todas as pessoas terem acesso à orientação que contribua para o enfretamento ao sobrepeso, a obesidade, contaminação de alimentos e mais doenças consequentes da alimentação inadequada.
+
+
+Art. 5º.
+
+A Segurança Alimentar e Nutricional abrange:
+
+
+I –
+
+A ampliação das condições de oferta acessível de alimentos, por meio do incremento de produção, em especial na agricultura tradicional e familiar, no processamento, na industrialização, na comercialização, no abastecimento e na distribuição, nos recursos de água, alcançando também a geração de emprego e a redistribuição da renda, como fatores de ascensão social;
+
+
+II –
+
+A conservação da biodiversidade e a utilização sustentável dos recursos naturais;
+
+
+III –
+
+A garantia da qualidade biológica, sanitária, nutricional e tecnológica dos alimentos consumidos pela população, bem como seu aproveitamento, promovendo a sintonia entre instituições com responsabilidades afins para que estimulem práticas e ações alimentares e estilos de vida saudáveis;
+
+
+IV –
+
+A produção de conhecimentos e informações úteis à saúde alimentar, promovendo seu amplo acesso e eficaz disseminação para toda a população;
+
+
+V –
+
+A implementação de políticas públicas, de estratégias sustentáveis e participativas de produção, comercialização e consumo de alimentos, respeitando-se as múltiplas características territoriais e etnoculturais do Município e do Estado;
+
+
+VI –
+
+A adoção de urgentes correções quanto aos controles públicos sobre qualidade nutricional dos alimentos, quanto a tolerância com maus hábitos alimentares, quanto a desinformação sobre saúde alimentar vigente na sociedade em geral e nos ambientes sob gestão direta e indireta do estado, quanto a falta de sintonia entre as ações das diversas áreas com responsabilidades afins, como educação, saúde, publicidade, pesquisa estimulada e ou apoiada por entes públicos, produção estimulada de alimentos mediante critérios fundamentados, dentre outros.
+
+
+Art. 6º.
+
+A consecução do Direito Humano à Alimentação Adequada e da Segurança Alimentar e Nutricional, requer o respeito à soberania do Estado sobre a produção e o consumo de alimentos.
+
+
+Art. 7º.
+
+O Município de Conceição do Coité deve empenhar-se na promoção de cooperação técnica com o Governo Estadual e com os demais municípios do estado contribuindo assim, para a realização do Direito Humano à Alimentação Adequada.
+
+
+Art. 8º.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA do Município de Conceição do Coité elaborará seu Regimento Interno em até 60 dias a contar da data da sua instalação.
+
+
+#### CAPÍTULO II — DOS COMPONENTES MUNICIPAIS DO SISTEMA NACIONAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL
+
+
+Art. 9º.
+
+A consecução do Direito Humano à Alimentação Adequada e da Segurança Alimentar e Nutricional da população far-se-á por meio do SISAN integrado, no Município de Conceição do Coité por um conjunto de órgãos e entidades afetas à Segurança Alimentar e Nutricional.
+
+
+Art. 10.
+
+O SISAN no Município reger-se-á pelos princípios e diretrizes dispostos na Lei Federal nº 11.346 de 15 de setembro de 2006.
+
+
+Art. 11.
+
+São componentes municipais do SISAN:
+
+
+I –
+
+A Conferência Municipal de Segurança Alimentar e Nutricional, instância responsável pela indicação ao COMSEA Municipal das diretrizes e prioridades da Política e do Plano Municipal de Segurança Alimentar e Nutricional, bem como pela avaliação do SISAN no âmbito do Município;
+
+
+II –
+
+O Conselho Municipal de Segurança Alimentar e Nutricional COMSEA, órgão vinculado à Secretaria Municipal de Assistência e Desenvolvimento Social.
+
+
+III –
+
+A Câmara Intersetorial de Segurança Alimentar e Nutricional – CAISAN Municipal, integrada por Secretários Municipais responsáveis pelas pastas afetas de forma mais direta com a consecução da Segurança Alimentar e Nutricional e nomeados por ato do Prefeito, com as seguintes atribuições, dentre outras: (NR)
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.185, de 16 de julho de 2026.
+
+
+a)
+
+elaborar, considerando as especificidades locais, o Plano Municipal de Segurança Alimentar e Nutricional, observados os requisitos, as dimensões, as diretrizes e os conteúdos expostos no Decreto Federal nº 7.272/2010, bem como os demais dispositivos do marco legal vigente, as diretrizes emanadas da Conferência Municipal de Segurança Alimentar e Nutricional e do COMSEA Municipal, indicando diretrizes, metas, fontes de recursos e os instrumentos de acompanhamento, monitoramento e avaliação de sua implementação; (NR)
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.185, de 16 de julho de 2026.
+
+
+b)
+
+Monitorar e avaliar a execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional.
+
+
+IV –
+
+Os órgãos e entidades de Segurança Alimentar e Nutricional do município, instituições privadas, com ou sem fins lucrativos, que manifestem interesse na adesão e que respeitem os critérios, princípios e diretrizes do SISAN, nos termos regulamentado pela Câmara interministerial de Segurança Alimentar e Nutricional – CAISAN.
+
+
+Parágrafo único
+
+A Câmara Intersetorial de Segurança Alimentar e Nutricional, CAISAN Municipal, será presidida pelo titular da Secretaria Municipal de Assistência e Desenvolvimento Social responsável pelas políticas de Segurança Alimentar e Nutricional.
+
+
+#### CAPÍTULO III — DO CONSELHO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL E SUA COMPOSIÇÃO
+
+
+Art. 12.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA do Município de Conceição do Coité será composto por no mínimo 12 (doze) conselheiros (as), sendo 2/3 (dois terços) de representantes da Sociedade civil e 1/3 (um terço) de representantes do Governo Municipal, com a seguinte composição:
+
+
+I –
+
+4 (quatro) representante do Governo Municipal e seus respectivos suplentes, tanto da administração direta quanto indireta, indicados por seus órgãos de origem, nomeados a critério do Prefeito (a) do Município de Conceição do Coité por período indeterminado, podendo ser substituídos a qualquer tempo, por outro representante, assim distribuídos preferencialmente:
+
+
+a)
+
+1 (um) representante da Secretaria Municipal de Assistência e Desenvolvimento Social
+
+
+b)
+
+1 (um) representante da Secretaria Municipal de Educação, Cultura e Esporte;
+
+
+c)
+
+1 (um) representante da Secretaria Municipal de Saúde;
+
+
+d)
+
+1 (um) representante da Secretaria Municipal de Agricultura, Meio Ambiente e Economia Solidária.
+
+
+II –
+
+8 (oito) representantes não governamentais e seus respectivos suplentes, assim distribuídos:
+
+
+a)
+
+2 (dois) Representantes de entidades sindicais com ações voltadas a segurança alimentar e nutricional de Conceição do Coité;
+
+
+b)
+
+6 (seis) Representantes de associações, cooperativas e/ou outras entidades que atuam ou desenvolvam ações voltadas para segurança alimentar e nutricional no município.
+
+
+Parágrafo único
+
+poderão também compor o COMSEA de Conceição do Coité, na qualidade de observadores, representantes de conselhos afins com atuação no Município, bem como de órgãos e conselhos afetos à segurança alimentar e nutricional, indicados pelos titulares das respectivas instituições, mediante convite formulado pelo (a) Presidente do colegiado.
+
+
+Art. 13.
+
+Os representantes das entidades não governamentais a que se referem às alíneas “a” e “b”, do inciso II, do art. 12, desta Lei, serão eleitos de acordo com critérios a serem definidos por Ato do Chefe do poder executivo, na forma preconizada pelo artigo 33, desta lei.
+
+
+Art. 14.
+
+As instituições representadas no COMSEA, previstas nos incisos II e III do art. 12 desta Lei, devem ter efetiva atuação no Município, especialmente, as que trabalham com alimentos, nutrição, educação e organização popular, não podendo ser seu representante neste Conselho pessoa que ocupa cargo ou função no Poder Público, em todas as esferas, Municipal, Estadual e/ou Federal.(NR)
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 1.185, de 16 de julho de 2026.
+
+
+Art. 15.
+
+O COMSEA fica reestruturado através desta Lei Municipal, sendo os representantes governamentais indicados pelo Poder Público e as entidades ou Organizações não Governamentais, na forma disposta no artigo 13, desta lei.
+
+
+Art. 16.
+
+O COMSEA terá como Presidente um dos membros representantes da Sociedade Civil Organizada.(NR)
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 1.185, de 16 de julho de 2026.
+
+
+Art. 17.
+
+O mandato dos membros do Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA será de dois anos, permitida uma única recondução.
+
+
+Art. 18.
+
+A atividade de Conselheiro do COMSEA não será remunerada a qualquer título, sendo considerada atividade de relevante interesse público, sendo justificadas as ausências em decorrência de participação nas reuniões do conselho.
+
+
+Art. 19.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA do Município contará com Câmaras Temáticas permanentes, que prepararão as propostas a serem por ele apreciadas, podendo instituir grupos de trabalho, de caráter temporário, para estudar e propor medidas específicas.
+
+
+Parágrafo único
+
+As Câmaras Temáticas serão compostas por Conselheiros (as) designados (as) pelo plenário do COMSEA, observadas as condições estabelecidas no seu Regimento Interno.
+
+
+Art. 20.
+
+Cabe ao Poder Executivo assegurar ao Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA do Município, assim como as suas Câmaras Temáticas e grupos de trabalho, os meios necessários ao seu funcionamento.
+
+
+Art. 21.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional instituirá seus atos através de resoluções aprovadas pela maioria de seus atos através de resoluções aprovadas pela maioria de seus membros.
+
+
+Art. 22.
+
+Todas as sessões do Conselho Municipal de Segurança Alimentar e Nutricional serão públicas e registradas em atas.
+
+
+#### CAPÍTULO IV — DA CONFERÊNCIA MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+
+Art. 23.
+
+Fica instituída a Conferência Municipal de Segurança Alimentar e Nutricional, órgão colegiado de caráter consultivo e deliberativo, composta por delegados representantes do poder público e da sociedade civil organizada que se reunirá a cada 4 (quatro) anos sob a organização do Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA de Conceição do Coité, conforme dispuser o regimento interno próprio.
+
+
+Art. 24.
+
+A Conferência Municipal de Segurança Alimentar e Nutricional será colocada pelo Conselho Municipal de Segurança Alimentar - COMSEA conforme calendário determinado pelo Conselho Nacional de Segurança Alimentar ou Conselho Estadual de Segurança Alimentar Nutricional.
+
+
+§ 1º
+
+A realização da Conferência deverá ser amplamente divulgada nos principais meios de comunicação de abrangência municipal.
+
+
+§ 2º
+
+Para realização da Conferência o Conselho constituirá comissão organizada dentre seus membros escolhido em plenária.
+
+
+Art. 25.
+
+Os delegados das entidades não governamentais da Conferência Municipal de Segurança Alimentar e Nutricional serão escolhidos mediante reunião ou assembleias próprias das instituições, convocada para esse fim específico, no período de 60 dias anteriores a data da realização da conferência.
+
+
+Parágrafo único
+
+Será gratuita a participação de 1 representante/delegado de cada instituição organizada, com direito a voz e voto.
+
+
+Art. 26.
+
+Os representantes do Poder Executivo na Conferência Municipal de Segurança Alimentar e Nutricional serão indicados pelo Prefeito municipal, mediante ofício enviado ao Conselho de Segurança Alimentar - COMSEA no prazo de dez (10) dias anteriores a realização da conferência.
+
+
+Art. 27.
+
+Compete a Conferência Municipal de Segurança Alimentar e Nutricional, além do citado no art. 3º. Desta lei, aprovar o seu regime interno que coordenará o processo conferencial.
+
+
+Art. 28.
+
+A política Municipal de Segurança Alimentar e Nutricional será implantada por meio de Plano Municipal de Segurança Alimentar e Nutricional, a ser construído intersetorial pela CAISAN, com base nas prioridades estabelecidas pelo COMSEA, a partir de deliberações das Conferências Nacional, estadual e municipal da Segurança Alimentar e Nutricional.
+
+
+Parágrafo único
+
+O plano municipal de segurança alimentar e nutricional deverá:
+
+
+I –
+
+conter análise da situação nacional e ou Municipal de Segurança Alimentar e Nacional;
+
+
+II –
+
+ser quadrienal e ter vigência correspondente ao plano plurianual;
+
+
+III –
+
+dispor sobre os temas previstos no parágrafo único, do art. 22, do Decreto Federal nº 7272/2010, entre os outros temos apontados pelo COMSEA e pela conferência municipal de segurança alimentar e nutricional;
+
+
+IV –
+
+explicar as responsabilidades dos órgãos e entidades afetas à segurança alimentar e nutricional;
+
+
+V –
+
+incorporar estratégia territoriais e intersetoriais e visões articuladas das demandas das populações, com atenção para as especificidades dos diversos grupos populacionais em situação de vulnerabilidade e de insegurança alimentar e nutricional, respeitando a diversidade social, cultura, ambiental, étnico-racial e a equidade de gênero;
+
+
+VI –
+
+definir seus mecanismos de monitoramento e avaliação;
+
+
+VII –
+
+Ser revisado a cada dois anos, com base nas orientações da câmera interministerial de Segurança Alimentar e Nutricional, nas propostas do COMSEA e no monitoramento de sua execução.
+
+
+Art. 29.
+
+Programação e a execução orçamentária e financeira dos programas e ações que integram a política e o Plano Municipal de Segurança Alimentar e Nutricional é de responsabilidade dos órgãos e entidades competentes conforme a natureza temática a que se referem, observadas as respectivas competências exclusivas e as demais disposições da legislação aplicável.
+
+
+#### CAPÍTULO V — DA CÂMARA MUNICIPAL INTERSETORIAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+
+Art. 30.
+
+Fica criada a Câmara Municipal Intersetorial de Segurança Alimentar e Nutricional-CAISAN do Município de Conceição do Coité-BA, no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional-SISAN, com a finalidade de promover a articulação e integração dos órgãos, entidades e ações da Administração Pública Municipal afetos à área de Segurança AlimentareNutricional, com as seguintes competências:
+
+
+I –
+
+elaborar, a partir das diretrizes emanadas do COMSEA, a Política e o Plano Municipal de Segurança Alimentar e Nutricional, indicando diretrizes, metas e fontes de recursos, bem como instrumentos de acompanhamento, monitoramento e avaliação de sua implementação;
+
+
+II –
+
+coordenar a execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional, mediante interlocução permanente com o Conselho Municipal de Segurança Alimentar e Nutricional e com os órgãos executores de ações e programas de Segurança Alimentar e Nutricional;
+
+
+III –
+
+apresentar relatórios e informações ao Conselho Municipal de Segurança Alimentar e Nutricional, necessários ao acompanhamento e monitoramento do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+IV –
+
+monitorar e avaliar os resultados e impactos da Política e do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+V –
+
+participar do fórum bipartite, bem como do fórum tripartite, para interlocução e pactuação com a Câmara Estadual Intersetorial de Segurança Alimentar e Nutricional e a Câmara Interministerial de Segurança Alimentar e Nutricional sobre o Pacto de Gestão do Direito Humano à Alimentação Adequada-DHAA(PGDHAA) e mecanismos de implementação dos planos de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+solicitar informações de quaisquer órgãos da Administração direta ou indireta do Poder Executivo Municipal para o bom desempenho de suas atribuições.
+
+
+VII –
+
+Assegurar o acompanhamento da análise e encaminhamento das recomendações do COMSEA pelos órgãos de governo que compõem a CAISAN Municipal apresentando relatórios periódicos;
+
+
+VIII –
+
+elaborar e aprovar o seu regimento interno em consonância com a Lei Federal n° 11.346, de 15 de setembro de 2006 e em seus atos regulatórios nos âmbitos Federal e Estadual.
+
+
+§ 1º
+
+A Câmara Intersetorial de Segurança Alimentar Nutricional - CAISAN será integrada pelas seguintes Secretarias:
+
+
+I –
+
+Secretaria de Assistência e Desenvolvimento Social - SEMADS
+
+
+II –
+
+Secretaria Municipal de Agricultura, Meio Ambiente e Economia Solidária;
+
+
+III –
+
+Secretaria Municipal de Saúde;
+
+
+IV –
+
+Secretaria Municipal de Educação, Cultura e Esporte.
+
+
+§ 2º
+
+A Câmara Intersetorial de Segurança Alimentar e Nutricional, CAISAN Municipal, será presidida pelo titular da Secretaria de Assistência e Desenvolvimento Social pelas políticas de Segurança Alimentar e Nutricional.
+
+
+Art. 31.
+
+A secretaria executiva da Câmara Intersetorial de Segurança Alimentar Nutricional - CAISAN será exercida pelo órgão governamental que a preside, sendo seu secretário executivo indicado pelo titular da pasta.
+
+
+Art. 32.
+
+A CAISAN poderá instituir comitês técnicos com a atribuição de proceder a prévia análise de ações específicas.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 33.
+
+Esta Lei será regulamentada por Decreto.
+
+
+Art. 34.
+
+As despesas com a execução desta Lei correrão por conta de dotação orçamentária própria.
+
+
+Art. 35.
+
+Fica revogada a Lei municipal n.º 337 de 29 de julho de 2003.
+
+
+Art. 36.
+
+Essa Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal,  
+Conceição do Coité, 13 de maio de 2025.
+
+**MARCELO PASSOS DE ARAÚJO**  
+Prefeito Municipal
+

@@ -1,0 +1,514 @@
+---
+titulo: "Lei nº 1.172, de 11 de abril de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1172"
+data: "2018-04-11"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2025-11-10; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1171"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/234/text"
+sha256_fonte: "3abb09cd95608dece41f241f5242ad959604a2f6480ee1de8c0bd9560ff23ea2"
+sha256_texto: "45c9d68c9e9f27ff329474cbc567c58f185db8bca1c1efaa9cd6c6f74716054e"
+capturado_em_fonte: "2026-10-21T06:10:08.145764-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.172, de 11 de abril de 2018
+
+Dispõe sobre a qualificação de entidades como organizações sociais, e dá outras providências.
+
+
+O **PREFEITO MUNICIPAL DE AMONTADA- CEARÁ**. Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+#### CAPÍTULO I — Das Organizações Sociais
+
+
+##### Seção I — Da Qualificação
+
+
+Art. 1º.
+
+O Poder Executivo poderá qualificar como organizações sociais pessoas jurídicas de direito privado, sem fins lucrativos, cujas atividades sejam dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura, educação e à saúde, atendidos aos requisitos previstos nesta Lei.
+
+
+Parágrafo único
+
+As pessoas jurídicas de direito privado cujas atividades sejam dirigidas à saúde, educação e à cultura, qualificadas pelo Poder Executivo como organizações sociais, serão submetidas ao controle externo da CÂMARA MUNICIPAL, que exercerá com o auxílio do Tribunal de Contas do Estado, ficando o controle interno a cargo do Poder Executivo.
+
+
+Art. 2º.
+
+São requisitos específicos para que as entidades privadas referidas no artigo anterior se habilitem à qualificação como organização social:
+
+
+I –
+
+Comprovar o registro de seu ato constitutivo, dispondo sobre:
+
+
+a)
+
+natureza social de seus objetivos;
+
+
+b)
+
+finalidade não-lucrativa, com a obrigatoriedade de investimentos de seus excedentes financeiros no desenvolvimento das próprias atividades;
+
+
+c)
+
+previsão expressa de ter a entidade, como órgãos de deliberação superior e de direção, um Conselho de Administração, e uma Diretoria, definidos nos termos do Estatuto, assegurado àquele, composição e atribuições normativas e de controle básicos previstos nesta Lei.
+
+Alteração feita pelo Art. 1º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+d)
+
+previsão de participação, no órgão colegiado de deliberação superior, de membros da comunidade, de notória capacidade profissional e idoneidade moral;
+
+
+e)
+
+composição e atribuições da Diretoria da entidade;
+
+
+f)
+
+obrigatoriedade de publicação anual, no Diário Oficial do Estado, dos relatórios financeiros e do relatório de execução do contrato de gestão;
+
+Alteração feita pelo Art. 1º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+g)
+
+em caso de associação civil, a aceitação de novos associados, na forma cio estatuto;
+
+
+h)
+
+proibição de distribuição de bens ou de parcela do patrimônio líquido em qualquer hipótese, inclusive em razão de desligamento, retirada ou falecimento de associado ou membro da entidade;
+
+
+i)
+
+previsão de incorporação integral do patrimônio, dos legados ou das doações que lhe foram destinados, bem como dos excedentes financeiros decorrente de suas atividacles, em caso de extinção ou desqualificação da entidade, ao patrimônio de outra organização social qualificada no âmbito, da mesma área de atuação, ou ao patrimônio do Estado, na proporção dos recursos e bens por este alocados;
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+II –
+
+ter a entidade recebido aprovação em parecer favorável, quanto á conveniência e oportunidade de sua qualificação como organização social, do Secretário da área correspondente.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+##### Seção II — Do Conselho de Administração
+
+
+Art. 3º.
+
+O Conselho de Administração deve estar estruturado nos termos do respectivo estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes critérios básicos:
+
+
+I –
+
+ser composto por:
+
+
+a)
+
+até 55 % (cinquenta e cinco por cento) no caso de associação civil, de membros eleitos dentre os membros ou os associados;
+
+
+b)
+
+35 % (trinta e cinco por cento) de membros eleitos pelos demais integrantes do Conselho, dentre pessoas de notória capacidade profissional e reconhecida idoneidade moral;
+
+
+c)
+
+10 % (dez por cento) de membros eleitos pelos empregados da entidade.
+
+
+II –
+
+os membros eleitos ou indicados para compor o Conselho que não poderão ser parentes consanguíneos ou afins até o 3° grau do Prefeito, Vice-Prefeito e Secretários Municipais, terão mandatos de dois anos, admitida uma recondução;
+
+
+III –
+
+o primeiro mandato de metade dos membros eleitos ou indicados deve ser de dois anos, segundo critérios estabelecidos no estatuto;
+
+
+IV –
+
+o dirigente máximo da entidade deve participar das reuniões cio Conselho, sem direito a voto;
+
+
+V –
+
+o Conselho deve reunir-se ordinariamente, no mínimo, três vezes a cada ano, e extraordinariamente, a qualquer tempo;
+
+
+VI –
+
+os conselheiros não receberão remuneração pelos serviços que, nesta condição, prestarem à organização social, ressalvada a ajuda de custo por reunião da qual participem; e
+
+
+VII –
+
+os conselheiros eleitos ou indicados para integrar a Diretoria da entidade devem renunciar ao assumirem às correspondentes funções executivas.
+
+
+Art. 4º.
+
+Para os fins de atendimento dos requisitos de qualificação, devem ser incluídas entre as atribuições privativas do Conselho de Administração:
+
+
+I –
+
+aprovar a proposta de contrato de gestão da entidade;
+
+
+II –
+
+aprovar a proposta de orçamento da entidade e o programa de investimentos;
+
+
+III –
+
+designar e dispensar os membros da Diretoria;
+
+
+IV –
+
+fixar a remuneração dos membros da Diretoria;
+
+
+V –
+
+aprovar os estatutos, bem como suas alterações e a extinção da entidade por maioria, no mínimo, de 2/3 (dois terços) de seus membros;
+
+
+VI –
+
+aprovar o regimento interno da entidade, que deve dispor, no mínimo, sobre o estatuto, o gerenciamento, os cargos e as competências;
+
+
+VII –
+
+aprovar por maioria, no mínimo, de 2/3 (dois terços) de seus membros. o regulamento próprio contendo os procedimentos que deve adotar para a contratação de obras e serviços, bem como para compras e alienações, e o plano ele cargos, salários e benefícios dos empregados da entidade;
+
+
+VIII –
+
+aprovar e encaminhar, ao órgão superior da execução do contrato de gestão, os relatórios gerenciais e de atividades da entidade, elaborados pela Diretoria;
+
+
+IX –
+
+fiscalizar o cumprimento das diretrizes e metas definidas e aprovar os demonstrativos financeiros e contábeis e as contas anuais da entidade, com o auxílio de auditoria externa; e
+
+
+X –
+
+fixar o âmbito de atuação da entidade, par consecução do seu objeto.
+
+
+Art. 5º.
+
+Aos conselheiros, administradores e dirigentes das organizações sociais da saúde é vedado exercer cargo de chefia ou função de confiança no desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura, à educação e à saúde, atendidos os requisitos previstos nesta Lei.
+
+
+##### Seção III — Do Contrato de Gestão
+
+
+Art. 6º.
+
+Para os efeitos desta lei, entende-se por contrato de gestão o instrumento firmado entre o Poder Público e a entidade qualificada como organização social, com vistas à formação de wna parceria entre as partes para fomento e execução de atividades relativas às áreas relacionadas no art. 1º:
+
+
+§ 1º
+
+A forma de contratação para celebração dos contratos de que trata o caput deste artigo, observará as regras contidas na Lei Federal nº 14.133, de 1º de abril de 2021 e, no que couber, na Lei Federal nº 9.637, de 15 de maio de 1998.
+
+Alteração feita pelo Art. 2º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+§ 2º
+
+A organização social da saúde deverá observar os princípios do Sistema Único de Saúde expressos no artigo 198 da Constituição Federal e no artigo 7 da Lei nº 8.080, de 19 de setembro de 1990.
+
+
+§ 3º
+
+A celebração dos contratos de que trata o "caput" deste artigo, com dispensa da realização de licitação, será precedida de publicação da minuta do contrato de gestão e de convocação pública das organizações sociais, através do Diário Oficial do Estado e jornal de grande circulação, para que todas as interessadas em celebrá-los possam se apresentar.
+
+
+§ 4º
+
+O Poder Público dará publicidade:
+
+
+I –
+
+da decisão de firmar cada contrato de gestão, indicando as atividades que deverão ser executadas; e
+
+
+II –
+
+das entidades que manifestarem interesse na celebração de cada contrato de gestão.
+
+
+§ 5º
+
+A celebração do contrato previsto neste artigo poderá ser plena ou compartilhada.
+
+
+Art. 7º.
+
+O contrato de gestão celebrado pelo Município, por intermédio da Secretaria ou Autarquia, conforme a natureza e objeto, discriminará as atribuições, responsabilidades e obrigações do Poder Público, e da entidade contratada, devendo ser publicado na íntegra, no Diário Oficial do Estado.
+
+Alteração feita pelo Art. 3º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+Parágrafo único
+
+O contrato de gestão deve ser submetido, após aprovação do Conselho de Administração, ao Secretário da área competente.
+
+
+Art. 8º.
+
+Na elaboração do contrato de gestão devem ser observados os princípios inscritos no artigo 37 da Constituição Federal e, também, os seguintes preceitos:
+
+
+I –
+
+especificação do programa de trabalho proposto pela organização social, estipulação das metas a serem atingidas e respectivos prazos de execução, bem como previsão expressa dos critérios objetivos de avaliação de desempenho a serem utilizados, mediante indicadores de qualidade e produtividade;
+
+
+II –
+
+estipulação dos limites e critérios para a despesa com a remuneração e vantagens de qualquer natureza a serem percebidas pelos dirigentes e empregados das organizações sociais, no exercício de suas funções;
+
+
+III –
+
+atendimento à disposição do § 2° do artigo 6° desta lei;
+
+
+IV –
+
+atendimento exclusivo aos usuários do Sistema Único de Saúde - SUS, no caso das organizações sociais da saúde.
+
+
+Parágrafo único
+
+O Secretário competente deverá definir as demais cláusulas necessárias dos contratos de gestão de que for signatário.
+
+
+V –
+
+A estipulação de limites e critérios para despesa com remuneração e vantagens de qualquer natureza a serem percebidas pelos dirigentes e empregados das organizações sociais, no exercício de suas funções.
+
+
+VI –
+
+Obrigatoriedade de constar, como parte integrante do instrumento, a proposta ele trabalho, orçamento, o prazo do contrato de gestão e as fontes de receita para sua execução.
+
+
+VII –
+
+O contrato de Gestão desde que justificado e aprovado pelo Conselho de avaliação, poderá ser repactuado ou aditivado para o equilíbrio econômico financeiro dentro do período de execução.
+
+
+VIII –
+
+Em caso de rescisão do contrato de gestão, e no praze de até 90 (noventa) dia , a incorporação do patrimônio, dos legados e doações que lhe forem destinados, bem como dos excedentes financeiros decorrentes de suas atividades, ao patrimônio do Município ou ao de outra organização social qualificada na forma dessa Lei, que vier a celebrar o contrato de gestão com o Poder Público, ressalvados o patrimônio, bens e recursos pré-existentes ao contrato de gestão.
+
+
+##### Seção IV — Da Execução e Fiscalização do Contrato de Gestão
+
+
+Art. 9º.
+
+A execução do contrato de gestão celebrado por organização social será fiscalizado pelo Secretário ou pelo órgão supervisor, nas áreas correspondentes.
+
+
+§ 1º
+
+O contrato de gestão deve prever a possibilidade de o Poder Público requerer a apresentação pela entidade qualificada, ao término de cada exercício financeiro, ou a qualquer momento, conforme recomende o interesse público, a apresentação de relatórios pertinentes à execução do contrato de gestão, contendo a comprovação de forma específica, das metas propostas, com os resultados alcançados, acompanhado da respectiva prestação de contas correspondente ao exercício financeiro, assim como as suas publicações no Diário Oficial do Estado.
+
+Alteração feita pelo Art. 4º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+§ 2º
+
+Os resultados atingidos com a execução do contrato de gestão serão analisados, periodicamente por comissão de avaliação indicada pelo Secretário Municipal competente, composta por profissionais de notória especialização, que emitirão relatório conclusivo, a ser encaminhado àquela autoridade e aos órgãos de controle interno e externo do Município.
+
+
+§ 3º
+
+A comissão de avaliação de execução do contrato de gestão das organizações sociais da saúde, da qual trata o parágrafo anterior, compor-se-á, dentre outros membros, por 2 (dois) integrantes indicados pelo Conselho Municipal de Saúde, reservando-se, também, 2 (dois) integrantes indicados pelo Poder Executivo, 1 (urna) vaga para membros integrantes da Comissão de Saúde e Higiene da Câmara Municipal.
+
+
+Art. 10.
+
+Os responsáveis pela fiscalização da execução do contrato de gestão, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública por organização social, dela darão ciência ao Tribunal do Contas do Estado e ao Ministério Público, para as providências relativas aos respectivos âmbitos de atuação, sob pena de responsabilidade solidária.
+
+
+Art. 11.
+
+O balanço e demais prestações de contas da organização social devem, necessariamente, ser publicados no Diário Oficial do Estado.
+
+Alteração feita pelo Art. 5º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+##### Seção V — Do Fomento às Atividades Sociais
+
+
+Art. 12.
+
+As entidades qualificadas como organizações sociais ficam declaradas como entidades de interesse social e utilidade pública para todos os efeitos legais.
+
+
+Art. 13.
+
+Às organizações sociais serão destinados recursos orçamentários e, eventualmente, bens públicos necessários ao cumprimento do contrato de gestão:
+
+
+§ 1º
+
+Ficam assegurados às organizações sociais os créditos previsto no orçamento e as respectivas liberações financeiras, de acordo com o cronograma de desembolso previsto no contrato de gestão.
+
+
+§ 2º
+
+Poderá ser adicionada aos créditos orçamentários destinados ao custeio do contrato de gestão, parcelas de recursos para fins do disposto desta lei, desde que haja justificativa expressa da necessidade pela organização social.
+
+
+§ 3º
+
+Os bens de que trata este artigo serão destinados às organizações sociais, consoante cláusula expressa do contrato de gestão.
+
+
+§ 4º
+
+Os bens públicos de que trata este artigo não poderão recair em estabelecimentos de saúde do Estado em funcionamento.
+
+
+Art. 14.
+
+Os bens móveis públicos permitidos para uso poderão ser substituídos por outros de igual ou maior valor, condicionado a que os novos bens integrem o patrimônio do Município.
+
+
+Parágrafo único
+
+A permuta de que trata o "caput" deste artigo dependerá de prévia avaliação do bem e expressa autorização do Poder Público.
+
+
+Art. 15.
+
+Fica facultado ao Poder Executivo o afastamento de servidor para as organizações sociais, com ônus para a origem:
+
+
+§ 1º
+
+Não será incorporada aos vencimentos ou à remuneração de origem do servidor afastado qualquer vantagem pecuniária que vier a ser paga pela organização social.
+
+
+§ 2º
+
+Não será permitido o pagamento de vantagem pecuniária permanente por organização social a servidor afastado com recursos provenientes do contrato de gestão, ressalvada a hipótese de adicional relativo ao exercício de função temporária de direção e assessoria.
+
+
+§ 3º
+
+O servidor cedido perceberá as vantagens do cargo a que fizer jus no órgão de ongem, quando ocupante de cargo de primeiro ou segundo escalão na organização social.
+
+
+Art. 16.
+
+São extensíveis, no âmbito do Município de Amontada, os efeitos dos arts. 12 e 13, § 3º desta Lei, para as entidades qualificadas como organizações sociais pela União, pelos Estados, pelo Distrito Federal, e pelos Municípios, quando houver reciprocidade, e desde que não contrarie as normas gerais definidas pela União sobre a matéria, os preceitos desta Lei, bem como, legislação Estadual que trate sobre a matéria.
+
+Alteração feita pelo Art. 6º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+##### Seção VI — Da Desqualificação
+
+
+Art. 17.
+
+O Poder Executivo poderá proceder à desqualificação da entidade como organização social quando verificado o descumprimento das disposições contidas no contrato de gestão:
+
+
+§ 1º
+
+A desqualificação será precedida de processo administrativo, assegurado o direito à ampla defesa, respondendo os dirigentes da organização social, individual e solidariamente, pelos danos ou prejuízos decorrentes de sua ação ou omissão.
+
+
+§ 2º
+
+A desqualificação importará reversão dos bens permitidos e do saldo remanescente dos recursos financeiros entregues à utilização da organização social. sem prejuízo das sanções contratuais penais e civis aplicáveis à espécie.
+
+
+#### CAPÍTULO II — Das Disposições Finais e Transitórias
+
+
+Art. 18.
+
+A organização social fará publicar no website da organização social e no Diário Oficial do Estado, no prazo máximo de 90 (noventa) dias contados ela assinatura do contrato de gestão, regulamento próprio contendo os procedimentos que adotará para a contratação de obras e serviços, bem como para compras com emprego de recursos provenientes do Poder Público.
+
+
+Art. 19.
+
+Os Conselheiros e Diretores das organizações sociais poderão exercer outra atividade remunerada com ou sem vínculo empregatício na mesma entidade.
+
+
+Art. 20.
+
+Na hipótese da pessoa jurídica de direito privado, sem fins lucrativos, que exerça alguma das atividades definidas no art. 1º desta Lei, vier a requerer habilitação como organização social, deverá comprovar sua existência há mais de 5 (cinco) anos, contados da data da publicação desta Lei, sendo-lhe concedido o prazo de 2 (dois) anos para adaptação às normas do respectivo estatuto ao disposto no art. 3º, incisos I ao IV desta Lei.
+
+Alteração feita pelo Art. 7º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+Parágrafo único
+
+A pessoa jurídica de direito privado, sem fins lucrativos, que vier a requerer habilitação como organização social, deverá comprovar ainda, que exerce há mais de 5 (cinco) anos, alguma das atividades definidas no art. 1º desta Lei.
+
+Inclusão feita pelo Art. 8º. - Lei nº 1.714, de 10 de novembro de 2025.
+
+
+Art. 21.
+
+Os requisitos específicos de qualificação das organizações sociais da área contidas no art. 1º serão estabelecidos em Decreto do Poder Executivo, a ser editado no prazo de 60 (sessenta) dias a contar da publicação desta lei.
+
+
+Art. 22.
+
+Os casos omissos na presente Lei serão regulamentados por Decreto do Chefe do Poder Executivo Municipal.
+
+
+**Paço da Prefeitura Municipal de Amontada/CE,** 11 de abril de 2018.
+
+**VALDIR HERBSTER FILHO Prefeito Municipal**
+

@@ -1,0 +1,22 @@
+---
+titulo: "LEI MUNICIPAL Nº274/25.08.2006"
+uf: "PA"
+municipio: "SÃO GERALDO DO ARAGUAIA"
+tipo: "Lei Ordinária"
+numero: "274"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 16/04/2026"
+data_publicacao: 2026-04-16
+codigo_identificador: "4722B46B"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117062_2026-04-15_56ae93541d95a3a6ebdf037b05a348a6.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº274/25.08.2006
+
+LEI MUNICIPAL Nº274/25.08.2006
+MATRICULA:7353
+Publicado por:
+Isabel Farias Muorão

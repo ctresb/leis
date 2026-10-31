@@ -1,0 +1,304 @@
+---
+titulo: "Lei nº 778, de 06 de outubro de 1998"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "778"
+data: "1998-10-06"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2021-05-13; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/994"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1638/text"
+sha256_fonte: "2e165881746618079da7b1db0f36b68059c5fa6af12af050adee2e1dbf34e37e"
+sha256_texto: "73610ec9a7268f4f2d39f99a64ddbeca842a0c5c77832817e218bdc66e2f47a2"
+capturado_em_fonte: "2026-10-27T20:25:13.775907-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 778, de 06 de outubro de 1998
+
+Estabelece a política municipal do idoso, cria o Conselho Municipal do Idoso e dá outras providências.
+
+
+O Prefeito Municipal de Buritis - Estado de Minas Gerais, no uso da atribuição que lhe confere o art. 94, VII, da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, promulga a seguinte lei:
+
+
+Art. 1º.
+
+A política municipal do idoso tem por objetivo promover condições que assegurem amparo à pessoa idosa, no que respeite a sua dignidade e ao seu bem-estar, sem prejuízo das diretrizes nacionais da política nacional do idoso.
+
+
+Art. 2º.
+
+Considera-se idoso, nos termos da Lei Federal nº 8.842, de 04 de janeiro de 1994, a pessoa maior de sessenta anos de idade.
+
+
+Art. 3º.
+
+A política municipal do idoso reger-se-á pelos seguintes princípios:
+
+
+I –
+
+a família, a sociedade e o Estado têm o dever de assegurar aos idosos todos os direitos da cidadania, garantindo sua participação na comunidade, defendendo sua dignidade, bem-estar e o direito à vida;
+
+
+II –
+
+o processo de envelhecimento diz respeito à sociedade em geral, devendo ser objeto de conhecimento e informação para todos;
+
+
+III –
+
+o idoso não deve sofrer discriminação de qual quer natureza;
+
+
+IV –
+
+o idoso deve ser o principal agente e o destinatário das transformações a serem efetivadas através desta política.
+
+
+Art. 4º.
+
+Constituem diretrizes da política municipal do idoso:
+
+
+I –
+
+viabilização de formas alternativas de participação, ocupação e convívio do idoso, que proporcionem sua integração às demais gerações;
+
+
+II –
+
+participação do idoso, através de suas organizações representativas, na formulação, implementação e avaliação das políticas, planos, programas e projetos a serem desenvolvidos;
+
+
+III –
+
+priorização do atendimento ao idoso através de suas próprias famílias, em detrimento do atendimento asilar, à exceção dos idosos que não possuem condições que garantam sua própria sobrevivência;
+
+
+IV –
+
+capacitação e reciclagem dos recursos humanos, nas áreas de geriatria e gerontologia e na prestação de serviços;
+
+
+V –
+
+implementação de sistemas de informações que permita a divulgação da política, dos serviços oferecidos, dos planos, programas e projetos desenvolvidos pelo governo municipal;
+
+
+VI –
+
+estabelecimento de mecanismos que favoreçam a divulgação de informações de caráter educativo sobre os aspectos biopsicossociais do envelhecimento;
+
+
+VII –
+
+priorização do atendimento ao idoso em órgãos públicos e privados prestadores de serviços, quando desabrigados e sem família.
+
+
+Art. 5º.
+
+Compete à Secretaria Municipal de Assistência Social a coordenação geral da política municipal do idoso, com participação do Conselho Municipal do Idoso.
+
+
+Art. 6º.
+
+É criado, no âmbito da Secretaria Municipal de Assistência Social, o Conselho Municipal do Idoso, órgão permanente, paritário e deliberativo.
+
+
+Art. 7º.
+
+O Conselho Municipal do Idoso é composto de 08 (oito) membros, assim distribuídos:
+
+
+I –
+
+04 (quatro) representantes das Secretarias municipais de Saúde, Assistência Social, Educação e Cultura e da Agricultura.
+
+
+II –
+
+04 (quatro) representantes da sociedade civil, sendo:
+
+
+a)
+
+01 (um) representante da Sociedade São Vicente de Paula;
+
+
+b)
+
+01 (um) representante das associações de moradores de bairros;
+
+
+c)
+
+01 (um) representante da Associação Comercial e Industrial de Buritis;
+
+
+d)
+
+01 (um) representante da Pastoral da Criança.
+
+
+Art. 8º.
+
+Compete ao Conselho Municipal do Idoso a formulação, coordenação, supervisão e avaliação da política municipal do idoso.
+
+
+Parágrafo único
+
+Deliberar sobre a movimentação de recursos financeiros, vinculados ao Fundo Municipal dos Direitos da Pessoa Idosa.
+
+Inclusão feita pelo Art. 7º. - Lei nº 1.457, de 13 de maio de 2021.
+
+
+Art. 9º.
+
+As Secretarias Municipais das áreas de saúde, educação, assistência social e agricultura devem elaborar propostas orçamentárias, no âmbito de suas competências, visando o desenvolvimento de programas municipais compatíveis com a política municipal do idoso.
+
+
+Art. 10.
+
+Na implementação da política municipal do idoso, são competências dos órgãos e entidades públicas:
+
+
+I –
+
+Na área de assistência social:
+
+
+a)
+
+prestar serviços e desenvolver ações voltadas para o atendimento das necessidades básicas do idoso, mediante a participação das famílias, da sociedade e de entidades governamentais e não-governamentais;
+
+
+b)
+
+estimular a criação de incentivos e de alternativas de atendimento ao idoso, como centros de convivência, centros de cuidado, casas-lares, oficinas abrigadas de trabalho, atendimentos domiciliares e outros;
+
+
+c)
+
+promover simpósios, seminários e encontros específicos;
+
+
+d)
+
+promover a capacitação de recursos para atendimento ao idoso.
+
+
+II –
+
+Na área de saúde:
+
+
+a)
+
+garantir ao idoso a assistência à saúde, através do Sistema Único de Saúde;
+
+
+b)
+
+prevenir, promover, proteger e recuperar a saúde do idoso, mediante programas e medidas profiláticas;
+
+
+c)
+
+desenvolver formas de cooperação entre a União, o Estado e o Município, mediante convênio, consórcio ou acordo para a implantação de ações específicas na área de saúde;
+
+
+d)
+
+criar serviços alternativos de saúde para o idoso.
+
+
+III –
+
+na área de habitação e urbanismo:
+
+
+a)
+
+incluir nos programas de assistência ao idoso formas de melhoria das condições de habitabilidade e adaptação de moradia, considerando seu estado físico e sua independência de locomoção;
+
+
+b)
+
+elaborar programas que garantam o acesso da pessoa idosa à habitação popular;
+
+
+c)
+
+reduzir barreiras arquitetônicas e urbanas;
+
+
+IV –
+
+na área de cultura, esporte e lazer:
+
+
+a)
+
+garantir ao idoso a participação no processo de produção, reelaboração e fruição dos bens culturais;
+
+
+b)
+
+proporcionar ao idoso o acesso aos locais e eventos culturais, mediante preços reduzidos;
+
+
+c)
+
+incentivar os movimentos de idosos e desenvolver atividades culturais;
+
+
+d)
+
+valorizar o registro da memória e a transmissão de informações e habilidades do idoso aos mais jovens, como meio de garantir a continuidade e a identidade cultural;
+
+
+e)
+
+incentivar e criar programas de lazer, esporte e atividades físicas que proporcionem a melhoria da qualidade de vida do idoso e estimulem sua participação na comunidade.
+
+
+Art. 11.
+
+É criado, no âmbito da Secretaria Municipal de Saúde, o Serviço de Atendimento ao Idoso, com o objetivo de assegurar ao idoso atendimento preferencial e exclusivamente voltado para a prevenção, tratamento e reabilitação.
+
+
+Art. 12.
+
+Os recursos necessários à implantação das ações afetas à política municipal do idoso serão consignados nos orçamentos do município.
+
+
+Art. 13.
+
+Compete ao Poder Executivo regulamentar esta lei no prazo de 90 (noventa) dias, contados de sua publicação, especialmente quanto à composição e competência do Conselho Municipal do Idoso e às atribuições do Serviço de Atendimento ao Idoso.
+
+
+Art. 14.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 15.
+
+Revogam-se as disposições em contrário.
+
+
+Buritis-MG, 06 de outubro de 1998.
+
+**Pe. José Vicente Damasceno Prefeito Municipal**
+
+**Clarindo F. Filho Assessor Jurídico**
+
+Projeto lei nº 007/98, de 20.04.98. Aprovado em 1ª votação por 08 votos a favor e nenhum contra. Aprovado em 2ª votação por 08 votos a favor e nenhum contra. Sala das sessões, 05.10.98.
+

@@ -1,0 +1,468 @@
+{
+  "aprovados": 1403,
+  "retidos": 239,
+  "hosts": 112,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/aprovados.paths.txt",
+      "sha256": "797b249dcc7492acea40b514489718374a117d40cbe8f12e4092a71e48c6175b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.acari.rn.leg.br.json",
+      "sha256": "404bfb5014e5e4e5772f1fea224e240de49a99bb7a61d4c3b5ef61e61a6f5de9"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.adamantina.sp.leg.br.json",
+      "sha256": "17371576067264a0bcb7fff5da795199869bf5cf7ec637ec800b5d5603b14877"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.alegre.es.leg.br.json",
+      "sha256": "05118091c3f4e80e27333fe1cba6bc127a77bc4ce82dda1a0f9cb5a2823edd25"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.alexandria.rn.leg.br.json",
+      "sha256": "3e2f3f58b8fd8ede3f5e526fcfd557d1a38f18ff351599cf02865c17f2495d2e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.araguari.mg.leg.br.json",
+      "sha256": "0025e5a369fcb43e3e35759c766605021a072023a3888d0b1ca12685651b7f74"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.arapongas.pr.leg.br.json",
+      "sha256": "98cc2a47faaa24703883fbd109f3545d5d302b29d13c98d3d9d92a76c959c541"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.arinos.mg.leg.br.json",
+      "sha256": "0c0e2de66c29e01861bf5c403372a34621f66c7d22bc8b812d72c7d203ac430f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.barradesaomiguel.pb.leg.br.json",
+      "sha256": "6aca8e326697a3cdb5846725f93ddae98b6cff6c3cb2fd09d2912bf83f7f4160"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.barramansa.rj.leg.br.json",
+      "sha256": "6153d0270845465e61f0c867b40ea2b262b8b8598ad6edb65f811b6b68dadc00"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.bertioga.sp.leg.br.json",
+      "sha256": "7a6d38c61e0ef5d6ea02e93c22d230496c21d6d06b159405cdd68abbd51d9dae"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.bomdespacho.mg.leg.br.json",
+      "sha256": "c02888d27e7f6166fbe711b2262e9bf48fa08df7b0fc917d37c4cd2849de1f9f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.brasileira.pi.leg.br.json",
+      "sha256": "f160df1e964678807bb2cf3232743b33a73da8b24a46b0bebbec67b94b9214a6"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.cabeceiragrande.mg.leg.br.json",
+      "sha256": "cd5d5b4bd5425582b1d910a9a21b20ba373dddee68abf698e36ad13b98d7668a"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.cabodesantoagostinho.pe.leg.br.json",
+      "sha256": "2a9243e914922a1ce8d132ce85059b666ca5d1cb73337045ad041ad55a89eac8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.caceres.mt.leg.br.json",
+      "sha256": "35cd72aa822fccc7646138837bd49615f8ead160eebf2b74913cd3710085cc40"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.california.pr.leg.br.json",
+      "sha256": "2772d9933ccd15a9d4367006e9de708ddd25d28e8582efa9d2603cfc0281b31b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.cambira.pr.leg.br.json",
+      "sha256": "f1b59eb653d4841c2c72912851b979fc80e04130e90f0f235c6c942bfdc5d428"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.campinaverde.mg.leg.br.json",
+      "sha256": "3ad3bf22b10c5dd3980bd5c24084472b6401a3172d4efacbfa081a548ceb23f2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.campodotenente.pr.leg.br.json",
+      "sha256": "d30580add6fbd8a1a10e986bb29243982341496fd50206ce1a2561f48a5050fd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.campomagro.pr.leg.br.json",
+      "sha256": "ec54ef9db33909d85cf639a7c2c25de2d9a8708f3feec26ad3b55d87a55abc16"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.campoverde.mt.leg.br.json",
+      "sha256": "2b2b7afae093387eb5884b65124b43f35014e0ee7380d19d2426afb901677851"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.canapolis.mg.leg.br.json",
+      "sha256": "d78ad7c34d82b23211041fab0ec2b878841e684865d859971353ff7444b53915"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.canarana.mt.leg.br.json",
+      "sha256": "00e054450337e39eca538e600236e22cedc3ee001e15000f657fe58b2efe7f73"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.cerrocora.rn.leg.br.json",
+      "sha256": "9846df49cdcfa5f56f9e877f6019f3abb6ea2719eda1de705f876c30de791ea4"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.conceicaodocoite.ba.leg.br.json",
+      "sha256": "6bc0b035a985ca770f131036db3ba106cd82be291d125e4972a508a6f09432d2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.coronelbarros.rs.leg.br.json",
+      "sha256": "958c103938c5c86e0f129bbb8bd53ac5e60048d01a61a96c546a0d040aceb2b6"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.coronelfabriciano.mg.leg.br.json",
+      "sha256": "0567bce1e235d9a540939e362b57d99ad8ca9e5290736a24b2a6020e4a5ef217"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.cotriguacu.mt.leg.br.json",
+      "sha256": "2575ea2e65b680a9b5a904c6f77d0ae0fdd4fef6476b8313cc28c7b0380717c2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.cruzmaltina.pr.leg.br.json",
+      "sha256": "d6a758a6761ef8eca2431352d6ab791077cb20b8a5660611895d4db74e25f917"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.cujubim.ro.leg.br.json",
+      "sha256": "3481ee6f54df14d79954ca62c7e89ac68c092379672a9a4aff06dd18364c5b91"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.dombosco.mg.leg.br.json",
+      "sha256": "bac4ae490848e9f9b875a9e1bbddccad96654a02a6323af4ebfed14b3ab3a987"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.domingosmartins.es.leg.br.json",
+      "sha256": "278c9e82b6aa319d57ef7108bfa42267f8b20e572c305abc0028d0e15de255d8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.engenheiropaulodefrontin.rj.leg.br.json",
+      "sha256": "3fd4fc2efeaa70edb53c21db3b1ffc46eedaabec7fcff2a28e6bfbb0f1b2b9a5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.esperafeliz.mg.leg.br.json",
+      "sha256": "d792585ecff8ce4feaebdab6ffb6ae014737047d2b75cb32cf5a40eaa691f86a"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.eusebio.ce.leg.br.json",
+      "sha256": "2e70b62a4e83b1760fee2cd412b8fe86db4627b88584ba11181b63cb94a47bdf"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.formoso.mg.leg.br.json",
+      "sha256": "38539b6a42635c101d3a945f6cce5fe5625d6d088f4e1006aafb6cc664e990c2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.formosodoaraguaia.to.leg.br.json",
+      "sha256": "d59cf9859a54eda458799f61779fbcc900b97ceca92d902de56558f6f25ab06c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.fortaleza.ce.leg.br.json",
+      "sha256": "815364d6710d7644a97806164f0774899b52dd0875f426c3f37fe585c3cde906"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.frutal.mg.leg.br.json",
+      "sha256": "23f63712b5c8387fde008570542bee2033b01eea88cc374c238c099678bd8501"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.garca.sp.leg.br.json",
+      "sha256": "f01849e85ef795daec75360674b7a0f5f5178683bfa6d957cd30b32479bed367"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.guajaramirim.ro.leg.br.json",
+      "sha256": "0db79bde1e80d331705098ff05dfa1eead349ed16d72d0bec19e268ba8fb1a29"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.guariba.sp.leg.br.json",
+      "sha256": "98107419fca438fc0610125b938a5009552230e916b525d4733a01490e7ecf69"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.heliodora.mg.leg.br.json",
+      "sha256": "87fa1ceefba4a5ad6557fc245dba7e4791ec9adfe1d8cdaac67254302290e6d0"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.icapui.ce.leg.br.json",
+      "sha256": "96060b58b1fb870f0c3b0fdc06a76abe13c756be118c24f02404493223077891"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.igrapiuna.ba.leg.br.json",
+      "sha256": "752e016f096d9f00977359229d689c78e7a3f94f8b66f93e9de1471045679e0f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.ipueiras.ce.leg.br.json",
+      "sha256": "becddb7c90c04e4f7cd05dea849353e70f256df0d2e86dd4213903ed762e526e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.itapuadooeste.ro.leg.br.json",
+      "sha256": "20df49258454be759f0e164d8ce3fa52388c50a7a168f37bd94d668cb9b47b28"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.itaunadosul.pr.leg.br.json",
+      "sha256": "eb640824dc03887f287fe46cbc6aa1d715df046565fc5938083c0a450d198aca"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.jacana.rn.leg.br.json",
+      "sha256": "bd7fbb7545471eecc45e915e5750cafa20038dd1853ff513cbfb478ebb1ca958"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.jacui.mg.leg.br.json",
+      "sha256": "9c2218146c64061f01cbe7c7dccda30bc0747fa8e6e0709138b0793ca3feef32"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.jiparana.ro.leg.br.json",
+      "sha256": "9b8a915ac69e7aa30ed0c574e14529b0c67d65fc931e21489070755e7fb20faf"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.joaoneiva.es.leg.br.json",
+      "sha256": "7c522cbee5698163f78b33dc886180c61c44799b1dc1169b62f9f4dfce8f457e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.joaquimtavora.pr.leg.br.json",
+      "sha256": "168ac7a95196e30522ad644fc74d452ab7d77d92e438a7867ba4d31f8d753ff2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.juazeiro.ba.leg.br.json",
+      "sha256": "108b5fba49b7826f9264f699af50c22986a92f69b999cdf1c349aff55e3adb24"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.lagoadaprata.mg.leg.br.json",
+      "sha256": "e05672b495ff545c9cbf89ec44bfeffb724bcf5e4b46cdb24ee2308879c43ad1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.laranjalpaulista.sp.leg.br.json",
+      "sha256": "aa3b3f38aff15f5624e1820789788fcdb72b665a5b630433112b20c76cdec35e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.leme.sp.leg.br.json",
+      "sha256": "df3ed7abeda817433df7f2be5b018b932e4cc0e79bffd1a1bd5f046f618e0aa3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.lobato.pr.leg.br.json",
+      "sha256": "5cb43aeaed3922dc7976d283e9827ec9f618fbdedaf92e2435b63d1294d973bc"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.luz.mg.leg.br.json",
+      "sha256": "6bc3b5d272a5bbcd4a332d9dc877da6221b31b780ee15cca659f588fa1c55392"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.mambore.pr.leg.br.json",
+      "sha256": "4e1bcaf476e6584eeb059c623bc99f33730f0b0a9136846e360c93efbf9cdbc9"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.marcelinoramos.rs.leg.br.json",
+      "sha256": "bfb48110a2327c5a8a8569b9d0a0b1269b951ab71b5db0a405cb6cb54d655fdc"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.marechalcandidorondon.pr.leg.br.json",
+      "sha256": "406321ffbce2f1187afcc5a39c24e2df3087007380d0d11e3b80be83e46c0226"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.mercedes.pr.leg.br.json",
+      "sha256": "ed358d4282e867bff991ad3b653d276e4a83e526a1772c62113b378f13e85e34"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.montadas.pb.leg.br.json",
+      "sha256": "b5ae3809d531f3dbd343f843a97e36a077d537c12dada7a4ffd6500e364b5610"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.montemor.sp.leg.br.json",
+      "sha256": "1da84c5ab3ae4c8d5fbf6cb615973c4337ea6b9500f57eb563aafb8c235ef763"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.muriae.mg.leg.br.json",
+      "sha256": "9090c1eacd26a9c3f87f7a12e95eca04a5251666954c2b462da1132baafea533"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.ouroverdedooeste.pr.leg.br.json",
+      "sha256": "53b6b019db2e644ed1927c19a3dac08906957b3b447265c2b75fb5141779c143"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.palmas.to.leg.br.json",
+      "sha256": "a860dea8eb2e98dffd8f70b1b5208e092b67f43c8c32783a4d47cf2805d5c515"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.palmeirais.pi.leg.br.json",
+      "sha256": "e4e959c1cbc7d0e90c9ca6320c7530833733cc7011336f64db3c2a724ce93c20"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.parademinas.mg.leg.br.json",
+      "sha256": "5f5aed3a91392369de516abe8e5cc6aed89e71ba7ea8811f879c876cee400be0"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.parauapebas.pa.leg.br.json",
+      "sha256": "d07fc07d5e132d7cf97602f5dff27e65ba9ff852006848b3721a8b116c535e3e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.parintins.am.leg.br.json",
+      "sha256": "f2cc9679ce494b6b17f000d9ff3438c4bbe3202a7c95f829d2dff1e9f5224a71"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.parnamirim.rn.leg.br.json",
+      "sha256": "91ff6afb6a2046db93da15d1be7e2da7c6f1fe97bcb7213df4315038c1b56df2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.patrocinio.mg.leg.br.json",
+      "sha256": "650b9cc9618999871547f72d09cd84127db6b0c034781816e8c8a8fe412f09fa"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.patu.rn.leg.br.json",
+      "sha256": "518c7c964feba3fe625f7a4f84260affbfea52cefd0e1f9fcac328f1de87330f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.peixe.to.leg.br.json",
+      "sha256": "31c519535f02eae95fdffe2cf47652d47145369aeaf653b8e59781db58a8c9ee"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.pelotas.rs.leg.br.json",
+      "sha256": "37c13ce9e176dff39f01417366324c4d170c65bc63385c99d2efe8d25ceeeedd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.perdizes.mg.leg.br.json",
+      "sha256": "70b851ed1a7821e4a53c8bf0313e0790428322e6d15036d9894494da533e9727"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.piedade.sp.leg.br.json",
+      "sha256": "62f1e0d0314075c0ebbeb90cbfe73a30e4b337c2ffb9376aa48442972b8d25b0"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.pimentabueno.ro.leg.br.json",
+      "sha256": "f385ed1a268d55ea8cbd3ad89dea0374359c2097d6b9b481cd67fcf93c39c00c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.portonacional.to.leg.br.json",
+      "sha256": "14086b60479c30bbdfceccfbb7c50da3a5bc460d95c3db3bc46b6494a0191a82"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.portovelho.ro.leg.br.json",
+      "sha256": "010894581bb88dd35b936b6c1c55a52d6cb4c3257ebbc70b322a7a088c70278c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.ribasdoriopardo.ms.leg.br.json",
+      "sha256": "0b74ec987be2b60aaaa251ad02a55948ad530b7ca5128527842442b4814c294c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.riodasostras.rj.leg.br.json",
+      "sha256": "acafa4c46ece365601acd2bd226aeb77e649ecd96a495d590b3a0fe3d6f9b2ad"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.riodofogo.rn.leg.br.json",
+      "sha256": "7045e06672606a67ffbf9cc99b982563e0218df46ffc71681e8bd731675ccb60"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.riopomba.mg.leg.br.json",
+      "sha256": "228597c997418d95ac6eff9a4f847a7b4c5695bbf1da1e776af3eee51724aa87"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.rolimdemoura.ro.leg.br.json",
+      "sha256": "29d4c40c1059322acc94eca5c383ce1b5aa630b97664ff4074fec4c7ec075224"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.salmourao.sp.leg.br.json",
+      "sha256": "27c0b5bde6db706403e8eb17e088fae40ab17ded50f1f6bbc367969d76f1766d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.santabarbara.mg.leg.br.json",
+      "sha256": "fd3be9b0bc55c67e3085fdb0556576341283f424c673a0bca9f07ea926fea53d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.santacruzdocapibaribe.pe.leg.br.json",
+      "sha256": "64b1834c6a123bca11df488a14ce6e6a3c25059c44367a4a8f4bd50c4ae7154e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.santalucia.pr.leg.br.json",
+      "sha256": "306802b16bc28ed617a82e43ad35daa339c30bd4a6ad0e09649cfb8de7995b1e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.santarem.pa.leg.br.json",
+      "sha256": "78060c2abd6e9e09d7b4db8ba6c3a96f6591ee7592dca88943d8e697b1ba5e3e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.saobentodotrairi.rn.leg.br.json",
+      "sha256": "c4de53a6a7093f480526c68d82c82767d0634fa7c0b0a859ee47ca6fd22dc1a0"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.saofranciscodoguapore.ro.leg.br.json",
+      "sha256": "d504786513e8abe9f53c9744548a57009aea3fc5e4e7fc5072f9a6063e4f461e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.saojoaodaboavista.sp.leg.br.json",
+      "sha256": "07839498002879894a431ee902a06d169360a27b73400195fd245f86de0c764c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.saojosedobarreiro.sp.leg.br.json",
+      "sha256": "214f4d60349575e10763df5f7146e695c1ba49c09efdcd74c6e97aeeeb6cfdc9"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.saomateus.es.leg.br.json",
+      "sha256": "46be2d71eb5db192d2d8c9f5e09a83ef24be76571b3bf8e5a56c94c6b460c35b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.saomigueldoguapore.ro.leg.br.json",
+      "sha256": "8bbf0f0e92910ca34a735e2ea5161701fac71c28500e152700d93a624cb6661d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.saomigueldopassaquatro.go.leg.br.json",
+      "sha256": "f87f6091c8c2ea517f66d2513a4bf9dccd1909c9321428ba6acff670dd39b9e9"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.senadorjosebento.mg.leg.br.json",
+      "sha256": "02dc686ee6680bdf80d0c3c8d742f3813fbea5be3334e66b61931b4faa408795"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.serrana.sp.leg.br.json",
+      "sha256": "58a4c16fd1f0a111306b5f479c49f7164c0ddff719796a027eebf8d759508130"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.sertania.pe.leg.br.json",
+      "sha256": "ffecd16520bb925ed6bdabcbde7df53d9af1222140b342be0181d77aac5a4782"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.surubim.pe.leg.br.json",
+      "sha256": "8acaeeebc75063a59586932390e1212ac9fd517081a50863b10aeb69e9a80680"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.tangara.rn.leg.br.json",
+      "sha256": "a56cf82e4fb742fade448d9171d5dff47e429fc895c6b694b770e5de3e0833e9"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.timoteo.mg.leg.br.json",
+      "sha256": "7044225cd5ec7a3f6e9444fc3f2bad3bf736b936926b90b621e3331eb48961aa"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.tocantins.mg.leg.br.json",
+      "sha256": "5e2efb98d091cb375e9c56fe149df2372b0ec09b84bb4a3dbe3d26ea6b5b0929"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.tomazina.pr.leg.br.json",
+      "sha256": "5f3a8d3cb180957d60fb096c8c9726c4512b72f931f724a265570155fc652af4"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.unai.mg.leg.br.json",
+      "sha256": "232accc2393a9b8d917cb8b5437ab3028bdd944d3cf455472786df22dd299748"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.uruanademinas.mg.leg.br.json",
+      "sha256": "5762723767b5d6a42244a5d462238c0e9d891e53abb0d35ad0b3a265c5d40975"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.urupa.ro.leg.br.json",
+      "sha256": "d1414420fd00811735ffea8a95bbc689e0523e3de2e8cadc5611b189dd05149e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.vitoriadomearim.ma.leg.br.json",
+      "sha256": "b0d3e49dcf8c9bd3ce45967c00b3dc62cc2690cc5ebc219d96469f5ed3f67c1d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/host-sapl.xangrila.rs.leg.br.json",
+      "sha256": "da6299b9e73a90be276a19237e3a0db856d549b8d1a8e04b84de3415e161a3bd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/overlay.json",
+      "sha256": "eab5b26f18da04614cb69eb697e0585bee7ed96c61184d1a5ad803d4d139fe85"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-primeira-publicacao/retidos.paths.txt",
+      "sha256": "7c28171ef4484b3f3e28126d3eb7da45b53ff2a75a49d633def0910cd4a31fc1"
+    }
+  ],
+  "script_sha256": "30e490313763773d634ee4cbb0b2171f6d0aafbfbd1739c66d46cf4ff60e5e25"
+}

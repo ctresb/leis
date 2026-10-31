@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+  "metadados_unicos_observados": 49,
+  "total_api_declarado": 49,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 20,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/317d7358864a42791789295ddf01bb80776d14a5d1ea120d7e956024a3730d00.json",
+    "url": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "74235c440ea69fe25dcd88eafba626dfbb1644de7af2d759f7643d181be76956",
+    "bytes": 954,
+    "capturado_em": "2026-10-27T19:35:15.145560-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/af360a6b25ae7167fe01fe2862ed147a37638e26052474e81cf85193a9bc4050.json",
+    "url": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "67dc64f79724f2e184830e201c2a2cfd429f82d35d9f12bc57aad34cd91b916d",
+    "bytes": 789,
+    "capturado_em": "2026-10-27T19:35:14.273630-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/cafaa806bf65e71b5f93fbabe59ccff28bde5c1590ff8eba40205170d2a2e869.json",
+      "url": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c07cc7b5a26fea651b4b91cfb8fdc09cceaa5252a8ba5f31ccb5b4893764be8d",
+      "bytes": 32277,
+      "capturado_em": "2026-10-27T19:35:16.402804-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

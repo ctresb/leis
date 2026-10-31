@@ -1,0 +1,320 @@
+---
+titulo: "Lei Ordinária nº 2.357, de 20 de dezembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2357"
+data: "2006-12-20"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/1457"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/1456/text"
+sha256_fonte: "455b880560b9dbba65c8dcb0b5c450132d5474ad043033d0aa9208fd25927eba"
+sha256_texto: "f0ea4686098905fb837708023d77b5f3de1715347651de941b263660a096f800"
+capturado_em_fonte: "2026-10-27T21:44:13.287015-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.357, de 20 de dezembro de 2006
+
+DISPÕE SOBRE O CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL - CMAS, REVOGA A LEI MUNICIPAL Nº 1752 DE 23 DE SETEMBRO DE 1996 E, DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O Conselho Municipal de Assistência Social - CMAS, órgão criado pela Lei Municipal nº 1752 de 23 de setembro de 1996, passa a ter competência propositiva, consultiva, fiscalizadora, normativa e deliberativa no que se refere às matérias de sua área de atuação; e, composição paritária, sendo 50% (cinquenta por cento) de representantes institucionais e 50% (cinquenta por cento) de representantes da sociedade civil, na forma estabelecida na presente Lei.
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal de Assistência Social - CMAS:
+
+
+I –
+
+definir as prioridades da política de assistência social;
+
+
+II –
+
+estabelecer as diretrizes a serem observadas na elaboração do Plano Municipal de Assistência Social;
+
+
+III –
+
+aprovar a Política Municipal de Assistência Social;
+
+
+IV –
+
+atuar na formulação de estratégias e controle da execução da Política de Assistência Social;
+
+
+V –
+
+propor e acompanhar critérios para a programação e para as execuções financeiras e orçamentárias do Fundo Municipal de Assistência Social e fiscalizar a movimentação e a aplicação dos recursos;
+
+
+VI –
+
+acompanhar, avaliar e fiscalizar os serviços de Assistência prestados à população, pelos órgãos e entidades públicas e privadas do Município;
+
+
+VII –
+
+aprovar critérios de qualidade para o funcionamento dos serviços de assistência social, públicos e privados, no âmbito municipal;
+
+
+VIII –
+
+aprovar critérios para a celebração de contratos ou convênios entre o setor público e as entidades privadas que prestem serviços de assistência social no âmbito municipal;
+
+
+IX –
+
+apreciar previamente os contratos e convênios referidos no inciso anterior;
+
+
+X –
+
+elaborar e aprovar seu Regimento;
+
+
+XI –
+
+zelar pela efetivação do sistema descentralizado e participativo de assistência social;
+
+
+XII –
+
+convocar ordinariamente a cada 2 (dois) anos ou extraordinariamente por maioria absoluta de seus membros, a Conferência Municipal de Assistência Social, que terá a atribuição de avaliar a situação da assistência social e propor diretrizes para o aperfeiçoamento do Sistema;
+
+
+XIII –
+
+acompanhar e avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos programas e projetos aprovados; e
+
+
+XIV –
+
+aprovar critérios de concessão e valor dos benefícios eventuais.
+
+
+Art. 3º.
+
+Respeitada a proporcionalidade fixada no artigo 1º desta Lei, o Conselho Municipal de Assistência Social - CMAS será integrado por 12 (doze) membros titulares e respectivos suplentes, com a composição a seguir:
+
+
+I –
+
+06 (seis) membros do Poder Executivo Municipal e respectivo suplentes, assim discriminado:
+
+
+a)
+
+01 (um) representante da Secretaria Executiva de Programas Sociais - SEPROS;
+
+
+b)
+
+01 (um) representante da Secretaria Executiva de Educação - SEDUC;
+
+
+c)
+
+01 (um) representante da Secretaria Executiva de Saúde - SESA;
+
+
+d)
+
+01 (um) representante das Gerências Regionais;
+
+
+e)
+
+01 (um) representante da Secretaria Executiva de Cultura, Esportes e Lazer - SECEL; e
+
+
+f)
+
+01 (um) representante da Secretaria de Planejamento e Desenvolvimento Econômico e Ambiental - SEPLANDE.
+
+
+II –
+
+06 (seis) membros de entidades não governamentais e respectivos suplentes, representantes de usuários de serviços de Assistência Social, de prestadores de serviços e de entidades sociais, assim discriminados:
+
+
+a)
+
+01 (um) representante de Associações de Moradores;
+
+
+b)
+
+01 (um) representante de portadores de necessidades especiais;
+
+
+c)
+
+01 (um) representante de entidades de atendimento à criança e ao adolescente;
+
+
+d)
+
+01 (um) representante de associações de idosos;
+
+
+e)
+
+01 (um) representante de associação que preste assistência social no âmbito municipal; e
+
+
+f)
+
+01 (um) representante da área de Assistência Social que desenvolva trabalho no Município.
+
+
+Parágrafo único
+
+Somente será admitida a participação no Conselho Municipal de Assistência Social - CMAS de entidades juridicamente constituídas, em funcionamento regular e registradas há pelo menos 1 (um) ano no CMAS.
+
+
+Art. 4º.
+
+Os membros efetivos e suplentes do CMAS serão nomeados por Decreto do Poder Executivo Municipal, sendo:
+
+
+I –
+
+os representantes do Governo Municipal de livre escolha e indicação do Chefe do Poder Executivo;
+
+
+II –
+
+os representantes de usuários e de prestadores de serviços indicados por quem tiver delegação para tal;
+
+
+III –
+
+os representantes da área de assistência social indicados pelos Conselhos Regionais das respectivas categorias profissionais.
+
+
+Parágrafo único
+
+O mandato dos Conselheiros e Suplentes será de 2 (dois) anos, permitida 1 (uma) única recondução consecutiva.
+
+
+Art. 5º.
+
+As atividades dos membros do CMAS reger-se-ão pelas disposições a seguir:
+
+
+I –
+
+o exercício da função de Conselheiro é considerado serviço público relevante e não será remunerado;
+
+
+II –
+
+o Conselheiro será excluído do CMAS e substituído pelo respectivo suplente no caso de faltas injustificadas a 3 (três) reuniões consecutivas ou 5 (cinco) intercaladas.
+
+
+III –
+
+os membros do CMAS poderão ser substituídos mediante solicitação da entidade ou autoridade responsável, cuja formalização deverá ser dirigida à Presidência do CMAS e submetida à nomeação via decreto.
+
+
+IV –
+
+cada membro do CMAS terá direito a 1 (um) voto na sessão plenária.
+
+
+Art. 6º.
+
+O Conselho Municipal de Assistência Social - CMAS terá seu funcionamento regido por Regimento interno próprio, observadas as seguintes normas:
+
+
+I –
+
+plenário como órgão de deliberação máxima;
+
+
+II –
+
+as sessões plenárias serão realizadas ordinariamente a cada mês e extraordinariamente quando convocadas pelo Presidente ou por requerimento da maioria dos seus membros; e
+
+
+III –
+
+as decisões do CMAS serão consubstanciadas em resoluções.
+
+
+Art. 7º.
+
+A Secretaria Executiva de Programas Sociais - SEPROS prestará o apoio administrativo necessário ao funcionamento do CMAS.
+
+
+Art. 8º.
+
+Para melhor desempenho de suas funções, o CMAS poderá recorrer a pessoas e entidades, mediante os seguintes critérios:
+
+
+I –
+
+consideram-se colaboradoras do CMAS as instituições formadoras de recursos humanos para a assistência social e entidades representativas de profissionais e usuários de serviços de assistência social, sem embargo de sua condição de membro; e
+
+
+II –
+
+poderão ser convidadas pessoas ou instituições de notória especialização para assessorar o CMAS em assuntos específicos.
+
+
+Parágrafo único
+
+Fica criado o cargo comissionado de Secretário Executivo, nível CC4, a ser ocupado por ato de nomeação pelo Prefeito, após indicação do Conselho Municipal de Assistência Social - CMAS.
+
+
+Art. 9º.
+
+Todas as sessões do CMAS serão públicas e precedidas de ampla divulgação.
+
+
+Art. 10.
+
+No prazo de 90 (noventa) dias, contados a partir da publicação desta Lei, o CMAS alterará seu Regimento, fazendo-lhe as adaptações que se fizerem necessárias.
+
+
+Art. 11.
+
+Fica o Chefe do Poder Executivo autorizado a criar e manter crédito no percentual de 1% (um por cento), do valor bruto do orçamento do Fundo Municipal de Assistência Social - FMAS, para promover o funcionamento do Conselho e a capacitação dos seus membros.
+
+
+Art. 12.
+
+Respeitada a autonomia das unidades federadas, observar-se-á o cumprimento aos preceitos estabelecidos na Lei Federal nº 8742 de 07 de dezembro de 1993, a qual dispõe sobre a descentralização da Assistência Social.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 14.
+
+Ficam revogadas as disposições em contrário, em especial a Lei Municipal nº 1752, de 23 de setembro de 1996.
+
+
+Palácio Conde da Boa Vista, 20 de dezembro de 2006.
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+**Prefeito Municipal**
+

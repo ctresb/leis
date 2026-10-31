@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/alteracoes_realizadas_lei_organica_do_municipio_de_campos_belos.pdf da norma Lei Orgânica nº 1, de 10 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Alterações da Lei Organica Municipal",
+      "anexo_arquivo": "http://sapl.camposbelos.go.leg.br/media/sapl/public/anexonormajuridica/1990/1/alteracoes_realizadas_lei_organica_do_municipio_de_campos_belos.pdf",
+      "ano": 1990,
+      "norma": 207
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camposbelos.go.leg.br/8cf530cba58fec4ba3aea0c4b97769b6e3d52a788973f9b0e6599210e073a9e9.json",
+      "url": "https://sapl.camposbelos.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.camposbelos.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8fb704f03ddd676018815d6f32d4084db2e8acabc700aa138085b376e79306ba",
+      "bytes": 690,
+      "capturado_em": "2026-10-27T22:24:15.681622-03:00"
+    }
+  ]
+}

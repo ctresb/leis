@@ -1,0 +1,69 @@
+---
+titulo: "Lei Ordinária nº 1.866, de 07 de agosto de 1979"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1866"
+data: "1979-08-07"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1888"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2571/text"
+sha256_fonte: "879ea05313e5025bd1ad98deb2aa7584809c5f1a5eff7342cf7bfb4348593d58"
+sha256_texto: "f4b254246e4a78b593ac43486bb2473d982df0516921f389c4b1bc293acd09b0"
+capturado_em_fonte: "2026-10-27T18:53:42.986192-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.866, de 07 de agosto de 1979
+
+DISPÕE SOBRE PROLONGAMENTO DA RUA BARÃO DO RIO BRANCO DO, DESTA CIDADE, APROVADO PELA LEI Nº 1.710, DE 05 DE JULHO DE 1977.
+
+
+Eu, **ODEYR RAMOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Para execução parcial do plano de abertura do prolongamento da Rua Barão do Rio Branco, desta cidade, aprovado pela Lei nº 1.710, de 05 de julho de 1977, fica o Chefe do Executivo Municipal autorizado a:
+
+
+1
+
+receber em doação a área de terreno localizada nas proximidades da Rua Mareo Botteon, com 178,89m² (cento e setenta e oito metros quadrados e oitenta e nove decímetros), com 9,50m de frente para a referida via pública; 4,30m aos fundos; 25,92m do lado direito e 26,50m do lado esquerdo, avaliado em Cr$ 29.000.00 (vinte e nove mil cruzeiros), de propriedade de **VERGÍLIO CAVALHEIRO**;
+
+
+2
+
+exercer serviços de pavimentação asfáltico e de colocação de guias e sarjetas, de construção de fecho e de passeio, no lado direito da área acima descrita, avaliados em Cr$ 22.787,50 (vinte e dois mil, seiscentos e oitenta e sete cruzeiros e cinquenta centavos);
+
+
+3
+
+dar em ressarcimento, a **VIRGÍLIO CAVALHEIRO**, a importância de Cr$ 15.000,00 (quinze mil cruzeiros).
+
+
+Art. 2º.
+
+As despesas decorrentes da execução desta lei ocorrerão por conta da verba 6 – SERVIÇOS MUNICIPAIS – 6.10 – LOGRADOUROS PÚBLICOS – 10583231.13 / 4110 – Para desapropriações diversas, - do orçamento municipal vigente.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos sete de agosto de mil novecentos e setenta e nove.
+
+**ODEYR RAMOS Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos sete de agosto de mil novecentos e setenta e nove, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

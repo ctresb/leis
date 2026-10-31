@@ -1,0 +1,175 @@
+---
+titulo: "LEI Nº 1.372, DE 20 DE JULHO DE 2026."
+uf: "RO"
+municipio: "RIO CRESPO"
+tipo: "Lei Ordinária"
+numero: "1372"
+data: 2026-07-20
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 21/07/2026"
+data_publicacao: 2026-07-21
+codigo_identificador: "5D380BAE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116112_2026-07-20_fc8c33ba93511d0907b05ec95cb802e3.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1.372, DE 20 DE JULHO DE 2026.
+
+LEI Nº 1.372, DE 20 DE JULHO DE 2026.
+―Abre no orçamento vigente crédito adicional
+especial e da outras providências.‖
+O PREFEITO DO MUNICÍPIO DE RIO CRESPO, no uso da
+atribuição que lhe confere o art. 66, inciso IV, da Lei Orgânica
+Municipal, FAZ SABER que a Câmara Municipal aprova e ele
+sanciona a seguinte LEI:
+Art. 1º Fica aberto no orçamento vigente um crédito adicional no
+valor de R$409.725,00 (quatrocentos e nove mil, setecentos e vinte e
+cinco reais), destinado à Secretaria Municipal de Urbanismo,
+distribuído da seguinte forma:
+I – R$ 395.000,00 (trezentos e noventa e cinco mil reais),
+provenientes do Convênio nº375/2026/PGE-SEOS, oriundo de
+emenda parlamentar estadual do Deputado Lucas Torres, destinados à
+aquisição de uma camionete equipada com cesto aéreo;
+II – R$14.725,00 (quatorze mil, setecentos e vinte e cinco reais),
+provenientes de recursos de contrapartida do Município.
+Parágrafo Único. O crédito adicional de que trata este artigo será
+alocado nas seguintes dotações orçamentárias:
+Suplementação ( + ) 409.725,00
+Excesso
+02 05 01 Secretaria Municipal de Urbanismo e Meio Ambiente –
+SEMURMA
+384
+
+15.451.0004.1001.0002
+
+4.4.90.52.00
+1
+002 217
+
+URBANIZAMAIS - DESENVOLVIMENTO E
+395.000,00
+ORGANIZAÇÃO U
+URBANIZAÇÃO E INFRA-ESTRUTURA
+F.R.: 2050 1 701
+URBANA
+EQUIPAMENTOS
+E
+MATERIAL
+PERMANENTE
+Recursos do Exercício Corrente
+Convênio nº 375/2026/PGE-SEOSP - Lucas T
+
+―Abre no orçamento vigente crédito adicional
+especial e da outras providências.‖
+O PREFEITO DO MUNICÍPIO DE RIO CRESPO, no uso da
+atribuição que lhe confere o art. 66, inciso IV, da Lei Orgânica
+Municipal, FAZ SABER que a Câmara Municipal aprova e ele
+sanciona a seguinte LEI:
+Art. 1º - Fica aberto no orçamento vigente do Município um Crédito
+Adicional Especial no valor de R$ 358.095,10 (trezentos e cinquenta e
+oito mil, noventa e cinco reais e dez centavos), destinado à execução
+da obra de Construção de Cobertura para o Playground da Creche
+Carrossel Dourado, com recursos provenientes do Convênio nº
+367/2026/PGE-SEOSP, celebrado em decorrência de Emenda
+Parlamentar de iniciativa do Deputado Estadual Pedro
+Fernandes.
+§ 1º - O Crédito Adicional Especial de que trata o caput deste artigo
+será financiado da seguinte forma:
+– R$ 300.000,00 (trezentos mil reais), provenientes de transferência
+voluntária por meio do Convênio nº 367/2026/PGE-SEOSP, oriundos
+de Emenda Parlamentar;
+– R$ 58.095,10 (cinquenta e oito mil, noventa e cinco reais e dez
+centavos), correspondentes à contrapartida financeira do Município,
+custeada com recursos provenientes do superávit financeiro apurado
+no balanço patrimonial do exercício anterior.
+§ 2º - O crédito autorizado por esta Lei destina-se à criação e
+suplementação das dotações orçamentárias necessárias à execução da
+obra de que trata o caput deste artigo.
+Suplementação ( + ) 358.095,10 Excesso
+02 07 01 Secretaria Municipal de Educação
+386
+
+4.4.90.51.00
+1
+002 218
+
+385
+
+15.451.0004.1001.0002
+
+4.4.90.52.00
+2
+002 217
+
+URBANIZAMAIS - DESENVOLVIMENTO E
+14.725,00
+ORGANIZAÇÃO U
+URBANIZAÇÃO E INFRA-ESTRUTURA
+F.R.: 0 2 500
+URBANA
+EQUIPAMENTOS
+E
+MATERIAL
+PERMANENTE
+Recursos de Exercícios Anteriores
+Convênio nº 375/2026/PGE-SEOSP - Lucas T
+
+EDUCAÇÃO QUE TRANSFORMA –
+300.000,00
+FUTURO EM CONSTRUÇ
+GESTÃO DAS ATIVIDADES DO ENSINO
+F.R.: 2051 1 571
+INFANTIL
+OBRAS E INSTALAÇÕES
+Recursos do Exercício Corrente
+Convênio nº 367/2026/PGE-SEOSP - Pedro F
+
+Superávit Financeiro
+02 07 01 Secretaria Municipal de Educação
+387
+
+Superávit Financeiro
+02 05 01 Secretaria Municipal de Urbanismo e Meio Ambiente –
+SEMURMA
+
+12.365.0009.2045.0001
+
+12.365.0009.2045.0001
+
+4.4.90.51.00
+2
+002 218
+
+EDUCAÇÃO QUE
+TRANSFORMA –
+58.095,10
+FUTURO EM CONSTRUÇ
+GESTÃO DAS ATIVIDADES DO ENSINO
+F.R.: 0 2 500
+INFANTIL
+OBRAS E INSTALAÇÕES
+Recursos de Exercícios Anteriores
+Convênio nº 367/2026/PGE-SEOSP - Pedro F
+
+Art. 2º - O crédito aberto na forma do artigo anterior será coberto com
+recursos provenientes de:
+Excesso: 300.000,00
+Superávit Financeiro: 58.095,10
+Art. 3º - Esta Lei entra em vigor na data de sua publicação.
+
+Art. 2º O crédito aberto na forma do artigo anterior será coberto com
+recursos provenientes de:
+Excesso: 395.000,00
+
+Rio Crespo – RO, 20 de julho de 2026.
+
+www.diariomunicipal.com.br/arom
+
+146
+
+Rondônia , 21 de Julho de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4280
+EDER DA SILVA
+Prefeito Municipal de Rio Crespo – RO
+Publicado por:
+Edilaine Pereira Rodrigues

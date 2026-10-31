@@ -1,0 +1,66 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Especial, no valor de R$ 6.000.000,00 (seis milhões de reais) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a proceder à abertura de um Crédito Adicional Especial ao Orçamento Geral do Município, no valor de R$ 6.000.000,00 (seis milhões de reais), na forma abaixo especificada:
+
+<table><tbody><tr><td><strong>32</strong></td><td colspan="2"><strong>- INSTITUTO DE TRANSPORTES E TRÂNSITO DE FOZ DO IGUAÇU - FOZTRANS</strong></td></tr><tr><td>01</td><td colspan="2">- FOZTRANS</td></tr><tr><td>26 453 0710 2.280</td><td colspan="2">- Regime Emergencial de Operação e Custeio do Transporte Coletivo</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) - Exercício Corrente..</td><td>1.200.000,00</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>4.800.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>- TOTAL DO CRÉDITO ADICIONAL ESPECIAL </strong></td><td><strong>6.000.000,00</strong></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, e a seguir especificados:
+
+<table><tbody><tr><td><strong>02</strong></td><td colspan="2"><strong>- GABINETE DO PREFEITO</strong></td></tr><tr><td>01</td><td>- DIRETORIA DE GABINETE</td><td> </td></tr><tr><td>04 122 0010 2.003</td><td colspan="2">- Manutenção do Gabinete do Prefeito</td></tr><tr><td>3.3.90.33</td><td colspan="2">- Passagens e Despesas com Locomoção</td></tr><tr><td>1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente </td><td>200.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>04</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</strong></td></tr><tr><td>02</td><td>- DIRETORIA DE ADMINISTRAÇÃO</td><td> </td></tr><tr><td>04 122 0030 2.014</td><td colspan="2">- Custeio de Energia Elétrica, Água e Telefone</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente </td><td>1.000.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>04</strong></td><td><strong>- DIRETORIA DE GESTÃO DE PESSOAS</strong></td><td> </td></tr><tr><td>04 122 0030 2.017</td><td colspan="2">- Serviços de Menor Aprendiz</td></tr><tr><td>3.3.90.36</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Física</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>200.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>09</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE ESPORTE E LAZER</strong></td></tr><tr><td>02</td><td>- DIRETORIA TÉCNICA</td><td> </td></tr><tr><td>27 812 0540 2.082</td><td colspan="2">- Concessão de Bolsa Atleta</td></tr><tr><td>3.3.90.48</td><td colspan="2">- Outros Auxílios Financeiros a Pessoas Físicas</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>200.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>13</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE TURISMO E PROJETOS ESTRATÉGICOS</strong></td></tr><tr><td>03</td><td>- DIRETORIA DE PROMOÇÃO, MARKETING E EVENTOS DO TURISMO</td><td> </td></tr><tr><td>23 695 0610 2.123</td><td colspan="2">- Ações de Marketing</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>150.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>23 695 0610 2.128</td><td colspan="2">- Participação em Eventos Regionais, Nacionais e Internacionais</td></tr><tr><td>3.3.90.14</td><td colspan="2">- Diárias - Civil</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td>50.000,00</td></tr><tr><td>3.3.90.33</td><td colspan="2">- Passagens e Despesas com Locomoção</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td>100.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>100.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE CAPTAÇÃO DE INVESTIMENTOS, PROJETOS ESTRATÉGICOS E INOVAÇÃO</strong></td></tr><tr><td>23 695 0620 2.168</td><td colspan="2">- Manutenção das Ações e Atividades do Centro Municipal de Inovação</td></tr><tr><td>3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>25.000,00</td></tr><tr><td>3.3.90.31</td><td colspan="2">- Premiações Culturais, Artísticas, Científicas, Desportivas e Outras</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>25.000,00</td></tr><tr><td>3.3.90.35</td><td colspan="2">- Serviços de Consultoria</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>25.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>25.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>15</strong></td><td><strong>- SECRETARIA MUNICIPAL DE OBRAS</strong></td><td> </td></tr><tr><td>04</td><td>- DIRETORIA DE ILUMINAÇÃO PÚBLICA</td><td> </td></tr><tr><td>15 452 0150 2.141</td><td colspan="2">- Manutenção dos Serviços de Iluminação Pública</td></tr><tr><td>4.4.90.52</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>500.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>06</strong></td><td><strong>- DIRETORIA DE PRODUÇÃO ASFÁLTICA</strong></td><td> </td></tr><tr><td>15 451 0640 2.143</td><td colspan="2">- Usina de Asfalto - Manutenção de Pavimentação Asfáltica e Poliédrica</td></tr><tr><td>4.4.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>675.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>16</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE PLANEJAMENTO E CAPTAÇÃO DE RECURSOS</strong></td></tr><tr><td>01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>04 127 0160 1.055</td><td colspan="2">- Desapropriação e Aquisição de Áreas</td></tr><tr><td>4.4.90.61</td><td colspan="2">- Aquisição de Imóveis</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>400.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>18</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE MEIO AMBIENTE</strong></td></tr><tr><td>05</td><td>- DIRETORIA DE GESTÃO DE RESÍDUOS E EDUCAÇÃO AMBIENTAL</td><td> </td></tr><tr><td>15 452 0650 2.255</td><td colspan="2">- Serviços de Zeladoria Urbana</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>2.000.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>20</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE DESENVOLVIMENTO COMERCIAL, INDUSTRIAL E AGROPECUÁRIO</strong></td></tr><tr><td>02</td><td>- DIRETORIA DE AGROPECUÁRIA</td><td> </td></tr><tr><td>20 606 0660 2.175</td><td colspan="2">- Manutenção e Adequação das Estradas Rurais</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional </td><td>325.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>- TOTAL DA ANULAÇÃO </strong></td><td><strong>6.000.000,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 24 de fevereiro de 2022.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal
+
+Nilton Aparecido Bobato  
+Secretário Municipal da Administração
+
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda
+
+Licério Ferreira dos Santos  
+Diretor Superintendente do Instituto de Transportes e Trânsito de Foz do Iguaçu - FOZTRANS
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

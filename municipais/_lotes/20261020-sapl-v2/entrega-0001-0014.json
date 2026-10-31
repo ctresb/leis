@@ -1,0 +1,146 @@
+{
+  "lotes": [
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0001.paths.txt",
+      "sha256_lista": "28ec2a681f04d4fd7496ac31b90dd09eeadc063a5a1fa59a0bc96e381d9cfcc9",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0001.json",
+      "sha256_manifesto": "b31a20e14977d0216050fe1a1b9efcddf2cfe2bab9d9822bc3db6f91e873c8ed",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0001.auditoria-municipal.json",
+      "sha256_auditoria": "af7c4a136a073c627169d36809c62fbb9e68255df74313af6646a3687e2c2048",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0002.paths.txt",
+      "sha256_lista": "678caf7802f19c930357fcbde3265baa49cfc0ebdf38e0984ebf62b34a790348",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0002.json",
+      "sha256_manifesto": "cf63b592b200d5a829e5157f93923980104ba65925cc5e6137aef9e5a8c495b9",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0002.auditoria-municipal.json",
+      "sha256_auditoria": "a210419d925173f1544f7de24e8afffa3ef894365226178d734e71b39287c25b",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0003.paths.txt",
+      "sha256_lista": "a0a1601179cd47917d2fdbd73e4bb1f1747b213a346fe5279b8f06baf987f703",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0003.json",
+      "sha256_manifesto": "6a91c256ede1279e73c4d211315fbd0f9f88eea97b0e5f9703061a6783483713",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0003.auditoria-municipal.json",
+      "sha256_auditoria": "aa5c603f352434624928c6df70d0295276e3edf9486f5d88b3122989866a1b7d",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0004.paths.txt",
+      "sha256_lista": "1c993dc4b69b833050f055b4758ebdc1e121caed2730e8d20c11f91f2bbca88a",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0004.json",
+      "sha256_manifesto": "8587f7a71e8359c1a674e4b019833d20a9aab0f64f8f76737276db5919a7c0f6",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0004.auditoria-municipal.json",
+      "sha256_auditoria": "0f25ba980bbaecfc2c12de246cb1394b0f05b98233114124423318b8c7a44f0e",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0005.paths.txt",
+      "sha256_lista": "79087f90f9baf09940216de0fa20174eccd8ba8d9c1dde6001431a935e325a7b",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0005.json",
+      "sha256_manifesto": "90e2cbd41ad679593ecc474f96cefe760cd38acdb98f228b03902f1442e16490",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0005.auditoria-municipal.json",
+      "sha256_auditoria": "c6e64991f2f1680f1ebae76e0e9b5baacfea4b5e2def8fc2563fc9c69bdee7e7",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0006.paths.txt",
+      "sha256_lista": "8de288e3e707988fb572142141e631c5ff59e5ba5bd1502d4a443dd9807e5c30",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0006.json",
+      "sha256_manifesto": "17e63204dbe2c7cb194a492b6db90bbcc746ce9ceb41fad51f4307afb6c3fc32",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0006.auditoria-municipal.json",
+      "sha256_auditoria": "07385a26d76bb0d4e9100945a9adf77868cc91721acd691270e7e0b3670c8079",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0007.paths.txt",
+      "sha256_lista": "b2f7a6b6c33cbb84ff17046402ebf900904caf674ab5db4cc3950088041a9e9e",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0007.json",
+      "sha256_manifesto": "fd57f28347b82e6f67ee530a606dd86278ef5f9cdb1530c30162192893d70074",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0007.auditoria-municipal.json",
+      "sha256_auditoria": "fdb70c0a2405d03f5195b5fcda9b2b6a5c2c7c8b62915f57d8108f9cbb104f5f",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0008.paths.txt",
+      "sha256_lista": "2fa3431bb6d2cef8e88568b4628f0c7bb71d1cc56f816260ab1f53bf601c9f83",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0008.json",
+      "sha256_manifesto": "4c1b3e923e2ccecb7b115fd459e2b28d2db3cc9c1a46d87bfb807722cfac8bdd",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0008.auditoria-municipal.json",
+      "sha256_auditoria": "663124bf6fa6a0bed5ec8bf8b71f5d5c532c2f7eb4520664711f6095734638a1",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0009.paths.txt",
+      "sha256_lista": "efef64a2cbb736743a5bf400d81d55a4297de8e5740ec7fa64854ed2d93fccc2",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0009.json",
+      "sha256_manifesto": "f1df4596848ed8eec058e3f02bf1aaa38499cc08b89924a95f10727a83d04cdd",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0009.auditoria-municipal.json",
+      "sha256_auditoria": "900e94e66eb23a6b696e5c1de6a4a1daacd307390209896e9b7c344eb05f7756",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0010.paths.txt",
+      "sha256_lista": "42128949c363bea9f74cb36a725136a82dcb312ba76894174d9213f28a657dc8",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0010.json",
+      "sha256_manifesto": "abb8590e63f1e8489dd246bdbb3586eff39116c134c536bc5f836256133f696d",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0010.auditoria-municipal.json",
+      "sha256_auditoria": "fe8778b6148acc0b1985f6a2a5ec0cf293228609bea00a0e6cf615eb0ab38b20",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0011.paths.txt",
+      "sha256_lista": "3006df58101181b860e938bcaf5bda890baf6a7c051bf3c8d469f9dc1c22c28f",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0011.json",
+      "sha256_manifesto": "21b397c0741d75ec6549fb7fe80999fde0f09da0e5a967fd39c3443b53e0e5b6",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0011.auditoria-municipal.json",
+      "sha256_auditoria": "d7bcf9b0c770a552028f70f71dd2ef67b72ebf64bc72d8512219956bb2ec85b1",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0012.paths.txt",
+      "sha256_lista": "80fa8d9bd6a243501bf5c0e76bc7634f0f2d3d3ae89b43713081746f0ce0d08c",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0012.json",
+      "sha256_manifesto": "8501c34795230c4ebdc795efe014b8ac70f28a9cc675f621c3333d3f33b63ec3",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0012.auditoria-municipal.json",
+      "sha256_auditoria": "b198e4edb9fefc010a509d791561e4a4bf40ac3b4dc65dfadde7930e45f4a482",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0013.paths.txt",
+      "sha256_lista": "5c2ff22100757866cf0931b2e86bdb7eebc42a0de217de362b8c93892ba0c157",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0013.json",
+      "sha256_manifesto": "d7f8dc8d716faf0e97a9c265236756d12e48a2fb5a0479035617366cae3c2507",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0013.auditoria-municipal.json",
+      "sha256_auditoria": "9a344c11a41146df7b632a488e6d65335665ceb54dad163302ed0e086530df40",
+      "arquivos": 1000,
+      "problemas": 0
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-v2/lote-0014.paths.txt",
+      "sha256_lista": "846d7b233f55ae3b7570dc6ba19317abb4cb1281b41d0df177a1b24e3a7532da",
+      "manifesto": "municipais/_lotes/20261020-sapl-v2/lote-0014.json",
+      "sha256_manifesto": "f5f93f13b3683ee5ad864da2385fe9d72ced7101d1b7cdafe85a1796db2c6ab2",
+      "auditoria": "municipais/_lotes/20261020-sapl-v2/lote-0014.auditoria-municipal.json",
+      "sha256_auditoria": "990951fc645bfbe765382bb5df4820e4222a48f586cbb890b021eca6545685db",
+      "arquivos": 867,
+      "problemas": 0
+    }
+  ],
+  "aprovados": 13867,
+  "estado": "listas exatas imutáveis; não inclui retidos"
+}

@@ -1,0 +1,712 @@
+SISTEMA DE TECNOLOGIA DA INFORMAÇÃO – STI INSTRUÇÃO NORMATIVA n° 001/2019
+
+
+Dispõe sobre gerenciamento e controle dos recursos de tecnologia da informação pertencentes à Câmara Municipal De Cáceres
+
+
+**Versão: 1.0**
+
+**Unidade Setorial Responsável: Secretaria de Tecnologia da Informação**
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE CÁCERES/MT, no uso de suas atribuições legais, resolve baixar a seguinte Instrução Normativa:
+
+
+#### CAPÍTULO I — DA FINALIDADE
+
+
+Art. 1º.
+
+A presente Instrução Normativa dispõe sobre o gerenciamento e controle dos recursos de Tecnologia da Informação pertencentes à Câmara Municipal de Cáceres - CMC, especialmente no que se refere as rotinas de trabalho de utilização dos recursos computacionais, responsabilidades e obrigações visando à ética de utilização, confidencialidade, integridade e disponibilidade da informação, dentre outros, objetivando a implementação e padronização de procedimentos do Sistema de Tecnologia da Informação.
+
+
+#### CAPÍTULO II — DA ABRANGÊNCIA
+
+
+Art. 2º.
+
+Abrange todo o poder legislativo, todas as Secretarias e Gabinetes de Vereadores, os quais deverão adotar os procedimentos padrões ora estabelecidos no que se refere ao Sistema de Tecnologia da Informação (STI).
+
+
+#### CAPÍTULO III — DOS CONCEITOS
+
+
+Art. 3º.
+
+Para os fins desta Instrução Normativa considera-se:
+
+
+I –
+
+Ativo de informação: patrimônio de dados e informações gerados, manipulados ou descartados;
+
+
+II –
+
+Autenticação: é um processo que busca verificar a identidade digital do usuário de um sistema quando ele requisita um login (acesso) em um programa ou computador. O processo é realizado por meio de comparação das credenciais apresentadas pelo usuário com outra já predefinidas no sistema. Em resumo, tem a função de responder à questão “Quem é o usuário?”.
+
+
+III –
+
+Autorização: em segurança da informação, é o mecanismo responsável por garantir que apenas usuários autorizados utiliza os recursos protegidos de um sistema computacional. Resumindo, tem a função de definir o que o usuário já autenticado tem permissão para fazer.
+
+
+IV –
+
+Auditoria: ocorre a todo o momento que o usuário está autenticado no sistema, pois, coleta informações sobre a atividade do usuário e as envia para o servidor de autenticação, esse processo é realizado por meio de um equipamento na rede que implementa uma política de acesso.
+
+
+V –
+
+Área de Negócio: é uma área de conhecimento onde um sistema será desenvolvido, por exemplo: Setor de RH.
+
+
+VI –
+
+Categoria de usuários: classificação de usuários por nível de acesso às informações;
+
+
+VII –
+
+Confidencialidade: garantia de acesso ao ativo de informação por pessoas e entidades autorizadas;
+
+
+VIII –
+
+Contas de e-mail: recurso que permite compor, enviar e receber mensagens por meio eletrônico;
+
+
+IX –
+
+Diretrizes de TI: normas gerais que orientam a tomada de decisão;
+
+
+X –
+
+Disponibilidade: garantia de acesso aos ativos de informação e recursos tecnológicos;
+
+
+XI –
+
+Escalabilidade: capacidade que determinado equipamento possui para receber implementações;
+
+
+XII –
+
+Hardware: designação genérica de todo tipo de equipamento de informática;
+
+
+XIII –
+
+Integridade da informação: informação não corrompida;
+
+
+XIV –
+
+Internet: rede mundial de computadores, também conhecida por World Wide Web;
+
+
+XV –
+
+Plataforma: expressão utilizada para denominar a tecnologia empregada em determinada infraestrutura de TI ou telecomunicação;
+
+
+XVI –
+
+Políticas de TI: conjunto de orientações sobre a utilização da tecnologia da informação;
+
+
+XVII –
+
+Recurso tecnológico: são hardwares, softwares, ativos e passivos de rede;
+
+
+XVIII –
+
+Rede: conjunto de computadores interligados;
+
+
+XIX –
+
+Requisitos: são o conjunto de necessidades estabelecidas por um cliente ou por um usuário para definir a estrutura e o comportamento de um software que esteja sendo desenvolvido;
+
+
+XX –
+
+Segurança da informação: conjunto de medidas de controle e proteção das informações;
+
+
+XXI –
+
+Sistema: conjunto integrado de processos, hardware, software, recursos e pessoas;
+
+
+XXII –
+
+Software: programas, dados e rotinas desenvolvidos para computadores;
+
+
+XXIII –
+
+Soluções não proprietárias (Software Livre): software disponibilizado indiscriminadamente e sem custos;
+
+
+XXIV –
+
+Usuário: pessoa física ou jurídica que utiliza recursos tecnológicos.
+
+
+#### CAPÍTULO IV — DA BASE LEGAL
+
+
+Art. 4º.
+
+A presente Instrução Normativa integra o conjunto de ações, de responsabilidade do Chefe do Poder Legislativo, no sentido de atendimento aos princípios administrativos dispostos no artigo 37 da Constituição Federal.
+
+
+Art. 5º.
+
+Encontra-se amparo na Lei Federal nº 9.503/97, Lei Federal nº 8.429/92, Lei Federal nº 4.320/64, Constituição Federal, além de outras normas que venham assegurar o cumprimento dos princípios inerentes, bem como legislação municipal e disposições do Tribunal de Contas do Estado de Mato Grosso.
+
+
+#### CAPÍTULO V — DAS RESPONSABILIDADES
+
+
+Art. 6º.
+
+Compete a Secretaria de Tecnologia da Informação:
+
+
+I –
+
+Promover a divulgação e implementação desta Instrução Normativa mantendo-a atualizada, orientando as demais Unidades Executoras e supervisionar sua aplicação;
+
+
+II –
+
+Promover discussões técnicas com as demais Unidades Executoras e com a Unidade de Controle Interno a fim de definir as rotinas de trabalho e os respectivos procedimentos de controle que devem ser objeto de alteração, atualização ou expansão;
+
+
+III –
+
+Promover discussões técnicas com as unidades executoras e com a Unidade Central de Controle Interno, para definir as rotinas de trabalho e identificar os pontos de controle e respectivos procedimentos de controle, objetos da Instrução Normativa a ser elaborada;
+
+
+IV –
+
+Manter atualizada, orientar as áreas executoras e supervisionar a aplicação da Instrução Normativa;
+
+
+V –
+
+Promover o uso da informação e tecnologia da informação como instrumento estratégico de gestão e modernizador;
+
+
+VI –
+
+Promover a evolução, de forma coordenada, dos assuntos relacionados à informação e tecnologia da informação no âmbito da Administração Pública Municipal, visando à melhoria do desempenho das pessoas nos processos da organização;
+
+
+VII –
+
+Avaliar as mudanças impactantes na exposição dos recursos a riscos, identificando as principais ameaças;
+
+
+VIII –
+
+Analisar criticamente os incidentes de segurança da informação e ações corretivas correlatas;
+
+
+IX –
+
+Manter a Instrução Normativa à disposição de todos os funcionários da Unidade, zelando pelo seu fiel cumprimento;
+
+
+X –
+
+Conscientizar os usuários internos e colaboradores sob sua supervisão em relação aos conceitos e as práticas de segurança da informação;
+
+
+XI –
+
+Incorporar aos processos de trabalho e práticas inerentes à segurança da informação;
+
+
+XII –
+
+Comunicar ao superior imediato e a unidade competente em caso de comprometimento da segurança e quaisquer outras falhas, desvios ou violação das regras estabelecidas para adoção de medidas cabíveis;
+
+
+XIII –
+
+Manter e rever as Políticas e Diretrizes de TI;
+
+
+XIV –
+
+Sugerir soluções tecnológicas dentro de padrões aceitáveis de segurança, custo e qualidade;
+
+
+XV –
+
+Estabelecer padrões de plataforma (hardware e software) visando manter a escalabilidade do sistema;
+
+
+XVI –
+
+Sugerir a contratação de consultoria de TI;
+
+
+XVII –
+
+Fomentar o uso de soluções não proprietárias, livres de licenciamento e de código aberto, quando viável;
+
+
+XVIII –
+
+Verificar diariamente se os backups foram executados com êxito;
+
+
+XIX –
+
+Validar uma vez por semana o backup realizado no Servidor;
+
+
+XX –
+
+Prestar suporte aos usuários;
+
+
+XXI –
+
+Elaborar e implantar Políticas de Backup junto as áreas de negócios;
+
+
+XXII –
+
+Elaborar e implantar Políticas de Segurança;
+
+
+XXIII –
+
+Verificar diariamente se os serviços do Windows Server 2016 estão sendo executados;
+
+
+XXIV –
+
+Levantar que requisitos junto as áreas de negócios quando necessário; e
+
+
+XXV –
+
+Manutenção de PCs;
+
+
+Art. 7º.
+
+São responsabilidades dos usuários dos recursos tecnológicos:
+
+
+I –
+
+Conhecer a Política de TI;
+
+
+II –
+
+Identificar, classificar, armazenar e zelar pelas informações da rede institucional inerentes às suas atribuições;
+
+
+III –
+
+Informar ao líder da unidade ou superior hierárquico a perda de arquivos e quaisquer outras falhas, desvios ou violação das regras estabelecidas;
+
+
+IV –
+
+Manter a confidencialidade das informações de natureza sigilosa;
+
+
+V –
+
+Manter em caráter confidencial e intransferível a senha de acesso aos recursos tecnológicos e de informação da organização;
+
+
+VI –
+
+Utilizar os recursos tecnológicos exclusivamente a serviço da CMC, respeitando as normas éticas e de segurança;
+
+
+VII –
+
+Respeitar o limite de acesso físico e lógico da categoria de usuários;
+
+
+VIII –
+
+Utilizar exclusivamente o serviço de e-mail da CMC;
+
+
+IX –
+
+Solicitar as demandas de sistemas de acordo com a metodologia de desenvolvimento de sistemas – MDS;
+
+
+X –
+
+Comunicar a Secretaria de Recursos Humanos transferência, demissão, exoneração, aposentadoria, afastamentos, férias de usuários para a alteração, liberação ou bloqueio de acesso, contas de usuário, conforme o caso;
+
+
+XI –
+
+Solicitar por e-mail diretor.ti@caceres.mt.leg.br o acesso ao dispositivo de rede, sendo que a violação deste termo resultará em implicações legais.
+
+
+Art. 8º.
+
+É expressamente vedado ao usuário:
+
+
+I –
+
+Adicionar, modificar ou remover quaisquer recursos tecnológicos sem recomendação técnica do setor de Tecnologia;
+
+
+II –
+
+Acessar, armazenar, copiar e/ou distribuir programas e/ou qualquer material que viole a lei;
+
+
+III –
+
+Violar os sistemas de segurança dos recursos tecnológicos;
+
+
+IV –
+
+Armazenar os arquivos de multimídia não relacionadas à CMC no Servidor;
+
+
+#### CAPÍTULO VI — DOS PROCEDIMENTOS
+
+
+##### Seção I — Das Obrigações e Permissões dos Usuários
+
+
+Art. 9º.
+
+As informações devem ser classificadas de acordo com um sistema próprio, determinado pela necessidade de sigilo, confidencialidade e disponibilidade, para garantir o armazenamento, a proteção de acesso e o uso adequado.
+
+
+Art. 10.
+
+Deverão ser realizadas auditorias periódicas dos ativos, de forma a aferir o correto cumprimento da Política de Segurança da Informação.
+
+
+##### Seção II — Das Contas de Acesso
+
+
+Art. 11.
+
+O setor de Recursos Humanos deverá encaminhar solicitação, ao e-mail diretor.ti@caceres.mt.leg.br, referente à concessão de acesso na rede para usuários novos. Esse acesso dará somente o privilégio de utilizar os computadores e acessar a internet da rede corporativa da CMC.
+
+
+Art. 12.
+
+Os diretores das Secretarias deverão encaminhar solicitação, ao e-mail diretor.ti@caceres.mt.leg.br, referente à concessão ou revogação de acesso de sistemas e pastas. No e-mail deverá de conter o tipo (leitura, escrita, apagar e modificar) de acesso, o nome do sistema e módulo e nome da pasta.
+
+
+Art. 13.
+
+O setor de Recursos Humanos deverá encaminhar solicitação, ao e-mail diretor.ti@caceres.mt.leg.br, referente à desativação de acesso.
+
+
+Art. 14.
+
+Ao receber a conta de acesso, o usuário e/ou colaborador deverá assinar e cientificar Termo de Responsabilidade de Utilização de recursos de tecnologia da informação da CMC, conforme o Anexo I e II.
+
+
+Art. 15.
+
+Mudança de lotação, atribuições, afastamento definitivo ou temporário do usuário, deverão ser imediatamente comunicados a Secretaria de Informática pelo diretor da Secretaria, para procedimentos de ajustes ou cancelamento dê conta de acesso, cabendo a este Diretrizes o ônus por qualquer uso indevido da credencial do usuário decorrente da não comunicação de algum dos eventos tratados neste item.
+
+
+Art. 16.
+
+Toda conta de acesso é atribuída a uma única pessoa e será de responsabilidade e uso exclusivo de seu titular, não podendo esse permitir ou colaborar com o acesso aos recursos computacionais por parte de pessoas não autorizadas e nem compartilhar com outros usuários.
+
+
+Art. 17.
+
+O perfil de acesso dos usuários aos aplicativos e sistemas será o necessário para o desempenho de suas atividades, e definido pelo Diretor da Secretaria a qual está alocado.
+
+
+Art. 18.
+
+O usuário será responsável pela segurança de sua conta de acesso e senha, pelas informações armazenadas nos equipamentos dos quais faz uso e por qualquer atividade neles desenvolvida.
+
+
+Art. 19.
+
+As contas de acesso dos prestadores de serviços e servidores temporários deverão ser automaticamente bloqueadas na data do término do contrato.
+
+
+##### Seção III — Das Estações de Trabalho e Componentes
+
+
+Art. 20.
+
+O usuário deverá executar somente tarefas e aplicações que estejam dentro do escopo de trabalho de seu departamento, utilizando os programas e equipamentos com zelo e responsabilidade.
+
+
+Art. 21.
+
+Caberá aos usuários comunicar imediatamente a Administração quaisquer problemas que venham ocorrer, bem como relatar qualquer suspeita de uso inadequado dos recursos computacionais.
+
+
+Art. 22.
+
+Não será permitido aos usuários alterar, configurar ou remanejar estações de trabalho e periféricos de seus locais de instalação sem o conhecimento do Departamento de Informática.
+
+
+Art. 23.
+
+Os usuários que utilizarem de Notebook para efetuar suas tarefas só poderão retirá-lo das instalações da CMC a fim de executar trabalhos em pró da CMC.
+
+
+Art. 24.
+
+Os usuários, a menos que tenham uma autorização específica para esse fim, não poderão tentar, permitir ou causar qualquer alteração ou destruição de ambientes operacionais, dados ou equipamentos de processamento ou comunicações instalados na administração da CMC.
+
+
+Art. 25.
+
+Com exceção das estações de trabalho e estabilizadores, os usuários não poderão ligar ou desligar fisicamente ou eletricamente equipamentos da administração da CMC sem autorização prévia do Diretor da Secretaria e/ou responsável pelo Departamento de Informática, especialmente os equipamentos de rede, como Switches e Hubs.
+
+
+Art. 26.
+
+Não será permitida a utilização dos recursos computacionais para benefício próprio ou de terceiros, direto ou indireto sem a liberação do diretor da Secretaria, sujeitando-se o infrator a imediata suspensão de sua chave de acesso, sem prejuízo da aplicação das demais penalidades cabíveis previstas no Estatuto dos Servidores Municipais.
+
+
+Art. 27.
+
+Não deverão colocar objetos sobre os equipamentos de forma a prejudicar o seu sistema de ventilação, assim como manipular líquidos, alimentos ou substâncias que possam ocasionar danos quando os estiver operando.
+
+
+Art. 28.
+
+O usuário deverá encerrar sua sessão (desligar ou suspender) na estação de trabalho ao término de suas atividades. No entanto, os que optarem por suspender a estação deverá desligá-la todas as sextas férias ao término do trabalho.
+
+
+##### Seção IV — Dos Programas e Softwares
+
+
+Art. 29.
+
+Não será permitido carregar e executar qualquer tipo de jogos, áudios ou vídeos bem como armazenar tais arquivos no servidor que não sejam compatíveis com as atividades desenvolvidas pelo Setor.
+
+
+Art. 30.
+
+30 De forma a zelar pela segurança do seu computador, sempre que o programa de antivírus enviar mensagem informando que algum arquivo está infectado por vírus, o usuário deverá informar imediatamente ao Departamento de Informática.
+
+
+Art. 31.
+
+Não será permitido o uso, para fins particulares ou de recreação, de serviços que sobrecarreguem a rede computacional tais como: páginas de animação, visualização de apresentações, entre outros.
+
+
+##### Seção V — Da Internet
+
+
+Art. 32.
+
+Será inaceitável utilizar-se dos serviços internos de Internet desvirtuando sua finalidade, com o intuito de cometer fraudes.
+
+
+Art. 33.
+
+Ficará proibido visualizar, criar, postar, carregar ou encaminhar quaisquer arquivos ou mensagens de conteúdos abusivos, obscenos, insultuosos, sexualmente tendenciosos, pornográficos, ofensivos, difamatórios, agressivos, ameaçadores, vulgares, racistas, de apologia ao uso de drogas, de incentivo à violência ou outro material que possa violar qualquer lei aplicável.
+
+
+Art. 34.
+
+Não será permitido desfrutar de quaisquer ferramentas Peer-to- Peer para baixar músicas, vídeos ou jogos, tais como: E-Mule, Kazaa, IMesh, Audio Galaxy, WinMX, Gnutella e outros, exceto se o acesso for necessário para realização das atividades do Setor, e devidamente justificado pelo Diretor da Secretaria ao Departamento de Informática.
+
+
+Art. 35.
+
+Ficará proibido utilizar ferramentas que burlam a segurança, para usufruir serviços que não lhes são concebidos.
+
+
+##### Seção VI — Do Armazenamento de Documentos e Informações
+
+
+Art. 36.
+
+O usuário deverá manter sigilo sobre os documentos e informações considerados estratégicos, confidenciais ou de interesse institucional da CMC.
+
+
+Art. 37.
+
+Os documentos e informações geradas pelos usuários referentes às rotinas de trabalho, no que diz respeito a alterações, gravações e leituras, são de inteira responsabilidade dos usuários do arquivo.
+
+
+Art. 38.
+
+O usuário ao salvar ou criar pasta no Servidor deverá atribuir nomes curtos e sem caracteres especiais, pois nome longo não faz backup, pode correr o risco de não abrir, de perder os documentos e se isso acontecer não tem mais como recuperar.
+
+
+##### Seção VII — Advertências e Penalidades
+
+
+Art. 39.
+
+Os usuários deverão estar cientes das regras e normas de uso dos recursos computacionais, evitando, desse modo, os procedimentos que prejudicam ou impedem outras pessoas de terem acesso a esses recursos ou de usá-los de acordo com o que é determinado.
+
+
+Art. 40.
+
+Todo servidor que tiver conhecimento de ato ilícito praticado no uso dos recursos computacionais, assim como qualquer comportamento considerado inaceitável ou suspeito de violação dessas normas, deverá comunicar o fato imediatamente ao seu superior imediato, ao Controle Interno e/ou Departamento de Informática.
+
+
+Art. 41.
+
+No acesso aos dados e recursos computacionais será garantido o maior grau possível de confidencialidade no tratamento das informações, de acordo com as tecnologias disponíveis na CMC.
+
+
+Art. 42.
+
+Sempre que julgar necessário para a preservação da integridade dos recursos computacionais e segurança da informação ou em caso de constatação e identificação de não conformidade às normas, o Departamento de Informática fará imediatamente o bloqueio temporário da conta de acesso e comunicará o superior imediato o teor da infração e o nome do responsável para que sejam tomadas as medidas cabíveis para a apuração dos fatos.
+
+
+#### CAPÍTULO VII — CONSIDERAÇÕES FINAIS
+
+
+Art. 43.
+
+O não atendimento do disposto nesta Instrução Normativa constitui omissão de dever funcional e importará na aplicação de penalidades ao responsável na forma prevista em lei.
+
+
+Art. 44.
+
+Os titulares das unidades integrantes da estrutura organizacional do Legislativo Municipal de Cáceres se obrigam a velar pelo fiel cumprimento, por parte de seus subordinados, dos procedimentos estabelecidos nesta Instrução Normativa
+
+
+Art. 45.
+
+Os esclarecimentos adicionais a respeito deste documento poderão ser obtidos junto a Unidade de Controle Interno que, por sua vez, através de procedimentos de checagem (visitas de rotinas) ou auditoria interna, poderá aferir a fiel observância de seus dispositivos por parte das unidades da estrutura organizacional.
+
+
+Art. 46.
+
+Esta Instrução Normativa entra em vigor a partir da data de sua publicação.
+
+
+Cáceres/MT, 20 de dezembro de 2019.
+
+Rubens Macedo
+
+Presidente da Câmara Municipal de Cáceres
+
+
+## Anexo I — TERMO DE RESPONSABILIDADE DE UTILIZAÇÃO DE ATIVOS E RECURSOS DE INFORMÁTICA DA CÂMARA MUNICIPAL DE CÁCERES
+
+
+NOME: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+RG: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+MATRÍCULA: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+SETOR: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Eu,\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, pelo presente instrumento, na condição de servidor(a) e/ou colaborador(a) da Câmara Municipal de Cáceres, comprometo-me a cumprir todas as orientações e determinações a seguir especificadas e outras editadas, em função do vínculo jurídico e funcional que tenho com a Câmara Municipal de Cáceres, bem como com as informações pertencentes à Instituição, ou por ela custodiadas, em razão da permissão de acesso aos recursos necessários para a execução de minhas atividades profissionais, estando ciente, de acordo, aderente e responsável que:
+
+Devo obedecer, cumprir e respeitar, as políticas, diretrizes, normas e procedimentos de Segurança da Informação da Câmara Municipal de Cáceres, publicadas e armazenadas nos meios de comunicação internos que regem o uso dos recursos a mim disponibilizados, sejam estes digitais ou impressos; bem como o manuseio das informações a que tenho acesso, ou possa vir a ter, em decorrência da execução de minhas atividades profissionais;
+
+Qualquer meio de acesso a informações ou instalações, como identificador de usuário (login), senhas de acesso a sistemas, aplicativos, internet, intranet, cartão de assinatura digital, conta para acesso a correio eletrônico, crachás, cartões, chaves que a Câmara Municipal de Cáceres me conferiu ou vier a me conferir são individuais, intransferíveis, estarão sob minha custódia e serão utilizados exclusivamente no cumprimento de minhas responsabilidades funcionais perante a Instituição, devendo ser por mim devolvidos ou disponibilizados em caso de exoneração, desligamento ou mudança de função;
+
+Os acessos à internet e à conta de correio eletrônico por meio dos recursos da Câmara Municipal de Cáceres, devem ser utilizados única e exclusivamente para a realização de atividades ligadas privativamente às atividades institucionais e vinculadas às minhas atribuições.  
+Não devo adquirir, reproduzir, instalar, utilizar e/ou distribuir cópias não autorizadas de softwares ou programas aplicativos;
+
+Não é permitida a saída de informações ou dados da Câmara Municipal de Cáceres, quer estas sejam em meios magnéticos fitas, HD externos, pen drives, dentre outros) ou em meios físicos (papel etc.) sem o conhecimento e autorização do responsável pela Secretaria.  
+Todos os recursos de tecnologia da informação a mim disponibilizados são para fins relacionados única e exclusivamente às minhas atividades profissionais, assim sendo, é proibido o uso destes recursos para outros fins;
+
+Em caso de utilização de acesso remoto, devidamente autorizado, aos recursos da Câmara Municipal de Cáceres para a execução de minhas atividades profissionais, devo manusear as informações obedecendo aos mesmos critérios de segurança exigidos nas instalações internas para o desempenho de minha função.
+
+Estou ciente que devo zelar pela segurança, pelo uso correto e pela manutenção adequada dos equipamentos existentes no âmbito institucional, compreendendo entre outros aspectos:
+
+Jamais deixar equipamento de minha utilização ativo sem antes bloquear seu acesso ou desativar a senha;
+
+Jamais emprestar minha senha ou utilizar a senha de terceiros;
+
+Solicitar desativação da conta ou bloqueio de minha senha quando me ausentar por longo período;
+
+Não utilizar software que não tenha licença;
+
+Efetuar o descarte das informações de forma a impedir o seu resgate, independentemente do meio de armazenamento na qual a informação se encontra;
+
+Reconheço que a lista acima é meramente exemplificativa e ilustrativa e que outras hipóteses de confidencialidade que já existam ou que venham a surgir, devem ser consideradas e mantidas em segredo, e que em caso de dúvida acerca da confidencialidade de determinada informação, devo tratar a mesma sob sigilo até que venha a ser autorizado a tratá-la diferentemente pelo órgão responsável.
+
+Descumprindo os compromissos por mim assumidos neste Termo estarei sujeito às sanções aplicáveis.
+
+Câmara Municipal de Cáceres, \_\_\_\_de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ de \_\_\_\_\_\_\_.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Assinatura do Servidor
+
+
+## Anexo II — TERMO DE USO DE ACESSO À INTERNET
+
+
+Para utilizar a rede disponibilizado pela CÂMARA MUNICIPAL DE CÁCERES para acesso à Internet, o USUÁRIO expressamente aceita, sem reservas ou ressalvas, todas as condições abaixo descritas.
+
+A internet disponibilizada pela CÂMARA MUNICIPAL DE CÁCERES permite acesso a sites na internet (somente http e https), envio e recebimento de mensagens instantâneas através de aplicativos públicos e a utilização de correio eletrônico.
+
+O USUÁRIO não poderá compartilhar senha.
+
+O USUÁRIO não poderá utilizar da internet disponibilizado pela CÂMARA MUNICIPAL DE CÁCERES para acessar, propagar ou manter portal ou site(s) na internet com conteúdo que:
+
+Violem a lei ou não sejam autorizados;
+
+Ofendam os direitos à honra, à vida privada, à imagem, à intimidade pessoal e familiar de quem quer que seja, assim como a propriedade intelectual;
+
+Estimulem a prática de condutas contrárias à moral e aos bons costumes;
+
+Incitem a prática de atos discriminatórios, seja em razão de sexo, raça, religião, crença, idade, ideologia ou qualquer outra condição;
+
+Coloquem à disposição ou possibilitem o acesso às mensagens, produtos ou serviços ilícitos, inapropriados, difamatórios, violentos, obscenos e pornográficos;
+
+Induzam ou incitem práticas perigosas, de risco ou nocivas para a saúde e para o equilíbrio psíquico;
+
+Sejam falsos, ambíguos, inexatos, exagerados ou extemporâneos, de forma que possam induzir a erro sobre seu objeto ou sobre as intenções ou propósitos do comunicador;
+
+Violem o sigilo das comunicações;
+
+Constituam publicidade ilícita, enganosa ou desleal, em geral, que configurem concorrência desleal e/ou denominados "spam-mails";
+
+Veiculem, incitem ou estimulem a pedofilia; e/ou,
+
+Incorporem vírus ou outros elementos físicos ou eletrônicos que possam danificar ou impedir o normal funcionamento da rede, do sistema ou dos equipamentos (hardware e software) de terceiros ou que possam danificar os documentos eletrônicos e arquivos armazenados nestes equipamentos.
+
+A CÂMARA MUNICIPAL DE CÁCERES não se responsabiliza, direta ou indiretamente, por quaisquer despesas, danos ou perdas que sejam efetivas ou alegadamente causados por quaisquer conteúdos, produtos ou serviços disponíveis em sites de terceiros ou recursos externos, não garantindo a perfeição, qualidade, veracidade, adequação, utilidade ou segurança do conteúdo ou de qualquer serviço oferecido na internet, inclusive, mas não se limitando a, serviços envolvendo compra e/ou venda, investimentos, seguros, aplicações, transferências de valores e demais operações financeiras, ou pela utilização ou confiança depositada pelo USUÁRIO em tais conteúdos, produtos ou serviços.
+
+Embora A CÂMARA MUNICIPAL DE CÁCERES utilize tecnologias e empenhe seus maiores esforços, não há condições de controle que garanta a ausência de vírus nos conteúdos transmitidos, difundidos, armazenados, recebidos, obtidos, colocados à disposição, ou acessíveis por meio da utilização da internet nem a ausência de outros elementos que possam produzir alterações no equipamento do USUÁRIO ou nos documentos eletrônicos e pastas armazenadas ou transmitidas desde o equipamento do USUÁRIO.
+
+Assim, A CÂMARA MUNICIPAL DE CÁCERES SE EXIME DE QUALQUER RESPONSABILIDADE PELOS DANOS E PREJUÍZOS DE QUALQUER NATUREZA QUE POSSAM DECORRER DA PRESENÇA DE VÍRUS OU DE OUTROS ELEMENTOS NOCIVOS NOS CONTEÚDOS DA INTERNET E QUE, DESTA FORMA, POSSAM PRODUZIR ALTERAÇÕES E/ OU DANOS NO SISTEMA FÍSICO E/ OU ELETRÔNICO DOS EQUIPAMENTOS DO USUÁRIO.
+
+A CÂMARA MUNICIPAL DE CÁCERES não tem obrigação de controlar e não controla o conteúdo e natureza dos conteúdos transmitidos, difundidos ou postos à disposição de terceiros pelos USUÁRIOS através do Wi-Fi. INDEPENDENTE DISSO, A CÂMARA MUNICIPAL DE CÁCERES TERÁ O DIREITO DE REVISAR, A QUALQUER MOMENTO E SEM AVISO PRÉVIO, POR PRÓPRIA INICIATIVA, A SEU CRITÉRIO OU A PEDIDO DE TERCEIRO, OS CONTEÚDOS TRANSMITIDOS, DIFUNDIDOS OU POSTOS À DISPOSIÇÃO DE TERCEIROS PELOS USUÁRIOS ATRAVÉS DO WI-FI E IMPEDIR SUA TRANSMISSÃO, DIFUSÃO OU COLOCAÇÃO A DISPOSIÇÃO DE TERCEIROS, QUANDO ESSES CONTEÚDOS ESTIVEREM EM DESACORDO COM O DISPOSTO NESTE TERMO.
+
+AO CHECAR O ITEM “EU CONCORDO COM OS TERMOS DE USO” SIGNIFICA QUE VOCÊ (USUÁRIO):
+
+LEU E COMPREENDEU TODO O CONTEÚDO DESTE TERMO;
+
+ESTÁ DE PLENO ACORDO COM TODAS AS CONDIÇÕES DESTE TERMO;
+
+E, TEM CAPACIDADE LEGAL PARA SE RESPONSABILIZAR PELAS OBRIGAÇÕES AQUI ASSUMIDAS.
+
+Câmara Municipal de Cáceres, \_\_\_\_de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ de \_\_\_\_\_\_\_.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Assinatura do Servidor

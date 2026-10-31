@@ -1,0 +1,42 @@
+{
+  "host": "sapl.barrinha.sp.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barrinha.sp.leg.br/be0ac1eb0196faf408c0de3822d2ee4edc3f4c5066e4b6c710bc35d67db4abee.json",
+    "url": "https://sapl.barrinha.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.barrinha.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a1a5e99cd9a87df018f605f736466418605ac8fdb59dcef2ad456a32e4382b6a",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:15:45.275027-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barrinha.sp.leg.br/d7601657cc837b0746b5dd2b3256845593b2f5f1411b508bdc31286a65df53aa.json",
+    "url": "https://sapl.barrinha.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.barrinha.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "03afc577c9720957f4eb817940327e9a2b161c1f4d2fa9f6d43279a0a1ed961e",
+    "bytes": 738,
+    "capturado_em": "2026-10-27T17:15:44.454851-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barrinha.sp.leg.br/2626194fbf46be5649c4331de9bcd88d5ab9e6c5ad587d05ae76d69774f54ffe.json",
+      "url": "https://sapl.barrinha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.barrinha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T17:15:47.307837-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

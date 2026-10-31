@@ -1,0 +1,528 @@
+---
+titulo: "04 - Lei Ordinária nº 760, de 23 de abril de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "760"
+data: "2012-04-23"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2026-01-29; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1021"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1019/text"
+sha256_fonte: "d755ef8d05a6fdbae48904c17fd64256014f495b178ec9d5858dafcbaaa2fdec"
+sha256_texto: "f265ce6b377476d7c87acf7f3b377152499ce7e7032cbadc6ebdcb02abeb76d3"
+capturado_em_fonte: "2026-10-28T06:13:56.702008-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 760, de 23 de abril de 2012
+
+Dispõe sobre a criação do Conselho Municipal dos Direitos da Mulher de Corbélia, e dá outras providências.
+
+
+Faço saber que a CÂMARA MUNICIPAL DE VEREADORES DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a política municipal dos direitos da mulher.
+
+
+Art. 2º.
+
+Fica criado o Conselho Municipal dos Direitos da Mulher, também identificado pela sigla CMDM, que será órgão permanente, paritário, deliberativo, controlador, consultivo e fiscalizador da política de defesa dos direitos da mulher.
+
+
+Art. 3º.
+
+O Conselho Municipal dos Direitos da Mulher terá como finalidade assegurar à mulher o exercício pleno de sua participação no desenvolvimento social, econômico, político e cultural da sociedade.
+
+
+Art. 4º.
+
+O Conselho Municipal dos Direitos da Mulher terá como objetivos:
+
+
+I –
+
+cooperar com os órgãos governamentais e não-governamentais na elaboração e no acompanhamento de políticas públicas que visem à ampliação da participação da mulher;
+
+
+II –
+
+defender a manutenção e expansão dos serviços e/ou programas de combate à exploração sexual e à violência contra a mulher, de atenção à saúde e aos direitos reprodutivos e à educação inclusiva;
+
+
+III –
+
+incentivar e acompanhar a execução de programas que priorizem a questão de gênero;
+
+
+IV –
+
+incentivar e apoiar a participação da mulher nas diversas entidades comunitárias, estimulando sua organização social e política;
+
+
+V –
+
+defender os direitos da mulher, fiscalizando e fazendo cumprir a legislação pertinente;
+
+
+VI –
+
+incentivar a criação de redes sociais de apoio à mulher e ao filho, tais como casasabrigo, creches, centros de referência e assemelhados;
+
+
+VII –
+
+promover e desenvolver estudos, debates, cursos e pesquisas relativas à mulher e eqüidade de gênero;
+
+
+VIII –
+
+propor e apoiar políticas que visem a eliminar a discriminação da mulher, assegurando-lhe condições de liberdade e igualdade de direitos;
+
+
+IX –
+
+monitorar a aplicação no Município do Plano de Políticas para Mulheres.
+
+
+Art. 5º.
+
+O Conselho Municipal dos Direitos da Mulher ficará vinculado a Secretaria de Ação Social do Município de Corbélia.
+
+
+Art. 6º.
+
+Compete ao CMDM:
+
+
+I –
+
+deliberar e definir acerca da política municipal dos direitos da mulher, em consonância com as diretrizes estabelecidas pelos Conselhos Estadual e Nacional dos Direitos da Mulher;
+
+
+II –
+
+apreciar e aprovar o Plano Municipal de Políticas para a Mulher;
+
+
+III –
+
+normatizar as ações e regular a prestação de serviços de natureza pública e privada, relativas a essa Lei, a garantia dos direitos da mulher e da eqüidade de gênero;
+
+
+IV –
+
+zelar pela efetivação dos programas e projetos de garantia de proteção à mulher;
+
+
+V –
+
+estabelecer prioridades de atuação e de definição da aplicação dos recursos públicos federais, estadual e municipal destinados às políticas para mulheres no Município;
+
+
+VI –
+
+eleger, por voto direto, dentre os membros do Conselho, a sua Diretoria Executiva;
+
+
+VII –
+
+assessorar o governo municipal, emitir pareceres e acompanhar a elaboração e execução de programas relativos aos direitos da mulher e à eqüidade de gênero;
+
+
+VIII –
+
+encaminhar ao Executivo propostas sobre direitos da mulher e eqüidade de gênero;
+
+
+IX –
+
+estabelecer critérios para o emprego dos recursos destinados aos projetos que visem a implementar e ampliar os programas que garantam direitos das mulheres e equidade de gênero;
+
+
+X –
+
+receber, examinar e encaminhar aos órgãos competentes denúncias relativas à discriminação da mulher;
+
+
+XI –
+
+manter canais permanentes de comunicação com os movimentos de defesa dos direitos da mulher, apoiando o desenvolvimento de grupos autônomos no Município;
+
+
+XII –
+
+criar comissões técnicas temporárias e permanentes para melhor desempenhar as funções do Conselho;
+
+
+XIII –
+
+propor o Regimento Interno do Conselho Municipal dos Direitos da Mulher, no prazo de 60 (sessenta) dias, a contar da data da posse dos conselheiros;
+
+
+XIV –
+
+propor formulação de estudos e pesquisas objetivando identificar situações relevantes para melhorar a condição de eqüidade de gênero;
+
+
+XV –
+
+propor aos Conselhos Estadual e Nacional dos Direitos da Mulher as medidas que se referem a questões que se referem a exclusão das mulheres;
+
+
+XVI –
+
+convocar, a cada 2 (dois) anos ou extraordinariamente, por maioria absoluta de seus membros, a Conferência Municipal de Políticas para a Mulher, que terá como atribuições:
+
+
+a)
+
+avaliar a situação das políticas de atendimento à mulher;
+
+
+b)
+
+aprovar diretrizes e propostas para o aperfeiçoamento e fortalecimento das políticas para as mulheres;
+
+
+c)
+
+eleger as delegadas à Conferência Estadual, preparatória à Conferência Nacional de Políticas para as Mulheres.
+
+
+Art. 7º.
+
+O Conselho Municipal dos Direitos da Mulher será composto paritariamente por 10 (dez) membros titulares, sendo 05 (cinco) representantes da organização da sociedade civil e 05 (cinco) representantes de órgãos governamentais.
+
+Alteração feita pelo Art. 2º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 5º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+§ 1º
+
+O Poder Executivo indicará representantes governamentais das seguintes pastas:
+
+Alteração feita pelo Art. 2º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+I –
+
+Secretaria Municipal de Assistência Social e Família;
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+II –
+
+Secretaria Municipal de Saúde;
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+III –
+
+Secretaria Municipal de Educação e Cultura;
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+IV –
+
+Secretaria Municipal do Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+V –
+
+Secretaria Municipal de Esportes.
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+§ 2º
+
+Os representantes da sociedade civil devem atuar em atividade ligada à defesa dos direitos da mulher e/ou ao atendimento especializado das mulheres no município de Corbélia, ou atuarem diretamente no atendimento e/ou convívio diário especificamente voltado para as mulheres.
+
+Alteração feita pelo Art. 2º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+§ 3º
+
+Para assegurar sua participação no CMDM, através da indicação de representante, as entidades supramencionadas devem estar legalmente constituídas e registradas junto ao CMDM, estando em pleno e regular funcionamento.
+
+Alteração feita pelo Art. 2º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+§ 4º
+
+Os representantes governamentais deverão ser indicados pelos respectivos órgãos, mediante ofício encaminhado pelo titular da pasta ao CMDM.
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+§ 5º
+
+Cada representante definido no presente artigo terá um suplente com plenos poderes para substituí-lo provisoriamente em suas faltas ou impedimentos, ou em definitivo, no caso de vacância da titularidade.
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+§ 6º
+
+O processo eleitoral de escolha dos representantes não governamentais será regulamentado em resolução, que será elaborada e previamente aprovada pelo CMDM.
+
+Inclusão feita pelo Art. 3º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+Art. 8º.
+
+O Conselho Municipal dos Direitos da Mulher terá a seguinte estrutura:
+
+
+I –
+
+Diretoria Executiva, composta por presidenta, vice-presidenta, secretária geral;
+
+
+II –
+
+Comissões de Trabalho, constituídas por resoluções do Conselho;
+
+
+III –
+
+Plenário;
+
+
+IV –
+
+Secretaria Executiva.
+
+
+§ 1º
+
+A presidenta poderá ser reconduzida para um mandato consecutivo.
+
+
+§ 2º
+
+Os membros da Diretoria Executiva serão eleitos por voto direto da maioria simples dos membros do CMDM, presentes, pelo menos, 2/3 (dois terços) de seus integrantes.
+
+
+§ 3º
+
+As atribuições dos membros da Diretoria de que trata o caput deste artigo serão definidas no Regimento Interno.
+
+
+§ 4º
+
+A criação e denominação das comissões necessárias ao bom funcionamento do CMDM, dar-se-á após proposta e deliberação da assembléia, disciplinada e regulada pelas normas constantes no seu Regimento Interno.
+
+
+Art. 9º.
+
+A função de membro do CMDM é considerada de interesse público relevante e não será remunerada, sendo seu exercício prioritário e justificadas as ausências a quaisquer outros serviços, quando determinado seu comparecimento às sessões do conselho ou participação em diligências.
+
+
+Art. 10.
+
+O mandato dos conselheiros – titulares e suplentes – indicados pelos órgãos governamentais e não-governamentais será de 2 (dois) anos, permitida uma recondução, por igual período.
+
+
+Parágrafo único
+
+Em caso de vacância, a nomeação do suplente será para completar o mandato do substituído.
+
+
+Art. 11.
+
+O Departamento de Políticas Públicas das Mulheres, responsável pela execução da política dos direitos da mulher, prestará o necessário apoio técnico e administrativo para a consecução das finalidades do Conselho Municipal dos Direitos da Mulher.
+
+
+Art. 12.
+
+O Conselho Municipal dos Direitos da Mulher formalizará seus atos por meio de resoluções aprovadas pela maioria de seus membros e publicadas no órgão de comunicação oficial do Município.
+
+
+Art. 13.
+
+Todas as sessões do Conselho serão públicas e precedidas de divulgação.
+
+
+Art. 14.
+
+Para melhor desempenhar suas funções e assessorá-lo em assuntos específicos, o Conselho Municipal dos Direitos da Mulher poderá recorrer a pessoas de notório conhecimento das questões de gênero.
+
+
+Art. 15.
+
+Qualquer um dos membros do Conselho poderá elaborar propostas ou fornecer sugestões de trabalho, devidamente arrazoadas, a serem objeto de apreciação pelo colegiado.
+
+
+Art. 16.
+
+Perderá a representatividade a instituição:
+
+
+I –
+
+que extinguir sua base territorial de atuação no Município de Corbélia;
+
+
+II –
+
+em cujo funcionamento seja constatada irregularidade de acentuada gravidade, devidamente comprovada, que torne incompatível sua representação no Conselho Municipal dos Direitos da Mulher;
+
+
+III –
+
+que sofrer penalidade administrativa reconhecidamente grave.
+
+
+Art. 17.
+
+Fica instituída a Conferência Municipal dos Direitos da Mulher, órgão colegiado de caráter consultivo, deliberativo e avaliativo, composto por delegadas representantes das instituições e organizações que atuam em prol dos direitos da mulher e equidade de gênero, que se realizará sempre que convocada em nível estadual.
+
+Alteração feita pelo Art. 2º. - 04 - Lei Ordinária nº 1.388, de 29 de janeiro de 2026.
+
+
+Art. 18.
+
+As despesas decorrentes da aplicação do disposto nesta Lei correrão anualmente por conta de verbas próprias do Departamento de Políticas Públicas para Mulheres, consignadas no orçamento do Município.
+
+
+Parágrafo único
+
+Poderá o CMDM estabelecer parcerias para o desenvolvimento de projetos, convênios e outras formas para a obtenção de recursos, equipamentos e pessoal.
+
+
+Art. 19.
+
+Fica instituído o Fundo Municipal dos Direitos da Mulher, destinado a gerir recursos para financiar as atividades do Conselho Municipal dos Direitos da Mulher.
+
+
+Art. 20.
+
+Esta Lei entra em vigor na data de sua publicação, ficando revogadas as disposições porventura contrárias.
+
+
+GABINETE DO PREFEITO DO MUNICÍPIO DE CORBÉLIA
+
+Em 23 (vinte e três) de abril de 2012.
+
+ELIEZER JOSÉ FONTANA
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Jornal O Paraná 10.960 de 25/04/2012, pág. F7-F6, CI1085896-E12.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1021/ta
+

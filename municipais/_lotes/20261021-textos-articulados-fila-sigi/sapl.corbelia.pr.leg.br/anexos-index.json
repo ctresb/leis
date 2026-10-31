@@ -1,0 +1,2535 @@
+{
+  "estado": "indice_completo",
+  "total": 250,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/1/lei_856_-_2014_12_23_-_anexo_i_projetos.pdf da norma 04 - Lei Ordinária nº 856, de 23 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Projetos Arquitetônicos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2014/1/lei_856_-_2014_12_23_-_anexo_i_projetos.pdf",
+      "ano": 2014,
+      "norma": 145
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_1022_-_2018_12_18_-_loa_2019_-_anexos.pdf da norma 04 - Lei Ordinária nº 1.022, de 18 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Orçamentária - Exercício 2019",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_1022_-_2018_12_18_-_loa_2019_-_anexos.pdf",
+      "ano": 2018,
+      "norma": 181
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/lei_1037_-_2019_04_25_-_anexo_1_-_transformacao_cargos.pdf da norma 04 - Lei Ordinária nº 1.037, de 25 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Plano de Cargos e Salários - Manual de Ocupações",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/3/lei_1037_-_2019_04_25_-_anexo_1_-_transformacao_cargos.pdf",
+      "ano": 2019,
+      "norma": 204
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/4/ppa_conferencia_da_receita_2018-2021.pdf da norma 04 - Lei Ordinária nº 974, de 21 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Plano de Receita",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2017/4/ppa_conferencia_da_receita_2018-2021.pdf",
+      "ano": 2017,
+      "norma": 96
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/5/ppa_conferencia_da_despesa_2018-2021.pdf da norma 04 - Lei Ordinária nº 974, de 21 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Plano de Despesas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2017/5/ppa_conferencia_da_despesa_2018-2021.pdf",
+      "ano": 2017,
+      "norma": 96
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/ppa_programas_finalisticos_2018-2021.pdf da norma 04 - Lei Ordinária nº 974, de 21 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Programas Finalísticos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2017/6/ppa_programas_finalisticos_2018-2021.pdf",
+      "ano": 2017,
+      "norma": 96
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/ldo2020_anexoi_demonstrativoi_01_metas_anuais.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Metas Anuais",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/7/ldo2020_anexoi_demonstrativoi_01_metas_anuais.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/ldo2020_anexoi_demonstrativoi_02_i_receita.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Receita (inciso I)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/8/ldo2020_anexoi_demonstrativoi_02_i_receita.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/9/ldo2020_anexoi_demonstrativoi_03_ia_receita.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Receita (inciso Ia)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/9/ldo2020_anexoi_demonstrativoi_03_ia_receita.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/10/ldo2020_anexoi_demonstrativoi_04_ii_despesa.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Despesa (inciso II)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/10/ldo2020_anexoi_demonstrativoi_04_ii_despesa.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/ldo2020_anexoi_demonstrativoi_05_iia_despesa.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Despesa (inciso IIa)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/11/ldo2020_anexoi_demonstrativoi_05_iia_despesa.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/12/ldo2020_anexoi_demonstrativoi_06_iii_resultado_primario.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Resultado Primário",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/12/ldo2020_anexoi_demonstrativoi_06_iii_resultado_primario.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/13/ldo2020_anexoi_demonstrativoi_07_iv_resultado_nominal.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Resultado Nonimal",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/13/ldo2020_anexoi_demonstrativoi_07_iv_resultado_nominal.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/ldo2020_anexoi_demonstrativoi_08_v_montante_da_di_K7YZWcm.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo I - Montante da Dívida Pública",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/14/ldo2020_anexoi_demonstrativoi_08_v_montante_da_di_K7YZWcm.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/ldo2020_anexoi_demonstrativoii_metas_fiscais_exer_B1BoXa4.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo II - Avaliação do cumprimento das Metas Fiscais do exercício anterior",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/15/ldo2020_anexoi_demonstrativoii_metas_fiscais_exer_B1BoXa4.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/ldo2020_anexoi_demonstrativoiii_metas_fiscais_comparadas.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo III - Metas Fiscais atuais comparadas com as fixadas nos três exercício anteriores",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/16/ldo2020_anexoi_demonstrativoiii_metas_fiscais_comparadas.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/17/ldo2020_anexoi_demonstrativoiv_evolucao_patrimoni_B1qHNEe.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo IV - Evolução do Patrimônio Líquido",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/17/ldo2020_anexoi_demonstrativoiv_evolucao_patrimoni_B1qHNEe.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/18/ldo2020_anexoi_demonstrativov_alienacao_ativos.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo V - Origem e aplicação dos recursos obtidos com alienação de ativos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/18/ldo2020_anexoi_demonstrativov_alienacao_ativos.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/19/ldo2020_anexoi_demonstrativovi_avalsitfinancatuarialrpps.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo VI - Avaliação da situação financeira e atuarial do RPPS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/19/ldo2020_anexoi_demonstrativovi_avalsitfinancatuarialrpps.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/20/ldo2020_anexoi_demonstrativovi_projecaoatuarial.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo VI - Projeção atuarial do RPPS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/20/ldo2020_anexoi_demonstrativovi_projecaoatuarial.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/ldo2020_anexoi_demonstrativovii_compensacao_renun_bXnZEd9.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo VII - Estimativa e compensação da renúncia de Receita",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/21/ldo2020_anexoi_demonstrativovii_compensacao_renun_bXnZEd9.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/22/ldo2020_anexoi_demonstrativoviii_margem_expansao_despesas.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstrativo VIII - Margem de expansão das despesas obrigatórias de caráter continuado",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/22/ldo2020_anexoi_demonstrativoviii_margem_expansao_despesas.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/23/ldo2020_anexoii_riscos_fiscais.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Demonstrativo de Riscos Fiscais e providências",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/23/ldo2020_anexoii_riscos_fiscais.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/24/ldo2020_anexoiii_01_projetosandamento.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Projetos em andamento",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/24/ldo2020_anexoiii_01_projetosandamento.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/ldo2020_anexoiii_02_metasfisicasfinanceiras.pdf da norma 04 - Lei Ordinária nº 1.045, de 10 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Metas e Prioridades para o exercício financeiro",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/25/ldo2020_anexoiii_02_metasfisicasfinanceiras.pdf",
+      "ano": 2019,
+      "norma": 220
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/26/lei_1055_-_2019_08_28_-_protocolo-intencoes.pdf da norma 04 - Lei Ordinária nº 1.055, de 28 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Protocolo de Intenções dos Municípios integrantes do Consórcio Intermunicipal para a Gestão e Tratamento de Resíduos Urbanos do Oeste do Paraná.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/26/lei_1055_-_2019_08_28_-_protocolo-intencoes.pdf",
+      "ano": 2019,
+      "norma": 237
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1970/27/lei_045_-_1970_11_04_-_aprova_hino_-_anexoi.pdf da norma 04 - Lei Ordinária nº 45, de 04 de novembro de 1970",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Letra do Hino Municipal de Corbélia",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/1970/27/lei_045_-_1970_11_04_-_aprova_hino_-_anexoi.pdf",
+      "ano": 1970,
+      "norma": 251
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/28/lei_411_-_1997_06_04_-_altera_l007_-_brasao_-_anexoi.pdf da norma 04 - Lei Ordinária nº 411, de 04 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Novo Brasão de Armas do Município",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/1997/28/lei_411_-_1997_06_04_-_altera_l007_-_brasao_-_anexoi.pdf",
+      "ano": 1997,
+      "norma": 252
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/29/lei_1080_-_2019_12_19_-_loa_2020_anexos.pdf da norma 04 - Lei Ordinária nº 1.080, de 19 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Anexos do Orçamento Anual - Demonstrativos de Receitas, Despesas e Programas de Trabalho.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2019/29/lei_1080_-_2019_12_19_-_loa_2020_anexos.pdf",
+      "ano": 2019,
+      "norma": 275
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/30/lei-0061-1978-imagem.pdf da norma 04 - Lei Ordinária nº 412, de 18 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Imagem da Lei",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/1997/30/lei-0061-1978-imagem.pdf",
+      "ano": 1997,
+      "norma": 300
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/31/lei_946_-_2016_10_26_-_altera_l846_-_anexos.pdf da norma 04 - Lei Ordinária nº 946, de 26 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Municipal nº 946",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2016/31/lei_946_-_2016_10_26_-_altera_l846_-_anexos.pdf",
+      "ano": 2016,
+      "norma": 39
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/32/lei_846_-_2014_06_02_-_plano_de_cargos_cassemc_-_anexos.pdf da norma 04 - Lei Ordinária nº 846, de 02 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Municipal nº 846, de 02 de junho de 2014",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2014/32/lei_846_-_2014_06_02_-_plano_de_cargos_cassemc_-_anexos.pdf",
+      "ano": 2014,
+      "norma": 38
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/33/lei_976_-_2017_12_21_-_aumento_vagas_magisterio-_anexo1.pdf da norma 04 - Lei Ordinária nº 976, de 21 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Nova redação do Quadro 05",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2017/33/lei_976_-_2017_12_21_-_aumento_vagas_magisterio-_anexo1.pdf",
+      "ano": 2017,
+      "norma": 98
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/34/lei_995_-_2018_03_27_-_aumento_vagas_assistente_social_-_anexo1.pdf da norma 04 - Lei Ordinária nº 995, de 27 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Anexo 1 - Alteração no Quadro 03",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2018/34/lei_995_-_2018_03_27_-_aumento_vagas_assistente_social_-_anexo1.pdf",
+      "ano": 2018,
+      "norma": 121
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/35/lei_845_-_2014_06_02_-_anexo.pdf da norma 04 - Lei Ordinária nº 845, de 02 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Anexo Único - Organograma",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2014/35/lei_845_-_2014_06_02_-_anexo.pdf",
+      "ano": 2014,
+      "norma": 460
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/36/l1112_anexos.pdf da norma 04 - Lei Ordinária nº 1.112, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Anexos ao Orçamento 2021",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2020/36/l1112_anexos.pdf",
+      "ano": 2020,
+      "norma": 908
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/37/protocolo_de_intencoes_do_consorcio_nacional_de_vacinas_das_cidades_brasileiras.pdf da norma 04 - Lei Ordinária nº 1.118, de 19 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Protocolo de Intenções",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/37/protocolo_de_intencoes_do_consorcio_nacional_de_vacinas_das_cidades_brasileiras.pdf",
+      "ano": 2021,
+      "norma": 1012
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/doe1359_-_ldo.pdf da norma 04 - Lei Ordinária nº 1.131, de 13 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "LDO 2022 e Anexos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/38/doe1359_-_ldo.pdf",
+      "ano": 2021,
+      "norma": 1035
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/48/6_receitas_despesas.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Sumário Geral das Receitas e Despesas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/48/6_receitas_despesas.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/49/7_demonstrativo_receitas_despesas.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Receita e da Despesas segundo as Categorias Econômicas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/49/7_demonstrativo_receitas_despesas.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/50/8_receita_segundo_categ_econ.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Receita segundo Categorias Econômicas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/50/8_receita_segundo_categ_econ.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/51/15_resumo_geral_despesa.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Resumo Geral da Despesa",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/51/15_resumo_geral_despesa.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/52/30_demonstrativo_despesa_unid_orc.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Unidade Orçamentária",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/52/30_demonstrativo_despesa_unid_orc.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/53/32_programa_trabalho.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Programa de Trabalho",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/53/32_programa_trabalho.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/54/43_programa_trabalho_governo.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Programa de Trabalho de Governo",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/54/43_programa_trabalho_governo.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/55/49_demonstrativo_despesa_funcao_subfuncao_programa.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Função, Subfunção e Programa conforme o vínculo com os recursos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/55/49_demonstrativo_despesa_funcao_subfuncao_programa.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/56/52_demonstrativo_despesa_orgao_funcao.pdf da norma 04 - Lei Ordinária nº 1.152, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Órgão e Funções",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/56/52_demonstrativo_despesa_orgao_funcao.pdf",
+      "ano": 2021,
+      "norma": 1182
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/57/5_conferencias_receitas.pdf da norma 04 - Lei Ordinária nº 1.151, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Conferências de receitas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/57/5_conferencias_receitas.pdf",
+      "ano": 2021,
+      "norma": 1181
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/58/16_conferencias_despesas.pdf da norma 04 - Lei Ordinária nº 1.151, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Conferências das despesas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/58/16_conferencias_despesas.pdf",
+      "ano": 2021,
+      "norma": 1181
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/59/45_programas.pdf da norma 04 - Lei Ordinária nº 1.151, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Programas finalísticos de apoio administrativo",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/59/45_programas.pdf",
+      "ano": 2021,
+      "norma": 1181
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/60/lei_1164_-_2022_07_04_-_anexoi.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Atribuições e Requisitos dos Cargos de Comissão e Função de Confiança",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/60/lei_1164_-_2022_07_04_-_anexoi.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/61/lei_1164_-_2022_07_04_-_anexoii.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Denominação de Unidades, de Cargos, de Quantidade de Vagas e Simbologia",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/61/lei_1164_-_2022_07_04_-_anexoii.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/62/lei_1164_-_2022_07_04_-_anexoiii.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Cargos em Comissão",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/62/lei_1164_-_2022_07_04_-_anexoiii.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/63/lei_1164_-_2022_07_04_-_anexoiv.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Vencimentos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/63/lei_1164_-_2022_07_04_-_anexoiv.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/64/lei_1164_-_2022_07_04_-_anexov.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Gratificação de Função de Confiança (GFC)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/64/lei_1164_-_2022_07_04_-_anexov.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/lei_1164_-_2022_07_04_-_anexovi.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Gratificação de Função de Apoio (GFA)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/65/lei_1164_-_2022_07_04_-_anexovi.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/66/lei_1164_-_2022_07_04_-_anexovii.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Gratificação Especial (GE)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/66/lei_1164_-_2022_07_04_-_anexovii.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/67/lei_1164_-_2022_07_04_-_anexoviii.pdf da norma 04 - Lei Ordinária nº 1.164, de 04 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "Organograma",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/67/lei_1164_-_2022_07_04_-_anexoviii.pdf",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/68/lei_1166_-_2022_07_13_-_anexoi.pdf da norma 04 - Lei Ordinária nº 1.166, de 13 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Texto consolidado do Protocolo de Intenções do CONSÓRCIO INTERMUNICIPAL PIQUIRI",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/68/lei_1166_-_2022_07_13_-_anexoi.pdf",
+      "ano": 2022,
+      "norma": 1211
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/69/lei_1166_-_2022_07_13_-_anexoii.pdf da norma 04 - Lei Ordinária nº 1.166, de 13 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "ATO DO CONSORCIO nº 007/2022",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/69/lei_1166_-_2022_07_13_-_anexoii.pdf",
+      "ano": 2022,
+      "norma": 1211
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/demonstrativo_-_i_metas_anuais_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/70/demonstrativo_-_i_metas_anuais_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/71/demonstrativo_-_avaliacao_anexo_de_metas_fiscais_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/71/demonstrativo_-_avaliacao_anexo_de_metas_fiscais_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/demonstrativo_-_anexo_de_metas_fiscais_iii_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/72/demonstrativo_-_anexo_de_metas_fiscais_iii_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/73/demonstrativo_-iv_-evolucao_do_patrimonio_liquido_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/73/demonstrativo_-iv_-evolucao_do_patrimonio_liquido_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/74/demonstrativo_-iv_-evolucao_do_patrimonio_liquido_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/74/demonstrativo_-iv_-evolucao_do_patrimonio_liquido_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/75/demonstrativo_-_anexometasfiscaisprevidencia_cassemc.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/75/demonstrativo_-_anexometasfiscaisprevidencia_cassemc.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/76/demonstrativo_-_anexoprojecaoatuarial_pref.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/76/demonstrativo_-_anexoprojecaoatuarial_pref.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/77/demonstrativo_-_vii_compensacao_da_renuncia_de_receita_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/77/demonstrativo_-_vii_compensacao_da_renuncia_de_receita_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/78/demonstrativo_-_viii_margem_de_expansao_das_despesas_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/78/demonstrativo_-_viii_margem_de_expansao_das_despesas_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/79/metodologia_-_i_receita_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/79/metodologia_-_i_receita_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/80/metodologia_-_i_a_-_receita_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/80/metodologia_-_i_a_-_receita_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/81/metodologia_-_ii_despesa_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/81/metodologia_-_ii_despesa_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/82/metodologia_-_ii_a_-_despesa_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/82/metodologia_-_ii_a_-_despesa_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/83/metodologia_-_iii_resultado_primario_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/83/metodologia_-_iii_resultado_primario_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/84/metodologia_-_iv_resultado_nominal_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/84/metodologia_-_iv_resultado_nominal_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/85/metodologia_-_v_montante_da_divida_publica_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/85/metodologia_-_v_montante_da_divida_publica_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/86/metodologia_-_vi_resultados_primario_e_nominal_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/86/metodologia_-_vi_resultados_primario_e_nominal_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/87/anexo_de_riscos_fiscais_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/87/anexo_de_riscos_fiscais_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/88/anexo_das_metas_fisicas_e_financeiras_da_ldo_consol.pdf da norma 04 - Lei Ordinária nº 1.168, de 27 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/88/anexo_das_metas_fisicas_e_financeiras_da_ldo_consol.pdf",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/89/lei_1173_-_2022_09_02_-_anexoi.pdf da norma 04 - Lei Ordinária nº 1.173, de 02 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "Quadro 05 - Grupo Ocupacional dos Professores",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/89/lei_1173_-_2022_09_02_-_anexoi.pdf",
+      "ano": 2022,
+      "norma": 1226
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/90/pref-consol--anexo-1---demonstr.-rec.-e-desp.-seg-cat-econ.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Receitas e despesas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/90/pref-consol--anexo-1---demonstr.-rec.-e-desp.-seg-cat-econ.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/91/pref-consol--anexo-2---receitas-seg-cat-econ.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "Receitas por categorias econômicas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/91/pref-consol--anexo-2---receitas-seg-cat-econ.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/92/pref-consol--alinea-i---receitasfonte-e-despesafuncao.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Receitas e despesas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/92/pref-consol--alinea-i---receitasfonte-e-despesafuncao.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/93/pref-consol--despesa-por-natureza-da-despesa.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "Despesas por natureza",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/93/pref-consol--despesa-por-natureza-da-despesa.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/94/pref-consol--anexo-2---desp-cat-econ.-acao.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "Despesas por categoria econômica",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/94/pref-consol--anexo-2---desp-cat-econ.-acao.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/95/pref-consol--anexo-2---desp-cat-econ.-orgao.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "Despesas por órgão",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/95/pref-consol--anexo-2---desp-cat-econ.-orgao.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/96/pref-consol--anexo-2---desp-cat-econ.-orgao-e-unidade.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "Despesas por órgão e unidades",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/96/pref-consol--anexo-2---desp-cat-econ.-orgao-e-unidade.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/97/pref-consol--anexo-2---desp-cat-econ.-elemento.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "Despesas por elemento",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/97/pref-consol--anexo-2---desp-cat-econ.-elemento.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/98/pref-consol--anexo-2---desp-por-unid.-cat-econ.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "Despesas por unidade e categoria econômica",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/98/pref-consol--anexo-2---desp-por-unid.-cat-econ.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/99/pref-consol--anexo-5---desp.-categ-econ-funcao.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "Despesas por categoria e função",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/99/pref-consol--anexo-5---desp.-categ-econ-funcao.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/100/pref-consol--anexo-5---funcoes-e-subfuncoes-de-governo.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "Despesas por funções e subfunções",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/100/pref-consol--anexo-5---funcoes-e-subfuncoes-de-governo.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/101/pref-consol--anexo-6---prog.-de-trab-por-orgao-e-funcao.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "Despesas de programa de trabalho por órgão e função",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/101/pref-consol--anexo-6---prog.-de-trab-por-orgao-e-funcao.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/102/pref-consol--anexo-7---prog.-de-trab-por-funcao-sub-prog-acao.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "Programa de trabalho por função e subfunção",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/102/pref-consol--anexo-7---prog.-de-trab-por-funcao-sub-prog-acao.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/103/pref-consol--anexo-8---demonst.-desp-por-funcao-sub-prog.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "Despesas por função e subfunção dos programas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/103/pref-consol--anexo-8---demonst.-desp-por-funcao-sub-prog.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/104/pref-consol--anexo-9---demonst.-desp-por-orgao-e--funcao.pdf da norma 04 - Lei Ordinária nº 1.183, de 16 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "Despesas por órgão e função dos programas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2022/104/pref-consol--anexo-9---demonst.-desp-por-orgao-e--funcao.pdf",
+      "ano": 2022,
+      "norma": 1237
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/105/lei_1199_-_2023_07_12_-_ldo2024_-_anexos.pdf da norma 04 - Lei Ordinária nº 1.199, de 12 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "Anexos com demonstrativos de previsão de receitas e despesas.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/105/lei_1199_-_2023_07_12_-_ldo2024_-_anexos.pdf",
+      "ano": 2023,
+      "norma": 1257
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/106/plo-016-2023-anex-matricula.pdf da norma 04 - Lei Ordinária nº 1.205, de 27 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Matrícula",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/106/plo-016-2023-anex-matricula.pdf",
+      "ano": 2023,
+      "norma": 1266
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/107/plo-016-2023-anex-situacao.pdf da norma 04 - Lei Ordinária nº 1.205, de 27 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Situação",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/107/plo-016-2023-anex-situacao.pdf",
+      "ano": 2023,
+      "norma": 1266
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/108/plo-016-2023-anex-memorial.pdf da norma 04 - Lei Ordinária nº 1.205, de 27 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Memorial",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/108/plo-016-2023-anex-memorial.pdf",
+      "ano": 2023,
+      "norma": 1266
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/109/lei_1214_-_2023_10_26_-_anexo.pdf da norma 04 - Lei Ordinária nº 1.214, de 26 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "Quadro com o total de vagas após a alteração legislativa.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/109/lei_1214_-_2023_10_26_-_anexo.pdf",
+      "ano": 2023,
+      "norma": 1276
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/110/lei_1210_-_2023_09_29_-_anexoi.pdf da norma 04 - Lei Ordinária nº 1.210, de 29 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - MAPA DA REDE DE REFERÊNCIA CADASTRAL MUNICIPAL - RRCM",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/110/lei_1210_-_2023_09_29_-_anexoi.pdf",
+      "ano": 2023,
+      "norma": 1271
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/111/lei_1210_-_2023_09_29_-_anexoii.pdf da norma 04 - Lei Ordinária nº 1.210, de 29 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - VÉRTICES DE APOIO DA RRCM",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/111/lei_1210_-_2023_09_29_-_anexoii.pdf",
+      "ano": 2023,
+      "norma": 1271
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/112/lei_1220_-_2023_12_06_-_anexo.pdf da norma 04 - Lei Ordinária nº 1.220, de 06 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "Tabela",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/112/lei_1220_-_2023_12_06_-_anexo.pdf",
+      "ano": 2023,
+      "norma": 1298
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/113/lei_607_-_2005_04_27_-_doc_anexo.pdf da norma 04 - Lei Ordinária nº 607, de 27 de abril de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo e planta da área de urbanização específica para finalidade de área industrial que instruiu o projeto de lei.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2005/113/lei_607_-_2005_04_27_-_doc_anexo.pdf",
+      "ano": 2005,
+      "norma": 430
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/114/lei_1226_-_2023_12_21_-_emendas_impositivas.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "Informativo de emendas impositivas.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/114/lei_1226_-_2023_12_21_-_emendas_impositivas.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/115/lei_1226_-_2023_12_21_-_anexo1.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "Receitas x Despesas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/115/lei_1226_-_2023_12_21_-_anexo1.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/116/lei_1226_-_2023_12_21_-_anexo2.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "Despesas por Categoria Econômica (Unidade Orçamentária)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/116/lei_1226_-_2023_12_21_-_anexo2.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/117/lei_1226_-_2023_12_21_-_anexo3.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "Despesas por Categoria Econômica (Órgão)\r\nDespesas por Categoria Econômica (Elemento de despesa)\r\nDespesas por Unidade Orçamentária",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/117/lei_1226_-_2023_12_21_-_anexo3.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/118/lei_1226_-_2023_12_21_-_anexo4.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "Despesas por Categoria Econômica (Ação)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/118/lei_1226_-_2023_12_21_-_anexo4.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/119/lei_1226_-_2023_12_21_-_anexo5.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "Receita por Categoria Econômica\r\nFunções e Subfunções",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/119/lei_1226_-_2023_12_21_-_anexo5.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/120/lei_1226_-_2023_12_21_-_anexo6.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "Programa de trabalho (Órgão e Unidade orçamentária)\r\nPrograma de trabalho (Função, Subfunção, Programa e Ação)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/120/lei_1226_-_2023_12_21_-_anexo6.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/121/lei_1226_-_2023_12_21_-_anexo7.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "Despesas por Vinculo à Recursos\r\nDespesas por Órgão e Função\r\nDespesas por Função e Categoria Econômica\r\nDespesas por Natureza",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/121/lei_1226_-_2023_12_21_-_anexo7.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/122/lei_1226_-_2023_12_21_-_anexo8.pdf da norma 04 - Lei Ordinária nº 1.226, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "Quadro de detalhamento de despesa",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/122/lei_1226_-_2023_12_21_-_anexo8.pdf",
+      "ano": 2023,
+      "norma": 1305
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/123/lei_1225_-_2023_12_21_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.225, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "Tabela de vencimentos dos professores",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/123/lei_1225_-_2023_12_21_-_anexo_i.pdf",
+      "ano": 2023,
+      "norma": 1304
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/124/lei_1225_-_2023_12_21_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.225, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "Avaliação do Estágio Probatório",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/124/lei_1225_-_2023_12_21_-_anexo_ii.pdf",
+      "ano": 2023,
+      "norma": 1304
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/125/lei_1225_-_2023_12_21_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.225, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "Avaliação do Desempenho",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/125/lei_1225_-_2023_12_21_-_anexo_iii.pdf",
+      "ano": 2023,
+      "norma": 1304
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/126/lei_1225_-_2023_12_21_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.225, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "Porte das Unidades Escolares Municipais",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/126/lei_1225_-_2023_12_21_-_anexo_iv.pdf",
+      "ano": 2023,
+      "norma": 1304
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/127/lei_1225_-_2023_12_21_-_anexo_v.pdf da norma 04 - Lei Ordinária nº 1.225, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "Tabela para SMEC",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2023/127/lei_1225_-_2023_12_21_-_anexo_v.pdf",
+      "ano": 2023,
+      "norma": 1304
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/128/lei_1247_-_2024_07_17_-_anexo.pdf da norma 04 - Lei Ordinária nº 1.247, de 17 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "Tabela de pagamentos anuais.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/128/lei_1247_-_2024_07_17_-_anexo.pdf",
+      "ano": 2024,
+      "norma": 1338
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/129/lei_1249_-_2024_07_22_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.249, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "Anexo de Metas Fiscais",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/129/lei_1249_-_2024_07_22_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1340
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/130/lei_1249_-_2024_07_22_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.249, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Riscos Fiscais e Providências",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/130/lei_1249_-_2024_07_22_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1340
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/131/lei_1249_-_2024_07_22_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.249, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "Anexo de Alteração nas Metas e Prioridades",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/131/lei_1249_-_2024_07_22_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1340
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/132/res-009-2024-anexoi-logomarca01.pdf da norma 07 - Resolução Legislativa nº 9, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "Logomarca institucional",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/132/res-009-2024-anexoi-logomarca01.pdf",
+      "ano": 2024,
+      "norma": 1353
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/133/res-009-2024-anexoii-manual_de_uso_camara_municipal_de_corbelia2025.pdf da norma 07 - Resolução Legislativa nº 9, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "Manual de uso da identidade visual.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/133/res-009-2024-anexoii-manual_de_uso_camara_municipal_de_corbelia2025.pdf",
+      "ano": 2024,
+      "norma": 1353
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/134/lei_1278_-_2025_01_16_-_anexo_mapa.pdf da norma 04 - Lei Ordinária nº 1.278, de 16 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "Mapa",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/134/lei_1278_-_2025_01_16_-_anexo_mapa.pdf",
+      "ano": 2025,
+      "norma": 1382
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/135/lei_1276_-_2025_01_16_-_anexo_mapa.pdf da norma 04 - Lei Ordinária nº 1.276, de 16 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/135/lei_1276_-_2025_01_16_-_anexo_mapa.pdf",
+      "ano": 2025,
+      "norma": 1380
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/136/lei_1260_-_2024_12_31_-_1_fonte_receita_fonte_despesa.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "Receita (fonte) e Despesa (fonte)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/136/lei_1260_-_2024_12_31_-_1_fonte_receita_fonte_despesa.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/137/lei_1260_-_2024_12_31_-_2_receitas_despesas_categoria_economica.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Receitas e Despesas Segundo Categoria Econômica",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/137/lei_1260_-_2024_12_31_-_2_receitas_despesas_categoria_economica.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/138/lei_1260_-_2024_12_31_-_3_despesas_unidade_orcamentaria_categoria_economica.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "Despesa por Unidade Orçamentária Segundo Cat. Econômica",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/138/lei_1260_-_2024_12_31_-_3_despesas_unidade_orcamentaria_categoria_economica.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/139/lei_1260_-_2024_12_31_-_4_natureza_despesa_categoria_economica_acao.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "Natureza da Despesa Segundo as Categorias Econômicas (Ação)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/139/lei_1260_-_2024_12_31_-_4_natureza_despesa_categoria_economica_acao.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/140/lei_1260_-_2024_12_31_-_5_despesa_categoria_economica_consolidado_por_elemento.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "Despesa segundo Categoria Econômica (Consolidado por Elemento)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/140/lei_1260_-_2024_12_31_-_5_despesa_categoria_economica_consolidado_por_elemento.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/141/lei_1260_-_2024_12_31_-_6_despesa_segunda_categoria_economica_por_orgao_unidade.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "Despesa segundo Categoria Econômica (Órgão / Unidade)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/141/lei_1260_-_2024_12_31_-_6_despesa_segunda_categoria_economica_por_orgao_unidade.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/142/lei_1260_-_2024_12_31_-_7_depesa_categoria_economica_orgao.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "Despesa segundo Categoria Econômica (Órgão)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/142/lei_1260_-_2024_12_31_-_7_depesa_categoria_economica_orgao.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/143/lei_1260_-_2024_12_31_-_8_despesas_por_natureza_da_despesa.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "Despesas por Natureza da despesa",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/143/lei_1260_-_2024_12_31_-_8_despesas_por_natureza_da_despesa.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/144/lei_1260_-_2024_12_31_-_9_despesa_por_funcoes_e_categoria_economica.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Funções e Categoria Econômica",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/144/lei_1260_-_2024_12_31_-_9_despesa_por_funcoes_e_categoria_economica.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/145/lei_1260_-_2024_12_31_-_10_funcoes_subfuncoes_de_governo.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "Funções e Subfunções de Governo",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/145/lei_1260_-_2024_12_31_-_10_funcoes_subfuncoes_de_governo.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/146/lei_1260_-_2024_12_31_-_11_programa_trabalho_por_orgao_unidade_orcamentaria.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "Programa de Trabalho (por Órgão e Unidade Orçamentária)",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/146/lei_1260_-_2024_12_31_-_11_programa_trabalho_por_orgao_unidade_orcamentaria.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/147/lei_1260_-_2024_12_31_-_12_programa_trabalho_por_funcao_subfuncao_programa_acao.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "Programa de Trabalho por Função/Subfunção/Programa/Ação",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/147/lei_1260_-_2024_12_31_-_12_programa_trabalho_por_funcao_subfuncao_programa_acao.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/148/lei_1260_-_2024_12_31_-_13_despesa_por_funcao_subfuncao_programa_vinculo_recursos.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "Despesa por Função/Sub/Programa Conforme Vínculo de Recursos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/148/lei_1260_-_2024_12_31_-_13_despesa_por_funcao_subfuncao_programa_vinculo_recursos.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/149/lei_1260_-_2024_12_31_-_14_despesa_por_orgao_funcao.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "Despesa por Órgão e Função",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/149/lei_1260_-_2024_12_31_-_14_despesa_por_orgao_funcao.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/150/lei_1260_-_2024_12_31_-_15_quadro_detalhamento_despesa.pdf da norma 04 - Lei Ordinária nº 1.260, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "Quadro de Detalhamento da Despesa",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/150/lei_1260_-_2024_12_31_-_15_quadro_detalhamento_despesa.pdf",
+      "ano": 2024,
+      "norma": 1352
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/151/lei_1261_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.261, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "MAPA MACROZONEAMENTO MUNICIPAL",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/151/lei_1261_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1354
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/152/lei_1261_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.261, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "MAPA MACROZONEAMENTO URBANO - SEDE",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/152/lei_1261_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1354
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/153/lei_1261_-_2024_12_20_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.261, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "MAPA MACROZONEAMENTO URBANO - DISTRITO NOSSA SENHORA DA PENHA",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/153/lei_1261_-_2024_12_20_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1354
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/154/lei_1261_-_2024_12_20_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.261, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "MAPA MACROZONEAMENTO URBANO - DISTRITO DE OURO VERDE DO PIQUIRI",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/154/lei_1261_-_2024_12_20_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 1354
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/155/lei_1262_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.262, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "Memorial Descritivo e Memorial Sintético",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/155/lei_1262_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1355
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/156/lei_1262_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.262, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "Mapas do Perímetro Urbano",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/156/lei_1262_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1355
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/157/lei_1274_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.274, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "Atribuições e requisitos dos Agentes políticos, cargos em comissão e função de confiança;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/157/lei_1274_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1367
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/158/lei_1274_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.274, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "Denominação dos Cargos em Comissão;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/158/lei_1274_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1367
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/159/lei_1274_-_2024_12_20_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.274, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Vagas de Cargos em Comissão;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/159/lei_1274_-_2024_12_20_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1367
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/160/lei_1274_-_2024_12_20_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.274, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Vencimentos dos Cargos de Comissão;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/160/lei_1274_-_2024_12_20_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 1367
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/161/lei_1274_-_2024_12_20_-_anexo_v.pdf da norma 04 - Lei Ordinária nº 1.274, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Gratificação de Função de Confiança;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/161/lei_1274_-_2024_12_20_-_anexo_v.pdf",
+      "ano": 2024,
+      "norma": 1367
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/162/lei_1274_-_2024_12_20_-_anexo_vi.pdf da norma 04 - Lei Ordinária nº 1.274, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Gratificação de Função de Apoio;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/162/lei_1274_-_2024_12_20_-_anexo_vi.pdf",
+      "ano": 2024,
+      "norma": 1367
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/163/lei_1274_-_2024_12_20_-_anexo_vii.pdf da norma 04 - Lei Ordinária nº 1.274, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Gratificação Especial.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/163/lei_1274_-_2024_12_20_-_anexo_vii.pdf",
+      "ano": 2024,
+      "norma": 1367
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/164/lei_1263_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.263, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "TABELA DE USO DO SOLO URBANO",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/164/lei_1263_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1356
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/165/lei_1263_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.263, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "TABELA DE PARÂMETROS URBANÍSTICOS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/165/lei_1263_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1356
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/166/lei_1263_-_2024_12_20_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.263, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "MAPA DE ZONEAMENTO URBANO DA SEDE DO MUNICÍPIO",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/166/lei_1263_-_2024_12_20_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1356
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/167/lei_1263_-_2024_12_20_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.263, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "MAPA DE ZONEAMENTO DO DISTRITO DE NOSSA SENHORA DA PENHA",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/167/lei_1263_-_2024_12_20_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 1356
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/168/lei_1263_-_2024_12_20_-_anexo_v.pdf da norma 04 - Lei Ordinária nº 1.263, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "MAPA DE ZONEAMENTO DO DISTRITO DE OURO VERDE DO PIQUIRI",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/168/lei_1263_-_2024_12_20_-_anexo_v.pdf",
+      "ano": 2024,
+      "norma": 1356
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/169/lei_1265_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "MAPA DA HIERARQUIA VIÁRIA",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/169/lei_1265_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/170/lei_1265_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "MAPA DAS DIRETRIZES VIÁRIAS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/170/lei_1265_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/171/lei_1265_-_2024_12_20_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "MODELO PERFIL VIA MARGINAL",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/171/lei_1265_-_2024_12_20_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/172/lei_1265_-_2024_12_20_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "MODELO PERFIL VIA ARTERIAL",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/172/lei_1265_-_2024_12_20_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/173/lei_1265_-_2024_12_20_-_anexo_v.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "MODELO PERFIL VIA COLETORA",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/173/lei_1265_-_2024_12_20_-_anexo_v.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/174/lei_1265_-_2024_12_20_-_anexo_vi.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "MODELO PERFIL VIA LOCAL",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/174/lei_1265_-_2024_12_20_-_anexo_vi.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/175/lei_1265_-_2024_12_20_-_anexo_vii.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "PARÂMETROS GEOMÉTRICOS DAS VIAS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/175/lei_1265_-_2024_12_20_-_anexo_vii.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/176/lei_1265_-_2024_12_20_-_anexo_viii.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "MAPA DAS ESTRADAS MUNICIPAIS RURAIS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/176/lei_1265_-_2024_12_20_-_anexo_viii.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/177/lei_1265_-_2024_12_20_-_anexo_ix.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "CONFIGURAÇÃO GEOMÉTRICA DOS PASSEIOS PÚBLICOS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/177/lei_1265_-_2024_12_20_-_anexo_ix.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/178/lei_1265_-_2024_12_20_-_anexo_x.pdf da norma 04 - Lei Ordinária nº 1.265, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "MAPA DAS ROTAS ALTERNATIVAS PARA TRÁFEGO PESADOS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/178/lei_1265_-_2024_12_20_-_anexo_x.pdf",
+      "ano": 2024,
+      "norma": 1358
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/179/lei_1266_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.266, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "GLOSSÁRIO",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/179/lei_1266_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1359
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/180/lei_1266_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.266, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "CONDIÇÕES MÍNIMAS PARA RAMPAS DE ACESSO DE PEDESTRES - ABNT 9050:2020",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/180/lei_1266_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1359
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/181/lei_1266_-_2024_12_20_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.266, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "CARACTERÍSTICAS MÍNIMAS DOS COMPARTIMENTOS DAS EDIFICAÇÕES RESIDENCIAIS E COMERCIAIS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/181/lei_1266_-_2024_12_20_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1359
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/182/lei_1266_-_2024_12_20_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.266, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "PASSEIOS E MUROS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/182/lei_1266_-_2024_12_20_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 1359
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/183/lei_1268_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.268, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "PERFIL DAS VIAS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/183/lei_1268_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/184/lei_1268_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.268, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "POSIÇÃO DAS ÁRVORES",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/184/lei_1268_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/185/lei_1268_-_2024_12_20_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.268, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE ESPÉCIES NATIVAS E EXÓTIVAS RECOMENDADAS PARA PLANTIO",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/185/lei_1268_-_2024_12_20_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/186/lei_1268_-_2024_12_20_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.268, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE ESPÉCIES EXÓTICAS INVASORAS NÃO RECOMENDADAS PARA ARBORIZAÇÃO SEGUNDO PORTARIA IAP 59/2015",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/186/lei_1268_-_2024_12_20_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/187/lei_1268_-_2024_12_20_-_plano_arborizacao_de_corbelia.pdf da norma 04 - Lei Ordinária nº 1.268, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "Plano de Arborização de Corbélia",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/187/lei_1268_-_2024_12_20_-_plano_arborizacao_de_corbelia.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/188/lei_1269_-_2024_12_20_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE SERVIÇOS CUJAS PRESTAÇÕES SÃO TRIBUTÁVEIS PELO ISSQN",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/188/lei_1269_-_2024_12_20_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/189/lei_1269_-_2024_12_20_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA TAXA DE LOCALIZAÇÃO E DE FUNCIONAMENTO REGULAR DE ESTABELECIMENTO DE PRODUÇÃO, COMÉRCIO, INDÚSTRIA, PRESTAÇÃO DE SERVIÇOS E OUTROS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/189/lei_1269_-_2024_12_20_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/190/lei_1269_-_2024_12_20_-_anexo_iii.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "TAXA DE LICENÇA PARA FUNCIONAMENTO DE ESTABELECIMENTO EM HORÁRIO ESPECIAL",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/190/lei_1269_-_2024_12_20_-_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/191/lei_1269_-_2024_12_20_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA TAXA DE VIGILÂNCIA SANITÁRIA",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/191/lei_1269_-_2024_12_20_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/192/lei_1269_-_2024_12_20_-_anexo_v.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA TAXA DE LICENÇA PARA PUBLICIDADE",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/192/lei_1269_-_2024_12_20_-_anexo_v.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/193/lei_1269_-_2024_12_20_-_anexo_vi.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA TAXA DE LICENÇA PARA O EXERCÍCIO DO COMÉRCIO AMBULANTE",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/193/lei_1269_-_2024_12_20_-_anexo_vi.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/194/lei_1269_-_2024_12_20_-_anexo_vii.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA TAXA DE LICENÇA PARA A EXECUÇÃO DE ARRUAMENTOS, LOTEAMENTOS E OBRAS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/194/lei_1269_-_2024_12_20_-_anexo_vii.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/195/lei_1269_-_2024_12_20_-_anexo_viii.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA TAXA DE LICENÇA PARA A OCUPAÇÃO DO SOLO NAS VIAS E LOGRADOUROS PÚBLICOS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/195/lei_1269_-_2024_12_20_-_anexo_viii.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/196/lei_1269_-_2024_12_20_-_anexo_ix.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA TAXA DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS DOMICILIARES",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/196/lei_1269_-_2024_12_20_-_anexo_ix.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/197/lei_1269_-_2024_12_20_-_anexo_x.pdf da norma 04 - Lei Ordinária nº 1.269, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "FATORES DE CÁLCULO DA CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA-COSIP",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2024/197/lei_1269_-_2024_12_20_-_anexo_x.pdf",
+      "ano": 2024,
+      "norma": 1362
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/198/lei_1328_-_2025_07_22_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.328, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "Tabela de parâmetros urbanísticos",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/198/lei_1328_-_2025_07_22_-_anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 1447
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/199/lei_1328_-_2025_07_22_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.328, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "Mapa de zoneamento do Distrito de Nossa Senhora da Penha",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/199/lei_1328_-_2025_07_22_-_anexo_iv.pdf",
+      "ano": 2025,
+      "norma": 1447
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/200/lei_1338_-_2025_08_08_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.338, de 08 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "Anexo I: Memorial Descritivo e Memorial Sintético:\r\na)  Seção I: Memorial Descritivo I - Perímetro Urbano da Sede de Corbélia;\r\nb)  Seção II: Memorial Descritivo II - Perímetro Urbano da Área Urbanizada;\r\nc)  Seção IV: Memorial Descritivo IV",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/200/lei_1338_-_2025_08_08_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1458
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/201/lei_1338_-_2025_08_08_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.338, de 08 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "Anexo II: Mapas do Perímetro Urbano:\r\na)  Seção I: Mapa I Perímetro Urbano da Sede de Corbélia e Área Urbanizada;\r\nb)  Seção III: Mapa III Perímetro Urbano do Distrito de Ouro Verde do Piquiri.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/201/lei_1338_-_2025_08_08_-_anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 1458
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/202/lei_1330_-_2025_07_22_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.330, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "Anexo I: MAPA DA HIERARQUIA VIÁRIA - DISTRITO NOSSA SENHORA DA PENHA;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/202/lei_1330_-_2025_07_22_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1449
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/203/lei_1330_-_2025_07_22_-_anexo_iv.pdf da norma 04 - Lei Ordinária nº 1.330, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "Anexo I: MAPA DA HIERARQUIA VIÁRIA - DISTRITO OURO VERDE DO PIQUIRI.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/203/lei_1330_-_2025_07_22_-_anexo_iv.pdf",
+      "ano": 2025,
+      "norma": 1449
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/204/lei_1352_-_2025_09_19_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.352, de 19 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE REGULARIZAÇÃO FUNDIÁRIA",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/204/lei_1352_-_2025_09_19_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1476
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/205/lei_1352_-_2025_09_19_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.352, de 19 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "PROVIMENTO CONJUNTO Nº 2, DE 29 DE JULHO DE 2020 - P-GP / GCJ",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/205/lei_1352_-_2025_09_19_-_anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 1476
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/206/lei_1341_-_2025_08_27_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.341, de 27 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "PLANO DE AMORTIZAÇÃO POR APORTES CRESCENTES",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/206/lei_1341_-_2025_08_27_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1461
+    },
+    {
+      "id": 207,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/207/ldo_2026_-_lei_4320_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/207",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/207/ldo_2026_-_lei_4320_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/208/ldo_2026_-_lei_4320_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/208/ldo_2026_-_lei_4320_-_anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/209/ldo_2026_-_lei_4320_-_anexo_ii_a.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/209/ldo_2026_-_lei_4320_-_anexo_ii_a.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/211/ldo_2026_-_lei_4320_-_anexo_v.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/211/ldo_2026_-_lei_4320_-_anexo_v.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/212/ldo_2026_-_lei_4320_-_anexo_vi.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/212/ldo_2026_-_lei_4320_-_anexo_vi.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/213/ldo_2026_-_lei_4320_-_anexo_vii.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/213/ldo_2026_-_lei_4320_-_anexo_vii.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 214,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/214/ldo_2026_-_lei_4320_-_anexo_viii.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/214",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/214/ldo_2026_-_lei_4320_-_anexo_viii.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/215/ldo_2026_-_lei_4320_-_anexo_ix.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/215/ldo_2026_-_lei_4320_-_anexo_ix.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/216/ldo_2026_-_lei_4320_-_anexo_x_art_22.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/216/ldo_2026_-_lei_4320_-_anexo_x_art_22.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/217/ldo_2026_anexo__-_riscos_fiscais_e_providencias.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/217/ldo_2026_anexo__-_riscos_fiscais_e_providencias.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 218,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/218/ldo_2026_anexo_i_-_metas_fiscais.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/218",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/218/ldo_2026_anexo_i_-_metas_fiscais.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 219,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/219/ldo_2026_anexo_ii_-_avaliacao_cumprimento_das_metas_fiscas_do_exerc._ant..pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/219",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/219/ldo_2026_anexo_ii_-_avaliacao_cumprimento_das_metas_fiscas_do_exerc._ant..pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 220,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/220/ldo_2026_anexo_iii_-_metas_fiscais_atuais_comp._c_exerc._ant..pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/220",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/220/ldo_2026_anexo_iii_-_metas_fiscais_atuais_comp._c_exerc._ant..pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 221,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/221/ldo_2026_anexo_vi_-_avaliacao_atuarial_do_rpps.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/221",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/221/ldo_2026_anexo_vi_-_avaliacao_atuarial_do_rpps.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 222,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/222/ldo_2026_anexo_vii_-_renuncia_receita.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/222",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/222/ldo_2026_anexo_vii_-_renuncia_receita.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 223,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/223/ldo_2026_anexo_viii_-_margem_de_expansao_desp_obrigatoria.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/223",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/223/ldo_2026_anexo_viii_-_margem_de_expansao_desp_obrigatoria.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 224,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/224/ldo_2026_dem_iv_-_evolucao_do_patrimonio.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/224",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/224/ldo_2026_dem_iv_-_evolucao_do_patrimonio.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 225,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/225/ldo_2026_dem_v_-_origem_e_aplicacao_dos_recursos_da_alienacao.pdf da norma 04 - Lei Ordinária nº 1.325, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/225",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/225/ldo_2026_dem_v_-_origem_e_aplicacao_dos_recursos_da_alienacao.pdf",
+      "ano": 2025,
+      "norma": 1444
+    },
+    {
+      "id": 226,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/226/lei_401_-_1996_10_08_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 401, de 08 de outubro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/226",
+      "metadata": {},
+      "assunto_anexo": "Planta da rua projetada.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/1996/226/lei_401_-_1996_10_08_-_anexo_i.pdf",
+      "ano": 1996,
+      "norma": 1495
+    },
+    {
+      "id": 227,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/227/alpr-pl-315-2021.pdf da norma 98 - Lei Estadual nº 20.890, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/227",
+      "metadata": {},
+      "assunto_anexo": "Cópia do processo legislativo.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/227/alpr-pl-315-2021.pdf",
+      "ano": 2021,
+      "norma": 1419
+    },
+    {
+      "id": 228,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/228/alpr-pl-313-2021.pdf da norma 98 - Lei Estadual nº 20.891, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/228",
+      "metadata": {},
+      "assunto_anexo": "Cópia do processo legislativo.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/228/alpr-pl-313-2021.pdf",
+      "ano": 2021,
+      "norma": 1418
+    },
+    {
+      "id": 229,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/229/alpr-pl-312-2021.pdf da norma 98 - Lei Estadual nº 20.749, de 18 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/229",
+      "metadata": {},
+      "assunto_anexo": "Cópia do processo legislativo.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2021/229/alpr-pl-312-2021.pdf",
+      "ano": 2021,
+      "norma": 1417
+    },
+    {
+      "id": 230,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/230/lei_1366_-_2025_12_09_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.366, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/230",
+      "metadata": {},
+      "assunto_anexo": "Anexo Único - Protocolo de Intenções.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/230/lei_1366_-_2025_12_09_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1501
+    },
+    {
+      "id": 231,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/231/lei_1371_-_2025_12_22_-_anexos.pdf da norma 04 - Lei Ordinária nº 1.371, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/231",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/231/lei_1371_-_2025_12_22_-_anexos.pdf",
+      "ano": 2025,
+      "norma": 1506
+    },
+    {
+      "id": 232,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/232/lei_1372_-_2025_12_22_-_anexos.pdf da norma 04 - Lei Ordinária nº 1.372, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/232",
+      "metadata": {},
+      "assunto_anexo": "Anexos LOA 2026",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/232/lei_1372_-_2025_12_22_-_anexos.pdf",
+      "ano": 2025,
+      "norma": 1507
+    },
+    {
+      "id": 233,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/233/lei_1373_-_2025_12_22_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.373, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/233",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Cultura",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/233/lei_1373_-_2025_12_22_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1508
+    },
+    {
+      "id": 234,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/234/lei_1385_-_2025_12_22_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.385, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/234",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Tabelas",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/234/lei_1385_-_2025_12_22_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1520
+    },
+    {
+      "id": 235,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/235/lei_1385_-_2025_12_22_-_anexo_ii.pdf da norma 04 - Lei Ordinária nº 1.385, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/235",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Manual de ocupações",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/235/lei_1385_-_2025_12_22_-_anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 1520
+    },
+    {
+      "id": 236,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/236/lei_1383_-_2025_12_22_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.383, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/236",
+      "metadata": {},
+      "assunto_anexo": "Anexo único",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/236/lei_1383_-_2025_12_22_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1518
+    },
+    {
+      "id": 237,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/237/lc_003_-_2025_12_26_-_anexo_i.pdf da norma 03 - Lei Complementar nº 3, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/237",
+      "metadata": {},
+      "assunto_anexo": "Dos fatores de cálculo do terreno",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/237/lc_003_-_2025_12_26_-_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 1530
+    },
+    {
+      "id": 238,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/238/lc_003_-_2025_12_26_-_anexo_ii.pdf da norma 03 - Lei Complementar nº 3, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/238",
+      "metadata": {},
+      "assunto_anexo": "Dos fatores de cálculo das edificações",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/238/lc_003_-_2025_12_26_-_anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 1530
+    },
+    {
+      "id": 239,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/239/lc_003_-_2025_12_26_-_anexo_iii.pdf da norma 03 - Lei Complementar nº 3, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/239",
+      "metadata": {},
+      "assunto_anexo": "Das cartografias fiscais",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/239/lc_003_-_2025_12_26_-_anexo_iii.pdf",
+      "ano": 2025,
+      "norma": 1530
+    },
+    {
+      "id": 240,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/240/lc_003_-_2025_12_26_-_anexo_iii_-_prancha1.pdf da norma 03 - Lei Complementar nº 3, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/240",
+      "metadata": {},
+      "assunto_anexo": "Anexo 3 - Prancha 1",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/240/lc_003_-_2025_12_26_-_anexo_iii_-_prancha1.pdf",
+      "ano": 2025,
+      "norma": 1530
+    },
+    {
+      "id": 241,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/241/lc_003_-_2025_12_26_-_anexo_iii_-_prancha2.pdf da norma 03 - Lei Complementar nº 3, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/241",
+      "metadata": {},
+      "assunto_anexo": "Anexo 3 - Prancha 2",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/241/lc_003_-_2025_12_26_-_anexo_iii_-_prancha2.pdf",
+      "ano": 2025,
+      "norma": 1530
+    },
+    {
+      "id": 242,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/242/lc_003_-_2025_12_26_-_anexo_iii_-_prancha3.pdf da norma 03 - Lei Complementar nº 3, de 26 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/242",
+      "metadata": {},
+      "assunto_anexo": "Anexo 3 - Prancha 3",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/242/lc_003_-_2025_12_26_-_anexo_iii_-_prancha3.pdf",
+      "ano": 2025,
+      "norma": 1530
+    },
+    {
+      "id": 243,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/243/lei_1382_-_2025_12_22_-_anexo_i_pmgirs.pdf da norma 04 - Lei Ordinária nº 1.382, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/243",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS 2026-2030",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2025/243/lei_1382_-_2025_12_22_-_anexo_i_pmgirs.pdf",
+      "ano": 2025,
+      "norma": 1517
+    },
+    {
+      "id": 244,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/244/lei_1397_-_2026_03_12_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.397, de 12 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/244",
+      "metadata": {},
+      "assunto_anexo": "Termo de Acordo Extrajudicial 01/2026",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/244/lei_1397_-_2026_03_12_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 1537
+    },
+    {
+      "id": 245,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/245/lei_1416_-_2026_07_13_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.416, de 13 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/245",
+      "metadata": {},
+      "assunto_anexo": "PLANO DE AMORTIZAÇÃO DE APORTES IGUAIS OU ALÍQUOTAS VARIÁVEIS",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/245/lei_1416_-_2026_07_13_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 1557
+    },
+    {
+      "id": 246,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/246/lei_1420_2026_-_2026_07_27_-_anexo_1_metas_anuais.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/246",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo I - Metas Anuais;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/246/lei_1420_2026_-_2026_07_27_-_anexo_1_metas_anuais.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 247,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/247/lei_1420_2026_-_2026_07_27_-_anexo_2_avaliacao_cumprimento_metas_fiscas_exercicio_anterior.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/247",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo II - Avaliação do Cumprimento das Metas Fiscais do Exercício Anterior;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/247/lei_1420_2026_-_2026_07_27_-_anexo_2_avaliacao_cumprimento_metas_fiscas_exercicio_anterior.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 248,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/248/lei_1420_2026_-_2026_07_27_-_anexo_3_metas_fiscais_atuais_comparadas_tres_exercicios_anteriores.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/248",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo III - Metas Fiscais Atuais Comparadas com as Metas Fiscais Fixadas nos Três Exercícios Anteriores;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/248/lei_1420_2026_-_2026_07_27_-_anexo_3_metas_fiscais_atuais_comparadas_tres_exercicios_anteriores.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 249,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/249/lei_1420_2026_-_2026_07_27_-_anexo_4_evolucao_do_patrimonio_liquido.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/249",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo IV - Evolução do Patrimônio Líquido;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/249/lei_1420_2026_-_2026_07_27_-_anexo_4_evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 250,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/250/lei_1420_2026_-_2026_07_27_-_anexo_5_origem_e_aplicacao_dos_recursos_alienacao_de_ativos.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/250",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo V - Origem e Aplicação dos Recursos Obtidos com a Alienação de Ativos;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/250/lei_1420_2026_-_2026_07_27_-_anexo_5_origem_e_aplicacao_dos_recursos_alienacao_de_ativos.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 251,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/251/lei_1420_2026_-_2026_07_27_-_anexo_6_avaliacao_da_situacao_financeira_e_atuarial_rpps.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/251",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo VI - Avaliação da Situação Financeira e Atuarial do RPPS;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/251/lei_1420_2026_-_2026_07_27_-_anexo_6_avaliacao_da_situacao_financeira_e_atuarial_rpps.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 252,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/252/lei_1420_2026_-_2026_07_27_-_anexo_7_estimativa_compensacao_reuncia_receita.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/252",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo VII - Estimativa e Compensação da Renúncia de Receita;",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/252/lei_1420_2026_-_2026_07_27_-_anexo_7_estimativa_compensacao_reuncia_receita.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 253,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/253/lei_1420_2026_-_2026_07_27_-_anexo_8_margem_expansao_despesas_obrigatorias_carater_continuado.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/253",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo VIII - Margem de Expansão das Despesas Obrigatórias de Caráter Continuado.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/253/lei_1420_2026_-_2026_07_27_-_anexo_8_margem_expansao_despesas_obrigatorias_carater_continuado.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 254,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/254/lei_1420_2026_-_2026_07_27_-_anexo_9_demonstrativo_de_riscos_fiscais.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/254",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Riscos Fiscais e Providências.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/254/lei_1420_2026_-_2026_07_27_-_anexo_9_demonstrativo_de_riscos_fiscais.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 255,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/255/lei_1420_2026_-_2026_07_27_-_anexo_10_resultado_primario_nominal.pdf da norma 04 - Lei Ordinária nº 1.420, de 27 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/255",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Resultado Primário Nominal.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/255/lei_1420_2026_-_2026_07_27_-_anexo_10_resultado_primario_nominal.pdf",
+      "ano": 2026,
+      "norma": 1562
+    },
+    {
+      "id": 256,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/256/dl_003_-_2011_03_29_-_anexo_i.pdf da norma 05 - Decreto Legislativo nº 3, de 29 de março de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/256",
+      "metadata": {},
+      "assunto_anexo": "Histórico",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2011/256/dl_003_-_2011_03_29_-_anexo_i.pdf",
+      "ano": 2011,
+      "norma": 1566
+    },
+    {
+      "id": 257,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/257/lei_1429_-_2026_09_04_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.429, de 04 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/257",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Identificação da estrada",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/257/lei_1429_-_2026_09_04_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 1574
+    },
+    {
+      "id": 258,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/258/lei_1433_-_2026_09_04_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.433, de 04 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/258",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Identificação da estrada",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/258/lei_1433_-_2026_09_04_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 1578
+    },
+    {
+      "id": 259,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/259/lei_1434_-_2026_09_04_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.434, de 04 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/259",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Identificação da estrada.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/259/lei_1434_-_2026_09_04_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 1579
+    },
+    {
+      "id": 260,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/260/lei_1438_-_2026_09_18_-_anexo_i.pdf da norma 04 - Lei Ordinária nº 1.438, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/260",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Identificação da estrada.",
+      "anexo_arquivo": "http://sapl.corbelia.pr.leg.br/media/sapl/public/anexonormajuridica/2026/260/lei_1438_-_2026_09_18_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 1583
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/700d7db63c6c491ae469fd9f7c082c5d93e8034ca68250cd311fa7adfdcbeffa.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8dd387eecb1dd8051f2ee484bdeeb805b5f58c780ced3ed6adfe59e47c432461",
+      "capturado_em": "2026-10-20T21:01:32.372643",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/700d7db63c6c491ae469fd9f7c082c5d93e8034ca68250cd311fa7adfdcbeffa.json"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/3c0a21aad68bb92d4dd59086e0356d5f577d0e398999fc0de15b1083369c9a6b.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "626f99cb4aa788610406f7bd75c12285ef56a129028224a7875d8488ae843888",
+      "capturado_em": "2026-10-20T21:01:33.335143",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/3c0a21aad68bb92d4dd59086e0356d5f577d0e398999fc0de15b1083369c9a6b.json"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/4d36e85534c00b50c00662bf648b6142b4635dbe5e990f69d293d15327bcafa6.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "11ed420410bd983553e4c0cf9ef817a4aae843af4f9a52b3a3516ac897efb45f",
+      "capturado_em": "2026-10-20T21:01:34.370526",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.corbelia.pr.leg.br/4d36e85534c00b50c00662bf648b6142b4635dbe5e990f69d293d15327bcafa6.json"
+    }
+  ]
+}

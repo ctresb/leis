@@ -1,0 +1,31 @@
+---
+titulo: "DECRETO Nº 2.663/I, DE 20 DE MARÇO DE 2026."
+uf: "RO"
+municipio: "PORTO VELHO"
+tipo: "Decreto"
+numero: "2663"
+data: 2026-03-20
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 23/03/2026"
+data_publicacao: 2026-03-23
+codigo_identificador: "B3AB75EE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116028_2026-03-20_cc3263f28bc2ecca60e82f73374a3abb.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 2.663/I, DE 20 DE MARÇO DE 2026.
+
+DECRETO Nº 2.663/I, DE 20 DE MARÇO DE 2026.
+
+Gabinete da Procuradoria Geral
+
+DAS
+05
+
+DAS 03
+
+LEONARDO BARRETO DE MORAES
+Prefeito
+Publicado por:
+Fernanda Santos Julio

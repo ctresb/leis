@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/errata.pdf da norma Lei-GP nº 2.849, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ERRATA:\r\n\r\nONDE SE LÊ: LEI nº 2843/2022 [...]\r\n\r\nLEIA-SE: LEI nº 2.849/2022 [...]",
+      "anexo_arquivo": "http://sapl.campoverde.mt.leg.br/media/sapl/public/anexonormajuridica/2022/2/errata.pdf",
+      "ano": 2022,
+      "norma": 4437
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/lei_2848-2022.pdf da norma Lei-ADM nº 2.848, de 14 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE O RECONHECIMENTO, NO ÂMBITO DO MÚNICÍPIO DE CAMPO VERDE - MT, DO DIA 09 DE JULHO COMO DIA DOS COLECIONADORES, ATIRADORES E CAÇADORES COMO ATIVIDADE DE RISCO E DÁ OUTRAS PROVIDÊNCIA. (inconstitucionalidade declarada pelo ADI (95) TJ/MT).",
+      "anexo_arquivo": "http://sapl.campoverde.mt.leg.br/media/sapl/public/anexonormajuridica/2022/3/lei_2848-2022.pdf",
+      "ano": 2022,
+      "norma": 4462
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campoverde.mt.leg.br/9655ba55d5c9f75c80a88ffd57ad0fc761afc8cb32556184d2e597d976f39f92.json",
+      "url": "https://sapl.campoverde.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2f24fbf7c7f2da6d18ed9b1dbf480fe23e05e6564a064894e6ab8d06903b7177",
+      "capturado_em": "2026-10-20T20:50:34.982218",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.campoverde.mt.leg.br/9655ba55d5c9f75c80a88ffd57ad0fc761afc8cb32556184d2e597d976f39f92.json"
+    }
+  ]
+}

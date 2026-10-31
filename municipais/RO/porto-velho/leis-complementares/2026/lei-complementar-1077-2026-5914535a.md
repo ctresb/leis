@@ -1,0 +1,224 @@
+---
+titulo: "LEI COMPLEMENTAR Nº 1.077, DE 13 DE AGOSTO DE 2026."
+uf: "RO"
+municipio: "PORTO VELHO"
+tipo: "Lei Complementar"
+numero: "1077"
+data: 2026-08-13
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 14/08/2026"
+data_publicacao: 2026-08-14
+codigo_identificador: "5914535A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116130_2026-08-13_a9f3ed052f60034af9ded763e88bd031.pdf"
+baixado_em: 2026-10-15
+---
+# LEI COMPLEMENTAR Nº 1.077, DE 13 DE AGOSTO DE 2026.
+
+LEI COMPLEMENTAR Nº 1.077, DE 13 DE AGOSTO DE 2026.
+
+Institui o Programa Municipal de Residência
+Acadêmica em Educação Inclusiva, e dá outras
+providências.
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO usando da
+atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei
+Orgânica do Município de Porto Velho.
+Faço saber que a CÂMARA MUNICIPAL DE PORTO VELHO
+aprovou e eu sanciono a seguinte
+LEI COMPLEMENTAR:
+Art. 1º Fica instituída a Residência Acadêmica em Educação
+Inclusiva, como política pública permanente de natureza acadêmica,
+educacional e formativa, caracterizada por treinamento em serviço
+supervisionado destinado ao aprimoramento da política pública
+municipal de educação inclusiva e à formação qualificada de
+profissionais para atuação no contexto educacional.
+Art. 2° A Residência tem por finalidades:
+I – promover formação prática supervisionada de estudantes de nível
+superior;
+II – desenvolver práticas educacionais inclusivas baseadas em
+evidências;
+III – fortalecer a governança da política pública por meio da produção
+de dados e indicadores;
+IV – promover o aprimoramento contínuo da política pública
+municipal de educação inclusiva;
+V – desenvolver competências multidisciplinares, interdisciplinares e
+colaborativas;
+VI – fomentar a atuação integrada entre diferentes áreas do
+conhecimento no ambiente escolar;
+VII – contribuir para a formação de profissionais preparados para
+atuação futura na educação inclusiva;
+VIII – consolidar cultura institucional inclusiva de longo prazo; e
+IX – produzir evidências institucionais e relatórios técnicos destinados
+à avaliação e aperfeiçoamento da política pública.
+Art. 3º A Residência Acadêmica em Educação Inclusiva possui
+natureza acadêmica e formativa, caracterizando-se como modalidade
+de treinamento em serviço supervisionado voltado à formação prática
+de estudantes de nível superior.
+§ 1º A participação na Residência não configura vínculo empregatício,
+estatutário ou previdenciário com a Administração Pública.
+§ 2º As atividades desenvolvidas no âmbito da residência possuem
+caráter formativo e supervisionado, sendo vedada a substituição de
+servidores públicos ou o exercício de atribuições privativas de cargos
+efetivos.
+§ 3º A participação na Residência não gera direito à contratação,
+nomeação ou efetivação no serviço público.
+Art. 4º Poderão participar estudantes regularmente matriculados e
+com frequência comprovada em cursos superiores reconhecidos pelo
+Ministério da Educação com interface com a educação ou com a
+política pública de educação inclusiva.
+Parágrafo único. A definição dos cursos elegíveis poderá ser
+detalhada em regulamento, observada a compatibilidade com a
+natureza educacional da Residência.
+Art. 5º O ingresso na Residência ocorrerá mediante processo seletivo
+público disciplinado em edital.
+§ 1º São requisitos mínimos:
+I – idade mínima de 18 anos;
+II – matrícula ativa em instituição de ensino superior reconhecida pelo
+Ministério da Educação;
+III – apresentação de certidão negativa de antecedentes criminais;
+IV – inexistência de vínculo público ou privado incompatível com a
+carga horária da Residência; e
+V – assinatura de termo de compromisso formativo.
+§ 2º O processo seletivo poderá compreender prova escrita, análise
+curricular, entrevista e/ou outras etapas definidas em edital.
+§ 3º O ingresso na Residência ocorrerá mediante processos seletivos
+públicos
+realizados
+conforme
+necessidade
+administrativa,
+disponibilidade orçamentária e capacidade institucional, nos termos
+definidos em edital.
+Art. 6º A Residência observará as políticas municipais vigentes
+relativas às ações afirmativas e inclusão social.
+§ 1º Será assegurada reserva mínima de vagas para pessoas com
+deficiência, nos termos da legislação aplicável.
+§ 2º Poderão ser previstas reservas para candidatos autodeclarados
+pretos ou pardos.
+§ 3º Poderão ser previstas reservas para famílias atípicas,
+compreendidas como pais ou mães de crianças com deficiência ou
+neurodivergência.
+
+www.diariomunicipal.com.br/arom
+
+125
+
+Rondônia , 14 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4298
+§ 4º Poderão ser instituídas outras reservas previstas em legislação
+municipal, estadual ou federal.
+Art. 7º A bolsa de residência terá duração de 36 (trinta e seis) meses.
+§ 1º A participação poderá ocorrer ao longo do curso superior do
+residente, conforme critérios definidos em regulamento.
+§ 2º A certificação como residente acadêmico somente será expedida
+mediante apresentação de diploma ou certificado de conclusão do
+curso superior.
+Art. 8º A carga horária semanal da residência poderá alcançar até 24
+(vinte e quatro) horas, distribuídas entre atividades práticas
+supervisionadas e atividades formativas.
+§ 1º O residente deverá cumprir formação inicial obrigatória com
+carga horária mínima de 200h (duzentas horas).
+§ 2º A formação poderá compreender cursos, estudos dirigidos,
+planejamento pedagógico, produção de relatórios, coleta de dados,
+seminários e demais atividades acadêmicas vinculadas à política
+pública de educação inclusiva.
+§ 3º A carga horária formativa integra a natureza acadêmica da
+Residência e constitui requisito para certificação.
+Art. 9º A Residência contará com supervisão técnica institucional
+exercida por servidor público designado para acompanhamento
+formativo dos residentes.
+§ 1º Compete ao supervisor orientar, acompanhar e avaliar o
+desempenho formativo do residente.
+§ 2º É vedada a designação de supervisor que possua parentesco até o
+terceiro grau com o residente.
+Art. 10. As atividades desenvolvidas no âmbito da Residência terão
+caráter exclusivamente formativo e supervisionado, vedada a
+atribuição de responsabilidade funcional, decisória ou substitutiva de
+servidor público.
+Art. 11. O residente fará jus a bolsa de residência mensal no valor de
+R$ 1.700,00 (mil e setecentos reais).
+§ 1º Poderão ser concedidos auxílio-transporte e auxílio-alimentação,
+nos termos do regulamento.
+§ 2º A bolsa de residência instituída nesta Lei não possui caráter
+remuneratório, não incidindo sobre ela, contribuição previdenciária e
+impostos legais.
+Art. 12. O residente fará jus a 30 (trinta) dias de recesso a cada 12
+(doze) meses de participação na Residência, coincidente com o
+calendário escolar, para os bolsistas lotados em unidades escolares.
+Art. 13. Serão admitidos afastamentos por:
+I – licença-maternidade;
+II – licença-paternidade;
+III – afastamento por motivo de saúde mediante atestado;
+IV – falecimento de familiar próximo.
+Parágrafo único. Os critérios e prazos serão definidos em
+regulamento.
+Art. 14. A permanência na Residência dependerá de:
+I – cumprimento da carga horária prevista;
+II – manutenção do vínculo com a instituição de ensino superior;
+III – entrega dos relatórios exigidos;
+IV – avaliação formativa satisfatória; e
+V – observância das normas institucionais.
+Art. 15. O residente poderá ser desligado:
+I – por abandono do curso superior;
+II – por descumprimento das normas da Residência;
+III – por avaliação formativa insatisfatória;
+IV – por decisão administrativa fundamentada;
+V – a pedido do próprio residente; ou
+VI – por apresentação de documentos inidôneos.
+Parágrafo único. Será assegurado contraditório e ampla defesa nos
+casos de desligamento administrativo.
+Art. 16. É vedada a participação simultânea em atividades que
+comprometam a carga horária ou a finalidade formativa da residência.
+Art. 17. A Residência contará com sistema permanente de
+monitoramento destinado à produção de indicadores, avaliação
+institucional e aprimoramento contínuo da política pública.
+Art. 18. As despesas decorrentes da execução desta Lei correrão por
+conta de dotações orçamentárias próprias do Município.
+§ 1º O financiamento da Residência poderá ser complementado por:
+I – transferências voluntárias da União ou do Estado;
+II – recursos provenientes de convênios, termos de cooperação ou
+instrumentos congêneres;
+III – emendas parlamentares;
+
+IV – recursos próprios; e
+V – outras fontes legalmente admitidas.
+§ 2º A execução da Residência observará a disponibilidade
+orçamentária anual e os limites da legislação fiscal aplicável.
+Art. 19. Ficam criadas 771 (setecentos e setenta e uma) bolsas de
+residência.
+Parágrafo único. O quantitativo e valor da bolsa poderão ser
+revisados, anualmente, por ato do Chefe do Executivo Municipal,
+desde que atendido o artigo 113 do Ato das Disposições
+Constitucionais Transitórias (ADCT), de acordo com:
+I – a necessidade do Município;
+II – a disponibilidade orçamentária; e
+III – a capacidade institucional das unidades educacionais e demais
+unidades administrativas ou institucionais onde a Residência venha a
+ser desenvolvido.
+Art. 20. O residente poderá atuar, exclusivamente sob supervisão
+técnica, em unidades da Rede Municipal de Ensino e em demais
+unidades administrativas vinculadas à política municipal de educação
+inclusiva.
+§ 1º A atuação terá natureza formativa e observará as seguintes
+diretrizes:
+I – apoio pedagógico a estudantes público da educação especial;
+II – apoio a processos de inclusão escolar, incluindo treinamentos;
+III – participação em planejamento pedagógico inclusivo;
+IV – apoio à produção e monitoramento de indicadores educacionais;
+e
+V – apoio à implementação de práticas pedagógicas baseadas em
+evidências.
+§ 2º É vedada a atribuição de responsabilidade funcional exclusiva ao
+residente.
+Art. 21. O Poder Executivo deverá regulamentar a presente Lei
+Complementar, no prazo máximo de 180 (cento e oitenta) dias,
+contados a partir da data de sua publicação.
+Art. 22. Esta Lei Complementar entra em vigor na data de sua
+publicação.
+Art. 23. Revoga-se a Lei Complementar nº 912, de 23 de agosto de
+2022, e o Decreto nº 18.889, de 29 de março de 2023.
+LEONARDO BARRETO DE MORAES
+Prefeito
+Publicado por:
+Thainá Mayne de Freitas Teles

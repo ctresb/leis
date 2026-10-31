@@ -1,0 +1,68 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/doec_-_n_038_-_29-05-2025.pdf da norma Decreto Legislativo-GABPRES nº 1, de 29 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Camara Municipal de Caseara",
+                [
+                  "2025-05-29T15:55:15-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Diário Oficial Eletrônico",
+      "anexo_arquivo": "http://sapl.caseara.to.leg.br/media/sapl/public/anexonormajuridica/2025/1/doec_-_n_038_-_29-05-2025.pdf",
+      "ano": 2025,
+      "norma": 101
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/doec_-_n_059_-_07-01-2026.pdf da norma Portaria-CAM nº 2, de 02 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Camara Municipal de Caseara",
+                [
+                  "2026-01-07T17:38:12-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.caseara.to.leg.br/media/sapl/public/anexonormajuridica/2026/2/doec_-_n_059_-_07-01-2026.pdf",
+      "ano": 2026,
+      "norma": 118
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caseara.to.leg.br/f95eeb940b64d568db8d004f68ffaf8f594b4e7201d39fb36363d128584b7e65.json",
+      "url": "https://sapl.caseara.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.caseara.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2592e6f8b55109e61411cb057479450dcaa2bd75111f67c5c241fc65641014b3",
+      "bytes": 1282,
+      "capturado_em": "2026-10-27T22:39:07.643257-03:00"
+    }
+  ]
+}

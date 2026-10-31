@@ -1,0 +1,137 @@
+---
+titulo: "Lei Ordinária-PREF nº 571, de 05 de maio de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "571"
+data: "1988-05-05"
+municipio: "Itatiaiuçu"
+uf: "MG"
+codigo_ibge: "3133709"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.itatiaiucu.mg.leg.br/norma/1722"
+fonte_texto: "https://sapl.itatiaiucu.mg.leg.br/media/sapl/public/normajuridica/1988/1722/lei_571.pdf"
+sha256_fonte: "5b686377c809140aeaddddc80a49d28f97820eb7cb6cf47ae7c92198a317bf11"
+sha256_texto: "171d697953e307a3f29992beb710bc9f529006ccf461122a7064eebfd799e5a2"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária-PREF nº 571, de 05 de maio de 1988
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE ITATIAIUÇU PRAÇA ANTÔNIO QUIRINO DA SILVA, 404 35685 - ITATIAIUÇU - MG
+
+LEI N° 571, DE 05/05/1988 Modifica os anexos I, II, III, IV e V a que se refere a Iei Municipal nº 552, de 07/10/87, com suas altera- ções posteriores e contém outras providências. A Câmara Municipal de Itatiaiuçu, Estado de Minas Gerais, de - cretou e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+**Art. 1º** - Os anexos I, II, III, IV e V a que se refere a Lei ' Municipal nº 552, de 07/10/87 e suas alterações posteriores, ficam subs tituídos em conformidade com os anexos que acompanham e integram a pre- sente lei.
+
+**Art. 2º** - Os valores atribuídos aos símbolos e padrões de ven- cimentos na forma prevista no anexo III, assim como os constantes do '
+
+anexo V desta lei, terão efeitos retroativos ao dia 1º de abril de 1988.
+
+**Art. 3º** - Fica concedido um reajuste de 17% (dezessete por ' cento) sobre os proventos dos funcionários municipais ativos e inativos, com vigência retroativa ao dia 1º de abril de 1988.
+
+**Art. 4º** - As despesas com a execução da presente lei, correrão por conta de dotações próprias do orçamento municipal vigente.
+
+**Art. 59** - Revogadas as disposições em contrário, esta lei en - trará em vigor na data de sua publicação. PREPEITURA MUNICIPAL DE ITATIATUÇU, ESTADO DE MINAS GERAIS, EM 05 DE ' MATO DE 1988. ILSON MORAIS DA SILVA
+
+=ANEXO I= SISTEMATICA DAS CLASSES E FUNÇÕES E UNIDADES ADMINISTRATIVAS 1 - GABINETE DO PREFEITO 1.1 - CHEFE DE GABINETE 1.2 - ASSESSOR DO PREFEITO 1.3 - OFICIAL DE ADMINISTRAÇÃO I 1.4 - RECEPCIONISTA 1.5 - CONTÍNUO-PORTEIRO 1.6 - SERVENTE 2 - DIVISÃO ADMINISTRATIVA 2.1 - DIRETOR DE DIVISÃO 2.2 - CHEFE DE SERVIÇO 2.3 - OFICIAL DE ADMINISTRAÇÃO 2.4 - ESCRITURÁRIO DATIIÓGRAFO 2.5 - AIMOXARIFE 2.6 - ESCRITURÁRIO 2.7 - ENCARREGADO DE MANUTENÇÃO 3 - DIVISÃO FINANCETRA 3.1 - DIRETOR DE DIVISÃO 3.2 - CHEFE DE SERVIÇO 3.3 - TÉCNICO EM CONTABILIDADE 3.4 - TESOUREIRO 3.5 - AUXILIAR DE CONTABILIDADE 3.6 - AUXILIAR DE TESOUREIRO 3.7 - FISCAL MUNICIPAL 4 - DIVISÃO DE SERVIÇO URBANOS 4.1 - DIRETOR DE DIVISÃO 4.2 - CHEFE DE SERVIÇO 4.3 - CHEFE DE SETOR 5 - DIVISÃO DE EDUCAÇÃO E CULTURA 5.1 - DIRETOR DE DIVISÃO 5.2 - CHEFE DE SERVIÇO 5.3 - COORDENADOR PEDAGÓGICO 5.4 - CHEFE DE SETOR 5.5 - ESCRITURÁRIO DATILÓGRAFO 5.6 - ESCRITURÁRIO
+
+=ANEXO I= SISTEMÁTICA DAS CLASSES E FUNÇOES E UNIDADES ADMINISTRATIVAS (continuação) 5.7 - PROFESSOR P-II 5.8 - PROFESSOR P-I - SERVENTE ESCOLAR S-I 5•9 5.10 - SERVENTE ESCOLAR S-II 6 - DIVISÃO DE SAÚDE E ASSISTENCIA SOCIAL 6.1 - DIRETOR DE DIVISÃO 6.2 - CHEFE DE SERVIÇO 6.3 - MÉDICO 6.4 - DENTISTA 6.5 - ESCRITURÁRIO DATILÓGRAFO 6.6 - AUXILIAR DE ENFERMAGEM X PREFETTURA MUNICIPAL DE ITATIAIUÇU, ESTADO DE MINAS GERAIS, EM 05 DE MAIO DE 1988. ILSON MORAIS DA SIIVA PREFETTO MUNICIPAL
+
+=ANEXO II= CARGOS DE PROVIMENTO EM COMISSÃO, DE RECRUTAMENTO AMPIO SÍMBOLO DENOMINAÇÃO Nº DE CARGOS
+
+CC-6 Chefe de Gabinete .
+
+CC-5 Diretor de Divisão
+
+CC-4 Assessor do Prefeito
+
+CC-3 Chefe de Serviço •
+
+CC-3 Coordenador Pedagogico
+
+CC-2 Chefe de Setor
+
+CC-1 Recepcionista
+
+PREFETTURA MUNICIPAL DE ITATIAIUÇU, ESTADO DE MINAS GERAIS, EM 05 DE MAIO DE 1988. ILSON MORAIS DA SILVA
+
+=ANEXO III= CARGOS, SÍMBOLOS, NÍVEIS E PADRÕES DE VENCIMENTOS
+
+I - DE PROVIMENTO EM COMISSÃO PADRÃO DE VEN- SÍMBOLO DENOMINAÇÃO Nº DE CIMENTO CZ$ CARGOS 37.276,20
+
+CC-6 CHEFE DE GABINETE
+
+27.335,88
+
+CC-5 DIRETOR DE DIVISÃO
+
+.... 21.426,36 ASSESSOR DO PREFETTO
+
+CC-4
+
+14.614,75
+
+cC-3 CHEFE DE SERVIÇO •
+
+14.614,75 COORDENADOR PEDAGÓGICO
+
+CC-3
+
+10.802,64ś
+
+CC-2 CHEFE DE SETOR
+
+6.287,25
+
+CC-1 RECEPCIONISTA
+
+II - DE PROVIMENTO EFETIVO PADRÃO DE VEN- SÍMBOLO DENOMINAÇÃO Nº DE CIMENTO CZ$ CARGOS 33.481,48 VITI TECNICO EM CONTABILIDADE •.•.•
+
+30.148,99 OFICIAL DE ADMINISTRAÇÃO I VII
+
+20.991,47 VI MÉDICO
+
+20.997,47 VI DENTISTA ••
+
+20.991,47 OFICIAL DE ADMINISTRAÇÃO •• VI
+
+14.614,70 V TESOUREIRO ••
+
+14.614,76 AUXTLIAR DE CONTABILIDADE V
+
+14.614,76 ESCRITURÁRIO DATILÓGRAFO •
+
+• . 11.488,52 IV ESCRITURÁRIO
+
+11.488,52 IV AUXILIAR DE TESOURETRO
+
+10.412,48 III ALMOXARIFE • •
+
+10.412,48 III FISCAL MUNICIPAL III
+
+8.807,13 AUXILIAR DE ENFERMAGEM •• II
+
+8.807,13 ENCARREGADO DE MANUTENÇÃO II
+
+..... 6.284,76 CONTINUO PORTEIRO
+
+6.284,76 I SERVENTE
+
+11.000,00 P-II PROFESSOR P-II
+
+7.671,00 P-I PROFESSOR P-I
+
+5.131,93 S-I SERVENTE ESCOLAR
+
+7.300,80 SERVENTE ESCOLAR • S-II
+
+PREFEITURA MUNICIPAL DE ITAPIAIUÇU(MG) 05) DE MAIO DE 1988 -ILSON MORAIS DA SILVA-
+
+= ANEXO IV= LINHAS DE PROMOÇÃO E ACESSO ACESSO PROMOÇÃO CARGOS Técnico em Contabilidade Oficial de Administração I Oficial de Administração I Oficial de Administração Oficial de Administração Tesoureiro Oficial de Administração Auxiliar de Contabilidade Oficial de Administração Escriturário Datilografo Escriturário Datilógrafo Escriturário Tesoureiro Auxiliar de Tesoureiro Escriturario Almoxari fe Escriturário Fiscal Municipal Professor P-II Professor -P-I Servente S-II Servente S-I PREFEITURA MUNICIPAL DE ITATIAIUÇU(MG) 05 DE MAIO DE 1988. =ILSON MORAIS DA SILVA=
+
+TV TS VII P-1 P-IÍ VIII S-I S=II 11.488,52 14.614,76 10.412,40 20.991,47 33.481,48 30.148,99 11.000,00 8.807,13 6.284,76 7.671,00 7.300,80 5.131,93 PREFEITURA MUNICIPAL DE ITATIAIUÇU(MG) 05 DE MAIO DE 1988. 10.516,60 11.603,40 14.760,91 21.201,38 33.816,29 30.450,40 11.111,00 8.887,20 6.347,61 7.747,71 5.183,24 7.373,80 UADRO DE PROGRESSAO HORIZOITAL -ILSON MORAIS DA SILVA-
+
+FALO VE 10.621,11 14.907,97 21.413,39 11.719,43 30.754,98 34.154,45 11.121,11 6.411,09 8.976,07 7.825,19 7.447,54 5.235,07 15.057,05 10.727,99 11.836,62 21.625,52 31.062,53 34.495,99 11.232,32 9.065,03 6.475,20 7H 002A102 7.903,44 7.522,01 5.287,42 10.835,27 11.954,99 15.207,62 21.841,77 31.373,15 34.840,95 11.344,64 6.539.95 9.156,49 5.340,29 7.982,47 7.597,23 10.943,62 12.074,53 15.359,70 22.060,19 35.189,36 11.458,08 31.686,88 6.605,35 9.248,05 8.062,29 7.673,20 5.393,69 15.513,30 11.053,06 12.195,27 22.280,79 35.541,25 11.572,66 32.003,75 6.671,40 9.340,93 8.142,91 5.447,63 7.749,93
+

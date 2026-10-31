@@ -1,0 +1,380 @@
+INSTITUI A POLÍTICA MUNICIPAL DE GOVERNO DIGITAL E INOVAÇÃO NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA DO MUNICÍPIO DE CUNHA/SP E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+RODRIGO SÉRGIO DO NASCIMENTO, PREFEITO DO MUNICÍPIO DE CUNHA, no uso de suas atribuições legais, faz saber que a Câmara aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Governo Digital e Inovação, com o objetivo de promover a transformação digital da gestão pública municipal, assegurando maior eficiência administrativa, transparência, acessibilidade, proteção de dados pessoais e ampliação do acesso dos cidadãos aos serviços públicos.
+
+
+Art. 2º.
+
+Para os fins desta Lei, considera-se:
+
+
+I –
+
+Governo Digital: utilização de tecnologias digitais para a oferta de serviços públicos acessíveis, integrados e centrados no cidadão;
+
+
+II –
+
+Serviço público digital: aquele prestado de forma eletrônica, sem necessidade de comparecimento presencial;
+
+
+III –
+
+Interoperabilidade: capacidade de diferentes sistemas e órgãos trocarem informações de forma segura e padronizada;
+
+
+IV –
+
+Dados abertos: informações públicas disponibilizadas em formato legível por máquina e livre de restrições de uso;
+
+
+V –
+
+Identidade digital: credencial eletrônica que permite a autenticação segura do cidadão para acesso a serviços públicos digitais;
+
+
+VI –
+
+Processo eletrônico: procedimento administrativo integralmente tramitado por meio digital, com autenticidade, integridade e validade jurídica.
+
+
+Art. 3º.
+
+A Política Municipal de Governo Digital e Inovação observará, entre outros, os seguintes princípios:
+
+
+I –
+
+Centralidade no cidadão;
+
+
+II –
+
+Simplificação e desburocratização;
+
+
+III –
+
+Transparência e controle social;
+
+
+IV –
+
+Segurança da informação e proteção de dados pessoais;
+
+
+V –
+
+Interoperabilidade e padrões tecnológicos abertos;
+
+
+VI –
+
+Inovação, sustentabilidade e inclusão digital;
+
+
+VII –
+
+Eficiência, economicidade e usabilidade.
+
+
+#### CAPÍTULO II — OBJETIVOS
+
+
+Art. 4º.
+
+São objetivos da Política Municipal de Governo Digital e Inovação:
+
+
+I –
+
+Universalizar o acesso digital aos serviços municipais;
+
+
+II –
+
+Reduzir custos e tempo de atendimento ao cidadão;
+
+
+III –
+
+Promover a integração entre sistemas e bases de dados municipais, estaduais e federais;
+
+
+IV –
+
+Garantir conformidade com a Lei Geral de Proteção de Dados Pessoais – LGPD (Lei nº 13.709/2018);
+
+
+V –
+
+Fomentar a inovação pública e o uso ético de dados;
+
+
+VI –
+
+Capacitar servidores em competências digitais e segurança da informação;
+
+
+VII –
+
+Ampliar a transparência ativa e o acesso a dados abertos;
+
+
+VIII –
+
+Assegurar a continuidade e sustentabilidade tecnológica da gestão municipal.
+
+
+#### CAPÍTULO III — DA GOVERNANÇA DIGITAL
+
+
+Art. 5º.
+
+Fica instituído o Comitê Municipal de Governo Digital e Inovação – COGDI, órgão colegiado de caráter consultivo e deliberativo, vinculado ao Gabinete do Prefeito, responsável por planejar, coordenar e monitorar a implementação desta Política.
+
+
+Art. 6º.
+
+Compete ao COGDI:
+
+
+I –
+
+Elaborar e revisar o Plano Municipal de Transformação Digital;
+
+
+II –
+
+Definir padrões técnicos de interoperabilidade, segurança e identidade digital;
+
+
+III –
+
+Estabelecer prioridades na digitalização de serviços públicos;
+
+
+IV –
+
+Propor normas e regulamentos complementares;
+
+
+V –
+
+Acompanhar indicadores de desempenho e execução orçamentária;
+
+
+VI –
+
+Promover capacitação e governança de tecnologia da informação;
+
+
+VII –
+
+Propor parcerias com universidades, órgãos públicos e entidades privadas;
+
+
+VIII –
+
+Elaborar relatórios anuais de desempenho e inovação.
+
+
+Art. 7º.
+
+O COGDI será composto por:
+
+
+I –
+
+Secretário(a) de Governo;
+
+
+II –
+
+Secretário(a) de Administração;
+
+
+III –
+
+Secretário(a) de Saúde;
+
+
+IV –
+
+Secretário(a) de Educação;
+
+
+V –
+
+Secretário(a) de Obras, Planejamento, Serviços Urbanos e Transporte;
+
+
+VI –
+
+Secretário (a) de Negócios Jurídicos ou Procurador-Geral do Município;
+
+
+VII –
+
+Chefe do Setor de Processamento de Dados;
+
+
+VIII –
+
+Representante da Sociedade Civil.
+
+
+§ 1º
+
+O Comitê poderá instituir Grupos de Trabalho Temáticos, como de dados abertos, segurança da informação e integração de serviços.
+
+
+§ 2º
+
+O Regimento Interno será editado no prazo de 150 (cento e cinquenta) dias da publicação desta Lei.
+
+
+#### CAPÍTULO IV — SERVIÇOS DIGITAIS E PROCESSOS ELETRÔNICOS
+
+
+Art. 8º.
+
+Os órgãos e entidades da Administração Direta e Indireta deverão priorizar, gradualmente, a oferta de serviços públicos em formato digital, observando critérios de relevância social e custo-benefício.
+
+
+Art. 9º.
+
+O Município de Cunha utilizará, para a tramitação eletrônica de processos administrativos e assinatura digital de documentos, a plataforma cidades.sei.sp.gov.br/sjcampos, ou outro sistema equivalente, conforme as diretrizes do Programa Nacional de Processo Eletrônico – ProPEN.
+
+
+§ 1º
+
+As assinaturas eletrônicas realizadas por meio da referida plataforma terão validade jurídica plena, conforme as Leis Federais nº 14.063/2020 e 14.129/2021.
+
+
+§ 2º
+
+O uso de assinatura eletrônica avançada ou qualificada deverá obedecer aos níveis de segurança compatíveis com o documento.
+
+
+§ 3º
+
+O Poder Executivo regulamentará perfis de acesso, autenticação e responsabilidades dos usuários do sistema.
+
+
+#### CAPÍTULO V — DADOS ABERTOS E SEGURANÇA DA INFORMAÇÃO
+
+
+Art. 10.
+
+O Município manterá política de dados abertos, garantindo a publicação de informações públicas em formatos acessíveis, atualizados e reutilizáveis.
+
+
+Art. 11.
+
+O tratamento de dados pessoais observará a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018), assegurando confidencialidade, integridade e disponibilidade das informações.
+
+
+Art. 12.
+
+Fica instituído o Programa Municipal de Segurança da Informação, a ser regulamentado por decreto e supervisionado pelo COGDI, em parceria com a Procuradoria e a Controladoria Municipal.
+
+
+#### CAPÍTULO VI — CAPACITAÇÃO E INOVAÇÃO
+
+
+Art. 13.
+
+O Município implementará programa permanente de capacitação digital voltado aos servidores públicos, abrangendo:
+
+
+I –
+
+Uso de sistemas eletrônicos e assinatura digital;
+
+
+II –
+
+Segurança da informação e proteção de dados;
+
+
+III –
+
+Cultura de inovação e atendimento digital humanizado.
+
+
+Art. 14.
+
+Serão incentivadas ações de inovação aberta, como hackathons, laboratórios de governo, parcerias com universidades e empresas de tecnologia.
+
+
+#### CAPÍTULO VII — TRANSPARÊNCIA E PARTICIPAÇÃO SOCIAL
+
+
+Art. 15.
+
+A Prefeitura manterá o Portal de Governo Digital, reunindo todos os serviços, protocolos, informações e dados abertos do Município.
+
+
+Art. 16.
+
+O portal deverá possibilitar consultas públicas, enquetes e acompanhamento de metas, garantindo efetiva participação social.
+
+
+#### CAPÍTULO VIII — DISPOSIÇÕES ORÇAMENTÁRIAS E CONTRATAÇÃO
+
+
+Art. 17.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, podendo ser suplementadas se necessário.
+
+
+Art. 18.
+
+As contratações de bens e serviços de tecnologia deverão observar a Lei Federal nº 14.133/2021, priorizando critérios de eficiência, segurança e inovação.
+
+
+#### CAPÍTULO IX — MONITORAMENTO E PRAZOS
+
+
+Art. 19.
+
+O Plano Municipal de Transformação Digital deverá definir indicadores de desempenho, incluindo percentual de serviços digitalizados, tempo médio de atendimento e nível de satisfação do usuário.
+
+
+Art. 20.
+
+O Poder Executivo regulamentará esta Lei no prazo de 180 (cento e oitenta) dias, devendo o primeiro relatório anual de monitoramento ser publicado em até 12 meses após o início da vigência.
+
+
+Art. 21.
+
+O prazo máximo para disponibilização de um serviço público municipal de alta demanda em formato digital completo será de 12 (doze) meses, a partir da publicação do decreto regulamentador.
+
+
+#### CAPÍTULO X — DISPOSIÇÕES FINAIS
+
+
+Art. 22.
+
+O descumprimento de normas de segurança da informação ou de proteção de dados sujeitará os responsáveis às sanções previstas na legislação municipal, sem prejuízo de responsabilidades civis e penais.
+
+
+Art. 23.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Cunha, 09 de fevereiro de 2026.
+
+Rodrigo Sérgio do Nascimento  
+Prefeito Municipal

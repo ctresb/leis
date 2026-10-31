@@ -1,0 +1,34 @@
+Abre crédito adicional suplementar no valor de R$ 8.600.000,00 (oito milhões e seiscentos mil reais) ao orçamento Programa em vigor, considerando a tendência de excesso de arrecadação do exercício
+
+
+A CÂMARA MUNICIPAL DE ENGENHEIRO PAULO DE FRONTIN APROVA E EU SANCIONO A SEGUINTE:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir Crédito Adicional suplementar, no valor de R$ 8.600.000,00 (oito milhões e seiscentos mil reais), para reforço das dotações consignadas no orçamento – Programa do Município, como segue:
+
+
+<table><colgroup><col span="6"><col><col span="2"></colgroup><tbody><tr><td><strong>Orgão</strong> </td><td><strong>Un</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Prog.</strong> </td><td><strong>Proj/ Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Fonte</strong> </td><td><strong>Valor R$</strong></td></tr><tr><td>2</td><td>1</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.30.00.00.00.00 </td><td>04</td><td>200.000,00</td></tr><tr><td>2</td><td>1</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>30.000,00</td></tr><tr><td>2</td><td>1</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>4.4.90.52.00.00.00.00 </td><td>04</td><td>150.000,00</td></tr><tr><td>2</td><td>2</td><td>4</td><td>61</td><td>2001</td><td>2.201</td><td>3.3.90.91.00.00.00.00 </td><td>04</td><td>470.000,00</td></tr><tr><td>2</td><td>3</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.30.00.00.00.00 </td><td>04</td><td>800.000,00</td></tr><tr><td>2</td><td>3</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.36.00.00.00.00 </td><td>04</td><td>50.000,00</td></tr><tr><td>2</td><td>3</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>550.000,00</td></tr><tr><td>2</td><td>4</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>400.000,00</td></tr><tr><td>2</td><td>4</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>4.4.90.52.00.00.00.00 </td><td>04</td><td>80.000,00</td></tr><tr><td>2</td><td>5</td><td>12</td><td>361</td><td>2009</td><td>2.211</td><td>3.3.90.30.00.00.00.00 </td><td>04</td><td>100.000,00</td></tr><tr><td>2</td><td>6</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>4.4.90.52.00.00.00.00 </td><td>04</td><td>35.000,00</td></tr><tr><td>2</td><td>7</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.30.00.00.00.00 </td><td>04</td><td>400.000,00</td></tr><tr><td>2</td><td>7</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>330.000,00</td></tr><tr><td>2</td><td>7</td><td>15</td><td>451</td><td>2002</td><td>2.204</td><td>3.3.90.30.00.00.00.00 </td><td>04</td><td>400.000,00</td></tr><tr><td>2</td><td>7</td><td>15</td><td>451</td><td>2002</td><td>2.204</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>300.000,00</td></tr><tr><td>2</td><td>7</td><td>15</td><td>451</td><td>2002</td><td>2.204</td><td>4.4.90.51.00.00.00.00 </td><td>04</td><td>2.600.000,00</td></tr><tr><td>2</td><td>8</td><td>6</td><td>182</td><td>2006</td><td>2.208</td><td>3.3.90.30.00.00.00.00 </td><td>04</td><td>100.000,00</td></tr><tr><td>2</td><td>8</td><td>6</td><td>182</td><td>2006</td><td>2.208</td><td>4.4.90.52.00.00.00.00 </td><td>04</td><td>150.000,00</td></tr><tr><td>2</td><td>8</td><td>18</td><td>541</td><td>2004</td><td>2.206</td><td>3.3.71.70.00.00.00.00 </td><td>04</td><td>229.330,00</td></tr><tr><td>2</td><td>8</td><td>18</td><td>541</td><td>2004</td><td>2.206</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>295.670,00</td></tr><tr><td>2</td><td>9</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>80.000,00</td></tr><tr><td>2</td><td>10</td><td>23</td><td>695</td><td>2001</td><td>2.201</td><td>3.3.90.39.00.00.00.00 </td><td>04</td><td>850.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Para suprimento de que trata o artigo anterior, será utilizado o Superávit Financeiro apurado em Balanço Patrimonial com base no art 43, §1º, inc. I, bem como o excesso de arrecadação considerando-se ainda a tendência do exercício, na forma do demonstrativo (ANEXO I) que integra o presente, tendo como fundamento o § 1º, inciso II e § 3º, do artigo 43 da Lei 4.320 de 17 de março de 1964.
+
+
+**BALANCETE CONTÁBIL DE VERIFICAÇÃO EM 31/12/2020**
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>ATIVO</strong> </td><td><strong>PASSIVO</strong></td></tr><tr><td><strong>CIRCULANTE/FINANCEIRO</strong> </td><td><strong>CIRCULANTE/FINANCEIRO</strong></td></tr><tr><td>Disponibilidades 1.549.991,35 </td><td>Obrigações 57.377,42</td></tr><tr><td>Conta - 48.023 ( B. Brasil) 845.085,12 </td><td>Restos à Pagar 2016 a 2020 57.377,42</td></tr><tr><td>Conta - 3-4 (Caixa) 42,74</td><td> </td></tr><tr><td>Conta - 5011 – (Bradesco) 704.863,49 </td><td>Consignação 0,00</td></tr><tr><td>Déficit 0,00 </td><td>Superávit 1.492.613,93</td></tr><tr><td><strong>TOTAL: 1.549.991,35</strong> </td><td><strong>TOTAL: 1.549.991,35</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Engenheiro Paulo de Frontin, 05 de novembro de 2021.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal

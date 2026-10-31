@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/1/cont_da_lei_complementar_n_5_de_02_de_outubro_de_2_vV6PzK9.pdf da norma Lei Complementar nº 5, de 02 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Continuação da Lei Complementar n. 05 de 02 de outubro de 2009 que trata sobre a Procuradoria Geral do Município de Coari",
+      "anexo_arquivo": "http://sapl.coari.am.leg.br/media/sapl/public/anexonormajuridica/2009/1/cont_da_lei_complementar_n_5_de_02_de_outubro_de_2_vV6PzK9.pdf",
+      "ano": 2009,
+      "norma": 41
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coari.am.leg.br/9311a496c098edc55ac21ef530513e2339b34bf2ec321de066689428721473f9.json",
+      "url": "https://sapl.coari.am.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.coari.am.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "50ff998cfbc8dbb17058e0ffd37770a5fbfb5491eb7689ccac2d271760acf377",
+      "bytes": 764,
+      "capturado_em": "2026-10-27T22:50:51.891214-03:00"
+    }
+  ]
+}

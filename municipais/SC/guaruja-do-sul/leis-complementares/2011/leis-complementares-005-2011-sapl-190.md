@@ -1,0 +1,319 @@
+---
+titulo: "Lei Complementar nº 5, de 11 de fevereiro de 2011"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "005"
+data: "2011-02-11"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/190"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/122/text"
+sha256_fonte: "c6937a6085fc2e2517a67f2fb73c4bccb870652745b52665cfd5d7a92d41e7d5"
+sha256_texto: "5a18b0c34ece2cefd91dfd02e5aa879d644d1eddf1069d5b15af464ec2734a67"
+capturado_em_fonte: "2026-10-28T14:05:47.281755-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Complementar nº 5, de 11 de fevereiro de 2011
+
+Dispõe sobre a contratação de pessoal por tempo determinado para atender a necessidade temporária de excepcional interesse público, nos termos do inciso IX do artigo 37 da Constituição Federal, e dá outras providências.
+
+
+Art. 1º.
+
+Para atender a necessidade temporária de excepcional interesse público, os órgãos da Administração Municipal direta e indireta poderão efetuar contratação de pessoal por tempo determinado, nas condições e prazos previstos nesta Lei.
+
+
+Art. 2º.
+
+Nos termos do inciso IX do artigo 37 da Constituição Federal, consideram-se necessidade temporária de excepcional interesse público as contratações:
+
+
+I –
+
+em substituição aos afastamentos legais dos titulares;
+
+
+II –
+
+em virtude de existência de vaga não ocupada após a realização de concursos públicos;
+
+
+III –
+
+em decorrência de abertura de novas vagas, por criação ou por dispensa de seu ocupante;
+
+
+IV –
+
+para atender as necessidades excepcionais e temporárias relacionadas à execução do Projeto e Programas instituídos pelo Município, bem como para execução de objetos de Termos de Convênio ou de Programas realizados em parceria com outro ente da federação;
+
+
+V –
+
+para atuação em ações e programas operacionalizados pela Secretaria de Educação, executados no contra-turno escolar e voltados à melhoria do processo ensino-aprendizagem;
+
+
+VI –
+
+assistência a situações de emergência ou calamidade pública;
+
+
+VII –
+
+combate a surtos endêmicos.
+
+
+VIII –
+
+atividades:
+
+
+a)
+
+especiais para atender encargos temporários de obras e serviços de engenharia e arquitetura;
+
+
+b)
+
+técnicas especializadas necessárias à implantação de órgãos ou entidades ou de novas atribuições definidas para organizações existentes ou as decorrentes de aumento transitório no volume de trabalho que não possam ser atendidas por pessoal próprio do quadro de servidores efetivos.
+
+
+§ 1º
+
+A contratação de professor substituto far-se-á exclusivamente para suprir a falta de docente da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença de concessão obrigatória.
+
+
+§ 2º
+
+As contratações serão feitas exclusivamente por projeto ou atividade, vedado o aproveitamento dos contratados em qualquer área da administração pública.
+
+
+§ 3º
+
+Ato do Poder Executivo disporá, para efeitos desta Lei, sobre a declaração de emergências em saúde pública.
+
+
+Art. 3º.
+
+O recrutamento do pessoal a ser contratado, nos termos desta Lei, será feito mediante processo seletivo simplificado sujeito a ampla divulgação, inclusive através do Diário Oficial do Município, prescindindo de concurso público.
+
+
+§ 1º
+
+A contratação para atender às necessidades decorrentes de calamidade pública e de emergências em saúde pública prescindirá de processo seletivo.
+
+
+§ 2º
+
+A contratação de pessoal, nos casos de profissional da área da saúde e da educação, poderá ser efetivada em vista de notória capacidade técnica ou científica do profissional, mediante análise do curriculum vitae.
+
+
+Art. 4º.
+
+As contratações serão feitas por tempo determinado, ficando a vigência dos contratos limitada à vigência da situação que lhe deu causa, respeitando-se o prazo máximo de dois anos previstos no artigo 445 da Consolidação das Leis do Trabalho.
+
+
+Art. 5º.
+
+As contratações somente poderão ser feitas com observância da dotação orçamentária específica e mediante prévia autorização do Secretário de Administração.
+
+
+Art. 6º.
+
+É proibida a contratação, nos termos desta Lei, de servidores da Administração direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios, bem como de empregados ou servidores de suas subsidiárias e controladas.
+
+
+§ 1º
+
+Excetua-se o disposto no caput deste artigo, condicionada à formal comprovação da compatibilidade de horários, a contratação de:
+
+
+I –
+
+professor substituto nas instituições municipais de ensino;
+
+
+II –
+
+profissionais de saúde com profissão regulamentada.
+
+
+§ 2º
+
+Sem prejuízo da nulidade do contrato, a infração do disposto neste artigo importará responsabilidade administrativa da autoridade contratante e do contratado, inclusive, se for o caso, solidariedade quanto à devolução dos valores pagos ao contratado.
+
+
+Art. 7º.
+
+O salário do pessoal contratado nos termos desta Lei será fixado em importância não superior ao valor do vencimento fixado para os servidores das mesmas categorias nos quadros de cargos e vencimentos do órgão ou entidade contratante para os servidores que desempenhem função semelhante, ou, não existindo a semelhança, às condições do mercado de trabalho.
+
+
+Parágrafo único
+
+Para efeitos deste artigo, não se consideram as vantagens de natureza individual dos servidores ocupantes de cargos tomados como paradigma.
+
+
+Art. 8º.
+
+Ao pessoal contratado nos termos desta Lei aplica-se o regime da Consolidação das Leis do Trabalho, com filiação obrigatória ao Regime Geral da Previdência Social.
+
+
+Art. 9º.
+
+O pessoal contratado nos termos desta Lei não poderá:
+
+
+I –
+
+receber atribuições, funções ou encargos não previstos no respectivo contrato;
+
+
+II –
+
+ser nomeado ou designado, ainda que a título precário ou em substituição, para exercício de cargo em comissão ou função de confiança.
+
+
+Parágrafo único
+
+A inobservância do disposto neste artigo importará na rescisão do contrato, sem prejuízo da responsabilidade administrativa das autoridades envolvidas na transgressão.
+
+
+Art. 10.
+
+As infrações disciplinares atribuídas ao pessoal contratado nos termos desta Lei serão apuradas mediante sindicância, concluída no prazo de trinta dias e assegurada ampla defesa.
+
+
+Art. 11.
+
+O contrato firmado de acordo com esta Lei extinguir-se-á:
+
+
+I –
+
+pelo término do prazo contratual;
+
+
+II –
+
+por iniciativa do contratado.
+
+
+III –
+
+pela extinção ou conclusão do projeto ou atividade.
+
+
+Parágrafo único
+
+A extinção antecipada do contrato, por iniciativa do órgão ou entidade contratante, decorrente de conveniência administrativa, importará no pagamento das verbas trabalhistas na Consolidação das Leis do Trabalho.
+
+
+Art. 12.
+
+O tempo de serviço prestado em virtude de contratação nos termos desta Lei será contado para todos os efeitos, exceto para aquisição dos direitos reservados aos servidores públicos regidos pelo Direito Administrativo e vinculados a Estatuto próprio.
+
+
+Art. 13.
+
+São condições para contratação:
+
+
+I –
+
+ser brasileiro;
+
+
+II –
+
+ter idade mínima de 18 (dezoito) anos na data da contratação;
+
+
+III –
+
+estar em dia com o serviço militar e eleitoral;
+
+
+IV –
+
+ter capacidade física e mental;
+
+
+V –
+
+estar legalmente habilitado para o exercício da função na qual está sendo admitido;
+
+
+VI –
+
+estar em conformidade com as disposições contidas no inciso XVI do art. 37 da Constituição Federal; e
+
+
+VII –
+
+apresentar certidão de antecedentes criminais, dos últimos 5 (cinco) anos a ser expedida pelo Poder Judiciário,
+
+
+Parágrafo único
+
+Na hipótese de não haver candidato que cumpra a condição prevista no inciso V deste artigo e em se tratando de cargo de Professor, admitir-se-á pessoal não habilitado.
+
+
+Art. 14.
+
+O regime de trabalho semanal do empregado admitido nos termos desta Lei será de 10 (dez), 20 (vinte), 30 (trinta) ou 40 (quarenta) horas semanais, conforme o disposto no edital do processo seletivo.
+
+
+Parágrafo único
+
+A carga horária inicialmente contratada poderá ser aumentada, com a correspondente majoração do salário, sempre que o interesse público assim o exigir.
+
+
+Art. 15.
+
+A área de ensino ou atuação, as habilitações e os respectivos códigos relacionados à contratação de pessoal admitido em caráter temporário constarão, obrigatoriamente, do Edital de Processo Seletivo de ingresso.
+
+
+Art. 16.
+
+Para cobrir as despesas decorrentes da execução da presente Lei, serão usados recursos do orçamento municipal.
+
+
+Art. 17.
+
+Esta Lei entra em vigor nada data de sua publicação, para ser aplicada a partir de 31 de julho de 2011, quando será elaborado Teste Seletivo para as admissões em caráter temporário necessárias ao exercício de 2012, com observância das seguintes normas de transição:
+
+
+I –
+
+aos servidores em exercício na data da entrada em vigor desta Lei, admitidos em caráter temporário e escolhidos mediante Processo Seletivo, fica garantido o direito a permanência na função até o prazo final estipulado nos respectivos contratos, podendo ser prorrogado até o dia 31/12/2011;
+
+
+II –
+
+as necessidades temporárias que surgirem durante o exercício de 2011 poderão ser supridas com a admissão dos candidatos aprovados no Processo Seletivo aberto pelo Edital n.03/2010, aplicando-se, para estes servidores a, Lei n. 1856, de 19 de dezembro de 2011.
+
+
+Art. 18.
+
+Ficam revogadas as demais disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guarujá do Sul, SC, em  
+11 de fevereiro de 2011 - 59º ano da Fundação e 49º ano da Instalação.
+
+CELSO NATALINO TAUBE,
+
+Prefeito Municipal
+
+\- Certifico que a presente Lei foi publicada e registrada nesta Secretaria em data supra.
+
+JOSÉ VIRO WASCHBURGER
+
+Secretário de Administração e Fazenda
+

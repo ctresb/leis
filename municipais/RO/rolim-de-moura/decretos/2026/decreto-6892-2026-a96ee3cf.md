@@ -1,0 +1,1470 @@
+---
+titulo: "DECRETO Nº 6.892/2026"
+uf: "RO"
+municipio: "ROLIM DE MOURA"
+tipo: "Decreto"
+numero: "6892"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 26/01/2026"
+data_publicacao: 2026-01-26
+codigo_identificador: "A96EE3CF"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_115988_2026-01-23_e868a89246bfca604f683139ed3e1213.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 6.892/2026
+
+DECRETO Nº 6.892/2026
+“Aplica a revisão geral anual conforme dispõe a Lei Complementar nº 347/2026”.
+O PREFEITO DO MUNÍCÍPIO DE ROLIM DE MOURA, Estado de Rondônia, no uso das atribuições que lhe são conferidas pelo Artigo 65
+inciso VI da Constituição Municipal.
+CONSIDERANDO o princípio da eficiência, com fito otimizar a aplicação dos efeitos da Lei Complementar nº 347, de 20 de janeiro de 2026.
+DECRETA:
+Art. 1º Adiciona o percentual de 10% (dez por cento) ao vencimento dos servidores comissionados, a partir do mês de JANEIRO de 2026, conforme
+o anexo deste Decreto.
+Art. 2º Revoga o Decreto nº 6.889, de 21 de janeiro de 2026.
+www.diariomunicipal.com.br/arom
+
+213
+
+Rondônia , 26 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4158
+Art. 3º Este Decreto entrará em vigor na da sua publicação, com efeitos financeiros a partir de 01 de janeiro de 2026.
+Rolim de Moura/RO, 23 de janeiro de 2026.
+ALDAIR JÚLIO PEREIRA
+Prefeito do Município de Rolim de Moura
+CHEFE DO EXECUTIVO
+Cargo
+01
+Prefeito
+02
+Vice-Prefeito
+TOTAL
+TOTAL 02
+
+Subsídio
+R$ 26.254,30
+R$ 13.125,85
+
+Vencimento
+R$0,00
+R$0,00
+
+Vagas
+1
+1
+2
+
+SECRETARIA MUNICIPAL DE GOVERNO – SEMGOV
+Cargo
+
+Subsídio
+
+01
+Secretário Municipal de Governo
+02
+Assessor Especial de Secretaria
+03
+Administrador Distrital
+04
+Ouvidor Municipal
+05
+Assessor de Comunicação Social
+06
+Diretor de Divisão de Relações Públicas e Cerimonial
+07
+Assessor Técnico
+08
+Diretor Administrativo
+09
+Coordenador da Ouvidoria
+10
+Coordenador do Serviço de Informações ao Cidadão- SIC
+TOTAL
+ASSESSORIA SUPERIOR DE GOVERNO E CIDADANIA
+
+R$ 12.000,00
+
+11
+
+Gratificação
+de Representação
+R$0,00
+R$ 3.961,20
+R$ 3.961,20
+R$ 1.674,57
+R$ 3.212,16
+R$ 2.904,90
+R$ 2.200,67
+R$ 2.904,90
+R$ 1.674,57
+R$ 1.674,57
+
+R$ 12.959,10
+
+Assessor Superior de Governo e Cidadania
+
+Vencimento
+
+Vagas
+
+R $0,00
+R$ 4.001,22
+R$ 4.001,22
+R$ 1.691,48
+R$ 3.244,60
+R$ 2.934,24
+R$ 2.222,90
+R$ 2.934,24
+R$ 1.691,48
+R$ 1.691,48
+
+1
+3
+1
+1
+1
+1
+2
+1
+1
+1
+13
+
+R$ 13.090,00
+
+1
+
+12
+Assessor Técnico Especial
+13
+Assessor de Representação
+14
+Diretor Especial de Convênios
+15
+Assessor Técnico
+16
+Coordenador de Sistema de Convênios-SICONV
+TOTAL
+CONTROLADORIA-GERAL DO MUNICÍPIO
+
+R$ 5.399,12
+R$ 3.961,20
+R$ 3.491,48
+R$ 2.200,67
+R$ 1.674,57
+
+R$ 5.453,66
+R$ 4.001,22
+R$ 3.526,74
+R$ 2.222,90
+R$ 1.691,48
+
+1
+1
+1
+1
+1
+6
+
+17
+Controlador-Geral do Município
+18
+Auditor Interno
+19
+Assessor Especial da Controladoria-Geral
+TOTAL
+TOTAL 22
+
+R$ 10.781,10
+R$ 8.494,20
+R$ 4.189,76
+
+R$ 10.890,00
+R$ 8.580,00
+R$ 4.232,09
+
+1
+1
+2
+4
+
+PROCURADORIA-GERAL DO MUNICÍPIO
+Cargo
+
+Subsídio
+
+01
+Procurador-Geral do Município
+02
+Assessor Técnico Especial da Procuradoria-Geral
+03
+Diretor de Divisão de Contencioso Fiscal
+04
+Assistente da Procuradoria-Geral
+05
+Diretor de Controle do Contencioso Judicial
+06
+Diretor de Contratos
+07
+Diretor Administrativo
+08
+Assessor Técnico Legislativo
+TOTAL
+TOTAL 10
+
+Gratificação
+de Representação
+R$ 17.641,80
+R$ 5.399,12
+R$ 6.703,62
+R$ 3.961,20
+R$ 5.399,12
+R$ 3.961,20
+R$ 2.904,90
+R$ 2.200,67
+
+Vencimento
+
+Vagas
+
+R$ 17.820,00
+R$ 5.453,66
+R$ 6.771,34
+R$ 4.001,22
+R$ 5.453,66
+R$ 4.001,22
+R$ 2.934,24
+R$ 2.222,90
+
+1
+1
+1
+1
+1
+1
+3
+1
+10
+
+Vencimento
+
+Vagas
+
+R$0,00
+R$ 8.580,00
+
+1
+2
+3
+
+SECRETARIA MUNICIPAL DE GABINETE
+Cargo
+
+Subsídio
+
+01
+Secretário Municipal de Gabinete
+02
+Assessor Geral de Representação e Assuntos Externos
+TOTAL
+TOTAL 3
+
+R$12.000,00
+
+Gratificação
+de Representação
+R$ 0,00
+R$ 8.494,20
+
+SECRETARIA MUNICIPAL DE FAZENDA – SEMFAZ
+Cargo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+Secretário Municipal de Fazenda
+Assessor Geral de Secretaria
+Gerente-Geral de Contabilidade
+Assessor Técnico Financeiro
+Gerente-Geral de Finanças
+Diretor-Geral de Orçamento
+Assessor Técnico
+Diretor de Cadastro Imobiliário
+Diretor de Receitas
+Diretor de Fiscalização
+Diretor de Serviços Topográficos
+Coordenador de Cadastro Mobiliário
+
+Subsídio
+R$ 12.000,00
+
+Gratificação de Representação
+R$0,00
+R$ 10.890,00
+R$ 7.541,58
+R$ 5.047,80
+R$ 5.748,35
+R$ 4.416,17
+R$ 2.200,67
+R$ 2.200,67
+R$ 3.882,18
+R$ 2.200,67
+R$ 2.822,15
+R$ 1.674,57
+
+www.diariomunicipal.com.br/arom
+
+Vencimento
+R$0,00
+R$ 11.000,00
+R$ 7.617,75
+R$ 5.098,79
+R$ 5.806,42
+R$ 4.460,78
+R$ 2.222,90
+R$ 2.222,90
+R$ 3.921,39
+R$ 2.222,90
+R$ 2.850,66
+R$ 1.691,48
+
+Vagas
+1
+1
+1
+1
+1
+1
+3
+1
+1
+1
+1
+1
+
+214
+
+Rondônia , 26 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4158
+13
+Coordenador de Regularização Fundiária
+14
+Coordenador de Dívida Ativa
+15
+Coordenador de Receitas
+16
+Coordenador Técnico
+17
+Coordenador de Finanças
+TOTAL
+TOTAL 19
+
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+
+1
+1
+1
+1
+1
+19
+
+Vencimento
+
+Vagas
+
+R$ 0,00
+R$ 4.001,22
+R$ 2.934,24
+R$ 2.934,24
+R$ 2.934,24
+R$ 2.934,24
+
+1
+1
+1
+1
+1
+1
+6
+
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO,
+COMPRAS E LICITAÇÃO – SEMACOL
+Cargo
+
+Subsídio
+
+01
+Secretário Municipal de Administração
+02
+Assessor Especial de Secretaria
+03
+Assessor Técnico Administrativo
+04
+Diretor Administrativo
+05
+Diretor de Controle de Patrimônio e Arquivos
+06
+Diretor de Almoxarifado
+TOTAL
+CHEFE DO DEPARTAMENTO DE COMPRAS E LICITAÇÕES
+
+R$ 12.000,00
+
+07
+
+Gratificação
+de Representação
+R$ 0,00
+R$ 3.961,20
+R$ 2.904,90
+R$ 2.904,90
+R$ 2.904,90
+R$ 2.904,90
+
+R$ 12.959,10
+
+Chefe do Departamento de Compra e Licitações
+
+08
+Assessor Técnico de Compras Públicas
+09
+Assessor de Agente Público de Contratações
+10
+Gerente de Registro de Preço
+11
+Assessor Técnico
+12
+Coordenador de Compras e Licitações
+13
+Coordenador de Registro de Preços
+TOTAL
+RECURSOS HUMANOS
+14
+Administrador de Recursos Humanos
+15
+Assessor Técnico
+16
+Coordenador de Recursos Humanos
+17
+Coordenador de Arquivos de Recursos Humanos
+18
+Coordenador da Junta de Serviços Militares
+19
+Assessor de Perícia Médica
+TOTAL
+TOTAL 22
+
+R$ 13.090,00
+
+1
+
+R$ 5.399,12
+R$ 5.399,12
+R$ 5.399,12
+R$ 2.200,67
+R$ 1.674,57
+R$ 1.674,57
+
+R$ 5.453,66
+R$ 5.453,66
+R$ 5.453,66
+R$ 2.222,90
+R$ 1.691,48
+R$ 1.691,48
+
+3
+2
+1
+2
+1
+1
+11
+
+R$ 5.399,12
+R$ 2.200,67
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 2.200,67
+
+R$ 5.453,66
+R$ 2.222,90
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 2.222,90
+
+1
+1
+1
+1
+1
+1
+6
+
+Vencimento
+
+Vagas
+
+R$0,00
+R$ 11.000,00
+R$ 2.222,90
+R$ 2.934,24
+R$ 2.222,90
+R$ 2.222,90
+R$ 2.222,90
+R$ 2.222,90
+R$ 1.691,48
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+R$ 1.674,57
+
+R$ 1.691,48
+
+1
+
+R$ 1.674,57
+
+R$ 1.691,48
+
+1
+
+R$ 1.674,57
+
+R$ 1.691,48
+
+1
+
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+
+1
+1
+1
+
+R$ 1.674,57
+
+R$ 1.691,48
+
+1
+
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 3.770,79
+R$ 3.961,20
+R$ 3.491,48
+R$ 5.399,12
+
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 3.808,88
+R$ 4.001,22
+R$ 3.526,74
+R$ 5.453,66
+
+1
+1
+1
+1
+1
+1
+1
+1
+24
+
+Gratificação de Representação
+R$0,00
+R$ 10.890,00
+R$ 2.200,67
+R$ 3.961,20
+R$ 2.200,67
+R$ 4.900,50
+R$ 2.200,67
+
+Vencimento
+R$0,00
+R$ 11.000,00
+R$ 2.222,90
+R$ 4.001,22
+R$ 2.222,90
+R$ 4.950,00
+R$ 2.222,90
+
+Vagas
+1
+1
+3
+1
+2
+1
+1
+
+R$ 2.200,67
+
+R$ 2.222,90
+
+1
+
+R$ 1.674,57
+
+R$ 1.691,48
+
+3
+14
+
+SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL – SEMAS
+Cargo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+
+Subsídio
+Secretário Municipal de Assistência Social
+R$ 12.000,00
+Assessor Geral de Secretaria
+Assessor Técnico
+Diretor Administrativo
+Diretor da Casa da Criança e do Adolescente
+Diretor de Serviço de Proteção Social Básica
+Diretor do Centro de Referência de Assistência Social CRAS
+Diretor do Centro de Referência Especializado de Assistência Social-CREAS;
+Coordenador de Programas Sociais do Governo Federal
+Coordenador do Fundo Municipal dos Direitos da Criança e do Adolescente –
+FMDCA
+Coordenador do Centro de Convivência do Idoso
+Coordenador de Serviço de Proteção e Atendimento Especializado a Família e
+Indivíduos PAEFI/CREAS
+Coordenador do Programa de Atenção Integral a Família – PAIF
+Coordenador do Serviço de Convivência e Fortalecimento de Vínculos
+Coordenador do Serviço Socioeducativo e Liberdade Assistida
+Coordenador de Planejamento das Políticas Sociais
+
+17
+Coordenadoria de Vigilância Socioassistencial
+18
+Coordenadoria Administrativo da Casa da Criança e do Adolescente
+19
+Coordenador de Controle de Frotas
+20
+Coordenador do Programa Criança Feliz/Primeira Infância
+21
+Tesoureiro da Secretaria de Assistência Social
+22
+Assessor de Gestão Técnica e Estratégica do SUAS
+23
+Diretor de Programas Sociais do Governo Federal
+24
+Assessor Técnico Especial de Secretaria
+TOTAL
+TOTAL 24
+
+Gratificação
+de Representação
+R$0,00
+R$ 10.890,00
+R$ 2.200,67
+R$ 2.904,90
+R$ 2.200,67
+R$ 2.200,67
+R$ 2.200,67
+R$ 2.200,67
+R$ 1.674,57
+
+SECRETARIA MUNICIPAL DE AGRICULTURA – SEMAGRI
+Cargo
+01
+02
+03
+04
+05
+06
+07
+08
+
+Subsídio
+Secretário Municipal de Agricultura
+R$ 12.000,00
+Assessor Geral de Secretaria
+Assessor de Secretaria
+Assessor Especial de Desenvolvimento Agroindustrial
+Assessor Técnico
+Diretor de Patrulha Mecanizada
+Diretor de Apoio a Aquisição e a Comercialização da Agricultura Familiar
+Diretor do Polo de Produção de Produtos Hortifrutigranjeiros da Região da Zona da
+Mata Rondoniense – CEASA
+Coordenador de Apoio ao Campo
+
+09
+TOTAL
+TOTAL 14
+
+www.diariomunicipal.com.br/arom
+
+215
+
+Rondônia , 26 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4158
+SECRETARIA MUNICIPAL DE MEIO AMBIENTE E DESENVOLVIMENTO URBANO – SEMMADU
+Cargo
+01
+02
+03
+
+Secretário Municipal de Meio Ambiente e Desenvolvimento Urbano
+Gerente de Controle de Trânsito
+Assessor Técnico
+
+04
+05
+06
+07
+08
+09
+10
+11
+TOTAL
+
+Subsídio
+R$ 12.000,00
+
+Gratificação de Representação
+R$0,00
+R$ 5.357,79
+R$ 2.200,67
+
+Vencimento
+R$0,00
+R$ 5.411,91
+R$ 2.222,90
+
+Vagas
+1
+1
+6
+1
+
+Diretor-Geral de Planejamento e Urbanismo
+
+R$ 5.357,79
+
+R$ 5.411,91
+
+Coordenador de Sinalização, Operação e Fiscalização de Tráfego.
+Coordenador de Proteção Ambiental
+Gerente de Turismo
+Assistente Técnico de Turismo
+Assessor de Fiscalização
+Diretor do Departamento de Políticas Públicas Relacionadas ao Bem-Estar
+Animal
+Gerente do Viveiro Municipal
+
+R$ 1.674,57
+R$ 1.674,57
+R$ 5.357,79
+R$ 2.018,97
+R$ 1.217,21
+
+R$ 1.691,48
+R$ 1.691,48
+R$ 5.411,91
+R$ 2.039,37
+R$ 1.229,50
+
+2
+1
+1
+1
+2
+
+R$ 2.200,67
+
+R$ 2.222,90
+
+1
+
+R$ 5.357,79
+
+R$ 5.411,91
+
+1
+18
+
+Vencimento
+
+Vagas
+
+R$0,00
+R$ 11.000,00
+R$ 4.001,22
+R$ 4.001,22
+R$ 2.222,90
+R$ 2.934,24
+R$ 2.222,90
+R$ 2.222,90
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+
+1
+1
+1
+1
+4
+1
+1
+1
+1
+1
+1
+1
+1
+16
+
+TOTAL 18
+SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS PÚBLICOS – SEMOSP
+Cargo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+TOTAL
+TOTAL 16
+
+Subsídio
+Secretário Municipal de Obras e Serviços Públicos
+Assessor Geral de Secretaria
+Assessor Especial de Secretaria
+Assessor Especial de Serviços Eletricitários
+Assessor Técnico
+Diretor Administrativo
+Diretor de Controle de Peças e Almoxarifado
+Diretor de Controle de Frotas
+Coordenador do Cemitério Municipal
+Coordenador de Recursos Humanos
+Coordenador de Serviços Públicos Urbanos
+Coordenador de Serviços Públicos Rurais
+Coordenador de Serviços Mecânicos
+
+R$ 12.000,00
+
+Gratificação
+de Representação
+R$0,00
+R$ 10.890,00
+R$ 3.961,20
+R$ 3.961,20
+R$ 2.200,67
+R$ 2.904,90
+R$ 2.200,67
+R$ 2.200,67
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+
+SECRETARIA MUNICIPAL DE PLANEJAMENTO, DESENVOLVIMENTO
+E GESTÃO – SEMPLADEGE
+Cargo
+Subsídio
+1
+R$ 12.000,00
+Secretário Municipal de Planejamento Desenvolvimento e Gestão
+2
+Chefe de Planejamento Tecnologia e Informação
+3
+Superintendente de Desenvolvimento Econômico
+4
+Assessor Técnico de Gestão
+5
+Diretor de Planejamento
+6
+Assessor Técnico de Comunicação da Lei Geral de Proteção de Dados
+7
+Gerente de Gestão e Desenvolvimento
+8
+Gerente Especial de Engenharia
+9
+Assessor Especial de Serviços de Engenharia
+10
+Assessor Especial de Serviços Arquitetura
+11
+Assessor Técnico de Serviços Engenharia
+12
+Assessor Técnico de Serviços Arquitetura
+13
+Assessor Técnico de Serviços Topográficos
+14
+Assessor Técnico de Serviços Elétricos
+15
+Assessor Técnico em Engenharia Mecânica
+16
+Assessor Técnico (Encarregado da Lei Geral de Proteção de Dados)
+17
+Assessor de Gestão de Tecnologia da Informação da Lei Geral de Proteção de Dados
+18
+Assessor de Gestão de Segurança da Informação da Lei Geral de Proteção de Dados
+19
+Controle Interno da Lei Geral de Proteção de Dados
+TOTAL
+TOTAL 23
+
+Gratificação de Representação
+R$0,00
+R$ 6.284,65
+R$ 6.144,99
+R$ 3.961,20
+R$ 2.200,67
+R$ 6.284,65
+R$ 1.466,41
+R$ 10.890,00
+R$ 7.078,50
+R$ 7.078,50
+R$ 5.445,00
+R$ 5.445,00
+R$ 3.811,50
+R$ 5.445,00
+R$ 5.445,00
+R$ 3.961,20
+R$ 3.961,20
+R$ 3.961,20
+R$ 3.961,20
+
+Vencimento
+R$0,00
+R$ 6.348,13
+R$ 6.207,06
+R$ 4.001,22
+R$ 2.222,90
+R$ 6.348,13
+R$ 1.481,23
+R$ 11.000,00
+R$ 7.150,00
+R$ 7.150,00
+R$ 5.500,00
+R$ 5.500,00
+R$ 3.850,00
+R$ 5.500,00
+R$ 5.500,00
+R$ 4.001,22
+R$ 4.001,22
+R$ 4.001,22
+R$ 4.001,22
+
+Vagas
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+3
+2
+1
+1
+1
+1
+1
+1
+1
+23
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO– SEMED
+Cargo
+
+Subsídio
+
+1
+Secretário Municipal de Educação
+2
+Assessor Geral de Secretaria
+3
+Assessor Técnico Especial de Educação
+4
+Assessor Especial de Secretaria
+5
+Assessor Técnico
+6
+Tesoureiro da Secretaria Municipal de Educação
+7
+Diretor Administrativo
+8
+Diretor de Transporte Escolar
+9
+Diretor de Educação Fundamental e Educação Infantil
+10
+Diretor de Recursos Humanos
+11
+Gerente-Geral de Controle de Material e Manutenção de Escolas
+12
+Diretor Escolar
+13
+Diretor Escolar Adjunto
+14
+Diretor de Extensão Escolar
+15
+Coordenador de Transporte Escolar
+16
+Coordenador de Projetos
+17
+Coordenador de Inspeção Escolar
+TOTAL
+TOTAL 47
+
+R$ 12.000,00
+
+Gratificação
+de Representação
+R$ 0,00
+R$ 10.890,00
+R$ 5.399,12
+R$ 3.961,20
+R$ 2.200,67
+R$ 3.770,79
+R$ 2.904,90
+R$ 3.811,50
+R$ 2.200,67
+R$ 2.200,67
+R$ 3.811,50
+R$ 3.727,34
+R$ 3.261,42
+R$ 2.200,67
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+
+www.diariomunicipal.com.br/arom
+
+Vencimento
+
+Vagas
+
+R$ 0,00
+R$ 11.000,00
+R$ 5.453,66
+R$ 4.001,22
+R$ 2.222,90
+R$ 3.808,88
+R$ 2.934,24
+R$ 3.850,00
+R$ 2.222,90
+R$ 2.222,90
+R$ 3.850,00
+R$ 3.764,99
+R$ 3.294,37
+R$ 2.222,90
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+15
+14
+3
+1
+1
+1
+47
+
+216
+
+Rondônia , 26 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4158
+SECRETARIA MUNICIPAL DE SAÚDE – SEMUSA
+Cargo
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+
+Subsídio
+
+Gratificação
+de Representação
+0,00
+R$ 10.890,00
+R$ 5.399,12
+R$ 5.586,35
+R$ 6.200,85
+R$ 9.801,00
+R$ 4.262,39
+R$ 3.770,79
+R$ 2.200,67
+R$ 3.961,20
+R$ 3.961,20
+R$ 3.961,20
+
+Vencimento
+
+Vagas
+
+0,00
+R$ 11.000,00
+R$ 5.453,66
+R$ 5.642,78
+R$ 6.263,49
+R$ 9.900,00
+R$ 4.305,44
+R$ 3.808,88
+R$ 2.222,90
+R$ 4.001,22
+R$ 4.001,22
+R$ 4.001,22
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+R$ 3.961,20
+
+R$ 4.001,22
+
+1
+
+R$ 2.822,15
+R$ 3.961,20
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 1.653,10
+R$ 1.653,10
+
+R$ 2.850,66
+R$ 4.001,22
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 1.669,80
+R$ 1.669,80
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+
+R$ 2.822,15
+
+R$ 2.850,66
+
+1
+
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+
+1
+1
+1
+1
+1
+1
+
+25
+26
+27
+28
+29
+30
+
+Secretário Municipal de Saúde
+R$12.000,00
+Assessor Geral de Secretaria
+Assessor Técnico Especial
+Superintendente Contábil, Financeiro e Orçamentário
+Diretor de Gestão Hospitalar
+Diretor Clínico Hospitalar
+Auditor Clínico Hospitalar
+Tesoureiro do Fundo Municipal de Saúde
+Assessor de Gestão Técnica e Estratégica do SUS
+Administrador de Transporte e Manutenção de Veículos
+Gerente-Geral de Processos Administrativos
+Gerente-Geral de Planejamento, Orçamento, Avaliação, Controle, Projetos e Convênios
+Gerente-Geral do Complexo de Regulação, Controle, Avaliação, Ouvidoria e Auditoria do
+SUS
+Diretor de Vigilância em Saúde
+Gerente-Geral de Assistência a Atenção Básica
+Gerente Administrativo da Policlínica “Júlio Henrique Jacob”
+Diretor do Centro de Especialidades Médicas Marinha Andrade Rocha
+Diretor do Centro de Atenção Psicossocial – CAPS
+Diretor do Centro de Reabilitação
+Diretor do Laboratório Municipal
+Diretor de Enfermagem
+Gerente dos Programas Estratégicos
+Gerente de Execução de Programas do SUS e Informática
+Diretor Administrativo da Unidade Básica de Saúde “Eni Correia da Silva” (Distrito de
+Nova Estrela)
+Diretor Administrativo da Unidade Básica de Saúde “Centro Norte”
+Diretor Administrativo da Unidade Básica de Saúde “Planalto”
+Diretor Administrativo da Unidade Básica de Saúde “Jardim Tropical”
+Diretor Administrativo da Unidade Básica de Saúde “Cidade Alta”
+Diretor Administrativo da Unidade Básica de Saúde “Albert Sabin”
+Diretor Administrativa da Unidade Básica de Saúde “Beira Rio”
+
+31
+
+Coordenador de Acompanhamento na Execução de Projetos e Convênios
+
+R$ 1.674,57
+
+R$ 1.691,48
+
+32
+
+Coordenador de Captação e Avaliação de Dados Estatísticos
+
+R$ 1.674,57
+
+R$ 1.691,48
+
+33
+Coordenador de Controle de Contratos e Convênios
+34
+Coordenador de Almoxarifado e Patrimônio
+35
+Coordenar de Atenção Assistencial de Complexo Regulador
+36
+Coordenador de Epidemiologia e Ambiental
+37
+Coordenador de Programas MDST/AIDS
+38
+Coordenador de Vigilância Sanitária
+39
+Coordenador do Centro de Zoonoses
+40
+Gerente-Geral de Atenção Farmacêutica
+41
+Coordenador de Recurso Humano Hospitalar
+42
+Coordenador de Captação e Avaliação de Dados Estatísticos Hospitalar
+43
+Coordenador do Serviço de Hanseníase
+44
+Coordenador de Judicialização da Saúde
+45
+Diretor de Gestão da UPA
+46
+Assessor Especial da UPA
+47
+Diretor Clínico da UPA
+48
+Diretor Administrativo da UPA
+49
+Diretor de Enfermagem da UPA
+50
+Assessor de Gestão e Faturamento da UPA
+51
+Diretor-Geral de Recursos Humanos
+52
+Diretor de Sistema de Informação de TI
+53
+Diretor de Comunicação
+54
+Gerente Administrativo do Centro Espacial de Odontologia – CEO
+55
+Gerente-Geral de Saúde Bucal
+TOTAL
+TOTAL 55
+
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 3.961,20
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 1.674,57
+R$ 5.637,14
+R$ 3.601,11
+R$ 9.801,00
+R$ 2.822,15
+R$ 2.822,15
+R$ 2.822,15
+R$ 3.961,20
+R$ 2.822,15
+R$ 2.822,15
+R$ 1.653,10
+R$ 3.961,20
+
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 4.001,22
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 1.691,48
+R$ 5.694,08
+R$ 3.637,48
+R$ 9.900,00
+R$ 2.850,66
+R$ 2.850,66
+R$ 2.850,66
+R$ 4.001,22
+R$ 2.850,66
+R$ 2.850,66
+R$ 1.669,80
+R$ 4.001,22
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+1
+
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+55
+
+Publicado por:
+Luciani Fernandes

@@ -1,0 +1,68 @@
+{
+  "estado": "indice_completo",
+  "total": 5,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/anexo.pdf da norma Lei Ordinária nº 495, de 28 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.eldoradodocarajas.pa.leg.br/media/sapl/public/anexonormajuridica/2022/1/anexo.pdf",
+      "ano": 2022,
+      "norma": 439
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/anexos_ii_e_iii_de_metas_fiscais_e_riscos_fiscais_pldo_2023_1.pdf da norma Lei Ordinária nº 495, de 28 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.eldoradodocarajas.pa.leg.br/media/sapl/public/anexonormajuridica/2022/2/anexos_ii_e_iii_de_metas_fiscais_e_riscos_fiscais_pldo_2023_1.pdf",
+      "ano": 2022,
+      "norma": 439
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/plano_de_mobilidade_urbana_eldorado.pdf da norma Lei Ordinária nº 504, de 29 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.eldoradodocarajas.pa.leg.br/media/sapl/public/anexonormajuridica/2022/3/plano_de_mobilidade_urbana_eldorado.pdf",
+      "ano": 2022,
+      "norma": 462
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/4/errata_resolucao_n_14_-_2022.pdf da norma Resolução nº 14, de 14 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Errata da Resolução 14.",
+      "anexo_arquivo": "http://sapl.eldoradodocarajas.pa.leg.br/media/sapl/public/anexonormajuridica/2022/4/errata_resolucao_n_14_-_2022.pdf",
+      "ano": 2022,
+      "norma": 466
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/resolucao_07-2022.pdf da norma Resolução-CMEC nº 7, de 21 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Resolução sem as alterações.",
+      "anexo_arquivo": "http://sapl.eldoradodocarajas.pa.leg.br/media/sapl/public/anexonormajuridica/2022/5/resolucao_07-2022.pdf",
+      "ano": 2022,
+      "norma": 420
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eldoradodocarajas.pa.leg.br/64652be023e5f0d4f90aa8082fa103cee22ad49e732c3069f637e32fde2a994b.json",
+      "url": "https://sapl.eldoradodocarajas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.eldoradodocarajas.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b8193b8aea96de6825bba51c3591c60fa023873ff860dbf8a7e1e9bf19a6035a",
+      "bytes": 2312,
+      "capturado_em": "2026-10-28T10:26:12.698072-03:00"
+    }
+  ]
+}

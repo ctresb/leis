@@ -1,0 +1,66 @@
+{
+  "host": "sapl.bonfinopolisdeminas.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/102-2019.pdf da norma Lei nº 1307 - S, de 31 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Encaminha ofício nº 102/2019 ao Prefeito Municipal comunicando a votação do Ato Legislativo de Suspensão de Aplicabilidade da Lei Municipal nº 1.307 de 31 de Julho de 2019.",
+      "anexo_arquivo": "http://sapl.bonfinopolisdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/3/102-2019.pdf",
+      "ano": 2019,
+      "norma": 1608
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/103-2019_para_promotoria.pdf da norma Lei nº 1307 - S, de 31 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Encaminha ofício nº 103/2019 a Promotoria comunicando a votação do Ato Legislativo de Suspensão de Aplicabilidade da Lei Municipal nº 1.307 de 31 de Julho de 2019.",
+      "anexo_arquivo": "http://sapl.bonfinopolisdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/4/103-2019_para_promotoria.pdf",
+      "ano": 2019,
+      "norma": 1608
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/104-2019_tribunal_de_contas.pdf da norma Lei nº 1307 - S, de 31 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Encaminha ofício nº 104/2019 ao Tribunal de Contas comunicando a votação do Ato Legislativo de Suspensão de Aplicabilidade da Lei Municipal nº 1.307 de 31 de Julho de 2019.",
+      "anexo_arquivo": "http://sapl.bonfinopolisdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/5/104-2019_tribunal_de_contas.pdf",
+      "ano": 2019,
+      "norma": 1608
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/7/ccf_001157.pdf da norma Resolução nº 132, de 23 de dezembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "anexos da resolução nº 132, de 23 dezembro de 2003.",
+      "anexo_arquivo": "http://sapl.bonfinopolisdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2003/7/ccf_001157.pdf",
+      "ano": 2003,
+      "norma": 867
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/8/anexo_-_lei_1332.pdf da norma Lei nº 1.332, de 01 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Estrutura de carreira dos profissionais do Magistério Público Municipal",
+      "anexo_arquivo": "http://sapl.bonfinopolisdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/8/anexo_-_lei_1332.pdf",
+      "ano": 2020,
+      "norma": 1719
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.bonfinopolisdeminas.mg.leg.br/c65af24b9a053861fe680c804bace24e508cbf0b61576e44e8e12f8b9126870f.json",
+      "sha256": "ea309e0468cd284660197843b235240a600f4606d07c9d9c1345491a02a88dc7",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.bonfinopolisdeminas.mg.leg.br/c65af24b9a053861fe680c804bace24e508cbf0b61576e44e8e12f8b9126870f.meta.json"
+    }
+  ],
+  "total": 5
+}

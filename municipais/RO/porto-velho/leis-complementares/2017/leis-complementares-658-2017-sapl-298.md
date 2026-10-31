@@ -1,0 +1,56 @@
+---
+titulo: "Lei Complementar nº 658, de 22 de março de 2017"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "658"
+data: "2017-03-22"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2019-12-20; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/298"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/778/text"
+sha256_fonte: "525af39842f88b920b2e70f302415d6aad95f585afd90b2b69824829f5791cba"
+sha256_texto: "2826d18abe0bb5664902df6dbcc1ff0d0c539cccf89cecb6f668320ec86b9184"
+capturado_em_fonte: "2026-10-27T20:43:20.843354-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 658, de 22 de março de 2017
+
+“Dispõe sobre a criação de Auxílio de Atividade de Mutirão Especial, para servidores do Poder Executivo Municipal da Prefeitura do Município Porto Velho e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO,** usando da atribuição que lhe é conferida nos inciso IV, do art. 87, da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a Câmara Municipal de Porto aprovou e eu sanciono a seguinte,  
+  
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica criado o Auxílio de Atividade de Mutirão Especial, no valor de R$ 450,00 (quatrocentos e cinquenta reais), exclusivamente para atividades de limpeza em vias públicas aos servidores municipais ocupantes do cargo efetivo, pertencentes a classes A e B, previstas nos incisos I e II do art. 4º da Lei Complementar n. 384, de 30 de junho de 2010, desde que lotados e em efetivo exercício na Subsecretaria Municipal de Serviços Básicos e no valor de R$ 360,00 (trezentos e sessenta reais), para as demais atividades de mutirão especial, aos servidores municipais ocupantes de cargo efetivo, pertencentes a classes A e B, previstas nos incisos I e II do art. 4º da Lei Complementar n. 384, de 30 de junho de 2010, desde que lotados e em efetivo exercício na Subsecretaria Municipal de Serviços Básicos, Subsecretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável, Subsecretaria Municipal de Obras e Pavimentação, Secretaria Municipal de Administração, Secretaria Municipal de Agricultura e Abastecimento, Defesa Civil e Secretaria Municipal de Trânsito, Mobilidade e Transportes
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 800, de 20 de dezembro de 2019.
+
+
+Parágrafo único
+
+A atividade de mutirão especial será exercida exclusivamente por servidores efetivos, sendo na Subsecretaria Municipal de Serviços Básicos compreendendo atividades de limpeza em vias públicas, logradouros públicos, praças, na Subsecretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável em atividades de manutenção e limpeza em áreas verdes, ecopraças, ecoparques e Unidades de Conservação, na Subsecretaria Municipal de Obras e Pavimentação em atividades de terraplenagem, drenagem, pavimentação, tapa-buraco e limpeza de canais, na Secretaria Municipal de Administração em atividades de reformas prediais, manutenção e conservação patrimonial, serviços de limpeza pesada, carpintaria, hidráulica e elétrica, na Defesa Civil em operações e nas atividades fins do órgão, na Secretaria Municipal de Agricultura e Abastecimento em atividades relativas à construção e manutenção de estradas vicinais, limpeza e conservação no âmbito da SEMAGRIC, auxílio às atividades de construção e manutençao de estradas vicinais e atividades de transporte da produção e de insumos agrícolas, na Secretaria Municipal de Trânsito, Mobilidade e Transportes em atividades relativas a sinalização vertical e horizontal nas vias públicas e na implantação e remoção de mobiliários urbanos, em horário especial e em regime de mutirão, devendo a designação ocorrer previamente mediante portaria, com especificidades a serem regulamentadas por ato do Chefe do Executivo Municipal.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 800, de 20 de dezembro de 2019.
+
+
+Art. 2º.
+
+O Auxilio de Atividade de Mutirão Especial é de caráter indenizatório e vigora por período de um ano.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+

@@ -1,0 +1,611 @@
+---
+titulo: "Lei nº 10, de 27 de novembro de 1963"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "10"
+data: "1963-11-27"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/1818"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/38/text"
+sha256_fonte: "8e4cbaf903966cdf7d1f4423e39fe9ef65c7243bf6dd949511803b1ce1af3db7"
+sha256_texto: "628ed2516780cc5cb2a4c35c8687224530e515737f9fee5a79420aa9418eae88"
+capturado_em_fonte: "2026-10-28T14:04:47.954110-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 10, de 27 de novembro de 1963
+
+Dispõe sobre a Admissão, Direitos, Deveres e Responsabilidades dos extranumerários, diaristas e tarefeiros do município e dá outras providencias.
+
+
+#### CAPÍTULO I — Das disposições preliminares
+
+
+Art. 1º.
+
+Esta lei estabelece normas à admissão, direitos, deveres e responsabilidades extranumerários, diarista e tarefeiros do Município.
+
+
+Art. 2º.
+
+Considera-se para os efeitos desta lei extranumerário diarista aquele que é admitido pra funções de natureza braçal, recebendo salário correspondente ao dia do trabalho, e tarefeiro aquele que percebe salário na base de produção por unidade.
+
+
+#### CAPÍTULO II — Da admissão
+
+
+Art. 3º.
+
+O pessoal extranumerário diarista e tarefeiro são admitidos com salário fixo, restante da tabela Geral, instituída anualmente por decretos do Prefeito, de ocorrência em a dotação orçamentária.
+
+
+§ 1º
+
+Na fixação da tabela de salários, o vencimento por dia do diarista, não poderá exceder 60% o salário mínimo fixado por lei, federal para todos os trabalhadores da região.
+
+
+§ 2º
+
+A admissão de extranumerários, diarista ou tarefeiros se fará por portaria do Prefeito, na qual constará a espécie de serviço a ser prestado, o salário e a dotação orçamentária apreciada.
+
+
+§ 3º
+
+É vedada a admissão de extranumerários, diaristas ou tarefeiros, em função inerente ao cargo de carreira e a Profissões liberais, bem como para o serviço de escritório de qualquer natureza, ressalvados os direitos daqueles que na data da vigência desta lei, tenham sido admitidos para essas funções até seis meses antes.
+
+
+Art. 4º.
+
+Só poderá ser admitido aos serviços da Prefeitura aquele que preencher as seguintes condições:
+
+
+a)
+
+Ter mais de 18 (dezoito) anos de idade, e menor de 40 (quarenta);
+
+
+b)
+
+Estar quites em serviço militar;
+
+
+c)
+
+Não sofrer moléstias incuráveis, infecciosas ou contagiosas, nem ter defeitos físicos, que impossibilitem o exercício do trabalho.
+
+
+Art. 5º.
+
+Os menores entre 14(quatorze) e 18 anos (dezoito) anos, só poderão ser admitidos para a função de mensageiros ou aprendiz, desde que saibam ler e escrever, e apresentem a autorização dos pais ou responsável, e, quando necessário do Juiz de menores.
+
+
+#### CAPÍTULO III — Do trabalho ordinário e extranumerário
+
+
+Art. 6º.
+
+É de 8 (oito) horas a duração do dia de trabalho, podendo ser aumentado em caso de necessidade.
+
+
+Parágrafo único
+
+As horas suplementares serão pagas com aumento percentual estabelecido pela Consolidação das Leis de trabalho em vigor.
+
+
+Art. 7º.
+
+O serviço noturno compreendido entre 22 e 5 horas será pago de acordo com o determinado pela Consolidação das Leis Trabalhistas em vigor.
+
+
+Art. 8º.
+
+Ao menor de 18 (dezoito) anos não será permitido o trabalho extranumerário nem noturno.
+
+
+Art. 9º.
+
+O extranumerário terá direito ao descanso semanal remunerado de 24 horas, correspondente ao salário de um dia ordinário de trabalho e, para todos os efeitos, computado como o dia de serviço prestado.
+
+
+Art. 10.
+
+O descanso remunerado só será concedido ao extranumerário que houver trabalhado 6 (seis) dias consecutivos anteriores ao repouso previamente fixado, o qual deverá tanto quanto possível coincidir com o domingo.
+
+
+Parágrafo único
+
+Os dias de feriados nacional ou municipal serão também remunerados e não prejudicarão a obtenção do descanso remunerado.
+
+
+Art. 11.
+
+São deveres do extranumerário diarista:
+
+
+a)
+
+Acatar as ordens recebidas;
+
+
+b)
+
+Prestar o devido respeito aos superiores hierárquicos;
+
+
+c)
+
+Manter exemplar comportamento;
+
+
+d)
+
+Dar desempenho ao trabalho que lhe foi designado;
+
+
+e)
+
+Zelar pelos bens sujeitos à sua guarda ou que lhe forem entregues para o desempenho do trabalho, responsabilizando-se por eles.
+
+
+#### CAPÍTULO IV — Das férias
+
+
+Art. 12.
+
+Os diaristas e tarefeiros gozarão, anualmente, de um período de férias remuneradas, na seguinte proporção:
+
+
+a)
+
+20 (vinte) dias úteis aos que tiverem trabalhado 250 (duzentos e cinqüenta) dias durante o ano anterior, e não tenham dado mais de 6 (seis) faltas justificadas ou não do serviço;
+
+
+b)
+
+15 (quinze) dia úteis aos que tiverem trabalhado mais de 200 (duzentos) dias e menos de 250 (duzentos e cinqüenta) dias durante o ano anterior;
+
+
+c)
+
+7 (sete) dias úteis aos que tiverem trabalhado mais de 150 (cento e cinqüenta ) dias e menos de 200 (duzentos) dias, durante o ano anterior.
+
+
+Art. 13.
+
+As férias, cuja acumulação é vedada, só poderá ser gozada num período de 10 (dez) meses de trabalho, contado da admissão.
+
+
+Parágrafo único
+
+Se em caso de extrema necessidade, não puderem os diaristas e tarefeiros gozar as férias a que tem direito, receberão em dobro o pagamento do salário.
+
+
+Art. 14.
+
+Não tem direito a férias o empregado extranumerário que durante a sua aquisição:
+
+
+a)
+
+demitir-se e não for readmitida dentro de 60 (sessenta) dias subseqüentes a sua saída;
+
+
+b)
+
+deixar de trabalhar, com percepção do salário por mais de 30 (trinta) dias, em virtude de paralisação total ou parcial dos serviços.
+
+
+Art. 15.
+
+Não serão descontados do período aquisitivo do direito a férias:
+
+
+a)
+
+A ausência por motivos de acidentes do serviço;
+
+
+b)
+
+A ausência por motivo de doença, devidamente comprovada;
+
+
+c)
+
+Aos dias em que, por conveniência dói Município, não tenha havido trabalho.
+
+
+Art. 16.
+
+No caso de convocação para o serviço militar obrigatório, computar-se à ao diarista o tempo de trabalho anterior a sua apresentação aquele serviço, desde que retorne ao trabalho nos 90 dias seguintes a verificação da respectiva baixa.
+
+
+#### CAPÍTULO V — Das Faltas
+
+
+Art. 17.
+
+Consideram-se justificados as faltas por motivos de moléstia, necessariamente comprovada.
+
+
+Art. 18.
+
+Serão abonadas as faltas, até 08 (oito) dias, quando motivadas;
+
+
+a)
+
+pelo falecimento de cônjuge, filhos e irmãos;
+
+
+b)
+
+pelo casamento.
+
+
+Art. 19.
+
+A justificação e o abono de faltas não darão direito ao recebimento do salário.
+
+
+#### CAPÍTULO VI — Do Salário Família
+
+
+Art. 20.
+
+Aplicam-se ao extranumerário diaristas, em mais de um ano de serviço efetivo, as disposições referentes ao salário família concedido aos funcionários do Município.
+
+
+#### CAPÍTULO VII — Da Licença para Tratamento de Saúde
+
+
+Art. 21.
+
+Será concedida licença ao extranumerário, por doença devidamente comprovada em inspeção médica.
+
+
+Art. 22.
+
+A licença a que se refere o artigo anterior só poderá ser concedida por tempo não superior a 06 meses.
+
+
+Parágrafo único
+
+Se a moléstia, entretanto, persistir, serão permitidos prorrogações por prazos iguais, até o máximo de 03 três anos de licença contínua, os quais o diarista será aposentado.
+
+
+Art. 23.
+
+Durante o período de licença o extranumerário receberá o salário mensalmente da seguinte maneira:
+
+
+a)
+
+sem desconto até o 3º mês;
+
+
+b)
+
+com desconto de ¼, do quarto mês ao décimo segundo mês;
+
+
+c)
+
+com desconto de 1/3 do décimo terceiro mês ao vigésimo quarto;
+
+
+d)
+
+com desconto da metade do vigésimo quinto mês em diante.
+
+
+Art. 24.
+
+O diarista poderá posar licença por doença em pessoa de sua família, por tempo nunca superior a 06 (seis) meses.
+
+
+§ 1º
+
+Por pessoa da família se compreenda o cônjuge, os filhos e os pais quando com eles coabitam.
+
+
+§ 2º
+
+A licença de que trata este artigo não autoriza a percepção de vencimentos, salvo o primeiro mês quando o extranumerário receberá a metade do salário.
+
+
+Art. 25.
+
+A operaria gestante será concedida 03 (três) meses de licença sem desconto de qualquer espécie.
+
+
+Art. 26.
+
+Ao extranumerário licenciado para tratamento de sua saúde é vedado dedicar-se a qualquer atividade remunerada sob pena de ter revogada a licença a ser demitido por abandono.
+
+
+Art. 27.
+
+Ao extranumerário diarista e ao tarefeiro aplicar-se a legislação vigente sobre acidentes do Trabalho.
+
+
+#### CAPÍTULO VIII — Da Estabilidade
+
+
+Art. 28.
+
+O extranumerário diarista poderá ser dispensado:
+
+
+a)
+
+por diminuição de trabalho;
+
+
+b)
+
+por compressão ou redução de dotação orçamentária;
+
+
+c)
+
+por paralisação do trabalho motivado por lei.
+
+
+#### CAPÍTULO IX — Da Aposentadoria
+
+
+Art. 29.
+
+Será concedida aposentadoria aos extranumerários diaristas, nos seguintes casos:
+
+
+a)
+
+de incapacidade permanente por acidente em serviço;
+
+
+b)
+
+de invalidez, desde que o extranumerário conte pelo menos cinco anos de serviço efetivo na Prefeitura e não passa exercer as atividades normais ou outras que a Prefeitura lhe possa atribuir;
+
+
+c)
+
+de antiguidade, contando o operário mais de 70 (setenta) anos de idade;
+
+
+d)
+
+no previsto no artigo 22, parágrafo único.
+
+
+§ 1º
+
+Nos casos da alínea “a” e “b”, quando o extranumerário conte mais de 20 (vinte) anos de efetivo exercício os proventos de aposentadoria serão concedidas com os salários integrais e nos demais casos serão calculados a razão de 30 avos do salário médio ordinário dos últimos 03 anos de serviço completado, sendo o aposentado, contribuinte do Instituto, a Prefeitura apenas integralizará os proventos.
+
+
+§ 2º
+
+Em nenhum caso os proventos poderão ser superiores aos salários normais e nem inferiores a 2/3 dos mesmos.
+
+
+Art. 30.
+
+A aposentadoria por invalidez e por doença poderá ser revista, desde que o extranumerário recupere a sua capacidade de trabalho.
+
+
+#### CAPÍTULO X — Das Penalidades
+
+
+Art. 31.
+
+Os extranumerários estão sujeitos as seguintes as seguintes penas disciplinares:
+
+
+a)
+
+advertência;
+
+
+b)
+
+repreensão;
+
+
+c)
+
+suspensão;
+
+
+d)
+
+dispensa.
+
+
+Art. 32.
+
+A pena e advertência será aplicada verbalmente em caso de negligência.
+
+
+Art. 33.
+
+A pena de repreensão será aplicada por escrito nos casos de falta de cumprimento dos deveres.
+
+
+Art. 34.
+
+Será imposta a pena de suspensão:
+
+
+a)
+
+quando já houver sido aplicada a pena de repreensão;
+
+
+b)
+
+por desacato, por gestos, por palavras ou escrito aos superiores hierárquicos;
+
+
+c)
+
+por proceder de forma relapsa ou desidiosa no cumprimento dos seus direitos ou obrigações;
+
+
+d)
+
+por atividade ou prática de atos ofensivos a moral;
+
+
+e)
+
+por promover desordens no local de trabalho;
+
+
+f)
+
+por provocar desarmonia ou inimizades entre os companheiros;
+
+
+Art. 35.
+
+A pena de dispensa será imposta:
+
+
+a)
+
+por ato de improbidade;
+
+
+b)
+
+por incontinência de conduta ou mau procedimento;
+
+
+c)
+
+por condenação criminal, passado em julgado, caso não tenha havido suspensão da execução da pena;
+
+
+d)
+
+por embriagues;
+
+
+e)
+
+por ato de indisciplina ou insubordinação;
+
+
+f)
+
+por abandono de emprego;
+
+
+g)
+
+por ato lesivo a honra ou a boa forma ou a forma física contra os seus superiores hierárquicos, ou praticados contra qualquer pessoa, no serviço, salvo em caso de legítima defesa, própria ou de outrem.
+
+
+Art. 36.
+
+A dispensa que dependerá sempre do despacho do Prefeito será procedida de simples sindicância, processada por uma comissão de três funcionários por ele nomeado.
+
+
+Parágrafo único
+
+Quando o extranumerário contar menos de um ano de serviço efetivo, a dispensa será proferida de plano.
+
+
+Art. 37.
+
+Para efeito da alínea “f” do artigo 35 é considerado abandono de serviço e não comparecimento ao trabalho pelo espaço de 30 dias consecutivos, ou de 90 dias alternados, durante 01 ano.
+
+
+Parágrafo único
+
+Verificado qualquer dos casos, será notificada, por edital afixado por 08 dias alternados no local de costume, para, no prazo máximo de 05 cinco dias, apresentar-se ou justificar a ausência.
+
+
+#### CAPÍTULO XI — Das Disposições Finais
+
+
+Art. 38.
+
+Os benefícios relativos a aposentadoria serão inicial e provisoriamente concedidos independentes de contribuição por parte dos extranumerários, sem prejuízo, porém, de sua oportuna sujeição, mediante lei a contribuição, períodos de carência e quaisquer outras condições ou normas acaso recomendadas ou vigentes em institutos de previdência a que possam vir a ser filiados.
+
+
+Art. 39.
+
+Para os efeitos desta lei, considera-se como família de extranumerário:
+
+
+a)
+
+a mulher, marido inválido, filhos menores de 18 anos ou inválidos e filhas solteiras;
+
+
+b)
+
+o pai inválido e a mãe viúva;
+
+
+c)
+
+irmãs solteiras, menores de 21 anos ou inválidas.
+
+
+Art. 40.
+
+Proceder-se-á desconto em folha:
+
+
+a)
+
+da importância da indenização devida pelo diarista e decorrentes dos danos ocasionados por desrespeito ao dever previsto no Artigo 11, letra “e”, não podendo o desconto mensal exceder da quinta parte da quantia líquida;
+
+
+b)
+
+da prestação de alimentos, nos casos da lei civil;
+
+
+c)
+
+nos casos autorizados por leis especiais da União do Estado ou do Município.
+
+
+Art. 41.
+
+As disposições desta lei serão extensivas, no que conferem, aos extranumerários mensalistas dos serviços públicos municipais.
+
+
+Art. 42.
+
+Fica a Prefeitura autorizada a expedir a regulamentação e demais atos necessários a perfeita execução dos dispostos nesta lei, o que deverá ser feito no prazo de 90 dias a partir desta data.
+
+
+Art. 43.
+
+Esta lei entrará em vigor em 1º de janeiro de 1964, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO AOS 27 DIAS DO MÊS DE NOVEMBRO DE 1963.
+
+**JAMIL JUNI**
+
+**Prefeito Municipal**
+
+Publicado na Secretaria da Prefeitura Municipal, e afixado em edital no local de costume na data supra.
+
+**ABIGAIL DE MORAES ROSA**
+
+**Chefe da Divisão dos Negócios Internos**
+

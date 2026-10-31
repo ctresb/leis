@@ -1,0 +1,632 @@
+{
+  "itens": [
+    {
+      "numero": 1,
+      "pagina": 2,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-002-grupo-1.png",
+      "sha256": "d5d7ba9192c4ce675bbb44af7642c349b351bc29550e983408cb3ed6a35cdc87",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 150.26,
+          "x1": 153.32912,
+          "top": 429.5884,
+          "bottom": 440.6284,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 11.04000000000002
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 2,
+      "pagina": 13,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-013-grupo-1.png",
+      "sha256": "b5947be3e0827a70ee73fa52b401855bf5e4fc32bdb602df1b9a539b465aae66",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 537.12,
+          "x1": 539.35512,
+          "top": 476.47839999999997,
+          "bottom": 484.5184,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 8.04000000000002
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 3,
+      "pagina": 15,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-015-grupo-1.png",
+      "sha256": "9809526918e18c63a46cb0c2cdbac08321e652dd65347bdaaaa495595915241c",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 498.0,
+          "x1": 500.23512,
+          "top": 184.8284,
+          "bottom": 192.86839999999995,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "Arial-BoldMT",
+          "size": 8.039999999999964
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 4,
+      "pagina": 18,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-018-grupo-1.png",
+      "sha256": "8f39c666ba390b3df68c760a20b0f3da6b5aeba516fe2cc1cebe9a7520cf31a8",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 341.35,
+          "x1": 343.58512,
+          "top": 326.8184,
+          "bottom": 334.8584,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 8.04000000000002
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 5,
+      "pagina": 19,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-019-grupo-1.png",
+      "sha256": "b4ce5e98ae7634373beb9a1959ffd2dbca4ef03bab4b82ee273611665703aa44",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 45.96,
+          "x1": 48.19512,
+          "top": 555.9184,
+          "bottom": 563.9584,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 8.04000000000002
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 6,
+      "pagina": 19,
+      "grupo": 2,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-019-grupo-2.png",
+      "sha256": "96bcda16c5cc360bf626d70ab0170f730e4bac08686680038c252d9d31e08c25",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 117.98,
+          "x1": 121.316,
+          "top": 676.4200000000001,
+          "bottom": 688.4200000000001,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 7,
+      "pagina": 21,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-021-grupo-1.png",
+      "sha256": "da0c2ff791598d2675c6115007de33f75f6497b9e9eace4d9f481dffad01aeb7",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 120.38,
+          "x1": 122.88199999999999,
+          "top": 470.32,
+          "bottom": 479.32,
+          "non_stroking_color": [
+            0.753,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            0.753,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 9.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 8,
+      "pagina": 34,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-034-grupo-1.png",
+      "sha256": "db22b9b541513f81391b3716aa19be8e394ed77d8da9e9d7c284bbd4fb88f726",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 437.62,
+          "x1": 439.85512,
+          "top": 418.6384,
+          "bottom": 426.6784,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "Arial-BoldMT",
+          "size": 8.04000000000002
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 9,
+      "pagina": 37,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-037-grupo-1.png",
+      "sha256": "d11770fdc915b018f40223943a155ff3babe1bed62747de3b528d92f9e1de363",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 120.38,
+          "x1": 122.31488,
+          "top": 218.3216000000001,
+          "bottom": 225.28160000000003,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "Arial-BoldMT",
+          "size": 6.959999999999923
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 10,
+      "pagina": 37,
+      "grupo": 2,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-037-grupo-2.png",
+      "sha256": "43a21e51c2560bcd3c8ac0bca95873eae8c2904413dc01343dc90488c9b5bb5f",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 120.38,
+          "x1": 122.61511999999999,
+          "top": 564.9484,
+          "bottom": 572.9884,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "Arial-BoldMT",
+          "size": 8.04000000000002
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 11,
+      "pagina": 42,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-042-grupo-1.png",
+      "sha256": "5a65c49feaf2bea7f25e2ef8e1c62b04598d15f8af13562dfc4dabea444700ea",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 537.12,
+          "x1": 539.35512,
+          "top": 767.6484,
+          "bottom": 775.6884,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "Arial-BoldMT",
+          "size": 8.040000000000006
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 12,
+      "pagina": 49,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-049-grupo-1.png",
+      "sha256": "2e2caca36e94d6fa7c91ebf439e3735722cfaa03ea5c9184d8dc98cf9ba8f172",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 102.62,
+          "x1": 104.55488000000001,
+          "top": 642.8416,
+          "bottom": 649.8016,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "Arial-BoldMT",
+          "size": 6.960000000000008
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 13,
+      "pagina": 53,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-053-grupo-1.png",
+      "sha256": "08d0580befe30ded6af69afbce9afb06796b3a06f63a23cac9430e663fd8d715",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 143.3,
+          "x1": 146.63600000000002,
+          "top": 149.41999999999996,
+          "bottom": 161.41999999999996,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        },
+        {
+          "text": " ",
+          "x0": 117.98,
+          "x1": 121.316,
+          "top": 163.22000000000003,
+          "bottom": 175.22000000000003,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 14,
+      "pagina": 53,
+      "grupo": 2,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-053-grupo-2.png",
+      "sha256": "ca0dc900d9f4cdca3c20c54866fc7a8833ee33db62bb6888e653ca6d255ad099",
+      "caracteres": [
+        {
+          "text": ".",
+          "x0": 331.51,
+          "x1": 334.846,
+          "top": 399.07,
+          "bottom": 411.07,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        },
+        {
+          "text": " ",
+          "x0": 334.87,
+          "x1": 338.206,
+          "top": 399.07,
+          "bottom": 411.07,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 15,
+      "pagina": 64,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-064-grupo-1.png",
+      "sha256": "613d64c71fdc99b81661274af0c16e964664a29a684caba6417a799854128aa3",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 132.26,
+          "x1": 135.596,
+          "top": 295.25,
+          "bottom": 307.25,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        },
+        {
+          "text": " ",
+          "x0": 136.46,
+          "x1": 139.79600000000002,
+          "top": 295.25,
+          "bottom": 307.25,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 16,
+      "pagina": 71,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-071-grupo-1.png",
+      "sha256": "9f5526fd1fc2d2e3760603f6e3f1cac2dd84114c803cb108425d5a7db8d976d4",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 204.77,
+          "x1": 208.10600000000002,
+          "top": 254.32999999999993,
+          "bottom": 266.3299999999999,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 17,
+      "pagina": 76,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-076-grupo-1.png",
+      "sha256": "cf502e91a74d1b8143136983da14342f7069be4bfdb3fc543d45d7fc1b563951",
+      "caracteres": [
+        {
+          "text": "o",
+          "x0": 472.54,
+          "x1": 479.21200000000005,
+          "top": 479.10999999999996,
+          "bottom": 491.10999999999996,
+          "non_stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 18,
+      "pagina": 87,
+      "grupo": 1,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-087-grupo-1.png",
+      "sha256": "a453e061efbf4ae795043f81aa7258d01a3aaca74ef87b741f35fd545d18e32a",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 133.22,
+          "x1": 136.556,
+          "top": 198.74,
+          "bottom": 210.74,
+          "non_stroking_color": [
+            0.753,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            0.753,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    },
+    {
+      "numero": 19,
+      "pagina": 87,
+      "grupo": 2,
+      "imagem": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/pagina-087-grupo-2.png",
+      "sha256": "65f5b8159bac6d13e603ee7803432abbbca6bf6c0b54c237d1cf8ebec80220ac",
+      "caracteres": [
+        {
+          "text": " ",
+          "x0": 255.29,
+          "x1": 258.626,
+          "top": 492.31,
+          "bottom": 504.31,
+          "non_stroking_color": [
+            0.753,
+            0.0,
+            0.0
+          ],
+          "stroking_color": [
+            0.753,
+            0.0,
+            0.0
+          ],
+          "fontname": "ArialMT",
+          "size": 12.0
+        }
+      ],
+      "altura_pagina_pt": 843.0
+    }
+  ],
+  "contatos": [
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-001.png",
+      "sha256": "cd8560a612402b889ac379c36219ac36d55e3d1746915453117bcce404ca9491"
+    },
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-002.png",
+      "sha256": "40a5a2d7ca893dc497c9547fc4bddeb1455ad47fd28791d602f61b6664712109"
+    },
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-003.png",
+      "sha256": "8141e0ea792081adab0d3d932530cce7bf449616eebc6d655624626701ab992e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-004.png",
+      "sha256": "d636f4ae0657401d9271e38c192028957a2fb02f6e7e5fd1fa6c960e540b53e7"
+    }
+  ],
+  "sha256_fonte": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598",
+  "criterio": "Recortes incluem os espaços coloridos e contexto adjacente, sem excluir ou classificar efeitos jurídicos pela cor."
+}

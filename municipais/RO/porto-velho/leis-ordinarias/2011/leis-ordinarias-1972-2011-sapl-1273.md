@@ -1,0 +1,141 @@
+---
+titulo: "Lei nº 1.972, de 02 de dezembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1972"
+data: "2011-12-02"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1273"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/639/text"
+sha256_fonte: "c5796cc56e5fe5fc8e0bd8c8839f3e7c08ad908e91a5240cf0e0047e7b62e5e0"
+sha256_texto: "86d94bc1c865db6d89e95592712cb3fbbb55d9eb54a5f642509e70d5bca49b0d"
+capturado_em_fonte: "2026-10-27T21:11:27.017206-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.972, de 02 de dezembro de 2011
+
+“Dispõe sobre a Remoção, Guarda e Depósito de Veículos Automotores removidos em decorrência de infração de trânsito, no âmbito do Município de Porto Velho e dá outras providências”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV do art. 87 da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI**:
+
+
+Art. 1º.
+
+Fica o município de Porto Velho, responsável pela guarda e depósito de veículos removidos, apreendidos e retirados de circulação, por infração à legislação de trânsito, nas vias públicas abertas a livre circulação deste Município.
+
+
+§ 1º
+
+A responsabilidade pela guarda, depósito e alienação de veículos removidos, apreendidos e retirados de circulação poderá ser transferida a terceiros interessados que vencerem procedimento licitatório, realizado para esta finalidade ou através de órgãos de trânsito.
+
+
+§ 2º
+
+A exploração deste serviço poderá ser realizada diretamente ou delegada, através de procedimento licitatório específico, às pessoas jurídicas de direito privado, mediante permissão, concessão ou através de convênio com órgãos de trânsito municipais, estaduais e da União.
+
+
+§ 3º
+
+Caso a exploração deste serviço seja realizada por terceiros, o contratado deverá cumprir as seguintes exigências:
+
+
+I –
+
+ter local apropriado, com devido "habite-se", cercado, iluminado, e que ofereça um serviço de segurança e recepção vinte e quatro horas por dia, a fim de atender os agentes da autoridade de trânsito, assim definidos na legislação de trânsito, o público em geral, bem como zelar pela total segurança dos veículos do qual passa a ser fiel depositário;
+
+
+II –
+
+ter área coberta que proporcione o abrigo de, no mínimo, cem automóveis e cento e cinqüenta motocicletas;
+
+
+III –
+
+receber todo e qualquer veículo, assim classificado no art. 96, da Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro - CTB), quando devidamente apreendido, removido ou retirado de circulação pelos agentes da autoridade de trânsito, exceto aqueles de tração animal;
+
+
+IV –
+
+cobrar pela permanência do veículo no depósito o valor previsto em Decreto, a ser regulamentado pelo Poder Executivo.
+
+
+V –
+
+liberar os veículos somente para seus proprietários ou procuradores, mediante a regularização do motivo da apreensão, devidamente comprovada; e
+
+
+VI –
+
+possuir um livro diário no qual deve constar, no mínimo, identificação do veículo, nome do condutor ou proprietário, data do recebimento, agente de trânsito responsável pela apreensão e data da saída do veículo.
+
+
+§ 4º
+
+Os exploradores desta atividade sujeitar-se-ão a vistoria realizada pela autoridade de trânsito do Município de Porto Velho, ou qualquer pessoa por este designada, a fim de verificar o cumprimento dos dispositivos desta Lei.
+
+
+§ 5º
+
+O não cumprimento de quaisquer dos dispositivos desta Lei sujeitará o referido explorador às sanções que poderão variar de uma multa, a perda da delegação através da rescisão unilateral do contrato por parte do Município, sem o pagamento de nenhuma espécie de indenização por parte deste e sem prejuízo de outras medidas previstas em Lei.
+
+
+Art. 2º.
+
+Para fins de cumprimento da legislação de trânsito, o serviço de remoção de veículos ao depósito de que trata esta Lei deverá ser feito por pessoa jurídica de direito privado, contratado junto ao órgão de trânsito do município, que fixará os requisitos necessários para credenciamento, operação e outras condições de funcionamento.
+
+
+Parágrafo único
+
+Os valores máximos a serem cobrados dos proprietários, na rede bancária, pelo serviço de remoção e guarda dos veículos constarão no Decreto, a ser baixado pelo Poder Executivo no prazo de 60 (sessenta) dias, reajustados anualmente pela Unidade Padrão Fiscal - UPF, ou por qualquer outro índice que vier a substituí-lo.
+
+
+Art. 3º.
+
+Depois de decorrido o prazo de noventa dias, os veículos apreendidos ou removidos não reclamados por seus proprietários serão levados à hasta pública pelo Poder Público Municipal, deduzindo-se do valor arrecadado dos débitos referentes às multas, aos tributos, aos encargos legais bem como valores referentes à estadia e o restante, se houver, depositado à conta do ex-proprietário, na forma do art. 328, da Lei nº 9.503, de 23 de setembro de 1997.
+
+
+Parágrafo único
+
+Não sendo o valor arrecadado suficiente para a quitação dos débitos, o excedente será lançado em dívida ativa do Município para cobrança judicial.
+
+
+Art. 4º.
+
+A concessão dos serviços previstos nesta Lei será precedida de licitação, na modalidade de concorrência pública.
+
+
+Art. 5º.
+
+A concorrência será realizada nos termos desta Lei e da legislação pertinente, com observância dos princípios da legalidade, impessoalidade, moralidade, publicidade e igualdade de julgamento, através de critérios objetivos e da vinculação ao instrumento convocatório.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará esta Lei no prazo de 60 (sessenta) dias.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município**  
+  
+MÁRIO JONAS FREITAS GUTERRES  
+Procurador Geral do Município  
+  
+JOSÉ CLÁUDIO NOGUEIRA DE CARVALHO  
+Secretário Municipal de Transportes e Trânsito
+

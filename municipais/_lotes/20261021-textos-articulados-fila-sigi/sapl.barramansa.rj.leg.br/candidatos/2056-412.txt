@@ -1,0 +1,225 @@
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4740, DE 19 DE OUTUBRO DE 2018.
+
+
+Dispõe sobre a criação e instituição do Domicílio Tributário Eletrônico - DTe no município e dá outras providências.
+
+
+Art. 1º.
+
+Fica instituída a comunicação eletrônica entre a Secretaria Municipal de Fazenda e o sujeito passivo dos tributos municipais por meio do Domicílio Tributário Eletrônico do Município de Barra Mansa - DTe, que será de uso obrigatório mediante utilização de certificado digital ou login e senha web de acesso ao sistema, observada a forma prevista nesta lei, para os seguintes contribuintes:
+
+
+I –
+
+as pessoas jurídicas;
+
+
+II –
+
+os condomínios edilícios residenciais e comerciais;
+
+
+III –
+
+os delegatários de serviço público que prestam serviços notoriais e de registro;
+
+
+IV –
+
+os advogados, arquitetos, engenheiros e contadores regularmente constituídos nos processos e expedientes administrativos;
+
+
+V –
+
+o empresário individual a que se refere o art. 966 do Código Civil;
+
+
+VI –
+
+o Microempreendedor individual;
+
+
+Art. 2º.
+
+Para os fins desta lei considera-se:
+
+
+I –
+
+Domicílio Tributário Eletrônico do Município de Barra Mansa - DTe: portal de serviços e comunicações eletrônicas da Secretaria Municipal de Fazenda disponível na rede mundial de computadores;
+
+
+II –
+
+meio eletrônico: qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais;
+
+
+III –
+
+transmissão eletrônica: toda forma de comunicação à distância com a utilização de redes de comunicação, preferencialmente a rede mundial de computadores;
+
+
+IV –
+
+assinatura eletrônica: aquela que possibilite a identificação inequívoca do signatário e utilize certificado digital emitido por Autoridade Certificadora credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP Brasil, nos termos da lei federal específica, na seguinte conformidade:
+
+
+a)
+
+o certificado digital deverá ser do tipo A1 ou A3 e conter o número de inscrição no Cadastro de Pessoas Físicas - CPF de seu proprietário;
+
+
+b)
+
+poderá ser cadastrado um ou mais certificados digital vinculados aos CPF dos responsáveis legais da pessoa jurídica ou seu procurador.
+
+
+V –
+
+sujeito passivo: o sujeito eleito pela legislação para o cumprimento da obrigação tributária independentemente se principal ou acessória, podendo ser o próprio contribuinte ou terceiro responsável pelo cumprimento da obrigação.
+
+
+Art. 3º.
+
+A Secretaria Municipal de Fazenda poderá utilizar a comunicação eletrônica - DTe para, dentre outras finalidades:
+
+
+I –
+
+cientificar o sujeito passivo de quaisquer tipos de atos administrativos;
+
+
+II –
+
+encaminhar notificações e intimações, inclusive, notificações de lançamento de tributos, Termo de Início de Ação Fiscal e Auto de Infração;
+
+
+III –
+
+remessa e recebimento de declarações e de documentos eletrônicos, inclusive em substituição dos originais para fins de saneamento espontâneo de irregularidades tributárias;
+
+
+IV –
+
+recebimento de petições, defesas, contestações, recurso, contrarrazões e consulta tributária;
+
+
+V –
+
+expedir avisos em geral.
+
+
+§ 1º
+
+A Comunicação entre a Secretaria Municipal de Fazenda e o terceiro a quem o sujeito passivo tenha outorgado poderes para representá-lo poderá ser feita na forma prevista por esta lei.
+
+
+§ 2º
+
+Para as pessoas jurídicas optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional, de que trata a Lei Complementar Federal nº123, de 14 de dezembro de 2006, e para o empresário individual, que não possuam certificado digital, o acesso será realizado através de login e senha web, na forma que dispuser a Secretaria Municipal de Fazenda.
+
+
+§ 3º
+
+A expedição de avisos por meio do DTe, a que se refere o inciso III do caput deste artigo, não exclui a espontaneidade da denúncia nos termos do art.138 do Código Tributário Nacional.
+
+
+Art. 4º.
+
+O documento eletrônico transmitido na forma estabelecida nesta lei, com garantia de autoria, autenticidade e integridade, será considerado original para todos os efeitos legais.
+
+
+§ 1º
+
+Os extratos digitais e os documentos digitalizados e transmitidos na forma estabelecida nesta lei tem a mesma força probante dos originais, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização.
+
+
+§ 2º
+
+Os originais dos documentos digitalizados, a que se refere o §º deste artigo, deverão ser preservados pelo seu detentor durante o prazo decadencial previsto na legislação tributária.
+
+
+Art. 5º.
+
+Considera-se entregue o documento transmitido por meio eletrônico no dia e hora do seu envio ao sistema da Secretaria Municipal de Fazenda, devendo ser disponibilizado protocolo eletrônico ao sujeito passivo.
+
+
+Parágrafo único
+
+Quando o documento for transmitido eletronicamente para atender prazo, serão considerados tempestivos aqueles transmitidos até as (vinte e quatro) horas do último dia do prazo previsto na comunicação.
+
+
+Art. 6º.
+
+O cadastramento/credenciamento no DTe será realizado automaticamente pelo sistema tributário da Secretaria Municipal de Fazenda, para todos os contribuintes com acesso ao sistema de gerenciamento on-line do ISSQN.
+
+
+Parágrafo único
+
+O cadastramento do DTe na forma do caput deste artigo será comunicado ao sujeito passivo ou seu representante, por meio eletrônico ou por edital publicado no Diário Oficial do Município.
+
+
+Art. 7º.
+
+Uma vez realizado o cadastramento/credenciamento nos termos do art.6º desta lei, as comunicações da Secretaria Municipal de Fazenda ao sujeito passivo serão feitas por meio eletrônico, com acesso através do sistema de gerenciamento on-line do ISSQN, denominado DTe, dispensando-se a sua publicação no Diário Oficial da Cidade, a notificação ou intimação pessoal, ou o envio por via postal, ressalvado o disposto no §6º deste artigo.
+
+
+§ 1º
+
+Considerar-se-á realizada a comunicação no dia em que o sujeito passivo efetivar a consulta eletrônica ao teor da comunicação.
+
+
+§ 2º
+
+Na hipótese do §1º deste artigo, nos casos em que a consulta se dê em dia não útil, a comunicação será considerada como realizada no primeiro dia útil seguinte.
+
+
+§ 3º
+
+A consulta referida nos §§1º e 2º deste artigo deverá ser feita em até 10 (dez) dias contados da data do envio da comunicação ao portal do DTe, através do Sistema ISSQN on-line, sendo considerada automaticamente realizada no término desse prazo.
+
+
+§ 4º
+
+A comunicação feita na forma prevista no "caput" deste artigo será considerada pessoal para todos os efeitos legais.
+
+
+§ 5º
+
+O Domicílio Tributário Eletrônico DTe é obrigatório para todos os prestadores e tomadores de serviços pessoas jurídicas no município de Barra Mansa.
+
+
+§ 6º
+
+No interesse da Administração Pública, a comunicação poderá ser realizada mediante outras formas previstas na legislação, em ato da Secretaria Municipal de Fazenda.
+
+
+Art. 8º.
+
+As comunicações que transitem entre órgãos da Secretaria Municipal de Fazenda serão feitas, preferencialmente, por meio eletrônico.
+
+
+Parágrafo único
+
+Para acessar o DTe, onde estão disponíveis as comunicações entre a Secretaria Municipal de Fazenda e o sujeito passivo, e para assinar documentos eletrônicos, o servidor público deverá utilizar seu login e senha web ou certificado digital emitido por Autoridade Certificadora credenciada pela ICP-Brasil.
+
+
+Art. 9º.
+
+Os credenciados/cadastrados para comunicação eletrônica, nos termos desta lei, serão intimados da lavratura do auto de infração por meio eletrônico, nos termos da Lei Complementar 57 de 21 de dezembro de 2009, exceto quando ato da Secretaria Municipal da Fazenda dispuser de outra forma.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 19 DE OUTUBRO DE 2018.
+
+
+RODRIGO DRABLE COSTA
+
+PREFEITO

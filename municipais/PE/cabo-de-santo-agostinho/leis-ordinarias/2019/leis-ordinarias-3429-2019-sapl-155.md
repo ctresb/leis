@@ -1,0 +1,199 @@
+---
+titulo: "Lei Ordinária nº 3.429, de 10 de abril de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3429"
+data: "2019-04-10"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/155"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/158/text"
+sha256_fonte: "9a61ade4a8d7386ae5118fea814855c177914e7c05c1927fe513b7d394d24140"
+sha256_texto: "a60670d4aaf096ce68fea1ac37d71015132c584535b4bb0d51b77b65db1f4d75"
+capturado_em_fonte: "2026-10-27T21:37:54.663148-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.429, de 10 de abril de 2019
+
+Institui o Fundo Municipal dos Direitos da Pessoa Idosa - FUMDIPI/CABO, e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica instituído o Fundo Municipal dos Direitos da Pessoa Idosa, de natureza especial, tendo por finalidade a captação, o repasse e a aplicação de recursos destinados a proporcionar o devido suporte financeiro na implantação, na manutenção e no desenvolvimento de serviços, programas, projetos e ações voltados à pessoa idosa no âmbito do Município do Cabo de Santo Agostinho.
+
+
+Art. 2º.
+
+O Fundo Municipal dos Direitos da Pessoa Idosa será gerenciado pela Secretaria Municipal de Programas Sociais-SMPROS, ou por outra que venha a substituí-la na promoção da Assistência Social, sendo de competência desta a deliberação sobre a aplicação dos recursos em programas, projetos e ações voltados à pessoa idosa, sob a supervisão e controle do Conselho Municipal de Defesa dos Direitos da Pessoa Idosa – COMDEPI, instituído pela Lei Municipal nº2.109, de 06 de maio de 2003.
+
+
+Art. 3º.
+
+Constituem fontes de recursos do fundo municipal dos direitos da pessoa idosa:
+
+
+I –
+
+as transferências e repasses da união, do estado, por seus órgãos e entidades da administração direta e indireta, bem como de seus fundos;
+
+
+II –
+
+as transferências e repasses do município;
+
+
+III –
+
+os auxílios, legados, valores, contribuições e doações, inclusive de bens móveis e imóveis, que lhe forem destinados por pessoas físicas ou jurídicas públicas ou privadas, nacionais ou internacionais;
+
+
+IV –
+
+os rendimentos e os juros provenientes de aplicações financeiras dos recursos disponíveis;
+
+
+V –
+
+valores das multas aplicadas no âmbito do município do Cabo de Santo Agostinho, em ações judiciais, por ofensa aos direitos assegurados ao idoso, fundadas em interesses difusos, coletivos, individuais indisponíveis ou homogêneos, protegidos pelo estatuto do idoso, inclusive as repassadas pela união e pelo estado ao município, nos termos da previsão constante do art. 84 da Lei nº 10.741, de 10 de outubro de 2003;
+
+
+VI –
+
+doações de contribuintes do imposto sobre a renda de pessoas físicas e jurídicas, conforme disposto nos artigos 2º e 3º da lei federal nº 12.213, de 20 de janeiro de 2010, com a alteração introduzida pelo art. 88 da lei federal nº 12.594, de 18 de janeiro de 2012, ou outros incentivos fiscais;
+
+
+VII –
+
+o produto de convênios firmados com outras entidades financiadoras;
+
+
+VIII –
+
+outras receitas destinadas ao referido fundo, e
+
+
+IX –
+
+as receitas estipuladas em lei.
+
+
+X –
+
+os valores das multas previstas no Estatuto do Idoso (Lei nº 10.741, de 01 de outubro de 2003).
+
+
+§ 1º
+
+A gestão financeira dos recursos do FUMDIPI/CABO será programada pela Secretaria Municipal de Programas Sociais, observada a supervisão, controle, acompanhamento e fiscalização pelo COMDEPI de que trata o artigo 2º desta lei.
+
+
+§ 2º
+
+Os recursos que compõem o Fundo serão depositados em conta própria sob a denominação "Fundo Municipal dos Direitos da Pessoa Idosa", mantida em instituição financeira designada pela SMPROS, especialmente aberta para essa finalidade.
+
+
+Art. 4º.
+
+Os recursos do fundo serão destinados à realização das seguintes despesas:
+
+
+I –
+
+financiamento total ou parcial de planos, programas, projetos e atividades desenvolvidos pela Secretaria Municipal de Programas Sociais-SMPROS ou pelo Conselho Municipal da Pessoa Idosa;
+
+
+II –
+
+repasse de recursos a entidades governamentais e não governamentais que desenvolvam atividades de atendimento e prestação de serviço à pessoa idosa, devidamente credenciadas nos termos da lei;
+
+
+III –
+
+pagamento pela prestação de serviços destinada à operacionalização do Fundo;
+
+
+IV –
+
+aquisição de equipamentos, material permanente e de consumo e outros insumos necessários ao desenvolvimento das atividades a ele vinculados, observado o disposto na legislação federal sobre licitações e contratos;
+
+
+V –
+
+construção, reforma, ampliação, aquisição ou locação de imóveis destinados ao atendimento da pessoa idosa ou do Conselho Municipal de Defesa dos Direitos da Pessoa Idosa;
+
+
+VI –
+
+desenvolvimento e aperfeiçoamento dos instrumentos e técnicas de gestão, planejamento, administração e controle das ações municipais de garantia dos direitos da pessoa idosa;
+
+
+VII –
+
+despesas de caráter urgente e inadiável necessárias à execução dos programas, projetos e atividades do Conselho Municipal de Defesa dos Direitos da Pessoa Idosa;
+
+
+VIII –
+
+capacitação dos conselheiros do Conselho Municipal de Defesa dos Direitos da Pessoa Idosa;
+
+
+IX –
+
+organização dos encontros municipais e conferências da pessoa idosa;
+
+
+Art. 5º.
+
+A Secretaria Municipal de Programa Sociais prestará contas trimestralmente ao Conselho Municipal de Defesa dos Direitos da Pessoa Idosa sobre a gestão financeira do FUMDIPI/CABO, apresentando os relatórios pertinentes.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Programas Sociais, ou outra que venha a substituí-la, enviará trimestralmente a prestação de constas da gestão financeira do FUMDIPI/CABO para a Câmara Municipal de Vereadores do Cabo de Santo Agostinho a ser analisada pela Comissão de Finanças e Orçamento desta Casa Legislativa.
+
+
+Art. 6º.
+
+O chefe do poder executivo municipal, mediante decreto, no prazo de 90 dias da publicação desta Lei, estabelecerá as normas referentes à organização operacionalização do fundo municipal dos direitos da pessoa idosa.
+
+
+Art. 7º.
+
+Para o primeiro ano do exercício financeiro, o prefeito remeterá à Câmara Municipal projeto de lei específico com o orçamento do fundo municipal dos direitos da pessoa idosa.
+
+Parágrafo Único. A partir do exercício do primeiro ano financeiro, o Poder Executivo providenciará a inclusão das receitas e das despesas autorizadas por esta lei, no orçamento do município.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**Palácio Conde da Boa Vista, em 10 de abril de 2019.**
+
+***CLAYTON DA SILVA MARQUES***
+
+Prefeito em Exercício
+
+Chancela:
+
+***OSVIR GUIMARÃES THOMAZ***
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ)
+
+“Lei decorrente do Projeto de Lei à Sanção nº 009/2019 de autoria do Poder Executivo”
+
+**Publicado por:**  
+João Pessoa da Silva Filho  
+**Código Identificador:**BB779514
+

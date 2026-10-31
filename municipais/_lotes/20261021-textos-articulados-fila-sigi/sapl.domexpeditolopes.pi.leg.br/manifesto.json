@@ -1,0 +1,42 @@
+{
+  "host": "sapl.domexpeditolopes.pi.leg.br",
+  "metadados_unicos_observados": 20,
+  "total_api_declarado": 20,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.domexpeditolopes.pi.leg.br/1ab4c50ff8eb9d8c971f68bcb4f97a11424e6087da4cbb5ae091a6a8cc88ca2b.json",
+    "url": "https://sapl.domexpeditolopes.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.domexpeditolopes.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d49f48f45de5331aecb7e4212ec15efab0a3cc7d55639e7ae1c37327099483ca",
+    "bytes": 951,
+    "capturado_em": "2026-10-28T09:48:25.301658-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.domexpeditolopes.pi.leg.br/8b86cafe80c0d1d99d19e0b881d66788b8a0d70107dbc336fc0861268030ca44.json",
+    "url": "https://sapl.domexpeditolopes.pi.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.domexpeditolopes.pi.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2e2112e5eaf4aaed2f50f2aa5afcc8880d68a8505188d8ac46b0606fadc09de4",
+    "bytes": 786,
+    "capturado_em": "2026-10-28T09:48:24.738919-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.domexpeditolopes.pi.leg.br/ac0d76ac023700b58e6896d718890bcba9aedfa4cb35f0b6244249dd4366eac7.json",
+      "url": "https://sapl.domexpeditolopes.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.domexpeditolopes.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ed767ffe56a258fbdf84428238fb80b09e5f96fbc88521327ce22d6392acb660",
+      "bytes": 13247,
+      "capturado_em": "2026-10-28T09:48:27.450025-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

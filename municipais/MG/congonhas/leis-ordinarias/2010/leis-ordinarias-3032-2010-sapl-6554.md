@@ -1,0 +1,225 @@
+---
+titulo: "Lei-CMC nº 3.032, de 16 de dezembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3032"
+data: "2010-12-16"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6554"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4212/text"
+sha256_fonte: "0621874f869abab12202c0ab903d024627557edf8fd126677d521842b8250226"
+sha256_texto: "65241fdd6b6f34276df458e386ac54861dc36516f7577d20e722af17a056f682"
+capturado_em_fonte: "2026-10-28T06:27:51.332442-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.032, de 16 de dezembro de 2010
+
+Dispõe sobre o Programa Municipal Bolsa Cidadania.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou a seguinte Lei:
+
+
+Art. 1º.
+
+O Programa Municipal Bolsa Cidadania é destinado às ações de transferência de renda mediante condições previamente especificadas e tem por finalidade garantir o mínimo necessário à sobrevivência das famílias de baixa renda do Município de Congonhas.
+
+
+Art. 2º.
+
+Constituem benefícios financeiros do Programa:
+
+
+I –
+
+o benefício fixo, destinado às unidades familiares que se encontrem em situação de extrema pobreza;
+
+
+II –
+
+o benefício variável, destinado às unidades familiares que se encontrem em situação de pobreza e extrema pobreza e que tenham em sua composição gestantes, nutrizes, crianças entre 0 (zero) e 15 (quinze) anos.
+
+
+III –
+
+o beneficio variável jovem destinado aos jovens que se encontram regularmente matriculados e freqüentes no ensino formal e tenham entre 16 e 17 anos.
+
+
+§ 1º
+
+Para fins do disposto nesta Lei, considera-se:
+
+
+I –
+
+família, a unidade nuclear composta por um ou mais indivíduos, eventualmente ampliada por outros indivíduos que com ela possuam laços de parentesco ou de afinidade e que contribuam para com o seu rendimento, formando um grupo doméstico, vivendo em um mesmo domicílio, ou participando deste e que se mantém pela contribuição mútua de seus membros;
+
+
+II –
+
+nutriz, a mãe que esteja amamentando seu filho de até 6 (seis) meses de idade para o qual o leite materno seja o principal alimento;
+
+
+III –
+
+renda familiar mensal, a soma dos rendimentos auferidos mensalmente pela totalidade dos membros da família.
+
+
+§ 2º
+
+O valor mensal do benefício fixo será de R$ 68,00 (sessenta e oito reais) e será concedido a famílias com renda per capita mensal de até R$ 70,00 (setenta reais).
+
+
+§ 3º
+
+O valor mensal do benefício variável será de R$ 22,00 (vinte e dois reais) por beneficiário, até o limite de R$66,00 (sessenta e seis reais) por família beneficiada e será concedido a famílias com renda per capita mensal de até R$ 140,00 (cento e quarenta reais).
+
+
+§ 4º
+
+O valor mensal do benefício variável jovem será de R$ 33,00 (trinta e três reais) por beneficiário, no limite de até dois jovens por família.
+
+
+§ 5º
+
+A família que receber o benefício fixo poderá cumulá-lo com os que se referem os incisos II e III do caput, observado o limite máximo de R$200,00 (duzentos reais).
+
+
+§ 6º
+
+A família cuja renda per capita mensal seja superior a R$ 70,00 (setenta reais) e inferior a R$ 140,00 (cento e quarenta reais), receberá exclusivamente o benefício variável conforme o inciso II do caput, de acordo com sua composição, até o limite estabelecido no § 3º.
+
+
+§ 7º
+
+Os valores dos benefícios e os valores referenciais para a caracterização de situação de pobreza ou extrema pobreza de que tratam os §§ 2º, 3º e 4º poderão ser majorados pelo Poder Executivo, em razão da dinâmica socioeconômica do país e de estudos técnicos sobre o tema, atendido o disposto no § 6º.
+
+
+§ 8º
+
+Somente receberá os benefícios do Programa Municipal Bolsa Cidadania a família que não seja beneficiária do Programa Federal Bolsa Família e que seja residente e domiciliada no município de Congonhas há, no mínimo, 03 (três) anos.
+
+
+§ 9º
+
+O Conselho Municipal Gestor do Programa Bolsa Família de Congonhas poderá alterar os critérios de que trata o § 2º nos casos de calamidade pública ou de situação de emergência reconhecidos pelo Governo Municipal, para fins de concessão do benefício básico em caráter temporário, respeitados os limites orçamentários e financeiros.
+
+
+§ 10
+
+Os benefícios a que se referem os §§ 2º, 3º e 4º do caput serão pagos, mensalmente, por meio de cartão magnético bancário, fornecido por instituição financeira oficial.
+
+
+§ 11
+
+Os benefícios poderão também ser pagos por meio de contas especiais de depósito a vista, nos termos de resoluções adotadas pelo Banco Central do Brasil.
+
+
+§ 12
+
+No caso de créditos de benefícios disponibilizados indevidamente ou com prescrição do prazo de movimentação, os créditos reverterão automaticamente ao Programa Municipal Bolsa Cidadania de Congonhas.
+
+
+§ 13
+
+O pagamento dos benefícios previstos nesta Lei será feito preferencialmente à mulher.
+
+
+§ 14
+
+Serão alterados por Decreto os valores definidos nos parágrafos anteriores, todas as vezes em que o Ministério do Desenvolvimento Social e Combate a fome assim o definir.
+
+
+Art. 3º.
+
+A concessão dos benefícios dependerá do cumprimento, no que couber, de condicionalidades relativas ao exame pré-natal, ao acompanhamento nutricional, ao acompanhamento de saúde, à freqüência escolar de 85% (oitenta e cinco por cento) em estabelecimento de ensino regular para crianças e adolescentes até 16 anos incompletos, à freqüência escolar de 75% (setenta e cinco por cento) em estabelecimento de ensino regular para jovens de 16 e 17 anos, às atividades de promoção social, ao planejamento familiar, à estruturação familiar e à participação em atividades comunitárias, com freqüência mínima de 70% (setenta por cento), sem prejuízo de outras previstas em decreto.
+
+
+Art. 4º.
+
+O responsável legal pela família deverá firmar Termo de Compromisso e Adesão ao Programa de Transferência Condicionada de Renda – Programa Municipal Bolsa Cidadania, na forma e conforme disposto nesta Lei.
+
+
+Art. 5º.
+
+Os benefícios do Programa Municipal Bolsa Cidadania serão destinados a uma mesma família pelo período máximo de 18 (dezoito meses), podendo a mesma sofrer o bloqueio do recebimento ou seu desligamento em período menor no caso de descumprimento desta Lei.
+
+
+Parágrafo único
+
+No caso de famílias que sejam excluídas do Programa Municipal Bolsa Cidadania, seja por descumprimento da Lei, por alteração na situação sócio-econômica ou inclusão no Programa Bolsa Família e posterior desligamento, e necessitem voltar ao PBC, haverá um período de carência de 6 (seis) meses para reinclusão da família beneficiária, tendo a mesma que passar por nova avaliação técnico-social.
+
+
+Art. 6º.
+
+Caberá ao Conselho Municipal Gestor do Programa Bolsa Família, instituído pela Lei n.º 2.508, de 3 de junho de 2005, órgão colegiado de controle e participação social, acompanhar, avaliar e subsidiar a fiscalização dos Programas Federal e Municipal, além de estimular a integração e a oferta de outras políticas públicas sociais, definir diretrizes, normas e procedimentos sobre o desenvolvimento e implementação do Programa, bem como apoiar iniciativas para instituição de políticas públicas sociais visando promover a emancipação das famílias beneficiadas.
+
+
+Art. 7º.
+
+O Programa Municipal Bolsa Cidadania integrará as atividades da Diretoria de Assistência Social e Segurança Alimentar, órgão incumbido de coordenar, supervisionar, controlar e avaliar a operacionalizarão do Programa, compreendendo o cadastramento único, a supervisão do cumprimento das condições, o estabelecimento de sistema de monitoramento, avaliação, gestão orçamentária e financeira, a definição das formas de participação e controle social e a interlocução com as respectivas instâncias, bem como a articulação entre o Programa e as políticas públicas sociais do Município.
+
+
+Art. 8º.
+
+Para fazer face às despesas criadas nesta Lei, fica o Executivo Municipal autorizado a abrir créditos adicionais visando a compatibilização da quantidade de beneficiários do Programa Municipal Bolsa Cidadania.
+
+
+Art. 9º.
+
+O controle e a participação social do Programa Municipal Bolsa Cidadania serão realizado pelo Conselho Municipal Gestor do Programa Bolsa Família de Congonhas.
+
+
+Art. 10.
+
+Será de acesso público a relação dos beneficiários do Programa a que se refere o caput do art. 1º.
+
+
+Art. 11.
+
+A autoridade responsável pela organização e manutenção do cadastro que inserir ou fizer inserir dados ou informações falsas ou diversas das que deveriam ser inscritas, com o fim de alterar a verdade sobre o fato, ou contribuir para a entrega do benefício a pessoa diversa do beneficiário final, será responsabilizada civil, penal e administrativamente.
+
+
+§ 1º
+
+Todo aquele que dolosamente auferir benefício devido a conduta descrita no caput será obrigado a efetuar o ressarcimento da importância recebida, em prazo a ser estabelecido pelo Poder Executivo, acrescida de juros equivalente à taxa referencial do Sistema Especial de Liquidação e Custódia – SELIC, e de 1% (um por cento) ao mês, calculados a partir da data do recebimento.
+
+
+§ 2º
+
+Ao servidor público ou agente de entidade conveniada ou contratada que concorra para a conduta ilícita prevista neste artigo aplica-se, nas condições a serem estabelecidas em regulamento e sem prejuízo das sanções penais e administrativas cabíveis, multa nunca inferior ao dobro dos rendimentos ilegalmente pagos, atualizada, anualmente, até seu pagamento, pela variação acumulada do índice de Preços ao Consumidor Amplo – IPCA, divulgado pela Fundação Instituto Brasileiro de Geografia e Estatística.
+
+
+Art. 12.
+
+O beneficiário que fizer uso de informações e documentos falsos com a finalidade de receber indevidamente o benefício será excluído do Programa e obrigado a efetuar o ressarcimento da importância recebida, em prazo a ser estabelecido pelo Poder Executivo, acrescida de juros equivalente à taxa referencial do Sistema Especial de Liquidação e Custódia – SELIC, e de 1% (um por cento) ao mês, calculados a partir da data do recebimento.
+
+
+Art. 13.
+
+Esta lei será regulamentada pelo Executivo Municipal no prazo máximo de 30(trinta) dias.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 15.
+
+Fica revogada a Lei 2.755, de 7 de dezembro de 2007.
+
+
+Congonhas, 16 de dezembro de 2010.
+
+**Anderson Costa Cabido**
+
+**Prefeito de Congonhas**
+

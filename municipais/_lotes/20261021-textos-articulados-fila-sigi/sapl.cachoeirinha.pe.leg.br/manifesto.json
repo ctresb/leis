@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cachoeirinha.pe.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirinha.pe.leg.br/ce6655af97620483e4f6524014ddbf72e270e61c03856ef74921923d3c86c62b.json",
+    "url": "https://sapl.cachoeirinha.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cachoeirinha.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T21:04:10.227497-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirinha.pe.leg.br/41ae94ba1dc7708c1811259d0beaef5cf6921c2c28c594328b65a85b6571b5bc.json",
+    "url": "https://sapl.cachoeirinha.pe.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cachoeirinha.pe.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "df4a8e3d944656b57e1c68b82a1f464bdd07849e397438dd0ef1b761f925f562",
+    "bytes": 837,
+    "capturado_em": "2026-10-27T21:04:09.221230-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirinha.pe.leg.br/2805954e6be75ff488e04fb3a12b0befec27296f05609b834438a224735a25e0.json",
+      "url": "https://sapl.cachoeirinha.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cachoeirinha.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "93f8739680b9a91c215f24de49c32d89b924bed236a16a986349a88208d013d3",
+      "bytes": 1296,
+      "capturado_em": "2026-10-27T21:04:12.242593-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

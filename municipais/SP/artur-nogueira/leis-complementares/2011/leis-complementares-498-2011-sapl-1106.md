@@ -1,0 +1,90 @@
+---
+titulo: "LEI COMPLEMENTAR MUNICIPAL nº 498, de 21 de março de 2011"
+tipo: "Lei complementar"
+tipo_na_fonte: "LEI COMPLEMENTAR MUNICIPAL"
+numero: "498"
+data: "2011-03-21"
+municipio: "Artur Nogueira"
+uf: "SP"
+codigo_ibge: "3503802"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.arturnogueira.sp.leg.br/norma/1106"
+fonte_texto: "https://sapl.arturnogueira.sp.leg.br/ta/76/text"
+sha256_fonte: "91a93537d4852e5aed48898bcb51a15e30eb26a698c0ada31042a20819527ddb"
+sha256_texto: "64d56630f68ef66ed3f60fda7165ba9000dc06d1651ea94411ca85fe13ba3a2a"
+capturado_em_fonte: "2026-10-27T17:03:55.851454-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI COMPLEMENTAR MUNICIPAL nº 498, de 21 de março de 2011
+
+**DISPÕE SOBRE A PRORROGAÇÃO DA LICENÇA-GESTANTE, PREVISTA NO INCISO XVIII, DO ART. 7º, DA CONSTITUIÇÃO FEDERAL, ÀS SERVIDORAS PÚBLICAS MUNICIPAIS DA ADMINISTRAÇÃO DIRETA, DA INDIRETA E DA CÂMARA MUNICIPAL E DA NOVA REDAÇÃO AO INCISO VI E X DO ARTIGO 20 DA LC 392/2004 E DÁ OUTRAS PROVIDÊNCIAS**
+
+
+Art. 1º.
+
+Fica prorrogada por 60 (sessenta) dias a duração da licença-gestante prevista no inciso XVIII, do art. 7º, da Constituição Federal, às servidoras públicas municipais da Administração Direta, da Indireta e da Câmara Municipal, nos termos do que prevê a Lei Federal n.º 11.770, de 9 de setembro de 2008.
+
+
+Art. 2º.
+
+Em conseqüência do disposto no artigo 1º desta Lei Complementar, o Parágrafo Único do artigo 164 da LC Municipal n.º 18/95 (Estatuto dos Funcionários Públicos do Município) e os incisos VI e X da Lei Complementar n.º 392/2004 (Estatuto e o Plano de Carreira, Cargos e Remuneração do Magistério Público Municipal), passam a vigorar com as seguintes redações:
+
+
+Art. 3º.
+
+Para fazer jus ao benefício de que trata esta Lei Complementar, a servidora deverá requerê-lo até o final do primeiro mês após o parto, sendo-lhe concedido imediatamente após a fruição da licença-gestante.
+
+
+Art. 4º.
+
+A prorrogação será garantida, na mesma proporção, também à servidora que adotar ou obtiver guarda judicial para fins de adoção de criança.
+
+
+Art. 5º.
+
+Durante o período de prorrogação da licença-gestante, a servidora terá direito a sua remuneração integral, nos mesmos moldes devidos no período de percepção do salário-maternidade.
+
+
+Art. 6º.
+
+No período de prorrogação da licença-gestante de que trata esta Lei, a servidora não poderá exercer qualquer atividade remunerada e a criança não poderá ser mantida em creche ou organização similar.
+
+
+Parágrafo único
+
+Em caso de descumprimento do disposto no caput deste artigo, a servidora perderá o direito à prorrogação e terá que restituir aos cofres públicos os valores recebidos indevidamente.
+
+
+Art. 7º.
+
+Os casos omissos serão tratado em conformidade com a Lei Federal n.º 11.770, de 9 de setembro de 2008 e nos termos da Constituição Federal.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 9º.
+
+Revogam-se as disposições em contrário.
+
+
+Paço Municipal "Prefeito Jacob Stein", 21 de Março de 2011.
+
+**MARCELO CAPELINI**
+
+**Prefeito**
+
+Autor do Projeto de Lei Complementar nº. 002/2011: Senhor MARCELO CAPELINI, Prefeito Municipal.
+
+Publicado, por afixação, no quadro próprio de Editais, no Paço Municipal "Prefeito Jacob Stein", na data supra, com redação oriunda do autógrafo nº 2.714.
+
+**MAURO ALVES DA VINHA**
+
+**CHEFE DE GABINETE**
+

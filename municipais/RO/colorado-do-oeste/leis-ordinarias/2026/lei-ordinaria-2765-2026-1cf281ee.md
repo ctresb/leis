@@ -1,0 +1,527 @@
+---
+titulo: "LEI Nº 2.765, DE 24 DE SETEMBRO DE 2026"
+uf: "RO"
+municipio: "COLORADO DO OESTE"
+tipo: "Lei Ordinária"
+numero: "2765"
+data: 2026-09-24
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 25/09/2026"
+data_publicacao: 2026-09-25
+codigo_identificador: "1CF281EE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116159_2026-09-24_2b409d44038cf5bcd26672b44a6f3956.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 2.765, DE 24 DE SETEMBRO DE 2026
+
+LEI Nº 2.765, DE 24 DE SETEMBRO DE 2026
+AUTORIZAÇÃO PARA ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR.
+O PREFEITO DO MUNICÍPIO DE COLORADO DO OESTE, Estado de Rondônia, no
+uso de suas atribuições legais, faz saber que a Câmara Municipal Aprovou, e Eu, Sanciono e
+Promulgo a seguinte;
+LEI:
+Art. 1º AUTORIZA o Executivo Municipal a abrir no Orçamento-Programa do corrente
+Exercício Financeiro, um Crédito Adicional Suplementar, na importância de R$ 482.735,98
+(Quatrocentos e Oitenta e Dois Mil, Setecentos e Trinta e Cinco Reais e Noventa e Oito Centavos),
+necessário para o ―reforço‖ das dotações especificadas no ANEXO ÚNICO constante desta Lei.
+Art. 2º Os recursos financeiros necessários à cobertura do Crédito de que trata o
+artigo 1º, serão provenientes dos Recursos conforme segue especificação abaixo, de conformidade
+com o disposto no ANEXO ÚNICO constante desta Lei:
+I – Recursos Ordinários (Próprios): através de ―Transposição‖ por Anulação de Dotação
+Orçamentária (inciso III, § 1º do artigo 43 da Lei Federal nº 4.320/64); e
+II – Recursos do FUNDEB: através de ―Transposição‖ por Anulação de Dotação Orçamentária
+(inciso III, § 1º do artigo 43 da Lei Federal nº 4.320/64).
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+PALÁCIO ―PREFEITO CERENEU JOÃO NAUE‖, 24 DE SETEMBRO DE 2026.
+
+www.diariomunicipal.com.br/arom
+
+300
+
+Rondônia , 25 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4327
+EDMILSON RODRIGUES DE ALMEIDA
+Prefeito Municipal
+(Assinado Digitalmente)
+ANEXO ÚNICO DA LEI Nº 2.765
+(DESPESA)
+CRÉDITO ADICIONAL SUPLEMENTAR (conforme disposto no artigo 1º da Lei) - SUPLEMENTAÇÃO
+CÓDIGO
+INSTITUCIONAL
+E
+CÓDIGO
+CÓDIGO
+FUNCIONAL
+ESPECIFICAÇÃO
+NATUREZA
+DESCRIÇÃO
+DA FICHA
+PROGRAMÁTICA
+DA DESPESA
+Através de "Transposição" por Anulação de Dotação Orçamentária (inciso III, § 1º do artigo 43 da Lei Federal nº 4.320/64):
+*Recursos Ordinários (Próprios)
+02.00
+GABINETE DO PREFEITO
+02.01
+Gabinete do Prefeito
+
+CÓDIGO DA FONTE
+E
+DO
+DETALHAMENTO
+DESCRIÇÃO
+DOS RECURSOS
+
+VALOR
+
+36
+
+3.1.90.13
+
+Obrigações Patronais
+
+0.1.500
+0
+
+RNVI
+SD
+
+49.200,00
+
+Atividades Administrativas e Operacionais
+
+375
+
+3.3.90.14
+
+Diárias Civil
+
+25.1.500
+1001
+
+RNVI
+IDMDE
+
+10.000,00
+
+07.01.12.361.0015.2.043
+
+Atividades do Ensino Fundamental
+
+394
+
+3.3.90.36
+
+Outros Serviços de Terceiros - 25.1.500
+Pessoa Física
+1001
+
+RNVI
+IDMDE
+
+20.530,75
+
+07.01.12.361.0024.2.003
+
+Atividades Administrativas e Operacionais
+
+433
+
+3.3.90.47
+
+Obrigações
+Contributivas
+
+e 25.1.500
+1001
+
+RNVI
+IDMDE
+
+20.000,00
+
+07.01.12.361.0025.2.043
+
+Atividades do Ensino Fundamental
+
+455
+
+3.3.90.46
+
+Auxílio Alimentação
+
+25.1.500
+1001
+
+RNVI
+IDMDE
+
+84.469,25
+
+09.00
+09.01
+
+SEMUSA
+Secretaria Municipal de Saúde
+Atendimento de Média e Alta Complexidade (MAC)
+"Atendimento Ambulatorial,
+671
+Emergencial e Hospitalar"
+
+3.3.90.48
+
+Outros Auxílios
+Pessoas Físicas
+
+a 15.1.500
+1002
+
+RNVI
+IDASPS
+
+75.800,00
+
+3.1.90.11
+
+Vencimentos e Vantagens Fixas - 15.1.500
+Pessoal Civil
+1002
+
+RNVI
+IDASPS
+
+119.200,00
+
+44.002,12
+
+02.01.04.122.0025.2.003
+
+Atividades Administrativas e Operacionais
+
+07.00
+07.01
+
+SEMED
+Secretaria Municipal de Educação
+
+07.01.12.361.0015.2.003
+
+09.01.10.302.0025.2.062
+
+09.01.10.305.0025.2.068
+
+Atividades da Vigilância em Saúde Epidemiológica e
+682
+Ambiental
+
+Tributárias
+
+Financeiros
+
+*Recursos do FUNDEB
+07.00
+07.01
+
+SEMED
+Secretaria Municipal de Educação
+
+07.01.12.365.0016.2.044
+
+Atividades da Educação Infantil (Pré-Escola)
+
+464
+
+3.3.90.39
+
+Outros Serviços de Terceiros - 30.1.540
+Pessoa Jurídica
+0
+
+TFUNDEB-ITI
+SD
+
+07.01.12.365.0025.2.045
+
+Atividades da Educação Infantil (Creche)
+
+500
+
+3.1.90.92
+
+Despesas de Exercícios Anteriores
+
+70.1.540
+1070
+
+TFUNDEB-ITI
+IPAPRPEBEE
+
+TOTAL GERAL
+
+59.533,86
+482.735,98
+
+CRÉDITO ADICIONAL SUPLEMENTAR (conforme disposto no artigo 2º da Lei) - REDUÇÃO
+CÓDIGO
+INSTITUCIONAL
+E
+CÓDIGO
+CÓDIGO
+FUNCIONAL
+ESPECIFICAÇÃO
+NATUREZA
+DESCRIÇÃO
+DA FICHA
+PROGRAMÁTICA
+DA DESPESA
+Através de "Transposição" por Anulação de Dotação Orçamentária (inciso III, § 1º do artigo 43 da Lei Federal nº 4.320/64):
+*Recursos Ordinários (Próprios)
+
+CÓDIGO DA FONTE
+E
+DO
+DETALHAMENTO
+DESCRIÇÃO
+DOS RECURSOS
+
+02.00
+02.01
+
+GABINETE DO PREFEITO
+Gabinete do Prefeito
+
+02.01.04.122.0002.1.001
+
+Aquisição de Veículos Leves (Renovação da Frota)
+
+16
+
+4.4.90.52
+
+Equipamentos e Materiais Permanentes
+
+02.01.04.122.0002.2.008
+
+Reforma e Manutenção de Espaços Públicos
+
+19
+
+3.3.90.30
+
+Material de Consumo
+
+20
+
+3.3.90.39
+
+419
+
+3.3.90.33
+
+420
+
+3.3.90.39
+
+495
+
+0.1.500
+0
+
+RNVI
+SD
+
+0.1.500
+0
+Outros Serviços de Terceiros - Pessoa 0.1.500
+Jurídica
+0
+
+RNVI
+SD
+RNVI
+SD
+
+25.1.500
+1001
+Outros Serviços de Terceiros - Pessoa 25.1.500
+Jurídica
+1001
+
+RNVI
+IDMDE
+RNVI
+IDMDE
+
+3.1.90.11
+
+Vencimentos
+Pessoal Civil
+
+- 25.1.500
+1001
+
+RNVI
+IDMDE
+
+567
+
+3.3.90.30
+
+Material de Consumo
+
+576
+
+3.3.90.39
+
+15.1.500
+1002
+Outros Serviços de Terceiros - Pessoa 15.1.500
+Jurídica
+1002
+
+RNVI
+IDASPS
+RNVI
+IDASPS
+
+Atendimento de Média e Alta Complexidade (MAC)
+"Atendimento Ambulatorial,
+641
+Emergencial e Hospitalar"
+
+3.3.90.30
+
+15.1.500
+1002
+
+RNVI
+IDASPS
+
+07.00
+07.01
+
+SEMED
+Secretaria Municipal de Educação
+
+07.01.12.361.0017.2.046
+
+Atividades da Educação Especial (APAE)
+
+07.01.12.365.0025.2.045
+
+Atividades da Educação Infantil (Creche)
+
+09.00
+09.01
+
+SEMUSA
+Secretaria Municipal de Saúde
+
+09.01.10.301.0021.2.064
+
+Atividades da Atenção Primária à Saúde (APS)
+
+09.01.10.302.0020.2.062
+
+Passagens e Despesas com Locomoção
+
+e
+
+Vantagens
+
+Material de Consumo
+
+www.diariomunicipal.com.br/arom
+
+Fixas
+
+VALOR
+
+24.200,00
+
+10.000,00
+15.000,00
+
+2.000,00
+3.000,00
+
+130.000,00
+
+25.000,00
+40.000,00
+
+30.000,00
+
+301
+
+Rondônia , 25 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4327
+647
+
+*Recursos do FUNDEB
+07.00
+07.01
+07.01.12.365.0016.1.014
+
+07.01.12.365.0016.2.045
+
+SEMED
+Secretaria Municipal de Educação
+Obras de Construção e Ampliação de Espaços Públicos
+458
+(Creche)
+
+Atividades da Educação Infantil (Creche)
+
+470
+
+3.3.90.39
+
+Outros Serviços de Terceiros - Pessoa 15.1.500
+Jurídica
+1002
+
+RNVI
+IDASPS
+
+100.000,00
+
+4.4.90.51
+
+Obras e Instalações
+
+30.1.540
+0
+
+TFUNDEB-ITI
+SD
+
+20.000,00
+
+3.3.90.30
+
+Material de Consumo
+
+30.1.540
+0
+
+TFUNDEB-ITI SD
+
+TOTAL GERAL
+
+83.535,98
+482.735,98
+
+PALÁCIO "PREFEITO CERENEU JOÃO NAUE", 24 DE SETEMBRO DE 2026.
+EDMILSON RODRIGUES DE ALMEIDA
+Prefeito Municipal
+(Assinado Digitalmente)
+ASSINATURAS ELETRÔNICAS
+Edmilson Rodrigues de Almeida
+Prefeito
+24/09/2026 12:24:40
+Assinado na forma do Decreto Municipal nº 095/2020.
+A autenticidade deste documento pode ser conferida através do QRCode acima ou ainda através do site transparencia.coloradodooeste.ro.gov.br
+informando o ID 632055 e o CRC 50039F7F.
+Publicado por:
+Agna Dos Santos Martins

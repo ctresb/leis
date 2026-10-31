@@ -1,0 +1,42 @@
+{
+  "host": "sapl.entreriosdeminas.mg.leg.br",
+  "metadados_unicos_observados": 26,
+  "total_api_declarado": 26,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.entreriosdeminas.mg.leg.br/f13f64857d0052823bd0cdaee920d58ccdd1862bd79338e25d9672a9bed93eba.json",
+    "url": "https://sapl.entreriosdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.entreriosdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c2fc6de42c26ba81210cf5d90dada846e88981d3d21b802156bebfd384776a69",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:27:52.544892-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.entreriosdeminas.mg.leg.br/aa3445de664ee3f597ac5a4f1d1fe5096b654aed00829ece1df30ad23260b53c.json",
+    "url": "https://sapl.entreriosdeminas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.entreriosdeminas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e0d84ccc08cf1cd2d5ddf55719e05003c198536dee0b1eb14029450088b27b00",
+    "bytes": 809,
+    "capturado_em": "2026-10-28T10:27:51.727004-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.entreriosdeminas.mg.leg.br/d6deccb9e55a0e57e17b388ac47c395f3bca596ab4ccd6245597e501d143d09e.json",
+      "url": "https://sapl.entreriosdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.entreriosdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2cd5ec8ad0576566f2606a1b1bdb1a18b3e9023a17e3158cbc646ae47333c425",
+      "bytes": 16636,
+      "capturado_em": "2026-10-28T10:28:04.675069-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

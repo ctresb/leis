@@ -1,0 +1,81 @@
+---
+titulo: "Lei Ordinária nº 1.149, de 03 de abril de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1149"
+data: "2020-04-03"
+municipio: "Iconha"
+uf: "ES"
+codigo_ibge: "3202603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.iconha.es.leg.br/norma/749"
+fonte_texto: "https://sapl.iconha.es.leg.br/ta/389/text"
+sha256_fonte: "361910075726ca2836acde414ac3256d681dfa62bcb9e72472927d9d7e239fe8"
+sha256_texto: "4e6c2da74abf00dc92f425c86d6b055a097ab168c0c57c4c0dffd1f0398c820d"
+capturado_em_fonte: "2026-10-28T14:07:11.894823-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.149, de 03 de abril de 2020
+
+FICA O CHEFE DO PODER EXECUTIVO MUNICIPAL AUTORIZADO A CUSTEAR DESPESA DE ALUGUEL PARA SEDIAR O 4º PELOTÃO DA 10ª CIA INDEPENDENTE DA PMES, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**EXCELENTÍSSIMO SENHOR PREFEITO MUNICIPAL DE ICONHA/ES,** usando de suas atribuições legais, conforme determina o art. 30 da Constituição Federal/88, bem como nos arts. 70 e 71, da Lei Orgânica Municipal e demais normas que regem a matéria, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+**Art. 1º.** Fica o Chefe do Poder Executivo Municipal autorizado a custear despesa de aluguel para sediar o 4º Pelotão da 10ª Cia Independente da PMES.
+
+
+§ 1º
+
+Se necessário para o cumprimento do caput deste artigo o Chefe do Poder Executivo poderá firmar convênio com a **POLICIA MILITAR DO ESTADO DO ESPÍRITO SANTO** para custear as despesas com locação de um imóvel destinado ao funcionamento do 4º Pelotão da 10ª Cia Independente da PMES.
+
+
+§ 2º
+
+O valor das despesas custeadas pelo convênio autorizado no caput deste artigo será até R$ 3.000,00 (três mil reais) mensais referente a locação de um imóvel.
+
+
+§ 3º
+
+O valor do aluguel deverá ser compatível com os valores praticados pelo setor imobiliário de Iconha, podendo ser reajustado por índice eleito pelo Município na celebração do contrato de locação.
+
+
+§ 4º
+
+Para regulamentar o objeto da presente Lei, poderá ser estabelecidas regras mediante Decreto expedido pelo Chefe do Executivo.
+
+
+§ 5º
+
+O custeio da despesa com a locação poderá ser destinado pelo Município diretamente ao proprietário do imóvel locado, desde que haja concordância da Policia Militar.
+
+
+Art. 2º.
+
+O prazo de vigência do convênio a ser assinado tem por início a partir da assinatura do mesmo e terá por duração o período de até 24 (vinte e quatro) meses, podendo ser prorrogado no interesse da municipalidade.
+
+
+Art. 3º.
+
+Os recursos para aplicação desta Lei correrão por conta do orçamento vigente, suplementado, se necessário, para este fim.
+
+
+Art. 4º.
+
+Esta lei entra em vigor na data de sua publicação, revogados as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Iconha, aos 03 (três) dias do mês de abril de  
+2020 (dois mil e vinte).  
+  
+  
+**João Paganini**  
+Prefeito Municipal
+

@@ -1,0 +1,219 @@
+---
+titulo: "Lei Ordinária nº 2.015, de 10 de julho de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2015"
+data: "2002-07-10"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2012-06-20; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/1934"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/1898/text"
+sha256_fonte: "6da5f23bf8cdd9bb486901385c3b25ca914877a2462045d680409f46ad1b6a02"
+sha256_texto: "25ec496c5e141f9de289a1342139f744ef4f211901fdfcf306d47ae67355bff3"
+capturado_em_fonte: "2026-10-27T21:48:53.487801-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.015, de 10 de julho de 2002
+
+DISPÕE SOBRE A REGULAMENTAÇÃO DAS FESTAS COMEMORATIVAS A LAVADEIRA, SÃO COSME E DAMIÃO, PAIXÃO DE CRISTO E DO COCO DE PONTEZINHA, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+PREFEITO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO - PE, FAÇO SABER QUE O PODER LEGISLATIVO DECRETOU E EU SANCIONO A PRESENTE LEI:
+
+
+Art. 1º.
+
+A presente Lei regulamenta as datas comemorativas as seguintes festas a serem realizadas anualmente neste município, que são: Festa da Lavadeira na praia do Paiva, no dia 1º de maio, Festa de Cosme e Damião na sede do município, nos dias 26 e 27 de setembro; Paixão de Cristo em Ponte dos Carvalhos, na sexta-feira da paixão; e Festa do Coco em Pontezinha, nos dias 12 e 13 de junho.
+
+
+§ 1º
+
+A Festa da Lavadeira será de produção e responsabilidade exclusiva da Associação Festa da Lavadeira - Ação Cultural;
+
+
+§ 2º
+
+A Festa Cosme e Damião será de produção e reponsabilidade exclusiva da Associação Cultural Cosme e Damião;
+
+
+I - § 3° –
+
+A Paixão de Cristo de Ponte dos Carvalhos será de produção e responsabilidade exclusiva da Sociedade Teatral e Cultural Nação do Divino.
+
+
+Art. 2º.
+
+Caberá ao Poder Público Municipal, de conformidade com suas atribuições legais, atender todas as necessidades atinentes ao bom funcionamento das festividades de que trata o Art. 1º da presente Lei, no atendimento as seguintes exegências:  
+  
+A - FESTA DA LAVADEIRA
+
+
+I –
+
+A Festa da Lavadeira será dividida em duas partes:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.901, de 20 de junho de 2012.
+
+
+a)
+
+A Festa da Lavadeira, parte religiosa, acontecerá dentro da área da Praia do Paiva, onde está localizada a imagem da estátua da Lavadeira.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.901, de 20 de junho de 2012.
+
+
+b)
+
+A Festa da Lavadeira, parte profana, passará a ocorrer na Praia de Itapuama.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.901, de 20 de junho de 2012.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária nº 2.901, de 20 de junho de 2012.
+
+
+III –
+
+Energização da área de acordo com as necessidades da festa;
+
+
+IV –
+
+Limpeza, capinação e qualquer outra necessidade desta mesma natureza que seja necessária;
+
+
+V –
+
+Todos os itens de segurança pública;
+
+
+VI –
+
+Todos os itens de saúde e prevenção de acidentes;
+
+
+VII –
+
+Acesso, sinalização e transporte público.
+
+
+B -
+
+FESTA COSME E DAMIÃO
+
+
+I –
+
+Garantir espaço destinado a festa Cosme e Damião, localizado na Rua das Florentinas, centro do Cabo, como de uso exclusivo dos dias 26 e 27 de setembro;
+
+
+II –
+
+O espaço referido acima não poderá sofrer qualquer alteração seja urbanista ou qualquer obra, construção ou utilização que venha prejudicar a realização da Festa Cosme e Damião;
+
+
+III –
+
+Energização da área de acordo com as necessidades dá festa;
+
+
+IV –
+
+Limpeza, pintura dos meio-fios e qualquer outra necessidades desta mesma natureza que seja necessária;
+
+
+V –
+
+Todos os itens de segurança;
+
+
+VI –
+
+Todos os itens de saúde e prevenção de acidentes;
+
+
+C -
+
+PAIXÃO DE CRISTO DE FONTE DOS CARVALHOS
+
+
+I –
+
+Garantir espaço destinado a Paixão de Cristo de Ponte dos Carvalhos, localizado em frente a Igreja Nossa Senhora do Bom: Conselho, em Ponte dos Carvalhos, como de uso exclusivo da sexta-feira da Paixão;
+
+
+II –
+
+O espaço referido acima não poderá sofrer qualquer alteração seja urbanística ou qualquer obra, construção ou utilização que venha prejudicar a realização da Paixão de Cristo em Ponte dos Carvalhos;
+
+
+III –
+
+Energização área e garantindo um transformador;
+
+
+IV –
+
+Limpeza, pintura dos meio-fios e qualquer outra necessidade desta mesma natureza que seja necessária;
+
+
+V –
+
+Todos os itens de segurança pública;
+
+
+VI –
+
+Todos os itens de saúde e prevenção de acidentes;
+
+
+D -
+
+FESTA DO COCO DE PONTEZINHA
+
+
+I –
+
+Garantir infra-estrutura necessária ao Palanque do Coco, em Pontezinha para o funcionamento da referida festa;
+
+
+II –
+
+Energização da área de acordo com as necessidades da festa;
+
+
+III –
+
+Limpeza, pintura dos meio-fios e qualquer outra necessidade desta mesma natureza que seja necessária;
+
+
+IV –
+
+Todos os itens de segurança pública;
+
+
+V –
+
+Todos os itens de saúde e prevenção de acidentes;
+
+
+Art. 3º.
+
+A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Palácio Conde da Boa Vista, 10 de julho de 2002.
+
+ELIAS GOMES DA SILVA  
+Prefeito
+

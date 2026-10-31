@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/lei_ordinaria_7421_2022_de_cascavel_pr.pdf da norma Resolução nº 18, de 19 de fevereiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "LEI 7421/2022 - Dispõe sobre a Estrutura Organizacional, Plano de Carreira, Cargos e Vencimentos da Câmara Municipal de Cascavel, Estado do Paraná.",
+      "anexo_arquivo": "http://sapl.cascavel.pr.leg.br/media/sapl/public/anexonormajuridica/2021/1/lei_ordinaria_7421_2022_de_cascavel_pr.pdf",
+      "ano": 2021,
+      "norma": 305
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cascavel.pr.leg.br/9a919750532fe77b86e4f5f07905493278c8eb1b0757bc39ab331b60be91ca40.json",
+      "url": "https://sapl.cascavel.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cascavel.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fb24249d5ceeb692ee576d93cde11c9fc14baa13fa754e59cc58abde6e8a3dbf",
+      "bytes": 760,
+      "capturado_em": "2026-10-21T04:50:22.674930-03:00"
+    }
+  ]
+}

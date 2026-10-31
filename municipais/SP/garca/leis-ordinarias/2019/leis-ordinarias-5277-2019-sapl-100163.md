@@ -1,0 +1,110 @@
+---
+titulo: "Lei nº 5.277, de 22 de janeiro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "5277"
+data: "2019-01-22"
+municipio: "Garça"
+uf: "SP"
+codigo_ibge: "3516705"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2020-02-19; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.garca.sp.leg.br/norma/100163"
+fonte_texto: "https://sapl.garca.sp.leg.br/ta/2/text"
+sha256_fonte: "44cd8ef5992f96784cb69a20137ba29edc74438015c731ccc6e45f67a130fe3a"
+sha256_texto: "aeca0ec0cdfbf474f18f3979cab2499c1f779620ab6e8387480e8fd62a0c4fa3"
+capturado_em_fonte: "2026-10-28T12:51:36.241448-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 5.277, de 22 de janeiro de 2019
+
+Fica revogada a Lei Municipal nº 5.277, de 22 de janeiro de 2019 , que autorizou a concessão de direito real de uso do imóvel objeto da Matrícula nº 15.651 à Associação Beneficente Geração Forte.
+
+Revogado pelo Art. 1º. - Lei nº 5.341, de 19 de fevereiro de 2020.
+
+
+AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DO IMÓVEL QUE ESPECIFICA À ASSOCIAÇÃO BENEFICENTE GERAÇÃO FORTE.
+
+
+O Prefeito do Município de Garça, Estado de São Paulo, no uso de suas atribuições, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado, conforme previsão contida na Lei Orgânica do Município, a outorgar concessão de direito real de uso do imóvel abaixo descrito e caracterizado, objeto da Matrícula nº 15.651 do CRI local, à Associação Beneficente Geração Forte, inscrita no CNPJ nº 26.345.486/0001-93, para o desenvolvimento de atividades assistenciais, educacionais e outras de cunho filantrópico, inclusive para eventuais edificações no respectivo imóvel para as finalidades.
+
+
+CARACTERIZAÇÃO DO IMÓVEL
+
+Matrícula nº 15.650 do CRI local
+
+Área de 420,00 m²  
+Lote 31 da quadra “A” do Loteamento Jardim José Ribeiro de Andrade  
+Área Urbana do Município de Garça
+
+ROTEIRO
+
+“O LOTE DE TERRENO sob nº 31 da quadra “A”, do loteamento denominado Jardim José Ribeiro de Andrade, no perímetro urbano deste município e comarca de Garça, com área total de 420,00 metros quadrados, dentro do seguinte roteiro: Começa em um ponto localizado no alinhamento direito da Avenida da Saudade, distante 203,42 metros do cruzamento dos alinhamentos da Avenida Dr. Labieno da Costa Machado e Avenida da Saudade; daí segue pelo alinhamento da Avenida da Saudade na extensão de 14,00 metros; daí, deflete à direita e segue na extensão de 30,01 metros, confrontando com o lote 32; daí, deflete à direita e segue na extensão de 14,00 metros, confrontando com o remanescente da Granja São José; daí, deflete à direita e segue na extensão de 30,01 metros, confrontando com o lote 30 atingindo a alinhamento da Avenida da Saudade, o ponto inicial”
+
+
+Art. 2º.
+
+A concessão de uso do imóvel será outorgada pelo prazo de 10 (dez) anos, podendo ser prorrogado por igual período, e a título gratuito, nos termos dos artigos 178 e 179 da Lei Orgânica do Município, dispensada a licitação em face do interesse público existente.
+
+
+Art. 3º.
+
+A Concessionária não poderá ceder ou gravar com ônus de qualquer espécie o imóvel objeto e que trata esta Lei.
+
+
+Art. 4º.
+
+**Art. 4º** Deverá constar do contrato de concessão de uso do imóvel as seguintes obrigações à Concessionária:
+
+
+I –
+
+apresentar projeto e cronograma da construção do imóvel, com a finalidade no artigo 1º desta Lei, no prazo de 180 (cento e oitenta) dias, iniciando a construção no prazo de até 01 (um) ano, contados da publicação desta Lei;
+
+
+II –
+
+utilizar o imóvel somente para a realização de atividades descrita no artigo 1º desta Lei, dentro dos objetivos descritos no artigo 2º do Estatuto da Associação Beneficente Geração Forte – ABGF, sob registro nº 658, Microfilme nº 3189 do Registro Civil de Pessoa Jurídica da Comarca de Garça, Estado de São Paulo;
+
+
+III –
+
+arcar com todas as despesas necessárias à construção do prédio, bem como sua manutenção;
+
+
+IV –
+
+responder por atos dolosos ou culposos, praticados contra o Concedente, usuários ou terceiros, arcando com a integral reparação de eventuais danos que venham ocorrer durante a vigência da concessão de direito real de uso do imóvel.
+
+
+Art. 5º.
+
+No caso de descumprimento de quaisquer obrigações descritas nesta Lei, a concessão será rescindida automaticamente, independente de qualquer notificação judicial ou extrajudicial.
+
+
+Parágrafo único
+
+Em caso de rescisão da concessão, encerramento das atividades da Concessionária, ou mudança de sua finalidade, o imóvel, com todas as benfeitorias nele incorporadas, reverterão para o patrimônio do Município.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Garça, 22 de janeiro de 2019.
+
+
+João Carlos dos Santos
+
+
+Prefeito
+

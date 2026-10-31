@@ -1,0 +1,365 @@
+---
+titulo: "Lei Ordinária-CMCN nº 3.298, de 26 de outubro de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3298"
+data: "2016-10-26"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2022-10-28; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/206"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/180/text"
+sha256_fonte: "cf44778e605d1c86bb40ded6cd91fe443738a157da66e655b79e69c46d7895d1"
+sha256_texto: "e8f188f27a5cd02b52a2637d1815da0f0d212c2cfb64231d4f14c9313bd5d3c1"
+capturado_em_fonte: "2026-10-28T09:46:56.632691-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 3.298, de 26 de outubro de 2016
+
+Dispõe sobre a instituição da verba indenizatória de Atividade Parlamentar na Câmara Municipal de Currais Novos/RN e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE CURRAIS NOVOS/RN, Estado do Rio Grande do Norte, faz saber que a Câmara Municipal aprovou o Projeto de Lei 098 de autoria do Executivo Municipal, e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — Da Verba Indenizatória
+
+
+Art. 1º.
+
+Fica instituída a verba indenizatória de Atividade Parlamentar no âmbito da Câmara Municipal de Currais Novos, destinada a ressarcir despesas exclusivamente vinculadas ao exercício de atividade parlamentar, observado o limite máximo de 100% (cem por cento) do subsídio atual do Vereador.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.797, de 28 de outubro de 2022.
+
+
+§ 1º
+
+O dispêndio e a aplicação da verba de que trata o “caput” deste artigo obedecerá às exigências nesta Lei.
+
+
+§ 2º
+
+O valor descrito no caput deste artigo será reajustado anualmente de acordo com o Índice Nacional de Preços ao Consumidor – INPC.
+
+
+Art. 2º.
+
+O ressarcimento das despesas relacionadas com o exercício será efetivado mediante solicitação formulada pelo Vereador, dirigida à Central do Sistema de Controle Interno, necessariamente instruída com a documentação fiscal comprobatória da despesa.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.374, de 17 de julho de 2018.
+
+
+§ 1º
+
+A Central do Sistema de Controle Interno tem atribuição de auditoria, podendo promover verificações, conferências e requisitar informações adicionais e demais providências pertinentes à verificação de autenticidade e ao regular processamento da documentação.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.374, de 17 de julho de 2018.
+
+
+§ 2º
+
+As notas fiscais apresentadas pelo parlamentar ficarão disponíveis para consulta popular e cópias a serem extraídas por qualquer pessoa física ou jurídica, durante o período de até 5 (cinco) anos a partir da sua emissão.
+
+
+§ 3º
+
+Ao final de cada semestre legislativo, a Central do Sistema do Controle Interno formulará relatório das despesas ressarcidas a cada um dos parlamentares durante o período, contendo valores nominados mês a mês, acompanhado de cópias das respectivas notas fiscais, ao qual se dará publicidade por meio eletrônico, em sítio virtual da Câmara Municipal, na forma prevista pela Lei Complementar n.º 131/2009.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.374, de 17 de julho de 2018.
+
+
+§ 4º
+
+A composição da Central do Sistema de Controle Interno observará o previsto na Lei n.º 3297/2016.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.374, de 17 de julho de 2018.
+
+
+§ 5º
+
+Comissão de Controle Interno poderá, excepcionalmente, ser composta por ocupantes de cargos em comissão, enquanto não houver a nomeação dos cargos efetivos a que se refere o paragrafo anterior.
+
+
+Alteração de rótulo feita pelo Art. 2º. - Lei Ordinária-CMCN nº 3.449, de 22 de outubro de 2019.
+
+
+Art. 3º.
+
+Somente serão ressarcidas as despesas efetivamente pagas pelo parlamentar e relativas a:
+
+
+I –
+
+Imóveis e utensílios utilizados exclusivamente como escritório de apoio ao exercício da atividade parlamentar, na sede do Município, compreendendo estritamente gastos com taxas condominiais, IPTU, água, telefone fixo ou móvel e energia elétrica;
+
+
+II –
+
+Locomoção do Vereador e Assessores Parlamentares vinculados ao gabinete do parlamentar, compreendendo passagens, alimentação, hospedagem e locação de meios de transporte;
+
+
+III –
+
+combustíveis e lubrificantes até o limite de 45% (quarenta e cinco) por cento do total da verba indenizatória;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-CMCN nº 3.449, de 22 de outubro de 2019.
+
+
+IV –
+
+Contratação para fins de apoio à atividade parlamentar de consultoria, assessorias, pesquisas e trabalhos técnicos, até o limite mensal de até 80% (oitenta por cento) do total da verba indenizatória;
+
+
+V –
+
+Divulgação da atividade parlamentar, exceto nos 180 (cento e oitenta) dias anteriores à data das eleições de âmbito federal, estadual e municipal e desde que não caracterize gastos com campanhas eleitorais;
+
+
+VI –
+
+Aquisição de material de expediente não fornecido pela Câmara Municipal de Currais Novos/RN;
+
+
+VII –
+
+Aquisição ou locação de software, serviços postais, assinaturas de jornais, revistas e publicações, TV a cabo ou similar, acesso a internet;
+
+
+VIII –
+
+Locação de móveis e equipamentos;
+
+
+IX –
+
+Peças e acessórios para veículos a serviço do gabinete do parlamentar, necessárias a manutenção e conservação do mesmo;
+
+
+X –
+
+Cópias heliográficas de documentos de interesse da atividade parlamentar;
+
+
+XI –
+
+Edição de jornais, livros, revistas e impressos gráficos para consumo do gabinete;
+
+
+XII –
+
+despesas com telefone móvel em nome do parlamentar, ou fixo caso instalado no gabinete ou no escritório do Vereador;
+
+
+§ 1º
+
+As despesas contraídas pelo parlamentar com relação ao inciso I deste artigo somente serão ressarcidas se as instalações próprias da Câmara Municipal não oferecerem condições apropriadas ao estabelecimento e manutenção de um gabinete.
+
+
+§ 2º
+
+Os gastos com telefone móvel previstos por este artigo deverão respeitar os limites estabelecidos nesta lei e serão em número máximo de 2 (dois) aparelhos por parlamentar para os municípios de até 100.000 (cem mil) habitantes e de 3 (três) aparelhos por parlamentar para os municípios com mais de 100.000 (cem mil) habitantes.
+
+
+§ 3º
+
+O serviço de locação de automóvel, com ou sem o fornecimento do serviço de motorista, poderá ser prestado por pessoa física ou jurídica, respeitado o limite de 01 (um) automóvel por gabinete e os limites com combustível previstos no art. 13 desta Lei.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.374, de 17 de julho de 2018.
+
+
+§ 4º
+
+Os imóveis mencionados no inciso I deverão ser previamente cadastrados junto à Central do Sistema de Controle Interno, mediante apresentação de cópia autenticada do contrato de locação ou termo equivalente, com firmas reconhecidas em cartório.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.374, de 17 de julho de 2018.
+
+
+§ 5º
+
+Os produtos e serviços cuja prestação é por meio de natureza genérica e/ou permanente dispostos nos incisos III, VI, e VIII, serão contratados mediante pesquisa mercadológica ou por meio de adesão a ata de registro de preços ou pregões de outros órgãos pertencentes a administração pública direta ou indireta.
+
+
+§ 6º
+
+As despesas de que trata o inciso II só serão ressarcidas mediante comprovação da necessidade e pertinência da viagem para o exercício da atividade parlamentar.
+
+
+#### CAPÍTULO II — Do Ressarcimento
+
+
+Art. 4º.
+
+A solicitação de reembolso será efetuada até o 15º dia útil do mês por meio de requerimento padrão, do qual constará atestado do parlamentar de que o serviço foi prestado ou o material recebido e de que assume a inteira responsabilidade pela veracidade, legitimidade e autenticidade da documentação apresentada.
+
+
+Art. 5º.
+
+Será objeto de ressarcimento o documento:
+
+
+I –
+
+Original, em primeira via, quitado com pagamento à vista, em nome do parlamentar, observando as ressalvas constantes nos §§ 2º e 3º deste artigo;
+
+
+II –
+
+Nota fiscal hábil, segundo a natureza da operação, emitida no mês de competência, quando se tratar de pagamento a pessoa jurídica, bem como nota avulsa em se tratando de pagamento a pessoa física;
+
+
+§ 1º
+
+O documento a que se refere este artigo deverá ser idôneo, estar isento de rasuras, acréscimos, emendas ou entrelinhas, datado e discriminado por item de serviço prestado ou material fornecido, não se admitindo generalização ou abreviaturas que impossibilitem a identificação da despesa;
+
+
+§ 2º
+
+Serão admitidas contas de água, telefone, energia elétrica, bem como recibos de condomínio e IPTU, em nome do proprietário do imóvel mencionado no inciso I do artigo 3º;
+
+
+§ 3º
+
+Admite-se ainda, a comprovação da despesa por meio de cupom fiscal ou nota fiscal simplificada quitada, mesmo que o documento não contenha o campo próprio destinado ao nome do beneficiário do produto ou serviço, desde que o objeto seja compatível com a atividade parlamentar.
+
+
+Art. 6º.
+
+De posse dos documentos comprobatórios das despesas apresentadas na forma prescrita pelos arts. 5º e 6º, a Central do Sistema de Controle Interno, no prazo de 15 (quinze) dias, contados do seu recebimento, após examiná-los sob os aspectos fiscais e contábeis, emitirá relatório da liberação, remetendo-o diretamente à Presidência da Câmara, que encaminhará para o setor financeiro para processar e efetuar o respectivo  
+ressarcimento.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-CMCN nº 3.374, de 17 de julho de 2018.
+
+
+Art. 7º.
+
+Os documentos inidôneos, inaptos ou que estejam em desacordo com as normas da presente Lei serão devolvidos ao parlamentar para as devidas correções e substituições, no prazo de 10 (dez) dias.
+
+
+Art. 8º.
+
+Os documentos relativos ao mês de competências que tiverem que sofrer correções e não forem reapresentados não poderão mais ser objeto de ressarcimento.
+
+
+Art. 9º.
+
+Os reembolsos decorrentes de verba indenizatória se farão mediante depósito em conta corrente em nome do parlamentar, não podendo, em hipótese alguma, ser realizada mediante de pagamento em cheque ou dinheiro.
+
+
+#### CAPÍTULO III — Da Limitação do Ressarcimento
+
+
+Art. 10.
+
+O ressarcimento das despesas elencadas no inciso I do Art. 3º, quando cabível, somente alcançará os valores não superiores ao percentual de 10% (dez por cento) do total da verba indenizatória de atividade parlamentar.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária-CMCN nº 3.449, de 22 de outubro de 2019.
+
+
+Art. 11.
+
+As despesas com telefonia móvel somente serão ressarcidas até o limite de 10% (dez por cento) do valor total da Verba Indenizatória Parlamentar.
+
+
+Art. 12.
+
+As despesas elencadas no inciso II do art. 3º somente serão ressarcidas até o limite máximo de 20% (vinte por cento) do total da verba indenizatória parlamentar.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária-CMCN nº 3.449, de 22 de outubro de 2019.
+
+
+Art. 13.
+
+As despesas com combustíveis e lubrificantes serão ressarcidas até o limite máximo de 45% (quarenta e cinco por cento) do total da verba indenizatória de atividade parlamentar.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-CMCN nº 3.449, de 22 de outubro de 2019.
+
+
+Art. 14.
+
+As demais despesas previstas pelo art. 3º desta Lei serão ressarcidas de igual modo, respeitando os limites previstos em resolução.
+
+
+#### CAPÍTULO IV — Das Vedações
+
+
+Art. 15.
+
+Não se admitirão gastos com propaganda eleitoral de qualquer espécie.
+
+
+Art. 16.
+
+É vedado o reembolso de pagamento realizado à pessoa física, salvo nas hipóteses previstas nos incisos I, II e IV do art. 3º.
+
+
+Art. 17.
+
+É vedado o reembolso de despesas efetuadas em favor de empresas propriedade do parlamentar, de seus assessores parlamentares, de servidores públicos lotados na Câmara Municipal ou de parente até o terceiro grau de qualquer dessas pessoas.
+
+
+Art. 18.
+
+É vedada a locação de imóvel de que trata o inciso I do art. 3º de propriedade do parlamentar, de seus assessores parlamentares, de servidores públicos lotados na Câmara Municipal ou de parente até o terceiro grau de qualquer dessas pessoas.
+
+
+Art. 19.
+
+Na locação de bens móveis, imóveis e ou equipamento não poderá ser aplicada a modalidade de leasing.
+
+
+#### CAPÍTULO V — Da Perda da Verba Indenizatória
+
+
+Art. 20.
+
+A verba indenizatória não é forma de remuneração, não compondo o subsídio do parlamentar.
+
+
+Art. 21.
+
+O parlamentar titular do mandato perderá o direito à verba de que trata esta Lei quando:
+
+
+I –
+
+investido em cargo previsto no artigo 58, da Lei Orgânica Municipal, mesmo quando tenha optado pela remuneração do mandato;
+
+
+II –
+
+afastado para tratar de interesse particular, sem remuneração;
+
+
+III –
+
+quando o respectivo suplente se encontrar no exercício do mandato.
+
+
+#### CAPÍTULO VI — Das Disposições Finais
+
+
+Art. 22.
+
+O reembolso das despesas não implica em manifestação da Câmara Municipal quanto à observância de normas eleitorais relativamente a tipicidade ou licitude.
+
+
+Art. 23.
+
+As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias próprias e específicas, alocadas ao orçamento da Câmara, observadas as normas da legislação financeira quanto aos créditos necessários.
+
+
+Art. 24.
+
+Esta Lei entra em vigor a partir de 1º de janeiro de 2017, revogadas as disposições em contrário, devendo ser regulamentada no que necessitar no prazo máximo de 60 (sessenta) dias.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito “Raul Macêdo”, em 26 de outubro de 2016.
+
+**JOSÉ VILTON DA CUNHA**  
+Prefeito Municipal
+

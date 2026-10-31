@@ -1,0 +1,158 @@
+---
+titulo: "Lei Ordinária nº 3.463, de 08 de outubro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3463"
+data: "2019-10-08"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/121"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/124/text"
+sha256_fonte: "4d43d1130d3baa533ec0f53df9015d6d0bdae0a2a26019b9ccbb1d1088978940"
+sha256_texto: "3fd267115728ab59b45c18196c9efb6066c15867478da033a3f19bce1d452266"
+capturado_em_fonte: "2026-10-27T21:36:24.000136-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.463, de 08 de outubro de 2019
+
+Cria e regulamenta a Comissão Permanente de Processo Administrativo e de Sindicância, e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+A presente Lei institui a Comissão Permanente de Sindicância e Processo Administrativo Disciplinar da Câmara de Vereadores do Cabo de Santo Agostinho.
+
+
+Parágrafo único
+
+A Comissão seguirá os princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência e demais princípios gerais do direito, assegurando ao indiciado o direito ao contraditório e à ampla defesa.
+
+
+Art. 2º.
+
+A Comissão será constituída por 03 (três) membros titulares e 03 (três) suplentes, designados por Portaria do Presidente da Câmara de Vereadores do Cabo de Santo Agostinho, dentre servidores efetivos e estáveis do quadro funcional deste Poder Legislativo Municipal.
+
+
+Parágrafo único
+
+A Comissão Permanente de Sindicância e Processo Administrativo Disciplinar terá a validade de um ano, após a publicação de sua Portaria, e poderá haver a recondução dos seus membros.
+
+
+Art. 3º.
+
+O(a) presidente da Comissão deverá possuir, preferencialmente, ensino superior completo em Direito, e terá como atribuições:
+
+I - Receber a denúncia, bem como tomar as providências necessárias para apuração das irregularidades;
+
+II - Comunicar ao Departamento de Pessoal deste Poder Legislativo acerca da abertura da sindicância ou do processo administrativo disciplinar para o devido registro no assento funcional;
+
+III - Observar e atestar a validade das portarias, citações e todos os documentos dos autos, respeitando os dispositivos e os prazos legais;
+
+IV - Coordenar os trabalhos e reuniões da comissão, promover a tomada de compromisso das testemunhas, dirigir as perguntas no interrogatório do indiciado, e a oitiva de testemunhas, proceder diligências em geral, além de adotar outras medidas imprescindíveis ao funcionamento da Comissão e instrução do respectivo procedimento;
+
+V - Emitir e assinar notificações, intimações, citações, editais, cartas pre e demais atos dirigidos ao indiciado ou acusado, testemunhas e terceiros interessados, e ainda coordenar a elaboração e assinar junto com os demais membros da comissão o relatório final e lavrar o termo de encerramento dos trabalhos; e
+
+VI - Encaminhar o processo ou a sindicância para a autoridade julgadora competente;
+
+
+Art. 4º.
+
+4º. O(a) Secretário(a) deverá possuir preferencialmente escolaridade superior completo ou em andamento, e terá como atribuições:
+
+I - Atender as diligências solicitadas pelo Presidente, preparar o local de trabalho e todo o material necessário para as atividades, reuniões e oitivas do acusado ou indiciado e das testemunhas;
+
+II – Organizar e montar os autos do processo administrativo ou da sindicância, numerando e rubricando todas as folhas;
+
+III - Enviar, receber e juntar aos autos ofícios, notificações, intimações e cartas precatórias;
+
+IV - Redigir as atas das reuniões, transcrever depoimentos do indicado ou acusado e da(s) testemunha(s);
+
+V - Acompanhar o presidente nas diligências, assistindo-o em todos os atos do procedimento, auxiliando-o nas audiências, podendo, inclusive, formular perguntas;
+
+VI - Ter sob sua guarda os autos do processo administrativo ou da sindicância os quais ficarão à disposição do indiciado e/ou seu procurador para consulta e fornecimento de cópia;
+
+VII - Participar da elaboração do relatório final assinando e rubricando todas as folhas juntamente com os demais membros da comissão;
+
+VIII - Após a decisão final da autoridade julgadora, providenciar a Portaria de aplicação de penalidades, arquivamento ou outras providências, expedindo notificações às partes, bem como encaminhando cópia da Portaria para o Departamento de Pessoal para os devidos registros funcionais; e
+
+IX - Propor medidas para melhoria dos trabalhos da comissão;
+
+
+Art. 5º.
+
+O(a) Vogal, terceiro membro titular da Comissão, exercerá a função de auxiliar, devendo possuir preferencialmente escolaridade superior completo ou em andamento, e terá como atribuições:
+
+I - Auxiliar o(a) Secretário(a) na preparação do local de trabalho e todo o material necessário para as atividades, reuniões e oitivas do acusado ou indiciado e das testemunhas;
+
+II - Assistir e assessorar o presidente e o Secretário no que for solicitado, acompanhando as reuniões, diligências, depoimentos e demais atos do processo administrativo ou da sindicância;
+
+III - manter a ordem no local da audiência, evitando comunicação entre o acusado ou indiciado e as testemunhas, podendo, inclusive, formular perguntas;
+
+IV - Participar da elaboração do relatório final assinando e rubricando todas as folhas juntamente com os demais membros da comissão;
+
+V - Propor medidas para melhoria dos trabalhos da comissão;
+
+
+Art. 6º.
+
+Os membros titulares da Comissão Permanente de Sindicância e Processo Administrativo Disciplinar farão jus à gratificação, conforme definido abaixo:
+
+I - O(a) Presidente receberá o valor de R$ 1.548,00 (mil quinhentos e quarenta e oito reais);
+
+II - O(a) Secretário(a) perceberá o valor de R$ 1.348,00 (mil trezentos e quarenta e oito reais);
+
+III – O(a) Vogal receberá a quantia de R$ 1.148,00 (mil cento e quarenta e oito reais);
+
+
+Parágrafo único
+
+Os membros suplentes da Comissão de Sindicância e Processo Administrativo Disciplinar e Especial somente terão direito à percepção da gratificação de que trata esta Lei, quando substituírem os titulares, em seus impedimentos legais e na proporção diária de sua efetiva participação.
+
+
+Art. 7º.
+
+O valor da gratificação dos membros da Comissão Permanente de Sindicância e Processo Administrativo Disciplinar será reajustado anualmente pelo Índice de Preços ao Consumidor Amplo – IPCA, ou outro índice que o substitua, sempre no mês de janeiro.
+
+
+Art. 8º.
+
+A gratificação prevista nesta Lei não constituirá base de cálculo para contribuições ao Regime Próprio de Previdência Social do Município do Cabo de Santo Agostinho, em razão da sua natureza transitória.
+
+
+Art. 9º.
+
+As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**Palácio Conde da Boa Vista, em 08 de outubro de 2019.**
+
+***CLAYTON DA SILVA MARQUES***
+
+Prefeito em Exercício
+
+Chancela:
+
+***OSVIR GUIMARÃES THOMAZ***
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ).
+
+“Lei decorrente do Projeto de Lei à Sanção nº 086/2019 de origem do Vereador **José Feliciano de Barros Júnior, partido PMN** ”
+
+**Publicado por:**  
+João Pessoa da Silva Filho  
+**Código Identificador:**CED8D486
+

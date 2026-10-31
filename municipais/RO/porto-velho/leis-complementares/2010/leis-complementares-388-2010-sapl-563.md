@@ -1,0 +1,487 @@
+---
+titulo: "Lei Complementar nº 388, de 02 de julho de 2010"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "388"
+data: "2010-07-02"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2018-03-22; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/563"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1725/text"
+sha256_fonte: "082dce12a0efef7442001e123ee278d4a816014c5db45f61838303995560c492"
+sha256_texto: "1f6648d14adddbbf98eb0552fe9f06e710061dd8ff67abec66c7946709e7f854"
+capturado_em_fonte: "2026-10-27T21:16:54.632053-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 388, de 02 de julho de 2010
+
+“Cria o Conselho Municipal de Defesa dos Direitos da Pessoa com Deficiência, institui o Fundo Municipal de Apoio à Pessoa com Deficiência e dá outras providências”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe confere os incisos III e VI, do artigo 87, da Lei Orgânica do Município de Porto Velho,
+
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal dos Direitos da Pessoa com Deficiência – CMDPD, órgão representativo, paritário, normativo, consultivo, deliberativo e fiscalizador de caráter permanente da política municipal de proteção e defesa dos direitos da pessoa com deficiência, vinculado à Secretaria Municipal de Assistência Social – SEMAS.
+
+
+Art. 2º.
+
+Para efeitos desta Lei, em consonância com a Lei Federal nº 7.853/89 de 24 de outubro de 1989, e Decreto Federal nº 6.949 de 25 de agosto de 2009, considera-se pessoa com deficiência aquele que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdades de condições com as demais pessoas
+
+
+#### CAPÍTULO II — DOS OBJETIVOS E DA COMPETÊNCIA
+
+
+Art. 3º.
+
+São atribuições do Conselho Municipal dos Direitos da Pessoa com Deficiência – CMDPD:
+
+
+I –
+
+acompanhar o planejamento e avaliar a execução das políticas públicas de infraestrutura e nas áreas setoriais de educação, saúde, trabalho, assistência social, transporte, cultura, turismo, desporto, lazer e outras políticas públicas relativas à pessoa com deficiência;
+
+
+II –
+
+acompanhar a elaboração e a execução da proposta orçamentária da Secretaria Municipal de Assistência Social, sugerindo as modificações necessárias à consecução da Política municipal para integração e inclusão da pessoa com deficiência;
+
+
+III –
+
+zelar pela efetivação do sistema descentralizado e participativo de defesa dos direitos da pessoa com deficiência;
+
+
+IV –
+
+sugerir a elaboração de estudos e pesquisas que visam definir prioridades a serem incluídas no planejamento do Município, objetivando a melhoria ou que possa afetar a qualidade de vida da pessoa com deficiência;
+
+
+V –
+
+propor e incentivar a realização de campanhas visando à prevenção de deficiências e à promoção dos direitos da pessoa com deficiência;
+
+
+VI –
+
+acompanhar, mediante relatórios de gestão, o desempenho dos programas e projetos da Política Municipal para integração, inclusão e acessibilidade da pessoa com deficiência;
+
+
+VII –
+
+elaborar o seu Regimento Interno;
+
+
+VIII –
+
+realizar e manter atualizado, de acordo com os critérios estabelecidos no Regimento Interno, o cadastramento de entidades que prestam atendimento à pessoa com deficiência no âmbito da política de assistência social, envolvendo ações nas áreas de saúde, educação, esporte, cultura e lazer;
+
+
+IX –
+
+receber denúncias sobre violações dos direitos da pessoa com deficiência, dando-lhes o encaminhamento devido junto aos órgãos responsáveis, propondo medidas para apuração, cessação e reparação dessas violações;
+
+
+X –
+
+convocar, ordinariamente ou extraordinariamente a cada dois anos, por maioria absoluta de seus membros, a Conferência Municipal dos direitos da Pessoa com Deficiência, com atribuições de avaliar a política municipal e propor diretrizes para o seu aperfeiçoamento.
+
+
+#### CAPÍTULO III — DA COMPOSIÇÃO E ORGANIZAÇÃO DO CONSELHO
+
+
+##### Seção I — DA COMPOSIÇÃO
+
+
+Art. 4º.
+
+O Conselho Municipal dos Direitos da Pessoa com Deficiência – CMDPD será composto por 12 (doze) membros titularese igual número de suplentes, da seguinte forma:
+
+
+I –
+
+06 (seis) representantes do Poder Público Municipal, sendo:
+
+
+a)
+
+01 (um) representante da Secretaria Municipal de Assistência Social;
+
+
+b)
+
+01 (um) representante da Secretaria Municipal de Saúde;
+
+
+c)
+
+01 (um) representante da Secretaria Municipal de Educação;
+
+
+d)
+
+01 (um) representante da Secretaria Municipal de Trânsito e Transporte;
+
+
+e)
+
+01 (um) representante da Secretaria Municipal de Obras;
+
+
+f)
+
+01 (um) representante da Secretaria Municipal de Esporte e Lazer;
+
+
+II –
+
+representantes de 06 (seis) instituições da sociedade civil organizada com atuação na área de direitos humanos voltados à pessoa com deficiência no Município de Porto Velho.
+
+
+Art. 5º.
+
+As instituições definidas no inciso II do art. 4º desta Lei serão eleitas no Fórum específico com a participação de entidades na rede de proteção à pessoa com deficiência, a ser convocado pela Secretaria Municipal de Assistência Social.
+
+
+§ 1º
+
+Na eleição de que trata o caput deste artigo, deverá ser formada lista contendo a nominação das doze entidades mais votadas.
+
+
+§ 2º
+
+No caso de destituição do representante da instituição eleita, titular e suplente, a entidade será substituída pela sétima entidade mais votada no Fórum e, de forma sucessiva até a décima segunda.
+
+
+§ 3º
+
+Para efeitos do § 1º deste artigo, no ato de nomeação dos membros do Conselho, titulares e suplentes, também deverá constar a denominação das entidades substitutas.
+
+
+§ 4º
+
+A nomeação dos representantes titulares e suplentesdo Poder Público Municipal e das instituições da Sociedade Civil Organizada será feita mediante ato do Executivo Municipal.
+
+
+##### Seção II — ESTRUTURA ORGANIZACIONAL
+
+
+Art. 6º.
+
+A Estrutura Organizacional do CMDPD é constituída de:
+
+
+I –
+
+Presidência;
+
+
+II –
+
+Vice-Presidência;
+
+
+III –
+
+Plenário;
+
+
+IV –
+
+Secretaria Executiva.
+
+
+Art. 7º.
+
+O Conselho Municipal dos Direitos da Pessoa com Deficiência reger-se-á pelas seguintes disposições, no que se refere a seus membros:
+
+
+I –
+
+a Presidência e a Vice-Presidência do Conselho Municipal dos Direitos da Pessoa com Deficiência serão exercidas por conselheiros eleitos, em regime de votação aberta, pelos membros do colegiado para o mandato de 02 (dois) anos, permitida uma recondução;
+
+
+II –
+
+serão indicados pelos seus respectivos segmentos e serão substituídos pelos mesmos mediante solicitação ao Prefeito Municipal através da Mesa Diretora do Conselho;
+
+
+III –
+
+as atribuições dos membros do Conselho Municipal dos Direitos da Pessoa com Deficiência serão estabelecidas no Regimento Interno.
+
+
+Art. 8º.
+
+O Plenário será o Órgão de deliberação máxima, em nível executivo, do CMDPD e reunir-se-á ordinariamente, no mínimo, uma vez ao mês e extraordinariamente quando convocado pelo seu Presidente ou por requerimento da maioria de seus membros.
+
+
+§ 1º
+
+O Plenário será instalado com a presença de 50% (cinquenta por cento) mais um dos seus membros, após trinta minutos contados da segunda convocação.
+
+
+§ 2º
+
+Cada Conselheiro terá direito a um único voto em plenário.
+
+
+§ 3º
+
+O Presidente do CMDPD terá, além do voto comum, o de qualidade, bem como a prerrogativa de deliberar para posterior apreciação do Plenário.
+
+
+Art. 9º.
+
+A Secretaria Executiva será exercida por profissional com reconhecida atuação na área de deficiência, indicado pela Secretaria Municipal de Assistência Social, referendado pelo Plenário.
+
+
+Art. 10.
+
+Para mudança de qualquer artigo do Regimento Interno é necessária a aprovação de, no mínimo, 2/3 (dois terços) dos membros do CMDPD em convocação específica.
+
+
+##### Seção III — DO FUNCIONAMENTO DO CONSELHO
+
+
+Art. 11.
+
+Os membros do CMDPD exercerão seu mandato por um período de 02 (dois) anos, permitida uma única recondução, salvo quando não houver número de instituições da sociedade civil suficientes para a composição do Conselho.
+
+
+Art. 12.
+
+A função de membro do CMDPD não será remunerada, sendo considerada de relevante serviço público.
+
+
+Art. 13.
+
+As deliberações do Conselho Municipal dos Direitos da Pessoa com Deficiência – CMDPD serão lavradas em atas, em livro próprio e formalizadas em resoluções devendo ser publicadas no Diário Oficial do Município de Porto Velho.
+
+
+Art. 14.
+
+Os representantes do Poder Público e da sociedade civil poderão ser destituídos da função de Conselheiros nas seguintes situações:
+
+
+I –
+
+desvincular-se da instituição a que originou sua representação;
+
+
+II –
+
+ausentar-se por 03 (três) reuniões, ordinária ou extraordinária, consecutivas, ou 6 (seis) alternadas não justificadas num período de 12 (doze) meses;
+
+
+III –
+
+apresentar renúncia espontaneamente ao Colegiado;
+
+
+IV –
+
+por razão de inidoneidade moral.
+
+
+Parágrafo único
+
+No caso de destituição do representante do Poder Público Municipal no CMDPD, titular ou suplente nas situações descritas nos incisos I a IV deste artigo, caberá à Secretaria representada a indicação de seu substituto.
+
+
+Art. 15.
+
+O Poder Público Municipal, por intermédio da Secretaria Municipal de Assistência Social, disporá de recursos materiais e humanos para o funcionamento do Conselho Municipal dos Direitos da Pessoa com Deficiência.
+
+
+Art. 16.
+
+As normas de instalação, escolha e nomeação dos membros do CMDPD deverão ocorrer no prazo máximo de até 60 (sessenta) dias contados da publicação da presente Lei.
+
+
+#### CAPÍTULO IV — DO FUNDO MUNICIPAL DE APOIO À PESSOA COM DEFICIÊNCIA
+
+
+Art. 17.
+
+Fica instituído o Fundo Municipal de Apoio à Pessoa com Deficiência – FMAPD, que será gerenciado pela Secretaria Municipal de Assistência Social e da Família – SEMASF, a que se vincula o Conselho Municipal dos Direitos da Pessoa com Deficiência, sendo de competência deste a deliberação sobre a aplicação de recursos em programas, projetos e ações voltadas à pessoa com deficiência.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+Art. 18.
+
+O Fundo Municipal de Apoio à Pessoa com Deficiência será constituído por recursos provenientes de:
+
+
+I –
+
+Dotações orçamentárias consignadas anualmente no orçamento geral do Município e recursos adicionados que a lei estabelecer no transcorrer de cada exercício do Município de Porto Velho;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+II –
+
+créditos suplementares especiais;
+
+
+III –
+
+doações de instituições privada nacional e internacional;
+
+
+IV –
+
+as transferência e repasses da União, do Estado, do Município, por seus órgão e entidades da administração direta e indireta, bem como de seus Fundos;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+V –
+
+Doações auxílios, legados, contribuições, valores, bem móveis e imóveis subvenções e transferência que venha a receber de pessoas físicas ou jurídicas, de organismos público ou privados, de organizações governamentais ou não governamentais, sejam nacionais ou internacionais;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+VI –
+
+As parcelas do produto de arrecadação de outras receitas próprias oriundas de financiamentos das atividades econômicas, de prestação de serviços e de outras transferências que o Fundo Municipal de apoio a pessoa com deficiência terá direito de receber por força da lei e de convênios no setor;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+VII –
+
+Recursos provenientes de multas de Leis de infrações que contrariem o direito das pessoas com deficiência, onde suas transferências serão regulamentadas através de legislação do executivo.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+VIII –
+
+Demais receitas que venham a ser legalmente instruídas
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+IX –
+
+outras receitas que lhe forem atribuídas por lei
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+Art. 19.
+
+As receitas do Fundo Municipal de Apoio à Pessoa com Deficiência serão destinadas a:
+
+
+I –
+
+financiamento total ou parcial de projetos e programas de proteção às Pessoa com Deficiência;
+
+
+II –
+
+outras despesas que o CMDPD considerar relevante a Pessoa com Deficiência no âmbito da Política de Assistência Social.
+
+
+III –
+
+Pagamento pela prestação de serviços a entidades do segmento das pessoas com deficiência, legalmente construídas, de direito público ou privado, que sejam conveniadas no conselho para execução de programa e projetos específicos dirigidos á pessoa com deficiência;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+IV –
+
+Aquisição de material permanente e de consumo, bem como, de outros insumos necessários ao desenvolvimento dos programas e projetos que venham a atender as políticas do Município de Porto Velho, voltadas as pessoas com deficiência;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+V –
+
+Construção, reformas, ampliação, aquisição, ou locação de imóveis para prestações de serviço voltados ao atendimento à pessoa deficiência;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+VI –
+
+Aquisição ou locação de veículos a serem utilizados pelo Conselho Municipal de Defesa dos Direitos da Pessoa com Deficiência, na execução das ações inerentes ao Conselho;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+VII –
+
+Aquisição de passagens, e pagamento de diárias para que os membros do Conselho possam participar de cursos, seminários, congressos, e demais eventos relacionados á temática da pessoa com deficiência;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+VIII –
+
+desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações voltadas para atendimento da pessoa com deficiência;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+IX –
+
+desenvolvimento de programas de capacitação, e aperfeiçoamento de recursos humanos, em áreas essenciais, que tenham objetivos exclusivos, e atendem ás necessidades da pessoa com deficiência;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 713, de 22 de março de 2018.
+
+
+Art. 20.
+
+O Fundo Municipal dos Direitos da Pessoa com Deficiência ficará subordinado operacionalmente:
+
+
+I –
+
+à Secretaria Municipal de Fazenda, responsável pelas operações financeiras;
+
+
+II –
+
+à Secretaria Municipal de Assistência Social, responsável pela formulação, elaboração e acompanhamento dos processos referentes aos recursos do FMDPD.
+
+
+Art. 21.
+
+As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 22.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito do Município
+
+**MÁRIO JONAS FREITAS GUTERRES**
+
+Procurador Geral do Município
+

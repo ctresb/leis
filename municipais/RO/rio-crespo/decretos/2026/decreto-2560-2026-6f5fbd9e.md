@@ -1,0 +1,32 @@
+---
+titulo: "DECRETO Nº 2560/2026. DE 27 DE FEVEREIRO DE 2026"
+uf: "RO"
+municipio: "RIO CRESPO"
+tipo: "Decreto"
+numero: "2560"
+data: 2026-02-27
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 02/03/2026"
+data_publicacao: 2026-03-02
+codigo_identificador: "6F5FBD9E"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116013_2026-02-27_c7cd71b637c3ad71aa2852e886af6a03.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 2560/2026. DE 27 DE FEVEREIRO DE 2026
+
+DECRETO Nº 2560/2026. DE 27 DE FEVEREIRO DE 2026
+Abre no orçamento vigente crédito adicional especial
+e da outras providências
+
+Artigo 2º - O crédito aberto na forma do artigo anterior será coberto
+com recursos provenientes de Excesso: REABERTURA 150.000,00
+
+Artigo 3º - Esta Lei entra em vigor na data de sua publicação.
+Convênio nº 700/2025/PGE-SEAGRI - LUCAS TORRES
+Rio Crespo - RO, 27 de fevereiro de 2026.
+EDER DA SILVA
+Prefeito Municipal de Rio Crespo – RO
+Publicado por:
+Edilaine Pereira Rodrigues

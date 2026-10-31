@@ -1,0 +1,33 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 1248, DE 28 DE JANEIRO DE"
+uf: "AM"
+municipio: "COARI"
+tipo: "Decreto"
+numero: "1248"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 20/02/2026"
+data_publicacao: 2026-02-20
+codigo_identificador: "5C0BC2CC"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118801_2026-02-19_0ca31ef1a1d8db109212d93a73db6eaf.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 1248, DE 28 DE JANEIRO DE
+
+DECRETO MUNICIPAL Nº 1248, DE 28 DE JANEIRO DE
+2026.
+Dispõe sobre a regulamentação de uso da praia do
+pôr-do-sol no Município de Coari-AM.
+O PREFEITO MUNICIPAL DE COARI, no exercício da
+competência que lhe confere o Art. 78, inciso IV e Art. 107, ambos da
+Lei Orgânica do Município, e,
+
+PUBLIQUE-SE. CUMPRA-SE E ANOTE-SE.
+GABINETE DO PREFEITO DO MUNICÍPIO DE COARI, Estado do
+Amazonas, em 30 de janeiro de 2026.
+MANOEL ADAIL AMARAL PINHEIRO
+Prefeito Municipal de Coari
+Publicado por:
+Brenna Gabrielle Rocha da Costa

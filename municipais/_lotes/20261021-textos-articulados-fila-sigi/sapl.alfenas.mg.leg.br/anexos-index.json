@@ -1,0 +1,852 @@
+{
+  "estado": "indice_completo",
+  "total": 70,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/decreto_no_24-2022_jose_carlos_de_souza.pdf da norma Decreto Legislativo nº 24, de 13 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jaime Daniel dos Santos",
+                [
+                  "2022-07-13T15:04:25-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Softcam Solucoes Ltda",
+                [
+                  "2022-07-13T15:04:25-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Decreto Legislativo",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/1/decreto_no_24-2022_jose_carlos_de_souza.pdf",
+      "ano": 2022,
+      "norma": 56
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/decreto_no_25-2022_-_professor_sandro_amadeu.pdf da norma Decreto Legislativo nº 25, de 13 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Jaime Daniel dos Santos",
+                [
+                  "2022-07-13T15:04:16-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Softcam Solucoes Ltda",
+                [
+                  "2022-07-13T15:04:16-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Decreto Legislativo",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/2/decreto_no_25-2022_-_professor_sandro_amadeu.pdf",
+      "ano": 2022,
+      "norma": 57
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/resolucao_no_04-2022_-_mesa_diretora.pdf da norma Resolução nº 4, de 12 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Resolução nº 04-2022 - Mesa Diretora",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/3/resolucao_no_04-2022_-_mesa_diretora.pdf",
+      "ano": 2022,
+      "norma": 92
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/001_-_braz_fernando_da_silva_-_sr._edward_pereira_chiecchi.docx da norma Decreto Legislativo nº 2, de 25 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/5/001_-_braz_fernando_da_silva_-_sr._edward_pereira_chiecchi.docx",
+      "ano": 2023,
+      "norma": 30
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/002_-_braz_fernando_da_silva_-_sr._amancio_de_souza.docx da norma Decreto Legislativo nº 3, de 25 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/6/002_-_braz_fernando_da_silva_-_sr._amancio_de_souza.docx",
+      "ano": 2023,
+      "norma": 31
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/7/003_-_braz_fernando_da_silva_-_sra._lucilia_maria_bernardes_bastos_de_oliveira.docx da norma Decreto Legislativo nº 4, de 25 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/7/003_-_braz_fernando_da_silva_-_sra._lucilia_maria_bernardes_bastos_de_oliveira.docx",
+      "ano": 2023,
+      "norma": 32
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/8/004_-_jose_carlos_de_morais_-_sr._paulo_cesar_vieira.docx da norma Decreto Legislativo nº 5, de 25 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/8/004_-_jose_carlos_de_morais_-_sr._paulo_cesar_vieira.docx",
+      "ano": 2023,
+      "norma": 33
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/005_-_katia_goyata_-dr._sandro_amadeu_cerveira.docx da norma Decreto Legislativo nº 6, de 09 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/9/005_-_katia_goyata_-dr._sandro_amadeu_cerveira.docx",
+      "ano": 2023,
+      "norma": 34
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/10/006_-_katia_goyata_-_wilson_koitti_tomita.docx da norma Decreto Legislativo nº 8, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/10/006_-_katia_goyata_-_wilson_koitti_tomita.docx",
+      "ano": 2023,
+      "norma": 36
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/11/008_-_guinho_-_sr._pascoal_claudio_martins.docx da norma Decreto Legislativo nº 9, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/11/008_-_guinho_-_sr._pascoal_claudio_martins.docx",
+      "ano": 2023,
+      "norma": 37
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/12/007_-_braz_fernando_da_silva_-joao_batista_pedro.docx da norma Decreto Legislativo nº 10, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/12/007_-_braz_fernando_da_silva_-joao_batista_pedro.docx",
+      "ano": 2023,
+      "norma": 38
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/13/009_-_paulinho_-_hm_-_maria_aparecida_bento..docx da norma Decreto Legislativo nº 12, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/13/009_-_paulinho_-_hm_-_maria_aparecida_bento..docx",
+      "ano": 2023,
+      "norma": 39
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/14/010_-_luciano_solar_-_ch_-_edgar_winston_castello_sentevilles.docx da norma Decreto Legislativo nº 13, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/14/010_-_luciano_solar_-_ch_-_edgar_winston_castello_sentevilles.docx",
+      "ano": 2023,
+      "norma": 40
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/15/011_-_ratinho_-_hm_-_leila_lemos_grechi.docx da norma Decreto Legislativo nº 14, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/15/011_-_ratinho_-_hm_-_leila_lemos_grechi.docx",
+      "ano": 2023,
+      "norma": 41
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/012_-katia_-_ch-_andre_luis_bertold.docx da norma Decreto Legislativo nº 15, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/16/012_-katia_-_ch-_andre_luis_bertold.docx",
+      "ano": 2023,
+      "norma": 42
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/013_-paulinho-_hm_-_sr._sebastiao_paulo_dos_santos.docx da norma Decreto Legislativo nº 16, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/17/013_-paulinho-_hm_-_sr._sebastiao_paulo_dos_santos.docx",
+      "ano": 2023,
+      "norma": 43
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/014_-paulinho-_ch_-_sr._joao_costa_da_silva_filho.docx da norma Decreto Legislativo nº 17, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/18/014_-paulinho-_ch_-_sr._joao_costa_da_silva_filho.docx",
+      "ano": 2023,
+      "norma": 44
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/017_-_braz_fernando_da_silva_-_osmar_da_silva_bastos.docx da norma Decreto Legislativo nº 20, de 23 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/19/017_-_braz_fernando_da_silva_-_osmar_da_silva_bastos.docx",
+      "ano": 2023,
+      "norma": 45
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/018_-_paulinho_-_hm_-_cleuza_rodrigues_de_melo.docx da norma Decreto Legislativo nº 21, de 11 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/20/018_-_paulinho_-_hm_-_cleuza_rodrigues_de_melo.docx",
+      "ano": 2023,
+      "norma": 46
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/021_-_vagner_tarcisio_de_morais_-_marcos_duarte.docx da norma Decreto Legislativo nº 22, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/21/021_-_vagner_tarcisio_de_morais_-_marcos_duarte.docx",
+      "ano": 2023,
+      "norma": 47
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/22/022_-_domingos_dos_reis_monteiro_-_pastor_manoel.docx da norma Decreto Legislativo nº 23, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/22/022_-_domingos_dos_reis_monteiro_-_pastor_manoel.docx",
+      "ano": 2023,
+      "norma": 48
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/23/023_-_paulo_agenor_madeira_-_sebastiao_borges.docx da norma Decreto Legislativo nº 24, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/23/023_-_paulo_agenor_madeira_-_sebastiao_borges.docx",
+      "ano": 2023,
+      "norma": 49
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/24/024_-_braz_-_marllon.docx da norma Decreto Legislativo nº 25, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/24/024_-_braz_-_marllon.docx",
+      "ano": 2023,
+      "norma": 50
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/25/019_-_katia_goyata_-_elisamara_da_silva_mencarelli..docx da norma Decreto Legislativo nº 26, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/25/019_-_katia_goyata_-_elisamara_da_silva_mencarelli..docx",
+      "ano": 2023,
+      "norma": 51
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/26/020_-_paulo_agenor_madeira_-_luciana_guimaraes_lima_dos_santos.docx da norma Decreto Legislativo nº 27, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/26/020_-_paulo_agenor_madeira_-_luciana_guimaraes_lima_dos_santos.docx",
+      "ano": 2023,
+      "norma": 52
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/27/027_-_tani_rose_-_sidney_quintino_vieira.docx da norma Decreto Legislativo nº 30, de 06 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/27/027_-_tani_rose_-_sidney_quintino_vieira.docx",
+      "ano": 2023,
+      "norma": 103
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/28/028_-_jaime_daniel_-_sr._joao_campos_nogueira_neto.docx da norma Decreto Legislativo nº 31, de 06 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/28/028_-_jaime_daniel_-_sr._joao_campos_nogueira_neto.docx",
+      "ano": 2023,
+      "norma": 108
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/29/025_-_dunga_-_pastor_luiz_carlos_de_andrade_junior.docx da norma Decreto Legislativo nº 32, de 06 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/29/025_-_dunga_-_pastor_luiz_carlos_de_andrade_junior.docx",
+      "ano": 2023,
+      "norma": 109
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/30/026_-_guinho_-_rodolfo_inacio_da_freiria.docx da norma Decreto Legislativo nº 33, de 06 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/30/026_-_guinho_-_rodolfo_inacio_da_freiria.docx",
+      "ano": 2023,
+      "norma": 110
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/31/of_203.2024.pdf da norma Lei Ordinária nº 5.282, de 23 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Ofício encaminhando a Lei 5.282, de 23/05/2024.",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/31/of_203.2024.pdf",
+      "ano": 2024,
+      "norma": 296
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/33/of_253.2024.pdf da norma Lei Ordinária nº 5.287, de 24 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Ofício nº 253/2024 encaminha Lei 5.278, de 18/06/2024.",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/33/of_253.2024.pdf",
+      "ano": 2024,
+      "norma": 304
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/34/anexos_ldo.pdf da norma Lei Ordinária nº 5.290, de 25 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Fabio Marques Florencio",
+                [
+                  "2024-06-26T16:23:42-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/34/anexos_ldo.pdf",
+      "ano": 2024,
+      "norma": 307
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/35/lm_5310.2024_-_loa_2025_anexos.pdf da norma Lei Ordinária nº 5.310, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Fabio Marques Florencio",
+                [
+                  "2024-12-12T13:40:43-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/35/lm_5310.2024_-_loa_2025_anexos.pdf",
+      "ano": 2024,
+      "norma": 344
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/36/lm_5310.2024_-_loa_2025_emendas_impositivas.pdf da norma Lei Ordinária nº 5.310, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Fabio Marques Florencio",
+                [
+                  "2024-12-12T13:38:52-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/36/lm_5310.2024_-_loa_2025_emendas_impositivas.pdf",
+      "ano": 2024,
+      "norma": 344
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/37/lm_5312.2024_-_estrutura_gm_anexo_i_tabela_1.pdf da norma Lei Ordinária nº 5.312, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Fabio Marques Florencio",
+                [
+                  "2024-12-12T13:42:39-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/37/lm_5312.2024_-_estrutura_gm_anexo_i_tabela_1.pdf",
+      "ano": 2024,
+      "norma": 346
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/ata_da_sessao_compromisso_e_posse_dos_eleitos_legisl._25.28.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Compromisso e Posse dos Eleitos para a Legislatura 2025/2028",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/38/ata_da_sessao_compromisso_e_posse_dos_eleitos_legisl._25.28.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/resolucao_no_01-2025_-_compoe_mesa_diretora_2025-2026.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/39/resolucao_no_01-2025_-_compoe_mesa_diretora_2025-2026.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/40/declaracao-diploma_-_braz.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/40/declaracao-diploma_-_braz.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/41/declaracao-diploma_-_ze_batista.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/41/declaracao-diploma_-_ze_batista.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/42/declaracao-diploma_-_ratinho.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/42/declaracao-diploma_-_ratinho.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/43/declaracao-diploma_-_thalles.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/43/declaracao-diploma_-_thalles.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/44/declaracao-diploma_-_guigui.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/44/declaracao-diploma_-_guigui.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/45/declaracao-diploma_-_rodolfo.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/45/declaracao-diploma_-_rodolfo.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/46/declaracao-diploma_-_cirlei.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/46/declaracao-diploma_-_cirlei.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/47/declaracao-diploma_-_pedrinho.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/47/declaracao-diploma_-_pedrinho.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/48/declaracao-diploma_-_gilmar.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/48/declaracao-diploma_-_gilmar.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/49/declaracao-diploma_-_matheus.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/49/declaracao-diploma_-_matheus.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/declaracao-diploma_-_edinilson.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/50/declaracao-diploma_-_edinilson.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/declaracao-diploma_-_idalina.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/51/declaracao-diploma_-_idalina.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/declaracao-diploma_-_eliacim.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/52/declaracao-diploma_-_eliacim.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/53/declaracao-diploma_-_fabio.pdf da norma Resolução nº 1, de 01 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/53/declaracao-diploma_-_fabio.pdf",
+      "ano": 2025,
+      "norma": 354
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/1._demonstraivo_i_metas_anuais..pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/55/1._demonstraivo_i_metas_anuais..pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/56/3._demonstrativo_iii_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/56/3._demonstrativo_iii_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/57/5._demonstrativo_v_-_origem_e_aplicacao_dos_recursos_obtidos_com_alienacao.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/57/5._demonstrativo_v_-_origem_e_aplicacao_dos_recursos_obtidos_com_alienacao.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/58/4._demonstrativo_iv_-_evolucao_do_patrimonio_liquido.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/58/4._demonstrativo_iv_-_evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/6._demonstrativo_vii_-_estimativa_e_compensacao_da_renuncia_da_receita.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/59/6._demonstrativo_vii_-_estimativa_e_compensacao_da_renuncia_da_receita.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/7._demonstrativo_viii_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/60/7._demonstrativo_viii_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/8_-_anexo_i_metodologia_e_memoria_de_calculo_das_metas_anuais_receitas_totais.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/61/8_-_anexo_i_metodologia_e_memoria_de_calculo_das_metas_anuais_receitas_totais.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/62/9._anexo_i.a_-_metodologia_e_memoria_de_calculo_das__principais_fontes_de_receitas.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/62/9._anexo_i.a_-_metodologia_e_memoria_de_calculo_das__principais_fontes_de_receitas.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/63/11._anexo_1.4_demonstrativo_de_memoria_de_calculo_das_metas_anuais_para_as_despesas.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/63/11._anexo_1.4_demonstrativo_de_memoria_de_calculo_das_metas_anuais_para_as_despesas.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/64/13._anexo_ii_a_metodologia_e_memoria_de_calculo_das_principais_despesas.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/64/13._anexo_ii_a_metodologia_e_memoria_de_calculo_das_principais_despesas.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/65/anexo_vi_receita_corrente_liquida.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/65/anexo_vi_receita_corrente_liquida.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/anexo_vii_demonstrativos_de_riscos_fiscais_e_providencias.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/66/anexo_vii_demonstrativos_de_riscos_fiscais_e_providencias.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/discriminacao_das_despesas.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/67/discriminacao_das_despesas.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/68/relatorio_de_metas_fisicas_das_despesas_por_programas_e_acoes.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/68/relatorio_de_metas_fisicas_das_despesas_por_programas_e_acoes.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/69/relatorio_sobre_projetos_em_execucao_e_despesas_com_conserv._do_patrimonio_publico.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/69/relatorio_sobre_projetos_em_execucao_e_despesas_com_conserv._do_patrimonio_publico.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/70/resultado_primario_e_nominal.pdf da norma Lei Ordinária nº 5.344, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/70/resultado_primario_e_nominal.pdf",
+      "ano": 2025,
+      "norma": 415
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/resolucao_005_2026_prorrogacao_cpi_01_2026.docx da norma Resolução nº 5, de 15 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2026/72/resolucao_005_2026_prorrogacao_cpi_01_2026.docx",
+      "ano": 2026,
+      "norma": 569
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/73/oficio_encaminhamento_lei_5413.pdf da norma Lei Ordinária nº 5.413, de 24 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Fabia Penido Ribeiro",
+                [
+                  "2026-09-22T16:29:24-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Ofício encaminhamento da Lei 5.413",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2026/73/oficio_encaminhamento_lei_5413.pdf",
+      "ano": 2026,
+      "norma": 572
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/74/decreto_certificado_no_39-2026.pdf da norma Decreto Legislativo nº 39, de 07 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Leonardo Guimaraes Giusto",
+                [
+                  "2026-10-09T11:58:35-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alfenas.mg.leg.br/media/sapl/public/anexonormajuridica/2026/74/decreto_certificado_no_39-2026.pdf",
+      "ano": 2026,
+      "norma": 581
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alfenas.mg.leg.br/651b65d17abe781cf2c6355d1ebde920ef64dcd919a2c71e4ffaacc7314dffa8.json",
+      "url": "https://sapl.alfenas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.alfenas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7c509a70bfe738bd3755a2c5ea7299fd3c32a20c37e3fdd23f4d5e8f60db975b",
+      "bytes": 32144,
+      "capturado_em": "2026-10-21T05:22:51.173671-03:00"
+    }
+  ]
+}

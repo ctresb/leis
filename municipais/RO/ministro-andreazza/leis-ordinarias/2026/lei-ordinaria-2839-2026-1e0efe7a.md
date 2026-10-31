@@ -1,0 +1,101 @@
+---
+titulo: "LEI N. 2.839/PMMA/2026."
+uf: "RO"
+municipio: "MINISTRO ANDREAZZA"
+tipo: "Lei Ordinária"
+numero: "2839"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 06/07/2026"
+data_publicacao: 2026-07-06
+codigo_identificador: "1E0EFE7A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116101_2026-07-03_9322de462a0b4fef540c342a1bdeb9e3.pdf"
+baixado_em: 2026-10-15
+---
+# LEI N. 2.839/PMMA/2026.
+
+LEI N. 2.839/PMMA/2026.
+LEI N. 2.839/PMMA/2026.
+―DISPÕE SOBRE ABERTURA DE CRÉDITO ESPECIAL POR RECURSOS VINCULADO A RECEITA AO ORÇAMENTO
+VIGENTE E DA OUTRAS PROVIDÊNCIAS‖.
+O PREFEITO MUNICIPAL DE MINISTRO ANDREAZZA-RO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS, FAZ SABER QUE A
+CÂMARA MUNICIPAL DE MINISTRO ANDREAZZA-RO, APROVOU E ELE SANCIONA A SEGUINTE LEI:
+Art. 1º. Fica o Poder Executivo Municipal autorizado para proceder Abertura de Crédito Especial por Recursos Vinculados a Receita ao Orçamento
+Vigente, no valor de R$150.000,00 (Cento e cinquenta mil reais), oriundos de Emenda Parlamentar Estadual nº. 003/2026 do Deputado Luizinho
+Goebel, para Aquisição de Tubos Corrugados Metálicos, conforme planilha orçamentária e estudo hidrológico, a fim de atender as necessidades da
+Secretaria Municipal de Obras e Serviços Públicos, de acordo com a dotação orçamentário distribuída no quadro abaixo:
+Projeto/
+Atividade
+1
+
+Órgão/ Unid.
+
+Função
+
+Sub-Função
+
+Programa
+
+02/005
+
+04
+
+122
+
+PMMA/
+SEMOSP
+
+Administração
+
+Administração Geral
+
+0007
+Gestão da politica de
+transporte
+e
+Projeto
+desenvolvimento urbano e
+rural
+
+Ação do Programa
+
+Elemento de Despesas
+
+Fonte
+
+616
+
+4.4.90.51.00.00
+
+17010100
+R$
+Transferência Especial
+dos Estados Emenda
+150.000,00
+Individual
+–
+Exercícios Corrente
+Total
+150.000,00
+
+Aquisição de Tubos Corrugados
+Metálicos conforme Emenda Obras e instalações
+Parlamentar Estadual 003/2026
+
+Valor
+
+Art. 2º. Para a cobertura dos recursos serão utilizados Recursos Vinculados a Receita:2.4.2.9.99.0.1.90.00.00.00.00. outras Transferências de
+Convênios da União e de suas Entidades Emenda Individual; Fonte: 17010100 –Transferência Especial dos Estados – Emenda Individual - Exercício
+Corrente.
+Art. 3º. Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+Ministro Andreazza/RO, 01 de julho de 2026.
+JOSÉ ALVES PEREIRA
+Prefeito Municipal
+ROSEANE MARIA VIEIRA TAVARES FONTANA
+Procuradora do Município – OAB/RO 2209
+DOCUMENTO PUBLICADO NO MURAL OFICIAL DA PREFEITURA CONFORME LEI N. 384/2003 POR UM PERÍODO MINIMO
+DE SETE DIAS
+Publicado por:
+Daniela Pagno Dos Santos

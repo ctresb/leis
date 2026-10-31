@@ -1,0 +1,42 @@
+{
+  "host": "sapl.araripina.pe.leg.br",
+  "metadados_unicos_observados": 45,
+  "total_api_declarado": 45,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 44,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araripina.pe.leg.br/66d659fbeb14a8b84e452a47cd50d33f0230f12ae036c2900d4ce885481a2def.json",
+    "url": "https://sapl.araripina.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.araripina.pe.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9389df3d6c43ea472834504a07fe02ca7311fb226100869d2f8c452cdb0653e7",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T16:55:47.335046-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araripina.pe.leg.br/4dd8305f86523f24d8100c5e0e46a96e6b6dbbea1a29cce7047dd621290d9d36.json",
+    "url": "https://sapl.araripina.pe.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.araripina.pe.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "096a7ee37fa8ae4b6408f8196ce429a7e44cfb6f75afd0f3d5183641faba0c29",
+    "bytes": 689,
+    "capturado_em": "2026-10-27T16:55:46.431560-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araripina.pe.leg.br/89e9f14113bb7ba1b8259904aaf7181d5f9856e55b5e671714b558c2c968fdf4.json",
+      "url": "https://sapl.araripina.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.araripina.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "25f61b5639f4ed6b59dd52aa6d2b73260b9cb794a42a457d9115eb9179e1b4dc",
+      "bytes": 27134,
+      "capturado_em": "2026-10-27T16:55:49.527645-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

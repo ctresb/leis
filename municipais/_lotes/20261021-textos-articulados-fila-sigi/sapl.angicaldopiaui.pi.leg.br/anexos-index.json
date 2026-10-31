@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/lei_635-2021-republicacao_diario_26_de_nov_21-ato_de_promulgacao_n01-2021-_diretrizes_para_elaboracao_e_execucao_da_lei_orcamentaria_para_2022.pdf da norma Lei Ordinária-CMAPI nº 635, de 02 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "EM 25/11/2021 FOI ENVIADO SOLICITAÇÃO DE REPUBLICAÇÃO DA LEI, DEVIDO FALTA DE PÁGINA (ONDE CITA ART. 51 A 55) NA PUBLICAÇÃO FEITA PELO DIÁRIO OFICIAL DAS PREFEITURAS PIAUIENSES EM 03/09/21. A REPUBLICAÇÃO ESTÁ DISPONIVEL NO DIÁRIO DO DIA 26/11/2021.",
+      "anexo_arquivo": "http://sapl.angicaldopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2021/1/lei_635-2021-republicacao_diario_26_de_nov_21-ato_de_promulgacao_n01-2021-_diretrizes_para_elaboracao_e_execucao_da_lei_orcamentaria_para_2022.pdf",
+      "ano": 2021,
+      "norma": 25
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.angicaldopiaui.pi.leg.br/2a3e916f8e357d2955012bdb4e09f0aaa436a49d75cb8d6676931ae851108f4e.json",
+      "url": "https://sapl.angicaldopiaui.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.angicaldopiaui.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "83eaa3a732cec98ca85c1b459b2b6eb276b522a57f8c7db56e3b3c3423d46ae1",
+      "bytes": 1125,
+      "capturado_em": "2026-10-27T16:44:04.447091-03:00"
+    }
+  ]
+}

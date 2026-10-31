@@ -1,0 +1,152 @@
+---
+titulo: "Lei Ordinária-PL nº 720, de 27 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "720"
+data: "2023-03-27"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2023-09-11; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/851"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/650/text"
+sha256_fonte: "22f2e87d8f457e20ca6902083d75244fe3ed4c2ed517695fdac6c8f07fa65c82"
+sha256_texto: "16e6995ae1c110e877143cbc66d8976ce966d4288419422e013ac4e8a6838ba5"
+capturado_em_fonte: "2026-10-27T19:39:13.370771-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária-PL nº 720, de 27 de março de 2023
+
+Institui o Programa Acolher no âmbito da Secretaria Municipal da Saúde e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE BRASILÂNDIA DE MINAS, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 86, inciso VII, da Lei Orgânica, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei institui o Programa Acolher, destinado a aprimorar a rotina do acolhimento aos pacientes mais necessitados, baseando-se nas Políticas de Humanização do Sistema Único de Saúde - SUS, nos princípios da Equidade, Integralidade e Universalidade e no bem-estar dos indivíduos envolvidos.
+
+
+Art. 2º.
+
+O Programa Acolher tem os seguintes objetivos específicos:
+
+
+I –
+
+identificar através das equipes de Estratégia Saúde da Família (ESF), os pacientes com maior necessidade da assistência que o projeto propõe;
+
+
+II –
+
+elaborar cronograma com frequência de visitas de acordo com as necessidades identificadas;
+
+
+III –
+
+instituir os recursos humanos necessários para o atendimento proposto;
+
+
+IV –
+
+ofertar atendimento humanizados
+
+
+V –
+
+prevenir, eliminar ou reduzir os índices de feridas em pacientes acamados; e
+
+
+VI –
+
+atender continuamente 100% dos pacientes identificados.
+
+
+Art. 3º.
+
+Constituem público-alvo do Programa Acolher
+
+
+I –
+
+os pacientes acamados e os portadores de patologias que os incapacitam de realizar o autocuidado, como os pacientes oncológicos;
+
+
+II –
+
+pacientes em hemodiálise e diálise, e
+
+
+III –
+
+pacientes com problemas respiratórios em uso contínuo de oxigénio e outros.
+
+
+Parágrafo único
+
+Os pacientes em situação de vulnerabilidade social também serão acompanhados pelo programa.
+
+
+Art. 4º.
+
+Compete à Secretaria Municipal de Saúde coordenar, executar, monitorar e avaliar o Programa Acolher e ainda editar normas complementares necessárias à sua execução.
+
+
+Art. 5º.
+
+O programa Acolher será executado por uma equipe profissional multidisciplinar, constituida por 01 (um) enfermeiro, 01 (um) assistente social, 01 (um) fisioterapeuta, 01 (um) psicólogo, 01 (um) supervisor de atenção domiciliar.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 742, de 11 de setembro de 2023.
+
+
+Parágrafo único
+
+Não havendo servidores do quadro de pessoal disponíveis para atuação no Programa, o Município procederá a contratação por prazo determinado, nos termos da Lei Complementar nº 10, de 1º de novembro de 2006, ficando criadas por esta lei as respectivas funções públicas, com os vencimentos equivalentes aos previstos no quadro de cargos e vencimentos da Prefeitura Municipal de Brasilândia de Minas MG para servidores que desempenham funções semelhantes.
+
+
+Art. 6º.
+
+Fica inserido no Plano Plurianual do Município, contido na Lei nº Lei nº 677, de 21 de dezembro de 2021, a ação Programa Acolher, com os seguintes valores estimativos:
+
+
+I –
+
+Exercicio 2023: R$201.235,00;
+
+
+II –
+
+Exercício 2024: R$272.141,41;
+
+
+III –
+
+Exercício 2025: R$282.482,78.
+
+
+Art. 7º.
+
+Fica autorizada a abertura de crédito adicional suplementar ao orçamento anual de 2023, na dotação que segue, no valor de R$ 201.235,00 (duzentos e um mil, duzentos e trinta e cinco reais), mediante a utilização das fontes de recursos previstas no artigo 43, § 1º, da Lei nº 4.320, de 17 de março de 1964:
+
+
+I –
+
+02.06.01.10.301.1002 2046-3.1.90.04.00- Manutenção das Atividades de PSFs.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Brasilândia de Minas -MG, 27 de março de 2023
+
+**OSÉIAS CARDOSO QUEIROZ**
+
+**Prefeito**
+

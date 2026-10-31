@@ -1,0 +1,77 @@
+{
+  "estado": "indice_completo",
+  "total": 6,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/610-2019_-__camara_codigo_tributario-anexo.pdf da norma Lei Ordinária nº 610, de 31 de maio de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cruzmaltina.pr.leg.br/media/sapl/public/anexonormajuridica/2019/1/610-2019_-__camara_codigo_tributario-anexo.pdf",
+      "ano": 2019,
+      "norma": 869
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/616-2019_anexos.pdf da norma Lei Ordinária nº 616, de 20 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Tabela de referência para cálculos de Valor Venal de terrenos e edificações e\r\nlançamentos tributários;\r\nALTERA A TABELA I – ALÍQUOTA DO IMPOSTO PREDIAL E TERRITORIAL\r\nURBANO DO CÓDIGO TRIBUTÁRIO MUNICIPAL – LEI 037/1997",
+      "anexo_arquivo": "http://sapl.cruzmaltina.pr.leg.br/media/sapl/public/anexonormajuridica/2019/2/616-2019_anexos.pdf",
+      "ano": 2019,
+      "norma": 875
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/anexo_i.pdf da norma Lei Ordinária nº 596, de 11 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - ESTRUTURA DOS CARGOS EFETIVOS",
+      "anexo_arquivo": "http://sapl.cruzmaltina.pr.leg.br/media/sapl/public/anexonormajuridica/2019/3/anexo_i.pdf",
+      "ano": 2019,
+      "norma": 849
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/anexo_ii.pdf da norma Lei Ordinária nº 596, de 11 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - ESTRUTURA DE CARGOS COMISSIONADOS",
+      "anexo_arquivo": "http://sapl.cruzmaltina.pr.leg.br/media/sapl/public/anexonormajuridica/2019/4/anexo_ii.pdf",
+      "ano": 2019,
+      "norma": 849
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/anexo_iii.pdf da norma Lei Ordinária nº 596, de 11 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III - TABELA DE VENCIMENTOS DOS SERVIDORES EFETIVOS",
+      "anexo_arquivo": "http://sapl.cruzmaltina.pr.leg.br/media/sapl/public/anexonormajuridica/2019/5/anexo_iii.pdf",
+      "ano": 2019,
+      "norma": 849
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/6/anexo_iv.pdf da norma Lei Ordinária nº 596, de 11 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - ATRIBUIÇÕES DOS CARGOS",
+      "anexo_arquivo": "http://sapl.cruzmaltina.pr.leg.br/media/sapl/public/anexonormajuridica/2019/6/anexo_iv.pdf",
+      "ano": 2019,
+      "norma": 849
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzmaltina.pr.leg.br/23156b9dd23ff8a843e9ec3a2a9c0483c69d4c596ead4f25049d4cf53bc226a9.json",
+      "url": "https://sapl.cruzmaltina.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d9ccebcd87d001edd781a3527b73609a7441ab59d6a9cf179e4e15fe32658de2",
+      "capturado_em": "2026-10-20T20:50:40.081073",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.cruzmaltina.pr.leg.br/23156b9dd23ff8a843e9ec3a2a9c0483c69d4c596ead4f25049d4cf53bc226a9.json"
+    }
+  ]
+}

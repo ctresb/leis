@@ -1,0 +1,213 @@
+Dispõe sobre a Alteração Salarial do Quadro de Pessoal de Livre Nomeação e Exoneração da Câmara Municipal de Amontada.
+
+
+O Prefeito Municipal de Amontada, no uso de atribuições que lhe são conferidas por lei.  
+Faz saber que a Câmara Municipal aprova e ele sanciona a seguinte Lei:
+
+I - Quanto a Receita:
+
+
+Art. 1º.
+
+No Quadro Resumo Geral da Receita da Lei nº 685/2006 - Lei Orçamentária Anual do exercício de 2007 - a classificação da receita passa a ser identificada com a seguinte nomenclatura, de acordo com o disposto na Portaria 48/2006 da STN:
+
+
+**1724.01.00 -** Transferências de Recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB.
+
+
+Quando constar do montante creditado na conta do FUNDEB parcela de complementação de seu valor pela União, o valor correspondente deverá ser registrado destacadamente na conta "1724.02.00 Transferências de Recursos da Complementação da União ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB".
+
+
+Art. 2º.
+
+Na execução orçamentária da receita, os valores retidos automaticamente das transferências intergovernamentais para a formação do FUNDEB, serão assim identificados com as novas nomenclaturas instituídas pela Portaria 48/2006 da STN:
+
+
+9721.01.02 - Dedução de Receita do FPM-FUNDEB e Redutor Financeiro
+
+9721.36.00 - Dedução da Receita para a Formação do FUNDEB - ICMS - Lei Complementar 87/96  
+9722.01.01 - Dedução da Receita para a Formação do FUNDEB - ICMS  
+9722.01.04 - Dedução da Receita para a Formação do FUNDEB - IPI
+
+
+Art. 3º.
+
+Na execução orçamentária da receita, os novos valores acrescentados pela Emenda Constitucional 53/2006, retidos automaticamente das transferências intergovernamentais para a formação do FUNDEB, serão assim identificados de acordo com a classificação instituída pela Portaria 48/2006 da STN:
+
+
+9721.01.05 - Dedução da Receita para a Formação do FUNDEB - ITR  
+9721.01.02 - Dedução da Receita para a Formação do FUNDEB - IPVA
+
+
+II - Quanto a Despesa:
+
+
+Art. 4º.
+
+Nos Quadros Demonstrativos da Despesa constantes da Lei nº 685/2006 Lei Orçamentária Anual do exercício de 2007, e abaixo relacionada, a classificação da despesa passa a ser assim identificada conforme abaixo e fica alterado a nomenclatura da unidade orçamentária passando a ter as seguintes redações:
+
+
+a)
+
+onde lê-se **"04.12.361.0042.2011 - Manut do Pessoal do magistério FUNDEF - 60%"** passará a ser lido **"04.12.361.0042.2011 - Fundo Manut. Desenv. Educ. Básica e Valorização Prof. Magistério-FUNDEB – 60%"**.
+
+
+b)
+
+onde lê-se **"04.12.361.0042.2010 - Manut do Ensino Fundamental FUNDEF - 40%"** passará a ser lido **"04.12.361.0042.2010 - Fundo Manut. Desenv. Educ. Básica e Valorização Prof. Magistério-FUNDEВ - 40%".**
+
+
+c)
+
+onde lê-se **"04.12.361.0042-1001 -Ampliação e Construção de Unidade Escolar - FUNDEF”** passará a ser lido **"04.12.361.0042.1001 - Construção e Ampliação de Unidade Escolar – FUNDEB-40%".**
+
+
+Art. 5º.
+
+Fica o Poder Executivo Municipal autorizado abrir um Crédito Adicional Especial, destinado a atender as dotações orçamentárias do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB, não previstas no orçamento inicial de 2007, com efeitos a partir de 1º de junho, conforme discriminado abaixo:
+
+
+Órgão: 04 - Secretaria de Educação Cultura e Desporto
+
+Função: 12 - Educação  
+Sub-Função: 365 – Ensino Infantil  
+Programa: 0048 - Pré-Escolar  
+Projeto/Atividade: 1053 - Formação de Professores Ensino Infantil  
+Elemento de Despesa:  
+3.3.90.39 - Outros Serviços de Terceiros - Pessoa Jurídica R$ 12.658,00  
+TOTAL: R$ 12.658,00  
+Órgão: 04 - Secretaria de Educação Cultura e Desporto  
+Função: 12 - Educação  
+Sub-Função: 365 – Ensino Infantil  
+Programa: 0048 - Pré-Escolar  
+Projeto/Atividade: 2037 - Manut. Folha Professores Educ. Infantil - FUNDEB 60%  
+Elemento de Despesa:  
+3.1.90.04 - Contratação por Tempo Determinado  
+3.1.90.11 - Vencimentos e Vantagens Fixas  
+3.1.90.13 - Obrigações Patronais  
+3.1.90.16 - Outras Despesas Variáveis - Pessoal Civil  
+TOTAL R$  
+Órgão: 04 - Secretaria de Educação Cultura e Desporto  
+Função: 12 - Educação  
+Sub-Função: 365 - Ensino Infantil  
+Programa: 0048 - Pré-Escolar  
+Projeto/Atividade: 2038- Manutenção Educ. Infantil - FUNDEB 40%  
+Elemento de Despesa:  
+3.1.90.04 - Contratação por Tempo Determinado  
+3.1.90.11 - Vencimentos e Vantagens Fixas  
+3.1.90.13 - Obrigações Patronais  
+3.1.90.16 - Outras Despesas Variáveis-Pessoal Civil  
+3.390.13 - Obrigações Patronais  
+3.3.90.14- Diárias-Civil  
+3.3.90.30 - Material de Consumo  
+3.3.90.33 - Passagens e Despesas Locomoção  
+3.3.90.35 - Serviços de Consultoria  
+3.3.90.36 - Outros Serv.de Terc. - Pessoa Física  
+3.3.90.39 - Outros Serv.deTerc. - Pessoa Jurídica  
+3.3.90.92 - Desp de Exercícios Anteriores  
+4.4.90.52 - Equipamento. e Mat. Permanente  
+TOTAL
+
+Órgão: 04 - Secretaria de Educação Cultura e Desporto  
+Função: 12 - Educação  
+Sub-Função: 365 - Educação Infantil  
+Programa: Educação Infantil  
+Projeto/Atividade: 1054 - Construção e Reforma de Creches  
+3.3.90.39 - Outros Serv de Terceiros - Pessoa Jurídica  
+4.4.90.51 - Obras e instalações  
+Total  
+Órgão: 04 - Secretaria de Educação Cultura e Desporto  
+Função: 12 - Educação  
+Sub-Função: 366 - Educação de Jovens e Adultos  
+Programa: 0049 – Aquisição de Habilidades Básicas 1ª a 8ª  
+Projeto/Atividade: 2039 - Manutenção de Pessoal e Encargos com Educação de Jovens e Adultos - EJA - 60%  
+Elemento de Despesa:  
+3.1.90.04 - Contratação por Tempo Determinado  
+3.1.90.11 - Vencimento Vantagens Fixas  
+3.1.90.13 - Obrigações Patronais  
+TOTAL R$  
+Órgão: 04 - Secretaria de Educação Cultura e Desporto  
+Função: 12 - Educação  
+Sub-Função: 366 – Educação de Jovens e Adultos  
+Programa: 0049 - Aquisição de Habilidades Básicas 1ª a 8ª  
+Projeto/Atividade: 2040 - Manutenção da Ed. Jovens e Adultos - FUNDЕВ 40%  
+Elemento de Despesa:  
+3.3.90.14 - Diárias-Civil  
+3.3.90.30 - Material de Consumo  
+3.3.90.35 - Serviços de Consultoria  
+3.3.90.33 - Passagens e Despesas Locomoção  
+3.3.90.36 - Outros Serv.de Terc. - Pessoa Física  
+3.3.90.39 - Outros Serv.deTerc. - Pessoa Jurídica  
+4.4.90.52 - Equipamento e Mat. Permanente  
+TOTAL R$
+
+
+Art. 6º.
+
+Para cobrir o crédito aberto no artigo anterior, serão utilizados os recursos mencionados no artigo 43, § 1°, III da Lei 4.320/64, sendo os valores demonstrados no Decreto de Abertura do Crédito Adicional, os resultantes da anulação total ou parcial das dotações abaixo discriminadas:
+
+
+04 - SECRETARIA DE EDUCAÇÃO  
+04.12.361.0231.2012 - Programa de Educação de Jovens e Adultos  
+319004 - Cont por Tempo Determinado  
+319011 - Venc e Vantagens Fixas Pessoal Civil  
+319013 - Obrigações Patronais  
+319016 - Outras Desp Variáveis - Pess Civil  
+339013 - Obrigações Patronais  
+339030 - Material de Consumo  
+339036 - Outras Serv de Terceiros - Pess Física  
+339039 - Outros Serv de Terc Pessoa Jurídica  
+449052 - Equipamento e Mat Permanente  
+04.12.365.0048.1007 - Formação de Professores Ensino Infantil  
+339039 - Outros Serv de Terc Pessoa Jurídica  
+04.12.365.0048.2016 - Manut das Atividades do Ensino Infantil  
+319004 - Cont por Tempo Determinado  
+319009 - Salário Família  
+319011 - Venc e Vantagens Fixas  
+319013 - Obrigações Patronais  
+319016 - Outras Desp Var Pessoal Civil  
+319034 - Outras Desp de Pessoal P/ Cont Terc  
+339013 - Obrigações Patronais  
+339014 - Diárias Civil  
+339030 - Material de Consumo  
+339033 - Passagens e Desp com Locomoção  
+339035 - Serviços de Consultoria  
+339036 - Outros Serv de Terc - Pess Física  
+339039 - Outros Serv de Terc - Pess Jurídica  
+339092 - Despesas de Exercícios Anteriores  
+449052 - Equip e Material Permanente  
+04.12.365.0271.1008 - Construção e Reforma de Creches  
+339039 - Outros Serv de Terc Pessoa Jurídica  
+449051 - Obras e Instalações  
+TOTAL:
+
+
+Art. 7º.
+
+Os recursos do FUNDEB destinados a Educação de Jovens e Adultos, não poderá ultrapassar a 10% (dez por cento) para esta modalidade de ensino (art. 21, § 1.° c/c o art. 11 da M.P. n.° 339/06) do montante do fundo.
+
+
+Parágrafo único
+
+Fica a Secretaria de Finanças autorizada a abrir contas bancárias específicas do FUNDEB para controle dos 60% (Remuneração) 40% (demais despesas) e 10% (EJA).
+
+
+Art. 8º.
+
+O Poder Executivo fica autorizado a proceder a readequação dos instrumentos de planejamento - PPA - LDO- LOA.
+
+
+Art. 9º.
+
+Fica também autorizado a abrir, durante o exercício de 2007, créditos suplementares, conforme determina a Lei Municipal (LOA) nº 685 de 22/12/2006, para ajustes à conta dos recursos do FUNDEB, em razão do provável excesso de arrecadação previsto em relação ao FUNDEF, podendo realizar transposições, transferências e remanejamentos de recursos do FUNDEB para o cumprimento da MP-339/2006 e EC-53/2006.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 1° de abril do corrente ano, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada, em 11 de junho de 2007.
+
+EDIVALDO ASSIS DE JESUS  
+Prefeito Municipal

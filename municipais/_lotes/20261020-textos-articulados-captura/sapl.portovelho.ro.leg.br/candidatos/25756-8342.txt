@@ -1,0 +1,33 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município de Porto Velho, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 2.998, de 19 de dezembro de 2022, a fim de proceder às adequações orçamentárias no exercício 2023,
+
+**D E C R E T A**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 185.000,00 (Cento e oitenta cinco mil reais).
+
+Art. 2º- A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma Unidade Orçamentária. conforme disposto no Inciso XVII do Artigo 6º da Lei n.º 2.946 de 30 de Junho de 2022 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p>07.00 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO- SEMAD</p></td></tr><tr><td colspan="7"><p>07.11 TAXA DE ADMINISTRAÇÃO PREVIDÊNCIA - IPAM</p></td></tr><tr><td><p>PROJETO/ATIVIDADE</p></td><td><p>ESPECIFICAÇÃO</p></td><td><p>ESFERA</p></td><td><p>NATUREZA DA DESPESA</p></td><td><p>FONTE DE RECURSOS</p></td><td><p>TRANSPÕE R$</p></td><td><p>REALOCA R$</p></td></tr><tr><td rowspan="2"><p>07.11.09.122.007.2.001</p></td><td rowspan="2"><p>Administração da Unidade</p></td><td rowspan="2"><p>SEG</p></td><td><p>3.3.90.30</p></td><td rowspan="2"><p>1.802</p></td><td><p>100.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.35</p></td><td><p>85.000,00</p></td><td><p>-</p></td></tr><tr><td><p>07.11.09.122.007.2.042</p></td><td><p>Auxilio Alimentação ao servidor</p></td><td><p>SEG</p></td><td><p>3.3.90.46</p></td><td><p>1.802</p></td><td><p> </p></td><td><p>25.000,00</p></td></tr><tr><td><p>07.11.09.122.007.2.217</p></td><td><p>Remuneração de Pessoal Ativo e Encargos Sociais</p></td><td><p>SEG</p></td><td><p>3.1.90.13</p></td><td><p>1.802</p></td><td><p> </p></td><td><p>60.000,00</p></td></tr><tr><td><p>07.11.28.846.0000.0.077</p></td><td><p>Cumprimento de Sentenças Judiciais</p></td><td><p>SEG</p></td><td><p>3.3.90.91</p></td><td><p>1.802</p></td><td><p> </p></td><td><p>100.000,00</p></td></tr><tr><td colspan="5"><p>Subtotal</p></td><td><p>185.000,00</p></td><td><p>185.000,00</p></td></tr><tr><td colspan="5"><p>Total Geral</p></td><td><p>185.000,00</p></td><td><p>185.000,00</p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***IVAN FURTADO DE OLIVEIRA***
+
+Diretor- Presidente do IPAM
+
+***JOSE ALEXANDRE CASAGRANDE***
+
+Coordenador Administrativo e Financeiro do IPAM
+
+***GIULIANO CAIO SANT'ANA***
+
+Procurador Geral do IPAM

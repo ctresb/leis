@@ -1,0 +1,372 @@
+{
+  "host": "sapl.barramansa.rj.leg.br",
+  "metadados_unicos_observados": 3352,
+  "total_api_declarado": 3352,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 3228,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/b57f459181ad24df15f1ca6c152ca767357a1f85b5a69e7d634f71cdce69cf71.json",
+    "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1c54deaac669ddcec13abaffcf6a7d116b092cd8923eae45a8f40870c8c79746",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T17:14:44.905862-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/6717e25619227decda40c6b074cc70ca4fe85232d53eff287b21d033498f426d.json",
+    "url": "https://sapl.barramansa.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.barramansa.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a3ded238476ebbfe315a4c408a258cca4b5016fd2b93393aa99961ec0087f866",
+    "bytes": 748,
+    "capturado_em": "2026-10-27T17:14:44.003022-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/51c92d14cb3dd69ee526ff9a0cd26589d86982b3579a4f7f7c851c2c85de2b38.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "96e37c80b66c4878785d8895a124e6b7bc45bf7f484f04e737c7e5de2fec0a82",
+      "bytes": 61651,
+      "capturado_em": "2026-10-27T17:14:46.320677-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/ade67a5e0f50e738fb2437d962254acef404162714370410915c8e9a650576e7.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4fb06d3fe4ff179bb8343888302526d31bb5a49ad586e77f4a7435767afe1a3f",
+      "bytes": 59994,
+      "capturado_em": "2026-10-27T17:18:08.885568-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/a0a2f11a672fd79e8453f9db3f30ca6fb4d4a18c3558559782ee6ae20cded604.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fc9bc78b27fd4993c9d66ee69754b2c1fe3dd62f94b43e20bb6083c092ab92e0",
+      "bytes": 60872,
+      "capturado_em": "2026-10-27T17:21:23.771355-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/6377aa26b552c619ca2e943e3e748c7ded63a41ade39614941dc1d14c3974d25.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "350cdbea6ba5e5fa0cbfb446fbe8a6300d4c201050f2df06548f6a44952facdc",
+      "bytes": 62105,
+      "capturado_em": "2026-10-27T17:24:43.188505-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/ed21750f11ea766cba47ee269e302c8c9523731620e04aeb78a6b7e4c956ae98.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c4c21c94bf42a28a6163f93b7496462a6370b1960e391ce00d3c993694a3d210",
+      "bytes": 64270,
+      "capturado_em": "2026-10-27T17:28:00.018883-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/e489573a33d64e4c0812954b90421022681ab6b05d81606e12996fbcf67c26d1.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b723462ea6abc852735f566aeb6985b4702b3e5100d70c35ccae06cfdcbe7d33",
+      "bytes": 60911,
+      "capturado_em": "2026-10-27T17:33:52.024841-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/7087ee3df3b2cd8287b703c8804bd99912bdc8ee24c02c9b4e264a52a633476f.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "13b69104977517d551b816a595983196447ee76fb13fe9835b602ac6d7ac3a04",
+      "bytes": 60095,
+      "capturado_em": "2026-10-27T17:37:14.442705-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/5f09f1e299877e6027f6f5b0e32facbff27f7de4f9d20b0c3042c6021e05c1c3.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1567e8c3ba59f5db939b5db62f13549be3853801c9cee7f2e8532861b23b1991",
+      "bytes": 57340,
+      "capturado_em": "2026-10-27T17:40:35.433397-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/0955a21312c3596dc2aa19403894416e95f5b8a05d5811b928f225ddb2fdbb75.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e083135ed3d0e5c93ae6c5ff57f119baa511c7cce7c00a7e161cbe0e8fbb8149",
+      "bytes": 58279,
+      "capturado_em": "2026-10-27T17:43:55.306054-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/d0dc3904cb267ee58808af45f7daadc068ee32542a40e3f01ae5cb1b30d7928c.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2aff6fbabfd532efae0e0f2871cc669318d6bb55009da75c5007e7ae057024ca",
+      "bytes": 58388,
+      "capturado_em": "2026-10-27T17:47:13.182588-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/511156a26271cf7347b09d913f4fd80b7e1543b29dc6e1b9e488df8dea213ce9.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "56da0919b2459b24a357f75f12936f6ec9878c1c9251ded2552c158482c450a8",
+      "bytes": 58104,
+      "capturado_em": "2026-10-27T17:50:28.553572-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/33c8b2adf2df7cf36b58b7a7191903983917c5954bddc6054cdab64915156183.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b5fc3af1cf20a1680166d141127adcf754ffd65e7e55b2fb1c9b920a2856e7c8",
+      "bytes": 59224,
+      "capturado_em": "2026-10-27T17:53:47.258571-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/04a82301e093fcc26a8d3043dcc8a2cc818328288e47bdd3b6a3e16aebd43911.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "adb693e9deb113b6cfbd5ce5b7d7dcc86c67a384ab2a4b12c1ddc01d50ce9100",
+      "bytes": 58974,
+      "capturado_em": "2026-10-27T17:57:07.652306-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/3a2f612574b1c4cecbc860f19da93c80ce8d67865702e94ea93017324d09c610.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b8279f02a98b36d71747d24b9324dce5214d092051116368f825829b0162f803",
+      "bytes": 57496,
+      "capturado_em": "2026-10-27T18:00:27.805418-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/0fd870c12882c487361f96c1be0b7102b173a10b49c9db9a4626c9357d35de77.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5259734de1da144f461e31c2d60d4902d0c146df76c7bdd756a8a5996765273d",
+      "bytes": 57364,
+      "capturado_em": "2026-10-27T18:03:50.504121-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/efffe71f9057cf36c8892159f3570a10b8633c995bb724e37b4402edb083b4ed.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cb88fe6f9eac39257ef79c510a725fa4cc0449440b851f48dd2a6bd263def39d",
+      "bytes": 59043,
+      "capturado_em": "2026-10-27T18:07:01.316389-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/638046634407b889812b2434d3c5033aac42d7ca4de2e3d0f9382b56cdc3275b.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "796145e9d778a6464cc189f708698e20135ca94cb0b2b4c3d65ce44e9e167a96",
+      "bytes": 56884,
+      "capturado_em": "2026-10-27T18:10:21.040705-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/dae78ac986744e401fe9e8ab6d145e65ea9923aeb6d4454445fbe09bdbc6ce29.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4f34608f6fe9711ac21a0dc4c4c1ad4f61947a79bfcff6c3acbafdd8a8cf96a0",
+      "bytes": 55537,
+      "capturado_em": "2026-10-27T18:13:39.309896-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/5dc18bea29304776a6725eefc3c40906d2a048dfcbdafe5a342456d7b276296c.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f1a81418d36a3498a8a86a8c0a46b1d475ea273b2b105f7e2c7398af916fb1c8",
+      "bytes": 56441,
+      "capturado_em": "2026-10-27T18:16:53.502493-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/1677535e6cda16d96fd8cc18356d23dcc5317c87b662282cb7f77dec9acc6299.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f84db67093ea2b8b05e386409b7b4c4c2a4303d2cd09c299168691488adfb604",
+      "bytes": 54816,
+      "capturado_em": "2026-10-27T18:20:10.320533-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/106d20e42382e28f178e0be5fb4b36ec4c0a1598e7d7d7f337422c4f7f25b3a3.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "baa99f1ddf4a93211c59230fa41253f9f90381084a1d8a2535b3d9d4b5595cfc",
+      "bytes": 56051,
+      "capturado_em": "2026-10-27T18:23:25.411132-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/1333ded35fcd535915d4cca09af46f012a96afb488db0433951ba4c379382361.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8f396b06a47995ee416e5becccef832f4648e9ff03d008ddc48f131dbf0e78e6",
+      "bytes": 56616,
+      "capturado_em": "2026-10-27T18:27:01.922331-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/2e02e28a7428f292c15e06b5007942a5915251ba38d4c766ac8ca39b8fa14b63.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b9996fcc02938e94af62937360973eb80432130eacc11adc6a45bb9c142cc6ca",
+      "bytes": 58062,
+      "capturado_em": "2026-10-27T18:30:15.142236-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/01e48b9036d6d21327ad2ec5390fd37a8e1f20e30cbed05f699cdb6d7c1f55cd.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bbec2450c1bf13f247db361b3fbebf06ac22c2635568fd66479bfe6ed2eb1667",
+      "bytes": 55387,
+      "capturado_em": "2026-10-27T18:33:24.895054-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/8edc37b106bdad499132ce80833bbeaa540d98eb3cbb079ddfce77ab7a342dfc.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b4cd4a46c49c5d9add2af33ff919203c3fc198d19181cc0f403e1364f5f5d159",
+      "bytes": 55781,
+      "capturado_em": "2026-10-27T18:36:37.897265-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/da8847ff2a17583227dbf869e33db802ce0b1620d40461950d118db52082685f.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "df9e0de514cdd33a9940024849c9daa49658c1fd077a225ea92d38fedab81fc1",
+      "bytes": 54949,
+      "capturado_em": "2026-10-27T18:39:55.588104-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/5afba2e21e201520033ea552bd36d98de96e38e59a3ba4e42077b000c389f10d.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "40939a6e2a28bb2233ae89b28bae0554292fad35bfd554678dad5de078e89cb9",
+      "bytes": 53068,
+      "capturado_em": "2026-10-27T18:43:16.032548-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/4d4944888b8a2784227a5a72fa2208faf1929227a0f78d3de1757006a3d22399.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8cdb4ddc7d017dc0cdd8bdb0972f70f937b0438db4c838cfb0978e272776c0a0",
+      "bytes": 54595,
+      "capturado_em": "2026-10-27T18:46:33.395484-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/3d82637a5c33ff04e2ca6b73b1161dec2b9930577928d82e111a635e9c32b667.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cd8d9badaf9028a9578fedfeb8f832255174a6f8965ec7fd6ef8c4181747865d",
+      "bytes": 56376,
+      "capturado_em": "2026-10-27T18:49:50.352715-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/b6a45202076279dcebba777c45ef88bb7d66ab87378b5f9d797b20e589a3208d.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ba460e6835cdc740112f06d3e214db6a3202870e030b3a70aa657c93affb2daa",
+      "bytes": 56479,
+      "capturado_em": "2026-10-27T18:53:03.574836-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/3c3d49decf1a30cb715e2fc6b819d8e6a0eabc77d3c76b672d72b6db5db156c5.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "39f55c2cd62a57dfa296e0573d8f4145536e9286a47fc1fc8541b310355a43ce",
+      "bytes": 56291,
+      "capturado_em": "2026-10-27T18:56:12.044292-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/908c0c2a0f46e6fec77eaa5599fb780c7ac8168210c1f33b84737b06aa51c992.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c4c1f9d8b361e45fa90f54e41b0b0462564ff226726b1f5b6bfabfa03947583b",
+      "bytes": 57035,
+      "capturado_em": "2026-10-27T18:59:25.620103-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/aebd1107747ffb48e2917bc2dc9f72adb868789e3501244ebb243f4ac1676afd.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3d90506e4e159f14708bb78973581d7f7a87a383a5de9ea1a9de61e24ac2939a",
+      "bytes": 57437,
+      "capturado_em": "2026-10-27T19:02:32.330720-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/a0ac293a587866aab8e7a69f9a5caf49a01179bb59e29f6481df538e49176ebb.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "url_final": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7e3efbcf0afe2ae6b9b8cb8e238f0b81ce00bb505ded1d2ebd0eded2e8434a65",
+      "bytes": 29968,
+      "capturado_em": "2026-10-27T19:05:46.749615-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

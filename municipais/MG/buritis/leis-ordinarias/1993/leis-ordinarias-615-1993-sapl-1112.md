@@ -1,0 +1,467 @@
+---
+titulo: "Lei nº 615, de 29 de junho de 1993"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "615"
+data: "1993-06-29"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2007-10-10; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1112"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1425/text"
+sha256_fonte: "9d5d234f8e5a3bd980eaead9ccb38c36cba4100e24e0f48b0b73f9ad716ff916"
+sha256_texto: "2064e86cda590b08b2d2ded39861e7ab2d5bc4024d5f22b286fe3d054e84a278"
+capturado_em_fonte: "2026-10-27T20:31:02.544163-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 615, de 29 de junho de 1993
+
+Dispõe sobre a Política Municipal dos Direitos da Criança e do Adolescente.
+
+
+O povo, por seus representantes aprova e eu, Prefeito Municipal, em seu nome, sanciono a seguinte Lei:
+
+
+### TÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a Política Municipal dos Direitos da Criança e do Adolescente e as normas gerais para a sua adequada aplicação.
+
+
+Art. 2º.
+
+O atendimento dos direitos da criança e do adolescente no Município de Buritis, Estado de Minas Gerais, será feito através das políticas sociais básicas de Educação, Saúde, Recreação, Esportes, Cultura, Lazer, profissionalização e outras, assegurando-se em todos elas o tratamento com dignidade e respeito à liberdade e à convivência familiar e comunitária.
+
+
+Art. 3º.
+
+Aos que dela necessitarem será prestada a assistência social com caráter supletivo.
+
+
+Parágrafo único
+
+É vedada a criação de programas de caráter compensatório da ausência ou insuficiência das políticas sociais básicas no Município sem a prévia manifestação do Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+Art. 4º.
+
+Fica criado no Município o serviço Especial de prevenção e atendimento médico, odontológico e psicossocial as gestantes, crianças e adolescentes.
+
+
+Art. 5º.
+
+O Município propiciará a proteção jurídico social aos que dela necessitarem.
+
+
+Art. 6º.
+
+Caberá ao Conselho Municipal dos Direitos da Criança e do Adolescente expedir normas para a organização e o funcionamento do serviço criado nos termos do art. 4º, bem como para a criação do serviço a que se refere o artigo 5º.
+
+
+Parágrafo único
+
+Poderá o Conselho Municipal dos Direitos da Criança e do Adolescente, quando se fizer necessário, criar, expedindo normas para a organização e funcionamento, o serviço de identificação, localização de pais, responsáveis, crianças e adolescentes desaparecidos.
+
+
+### TÍTULO II — DA POLÍTICA DE ATENDIMENTO
+
+
+#### CAPÍTULO I
+
+Das Disposições Preliminares.
+
+
+Art. 7º.
+
+A Política de Atendimento dos Direitos da Criança e do Adolescente será garantida através dos seguintes órgãos:
+
+
+I –
+
+Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+
+II –
+
+Fundo Municipal da Criança e do Adolescente;
+
+
+III –
+
+Conselho Tutelar.
+
+
+#### CAPÍTULO II
+
+Do Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+##### Seção I
+
+Da criação e Natureza do Conselho.
+
+
+Art. 8º.
+
+Fica criado o Conselho Municipal dos Direitos da Criança e do Adolescente, como órgão deliberativo e controlador das ações em todos os níveis.
+
+
+##### Seção II — Da Competência do Conselho
+
+
+Art. 9º.
+
+Compete ao Conselho Municipal da Criança e do Adolescente:
+
+
+I –
+
+Formular a política Municipal dos Direitos da Criança e do Adolescente, fixando prioridades para a consecução das ações, a captação e aplicação dos recursos;
+
+
+II –
+
+Zelar pela execução dessa política, atendidas as peculiaridades das crianças e dos adolescentes, de suas famílias, de seus grupos de vizinhança e dos bairros ou da zona urbana ou rural em que se localizem;
+
+
+III –
+
+Formular as prioridades a serem incluídas no planejamento do Município, em tudo que se refira ou possa afetar as condições de vida das crianças e dos adolescentes;
+
+
+IV –
+
+Estabelecer critérios, formas e meios de fiscalização de tudo quanto se execute no Município que possa afetar as suas deliberações;
+
+
+V –
+
+Registrar as entidades não governamentais de atendimento aos direitos da criança e do adolescente que mantenham programas de:
+
+
+a)
+
+Orientação e apoio sócio familiar;
+
+
+b)
+
+Apoio socioeducativo em meio aberto;
+
+
+c)
+
+Colocação sócio familiar;
+
+
+d)
+
+Abrigo;
+
+
+e)
+
+Liberdade assistida;
+
+
+f)
+
+Semiliberdade;
+
+
+g)
+
+Internação; Fazendo cumprir as normas previstas no Estatuto da Criança e do Adolescente (Lei Federal nº 8069);
+
+
+VI –
+
+Registrar os programas a que se refere o inciso anterior das entidades governamentais que operam no Município, fazendo cumprir as normas constantes do mesmo estatuto;
+
+
+VII –
+
+Regulamentar, organizar, coordenar, bem como adotar todas as providências que julgar cabíveis para a eleição e a posse dos membros do Conselho Tutelar do Município;
+
+
+VIII –
+
+Dar posse aos membros do Conselho Tutelar, conceder licença aos membros do Conselho Tutelar, nos termos do respectivo regulamento e declarar vago o posto por perda de mandato, nas hipóteses previstas nesta lei.
+
+
+##### Seção III — Dos Membros do Conselho
+
+
+Art. 10.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente é composto de 08 (oito) membros, sendo:
+
+
+I –
+
+01 (um) representante da Secretaria da Educação;
+
+
+II –
+
+01 (um) representante da Secretaria da Saúde;
+
+
+III –
+
+01 (um) representante da Secretaria da Ação Social;
+
+
+IV –
+
+01 (um) representante da Secretaria de Administração e Planejamento;
+
+
+V –
+
+04 (quatro) representantes de entidades não governamentais de defesa ou atendimento aos direitos da Criança e do Adolescente.
+
+
+§ 1º
+
+Os Conselheiros representantes das Secretarias serão indicados pelo Prefeito, dentre pessoas com poderes de decisão no âmbito da respectiva secretaria, no prazo de 10 (dez) dias contados da solicitação para nomeação e posse pelo conselho.
+
+
+§ 2º
+
+Os representantes de organizações da sociedade civil serão eleitos pelo voto das entidades de defesa e de atendimento dos direitos da Criança e do Adolescente com sede no Município, reunidas em assembleia convocada pelo Prefeito, mediante edital publicado na imprensa, no prazo estabelecido no parágrafo anterior, para nomeação e posse pelo conselho.
+
+
+§ 3º
+
+A designação dos membros do conselho compreenderá a dos respectivos suplentes.
+
+
+§ 4º
+
+Os membros do conselho e os respectivos suplentes exercerão mandato de 02 (dois) anos, admitindo-se a renovação apenas por uma vez e por igual período.
+
+
+§ 5º
+
+A função de membro do conselho é considerada de interesse público relevante e não será remunerada
+
+
+§ 6º
+
+A nomeação e posse do primeiro conselho far-se-á pelo Prefeito Municipal, obedecida a origem das indicações.
+
+
+#### CAPÍTULO III
+
+DO FUNDO MUNICIPAL DA CRIANÇA E DO ADOLESCENTE.
+
+
+##### Seção I — Da criação e natureza do fundo
+
+
+Art. 11.
+
+Fica criado o Fundo Municipal da Criança e do Adolescente, como captador e aplicador de recursos a serem utilizados segundo as deliberações do Conselho dos Direitos, ao qual é órgão vinculado.
+
+
+##### Seção II — Da Competência do Fundo
+
+
+Art. 12.
+
+Compete ao Fundo Municipal:
+
+
+I –
+
+Registrar os recursos orçamentários próprios do Município ou a ele transferidos em benefício das crianças e dos adolescentes pelo Estado ou pela União;
+
+
+II –
+
+Registrar os recursos orçamentários captados pelo Município através de convênio, ou por doações ao Fundo;
+
+
+III –
+
+Manter o controle escritural das aplicações financeiras levadas a efeito no Município, nos termos das resoluções do Conselho Municipal dos Direitos;
+
+
+IV –
+
+Liberar os recursos a serem aplicados em benefício de crianças e adolescentes, nos termos das resoluções do Conselho Municipal dos Direitos;
+
+
+V –
+
+Administrar os recursos específicos para os programas de atendimento dos direitos da Criança e do Adolescente, segundo as resoluções do Conselho Municipal dos Direitos.
+
+
+Art. 13.
+
+O Fundo será regulamentado por resolução expedida pelo Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+#### CAPÍTULO IV
+
+Do Conselho Tutelar.
+
+
+##### Seção I — Da criação e natureza do Conselho
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 42. - Lei nº 1.081, de 10 de outubro de 2007.
+
+
+##### Seção II
+
+Dos membros e da competência do Conselho.
+
+
+Art. 15.
+
+O Conselho Tutelar será composto de 05 (cinco) membros com mandato de 03 (três) anos, permitido uma reeleição.
+
+
+Art. 16.
+
+Para cada Conselheiro haverá 02 (dois) suplentes.
+
+
+Art. 17.
+
+Compete ao Conselho Tutelar zelar pelo atendimento dos Direitos de Crianças e Adolescentes, cumprindo as atribuições previstas no Estatuto da Criança e do Adolescente.
+
+
+##### Seção III
+
+Da escolha dos Conselheiros.
+
+
+Art. 18.
+
+São requisitos para candidatar-se e exercer as funções de membro do Conselho Tutelar:
+
+
+I –
+
+Reconhecida idoneidade;
+
+
+II –
+
+Idade superior a 21 anos;
+
+
+III –
+
+Residir no Município;
+
+
+IV –
+
+Diploma de nível de II grau;
+
+
+V –
+
+Reconhecida experiência de, no mínimo 02 (dois) anos no trato com crianças ou adolescentes
+
+
+Art. 19.
+
+Os Conselheiros serão eleitos pelo voto facultativo dos cidadãos do Município, em eleições regulamentadas pelo Conselho Municipal dos Direitos e coordenadas por comissão especialmente designada pelo4 mesmo Conselho.
+
+
+Parágrafo único
+
+Caberá ao Conselho Municipal dos Direitos prever a composição de chapas, sua forma de registro, forma e prazo para impugnações, registro de candidaturas, processo eleitoral, proclamação dos eleitos e posse dos conselheiros.
+
+
+Art. 20.
+
+O processo eleitoral de escolha dos membros do Conselho Tutelar será presidido por Juiz Eleitoral e fiscalizado por membro do Ministério Público.
+
+
+##### Seção IV
+
+Do exercício da função e da remuneração dos conselheiros.
+
+
+Art. 21.
+
+O exercício efetivo da função de Conselheiro constituirá serviço relevante, estabelecerá presunção de idoneidade moral e assegurará prisão especial em caso de crime comum, até julgamento definitivo.
+
+
+Art. 22.
+
+Na qualidade de membros eleitos por mandato, os conselheiros não serão funcionários dos quadros da Administração Municipal, mas terão remuneração fixada pelo Conselho Municipal dos Direitos tomando por base os níveis do funcionalismo público de nível de curso médio.
+
+
+##### Seção V
+
+Da perda do mandato e dos impedimentos dos conselheiros.
+
+
+Art. 23.
+
+Perderá o mandato o Conselheiro que for condenado por sentença irrecorrível pela prática de crime ou contravenção.
+
+
+Parágrafo único
+
+Verificada a hipótese prevista neste artigo, o Conselho dos Direitos declarará vago o posto de Conselheiro, dando posse imediata ao primeiro suplente.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 42. - Lei nº 1.081, de 10 de outubro de 2007.
+
+
+Parágrafo único
+
+Estende-se o impedimento do conselheiro, na forma deste artigo, em relação à autoridade judiciária e ao representante do Ministério Público com atuação na Justiça da Infância e da Juventude, com exercício na Comarca, foro regional ou distrito local.
+
+
+### TÍTULO III
+
+Das Disposições Finais e Transitórias.
+
+
+Art. 25.
+
+No prazo máximo de 15 (quinze) dias da publicação desta Lei, por convocação do chefe do Poder Executivo Municipal, os órgãos e organizações a que se refere o Artigo 10 se reunirão para elaborar o Regimento Interno do Conselho Municipal dos Direitos da Criança e do Adolescente, ocasião em que elegerão seu primeiro presidente.
+
+
+Art. 26.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 27.
+
+Esta Lei, entrará em vigor na data de sua publicação.
+
+
+Buritis-MG, 29 de junho de 1993.
+
+**Pedro Jary Laborda**
+
+**Prefeito Municipal**
+
+Projeto de Lei, nº 23/93 de 31/05/93. Aprovado em primeira discussão por 10 votos a favor e nenhum voto contra. Sala das Sessões, 21/06/93. Aprovado em 2ª discussão por 09 votos a favor e nenhum contra. Sala das Sessões, 28/06/93.
+

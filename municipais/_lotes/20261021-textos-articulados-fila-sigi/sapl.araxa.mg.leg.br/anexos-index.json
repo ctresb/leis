@@ -1,0 +1,58 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/emenda_lei_organica_n_25.doc da norma Lei Orgânica nº 1, de 21 de março de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araxa.mg.leg.br/media/sapl/public/anexonormajuridica/1990/1/emenda_lei_organica_n_25.doc",
+      "ano": 1990,
+      "norma": 3
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_no_7293.doc da norma Lei nº 7.293, de 22 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araxa.mg.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_no_7293.doc",
+      "ano": 2018,
+      "norma": 8131
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/lei_no_7294.doc da norma Lei nº 7.294, de 22 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araxa.mg.leg.br/media/sapl/public/anexonormajuridica/2018/3/lei_no_7294.doc",
+      "ano": 2018,
+      "norma": 8132
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/lei_no_7279.doc da norma Lei nº 7.279, de 20 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.araxa.mg.leg.br/media/sapl/public/anexonormajuridica/2018/4/lei_no_7279.doc",
+      "ano": 2018,
+      "norma": 8116
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araxa.mg.leg.br/88200f6be3cb09fa3b3a98d73db34fca9680d5854fda629faa710a115990f6d8.json",
+      "url": "https://sapl.araxa.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.araxa.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d556ae332cecaea999c046d9e88ed3d82dd8738ac4a433e9b6e355f1f6e99ec9",
+      "bytes": 1611,
+      "capturado_em": "2026-10-27T16:58:00.188396-03:00"
+    }
+  ]
+}

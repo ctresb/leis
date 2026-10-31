@@ -1,0 +1,97 @@
+---
+titulo: "Lei Ordinária nº 3.530, de 15 de junho de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3530"
+data: "2020-06-15"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2665"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2569/text"
+sha256_fonte: "c755c2d25be82dc4c5b956e3aa9af608655f851b54278c53276da98200abbb76"
+sha256_texto: "b82e229617c0d9116692716d1863974a0e6bd8665c04860eeba572c1f419eb11"
+capturado_em_fonte: "2026-10-27T21:33:57.844457-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.530, de 15 de junho de 2020
+
+Dispõe sobre a instituição do Programa Justiceiras, força-tarefa formada por equipe técnica, que deverá ser viabilizada pelo poder executivo municipal, com o intuito de ampliar a rede de apoio e orientação às mulheres vítimas de violência doméstica, disponibilizando atendimento via Whatsapp.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Dispõe sobre a criação do Programa Justiceiras, política pública a ser executada no âmbito do poder executivo municipal, pela Secretaria Executiva da Mulher desta cidade;
+
+
+Parágrafo único
+
+O Programa Justiceiras consiste em uma força-tarefa formada por profissionais técnicas, que disponibilizarão atendimento via Whatsapp às mulheres em situação de violência doméstica e familiar, conferindo a estas maior proteção, apoio, orientação jurídica e psicossocial.
+
+
+Art. 2º.
+
+A força-tarefa prevista no parágrafo único do Art. 1º será composta por Psicólogas, Assistentes Sociais e Advogadas, a fim de que seja ofertado atendimento multiprofissional completo às mulheres que se encontrem em situação de violência doméstica e familiar.
+
+
+Art. 3º.
+
+A gestão do programa será exercida de forma integrada pelo município do Cabo de Santo Agostinho, através da Secretaria Executiva da Mulher que contará com o apoio da Secretaria Municipal de Programas Sociais e da Secretaria Municipal de Defesa Civil.
+
+
+§ 1º
+
+A rede municipal deverá realizar um trabalho conjunto no sentido de efetivar os encaminhamentos necessários a dirimir situações fáticas que agravem o risco pessoal da mulher em situação de violência doméstica;
+
+
+§ 2º
+
+Se constatada a voluntariedade no sentido de denunciar o agressor, a guarda municipal deste município deverá ser acionada para que tomem as providências cabíveis.
+
+
+Art. 4º.
+
+O Programa Justiceiras admitirá ainda a criação de quadro de voluntariado, formado por psicólogas, assistentes sociais e advogadas que desejem contribuir com a política pública acima instituída, o que deverá ser formalizado através de um Termo de Voluntariado subscrito pela profissional interessada e a Secretaria Executiva da Mulher.
+
+
+Art. 5º.
+
+O programa será anualmente elaborado por Psicólogas, Advogadas Assistentes Sociais, Membros da Secretaria Executiva da Mulher, Membros do Ministério Público e Membros do Poder Judiciário, que deverão ser convidados para tanto.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará esta lei, no prazo de 10 (dez) dias, contados de sua publicação.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação oficial.
+
+
+**Palácio Conde da Boa Vista, em 15 de junho de 2020.**
+
+***LUIZ CABRAL DE OLIVEIRA FILHO***
+
+Prefeito
+
+Chancela:
+
+***OSVIR GUIMARÃES THOMAZ***
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ)
+
+“Lei Decorrente do Projeto de Lei à Sanção Nº 068/2020 de Autoria do Vereador **Edna Gomes da Silva, Partido Prp**”.
+
+**Publicado por:**  
+Maria Amélia Lemos do Monte Câmara  
+**Código Identificador:**FDB9BCFD
+

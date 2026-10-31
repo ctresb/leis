@@ -1,0 +1,734 @@
+CONSIDERANDO, o disposto na Lei Complementar nº 123/2006 que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte; CONSIDERANDO, o disposto na Lei Federal nº 11.598/2007 que estabelece diretrizes e procedimentos para a simplificação e integração do processo de registro e legalização de empresários e de pessoas jurídicas, cria a Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios – REDESIM; CONSIDERANDO, o Decreto Estadual n.º 44.803/2014 que regulamenta o processo de legalização de empresários e sociedades empresariais em função do risco da atividade econômica; CONSIDERANDO, a Lei Federal 13.874/2019 que institui a Declaração de Direitos de Liberdade Econômica, e estabelece normas de proteção à livre iniciativa e a livre exercício da atividade econômica e as disposições sobre a atuação do Estado como agente normativo e regulador; CONSIDERANDO, o Decreto Federal nº 10.178/2019, alterado pelo Decreto nº 10.219/2020, que regulamenta dispositivos da Lei nº 13.874, de 20 de setembro de 2019, que dispõe sobre os critérios e os procedimentos para a classificação de risco de atividade econômica e dá outras providências; CONSIDERANDO, o Decreto Estadual nº 46.890 de 23 de dezembro de 2019, o qual dispõe sobre o Sistema Estadual de Licenciamento e demais Procedimentos de Controle Ambiental - SELCA, e dá outras providências; CONSIDERANDO, a Nota Técnica do Corpo de Bombeiros do Estado do Rio de Janeiro (CBMERJ), NT 01-07 de 26 de maio de 2020 que trata das atividades econômicas de baixo risco; CONSIDERANDO, a Lei nº 8.953, de 30 de julho de 2020 que regulamenta, em âmbito estadual, o art. 3o, § 1º, III, da Lei Federal nº 13.874, de 20 de setembro de 2019 - Lei da Liberdade Econômica, para classificar atividades de baixo risco; CONSIDERANDO, a Resolução do Comitê para Gestão da Rede Nacional para a simplificação do Registro e da Legalização de Empresas e Negócios - CGSIM nº 51 de 11 de junho de 2019 alterada pela resolução nº 57, de 21 de maio de 2020, que versa sobre a definição de baixo risco para os fins da Lei nº 13.874, de 20 de setembro de 2019; CONSIDERANDO, a Resolução CGSIM nº 58 que dispõe sobre a classificação de risco das atividades econômicas para fins de prevenção contra incêndio, pânico e emergências e as diretrizes gerais para o licenciamento pelos Corpos de Bombeiros Militares dos Estados e do Distrito Federal.
+
+
+CONSIDERANDO, a Resolução CGSIM nº 59, de 12 de agosto de 2020, que altera as Resoluções CGSIM nº 22, de 22 de junho de 2010; nº 48, de 11 de outubro de 2018; e nº 51, de 11 de junho de 2019, que dispõe sobre a dispensa de atos públicos de liberação para as atividades exercidas pelo Microempreendedor Individual - MEI; CONSIDERANDO, a Resolução CGSIM nº 60, de 12 de agosto de 2020, que dispõe sobre as diretrizes a serem observadas pelos Subcomitês estaduais do Comitê para Gestão da Rede Nacional para Simplificação do Registro e da Legalização de Empresas e Negócios - CGSIM nos Estados e no Distrito Federal; CONSIDERANDO, a Resolução CGSIM nº 61, de 12 de agosto de 2020, que dispõe sobre medidas de simplificação e prevê o modelo operacional de registro e legalização de empresários e CONSIDERANDO, a Resolução do COMITÊ GESTOR DE INTEGRAÇÃO DO REGISTRO EMPRESARIAL - COGIRE nº 07 de 05 de abril de 2023, que dispõe sobre a facilitação de abertura de empresas e dá nova redação à Resolução CORIGE nº 05, de 27 de outubro de 2020.
+
+
+CONSIDERANDO, a Lei nº 1618 de 18 de novembro de 2022, Lei Geral dos Pequenos Negócios do Município de Engenheiro Paulo de Frontin; e por fim, CONSIDERANDO, a integração dos processos, procedimentos e dados aos demais órgãos e entidades que compõem a Redesim, DECRETA:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Este decreto regulamenta, em âmbito municipal, a concessão e dispensa de atos públicos de liberação, e o art. 3º, § 1º, III, da Lei Federal nº 13.874 de 20 de setembro de 2019 – Lei da Liberdade Econômica.
+
+
+Parágrafo único
+
+O processo de legalização de empresários e sociedades empresariais (concessão ou dispensa de Alvará e Licença de Funcionamento), se dará em função do risco da atividade econômica.
+
+
+Art. 2º.
+
+O licenciamento dos estabelecimentos no município terá como fundamentos e diretrizes:
+
+
+I –
+
+o tratamento diferenciado e favorecido concedido às Microempresas, Empresas de Pequeno Porte e aos Microempreendedores Individuais, previsto na Constituição Federal e Lei Complementar Federal 123/2006;
+
+
+II –
+
+a liberdade como uma garantia no exercício de atividades econômicas;
+
+
+III –
+
+a boa-fé do particular perante o poder público;
+
+
+IV –
+
+a criação de meios, a simplificação de exigências e o aperfeiçoamento de procedimentos destinados a simplificar o registro de empresa;
+
+
+V –
+
+a racionalização do processamento de informações;
+
+
+VI –
+
+a execução e registro de procedimentos administrativos em ambiente virtual;
+
+
+VII –
+
+o compartilhamento de dados e informações entre órgãos do Município, assim como entre estes e os órgãos de outros entes da Federação;
+
+
+VIII –
+
+a não duplicidade de comprovações; e
+
+
+IX –
+
+a observância da legislação municipal, estadual e federal referente a disciplina urbanística, proteção ambiental, controle sanitário, prevenção contra incêndios e segurança em geral.
+
+
+#### CAPÍTULO II — DA APROVAÇÃO DA PESQUISA PRÉVIA DE
+
+
+VIABILIDADE LOCACIONAL
+
+
+Art. 3º.
+
+A pesquisa prévia de viabilidade locacional poderá ser dispensada do processo de registro e legalização de empresários e pessoas jurídicas nos casos em que:
+
+
+I –
+
+a atividade exercida seja realizada exclusivamente de forma digital;
+
+
+II –
+
+não for possível responder pelo Integrador Estadual de forma automática, imediata, instantânea e sem análise humana; e
+
+
+III –
+
+a coleta dos dados necessários para resposta não for realizada no sistema disponibilizado pelo Integrador Estadual.
+
+
+Art. 4º.
+
+Enquanto o município não implementar a consulta prévia de viabilidade locacional (uso e ocupação do solo) de forma automática, a mesma deverá ser respondida via Sistema de Registro Integrador– Regin no prazo de até 24h (vinte e quatro horas).
+
+
+Parágrafo único
+
+A resposta da consulta de viabilidade locacional deve vir acompanhada de orientações relacionadas à operação futura do estabelecimento.
+
+
+Art. 5º.
+
+No caso de indeferimento da pesquisa prévia de viabilidade locacional, caberá a interposição de recursos ao Secretário Municipal de fazenda no prazo de 15 dias a contar da data do indeferimento.
+
+
+§ 1º
+
+Deverá o município informar os requisitos, as condicionantes, os respectivos motivos do indeferimento da pesquisa prévia de viabilidade locacional e sua base legal.
+
+
+§ 2º
+
+A pesquisa prévia de viabilidade locacional poderá ser indeferida quando:
+
+
+a)
+
+no endereço informado não for possível a legalização de empresas conforme determinado no Plano Diretor Municipal;
+
+
+b)
+
+no endereço informado não for possível a legalização de empresas por se tratar de uma área de preservação ambiental, conforme previsto em lei;
+
+
+c)
+
+no endereço informado não for possível a legalização de empresas por se tratar de uma área risco, interditada pelo órgão municipal competente;
+
+
+d)
+
+no endereço informado não for possível a legalização de empresas por se tratar de área de uso exclusivamente residencial.
+
+
+§ 3º
+
+Os recursos poderão ser protocolados em processo administrativo físico, sempre que indisponível ou insuficiente o meio digital para o exercício do direito.
+
+
+#### CAPÍTULO III — DA CLASSIFICAÇÃO DE RISCO DAS
+
+
+ATIVIDADES
+
+
+Art. 6º.
+
+A classificação das atividades atenderá aos critérios de codificação adotados pela Classificação Nacional de Atividades Econômicas – CNAE.
+
+
+Art. 7º.
+
+O grau de risco atribuído a cada CNAE respeitará, dentre outros, o disposto na Resolução publicada pelo Comitê Gestor de Integração do Registro Empresarial - COGIRE Nº 07/2023, que define a Classificação de Risco para fins de Legalização de Empresários e Sociedades Empresariais e suas posteriores alterações.
+
+
+Art. 8º.
+
+As atividades econômicas relacionadas na Resolução COGIRE Nº 07/2023, são classificadas da seguinte forma:
+
+
+I –
+
+Nível de risco I - Atividades de Baixo Risco, para os casos de risco leve, irrelevante ou inexistente;
+
+
+II –
+
+Nível de risco II - Atividades de Médio Risco, para os casos de risco moderado;
+
+
+III –
+
+Nível de risco III - Atividades de Alto Risco, para os casos de risco alto;
+
+
+Parágrafo único
+
+As listagens das atividades de baixo risco, médio risco e alto risco, estão elencadas nos anexos I, II e III respectivamente da Resolução COGIRE Nº 07/2023.
+
+
+Art. 9º.
+
+As atividades econômicas de baixo risco, risco leve, irrelevante ou inexistente, estão dispensadas de qualquer ato público de liberação, sejam estes o alvará, a licença, a autorização, a permissão, a concessão, a inscrição, o cadastro, o registro e demais atos exigidos para plena e contínua operação do estabelecimento.
+
+
+§ 1º
+
+São considerados atos públicos de liberação qualquer tipo de ato da administração pública exigido como condição prévia para o exercício de atividade econômica.
+
+
+§ 2º
+
+Para fins de segurança sanitária e ambiental, qualificam-se como nível de risco I - baixo risco, risco leve, irrelevante ou inexistente as atividades constantes do Anexo Ida Resolução COGIRE Nº 07/2023.
+
+
+§ 3º
+
+Para fins de prevenção de incêndios, as informações prestadas durante a constituição da empresa serão utilizadas pelo Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBMERJ) para a devida classificação de risco da atividade, podendo ter como resultado o enquadramento como baixo risco (dispensa de documento), médio risco (procedimento simplificado) ou alto risco (processo de segurança contra incêndio e pânico), observados os requisitos estabelecidos nas Notas Técnicas do CBMERJ NT 1-01 - Procedimentos administrativos para regularização e fiscalização - Parte 1 Regularização, NT 1-07 - Atividades econômicas de baixo risco e em suas eventuais atualizações.
+
+
+Art. 10.
+
+As atividades econômicas de médio risco ou risco moderado, terão alvará automatizado emitido após o registro por meio do Sistema de Registro Integrador - REGIN, condicionada ao aceite de autodeclaração de responsabilidade do empresário.
+
+
+Parágrafo único
+
+As atividades de médio risco ou risco moderado, deverão ter licenças e/ou documentos similares emitidos logo após o registro da empresa (alvará automatizado) e vistoria realizada somente após o início da operação das atividades.
+
+
+Art. 11.
+
+As atividades econômicas de Alto Risco terão alvará eletrônico emitido após vistoria prévia e o cumprimento das exigências impostas pelos órgãos fiscalizadores.
+
+
+#### CAPÍTULO IV — DA DISPENSA DE ATOS PÚBLICOS DE
+
+
+LIBERAÇÃO E DO ALVARÁ DE LICENÇA PARA
+
+
+LOCALIZAÇÃO E FUNCIONAMENTO
+
+
+Art. 12.
+
+A concessão ou dispensa de Alvará e Licença de Funcionamento para atividades econômicas empresariais, dar-se-á de acordo com a classificação de risco, da seguinte forma:
+
+
+I –
+
+As atividades econômicas classificadas pelo Comitê Gestor de Integração do Registro Empresarial - COGIRE como de baixo risco, serão dispensadas de Alvará e Licença de Funcionamento;
+
+
+II –
+
+As atividades econômicas classificadas pelo Comitê Gestor de Integração do Registro Empresarial - COGIRE como de médio risco terão Alvará Eletrônico Automatizado emitido, por meio do Sistema de Registro Integrador – REGIN, após o aceite da autodeclaração constante na pesquisa prévia de viabilidade locacional, sendo de responsabilidade do empreendedor o cumprimento das regras de licenciamento relativa à atividade a ser desenvolvida; e
+
+
+III –
+
+As atividades econômicas classificadas pelo Comitê Gestor de Integração do Registro Empresarial - COGIRE como de Alto Risco, terão o Alvará Eletrônico emitido após o cumprimento, por parte do interessado, de todas as exigências prévias dos órgãos fiscalizadores.
+
+
+§ 1º
+
+A Licença Sanitária também será emitida por meio do Sistema de Registro Integrador – Regin, para as atividades que comporte tal obrigatoriedade, e obedecendo o trâmite simplificado para as atividades classificadas como médio risco, conforme previsto no artigo 17, inciso IV.
+
+
+§ 2º
+
+Para fins de identificar as atividades consideradas inexigíveis de licenciamento ambiental o município adotará o rol de atividades definidas na Resolução INEA n° 264, publicada em 11 de outubro de 2022, e suas posteriores atualizações;
+
+
+§ 3º
+
+As empresas cujas atividades estejam enquadradas como inexigíveis de licenciamento ambiental na forma do parágrafo anterior, receberão via sistema integrador Regin Declaração de Inexigibilidade de Licenciamento Ambiental.
+
+
+§ 4º
+
+Atividades elencadas nesta resolução como Médio Risco ou Alto Risco poderão ser reclassificadas para o menor risco via Sistema Integrador – Regin, ou seja, de médio para baixo risco e de alto para médio risco.
+
+
+§ 5º
+
+A reclassificação prevista no parágrafo anterior, será realizada, sempre que possível, no momento da análise do Alvará após verificação das informações prestadas pelo empreendedor ou seu representante legal.
+
+
+Art. 13.
+
+A dispensa de atos públicos de liberação de instalação e funcionamento, bem como a liberação de alvará automatizado e licenças mediante o aceite de autodeclaração, não exime os responsáveis legais do cumprimento dos requisitos de segurança sanitária, controle ambiental e prevenção contra incêndios, quando for o caso, sob pena de aplicação das sanções cabíveis.
+
+
+Parágrafo único
+
+A autodeclaração de responsabilidade do empresário deverá ser assinada preferencialmente de forma digital através do Sistema de Registro Integrador - REGIN.
+
+
+Art. 14.
+
+As atividades dispensadas de Alvará e Licença de Funcionamento estão sujeitas a fiscalização dos órgãos municipais e a aplicação das sanções cabíveis pelo não cumprimento dos requisitos legais.
+
+
+Art. 15.
+
+O Alvará Automatizado poderá ser cassado pelo órgão competente a qualquer tempo quando verificado o não cumprimento dos requisitos legais.
+
+
+Art. 16.
+
+Tratando-se de atividades de médio risco, o município deverá:
+
+
+I –
+
+dispensar as vistorias prévias;
+
+
+II –
+
+simplificar e informatizar os processos de concessão de licenças ou autorizações para funcionamento;
+
+
+III –
+
+integrar os procedimentos de forma a garantir a unicidade dos processos, sob o ponto de vista do usuário; e
+
+
+IV –
+
+observar a legislação aplicável à atividade considerada de médio risco, com o objetivo de conceder licença, inscrição e/ou autorização, imediatamente após o ato de registro.
+
+
+Art. 17.
+
+Tratando-se de atividade econômica de alto risco, o município poderá:
+
+
+I –
+
+exigir vistorias prévias para verificar o cumprimento dos requisitos legais;
+
+
+II –
+
+estabelecer processos específicos de licenciamento, autorização ou inscrição.
+
+
+Art. 18.
+
+Os estabelecimentos com sede neste município poderão desenvolver atividade econômica em qualquer horário ou dia na semana, inclusive feriados, sem que para isso esteja sujeita a cobranças ou encargos adicionais, desde que, sejam observadas:
+
+
+I –
+
+as normas de proteção ao meio ambiente, incluídas as de repressão à poluição sonora e à perturbação do sossego público;
+
+
+II –
+
+as restrições advindas de contrato, de regulamento condominial ou de outro negócio jurídico, bem como decorrentes das normas de direito real, incluídas as de direito de vizinhança; e
+
+
+III –
+
+legislação trabalhista.
+
+
+Art. 19.
+
+O município não exigirá dos empresários ou pessoas jurídicas números de inscrição, além do CNPJ, considerando o Cadastro Nacional de Pessoa Jurídica como número cadastral de identificação única.
+
+
+Parágrafo único
+
+Para fins cadastros, registros, inscrição municipal e/ou cadastro tributário o município utilizará CNPJ (Cadastro Nacional Pessoa Jurídica), como número cadastral único.
+
+
+#### CAPÍTULO V — DO MICROEMPREENDEDOR INDIVIDUAL
+
+
+Art. 20.
+
+Os Microempreendedores Individuais – MEIs estarão dispensados de atos públicos de liberação para o pleno exercício de suas atividades.
+
+
+Parágrafo único
+
+As atividades econômicas exercidas pelos Microempreendedores Individuais - MEI, previstas no Anexo XI, da Resolução do Comitê Gestor do Simples Nacional-CGSN nº 140, de 22 de maio de 2018, são consideradas como atividades de baixo risco, risco leve, irrelevante ou inexistente e como tal, dispensadas de alvará, de licença, de autorização, de permissão, de concessão, de inscrição, de cadastro, de registro e demais atos exigidos, conforme disposto no parágrafo 1º do artigo 15 e artigo 16 da Resolução CGSIM nº 48, de 11 de outubro de 2018, atualizados pela Resolução CGSIM nº 59, de 12 de agosto de 2020.
+
+
+Art. 21.
+
+O CCMEI (Certificado de Condição de Microempreendedor Individual), será o documento hábil de registro para comprovar o direito do MEI as dispensas de Alvarás e Licenças de Funcionamento.
+
+
+Art. 22.
+
+No momento do registro no domínio do Portal do Empreendedor, o MEI manifestará sua concordância com o conteúdo do Termo de Ciência e Responsabilidade com Efeito de Dispensa de Alvará e Licença de Funcionamento.
+
+
+§ 1º
+
+O Termo de Ciência e Responsabilidade com Efeito de Dispensa de Alvará e Licença de Funcionamento, será emitido eletronicamente logo após o registro do MEI, permitindo o exercício imediato de suas atividades.
+
+
+§ 2º
+
+O MEI já cadastrado também terá direito a dispensa de Alvará e Licença de Funcionamento, para tal, deverá fazer uma alteração cadastral no Portal do Empreendedor, manifestando-se sua concordância com o conteúdo do Termo de Ciência e Responsabilidade com Efeito de Dispensa de Alvará e Licença de Funcionamento e emitir um novo CCMEI - Certificado de Condição do Microempreendedor Individual.
+
+
+Art. 23.
+
+O Termo de Ciência e Responsabilidade com Efeito de Dispensa de Alvará e Licença de Funcionamento, assinado eletronicamente pelo MEI no Portal do Empreendedor, conterá declaração eletrônica, sob as penas da lei, quanto:
+
+
+I –
+
+Ao conhecimento e atendimento dos requisitos legais exigidos pelo Estado e pelo Município para a dispensa de Alvará e Licença de Funcionamento, considerando os aspectos sanitários, ambientais, tributários, de segurança pública, uso e ocupação do solo, atividades domiciliares e restrições ao uso de espaços públicos;
+
+
+II –
+
+À autorização de inspeção e fiscalização no local de exercício das atividades, ainda que em sua residência, para fins de verificação da observância dos referidos requisitos; e
+
+
+III –
+
+Ao conhecimento que o não atendimento dos requisitos legais exigidos pelo Estado e pelo Município acarretará o cancelamento da dispensa de Alvará e Licença de Funcionamento.
+
+
+Art. 24.
+
+O Município poderá se manifestar a qualquer tempo quanto à correção do endereço de exercício da atividade do MEI relativamente à sua descrição oficial, assim como quanto à possibilidade de que este exerça as atividades constantes do registro e enquadramento na condição de MEI.
+
+
+§ 1º
+
+Manifestando-se contrariamente à possibilidade de que o MEI exerça suas atividades no local indicado no registro, o Município deverá notificar o interessado, fixando-lhe prazo para a transferência da sede de suas atividades, sob pena de cancelamento do Termo de Ciência e Responsabilidade com Efeito de Dispensa de Alvará e Licença de Funcionamento.
+
+
+§ 2º
+
+O cancelamento do Termo de Ciência e Responsabilidade com Efeito de Dispensa de Alvará e Licença de Funcionamento efetuado pelo Município cancela o CCMEI definitivamente perante todos os demais órgãos envolvidos no registro do MEI.
+
+
+Art. 25.
+
+As vistorias para fins de verificação da observância dos requisitos ensejadores da dispensa de Alvará e Licença de Funcionamento deverão ser realizadas após o início da operação da atividade do MEI.
+
+
+Art. 26.
+
+Fica vedado a cobrança de taxas, emolumentos, custos, inclusive prévios e suas renovações, ou valores a qualquer título referente à abertura, à inscrição, ao registro, ao funcionamento, ao alvará, à licença, à dispensa de licença ou alvará, ao cadastro, às alterações e procedimentos de baixa e encerramento e aos demais itens relativos ao MEI.
+
+
+Art. 27.
+
+O município utilizará o número do CNPJ, como número de cadastro único, para emissão de certidão negativa de débitos, emissão de nota fiscal de serviços ou quaisquer outros serviços públicos, relacionados ao microempreendedor individual, microempresa e empresa de pequeno porte.
+
+
+#### CAPÍTULO VI — DA TAXAÇÃO
+
+
+Art. 28.
+
+O licenciamento inicial do estabelecimento e as alterações das características do alvará, ressalvadas as hipóteses indicadas no art. 30, deverão ter a Taxa de Licença para Localização e Funcionamento devidamente paga, conforme disposto no Código Tributário do Município.
+
+
+§ 1º
+
+Caso a empresa faça alguma alteração contratual após a dispensa de Alvará e Licença de Funcionamento, alterando a classificação de risco da atividade para médio e/ou alto risco, a mesma deverá cumprir os requisitos legais de licenciamento de acordo com o novo enquadramento e efetuar o pagamento das respectivas taxas.
+
+
+§ 2º
+
+Caso a empresa exerça atividades dispensadas e não dispensadas de atos públicos de liberação, o pagamento de taxas será devido em razão das atividades classificadas como médio risco e/ou alto risco.
+
+
+§ 3º
+
+As atividades de médio risco, terão Alvará Eletrônico Automatizado emitido sem prévio pagamento de taxa, no entanto, caso não seja realizado o pagamento da taxa no prazo máximo de 30 (trinta) dias após sua emissão, o mesmo poderá ser cassado pelo órgão competente.
+
+
+Art. 29.
+
+A Taxa de Licença para Localização e Funcionamento – não será devida nas seguintes hipóteses de alteração de alvará:
+
+
+I –
+
+alteração de nome da pessoa física em virtude de casamento, divórcio ou qualquer fato decorrente do exercício de direitos civis ou por decisão judicial;
+
+
+II –
+
+alteração de razão social ou denominação da pessoa jurídica em decorrência de alteração contratual, decisão judicial ou outro motivo;
+
+
+III –
+
+inclusão ou exclusão de abreviaturas complementares ao nome, razão social ou denominação, tais como ME (microempresa), EPP (empresa de pequeno porte) ou outra legalmente prevista;
+
+
+IV –
+
+mudança de numeração ou de denominação do logradouro por ação do órgão público; e
+
+
+V –
+
+simples alterações de informações cadastrais que não impliquem alteração essencial das características do alvará em vigor;
+
+
+Art. 30.
+
+A Taxa de Licença para Localização e Funcionamento, também não será devida em caso de simples alterações de informações cadastrais, que não impliquem alteração de característica substancial do alvará em vigor, tais como:
+
+
+I –
+
+alteração da composição ou participação societária;
+
+
+II –
+
+alteração do tipo da pessoa jurídica; e
+
+
+III –
+
+baixa do licenciamento.
+
+
+Parágrafo único
+
+Sempre que houver alteração de informação cadastral, o contribuinte deverá solicitar à Secretaria Municipal de Fazenda a respectiva atualização.
+
+
+#### CAPÍTULO VII — DA FISCALIZAÇÃO
+
+
+Art. 31.
+
+Os estabelecimentos serão fiscalizados a qualquer tempo pelos agentes responsáveis pelo Licenciamento e Fiscalização, para fins de verificação da adequação aos termos da dispensa ou concessão do licenciamento e do cumprimento das obrigações tributárias.
+
+
+§ 1º
+
+Compete aos órgãos de fiscalização verificar, a qualquer tempo, a permanência das características do licenciamento inicial, assim como providenciar, sempre que possível, as alterações necessárias e a correção e aperfeiçoamento dos cadastros de estabelecimentos.
+
+
+§ 2º
+
+Os órgãos fiscalizadores terão acesso às dependências do estabelecimento ou da residência; se for o caso, para o desempenho de suas atribuições funcionais, inclusive das atividades que foram dispensadas de Alvará e Licenciamento de Funcionamento.
+
+
+§ 3º
+
+Quando a atividade ou situação, por sua natureza, comportar grau de risco compatível com tal procedimento, a autoridade fiscal exercerá fiscalização prioritariamente orientadora sobre os microempreendedores individuais, as microempresas e empresas de pequeno porte, respeitando o critério da dupla visita.
+
+
+Art. 32.
+
+Compete à Vigilância Sanitária, à fiscalização ambiental, através da Secretaria Municipal de Meio Ambiente, e aos demais órgãos fiscalizadores do Município:
+
+
+I –
+
+declarar irregulares as práticas, atividades, omissões e intervenções que evidenciem o não cumprimento das responsabilidades assumidas na autodeclaração, no âmbito de atribuições de cada órgão; e
+
+
+II –
+
+efetuar as providências pertinentes e quando necessário à aplicação de sanções, no âmbito de atribuições de cada órgão.
+
+
+Art. 33.
+
+Sempre que provocada por solicitação de órgão que tenha constatado irregularidades, a Secretaria Municipal de Fazenda atuará no estrito âmbito de suas competências e formalizará, se for o caso, a propositura de cassação ou anulação de alvará, respeitada a validade e eficácia do licenciamento até a decisão quanto à extinção deste.
+
+
+#### CAPÍTULO VIII — DAS INFRAÇÕES E PENALIDADES
+
+
+Art. 34.
+
+As sanções aplicáveis às infrações decorrentes do não cumprimento de obrigações tributárias previstas neste Decreto são as definidas e graduadas pelo Código Tributário do Município.
+
+
+Art. 35.
+
+O funcionamento em desacordo com as atividades licenciadas no alvará será apenado com as multas reguladas conforme disposto no Código Tributário do Município.
+
+
+Art. 36.
+
+A verificação a qualquer tempo, de vício, declaração falsa ou causa de nulidade, excluída a hipótese de erro ou informação imprecisa que não prejudique a perfeita caracterização do licenciamento, implicará na imediata suspensão, determinada pela Secretaria Municipal de Fazenda, do alvará e da correspondente inscrição municipal, oferecendo-se ao contribuinte, o prazo de 15 (quinze) dias para apresentação de defesa.
+
+
+§ 1º
+
+A suspensão produzirá efeitos de interdição de estabelecimento, considerando-se irregular o funcionamento e aplicando-se as sanções pertinentes, quando for o caso.
+
+
+§ 2º
+
+A não apresentação de defesa, assim como a decisão de que as alegações não procedem, acarretará a anulação do alvará.
+
+
+Art. 37.
+
+Compete, quando necessário, ao Secretário Municipal de Fazenda, Fiscal de Postura, Fiscal de Tributos, Fiscal da Vigilância Sanitária ou Fiscal do Meio Ambiente determinar a interdição de estabelecimentos, quando encontradas irregularidades ou a não observância dos requisitos legais para o exercício da atividade.
+
+
+Art. 38.
+
+O alvará poderá ser cassado:
+
+
+I –
+
+Se for exercida atividade não permitida no local ou se dar ao imóvel destinação diversa daquela para a qual foi concedido o licenciamento;
+
+
+II –
+
+Se forem infringidas quaisquer disposições referentes aos controles de poluição, ou se o funcionamento do estabelecimento causar danos, prejuízos, incômodos, ou puser em risco, por qualquer forma, a segurança, o sossego, a saúde e a integridade física da vizinhança ou da coletividade;
+
+
+III –
+
+Se houver cerceamento às diligências necessárias ao exercício do poder de polícia;
+
+
+IV –
+
+Se ocorrer prática reincidente de infrações à legislação aplicável; e
+
+
+V –
+
+Se ocorrer a falta de pagamento da taxa no prazo fixado neste Decreto.
+
+
+Art. 39.
+
+O alvará poderá ser anulado:
+
+
+I –
+
+Se o licenciamento tiver sido concedido com inobservância de preceitos legais ou regulamentares; e
+
+
+II –
+
+Se ficar comprovada a falsidade ou a inexatidão de qualquer declaração ou documento.
+
+
+Art. 40.
+
+Compete ao Secretário Municipal de Fazenda e/ou Prefeito cassar ou anular o alvará.
+
+
+§ 1º
+
+O alvará poderá ser cassado, anulado ou alterado de ofício, mediante decisão de interesse público devidamente fundamentada.
+
+
+§ 2º
+
+Será assegurado ao contribuinte, nos termos do que dispõe a Constituição, art. 5º, inciso LV, o direito ao contraditório e à ampla defesa, sempre que ocorrer a propositura de anulação, cassação ou alteração do alvará.
+
+
+Art. 41.
+
+O exercício do direito de ampla defesa ante a propositura de cassação ou anulação de alvará não afastará, a qualquer tempo, a aplicação de outras sanções, no âmbito de competências de cada órgão do Município.
+
+
+Art. 42.
+
+Caso o pedido do contribuinte seja julgado procedente o Alvará anulado, cassado ou alterado será restabelecido pelo Secretário Municipal de Fazenda.
+
+
+Art. 43.
+
+As licenças, os alvarás e os demais atos públicos de liberação serão considerados válidos até a sua caducidade, ou a anulação ou cassação definitiva, caso seja constatado o descumprimento de requisitos ou de condições.
+
+
+#### CAPÍTULO IX — DISPOSIÇÕES FINAIS
+
+
+Art. 44.
+
+As atividades de acordo com Classificação Nacional de Atividades Econômicas – CNAE não previstas na Resolução COGIRE, deverão ter tratamento diferenciado, sempre que possível, conforme previsto nas legislações vigentes.
+
+
+Art. 45.
+
+Fica suspensa, a abertura física de processos administrativos para solicitação do Alvará e Licença de Funcionamento, devendo todo o processo ocorrer de forma eletrônica via sistema integrador - Regin, salvo em casos excepcionais por despacho justificado do Secretário de Fazenda.
+
+
+Parágrafo único
+
+Excetuam do disposto no caput deste artigo as pessoas físicas e registro de empresas efetuados em Cartório não conveniado à REDESIM.
+
+
+Art. 46.
+
+O presente decreto entrará em vigor a partir da data da sua publicação e revoga as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 03 de outubro de 2024.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+
+
+## ANEXO I
+
+
+TERMO DE CIÊNCIA E RESPONSABILIDADE
+
+
+(DECLARAÇÃO PRESTADA E ACEITA PELO
+
+
+EMPREENDEDOR NO MOMENTO DO PEDIDO DO ATO
+
+
+PRETENDIDO) Declaro sob as penas da Lei que conheço e atendo os requisitos legais dos órgãos do Estado do Rio de Janeiro, bem como do Município para emissão de Alvará de licença e funcionamento e demais licenças municipais, compreendidos os aspectos sanitários, ambientais, tributários, se segurança pública, uso e ocupação do solo, atividades domiciliares e restrições do uso do espaço público. O não atendimento a estes requisitos legais, poderá gerar cassação/cancelamento imediato das licenças e alvarás expedidos, bem como em sanções cíveis, criminais e administrativas, sobre informações inverídicas prestadas neste ato.
+
+
+Município de Engenheiro Paulo de Frontin, \_\_\_\_ de \_\_\_\_\_\_\_ de 20\_\_\_.
+
+
+Publicado por:
+
+
+Leonardo Siqueira Castro da Silva Código Identificador:7B677AF9 Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 08/10/2024. Edição 3732 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site:

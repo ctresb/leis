@@ -1,0 +1,36 @@
+{
+  "aprovados": [
+    {
+      "municipio": "Recife",
+      "uf": "PE",
+      "codigo_ibge": "2611606",
+      "tipo": "Lei Orgânica",
+      "categoria": "lei-organica",
+      "numero": "",
+      "data": "1990-04-04",
+      "titulo": "Lei Orgânica do Município do Recife, de 4 de abril de 1990",
+      "slug": "lei-organica-recife-1990",
+      "cache": "recife-organica.pdf",
+      "fonte": "https://transparencia.recife.pe.leg.br/institucional/competencias/lei-organica_atualizada-em-08-04-2024.pdf",
+      "fonte_texto": "https://transparencia.recife.pe.leg.br/institucional/competencias/lei-organica_atualizada-em-08-04-2024.pdf/@@download/file",
+      "versao_texto": "compilação oficial atualizada em 08/04/2024, com emendas anexas; não certifica atualização posterior",
+      "marcas_obrigatorias": [
+        "LEI ORGÂNICA DO MUNICÍPIO DO RECIFE",
+        "Promulgada em 4 de abril de 1990",
+        "Atualizada em 08 de abril de 2024"
+      ],
+      "arquivo": "municipais/PE/recife/lei-organica/1990/lei-organica-recife-1990.md",
+      "sha256": "0de130930f10a559b1f2b8a9f418c3f3c69c1e870eb09c7b799358d53ea418c7",
+      "arquivo_fonte": "municipais/_fonte/capitais/recife/recife-organica.pdf",
+      "sha256_fonte": "99378476bdbaecf5ae5c946641107b55b10d5eee2cbb79409d16647bc1b0d0e4",
+      "sha256_corpo": "6a7fb9cf1c7044df1b0de25e7e42d7dee8f7c6c0c6413ae3bb0be7c6d28ad311",
+      "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "verificado_em": "2026-10-20T19:47:26.279870",
+      "observacao": "Compilação individual oficial; emendas anexas preservadas no mesmo documento, sem aumento artificial da contagem."
+    }
+  ],
+  "qa": "municipais/_fonte/capitais/recife/lei-organica-recife-1990.qa.json",
+  "sha256_qa": "50ad2d8857e7d666e378da41ea2fd8d7d75043ac22c726e9777fb6f3d85b4890",
+  "lista": "municipais/_lotes/20261020-capitais/lote-0001.paths.txt",
+  "sha256_lista": "eb50d0c248eebc3f38e2bed332de1e30d83182ca2a49b5a38f0912a8655b7726"
+}

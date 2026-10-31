@@ -1,0 +1,42 @@
+{
+  "host": "sapl.formosadooeste.pr.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosadooeste.pr.leg.br/54b9a86bbf66221199ead6e573391b9fb032c613e837f8d855a5a8e7a3840263.json",
+    "url": "https://sapl.formosadooeste.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.formosadooeste.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c2fc6de42c26ba81210cf5d90dada846e88981d3d21b802156bebfd384776a69",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T11:15:06.811845-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosadooeste.pr.leg.br/7aefdf767bd74e8ee03579b238fe235449d5f85be6c54ae80365b6aa21d2d738.json",
+    "url": "https://sapl.formosadooeste.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.formosadooeste.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e393414c7ff6f993b9d130398758cfba8a874a0e5ee65259010adf2a6182278c",
+    "bytes": 883,
+    "capturado_em": "2026-10-28T11:15:06.013189-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosadooeste.pr.leg.br/be5d2b4444d33f72ea8ef2327a3e95de74868da6881d7443fc8591f38b318b4d.json",
+      "url": "https://sapl.formosadooeste.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.formosadooeste.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T11:15:08.948981-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

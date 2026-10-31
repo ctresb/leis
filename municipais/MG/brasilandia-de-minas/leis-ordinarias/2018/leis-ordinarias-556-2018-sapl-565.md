@@ -1,0 +1,768 @@
+---
+titulo: "Lei Ordinária nº 556, de 21 de novembro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "556"
+data: "2018-11-21"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-08-13; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/565"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/506/text"
+sha256_fonte: "f461a049bd4fab1d62ef180b06b1a9b554ab6d7b76e71d55c77df4648950a62c"
+sha256_texto: "ca05e78048f17498916f7a2820d4fb4d5a82b0a19eb881e66884c69b06d23c47"
+capturado_em_fonte: "2026-10-27T19:44:58.718580-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 556, de 21 de novembro de 2018
+
+"Dispõe sobre a política de proteção, conservação e melhoria do Meio Ambiente, cria o Fundo Municipal do Meio Ambiente e 0 Conselho Municipal de Defesa do meio Ambiente"
+
+
+O PREFEITO DO MUNICÍPIO DE BRASILÂNDIA DE MINAS, estado de Minas Gerais, no uso das atribuições que lhe confere o 70, da Lei Orgânica do Município, faz saber que a Câmara Municipal aprova e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+### TÍTULO I
+
+DA POLÍTICA DE PROTEÇÃO, CONSERVAÇÃO E MELHORIA DO MΕΙΟ AMBIENTE.
+
+
+#### CAPÍTULO I — DOS PRINCIPIOS FUNDAMENTAIS
+
+
+Art. 1º.
+
+A política municipal de proteção, conservação e melhoria do meio ambiente tem como objetivo assegurar a todos os habitantes do Município um meio ambiente ecologicamente equilibrado, bem de uso comum do povo e essencial a boa qualidade de vida, impondo-se ao poder público e á coletividade de defendê-lo e preservá-lo para as presentes e futuras gerações.
+
+
+Art. 2º.
+
+Para assegurar a efetividade desse direito, a política municipal de proteção, conservação e melhoria do meio ambiente fica subordinada aos seguintes princípios fundamentais:
+
+
+I –
+
+multidisciplinaridade no trato das questões ambientais
+
+
+II –
+
+efetiva participação do cidadão e das entidades civis na defesa do meio ambiente;
+
+
+III –
+
+integração permanente entre o Município, o Estado e a União;
+
+
+IV –
+
+integração permanente com os Municípios vizinhos no trato das questões de saneamento;
+
+
+V –
+
+prevalência do equilíbrio da salubridade ambiental e da proteção os ecossistemas naturais sobre as ações privadas e atividades realizadas por pessoa física ou jurídica de direito público ou privado;
+
+
+VI –
+
+reparação integral do dano ambiental, independentemente de culpa, decorrente de ação ou emissão juridicamente relevante de pessoa física ou jurídica de direito público ou privado;
+
+
+VII –
+
+exigência, para instalação de obra, atividade, serviço ou parcelamento do solo, potencialmente causadora e significativa degradação do meio ambiente, Estudo de Impacto Ambiental, a que se dará publicidade prévia;
+
+
+VIII –
+
+as pessoas jurídicas serão responsabilizadas administrativa e criminalmente, conforme o disposto nesta lei, nos casos em que a infração seja cometida por decisão de seu representante legal ou contratual, ou de seu órgão colegiado, no interesse ou benefício de sua entidade.
+
+
+IX –
+
+a responsabilidade das pessoas jurídicas não exclui a das pessoas físicas, autoras, coautoras ou partícipes do mesmo fato;
+
+
+X –
+
+poderá ser desconsiderada a pessoa/personalidade jurídica sempre que esta for obstáculo ao ressarcimento de prejuízos causados á qualidade do meio ambiente.
+
+
+Art. 3º.
+
+Para os fins previstos nesta lei entende-se por:
+
+
+I –
+
+Meio ambiente conjunto de condições, leis influência e interação de ordem física, química, biológica, social, cultural, e política que permite abrigarem a vida em todas as suas formas.
+
+
+II –
+
+recursos ambientais - a atmosfera, as águas superficiais e subterrâneas, o solo o subsolo e os elementos da biosfera;
+
+
+III –
+
+degradação da qualidade ambiental qualquer alteração adversa das características do meio ambiente;
+
+
+IV –
+
+poluição a degradação da qualidade ambiental resultante da ação ou omissão que, direta ou indiretamente:
+
+
+a)
+
+prejudique a saúde, o sossego, a segurança e o bem estar da população;
+
+
+b)
+
+crie condições adversas ás atividades sociais e econômicas;
+
+
+c)
+
+afete desfavoravelmente a fauna, a flora ou qualquer recurso ambiental;
+
+
+d)
+
+afete as condições estéticas ou sanitárias do meio ambiente;
+
+
+e)
+
+lance matéria ou energia em desacordo com os padrões ambientais estabelecidos;
+
+
+f)
+
+ocasione danos aos acervos históricos, ambiental, turístico, cultural e paisagístico.
+
+
+V –
+
+fonte de poluição de qualquer atividade, serviço, sistema, processo, operação, maquinários, equipamentos, dispositivo móvel ou não, que induza ou possa produzir poluição
+
+
+VI –
+
+agente poluidor quem, de qualquer modo, concorre para a prática das infrações administrativas lesivas ao meio ambiente bem como diretor, o administrador, o membro do conselho ou órgão técnico, o auditor, o gerente, o preposto ou mandatário de pessoa física ou jurídica, que sabendo da conduta ilegal de outrem, deixar de impedira sua prática, quando podia agir para evitá-las;
+
+
+VII –
+
+poluente toda e qualquer forma de matéria ou energia que provoque poluição nos termos deste artigo;
+
+
+VIII –
+
+salubridade ambiental- conjunto de condições propícias á saúde da população urbana e rural, no que se refere á existência de meio capazes de prevenir as ocorrências de doenças veiculadas pelo meio ambiente degradado, bem como a promoção de condições ambientais favoráveis ao pleno gozo da saúde e do bem estar;
+
+
+IX –
+
+saneamento conjunto de ações, serviços e obras considerados prioritários, em programa de saúde pública, definido como sendo aquele que envolve
+
+
+a)
+
+o abastecimento de água em quantidade suficiente para assegurar a adequada higiene e conforto e com qualidade compatível com os padrões de portabilidade;
+
+
+b)
+
+a coleta e a disposição final dos esgotos sanitários e dos resíduos sólidos bem como a drenagem das águas pluviais, de forma a preservar o equilíbrio ecológico do meio ambiente, na perspectiva de prevenção de ações danosas á saúde;
+
+
+c)
+
+o controle ambiental de roedores, insetos, helmintos e outros vetores e focos de doenças transmissíveis.
+
+
+#### CAPÍTULO II — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 4º.
+
+O Sistema Municipal do Meio Ambiente é constituído pelos órgãos consultivos, deliberados, normativos e executivos, fundações públicas e privadas e entidades responsáveis pela proteção, conservação, melhoria o meio ambiente e da qualidade de vida no Município, na forma seguinte:
+
+
+I –
+
+Órgãos consultivos normativos e deliberativos no âmbito de sua competência: Secretária Municipal de Defesa do Meio Ambiente- CODEMA;
+
+
+II –
+
+órgão executor Prefeitura Municipal de Brasilândia de Minas ou Secretaria Municipal legalmente criada para a finalidade.
+
+
+Art. 5º.
+
+Compete ao Sistema Municipal de Meio Ambiente formular, planejar e executar a política de proteção, conservação e melhoria do meio ambiente.
+
+
+Parágrafo único
+
+No exercício da competência a que se refere o "caput" deste artigo serão utilizados pelos órgãos integrantes do sistema Municipal do meio ambiente, instrumentos e ações essenciais à consecução dos objetivos expressos nesta lei, quais sejam, o planejamento e fiscalização do uso de recursos ambientais;
+
+
+I –
+
+combate á poluição em quaisquer das suas formas, através de informação, orientação fiscalização e controle;
+
+
+II –
+
+promoção da educação ambiental e sanitária, com a realização de campanhas de esclarecimento e conscientização da comunidade, objetivando capacitá-la para participação na defesa do meio ambiente.
+
+
+III –
+
+garantia de infra-estrutura sanitária, de condições de salubridade das edificações, vias logradouros públicos, bem como do meio ambiente de trabalho;
+
+
+IV –
+
+estabelecimentos da política de arborização e manejo de vegetação para o Município;
+
+
+V –
+
+proteção de ecossistemas através da criação de unidades de conservação e preservação de melhoria de áreas representativas.
+
+
+VI –
+
+elaboração de estudos que contribuam para o conhecimento das características ambientais locais, visando seu monitoramento e melhorias;
+
+
+VII –
+
+convênio e outras formas de participação entre poder público e iniciativa privada na solução de problemas ambientais;
+
+
+VIII –
+
+compatibilização de atividades potencialmente ou efetivamente poluidoras e/ou degradadouras do meio ambiente aos princípios expressos na presente Lei;
+
+
+IX –
+
+exigência de medidas capazes de garantir a segurança na geração, armazenamento, transporte, manipulação tratamento e disposição final de produtos, materiais e rejeitos e/ou tóxicos;
+
+
+X –
+
+adoção de medidas capazes de condicionarem a implementação das políticas setoriais dos diversos órgãos á variável ambiental;
+
+
+XI –
+
+compatibilização do exercício das atividades empresariais públicas e privadas, com as normas de proteção, conservação e melhoria do meio ambiente.
+
+
+XII –
+
+consideração das áreas das sub-bacias hidrográficas como unidades básicas para o planejamento e implementação da política ambiental, levando em conta o seu quadro ambiental, sanitário e epidemiológico para definição de prioridades;
+
+
+XIII –
+
+estabelecimentos de premiações ás pessoas físicas e jurídicas que destacarem-se anualmente, na defesa do meio ambiente;
+
+
+Art. 6º.
+
+Para efeito desta lei consideram-se associações comunitárias as entidades de comprovada existências no Município, constituídas com objetivo de atuar da defesa dos interesses da coletividade, dentro da sua especificidade.
+
+
+Art. 7º.
+
+Para efeito desta lei consideram-se associações de classe, aquelas de comprovadas existência no Município, constituídas com o objetivo de atuar na defesa dos interesses econômicos tanto no âmbito empresarial quanto de trabalhadores.
+
+
+#### CAPÍTULO III — DO FUNDO MUNICIPAL
+
+
+Art. 8º.
+
+Fica criado o Fundo Municipal de Meio Ambiente FMMA-em conformidade com as disposições desta Lei.
+
+
+Parágrafo único
+
+O Fundo Municipal de Meio Ambiente - FMMA, vinculado ao órgão da Administração Municipal de Gestão Ambiental, tem por objetivo proporcionar recursos e meios para o desenvolvimento de programas, projetos e ações voltados à proteção, recuperação e conservação do meio ambiente no Município de Brasilândia de Minas/MG, além de proporcionar melhor estruturação para a Prefeitura Municipal.
+
+
+Art. 9º.
+
+O Fundo Municipal de Meio Ambiente será constituído pelos seguintes recursos:
+
+
+I –
+
+dotações consignadas no orçamento municipal para a política de proteção, conservação e recuperação do meio ambiente;
+
+
+II –
+
+recursos estaduais e federais para o desenvolvimento das atribuições do Conselho Municipal de Defesa e Conservação do Meio Ambiente (CODEMA) e da política de proteção, conservação e recuperação do meio ambiente;
+
+
+III –
+
+recursos oriundos da celebração de acordos, contratos;
+
+
+IV –
+
+recursos oriundos da arrecadação de multas e seus acessórios, previstos na legislação ou oriundos de decisão judicial, de termos de ajuste de conduta ou similares;
+
+
+V –
+
+recursos oriundos de promoções com finalidades específicas de aplicação em ações ligadas ao meio ambiente;
+
+
+VI –
+
+doações, auxílios, contribuições e legados que lhe venham a ser destinados;
+
+
+VII –
+
+as rendas eventuais, inclusive as resultantes de depósitos e aplicação de capitais;
+
+
+VIII –
+
+taxas de licenciamento ambiental e outras relativas ao exercício do poder de polícia;
+
+
+IX –
+
+outros recursos que, por sua natureza, possam ser destinados ao FMMA.
+
+
+X –
+
+percentual de 45,18% da receita arrecadada do preço público cobrado dos grandes geradores
+
+Inclusão feita pelo Art. 20. - Lei Complementar nº 91, de 13 de agosto de 2025.
+
+
+XI –
+
+percentual de 45,18% da receita arrecadada da taxa de coleta, transporte, tratamento e destinação final ambientalmente adequada de resíduos sólidos domiciliares (TRSD)
+
+Inclusão feita pelo Art. 20. - Lei Complementar nº 91, de 13 de agosto de 2025.
+
+
+§ 1º
+
+As receitas descritas neste artigo serão depositadas, obrigatoriamente, em conta especial a ser aberta e mantida em agência de estabelecimento oficial de crédito.
+
+
+§ 2º
+
+A aplicação dos recursos de natureza financeira dependerá da existência de disponibilidade.
+
+
+§ 3º
+
+O saldo financeiro positivo do Fundo Municipal de Meio Ambiente, apurado ao final de cada exercício financeiro, será transferido para o exercício seguinte, a crédito do mesmo Fundo.
+
+
+Art. 10.
+
+O Fundo Municipal de Meio Ambiente será gerido e administrado pela Secretaria Municipal de Fazenda, com o acompanhamento do Conselho Municipal de Defesa e Conservação do Meio Ambiente, estruturado por esta Lei.
+
+
+§ 1º
+
+As contas e os relatórios do Fundo Municipal de Meio Ambiente serão submetidos à apreciação do Conselho Municipal de Defesa do Meio Ambiente - CODEMA.
+
+
+§ 2º
+
+A aprovação das contas do Fundo Municipal de Meio Ambiente pelo Conselho Municipal de Defesa e Conservação do Meio Ambiente não excluí a fiscalização do Poder Legislativo e do Tribunal de Contas do Estado de Minas Gerais.
+
+
+Art. 10-A.
+
+Os recursos do preço público cobrado dos grandes geradores e da taxa de coleta, transporte, tratamento e destinação final ambientalmente adequada de resíduos sólidos domiciliares (TRSD) a que se referem, respectivamente, os incs. X e XI, do art. 9º, desta Lei serão transferidos, nos termos estabelecidos no contrato de rateio, para o Fundo Regional de Gestão de Resíduos Sólidos do Consórcio de Saúde e Desenvolvimento dos Vales do Noroeste de Minas (CONVALES) para assegurar os investimentos necessários à prestação adequada dos serviços regionais de manejo de resíduos sólidos.
+
+Inclusão feita pelo Art. 21. - Lei Complementar nº 91, de 13 de agosto de 2025.
+
+
+Art. 11.
+
+Os recursos do Fundo Municipal de Meio Ambiente serão destinados a:
+
+
+I –
+
+financiar total ou parcialmente programas, projetos, ações e serviços desenvolvidos pelo órgão da Administração Pública Municipal responsável pela execução da política ambiental de proteção, preservação e recuperação do meio ambiente;
+
+
+II –
+
+atender às diretrizes e metas contempladas nas leis municipais que versem sobre a política ambiental de proteção, preservação e recuperação do meio ambiente;
+
+
+III –
+
+adquirir equipamentos ou implementos necessários ao desenvolvimento de programas ou de ações de assistência, proteção, preservação e recuperação do meio ambiente;
+
+
+IV –
+
+desenvolver e aperfeiçoar os instrumentos de gestão e planejamento, administração e controle das ações inerentes à proteção, preservação e recuperação do meio ambiente;
+
+
+V –
+
+proporcionar eficiente aplicação das leis federais, estaduais e municipais que estabeleçam disposições inerentes à política ambiental.
+
+
+§ 1º
+
+Prioritariamente os recursos serão aplicados em projetos e ações sugeridos pelo Conselho Municipal de Defesa do Meio Ambiente.
+
+
+§ 2º
+
+O Conselho Municipal de Defesa e Conservação do Meio Ambiente, com o apoio técnico dos órgãos ambientais governamentais dos entes federados, poderá propor ao Poder Executivo a liberação dos recursos do Fundo Municipal do Meio Ambiente para atendimento de situações emergenciais e prioritárias.
+
+
+Art. 12.
+
+Os responsáveis pelos projetos ou atividades beneficiados com recursos deste Fundo deverão prestar contas nos termos da legislação vigente.
+
+
+Art. 13.
+
+Os recursos decorrentes da aplicação da presente Lei correrão por conta de dotação orçamentária própria, suplementada se necessário, ficando o Poder Executivo autorizado a proceder aos remanejamentos indispensáveis à sua execução, inclusive mediante a abertura de crédito adicional especial, nos termos do art. 42 da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+#### CAPÍTULO III — DO CONSELHO MUNICIPAL DE DEFESA DO MEIO AMBIENTE
+
+
+Art. 14.
+
+Fica reestruturado, no âmbito da Prefeitura Municipal de Brasilândia de Minas, o Conselho Municipal de Defesa do Meio Ambiente- CODEMA, criado através da Lei Municipal Nº 035 de 20 de novembro de 1997, órgão Colegiado, autônomo, coletivo, normativo e deliberativo по âmbito de sua competência e de assessoramento ao Poder Executivo, Municipal.
+
+
+§ 1º
+
+O CODEMA será composto por 07 (sete) membros, indicados pela perspectiva entidade e formalmente nomeados através de ato do chefe do poder executivo, assim distribuídos:
+
+
+I –
+
+um representante do quadro funcional do executivo, indicado pelo Prefeito Municipal.
+
+
+II –
+
+um representante do poder legislativo, designados pelos vereadores;
+
+
+III –
+
+um representante de órgãos da Administração Pública Estadual ou Federal, que tenham em suas atribuições e proteção ambiental e que possuam representação no Município.
+
+
+IV –
+
+um representante de entidades civis e ambientalistas.
+
+
+V –
+
+um representante de setores organizados da sociedade, tais como: associações do comercio, da indústria e clubes de serviço;
+
+
+VI –
+
+um representante de associações de moradores de universidade e pessoas comprovadamente comprometidas com a questão ambiental;
+
+
+VII –
+
+um representante das entidades rurais.
+
+
+§ 2º
+
+os órgãos ou entidades poderão substituir seus representantes mediante prévia comunicação escrita, acompanhada de justificativa formal.
+
+
+Art. 15.
+
+Os membros do conselho Municipal de Defesa do Meio Ambiente terão mandato de 02 (dois) anos, podendo ser reeleitos consecutivamente, por mais um mandato.
+
+
+Art. 16.
+
+os membros do conselho municipal de Defesa do Meio Ambiente exercerão seus mandatos de forma gratuita, devendo ser considerados serviços de relevante interesse social para o Município.
+
+
+Art. 17.
+
+As reuniões do CODEMA são públicas, assegurando a participação popular na forma do regimento interno.
+
+
+Parágrafo único
+
+A primeira reunião do CODEMA elegerá o seu presidente e uma comissão executiva.
+
+
+Art. 18.
+
+O CODEMA poderá instituir se necessário, câmaras ou setores técnicos e específicos, e ainda poderá recorrer à entidade ou técnicos de notável saber em assuntos de interesse ambiental.
+
+
+Art. 19.
+
+Cabe ao órgão executor da política ambiental do Município fornecer a infra-estrutura necessária para tal funcionamento do CODEMA.
+
+
+Art. 20.
+
+O novo regimento interno do CODEMA será elaborado por seus membros no prazo máximo de 60 (sessenta) dias após sua instalação, será homologado por decreto do Executivo.
+
+
+Art. 21.
+
+Ao CODEMA compete:
+
+
+I –
+
+atuar no sentido de assegurar a consecução das diretrizes definidas pela conferências e pela lei orgânica do município;
+
+
+II –
+
+atuar no sentido de assegurar o cumprimento das normas de proteção, conservação e melhoria do meio ambiente, expressas na legislação municipal, estadual e federal que regem a matéria;
+
+
+III –
+
+informar e provocar atuação do poder Executivo e do Ministério público em casos de infração á legislação ambiental vigente.
+
+
+IV –
+
+sensibilizar mobilizar a opinião pública de forma a incentivar a participação popular na gestão dos recursos ambientais;
+
+
+V –
+
+propor normas técnicas e legais, procedimentos e ações, visando à defesa, conservação, recuperação e melhoria da qualidade ambiental do município, observadas as legislações federal, estadual e municipal pertinentes;
+
+
+VI –
+
+opinar sobre o detalhamento dos planos e programas anuais e plurianuais do órgão executor da política ambiental, bem como acompanhar a sua execução;
+
+
+VII –
+
+homologar acordos visando à transformação de penalidades pecuniárias na obrigação de realizar medidas de interesses para a proteção ambiental.
+
+
+VIII –
+
+requisitar assessorias técnicas especializadas na área, para análise de eventuais conflitos ambientais
+
+
+IX –
+
+elaborar seu regimento interno ou ratificá-los e submetê-lo à aprovação do Prefeito Municipal, através de Decreto;
+
+
+X –
+
+Participar ao Ministério Público a existência de quaisquer infrações penais ou cíveis de natureza ambiental;
+
+
+XI –
+
+julgar nos prazos administrativos fixados os recursos administrativos;
+
+
+XII –
+
+elaborar e participar de convênios com os demais órgãos públicos de defesa do meio ambiente, inclusive nas atividades intermunicipais e interestaduais;
+
+
+XIII –
+
+conceder todas as licenças ambientais no município, podendo designar ou alocar servidores para a fiscalização, através da Secretaria Municipal de Agricultura do meio ambiente.
+
+
+XIV –
+
+identificar e informar á comunidade e aos órgãos públicos competentes, sobre a existência de área degradadas ou ameaçadas de degradação;
+
+
+XV –
+
+opinar em todos os projetos e obras públicas que interfiram direta ou indiretamente com o meio ambiente local;
+
+
+XVI –
+
+realizar e coordenar a audiências públicas, quando for o caso, visando à participação da comunidade nos processos de instalação de atividades poluidoras.
+
+
+XVII –
+
+acompanhar as reuniões das câmaras do COPAM em assuntos de interesse do município;
+
+
+XVIII –
+
+propor diretrizes para a Política Municipal de Meio Ambiente;
+
+
+XIX –
+
+atuar no sentido de promover a conscientização pública para o desenvolvimento ambiental, promovendo a educação ambiental, formal e informal, com ênfase nos problemas do Município;
+
+
+Art. 22.
+
+Para efeito desta lei, considera-se Estudo de Impacto Ambiental - EIA, as seguintes atividades técnicas:
+
+
+I –
+
+Diagnóstico ambiental da área de influência do projeto completa discrição e analise dos recursos ambientais e suas interações tal como existem, de modo a caracterizar a situação ambiental da área antes da implantação do projeto considerado:
+
+
+a)
+
+O meio físico, o subsolo, as águas, o ar o clima, destacando os recursos minerais, a topografia, os tipos de aptidões de solo, os corpos d água, e o regime hidrográfico, as correntes atmosféricas;
+
+
+b)
+
+O meio biológico e os ecossistemas naturais a fauna e a flora, destacando as espécies indicadoras da qualidade ambiental, de valor científico e econômico, raro e ameaçado de extinção e áreas de preservação permanente;
+
+
+c)
+
+O meio socioeconômico uso e ocupação do solo, os usos da água e só- cio-economia, destacando os sítios e monumentos arqueológicos, históricos e culturais da comunidade local, os recursos ambientais e a potencial utilização futura desses recursos;
+
+
+II –
+
+Análise dos impactos ambientais do projeto e de suas alternativas, através de identificação, previsão da magnitude e interpretação dos prováveis impactos relevantes, discriminando os impactos positivos negativos (benéficos adversos), direitos e indiretos, impactos positivos e negativos temporários e permanentes; seu grau de reversibilidade; suas propriedades cumulativas e sinérgicas; a distribuição dos ônus e beneficios sociais.
+
+
+III –
+
+Definição das medidas mitigadoras dos impactos negativos entre elas os equipamentos de controle e sistemas de tratamento de despejos, avaliando a eficiência de cada uma delas.
+
+
+IV –
+
+elaboração do programa de acompanhamento e monitoramento dos impactos positivos, indicando os fatores e parâmetros a serem considerados.
+
+
+Parágrafo único
+
+Ao determinar a execução do Estado de impacto Ambiental EIA, o órgão competente fornecerá as instruções adicionais que se fizeram necessários pelas peculiaridades do projeto e característica ambientais da área.
+
+
+Art. 23.
+
+Para efeitos desta lei, considera-se que o Relatório de impacto ambiental- RIMA, refletirá as conclusões do estudo de impacto Ambiental - EIA, e deverá conter no mínimo as seguintes atividades técnicas:
+
+
+I –
+
+os objetivos e justificativas do projeto, sua relação e compatibilidade com as políticas setoriais, planos e programas governamentais;
+
+
+II –
+
+a descrição dos seus projetos e suas alternativas tecnológicas educacionais, especificando para cada um deles, nas fases de construção a área de influência, as matérias primas, e mão de obra, as fontes de energia, os processos e técnicas operacionais, efluentes, emissões, resíduos de energia, os empregos diretos e indiretos a serem gerados;
+
+
+III –
+
+a síntese dos resultados dos estudos de diagnósticos ambientais da área de influencia do projeto.
+
+
+IV –
+
+a descrição dos prováveis impactos ambientais da implantação e operação da atividade, considerando o projeto, suas alternativas, os horizontes de tempo de incidência dos impactos, os métodos técnicos e critérios adotados para identificação, qualificação e interpretação;
+
+
+V –
+
+a caracterização da qualidade ambiental futura da área de influência, comparando as diferentes situações da adoção do projeto e suas alternativas, bem como hipótese de sua não realização;
+
+
+VI –
+
+a descrição dos efeitos das medidas mitigadoras previstas em relação aos impactos negativos, mencionando aqueles que não poderão ser evitados, e grau de alteração esperado.
+
+
+VII –
+
+o programa de acompanhamento e monitoramento dos impactos;
+
+
+VIII –
+
+recomendação quanto à alternativa mais favorável, incluindo conclusões e comentários da ordem geral.
+
+
+Parágrafo único
+
+O RIMA deve ser apresentado de forma objetiva e adequado á sua compreensão. As informações devem ser traduzidas em linguagem acessível, ilustradas por mapas, cartas, quadros, gráficos e demais técnicas de comunicação visual, de modo que se possa entender as vantagens do projeto, bem como todas as consequências ambientais de sua implementação.
+
+
+Art. 24.
+
+Para efeito desta Lei considera-se plano de controle ambiental- PCA, análises, medições, pesquisas, documentos e outras formas de acompanhamento das medidas de controle implementadas para minimização dos impactos ambientais causados pelo empreendimento nas fases de Implantação e operação.
+
+
+Art. 25.
+
+Para efeito desta lei considera-se Relatório de controle Ambiental-RCA, análise, medições, pesquisas, documentos, e outras formas de acompanhamento das medidas de controle implementadas para minimização dos impactos ambientais causados pelo empreendimento nas fases de implementação e operação.
+
+
+Art. 26.
+
+Revogam-se as disposições em contrário, em especial a Lei N°035/97.
+
+
+Art. 27.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura de Brasilândia de Minas - MG/21 de novembro de 2018.
+
+**MARDEN JÚNIOR TELES PEREIRA DA COSTA**
+
+**Prefeito Municipal**
+

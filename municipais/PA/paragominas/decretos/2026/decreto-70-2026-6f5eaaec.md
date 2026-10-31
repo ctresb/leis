@@ -1,0 +1,33 @@
+---
+titulo: "DECRETO Nº 70/2026 DE 24 DE MARÇO DE 2026"
+uf: "PA"
+municipio: "PARAGOMINAS"
+tipo: "Decreto"
+numero: "70"
+data: 2026-03-24
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 26/03/2026"
+data_publicacao: 2026-03-26
+codigo_identificador: "6F5EAAEC"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117047_2026-03-25_657ae36699dcbbf1faeb75ae88a0e0eb.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 70/2026 DE 24 DE MARÇO DE 2026
+
+DECRETO Nº 70/2026 DE 24 DE MARÇO DE 2026
+O Prefeito Municipal de Paragominas Estado do Pará, no uso de suas
+atribuições legais, e com fundamentos na Lei nº 952/2017 e suas
+alterações;
+DECRETA:
+Art. 1º Fica nomeada a Sra ROSANGELA GONÇALVES DE
+SOUSA, a partir de: 02 de março de 2026, no Cargo em Comissão de
+Coordenadora Municipal, lotada na Secretaria Municipal de Governo SEMUG - Padrão – DAS.080 – 8.
+Art. 2º Este Decreto entra em vigor na data de sua publicação.
+Gabinete do Prefeito Municipal de Paragominas-PA, em 24 de março
+de 2026.
+SIDNEY ROSA
+Prefeito Municipal de Paragominas
+Publicado por:
+Aricleia Silva Nascimento

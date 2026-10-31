@@ -1,0 +1,986 @@
+---
+titulo: "LEI Nº 2.509-GP/2026"
+uf: "RO"
+municipio: "NOVA MAMORÉ"
+tipo: "Lei Ordinária"
+numero: "2509"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 20/03/2026"
+data_publicacao: 2026-03-20
+codigo_identificador: "35DBA1BB"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116027_2026-03-19_e1c410abda9230f685f7080aef748889.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 2.509-GP/2026
+
+LEI Nº 2.509-GP/2026
+GABINETE DO PREFEITO
+LEI Nº 2.509-GP/2026 Em, 17 de março de 2026.
+Dispõe sobre alteração na Lei Municipal nº 2.456, de 16 de dezembro de 2025, quanto ao reajuste anual dos vencimentos dos servidores públicos da Câmara Municipal de Nova Mamoré-RO.
+O PREFEITO DO MUNICÍPIO DE NOVA MAMORÉ, Estado de Rondônia, no uso das atribuições que lhes são conferidas por Lei.
+FAZ SABER que a Câmara Municipal de Nova Mamoré aprovou e ele, Prefeito Municipal, sanciona a seguinte LEI:
+Art. 1º. A presente Lei trata do reajuste anual dos vencimentos dos servidores públicos da Câmara Municipal de Nova Mamoré, Estado de Rondônia.
+Art. 2º. Os valores dos vencimentos dos servidores da Câmara Municipal de Nova Mamoré, constantes no Anexo I, Anexo II e Anexo IV da Lei Municipal nº 2.456, de 16 de dezembro de 2025, terão um reajuste de
+6,79% em seus vencimentos.
+Parágrafo único. Anexo I, Anexo II e Anexo IV da Lei Municipal nº 2.456, de 16 de dezembro de 2025, passaram a vigorar conforme o reajuste anual previsto nesta Lei, de acordo com anexos.
+Art. 3º. Esta Lei entra em vigor na data de sua publicação.
+Palácio 21 de Julho, em 17 de março de 2026.
+MARCÉLIO RODRIGUES UCHÔA
+Prefeito do Município de Nova Mamoré
+Sede: Prefeitura do Município de Nova Mamoré-RO – Gabinete do Prefeito - E-mail: gabinete@novamamore.ro.gov.br Av. D. Pedro II, nº 7096, bairro João Francisco Clímaco, Nova Mamoré-RO – CEP: 76.857000 – Fone: (69) 3544-2269
+ANEXO I
+LEI MUNICIPAL Nº 2.456, DE 16 DE DEZEMBRO DE 2025.
+QUADRO PERMANENTE DA CÂMARA MUNICIPAL DE NOVA MAMORÉ-RO
+GRUPOS DE NÍVEL SUPERIOR
+GRUPO OCUPACIONAL
+NS-I
+
+CARGO
+CONTROLADOR INTERNO
+CONTADOR
+ASSISTENTE JURÍDICO
+
+QUANTIDADE
+01
+01
+01
+
+ESCOLARIDADE
+SUPERIOR +REGISTRO
+SUPERIOR +REGISTRO
+SUPERIOR R+EGISTRO
+
+VENCIMENTO
+R$ 4.835,85
+R$ 4.835,85
+R$ 4.835,85
+
+01
+01
+
+SUPERIOR
+SUPERIOR
+
+R$ 3.231,31
+R$ 3.231,31
+
+TÉCNICO EM LICITAÇÃO
+
+01
+02
+
+SUPERIOR
+SUPERIOR
+
+R$ 2.723,15
+R$ 2.723,15
+
+CARGO
+TÉCNICO EM CONTABILIDADE
+
+QUANTIDADE
+01
+
+ESCOLARIDADE
+ENSINO MÉDIO + REGISTRO
+
+VENCIMENTO
+R$ 2.261,27
+
+ANALISTA EM TECNOLOGIA DA INFORMAÇÃO
+NS-II
+
+ANALISTA ADMINISTRATIVO
+TÉCNICO EM CONTROLE INTERNO
+
+NS-III
+
+GRUPO DE NÍVEL MÉDIO
+GRUPO OCUPACIONAL
+NMT
+
+NM
+
+TÉCNICO EM INFORMÁTICA
+
+01
+
+ENSINO MÉDIO COMPLETO + CERTIFICADO DE CURSO
+
+AGENTE ADMINISTRATIVO
+ASSISTENTE LEGISLATIVO
+RECEPCIONISTA
+
+04
+02
+01
+
+ENSINO MÉDIO COMPLETO
+ENSINO MÉDIO COMPLETO
+ENSINO MÉDIO COMPLETO
+
+www.diariomunicipal.com.br/arom
+
+R$ 2.261,27
+R$ 2.221,09
+R$ 2.221,09
+R$ 2.221,09
+
+364
+
+Rondônia , 20 de Março de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4196
+GRUPO DE NÍVEL FUNDAMENTAL
+GRUPO OCUPACIONAL
+
+CARGO
+
+QUANTIDADE
+
+MOTORISTA
+
+NF-I
+
+ENSINO FUNDAMENTAL COMPLETO
+
+01
+
+VIGILANTE
+
+ENSINO FUNDAMENTAL COMPLETO
+
+04
+
+SERVENTE
+
+VENCIMENTO
+
+ENSINO FUNDAMENTAL + CNH A/B-C-D
+
+02
+
+ZELADOR
+NF-II
+
+ESCOLARIDADE
+
+ENSINO FUNDAMENTAL COMPLETO
+
+01
+
+R$ 1.930,00
+R$ 1.915,80
+R$ 1.915,80
+R$ 1.915,80
+
+MARCÉLIO RODRIGUES UCHÔA
+Prefeito do Município de Nova Mamoré
+ANEXO II
+LEI Nº 2.456, DE 16 DE DEZEMBRO DE 2025.
+QUADRO DE PESSOAL EM COMISSÃO DA CÂMARA MUNICIPAL DE NOVA MAMORÉ-RO
+CARGOS COMISSIONADOS – NÍVEL I
+CARGO
+QUANTIDADE
+CHEFE DE GABINETE
+01
+DIRETOR
+DO
+DEPARTAMENTO
+DE
+CONTABILIDADE
+01
+DIRETOR DO DEPARTAMENTO DE FINANÇAS E
+RECURSOS HUMANOS
+01
+DIRETOR DO DEPARTAMENTO LEGISLATIVO
+DIRETOR
+DO
+DEPARTAMENTO
+CONTROLADORIA INTERNA
+DIRETOR DO
+DEPARTAMENTO JURÍDICO
+
+CÓDIGO
+CC-1
+
+SÍMBOLO
+CG
+
+VENCIMENTO
+R$ 1.621,00
+
+GRATIFICAÇÃO
+R$ 3.500,00
+
+REMUNERAÇAO
+R$ 5.121,00
+
+CC-2
+
+DC
+
+R$ 1.621,00
+
+R$ 2.500,00
+
+R$ 4.121,00
+
+CC-2
+
+DFRH
+
+R$ 1.621,00
+
+R$ 2.500,00
+
+R$ 4.121,00
+
+01
+
+CC-2
+
+DL
+
+R$ 1.621,00
+
+R$ 2.500,00
+
+R$ 4.121,00
+
+01
+
+CC-2
+
+DCI
+
+R$ 1.621,00
+
+R$ 2.500,00
+
+R$ 4.121,00
+
+01
+
+CC-2
+
+DJ
+
+R$ 1.621,00
+
+R$ 2.500,00
+
+R$ 4.121,00
+
+DE
+
+CARGOS COMISSIONADOS – NÍVEL II
+CARGO
+ASSESSORIA DA
+PRESIDÊNCIA
+ASSESSOR DE
+COMUNICAÇÃO
+ASSESSOR LEGISLATIVO
+ASSESSOR ADMINISTRATIVO
+ASSESSOR PARLAMENTAR
+
+QUANTIDADE
+
+CÓDIGO
+
+SÍMBOLO
+
+VENCIMENTO
+
+GRATIFICAÇÃO
+
+REMUNERAÇAO
+
+03
+
+CC-3A
+
+AP
+
+R$ 1.621,00
+
+R$ 1.000,00
+
+R$ 2.621,00
+
+01
+
+CC-3A
+
+AC
+
+R$ 1.621,00
+
+R$ 1.000,00
+
+R$ 2.621,00
+
+02
+03
+10
+
+CC3-3B
+CC3-3B
+CC3-3B
+
+AL
+AA
+APA
+
+R$ 1.621,00
+R$ 1.621,00
+R$ 1.621,00
+
+R$ 300,00
+R$ 300,00
+R$ 300,00
+
+R$ 1.921,00
+R$ 1.921,00
+R$ 1.921,00
+
+MARCÉLIO RODRIGUES UCHÔA
+Prefeito do Município de Nova Mamoré
+ANEXO IV
+LEI Nº 2.456, DE 16 DE DEZEMBRO DE 2025
+TABELA DE VENCIMENTO BÁSICO DOS CARGOS DE PROVIMENTO EFETIVO
+Grupo Nível Superior I (NS-I)
+www.diariomunicipal.com.br/arom
+
+365
+
+Rondônia , 20 de Março de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4196
+
+CLASSES
+A
+B
+C
+D
+
+REFERÊNCIA
+1
+2
+4.835,85
+5.077,64
+5.803,02
+6.093,17
+7.253,77
+7.616,46
+9.671,69
+10.155,28
+
+3
+5.331,52
+6.397,82
+7.997,28
+10.663,04
+
+4
+5.598,10
+6.717,72
+8.397,14
+11.196,19
+
+5
+5.878,00
+7.053,60
+8.817,00
+11.756,00
+
+6
+6.171,90
+7.406,28
+9.257,85
+12.343,80
+
+7
+6.480,50
+7.776,60
+9.720,74
+12.960,99
+
+8
+6.804,52
+8.165,43
+10.206,78
+13.609,04
+
+9
+7.144,75
+8.573,70
+10.717,12
+14.289,49
+
+10
+7.501,98
+9.002,38
+11.252,98
+15.003,97
+
+11
+7.877,08
+9.452,50
+11.815,63
+15.754,17
+
+12
+8.270,94
+9.925,13
+12.406,41
+16.541,88
+
+13
+8.684,49
+10.421,38
+13.026,73
+17.368,97
+
+14
+9.118,71
+10.942,45
+13.678,06
+18.237,42
+
+15
+9.574,64
+11.489,57
+14.361,97
+19.149,29
+
+16
+10.053,38
+12.064,05
+15.080,07
+20.106,75
+
+17
+10.556,05
+12.667,26
+15.834,07
+21.112,09
+
+3
+3.562,51
+4.275,02
+5.343,77
+7.125,03
+
+4
+3.740,64
+4.488,77
+5.610,96
+7.481,28
+
+5
+3.927,67
+4.713,21
+5.891,51
+7.855,34
+
+6
+4.124,06
+4.948,87
+6.186,08
+8.248,11
+
+7
+4.330,26
+5.196,31
+6.495,39
+8.660,52
+
+8
+4.546,77
+5.456,13
+6.820,16
+9.093,54
+
+9
+4.774,11
+5.728,93
+7.161,16
+9.548,22
+
+10
+5.012,81
+6.015,38
+7.519,22
+10.025,63
+
+11
+5.263,46
+6.316,15
+7.895,18
+10.526,91
+
+12
+5.526,63
+6.631,95
+8.289,94
+11.053,26
+
+13
+5.802,96
+6.963,55
+8.704,44
+11.605,92
+
+14
+6.093,11
+7.311,73
+9.139,66
+12.186,22
+
+15
+6.397,76
+7.677,32
+9.596,64
+12.795,53
+
+16
+6.717,65
+8.061,18
+10.076,48
+13.435,30
+
+17
+7.053,53
+8.464,24
+10.580,30
+14.107,07
+
+3
+3.002,27
+3.602,72
+4.503,40
+6.004,53
+
+4
+3.152,38
+3.782,86
+4.728,57
+6.304,76
+
+5
+3.310,00
+3.972,00
+4.965,00
+6.620,00
+
+6
+3.475,50
+4.170,60
+5.213,25
+6.951,00
+
+7
+3.649,27
+4.379,13
+5.473,91
+7.298,55
+
+8
+3.831,74
+4.598,09
+5.747,61
+7.663,48
+
+9
+4.023,33
+4.827,99
+6.034,99
+8.046,65
+
+10
+4.224,49
+5.069,39
+6.336,74
+8.448,98
+
+11
+4.435,72
+5.322,86
+6.653,57
+8.871,43
+
+12
+4.657,50
+5.589,00
+6.986,25
+9.315,00
+
+13
+4.890,38
+5.868,45
+7.335,57
+9.780,75
+
+14
+5.134,90
+6.161,88
+7.702,34
+10.269,79
+
+15
+5.391,64
+6.469,97
+8.087,46
+10.783,28
+
+16
+5.661,22
+6.793,47
+8.491,83
+11.322,45
+
+17
+5.944,28
+7.133,14
+8.916,43
+11.888,57
+
+3
+2.493,05
+2.991,66
+
+4
+2.617,70
+3.141,24
+
+5
+2.748,58
+3.298,30
+
+6
+2.886,01
+3.463,22
+
+7
+3.030,31
+3.636,38
+
+8
+3.181,83
+3.818,20
+
+9
+3.340,92
+4.009,11
+
+10
+3.507,97
+4.209,56
+
+11
+3.683,37
+4.420,04
+
+12
+3.867,53
+4.641,04
+
+13
+4.060,91
+4.873,09
+
+14
+4.263,96
+5.116,75
+
+15
+4.477,16
+5.372,59
+
+16
+4.701,01
+5.641,22
+
+17
+4.936,06
+5.923,28
+
+3
+2.448,76
+2.938,51
+
+4
+2.571,19
+3.085,43
+
+5
+2.699,75
+3.239,70
+
+6
+2.834,74
+3.401,69
+
+7
+2.976,48
+3.571,77
+
+8
+3.125,30
+3.750,36
+
+9
+3.281,57
+3.937,88
+
+10
+3.445,64
+4.134,77
+
+11
+3.617,93
+4.341,51
+
+12
+3.798,82
+4.558,59
+
+13
+3.988,76
+4.786,52
+
+14
+4.188,20
+5.025,84
+
+15
+4.397,61
+5.277,14
+
+16
+4.617,49
+5.540,99
+
+17
+4.848,37
+5.818,04
+
+4
+2.234,22
+2.681,07
+
+5
+2.345,93
+2.815,12
+
+6
+2.463,23
+2.955,88
+
+7
+2.586,39
+3.103,67
+
+8
+2.715,71
+3.258,85
+
+9
+2.851,50
+3.421,80
+
+10
+2.994,07
+3.592,89
+
+11
+3.143,77
+3.772,53
+
+12
+3.300,96
+3.961,16
+
+13
+3.466,01
+4.159,21
+
+14
+3.639,31
+4.367,17
+
+15
+3.821,28
+4.585,53
+
+16
+4.012,34
+4.814,81
+
+17
+4.212,96
+5.055,55
+
+4
+2.217,78
+2.661,34
+
+5
+2.328,67
+2.794,40
+
+6
+2.445,10
+2.934,12
+
+7
+2.567,36
+3.080,83
+
+8
+2.695,73
+3.234,87
+
+9
+2.830,51
+3.396,61
+
+10
+2.972,04
+3.566,45
+
+11
+3.120,64
+3.744,77
+
+12
+3.276,67
+3.932,01
+
+13
+3.440,50
+4.128,61
+
+14
+3.612,53
+4.335,04
+
+15
+3.793,16
+4.551,79
+
+16
+3.982,81
+4.779,38
+
+17
+4.181,96
+5.018,35
+
+Grupo Nível Superior II (NS-II)
+CLASSES
+A
+B
+C
+D
+
+REFERÊNCIA
+1
+2
+3.231,31
+3.392,87
+3.877,57
+4.071,44
+4.846,96
+5.089,31
+6.462,61
+6.785,74
+
+Grupo Nível Superior III (NS-III)
+CLASSES
+A
+B
+C
+D
+
+REFERÊNCIA
+1
+2
+2.723,15
+2.859,30
+3.267,77
+3.431,16
+4.084,72
+4.288,95
+5.446,29
+5.718,60
+
+Grupo Nível Médio Técnico (NMT)
+CLASSES
+A
+B
+
+REFERÊNCIA
+1
+2
+2.261,27
+2.374,33
+2.713,52
+2.849,20
+
+Grupo Nível Médio (NM)
+CLASSES
+A
+B
+
+REFERÊNCIA
+1
+2
+2.221,09
+2.332,15
+2.665,31
+2.798,58
+
+Grupo Nível Fundamental I (NF-I)
+CLASSES
+A
+B
+
+REFERÊNCIA
+1
+2
+1.930,00
+2.026,51
+2.316,01
+2.431,81
+
+3
+2.127,83
+2.553,40
+
+Grupo Nível Fundamental II (NF-II)
+CLASSES
+A
+B
+
+REFERÊNCIA NF-I
+1
+2
+1.915,80
+2.011,59
+2.298,96
+2.413,91
+
+3
+2.112,17
+2.534,61
+
+MARCÉLIO RODRIGUES UCHÔA
+Prefeito do Município de Nova Mamoré
+www.diariomunicipal.com.br/arom
+
+366
+
+Rondônia , 20 de Março de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4196
+Publicado por:
+Josieli de Almeida

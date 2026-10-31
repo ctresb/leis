@@ -1,0 +1,337 @@
+{
+  "estado": "indice_completo",
+  "total": 29,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/plc_08-2021_concessao_abono_aps_prof_da_educacao001.pdf da norma Lei Complementar-PM nº 36, de 26 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "PLC 08/2021",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2022/1/plc_08-2021_concessao_abono_aps_prof_da_educacao001.pdf",
+      "ano": 2022,
+      "norma": 2351
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/490933271758760786846271073218_1.pdf da norma Lei Orgânica-CM nº 1, de 23 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2022/2/490933271758760786846271073218_1.pdf",
+      "ano": 2022,
+      "norma": 2391
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/3/doc_132604922.pdf da norma Lei nº 2.926, de 15 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ADIN \r\nData\t \tMovimento\r\n19/04/2023\t\tPublicado em\r\nDisponibilizado em 18/04/2023 Tipo de publicação: Julgados Número do Diário Eletrônico: 3719",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2016/3/doc_132604922.pdf",
+      "ano": 2016,
+      "norma": 43
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/4/lei_2870-15_-_plano_municipal_da_educacao.pdf da norma Lei nº 2.870, de 24 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2015/4/lei_2870-15_-_plano_municipal_da_educacao.pdf",
+      "ano": 2015,
+      "norma": 105
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/lei_3089-23.pdf da norma Lei-PM nº 3.089, de 07 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO NO DOM \r\nhttp://www.alvaresmachado.sp.gov.br/arquivos/downloads/52263537403066754856889337910.pdf",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2023/5/lei_3089-23.pdf",
+      "ano": 2023,
+      "norma": 2406
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/comissao_especial_ref_lom_-_fls._55_a_66001.pdf da norma Lei Orgânica-CM nº 1, de 23 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Relatório Comissão Especial de Reforma da LOM.",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2022/6/comissao_especial_ref_lom_-_fls._55_a_66001.pdf",
+      "ano": 2022,
+      "norma": 2391
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/7/emissao_f72b876cc72ef3357c5c764c_oficio-173-2023_assinado_versaoimpressao.pdf da norma Emenda à Lei Orgânica Municipal - LOM-CM nº 2, de 13 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "OF CM Nº173/2023 Assunto: Republicação da Emenda à Lei Orgânica n.02/2023 - Correção de Erro Material",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2023/7/emissao_f72b876cc72ef3357c5c764c_oficio-173-2023_assinado_versaoimpressao.pdf",
+      "ano": 2023,
+      "norma": 2431
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/8/errata_dom_quadro_de_emendas_impositivas_-_ex._2024001.pdf da norma Lei-PM nº 3.109, de 13 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ERRATA Quadro Consolidado de Emendas Impositivas",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2023/8/errata_dom_quadro_de_emendas_impositivas_-_ex._2024001.pdf",
+      "ano": 2023,
+      "norma": 2434
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/lei_3110-24001_cm.pdf da norma Lei-CM nº 3.110, de 06 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/9/lei_3110-24001_cm.pdf",
+      "ano": 2024,
+      "norma": 2435
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/lei_3111-24001_cm.pdf da norma Lei-CM nº 3.111, de 07 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/10/lei_3111-24001_cm.pdf",
+      "ano": 2024,
+      "norma": 2436
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/lei_3110-24002.pdf da norma Lei-CM nº 3.110, de 06 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "NORMA PROMULGADA PELA CM",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/11/lei_3110-24002.pdf",
+      "ano": 2024,
+      "norma": 2435
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/lei_3111_2024.pdf da norma Lei-CM nº 3.111, de 07 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "LEI PUBLICADA EM DOM",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/12/lei_3111_2024.pdf",
+      "ano": 2024,
+      "norma": 2436
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/lei_3113-24001.pdf da norma Lei-PM nº 3.113, de 21 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/13/lei_3113-24001.pdf",
+      "ano": 2024,
+      "norma": 2439
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/lei_3112-24001.pdf da norma Lei-PM nº 3.112, de 21 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "https://www.alvaresmachado.sp.gov.br/arquivos/downloads/608941997666859581072802174.pdf",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/14/lei_3112-24001.pdf",
+      "ano": 2024,
+      "norma": 2438
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/lei_3115-24002.pdf da norma Lei-CM nº 3.115, de 27 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre: PROÍBE A QUEIMA,SOLTURA E MANUSEIO DE FOGOS DE ARTIFÍCIOS DE ESTAMPIDO E DE QUISQUER ARTEFATOS PIROTÉCNICOS QUE PRODUZAM ESTAMPIDOS NO MUNICÍPIO DE ÁLVARES MACHADO, EM PROL DA PROTEÇÃO DAS PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA, DO",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/16/lei_3115-24002.pdf",
+      "ano": 2024,
+      "norma": 2441
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/anexo_da_lei_3.141-24.pdf da norma Lei-PM nº 3.141, de 28 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Inclui no Anexo I da Lei nº 3137/2024 as denominações aprovadas através dos PLO 22, 23 e 24/24 AUTORIA: MESA DIRETORA",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/17/anexo_da_lei_3.141-24.pdf",
+      "ano": 2024,
+      "norma": 2481
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/lei_3138_assinada.pdf da norma Lei-PM nº 3.138, de 17 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Roger Fernandes Gasques:35013964814",
+                [
+                  "2024-06-18T08:13:58-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Soraia de Oliveira Silva",
+                [
+                  "2024-06-25T09:49:26-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Tania Negri Garcia",
+                [
+                  "2024-06-18T08:50:45-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Lei 3138/2024 Assinada.",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/18/lei_3138_assinada.pdf",
+      "ano": 2024,
+      "norma": 2478
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/resolucao_05_2024.ri.pdf da norma Resolução Legislativa-CM nº 5, de 03 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Publicação no DOM. https://www.alvaresmachado.sp.gov.br/arquivos/downloads/670846905109887224700739188605.pdf",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/19/resolucao_05_2024.ri.pdf",
+      "ano": 2024,
+      "norma": 2501
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/20/resolucao_001_2025_dom.pdf da norma Resolução Legislativa-CM nº 1, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Resolução 001/2025 publicada no DOM",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2025/20/resolucao_001_2025_dom.pdf",
+      "ano": 2025,
+      "norma": 2536
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/ple-15-25001.pdf da norma Lei-PM nº 3.183, de 21 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a prorrogação da vigência do Plano Municipal de Educação do Município de Álvares Machado e dá outras providências",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2025/21/ple-15-25001.pdf",
+      "ano": 2025,
+      "norma": 2544
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/ple_16-25002.pdf da norma Lei-PM nº 3.184, de 21 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Institui o Plano Municipal de Arborização Urbana de Álvares Machado, estabelece normas para o plantio e manejo de árvores em áreas públicas e privadas, disciplina a vistoria e fiscalização ambiental, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2025/22/ple_16-25002.pdf",
+      "ano": 2025,
+      "norma": 2545
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/lei_complementar_01-2027.pdf da norma Lei-PM nº 3.185, de 10 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Altera alíquota da Lista de Serviços da Lei Complementar nº 1, de 26 de dezembro de 2.007.",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2025/23/lei_complementar_01-2027.pdf",
+      "ano": 2025,
+      "norma": 2546
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/24/ple_17-11001.pdf da norma Lei-PM nº 2.723, de 09 de agosto de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre: O Plano de Empregos Públicos , carreira e remuneração dos servidores Públicos do Executivo municipal e dá outras providências.",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2011/24/ple_17-11001.pdf",
+      "ano": 2011,
+      "norma": 284
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/25/ple_17-11001.pdf da norma Lei Complementar-PM nº 43, de 04 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2022/25/ple_17-11001.pdf",
+      "ano": 2022,
+      "norma": 2384
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/26/8138570988325195068785155837805.pdf da norma Decreto Legislativo-CM nº 2, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Publicado no Diário Oficial do Município no dia 06/05/2026.",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2026/26/8138570988325195068785155837805.pdf",
+      "ano": 2026,
+      "norma": 2587
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/27/ple_10-26_na_integra.pdf da norma Lei-PM nº 3.221, de 04 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Altera dispositivos das Leis Municipais nº 1.768, de 3 de abril de 1991; nº 2.017, de 11 de setembro de 1996; nº 2.078, de 26 de setembro de 1997; nº 2.406, de 24 de novembro de 2005; nº 2.545, de 4 de abril de 2008; nº 2.554, de 21 de maio de 2008;",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2026/27/ple_10-26_na_integra.pdf",
+      "ano": 2026,
+      "norma": 2597
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/29/acordao_-_adi_-_subsidios.pdf da norma Resolução Legislativa-CM nº 6, de 03 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "DIREITO CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. RESOLUÇÃO LEGISLATIVA MUNICIPAL Nº 06, DE 10 DE DEZEMBRO DE 2024, DO MUNICÍPIO DE ÁLVARES MACHADO. AGENTES PÚBLICOS. AGENTES POLÍTICOS PARLAMENTARES. REMUNERAÇÃO. SUBSÍDIOS. FIXAÇÃO. AÇÃO",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/29/acordao_-_adi_-_subsidios.pdf",
+      "ano": 2024,
+      "norma": 2504
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/30/resolucao_06_2024.revoga_fixacao_de_subsidio.dom_1.pdf da norma Resolução Legislativa-CM nº 6, de 03 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Resolução",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2024/30/resolucao_06_2024.revoga_fixacao_de_subsidio.dom_1.pdf",
+      "ano": 2024,
+      "norma": 2504
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/31/lei_3179-25_dom.pdf da norma Lei-PM nº 3.179, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "DOM.",
+      "anexo_arquivo": "http://sapl.alvaresmachado.sp.leg.br/media/sapl/public/anexonormajuridica/2025/31/lei_3179-25_dom.pdf",
+      "ano": 2025,
+      "norma": 2539
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvaresmachado.sp.leg.br/ce43877be4caefe912bfd569348083a6830e51e5362f5f45d6f30c7e58f7cb91.json",
+      "url": "https://sapl.alvaresmachado.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.alvaresmachado.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4c6ad6f796af1026ff22a8fef4d38bfb71c68fbac4ee05deecfd90b730d7228f",
+      "bytes": 14719,
+      "capturado_em": "2026-10-21T05:34:20.654301-03:00"
+    }
+  ]
+}

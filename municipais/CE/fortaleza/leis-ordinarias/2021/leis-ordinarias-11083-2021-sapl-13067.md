@@ -1,0 +1,141 @@
+---
+titulo: "Lei Ordinária nº 11.083, de 16 de março de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11083"
+data: "2021-03-16"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13067"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3969/text"
+sha256_fonte: "92152a99193d4ed1d528710b2f70cd99816805c27f55faf05f2962b5cdcd2e09"
+sha256_texto: "690377feee9d0636bfe225ecaf6ad525b304cfe0ea47a2b98be9b4eba43db032"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.083, de 16 de março de 2021
+
+Dispõe sobre o serviço de entrega e coleta de pequenas cargas no Município de Fortaleza e altera os arts. 1º, 2º e 5º da Lei n° 10.441, de 13 de janeiro de 2016.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+O art. 1º da Lei nº 10.441, de 13 de janeiro de 2016, passa a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+Fica acrescido o parágrafo único ao art. 2º da Lei nº 10.441, de 13 de janeiro de 2016, com a seguinte redação:
+
+
+Art. 3º.
+
+O art. 5º da Lei nº 10.441, de 13 de janeiro de 2016, passa a vigorar com a seguinte redação:
+
+
+Art. 4º.
+
+Os veículos a serem utilizados no serviço de entrega e coleta de pequenas cargas de que trata a presente Lei deverão passar pela vistoria anual do órgão gestor de transporte, mediante guia de apresentação expedida pela Cooperativa dos Freteiros de Fortaleza.
+
+
+Parágrafo único.
+
+Os veículos deverão possuir adesivo com a marca da Cooperativa dos Freteiros de Fortaleza a ser apregoado nas portas laterais.
+
+
+Art. 5º.
+
+Os serviços de entrega e coleta de pequenas cargas deverão ser realizados por pessoa física, identificada como transportador autônomo de pequenas cargas, mediante autorização do órgão gestor de transporte.
+
+
+Art. 6º.
+
+Para celebração do Termo de Autorização para a atividade de transportador autônomo de pequenas cargas, os interessados deverão protocolar requerimento na Empresa de Transporte Urbano de Fortaleza – ETUFOR – instruído com os seguintes documentos:
+
+
+I –
+
+Carteira Nacional de Habilitação da categoria B ou acima, com observação de que exerce atividade remunerada;
+
+
+II –
+
+Cédula de Identidade e CPF;
+
+
+III –
+
+certidão negativa de tributos municipais;
+
+
+IV –
+
+comprovante de residência, emitido há, no máximo, 60 (sessenta) dias;
+
+
+V –
+
+atestado médico de capacidade física e de sanidade mental, emitido há, no máximo, 30 (trinta) dias;
+
+
+VI –
+
+certidão negativa do registro de distribuição criminal federal e estadual;
+
+
+VII –
+
+Certificado de Registro e Licenciamento do Veículo (CRLV) em nome do autorizatário;
+
+
+VIII –
+
+Carteira Padrão emitida pelo órgão gestor de transporte.
+
+
+Art. 7º.
+
+O Termo de Autorização para a atividade de transportador autônomo de pequenas cargas deverá ser licenciado anualmente.
+
+
+Art. 8º.
+
+O exercício regular da atividade de transportador autônomo de pequenas cargas só se dará com a emissão de Carteira Padrão de transporte no nome do transportador após a participação em curso profissional a ser ministrado pelo órgão gestor de transporte, em parceria com a Cooperativa dos Freteiros de Fortaleza.
+
+
+§ 1º
+
+A Carteira Padrão terá validade de 2 (dois) anos e poderá ser renovada mediante procedimento previsto em portaria da ETUFOR.
+
+
+§ 2º
+
+A exigência de que trata o caput deste artigo entrará em vigor após 18 (dezoito) meses da publicação deste diploma, tempo necessário para que todos os interessados participem do curso profissional.
+
+
+Art. 9º.
+
+Ficam criados os pontos de frete, onde o transportador autônomo de pequenas cargas terá autorização para ficar estacionado aguardando as solicitações dos clientes.
+
+
+Art. 10.
+
+Os pontos de frete serão demarcados pelo órgão gestor de transporte, com base em estudos da Gerência de Engenharia de Trânsito, ficando a cargo do órgão de trânsito do Município a instalação das placas de regulamentação após prévio estudo de viabilidade técnica.
+
+
+Art. 11.
+
+Esta Lei entra em vigor imediatamente após a data da sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 16 DE MARÇO DE 2021.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA Prefeito Municipal de Fortaleza**
+

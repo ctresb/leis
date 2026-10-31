@@ -1,0 +1,288 @@
+---
+titulo: "Lei Ordinária nº 1.432, de 15 de julho de 1987"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1432"
+data: "1987-07-15"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4469"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4508/text"
+sha256_fonte: "940b68e20561c4e96eb6452c10570d556184ad2c4426a6b142af0df46fe75610"
+sha256_texto: "1bec807cb192aaada9ae7e48cadeeda4c58a9bb088cf384a81f5df65d078e1e2"
+capturado_em_fonte: "2026-10-27T22:02:48.748799-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.432, de 15 de julho de 1987
+
+AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município do Cabo, Estado de Pernambuco, Sr. ELIAS GOMES DA SILVA, no uso de suas atribuições legais;
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir Crédito Suplementar no valor de Cz$ 12.915.000,00 (Doze milhões novecentos e quinze mil cruzados), para reforço das seguintes dotações orçamentárias:
+
+**1000 CÂMARA MUNICIPAL DO CABO**
+
+**01010012.01 – Manutenção dos Serviços da Câmara**
+
+3111 Pessoal Civil: Cz$ 2.400.000,00
+
+3131 Remuneração de serviços sociais: Cz$ 250.000,00
+
+**01010012.02 Encargos com sentenças judiciárias**
+
+3191 Sentenças Judiciárias: Cz$ 200.000,00
+
+**01010012.05 Auxílios a pessoas carentes**
+
+3259 Outras transferências a pessoas: Cz$ 200.000,00
+
+**08472352.06 Apoio financeiro a estudantes carentes**
+
+3254 Apoio financeiro a Estudantes: Cz$ 80.000,00
+
+**15814862.08 Proventos a inativos**
+
+3251 Inativos: Cz$ 80.000,00
+
+**1100 GABINETE DO PREFEITO**
+
+**03070202.12 Manutenção dos serviços do Gabinete**
+
+3111 Pessoal civil: Cz$ 500.000,00
+
+**1200 Secretaria de Governo**
+
+**03090402.12 Manutenção dos serviços da Secretaria**
+
+3111 Pessoal civil: Cz$ 715.000,00
+
+**10583231.06 Empresa de Urbanização do Cabo – URB**
+
+3213 Contribuições correntes: Cz$ 200.000,00
+
+**1300 Procuradoria Jurídica**
+
+**02040142.14 Manutenção dos serviços da Procuradoria**
+
+3132 Outros Serviços e encargos: Cz$ 50.000,00
+
+**1400 Secretaria Geral de Planejamento**
+
+**03090402.16 Manutenção dos serviços da Secretaria**
+
+3111 Pessoal civil: Cz$ 700.000,00
+
+**1700 Secretaria de Transportes e Obras Públicas**
+
+**10583232.25 Manutenção dos serviços da Secretaria**
+
+3132 Outros Serviços e encargos: Cz$ 700.000,00
+
+**1800 Secretaria de Serviços Urbanos**
+
+**10603252.27 Manutenção dos serviços da Secretaria**
+
+3111 Pessoal civil: Cz$ 800.000,00
+
+3131 Remuneração dos serviços pessoais: Cz$ 600.000,00
+
+**10603251.41 Aquisição de Equipamentos e Material Permanente**
+
+4120 Equipamentos e Material Permanente: Cz$ 2.000.000,00
+
+**1900 Secretaria de Agricultura, Indústria e Comércio**
+
+**03090402.28 Manutenção dos Serviços da Secretaria**
+
+3111 Pessoal civil: Cz$ 300.000,00
+
+3120 Material de consumo: Cz$ 100.000,00
+
+3132 Outros serviços e encargos: Cz$ 50.000,00
+
+**2000 Secretaria de Administração**
+
+**03070212.30 Ajuda para manutenção de órgãos federais e estaduais**
+
+3222 Transferência ao Estado e ao Distrito Federal: Cz$ 200.000,00
+
+**15824952.33 Encargos Contratuais e pensionistas**
+
+3252 Pensionistas: Cz$ 150.000,00
+
+**2100 Secretaria de Finanças**
+
+**03080302.35 Manutenção dos serviços da Secretaria**
+
+3111 Pessoal Civil: Cz$ 500.000,00
+
+3132 Outros serviços e encargos: Cz$ 240.000,00
+
+**03080332.37 Encargos da dívida interna**
+
+3265 Juros de outras dívidas: Cz$ 800.000,00
+
+**2200 DISTRITOS**
+
+**03070212.39 Manutenção da Administração Distrital**
+
+3111 Pessoal civil: Cz$ 650.000,00
+
+3120 Material de Consumo: Cz$ 300.000,00
+
+3131 Remuneração de serviços pessoais: Cz$ 150.000,00
+
+**TOTAL:** Cz$ 12.915.000,00
+
+
+Art. 2º.
+
+Para abertura do Crédito Suplementar de que trata o artigo anterior, serão utilizados os recursos da anulação parcial das seguintes dotações orçamentárias:
+
+**1100 Gabinete do Prefeito**
+
+**03070202.12 – Manutenção dos serviços do Gabinete**
+
+3120 Material de consumo: Cz$ 50.000,00
+
+3131 Remuneração de Serviços Pessoais: Cz$ 200.000,00
+
+3132 Outros serviços e encargos: Cz$ 100.000,00
+
+**03070201.02 Aquisição de Equipamentos e Material Permanente**
+
+4120 Equipamentos e Material Permanente: Cz$ 150.000,00
+
+**1200 Secretaria de Governo**
+
+**03090401.03 Ajuda financeira a diversas entidades**
+
+3231 Subvenções sociais: Cz$ 200.000,00
+
+**03090401.04 Reforma em prédios públicos**
+
+4110 Obras e instalações: Cz$ 515.000,00
+
+**1300 Procuradoria Jurídica**
+
+**02040142.14 – Manutenção dos serviços da Procuradoria**
+
+3120 Material de consumo: Cz$ 20.000,00
+
+3331 Remuneração de serviços pessoais: Cz$ 10.000,00
+
+**02040141.07 Aquisição de Equipamentos e Material Permanente:**
+
+4120 Equipamentos e material permanentes: Cz$ 20.000,00
+
+**1400 Secretaria Geral de Planejamento**
+
+**03090402.17 Ajuda financeira a diversas entidades**
+
+3231 Subvenções sociais: Cz$ 300.000,00
+
+**03090401.08 Aquisição de equipamentos e Material Permanente**
+
+4120 Equipamentos e Material Permanente: Cz$ 250.000,00
+
+**10583231.10 Manutenção dos serviços da Divisão**
+
+3131 Remuneração de Serviços Pessoais: Cz$ 50.000,00
+
+3132 Outros serviços e encargos: Cz$ 800.000,00
+
+**1700 Secretaria de Transportes e Obras Públicas**
+
+**10583231.26 – Aquisição de Equipamentos e Material Permanente**
+
+4120 Equipamentos e material Permanente: Cz$ 1.200.000,00
+
+**10583231.27 Aquisição e desapropriação de imóveis**
+
+4210 Obras e instalações: Cz$ 300.000,00
+
+**13764471.32 Construção de Chafariz, Caixas d'água coletivas e poços artesianos coletivos**
+
+4110 Obras e Instalações: Cz$ 300.000,00
+
+**1800 Secretaria de Serviços Urbanos**
+
+**10603252.27 Manutenção dos serviços da Secretaria**
+
+3130 Material de consumo: Cz$ 700.000,00
+
+3132 Outros serviços e encargos: Cz$ 300.000,00
+
+**13764491.43 Desobstrução, revestimento e recuperação de canais, valetas e bueiros**
+
+4110 Obras e Instalações: Cz$ 700.000,00
+
+**16915731.44 Implantação de sinalização**
+
+4110 Obras e Instalações: Cz$ 300.000,00
+
+**1900 Secretaria de Agricultura, Indústria e Comércio**
+
+**03100561.48 Progr. de implantação de Bio Digestor, com composteira e usina de lixo**
+
+4130 Inv. em regime de execução especial: Cz$ 150.000,00
+
+**04140801.49 Programa de expansão agrícola**
+
+4130 Inv. em regime de execução especial: Cz$ 100.000,00
+
+**04150891.50 Programa de desenvolvimento de Pesca e da piscicultura**
+
+4130 Inv. em regime de execução especial: Cz$ 200.000,00
+
+**2000 Secretaria de Administração**
+
+**03070211.54 Reforma e ampliação da Secretaria e da Garagem**
+
+4110 Obras e Instalações: Cz$ 200.000,00
+
+**15824922.32 Contribuição para Previdência Social (IAPAS, FGTS e IPSEP)**
+
+3113 Obrigações Patronais: Cz$ 2.500.000,00
+
+**2100 Secretaria de Finanças**
+
+Reserva de contingência: Cz$ 2.000.000,00
+
+**2200 DISTRITOS**
+
+**03070211.57 Reposição e pavimentação de Calçamento**
+
+4110 Obras e Instalações: Cz$ 1.000.000,00
+
+**03070211.58 Aquisição de Equipamentos e Material Permanente**
+
+4120 Equipamentos e Material Permanente: Cz$ 300.000,00
+
+**TOTAL:** Cz$ 12.915.000,00
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 15 de julho de 1987.
+
+**ELIAS GOMES DA SILVA**
+
+Prefeito
+

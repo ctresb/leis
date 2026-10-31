@@ -1,0 +1,189 @@
+---
+titulo: "LEI Nº 1.885 DE 06 DE ABRIL DE 2026."
+uf: "RO"
+municipio: "CANDEIAS DO JAMARI"
+tipo: "Lei Ordinária"
+numero: "1885"
+data: 2026-04-06
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 08/04/2026"
+data_publicacao: 2026-04-08
+codigo_identificador: "F3C0243B"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116040_2026-04-07_262b6052aafc09298e27d40cf2b9b2d2.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1.885 DE 06 DE ABRIL DE 2026.
+
+LEI Nº 1.885 DE 06 DE ABRIL DE 2026.
+―Altera a Lei Municipal nº 1.238/2021, em virtude da
+mudança de valores da Unidade de Padrão Fiscal
+(UPF), instituída pelo Novo Código Tributário de
+Candeias do Jamari. Altera dispositivos do Capítulo
+
+LEI:
+Art. 1º O Capítulo XIII da Lei Municipal nº 133, de 04 de dezembro
+de 1998, passa a denominar-se:
+CAPÍTULO XIII – DA LIMPEZA DOS TERRENOS, IMÓVEIS
+E AFINS, LOGRADOUROS NAS ÁREAS URBANAS, E SUAS
+EXPANSÕES URBANA, VILAS E DISTRITOS.
+Art. 2º O artigo 135 da Lei nº 133/1998 passa a vigorar com a
+seguinte redação:
+Art. 135 – Os terrenos e imóveis edificados ou não localizados nas
+áreas urbanas e com característica urbanas. Nas áreas expansão
+urbana, vilas e distritos deste Município deverão ser notificados os
+proprietários ou ocupantes de boa fé ou responsáveis pela localidade
+que estejam em desacordo com o termos dessa lei . Os proprietários de
+terrenos devem manter limpos, capinados, roçados e isentos de
+qualquer material nocivo à saúde pública, à segurança ou ao meio
+ambiente, ou que prejudique a vizinhança e a coletividade.
+§ 1º Considera-se necessária a roçada e limpeza do imóvel ou terreno
+baldio sempre que a vegetação ultrapassar a altura de 0,60 m (sessenta
+centímetros) do solo, devendo a limpeza ocorrer sempre que ocorrer
+crescimento acima 60 centímetros ou conforme necessidade apurada
+pela fiscalização.
+§ 2º Nos terrenos referidos neste artigo, não será permitido o depósito
+de lixo doméstico, resíduos, entulhos, poda de árvores, fossas abertas
+escoando nas ruas , águas servidas oriundas de piscina sumidouros ,
+reservatórios de águas servidas lançadas diretamente na ruas,de
+lavadores de carros ou de qualquer natureza além de escombros,
+edificações inabitáveis ou inacabadas casos e comercio abandonados
+que representem risco à saúde pública e segurança. Sendo aplicado
+para todos o casos multas conforme estipulado nesse projeto de lei.
+§ 3º Os resíduos sólidos lixo comercial e Industrial ou de grande
+proporção exemplo resto de construção civil , lixo hospitalar entre
+outros deverá ser destinados recolhido e destinados pelo dono ou pelos
+responsáveis do empredimento que produziu o resíduo. ressalvadas
+casos específicos bem justificadas o município poderá proceder o
+recolhimento, Nos casos de empreendedores particulares que fizerem
+o recolhimento dos resíduos em Candeias do Jamari a destinação e
+localidade para armazenamento fica por conta do fornecedor podendo
+a prefeitura formalizar termo de cooperação para esse fim.
+§4º A Energisa caso necessário realize podas de árvores ou similar
+terá o prazo de 24 horas para retirar os entulhos produzidos na ação,
+não assim procedendo o município notificara a empresa podendo ser
+multado nos termos dessa lei bem como enviar a cobrança via
+cartório.
+§ 5º Os moradores que necessitem cortar ou desgalhar árvores em ruas
+ou no seu próprio quintal ou residência deverá comunicar a prefeitura
+através do seu departamento de postura com antecedência de no
+mínimo 15 dias , podendo ser multado nos termos tensa lei caso a
+comunicação não há seja feita ,deverá ainda o morador providenciar
+meios para retirar e destinar os resíduos referente a podas de árvores e
+lixos de grande proporção. O morador mostrando que não há
+condições No da retirada do entulhos a prefeitura realizar a retirada
+dos resíduos caso
+
+www.diariomunicipal.com.br/arom
+
+56
+
+Rondônia , 08 de Abril de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4208
+§ 6º Desde que seja comprovada a baixa renda do Munícipe o mesmo
+fica isento do valor das taxas estipuladas neste projeto de lei quanto a
+poda de árvores ou a retirada de outro tipo de lixo de grande
+proporção poderá o município recolher os resíduos oriundos das podas
+desde que seja comunicada ao departamento de postura com no
+mínimo no 15 dias de antecedência.
+§ 7º Quando o proprietário, possuidor ou responsável pelo imóvel ou
+posseiro de boa fé não cumprir as disposições deste artigo, a
+Coordenadoria Municipal de Posturas deverá notificá-lo para que, no
+prazo de até quinze (15) dias, tome as providências necessárias para o
+seu cumprimento conforme descrito na notificação.
+§ 8º A notificação poderá ser realizada pessoalmente, por
+correspondência, aplicativo de mensagens (WhatsApp), ou, caso não
+seja possível localizá-lo, a notificação será feita por edital eletrônico
+ou afixado nos murais da Prefeitura, Câmara ou qualquer lugar
+público de uso diário.no Município, No site oficial da administração,
+ou publicado no Diário Oficial dos Municípios que esteja em uso.
+§ 9º Da notificação e das penalidades previstas neste artigo o
+responsáveis ou proprietários da área da notificação terá como prazo
+do contraditório o prazo de 5 (cinco) dias úteis, para pronunciar
+referente a notificação atendendo o teor da notificação ou dirigido ao
+departamento de postura órgão competente para dirimir dúvidas ou
+assinar termo de compromisso da obrigação de fazer . Essa medida
+oferece o direito do contraditório e a ampla defesa.
+§ 10 -Não sendo cumpridas as medidas que motivou a notificação no
+prazo estabelecido, será aplicada multa no valor de 1,33 (uma virgula
+trinta e três) UPFs – Unidade Padrão Fiscal de Candeias do Jamari,
+correspondente ao valor mínimo da penalidade administrativa prevista
+neste artigo, lançada de imediato no cadastro fiscal do imóvel.
+§ 11 Em caso de persistência nova notificação com mesmo valor, com
+oferecendo mais quinze (15 ) dias. não sendo atendida os termos da
+notificação será aplicada multa de 1,77 (uma virgula setenta e sete)
+UPFs, correspondente ao valor da penalidade administrativa prevista
+neste artigo, podendo o departamento de postura lançar até 5 multas
+anuais por falta de atendimento das notificaçoes ou pela multas pelos
+descumprimentos das notificações, sendo registrado os lançamentos
+das multas no setor de cadastro fiscal do imóvel no departamento de
+regularização fundiária do município, ou no departamento da receita
+do município, as multas oriundas das notificações serão cobradas de
+forma imediata ou em até trinta dias a partir da notificação sem
+acréscimos de juros e multas oriundas das sanções, nos casos de atraso
+será aplicada juros e multas e todas as correções necessárias, nos casos
+que dentro do exercício não forem pagas poderá ser lançada na mesma
+guia de IPTU anual ou outra que venha substituir no ano seguinte caso
+o imóvel não esteja cadastrado as sanções multas serão lançadas no
+CPF do ocupante de boa fé.
+§ 12 O não atendimento por parte do responsável pelo imóvel a
+Prefeitura poderá sem consentimento do suposto proprietário entrar
+dentro do imóvel e executar os serviços de roçada e/ou limpeza,
+lançando os custos no cadastro ou no CPF do proprietário ou
+ocupantes de boa fé conforme os seguintes valores:
+
+Administração pública Municipal adotar a reversão do imóvel em
+favor do município incorporando ao patrimônio da Prefeitura de
+Candeias do Jamari, essa medida extra judicial só se dará nos casos
+em que os supostos passeiros ou proprietários de boa fé não serem
+localizados de forma presencialmente ou através de publicação de
+chamamento por meio eletrônico ou site usado pela Prefeitura ou por
+meio judiciais cabíveis. Todas medidas devem respeitar o devido
+processo legal e a legislação aplicável, ao fim das medidas verificando
+que a pessoa encontra se em lugar incerto e não sabido o suposto
+proprietário ou ocupantes de boa fé perderá o direito da manutenção
+da posse ou da propriedade caso haja cadastramento na regularização
+fundiária poderá ser cancelado cadastro ou outro tipos tipo de registro
+o junto ao órgão sendo feita a incorporação automática do imóvel ao
+patrimônio público municipal podendo a prefeitura realizar demolição
+de construções antigas que ultrapasse os dois anos estipulados nesta
+lei , estando as edificações em ruínas e sujos vem com servindo de
+esconderijo para produtos de roubos entre outros afins sem prejuízo ao
+município .
+§ 16. Nos casos em que terrenos tenham construções,
+abandonadas,sem habitação sem que o suposto dono manifeste o
+Município poderá realizar a reversão do terreno ao patrimônio da
+Prefeitura de Candeias do Jamari isso após laudo técnico da equipe da
+regulação fundiária inclusive com assinatura de engenheiro podendo a
+prefeitura após laudo técnico assinado por engenheiro e comissão
+instituída para esse fim da Regularização Fundiária do município
+realizar a desapropriação da área com ou sem ônus para a
+municipalidade.
+§ 17 Considera-se imóvel urbano não utilizado com edificação ou não
+, nos casos que esteja desocupada, abandonada, ou em estado de
+abandono, paralisada ou em ruína servindo como esconderijo de
+produtos não lícitos e afins.
+§ 18O município abrirá uma conta específica para arrecadação das
+taxas e multas e fins dos contidos nessa lei ficando a secretaria de
+fazenda e do departamento de fiscalização a cargo de acompanhar.
+Podendo ainda para o bom andamento dessa lei o departamento de
+postura solicitar apoio de qualquer secretaria ou gabinete bem como
+da polícia militar e civil para o devido comprimento dessa norma.
+Art. 3º Poderá o poder Executivo Municipal regulamentar esta Lei,
+por decreto, no que couber, no prazo de até 60 (sessenta) dias,
+especialmente quanto ao modelo de notificação, forma de cálculo dos
+débitos, processamento dos recursos administrativos e procedimentos
+administrativos correlatos.
+Art. 4º Ficam revogados os seguintes dispositivos da Lei Municipal nº
+1.238, de 2021: I – o artigo 5º, §§ 1º, 2º e 8º; II – o artigo 6º, §§ 1º, 2º,
+3º, 4º e 5º.
+Art. 5º Permanecem inalterados os demais dispositivos da Lei
+Municipal nº 1.238/2021.
+Art. 6º Esta Lei entra em vigor na data de sua publicação .
+LINDOMAR BARBOSA ALVES
+Prefeito
+
+I – 0,0040 (UPFPMCJ) por metro quadrado – roçada;
+
+Publicado por:
+Ricardo Giovani Vieira Cardoso

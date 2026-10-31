@@ -1,0 +1,89 @@
+---
+titulo: "Lei Ordinária nº 1.956, de 15 de setembro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1956"
+data: "1980-09-15"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1978"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2823/text"
+sha256_fonte: "17f7fd8fe1e615a4e37f2fa755a6b629875924db63f349be826446ab7c440182"
+sha256_texto: "0662805bbe8f1c472516821696874b4b44f027c52b18cf05131839122acae308"
+capturado_em_fonte: "2026-10-27T18:50:44.616636-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.956, de 15 de setembro de 1980
+
+DISPÕE SOBRE CONTRATAÇÃO DE EMPRÉSTIMO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eu, **ODEYR RAMOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Para pagamento de 01 (um) equipamento para execução de guias e sarjetas in loco, por extrusão, marca **PAVIMAK I**, modelo **502-E** com partida elétrica, equipado com motor diesel marca Tietê de 14 cv., objeto da Tomada de Preços nº 18/1980, fica o Prefeito Municipal autorizado a contrair empréstimo junto a uma instituição financeira oficial ou particular, até o montante de Cr$ 547.653,24 (quinhentos e quarenta e sete mil, seiscentos e cinquenta e três cruzeiros e vinte e quatro centavos), assinando o respectivo contrato e assumindo as obrigações decorrentes de financiamento.
+
+
+Parágrafo único
+
+Como garantia de operação de crédito, e equipamento a ser adquirido pode ser alienado fiduciariamente à instituição financeira credora, nos termos e para os efeitos de artigo 66 e parágrafos da Lei nº 4.728, de 14 de julho de 1965, com a redação e as normas processuais adotadas pelo Decreto-Lei nº 911, de 1º de outubro de 1969.
+
+
+Art. 2º.
+
+A contabilização da despesa de aquisição de equipamento correrá por conta da verba 6 – SERVIÇOS MUNICIPAIS – 6.9 – LOGRADOUROS PÚBLICOS – 10583231.15 /4110 – Construção de guias e sarjetas, - do orçamento municipal vigente.
+
+
+Art. 3º.
+
+A amortização de empréstimo, incluídos os encargos complementares, no presente exercício, correrá por conta de crédito especial de Cr$ 60.000,00 (sessenta mil cruzeiros), a ser aberto por decreto e coberto com recursos de financiamento contraído.
+
+
+Parágrafo único
+
+Os orçamentos futuros do Município consignarão, obrigatoriamente, as dotações necessárias a liquidação dos compromissos derivados desta lei.
+
+
+Art. 4º.
+
+A amortização de empréstimo e o pagamento dos respectivos encargos financeiros de qualquer natureza, acessórios, acréscimos previstos e multa serão efetivados mediante aplicações de quota que for creditada ao Município de corrente da arrecadação do Imposto da Circulação de Mercadorias (ICM), nos termos do artigo 23, § 8º, da Constituição da República Federativa do Brasil.
+
+
+§ 1º
+
+Na hipótese de insuficiência, cancelamento ou suspensão das quotas de ICM, os pagamentos serão realizados mediante a aplicação de outros recursos, quer incluídos no orçamento municipal, que extraorçamentários, tais como, as quotas do Fundo Rodoviário Nacional e do Fundo de Participação dos Municípios.
+
+
+§ 2º
+
+O Prefeito Municipal poderá autorizar, de forma irrevogável, o Banco do Estado de São Paulo, S.A., ou a instituição assemelhada, a contabilizar, a débito da cota do Município em que forem creditadas as quotas ou recursos referidos neste artigo, as importâncias correspondentes à liquidação das obrigações derivadas desta lei.
+
+
+Art. 5º.
+
+Fica o Prefeito Municipal autorizado a outorgar, em nome do Município, procuração à Agencia Especial de Financiamento Industrial FINAME, criada pelo Decreto Federal nº 59.170, de 2 de setembro de 1966, ou a outra instituição financeira que participe do financiamento, com cláusula expressa de substabelecer o mandado, para receber do banco do Estado de São Paulo, S.A., ou instituição de crédito assemelhada, as quotas que lhe couberem nas receitas referidas no artigo 4º, até o montante necessário para liquidar as obrigações a serem contraídas pela execução da presente lei.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos quinze de setembro de mil novecentos e oitenta.
+
+**ODEYR RAMOS Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos quinze de setembro de mil novecentos e oitenta, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

@@ -1,0 +1,156 @@
+---
+titulo: "Lei Ordinária-PMEPF nº 1.687, de 30 de setembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1687"
+data: "2024-09-30"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1925"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1515/text"
+sha256_fonte: "1c591f91c0dfc44d4e48ebc4885f5fe417aa61c224b2474c4fdf172602f3a206"
+sha256_texto: "a74d307ef0deccdd4188036945d9d98ea0bd7b6c7a6aaf9e613c60930d3bd7b6"
+capturado_em_fonte: "2026-10-28T10:38:17.779848-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-PMEPF nº 1.687, de 30 de setembro de 2024
+
+Ementa: dispõe sobre Instituir a Campanha de Adoção Consciente - Meu Amigo Animal - "Dezembro Caramelo" - dedicado à realização de ações educativas e reflexão sobre o abandono de Animais.
+
+
+Institui a campanha - MEU AMIGO ANIMAL - Dezembro "Caramelo" combate ao abandono de animais no município de Engenheiro Paulo de Frontin
+
+
+A CÂMARA MUNICIPAL DE ENGENHEIRO PAULO DE FRONTIN, no uso das atribuições que lhe são conferidas pela legislação em vigor, aprova, e o Prefeito Municipal sanciona e promulga a seguinte,
+
+
+**LEI MUNICIPAL:**
+
+
+Art. 1º.
+
+Fica instituído no Município de Engenheiro Paulo de Frontin, a campanha, **Meu Amigo Animal - Dezembro "Caramelo**" dedicado à realização de ações educativas e de reflexão sobre o abandono de animais, bem como a promoção da Adoção Consciente e/ou Posse Responsável.
+
+
+Art. 2º.
+
+A campanha - **Meu Amigo Animal - Dezembro "Caramelo"** tem como objetivos:
+
+
+I –
+
+Conscientizar a população de que o abandono de animais é crime, além de ser ato de maus-tratos; (passível de prisão), na forma do Código Penal e Processo Penal.
+
+
+II –
+
+Informar como qualquer pessoa pode denunciar casos de abandono, maus-tratos e crueldades contra animais;
+
+
+III –
+
+dar maior visibilidade ao tema estimulando a guarda responsável e a prevenção ao abandono de animais;
+
+
+IV –
+
+Contribuir para melhoria dos indicadores relativos ao abandono de animais no Município de Engenheiro Paulo de Frontin;
+
+
+V –
+
+Ampliar o nível de resolução das ações direcionadas ao abandono de animais por meio de ações integradas envolvendo a população, órgãos públicos e organizações que atuam na área.
+
+
+VI –
+
+Realizar ações de conscientização, como eventos, ações nas mídias digitais e divulgação de material informativo sobre os temas;
+
+
+VII –
+
+estimular eventos e iluminação na cor Caramelo, sempre que possível, nas edificações públicas;
+
+
+Art. 3º.
+
+A campanha será realizada através de eventos e de divulgação de material publicitário sobre o tema, podendo ser materiais impressos, bem como nas mídias digitais, através dos sites dos órgãos Municipal.
+
+
+Art. 4º.
+
+A campanha deverá ser realizada anualmente no mês de dezembro, época em que o número de abandono de animais aumenta em razão da proximidade das férias.
+
+
+**DA ADOÇÃO CONSCIENTE / POSSE RESPONSÁVEL**
+
+
+Art. 5º.
+
+A adoção consciente se dará por livre interesse de qualquer pessoa, mediante cadastramento a secretaria da saúde, desde que atenda para os requisitos e responsabilidades firmados no ato da adoção.
+
+
+I –
+
+Aqueles que se mostrarem interessados na adoção consciente terão que atender os seguintes requisitos: Idoneidade Moral (Certidão Criminal Negativa), deverá ser residente do Município, ter Idade Mínima de 18 anos.
+
+
+II –
+
+Aqueles que ficarem aptos a realizar a adoção consciente, se comprometerão a realizar todos os atos necessários para o bem estar e saúde dos animais adotados, permanência em local seguro e limpo, não exposto ao frio extremo ou calor, bem alimentado, seguir e manter o cronograma vacinação em dia conforme orientação dos órgãos de saúde.
+
+
+III –
+
+Os animais adotados e ainda não castrados, os adotantes poderão fazer uso do serviço de Castração na forma Lei 1.498 de 09 de março de 2021.
+
+
+IV –
+
+(VETADO)
+
+
+V –
+
+Após efetivada a ação, O adotante a qualquer momento deverá franquear acesso dos agentes de saúde para realização de vistoria aos animais adotados, pelos primeiros 6 meses a data da adoção.
+
+
+Art. 6º.
+
+Para atender o disposto no inciso IV, do artigo antecedente, fica alterada a redação da Lei 1.635 de 23 de agosto de 2023, para incluir a alinea "e" no Incido II do artigo 4º com a seguinte redação:
+
+
+Art. 7º.
+
+A fim de promover a adoção consciente de forma eficaz e eficiente, fica a critério do órgão competente pelo Canil Municipal, a sua participação junto as feiras municipais, a fim de promover o propósito e efetividade desta lei.
+
+
+Art. 8º.
+
+Tendo em vista o clima da região local, fica autorizado ao Poder Executivo a construção de casinhas para cães e gatos em situação de rua, em locais públicos que melhor atenda a necessidade.
+
+
+Art. 9º.
+
+As despesas decorrentes da aplicação desta Lei correrão à conta das dotações próprias, suplementadas se necessário, autorizando ao chefe do Poder Executivo a abertura de crédito necessário para as suplementações.
+
+
+Art. 10.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Autor: Vereador Vantuil Passos dos Santos
+
+
+Engenheiro Paulo de Frontin, 30 de setembro de 2024.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal
+

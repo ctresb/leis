@@ -1,0 +1,30 @@
+---
+titulo: "DECRETO N° 6833/2025 DE 12/12/2025 - EMENTA: ABRE"
+uf: "RO"
+municipio: "ROLIM DE MOURA"
+tipo: "Decreto"
+numero: "6833"
+data: 
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 16/01/2026"
+data_publicacao: 2026-01-16
+codigo_identificador: "C02CF4AE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_115982_2026-01-15_3971f2b561ffb644e5ca35971f02d2d0.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N° 6833/2025 DE 12/12/2025 - EMENTA: ABRE
+
+DECRETO N° 6833/2025 DE 12/12/2025 - EMENTA: ABRE
+CRÉDITO ADICIONAL SUPLEMENTAR E DA OUTRAS
+PROVIDÊNCIAS.
+PREFEITURA MUNICIPAL DE ROLIM DE MOURA
+ESTADO DE: RO
+Exercício: 2025
+Decreto n° 6833/2025 de 12/12/2025
+
+ALDAIR JULIO PEREIRA
+Prefeito
+Publicado por:
+Everson Martins

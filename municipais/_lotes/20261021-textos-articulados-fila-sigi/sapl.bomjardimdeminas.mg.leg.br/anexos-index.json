@@ -1,0 +1,538 @@
+{
+  "estado": "indice_completo",
+  "total": 52,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/l12527.pdf da norma LEI ORDINÁRIA nº 1.488, de 20 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Legislação Citada",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/1/l12527.pdf",
+      "ano": 2017,
+      "norma": 312
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/resumo_do_programa.pdf da norma LEI ORDINÁRIA nº 1.656, de 30 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2021/6/resumo_do_programa.pdf",
+      "ano": 2021,
+      "norma": 1088
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/metas_e_prioridades.pdf da norma LEI ORDINÁRIA nº 1.656, de 30 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2021/7/metas_e_prioridades.pdf",
+      "ano": 2021,
+      "norma": 1088
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/quadro_detalhado_do_programa.pdf da norma LEI ORDINÁRIA nº 1.656, de 30 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2021/8/quadro_detalhado_do_programa.pdf",
+      "ano": 2021,
+      "norma": 1088
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/9/anexo_unico_plo_24.pdf da norma LEI ORDINÁRIA nº 1.690, de 27 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/9/anexo_unico_plo_24.pdf",
+      "ano": 2022,
+      "norma": 1120
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/10/anexo_metas_e_prioridades.pdf da norma LEI ORDINÁRIA nº 1.700, de 22 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/10/anexo_metas_e_prioridades.pdf",
+      "ano": 2022,
+      "norma": 1135
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/11/anexo_metas_fiscais.pdf da norma LEI ORDINÁRIA nº 1.700, de 22 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/11/anexo_metas_fiscais.pdf",
+      "ano": 2022,
+      "norma": 1135
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/13/anexo_iii__-riscos_fiscais_-lei_1700.pdf da norma LEI ORDINÁRIA nº 1.700, de 22 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2022/13/anexo_iii__-riscos_fiscais_-lei_1700.pdf",
+      "ano": 2022,
+      "norma": 1135
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/anexo_i_resolucao_16-2019.pdf da norma RESOLUÇÃO nº 16, de 12 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "\"TABELA GERAL DE PROGRESSÃO SALARIAL\"",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/14/anexo_i_resolucao_16-2019.pdf",
+      "ano": 2019,
+      "norma": 181
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/anexo_1_plo_13-2018.pdf da norma LEI ORDINÁRIA nº 1.520, de 15 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/15/anexo_1_plo_13-2018.pdf",
+      "ano": 2019,
+      "norma": 209
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/anexo_2_plo_13-2018.pdf da norma LEI ORDINÁRIA nº 1.520, de 15 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/16/anexo_2_plo_13-2018.pdf",
+      "ano": 2019,
+      "norma": 209
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/17/plano_municipal_de_saneamento_basico.pdf da norma LEI ORDINÁRIA nº 1.388, de 30 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "\"Plano Municipal de Saneamento Básico.\"",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2013/17/plano_municipal_de_saneamento_basico.pdf",
+      "ano": 2013,
+      "norma": 127
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/anexo_lei_1.767-2023.pdf da norma LEI ORDINÁRIA nº 1.767, de 09 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Biografia",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/18/anexo_lei_1.767-2023.pdf",
+      "ano": 2023,
+      "norma": 1240
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/anexo_lei_1.768-2023.pdf da norma LEI ORDINÁRIA nº 1.768, de 09 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Biografia",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/19/anexo_lei_1.768-2023.pdf",
+      "ano": 2023,
+      "norma": 1241
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/anexo_lei_1.769-2023.pdf da norma LEI ORDINÁRIA nº 1.769, de 09 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Biografia",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/20/anexo_lei_1.769-2023.pdf",
+      "ano": 2023,
+      "norma": 1242
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/21/anexo_mapa_lei_1.818-2024.pdf da norma LEI ORDINÁRIA nº 1.818, de 14 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Localização do Logradouro",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/21/anexo_mapa_lei_1.818-2024.pdf",
+      "ano": 2024,
+      "norma": 1310
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/anexo_mapa_lei_1.816.pdf da norma LEI ORDINÁRIA nº 1.816, de 14 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Mapa de Localização do Logradouro",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/22/anexo_mapa_lei_1.816.pdf",
+      "ano": 2024,
+      "norma": 1308
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/23/anexo_unico_da_lei_1.832-2024.pdf da norma LEI ORDINÁRIA nº 1.832, de 11 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/23/anexo_unico_da_lei_1.832-2024.pdf",
+      "ano": 2024,
+      "norma": 1327
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/24/anexo_i_lei_1.838-2024__ldo-3-13.pdf da norma LEI ORDINÁRIA nº 1.838, de 08 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/24/anexo_i_lei_1.838-2024__ldo-3-13.pdf",
+      "ano": 2024,
+      "norma": 1333
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/25/anexo_ii_lei_1.838-2024__ldo.pdf da norma LEI ORDINÁRIA nº 1.838, de 08 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/25/anexo_ii_lei_1.838-2024__ldo.pdf",
+      "ano": 2024,
+      "norma": 1333
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/anexo_iii_ldo.pdf da norma LEI ORDINÁRIA nº 1.838, de 08 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/27/anexo_iii_ldo.pdf",
+      "ano": 2024,
+      "norma": 1333
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/28/justificativa_republicacao_da_lei_1.828.pdf da norma LEI ORDINÁRIA nº 1.828, de 23 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/28/justificativa_republicacao_da_lei_1.828.pdf",
+      "ano": 2024,
+      "norma": 1321
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/29/justificativa_republicacao_lei_1.829.pdf da norma LEI ORDINÁRIA nº 1.829, de 07 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/29/justificativa_republicacao_lei_1.829.pdf",
+      "ano": 2024,
+      "norma": 1325
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/30/1-_receitas_por_fonte_e_respectiva_legislacao_consolidado.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/30/1-_receitas_por_fonte_e_respectiva_legislacao_consolidado.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/31/2_adendo_ill-_portaria_sof_n_008-_anexo_2-_receita_-_lei_4.32064-_orcamento.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/31/2_adendo_ill-_portaria_sof_n_008-_anexo_2-_receita_-_lei_4.32064-_orcamento.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/32/3-_demonstrativo_de_receita_e_despesa_segundo_categorias_economicas_anexo_1_da_lei_4.32064_portaria_sof_n_008_de_040285_orcamento_de_programa.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/32/3-_demonstrativo_de_receita_e_despesa_segundo_categorias_economicas_anexo_1_da_lei_4.32064_portaria_sof_n_008_de_040285_orcamento_de_programa.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/33/4_sumario_geral_da_receita_por_fontes_e_despesas_por_funcoes_do_governo.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/33/4_sumario_geral_da_receita_por_fontes_e_despesas_por_funcoes_do_governo.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/34/5__quadro_de_dotacao_por_orgaos_de_governo_e_administracao.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/34/5__quadro_de_dotacao_por_orgaos_de_governo_e_administracao.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/35/6_-_programa_de_trabalho_atraves_da_funcional_programatica_consolidado_adendo_iv_-_a.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/35/6_-_programa_de_trabalho_atraves_da_funcional_programatica_consolidado_adendo_iv_-_a.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/36/7-_adendo_v-_orcamento_programa_consolidado_adendo_v-_a_portaria_sof_n_008_de_040285-_lei_4.32064_-_anexo_6_despesa_-_orcamento_programa.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/36/7-_adendo_v-_orcamento_programa_consolidado_adendo_v-_a_portaria_sof_n_008_de_040285-_lei_4.32064_-_anexo_6_despesa_-_orcamento_programa.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/37/8-_natureza_da_despesa_-_anexo_2_-_orcamento_programa_consolidado.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/37/8-_natureza_da_despesa_-_anexo_2_-_orcamento_programa_consolidado.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/38/9_-_natureza_da_despesa_-_consolidacao_geral_consolidado.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/38/9_-_natureza_da_despesa_-_consolidacao_geral_consolidado.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/39/10_-_demonstrativo_de_despesa_por_orgaos_e_funcoes_consolidado.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/39/10_-_demonstrativo_de_despesa_por_orgaos_e_funcoes_consolidado.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/40/demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/40/demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/41/despesas_detalhadas_por_fontes_de_recursos.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/41/despesas_detalhadas_por_fontes_de_recursos.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/42/destinacao_de_recurso_da_receita.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/42/destinacao_de_recurso_da_receita.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/43/destinacao_de_recursos_vinculados.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/43/destinacao_de_recursos_vinculados.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/45/calculo_de_limites_constitucionais_consolidado.pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/45/calculo_de_limites_constitucionais_consolidado.pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/47/em_termos_de_realizacao_de_obras_e_de_prestacao_de_servicos..pdf da norma LEI ORDINÁRIA nº 1.857, de 27 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/47/em_termos_de_realizacao_de_obras_e_de_prestacao_de_servicos..pdf",
+      "ano": 2024,
+      "norma": 1361
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/48/anexo_da_lei_complementar_61-2025.pdf da norma LEI COMPLEMENTAR nº 61, de 10 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/48/anexo_da_lei_complementar_61-2025.pdf",
+      "ano": 2025,
+      "norma": 1394
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/49/anexo_a_lei_complementar_no_63-2025..pdf da norma LEI COMPLEMENTAR nº 63, de 30 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/49/anexo_a_lei_complementar_no_63-2025..pdf",
+      "ano": 2025,
+      "norma": 1406
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/anexo_lei_ordinaria_n_1.889.pdf da norma LEI ORDINÁRIA nº 1.889, de 12 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/50/anexo_lei_ordinaria_n_1.889.pdf",
+      "ano": 2025,
+      "norma": 1414
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/anexo_i_1931.pdf da norma LEI ORDINÁRIA nº 1.930, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/51/anexo_i_1931.pdf",
+      "ano": 2025,
+      "norma": 1468
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/anexo_ii_1930.pdf da norma LEI ORDINÁRIA nº 1.930, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/52/anexo_ii_1930.pdf",
+      "ano": 2025,
+      "norma": 1468
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/53/anexo_i_1931.pdf da norma LEI ORDINÁRIA nº 1.931, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/53/anexo_i_1931.pdf",
+      "ano": 2025,
+      "norma": 1469
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/54/anexo_ii_1931.pdf da norma LEI ORDINÁRIA nº 1.931, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/54/anexo_ii_1931.pdf",
+      "ano": 2025,
+      "norma": 1469
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/anexo_1932.pdf da norma LEI ORDINÁRIA nº 1.932, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/55/anexo_1932.pdf",
+      "ano": 2025,
+      "norma": 1470
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/56/anexo_2_1932.pdf da norma LEI ORDINÁRIA nº 1.932, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/56/anexo_2_1932.pdf",
+      "ano": 2025,
+      "norma": 1470
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/57/anexo_i_c.pdf da norma LEI ORDINÁRIA nº 1.984, de 22 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2026/57/anexo_i_c.pdf",
+      "ano": 2026,
+      "norma": 1542
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/58/anexo_ii.pdf da norma LEI ORDINÁRIA nº 1.984, de 22 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2026/58/anexo_ii.pdf",
+      "ano": 2026,
+      "norma": 1542
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/anexo_1_ppa_2026_-_2029_0001.pdf da norma LEI ORDINÁRIA nº 1.946, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Anexo l - PPA 2026 - 2029 / METAS E PRIORIDADES",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/59/anexo_1_ppa_2026_-_2029_0001.pdf",
+      "ano": 2025,
+      "norma": 1492
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/anexo_2_ppa_2026_-_2029_0001.pdf da norma LEI ORDINÁRIA nº 1.946, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Anexo ll - PPA 2026 - 2029 / QUADROS ANALÍTICOS",
+      "anexo_arquivo": "http://sapl.bomjardimdeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/60/anexo_2_ppa_2026_-_2029_0001.pdf",
+      "ano": 2025,
+      "norma": 1492
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjardimdeminas.mg.leg.br/c95f995ea32a37bfa704c9e4f9e46a9a71fa7a567dad020489e73f6b6adf000e.json",
+      "url": "https://sapl.bomjardimdeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bomjardimdeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f8a514eaa967493b8e1caa9270db6c9cd6ee8de4262dd6a34814d046b677b8a6",
+      "bytes": 22825,
+      "capturado_em": "2026-10-27T19:32:35.895649-03:00"
+    }
+  ]
+}

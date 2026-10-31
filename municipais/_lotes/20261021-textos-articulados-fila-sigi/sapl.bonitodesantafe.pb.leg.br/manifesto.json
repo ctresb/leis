@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bonitodesantafe.pb.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonitodesantafe.pb.leg.br/3aba92d82241159d88defd91a039a2bb03557ff22bfcb936ab257adfe79f0fcd.json",
+    "url": "https://sapl.bonitodesantafe.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bonitodesantafe.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ad64747805996dcbde6d82498cf2c77e5ae4f5261a573e5566bd6b0033c8c50f",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T19:36:19.702546-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonitodesantafe.pb.leg.br/3fc090303c924e37b755119251d3373e82c5ceee1eb4216d7dd71a9c5ed21621.json",
+    "url": "https://sapl.bonitodesantafe.pb.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bonitodesantafe.pb.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "489352f2d07e12bb5d0e20d690e06835dffd034e3b1ce6d9f92743b6c2af7505",
+    "bytes": 771,
+    "capturado_em": "2026-10-27T19:36:18.848975-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonitodesantafe.pb.leg.br/92db5817e39917421bf37958e464663b60e45587a2590528e45e3633ae3f3773.json",
+      "url": "https://sapl.bonitodesantafe.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bonitodesantafe.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T19:36:21.833322-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

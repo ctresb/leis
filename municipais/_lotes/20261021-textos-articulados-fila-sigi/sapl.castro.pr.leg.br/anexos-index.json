@@ -1,0 +1,228 @@
+{
+  "estado": "indice_completo",
+  "total": 21,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/anexo_portaria_24-19.pdf da norma Portaria nº 24, de 21 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "portarias revogadas 26 e 27/2017 e 11/2018",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2019/1/anexo_portaria_24-19.pdf",
+      "ano": 2019,
+      "norma": 1095
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/errata_de_publicacao_port_21-2019.pdf da norma Portaria nº 21, de 19 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Errata para corrigir erro de digitação quanto ao nível... foi digitado XIV e na realidade é XVI",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2019/2/errata_de_publicacao_port_21-2019.pdf",
+      "ano": 2019,
+      "norma": 1084
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/portaria_33-2012_-_anexo_port_25.pdf da norma Portaria nº 25, de 19 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "portaria que foi revogada",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2019/3/portaria_33-2012_-_anexo_port_25.pdf",
+      "ano": 2019,
+      "norma": 1096
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/errata_portaria_09-2021.pdf da norma Portaria nº 9, de 04 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Errata quanto ao nome do servidor que na Portaria nº 09/2021 constou Paulo de Assis, e, seu nome completo é Paulo Roberto Dias de Assis.",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2021/4/errata_portaria_09-2021.pdf",
+      "ano": 2021,
+      "norma": 3330
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/lei_n_3761_-_publicacao.pdf da norma Lei Ordinária nº 3.761, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2020/5/lei_n_3761_-_publicacao.pdf",
+      "ano": 2020,
+      "norma": 3366
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/anexo_i_-_geral.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - TABELA GERAL",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/6/anexo_i_-_geral.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/anexo_ii_-_procuradores_do_municipio.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - PROCURADORES DO MUNICÍPIO",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/7/anexo_ii_-_procuradores_do_municipio.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/anexo_iii_-_educacao.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III - EDUCAÇÃO",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/8/anexo_iii_-_educacao.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/anexo_iv_-_saude.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - SAÚDE",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/9/anexo_iv_-_saude.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/10/anexo_v_-_cir_dentista.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "ANEXO V - CIRURGIÃO DENTISTA",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/10/anexo_v_-_cir_dentista.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/anexo_vi_-_motoristas.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI - MOTORISTAS",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/11/anexo_vi_-_motoristas.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/anexo_vii_-_engenheiros_e_arquitetos.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VII - ENGENHEIROS E ARQUITETOS",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/12/anexo_vii_-_engenheiros_e_arquitetos.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/anexo_viii_-_op_de_maquinas.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VIII - OPERADORES DE MÁQUINAS",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/13/anexo_viii_-_op_de_maquinas.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/anexo_ix_-_comissao.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IX - COMISSIONADOS",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/14/anexo_ix_-_comissao.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/anexo_x_-_professores_-_20h_e_40h.pdf da norma Lei Ordinária nº 4.103, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "ANEXO X - PROFESSORES 20 H E 40 H",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/15/anexo_x_-_professores_-_20h_e_40h.pdf",
+      "ano": 2024,
+      "norma": 4078
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/anexo_ii_lei_4105-2024.pdf da norma Lei Ordinária nº 4.105, de 17 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - TABELA",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/16/anexo_ii_lei_4105-2024.pdf",
+      "ano": 2024,
+      "norma": 4080
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/recibo_peticao_intermediaria_prestacao_de_contas_municipal_2021.pdf da norma Decreto Legislativo nº 2, de 02 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Recibo do envio do Decreto Legislativo n.º 02/2024 ao Tribunal de Contas do Estado do Paraná.",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/17/recibo_peticao_intermediaria_prestacao_de_contas_municipal_2021.pdf",
+      "ano": 2024,
+      "norma": 4088
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/recibo_peticao_intermediaria.pdf da norma Decreto Legislativo nº 3, de 12 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/18/recibo_peticao_intermediaria.pdf",
+      "ano": 2024,
+      "norma": 4118
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/recibo_prestacao_de_contas_prefeitura_2022.pdf da norma Decreto Legislativo nº 4, de 03 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/19/recibo_prestacao_de_contas_prefeitura_2022.pdf",
+      "ano": 2024,
+      "norma": 4119
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/20/protocolo_de_envio_decreto_prestacao_de_contas_executivo_2024.pdf da norma Decreto Legislativo nº 6, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2024/20/protocolo_de_envio_decreto_prestacao_de_contas_executivo_2024.pdf",
+      "ano": 2024,
+      "norma": 4181
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/anexo_ii.pdf da norma Lei Ordinária nº 4.201, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.castro.pr.leg.br/media/sapl/public/anexonormajuridica/2025/21/anexo_ii.pdf",
+      "ano": 2025,
+      "norma": 4310
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.castro.pr.leg.br/829698f8fd3839d6c60983420ab74c1f4db9bab572de80f3b1ded477210c1fff.json",
+      "url": "https://sapl.castro.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.castro.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a7ffbed5c61ce180d365401354df4195e7a43ad6381f20458349688b615ef6c0",
+      "bytes": 9319,
+      "capturado_em": "2026-10-27T22:39:14.434793-03:00"
+    }
+  ]
+}

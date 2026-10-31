@@ -1,0 +1,153 @@
+AUTORIZA O MUNICÍPIO DE BIRIGUI INCLUIR JUNTO A LEI N° 6.808/2019 - LEI ORÇAMENTÁRIA DE 2020, NA LEI N° 6.740/2019 - LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2020 E NA LEI N° 6.430/2017 — PLANO PLURIANUAL-PPA DE 2018 A 2021 E ALTERAÇÕES, A NATUREZA DE DESPESA 3.3.50.39.00, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei n° 172/2019, de autoria do Prefeito Municipal.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Preceito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a incluir na Lei n° 6.430/2017 — PPA 2018/2021 e alterações, na Lei n° 6.740/2019 — LDO de 2020 e alterações e na Lei n° 6.808/2019 — Lei Orçamentária de 2020, a Natureza de Despesa 3.3.50.39.00 — Outros Serviços de Terceiros — Pessoa Jurídica, conforme classificações funcionais programáticas abaixo:  
+02.00.00 - PODER EXECUTIVO  
+02.09.00 - SECRETARIA MUN DE ASSIST E DESENVOLV SOCIAL  
+02.09.02 — FUNDO MUNICIPAL ASSISTÊNCIA SOCIAL  
+FUNÇÃO: 08 — Assistência Social  
+SUB-FUNÇÃO: 242 — Assistência ao Portador de Deficiência  
+PROGRAMA: 0008 — Proteção Social Especial  
+ATIVIDADE: 2.026 — Transferências  
+CLASS FUNC — 08.242.0008.2.026 — 3.3.50.39.00 — Fonte 01 — Rec. Próprios  
+CLASS FUNC — 08.242.0008.2.026 — 3.3.50.39.00 — Fonte 02 — Transf. Conv. Estaduais  
+FUNÇÃO: 08 — Assistência Social  
+SUB-FUNÇÃO: 244 — Assistência Comunitária  
+PROGRAMA: 0007 — Proteção Social Básica  
+ATIVIDADE: 2.015 — Repasses ao Terceiro Setor - Básica  
+CLASS FUNC — 08.242.0007.2.026 — 3.3.50.39.00 — Fonte 01 — Rec. Próprios  
+CLASS FUNC — 08.242.0007.2.026 — 3.3.50.39.00 — Fonte 02 — Transf. Conv. Estaduais  
+FUNÇÃO: 08 — Assistência Social  
+SUB-FUNÇÃO: 244 — Assistência Comunitária  
+PROGRAMA: 0008 — Proteção Social Especial  
+ATIVIDADE: 2.022 — Repasses ao Terceiro Setor - Especial  
+CLASS FUNC — 08.244.0008.2.022 — 3.3.50.39.00 — Fonte 01 — Rec. Próprios  
+CLASS FUNC — 08.244.0008.2.022 — 3.3.50.39.00 — Fonte 02 — Transf. Conv. Estaduais  
+CLASS FUNC — 08.244.0008.2.022 — 3.3.50.39.00 — Fonte 05 — Transf. Conv. Federais  
+02.09.03 — FUNDO MUNICIPAL DIREITOS DAS CRIANÇAS E ADOLESCENTES  
+FUNÇÃO: 08 — Assistência Social  
+SUB-FUNÇÃO: 243 — Assistência a Criança e ao Adolescente  
+PROGRAMA: 0009 — Proteção a Criança e ao Adolescente  
+ATIVIDADE: 2.028 — Manutenção e Repasse do FMDCA  
+CLASS FUNC — 08.243.0009.2.028 — 3.3.50.39.00 — Fonte 03 — Rec. Próprios Fds Especiais  
+02.09.05 — FUNDO MUNICIPAL DO IDOSO  
+FUNÇÃO: 08 — Assistência Social  
+SUB-FUNÇÃO: 241 —Assistência ao Idoso  
+PROGRAMA: 0012 — Proteção ao Idoso  
+ATIVIDADE: 2.042 — Manutenção e Repasses do FMI  
+CLASS FUNC — 08.241.0012.2.042 — 3.3.50.39.00 — Fonte 03 — Rec. Próprios Fds Especiais  
+02.10.00- SECRETARIA DE SAÚDE  
+02.10.01 — FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO: 10 — Saúde  
+SUB-FUNÇÃO: 302 — Assistência Hospitalar e Ambulatorial  
+PROGRAMA: 0043 — Média e Alta Complexidade  
+ATIVIDADE: 2.107 — Média e Alta Complexidade - MAC  
+CLASS FUNC — 10.302.0043.2.107 — 3.3.50.39.00 — Fonte 01 Rec. Próprios  
+02.11.00- SECRETARIA DE EDUCAÇÃO  
+02.11.01 — EDUCAÇÃO BÁSICA E COMPLEMENTAR  
+FUNÇÃO: 12 — Educação  
+SUB-FUNÇÃO: 361 — Ensino Fundamental  
+PROGRAMA: 0052 — Educação Interativa  
+ATIVIDADE: 2.144 — Educ Interativa Rede Municipal de Ensino Fundamental  
+CLASS FUNC — 12.361.0052.2.144 — 3.3.50.39.00 — Fonte 01 — Rec. Próprios  
+CLASS FUNC — 12.361.0052.2.144 — 3.3.50.39.00 — Fonte 02— Transf. Conv. Estaduais  
+CLASS FUNC — 12.361.0052.2.144 — 3.3.50.39.00 — Fonte 05 —Transf. Conv. Federais  
+FUNÇÃO: 12 — Educação  
+SUB-FUNÇÃO: 365 — Ensino Infantil  
+PROGRAMA: 0049 — Administração da Rede de Educação  
+ATIVIDADE: 2.139 — Educ Interativa Rede Municipal de Ensino Infantil  
+CLASS FUNC — 12.365.0049.2.139 — 3.3.50.39.00 — Fonte 01 — Rec. Próprios  
+CLASS FUNC — 12.365.0049.2.139 — 3.3.50.39.00 — Fonte 02 — Transf. Conv. Estaduais  
+CLASS FUNC — 12.365.0049.2.139 — 3.3.50.39.00 — Fonte 05 — Transf. Conv. Federais  
+FUNÇÃO: 12 — Educação  
+SUB-FUNÇÃO: 367 — Educação Especial  
+PROGRAMA: 0051 — Educação Complementar  
+ATIVIDADE: 2.147 —Atendimento Complementar — Repasse APAE  
+CLASS FUNC — 12.367.0051.2.147 — 3.3.50.39.00 — Fonte 02 — Transf. Conv. Estaduais
+
+
+Art. 2º.
+
+Para atendimento das despesas no exercício de 2020, das dotações incluídas no artigo anterior, fica o Executivo Municipal autorizado a abrir, por Decreto, atraves da Secretaria Municipal de Finanças, crédito adicional especial de R$ 33.873.836,13 (TRINTA E TRÊS MILHÕES, OITOCENTOS E SETENTA E TRÊS MIL, OITOCENTOS E TRINTA E SEIS REAIS E TREZE CENTAVOS), conforme abaixo discriminado:  
+02.00.00 - PODER EXECUTIVO  
+02.09.00 SECRETARIA DE ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL  
+02.09.02 08.242.0008.2.026 3.3.50.39.00 Fonte 01 R$ 9.260,92  
+02.09.02 08.242.0008.2.026 3.3.50.39.00 Fonte 02 R$ 36.748,80  
+02.09.02 08.244.0007.2.015 3.3.50.39.00 Fonte 01 R$ 68.753,38  
+02.09.02 08.244.0007.2.015 3.3.50.39.00 Fonte 02 R$ 164.371,60  
+02.09.02 08.244.0008.2.022 3.3.50.39.00 Fonte 01 R$ 30.635,70  
+02.09.02 08.244.0008.2.022 3.3.50.39.00 Fonte 02 R$ 143.272,73  
+02.09.02 08.244.0008.2.022 3.3.50.39.00 Fonte 05 R$ 228.000,00  
+02.09.03 08.243.0009.2.028 3.3.50.39.00 Fonte 03 R$ 250.000,00  
+02.09.05 08.243.0009.2.028 3.3.50.39.00 Fonte 03 R$ 50.500,00  
+02.10.00 SECRETARIA DE SAÚDE  
+02.10.01 10.302.0043.2.107 3.3.50.39.00 Fonte 01 R$ 26.492.290  
+02.11.00 SECRETARIA DE EDUCAÇÃO  
+02.11.01 12.361.0052.2.144 3.3.50.39.00 Fonte 01 R$ 1,00  
+02.11.01 12.361.0052.2.144 3.3.50.39.00 Fonte 02 R$ 1,00  
+02.11.01 12.361.0052.2.144 3.3.50.39.00 Fonte 05 R$ 20.000,00  
+02.11.01 12.365.0049.2.139 3.3.50.39.00 Fonte 01 R$ 2.000.001,00  
+02.11.01 12.365.0049.2.139 3.3.50.39.00 Fonte 05 R$ 1.070.000,00  
+02.11.01 12.367.0051.2.147 3.3.50.39.00 Fonte 02 R$ 260.000,00
+
+
+Art. 3º.
+
+O crédito adicional especial autorizado no artigo 2° desta Lei, correrá à conta de recursos especificados no art. 43, § 1°, inciso III, da Lei Federal n° 4.320, de 17 de março de 1964, mediante anulação total das dotações abaixo, consubstanciadas no orçamento de 2020:  
+02.00.00 - PODER EXECUTIVO  
+02.09.00 - SECRETARIA M. DE ASSISTÊNCIA E DESENVOLVIMENTO SOCIAL  
+02.09.02 08.242.0008.2.026 / 3.3.50.43.00 Ficha n° 265 Fonte: 01 9.260,92  
+02.09.02 08.242.0008.2.026 / 3.3.50.43.00 Ficha n° 266 Fonte: 02 36.748,80  
+02.09.02 08.244.0007.2.015 / 3.3.50.43.00 Ficha n° 284 Fonte: 01 68.753,38  
+02.09.02 08.244.0007.2.015 / 3.3.50.43.00 Ficha n° 285 Fonte: 02 164.371,60  
+02.09.02 08.244.0008.2.022 / 3.3.50.43.00 Ficha n° 326 Fonte: 01 30.635,70  
+02.09.02 08.244.0008.2.022 / 3.3.50.43.00 Ficha n° 327 Fonte: 02 143.272,73  
+02.09.02 08.244.0008.2.022 / 3.3.50.43.00 Ficha n° 328 Fonte: 05 228.000,00  
+02.09.03 08.243.0009.2.028 / 3.3.50.41.00 Ficha n° 355 Fonte: 03 230.000,00  
+02.09.03 08.243.0009.2.028 / 3.3.50.43.00 Ficha n° 356 Fonte: 03 20.000,00  
+02.09.05 08.241.0012.2.042 / 3.3.50.41.00 Ficha n° 364 Fonte: 03 50.000,00  
+02.09.05 08.241.0012.2.042 / 3.3.50.43.00 Ficha n° 365 Fonte: 03 500,00  
+02.10.00 - SECRETARIA DE SAÚDE  
+02.10.01 10.302.0043.2.107 / 3.3.50.41.00 Ficha n° 445 Fonte: 01 187.000,00  
+02.10.01 10.302.0043.2.107 / 3.3.50.43.00 Ficha n° 446 Fonte: 01 26.305.290,00  
+02.11.00 SECRETARIA DE EDUCAÇÃO  
+02.11.01 12.361.0052.2.144 / 3.3.50.41.00 Ficha n° 562 Fonte: 01 1,00  
+02.11.01 12.361.0052.2.144 / 3.3.50.41.00 Ficha n° 563 Fonte: 02 1,00  
+02.11.01 12.361.0052.2.144 / 3.3.50.41.00 Ficha n° 564 Fonte: 05 20.000,00  
+02.11.01 12.365.0049.2.139 / 3.3.50.41.00 Ficha n° 582 Fonte: 01 3.050.000,00  
+02.11.01 12.365.0049.2.139 / 3.3.50.41.00 Ficha n° 583 Fonte: 02 2.000.001,00  
+02.11.01 12.365.0049.2.139 / 3.3.50.41.00 Ficha n° 584 Fonte: 05 1.070.000,00  
+02.11.01 12.367.0051.2.147 / 3.3.50.41.00 Ficha n° 626 Fonte: 02 260.000,00
+
+
+Art. 4º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no P.P.A. - Plano Plurianual e L.D.O. - Lei de Diretrizes Orçamentárias, para o exercício de 2020.
+
+
+Art. 5º.
+
+As dotações incluídas na presente Lei poderão ser suplementadas, se necessário, através de Decreto do Executivo Municipal, nos termos do disposto no artigo 5° da Lei Municipal 6.808/2019.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, surtindo seus efeitos a partir de 2 de janeiro de 2020, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos quinze de janeiro de dois mil e vinte.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+**FABIO VIEIRA PINTO Secretário de Finanças**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**TIAGO CONTADOR LOTTO Secretário de Expediente e Comunicações Administrativas**

@@ -1,0 +1,320 @@
+---
+titulo: "Resolução nº 1.664, de 03 de agosto de 2020"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1664"
+data: "2020-08-03"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; 2021-02-17; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/12948"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3705/text"
+sha256_fonte: "1d52fbd96c02fc508ee7f9e6f7ed54de0cf1a7d6df26c2a30abf2f0497847ff7"
+sha256_texto: "b30730b9d1cbc720da130aa85ee8f1f1c5da3b3364c9c068facfd0cd8404aba4"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Resolução nº 1.664, de 03 de agosto de 2020
+
+Disciplina medidas excepcionais e temporárias com o objetivo de viabilizar o funcionamento das atividades presenciais do Plenário e das Comissões durante o atual quadro de pandemia do Coronavírus (COVID-19).
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições expressas no artigo 36, inciso IV, da Lei Orgânica do Município de Fortaleza,
+
+
+PROMULGA:
+
+
+Art. 1º.
+
+Esta Resolução disciplina medidas excepcionais e temporárias com o objetivo de viabilizar o funcionamento das atividades presenciais do Plenário e das Comissões, durante o atual quadro de pandemia do Coronavírus (COVID-19).
+
+
+Art. 2º.
+
+As atividades presenciais do Plenário e das Comissões serão realizadas em formato híbrido, conforme disciplinam o art. 3º e o art. 8º desta Resolução.
+
+Alteração feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 1º
+
+Para fins das deliberações sob o regime das Resoluções nº 1.663, de 25 de junho de 2020, e nº 1.664, de 3 de agosto de 2020, realizadas em sessão ordinária ou extraordinária, fica exigida a presença dos Vereadores no Plenário ou nas dependências da Câmara Municipal de Fortaleza, quando houver apreciação de reformas, acréscimos ou revogações das seguintes leis e matérias:
+
+Alteração feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+I –
+
+Lei Orgânica do Município de Fortaleza (Lei Orgânica nº 1, de 15 de dezembro de 2006);
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+II –
+
+Plano Diretor de Fortaleza (Lei Complementar nº 62, de 02 de fevereiro de 2009);
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+III –
+
+Lei de Parcelamento, Uso e Ocupação do Solo (Lei Complementar nº 236, de 11 de agosto de 2017);
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+IV –
+
+Código da Cidade (Lei Complementar nº 270, de 02 de agosto de 2019);
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+V –
+
+Código Tributário de Fortaleza (Lei Complementar nº 159, de 23 de dezembro de 2013);
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+VI –
+
+Estatuto dos Servidores do Município de Fortaleza (Lei Ordinária nº 6794, de 27 de dezembro de 1990);
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+VII –
+
+Estatuto do Magistério do Município de Fortaleza (Lei Ordinária nº 5895, de 13 de novembro de 1984);
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+VIII –
+
+Sistema Previdenciário e revisão de aposentadoria e de pensão dos servidores públicos do Município de Fortaleza;
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+IX –
+
+planos de cargos, carreiras e salários dos servidores públicos do Município de Fortaleza;
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+X –
+
+leis de diretrizes orçamentárias e lei orçamentária do Município de Fortaleza.
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 2º
+
+Havendo medida restritiva que suspenda as atividades presenciais do Plenário e das Comissões, o Presidente da Câmara Municipal de Fortaleza­ convocará sessões extraordinárias virtuais na forma da Resolução nº 1.663, de 25 de junho de 2020.
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 3º
+
+Para a apreciação das matérias elencadas no § 1º deste artigo, nas circunstâncias excepcionais previstas no parágrafo anterior, ficam estabelecidos os limites máximos de 1 (uma) sessão extraordinária por dia e até 3 (três) por semana, podendo estas serem realizadas nas terças, nas quartas e nas quintas-feiras.
+
+Inclusão feita pelo Art. 1º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+Art. 3º.
+
+Os Vereadores poderão participar das sessões ordinárias e extraordinárias das seguintes formas:
+
+Alteração feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+I –
+
+presencialmente, no Plenário;
+
+Alteração feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+II –
+
+virtualmente, mediante uso de plataforma de videoconferência com interação em tempo real com o Plenário.
+
+Alteração feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 1º
+
+É recomendável que a participação presencial na forma do inciso I do caput seja limitada a, no máximo, 20 (vinte) Vereadores por sessão, conforme abaixo:
+
+Alteração feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+I –
+
+3 (três) membros da Mesa Diretora;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+II –
+
+5 (cinco) Vereadores inscritos para o uso da palavra durante o Pequeno Expediente de cada sessão, na forma do art. 107 do Regimento Interno (Resolução nº 1.670/2020);
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+III –
+
+12 (doze) Vereadores previamente inscritos para o Grande Expediente de cada sessão, na forma do art. 110 do Regimento Interno (Resolução nº 1.670/2020), conforme abaixo:
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+a)
+
+9 (nove) Vereadores inscritos em ordem alfabética;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+b)
+
+1 (uma) inscrição de Liderança de Partido, seguindo a ordem numérica da maior para a menor representação;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+c)
+
+1 (uma) inscrição de Liderança de Oposição;
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+d)
+
+1 (uma) inscrição de Liderança de Governo.
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 2º
+
+A participação virtual na forma do inciso II do caput poderá ocorrer mediante acesso oriundo de local externo às dependências da Câmara.
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 3º
+
+É recomendável que os Vereadores que se enquadrem no grupo de risco de contágio pelo novo Coronavirus (COVID-19) participem das sessões na forma do inciso II do caput.
+
+Inclusão feita pelo Art. 2º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+Art. 4º.
+
+Os registros de presença e de votações por processo nominal serão feitos pelos Vereadores por meio de plataforma virtual acessível por dispositivos móveis.
+
+
+Parágrafo único.
+
+Ocorrendo motivo que impossibilite a utilização da plataforma virtual de que trata o caput deste artigo, o Vereador solicitará verbalmente ao Presidente o registro de sua presença ou voto, conforme o caso.
+
+
+Art. 5º.
+
+Caso o Vereador não consiga registrar presença ou voto por problemas técnicos ou dificuldade na conexão, o respectivo fato será registrado em ata, não ensejando nulidade ou anulabilidade de qualquer ato legislativo.
+
+
+Art. 6º.
+
+O uso da palavra por, no máximo, 10 (dez) Vereadores por sessão, durante o Pequeno Expediente, previsto no art. 107 do Regimento Interno (Resolução nº 1.670/2020), ocorrerá, de forma excepcional e temporária, conforme abaixo:
+
+Alteração feita pelo Art. 3º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+I –
+
+5 (cinco) inscritos podendo fazer o uso da palavra presencialmente no Plenário;
+
+Inclusão feita pelo Art. 3º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+II –
+
+5 (cinco) inscritos devendo fazer o uso da palavra virtualmente, mediante uso de plataforma de videoconferência com interação em tempo real com o Plenário.
+
+Inclusão feita pelo Art. 3º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+Art. 7º.
+
+Como medida excepcional e temporária, em contraponto ao previsto no art. 101 do Regimento Interno (Resolução nº 1.670/2020), não será permitido o acesso ao Plenário por assessores dos Vereadores, da Liderança de Governo e da Liderança de Oposição.
+
+Alteração feita pelo Art. 4º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+Art. 8º.
+
+Os Vereadores poderão participar das reuniões ordinárias e extraordinárias das Comissões Permanentes e Temporárias das seguintes formas:
+
+Alteração feita pelo Art. 5º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+I –
+
+presencialmente, no Complexo das Comissões;
+
+Inclusão feita pelo Art. 5º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+II –
+
+virtualmente, mediante uso de plataforma de videoconferência com interação em tempo real com o Complexo das Comissões.
+
+Inclusão feita pelo Art. 5º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 1º
+
+A participação virtual na forma do inciso II do caput poderá ocorrer mediante acesso oriundo de local externo às dependências da Câmara.
+
+Alteração feita pelo Art. 5º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+§ 2º
+
+É recomendável que os Vereadores que se enquadrem no grupo de risco de contágio pelo novo Coronavírus (COVID-19) participem das reuniões na forma do inciso II do caput.
+
+Inclusão feita pelo Art. 5º. - Resolução nº 1.671, de 17 de fevereiro de 2021.
+
+
+Art. 9º.
+
+A manutenção das medidas excepcionais e temporárias disciplinadas nesta Resolução será objetivo de avaliação periódica mensal.
+
+
+Art. 10.
+
+Ato da Mesa Diretora regulamentará a execução da presente Resolução.
+
+
+Art. 11.
+
+Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial os arts. 3º e 4º do Ato da Mesa Diretora nº 003, de 17 de março de 2020.
+
+
+**PAÇO DA CÂMARA MUNICIPAL DE FORTALEZA JOSÉ BARROS DE ALENCAR, EM 3 DE AGOSTO DE 2020. VEREADOR ANTÔNIO HENRIQUE DA SILVA**  
+Presidente da Câmara Municipal de Fortaleza
+

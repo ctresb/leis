@@ -1,0 +1,58 @@
+Dispõe sobre a autorização para abertura de Crédito Adicional de Natureza Especial e dá outras providências.
+
+
+Projeto de Lei Ordinária n.º 46/21, de autoria do Poder Executivo, aprovado em 9 de novembro de 2021.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir, ao Orçamento Municipal de 2021, aprovado pela Lei n˚ nº. 606, de 14 de dezembro de 2020, um Crédito Adicional de Natureza Especial no valor de R$ 3.200.000,00 (três milhões e duzentos mil reais) destinados à criação da nova ação.
+
+
+Parágrafo único.
+
+A classificação orçamentária e programática, bem como a criação da dotação para atender o objeto deste artigo, está evidenciada no Anexo I e II, deste projeto de Lei.
+
+
+Art. 2º.
+
+Em vista das adequações necessárias para a criação dos referidos créditos destacados nos artigos anteriores, fica o Poder Executivo Municipal, nos moldes do art. 167, VI, da Constituição Federal, autorizado a transpor, remanejar e transferir créditos orçamentários no âmbito da Administração Direta, Administração Indireta e Fundos no valor de R$ 3.200.000,00 (três milhões e duzentos mil reais).
+
+
+Art. 3º.
+
+Fica autorizado o setor de contabilidade realizar as alterações necessárias para adequação do PPA - Plano Plurianual, LDO - Lei de Diretrizes Orçamentárias e LOA - Lei Orçamentária Anual, a fim de contemplar as ações alteradas nesta Lei.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 10 de novembro de 2021.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº. 21, de 04 de janeiro de 2021.
+
+
+## Anexo I — DETALHAMENTO DA DOTAÇÃO A SER ACRESCIDA AO ORÇAMENTO MUNICIPAL
+
+
+<table><tbody><tr><td colspan="5"><p><strong>Criação de Crédito Especial</strong></p></td></tr><tr><td colspan="2"><p><strong>Nome</strong></p></td><td><p><strong>Código</strong></p></td><td colspan="2"><p><strong>Descrição</strong></p></td></tr><tr><td colspan="2"><p>Código do Órgão</p></td><td><p>05</p></td><td colspan="2"><p>Fundo Municipal de Assistência Social</p></td></tr><tr><td colspan="2"><p>Código da Unidade Orçamentária</p></td><td><p>0506</p></td><td colspan="2"><p>FMAS</p></td></tr><tr><td colspan="2"><p>Código da Função</p></td><td><p>08</p></td><td colspan="2"><p>Assistência Social</p></td></tr><tr><td colspan="2"><p>Código da Subfunção</p></td><td><p>244</p></td><td colspan="2"><p>Assistência Comunitária</p></td></tr><tr><td colspan="2"><p>Código Programa</p></td><td><p>0119</p></td><td colspan="2"><p>Melhoria da Qualidade de Vida Familiar</p></td></tr><tr><td colspan="2"><p>Natureza da Ação</p></td><td><p>2</p></td><td colspan="2"><p>Custeio</p></td></tr><tr><td colspan="2"><p>Projeto Atividade</p></td><td><p>418</p></td><td colspan="2"><p>Restaurante Cidadão</p></td></tr><tr><td colspan="5"><p><strong>Detalhamento de Despesas</strong></p></td></tr><tr><td><p><strong>Elemento</strong></p></td><td colspan="3"><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p><strong>3.3.90.36</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 200.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.39</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 3.000.000,00</strong></p></td></tr></tbody></table>
+
+
+## Anexo II — DETALHAMENTO DA DOTAÇÃO A SER REDUZIDA AO ORÇAMENTO MUNICIPAL
+
+
+<table><tbody><tr><td colspan="3"><p><strong>RETIRAR</strong></p></td></tr><tr><td><p><strong>DOTAÇÃO</strong></p></td><td><p><strong>AÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td></tr><tr><td><p><strong>01.0151.15.451.0111.0116 - 449051 </strong></p></td><td><p><strong>Secretaria Municipal de Obras</strong></p></td><td><p><strong>R$ 1.000.000,00</strong></p></td></tr><tr><td><p><strong>01.0156.28.843.0116.2336 – 469071</strong></p></td><td><p><strong>Encargos Especiais</strong></p></td><td><p><strong>R$ 1.000.000,00</strong></p></td></tr><tr><td><p><strong>01.0156.28.843.0116.2337 – 469071</strong></p></td><td><p><strong>Encargos Especiais</strong></p></td><td><p><strong>R$ 1.000.000,00</strong></p></td></tr><tr><td><p><strong>01.0154.04.122.0114.1121 – 449052</strong></p></td><td><p><strong>Secretaria Municipal de Transportes</strong></p></td><td><p><strong>R$ 200.000,00</strong></p></td></tr><tr><td><p><strong>TOTAL</strong></p></td><td colspan="2"><p><strong>R$ 3.200.000,00</strong></p></td></tr></tbody></table>

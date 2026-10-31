@@ -1,0 +1,85 @@
+---
+titulo: "DECRETO Nº 4609/2026, DE 8 DE JUNHO DE 2026."
+uf: "RO"
+municipio: "MONTE NEGRO"
+tipo: "Decreto"
+numero: "4609"
+data: 2026-06-08
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 10/06/2026"
+data_publicacao: 2026-06-10
+codigo_identificador: "DF3BFA44"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116083_2026-06-09_26325ef75092b86b69f9477bce69520d.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 4609/2026, DE 8 DE JUNHO DE 2026.
+
+DECRETO Nº 4609/2026, DE 8 DE JUNHO DE 2026.
+Transposição de recursos
+Orçamento programa de 2026.
+
+orçamentários,
+
+no
+
+O PREFEITO(A) MUNICIPAL DE MONTE NEGRO, no uso de suas
+atribuições que lhe confere a Lei Orgânica do Município de MONTE
+NEGRO e autorização contida na Lei Municipal nº 1872/2025, de 16
+de Dezembro de 2025.
+D E C R E T A:
+Art. 1º - Fica aberto no corrente exercício Crédito no valor de R$
+2.100,00, para a(s) seguinte(s) dotação(ões) orçamentária(s):
+04.000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL
+04.001 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+04.001.8.122.12.2073-3.3.90.93.00.00.00.00 - INDENIZAÇÕES E
+RESTITUIÇÕES
+
+R$558.157,72
+1.600.0000.0000 TRANSFERÊNCIAS FUNDO A FUNDO DE
+RECURSOS DO SUS PROVENIENTES DO 558.157,72
+Art. 2º - Para atendimento da Alteração Orçamentária que trata o
+artigo anterior serão utilizados recursos provenientes de:
+03.000 - SECRETARIA MUNICIPAL DE SAÚDE
+03.001 - FUNDO MUNICIPAL DE SAÚDE
+03.001.10.301.9.2045-3.3.90.30.00.00.00.00 - MATERIAL DE
+CONSUMO R$50.759,42
+1.600.0000.0000 TRANSFERÊNCIAS FUNDO A FUNDO DE
+RECURSOS DO SUS PROVENIENTES DO 50.759,42
+03.001.10.301.9.2045-3.3.90.39.00.00.00.00 - OUTROS SERVIÇOS
+DE TERCEIROS - PESSOA JURÍDICA R$397.914,58
+1.600.0000.0000 TRANSFERÊNCIAS FUNDO A FUNDO DE
+RECURSOS DO SUS PROVENIENTES DO 397.914,58
+03.001.10.301.9.2045-3.3.90.40.00.00.00.00 - SERVIÇOS DE
+TECNOLOGIA DA INFORMAÇÃO E R$91.905,70
+1.600.0000.0000 TRANSFERÊNCIAS FUNDO A FUNDO DE
+RECURSOS DO SUS PROVENIENTES DO 91.905,70
+03.001.10.301.9.2045-3.3.90.47.00.00.00.00
+OBRIGAÇÕES
+TRIBUTÁRIAS E CONTRIBUTIVAS R$17.233,16
+1.600.0000.0000 TRANSFERÊNCIAS FUNDO A FUNDO DE
+RECURSOS DO SUS PROVENIENTES DO 17.233,16
+03.001.10.301.9.2045-3.3.90.92.00.00.00.00 - DESPESAS DE
+EXERCÍCIOS ANTERIORES R$344,86
+1.600.0000.0000 TRANSFERÊNCIAS FUNDO A FUNDO DE
+RECURSOS DO SUS PROVENIENTES DO 344,86
+Art. 3º - Este decreto entrará em vigor na data de sua publicação,
+revogada as disposições em contrário.
+IVAIR JOSE FERNANDES
+Prefeito Municipal
+
+R$2.100,00
+1.500.0000.0000 RECURSOS NÃO VINCULADOS DE IMPOSTOS
+E TRANSFERÊNCIAS DE IMPOSTOS 2.100,00
+Art. 2º - Para atendimento da Alteração Orçamentária que trata o
+artigo anterior serão utilizados recursos provenientes de:
+04.000 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL
+04.001 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+04.001.8.244.11.2075-3.3.90.32.00.00.00.00 - MATERIAL, BEM OU
+SERVIÇO PARA DISTRIBUIÇÃO R$2.100,00
+1.500.0000.0000 RECURSOS NÃO VINCULADOS DE IMPOSTOS
+E TRANSFERÊNCIAS DE IMPOSTOS 2.100,00
+
+Publicado por:
+Schirle Mariani Marques

@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/anexo_resolucao_002-2020.pdf da norma Resolução nº 2, de 13 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campinaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2020/1/anexo_resolucao_002-2020.pdf",
+      "ano": 2020,
+      "norma": 21
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/anexo_resolucao_003-2020.pdf da norma Resolução nº 3, de 11 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campinaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2020/2/anexo_resolucao_003-2020.pdf",
+      "ano": 2020,
+      "norma": 22
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinaverde.mg.leg.br/51018aee62ef7562a8b6aa18cfe8d9a6ab7d0a109555434358d7ed790c6df712.json",
+      "url": "https://sapl.campinaverde.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a38b651017c8bd759bc02816bd29f08ea430bbd3a32d01a149b59b1048b1af6b",
+      "capturado_em": "2026-10-20T20:50:33.986528",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.campinaverde.mg.leg.br/51018aee62ef7562a8b6aa18cfe8d9a6ab7d0a109555434358d7ed790c6df712.json"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.barradoribeiro.rs.leg.br",
+  "metadados_unicos_observados": 4,
+  "total_api_declarado": 4,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradoribeiro.rs.leg.br/45b135a575661746ffc09aafee8b06d4a214d685eb92eb0a302f004bd87fa524.json",
+    "url": "https://sapl.barradoribeiro.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.barradoribeiro.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f370a04e9fb8be768ee8632a06bdf5ac70865d3dbfd197c91ea09bac9aa3ee7f",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:14:38.445226-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradoribeiro.rs.leg.br/466e29e94469d6d3a3c0300cd54e5f74f77c4fe9cad90061d6dc0030e27d55f7.json",
+    "url": "https://sapl.barradoribeiro.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.barradoribeiro.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e1dffc4c39bf251d6e55f44dff8a5201857c6ebd6bc3e9e46500044d7e12a129",
+    "bytes": 865,
+    "capturado_em": "2026-10-27T17:14:37.604890-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradoribeiro.rs.leg.br/75135cc2acec46ab1f616e98d34554a9d3db3117d6573ed070ffb987a70bb70c.json",
+      "url": "https://sapl.barradoribeiro.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.barradoribeiro.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0142e695732f869661b26f6859ca0935bc852f41cf1508d10d2fcac2f3a2bb9c",
+      "bytes": 2635,
+      "capturado_em": "2026-10-27T17:14:40.473813-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

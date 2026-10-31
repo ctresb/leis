@@ -1,0 +1,527 @@
+Dispõe sobre a regulamentação da Lei Geral de Proteção de Dados no âmbito da Câmara Municipal de Amontada e dá outras providências.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE AMONTADA.** Faço saber que a Câmara Municipal aprovou e eu promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Resolução regulamenta a Lei Federal nº 13.709, de 14 de agosto de 2018, Lei de Proteção de Dados Pessoais (LGPD), no âmbito do Poder Legislativo do Município de Amontada, estabelecendo competências, procedimentos e providências correlatas a serem observados por seus órgãos e departamentos, visando garantir a proteção de dados pessoais.
+
+
+§ 1º
+
+A política instituída nesta Resolução se aplica a qualquer operação de tratamento de dados pessoais realizada pela Câmara Municipal de Amontada, independentemente do meio ou do país onde estejam localizados os dados, desde que tenham sido coletados em território nacional.
+
+
+§ 2º
+
+Os servidores, colaboradores internos e externos e quaisquer outras pessoas que realizam tratamento de dados pessoais na Câmara Municipal de Amontada se sujeitam às diretrizes, às normas e aos procedimentos previstos nesta Resolução e são responsáveis por garantir a proteção de dados pessoais a que tenham acesso.
+
+
+Art. 2º.
+
+Para os fins desta resolução, considera-se:
+
+
+I –
+
+dado pessoal: informação relacionada a pessoa natural identificada ou identificável;
+
+
+II –
+
+dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
+
+
+III –
+
+dado anonimizado: dado relativo ao titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;
+
+
+IV –
+
+banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vários locais em suporte eletrônico ou físico;
+
+
+V –
+
+titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento;
+
+
+VI –
+
+controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais;
+
+
+VII –
+
+operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador;
+
+
+VIII –
+
+encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
+
+
+IX –
+
+agentes de tratamento: o controlador e o operador;
+
+
+X –
+
+tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração;
+
+
+XI –
+
+anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo;
+
+
+XII –
+
+consentimento: manifestação livre, informada e inequívoca pela qual o titular dos dados concorda com o tratamento de seus dados pessoais para uma finalidade determinada;
+
+
+XIII –
+
+bloqueio: suspensão temporária de qualquer operação de tratamento, mediante guarda do dado pessoal ou do banco de dados;
+
+
+XIV –
+
+eliminação: exclusão de dado ou de conjunto de dados armazenados em banco de dados, independentemente do procedimento empregado;
+
+
+XV –
+
+transferência internacional de dados: transferência de dados pessoais para país estrangeiro ou organismo internacional do qual o país seja membro;
+
+
+XVI –
+
+uso compartilhado de dados: comunicação, difusão, transferência internacional, interconexão de dados pessoais ou tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos no cumprimento de suas competências legais, ou entre esses e entes privados, reciprocamente, com autorização específica, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados;
+
+
+XVII –
+
+relatório de impacto à proteção de dados pessoais: documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco;
+
+
+XVIII –
+
+órgão de pesquisa: órgão ou entidade da administração pública direta ou indireta ou pessoa jurídica de direito privado sem fins lucrativos legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão institucional ou em seu objetivo social ou estatutário a pesquisa básica ou aplicada de caráter histórico, científico, tecnológico ou estatístico; e
+
+
+XIX –
+
+autoridade nacional: órgão da administração pública responsável por zelar, implementar e fiscalizar o cumprimento desta Lei em todo o território nacional.
+
+
+Art. 3º.
+
+As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:
+
+
+I –
+
+finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+
+
+II –
+
+adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento;
+
+
+III –
+
+necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+
+
+IV –
+
+livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais;
+
+
+V –
+
+qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;
+
+
+VI –
+
+transparência: garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+
+
+VII –
+
+segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;
+
+
+VIII –
+
+prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;
+
+
+IX –
+
+não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos;
+
+
+X –
+
+responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
+
+
+#### CAPÍTULO II — DAS RESPONSABILIDADES
+
+
+Art. 4º.
+
+O Poder Legislativo Municipal, nos termos da Lei Federal nº 13.709, de 2018, deve realizar e manter continuamente atualizados:
+
+
+I –
+
+o mapeamento dos dados pessoais existentes e dos fluxos de dados pessoais em suas unidades;
+
+
+II –
+
+a análise de risco;
+
+
+III –
+
+o plano de adequação, observadas as exigências do art. 15 desta Resolução;
+
+
+IV –
+
+o registro das operações de tratamento de dados pessoais;
+
+
+V –
+
+o relatório de impacto à proteção de dados pessoais, quando solicitado pela autoridade competente.
+
+
+Parágrafo único
+
+Para fins do inciso III do "caput" deste artigo, os órgãos do Poder Legislativo devem observar as diretrizes editadas pelo Encarregado, após deliberação favorável da Comissão da LGPD que será composta por representantes indicados pelo Presidente da Câmara.
+
+
+Art. 5º.
+
+O Chefe do Poder Legislativo, por meio de portaria, designará dentre os servidores efetivos ou comissionados, o encarregado da proteção de dados pessoais para os fins do art. 41 da Lei Federal nº 13.709, de 2018.
+
+
+Parágrafo único
+
+A identidade e as informações de contato do Encarregado devem ser divulgadas publicamente, de forma clara e objetiva, no Portal da Transparência, em seção específica sobre tratamento de dados pessoais.
+
+
+Art. 6º.
+
+São atribuições do Encarregado da proteção de dados pessoais:
+
+
+I –
+
+aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências;
+
+
+II –
+
+receber comunicações da autoridade nacional e adotar providências;
+
+
+III –
+
+orientar os funcionários e os contratados do Poder Legislativo a respeito das práticas a serem tomadas em relação à proteção de dados pessoais;
+
+
+IV –
+
+editar diretrizes para a elaboração dos planos de adequação, conforme art. 4º, inciso III desta resolução;
+
+
+V –
+
+determinar aos órgãos e departamentos da Câmara a realização de estudos técnicos para elaboração das diretrizes previstas no inciso IV deste artigo;
+
+
+VI –
+
+submeter à Comissão da LGPD, sempre que julgar necessário, matérias atinentes a esta resolução;
+
+
+VII –
+
+decidir sobre as sugestões formuladas pela Autoridade Nacional a respeito da adoção de padrões e de boas práticas para o tratamento de dados pessoais, nos termos do art. 32 da Lei Federal nº 13.709, de 2018;
+
+
+VIII –
+
+providenciar, em caso de recebimento de informe da Autoridade Nacional com medidas cabíveis para fazer cessar uma afirmada violação à Lei Federal nº 13.709, de 2018, nos termos do art. 31 daquela lei, o encaminhamento ao órgão da Câmara responsável pelo tratamento de dados pessoais, fixando prazo para atendimento à solicitação ou apresentação das justificativas pertinentes;
+
+
+IX –
+
+avaliar as justificativas apresentadas nos termos do inciso VIII deste artigo, para o fim de:
+
+
+a)
+
+caso avalie ter havido a violação, determinar a adoção das medidas solicitadas pela autoridade nacional;
+
+
+b)
+
+caso avalie não ter havido a violação, apresentar as justificativas pertinentes à autoridade nacional, segundo o procedimento cabível;
+
+
+X –
+
+requisitar dos órgãos responsáveis as informações pertinentes, para sua compilação em um único relatório, caso solicitada pela Autoridade Nacional a publicação de relatórios de impacto à proteção de dados pessoais, nos termos do artigo 32 da Lei Federal nº 13.709, de 2018;
+
+
+XI –
+
+executar as demais atribuições estabelecidas em normas complementares.
+
+
+§ 1º
+
+O Encarregado terá os recursos operacionais e financeiros necessários ao desempenho dessas funções e à manutenção dos seus conhecimentos, bem como acesso motivado a todas as operações de tratamento.
+
+
+§ 2º
+
+Na qualidade de encarregado da proteção de dados, o Encarregado está vinculado à obrigação de sigilo ou de confidencialidade no exercício das suas funções, em conformidade com a Lei Federal nº 13.709, de 2018 e com a Lei Federal nº 12.527, de 18 de novembro de 2011.
+
+
+Art. 7º.
+
+Cabe aos servidores e demais colaboradores vinculados à Câmara Municipal de Amontada:
+
+
+I –
+
+dar cumprimento, no âmbito dos respectivos órgãos, às ordens e recomendações do Encarregado na qualidade de encarregado de proteção de dados pessoais;
+
+
+II –
+
+atender às solicitações encaminhadas pelo Encarregado no sentido de fazer cessar uma afirmada violação à Lei Federal nº 13.709, de 2018, ou apresentar as justificativas pertinentes;
+
+
+III –
+
+encaminhar ao Encarregado, no prazo por este fixado:
+
+
+a)
+
+informações sobre o tratamento de dados pessoais que venham a ser solicitadas pela autoridade nacional, nos termos do art. 29 da Lei Federal nº 13.709, de 2018;
+
+
+b)
+
+relatórios de impacto à proteção de dados pessoais, ou informações necessárias à elaboração de tais relatórios, nos termos do art. 32 da Lei Federal nº 13.709, de 2018.
+
+
+IV –
+
+assegurar que o Encarregado seja informado, de forma adequada e em tempo útil, de todas as questões relacionadas com a proteção de dados pessoais no âmbito do Poder Legislativo municipal.
+
+
+Art. 8º.
+
+O descumprimento das normas e dos procedimentos referentes à proteção de dados pessoais, nos termos desta Resolução e da legislação, poderá acarretar, isolada ou cumulativamente, a aplicação de sanções administrativas, civis e penais previstas na legislação, assegurados o contraditório, a ampla defesa e o devido processo legal, nos termos do art. 52 da Lei Federal nº 13.709, de 2018.
+
+
+Art. 9º.
+
+Cabe à Comissão da LGPD, por solicitação do Encarregado:
+
+
+I –
+
+deliberar sobre proposta de diretrizes para elaboração dos planos de adequação, nos termos do art. 4º, parágrafo único desta Resolução;
+
+
+II –
+
+deliberar sobre qualquer assunto relacionado à aplicação da Lei Federal nº 13.709, de 2018, e da presente resolução pelos órgãos do Poder Legislativo.
+
+
+#### CAPÍTULO III — DO TRATAMENTO DE DADOS PESSOAIS PELOS ÓRGÃOS DO PODER LEGISLATIVO
+
+
+Art. 10.
+
+O tratamento de dados pessoais pelos órgãos do Poder Legislativo deve:
+
+
+I –
+
+objetivar o exercício de suas competências legais ou o cumprimento das atribuições legais do serviço público, para o atendimento de sua finalidade pública e a persecução do interesse público;
+
+
+II –
+
+observar o dever de conferir publicidade às hipóteses de sua realização, com o fornecimento de informações claras e atualizadas sobre a previsão legal, finalidade, os procedimentos e as práticas utilizadas para a sua execução.
+
+
+Art. 11.
+
+É vedado aos órgãos do Poder Legislativo Municipal transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, exceto:
+
+
+I –
+
+nos casos em que os dados forem acessíveis publicamente, observadas as disposições da Lei Federal nº 13.709, de 2018;
+
+
+II –
+
+quando houver previsão legal ou a transferência for respaldada, por meio de cláusula específica, em contratos, convênios ou instrumentos congêneres, cuja celebração deverá ser informada pelo responsável ao Encarregado para comunicação à autoridade nacional de proteção de dados;
+
+
+III –
+
+na hipótese de a transferência dos dados objetivar exclusivamente a prevenção de fraudes e irregularidades, ou proteger e resguardar a segurança e a integridade do titular dos dados, desde que vedado o tratamento para outras finalidades.
+
+
+Parágrafo único
+
+Em quaisquer das hipóteses previstas neste artigo:
+
+
+I –
+
+a transferência de dados dependerá de autorização específica conferida pelo órgão da Câmara Municipal à entidade privada;
+
+
+II –
+
+as entidades privadas deverão assegurar que não haverá comprometimento do nível de proteção dos dados garantido pelo órgão responsável.
+
+
+Art. 12.
+
+Os órgãos do Poder Legislativo Municipal podem efetuar a comunicação ou o uso compartilhado de dados pessoais a pessoa de direito privado, desde que:
+
+
+I –
+
+o Encarregado informe a Autoridade Nacional de Proteção de Dados, na forma do regulamento federal correspondente;
+
+
+II –
+
+seja obtido o consentimento do titular, salvo:
+
+
+a)
+
+nas hipóteses de dispensa de consentimento previstas na Lei Federal nº 13.709, de 2018;
+
+
+b)
+
+nos casos de uso compartilhado de dados, em que será dada publicidade nos termos do art. 11, inciso II deste decreto.
+
+
+§ 1º
+
+Sempre que necessário o consentimento, a comunicação dos dados pessoais a entidades privadas e o uso compartilhado entre estas e os órgãos do Poder Legislativo Municipal poderão ocorrer somente nos termos e para as finalidades indicadas no ato do consentimento.
+
+
+§ 2º
+
+O consentimento para a coleta de dados pessoais deverá ser obtido de forma livre, expressa, individual, clara, especifica e legítima e poderá ser revogado a qualquer momento pelo titular.
+
+
+§ 3º
+
+O consentimento é dispensado para o tratamento de dados pessoais tornados manifestamente públicos pelo titular, desde que o tratamento seja realizado de acordo com a finalidade, a boa-fé e o interesse público, resguardados os direitos do titular.
+
+
+Art. 13.
+
+Os planos de adequação devem observar, no mínimo, o seguinte:
+
+
+I –
+
+publicidade das informações relativas ao tratamento de dados em veículos de fácil acesso, preferencialmente na página da Câmara Municipal na internet, no Portal da Transparência, em seção específica a que se refere o parágrafo único do art. 5º deste decreto;
+
+
+II –
+
+atendimento das exigências que vierem a ser estabelecidas pela Autoridade Nacional de Proteção de Dados, nos termos do art. 23, § 1º, e do art. 27, parágrafo único da Lei Federal nº 13.709, de 2018;
+
+
+III –
+
+manutenção de dados em formato interoperável e estruturado para o uso compartilhado de dados com vistas à execução de políticas públicas, à prestação de serviços públicos, à descentralização da atividade pública e à disseminação e ao acesso das informações pelo público em geral.
+
+
+Art. 14.
+
+O tratamento de dados pessoais deverá ser finalizado quando:
+
+
+I –
+
+for alcançada a finalidade para a qual os dados foram coletados ou quando esses dados deixarem de ser necessários ou pertinentes para essa finalidade;
+
+
+II –
+
+o período de tratamento chegar ao fim;
+
+
+III –
+
+houver pedido de revogação do consentimento feito pelo titular, resguardado o interesse público; ou
+
+
+IV –
+
+por determinação da ANPD.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 15.
+
+A não observância das normas e procedimentos constantes na presente Resolução ensejará a aplicação das normas disciplinares, além das cabíveis na esfera cível e criminal, caso aplicáveis.
+
+
+Art. 16.
+
+Os casos omissos deverão ser dirimidos tendo em vista o contido na Lei Federal nº 13.709, de 14 de agosto de 2018, ou outra que vier a substituí-la, sendo tal norma legal fundamento de validade geral da presente Resolução.
+
+
+Art. 17.
+
+As despesas decorrentes do cumprimento desta Resolução correrão à conta das dotações próprias consignadas no orçamento do Poder Legislativo.
+
+
+Art. 18.
+
+A presente Resolução vigorará a partir da data de sua publicação.
+
+
+Câmara Municipal de Amontada, aos 12 de agosto de 2024.
+
+**Paulo Berg Melgaço**  
+- Presidente do Poder Legislativo -

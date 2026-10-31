@@ -1,0 +1,248 @@
+---
+titulo: "Lei-CMC nº 3.004, de 16 de setembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3004"
+data: "2010-09-16"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2018-04-12; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6526"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4174/text"
+sha256_fonte: "831f00de5eb56bdd5c571ec21d0fa02abe51c4d0b7f460ea5e53e681f1db07c4"
+sha256_texto: "8cf67fa1066a4be6c987dd7a9180e6119d0da8a2aab641b0781471e17da0eabf"
+capturado_em_fonte: "2026-10-28T07:16:14.303282-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.004, de 16 de setembro de 2010
+
+INSTITUI O PAGAMENTO DE DIÁRIAS PARA SUPORTAR AS DESPESAS DE VIAGENS DOS SERVIDORES E AGENTES POLÍTICOS DA CÂMARA MUNICIPAL DE CONGONHAS
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou a seguinte Lei:
+
+
+Art. 1º.
+
+Fica estabelecido que os servidores e agentes políticos, a serviço e em representação nos interesses da Câmara Municipal, que se afastarem do Município em caráter eventual ou transitório, para outra localidade do território nacional, farão jus à diária para cobrir as despesas de hospedagem, alimentação e transporte urbano e rodoviário.
+
+
+§ 1º
+
+Considera-se viagem de representação a que se destinar ao comparecimento de vereadores ou servidores a reuniões, congressos, seminários e outros eventos, a pedido da Mesa ou a requerimento do vereador ou servidor interessado.
+
+
+§ 2º
+
+No caso do afastamento do vereador, o requerimento deverá ser aprovado pelo Plenário da Casa, salvo as viagens de representação a cargo da Mesa Diretora, devidamente justificadas, quando a autorização deverá ser deferida apenas pelo Presidente da Mesa Diretora.
+
+
+Art. 2º.
+
+Cada viagem de representação será composta de no máximo 1/3 (um terço) da edilidade e 03 (três) servidores, salvo nos casos de participação em eventos cuja distância seja inferior a 70 (setenta) quilômetros, ou eventos de interesse coletivo da Casa devidamente justificado.
+
+
+§ 1º
+
+Para determinação do número de representantes, na forma deste artigo, será observada a ordem de protocolo dos requerimentos e o rodízio entre os vereadores e servidores, respeitada a preferência daqueles que ainda não tenham participado de algum evento.
+
+
+§ 2º
+
+O vereador que não houver participado de algum evento na sessão legislativa, é automaticamente inscrito para participar do próximo e somente após sua desistência por escrito é que serão analisados os pedidos protocolados.
+
+
+Art. 3º.
+
+Quando o servidor ou agente político se afastar para outra localidade, observado o disposto no artigo 1º e 2º desta lei, terá direito aos seguintes valores:
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+I –
+
+R$70,00 (setenta reais), quando o deslocamento exigir apenas almoço ou jantar;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+II –
+
+R$400,00 (quatrocentos reais), quando o deslocamento exigir somente hospedagem para capitais e distrito federal e R$ 250,00 (duzentos e cinquenta reais) para as demais localidades; e
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+III –
+
+R$750,00 (setecentos e cinquenta reais), quando o deslocamento exigir almoço, jantar e hospedagem para capitais e distrito federal e R$ 400,00 (quatrocentos reais) para as demais localidades.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 1º
+
+Ressalvado os deslocamentos para a Capital do Estado, somente para distâncias superiores a 120 (cento e vinte) quilômetros será concedida diária, sendo, contudo, nos demais casos, direito do vereador ou servidor ao ressarcimento da despesa de alimentação devidamente comprovada por documento hábil, processada pelo regime de adiantamento ou de restituição até o limite de R$ 500,00 (quinhentos reais).
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 2º
+
+Além da diária, o vereador ou servidor terá direito ao custeio de despesas com transporte e à taxa de inscrição para participar de evento, paga sob o regime de adiantamento ou de restituição, as quais deverão ser comprovadas através de documento hábil, até o limite de R$ 4.000,00 (quatro mil reais).
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 3º
+
+Quando a inscrição no evento der direito à alimentação ou à pousada, ou ambas, estas parcelas serão deduzidas para fins de apuração do valor da diária.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 4º
+
+A diária será devida por fração ou dia de afastamento, observados como termo inicial e final para fins de apuração do seu valor, respectivamente, a hora da partida e da chegada na sede.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 5º
+
+A diária integral compreende as parcelas de alimentação e hospedagem.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 6º
+
+Quando o afastamento for por mais de seis horas e não exigir hospedagem fora do município será devido a parcela de diária relativa à alimentação.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 7º
+
+A diária não será devida quando o afastamento se der por período inferior a seis horas.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+Art. 4º.
+
+Nos casos em que o deslocamento do Município constituir exigência permanente do cargo, o servidor ou agente político não fará jus a diárias.
+
+
+Art. 5º.
+
+Para autorização de viagem serão observados, dentre os mais, os seguintes:
+
+
+I –
+
+Preenchimento dos formulários próprios;
+
+
+II –
+
+Exposição dos motivos.
+
+
+Art. 6º.
+
+Para que possa ser processada em tempo hábil, a solicitação de diária aprovada pelo plenário da Casa deverá ser encaminhada ao setor de contabilidade em até 24 (vinte e quatro) horas antes do dia da saída.
+
+
+Art. 7º.
+
+As diárias de viagens serão empenhadas previamente e os recursos serão liberados ao servidor ou agente político antes de sua viagem.
+
+
+Art. 8º.
+
+Será obrigatória a apresentação do relatório de viagem em 02 (duas) vias, no prazo de 03 (três) dias úteis após o retorno do servidor ou agente político, com as devidas comprovações de comparecimento ou participação em eventos.
+
+Alteração feita pelo Art. 2º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 1º
+
+No relatório de viagem deverá constar, ainda, relatório circunstanciado das atividades desenvolvidas durante o período de afastamento, com identificação do beneficiário, destino da viagem, motivo do deslocamento, período de permanência e número de diárias, servindo este como prestação de contas das diárias recebidas.
+
+Alteração feita pelo Art. 2º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 2º
+
+É dispensada a apresentação de notas fiscais das despesas de hospedagem e alimentação durante o período de afastamento.
+
+Inclusão feita pelo Art. 2º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 3º
+
+Os servidores que se deslocam como motoristas de veículos oficiais da Câmara em razão da atribuição do cargo, deverão apresentar relatório em formulário próprio, com identificação do beneficiário, destino da viagem, motivo do deslocamento, período de permanência e números de diárias, que deverá ser endossado pelo respectivo Chefe imediato e servirá como prestação de contas das diárias recebidas.
+
+Inclusão feita pelo Art. 2º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+§ 4º
+
+Não serão liberadas novas diárias ao servidor ou agente político, que não apresentar o relatório de viagem anterior.
+
+Inclusão feita pelo Art. 2º. - Lei-CMC nº 3.758, de 12 de abril de 2018.
+
+
+Art. 9º.
+
+O servidor ou agente político que receber diárias e não se afastar da sede, por qualquer motivo, fica obrigado a restituí-las integralmente, no prazo de 03 (três) dias úteis.
+
+
+Art. 10.
+
+Na hipótese de o servidor ou agente político retornar à sede em prazo menor do que o previsto para seu afastamento, restituirá as diárias recebidas em excesso mediante procedimento adequado, no prazo previsto no artigo anterior.
+
+
+Art. 11.
+
+É vedada a concessão de diárias aos sábados, domingos e feriados, ressalvados os casos justificados por imperativa necessidade.
+
+
+Art. 12.
+
+Os valores fixados nesta Lei para Diárias serão atualizados, anualmente, aplicando-se o Índice Nacional de Preços ao Consumidor – INPC (Fonte IBGE).
+
+
+Art. 13.
+
+As despesas decorrentes da presente lei correrão à conta da seguinte dotação orçamentária:
+
+
+4.001 – Manutenções das Atividades Legislativas
+
+3.3.90.14 – Diárias – Civil
+
+3.3.90.33 – Passagens e despesas com locomoção
+
+3.390.39 – Outros Serviços de Terceiros – Pessoa Jurídica
+
+4.008 – capacitações de Recursos Humanos
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Congonhas, aos 16 de setembro de 2010.
+
+**Anderson Costa Cabido**
+
+**Prefeito Municipal**
+

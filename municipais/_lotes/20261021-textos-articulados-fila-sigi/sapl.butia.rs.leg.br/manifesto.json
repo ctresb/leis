@@ -1,0 +1,42 @@
+{
+  "host": "sapl.butia.rs.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.butia.rs.leg.br/c144291c1091c1d771aec8c37bd7aa513e0e4ecbc558f1386ee9d08e881186f3.json",
+    "url": "https://sapl.butia.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.butia.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d8da7eac035695b8a960100f0d06b57ad5a588ecaf3d5a7e8edf0a503e9bb0a0",
+    "bytes": 950,
+    "capturado_em": "2026-10-27T20:08:18.656687-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.butia.rs.leg.br/97ecd201dfd86ad197f047238c9272475b7ad16b957a8caebf18538527f6b41e.json",
+    "url": "https://sapl.butia.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.butia.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "73b8eeb610eb82e6c5f89f5f7d7b701359c931893f0fc0ffbb906c5b1d2b5c74",
+    "bytes": 737,
+    "capturado_em": "2026-10-27T20:08:17.743185-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.butia.rs.leg.br/b7c5692d0146bb3a0b1e222d257a31a16f3d43c4d0aa8fc7679e10f83277b6c4.json",
+      "url": "https://sapl.butia.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.butia.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T20:08:20.656575-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

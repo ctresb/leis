@@ -1,0 +1,312 @@
+---
+titulo: "LEI ORDINÁRIA nº 415, de 27 de novembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "415"
+data: "2013-11-27"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2024-06-11; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/535"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/620/text"
+sha256_fonte: "6e2a2e7d7e5ca75af7c699744d00d5c6c854a809330d94050d625064d4d98168"
+sha256_texto: "c9e2be204b7e0f7dd4b847954687aeb5ee58b64876f3756e2ae6bbc806437d78"
+capturado_em_fonte: "2026-10-27T20:25:49.326886-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 415, de 27 de novembro de 2013
+
+**Institui o Conselho Municipal de Esportes, Juventude e Lazer – Comsejul – e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+#### CAPÍTULO I — DA INSTITUCIONALIZAÇÃO E DA FINALIDADE BÁSICA DO CONSELHO
+
+
+Art. 1º.
+
+Fica instituído o Conselho Municipal de Esportes, Juventude e Lazer, identificado pela sigla Comsejul, vinculado à Secretaria Municipal da Juventude, Esportes e Cultura, órgão colegiado de caráter permanente, deliberativo, consultivo e fiscalizador, com a finalidade de formular políticas públicas e implementar ações destinadas ao fortalecimento das atividades esportivas, da juventude e de lazer no Município de Cabeceira Grande.
+
+
+#### CAPÍTULO II — DAS COMPETÊNCIAS DO CONSELHO
+
+
+Art. 2º.
+
+São competências específicas do Comsejul:
+
+
+I –
+
+desenvolver estudos, projetos, debates, pesquisas relativas à situação do esporte, juventude e lazer no Município;
+
+
+II –
+
+contribuir com os demais órgãos da administração municipal no planejamento de ações concernentes a projetos de ginástica, recreação e esporte;
+
+
+III –
+
+acatar propostas e sugestões manifestadas pela sociedade e opinar sobre denúncias que digam respeito a programas, competições e eventos culturais da cidade;
+
+
+IV –
+
+promover intercâmbio e convênios com instituições públicas e privadas, com a finalidade de implementar as medidas e ações que são objeto do Conselho;
+
+
+V –
+
+pronunciar-se sobre construção e manutenção de equipamentos de ginástica, lazer, recreação e esportes da cidade de Cabeceira Grande;
+
+
+VI –
+
+propor ao Poder Público a instituição de concursos para financiamento de projetos e a concessão de prêmios como estímulo às atividades desportivas e de lazer;
+
+
+VII –
+
+estudar, analisar, elaborar, discutir, propor e aprovar planos, programas e projetos relativos à juventude no âmbito do Município;
+
+
+VIII –
+
+participar da elaboração e da execução de políticas públicas da juventude, em colaboração com os órgãos públicos municipais, além de colaborar com a administração municipal na implementação de políticas públicas voltadas para o atendimento das necessidades da juventude;
+
+
+IX –
+
+desenvolver estudos e pesquisas relativas à juventude, objetivando subsidiar o planejamento das ações públicas para este segmento no Município;
+
+
+X –
+
+fiscalizar e exigir o cumprimento da legislação que assegure os direitos dos jovens;
+
+
+XI –
+
+propor a criação de canais de participação dos jovens junto aos órgãos municipais;
+
+
+XII –
+
+convocar a Conferência Municipal de Esportes, Juventude e Lazer e propor normas organização do evento; e
+
+
+XIII –
+
+elaborar e aprovar o seu Regimento Interno e normas de funcionamento.
+
+
+Art. 3º.
+
+Cabe ao Comsejul estabelecer as prioridades e deliberar sobre o orçamento destinado às políticas públicas de esportes e lazer, bem como a fiscalização da sua aplicação.
+
+
+#### CAPÍTULO III — DA COMPOSIÇÃO E DO FUNCIONAMENTO DO CONSELHO
+
+
+Art. 4º.
+
+O Comsejul será constituído por 7 (sete) membros, sendo 3 (três) indicados pelo Poder Executivo e 4 (quatro) indicados pela Sociedade Civil Organizada, nа forma seguinte:
+
+Alteração feita pelo Art. 4° - LEI ORDINÁRIA nº 820, de 11 de junho de 2024.
+
+
+I –
+
+1 (um) representante da Secretaria Municipal da Juventude, Esportes e Cultura;
+
+
+II –
+
+1 (um) representante da Secretaria Municipal do Desenvolvimento Social e Cidadania;
+
+
+III –
+
+1 (um) representante da Secretaria Municipal do Meio Ambiente e Turismo;
+
+
+IV –
+
+Revogado;
+
+Alteração feita pelo Art. 4° - LEI ORDINÁRIA nº 820, de 11 de junho de 2024.
+
+
+V –
+
+1 (um) representante da Associação Comercial, Agropecuária, Industrial e de Serviços de Cabeceira Grande;
+
+
+VI –
+
+1 (um) representante da Associação de Desportos dos Amigos de Palmital de Minas;
+
+
+VII –
+
+1 (um) representante de promotores de eventos locais; e
+
+
+VIII –
+
+1 (um) representante de praticantes de esportes.
+
+
+§ 1º
+
+A cada representante titular do Comsejul corresponderá um suplente.
+
+
+§ 2º
+
+O mandato dos Conselheiros será de 2 (dois) anos, permitida uma recondução.
+
+
+§ 3º
+
+Os membros de que tratam os incisos I, II, III, V e VI deste artigo serão indicados pelas respectivas representações e autoridades competentes, e os membros de que tratam os incisos VII e VIII serão escolhidos mediante edital de chamamento público.
+
+Alteração feita pelo Art. 4° - LEI ORDINÁRIA nº 820, de 11 de junho de 2024.
+
+
+§ 4º
+
+Os membros do Conselho serão indicados até 20 (vinte) dias antes do término do mandato dos conselheiros anteriores.
+
+
+§ 5º
+
+São impedidos de integrar o Comsejul cônjuge e parentes consaguineos ou afins, até o terceiro grau, do Prefeito e do Vice-Prefeito, dos Secretários Municipais e de ocupantes de cargos equiparados a Secretário Municipal.
+
+
+§ 6º
+
+As decisões do Conselho serão consubstanciadas em resoluções.
+
+
+§ 7º
+
+As resoluções do Conselho, bem como os temas tratados em plenário, reuniões de diretoria e comissões deverão ser registrados em ata.
+
+
+Art. 5º.
+
+O suplente substituirá o titular do Conselho nos casos de afastamentos temporários ou eventuais deste, e assumirá sua vaga nas hipóteses de afastamento definitivo decorrente de desligamento por motivos particulares ou outras situações pertinentes.
+
+
+Art. 6º.
+
+O Comsejul reunir-se-á, mensalmente, na primeira semana de cada mês, e, extraordinariamente, quando convocado pela sua Comissão Executiva ou pela maioria de seus membros (metade mais um), mediante manifestação escrita, com antecedência mínima de 72 (setenta e duas) horas.
+
+
+#### CAPÍTULO IV — DA COMISSÃO EXECUTIVA DO CONSELHO
+
+
+Art. 7º.
+
+Caberá ao Comsejul eleger uma Comissão Executiva composta de 4 (quatro) membros assim discriminados:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice Presidente;
+
+
+III –
+
+Secretário Geral; e
+
+
+IV –
+
+Diretor de Eventos.
+
+
+Art. 8º.
+
+Compete à Comissão Executiva do Comsejul:
+
+
+I –
+
+convocar e presidir as sessões ordinárias e extraordinárias do Comsejul;
+
+
+II –
+
+cumprir e encaminhar as resoluções deliberadas pelo Comsejul;
+
+
+III –
+
+deliberar, nos casos de urgência, ad referendum do Comsejul;
+
+
+IV –
+
+delegar tarefas a membros do conselho, quando julgar conveniente; e
+
+
+V –
+
+exercer outras atribuições correlatas.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS
+
+
+Art. 9º.
+
+Ao Comsejul é facultado formar comissões provisórias ou permanentes, objetivando apresentar e propor medidas que contribuam para concretização de suas políticas.
+
+
+Art. 10.
+
+A atuação dos membros do Comsejul não será remunerada, sendo considerada, todavia, atividade de relevante interesse público e social, a ser devidamente atestada.
+
+
+Art. 11.
+
+O Prefeito Municipal promoverá a nomeação dos membros do Comsel após serem procedidas as devidas indicações mediante ato próprio.
+
+
+Art. 12.
+
+O Conselho elaborará seu Regimento Interno, a ser baixado por decreto do Prefeito Municipal, no prazo de até 90 (noventa) dias, contados da data de publicação desta Lei.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**Cabeceira Grande, 27 de novembro de 2013; 17º da Instalação do Município.**
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**DAILTON GERALDO RODRIGUES GONÇALVES**
+
+**Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais**
+
+**"Este texto não substitui o original"**
+

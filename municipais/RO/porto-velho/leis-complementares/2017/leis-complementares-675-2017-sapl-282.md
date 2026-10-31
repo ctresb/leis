@@ -1,0 +1,443 @@
+---
+titulo: "Lei Complementar nº 675, de 29 de setembro de 2017"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "675"
+data: "2017-09-29"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-08-22; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/282"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/291/text"
+sha256_fonte: "af3f238a5139e5775525dcacc1e783d8ed80fd312bcd07878aff84bd446a5cb7"
+sha256_texto: "09cb15941474301ab39fd9cdd56d11d76d6908df18c4c0d9a9e6211c18bcc390"
+capturado_em_fonte: "2026-10-27T20:41:01.287370-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 675, de 29 de setembro de 2017
+
+“Institui a Contribuição para Custeio da Iluminação Pública (COSIP), e Revoga a Lei Complementar nº 153, de 26 de dezembro de 2002, e dá outras providências.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica instituída no município de Porto Velho, na forma o art. 149-A, da Constituição Federal/1988, a Contribuição para o custeio, a expansão e a melhoria do serviço de iluminação pública e de sistemas de monitoramento para segurança e preservação de logradouros públicos – COSIP.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+Parágrafo único
+
+Considera-se serviço de iluminação pública aquele destinado a iluminar, em caráter universal, vias, logradouros e outros locais públicos de uso comum, bem como executar atividades acessórias de instalação, manutenção, expansão da respectiva rede de iluminação cênica para monumentos e espaços públicos.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+Art. 2º.
+
+São contribuintes da COSIP:
+
+
+I –
+
+o proprietário, o titular do domínio útil ou o possuidor a qualquer título de bem imóvel localizado no território do Município que possua ligação de energia elétrica regular fornecida por concessionária distribuidora; e
+
+
+II –
+
+o proprietário de imóvel não edificado que não possua unidade medidora.
+
+
+Art. 3º.
+
+A COSIP tem como fato gerador a utilização, efetiva ou potencial, dos serviços públicos de:
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+I –
+
+iluminação pública – compreendendo a instalação, melhoramento, administração, manutenção, expansão, inclusive a rede de iluminação cênica para monumentos e espaços públicos e fiscalização de todo o sistema;
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+II –
+
+sistema de monitoramento – abrangendo a segurança e a preservação dos logradouros públicos, com a utilização de tecnologias e estruturas que visem aprimorar a vigilância, proteção e manutenção de espaços públicos, de modo a garantir a segurança dos cidadãos e preservação desses locais.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+Art. 4º.
+
+A base de cálculo da COSIP corresponderá ao gasto dos serviços de iluminação pública e monitoramento a ser objeto de rateio entre os contribuintes.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+§ 1º
+
+Integram o gasto a que se refere o caput deste artigo:
+
+
+I –
+
+despesas com a energia elétrica consumida pelos serviços de iluminação das vias, logradouros e demais locais públicos de uso comum do povo;
+
+
+II –
+
+despesas com instalação, administração, operação, manutenção e melhoramentos do sistema de iluminação pública;
+
+
+III –
+
+investimentos e despesas com a expansão do sistema de iluminação pública;
+
+
+IV –
+
+despesas com instalações provisórias para realização de serviços ou eventos públicos;
+
+
+V –
+
+investimentos e despesas com instalação de rede elétrica para zonas ou imóveis de interesse social.
+
+
+VI –
+
+executar atividades acessórias de instalação, manutenção, expansão da respectiva rede de iluminação cênica para monumentos e espaços públicos; e
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+VII –
+
+o custeio, a expansão e a melhoria dos sistemas de monitoramento para segurança e preservação de logradouros públicos.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+§ 2º
+
+**VETADO**.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+Art. 5º.
+
+O lançamento e a exigência da Contribuição para o custeio do Serviço de Iluminação Pública (COSIP), individualizada por bem imóvel, serão efetuados:
+
+
+I –
+
+mensalmente, para os consumidores residenciais e não residenciais de energia elétrica, e lançada na respectiva fatura mensal emitida pela concessionária distribuidora;
+
+
+II –
+
+anualmente, para os proprietários de imóveis não edificados, com vencimento em 31 de março de cada ano.
+
+
+Parágrafo único
+
+A critério da Administração Pública, a cobrança da COSIP que dispõe o inciso II do caput deste artigo, poderá ser enviada juntamente com o carnê do Imposto Predial e Territorial Urbano (IPTU).
+
+
+Art. 6º.
+
+O valor da COSIP será fixado em conformidade com a classe de consumidores e sua respectiva faixa de consumo:
+
+
+I –
+
+Consumidores Residenciais Urbanos:
+
+
+a)
+
+0-30 kWh/mês: ISENTO
+
+
+b)
+
+31-50 kWh/mês: R$ 2,03;
+
+
+c)
+
+51-100 kWh/mês: R$ 4,31;
+
+
+d)
+
+101-200 kWh/mês: R$ 7,61;
+
+
+e)
+
+201-500 kWh/mês: R$ 20,29;
+
+
+f)
+
+501-1000 kWh/mês: R$ 30,43
+
+
+g)
+
+1001-1500 kWh/mês: R$ 45,64;
+
+
+h)
+
+Acima de 1500 kWh/mês: R$ 68,97.
+
+
+II –
+
+Consumidores Residenciais Rurais:
+
+
+a)
+
+0-100 kWh/mês: ISENTO
+
+
+b)
+
+101-200 kWh/mês: R$ 7,61;
+
+
+c)
+
+201-500 kWh/mês: R$ 17,75;
+
+
+d)
+
+501-1000 kWh/mês: R$ 26,63;
+
+
+e)
+
+1001-1500 kWh/mês: R$ 40,83;
+
+
+f)
+
+Acima de 1500 kWh/mês: R$ 60,35.
+
+
+III –
+
+Consumidores Não Residenciais (Comércio, Indústria, Prestadores de Serviços, Serviços Públicos e Congêneres):
+
+
+a)
+
+0-30 kWh/mês: R$ 0,83;
+
+
+b)
+
+31-50 kWh/mês: R$ 1,95;
+
+
+c)
+
+51-100 kWh/mês: R$ 13,94;
+
+
+d)
+
+101-200 kWh/mês: R$ 27,89;
+
+
+e)
+
+201-500 kWh/mês: R$ 55,79;
+
+
+f)
+
+501-1000 kWh/mês: R$ 83,68;
+
+
+g)
+
+1001-1500 kWh/mês: R$ 111,57;
+
+
+h)
+
+Acima de 1500 kWh/mês: R$ 139,47.
+
+
+IV –
+
+Consumidores Não Residenciais Primários:
+
+
+a)
+
+0-2000 kWh/mês: R$ 139,47;
+
+
+b)
+
+2001-5000 kWh/mês: R$ 278,93;
+
+
+c)
+
+5001-10000 kWh/mês: R$ 382,90;
+
+
+d)
+
+10001-50001 kWh/mês: R$ 474,19;
+
+
+e)
+
+e) Acima de 50001 kWh/mês: R$ 562,95;
+
+
+V –
+
+Proprietários de Imóveis não edificados, com testada, em metro linear:
+
+
+a)
+
+De até 10 m: R$ 70,01;
+
+
+b)
+
+Acima de 10m a 30m: R$ 140,02;
+
+
+c)
+
+Acima de 30m a 50m: R$ 210,03;
+
+
+d)
+
+Superior a 50m: R$ 280,04
+
+
+§ 1º
+
+Considera-se Consumidor Não Residencial Primário, aquele cujo estabelecimento encontra-se ligado à rede que possua tensão superior a 13,8 kV (kilovolts).
+
+
+§ 2º
+
+Sem prejuízo do disposto nesta Lei Complementar, a determinação da classe/categoria de consumidor observará as diretrizes da Agência Nacional de Energia Elétrica (ANEEL), ou outro órgão regulador que vier a substituí-la;
+
+
+§ 3º
+
+Os valores da Contribuição para o Custeio da Iluminação Pública (COSIP) serão atualizados, quando necessário, mediante prévia apresentação de estudo técnico que justifique a majoração, a ser discutido em pelo menos uma Audiência Pública, por meio de Lei Complementar.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 783, de 16 de outubro de 2019.
+
+
+Art. 7º.
+
+Fica a concessionária distribuidora de energia elétrica responsável pela cobrança e recolhimento da COSIP, bem como pela transferência do montante arrecadado para a conta do Tesouro Municipal.
+
+
+§ 1º
+
+O produto da arrecadação da COSIP é vinculado exclusivamente ao custeio dos serviços de iluminação pública e monitoramento, nos termos desta Lei Complementar.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+§ 2º
+
+A eficácia do disposto no caput deste artigo, será assegurada por meio de convênio ou contrato a ser celebrado entre a Administração Municipal e a concessionária distribuidora de energia elétrica, respeitadas, no que couber, as determinações da ANEEL.
+
+
+§ 3º
+
+O convênio ou contrato a que se refere o § 2º deste artigo deverá, obrigatoriamente, prever:
+
+
+I –
+
+o repasse do saldo de todos os recursos arrecadados com a COSIP para o Fundo Municipal de Iluminação Pública (FUMIP);
+
+
+II –
+
+a retenção dos valores necessários ao pagamento da energia fornecida para a iluminação pública e daqueles fixados para remuneração dos custos de arrecadação;
+
+
+III –
+
+o recolhimento aos cofres municipais do valor do Imposto sobre Serviços de Qualquer Natureza (ISSQN), incidentes sobre as atividades de cobrança dos recursos da COSIP.
+
+
+§ 4º
+
+O valor da COSIP não recolhido no vencimento será atualizado monetariamente, e acrescido de juros de mora de 1% (um por cento) ao mês, e multa de 2% (dois por cento), incidentes sobre o valor principal da contribuição.
+
+
+Art. 8º.
+
+Fica instituído o Fundo Municipal de Iluminação Pública (FUMIP), de natureza contábil, orçamentária e administrativa, vinculado à Secretaria Municipal de Economia (SEMEC), para fins de administração e gestão da aplicação dos respectivos recursos.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+§ 1º
+
+O saldo remanescente do Fundo Municipal de Iluminação Pública criado pela Lei Complementar nº 153/2002, será incorporado ao FUMIP, instituído pela presente Lei Complementar.
+
+
+§ 2º
+
+Compete ao Conselho de Recursos Fiscais, órgão colegiado de deliberação superior vinculado à Secretaria Municipal de Economia, o julgamento de impugnações e recursos administrativos pertinentes ao lançamento da COSIP.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 1.028, de 22 de agosto de 2025.
+
+
+Art. 9º.
+
+O Poder Executivo regulamentará a presente Lei Complementar no que for necessário a sua fiel execução.
+
+
+Art. 10.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, com efeitos a partir de 1º de Janeiro de 2018.
+
+
+Art. 11.
+
+Revogam-se as disposições em contrário, em especial a Lei Complementar nº 153, de 26 de Dezembro de 2002, e suas alterações, a partir de 01 de Janeiro de 2018
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+

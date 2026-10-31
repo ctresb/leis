@@ -1,0 +1,42 @@
+{
+  "host": "sapl.carnaubadosdantas.rn.leg.br",
+  "metadados_unicos_observados": 39,
+  "total_api_declarado": 39,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 24,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carnaubadosdantas.rn.leg.br/7a51e92a34889c5decfb4ff05c9acecd47e570ce830d86789312b0d7eafcbd54.json",
+    "url": "https://sapl.carnaubadosdantas.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.carnaubadosdantas.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "45dd13654c0d12c80a587efca696f1517220af857a346d5f5aa74c800ba18ae8",
+    "bytes": 2281,
+    "capturado_em": "2026-10-27T22:35:42.510085-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carnaubadosdantas.rn.leg.br/db68c9b51c79a7e580259853623cff429a41c8b8596c787e52dd2df37416ff6e.json",
+    "url": "https://sapl.carnaubadosdantas.rn.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.carnaubadosdantas.rn.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d63b69a170dfc88cc09fe748e1ab2285eb48fd090a83cef787046c58bdf6e761",
+    "bytes": 839,
+    "capturado_em": "2026-10-27T22:35:41.502972-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carnaubadosdantas.rn.leg.br/07fabd501446fcfef12581771198657b80e6a89496c5991b861653a14eb882aa.json",
+      "url": "https://sapl.carnaubadosdantas.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.carnaubadosdantas.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c3ea1e7164e12ee282e053919f398642989f8a37abed85cef70ab6e92b111eca",
+      "bytes": 24921,
+      "capturado_em": "2026-10-27T22:35:44.724362-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

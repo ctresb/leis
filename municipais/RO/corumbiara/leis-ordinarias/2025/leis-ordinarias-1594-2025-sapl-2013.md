@@ -1,0 +1,59 @@
+---
+titulo: "LEI ORDINÁRIA-GPRE nº 1.594, de 22 de setembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1594"
+data: "2025-09-22"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/2013"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/119/text"
+sha256_fonte: "bad7fb2e8da3bb6e84c8dee32da108258da9cd06de66fd3497277a06fc63b375"
+sha256_texto: "f28423bc74279578532b19352c51826db13cb47c5afa0a6bb83b7b359da99dfc"
+capturado_em_fonte: "2026-10-28T09:22:27.348614-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# LEI ORDINÁRIA-GPRE nº 1.594, de 22 de setembro de 2025
+
+O Prefeito do Município de Corumbiara, Estado de Rondônia, no uso de suas atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal de Vereadores aprovou e Ele sanciona e promulga a seguinte:
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir no corrente Exercício Financeiro, um Crédito Adicional Suplementar no valor de R$ 29.580,00 (vinte e nove mil e quinhentos e oitenta reais), para reforçar a seguinte dotação orçamentária:
+
+**02 - CÂMARA MUNICIPAL DE CORUMBIARA 01 ORGÃO: CÂMARA MUNICIPAL 0101 UNIDADE: CÂMARA MUNICIPAL 01 - Legislativa 01.031 - Ação Legislativa 01.031.0001 - Legislativo Democrático 01.031.0001.2001.0000 Manutenção e Apoio dos Serviços Administrativos da Câmara Municipal. 3.3.90.30.00001.001 - MATERIAL DE CONSUMO ...................................................... R$ 15.380,00 3.3.90.33.00001.001- PASSAGENS E DESPESAS COM LOCOMOÇÃO ........................ R$ 5.000,00 3.3.90.46.00001.001 - AUXÍLIO-ALIMENTAÇÃO .......................................................... R$ 9.200,00 Total da Suplementação ............................................................................................... R$ 29.580,00**
+
+
+Art. 2º.
+
+Para dar cobertura ao crédito autorizado serão utilizados recursos provenientes do Artigo 43, §1º, Inciso III, da Lei Federal 4.320/64, pela anulação total ou parcial das dotações especificadas abaixo:
+
+**02 - CÂMARA MUNICIPAL DE CORUMBIARA 01- ORGÃO: CÂMARA MUNICIPAL 01.01 UNIDADE: CÂMARA MUNICIPAL 01.01.01 - CÂMARA MUNICIPAL 01 - Legislativa 01.031 - Ação Legislativa**
+
+**01.031.0001 - Legislativo Democrático 01.031.0001.2001.0000 - Manutenção e Apoio dos Serviços Administrativos da Câmara Municipal. 3.1.90.13.00001.001 OBRIGAÇÕES PATRONAIS ................................................... R$ 24.580,00 3.1.90.16.00001.001 OUTRAS DESPESAS VARIÁVEIS PESSOA CIVIL ............... R$ 5.000,00 Total da Redução .......................................................................................................... R$ 29.580,00**
+
+
+Art. 3º.
+
+Fica o Poder Executivo autorizado a realizar as alterações que forem necessárias no PPA para a implantação da presente Lei.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+Corumbiara - RO, 22 de setembro de 2025
+
+**LEANDRO TEIXEIRA VIEIRA**  
+Prefeito Municipal  
+(assinatura eletrônica)
+

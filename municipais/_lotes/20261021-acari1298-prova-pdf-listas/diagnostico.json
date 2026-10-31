@@ -1,0 +1,19 @@
+{
+  "publicavel": false,
+  "conclusao": "Retenção mantida. O PDF original não confirma uniformemente os contadores romanos implícitos do HTML compilado. Não completar I a VII ou I a VIII por inferência.",
+  "fonte_pdf": "municipais/_fonte/auditorias/acari1298-original/lei-1298-2023.pdf",
+  "sha256_pdf": "e8989c5af42ce45ba8b143b30657a6161ecbf3be4be57484ab5473a1406f597a",
+  "capturado_em": "2026-10-21T06:13:53.254532-03:00",
+  "paginas": 14,
+  "inspecao": [
+    {
+      "pagina": 2,
+      "achado": "Art. 4 contém I, II e VII escritos, mas demais itens só travessões. Art. 5 contém III escrito no fluxo, demais itens só travessões. A imagem confirma a camada textual; não é perda dos algarismos na extração."
+    },
+    {
+      "pagina": 11,
+      "achado": "A lista de três hipóteses depois de licitante for contém explicitamente 1., 2. e 3. na imagem e na camada textual. O MD retido não preserva essa estrutura."
+    }
+  ],
+  "limite": "O original de 2023 é uma prova distinta da compilação HTML. Não substituí a fonte escolhida nem mesclei redações; reparo específico ainda necessário e listas anteriores intactas."
+}

@@ -1,0 +1,150 @@
+---
+titulo: "Lei Ordinária nº 10.432, de 22 de dezembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "10432"
+data: "2015-12-22"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; 2021-05-14; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/4637"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/380/text"
+sha256_fonte: "8f6b2bdac12d08ce6d458515221871cfc4da4fa2ab2d5b0a32589a5587dba706"
+sha256_texto: "21dce6d89e90e6f6b202ce65f95613326fb2901022c489dd71f177d92f6be58c"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 10.432, de 22 de dezembro de 2015
+
+Institui o Edital das Artes de Fortaleza e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica instituído o Edital das Artes de Fortaleza, vinculado à Secretaria Municipal da Cultura de Fortaleza (SECULTFOR), que visa estimular a promoção, produção e fruição das artes, no âmbito do Município, sua difusão, dentro e fora dos seus limites territoriais e fomentar a programação artística em espaços públicos e privados nos diversos territórios da cidade.
+
+
+Art. 2º.
+
+O Edital das Artes de Fortaleza se destina a ampliar a criação e o consumo de produtos, bens e serviços artísticos em Fortaleza, assim como identificar, reconhecer e potencializar novos realizadores, mediante a concessão de apoio a projetos, ações e atividades a serem apresentados por pessoas físicas ou jurídicas com finalidade artística, com sede ou residência no município de Fortaleza.
+
+
+Art. 3º.
+
+O Edital das Artes de Fortaleza será organizado por categorias que corresponderão às linguagens com assento no Conselho Municipal de Política Cultural (CMPC), garantindo a cada uma os respectivos recursos.
+
+
+§ 1º
+
+Havendo modificação na composição do Conselho Municipal de Política Cultural, no que tange à inclusão de novas linguagens, haverá a inclusão correspondente da respectiva linguagem como nova categoria a ser contemplada pelo Edital das Artes de Fortaleza imediatamente subsequente.
+
+
+§ 2º
+
+A proposta de Edital das Artes de Fortaleza elaborada pela SECULTFOR será enviada aos Fóruns Setoriais do Sistema Municipal de Cultura, para discussão prévia, 30 (trinta) dias antes da submissão da proposta à aprovação pelo Conselho Municipal de Política Cultural (CMPC).
+
+
+Art. 4º.
+
+O Edital das Artes de Fortaleza será realizado anualmente e financiará o valor apresentado pelas propostas selecionadas por comissão julgadora constituída exclusivamente para esse fim.
+
+
+§ 1º
+
+Serão destinados, a cada edição, até 20% (vinte por cento) do valor integral do Edital ao desenvolvimento de obras de artistas iniciantes com, no máximo, 2 (dois) anos de atividades comprovadas.
+
+
+§ 2º
+
+Cada território administrativo do Município terá selecionada, no mínimo, 1 (uma) proposta apresentada por proponente com domicílio ou sede na respectiva área.
+
+
+§ 3º
+
+As propostas de ações, em contrapartida, poderão ocorrer em qualquer espaço ou equipamento, respeitando a característica de cada projeto. Havendo o interesse, por parte dos proponentes, em realizar em espaços públicos ou equipamentos da Prefeitura de Fortaleza, caberá à SECULTFOR a organização e o gerenciamento das ações nos territórios.
+
+
+§ 4º
+
+Em caso de ação a ser realizada em espaço público, o proponente deverá garantir a gratuidade.
+
+
+§ 4º-A
+
+Enquanto perdurar o estado de calamidade pública, devidamente reconhecido, poderá, a pedido do próprio proponente ou, de ofício, pela Secretaria Municipal da Cultura de Fortaleza (Secultfor), proceder à conversão do formato de execução das ações e das contrapartidas dos projetos contemplados pelo Edital das Artes para virtual ou outro meio adequado.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 11.103, de 14 de maio de 2021.
+
+
+§ 1º
+
+Os prazos de vigência e de execução, quando da ocorrência da situação prevista no caput, poderão sofrer prorrogação, de ofício, pela Secretaria Municipal da Cultura de Fortaleza (Secultfor) até que seja cessado o estado de calamidade pública.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 11.103, de 14 de maio de 2021.
+
+
+§ 2º
+
+Além da prorrogação dos prazos de vigência e de execução, bem como da possibilidade de alteração do formato de apresentação das ações e das contrapartidas de presencial para virtual, a Secretaria Municipal da Cultura de Fortaleza (Secultfor) poderá adotar outras medidas que entender necessárias.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 11.103, de 14 de maio de 2021.
+
+
+I –
+
+Fica facultada aos contemplados pelo Edital das Artes a execução das ações presenciais, pós-período pandêmico, em um prazo de até 90 (noventa) dias.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 11.103, de 14 de maio de 2021.
+
+
+§ 3º
+
+As ações contidas neste artigo terão aplicação imediata quando da publicação da presente Lei, em especial aos projetos contemplados pelo VII e VIII Edital das Artes.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 11.103, de 14 de maio de 2021.
+
+
+Art. 5º.
+
+Será formada uma comissão julgadora para cada linguagem, constituída por 3 (três) especialistas de notório saber na linguagem, selecionada por meio de Edital Público.
+
+
+Art. 6º.
+
+As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias próprias da SECULTFOR ou por meio do Fundo Municipal de Cultura (FMC).
+
+
+Parágrafo único
+
+Dos valores previstos, poderão ser utilizados até 10% (dez por cento) para pagamento dos membros da Comissão Julgadora, assessorias técnicas, serviços e despesas decorrentes de sua execução.
+
+
+Art. 7º.
+
+O Edital lançado anualmente não poderá ter recurso inferior ao do ano anterior.
+
+
+Art. 7º-B.
+
+A Secultfor poderá editar portarias regulamentadoras no que couber.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 11.103, de 14 de maio de 2021.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Paço da Prefeitura Municipal de Fortaleza, em 22 de Dezembro de 2015.**
+
+**ROBERTO CLÁUDIO RODRIGUES BEZERRA**
+
+**Prefeito Municipal de Fortaleza**
+

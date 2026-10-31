@@ -7,15 +7,17 @@ data: "1990-04-05"
 municipio: "Duas Barras"
 uf: "RJ"
 codigo_ibge: "3301603"
-versao_texto: "texto integral anexado no SAPL municipal; "
+versao_texto: "texto integral anexado no SAPL municipal; ; trechos tachados identificados conforme a fonte, com texto e notas preservados"
 fonte: "https://sapl.duasbarras.rj.leg.br/norma/258"
 fonte_texto: "https://sapl.duasbarras.rj.leg.br/media/sapl/public/normajuridica/1990/258/lei_organica_do_municipio_duas_barras_atualizada.pdf"
 sha256_fonte: "26ad363c13f2745c44e2447bd2979cae2d8785fe8d05868448ac4ec0992d82fa"
-sha256_texto: "3db21dd9d703ec863607ae8588a357a12bcf8936c07c0f2a0d6ba5a78cdc8786"
+sha256_texto: "5c94d3fd437929635c82902a7103da9f3d2cdc05a059f5d4021aeb62e8c3bd11"
 baixado_em: "2026-10-15"
 ---
 
 # Lei Orgânica Municipal-CMDB nº 1, de 05 de abril de 1990
+
+Nota de transcrição: esta edição oficial reúne trechos tachados e não tachados. Os trechos tachados foram preservados entre rótulos explícitos, com indicação da página da fonte; as notas de alteração, revogação e efeitos permanecem literais. A marcação reproduz a apresentação da fonte e não certifica vigência jurídica integral ou atualização posterior.
 
 LEI ORGÂNICA DO MUNICÍPIO DE DUAS BARRAS
 
@@ -1841,7 +1843,7 @@ b) com os dispositivos do texto do projeto de lei. \* Novo Artigo dado pela Emen
 
 emendas individuais do Legislativo Municipal em Lei Orçamentária Anual.
 
-**§1°** - As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo, sendo que a metade deste percentual será destinada a ações e serviços públicos de saúde. EMENDA A LEI ORGÂNICA Nº 01 DE 26 DE JUNHO DE 2023.
+**⟦INÍCIO DO TRECHO TACHADO NA FONTE, página 56, grupo 1⟧§1°** - As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 1,2% (um inteiro e dois décimos por cento) da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo, sendo que a metade deste percentual será destinada a ações e serviços públicos de saúde.⟦FIM DO TRECHO TACHADO NA FONTE⟧ EMENDA A LEI ORGÂNICA Nº 01 DE 26 DE JUNHO DE 2023.
 
 **§1°** - As emendas individuais ao projeto de lei orçamentária serão aprovadas no limite de 2% (dois por cento) da receita corrente líquida prevista no projeto encaminhado pelo Poder Executivo, sendo que a metade deste percentual será destinada a ações e serviços.
 
@@ -2061,17 +2063,17 @@ Parágrafo Único – A contabilidade da Câmara Municipal encaminhará as suas 
 
 ##### Seção X Das Contas Municipais
 
-**Art. 188** – Até 60 (sessenta) dias após o início da sessão legislativa de cada ano, o Prefeito Municipal encaminhará ao Tribunal de Contas do Estado ou órgão equivalente as contas do Município, que se comporão de:
+**⟦INÍCIO DO TRECHO TACHADO NA FONTE, página 64, grupo 2⟧Art. 188** – Até 60 (sessenta) dias após o início da sessão legislativa de cada ano, o Prefeito Municipal encaminhará ao Tribunal de Contas do Estado ou órgão equivalente as contas do Município, que se comporão de:⟦FIM DO TRECHO TACHADO NA FONTE⟧
 
-I – demonstrações contábeis, orçamentárias e financeiras da administração direta e indireta, inclusive dos fundos especiais e das fundações instituídos e mantidos pelo Poder Público;
+⟦INÍCIO DO TRECHO TACHADO NA FONTE, página 64, grupo 3⟧I – demonstrações contábeis, orçamentárias e financeiras da administração direta e indireta, inclusive dos fundos especiais e das fundações instituídos e mantidos pelo Poder Público;⟦FIM DO TRECHO TACHADO NA FONTE⟧
 
-II – demonstrações contábeis, orçamentárias e financeiras consolidadas dos órgãos da Administração direta com as dos fundos especiais, das fundações e das autarquias, instituídos e mantidos pelo Poder Público Municipal;
+⟦INÍCIO DO TRECHO TACHADO NA FONTE, página 64, grupo 4⟧II – demonstrações contábeis, orçamentárias e financeiras consolidadas dos órgãos da Administração direta com as dos fundos especiais, das fundações e das autarquias, instituídos e mantidos pelo Poder Público Municipal;⟦FIM DO TRECHO TACHADO NA FONTE⟧
 
-III – demonstrações contábeis, orçamentárias e financeiras consolidadas dasenpresas municipais;
+⟦INÍCIO DO TRECHO TACHADO NA FONTE, página 64, grupo 5⟧III – demonstrações contábeis, orçamentárias e financeiras consolidadas dasenpresas municipais;⟦FIM DO TRECHO TACHADO NA FONTE⟧
 
-IV – notas explicativas às demonstrações de que trata este artigo;
+⟦INÍCIO DO TRECHO TACHADO NA FONTE, página 64, grupo 6⟧IV – notas explicativas às demonstrações de que trata este artigo;⟦FIM DO TRECHO TACHADO NA FONTE⟧
 
-V – relatório circunstanciado da gestão dos recursos públicos municipais no exercício demonstrado. REDAÇÃO PELA EMENDA À LEI OPRGÂNICA Nº 005 DE 24 DE DEZEMBRO DE 2007
+⟦INÍCIO DO TRECHO TACHADO NA FONTE, página 64, grupo 7⟧V – relatório circunstanciado da gestão dos recursos públicos municipais no exercício demonstrado.⟦FIM DO TRECHO TACHADO NA FONTE⟧ REDAÇÃO PELA EMENDA À LEI OPRGÂNICA Nº 005 DE 24 DE DEZEMBRO DE 2007
 
 **Art. 188** -Até 120 (cento e vinte) dias após o início da sessão legislativa de cada ano, o Prefeito Municipal encaminhará ao Tribuna de Contas do Estado ou órgão equivalente as contas do Município, que se comporão de:
 

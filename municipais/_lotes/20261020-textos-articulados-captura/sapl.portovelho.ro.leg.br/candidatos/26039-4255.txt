@@ -1,0 +1,84 @@
+Altera e acrescenta dispositivos à Lei Complementar nº 97, de 29 de dezembro de 1999, quanto a redefinição dos parâmetros urbanísticos da Zona Residencial de Baixa Densidade – ZR1, assim como da área mínima de quadras nas demais zonas e, implantação de novos loteamentos no Município de Porto Velho.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe é conferida no inciso IV, do art. 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou eu sanciono a seguinte:
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Altera e acrescenta dispositivos à Lei Complementar nº 97, de 29 de dezembro de 1999, passa a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+Exclui-se a aplicação do disposto nessa Lei as Áreas Especiais de Interesse Social (AEIS) do SETOR CHACAREIRO conforme definidas no Plano Diretor Participativo do Município de Porto Velho (PDPM), Lei Complementar nº 838, de 04 de fevereiro de 2021 e as áreas do Distrito Sede na margem esquerda do rio Madeira.
+
+
+Art. 3º.
+
+Fica definido como Zona Industrial toda faixa de 500 m (quinhentos metros) de cada lado da BR 364 dentro do limite territorial do Município, preservando-se a faixa de domínio e a não edificante aplicável, prevista em legislação específica.
+
+
+Art. 4º.
+
+Altera o Anexo 4, Quadro 1 – Quadro de Regime Urbanístico, da Lei Complementar nº 97, de 29 de dezembro de 1999, que passa a vigorar com a redação constante no Anexo Único desta Lei Complementar.
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revoga-se o Art. 87 da Lei Complementar nº 97, de 29 de dezembro de 1999.
+
+
+**HILDON DE LIMA CHAVES**
+
+**Prefeito**
+
+
+Anexo Único
+
+(Anexo 4, Quadro 1 – Quadro de Regime Urbanístico, da Lei Complementar nº 97, de 29 de dezembro de 1999)
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="11"><p><strong>QUADRO DE REGIME URBANÍSTICO – QUADRO 01</strong></p></td></tr><tr><td><p>ZONAS DE USO</p></td><td colspan="2"><p>USOS CONFORMES</p></td><td><p>FRENTE MÍNIMA (m)</p></td><td><p>ÁREA MÍNIMA DO LOTE (m<sup><strong>2</strong></sup>)</p></td><td><p>RECUO DE FRENTE MÍNIMO</p></td><td><p>RECUO DE FUNDO MÍNIMO</p></td><td><p>RECUOS LATERAIS MÍNIMOS (m)</p></td><td><p>TAXA DE OCUPAÇÃO %</p></td><td><p>COEFICIENTE DE</p><p>APROVEITAMENTO MÁXIMO</p></td><td><p>LIMITE DE GABARITO</p></td></tr><tr><td rowspan="3"><p>ZR1</p></td><td><p>a</p></td><td><p>R1 e R2.01</p></td><td rowspan="3"><p>8</p></td><td rowspan="3"><p>200 (****)</p></td><td><p>5</p></td><td rowspan="3"><p>*</p></td><td rowspan="3"><p>**</p></td><td><p>60</p></td><td rowspan="2"><p>1,5</p></td><td rowspan="2"><p>2 PAV.</p></td></tr><tr><td><p>b</p></td><td><p>C1, S1, S2.1, E1 e E2</p></td><td><p>S/ RECUO</p></td><td><p>80</p></td></tr><tr><td><p>c</p></td><td><p>R2.02 e R3</p></td><td><p>5</p></td><td><p>60</p></td><td><p>2</p></td><td><p>4 PAV.</p></td></tr><tr><td rowspan="3"><p>ZR2</p></td><td><p>a</p></td><td><p>R1 e R2.01</p></td><td rowspan="3"><p>10</p></td><td rowspan="3"><p>300</p></td><td><p>5</p></td><td rowspan="3"><p>*</p></td><td rowspan="2"><p>**</p></td><td><p>60</p></td><td><p>1,5</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b***</p></td><td><p>C1, C2.1, S1, S2.1, E1 e E2</p></td><td><p>S/ RECUO</p></td><td><p>80</p></td><td><p>3,5</p></td><td rowspan="2"><p>12 PAV. ou 40,00m</p></td></tr><tr><td><p>c***</p></td><td><p>R2.02 e R3</p></td><td><p>5</p></td><td><p> </p></td><td><p>60</p></td><td><p>3,5</p></td></tr><tr><td rowspan="3"><p>ZR3</p></td><td><p>a</p></td><td><p>R1 e R2.01</p></td><td rowspan="3"><p>10,00</p></td><td rowspan="3"><p>300</p></td><td><p>5</p></td><td rowspan="3"><p>*</p></td><td rowspan="3"><p>**</p></td><td rowspan="2"><p>60</p></td><td><p>1,5</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b***</p></td><td><p>R2.02 e R3</p></td><td><p>5</p></td><td rowspan="2"><p>5</p></td><td rowspan="2"><p>12 PAV. ou 40,00m</p></td></tr><tr><td><p>c***</p></td><td><p>C1, C2.1, S1, S2.1, S3.2, E1 e E2</p></td><td><p>S/ RECUO</p></td><td><p>80</p></td></tr><tr><td rowspan="3"><p>ZP11 E ZP12</p></td><td><p>a</p></td><td><p>R1 e R2.01</p></td><td rowspan="3"><p>10</p></td><td rowspan="3"><p>300</p></td><td rowspan="2"><p>5</p></td><td rowspan="3"><p>*</p></td><td rowspan="3"><p> </p></td><td rowspan="2"><p>60</p></td><td><p>1</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b</p></td><td><p>R2.02 e R3</p></td><td rowspan="2"><p>2</p></td><td><p>6 PAV.</p></td></tr><tr><td><p>c</p></td><td><p>C1, S1, S2.1, E1 e E2</p></td><td><p>S/ RECUO</p></td><td><p>80</p></td><td><p>4 PAV.</p></td></tr><tr><td rowspan="2"><p>ZCH</p></td><td><p>a</p></td><td><p>R1 e R3</p></td><td><p>10</p></td><td><p>300</p></td><td><p>5</p></td><td rowspan="2"><p>*</p></td><td rowspan="2"><p>**</p></td><td><p>60</p></td><td rowspan="2"><p>1,00</p></td><td rowspan="2"><p>4 PAV.</p></td></tr><tr><td><p>b</p></td><td><p>C1 e E1</p></td><td><p>20</p></td><td><p>1500</p></td><td><p>S/ RECUO</p></td><td><p>80</p></td></tr><tr><td rowspan="3"><p>ZM</p></td><td><p>a</p></td><td><p>R1 e R2.01</p></td><td rowspan="3"><p>10</p></td><td rowspan="3"><p>300</p></td><td rowspan="2"><p>5</p></td><td rowspan="3"><p>*</p></td><td rowspan="3"><p>**</p></td><td rowspan="2"><p>60</p></td><td><p>1,5</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b</p></td><td><p>R2.02 e R3</p></td><td rowspan="2"><p>3,5</p></td><td rowspan="2"><p>8 PAV.</p></td></tr><tr><td><p>c</p></td><td><p>C1, C2.1, S1, S2.1, S3.2, S3.3, II, E1 e E2</p></td><td><p>S/ RECUO</p></td><td><p>80</p></td></tr><tr><td rowspan="3"><p>ZA</p></td><td><p>a</p></td><td><p>R1 e R2.01</p></td><td><p>10</p></td><td><p>300</p></td><td><p>5</p></td><td rowspan="2"><p> </p></td><td rowspan="2"><p> </p></td><td><p>60</p></td><td><p>1</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b</p></td><td><p>R2.02 e R3</p></td><td><p>10</p></td><td><p>300</p></td><td><p>5</p></td><td><p>60</p></td><td><p>3,5</p></td><td rowspan="2"><p>8 PAV.</p></td></tr><tr><td><p>c</p></td><td><p>C1,C2, C3, C4, S1, S2, S3, S4 e II</p></td><td><p>20</p></td><td><p>1500</p></td><td><p>S/ RECUO</p></td><td><p>*</p></td><td><p>**</p></td><td><p>80</p></td><td><p>3,5</p></td></tr><tr><td rowspan="3"><p>ZC</p></td><td><p>a</p></td><td><p>R1, R2.01</p></td><td rowspan="3"><p>10</p></td><td rowspan="3"><p>300</p></td><td rowspan="2"><p>5</p></td><td rowspan="3"><p>*</p></td><td rowspan="3"><p>**</p></td><td rowspan="2"><p>60</p></td><td><p>1,5</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b***</p></td><td><p>R2.02 e R3</p></td><td rowspan="2"><p>5</p></td><td rowspan="2"><p>12 PAV. ou 40,00m</p></td></tr><tr><td><p>c***</p></td><td><p>C1, C2, C3.2, S1, S2, S3.1, S3.2, E1 e E2</p></td><td><p>S/ RECUO</p></td><td><p>80</p></td></tr><tr><td><p>ZP</p></td><td><p>a</p></td><td><p>C4.2 e E4.2</p></td><td><p>20</p></td><td><p>600</p></td><td><p>S/ RECUO</p></td><td><p>*</p></td><td><p>**</p></td><td><p>60</p></td><td><p>1</p></td><td><p>2 PAV.</p></td></tr><tr><td rowspan="2"><p>ZI</p></td><td><p>a</p></td><td><p>I1</p></td><td><p>12</p></td><td><p>600</p></td><td><p>S/ RECUO</p></td><td><p>*</p></td><td><p>**</p></td><td><p>80</p></td><td><p>1</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b</p></td><td><p>I2 e I3</p></td><td colspan="8"><p>Localizados fora do perímetro</p></td></tr><tr><td rowspan="3"><p>ZE</p></td><td><p>a</p></td><td><p>R1, R2.01</p></td><td rowspan="3"><p>10</p></td><td rowspan="3"><p>300</p></td><td rowspan="2"><p>5</p></td><td rowspan="3"><p>*</p></td><td rowspan="3"><p>**</p></td><td rowspan="3"><p>60</p></td><td rowspan="3"><p>1</p></td><td><p>2 PAV.</p></td></tr><tr><td><p>b</p></td><td><p>R2.02 e R3</p></td><td rowspan="2"><p>4 PAV.</p></td></tr><tr><td><p>c</p></td><td><p>C1, S1, S3.1 e S3.2</p></td><td><p>S/ RECUO</p></td></tr></tbody></table>
+
+**OBS:**
+
+1\. O uso E4.1 é sujeito a controle, e poderá incidir em qualquer zona de uso e na área de expansão urbana;
+
+2\. Área destinada a Micro e Pequenas Empresas Tancredo Neves, obedecerá aos índices previstos em regulamento próprio;
+
+3\. (\*) Recuo de fundo sem recuo, no pav. térreo, 2º, 3º e 4º pavimento, no 5º pav. 3,00 (três metros);  
+4. (\*\*) Recuos laterais, 1º, 2º, 3º e 4º pav. sem recuo e demais pav. 3,00m (três metros) de ambos os lados;
+
+5\. Considere-se ZR1 a área de Expansão Urbana e toda área não especificada no Quadro de Regime Urbanístico;
+
+6\. ZI - Zona Industrial - Fica definido 500,00m (quinhentos metros) de cada lado da BR - 364 até o limite territorial do Município;
+
+7\. ZSE - (Zona Super Especial) - Zona destinada a implantação da Avenida Beira Rio, onde deverá ser observada faixa de proteção de 100,00 m (cem metro) Estrada de Ferro Madeira Mamoré;  
+8. (\*\*\*) ZC, ZR2 e ZR3 - Serão permitidos prédios acima de 12 pavimentos, mediante pagamento de outorga onerosa, desde que observados os seguintes índices urbanísticos:
+
+Taxa de Ocupação 60%
+
+Coeficiente de Aproveitamento Básico = 3,5
+
+Recuos frontais, fundo e laterais R = h + 1,5 R = Recuo h = Altura total da edificação
+
+9\. No caso de edifícios comerciais, permanecerão os recuos laterais e fundos com 3,00m a partir do 5º pav.
+
+10\. Prisma - Uso de prisma de ventilação para os pav. térreo 2º, 3º e 4º c/ 1,50m de largura e 1,50 de comprimento.
+
+11\. Os recuos lindeiros só podem ser exigidos para vias oficiais e equipamentos públicos.
+
+12\. Exclusivamente para as categorias de uso S3.1 e S3.2, admite-se área construída acima de 1.000m² (hum mil metros quadrados) na ZC, ZR3 e ZA, mediante apresentação e aprovação de Relatório de Impacto de Vizinhança e Relatório de Impacto de Trânsito.
+
+13\. Exclusivamente para a categoria de uso C4.1, admite-se área construída acima de 1.000m² (hum mil metros quadrados) nos setores 13 e 17 da ZR2 e na Zona de Expansão Urbana, mediante apresentação e aprovação de Relatório de Impacto de Vizinhança e Relatório de Impacto de Trânsito.
+
+14\. (\*\*\*\*) O valor mínimo poderá ser de 160 m² (cento e sessenta) nos casos previstos no artigo 3º da presente Lei.

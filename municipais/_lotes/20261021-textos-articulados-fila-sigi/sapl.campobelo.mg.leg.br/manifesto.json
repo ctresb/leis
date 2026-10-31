@@ -1,0 +1,42 @@
+{
+  "host": "sapl.campobelo.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campobelo.mg.leg.br/214d3f018b992a15f15ac6b302612dffaacc0faf039c28e51a45eef798448ead.json",
+    "url": "https://sapl.campobelo.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.campobelo.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "bb9ac4cc363e915168bff338863ac385de3f93307b238d900e6b1264e2dcba46",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:21:33.934776-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campobelo.mg.leg.br/792aea8cf33f089e7671bd73b8bb8f52a72d32e3e091c6e70b535442c1df5143.json",
+    "url": "https://sapl.campobelo.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.campobelo.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7af7ce110a9d174952889c15e6f06f8b16648407bc7fd4c4f733d7827f489c92",
+    "bytes": 676,
+    "capturado_em": "2026-10-27T22:21:33.134121-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campobelo.mg.leg.br/49fb66d97bffeab0b8c90120fe9edf4141b52dfc03847b60de40d231ff2d4e1a.json",
+      "url": "https://sapl.campobelo.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.campobelo.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:21:35.926190-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

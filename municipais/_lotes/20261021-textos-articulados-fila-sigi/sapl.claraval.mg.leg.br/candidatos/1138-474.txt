@@ -1,0 +1,32 @@
+“DISPÕE SOBRE ABERTURA DE CRÉDITO SUPLEMENTAR AS DOTAÇÕES ORÇAMENTÁRIAS QUE MENCIONA E DÁ OUTRAS PROVIDÊNCIAS.”
+
+
+O Chefe do Poder Executivo no uso de suas atribuições que lhes são conferidas resolve propor a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo autorizado a abrir Crédito Suplementar no valor R$150.000,00 (Cento e cinquenta mil reais) às seguintes dotações:
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td>02 01 02    </td><td><p>PROJETOS ESPECIAIS E ASSESSORIA AGROPECUÁRIA</p></td><td> </td></tr><tr><td>20 606 2001 2.092                  </td><td><p>MANUT. DAS ATIVIDADES DA EMATER/MG </p></td><td> </td></tr><tr><td>337041</td><td><p>CONTRIBUIÇÕES </p></td><td>R$10.000,00</td></tr><tr><td>02 02 01   </td><td><p>ADMINISTRAÇÃO GERAL</p></td><td> </td></tr><tr><td>04 122 0401 2.087 </td><td><p>MANUTENÇÃO DE CONTRIBUIÇÃO A AMEG </p></td><td> </td></tr><tr><td>337041</td><td><p>CONTRIBUIÇÕES</p></td><td>R$10.000,00</td></tr><tr><td>02 03 01</td><td><p>ENSINO FUNDAMENTAL REC. PRÓPRIO</p></td><td> </td></tr><tr><td>12 361 1201 2.061  </td><td><p>MANUTENÇÃO DO TRANSPORTE ESCOLAR - RECURSOS PRÓPRIOS</p></td><td> </td></tr><tr><td>339030</td><td><p>MATERIAL DE CONSUMO</p></td><td>R$30.000,00</td></tr><tr><td>02 03 02      </td><td><p>ENSINO FUNDAMENTAL - MANUTENÇÃO DO  ENSINO FUNDEB</p></td><td> </td></tr><tr><td>12 361 1202 2.043       </td><td><p>MANUTENÇÃO DO FUNDEB</p></td><td> </td></tr><tr><td>339030</td><td><p>MATERIAL DE CONSUMO            </p></td><td>R$20.000,00</td></tr><tr><td>02 03 05   </td><td><p>ENSINO GERAL</p></td><td> </td></tr><tr><td>12 306 1204 2.034  </td><td><p>MANUTENÇÃO DA MERENDA ESCOLAR - RECURSO PRÓPRIO</p></td><td> </td></tr><tr><td>339036 </td><td><p>OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA      </p></td><td>R$5.000,00</td></tr><tr><td>02 04 01        </td><td><p>SAUDE</p></td><td> </td></tr><tr><td>10 302 1002 2.032   </td><td><p>MANUTENÇÃO DAS ATIVIDADES DA SAUDE - RECURSO PRÓPRIO</p></td><td> </td></tr><tr><td>339039</td><td><p>OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA    </p></td><td><p>   R$30.000,00</p></td></tr><tr><td>02 05 01     </td><td><p>SERVIÇOS URBANOS</p></td><td><p> </p></td></tr><tr><td>15 452 0401 2.053    </td><td><p>MANUTENÇÃO DO SETOR DE OBRAS E SERVIÇOS URBANOS</p></td><td><p> </p></td></tr><tr><td>339036</td><td><p>OUTROS SERV. DE TERCEIROS - PESSOA FISICA  </p></td><td><p>R$5.000,00</p></td></tr><tr><td>15 451 1501 1.036   </td><td><p>ASFALTAMENTO DE RUAS E AVENIDAS</p></td><td><p> </p></td></tr><tr><td>449051</td><td><p>OBRAS E INSTALAÇÕES    </p></td><td><p>R$40.000,00</p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Como recursos às dotações constantes do artigo 1° poderão ser utilizados os decorrentes da anulação parcial ou total das seguintes dotações:
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td>02 01 01   </td><td><p>ADMINISTRAÇÃO DO GABINETE</p></td><td> </td></tr><tr><td>04 122 0401 1.040  </td><td><p>AQUISIÇÃO DE VEÍCULOS PARA O GABINETE DO PREFEITO</p></td><td> </td></tr><tr><td>449052 </td><td><p>EQUIPAMENTO E MATERIAL PERMANENTE   </p></td><td><p>R$47.000,00</p></td></tr><tr><td>02 02 01 </td><td><p>ADMINISTRAÇÃO GERAL</p></td><td><p> </p></td></tr><tr><td>04 122 0401 1.038 </td><td><p>REFORMA E AMPLIAÇÃO DO CENTRO ADMINISTRATIVO</p></td><td><p> </p></td></tr><tr><td>449051</td><td><p>OBRAS E INSTALAÇÕES   </p></td><td><p>R$20.000,00</p></td></tr><tr><td>02 03 01   </td><td><p>ENSINO FUNDAMENTAL RECURSO PRÓPRIO</p></td><td><p> </p></td></tr><tr><td>12 361 1201 1.031  </td><td><p>AQUISIÇÃO DE VEÍCULO PARA O TRANSPORTE ESCOLAR</p></td><td><p> </p></td></tr><tr><td>449052  </td><td><p>EQUIPAMENTOS E MATERIAL PERMANENTE</p></td><td><p>R$8.000,00</p></td></tr><tr><td>12 361 1201 2.061 </td><td><p>MANUTENÇÃO DO TRANSPORTE ESCOLAR REC. PRÓPRIOS</p></td><td><p> </p></td></tr><tr><td>449052</td><td><p>EQUIPAMENTOS E MATERIAL PERMANENTE   </p></td><td><p>R$5.000,00</p></td></tr><tr><td>02 03 06  </td><td><p>ESPORTE E LAZER</p></td><td><p> </p></td></tr><tr><td>27 122 2701 2.055  </td><td><p>MANUTENÇÃO DAS ATIVIDADES DO ESPORTE E  LAZER</p></td><td><p> </p></td></tr><tr><td>339039</td><td><p>OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍDICA  </p></td><td><p>  R$5.000,00</p></td></tr><tr><td>02 03 07  </td><td><p>CULTURA</p></td><td><p> </p></td></tr><tr><td>13 392 1301 1.043</td><td><p>CONSTRUÇÃO DE CASA DA CULTURA   </p></td><td><p>R$3.000,00</p></td></tr><tr><td>13 392 1301 2.090</td><td><p>MANUTENÇÃO DAS ATIVIDADES CULTURAIS</p></td><td><p> </p></td></tr><tr><td>339039</td><td><p>OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURIDICA   </p></td><td><p>R$5.000,00</p></td></tr><tr><td>02 04 01   </td><td><p>SAUDE</p></td><td><p> </p></td></tr><tr><td>10 302 1001 1.049  </td><td><p>CONSTRUÇÃO DE PREDIOS P/SAUDE - CONVENIOS</p></td><td><p> </p></td></tr><tr><td>449051</td><td><p>OBRAS E INSTALAÇÕES   </p></td><td><p>R$15.000,00</p></td></tr><tr><td>10 302 1002 1.020   </td><td><p> AMPLIAÇÃO E CONS. DE PRÉDIOS DA SAUDE</p></td><td><p> </p></td></tr><tr><td>449051</td><td><p>OBRAS E INSTALAÇÕES  </p></td><td><p>R$5.000,00</p></td></tr><tr><td>02 04 02  </td><td><p>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</p></td><td><p> </p></td></tr><tr><td>08 244 0801 1.022 </td><td><p>AQUISICAO DE EQUIP P/ O CENTRO MULTIPLO-USO</p></td><td><p> </p></td></tr><tr><td>449052 </td><td><p>EQUIPAMENTO E MATERIAL PERMANENTE </p></td><td><p>  R$5.000,00</p></td></tr><tr><td>16 482 1601 1.044  </td><td><p>CONSTRUÇÃO DE CASAS POPULARES</p></td><td><p> </p></td></tr><tr><td>449051</td><td><p>OBRAS E INSTALAÇÕES    </p></td><td><p>R$10.000,00</p></td></tr><tr><td>   16 482 1601 1.045 </td><td><p>REFORMA DE CASAS POPULARES</p></td><td><p> </p></td></tr><tr><td>449051 </td><td><p>OBRAS E INSTALAÇÕES    </p></td><td><p>  R$10.000,00</p></td></tr><tr><td>02 05 01         </td><td><p>SERVIÇOS URBANOS</p></td><td><p> </p></td></tr><tr><td>15-451 1501 1.037 </td><td><p>AQUISIÇÃO DE IMÓVEIS URBANOS</p></td><td><p> </p></td></tr><tr><td>449061 </td><td><p>AQUISIÇÃO DE IMÓVEIS       </p></td><td><p>R$12.000,00</p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Revogadas as disposições em contrário, a presente Lei entra em vigor na data da sua publicação.
+
+
+Claraval, 04 de junho de 2007.
+
+Luiz Gonzaga Cintra
+
+Prefeito Municipal

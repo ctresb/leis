@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cajueirodapraia.pi.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cajueirodapraia.pi.leg.br/30061ca05981301211b064485a31b25921b22c585a2fa0033c17cb2b11a5ad65.json",
+    "url": "https://sapl.cajueirodapraia.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cajueirodapraia.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "932d71ac77350379e7bc3978384254b1cccc861126b15232e389e4a979fd363b",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:15:27.131714-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cajueirodapraia.pi.leg.br/c252b5003572541b96c9f27ec6ae5a3505a99ff66abdd944e303f3173f6d9f49.json",
+    "url": "https://sapl.cajueirodapraia.pi.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cajueirodapraia.pi.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "43bf24c44520b28ec8d11a27d7c4055d8a89f1eea00290046f7d6d2722db7f01",
+    "bytes": 795,
+    "capturado_em": "2026-10-27T22:15:26.126456-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cajueirodapraia.pi.leg.br/7250ddfa6d4f43354ade7378fc9d8302e61792f5e2e7a62b27c76337e6cc165c.json",
+      "url": "https://sapl.cajueirodapraia.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cajueirodapraia.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:15:29.120399-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

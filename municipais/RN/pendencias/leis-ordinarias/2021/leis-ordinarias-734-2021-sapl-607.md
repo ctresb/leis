@@ -1,0 +1,87 @@
+---
+titulo: "Lei Municipal-PM nº 734, de 24 de maio de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Municipal"
+numero: "734"
+data: "2021-05-24"
+municipio: "Pendências"
+uf: "RN"
+codigo_ibge: "2409902"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.pendencias.rn.leg.br/norma/607"
+fonte_texto: "https://sapl.pendencias.rn.leg.br/media/sapl/public/normajuridica/2021/607/lei_municipal_no_734-2021_-_abre_ao_orcamento_geral_do_municipio.pdf"
+sha256_fonte: "aee8ecda843c28564910517c6dab1d4935bb3a49d66a3867e21212e328b11912"
+sha256_texto: "e821df3308b7d062bcb523e8f0eb3b410a11594db34fdbffc92ff8f71292a0e5"
+baixado_em: "2026-10-21"
+---
+
+# Lei Municipal-PM nº 734, de 24 de maio de 2021
+
+LEI MUNICIPAL N° 734/2021, DE 24 DE MAIO DE 2021.
+
+ABRE AO ORCAMENTO GERAL DO MUNiCiPIO, CREDITO ESPECIAL NO VALOR GLOBAL DE R$ 272.000,00(DUZENTOS E SETENTA E OOIS MIL REAIS), E DA OUTRA PROVIOENCIAS.
+
+o PREFEITO DO MUNiCiPIO DE PENDENCIAS, Estado do Rio Grande do Norte, no uso de suas atribuicoes legais, que Ihe confere 0 artigo 72, inciso I da Lei Orqanica do Municipio, FAZ SABER que 0 Poder Legislativo aprova e eu sanciono a seguinte Lei:
+
+**Art. 1°** Fica aberto ao Orcarnento Geral do Municipio (Lei nO 717/2020), credito especial no valor global de R$ 272.000,00(Duzentos e setenta e dois mil reais), para atender as proqrarnacoes constantes do Anexo I desta Lei.
+
+**Art. 2°** - Fica autorizada a inclusao no PPA, LEI MUNICIPAL N° 647/2017, de 20 de Novembro de 2017, previsto para 0 quadrienio 2018/2021, e no Programa: 0005 GESTAO EM DESENVOLVIMENTO DA AGRICUL TURA, Projeto/Atividade: 1.199 - CELEBRA<;AO DE CONVENIO COM 0 MUNICIPIO DO ALTO DO RODRIGUES.
+
+**Art. 3°** Os recursos necessaries a abertura do credito especial de que trata 0 artigo anterior sac oriundos da anulacao, de igual importancia, das dotacoes discriminadas no Anexo II a desta lei.
+
+**Art. 4°** Esta Lei entra em vigor na data de sua publicacao.
+
+PalacioFrancisco Alvesd~iroz em pende~CJN':de Maiode2021.
+
+FLAUOIVA TINS C;~AL Prefeito
+
+Lei Municipal nQ734/2021 Pagina 1 de 5
+
+ANEXO I - ACRESCIMO
+
+UNIDADE ORC;AMENTARIA: 004 - SECRETARIA DE AGRICULTURA FUNC;AO: 20 - AGRICUL TURA SUBFUNC;AO: 604 - DEFESA SANITARIA ANIMAL PROGRAMA: 0005- GESTAO EM DESENVOLVIMENTO DA AGRICULTURA PROJETO/ATIVIDADE:1.199 - CELEBRACAO DE CONVENIO COM 0 MUNICIPIO DO ALTO DO RODRIGUES
+
+CODIGO ELEMENTO DE DESPESA Fonte VALOR 3.3.42.41.00.00 Contribuicao 10010000 90.000,00 15300000 90.000,00 TOTAL 180.000,00
+
+ORGAO: 02 - PODER EXECUTIVO UNIDADE ORC;AMENTARIA: 006 - SECRETARIA DE SAUDE PUBLICA FUNC;AO: 10 - SAUDE SUBFUNC;Ao: 302 - ASSISTENCIA HOSPITALAR E AMBULATORIAL
+
+PROJETO/ATIVIDADE: 2.049 - MANUT.ATENDIMENTO HOSPITALAR E AMBULATORIAL DE MAC
+
+CODIGO Fonte VALOR 3.1.90.13.00.00 12140000 36.000,00 TOTAL 36.000,00
+
+UNIDADE ORC;AMENTARIA: 006 - SECRETARIA DE SAUDE PUBLICA FUNC;Ao: 10 - SAUDE SUBFUNC;Ao: 301 - ATENCAO BASICA
+
+PROJETO/ATIVIDADE: 2.043 - MANUT.PROG.SAUDE DA FAMILIA
+
+CODIGO Fonte VALOR 3.1.90.13.00.00 12140000 36.000,00 TOTAL 36.000,00
+
+Lei Municipal nQ734/2021 Pagina 2 de 5
+
+UNIDADE OR<;AMENTARIA: 006 - SECRETARIA DE SAUDE PUBLICA FUN<;AO: 10 - SAUDE SUBFUN<;AO: 305 - VIGICANCIA EPIDEMIOLOGICA
+
+PROJETO/ATIVIDADE: 2.052 - MANUT.VIGILANCIA EM SAUDE
+
+CODIGO I ELEMENTO DE DESPESA Fonte VALOR 3.1.90.13.00.00 I Obriqacces Patronais 12140000 20.000,00 TOTAL 20.000,00
+
+Lei Municipal nQ734/2021 Pagina 3 de 5
+
+ANEXO II - REDUCAo
+
+ORGAO: 02 - PODER EXECUTIVO UNIDADE OR<;AMENTARIA: 004 - SECRETARIA DE AGRICULTURA FUN<;AO: 20 - AGRICUL TURA SUBFUN<;Ao: 605 - ABASTECIMENTO PROGRAMA: 0005- GESTAO EM DESENVOLVIMENTO DA AGRICUL TURA PROJETO/ATIVIDADE: 2.015 - MANUT.SEC.AGRICULTURA
+
+CODIGO ELEMENTO DE DESPESA FONTE VALOR 3.3.90.30.00.00 Material de Consumo 15300000 50.000,00 3.3.90.39.00.00 Outros services de terceiros - PJ 15300000 30.000,00 3.3.90.41.00.00 Contribuicao 15300000 10.000,00 TOTAL 90.000,00
+
+UNIDADE OR<;AMENTARIA: 004 - SECRETARIA DE AGRICUL TURA FUN<;Ao: 20 - AGRICUL TURA SUBFUN<;Ao: 608 - PROMOCAo DA PRODUCAo AGROPECUARIA PROGRAMA: 0005- GESTAO EM DESENVOLVIMENTO DA AGRICUL TURA PROJETO/ATIVIDADE:1.039 - CONSTRUCAo DE ACUDES, BARRAGENS SUBMERSAS, BARREIROS, CISTERNAS, ADUTORAS E PERFURACAo DE POCOS
+
+CODIGO ELEMENTO DE DESPESA FONTE VALOR 4.4.90.51.00.00 Obras e instalacoes 10010000 40.000,00 4.4.90.52.00.00 Equipamento e material permanente 10010000 50.000,00 TOTAL 90.000,00
+
+Lei Municipal nQ734/2021 Pagina 4 de 5
+
+UNIDADE ORC;AMENTARIA: 006 - SECRETARIA DE SAUDE PUBLICA FUNC;Ao: 10 - SAUDE SUBFUNC;Ao: 301 - ATEN<;Ao BASICA
+
+PROJETO/ATIVIDADE: 2.043 - MANUT.PROG.SAUDE DA FAMILIA
+
+CODIGO ELEMENTO DE DESPESA Fonte VALOR 3.1.90.04.00.00 Contratacao Par Tempo 12140000 92.000,00 Determinado - Pessoal Civil TOTAL 92.000,00
+
+Lei Municipal nQ734/2021 Pagina 5 de 5
+

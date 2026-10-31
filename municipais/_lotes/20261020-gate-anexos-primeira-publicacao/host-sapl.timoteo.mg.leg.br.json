@@ -1,0 +1,951 @@
+{
+  "host": "sapl.timoteo.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/tabela_res.420.pdf da norma Resolução nº 420, de 20 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "TABELA",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2019/1/tabela_res.420.pdf",
+      "ano": 2019,
+      "norma": 5986
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/anexos_da_lei_3.722_-_loa.pdf da norma Lei nº 3.722, de 09 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DA LEI ORÇAMENTÁRIA",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2020/2/anexos_da_lei_3.722_-_loa.pdf",
+      "ano": 2020,
+      "norma": 6019
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/errata_portaria_4838.pdf da norma Portaria nº 4.838, de 19 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ERRATA À PORTARIA 4.838, DE 25/05/2021.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/3/errata_portaria_4838.pdf",
+      "ano": 2021,
+      "norma": 6555
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/errata_portaria_4731.pdf da norma Portaria nº 4.731, de 06 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Errata à Portaria 4731, de 06/01/2021.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/4/errata_portaria_4731.pdf",
+      "ano": 2021,
+      "norma": 6415
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/errata_portaria_4737.pdf da norma Portaria nº 4.737, de 06 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ERRATA À PORTARIA 4.737, DE 20/01/2021",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/5/errata_portaria_4737.pdf",
+      "ano": 2021,
+      "norma": 6421
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/errata_portaria_4831.pdf da norma Portaria nº 4.831, de 05 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ERRATA Á PORTARIA 4831, DE 07/05/2021",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/6/errata_portaria_4831.pdf",
+      "ano": 2021,
+      "norma": 6534
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/3.777_-_parte_vetada.pdf da norma Lei nº 3.777, de 27 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "PROMULGA E PUBLICA PARTE VETADA",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/7/3.777_-_parte_vetada.pdf",
+      "ano": 2021,
+      "norma": 6524
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/3.778_-_parte_vetada.pdf da norma Lei nº 3.778, de 03 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "PROMULGA E PUBLICA PARTE VETADA.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/8/3.778_-_parte_vetada.pdf",
+      "ano": 2021,
+      "norma": 6525
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/9/errata_portaria_4847.pdf da norma Portaria nº 4.847, de 08 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "ERRATA À PORTARIA 4847, DE 09 DE JUNHO DE 2021.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/9/errata_portaria_4847.pdf",
+      "ano": 2021,
+      "norma": 6569
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/veto_parcial_-_pl_4.340_-__consulta_previa.doc da norma Lei nº 3.804, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Veto parcial oposto pelo Senhor Prefeito ao § 1º do artigo 2º, o qual estabelece como obrigação do Conselho Municipal de Educação, a organização da consulta prévia de que trata a lei.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2021/10/veto_parcial_-_pl_4.340_-__consulta_previa.doc",
+      "ano": 2021,
+      "norma": 6597
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/11/anexos__ldo.pdf da norma Lei nº 3.751, de 16 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre as diretrizes para a elaboração da lei orçamentária de 2021 e dá outras providências.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2020/11/anexos__ldo.pdf",
+      "ano": 2020,
+      "norma": 6171
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/anexo.pdf da norma Lei nº 3.587, de 30 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Atualiza, no âmbito do Município de Timóteo, a legislação do Imposto Sobre Serviços de Qualquer Natureza – ISSQN e dá outras providências.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2017/12/anexo.pdf",
+      "ano": 2017,
+      "norma": 5218
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/13/01.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Emenda 01",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/13/01.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/14/02.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Emenda 02",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/14/02.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/15/03.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Emenda 03",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/15/03.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/16/04.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Emenda 04",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/16/04.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/17/05.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Emenda 05",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/17/05.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/18/06.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Emenda 06",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/18/06.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/19/07.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Emenda 07",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/19/07.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/20/08.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Emenda 08",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/20/08.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/21/09.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Emenda 09",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/21/09.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/22/10.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Emenda 10",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/22/10.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/23/11.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Emenda 11",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/23/11.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/24/12.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Emenda 12",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/24/12.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/25/12-a.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Emenda 12-A",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/25/12-a.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/26/13.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Emenda 13",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/26/13.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/27/14.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Emenda 14",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/27/14.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/28/15.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Emenda 15",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/28/15.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/29/16.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Emenda 16",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/29/16.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/30/17.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Emenda 17",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/30/17.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/31/18.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Emenda 18",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/31/18.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/32/19.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Emenda 19",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/32/19.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/33/20.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Emenda 20",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/33/20.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/34/21.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Emenda 21",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/34/21.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/35/22.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Emenda 22",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/35/22.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/36/23.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Emenda 23",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/36/23.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/37/24.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Emenda 24",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/37/24.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/38/25.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Emenda 25",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/38/25.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/39/26.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Emenda 26",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/39/26.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/40/27.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Emenda 27",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/40/27.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/41/28.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Emenda 28",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/41/28.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/42/29.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Emenda 29",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/42/29.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/43/30.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Emenda 30",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/43/30.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/44/31.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Emenda 31",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/44/31.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/45/32.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Emenda 32",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/45/32.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/46/33.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Emenda 33",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/46/33.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/47/34.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Emenda 34",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/47/34.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/48/35.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Emenda 35",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/48/35.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/49/36.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Emenda 36",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/49/36.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/50/37.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Emenda 37",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/50/37.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/51/38.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Emenda 38",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/51/38.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/52/039.doc da norma Lei nº 1.150, de 29 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Emenda 39",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/1990/52/039.doc",
+      "ano": 1990,
+      "norma": 3804
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/53/errata_portaria__4998.doc da norma Portaria nº 4.998, de 25 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "ERRATA à Portaria nº 4.998, de 25/04/2022.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/53/errata_portaria__4998.doc",
+      "ano": 2022,
+      "norma": 6832
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/54/anexo_lei_3762.pdf da norma Lei nº 3.762, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Altera a Lei Municipal nº 3.711, de 12 de setembro de 2019, que \"desafeta bem público municipal, autoriza o Executivo promover permuta de bem público e dá outras providências.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2020/54/anexo_lei_3762.pdf",
+      "ano": 2020,
+      "norma": 6469
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/55/anexo_dla_566.pdf da norma Decreto Legislativo Administrativo nº 566, de 18 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre cancelamento de Resto a Pagar e dá outras providências.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/55/anexo_dla_566.pdf",
+      "ano": 2022,
+      "norma": 7022
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/56/errata_dla_566.doc da norma Decreto Legislativo Administrativo nº 566, de 18 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "ERRATA",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/56/errata_dla_566.doc",
+      "ano": 2022,
+      "norma": 7022
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/57/errata_portaria__5164.pdf da norma Portaria nº 5.164, de 05 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre nomeação de servidor ocupante de cargo de provimento em comissão.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/57/errata_portaria__5164.pdf",
+      "ano": 2023,
+      "norma": 7095
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/58/errata_portaria__5160.pdf da norma Portaria nº 5.160, de 05 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre nomeação de servidor ocupante de cargo de provimento em comissão.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/58/errata_portaria__5160.pdf",
+      "ano": 2023,
+      "norma": 7091
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/59/errata_portaria__5194.pdf da norma Portaria nº 5.194, de 27 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre nomeação de candidata aprovada em concurso público.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/59/errata_portaria__5194.pdf",
+      "ano": 2023,
+      "norma": 7125
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/60/errata_portaria__5600.pdf da norma Portaria nº 5.200, de 27 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre nomeação de servidor ocupante de cargo de provimento em comissão.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/60/errata_portaria__5600.pdf",
+      "ano": 2023,
+      "norma": 7131
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/61/errata_portaria__5601.pdf da norma Portaria nº 5.201, de 27 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre exoneração  de servidor ocupante de cargo de provimento em comissão.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/61/errata_portaria__5601.pdf",
+      "ano": 2023,
+      "norma": 7132
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/62/errata_portaria__5602.pdf da norma Portaria nº 5.202, de 31 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Autoriza servidor a dirigir veículo oficial da Câmara Municipal de Timóteo.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/62/errata_portaria__5602.pdf",
+      "ano": 2023,
+      "norma": 7133
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/63/errata_portaria_5110.pdf da norma Portaria nº 5.110, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/63/errata_portaria_5110.pdf",
+      "ano": 2022,
+      "norma": 7038
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/64/errata_portaria_5118.pdf da norma Portaria nº 5.118, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/64/errata_portaria_5118.pdf",
+      "ano": 2022,
+      "norma": 7046
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/errata_portaria_5119.pdf da norma Portaria nº 5.119, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/65/errata_portaria_5119.pdf",
+      "ano": 2022,
+      "norma": 7047
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/66/errata_portaria_5121.pdf da norma Portaria nº 5.121, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/66/errata_portaria_5121.pdf",
+      "ano": 2022,
+      "norma": 7049
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/67/errata_portaria_5127.pdf da norma Portaria nº 5.127, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "Errata",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/67/errata_portaria_5127.pdf",
+      "ano": 2022,
+      "norma": 7055
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/68/veto_ao_pl_4.513_-_nucleo_de_fomento_ao_paradesporto.pdf da norma Lei nº 3.936, de 21 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Veto oposto à Emenda nº 01 apresentada pelo Vereador Vinícius Bim.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/68/veto_ao_pl_4.513_-_nucleo_de_fomento_ao_paradesporto.pdf",
+      "ano": 2023,
+      "norma": 7351
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/emenda_001_-__altera_art._95.pdf da norma Lei Orgânica nº 1, de 13 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Altera o artigo 95 da Lei de Organização Municipal.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/70/emenda_001_-__altera_art._95.pdf",
+      "ano": 2022,
+      "norma": 6901
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/emenda_002.altera_o_inciso_vii_do_art._63.doc da norma Lei Orgânica nº 1, de 13 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Altera o inciso VII do art. 63 da Lei Orgânica do Município de Timóteo.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2022/72/emenda_002.altera_o_inciso_vii_do_art._63.doc",
+      "ano": 2022,
+      "norma": 6901
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/73/anexo1_lie_orcamento.pdf da norma Lei nº 3.963, de 15 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Estima a receita e fixa a despesa do Município de Timóteo para o exercício financeiro de 2024.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/73/anexo1_lie_orcamento.pdf",
+      "ano": 2023,
+      "norma": 7476
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/74/anexo2_lei_orcamento.pdf da norma Lei nº 3.963, de 15 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "Estima a receita e fixa a despesa do Município de Timóteo para o exercício financeiro de 2024.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/74/anexo2_lei_orcamento.pdf",
+      "ano": 2023,
+      "norma": 7476
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/75/2500_de_07_de_maio_de_2004_anexos_i_e_ii.pdf da norma Lei nº 2.500, de 07 de maio de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2004/75/2500_de_07_de_maio_de_2004_anexos_i_e_ii.pdf",
+      "ano": 2004,
+      "norma": 2395
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/76/anexo_lei_3.416.pdf da norma Lei nº 3.416, de 18 de fevereiro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2015/76/anexo_lei_3.416.pdf",
+      "ano": 2015,
+      "norma": 4364
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/77/errata_portaria_5550_-_nomeacao_walison_passos_archanjo_estevam.doc da norma Portaria nº 5.550, de 11 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Errata à Portaria nº  5.550, de 11 de setembro de 2024,  que “Dispõe sobre nomeação de servidor em cargo de provimento em comissão”.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2024/77/errata_portaria_5550_-_nomeacao_walison_passos_archanjo_estevam.doc",
+      "ano": 2024,
+      "norma": 7699
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/78/5569_-_exoneracao__cleyton_rodrigues_zoia.pdf da norma Portaria nº 5.569, de 31 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Errata - Portaria nº 5.569 de 31 de outubro de 2024, que “Dispõe sobre exoneração de servidor ocupante de cargo de provimento em comissão”.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2024/78/5569_-_exoneracao__cleyton_rodrigues_zoia.pdf",
+      "ano": 2024,
+      "norma": 7729
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/79/5568._exoneracao.nomecao.leandro_cezar_goncalves_de_paula.pdf da norma Portaria nº 5.568, de 31 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Errata - Portaria nº  5.568, de 31 de outubro de 2024,  que “ Dispõe sobre exoneração e nomeação de servidor ocupante de cargo de provimento em comissão\".",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2024/79/5568._exoneracao.nomecao.leandro_cezar_goncalves_de_paula.pdf",
+      "ano": 2024,
+      "norma": 7728
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/80/errata_portaria_5.725_-_nomeacao.pdf da norma Portaria nº 5.725, de 03 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "Errata à Portaria nº  5.725, de 03 de janeiro de 2025,  que “Dispõe sobre nomeação de servidor em cargo de provimento em comissão”.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/80/errata_portaria_5.725_-_nomeacao.pdf",
+      "ano": 2025,
+      "norma": 7894
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/81/errata_portaria__5.751_-_nomeacao_fabricia_fernanda_da_silva_nazareth.pdf da norma Portaria nº 5.751, de 16 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre nomeação de servidora ocupante de cargo de provimento em comissão.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/81/errata_portaria__5.751_-_nomeacao_fabricia_fernanda_da_silva_nazareth.pdf",
+      "ano": 2025,
+      "norma": 7927
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/82/anexo_proposta_cargos.doc da norma Resolução nº 470, de 14 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/82/anexo_proposta_cargos.doc",
+      "ano": 2025,
+      "norma": 7940
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/83/lc_011_-_plano_diretor_-_anexo.pdf da norma Lei Complementar nº 11, de 12 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/83/lc_011_-_plano_diretor_-_anexo.pdf",
+      "ano": 2025,
+      "norma": 7972
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/84/anexo_ao_plc_015_-_perimetro_urbano.pdf da norma Lei Complementar nº 12, de 12 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/84/anexo_ao_plc_015_-_perimetro_urbano.pdf",
+      "ano": 2025,
+      "norma": 7973
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/85/anexo_resolucao_473.pdf da norma Resolução nº 473, de 20 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Altera o Anexo IV da Resolução nº 366, de 23 de setembro de 2015, que “Dispõe sobre o Quadro de Pessoal da Câmara Municipal de Timóteo e dá outras providências”.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/85/anexo_resolucao_473.pdf",
+      "ano": 2025,
+      "norma": 8011
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/86/errata_portaria_5.870_-_nomeacao__ederilda_ferreira.docx_1_1.pdf da norma Portaria nº 5.870, de 14 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Adriano Costa Alvarenga",
+                [
+                  "2025-08-12T16:13:21-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Dispõe sobre nomeação de servidor no cargo de provimento em comissão.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/86/errata_portaria_5.870_-_nomeacao__ederilda_ferreira.docx_1_1.pdf",
+      "ano": 2025,
+      "norma": 8098
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/87/errata_portaria__5.888_-_exoneracao.nomeacao_caio_cordeiro_de_andrade.pdf da norma Portaria nº 5.888, de 20 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Adriano Costa Alvarenga",
+                [
+                  "2025-08-25T14:13:52-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ERRATA",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/87/errata_portaria__5.888_-_exoneracao.nomeacao_caio_cordeiro_de_andrade.pdf",
+      "ano": 2025,
+      "norma": 8135
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/88/anexo_ao_pl_4.702.pdf da norma Lei nº 4.067, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Checklist Modificado para Autismo em Crianças Pequenas: versão revisada e consulta de seguimento (M-CHAT-R/F)",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/88/anexo_ao_pl_4.702.pdf",
+      "ano": 2025,
+      "norma": 8268
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/89/errata_1.pdf da norma Portaria nº 5.955, de 11 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Adriano Costa Alvarenga",
+                [
+                  "2025-11-14T15:49:14-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ERRATA À PORTARIA Nº 5.955, de 11/11/2025\r\n\r\n\"Dispõe sobre exoneração e nomeação de servidor ocupante de cargo de provimento em comissão\".",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/89/errata_1.pdf",
+      "ano": 2025,
+      "norma": 8282
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/90/errata_2_portaria_5.725_-_nomeacao.docx.pdf da norma Portaria nº 5.725, de 03 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "ERRATA à Portaria nº  5.725, de 03 de janeiro de 2025,  que “Dispõe sobre nomeação de servidor em cargo de provimento em comissão”.",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2025/90/errata_2_portaria_5.725_-_nomeacao.docx.pdf",
+      "ano": 2025,
+      "norma": 7894
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/91/errata_a_portaria_6.069_-_vale-alimentacao.pdf da norma Portaria nº 6.069, de 12 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "ERRATA  À PORTARIA Nº 6.069, DE 12/05/2026,  que “Dispõe sobre atualização dos valores do Vale-Alimentação concedido aos servidores públicos do Legislativo e dá outras providências”",
+      "anexo_arquivo": "http://sapl.timoteo.mg.leg.br/media/sapl/public/anexonormajuridica/2026/91/errata_a_portaria_6.069_-_vale-alimentacao.pdf",
+      "ano": 2026,
+      "norma": 8468
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.timoteo.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.timoteo.mg.leg.br/e2aec44a225f0a9b0024d87ca9ee74f19450168671f6f08834b33398871844fe.json",
+      "sha256": "eb991caa62588e18255f538a81b6a9a9b0521ec236b2c5006669b67aa2842ffd",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.timoteo.mg.leg.br/e2aec44a225f0a9b0024d87ca9ee74f19450168671f6f08834b33398871844fe.meta.json"
+    }
+  ],
+  "total": 89
+}

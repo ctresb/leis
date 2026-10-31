@@ -1,0 +1,115 @@
+---
+titulo: "LEI N. 2.854/PMMA/2026."
+uf: "RO"
+municipio: "MINISTRO ANDREAZZA"
+tipo: "Lei Ordinária"
+numero: "2854"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 14/08/2026"
+data_publicacao: 2026-08-14
+codigo_identificador: "C04ECA2C"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116130_2026-08-13_a9f3ed052f60034af9ded763e88bd031.pdf"
+baixado_em: 2026-10-15
+---
+# LEI N. 2.854/PMMA/2026.
+
+LEI N. 2.854/PMMA/2026.
+ASSESSORIA JURÍDICA
+LEI N. 2.854/PMMA/2026.
+LEI N. 2.854/PMMA/2026.
+―DISPÕE SOBRE ABERTURA DE CRÉDITO ESPECIAL POR RECURSOS VINCULADO A RECEITA AO ORÇAMENTO
+VIGENTE E DA OUTRAS PROVIDÊNCIAS‖.
+O PREFEITO MUNICIPAL DE MINISTRO ANDREAZZA-RO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS, FAZ SABER QUE A
+CÂMARA MUNICIPAL DE MINISTRO ANDREAZZA-RO, APROVOU E ELE SANCIONA A SEGUINTE LEI:
+Art. 1º. Fica o Poder Executivo Municipal autorizado para proceder Abertura de Crédito Especial por Recursos Vinculados a Receita ao Orçamento
+Vigente, no valor de R$805.802,94(Oitocentos e cinco mil, oitocentos e dois reais e noventa e quatro centavos), oriundos do convênio
+427/2026/PGE-DETRAN, para Sinalização Vertical e Horizontal das Vias Urbanas, conforme termo de convênio e plano de trabalho, a fim de
+atender as necessidades da Secretaria Municipal de Obras e Serviços Públicos, de acordo com a dotação orçamentário distribuída no quadro abaixo:
+Órgão/
+Unid.
+02/005
+
+PMMA/ SEMOSP
+
+Projeto/
+Atividade
+1
+
+Função
+
+Sub-Função
+
+Programa
+
+04
+
+122
+
+0007
+
+Administração Geral
+
+Gestão da política de
+transporte
+e
+Projeto
+desenvolvimento urbano e
+rural
+
+Administração
+
+Ação do Programa
+
+Elemento de
+Despesas
+4.4.90.51.00.00
+
+623
+Sinalização
+Vertical
+e
+Horizontal das Vias Urbanas
+conforme
+Obras e instalações
+convênio 4272026/PGEDETRAN
+
+Fonte
+
+Valor
+
+17010000
+
+R$
+
+Transferência
+de
+convênios
+Estados
+805.802,94
+outros Exercícios
+Corrente
+Total
+
+805.802,94
+
+Art. 2º. Para a cobertura dos recursos serão utilizados Recursos Vinculados a Receita:2.4.2.2.99.0.1.01.00.00.00.00. outras Transferências de
+Convênios dos Estados e DF e suas Entidades; Fonte: 17010000 –Transferência de Convênios Estados – Outros - Exercício Corrente.
+Art. 3º. Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+Ministro Andreazza – RO, 11 de agosto de 2026.
+JOSÉ ALVES PEREIRA
+Prefeito Municipal
+ROSEANE MARIA VIEIRA TAVARES FONTANA
+Procuradora do Município– OAB/RO 2209
+DOCUMENTO PUBLICADO NO MURAL OFICIAL DA PREFEITURA CONFORME LEI N. 384/2003 POR UM PERÍODO MINIMO
+DE SETE DIAS
+
+www.diariomunicipal.com.br/arom
+
+262
+
+Rondônia , 14 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4298
+Publicado por:
+Daniela Pagno Dos Santos

@@ -1,0 +1,52 @@
+{
+  "host": "sapl.caceres.mt.leg.br",
+  "metadados_unicos_observados": 119,
+  "total_api_declarado": 119,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caceres.mt.leg.br/1243fac518ce3fa14666a33ebcf5f707c189d8f96d6fbd451f25763caf27f6ee.json",
+    "url": "https://sapl.caceres.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.caceres.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c0430249b0a21b2fa5af29d3abfeb27d54d1a8b8cdfec97def1542c94823e6ba",
+    "bytes": 958,
+    "capturado_em": "2026-10-27T21:03:56.611798-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caceres.mt.leg.br/c48a1f48ab53e52829a721e186afcfe2d4f8b85fd554fd2ddcd40bf876128611.json",
+    "url": "https://sapl.caceres.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.caceres.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "28fe4c18c61d25a8964031338d7ec66a4e86493935fd1b7e2a9e72b8c978d6fc",
+    "bytes": 771,
+    "capturado_em": "2026-10-27T21:03:55.600676-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caceres.mt.leg.br/00c9142fa4156bdf53fc504a4f57b36f89bfb8449cea163aaf8eeec2d46aa916.json",
+      "url": "https://sapl.caceres.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.caceres.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3992d1b8d0ed36b445d4f0d371e089714036afdc3e2c721690ba029daf74ecd1",
+      "bytes": 76981,
+      "capturado_em": "2026-10-27T21:03:57.855246-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caceres.mt.leg.br/a789a071cf4ec54c4aa8ab685ed380b48f66e1eb604bb692b30cf5462504e73c.json",
+      "url": "https://sapl.caceres.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.caceres.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6ac17c6d78321de03a540756f6e58914e9a2ceed1511c2bb3f89dd5b20f9ff98",
+      "bytes": 14618,
+      "capturado_em": "2026-10-27T21:03:58.748329-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

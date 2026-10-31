@@ -1,0 +1,60 @@
+---
+titulo: "Lei Ordinária nº 1.887, de 18 de setembro de 1979"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1887"
+data: "1979-09-18"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1909"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2593/text"
+sha256_fonte: "63ba586fde292c72960eb9972a3ff22e4f0e6f4272709f5332b368dd1543631d"
+sha256_texto: "6d07802f5bb4990831f1032f484d1f53815f16ac6eadeb4ebf0cb57b55912ecb"
+capturado_em_fonte: "2026-10-27T18:52:59.886378-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.887, de 18 de setembro de 1979
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL DE Cr$ 1.115.000,00.
+
+
+Eu, **ODEYR RAMOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir, por Decreto, no Serviço de Finanças – Setor de Contabilidade, o crédito adicional de Cr$ 1.115.000,00 (hum milhão, cento e quinze mil cruzeiros), suplementar às seguintes dotações do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">2 - CHEFIA DO EXECUTIVO</td></tr><tr><td colspan="2">2.2 - SECRETARIA</td></tr><tr><td colspan="2">2.2 / 03070212.06 - Manutenção da Junta de Serviço Militar</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 5.000,00</td></tr><tr><td colspan="2">2.2 / 03070212.07 - Manutenção da Unidade Militar T.G. 02-012</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 7.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cr$ 30.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">3 - FINANÇAS</td></tr><tr><td colspan="2">3.2 - TRIBUTAÇÃO</td></tr><tr><td colspan="2">3.2 / 03080302.10 - Manutenção do Setor de Tributação</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2">3.3 - TESOURARIA</td></tr><tr><td colspan="2">3.3 / 03080302.11 - Manutenção da Tesouraria</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 7.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">6 - SERVIÇOS MUNICIPAIS</td></tr><tr><td colspan="2">6.4 - ÁGUA E ESGOTO</td></tr><tr><td colspan="2">6.4 / 13764472.21 - Manutenção do Serviço de Água</td></tr><tr><td colspan="2">Com recursos próprios do Município</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 45.000,00</td></tr><tr><td colspan="2">6.4 / 13764491.10 - Para a Ampliação da Rede Coletora de Esgotos</td></tr><tr><td colspan="2">Com recursos próprios do Município</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 61.000,00</td></tr><tr><td colspan="2">6.5 - LIMPEZA PÚBLICA</td></tr><tr><td colspan="2">6.5 / 10603252.23 - Manutenção dos Serviços de Limpeza Pública</td></tr><tr><td>3111 - Pessoal Civil</td><td>Cr$ 460.000,00</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 70.000,00</td></tr><tr><td>3120 - Material de Consumo</td><td>Cr$ 120.000,00</td></tr><tr><td colspan="2">6.8 - PARQUES E JARDINS</td></tr><tr><td colspan="2">6.8 / 10603282.26 - Manutenção de Parques e Jardins</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 70.000,00</td></tr><tr><td colspan="2">6.10 - LOGRADOUROS PÚBLICOS</td></tr><tr><td colspan="2">6.10 - 10583232.28 - Para Conservação de Ruas e Praças</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 80.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">7 - EDUCAÇÃO E CULTURA</td></tr><tr><td colspan="2">7.5 - EDUCAÇÃO FÍSICA E DESPORTOS</td></tr><tr><td colspan="2">7.5 / 08462240.41 - Manutenção das Atividades Desportivas</td></tr><tr><td>3113 - Obrigações Patronais</td><td>Cr$ 15.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cr$ 65.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">8 - SANEAMENTO</td></tr><tr><td colspan="2">8.1 - ASSISTÊNCIA MÉDICO-HOSPITALAR</td></tr><tr><td colspan="2">8.1 - 13754282.44 - Manutenção da Assistência Médica e Sanitária</td></tr><tr><td>3111 - Pessoal Civil</td><td>Cr$ 60.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito a que se reporta o artigo anterior será coberto com recurso proveniente de anulações de verbas do orçamento corrente abaixo discriminadas:
+
+
+<table><tbody><tr><td colspan="2">2 - CHEFIA D EXECUTIVO</td></tr><tr><td colspan="2">2.1 - GABINETE DO PREFEITO</td></tr><tr><td colspan="2">2.1 / 03070201.02 - Para Aquisição de duas Peruas</td></tr><tr><td>4120 - Equipamento e Material Permanente</td><td>Cr$ 150.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">5 - AGRICULTURA</td></tr><tr><td colspan="2">5.1 - CHÁCARA MUNICIPAL</td></tr><tr><td colspan="2">5.1 / 04140802.16 - Manutenção da Chácara Municipal</td></tr><tr><td>3111 - Pessoal Civil</td><td>Cr$ 50.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">6 - SERVIÇOS MUNICIPAIS</td></tr><tr><td colspan="2">6.1 - SERVIÇO DE ESTRADAS DE RODAGEM MUNICIPAL (SERM)</td></tr><tr><td colspan="2">6.1 - 16885311.04 - Aquisição de Equipamentos Rodoviários</td></tr><tr><td>4130 - Investimentos em Regime de Execução Especial</td><td>Cr$ 300.000,00</td></tr><tr><td colspan="2">6.2 - TELEFONES RURAIS - TORRE DE TV</td></tr><tr><td colspan="2">6.2 / 05221342.18 - Manutenção a Linha Telefônica Rural</td></tr><tr><td>3120 - Material de Consumo</td><td>Cr$ 15.000,00</td></tr><tr><td colspan="2">6.6 - SERVIÇOS FUNERÁRIOS</td></tr><tr><td colspan="2">6.6 / 10603261.12 - Para ampliação da área do Cemitério “Consolação”, inclusive desapropriação, implantação de infra-estrutura e outras</td></tr><tr><td>4130 - Investimento em Regime de Execução Especial</td><td>Cr$ 600.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos dezoito de setembro de mil novecentos e setenta e nove.
+
+**ODEYR RAMOS Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos dezoito de setembro de mil novecentos e setenta e nove, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

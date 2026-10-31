@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/tabela_valores_diaria.pdf da norma Decreto Legislativo-CMB nº 2, de 10 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Atualização em maio de 2026 da Tabela Oficial de Diárias referente ao Decreto Legislativo nº 2 de 10 de fevereiro de 2025.",
+      "anexo_arquivo": "http://sapl.brejinho.rn.leg.br/media/sapl/public/anexonormajuridica/2025/1/tabela_valores_diaria.pdf",
+      "ano": 2025,
+      "norma": 15
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brejinho.rn.leg.br/f024f105a8a2ae73349a1b6f1a082f3358418ad0b8a149e831852e15bb3427ea.json",
+      "url": "https://sapl.brejinho.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.brejinho.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "824de0b4504ca7b8d2f07b2b66f70debd0a0424ce94429d547fc176618b8794d",
+      "bytes": 708,
+      "capturado_em": "2026-10-27T19:39:24.882015-03:00"
+    }
+  ]
+}

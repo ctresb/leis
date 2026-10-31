@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bomjesusdoamparo.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoamparo.mg.leg.br/f3a3fa2c22661ade2fd6502020d05334020afab2d24f08df0c235a0b2b918abe.json",
+    "url": "https://sapl.bomjesusdoamparo.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bomjesusdoamparo.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ad64747805996dcbde6d82498cf2c77e5ae4f5261a573e5566bd6b0033c8c50f",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T19:35:11.904110-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoamparo.mg.leg.br/8626963390f2eec2766d2d116671946f669fae56a1e0b7f78526d66b88398bc6.json",
+    "url": "https://sapl.bomjesusdoamparo.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bomjesusdoamparo.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "dbcfad7fa0b2fda7293249bf478f5c36303ce4bd6a09d960fcdadd5dc2c8329a",
+    "bytes": 798,
+    "capturado_em": "2026-10-27T19:35:11.055382-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoamparo.mg.leg.br/6840ddec7c4ca70329fb6740f7490d22857bb92c541f91ba0a3a7969074e1fd7.json",
+      "url": "https://sapl.bomjesusdoamparo.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bomjesusdoamparo.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T19:35:13.893252-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

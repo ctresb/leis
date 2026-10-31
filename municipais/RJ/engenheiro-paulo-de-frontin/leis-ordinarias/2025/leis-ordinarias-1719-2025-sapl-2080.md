@@ -1,0 +1,117 @@
+---
+titulo: "Lei Ordinária-PMEPF nº 1.719, de 24 de junho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1719"
+data: "2025-06-24"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2080"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1797/text"
+sha256_fonte: "9383da9b1f473da4d8bf4a5fd098e31ed5e317fe671664ebbec04900c7cd802f"
+sha256_texto: "b3f9085eb254786d85f5a0389f09af5e133b31645a8be6eda3c978cb2da3fc3d"
+capturado_em_fonte: "2026-10-28T10:34:22.413944-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-PMEPF nº 1.719, de 24 de junho de 2025
+
+A Câmara Municipal de Engenheiro Paulo de Frontin APROVOU e eu, Presidente da Câmara Municipal de Engenheiro Paulo de Frontin, SANCIONO E PROMULGO a seguinte, LEI MUNICIPAL:
+
+
+Art. 1º.
+
+Fica autorizada a criação, no âmbito da Secretaria Municipal de Educação, o curso pré-vestibular e preparatório para ingresso no ensino superior e concursos públicos preferencialmente municipais, ENEM, PROUNI, Universidade para todos, de acordo com os dispositivos estabelecidos nesta Lei.
+
+
+Art. 2º.
+
+O programa supracitado consiste em disponibilizar para a população aulas de revisão do ensino fundamental e médio, nas disciplinas de português, redação, literatura, aprendizagem e gestão, filosofia, sociologia, conhecimentos gerais, matemática, química, física, biologia, geografia, história, inglês e espanhol, nas escolas públicas do Município.
+
+
+Parágrafo único
+
+As aulas serão 03 (três) vezes por semana e terão carga horária de 09 (nove) a 12 (doze) horas semanais.
+
+
+Art. 3º.
+
+Para inscrever-se no Cursinho Pré-vestibular e preparatório para ingresso no ensino superior e concursos públicos, é necessário que o candidato atenda os seguintes requisitos:
+
+
+I –
+
+Tenha cursado o ensino médio em escola pública;
+
+
+II –
+
+Comprove impossibilidade de custear um curso particular para os fins especificados nesta Lei, com renda familiar mensal de até 03 (três) salários mínimos (IBGE) vigentes;
+
+
+III –
+
+Resida no município.
+
+
+§ 1º
+
+O aluno que está concluindo o último ano do ensino médio também poderá inscrever-se.
+
+
+§ 2º
+
+A triagem para seleção dos alunos aptos a participarem do programa será feita através da Secretaria Municipal de Educação em parceria com a Secretaria Municipal de Ação Social.
+
+
+§ 3º
+
+O aluno não poderá participar deste programa por mais de 02 (dois) anos consecutivos.
+
+
+§ 4º
+
+Fica autorizada a criação de curso preparatório para concurso público municipal para os candidatos que se enquadrem no artigo 3° desta Lei.
+
+
+Art. 4º.
+
+Fica o Poder Executivo Municipal autorizado a realizar convênio com as Faculdades e Universidades locais, com o governo do Estado, com o governo Federal, instituições diversas e empresas privadas, para que sejam disponibilizados acadêmicos dos cursos de licenciatura das disciplinas citadas, bacharelados afins, ou professores, para ministrarem as aulas de revisão previstas no programa como voluntários ou remunerados.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal, publicará Decreto no prazo máximo de 60 (sessenta) dias a contar da data de publicação desta Lei, informando o número de vagas ofertadas a cada ano, e o período de inscrição para participação.
+
+
+Art. 6º.
+
+A Secretaria Municipal de Educação divulgará, anualmente, a relação dos participantes deste programa que lograrem êxito em seus objetivos, conforme descrito no caput do artigo 10 desta Lei.
+
+
+Art. 7º.
+
+As despesas para instalação e manutenção deste programa serão atendidas com a previsão constante na Lei Orçamentária deste exercício para a Secretaria Municipal de Educação e suplementadas se necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Autor: Gabriel da Silva Lourenço
+
+
+Engenheiro Paulo de Frontin - RJ, 24 de junho de 2025.
+
+
+JÉFERSON ADRIANO GOMES MOREIRA
+
+
+Presidente
+

@@ -1,0 +1,74 @@
+---
+titulo: "Lei Ordinária nº 1.947, de 19 de agosto de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1947"
+data: "1980-08-19"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1969"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2774/text"
+sha256_fonte: "b97fd5bc496442c201c0320405fd37d6511b98a5b3b82ed8ae95f42e7b6939db"
+sha256_texto: "fdfa8a0bb8d2c0d7949a2d0e7b38db042a3591aa13fe69b45713755fbf72ebeb"
+capturado_em_fonte: "2026-10-27T18:51:00.638722-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.947, de 19 de agosto de 1980
+
+AUTORIZA A PREFEITURA MUNICIPAL DE BIRIGUI, ESTADO DE SÃO PAULO, A CELEBRAR CONVÊNIO COM A SECRETARIA DA PROMOÇÃO SOCIAL DO ESTADO DE SÃO PAULO.
+
+
+Eu, **ODEYR RAMOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Prefeitura Municipal de Birigui autorizada a celebrar convênio com a Secretaria da Promoção Social do Estado de São Paulo, para instalação no Município de um **CENTRO COMUNITÁRIO**.
+
+
+Art. 2º.
+
+O Centro Comunitário de Birigui de que trata o artigo 1º será construído em próprio municipal , cujo terreno, sem benfeitorias, está situado na Vila Brasil, desta cidade, com frente para a Avenida João Cernach, seguindo no sentido bairro – cidade, a partir da Rua Parará, na distância de 180,00m (cento e oitenta metros) até alcançar a Rua Paraíba, seguindo por esta até a distância de 30,00m (trinta metros); daí, deflete, à direita, numa distância de 128,00m (cento e vinte e oito metros), até alcançar a Rua Paraná, limitando-se com terreno de propriedade da Prefeitura Municipal de Birigui; desse ponto segue pela Rua Paraná, na distância na distância de 70,00m (setenta metros), até encontrar o ponto de partida, localizado no cruzamento da Rua Paraná com a Avenida João Cernach, perfazendo uma área total de 6.400m² (seis mil e quatrocentos metros quadrados) (Escritura Pública nº 31.763, Livro 3 A L, do Registro Geral de Imóveis, folhas 99, em data de 15 de abril de 1970 – Cartório de Registro de Imóveis, da Comarca de Birigui).
+
+
+Art. 3º.
+
+O Centro Comunitário de Birigui, destina-se exclusivamente a formação de um núcleo de desenvolvimento de:
+
+
+1
+
+programas da Secretaria de Promoção Social;
+
+
+2
+
+programas públicos e privados e atividades de interesse da comunidade, referentes aos setores de promoção social, saúde e nutrição, trabalho, recreação e lazer, cultura e desporto, que respondam aos interesses das várias faixas etárias da população carente, desde que não conflitem com os programas das Secretarias de Estado.
+
+
+Art. 4º.
+
+Na hipótese de vir a ser o Centro Comunitário utilizado em qualquer outra finalidade, que não as fixadas no artigo 3º desta lei e no convênio a ser firmado entre as partes, fica desde já conferido ao Prefeito Municipal a capacidade de gravar o bem imóvel e a respectiva edificação, com a condição de cláusula resolutiva da propriedade, que operará de pleno direito, uma vez verificada, transferindo-se a propriedade plena do imóvel à Fazenda Pública Estadual, com destinação preferencial para a Secretaria da Promoção Social.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos dezenove de agosto de mil novecentos e oitenta.
+
+**ODEYR RAMOS Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos dezenove de agosto de mil novecentos e oitenta, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

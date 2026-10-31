@@ -1,0 +1,59 @@
+---
+titulo: "Lei Ordinária nº 2.507, de 22 de julho de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2507"
+data: "1988-07-22"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/2529"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3490/text"
+sha256_fonte: "de40c48ad1c28f87daa48c8e723b85fa8f714df3c9796046b5428566449440b6"
+sha256_texto: "bcb800d8d804f9b25a4f7f72e418f677e0135e3d366c10c1ef683b33e4e41cde"
+capturado_em_fonte: "2026-10-27T18:32:26.583066-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.507, de 22 de julho de 1988
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR DE Cz$ 166.460.000,00, E DÁ PROVIDÊNCIAS CORRELATAS.
+
+
+Eu, **DR. FLORIVAL CERVELATI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir, por Decreto, no Departamento de Planejamento e Finanças - Divisão de Finanças - Setor de Contabilidade, crédito adicional de Cz$ 166.460.000,00 (cento e sessenta e seis milhões, quatrocentos e sessenta mil cruzados), suplementar às seguintes dotações do orçamento municipal vigente:
+
+
+<table><tbody><tr><th colspan="2">Órgão: 01 - PODER EXECUTIVO</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 01 - Gabinete do Prefeito</em></td></tr><tr><td colspan="2">03070202.002 - Manutenção do Gabinete do Prefeito</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 30.000,00</td></tr><tr><td colspan="2"><em>Unidade Orçamentária: 2 - Divisão de Expediente</em></td></tr><tr><td colspan="2">03070212-003 - Manutenção da Unidade</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 200.000,00</td></tr><tr><td colspan="2"><em>Unidade Orçamentária: 03 - CONDEI</em></td></tr><tr><td colspan="2">11623461.020 - Obras Diversas - Distrito Industrial</td></tr><tr><td>4110 - Obras e Instalações</td><td>Cz$ 500.000,00</td></tr><tr><td colspan="2">11623462.018 - Encargos do CONDEI</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 40.000,00</td></tr><tr><td colspan="2"><em>Unidade Orçamentária: 06 - Tiro de Guerra/Junta de Serviço Militar</em></td></tr><tr><td colspan="2">06281662.042 - Manutenção do TG e Junta de Serviço Militar</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 200.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 02 - DEPARTAMENTO DE PLANEJAMENTO E FINANÇAS</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 01 - Diretoria</em></td></tr><tr><td colspan="2">03090202.043 - Manutenção da Diretoria do Departamento de Planejamento e Finanças</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 20.000,00</td></tr><tr><td colspan="2"><em>Unidade Orçamentária: 02 - Divisão de Análise e Programação</em></td></tr><tr><td colspan="2">03070242.044 - Manutenção da Divisão de Análise e Programação</td></tr><tr><td>3131 - Remuneração de Serviços Pessoais</td><td>Cz$ 100.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 700.000,00</td></tr><tr><td colspan="2"><em>Unidade Orçamentária: 04 - Divisão de Arrecadação</em></td></tr><tr><td colspan="2">03080302.046 - Manutenção da Divisão de Arrecadação</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 1.200.000,00</td></tr><tr><td colspan="2">13764472.030 - Manutenção do Setor de Contas de Água, Esgoto e Outros</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 100.000,00</td></tr><tr><td colspan="2"><em>Unidade Orçamentária: 05 - Divisão de Finanças</em></td></tr><tr><td colspan="2">03080322.047 - Manutenção da Divisão de Finanças</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 1.000.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 03 - DIVISÃO DE AGRICULTURA E ABASTECIMENTO</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 01 - Divisão de Agricultura e Abastecimento</em></td></tr><tr><td colspan="2">10583281.012 - Construção e ampliação de praças, parques e jardins</td></tr><tr><td>4110 - Obras e Instalações</td><td>Cz$ 5.000.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 04 - DEPARTAMENTO DE SAÚDE E PROMOÇÃO SOCIAL</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 03 - Divisão de Promoção Social</em></td></tr><tr><td colspan="2">15814832.028 - Atendimento ao Menor</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 3.000.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 320.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 05 - DEPARTAMENTO DE EDUCAÇÃO E CULTURA</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 02 - Divisão de Educação</em></td></tr><tr><td colspan="2">08070212.053 - Manutenção da Divisão de Educação</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 200.000,00</td></tr><tr><td colspan="2">08421882.006 - Manutenção do Ensino de 1º Grau</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 2.250.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 25.000.000,00</td></tr><tr><td colspan="2">08424271.004 - Aquisição de Equipamentos e Instalações</td></tr><tr><td>4120 - Equipamentos e Material Permanente</td><td>Cz$ 11.000.000,00</td></tr><tr><td colspan="2">08424272.010 - Manutenção da Merenda Escolar</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 400.000,00</td></tr><tr><td colspan="2">08452152.011 - Cursos de Qualificação</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 50.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 300.000,00</td></tr><tr><td colspan="2">08492532.008 - Subvenções Sociais</td></tr><tr><td>3231 - Subvenções Sociais</td><td>Cz$ 1.200.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 06 - DIVISÃO DE ESPORTES</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 01 - Divisão de Esportes</em></td></tr><tr><td colspan="2">08462242.003 - Manutenção da Unidade</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 350.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 07 - DEPARTAMENTO DE ADMINISTRAÇÃO</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 02 - Divisão de Materiais</em></td></tr><tr><td colspan="2">03070212.003 - Manutenção da Unidade</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 200.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 09 - DEPARTAMENTO DE OBRAS PÚBLICAS MUNICIPAIS</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 02 - Divisão de Água e Esgoto</em></td></tr><tr><td colspan="2">13764472.012 - Manutenção dos Serviços de Água</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 6.000.000,00</td></tr><tr><td colspan="2"><em>Unidade Orçamentária: 03 - Divisão de Obras Públicas</em></td></tr><tr><td colspan="2">10583272.033 - Iluminação Pública</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 8.400.000,00</td></tr><tr><td colspan="2">10585751.013 Vias Urbanas, Obras do Sistema Viário e Outras</td></tr><tr><td>4110 - Obras e Instalações</td><td>Cz$ 20.000.000,00</td></tr><tr><td colspan="2">11623472.016 - Setor de Fábrica de Artefatos de Cimento</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 50.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 50.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 10 - DEPARTAMENTO DE SERVIÇOS PÚBLICOS MUNICIPAIS</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 02 - Divisão de Serviços Públicos Municipais</em></td></tr><tr><td colspan="2">10583282.038 - Zeladoria, Parques, Jardins, Próprios e Outros</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 1.200.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 2.000.000,00</td></tr><tr><td colspan="2">10603252.014 - Setor de Limpeza Pública</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 1.000.000,00</td></tr><tr><td colspan="2">10603262.014 - Setor de Cemitérios</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 700.000,00</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 100.000,00</td></tr><tr><td colspan="2">16885321.028 - Terminal Rodoviário</td></tr><tr><td>4110 - Obras e Instalações</td><td>Cz$ 13.000.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 11 - ENCARGOS GERAIS DO MUNICÍPIO</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 01 - Recursos Supervisionados pelas Finanças</em></td></tr><tr><td colspan="2">03070212.017 - Despesas Diversas de Administração</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 1.500.000,00</td></tr><tr><td colspan="2">03070212.024 - Prêmio Gratificação aos Funcionários</td></tr><tr><td>3132 - Outros Serviços e Encargos</td><td>Cz$ 200.000,00</td></tr><tr><td colspan="2">03080332.027 - Encargos com Financiamento e Outros</td></tr><tr><td>3261 - Juros de Dívida Contratada</td><td>Cz$ 15.000.000,00</td></tr><tr><td>3267 - Correção Monetária sobre Operações de Crédito por Antecipação da Receita</td><td>Cz$ 20.000.000,00</td></tr><tr><td colspan="2">06301782.015 - Manutenção do Corpo de Bombeiros</td></tr><tr><td>3120 - Material de Consumo</td><td>Cz$ 500.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">Órgão: 05 - DEPARTAMENTO DE EDUCAÇÃO E CULTURA</th></tr><tr><td colspan="2"><em>Unidade Orçamentária: 02 - Divisão de Educação</em></td></tr><tr><td colspan="2">08421901.023 - Obras Diversas (Pré Escola)</td></tr><tr><td>4110 - Obras e Instalações</td><td>Cz$ 23.400.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O valor do presente crédito será coberto com recursos previstos no inciso II, § 1º, do artigo 43, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e dois de julho de mil novecentos e oitenta e oito.
+
+**DR. FLORIVAL CERVELATI Prefeito Municipal**
+
+**NELSON GIARDINO Diretor do Departamento de Planejamento e Finanças**
+
+Publicada na Divisão de Expediente da Prefeitura Municipal de Birigui, aos vinte e dois de julho de mil novecentos e oitenta e oito, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Chefe da Divisão de Expediente**
+

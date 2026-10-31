@@ -1,0 +1,5389 @@
+---
+titulo: "Lei nº 28, de 04 de julho de 1972"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "28"
+data: "1972-07-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1990-01-23; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4443"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/171/text"
+sha256_fonte: "24a74ab9e4a4be44c69283cafc9e413cf5d3e4e3293650a11d7d60ffd9deed87"
+sha256_texto: "debf065d4a1620ef7e61d27afff00d4eda77a06f230710e173a58e28924eaede"
+capturado_em_fonte: "2026-10-27T22:49:16.200397-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 28, de 04 de julho de 1972
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+### TÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+### TÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 68.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 69.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 70.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 71.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+### TÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 72.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 73.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 74.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 75.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+### TÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 76.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 77.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 78.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 79.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 80.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 81.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 82.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 83.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 84.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 85.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 86.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 87.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 88.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 89.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 90.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 91.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 92.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 93.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 94.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 95.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 96.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 97.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 98.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 99.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 100.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 101.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 102.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 103.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 104.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 105.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 106.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 107.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 108.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 109.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 110.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 111.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 112.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 113.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 114.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 115.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 116.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 117.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 118.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 119.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 120.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 121.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 122.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 123.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 124.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 125.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 126.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 127.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 128.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 129.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 130.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 131.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 132.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 133.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 134.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 135.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 136.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO VIII
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 137.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 138.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 139.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 140.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 141.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 142.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 143.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 144.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 145.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 146.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 147.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 148.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 149.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 150.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 151.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 152.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 153.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 154.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 155.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 156.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 157.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 158.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 159.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 160.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 161.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 162.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 163.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO IX
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 164.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 165.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 166.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 167.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 168.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 169.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 170.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 171.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO X
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 172.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 173.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 174.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 175.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 176.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 177.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 178.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 179.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+### TÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 180.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 181.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 182.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 183.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 184.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 185.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 186.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 187.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 188.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 189.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 190.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 191.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 192.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 193.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 194.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 195.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 196.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 197.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 198.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 199.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 200.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 201.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 202.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+### TÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 203.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 204.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 205.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 206.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 207.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 208.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 209.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 210.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 211.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 212.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 213.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 214.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 215.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 216.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 217.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 218.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 219.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 220.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 221.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 222.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 223.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 224.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 225.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 226.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 227.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 228.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 229.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 230.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 231.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 232.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 233.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 234.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 235.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 236.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 237.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+CAPÍTULO ÚNICO
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 238
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+### TÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 238.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 239.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 240.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 241.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 242.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 243.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 244.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+Art. 245.
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+
+
+(Revogado)
+
+Revogado pelo Art. 252. - Lei nº 901, de 23 de julho de 1990.
+

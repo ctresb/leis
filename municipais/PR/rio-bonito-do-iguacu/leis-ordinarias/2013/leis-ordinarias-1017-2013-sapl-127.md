@@ -1,0 +1,211 @@
+---
+titulo: "Lei Ordinária nº 1.017, de 21 de maio de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1017"
+data: "2013-05-21"
+municipio: "Rio Bonito do Iguaçu"
+uf: "PR"
+codigo_ibge: "4122156"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.riobonitodoiguacu.pr.leg.br/norma/127"
+fonte_texto: "https://sapl.riobonitodoiguacu.pr.leg.br/media/sapl/public/normajuridica/2013/127/lei_1017_20131411156992.pdf"
+sha256_fonte: "93eccf8597abf965293179eaf80d18c2397a44b78a364d0b1c2e51224654b1cf"
+sha256_texto: "fca7cfc061f47587e0d34197e85206083f09e3b20bc8e378a6d99dc5f3a01dde"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 1.017, de 21 de maio de 2013
+
+ESTADO DO PARANÁ Lei nº 1.017/2013-Pag.1/6
+
+LEI Nº 1.017/2013 DE 21 DE MAIO DE 2013.
+
+SÚMULA: Autoriza o Executivo Municipal a efetuar abertura de Crédito Adicional Especial no Orçamento de 2013 e dá outras providências.
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE RIO BONITO DO IGUAÇU, ESTADO DO PARANÁ, APROVOU E EU, IRIO ONÉLIO DE ROSSO, PREFEITO MUNICIPAL, NO USO DAS ATRIBUIÇÕES QUE ME SÃO CONFERIDAS POR LEI, SANCIONO E MANDO PROMULGAR A SEGUINTE LEI:
+
+**Art. 1º** Esta Lei autoriza o Executivo Municipal a efetuar a abertura de Crédito Adicional Especial, no Orçamento do Município de Rio Bonito do Iguaçu, para o exercício de 2013.
+
+**Art. 2º** Fica o Poder Executivo Municipal autorizado a abrir no Orçamento-Programa do Município de Rio Bonito do Iguaçu, para o exercício de 2013, Crédito Adicional Especial no valor de R$ 48.710,00 (Quarenta e oito mil e setecentos e dez reais), de acordo com as seguintes dotações orçamentárias:
+
+02 – EXECUTIVO MUNICIPAL 02.001 – GABINETE DO PREFEITO 04.122.0002-2008 – MANUTENÇÃO DO GABINETE DO PREFEITO
+
+00195.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+02 – EXECUTIVO MUNICIPAL 02.003 – ASSESSORIA DE PLANEJAMENTO 06.122.0002-2010 – MANUTENÇÃO ASSESSORIA DE PLANEJAMENTO
+
+00335.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+02 – EXECUTIVO MUNICIPAL 02.004 – JUNTA DE SERVIÇO MILITAR 04.131.0002-2011 – ATIVIDADES DA JUNTA DE SERVIÇO MILITAR
+
+00395.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+02 – EXECUTIVO MUNICIPAL 02.005 – CONTROLADORIA INTERNA 04.124.0002-2012 – MANUTENÇÃO DA CONTROLADORIA INTERNA
+
+00445.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+03 – SECRETARIA DE ADMINISTRAÇÃO 03.002 – DEPARTAMENTO DE COMPRAS , MATERIAL E PATRIMÔNIO 04.122.0003-2016 – ATIVIDADES DO DEPARTAMENTO DE COMPRAS, MATERIAL E PATRIMÔNIO
+
+00655.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+03 – SECRETARIA DE ADMINISTRAÇÃO 03.003 – DEPARTAMENTO DE SERVIÇOS GERAIS 04.122.0003-2019 – ATIVIDADES DO DEPARTAMENTO DE SERVIÇOS GERAIS
+
+00765.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 5.200,00
+
+ESTADO DO PARANÁ Lei nº 1.017/2013-Pag.2/6
+
+03 – SECRETARIA DE ADMINISTRAÇÃO 03.004 – ASSESSORIA DE IMPRENSA 24.131.0004-2021 – ATIVIDADES DA ASSESSORIA DE IMPRENSA, COMUNICAÇÃO E EVENTOS
+
+00875.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+04 – SECRETARIA DE FINANÇAS 04.001 – DEPARTAMENTO DE CONTABILIDADE E TESOURARIA 04.123.0006-2024 – ATIVIDADES DO DEPTO DE CONTABILIDADE E TESOURARIA
+
+00985.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 650,00
+
+04 – SECRETARIA DE FINANÇAS 04.002 – DEPARTAMENTO DE TRIBUTAÇÃO E FISCALIZAÇÃO 04.123.0006-2025 – ATIVIDADES DO DEPTO DE TRIBUTAÇÃO E FISCALIZAÇÃO
+
+01105.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+05 – SECRETARIA DE OBRAS E URBANISMO 05.001 – DEPARTAMENTO DE OBRAS 15.451.0007-2031– ATIVIDADES DO DEPARTAMENTO DE OBRAS
+
+01325.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 2.800,00
+
+05 – SECRETARIA DE OBRAS E URBANISMO 05.002– DEPARTAMENTO DE URBANISMO 15.452.0007-2037– ATIVIDADES DO DEPARTAMENTO DE URBANISMO
+
+01565.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 2.500,00
+
+05 – SECRETARIA DE OBRAS E URBANISMO 05.003– DEPARTAMENTO DE ENGENHARIA 15.452.0007-2038– ATIVIDADES DO DEPARTAMENTO DE ENGENHARIA
+
+01665.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+12.306.0010-2040 – MANUTENÇÃO DA MERENDA ESCOLAR
+
+01775.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 4.200,00
+
+12.361.0010-2044 – ATIVIDADES DO DEPARTAMENTO DE EDUCAÇÃO
+
+01965.000103– 5% das Transferências Constitucionais - FUNDEB
+
+ESTADO DO PARANÁ Lei nº 1.017/2013-Pag.3/6
+
+12.361.0010-2045 – ATIVIDADES DO ENSINO FUNDAMENTAL – OUTROS REC 5% E 25%
+
+02085.000103– 5% das Transferências Constitucionais - FUNDEB VALOR R$ 150,00
+
+12.361.0010-2046 – ATIVIDADES DO FUNDEB 60%
+
+02325.000101 – FUNDEB 60% VALOR R$ 1.700,00
+
+12.361.0010-2049 – ATIVIDADES DO FUNDEB 40%
+
+02595.000102 – FUNDEB 40% VALOR R$ 12.300,00
+
+12.365.0010-2053 – ATIVIDADES DO ENSINO INFANTIL
+
+02815.000103 – 5% sobre transferências constitucionais FUNDEB VALOR R$ 4.800,00
+
+12.365.0010-2054 – MANUTENÇÃO ATIVIDADES DO ENSINO INFANTIL – FUNDEB 60%
+
+02915.000101 – FUNDEB 60%
+
+06 – SECRETARIA DE EDUCAÇÃO CULTURA E ESPORTE 06.002 – DEPARTAMENTO DE CULTURA E ESPORTES 08.243.0022-06057 – ATIVIDADES ESPORTIVAS E RECREATIVAS CRIANÇA E ADOLESCENTES
+
+02985.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+06.002 – DEPARTAMENTO DE CULTURA E ESPORTES 13.392.0012-02059 – ATIVIDADES DO DEPARTAMENTO DE CULTURA
+
+03065.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+06.002 – DEPARTAMENTO DE CULTURA E ESPORTES 27.812.0013-02062 – ATIVIDADES DO DEPARTAMENTO DE ESPORTES
+
+03245.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 950,00
+
+ESTADO DO PARANÁ Lei nº 1.017/2013-Pag.4/6
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.301.0014-2066– PROGRAMA SAÚDE BUCAL
+
+03475.000495 – Atenção Básica VALOR R$ 1.250,00
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.301.0014-2067– ATIVIDADES DO FUNDO MUNICIPAL DE SAÚDE
+
+03505.000303 – Saúde – Receitas Vinculadas (E.C. 29/00 – 15%) VALOR R$ 2.500,00
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.301.0014-2072– PROGRAMA AGENTES COMUNITÁRIO DE SAÚDE
+
+03825.000495 – Atenção Básica VALOR R$ 4.300,00
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.301.0014-2074 - MANUT. DIVISÃO VIGILÂNCIA E EPIDEMIOLÓGICA
+
+03905.000303 – Saúde – Receitas Vinculadas (E.C. 29/00 – 15%)
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.304.0014-2076 – AÇÕES VIGILÂNCIA EM SAÚDE
+
+04005.000497 – Vigilância em saúde VALOR R$ 650,00
+
+08– SECRETARIA DE AGROPECUÁRIA E MEIO AMBIENTE 08.001 – DEPARTAMENTO DE AGROPECUÁRIA 20.606.0015-2081– ATIVIDADES DO DEPARTAMENTO DE AGROPECUÁRIA
+
+04205.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 650,00
+
+08– SECRETARIA DE AGROPECUÁRIA E MEIO AMBIENTE 08.002 – DEPARTAMENTO DE MEIO AMBIENTE 18.541.0016-2087– ATIVIDADES DO DEPARTAMENTO DE MEIO AMBIENTE
+
+04495.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+09 - SECRETARIA DE VIAÇÃO 09.001 – DEPARTAMENTO DE VIAÇÃO 26.782.0017-2092– ATIVIDADES DO DEPARTAMENTO DE VIAÇÃO
+
+04665.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 350,00
+
+ESTADO DO PARANÁ Lei nº 1.017/2013-Pag.5/6
+
+10 - SECRETARIA DE TRABALHO E DESENVOLVIMENTO MUNICIPAL 10.001 – DEPARTAMENTO DE TRABALHO E DESENVOLVIMENTO AGROINDUSTRIAL 11.334.0018-2093– ATIVIDADES DO DEPTO DO TRABALHO E DESENVOLVIMENTO AGROINDUSTRIAL
+
+04765.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+10 - SECRETARIA DE TRABALHO E DESENVOLVIMENTO MUNICIPAL 10.002 – DEPARTAMENTO DE TURISMO 27.695.0019-2095– ATIVIDADES DO DEPTO DE TURISMO
+
+04875.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+10 - SECRETARIA DE TRABALHO E DESENVOLVIMENTO MUNICIPAL 10.003 – DEPARTAMENTO DE INDÚSTRIA E COMÉRCIO 22.661.0018-2098– ATIVIDADES DO DEPTO DE INDÚSTRIA E COMÉRCIO
+
+05005.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+11 - SECRETARIA DE ASSISTÊNCIA SOCIAL 11.001 – DEPARTAMENTO DE ASSISTÊNCIA SOCIAL 08.244.0020-2100– ATIVIDADES DO DEPARTAMENTO DE ASSISTÊNCIA SOCIAL
+
+05125.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 2.500,00
+
+12 - SECRETARIA DE ASSUNTOS COMUNITÁRIOS 12.001 – DEPARTAMENTO DE ASSUNTOS COMUNITÁRIOS 14.244.0021-2119– ATIVIDADES DO DEPTO DE ASSUNTOS COMUNITÁRIOS
+
+06025.000000 – Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C
+
+TOTAL R$ 48.710,00
+
+**Art. 3º** Os recursos para cobertura do crédito aberto de conformidade com o artigo anterior são provenientes do cancelamento total ou parcial das seguintes dotações orçamentárias:
+
+03 – SECRETARIA DE ADMINISTRAÇÃO 03.001– DEPARTAMENTO DE RECURSOS HUMANOS 04.122.0003-2013 – ATIVIDADES DO DEPARTAMENTO DE RECURSOS HUMANOS
+
+00520.000000 - Recursos Ordinários (Livres) - Arrecadação na Administração Direta - Exercício C VALOR R$ 20.850,00
+
+12.361.0010-2046 – ATIVIDADES DO FUNDEB 60% 3.1.90.11.00.00 – VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 02330.000101 – FUNDEB 60% VALOR R$ 1.770,00
+
+12.361.0010-2049 – ATIVIDADES DO FUNDEB 40% 3.1.90.94.00.00 – INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 02620.000102 – FUNDEB 40% VALOR R$ 12.300,00
+
+ESTADO DO PARANÁ Lei nº 1.017/2013-Pag.6/6
+
+12.365.0010-2053 – ATIVIDADES DO ENSINO INFANTIL 3.1.90.11.00.00 – VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 02820.000103 – 5% sobre transferências constitucionais FUNDEB VALOR R$ 5.020,00
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.301.0014-2066– PROGRAMA SAÚDE BUCAL 3.1.90.11.00.00 – VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 03480.000495 – Atenção Básica VALOR R$ 5.550,00
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.301.0014-2067– ATIVIDADES DO FUNDO MUNICIPAL DE SAÚDE 3.1.90.11.00.00 – VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 03520.000303 – Saúde – Receitas Vinculadas (E.C. 29/00 – 15%) VALOR R$ 2.570,00
+
+07 – SECRETARIA DE SAÚDE 07.001 – FUNDO MUNICIPAL DE SAÚDE 10.304.0014-2076 – AÇÕES VIGILÂNCIA EM SAÚDE 3.1.90.11.00.00 – VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 04010.000497 – Vigilância em saúde VALOR R$ 650,00
+
+TOTAL R$ 48.710,00
+
+**Art. 4º** Fica autorizada a adequação dos valores, conforme autorização nesta lei, nas ações previstas na Lei nº 813/2009, que trata do Plano Plurianual 2009/2013 e adequação dos valores nas ações previstas na Lei nº 969/2012 que trata da Lei de Diretrizes Orçamentárias para o exercício de 2013, mediante Decreto do Poder Executivo Municipal.
+
+**Art. 5º** Esta Lei entra em vigor na data de sua publicação.
+
+Gabinete do Prefeito do Município de Rio Bonito do Iguaçu/PR, em 21 de maio de 2013.
+
+IRIO ONÉLIO DE ROSSO Prefeito Municipal
+

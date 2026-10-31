@@ -1,0 +1,386 @@
+---
+titulo: "Lei-CMC nº 2.765, de 21 de dezembro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2765"
+data: "2007-12-21"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2013-11-12; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6289"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/3699/text"
+sha256_fonte: "b58c1fe237e2b011b23b2b5c2bbc79873fa4729008e774fb2f1f3631eea7de6c"
+sha256_texto: "3dd68a59dc548dd264ca6e8bcb71090f4d52c3324409297681260ed67e56b41b"
+capturado_em_fonte: "2026-10-28T09:19:44.665639-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 2.765, de 21 de dezembro de 2007
+
+CRIA O CONSELHO MUNICIPAL DE CULTURA - CMC E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Câmara Municipal, Estado de Minas Gerais, aprovou e eu, Prefeito, sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Cultura – CMC, órgão colegiado do poder executivo municipal de caráter consultivo, deliberativo e fiscalizador, que tem por objetivo debater, opinar e orientar a elaboração de políticas públicas na área da cultura, promovendo a participação e o fortalecimento de todos os segmentos culturais do município, conforme o estabelecido na presente lei.
+
+
+Art. 2º.
+
+São atribuições do Conselho Municipal de Cultura - CMC:
+
+
+I –
+
+propor instrumentos para estimular a democratização e a descentralização das atividades de produção e difusão artístico-culturais no município, visando assegurar acesso aos bens e serviços culturais, de produção cultural e à preservação da memória;
+
+
+II –
+
+garantir um apoio equilibrado a todos os segmentos e manifestações culturais, compreendidos entre todos aqueles que produzem arte e cultura no município;
+
+
+III –
+
+contribuir para que as políticas culturais do município concorram com as políticas públicas desenvolvidas por outros setores, integrando as ações culturais às demais ações governamentais e não governamentais, de forma que se garanta a elevação do nível de cidadania e das condições de vida da população;
+
+
+IV –
+
+apoiar o processo de transformação do potencial cultural existente no município em benefícios concretos para a vida das pessoas direta e indiretamente envolvidas;
+
+
+V –
+
+estimular as ações visando o surgimento de novos artistas e de novas manifestações culturais concomitante às ações de resgate e preservação do patrimônio cultural;
+
+
+VI –
+
+auxiliar na elaboração do planejamento estratégico cultural do município, bem como da Conferência Municipal/ Regional de Cultura;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+VII –
+
+sugerir ações a serem desenvolvidas pelo executivo municipal, através da Diretoria de Cultura;
+
+
+VIII –
+
+apresentar uma política de aplicação de recursos através das leis estadual e federal de incentivo à cultura;
+
+
+IX –
+
+debater e orientar a definição das linhas e/ou editais pelo FMC, analisar e deliberar sobre os projetos que se submetam ao mesmo;
+
+
+X –
+
+fiscalizar e acompanhar a aplicação dos recursos provenientes do Fundo Municipal da Cultura;
+
+
+XI –
+
+sugerir critérios de agendamento dos teatros, cinema e espaços públicos de exposição e manifestação artístico-cultural;
+
+
+XII –
+
+sugerir e aprovar as diretrizes gerais do plano municipal de cultura;
+
+
+XIII –
+
+acompanhar e opinar sobre os planos e projetos de outras áreas do Poder Executivo, no que tange à transversalidade dos mesmos com o patrimônio cultural de Congonhas e região;
+
+
+XIV –
+
+sugerir a nomeação de comitês objetivando a qualificação e agilização das decisões do conselho para a avaliação e apoio às condições acima e outras a serem estabelecidas pelo prefeito através de decreto.
+
+
+Art. 3º.
+
+O Conselho Municipal de Cultura – CMC será composto por representantes da sociedade civil e do poder público e a cada titular corresponderá um suplente, distribuídos da seguinte maneira:
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+I –
+
+Sociedade Civil:
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+a)
+
+1 (um) representante da área da dança;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+b)
+
+1 (um) representante da área do teatro;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+c)
+
+1 (um) representante da área de culturas populares;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+d)
+
+1 (um) representante da área de arte de artesanato, produtores caseiros, artes plásticas, gráficas e visuais;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+e)
+
+1 (um) representante da área da música, ensaios e críticas;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+f)
+
+1 (um) representante da área de literatura;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+g)
+
+1 (um) representante da área de Ciências, Letras e Artes;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+h)
+
+1 (um) representante da Associação Amigos da Biblioteca;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+i)
+
+1 (um) representante dos bares, hotéis, restaurantes e similares, indicado pela Associação Comercial, Industrial e Serviços de Congonhas – ACISC ou pelo Sindicato do Comércio Varejista de Congonhas;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+j)
+
+1 (um) representante das entidades carnavalescas indicados pela Liga Congonhense de Escola de Samba e Blocos Carnavalescos.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+II –
+
+Poder Público:
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+a)
+
+2 (dois) representantes da Secretaria Municipal de Cultura.;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+b)
+
+1 (um) representante da Diretoria de Turismo;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+c)
+
+1 (um) representante da Diretoria de Artes;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+d)
+
+1 (um) representante da Diretoria de Ação Cultural;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+e)
+
+1 (um) representante da Diretoria de Patrimônio Histórico;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+f)
+
+1 (um) representante da Secretaria Municipal de Comunicação e Eventos;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+g)
+
+1 (um) representante da Secretaria Municipal de Educação;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+h)
+
+1 (um) representante da Fundação Municipal de Cultura, Lazer e Turismo de Congonhas - FUMCULT;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+i)
+
+(um) representante da Diretoria de Trabalho e Renda.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.309, de 12 de novembro de 2013.
+
+
+§ 1º
+
+Caso os órgãos acima sejam modificados, os representantes serão dos órgãos substitutos.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+§ 2º
+
+Os membros efetivos e suplentes do Conselho Municipal de Cultura – CMC serão nomeados pelo Prefeito, através de Portaria, mediante indicação das respectivas bases.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+§ 3º
+
+Para cada membro titular haverá um membro suplente, que participará das reuniões do Conselho e o substituirá, com poder de voto, em seus impedimentos temporários e o sucederá no caso de vacância.” (NR)
+
+Inclusão feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+Art. 4º.
+
+Os conselheiros serão indicados da seguinte forma:
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+I –
+
+Os representantes do Poder Público serão indicados pelo Prefeito;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+II –
+
+Os representantes dos bares, hotéis, restaurantes e similares, serão indicados pela Associação Comercial, Industrial e Serviços de Congonhas – ACISC ou pelo Sindicato do Comércio Varejista de Congonhas;
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+III –
+
+Os representantes dos segmentos culturais serão eleitos por seus pares, em reuniões abertas registradas em atas, previamente convocadas e, posteriormente divulgadas pelo Conselho de Cultura de Congonhas, que se responsabilizará pelo registro dos novos representantes e pela supervisão das referidas entidades.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+Parágrafo único
+
+Quando da vacância de representantes dos segmentos culturais, o seu substituto será indicado pelos demais representantes daquele segmento cultural.” (NR)
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+Art. 5º.
+
+O mandato dos Conselheiros será de 2 (dois) anos, sendo permitidas duas reconduções.
+
+Alteração feita pelo Art. 1º. - Lei-CMC nº 3.021, de 12 de novembro de 2010.
+
+
+§ 1º
+
+A função de Conselheiro é considerada serviço público de relevância, e não será remunerado.
+
+
+§ 2º
+
+Os representantes do Poder Público e da Sociedade Civil poderão ser substituídos em qualquer época mediante manifestação do órgão ou entidade ao qual ele pertença.
+
+
+Art. 6º.
+
+O Regimento Interno do Conselho Municipal de Cultura – CMC, aprovado pela maioria absoluta de seus membros, disporá sobre seu funcionamento, bem como sobre critérios de destituição e a substituição de representantes e será instituído mediante decreto municipal, no prazo máximo de 30 (trinta) dias após a sua instalação.
+
+
+Parágrafo único
+
+O Regimento Interno deve normatizar e regulamentar as discussões de temas setoriais, poderá definir comissões internas para debates e avaliações de matérias do Conselho.
+
+
+Art. 7º.
+
+O Conselho Municipal de Cultura – CMC manterá registro próprio e sistemático de seu funcionamento e atas com assinaturas de seus membros..
+
+
+Art. 8º.
+
+O Poder Público assegurará a publicação de todos os atos do Conselho Municipal de Cultura - CMC.
+
+
+Art. 9º.
+
+O Poder Público, através da Diretoria de Cultura - CMC assegurará a organização do Conselho Municipal de Cultura, fornecendo os meios necessários para sua instalação e funcionamento.
+
+
+Art. 10.
+
+O Poder Executivo instalará o Conselho Municipal de Cultura - CMC, dando na mesma ocasião, posse aos seus membros.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 21 de dezembro de 2007.
+
+**ANDERSON COSTA CABIDO**
+
+**Prefeito de Congonhas**
+

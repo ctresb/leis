@@ -1,0 +1,52 @@
+{
+  "host": "sapl.bomjardimdeminas.mg.leg.br",
+  "metadados_unicos_observados": 102,
+  "total_api_declarado": 102,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 73,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjardimdeminas.mg.leg.br/bcda077c881cff8b788022c389e361c1bc76c8910e6111a9edcabbfe8ccd3f48.json",
+    "url": "https://sapl.bomjardimdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bomjardimdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1fa32241fed76065d12eb4fc71ff3020c995bf8e8a6ed1e24002f44fe03263da",
+    "bytes": 954,
+    "capturado_em": "2026-10-27T19:32:34.473795-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjardimdeminas.mg.leg.br/5b2e3fb7d084421550e85839b9300511add199fb3b1548948873534b2c132af6.json",
+    "url": "https://sapl.bomjardimdeminas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bomjardimdeminas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b1e7220b966ade2b190cfe4a35a99ce93693c493836d3e42a8671d6117d745fd",
+    "bytes": 740,
+    "capturado_em": "2026-10-27T19:32:33.632117-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjardimdeminas.mg.leg.br/cc406adf96d9f40591a8ea98608c16365df33cb5e0b1e85ae9bf0db70149900b.json",
+      "url": "https://sapl.bomjardimdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bomjardimdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "62d2e793f71cfd8a15a364e7b7187edb4400b9bd438ff1f8a3784c078ac0efc8",
+      "bytes": 60865,
+      "capturado_em": "2026-10-27T19:32:36.940816-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjardimdeminas.mg.leg.br/104dc9d4ae4e1667168eaae27bf8891b2fbc265eccc590df1b27dd66045a36d3.json",
+      "url": "https://sapl.bomjardimdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.bomjardimdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3c8f0dc102215a18bfc2c7abdf77f34eebc166d007090a3de6b886d8fc02dff0",
+      "bytes": 1368,
+      "capturado_em": "2026-10-27T19:35:03.494474-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

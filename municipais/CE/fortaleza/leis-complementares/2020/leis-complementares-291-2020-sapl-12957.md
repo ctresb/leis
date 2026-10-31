@@ -1,0 +1,213 @@
+---
+titulo: "Lei Complementar nº 291, de 06 de maio de 2020"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "291"
+data: "2020-05-06"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; 2020-08-13; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/12957"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3481/text"
+sha256_fonte: "d1f4e0b11e66e45f862c072761f6c267014f40c45a0b915db5c65a42ea484e3a"
+sha256_texto: "d33887065b9dfa75d93f52296de716af7ff07d708f5036825bae7c6e2d143682"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Complementar nº 291, de 06 de maio de 2020
+
+Dispõe sobre autorização de medidas excepcionais face a situação de emergência e para enfrentamento da pandemia por COVID-19 e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a transferir à Conta Única do Tesouro Municipal o superávit financeiro apurado no encerramento do exercício financeiro de 2019, bem como as receitas arrecadadas no exercício de 2020, objetivando o enfrentamento da disseminação da pandemia por COVID-19, dos seguintes fundos públicos municipais:
+
+
+I –
+
+Fundo Municipal de Juventude de Fortaleza;
+
+
+II –
+
+Fundo Municipal de Desenvolvimento Econômico;
+
+
+III –
+
+Fundo Municipal do Jovem Empreendedor;
+
+
+IV –
+
+Fundo de Defesa do Meio Ambiente;
+
+
+V –
+
+Fundo Municipal de Desenvolvimento Urbano;
+
+
+VI –
+
+Fundo Municipal dos Direitos Humanos da Pessoa Idosa;
+
+
+VII –
+
+Fundo Municipal de Defesa dos Direitos Difusos;
+
+
+VIII –
+
+Fundo Municipal de Cultura.
+
+
+§ 1º
+
+A definição dos valores a serem transferidos levará em consideração a existência de prévios compromissos assumidos pelos respectivos fundos, devendo estes serem cumpridos ou resguardados previamente.
+
+
+§ 2º
+
+A utilização dos recursos transferidos no ano de 2020 poderá, se necessário, ser precedida da abertura de crédito adicional, nos termos da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+§ 3º
+
+Os recursos arrecadados de que trata o caput deste artigo deverão ser aplicados exclusivamente em ações de saúde, assistência social e desenvolvimento econômico que tenham como objetivo o combate aos efeitos da pandemia provocada pela disseminação do novo coronavírus na cidade de Fortaleza.
+
+
+Art. 2º.
+
+Fica o Poder Executivo Municipal autorizado a abrir créditos adicionais suplementares, até o valor de R$ 48.168.000,00 (Quarenta e oito milhões, cento e sessenta e oito mil reais), com a finalidade de promover reforço de dotação orçamentária na ação 2133 - Enfrentamento da Emergência COVID-19, no Fundo Municipal de Saúde, unidade orçamentária 25901, e no Instituto Dr. José Frota, unidade orçamentária 25201, mediante utilização de recursos provenientes da anulação total ou parcial das dotações orçamentárias grafadas com a sigla EP/LOM, nos termos do art. 43, § 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Os recursos financeiros disponíveis nas contas específicas previstas na Lei nº 10.751, de 08 de junho de 2018, na conta prevista na Lei nº 10.408, de 22 de outubro de 2015 e na conta prevista no Art. 6º da Lei nº 10.132, de 28 de novembro de 2013, poderão ser destinados, nos termos do art. 1º desta Lei Complementar.
+
+
+Art. 4º.
+
+O art. 6º da Lei Complementar nº 210, de 26 de outubro de 2015, passa a vigorar acrescido do seguinte parágrafo único:
+
+
+Art. 5º.
+
+Fica o Poder Executivo autorizado a repassar, excepcionalmente, R$ 1.000.000,00 (um milhão de reais) do Fundo de Aperfeiçoamento da Procuradoria Geral do Município (FAPGM), instituído pela Lei nº 7.844/95, para o Tesouro Municipal, para reforçar as ações de enfrentamento à pandemia da COVID19, que foi reconhecida internacionalmente pela Organização Mundial da Saúde (OMS).
+
+
+Parágrafo único.
+
+O Poder Executivo deverá recompor o Fundo, no limite do valor repassado, de que trata este artigo até o final do exercício de 2022.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+Parágrafo único.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+Art. 6º-A.
+
+Na hipótese de que trata o art. 65 da Lei Complementar Federal nº 101, de 4 de maio de 2000, o Poder Executivo Municipal adotará política de contingenciamento de gastos em face da calamidade pública decorrente da pandemia da COVID-19, ficando proibidos, durante a vigência do estado de calamidade pública regido pelo Decreto Municipal nº 14.629, de 30 de março de 2020, além de outras previstas na própria lei:
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+I –
+
+criar cargo, emprego ou função que implique aumento de despesa;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+II –
+
+alterar estrutura de carreira que implique aumento de despesa;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+III –
+
+admitir ou contratar pessoal, a qualquer título, ressalvadas as reposições de cargos de chefia, de direção e de assessoramento que não acarretem aumento de despesa, as reposições decorrentes de vacâncias de cargos efetivos ou vitalícios, as contratações temporárias de que trata o inciso IX do caput do art. 37 da Constituição Federal;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+IV –
+
+realizar concurso público, exceto para as reposições de vacâncias previstas no inciso III;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+§ 1º
+
+Fica prorrogado o prazo de validade de todos os concursos públicos realizados por qualquer órgão ou entidade da Administração Pública Municipal, pelo tempo que durar o estado de calamidade pública referido no caput deste artigo.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+§ 2º
+
+Excetuam-se das restrições deste artigo aqueles cujo exercício seja necessário para a prevenção, contenção ou combate ao Novo Coronavírus, vinculados à Secretaria Municipal da Saúde (SMS) ou ao Instituto Dr. José Frota (IJF).
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 293, de 13 de agosto de 2020.
+
+
+Art. 7º.
+
+Para viabilizar as transferências financeiras autorizadas nesta Lei Complementar, fica o Poder Executivo autorizado a realizar, por decreto, as transferências e ajustes necessários no orçamento vigente.
+
+
+Art. 8º.
+
+Esta Lei Complementar será regulamentada por Decreto do Poder Executivo.
+
+
+Art. 9º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 06 de maio de 2020.**
+
+**Roberto Cláudio Rodrigues Bezerra PREFEITO MUNICIPAL DE FORTALEZA**
+

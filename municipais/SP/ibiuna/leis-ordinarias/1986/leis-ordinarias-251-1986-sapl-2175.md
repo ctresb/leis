@@ -1,0 +1,103 @@
+---
+titulo: "Lei nº 251, de 16 de janeiro de 1986"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "251"
+data: "1986-01-16"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2175"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/400/text"
+sha256_fonte: "3950cd1e7f072c605ca6bb8da2e1084fc026db888c9454147968d2f6faca1000"
+sha256_texto: "b14586d53631832c02aa7f8519bfe6077fe92a9949e0f54225e048e343e25bc6"
+capturado_em_fonte: "2026-10-28T13:52:54.418376-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 251, de 16 de janeiro de 1986
+
+Autoriza o Poder Executivo a celebrar convênios e contratos com o Banco Nacional da Habitação e seus Agentes Financeiros, a oferecer garantias para os empréstimos assumidos e dá outras providências.
+
+
+**JOSÉ VICENTE ZEZITO FALCI**, Prefeito do Município de Ibiúna-SP, no uso de suas atribuições legais,
+
+**FAÇO SABER**, que a Câmara Municipal de Ibiúna aprovou e eu sanciono seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a assumir, mediante convênios e contratos, os compromissos necessários à participação do Município nos Programas geridos pela Diretoria de Desenvolvimento Urbano- DIRB, do Banco Nacional da Habitação- BNH.
+
+
+Art. 2º.
+
+Para cumprimento desta lei, o Poder Executivo poderá:
+
+
+a)
+
+Contrair, a partir do exercício de 1986, inclusive, perante os Agentes Financeiros do Banco Nacional de Habitação (BNH), empréstimos até o montante de 80.000 UPCs (Unidade Padrão de Capital) do BNH;
+
+
+b)
+
+Garantir os empréstimos concedidos diretamente ao Município ou a qualquer de suas entidades da administração indireta.
+
+
+Parágrafo único
+
+O Poder Executivo poderá, para efetivação das garantias aceitas pelo BNH, outorgar ao BNH ou a seus Agentes Financeiros, através de mandato nos próprios instrumentos contratuais, poderes para que as garantias possam ser prontamente exeqüíveis no caso de inadimplemento.
+
+
+Art. 3º.
+
+Os empréstimos de que trata o artigo anterior subordinar-se-ão as condições previstas nas normas operacionais do BNH, inclusive quanto a incidência da correção monetária.
+
+
+Art. 4º.
+
+O Poder Executivo fará incluir na proposta orçamentária de cada exercício, a partir de 1987, dotações globais correspondentes as operações de crédito ora autorizadas e aos programas e projetos que deverão ser custeados.
+
+
+Parágrafo único
+
+Para o exercício de 1986, fica o Poder Executivo autorizado a abrir créditos suplementares até o montante das operações previstas nesta lei.
+
+
+Art. 5º.
+
+O orçamento do Município consignará, para cada exercício, dotações suficientes ao pagamento do principal, juros, correção monetária, comissão, taxas e demais encargos financeiros previstos nas operações de crédito autorizadas pela presente lei.
+
+
+Art. 6º.
+
+O orçamento Plurianual de Investimentos do Município consignará as dotações correspondentes as operações de crédito e a execução dos programas e projetos previstos nesta lei.
+
+
+Art. 7º.
+
+Ficam referendados os atos praticados pelo executivo anteriormente a esta lei, inclusive a assinatura do mencionado convênio.
+
+
+Art. 8º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 16 DIAS DO MÊS DE JANEIRO DE 1986.
+
+**JOSÉ VICENTE ZEZITO FALCI**
+
+**Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 16 de Janeiro de 1986.
+
+**DR. JOÃO BENEDICTO DE MELLO JUNIOR**
+
+**Secretário Geral da Administração**
+

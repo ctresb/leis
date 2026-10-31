@@ -1,0 +1,207 @@
+---
+titulo: "Lei Ordinária nº 2.391, de 29 de maio de 1991"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2391"
+data: "1991-05-29"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1994-04-07; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/1607"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2898/text"
+sha256_fonte: "1e3309ae3187fdfee2f81d900c9dcfa58a2510216b7e74b228b28805f8fde35f"
+sha256_texto: "86bc09264f02c4e595bd88df360f52d6bf75e40905a97b0dc8b2603b505a2e2b"
+capturado_em_fonte: "2026-10-27T18:49:56.490818-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.391, de 29 de maio de 1991
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº 2391, DE 29 DE MAIO DE 1991.
+
+
+Cria o Fundo de Assistência Medica e Previdenciária dos Servidores Públicos Municipais de Barra Mansa e dá outra providência.
+
+
+Art. 1º.
+
+Fica criado o Fundo de Assistencia Médica Permanente dos Servidores Públicos Municipais de Barra Mansa - FUNDAMP - destinado a proporcionar os benefícios de assistência médica, hospitalar e ambulatorial, aos servidores públicos municipais de Barra Mansa, seus dependentes, bem como aos inativos e pensionistas, estes últimos com fulcro na Lei nº 2534, de 16 de dezembro de 1992.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+Parágrafo único
+
+Os servidores que já se aposentaram ou que, virão a se aposentar a partir da criação do Fundamp, são isentos da contribuição de 10% (dez por cento) de sua remuneração, comum ao universo do pessoal ativo, passando o respectivo encargo ao Município.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+Art. 2º.
+
+O Fundo tem por fim assegurar as vantagens estabelecidas no art. 7º da Lei nº 2379, de 26.04.1991, que, aqui expressamente revogado, passa a ser disciplinado pelo artigo 6º desta Lei.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+Art. 3º.
+
+O Fundo será constituído e mantido pelas contribuições previstas no artigo 8º, da Lei nº 2379, de 26.04.1991, com a nova redação dada pelo artigo 6º do presente diploma legal.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+Art. 4º.
+
+O Fundo será gerido por um Conselho de Administração, composto de 7 (sete) membros, nomeados pelo Prefeito, com a seguinte composição.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.461, de 08 de abril de 1992.
+
+
+a)
+
+Representante da Câmara Municipal;
+
+
+b)
+
+Representante do SAAE;
+
+
+c)
+
+Representante da FEBAМ;
+
+
+d)
+
+Representante da Secretaria Municipal de Saúde e Promoção Social;
+
+
+e)
+
+Representante do funcionalismo, indicado pela ASBAM;
+
+
+f)
+
+Titulares das Secretarias Municipais de Administração e de Fazenda, que serão membros natos.
+
+
+§ 1º
+
+Os membros do Conselho deverão ou não ter experiência comprovada nas áreas econômico-financelra, administrativa, previdenciária e de assistência médica.
+
+
+§ 2º
+
+O mandato dos membros representantes das letras "a" a "e" será de 2 (dois) anos, permitida a recondução.
+
+
+§ 3º
+
+O Secretário Municipal de Administração será o Presidente do Conselho e so votará em caso de empate.
+
+
+§ 4º
+
+Os representantes enumerados nas letras "h", "e" e "e" deste artigo, serão indicados em Assembleias da classe funcional respectiva.
+
+
+§ 5º
+
+Só poderão integrar o Conselho, os servidores públicos, que contribuiram ou estiverem contribuindo financeiramente para a formação do seu patrimônio.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 2.461, de 08 de abril de 1992.
+
+
+Art. 5º.
+
+Ao Conselho caberá, dentre outras atribuições que lhe forem conferidas por Decreto Regulamentador das atividades do Fundo:
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+a)
+
+elaborar normas regulamentares e regimentais;
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+b)
+
+decidir sobre aplicação de recursos;
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+c)
+
+autorizar a prestação de serviços de assistência medica;
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+d)
+
+estabelecer planos de aplicações financeiras.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária nº 2.659, de 07 de abril de 1994.
+
+
+Art. 6º.
+
+A movimentação dos recursos do Fundo caberá à Secretaria Municipal de Fazenda, atraves de assinaturas conjuntas do titular daquela Secretaria e do Chefe do Departamento de Contabilidade ou de seus substitutos legais.
+
+
+Art. 7º.
+
+Os recursos do Fundo poderão ser aplicados, sem prejuízo de suas finalidades específicas, no Mercado Aberto, revertendo o resultado à conta vinculada do próprio Fundo.
+
+
+Art. 8º.
+
+O Fundo submeter-se-à as normas da Lei Federal nº 4.320/64 e da legislação que lhe for aplicável.
+
+
+Art. 9º.
+
+Responderá civil, penal e administrativamente o agente responsavel pelo deşvio e malversação dos recursos destinados ao Fundo.
+
+
+Art. 10.
+
+Fica assegurado, a partir de 01 de Maio de 1991, a todos os funcionários municipais ativos, aumento de vencimentos de 11,11% (onze vírgula onze por cento), para compensação da contribuição criada no art. 8º da Lei Municipal nº 2379/91, correndo as despesas por conta das dotações de pessoal do corrente exercício.
+
+
+Parágrafo único
+
+As despesas decorrentes da contribuição da Municipalidade, de que trata o art. 8º da Lei nº2379/91, correrão à conta da dotação 3113 - Obrigações Patronais.
+
+
+Art. 11.
+
+Revogadas as disposições em contrário esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 2 DE MAIO DE 1991.
+
+
+ISMAEL ALVES DE SOUZA  
+PREFEITO
+

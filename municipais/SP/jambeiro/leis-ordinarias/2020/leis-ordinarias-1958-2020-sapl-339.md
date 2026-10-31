@@ -1,0 +1,39 @@
+---
+titulo: "Lei Ordinária nº 1.958, de 03 de dezembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1958"
+data: "2020-12-03"
+municipio: "Jambeiro"
+uf: "SP"
+codigo_ibge: "3524907"
+versao_texto: "texto integral anexado no SAPL municipal; DISPÕEM SOBRE ALTERAÇÃO DOS ANEXOS LEI DE DIRETRIZES ORÇAMENTÁRIA NUMERO 1937 DE 29 DE JUNHO DE 2020 PARA O EXERCÍCIO DE 2021"
+fonte: "https://sapl.jambeiro.sp.leg.br/norma/339"
+fonte_texto: "https://sapl.jambeiro.sp.leg.br/media/sapl/public/normajuridica/2020/339/lei_municipal_no_1958.pdf"
+sha256_fonte: "14f7e3bd5cdadf5116a525276f9666013cdaa3fcc3ad9c19bc3aee1e0f61fd7d"
+sha256_texto: "d10416439e1c75a10acddd8bb3ea595418ca65bf3672061e68298fd2a31e2d9d"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 1.958, de 03 de dezembro de 2020
+
+! Prefeitura Municipal de Jambeiro
+
+INU 1 E
+
+DISPOE SOBRE ALTERAGAO DOS ANEXOS LEI DE DIRETRIZES ORCAMENTARIAS NUMERO 1937 DE 29 DE JUNHO DE 2020 PARA O EXERCICIO FINANCEIRO DE 2021.
+
+CARLOS ALBERTO DE SOUZA, PREFEITO MUNICIPAL DE JAMBEIRO, ESTADO DE SAO PAULO, FAZ SABER QUE A CAMARA MUNICIPAL APROVOU E ELA SANCIONA E PROMULGA A SEGUINTE LEI:
+
+ARTIGO 1° - EM CUMPRIMENTO AOS DISPOSITIVOS ESPECIFICOS CONTIDOS NA CONSTITUICAO FEDERAL, NA CONSTITUICAO ESTADUAL, NA LEI ORGANICA MUNICIPAL, NA LEI 4.320/64 E NA LEI 101/2000, FICAM ALTERADOS OS ANEXOS DA LEI DE DIRETRIZES ORCAMENTARIAS — L.D.O. — PARA O EXERCICIO FINANCEIRO DE 2021, COM OS VALORES ESTABELECIDOS EM CONSONANCIA COM A LEI DO PLANO PLURIANUAL.
+
+ARTIGO 2º - FICA ALTERADO O INCISO I DO ART. 18° DA LEI 1937, DE 29 DE JUNHO DE 2019, QUE PASSA A VIGORAR COM A SEGUINTE REDAGAO:
+
+ARTIGO 18º - Fica o Poder Executivo autorizado a:
+
+I — Abrir no curso da execugdo orgamentdria de 2021, créditos suplementares até o limite de 15% (quinze por cento) da despesa total fixada, observado o disposto no artigo 43, da Lei Federal nº 4.320, de 17 de margo de 1964;
+
+ARTIGO 3¢ - OS DEMAIS ARTIGOS DA LEI MUNICIPAL 1937 DE 29 DE JUNHO DE 2021, PERMANECEM INALTERADOS.
+
+ART. 40 - A PRESENTE LEI ENTRA EM VIGOR NA DATA DE SUA PUBLICAGAO, REVOGADAS AS DISPOSICOES EM CONTRARIO.
+

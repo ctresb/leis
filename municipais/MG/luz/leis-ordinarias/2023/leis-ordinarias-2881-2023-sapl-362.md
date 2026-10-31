@@ -1,0 +1,39 @@
+---
+titulo: "Lei Ordinária nº 2.881, de 24 de maio de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2881"
+data: "2023-05-24"
+municipio: "Luz"
+uf: "MG"
+codigo_ibge: "3138807"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.luz.mg.leg.br/norma/362"
+fonte_texto: "https://sapl.luz.mg.leg.br/media/sapl/public/normajuridica/2023/362/lei_2881_2023_autoriza_abertura_de_credito_especial_e_da_outras_providencias.pdf"
+sha256_fonte: "e204b66d7b079fa96fea5dafe05d918c7b2489f353644848e59b37029612fd1f"
+sha256_texto: "e3966b6d930e72a85b0a63078e0269991dbb6a12a8f0fe2effdba07493e2df4a"
+baixado_em: "2026-10-16"
+---
+
+# Lei Ordinária nº 2.881, de 24 de maio de 2023
+
+LEI 2.881 DE 24 DE MAIO DE 2023
+
+AUTORIZA ABERTURA DE CRÉDITO ESPECIAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+A Câmara Municipal de Luz, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:
+
+**Art. 1º.** Fica o Poder Executivo autorizado a abrir Crédito especial nas dotações do Orçamento – Programa vigente, conforme discriminação:
+
+UNIDADE CLASSIFICAÇÃO VALOR FONTE 0802 154520017 SERVIÇOS DE OBRAS E URBANISMO 1.198 REVITALIZAÇÃO E ESTRUTURAÇÃO DAS ENTRADAS PRINCIPAIS DA CIDADE OBRAS E INSTALAÇÕES 449051 1.632.581,16 2.710 0802 154510017 SERVIÇOS DE OBRAS E URBANISMO 1.094 URBANIZAÇÃO E REVITALIZAÇÃO DE RUAS E AVENIDAS OBRAS E INSTALAÇÕES 449051 10.307,06 2.706 0502 103010012 FUNDO MUNICIPAL DE SAÚDE 2.044 MANUTENÇÃO DE UNIDADES DE SAÚDE INDENIZAÇÕES E RESTITUIÇÕES 339093 15.764,30 2.621 0502 103040024 FUNDO MUNICIPAL DE SAÚDE 2.050 MANUTENÇÃO DO SERVIÇO DE VIGILÂNCIA SANITÁRIA CONTRATAÇÃO POR TEMPO DETERMINADO 319004 2.000,00 2.621 0502 103040024 FUNDO MUNICIPAL DE SAÚDE 2.050 MANUTENÇÃO DO SERVIÇO DE VIGILÂNCIA SANITÁRIA VENCIMENTOS E VANTAGENS FIXAS – PESSOAL CIVIL 319011 108.000,00 2.621 0502 103040024 FUNDO MUNICIPAL DE SAÚDE 2.050 MANUTENÇÃO DO SERVIÇO DE VIGILÂNCIA SANITÁRIA OBRIGAÇÕES PATRONAIS 319013 23.800,00 2.621 0502 103040024 FUNDO MUNICIPAL DE SAÚDE 2.050 MANUTENÇÃO DO SERVIÇO DE VIGILÂNCIA SANITÁRIA OUTRAS DESPESAS VARIAVEIS – PESSOAL CIVIL 319016 6.514,40 2.621 0502 103030025 FUNDO MUNICIPAL DE SAÚDE 2.042 AQUISIÇÃO DE MEDICAMENTOS PARA USUÁRIOS – SUS MATERIAL, BEM OU SERVIÇO PARA DISTRIB. GRATUITA 339032 4.635.09 2.621 0502 103010011 FUNDO MUNICIPAL DE SAÚDE 2.046 MANUTENÇÃO DA ATENÇÃO PRIMARIA A SAÚDE MATERIAL, BEM OU SERVIÇO PARA DISTRIB. GRATUITA 339032 18.590,14 2.621 0502 103010011 FUNDO MUNICIPAL DE SAÚDE 2.046 MANUTENÇÃO DA ATENÇÃO PRIMARIA A SAÚDE MATERIAL DE CONSUMO 339030 12.105,33 2.621 TOTAL 1.829.662,39
+
+**Art. 2º.** Como recursos para atender ao disposto no Artigo 1º será utilizado o superávit financeiro apurado em balanço patrimonial do exercício de 2022, conforme Certidão, Anexo I desta lei.
+
+**Art. 3º.** Ficam revogadas as disposições em contrário.
+
+**Art. 4º.** Esta Lei entra em vigor na data de sua publicação.
+
+Luz, 24 de Maio de 2023.
+
+AGOSTINHO CARLOS OLIVEIRA Prefeito Municipal
+

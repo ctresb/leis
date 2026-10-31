@@ -1,0 +1,42 @@
+{
+  "host": "sapl.fazendariogrande.pr.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fazendariogrande.pr.leg.br/1c6aa87d68dc01a3a282bb775ef14c50c5f1ba4ea68b813a0c39b83f4fe3ff00.json",
+    "url": "https://sapl.fazendariogrande.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.fazendariogrande.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f03f5b623c2836ad77cc7788298f3d6132cc90b1e10a392acca56dddb267a13c",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:31:59.470633-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fazendariogrande.pr.leg.br/48c681fbcf3136260ce7789f77cd5a677654de3b53252d53f4feaa15afc74ede.json",
+    "url": "https://sapl.fazendariogrande.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.fazendariogrande.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "70c4cf1bbccaaa656a9fd03a13965cb9963db3097330fa23bae5136624725d2a",
+    "bytes": 699,
+    "capturado_em": "2026-10-28T10:31:58.533276-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fazendariogrande.pr.leg.br/2cf43f9c466101abfa0cf28db1787247ab06ad1938d38cf5fcb392d405b88678.json",
+      "url": "https://sapl.fazendariogrande.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.fazendariogrande.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T10:32:01.436242-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

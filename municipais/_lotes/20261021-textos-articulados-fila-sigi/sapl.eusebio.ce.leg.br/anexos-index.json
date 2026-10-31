@@ -1,0 +1,47 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/liminar_chico.pdf da norma Resolução nº 29, de 03 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Liminar que suspende os efeitos da Resolução n. 29, de 03 de junho de 2019.",
+      "anexo_arquivo": "http://sapl.eusebio.ce.leg.br/media/sapl/public/anexonormajuridica/2019/1/liminar_chico.pdf",
+      "ano": 2019,
+      "norma": 2131
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/lei_1713_2020_anexos.pdf da norma Lei Ordinária nº 1.713, de 02 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.eusebio.ce.leg.br/media/sapl/public/anexonormajuridica/2020/2/lei_1713_2020_anexos.pdf",
+      "ano": 2020,
+      "norma": 2268
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/3/lc_036-2017.pdf da norma Lei Complementar nº 36, de 30 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Código Tributário Original",
+      "anexo_arquivo": "http://sapl.eusebio.ce.leg.br/media/sapl/public/anexonormajuridica/2017/3/lc_036-2017.pdf",
+      "ano": 2017,
+      "norma": 1876
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/44583b07f21fdaf944b26336db333de0a299711eb442f34b049af8927ba597c6.json",
+      "url": "https://sapl.eusebio.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e52bb6bf4cb08d61c6fa9dd5bb5e67f27a6ba123e48dd2442ca820123c57e7d0",
+      "capturado_em": "2026-10-20T20:50:43.661413",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.eusebio.ce.leg.br/44583b07f21fdaf944b26336db333de0a299711eb442f34b049af8927ba597c6.json"
+    }
+  ]
+}

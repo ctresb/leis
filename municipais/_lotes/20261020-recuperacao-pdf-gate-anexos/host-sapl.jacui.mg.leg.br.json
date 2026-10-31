@@ -1,0 +1,36 @@
+{
+  "host": "sapl.jacui.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/errata_a_lei_municipal_2037-2024.pdf da norma Lei Ordinária-PExec nº 2.037, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Errata à Lei Municipal nº 2037/2024",
+      "anexo_arquivo": "http://sapl.jacui.mg.leg.br/media/sapl/public/anexonormajuridica/2024/1/errata_a_lei_municipal_2037-2024.pdf",
+      "ano": 2024,
+      "norma": 330
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/errada_ao_numero_da__lei.pdf da norma Lei Ordinária-PExec nº 2.133, de 05 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Onde se lê:\r\n\r\nLEI Nº 2.132, DE 05 DE AGOSTO DE 2026.\r\n\r\n \r\n\r\nLeia-se:\r\n\r\nLEI Nº 2.133, DE 05 DE AGOSTO DE 2026.",
+      "anexo_arquivo": "http://sapl.jacui.mg.leg.br/media/sapl/public/anexonormajuridica/2026/2/errada_ao_numero_da__lei.pdf",
+      "ano": 2026,
+      "norma": 520
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.jacui.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacui.mg.leg.br/ee5ebae19477b269eda1da84816064e128df3f8a681c731dbf54d390f2c0f0ab.json",
+      "sha256": "0873a18e5886a5ae2a9023647d92f2f06e792abe09be9dee4c840905f7d16392",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacui.mg.leg.br/ee5ebae19477b269eda1da84816064e128df3f8a681c731dbf54d390f2c0f0ab.meta.json"
+    }
+  ],
+  "total": 2
+}

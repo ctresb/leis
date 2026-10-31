@@ -1,0 +1,305 @@
+---
+titulo: "Lei-CMC nº 3.051, de 25 de janeiro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3051"
+data: "2011-01-25"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6572"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4238/text"
+sha256_fonte: "a40bcad1f652ce12dbae217209500e66e4c9f810bfa83fb8e196d8cc42b54aac"
+sha256_texto: "32f889195a0e42626a8f9a4e0dec37e872a0027bc34845a522e0a1f4f8e251c1"
+capturado_em_fonte: "2026-10-28T06:27:10.396976-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.051, de 25 de janeiro de 2011
+
+Institui o Fundo de Preservação do Patrimônio Histórico e Cultural da cidade de Congonhas – Fundo Profeta e dá outras providências.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Prefeito sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Fundo de Preservação do Patrimônio Histórico e Cultural da Cidade de Congonhas - Fundo PROFETA de natureza contábil-financeira, sem personalidade jurídica própria e de duração indeterminada, vinculado à Secretaria Municipal de Finanças com o objetivo de financiar as ações de preservação e conservação de áreas submetidas à intervenção do Projeto de Revitalização da Ladeira, desenvolvido e implantado no âmbito do Programa Monumenta e de recuperação, preservação e conservação das áreas publicas, edificações e outros bens.
+
+
+Parágrafo único
+
+Para os fins desta Lei, define-se por Projeto o conjunto das áreas públicas, edificações e monumentos agregados pelo contexto de ações de recuperação dos seus valores históricos e culturais no âmbito do Programa Monumenta.
+
+
+Art. 2º.
+
+O Fundo PROFETA contará com um Conselho Curador, com a seguinte composição:
+
+
+I –
+
+Secretário Municipal de Finanças;
+
+
+II –
+
+um representante do Ministério da Cultura;
+
+
+III –
+
+um representante do Instituto do Patrimônio Histórico e Artístico e Nacional – IPHAN;
+
+
+IV –
+
+um representante do Instituto do Patrimônio Histórico do Estado – IEPHA;
+
+
+V –
+
+três representantes do órgão municipal de patrimônio;
+
+
+VI –
+
+dois representantes do empresariado, indicados na forma dos estatutos das entidades de classe respectiva, sendo um do comércio situado na área de investimento ou influência do Projeto e um da indústria local de turismo receptivo;
+
+
+VII –
+
+dois representantes da comunidade da área de investimento ou de influência do Projeto, sendo um dos moradores e um do artesanato ou da atividade cultural;
+
+
+VIII –
+
+um representante das organizações não-governamentais ligadas à preservação do patrimônio histórico e a promoção à cultura;
+
+
+IX –
+
+dois representantes do Conselho Municipal de Patrimônio Histórico e Artístico de Congonhas – COMUPAC.
+
+
+Parágrafo único
+
+A presidência do Conselho Curador será exercida por um dos membros do Conselho Curador, eleito dentre eles para um mandato de 2 (dois) anos, vedada a reeleição e devendo a escolha recair, alternadamente, entre os representantes do setor público e os representantes do setor privado.
+
+
+Art. 3º.
+
+O Fundo PROFETA será gerido pela Secretaria Municipal de Finanças, que se sujeitará à supervisão e às normas gerais editadas pelo Conselho Curador do Fundo.
+
+
+§ 1º
+
+A aplicação das receitas orçamentárias vinculadas ao Fundo PROFETA far-se-á por meio de dotação consignada na lei orçamentária municipal.
+
+
+§ 2º
+
+O orçamento do Fundo PROFETA integrará o orçamento do Município.
+
+
+Art. 4º.
+
+Constituirão receitas do Fundo PROFETA:
+
+
+I –
+
+transferências anuais de recursos orçamentários do Município;
+
+
+II –
+
+recursos de convênios, acordos e outros ajustes;
+
+
+III –
+
+contrapartidas de convênios aportadas ao Município;
+
+
+IV –
+
+receitas decorrentes da aplicação dos recursos financeiros disponíveis;
+
+
+V –
+
+aluguéis, arrendamentos e outras receitas provenientes de imóveis;
+
+
+VI –
+
+produtos de alienação de imóveis adquiridos com recursos do Fundo PROFETA;
+
+
+VII –
+
+receitas provenientes de serviços e eventos diversos;
+
+
+VIII –
+
+doações e outras receitas;
+
+
+IX –
+
+receitas provenientes do ICMS CULTURAL.
+
+
+Parágrafo único
+
+Os recursos provenientes das receitas relacionadas no caput deste artigo serão depositados e movimentados, obrigatoriamente, em contas específicas a serem abertas e mantidas em instituição financeira oficial.
+
+
+Art. 5º.
+
+Os recursos vinculados ao PROGRAMA MONUMENTA serão aplicados, mediante decisão do Conselho Curador, na preservação e conservação das áreas públicas, edificações e monumentos submetidos à intervenção do Projeto de Revitalização da Ladeira.
+
+
+§ 1º
+
+Na hipótese de os recursos existentes excederem o montante destinado ao atendimento dos objetivos descritos no caput, os saldos disponíveis serão aplicados na recuperação, preservação e conservação de outros bens, na seguinte ordem de prioridade:
+
+
+a)
+
+monumentos tombados por decisão de autoridade federal e localizados na área do Projeto;
+
+
+b)
+
+imóveis de interesse histórico situados na área do Projeto; e
+
+
+c)
+
+imóveis e monumentos situados na área de influência do Projeto, nas mesmas condições neste estabelecidas.
+
+
+§ 2º
+
+Sempre que possível, os novos investimentos relacionados com os bens descritos nas alíneas do § 1º buscarão assegurar retorno, com vistas a propiciar fonte de receitas para o Fundo.
+
+
+§ 3º
+
+Os recursos do PROGRAMA MONUMENTA também poderão ser utilizados para compor fundo de aval destinado à recuperação e reforma de imóveis privados tombados ou inventariados pelo patrimônio histórico, sendo prioritários aqueles situados na área do Projeto e sua área de influência e, em havendo disponibilidade, para os demais imóveis tombados ou inventariados existentes no Município.
+
+
+Art. 6º.
+
+Os recursos vinculados ao FUNDO PROFETA oriundos do ICMS CULTURAL serão aplicados, mediante decisão do Conselho Curador, na recuperação, preservação e conservação das áreas publicas, edificações e outros bens.
+
+
+Art. 7º.
+
+Correrão por conta dos recursos alocados ao Fundo PROFETA os encargos sociais e demais ônus decorrentes da arrecadação desses recursos.
+
+
+Art. 8º.
+
+Serão abertas contas bancárias específicas vinculadas aos recursos do ICMS CULTURAL e ao PROGRAMA MONUMENTA.
+
+
+Art. 9º.
+
+Ao Conselho Curador do Fundo PROFETA compete:
+
+
+I –
+
+estabelecer as diretrizes e os programas de alocação de todos os recursos do Fundo PROFETA, segundo critérios definidos nesta Lei e em consonância com a política nacional de preservação do patrimônio histórico e cultural;
+
+
+II –
+
+acompanhar e avaliar a gestão econômica, financeira e social dos recursos e o desempenho dos programas realizados;
+
+
+III –
+
+apreciar e aprovar os programas anuais e plurianuais do Fundo PROFETA;
+
+
+IV –
+
+pronunciar-se sobre as cotas relativas à gestão do Fundo PROFETA antes do seu encaminhamento aos órgãos de controle interno e externo para fins legais;
+
+
+V –
+
+adotar as providências cabíveis para correção de fatos e atos do Gestor que prejudiquem o desempenho e cumprimento das finalidades no que concerne aos recursos do Fundo PROFETA;
+
+
+VI –
+
+aprovar seu Regimento.
+
+
+Art. 10.
+
+Ao Gestor do Fundo PROFETA compete:
+
+
+I –
+
+praticar todos os atos necessários à gestão do Fundo, de acordo com as diretrizes e programas estabelecidos pelo Conselho Curador;
+
+
+II –
+
+expedir atos normativos relativos à gestão e à alocação dos recursos do Fundo, após aprovação do seu Conselho Curador;
+
+
+III –
+
+elaborar programas anuais e plurianuais de aplicação dos recursos, submetendo-os até 30 de outubro do ano anterior, ao Conselho Curador;
+
+
+IV –
+
+submeter à apreciação do Conselho Curador as contas relativas à gestão do Fundo.
+
+
+§ 1º
+
+Os programas anuais e plurianuais de aplicação dos recursos deverão discriminar as aplicações previstas na área do Projeto.
+
+
+§ 2º
+
+O Gestor deverá dar pleno cumprimento aos programas anuais em andamento, aprovados pelo Conselho Curador, sendo que eventuais alterações somente poderão ser processadas mediante prévia anuência desse Conselho.
+
+
+Art. 11.
+
+O controle orçamentário, financeiro e de resultados será efetuado pelo Conselho Curador, na forma que dispuser o Regimento, e pelos órgãos de controle interno e externo.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 13.
+
+Fica revogada a Lei Municipal nº 2.336, de 7 de maio de 2002.
+
+
+Congonhas, 25 de janeiro de 2011.
+
+**Anderson Costa Cabido**
+
+**Prefeito Municipal**
+

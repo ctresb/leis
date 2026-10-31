@@ -1,0 +1,288 @@
+{
+  "estado": "indice_completo",
+  "total": 27,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/lei_organica_do_municipio_de_cabixi-ro.pdf da norma Lei Orgânica Municipal-PL nº 1, de 01 de março de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/1990/1/lei_organica_do_municipio_de_cabixi-ro.pdf",
+      "ano": 1990,
+      "norma": 7
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/1.473-1.pdf da norma Lei Ordinária-PEX nº 1.473, de 17 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/2/1.473-1.pdf",
+      "ano": 2025,
+      "norma": 103
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/1.473-2.pdf da norma Lei Ordinária-PEX nº 1.473, de 17 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/3/1.473-2.pdf",
+      "ano": 2025,
+      "norma": 103
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/1.475-2.pdf da norma Lei Ordinária-PEX nº 1.475, de 17 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/4/1.475-2.pdf",
+      "ano": 2025,
+      "norma": 105
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/1.475-3.pdf da norma Lei Ordinária-PEX nº 1.475, de 17 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/5/1.475-3.pdf",
+      "ano": 2025,
+      "norma": 105
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/1.475-4.pdf da norma Lei Ordinária-PEX nº 1.475, de 17 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/6/1.475-4.pdf",
+      "ano": 2025,
+      "norma": 105
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/1.477-1.pdf da norma Lei Ordinária-PEX nº 1.477, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Plano de trabalho",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/7/1.477-1.pdf",
+      "ano": 2025,
+      "norma": 107
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/1.477-2.pdf da norma Lei Ordinária-PEX nº 1.477, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Extrato de conta corrente",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/8/1.477-2.pdf",
+      "ano": 2025,
+      "norma": 107
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/1.477-3.pdf da norma Lei Ordinária-PEX nº 1.477, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Extrato de conta corrente",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/9/1.477-3.pdf",
+      "ano": 2025,
+      "norma": 107
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/1.478-1.pdf da norma Lei Ordinária-PEX nº 1.478, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Plano de ação - Plano de trabalho",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/10/1.478-1.pdf",
+      "ano": 2025,
+      "norma": 109
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/1.478-2.pdf da norma Lei Ordinária-PEX nº 1.478, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Plano de ação - Dados básicos",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/11/1.478-2.pdf",
+      "ano": 2025,
+      "norma": 109
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/12/1.478-3.pdf da norma Lei Ordinária-PEX nº 1.478, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Extratos bancários",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/12/1.478-3.pdf",
+      "ano": 2025,
+      "norma": 109
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/13/anexo_unidades_executoras_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/13/anexo_unidades_executoras_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/14/anexo_relatorio_auxiliar_2_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/14/anexo_relatorio_auxiliar_2_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/15/anexo_relatorio_auxiliar_1_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/15/anexo_relatorio_auxiliar_1_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/1.479-1.pdf da norma Lei Ordinária-PEX nº 1.479, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Plano de ação - Plano de trabalho",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/16/1.479-1.pdf",
+      "ano": 2025,
+      "norma": 110
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/17/anexo_receita_-_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/17/anexo_receita_-_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/18/anexo_programas_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/18/anexo_programas_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/19/anexo_introducao_-_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/19/anexo_introducao_-_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/20/anexo_introducao_-_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/20/anexo_introducao_-_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/anexo_estrutura_orgaos_executores_ppa_2026-2029.pdf da norma Lei Ordinária-PEX nº 1.480, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/21/anexo_estrutura_orgaos_executores_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/1.479-2.pdf da norma Lei Ordinária-PEX nº 1.479, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Dados orçamentários",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/22/1.479-2.pdf",
+      "ano": 2025,
+      "norma": 110
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/1.479-3.pdf da norma Lei Ordinária-PEX nº 1.479, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Dados básicos",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/23/1.479-3.pdf",
+      "ano": 2025,
+      "norma": 110
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/24/1.479-4.pdf da norma Lei Ordinária-PEX nº 1.479, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Extratos bancários",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2025/24/1.479-4.pdf",
+      "ano": 2025,
+      "norma": 110
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/25/parecer_das_comissoes-1632.pdf da norma Lei Ordinária-PEX nº 1.533, de 07 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Parecer das comissões conjuntas.",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2026/25/parecer_das_comissoes-1632.pdf",
+      "ano": 2026,
+      "norma": 171
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/26/parecer_das_comissoes-1633.pdf da norma Lei Ordinária-PEX nº 1.534, de 07 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Parecer das comissões conjuntas.",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2026/26/parecer_das_comissoes-1633.pdf",
+      "ano": 2026,
+      "norma": 172
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/27/parecer_das_comissoes-1634.pdf da norma Lei Ordinária-PEX nº 1.535, de 07 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Parecer conjunto das comissões.",
+      "anexo_arquivo": "http://sapl.cabixi.ro.leg.br/media/sapl/public/anexonormajuridica/2026/27/parecer_das_comissoes-1634.pdf",
+      "ano": 2026,
+      "norma": 173
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabixi.ro.leg.br/4b06dfa2e73403f95bbf5677fd92d5e062bbe2eceb03c90dff806ae5c79c84d8.json",
+      "url": "https://sapl.cabixi.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cabixi.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "30b6fcafafc3243a456402e041b658f46ec6606738ecedf0744d481c82d72799",
+      "bytes": 11052,
+      "capturado_em": "2026-10-27T20:45:06.250265-03:00"
+    }
+  ]
+}

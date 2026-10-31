@@ -1,0 +1,169 @@
+---
+titulo: "DECRETO Nº 020/2026 – GPM/PD DE 03 DE FEVEREIRO DE"
+uf: "PA"
+municipio: "PAU D'ARCO"
+tipo: "Decreto"
+numero: "020"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 06/02/2026"
+data_publicacao: 2026-02-06
+codigo_identificador: "EABADBDE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117013_2026-02-05_96ad29948369d32843a7a1cb8e501423.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 020/2026 – GPM/PD DE 03 DE FEVEREIRO DE
+
+DECRETO Nº 020/2026 – GPM/PD DE 03 DE FEVEREIRO DE
+2026
+DECLARA SITUAÇÃO DE EMERGÊNCIA NAS
+ÁREAS DO MUNICÍPIO DE PAU D‟ARCO - PA
+AFETADAS
+POR
+CHUVAS
+INTENSAS,
+CLASSIFICADAS
+COMO
+TEMPESTADE
+LOCAL/CONVECTIVA – COBRADE Nº 1.3.2.1.4,
+NÍVEL II, NOS TERMOS DAS PORTARIAS Nº
+260/2022 E Nº 3.646/2022, DO MINISTÉRIO DA
+INTEGRAÇÃO E DO DESENVOLVIMENTO
+REGIONAL – MIDR.
+O PREFEITO DO MUNICÍPIO DE PAU D’ARCO, ESTADO
+DO PARÁ, DOMINGOS GUEDES NETO, no exercício das
+atribuições que lhe são conferidas pela Constituição da República
+Federativa do Brasil, pela Constituição do Estado do Pará, bem como
+pela Lei Orgânica do Município de Pau D‟Arco, e ainda em estrita
+observância aos princípios que regem a Administração Pública,
+
+CONSIDERANDO que, no período correspondente ao inverno
+amazônico, notadamente no mês de fevereiro, as condições climáticas
+em nossa região têm se apresentado de forma gradativamente mais
+rigorosa, com a ocorrência de chuvas intensas, classificadas sob o
+Código Brasileiro de Desastres – COBRADE nº 1.3.2.1.4,
+enquadradas como Nível II, nos termos da Portaria nº 260/2022,
+circunstância esta que tem resultado no registro de múltiplas
+ocorrências e impactos relevantes no referido interregno temporal;
+CONSIDERANDO que o Parecer Técnico nº 001/2026, emitido
+pela Coordenadoria Municipal de Defesa Civil – COMDEC, ao
+relatar e atestar a ocorrência do referido desastre no âmbito do
+Município de Pau D‟Arco - PA, concluiu de forma técnica e
+fundamentada pela necessidade e conveniência da decretação de
+Situação de Emergência, diante dos danos e prejuízos constatados;
+CONSIDERANDO que as intensas precipitações pluviométricas
+registradas no dia 01 de fevereiro de 2026 ocasionaram a ocorrência
+de enchentes e enxurradas, acarretando danos expressivos à
+infraestrutura urbana e rural, com prejuízos relevantes a vias públicas,
+edificações, equipamentos comunitários e áreas produtivas do
+Município;
+CONSIDERANDO que os referidos eventos adversos resultaram em
+expressivos prejuízos de ordem material e econômica, impondo ao
+Poder Público Municipal a adoção de medidas imediatas, excepcionais
+e coordenadas, tanto para a reparação dos danos já verificados quanto
+para a prevenção e mitigação de novos impactos, em observância ao
+princípio da supremacia do interesse público e à proteção da
+coletividade;
+CONSIDERANDO a imperiosa necessidade de assegurar a
+integridade física, a saúde pública e o bem-estar social da
+população atingida, mediante a adoção de providências
+administrativas urgentes e eficazes, voltadas à proteção de vidas, à
+redução de riscos e à preservação da dignidade humana;
+CONSIDERANDO que, diante do quadro de anormalidade
+instaurado, o Município vem atuando de forma imediata e contínua no
+socorro às vítimas e na adoção das primeiras medidas de resposta;
+todavia, em razão da insuficiência e indisponibilidade de recursos
+financeiros próprios para a plena execução das ações de Defesa Civil
+Municipal, voltadas à contenção dos prejuízos e à mitigação dos danos
+decorrentes das chuvas intensas, faz-se necessária, em caráter urgente,
+a obtenção de apoio financeiro e institucional dos Governos Federal e
+Estadual, para a implementação de ações de resposta, assistência
+humanitária e restabelecimento da normalidade, com vistas a evitar o
+agravamento dos danos, especialmente aqueles que possam
+comprometer a segurança da população e o patrimônio público e
+privado local;
+DECRETA:
+Art. 1º. Fica declarada SITUAÇÃO DE EMERGÊNCIA nas áreas
+do Município de Pau D‟Arco - PA, devidamente delimitadas e
+identificadas no Formulário de Informações do Desastre – FIDE, bem
+como nos demais documentos técnicos que instruem o presente
+Decreto, em decorrência da ocorrência de desastre classificado e
+codificado como Tempestade Local/Convectiva – Chuvas Intensas,
+enquadrado no COBRADE nº 1.3.2.1.4, Nível II, nos termos da
+Portaria nº 260/2022 e da Portaria nº 3.646/2022, ambas do Ministério
+da Integração e do Desenvolvimento Regional – MIDR.
+Art. 2º Determina-se a adoção imediata e coordenada de medidas
+administrativas, operacionais e emergenciais, no âmbito da
+Administração Pública Municipal, destinadas à recuperação das áreas
+afetadas, bem como à prevenção, mitigação e redução dos danos
+decorrentes das fortes chuvas e enxurradas ocorridas no Município de
+
+www.diariomunicipal.com.br/famep
+
+137
+
+Pará , 06 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3938
+Pau D‟Arco - PA, visando ao restabelecimento da normalidade e à
+proteção do interesse público.
+Art. 3º Fica autorizada a mobilização imediata e integrada das
+Secretarias Municipais e dos demais órgãos e entidades da
+Administração Pública Municipal, no âmbito de suas respectivas
+competências, para a execução das ações necessárias ao
+enfrentamento da situação de emergência, sob a coordenação da
+Coordenadoria Municipal de Defesa Civil – COMDEC, observadas as
+diretrizes técnicas e operacionais pertinentes.
+Art. 4º Fica autorizada a adoção dos procedimentos administrativos
+indispensáveis à aquisição imediata de bens, materiais, insumos e à
+contratação de serviços estritamente necessários às ações de resposta,
+socorro, assistência, recuperação e restabelecimento das áreas
+atingidas, observadas as disposições da legislação vigente,
+especialmente as normas aplicáveis às contratações emergenciais,
+resguardados os princípios da legalidade, da razoabilidade, da
+economicidade e da transparência administrativa.
+Art. 5º Determina-se a adoção de todas as providências
+administrativas e operacionais necessárias para assegurar assistência
+integral e adequada à população diretamente afetada, especialmente
+no que se refere ao fornecimento de abrigo temporário, alimentação,
+atendimento à saúde, segurança e demais ações de caráter
+humanitário, visando à preservação da dignidade da pessoa humana e
+à proteção de vidas.
+Art. 6º Com fundamento no disposto nos incisos XI e XXV do art. 5º
+da Constituição da Federal, fica autorizada, em caso de risco iminente,
+a atuação das autoridades administrativas competentes e dos agentes
+da Defesa Civil, diretamente responsáveis pelas ações de resposta aos
+desastres, para:
+I – Adentrar em domicílios, quando estritamente necessário à
+prestação de socorro, à proteção de vidas ou à determinação de
+evacuação imediata, visando à preservação da integridade física dos
+moradores;
+II – Utilizar-se de propriedade particular, nos casos de iminente
+perigo público, assegurado ao respectivo proprietário o direito à
+indenização ulterior, se comprovada a ocorrência de dano, nos termos
+da legislação aplicável
+Parágrafo único. O agente da Defesa Civil ou a autoridade
+administrativa que, por ação ou omissão, deixar de cumprir as
+obrigações que lhe são legal e funcionalmente atribuídas,
+especialmente aquelas relacionadas à proteção da segurança coletiva e
+à salvaguarda da população, responderá administrativa, civil e
+penalmente, na forma da legislação vigente, sem prejuízo das demais
+sanções cabíveis.
+Art. 7º Nos termos do inciso VIII do art. 75, da Lei Federal nº 14.133,
+de 1º de abril 2021, sem prejuízo da observância às disposições
+contidas na Lei Complementar Federal nº 101, de 4 de maio de 2000,
+ficam dispensadas de licitações as aquisições dos bens necessários ao
+atendimento da situação de emergência ou do estado de calamidade
+pública e para as parcelas de obras e serviços que possam ser
+concluídas no prazo máximo de 1 (um) ano, contado da data de
+ocorrência da emergência ou da calamidade, vedadas a prorrogação
+dos respectivos contratos e a recontratação de empresa já contratada.
+Art. 8º Este Decreto entra em vigor na data de sua publicação,
+revogadas as disposições em contrário, produzindo efeitos legais
+imediatos, para todos os fins de direito.
+GABINETE DO PREFEITO MUNICIPAL DE PAU D’ARCO,
+ESTADO DO PARÁ, aos 03 dias do mês de fevereiro de 2026.
+DOMINGOS GUEDES NETO
+Prefeito Municipal
+Publicado por:
+Miguel Magno Luz de Abreu

@@ -1,0 +1,272 @@
+{
+  "host": "sapl.buritis.mg.leg.br",
+  "metadados_unicos_observados": 2310,
+  "total_api_declarado": 2310,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2282,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5a640405acd63870c549756d7743b9ce50359646b4c81c6c91243d1a2e666ff7.json",
+    "url": "https://sapl.buritis.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c47a91ca46e09e24f84806391309ccf0dbefea0c96fa9b8656809e2781fc4a87",
+    "bytes": 1104,
+    "capturado_em": "2026-10-27T19:39:37.910850-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.json",
+    "url": "https://sapl.buritis.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.buritis.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "89991057fd0be5431b21e816bb13f30e0b4b66e06e5b810e7d1b580cae7675eb",
+    "bytes": 706,
+    "capturado_em": "2026-10-27T19:39:37.069332-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/55e568e8e6af3da6e2f1d0c149b1145b0dc09c1f6576c7304d595ae709091f71.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c69f3e276afa77f180373e453fc93fe8ce4f4e75f8d0805f3cbb6509accc0b47",
+      "bytes": 62231,
+      "capturado_em": "2026-10-27T19:39:40.508485-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/b95af6cc409fd86503abdd81c4922b95518eaf1deb6bfebac19d372ba2baed4d.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6b5b814332c397abf3ed7fc356658777a48a66497156a3f81d95c18046b95537",
+      "bytes": 57575,
+      "capturado_em": "2026-10-27T19:42:58.458660-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/f838ecbb7df3ed6fe40fd643dcd8cfaf654f1c31e23bb8d36611cdbb20547138.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8558eebd812f471f05c2fdcb5fb9b6e9ae968cae31ecf5ec0714db7c2e457b06",
+      "bytes": 64419,
+      "capturado_em": "2026-10-27T19:46:21.465099-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5c0e30b8fa5d88c7446829aed30c78a2e7a2ab45f71931ad3467d5d91e3669d8.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "960806881fb9ee141fb29cfbcb175c3839446779b4b5ba338723fcdc72b433c1",
+      "bytes": 62410,
+      "capturado_em": "2026-10-27T19:49:53.323996-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/d41fea6a57cd8855c6fdad81806fcc0c483dac77c4d45cd56bb7790acec62ae2.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a79bc013a110e330f9505c0ec810760483eab95e0c78b642ab592773797a746d",
+      "bytes": 60478,
+      "capturado_em": "2026-10-27T19:53:23.041977-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5ee3d91fccd09af41714b3dfe4cdf06470b49c61d66a2ee9cf67f65d2d3612a0.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ee7ba77af2f5ce2e086b7de77f96ef1259a90e0573681c1c384456cc67d30ed4",
+      "bytes": 59564,
+      "capturado_em": "2026-10-27T19:56:45.246204-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e3b129e36d67a48431ab24c4c99e27db03f2a1e55a50a0a86f4bf2f5d74b56e6.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9d13e73c0447a71ad5d5b6639f8685da2e204854596f5ee3f256eca6c50181e3",
+      "bytes": 59139,
+      "capturado_em": "2026-10-27T20:00:08.936943-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/c24dabf705aa506b63902f11b73a543fbddea9a0043bf92f4ed8ce06e0c0102a.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8de556602173e1b507d538ced0c38642302e075f9b8274512fbedcf064d03e48",
+      "bytes": 60839,
+      "capturado_em": "2026-10-27T20:03:32.298141-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/76b01ea6c23bb0842d3f1e907499b71347f50a6599d7a8fa46b44527b51fc588.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5afd3eb19c873d17bca2650f5cba2320c4d4cb389c0459316f25c777c88c24ae",
+      "bytes": 58925,
+      "capturado_em": "2026-10-27T20:07:01.943947-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/088868752867d4affd925b6ea3cad4b9ef79526dfa89e5aae79340c93552c4fe.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5c993e729a825ecf1e385c1ca0543a7fcd039c9c67a9aaa576bf78bd2e5435a0",
+      "bytes": 60423,
+      "capturado_em": "2026-10-27T20:10:28.095924-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/371b21fed84454764a0e28b0df74a623fd3b16a1fc7e2773b2779cb6339a816e.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2578ac6269c81c15f2fe9030a8e5dca77f7e3a8880fd97474d5abba0dccf1c81",
+      "bytes": 59114,
+      "capturado_em": "2026-10-27T20:13:49.293810-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5beed867fcda900d5b5cf28a12737f507abc194ee15e82cd5736932988a9e1f2.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "481da3c09f89ce325a65d5ecfb005fd4e3f6f88e5b4d1ea2faf0bec2bcbd2b60",
+      "bytes": 58872,
+      "capturado_em": "2026-10-27T20:17:15.970368-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/c04572635a1f6ba3e896bfe776ac6164ee94158653f523a006f74e81be8cfe08.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e326420d8e6e092b9906b8c2a9b8bd327d001a7da2370aeccc995061765dbd0e",
+      "bytes": 57172,
+      "capturado_em": "2026-10-27T20:20:38.827761-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a0d10b3c484fd45bab831c5f4755b5c2daa1ab62bf1691f32e82468059832c9f.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "00f970286b89df3ab02659c5133b225e81a404e39c144448a13fa829aa3d7474",
+      "bytes": 55949,
+      "capturado_em": "2026-10-27T20:24:05.078666-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/8897e5811db84157dfe51b321416ff8c90694a0b58b35d58798b45325d4a97da.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "60f6a7959deacbdd92a93b3b16200a186a8174e6ea20cc2b1c133b613b979b6f",
+      "bytes": 55934,
+      "capturado_em": "2026-10-27T20:27:25.590678-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/467c3bd6e31d7837fe719abb00701178fce4a6ab57ccbe20104db48c791e71ed.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4c3c982ca11c9cb0993b6ec1a5ed24e377e2a95c7ae58040459f78d117edd510",
+      "bytes": 56096,
+      "capturado_em": "2026-10-27T20:30:47.673200-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/7b0e7298a4801a3a6e945d2bf234520db1d44fbe400929b0a21c715efdaeee6f.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4f528b135609c72c8a42a032865fb6593c5efcef00c5e43c9e0bf82ffcdd871a",
+      "bytes": 56671,
+      "capturado_em": "2026-10-27T20:34:50.492154-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e4b9e3ac83b9fcb5b2776cf3007e6bb33d6af1255128dc1115a76285ce4c13b8.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "23550652af848b469a2a2a338600b4323dc0f1515bbbcdaeb9f48c164f31b89e",
+      "bytes": 54928,
+      "capturado_em": "2026-10-27T20:38:48.559691-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/d0698dcf013edb121db27d03737d4ad891d05955576aef9b577979bec18fced6.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f4132539094fca81f36edd3185262f00d6f5006c50ba2d77eeb757cae46f06f1",
+      "bytes": 54379,
+      "capturado_em": "2026-10-27T20:43:24.852971-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/61c91e1cf9a3c89e6f0627cb852d59bcdbe3523b4af4e57bb23bd25c4efc7050.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "18dbf2b80af06a6bccec23891668322839cf8bdd1e2878bc256b975659358e6e",
+      "bytes": 54509,
+      "capturado_em": "2026-10-27T20:47:23.099392-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/44e484bc9cdf81f5160ae1af104656a94f992a44b6d07fb8bb9e51b9668fc6bb.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "68f338f4b156122be7597573292e2c8032290bdafe6363185bc49bc5ed13e1fc",
+      "bytes": 55623,
+      "capturado_em": "2026-10-27T20:51:17.843233-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "767205bbca076f1a322efc6b2705b1b66927f602d873e4038e6c81915bb2108e",
+      "bytes": 57258,
+      "capturado_em": "2026-10-27T20:55:13.779495-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/2ab24f5cc6ba41679b997834a62968e3034679adcc39b7ea21aa384e1853a63e.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8919f5c6d365235df578bdcc55c945871749582965c54d28eff9d587d04c7720",
+      "bytes": 54533,
+      "capturado_em": "2026-10-27T20:59:06.504843-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/83a9b3964f5647a0be8b5f4865882b89b89fd6dc0436b746654c1fe389599c62.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "89f1e4c9748ca0e251a84dc06710798f726bfd5d4c7e1cfc92f8358954b6b486",
+      "bytes": 6070,
+      "capturado_em": "2026-10-27T21:03:02.501699-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

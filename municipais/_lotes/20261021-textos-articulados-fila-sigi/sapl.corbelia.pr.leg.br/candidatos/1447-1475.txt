@@ -1,0 +1,47 @@
+Altera a Lei Municipal nº 1.263, de 20 de dezembro de 2024 que dispõe sobre o Uso e Ocupação do Solo Urbano e Rural do Município de Corbélia.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Fica alterados os anexos da Lei Municipal nº 1.263, de 20 de dezembro de 2024, que passam a vigorar na forma dos anexos desta Lei, conforme segue:
+
+
+I –
+
+Anexo II: Tabela de Parâmetros Urbanísticos;
+
+
+II –
+
+Anexo IV: Mapa de Zoneamento do Distrito de Nossa Senhora da Penha.
+
+
+Art. 2º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 22 de julho de 2025, 65º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2333 de 22/07/2025, pág. 38-41.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1447/ta
+
+
+## Anexo I — ANEXO II: TABELA DE PARÂMETROS URBANÍSTICOS
+
+
+<table><tbody><tr><td colspan="2" rowspan="2"><p><strong>Zonas</strong></p></td><td colspan="3"><p><strong>Dimensões Mínimas</strong></p></td><td rowspan="3"><p><strong>Gabarito (nº pav.)</strong></p></td><td rowspan="2"><p><strong>Taxa de Ocupação Máxima (%)</strong></p></td><td rowspan="3"><p><strong>Taxa de Permeabilidade Mínima</strong></p></td><td rowspan="3"><p><strong>Coeficiente de Aproveitamento</strong></p></td><td rowspan="2"><p><strong>Recuos Mínimos</strong></p></td></tr><tr><td colspan="2"><p><strong>Testada Mínima</strong></p></td><td rowspan="2"><p><strong>Área (m²)</strong></p></td></tr><tr><td><p><strong>Código</strong></p></td><td><p><strong>Descrição</strong></p></td><td><p><strong>Meio de Quadra</strong></p></td><td><p><strong>Esquina</strong></p></td><td><p><strong>Térreo</strong></p></td><td><p><strong>Frontal</strong></p></td></tr><tr><td><p>ZR1</p></td><td><p>Zona Residencial 1</p></td><td><p>10,00</p></td><td><p>15,00</p></td><td><p>200,00</p></td><td><p>4</p></td><td><p>70%</p></td><td><p>20%</p></td><td><p>3,0</p></td><td><p>3,00 (*6)</p></td></tr><tr><td><p>ZR2</p></td><td><p>Zona Residencial 2</p></td><td><p>10,00</p></td><td><p>10,00</p></td><td><p>200,00</p></td><td><p>3</p></td><td><p>70%</p></td><td><p>20%</p></td><td><p>2,0</p></td><td><p>3,00 (*6)</p></td></tr><tr><td><p>ER</p></td><td><p>Eixo Residencial</p></td><td><p>7,00</p></td><td><p>10,00</p></td><td><p>140,00</p></td><td><p>2</p></td><td><p>70%</p></td><td><p>25%</p></td><td><p>1,0</p></td><td><p>3,00 (*6)</p></td></tr><tr><td><p>ZCC</p></td><td><p>Zona Comércio Central</p></td><td><p>10,00</p></td><td><p>10,00</p></td><td><p>200,00</p></td><td><p>10</p></td><td><p>80%</p></td><td><p>10%</p></td><td><p>4,0</p></td><td><p>3,00 (*1) (*6)</p></td></tr><tr><td><p>CCS 1</p></td><td><p>Corredor de Comércio e Serviço 1</p></td><td><p>10,00</p></td><td><p>10,00</p></td><td><p>200,00</p></td><td><p>8</p></td><td><p>80%</p></td><td><p>20%</p></td><td><p>3,0</p></td><td><p>3,00 (*1) (*6)</p></td></tr><tr><td><p>CCS 2</p></td><td><p>Corredor de Comércio e Serviço 2</p></td><td><p>10,00</p></td><td><p>10,00</p></td><td><p>200,00</p></td><td><p>4</p></td><td><p>80%</p></td><td><p>20%</p></td><td><p>3,0</p></td><td><p>3,00 (*1) (*6)</p></td></tr><tr><td><p>ZCSR</p></td><td><p>Zona de Comércio e Serviço Regional</p></td><td><p>12,00</p></td><td><p>12,00</p></td><td><p>250,00</p></td><td><p>4</p></td><td><p>80%</p></td><td><p>20%</p></td><td><p>1,2</p></td><td><p>3,00 (*6)</p></td></tr><tr><td><p>ZI</p></td><td><p>Zona Industrial</p></td><td><p>20,00</p></td><td><p>20,00</p></td><td><p>1.000,00</p></td><td><p>-</p></td><td><p>60%</p></td><td><p>30%</p></td><td><p>2,0</p></td><td><p>10,00 (*6)</p></td></tr><tr><td><p>ZEIS</p></td><td><p>Zona Especial de Interesse Social</p></td><td><p>7,00</p></td><td><p>10,00</p></td><td><p>140,00</p></td><td><p>1</p></td><td><p>70%</p></td><td><p>25%</p></td><td><p>1,0</p></td><td><p>3,00 (*6)</p></td></tr><tr><td rowspan="2"><p>ZOE</p></td><td><p>Zona Ocupação Específica - VR</p></td><td><p>50,00</p></td><td><p>-</p></td><td><p>5.000,00</p></td><td><p>1</p></td><td><p>20%</p></td><td><p>70%</p></td><td><p>0,5</p></td><td><p>10,00 (*6)</p></td></tr><tr><td><p>Zona Ocupação Específica - SR (*5)</p></td><td><p>15,00</p></td><td><p>-</p></td><td><p>1.000,00</p></td><td><p>1</p></td><td><p>40%</p></td><td><p>60%</p></td><td><p>0,5</p></td><td><p>10,00 (*6)</p></td></tr><tr><td><p>ZV</p></td><td><p>Zonas Verdes</p></td><td colspan="8"><p>Segue parâmetros definidos conforme Código Florestal Brasileiro - Lei Federal 12.651/2012.</p></td></tr></tbody></table>
+
+<table><tbody><tr><td><p> </p></td><td><p>OBSERVAÇÕES</p></td></tr><tr><td><p>(*1)</p></td><td><p>Lotes com Uso Comércio e Serviços, poderão ser edificados no alinhamento predial.</p></td></tr><tr><td><p>(*2)</p></td><td><p>Lotes com frente para Via Marginal ou Rodovias, deverão respeitar recuo mínimo de 5,00 metros.</p></td></tr><tr><td><p>(*3)</p></td><td><p>Lotes que se encontram em Eixo Residencial e seus prolongamentos, deverão respeitar a continuação da caixa da rua com o mínimo de 15,00 m.</p></td></tr><tr><td><p>(*4)</p></td><td><p>A Taxa de Ocupação nas zonas ZCC e CCS1, poderá chegar até 95%, desde que respeitados as condicionantes previstas nesta Lei.</p></td></tr><tr><td><p>(*5)</p></td><td><p>Para a ZOE-SR, além dos parâmetros estabelecidos por esta lei deverá ser respeitado o que regulamenta a Lei 1.182/2022.</p></td></tr><tr><td><p>(*6)</p></td><td><p>O Recuo Frontal Mínimo, deve observar a classificação da hierarquia viária, respeitando as dimensões de: 1,00 m para Via Coletora ou Via com largura de 20,00m; 2,00m para Vias Locais ou Via com largura de 14,00m e 3,00 para Vias menores que Locais, ou seja, com largura menor que 14,00m.</p></td></tr></tbody></table>
+
+
+## Anexo II — ANEXO IV: MAPA DE ZONEAMENTO DO DISTRITO DE NOSSA SENHORA DA PENHA

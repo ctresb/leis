@@ -1,0 +1,505 @@
+---
+titulo: "Lei Complementar nº 107, de 02 de março de 2015"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "107"
+data: "2015-03-02"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/12"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/817/text"
+sha256_fonte: "bbbe5d31bc5c556d76e8fd7b362f76e4ce036b6eec2244db891672a5b5e36c25"
+sha256_texto: "3176bd204a78261d4acd1a46428693467b1e9ead9fdbc0c9cbebd91d5fb43aa1"
+capturado_em_fonte: "2026-10-27T19:58:09.473326-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 107, de 02 de março de 2015
+
+Dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, nos termos do inciso IX do art. 37 da Constituição Federal, e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE BURITIS, Estado de Minas Gerais, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei Complementar:
+
+
+Art. 1º.
+
+Para atender a necessidade temporária de excepcional interesse público, os órgãos da Administração Municipal direta, as autarquias e as fundações públicas poderão efetuar contratação de pessoal por tempo determinado, nas condições e prazos previstos nesta Lei.
+
+
+Art. 2º.
+
+Considera-se necessidade temporária de excepcional interesse público:
+
+
+I –
+
+assistência a situações de calamidade pública;
+
+
+II –
+
+assistência a emergências em saúde pública;
+
+
+III –
+
+realização de pesquisas de natureza estatística;
+
+
+IV –
+
+admissão de professor substituto e professor visitante;
+
+
+V –
+
+atividades:
+
+
+a)
+
+de vigilância e inspeção para atendimento de situações emergenciais ligadas ao comércio de produtos de origem animal ou vegetal ou de iminente risco à saúde animal, vegetal ou humana;
+
+
+b)
+
+necessárias à implantação de órgãos ou entidades ou de novas atribuições definidas para organizações existentes ou as decorrentes de aumento transitório no volume de trabalho que não possam ser atendidas mediante a aplicação do art. 68 da Lei Complementar nº 2, de 18 de setembro de 2002;
+
+
+c)
+
+técnicas especializadas de tecnologia da informação, de comunicação e de revisão de processos de trabalho, não alcançadas pela alínea 'b' e que não se caracterizem como atividades permanentes do órgão ou entidade;
+
+
+d)
+
+didático-pedagógicas em escolas de governo;
+
+
+e)
+
+no âmbito de projetos ou programas dos Governos Federal, Estadual ou Distrital, desde que haja, em seu desempenho, subordinação do contratado ao órgão ou entidade pública municipal;
+
+
+f)
+
+no âmbitos de projetos ou programas de execução não contínua;
+
+
+g)
+
+de identificação e demarcação territorial;
+
+
+VI –
+
+admissão de professor para suprir demandas decorrentes da expansão das instituições municipais de ensino, observado regulamento específico;
+
+
+VII –
+
+contratação de substituto de servidor efetivo, essencial à administração;
+
+
+VIII –
+
+combate a emergências ambientais, na hipótese de declaração da existência de emergência ambiental na região específica;
+
+
+§ 1º
+
+A contratação de professor substituto e a de substituto de servidor efetivo, de que trata os incisos IV e VII do caput, poderá ocorrer em razão de:
+
+
+I –
+
+vacância do cargo;
+
+
+II –
+
+afastamento ou licença, na forma do regulamento;
+
+
+III –
+
+nomeação para ocupar cargo em comissão ou cargo de agente político ou ainda função de confiança na qual não haja compatibilidade de horários.
+
+
+§ 2º
+
+As contratações a que se refere as alíneas 'e' e 'f' do inciso V serão feitas exclusivamente por projeto, vedado o aproveitamento dos contratados em qualquer área da administração públicа.
+
+
+§ 3º
+
+Ato do Poder Executivo disporá, para efeitos, sobre a declaração de emergências em saúde pública.
+
+
+§ 4º
+
+A contratação de professor visitante de que trata o inciso IV do caput, tem por objetivo:
+
+
+I –
+
+apoiar a execução dos programas de pós-graduação stricto sensu;
+
+
+II –
+
+contribuir para o aprimoramento de programas de ensino, pesquisa e extensão; ou
+
+
+III –
+
+contribuir para a execução de programas de capacitação do docente.
+
+
+§ 5º
+
+A contratação de professor visitante, de que trata o inciso IV do caput, deverá:
+
+
+I –
+
+atender a requisitos de titulação e competência profissional; ou
+
+
+II –
+
+ter reconhecido renome em sua área profissional, atestado por deliberação do Conselho Municipal de Educação.
+
+
+§ 6º
+
+São requisitos mínimos de titulação e competência profissional para a contratação professor visitante, de que trata o inciso IV do caput:
+
+
+I –
+
+ser portador do título de doutor, no mínimo, há 2 (dois) anos;
+
+
+II –
+
+ser docente ou pesquisador de reconhecida competência em sua área; e
+
+
+III –
+
+ter produção científica relevante, preferencialmente nos últimos 5 (cinco) anos.
+
+
+Art. 3º.
+
+O recrutamento do pessoal a ser contratado, nos termos desta Lei, será feito mediante processo seletivo simplificado e o contratado deverá reunir, de forma permanente, os seguintes requisitos:
+
+
+I –
+
+nacionalidade brasileira ou estrangeira com presença legal no país;
+
+
+II –
+
+idade mínima de dezoito anos;
+
+
+III –
+
+gozo dos direitos políticos;
+
+
+IV –
+
+quitação com as obrigações militares, se homem, e eleitorais;
+
+
+V –
+
+boa saúde física e mental;
+
+
+VI –
+
+outros estabelecidos no edital.
+
+
+§ 1º
+
+A contratação para atender às necessidades decorrentes de calamidade pública, de emergência ambiental e de emergências em saúde pública prescindirá de processo seletivo.
+
+
+§ 2º
+
+A contratação de pessoal, no caso do professor visitante referido no inciso IV e no caso da alínea 'd' do inciso V do caput do art. 2º, poderá ser efetivada em vista de notória capacidade técnica ou científica do profissional, mediante análise do curriculum vitae.
+
+
+§ 3º
+
+Excetua-se da regra disposta no caput as contratações decorrentes do disposto na alínea 'e' do inciso V do art. 2º, que ocorrerão nos termos dispostos nos convênios.
+
+
+Art. 4º.
+
+As contratações serão feitas por tempo determinado, observados os seguintes prazos máximos:
+
+
+I –
+
+6 (seis) meses, nos casos dos incisos I, II e VIII do caput do art. 2º;
+
+
+II –
+
+1 (um) ano, nos casos dos incisos III e IV do art. 2º;
+
+
+III –
+
+2 (dois) anos, no caso da alíneas 'g' do inciso V do art. 2º;
+
+
+IV –
+
+4 (quatro) anos, nos demais casos do caput do art. 2º.
+
+
+§ 1º
+
+É admitida a prorrogação dos contratos desde que o prazo total não exceda a:
+
+
+I –
+
+2 (dois) anos, no caso do inciso I do caput e do inciso IV do art. 2º;
+
+
+II –
+
+3 (três) anos, nos caso do inciso III do art. 2º;
+
+
+III –
+
+4 (quatro) anos, nos demais casos.
+
+
+§ 2º
+
+É contado como prorrogação o contrato da mesma pessoa no prazo de 40 (quarenta) dias do término do outro contrato.
+
+
+Art. 5º.
+
+As contratações somente poderão ser feitas com observância da dotação orçamentária específica e mediante prévia autorização do Prefeito Municipal.
+
+
+Parágrafo único
+
+O Prefeito Municipal poderá delegar o ato referido no caput.
+
+
+Art. 6º.
+
+É proibida a contratação, nos termos desta Lei, de servidores da Administração direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios, bem como de empregados ou servidores de suas subsidiárias e controladas.
+
+
+Parágrafo único
+
+Excetua-se do disposto no caput, condicionada à formal comprovação compatibilidade de horários:
+
+
+I –
+
+os casos permitidos pela Constituição Federal para a acumulação de cargos públicos;
+
+
+II –
+
+a contratação de profissionais de saúde para atender às necessidades decorrentes de calamidade pública, desde que o contratado não ocupe cargo efetivo ou emprego permanente em órgão ou entidade da administração pública municipal direta e indireta.
+
+
+Art. 7º.
+
+A remuneração do pessoal contratado nos termos desta Lei será fixada:
+
+
+I –
+
+no caso de substituição de servidor efetivo, pelo valor inicial da carreira, exceto no caso de professor, onde prevalece o estabelecido no art. 79A da Lei Complementar nº 63, de 30 de dezembro de 2009;
+
+
+II –
+
+em importância não superior ao valor da remuneração do cargo que desempenhe função semelhante, ou, não existindo a semelhança, às condições do mercado de trabalho ou a fixada por ato do Poder Executivo.
+
+
+Art. 8º.
+
+O pessoal contratado nos termos desta Lei sujeita-se ao Regime Geral da Previdência Social.
+
+
+Art. 9º.
+
+O pessoal contratado nos termos desta Lei não poderá:
+
+
+I –
+
+receber atribuições, funções ou encargos não previstos no respectivo contrato;
+
+
+II –
+
+ser nomeado ou designado, ainda que a título precário ou em substituição, para o exercício de cargo em comissão ou função de confiança.
+
+
+Art. 10.
+
+Nos termos regulamentares, aplica-se ao pessoal contratado nos termos desta Lei, subsidiariamente, naquilo que couber, o disposto na Lei Complementar nº 2/2002.
+
+
+Art. 11.
+
+O contrato firmado de acordo com esta Lei extinguir-se-á, sem direito a indenizações:
+
+
+I –
+
+pelo término do prazo contratual;
+
+
+II –
+
+por iniciativa do contratado;
+
+
+III –
+
+por iniciativa do contratante;
+
+
+IV –
+
+pela extinção ou conclusão do projeto ou programa, definidos pelo contratante.
+
+
+§ 1º
+
+A extinção do contrato, nos casos dos incisos Il e III, será comunicada com a antecedência mínima de quinze dias.
+
+
+§ 2º
+
+É permitida a rescisão unilateral do contrato, sem direito a indenização, por iniciativa da Administração, na ocorrência de qualquer um dos seguintes motivos:
+
+
+I –
+
+o contratado afastar-se do serviço por mais de 30 (trinta) dias, exceto no caso de licença gestação;
+
+
+II –
+
+o não cumprimento de cláusulas contratuais;
+
+
+III –
+
+o cumprimento irregular de cláusulas contratuais;
+
+
+IV –
+
+o atraso ou a paralisação do serviço, sem justa causa e prévia comunicação Administração;
+
+
+V –
+
+a subcontratação total ou parcial do seu objeto, a associação do contratado com outrem, a cessão ou transferência, total ou parcial, não admitidas no edital e no contrato;
+
+
+VI –
+
+o desatendimento das determinações regulares de seus superiores;
+
+
+VII –
+
+o cometimento reiterado de faltas ao serviço;
+
+
+VIII –
+
+o falecimento do contratado;
+
+
+IX –
+
+razões de interesse público, de alta relevância e amplo conhecimento, justificadas determinadas pela máxima autoridade da esfera administrativa a que está subordinado contratante;
+
+
+X –
+
+a ocorrência de caso fortuito ou de força maior, regularmente comprovada, impeditiva da execução do contrato;
+
+
+XI –
+
+em caso de não atendimento ao disposto no art. 2º ou em função de apresentação de declaração falsa.
+
+
+Art. 12.
+
+O tempo de serviço prestado em virtude de contratação nos termos desta Lei será contado para efeitos de aposentadoria.
+
+
+Art. 13.
+
+O Poder Executivo adequará seus contratos as normas desta Lei, no prazo de 90 (noventa) dias, sendo que todos os contratos em vigor, inclusive provenientes de Processo Seletivo Simplificado de provas ou de provas e títulos, passam a se reger pelos termos desta Lei.
+
+
+Art. 14.
+
+Revogam-se as disposições em contrário, em especial:
+
+
+I –
+
+o Título VII, Capítulo Único, da Lei Complementar nº 2/2002;
+
+
+II –
+
+o art. 17 e o respectivo parágrafo único da Lei Complementar nº 38, de 28 de agosto de 2007;
+
+
+III –
+
+o art. 10 e o respectivo parágrafo único da Lei Complementar nº 63/2009;
+
+
+IV –
+
+o § 2º do art. 56 da Lei Complementar nº 63/2009.
+
+
+Art. 15.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Buritis-MG, 02 de março de 2015.
+
+**JOÃO JOSÉ ALVES DE SOUZA PREFEITO DE BURITIS-MG**
+
+Ref. à Proposição de Lei Complementar nº 002, de 11/02/15.
+

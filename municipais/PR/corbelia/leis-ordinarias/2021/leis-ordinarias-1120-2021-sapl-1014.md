@@ -1,0 +1,498 @@
+---
+titulo: "04 - Lei Ordinária nº 1.120, de 30 de março de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1120"
+data: "2021-03-30"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1014"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1012/text"
+sha256_fonte: "1cfce11a8311a09416b960790b43861d49d6afcaca229c7cff4dcd9da44d02eb"
+sha256_texto: "b969d4c00c6511725d7430d92d8e3d861ca4e8b31795226dd48dd9fb5b9b5cc1"
+capturado_em_fonte: "2026-10-28T06:03:39.559687-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.120, de 30 de março de 2021
+
+Dispõe sobre a reformulação do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação – Conselho do FUNDEB, nos termos da Lei Federal nº 14.113, de 25 de dezembro de 2020.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei reformula o Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação – Conselho do FUNDEB; instituído pela Lei Municipal nº 657, de 16 de maio de 2007, para atender o disposto nos artigos 34 e 42 da Lei Federal nº. 14.113, de 25 de dezembro de 2020.
+
+
+#### CAPÍTULO II — DA COMPOSIÇÃO
+
+
+Art. 2º.
+
+O Conselho do FUNDEB é constituído por membros titulares, acompanhados de seus respectivos suplentes, a saber:
+
+
+I –
+
+2 (dois) representantes do Poder Executivo municipal, dos quais pelo menos 1(um) da Secretaria Municipal de Educação e Cultura ou órgão educacional equivalente;
+
+
+II –
+
+1 (um) representante dos professores da educação básica pública - Educação Infantil e Fundamental, pertencente à Rede Municipal de Ensino;
+
+
+III –
+
+1 (um) representante dos diretores das unidades escolares de Educação Infantil e Ensino Fundamental pertencente à Rede Municipal de Ensino;
+
+
+IV –
+
+1 (um) representante dos servidores técnico-administrativos pertencentes ao quadro da Secretaria Municipal de Educação e Cultura;
+
+
+V –
+
+2 (dois) representantes de pais de alunos da Rede Municipal de Ensino;
+
+
+VI –
+
+2 (dois) representantes dos estudantes da Educação Básica Pública, dos quais 1 (um) indicado pela entidade de estudantes secundaristas.
+
+
+§ 1º
+
+O Conselho do FUNDEB será composta ainda, quando houver instituído no município por:
+
+
+I –
+
+1 (um) representante do Conselho Tutelar;
+
+
+II –
+
+1 (um) representante do Conselho Municipal de Educação;
+
+
+III –
+
+2 (dois) representantes de organizações da sociedade civil;
+
+
+IV –
+
+1 (um) representante das escolas indígenas;
+
+
+V –
+
+1 (um) representante das escolas do campo;
+
+
+VI –
+
+1 (um) representante das escolas quilombolas.
+
+
+§ 2º
+
+As organizações da sociedade civil a que se refere o §1º deste artigo:
+
+
+I –
+
+são pessoas jurídicas de direito privado sem fins lucrativos, nos termos da Lei nº 13.019, de 31 de julho de 2014;
+
+
+II –
+
+desenvolvem atividades direcionadas à localidade do respectivo conselho;
+
+
+III –
+
+devem atestar o seu funcionamento há pelo menos 1 (um) ano contado da data de publicação do edital;
+
+
+IV –
+
+desenvolvem atividades relacionadas à educação ou ao controle social dos gastos públicos;
+
+
+V –
+
+não figuram como beneficiárias de recursos fiscalizados pelo conselho ou como contratadas da Administração da localidade a título oneroso.
+
+
+#### CAPÍTULO III — DA INDICAÇÃO, IMPEDIMENTOS E DURAÇÃO DO MANDATO
+
+
+Art. 3º.
+
+Os membros do Conselho do FUNDEB, titulares e suplentes, serão indicados mediante os seguintes critérios:
+
+
+I –
+
+os representantes do Poder Executivo diretamente pelo Prefeito Municipal;
+
+
+II –
+
+os representantes dos professores, dos diretores e servidores serão indicados pelos seus respectivos sindicatos ou associações, ou, não havendo, pelos seus pares em reunião de todos os interessados de cada uma das categorias;
+
+
+III –
+
+os representantes dos pais de alunos serão indicados pela APMF de duas unidades escolares;
+
+
+IV –
+
+os representantes dos estudantes serão indicados entre os alunos das Escolas Estaduais no Município de Corbélia, dos quais 1 (um) indicado pela entidade de estudantes secundaristas;
+
+
+V –
+
+os representantes do Conselho Tutelar, do Conselho Municipal de Educação, de organizações da sociedade civil, das escolas indígenas, das escolas do campo e das escolas quilombolas, serão indicados pelas suas respectivas entidades, realizada reunião para esse fim quando houver mais de uma unidade de cada categoria.
+
+
+Art. 4º.
+
+Indicados os representantes, na forma do Art. 3º desta Lei, o Prefeito Municipal expedirá Decreto nomeando os conselheiros titulares e suplentes do Conselho do FUNDEB, designando inclusive o período do mandato.
+
+
+Parágrafo único
+
+A indicação dos representantes que compõem o Conselho e seus suplentes deverá ocorrer até o dia 10 (dez) do mês de dezembro do segundo ano do mandado do Prefeito, de modo que o Decreto seja publicado até o final do mês.
+
+
+Art. 5º.
+
+São impedidos de integrar o Conselho do FUNDEB:
+
+
+I –
+
+o Prefeito, Vice-Prefeito e Secretários Municipais, bem como seus cônjuges e parentes consanguíneos ou afins até o terceiro grau;
+
+
+II –
+
+tesoureiro, contador ou funcionário de empresa de assessoria ou consultoria que prestem serviços relacionados à administração ou ao controle interno de recursos do Fundo, bem como seus cônjuges, parentes consanguíneos ou afins, até o terceiro grau;
+
+
+III –
+
+estudantes menores de 16 (dezesseis) anos ou que não sejam emancipados;
+
+
+IV –
+
+pais de alunos ou representantes da sociedade civil que:
+
+
+a)
+
+exerçam cargos ou funções públicas de livre nomeação e exoneração na estrutura organizacional do Município;
+
+
+b)
+
+prestem serviços terceirizados, no âmbito do Poder Executivo municipal.
+
+
+Art. 6º.
+
+O mandato dos membros do Conselho do FUNDEB será de 04 (quatro) anos, vedada a recondução para o próximo mandato e terá início na data de 1º de janeiro do terceiro ano de mandato do Prefeito.
+
+
+Parágrafo único
+
+É vedada a substituição de membros do Conselho do FUNDEB antes do término do mandato, ressalvadas as hipóteses de desligamento dispostas no Regimento Interno, desvinculação da categoria a que representa, morte ou renúncia.
+
+
+#### CAPÍTULO IV — DA PRESIDÊNCIA E REUNIÕES
+
+
+Art. 7º.
+
+O Presidente do Conselho do FUNDEB será eleito pelos seus pares na primeira reunião do colegiado, sendo impedido de ocupar a função de presidente, os representantes do Poder Executivo Municipal.
+
+
+Art. 8º.
+
+O Presidente do Conselho indicará diretamente o seu Vice-Presidente, que o substituirá em suas faltas e impedimentos, bem como o Secretário dentre os conselheiros, salvo se a Secretaria Municipal de Educação e Cultura disponibilizar um servidor para esta última função.
+
+
+Art. 9º.
+
+O Conselho do FUNDEB se reunirá ordinariamente uma vez por mês e extraordinariamente sempre que necessário, por convocação da Presidência ou maioria dos conselheiros e, neste caso, indicando a pauta de discussão, cujo tema deverá ser prioritário.
+
+
+Art. 10.
+
+As deliberações serão tomadas por maioria dos membros presentes, cabendo ao Presidente o voto de qualidade, em casos que o julgamento depender de desempate.
+
+
+Art. 11.
+
+Das reuniões ordinárias e extraordinárias deverá ser lavrada ata, com indicação dos presentes e descrição sumária das discussões, a ser aprovada pelos membros na mesma ou em reunião seguinte.
+
+
+Art. 12.
+
+As reuniões poderão ocorrer de forma remota, online, síncronas ou assíncronas, bem como utilizar meios eletrônicos para votação das matérias que forem submetidas aos conselheiros, conforme disposto no Regimento Interno.
+
+
+#### CAPÍTULO V — DAS ATRIBUIÇÕES E ATUAÇÃO
+
+
+Art. 13.
+
+São atribuições do Conselho do FUNDEB:
+
+
+I –
+
+elaborar parecer sobre as prestações de contas da utilização dos recursos do Fundo, o qual deverá ser apresentado ao Poder Executivo municipal em até 30 (trinta) dias antes do vencimento do prazo para a prestação de contas ao Tribunal de Contas do Paraná;
+
+
+II –
+
+examinar regularmente os registros contábeis e demonstrativos gerenciais mensais e atualizados relativos aos recursos repassados ou retidos à conta do Fundo;
+
+
+III –
+
+supervisionar o censo escolar anual, emitindo parecer a respeito;
+
+
+IV –
+
+acompanhar a elaboração da proposta orçamentária anual;
+
+
+V –
+
+acompanhar a aplicação, emitindo parecer a respeito de sua aplicação, dos recursos federais transferidos à conta do:
+
+
+a)
+
+Programa Nacional de Transporte Escolar - PNATE;
+
+
+b)
+
+recursos do Estado à conta do Programa Estadual de Transporte Escolar – PETE;
+
+
+c)
+
+recursos federais à conta do Programa de Apoio aos Sistemas de Ensino para Atendimento à Educação de Jovens e Adultos – PEJA, analisando a prestação de conta dos recursos e emitindo parecer a respeito de sua aplicação.
+
+
+VI –
+
+analisar e acompanhar a aplicação dos recursos federais transferidos mediante o Programa de Ações Articuladas – PAR, bem como outros recursos federais transferidos em programas voluntários do FNDE/MEC.
+
+
+Art. 14.
+
+Para o cumprimento de suas atribuições o Conselho poderá, sempre que julgar necessário:
+
+
+I –
+
+apresentar à Câmara Municipal, ao Tribunal de Contas do Estado, ao Ministério Público, manifestação formal acerca dos registros contábeis e dos demonstrativos gerenciais do Fundo, dando ampla transparência ao documento no sítio da internet do Município;
+
+
+II –
+
+convocar, por decisão da maioria de seus membros, o Secretário Municipal da Educação e Cultura ou autoridade educacional competente, para prestar esclarecimentos acerca do fluxo de recursos e da execução das despesas do Fundo, devendo a autoridade convocada apresentar-se em prazo não superior a 30 (trinta) dias, ou em prazo menor, se justificada a urgência;
+
+
+III –
+
+requisitar ao Poder Executivo cópia de documentos, os quais deverão ser concedidos em prazo não superior a 20 (vinte) dias, referentes a:
+
+
+a)
+
+licitação, empenho, liquidação, e pagamento de obras e serviços custeados com recursos do Fundo;
+
+
+b)
+
+folhas de pagamento dos profissionais da educação, as quais deverão discriminar aqueles em efetivo exercício na educação infantil e ensino fundamental, incluindo os que estão em disponibilidade para instituições conveniadas;
+
+
+c)
+
+convênios com as instituições a que se refere o Art. 7º da Lei Federal nº 14.113, de 25 de dezembro de 2021;
+
+
+d)
+
+outras informações necessárias ao desenvolvimento de suas atribuições.
+
+
+IV –
+
+realizar visitas para verificar, in loco, entre outras questões pertinentes:
+
+
+a)
+
+o desenvolvimento regular de obras e serviços efetuados nas instituições escolares com recursos do Fundo, ou em construções com recursos financeiros do FNED/MEC;
+
+
+b)
+
+a adequação do serviço de transporte escolar;
+
+
+c)
+
+a utilização em benefício do sistema de ensino (ou rede municipal de ensino) de bens adquiridos com recursos do Fundo para esse fim.
+
+
+Art. 15.
+
+A atuação dos membros do Conselho do FUNDEB:
+
+
+I –
+
+não é remunerada;
+
+
+II –
+
+é considerada atividade de relevante interesse social;
+
+
+III –
+
+assegura isenção de obrigatoriedade de testemunhar sobre informações recebidas ou prestadas em razão do exercício de suas atividades de conselheiro e sobre pessoas que lhes confiarem ou deles receberem informações;
+
+
+IV –
+
+veda, quando os conselheiros forem representantes de professores, diretores ou de servidores de escola pública, no curso do mandato:
+
+
+a)
+
+a exoneração ou demissão do cargo ou emprego sem justa causa ou transferência involuntária de estabelecimento de ensino em que atuem;
+
+
+b)
+
+a atribuição de falta injustificada ao serviço em função das atividades do Conselho;
+
+
+c)
+
+o afastamento involuntário injustificado da condição de conselheiro antes do término do mandato para o qual tenha sido designado.
+
+
+V –
+
+veda, quando os conselheiros forem representantes de estudantes em atividades do conselho, no curso do mandato, atribuição de falta injustificada nas atividades escolares.
+
+
+Art. 16.
+
+O Conselho Municipal do FUNDEB atuará com autonomia, sem vinculação ou subordinação institucional ao Poder Executivo Municipal.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+##### Seção I — DAS DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 17.
+
+Declaram-se válidas as atividades e deliberações do Conselho Municipal do FUNDEB realizadas entre o início de vigência da Lei Federal nº 14.113, de 25 de dezembro de 2020 e a publicação da presente Lei.
+
+
+Art. 18.
+
+Os atuais conselheiros ficam automaticamente indicados para compor o Conselho, cujo mandato, excepcionalmente, para adaptá-lo às exigências da desta Lei, encerram-se na data de 31 de dezembro de 2022.
+
+
+##### Seção II — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 19.
+
+Caberá ao Poder Executivo Municipal garantir as condições de infraestrutura e de apoio material e de pessoal para o funcionamento regular do Conselho, bem como disponibilizar em sítio da internet informações atualizadas sobre a composição e o funcionamento do Conselho, incluídos:
+
+
+I –
+
+nome dos conselheiros e das entidades ou segmentos que representam;
+
+
+II –
+
+correio eletrônico ou outro canal de contato direto com o Conselho;
+
+
+III –
+
+ata das reuniões;
+
+
+IV –
+
+relatórios e pareceres;
+
+
+V –
+
+outros documentos produzidos pelo Conselho.
+
+
+Art. 20.
+
+Revogam-se, os Art. 2º, 3º e 4º e seus respectivos parágrafos, incisos e alíneas da Lei Municipal nº 657, de 16 de maio de 2007.
+
+
+Art. 21.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 30 de março de 2021, 60º da Emancipação Política.
+
+Dangelles Decki
+
+Prefeito Municipal em Exercício
+
+Não substitui o texto publicado no DOE 1275 de 30/03/2021, pág. 02-08.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1014/ta
+

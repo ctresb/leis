@@ -1,0 +1,184 @@
+---
+titulo: "Lei Ordinária-PL nº 667, de 23 de setembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "667"
+data: "2021-09-23"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2021-12-27; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/687"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/603/text"
+sha256_fonte: "dfbd60a838e422f664614d85d70c9b4c3f20c055ed55597662adb778cec4996a"
+sha256_texto: "9f5793955e5ca7d8cfeea84f029e62e29ab6fe5706f2befc4ca534d60e4bcec6"
+capturado_em_fonte: "2026-10-27T19:41:15.759775-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária-PL nº 667, de 23 de setembro de 2021
+
+"Autoriza a concessão de recursos financeiros a titulo de Subvenção Social para as entidades associativas sem fins lucrativos que menciona, e dá outras providências."
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado, nos termos do art. 26 da Lei Complementar Federal nº 101, de 04.05.2000, e com fulcro nos artigos 16 e 17 da Lei Federal nº 4.320, de 1964, conceder auxílio financeiro à título de Subvenção Social as seguintes entidades associativas sem fins lucrativos, sediadas no município de Brasilândia de Minas:
+
+
+I –
+
+Associação dos Produtores e Produtoras do Assentamento Elza Estrela, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº 04.518.661/0001-64, com o repasse no valor de R$ 6.000,00 (seis mil reais)
+
+
+II –
+
+Associação de Moradores Trabalhadores Rurais do Assentamento Osvaldo Vieira da Codevasf & Adjacência ATROVAB, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº 20.574.265/0001-00 com o repasse no valor de R$ 6.000,00 (seis mil reais);
+
+
+III –
+
+Associação dos Produtores Rurais do Projeto de Assentamento Mario Pereira APRPAMP, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o ne 08.699.989/0001-85, com o repasse no valor de R$ 3.000,00 (três mil reais);
+
+
+IV –
+
+Associação Beneficente e Artistica Pro-Vida ABAPROV, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº 03.010.794/0001-62, com o repasse no valor de R$ 3.000,00 (três mil reais);
+
+
+V –
+
+Associação de Pais e Amigos dos Excepcionais de Brasilndia de Minas - APAE, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº 05.653.196/0001-37, com o repasse no valor de R$ 1.500,00;
+
+
+VI –
+
+Associação do Projeto de Assentamento Reinaldo Vaz APARV, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº 33.029.149/0001-52, com o repasse no valor de R$ 3.000,00 (três mil reais);
+
+
+VII –
+
+Associação dos Trabalhadores Rurais da Agricultura Familiar - Terra Nova, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº CNPJ 27.038.698/0001-90, com o repasse no valor de R$ 3.000,00 (três mil reais); e,
+
+
+VIII –
+
+Associação dos Pequenos Produtores do Vale do Cotovelo ASPEPVAC, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº CNPJ 01.175.866/0001-04, com o repasse no valor de R$ 3.000,00 (três mil reais);
+
+
+IX –
+
+Associação do Projeto de Assentamento Cachoeira Grande- AFAPAC, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº CNPJ 05.413.586/0001-30, com o repasse no valor de R$ 3.000,00 (três mil reais);
+
+
+X –
+
+Associação Comunitária Rural dos Moradores do Mocambinho e Região, inscrita no Cadastro Nacional das Pessoas Jurídicas sob o nº CNPJ 03.790.419/0001-82, com o repasse no valor de R$ 3.000,00 (três mil reais);
+
+
+Art. 2º.
+
+Os recursos de que trata o artigo anterior, deverão atender e manter adequação orçamentária e financeira com a Lei Orçamentária Anual - LOA, e compatibilidade com o Plano Plurianual PPA e a Lei de Diretrizes Orçamentárias LDO para o exercício do ano de 2021.
+
+
+Art. 3º.
+
+Os recursos a serem transferidos às entidades associativas mencionadas nos incisos I a X do art. 1º desta Lei, somente serão efetivados quando:
+
+
+I –
+
+Cumprido a apresentação dos seguintes documentos:
+
+
+a)
+
+Cópia do Estatuto Social e seus aditivos em vigor, ou em redação consolidada, acompanhados da última ata de eleição e posse da diretoria da entidade;
+
+
+b)
+
+Certidão Simplificada do registro e averbações dos atos constitutivos da entidade, emitida há no máximo 90 (noventa) dias pelo competente cartório de registro das pessoas jurídicas da Comarca de João Pinheiro;
+
+
+c)
+
+Comprovante com o número de inscrição e situação cadastral no Cadastro Nacional de Pessoas Jurídicas - CNPJ, emitido há no máximo 30 (trinta) dias pela Receita Federal do Brasil;
+
+
+d)
+
+Cópia da lei municipal de declaração de utilidade pública, para os fins aludidos no art. 19 da Lei Federal nº 4.320, de 1964;
+
+
+e)
+
+Prova de regularidade para com a Fazenda Federal e a Seguridade Social, mediante apresentação de Certidão Conjunta de Débitos Relativos a Tributos Federais e à Dívida Ativa da União, emitida pela Secretaria da Receita Federal do Brasil ou pela Procuradoria-Geral da Fazenda Nacional, nos termos do art. 28, inciso IV, alínea "a" da Lei Federal nº 8.694, de 1993;
+
+
+f)
+
+Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviço - FGTS, emitida pela Caixa Econômica Federal, nos termos do art. 28, inciso IV, alínea "b" da Lei Federal nº 8.694, de 1993;
+
+
+g)
+
+Declaração atualizada de, no mínimo, três autoridades locais, quanto ao bom funcionamento e comprovante de regularidade do mandato de sua diretoria, nos termos do art. 25, parágrafo único, da Lei Federal nº 8.694, de 1993, com redação dada pela Lei Federal nº 8.928, de 1994; e,
+
+
+h)
+
+Comprovante de conta corrente ativa em instituição financeira, constando número e agência, com titularidade em nome da pessoa jurídica beneficiária.
+
+
+Parágrafo único
+
+A certidão simplificada emitida pelo Cartório de Registro Civil das Pessoas Jurídicas e que é aludida na alínea "b" do art. 3º desta Lei, poderá ser substituída com todos os efeitos jurídicos, e sem nenhum prejuízo aos processos administrativos de convênio em andamento, por cópia simples legível em meio físico da Ata de Fundação e Constituição da entidade associativa acompanhada do Estatuto Social inicial que lhe deu origem, juntamente com a última Ata de Eleição e Posse dos membros do mandado em vigor devidamente arquivada no notarial acompanhada do último Estatuto Social com redação consolidada, e suas alterações posteriores, se houver.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-PL nº 676, de 27 de dezembro de 2021.
+
+
+I –
+
+Firmado o competente "Termo de Convênio", contendo os elementos essenciais de objeto, prazos de execução e prestação de contas, forma do repasse financeiro, responsabilidades gerais e resolução do instrumento, dentre outros que forem pertinentes, acompanhado do "Plano de Trabalho" relativo à aplicação dos recursos repassados por esta Lei.
+
+
+Art. 4º.
+
+Eventuais saldos financeiros remanescentes dos recursos públicos transferidos e não utilizados, serão devolvidos à administração pública no último dia do exercício financeiro em que ocorreram os repasses.
+
+
+Art. 5º.
+
+É vedada a utilização de recursos financeiros em gasto com pessoal ativo do Quadro Geral da Prefeitura Municipal de Brasilândia de Minas, inclusive aqueles contratados por órgãos da administração pública direta ou indireta, conforme art. 167, inciso X, da Constituição Federal
+
+
+Art. 6º.
+
+As entidades associativas beneficiárias da subvenção social deverão dar a mais ampla publicidade das receitas e despesas efetuadas dos recursos públicos, além de divulgar a destinação que for dada ao auxílio, implementando medidas de acesso a informação e transparência a qualquer cidadão interessado, na forma do art. 2º da Lei Federal nº 12.527, de 2011 "Lei de Acesso a Informação".
+
+
+Art. 7º.
+
+0 Poder Público Municipal deverá adotar as medidas pertinentes às entidades associativas, quando constatar desvio de finalidade dos repasses de subvenção social.
+
+
+Art. 8º.
+
+Fica autorizado a abertura de crédito especial ou suplementar para os fins de que trata essa Lei, até o limite dos valores de repasses, mediante Decreto, utilizando como fonte a anulação total ou parcial de dotações constantes do orçamento vigente.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Prefeitura de Brasilândia de Minas - MG, 23 de setembro de 2021.
+
+**OSÉIAS CARDOSO QUEIROZ**
+
+**Prefeito Municipal**
+

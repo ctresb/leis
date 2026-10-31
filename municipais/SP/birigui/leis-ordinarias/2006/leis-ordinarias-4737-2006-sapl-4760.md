@@ -1,0 +1,375 @@
+---
+titulo: "Lei Ordinária nº 4.737, de 29 de maio de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4737"
+data: "2006-05-29"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2026-08-12; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/4760"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3672/text"
+sha256_fonte: "2d5b1cb822cede7f89e295db6aa0398dd410d02c3f9213e6c0484ab3cb391efe"
+sha256_texto: "75b00659bb5f06196d18ec4def1abce5786083c413bc95196e8ed00b2c679b4e"
+capturado_em_fonte: "2026-10-27T18:26:27.857127-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.737, de 29 de maio de 2006
+
+DISPÕE SOBRE CRITÉRIOS PARA A READAPTAÇÃO DE FUNCIONÁRIO PÚBLICO MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei nº 42/06, de autoria do Prefeito Municipal
+
+
+Eu, **WILSON CARLOS RODRIGUES BORINI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Programa de Readaptação Funcional que visa a inserção do Servidor estável no trabalho, compreendendo o seu remanejamento e/ou sua readaptação profissional.
+
+
+Art. 2º.
+
+A readaptação verificar-se-á sempre que ocorra modificação do estado fisico e/ou mental do funcionário, que venha a alterar a sua capacidade para o pleno exercício das atribuições específicas de seu cargo.
+
+
+Art. 3º.
+
+Deverá ser encaminhado à readaptação, o Servidor que, após o período de 60 (sessenta) dias em gozo de licença médica para tratamento de saúde, licença por acidente em serviço, ou doença ocupacional, for considerado temporária ou definitivamente incapaz para o desempenho de suas atividades, mas com persistência de resíduo laborativo para o exercício de outras atribuições.
+
+
+Parágrafo único
+
+O prazo estabelecido no *caput* do artigo poderá ser reduzido nos casos de patente redução da capacidade laboral do servidor, a critério da Perícia Médica Oficial do Município.
+
+
+Art. 4º.
+
+Nos casos em que a contra-indicação se verificar apenas para algumas tarefas do cargo ou com relação a certas condições ou ambientes de trabalho, a readaptação será feita pela designação de novas tarefas ou pela mudança para Unidade Administrativa onde as deficiências verificadas não tenham influência.
+
+
+Art. 5º.
+
+A readaptação dar-se-á para funções compatíveis com as condições pessoais do readaptado, de preferência na mesma unidade em que estiver lotado.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+Art. 6º.
+
+Incumbe exclusivamente á Perícia Médica Oficial do Município:
+
+
+a)
+
+atestar as limitações da capacidade fisica e/ou mental do Servidor, com vistas à análise prévia de sua inserção no Programa de Readaptação;
+
+
+b)
+
+emitir laudo *detalhado*, consignando as limitações funcionais constatadas em relação ao Servidor;
+
+
+c)
+
+encaminhar o Servidor, bem como os documentos tratados nas alíneas “a” e “b”, ao Comitê de Readaptação Profissional, criado pelo artigo 21 desta Lei.
+
+
+Parágrafo único
+
+Quando necessário, o C.R.P. indicará ao Departamento de Recursos Humanos cursos ou treinamentos adequados ás novas atividades a serem executadas pelo funcionário.
+
+
+Art. 7º.
+
+A readaptação por modificação de atribuições será precedida de um período experimental de trabalho do readaptando, em atividade ou tarefa que for indicada, no órgão de lotação ou em outro da Administração, pelo prazo mínimo de 90 (noventa) dias, prorrogável a critério do C.R.P..
+
+
+§ 1º
+
+Para efeito deste artigo, quando necessário, será o funcionário colocado à disposição do órgão recomendado pela C.R.P.
+
+
+§ 2º
+
+A permanência do Servidor no processo de readaptação temporária não poderá exceder a 12 meses.
+
+
+§ 3º
+
+Findo o prazo previsto no artigo anterior, o Comitê manifestar-se-á sobre a conveniência ou não de se proceder à readaptação do servidor em caráter definitivo.
+
+
+§ 4º
+
+No prazo consignado no *caput* deste artigo, a qualquer tempo, sendo o Funcionário considerado apto para o exercício do cargo, mediante avaliação da Perícia Médica Oficial do Município, cessará imediatamente o processo de readaptação, devendo o Comitê desligar o Servidor do Programa de Readaptação Profissional.
+
+
+Art. 8º.
+
+A transferência poderá ser feita para atividades da mesma Secretaria ou de Secretaria diversa, onde houver necessidade dos serviços atribuídos ao readaptando. Neste último caso deverá ser previamente consultado o titular da Secretaria onde será lotado o readaptando.
+
+
+Art. 9º.
+
+Feita a indicação para as novas atribuições do readaptando, o C.R.P. submeterá as propostas de transferência à aprovação do Prefeito Municipal, sendo, em seguida, o expediente encaminhado à Secretaria de Administração para a lavratura da Portaria de readaptação.
+
+
+Art. 10.
+
+Sempre que for possível a readaptação em mais de uma atividade, o conjunto de atribuições será determinado pelo Comitê através do processo de readaptação.
+
+
+Parágrafo único
+
+Quando as atividades estabelecidas puderem ser desenvolvidas em mais de uma Unidade Administrativa, é facultado ao Readaptando escolher aquela em que prestará seus serviços, devendo manifestar-se no prazo de até 7 (sete) dias a contar da data em que for consultado.
+
+
+Art. 11.
+
+Caso não ocorra a readaptação em caráter definitivo, o servidor deverá retomar às suas funções de origem, ficando vedada a apresentação de novo pedido de readaptação se permanecerem as mesmas condições que ampararam o pedido indeferido.
+
+
+Art. 12.
+
+Após concluído e aprovado pela Autoridade Competente, o processo de readaptação será encaminhado pelo Comitê ao Departamento de Recursos Humanos, da Secretaria de Administração, para o devido assentamento nos registros funcionais do Servidor.
+
+
+Art. 13.
+
+Nos casos em que a Perícia Médica Oficial do Município julgar necessário, e após manifestação favorável do C.R.P., o funcionário deverá ser submetido a um Programa de Reabilitação, a ser realizado dentro do horário de trabalho, e levado a efeito por profissionais com habilitação especifica para cada caso, tais como psicólogos, médicos, fisioterapeutas, dentre outros, com o escopo de o reconduzir ao trabalho que vinha realizando anteriormente ou a um outro adequado à sua condição.
+
+
+§ 1º
+
+Enquanto perdurarem as condições previstas neste artigo, deverão ser concedidas ao funcionário facilidades de horário e distribuição de trabalho que lhe permitam conciliar a permanência em exercício com o tratamento prescrito, ficando sujeito à comprovação de que está sendo submetido a esse tratamento.
+
+
+§ 2º
+
+Terminado o tratamento a que se refere este artigo, deverá o funcionário submeter-se a novo exame pela Perícia Médica Oficial do Município, e, com base no laudo médico e decisão final Comitê de Readaptação Profissional, retornar às tarefas inerentes ao seu cargo de origem ou ser definitivamente readaptado.
+
+
+Art. 14.
+
+O C.R.P. procederá a todos os estudos necessários a fim de apresentar a melhor solução para cada caso que for submetido à sua apreciação.
+
+
+Parágrafo único
+
+Quando necessário, o C.R.P. poderá solicitar a colaboração da Secretaria de Promoção Social, e, da Secretaria da Saúde, cujo atendimento se dará em regime de prioridade.
+
+
+Art. 15.
+
+Caso o Servidor se recuse a participar do Programa de Reabilitação Profissional ou descumpra os deveres de assiduidade, será desligado do programa.
+
+
+Art. 16.
+
+Fica criado, diretamente subordinado à Secretaria Municipal de Administração, o Comitê de Readaptação Profissional, ao qual competirá o processamento da readaptação dos Servidores, bem como as seguintes incumbências:
+
+
+a)
+
+avaliar e definir a capacidade laborativa residual do readaptando;
+
+
+b)
+
+ouvir o readaptando e o seu superior imediato, tomando a termo as respectivas declarações;
+
+
+c)
+
+definir a necessidade de remanejamento do readaptando no âmbito da Prefeitura;
+
+
+d)
+
+estabelecer, controlar e avaliar o treinamento do readaptando em atividades compatíveis com a sua capacidade laborativa;
+
+
+e)
+
+estabelecer prazo e prorrogá-los, na medida em que forem estritamente necessários para o desenvolvimento do processo de readaptação e/ou treinamento do readaptando;
+
+
+f)
+
+acompanhar o cumprimento da carga horária pelo readaptando e analisar a avaliação do curso/treinamento, tomando as medidas necessárias ao bom cumprimento do Programa de Readaptação;
+
+
+g)
+
+requisitar às respectivas Secretarias os serviços profissionais de médicos, enfermeiros, psicólogos e/ou de outros profissionais que julgar necessários para a reabilitação profissional do Servidor, cujo atendimento se dará em regime de prioridade;
+
+
+h)
+
+solicitar nova perícia médica sempre que julgar necessário;
+
+
+i)
+
+emitir parecer conclusivo, após cuidadosa análise de cada processo de readaptação.
+
+
+§ 1º
+
+A nomeação dos membros do Comitê de Readaptação Profissional – C.R.P. será mediante de Portaria expedida pelo Executivo Municipal, em sua composição fica assegurada a participação de um representante do SISEP e um da Comissão Interna de Prevenção de Acidentes – CIPA, indicados pelos seus respectivos presidentes.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.321, de 10 de agosto de 2010.
+
+
+§ 2º
+
+O Presidente do C.R.P. poderá designar membro do Comitê para verificar *in loco* o andamento da readaptação, devendo este informar por escrito ao C.R.P. os casos que não atendam os dispositivos desta Lei.
+
+
+Art. 17.
+
+Serão realizadas, pelo Comitê de Readaptação Profissional, avaliações relativas à habilitação do servidor para o desempenho das funções inerentes ao cargo readaptado.
+
+
+Art. 18.
+
+A presente lei não se aplicará:
+
+
+I –
+
+aos funcionários e agentes públicos municipais que exerçam cargos de provimento em comissão;
+
+
+II –
+
+aos funcionários públicos municipais que estejam cumprindo estágio probatório, salvo nos casos em que a incapacidade resultar de acidente de trabalho;
+
+
+III –
+
+aos servidores públicos municipais admitidos pelo regime da Consolidação das Leis do Trabalho;
+
+
+IV –
+
+ao pessoal admitido em caráter temporário;
+
+
+V –
+
+a funcionário que tenha sido licenciado para tratar de assuntos particulares, antes do transcurso de três anos a contar da data de seu retomo ao trabalho.
+
+
+Art. 19.
+
+A cada 02 (dois) anos deverão ser reavaliados os casos de readaptação definitiva, retomando o servidor às atividades próprias de seu cargo efetivo, caso a Perícia Médica Oficial do Município comprove estar o mesmo apto para o desempenho de suas atribuições.
+
+
+Art. 20.
+
+O readaptado fará *jus* aos vencimentos de seu cargo de provimento efetivo, devendo cumprir a carga horária de trabalho de seu cargo de origem, inclusive nos casos de acúmulo legal de cargos.
+
+Alteração feita pelo Art. 8º. - Lei Ordinária nº 7.675, de 12 de agosto de 2026.
+
+
+Art. 21.
+
+Os vencimentos que estejam sendo percebidos em desacordo com o disposto neste artigo, serão imediatamente enquadrados ao limite dele decorrente.
+
+
+Art. 22.
+
+As despesas decorrentes da execução desta Lei serão atendidas no corrente exercício, por conta das dotações próprias consignadas no orçamento vigente.
+
+
+Art. 23.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, notadamente as da Lei nº 4.010, de 19 de dezembro de 2001.
+
+
+Prefeitura Municipal de Birigüi, aos vinte e nove de maio de dois mil e seis.
+
+**WILSON CARLOS RODRIGUES BORINI Prefeito Municipal**
+
+**ODELI FERNANDES CUSTÓDIO Secretário de Administração**
+
+**DR. GLAUCO PERUZZO GONÇALVES Secretário de Negócios Jurídicos**
+
+**MARCELO PARIZATI Secretário de Finanças**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**EURICO POMPEU SOBRINHO Secretário de Expediente e Comunicações Administrativas**
+

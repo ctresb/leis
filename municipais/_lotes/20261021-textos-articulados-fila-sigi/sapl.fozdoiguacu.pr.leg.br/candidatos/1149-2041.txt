@@ -1,0 +1,57 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 4.000.000,00 (quatro milhões de reais) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento Geral do Município, no valor de R$ 4.000.000,00 (quatro milhões de reais), na forma abaixo especificada:
+
+<table><tbody><tr><td><strong>12</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA EDUCAÇÃO</strong></td></tr><tr><td>02</td><td colspan="2">- DIRETORIA DE ENSINO FUNDAMENTAL</td></tr><tr><td>12 361 0600 2.118</td><td colspan="2">- Material Escolar do Ensino Fundamental</td></tr><tr><td>3.3.90.32</td><td colspan="2">- Material, Bem ou Serviço para Distribuição Gratuita</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>2.750.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE EDUCAÇÃO INFANTIL</strong></td></tr><tr><td>12 365 0600 2.253</td><td colspan="2">- Material Escolar da Educação Infantil</td></tr><tr><td>3.3.90.32</td><td colspan="2">- Material, Bem ou Serviço para Distribuição Gratuita</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>1.250.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>- TOTAL DO CRÉDITO ADICIONAL SUPLEMENTAR</strong></td><td><strong>4.000.000,00</strong></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, e a seguir especificados:
+
+<table><tbody><tr><td><strong>12</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA EDUCAÇÃO</strong></td></tr><tr><td>01</td><td colspan="2">- GABINETE DO SECRETÁRIO</td></tr><tr><td>12 361 0120 2.105</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td>3.3.90.14</td><td colspan="2">- Diárias - Pessoal Civil</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>10.000,00</td></tr><tr><td>3.3.90.33</td><td colspan="2">- Passagens e Despesas com Locomoção</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>20.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>12 361 0120 2.107</strong></td><td colspan="2"><strong>- Aquisição de Vale Transporte</strong></td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>50.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>12 361 0600 2.112</strong></td><td colspan="2"><strong>- Manutenção do Transporte Escolar</strong></td></tr><tr><td>3.3.90.33</td><td colspan="2">- Passagens e Despesas com Locomoção</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>1.000.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>40.000,00</td></tr><tr><td>02</td><td colspan="2">- DIRETORIA DE ENSINO FUNDAMENTAL</td></tr><tr><td>12 361 0600 2.114</td><td colspan="2">- Manutenção do Ensino Fundamental</td></tr><tr><td>3.1.90.11</td><td colspan="2">- Vencimentos e Vantagens Fixas - Pessoal Civil</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>2.170.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>12 361 0120 2.117</strong></td><td colspan="2"><strong>- Valorização do Professor - Incentivo à Formação</strong></td></tr><tr><td>3.3.90.36</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Física</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>30.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>50.000,00</td></tr><tr><td>3.3.90.40</td><td colspan="2">- Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td>40.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>12 365 0600 2.119</strong></td><td colspan="2"><strong>- Incentivo a Leitura e ao Conhecimento do Ensino Fundamental</strong></td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>100.000,00</td></tr><tr><td>3.3.90.40</td><td colspan="2">- Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>40.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE EDUCAÇÃO INFANTIL</strong></td></tr><tr><td>12 365 0600 2.102</td><td colspan="2">- Manutenção da Educação Infantil</td></tr><tr><td>3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente ....</td><td>180.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente ....</td><td>150.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>12 365 0600 2.252</strong></td><td colspan="2"><strong>- Valorização do Professor da Educação Infantil</strong></td></tr><tr><td>3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>20.000,00</td></tr><tr><td>3.3.90.36</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Física</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>20.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>30.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>12 365 0600 2.254</strong></td><td colspan="2"><strong>- Incentivo a Leitura e ao Conhecimento da Educação Infantil</strong></td></tr><tr><td>3.3.90.32</td><td colspan="2">- Material, Bem ou Serviço para Distribuição Gratuita</td></tr><tr><td>1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente </td><td>50.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>- TOTAL DA ANULAÇÃO </strong></td><td><strong>4.000.000,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 27 de setembro de 2021.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal
+
+Nilton Aparecido Bobato  
+Secretário Municipal da Administração
+
+Salete Aparecida de Oliveira Horst  
+Secretária Municipal da Fazenda
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

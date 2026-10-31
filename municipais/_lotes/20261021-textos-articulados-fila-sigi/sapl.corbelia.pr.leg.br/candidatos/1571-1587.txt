@@ -1,0 +1,49 @@
+Autoriza o Poder Executivo a abrir crédito adicional suplementar no orçamento do Município, com base em excesso de arrecadação, no valor de R$ 1.200.000,00 (um milhão, duzentos mil reais), na forma em que especifica.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+O Poder Executivo Municipal fica autorizado a abrir crédito adicional suplementar, com base em excesso de arrecadação, no valor de R$ 1.200.000,00 (um milhão, duzentos mil reais), para reforço no exercício financeiro de 2026 das seguintes dotações orçamentárias:
+
+
+<table><tbody><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA – SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 06.003</p></td><td colspan="2"><p>DEPARTAMENTO DE ENSINO FUNDAMENTAL</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 06.003.0012.0361.0180.2240</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e ampliar o sistema de ensino fundamental do município.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390330000 - Passagens e despesas com locomoção</p></td><td><p>01040 - Transferências do FUNDEB - Complementação da União - VAAR</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA – SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 06.004</p></td><td colspan="2"><p>DEPARTAMENTO DE ENSINO PRÉ-ESCOLAR</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 06.004.0012.0365.0200.2260</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e desenvolver a educação infantil.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390300000 - Material de consumo</p></td><td><p>01040 - Transferências do FUNDEB - Complementação da União – VAAR</p></td><td><p>R$ 150.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA – SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 06.003</p></td><td colspan="2"><p>DEPARTAMENTO DE ENSINO FUNDAMENTAL</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 06.003.0012.0361.0220.2250</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e aprimorar a gestão do sistema municipal de educação.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390300000 - Material de consumo</p></td><td><p>01040 - Transferências do FUNDEB - Complementação da União – VAAR</p></td><td><p>R$ 200.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA – SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 06.003</p></td><td colspan="2"><p>DEPARTAMENTO DE ENSINO FUNDAMENTAL</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 06.003.0012.0361.0220.2250</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e aprimorar a gestão do sistema municipal de educação.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390390000 - Outros serviços de terceiros - pessoa jurídica</p></td><td><p>01040 - Transferências do FUNDEB - Complementação da União – VAAR</p></td><td><p>R$ 200.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA – SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 06.004</p></td><td colspan="2"><p>DEPARTAMENTO DE ENSINO PRÉ-ESCOLAR</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 06.004.0012.0365.0200.2255</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e ampliar o sistema de ensino fundamental do município.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390330000 - Passagens e despesas com locomoção</p></td><td><p>01040 - Transferências do FUNDEB - Complementação da União – VAAR</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE ESPORTE E LAZER – SEMEL</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 09.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE ESPORTES E LAZER</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 09.002.0027.0811.0260.2380</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e aperfeiçoar a gestão do desporto e lazer no município.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390370000 - Locação de mão-de-obra</p></td><td><p>01002 - DRM desvinculação de receita</p></td><td><p>R$ 50.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE ESPORTE E LAZER – SEMEL</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 09.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE ESPORTES E LAZER</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 09.002.0027.0811.0260.2380</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e aperfeiçoar a gestão do desporto e lazer no município.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390390000 - Outros serviços de terceiros - pessoa jurídica</p></td><td><p>01002 - DRM desvinculação de receita</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE MEIO AMBIENTE – SEMA</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 13.002</p></td><td colspan="2"><p>FUNDO AMBIENTAL E DO DESENVOLVIMENTO RURAL – FADER</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 13.002.0018.0512.0300.2913</p></td><td colspan="2"><p><strong>Atividade</strong>: Manutenção do programa coleta seletiva</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390390000 - Outros serviços de terceiros - pessoa jurídica</p></td><td><p>01002 - DRM desvinculação de receita</p></td><td><p>R$ 200.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. GABINETE DO PREFEITO</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária</strong>: 02.003</p></td><td colspan="2"><p>DEPARTAMENTO DE COMUNICAÇÃO E SERVIÇOS INSTITUCIONAIS</p></td></tr><tr><td><p><strong>Funcional Programática</strong>: 02.003.0004.0131.0020.2120</p></td><td colspan="2"><p><strong>Atividade</strong>: Manter e ampliar as atividades jurídicas de defesa dos interesses públicos.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390390000 - Outros serviços de terceiros - pessoa jurídica</p></td><td><p>01002 - DRM desvinculação de receita</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td colspan="3"><p><strong>VALOR TOTAL DA SUPLEMENTAÇÃO:</strong>  <strong>R$ 1.200.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Para dar cobertura aos créditos indicados no artigo anterior serão utilizados recursos provenientes do excesso de arrecadação das receitas: 1241500100 - Contribuição para o custeio do serviço de iluminação pública - principal, 1715520100 - Transferências de recursos de complementação da união ao FUNDEB - Vaar - principal da fonte 1002 - DRM DESVINCULAÇAO DE RECEITA, 1040 - Transferências do FUNDEB - Complementação da União - VAAR nos termos do inciso II, § 1º, art. 43, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Face ao crédito aberto fica alterado o Anexo I da Lei Municipal nº 1325 de 22 de julho de 2025, que dispõe sobre a Lei de Diretrizes Orçamentárias para o exercício de 2026.
+
+
+Art. 4º.
+
+Face ao crédito aberto fica alterado o Anexo I da Lei Municipal nº 1371 de 22 de dezembro de 2025, que dispõe sobre o Plano Plurianual para o período de 2026 a 2029.
+
+
+Art. 5º.
+
+O crédito adicional suplementar, a ser aberto na conformidade desta lei, terá vigência até 31 de dezembro de 2026.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 31 de agosto de 2026, 66º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2598 de 31/08/2026, pág. 32-38.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1571/ta

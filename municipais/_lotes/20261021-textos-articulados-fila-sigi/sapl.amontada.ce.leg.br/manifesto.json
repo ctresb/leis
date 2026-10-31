@@ -1,0 +1,212 @@
+{
+  "host": "sapl.amontada.ce.leg.br",
+  "metadados_unicos_observados": 1780,
+  "total_api_declarado": 1780,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1728,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/c95fa361ada2c1ecb1f9497d49c9ebdf9f7449473481ad547e60cfe0acbdfac0.json",
+    "url": "https://sapl.amontada.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0a8b652e82df04b0c572e05c78f91e3944579d2eda1211170575b6c7c5e15a43",
+    "bytes": 2631,
+    "capturado_em": "2026-10-21T05:38:13.077746-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e60d79a0989389ac9ea96bfa34b3a9d9f4a9ef99f759650418e13f5906b55eab.json",
+    "url": "https://sapl.amontada.ce.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.amontada.ce.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8a3f64d469446b1706dcd79b8db26db84a350830c9ce40f52104cea6a6e0e3ae",
+    "bytes": 851,
+    "capturado_em": "2026-10-21T05:38:11.746239-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/2566f16084f9a5e44bec6b723ed1c5679f59fb626d67e822676acbc0a712e29c.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7c7e248930657aef69841d861fd06db63db2e2b7271d3061287d09327d1c3a72",
+      "bytes": 61912,
+      "capturado_em": "2026-10-21T05:38:15.552652-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/eb4339abc50ef29363f7f813476808f7d5109e1487f2f9a64bb3bc234adff015.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "73c751da8ac23578f7a2b2881598380eeb4cdd0b9b1ef0cfa3bec9c5529e7a22",
+      "bytes": 59785,
+      "capturado_em": "2026-10-21T05:43:46.321192-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/8bae180ef12e97233e96768487c00f44c74dbe71b25c90d5dedb8c13d675f606.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "735cf72ac85bbe4c40db830cf7774f6b3f52e65f1b8b0d65bd66cfa30be5b079",
+      "bytes": 59429,
+      "capturado_em": "2026-10-21T05:49:40.016574-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/8b7ae10a3baa353af70bee3465d9a4e8e8b9a1046d79a7c79939eaff3f3401ec.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "83c455a614cc4801223a08041b39ca5b4241078207be06d6896346b01a4238be",
+      "bytes": 59607,
+      "capturado_em": "2026-10-21T05:55:25.068602-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/d59b2e7cfb59604b6e81b321469550f6f55548e434734e3bfefcdcdddc889f3b.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ca58d40dba7ac673b08f6a5451111e42f0f8c9f78aa563e2bf8dd89328b3fd62",
+      "bytes": 60691,
+      "capturado_em": "2026-10-21T06:00:37.355619-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/8e23947256b918f4d6e48cef0dcdf2d49478238f03eff0222857755323a837aa.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d977e02f98386bc577f66f58a5835a9f34573aaba4dd56d396c2fc8776c5001f",
+      "bytes": 60559,
+      "capturado_em": "2026-10-21T06:05:21.901486-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/be99b71e6e1d5348077b16324977c2dd72ab0b09e9f50bd26a163aaf019b330e.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "42c7e8ec3eaf52607f62c32962fb3a41a619bcfd06e4493a13a2e7836ab1ba1f",
+      "bytes": 60068,
+      "capturado_em": "2026-10-21T06:10:46.129683-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/c959bf66eb5a9f795eefbd7e62cf4c6bad3e2aeaecd36b06f266e95f079ddfe6.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "49381a5f4b27acd4cc2307ba90a0320d7fe8c07da17d3e82da509bbcc2be3cd7",
+      "bytes": 60868,
+      "capturado_em": "2026-10-21T06:16:38.712530-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/7c87e0552ba0fca35d049b4ec3f2e010a358896fafca17307a74d58259ef180b.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "afee689d2a050fab66e67bad9e43a72040ef4acc35bd8492812c6175887fb769",
+      "bytes": 57255,
+      "capturado_em": "2026-10-21T06:22:38.919143-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/f4d6b9c7b0e1875d3114a613d3437b9f270300c3f26a765835a83fb78544c629.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c88d0c171abb2d368ce29ccb5669a0bf4091c767f265727aecbb87a58bcfe81a",
+      "bytes": 57807,
+      "capturado_em": "2026-10-21T06:28:28.333925-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e8a7fbe63e82f56c12eec5dc9e6b01c179994e641bf9f72c9b0bb399e9421ab6.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "608e462a32dd7d28b31a1bce156c2425f1143018dd050e393928acaf21126f06",
+      "bytes": 56653,
+      "capturado_em": "2026-10-21T06:34:40.338848-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/0868a995a0f5bee597962d775bddf5010e5d68e00d53bf69970440385d69070b.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "26fff782df323b1f2d2e0eccca95f2ee7949d5c0148dec7668e82798eea5163e",
+      "bytes": 56679,
+      "capturado_em": "2026-10-21T06:44:56.966724-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/d2ebbda36f811b1d8d406a9814c1dcb8b40af063ad2946584de20fecc0294acb.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7c8eb7786c4d80a89f26f642529f06d9cacd6caa4bb09b6a38bc55b4924d0190",
+      "bytes": 56054,
+      "capturado_em": "2026-10-21T06:49:44.897191-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/6d06f71c46684127eb5d67d88e69f3fc6fb611d32485975d6355e5342bab1688.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "834c1fbfc64776fa7658eef155ccfd34fd24c1a2551d1a5280ae872aaa868e4e",
+      "bytes": 56030,
+      "capturado_em": "2026-10-21T06:55:36.419365-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/8fb0672c148e60b9459ec75e30fa32f4ff8b9a9a53c7e13b469e4dd1bf609ba4.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ce6d0028117c53babc41588b5972eb69c45beb469e39074342815b0f0c0a1f70",
+      "bytes": 57494,
+      "capturado_em": "2026-10-21T07:01:30.673975-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/57b27daf29f7b9524a74a5294b93427043c13dbaaa24e7d2e29e4c7b75746480.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c7c8a5589b06e37d4d8e828c51eb8786cea4670bdc78d48e39281e9d1617d67e",
+      "bytes": 56746,
+      "capturado_em": "2026-10-21T07:07:23.563283-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/cb0cf7fec17952b26a885b16f3b19875e5878b5ec093a89bac7cf7ba970c2303.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1598e24c8e0c1f9e242d30ef6f22bd4c26084ce8b48efb13beea2bd9a5ddb98a",
+      "bytes": 55397,
+      "capturado_em": "2026-10-21T07:14:03.390091-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/6d9dd097823b57aca2ba07849ea0cca05b59c4496733cddfbcc7452c967c17fd.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.amontada.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "754b82d96fe1f8462ac17b2ea8196050f19f7fd53f7e55a402f10acdf98d1ac6",
+      "bytes": 44614,
+      "capturado_em": "2026-10-21T07:19:26.692157-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

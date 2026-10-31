@@ -1,0 +1,32 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+Considerando o Ofício n.° 7152/2026/SEMED-DIORP, de 29 de julho de 2026, pelo qual a Secretaria Municipal de Educação - SEMED, solicita a movimentação de recursos referente ao Programa Unidos pela Educação Inclusiva, constante nos Processos Administrativos n.° 004.005998/2025-65 e n.° 004.006117/2025-23,
+
+**DECRETA:**
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 1.346.178,46 (um milhão, trezentos e quarenta e seis mil, cento e setenta e oito reais e quarenta e seis centavos).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVI do Artigo o 6º da Lei nº 3.348, de 27 de novembro de 2025 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>09.00 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td colspan="7"><p><strong>09.01 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DE DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>09.01.12.361.311.2.270</p></td><td><p>Aquisição de material pedagógico</p></td><td><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>121.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="4"><p>09.01.12.361.311.2.250</p></td><td rowspan="4"><p>Programas educacionais</p></td><td rowspan="4"><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>22.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.31</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>451.000,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>50.000,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.361.311.2.231</p></td><td><p>Modernização da infraestrutura física das unidades educacionais</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>250.920,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.361.311.2.752</p></td><td><p>Transporte escolar</p></td><td><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>61.639,45</p></td><td><p>-</p></td></tr><tr><td rowspan="2"><p>09.01.12.365.155.2.357</p></td><td rowspan="2"><p>Aquisição de material pedagógico - CRECHE</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>38.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.32</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>15.738,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.365.155.2.277</p></td><td><p>Modernização da infraestrutura física das unidades educacionais - CRECHE</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>95.001,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.365.155.2.288</p></td><td><p>Modernização da infraestrutura física das unidades educacionais - PRÉ-ESCOLA</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>100.000,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.365.155.2.015</p></td><td><p>Alimentação escolar/PRÉ-ESCOLA</p></td><td><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>100.000,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.367.149.2.365</p></td><td><p>Aquisição de material pedagógico e equipamentos</p></td><td><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>35.880,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.122.313.2.273</p></td><td><p>Manutenção da sede e unidades educacionais</p></td><td><p>FIS</p></td><td><p>3.3.90.48</p></td><td><p>1.500.0025.1001.0000</p></td><td><p>-</p></td><td><p>1.346.178,45</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>1.346.178,45</strong></p></td><td><p><strong>1.346.178,45</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>1.346.178,45</strong></p></td><td><p><strong>1.346.178,45</strong></p></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito do Município
+
+***WAGNER GARCIA DE FREITAS***
+
+Secretário Municipal de Economia
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município

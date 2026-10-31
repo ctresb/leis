@@ -1,0 +1,42 @@
+{
+  "host": "sapl.araguari.mg.leg.br",
+  "metadados_unicos_observados": 52,
+  "total_api_declarado": 52,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 49,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araguari.mg.leg.br/19d6c976243f69c5025023cbe7ae643313a1d6ec65379afc8b1bfc5abe3ef8b4.json",
+    "url": "https://sapl.araguari.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.araguari.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a5f5b3eaebf833caf8e5540f0a7624c091af10a62cea33e137aac71097c8d2fb",
+    "bytes": 952,
+    "capturado_em": "2026-10-27T16:53:01.539348-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araguari.mg.leg.br/d9c6a0ecc28523dcfe35386e863b9d8438bec930586bd45b46acfeb9d5342610.json",
+    "url": "https://sapl.araguari.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.araguari.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "97fb52a17cc3f8c391934ea8164c16b35deb777fb5b7d20de0c39328a4bfbaea",
+    "bytes": 754,
+    "capturado_em": "2026-10-27T16:53:00.740302-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araguari.mg.leg.br/f6ebb915d931a38bb9bdc25dee482a36e846f85affa8aa168aaecff2ca537b59.json",
+      "url": "https://sapl.araguari.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.araguari.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "706f35d42e7ced055e66a3014100b502aa4f5fe95ebbd98002277193e22e09a1",
+      "bytes": 30817,
+      "capturado_em": "2026-10-27T16:53:02.797868-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

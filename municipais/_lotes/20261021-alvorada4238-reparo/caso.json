@@ -1,0 +1,31 @@
+{
+  "path": "municipais/RS/alvorada/leis-ordinarias/2026/lei-ordinaria-4238-2026-6d5c2fbb.md",
+  "head": "70a564a1f0b1bc5084dccd1dcee9db13c544ead0",
+  "sha256_preimagem": "ca37ad824bb5fccd4258cfa053adffcc8cd471af8dfa0003713f942ed7ed37d3",
+  "sha256_pdf": "64bd928b860f125d4b92d332397fd7d61e72088e8f86c01d9a0ced55825f04fc",
+  "pdf_origem": "municipais/_fonte/famurs/2026-02-03-4260.pdf",
+  "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117772_2026-02-02_f67b0e07b95dbad3377e4fec8d918f86.pdf",
+  "pagina": 29,
+  "retangulos_pontos": {
+    "esquerda": [
+      22,
+      551,
+      295,
+      800
+    ],
+    "direita": [
+      305,
+      33,
+      576,
+      565
+    ]
+  },
+  "limites": {
+    "antes": "Código Identificador:306D4F67 — termo de permissão de uso da Secretaria Municipal de Educação",
+    "inicio": "SECRETARIA MUNICIPAL DE GOVERNO E GABINETE / LEI MUNICIPAL Nº 4.238, DE DOIS DE FEVEREIRO DE 2026.",
+    "fim": "Publicado por: Luana Angelica da Rosa Nunes / Código Identificador:6D5C2FBB",
+    "depois": "SECRETARIA MUNICIPAL DE GOVERNO E GABINETE / LEI MUNICIPAL Nº 4.239, DE DOIS DE FEVEREIRO DE 2026."
+  },
+  "captura_pdf_timestamp": null,
+  "limite_captura": "Cache primário preexistente; o timestamp da captura do PDF não está registrado. Não se usa a auditoria ou materialização como nova captura."
+}

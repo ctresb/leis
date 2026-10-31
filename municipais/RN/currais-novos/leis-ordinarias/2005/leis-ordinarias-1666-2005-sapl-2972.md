@@ -1,0 +1,146 @@
+---
+titulo: "Lei Ordinária-CMCN nº 1.666, de 25 de fevereiro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1666"
+data: "2005-02-25"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2026-04-22; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/2972"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/176/text"
+sha256_fonte: "37887da62e76b2d184e939e244a0efec22f0f6c5b9c35480ab0185d988f2843f"
+sha256_texto: "01f65bcfbbf0a1031ef8118040c6d28e584ebf0d625ceed4fa5d9e889da9a219"
+capturado_em_fonte: "2026-10-28T09:47:30.961240-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 1.666, de 25 de fevereiro de 2005
+
+Autoriza a contratação de pessoal por tempo determinado para atender às ações de epidemiologia e controle de doenças, nos termos do inciso IX, do art. 37, da Constituição Federal, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE CURRAIS NOVOS, ESTADO DO RIO GRANDE DO NORTE: FAÇO SABER que a Câmara Municipal de Currais Novos/RN, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária-CMCN nº 4.106, de 22 de abril de 2026.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária-CMCN nº 4.106, de 22 de abril de 2026.
+
+
+§ 2º
+
+As pessoas serão contratadas através de seleção feita pela Secretaria Municipal de Saúde e convocadas de acordo com a necessidade do Programa.
+
+
+Art. 2º.
+
+A remuneração será mensal e equivalente ao valor de um salário mínimo nacional determinado pelo Governo Federal.
+
+
+Parágrafo único
+
+As dotações orçamentárias para cumprimento do pagamento da remuneração citada no caput deste artigo, serão as seguintes:
+
+
+I –
+
+RECEITA: proveniente em parte da transferência efetuada pelo Ministério da Saúde, para o combate às epidemiologias e controle de doenças (ECD), e o complemento será oriundo do FPM - Fundo de Participação dos Municípios, constantes nas respectivas Leis Orçamentárias Municipais de cada um dos Exercícios Financeiros.
+
+
+II –
+
+DESPESAS: correrão à conta das rubricas específicas, na medida que se faça necessária, na Unidade Orçamentária da Secretaria Municipal de Saúde e do Fundo Municipal de Saúde, a saber: 319011 - Vencimentos e Vantagens Fixas - Pessoal Civil: 319013 - Obrigações Patronais; 319015 - Outras Despesas de Pessoal.
+
+
+Art. 3º.
+
+Fica proibida a contratação nos termos desta Lei, de servidores da Administração Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, bem como, de pessoas que já tenham vínculo empregatício.
+
+
+Parágrafo único
+
+Sem prejuízo da nulidade do contrato, a infração do disposto neste artigo importará na responsabilidade administrativa da autoridade Contratante e do Contratado, inclusive solidariedade quanto à devolução da remuneração percebida conforme constante no art. 2° desta Lei.
+
+
+Art. 4º.
+
+Fica vedado ao pessoal contratado nos termos desta Lei:
+
+
+I –
+
+receber atribuições, funções ou encargos não previstos no respectivo contrato;
+
+
+II –
+
+ser nomeado para Cargo de Confiança ou designado para Função Gratificada.
+
+
+Parágrafo único
+
+A inobservância do disposto neste artigo, importará na rescisão do contrato, sem prejuízo da responsabilidade administrativa das autoridades que lhe deram causa.
+
+
+Art. 5º.
+
+As infrações disciplinares atribuídas ao pessoal contatado nos termos desta Lei, serão apuradas mediante sindicância, concluída no prazo de 30 (trinta) dias, assegurada ampla defesa.
+
+
+Art. 6º.
+
+O contrato acordado nos termos desta Lei, extinguir-se-á sem direito às verbas indenizatórias, mas com direito às verbas rescisórias, de conformidade com o que determina a CLT, nos seguintes casos:
+
+
+I –
+
+pelo término do prazo contratual;
+
+
+II –
+
+por iniciativa do contratado;
+
+
+III –
+
+pela execução total antecipada das atividades em atender à Epidemiologia e Controle de Doenças, relacionadas ao combate ao mosquito AEDES AEGYPTI transmissor da DENGUE, ao CALAZAR, à DOENÇA DE CHAGAS.
+
+
+Parágrafo único
+
+a extinção do contrato no caso do inciso II deste artigo, deverá ser comunicada com antecedência mínima de 30 (trinta) dias.
+
+
+Art. 7º.
+
+O tempo de serviço prestado nos termos desta Lei, será computado para todos os efeitos legais.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Currais Novos - Palácio "Prefeito Raul Macedo", em 25 de fevereiro de 2005.
+
+**JOSÉ MARCIONILO DE BARROS LINS NETO**  
+Prefeito Municipal
+
+**ANDRE GUSTAVO OTHON DE OLIVEIRA**  
+Secretária Municipal de Saúde
+

@@ -1,0 +1,38 @@
+---
+titulo: "DECRETO Nº 023/2026 - GP, DE 05 DE MARÇO DE 2026."
+uf: "AM"
+municipio: "CARAUARI"
+tipo: "Decreto"
+numero: "023"
+data: 2026-03-05
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 10/03/2026"
+data_publicacao: 2026-03-10
+codigo_identificador: "E2ECEA00"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118813_2026-03-09_876e8ee51c2b01564e053746b89bfc4c.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 023/2026 - GP, DE 05 DE MARÇO DE 2026.
+
+DECRETO Nº 023/2026 - GP, DE 05 DE MARÇO DE 2026.
+Nomeia para o Cargo em Comissão de Coordenador
+CCC-II, e dá outras providências.
+O PREFEITO EM EXERCÍCIO DO MUNICÍPIO DE
+CARAUARI(AM), no uso das atribuições que lhe são conferidas por
+lei; nos termos do artigo 29 da Constituição Federal, e o artigo 61,
+incisos IV e VI da Lei Orgânica do Município; e
+Considerando a competência Administrativa de nomeação e
+exoneração dos ocupantes de Cargos de confiança, nos termos da Lei;
+
+GABINETE DO PREFEITO EM EXERCÍCIO DO MUNICÍPIO
+DE CARAUARI-AM, em 05 de março de 2026.
+JOSÉ MARIA PEREIRA SANTIAGO
+Prefeito em Exercício
+ANTONIO SOUZA FERREIRA
+Sec. Mun. de Administração
+ANDREA NEPONUCENO P. DE MELO
+Chefe de Gabinete
+Publicado por:
+Jucimar Chagas

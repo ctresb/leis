@@ -1,0 +1,15 @@
+{
+  "host": "sapl.jacana.rn.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.jacana.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacana.rn.leg.br/dcc7b7e6577d6009d12712446c7fc2a5ddb1504661768f7f97da7ba8c9b87d8d.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jacana.rn.leg.br/dcc7b7e6577d6009d12712446c7fc2a5ddb1504661768f7f97da7ba8c9b87d8d.meta.json"
+    }
+  ],
+  "total": 0
+}

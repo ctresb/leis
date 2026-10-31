@@ -1,0 +1,3082 @@
+---
+titulo: "Lei Complementar nº 146, de 21 de agosto de 2002"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "146"
+data: "2002-08-21"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2005-12-23; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/713"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/689/text"
+sha256_fonte: "78de4e11b24e87f734a7875f11c5c16a389b51e7e5c8806496307e573de5ace6"
+sha256_texto: "d976ed807203b258d9d45187b3d403709a47e4ab53042441e2ac4bbcf4f2df2c"
+capturado_em_fonte: "2026-10-27T21:44:36.555208-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 146, de 21 de agosto de 2002
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+### TÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+###### Subseção I
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+###### Subseção II
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+###### Subseção III
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+XVII –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 9º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+##### Seção X
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+#### CAPÍTULO VIII
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 68.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 69.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+### TÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 70.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 71.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 72.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 73.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 74.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 75.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 179, de 15 de dezembro de 2003.
+
+
+Art. 76.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 179, de 15 de dezembro de 2003.
+
+
+### TÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 77.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 78.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 79.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 80.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 81.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 82.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 83.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 84.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+### TÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 85.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 86.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 87.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 88.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+Art. 89.
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 238, de 23 de dezembro de 2005.
+

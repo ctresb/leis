@@ -1,0 +1,96 @@
+{
+  "host": "sapl.parademinas.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/lei_6502_-_anexos.pdf da norma Lei Ordinária nº 6.502, de 24 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexo I – Contém a descrição dos lotes a serem objeto da alienação através de regular procedimento licitatório, na forma da lei;\r\nAnexo II – Contém cópias reprográficas dos Laudos de Avaliação da Comissão Municipal de Regularização de lotes e áreas",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/1/lei_6502_-_anexos.pdf",
+      "ano": 2020,
+      "norma": 3830
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/lei_6524_-_anexos_do_ppa.pdf da norma Lei Ordinária nº 6.524, de 28 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Programas, Objetivos  e Metas da Administração para o quadriênio  (Consolidado)",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/2/lei_6524_-_anexos_do_ppa.pdf",
+      "ano": 2020,
+      "norma": 3942
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/3/anexos_lei_6522.pdf da norma Lei Ordinária nº 6.522, de 28 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexos de Metas Fiscais",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/3/anexos_lei_6522.pdf",
+      "ano": 2020,
+      "norma": 3940
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1964/4/anexo_res_136_1964.docx da norma Resoluções nº 136, de 10 de dezembro de 1964",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Relação de despesas a regularizar",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/1964/4/anexo_res_136_1964.docx",
+      "ano": 1964,
+      "norma": 4043
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1964/5/anx_res_119_1964.docx da norma Resoluções nº 119, de 01 de julho de 1964",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Relação a que se refere a Resolução n.º 119.",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/1964/5/anx_res_119_1964.docx",
+      "ano": 1964,
+      "norma": 3715
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1964/6/anx_res_20_1963.docx da norma Resoluções nº 20, de 20 de agosto de 1964",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "RELAÇÃO DAS DESPESAS A REGULARIZAR",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/1964/6/anx_res_20_1963.docx",
+      "ano": 1964,
+      "norma": 4204
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1963/7/anx_res_20_1963.docx da norma Resoluções nº 89, de 26 de fevereiro de 1963",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "RELAÇÃO DAS DESPESAS A REGULARIZAR",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/1963/7/anx_res_20_1963.docx",
+      "ano": 1963,
+      "norma": 4205
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/8/1622_texto_integral.pdf da norma Lei Ordinária nº 5.649, de 20 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO ÚNICO DA LEI N.º 5.649/2014 - PLANO MUNICIPAL DE SANEAMENTO BÁSICO DE PARÁ DE MINAS - MG",
+      "anexo_arquivo": "http://sapl.parademinas.mg.leg.br/media/sapl/public/anexonormajuridica/2014/8/1622_texto_integral.pdf",
+      "ano": 2014,
+      "norma": 1564
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.parademinas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parademinas.mg.leg.br/214c5506aed62429d6e9f3a687ba33ffc53897e5bdafd157224763f7c89dba63.json",
+      "sha256": "4a6bddf37f38d8278ef9b2d6206548805d3efabc297de53686d33bd1c8cef978",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parademinas.mg.leg.br/214c5506aed62429d6e9f3a687ba33ffc53897e5bdafd157224763f7c89dba63.meta.json"
+    }
+  ],
+  "total": 8
+}

@@ -1,0 +1,175 @@
+---
+titulo: "Lei Ordinária nº 3.081, de 13 de setembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3081"
+data: "1999-09-13"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2007-05-09; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5015"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/936/text"
+sha256_fonte: "66aab36044c85882efece710ef03342862f7c70232571b66aa88f1829e884867"
+sha256_texto: "76297d7127254d0ee39c1d018d4b7ed6814843de7a6dbe01d0d60afd3461f6e3"
+capturado_em_fonte: "2026-10-27T18:31:24.991924-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.081, de 13 de setembro de 1999
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº3081, DE 13 DE SETEMBRO DE 1999
+
+
+"Concede abono provisório aos servidores públicos municipais, ocupantes de cargos de nível superior, que menciona, e dá outras providências."
+
+
+Art. 1º.
+
+Fica estabelecida a concessão de abono provisório, até que se implante o Plano de Cargos, Carreira e Vencimentos, destinado aos Servidores que percebam remuneração inferior aos valores atualizados estabelecidos no art. 2° desta Lei e quе осuреm cargos de nível superior, exceto os da área educacional e o de Auditor Fiscal do Tesouro Municipal, dos quadros da Administração Direta, Indireta e Fundacional do Município.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 3.469, de 20 de fevereiro de 2004.
+
+
+Art. 2º.
+
+O valor do abono, variável, será apurado somando-se as parcelas percebidas sob os títulos descritos no parágrafo único, quando for o caso, com a referência inicial dos níveis relacionados no art.1º, cujo resultado será subtraído dos valores abaixo, para fixar o quantum a ser pago, conforme carga horária do Servidor:
+
+
+I –
+
+carga horária semanal de 20(vinte) horas: R$500,00 (quinhentos reais);
+
+
+II –
+
+25 (vinte e cinco) horas: R$550,00 (quinhentos e cinquenta reais);
+
+
+III –
+
+30 (trinta) horas: R$600,00 (seiscentos reais);
+
+
+IV –
+
+35 (trinta de cinco) horas: R$650,00 (seiscentos e cinquenta reais).
+
+
+Parágrafo único
+
+As parcelas a que alude o caput deste artigo tem os seguintes títulos: Lei 1718/83 Inc., Adicional de Função Gratificada, Hora Extra Incorporada, Adicional de Cargo em COmissão, Nível Universitário, Tempo Integral, Abono de Permanência em Serviço, CC-1, CC-2, CC-3, CC-4, CC-5, Verba de Representação, Gratificação, Adicional de Estímulo à Arrecadação, Ind. Lei 6708, Abono Especial, Adicional Especial, Adicional da revogada Lei 2671/94 (Incorporação), Produtividade Incorporada, Representação Proporcional Incorporada, Diferença de Cargo Comissionado Incorporado, Função Gratificada Incorporada, Gratificação Especial, Média FG e CC Incorporada.
+
+
+Art. 3º.
+
+Sobre a remuneração atingida na forma do art.2º, somente serão acrescentadas as vantagens pecuniárias abaixo, quando for o caso, incidentes, no entanto, sobre o vencimento básico (art. 25 da Lei 1718/83), respeitada a referência em que estiver enquadrado o servidor contemplado:
+
+
+I –
+
+Adicional de Tempo de Serviço - ATS;
+
+
+II –
+
+Adicional de Produtividade;
+
+
+III –
+
+Horas -Extras, desde que não incorporadas;
+
+
+IV –
+
+Adicional de Trabalho Noturno;
+
+
+V –
+
+Adicional de Periculosidade.
+
+
+VI –
+
+Gratificações concedidas pelo Chefe do Executivo, para desempenho de atividades específicas.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.640, de 09 de maio de 2007.
+
+
+Parágrafo único
+
+Também serão acrescentadas as parcelas "Salário - Família" e "Adicional de Insalubridade", quando devidas, tendo como base de cálculo o valor do salário-mínimo estabelecido pela União.
+
+
+Art. 4º.
+
+O abono de que trata esta lei, que não se incorpora ao vencimento básico, será computado para fins de:
+
+
+I –
+
+Cálculo de férias;
+
+
+II –
+
+Cálculo de décimo-terceiro salário (Abono de Natal);
+
+
+III –
+
+Licença Prêmio;
+
+
+IV –
+
+Auxílio Doença (art.71, parágrafo único da Lei nº1718/83).
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 3.094, de 26 de novembro de 1999.
+
+
+Art. 6º.
+
+A contribuição previdenciária obrigatória (Lei nº2949/97) e os descontos a título de Fundamp, Vale Alimentação ou Cesta Familiar e Vale Transporte incidirão sobre a remuneração total, quando couber.
+
+
+Parágrafo único
+
+Também as faltas ao trabalho serão descontadas conforme caput deste artigo.
+
+
+Art. 7º.
+
+Fica o Poder Executivo autorizado a regulamentar a presente Lei, em especial o art.2º, no prazo de 30(trinta) dias.
+
+
+Art. 8º.
+
+As despesas com esta Lei correrão por conta de dotações próprias dos orçamentos vigentes.
+
+
+Art. 9º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação, produzindo seus efeitos, entretanto, a partir de 1º de junho de 1999.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 13 DE SETEMBRO DE 1999.
+
+
+MARIA INÊS PANDELÓ CERQUEIRA
+
+PREFEITA
+

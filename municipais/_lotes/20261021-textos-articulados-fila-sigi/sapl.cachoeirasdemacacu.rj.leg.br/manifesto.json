@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cachoeirasdemacacu.rj.leg.br",
+  "metadados_unicos_observados": 36,
+  "total_api_declarado": 36,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirasdemacacu.rj.leg.br/7686c3ec8abbd28519dd8541ccfcacfcf80b6cc94bfb9c830a9ee542321d0d36.json",
+    "url": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "92835e04a91021304aa56957fdf92cd012e9062034d4bb8509bc41a93bbdc4e5",
+    "bytes": 959,
+    "capturado_em": "2026-10-27T21:04:06.638090-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirasdemacacu.rj.leg.br/e9e1e1e24ebc47a7dcb7ec9bcfb27b5a2303432f21c5924a0f10280ed01505ce.json",
+    "url": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "52157eea1260777b227499ff6dd239e3fbc3411215c54282d63fd97f30ed0597",
+    "bytes": 917,
+    "capturado_em": "2026-10-27T21:04:06.021885-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirasdemacacu.rj.leg.br/6988b8fd09f8ae523f407268f2b87c36472294e23dbbc5374a0cd39619fddffd.json",
+      "url": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cachoeirasdemacacu.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1442c71552554e0a22727cc1d33a837a4202a46daca08b76fa46852ba33a0850",
+      "bytes": 21507,
+      "capturado_em": "2026-10-27T21:04:08.791487-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,33 @@
+---
+titulo: "Decreto Legislativo nº 4, de 05 de agosto de 1997"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "4"
+data: "1997-08-05"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/2911"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1997/2911/decreto_04-1997.pdf"
+sha256_fonte: "6beb9af6b8ea4fa0d03c449c6e5d84fac169da8e7742b2ad8efc10a2a44d8f2a"
+sha256_texto: "54f767f3b248af398bfc4700293a97d5354838c5d5c114080ce734f60cd2093a"
+baixado_em: "2026-10-21"
+---
+
+# Decreto Legislativo nº 4, de 05 de agosto de 1997
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Câmara de Vereadores de vaiporã ESTADO DO PARANÁ GABINETE DA PRESIDENCIA
+
+DECRETO LEGISLATIVO N. 04/97 EMENTA: REFERENDA O TERMO DE ACORDO QUE FAZEM ENTRE SI, DE UM LADO O MUNICÍPIO DE IVAIPORÃ E DE OUTRO LADO O MUNICÍPIO DE ARI RANHA DO IVAI. A CAMARA MUNICIPAL DE IVAIPORA, ESTADO DO PARANA, APROVOU E EU PRESIDENTE, PROMULGO O SEGUINTE:
+
+DECRETO LEGISLATIVO
+
+ART. 1°- FICA REFERENDADO O TERMO DE ACORDO CELEBRADO ENTRE O MUNICI PIO DE IVAIPORÃ E O MUNICÍPIO DE ARIRANHA DO IVAÍ.
+
+ART.2°- O TERMO DE ACORDO ORA CELEBRADO, PASSA A INTEGRAR O PRESEN TE DECRETO LEGISLATIVO COM TODAS AS SUAS CLÁSULAS.
+
+ART.3º- REVOGAM-SE AS DISPOSIÇÕES EM CONTRÁRIO, O PRESENTE SERA A FIXADO NO LUGAR DE COSTUME E PUBLICADO NO ÓRGÃO OFICIAL DO MUNICIPIO. GABINETE DA PRESIDÊNCIA DA CÂMARA MUNICIPAL DE IVAIPORA, ES TADO DO PARANA, AOS CINCO DIAS DO MÊS DE AGOSTO DO ANO DE MIL, NO- VECENTOS E NOVENTA E SETE, 'ROBERTO BALBINO DA SILVA PRESIDENTE ANTONIO VILA REAL
+

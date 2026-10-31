@@ -1,0 +1,71 @@
+DISPÕE SOBRE CUSTEIO DE AMORTIZAÇÃO DE DÉFICIT ATUARIAL, DESTINADAS AO REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE BIRIGUI DO PLANO PREVIDENCIÁRIO.  
+Projeto de Lei nº 168/2023, de autoria do Prefeito Municipal.
+
+
+Eu, **LEANDRO MAFFEIS MILANI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído plano de amortização destinado ao equacionamento do deficit atuarial, conforme cálculo atuarial apresentado pelo BIRIGUIPREV, cujo valor a ser amortizado anualmente será de R$ 1.450.859,79, nos termos do anexo I, em conformidade com a Portaria MPS nº 861 de 06 de dezembro de 2023 que altera a Portaria MTP nº 1.467 de 2 de junho de 2022, que passa afazer parte integrante desta Lei.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.367, de 29 de fevereiro de 2024.
+
+
+Art. 2º.
+
+Os valores a serem amortizados iniciarão a partir de janeiro de 2024 e terminarão em dezembro de 2065 e deverão ser atualizados monetariamente pelo IPCA do mês anterior ao seu pagamento, em conformidade com a Lei 3.888 de 07 de fevereiro de 2001.
+
+
+Parágrafo único
+
+Os valores de que se trata o art. 1º desta lei, terão como data de vencimento o dia 10 do mês subsequente a sua competência, sendo que quando este recair em dia não útil o vencimento passará para o primeiro dia útil subsequente.
+
+
+Art. 3º.
+
+Caso a reavaliação atuarial anual, indique valores de amortizações diferentes dos percentuais a que dispõe o art. 1º desta lei, para fins de equacionamento do déficit atuarial, os valores da amortização dos Entes deverão ser revistos por meio de Decreto expedido pelo Chefe do Poder Executivo.
+
+
+Parágrafo único
+
+As amortizações de que se trata o caput nunca poderão ser inferiores as constantes do cálculo atuarial efetuado no exercício financeiro a que se referir o decreto.
+
+
+Art. 4º.
+
+No caso de atraso no pagamento da parcela mensal, serão cobrados os correspondentes juros de 5,00% ao ano *pró-rata* dia e atualização pela variação IPCA, considerando o prazo decorrido desde a data de vencimento da parcela e da data do efetivo pagamento.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 7.367, de 29 de fevereiro de 2024.
+
+
+Art. 5º.
+
+A responsabilidade pelos repasses dos valores de que se trata o art. 1º desta lei, serão dos Gestores titulares dos Poderes Legislativo com relação a seus servidores, Executivo com relação aos servidores vinculados a Prefeitura Municipal, e aos gestores titulares das Autarquias e Fundações quando estas tiverem servidores vinculados ao regime próprio de previdências municipal na forma desta lei.
+
+
+Parágrafo único
+
+Fica sob a responsabilidade da Superintendência do BIRIGUIPREV a informação antecipada dos valores a serem amortizados anualmente por cada Ente Federativo de que se trata o caput, até o mês de novembro do ano anterior ao repasse da amortização, ao Chefe do Executivo para fins de emissão de decreto com valores mensais de responsabilidade de Cada Ente Federativo.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos cinco de janeiro de dois mil e vinte e quatro.
+
+**LEANDRO MAFFEIS MILANI Prefeito Municipal**
+
+Publicada na Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**VICTÓRIA ZOCANTE DOS ANJOS Secretária Adjunta de Governo**
+
+
+## Anexo I — Tabela de Amortização do Déficit Atuarial
+
+
+<table><thead><tr><th rowspan="2">Ano</th><th rowspan="2">Saldo Inicial</th><th rowspan="2">Pagamento Anual</th><th rowspan="2">Pagamento Mensal</th><th colspan="2" rowspan="1">Composição do Pagamento</th><th rowspan="2">Saldo Final</th></tr><tr><th>Juros</th><th>Amortização</th></tr></thead><tbody><tr><td>2023</td><td>R$ 72.646.453,74</td><td>R$ 0,00</td><td>R$ 0,00</td><td>R$ 0,00</td><td>R$ 0,00</td><td>R$ 72.646.453,74</td></tr><tr><td>2024</td><td>R$ 72.646.453,74</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.433.774,00</td><td>R$ 537.199,68</td><td>R$ 72.109.254,06</td></tr><tr><td>2025</td><td>R$ 72.109.254,06</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.406.914,02</td><td>R$ 564.059,67</td><td>R$ 71.545.194,39</td></tr><tr><td>2026</td><td>R$ 71.545.194,39</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.378.711,04</td><td>R$ 592.262,65</td><td>R$ 70.952.931,74</td></tr><tr><td>2027</td><td>R$ 70.952.931,74</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.349.097,90</td><td>R$ 621.875,78</td><td>R$ 70.331.055,96</td></tr><tr><td>2028</td><td>R$ 70.331.055,96</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.318.004,11</td><td>R$ 652.969,57</td><td>R$ 69.678.086,39</td></tr><tr><td>2029</td><td>R$ 69.678.086,39</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.285.355,64</td><td>R$ 685.618,05</td><td>R$ 68.992.468,34</td></tr><tr><td>2030</td><td>R$ 68.992.468,34</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.251.074,73</td><td>R$ 719.898,95</td><td>R$ 68.272.569,38</td></tr><tr><td>2031</td><td>R$ 68.272.569,38</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.215.079,78</td><td>R$ 755.893,90</td><td>R$ 67.516.675,48</td></tr><tr><td>2032</td><td>R$ 67.516.675,48</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.177.285,09</td><td>R$ 793.688,60</td><td>R$ 66.722.986,89</td></tr><tr><td>2033</td><td>R$ 66.722.986,89</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.137.600,66</td><td>R$ 833.373,02</td><td>R$ 65.889.613,86</td></tr><tr><td>2034</td><td>R$ 65.889.613,86</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.095.932,01</td><td>R$ 875.041,68</td><td>R$ 65.014.572,19</td></tr><tr><td>2035</td><td>R$ 65.014.572,19</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.052.179,93</td><td>R$ 918.793,76</td><td>R$ 64.095.778,43</td></tr><tr><td>2036</td><td>R$ 64.095.778,43</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 3.006.240,24</td><td>R$ 964.733,45</td><td>R$ 63.131.044,98</td></tr><tr><td>2037</td><td>R$ 63.131.044,98</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.958.003,56</td><td>R$ 1.012.970,12</td><td>R$ 62.118.074,86</td></tr><tr><td>2038</td><td>R$ 62.118.074,86</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.907.355,06</td><td>R$ 1.063.618,63</td><td>R$ 61.054.456,23</td></tr><tr><td>2039</td><td>R$ 61.054.456,23</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.854.174,13</td><td>R$ 1.116.799,56</td><td>R$ 59.937.656,68</td></tr><tr><td>2040</td><td>R$ 59.937.656,68</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.798.334,15</td><td>R$ 1.172.639,54</td><td>R$ 58.765.017,14</td></tr><tr><td>2041</td><td>R$ 58.765.017,14</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.739.702,17</td><td>R$ 1.231.271,51</td><td>R$ 57.533.745,63</td></tr><tr><td>2042</td><td>R$ 57.533.745,63</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.678.138,60</td><td>R$ 1.292.835,09</td><td>R$ 56.240.910,54</td></tr><tr><td>2043</td><td>R$ 56.240.910,54</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.613.496,84</td><td>R$ 1.357.476,84</td><td>R$ 54.883.433,70</td></tr><tr><td>2044</td><td>R$ 54.883.433,70</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.545.623,00</td><td>R$ 1.425.350,68</td><td>R$ 53.458.083,01</td></tr><tr><td>2045</td><td>R$ 53.458.083,01</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.474.355,47</td><td>R$ 1.496.618,22</td><td>R$ 51.961.464,80</td></tr><tr><td>2046</td><td>R$ 51.961.464,80</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.399.524,56</td><td>R$ 1.571.449,13</td><td>R$ 50.390.015,67</td></tr><tr><td>2047</td><td>R$ 50.390.015,67</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.320.952,10</td><td>R$ 1.650.021,59</td><td>R$ 48.739.994,08</td></tr><tr><td>2048</td><td>R$ 48.739.994,08</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.238.451,02</td><td>R$ 1.732.522,67</td><td>R$ 47.007.471,41</td></tr><tr><td>2049</td><td>R$ 47.007.471,41</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.151.824,89</td><td>R$ 1.819.148,80</td><td>R$ 45.188.322,62</td></tr><tr><td>2050</td><td>R$ 45.188.322,62</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 2.060.867,45</td><td>R$ 1.910.106,24</td><td>R$ 43.278.216,38</td></tr><tr><td>2051</td><td>R$ 43.278.216,38</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.965.362,13</td><td>R$ 2.005.611,55</td><td>R$ 41.272.604,83</td></tr><tr><td>2052</td><td>R$ 41.272.604,83</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.865.081,56</td><td>R$ 2.105.892,13</td><td>R$ 39.166.712,70</td></tr><tr><td>2053</td><td>R$ 39.166.712,70</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.759.786,95</td><td>R$ 2.211.186,73</td><td>R$ 36.955.525,96</td></tr><tr><td>2054</td><td>R$ 36.955.525,96</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.649.227,61</td><td>R$ 2.321.746,07</td><td>R$ 34.633.779,89</td></tr><tr><td>2055</td><td>R$ 34.633.779,89</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.533.140,31</td><td>R$ 2.437.833,37</td><td>R$ 32.195.946,52</td></tr><tr><td>2056</td><td>R$ 32.195.946,52</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.411.248,64</td><td>R$ 2.559.725,04</td><td>R$ 29.636.221,47</td></tr><tr><td>2057</td><td>R$ 29.636.221,47</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.283.262,39</td><td>R$ 2.687.711,30</td><td>R$ 26.948.510,18</td></tr><tr><td>2058</td><td>R$ 26.948.510,18</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.148.876,82</td><td>R$ 2.822.096,86</td><td>R$ 24.126.413,32</td></tr><tr><td>2059</td><td>R$ 24.126.413,32</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 1.007.771,98</td><td>R$ 2.963.201,70</td><td>R$ 21.163.211,61</td></tr><tr><td>2060</td><td>R$ 21.163.211,61</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 859.611,90</td><td>R$ 3.111.361,79</td><td>R$ 18.051.849,83</td></tr><tr><td>2061</td><td>R$ 18.051.849,83</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 704.043,81</td><td>R$ 3.266.929,88</td><td>R$ 14.784.919,95</td></tr><tr><td>2062</td><td>R$ 14.784.919,95</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 540.697,31</td><td>R$ 3.430.276,37</td><td>R$ 11.354.643,58</td></tr><tr><td>2063</td><td>R$ 11.354.643,58</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 369.183,49</td><td>R$ 3.601.790,19</td><td>R$ 7.752.853,39</td></tr><tr><td>2064</td><td>R$ 7.752.853,39</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 189.093,99</td><td>R$ 3.781.879,70</td><td>R$ 3.970.973,69</td></tr><tr><td>2065</td><td>R$ 3.970.973,69</td><td>R$ 3.970.973,69</td><td>R$ 330.914,47</td><td>R$ 0,00</td><td>R$ 3.970.973,69</td><td>R$ 0,00</td></tr></tbody></table>

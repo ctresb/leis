@@ -1,0 +1,7 @@
+Auditoria somente leitura do HEAD 606a8a142f8e34abe91ab81cb60a3435d88adb92.
+Foram lidos 15.273 arquivos municipais publicados, sem usar baseline antigo, índice ou status Git global. Entre eles, 4.166 tinham vínculo SAPL identificável e todos esses tinham registro API em cache; 772 tinham cache do TA efetivamente usado. Os demais 11.107 arquivos não tiveram diagnóstico de API por falta de vínculo identificável, sem serem tratados como erro ou confirmados válidos.
+Foram examinados 10.760 JSONs existentes, em 341 hosts, sem HTTP adicional. Nenhuma proposta de revisão foi encontrada nas regras E/F, TA usado não público/modelo incompatível e Casa/IBGE explicitamente divergentes. Isso não certifica vigência, integralidade ou granularidade do corpus.
+Três JSONs vazios correspondem a HTTP 404 de IDs não identificados entre os publicados nesse HEAD; os metadados e a distinção foram preservados. Nenhum arquivo canônico foi modificado.
+5 testes passaram, incluindo ausência de cache, versão privada paralela não utilizada, versão efetivamente usada, conflito M/E e Casa ambígua.
+Para reproduzir: python3 -I scripts/auditar_municipais_head_api_offline.py --saida [diretório novo]. A repetição fixa o HEAD que estiver vigente no momento; compare o hash do snapshot no novo manifesto.
+Os hashes de todos os caches lidos constam do ledger; não se copiam coleções inteiras para a entrega.

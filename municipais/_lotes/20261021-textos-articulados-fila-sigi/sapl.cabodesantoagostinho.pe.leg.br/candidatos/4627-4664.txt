@@ -1,0 +1,201 @@
+**O PRESIDENTE DA CÂMARA MUNICIPAL DO CABO DE SANTO AGOSTINHO**, Estado de Pernambuco, no uso das atribuições legais e regimentais que lhe são conferidas pela Lei Orgânica do Município e pelo Regimento Interno desta Casa Legislativa;
+
+**CONSIDERANDO** a necessidade de modernização e simplificação dos procedimentos administrativos e legislativos no âmbito da Câmara Municipal;
+
+**CONSIDERANDO** a necessidade de conferir maior celeridade, transparência, segurança e eficiência à produção, assinatura, tramitação, comunicação e arquivamento de documentos;
+
+**CONSIDERANDO** a consolidação da utilização do Sistema de Apoio ao Processo Legislativo (SAPL) para o protocolo e tramitação das matérias legislativas;
+
+**CONSIDERANDO** a necessidade de assegurar a integridade, disponibilidade, confidencialidade e preservação de longo prazo dos documentos eletrônicos sob responsabilidade da Administração Pública;
+
+**RESOLVE:**
+
+
+Art. 1º.
+
+A produção, assinatura, tramitação, comunicação e arquivamento dos documentos administrativos e matérias legislativas no âmbito da Câmara Municipal do Cabo de Santo Agostinho ocorrerão preferencialmente em meio eletrônico, admitindo-se o meio físico de forma excepcional, nos termos desta Portaria.
+
+
+§ 1º
+
+Serão produzidos e tramitados preferencialmente na forma eletrônica, entre outros:
+
+
+I –
+
+requerimentos e solicitações de servidores;
+
+
+II –
+
+relatórios de atividades realizadas em regime de home office;
+
+
+III –
+
+relatórios de atividades externas;
+
+
+IV –
+
+matérias legislativas em geral, tais como indicações, projetos de lei, emendas, requerimentos parlamentares, entre outros;
+
+
+V –
+
+formulários, declarações, comunicações internas e documentos correlatos.
+
+
+§ 2º
+
+Quando utilizado o meio eletrônico, os documentos serão assinados mediante assinatura eletrônica ou digital admitida pela legislação vigente e pelas ferramentas disponibilizadas ou aceitas pela Câmara Municipal.
+
+
+§ 3º
+
+O uso do meio físico é admitido em caso de indisponibilidade técnica, necessidade administrativa ou circunstância excepcional que o justifique, sendo colhida a assinatura manuscrita do interessado ou responsável.
+
+
+Art. 2º.
+
+Os documentos eletrônicos serão elaborados mediante formulários, sistemas, plataformas, repositórios digitais ou arquivos eletrônicos disponibilizados pela Câmara Municipal, preferencialmente no formato PDF.
+
+
+Parágrafo único
+
+O documento eletrônico, após devidamente preenchido e assinado, será encaminhado ao setor competente por meio do sistema eletrônico correspondente, e-mail institucional ou outro canal oficial definido pela Administração.
+
+
+Art. 3º.
+
+Os requerimentos e demais solicitações de servidores serão encaminhados eletronicamente à chefia imediata ou diretamente ao setor competente, conforme a natureza do pedido.
+
+
+Art. 4º.
+
+Os relatórios de atividades realizadas em regime de home office e os relatórios de atividades externas deverão ser apresentados pelo servidor à respectiva chefia imediata, por meio eletrônico, para conhecimento, conferência ou aprovação, e posterior encaminhamento ao Departamento de Pessoal.
+
+
+Parágrafo único
+
+Excepcionalmente, na impossibilidade de envio eletrônico, os relatórios poderão ser apresentados em meio físico devidamente assinados.
+
+
+Art. 5º.
+
+Toda e qualquer matéria legislativa — incluindo indicações, projetos de lei, emendas, requerimentos e demais proposições parlamentares —, independentemente de sua origem, deverá ser formalmente protocolada no Sistema de Apoio ao Processo Legislativo (SAPL).
+
+
+§ 1º
+
+A elaboração, a apresentação e o protocolo das matérias legislativas serão realizados preferencialmente via sistema eletrônico.
+
+
+§ 2º
+
+Na hipótese de a matéria legislativa ser entregue em meio físico perante a Secretaria Geral ou setor competente, caberá ao setor responsável realizar a sua imediata digitalização e protocolo eletrônico no SAPL, garantindo a conversão do fluxo para o formato digital.
+
+
+Art. 6º.
+
+Os documentos e dados recebidos ou produzidos por meio eletrônico deverão ser armazenados em repositório adequado de arquivos, instalado em servidor próprio ou contratado, dotado de mecanismos de controle de acesso não autorizado, proteção à privacidade, durabilidade e rotinas automatizadas de cópia de segurança (backup).
+
+
+§ 1º
+
+O repositório oficial de armazenamento eletrônico será administrado, mantido e auditado pelo Departamento de Informática, a quem compete garantir a alta disponibilidade, a integridade e a segurança da informação.
+
+
+§ 2º
+
+Todo documento produzido ou recebido em meio físico deverá, preferencialmente e sempre que possível, ser digitalizado e arquivado eletronicamente no repositório mantido pelo Departamento de Informática.
+
+
+§ 3º
+
+O arquivamento da via física original, quando a lei ou o interesse público o exigir, será mantido pelo Departamento de Pessoal ou pelo setor guardião competente, sem prejuízo da disponibilização de sua cópia digital no repositório eletrônico.
+
+
+§ 4º
+
+É concedido o prazo de até 1 (um) ano, contado da publicação desta Portaria, para que o Departamento de Informática promova os ajustes técnicos, a estruturação dos repositórios e a adequação integral dos sistemas aos requisitos estabelecidos neste artigo.
+
+
+Art. 7º.
+
+Compete ao **Departamento de Informática** prestar apoio técnico aos departamentos, setores, gabinetes e servidores para implantação, operação e suporte aos procedimentos eletrônicos previstos nesta Portaria.
+
+
+§ 1º
+
+O suporte técnico compreenderá, entre outras atividades:
+
+
+I –
+
+criação e configuração de cadastros e permissões de acessos aos sistemas, sistemas, plataformas e repositórios utilizados pela Câmara Municipal;
+
+
+II –
+
+auxílio na criação, recuperação ou redefinição de credenciais e senhas de acesso, observadas as políticas de segurança da informação;
+
+
+III –
+
+orientação aos usuários quanto à utilização das ferramentas de assinatura eletrônica ou digital;
+
+
+IV –
+
+auxílio no primeiro acesso, cadastramento e configuração das plataformas de assinatura e sistemas de tramitação;
+
+
+V –
+
+orientação quanto à geração (preferencialmente em PDF), envio, recebimento, organização e armazenamento de documentos eletrônicos;
+
+
+VI –
+
+auxílio técnico aos setores na implantação dos fluxos digitais e integração com o SAPL;
+
+
+VII –
+
+prestação de suporte técnico contínuo em caso de indisponibilidade ou inconsistência nos sistemas e ferramentas utilizadas.
+
+
+§ 2º
+
+A responsabilidade pelo uso, guarda e sigilo do login e da senha de acesso é exclusivamente do usuário, sendo pessoal e intransferível a sua utilização em qualquer sistema da Câmara Municipal.
+
+
+§ 3º
+
+O Departamento de Informática poderá fornecer credenciais provisórias ou orientar o usuário no procedimento de criação ou redefinição de senha, adotando-se mecanismos automatizados que forcem a alteração da senha pelo próprio usuário no primeiro acesso e preservem sua estrita confidencialidade.
+
+
+Art. 8º.
+
+Os departamentos e demais unidades administrativas deverão colaborar ativamente com a migração para os procedimentos eletrônicos, promovendo a eliminação de trâmites em papel e buscando a máxima eficiência administrativa.
+
+
+Art. 9º.
+
+A apresentação ou tramitação de documento físico será restrita às situações de excepcionalidade, indisponibilidade técnica comprovada ou imperativo legal, devendo o documento físico ser digitalizado na primeira oportunidade técnica para inserção no repositório eletrônico.
+
+
+Art. 10.
+
+Esta Portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Cabo de Santo Agostinho-PE, 31 de agosto de 2026
+
+***MÁRIO ANDERSON DA SILVA BARRETO***  
+Presidente
+
+**Publicado por:**  
+Jose Carlos Amorim de Araujo  
+**Código Identificador:**30AAB4EB

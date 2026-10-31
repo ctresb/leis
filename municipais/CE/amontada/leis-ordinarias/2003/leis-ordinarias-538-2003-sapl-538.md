@@ -1,0 +1,190 @@
+---
+titulo: "Lei nº 538, de 10 de novembro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "538"
+data: "2003-11-10"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/538"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1012/text"
+sha256_fonte: "78be406651cd55530439ef103059f79b2819a78041b3e3930c0726d8b60dd3b6"
+sha256_texto: "f9b0ce49178ee78138545d8152f92c86564c87617a09c1488dad91aa6e2acd36"
+capturado_em_fonte: "2026-10-21T06:51:31.781486-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 538, de 10 de novembro de 2003
+
+Cria a Coordenadoria Municipal de Defesa Civil – COMDEC, e dá outras providências.
+
+
+**PREFEITURA MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ, Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte Lei, no uso de suas atribuições legais e,**
+
+
+Art. 1º.
+
+Fica criado o **Sistema Municipal de Defesa Civil,** com a finalidade de coordenar as medidas permanentes de defesa, destinadas a prevenir conseqüências nocivas de eventos desastrosos, e a socorrer as populações e as áreas atingidas.
+
+
+Art. 2º.
+
+A Defesa Civil compreende o conjunto de medidas permanentes preventivas, de socorro, assistenciais e recuperativas, destinadas a evitar conseqüências danosas de eventos desastrosos, previsíveis e imprevisíveis, preservar a moral da população e restabelecer o bem-estar social.
+
+
+Art. 3º.
+
+O Sistema Municipal de Defesa Civil constitui o instrumento de coordenação dos esforços de todos os órgãos públicos e privados e com a comunidade em geral, para planejamento e execução das medidas previstas no artigo anterior.
+
+
+Art. 4º.
+
+Compõe o Sistema Municipal de Defesa Civil:
+
+
+a)
+
+A Coordenadoria Municipal de Defesa Civil - COMDEC, subordinada diretamente ao Chefe do Executivo Municipal;
+
+
+b)
+
+Os Núcleos Comunitários de Defesa Civil - NUDEC, organizados pela comunidade;
+
+
+Parágrafo único
+
+O Sistema Municipal de Defesa Civil integrará funcionalmente o Sistema Estadual de Defesa Civil.
+
+
+Art. 5º.
+
+A Coordenadoria Municipal de Defesa Civil - COMDEC, coordenará e orientará, no âmbito municipal, todas as medidas previstas no artigo 2° deste projeto.
+
+
+Art. 6º.
+
+O Chefe do Poder Executivo designará o Presidente e o Secretário Executivo da COMDEC, que atuarão de forma voluntária nas suas atribuições.
+
+
+§ 1º
+
+Presidente da COMDEC tem as atribuições de:
+
+
+I –
+
+Requisitar, nomear e remanejar funcionários para composição dos grupos de Defesa Civil;
+
+
+II –
+
+Convocar e presidir as reuniões do Sistema Municipal de Defesa Civil;
+
+
+III –
+
+Representar a COMDEC nos eventos a que esta for convocada;
+
+
+IV –
+
+Justificar perante as Entidades representadas as faltas de cada membro, durante as reuniões e operações de assistência.
+
+
+§ 2º
+
+O Secretário Executivo da COMDEC tem as seguintes atribuições:
+
+
+I –
+
+Secretariar administrativamente as atividades inerentes a COMDEC, contidas no Art. 2° deste Projeto;
+
+
+II –
+
+Acompanhar as ações pertinentes a COMDEC, expedindo relatórios sobre os procedimentos tomados;
+
+
+§ 3º
+
+O Chefe do Executivo definirá o Órgão Municipal que se encarregará de dar suporte administrativo à COMDEC.
+
+
+Art. 7º.
+
+A Coordenadoria Municipal de Defesa Civil - COMDEC é constituída da seguinte forma:
+
+
+**Presidência ou Coordenadoria:**  
+- 01 Representante nomeado pelo Poder Executivo.
+
+
+**Secretaria Executiva:**  
+- 01 Representante nomeado pelo Poder Executivo.
+
+
+**Conselho Técnico:**  
+- 02 Representantes do Governo Municipal;  
+- 02 Representantes do Governo Estadual;  
+- 02 Representantes do Governo Federal.
+
+
+**Conselho Comunitário:**  
+- 02 Representantes da Câmara Municipal;  
+- 01 Representante de Igrejas;  
+- 01 Representante do Sindicato dos Trabalhadores Rurais;  
+- 01 Representante de Associações Comunitárias;  
+- 01 Representante dos Conselhos Setoriais.
+
+
+Art. 8º.
+
+Quaisquer dos órgãos ou membros representantes ou componentes da COMDEC deverão informar imediata e inadiavelmente à Secretaria Executiva da COMDEC, quaisquer ocorrências anormais e adversas que possam afetar gravemente à comunidade municipal, privando-a total ou parcialmente, do atendimento de suas necessidades de seus elementos componentes.
+
+
+Art. 9º.
+
+Tão logo tenha a notícia da ocorrência de qualquer evento desastroso, o Secretário Executivo tomará as medidas necessárias para adicionar o Sistema, em estreita articulação com o Presidente.
+
+
+§ 1º
+
+Para o cumprimento do disposto neste artigo, fica a COMDEC, investida de todos os poderes necessários, durante a ocorrência de eventos desastrosos e no período necessário à normalização da situação.
+
+
+§ 2º
+
+Se a situação exigir, o Secretário Executivo delimitará a área atingida, para efeito de emissão de Declaração da Situação de Emergência.
+
+
+§ 3º
+
+Se entender necessário, o Secretário Executivo, através do Presidente da COMDEC, proporá ao Prefeito a Decretação do Estado de Calamidade Pública.
+
+
+Art. 10.
+
+A COMDEC baixará Regulamento para funcionamento do Sistema Municipal de Defesa Civil.
+
+
+Art. 11.
+
+Será considerado serviço relevante, devendo constar dos assentamentos funcionais do participante em serviços de Defesa Civil, quando da ocorrência de eventos desastrosos.
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se a Lei N° 006 de 01 de março de 1986.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA-CE, AOS 10 DE NOVEMBRO DE 2003.**
+
+**FRANCISCO EDILSON TEIXEIRA Prefeito Municipal**
+

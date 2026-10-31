@@ -1,0 +1,86 @@
+{
+  "host": "sapl.heliodora.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/lei_complementar_58.pdf da norma Lei Complementar-EXE nº 58, de 24 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "\"Altera dispositivos da Lei Complementar nº 012/2009 e dá outras providências.\"",
+      "anexo_arquivo": "http://sapl.heliodora.mg.leg.br/media/sapl/public/anexonormajuridica/2022/1/lei_complementar_58.pdf",
+      "ano": 2022,
+      "norma": 2607
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/lei_complemntar_59.pdf da norma Lei Complementar-EXE nº 59, de 24 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "\"Altera dispositivos da Lei Complementar nº 049/2021 e dá outras providências.\"",
+      "anexo_arquivo": "http://sapl.heliodora.mg.leg.br/media/sapl/public/anexonormajuridica/2022/2/lei_complemntar_59.pdf",
+      "ano": 2022,
+      "norma": 2608
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/lei_complementar_60.pdf da norma Lei Complementar-EXE nº 60, de 26 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Altera os dispositivos da Lei Municipal nº 1.813, de 13 de dezembro de 2016, a qual dispõe sobre a reestruturação do Regime Próprio de Previdência Social dos Servidores do Município de Heliodora-MG e dá outras providências.",
+      "anexo_arquivo": "http://sapl.heliodora.mg.leg.br/media/sapl/public/anexonormajuridica/2022/3/lei_complementar_60.pdf",
+      "ano": 2022,
+      "norma": 2609
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/4/lei_complementar_60.pdf da norma Lei nº 1.813, de 28 de novembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Altera os dispositivos da Lei Municipal nº 1.813, de 13 de dezembro d e2016, a qual dispõe sobre a reestruturação do Regime Próprio de Previdência Social dos Servidores do Município de Heliodora-MG e dá outras providências.",
+      "anexo_arquivo": "http://sapl.heliodora.mg.leg.br/media/sapl/public/anexonormajuridica/2016/4/lei_complementar_60.pdf",
+      "ano": 2016,
+      "norma": 2247
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/5/lei_complementar_60.pdf da norma Lei nº 1.813, de 28 de novembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.heliodora.mg.leg.br/media/sapl/public/anexonormajuridica/2016/5/lei_complementar_60.pdf",
+      "ano": 2016,
+      "norma": 2247
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/emenda__a_lei_organica_no_092022.pdf da norma Lei nº 757, de 01 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.heliodora.mg.leg.br/media/sapl/public/anexonormajuridica/2022/6/emenda__a_lei_organica_no_092022.pdf",
+      "ano": 2022,
+      "norma": 2653
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/7/emenda__a_lei_organica_no_092022.pdf da norma Lei nº 757, de 01 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.heliodora.mg.leg.br/media/sapl/public/anexonormajuridica/1990/7/emenda__a_lei_organica_no_092022.pdf",
+      "ano": 1990,
+      "norma": 1840
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.heliodora.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.heliodora.mg.leg.br/f02f8a2fad15b4c0177e4b9de17532b02af9c298d1a00255592a3f827e5b324e.json",
+      "sha256": "4b8fd1c3e1ddc0e0912c8ea0418764da65dcbec13e6d0ed828b40cfb8bd915d2",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.heliodora.mg.leg.br/f02f8a2fad15b4c0177e4b9de17532b02af9c298d1a00255592a3f827e5b324e.meta.json"
+    }
+  ],
+  "total": 7
+}

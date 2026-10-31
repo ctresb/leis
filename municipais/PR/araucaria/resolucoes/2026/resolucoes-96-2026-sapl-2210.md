@@ -1,0 +1,530 @@
+---
+titulo: "Resolução nº 96, de 19 de maio de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "96"
+data: "2026-05-19"
+municipio: "Araucária"
+uf: "PR"
+codigo_ibge: "4101804"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araucaria.pr.leg.br/norma/2210"
+fonte_texto: "https://sapl.araucaria.pr.leg.br/ta/180/text"
+sha256_fonte: "27ae201ecbd990837f229bac3367b2cc5385768a244de0f3626d34ab7a54f5c5"
+sha256_texto: "8ae4a7176379072069689a49a7ca3ebea33ea127cff265827b44f1a7c6232723"
+capturado_em_fonte: "2026-10-27T16:57:38.087138-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 96, de 19 de maio de 2026
+
+RESOLUÇÃO Nº 96, DE 19 DE MAIO DE 2026
+
+
+Regulamenta a aplicação da Lei Federal nº 13.709, de 14 de agosto de 2018 Lei Geral de Proteção de Dados Pessoais (LGPD) no âmbito do Poder Legislativo Municipal de Araucária e dá outras providências
+
+
+A Câmara Municipal de Araucária, Estado do Paraná, aprovou e eu, Presidente, promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta resolução regulamenta a aplicação da Lei Federal nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD) — no âmbito do Poder Legislativo Municipal de Araucária, estabelecendo competências, procedimentos e providências correlatas a serem observados por seus órgãos e entidades, visando garantir a proteção de dados pessoais.
+
+
+##### Seção I — Das Definições
+
+
+Art. 2º.
+
+Para fins desta Resolução, considera-se:
+
+
+I –
+
+dado pessoal: informação relacionada a pessoa natural identificada ou identificável;
+
+
+II –
+
+dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
+
+
+III –
+
+dado anonimizado: dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;
+
+
+IV –
+
+banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vários locais, em suporte eletrônico ou físico;
+
+
+V –
+
+titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento;
+
+
+VI –
+
+responsável legal: pessoa natural a quem competem as decisões referentes ao tratamento de dados pessoais, podendo ser o Presidente da Câmara Municipal, tendo atribuições equivalentes ao inciso VI do art. 5º da LGPD.
+
+
+VII –
+
+operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do Presidente da Câmara Municipal;
+
+
+VIII –
+
+encarregado: servidor efetivo indicado pelo Presidente da Câmara para atuar como canal de comunicação entre o Presidente da Câmara, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
+
+
+IX –
+
+agentes de tratamento: o representante legal e o operador;
+
+
+X –
+
+tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração;
+
+
+XI –
+
+anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo;
+
+
+XII –
+
+consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada;
+
+
+XIII –
+
+bloqueio: suspensão temporária de qualquer operação de tratamento, mediante guarda do dado pessoal ou do banco de dados;
+
+
+XIV –
+
+eliminação: exclusão de dado ou de conjunto de dados armazenados em banco de dados, independentemente do procedimento empregado;
+
+
+XV –
+
+transferência internacional de dados: transferência de dados pessoais para país estrangeiro ou organismo internacional do qual o país seja membro;
+
+
+XVI –
+
+uso compartilhado de dados: comunicação, difusão, transferência internacional, interconexão de dados pessoais ou tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicas no cumprimento de suas competências legais, ou entre esses entes privados, reciprocamente, com autorização específica, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados;
+
+
+XVII –
+
+relatório de impacto à proteção de dados pessoais: documentação do encarregado que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco;
+
+
+XVIII –
+
+órgão de pesquisa: órgão ou entidade da administração pública direta ou indireta ou pessoa jurídica de direito privado sem fins lucrativos legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão institucional ou em seu objetivo social ou estatutário a pesquisa básica ou aplicada de caráter histórico, científico, tecnológico ou estatístico;
+
+
+XIX –
+
+autoridade local: órgão da administração pública responsável por zelar, implementar e fiscalizar o cumprimento desta Lei em todo o território local;
+
+
+XX –
+
+unidade de controle interno: unidade não integrante do processo de proteção de dados, a qual deve manter sua independência funcional, podendo fiscalizar o processo para subsidiar a alta administração;
+
+
+XXI –
+
+assessoramento jurídico: unidade não integrante do processo de proteção de dados, a qual deve manter sua independência funcional, podendo fiscalizar e/ou assessorar no processo para subsidiar a alta administração.
+
+
+Art. 3º.
+
+As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:
+
+
+I –
+
+finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+
+
+II –
+
+adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento;
+
+
+III –
+
+necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+
+
+IV –
+
+livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais;
+
+
+V –
+
+qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;
+
+
+VI –
+
+transparência: garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+
+
+VII –
+
+segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;
+
+
+VIII –
+
+prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;
+
+
+IX –
+
+não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos;
+
+
+X –
+
+responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas;
+
+
+XI –
+
+segregação de funções: o encarregado, assim como os órgãos de controle interno e assessoramento jurídico, não podem se confundir, devendo ter funções separadas.
+
+
+##### Seção II — Da Política de Proteção de Dados
+
+
+Art. 4º.
+
+A Política de Proteção de Dados Pessoais corresponde à compilação de regras de boas práticas e de governança para tratamento de dados pessoais, de observância obrigatória, devendo conter, no mínimo:
+
+
+I –
+
+descrição das condições de organização, de funcionamento e dos procedimentos de tratamento, abrangendo normas de segurança, padrões técnicos, mecanismos internos de supervisão e de mitigação de riscos, plano de resposta a incidentes de segurança, bem como obrigações específicas para os agentes envolvidos no tratamento e ações educativas aplicáveis;
+
+
+II –
+
+indicação da forma de publicidade das operações de tratamento, preferencialmente em espaço específico nos respectivos sítios eletrônicos oficiais, respeitadas as recomendações da autoridade nacional;
+
+
+III –
+
+enumeração dos meios de manutenção de dados em formato interoperável e estruturado, para seu uso compartilhado e acesso das informações pelo público em geral, nos termos das Leis Federais nº 12.527, de 18 de novembro de 2011, e nº 13.709, de 2018.
+
+
+§ 1º
+
+Considera-se legítimo interesse da Câmara Municipal de Araucária, de que trata o art. 10 da Lei Federal nº 13.709, de 2018, sem prejuízo de outras hipóteses previstas em Regimento Interno, a promoção da instituição, a aproximação com a sociedade, a preservação histórica, o exercício das atividades de representação do povo araucariense de legislar sobre os assuntos de interesse local, de controle e fiscalização dos atos do Poder Executivo Municipal e da aplicação dos recursos públicos, e o fortalecimento da democracia, assim como aquelas atividades decorrentes de suas autonomias financeira e administrativa.
+
+
+§ 2º
+
+Os direitos do titular de dados pessoais, em qualquer caso, serão ponderados com o interesse público de conservação de dados históricos, preservação da transparência da instituição e das condutas de agentes públicos, no exercício de suas atribuições, e divulgação de informações relevantes à sociedade, no exercício da democracia.
+
+
+§ 3º
+
+O Canal de Denúncias deve assegurar a possibilidade da denúncia sigilosa e anônima, a fim de resguardar o denunciante de represálias.
+
+
+Art. 5º.
+
+Qualquer empresa contratada pela Câmara Municipal de Araucária que atue como operadora de dados pessoais deverá realizar o devido tratamento conforme a Lei Federal nº 13.709, de 2018 — Lei Geral de Proteção de dados Pessoais (LGPD), devendo o Encarregado orientar a observância dos preceitos, instruções e das normas sobre a matéria.
+
+
+Art. 6º.
+
+As fases de implementação do Política de Proteção de Dados são:
+
+
+I –
+
+elaboração, aprovação e publicação da presente Resolução;
+
+
+II –
+
+designação de servidor público efetivo da Câmara para a função de encarregado;
+
+
+III –
+
+estruturação do Plano de Proteção de Dados;
+
+
+IV –
+
+levantamento do atual sistema de dados e seus riscos;
+
+
+V –
+
+definição dos requisitos, como medidas de mitigação dos riscos identificados;
+
+
+VI –
+
+desenho dos processos e procedimentos de Tratamento de Dados;
+
+
+VII –
+
+comunicação e treinamento;
+
+
+VIII –
+
+alinhamento com plano de integridade;
+
+
+IX –
+
+alinhamento com código de ética e conduta;
+
+
+X –
+
+aprimoramento e monitoramento do funcionamento da política.
+
+
+§ 1º
+
+As etapas e fases de implementação da Política de Proteção de Dados serão estruturadas por ato do Chefe do Poder Legislativo e devem ser coordenadas com o objetivo de garantir uma atuação inteligente e harmônica da Administração Pública na condução das ações relacionadas à Política de Proteção de Dados.
+
+
+§ 2º
+
+Os mecanismos estabelecidos nesta Resolução visam proteger a entidade, bem como impor aos agentes públicos e políticos o compromisso com a ética, o respeito, a integridade e a eficiência na prestação do serviço público.
+
+
+##### Seção III — Do Plano de Proteção de Dados
+
+
+Art. 7º.
+
+O Plano de Proteção de Dados é o documento oficial do órgão ou entidade que contempla os principais riscos de integridade da organização, as medidas e preceitos de tratamento dos riscos identificados e a forma de implementação e monitoramento da Política de Proteção de Dados.
+
+
+Art. 8º.
+
+São partes integrantes do Plano de uma organização no mínimo:
+
+
+I –
+
+objetivos do Plano;
+
+
+II –
+
+caracterização geral do órgão ou entidade;
+
+
+III –
+
+identificação e classificação dos riscos;
+
+
+IV –
+
+monitoramento, atualização e avaliação do Plano;
+
+
+Art. 9º.
+
+O Plano de Proteção de Dados, após aprovado pela autoridade máxima da Câmara Municipal, deverá ser divulgado internamente, para ciência e cumprimento pelos agentes públicos envolvidos, assim como deverá ser divulgado no site oficial da Câmara Municipal de Araucária, em aba específica, para acesso pelo cidadão.
+
+
+§ 1º
+
+O Plano poderá ser revisado a qualquer tempo, visando ao seu aprimoramento e à melhora dos resultados esperados.
+
+
+§ 2º
+
+Os agentes públicos mencionados no caput deste artigo poderão apresentar sugestões para o aprimoramento das ações contidas.
+
+
+Art. 10.
+
+A partir da concepção do Plano, deverão ser concebidos os requisitos, como medidas de mitigação dos riscos identificados, bem como a matriz de responsabilidade dos riscos.
+
+
+Parágrafo único
+
+Todo e qualquer procedimento, processo de controle e de boas práticas devem ser documentados pela instituição.
+
+
+Art. 11.
+
+O Plano será elaborado pelo encarregado designado a este fim.
+
+
+##### Seção IV — Do Encarregado
+
+
+Art. 12.
+
+O Encarregado é o servidor efetivo da Câmara Municipal nomeado para ser o responsável pela elaboração do Plano de seu órgão ou entidade, tendo capacidade e conhecimento suficiente sobre a estrutura e funcionamento de seu órgão ou entidade.
+
+
+Parágrafo único
+
+O servidor designado para atuar como Encarregado perceberá gratificação nos termos da Lei Municipal nº 3.184, de 26 de outubro de 2017, ou outra que vier a lhe substituir.
+
+
+Art. 13.
+
+A depender da complexidade da estrutura, funcionamento e dimensão do órgão ou entidade, poderá ser designado um Grupo de Trabalho — GT, de Agentes Auxiliares.
+
+
+Art. 14.
+
+Deverá ser designado um servidor suplente para o Encarregado, que responderá e atenderá as demandas na sua ausência.
+
+
+Art. 15.
+
+O Presidente deverá indicar o encarregado pelo tratamento de dados pessoais.
+
+
+§ 1º
+
+A identidade e as informações de contato do encarregado deverão ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador.
+
+
+§ 2º
+
+As atividades do encarregado consistem em:
+
+
+I –
+
+aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências;
+
+
+II –
+
+receber comunicações da autoridade nacional e adotar providências;
+
+
+III –
+
+orientar os funcionários e os contratados da entidade a respeito das práticas a serem tomadas em relação à proteção de dados pessoais;
+
+
+IV –
+
+atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados — ANPD, cumprindo com atribuições que possam vir a ser estabelecidas pela ANPD;
+
+
+V –
+
+elaborar Planos de Adequação relativos à proteção de dados pessoais no âmbito do Poder Legislativo Municipal;
+
+
+VI –
+
+elaborar o Relatório de Impacto à proteção de dados pessoais com a descrição dos processos de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como as medidas e salvaguardas e mecanismos de mitigação de riscos;
+
+
+VII –
+
+submeter à Comissão de Proteção de Dados Pessoais, sempre que julgar necessário, matérias atinentes a esta Resolução;
+
+
+VIII –
+
+a comissão mencionada no inciso VII destina-se ao estudo de tema específico para subsidiar o encarregado. A mesma comissão tem caráter temporário;
+
+
+IX –
+
+comunicar a Autoridade Nacional de Proteção de Dados a transferência de dados pessoais a entidades privadas, sempre que informada pelos responsáveis de cada órgão ou entidade, desde que prevista em lei ou respaldada em contratos, convênios ou outros ajustes, observadas as condições previstas no art. 6º desta Resolução;
+
+
+X –
+
+informar a Autoridade Nacional de Proteção de Dados a comunicação ou o uso compartilhado de dados pessoais de pessoas naturais ou jurídicas de direito privado;
+
+
+XI –
+
+encaminhar ofícios e expedientes aos responsáveis pelos departamentos destinatários da presente Resolução;
+
+
+XII –
+
+encaminhar orientações e diretrizes acerca da matéria, que devem ser atendidas por todos os servidores e respectivos titulares das pastas nos prazos eventualmente por ele consignados, sob pena de responsabilização, se o não atendimento resultar em prejuízo ao Poder Legislativo Municipal;
+
+
+XIII –
+
+executar as demais atribuições determinadas pelo Presidente da Câmara ou estabelecidas em normas complementares.
+
+
+#### CAPÍTULO II — DISPOSIÇÕES FINAIS
+
+
+Art. 16.
+
+É dever das diretorias e setores utilizar os recursos disponíveis e empreender os esforços necessários para promover ações de fomento à cultura da Proteção de Dados.
+
+
+§ 1º
+
+No desempenho das atividades e procedimentos relacionados ao Plano de Proteção de Dados todos os agentes públicos e políticos devem engajar-se, disseminar e demonstrar efetivo alinhamento e compromisso com os princípios e valores da Política, em todas as suas atitudes diárias.
+
+
+§ 2º
+
+Para o desenvolvimento e implementação do Plano de Proteção de Dados, a instituição deverá estabelecer ambiente organizacional favorável.
+
+
+§ 3º
+
+Entende-se por ambiente organizacional favorável à Proteção de Dados aquele que apresenta efetivo apoio da alta administração, atribuições bem definidas, servidores cumpridores de seus deveres e com conduta alinhada à ética, à moral, ao respeito às leis, às pessoas e às instituições.
+
+
+Art. 17.
+
+Poderá ser contratado, observadas as normas de contratações vigentes, assessoria de empresa especializada para auxiliar na implementação de todas as etapas da Política de Proteção de Dados, bem como para auxílio na elaboração de documentos necessários para esse fim.
+
+
+Art. 18.
+
+Aplica-se subsidiariamente e no que couber as regras gerais previstas na Lei Federal nº 13.709, de 2018.
+
+
+Art. 19.
+
+Esta Resolução entra em vigor no prazo de 60 (sessenta) dias a partir da data de sua publicação.
+
+
+Câmara Municipal de Araucária, 19 de maio de 2026
+
+
+EDUARDO RODRIGO DE CASTILHOS Presidente
+

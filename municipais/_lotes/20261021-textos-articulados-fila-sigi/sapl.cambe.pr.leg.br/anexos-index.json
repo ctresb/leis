@@ -1,0 +1,58 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/portaria_no._020-2018_-_convocacao_pietro.pdf da norma Portarias - Outros nº 20, de 01 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cambe.pr.leg.br/media/sapl/public/anexonormajuridica/2018/1/portaria_no._020-2018_-_convocacao_pietro.pdf",
+      "ano": 2018,
+      "norma": 3743
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/tabela_de_vencimentos.pdf da norma Lei Complementar nº 83, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Vencimentos",
+      "anexo_arquivo": "http://sapl.cambe.pr.leg.br/media/sapl/public/anexonormajuridica/2023/2/tabela_de_vencimentos.pdf",
+      "ano": 2023,
+      "norma": 4670
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/3/acordao_dos_autos_no._0014336-17.2025.8.16.0000_-_feriado.pdf da norma Lei Ordinária nº 1.002, de 12 de junho de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Acordão do Tribunal de Justiça do Estado do Paraná",
+      "anexo_arquivo": "http://sapl.cambe.pr.leg.br/media/sapl/public/anexonormajuridica/1996/3/acordao_dos_autos_no._0014336-17.2025.8.16.0000_-_feriado.pdf",
+      "ano": 1996,
+      "norma": 1146
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/dec692-2025.pdf da norma Lei Ordinária nº 3.280, de 02 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Decreto n.º 692/2025 que Regulamenta a Lei n.º 3.280, de 2 de setembro de 2025",
+      "anexo_arquivo": "http://sapl.cambe.pr.leg.br/media/sapl/public/anexonormajuridica/2025/4/dec692-2025.pdf",
+      "ano": 2025,
+      "norma": 5002
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cambe.pr.leg.br/d0bd87021c90a798af97125027f89dd73c812b233a8cd5e6daa7066013b80080.json",
+      "url": "https://sapl.cambe.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cambe.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7b007e07136f3ee5543420a1c7a0f79f6d6f526ced068b48c9a77c16a766cf01",
+      "bytes": 1975,
+      "capturado_em": "2026-10-27T22:17:43.797293-03:00"
+    }
+  ]
+}

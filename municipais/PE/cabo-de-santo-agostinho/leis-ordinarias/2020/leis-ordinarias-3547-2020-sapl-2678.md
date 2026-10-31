@@ -1,0 +1,159 @@
+---
+titulo: "Lei Ordinária nº 3.547, de 03 de agosto de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3547"
+data: "2020-08-03"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2678"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2595/text"
+sha256_fonte: "8592ad10875e0109c3e60db84d0b3b65cf405a28d4f1d85c12aeeb70344d2d3f"
+sha256_texto: "a1741ce130c30c2cfd57ef673651f01443e6dfc494f5d1ea74bdf2745e18dc1a"
+capturado_em_fonte: "2026-10-27T21:33:22.030672-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.547, de 03 de agosto de 2020
+
+*Dispõe sobre a definição de maus-tratos contra animais no Município do Cabo de Santo Agostinho, e dá outras providências.*
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+São considerados abuso ou maus-tratos contra animais quaisquer ações ou omissões que atentem contra a saúde ou a integridade física ou mental de um animal, notadamente:
+
+Privar o animal de suas necessidades básicas:
+
+Lesar ou agredir o animal, causando-lhe sofrimento, dano físico ou morte, salvo nas situações admitidas pela legislação vigente;
+
+Abandonar o animal sob qualquer pretexto ou deixar de prestar socorro em casos de atropelamento, mesmo que acidentais;
+
+Obrigar o animal a realizar trabalho excessivo ou superior as suas forças naturais ou submetê-lo a condições ou tratamentos que resultem em sofrimento, desconforto ou tortura, seja ela física ou mental;
+
+Confinar, acorrentar e/ou deixar em alojamento inadequado;
+
+Utilizar animal em confronto de luta, entre animais da mesma espécie ou de espécies diferentes;
+
+Utilizar animais em rituais religiosos;
+
+Provocar envenenamento em animal que resulte ou não em morte;
+
+Deixar de propiciar morte rápida e indolor a animal cuja eutanásia seja necessária;
+
+Abusar sexualmente de animal;
+
+Promover distúrbio psicológico e comportamental em animal; e
+
+Outras ações e omissões atestadas por médico veterinário, nos quais fiquem evidentes situações de abuso ou maus-tratos.
+
+
+Parágrafo único
+
+A eutanásia mencionada no inciso IX deverá ser executada por médico veterinário, procedimento este que somente deverá ser feito após aplicação de medicamentos que causem inconsistência total no animal (anestesia);
+
+
+Art. 2º.
+
+Para efeitos do inciso V, do art. 1º desta Lei, entende-se como “confinar, acorrentar e/ou deixar em alojamento inadequado” qualquer meio de restrição à liberdade de locomoção dos animais domésticos.
+
+
+§ 1º
+
+A restrição à liberdade de locomoção ocorrerá por qualquer meio de aprisionamento, permanente ou rotineiro, do animal a um objeto estacionário por períodos contínuos.
+
+
+§ 2º
+
+Nos casos de impossibilidade temporária por falta de outro meio de contenção, o animal será preso a uma corrente do tipo “vai e vem” com no mínimo oito metros de comprimento.
+
+
+§ 3º
+
+A liberdade de locomoção do animal deverá ser oferecida de modo a não causar quaisquer ferimentos, dores ou angústias, observando-se:
+
+Dimensões apropriadas a espécie, necessidade e tamanho do animal;
+
+Espaço suficiente para ampla movimentação;
+
+Incidência de sol, luz, sombra e ventilação;
+
+Fornecimento de alimento e água limpa, além de contínuo atendimento das suas necessidades, incluindo atendimento veterinário;
+
+Asseio e conservação de higiene do alojamento e do próprio animal; e
+
+Restrição de contato com outros animais agressivos e/ou portadores de doenças.
+
+
+Art. 3º.
+
+A ação ou omissão que implique em abandono ou maus-tratos contra animais sujeitará o infrator às sanções previstas na Lei Federal 9.605, art. 32, além das penas previstas nesta Lei municipal.
+
+
+Art. 4º.
+
+Na aplicação de multa simples em razão de determinada ação ou omissão que implique em abandono ou maus-tratos contra o animal, serão observados os seguintes limites:
+
+300 (trezentas) UFIR’s em caso de abuso, maus-tratos, omissão, negligência e abandono, que não acarretem lesão ou óbito ao animal, multa essa aplicada por cada animal envolvido;
+
+900 (novecentas) UFIR’s em caso de abuso, maus-tratos, omissão, negligência e abandono que acarretem lesão ao animal, multa essa aplicada por cada animal envolvido;
+
+1200 (mil e duzentas) UFIR’s em caso de abuso, maus-tratos, omissão, negligência e abandono que acarretem óbito do animal, multa essa aplicada por cada animal envolvido.
+
+
+§ 1º
+
+A cada reincidência de infração, a pena da multa será aplicada em dobro em relação a multa anteriormente aplicada.
+
+
+§ 2º
+
+Além das multas previstas nesse artigo, o infrator também deverá arcar com todos os custos do tratamento veterinário e recuperação do animal maltratado.
+
+
+Art. 5º.
+
+As multas previstas nesta Lei devem ser reajustadas anualmente pela variação da Unidade Fiscal de Referência - UFIR, sem que, no caso de extinção deste índice, será adotado outro critério por legislação federal e que reflita a perda do poder aquisitivo da moeda.
+
+
+Art. 6º.
+
+A Fiscalização dos atos previstos nesta Lei poderá ser feita por qualquer munícipe, mediante provas (fotos, vídeos) ou testemunhas e apresentação de Boletim de Ocorrência, que também poderá ser feito eletronicamente, onde deverão ser apresentados ao setor competente da municipalidade para que sejam tomadas as devidas providências, inclusive em relação a cobrança das taxas previstas nesta Lei.
+
+
+Art. 7º.
+
+Caberá ao Poder Executivo Municipal determinar a destinação dos recursos advindos desta Lei, que deverão ser usados em ações e projetos voltados para a política do bem-estar animal, privilegiando especialmente, animais abandonados ou comunitários do Município.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**Palácio Conde da Boa Vista, em 03 de agosto de 2020.**
+
+***LUIZ CABRAL DE OLIVEIRA FILHO***
+
+Prefeito
+
+Chancela:
+
+***OSVIR GUIMARÃES THOMAZ***
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ)
+
+“Lei decorrente do Projeto de Lei à Sanção nº 020/2020 de autoria do **vereador Ricardo Carneiro da Silva, partido SD”**
+
+**Publicado por:**  
+Maria Amélia Lemos do Monte Câmara  
+**Código Identificador:**A9BA8D81
+

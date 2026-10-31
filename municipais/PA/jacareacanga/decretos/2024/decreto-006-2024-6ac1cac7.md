@@ -1,0 +1,51 @@
+---
+titulo: "DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°"
+uf: "PA"
+municipio: "JACAREACANGA"
+tipo: "Decreto"
+numero: "006"
+data: 
+ano: "2024"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 17/09/2026"
+data_publicacao: 2026-09-17
+codigo_identificador: "6AC1CAC7"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117169_2026-09-16_ee14393db6d0417016be65d118ecb2bd.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°
+
+DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°
+007/2024 e DECRETO MUNICIPAL N° 009/2024
+Partes: FUNDO MUNICIPAL DE SAUDE E EMPRESA BRAGA
+CHAVES COMERCIO E LOCADORA LTDA inscrita no
+CNPJ/MF sob o nº 52.737.173/0001-90
+
+www.diariomunicipal.com.br/famep
+
+61
+
+Pará , 17 de Setembro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 4092
+Objeto: REGISTRO DE PREÇO PARA FUTURA E
+EVENTUAL
+CONTRATAÇÃO
+DE
+EMPRESA
+ESPECIALIZADA NO SERVIÇO DE LOCAÇÃO DE
+CAMIONETE COM CARROCERIA DE MADEIRA, PARA
+ATENDIMENTO
+DOS
+FUNDOS,
+SECRETARIAS
+E
+PREFEITURA MUNICIPAL DE JACAREACANGA-PA
+Valor do Contrato: R$ 375.599,20 (trezentos e setenta e cinco mil
+quinhentos e noventa e nove reais e vinte centavos).
+Vigência: 25/08/2026 a 31/12/2026.
+Data de Assinatura: 25 de agosto de 2026.
+Ordenador Responsável: Ledioneta de Sousa Silva
+Endereço da contratada: Av. Avenida 17 S/Nº Bairro Cidade Nova ,
+CEP: 68.535-000, em Palestina do
+Publicado por:
+Maria Elizete Campos do Nascimento

@@ -1,0 +1,331 @@
+---
+titulo: "Lei nº 1.186, de 24 de maio de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1186"
+data: "2010-05-24"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-10-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/591"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1007/text"
+sha256_fonte: "da6dffa370b94dd5c51e0d5083d741c5ace9243eacc1ab5b4a07095cf73c384c"
+sha256_texto: "d591e760295e71b6cef28d370545cac449e5bcc59040528d417e6cff210e8195"
+capturado_em_fonte: "2026-10-27T20:06:11.673370-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.186, de 24 de maio de 2010
+
+Cria o Conselho Municipal de Cultura e o Fundo Municipal de Cultura e dá outras providências,
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram, e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Cultura, órgão colegiado de deliberação coletiva, vinculado à Secretaria Municipal de Cultura e Turismo, que terá as suas atribuições, competências, estrutura e funcionamento disciplinados nesta Lei.
+
+Alteração feita pelo I - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+Art. 2º.
+
+O Conselho Municipal de Cultura será composto de 6 (seis) membros, titulares e igual número de suplentes, nomeados pelo Prefeito Municipal, para mandato de 02 (dois) anos, permitida uma recondução, da seguinte forma:
+
+
+I –
+
+1 (um) representante da Secretaria Municipal de Cultura e Turismo;
+
+Alteração feita pelo II - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+II –
+
+01 (um) representante da Secretaria Municipal de Administração е Planejamento;
+
+
+III –
+
+01 (um) representante da Câmara Municipal, pertencente à Comissão de Educação;
+
+
+IV –
+
+01 (um) representante da Associação da 3ª idade Alegria de Viver;
+
+
+V –
+
+1 (um) representante da rede privada de ensino, com formação em história;
+
+
+VI –
+
+01 (um) representante indicado pelo Conselho Municipal do Patrimônio Cultural, pertencente à sociedade civil organizada.
+
+
+Parágrafo único
+
+A função de Conselheiro será exercida gratuitamente e considerada serviços públicos relevantes.
+
+
+Art. 3º.
+
+O Conselho Municipal de Cultura terá a seguinte estrutura:
+
+
+I –
+
+Plenário;
+
+
+II –
+
+Presidência;
+
+
+III –
+
+Secretaria Executiva;
+
+
+IV –
+
+Assessoria Jurídica.
+
+
+Parágrafo único
+
+A Assessoria Jurídica deverá ser exercida, como trabalho de relevante interesse público, por Servidor do Município formado em Direito, sem prejuízo das atribuições normais do seu cargo, cujo parecer será solicitado sempre que a Presidência julgar necessário.
+
+
+Art. 4º.
+
+A Secretaria Executiva será integrada por até três servidores designados pelo Secretário Municipal de Cultura e Turismo, órgão a que está vinculado o Conselho, dentre os quais a Presidência nomeará a chefia.
+
+Alteração feita pelo III - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+Art. 5º.
+
+A Secretaria Municipal de Cultura e Turismo prestará suporte técnico e administrativo ao Conselho Municipal de Cultura, de modo a assegurar o livre desempenho de suas atribuições constitucionais e legais, sendo o suporte financeiro prestado pelo Fundo Municipal de Cultura.
+
+Alteração feita pelo IV - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+Art. 6º.
+
+O Conselho Municipal de Cultura reunir-se-á ordinariamente uma vez por mês e extraordinariamente quando necessário convocado pela Presidência ou pela maioria de seus membros terá regimento próprio aprovado por Decreto do Chefe do Poder Executivo, e será responsável entre suas atribuições.
+
+
+Art. 7º.
+
+Fica criado o Fundo Municipal de Cultura constituído por recursos provenientes do orçamento anual do Município e de outras fontes, com o objetivo de promover desenvolvimento da cultura no Município de Buritis, podendo, para tanto, apoiar financeiramente:
+
+
+a)
+
+Programas de Formação Cultural, apoiando financeiramente a realização de cursos e oficinas;
+
+
+b)
+
+a manutenção de grupos artísticos;
+
+
+c)
+
+a manutenção, reforma e ampliação de espaços culturais;
+
+
+d)
+
+projetos de difusão cultural, realização de Festivais, mostras ou circuitos culturais;
+
+
+e)
+
+pesquisas acerca da produção, difusão, comercialização ou recepção das atividades culturais;
+
+
+f)
+
+outros, vedado apenas o financiamento a projetos de produção de bens culturais.
+
+
+Parágrafo único
+
+Entende-se projetos de produção de bens culturais, aqueles que tenham por objetivo a produção de bens, materiais ou imateriais, de natureza artístico cultural.
+
+
+Art. 8º.
+
+Constituem receitas do Fundo:
+
+
+a)
+
+repasses do Poder Público Municipal, no percentual de 1% (um por cento) das receitas próprias;
+
+
+b)
+
+receitas provenientes de ações culturais do Município de Buritis, ou por ele apoiadas;
+
+
+c)
+
+doações de pessoas físicas ou jurídicas;
+
+
+d)
+
+receitas de eventos, atividades ou promoções realizadas com a finalidade de angariar recursos para o fundo;
+
+
+e)
+
+percentual das receitas provenientes de ações realizadas com patrocínio do Fundo.
+
+
+§ 1º
+
+No caso das receitas provenientes de ações do Poder Público Municipal, deverão estas ser definidas como receitas destinadas ao Fundo Municipal de Cultura por Decreto do Executivo Municipal.
+
+
+§ 2º
+
+A realização de eventos, atividades ou promoções por entidades externas ao Poder Público Municipal, com a finalidade de angariar recursos para o Fundo Municipal de Cultura, dependerá de autorização do Secretário Municipal de Cultura e Turismo.
+
+Alteração feita pelo V - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+§ 3º
+
+O percentual das receitas provenientes de ações realizadas com o patrocinio do Fundo será definido para cada projeto individualmente, podendo ser igual a zero.
+
+
+Art. 9º.
+
+O Fundo Municipal de Cultura pode beneficiar apenas projetos apresentados por Pessoas Físicas ou Jurídicas, de direito público ou privado, domiciliadas no município de Buritis.
+
+
+Parágrafo único
+
+A concessão de beneficio a projetos apresentados pelo Poder Público Municipal, ou por seu servidor, ou ainda, por Pessoa Jurídica que tenha como sócio servidor municipal dependerá de aprovação expressa do Comitê Gestor.
+
+
+Art. 10.
+
+A concessão de benefícios poderá se dar a fundo perdido ou na forma de apoio financeiro reembolsável, nas seguintes modalidades:
+
+
+a)
+
+induzida, trabalhando com o acolhimento de solicitações espontaneamente apresentadas ao Fundo; е
+
+
+b)
+
+indutora, via lançamento de editais.
+
+
+Parágrafo único
+
+A prestação de contas será obrigatória independente da forma da concessão do benefício pecuniário.
+
+
+Art. 11.
+
+Fica criado o Comitê Gestor do Fundo Municipal de Cultura, com a atribuição de orientar e controlar o funcionamento do Fundo Municipal de Cultura.
+
+
+Parágrafo único
+
+O Comitê Gestor será composto por 02 (dois) membros indicados pelo Poder Executivo Municipal, 02 (dois) membros indicados pelo Conselho Municipal de Cultura, 02 (dois) membros indicados pela Câmara Municipal e pelo Secretário Municipal de Cultura e Turismo, que o presidirá.
+
+Alteração feita pelo VI - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+Art. 12.
+
+Compete ao Comitê Gestor:
+
+
+a)
+
+Elaborar Plano Anual de Aplicação do Fundo Municipal de Cultura, nos quais estarão fixadas as diretrizes e prioridades que nortearão as aplicações dos recursos do Fundo, em conjunto com o Secretário Municipal de Cultura e Turismo;
+
+Alteração feita pelo VII - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+b)
+
+fixar os critérios e condições de acesso aos recursos do Fundo;
+
+
+c)
+
+fiscalizar a aplicação dos recursos concedidos do Fundo;
+
+
+d)
+
+aprovar a concessão de benefícios a projetos apresentados pelo Poder Público Municipal, ou por seu servidor, ou ainda, por Pessoa Juridica que tenha como sócio servidor municipal;
+
+
+e)
+
+aprovar os editais de concessão de benefícios com recursos do Fundo.
+
+
+Art. 13.
+
+A aprovação da concessão de benefícios a projetos apresentados espontaneamente é de atribuição do Secretário Municipal de Cultura e Turismo, que o examinará levando-se em conta o Plano Anual de Aplicação do Fundo Municipal de Cultura, o interesse do Município e a disponibilidade de recursos.
+
+Alteração feita pelo VIII - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+§ 1º
+
+Constitui exceção a esta norma os projetos de que trata o parágrafo único do art.10, que serão submetidos à aprovação do Comitê Gestor.
+
+
+§ 2º
+
+Da decisão caberão recursos, nos termos do regulamento.
+
+
+Art. 14.
+
+Os recursos do Fundo Municipal de Cultura serão aplicados exclusivamente na execução de projetos relacionados com o desenvolvimento cultural, de acordo com o cronograma fisico-financeiro constante no Projeto aprovado, e mediante prestação de contas.
+
+
+Art. 15.
+
+A presente Lei será regulamentada no prazo máximo de 90 (noventa) dias.
+
+
+Art. 16.
+
+As despesas decorrentes da execução desta Lei correrão à conta da dotação orçamentária própria.
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 21 de maio de 2010
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Proposição de Lei 019. Ref. PL 013 do Executivo Municipal
+

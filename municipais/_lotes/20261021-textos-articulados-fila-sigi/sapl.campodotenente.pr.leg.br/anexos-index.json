@@ -1,0 +1,27 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/projeto_substitutivo_ao_projeto_23_-_1197.pdf da norma Lei Ordinária-PREF nº 1.197, de 17 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campodotenente.pr.leg.br/media/sapl/public/anexonormajuridica/2025/1/projeto_substitutivo_ao_projeto_23_-_1197.pdf",
+      "ano": 2025,
+      "norma": 78
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campodotenente.pr.leg.br/1ab61cebd28934c73474c92ed29d6164e14178e231113e47be9fd6ba9561132b.json",
+      "url": "https://sapl.campodotenente.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "81bf9b84169440082e85e2e496884232107f0c41a36b8c32b848e144441ae2ac",
+      "capturado_em": "2026-10-20T20:50:34.387897",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.campodotenente.pr.leg.br/1ab61cebd28934c73474c92ed29d6164e14178e231113e47be9fd6ba9561132b.json"
+    }
+  ]
+}

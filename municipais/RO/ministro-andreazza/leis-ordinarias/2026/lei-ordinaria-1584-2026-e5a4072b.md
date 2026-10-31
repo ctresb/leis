@@ -1,0 +1,22 @@
+---
+titulo: "LEI Nº 1584/2026"
+uf: "RO"
+municipio: "MINISTRO ANDREAZZA"
+tipo: "Lei Ordinária"
+numero: "1584"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 17/03/2026"
+data_publicacao: 2026-03-17
+codigo_identificador: "E5A4072B"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116024_2026-03-16_67d2ac7dbfb7d853f3602a31928bdfdd.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1584/2026
+
+LEI Nº 1584/2026
+
+Publicado por:
+Glauciania Dos Santos

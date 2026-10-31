@@ -1,0 +1,269 @@
+Autoriza a assinatura do Acordo de Cooperação Técnica entre o Poder Legislativo Municipal de Erechim e a Empresa Ecustomize Consultoria em Software LTDA, para a utilização, sem ônus, do Sistema Eletrônico "Portal de Compras Públicas" - Portal CP.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE ERECHIM**, no uso de suas atribuições Legais, e com fundamento no Parágrafo Único do Art. 50 da Lei Orgânica do Município de Erechim, Faço saber que a Câmara de Vereadores aprovou, e eu promulgo a seguinte Lei.
+
+
+Art. 1º.
+
+Fica o Poder Legislativo Municipal autorizado a assinar o Acordo de Cooperação Técnica entre o Poder Legislativo Municipal de Erechim e a empresa Ecustomize Consultoria em Software LTDA, para a utilização, sem ônus, do sistema eletrônico "Portal de Compras Públicas" — PORTAL CP.
+
+
+Parágrafo único
+
+O Acordo de Cooperação Técnica, citado no caput deste artigo, é parte integrante da presente Lei.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Erechim, 9 de junho de 2020.  
+  
+  
+  
+MARIO ROGERIO ROSSI  
+Presidente do Poder Legislativo
+
+
+Registre-se e Publique-se  
+Data Supra.  
+  
+  
+  
+ALESSANDRO DAL ZOTTO  
+Primeiro Secretário
+
+
+ACORDO DE COOPERAÇÃO TÉCNICA
+
+
+ACORDO DE COOPERAÇÃO TÉCNICA PARA UTILIZAÇÃO, SEM ÔNUS, DO SISTEMA ELETRÔNICO
+
+"PORTAL DE COMPRAS PÚBLICAS - PORTALCP", QUE  
+ENTRE SI CELEBRAM O PODER LEGISLATIVO DE  
+ERECHIM E A ECUSTOMIZE CONSULTORIA EM  
+SOFTWARE LTDA.
+
+
+A CÂMARA MUNICIPAL DE ERECHIM, situado na Rua Comandante Salomoni, 21, inscrito no CNPJ sob o n.° 03.128.056/0001-14, representado neste ato pelo Presidente do Poder Legislativo, Sr. MARIO ROGERIO ROSSI, brasileiro, casado, Carteira de Identidade n.° 1034678001 e CPF/MF n. 441.204.860-87, doravante denominado CÂMARA, e a ECUSTOMIZE CONSULTORIA EM SOFTWARE LTDA, empresa com sede em Brasília/DF, no SIA Trecho 17, rua 20, lote 90 Sala 201 — 2 Pavimento Zona Industrial CEP 71.200-256, inscrita no CNPJ/MF sob o n.° 09.397.355/0001-30, neste ato representada legalmente por seu diretor, Sr. LEONARDO CÉSAR DE CARVALHO LADEIRA, brasileiro, casado, portador da Carteira de Identidade n.° 1.106.097 SSP/DF e CPF/MF 505.439.381-15, residente e domiciliado em Brasília/DF, doravante denominada ECUSTOMIZE, ajustam entre si o presente ACORDO DE COOPERAÇÃO TÉCNICA, doravante simplesmente ACORDO, para utilização de sistema eletrônico de licitações, de acordo com o Processo Administrativo n° 001/2019, mediante as cláusulas e condições seguintes:
+
+
+CLÁUSULA PRIMEIRA - DO OBJETO  
+O presente ACORDO tem por finalidade dispor sobre as condições de utilização pela CÂMARA de sistema eletrônico de licitações, disponibilizado pela ECUSTOMIZE, doravante denominado PORTAL DE COMPRAS PÚBLICAS - PORTALCP, desenvolvido em plataforma Web, que permite realizar procedimentos licitatórios para aquisição de bens e serviços comuns, por meio da Internet, em conformidade com a legislação pertinente, especialmente a Lei Federal n.° 10.520/2002, artigo 24, inciso II e artigo 22, inciso III da Lei Federal n,° 8.666/1993, Capitulo V da Lei Complementar n,° 123/2006 e suas posteriores alterações, com a utilização de fornecedores previamente cadastrados.
+
+
+CLÁUSULA SEGUNDA - DAS METAS A SEREM ATINGIDAS  
+I. O presente ACORDO tem, por meta geral, a conjugação de esforços para simplificar, minimizar custos, agilizar e propiciar maior transparência aos processos de aquisição de bens e serviços pelo Poder Legislativo de Erechim;
+
+
+II. O presente ACORDO tem, por metas específicas:
+
+
+a. Dar acesso ao Poder Legislativo de Erechim, sem ônus, à utilização de sistema eletrônico de licitações continuamente atualizado de acordo com as regras gerais de licitação;
+
+
+b. Permitir, ao Poder Legislativo de Erechim. a realização de processos de licitação na modalidade pregão eletrônico;
+
+
+c. Manter, em plataforma de acesso ao público e aos órgãos de controle, o registro das informações relativas às contratações realizadas pelo Poder Legislativo de Erechim;
+
+
+d. Permitir, ao Poder Legislativo de Erechim, aumentar a participação e competitividade entre fornecedores em suas contratações.
+
+
+CLÁUSULA TERCEIRA - DO FORNECIMENTO DO SISTEMA  
+I. A ECUSTOMIZE fornecerá à CÂMARA e seus representantes legalmente designados acesso ao PORTALCP, assim como prestará apoio técnico necessário para o seu correto uso, por meio de manuais disponibilizados na página www.portaldecompraspublicas.com.br e suporte técnico via telefone;
+
+
+II. A ECUSTOMIZE poderá cobrar das empresas fornecedoras, no momento do cadastramento de seus representantes para utilização do PORTALCP, os custos gerados pela disponibilização da tecnologia da informação, com base no inciso III do art. 5° da Lei n,º 10.520/2002, e informações expressas no Regulamento do sistema.
+
+
+CLÁUSULA QUARTA - DAS CARACTERÍSTICAS DO PORTALCP
+
+
+I. O PORTALCP possui as seguintes características:  
+a. é desenvolvido em um ambiente totalmente seguro que permite controle de acessos, baseado em certificação digital para todos os níveis, o que permite que cada usuário realize suas compras com total autonomia, economia e transparência;
+
+
+b. estruturado em funcionalidades gerais e específicas, sendo as funcionalidades gerais são de acesso comum a todos os interessados, enquanto as específicas são de acesso restrito aos licitantes e licitadores;
+
+
+c. na funcionalidade específica, o sistema permite o registro e armazenamento de todas as transações desenvolvidas pelo usuário, assim como os procedimentos de segurança, tais como: autenticação, assinatura digital de documentos eletrônicos, segurança criptográfica, histórico de chaves/senhas, cópia de segurança, entre outros;
+
+
+d. disponibiliza ao órgão ou entidade licitadora, após o encerramento do processo licitatório, arquivo retomo com as informações relativas às liquidações das operações realizadas e outros dados pertinentes ao certame; e
+
+
+e. mantém sigilo sobre todas as transações e informações das modalidades, entre elas as senhas, identificação do licitante e autor do menor lance, até o momento da divulgação do resultado da licitação, realizadas e informadas no PORTALCP.
+
+
+Il. A ECUSTOMIZE poderá acrescentar novas funcionalidades ao PORTALCP e analisar a viabilidade técnica de implantação de sugestões da CÂMARA;
+
+
+III. Todas as transações realizadas nas funcionalidades especificas registrarão os usuários que as realizaram e utilizarão procedimentos necessários para manter segurança da informação.
+
+
+CLÁUSULA QUINTA - DAS FASES DE EXECUÇÃO DO ACORDO E CONDIÇÕES DE UTILIZAÇÃO DO PORTALCP.
+
+
+I. A execução do presente ACORDO será composta por duas fases, sendo a primeira a fase de preparação e a segunda a fase de execução propriamente dita;
+
+
+II. A fase preparatória terá a duração de 15 dias a partir da assinatura do presente ACORDO e compreenderá as seguintes atividades:
+
+
+a. O Poder Legislativo de Erechim indicará um "Administrador" que será o responsável pela inclusão, alteração e exclusão de usuários no PORTALCP, sob sua inteira e irrestrita responsabilidade;
+
+
+b. O Poder Legislativo de Erechim somente ficará habilitado a utilizar o PORTALCP após cadastramento e treinamento técnico-operacional fornecido pela ECUSTOMIZE, momento em que. será viabilizada a geração de login e senha para acesso ao PORTALCP. No processo de cadastramento, a CÂMARA deverá fornecer documentos com a relação de seus representantes, com identificação dos respectivos perfis de acesso, os quais serão reconhecidos como legítimos para realizar transações eletrônicas no PORTALCP;
+
+
+c. O acesso de cada usuário ao PORTALCP será definido pelo "Administrador" dentro das funcionalidades e atribuições que lhe forem pertinentes para o exercício das suas funções no processo Licitatório;
+
+
+d. A utilização do sistema PORTALCP exigirá o uso de senha pessoal de caráter pessoal e intransferível.
+
+
+III. A fase de execução propriamente dita do ACORDO será contínua, tendo início após concluída a fase preparatória e se estendendo até o final da vigência do presente ACORDO, e compreenderá:
+
+
+a. Acesso e utilização do sistema PORTALCP diretamente no endereço eletrônico www.portaldecompraspublicas.com.br. O Poder Legislativo de Erechim poderá providenciar, no seu próprio Portal da Internet, conexão com aquele endereço, observadas as instruções técnicas e de segurança da ECUSTOMIZE;
+
+
+b. A possibilidade de participação, em licitações do Poder Legislativo de Erechim por meio do PORTALCP, de todos os fornecedores com cadastro regular junto ao PORTALCP;
+
+
+c. Para que o sistema funcione corretamente é necessário o uso de navegadores padrão no mercado (Mozilla Firefox, Internet Explorer, Google Chrome ou Safari) nas suas versões atualizadas, internet banda larga, firewall desativado, bloqueador pop-up desativado, possuir Flash Player e Acrobat Reader instalado.
+
+
+CLÁUSULA SEXTA - DOS DIREITOS E OBRIGAÇÕES
+
+
+I. A ECUSTOMIZE fornecerá acesso para utilização do PORTALCP, assim como prestará o apoio técnico necessário para o correto uso, sem a imputação de quaisquer ônus para o Poder Legislativo de Erechim ou seus representantes designados para condução dos processos licitatórios;
+
+
+II. Cabe à ECUSTOMIZE:
+
+
+a. manter permanentemente o funcionamento do PORT ALCP;
+
+
+b. analisar e sempre que necessário, efetivar alterações e implantações para o PORTALCP, a fim de propiciar melhorias técnicas e operacionais do sistema, assim como a sua adaptação a legislação;
+
+
+c. restabelecer o mais rápido possível o PORTALCP em situação que ocorrer a sua indisponibilidade, por motivos técnicos ou falhas na Internet ou por outras circunstâncias alheias à vontade da ECUSTOMIZE, não assumindo qualquer responsabilidade pela(s) ocorrência(s) a que não tiver dado causa.
+
+
+d. bloquear para utilização do Poder Legislativo de Erechim o PORTALCP, quando for necessário a manutenção, reparos inadiáveis, alterações e ou outras adaptações técnicas.
+
+
+e. prestar auxílio técnico através de uma central de atendimento, serviço de e-mail ou visita técnica (previamente negociada., conforme a necessidade, ao órgão ou entidade pública usuária do PORTALCP.
+
+
+f. suspender, temporariamente, o uso da(s) senha(s) em caso de tentativa de invasão do sistema PORTALCP, violação da lei, descumprimento das obrigações previstas neste acordo, ou qualquer outro ato ou fato que possa colocar em risco a segurança e integridade do sistema, da Administração Pública ou do certame licitatório em curso, mediante comunicação imediata à CÂMARA e, se for o caso, ao(s) licitante(s).
+
+
+g. responsabilizar-se pelo armazenamento dos dados de cada processo licitatório gerado pelo sistema, por um período de cinco anos ininterruptos.
+
+
+III. Cabe ao Poder Legislativo de Erechim:
+
+
+a. atender a configuração básica de acesso ao PORTALCP, conforme constante no Anexo I deste instrumento, que poderá a qualquer tempo, sofrer alterações pela ECUSTOMIZE devido a utilização e adaptação de nova tecnologia;
+
+
+b. assegurar que, previamente à assinatura deste termo, instaurou processo administrativo respeitando todos os procedimentos necessários para firmar o presente ACORDO, em especial os previstos no art. 116 e no parágrafo único do art. 38 da Lei n° 8.666/93, conforme aplicável;
+
+
+c. assegurar que, no âmbito da CÂMARA, a regulamentação das normas gerais de licitação, especialmente a Lei Federal n." 10.520/2002. a Lei Federal nº. 8.666/1993 e na Lei Complementar n.º 123/2006, e suas posteriores alterações, está e permanecerá em consonância e atualizada com as funcionalidades e regras operacionalizadas pelo PORTALCP;
+
+
+d. responsabilizar-se, exclusivamente, pelo uso sigiloso e correto da senha, não cabendo à ECUSTOMIZE a responsabilidade por eventuais danos decorrentes do uso indevido desta, inclusive por terceiros;
+
+
+e. realizar procedimentos específicos para cada modalidade ou para os casos de dispensa ou inexigibilidade de licitação, em estrita conformidade com a legislação aplicável;
+
+
+f. responsabilizar-se pelo correto uso e por todas as transações eletrônicas efetuadas nas funcionalidades específicas, restritas ao seu âmbito, no sistema PORTALCP, por parte de seus representantes legais;
+
+
+g. adjudicar e homologar os resultados das licitações no sistema;
+
+
+h. responsabilizar-se por todas as condições legais, técnicas, financeiras e econômicas pactuadas com os licitantes, por meio do sistema PORTALCP e durante qualquer fase do processo licitatório, não cabendo a ECUSTOMIZE qualquer participação ou responsabilidade pela condução do processo, em especial, na elaboração de editais e avisos, julgamento de recursos e impugnações, formalização de contratos e acompanhamento e fiscalização de sua execução;
+
+
+i. decidir sobre os casos de suspensão e prorrogação dos processos licitatórios em casos de desconexão de seus computadores ou do sistema PORTALCP, da rede mundial de computadores - internet;
+
+
+j. responsabilizar-se pelo armazenamento dos dados referentes a cada processo licitatório, após o prazo de armazenamento de responsabilidade da ECUSTOMIIZE.
+
+
+Parágrafo Único. Fica ressalvado que a ECUSTOMIZE não se responsabiliza pela ação dos fornecedores usuários do PORTALCP, pela qualidade do produto, bem ou serviço adquirido, assim como pelo conteúdo decisório e resultado pelos certames licitatórios.
+
+
+CLÁUSULA SÉTIMA - DA VIGÊNCIA
+
+
+período de 12 (doze) meses, podendo ter sua duração prorrogada automática e sucessivamente por igual período.
+
+
+CLÁUSULA OITAVA - DA PUBLICAÇÃO.
+
+
+A CÂMARA publicará, às suas expensas, o extrato do presente ACORDO no Diário Oficial da CÂMARA, o que deverá ocorrer até 20 (vinte) dias após a sua assinatura, podendo ser alterado ou prorrogado mediante lavratura de termo aditivo.
+
+
+CLÁUSULA NONA - DA RESILIÇÃO
+
+
+O presente ACORDO poderá ser resilido unilateralmente, independentemente de motivo, por qualquer das partes, mediante envio prévio de comunicação à outra parte, com antecedência mínima 30 (trinta) dias, ou outro prazo que assegure a conclusão de qualquer procedimento já iniciado.
+
+
+**Parágrafo único.** Da resilição não caberão direitos indenizatórios, ficando as partes obrigadas ao cumprimento das obrigações assumidas até o final do prazo referido nesta Cláusula.
+
+
+CLÁUSULA DÉCIMA — DA CESSÃO
+
+
+A ECUSTOMIZE poderá realizar a cessão total ou parcial dos direitos e obrigações assumidas, desde que não gere qualquer ônus à CÂMARA ou aos fornecedores registrados no PORTALCP e mantidas as demais cláusulas pactuadas neste ACORDO. Caso não concorde com a cessão, à CÂMARA poderá resilir o ACORDO, nos termos da CLÁUSULA NONA.
+
+
+CLÁUSULA DÉCIMA PRIMEIRA - DO FORO
+
+
+As partes elegem o foro de Erechim - RS, com renúncia expressa a qualquer outro, por mais privilegiado que seja, para dirimir dúvidas que possam decorrer do presente ACORDO.
+
+
+CLÁUSULA DÉCIMA SEGUNDA - CONSIDERAÇÕES FINAIS
+
+
+I - A ECUSTOMIZE poderá agregar novas funcionalidades ao PORTALCP decorrente de adaptações à alteração legislativa e ou tecnológica necessárias, bem como daquelas advindas de sugestões dos usuários;
+
+
+II - As partes poderão divulgar, dentro da estratégia de "marketing" própria, os termos de cooperação ora celebrados, desde que não incida de forma negativa e depreciativa à imagem da outra, ficando preservado o direito de resposta;
+
+
+III - Caso à CÂMARA seja usuário do PORTAL CIDADECOMPRAS à data de assinatura do presente ACORDO, ela autoriza a migração de todos os dados relacionados à sua conta no PORTAL CIDADECOMPRAS pano PORTALCP, a qual será realizada em até 02 (duas) horas pela ECUSTOMIZE após o recebimento do presente ACORDO assinado, sem custos para à CÂMARA.
+
+
+IV - Na hipótese do inciso III desta CLÁUSULA DÉCIMA SEGUNDA, à CÂMARA será responsável pela conclusão dos processos já instaurados no CIDADECOMPRAS e realizará por meio do PORTALCP apenas os processos instaurados a partir da data de assinatura do presente ACORDO.
+
+
+E, por estarem justos e acordados, assinam o presente em 02 (duas) vias de igual teor e forma, que leram e acharam conforme, na presença das testemunhas que também o assinam.
+
+
+Erechim, de de 2020.
+
+
+**MARIO ROGERIO ROSSI LEONARDO C. DE C. LADEIRA**  
+Pres. do Poder Legislativo de Erechim ECUSTOMIZE - Diretor  
+  
+  
+**Testemunhas:**  
+Nome: CPF:  
+  
+  
+Nome: CPF:

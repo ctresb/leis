@@ -1,0 +1,42 @@
+{
+  "host": "sapl.canoinhas.sc.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canoinhas.sc.leg.br/c1396b6fc929dbd063d50ff4f5632a730dd24fd4d94c78683b14702dc0eec40a.json",
+    "url": "https://sapl.canoinhas.sc.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.canoinhas.sc.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6174fb30d69ed457a71c2e9e02e48d361e9283dd3eaa80b60f73aa00cfce12e8",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:29:57.824325-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canoinhas.sc.leg.br/83c027c8e1a672c084c4a49d09513b349ac3582239d42c27e2d7138f362a0557.json",
+    "url": "https://sapl.canoinhas.sc.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.canoinhas.sc.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "da84b0490f3153c7967cfff535bedb309286e5f0f0dda71b0120fafd8a141b29",
+    "bytes": 777,
+    "capturado_em": "2026-10-27T22:29:56.926011-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canoinhas.sc.leg.br/a0691249e7d5b2a4610c334cfd94b04ce55d0d5cb0d2ebaf11690c0bb5c597ce.json",
+      "url": "https://sapl.canoinhas.sc.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.canoinhas.sc.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9f982d09e7d538f487d6cc53547734d9ba72a148eccb469a317e655ffb3db421",
+      "bytes": 1394,
+      "capturado_em": "2026-10-27T22:29:59.820210-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

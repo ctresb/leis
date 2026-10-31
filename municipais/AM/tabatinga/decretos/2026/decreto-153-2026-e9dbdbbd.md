@@ -1,0 +1,248 @@
+---
+titulo: "DECRETO N.º 153/GP-PMT DE 01 DE ABRIL DE 2026"
+uf: "AM"
+municipio: "TABATINGA"
+tipo: "Decreto"
+numero: "153"
+data: 2026-04-01
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 07/04/2026"
+data_publicacao: 2026-04-07
+codigo_identificador: "E9DBDBBD"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118833_2026-04-06_d97bf576a5496611db372aecc2deb362.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N.º 153/GP-PMT DE 01 DE ABRIL DE 2026
+
+DECRETO N.º 153/GP-PMT DE 01 DE ABRIL DE 2026
+DISPÕE SOBRE A EXONERAÇÃO DE SERVIDORES CONTRATADOS DO QUADRO TEMPORÁRIO DA PREFEITURA
+MUNICIPAL DE TABATINGA E DÁ OUTRAS PROVIDÊNCIAS.
+O EXCELENTÍSSIMO SENHOR PLINIO SOUZA DA CRUZ, M.D. PREFEITO DE TABATINGA/AM, no uso de suas atribuições legais,
+ex vi, tendo em vista o que dispõe o Art. 72 e inciso VI e IX do Art. 73 da Lei Orgânica do Município de Tabatinga;
+CONSIDERANDO, a Lei Municipal n.º 828/2018, de 14 de novembro de 2018;
+CONSIDERANDO, as disposições legais, previstas no artigo 37 da Constituição Federal, e o poder de discricionariedade do administrador público.
+CONSIDERANDO, o Memorando N° 181/2026- DRH/SEMAD de 31 de março de 2026.
+DECRETA
+Art. 1º - EXONERAR os servidores do quadro temporário da Prefeitura Municipal de Tabatinga/AM, conforme tabela em anexo, na qual constam
+os nomes e as informações dos servidores que foram exonerados no mês de março de 2026.
+Art. 2º - Este Decreto entra em vigor na data de sua publicação, revogando-se as disposições em contrário com efeito retroativo ao dia 01 de março
+de 2026.
+Art. 3º - Comunique-se, publique-se e cumpra-se.
+GABINETE DO PREFEITO DE TABATINGA/AM, em 01 de abril de 2026.
+PLINIO SOUZA DA CRUZ
+Prefeito Municipal de Tabatinga/AM
+DADO CIÊNCIA, REGISTRADO E PUBLICADO NO SERVIÇO DE DECRETO DESTA PREFEITURA MUNICIPAL, NA DATA
+SUPRA, EM OBEDIÊNCIA AO DISPOSTO NO ART. 100 DA LEI ORGÂNICA DO MUNICÍPIO DE TABATINGA.
+BÁRBARA JUVENTINO DA SILVA
+Secretária Municipal de Administração
+MATRÍCULA
+16736
+
+CONTRATO
+2
+
+NOME
+ANA PAULA DE LIMA LUCAS
+
+CARGO ATUAL
+ODONTOLOGA
+
+24301
+
+1
+
+BRUNO FERNANDES DE ASSIS
+
+AUX. ADMINISTRATIVO
+
+19005
+
+2
+
+CRENILSON PEREIRA MARQUES VIGIA
+
+859
+
+3
+
+DAILCE CARVALHO MARQUES
+
+18995
+
+2
+
+19566
+
+3
+
+DAVID SIQUEIRA DA COSTA
+FARMACEUTICO
+DIENIFF ANDRESSA DA SILVA E
+PROFESSOR (A)
+SILVA
+
+2992
+
+5
+
+DIVA GOMES PINTO
+
+PROFESSOR (A)
+
+MERENDEIRO(A)
+
+www.diariomunicipal.com.br/aam
+
+LOTAÇÃO
+SECRETARIA MUNICIPAL DE SAÚDE
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA MUNICIPAL DE SAÚDE
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+
+192
+
+Amazonas , 07 de Abril de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4080
+7491
+
+6
+
+ELENILCE
+LIZARDO
+
+MOCAMBITO
+
+11142
+
+2
+
+FRANK EDSON MARIO
+
+8518
+
+8
+
+KELLY HIDALGO CARVALHO
+
+PROFESSOR (A)
+
+16735
+
+2
+
+MAICON
+DOUGLAS
+SANTOS RODRIGUES
+
+ASST. ADMINISTRATIVO
+
+7014
+
+3
+
+ONILDO ALMEIDA DOS SANTOS COLETOR DE LIXO
+
+27019
+
+1
+
+OZEIAS DA SILVA BEZERRA
+
+VIGIA
+
+27022
+
+1
+
+OZENILDO PEREIRA BEZERRA
+
+VIGIA
+
+11104
+
+2
+
+SILVANEY ROCHA DE LIMA
+
+VIGIA
+
+20385
+
+2
+
+10177
+
+4
+
+TECNICO DE ENFERMAGEM
+
+SECRETARIA MUNICIPAL DE SAÚDE
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA MUNICIPAL DE LIMPEZA
+PÚBLICA
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA
+MUNICIPAL
+DE
+EDUCAÇÃO
+SECRETARIA
+MUNICIPAL
+DE
+PRODUÇÃO RURAL
+SECRETARIA
+MUNICIPAL
+DE
+PRODUÇÃO RURAL
+
+VIGIA
+
+DOS
+
+URSSULLA
+INGLESSIANE
+TECNICA DE ENFERMAGEM
+BATISTA VIANA
+VERA
+LUCIA
+ÂNGULO
+AGENTE COMUNITÁRIO SOCIAL- ACS
+GUIMARAES
+
+SECRETARIA MUNICIPAL DE SAÚDE
+SECRETARIA
+MUNICIPAL
+ASSISTÊNCIA SOCIAL
+
+DE
+
+Publicado por:
+Sabrina do Nascimento Ramos

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bocainademinas.mg.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bocainademinas.mg.leg.br/eeb16e5f8e8acffaff651869246ce843fb117f6adbe927f808797666017b1cd9.json",
+    "url": "https://sapl.bocainademinas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bocainademinas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ec9dce37fec5061e5c00ad16534117f73d66c7d2bdc77919f841158c7122c1f0",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T19:07:42.547934-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bocainademinas.mg.leg.br/44b20d8a6939c1c996e7d52de2af61a3c26fe07ae903ca2aa8e4c46107219545.json",
+    "url": "https://sapl.bocainademinas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bocainademinas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "31a0234737c6d0f565d672fdb73cfd09e8797ac1506a1fceb2bf6628fb44495a",
+    "bytes": 769,
+    "capturado_em": "2026-10-27T19:07:41.657230-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bocainademinas.mg.leg.br/43f572c7671b3500036fb3d1022f5886a8b6df4a735848bfd53e74d1c685ebb1.json",
+      "url": "https://sapl.bocainademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bocainademinas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "105842cf509da511cfc02b9b120dc66e8ff36cddfc394e7f8737ea59c1f9cca5",
+      "bytes": 1279,
+      "capturado_em": "2026-10-27T19:07:44.545036-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

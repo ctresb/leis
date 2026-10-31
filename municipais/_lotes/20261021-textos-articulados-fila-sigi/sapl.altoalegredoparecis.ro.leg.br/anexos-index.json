@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/1/001.pdf da norma Lei Ordinária nº 1, de 27 de janeiro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE ALTO ALEGRE DOS PARECIS, RO PARA O EXERCÍCIO DE 1997 E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.altoalegredoparecis.ro.leg.br/media/sapl/public/anexonormajuridica/1997/1/001.pdf",
+      "ano": 1997,
+      "norma": 1
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoalegredoparecis.ro.leg.br/79e482e7815ba7dcaf1c8fbf045744d3c2fd2b86694fa389eb2905b75d71f8cf.json",
+      "url": "https://sapl.altoalegredoparecis.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.altoalegredoparecis.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "705bb0144f21eb73d4d561481f22f330986c8ba92b470e1e81eb9e5ed1b984a9",
+      "bytes": 681,
+      "capturado_em": "2026-10-21T05:27:29.739561-03:00"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "host": "sapl.vitoriadomearim.ma.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/diariooficial_edicao_1129_assinado.pdf da norma Lei-PUB nº 590, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "A presente publicação trata-se de uma retificação na publicação da Lei Ordinária nº 590/2023 – DE 13 DE MARÇO DE 2023, publicada no Diário Oficial do Município de Vitória do Mearim - MA em 13/03/2023 (Segunda-feira) DOM - Página 01, Publicação Nº 107",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/1/diariooficial_edicao_1129_assinado.pdf",
+      "ano": 2023,
+      "norma": 5
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/escrituracao_do_predio_previm.pdf da norma Lei-PUB nº 590, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Escritura Pública de dação em pagamento",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/2/escrituracao_do_predio_previm.pdf",
+      "ano": 2023,
+      "norma": 5
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/3/diariooficial_edicao_1125_assinado.pdf da norma Lei nº 596, de 18 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "DIÁRIO OFICIAL ANO V, Nº 1125, VITÓRIA DO MEARIM-MA, QUINTA-FEIRA, 18 DE MAIO DE 2023 EDIÇÃO DE HOJE: 4 PÁGINAS",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/3/diariooficial_edicao_1125_assinado.pdf",
+      "ano": 2023,
+      "norma": 433
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/4/diariooficial_edicao_1125_assinado.pdf da norma Lei nº 598, de 18 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "DIARIO OFICIAL ANO V, Nº 1125, VITÓRIA DO MEARIM-MA, QUINTA-FEIRA, 18 DE MAIO DE 2023 EDIÇÃO DE HOJE: 4 PÁGINAS",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/4/diariooficial_edicao_1125_assinado.pdf",
+      "ano": 2023,
+      "norma": 434
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/diariooficial_edicao_1125_assinado.pdf da norma Lei nº 597, de 18 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "DIARIO OFICIAL ANO V, Nº 1125, VITÓRIA DO MEARIM-MA, QUINTA-FEIRA, 18 DE MAIO DE 2023 EDIÇÃO DE HOJE: 4 PÁGINAS",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/5/diariooficial_edicao_1125_assinado.pdf",
+      "ano": 2023,
+      "norma": 435
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/diario_oficial_edicao_1162.pdf da norma Lei nº 602, de 10 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Vitoria do Mearim",
+                [
+                  "2023-07-10T19:52:10-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "DIARIO ELETRONICO DO MUNICIPIO edição 1162",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/6/diario_oficial_edicao_1162.pdf",
+      "ano": 2023,
+      "norma": 437
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/7/diariooficial_edicao_1196_assinado_resolucao_10.pdf da norma Resolução Legislativa nº 10, de 29 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Vitoria do Mearim",
+                [
+                  "2023-08-28T19:24:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "DIARIO OFICIAL OFICIAL DO MUNICIPIO ANO V, Nº 1196, VITÓRIA DO MEARIM-MA, SEGUNDA-FEIRA, 28 DE AGOSTO DE 2023.",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/7/diariooficial_edicao_1196_assinado_resolucao_10.pdf",
+      "ano": 2023,
+      "norma": 441
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/8/diariooficial_edicao_1198_assinado.pdf da norma Lei nº 604, de 30 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Vitoria do Mearim",
+                [
+                  "2023-08-30T18:28:15-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "PUBLICAÇÃO NO DIÁRIO OFICIAL_EDICAO_1198 ANO V, Nº 1198, VITÓRIA DO MEARIM-MA, EDIÇÃO DE 30 DE AGOSTO DE 2023. (15 PÁGINAS)",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/8/diariooficial_edicao_1198_assinado.pdf",
+      "ano": 2023,
+      "norma": 442
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/diariooficial_edicao_1199_assinado.pdf da norma Lei nº 605, de 30 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Vitoria do Mearim",
+                [
+                  "2023-08-31T18:36:18-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "PUBLICAÇÃO NO DIÁRIO OFICIAL_EDICAO_1198 ANO V, Nº 1198, VITÓRIA DO MEARIM-MA, EDIÇÃO DE 31DE AGOSTO DE 2023. (15 PÁGINAS)",
+      "anexo_arquivo": "http://sapl.vitoriadomearim.ma.leg.br/media/sapl/public/anexonormajuridica/2023/9/diariooficial_edicao_1199_assinado.pdf",
+      "ano": 2023,
+      "norma": 443
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.vitoriadomearim.ma.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.vitoriadomearim.ma.leg.br/b14eada0ccf75970c4e0606f2586036a71cb538a3c3657bffc9598c2098d85e1.json",
+      "sha256": "aee7bdfdf2eb3e5fa0a0f3631521d0c65f47ab3399780371b1e71fce3e5c7388",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.vitoriadomearim.ma.leg.br/b14eada0ccf75970c4e0606f2586036a71cb538a3c3657bffc9598c2098d85e1.meta.json"
+    }
+  ],
+  "total": 9
+}

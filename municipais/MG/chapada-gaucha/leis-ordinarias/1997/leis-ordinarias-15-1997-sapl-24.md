@@ -1,0 +1,285 @@
+---
+titulo: "Lei Ordinária nº 15, de 14 de fevereiro de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "15"
+data: "1997-02-14"
+municipio: "Chapada Gaúcha"
+uf: "MG"
+codigo_ibge: "3116159"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1997-06-06; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.chapadagaucha.mg.leg.br/norma/24"
+fonte_texto: "https://sapl.chapadagaucha.mg.leg.br/ta/24/text"
+sha256_fonte: "832e610364adb800f122fe9d66e42a5845f7d250a3d174aacf897e6067664f60"
+sha256_texto: "ea6915a44d472070d7ccb04bde400cc107f94a166d0c9c37481784b15d689339"
+capturado_em_fonte: "2026-10-27T22:47:44.252419-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 15, de 14 de fevereiro de 1997
+
+Cria o Conselho Municipal de Assistência Social e dá Outras Providências.
+
+
+**O Povo do Município de Chapada Gaúcha, Estado de Minas Gerais, por seus representantes legais na Câmara Municipal, decretou e eu sanciono o seguinte:**
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Assistência Social - CMAS, órgão deliberativo, de caráter permanente e âmbito municipal.
+
+
+Art. 2º.
+
+Respeitadas as competências exclusivas do Legislativo Municipal, compete ao Conselho Municipal de Assistência Social;
+
+
+I –
+
+Definir as prioridades da política de assistência social;
+
+
+II –
+
+Estabelecer as diretrizes a serem observadas na elaboração do plano municipal de assistência social;
+
+
+III –
+
+Aprovar a Política Municipal de Assistência Social;
+
+
+IV –
+
+Atuar na formulação de estratégias e controle da execução da política de Assistência Social;
+
+
+V –
+
+Propor critérios para a programação e para as execuções financeiras orçamentarias do Fundo Municipal de Assistência Social, e fiscalizar movimentação e a aplicação dos recursos;
+
+
+VI –
+
+Acompanhar, avaliar e fiscalizar os serviços de assistência prestados à população pelos órgãos, entidades públicas e privadas no Município;
+
+
+VII –
+
+Definir critérios de qualidade para o funcionamento dos serviços de assistência social públicos e privados no âmbito Municipal;
+
+
+VIII –
+
+Definir critérios para a celebração de contratos ou convênios entre o setor público e as entidades privadas que prestem serviços de Assistência Social no âmbito Municipal;
+
+
+IX –
+
+Apreciar previamente os contratos e convênios referidos no inciso anterior;
+
+
+X –
+
+Elaborar e aprovar o seu Regimento Interno;
+
+
+XI –
+
+Zelar pela efetivação do Sistema descentralizado e participativo de Assistência Social;
+
+
+XII –
+
+Convocar Ordinariamente a cada 02 (dois) anos, ou extraordinariamente, por maioria absoluta de seus membros, a conferência Municipal de Assistência Social, que terá atribuição de avaliar a situação da Assistência Social e propor diretrizes para o aperfeiçoamento do Sistema.
+
+
+XIII –
+
+Acompanhar e avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos programas e projetos aprovados.
+
+Conselho será formado pelos seguintes Representantes.
+
+
+a)
+
+(01) Representante da Secretaria de Assistência Social
+
+
+b)
+
+(01) Representante do Órgão da Saúde
+
+
+c)
+
+(01) Representante de Creches
+
+
+d)
+
+(01) Representante da associação comunitária
+
+
+e)
+
+(01) Representante do Clube de Mães da Comunidade.
+
+
+XIV –
+
+Acompanhar e Avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos programas e projetos aprovados;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 32, de 06 de junho de 1997.
+
+
+XV –
+
+Aprovar critérios de concessão e valor dos benefícios eventuais:
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 32, de 06 de junho de 1997.
+
+
+§ 1º
+
+Cada titular do CMAS terá 1 (um) Suplente, oriundo da mesma categoria representativa.
+
+
+§ 2º
+
+Somente será admitida a participação no CMAS de entidades juridicamente constituídos e em regular funcionamento.
+
+
+§ 3º
+
+A soma dos representantes que tratam os incisos II, III, IV do presente artigo não será inferior à metade do total de membros do CMAS.
+
+
+Art. 3º.
+
+
+Art. 4º.
+
+Os membros efetivos e suplentes do CMAS serão nomeados pelo Prefeito Municipal, mediante indicação.
+
+
+I –
+
+Da autoridade Estadual ou Federal correspondente quanto às respectivas representações.
+
+
+II –
+
+Do único representante legal das entidades nos demais casos.
+
+
+Parágrafo único
+
+Os representantes do Governo Municipal serão de livre escolha do Prefeito.
+
+
+Art. 5º.
+
+A atividade dos membros do CMAS reger-se à pelas disposições seguintes:
+
+
+I –
+
+O exercício da função de Conselheiro é considerado serviço público relevante, e não será remunerado.
+
+
+II –
+
+Os conselheiros serão excluídos do CMAS e Substituídos pelos respectivos suplentes em caso de faltas injustificadas a 03 (três) reuniões consecutivas e a 05 (cinco) reuniões intercaladas.
+
+
+III –
+
+Os membros do CMAS poderão ser substituídos mediante solicitação, da entidade ou autoridade responsável, apresentado ao Prefeito Municipal.
+
+
+IV –
+
+Cada membro do CMAS terá direito a um único voto na sessão plenária.
+
+
+V –
+
+As decisões do CMAS serão consubstanciadas em resoluções.
+
+
+Art. 6º.
+
+O CMAS terá seu funcionamento regido por regimento Interno próprio e obedecendo os seguintes normas.
+
+
+I –
+
+Plenário como órgão de deliberação máxima.
+
+
+II –
+
+As sessões plenárias serão realizadas ordinariamente a cada mês e extraordinariamente quando convocadas pelo Presidente ou por requerimento da maioria dos seus membros.
+
+
+Art. 7º.
+
+O Departamento Municipal de Assistência Social ou equivalente, prestará o apoio administrativo necessário ao funcionamento do CMAS.
+
+
+Art. 8º.
+
+Para melhor desempenho de suas funções o CMAS, poderá recorrer a pessoas e entidades, mediante os seguintes critérios:
+
+
+I –
+
+Consideram - se colaboradores do CMAS, as instituições formadoras de recursos humanos para assistência social e as entidades representativas de profissionais e usuários dos serviços de assistência social sem embargo de sua condição de membros;
+
+
+II –
+
+Poderão ser convidadas pessoas ou instituições de notória especialização para assessorar o CMAS em assuntos específicos;
+
+
+III –
+
+Poderão ser criadas comissões internas, constituídas por entidades membros do CMAS e outras instituições, para promover estudos e emitir pareceres a respeito de temas específicos.
+
+
+Art. 9º.
+
+Todas as sessões do CMAS serão públicas e precedidas de ampla divulgação.
+
+
+Parágrafo único
+
+As resoluções do CMAS, bem como os temas tratados em plenários de diretoria e comissões, serão objeto de ampla e sistemática divulgação.
+
+
+Art. 10.
+
+O CMAS elaborará seu Regimento Interno no prazo de 60 (sessenta) dias após a promulgação da Lei.
+
+
+Art. 11.
+
+O Departamento Municipal e cuja competência estejam afetas as atribuições objeto da presente lei passará a chamar - se Departamento Municipal de Assistência Social.
+
+
+Art. 12.
+
+Fica o Prefeito Municipal autorizado a abrir crédito especial no valor de R$20,000,00 (vinte mil reais) para promover as despesas com a instalação do Conselho Municipal de Assistência Social.
+
+
+Art. 13.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas disposições em contrário.
+
+
+**Chapada Gaúcha, 14 de fevereiro de 1997.**
+

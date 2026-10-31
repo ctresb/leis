@@ -1,0 +1,31 @@
+---
+titulo: "DECRETO Nº 3.530/I, DE 17 DE AGOSTO DE 2026"
+uf: "RO"
+municipio: "PORTO VELHO"
+tipo: "Decreto"
+numero: "3530"
+data: 2026-08-17
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 18/08/2026"
+data_publicacao: 2026-08-18
+codigo_identificador: "DD6DCCA6"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116132_2026-08-17_c888e23be24560d7b036188918daca3e.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 3.530/I, DE 17 DE AGOSTO DE 2026
+
+DECRETO Nº 3.530/I, DE 17 DE AGOSTO DE 2026
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando da
+atribuição que lhe é conferida no inciso XVI do Art. 87, da Lei
+Orgânica do Município de Porto Velho.
+RESOLVE:
+Nomear o servidor abaixo relacionado para exercer o Cargo em
+Comissão da Secretaria Municipal de Comunicação – SECOM, a
+partir de 13 de agosto de 2026.
+
+DAS 02
+
+Publicado por:
+Fernanda Santos Julio

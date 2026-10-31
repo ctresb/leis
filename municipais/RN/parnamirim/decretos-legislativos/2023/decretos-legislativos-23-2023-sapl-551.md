@@ -1,0 +1,51 @@
+---
+titulo: "Decreto Legislativo-MD nº 23, de 19 de dezembro de 2023"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "23"
+data: "2023-12-19"
+municipio: "Parnamirim"
+uf: "RN"
+codigo_ibge: "2403251"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.parnamirim.rn.leg.br/norma/551"
+fonte_texto: "https://sapl.parnamirim.rn.leg.br/media/sapl/public/normajuridica/2023/551/decreto_legislativo_no023.2023_titulo_cidadao_.pdf"
+sha256_fonte: "314fc46ef60faa218f141288c46919c1640f6a6d7919e6f232fb633b524a2aaa"
+sha256_texto: "ad409d63793c864f696de835906955c84f93a11aeb3084a41abfc9e7a09b89d8"
+baixado_em: "2026-10-16"
+---
+
+# Decreto Legislativo-MD nº 23, de 19 de dezembro de 2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CAMARA MUNICIPAL DE : PARNAMIRIM A CASA DO POVO
+
+Decreto Legislativo n° D: Concede a Medalha de honra ao Mérito Empreendedor no Municipio de Paramirim/RN.
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE PARNAMIRIM: Faz saber que a Câmara Municipal aprovou e eu seu Presidente decreto o seguinte, em conformidade com o disposto no Artigo 39, da Lei Orgánica do Municipio, e na Resolução N'OS, de 0S de junho de 2021.
+
+Art. 1" - Fica concedida a Medalha de Honra ao Mérito Empreendedor, aos 06 (seis) que se destacaram pelos serviços prestados no Municipio de Pamamirim/RN, conforme descrito abaixo: Vereador Empreendedor Janduy Azevedo da Silva Gabriel César de Oliveira Siqueira Francisco Eduardo Dantas Michael Borges de Souza Ruana Ferreira de Souza e Silva Taveira Thiago Femandes da Silva Eder Rodrigues de Queiroz Hélio de Oliveira Kaliedna Lopes da Silva Jesé Afrânio Bezerra da Silva Larissa Alves Chianca Oliveira Ana Caroline carvalho de Lima Pires Câmara CAMARA 1.27 Camara TURAL Digitala conecta
+
+CÂMARA MUNICIPAL DE : PARNAMIRIM A CASA DO POVO
+
+Art. 2" • A Mesa Diretora da Camara Mumcipal de lamamirim/KN. incumbir-se-a das providências necessárias para definições da data, hora, local e cerimonia da referida outorga, Art. Jª - Este Decreto Legislativo entrari em vigor na data de sua publicação revogada as disposições em contrário. Paramirim/RN, 19 de dezembro de 2023 WOLNEY FRETAS DE AZEVEDO TRA reador/Presidente MICHAEL BORGES DE SOLZA Vereador/1 Vice-Presidefte Thiago insand THIAGO FERNANDES DA SILVA Vereador/2° Vice-Presidente GUSTAVO NEGOCIO DE FREITAS ANA CAROLINA CARVALHO DE LIMA PIRES Vereadora S' Secretária Vereadon 1° Secretário CUTIRAL Câmara Camara Digitaln ecta cO
+
+Diario Oficial do Municipio de Parnamirim RN -DONNISO 23/12/2023 EXTRATOS EXTRATO DE CONTRATO N° 127202I N DO PROCESSO 50.831/2023 - VIAIDOC, - CONTRATANTE: SECRETARIA TURISMO E DESENVOLVIMENTO DE MUNICIPAL ECONÔMICO - SETUDE CONTRATADO: LEVI RIBEIRO DOS SANTOS 046042264 - CNPE: 32.960.35100001-05 0BJETO: Contratação da atração Levi Ribeiro para a realização de show artistico no Municiplo de Paranitim, que setá realizado no evento Corredor Natalino, que acontecerá no dia 30 de deretoleo do contente ano, a parti das 193, no Largo da Cohabinal. VALOR: R$ 5.000,00 (cinco mil resis) VIGENCIA: 21 de derembro de 2023 a 19 de março de 2024 UNIDADE ORÇAMENTARIA: 02.141 - Sectetaria Municipal de Turino e Desenvolvimento Economico; 2102 - Eventos de Tatismo e Marketing, no elemento de despesa 3.3.50.39 - Outtos Serviços de Terceltos - Pessoa Juridica; 15000000 Recurs Proprio FUNDAMENTAÇÃO LEGAL: Art. 25, caput e inciso III, da Lei Enderal n° 8.666/93. Paramirim/RN, 2l de dezembro de 2023 JARRAS FERNANDO MONTEIRO DO NASCIMENTO FILIO Secretáno Municipal de Turismo e Desenvolvimenta Froniatico - SETUDE SETUDE. DE PROCESSO ADMINISTRATIVO INENIGIBILIDADE N° 50,831/2023. CONTRATANTE Secretaria Municipal de Turismo e Desenvolvitento Eronichico - SETUDE / LEVI MIBEIRO DOS SANTOS 046642264 36,142.579 - CNPI: 32/60 1590001-05. OIUETO: Contratação da anação Levi Ribeito para a realização de show artistico no Munitipão de Pamamirim, que será realizado no evento Corredor Natalino, que Largo da Colabinal VALOR: R$ 5,000,00 (cinco mil resis). VIGÊNCIA: 21 de derembro de 2021 a 19 de março de 2024. UNIDADE ORÇAMENTARIA: 02.141 - Secretaria Municipal de - Pevoa Juridica; 15000000 Recursos Próprios. Federal n° 8.066/93. Panamirim 1N, 21 de derembro de 2023 JARBAS FERNANDO MONTERO DO NASCIMENTO FILIO Secretário Municipal de Turiuno e Desenvolvimento Economico - SETUDE Pipina 15 de 17 O1UTO: Contratação da atração Diogo das Virgens para a realizagão de show artistico no Municipio de Pammirim, que serà realizado no evento Conedor Natalino, que açontecerá no dia 29 de derembro do corrente ano, a partir das 19h, no Largo da Colabinal, VALOR: RS 5,000,00 (cinco mil mais) VIGENCIA: 2l de dezembro de 2023 a 19 de nonço de 2024, UNIDADE ORÇAMENTÁRIA: 02.141 - Secretaria Municipal de Tumuno e Desenvolvimento Economico; 2102 - Eventos de Turiano e Marketing, no elemento de despesa 3.1.90.19 - Dutros Serviços de Terceitos - Pessoa Juridica; 15000000 Recarsos Priprios. FUNDAMENTAÇÃO LEGAL: Ant. 25, caput e incho III, da Lei Federal n° 8,66693, Pamamirim RN, 21 de derembro de 2023 JARBAS FERNANDO MONTEIRO DO NASCIMENTO FILIO Secretário Municipal de Turiuno e Desenvolvimento Economico - SETUDE EXTRATO DO TERMO DE INEXIGIBILIDADE N° 114/2021 - SETUDE PROCISSO ADMINISTRATIVO INENIGIBILIDADE N° 50,855/2021, CONTRATANTI: / CONTRATADO: O Municipio de Pamaminm - IN atraves da Secretaria Municipal de Turiamo e Desemalvimento Economico - SETUDE / DIOGO JOAQUIM ARAUTO DAS VIRGENS 3462221 - CNP: 34.082L 221/001-16. -. OBJETO: Contratação da atração Dioço das Virgens para a realização de show artistico no Municipio de Parantirim, que será realizado no evento Corredor Natalino, que acontecerá no dia 29 de derembro do corrente ano, e partir das 15h, no Largo da Colabiral. VALOR: R$ 5,000,00 (cinco mil reals). VIGÊNCIA: 21 de dezembro de 2023 a 19 de março de 2024, UNIDADE ORÇAMENTARIA: 02.141 - Secretaria Municipal de Turismo e Desenvolvimento Econômico; 2102 - Eventos de Turiuna e Marketing, no elemento de despesa 3.3.90.39 - Outros Serviços de Tenceltos - Pesoa Juridica; 15000000 Recursos Proprios. FUNDAMENTAÇÃO LEGAL: Art. 25, caput e incho III, da Tra Federal n° 8,665 91 Pamaminm RN, 21 de dezembro de 2023 JARIAS FERNANDO MONTERO DO NASCIMENTO FILHO Secretario Manicipal de Turismo e Desemolvimento Economico SETUDE ATOS DO PODER LEGISLATIVO CAMARA •Camara Monicipal de Paramirim
+
+DECRETOS
+
+Decreto Legilativo n° 023/2023, Concede a Medalha de honra ao Mérito
+
+Pagina fale 17 Diário Oficial do Municipo de Paramisias RN 21/12/2023 DOM4150 AMBRÓSIO e Marcos Antônio Gomes da Silva MARQUINHO
+
+A MESA DIRETORA DA CAMARA MUNICIPAL DE DA CLIMEPi sob a presidencia do primeiro, para comporem a PARNAMIRIM: Comisão de Representação Social "Comivão de Recesso Faz saber que a Câmara Municipal aprovou e eu seu Presidente decreto Parlamentar", no periodo de 23 de dezembro de 2023 a 01 «e o seguinte, em conformidade com o disposta no Antipo 39, da Lei fevereiro de 2024, Organica da Municipio, e na Resolução nº05, de 08 de junho de 2021. Ant. 2° - Este ato entra em vigor na data de sua publicação, revogadas
+
+Art. 1ª • Fica concedada a Medalha de Honra ao Mérito as disposições em contrário. Empreendedor, aos DG (seis) que se destaçaram pelas serviços Publique-se e cumpra-se. prestados no Município de Pamamirim IN, conforme descrito atuixo: Paramirim/RN, 21 de derembro de 2023. Vereador Empreendedor WOLNEY FREITAS DE AZEVEDO FRANÇA Jandry Azevedo da Silva Gabriel Cesar de Oliveira Vereador/ Presidente Siqueira Francisco Eduardo Dantas Michael Borges de Sogra Thiago Fernandes da Silva Ruana Ferreira de Soura e Silva Taveira Taber Rodriques de Queitos Hélio de Oliveira Katiedna Lopes da Silva Tosé Afrânia Bererta da Silva EXTRATOS Lativa Alves Chanca Oliveira Ara Caroline carvalho de Lima EXTRATO DE ORDEM DE COMPRA N. 5432021 CONTRATANTES: CÂMARA MUNICIPAL DE PARNAMIRIME
+
+**Art. 2°** • A Mesa Diretora da Câmara Municipal de PamamirinvRN. L.A.F BORDUREMA • ME • CNPJ в." 09,471.609 0001-52, QUETO: incumbireesa das pevidências necesarias para delinições da data, Contratação de empresa para prestação de serviços de revisan e bora, local e cerimonia da referida outorga, manutenção programada com reposição de peças para motocicleta alcial modelo HONDA/CO 150 FAN ESI FLEX, ano 2011.
+
+**Art. 3º** • Este Decreto Legilativo entrará em vigor na data de sua placa\_NOH0557/RN de propriedade da Camara Municipal de publicação revogada as disposições em contrário Pamantiri/RN, Valor Global RS: 2.233,00 (dois mil e durentos e trinta e três reais) - RECURSOS: 01,031,001.2001 - Manutenção e Paramirim RN , 19 de dezembro de 2023. Funcionamento da Unidade, no Elemento de Despesa 3.390,30 - Material de Comuto - Fonte 101 - FUNDAMENTAÇÃO LEGAL: WOLNEY FREITAS DE AZEVEDO FRANÇA An. 24, 11, da Lei n°. 8,06603 e sas alterações posteriores PamanitinutN, 14 de novembro 2023. P/ Contratante: WOLNEV VereadoriFresdente FREITAS DE AZEVEDO FRANÇA - Presidente e P/ Contratada: LA.F BORBUREMA - ME MICHAEL BORGES DE SOUZA Vereador/t Vice-Presidente THIAGO FERNANDES DA SILVA Vereadon 2ª Vice-Presidente EXTRATO DE ORDEM DE SERVIÇO N° S140021 ANA CAROLINA CARVALHO GUSTAVO NEGÓCIO DE CONTRATANTES: CAMARA MUNICIPAL DE PARNAMIRIM DE LIMA PIRES FREITAS L.A.F BORBUREMA • ME, CNPJ 09.473.603.0001-52, OBIETO: Vereadora/2ª Secretária Veteador Secretário Contratação de empresa para prestação de serviços de revián e manutenção programada com reponição de peças para motocicleta ofical modelo HONDA/CO 150 FAN EST FLEX, ano 2011. placa\_NOH0557(RN de propriedade da Camara Municipal de Pamamirim RN. Valor Global R$: 590,00 (cinquenta e noventa reais). - PORTARIAS RECURSOS: 01.031.001.2001 - Manutenção e Funcionamento da Unidade, no Elemento de Despesa 1.3.90.39 - Outra Serviços de Portaria nº035/2021- DPL Terceina Penca Juridica - Fonte 101 - FUNDAMENTAÇÃO LEGAL: An. 24, 11, da Lei n°. 0,66653 e suas alterações posteriones
+
+O PRESIDENTE DA CAMARA MUNICIPAL DE Pararirin/HN, 14 de dezembro de 2023, P/ Contratante: WOLNEY PARNAMIRIMAAN, no uno de sua atribuições legan, e FREITAS DE AZEVEDO FRANÇA - Presidente e P' Contratada; LA.F BORBUREMA - ME CONSIDERANDO que o RECESSO PARLAMENTAR realizar-se-l no periodo de 23 de dezembro de 2023 a 01 de fevereiro de 2024 BESOLVE:
+

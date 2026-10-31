@@ -1,0 +1,49 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 7.000.000,00 (sete milhões de reais) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento Geral do Município, no valor de R$ 7.000.000,00 (sete milhões de reais), detalhadas no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do Crédito Adicional Suplementar de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, detalhadas no Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 22 de agosto de 2024.  
+  
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Edson Luiz Pagnussat  
+Secretário Municipal da Administração  
+  
+Nilton Aparecido Bobato  
+Secretário Municipal da Transparência e Governança  
+  
+Darlei Finkler  
+Responsável pela Secretaria Municipal da Fazenda - Interino
+
+
+## Anexo I
+
+
+<table><tbody><tr><td colspan="5">ANEXO I - SUPLEMENTAÇÃO</td></tr><tr><td>Órgão</td><td>10</td><td colspan="2">SECRETARIA MUNICIPAL DA SAÚDE</td><td>TOTAL</td></tr><tr><td>Unidade</td><td>01</td><td colspan="2">FUNDO MUNICIPAL DE SAÚDE</td><td> </td></tr><tr><td>Funcional Programática</td><td>10.302.0570.2064</td><td colspan="2">Manutenção das Unidades de Pronto Atendimento - UPA</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.50.85</td><td colspan="2">Contrato de Gestão - Instituição de Caráter Assistencial em Saúde</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td colspan="2">Recursos Ordinários (Livres) - Exercício Corrente ..........</td><td>3.000.000,00</td></tr><tr><td>Fonte de Recursos</td><td>1.496</td><td colspan="2">Atenção de Média e Alta Complexidade Ambul. e Hospitalar ...</td><td>3.500.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.50.85</td><td colspan="2">Contrato de Gestão</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td colspan="2">Recursos Ordinários (Livres) - Exercício Corrente ..........</td><td>500.000,00</td></tr><tr><td colspan="5">Justificativa: Adequação orçamentária para continuação do Contrato nº 047/2020 com a Fundação Municipal de Saúde, conforme Decreto nº 32.816/2024, que prorroga o prazo para a extinção da Fundação Municipal de Saúde.</td></tr><tr><td colspan="3">TOTAL DA SUPLEMENTAÇÃO .....................................</td><td colspan="2">7.000.000,00</td></tr></tbody></table>
+
+
+## Anexo II
+
+
+<table><tbody><tr><td colspan="5">ANEXO II - ANULAÇÃO</td></tr><tr><td>Órgão</td><td>10</td><td colspan="2">SECRETARIA MUNICIPAL DA SAÚDE</td><td>TOTAL</td></tr><tr><td>Unidade</td><td>01</td><td colspan="2">FUNDO MUNICIPAL DE SAÚDE</td><td> </td></tr><tr><td>Funcional Programática</td><td>10.302.0570.2064</td><td colspan="2">Manutenção das Unidades de Pronto Atendimento - UPA</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.30</td><td colspan="2">Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.496</td><td colspan="2">Recursos Ordinários (Livres) - Exercício Corrente ..........</td><td>2.000.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.39</td><td colspan="2">Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td colspan="2">Recursos Ordinários (Livres) - Exercício Corrente ..........</td><td>3.500.000,00</td></tr><tr><td>Fonte de Recursos</td><td>1.496</td><td colspan="2">Recursos Ordinários (Livres) - Exercício Corrente ..........</td><td>1.500.000,00</td></tr><tr><td colspan="5">Justificativa: A anulação do saldo orçamentário não acarretará em impactos, pois trata-se de ajuste técnico do elemento de despesa.</td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO ..........................................</td><td colspan="2">7.000.000,00</td></tr></tbody></table>
+
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

@@ -1,0 +1,544 @@
+CONSIDERANDO o disposto na Constituição da República Federativa do Brasil de 1988; CONSIDERANDO o disposto na Lei Federal nº 9.394/1996, que estabelece as Diretrizes e Bases da Educação Nacional; CONSIDERANDO o disposto na Lei Federal nº 13.005/2014, que aprova o Plano Nacional de Educação e dá outras providências; CONSIDERANDO o disposto na Lei Municipal nº 1178/2015, que aprova o Plano Municipal de Educação de Engenheiro Paulo de Frontin/RJ e dá outras providências; CONSIDERANDO o disposto na Lei Federal nº 13.146/2015, que institui a Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência); CONSIDERANDO o disposto no Decreto Federal nº 10.502/2020, que institui a Política Nacional de Educação Especial: Equitativa, Inclusiva e com Aprendizado ao Longo da Vida; CONSIDERANDO o disposto no Decreto Federal nº 9.765/2019, que institui a Política Nacional de Alfabetização; CONSIDERANDO, o Parecer do CNE/CEB nº 2/2022 (Conselho Nacional de Educação/Câmara de Educação Básica), aprovado em 17 de fevereiro de 2022, que institui normas sobre Computação na Educação Básica – Complemento à Base Nacional Comum Curricular (BNCC); CONSIDERANDO, a Lei Municipal nº 815, de 02 de julho de 2007, que institui o Regimento Interno da Secretaria Municipal de Educação.
+
+
+DECRETA:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica instituída no âmbito da Rede Municipal de Ensino, a Política Municipal de Alfabetização, com implementações de ações voltadas ao acompanhamento da alfabetização, por meio da qual o Município de Engenheiro Paulo de Frontin/RJ, em colaboração com o Estado e o Governo Federal, implementará ações voltadas à promoção da alfabetização baseada em evidências científicas, com a finalidade de melhorar a qualidade da alfabetização no território municipal e combater o analfabetismo absoluto e o analfabetismo funcional, no âmbito das diferentes etapas e modalidades da educação básica e da educação não formal.
+
+
+Art. 2º.
+
+Para fins do disposto neste Decreto, considera-se:
+
+
+I –
+
+alfabetização - desenvolvimento das habilidades de leitura, compreensão e produção autônoma da escrita em um sistema alfabético;
+
+
+II –
+
+analfabetismo absoluto - condição daquele que não sabe ler nem escrever;
+
+
+III –
+
+analfabetismo funcional - condição daquele que possui habilidades limitadas de leitura e de compreensão de texto;
+
+
+IV –
+
+consciência fonêmica - conhecimento consciente das menores unidades fonológicas da fala e a habilidade de manipulá-las intencionalmente;
+
+
+V –
+
+consciência fonológica - conhecimento consciente dos sons das palavras, dissociando-as do seu significado e de segmentar as palavras nos sons que as constituem, no caso, as sílabas;
+
+
+VI –
+
+fluência em leitura oral - capacidade de ler com precisão, velocidade e prosódia;
+
+
+VII –
+
+literacia - conjunto de conhecimentos, habilidades e atitudes relacionadas com a prática social da leitura, da escrita e da oralidade (letramento);
+
+
+VIII –
+
+literacia familiar - conjunto de práticas e experiências de letramento manifestadas no ambiente familiar;
+
+
+IX –
+
+literacia emergente - conjunto de práticas e experiências de letramento que se manifestam naturalmente antes da escolarização formal;
+
+
+X –
+
+numeracia - conjunto de conhecimentos, habilidades e atitudes relacionadas com a matemática que trabalham, estimulam e estruturam o raciocínio lógico;
+
+
+XI –
+
+educação não formal - designação dos processos de ensino e aprendizagem que ocorrem fora dos sistemas regulares de ensino; e
+
+
+XII –
+
+multiletramento - prática de leitura e produção de textos construídos a partir de diferentes linguagens (sonoras, visuais, escritas, corporais e digitais) e que, por isso, exigem letramentos diversificados.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E OBJETIVOS
+
+
+Art. 3º.
+
+São princípios da Política Municipal de Alfabetização:
+
+
+I –
+
+integração e cooperação entre os entes federativos, respeitado o disposto no § 1º do art. 211 da Constituição Federal;
+
+
+II –
+
+adesão voluntária a programas e ações do Ministério da Educação;
+
+
+III –
+
+fundamentação de programas e ações voltadas à alfabetização no âmbito da rede municipal de ensino;
+
+
+IV –
+
+ênfase no ensino de seis componentes essenciais para a alfabetização:
+
+
+a)
+
+consciência fonêmica e fonológica;
+
+
+b)
+
+fluência em leitura oral;
+
+
+c)
+
+desenvolvimento de vocabulário;
+
+
+d)
+
+compreensão de textos;
+
+
+e)
+
+produção autônoma de texto;
+
+
+f)
+
+prática social da leitura e da escrita; e
+
+
+g)
+
+aquisição da estrutura ortográfica e das notações léxicas.
+
+
+V –
+
+adoção de referenciais de políticas públicas exitosas voltadas à alfabetização e ao letramento, nacionais e internacionais, baseadas em evidências científicas;
+
+
+VI –
+
+integração entre as práticas pedagógicas de literacia, numeracia e multiletramentos;
+
+
+VII –
+
+reconhecimento de que o desenvolvimento integral da criança pressupõe a interrelação e a interdependência dos domínios físico, socioemocional, cognitivo e cultural da linguagem, da literacia e da numeracia;
+
+
+VIII –
+
+aprendizagem da leitura, da escrita e da matemática como instrumento de superação de vulnerabilidades sociais e condição para o exercício pleno da cidadania;
+
+
+IX –
+
+igualdade de oportunidades educacionais;
+
+
+X –
+
+reconhecimento da prática social como um dos agentes potencializadores do processo de alfabetização; e
+
+
+XI –
+
+valorização e desenvolvimento de programas de formação continuada de professores alfabetizadores.
+
+
+Art. 4º.
+
+São objetivos da Política Municipal de Alfabetização:
+
+
+I –
+
+elevar a qualidade do ensino e da aprendizagem no âmbito da alfabetização, da literacia e da numeracia, sobretudo nos primeiros anos do ensino fundamental, por meio de abordagens cientificamente fundamentadas;
+
+
+II –
+
+contribuir para a consecução das Metas 5 e 9 do Plano Nacional de Educação de que trata o Anexo à Lei nº 13.005/2014, e Plano Municipal de Educação que trata o Anexo à Lei Nº1.178/2015;
+
+
+III –
+
+desenvolver estratégias previstas na Lei n°1178/2015, que aprova o Plano Municipal de Educação de Engenheiro Paulo de Frontin/RJ, com ênfase às Metas 2, 4, 5, 6, 7, 8 e 9;
+
+
+IV –
+
+implementar programas e ações voltadas à alfabetização no âmbito da rede municipal de ensino;
+
+
+V –
+
+assegurar o direito à alfabetização a fim de promover a cidadania e contribuir para o desenvolvimento social e econômico do Município de Engenheiro Paulo de Frontin/RJ;
+
+
+VI –
+
+oportunizar o oferecimento de tecnologias pedagógicas que combinem, de maneira articulada, à organização do tempo e das atividades didáticas entre a escola e o ambiente comunitário, considerando as especificidades da educação especial e das escolas do campo;
+
+
+VII –
+
+fomentar as tecnologias educacionais inovadoras das práticas pedagógicas que assegurem a alfabetização, a partir das realidades linguísticas diferenciadas, favorecendo a melhoria do fluxo escolar e a aprendizagem dos estudantes, segundo as diversas abordagens metodológicas;
+
+
+VIII –
+
+fomentar pesquisas voltadas ao desenvolvimento de metodologias, materiais didáticos, equipamentos e recursos de tecnologia assistiva, com vistas à promoção do ensino e da aprendizagem, bem como das condições de acessibilidade dos estudantes com deficiência, transtorno do espectro autista, transtorno de déficit de atenção e hiperatividade/impulsividade e altas habilidades ou superdotação;
+
+
+IX –
+
+selecionar e ampliar a aquisição de tecnologias educacionais para a alfabetização de crianças estudantes, assegurada a diversidade de métodos e propostas pedagógicas, bem como o acompanhamento dos resultados nos sistemas de ensino em que forem aplicadas, devendo ser disponibilizadas, preferencialmente, como recursos;
+
+
+X –
+
+promover ações que visem a alfabetização das pessoas com deficiência, considerando as suas especificidades, inclusive a alfabetização bilíngue de pessoas surdas, sem estabelecimento de terminalidade temporal;
+
+
+XI –
+
+impactar positivamente a aprendizagem no decorrer de toda a trajetória educacional, em suas diferentes etapas e níveis;
+
+
+XII –
+
+promover o estudo, a divulgação e a aplicação do conhecimento científico sobre literacia, alfabetização e numeracia;
+
+
+XIII –
+
+incentivar a produção e publicação de estudos científicos a partir de trabalho de estudo de caso e desenvolvimento de metodologias e estratégias de alfabetização inovadoras;
+
+
+XIV –
+
+divulgar as experiências e produções em alfabetização e letramento desenvolvidas nas salas de aula;
+
+
+XV –
+
+assegurar, na Proposta Curricular Municipal, os processos pedagógicos de alfabetização nos anos iniciais do ensino fundamental, articulando-os com as estratégias desenvolvidas na pré-escola, com qualificação e valorização dos professores alfabetizadores e com apoio pedagógico específico, a fim de garantir a alfabetização plena de todas as crianças estudantes;
+
+
+XVI –
+
+garantir, na Proposta Curricular Municipal, a alfabetização de crianças estudantes do campo, de comunidades tradicionais e de populações itinerantes (circenses, ciganos, nômades, acampados e artistas) com a produção de materiais didáticos específicos;
+
+
+XVII –
+
+promover, anualmente, a avaliação da alfabetização das crianças estudantes, bem como estimular as escolas a desenvolver os respectivos instrumentos de monitoramento e avaliação, considerando a realidade de cada comunidade escolar, implementando medidas pedagógicas para alfabetizar todas as crianças estudantes até o final do terceiro ano do ensino fundamental; e
+
+
+XVIII –
+
+implementar ações de alfabetização de jovens, adultos(as) e idosos(as), com garantia de continuidade da escolarização básica.
+
+
+#### CAPÍTULO III — DAS DIRETRIZES
+
+
+Art. 5º.
+
+Constituem diretrizes para a implementação da Política Municipal de Alfabetização:
+
+
+I –
+
+priorização da alfabetização nos primeiros anos do ensino fundamental;
+
+
+II –
+
+incentivo a práticas de ensino para o desenvolvimento da linguagem oral e da literacia emergente na educação infantil;
+
+
+III –
+
+integração de práticas motoras, musicalização, expressão dramática e outras formas artísticas ao desenvolvimento de habilidades fundamentais para a alfabetização;
+
+
+IV –
+
+participação das famílias no processo de alfabetização por meio de ações de cooperação e integração entre a comunidade escolar;
+
+
+V –
+
+estímulo aos hábitos de leitura e escrita e à apreciação literária por meio de ações que os integrem à prática cotidiana das famílias, escolas, bibliotecas e de outras instituições educacionais, com vistas à formação de uma educação literária;
+
+
+VI –
+
+respeito e suporte às particularidades da alfabetização nas diferentes modalidades especializadas de educação;
+
+
+VII –
+
+incentivo à identificação precoce de dificuldades de aprendizagem de leitura, de escrita e de matemática, inclusive dos transtornos específicos de aprendizagem; e
+
+
+VIII –
+
+valorização do professor da educação infantil e do professor alfabetizador.
+
+
+#### CAPÍTULO IV — DO PÚBLICO-ALVO
+
+
+Art. 6º.
+
+A Política Municipal de Alfabetização tem por públicoalvo:
+
+
+I –
+
+crianças na primeira infância;
+
+
+II –
+
+alunos dos anos iniciais do ensino fundamental;
+
+
+III –
+
+alunos da educação básica regular que apresentam níveis insatisfatórios de alfabetização;
+
+
+IV –
+
+alunos da educação de jovens e adultos;
+
+
+V –
+
+alunos das modalidades especializadas de educação.
+
+
+Parágrafo único
+
+São beneficiários prioritários da Política Municipal de Alfabetização os grupos a que se referem os incisos I e II do caput.
+
+
+Art. 7º.
+
+São agentes envolvidos na Política Municipal de Alfabetização:
+
+
+I –
+
+professores da educação infantil;
+
+
+II –
+
+professores atuantes nas turmas de primeiro e segundo ano do ensino fundamental;
+
+
+III –
+
+professores das diferentes modalidades especializadas de educação;
+
+
+IV –
+
+demais professores da educação básica;
+
+
+V –
+
+gestores escolares;
+
+
+VI –
+
+equipe técnica e pedagógica das Unidades de Ensino;
+
+
+VII –
+
+instituições de ensino;
+
+
+VIII –
+
+famílias; e
+
+
+IX –
+
+organização da Sociedade Civil.
+
+
+#### CAPÍTULO V — DA IMPLEMENTAÇÃO
+
+
+Art. 8º.
+
+A Política Municipal de Alfabetização será implementada por meio de programas e ações que incluam:
+
+
+I –
+
+orientações curriculares e estabelecimento de metas claras e objetivas para a educação infantil e para os anos iniciais do ensino fundamental;
+
+
+II –
+
+capacitação de professores de educação infantil, anos iniciais do ensino fundamental e educação de jovens e adultos, voltada para a alfabetização e letramento;
+
+
+III –
+
+seleção e/ou produção de materiais didático-pedagógicos cientificamente fundamentados para a alfabetização, literacia e numeracia, com promoção de capacitação de professores para o uso desses materiais;
+
+
+IV –
+
+recuperação para alunos que não tenham sido plenamente alfabetizados nos anos iniciais do ensino fundamental ou que apresentem dificuldades de aprendizagem de leitura, escrita e matemática;
+
+
+V –
+
+promoção de práticas de literacia familiar;
+
+
+VI –
+
+promoção de mecanismos de certificação de professores alfabetizadores;
+
+
+VII –
+
+difusão de recursos educacionais, preferencialmente com licenças autorais abertas, para ensino e aprendizagem de leitura, de escrita e de matemática;
+
+
+VIII –
+
+incentivo à produção e à edição de livros de literatura para diferentes níveis de literacia;
+
+
+IX –
+
+formação técnica educacional para dar suporte pedagógico aos professores alfabetizadores da educação infantil, aos professores do ensino fundamental e aos alunos;
+
+
+X –
+
+incentivo à elaboração e à validação de instrumentos de avaliação e diagnóstico interno;
+
+
+XI –
+
+elaboração, organização e aplicação de avaliação externa de larga escala nas turmas de primeiro a terceiro ano do ensino fundamental em unidades municipais de ensino;
+
+
+XII –
+
+incentivo à organização de Programa de Apoio à Alfabetização;
+
+
+XIII –
+
+incentivo à aplicação de avaliação externa de larga escala em unidades públicas e privadas do Município de Engenheiro Paulo de Frontin/RJ;
+
+
+#### CAPÍTULO VI — DO MONITORAMENTO E AVALIAÇÃO
+
+
+Art. 9º.
+
+Constituem mecanismos de monitoramento e avaliação da Política Municipal de Alfabetização:
+
+
+I –
+
+monitoramento e avaliação de eficiência, eficácia e efetividade de programas e ações implementados por meio de instrumentos criados pela Secretaria Municipal de Educação;
+
+
+II –
+
+análise de relatórios de acompanhamento emitidos pelo Conselho Municipal de Educação e planilhas de desenvolvimento da alfabetização Municipal;
+
+
+III –
+
+alinhamento das propostas de alfabetização com a legislação vigente;
+
+
+IV –
+
+incentivo à difusão tempestiva de análises devolutivas de avaliações externas e ao seu uso nos processos de ensino e de aprendizagem;
+
+
+V –
+
+desenvolvimento de indicadores municipais para avaliar a eficácia escolar na alfabetização, que priorizem a fluência em leitura oral e proficiência em escrita e matemática.
+
+
+#### CAPÍTULO VII — DISPOSIÇÕES FINAIS
+
+
+Art. 10.
+
+Compete à Secretaria Municipal da Educação de Engenheiro Paulo de frontin/RJ, a coordenação estratégica dos programas e das ações decorrentes desta Política Municipal de Alfabetização.
+
+
+Art. 11.
+
+A colaboração das unidades de ensino pertencentes a Secretaria Municipal de Educação, na Política de Alfabetização, se dará por meio de adesão, na forma a ser definida em instrumentos específicos dos respectivos programas e ações do Ministério da Educação e próprias da Secretaria Municipal de Educação de Engenheiro Paulo de Frontin/RJ
+
+
+Art. 12.
+
+Compete à Secretaria Municipal de Educação, de Engenheiro Paulo de Frontin/RJ, juntamente ao Conselho Municipal de Educação, acompanhar e monitorar a execução desta Política Municipal de Alfabetização.
+
+
+Art. 13.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Eng. Paulo de Frontin, 13 de março de 2025.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal

@@ -1,0 +1,102 @@
+---
+titulo: "Lei nº 2.165, de 27 de maio de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2165"
+data: "2014-05-27"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2016-06-07; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1061"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2349/text"
+sha256_fonte: "3a50f0b52fb2c59e834ed751615163a8c1e4fdc12a4162636266a53ab663f74c"
+sha256_texto: "ce6afca5e64ebd7de195f80c9d0425db5f607e063a5bf2e821ffe751477e866a"
+capturado_em_fonte: "2026-10-27T20:58:16.157328-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.165, de 27 de maio de 2014
+
+“Dispõe sobre o embarque e desembarque de pessoas idosas acima de 60 anos nos veículos de transporte coletivo urbano no Município de Porto Velho, e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe confere o inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Ficam dispensados de passar pela catraca as pessoas idosas acima de 60 (sessenta) anos, e autorizados a embarcarem de ônibus do Sistema de Transporte Coletivo Urbano, por qualquer uma das portas.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 2.304, de 07 de junho de 2016.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 2.304, de 07 de junho de 2016.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 2.304, de 07 de junho de 2016.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 2.304, de 07 de junho de 2016.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 2.304, de 07 de junho de 2016.
+
+
+Art. 3º.
+
+As despesas com a execução da presente Lei correrão por conta das verbas próprias consignadas no orçamento. O Poder Executivo regulamentará esta lei no prazo de trinta dias.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**MAURO NAZIF RASUL**
+
+**Prefeito**
+
+CARLOS DOBBIS
+
+Procurador Geral do Município
+
+**Projeto de Lei nº 3.127/2014.**
+
+**Substituição ao Projeto de Lei nº 2.941/13**
+
+Autoria: Ver. Ana Maria Negreiros.
+

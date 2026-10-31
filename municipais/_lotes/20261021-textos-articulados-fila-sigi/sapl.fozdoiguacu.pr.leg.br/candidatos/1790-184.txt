@@ -1,0 +1,43 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 280.169,97 (duzentos e oitenta mil, cento e sessenta e nove reais e noventa e sete centavos) ao Orçamento Geral da Fundação Cultural de Foz do Iguaçu.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento da Fundação Cultural de Foz do Iguaçu, no valor de R$ 280.169,97 (duzentos e oitenta mil, cento e sessenta e nove reais e noventa e sete centavos), mediante a inclusão de elementos de natureza da despesa no orçamento da administração indireta, conforme Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do Crédito Adicional Suplementar de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os valores resultantes de anulação parcial de dotações orçamentárias, ou de créditos adicionais autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 17 de julho de 2024.  
+  
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Edson Luiz Pagnussat  
+Secretário Municipal da Administração  
+  
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***
+
+
+## Anexo I
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO I - SUPLEMENTAÇÃO</strong></td></tr><tr><td>Órgão</td><td>13</td><td>SECRETARIA MUNICIPAL DE TURISMO E PROJETOS ESTRATÉGICOS</td><td>VALOR</td></tr><tr><td>Unidade</td><td>03</td><td>DIRETORIA DE PROMOÇÃO, MARKETING, E EVENTOS DO TURISMO</td><td> </td></tr><tr><td>Funcional Programática</td><td>23.695.0610.2127</td><td>Promoção do Destino Iguaçu</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.32</td><td>Material, Bem ou Serviço para Distribuição Gratuita</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente .................</td><td>50.000,00</td></tr><tr><td>Órgão</td><td>19</td><td>SECRETARIA MUNICIPAL DA TRANSPARÊNCIA E GOVERNANÇA</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>Funcional Programática</td><td>04.122.0010.2238</td><td>Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.39</td><td>Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente .................</td><td>8.000,00</td></tr><tr><td>Órgão</td><td>31</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2179</td><td>Promoção e Difusão Cultural</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.39</td><td>Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente .........</td><td>222.169,97</td></tr><tr><td colspan="4">Justificativa: Alteração orçamentária nas Emendas Impositivas nos 44/2023, 142/2023, parte da 209/2023, parte da 215/2023, 234/2023 e 286/2023, referente emendas impositivas consideradas inexequíveis, que receberam novas indicações para sua execução orçamentária.</td></tr><tr><td colspan="3">TOTAL DA SUPLEMENTAÇÃO ................................</td><td>280.169,97</td></tr></tbody></table>
+
+
+## Anexo II
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO II - ANULAÇÃO</strong></td></tr><tr><td>Órgão</td><td>08</td><td>SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL</td><td>VALOR</td></tr><tr><td>Unidade</td><td>05</td><td>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td><td> </td></tr><tr><td>Funcional Programática</td><td>08.244.0510.1405</td><td>Repasse a Entidades de Assistência Social - Execução Obrigatória</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.50.41</td><td>Contribuições</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.505</td><td>Royalties Tratado de Itaipu Binacional ............................</td><td>115.000,00</td></tr><tr><td>Órgão</td><td>15</td><td>SECRETARIA MUNICIPAL DE OBRAS</td><td> </td></tr><tr><td>Unidade</td><td>02</td><td>DIRETORIA DE OBRAS</td><td> </td></tr><tr><td>Funcional Programática</td><td>04.122.0150.1098</td><td>Construção e Reforma de Bens Públicos</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.002</td><td>DRM - Desvinculação das Receitas dos Municípios E.C. nº 93/2016 ...</td><td>20.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.505</td><td>Royalties Tratado de Itaipu Binacional ............................</td><td>20.000,00</td></tr><tr><td>Funcional Programática</td><td>04.122.0150.2136</td><td>Manutenção de Próprios Públicos Municipais</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.505</td><td>Royalties Tratado de Itaipu Binacional ............................</td><td>75.169,97</td></tr><tr><td>Órgão</td><td>31</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Funcional Programática</td><td>13.392.0310.1066</td><td>Programa de Fortalecimento e Ampliação de Equipamentos Culturais</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.39</td><td>Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente.</td><td>50.000,00</td></tr><tr><td colspan="4">Justificativa: A anulação do saldo orçamentário não acarretará em impactos, visto que os saldos disponíveis nas dotações são adequados para atender os objetivos planejados.</td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO .....................................</td><td>280.169,97</td></tr></tbody></table>

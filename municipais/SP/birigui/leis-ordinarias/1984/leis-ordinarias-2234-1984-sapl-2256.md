@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 2.234, de 27 de dezembro de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2234"
+data: "1984-12-27"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/2256"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3161/text"
+sha256_fonte: "b21f756fa55e08c01c364b6c3e82b3aec24da18d03c5361a585b5abbae13080f"
+sha256_texto: "427eafa92e16b284e0be91f9dd9b2bf51419c782dfc426181dcf900d1a9cbdc9"
+capturado_em_fonte: "2026-10-27T18:41:22.701464-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.234, de 27 de dezembro de 1984
+
+DISPÕE SOBRE MAJORAÇÃO DE VENCIMENTOS, PROVENTOS E SALÁRIOS DOS SERVIDORES DO MUNICÍPIO, E DÁ PROVIDÊNCIAS CORRELATAS.
+
+
+Eu, **DR. FLORIVAL CERVELATI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Ficam majorados em 75% (setenta e cinco por cento) os vencimentos dos funcionários do quadro desta Prefeitura, os proventos dos inativos e os salários dos contratados, nas condições abaixo:
+
+
+a)
+
+35% (trinta e cinco por cento) nos meses de novembro e dezembro do corrente exercício;
+
+
+b)
+
+mais 40% (quarenta por cento) a partir de 1º (primeiro) de janeiro de 1985 (mil novecentos e oitenta e cinco), sobre os vigentes em outubro de 1984 (mil novecentos e oitenta e quatro).
+
+
+Art. 2º.
+
+A majoração das funções gratificadas obedecerá ao mesmo critério do artigo anterior.
+
+
+Art. 3º.
+
+O salário mínimo dos trabalhadores braçais da Prefeitura Municipal, nos meses de novembro e dezembro do corrente exercício, fica fixado em Cr$ 167.070,00 (cento e sessenta e sete mil e setenta cruzeiros), correspondente a 8 (oito) horas diárias de trabalho ou 48 (quarenta e oito) semanais; a partir de 1º (primeiro) de janeiro de 1985 (mil novecentos e oitenta e cinco), fica estipulado em Cr$ 216.720,00 (duzentos e dezesseis mil, setecentos e vinte cruzeiros).
+
+
+Art. 4º.
+
+Fica concedido aos servidores do Município abono de 40% (quarenta por cento) sobre os seus vencimentos, proventos e salários vigentes em outubro como ressarcimento à diferença de percentual dos meses de novembro de dezembro de 1984 (mil novecentos e oitenta e quatro), cujo pagamento será efetuado até o mês de fevereiro de 1985 (mil novecentos e oitenta e cinco).
+
+
+Art. 5º.
+
+As despesas com a execução da presente lei correrão por conta de verbas próprias consignadas no orçamento corrente, suplementadas se necessário. As inerentes ao exercício de 1985 (mil novecentos e oitenta e cinco) onerarão as dotações específicas da respectiva lei orçamentária.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1º (primeiro) de novembro de 1984 (mil novecentos e oitenta e quatro).
+
+
+Prefeitura Municipal de Birigui, aos vinte e sete de dezembro de mil novecentos e oitenta e quatro.
+
+**DR. FLORIVAL CERVELATI Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e sete de dezembro de mil novecentos e oitenta e quatro, e por Edital, afixado no local de costume.
+
+**EURICO POMPEU SOBRINHO Respondendo pelo Serviço de Administração e Expediente**
+

@@ -1,0 +1,62 @@
+{
+  "host": "sapl.chapadagaucha.mg.leg.br",
+  "metadados_unicos_observados": 264,
+  "total_api_declarado": 264,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 212,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadagaucha.mg.leg.br/cf19091442efacd7729a63e2360272fccbfe952ca113862c04b798af4429df9f.json",
+    "url": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "eb699aed75595731e3b12fdb98522bbfd15a738d11a02c52bc93cfefc195a1c1",
+    "bytes": 952,
+    "capturado_em": "2026-10-27T22:40:08.960898-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadagaucha.mg.leg.br/013fb170a7b771ad6c10a7ab5717889ba8e2e255c82f67793d4bf2c709db3dc0.json",
+    "url": "https://sapl.chapadagaucha.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.chapadagaucha.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c361e6dd96e8955e2c694fd9cf5e16cb1397112b4ba4f5e8161aecaf1a9c1623",
+    "bytes": 856,
+    "capturado_em": "2026-10-27T22:40:08.188202-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadagaucha.mg.leg.br/951acd3d44406a5656370c1e983541ac12e529241a304272f0dd3bb3de4c1d20.json",
+      "url": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2cf2951a1fa03f14c25a04ead8f31021b536213051db50a8c2e8da7b33ae807e",
+      "bytes": 79148,
+      "capturado_em": "2026-10-27T22:40:11.347426-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadagaucha.mg.leg.br/6864a19a7a6265a1ecc198eb6b1d6083b730e8d1526fb7e5ad71ef7308a07745.json",
+      "url": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "59addf59be18293c82f8c2ed02abe529914fdad7d6cc5d259eccfbeb1205e648",
+      "bytes": 58404,
+      "capturado_em": "2026-10-27T22:43:18.872437-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadagaucha.mg.leg.br/b5e2ef3a01f0f6f51508885fb509e8d2bb9c811a9ee2c5ab8bcce289900e9be4.json",
+      "url": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.chapadagaucha.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2e025952435976f9bf6b7d52cbcc3af0f0de270aff575b8327c006c2ca9dd319",
+      "bytes": 40385,
+      "capturado_em": "2026-10-27T22:46:12.211853-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

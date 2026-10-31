@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/anexo_i_e_ii_da_lei_complementar_n_011_-_2024_-_pccr_saude.pdf da norma Lei Complementar nº 11, de 04 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I DA LEI COMPLEMENTAR MUNICIPAL Nº 011 DE 04 DE ABRIL DE 2024.\r\nQUADRO DE PESSOAL DA SAÚDE ,GRUPO 1 – CARGOS DE ANALISTA EM SAÚDE.",
+      "anexo_arquivo": "http://sapl.formosodoaraguaia.to.leg.br/media/sapl/public/anexonormajuridica/2024/1/anexo_i_e_ii_da_lei_complementar_n_011_-_2024_-_pccr_saude.pdf",
+      "ano": 2024,
+      "norma": 519
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/anexo_iii_da_lei_complementar_n_011_-_2024_-_pccr_saude.pdf da norma Lei Complementar nº 11, de 04 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III DA LEI COMPLEMENTAR MUNICIPAL Nº 011 DE 04 DE ABRIL DE 2024",
+      "anexo_arquivo": "http://sapl.formosodoaraguaia.to.leg.br/media/sapl/public/anexonormajuridica/2024/2/anexo_iii_da_lei_complementar_n_011_-_2024_-_pccr_saude.pdf",
+      "ano": 2024,
+      "norma": 519
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosodoaraguaia.to.leg.br/a858332931dec020c519cbafd1a7ca8415bcf92379d0f933952e7e23f081a62f.json",
+      "url": "https://sapl.formosodoaraguaia.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "39cd85a00733d12392b1f61f03050f737213fe0bc831c5b18852ebcebfd3389e",
+      "capturado_em": "2026-10-20T20:50:45.256093",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.formosodoaraguaia.to.leg.br/a858332931dec020c519cbafd1a7ca8415bcf92379d0f933952e7e23f081a62f.json"
+    }
+  ]
+}

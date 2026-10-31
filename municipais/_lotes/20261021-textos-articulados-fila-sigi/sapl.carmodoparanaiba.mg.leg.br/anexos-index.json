@@ -1,0 +1,623 @@
+{
+  "estado": "indice_completo",
+  "total": 59,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/pl_no_28-2019_-_anexo_-_certidao_obito.pdf da norma Lei Ordinária nº 2.528, de 18 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Certidão de Óbito do homenageado",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/1/pl_no_28-2019_-_anexo_-_certidao_obito.pdf",
+      "ano": 2019,
+      "norma": 2381
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/mensagem_de_veto_no_02-2019.pdf da norma Lei Ordinária nº 2.531, de 06 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Mensagem de Veto parcial nº 02/2019 à Proposição de Lei nº 683, que originou esta lei ordinária.",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/2/mensagem_de_veto_no_02-2019.pdf",
+      "ano": 2019,
+      "norma": 2388
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/10/lei_municipal_2549-2020_-_anexo_i_-_quadro_de_det_Son6MMQ.pdf da norma Lei Ordinária nº 2.549, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - QUADRO DE DETALHAMENTO DE DESPESA 2020",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/10/lei_municipal_2549-2020_-_anexo_i_-_quadro_de_det_Son6MMQ.pdf",
+      "ano": 2019,
+      "norma": 2418
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/lei_municipal_2549-2020_-_anexo_ii_-_demonstrativ_cSDgiNE.pdf da norma Lei Ordinária nº 2.549, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - DEMONSTRATIVO DA RECEITA E DESPESAS",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/11/lei_municipal_2549-2020_-_anexo_ii_-_demonstrativ_cSDgiNE.pdf",
+      "ano": 2019,
+      "norma": 2418
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/12/lei_municipal_no_2.551_-_anexo_i_-_objetivos_prio_FoKXVCj.pdf da norma Lei Ordinária nº 2.551, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - OBJETIVOS PRIORITARIOS E PROGRAMAS (ORDENADOS POR PROGRAMA)",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/12/lei_municipal_no_2.551_-_anexo_i_-_objetivos_prio_FoKXVCj.pdf",
+      "ano": 2019,
+      "norma": 2420
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/13/lei_municipal_no_2.551_-_anexo_ii_-_objetivos_pri_fDWYu7c.pdf da norma Lei Ordinária nº 2.551, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - OBJETIVOS PRIORITARIOS E PROGRAMAS (AGRUPADOS POR ÓRGÃOS E UNIDADES ORÇAMENTÁRIAS)",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/13/lei_municipal_no_2.551_-_anexo_ii_-_objetivos_pri_fDWYu7c.pdf",
+      "ano": 2019,
+      "norma": 2420
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/lei_municipal_no_2.551_-_anexo_iii_-_consolidado__Vlpjosr.pdf da norma Lei Ordinária nº 2.551, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Lei Municipal nº 2.551 - ANEXO III - CONSOLIDADO PPA 2018-2021 (POR FUNÇÕES, SUBFUNÇÕES E PROGRAMAS)",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/14/lei_municipal_no_2.551_-_anexo_iii_-_consolidado__Vlpjosr.pdf",
+      "ano": 2019,
+      "norma": 2420
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/lei_municipal_no_2.551_-_anexo_iv_-_consolidado_p_AjShf3G.pdf da norma Lei Ordinária nº 2.551, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Lei Municipal nº 2.551 - ANEXO IV - CONSOLIDADO PPA 2018-2021 (POR FUNÇÕES, SUBFUNÇÕES E UNIDADES ORÇAMENTÁRIAS)",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/15/lei_municipal_no_2.551_-_anexo_iv_-_consolidado_p_AjShf3G.pdf",
+      "ano": 2019,
+      "norma": 2420
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/lei_municipal_no_2.551_-_anexo_v_-_ppa_2018-2021__giFNIG0.pdf da norma Lei Ordinária nº 2.551, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "ANEXO V - PPA 2018-2021 - RESUMO DE DESPESAS POR FUNÇÃO-SUBFUNÇÃO - FONTE DE RECURSO",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2019/16/lei_municipal_no_2.551_-_anexo_v_-_ppa_2018-2021__giFNIG0.pdf",
+      "ano": 2019,
+      "norma": 2420
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/17/resolucao_legislativa_no_82_de_10_de_julho_de_2020_-_demonstrativo_da_despesa_fixada.pdf da norma Resolução Legislativa nº 82, de 10 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa Fixada.",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/17/resolucao_legislativa_no_82_de_10_de_julho_de_2020_-_demonstrativo_da_despesa_fixada.pdf",
+      "ano": 2020,
+      "norma": 2440
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/18/lei_municipal_no_2.588__-_anexo_i_-_resumo_das_despesas_por_funcao_e_subfuncao.pdf da norma Lei Ordinária nº 2.588, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Resumo das despesas por função e subfunção",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/18/lei_municipal_no_2.588__-_anexo_i_-_resumo_das_despesas_por_funcao_e_subfuncao.pdf",
+      "ano": 2020,
+      "norma": 2470
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/19/lei_municipal_no_2.588__-_anexo_ii_-_resumo_das_acoes_por_funcao_subfuncao_e_programas.pdf da norma Lei Ordinária nº 2.588, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Resumo das ações por função, subfunção e programas",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/19/lei_municipal_no_2.588__-_anexo_ii_-_resumo_das_acoes_por_funcao_subfuncao_e_programas.pdf",
+      "ano": 2020,
+      "norma": 2470
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/20/lei_municipal_no_2.588__-_anexo_iii_-_resumo_das_acoes_por_programas_funcao_subfuncao_e_unidades_orcamentarias.pdf da norma Lei Ordinária nº 2.588, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Resumo das ações por programas função, subfunção e unidades orçamentárias",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/20/lei_municipal_no_2.588__-_anexo_iii_-_resumo_das_acoes_por_programas_funcao_subfuncao_e_unidades_orcamentarias.pdf",
+      "ano": 2020,
+      "norma": 2470
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/21/lei_municipal_no_2.588__-_anexo_iv_-_objetivos_prioritarios_e_programas_-_operacoes_especiais.pdf da norma Lei Ordinária nº 2.588, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Objetivos prioritários e programas - operações especiais",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/21/lei_municipal_no_2.588__-_anexo_iv_-_objetivos_prioritarios_e_programas_-_operacoes_especiais.pdf",
+      "ano": 2020,
+      "norma": 2470
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/22/lei_municipal_no_2.588__-_anexo_v_-_objetivos_prioritarios_e_programas_finalisticos.pdf da norma Lei Ordinária nº 2.588, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - Objetivos prioritários e programas fínalisticos",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/22/lei_municipal_no_2.588__-_anexo_v_-_objetivos_prioritarios_e_programas_finalisticos.pdf",
+      "ano": 2020,
+      "norma": 2470
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/23/lei_municipal_no_2.590_anexo_i_-.pdf da norma Lei Ordinária nº 2.590, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/23/lei_municipal_no_2.590_anexo_i_-.pdf",
+      "ano": 2020,
+      "norma": 2472
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/24/lei_municipal_no_2.590_anexo_ii_-_quadro_de_detalhamento_da_despesa_2021.pdf da norma Lei Ordinária nº 2.590, de 29 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Quadro de detalhamento da despesa 2021",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2020/24/lei_municipal_no_2.590_anexo_ii_-_quadro_de_detalhamento_da_despesa_2021.pdf",
+      "ano": 2020,
+      "norma": 2472
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/25/convenio_no_01-2021_-_policia_militar_rodoviaria.pdf da norma Lei Ordinária nº 2.603, de 23 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº 01-2021 - Polícia Militar Rodoviária",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2021/25/convenio_no_01-2021_-_policia_militar_rodoviaria.pdf",
+      "ano": 2021,
+      "norma": 2560
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/26/convenio_no56-2021_-_policia_militar_meio_ambiente.pdf da norma Lei Ordinária nº 2.602, de 23 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº56-2021 - Policia Militar Meio Ambiente",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2021/26/convenio_no56-2021_-_policia_militar_meio_ambiente.pdf",
+      "ano": 2021,
+      "norma": 2559
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/27/convenio_no_03_-_pm.pdf da norma Lei Ordinária nº 2.601, de 23 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Convênio nº 03 - PM",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2021/27/convenio_no_03_-_pm.pdf",
+      "ano": 2021,
+      "norma": 2558
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/28/convenio_policia_civil.pdf da norma Lei Ordinária nº 2.600, de 23 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Convenio Polícia Civil",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2021/28/convenio_policia_civil.pdf",
+      "ano": 2021,
+      "norma": 2557
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/29/projeto_de_lei_no_29-2021_-_anexo_i_-_metas.pdf da norma Lei Ordinária nº 2.618, de 12 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2021/29/projeto_de_lei_no_29-2021_-_anexo_i_-_metas.pdf",
+      "ano": 2021,
+      "norma": 2692
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/30/projeto_de_lei_no_29-2021_-_anexo_ii_-_tabelas_arf_e_amf_e_demonstrativos.pdf da norma Lei Ordinária nº 2.618, de 12 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2021/30/projeto_de_lei_no_29-2021_-_anexo_ii_-_tabelas_arf_e_amf_e_demonstrativos.pdf",
+      "ano": 2021,
+      "norma": 2692
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/31/projeto_de_lei_no_33-2021_-_anexo_i_-_mapa_zona_rural.pdf da norma Lei Ordinária nº 2.619, de 19 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2021/31/projeto_de_lei_no_33-2021_-_anexo_i_-_mapa_zona_rural.pdf",
+      "ano": 2021,
+      "norma": 2705
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/32/decreto_municipal_6817.pdf da norma Portaria - Câmara Municipal nº 69, de 10 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/32/decreto_municipal_6817.pdf",
+      "ano": 2022,
+      "norma": 3088
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/38/projeto_de_lei_no_93-2022.pdf da norma Lei Ordinária nº 2.750, de 12 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/38/projeto_de_lei_no_93-2022.pdf",
+      "ano": 2022,
+      "norma": 3122
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/40/projeto_de_lei_no_105-2022_-_croqui.pdf da norma Lei Ordinária nº 2.755, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/40/projeto_de_lei_no_105-2022_-_croqui.pdf",
+      "ano": 2022,
+      "norma": 3129
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/41/seagate_crystal_reports_-_relloarelatoriodemorctdsp.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/41/seagate_crystal_reports_-_relloarelatoriodemorctdsp.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/42/seagate_crystal_reports_-_relloaprgtrbgovanexo7.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/42/seagate_crystal_reports_-_relloaprgtrbgovanexo7.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/43/seagate_crystal_reports_-_relloaprgtrbanexo6res.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/43/seagate_crystal_reports_-_relloaprgtrbanexo6res.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/44/seagate_crystal_reports_-_relloanatdsporg.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/44/seagate_crystal_reports_-_relloanatdsporg.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/45/seagate_crystal_reports_-_relloanatdsp.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/45/seagate_crystal_reports_-_relloanatdsp.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/46/seagate_crystal_reports_-_relloadspvclanexo8.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/46/seagate_crystal_reports_-_relloadspvclanexo8.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/47/seagate_crystal_reports_-_relloademorgfunanexo9.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/47/seagate_crystal_reports_-_relloademorgfunanexo9.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/48/seagate_crystal_reports_-_quadro_de_detalhamento_de_despesa.pdf da norma Lei Ordinária nº 2.752, de 14 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/48/seagate_crystal_reports_-_quadro_de_detalhamento_de_despesa.pdf",
+      "ano": 2022,
+      "norma": 3124
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/49/seagate_crystal_reports_-_relatorioanexoii.pdf da norma Lei Ordinária nº 2.754, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/49/seagate_crystal_reports_-_relatorioanexoii.pdf",
+      "ano": 2022,
+      "norma": 3128
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/50/seagate_crystal_reports_-_relatorioanexoiia.pdf da norma Lei Ordinária nº 2.754, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/50/seagate_crystal_reports_-_relatorioanexoiia.pdf",
+      "ano": 2022,
+      "norma": 3128
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/51/seagate_crystal_reports_-_relatorioanexoiii.pdf da norma Lei Ordinária nº 2.754, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/51/seagate_crystal_reports_-_relatorioanexoiii.pdf",
+      "ano": 2022,
+      "norma": 3128
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/52/seagate_crystal_reports_-_relatoriofuncaosubfunprg.pdf da norma Lei Ordinária nº 2.754, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/52/seagate_crystal_reports_-_relatoriofuncaosubfunprg.pdf",
+      "ano": 2022,
+      "norma": 3128
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/53/seagate_crystal_reports_-_relatoriounidadeprogramas.pdf da norma Lei Ordinária nº 2.754, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2022/53/seagate_crystal_reports_-_relatoriounidadeprogramas.pdf",
+      "ano": 2022,
+      "norma": 3128
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/54/resolucao_legislativa_o_106-2023_-_anexo.pdf da norma Resolução Legislativa nº 106, de 10 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2023/54/resolucao_legislativa_o_106-2023_-_anexo.pdf",
+      "ano": 2023,
+      "norma": 3314
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/55/loa_anexo_10.pdf da norma Lei Ordinária nº 2.865, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Quadro de Detalhamento de Despesa - 2024",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2023/55/loa_anexo_10.pdf",
+      "ano": 2023,
+      "norma": 3412
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/57/1.pdf da norma Resolução Legislativa nº 113, de 12 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2024/57/1.pdf",
+      "ano": 2024,
+      "norma": 3543
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/58/portaria_10.pdf da norma Portaria - Câmara Municipal nº 10, de 02 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "anexo",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2024/58/portaria_10.pdf",
+      "ano": 2024,
+      "norma": 3422
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/qdd_2025_aprovado_pelo_executivo.pdf da norma Lei Ordinária nº 2.929, de 10 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Lucas da Silva Mendes",
+                [
+                  "2025-01-15T14:30:21-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Quadro de Detalhamento COMPLETO",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/59/qdd_2025_aprovado_pelo_executivo.pdf",
+      "ano": 2025,
+      "norma": 3609
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/qdd_2025_camara_ap_legislativo.pdf da norma Lei Ordinária nº 2.929, de 10 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE DETALHAMENTO PODER LEGISLATIVO",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/60/qdd_2025_camara_ap_legislativo.pdf",
+      "ano": 2025,
+      "norma": 3609
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/loa_2025_anexos.pdf da norma Lei Ordinária nº 2.929, de 10 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "DEMAIS ANEXOS DA LOA/2025",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/61/loa_2025_anexos.pdf",
+      "ano": 2025,
+      "norma": 3609
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/62/pca_2025_-_para_publicar_paulo_vitor_maio.pdf da norma Portaria - Câmara Municipal nº 49, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/62/pca_2025_-_para_publicar_paulo_vitor_maio.pdf",
+      "ano": 2025,
+      "norma": 3657
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/64/pca_2025_-_para_publicar_alana_setembro.pdf da norma Portaria - Câmara Municipal nº 73, de 29 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2024/64/pca_2025_-_para_publicar_alana_setembro.pdf",
+      "ano": 2024,
+      "norma": 3517
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/65/pca_2025_-_para_publicar_alana_outubro.pdf da norma Portaria - Câmara Municipal nº 59, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/65/pca_2025_-_para_publicar_alana_outubro.pdf",
+      "ano": 2025,
+      "norma": 3690
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/anexo_-_ldo.pdf da norma Lei Ordinária nº 2.967, de 08 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/66/anexo_-_ldo.pdf",
+      "ano": 2025,
+      "norma": 3720
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/anexo_ldo.pdf da norma Lei Ordinária nº 2.967, de 08 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/67/anexo_ldo.pdf",
+      "ano": 2025,
+      "norma": 3720
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/68/pca_2026_-_2para_publicar.pdf da norma Portaria - Câmara Municipal nº 53, de 30 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/68/pca_2026_-_2para_publicar.pdf",
+      "ano": 2025,
+      "norma": 3683
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/termo_de_cooperacao_tecnica_no_01-2026.pdf da norma Decreto Municipal nº 8.394, de 30 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Termo de Cooperação Técnica nº 01/2026.",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/72/termo_de_cooperacao_tecnica_no_01-2026.pdf",
+      "ano": 2026,
+      "norma": 3981
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/74/pca_2027_-_2para_publicar_junho2026.pdf da norma Portaria - Câmara Municipal nº 33, de 03 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "ANEXO PCA 2027",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/74/pca_2027_-_2para_publicar_junho2026.pdf",
+      "ano": 2026,
+      "norma": 3992
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/75/retificacao_do_decreto_legislativo_no_137_de_08_de_junho_de_2026.pdf da norma Decreto Legislativo  nº 137, de 08 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "Retificação do Decreto Legislativo nº 137 de 08 de junho de 2026",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/75/retificacao_do_decreto_legislativo_no_137_de_08_de_junho_de_2026.pdf",
+      "ano": 2026,
+      "norma": 3994
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/77/pca_2026_-_2para_publicar_setembro2026_2.pdf da norma Portaria - Câmara Municipal nº 22, de 05 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/77/pca_2026_-_2para_publicar_setembro2026_2.pdf",
+      "ano": 2026,
+      "norma": 3793
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/78/atestado_bruno_moraes.pdf da norma Portaria - Câmara Municipal nº 55, de 16 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/78/atestado_bruno_moraes.pdf",
+      "ano": 2026,
+      "norma": 4190
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/79/anexos_lei_complementar_no_21_de_16_de_outubro_de_2026.pdf da norma Lei Complementar nº 21, de 16 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Anexos Lei Complementar nº 21 de 16 de outubro de 2026",
+      "anexo_arquivo": "http://sapl.carmodoparanaiba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/79/anexos_lei_complementar_no_21_de_16_de_outubro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 4193
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmodoparanaiba.mg.leg.br/474ed5037e71350333e534402a11a2c214023a7f820f8b1dbc203a37a9830f5d.json",
+      "url": "https://sapl.carmodoparanaiba.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.carmodoparanaiba.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "74262e11a7c23f5099321fec08eae9210e06eed7de5a881b303fef1bbb1bd473",
+      "bytes": 28743,
+      "capturado_em": "2026-10-27T22:33:23.216918-03:00"
+    }
+  ]
+}

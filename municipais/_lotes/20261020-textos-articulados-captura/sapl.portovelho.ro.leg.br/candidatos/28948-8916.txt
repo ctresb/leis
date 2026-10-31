@@ -1,0 +1,29 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transferência de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.240, de 27 de dezembro de 2024 - Lei Orçamentária Anual - LOA 2025,
+
+Considerando o Ofício n.° 2213/2026/SEMED/DIORP, de 05 de março de 2026, pelo qual a Secretaria Municipal de Educação - SEMED solicita a movimentação de recursos para cobertura de despesas com os processos n.º 004.006049/2025-01, tendo como objeto aquisição de material de ferramentas destinadas a atender as necessidades de manutenção e suporte às atividades administrativas,
+
+**D E C R E T A:**
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transferência de recursos orçamentários no valor de R$ 6.000,00 (seis mil reais).
+
+**Art. 2º** - A transferência decorrente da repriorização de categoria econômica (corrente ou capital) nas ações de governo e resultantes das realocações de recursos entre as categorias econômicas, grupos de despesas, modalidades de aplicações e elementos de despesa, dentro da mesma unidade orçamentária, conforme disposto no inciso o XVII do Artigo 6º da Lei nº 3.193, de 27 de junho de 2024 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><p><strong>09.00 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td colspan="7"><p><strong>09.01 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSFERE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td rowspan="2">09.01.12.122.313.2.273 </td><td rowspan="2">Manutenção da sede e unidades educacionais </td><td rowspan="2">FIS</td><td>3.3.90.30</td><td>1.500.0025.1001.0000</td><td>6.000,00</td><td>-</td></tr><tr><td>4.4.90.52</td><td>1.500.0025.1001.0000</td><td>-</td><td>6.000,00</td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><strong>6.000,00</strong></td><td><strong>6.000,00</strong></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><strong>6.000,00</strong></td><td><strong>6.000,00</strong></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 20.737, de 27 de dezembro de 2024 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 20.738, de 27 de dezembro de 2024.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+**LEONARDO BARRETO DE MORAES**  
+Prefeito do Município
+
+**WAGNER GARCIA DE FREITAS**  
+Secretário Municipal de Economia
+
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral Município

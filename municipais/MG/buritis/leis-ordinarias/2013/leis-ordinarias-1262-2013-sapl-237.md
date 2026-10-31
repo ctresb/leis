@@ -1,0 +1,48 @@
+---
+titulo: "Lei nº 1.262, de 21 de janeiro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1262"
+data: "2013-01-21"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/237"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1000/text"
+sha256_fonte: "6ddf11bd9147d5893159f587dbe177ec97890149b3665703a29dbad73d32eb52"
+sha256_texto: "5e626609334a70dbc77b04d435daa05adb6fd4c97252fa16815f0a2d406e8686"
+capturado_em_fonte: "2026-10-27T20:01:02.604390-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.262, de 21 de janeiro de 2013
+
+Altera no âmbito do Poder Legislativo Municipal o vencimento do cargo comissionado de Secretário de Gabinete, previsto na Lei Complementar n 072/2010 e alterações posteriores, em virtude do aumento do salário mínimo.
+
+
+O PREFEITO DO MUNICÍPIO DE BURITIS, Estado de Minas Gerais, faz saber que a Câmara Municipal de Buritis decreta e ele sanciona a seguinte lei:
+
+
+Art. 1º.
+
+0 padrão de vencimento do cargo de Secretário de gabinete do Poder Legislativo Municipal passa a ser de R$ 678,00 (seiscentos e setenta e oito reais), em virtude do aumento do salário mínimo, nos termos do Decreto Federal nº 7.872, de 26 de dezembro de 2012, que regulamenta a lei federal 12.382, de 25 de fevereiro de 2011.
+
+
+Art. 2º.
+
+As despesas decorrentes da presente lei correrão à conta de dotações próprias do orçamento do poder legislativo municipal.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a partir do dia 01 de janeiro de 2013.
+
+
+Prefeitura Municipal de Buritis-MG, 21 de janeiro de 2013.
+
+**JOÃO JOSÉ ALVES DE SOUZA Prefeito de Buritis-MG**
+

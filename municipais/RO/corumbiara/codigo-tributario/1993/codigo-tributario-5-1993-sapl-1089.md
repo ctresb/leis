@@ -1,0 +1,6946 @@
+---
+titulo: "LEI COMPLEMENTAR nº 5, de 23 de dezembro de 1993"
+tipo: "Código tributário"
+tipo_na_fonte: "LEI COMPLEMENTAR"
+numero: "5"
+data: "1993-12-23"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2002-12-16; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1089"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/223/text"
+sha256_fonte: "98a869ed80059a389edcd577e31e3e2995e2aa8a6bb14271db8b4a7ff2b76e33"
+sha256_texto: "3c4b2ea6ba8706dda827a62189d398f0926a0ade65de225bf7ae75d148e8a467"
+capturado_em_fonte: "2026-10-28T09:29:07.014963-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# LEI COMPLEMENTAR nº 5, de 23 de dezembro de 1993
+
+INSTITUI O CÓDIGO TRIBUTÁRIO DO MUNICÍPIO DE CORUMBIARA-RO.
+
+
+O Prefeito do Município de Corumbiara-RO, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e Ele sanciona e promulga a seguinte;
+
+**L E I:**
+
+
+**DISPOSIÇÃO PRELIMINAR**
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+### TÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+### TÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XVII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XVIII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XIX –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XX –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 9º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 10
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 68.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+### TÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 69.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 70.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 71.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 72.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 73.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 74.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 75.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 76.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 77.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 78.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 79.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção X
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 80.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 81.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 82.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 83.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 84.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 85.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 86.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 87.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 88.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 89.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 90.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 91.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 92.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 93.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 94.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 95.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 96.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 97.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 98.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 99.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 100.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 101.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 102.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 103.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 104.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 105.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 106.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 107.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 108.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 109.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO VIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 110.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 111.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 112.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 113.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 114.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO IX
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 115.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 116.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 118.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO X
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 119.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 120.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 121.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 122.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 123.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 124.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 125.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 126.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 127.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 128.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 129.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 130.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 131.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 132.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 133.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 134.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 135.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 136.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 137.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 138.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 139.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 140.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 141.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 142.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+### TÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 143.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 144.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 145.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 146.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 147.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 148.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 149.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 150.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 151.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 152.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 153.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 154.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 155.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 156.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 157.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 158.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 159.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 160.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 161.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 162.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 163.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 164.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 165.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 166.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 167.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 168.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 169.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção X
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 170.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 171.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 172.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 173.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 174.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 175.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 176.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 177.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 178.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 179.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 180.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 181.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XIV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 182.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 183.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 184.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 185.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 186.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 187.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 188.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 189.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 190.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 191.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XVI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 192.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 193.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 194.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 195.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 196.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 197.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XVII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 198.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 199.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 200.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 201.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 202.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XVIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 203.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 204.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 205.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 206.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 207.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção XIX
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 208.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 209.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 210.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 211.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 212.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 213.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 214.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 215.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 216.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 217.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 218.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 219.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 220.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 221.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 222.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 223.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 224.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 225.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 226.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 227.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 228.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 229.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 230.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 231.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 232.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 233.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 234.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 235.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 236.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 237.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 238.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 239.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Art. 240.
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+Corumbiara, 23 de dezembro de 1.993.
+
+**ARNALDO CARLOS TECO DA SILVA**  
+PREFEITO MUNICIPAL
+
+
+## Anexo I
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo II
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo III
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo IV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo V
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo VI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo VII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo VIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo IX
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo X
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo XI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo XII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo XIII
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo XIV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo XV
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+
+
+## Anexo XVI
+
+(Revogado)
+
+Revogado pelo Art. 198. - LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002.
+

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.constantina.rs.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.constantina.rs.leg.br/036723d5d5b248b902902c2386b20c6f742407da1845389592ddef585896c815.json",
+    "url": "https://sapl.constantina.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.constantina.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T02:23:26.221286-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.constantina.rs.leg.br/fb059958386c93415a629546a25dedae753977fb7aa80e888699b9424287c1bd.json",
+    "url": "https://sapl.constantina.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.constantina.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "190f223ddc323f1880802f18b487c9ec91a34f9bff9d99979a7e8200d812e5a6",
+    "bytes": 758,
+    "capturado_em": "2026-10-28T02:23:25.535454-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.constantina.rs.leg.br/189f70c94412bd74d12e1b78d7bb449f0c5ec50036f9722961b7f028f4fe738b.json",
+      "url": "https://sapl.constantina.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.constantina.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "818c17dd26bf140fabe0951b8c4aba895fb013c2a766eaa123c0d2cf88946407",
+      "bytes": 885,
+      "capturado_em": "2026-10-28T02:23:28.229625-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

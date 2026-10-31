@@ -1,0 +1,483 @@
+---
+titulo: "Resolução nº 421, de 12 de agosto de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "421"
+data: "2026-08-12"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8466"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3670/text"
+sha256_fonte: "d6ef15447c3ead48096d75182ac2646ae12afa374cd43baf21a38a9af0080ed5"
+sha256_texto: "a33d72783d793f2f1e92e064557ab884e73db7096fd232cedc03463a864724ea"
+capturado_em_fonte: "2026-10-27T17:42:49.686562-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 421, de 12 de agosto de 2026
+
+INSTITUI O CÓDIGO DE ÉTICA E DECORO PARLAMENTAR DA CÂMARA MUNICIPAL DE BIRIGUI.  
+Projeto de Resolução nº 8/2025, de autoria da Mesa Diretora.
+
+
+O Presidente da Câmara Municipal de Birigüi:
+
+**FAÇO SABER** que a Câmara Municipal aprovou e eu promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DOS DEVERES, PRERROGATIVAS E PROIBIÇÕES DOS VEREADORES
+
+
+Art. 1º.
+
+Esta Resolução institui o **Código de Ética e Decoro Parlamentar da Câmara Municipal de Birigui**.
+
+
+Art. 2º.
+
+No exercício do mandato, os Vereadores atenderão os princípios éticos e as regras básicas de decoro que devem orientar a conduta dos que sejam titulares ou que estejam no exercício de mandato de Vereador, sujeitando-se aos procedimentos e penalidades aqui estabelecidos.
+
+
+Art. 3º.
+
+São deveres fundamentais dos Vereadores:
+
+
+I –
+
+traduzir, em cada ato, a afirmação e a ampliação da liberdade entre os cidadãos, a defesa da República e do Estado Democrático de Direito, das garantias individuais e dos direitos humanos, bem como trabalhar pela promoção do bem-estar e pela eliminação das desigualdades sociais;
+
+
+II –
+
+pautar-se pela observância dos procedimentos fixados neste Código, como forma de valorização de uma atividade pública capaz de submeter os interesses às opiniões e os diferentes particularismos às ideias reguladoras do bem comum;
+
+
+III –
+
+cumprir e fazer cumprir as Leis, a Constituição da República Federativa do Brasil, a Constituição do Estado de São Paulo, a Lei Orgânica do Município de Birigui e o Regimento Interno da Câmara;
+
+
+IV –
+
+prestar solidariedade política a todos os cidadãos, em especial aos mais vulneráveis, onde quer que se encontrem;
+
+
+V –
+
+contribuir para a afirmação de uma cultura cujos valores não reproduzam, a qualquer título, quaisquer preconceitos entre os sexos, especialmente com relação à raça, credo, orientação sexual, convicção filosófica, ideológica ou política;
+
+
+VI –
+
+denunciar, publicamente, as atitudes nocivas à afirmação da cidadania, ao desperdício do dinheiro público e aos privilégios injustificáveis;
+
+
+VII –
+
+promover a absoluta transparência dos atos inerentes à vereança.
+
+
+Art. 4º.
+
+O Vereador não poderá:
+
+
+I –
+
+desde a expedição do diploma:
+
+
+a)
+
+firmar ou manter contrato com pessoa jurídica de direito público municipal, autarquia, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando obedeça a cláusulas uniformes;
+
+
+b)
+
+aceitar ou exercer cargo, função ou emprego remunerado, inclusive os de que sejam demissíveis *ad nutum*, nas entidades constantes da alínea “a”;
+
+
+II –
+
+desde a posse:
+
+
+a)
+
+ser proprietário, controlador ou diretor de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público municipal, ou nela exercer função remunerada;
+
+
+b)
+
+ocupar cargo ou função de que sejam demissíveis *ad nutum*, nas entidades referidas na alínea “a” do inciso I;
+
+
+c)
+
+patrocinar causa em que seja interessada qualquer das entidades a que se refere a alínea “a” do inciso I;
+
+
+d)
+
+acumular a vereança com cargo público, em desrespeito às regras fixadas no art. 38 da Constituição Federal.
+
+
+#### CAPÍTULO II — DOS ATOS CONTRÁRIOS À ÉTICA E AO DECORO PARLAMENTAR
+
+
+Art. 5º.
+
+É vedado ao Vereador, no exercício de seu mandato:
+
+
+I –
+
+quanto às normas de conduta nas sessões de trabalho da Câmara:
+
+
+a)
+
+utilizar-se, em seus pronunciamentos, de palavras ou expressões incompatíveis com a dignidade do cargo;
+
+
+b)
+
+desacatar ou praticar ofensas físicas ou morais, bem como dirigir palavras contra a honra de seus Pares, perante a Mesa Diretora, o Plenário ou as Comissões, ou a qualquer cidadão ou grupos de pessoas que assistam a sessões de trabalho da Câmara;
+
+
+c)
+
+prejudicar ou dificultar o acesso dos cidadãos a informações ou documentos de interesse público ou sobre os trabalhos da Câmara, salvos os casos protegidos por lei;
+
+
+d)
+
+desrespeitar a propriedade intelectual das proposições, no âmbito da Câmara Municipal;
+
+
+e)
+
+atuar de forma negligente ou deixar de agir com diligência e probidade no desempenho de funções administrativas para as quais for designado, durante o mandato e em decorrência do mesmo;
+
+
+II –
+
+quanto ao respeito à verdade:
+
+
+a)
+
+fraudar votações;
+
+
+b)
+
+deixar de zelar pela total transparência das decisões e atividades da Câmara ou dos Vereadores no exercício dos seus mandatos;
+
+
+c)
+
+utilizar-se de subterfúgios para reter ou dissimular informações a que estiver legalmente obrigado, particularmente, na declaração de bens ou rendas;
+
+
+d)
+
+utilizar-se de meios de comunicação, para atingir, ilicitamente, a imagem e a honra de qualquer pessoa;
+
+
+e)
+
+faltar com a verdade em discursos de qualquer natureza, de modo a promover a disseminação de informações falsas;
+
+
+III –
+
+quanto ao respeito aos recursos públicos:
+
+
+a)
+
+deixar de zelar, com responsabilidade, pela proteção e defesa do patrimônio e dos recursos públicos;
+
+
+b)
+
+pleitear ou usufruir favorecimentos ou vantagens pessoais ou ilícitos eleitorais, com recursos públicos, na forma orçamentária ou financeira;
+
+
+c)
+
+contribuir para criar ou ordenar aplicação indevida de recursos públicos;
+
+
+d)
+
+deixar de apresentar relatório de viagem que empreender a serviço da Câmara e às expensas da mesma;
+
+
+IV –
+
+quanto ao uso do poder inerente ao mandato:
+
+
+a)
+
+obter favorecimento ou protecionismo na contratação de quaisquer serviços e obras com a Administração Pública por pessoas, empresas ou grupos econômicos;
+
+
+b)
+
+influenciar decisões do Executivo, da Administração da Câmara ou de outros setores da Administração Pública, para obter vantagens ilícitas ou imorais para si mesmo ou para pessoas de seu relacionamento pessoal ou político;
+
+
+c)
+
+condicionar sua tomada de posição ou seu voto, nas decisões da Câmara, a contrapartidas pecuniárias ou de quaisquer espécies, concedidas pelos interessados direta ou indiretamente na decisão;
+
+
+d)
+
+indicar e solicitar à Administração da Câmara a contratação, para cargo em comissão ou função de confiança, de quem não cumpra as atribuições de seu cargo ou função
+
+
+#### CAPÍTULO III — DAS PENALIDADES
+
+
+Art. 6º.
+
+As penalidades aplicáveis às infrações a este Código de Ética serão as seguintes, em ordem crescente de gravidade:
+
+
+I –
+
+advertência pública verbal ou escrita;
+
+
+II –
+
+suspensão de prerrogativas regimentais, por prazo de 15 (quinze) a 60 (sessenta) dias;
+
+
+III –
+
+suspensão temporária do mandato, por prazo de 15 (quinze) a 60 (sessenta) dias, sem direito ao subsídio;
+
+
+IV –
+
+perda do mandato.
+
+
+§ 1º
+
+A suspensão de prerrogativas regimentais consiste na impossibilidade de utilização da palavra em Sessões de qualquer natureza, bem como de manifestação em Comissões, caso em que o Presidente da Câmara deverá nomear substituto *ad hoc*.
+
+
+§ 2º
+
+A aplicação da sanção de suspensão de prerrogativas regimentais não abrange a discussão de projetos.
+
+
+§ 3º
+
+A suspensão temporária do mandato consiste na impossibilidade da prática de qualquer ato inerente à Vereança, inclusive o recebimento do subsídio.
+
+
+Art. 7º.
+
+As penalidades serão aplicadas segundo a gravidade da infração cometida e as circunstâncias do caso.
+
+
+Art. 8º.
+
+A advertência pública verbal será aplicada ao Vereador que deixar de observar dever contido no art. 3º desta Resolução, quando não for o caso de aplicação de medida ou sanção mais grave.
+
+
+Art. 9º.
+
+O Presidente da Câmara Municipal, em Sessão, pode aplicar de maneira imediata e verbal, advertência pública verbal ao Vereador que violar dever previsto no art. 3º ou que incidir nas vedações previstas na alínea “a” do inciso I ou na alínea “e” do inciso II, ambos do art. 5º.
+
+
+§ 1º
+
+No caso previsto pelocaput, o Vereador sancionado terá o prazo de 15 (quinze) dias úteis, contados da Sessão em que lhe foi aplicada a sanção, para apresentar recurso ao Conselho de Ética e Decoro Parlamentar.
+
+
+§ 2º
+
+Se a matéria for exclusivamente de direito, o Conselho proferirá imediato julgamento, mantendo ou afastando a sanção.
+
+
+§ 3º
+
+Se a matéria depender de dilação probatória, o Conselho seguirá o rito do art. 18 e seguintes, desde Código.
+
+
+Art. 10.
+
+A advertência pública escrita, bem como a suspensão de prerrogativas regimentais será aplicada, quando não couber penalidade mais grave, ao Vereador que:
+
+
+I –
+
+reincidir nas hipóteses do artigo 8º;
+
+
+II –
+
+praticar ato que infrinja dever contido no inciso I, do art. 5º, desta Resolução.
+
+
+Art. 11.
+
+A suspensão temporária do mandato por prazo de 15 (quinze) a 60 (sessenta) dias será aplicada, quando não couber penalidade mais grave, ao Vereador que:
+
+
+I –
+
+reincidir nas hipóteses do artigo 10;
+
+
+II –
+
+praticar ato que infrinja dever contido nos incisos II ao IV do art. 5º desta Resolução.
+
+
+Art. 12.
+
+A perda do mandato observará as regras estabelecidas na legislação federal, quanto ao trâmite processual e ao julgamento.
+
+
+Parágrafo único
+
+Quando a gravidade da infração justificar sanção não prevista nos arts. 8º a 11, deverá ser instaurado processo de cassação, observada a legislação federal.
+
+
+#### CAPÍTULO IV — DO CONSELHO DE ÉTICA E DECORO PARLAMENTAR
+
+
+Art. 13.
+
+A Câmara elegerá seu Conselho de Ética, composto por 3 (três) Vereadores como membros titulares e 3 (três) suplentes, com mandato de 2 (dois) anos, mediante sorteio, com a presença de todos os Vereadores eleitos na Legislatura, observando-se, quando possível, a representação proporcional dos partidos ou dos Blocos Parlamentares com representação na Câmara Municipal.
+
+
+Parágrafo único
+
+O Presidente da Casa Legislativa fica proibido de fazer parte do Conselho de Ética e Decoro Parlamentar.
+
+
+Art. 14.
+
+Após a posse do Presidente da Câmara Municipal, este terá até 10 (dez) dias uteis para realizar o sorteio dos membros do Conselho de Ética e Decoro Parlamentar.
+
+
+Art. 15.
+
+Após o sorteio, os membros titulares do Conselho de Ética terão até 7 (sete) dias uteis para escolher o Presidente.
+
+
+Parágrafo único
+
+Se a escolha não for realizada no prazo fixado no *caput* deste artigo, ou se a escolha não for viabilizada por meio de votação entre os membros titulares, caberá ao Presidente da Câmara Municipal nomear o Presidente do Conselho de Ética e Decoro Parlamentar.
+
+
+#### CAPÍTULO V — DO PROCESSO DISCIPLINAR
+
+
+Art. 16.
+
+O processo ético-disciplinar pode ser iniciado a partir de representação protocolizada por qualquer vereador ou cidadão.
+
+
+Art. 17.
+
+Recebida a representação, o Presidente do Conselho de Ética, no prazo de 15 (quinze) dias úteis, mandará ouvir o representado, por escrito ou verbalmente, sendo reduzido a termo.
+
+
+Art. 18.
+
+Após a apresentação da defesa, o Presidente do Conselho de Ética nomeará, dentre os membros titulares, um Relator, que promoverá a apuração preliminar e sumária dos fatos, providenciando as diligências que entender necessárias para a devida instrução do processo.
+
+
+Parágrafo único
+
+Não caracterizado o fato como infração ética ou não se apurando a autoria, caberá ao Conselho de Ética arquivar a representação.
+
+
+Art. 19.
+
+Não sendo o caso de arquivamento, as partes serão intimadas para que indiquem as provas que desejam produzir, no prazo de 5 (cinco) dias úteis.
+
+
+Art. 20.
+
+Após a instrução probatória, será aberta vista dos autos às partes, para que apresentem alegações finais, sob a forma escrita ou verbal, sendo reduzida a termo no último caso.
+
+
+Art. 21.
+
+Após a apresentação das alegações finais ou transcorrido o respectivo prazo, caberá ao Relator do processo a elaboração de relatório e voto para submeter à apreciação do Conselho de Ética e Decoro Parlamentar.
+
+
+Art. 22.
+
+A aplicação das sanções de advertência verbal e escrita será feita diretamente pelo Conselho de Ética e Decoro Parlamentar ao Vereador condenado, e as demais sanções dependerão de aprovação em Plenário, por meio de quórum de:
+
+
+I –
+
+maioria absoluta, para as sanções de suspensão das prerrogativas regimentais e de suspensão temporária do mandato;
+
+
+II –
+
+maioria qualificada, de ⅔ (dois terços), para a perda do mandato.
+
+
+§ 1º
+
+A aplicação das sanções previstas no inciso I será formalizada em Projeto de Resolução, no bojo do qual deve-se oportunizar a discussão pelas partes, e, na sequência, a votação será nominal.
+
+
+§ 2º
+
+A aplicação da sanção prevista no inciso II observará o estabelecido pela legislação federal, quanto ao trâmite e ao julgamento.
+
+
+Art. 23.
+
+Das decisões proferidas pelo Conselho de Ética e Decoro Parlamentar cabe recurso, no prazo de 15 (quinze) dias úteis, caso em que o órgão pode manter ou afastar a decisão inicialmente proferida.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 24.
+
+Aplicam-se subsidiariamente a este Código, as disposições do Código de Processo Penal.
+
+
+Art. 25.
+
+Por ocasião do início da vigência deste Código, o Conselho de Ética e Decoro Parlamentar será imediatamente designado, nos termos do Capítulo IV, cujo mandato terminará em 31 de dezembro de 2026.
+
+
+Art. 26.
+
+Esta Resolução entrará em vigor na data de sua publicação, revogando-se em seu inteiro teor a Resolução nº 327, de 08 de setembro de 2011.
+
+
+Câmara Municipal de Birigui, em 11 de junho de 2025.
+
+**REGINALDO FERNANDO PEREIRA PRESIDENTE**
+
+Publicada na Secretaria da Câmara Municipal, na data supra, por afixação no local de costume.
+
+**EDUARDO CASTILHO POLISEL ASSESSOR LEGISLATIVO**
+

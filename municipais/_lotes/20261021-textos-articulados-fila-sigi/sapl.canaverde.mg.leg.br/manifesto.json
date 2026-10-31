@@ -1,0 +1,52 @@
+{
+  "host": "sapl.canaverde.mg.leg.br",
+  "metadados_unicos_observados": 141,
+  "total_api_declarado": 141,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 132,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaverde.mg.leg.br/1ebeb30ba6a4ecee3b1fa5432bd1ed941216d0e6397e8a74dad23f19f0451bf2.json",
+    "url": "https://sapl.canaverde.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.canaverde.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9389df3d6c43ea472834504a07fe02ca7311fb226100869d2f8c452cdb0653e7",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T22:24:59.435024-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaverde.mg.leg.br/453531af2abdb8c343211059a5448da5cbe6b4669106e44628ee1d64066e27e7.json",
+    "url": "https://sapl.canaverde.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.canaverde.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d828b47624dd8d041f18d448cbb48433fb4a8884a7af06623826310f99af3786",
+    "bytes": 759,
+    "capturado_em": "2026-10-27T22:24:58.419474-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaverde.mg.leg.br/a4014994ceca8c5e63d4df5d517fb742b64f299a683c1209cd65bf992d27dad1.json",
+      "url": "https://sapl.canaverde.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.canaverde.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0739b44aa240876ba9eed3c7256e193aee2628f53696e0c6459d2ca69636a408",
+      "bytes": 58510,
+      "capturado_em": "2026-10-27T22:25:01.873266-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaverde.mg.leg.br/fcb48373220a2d6c82c26a25e1e322600392f8b37bdaa28a7cdf97c3a5f83371.json",
+      "url": "https://sapl.canaverde.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.canaverde.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9c1056b08cbe0b58092037395cc00b903afcbe713c39aeaf9b57a63e0ba8140c",
+      "bytes": 23183,
+      "capturado_em": "2026-10-27T22:28:19.207138-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

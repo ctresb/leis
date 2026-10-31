@@ -1,0 +1,58 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/projeto_lei_complementar_n-005-2023.pdf da norma Lei Complementar-PMC nº 5, de 29 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Terço de férias",
+      "anexo_arquivo": "http://sapl.caapora.pb.leg.br/media/sapl/public/anexonormajuridica/2023/1/projeto_lei_complementar_n-005-2023.pdf",
+      "ano": 2023,
+      "norma": 11
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/lei_847.pdf da norma Lei Complementar-PMC nº 31, de 30 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A POLÍTICA MUNICIPAL DE ATENDIMENTO AOS DIREITOS DA CRIANÇA E DO ADOLESCENTE, 0 CONSELHO MUNICIPAL DE DIREITOS DA CRIANÇA E DO ADOLESCENTE, O FUNDO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE E O CONSELHO TUTELAR, REVOGA A LEI 760",
+      "anexo_arquivo": "http://sapl.caapora.pb.leg.br/media/sapl/public/anexonormajuridica/2023/2/lei_847.pdf",
+      "ano": 2023,
+      "norma": 26
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/camscanner_18-07-2025_10.46.pdf da norma Lei Complementar-PMC nº 3, de 18 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Lei complementar n°03/2025",
+      "anexo_arquivo": "http://sapl.caapora.pb.leg.br/media/sapl/public/anexonormajuridica/2025/3/camscanner_18-07-2025_10.46.pdf",
+      "ano": 2025,
+      "norma": 32
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/0-plc_no_001-2025_-_reformula_estrutura_administrativa_caapora_2025_finalizado-.pdf da norma Lei Complementar-PMC nº 1, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.caapora.pb.leg.br/media/sapl/public/anexonormajuridica/2025/4/0-plc_no_001-2025_-_reformula_estrutura_administrativa_caapora_2025_finalizado-.pdf",
+      "ano": 2025,
+      "norma": 30
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caapora.pb.leg.br/ef68b4a7f98089c34c4e990cda3c8cfd0912cfff549f62e4732faa95376e3016.json",
+      "url": "https://sapl.caapora.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.caapora.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f6c6bfc41d1c37b0f3adba4f52d5e59c68eaf3e235235ab4f33878b8441e830e",
+      "bytes": 2167,
+      "capturado_em": "2026-10-27T20:08:22.862817-03:00"
+    }
+  ]
+}

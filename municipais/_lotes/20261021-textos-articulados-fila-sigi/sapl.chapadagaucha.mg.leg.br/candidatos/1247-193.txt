@@ -1,0 +1,1123 @@
+Dispõe sobre a licitação pelo critério de julgamento por menor preços ou maior desconto, na forma eletrônica, para a aquisição de bens e para a contratação serviços ou obras, no âmbito da Câmara Municipal de Chapada Gaúcha-MG.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE CHAPADA GAÚCHA-MG**, no uso da atribuição que lhe confere o art. 39, III e XIII, do Regimento Interno;
+
+**CONSIDERANDO** o disposto na Lei Federal nº 14.133, de 01 de abril de 2021;
+
+**CONSIDERANDO** o disposto na Resolução nº 10, de 27 de outubro de 2023, em especial no seu artigo 42;
+
+**CONSIDERANDO** a necessidade de regulamentar os procedimentos relativos ao processamento de licitação pelo critério de julgamento por menor preço ou maior desconto, na forma eletrônica, para a aquisição de bens e para a contratação de serviços e obras, em observância ao disposto na Lei Federal nº 14.133, de 1º de abril de 2021, denominada de Lei de Licitações e Contratos Administrativos;
+
+**RESOLVE:**
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+##### Seção I — Objeto e âmbito de aplicação
+
+
+Art. 1º.
+
+Esta Portaria regulamenta, no âmbito da Câmara Municipal de Chapada Gaúcha-MG, a licitação pelo critério de julgamento por menor preço ou maior desconto, na forma eletrônica, para a aquisição de bens e para a contratação de serviços e obras, em observância ao disposto na Lei Federal nº 14.133, de 1º de abril de 2021, denominada de Lei de Licitações e Contratos Administrativos.
+
+
+Parágrafo único
+
+**Parágrafo único.** Excepcionalmente, mediante prévia justificativa da autoridade competente, poderá ser adotada nas licitações a forma presencial, desde que fique comprovada a inviabilidade técnica ou a desvantagem para a Câmara Municipal na realização da forma eletrônica, observado o disposto nos §§ 2º e 5º do art. 17 da Lei nº 14.133, de 1º de abril de 2021.
+
+
+Art. 2º.
+
+Os regulamentos editados pela União para execução da Lei nº 14.133, de 2021 poderão ser utilizados subsidiariamente, naquilo que não for regrado por esta Portaria, com fulcro no artigo 187 da referida norma.
+
+
+##### Seção II — Da adoção, das modalidades e do critério de julgamento
+
+
+Art. 3º.
+
+O critério de julgamento de menor preço ou maior desconto será adotado quando o estudo técnico preliminar demonstrar que a avaliação e a ponderação da qualidade técnica das propostas que excederem os requisitos mínimos das especificações não forem relevantes aos fins pretendidos pela Câmara Municipal.
+
+
+Art. 4º.
+
+O critério de julgamento de menor preço ou maior desconto será adotado:
+
+
+I –
+
+na modalidade pregão, obrigatoriamente;
+
+
+II –
+
+na modalidade concorrência, observado o art. 3º;
+
+
+III –
+
+na fase competitiva da modalidade diálogo competitivo, quando for entendido como o mais adequado à solução identificada na fase de diálogo.
+
+
+##### Seção III — Das definições
+
+
+Art. 5º.
+
+Para fins do disposto nesta Portaria, consideram-se:
+
+
+I –
+
+lances intermediários:
+
+
+a)
+
+lances iguais ou superiores ao menor já ofertado, quando adotado o critério de julgamento de menor preço; e
+
+
+b)
+
+lances iguais ou inferiores ao maior já ofertado, quando adotado o critério de julgamento de maior desconto.
+
+
+II –
+
+Sistema de Licitação Eletrônica: sistema informatizado, via internet, a ser definido no instrumento convocatório, para a realização das sessões públicas de licitações de forma eletrônica, a serem realizadas pela Câmara Muncipal, utilizado inclusive para fins de cadastramento dos participantes;
+
+
+III –
+
+Câmara Municipal: Câmara Municipal de Chapada Gaúcha-MG;
+
+
+IV –
+
+Administração: órgão ou entidade por meio do qual a Administração Pública atua;
+
+
+V –
+
+Órgão: unidade de atuação integrante da estrutura da Administração Pública;
+
+
+VI –
+
+Entidade: unidade de atuação dotada de personalidade jurídica;
+
+
+VII –
+
+PNCP – Portal Nacional de Contratações Públicas, sitio eletrônico oficial destinado à divulgação centralizada e obrigatória dos atos exigidos pela Lei Federal nº 14.133, de 1º de abril de 2021;
+
+
+VIII –
+
+para fins deste regulamento considera-se subsidiariamente no que couber as definições do art. 6° da lei 14.133/2021.
+
+
+##### Seção IV — Das vedações
+
+
+Art. 6º.
+
+Deverá ser observado o disposto no art. 14 da Lei nº 14.133, de 2021, em relação à vedação de participar do procedimento de licitação de que trata esta Portaria.
+
+
+#### CAPÍTULO II — DOS PROCEDIMENTOS
+
+
+##### Seção I — Forma de realização
+
+
+Art. 7º.
+
+A licitação eletrônica a que refere esta Portaria será realizada à distância e em sessão pública, por meio do Sistema de Licitação Eletrônico a ser definido no instrumento convocatório do certame.
+
+
+Parágrafo único
+
+Poderão ser utilizado Sistema de Licitação Eletrônico próprios da Câmara Municipal, de outros entes governamentais ou da iniciativa privada, conforme especificado no instrumento convocatório.
+
+
+##### Seção II — Fases
+
+
+Art. 8º.
+
+A realização da licitação pelo critério do menor preço ou maior desconto observará as seguintes fases sucessivas:
+
+
+I –
+
+preparatória
+
+
+II –
+
+divulgação do edital de licitação;
+
+
+III –
+
+apresentação de propostas e lances;
+
+
+IV –
+
+julgamento;
+
+
+V –
+
+habilitação;
+
+
+VI –
+
+recursal; e
+
+
+VII –
+
+adjudicação e homologação.
+
+
+§ 1º
+
+A fase referida no inciso V do caput deste artigo poderá, mediante ato motivado com explicitação dos benefícios decorrentes, anteceder as fases referidas nos incisos III e IV do caput deste artigo, desde que expressamente previsto no edital de licitação e observados os seguintes requisitos, nesta ordem:
+
+
+I –
+
+os licitantes apresentarão simultaneamente os documentos de habilitação e as propostas com o preço ou o maior desconto, observado o disposto no § 1º do art. 36 e no art. 39;
+
+
+II –
+
+o agente de contratação ou comissão de contratação, quando o substituir, na abertura da sessão pública, deverá informar no sistema o prazo para a verificação dos documentos de habilitação, a que se refere o inciso I, e a data e o horário para manifestação da intenção de recorrer do resultado da habilitação, nos termos do art. 40;
+
+
+III –
+
+serão verificados os documentos de habilitação de todos os licitantes, observado o disposto no § 2º do art. 39; e
+
+
+IV –
+
+serão convocados para envio de lances apenas os licitantes habilitados.
+
+
+§ 2º
+
+Eventual postergação do prazo a que se refere o inciso II do § 1º deve ser comunicada tempestivamente via sistema, de forma a não cercear o direito de recorrer do licitante.
+
+
+§ 3º
+
+Na adoção da modalidade de licitação diálogo competitivo, na forma do disposto no inciso III do art. 4º, serão observadas as fases próprias desta modalidade, nos termos do art. 32 da Lei nº 14.133, de 2021.
+
+
+##### Seção III — Parâmetros do critério de julgamento
+
+
+Art. 9º.
+
+O critério de julgamento por menor preço ou maior desconto considerará o menor dispêndio para a Câmara Municipal ou para os entes consorciados, atendidos os parâmetros mínimos de qualidade definidos no edital de licitação.
+
+
+§ 1º
+
+Os custos indiretos, relacionados às despesas de manutenção, utilização, reposição, depreciação e impacto ambiental, entre outros fatores vinculados ao seu ciclo de vida, poderão ser considerados para a definição do menor dispêndio, sempre que objetivamente mensuráveis, conforme parâmetros definidos em regulamento, de acordo com o § 1º do art. 34 da Lei nº 14.133, de 2021.
+
+
+§ 2º
+
+O julgamento por maior desconto terá como referência o preço global, do lote ou do item, fixado no edital de licitação ou tabela de preços praticada no mercado, e o desconto será estendido aos eventuais termos aditivos.
+
+
+#### CAPÍTULO III — DA CONDUÇÃO DO PROCESSO
+
+
+##### Seção I — Do Agente de Contratação ou Comissão de Contratação
+
+
+Art. 10.
+
+A licitação, na forma eletrônica, será conduzida pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos termos do disposto no § 2º do art. 8º da Lei nº 14.133, de 2021.
+
+
+§ 1º
+
+A designação e atuação do agente de contratação, da equipe de apoio e da comissão de contratação deverão ser estabelecidas de acordo com as regras definidas em regulamento, conforme disposto no § 3º do art. 8º da Lei nº 14.133, de 2021.
+
+
+§ 2º
+
+Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação.
+
+
+§ 3º
+
+Em licitação na modalidade pregão, o agente responsável pela condução do certame será designado pregoeiro.
+
+
+#### CAPÍTULO IV — DA FASE PREPARATÓRIA
+
+
+##### Seção I — Da orientações gerais
+
+
+Art. 11.
+
+A fase preparatória do processo licitatório deve compatibilizar-se com o Plano de Contratações Anual, quando houver e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos os documentos e procedimentos necessários de que dispõe o art. 18 da Lei nº 14.133, de 2021, observada a modalidade de licitação adotada, nos termos do art. 4º.
+
+
+##### Seção II — Do orçamento estimado sigiloso
+
+
+Art. 12.
+
+Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas.
+
+
+§ 1º
+
+Para fins do disposto no caput, o orçamento estimado para a contratação não será tornado público antes de definido o resultado do julgamento das propostas, observado o § 1º do art. 30.
+
+
+§ 2º
+
+O caráter sigiloso do orçamento estimado para a contratação não prevalecerá para os órgãos de controle interno e externo.
+
+
+§ 3º
+
+Nas hipóteses em que for adotado o critério de julgamento pelo maior desconto, o valor estimado ou o valor de referência para aplicação do desconto constará obrigatoriamente do edital de licitação.
+
+
+##### Seção III — Do licitante
+
+
+Art. 13.
+
+Caberá ao licitante interessado em participar da licitação, na forma eletrônica:
+
+
+I –
+
+credenciar-se previamente no Sistema de Licitação Eletrônico indicado no edital de licitação;
+
+
+II –
+
+remeter, no prazo estabelecido, exclusivamente via sistema, a proposta com o preço ou o desconto e, na hipótese de inversão de fases, os documentos de habilitação, observado o disposto no caput e no § 1º do art. 39, até a data e hora marcadas para abertura da sessão;
+
+
+III –
+
+responsabilizar-se formalmente pelas transações efetuadas em seu nome, assumir como firmes e verdadeiras suas propostas e seus lances, inclusive os atos praticados diretamente ou por seu representante, excluída a responsabilidade do provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros;
+
+
+IV –
+
+acompanhar as operações no sistema eletrônico durante o processo licitatório e responsabilizar-se pelo ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas pela Administração ou de sua desconexão; e
+
+
+V –
+
+comunicar imediatamente ao provedor do sistema qualquer acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de acesso.
+
+
+#### CAPÍTULO V — DA FASE DA DIVULGAÇÃO DO EDITAL DE LICITAÇÃO
+
+
+##### Seção I — Divulgação
+
+
+Art. 14.
+
+A fase externa da licitação, na forma eletrônica, será iniciada com a convocação dos interessados mediante divulgação e manutenção do inteiro teor do ato convocatório e de seus anexos no Portal Nacional de Contratações Públicas (PNCP).
+
+
+§ 1º
+
+Sem prejuízo do disposto no caput, é obrigatória a publicação de extrato do edital na imprensa oficial do Município e em jornal de grande circulação.
+
+
+§ 2º
+
+Para o disposto no § 1º deste artigo, considera-se imprensa oficial do Município, o Diário Oficial dos Municípios Mineiros, publicado pela Associação Mineira de Municípios – AMM.
+
+
+##### Seção II — Da modificação do edital de licitação
+
+
+Art. 15.
+
+Eventuais modificações no edital de licitação implicarão nova divulgação na mesma forma de sua divulgação inicial, além do cumprimento dos mesmos prazos dos atos e procedimentos originais, exceto se, inquestionavelmente, a alteração não comprometer a formulação das propostas, resguardado o tratamento isonômico aos licitantes.
+
+
+##### Seção III — Dos esclarecimentos e impugnações
+
+
+Art. 16.
+
+Qualquer pessoa é parte legítima para impugnar edital de licitação por irregularidade ou para solicitar esclarecimento sobre os seus termos, devendo encaminhar o pedido até 3 (três) dias úteis antes da data de abertura da sessão pública, por meio eletrônico, na forma prevista no edital de licitação.
+
+
+§ 1º
+
+O agente de contratação ou a comissão de contratação, quando o substituir, responderá aos pedidos de esclarecimentos e/ou impugnação no prazo de até três dias úteis contado da data de recebimento do pedido, limitado ao último dia útil anterior à data da abertura do certame, e poderá requisitar subsídios formais aos responsáveis pela elaboração do edital de licitação e dos anexos.
+
+
+§ 2º
+
+A impugnação não possui efeito suspensivo, sendo a sua concessão medida excepcional que deverá ser motivada pelo agente de contratação ou pela comissão de contratação, quando o substituir, nos autos do processo de licitação.
+
+
+§ 3º
+
+Acolhida a impugnação contra o edital de licitação, será definida e publicada nova data para realização do certame, observados os prazos fixados no art. 17.
+
+
+§ 4º
+
+As respostas aos pedidos de esclarecimentos e impugnações serão divulgadas em sítio eletrônico oficial do órgão ou da entidade promotora da licitação e no sistema, dentro do prazo estabelecido no § 1º, e vincularão os participantes e a Administração.
+
+
+#### CAPÍTULO VI — DA FASE DA APRESENTAÇÃO DA PROPOSTA E LANCES
+
+
+##### Seção I — Do prazo
+
+
+Art. 17.
+
+Os prazos mínimos para a apresentação das propostas e lances, contados a partir do 1º do útil subsequente à data de divulgação do edital de licitação no PNCP, são de:
+
+
+I –
+
+8 (oito) dias úteis, para a aquisição de bens;
+
+
+II –
+
+no caso de serviços e obras:
+
+
+a)
+
+10 (dez) dias úteis, no caso de serviços comuns e de obras e serviços comuns de engenharia;
+
+
+b)
+
+25 (vinte e cinco) dias úteis, no caso de serviços especiais e de obras e serviços especiais de engenharia;
+
+
+c)
+
+60 (sessenta) dias úteis, quando o regime de execução for de contratação integrada;
+
+
+d)
+
+35 (trinta e cinco) dias úteis, quando o regime de execução for o de contratação semi- integrada ou nas hipóteses não abrangidas pelas alíneas "a", "b" e "c" deste inciso.
+
+
+##### Seção II — Apresentação da proposta
+
+
+Art. 18.
+
+Após a divulgação do edital de licitação, os licitantes encaminharão, exclusivamente por meio do sistema, a proposta com o preço ou o percentual de desconto, até a data e o horário estabelecidos para abertura da sessão pública.
+
+
+§ 1º
+
+Na hipótese de a fase de habilitação anteceder as fases referidas nos incisos III e IV do art. 8º, os licitantes encaminharão, na forma e no prazo estabelecidos no caput, simultaneamente os documentos de habilitação e a proposta com o preço ou o percentual de desconto, observado o disposto no § 1º do art. 36 e no § 1º do art. 39.
+
+
+§ 2º
+
+O licitante declarará, em campo próprio do sistema, sem prejuízo da exigência de outras declarações previstas em legislação específica e na Lei nº 14.133, de 2021, o cumprimento dos requisitos para a habilitação e a conformidade de sua proposta com as exigências do edital de licitação.
+
+
+§ 3º
+
+A falsidade da declaração de que trata o § 2º sujeitará o licitante às sanções previstas na Lei nº 14.133, de 2021.
+
+
+§ 4º
+
+Os licitantes poderão retirar ou substituir a proposta ou, na hipótese do § 1º, os documentos de habilitação anteriormente inseridos no sistema, até a abertura da sessão pública.
+
+
+§ 5º
+
+Na etapa de que trata o caput e o § 1º, não haverá ordem de classificação, o que ocorrerá somente após os procedimentos de que trata o Capítulo VII.
+
+
+§ 6º
+
+Serão disponibilizados para acesso público os documentos que compõem a proposta dos licitantes convocados para apresentação de proposta, após a fase de envio de lances.
+
+
+Art. 19.
+
+Quando do cadastramento da proposta, na forma estabelecida no art. 18, o licitante poderá parametrizar o seu valor final mínimo ou o seu percentual de desconto final máximo e obedecerá às seguintes regras:
+
+
+I –
+
+a aplicação do intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta; e
+
+
+II –
+
+os lances serão de envio automático pelo sistema, respeitado o valor final mínimo ou desconto máximo estabelecido e o intervalo de que trata o inciso I.
+
+
+§ 1º
+
+O valor final mínimo ou o percentual de desconto final máximo de que trata o caput poderá ser alterado pelo fornecedor durante a fase de disputa, sendo vedado:
+
+
+I –
+
+valor superior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por menor preço; e
+
+
+II –
+
+percentual de desconto inferior a lance já registrado pelo fornecedor no sistema, quando adotado o critério de julgamento por maior desconto.
+
+
+§ 2º
+
+O valor final mínimo ou o percentual de desconto final máximo parametrizado na forma do caput possuirá caráter sigiloso para os demais fornecedores e para o órgão ou entidade promotora da licitação, podendo ser disponibilizado estrita e permanentemente aos órgãos de controle externo e interno.
+
+
+#### CAPÍTULO VII — DA ABERTURA DA SESSÃO PÚBLICA E DA FASE DE ENVIO DE LANCES
+
+
+##### Seção I — Horário de abertura
+
+
+Art. 20.
+
+A partir do horário previsto no edital de licitação, a sessão pública será aberta automaticamente pelo sistema.
+
+
+§ 1º
+
+A verificação da conformidade da proposta será feita exclusivamente na fase de julgamento, de que trata o Capítulo VIII, em relação à proposta mais bem classificada.
+
+
+§ 2º
+
+O sistema disponibilizará campo próprio para troca de mensagens entre o agente de contratação ou a comissão de contratação, quando o substituir, e os licitantes, vedada outra forma de comunicação.
+
+
+##### Seção II — Do início da fase competitiva
+
+
+Art. 21.
+
+Iniciada a fase competitiva, observado o modo de disputa adotado no edital, nos termos do disposto no art. 22, os licitantes poderão encaminhar lances exclusivamente por meio do sistema eletrônico.
+
+
+§ 1º
+
+O licitante será imediatamente informado do recebimento do lance e do valor consignado no registro.
+
+
+§ 2º
+
+O licitante somente poderá oferecer valor inferior ou maior percentual de desconto ao último lance por ele ofertado e registrado pelo sistema, observado, o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta.
+
+
+§ 3º
+
+Observado o § 2º, o licitante poderá, uma única vez, excluir seu último lance ofertado, no intervalo de quinze segundos após o registro no sistema, na hipótese de lance inconsistente ou inexequível, nos termos dos arts. 33 e 34.
+
+
+§ 4º
+
+O agente de contratação ou a comissão de contratação, quando o substituir, poderá, durante a disputa, como medida excepcional, excluir a proposta ou o lance que possa comprometer, restringir ou frustrar o caráter competitivo do processo licitatório, mediante comunicação eletrônica automática via sistema.
+
+
+§ 5º
+
+Eventual exclusão de proposta do licitante, de que trata o § 4º, implica a retirada do licitante do certame, sem prejuízo do direito de defesa.
+
+
+§ 6º
+
+Durante a sessão pública, os licitantes serão informados, em tempo real, do valor do melhor lance registrado, vedada a identificação do licitante.
+
+
+##### Seção III — Modos de disputa
+
+
+Art. 22.
+
+Serão adotados para o envio de lances os seguintes modos de disputa:
+
+
+I –
+
+aberto: os licitantes apresentarão lances públicos e sucessivos, com prorrogações, conforme o critério de julgamento adotado no edital de licitação;
+
+
+II –
+
+aberto e fechado: os licitantes apresentarão lances públicos e sucessivos, com lance ﬁnal fechado, conforme o critério de julgamento adotado no edital de licitação; ou
+
+
+III –
+
+fechado e aberto: serão classificados para a etapa da disputa aberta, com a apresentação de lances públicos e sucessivos, o licitante que apresentou a proposta de menor preço ou maior percentual desconto e os das propostas até 10% (dez por cento) superiores ou inferiores àquela, conforme o critério de julgamento adotado
+
+
+§ 1º
+
+Quando da opção por um dos modos de disputa estabelecidos nos incisos I a III do caput, o edital preverá intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação ao lance que cobrir a melhor oferta.
+
+
+§ 2º
+
+Os lances serão ordenados pelo sistema e divulgados da seguinte forma:
+
+
+I –
+
+ordem crescente, quando adotado o critério de julgamento por menor preço; ou
+
+
+II –
+
+ordem decrescente, quando adotado o critério de julgamento por maior desconto.
+
+
+##### Seção II — Modo de disputa aberto
+
+
+Art. 23.
+
+No modo de disputa aberto, de que trata o inciso I do caput do art. 22, a etapa de envio de lances durará dez minutos e, após isso, será prorrogada automaticamente pelo sistema quando houver lance ofertado nos últimos dois minutos do período de duração desta etapa.
+
+
+§ 1º
+
+A prorrogação automática da etapa de envio de lances, de que trata o caput, será de dois minutos e ocorrerá sucessivamente sempre que houver lances enviados nesse período de prorrogação, inclusive quando se tratar de lances intermediários.
+
+
+§ 2º
+
+Na hipótese de não haver novos lances na forma estabelecida no caput e no § 1º, a etapa será encerrada automaticamente, e o sistema ordenará e divulgará os lances conforme disposto no § 2º do art. 22.
+
+
+§ 3º
+
+Deﬁnida a melhor proposta, se a diferença em relação à proposta classiﬁcada em segundo lugar for de pelo menos 5% (cinco por cento), o agente de contratação ou a comissão de contratação, quando o substituir, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa aberta, nos termos estabelecidos no edital de licitação, para a deﬁnição das demais colocações.
+
+
+§ 4º
+
+Após o reinício previsto no § 3º, os licitantes serão convocados para apresentar lances intermediários.
+
+
+§ 5º
+
+Encerrada a etapa de que trata o § 4º, o sistema ordenará e divulgará os lances conforme disposto no § 2º do art. 22. Modo de disputa aberto e fechado
+
+
+Art. 24.
+
+No modo de disputa aberto e fechado, de que trata o inciso II do caput do art. 22, a etapa de envio de lances terá duração de quinze minutos.
+
+
+§ 1º
+
+Encerrado o prazo previsto no caput, o sistema encaminhará o aviso de fechamento iminente dos lances e, transcorrido o período de até dez minutos, aleatoriamente determinado, a recepção de lances será automaticamente encerrada.
+
+
+§ 2º
+
+Após a etapa de que trata o § 1º, o sistema abrirá a oportunidade para que o autor da oferta de valor mais baixo ou de maior percentual de desconto e os autores das ofertas subsequentes com valores ou percentuais até dez por cento superiores ou inferiores àquela, conforme o critério adotado, possam ofertar um lance ﬁnal e fechado em até cinco minutos, que será sigiloso até o encerramento deste prazo.
+
+
+§ 3º
+
+No procedimento de que trata o § 2º, o licitante poderá optar por manter o seu último lance da etapa aberta, ou por ofertar melhor lance.
+
+
+§ 4º
+
+Na ausência de, no mínimo, três ofertas nas condições de que trata o § 2º, os autores dos melhores lances subsequentes, na ordem de classiﬁcação, até o máximo de três, poderão oferecer um lance ﬁnal e fechado em até cinco minutos, que será sigiloso até o encerramento do prazo, observado o disposto no § 3º.
+
+
+§ 5º
+
+Encerrados os prazos estabelecidos nos §§ 2º e 4º, o sistema ordenará e divulgará os lances conforme disposto no § 2º do art. 22.
+
+
+##### Seção III — Modo de disputa fechado e aberto
+
+
+Art. 25.
+
+No modo de disputa fechado e aberto, de que trata o inciso III do caput do art. 22, somente serão classiﬁcados automaticamente pelo sistema, para a etapa da disputa aberta, na forma disposta no art. 23, com a apresentação de lances, o licitante que apresentou a proposta de menor preço ou maior percentual de desconto e os das propostas até 10% (dez por cento) superiores ou inferiores àquela, conforme o critério de julgamento adotado.
+
+
+§ 1º
+
+Não havendo pelo menos 3 (três) propostas nas condições deﬁnidas no caput, poderão os licitantes que apresentaram as três melhores propostas, consideradas as empatadas, oferecer novos lances sucessivos, na forma disposta no art. 23.
+
+
+§ 2º
+
+Deﬁnida a melhor proposta, se a diferença em relação à proposta classiﬁcada em segundo lugar for de pelo menos 5% (cinco por cento), o agente de contratação ou a comissão de contratação, quando o substituir, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa aberta, nos termos estabelecidos no edital de licitação, para a deﬁnição das demais colocações.
+
+
+§ 3º
+
+Após o reinício previsto no § 2º, os licitantes serão convocados para apresentar lances intermediários, podendo optar por manter o seu último lance.
+
+
+§ 4º
+
+Encerrada a etapa de que trata o § 3º, o sistema ordenará e divulgará os lances conforme disposto no § 2º do art. 22.
+
+
+##### Seção IV — Desconexão do sistema na etapa de lances
+
+
+Art. 26.
+
+Na hipótese de o sistema eletrônico se desconectar no decorrer da etapa de envio de lances da sessão pública e permanecer acessível aos licitantes, os lances continuarão sendo recebidos, sem prejuízo dos atos realizados.
+
+
+Art. 27.
+
+Caso a desconexão do sistema eletrônico persistir por tempo superior a dez minutos para o órgão ou a entidade promotora da licitação, a sessão pública será suspensa e reiniciada somente decorridas vinte e quatro horas após a comunicação do fato aos participantes, no sítio eletrônico utilizado para divulgação.
+
+
+##### Seção V — Critérios de desempate
+
+
+Art. 28.
+
+Em caso de empate entre duas ou mais propostas, serão utilizados os critérios de desempate previstos no art. 60 da Lei nº 14.133, de 2021.
+
+
+Parágrafo único
+
+Empatadas as propostas iniciais e não havendo o envio de lances após o início da fase competitiva, aplicam-se os critérios de desempate de que trata o caput.
+
+
+#### CAPÍTULO VIII — DA FASE DO JULGAMENTO
+
+
+##### Seção I — Da veriﬁcação da conformidade da proposta
+
+
+Art. 29.
+
+Encerrada a etapa de envio de lances da sessão pública, o agente de contratação ou a comissão de contratação, quando o substituir, realizará a veriﬁcação da conformidade da proposta classiﬁcada em primeiro lugar quanto à adequação ao objeto estipulado e, observado o disposto nos arts. 33 e 34, à compatibilidade do preço ou maior desconto ﬁnal em relação ao estimado para a contratação, conforme deﬁnido no edital.
+
+
+§ 1º
+
+Desde que previsto no edital, o órgão ou entidade promotora da licitação poderá, em relação ao licitante provisoriamente vencedor, realizar análise e avaliação da conformidade da proposta, mediante homologação de amostras, exame de conformidade e prova de conceito, entre outros testes de interesse da Administração, de modo a comprovar sua aderência às especiﬁcações deﬁnidas no termo de referência ou no projeto básico.
+
+
+§ 2º
+
+O edital de licitação deverá estabelecer prazo de, no mínimo, duas horas, prorrogável por igual período, contado da solicitação do agente de contratação ou da comissão de contratação, quando o substituir, no sistema, para envio da proposta e, se necessário, dos documentos complementares, adequada ao último lance ofertado.
+
+
+§ 3º
+
+A prorrogação de que trata o § 2º, poderá ocorrer nas seguintes situações:
+
+
+I –
+
+por solicitação do licitante, mediante justiﬁcativa aceita pelo agente de contratação ou pela comissão de contratação, quando o substituir; ou
+
+
+II –
+
+de oﬁcio, a critério do agente de contratação ou da comissão de contratação, quando o substituir, quando constatado que o prazo estabelecido não é suﬁciente para o envio dos documentos exigidos no edital para a veriﬁcação de conformidade de que trata o caput.
+
+
+Art. 30.
+
+Na hipótese da proposta do primeiro colocado permanecer acima do preço máximo ou inferior ao desconto deﬁnido para a contratação, o agente de contratação ou a comissão de contratação, quando o substituir, poderá negociar condições mais vantajosas, após deﬁnido o resultado do julgamento.
+
+
+§ 1º
+
+A negociação será realizada por meio do sistema e poderá ser acompanhada pelos demais licitantes.
+
+
+§ 2º
+
+Quando o primeiro colocado, mesmo após a negociação, for desclassiﬁcado em razão de sua proposta permanecer acima do preço máximo ou inferior ao desconto deﬁnido para a contratação, a negociação poderá ser feita com os demais licitantes classiﬁcados, exclusivamente por meio do sistema, respeitada a ordem de classiﬁcação estabelecida no § 2º do art. 22, ou, em caso de propostas intermediárias empatadas, serão utilizados os critérios de desempate deﬁnidos no art. 28.
+
+
+§ 3º
+
+Concluída a negociação, se houver, o resultado será registrado na ata da sessão pública, devendo esta ser anexada aos autos do processo de contratação.
+
+
+§ 4º
+
+Observado o prazo de que trata o § 2º do art. 29, o agente de contratação ou a comissão de contratação, quando o substituir, deverá solicitar, no sistema, o envio da proposta e, se necessário, dos documentos complementares, adequada ao último lance ofertado após a negociação.
+
+
+Art. 31.
+
+No caso de licitações em que o procedimento exija apresentação de planilhas com indicação dos quantitativos e dos custos unitários, bem como com detalhamento das Boniﬁcações e Despesas Indiretas (BDI) e dos Encargos Sociais (ES), esta deverá ser encaminhada pelo sistema com os respectivos valores readequados à proposta vencedora.
+
+
+Art. 32.
+
+Desde que previsto em edital, caso a proposta do licitante vencedor não atenda ao quantitativo total estimado para a contratação, poderá ser convocada a quantidade de licitantes necessária para alcançar o total estimado, respeitada a ordem de classiﬁcação, observado o preço da proposta vencedora.
+
+
+##### Seção II — Da inexequibilidade da proposta
+
+
+Art. 33.
+
+No caso de obras e serviços de engenharia, serão consideradas inexequíveis as propostas cujos valores forem inferiores a 75% (setenta e cinco por cento) do valor orçado pela Administração.
+
+
+Art. 34.
+
+No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores inferiores a 50% (cinquenta por cento) do valor orçado pela Administração.
+
+
+Parágrafo único
+
+A inexequibilidade, na hipótese de que trata o caput, só será considerada após diligência do agente de contratação ou da comissão de contratação, quando o substituir, que comprove:
+
+
+I –
+
+que o custo do licitante ultrapassa o valor da proposta; e
+
+
+II –
+
+inexistirem custos de oportunidade capazes de justiﬁcar o vulto da oferta.
+
+
+##### Seção III
+
+Do encerramento da fase de julgamento.
+
+
+Art. 35.
+
+Encerrada a fase de julgamento, após a veriﬁcação de conformidade da proposta de que trata o art. 29, o agente de contratação ou a comissão de contratação, quando o substituir, veriﬁcará a documentação de habilitação do licitante conforme disposições do edital de licitação, observado o disposto no Capítulo IX.
+
+
+#### CAPÍTULO IX — DA FASE DE HABILITAÇÃO
+
+
+##### Seção I — Documentação obrigatória
+
+
+Art. 36.
+
+Para habilitação dos licitantes, serão exigidos os documentos necessários e suﬁcientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, nos termos dos arts. 62 a 70 da Lei nº 14.133, de 2021.
+
+
+§ 1º
+
+A documentação exigida para fins de habilitação jurídica, fiscal, social e trabalhista e econômico-financeira serão enviadas por meio da plataforma onde for processada a licitção ou desde que previsto no edital de licitação, poderá ser substituída pelo registro cadastral no Sicaf ou em sistemas semelhantes mantidos pela Câmara Municipal.
+
+
+§ 2º
+
+A documentação de habilitação de que trata o caput poderá ser dispensada, total ou parcialmente, nas contratações para entrega imediata, nas contratações em valores inferiores a 1/4 (um quarto) do limite para dispensa de licitação de que trata o inciso II do art. 75 da Lei nº 14.133, de 2021, e nas contratações de produto para pesquisa e desenvolvimento até o valor de que trata o inciso III do art. 70 da Lei nº 14.133, de 2021.
+
+
+§ 3º
+
+No caso de licitante microempreendedor individual, microempresa e empresa de pequeno porte, o instrumento convocatório poderá reduzir as exigiências para habiitação, em observância ao disposto na Lei Municipal nº 1.007, de 30 de junho de 2023.
+
+
+Art. 37.
+
+Quando permitida a participação de empresas estrangeiras que não funcionem no País, as exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados em tradução livre.
+
+
+Parágrafo único
+
+Na hipótese de o licitante vencedor ser empresa estrangeira que não funcione no País, para ﬁns de assinatura do contrato ou da ata de registro de preços, os documentos exigidos para a habilitação serão traduzidos por tradutor juramentado no País e apostilados nos termos do dispostos no Decreto nº 8.660, de 29 de janeiro de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas.
+
+
+Art. 38.
+
+Quando permitida a participação de consórcio de empresas, será observado o disposto no art. 15 da Lei nº 14.133, de 2021.
+
+
+##### Seção I — Procedimentos de veriﬁcação
+
+
+Art. 39.
+
+A habilitação será veriﬁcada por meio do sistema referido no § 1º do art. 36, nos documentos por ele abrangidos, observada as exigências estabelecidas no instrumento convocatório.
+
+
+§ 1º
+
+Será exigida a apresentação dos documentos de habilitação apenas do licitante vencedor, exceto quando a fase de habilitação anteceder as fases referidas nos incisos III e IV do art. 8º, observado, nesta hipótese, o disposto no § 2º do art. 64 da Lei nº 14.133, de 2021.
+
+
+§ 2º
+
+Na hipótese do § 1º, serão exigidos os documentos relativos à regularidade ﬁscal, em qualquer caso, somente em momento posterior ao julgamento das propostas, e apenas do licitante mais bem classiﬁcado, nos termos do inciso III do art. 63 da Lei nº 14.133, de 2021.
+
+
+§ 3º
+
+Após a apresentação dos documentos de habilitação, ﬁca vedada a substituição ou a apresentação de novos documentos, salvo em sede de diligência, para:
+
+
+I –
+
+complementação de informações acerca dos documentos já apresentados pelos licitantes e desde que necessária para apurar fatos existentes à época da abertura do certame; e
+
+
+II –
+
+atualização de documentos cuja validade tenha expirado após a data de recebimento das propostas.
+
+
+§ 4º
+
+Na hipótese de que trata o § 1º, os documentos deverão ser apresentados em formato digital, via sistema, no prazo deﬁnido no edital de licitação, após solicitação do agente de contratação ou da comissão de contratação, quando o substituir, no sistema eletrônico, no prazo de, no mínimo, duas horas, prorrogável por igual período, nas situações elencadas no § 3º do art. 29.
+
+
+§ 5º
+
+A veriﬁcação pelo agente de contratação ou pela comissão de contratação, quando o substituir, em sítios eletrônicos oﬁciais de órgãos e entidades emissores de certidões constitui meio legal de prova, para ﬁns de habilitação.
+
+
+§ 6º
+
+Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou falhas, na forma estabelecida no Capítulo XI.
+
+
+§ 7º
+
+Na hipótese de o licitante não atender às exigências para habilitação, o agente de contratação ou a comissão de contratação, quando o substituir, examinará a proposta subsequente e assim sucessivamente, na ordem de classiﬁcação, até a apuração de uma proposta que atenda ao edital de licitação, observado o prazo disposto no § 2º do art. 29.
+
+
+§ 8º
+
+Serão disponibilizados para acesso público os documentos de habilitação dos licitantes convocados para a apresentação da documentação habilitatória, após concluídos os procedimentos de que trata o § 6º.
+
+
+§ 9º
+
+A comprovação de regularidade ﬁscal e trabalhista das microempresas e das empresas de pequeno porte será exigida nos termos do disposto no art. 11, da Portaria nº 22, de 28 de junho de 2024.
+
+
+#### CAPÍTULO X — DA INTENÇÃO DE RECORRER E DA FASE RECURSAL
+
+
+Seção Única
+
+Intenção de recorrer e prazo para recurso
+
+
+Art. 40.
+
+**Art. 40.** Qualquer licitante poderá, durante o prazo concedido na sessão pública, não inferior a 15 (quinze) minutos, de forma imediata após o término do julgamento das propostas e do ato de habilitação ou inabilitação, em campo próprio do sistema, manifestar sua intenção de recorrer, sob pena de preclusão, ﬁcando a autoridade superior autorizada a adjudicar o objeto ao licitante declarado vencedor.
+
+
+§ 1º
+
+As razões do recurso deverão ser apresentadas em momento único, em campo próprio no sistema, no prazo de três dias úteis, contados a partir da data de intimação ou de lavratura da ata de habilitação ou inabilitação ou, na hipótese de adoção da inversão de fases prevista no § 1º do art. 8º, da ata de julgamento.
+
+
+§ 2º
+
+Os demais licitantes ﬁcarão intimados para, se desejarem, apresentar suas contrarrazões, no prazo de três dias úteis, contado da data de intimação pessoal ou de divulgação da interposição do recurso.
+
+
+§ 3º
+
+Será assegurado ao licitante vista aos elementos indispensáveis à defesa de seus interesses.
+
+
+§ 4º
+
+O acolhimento do recurso importará na invalidação apenas dos atos que não possam ser aproveitados.
+
+
+#### CAPÍTULO XI — DO SANEAMENTO DA PROPOSTA E DOS DOCUMENTOS DE HABILITAÇÃO
+
+
+##### Seção I — Proposta
+
+
+Art. 41.
+
+O agente de contratação ou a comissão de contratação, quando o substituir, poderá, no julgamento das propostas, sanar erros ou falhas que não alterem a sua substância e sua validade jurídica, atribuindo-lhes eﬁcácia para ﬁns de classiﬁcação, observado o disposto no art. 55 da Lei nº 9.784, de 29 de janeiro de 1999.
+
+
+##### Seção II — Documentos de habilitação
+
+
+Art. 42.
+
+O agente de contratação ou comissão de contratação poderá, na análise dos documentos de habilitação, sanar erros ou falhas que não alterem a substância dos documentos e sua validade jurídica, mediante decisão fundamentada, registrada em ata e acessível a todos, atribuindo-lhes eﬁcácia para ﬁns de habilitação.
+
+
+##### Seção II — Realização de diligências
+
+
+Art. 43.
+
+Na hipótese de necessidade de suspensão da sessão pública para a realização de diligências, com vistas ao saneamento de que tratam os arts. 41 e 42, o seu reinício somente poderá ocorrer mediante aviso prévio no sistema com, no mínimo, vinte e quatro horas de antecedência, e a ocorrência será registrada em ata.
+
+
+#### CAPÍTULO XII — DA FASE DE HOMOLOGAÇÃO
+
+
+Seção Única
+
+Adjudicação objeto e homologação do procedimento
+
+
+Art. 44.
+
+Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior para adjudicar o objeto e homologar o procedimento, observado o disposto no art. 71 da Lei nº 14.133, de 2021.
+
+
+#### CAPÍTULO XIII — DA CONVOCAÇÃO PARA A CONTRATAÇÃO
+
+
+Seção Única
+
+Convocação para a assinatura do termo de contrato ou da ata de registro de preços
+
+
+Art. 45.
+
+Após a homologação, o licitante vencedor será convocado para assinar o termo de contrato ou a ata de registro de preços, ou aceitar ou retirar o instrumento equivalente, no prazo estabelecido no edital de licitação, sob pena de decair o direito à contratação, sem prejuízo das sanções previstas na Lei nº 14.133, de 2021, e em outras legislações aplicáveis.
+
+
+§ 1º
+
+O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período, mediante solicitação da parte durante seu transcurso, devidamente justiﬁcada, e desde que o motivo apresentado seja aceito pela Administração.
+
+
+§ 2º
+
+2º Na hipótese de o vencedor da licitação não assinar o contrato ou a ata de registro de preços, ou não aceitar ou não retirar o instrumento equivalente no prazo e nas condições estabelecidas, outro licitante poderá ser convocado, respeitada a ordem de classiﬁcação, para celebrar a contratação ou a ata de registro de preços, ou instrumento equivalente, nas condições propostas pelo licitante vencedor, sem prejuízo da aplicação das sanções previstas na Lei nº 14.133, de 2021, e em outras legislações aplicáveis.
+
+
+§ 3º
+
+Caso nenhum dos licitantes aceitar a contratação nos termos do § 2º, a Administração, observados o valor estimado e sua eventual atualização nos termos do edital de licitação, poderá:
+
+
+I –
+
+convocar os licitantes remanescentes para negociação, na ordem de classiﬁcação, com vistas à obtenção de preço melhor, mesmo que acima do preço ou inferior ao desconto do adjudicatário;
+
+
+II –
+
+adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes remanescentes, atendida a ordem classiﬁcatória, quando frustrada a negociação de melhor condição.
+
+
+§ 4º
+
+A recusa injustiﬁcada do adjudicatário em assinar o contrato ou a ata de registro de preço, ou em aceitar ou retirar o instrumento equivalente no prazo estabelecido pela Administração caracterizará o descumprimento total da obrigação assumida e o sujeitará às penalidades legalmente estabelecidas e à imediata perda da garantia de proposta em favor do órgão ou entidade promotora da licitação.
+
+
+§ 5º
+
+A regra do § 4º não se aplicará aos licitantes remanescentes convocados na forma do inciso I do § 3º.
+
+
+#### CAPÍTULO XIV — DA SANÇÃO
+
+
+Seção Única
+
+Aplicação
+
+
+Art. 46.
+
+Os licitantes estarão sujeitos às sanções administrativas previstas na Lei nº 14.133, de 2021, e às demais cominações legais, resguardado o direito à ampla defesa.
+
+
+#### CAPÍTULO XV — DA REVOGAÇÃO E DA ANULAÇÃO
+
+
+Seção Única
+
+Revogação e anulação
+
+
+Art. 47.
+
+A autoridade superior poderá revogar o procedimento licitatório de que trata esta Portaria por motivo de conveniência e oportunidade, e deverá anular por ilegalidade insanável, de ofício ou por provocação de terceiros, assegurada a prévia manifestação dos interessados.
+
+
+§ 1º
+
+O motivo determinante para a revogação do processo licitatório deverá ser resultante de fato superveniente devidamente comprovado.
+
+
+§ 2º
+
+Ao pronunciar a nulidade, a autoridade indicará expressamente os atos com vícios insanáveis, tornando sem efeito todos os subsequentes que deles dependam, e dará ensejo à apuração de responsabilidade de quem lhes tenha dado causa.
+
+
+§ 3º
+
+Na hipótese da ilegalidade de que trata o caput ser constatada durante a execução contratual, aplica-se o disposto no art. 147 da Lei nº 14.133, de 2021.
+
+
+#### CAPÍTULO XVI — DISPOSIÇÕES FINAIS
+
+
+Seção Única
+
+Orientações gerais
+
+
+Art. 48.
+
+Os horários estabelecidos no edital de licitação, no aviso e durante a sessão pública observarão o horário de Brasília, Distrito Federal, inclusive para contagem de tempo e registro no sistema eletrônico e na documentação relativa ao certame.
+
+
+Art. 49.
+
+Os casos omissos decorrentes da aplicação desta Portaria serão dirimidos pela Presidência da Câmara Municipal, que poderá expedir normas complementares e disponibilizar informações adicionais, em meio eletrônico.
+
+
+Art. 50.
+
+Esta Portaria entra em vigor na data de sua publicação.
+
+
+Chapada Gaúcha-MG, 08 de julho de 2024.

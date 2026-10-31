@@ -1,0 +1,142 @@
+{
+  "host": "sapl.guaira.pr.leg.br",
+  "metadados_unicos_observados": 1086,
+  "total_api_declarado": 1086,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1070,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6dd04e2dafdec9d381fa1e81e1a1e6ae6f534192690109f3739947d55d676916.json",
+    "url": "https://sapl.guaira.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e07ad00bb6f656fd233d66a7e0e4cc1ea4f11f9f2fe4cde00bf24f61c9e830f9",
+    "bytes": 1115,
+    "capturado_em": "2026-10-28T13:04:49.009664-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f31146e70b40013a2188f9001e87eac3a2d4897c61bb3a5f6dd4e58f29dd0dee.json",
+    "url": "https://sapl.guaira.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.guaira.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d226de559091b86e4e4becababbee60894f1a44951df20091be0f82e0bde3710",
+    "bytes": 726,
+    "capturado_em": "2026-10-28T13:04:47.961252-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/2512749854516444d3d8b95d5d332a12971fa514bbac09cdf397da806f152ae9.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "462c3a7be6cf1ec5f468f68764ba3442a678ad28049101405cf6fc957be0c93d",
+      "bytes": 72392,
+      "capturado_em": "2026-10-28T13:04:51.386937-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/41e8552fa582ea119662a6efc415857b08d42791626704cf4c9148089f2ed903.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5cdb59d701805fa3bca42c22b3c5469850cc2ffda32b34f376785fcaa9760a93",
+      "bytes": 65411,
+      "capturado_em": "2026-10-28T13:08:20.806051-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/82d1097f86675f81087e385fd801b57f9f5da5f530c171c1d647f1242f20a104.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ffa9e2facaff0c1ea21c6904c0d9d431706da69d0c99164afaaa58deffaae907",
+      "bytes": 62127,
+      "capturado_em": "2026-10-28T13:11:42.572018-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/17f474ebdc3517f38107ff65995ccb8f30b157796e0e29568934dd153d10af2d.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d0308573f1793bdbb5ebd25e15156e711583a661c003d5763558a6b88b7fcadb",
+      "bytes": 64870,
+      "capturado_em": "2026-10-28T13:15:02.524205-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/b51d2c71516b339d3e3f1b021779f94a3090ad53221a8cc41af080d115f8b4d7.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d3f69699e241cd0ad9ed747d67e184a87558ae3f70b38e37ed5558402a250b13",
+      "bytes": 66103,
+      "capturado_em": "2026-10-28T13:18:28.546242-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/adc284cb0ff94c44acdfe29b9ccb06dab1be03f90f6a02e0296e92ba693721c2.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "862ade6b835e54fe576b352d98062b0388aa9064116bb58316fb702ae9e253b9",
+      "bytes": 60315,
+      "capturado_em": "2026-10-28T13:21:58.079391-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7dfde092a2e5104399a402cde633c8599eff1eda858750a08f3e7298c2231a01.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2d71d238734df55a5ccd5afb5f55cd2c5d3cb72ab5fd311e60b93ee719ded5f4",
+      "bytes": 61503,
+      "capturado_em": "2026-10-28T13:25:33.010125-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/6fef3f5c8841ceedccff0c2a0ed807fd9bb0ed85b13c1daa799ece52e6c3a092.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e03d3e929c026787e2615c4247d9d0766a95dddbf620975a99483b3ce36e99f0",
+      "bytes": 60295,
+      "capturado_em": "2026-10-28T13:28:58.872617-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/7443d8fb10be027a2a6b72f5a416d5f51c04a3c31995344988c69d1cadb41ff3.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "44ef8a733649e53dd1d97efc8f84d77332e4e1bdb036593ad833d444939bce00",
+      "bytes": 58384,
+      "capturado_em": "2026-10-28T13:32:21.606274-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/021e76ab02a1b8498c8a0120e6560a28c40227c856a4ff78cbff29fb159822cd.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fbd03524a019eafd1fe3136ec130d5a03f2c861bc086495d078a7e637500ef38",
+      "bytes": 57733,
+      "capturado_em": "2026-10-28T13:35:49.828326-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/af77cd2e35f8d1bb7dca285dddcb12ba501e8ebada7f85a2802a32ca08b63f74.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cbcfe03a349b74e486a770fc0f20d92b4b8f7001f9c085e7e7aab111d0691a4a",
+      "bytes": 48549,
+      "capturado_em": "2026-10-28T13:39:16.591212-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

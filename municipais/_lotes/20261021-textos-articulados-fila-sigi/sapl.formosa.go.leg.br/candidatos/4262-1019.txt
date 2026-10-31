@@ -1,0 +1,94 @@
+Dispõe sobre a autorização para abertura de Crédito Adicional de Natureza Especial, e dá outras providências.
+
+
+Projeto de Lei Ordinária n.º 5/21, de autoria do Poder Executivo, aprovado em 18 de fevereiro de 2021.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir, ao Orçamento Municipal de 2021, aprovado pela Lei nº. 606, de 14 de dezembro de 2020, um Crédito Adicional de Natureza Especial no valor de R$ 1.290.000,00 (um milhão, duzentos e noventa mil reais) destinados à criação de novas ações.
+
+
+Parágrafo único.
+
+A classificação orçamentária e programática, bem como a criação da dotação para atender o objeto deste artigo, está evidenciada no Anexo I e II deste projeto de Lei.
+
+
+Art. 2º.
+
+Para acorrer às despesas orçamentárias com abertura do Crédito Adicional de Natureza Especial de que trata esta Lei, serão utilizados os recursos previstos no §1º do art. 43 da Lei Federal n.º 4.320/64, especificados, detalhadamente, no Decreto de abertura do crédito.
+
+
+Art. 3º.
+
+Fica autorizado o setor de contabilidade realizar as alterações necessárias à adequação do PPA - Plano Plurianual 2017/2021, LDO - Lei de Diretrizes Orçamentárias de 2021 e LOA-Lei Orçamentária Anual de 2021, a fim de contemplar as ações alteradas neste Projeto de Lei.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 22 de fevereiro de 2021.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+.....................................................................................................
+
+Iany Macêdo Troncha
+
+Superint. Executiva de Documentação e Legislação
+
+Decreto nº. 21, de 04 de janeiro de 2021.
+
+
+## Anexo I — DETALHAMENTO DA DOTAÇÃO A SER ACRESCIDA AO ORÇAMENTO MUNICIPAL
+
+
+<table><tbody><tr><td colspan="5"><div><strong>Criação de Crédito Especial</strong></div><div> </div></td></tr><tr><td colspan="2"><div> </div><div><strong>Nome</strong></div><div> </div></td><td><div> </div><div><strong>Código</strong></div><div> </div></td><td colspan="2"><div> </div><div><strong>Descrição</strong></div><div> </div></td></tr><tr><td colspan="2"><div> </div><div>Código do Órgão</div><div> </div></td><td><div> </div><div>01</div><div> </div></td><td colspan="2"><div> </div><div>Poder Executivo</div><div> </div></td></tr><tr><td colspan="2"><div> </div><div>Código da Unidade Orçamentária</div><div> </div></td><td><div> </div><div>0154</div><div> </div></td><td colspan="2"><div> </div><div>Secretaria Municipal de Transportes</div><div> </div></td></tr><tr><td colspan="2"><div> </div><div>Código da Função</div><div> </div></td><td><div> </div><div>26</div><div> </div></td><td colspan="2"><div> </div><div>Transporte</div><div> </div></td></tr><tr><td colspan="2"><div> </div><div>Código da Subfunção</div><div> </div></td><td><div> </div><div>453</div><div> </div></td><td colspan="2"><div> </div><div>Transportes Coletivos Urbanos</div><div> </div></td></tr><tr><td colspan="2"><div> </div><div>Código Programa</div><div> </div></td><td><div> </div><div>0114</div><div> </div></td><td colspan="2"><div> </div><div>Apoio ao Transporte Municipal</div><div> </div></td></tr><tr><td colspan="2"><div> </div><div>Natureza da Ação</div><div> </div></td><td><div> </div><div>2</div><div> </div></td><td colspan="2"><div> </div><div>Custeio</div><div> </div></td></tr><tr><td colspan="2"><div> </div><div>Projeto Atividade</div><div> </div></td><td><div> </div><div>411</div><div> </div></td><td colspan="2"><div> </div><div>Manutenção do Transporte Público Municipal</div><div> </div></td></tr><tr><td colspan="5"><div> </div><div><strong>Detalhamento de Despesas</strong></div><div> </div></td></tr><tr><td><div> </div><div><strong>Elemento</strong></div><div> </div></td><td colspan="3"><div> </div><div><strong>Fonte de Recurso</strong></div><div> </div></td><td><div> </div><div><strong>Valor</strong></div><div> </div></td></tr><tr><td><div> </div><div><strong>3.3.90.39</strong></div><div> </div></td><td colspan="3"><div> </div><div><strong>100</strong></div><div> </div></td><td><div> </div><div><strong>R$ 500.000,00</strong></div><div> </div></td></tr></tbody></table>
+
+
+<table><tbody><tr><td colspan="5"><p><strong>Criação de Crédito Especial</strong></p></td></tr><tr><td colspan="2"><p><strong>Nome</strong></p></td><td><p><strong>Código</strong></p></td><td colspan="2"><p><strong>Descrição</strong></p></td></tr><tr><td colspan="2"><p>Código do Órgão</p></td><td><p>01</p></td><td colspan="2"><p>Poder Executivo</p></td></tr><tr><td colspan="2"><p>Código da Unidade Orçamentária</p></td><td><p>0103</p></td><td colspan="2"><p>Gabinete do Prefeito</p></td></tr><tr><td colspan="2"><p>Código da Função</p></td><td><p>04</p></td><td colspan="2"><p>Administração</p></td></tr><tr><td colspan="2"><p>Código da Subfunção</p></td><td><p>122</p></td><td colspan="2"><p>Administração Geral</p></td></tr><tr><td colspan="2"><p>Código Programa</p></td><td><p>0102</p></td><td colspan="2"><p>Atividades do Gabinete</p></td></tr><tr><td colspan="2"><p>Natureza da Ação</p></td><td><p>2</p></td><td colspan="2"><p>Custeio</p></td></tr><tr><td colspan="2"><p>Projeto Atividade</p></td><td><p>413</p></td><td colspan="2"><p>Manutenção do Gabinete do Vice-Prefeito</p></td></tr><tr><td colspan="5"><p><strong>Detalhamento de Despesas</strong></p></td></tr><tr><td><p><strong>Elemento</strong></p></td><td colspan="3"><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p><strong>3.1.90.11</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 200.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.30</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 30.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.36</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 10.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.39</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 30.000,00</strong></p></td></tr></tbody></table>
+
+
+<table><tbody><tr><td colspan="5"><p><strong>Criação de Crédito Especial</strong></p></td></tr><tr><td colspan="2"><p><strong>Nome</strong></p></td><td><p><strong>Código</strong></p></td><td colspan="2"><p><strong>Descrição</strong></p></td></tr><tr><td colspan="2"><p>Código do Órgão</p></td><td><p>10</p></td><td colspan="2"><p>Fundo Municipal de Desenvolvimento Rural</p></td></tr><tr><td colspan="2"><p>Código da Unidade Orçamentária</p></td><td><p>1001</p></td><td colspan="2"><p>FMDR</p></td></tr><tr><td colspan="2"><p>Código da Função</p></td><td><p>20</p></td><td colspan="2"><p>Agricultura</p></td></tr><tr><td colspan="2"><p>Código da Subfunção</p></td><td><p>122</p></td><td colspan="2"><p>Administração Geral</p></td></tr><tr><td colspan="2"><p>Código Programa</p></td><td><p>0130</p></td><td colspan="2"><p>Desenvolvimento e integração da agropecuária</p></td></tr><tr><td colspan="2"><p>Natureza da Ação</p></td><td><p>2</p></td><td colspan="2"><p>Custeio</p></td></tr><tr><td colspan="2"><p>Projeto Atividade</p></td><td><p>414</p></td><td colspan="2"><p>Manutenção da Secretaria de Agricultura</p></td></tr><tr><td colspan="5"><p><strong>Detalhamento de Despesas</strong></p></td></tr><tr><td><p><strong>Elemento</strong></p></td><td colspan="3"><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p><strong>3.1.90.11</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 150.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.30</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 50.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.36</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 10.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.39</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 50.000,00</strong></p></td></tr></tbody></table>
+
+
+<table><tbody><tr><td colspan="5"><p><strong>Criação de Crédito Especial</strong></p></td></tr><tr><td colspan="2"><p><strong>Nome</strong></p></td><td><p><strong>Código</strong></p></td><td colspan="2"><p><strong>Descrição</strong></p></td></tr><tr><td colspan="2"><p>Código do Órgão</p></td><td><p>01</p></td><td colspan="2"><p>Poder Executivo</p></td></tr><tr><td colspan="2"><p>Código da Unidade Orçamentária</p></td><td><p>0152</p></td><td colspan="2"><p>Secretaria de Assuntos Econômicos</p></td></tr><tr><td colspan="2"><p>Código da Função</p></td><td><p>04</p></td><td colspan="2"><p>Administração</p></td></tr><tr><td colspan="2"><p>Código da Subfunção</p></td><td><p>122</p></td><td colspan="2"><p>Administração Geral</p></td></tr><tr><td colspan="2"><p>Código Programa</p></td><td><p>0112</p></td><td colspan="2"><p>Implementação e Valorização do Comercio Local</p></td></tr><tr><td colspan="2"><p>Natureza da Ação</p></td><td><p>2</p></td><td colspan="2"><p>Custeio</p></td></tr><tr><td colspan="2"><p>Projeto Atividade</p></td><td><p>415</p></td><td colspan="2"><p>Manutenção da Secretaria de Assuntos Econômicos</p></td></tr><tr><td colspan="5"><p><strong>Detalhamento de Despesas</strong></p></td></tr><tr><td><p><strong>Elemento</strong></p></td><td colspan="3"><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p><strong>3.1.90.11</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 150.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.30</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 50.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.36</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 10.000,00</strong></p></td></tr><tr><td><p><strong>3.3.90.39</strong></p></td><td colspan="3"><p><strong>100</strong></p></td><td><p><strong>R$ 50.000,00</strong></p></td></tr></tbody></table>
+
+
+## Anexo II — DETALHAMENTO DA DOTAÇÃO A SER REDUZIDA AO ORÇAMENTO MUNICIPAL
+
+
+<table><tbody><tr><td colspan="3"><p><strong>RETIRAR</strong></p></td></tr><tr><td><p><strong>DOTAÇÃO</strong></p></td><td><p><strong>AÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td></tr><tr><td><p><strong>01.0103.04.122.0102.2307 – 3.3.90.39 (20210010)</strong></p></td><td><p><strong>Gabinete do Prefeito</strong></p></td><td><p><strong>R$ 500.000,00</strong></p></td></tr><tr><td><p>01.0123.04.123.0105.2314 – 3.3.90.39 (20200038)</p></td><td><p>Secretaria da Fazenda</p></td><td><p>R$ 790.000,00</p></td></tr><tr><td><p><strong>TOTAL</strong></p></td><td colspan="2"><p><strong>R$ 1.290.000,00</strong></p></td></tr></tbody></table>
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 22 de fevereiro de 2021.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+.....................................................................................................
+
+Iany Macêdo Troncha
+
+Superint. Executiva de Documentação e Legislação
+
+Decreto nº. 21, de 04 de janeiro de 2021.

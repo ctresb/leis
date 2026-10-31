@@ -1,0 +1,52 @@
+{
+  "host": "sapl.cruzmaltina.pr.leg.br",
+  "metadados_unicos_observados": 110,
+  "total_api_declarado": 110,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 102,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzmaltina.pr.leg.br/ea61b9b179f0f4cd3e38b88c2fb6367bf354498c00189a3ab1bee8045acfe544.json",
+    "url": "https://sapl.cruzmaltina.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cruzmaltina.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d65f1f2cea56aeca51b1635620a2c3c5b6d2fa43eae6801a46dbabea0f8a9c5b",
+    "bytes": 954,
+    "capturado_em": "2026-10-28T09:30:11.990467-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzmaltina.pr.leg.br/848b0c50f528575845325c416dbfb4dd3317b49ffe8a14be100ac61e0295fd8b.json",
+    "url": "https://sapl.cruzmaltina.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cruzmaltina.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5856e0988f93834daf99398603679457bedd766c6a082afbcd714cec8d2d5830",
+    "bytes": 767,
+    "capturado_em": "2026-10-28T09:30:11.104771-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzmaltina.pr.leg.br/3a2f6f6f1e5da521b00d6e7e2e7714efe2903100204309a343b53c39eeec1c08.json",
+      "url": "https://sapl.cruzmaltina.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cruzmaltina.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e6526c1ae2308a6d2e3b97c060e214f8fd76f3cbbcd7417f1db172b4dbc7e296",
+      "bytes": 63959,
+      "capturado_em": "2026-10-28T09:30:13.476875-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzmaltina.pr.leg.br/d51d50b06dc712624fd3511d33a5124a1edcaf55dd24215df1a76d1c46321b94.json",
+      "url": "https://sapl.cruzmaltina.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.cruzmaltina.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f3c0ccfebf723d404b462dc0117750906d129997516e984c2a785c7ae65eff60",
+      "bytes": 5857,
+      "capturado_em": "2026-10-28T09:33:28.501136-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

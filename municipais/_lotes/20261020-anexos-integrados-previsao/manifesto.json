@@ -1,0 +1,76 @@
+{
+  "aplicado": false,
+  "plano": {
+    "path": "municipais/_lotes/20261020-anexos-capturados/plano-integracao-revisados-001.json",
+    "sha256": "5b6dd1e4ff4d1478290adb4700f9247c85d74d8aa28c31deaeab813ebfbe2d35"
+  },
+  "script_sha256": "370c22e20e99c5901ac76fafd812b5ebcdcfcc38845204e4ec57a57418cd0d27",
+  "aprovados": [
+    {
+      "path": "municipais/MG/luz/leis-ordinarias/2008/leis-ordinarias-1634-2008-sapl-445.md",
+      "sha256": "60328cefc9ea28e174832199adccd11ceb29beda7d50e0f124c88ae8921cfe6f",
+      "sha256_anterior": "9c237e37b95247966ba5188ca7c5c785465edc792e06410f8e8594777ad61e23",
+      "sha256_fonte_adicional": "4f734d5a363622d2c12d8007a457d7685b8d89e29bbf5b638e8b763d9f42f6cd",
+      "url_fonte_adicional": "https://sapl.luz.mg.leg.br/media/sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf",
+      "modo": "acrescentar",
+      "tokens_adicionais_ou_substitutos": 3353,
+      "sha256_layout": "b98ae1cd1750417bae6c85630187c8f7a0a4b8a9e660e348b303804917876e40",
+      "imagens": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n",
+      "revisao": {
+        "path": "municipais/MG/luz/leis-ordinarias/2008/leis-ordinarias-1634-2008-sapl-445.md",
+        "sha256_md_antes": "9c237e37b95247966ba5188ca7c5c785465edc792e06410f8e8594777ad61e23",
+        "arquivo": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.luz.mg.leg.br/1.bin",
+        "sha256_arquivo": "4f734d5a363622d2c12d8007a457d7685b8d89e29bbf5b638e8b763d9f42f6cd",
+        "url": "https://sapl.luz.mg.leg.br/media/sapl/public/anexonormajuridica/2008/1/lei_1.634_-_08_anexos.pdf",
+        "modo": "acrescentar",
+        "identidade_regex": "LEI\\s+N[º°.]?\\s*1\\.634/2008",
+        "titulo_secao": "Anexos I a VIII — arquivo adicional oficial",
+        "nota_editorial": "Transcrição integral preformatada do arquivo de anexos fornecido separadamente no SAPL. Mantêm-se todos os números, cabeçalhos e tabelas da camada textual, sem excluir linhas numéricas. O texto principal acima reproduz o outro arquivo oficial. Não se presume atualização posterior dos valores.",
+        "descricao_revisao": "anexo oficial nativo individual revisado e integralmente preservado",
+        "sha256_pdfimages": "0fabc764e123f7f3acd3eaa47311e1c50317f8bbb5b50878e699f21534352e8e",
+        "evidencias_visuais": []
+      }
+    },
+    {
+      "path": "municipais/MT/caceres/emendas-lei-organica/2025/emendas-lei-organica-52-2025-sapl-1996.md",
+      "sha256": "41b2870c88dd8ff75a9cd4bba3523bd1184f20c4619faa67d9ac3a5d8895ce99",
+      "sha256_anterior": "d3bbc209a5f832dfbac570bc172d8257b998a3e8721f1f84390ef7f3c24475dc",
+      "sha256_fonte_adicional": "364f8ed8ab0e340d363e47fc43dc825252aea5caf5b8e63b6b5acfb24cb11348",
+      "url_fonte_adicional": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1026/emenda_a_lei_organica_52_de_20-10-2025.pdf",
+      "modo": "alternativa_integral",
+      "tokens_adicionais_ou_substitutos": 725,
+      "sha256_layout": "d3a453636cbad81a3a8f36337b5bcf651d3719a4d13298aa3e84ea507d247241",
+      "imagens": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     512   512  rgb     3   8  image  no        13  0  1300  1300 6634B 0.8%\n   1     1 smask     512   512  gray    1   8  image  no        13  0  1300  1300 1271B 0.5%\n   2     2 image     512   512  rgb     3   8  image  no        13  0  1300  1300 6634B 0.8%\n   2     3 smask     512   512  gray    1   8  image  no        13  0  1300  1300 1271B 0.5%\n   3     4 image     512   512  rgb     3   8  image  no        13  0   650   650 6634B 0.8%\n   3     5 smask     512   512  gray    1   8  image  no        13  0   650   650 1271B 0.5%\n   3     6 image     320   320  rgb     3   8  image  no        15  0   406   406 1700B 0.6%\n   3     7 image     400   400  rgb     3   8  image  no        16  0  2032  2032 3912B 0.8%\n   3     8 smask     400   400  gray    1   8  image  no        16  0  2032  2032 1535B 1.0%\n   3     9 image     400   400  rgb     3   8  image  no        16  0  2032  2032 3912B 0.8%\n   3    10 smask     400   400  gray    1   8  image  no        16  0  2032  2032 1535B 1.0%\n   3    11 image     400   400  rgb     3   8  image  no        16  0  2032  2032 3912B 0.8%\n   3    12 smask     400   400  gray    1   8  image  no        16  0  2032  2032 1535B 1.0%\n   3    13 image     400   400  rgb     3   8  image  no        16  0  2032  2032 3912B 0.8%\n   3    14 smask     400   400  gray    1   8  image  no        16  0  2032  2032 1535B 1.0%\n   3    15 image     400   400  rgb     3   8  image  no        16  0  2032  2032 3912B 0.8%\n   3    16 smask     400   400  gray    1   8  image  no        16  0  2032  2032 1535B 1.0%\n",
+      "revisao": {
+        "path": "municipais/MT/caceres/emendas-lei-organica/2025/emendas-lei-organica-52-2025-sapl-1996.md",
+        "sha256_md_antes": "d3bbc209a5f832dfbac570bc172d8257b998a3e8721f1f84390ef7f3c24475dc",
+        "arquivo": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/1026.bin",
+        "sha256_arquivo": "364f8ed8ab0e340d363e47fc43dc825252aea5caf5b8e63b6b5acfb24cb11348",
+        "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1026/emenda_a_lei_organica_52_de_20-10-2025.pdf",
+        "modo": "alternativa_integral",
+        "identidade_regex": "EMENDA\\s+À\\s+LEI\\s+ORGÂNICA\\s+Nº\\s+52,\\s+DE\\s+20\\s+DE\\s+OUTUBRO\\s+DE\\s+2025",
+        "titulo_secao": "Emenda à Lei Orgânica nº52/2025 — documento assinado individual",
+        "nota_editorial": "Transcrição integral do arquivo assinado individual disponibilizado como anexo da norma no SAPL. Substitui a extração anterior de página de diário com aviso de licitação alheio intercalado. A captura anterior e seu Markdown foram preservados para auditoria. Brasão e gráficos de autenticação/QR permanecem na fonte PDF; todos os textos da camada nativa, inclusive identificação de assinaturas, seguem abaixo.",
+        "descricao_revisao": "anexo oficial nativo individual revisado e integralmente preservado",
+        "sha256_pdfimages": "e0a94396892bf01f8038a7592de64f98f5a7e0bb7d24db0be675a591b2e00896",
+        "evidencias_visuais": [
+          {
+            "path": "municipais/_lotes/20261020-anexos-capturados/caceres52-p1.png",
+            "sha256": "b0356fdc89a7365346900bfb49b8c1381624405eec943b3aad4da725cdb55b1e",
+            "revisao": "Página inteira inspecionada visualmente; imagens são marcas1Doc,QR e marcasdeconfirmação; nenhum texto normativo em raster."
+          },
+          {
+            "path": "municipais/_lotes/20261020-anexos-capturados/caceres52-p2.png",
+            "sha256": "f39eaf6aca5493ab08073ab9b469419a2634d9e142316a7f5c7ca837aa4bd092",
+            "revisao": "Página inteira inspecionada visualmente; imagens são marcas1Doc,QR e marcasdeconfirmação; nenhum texto normativo em raster."
+          },
+          {
+            "path": "municipais/_lotes/20261020-anexos-capturados/caceres52-p3.png",
+            "sha256": "1446a43f4d6c030c1f51c2c89b6d86306d5f78e1d6b954c3bf213a22764fcac1",
+            "revisao": "Página inteira inspecionada visualmente; imagens são marcas1Doc,QR e marcasdeconfirmação; nenhum texto normativo em raster."
+          }
+        ]
+      }
+    }
+  ]
+}

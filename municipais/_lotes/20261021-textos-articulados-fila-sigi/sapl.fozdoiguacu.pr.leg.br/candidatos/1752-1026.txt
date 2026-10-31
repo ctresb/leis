@@ -1,0 +1,614 @@
+Dispõe sobre os Processos Legislativo e Administrativo Eletrônicos da Câmara Municipal de Foz do Iguaçu.
+
+
+O Presidente da Câmara Municipal de Foz do Iguaçu, Estado do Paraná, Faço saber que a Câmara Municipal aprovou e eu, na qualidade de seu Presidente, promulgo a seguinte Resolução:
+
+
+Art. 1º.
+
+Ficam regulamentados os processos legislativo, administrativo e protocolo eletrônicos, as assinaturas digitais, os sites e e-mails oficiais, os sistemas de comunicação e informação e os mecanismos para assegurar a transparência ativa e passiva, no âmbito da Câmara Municipal de Foz do Iguaçu.
+
+
+Art. 2º.
+
+Para o disposto nesta Resolução, considera-se:
+
+
+I –
+
+documento: unidade de registro de informações, independentemente do formato, do suporte ou da natureza;
+
+
+II –
+
+documento digital: informação registrada, codificada em dígitos binários, acessível e interpretável por meio de sistema computacional, podendo ser:
+
+
+a)
+
+documento nato-digital: documento criado originariamente em meio eletrônico; ou
+
+
+b)
+
+documento digitalizado: documento obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital.
+
+
+III –
+
+meio eletrônico: qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais;
+
+
+IV –
+
+processo administrativo eletrônico: aquele em que os atos processuais são registrados e disponibilizados em meio eletrônico;
+
+
+V –
+
+transmissão eletrônica: toda forma de comunicação e envio de arquivos à distância, em formato digital e com a utilização de tecnologias de informação e de redes de comunicação digital;
+
+
+VI –
+
+processo legislativo: conjunto de atos e proposições organizados pela Câmara Municipal e iniciados pelos Poderes Executivo ou Legislativo, ou por cidadão, nos termos da Lei Orgânica do Município de Foz do Iguaçu;
+
+
+VII –
+
+processo legislativo eletrônico: conjunto de atos e documentos digitais disponibilizados e mantidos em arquivos por meios digitais, correspondentes à elaboração, protocolo e tramitação das proposições do processo legislativo;
+
+
+VIII –
+
+processo administrativo eletrônico: conjunto de atos e documentos digitais disponibilizados e mantidos em arquivos por meios digitais, correspondentes à elaboração, protocolo e tramitação de comunicados internos, ofícios, memorandos, certidões, relatórios e demais documentos administrativos;
+
+
+IX –
+
+proposição: toda matéria sujeita a deliberação do Plenário, conforme observância do Regimento Interno da Câmara Municipal de Foz do Iguaçu;
+
+
+X –
+
+assinatura digital ou firma digital: técnica matemática e de tecnologia de informação para gerar e manter documentos digitais com validade legal e com a utilização de tecnologia Public Key Infrastructure - PKI, e que deve garantir as seguintes propriedades:
+
+
+a)
+
+autenticidade: o receptor deve ter meios para poder confirmar que a assinatura foi feita pelo emissor;
+
+
+b)
+
+integridade: qualquer alteração da mensagem ou do arquivo digital faz com que a assinatura perca sua validade e não corresponda mais ao documento digital;
+
+
+c)
+
+não repúdio ou irretratabilidade: o emissor não pode negar a autenticidade da mensagem ou do arquivo digital.
+
+
+XI –
+
+certificado digital: documento eletrônico assinado digitalmente por uma autoridade certificadora e que contém diversos dados sobre o emissor e o seu titular, cuja função precípua é a de vincular uma pessoa ou uma entidade a uma chave pública;
+
+
+XII –
+
+sítio eletrônico: portal oficial de informações e conteúdos institucionais da Câmara Municipal de Foz do Iguaçu na Internet (www), disponível para consulta pública do cidadão, em que são disponibilizados os links de acesso aos principais sistemas informacionais da instituição, tais como o portal da transparência, transmissões ao vivo e gravações das reuniões, processo legislativo eletrônico, notícias, agenda da Casa, publicações do diário oficial, informações dos processos licitatórios, trabalho desenvolvido por cada um dos vereadores e demais informações que assegurem a ampla publicidade e transparência dos atos administrativos e legislativos da Câmara Municipal;
+
+
+XIII –
+
+Sistema de Apoio ao Processo Legislativo - SAPL: sistema oficial de disponibilização, organização, tramitação, apresentação, manutenção e transparência de documentos eletrônicos do processo legislativo eletrônico no município de Foz do Iguaçu na Internet, em que são incluídas e mantidas as proposições legislativas e administrativas;
+
+
+XIV –
+
+e-mail ou correio eletrônico: forma de comunicação oficial no âmbito da Câmara Municipal de Foz do Iguaçu para transmissão de documentos com assinatura digital, na comunicação interna dos servidores e também entre os Poderes Executivo e Legislativo de Foz do Iguaçu;
+
+
+XV –
+
+Portal da Transparência: sistema de informação disponível para consulta pública na Internet, em que são disponibilizadas as informações pormenorizadas da contabilidade da Câmara Municipal de Foz do Iguaçu;
+
+
+XVI –
+
+votação eletrônica: sistema de informação e controle documental que registra e determina, de forma digital, a manifestação de cada Vereador sobre votações de todas as proposições da Casa, dispensando a utilização de carimbos e de papel;
+
+
+XVII –
+
+Serviço de Informação ao Cidadão: conjunto de procedimentos e rotinas administrativas que devem assegurar o pleno acesso das informações mantidas e produzidas pela Câmara Municipal de Foz do Iguaçu, a partir de solicitações requeridas pelo cidadão, com observância da Lei de Acesso à Informação e da Transparência Ativa e Passiva esperada da Administração Pública;
+
+
+XVIII –
+
+Software de Gestão Pública: sistema de informação que garante o fluxo dos documentos e ações dos setores administrativos da Casa, por meio dos softwares de Gestão Contábil, Gestão de Compras, Licitações e Contratos, Gestão de Pessoas (RH e Folha de Pagamento), Gestão de Patrimônio, Prestação de Contas, Orçamento, Responsabilidade Fiscal, Controle de Frotas, Controle de Estoque e Portal da Transparência;
+
+
+XIX –
+
+software livre: expressão utilizada para designar qualquer programa de computador que pode ser executado, copiado, modificado e redistribuído pelos usuários gratuitamente, pelo qual os usuários possuem livre acesso ao código-fonte do software e fazem alterações conforme as suas necessidades.
+
+
+Art. 3º.
+
+A assinatura digital, no âmbito da Câmara Municipal de Foz do Iguaçu, é baseada em certificado digital emitido de acordo com as regras da infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), com uma cadeia hierárquica e de confiança que viabiliza a identificação virtual do cidadão no Brasil, nos termos da Lei nº 14.063, de 23 de setembro de 2020, e demais dispositivos legais complementares.
+
+
+§ 1º
+
+Fica instituída a obrigatoriedade da criação do certificado digital para todos os Vereadores e Servidores da Câmara Municipal de Foz do Iguaçu.
+
+
+§ 2º
+
+Para adquirir um certificado digital, o servidor ou agente político deve dirigir-se a uma Autoridade de Certificação - AC, em que será identificado mediante a apresentação de documentos pessoais, sendo indispensável a presença física do futuro titular do certificado.
+
+
+§ 3º
+
+As principais informações que constam em um certificado digital são: chave pública do titular, nome da Autoridade de Certificação - AC que emitiu o certificado, número de série do certificado digital e assinatura digital da Autoridade de Certificação - AC.
+
+
+§ 4º
+
+O Instituto Nacional de Tecnologia da Informação - ITI, autarquia federal vinculada ao Ministério da Ciência e Tecnologia, é a Autoridade Certificadora Raiz da Infraestrutura de Chaves Públicas Brasileiras - ICP-Brasil e é o órgão que credencia empresas a fornecer certificados padrão ICP-Brasil.
+
+
+Art. 4º.
+
+As proposições legislativas serão protocoladas pelos Vereadores através do Sistema 1Doc, com acesso de login e senha próprios, e, após verificação e conferência pelo setor competente, serão devolvidas ao autor para assinatura digital, garantindo a autoria do Vereador e autenticidade do documento.
+
+
+Art. 5º.
+
+Os atos, termos e documentos submetidos à digitalização por servidor efetivo da Casa, armazenados eletronicamente e assinados digitalmente com certificado digital em conformidade com a ICP-Brasil e com a legislação federal pertinente, possuem o mesmo valor probante de seus documentos originais em papel.
+
+
+Parágrafo único
+
+No caso de produção de documento de forma integralmente eletrônica, com assinatura digital e em conformidade com a ICP-Brasil, é desnecessária a guarda do documento em meio físico.
+
+
+Art. 6º.
+
+Cada Vereador deverá utilizar o sistema eletrônico de votação para identificar seu respectivo voto em todas as proposições sujeitas à deliberação no plenário ou a Diretoria de Assuntos Legislativos fará o registro das votações diretamente no Sistema de Apoio ao Processo Legislativo - SAPL, conforme o anúncio do resultado da votação pelo Presidente da Mesa Diretora.
+
+
+Parágrafo único
+
+A votação eletrônica poderá ser divulgada durante as reuniões através da projeção das imagens no plenário, com a votação de cada parlamentar.
+
+
+Art. 7º.
+
+A tramitação oficial do processo legislativo fica vinculada ao sistema de votação eletrônica.
+
+
+Art. 8º.
+
+Compete à Diretoria de Assuntos Legislativos, após o término da votação eletrônica, disponibilizar o resultado das votações em cada matéria legislativa para consulta no sítio da Câmara, no link "Matérias Legislativas".
+
+
+Art. 9º.
+
+Compete à Diretoria de Tecnologia manter a infraestrutura necessária para a votação eletrônica, assegurando a integridade, autenticidade e disponibilidade das votações e tramitação das proposições, com a cooperação da Diretoria de Assuntos Legislativos.
+
+
+Art. 10.
+
+O sítio eletrônico institucional oficial da Câmara Municipal de Foz do Iguaçu está disponível no endereço eletrônico https://www.fozdoiguacu.pr.leg.br.
+
+
+§ 1º
+
+A manutenção da infraestrutura e hospedagem do sítio oficial é realizada pelo lnterlegis, do Senado Federal, enquanto a personalização do conteúdo fica a cargo da Diretoria de Comunicação.
+
+
+§ 2º
+
+As notícias institucionais serão incluídas e atualizadas pela Diretoria de Comunicação.
+
+
+§ 3º
+
+As informações do sítio serão criadas e disponibilizadas pelos servidores das diretorias, com o apoio da Diretoria de Comunicação.
+
+
+Art. 11.
+
+O sítio deve conter e manter os links para os principais sistemas informacionais da instituição, em conformidade com técnicas de ergonomia de software e legislação vigente, sendo as ações coordenadas pelo setor da Diretoria de Comunicação.
+
+
+Art. 12.
+
+O cidadão poderá solicitar informações nos termos da Lei Federal nº 12.527, de 18 de novembro de 2011 e da Lei Federal nº 13.460, de 26 de junho de 2017, através do link "SIC / e-SIC", disponível no site oficial da Câmara, devendo o pedido ser respondido ao solicitante da forma mais completa e eficiente possível no prazo de até 20 (vinte) dias, podendo ser prorrogado por mais 10 (dez) dias, de modo a garantir a transparência passiva e o pleno acesso de todas as informações requeridas pelos munícipes em qualquer um dos meios escolhidos.
+
+
+Art. 13.
+
+O sítio deverá contar, no mínimo, com os seguintes endereços eletrônicos:
+
+
+I –
+
+notícias da Câmara: https://www.fozdoiguacu.pr.leg.br/institucional/noticias;
+
+
+II –
+
+contatos: https://www.fozdoiguacu.pr.leg.br/institucional/contatos;
+
+
+III –
+
+Serviço de Pedido de Informações, nos termos da Lei nº 12.527/2011 - Lei de Acesso à Informação: https://fozdoiguacu.1doc.com.br/atendimento;
+
+
+IV –
+
+gravação das sessões: https://www.youtube.com/@camaramunicipaldefozdoigua2086/featured;
+
+
+V –
+
+Portal da Transparência: https://www2.cmfi.pr.gov.br/giig/portais/portaldatransparencia;
+
+
+VI –
+
+Sistema de Apoio ao Processo Legislativo - SAPL: https://sapl.fozdoiguacu.pr.leg.br;
+
+
+VII –
+
+avisos e editais de licitação: https://www.fozdoiguacu.pr.leg.br/transparencia/licitacoes-1;
+
+
+VIII –
+
+contatos dos Vereadores: https://www.fozdoiguacu.pr.leg.br/institucional/contatos;
+
+
+IX –
+
+protocolo eletrônico: https://fozdoiguacu.1doc.com.br/atendimento.
+
+
+Parágrafo único
+
+No rodapé das mensagens enviadas via e-mail, será anexada a seguinte mensagem: "É vedada a reprodução e o compartilhamento indevido e não autorizado deste(s) documento(s) em mídias sociais ou quaisquer outras formas de publicações. A publicidade e transparência institucionais são rigorosamente observadas e cumpridas de ofício pela Câmara Municipal de Foz do Iguaçu. Assim, a reprodução não autorizada e indevida de informações poderá acarretar em penalização na forma da norma vigente."
+
+
+Art. 14.
+
+O recebimento de documentos pela Câmara Municipal de Foz do Iguaçu deverá ser realizado exclusivamente por meio eletrônico, pela Plataforma 1Doc, através do link: https://fozdoiguacu.1doc.com.br/atendimento.
+
+
+§ 1º
+
+Excepcionalmente, o Setor de Protocolo da Câmara Municipal poderá receber documentos entregues de forma presencial ou encaminhados por via postal, nos casos em que a realização do ato por meio eletrônico for inviável.
+
+
+§ 2º
+
+Os documentos apresentados na forma física serão digitalizados pelo Setor de Protocolo, inseridos nos autos do protocolo eletrônico e os originais serão devolvidos ao interessado.
+
+
+§ 3º
+
+Na hipótese de ser impossível ou inviável a digitalização do documento recebido, este ficará sob guarda da Administração e será admitido o trâmite do processo de forma híbrida.
+
+
+Art. 15.
+
+Para acesso ao Protocolo Eletrônico será exigido do interessado cadastro prévio na plataforma 1Doc, através do link https://fozdoiguacu.1doc.com.br/atendimento, com o preenchimento das informações necessárias para a sua correta identificação, como:
+
+
+I –
+
+nome ou razão social completos;
+
+
+II –
+
+Cadastro de Pessoas Físicas - CPF ou Cadastro Nacional de Pessoa Jurídica - CNPJ;
+
+
+III –
+
+endereço residencial e/ou comercial;
+
+
+IV –
+
+endereço eletrônico (e-mail);
+
+
+V –
+
+telefone para contato, se houver.
+
+
+§ 1º
+
+É de responsabilidade do usuário a apresentação de endereço eletrônico apto a receber comunicações e respostas por parte da Administração, bem como a manutenção deste canal de comunicação, até o encerramento do protocolo.
+
+
+§ 2º
+
+O teor e a integridade dos documentos digitalizados são de responsabilidade do interessado, que responderá nos termos da legislação civil, penal e administrativa por eventuais fraudes.
+
+
+§ 3º
+
+A Administração poderá exigir, a seu critério, até que decaia o seu direito de rever os atos por ela praticados, a exibição do original de documento digitalizado protocolado por meio da Plataforma 1Doc.
+
+
+Art. 16.
+
+O protocolo em meio eletrônico considerar-se-á realizado no dia e na hora do recebimento pelo sistema de gestão eletrônica de documentos, o qual deverá fornecer recibo eletrônico de protocolo que o identifique.
+
+
+Art. 17.
+
+Quando houver fixação de prazo para a prática de determinado ato, por meio eletrônico serão considerados tempestivos os efetivados até às 23:59 (vinte e três horas e cinquenta e nove minutos) do último dia do prazo, no horário oficial de Brasília.
+
+
+Parágrafo único
+
+Na hipótese prevista no caput deste artigo, se o sistema eletrônico da Câmara Municipal de Foz do Iguaçu se tornar indisponível por motivo técnico, o prazo ficará automaticamente prorrogado até às 23:59 (vinte e três horas e cinquenta e nove minutos) do primeiro dia útil seguinte ao da resolução do problema.
+
+
+Art. 18.
+
+O sítio oficial do Sistema de Apoio ao Processo Legislativo - SAPL da Câmara Municipal de Foz do Iguaçu está disponível no seguinte endereço eletrônico: https://sapl.fozdoiguacu.pr.leg.br.
+
+
+§ 1º
+
+A manutenção da infraestrutura e hospedagem do SAPL é realizada pelo Interlegis, enquanto a personalização e inclusão do conteúdo fica a cargo da Diretoria de Assuntos Legislativos.
+
+
+§ 2º
+
+O SAPL deve garantir a consulta pública e a transparência das proposições legislativas e administrativas e das normas jurídicas municipais de Foz do Iguaçu, de maneira a manter os documentos eletrônicos organizados e protegidos.
+
+
+Art. 19.
+
+As transmissões ao vivo das Reuniões Ordinárias, Extraordinárias, Audiências Públicas e notícias da Câmara Municipal de Foz do Iguaçu podem ser acompanhadas diretamente pelo sítio oficial, através dos canais oficiais, nos seguintes endereços eletrônicos:
+
+
+I –
+
+o sítio oficial transmite ao vivo diretamente na página inicial no endereço eletrônico: https://www.fozdoiguacu.pr.leg.br;
+
+
+II –
+
+o canal oficial no Youtube está disponível no endereço eletrônico: https://www.youtube.com/@camaramunicipaldefozdoigua8508;
+
+
+III –
+
+o canal oficial no Facebook está disponível no endereço eletrônico: https://www.facebook.com/camaradefoz;
+
+
+IV –
+
+o canal oficial no Instagram está disponível no endereço eletrônico: https://www.instagram.com/camarafoz;
+
+
+V –
+
+o canal oficial no Linkedin está disponível no endereço eletrônico: https://www.linkedin.com/in/camarafozdoiguacu;
+
+
+VI –
+
+o canal oficial no Flicker está disponível no endereço eletrônico: https://www.flickr.com/photos/camarafoz;
+
+
+VII –
+
+o canal oficial no X (Twitter) está disponível no endereço eletrônico: https://twitter.com/Camara\_Foz;
+
+
+VIII –
+
+as gravações das Reuniões estão disponíveis no endereço eletrônico: https://www.youtube.com/@camaramunicipaldefozdoigua2086/videos.
+
+
+§ 1º
+
+A Diretoria de Tecnologia deverá viabilizar a adequada infraestrutura computacional e de Internet para transmissão das Reuniões.
+
+
+§ 2º
+
+Compete à Diretoria de Comunicação disponibilizar as gravações das reuniões em até 24 (vinte e quatro) horas após a reunião ao vivo.
+
+
+§ 3º
+
+As gravações das sessões serão disponibilizadas no sítio oficial, no campo "Gravação das Sessões", e Atas Eletrônicas das sessões no campo "Atas das Sessões", no sítio oficial.
+
+
+§ 4º
+
+No campo "Sessão Plenária" serão disponibilizadas a pauta, a ata das sessões, assim como indexadas as gravações para pesquisa ao final de cada sessão plenária.
+
+
+§ 5º
+
+Compete à Diretoria de Comunicação organizar e manter as gravações e as rotinas de backups para assegurar a integridade, autenticidade e disponibilidade das gravações das reuniões da Casa, em cooperação com os demais setores.
+
+
+Art. 20.
+
+É admitida como comunicação oficial aos servidores e agentes políticos do Poder Legislativo de Foz do Iguaçu a extensão de e-mail "@fozdoiguacu.pr.leg.br", não sendo permitida a utilização de qualquer outra extensão de e-mail para fins de comunicação oficial.
+
+
+§ 1º
+
+O gerenciamento das contas de e-mails oficiais dos servidores públicos e agentes políticos devem ser feitas mediante solicitação expressa, condicionado ao termo de responsabilidade assinado pelo usuário.
+
+
+§ 2º
+
+A senha do e-mail oficial é sigilosa e intransferível e a responsabilidade de preservar o sigilo e atualizar a senha é exclusiva de cada usuário, em conformidade com o termo de responsabilidade assinado pelo usuário.
+
+
+§ 3º
+
+Qualquer irregularidade, falha no sistema ou risco de uso indevido do e-mail, deve ser imediatamente comunicada pelo usuário à Diretoria de Tecnologia, não sendo admitida, em nenhuma hipótese, a alegação, pelo usuário, de uso indevido da sua respectiva conta de e - mail oficial.
+
+
+§ 4º
+
+Os arquivos anexados à mensagem devem ser utilizados preferencialmente no formato Portable Document Formal - PDF, e o e-mail que encaminha algum arquivo deve trazer informações sobre seu conteúdo no corpo da mensagem.
+
+
+§ 5º
+
+É de exclusiva responsabilidade de cada usuário as informações contidas no assunto do e-mail, no campo da mensagem e nos anexos do e-mail, não se admitindo ao emissor negar a autenticidade da mensagem, inclusive das mensagens recebidas do Poder Executivo.
+
+
+Art. 21.
+
+O sítio do Portal da Transparência da Câmara Municipal de Foz do Iguaçu está disponível no endereço eletrônico: https://www2.cmfi.pr.gov.br/giig/portais/portaldatransparencia.
+
+
+§ 1º
+
+O sítio oficial institucional deverá manter um link na página inicial direcionado ao Portal da Transparência da Casa, para garantir ampla publicidade do serviço e das informações administrativas, contábeis e legislativas pormenorizadas da Casa.
+
+
+§ 2º
+
+Compete à Diretoria de Tecnologia garantir a infraestrutura e disponibilizar o acesso ao sistema do Portal da Transparência e, quando solicitado, atender às solicitações da respectiva empresa contratada para o desenvolvimento e manutenção do sistema.
+
+
+Art. 22.
+
+O Diário Oficial do Município é o órgão oficial de publicações de todos os atos administrativos do Poder Executivo e Poder Legislativo.
+
+
+§ 1º
+
+O sítio oficial do Diário Oficial do Município está disponível no endereço eletrônico: https://www5.pmfi.pr.gov.br/diarioOficial-1.
+
+
+§ 2º
+
+Compete a cada departamento que compõe a estrutura organizacional da Câmara a submissão para a Diretoria de Administração dos documentos eletrônicos que necessitem de publicação oficial no Diário Oficial do Município, nos prazos definidos na legislação.
+
+
+Art. 23.
+
+O Poder Legislativo tem a obrigação de adotar a Transparência Ativa para publicar e divulgar as informações de interesse público e não apenas aos pedidos de informação e deverá buscar proativamente aumentar a transparência das informações.
+
+
+Art. 24.
+
+O Serviço de Informação ao Cidadão, que tem objetivo assegurar a Transparência Passiva, é destinado a qualquer interessado que apresentar pedido de acesso à informação, por qualquer meio legítimo, devendo o pedido conter a identificação do requerente e a especificação da informação requerida.
+
+
+§ 1º
+
+O solicitante de informação deverá informar seus dados pessoais, sendo vedadas quaisquer exigências relativas aos motivos determinantes da solicitação de informações e/ou outras exigências relativas à identificação do cidadão.
+
+
+§ 2º
+
+O pedido de informação poderá ser requerido e protocolizado no site oficial da Câmara através do link "SIC / e-SIC" ou fisicamente na sede da Casa.
+
+
+§ 3º
+
+O acesso à informação deve ser simples e de fácil compreensão pelo cidadão, devendo os pedidos de informação ser processados com rapidez e em linguagem clara.
+
+
+§ 4º
+
+O Ouvidor será responsável pela resposta ao pedido de informação, com a possibilidade de apresentação de recurso em caso de negativa de fornecimento da informação.
+
+
+§ 5º
+
+O prazo para resposta da solicitação de informação física e/ou digital será de 20 (vinte) dias, podendo ser prorrogado por mais 10 (dez) dias, mediante justificativa expressa da Casa, da qual será cientificado o requerente.
+
+
+§ 6º
+
+Na hipótese de o Poder Legislativo não dispor da informação requerida por não ser de sua competência a manutenção e/ou produção da informação, a Casa deverá indicar o órgão ou a entidade que poderá deter a informação, ou, ainda, remetendo o requerimento a esse órgão ou entidade, cientificando o interessado da remessa de seu pedido de informação.
+
+
+§ 7º
+
+A manutenção da infraestrutura é realizada pela Diretoria de Tecnologia, enquanto a fornecedora da solução será responsável por realizar os serviços de instalação, migração de dados, parametrização, implantação, treinamento, manutenção legal, corretiva e tecnológica, e suporte técnico aos usuários.
+
+
+Art. 25.
+
+Quando viável tecnicamente, serão utilizados softwares livres para provimento de seus sistemas de informação, com exceção dos softwares de gestão pública e serviços, ou quando o software livre não possua as ferramentas adequadas e necessárias para execução das atividades de trabalho.
+
+
+§ 1º
+
+Em virtude da complexidade e especificidade dos softwares de gestão pública e serviços para o setor público, fica autorizada a contratação de empresas terceirizadas prestadoras de serviço e especializadas no setor público.
+
+
+§ 2º
+
+Compete à Diretoria de Tecnologia o apoio operacional, tecnológico e suporte aos usuários para viabilizar a utilização dos softwares livres mantidos na Casa.
+
+
+Art. 26.
+
+A utilização de sistemas e acesso à Internet pelos usuários da Câmara está disposta no termo de responsabilidade entregue a todos os usuários pelo setor de Recursos Humanos.
+
+
+Parágrafo único
+
+Caberá à Diretoria de Tecnologia:
+
+
+I –
+
+evitar a interrupção do serviço de Internet e manter serviço dedicado para assegurar a confiabilidade e o acesso aos serviços informacionais;
+
+
+II –
+
+prestar apoio à fiscalização dos contratos dos provedores de Internet da Câmara, devendo estar previsto em contrato os prazos para atendimento de eventuais interrupções e/ou problemas técnicos ocasionados pela(s) empresa(s) provedora(s) do acesso à Internet;
+
+
+III –
+
+realizar procedimentos de segurança e controle de acesso dos dispositivos patrimoniados pela Casa para conexão com a Internet, cabendo aos usuários a responsabilidade pela utilização de seus respectivos equipamentos e acessos aos sistemas e à Internet.
+
+
+Art. 27.
+
+Para garantir segurança e preservação dos documentos digitais, os servidores e agentes políticos devem seguir as orientações indicadas pela Diretoria de Tecnologia da Casa em relação às rotinas de trabalho que empregam o uso de tecnologias de informação, com destaque para os procedimentos de backup dos arquivos digitais, cuidados com as senhas dos sistemas, cuidados com a navegação na Internet e demais orientações que dizem respeito à segurança do processo administrativo e legislativo eletrônico.
+
+
+Art. 28.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Sala das Sessões da Câmara Municipal de Foz do Iguaçu, 03 de julho de 2024.  
+  
+Vereador João Morales  
+Presidente
+
+PUBLICADA NO DIÁRIO OFICIAL DO MUNICÍPIO Nº 4990, DE 4 DE JULHO DE 2024.
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

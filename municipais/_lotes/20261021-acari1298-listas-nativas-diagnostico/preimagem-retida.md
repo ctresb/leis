@@ -1,0 +1,1012 @@
+---
+titulo: "Lei Ordinária-MUN nº 1.298, de 28 de junho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1298"
+data: "2023-06-28"
+municipio: "Acari"
+uf: "RN"
+codigo_ibge: "2400109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.acari.rn.leg.br/norma/769"
+fonte_texto: "https://sapl.acari.rn.leg.br/ta/45/text"
+sha256_fonte: "ae3a05522146477c8c742dfcc21ff691aaa49e04f384ed146b9bb99bb3a358bc"
+sha256_texto: "daf6aafb5254aa256aedc6faf9af42824c3b7b72f4210da5d31b5141fbc817c2"
+capturado_em_fonte: "2026-10-21T05:07:44.847915-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária-MUN nº 1.298, de 28 de junho de 2023
+
+O **PREFEITO MUNICIPAL DE ACARI/RN**, no uso de suas atribuições legais estabelecidas pela Lei Orgânica Municipal,  
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre o tratamento jurídico diferenciado, simplificado e favorecido dispensado às pessoas jurídicas classificadas como microempresas, empresas de pequeno porte, microempreendedores individuais, empreendimentos da economia popular solidária e a elas equiparadas, tais como artesões, agricultores familiares e produtor rural.
+
+
+Parágrafo único
+
+As disposições desta lei seguem a alínea “d”, inciso III do art. 146, inciso IX do art. 170 e art. 179 da Constituição Federal, a Lei Complementar Federal nº 123/2006, na sua atual redação e demais parâmetros legais estabelecidos nas legislações de âmbito nacional e estadual.
+
+
+Art. 2º.
+
+Para fins desta Lei, conceituam-se:
+
+– Pequenos negócios: aqueles caracterizados pela atividade econômica na forma de microempreendedor individual - MEI, microempresa - ME, empresa de pequeno porte - EPP, agricultor familiar, produtor rural, artesão e empreendimentos da economia popular solidária;  
+– Atividade econômica: o ramo de atividade identificado a partir da Classificação Nacional de Atividades Econômicas – CNAE;  
+– Grau de risco: classificação dos riscos aos quais uma empresa está submetida no desempenho de suas atividades, que exponham à integridade física e à saúde humana, ao meio ambiente ou ao patrimônio, em decorrência do exercício de atividade econômica;  
+– Microempresa e empresa de pequeno porte: de acordo com o estabelecido no art. 3º da Lei Complementar Federal nº 123/2006;  
+– Agricultor familiar: de acordo com o estabelecido no art. 3º da Lei Federal nº 11.326/2006;  
+– Produtor rural: pessoa jurídica cuja atividade econômica seja a industrialização de produção própria ou de produção própria e adquirida de terceiros, nos termos do art. 22-A da Lei Federal nº 8.212, de 24 de julho de 1991;  
+– Microempreendedor individual: de acordo com o estabelecido no § 1º do art. 18- A da Lei Complementar nº 123/2006;  
+– Artesão: de acordo com o estabelecido nos termos da Lei nº 13.180/2015;  
+– Pesquisa prévia de viabilidade de instalação: ato pelo qual a administração municipal, mediante requerimento formal ou eletrônico, informa sobre os requisitos e impedimentos para o exercício de atividade econômica no território municipal, nos termos do Código de Obras e do Plano Diretor Municipais;  
+– Autodeclaração: ato pelo qual o contribuinte declara ter ciência e estar em conformidade com as normas de segurança sanitária, ambiental e prevenção e combate ao incêndio;  
+– REDESIM: portal da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios - rede de sistemas informatizados necessários para registrar e legalizar empresas e negócios, tanto no âmbito da União como dos Estados e Municípios, portal da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios. Tem como objetivo permitir a padronização dos procedimentos, o aumento da transparência e a redução dos custos e dos prazos de abertura de empresas; e  
+– CGSIM - Comitê para Gestão de Rede Nacional para Simplificação do Registro e Legalização de Empresas e Negócios.
+
+
+Art. 3º.
+
+Todos os Órgãos da Administração Pública direta e as demais entidades controladas diretamente pelo município, deverão incorporar em sua política de atuação e em seus procedimentos e instrumentos em que forem parte, o tratamento diferenciado e favorecido a ser dispensado aos pequenos negócios, nos termos desta Lei.
+
+
+Art. 4º.
+
+Constituem Políticas de Desenvolvimento as seguintes iniciativas e programas que busquem instaurar ambientes e instrumentos específicos de promoção do empreendedorismo como principal fator do desenvolvimento econômico, social, ambiental e tecnológico do município de Acari:
+
+– educação empreendedora e inovação;
+
+– desburocratização;
+
+– instituição da Rede Municipal de Políticas de Desenvolvimento;
+
+– ampliação da participação dos pequenos negócios nas compras públicas;
+
+– estímulo ao microempreendedor individual, aos empreendimentos da economia popular solidária e aos negócios de impacto social;
+
+– estímulo à capitalização do microcrédito; e,
+
+– incentivos tributários e de infraestrutura.
+
+
+Art. 5º.
+
+Constituem objetivos da Política de Desenvolvimento:
+
+– promover os valores da dignidade da pessoa humana, os valores sociais do trabalho e da livre iniciativa;
+
+– fomentar a criação e o desenvolvimento de uma cultura empreendedora;
+
+– instituir ambiente regulatório favorável à geração de pequenos negócios;
+
+– fomentar a captação, a formação e a gestão de ativos econômicofinanceiros voltados para investimento em infraestrutura urbanística e/ou imobiliária, com tratamento diferenciado às pessoas jurídicas destinatárias desta Lei;
+
+– estimular a participação das MPEs, EPPs e MEIs locais nas compras no mercado interno e externo, em especial, nas governamentais;
+
+– apoiar o relacionamento creditício entre instituições financeiras e as pessoas jurídicas destinatárias desta Lei instaladas no Município;
+
+– fomentar ganhos de eficiência e produtividade por meio de investimento em inovação; e
+
+– estimular a utilização da conciliação prévia, da mediação e da arbitragem como instrumentos facilitadores para a solução de conflitos e litígios.
+
+
+Art. 6º.
+
+Para articular as políticas públicas destinadas à promoção e ao desenvolvimento das MPE’s destinatárias desta Lei, instaladas em seu território, o Município designará Agentes de Desenvolvimentos - AD, nomeados por ato do Poder Executivo.
+
+
+Art. 7º.
+
+A designação do Agente de Desenvolvimento deve atender aos seguintes requisitos:
+
+– residir na área da comunidade em que atuar;  
+– concluir, com aproveitamento, curso de qualificação básica para a formação de Agente de Desenvolvimento;  
+– possuir, preferencialmente, formação superior ou experiência compatível com a função a ser exercida; e,  
+– ser preferencialmente servidor efetivo do Município.
+
+
+§ 1º
+
+A função de Agente de Desenvolvimento caracteriza-se pelo exercício de articulação das ações públicas para a promoção do desenvolvimento local e territorial, mediante ações locais ou comunitárias, individuais ou coletivas, que visem ao cumprimento das disposições e diretrizes contidas nesta Lei, sob supervisão do órgão gestor local responsável pelas políticas de desenvolvimento.
+
+
+§ 2º
+
+As possíveis alterações na denominação e nas atribuições conferidas ao servidor designado como Agente de Desenvolvimento serão objeto de Ato Normativo, Decreto ou Portaria.
+
+
+§ 3º
+
+O desempenho das atividades do Agente de Desenvolvimento poderá se constituir como função gratificada.
+
+
+Art. 8º.
+
+As entidades municipais e as de apoio e representação empresarial prestarão suporte ao referido Agente de Desenvolvimento sob a forma de capacitação, estudos e pesquisas, publicações, promoção de intercâmbio de informações e experiências.
+
+
+Art. 9º.
+
+Para assegurar ao contribuinte a entrada única de dados e simplificar os procedimentos de registro, alteração e extinção de empresas, o Município deverá instalar a Sala do Empreendedor, local sede de referência e articulação da Administração com os destinatários desta Lei.
+
+
+§ 1º
+
+A Administração poderá firmar parcerias, convênios, termos de cooperação e outros ajustes com órgãos públicos e instituições do setor produtivo para o efetivo cumprimento do disposto no caput desse artigo.
+
+
+§ 2º
+
+O Poder Executivo regulamentará o disposto nesse artigo em 120 (cento e vinte) dias.
+
+
+#### CAPÍTULO II — DA EDUCAÇÃO EMPREENDEDORA E INOVAÇÃO
+
+
+Art. 10.
+
+O Município por si, ou mediante parcerias com instituições públicas ou privadas, fomentará a cultura e a educação empreendedora no âmbito de suas atribuições:
+
+
+§ 1º
+
+Poderá o Município inserir conteúdos curriculares ou extracurriculares voltados a estudantes da Rede Pública Municipal de Ensino, bem estimular cursos técnicos e profissionalizantes, objetivando o desenvolvimento de competências integradas que estimulem o empreendedorismo e inovação, podendo ainda realizar, direta ou indiretamente, ações e programas visando capacitações em empreendedorismo para seus cidadãos.
+
+
+§ 2º
+
+A Administração Pública Municipal instituirá um programa de inovação para pequenos negócios com foco em pesquisa e no desenvolvimento de produtos, serviços e processos inovadores, mediante a concessão de recursos financeiros, humanos, materiais ou de infraestrutura a serem ajustados em instrumentos específicos.
+
+
+Art. 11.
+
+Na escolha do objeto das parcerias referidas no artigo anterior, terão prioridade projetos que:
+
+– estejam orientados para identificação e promoção de ações compatíveis com as necessidades, potencialidades e vocações do Município.  
+– sejam profissionalizantes; e,  
+– beneficiem pessoas com deficiência; idosos; mulheres e jovens provenientes de famílias em situação de vulnerabilidade social.
+
+
+Art. 12.
+
+O Município apoiará, mediante convênios, termos de cooperação ou outros instrumentos legais, a criação e o desenvolvimento de entidade ou associação civil constituída e gerida exclusivamente por estudantes, universitários ou tecnólogos, que tenham dentre seus objetivos estatutários o desenvolvimento dos beneficiários desta lei.
+
+
+#### CAPÍTULO III — DA DESBUROCRATIZAÇÃO
+
+
+##### Seção I — Abertura, Alteração, Manutenção e Baixa de Empreendimentos
+
+
+Art. 13.
+
+O Município deverá integrar os seus órgãos e entidades envolvidos direta ou indiretamente na abertura, alteração, manutenção e fechamento de empreendimentos locais por meio do Portal da REDESIM, atuando para:
+
+– compatibilizar e integrar procedimentos em conjunto com outros órgãos e entidades, garantindo-se a linearidade dos processos;  
+– evitar a duplicidade de exigências; e,  
+– administrar, atualizar e disponibilizar aos entes diretamente envolvidos, ou a terceiros, mediante convênio, por intermédio da Secretaria responsável pela coordenação da política de desenvolvimento dos pequenos negócios, os sistemas e os bancos de dados de que trata esta Lei, observando, sempre, o sigilo fiscal das informações.
+
+
+Art. 14.
+
+É da responsabilidade do órgão municipal gestor da REDESIM disponibilizar de forma presencial, ou pela rede mundial de computadores, informações, orientações e instrumentos de forma integrada e consolidada, que permitam pesquisas prévias às etapas de registro ou inscrição, alteração e baixa das empresas aqui referidas.
+
+
+Parágrafo único
+
+Para cumprimento do disposto no caput, serão observados os dispositivos da Lei Complementar Federal n° 123/2006, as Resoluções do Comitê Gestor do Simples Nacional e as Resoluções do Comitê para Gestão de Rede Nacional para Simplificação do Registro e Legalização de Empresas e Negócios-CGSIM.
+
+
+Art. 15.
+
+No âmbito desta Lei, os procedimentos de competência municipal são:  
+– integração gradual dos sistemas eletrônicos municipais, estaduais e federais que guardem ou venham a guardar pertinência com o tema;  
+– pesquisa prévia de viabilidade;  
+– inscrição no cadastro de contribuintes mobiliários; e,  
+– certidão de inexigibilidade e licenciamento dos empreendimentos.
+
+
+Parágrafo único
+
+A administração da atualização e a disponibilização de sistemas e bancos de dados de que trata esta Lei será realizada pela Secretaria competente, ressalvados o Sistema de Administração Tributária e dados relativos ao licenciamento, que são responsabilidade das respectivas Secretarias.
+
+
+##### Seção II — Da Pesquisa Prévia de Viabilidade
+
+
+Art. 16.
+
+Entende-se por pesquisa prévia de viabilidade a solicitação, disponibilizada de forma gratuita, realizada pelo interessado por meio de acesso ao sistema da Rede Nacional para Simplificação do Registro e Legalização de Empresas Negócios (REDESIM), com o intuito de verificar a possibilidade do exercício da atividade econômica no endereço informado.
+
+
+Art. 17.
+
+A instalação, operação e o funcionamento da atividade proposta irão depender dos respectivos licenciamentos, salvo quando dispensados de liberação prévia.
+
+
+Art. 18.
+
+O prazo para a resposta à pesquisa prévia de viabilidade deverá ser de até 02 (dois) dias úteis, contados do protocolo do requerimento.
+
+
+Art. 19.
+
+Ao ser concluída a pesquisa prévia de viabilidade, poderão retornar os seguintes resultados:  
+– Atividade passível de instalação (deferimento da consulta): caso em que serão informados os demais licenciamentos (urbanístico e ambiental) necessários para que haja a instalação e operação da atividade; ou  
+– Atividade não passível de instalação (indeferimento da consulta): quando o uso pretendido não atender à legislação de uso e ocupação do solo ou quando houver insuficiência ou incompatibilidade das informações prestadas, sem prejuízo da continuidade dos procedimentos de que trata esta Lei.
+
+
+Art. 20.
+
+A atividade passível de instalação receberá o deferimento da pesquisa prévia de viabilidade, seguido das informações necessárias ao licenciamento, para que haja a instalação, a operação e o funcionamento da atividade.
+
+
+Art. 21.
+
+O usuário deverá realizar seu aceite quanto ao resultado fornecido na pesquisa prévia de viabilidade em até 90 (noventa) dias.
+
+
+Parágrafo único
+
+Esgotado o prazo deste artigo sem o referido aceite, o usuário deverá iniciar uma nova consulta.
+
+
+Art. 22.
+
+Quando houver o indeferimento da pesquisa prévia de viabilidade por insuficiência ou incompatibilidade das informações prestadas, o retorno irá seguido de nota na qual constará de forma clara e sucinta o motivo do indeferimento.
+
+
+Art. 23.
+
+A pesquisa prévia de viabilidade não substitui ou dispensa a necessidade de obtenção dos demais tipos de licenciamentos, sendo apenas uma análise prévia referente à possibilidade da instalação das atividades informadas no local pretendido, com base na legislação em vigor.
+
+
+##### Seção III — Da Inscrição no Cadastro de Contribuintes Mobiliários
+
+
+Art. 24.
+
+A inscrição no Cadastro de Contribuintes Mobiliários - CCM, nos casos de registros realizados pela REDESIM, aproveitará os dados previamente preenchidos pelo usuário, garantindo a linearidade do processo e unicidade da base de dados cadastrais.
+
+
+Art. 25.
+
+O número de inscrição no Cadastro Municipal de Contribuintes, gerado pela Secretaria Municipal de Tributação e Administração, nos termos do art. 24, será disponibilizado por meio do REDESIM ao final das validações, com resultado satisfatório, pelas três esferas de governo, o que não impede a continuidade do processo eletrônico de licenciamento, nem pressupõe o cumprimento de normas de posturas urbanas, sanitárias, de segurança ou qualquer outra necessária e imprescindível ao seu licenciamento.
+
+
+Art. 26.
+
+O MEI pode registrar suas atividades no endereço residencial, sem que ocasione alteração nas características de utilização do IPTU para efeito de lançamento do imposto.
+
+
+§ 1º
+
+O benefício concedido pressupõe o desenvolvimento das atividades profissionais do MEI em sua própria residência, não podendo o imóvel ser utilizado unicamente para fins comerciais ou de prestação de serviços.
+
+
+§ 2º
+
+A tributação municipal do imposto sobre imóveis prediais urbanos deverá assegurar tratamento mais favorecido ao Microempreendedor Individual e a Microempresa para realização de sua atividade no mesmo local em que residir, mediante aplicação da menor alíquota vigente para aquela localidade, seja residencial ou comercial, nos termos da Lei, sem prejuízo de eventual isenção ou imunidade existente.
+
+
+Art. 27.
+
+Poderão instalar-se em um único endereço 02 (dois) ou mais microempreendedores individuais exercendo a mesma atividade ou atividades complementares de um mesmo segmento, desde que o negócio explorado não represente, em conjunto ou isoladamente, risco ambiental ou sanitário significativo.
+
+
+Art. 28.
+
+É vedado aos órgãos participantes dos processos de registro, alteração e baixa de empresas, a criação de qualquer exigência não prevista em Lei.
+
+
+##### Seção IV — Da Simplificação ao Licenciamento
+
+
+Art. 29.
+
+Para os fins de registro e legalização das MPEs e a elas equiparadas, os requisitos de segurança sanitária, metrologia, controle ambiental e prevenção contra incêndios deverão ser, no âmbito de suas competências, simplificados, racionalizados e uniformizados pelos órgãos envolvidos, na abertura, alteração, manutenção e fechamento.
+
+
+Art. 30.
+
+Será admitido o uso de meio eletrônico na tramitação de processo administrativo, na comunicação de atos e transmissão de peças processuais no âmbito de todos os órgãos - municipais com interface para os empreendedores relativos ao licenciamento sanitário, ambiental e urbanístico - bem como suas análises e vistorias.
+
+
+Art. 31.
+
+Para proceder a dispensa de exigências de atos públicos de liberação para operação ou funcionamento de atividade econômica e o devido licenciamento, o Município deverá observar os dispositivos de classificações de riscos das atividades econômicas previstas nas Resoluções do CGSIM e demais instituições que tratem da matéria.
+
+
+Parágrafo único
+
+A dispensa de atos públicos de liberação da atividade econômica não exime as pessoas naturais e jurídicas do dever de se observar as demais obrigações estabelecidas pela legislação.
+
+
+Art. 32.
+
+A licença poderá ser expedida sem obrigatoriedade da vistoria prévia para os beneficiários desta Lei, nos termos da legislação vigente.
+
+
+Art. 33.
+
+A dispensa da comprovação prévia de exigências para o licenciamento dos empreendimentos considerados de baixo e médio risco não os exime de observar as condições necessárias para a instalação e funcionamento das atividades, bem como obter e manter disponíveis as documentações para fiscalização dos respectivos documentos.
+
+
+Art. 34.
+
+O empresário, o empreendedor ou o responsável técnico que prestar declaração fica sujeito às sanções administrativas, cíveis e criminais, caso seja verificada falsidade nas declarações prestadas aos órgãos públicos.
+
+
+Art. 35.
+
+Se, por ocasião de vistoria, for constatada inconsistência ou violação aos termos desta Lei, o empresário ou responsável legal firmará Termo de Ciência e Responsabilidade no qual constarão as exigências e o prazo em que deverão ser sanados.
+
+
+Art. 36.
+
+A regularidade do imóvel perante os órgãos de licenciamento no âmbito da prevenção contra incêndios, no que se refere às edificações e áreas de risco não enquadradas como alto risco, terão licenciamento simplificado, com a prestação de informações por parte do proprietário do imóvel ou responsável pelo uso, podendo ser classificadas em baixo risco ou médio risco, nos termos da Lei Complementar nº 704 de 1º de abril de 2017, na sua atual redação (Código Estadual de Segurança contra Incêndio e Pânico – CESIP – do Estado do Rio Grande do Norte).
+
+
+§ 1º
+
+As edificações e áreas de risco serão classificadas como baixo ou médio risco, conforme parâmetros estabelecidos em Instrução ou Resolução Técnica específica.
+
+
+§ 2º
+
+As edificações e áreas de risco classificadas como baixo risco serão dispensadas de atos públicos de licenciamento, nos termos da Lei Federal nº 13.874, de 20 de setembro de 2019, entretanto, estas devem possuir os dispositivos de segurança mínimos necessários conforme estabelecido em Instruções e Resoluções Técnicas, podendo ser fiscalizadas a qualquer tempo.
+
+
+§ 3º
+
+As edificações e áreas de risco classificadas como médio risco terão licenciamento auto declaratório e automático, sendo dispensadas de vistoria prévia, devendo possuir os dispositivos de segurança mínimos necessários, conforme estabelecidos em Instruções e Resoluções Técnicas, podendo ser fiscalizadas a qualquer tempo.
+
+
+##### Seção V — Da Fiscalização Orientadora
+
+
+Art. 37.
+
+Para efeito de garantir a aplicação das normas gerais previstas no Capítulo VII da Lei Complementar nº 123/2006, os órgãos da administração direta e indireta do Poder Executivo Municipal, responsáveis pela fiscalização de atividade, instituirão procedimentos fiscalizatórios de natureza orientadora, quando:
+
+
+I –
+
+a atividade contida na solicitação for considerada de baixo e médio risco; e
+
+
+II –
+
+não ocorrer situação de risco grave, reincidência, fraude ou resistência.
+
+
+Art. 38.
+
+A fiscalização disciplinada por esta lei adota, sob pena de nulidade, o critério de dupla visita para lavratura de auto de infração, exceto na ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.
+
+
+Art. 39.
+
+A dupla visita consiste em uma primeira ação, com a finalidade de verificar a regularidade do estabelecimento e, em ação posterior de caráter punitivo, quando constatada irregularidade na primeira visita e não for efetuada a respectiva regularização no prazo determinado.
+
+
+Art. 40.
+
+Quando, na visita, for constatada qualquer irregularidade, será lavrado um termo de verificação e orientação para que o responsável possa efetuar a regularização no prazo razoável, sem aplicação de penalidade.
+
+
+§ 1º
+
+Quando o prazo não for suficiente para a regularização necessária, o interessado poderá requerer ao órgão responsável a formalização de Termo de Ajuste e Compromisso, estabelecendo as condições e cronograma para a regularização.
+
+
+§ 2º
+
+Decorridos os prazos especificados no caput ou no Termo de Compromisso, sem a regularização necessária, ou justificativa, será lavrado auto de infração com aplicação de penalidade cabível.
+
+
+§ 3º
+
+O termo de verificação e orientação não caracterizará um laudo técnico, apenas pontuará as irregularidades existentes.
+
+
+##### Seção VI — Da Acessibilidade
+
+
+Art. 41.
+
+Será garantido tratamento diferenciado, simplificado e favorecido às micro e pequenas empresas sediadas no Município, visando à promoção de acessibilidade, para os fins de aplicação da Lei Federal nº 13.146 de 06 de julho de 2015.
+
+
+Art. 42.
+
+Para fins do disposto nesta Lei, considera-se:
+
+– acessibilidade  
+– possibilidade e condição de alcance para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, e outros serviços e instalações abertos ao público, de uso público ou privado de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com mobilidade reduzida; e  
+– adaptações razoáveis  
+– adoção de medidas compensatórias não estruturais, tendentes a garantir a máxima utilização da área comum por pessoas com deficiência.
+
+
+Art. 43.
+
+Para fins da realização de adaptações razoáveis, acima descritas, entende-se por adaptações, modificações e ajustes necessários e adequados àquelas que não acarretam ônus desproporcional e indevido em relação ao faturamento da empresa.
+
+
+Art. 44.
+
+Os Microempreendedores Individuais - MEI’s ficam dispensados do cumprimento do disposto neste Capítulo, quando tiverem o estabelecimento comercial em sua residência ou não atenderem ao público de forma presencial no seu estabelecimento.
+
+
+#### CAPÍTULO IV — DA REDE MUNICIPAL DE POLÍTICAS DE DESENVOLVIMENTO
+
+
+Art. 45.
+
+Fica instituída à Rede Municipal de Políticas de Desenvolvimento, como instância governamental municipal competente para a implementação desta Lei, competindo- lhe estimular, dentre outros:
+
+
+I –
+
+as operações comerciais entre compradores e fornecedores locais;
+
+
+II –
+
+a visibilidade dos produtos e serviços produzidos no município;
+
+
+III –
+
+o compartilhamento de infraestruturas físicas, logísticas, de comunicação e de gestão administrativa;
+
+
+IV –
+
+o acesso ao crédito, ao mercado, às tecnologias e a mecanismos de troca de conhecimentos;
+
+
+V –
+
+a elevação à sustentabilidade previdenciária dos munícipes;
+
+
+VI –
+
+o acesso a serviços especializados em segurança e medicina do trabalho e à saúde do trabalhador;
+
+
+VII –
+
+a ampliação da base tributária pela redução da informalidade nas atividades empresariais;
+
+
+VIII –
+
+o treinamento, a capacitação e a qualificação profissional dos empreendedores e de seus empregados;
+
+
+IX –
+
+a inovação, a pesquisa e o desenvolvimento tecnológico;
+
+
+X –
+
+o empreendedorismo familiar; e
+
+
+XI –
+
+o fomento à economia criativa.
+
+
+Art. 46.
+
+A Rede Municipal de Políticas de Desenvolvimento será composta por representantes da Administração Pública e de instituições da sociedade civil e regulamentada por Decreto.
+
+
+#### CAPÍTULO V — DO ACESSO AOS MERCADOS
+
+
+##### Seção I — Do Fomento às Aquisições Públicas
+
+
+Art. 47.
+
+Para fomentar a participação das Microempresas, das Empresas de Pequeno Porte, dos Microempreendedores Individuais, dos produtores rurais, agricultores familiares, artesãos e dos empreendimentos da economia solidária nas compras governamentais, compete à Administração Pública Municipal:
+
+– instituir ou utilizar cadastro que possibilite identificar os destinatários desta Lei sediados localmente, com suas linhas de fornecimento, de modo a possibilitar o envio de informações sobre as licitações e chamadas públicas e aferir a participação destes nas compras municipais;  
+– estabelecer e divulgar um planejamento anual e plurianual das contratações públicas a serem realizadas, com a estimativa de quantitativo, calendário das contratações e a fonte de recursos;  
+– padronizar e divulgar as especificações dos bens e serviços a serem contratados, de modo a orientar as empresas equiparadas para que realizem as adequações necessárias de seus processos produtivos;  
+– utilizar especificações claras na definição do objeto da contratação, para que não restrinjam, injustificadamente, a participação dos destinatários desta Lei sediados localmente/regionalmente;  
+– elaborar editais de licitação por item quando se tratar de bem divisível, permitindo mais de um vencedor para uma licitação;  
+– condicionar, sempre que possível, a contratação ao emprego de mão de obra, materiais, tecnologia e matérias-primas existentes no local para execução, conservação e operação.
+
+
+Parágrafo único
+
+As necessidades de compras de gêneros alimentícios pelos órgãos da Administração Direta do Município serão preferencialmente adequadas à oferta de produtores locais ou regionais.
+
+
+##### Seção II — Do Comitê Gestor de Compras Públicas
+
+
+Art. 48.
+
+Fica instituído o Comitê Gestor de Compras - CGC, órgão colegiado, de caráter permanente, vinculado e sob a coordenação, preferencialmente, da Secretaria a qual esteja vinculada a presente Política de Desenvolvimento Econômico, composto preferencialmente pelo:
+
+
+I –
+
+Representante do Gabinete do Prefeito;
+
+
+II –
+
+Secretário Municipal de Administração e Finanças;
+
+
+III –
+
+Secretário Municipal de Saúde;
+
+
+IV –
+
+Secretário Municipal de Desenvolvimento Econômico e Turismo;
+
+
+V –
+
+Secretário Municipal de Trabalho, Habitação e Assistência Assistência Social;
+
+
+VI –
+
+Secretário de Educação, Cultura e Esporte;
+
+
+VII –
+
+Controlador Geral do Município; e
+
+
+VIII –
+
+Servidor da Comissão de Contratação.
+
+
+§ 1º
+
+Os Secretários Municipais de Saúde e de Assistência Social poderão ser convocados apenas quando às aquisições envolverem recursos financeiros da respectiva pasta.
+
+
+§ 2º
+
+A designação do titular se faz conjuntamente com um suplente.
+
+
+Art. 49.
+
+Compete ao Comitê Gestor de Compras - CGC:
+
+
+I –
+
+capacitar a equipe sobre o tema compras públicas;
+
+
+II –
+
+analisar as compras públicas realizadas anteriormente para planejar e definir quantitativos, padronização, especificações e demandas;
+
+
+III –
+
+identificar, ajustar e aplicar, no âmbito municipal, boas práticas de compras, facilitando o acesso ao mercado de compras e contratações públicas municipais; e,
+
+
+IV –
+
+dinamizar a economia, estimulando o desenvolvimento sustentável e o empreendedorismo na região, mediante:
+
+
+a)
+
+O estabelecimento de licitações com participação exclusiva;
+
+
+b)
+
+A previsão de subcontratação do objeto licitado;
+
+
+c)
+
+A reserva de cota de objeto de natureza divisível para participação exclusiva;
+
+
+d)
+
+A possibilidade de corrigir vícios na demonstração da regularidade fiscal e trabalhista;
+
+
+e)
+
+As aquisições de bens e serviços das empresas locais e produtores locais; e,
+
+
+f)
+
+O estímulo de compras sustentáveis.
+
+
+V –
+
+propor normas e procedimentos relacionados as compras, buscando a padronização dos critérios de aquisição de cada segmento de produtos e serviços;
+
+
+VI –
+
+rever os modelos propostos a cada 02 (dois) anos, por meio de grupos de trabalhos com técnicos especialistas, com vistas a atualizálos, quando necessário; e
+
+
+VII –
+
+elaborar o Banco Anual de Oportunidades de Compras para as empresas destinatárias desta Lei, com os itens que o Município se propõe a adquirir.
+
+
+Art. 50.
+
+A formação do Banco Anual de Oportunidades tem por objetivo o alinhamento das necessidades internas de aquisições de bens e serviços com a política de fomento aos destinatários desta Lei nas contratações públicas.
+
+
+Art. 51.
+
+As decisões do CGC serão tomadas por maioria, cabendo ao Presidente do Comitê o desempate.
+
+
+Art. 52.
+
+Os representantes do Comitê serão indicados pelos titulares dos respectivos órgãos dentro do prazo de 15 (quinze) dias, a contar da publicação desta Lei.
+
+
+##### Seção III — Do Tratamento Diferenciado
+
+
+Art. 53.
+
+A comprovação de regularidade fiscal e trabalhista das microempresas, das empresas de pequeno porte e dos microempreendedores individuais somente será exigida para efeito de assinatura do contrato.
+
+
+Art. 54.
+
+As microempresas e as empresas de pequeno porte, por ocasião da participação em certames licitatórios, deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal e trabalhista, mesmo que esta apresente alguma restrição.
+
+
+§ 1º
+
+Na hipótese de haver alguma restrição na comprovação da regularidade fiscal e trabalhista, será assegurado o prazo de 05 (cinco) dias úteis, prorrogável por igual período, a critério da administração pública, para a regularização da documentação, para pagamento ou parcelamento do débito e para a emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa.
+
+
+§ 2º
+
+Para aplicação do disposto no §1º, o prazo para regularização fiscal e trabalhista será contado a partir do momento em que o proponente for declarado vencedor do certame.
+
+
+Art. 55.
+
+Nas licitações, será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte e aos destinatários desta Lei.
+
+
+§ 1º
+
+Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 10% (dez por cento) superiores à proposta mais bem classificada.
+
+
+§ 2º
+
+Na modalidade de pregão, o intervalo percentual estabelecido no § 1º deste artigo será de até 5% (cinco por cento) superior ao melhor preço.
+
+
+Art. 56.
+
+Para efeito do disposto no art. 55 desta Lei Complementar, ocorrendo o empate, proceder-se-á da seguinte forma:
+
+– a microempresa ou empresa de pequeno porte mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto licitado;
+
+– não ocorrendo a contratação da microempresa ou empresa de pequeno porte, na forma do inciso I do caput deste artigo, serão convocadas as remanescentes que porventura se enquadrem na hipótese dos §§ 1o e 2o do art. 55 desta Lei Complementar, na ordem classificatória, para o exercício do mesmo direito;
+
+– no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos §§ 1o e 2o do art. 56 desta Lei Complementar, será realizado sorteio entre elas, para que se identifique aquela que primeiro poderá apresentar melhor oferta.
+
+
+§ 1º
+
+Na hipótese da não-contratação nos termos previstos no caput deste artigo, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame.
+
+
+§ 2º
+
+O disposto neste artigo somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por microempresa ou empresa de pequeno porte.
+
+
+§ 3º
+
+No caso de pregão, a microempresa ou empresa de pequeno porte mais bem classificada será convocada para apresentar nova proposta no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão.
+
+
+Art. 57.
+
+A microempresa e a empresa de pequeno porte e a elas equiparadas, titular de direitos creditórios decorrentes de empenhos liquidados e não pagos em até 30 (trinta) dias contados da data de liquidação poderá o Município emitir cédula de crédito microempresarial.
+
+
+Art. 58.
+
+Nas contratações públicas da administração direta e indireta, autárquica e fundacional deverá ser concedido tratamento diferenciado e simplificado para as microempresas e empresas de pequeno porte e a elas equiparadas objetivando a promoção do desenvolvimento econômico e social no âmbito municipal e regional, a ampliação da eficiência das políticas públicas e o incentivo à inovação tecnológica.
+
+
+Art. 59.
+
+Para o cumprimento do disposto no art. 58 desta Lei Complementar, a administração pública:
+
+– deverá realizar processo licitatório destinado exclusivamente à participação de microempresas, empresas de pequeno porte e a elas equiparadas nos itens de contratação cujo valor seja de até R$ 80.000,00 (oitenta mil reais).
+
+– poderá estabelecer, nos instrumentos convocatórios, a exigência de subcontratação de microempresas ou empresas de pequeno porte e as elas equiparadas;
+
+– deverá estabelecer , em certames para aquisição de bens de natureza divisível, cota de até 25%(vinte e cinco por cento) do objeto para a contratação de microempresas e empresas de pequeno porte.
+
+
+§ 1º
+
+Na hipótese do inciso II, a administração pública deverá estabelecer:
+
+percentual mínimo a ser subcontratado e o percentual máximo admitido, a serem definidos no edital, sendo vedada a sub-rogação completa ou da parcela principal da contratação;
+
+que as microempresas e as empresas de pequeno porte a serem subcontratadas sejam indicadas e qualificadas pelos licitantes, com a descrição dos bens e serviços a serem fornecidos e seus respectivos valores;
+
+que, no momento da habilitação e ao longo da vigência contratual, seja apresentada a documentação de regularidade fiscal e trabalhista das microempresas e empresas de pequeno porte subcontratadas;
+
+que a empresa contratada se comprometa a substituir a subcontratada, no prazo máximo de 30 (trinta) dias, na hipótese de extinção da subcontratação, mantendo o percentual originalmente subcontratado até a sua execução total, notificando o órgão ou entidade contratante, sob pena de rescisão, sem prejuízo das sanções cabíveis, ou a demonstrar a inviabilidade da substituição, hipótese em que ficará responsável pela execução da parcela originalmente subcontratada;
+
+que a empresa contratada se responsabilize pela padronização, pela compatibilidade, pelo gerenciamento centralizado e pela qualidade da subcontratação;
+
+a previsão em instrumento convocatório que a exigência de subcontratação não será aplicável quando o licitante for:
+
+microempresa, empresa de pequeno porte ou microempreendedor individual;
+
+consórcio composto em sua totalidade por microempresas e empresas de pequeno porte, respeitado o disposto no Estatuto Licitatório vigente;
+
+consórcio composto parcialmente por microempresas ou empresas de pequeno porte com participação igual ou superior ao percentual exigido de subcontratação.
+
+que não se admite a exigência de subcontratação para o fornecimento de bens, exceto quando estiver vinculado à prestação de serviços  
+acessórios;
+
+que os empenhos e pagamentos referentes às parcelas subcontratadas serão destinados diretamente às microempresas e empresas de pequeno porte subcontratadas;
+
+que são vedadas:
+
+a subcontratação das parcelas de maior relevância técnica, assim definidas no instrumento convocatório;
+
+a subcontratação de microempresas e empresas de pequeno porte que estejam participando da licitação; e,
+
+a subcontratação de microempresas ou empresas de pequeno porte que tenham um ou mais sócios em comum com a empresa contratante.
+
+
+§ 2º
+
+Na hipótese do inciso III, a administração pública observará:
+
+que o disposto neste inciso não impede a contratação das microempresas ou das empresas de pequeno porte na totalidade do objeto;
+
+que o instrumento convocatório deverá prever que, na hipótese de não haver vencedor para a cota reservada, esta poderá ser adjudicada ao  
+vencedor da cota principal ou, diante de sua recusa, aos licitantes remanescentes, desde que pratiquem o preço do primeiro colocado da cota principal;
+
+que caso a mesma empresa vença a cota reservada e a cota principal, a contratação das cotas deverá ocorrer pelo menor preço;
+
+que nas licitações por sistema de registro de preço ou por entregas parceladas, o instrumento convocatório deverá prever a prioridade de  
+aquisição dos produtos das cotas reservadas, ressalvados os casos em que a cota reservada for inadequada para atender as quantidades ou as  
+condições do pedido, justificadamente;
+
+não se aplica o benefício disposto neste artigo quando a contratação possuir valor estimado de até R$ 80.000,00 (oitenta mil reais), tendo em vista a aplicação da licitação exclusiva prevista no inciso I do art. 59 dessa Lei.
+
+
+§ 3º
+
+Os benefícios previstos no caput deste artigo poderão, justificadamente, estabelecer a prioridade de contratação para as microempresas, empresas de pequeno porte e a elas equiparadas, sediadas local ou regionalmente, até o limite de 10% (dez por cento) do melhor preço válido, observando:
+
+aplica-se o disposto neste inciso nas situações em que as ofertas apresentadas pelas microempresas e empresas de pequeno porte e a elas equiparadas sediadas local ou regionalmente sejam iguais ou até 10% (dez por cento) superiores ao menor preço válido;
+
+a microempresa ou a empresa de pequeno porte, sediada local ou regionalmente melhor classificada, poderá apresentar proposta de preço inferior àquela considerada vencedora da licitação, situação em que será adjudicado o objeto em seu favor;
+
+na hipótese da não contratação da microempresa ou da empresa de pequeno porte sediada local ou regionalmente com base na alínea “b”, serão convocadas as remanescentes que porventura se enquadrem na situação da alínea “a”, na ordem classificatória, para o exercício do mesmo direito;
+
+no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte sediadas local ou regionalmente, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta;
+
+nas licitações a que se refere o inciso I do caput deste artigo, a prioridade será aplicada apenas na cota reservada para contratação exclusiva de microempresas e empresas de pequeno porte;
+
+nas licitações com exigência de subcontratação, a prioridade de contratação prevista neste inciso somente será aplicada se o licitante for microempresa, empresa de pequeno porte ou microempreendedor individual sediado local ou regionalmente ou for um consórcio ou uma  
+sociedade de propósito específico formada exclusivamente por Microempresas e Empresas de Pequeno Porte sediadas local ou regionalmente; e
+
+
+Art. 60.
+
+Para efeitos desta Lei, considera-se:
+
+– local ou municipal: o limite geográfico do município; e
+
+– regional: uma das alternativas a seguir, de conformidade com o que dispuser o instrumento convocatório: o âmbito dos municípios constituintes da mesorregião e/ou da microrregião geográfica a que pertence o próprio Município, definida pelo IBGE para o Rio Grande do Norte; o âmbito dos municípios, dentro do Estado, existentes dentro de um raio de distância, definido no instrumento convocatório, em quilômetros, superior aos limites geográficos do próprio Município; e,
+
+outro critério superior aos limites geográficos do próprio Município, dentro do Estado, desde que justificado.
+
+
+Art. 61.
+
+Não se aplica o disposto nos artigos 58 e 59, quando:
+
+– não houver o mínimo de três fornecedores competitivos enquadrados como MPE, EPP ou MEI sediados local ou regionalmente e capazes de cumprir as exigências estabelecidas no instrumento convocatório;
+
+– o tratamento diferenciado e simplificado para as pessoas citadas no item anterior não for vantajoso para a administração pública ou representar prejuízo ao conjunto ou ao complexo do objeto a ser contratado, justificadamente;
+
+– a licitação for dispensável ou inexigível, os termos do Estatuto Licitatório vigente; e,
+
+– o tratamento diferenciado e simplificado não for capaz de alcançar, justificadamente, pelo menos um dos objetivos previstos no art. 5º desta Lei.
+
+
+Parágrafo único
+
+Para o disposto no inciso II do caput, considera-se não vantajosa a contratação quando:
+
+– resultar em preço superior ao valor estabelecido como referência;
+
+– a natureza do bem, serviço ou obra for incompatível com a aplicação dos benefícios.
+
+
+Art. 62.
+
+Os critérios de tratamento diferenciado e simplificado para as empresas que trata este Lei deverão estar expressamente previstos no instrumento convocatório.
+
+
+#### CAPÍTULO VI — DO ESTÍMULO AO MICROEMPREENDEDOR INDIVIDUAL, PRODUTOR RURAL, ARTESÃO, EMPREENDIMENTOS DA ECONOMIA POPULAR SOLIDÁRIA E NEGÓCIOS DE IMPACTO SOCIAL
+
+
+Art. 63.
+
+Compete ao Município, por meio da Rede Municipal de Desenvolvimento, promover e fomentar, em conjunto com as entidades de classe, a mobilização em prol das políticas públicas estabelecidas nesta lei.
+
+
+Art. 64.
+
+Deverá o Município estimular a capacitação, a desburocratização e o acesso ao crédito e ao financiamento diferenciados, bem como o apoio à comercialização e a assessoria técnica necessária à organização, à produção e à comercialização de produtos e serviços voltados ao Microempreendedor Individual e aos empreendimentos da economia popular solidária.
+
+
+Parágrafo único
+
+Poderá o Poder Público Municipal:
+
+– conferir suporte jurídico e institucional para constituição e registro dos empreendimentos da economia popular solidária;
+
+– promover o acesso a espaços físicos e bens públicos municipais, garantindo prioridade à exposição e comercialização dos empreendimentos da economia popular solidária em mercados públicos, feiras livres e outras do gênero; e,
+
+– apoiar eventos de Economia Solidária.
+
+
+Art. 65.
+
+ficam reduzidos a 0 (zero) todos os custos, inclusive prévios, relativos à abertura, à inscrição, ao registro, ao funcionamento, ao alvará, à licença, ao cadastro, às alterações e procedimentos de baixa e encerramento e aos demais itens relativos ao Microempreendedor Individual, nos termos do § 3º, do Art. 4º da Lei Complementar 123/2006.
+
+
+Art. 66.
+
+O Município estimulará a organização de empreendedores, podendo fomentar a constituição de Sociedade de Propósito Específico (SPE), formada pelos destinatários desta Lei, destinada ao aumento de competitividade e a sua inserção em novos mercados internos e externos, por meio de ganhos de escala, redução de custos, gestão estratégica, maior capacitação e acesso ao crédito e a novas tecnologias.
+
+
+Parágrafo único
+
+Não poderão integrar a sociedade de que trata o caput deste artigo pessoas jurídicas não optantes pelo Simples Nacional.
+
+
+#### CAPÍTULO VII — DOS INCENTIVOS TRIBUTÁRIOS
+
+
+Art. 67.
+
+O Município poderá instituir Plano de Incentivo Tributário com o intuito de fomentar a abertura de novas microempresas, pequenas empresas e de microempreendedores individuais, ou ampliação dos negócios já existentes, obedecidos os critérios previstos em lei específica e as seguintes condições, a saber:
+
+– serão direcionados para atividades de interesse do município que visem ao seu desenvolvimento econômico, científico, tecnológico, intelectual ou social;
+
+– poderão prever contrapartidas dos beneficiários em equipamentos de interesse social ou coletivo;
+
+– serão concedidos por tempo determinado;
+
+– deverão ser pautados pelos princípios da legalidade, da transparência e da impessoalidade, observado o disposto na Lei Complementar nº 101 de 04 de maio de 2000 (Lei de Responsabilidade Fiscal);
+
+– a Secretaria Municipal de Tributação será consultada acerca de toda e qualquer proposta de incentivo tributário, ou que diga respeito ao  
+Cadastro de Contribuintes do Município, bem como nos casos que influenciem e/ou promovam alterações nos procedimentos de responsabilidade da Secretaria, cabendo a este órgão proferir parecer final fundamentado a respeito da proposta.
+
+
+Parágrafo único
+
+A instituição do Plano de Incentivo Tributário referido no caput deste artigo deverá observar o disposto nos artigos 14 a 17 da Lei Complementar nº 101/2000.
+
+
+#### CAPÍTULO VIII — DO ESTÍMULO AO CRÉDITO E CAPITALIZAÇÃO
+
+
+Art. 68.
+
+Poderá o Município identificar linhas de crédito disponibilizadas por instituições financeiras aos destinatários desta Lei.
+
+
+Art. 69.
+
+Todas as orientações necessárias ao acesso das linhas de créditos ofertadas poderão ser feitas por meio do atendimento integrado e simplificado.
+
+
+#### CAPÍTULO IX — DO ACESSO À JUSTIÇA
+
+
+Art. 70.
+
+As microempresas e às empresas de pequeno porte de que trata esta Lei poderão dispor dos benefícios previstos no Capítulo XII da Lei Complementar Federal nº 123, de 14 de dezembro de 2006, para buscar solucionar os conflitos judicias.
+
+
+Art. 71.
+
+O Município estimulará as microempresas e empresas de pequeno porte a utilizar os institutos de conciliação prévia, mediação e arbitragem para solução dos seus conflitos.
+
+
+#### CAPÍTULO X — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 72.
+
+O Município poderá dispor dos resultados dos estudos, discussões e debates promovidos pelo setor produtivo e entidades de classe para a elaboração das propostas de revisão das matérias legislativas em favor dos beneficiários desta Lei.
+
+
+Art. 73.
+
+O Município deverá prever, nos instrumentos de planejamento plurianual de ações governamentais, os programas e ações destinados a subsidiar a realização das ações previstas nesta Lei, de modo a possibilitar, com o tratamento diferenciado e favorecido, a melhoria do ambiente institucional e a geração de oportunidades para os beneficiários desta Lei.
+
+
+Art. 74.
+
+O Município, por meio de lei específica, poderá criar um Fundo de Incentivo às atividades dos beneficiários desta Lei.
+
+
+Art. 75.
+
+O Município poderá celebrar convênios e outros instrumentos, visando à participação e à cooperação de organismos públicos ou privados que possam contribuir para o alcance dos resultados almejados pelas políticas públicas estabelecidas nesta lei.
+
+
+Art. 76.
+
+Fica instituído o Dia Municipal da Micro e Pequena Empresa no dia 05 de outubro de cada ano.
+
+
+Art. 77.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 78.
+
+Fica revogada a Lei Municipal nº 909, de 16 de novembro de 2009 e demais disposições em contrário.
+
+
+Acari-RN, 28 de junho de 2023.
+
+FERNANDO ANTONIO BEZERRA  
+Prefeito Municipal
+

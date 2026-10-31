@@ -1,0 +1,42 @@
+{
+  "host": "sapl.farialemos.mg.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.farialemos.mg.leg.br/fa4d1295395d24bdd9e6e830534312a90cbbaeed99bffed50eb07b3ff51cd003.json",
+    "url": "https://sapl.farialemos.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.farialemos.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:31:49.639835-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.farialemos.mg.leg.br/8bd0ed3b574e6289bb671347ee857d7148e522198f6aec285b6dad639d63f4ed.json",
+    "url": "https://sapl.farialemos.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.farialemos.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0433541acb6fb0fcbf376bb384215b0f3c2e4970c4a1e50741e665f505b0b038",
+    "bytes": 739,
+    "capturado_em": "2026-10-28T10:31:48.816283-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.farialemos.mg.leg.br/0e5c62d5c6e813cf1ca07b55f2b4792001fd1c583ef7c6510e2bad4e39c3612d.json",
+      "url": "https://sapl.farialemos.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.farialemos.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7335bd158388d904a2ab4bd6bd1c082ba9df5ea679af5c8fbdbd88fa4c6bca26",
+      "bytes": 768,
+      "capturado_em": "2026-10-28T10:31:51.644383-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

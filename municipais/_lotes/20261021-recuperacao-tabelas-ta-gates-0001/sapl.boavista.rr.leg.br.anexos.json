@@ -1,0 +1,137 @@
+{
+  "estado": "indice_completo",
+  "total": 12,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/acao_dieta_de_inconst._lei_municipal_2.044.pdf da norma Lei Ordinária nº 2.044, de 11 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Ação Direta de Inconstitucionalidade nº 9002292-22.2019.8.23.0000 que deferiu a medida liminar de suspendendo os efeitos da Lei Municipal nº 2.044/2019 até o julgamento final da ação.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2019/1/acao_dieta_de_inconst._lei_municipal_2.044.pdf",
+      "ano": 2019,
+      "norma": 3276
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/adin_no_9000973-14.2022.8.23.0000._memo_no036-2022_proge.pdf da norma Lei Ordinária nº 2.256, de 06 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE QUE SUSPENDE A EFICÁCIA DA LEI MUNICIPAL Nº2.256/2022 QUE ALTERA DISPOSITIVO DA LEI Nº 1.223, DE 29 DE DEZEMBRO DE 2009, QUE DISPÕE SOBRE O NOVO CÓDIGO TRIBUTÁRIODO MUNICÍPIO DE BOA VISTA.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2022/2/adin_no_9000973-14.2022.8.23.0000._memo_no036-2022_proge.pdf",
+      "ano": 2022,
+      "norma": 3590
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/3/adin_no0000478-70.2015.8.23.0000._memo_no037-2022-proge.pdf da norma Lei Ordinária nº 1.664, de 29 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 000478-70.2022.8.23.0000. QUE SUSPENDE EFICÁCIA DO ARTIGO 4º DA LEI MUNICIPAL Nº 1.664/2015.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2015/3/adin_no0000478-70.2015.8.23.0000._memo_no037-2022-proge.pdf",
+      "ano": 2015,
+      "norma": 277
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/adi_-_julgada_procedente.pdf da norma Lei Ordinária nº 2.145, de 17 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2021/4/adi_-_julgada_procedente.pdf",
+      "ano": 2021,
+      "norma": 3436
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/memo_no_033-2024-proge-cmbv_acao_de_direta_de_inconstitucionalidade_-_no__9002359-45.2023.8.23.0000.pdf da norma Lei Ordinária nº 2.489, de 17 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "MEMO Nº 033-2024-PROGE-CMBV Ação de Direta de Inconstitucionalidade - Nº  9002359-45.2023.8.23.0000 - que suspende a eficácia da Lei Nº 2.489, de 17 outubro de 2023.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2023/5/memo_no_033-2024-proge-cmbv_acao_de_direta_de_inconstitucionalidade_-_no__9002359-45.2023.8.23.0000.pdf",
+      "ano": 2023,
+      "norma": 4102
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/oficio_n.o_025-2024_--_proge_-_acordao_acao_direta.pdf da norma Lei Ordinária nº 2.241, de 10 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE E ACÓRDÃO",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2022/6/oficio_n.o_025-2024_--_proge_-_acordao_acao_direta.pdf",
+      "ano": 2022,
+      "norma": 3566
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/7/adi_-_9000934-17.2022.8.23.0000_-_lei_2.247-2022.pdf da norma Lei Ordinária nº 2.247, de 22 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Ação Direta de inconstitucionalidade da Lei Municipal nº 2.247, de 22.03.2022.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2022/7/adi_-_9000934-17.2022.8.23.0000_-_lei_2.247-2022.pdf",
+      "ano": 2022,
+      "norma": 3569
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/oficio_013-2025_--_proge.pdf da norma Lei Ordinária nº 2.538, de 14 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "OFÍCIO DE SUSPENSÃO CAUTELAR DE EFICÁCIA.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2024/8/oficio_013-2025_--_proge.pdf",
+      "ano": 2024,
+      "norma": 4277
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/9/oficio_013-2025_--_proge.pdf da norma Lei Ordinária nº 2.639, de 05 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "OFÍCIO DE SUSPENSÃO CAUTELAR DE EFICÁCIA.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2024/9/oficio_013-2025_--_proge.pdf",
+      "ano": 2024,
+      "norma": 4513
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/oficio_013-2025_--_proge.pdf da norma Lei Ordinária nº 2.673, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "OFÍCIO DE SUSPENSÃO CAUTELAR DE EFICÁCIA.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2025/10/oficio_013-2025_--_proge.pdf",
+      "ano": 2025,
+      "norma": 4633
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/oficio_023-2025_---_inconstitucionalidade_lei_2673-2024.pdf da norma Lei Ordinária nº 2.673, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "DECLARAÇÃO DE INCOSTITUCIONALIDADE",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2025/11/oficio_023-2025_---_inconstitucionalidade_lei_2673-2024.pdf",
+      "ano": 2025,
+      "norma": 4633
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/12/oficio_no_021-2026-proge-cmbv_adin_no_9000623-84.2026.8.23.000..pdf da norma Lei Ordinária nº 2.737, de 16 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Ofício Nº 021-2026-PROGE-CMBV, que encaminha a (Adin) Nº 9000623-84.2026.8.23.000 que declarou, de forma cautelar, a suspensão da lei municipal Nº 2.737/2025, para conhecimento e adoção das medidas que entender necessárias.",
+      "anexo_arquivo": "http://sapl.boavista.rr.leg.br/media/sapl/public/anexonormajuridica/2025/12/oficio_no_021-2026-proge-cmbv_adin_no_9000623-84.2026.8.23.000..pdf",
+      "ano": 2025,
+      "norma": 5142
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/399c2fef8e2e3b0fd34dc0dea5da9de79581057aa57f54a317dcd20aac8ff569.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "54ee534a28e1a5d4cafa55cc9764df1db0b1946b4a401a5ce4595b2632a2f0a6",
+      "capturado_em": "2026-10-20T20:59:20.643790",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.boavista.rr.leg.br/399c2fef8e2e3b0fd34dc0dea5da9de79581057aa57f54a317dcd20aac8ff569.json"
+    }
+  ]
+}

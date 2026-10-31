@@ -1,0 +1,78 @@
+{
+  "estado": "indice_completo",
+  "total": 6,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/lei_2.716-2015.pdf da norma Lei Ordinária nº 2.876, de 18 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "APROVA O PLANO MUNICIPAL DE EDUCAÇÃO E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.conceicaodabarra.es.leg.br/media/sapl/public/anexonormajuridica/2020/1/lei_2.716-2015.pdf",
+      "ano": 2020,
+      "norma": 19
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/ec-103-2019.pdf da norma Lei Complementar nº 59, de 30 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Altera o sistema de previdência social e estabelece regras de transição e disposições transitórias.",
+      "anexo_arquivo": "http://sapl.conceicaodabarra.es.leg.br/media/sapl/public/anexonormajuridica/2020/2/ec-103-2019.pdf",
+      "ano": 2020,
+      "norma": 69
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/parecercomissaofinancascontas2019.pdf da norma Decreto Legislativo nº 3, de 08 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "PARECER DA COMISSÃO DE FINANÇAS E ORÇAMENTO SOBRE O PARECER PRÉVIO DO TRIBUNAL DE CONTAS DO ESTADO DO ESPÍRITO SANTO",
+      "anexo_arquivo": "http://sapl.conceicaodabarra.es.leg.br/media/sapl/public/anexonormajuridica/2026/3/parecercomissaofinancascontas2019.pdf",
+      "ano": 2026,
+      "norma": 1284
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/4/parecercomissaofinancascontas2017.pdf da norma Decreto Legislativo nº 1, de 08 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "PARECER DA COMISSÃO DE FINANÇAS E ORÇAMENTO SOBRE O PARECER PRÉVIO DO TRIBUNAL DE CONTAS DO ESTADO DO ESPÍRITO SANTO",
+      "anexo_arquivo": "http://sapl.conceicaodabarra.es.leg.br/media/sapl/public/anexonormajuridica/2026/4/parecercomissaofinancascontas2017.pdf",
+      "ano": 2026,
+      "norma": 1282
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/5/parecercomissaofinancacontass2018.pdf da norma Decreto Legislativo nº 2, de 08 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "PARECER DA COMISSÃO DE FINANÇAS E ORÇAMENTO SOBRE O PARECER PRÉVIO DO TRIBUNAL DE CONTAS DO ESTADO DO ESPÍRITO SANTO",
+      "anexo_arquivo": "http://sapl.conceicaodabarra.es.leg.br/media/sapl/public/anexonormajuridica/2026/5/parecercomissaofinancacontass2018.pdf",
+      "ano": 2026,
+      "norma": 1283
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/6/parecercomissaodefinancascontas2020.pdf da norma Decreto Legislativo nº 4, de 08 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "PARECER DA COMISSÃO DE FINANÇAS E ORÇAMENTO SOBRE O PARECER PRÉVIO DO TRIBUNAL DE CONTAS DO ESTADO DO ESPÍRITO SANTO",
+      "anexo_arquivo": "http://sapl.conceicaodabarra.es.leg.br/media/sapl/public/anexonormajuridica/2026/6/parecercomissaodefinancascontas2020.pdf",
+      "ano": 2026,
+      "norma": 1285
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodabarra.es.leg.br/c3d8eb91c072a941eb5e27900f5ea8c5eb763ca96b78c62f3b55837cdfb706c2.json",
+      "url": "https://sapl.conceicaodabarra.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.conceicaodabarra.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "febfbf0f2b6e2eec93bfbf1bdc6395928294740d99c57a64f304ff11f9525a35",
+      "bytes": 3359,
+      "capturado_em": "2026-10-27T23:07:24.770509-03:00"
+    }
+  ]
+}

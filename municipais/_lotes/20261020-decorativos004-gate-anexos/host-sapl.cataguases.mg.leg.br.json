@@ -1,0 +1,26 @@
+{
+  "host": "sapl.cataguases.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/dec-6176-2025-cataguases-mg.docx da norma Lei Sancionada-PREF nº 5.154, de 12 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Decreto Regulamentando a Lei Municipal nº 5.154/2025",
+      "anexo_arquivo": "http://sapl.cataguases.mg.leg.br/media/sapl/public/anexonormajuridica/2025/1/dec-6176-2025-cataguases-mg.docx",
+      "ano": 2025,
+      "norma": 81
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.cataguases.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cataguases.mg.leg.br/575d3baaf4dae05713e7fdf34b959b1261a75b4b468579cc726d863adb257054.json",
+      "sha256": "baf4ce3eb7d1878a4a41be1b540429d0fc4cd3db43a1c2e47ebd1b07a2a79489",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cataguases.mg.leg.br/575d3baaf4dae05713e7fdf34b959b1261a75b4b468579cc726d863adb257054.meta.json"
+    }
+  ],
+  "total": 1
+}

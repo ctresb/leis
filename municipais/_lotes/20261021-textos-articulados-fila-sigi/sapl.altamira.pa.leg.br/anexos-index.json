@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/lei_3521_-_2025_-_dispoe_sobre_a_implementacao_do_atendimento_odontologico_sob_sedacao_em_ambiente_hospitalar_no_municipio_de_altamirapa.pdf da norma Lei Ordinária nº 3.521, de 13 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Sanciona Lei 3521 - 13/03/2025",
+      "anexo_arquivo": "http://sapl.altamira.pa.leg.br/media/sapl/public/anexonormajuridica/2025/1/lei_3521_-_2025_-_dispoe_sobre_a_implementacao_do_atendimento_odontologico_sob_sedacao_em_ambiente_hospitalar_no_municipio_de_altamirapa.pdf",
+      "ano": 2025,
+      "norma": 1
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altamira.pa.leg.br/d9c45b603f5c56dee198e1f787d81b91b0595560ffe49e6cb43f8e94364223d1.json",
+      "url": "https://sapl.altamira.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.altamira.pa.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "194c920b2bc8129c80f908195c6ff8d83230c85b87732cfd9023cb0abf8ef0bc",
+      "bytes": 825,
+      "capturado_em": "2026-10-21T05:27:23.939922-03:00"
+    }
+  ]
+}

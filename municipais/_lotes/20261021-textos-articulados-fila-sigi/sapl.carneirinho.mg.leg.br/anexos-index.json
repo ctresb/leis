@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/decreto_2_588_20_ok_000114.pdf da norma Decreto Executivo nº 2.708, de 07 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Reitera e ratifica a declaração de Estado de Calamidade Pública em todo o território do Município de Carneirinho /MG e dispõe sobre a revisão e consolidação das medidas de prevenção ao contágio e enfretamento da pandemia de doença infecciosa  viral r",
+      "anexo_arquivo": "http://sapl.carneirinho.mg.leg.br/media/sapl/public/anexonormajuridica/2021/1/decreto_2_588_20_ok_000114.pdf",
+      "ano": 2021,
+      "norma": 7029
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/2/decreto_922_2006_20220929_140219.pdf da norma Lei nº 188, de 26 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "REGULAMENTA O ART.17 DA LEI MUNICIPAL Nº188/96 QUE INSTITUI O CÓDIGO DE OBRAS E EDIFICAÇÕES DO MUNICÍPIO DE CARNEIRINHO/MG.",
+      "anexo_arquivo": "http://sapl.carneirinho.mg.leg.br/media/sapl/public/anexonormajuridica/1996/2/decreto_922_2006_20220929_140219.pdf",
+      "ano": 1996,
+      "norma": 781
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/3/lei_188-1996-_co_digo_de_obras_e_edificac_a_o.pdf da norma Decreto Executivo nº 922, de 20 de fevereiro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Código de Obras E Edificações do Município de Carneirinho/MG.",
+      "anexo_arquivo": "http://sapl.carneirinho.mg.leg.br/media/sapl/public/anexonormajuridica/2006/3/lei_188-1996-_co_digo_de_obras_e_edificac_a_o.pdf",
+      "ano": 2006,
+      "norma": 1985
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/a1fc8e391f7b41045327b709b6332069dc819205873c6c77ae94ac3440ddd7fb.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9faf248b7a810ba98f6b2b5702035cd3e18a2f5baf05b4b7b43a7b77f1b18ec0",
+      "bytes": 1955,
+      "capturado_em": "2026-10-27T22:36:39.839000-03:00"
+    }
+  ]
+}

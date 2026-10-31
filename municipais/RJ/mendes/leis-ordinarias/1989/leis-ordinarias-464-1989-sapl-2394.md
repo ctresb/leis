@@ -1,0 +1,107 @@
+---
+titulo: "Lei Municipal nº 464, de 12 de novembro de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Municipal"
+numero: "464"
+data: "1989-11-12"
+municipio: "Mendes"
+uf: "RJ"
+codigo_ibge: "3302809"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.mendes.rj.leg.br/norma/2394"
+fonte_texto: "https://sapl.mendes.rj.leg.br/media/sapl/public/normajuridica/1989/2394/lei_municipal_464-1989.pdf"
+sha256_fonte: "36304b029549620734eb221adf3671ee0d29c92cab4b6682cc0e3244deb49130"
+sha256_texto: "7b112ae08d9d6c0aadddae3ce91731c0e1ce68102e9b1029931c986ea4e49140"
+baixado_em: "2026-10-20"
+---
+
+# Lei Municipal nº 464, de 12 de novembro de 1989
+
+as
+
+HENDE ESTADO DO RIO DE J NEIRO
+
+CÂMARA MUNICIPAL E MENDES
+
+LEI MUNIOIDAL No 164 DE 12 DE DEZEMBRO DE 1989,
+
+Fnenta : Autoriza abertura de Crédito Adi cional Suplementar.
+
+A OÂMARA MUNICIPAL DE MENDES, por seus representantes
+
+legais aprova e eu sanciono a presente Lei:
+
+**Art. 1o** = Fioa o fe do Executivo Municipal, autori
+
+sado a abrir Crédito Adicional lementar na importância de ..... NOs$.177.100,00(Cento e setenta e sete mil e cem orugados novos) pa
+
+ra reforço das seguintes dotações orçamentárias:
+
+PROGRAMA DE TRABALHO NATUREZA DA DESPESA FONTE JALOR 0101001.2,001 1001. 3111.00 OO 12.400,00
+
+01010212.00?2 1001. 321211.00 OO 2.200,00
+
+01010212,.002 1001. 323/20.00 OO 2.400,00
+
+01010212 ,.00? 1001. 31131.00 OO 1.100,00
+
+01010212,.002 1001., 31132.00 00 3.000,00
+
+03070202,002 2001. 3320.00 DO 10.000,00
+
+03080212,.002 200 3.4120,.00 ol 1.050,00 15824952.008 2003. 3452,00 0Oo0 900,00 10070212,.002 2004. 3411.00 OO TO.000,00
+
+10764471.002 2004. 3120.00 OO 5.000,00
+
+10764491,.004 2004.4110.00 OO 2.000,00 08421882,002 2005. 3111.00 00 6.600,00
+
+08421882.002 2005. 3111.00 ol 4.080,00 08422382.011 2005 .3132.00 ol 4.020,00 08432352.012 2005. 3132.00 ol 50,00
+
+08482472.014 2005. 3120.00 00 14.000,00 08482472.014 2005. 4120.00 oO 3.000,00 15824952.016 2005. 3251.00 o1 4.300,00 13070212,.002 2006. 31.11.00 OO 1.000,00 13070212.002 2006. 32111.00 ol 2.000,00 16070212.002 2007. 3220.,00 00 20.000,00 16070212.00? 2007.3220.00 o2 2.000,00
+
+Cont. voce
+
+SEE
+
+Ninnó
+
+ESTADO DO RIO DE JANEIRO CAMARA MUNICIPAL DE MENDES
+
+PROGRAMA D': TRABALHO DA DESPESA — TONTE VALOR
+
+16070212.002 2007. 3131.00 CO — —6,000,00 TOTAL 00000000000000000086800000080 cocccoreoeooo cosa ce cod 77.100,00
+
+**Art. 2o** - Os re os para atendimento do presente
+
+Crédito Adicional Suplementar, p sto no artigo anterior, corre- rão à conta da anulação parcial seguintes dotações orgamentá — rias:
+
+PROGRAMA DE TRABAIHO .—.NATUREZÁ DA DESPESA — FONTE VALOR
+
+030T0202.002 2001) 3111.00 oo 15.000,00 03653632.004 2001 | 3132.00 oo 30.000,00 06070212.005 2001/3111.00 00 21.500,00 03070212.002 2002) 3111.00 00 15.000,00 03070212.002 2002) 31.32.00 00 1.000,00 03080212.002 2003|3111.00 o 19.000,00 25824942.007 2003/3253.00 co 6.000,00 215824952.008 2003) 3251,00 co 5.000,00 10070212.002 20041 3132.00 oo 29.000,00 20070212.002 2004 | 4120.00 00 4.000,00 20070212 ,.002 20041 4120.00 ol 3.000,00 10764481.003 2004/4120.00 ol 4.000,00 08462281.007 2005 | 412.0.00 ol 4.800,00 08422352.011 2005 | 31.32.00 00 8.600,00 08432352.012 2005) 3132.00 DO 6.100,00 08482472.014 2005 3131.00 oo 1, 300,00 215824942.007 2005) 3253.00 00 6.000,00 15824952.016 2005. 3251.00 00 3.200,00 13070212.002 2006, 3120.00 oo 2.900,00 1307021.2.002 2006) 4120 .00 00 8.000,00 13070212,.002 2006. 4120.00 o1 1.100,00 16070212,002 2007.41.20.00 oL 2.600,00 TOTAL 00000006ÇO00000060000080 04GCACOC0O0000000000 0000000000 « e 177.100,00
+
+**Art. 3o** — Esta Lei entrará em vigor, na date de y
+
+....
+
+em
+
+e
+
+OS
+
+TO!
+
+ESTADO DO RIO DE JÁNEIRO CÂMARA MUNICIPAL DE MENDES
+
+sua publicação, revogadas as disposições em contrário.
+
+GABINETE DO PREFEITO MUNICIPAL DE |MENDES, 12 DE DEZEMBRO DE
+
+DE 1989.
+
+WALD IRA
+
+- TEsbsiio
+
+o
+

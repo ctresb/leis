@@ -1,0 +1,209 @@
+[
+  {
+    "path": "municipais/RO/guajara-mirim/emendas-lei-organica/2021/emendas-lei-organica-2409-2021-sapl-2179.md",
+    "sha256": "cf0fd37fe6a59b3299fb2e179f5a0702e3ddec479d9e275632e15eb805bcb5e6",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a5c92dccaf9568c55934518dcb26ca243d838762e58b7eb301f119fb8b257630.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI",
+        "numero": "2409",
+        "offset": 321,
+        "trecho": "     PREFEITURA MUNICIPAL DE GUAJARÁ-MIRIM\n\n\n\n                                                      GABINETE DO PREFEITO\n                                                      LEI Nº 2.409/GAB/PREF/21\n\n\n\n                                                Revoga na sua totalidade a Lei Municipal nº\n                                                2.397/2021 de 11 de novembro de 2021.\n\n                         "
+      }
+    ]
+  },
+  {
+    "path": "municipais/MG/luz/leis-complementares/2023/leis-complementares-172-2023-sapl-425.md",
+    "sha256": "415ddd6ccaa2c4ec15532acc128b3eda0e6be62b328b3e4419a8fc4112fcc4fc",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/beec47259cf5fa0225575275b85b9dd0fa8b910d7c6822476c42efd4662502c4.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI\n                                           MUNICIPAL",
+        "numero": "533",
+        "offset": 138,
+        "trecho": "AR 172/2023 DE 07 DE JUNHO DE 2023\n\n\n                                           ACRESCENTA         DISPOSITIVO         À   LEI\n                                           MUNICIPAL        Nº    533/84      E   À   LEI\n                                           MUNICIPAL Nº 855/95.\n\n\n                      A Câmara Municipal de Luz, Estado de Minas Gerais, aprovou e eu,\nPrefeito Municipal, sanciono a seguinte Lei Co"
+      },
+      {
+        "tipo": "LEI\n                                           MUNICIPAL",
+        "numero": "855",
+        "offset": 228,
+        "trecho": "         DISPOSITIVO         À   LEI\n                                           MUNICIPAL        Nº    533/84      E   À   LEI\n                                           MUNICIPAL Nº 855/95.\n\n\n                      A Câmara Municipal de Luz, Estado de Minas Gerais, aprovou e eu,\nPrefeito Municipal, sanciono a seguinte Lei Complementar:\n\n\nArt. 1°. A Lei Municipal nº 533/84 - Código de Obras e Edificações"
+      }
+    ]
+  },
+  {
+    "path": "municipais/MG/luz/leis-ordinarias/2023/leis-ordinarias-2874-2023-sapl-355.md",
+    "sha256": "31d9afe1da0672edf8eaaf9d8424bcc440c1c842045cfaecb10a7be449f37d43",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4260362d279f3eeb4950364c5bd00f1262e710affe7a371128ac50f6c634603e.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI\n                                  MUNICIPAL",
+        "numero": "2827",
+        "offset": 120,
+        "trecho": "                   LEI 2.874 DE 03 DE ABRIL DE 2023\n\n                                  ALTERA        DISPOSITIVOS     DA   LEI\n                                  MUNICIPAL N.º 2.827/2022 E DÁ\n                                  OUTRAS PROVIDÊNCIAS\n\n\n                                  A Câmara Municipal de Luz, Estado de Minas\nGerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:\n\n\n      A"
+      }
+    ]
+  },
+  {
+    "path": "municipais/MG/luz/leis-ordinarias/2023/leis-ordinarias-2880-2023-sapl-361.md",
+    "sha256": "5828b39a5a63614bf4272bf3c61bbdc52a29646d95ee8318cef673dae5234133",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/66716b469120a960cfa455b7536074c9c78c3832b23e44a84c33e50d52d131eb.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI",
+        "numero": "2655",
+        "offset": 122,
+        "trecho": "                    LEI 2.880 DE 18 DE MAIO DE 2023\n\n\n                                      ALTERA   DISPOSITIVO      DA   LEI   N.º\n                                  2.655/2019 E DÁ OUTRAS PROVIDÊNCIAS.\n\n\n\n\n                                 A Câmara Municipal de Luz aprovou e eu, Prefeito\nMunicipal, sanciono a seguinte Lei:\n\n\n      Art. 1º. O artigo 3º da Lei Municipal N.º 2.655/2019, de 2"
+      }
+    ]
+  },
+  {
+    "path": "municipais/MG/luz/leis-ordinarias/2023/leis-ordinarias-2883-2023-sapl-364.md",
+    "sha256": "39f0cdf3c49af997fa27924397e8c818aa15f6240dcd1fdb436bc7f56ca2b7e1",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9b0218e0e8992f190eaf70cc09228907ac4f080b7fae8135dbe1620bc8064ba5.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI\n                                  MUNICIPAL",
+        "numero": "2710",
+        "offset": 124,
+        "trecho": "                LEI 2.883 DE 25 DE MAIO DE 2023\n\n\n                                  ALTERA       DISPOSITIVOS         DA       LEI\n                                  MUNICIPAL       N.º    2.710/2020      E   DÁ\n                                  OUTRAS PROVIDÊNCIAS.\n\n\n\n\n                                  A Câmara Municipal de Luz, Estado de Minas Gerais,\naprovou e eu, Prefeito Municipal, sanciono a seguinte lei:"
+      }
+    ]
+  },
+  {
+    "path": "municipais/PR/tomazina/leis-ordinarias/2024/leis-ordinarias-596-2024-sapl-654.md",
+    "sha256": "ef3bfce29c6bbd3593f52a291a18e89d12aeb0c4de01dbaa3effdc2623acb3cb",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8c9cf97e9422d7dbbc90572393ed5c2a97ec0cca7a17d98eac68edf5f6e11c34.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI",
+        "numero": "5962024",
+        "offset": 120,
+        "trecho": "                 ESTADO DO PARANÁ\n         PREFEITURA MUNICIPAL DE TOMAZINA\n\n\n\n                 ADMINISTRAÇÃO E FINANÇAS\n                        LEI 596.2024\n\n\n\n               Súmula: Altera a Lei 516/2022 e dá outras\n               providências.\n\nArt. 1º – Fica alterado o art. 1º da Lei 516/2022 o qual passará\na vigorar com a seguinte redação:\nArt. 1º Fica autorizado o Poder E"
+      }
+    ]
+  },
+  {
+    "path": "municipais/RN/parnamirim/leis-ordinarias/2025/leis-ordinarias-2645-2025-sapl-380.md",
+    "sha256": "fef7a26675e06a5592ef41688ce65d75df682d90be424bdd6f97edde05ad5547",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/22b6ca43520fec7efe63ba1656fbdc0bf20f336a1f0c538e59a08fbb2efbb80b.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI ORDINÁRIA",
+        "numero": "2646",
+        "offset": 304,
+        "trecho": "                                                 DOM4821\n\n  Art. 9º Esta lei entrará em vigor na data de sua publicação.                   LEI ORDINÁRIA Nº 2.646, DE 31 DE DEZEMBRO DE 2025.\n\n                                                                                                  Sanciono a presente Lei sem veto.\n                   RAIMUNDA NILDA DA SILVA CRUZ\n          "
+      }
+    ]
+  },
+  {
+    "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2011/leis-ordinarias-1189-2011-sapl-747.md",
+    "sha256": "bc8601207aa0c0223c6a2f8aeb2698eb891476b6db5c1c3024e2c30482fe838c",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/b1035de5d1462a6dd91a59b55feef1377d1b49fcff4cc9262d40ac0c678e46ae.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI",
+        "numero": "1180",
+        "offset": 239,
+        "trecho": "SSAR   RECURSOS     FINANCEIROS PARA\n            ORGANIZAÇÕES DA SOCIEDADE CIVIL NOS TERMOS DA\n            LEI MUNICIPAL     LEI 1.180/2010 E DÁ OUTRAS\n            PROVIDÊNCIAS.\n\n                     A Câmara Municipal de Joaquim Távora, Estado do\nParaná, aprovou e eu Prefeito Municipal, sanciono a seguinte lei.\n\n                       Art. 1º Fica aut"
+      }
+    ]
+  },
+  {
+    "path": "municipais/RN/tangara/resolucoes/2024/resolucoes-9-2024-sapl-24.md",
+    "sha256": "2e4d0432cf322219356bcf012df8e9013dbce63226ca955c04864d95db4e11fe",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9fcd31982f76fa7da4276d794e22a9b0ac067bd13b8db50767bff5f387b30468.json.gz",
+    "hits": [
+      {
+        "tipo": "RESOLUÇÃO",
+        "numero": "8",
+        "offset": 65,
+        "trecho": "FEDERAÇÃO DAS CÂMARAS MUNICIPAIS DO RIO GRANDE DO NORTE - FECAMRN\n\n\n                   RESOLUÇÃO Nº 008, 09 DE ABRIL DE 2024.\n\n\n          “Dispõe sobre a concessão de licença ao Vereador Elias Nascimento\n          de Albuquerque”.\n\n                          A MESA DIRETORA DA CÂMARA MUNICIPAL DE\n          TANGARÁ-RN, com "
+      }
+    ]
+  },
+  {
+    "path": "municipais/RS/pelotas/lei-organica/2025/lei-organica-102-2025-sapl-3774.md",
+    "sha256": "83a027d65a39a74c2e5c866c26684043b64d06ca4997ab8dee7dee072ec6605c",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a0cdabd4654caabb52224ecda319aa284fce83850313cfe925eddbd923824877.json.gz",
+    "hits": [
+      {
+        "tipo": "EMENDA À LEI ORGÂNICA",
+        "numero": "102",
+        "offset": 404,
+        "trecho": "       PREFEITURA MUNICIPAL DE PELOTAS\n\n\n\n                                                   CÂMARA MUNICIPAL DE PELOTAS\n                                                    EMENDA À LEI ORGÂNICA N° 102\n\n\n\n                                  EMENDA À LEI ORGÂNICA Nº 102\n\n                                                  Dá nova redação aos parágrafos primeiro e segundo,\n                                                  do a"
+      },
+      {
+        "tipo": "EMENDA À LEI ORGÂNICA",
+        "numero": "102",
+        "offset": 488,
+        "trecho": "         CÂMARA MUNICIPAL DE PELOTAS\n                                                    EMENDA À LEI ORGÂNICA N° 102\n\n\n\n                                  EMENDA À LEI ORGÂNICA Nº 102\n\n                                                  Dá nova redação aos parágrafos primeiro e segundo,\n                                                  do artigo 85, da Lei Orgânica Municipal.\n\n                          "
+      }
+    ]
+  },
+  {
+    "path": "municipais/RR/boa-vista/emendas-lei-organica/2023/emendas-lei-organica-23-2023-sapl-3960.md",
+    "sha256": "585612d5d59f9229a93eeffe11540993a1fe69aad7be44a5cc38b016b86c0415",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/448238ff3fbeb245ba7894a99d554b419789dc20c7cde8d257f85ca990e869ea.json.gz",
+    "hits": [
+      {
+        "tipo": "DECRETO LEGISLATIVO",
+        "numero": "1278",
+        "offset": 5843,
+        "trecho": "                                 CÂMARA MUNICIPAL DE BOA VISTA\n\n       Gabinete da Presidência da FETEC, Boa Vista – RR,                                           DECRETO LEGISLATIVO Nº 1.278, DE 25 DE JULHO DE 2023.\n01 de agosto de 2023.\n                                                                                                        CONCEDE A MEDALHA DE HONRA AO MÉRITO E\n                            J"
+      }
+    ]
+  },
+  {
+    "path": "municipais/RR/boa-vista/emendas-lei-organica/2025/emendas-lei-organica-25-2025-sapl-4945.md",
+    "sha256": "b7214f257e0d44d32625d6917df125791276e5d8ab8a3fce8c2612282bea3e3d",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/aa64fd76b98d6ee900f6a68ad2dc6a345d756644e03ffe4cefee26e865119f8a.json.gz",
+    "hits": [
+      {
+        "tipo": "PORTARIA",
+        "numero": "745",
+        "offset": 12819,
+        "trecho": "IDENTE\n            preferencialmente em nível de subunidade or-\n            çamentária vinculada à secretaria municipal,        PORTARIA Nº 745/2025\n            Entidade ou Poder correspondente à despesa,\n            para fins de apuração de seus respectivos cus-                O PRESIDENTE DA CÂMARA MUNICIPAL DE BOA VIS-\n            tos e prestação de contas. "
+      }
+    ]
+  },
+  {
+    "path": "municipais/MG/luz/leis-ordinarias/2021/leis-ordinarias-2776-2021-sapl-470.md",
+    "sha256": "36da97b479f7aa4f7ae528e72bf3ea5c277bf23f26fe08ed0b821b7c3c3f33ad",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6c70c233ae450581e5d3d67141fb20fb8a9cb2e859bb6538a608c8f47cc49b4f.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI",
+        "numero": "2762",
+        "offset": 136,
+        "trecho": " Nº 2.776/2021, DE 21 DE SETEMBRO DE 2021.\n\n\n\n                                 “ALTERA         DISPOSITIVOS           DA    LEI   N.º\n                                 2762/2021, QUE “INSTITUI O PAGAMENTO DO\n                                 INCENTIVO        FINANCEIRO        DO       PROGRAMA\n                                 NACIONAL DE MELHORA DO ACESSO E DA\n                              "
+      }
+    ]
+  },
+  {
+    "path": "municipais/PE/jurema/leis-ordinarias/2025/leis-ordinarias-177 2025-2025-sapl-280.md",
+    "sha256": "3ddc61f6bf05f5120664502c79d5365dc58b3302e067b8bca5314955845b8eed",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/799f1207a79798b2bef72de12b86b5ec347e7c8efede0f22e178236c22de4793.json.gz",
+    "hits": [
+      {
+        "tipo": "LEI MUNICIPAL",
+        "numero": "177",
+        "offset": 122,
+        "trecho": "                 ESTADO DE PERNAMBUCO\n                    MUNICÍPIO DE JUREMA\n\n\n\n                   GABINETE DO PREFEITO\n      LEI MUNICIPAL Nº 177/2025, DE 06 DE NOVEMBRO DE 2025\n\n\n\n                REGULAMENTA          A      ATUALIZAÇÃO\n                MONETÁRIA (REVISÃO GERAL ANUAL) DOS\n                SERVIDORES    PÚBLICOS      DA    SAÚDE,\n                ENF"
+      }
+    ]
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/resolucoes/1990/resolucoes-298 90-1990-sapl-28.md",
+    "sha256": "6a18f22a729457d3636e40d34ea0c239e2ef24711cf13948c9b8d4163ecf4201",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/73b7c7490b263b6db0a1d3d6f24647cb708db72d22a7be21571e24e9cd25e3fc.json.gz",
+    "hits": [
+      {
+        "tipo": "RESOLUÇÃO",
+        "numero": "298",
+        "offset": 49,
+        "trecho": "                CÂMARA MUNICIPAL DE BOM JARDIM/RJ\n\n\n          RESOLUÇÃO Nº 298/90, DE 27 DE DEZEMBRO DE 1990\n\n                                             Aprova o Regimento interno\n                                      da Câmara Municipal de Bom Jardim\n\nO PRESIDENTE DA CÂMARA MUNICIPAL DE BOM JAR"
+      }
+    ]
+  }
+]

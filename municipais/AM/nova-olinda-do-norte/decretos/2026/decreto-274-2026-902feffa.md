@@ -1,0 +1,66 @@
+---
+titulo: "DECRETO N.º 274/2026, DE 13 DE FEVEREIRO DE 2026"
+uf: "AM"
+municipio: "NOVA OLINDA DO NORTE"
+tipo: "Decreto"
+numero: "274"
+data: 2026-02-13
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 27/02/2026"
+data_publicacao: 2026-02-27
+codigo_identificador: "902FEFFA"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118806_2026-02-26_df63c21f0dbd2c5bf90c79c93e412d78.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N.º 274/2026, DE 13 DE FEVEREIRO DE 2026
+
+DECRETO N.º 274/2026, DE 13 DE FEVEREIRO DE 2026
+NOMEIA o(a) Senhor(a) TIAGO SANTOS
+CALDEIRA, aprovado(a) no Concurso Público nº.
+003/2023, para provimento de cargo efetivo de
+pessoal da Secretaria Municipal de Educação do
+Município de Nova Olinda do Norte – AM,
+contratado sob o regime estatutário, e outorga outras
+providências.
+A PREFEITA MUNICIPAL DE NOVA OLINDA DO NORTE,
+Estado do Amazonas, no uso de suas atribuições legais e previsão no
+art. 64, inciso X, da Lei Orgânica Municipal e art. 3º, art. 5º, inciso I,
+art. 6º, art. 7º, inciso I e art. 8º, caput e parágrafo único da Lei n.º 125,
+de 28 de outubro de 2014, que dispõe sobre o Estatuto dos Servidores
+do Município, e:
+CONSIDERANDO as vacâncias dos cargos, necessidade de
+provimento imediato, autorização legislativa, escolha por ordem de
+classificação etc., bem como a existência de disponibilidade
+orçamentária e autorização legislativa para o provimento dos cargos;
+CONSIDERANDO que o candidato aprovado preenche os requisitos
+exigidos no edital e na legislação municipal aplicável, bem como o
+cumprimento dos princípios que regem a Administração Pública,
+previstos no art. 37, caput da CF/88, notadamente o da legalidade,
+impessoalidade, moralidade, publicidade e eficiência;
+DECRETA:
+Art. 1º Fica nomeado(a) o Senhor(a) TIAGO SANTOS
+CALDEIRA, inscrito(a) no CPF nº 039.219.372-80, aprovado(a) na
+posição de 1º lugar, para o cargo público de PROFESSOR DE
+MATEMÁTICA - ZONA RURAL - URARIÁ DE CIMA, inscrito
+(a) no concurso sob nº 0005366, para compor o quadro permanente de
+Servidores da Educação do Município de Nova Olinda do Norte.
+Art. 2º A posse deverá ser requerida pelo(a) nomeado(a) no prazo de
+30 (trinta) dias corridos, contados da publicação deste Decreto, de
+acordo com o art. 13 da Lei n.º 125, de 28 de outubro de 2014.
+Art. 3º O exercício efetivo do cargo deverá ocorrer até 15 (quinze)
+dias úteis após a posse, salvo motivo justificado e autorizado pela
+autoridade competente, observando-se os prazos previstos no edital.
+Art. 4º O regime jurídico aplicável será o estatutário, determinado
+pela Lei n.º 125, de 28 de outubro de 2014, publicada em 03 de
+novembro de 2014, que estabelece o Estatuto dos Servidores do
+Município de Nova Olinda do Norte, com observância dos direitos,
+deveres, estabilidade e demais normas previstas.
+
+ARACI RODRIGUES DA CUNHA
+Prefeita Municipal de Nova Olinda do Norte
+MARIA DO SOCORRO FERREIRA BELEM
+Secretária Municipal de Administração e Finanças
+Publicado por:
+Aldriene Garcia Freire

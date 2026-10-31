@@ -1,0 +1,70 @@
+“Altera e acrescenta dispositivos da Lei nº 1.008, de 13 de dezembro de 1991”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV do art. 87 da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER**, que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR**:
+
+
+Art. 1º.
+
+Os artigos, incisos e parágrafos da Lei nº 1.008, de 31 de dezembro de 1991, abaixo discriminados, passam a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação, com efeitos a partir de 1º de janeiro de 2001.
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário.
+
+
+**CARLOS ALBERTO DE AZEVEDO CAMURÇA Prefeito do Município**  
+  
+WALDIRO TEOBALDO GRABNER  
+Secretário Municipal de Fazenda  
+  
+JOÃO RICARDO VALLE MACHADO  
+Procurador Geral do Município
+
+
+ANEXO DA LEI COMPLEMENTAR Nº 105, DE 29 DE NOVEMBRO DE 2000
+
+**TABELA XI**
+
+**FATORES DE SETORIZAÇÃO**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>SETOR</strong></p></td><td><p><strong>FATOR DE SETORIZAÇÃO</strong></p></td></tr><tr><td><p>01, 02, 03, 04, 08 e 09</p></td><td><p>1,50</p></td></tr><tr><td><p>05, 06, 10, 11, 12, 13 e 24</p></td><td><p>1,40</p></td></tr><tr><td><p>14 e 15</p></td><td><p>1,30</p></td></tr><tr><td><p>07, 16, 17, 18, 21, 25, 26, 28 e 29</p></td><td><p>1,20</p></td></tr><tr><td><p>19, 20, 22, 23, 27, 30, 33, 34, 35, 49, 50 e 51</p></td><td><p>1,10</p></td></tr><tr><td><p>Outras áreas de expansão urbana e urbanizáveis</p></td><td><p>1,00</p></td></tr></tbody></table>
+
+
+ANEXO DA LEI COMPLEMENTAR Nº 105, DE 29 DE NOVEMBRO DE 2000
+
+**TABELA XII**
+
+**TABELA DE VALORES DE M² DE CONSTRUÇÃO**
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><p><strong>TIPO</strong></p></td><td><p><strong>DESCRIÇÃO</strong></p></td><td><p><strong>VALOR (UFIR)</strong></p></td></tr><tr><td><p>01</p></td><td><p>Casa</p></td><td><p>60</p></td></tr><tr><td><p>02</p></td><td><p>Edifício de apartamentos</p></td><td><p>100</p></td></tr><tr><td><p>03</p></td><td><p>Loja/Sala Comercial</p></td><td><p>80</p></td></tr><tr><td><p>04</p></td><td><p>Galpãp</p></td><td><p>40</p></td></tr><tr><td><p>05</p></td><td><p>Indústria</p></td><td><p>80</p></td></tr><tr><td><p>06</p></td><td><p>Outros</p></td><td><p>75</p></td></tr></tbody></table>
+
+
+ANEXO DA LEI COMPLEMENTAR Nº 105, DE 29 DE NOVEMBRO DE 2000
+
+**TABELA XIII**
+
+FATORES CORRETIVOS DAS CONSTRUÇÕES
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>1 – ALINHAMENTO</p><ul><li><p>Alinhada</p></li><li><p>Recuada</p></li></ul></td><td><p>FATOR</p><p>1,00</p><p>1,10</p></td></tr><tr><td><p>2 – SITUAÇÃO DO LOTE</p><ul><li><p>Isolada</p></li></ul><ul><li><p>Conjugada</p></li><li><p>Germinada</p></li></ul></td><td><p><br></p><p>1,10</p><p>1,00</p><p>0,90</p></td></tr><tr><td><p>3 – SITUAÇÃO DA UNIDADE CONSTRUÍDA</p><ul><li><p>Frente</p></li><li><p>Fundos</p></li><li><p>Superposta frente</p></li><li><p>Superposta fundos</p></li><li><p>Sobreloja</p></li><li><p>Galeria</p></li><li><p>Vila</p></li></ul></td><td><p><br></p><p>1,10</p><p>0,80</p><p>1,10</p><p>1,00</p><p>0,90</p><p>0,80</p><p>0,80</p></td></tr><tr><td><p>4 – ESTRUTURA</p><ul><li><p>Concreto</p></li><li><p>Alvenaria</p></li><li><p>Madeira</p></li><li><p>Metálica</p></li><li><p>Taipa</p></li></ul></td><td><p><br></p><p>1,20</p><p>1,05</p><p>0,60</p><p>1,10</p><p>0,50</p></td></tr><tr><td><p>5 – COBERTURA</p><ul><li><p>Telha fibro-cimento</p></li><li><p>Telha de barro</p></li><li><p>Laje</p></li><li><p>Palha</p></li><li><p>Alumínio</p></li><li><p>Plástico sintético</p></li><li><p>Madeira/cavaco</p></li><li><p>Especial</p></li></ul></td><td><p><br></p><p>1,00</p><p>1,20</p><p>1,30</p><p>0,50</p><p>1,30</p><p>1,50</p><p>1,00</p><p>2,00</p></td></tr><tr><td><p>6 – PISO</p><ul><li><p>Precário, cimentado</p></li><li><p>Ardósia, taco/carpete, marmorite e plástico</p></li><li><p>Cerâmica, carpete especial</p></li><li><p>Tábua corrida, borracha</p></li><li><p>Mármore, granito</p></li></ul></td><td><p><br></p><p>1,00</p><p>1,10</p><p>1,20</p><p>1,20</p><p>1,50</p></td></tr><tr><td><p>7 – REVESTIMENTO EXTERNO</p><ul><li><p>Precário, ausente</p></li><li><p>Pintura, óleo, madeira, emboço/reboco</p></li><li><p>Tijolo a vista</p></li><li><p>Cerâmica, pedra, concreto</p></li><li><p>Mármore, granito</p></li></ul></td><td><p><br></p><p>1,00</p><p>1,05</p><p>1,20</p><p>1,50</p><p>2,00</p></td></tr><tr><td><p>8 – REVESTIMENTO INTERNO</p><ul><li><p>Ausente, precário</p></li><li><p>Pintura, papel, óleo, madeira, emboço/reboco</p></li><li><p>Cerâmica, pedra, concreto, fórmica, plástico</p></li><li><p>Espelho, mármore, granito</p></li></ul></td><td><p><br></p><p>1,00</p><p>1,05</p><p>1,20</p><p>1,50</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>9 – FORRO</p><ul><li><p>Ausente, precário</p></li><li><p>Plástico, gesso, fórmica</p></li><li><p>Metálico, madeira, alumínio flexibilizado</p></li><li><p>Laje</p></li></ul></td><td><p>FATOR</p><p>1,00</p><p>1,10</p><p>1,15</p><p>1,20</p></td></tr><tr><td><p>10 – ESTADO DE CONSERVAÇÃO</p><ul><li><p>Bom</p></li><li><p>Regular</p></li><li><p>Ruim</p></li></ul></td><td><p> </p><p>1,10</p><p>1,00</p><p>0,80</p></td></tr></tbody></table>
+
+
+ANEXO DA LEI COMPLEMENTAR Nº 105, DE 29 DE NOVEMBRO DE 2000
+
+**TABELA XIV**
+
+**FATORES DE COLETA DE LIXO**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>SETOR</strong></p></td><td><p><strong>FATOR DE COLETA</strong></p></td></tr><tr><td><p>01, 02, 03, 04, 08 e 09</p></td><td><p>1,10</p></td></tr><tr><td><p>05, 06, 10, 11, 12, 13 e 24</p></td><td><p>1,05</p></td></tr><tr><td><p>14 e 15</p></td><td><p>1,00</p></td></tr><tr><td><p>07, 16, 17, 18, 21, 25, 26, 28 e 29</p></td><td><p>0,70</p></td></tr><tr><td><p>19, 20, 22, 23, 27, 30, 33, 34, 35, 49, 50 e 51</p></td><td><p>0,50</p></td></tr><tr><td><p>Outras áreas de expansão urbana e urbanizáveis</p></td><td><p>0,50</p></td></tr></tbody></table>

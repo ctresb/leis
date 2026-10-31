@@ -1,0 +1,179 @@
+{
+  "estado": "indice_completo",
+  "total": 11,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/lei_2.241_-anexo_i.pdf da norma Lei nº 2.241, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo 1 – Tabela de memória de cálculo das Estimativas das Principais Receitas",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2021/2/lei_2.241_-anexo_i.pdf",
+      "ano": 2021,
+      "norma": 4407
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/lei_2.241_-anexo_ii.pdf da norma Lei nº 2.241, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 – Estrutura de Órgãos, Unidades Orçamentárias e Executoras",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2021/3/lei_2.241_-anexo_ii.pdf",
+      "ano": 2021,
+      "norma": 4407
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/lei_2.241_-anexo_iii.pdf da norma Lei nº 2.241, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Programas",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2021/4/lei_2.241_-anexo_iii.pdf",
+      "ano": 2021,
+      "norma": 4407
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/lei_2.251_anexo_1.pdf da norma Lei nº 2.251, de 08 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2021/5/lei_2.251_anexo_1.pdf",
+      "ano": 2021,
+      "norma": 4422
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/portaria_257.pdf da norma Portaria nº 14, de 07 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Daniela Arguilar Camargo",
+                [
+                  "2025-02-06T16:35:21-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Luis Henrique Kittel",
+                [
+                  "2025-02-06T16:59:12-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "CEDE SERVIDOR MUNICIPAL",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2025/6/portaria_257.pdf",
+      "ano": 2025,
+      "norma": 5036
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/7/parecer_juridico.pdf da norma Portaria nº 36, de 24 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Parecer Jurídico",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2026/7/parecer_juridico.pdf",
+      "ano": 2026,
+      "norma": 5326
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/comprovante_de_matrcula.pdf da norma Portaria nº 36, de 24 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Comprovante de matricula",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2026/8/comprovante_de_matrcula.pdf",
+      "ano": 2026,
+      "norma": 5326
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/comprovante_de_matrcula.pdf da norma Portaria nº 61, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Comprovante de matrícula",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2026/9/comprovante_de_matrcula.pdf",
+      "ano": 2026,
+      "norma": 5361
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/10/parecer_juridico_.pdf da norma Portaria nº 61, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Parecer Jurídico",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2026/10/parecer_juridico_.pdf",
+      "ano": 2026,
+      "norma": 5361
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/11/relatorio012026_assinado.pdf da norma Portaria nº 45, de 31 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Geovana Gundel Coelho Fogaca",
+                [
+                  "2026-09-24T10:09:09-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "RELATÓRIO DE OCORRÊNCIA E ACOMPANHAMENTO DA EXECUÇÃO CONTRATUAL",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2026/11/relatorio012026_assinado.pdf",
+      "ano": 2026,
+      "norma": 5337
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/parecer_04-_camara_municipal_assinado.pdf da norma Portaria nº 45, de 31 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Arno Carlos Horbe Braunig",
+                [
+                  "2026-09-22T14:50:05-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "PARECER Nº 04- 2026",
+      "anexo_arquivo": "http://sapl.agudo.rs.leg.br/media/sapl/public/anexonormajuridica/2026/12/parecer_04-_camara_municipal_assinado.pdf",
+      "ano": 2026,
+      "norma": 5337
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.agudo.rs.leg.br/929bbd25587441673e0c5edd29a7188a6fdaa9af8abb62304198285bfb16dc4a.json",
+      "url": "https://sapl.agudo.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5fc791b60b51c6e1fd038b00eaa460ae0282549a68d6e679d483323696d47cd3",
+      "capturado_em": "2026-10-20T21:20:40.622646",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.agudo.rs.leg.br/929bbd25587441673e0c5edd29a7188a6fdaa9af8abb62304198285bfb16dc4a.json"
+    }
+  ]
+}

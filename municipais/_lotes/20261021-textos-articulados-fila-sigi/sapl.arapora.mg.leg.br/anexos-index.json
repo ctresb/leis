@@ -1,0 +1,88 @@
+{
+  "estado": "indice_completo",
+  "total": 7,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/lei_complementar_n137-2022_anexo.pdf da norma Lei Complementar nº 137, de 31 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Organograma - Estrutura Organizacional",
+      "anexo_arquivo": "http://sapl.arapora.mg.leg.br/media/sapl/public/anexonormajuridica/2022/1/lei_complementar_n137-2022_anexo.pdf",
+      "ano": 2022,
+      "norma": 1913
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/lei_1374_-_anexo_parte_1.pdf da norma Lei Ordinária nº 1.374, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Lei 1374 - Anexo Parte 1",
+      "anexo_arquivo": "http://sapl.arapora.mg.leg.br/media/sapl/public/anexonormajuridica/2021/2/lei_1374_-_anexo_parte_1.pdf",
+      "ano": 2021,
+      "norma": 1915
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/lei_1374_-_anexo_parte_2.pdf da norma Lei Ordinária nº 1.374, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Lei 1374 - Anexo Parte 2",
+      "anexo_arquivo": "http://sapl.arapora.mg.leg.br/media/sapl/public/anexonormajuridica/2021/3/lei_1374_-_anexo_parte_2.pdf",
+      "ano": 2021,
+      "norma": 1915
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/lei_1374_-_anexo_parte_3.pdf da norma Lei Ordinária nº 1.374, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Lei 1374 - Anexo Parte 3",
+      "anexo_arquivo": "http://sapl.arapora.mg.leg.br/media/sapl/public/anexonormajuridica/2021/4/lei_1374_-_anexo_parte_3.pdf",
+      "ano": 2021,
+      "norma": 1915
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/lei_1374_-_anexo_parte_4.pdf da norma Lei Ordinária nº 1.374, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Lei 1374 - Anexo Parte 4",
+      "anexo_arquivo": "http://sapl.arapora.mg.leg.br/media/sapl/public/anexonormajuridica/2021/5/lei_1374_-_anexo_parte_4.pdf",
+      "ano": 2021,
+      "norma": 1915
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/7/lei_complementar_n_150-2023_parte_2.pdf da norma Lei Complementar nº 150, de 05 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Institui o plano de cargos e carreira dos profissionais do magistério do município de Araporã - MG e dá outras providências.",
+      "anexo_arquivo": "http://sapl.arapora.mg.leg.br/media/sapl/public/anexonormajuridica/2023/7/lei_complementar_n_150-2023_parte_2.pdf",
+      "ano": 2023,
+      "norma": 2075
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/lei_complementar_n_158-2024_pag._80-149.pdf da norma Lei Complementar nº 158, de 27 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Institui o plano diretor do município de Araporã - MG, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.arapora.mg.leg.br/media/sapl/public/anexonormajuridica/2024/8/lei_complementar_n_158-2024_pag._80-149.pdf",
+      "ano": 2024,
+      "norma": 2131
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapora.mg.leg.br/10e0e9baa8228b3e321f647dc3e7c1ba9460a6e9541180945b69738e24c0844e.json",
+      "url": "https://sapl.arapora.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.arapora.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f5cef87a21facdf02de957b5fcce366117a1e7551b75f3ce37b8d7d21145d1ab",
+      "bytes": 3372,
+      "capturado_em": "2026-10-27T16:55:41.770414-03:00"
+    }
+  ]
+}

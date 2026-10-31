@@ -1,0 +1,694 @@
+---
+titulo: "Lei Ordinária Municipal nº 3.659, de 28 de outubro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "3659"
+data: "2003-10-28"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2009-12-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/3618"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/937/text"
+sha256_fonte: "aa4175c8bc0f936f64338ba346a5f9dded01ebe465592279c2cc8102b51d08d5"
+sha256_texto: "fdcb05159a9e1ca89a14df3da4ba46b46e4b4a0a53de90f3b1c45befc2df76e4"
+capturado_em_fonte: "2026-10-21T03:54:29.534237-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 3.659, de 28 de outubro de 2003
+
+DISPÕE SOBRE A ORGANIZAÇÃO DO SISTEMA MUNICIPAL DE DEFESA DO CONSUMIDOR - SMDC - INSTITUI A COORDENADORIA MUNICIPAL DE DEFESA DO CONSUMIDOR - PROCON - A COMISSÃO MUNICIPAL PERMANENTE DE NORMATIZAÇÃO - CMPN - CONSELHO MUNICIPAL DE DEFESA DO CONSUMIDOR - CONDECON E INSTITUI O FUNDO MUNICIPAL DE DEFESA DOS DIREITOS DIFUSOS- FMDD ALTERA ART.DA LEI 3.444/02 E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**ELOI JOÃO ZANELLA**, Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, no uso de atribuições conferidas pelo Artigo 64, Inciso V da Lei Orgãnica do Município:
+
+
+**FAÇO SABER** que o Poder Legislativo aprovou, e eu sancíono e promulgo a seguinte Lei.
+
+
+Art. 1º.
+
+A presente Lei estabelece a organização do Sistema Municipal de Defesa do Consumidor - SMDC, nos termos da Lei n° 8.078/90 e Decreto n° 2.181/97.
+
+
+Art. 2º.
+
+São órgãos do Sistema Municipal de Defesa do Consumidor - SMDC:
+
+
+I –
+
+A Coordenadoria Municípal de Defesa do Consumidor - PROCON;
+
+
+II –
+
+O Conselho Municipal de Defesa do Consumidor - CONDECON.
+
+
+III –
+
+A Comissão Municipal Permanente de Normatização - CMPN
+
+
+Parágrafo único
+
+Integram o Sistema Municipal de Defesa do Consumidor os órgãos federais, estaduais e municipais e as entidades privadas que se dedicam à proteção e defesa do consumidor, sediadas no município, observando o disposto nos incisos I e II do Art. 5° da Lei n° 7.347, de 24 de julho de 1985.
+
+
+#### CAPÍTULO I — DA COORDENADORIA MUNICIPAL DE DEFESA DO CONSUMIDOR - PROCON
+
+
+Art. 3º.
+
+Fica instituído o PROCON Municipal, destinado a promover e implementar as ações direcionadas à formulação da política do sistema municipal de proteção, orientação, defesa e educação do consumidor.
+
+
+Art. 4º.
+
+O PROCON Municipal ficará vinculado ao.Poder Executivo Municipal.
+
+
+Art. 5º.
+
+Constituem objetivos permanentes do PROCON Municipal:
+
+
+I –
+
+Assessorar o Prefeito Municipal na formulação da política do Sistema Municipal de Proteção e Defesa do Consumidor;
+
+
+II –
+
+Planejar, elaborar, propor e executar a Política do Sistema Municipal de Defesa dos Direitos e interessesdos Consumidores;
+
+
+III –
+
+Receber, analisar, avaliar e encaminhar consultas, denúncias e sugestões apresentadas por consumidores, por entidades representativas ou pessoas jurídicas de direito público ou privado;
+
+
+IV –
+
+Orientar permanentemente os consumidores sobre seus direitos e garantias;
+
+
+V –
+
+Fiscalizar as denúncias efetuadas, encaminhando à assistência judiciária e/ou, ao Ministério Público, as situações não resolvidas administrativamente;
+
+
+VI –
+
+Incentivar e apoiar a criação e organização de órgãos e associações comunitárias de defesa do consumidor e apoiar as já existentes;
+
+
+VII –
+
+Desenvolver palestras, campanhas, feiras, debates e outras atividades correlatas;
+
+
+VIII –
+
+Atuar junto ao Sistema Municipal formal de ensino, visando incluir o Tema Educação para o Consumo no currículo das disciplinas já existentes, de forma a possibilitar a informação e formação de uma nova mentalidade nas relações de consumo;
+
+
+IX –
+
+Colocar à disposição dos consumidores mecanismos que possibilitem informar os menores preços dos produtos básicos;
+
+
+X –
+
+Manter cadastro atualizado de reclamações fundamentadas contra fornecedores de produtos e serviços, divulgando-o pública e anualmente (art. 44 da Lei n° 8.078/90 e Artigos 57 a 62 do Decreto 2.181/97),e registrando as soluções;
+
+
+XI –
+
+Expedir notificações aos fornecedores para prestarem informações sobre reclamações apresentadas pelos consumidores, Art. 55, § 4° da Lei 8.078/90;
+
+
+XII –
+
+Fiscalizar e aplicar as sanções administrativas previstas no Código de Defesa do Consumidor (Lei n° 8.078/90 e Decreto n° 2.181/97);
+
+
+XIII –
+
+Funcionar, no que se refere ao processo administrativo, como instância de julgamento;
+
+
+XIV –
+
+Solicitar o concurso de órgãos e entidades de notória especialização técnica para a consecução dos seus objetivos.
+
+
+**DA ESTRUTURA**
+
+
+Art. 6º.
+
+A Estrutura Organizacional do PROCON municipal será a seguinte:
+
+
+I –
+
+Coordenadoria Executiva;
+
+
+II –
+
+Serviço de Atendimento ao Consumidor;
+
+
+III –
+
+Serviço de Fiscalização;
+
+
+IV –
+
+Serviço de Assessoria Jurídica;
+
+
+V –
+
+Serviço de Apoio Administrativo;
+
+
+VI –
+
+Serviço de Educação ao Consumidor.
+
+
+Art. 7º.
+
+A Coordenadoria Executiva será dirigida por Coordenador Executivo, e os serviços por servidores efetivos, nos cargos de Advogado, Agente Executivo Especializado e Agente Fiscal de Defesa do Consumidor, ou outros que desenvolvam atividades afins.
+
+
+Art. 8º.
+
+A Coordenadoria Executiva será dirigida por Coordenador Executivo, e os serviços por servidores efetivos, nos cargos de Advogado, Agente Executivo Especializado e Agente Fiscalde Defesa do Consumidor, ou outros que desenvolvam atividades afins.
+
+
+Art. 9º.
+
+As demais atribuições serão regulamentadas pelo Regimento Interno.
+
+
+Art. 10.
+
+O Coordenador do PROCON Municipal contará com o Conselho Municipal de Defesa do Consumidor - CONDECON, que também atuará como Comissão Permanente de Normatização, para elaboração, revisão e atualização das normas referidas no Parágrafo 1°, do Art. 55, da Lei n° 8.078/90, que será integrada por representantes descritos no Art. 14 desta Lei.
+
+
+Art. 11.
+
+O Poder Executivo Municipal colocará à disposição do PROCON os recursos humanos necessários para o funcionamento do órgão.
+
+
+Art. 12.
+
+O Poder Executivo Municipal disporá os bens materiais e recursos financeiros para o perfeito funcionamento do órgão.
+
+
+#### CAPÍTULO II — DO CONSELHO MUNICIPAL DE DEFESA DO CONSUMIDOR - CONDECON
+
+
+Art. 13.
+
+Fica instituído o Conselho Municipal de Defesa do Consumidor - CONDECON, com as seguintes atribuições:
+
+
+I –
+
+Atuar na formulação de estratégias e no controle da política municipal de defesa do consumidor;
+
+
+II –
+
+Estabelecer diretrizes a serem observadas na elaboração dos projetos do plano de defesa do consumidor;
+
+
+III –
+
+Gerir o Fundo Municipal de Defesa dos Direitos Difusos - FMDD, destinando os recursos para projetos e programas de educação, proteção e defesa do consumidor. (de que trata o capítulo III)
+
+
+IV –
+
+Elaborar, Revisar e Atualizar as normas referidas no § 1° do Art. 55 da lei n° 8.078/90.
+
+
+V –
+
+fazer editar, inclusive em colaboração com órgãos oficiais, material informativo sobre a proteção e defesa do consumidor;
+
+
+VI –
+
+promover atividades e eventos que contribuam para orientação e proteção do Consumidor;
+
+
+VII –
+
+promover, por meio de órgãos da Administração Pública e de entidades civis interessados, eventos educativos ou científicos, relacionados à proteção e defesa do consumidor;
+
+
+VIII –
+
+elaborar seu Regimento Interno;
+
+
+Art. 14.
+
+O CONDECON será composto por representantes do Poder Público e entidades representativas de fornecedores e consumidores, assim discriminados:
+
+
+I –
+
+O coordenador municipal do PROCON;
+
+
+II –
+
+Um representante da Secretaria Municipal da Educação;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal nº 4.026, de 16 de agosto de 2006.
+
+
+III –
+
+Um representante da Vigilância Sanitária;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal nº 4.026, de 16 de agosto de 2006.
+
+
+IV –
+
+Um representante da Secretaria Municipal da Fazenda;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal nº 4.026, de 16 de agosto de 2006.
+
+
+V –
+
+Um representante da Secretaria Municipal do Desenvolvimento Econômico;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal nº 4.026, de 16 de agosto de 2006.
+
+
+VI –
+
+Quatro representantes de associações que estejam constituídas pelo menos a um ano e que incluam em suas finalidades institucionais a proteção ao meio ambiente, ao consumidor, ao patrimônio artístico, estético, histórico, paisagístico, turístico, ou qualquer outro interesse difuso ou coletivo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal nº 4.614, de 15 de dezembro de 2009.
+
+
+VII –
+
+Três representantes de associações que atendam aos pressupostos dos incisos I e II do Art. 5°, da Lei n° 7.347,de 1985.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária Municipal nº 4.026, de 16 de agosto de 2006.
+
+
+§ 2º
+
+Todos os demais membros serão indicados pelos órgãos e entidades que representam, sendo investidos na função de conselheiros através de nomeação pelo Prefeito Municipal.
+
+
+§ 3º
+
+As indicações para nomeações ou substituições de conselheiros serão feitas pelas entidades ou órgãos na forma de seus estatutos.
+
+
+§ 4º
+
+Para cada membro será indicado um suplente que substituirá, com direito a voto, nas ausências ou impedimento do titular.
+
+
+§ 5º
+
+Perderá a condição de membro do CONDECON o representante que, sem motivo justificado, deixar de comparecer a 3 três)reuniões consecutivas ou a 6 (seis)alternadas, no período de 1 (um) ano.
+
+
+§ 6º
+
+Os órgãos e entidades relacionados neste artigo poderão, a qualquer tempo, propor a substituição de seus respectivos representantes, obedecendo ao disposto no parágrafo 2° deste artigo.
+
+
+§ 7º
+
+As funções dos membros do Conselho Municipal de Defesa do Consumidor não serão remunerados, sendo seu exercício considerado relevante serviço à promoção e preservação da ordem econômica local.
+
+
+§ 8º
+
+Os membros do Conselho Municipal de Defesa do consumidor e seus suplentes terão mandato de dois anos, Sendo permitida uma recondução.
+
+
+Art. 15.
+
+O Conselho será presidido pelo Coordenador do PROCON
+
+
+Art. 16.
+
+O Conselho reunir-se-á ordinariamente 01 (uma) vez por mês e extraordinariamente sempre que convocados pelo Presidente ou por solicitação da maioria de seus membros.
+
+
+§ 1º
+
+As sessões plenários do Conselho instalar-se-ão com a maioria de seus membros, que deliberarão pela maioria dos votos presentes.
+
+
+§ 2º
+
+Ocorrendo falta de quorum mínimo do plenário será convocada, automaticamente, nova reunião, que ccontecerá após 48 horas, com qualquer número de participantes.
+
+
+#### CAPÍTULO III — DO FUNDO MUNICIPAL DE DEFESA DOS DIREITOS DIFUSOS
+
+
+Art. 17.
+
+Fica instituído o Fundo Municipal de Defesa dos Direitos Difusos - FMDD, conforme o disposto no Art. 57, da Lei Federal n° 8.078, de 11 de setembro de 1990, regulamentada pelo Decreto Federal n° 2.181, de 20 de março de 1997, com o objetivo de criar condições financeiros de gerenciamento dos recursos destinados ao desenvolvimento dos ações e serviços de proteção e defesa dos direitos dos consumidores.
+
+
+Parágrafo único
+
+O FMDD será gerido e gerenciado pelo Conselho Gestor, composto pelos membros do Conselho Municipal de Defesa do Consumidor, nos termos do item III do, Art. 13, desta Lei.
+
+
+Art. 18.
+
+O Fundo Municipal de Defesa dos Direitos Difusos terá por objetivo ressarcir e prevenir danos causados à coletividade relativos ao meio ambiente, ao consumidor, bem como a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico ou qualquer outro interesse difuso ou coletivo no Território Municipal.
+
+
+§ 1º
+
+Os recursos do Fundo, o qual se refere este artigo, serão aplicados:
+
+
+I –
+
+Na recuperação de bens lesados;
+
+
+II –
+
+Na promoção de eventos educativos e científicos e na edição de material informativo relacionado à natureza da infração ou do dano causado;
+
+
+III –
+
+No custeio de exames periciais, estudos e trabalhos técnicos necessários à instrução de inquérito civil ou procedimento investigatório preliminar instaurado para a apuração de fato ofensivo ao interesse difuso ou coletivo.
+
+
+§ 2º
+
+Na hipótese do inciso II deste artigo, deverá o Conselho considerar a existência de fontes ~ alternativas para custeio da perícia, a sua relevância, a sua urgência e as evidências de sua necessidade.
+
+
+Art. 19.
+
+Constituem recursos do Fundo o produto da arrecadação:
+
+
+I –
+
+das condenações judiciais de que tratam os artigos 11 e 13 da lei 7.347 de 24 de julho de 1985;
+
+
+II –
+
+Dos valores destinados ao município em virtude da aplicação da multa prevista no Art. 56, inciso I, c/c o Art. 57 e seu Parágrafo Único da Lei n° 8.078/90;
+
+
+III –
+
+As transferências orçamentárias provenientes de outras entidades públicas ou privadas;
+
+
+IV –
+
+Os rendimentos decorrentes de depósitos bancários e aplicações financeiras, observadas as disposições legais pertinentes;
+
+
+V –
+
+As doações de pessoas físicas e jurídicas nacionais e estrangeiras;
+
+
+VI –
+
+Outras receitas que vierem a ser destinadas ao Fundo;
+
+
+Art. 20.
+
+As receitas descritas no artigo anterior serão depositadas obrigatoriamente em conta especial, a ser aberta e mantida em estabelecimento oficial de crédito, a disposição do Conselho Municipal de que trata o Art. 13.
+
+
+§ 1º
+
+As empresas infratoras comunicarão no prazo de 10 (dez) dias, ao Conselho Municipal os depósitos realizados a crédito do Fundo, com especificação da origem, sob pena de multa mensal de 10% sobre o valor do depósito.
+
+
+§ 2º
+
+Fica autorizada a aplicação financeira das disponibilidades do Fundo em operações ativas, de modo a preserva-Ias contra eventual perda do poder aquisitivo da moeda.
+
+
+§ 3º
+
+O saldo credor do Fundo, apurado em balanço no término de cada exercício financeiro, será transferido para o exercício seguinte, a seu crédito.
+
+
+§ 4º
+
+O Presidente do Conselho Municipal Gestor do Fundo é obrigado à publicar mensalmente os demonstrativos de receitas e despesas gravadas nos recursos do Fundo.
+
+
+§ 5º
+
+Os recursos do Fundo serão separados, conforme a natureza de sua origem, em diversas contas relativas:
+
+
+a)
+
+Aos danos causados ao Meio Ambiente;
+
+
+b)
+
+Aos danos causados ao Patrimônio Cultural, Artístico, Paisagistico e Historicos:
+
+
+c)
+
+Aos danos causados à defesa das Pessoas Portadorea de Deficiência;
+
+
+d)
+
+Aos danos causados aos interesses da Habitação e Urbanismo;
+
+
+e)
+
+Aos danos causados ao Consumidor;
+
+
+f)
+
+Aos danos causados à defesa dos Direitos da Cidadania e outros interesses difusos ou coletivos.
+
+
+§ 6º
+
+O Conselho Gestor do Fundo poderá rever e criar novas contas sempre respeitando os objetivos descritos no Art. 17;
+
+
+Art. 21.
+
+Os membros do Conselho Gestor do Fundo e seus suplentes terão mandato de dois anos, sendo permitida uma reconduçõo.
+
+
+Art. 22.
+
+Ao Conselho Municipal, no exercício da gestão do Fundo, compete administrar e gerir financeira e economicamente os valores e recursos depositados no Fundo, bem como deliberar sobre a forma de aplicação e destinação dos recursos na reconstituição dos bens lesados e na prevenção de danos, cabendo-lhe ainda:
+
+
+I –
+
+zelar pela aplicação dos recursos na consecução dos objetivos previstos nas Leis n° 7.347/85 e 8.078/90 e seu Decreto Regulamentador, no âmbito do disposto no Art. 17 desta lei;
+
+
+II –
+
+aprovar e intermediar convênios e contratos a serem firmados pelo Município de Erechim, objetivando atender ao disposto no item I deste Artigo;
+
+
+III –
+
+examinar e aprovar projetos de caráter cientifico e de pesquisa visando o estudo, proteção e defesa do consumidor;
+
+
+IV –
+
+aprovar liberação de recursos para proporcionar a participação do Sistema Municipal de Defesa do Consumidor - SMDC em reuniões, encontros e congressos, e ainda investimento em materiais educativos e de orientação ao Consumidor;
+
+
+V –
+
+aprovar e publicar a prestação de conta anual do Fundo Municipal de Defesa dos Direitos Difusos- FMDD sempre na segunda quinzena de dezembro;
+
+
+VI –
+
+elaborar seu Regimento Interno;
+
+
+Art. 23.
+
+O Conselho Gestor do Fundo Municipal de Defesa dos Direitos Difusos, reunir-se-á ordinariamente em sua sede, no seu Município, podendo reunir-se extraordinariamente em qualquer ponto do território estadual.
+
+
+Art. 24.
+
+Poderão receber recursos do Fundo Municipal de Defesa dos Direitos Difusos- FMDD
+
+
+I –
+
+Instituições Públicas Pertences ao SMDC;
+
+
+II –
+
+Organizações Não-Governamentais - ONG, que preencham os requisitos referidos nos incisos I e II do artigo 5° da Lei Federal n° 7.347, de 24 de julho de 1985.
+
+
+Art. 25.
+
+A Prefeitura Municipal prestará apoio administrativo e fornecerá os recursos humanos e materiais ao Conselho.
+
+
+Art. 26.
+
+Os recursos que atualmente constituem o Fundo deverão ser separados de acordo com critérios especificados no Art. 20, parágrafo 5°.
+
+
+Parágrafo único
+
+Diante da eventual impossibilidade do atendimento do disposto no caput deste artigo em relação a algum crédito feito ao Fundo, deverá esta verba ser repartida entre as diversas contas mencionadas no Art. 20, parágrafo 5°, respeitadas as proporcionalidades existentes entre a data da promulgação desta Lei.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES FINAIS
+
+
+Art. 27.
+
+No desempenho de suas funções, os órgãos do Sistema Municipal de Defesa do Consumidor poderão manter convênios de cooperação técnica com os seguintes órgãos e entidades, no ãmbito de suas respectivas competências:
+
+
+I –
+
+Departamento de Proteção e Defesa do Consumidor - DPDC, da Secretaria de Direito Econômico do Ministério da Justiça;
+
+
+II –
+
+Coordenadoria Estadual de Proteção e Defesa ao Consumidor - PROCON;
+
+
+III –
+
+Promotoria de Justiça do Consumidor;
+
+
+IV –
+
+Juizado de Pequenas Causas;
+
+
+V –
+
+Delegacia de Polícia;
+
+
+VI –
+
+Secretaria de Saúde e Meio Ambiente e Setor de Vigilância Sanitária;
+
+
+VII –
+
+Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO;
+
+
+VIII –
+
+Associações Civis da Comunidade;
+
+
+IX –
+
+Receita Federal e Estadual;
+
+
+X –
+
+Conselhos de Fiscalização do Exercício Profissional.
+
+
+Art. 28.
+
+Consideram-se colaboradores do Sistema Municipal de Defesa do Consumidor as universidades públicas ou privadas, que senvolvam estudos e pesquisas relacionadas ao mercado de consumo.
+
+
+Parágrafo único
+
+Entidades, autoridades, cientistas e técnicos poderão ser convidados a colaborar em estudos ou participar de comissões instituídas pelos órgãos de proteção ao consumidor.
+
+
+Art. 29.
+
+As despesas decorrentes da aplicação desta lei correrão por conta das dotações orçamentárias do Município.
+
+
+Art. 30.
+
+Caberá ao Poder Executivo municipal autorizar e aprovar o Regimento Interno do PROCON,que fixará o desdobramento dos órgãos previstos, bem como as competências e atribuições de seus dirigentes.
+
+
+Art. 31.
+
+As atribuições dos setores e competência dos dirigentes das quais trata esta lei, serão exercidas em conformidade com a legislação pertinente, podendo ser modificadas mediante decreto do Poder Executivo Municipal.
+
+
+Art. 32.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Art. 33.
+
+Revogam-se as disposições em contrário.
+
+
+**PREFEITURA MUNICIPAL DE ERECHIM/RS, 28 DE OUTUBRO DE 2003 ELOI JOÃO ZANELLA Prefeito Municipal**
+
+
+**Registre-se e publique-se. Data supra ADEMAR DE GERONI Sec. Mun. de Administração**
+

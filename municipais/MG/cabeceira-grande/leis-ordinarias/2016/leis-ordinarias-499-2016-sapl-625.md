@@ -1,0 +1,150 @@
+---
+titulo: "LEI ORDINÁRIA nº 499, de 21 de junho de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "499"
+data: "2016-06-21"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2020-09-30; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/625"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/539/text"
+sha256_fonte: "9405bb64d7756ced7ed4b67dc3932e7b6727407c42a1a517a1d0e32a3f40b808"
+sha256_texto: "12f17f672ff2cc63ba4d50e0ad9b8e1a035f09ca77ec72391573def35fab7ae9"
+capturado_em_fonte: "2026-10-27T20:22:31.129094-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 499, de 21 de junho de 2016
+
+**Institui o Programa de Valorização da Primeira Infância, que dispõe sobre a prorrogação remunerada da licença-maternidade e da licença-paternidade para as servidoras e servidores públicos municipais e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município de Cabeceira Grande, o Programa de Valorização da Primeira Infância, que dispõe sobre a prorrogação remunerada dos prazos da licença-maternidade e da licença-paternidade para as servidoras e servidores públicos municipais vinculados a qualquer dos Poderes do Município, regidos pela Lei Complementar n.º 32, de 2 de dezembro de 2015, nos termos do disposto nas Leis Federais ns.º 11.770, de 9 de setembro de 2008 e 13.257, de 8 de março de 2016 e no Decreto Federal n.º 8.737, de 3 de maio de 2016.
+
+
+Art. 2º.
+
+O Programa de Valorização da Primeira Infância destina-se a prorrogar remuneradamente:
+
+
+I –
+
+por 60 (sessenta) dias consecutivos a duração da licença-maternidade, além dos 120 (cento e vinte) dias estabelecidos no inciso XVIII do caput do artigo 7º da Constituição Federal c/c o disposto no artigo 200 da Lei Complementar n.º 32, de 2 de dezembro de 2015, totalizando-se 180 (cento e oitenta) dias a licença prorrogada; e
+
+
+II –
+
+por 15 (quinze) dias consecutivos a duração da licença-paternidade, além dos 8 (oito) dias estabelecidos no artigo 201 da Lei Complementar n.º 32, de 2015, totalizando-se 23 (vinte e três) dias a licença prorrogada.
+
+
+Art. 3º.
+
+A prorrogação da licença-maternidade e da licença-paternidade:
+
+
+I –
+
+será garantida à servidora que requeira até o final do primeiro mês após o parto, e será concedida imediatamente após a fruição da respectiva licença-maternidade; e
+
+
+II –
+
+será garantida ao servidor que requeira o benefício no prazo de 2 (dois) dias úteis após o nascimento ou a adoção, e será concedida imediatamente após a fruição da respectiva licença-paternidade.
+
+
+§ 1º
+
+O disposto neste artigo é aplicável a quem adotar ou obtiver guarda judicial para fins de adoção de criança, e a prorrogação será integral no caso da licença-paternidade.
+
+
+§ 2º
+
+No caso da licença-maternidade, à servidora que adotar ou obtiver guarda judicial:
+
+
+I –
+
+de criança até 1 (um) ano de idade, a prorrogação remunerada será de 30 (trinta) dias consecutivos;
+
+
+II –
+
+de criança com mais de 1 (um) ano de idade até 12 (doze) anos de idade incompletos, a prorrogação será de 15 (quinze) dias consecutivos.
+
+
+§ 3º
+
+Para os fins do disposto no parágrafo 1º deste artigo, considera-se criança a pessoa de até 12 (doze) anos de idade incompletos.
+
+
+Art. 4º.
+
+No período de prorrogação da licença-maternidade e da licença-paternidade de que trata esta Lei, a servidora e o servidor beneficiados não poderão exercer qualquer atividade remunerada, e a criança deverá ser mantida sob seus cuidados, para os fins do Programa de Valorização da Primeira Infância, ressalvados os casos de acumulação legal remunerada de cargos públicos.
+
+Alteração feita pelo Art. 4º. - LEI ORDINÁRIA nº 692, de 30 de setembro de 2020.
+
+
+Parágrafo único
+
+O descumprimento do disposto neste artigo implicará o cancelamento da prorrogação da respectiva licença e o registro da ausência como falta ao serviço.
+
+
+Art. 5º.
+
+O pagamento da prorrogação da licença-maternidade e da licença-paternidade (ordinárias e prorrogadas) de que trata esta Lei será custeado pelo respectivo órgão patronal a que estiver vinculada a servidora ou o servidor.
+
+Alteração feita pelo Art. 4º. - LEI ORDINÁRIA nº 692, de 30 de setembro de 2020.
+
+
+Art. 6º.
+
+O período da prorrogação da licença-maternidade e da licença-paternidade é considerado como de efetivo exercício, para todos os efeitos estatutários, previdenciários e legais.
+
+
+Art. 7º.
+
+Sobrevindo emenda à Constituição Federal alterando o prazo da licença-maternidade e/ou da licença-paternidade ou outras disposições, o novo texto será imediatamente observado, independentemente de modificação legislativa veiculada nesta Lei, não mais subsistindo, a depender da alteração, a prorrogação de que trata o presente Diploma Legal.
+
+
+Art. 8º.
+
+As Secretarias Municipais da Saúde e do Desenvolvimento Social e Cidadania promoverão, tanto quanto possível, o acompanhamento às servidoras e servidores beneficiados por esta Lei, de modo a alcançar a conscientização da importância da Primeira Infância, inclusive da necessidade de a criança ser mantida sob os cuidados dos pais servidores, observado o disposto no artigo 4º desta Lei.
+
+
+Art. 9º.
+
+A servidora e o servidor em gozo de licença-maternidade e licença-paternidade, na data de entrada em vigor desta Lei, poderá solicitar a prorrogação da respectiva licença, desde que requerida até o último dia da licença ordinária correspondente.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 11.
+
+Fica revogado o parágrafo 4º do artigo 84 da Lei Complementar n.º 32, de 2 de dezembro de 2015.
+
+
+Cabeceira Grande, 21 de junho de 2016; 20º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+DAILTON GERALDO RODRIGUES GONÇALVES
+
+Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.
+
+**"Este texto não substitui o original."**
+

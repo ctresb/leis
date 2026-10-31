@@ -1,0 +1,36 @@
+{
+  "aprovados": [
+    {
+      "municipio": "São Paulo",
+      "uf": "SP",
+      "codigo_ibge": "3550308",
+      "tipo": "Lei Orgânica",
+      "categoria": "lei-organica",
+      "numero": "",
+      "data": "1990-04-04",
+      "titulo": "Lei Orgânica do Município de São Paulo, de 4 de abril de 1990",
+      "slug": "lei-organica-sao-paulo-1990",
+      "cache": "sao-paulo-organica.pdf",
+      "fonte": "https://www.saopaulo.sp.leg.br/lei-organica/",
+      "fonte_texto": "https://www.saopaulo.sp.leg.br/wp-content/uploads/2022/09/LOMC.pdf",
+      "versao_texto": "compilação oficial, edição 2026 atualizada até a Emenda 44/25; índice remissivo preservado",
+      "marcas_obrigatorias": [
+        "LEI ORGÂNICA DO MUNICÍPIO DE SÃO PAULO",
+        "Atualizada até a Emenda 44/25",
+        "São Paulo, 4 de abril de 1990"
+      ],
+      "arquivo": "municipais/SP/sao-paulo/lei-organica/1990/lei-organica-sao-paulo-1990.md",
+      "sha256": "56ac0e0556af587e4dd5fd0827380048d9d4f3c315bd83629a46b68ca340da3d",
+      "arquivo_fonte": "municipais/_fonte/capitais/sao-paulo/sao-paulo-organica.pdf",
+      "sha256_fonte": "3f84b63285b3ca9498870611ad57372d87ea0e922d623c7a1b350fac89854fd4",
+      "sha256_corpo": "f51ad12fd5ec2c644c57395486ea9bf7916d75cda33e787eb198748a67304d4b",
+      "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "verificado_em": "2026-10-20T19:54:47.474335",
+      "observacao": "Compilação individual oficial; emendas anexas preservadas no mesmo documento, sem aumento artificial da contagem."
+    }
+  ],
+  "lista": "municipais/_lotes/20261020-capitais/lote-0002.paths.txt",
+  "sha256_lista": "c1c078a1bfd6df31554078e687751feb1921932c57499d5846d44d286069d9d7",
+  "qa": "municipais/_fonte/capitais/sao-paulo/lei-organica-sao-paulo-1990.qa.json",
+  "sha256_qa": "ff250a21b9991e778dcc12dae02e2da10d5b86e1f0b05fdbb78acc4b8acb3db8"
+}

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bayeux.pb.leg.br",
+  "metadados_unicos_observados": 54,
+  "total_api_declarado": 54,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bayeux.pb.leg.br/84255e91853fb3001002bde4707a3417ee6ad39116e091232346d210b7ec6131.json",
+    "url": "https://sapl.bayeux.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bayeux.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:16:31.576091-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bayeux.pb.leg.br/844834be679b291f8cb962061ef37c7d38a9a716cd045f9b92bc2e82568a6d32.json",
+    "url": "https://sapl.bayeux.pb.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bayeux.pb.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0aef134e4823b516553bc6f7efcb3e000b6c435fbbebfc30131e543584f22254",
+    "bytes": 761,
+    "capturado_em": "2026-10-27T17:16:30.469547-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bayeux.pb.leg.br/866482a78126f95ae9617008e8eb73229477baceb088a79059545bd3c9ebc61b.json",
+      "url": "https://sapl.bayeux.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bayeux.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "aee84660ae1dd1e335b10745567f666523080b820b965b33ffb383f0240298fa",
+      "bytes": 36142,
+      "capturado_em": "2026-10-27T17:16:33.621496-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

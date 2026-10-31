@@ -1,0 +1,72 @@
+{
+  "host": "sapl.bomdespacho.mg.leg.br",
+  "metadados_unicos_observados": 343,
+  "total_api_declarado": 343,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 161,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomdespacho.mg.leg.br/f2d6efed8d6bac179832f99caff59c4f65abbda4ea357fdd817fb30cac6f1b46.json",
+    "url": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "438ea394ddeddc8b9c284fe17c21d548134940ce1897f6f3f1a456d6e075ca32",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T19:26:24.494183-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomdespacho.mg.leg.br/9854af78d2551c0a530f22dbf40fc01fee8c324ea8e4802433d246aeb7cb2e2a.json",
+    "url": "https://sapl.bomdespacho.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bomdespacho.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "31573be0b7a9f93fb78168e6c0f6d04e7939fc585e360c6f89d1bc49f76ff766",
+    "bytes": 853,
+    "capturado_em": "2026-10-27T19:26:23.628954-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomdespacho.mg.leg.br/3fe98cc21f0f3f272fccaf717c3450e2cf456c163ea2d56375d0caa6be408f2e.json",
+      "url": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "32a1c49c73d21f8c2567ab6fae082c988645bf3939debb09c07f4dfefd162098",
+      "bytes": 57726,
+      "capturado_em": "2026-10-27T19:26:26.044491-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomdespacho.mg.leg.br/472082080ced8d2a084525bdb89d54e9619d3ff9f63362a1153437df1eaae76e.json",
+      "url": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "32eff97dc1e837740bace99fd05ea15d954f07dd5b85e2c95c1785310410ebcb",
+      "bytes": 60501,
+      "capturado_em": "2026-10-27T19:27:15.128216-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomdespacho.mg.leg.br/b84c988c036d190208d7611a4dbbcae8b257a6d357f46ada34ed96c4fac2b063.json",
+      "url": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3dfc2ca8aa31670d604c588a61f444bb8f227d15ef522dcbe14af4991ac19d42",
+      "bytes": 57669,
+      "capturado_em": "2026-10-27T19:28:45.335935-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomdespacho.mg.leg.br/20fccdbba5471b69476ca16ae3e0c8bb8368c1969b84a73aa661117970ce0959.json",
+      "url": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.bomdespacho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "20139df2de17fac29994c1326d23f2ed30fde74cb28c7a0d9e3307faab01c111",
+      "bytes": 22933,
+      "capturado_em": "2026-10-27T19:31:32.603635-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

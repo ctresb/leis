@@ -1,0 +1,63 @@
+---
+titulo: "LEI MUNICIPAL Nº 770/2026 DE 04 DE MAIO DE 2026"
+uf: "PA"
+municipio: "TUCUMÃ"
+tipo: "Lei Ordinária"
+numero: "770"
+data: 2026-05-04
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/05/2026"
+data_publicacao: 2026-05-12
+codigo_identificador: "5C8E962C"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117078_2026-05-11_a52f1ccf80ceda63c0c14b55dac82010.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 770/2026 DE 04 DE MAIO DE 2026
+
+LEI MUNICIPAL Nº 770/2026 DE 04 DE MAIO DE 2026
+INSTITUI A SEMANA MUNICIPAL DO
+AGRICULTOR E DO PECUARISTA NO
+MUNICÍPIO DE TUCUMÃ/PA E DÁ OUTRAS
+PROVIDÊNCIAS.
+
+COMISSÃO PERMANENTE DE LICITAÇÃO
+EXTRATO DE CONTRATO
+PREFEITURA MUNICIPAL DE TUCUMÃ
+Contrato nº 20260160 – Origem: PREGÃO ELETRÔNICO – SRP
+- Nº: 9/2025-055PMT/2025. Objeto: CONTRATAÇÃO DE
+EMPRESA ESPECIALIZADA PARA A INTERMEDIAÇÃO NA
+PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE
+PASSAGENS AÉREAS, PARA VIAGENS NACIONAIS E
+INTERNACIONAIS, DE IDA, VOLTA, OU DE IDA E VOLTA,
+CATEGORIA
+ECONÔMICA,
+E/OU,
+EM
+CASOS
+EXCEPCIONAIS,
+EM
+CLASSE
+EXECUTIVA,
+COM
+SERVIÇOS DE RESERVA, EMISSÃO DE BILHETES,
+MARCAÇÃO, REMARCAÇÃO E DEMAIS ATIVIDADES
+PERTINENTES, PARA ATENDER ÀS NECESSIDADES DA
+PREFEITURA MUNICIPAL DE TUCUMÃ-PA. Contratante:
+FUNDO
+MUNICIPAL
+DE
+EDUCAÇÃO,
+CNPJ
+nº:
+29.182.845/0001-27, e a Contratada: C M AGENCIA DE
+SERVICOS LTDA, CNPJ nº: 33.433.598/0001-61, com o valor total
+de R$ 25.000,00 (vinte e cinco mil reais). Vigência: 17 de Abril de
+2026 extinguindo-se 17 de Abril de 2027. Data de assinatura: 17 de
+Abril de 2026.
+Tucumã - PA, 11 de Maio de 2026.
+CICERO BARBOSA DA SILVA –
+Secretário Municipal de Educação.
+Publicado por:
+Caique Narcisio Pereira

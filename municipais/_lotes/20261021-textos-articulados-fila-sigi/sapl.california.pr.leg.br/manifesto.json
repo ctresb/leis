@@ -1,0 +1,122 @@
+{
+  "host": "sapl.california.pr.leg.br",
+  "metadados_unicos_observados": 822,
+  "total_api_declarado": 822,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 727,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/e8c1a7374fd1d479be6dac30869ef69c8c568438473abdd92232a33e2d33b9b3.json",
+    "url": "https://sapl.california.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.california.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a2089664e6c5937d00f58df6e991c03f50adb49b814e2f3697aece1bba0e21f3",
+    "bytes": 1261,
+    "capturado_em": "2026-10-27T22:15:37.536297-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/d1652f75091083cfc2808849e6cc9ed00d17f14c0f76ce37c5d4f1cce032107a.json",
+    "url": "https://sapl.california.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.california.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "45b0d2d45c946b241ba7a56a24da0c4d616ae989162f4584bf2fce3e8bbaad78",
+    "bytes": 767,
+    "capturado_em": "2026-10-27T22:15:36.920932-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/9f33fe990cb7e89617669070d9c9eb4adf4c7acd923f588a7b786a3ae19e50a7.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7e6dbdcf5baa68e16813f6f10eca0cac8b5b937f8f843eefc1b83f1c34903a79",
+      "bytes": 68600,
+      "capturado_em": "2026-10-27T22:15:38.933398-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/cc3499d680c75f931c5e19fe4f4d3aa391bc343b5e2b0ccc164a234015701209.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ec87712efed9efc18555cc50cebb5d3831d991877db8f8f7e7d8af8389a8c40f",
+      "bytes": 67035,
+      "capturado_em": "2026-10-27T22:18:03.754126-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/fc43b88f8fa75970084048d66afa97ebdb5a4316acb6ef76bcaf3c1f90f2e2df.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0927a7a16498db1e6629485966837c9b3e6100389f473ba71b92c76469f4f0e0",
+      "bytes": 63951,
+      "capturado_em": "2026-10-27T22:21:00.161119-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/9237d5c9e8a0c81fa43e8bce5ce7445d9dcd5ce4fde4bad59115a462c30fb8ce.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "186eb221fb9ca1002ffeb1b18167993a10e0985ba4573520792507b5e56fbf22",
+      "bytes": 63554,
+      "capturado_em": "2026-10-27T22:23:48.136414-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/010528dc9652ef250be3d3677a8cb14ce51a4dcbc1ef5107405effa4bb3ef38d.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "32699c8ca790a6e079b10eb9d94443d0507e980fa8f46a2836b05c601414b7ce",
+      "bytes": 64300,
+      "capturado_em": "2026-10-27T22:27:09.698598-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/f351fdd300ebfe2b043ee311c8b8bbb9710d0782c4b81b5c7e53108cf8f0efc7.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "88ba2476e68e0d56466b0f1f29bb0bc1b201534cebbf044f37f7baf44a2ff5a3",
+      "bytes": 64485,
+      "capturado_em": "2026-10-27T22:30:25.562032-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/b2f99b848eb4d8437fe38dd2f605879bdec062f8fe1b6e2415d880d3855cf11e.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "46bf8449dd0a2b9dc6a3d31a1347395d05f02618207289d98cb786870ca978c6",
+      "bytes": 63289,
+      "capturado_em": "2026-10-27T22:33:48.800869-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/fbaeb05708f6ab02d724e15bd457e37a017d1e4110f08031ba385b8f75060277.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "00209ee30ea031b395aa46ca87816a058b94deb01e969aab0e59a337eb24b9f3",
+      "bytes": 63451,
+      "capturado_em": "2026-10-27T22:37:07.671565-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/9502f5044b1d33c578fe63838964780e50051cebd2b2d1386af3422d4bc8ffb3.json",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "89cbc8b55e5e76f697abd3a1f96dfb567dd469f88b02bdbfec67d50b096f1440",
+      "bytes": 14628,
+      "capturado_em": "2026-10-27T22:40:26.246881-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

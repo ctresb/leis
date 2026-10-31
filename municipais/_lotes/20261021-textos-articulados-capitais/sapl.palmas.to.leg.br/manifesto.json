@@ -1,0 +1,42 @@
+{
+  "host": "sapl.palmas.to.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.palmas.to.leg.br/81aff1ce646ce27e7a984db49d03ec68880b5b74ea9d0ebfce30f662d74ea68f.json",
+    "url": "https://sapl.palmas.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.palmas.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "932d71ac77350379e7bc3978384254b1cccc861126b15232e389e4a979fd363b",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T03:29:01.676297-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.palmas.to.leg.br/c9943e099c1dac821db4e221b8783ae479c49c205339c7057bda6b7a3405ccee.json",
+    "url": "https://sapl.palmas.to.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.palmas.to.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "22b0f44b307615a63e07ddef99ace8be5701be6913d56ef2762eb66c9296788b",
+    "bytes": 703,
+    "capturado_em": "2026-10-21T03:29:02.289514-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.palmas.to.leg.br/fa25931369585f106fb1f8e7fe9a72c331cfef59e3e4c1d60f2234925072c611.json",
+      "url": "https://sapl.palmas.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.palmas.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f581e0e5806a0888d01f9a8300e2918007f00edddd6d23262bb26b5197694388",
+      "bytes": 706,
+      "capturado_em": "2026-10-21T03:29:03.751630-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

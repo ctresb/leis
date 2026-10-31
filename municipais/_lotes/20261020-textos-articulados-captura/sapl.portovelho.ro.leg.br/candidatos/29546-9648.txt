@@ -1,0 +1,32 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+Considerando o Ofício n.° 6779/2026/SEMED-DIORP, de 14 de julho de 2026, pelo qual a Secretaria Municipal de Educação - SEMED, solicita a movimentação de recursos para cobertura de despesas com os Processos Administrativos n.° 004.002411/2025-66 - Energia, n.° 004.002421/2025-00 - Energia, n.° 004.002830/2025-06 - Energia, n.° 004.001463/2025-15 - Caerd e n.° 004.002014/2026-25 - Programa de Apoio aos Motoristas e Monitores - PMATE,
+
+**DECRETA:**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 10.741.042,60 (dez milhões, setecentos e quarenta e um mil, quarenta e dois reais e sessenta centavos).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVI do Artigo o 6º da Lei nº 3.348, de 27 de novembro de 2025 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>09.00 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td colspan="7"><p><strong>09.01 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DE DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td rowspan="3"><p>09.01.12.361.311.2.790</p></td><td rowspan="3"><p>Remuneração e Encargos Sociais de Profissionais do Ensino Fundamental</p></td><td rowspan="3"><p>FIS</p></td><td><p>3.1.90.11</p></td><td><p>1.540.0070.0000.0000</p></td><td><p>5.500.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.90.16</p></td><td><p>1.540.0070.0000.0000</p></td><td><p>3.500.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.1.91.13</p></td><td><p>1.540.0070.0000.0000</p></td><td><p>1.200.000,00</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.365.155.2.772</p></td><td><p>Remuneração e Encargos Sociais de Profissionais do Ensino Infantil/PRÉ-ESCOLA</p></td><td><p>FIS</p></td><td><p>3.1.90.16</p></td><td><p>1.540.0070.0000.0000</p></td><td><p>541.042,60</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.122.313.2.273</p></td><td><p>Manutenção da sede e unidades educacionais</p></td><td><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.540.0030.0000.0000</p></td><td><p>-</p></td><td><p>6.480.000,00</p></td></tr><tr><td><p>09.01.12.361.311.2.752</p></td><td><p>Transporte escolar</p></td><td><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>1.540.0030.0000.0000</p></td><td><p>-</p></td><td><p>4.261.042,60</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>10.741.042,60</strong></p></td><td><p><strong>10.741.042,60</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>10.741.042,60</strong></p></td><td><p><strong>10.741.042,60</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito do Município
+
+***WAGNER GARCIA DE FREITAS***
+
+Secretário Municipal de Economia
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município

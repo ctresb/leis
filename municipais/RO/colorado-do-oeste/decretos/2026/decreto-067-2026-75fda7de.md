@@ -1,0 +1,55 @@
+---
+titulo: "DECRETO N° 067, DE 09 DE FEVEREIRO DE 2026"
+uf: "RO"
+municipio: "COLORADO DO OESTE"
+tipo: "Decreto"
+numero: "067"
+data: 2026-02-09
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 10/02/2026"
+data_publicacao: 2026-02-10
+codigo_identificador: "75FDA7DE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_115999_2026-02-09_a9e8fa83aa3a8573e131ea5dad384154.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N° 067, DE 09 DE FEVEREIRO DE 2026
+
+DECRETO N° 067, DE 09 DE FEVEREIRO DE 2026
+DISPÕE SOBRE CONCESSÃO DE LICENÇA
+PREMIO
+O PREFEITO DO MUNICÍPIO DE COLORADO DO OESTE,
+Estado de Rondônia, no uso de suas
+atribuições legais que lhe são conferidas pela Lei complementar nº
+071 de 28 de dezembro de 2012.
+RESOLVE:
+Art. 1° - Conceder a servidora DEILDE SANTANA DE JESUS,
+lotada na Secretaria Municipal de Saúde,
+empossada no regime estatutário em 25 de maio de 1992, ocupante do
+cargo efetivo de Merendeira, o direito
+adquirido referente ao quinquênio 2017/2022, Licença Prêmio por 90
+(noventa) dias, a ser usufruída a contar
+do dia 09 de fevereiro ao dia 09 de maio de 2026.
+Art. 2° - Este Decreto entrara em vigor na data de sua publicação.
+PALÁCIO PREFEITO CERENEU JOÃO NAUE, 09 DE
+FEVEREIRO DE 2026.
+EDMILSON RODRIGUES DE ALMEIDA
+Prefeito Municipal
+(Assinado Digitalmente)
+Av. Paulo de Assis Ribeiro, nº 4132 - Centro - Fone 069- 3341-3421 –
+CEP 76.993-000
+Email gabprefcol@hotmail.com / Site www.coloradodooeste.ro.gov.br
+COLORADO DO OESTE - RO
+Documento assinado eletronicamente (ICP-BR) por Edmilson
+Rodrigues de Almeida, Prefeito,
+em 09/02/2026 às 11:12, horário de Colorado do Oeste/RO, com
+fulcro no art. 18 do Decreto nº
+
+095 de 29/04/2020.
+A autenticidade deste documento pode ser conferida no site
+transparencia.coloradodooeste.ro.gov.br,
+informando o ID 546751 e o código verificador E2E180CA.
+Docto ID: 546751 v1
+Publicado por:
+Jéssica de Lima Almeida

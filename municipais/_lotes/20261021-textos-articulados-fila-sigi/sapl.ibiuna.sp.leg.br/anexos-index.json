@@ -1,0 +1,98 @@
+{
+  "estado": "indice_completo",
+  "total": 8,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/resolucao_15_comissao_especial_da_saude.pdf da norma Resolução nº 15, de 12 de setembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Processo da Comissão Especial de Vereadores - Situação dos Serviços Públicos de Saúde.",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2018/1/resolucao_15_comissao_especial_da_saude.pdf",
+      "ano": 2018,
+      "norma": 2311
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/pdtur_ibi_plan_estrat_rev01.pdf da norma Lei nº 2.160, de 25 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo ao Plano Diretor de Turismo da Estância Turística de Ibiúna",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2017/2/pdtur_ibi_plan_estrat_rev01.pdf",
+      "ano": 2017,
+      "norma": 1729
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/3/acordao_adi_lei_1994.pdf da norma Lei nº 1.994, de 26 de fevereiro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Acórdão do Tribunal de Justiça do Estado de São Paulo, Voto Nº 33.120, julgando procedente a Ação Direta de Inconstitucionalidade da Lei Municipal Nº 1994/2015.",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2015/3/acordao_adi_lei_1994.pdf",
+      "ano": 2015,
+      "norma": 1517
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/acordao_adin_taxa_lixo.pdf da norma Lei Complementar nº 195, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Acórdão da ADIN que declarou a inconstitucionalidade da expressão: \"e autoriza a realização da cobrança por intermédio da Companhia de Saneamento Básico do Estado de São Paulo - Sabesp\", da Lei complementar nº 195, de 15 de dezembro de 2021.",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2021/4/acordao_adin_taxa_lixo.pdf",
+      "ano": 2021,
+      "norma": 2761
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/acordao_adin_taxa_lixo.pdf da norma Lei Complementar nº 212, de 02 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Acórdão da ADIN que declarou a inconstitucionalidade integral da Lei Complementar nº 212, de 02 de dezembro de 2022.",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2022/5/acordao_adin_taxa_lixo.pdf",
+      "ano": 2022,
+      "norma": 2906
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/processo_tribunal_justica_subsidio_executivo.pdf da norma Lei nº 2.725, de 02 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Concessão da tutela de urgência para determinar a suspensão os efeitos da Lei Municipal nº 2725, de 13 de agosto de 2024, tendo sido deferido o pedido da antecipação da tutela jurisdicional até o julgamento de mérito da ação.",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2024/6/processo_tribunal_justica_subsidio_executivo.pdf",
+      "ano": 2024,
+      "norma": 3081
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/lc_231_-_processo_2216847-88.2025.8.26.0000_-_liminar_deferida.pdf da norma Lei Complementar nº 231, de 11 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Suspende a eficácia do artigo 1º, da  expressão \"Polícia Municipal\" contida nos artigos 2º, 3º, 8º, 10 e 11, no caput dos artigos 4º, 5º, 6º e 9º e o no caput e parágrafo único do artigo 7º, todos da Lei Complementar nº 231/2025, até o julgamento.",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2025/7/lc_231_-_processo_2216847-88.2025.8.26.0000_-_liminar_deferida.pdf",
+      "ano": 2025,
+      "norma": 3207
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/sentenca_judicial_-_lei_2725_de_13_de_agosto_de_2024.pdf da norma Lei nº 2.764, de 13 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Lei com ineficácia jurídica declarada por meio da Sentença proferida nos autos da Ação Civil Pública nº 1002553-31.2024.8.26.0238",
+      "anexo_arquivo": "http://sapl.ibiuna.sp.leg.br/media/sapl/public/anexonormajuridica/2024/8/sentenca_judicial_-_lei_2725_de_13_de_agosto_de_2024.pdf",
+      "ano": 2024,
+      "norma": 3136
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/950423e10a3cbe53c71608bd3e9b168be8f4428323ba514dd7e9a947fe586541.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d3ce7a2f1a79412597258e5382bc200629f9a9d452b885a2bb505455d5d0b95a",
+      "bytes": 5024,
+      "capturado_em": "2026-10-28T13:43:48.812241-03:00"
+    }
+  ]
+}

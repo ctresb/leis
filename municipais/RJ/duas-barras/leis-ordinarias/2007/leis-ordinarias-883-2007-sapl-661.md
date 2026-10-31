@@ -1,0 +1,995 @@
+---
+titulo: "Lei Ordinária-PREF nº 883, de 19 de janeiro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "883"
+data: "2007-01-19"
+municipio: "Duas Barras"
+uf: "RJ"
+codigo_ibge: "3301603"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.duasbarras.rj.leg.br/norma/661"
+fonte_texto: "https://sapl.duasbarras.rj.leg.br/media/sapl/public/normajuridica/2007/661/lm_883.2007_-_autoriza_o_poder_executivo_a_proceder_ajustes_no_ppa.pdf"
+sha256_fonte: "d1be92be234a6285df595e4e4a1d9e1060e24b1f210bf845dfb6f85a8172f95c"
+sha256_texto: "6a9ae125bfafb64e069a94ffa59ffac466addaa06e51a35fe5850fa126747d28"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária-PREF nº 883, de 19 de janeiro de 2007
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+ESTADO DO RIO DE JANEIRO
+
+Lei Municipal n.° 883, de 19 de janeiro de 2007. Autoriza o Poder Executivo a proceder ajustes no PPA-Plano Plurianual de Investimentos. Faço saber que a. CÂMARA MUNICIPAL DE DUAS BARRAS, por seus representantes legais, aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1°** - Fica o Poder Executivo autorizado a promover ajustes no PPA-Plano Plurianual com a tra que de de Investimentos em vigor do Município de Duas Barras, com a criação de Projetos não contemplados no mesmo, bem como exclusão de outros que já foram totalmente concluídos ou que tenham suas execuções inviabilizadas até 31 de dezembro de 2006.
+
+**Art.2°** - Fica também autorizado a efetuar a atualização e ajustes pertinentes nos valores do referido PPA (Plano Plurianual de Investimentos), atrelados ainda a criação ou exclusão de Projetos programados para o exercicio corrente de 2006 além daqueles programados para o exercício financeiro de 2007.
+
+**Art. 3°** - Os respectivos dispositivos delineados na presente Lei não prejudicam possíveis ajustes ou alterações do referido PPA (Plano Plurianual de Investimentos) descritos e evidenciados em Lei específica, quando da necessidade de criação de novo projeto e/ou Programa de Trabalho não contemplado no mesmo e por conseguinte no Orçamento em vigor.
+
+**Art. 4°** - Em decorrência dos arts. 1°, 2° e 3°, ficam atualizados os programas finalisticos do período (2006 - 2009) e por conseguinte o Anexo de Metas do PPA para o período inerente ao exercício de 2006 e o previsto para 2007 demonstrados a preços correntes, de modo a guardar paridade com os programas elencados no orçamento de 2006, bem como na previsão para o exercício de 2007.
+
+**Art. 5°** - Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário. Duas Barras, 19 de janeiro de 2007 PREF. MUN. DE DUAS BARRAS Antônio Carlos Pagnuzzi Araújo ANTONIO CARLOS FACNUZZI ARAÚJO Prefeito PREFEITO Praça Goverador Portela, n° 07 - centro - Duas Barras - RJ, CEP: 28.650.000 Tel: (22) 2534-1212 / Fax: (22) 2534-1788 E-mail: prefeituradeduasbarras@bol.com.br DUAS BARRAS Gor erno fazendo hi-tôria
+
+Duas Barras, 15 de dezembro de 2006. Mensagem n° 052 /2006. Exmo. Sr. Audelir Prestes Teixeira D.D. Presidente da Câmara Municipal de Duas Barras Excelentíssimo Senhor Presidente Tenho a honra de submeter à elevada consideração dessa Egrégia Casa Legislativa o anexo Projeto de Lei, que trata da necessidade de se proceder a ajustes no PPA - Plano Plurianual de Investimentos do município compreendendo o período de 2006-2009, tendo em vista a necessidade de criação de projetos novos não contemplados no respectivo PPA, bem como a necessidade de ajustes nos respectivos projetos que não tenham sido executados. Neste contexto, em conformidade com os dispositivos contidos na Constituição Federal de 1.988, na Lei Federal n° 4.320/64, na Lei Orgânica do Município e no Regimento Interno desta Colenda Casa de Leis, solicito respeitosamente que o referido projeto, seja apreciado, em caráter de URGENCIA URGENTISSIMA e, conforme solicitação desta Casa, que o mesmo receba parecer favorável das Comissões e a aprovação pelo Plenário. leia cado Atenciosamente, 20 ao dia Antonio Carlos Pagnuzz Recebi PREFEITO 26/12/ 2006
+
+DE 15 DE DEZEMBRO DE 2006 PROJETO DE LEI N.° PROVADE Autoriza o Poder Executivo a • 01 proceder ajustes no PPA-Plano Plurianual de Investimentos. Nato A CÂMARA MUNICIPAL DE DUAS BARRAS, aprova e eu sanciono a seguinte Lei:
+
+**Art. 1°** - Fica o Poder Executivo autorizado a promover ajustes no PPA-Plano Plurianual de Investimentos em vigor do Município de Duas Barras, com a criação de Projetos não contemplados no mesmo, bem como exclusão de outros que já foram totalmente concluídos ou que tenham suas execuções inviabilizadas até 31 de dezembro de 2006.
+
+**Art.2°** - Fica também autorizado a efetuar a atualização e ajustes pertinentes nos valores do referido PPA (Plano Plurianual de Investimentos), atrelados ainda a criação ou exclusão de Projetos programados para o exercício corrente de 2006 além daqueles programados para o exercício financeiro de 2007.
+
+**Art.3°** - Os respectivos dispositivos delineados na presente Lei não prejudicam possíveis ajustes ou alterações do referido PPA (Plano Plurianual de Investimentos) descritos e evidenciados em Lei específica, quando da necessidade de criação de novo projeto e/ou Programa de Trabalho não contemplado no mesmo e por conseguinte no Orçamento em vigor.
+
+**Art.4°** - Em decorrência dos arts. 1°, 2° e 3°, ficam atualizados os programas finalisticos do período (2006 - 2009) e por conseguinte o Anexo de Metas do PPA para o período inerente ao exercício de 2006 e o previsto para 2007 demonstrados a preços correntes, de modo a guardar paridade com os programas elencados no orçamento de 2006, bem como na previsão para o exercício de 2007.
+
+**Art. 5°** - Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrario. Duas Barras, 15 de dezembro de 2006 Antônio Carlos Pagnuzzi Araújo Prefeito -
+
+Prefeitura Municipal de Duas Barras VALORES CONSOLIDADOS A. RECEITA TOTAL A1. RECEITA NÃO FINANCEIRA A2. RECEITA FINANCEIRA B. DESPESA TOTAL B1. DESPESA NÃO FINANCEIRA \* B2. DESPESA FINANCEIRA D. RESULTADO PRIMÁRIO C. RESULTADO (A-B) E. RESULTADO NOMINAL ( C- (A2 - B2) DIVIDA PÚBLICA CONSOLIDADA DÍVIDA FISCAL LIQUIDA Nota-1 : Valores da despesa liquidada, considerando possíveis aberturas de créditos por superávit financeiro do exercicio anterior. \* - Despesa não financeira, considerando a estimativa da despesa a ser liquidada no respectivo exercício. ESPECIFICAÇÃO RESULTADO PRIMARIO E NOMINAL LRF, ART. 4°, # 1 METAS FISCAIS CORRENTE 21.879,9 VALOR 21.438,9 21.879,9Łł 21.379,9 441,0 -1.456,8 -2.515,8 2.887,9 500,0 0,0 59,0 CONSTANTE 19.686,0 19.289,3 VALOR 19.686,0 19.236,2 396,8 -1.310,7 449,9 -2.263,6ł 2.598,3 0,0 53,1 0,006817% 0,006679% 0,006817% 0,000137% 0,000156% 0,006661% 0,000000% 0,000018% 0,000900% -0,000454% -0,000784% % PIB CORRENTE 23.578,5 24.063,5 VALOR 24.063,5 23.513,6 485,0 -1.970,5 -4.486,3 2.519,9 549,9 64,9 0,0 CONSTANTE VALOR 20.060,8 20.473,5 20.473,5 20.005,6 2008 -1.676,5 2.144,oł 467,9 -3.817,0 55,2 0.0 | 0,007064% 0,007209% 0,007044% 0,007209% 0,000145% 0,000165% 0,000000% -0,000590% 0,000019% 0,000755% % PIB -0,001344% VALOR CORRENTE 26.326,3 25.795,7 26.326,3 25.721,6 530,6 -5.676,0 2.133,6 -1.189,7 604,8 74,2 0,0 CONSTANTE 21.231,ął 20.803,1 20.743,3 21.231,0 VALOR 427,9 2009 -4.577,4 1.720,6 487,7 -959,ął 59,8 0,0 0,000153% 0,007452% 0,007605% 0,007605% 0,007431% 0,000000% 0,000175% -0,000344% 0,000021% -0,001640% 0,000616% % PIB
+
+nual (2005=1,00) ansão da base itbi édio (2005=1,00) ca-variação anual nsão da base iptu nento ção tributaria iptu ação tributaria iss Obs1.:Utilizou-se Utilizou-se a projeção do IPCA anual médio de 5,5 % para o exercicio de e e projeção de 3,5 % (PIB ) - Crescimento Econômico para o referido exercicio. Obs2.: Legislativo, a receita base é sempre o do ano anterior. Obs.4.: Valores das Receitas estimados para 2007, tomando por base o ano anterior ( 2.006), além da variação das receitas nos exercícios imediatamente anteriores. Obs.3.: Determinadas Receitas podem conter outras variáveis para a composição do saldo estimado para 2.007. ção tributaria itbi Ressaltando que os valores expressos em R$ Constantes apresentam o crescimento econômico, desconsiderando o efeito inflacionário. Obs.5.: Valores das Receitas estimados para 2007, expressos no Orçamento em R$ Correntes, considerando o crescimento econômico e o efeito inflacionário. Obs. 1.: Valores descritos nos Anexos em R$ Constantes, ano base 2006, conforme descrito a seguir: Outras Observações : Previsão de aumento da Receita em conformidade com a política de intensificação da fiscalização tributária. legislação iptu legislação itbi legislação iss ipca medio econômico 2009 2008 Data 2007 AnO 2004 PIB % 3,5 0,0760 0,0400 0,8900 0,0000 0,0679 0,9294 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 2005 0,0570 1,0000 0,0000 0,0367 0,0200 0,9492 0,0665ŚŘę 0,0000 0,0200 0,0000 0,0000 0,0000 0,0000 2006 1,0000 0,0535 0,0300 0,0000 0,0200 0,0370 0,0000 1,0000 0,0200 0,0000 0,0000 0,0000 0,0000 2007 1,0000 1,0550 0,0550 0,0600 0,0200 0,0000 0,0000 0,0000 0,0000 0,0350 0,0200 0,0000 0,000ął 2008 1,1157 0,0000 0,0020 0,0400 0,0000 0,0575 0,0000 0,055ąłę 1,0000 0,0200 0,000ął 0,0000 0,000ą 2009 1,0000 0,0550 0,0020 0,0000 1,1770 0,0000 0,0000ął 0,0000 0,0370 0,0000 0,0530 0,0000 0,0200
+
+TABELA AUXILIAR PARA CORREÇÃO DE VALORES MUNICÍPIO DE DUAS BARRAS ( ORÇAMENTO ) Obs1. Utilizou-se a projeção do IPCA anual médio de 5,35 % para o exercício de 2006 e projeção de 3,7 % ( PIB ) - Crescimento Econômico para o referido exercício. Obs.3.: Determinadas Receitas podem conter outras variáveis para a composição do saldo estimado para 2.006. Obs2.: Legislativo, a receita base é sempre o do ano anterior. Obs. 4.: Valores das Receitas estimados para 2006, tomando por base o ano anterior ( 2.005 ), além da variação das receitas nos exercícios imediatamente anteriores. Obs.5.: Valores das Receitas estimados para 2006, expressos no Orçamento em R$ Correntes, considerando o crescimento econômico e o efeito inflacionário. Ressaltando que os valores expressos em R$ Constantes apresentam o crescimento econômico, desconsiderando o efeito inflacionário. Obs. 1.: Valores descritos nos Anexos em R$ Constantes, ano base 2005, conforme descrito a seguir: 2007 Data 2006 administração tributária iptu administração tributária itbi administração tributária iss ipca médio (2005= 1,00) crescimento econômico ipca anual (2005=1,00) expansão da base iptu expansão da base itbi ipca-variação anual legislação iptu legislação Itbi legislação iss ipca médio АЛО: 2004 0,067ą 0,0760 0,9294 PIB % 0,0000 0,9376 0,0400 0,0000 0,0000 0,000îęŚęș 0,0000 0,0000 0,0000 0,0000 3,5 3,7 2005 0,0570 0,0665 1,0000 0,036ł 1,0000 0,0200 0,0000 0,0000 0,0000 0,0000 0,0000 0,020îęšŚęș 0,0000 2006 1,0535ł 0,050ąłą 1,0000 0,0535 0,0000 0,000ął 0,0200 0,0000 0,0370 0,0000 0,0200 0,0000 0,000ął 2007 0,0550 1,0000 0,0600 0,0200 0,0000 0,0000 0,0350 1,1114 0,0000 0,0000 0,0200 0,0000 0,0000 2008 0,0575 1,0000 0,0400 1,1754 0,0550 0,0020 0,0000 0,0000 0,0000 0,0000 0,0000 0,0200 0,0000 2009 0,0020 1,2400 0,0550 0,0370 1,0000 0,0550 0,0000 0,0200 0,0000 0,000îęŚęŘ 0,0000 0,0000 0,0000
+
+UNIDADE ORÇAMENTARIA: ATIVIDADE LEGISLATIVA OBJETIVO: Apreciar proposições em geral,
+
+Procedimertos realizados PREFER URA MUNICIPAL DE DUAS BARRAS
+
+PROGRAMA: MANUTENÇÃO DO LEGISLATIVO MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA MANUTENÇÃC DAS ATIVIDADES LEGISLATIVAS ATIVIDADES DESENVOLVIDAS ATIVIDADES DESENVOLVIDAS INVESTIMENTOS REALIZADOS INVESTIMENTOS ADMINISTRATIVOS
+
+Porcentagem A
+
+exercer a fiscalização e o controle externo dos órgãos
+
+ANEXO DE METAS PPA - 2005 1'1po M.Fis. M.Fiș.
+
+874.678,00 407.603Ś 419.614 2006 2006 47.461
+
+Em apuração Índice Final PPA PREF. MUN. DE DUAS BARRAS
+
+874.678,00 419.614 407.603 47.461
+
+MANUTENÇÃC DO GABINETE DO PREFEITO PROGRAMA: MANUTENÇÃO DO GABINETE DESPESAS FEALIZADAS Atendimentos e procedimentos realizados
+
+OBJETIVO: Informatizar o gabinete e maximizar os procedimentos, buscando maior agilidade no atendimento ao público EQUIPAMENTOS ADQUTEIDOS REEQUIPAMENTO DO GABINETE DO PREFEITO
+
+UNIDADE ORÇAMENTÁRIA: GABINETE DO PREFEITO
+
+Unidace Unidacle
+
+ANEXO DE METAS PPA &ẠồỌ 2005 T1po
+
+209.341,00 209.191 2006 2006
+
+Indice Final PPA PREF. MUN. DE DUAS BARRAS ANTORIO CARLOS PAGHIZI ABALJO 1 200
+
+209.341,00 209.191/
+
+Órgãos atendidos MANUTENÇÃC DA SECRETARIA MUNICIPAL DE GO OBJETIVO: Expandir atividades da Secretaria Geral de Governo, maximizando os procedimentos internos, PROGRAMA: MANUT. SECADM. PLANEJ. DESENVOLVIMENTO FORMADOS, AMPLIADOS E REEQUIPADOS MANUTENÇÃC DO TRANSPORTE UNIVERSITÁRIO ENCARGOS PAGOS
+
+ATIVIDADES DESENVOLVIDAS ATIVIDADES DESENVOLVIDAS ATIVIDADES COM CURSOS DE CAPACITAÇÃO PRO PRÓPRIOS ADMINISTRATIVOS CONSTRUÍDOS, RE UNIDADE ORÇAMENTARIA: SEC. MUN. GOVERNO ADM. PLANEJ. DESENVOLV. VERNO, ADMINISTRAÇÃO, PLANEJAMENTO E DES FISSIONAL PARA OS SERVIDORES DA PREFEITU
+
+REALIZAÇÃC DE CONCURSO PÚBLICO RA SERVIDORES CAPACITADOS ENVOLVIMENTO ENCARGOS DE EXERCÍCIOS ANTERIORES CONCURSO PÚBLICO REALIZADO UIPAMENTOS DE PRÓPRIOS ADMINISTRATIVOS CONSTRUÇÃO, REFORMAS E AMPLIAÇÕES E REEQ
+
+Unidacle
+
+Mtz
+
+ANEXO DE METAS PPA \* 2005
+
+M.Fis.
+
+1.240.271,00 207.707 130.250 873.078 2006 2006 29.236
+
+Em apuraçã® interagindo c/outros órgãos Índice Final PPA
+
+1.240.271,00 873.078 130.250 207.707 29.236
+
+MANUTENÇA DA PROCURADORIA OBJETIVO: Otimizar os procedimentos internos de análise jurídica dos diversos processos PREFELTURA MUNICIPAL DE DUAS BARRAS Processos analisados
+
+ATIVIDADES DESENVOLVIDAS NA PROCURADORIA
+
+UNIDADE ORÇAMENTARIA: PROCURADORIA JURÍDICA REEQUIPAMENTO DA PROCURADORIA JURIDICA EQUIPAMENTOS ADQUIFIDOS PROGRAMA: MANUTENÇÃO DA PROCURADORIA JURIDICA
+
+ANEXO DE METAS PPA - 2005
+
+74.:40,00 2006 2006 71.645 2.495
+
+Em apuração Índice Final ANTONIO CARLOS PAGNIZO ABADA PREF. NUN. DE DUAS B RES
+
+PREFESTO / PPA 74.140,00 71.645 2.495
+
+UNIDADE ORÇAMENTÁRIA: SECRETARIA MUNICIPAL DE FAZENDA OBJETIVO: Incrementar as receitas próprias do
+
+§ de exparsão da receita tributária MANUTENÇÃC DA SECRETARIA MUNICIPAL DE FA PROGRAMA: MANUTENÇÃO DA SECRETARIA DE FAZENDA. E FAZENDA
+
+ATIVIDADES DESENVOLVIDAS NA SECRETARIA D REEQUIPAMENTO DA SECRETARIA MUNICIPAL DE CONTRA-PARTIDA DE CONVÊNIOS/TARIFAS ZENDA EQUIPAMENTOS ADQUIRIDOS SENTENÇAS JUDICIAIS/ PRECATÓRIOS SENTENÇAS PAGAS FAZENDA CONVÊNIOS REALIZADOS E TARIFAS PAGAS
+
+ANEXO DE METAS PPA - 2005 municipio atraves de
+
+918.327,00 830.483 2006 2006 83.700 4.144 uma secretaria atuante e
+
+moderna 4,5% Índice Final PPA ANTONIO CARLOS PAGAUTE MANJO
+
+918.327,00 830.483ł 83.700 4.144
+
+PROGRAMA: MANUT. SEC.OBRAS SERV. PÚBLICOS MANUTENÇÃC DOS SERVIÇOS DE ILUMINAÇÃO PIJ Número de habitantes beneficiados UNIDADE ORÇAMENTÁRIA: SEC MUNICIPAL DE OBRAS E SERV.PÚBLICOS MANUTENÇÃO DOS SERVIÇOS URBANOS
+
+ENCARGOS PAGOS
+
+ATIVIDADES DESENVOLVIDAS NA MANUTENÇÃO D
+
+OBJETIVO: Realizar obras em geral nos logradouros do municipio, melhorando a qualidade de vida da população ÁSICO URBANO ILUMINAÇÃO PÚBLICA REEQUIPAMENTO DA SECRETARIA DE OBRAS E S ENCARGOS DE EXERCÍCIOS ANTERIORES-OBRAS INVESTIMENTOS REALIZADOS NO SANEAMENTO B INVESTIMENTO NA INFRA ESTRUTURA URBANA OS SERVIÇOS URBANOS ERVIÇOS PUBLICOS BLICA ATIVIDADES DESENVOLVIDAS COM SERVIÇOS DE INVESTIMENTO NO SANEAMENTO BÁSICO URBANO INVESTIMENTOS REALIZADOS EQUIPAMENTOS ADQUIRIDOS
+
+Unidacle Mt2 Mt2
+
+ANEXO DE METAS PPA " 2005
+
+995.343,00 211.414 360.976 269.049 141.900 2006 2006 12.004
+
+Índice Mais Recente Em apuração Índice Final PPA PREF. ANTÓNIO CARLOS PAGNUZZA ARAUJO 10000 MUN. DE DUAS E
+
+PREFEITO 2O7O 995.343,00 211.414 360.976 269.049 141.900 12.004
+
+OBJETIVO: Pavimentar, drenar e realizar obras em geral nos logradouros do municipio, melhorando a qualidade de vida da população M2 de Obias realizadas UNIDADE ORÇAMENTÁRIA: SEC MUNICIPAL DE OBRAS E SERV PÚBLICOS AMPLIADAS E/OU REFCRMADAS
+
+ADAS MADAS
+
+PROGRAMA: DESENVOLV. E INFRA-ESTRUT URBANA ILUMINAÇÃO PÚBLICA AMPLIADA CONSTRUÇÃC DE CASAS POPULARES RA CONDOMÍNIO INDUSTRIAL CALÇADAS E AFINS CONSTRUÍDAS E/OU REFORM CONSTRUÇÃO, AMPLIAÇÃO E/OU REFORMAS DE P PRAÇAS, PARQUES E JARDINS, CONSTRUIDAS, CONDOMÍNIO INDUSTRIAL PÓRTICO E MIRANTE CONSTRUÍDO ONTES NO MUNICIPIO OBRAS REALIZADAS FINS CASAS POPULARES CONSTRUÍDAS S, PARQUES E JARDINS INVESTIMENTO EM ILUMINAÇÃO PÚBLICA DE E MIRANTE DESAPROPRIAÇÃO E AÇUISIÇÃO DE IMÓVEIS PA PONTES CONSTRUÍDAS, AMPLIADAS E/OU REFOR CONSTRUÇÃC E/OU REFORMAS DE CALÇADAS E A CONSTRUÇÃC DE PAREIÕES E MUROS DE ARRIMO
+
+CONSTRUÇÃC, AMPLIAÇÃO E/OU REFORMA-PRAÇA CONSTRUÇAC DE PÓRTICO NA ENTRADA DA CIDA
+
+Unidace Mt2 Mt2 Mt2 Mt2 Mt2 Mt2 Mt2
+
+ANEXO DE METAS PPA - 2005
+
+40.315,00 2006 40.310 2006
+
+Indice Mais Recente Índice Final PPA PREF. ANTONTO CARLOS PAGHU 1C08 PREFEITO E DUAS
+
+654m2 40.315,00 40.310 8 0
+
+PREFELTURA MUNICIPAL DE DUAS BARRAS UNIDADE ORÇAMENTARIA: SEC.MUNICIPAL DE OBRAS E SERV. PUBLICOS
+
+PROGRAMA: DESENVOLV. E INFRA-ESTRUT URBANA OBJETIVO: Pavimentar, drenar e realizar obras em geral nos logradouros do municipio, melhorando a qualidade de vida da população
+
+ANEXO DE METAS PPA - 2005 ARTORTO CARLOS PAGRUZZ ARAUJO PREFEITO
+
+PROGRAMA: MANUT. SEC. EDUCAÇÃO E ESPORTE Taxa de evasão escclar no Ensino Fundamental Taxa de repetência escolar no ensino fundamental
+
+MANUTENÇÃC DO TRANSPORTE - ENSINO FUNDAM O ENSINO FUNDAMENTAL MANUTENÇÃC DA EDUCAÇÃO INFANTIS NDAMENTAL
+
+MADOR
+
+MANUTENÇÃC DO ENSIXO FUNDAMENTAL OBJETIVO: Manutenção, revitalização do setor e UNIDADE ORÇAMENTÁRIA: SEC. MUNICIPAL DE EDUCAÇÃO E ESPORTE AQUISIÇÃO DE EQUIPAMENTOS ESCOLARES PARA UNIDADES ESCOLARES CONSTRUÍDAS, AMPLIADA ATIVIDADES DESENVOLVIDAS COM O ENSINO FU ATIVIDADES DESENVOLVIDAS NA MANUTENÇÃO D ATIVIDADES DESENVOLVIDAS COM O ESPORTE A INVESTIMENTO NO ESFORTE AMADOR S E REFORMADAS MANUTENÇA DO ESPORTE AMADOR INFANTIL ENTAL O TRANSPORTE EQUIPAMENTOS ESCOLARES ADQUIRIDOS CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDA MANUTENÇÃC DO TRANSPORTE INFANTIL INVESTIMENTOS REALIZADOS DES ESCOLARES PARA O ENSINO FUNDAMENTAL ATIVIDADES DESENVOIVIDAS COM A EDUCAÇÃO
+
+Unidace
+
+Mt2 Mt2
+
+ANEXO DE METAS PPA - 2005 capacitação das crianças através de processo pedagógico para o
+
+M.Fis.
+
+M. Fís.
+
+3.414.889,00 2.176.871 523.456 559.162 14.205 56.705 2006 2006
+
+Índice Mais Recente
+
+PREF. MUN. DE DU A TORNO CARLOS PAD Indice Final PPA desenvolvimento 10%
+
+3.414.889,00 2.176.871 523.456ąś 559.162 56.705łŚ 14.205
+
+soc.
+
+UNIDADE ORÇAMENTÁRIA: SEC.MUNICIPAL DE EDUCAÇÃO E ESPORTE
+
+PROGRAMA: MANUT. SEC. EDUCAÇÃO E ESPORTE OBJETIVO: Manutenção, revitalização do setor e ATIVIDADES DESENVOLVIDAS
+
+ANEXO DE METAS PPA - 2005 capacitação das
+
+crianças através de processo pedagógico para o desenvolvimento soc. 83.89łął PREE. SONY DE DUAS ANTONIO CARLOS PAGA 83.890
+
+AQUISIÇÃO DE EQUIPAMENTOS ESCODARES PARA UNIDADE ORÇAMENTÁRIA: SEC MUNICIPAL DE EDUCAÇÃO E ESPORTE
+
+EQUIPAMENTOS ADQUIRIDOS Taxa de evasão escclar
+
+OBJETIVO: Melhorar a infra-estrutura da educação e incremento do esporte no município PROGRAMA: MANUT E REVIT.DA EDUCAÇÃO INFANTIL UNIDADES ESCOLARES CONSTRUÍDAS, AMPLIADA DES ESCOLARES PARA EDUCAÇÃO INFANTIL S E REFORMADAS EDUCAÇÃO INFANTIL CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDA
+
+Mt2
+
+ANEXO DE METAS PPAẠỊ 2005
+
+M.Fis. M. Fis .
+
+3.808,00 2006 2006 3.600
+
+Indice Mais Recente indice Final PPA 0%
+
+3.808,00 3.600
+
+UNIDADE ORÇAMENTÁRIA: F.U.N.D.E.F.
+
+OBJETIVO: Maximizar a utilização dos recursos do FUNDEE Taxa de crianças alfabetizadas MANUTENÇAC DO TRANSPORTE ESCOLAR - ENSIN
+
+MANUTENÇÃC DO ENSINO FUNDAMENTAL - FUNDE
+
+ATIVIDADES DESENVOLVIDAS COM O FUNDEE
+
+PROGRAMA: MANUTENÇÃO DO FUNDEE O FUNDAMENTAL - FUNDEF INVESTIMENTO NO ENSINO FUNDAMENTAL - FUN ATIVIDADES DESENVOLVIDAS COM O FUNDEF ATIVIDADES DESENVOLVIDAS COM O TRANSPORT DEF E ESCOLAR - FUNDEF
+
+ANEXO DE METAS PPA \* 2005
+
+M.Fis.
+
+1.716.395,00ź 1.279.095Í 282.300Ś 155.000 2006 2006
+
+Em apuração Índice PREE. NON DE DUAS BARRAS Final PPA 100%
+
+1.716.395,00 1.279.095 155.000 282.300Ś
+
+UNIDADE ORÇAMENTARIA: SEC. MUNICIPAL CULTURA E TURISMO PROGRAMA: MANUT. SEC. CULTURA E TURISMO Número de eventos culturais realizados no município OBJETIVO: Resgate dos aspectos culturais do municipio e desenvolvimento das ações inerentes
+
+Dados Fihanceiros MANUTENÇÃC E OPERACIONALIZAÇÃO DA SECRET
+
+A DE CULTURA EQUIPAMENTOS ADQUIRIDOS INVESTIMENTO NA CUITURA REEQUIPAMENTO E MATERIAL PERMANENTE-BIBL ARIA DE CULTURA IOTECA PUELICA ATIVIDADES DESENVOLVIDAS COM A SECRETARI INVESTIMENTOS REALIZADOS
+
+Unidace
+
+ANEXO DE METAS PPA • 2005
+
+M.Fis.
+
+117.536,00 117.536 2006 2006
+
+Em apuração cultura Indice PREE. MUN. Final PPA
+
+• DE DUAS BARRAS 117.536,00 117.536
+
+UNIDADE ORÇAMENTÁRIA: SEC. MUNICIPAL CULTURA E TURISMO
+
+OBJETIVO: Promover o Turismo no Município ÁREA REG CNAL ATENTIDA PROGRAMA: PROMOÇÃO DO PRODUTO TURISMO MANUTENÇAC DO FUNDO MUNICIPAL DE TURISMO FESTAS E EVENTOS REALIZADOS
+
+PREVIDÊNCIA SOCIAL ATIVIDADES DESENVOLVIDAS ATIVIDADES DESENVOLVIDAS DESENVOLVIMENTO E INCREMENTO AO TURISMO REALIZAÇÃC DE FESTAS E EVENTOS PREVIDÊNCIA SOCIAL
+
+ANEXO DE METAS PPA \* 2005 11po
+
+479.965,00 458.11ął 2006 2006 1.6.728 1.000 4.127
+
+N
+
+em apuração ANITORIO CARLOS PACIEZ ABALO PREF. MÚN. DE DUAS BARRAS Indice Final PPA VERTO
+
+479.965,00 458.110 16.728 4.127 1.000
+
+CONTRIBUIÇÕES REALIZADAS DESPESAS REALIZADAS COM A PREVIDÊNCIA SO
+
+Beneficiários atendidos OBJETIVO: Manter os programas assistenciais e previdenciarios aos respectivos beneficiários CONTRIBUIÇÃO AO PASEP PREVIDÊNCIA SOCIAL CIAL
+
+PROGRAMA: MANUT ASSISTENCIA E PREVIDENCIA
+
+UNIDADE ORÇAMENTÁRIA: ASSISTÊNCIA E PREVIDÊNCIA PREFELTORA MUNICIPAL DE DUAS BARRAS
+
+ANEXO DE METAS PPA ' 2005
+
+353.940,00 21.0.490 143.450 2006 2006
+
+Em apuração Indice Final PPA ANTONIO CARLOS PAGIUZA ARAUJO PREF. MÓN. DE DUAS BARRAS 100%
+
+PREFEIT 353.940,00 210.490 143.450
+
+UNIDADE ORÇAMENTÁRIA: SEC. MUN. AGRICULTURA E NETO AMBIENTE Taxa de expansão da produção agrícola do município PROGRAMA: MANUT. SEC.AGRICULT. E MEIO AMBIENTE OBJETIVO: Propiciar melhor atendimento da secretaria aos produtores rurais
+
+INVESTIMENTO NA AGRICULTURA E MEIO AMBIE INVESTIMENTOS REALIZADOS AGRICULTUFA E MEIO AMBIENTE - MANUTENÇÃO ATIVIDADES DESENVOLVIDAS COM A AGRICULTU NT E DA SECRETARIA RA E MEIO AMBIENTE
+
+Mt 2
+
+ANEXO DE METAS PPA - 2005
+
+515.587,00 478.448 37.139 2006 2006
+
+Índice Mais Em apuração Recente Indice Final PPA PREF. MUN. DE DUAS BARRAS
+
+30% 515.587,00 478.448 37.13ęąźł
+
+UNIDADE ORÇAMENTARIA: SEC MUNICIPAL DE TRANSFORTE
+
+§ de estradas pavimentadas e em boas condições de uso
+
+PROGRAMA: MANUTENÇÃO DA SEC DE TRANSPORTE
+
+MANUTENÇA E OPERACIONALIZAÇÃO DA SECRET OBJETIVO: Maximizar o setor de transporte e melhoria da intra-estrutura de transporte INFRA-ESTRUTURA REALIZADA REEQUIPAMENTO DA SECRETARIA MUNICIPAL DE ÃO (ASFALIAMENTO/CALÇAMENTO) -ESTRADAS E O E OPERACIONALIZAÇÃO DA SECRETARIA DE T RANSPORTE RUAS ATIVIDADES DESENVOLVIDAS COM A MANUTENÇÁ ARIA DE TEANSPORTE TRANSPORTE EQUIPAMENTOS ADQUIFIDOS INFRA-ESTRUTURA DE TRANSPORTE-PAVIMENTAÇ
+
+Mt2
+
+ANEXO DE METAS PPA " 2005 ripo M.Fis.
+
+857.849,00 823.771 2006 2006 34.078
+
+Em apuração Indice Final PPA ANTONO CARLOS PAGAVEZ ARAUJO
+
+PREFEITO
+
+857.849,00 823.771 34.078
+
+UNIDADE ORÇAMENTÁRIA: SEC MUNICIPAL DE TRANSPORTE MANUTENÇA DE ESTRADAS VICINAIS OBJETIVO: Propiciar uma melhoria nas estradas vicinais PROGRAMA: REVIT. INFRA-ESTRUT. TRANSP, MUN,
+
+Percentual da População atendida E ESTRADAS VICINAIS ATIVIDADES DESENVOLVIDAS NA MANUTENÇÃO D
+
+ANEXO DE METAS PPAẠỊ 2005
+
+121.717,00 121.717 2006 2006 Indice Mais Recente em apuração Indice Final PREF. MON. DE DUAS BARRAD ANTONIO CARLOS PAGIUZZI ARAUJO
+
+121.717,00 PPA 121.717
+
+UNIDADE ORÇAMENTÁRIA: FUNDO MUNICIPAL DE SAÚDE
+
+OBJETIVO: Modernização dos serviços públicos de saúde visando o bem estar da população PROGRAMA: MANUTENÇÃO DO FUNDO DE SAUDE Numero de pacientes atendidos
+
+CONSTRUÇAC, AMPLIAÇÃO E REFORMA DO HOSPI HOSPITAL E POSTOS DE SAÚDE CONSTRUÍDOS REEQUIPAMENTO DO FUNDO MUNICIPAL DE SAÚD MANUTENÇÃO E OPERACIONALIZAÇÃO DO FUNDO TAL E POSTOS DE SAUDE
+
+MUNICIPAL DE SAÚDE ARA EXPANSÃO DO HOSPITAL E/OU POSTOS DE ATIVIDADES DESENVOLVIDAS EQUIPAMENTOS ADQUIRIDOS HOSPITAIS E POSTOS DE SAÚDE DESAPROPRIAÇÃO E AÇUISIÇÃO DE TERRENOS P SAÚDE
+
+produto
+
+Mt2
+
+ANEXO DE METAS PPA ¿$¿ 2005
+
+4.388.746,00 4.203.108 124.476 2006 61.032 2006
+
+Em apuração Indice Final PPA PREF MUN. ANTONIO CARLOS PAS NOZE ARAUJO . DE DUA PREFEIT 100%
+
+4.388.745,00 4.203.108 BARRAS 124.476 61.032
+
+PROGRAMA: MANUT. FUNDO DE ASSISTENCIA SOCIAL UNIDADE ORÇAMENTÁRIA: FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL OBJETIVO: Proporcionar à equipe do Fundo de Assistência Social, a oportunidade de participar de congressos População carente atendida
+
+EQUIPAMENTOS ADQUIRIDOS REEQUIPAMENTO DO FUNDO MUNICIPAL DE ASSI ATIVIDADES DESENVOLVIDAS MANUTENÇA DO FUNDO MUNICIPAL DE ASSISTE
+
+STÊNCIA SCCIAL OBRAS E REFORMAS DO FUNDO DE ASSISTÊNCIA OBRAS REALIZADAS SOCIAL NCIA SOC..AL SUBVENÇÕES CONCEDIDAS SUBVENÇÕES SOCIAIS A PESTALOZZI E APAE CONSTRUÇÃC DE CASAS POPULARES PARA POPUL PROGRAMA DE DESENVOLVIMENTO PARA JOVENS AÇÃO DE BAIXA RENDA JOVENS ATENDIDOS CASAS CONTRUIDAS
+
+ANEXO DE METAS PPA " 2005
+
+729.268,00 557.862 2006 2006 56.010 15.396
+
+Em apuração Indice Final PPA PREF. MUN. seminarios/reequip. PREFEITO
+
+100%
+
+729.263,00 657.862 15.396 56.010
+
+UNIDADE ORÇAMENTÁRIA: FUNDO MUN.DIR. CRIANÇA E PROGRAMA: MANUT. FUNDO DIR. CRIANÇA ADOLESCENTE OBJETIVO: Apoiar a criança e o adolescente em ações que visem o seu bem estar social Taxa de crianças atendidas MANUTENÇÃO E OPERACIONALIZAÇÃO DO FUNDO MUN.DIR. CRIANÇA E ADOLESCENTE
+
+INVESTIMENTOS REALIZADOS ATIVIDADES DESENVOLVIDAS E ADOLESCENTE INVESTIMENTO NO FUNDO MUN. DIR. CRIANÇA
+
+ANEXO DE METAS PPA 2005 ADOLESCENTE
+
+M.Fis.
+
+73.925,00 2006 2006 69.692 4.23ąłś
+
+En apuração Índice PREF. MON. DE DUAS ANTONIO CARLOS PAGIULA ARAUJO Final PPA 95%
+
+73.925,00 69.692 4.233
+
+UNIDADE ORÇAMENTÁRIA: FUNDO MUN DESENVOLVIMENTO SUSTENTÁVEL
+
+PROGRAMA: MANUT. FUNDO DESENY, SUSTENTAVEL OBJETIVO: Proporcionar aos produtores e suas familias a melhoria tecnológica visando um melhor atendimento ao produtor Produtores atendidos
+
+MANUTENÇAC E OPERACIONALIZAÇÃO DO FUNDO O SUSTENTAVEL MUNICIPAL DE DESENVOLVIMENTO SUSTENTĂVEL INVESTIMENTO DO FUEDO MUN.DESENVOLVIMENT INVESTIMENTOS REALIZADOS ATIVIDADES DESENVOLVIDAS
+
+ANEXO DE METAS PPA ẠỌ 2005
+
+183..61,00 182.665 2006 2006
+
+En apuração Indice Final PPA REF. NAN. DE DUAS/BARRAS INTONIO CARLOS PAGNIZA ARAUJO 85%
+
+Blab 183.161,00 182.665
+
+PROGRAMA: PRO-LIXO UNIDADE ORÇAMENTARIA: FUNDO MUN. DESENVOLVIMENTO SUSTENTÁVEL
+
+MANUTENÇÃO E OPERACIONALIZAÇÃO DO PROGRA
+
+OBJETIVO: Maximizar os serviços de coleta e reciclagem de lixo urbano MA DO LIXO ATIVIDADES DESENVOLVIDAS
+
+residências com coleta domiciliar de lixo
+
+ANEXO DE METAS PPA - 2005
+
+M. Fis
+
+152.041,00 152.041 2006 2006
+
+Em apuração PREF, MUM. DE DUAS/BARRAS Indice Final PPA
+
+152.041,00 152.041
+
+UNIDADE ORÇAMENTARIA: IAPDE PROGRAMA: PREVIDÊNCIA SOCIAL À SEGURADOS
+
+OBJETIVO: Maximizar as ações de Previdência junto aos diversos segurados
+
+Taxa de aposentados e pensionistas atendidos
+
+PAGAMENTOS DE SEGURADOS E PENSIONISTAS PAGAMENTOS REALIZADOS
+
+ANEXO DE METAS PPA \* 2005
+
+601.804,00 501.804Ś 2006 2006 Indice Mais Recente Indice Final PPA PREF. MUN. DE DUAS BARRAS ANTONHO CARLOS PAGILEZ ARALJO PREFEITO 100%
+
+601.801,00 601.804
+
+UNIDADE ORÇAMENTÁRIA: IAPDE
+
+OBJETIVO: Implementar e modernizar as instalações e equipamentos do instituto, de modo a realizar serviços de melhor qualidade PROGRAMA: MANUTENÇÃO DO IAPDE
+
+Número de benefícios concedidos aos aposentados e pensionistas MANUTENÇAC DO IAPDE ATIVIDADES DESENVOLVIDAS
+
+EQUIPAMENTOS ADQUIEIDOS REEQUIPAMENTO DO IAPDE
+
+Unidacle
+
+ANEXO DE METAS PPA — 2005
+
+121.500,00 109.635 2006 2006 11.865
+
+Em apuração PREE MUN. DE DUAS BARRAS ATRO CARDOS CAI ANAO Indice Final PPA 90%
+
+121.500,00 109.635 11.865
+
+OBJETIVO: Melhoria dos equipamentos do setor com entase em intornatica PROGRAMA: MANUT. SECREMARIA DISTRITAL MONNERAT Número de equipamentos adquiridos
+
+MANUTENÇAC DOS SERVIÇOS URBANOS-SEC.MONN MONNERAT REEQUIPAMENTO DA SECRETARIA DISTRITAL DE ERAT EQUIPAMENTOS ADQUIEIDOS ATIVIDADES DESENVOLVIDAS
+
+Uniarce
+
+ANEXO DE METAS PPA " 2005 ripo
+
+567.:52,00 559.152 2006 2006 8.000 Indice Mais Recente Indice Final PBA PREF. MUN. DE DUAS VARRAS ANTERIO CARLOS PAGA E ARAPO PREFEITO
+
+567.152,00 8.000
+
+MANUTENÇÃO DOS SERVIÇOS DE ILUMINAÇÃO PU PREFELTURA MUNICIPAL DE DUAS BARRAS
+
+UNIDADE ORÇAMENTÁRIA: SECRETARIA DISTRITAL DE MONNERAT PROGRAMA: ILUMINAÇÃO PÚBLICA-MONNERAT OBJETIVO: Proporcionar a manutenção e expansão da iluminação pública a todos os munícipes § do município atendido por iluminação pública INVESTIMENTO EM ILUMINAÇÃO POBSICA-SECAM
+
+ONNERAT BLICA-SEC. MONNERAT ATIVIDADES DESENVOLVIDAS
+
+INVESTIMENTOS REALIZADOS
+
+Produto.
+
+Mtz
+
+ANEXO DE METAS PPA ẠỌẠ 2005 1'1po M. Fís.
+
+20.022,00 2006 20. 00₴Ś 2006
+
+Em apuração PREF. NON. DE DUAS BARRAS ANTORTO CARLOS PAINEL ARAUJO Indice Final PPA · 0-20.008
+
+90% 20.022,00
+
+M2 de obras realizadas UNIDADE ORÇAMENTÁRIA: SECRETARIA DISTRITAL DE MONNERAT
+
+PROGRAMA: REVIT. INFRA-ESTRIT. TRANSP-MONNERAT
+
+OBJETIVO: Pavimentar, drenar e realizar obras INVESTIMENTO EM INFRA-ESTRUTURA DE TRANS PORTE E DIVERSOS-SEC.MONNERAT INVESTIMENTOS REALIZADOS
+
+Mt2
+
+ANEXO DE METAS PPAẠỊ 2005 em geral nos logradouros do municipio, melhorando a qualidade de vida da população 11po
+
+51.487,0 2006 2006 51.487
+
+Em apuração Índice Final PPA PREE, ¡RUN. DE DUAS BARRAS ANTONIO CARLOS PADRIZA ABAUDO
+
+4000 51.487,00š 51.48ZŚ
+
+UNIDADE ORÇAMENTARIA: DEFESA CIVIL OBJETIVO: Otimizar os serviços e prevenção de acidentes pelo setor
+
+PROGRAMA: PROTEÇÃO PATRIMONIO PUB. MUNICIPAL MANUTENÇÃC E OPERACIONALIZAÇÃO DA DEFESA
+
+Índice de riscos inerentes Dados Financelros EQUIPAMENTOS ADQUIRIDOS REEQUIPAMENTO DA DEFESA CIVIL ATIVIDADES DESENVOLVIDAS CIVIL
+
+ANEXO DE METAS PPA ẠỌ 2005
+
+231.785,00 231.108 2006 2006
+
+ANTONIO CARLOS PACHUTE ARAUJO PREF. MUN. DE DUAS BÁRRAS Índice Final PPA PREFEITO PEtA
+
+0 %
+
+231.785,00źł 231.108
+
+PROGRAMA: MANUTENÇÃO DO LEGISIATIVO ATIVIDADES DESENVOLVIDAS MANUTENÇAC DAS ATIVIDADES LEGISLATIVAS MANUTENÇAC DAS ATIVIDADES DA SECRETARIA
+
+ATIVIDADES DESENVOLVIDAS
+
+UNIDADE ORÇAMENTÁRIA: ATIVIDADE LEGISLATIVA
+
+PREFEIURA MUNICIPAL DE DUAS BARRAS OBJETIVO: Apreciar proposições em geral, exercer a fiscalização e o controle externo dos órgãos INVESTIMENTOS ADMINISTRATIVOS Procedimertos realizados INVESTIMENTOS REALIZADOS
+
+Porcentagem
+
+Uniarce
+
+ANEXO DE METAS PPA 2005
+
+905.291,00 421.869 134.300 2007 2007 49.122
+
+Em apuração Indice Final PPA PREF MUN. DE DUAS ANTONIO CARLOS PARANOI ARAUJO
+
+Авав 905.291,00 PREFE 434.300 421.869 49.122 BARRAS
+
+MANUTENÇÃC DO GABINETE DO PREFEITO
+
+DESPESAS REALIZADAS
+
+EQUIPAMENTOS ADQUIRIDOS Estado do Rio de Janetro OBJETIVO: Informatizar o gabinete e maximizar os procedimentos, buscando maior agilidade no atendimento ao publico Atendimentos e procedimentos realizados UNIDADE ORÇAMENTÁRIA: GABINETE DO PREFEITO REEQUIPAMENTO DO GABINETE DO PREFEITO PROGRAMA: MANUTENÇÃO DO GABINETE
+
+ANEXO DE METAS PPA ẠỌ 2005
+
+256.:.40,00 199.196 2007 2007 56.944 Indice Mais Recente Indice Final PPA
+
+PREF. JUN. DE DUAS BARRAS ANTONIO CARLOS PAGIOZZI ARAUJO
+
+256.140,00 PREFEITO 199.196 56.944
+
+Orgãos atendidos
+
+MANUTENÇÃC DA SECRETARIA MUNICIPAL DE GO OBJETIVO: Expandir atividades da Secretaria Geral de Governo, maximizando os procedimentos internos, interagindo c/outros órgãos UNIDADE ORÇAMENTÁRIA: SEC.MUN GOVERNO ADM. PLANEJ DESENVOLVA Estado do Rio de Janetro PROGRAMA: MANUT SECADM. PLANEJ DESENVOLVIMENTO FORMADOS, AMPLIADOS E REEQUIPADOS
+
+REALIZAÇÃC DE CONCURSO PÚBLICO
+
+CONSTRUÇÃO, REFORMAS E AMPLIAÇÕES E REEQ UIPAMENTOS DE PRÓPRIOS ADMINISTRATIVOS MANUTENÇÃC DO TRANSPORTE UNIVERSITÁRIO PRÓPRIOS ADMINISTRATIVOS CONSTRUÍDOS, RE ATIVIDADES COM CURSOS DE CAPACITAÇÃO PRO ENCARGOS FAGOS VERNO, ADMINISTRAÇÃO, PLANEJAMENTO E DES ATIVIDADES DESENVOLVIDAS CONCURSO FÚBLICO REALIZADO FISSIONAL PARA OS SERVIDORES DA PREFEITU SERVIDORES CAPACITADOS ENVOLVIMENTO RA ENCARGOS DE EXERCICIOS ANTERIORES ATIVIDADES DESENVOLVIDAS
+
+Mt2
+
+ANEXO DE METAS PPA - 2005
+
+M.Fis.
+
+1.211.319,00źę 789.610 208.27łą 184.28ОŚęš 2007 2007 21.000 3.470 4.681
+
+Em apuração Indice Final PPA
+
+1.211.319,00 208.27šęśŚŘ 789.610 21.000 4.681 3.47ł
+
+PREFELTURA MUNICIPAL DE DUAS BARRAS PROGRAMA: MANUTENÇÃO DA PROCURADORIA JURIDICA MANUTENÇAC DA PROCURADORIA
+
+OBJETIVO: Otimizar os procedimentos internos de analise juridica dos diversos processos UNIDADE ORÇAMENTÁRIA: PROCURADORIA JURÍDICA
+
+ATIVIDADES DESENVOLVIDAS NA PROCURADORIA Processos analisados EQUIPAMENTOS ADQUIRIDOS
+
+REEQUIPAMENTO DA PROCURADORIA JURIDICA
+
+ANEXO DE METAS PPA - 2005
+
+77.085,0îš 2007 2007 74.260 2.825 Índice Mais Recente Em apuração Indice Final PPA PREE. MUN! DE DUAS BARRAS LITORTO CARLOS PADRUZLI ARAUDO PREFEITO 98%
+
+77.085,00 74.260
+
+• de exparsão da receita tributária OBJETIVO: Incrementar as receitas próprias do município através de uma secretaria atuante e moderna CONTRA-PARTIDA DE CONVÊNIOS/TARIFAS E FAZENDA
+
+EQUIPAMENTOS ADQUIRIDOS ATIVIDADES DESENVOLVIDAS NA SECRETARIA D
+
+PROGRAMA: MANUTENÇAO DA SECRETARIA DE FAZENDA MANUTENÇAC DA SECRETARIA MUNICIPAL DE FA FAZENDA CONVÊNIOS REALIZADOS E TARIFAS PAGAS ZENDA REEQUIPAMENTO DA SECRETARIA MUNICIPAL DE SENTENÇAS PAGAS SENTENÇAS JUDICIAIS/PRECATÓRIOS
+
+Unidace
+
+ANEXO DE METAS PPA &ẠỌẠ 2005
+
+959.771,00 510.198 140.000 2007 2007 3.573
+
+4,58 PREY. MUM. DE DUAS BARRAS Indice Final PPA
+
+959.771,00 140.00ął 810.198łŚš 3.573 6.000
+
+PROGRAMA: MANUT. SEC.OBRAS SERV. PUBLICOS UNIDADE ORÇAMENTÁRIA: SEC. MUNICIPAL DE OBRAS E SERV. PÚBLICOS OBJETIVO: Realizar obras em geral nos logradouros do municipio, Número de habitantes beneficiados
+
+EQUIPAMENTOS ADQUIRIDOS MANUTENÇA DOS SERVIÇOS URBANOS ENCARGOS FAGOS OS SERVIÇOS URBANOS
+
+ATIVIDADES DESENVOLVIDAS NA MANUTENÇÃO D INVESTIMENTO NA INFRA ESTRUTURA URBANA INVESTIMENTOS REALIZADOS REEQUIPAMENTO DA SECRETARIA DE OBRAS E S MANUTENÇÃO DOS SERVIÇOS DE ILUMINAÇÃO PO ENCARGOS DE EXERCÍCIOS ANTERIORES-OBRAS INVESTIMENTO NO SANEAMENTO BÁSICO URBANO ATIVIDADES DESENVOLVIDAS COM SERVIÇOS DE ILUMINAÇÃO PÚBLICA BLICA ÁSICO URBANO ERVIÇOS PUBLICOS INVESTIMENTOS REALIZADOS NO SANEAMENTO B
+
+Mt 2 Mt2
+
+ANEXO DE METAS PPA - 2005
+
+859.346,00 450.240 321.494 melhorando a qualidade de vida da população 2007 2007 12.469 68.385 3.000 3.758
+
+Em apuração Indice Final PPA PREFEITO DE DUAS 10000
+
+859.345,00 450.240 321.494 68.385 12.469 3.758 3.000
+
+MADAS M2 de Obras realizadas PONTES CONSTRUÍDAS, AMPLIADAS E/OU REFOR OBRAS REALIZADAS CONSTRUÇÃC, AMPLIAÇÃO E/OU REFORMAS DE P CALÇADAS E AFINS CONSTRUÍDAS E/OU REFORM PROGRAMA: DESENVOLV. E INFRA-ESTRUT URBANA OBJETIVO: Pavimentar, drenar e realizar obras em geral nos logradouros do município, melhorando a qualidade de vida da população PRAÇAS, PARQUES E JARDINS, CONSTRUIDAS, CONSTRUÇÃC DE CASAS POPULARES PÓRTICO E MIRANTE CONSTRUÍDO S, PARQUES E JARDILS UNIDADE ORÇAMENTARIA: SEC MUNICIPAL DE OBRAS E SERV PUBLICOS ONTES NO MUNICIPIO
+
+ADAS ILUMINAÇÃO PÚBLICA AMPLIADA
+
+AMPLIADAS E/OU REFORMADAS
+
+CONSTRUÇÃO E/OU REFORMAS DE CANÇADAS E A CONSTRUÇÃC DE PARELÕES E MUROS DE ARRIMO CONSTRUÇÃO DE PÓRTICO NA ENTRADA DA CIDA DESAPROPRIAÇÃO E AÇUISIÇÃO DE IMÓVEIS PA CONSTRUÇÃO, AMPLIAÇÃO E/OU REFORMA-PRAÇA INVESTIMENTO EM ILUMINAÇÃO PÚBLICA RA CONDOMINIO INDUSTRIAL DE E MIRANTE FINS CONDOMÍNIO INDUSTRIAL CASAS POPULARES CONSTRUÍDAS
+
+Prod.it.o
+
+Mt2 Mt2 Mt2 Mt2 Mt2 Mt 2 Mt2
+
+ANEXO DE METAS PPA - 2005
+
+M. Fís.
+
+340.:17,00 202.000 11.000 10.000 2007 10.000 32.033 20.00ął 28.615 26.469 2007 1.50îšŚÛ
+
+Indice Mais Recente Índice Final PPA ANTONIO CARLOS IRANIZZI APALLO PREFEITO
+
+654m2 340.117,00 202.000 26.469 28.615 11.000 10.000 32.033 20.000 10.000 1.500
+
+OBJETIVO: Pavimentar, drenar e realizar obras em geral nos logradouros do municipio, melhorando a qualidade de vida da população UNIDADE ORÇAMENTARIA: SEC MUNICIPAL DE OBRAS E SERV. PUBLICOS PROGRAMA: DESENVOLV. E INFRA-ESTRUT URBANA
+
+ANEXO DE METAS PPA ẠỌ 2005 PREF. MUN. DE DUAS/BARRAS ANTONIO CARLOS PASRUZLARAVO PREFETO Xo taxt
+
+OBRAS REALIZADAS UNIDADE ORÇAMENTÁRIA: SEC MUNICIPAL DE OBRAS E SERV PÚBLICOS PREFELTURA MUNICIPAL DE DUAS BARRAS
+
+OBJETIVO: Pavimentar, drenar e realizar obras em geral nos logradouros do municipio, melhorando a qualidade de vida da população
+
+UADRAS, GINASIOS E AFINS PROGRAMA: DESENVOLV. E INFRA-ESTRUT URBANA CONSTRUÇÃC, AMPLIAÇÃO E/OU REFORMAS DE 2 taxa de expansão da prática de esportes no município
+
+Mt2
+
+ANEXO DE METAS PPA ẠỌẠ 2005
+
+13.650,00 2007 2007 13 . 650
+
+em apuração Indice Final PPA ANTONIO CARLOS PAGHIZA ABAUJO PREF. NUN. DE DUAS/BARRAS
+
+20% PREFEITO// Ao tent 13.650,00 13.650
+
+NDAMENTAL MANUTENÇÃO DO ENSINO FUNDAMENTAL
+
+MANUTENÇÃC DO TRANSPORTE - ENSINO FUNDAM Taxa de repetência escolar no ensino fundamental MANUTENÇÃC DA EDUCAÇÃO INFANTIS
+
+OBJETIVO: Manutenção, revitalização do setor e capacitação das crianças através de processo pedagógico para o Taxa de evasão escolar no Ensino Fundamental UNIDADE ORÇAMENTARIA: SEC. MUNICIPAL DE EDUCAÇÃO E ESPORTE PROGRAMA: MANUT. SEC. EDUCAÇÃO E ESPORTE UNIDADES ESCOLARES CONSTRUÍDAS, AMPLIADA CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDA ATIVIDADES DESENVOLVIDAS COM O ESPORTE A ATIVIDADES DESENVOLVIDAS NA MANUTENÇÃO D S E REFORMADAS MANUTENÇÃC DO ESPORTE AMADOR INFANTIL ENTAL MANUTENÇA DO TRANSPORTE INFANTIL O TRANSPORTE MADOR O ENSINO FUNDAMENTAL EQUIPAMENTOS ESCOLARES ADQUIRIDOS AQUISIÇÃO DE EQUIPAMENTOS ESCOLARES PARA ATIVIDADES DESENVOLVIDAS COM O ENSINO FU INVESTIMENTO NO ESFORTE AMADOR INVESTIMENTOS REALIZADOS DES ESCOLARES PARA O ENSINO FUNDAMENTAL ATIVIDADES DESENVOLVIDAS COM A EDUCAÇÃO
+
+Unidace
+
+Unidacle
+
+Unidace
+
+Mt2 Mt2
+
+ANEXO DE METAS PPAồẠỊ 2005
+
+3.356.694,00 1.954.824 540.480 560.879 2007 2007 26.893 16.605 40.00oł 10.000
+
+32% 6$⅗ ANTONIO CARLOS PAGRIZO ABALAO desenvolvimento
+
+10% 3.356.691,00 1.954.824 560.879 640.48îŚłŘỒ 10.000 40.000 26.893 16.605
+
+sOc.
+
+OBJETIVO: Manutenção, revitalização do setor e capacitação das crianças através de processo pedagógico para o desenvolvimento soc.
+
+ATIVIDADES DESENVOLVIDAS PROGRAMA: MANUT SEC.EDUCAÇÃO E ESPORTE UNIDADE ORÇAMENTARIA: SEC MUNICIPAL DE EDUCAÇÃO E ESPORTE
+
+ANEXO DE METAS PPA ' 2005
+
+107.013 PREF MUN. DE DUAS BARRAS ANTONIO CARLOS PARIUZZI ARAUJO X668 PREFEI 107.013
+
+UNIDADE ORÇAMENTÁRIA: SEC MUNICIPAL DE EDUCAÇÃO E ESPORTE PREFETTURA MUNICIPAL DE DUAS BARRAS
+
+UNIDADES ESCOLARES CONSTRUÍDAS, AMPLIADA CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE UNIDA DES ESCOLARES PARA EDUCAÇÃO INFANTIL OBJETIVO: Melhorar a infra-estrutura da educação e incremento do esporte no município PROGRAMA: MANUT. E REVIT.DA EDUCAÇÃO INFANTIL EQUIPAMENTOS ADQUIRIDOS S E REFORMADAS Taxa de evasão escolar EDUCAÇÃO INFANTIL
+
+AQUISIÇÃO DE EQUIPAMENTOS ESCOSARES PARA
+
+Mt2
+
+ANEXO DE METAS PPA ẠỌ 2005
+
+13.974,00 2007 2007 9.974 4.000
+
+Indice Mais Recente Índice Final PPA
+
+13.974,00 4.000 9.974
+
+MANUTENÇÃC DO TRANSPORIE ESCOLAR - ENSIN E ESCOLAR - FUNDEF Taxa de crianças alfabetizadas ATIVIDADES DESENVOLVIDAS COM O TRANSPORT MANUTENÇÃC DO ENSINO FUNDAMENTAL - FUNDE OBJETIVO: Maximizar a utilização dos recursos do FUNDEF O FUNDAMENTAL - FUNDEF
+
+PROGRAMA: MANUTENÇÃO DO FUNDEF UNIDADE ORÇAMENTÁRIA: F.U.N.D.E.F. ATIVIDADES DESENVOLVIDAS COM O FUNDEF ATIVIDADES DESENVOLVIDAS COM O FUNDEF DEF
+
+INVESTIMENTO NO ENSINO FUNDAMENTAL - FUN
+
+ANEXO DE METAS PPA ẠỌ 2005 de
+
+1.805.000,00 1.490.000 311.000 2007 2007 4.00ąłz
+
+Em apuração Indice Final PPA ANTERO A OS RECA RALA PREF. NUN. DE DU
+
+100% 1.805.000,00 1.490.000 S/BARRAS 311.000 4.000
+
+MANUTENÇAC E OPERACIONALIZAÇÃO DA SECRET Número de eventos culturais realizados no municíp:o OBJETIVO: Resgate dos aspectos culturais do município PROGRAMA: MANUT. SEC. COLMURA E TURISMO EQUIPAMENTOS ADQUIRIDOS IOTECA PUBLICA
+
+A DE CULTURA ATIVIDADES DESENVOLVIDAS COM A SECRETARI
+
+ARIA DE CULTURA INVESTIMENTOS REALIZADOS UNIDADE ORÇAMENTÁRIA: SEC. MUNICIPAL CULTURA E TURISMO REEQUIPAMENTO E MATERIAL PERMANENTE-BIBE
+
+INVESTIMENTO NA CUITURA
+
+ANEXO DE METAS PPAẠỊ 2005
+
+M.Fis.
+
+desenvolvimento das ações inerentes a 148.979,00 142.329ł 2007 2007 2.280 4.37ąłś
+
+Em apuração cultura Índice Final PPA 16890 PREFEITO DE DUAS BARRAS
+
+148.979,00 142.329 2.280 4.370
+
+MANUTENÇÃC DO FUNDO MUNICIPAL DE TURISMO
+
+ÁREA REGINAL ATENDIDA
+
+UNIDADE ORÇAMENTÁRIA: SEC. MUNICIPAL CULTURA E TURISMO PREVIDÊNCIA SOCIAL REALIZAÇAC DE FESTAS E EVENTOS DESENVOLVIMENTO E INCREMENTO AO TURISMO OBJETIVO: Promover o Turismo no Municipio PROGRAMA: PROMOÇÃO DO PRODUTO TURISMO FESTAS E EVENTOS REALIZADOS PREVIDÊNCIA SOCIAL ATIVIDADES DESENVOLVIDAS
+
+ATIVIDADES DESENVOLVIDAS
+
+ANEXO DE METAS PPA " 2005 ripo
+
+M. Fís.
+
+447.378,00 432.856 2007 2007 4.246 9.260 1.016
+
+Indice Mais em apuração Recente Indice PREFEIT Final
+
+l'otal 447.378,00 PPA 432.856 9.260 1.016 4.246
+
+CONTRIBUIÇÃO AO PASEP
+
+CIAL DESPESAS PEALIZADAS COM A PREVIDENCIA SO CONTRIBUIÇÕES REALIZADAS OBJETIVO: Manter os programas assistenciais e previdenciários aos respectivos beneficiários UNIDADE ORÇAMENTÁRIA: ASSISTÊNCIA E PREVIDÊNCIA PROGRAMA: MANUT ASSISTENCIA E PREVIDÊNCIA
+
+PREVIDENCIA SOCIAL Beneficiários atendidos
+
+Estado do Kio de Janeiro
+
+ANEXO DE METAS PPA ' 2005
+
+799.000,00 220.000 579.000 2007 2007
+
+Em apuração PREF. MUN, DE DURS/ ANTONIO CARLOS PAGNUTA ARALLO Indice Final PPA Aotato PREFEITO
+
+100%
+
+799.000,00 220.000 579.000
+
+OBJETIVO: Propiciar melhor atendimento da secretaria aos produtores rurais UNIDADE ORÇAMENTARIA: SEC.MUN AGRICULTURA E MEIO AMBIENTE Taxa de expansão da produção agrícola do município PROGRAMA: MANUT. SEC.AGRICULT, E MEIO AMBIENTE RA E MEIO AMBIENTE
+
+ATIVIDADES DESENVOLVIDAS COM A AGRICULTU INVESTIMENTO NA AGRICULTURA E MEIO AMBIE AGRICULTUFA E MEIO AMBIENTE - MANUTENÇÃO DA SECRETARIA NTE INVESTIMENTOS REALIZADOS
+
+Mt 2
+
+ANEXO DE METAS PPA ẠỌ 2005
+
+463.097,00 141.930 21.167 2007 2007
+
+En apuração Índice Final PPA ANTONTO CARLOS PAGACIL ARAUJO
+
+30%
+
+PREFEI 463.097,00 441.930 21.16îłŘ·
+
+RANSPORTE MANUTENÇÃC E OPERACIONALIZAÇÃO DA SECRET ATIVIDADES DESENVOLVIDAS COM A MANUTENÇÃ
+
+OBJETIVO: Maximizar o setor de transporte e melhoria da infra-estrutura de transporte ÃO (ASFALIAMENTO/CALÇAMENTO) - ESTRADAS E O E OPERACIONALIZAÇÃO DA SECRETARIA DE T EQUIPAMENTOS ADQUIRIDOS TRANSPORTE
+
+INFRA-ESTRUTURA REALIZADA ARIA DE TEANSPORTE UNIDADE ORÇAMENTÁRIA: SEC. MUNICIPAL DE TRANSFORTE REEQUIPAMENTO DA SECRETARIA MUNICIPAL DE INFRA-ESTEUTURA DE TRANSPORTE-PAVIMENTAÇ RUAS PROGRAMA: MANUTENÇÃO DA SEC DE TRANSPORTE Estado do Kio de Saneiro § de estradas pavimentadas e em boas condições de uso PREFELTURA MUNICIPAL DE DUAS BARRAS
+
+Mt2
+
+ANEXO DE METAS PPA Ạ 2005
+
+995.384,00 947.323 2007 2007 45.361 2.700
+
+Em apuração Índice Final PPA PREFEITO
+
+90% 995.384,00 947.323 45.361 2.700
+
+UNIDADE ORÇAMENTÁRIA: SEC. MUNICIPAL DE TRANSFORTE E ESTRADAS VICINAIS
+
+MANUTENÇÃO DE ESTRADAS VICINAIS
+
+OBJETIVO: Propiciar uma melhoria nas estradas vicinais ATIVIDADES DESENVOLVIDAS NA MANUTENÇÃO D PROGRAMA: REVIT.INFRA-ESTRUT.TRANSP.MUN. Percentual da População atendida Estado ao no de Janeiro
+
+ANEXO DE METAS PPA ẠỌ 2005
+
+123.088,00 123.088 2007 2007 Índice Mais Recente em apuração PREF. MUN, DE DUAS BARRAS ANTONIO CARLOS PAGRULA ARAUJO Indice Final PPA ·8Q8 PREFEITO
+
+98% 123.088,00 123.088
+
+ATIVIDADES DESENVOLVIDAS DESAPROPRIAÇÃO E AÇUISIÇÃO DE TERRENOS P ARA EXPANSÃO DO HOSPITAL E/OU MANUTENÇÃO E OPERACIONALIZAÇÃO DO FUNDO SAÚDE HOSPITAIS E POSTOS DE SAÚDE MUNICIPAL DE SAUDE EQUIPAMENTOS ADQUIFIDOS TAL E POSTOS DE SAUDE
+
+REEQUIPAMENTO DO FUNDO MUNICIPAL DE SAÚD HOSPITAL E POSTOS DE SAÚDE CONSTRUÍDOS CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DO HOSPI OBJETIVO: Modernização dos serviços públicos de saúde visando o bem estar da população UNIDADE ORÇAMENTÁRIA: FUNDO MUNICIPAL, DE SAÚDE Numero de pacientes atendidos
+
+PROGRAMA: MANUTENÇÃO DO FUNDO DE SAUDE
+
+Estado do Rio de saneiro
+
+Prod.t.o POSTOS DE
+
+Unidace
+
+Mt2
+
+ANEXO DE METAS PPA ẠỌẠ 2005
+
+4.700..85,00 4.561.293 2007 16.653 16.782 2007/ 5.457
+
+Em apuração PREF. MUN. DE DUAS BARRAS ANTONIO CARLOS PAGAALEI ARAVEO Índice Final PPA
+
+100% 4.700.185,00 4.661.293 16.782 16.653 5.45łšŚ
+
+CASAS CONTRUIDAS CONSTRUÇÃC DE CASAS POPULARES PARA POPUL AÇÃO DE BAIXA RENDA SUBVENÇÕES CONCEDIDAS OBRAS E REFORMAS DO FUNDO DE ASSISTÊNCIA PROGRAMA DE DESENVOLVIMENTO PARA JOVENS SUBVENÇÕES SOCIAIS A PESTALOZZI E APAE MANUTENÇAO DO FUNDO MUNICIPAL DE ASSISTE JOVENS ATENDIDOS OBRAS REALIZADAS EQUIPAMENTOS ADQUIFIDOS ATIVIDADES DESENVOLVIDAS SOCIAL NCIA SOCIAL STÊNCIA SCCIAL
+
+REEQUIPAMENTO DO FUNDO MUNICIPAL DE ASSI
+
+OBJETIVO: Proporcionar à equipe do Fundo de Assistência Social, a oportunidade de participar de congressos e seminários/reequip. População carente atendida UNIDADE ORÇAMENTÁRIA: FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL PROGRAMA: MANUT. FUNDO DE ASSISTENCIA SOCIAL
+
+ANEXO DE METAS PPA ẠỌ 2005
+
+700.920,00 513.093 14.000 38.000 16.000 17.547 2007 2007 2.280
+
+Em apuração PREF. MÚN. DE DUAS BARRAS Indice Final PPA
+
+lotal 100% 700.920,00 613.093 16.000 38.000 17.547 4.00ął 2.28łł
+
+MANUTENÇÃO E OPERACIONALIZAÇÃO DO FUNDO MUN. DIR. CRIANÇA E ADOLESCENTE ATIVIDADES DESENVOLVIDAS INVESTIMENTO NO FUNDO MUN. DIR. CRIANÇA E ADOLESCENTE INVESTIMENTOS REALIZADOS
+
+PROGRAMA: MANUT. FUNDO DIR. CRIANÇA ADOLESCENTE Taxa de crianças atendidas OBJETIVO: Apoiar a criança e o adolescente em ações que visem o seu bem estar social UNIDADE ORÇAMENTÁRIA: FUNDO MUN. DIR. CRIANÇA E ADOLESCENTE
+
+ANEXO DE METAS PPAẠỌ 2005
+
+41.399,0î 32.899 2007 2007 8.500 Índice Mais Recente Em apuração Índice Final PPA PREF. MON. DE QUAS 1862
+
+95% 41.399,00 32.899 8.500
+
+MUNICIPAL DE DESENVOLVIMENTO SUSTENTAVEL ATIVIDADES DESENVOLVIDAS MANUTENÇA E OPERACIONALIZAÇÃO DO FUNDO O SUSTENTAVEL INVESTIMENTO DO FUEDO MUN. DESENVOLVIMENT INVESTIMENTOS REALIZADOS
+
+OBJETIVO: Proporcionar aos produtores e suas famílias a melhoria tecnológica visando um melhor atendimento ao produtor UNIDADE ORÇAMENTÁRIA: FUNDO MUN DESENVOLVIMENTO SUSTENTÁVEL PROGRAMA: MANUT FUNDO DESENY. SUSTENTAVEL
+
+Produtores atendidos
+
+Estado ao Kio de Janeiro
+
+Unidade A
+
+ANEXO DE METAS PPA Ạ 2005
+
+121.863,00 91.863 2007 30.000 2007
+
+Em apuração ANTERIO CARLOS PAVOZZI ARAUJO PREF. MUN. DE DUAS BARRAS Indice Final PPA
+
+121.863,00 91.863 30.000
+
+MANUTENÇÃC E OPERACIONALIZAÇÃO DO PROGRA MA DO LIXC
+
+ATIVIDADES DESENVOLVIDAS
+
+OBJETIVO: Maximizar os serviços de coleta e reciclagem de lixo urbano UNIDADE ORÇAMENTARIA: FUNDO MUN. DESENVOLVIMENTO SUSTENTÁVEL § residências com coleta domiciliar de lixo PROGRAMA: PRÓ-LIXO
+
+Estado do Rio de Janetro
+
+ANEXO DE METAS PPA ẠỌẠ 2005
+
+93.500,00 93.500 2007 2007
+
+Em apuração ANTO CARLOS NETO ARNALO Indice Final PPA
+
+85% 93.500,00 93.500
+
+ATIVIDADES DESENVOLVIDAS MANUTENÇA DO IAPDE
+
+REEQUIPAMENTO DO IAPDE EQUIPAMENTOS ADQUIFIDOS Número de benefícics concedidos aos aposentados e pensionistas UNIDADE ORÇAMENTÁRIA: IAPDE
+
+OBJETIVO: Implementar e modernizar as instalações e equipamentos do instituto, de modo a realizar serviços de melhor qualidade PROGRAMA: MANUTENÇÃO DO IAPDB
+
+ANEXO DE METAS PPA 2005
+
+125.752,00 113.472 2007 1.2.280 2007
+
+Em apuração PREF. RUN. DE DUAS SARRAS ANT CHIO CARLOS PAREI ARAUJO АBQ8 Índice Final PPA
+
+90% 125.752,00 113.472 12.280
+
+UNIDADE ORÇAMENTARIA: IAPDE
+
+OBJETIVO: Maximizar as ações de Previdência Junto aos diversos segurados PAGAMENTOS DE SEGURADOS E PENSIONISTAS Taxa de aposentados e pensionistas atendidos PAGAMENTOS REALIZADOS
+
+PROGRAMA: PREVIDÊNCIA SOCIAL À SEGURADOS Estado ao Rio de Saneiro
+
+ANEXO DE METAS PPA - 2005
+
+522.867,00 522.867 2007 2007 Indice Mais Recente indice Final PPA PREE, MON, DE QUA ANTONIO CARLOS PARECE AGRESS
+
+100% 622.867,00 622.867
+
+EQUIPAMENTOS ADQUIFIDOS MANUTENÇAC DOS SERVIÇOS URBANOS-SEC.MONN
+
+MONNERAT ATIVIDADES DESENVOLVIDAS ERAT
+
+REEQUIPAMENTO DA SECRETARIA DISTRITAL DE OBJETIVO: Melhoria dos equipamentos do setor com ênfase UNIDADE ORÇAMENTÁRIA: SECRETARIA DISTRITAL DE MONNERAT
+
+Número de equipamentos adquiridos PROGRAMA: MANUT. SECRETARIA DISTRITAL MONNERAT
+
+ANEXO DE METAS PPA &ẠỌ 2005
+
+em informática 533.729,00 530.729 2007 2007 3.00ął Índice Mais Recente Indice Final PPA ANTO CARLOS REALIZA RALO PREF MUM. DE OUAY BARRAS 1800°
+
+533.729,00 530.729
+
+MANUTENÇÃO DOS SERVIÇOS DE ILUMINAÇÃO PÍ
+
+INVESTIMENTOS REALIZADOS ATIVIDADES DESENVOLVIDAS
+
+OBJETIVO: Proporcionar a manutenção e expansão da iluminação pública a todos os munícipes UNIDADE ORÇAMENTÁRIA: SECRETARIA DISTRITAL DE MONNERAT BLICA-SEC. MONNERAT ONNERAT PROGRAMA: ILUMINAÇÃO PUBLICA-MONNERAT INVESTIMENTO EM ILUMINAÇÃO PÚBLICA-SECAM
+
+do município atendido por iluminação pública
+
+Mt2
+
+ANEXO DE METAS PPA " 2005
+
+40.950,00 34.700 2007 2007 6.250
+
+Índice Mais Recente Em apuração ANTONIO CARLOS PAGIUZZA ARAUJO PREF. MUX. Indice Final PPA 1 ов
+
+90% 40.950,00 34.700 6.250
+
+INVESTIMENTOS REALIZADOS PORTE E DIVERSOS-SEC. MONNERAT
+
+INVESTIMENTO EM INFRA-ESTRUTURA DE TRANS OBJETIVO: Pavimentar, drenar e realizar obras M2 de obras realizadas UNIDADE ORÇAMENTÁRIA: SECRETARIA DISTRITAL DE MONNERAT PROGRAMA: REVIT.INFRA-ESTRUT. TRANSP-MONNERAT
+
+Mt2
+
+ANEXO DE METAS PPA &ẠỌ 2005 de em geral nos logradouros do município, melhorando a qualidade de vida da população 11po
+
+38.908,00 2007 38.908 2007
+
+Indice Mais Recente indice Final PPA Em apuração ANTONO CARLOS PAGNUZA REALJO PREF. MUN. DE & PREFEITO
+
+4000 38.908,00 38.908
+
+INVESTIMENTOS REALIZADOS INVESTIMENTO NO SANEAMENTO BÁSICO URBANO
+
+-SEC . MONNERAT
+
+§ da população com serviços de saneamento básico UNIDADE ORÇAMENTARIA: SECRETARIA DISTRITAL DE MONNERAT OBJETIVO: Expansão e melhoria de saneamento básico PROGRAMA: REVIT. SANEAMENTO BÁSICO MONERRAT
+
+Mt2
+
+ANEXO DE METAS PPA ¿$¿ 2005
+
+20.:70,00 20.170ł 2007 2007
+
+Em apuração PREE. MUN. DE DUAS BARRAS ANTORIO CARLOS PAGROZZI ARAUJO Indice Final PPA
+
+20.170,00 20.170
+

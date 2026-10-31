@@ -1,0 +1,3335 @@
+DISPÕE SOBRE O CODIGO DE OBRAS DO MUNICIPIO DE COLORADO DO OESTE, ESTADO DE RONDÔNIA, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito Municipal de Colorado do Oeste, Estado de Rondônia, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou, e ele, sanciona e promulga a seguinte:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES ADMINISTRATIVAS
+
+
+##### Seção I — Dos objetivos e da responsabilidade técnica
+
+
+Art. 1º.
+
+Toda e qualquer construção, reforma e ampliação de edifícios, efetuada por particulares ou entidades públicas, a qualquer título, no município de Colorado do Oeste, é regulada pelo presente Código, obedecidas as normas Federais e Estaduais relativas à matéria.
+
+
+Parágrafo único
+
+Este código complementa sem substituir as exigências de caráter urbanístico estabelecidas por Legislação específica municipal que regule o uso e ocupação do solo e as características fixadas e paisagem urbana.
+
+
+Art. 2º.
+
+Este código tem como objetivo:
+
+
+I –
+
+orientar os projetos e a execução de edificações no município;
+
+
+II –
+
+assegurar a observância de padrões mínimos de segurança, higiene e conforto das edificações de interesse para a comunidade;
+
+
+III –
+
+promover a melhoria de padrões de segurança, higiene, salubridade e conforto de todas as edificações em seu território.
+
+
+Art. 3º.
+
+Para efeito deste código, somente profissional habilitado e devidamente inscrito na Prefeitura poderá assinar, como responsável técnico, qualquer documento, projeto ou especificação.
+
+
+Parágrafo único
+
+A responsabilidade civil pelos serviços de projeto, cálculo e especificação cabe aos seus autores e responsáveis técnicos; e pela execução das obras, aos profissionais que as construírem.
+
+
+Art. 4º.
+
+Só poderão ser inscritos na Prefeitura, profissionais que apresentem a Certidão de Registro Profissional do Conselho Regional de Engenharia, Arquitetura e Agronomia — CREA.
+
+
+Parágrafo único
+
+As firms e os profissionais legalmente habilitados deverão, para o exercício de suas atividades no município de Colorado do Oeste, estar escritos em cadastro próprio do órgão técnico da Prefeitura, no cadastro fiscal do município e estar quite com a fazenda municipal.
+
+
+Art. 5º.
+
+Se por qualquer razão for substituído o responsável técnico de uma construção, o fato deverá ser comunicado à Prefeitura com uma descrição da obra até o ponto onde termina a responsabilidade de um e começa a de outro. Se não for feita a comunicação, a responsabilidade permanecerá a mesma para todos os efeitos legais.
+
+
+Art. 6º.
+
+A prefeitura comunicará ao respectivo Conselho Regional de Engenharia, Arquitetura e Agronomia, o nome e registro dos construtores que:
+
+
+I –
+
+não obedecerem aos projetos devidamente aprovados, aumentando ou diminuindo as dimensões nas plantas e cortes;
+
+
+II –
+
+prosseguirem a execução da obra embargada pela Prefeitura;
+
+
+III –
+
+alterarem as especificações indicadas nas especificações técnicas, as dimensões ou elementos das peças de resistência;
+
+
+IV –
+
+hajam incorrido em 03 (três) multas por infração cometida na mesma obra.
+
+
+Art. 7º.
+
+Os edifícios públicos, de acordo com o parágrafo 2º do artigo 227 da Constituição Federal, deverão possuir condições técnicas construtivas que assegurem aos deficientes físicos pleno acesso à circulação nas suas dependências.
+
+
+Art. 8º.
+
+O responsável pelas instalações de atividades que possam ser causadoras de poluição, de acordo com art. 225 da Constituição Federal, ficará sujeito a apresentar o projeto ao órgão estadual que tratar do controle ambiental para exame e aprovação, sempre que a Prefeitura Municipal julgar necessário.
+
+
+##### Seção II — Das definições
+
+
+Art. 9º.
+
+Para efeito do presente Código, são adotadas as seguintes definições:
+
+
+I –
+
+ABNT: Associação Brasileira de Normas Técnicas;
+
+
+II –
+
+alinhamento: a linha divisória entre o terreno de propriedade particular e a via ou logradouro público (anexo — desenho 01);
+
+
+III –
+
+Alvará de Construção ou Licença de Construção: documento que autoriza a execução das obras sujeitas à fiscalização da Prefeitura;
+
+
+IV –
+
+apartamento: unidade autônoma de moradia em conjunto habitacional multi-familiar;
+
+
+V –
+
+aprovação de projeto: ato administrativo que precede o licenciamento das obras de construção de edifícios;
+
+
+VI –
+
+aprovação de obra e/ou Habite-se: ato administrativo que corresponde à autorização da Prefeitura para a ocupação da edificação;
+
+
+VII –
+
+área construída: a soma das áreas dos pisos utilizáveis cobertos ou não de todos os pavimentos de uma edificação;
+
+
+VIII –
+
+área ocupada: a projeção, em plano horizontal, da área construída situada acima do nível do solo (anexo — desenho 02);
+
+
+IX –
+
+áreas institucionais: a parcela dos terrenos destinada as edificações para fins específicos comunitários ou de utilidade pública, tais como educação saúde, cultura, administração, etc;
+
+
+X –
+
+coeficientes de aproveitamento: a relação entre a soma das áreas construídas sobre terreno e a área desse mesmo terreno:
+
+C.A = Soma das áreas construídas
+
+Área do Terreno
+
+
+XI –
+
+declividade: a relação percentual entre a diferença das cotas altimétricas de dois pontos e a sua distancia horizontal (anexo — desenho 03);
+
+
+XII –
+
+dependência de uso comum: conjunto de dependência ou instalação da edificação que poderão ser utilizadas em comum por todos ou por parte dos usuários;
+
+
+XIII –
+
+embargo: ato administrativo que determina a paralisação de uma obra;
+
+
+XIV –
+
+especificação: descrição dos materiais e serviços empregados na construção;
+
+
+XV –
+
+faixa *"non aedificandi"*: área do terreno onde não será permitida qualquer construção vinculando-se o seu uso a uma servidão;
+
+
+XVI –
+
+faixa sanitária: área *"non aedificandi"* cujo uso será vinculado à servidão de passagem para efeito de drenagem e captação de águas pluviais, ou ainda para rede de esgoto (anexo — desenho 04);
+
+
+XVII –
+
+galeria comercial: conjunto de lojas voltadas para passeio coberto, com acesso à via publica;
+
+
+XVIII –
+
+garagens particulares coletivas: são as construídas no lotes em subsolo ou mais pavimentos pertencentes a conjuntos residenciais ou edifícios de uso comercial;
+
+
+XIX –
+
+garagens comerciais: são consideradas aquelas destinadas a locação de espaço para estabelecimento e guarda de veículos, podendo neles haver serviços de lavagem, lubrificação e abastecimento;
+
+
+XX –
+
+licenciamento de obras: ato administrativo que concede licença e prazo para início e término de uma obra;
+
+
+XXI –
+
+passeio e/ou calçada: parte da via de circulação destinada ao trânsito de pedestre (anexo — desenho 05);
+
+
+XXII –
+
+patamar: superfície intermediária entre dois lances de escada (anexo — desenho 06);
+
+
+XXIII –
+
+pavimento: conjunto de dependência situado no mesmo nível;
+
+
+XXIV –
+
+recuo: distância entre o limite externo da projeção horizontal da edificação e a divisa do lote (anexo — desenho 08):
+
+
+XXV –
+
+UF: Unidade Fiscal;
+
+
+XXVI –
+
+vistoria: diligência efetuada pela Prefeitura tendo por fim verificar as condições de uma construção ou obra.
+
+
+##### Seção III — Das consultas e licenças
+
+
+Art. 10.
+
+É facultativa a apresentação do estudo preliminar à Prefeitura para consulta.
+
+
+Art. 11.
+
+Para efeito de aprovação do projeto e concessão do Alvará de Construção, deverão ser apresentados à Prefeitura os seguintes documentos:
+
+
+I –
+
+requerimento solicitando aprovação do projeto e emissão do alvará de construção assinado pelo proprietário ou procurador;
+
+
+II –
+
+projetos completos em 03 (três) jogos de copias heliográficas, sem rasuras, assinadas pelo proprietário autor e o responsável técnico, dos quais, após visados 02 (dois) jogos, ficarão em poder do proprietário, sendo que um deverá ficar obrigatoriamente na obra.
+
+
+III –
+
+Anotação de Responsabilidade Técnica—ART, fornecida pelo CREA;
+
+
+IV –
+
+fotocópia do documento de propriedade do lote urbano;
+
+
+V –
+
+certidão de alinhamento expedida pelo órgão competente da Prefeitura Municipal de Colorado do Oeste.
+
+
+Art. 12.
+
+Após a aprovação do projeto, a Prefeitura, mediante o pagamento das taxas e emolumentos, fornecerá a licença de construção válida por 06 (seis) meses, contados a partir de sua expedição e, somente após a sua emissão, poderá ser efetivado o inicio da obra.
+
+
+§ 1º
+
+A licença de construção poderá ser revista e tornada sem efeito pela administração mediante anulação, revogação, cassação e prescrição.
+
+
+§ 2º
+
+As licenças de construção poderão ser revalidadas por 06 (seis) meses.
+
+
+§ 3º
+
+Nas revalidações de licenças de construção será cobrada uma taxa de 50% do valor da licença normal.
+
+
+Art. 13.
+
+As obras aprovadas de acordo com o presente código de obras deverão ser iniciadas no prazo máximo de 45 (quarenta e cinco) dias a contar da data de expedição do alvará de construção.
+
+
+Art. 14.
+
+Para efeito deste código considera-se obra iniciada para prescrição do alvará a conclusão das fundações e baldrames, a demolição das paredes nas reformas com acréscimo ou não da área ou a demolição da metade das paredes nas reconstruções.
+
+
+Art. 15.
+
+A licença referente à obra não iniciada no prazo de 45 (quarenta e cinco) dias, contados a partir de sua expedição, será considerada prescrita, ainda que na mesma conste anotação posterior relativa as modificações no projeto aprovado.
+
+
+Art. 16.
+
+Também ocorrerá prescrição da licença caso haja paralisação da obra por prazo superior a 06 (seis) meses.
+
+
+Parágrafo único
+
+Quando houver paralisação da obra, o proprietário deverá comunicar oficialmente a Prefeitura Municipal.
+
+
+Art. 17.
+
+O prazo consignado na licença não correrá durante os impedimentos a seguir mencionados, desde que devidamente comprovada sua duração por documento hábil:
+
+
+I –
+
+desocupação do imóvel por ação judicial;
+
+
+II –
+
+decretação de utilidade pública;
+
+
+III –
+
+calamidade pública;
+
+
+IV –
+
+quando justificados por decisões judiciais.
+
+
+Art. 18.
+
+A concessão do alvará para construção, reconstrução, reforma ou ampliação não isenta o imóvel do Imposto Predial e Territorial Urbano durante o prazo que durarem as obras.
+
+
+Art. 19.
+
+Para modificação em projeto aprovado, assim como alteração do destino de qualquer peça constante no mesmo, será necessária a aprovação do projeto modificativo.
+
+
+Parágrafo único
+
+A aprovação do projeto modificativo será anotada na Licença de Construção anteriormenete aprovada.
+
+
+Art. 20.
+
+O processo que não for retirado no prazo de 60 (sessenta) dias será arquivado.
+
+
+Art. 21.
+
+A Prefeitura terá o prazo máximo de 30 (trinta) dias, a contar da data de entrada do processo, para as providências quanto ao projeto apresentado e emissão do alvará. Findo este prazo, se interessado não tiver obtido parecer para o seu requerimento, poderá dar início à obra mediante prévia comunicação escrita à Prefeitura, obedecendo as prescrições deste Código e sujeitando-se a demolir sem ônus para a Prefeitura o que tiver em desacordo com o mesmo.
+
+
+Art. 22.
+
+O Alvará de Construção poderá ser cassado pela Prefeitura, sempre que houver motivo justificado, devendo, para tanto, serem designados 03 (três) peritos, sendo um para a Prefeitura, um da parte interessada na obra e o último imparcial.
+
+
+Art. 23.
+
+Qualquer demolição que for executada dentro do perímetro urbano e de expansão urbana deverá ter a Licença da Prefeitura.
+
+
+Parágrafo único
+
+O requerimento de Licença de Demolição deverá ser assinado pelo proprietário da edificação a ser demolida.
+
+
+Art. 24.
+
+Se o prédio a demolir estiver no alinhamento da divisa do lote urbano ou for encostado a outro próximo a equipamentos de interesse histórico, será exigida a responsabilidade de um profissional ou firma habilitada.
+
+
+Parágrafo único
+
+Há obrigatoriedade de tapumes para demolição de edifícios que estejam no alinhamento da divisa do lote urbano.
+
+
+Art. 25.
+
+É necessário obter da Prefeitura autorização para a construção de tapumes e andaimes nos alinhamentos dos logradouros públicos ou passeios, rebaixamento de meio-fios e calçadas para acessos de veículos, abertura de gárgulas para escoamento de águas pluviais sobre o passeio e para a construção de barracões provisórios.
+
+
+Parágrafo único
+
+Somente será emitida autorização para construção de galpões de obras desde que comprovada a existência de Alvará de Construção.
+
+
+Art. 26.
+
+Independem de Licença os serviços de reparo e substituições de telhas partidas, de calhas e de condutores em geral e a construção de calçadas no interior dos terrenos edificados.
+
+
+Art. 27.
+
+Na construção de muros divisórios é necessária a obtenção de autorização de construção e Certidão de alinhamento, ficando a critério da Prefeitura exigir a apresentação do projeto, podendo ser empregado o disposto no artigo 103 deste Código.
+
+
+Art. 28.
+
+Os projetos deverão ser apresentados ao órgão competente da Prefeitura Municipal contendo os seguintes desenhos:
+
+
+I –
+
+planta de situação situando o lote na quadra, referenciando o lote de que trata o projeto, com denominação de vias limítrofes e a orientação magnética (norte verdadeiro), conforme modelo contido no selo padronizado anexo (desenho 09); a amarração feita através dos cantos da quadra. e as dimensões reais do lote urbano;
+
+
+II –
+
+planta de locação ou localização, localizando a construção do lote contendo as cotas gerais e as amarrações com as divisas. Escala de 1:100 (um para cem), e 1:200 (um para duzentos), contendo ainda:
+
+
+a)
+
+o tanque séptico e caixa de gordura;
+
+
+b)
+
+o sumidouro posicionado no mínimo a 05 (cinco) metros das divisas laterais e fundos dos lotes;
+
+
+c)
+
+denominação da via publica frontal;
+
+
+III –
+
+a planta de cobertura, que deverá ter a indicação de caimento e calha, quando houver. Escala 1:100 (um para cem) ou 1:200 (um para duzentos), sendo que:
+
+
+a)
+
+esta planta poderá ser coincidente com a de locação;
+
+
+b)
+
+quando houver inclinação variável as declividade deverão ser indicadas nos cortes;
+
+
+IV –
+
+planta baixa de cada pavimeto a construir na escala 1:50 (um para cinqüenta), 1:75 (um para setenta e cinco) ou 1:100 (um para cem), dependendo do caso, determinando:
+
+
+a)
+
+as dimensões exatas de todos os compartimentos inclusive dos vãos de iluminação, ventilação, garagem e estacionamento;
+
+
+b)
+
+a finalidade de cada compartimento e de cada pavimento;
+
+
+c)
+
+os traços indicativos dos cortes longitudinais e transversais;
+
+
+d)
+
+indicação das espessuras das paredes e dimensões externas da obra;
+
+
+e)
+
+especificação dos materiais empregados no acabamento dos pisos e tetos;
+
+
+f)
+
+projeção da cobertura em linhas tracejadas, contando a largura do beiral;
+
+
+g)
+
+determinação das peças dos banheiros, cozinha e áreas de serviço;
+
+
+h)
+
+sentido de abertura das portas;
+
+
+V –
+
+as edificações residenciais ou comerciais que sejam construídas com laje ou acima de 200 m², obrigatoriamente deverão apresentar projetos de construção completo com plantas arquitetônica, hidráulica, elétrica, e estrutural, para composição do acerto técnico da referida construção;
+
+
+VI –
+
+fica obrigatória a pré-analise do projeto arquitetônico completo, sendo que, para o prosseguimento do processo de apuração, o imóvel não poderá ter debito em atraso;
+
+
+VII –
+
+cortes transversal e longitudinal, indicando a altura dos compartimentos, níveis dos pavimentos, altura das janelas e peitorais e demais elementos necessário à compreensão do projeto. Escala 1:50 (um para cinqüenta), 1:75 (um para setenta e cinco) ou 1:100 (um para cem), dependendo do caso, sendo que:
+
+
+a)
+
+um dos cortes deverá mostrar a cozinha e sanitário;
+
+
+b)
+
+na cozinha e no sanitário a altura do barranco impermeável será de no mínimo de 1,50m (um metro e cinqüenta centímetros) a partir do piso acabado;
+
+
+c)
+
+no corte é obrigatório mostrar a estrutura do telhado com suas dimensões reais;
+
+
+d)
+
+especificação dos materiais empregados no acabamento dos tetos, quando não for especificado na planta baixa;
+
+
+VIII –
+
+elevação da fachada principal voltada para as vias públicas. Escala 1:50 (um para cinqüenta), 1:75 (um para setenta e cinco) ou 1:100 (um para cem), dependendo do caso, sendo que, no caso de esquina deverão ser apresentadas as fachadas voltadas para logradouros.
+
+
+§ 1º
+
+Haverá sempre a indicação da escala, o que não dispensa a indicação das cotas.
+
+
+§ 2º
+
+Em qualquer caso, a implantação deverá ser em escala oficial de 1:200 (um para duzentos) ou mais.
+
+
+§ 3º
+
+No caso de reforma ou ampliação deverá ser indicado, no projeto, o que será demolido, construído ou conservado de acordo com as seguintes conversões de cores:
+
+
+I –
+
+cor preta para as partes existentes e a conservar;
+
+
+II –
+
+cor amarela para serem demolidas;
+
+
+III –
+
+cor vermelha para as partes a construir;
+
+
+IV –
+
+cor natural da copia para as partes a serem regularizadas.
+
+
+§ 4º
+
+Nos casos de projetos para construção de edificações de grandes proporções as escalas mencionadas neste artigo poderão ser alteradas devendo, contudo, ser consultado o órgão competente da Prefeitura Municipal.
+
+
+§ 5º
+
+As dimensões e conteúdo do selo deverão seguir o modelo apresentado por esta prefeitura e sua localização deverá ser sempre no canto inferior direito da prancha.
+
+
+##### Seção IV — Das exigências e isenção dos projetos
+
+
+Art. 29.
+
+Nas construções não enquadradas como moradias econômicas será obrigatória a apresentação dos projetos arquitetônicos obedecendo fielmente às determinações do artigo anterior assinados pelo autor e responsável técnico e proprietário ou procurador legal.
+
+
+Art. 30.
+
+Os projetos de prevenção contra incêndio, com a aprovação do corpo de bombeiros, serão exigidos nos seguintes casos:
+
+
+I –
+
+construções comerciais e industriais;
+
+
+II –
+
+construções com mais de 01 (um) piso de uso coletivo;
+
+
+III –
+
+edifícios públicos;
+
+
+IV –
+
+edifícios especiais (hospital, motel, hotel, cinema, teatro, posto de gasolina, etc).
+
+
+V –
+
+edificios de uso coletivo.
+
+
+Art. 31.
+
+As construções de moradias econômicas e as pequenas reformas serão isentas de responsabilidade técnica de profissional legalmente habilitado no CREA.
+
+
+Art. 32.
+
+Para efeito deste código moradia econômica é aquela que atende os seguintes requisitos:
+
+
+I –
+
+ser de um pavimento e destinar-se exclusivamente a residência do interessado;
+
+
+II –
+
+destinar-se exclusivamente ao uso residencial;
+
+
+III –
+
+não possuir estrutura especial nem exigir cálculo estrutural;
+
+
+IV –
+
+ter área de construção em madeira de 42 a 50 m² e, se for edificada em alvenaria, com área de 50 a 60 m²;
+
+
+V –
+
+ser unitária, não constituindo parte de agrupamento ou conjunto de realização simultânea;
+
+
+VI –
+
+em suas construções se empreguem os materiais mais simples, econômicos e existentes em maior volume e facilidade no local e capaz de proporcionar a ela o mínimo de habilidade solidez e higiene.
+
+
+Art. 33.
+
+No caso de moradia econômica será deferido ao interessado, pela Prefeitura Municipal, na qual aprovará os projetos e detalhes necessários.
+
+
+Art. 34.
+
+Para os efeitos deste código considera-se pequena reforma aquela que atende os seguintes requisitos:
+
+
+I –
+
+ser executada no mesmo pavimento do prédio existente;
+
+
+II –
+
+não exigir estrutura ou arcabouço de concreto armado;
+
+
+III –
+
+não ultrapassar a área de 30 (trinta) metros quadrados caso contenha reconstrução ou acréscimos;
+
+
+IV –
+
+não afetar qualquer parte do edifício situado no alinhamento da via pública.
+
+
+Art. 35.
+
+As isenções não eximem os interessados do cumprimento de outras exigências ou regulamentos relativos à construção.
+
+
+Art. 36.
+
+Todas e quaisquer edificações ou reformas que não se enquadrem nos artigos 31 a 35 do presente código deverão atender regulamentação da Lei nº 5.194/66, e normas legais complementares, ou outra que vier a substituí-la.
+
+
+##### Seção V — Das vistorias e Habite-se
+
+
+Art. 37.
+
+A prefeitura fiscalizará as diversas obras requeridas, a fim de que as mesmas sejam executadas dentro das disposições deste código e de acordo com os projetos aprovados.
+
+
+Parágrafo único
+
+Os técnicos e ficais da Prefeitura terão acesso a todas as obras mediante apresentação de prova de identidade e independentemente de qualquer outra formalidade.
+
+
+Art. 38.
+
+Nenhuma edificação poderá ser ocupada sem que seja procedida a vistoria pela Prefeitura e expedido o respectivo Habite-se.
+
+
+Parágrafo único
+
+Uma obra é considerada concluída quando tiver condições de habitualidade ou de utilização, tendo sido executada de acordo com projeto apresentado.
+
+
+Art. 39.
+
+Concluída a obra deverá ser requerido o Habite-se à Prefeitura no prazo de 20 (vinte) dias.
+
+
+Parágrafo único
+
+O requerimento será sempre assinado pelo proprietário ou pelo profissional responsável, acompanhado da cópia do alvará de construção e o laudo de vistoria do corpo de bombeiros, nos que tenham sido aprovados pelos mesmos.
+
+
+Art. 40.
+
+Verificando-se que a edificação atende as exigências legais será expedido o Habite-se por projeto aprovado independente do número de edificações e de suas finalidades.
+
+
+Art. 41.
+
+Se for constatado que a obra não foi edificada conforme o projeto aprovado, o responsável técnico e o proprietário serão autuados de acordo com as disposições contidas no Capítulo VI deste código, sendo obrigado a regularizar a mesma caso as alterações possam ser aprovadas ou fazer a demolição ou modificação necessária para a sua completa regularização.
+
+
+Art. 42.
+
+No caso de reforma, estando a mesma concluída, deverá ser requerido o auto de vistoria que terá procedimento idêntico ao de construção.
+
+
+Art. 43.
+
+Efetuada a vistoria pela repartição competente ou verificando-se que a reforma atendeu os requisitos da licença será expedido o competente auto de vistoria.
+
+
+Art. 44.
+
+Se for constado que a reforma não foi executada de acordo com o projeto, será recusado o auto de vistoria até que o interessado regularize a obra.
+
+
+Art. 45.
+
+Nas construções por etapas quando uma parte puder ser utilizada independente da outra, a Prefeitura, a juízo do órgão competente, pode emitir a autorização provisória a titulo precário.
+
+
+Art. 46.
+
+Para a concessão da autorização provisória a titulo precário a parte a ser liberada deve estar totalmente concluída e de acordo com o projeto aprovado devendo o interessado solicitar a sua emissão através de requerimento.
+
+
+Art. 47.
+
+Se for constatado que a parte a ser liberada não foi executada em conformidade com o projeto aprovado será recusada a Autorização Provisória de Ocupação a titulo precário e notificado o responsável técnico e o proprietário, de acordo com o disposto no Capitulo VI do presente código, para que regularize a obra, caso as alterações possam ser aprovadas, ou fazer a demolição das partes irregulares.
+
+
+Art. 48.
+
+Será permitida a ligação dos serviços de água e/ou luz, pelas concessionárias no Município, a um imóvel urbano, da seguinte forma:
+
+
+I –
+
+ligação provisória até a data do vencimento da licença de construção e/ou da revalidação da mesma;
+
+
+II –
+
+ligação definitiva após a expedição do Habite-se pela Prefeitura;
+
+
+III –
+
+após o vencimento da ligação provisória a concessionária é obrigada a interromper a prestação do serviço caso o proprietário do imóvel não apresente o comprovante do Habite-se expedido pela Prefeitura Municipal.
+
+
+#### CAPÍTULO II — DAS RESIDENCIAS UNIFAMILIARES
+
+
+##### Seção I — Das residências isoladas
+
+
+Art. 49.
+
+Consideram-se residências isoladas as habitações unifamiliares com 01 (um) ou 02 (dois) pavimentos, ou, em função topográfica, no máximo de 03 (três) pavimentos.
+
+
+Art. 50.
+
+Edificações distintas dentro de um mesmo lote urbano somente serão permitidas quando:
+
+
+I –
+
+os acesso forem independentes;
+
+
+II –
+
+os lotes urbanos enquadrem-se nos desmembramentos permitidos ou permissíveis conforme a lei do zoneamento e a lei de parcelamento do solo urbano.
+
+
+Parágrafo único
+
+Deverá ser apresentado documento gráfico demonstrando a localização dos edifícios no terreno, recuos, área de terreno, área construída, área ocupada e os acessos às residências.
+
+
+##### Seção II — Das residências germinadas
+
+
+Art. 51.
+
+Consideram-se residências germinadas 02 (duas) ou mais unidades de moradia contínuas que possuem parede comum e:
+
+
+I –
+
+constituírem, especialmente no seu aspecto estético, uma unidade arquetetônica definida;
+
+
+II –
+
+observarem condições de ocupação fixadas pela lei de uso do solo;
+
+
+III –
+
+as paredes comuns às residências deverão ser em alvenaria, com espessura mínima de 0,20m (vinte centímetros), alcançando o ponto mais alto da cobertura;
+
+
+IV –
+
+cada uma das unidades deverá obedecer as demais normas estabelecidas por este código;
+
+
+V –
+
+seja indicado no projeto a fração do terreno de cada unidade.
+
+
+Art. 52.
+
+As propriedades das residências germinadas só poderão ser desmembradas quando cada unidade atender as condições de ocupação estabelecida pela lei de uso do solo.
+
+
+##### Seção III — Das residências em série transversais ao alinhamento predial
+
+
+Art. 53.
+
+Consideram-se residências em série transversais ao alinhamento da divisa do lote o agrupamento de no mínimo de 03 (três) e no máximo 10 (dez) moradias cuja disposição exija um corredor de acesso.
+
+
+Parágrafo único
+
+O conjunto deverá atender as exigências estabelecidas para o local pela lei de uso do solo.
+
+
+Art. 54.
+
+As edificações de residência em série transversais ao alinhamento deverão obedecer as seguintes condições:
+
+
+I –
+
+o acesso se fará por um corredor que terá largura mínima de:
+
+
+a)
+
+1,50 m (um metro e meio) quando as edificações estiverem situadas em um só lado do corredor de acesso;
+
+
+b)
+
+6,00 m (seis metros) quando as edificações estiverem situadas em ambos os lados do corredor de acesso;
+
+
+II –
+
+quando houver mais de 05 (cinco) moradias será feito um bolsão retorno cujo diâmetro deverá ser igual a 02 (duas) vezes a largura do corredor de acesso;
+
+
+III –
+
+para cada unidade de moradia deverá haver no mínimo uma área livre equivalente a 1/3 (um terço) da área de projeção da mesma;
+
+
+IV –
+
+cada conjunto de 05 (cinco) unidades terá uma área correspondente à projeção de uma moradia destinada ao lazer de uso comum;
+
+
+V –
+
+cada uma das unidades deverá obedecer as demais normas estabelecidas por este código;
+
+
+VI –
+
+o terreno deverá permanecer de propriedade de uma só pessoa ou de um condomínio mantendo-se as exigências fixadas pela lei de uso do solo.
+
+
+##### Seção IV — Dos conjuntos residenciais
+
+
+Art. 55.
+
+Consideram-se conjuntos residenciais aqueles que tenham 50 (cinqüenta) ou mais unidades de moradia, respeitadas as seguintes condições:
+
+
+I –
+
+o conjunto deverá atender ao estabelecido na lei de uso do solo;
+
+
+II –
+
+a largura dos acessos às moradias será determinada em função do número de moradias que irá servir, sendo 6,00 m (seis metros) a largura mínima;
+
+
+III –
+
+para cada 20 (vinte) unidades de moradia ou fração haverá uma área de lazer comum, com área equivalente a 1/5 (um quinto) da soma das áreas de projeção de moradias;
+
+
+IV –
+
+além de 100 (cem) unidades de moradia será reservada área para escola e comércio vicinal;
+
+
+V –
+
+serão previstas redes de energia e iluminação pública e redes de água e esgoto;
+
+
+VI –
+
+os conjuntos poderão ser constituídos de prédios de apartamentos ou de moradias isoladas;
+
+
+VII –
+
+o terreno, no todo ou em parte, poderá ser desmembrado em várias propriedades de uma só pessoa ou condomínio, desde que cada parcela desmembrada atenda as determinações fixadas pela lei de uso do solo;
+
+
+VIII –
+
+as edificações deverão obedecer as demais exigências deste código.
+
+
+##### Seção V — Das moradias econômicas
+
+
+Art. 56.
+
+As moradias econômicas serão constituídas de, no mínimo, sala, quarto, cozinha e banheiro.
+
+
+Parágrafo único
+
+Os compartimentos das edificações para fins residenciais, conforme sua utilização, obedecerão às tabelas anexadas a este código quando às dimensões.
+
+
+#### CAPÍTULO III — DOS EDIFICIOS
+
+
+##### Seção I — Dos edifícios de apartamentos
+
+
+Art. 57.
+
+Além de outras disposições do presente código que lhe forem aplicáveis, os edifícios de apartamentos deverão obedecer as seguintes condições:
+
+
+I –
+
+possuir local centralizado para coleta de lixo com terminal em recinto fechado;
+
+
+II –
+
+possuir equipamentos para extinção de incêndio;
+
+
+III –
+
+possuir área de recreação, coberta ou não, proporcional ao número de compartimentos de permanência prolongada (quartos, salas, cozinha, bibliotecas, estúdios), devendo ter:
+
+
+a)
+
+proporção mínima de 1,00 m² (um metro quadrado) por compartimento de permanência prolongada, não podendo ser inferior a 50,00 m² (cinqüenta metros quadrados);
+
+
+b)
+
+continuidade, não podendo seu dimensionamento ser feito por adição de áreas parciais isoladas;
+
+
+c)
+
+acesso, através de partes comuns, afastado dos depósitos de lixo e isolado das passagens de veículos.
+
+
+Art. 58.
+
+Os prédios de apartamentos destinados à habitação serão dotados de garagens para guarda de automóveis ou área de estacionamento de uso pessoal de seus moradores a razão de, no mínimo, 01 (um) carro para cada unidade de moradia.
+
+
+Parágrafo único
+
+Esta área de garagem não entra no conjunto geral para cálculo de coeficiente de aproveitamento sendo, no entanto, considerada como área construída.
+
+
+##### Seção II — Dos edifícios comerciais
+
+
+Art. 59.
+
+Além das disposições do presente código que lhes forem aplicáveis, as edificações destinadas ao comércio e/ou serviços de atividades profissionais deverão ser dotados de:
+
+
+I –
+
+reservatório de água de acordo com as exigências do órgão ou empresa encarregada do abastecimento de água, totalmente independente da parte residencial, quando se tratar de edificações de uso misto;
+
+
+II –
+
+instalação de coletores de lixo nas mesmas condições exigidas para os edifícios de apartamentos quando tiverem mais de 02 (dois) pavimentos.
+
+
+Art. 60.
+
+Em qualquer estabelecimento comercial os locais onde houver preparo, manipulação ou depósito de alimentos deverão ter piso e paredes, na altura mínima de 2,00 m (dois metros), revestidos com material liso, resistente, lavável e impermeável.
+
+
+§ 1º
+
+Os açougues, peixarias e estabelecimentos congêneres deverão dispor de chuveiros nas proporções de um para cada 150 m² (cento e cinqüenta metros quadrados) de área útil ou fração.
+
+
+§ 2º
+
+Os supermercados, mercados e lojas de departamento deverão atender as exigências específicas estabelecidas neste código para cada uma de suas seções, conforme as atividades nelas desenvolvidas.
+
+
+Art. 61.
+
+As galerias comerciais, além das disposições do presente código que lhes forem aplicáveis, deverão:
+
+
+I –
+
+ter pé-direito mínimo de 3,00 m (três metros);
+
+
+II –
+
+ter largura de corredor não inferior a 1/12 (um doze avos) do seu maior percurso e, no mínimo, de 4,00 m (quatro metros);
+
+
+III –
+
+ter suas lojas, quando com acesso principal pela galeria, com área mínima de 10,00 m² (dez metros quadrados), podendo ser ventiladas através de galeria e iluminadas artificialmente (anexo — desenho 10).
+
+
+Art. 62.
+
+Será permitida a construção de sobre-loja ou mezanino, obedecidas as seguintes condições:
+
+
+I –
+
+não prejudicar as condições de iluminação e ventilação do compartimento;
+
+
+II –
+
+ocupar área equivalente a, no mínimo, 1/3 (um terço) da área do piso;
+
+
+III –
+
+ter pé-direito mínimo de 2,50 m (dois metros e cinqüenta centímetros) nos compartimentos inferiores e 2,30 m (dois metros e trinta centímetros) no superior.
+
+
+Art. 63.
+
+Toda edificação comercial deverá ter compartimento sanitário destinado a seus empregados dotados de, no mínimo, um vaso sanitário e um lavatório que obedecerão as seguintes determinações:
+
+
+I –
+
+área mínima de 1,50 m² (um metro e cinqüenta centímetros quadrados);
+
+
+II –
+
+largura mínima de 1,20 m (um metro e vinte centímetros);
+
+
+III –
+
+estar no mesmo pavimento ou no imediatamente superior ou inferior.
+
+
+Parágrafo único
+
+As edificações comerciais destinadas ao ramo de bares, restaurantes e similares deverão ter compartimentos sanitários destinados ao público, independentes para cada sexo, que obedecerão as seguintes determinações:
+
+
+I –
+
+área mínima de 1,50 m² (um metro e cinqüenta centímetros quadrados);
+
+
+II –
+
+largura mínima de 1,20 m(um metro e vinte centímetros);
+
+
+III –
+
+para o sexo feminino deverá ter vaso sanitário e um lavatório;
+
+
+IV –
+
+para o sexo masculino deverá ter um vaso sanitário, um lavatório e um mictório.
+
+
+Art. 64.
+
+Quando a loja tiver área superior a 500 m² (quinhentos metros quadrados), deverá ter, também, compartimentos sanitários destinados ao público, independentes para cada sexo, obedecendo as seguintes condições:
+
+
+I –
+
+para o sexo feminino no mínimo um vaso sanitário e um lavatório para cada 250 m² (duzentos e cinqüenta metros quadrados) de área útil;
+
+
+II –
+
+para o sexo masculino no mínimo um vaso sanitário, um mictório e um lavatório para cada 250 m² (duzentos e cinqüenta metros quadrados) de área útil;
+
+
+III –
+
+para deficientes físicos de acordo com as condições técnicas construtivas.
+
+
+Parágrafo único
+
+Os prédios particulares já construídos, com área superior a 500 m² (quinhentos metros quadrados), em que há circulação de pessoas, terão que se adequar às exigências do caput deste artigo.
+
+
+#### CAPÍTULO IV — DOS EDIFICIOS PARA FINS ESPECIFICOS
+
+
+##### Seção I — Dos edifícios de saúde
+
+
+Art. 65.
+
+As edificações destinadas a estabelecimentos hospitalares, laboratórios de análise e pesquisa clínica e farmácias devem obedecer às condições estabelecidas pelas normas do Ministério da Saúde.
+
+
+Art. 66.
+
+As farmácias deverão ter, no mínimo, compartimentos de exposição e venda, laboratório, sala de tratamento e sanitário.
+
+
+Parágrafo único
+
+O laboratório somente será exigido quando houver manipulação.
+
+
+Art. 67.
+
+As construções destinadas a farmácias, drogarias e laboratórios de análise e pesquisa clínica deverão obedecer as seguintes condições:
+
+
+I –
+
+ter piso de material liso, impermeável e resistente a ácidos;
+
+
+II –
+
+ter paredes internas, com altura mínima de 2,00 m (dois metros), revestidas de material impermeável e lavável de cores claras;
+
+
+III –
+
+as bancadas dos laboratórios deverão ser executadas em mármore ou aço inoxidável;
+
+
+IV –
+
+os laboratórios deverão possuir 9,00 m² (nove metros quadrados) de área mínima.
+
+
+Art. 68.
+
+As edificações destinadas a estabelecimentos hospitalares deverão obedecer, além das regras gerais desse Código, ao disposto na Resolução nº 050, e anexos, da ANVISA (Agência Nacional de Vigilância Sanitária) e ainda:
+
+
+I –
+
+ser de material incombustível, tolerando-se o emprego de madeira ou outro material combustível apenas nas esquadrias, parapeitos e estrutura coberta;
+
+
+II –
+
+ter instalação de lavanderia com aparelhamento de lavagem, desinfecção e esterilização de roupas, sendo os compartimentos correspondentes pavimentados e revestidos até a altura mínima de 2,00 m (dois metros) com material lavável e impermeável;
+
+
+III –
+
+ter instalações sanitárias em cada pavimento para uso de pessoal e dos doentes que não as possuem privativas, com separação para sexo, contendo, no mínimo, um vaso sanitário, um lavatório e um chuveiro para cada 300,00 m² (trezentos metros quadrados) de área construída;
+
+
+IV –
+
+ter necrotério com:
+
+
+a)
+
+pisos e paredes revestidas até a altura mínima de 2,00 (dois metros) com material impermeável e lavável;
+
+
+b)
+
+abertura de ventilação dotados de tela milimétrica;
+
+
+V –
+
+ter, quando com mais de um pavimento, um escada principal e uma de serviço, recomendando-se a instalação de um elevador ou rampa para macas;
+
+
+VI –
+
+ter instalações de energia elétrica de emergência;
+
+
+VII –
+
+ter instalação e equipamento de coletas e remoção e incineração de lixo que garantem completa higiene;
+
+
+VIII –
+
+ter instalação preventiva contra incêndio, ainda, observar as seguintes disposições:
+
+
+Parágrafo único
+
+Os hospitais deverão, ainda, observar as seguintes disposições:
+
+
+I –
+
+os corredores, escada e rampa, quando destinados à circulação de doentes, deverão ter largura mínima de 2,30 m (dois metros e trinta centímetros) e pavimentação de material impermeável e lavável; quando destinados exclusivamente a visitantes e ao pessoal largura mínima de 1,20 m (um metro e vinte centímetros);
+
+
+II –
+
+a declividade máxima admitida nas rampas será de 10% (dez por cento), sendo exigido piso antiderrapante;
+
+
+III –
+
+a largura das portas em compartimentos a serem utilizados por pacientes acamados será de, no mínimo, 1,00 m (um metro);
+
+
+IV –
+
+as instalações e dependências destinadas à cozinha, depósito de suprimentos e copa deverão ter o o piso e as paredes, até a altura mínima de 2,00 m (dois metros), revestido com material impermeável e lavável e as abertura protegidas por telas milimétricas;
+
+
+V –
+
+não é permitida a comunicação direta entre a cozinha e os compartimentos destinados à instalação sanitária, vestiários e farmácias.
+
+
+##### Seção II — Dos edifícios de ensino
+
+
+Art. 69.
+
+As edificações destinadas à escolas e estabelecimentos congêneres, além das exigências do presente que lhes forem aplicáveis, deverão:
+
+
+I –
+
+ser de material incombustível, tolerando-se o emprego de madeiro ou outro material combustível apenas nas edificações térreas bem como nas esquadrias, parapeitos, revestimentos de piso e estruturas de forro e da cobertura;
+
+
+II –
+
+possuir pé-direito mínimo de 5,00 (cinco metros);
+
+
+III –
+
+ter rampa de acesso ao prédio com declividade máxima de 8% (oito por cento), com piso antiderrapante e corrimão na altura de 0,75 m (setenta e cinco centímetros);
+
+
+IV –
+
+ter locais de recreação, com área mínima conforme dispuser o Ministério da Educação;
+
+
+V –
+
+ter instalações sanitárias separadas por sexo com as seguintes proporções mínimas:
+
+
+a)
+
+um vazo sanitário para cada 50 m² (cinqüenta metros quadrados) e um mictório para cada 25 m² (vinte e cinco metros quadrados) para alunos do sexo masculino;
+
+
+b)
+
+um vaso sanitário para cada 20 m² (vinte metros quadrados) e um lavatório para cada 50 m² (cinqüenta metros quadrados) para alunos do sexo feminino;
+
+
+c)
+
+um bebedouro para cada 40 m² (quarenta metros quadrados);
+
+
+VI –
+
+terem pelo menos um gabinete sanitário de cada banheiro masculino e feminino nas seguintes condições:
+
+
+a)
+
+as dimensões mínimas de 1,40 m / 1,85 m (um metro e quarenta centímetros por um metro e oitenta e cinco centímetros);
+
+
+b)
+
+o eixo do vaso sanitário deverá ficar a uma distancia de 0,45m (quarenta e cinco centímetros) de uma das paredes laterais;
+
+
+c)
+
+as portas não poderão abrir para dentro dos gabinetes sanitários e terão no mínimo, 0,80 m (oitenta centímetros) de largura;
+
+
+d)
+
+a parede lateral mais próxima ao vaso sanitário, bem como o lado interno da porta, deverão ser dotados com alça de apoio a uma altura de 0,80 m (oitenta centímetros);
+
+
+e)
+
+os demais equipamentos não poderão ter altura superior a 1,00 m (um metro).
+
+
+Art. 70.
+
+As escadas internas serão de lance reto e deverão apresentar largura total livre não inferior a 0,01 m (um centímetro) por aluno localizado em pavimento superior, sendo que a largura mínima será de 1,80 m (um metro e oitenta centímetros).
+
+
+Art. 71.
+
+Os corredores nos edifícios destinados a escola terão largura mínima de 2,00 m (dois metros).
+
+
+Art. 72.
+
+As salas de aula, a não ser que tenham destino especial, apresentarão a forma preferencialmente retangular, sendo que as dimensões não podem apresentar relação inferior a 2/3 (dois terços), com dimensão visual máxima de 12,00 m (doze metros).
+
+
+Parágrafo único
+
+Em qualquer caso a área mínima por aluno deverá ser de 1,00 m² (um metro quadrado), devendo constar no projeto arquitetônico o número máximo de aluno por sala.
+
+
+Art. 73.
+
+As edificações destinadas a estabelecimento escolares deverão obedecer, ainda, às normas estabelecidas pela Secretaria Estadual de Educação e pelo Ministério da Educação, além das outras disposições desde código que lhes forem aplicáveis.
+
+
+##### Seção III — Dos edifícios públicos
+
+
+Art. 74.
+
+Além das demais disposição desde código que lhes forem aplicáveis, os edifícios públicos deverão obedecer as seguintes condições mínimas:
+
+
+I –
+
+as rampas de acesso ao prédio deverão ter a declividade máxima de 8% (oito por cento), possuir piso antiderrapante e corrimão na altura de 0,75 m (setenta e cinco centímetros);
+
+
+II –
+
+na impossibilidade da construção de rampas, a portaria deverá ser no mesmo nível da calçada;
+
+
+III –
+
+quando da exigência de elevadores, estes deverão ter dimensões mínimas de 1,10m / 1,40 m (um metro e dez por um metro e quarenta centímetros);
+
+
+IV –
+
+os elevadores deverão atingir todos os pavimentos, inclusive garagem e subsolo;
+
+
+V –
+
+todas as portas deverão ter largura mínima de 0,80 m (oitenta centímetros);
+
+
+VI –
+
+os corredores deverão ter largura mínima de 1,20 m (um metro e vinte centímetros);
+
+
+VII –
+
+a altura máxima dos interruptores, campainhas e painéis de comando de elevadores será de 0,80 m (oitenta centímetros).
+
+
+Art. 75.
+
+Em pelo menos um gabinete sanitário masculino e feminino deverão ser obedecidas as seguintes condições:
+
+
+I –
+
+dimensões mínimas de 1,40 m / 1,85 m (um metro e quarenta centímetros por um metro e oitenta e cinco centímetros);
+
+
+II –
+
+O eixo do vaso sanitário deverá ficar a uma distancia de 0,45 m (quarenta e cinco centímetros) de uma das paredes laterais;
+
+
+III –
+
+as portas não poderão abrir para dentro dos gabinetes sanitários e terão, no mínimo, 0,80 m (oitenta centímetro) de largura;
+
+
+IV –
+
+a parede lateral mais próxima ao vaso sanitário, bem como o lado interno da porta, deverão ser dotados com alça de apoio a uma altura de 0,80 m (oitenta centímetros);
+
+
+V –
+
+os demais equipamentos não poderão ficar a uma altura superior a 1,00 m (um metro).
+
+
+##### Seção IV — Dos edifícios relativos a veículos
+
+
+Art. 76.
+
+Além de outros dispositivos deste código que lhes forem aplicáveis, os edifícios de estabelecimentos destinados ao abastecimento de veículos estarão sujeitos às seguintes determinações:
+
+
+I –
+
+apresentação de projetos detalhados dos equipamentos e instalações;
+
+
+II –
+
+construção em materiais incombustíveis;
+
+
+III –
+
+construção de muro em alvenaria de 2,00 m (dois metros) de altura, no mínimo, isolado das propriedades vizinhas.
+
+
+Parágrafo único
+
+As edificação para posto de abastecimento de veículos deverão ainda observar as normas concernentes a legislação vigentes sobre inflamáveis.
+
+
+Art. 77.
+
+Fica proibida a construção de posto de serviço e abastecimentos, mesmo nas zonas onde esse uso é permitido ou permissível, nos seguintes casos:
+
+
+I –
+
+a menos de 100 m (cem metros) dos hospitais, escolas, igrejas e outros estabelecimentos quando a juízo do órgão competente da Prefeitura e quando a proximidade se mostrar inconveniente;
+
+
+II –
+
+nos pontos fixados pelo órgão competente da Prefeitura como cruzamentos importantes para o sistema viário.
+
+
+Art. 78.
+
+A autorização para construção de postos será concedida pelo órgão competente da Prefeitura em função das características peculiares em cada uso, quais sejam largura das vias, intensidade de trafego, vizinhança e observando-se sempre as condições gerais dadas a seguir:
+
+
+I –
+
+para lote de esquina a menor dimensão do terreno não poderá ser inferior a 20,00 m (vinte metros) e 700,00 m² (setecentos metros quadrados);
+
+
+II –
+
+para terrenos de meio de quadra a testada deve ser de 25,00 m (vinte cinco metros) no mínimo e de 600,00 m² (seiscentos metros quadrados).
+
+
+Art. 79.
+
+As edificações necessárias ao funcionamento dos postos, com exceção das bombas de combustíveis, obedecerão ao recuo frontal de 8,00 m (oito metros), observando as exigências de recuos maiores contidas na lei de zoneamento, e deverão estar dispostas de maneira a não impedir a visibilidade tanto de pedestres quanto dos usuários.
+
+
+Parágrafo único
+
+Bombas de combustíveis não poderão ser instaladas no passeio e/ou logradouro público.
+
+
+Art. 80.
+
+As bombas serão colocadas a uma distância mínima de 4,00 m (quatro metros) do alinhamento de logradouros e 4,00 m (quatro metros) da construção.
+
+
+Art. 81.
+
+Os prédios destinados a oficinas mecânicas deverão obedecer as seguintes condições:
+
+
+I –
+
+ter área, coberta ou não, capaz de comportar veículos em reparo, sendo vedado qualquer conserto em logradouro publico;
+
+
+II –
+
+ter 02 (dois) acessos independentes com largura mínima de 5,00 m (cinco metros) cada;
+
+
+III –
+
+são obrigatórias luzes de sinalização na entrada e saída de veículos.
+
+
+Art. 82.
+
+Os postos de serviços e abastecimento de veículos só poderão ser instalador em edifícios destinados exclusivamente para esse fim.
+
+
+Parágrafo único
+
+Serão permitidas atividades comerciais junto aos postos de serviço e abastecimento somente quando localizadas no mesmo nível dos logradouros de uso públicos com acessos diretos e independentes.
+
+
+Art. 83.
+
+As instalações para lavagem ou lubrificação deverão obedecer as seguintes condições:
+
+
+I –
+
+estarem localizadas em compartimentos cobertos e fechados em 02 (dois) dos seus lados, no mínimo, para as de lubrificação e em 03 (três) lados as destinadas à lavagem;
+
+
+II –
+
+ter as paredes internas revestidas de material impermeável até a altura de 2,50 m (dois metros e cinqüenta centímetro), no mínimo;
+
+
+III –
+
+ter pé-direito mínimo de 4,50 m (quatro metros e cinqüenta centímetros);
+
+
+IV –
+
+nas instalações ara lavagens a céu aberto, quando o lavador estiver a distância inferior a 10 m (dez metros) das divisas laterais e fundo do terreno, é obrigatória a construção de paredes de proteção em 03 (três) lados com altura mínima de 3,00 (três metro), contados do ponto de contato dos pneus, com revestimento do piso horizontal da rampa e comprimento, no mínimo, idêntico a esta, acrescido de 1,50 m (um metro e cinqüenta centímetros) para frente e para trás nos casos de veículos de passeios e utilitários (caminhonete, jeeps, peruas, etc.) e, para caminhões, além das paredes supracitadas é obrigatória a construção de cobertura de acordo com o inciso I do presente artigo;
+
+
+V –
+
+ter as paredes externas fechadas em toda a altura ou caixilhos fixos sem abertura;
+
+
+VI –
+
+ter um tanque separado de óleo e graxas proveniente de lavagem de veículo localizado antes do lançamento no coletor de esgoto.
+
+
+§ 1º
+
+Não será permitido que resíduos e graxa ou similares sejam despejados nos logradouros públicos ou nas redes de águas pluviais e esgoto.
+
+
+§ 2º
+
+Tolera-se instalação para lubrificação em áreas descobertas.
+
+
+Art. 84.
+
+Os boxes de lavagem e lubrificação deverão guardar uma distancia mínima de 8,00 (oito metros) do alinhamentos dos logradouros e 4,00 (quatro metros) das divisas dos terrenos vizinhos, salvo se os mesmos forem instalados em recintos fechados, cobertos e ventilados.
+
+
+Art. 85.
+
+As áreas não edificadas dos postos serão pavimentadas em concreto, paralelepípedo ou similares.
+
+
+Art. 86.
+
+No alinhamento do terreno deverá haver uma mureta com 0,50 m (cinqüenta centímetros) de altura para evitar a passagem de veículos sobre os passeios.
+
+
+Parágrafo único
+
+Os acessos serão, no mínimo, 02 (dois), com largura livre de 7,00 m (sete metros) cada um.
+
+
+Art. 87.
+
+Os rebaixamentos dos meio-fios destinados ao acesso ao posto só serão executados mediante autorização a ser expedida pelo órgão competente da Prefeitura.
+
+
+Parágrafo único
+
+Não poderão ser rebaixados os meio-fios no trecho correspondente a curva de concordância de duas ruas.
+
+
+Art. 88.
+
+Em todo posto deverá existir, além das instalações sanitárias para uso dos funcionários, instalações sanitárias para o público.
+
+
+Art. 89.
+
+Não será permitido, sob qualquer hipótese, estacionamento de veículos nos passeios.
+
+
+Art. 90.
+
+Os postos de serviço e abastecimento deverão dispor de equipamento contra incêndio de acordo com as exigências do corpo de bombeiros.
+
+
+Art. 91.
+
+Qualquer reforma ou ampliação nos postos já existentes deverá obedecer ao contido nestas normas.
+
+
+Art. 92.
+
+As edificações destinadas à garagem em geral, para efeito deste código, classificam-se em garagens particulares individuais, garagens particulares coletivas e garagens comerciais e deverão atender as disposições do presente código que lhes forem aplicáveis, além das seguintes exigências:
+
+
+I –
+
+ter pé-direito mínimo de 2,50 m (dois metros e cinqüenta centímetros);
+
+
+II –
+
+ter sistema de ventilação permanente mecânico ou natural;
+
+
+III –
+
+não ter comunicação direta com compartimentos de permanência prolongada.
+
+
+§ 1º
+
+As edificações destinadas a garagens particulares individuais deverão atender ainda as seguintes disposições:
+
+
+I –
+
+largura mínima de 2,50 (dois metros e cinqüenta centímetros);
+
+
+II –
+
+profundidade mínima de 4,50 m (quatro metros e cinqüenta centímetros).
+
+
+§ 2º
+
+As edificações destinadas a garagens particulares coletivas deverão atender ainda as seguintes disposições (anexo desenho 11);
+
+
+I –
+
+ter estrutura, paredes e forro de material incombustível;
+
+
+II –
+
+ter vão de entrada com largura mínima de 3,00 m (três metros) e no mínimo 02 (dois) vãos quando comportarem mais de 50 (cinqüenta) carros;
+
+
+III –
+
+ter os locais de estacionamento (Box) para cada carro com uma largura mínima de 2,40 m (dois metros e quarenta centímetros) e comprimento de 5,00 m (cinco metros);
+
+
+IV –
+
+o corredor de circulação deverá ter largura mínima de 3,00 m (três metros), 3,50 m (três metros e cinqüenta centímetros) ou 5,00 m (cinco metros), quando os locais de estacionamento formarem, em relação aos mesmos, ângulos de 30º, 45º e 90º respectivamente;
+
+
+V –
+
+não serão permitidas quaisquer instalações de abastecimentos, lubrificação ou reparo em garagens particulares coletivas.
+
+
+§ 3º
+
+As edificações destinadas a garagens comerciais deverão atender a seguintes disposições:
+
+
+I –
+
+ser construídas de material incombustível, tolerando-se o emprego de madeira ou outro material combustível nas esquadrias e estrutura de cobertura;
+
+
+II –
+
+quando houver circulação independente para acesso e saída até os locais de estacionamento, ter área de acumulação com acesso direto do logradouro que permita o estacionamento eventual de um número de veículos não inferior a 5% (cinco por cento) da capacidade total da garagem;
+
+
+III –
+
+ter o piso revestido com material lavável e impermeável;
+
+
+IV –
+
+ter as paredes nos locais de lavagem e lubrificação revestidas com material resistente, liso, lavável e impermeável.
+
+
+##### Seção V — Dos edifícios de hospedagem
+
+
+Art. 93.
+
+Além de outras disposições deste código e das demais leis municipais, estaduais e federais que lhes forem aplicáveis, os estabelecimentos de hospedagens deverão obedecer as seguintes exigências:
+
+
+I –
+
+ser construídos com materiais incombustíveis, tolerando-se o emprego de madeira apenas nas esquadrias e estrutura da cobertura;
+
+
+II –
+
+ter, além dos apartamentos ou quartos, dependência de vestíbulos com local para instalação de portaria e sala de estar;
+
+
+III –
+
+ter vestiário e instalações sanitárias privativas para o pessoal de serviço;
+
+
+IV –
+
+ter em cada pavimento instalações sanitárias separadas por sexo na proporção de um vaso sanitário, um chuveiro e um lavatório, no mínimo, para cada 72,00 m² (setenta e dois metros quadrados) ou fração de pavimento, quando não possuir sanitários privativos;
+
+
+V –
+
+ter instalação preventiva contra incêndio de acordo com as normas da ABNT e exigência do corpo de bombeiros.
+
+
+Parágrafo único
+
+Nos hotéis e estabelecimentos congêneres as cozinhas, copas, lavanderias e despensas, quando houver, deverão ter o piso e as paredes até a altura mínima de 2,00 m (dois metros), revestida com material lavável e impermeável.
+
+
+##### Seção VI — Dos edifícios de indústrias
+
+
+Art. 94.
+
+A construção ou adaptação de prédios para uso industrial somente será permitida em área previamente aprovada pela prefeitura municipal.
+
+
+Art. 95.
+
+As edificações destinadas à indústria em geral, fabricas e oficinas, além das disposições da Consolidação das Leis do Trabalho, deverão:
+
+
+I –
+
+ser de material incombustível, tolerando-se o emprego de madeira ou outro material combustível apenas nas esquadrias e estruturas de cobertura;
+
+
+II –
+
+ter paredes confinantes com outros imóveis do tipo corta-fogo elevadas a 1,00 m (um metro) acima da calha, quando construída na divisa do lote (anexo desenho 12);
+
+
+III –
+
+ter os dispositivos de prevenção contra incêndio de acordo com as normas da ABNT e exigência do Corpo de Bombeiros.
+
+
+Art. 96.
+
+Nas edificações industriais os compartimentos deverão atender seguintes disposições:
+
+
+I –
+
+quando tiverem área superior a 75,00 m² (setenta e cinco metros quadrados), deverão ter pé-direito mínimo de 3,5 m (três metros e cinqüenta centímetros);
+
+
+II –
+
+quando destinados à manipulação ou depósito de inflamáveis deverão ser convencionalmente preparados de acordo com normas específicas relativas à segurança na utilização de inflamáveis líquidos, sólidos ou gasosos.
+
+
+Art. 97.
+
+Os fornos, máquinas, caldeiras, estufas, fogões, forjas ou quaisquer outros aparelhos onde se produza ou concentre calor, deverão ser dotados de isolamento térmico admitindo-se (anexo — desenho13):
+
+
+I –
+
+uma distância mínima de 1,00 m (um metro) do teto, sendo esta distância aumentada para 1,50 m (um metro e cinqüenta centímetros), pelo menos, quando houver pavimento superposto;
+
+
+II –
+
+uma distância mínima de 1,00 m (um metro) das paredes da própria edificação vizinha.
+
+
+Art. 98.
+
+As edificações destinadas às indústrias de produtos alimentícios e medicamentos deverão ter:
+
+
+I –
+
+nos locais de fabricação, as paredes revestidas até a altura mínima de 2,00 m (dois metros) com material liso, resistente, lavável, e impermeável;
+
+
+II –
+
+piso revestido com material liso, resistente, lavável e impermeável, não sendo permitido o piso simplesmente cimentado;
+
+
+III –
+
+assegurado a incompatibilidade direta com os compartimentos sanitários;
+
+
+IV –
+
+as aberturas de iluminação e ventilação dotadas de proteção com tela milimétrica.
+
+
+Art. 99.
+
+Não será permitido descarga de esgoto sanitário de qualquer procedência e despejos industriais "*in natura"* nas redes coletoras de águas pluviais ou qualquer curso d'água.
+
+
+Art. 100.
+
+As construções industriais deverão atender as exigências contidas na legislação federal e estadual específica, devendo aprovar seus projetos de depuração dos resíduos popuidores.
+
+
+##### Seção VII — Dos edifícios de recreação
+
+
+Art. 101.
+
+As edificações destinadas a auditórios, cinemas, teatros e similares deverão atender as seguintes disposições especiais:
+
+
+I –
+
+ser de material incombustível, tolerando-se o emprego de madeira ou outro material combustível nas esquadrias, lambris decorativos, parapeitos e estrutura da cobertura e forro;
+
+
+II –
+
+ter pé-direito mínimo de 4,00 m (quatro metros) em relação ao piso do palco e 2,80 m (dois metros e oitenta centímetros), no mínimo, nas arquibancadas;
+
+
+III –
+
+ter instalações sanitárias separadas para cada sexo, com as seguintes proporções mínimas em relação à lotação máxima, calculada na base de 1,60 m² (um metro e sessenta centímetros quadrados) por pessoa:
+
+
+a)
+
+para o sexo masculino um vaso, um lavatório e mictório para cada 250 (duzentos e cinqüenta) lugares ou fração;
+
+
+b)
+
+para o sexo feminino um vaso e um lavatório para cada 250 (duzentos e cinqüenta) lugares ou fração;
+
+
+IV –
+
+ser dotado de dispositivo eletromecânicos de exaustão de ar;
+
+
+V –
+
+ter instalação preventiva contra incêndio de acordo com as normas da ABNT e Corpo de Bombeiros.
+
+
+Art. 102.
+
+Nas edificações destinadas a auditórios, cinemas, teatros e similares, as portas de circulação, corredores e escadas serão dimensionadas em função da lotação máxima.
+
+
+§ 1º
+
+Quanto às portas:
+
+
+I –
+
+deverão ter a mesma largura dos corredores;
+
+
+II –
+
+as saídas das edificações deverão ter largura total (soma de todos os vãos) correspondendo a 1 cm (um centímetro) por lugar, não podendo cada porta ter menos de 1,50 m (um metro e cinqüenta centímetros) de vão livre e deverão abrir de dentro para fora e serem dotadas de fechaduras anti-pânico.
+
+
+§ 2º
+
+Quanto aos corredores de acesso e escoamento do público:
+
+
+I –
+
+deverão possuir largura mínima de 1,50 m (um metro e cinqüenta centímetros) a qual terá um acréscimo de 1 mm (um milímetro) por lugar excedente a lotação de 150 (cento e cinqüenta) lugares;
+
+
+II –
+
+quando houver lugares fixos a lotação será calculada na base de 1,60 m² (um metro e sessenta centímetros quadrados) por pessoa.
+
+
+§ 3º
+
+Quando às circulações internas da sala de espetáculos:
+
+
+I –
+
+os corredores longitudinais deverão ter largura mínima de 1,00 m (um metro) e os transversais 1,70 m (um metro e setenta centímetros);
+
+
+II –
+
+as larguras mínimas terão um acréscimo de 1 mm (um milímetro) por lugar excedente a 100 (cem) lugares na direção do fluxo normal de escoamento da sala para as saídas.
+
+
+§ 4º
+
+Quanto às escadas:
+
+
+I –
+
+as saídas deverão ter largura mínima de 1,50 m (um metro e cinqüenta centímetros) para uma lotação máxima de 100 (cem) lugares e largura a ser aumentada a razão de 1 mm (um milímetro) por lugar excedente;
+
+
+II –
+
+sempre que a altura a vencer for superior a 2,50 m (dois metros e cinqüenta centímetros) deverão ter patamares os quais terão profundidade de1,20m (um metro e vinte centímetros);
+
+
+III –
+
+não poderão ser desenvolvidas em leque ou caracol;
+
+
+IV –
+
+quando substituídas por rampas estas deverão ter inclinações não superiores a 10% (dez por cento) e serem revestidas de material antiderrapante.
+
+
+#### CAPÍTULO V — DAS PARTES INTEGRANTES DOS EDIFICIOS
+
+
+##### Seção I — Das condições gerais
+
+
+Art. 103.
+
+Todos os edifícios situados nas esquinas, em ruas onde não haja exigência de recuo do alinhamento predial, deverão, quando construídos no alinhamento predial ou tiverem recuo menor que 3,00 m (três metros), deixar livre um canto chanfrado de 3,00 m (três metros), perpendicular à bissetriz do ângulo formado pelos alinhamentos dos logradouros, até a altura de 2,80 m (dois metros e oitenta centímetros) do passeio de lado (anexo — desenho 14).
+
+
+Parágrafo único
+
+Em zonas sujeitas a diretrizes urbanísticas próprias para as quais haja expressa dispensa de observância dos recuos previstos neste Código de Obras será admitido o avanço sobre o recuo até 100 % (cem por cento), desde que a linha bissetriz não seja inferior a 5,00 m (cinco metros) do canto da edificação até o canto do alinhamento do passeio publico.
+
+
+Art. 104.
+
+As instalações de água, esgoto, energia elétrica e telefones dos edifícios deverão seguir as normas da ABNT vigentes na ocasião da aprovação do projeto, bem como as exigências das concessionárias ou entidades administrativas respectivas.
+
+
+Art. 105.
+
+Todos os edifícios são obrigados a possuir tubulação para telefone, provendo-se no mínimo uma tomada por unidade habitacional ou de escritório.
+
+
+Art. 106.
+
+Todos os edifícios com 03 (três) ou mais pavimentos terão obrigatoriamente, instalação de tubo de queda para coleta de lixo.
+
+
+§ 1º
+
+A abertura dos tubos de queda deverá comunicar-se diretamente com os compartimentos de uso comum.
+
+
+§ 2º
+
+Os tubos de queda deverão desembocar obrigatoriamente em recinto fechado.
+
+
+Art. 107.
+
+Todos os edifícios com mais de 02 (dois) pavimentos deverão possuir instalações contra incêndio de acordo com as normas do Corpo de Bombeiros vigentes na ocasião de aprovação do projeto.
+
+
+##### Seção II — Das fundações
+
+
+Art. 108.
+
+A fundação, qualquer que seja seu tipo, deverá ficar situada inteiramente dentro dos limites do lote, não podendo, em nenhuma hipótese, avançar sobre o passeio do logradouro ou sobre os imóveis vizinhos.
+
+
+Art. 109.
+
+As fundações das edificações deverão ser executadas de maneira que não prejudiquem os imóveis vizinhos.
+
+
+##### Seção III — Das paredes e pisos
+
+
+Art. 110.
+
+As paredes em alvenaria de tijolo comum que constituírem divisões entre as unidades distintas e as construídas nas divisas dos lotes, deverão ter espessura mínima de 0,20m (vinte centímetros).
+
+
+Art. 111.
+
+As paredes de banheiros e cozinhas deverão ser revestidas no mínimo até a altura de 1,50 (um metro e cinqüenta centímetros) de material impermeável.
+
+
+Art. 112.
+
+Os pisos de banheiros, cozinhas e áreas de serviços deverão ser impermeáveis.
+
+
+Art. 113.
+
+As paredes serão completamente independentes das edificações vizinhas já existentes na linha da divisa do lote urbano.
+
+
+##### Seção IV — Dos corredores, escadas, rampas e elevadores
+
+
+Art. 114.
+
+Nas edificações residenciais unifamiliares, as escadas deverão obedecer as seguintes exigências:
+
+
+I –
+
+largura mínima de 0,80 m (oitenta centímetros);
+
+
+II –
+
+altura máxima do degrau de 0,19 m (dezenove centímetros);
+
+
+III –
+
+largura mínima de profundidade do piso do grau de 0,26 m (vinte e seis centímetros).
+
+
+Parágrafo único
+
+Nas escadas curvas, a largura mínima dos degraus será de 0,07 m (sete centímetros) no ponto de engatamento com a coluna de sustentação de 0,25 m (vinte e cinco centímetros) na linha de trânsito, medida a 0,50 m (cinqüenta centímetros) da borda interna.
+
+
+Art. 115.
+
+As escadas terão largura mínima de 0,80 m (oitenta centímetros) e oferecerão passagem com a altura mínima nunca inferior a 1,90 m (um metro e noventa centímetros) (anexo — desenho 15).
+
+
+Art. 116.
+
+Nas edificações de uso público e coletivo as escadas terão obrigatoriamente:
+
+
+I –
+
+largura mínima de 1,20 m (um metro e vinte centímetros);
+
+
+II –
+
+altura máxima do degrau de 0,18 m (dezoito centímetros);
+
+
+III –
+
+largura mínima de profundidade do piso do degrau de 0,28 m (vinte e oito centímetros);
+
+
+IV –
+
+o piso dos degraus e patamares revestido de material antiderrapante;
+
+
+V –
+
+corrimãos de ambos os lados obedecendo aos seguintes requisitos:
+
+
+a)
+
+manter-se a uma altura constante situada entre 0,75 m (setenta e cinco centímetros) e 0,85 m (oitenta e cinco centímetros) acima do nível de borda do piso dos degraus;
+
+
+b)
+
+serão somente fixados pela face inferior;
+
+
+c)
+
+terão largura mínima de 0,06 m (seis centímetros);
+
+
+d)
+
+estarão afastados da parede no mínimo 0,04 m (quatro centímetros).
+
+
+§ 1º
+
+Quando a largura da escada for superior a 2,00 m (dois metros) deverá ser instalado corrimão intermediário obedecendo ao inciso V deste artigo.
+
+
+§ 2º
+
+Nas escadas de uso coletivo, sempre que houver mudanças de direção ou que a altura a vencer for superior a 3,00 m (três metros), será obrigatório intercalar um patamar de profundidade mínima igual à largura das escadas (anexo — desenho 16).
+
+
+§ 3º
+
+Serão permitidas escadas curvas, quando excepcionalmente justificáveis por motivo de ordem estética, desde que a curvatura externa tenha raio mínimo de 2,50 m (dois metros e cinqüenta centímetros) e os degraus a largura mínima de 0,28 m (vinte e oito centímetros) medida da linha do piso a uma distância de 1,00 m (um metro) da borda interna.
+
+
+§ 4º
+
+Os edifícios com até quatro pavimentos (anexo —desenho 17) deverão dispor de:
+
+
+I –
+
+saguão ou patamar independente do *hall* de distribuição;
+
+
+II –
+
+iluminação natural ou sistema de emergência para alimentação artificial;
+
+
+III –
+
+porta corta-fogo entre a caixa da escada e seu saguão e o *hall* de distribuição.
+
+
+§ 5º
+
+Os edifícios com 05 (cinco) ou mais pavimentos (anexo — desenho 18) deverão dispor:
+
+
+I –
+
+de uma antecâmara entre o saguão da escada e o *hall* de distribuição, isolada por 02 (duas) portas corta-fogo;
+
+
+II –
+
+ser a antecâmara ventilada por um poço de ventilação natural no pavimento térreo e na abertura;
+
+
+III –
+
+ser a antecâmara iluminada por sistema compatível com o adotado para a escada.
+
+
+§ 6º
+
+Nas escadas de uso secundário ou eventual poderá ser permitida a redução de sua largura até o mínimo de 0,80 m (oitenta centímetros).
+
+
+§ 7º
+
+A existência de elevador em um edificação não dispensa a construção da escada.
+
+
+Art. 117.
+
+No caso de emprego de rampas em substituição às escadas da edificação, aplicam-se as mesmas exigências relativas ao dimensionamento e resistência fixadas para as escadas.
+
+
+Parágrafo único
+
+As rampas não poderão apresentar declividade superior a 12 % (doze por cento); se a declividade exceder 6% (seis por cento) o piso deverá ser revestido com material não escorregadio.
+
+
+Art. 118.
+
+Será obrigatória a instalação de no mínimo um elevador nas edificações com mais de dois pavimentos que apresentarem, entre o piso de qualquer pavimento e o nível da via pública, no ponto de acesso ao edifício, uma distância vertical superior a 12,50 m (doze metros e cinqüenta centímetros) e de no mínimo 02 (dois) elevadores, no caso desta distância ser superior a 24,00 m (vinte e quatro metros) (anexo — desenho 19).
+
+
+§ 1º
+
+A referência de nível para as distâncias verticais mencionadas deverá ser de soleira de entrada do edifício e não a da via pública no caso de edificações que fiquem suficientemente recuadas do alinhamento, para permitir que seja vencida essa diferença de cotas através de rampa com inclinação não superior a 12 % (doze por cento).
+
+
+§ 2º
+
+Para efeito de cálculo das distâncias verticais será considerada a espessura das lajes com 0,15 m (quinze centímetros), no mínimo.
+
+
+§ 3º
+
+No cálculo das distâncias verticais não será computado o último pavimento, quando for de uso exclusivo do penúltimo ou destinado a dependências de uso comum e privativas do prédio, ou ainda dependências de zelador.
+
+
+Art. 119.
+
+Os espaços de acesso ou circulação frontais as portas dos elevadores deverão ter dimensão não inferior a 1,50 m (um metro e cinqüenta centímetros) (anexo — desenho 20).
+
+
+Parágrafo único
+
+Quando a edificação necessariamente tiver mais de uma elevador, as áreas de acesso de cada par de elevadores devem estar interligadas em todos os pisos.
+
+
+Art. 120.
+
+O sistema mecânico de circulação vertical (número de elevadores, cálculo de trafego e demais características) está sujeito às normas técnicas da ABNT e, na instalação, deverá ter um responsável técnico legalmente habilitado.
+
+
+Art. 121.
+
+Nos edifícios residenciais unifamiliares os corredores de circulação deverão atender o seguinte:
+
+
+I –
+
+ter largura mínima de 0,80 m (oitenta centímetros) até 3,00 m (três metros) de comprimento;
+
+
+II –
+
+com comprimento igual ou superior a 6,00 m (seis metros) é obrigatória a existência de ventilação;
+
+
+III –
+
+com mais de 3,00 m (três metros) de comprimento, a largura mínima será de 1,00 m (um metro);
+
+
+IV –
+
+com mais de 10,00 m (dez metros) de comprimento exige-se iluminação e ventilação na proporção de 1/20 (um vinte avos) da área do piso.
+
+
+Parágrafo único
+
+Será tolerada a iluminação e ventilação zenital.
+
+
+Art. 122.
+
+Nas habitações coletivas consideram-se corredores principais os que dão acesso às diversas unidades dos edifícios, devendo ter, obrigatoriamente:
+
+
+I –
+
+largura mínima de 1,20 m (um metro e vinte centímetros);
+
+
+II –
+
+ventilação na relação de 1/24 (um vinte e quatro avos) de área do piso, quando a área for igual ou superior a 10,00 m² (dez metros quadrados);
+
+
+III –
+
+alargamento de 0,10 m (dez centímetros) para cada 5,00 m (cinco metros) ou fração, quando o comprimento for superior a 10,00 m (dez metros).
+
+
+Parágrafo único
+
+Será tolerada ventilação por meio de chaminés de ventilação ou pela caixa de escadas.
+
+
+Art. 123.
+
+Nas edificações comerciais consideram-se corredores principais os de uso comum, devendo ter, obrigatoriamente:
+
+
+I –
+
+largura mínima de 1,50 m (um metro e cinqüenta centímetros);
+
+
+II –
+
+ventilação na relação de 1/20 (um vinte avos) de área do piso, quando a área for igual ou superior a 10,00 m² (dez metros quadrados);
+
+
+III –
+
+ventilação situada no máximo de 10,00 m (dez metros) de qualquer ponto do corredor.
+
+
+Parágrafo único
+
+Será tolerada a ventilação por meio de chaminés de ventilação, dutos horizontais ou pela caixa de escada.
+
+
+Art. 124.
+
+Consideram-se corredores secundários nos edifícios comerciais, os de uso exclusivo da administração do edifício destinado a serviço.
+
+
+Parágrafo único
+
+Esses corredores poderão ter largura mínima de 1,00 m (um metro).
+
+
+##### Seção V — Das fachadas, marquises e balanços
+
+
+Art. 125.
+
+Nos logradouros onde forem permitidas edificações no alinhamento, estas deverão observar as seguintes condições:
+
+
+I –
+
+poderão ter em balanço com relação ao alinhamento dos logradouros marquise que:
+
+
+a)
+
+na sua projeção horizontal o passeio avance 1,20 m (um metro e vinte centímetros) no alinhamento da divisa do lote;
+
+
+b)
+
+esteja situada à altura de 3,00 m (três metros) medidos a partir do ponto médio da frente do lote, tendo como referência o piso acabado;
+
+
+c)
+
+não oculte ou prejudique elementos de informação, sinalização ou instalação elétrica;
+
+
+d)
+
+seja executada de material durável e incombustível, dotada de calhas e condutores para águas pluviais, estes embutidos nas paredes e passando sob o passeio até alcançar a sarjeta, através das gárgulas;
+
+
+e)
+
+em construções em esquinas, seja executada nas duas fachadas, observando-se o corte chanfrado;
+
+
+II –
+
+a edificação em madeira deverá apresentar platibanda.
+
+
+Parágrafo único
+
+As edificações serão dotadas de marquises ao longo do alinhamento dos logradouros onde esses requisitos forem obrigatórios pela Lei de Zoneamento ou por lei especial.
+
+
+Art. 126.
+
+Poderão avançar sobre o alinhamento frontal da divisa do lote urbano balcões que formem cortes salientes abertos e a uma altura mínima de 3,00 m (três metros) do piso acabado, cujas projeções no plano horizontal não avancem mais de 1,20 m (um metro e vinte centímetros) sobre a mencionada linha e que a somatória de suas medidas externas não ultrapasse a 1/3 (um terço) da medida externa da construção.
+
+
+Art. 127.
+
+Poderão avançar sobre o afastamento frontal do lote urbano balcões ou terraços abertos cujas projeções no plano horizontal não avancem mais de 1,50 m (um metro e cinqüenta centímetros) sobre a mencionada linha e que a somatória de suas medidas externas não ultrapasse a 1/3 (um terço) da medida externa da construção.
+
+
+Art. 128.
+
+Poderão avançar sobre o afastamento e alinhamento frontal da divisa do lote urbano corpos salientes fechados que podem ser constituídos como área do piso, cujas projeções no plano horizontal não avancem mais de 0,60 m (sessenta centímetros) sobre as mencionadas linhas e que a somatória de suas medidas externas não ultrapasse a 1/3 (um terço) da medida externa da construção.
+
+
+Parágrafo único
+
+No alinhamento sobre a divisa frontal do lote urbano os corpos salientes descritos no *caput* deste artigo somente serão permitidos a partir do segundo pavimento.
+
+
+Art. 129.
+
+Poderão recriar sobre o alinhamento da divisa e sobre o afastamento frontal do lote urbano molduras ou movimentos arquitetônicos que não constituam área de piso e cujas projeções em plano horizontal não avancem mais de 0,40 m (quarenta centímetros).
+
+
+Art. 130.
+
+Para efeito do presente Código, os compartimentos são classificado em:
+
+
+I –
+
+compartimentos de permanência prolongada;
+
+
+II –
+
+compartimentos de utilização transitória.
+
+
+§ 1º
+
+São compartimentos de permanência prolongada aquela locais de uso definido, caracterizando espaços habitáveis permitindo a permanência confortável por tempo longo e indeterminado, tais como dormitórios, salas de jantar, de estar, de visita, de jogos, de costura, de estudos, gabinetes de trabalho, cozinhas e copas.
+
+
+§ 2º
+
+São compartimentos de permanência transitória aqueles locais de uso definido, ocasional ou temporário, caracterizando espaços habitáveis de permanência confortável por tempo determinado, tais como vestíbulos, *halls*, corredores, passagens, caixa de escada, gabinetes sanitários, vestiários, despensas, depósitos e lavanderias residenciais.
+
+
+Art. 131.
+
+Os compartimentos de permanência prolongada deverão ser iluminados e ventilados diretamente, por abertura voltada para o espaço exterior.
+
+
+Art. 132.
+
+Para garantia de iluminação e ventilação de compartimentos, os espaço exteriores (anexo — desenho 21) devem satisfazer as seguintes disposições:
+
+
+I –
+
+permitir a inscrição de um círculo de diâmetro mínimo de 1,50 m (um metro e cinqüenta centímetros) junto à abertura de iluminação, desde que não interfira nos afastamentos preconizados pela Lei de Zoneamento;
+
+
+II –
+
+ter uma área mínima de 10,00 m² (dez metros quadrados);
+
+
+III –
+
+permitir, a partir do primeiro pavimento acima do térreo servido pela área, quando houver mais de uma inscrição de um círculo cujo diâmetro "D" (em metros) seja dado pela fórmula:
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p>D = H + 1 m</p><p>3</p></td><td>onde H é igual a distância, em metros, do forro do último pavimento ao nível do piso do primeiro pavimento acima do térreo, servido pelo espaço.</td></tr></tbody></table>
+
+
+Parágrafo único
+
+Para cálculo da altura "H" será considerada a espessura de 0,15 m (quinze centímetros) para cada laje de piso e cobertura e pé-direito mínimo de 2,80 m (dois metros e oitenta centímetros).
+
+
+Art. 133.
+
+Para iluminação e ventilação de compartimentos de permanência prolongada através de poços internos (anexo — desenho 22) deverão ser satisfeitas as seguintes exigências:
+
+
+I –
+
+permitir a inscrição de um círculo de diâmetro mínimo de 2,00 m (dois metros) (fig. A);
+
+
+II –
+
+que uma das paredes do (s) compartimento (s) seja totalmente coincidente com uma das medidas do poço (fig A);
+
+
+III –
+
+satisfazer também o inciso III do artigo anterior, quando se tratar de edificações com mais de um pavimento (fig. B).
+
+
+Art. 134.
+
+A ventilação e iluminação dos compartimentos de permanência transitória poderão ser efetuadas através de poços internos que permitam a inscrição de um círculo de diâmetro mínimo de 1,50 m (um metro e cinqüenta centímetros) e 3,00 m² (três metros quadrados) de área mínima (anexo — desenho 23).
+
+
+Art. 135.
+
+As aberturas para iluminação e ventilação comunicando com o exterior obedecerão as seguintes restrições:
+
+
+I –
+
+não poderá haver abertura em paredes levantadas na divisa do lote;
+
+
+II –
+
+as aberturas mínimas dos cômodos serão determinadas através das tabelas anexas a este código;
+
+
+III –
+
+caso existam varandas ou abrigos com mais de 2,00 m (dois metros) de largura até o limite de 3,00 m (três metros), deverá haver um acréscimo, na área de abertura, de 25% (vinte e cinco por cento) sobre a relação determinada na tabela.
+
+
+Art. 136.
+
+Nas aberturas para iluminação e ventilação, quando houver duas ou mais edificações em um mesmo lote, a distância mínima entre as unidades será de 3,00 m (três metros).
+
+
+##### Seção VI — Dos pés-direitos
+
+
+Art. 137.
+
+Em construções residenciais o pé-direito mínimo permitido para o corpo da construção será de 2,80 m (dois metros e oitenta centímetros), podendo, em áreas abertas, abrigos e terraços apresentar-se com um mínimo de 2,50 m (dois metros e cinqüenta centímetros) de altura.
+
+
+Art. 138.
+
+Nas construções comerciais o pé-direito mínimo será de 3,00 m (três metros).
+
+
+§ 1º
+
+Em edificações comerciais de serviços (escritórios, consultórios, hotéis, etc.) o pé-direito mínimo será de 2,80 m (dois metros e oitenta centímetros).
+
+
+§ 2º
+
+Para utilização do mezanino o pé-direito mínimo será de 4,95 m (quatro metros e noventa e cinco centímetros), devendo o pé-direito superior conter o mínimo de 2,30 m (dois metros e trinta centímetros) de altura.
+
+
+##### Seção VII — Das coberturas
+
+
+Art. 139.
+
+As coberturas serão completamente independentes das edificações vizinhas já existentes nas linhas de divisa do lote urbano.
+
+
+§ 1º
+
+A cobertura, quando comum a edificações agrupadas horizontalmente, será dotada de estrutura independente para cada unidade autônoma e a parede divisória deverá ultrapassar o teto chagando a altura do último elemento da cobertura, de forma que haja total separação entre as unidades.
+
+
+§ 2º
+
+As águas pluviais provenientes das coberturas, deverão escoar dentro dos limites do lote, não sendo permitido o lançamento diretamente sobre os lotes vizinhos ou logradouros.
+
+
+Art. 140.
+
+Nas edificações implantadas no alinhamento frontal, as águas pluviais provenientes dos telhados, marquises e outros locais voltados para o logradouro, deverão ser captadas em calhas e condutores e lançadas nas sarjetas passando sob a calçada.
+
+
+Art. 141.
+
+Não será permitido o despejo de águas pluviais na rede de esgoto e nem o despejo de esgotos ou de águas residuais e de lavagens nas sarjetas dos logradouros ou em galerias de águas pluviais.
+
+
+Art. 142.
+
+Além das prescrições deste Código que lhes forem aplicáveis, o escoamento de água pluvial obedecerá ao disposto no Código Civil e no Código de Águas.
+
+
+##### Seção VIII — Dos alinhamentos e afastamentos
+
+
+Art. 143.
+
+Todos os prédios construídos ou reconstruídos dentro dos perímetros urbanos deverão obedecer ao alinhamento e ao recuo obrigatório, quando for o caso, fornecido pela Prefeitura Municipal.
+
+
+§ 1º
+
+Os afastamentos frontais, laterais e fundos de cada setor serão dados pelo Plano Diretor ou através de Decreto do Poder Executivo, quando o Plano Diretor não abranger a área.
+
+
+§ 2º
+
+Salvo os casos especiais constantes neste Código, o recuo frontal não poderá ser inferior a 3 m (três) metros.
+
+
+Art. 144.
+
+Todas as construções poderão eventualmente ser feitas no alinhamento das divisas e fundos desde que não haja abertura de qualquer espécie e que as paredes tenham no mínimo 0,20 m (vinte centímetros) de espessura.
+
+
+Art. 145.
+
+A construção nos alinhamentos obrigará a utilização de calhas e condutores a fim de evitar a queda de água no terreno vizinho.
+
+
+Art. 146.
+
+O afastamento em relação à testada do terreno somente poderá ser tomado a partir dos piquetes de alinhamento, fornecidos pela equipe topográfica da Prefeitura Municipal.
+
+
+##### Seção IX — Das instalações
+
+
+Art. 147.
+
+As instalações e os equipamentos das edificações serão projetados, calculados e executados tendo em vista a segurança, a higiene e o conforto dos usuários, de acordo com as normas técnicas oficiais.
+
+
+Art. 148.
+
+Será obrigatória a execução das instalações de água, esgoto, eletricidade e telefone, assim como os dispositivos contra incêndio, nos casos exigidos pelas normas e pelas autoridades competentes.
+
+
+Art. 149.
+
+É obrigatória a ligação da rede domiciliar às redes de água e esgoto, quando tais redes existirem na via pública onde se situa a edificação.
+
+
+Art. 150.
+
+Quando não houver rede de esgoto, as edificações serão dotadas de fossas sépticas de concreto pré-moldado ou de alvenaria, afastadas, no mínimo, 1,50 m (um metro e cinqüenta centímetros) das divisas laterais e fundo do lote, com capacidade proporcional ao número de usuários e, desde que seja possível, executadas no afastamento frontal.
+
+
+§ 1º
+
+Depois de passarem pela fossa séptica, as águas serão infiltradas no terreno por meio de sumidouro convenientemente construído com tijolos crivados e afastados no mínimo 5,00 m (cinco metros) das divisas laterais e fundo do lote.
+
+
+I –
+
+Entende-se por água servida toda a água proveniente do chamado esgoto doméstico ou comercial, aquela que resulta do uso dos lavatórios, tanques, banheiras, máquinas de lavar roupas, pias de cozinha, lavagem de veículos, entre outras, ou seja: água suja.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+II –
+
+Fica proibido o despejo de água servida proveniente de pias de cozinha, tanques, máquinas de lavar roupas e banheiros, oficinas, e similares, em ruas e avenidas do município de Colorado do Oeste-RO.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+III –
+
+Definir que as referidas águas deverão ser canalizadas e direcionadas para a fossa séptica da própria residência.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+§ 2º
+
+As águas provenientes de pias de cozinha deverão passar por uma caixa de gordura antes de serem lançadas no sumidouro ou na fossa séptica.
+
+
+Art. 151.
+
+No caso de se verificar mau cheiro ou qualquer inconveniente pelo mau funcionamento de uma fossa, o departamento competente providenciará para que sejam feitos, pelo responsável, os reparos necessários ou a substituição da mesma.
+
+
+Art. 152.
+
+É proibida a construção de fossas sépticas, sumidouros ou valas de infiltração nos passeios.
+
+
+Art. 152-A.
+
+Fica autorizado aos proprietários de imóveis a construção de fossa na área externa, área esta, compreendidas entre 1,5m do meio fio e o muro e/ou gradil existentes no imóvel, sendo obrigatoriamente preservada a área de passeio.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+§ 1º
+
+Os imóveis que não tenham a metragem de 1,5m na área externa, poderão excepcionalmente construir a fossa na área de passeio, mediante autorização do Departamento de Desenvolvimento Urbano, Habitação e Urbanismo da Prefeitura Municipal.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+§ 2º
+
+Fica proibido qualquer tipo de abertura, devendo a construção da fossa ser tapada de forma que se nivele com a área de passeio, bem como o suspiro deve ser construído nas laterais do meio fio.
+
+Inclusão feita pelo Art. 2º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+Art. 152-B.
+
+Para o cumprimento do disposto neste artigo o proprietário do imóvel deverá solicitar por meio de requerimento ao Departamento de Desenvolvimento Urbano, Habitação e Urbanismo da Prefeitura Municipal a autorização para construção da aludida fossa.
+
+Inclusão feita pelo Art. 3º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+Parágrafo único
+
+Os proprietários de imóveis que se encontram, nas condições estabelecidas nos artigos 150 e 152-A, terão um prazo de 90 dias para realizarem os ajustes estruturais nos seus imóveis.
+
+Inclusão feita pelo Art. 3º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+Art. 152-C.
+
+Caso seja comprovado que a pessoa está jogando água em ruas e avenidas de Colorado do Oeste, será aplicada uma multa no valor de 10 (dez) Unidades Padrão Fiscal UPFs, vigente, conforme previsão no código de postura.
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+Parágrafo único
+
+Os valores das multas aplicadas serão destinados ao Fundo Municipal de Meio Ambiente para aplicação em Políticas Públicas Ambientais.
+
+Inclusão feita pelo Art. 4º. - Lei Complementar nº 99, de 13 de julho de 2022.
+
+
+##### Seção X — Dos pára-raios
+
+
+Art. 153.
+
+É proibida a instalação de pára-raios, de acordo com as normas técnicas oficiais, nas edificações cujo ponto mais alto esteja sobrelevado mais de 10,00 m (dez metros) em relação às outras partes das edificações existentes num raio de 80,00 m (oitenta metros).
+
+
+Art. 154.
+
+A instalação de pára-raios será obrigatória nas edificações isoladas que, mesmo com altura inferior as mencionadas no artigo anterior, sejam destinadas a:
+
+
+I –
+
+edifícios públicos;
+
+
+II –
+
+supermercados;
+
+
+III –
+
+escolas;
+
+
+IV –
+
+cinemas, teatros e *sopping centers*;
+
+
+V –
+
+terminais rodoviários, aeroportos e edifícios-garagens;
+
+
+VI –
+
+depósitos de inflamáveis e explosivos.
+
+
+Art. 155.
+
+Quaisquer destinações que ocupem área de terreno em projeção horizontal superior a 5.000,00 m² (cinco mil metros quadrados) deverão ser providas de pára-raios.
+
+
+##### Seção XI — Dos tapumes e andaimes
+
+
+Art. 156.
+
+Toda e qualquer edificação a ser construída ou demolida, situada no alinhamento da divisa do lote urbano, será obrigatoriamente, protegida por tapumes totalmente vedados com altura mínima de 2,00 m (dois metros) que garantam a segurança de quem transita pelo logradouro.
+
+
+Parágrafo único
+
+Nas entradas e saídas de veículos será obrigatório o uso de luz de sinalização.
+
+
+Art. 157.
+
+Os tapumes e andaimes não poderão ocupar mais de 2/3 (dois terços) do passeio, ficando o outro terço inteiramente livre e desimpedido aos pedestres.
+
+
+Parágrafo único
+
+Os tapumes não poderão exceder, sob qualquer hipótese, 4,00 m (quatro metros) da divisa frontal sobre o logradouro publico.
+
+
+Art. 158.
+
+Os andaimes para execução das marquises deverão ficar confinados à área de fechamento dos tapumes.
+
+
+Art. 159.
+
+Não será permitida a utilização de qualquer parte da via pública com materiais de construção além do alinhamento do tapume.
+
+
+Art. 160.
+
+Durante o período de construção, o construtor é obrigado a conservar o passeio em frente à óbra de forma a oferecer boas condições de trânsito aos pedestres e, caso este tenha sido danificado, será obrigatória a sua reparação, ficando a expedição do "Habite-se" subordinada a conclusão desses serviços.
+
+
+Art. 161.
+
+Caso a obra seja paralisada por prazo superior a 6 (seis) meses, os tapumes e andaimes deverão ser retirados para desimpedir o passeio público e fica vedada a construção no alinhamento frontal.
+
+
+Art. 162.
+
+As construções de edifícios de 03 (três) ou mais pavimentos deverão ser protegidas externamente por bandeja ou proteção similar.
+
+
+##### Seção XII — Dos muros, calçadas e passeios
+
+
+Art. 163.
+
+Os muros e cercas deverão obrigatoriamente ser construídos no alinhamento do lote urbano que será fornecido pela equipe de topografia da Prefeitura após requerimento do interessado, sendo a sua solicitação obrigatória.
+
+
+Art. 164.
+
+A Prefeitura Municipal poderá exigir dos proprietários a construção de muros de arrimo e de proteção sempre que o nível do terreno for superior ao logradouro público ou quando houver desnível entre os lotes que possa ameaçar a segurança pública.
+
+
+Art. 165.
+
+Os terrenos baldios nas ruas pavimentadas ou áreas determinadas pelo Poder Executivo deverão ser fechados com muros de alvenaria e, nos demais, é permitido o fechamento por meio de cerca de madeira, arames lisos ou tela.
+
+
+Art. 166.
+
+Os muros e cercas deverão ser conservados limpos e obrigatoriamente pintados.
+
+
+Parágrafo único
+
+As edificações construídas com recuo frontal poderão ser dispensadas do fechamento da frente desde que no terreno seja mantido um ajardinamento rigoroso.
+
+
+Art. 167.
+
+No caso de lotes de esquina os muros deverão sofrer um corte chanfrado, formando um triângulo retângulo cujos catetos tenham 2,50 m (dois metros e cinqüenta centímetros).
+
+
+Art. 168.
+
+Os proprietários dos imóveis que tenham frente para logradouros públicos pavimentados ou dotados de meio-fio serão obrigados a pavimentar e manter em bom estado o passeio em frente aos seus lotes.
+
+
+§ 1º
+
+Os passeios deverão apresentar uma declividade máxima de 3 % (três por cento) do alinhamento para o meio-fio.
+
+
+§ 2º
+
+Os passeios deverão ser executados acompanhando a declividade natural do logradouro, não sendo permitida a construção de degraus, tanto no sentido transversal como no longitudinal e nem nas junções de segmento de calçadas de proprietários diferentes.
+
+
+§ 3º
+
+Em determinadas vias a Prefeitura Municipal poderá definir a padronização da pavimentação dos passeios por razões de ordem técnica ou estética, regulamentado a sua execução através de Decretos.
+
+
+#### CAPÍTULO VI — DAS PENALIDADES
+
+
+##### Seção I — Das irregularidades
+
+
+Art. 169.
+
+Qualquer obra, em qualquer fase, sem a respectiva licença de construção, estará sujeita a multa, embargo, interdição e demolição pela Prefeitura, independente de infração civil ou penal.
+
+
+Parágrafo único
+
+Estarão, também, sujeitos a estas penalidades os imóveis que tiverem com suas licenças anuladas, revogadas, cassadas e/ou prescritas.
+
+
+Art. 170.
+
+A fiscalização urbana da Prefeitura, no âmbito de sua competência, expedirá notificações e autos de infração para o cumprimento das disposições deste Código, endereçados ao proprietário da obra ou responsável técnico.
+
+
+Art. 171.
+
+As notificações serão expedidas apenas para o cumprimento de algumas exigências acessórias contidas no processo, regularização do projeto e/ou obra, ou falta de cumprimento das disposições deste Código.
+
+
+§ 1º
+
+Expedida a notificação o proprietário da obra ou o responsável técnico terão o prazo de 03 (três) dias para comparecer ao setor competente e receber informações complementares.
+
+
+§ 2º
+
+Esgotado o prazo da notificação sem que a mesma seja atendida, lavrar-se-á o auto de infração, onde o proprietário é obrigado a paralisar a construção da obra.
+
+
+§ 3º
+
+O setor competente poderá conceder um prazo de até 15 (quinze) dias para que o notificado regularize a situação, devendo a obra ficar paralisada até o atendimento.
+
+
+##### Seção II — Dos embargos
+
+
+Art. 172.
+
+A obra em andamento, seja ela de reparo, reconstrução, reforma ou construção, será embargada, sem prejuízo das multas e outras penalidades, quando:
+
+
+I –
+
+estiver sendo executada sem a licença da Prefeitura Municipal nos casos em que a mesma for necessária, em desobediência ao presente Código de Obras e a Lei de Zoneamento e Uso do Solo;
+
+
+II –
+
+o proprietário ou responsável técnico se recusar a atender a notificação preliminar emitida pela Prefeitura;
+
+
+III –
+
+estiver sendo executada sem a responsabilidade do profissional registrado no CREA-RO e na Prefeitura;
+
+
+IV –
+
+o profissional responsável der baixa na ART — Anotação de Responsabilidade Técnica ou sofrer suspensão ou cassação da Carteira pelo Conselho Regional de Engenharia Arquitetura e Agronomia — CREA;
+
+
+V –
+
+estiver em risco a sua estabilidade, com perigo para o público ou para o pessoal que a executa.
+
+
+Art. 173.
+
+Na hipótese da ocorrência de algum dos casos citados no artigo anterior, a fiscalização da Prefeitura Municipal lavrará um termo de embargo das obras, encaminhando ao responsável técnico ou proprietário.
+
+
+Parágrafo único
+
+O embargo sé será levantado após o cumprimento das exigências consignadas no respectivo termo.
+
+
+##### Seção III — Da interdição
+
+
+Art. 174.
+
+Uma edificação ou qualquer de suas dependências poderá ser interditada a qualquer tempo, com o impedimento de sua ocupação, quando oferecer perigo de caráter público.
+
+
+Art. 175.
+
+Não sendo cumprida qualquer uma das fases da notificação, embargo e/ou auto de infração, a Secretaria Municipal de Planejamento solicitará a força policial para a interdição da obra.
+
+
+Art. 176.
+
+Caso não tenha sido paga a licença de construção, a Secretaria Municipal de Planejamento efetuará um laudo técnico do tamanho da obra em construção e lançará, *ex oficio*, a licença de construção, com cobrança em dobro da taxa normal.
+
+
+Parágrafo único
+
+Não sendo paga a taxa em dobro num prazo de 30 (trinta) dias efetuar-se-á a cobrança judicial.
+
+
+##### Seção IV — Da demolição
+
+
+Art. 177.
+
+A demolição total ou parcial das construções será imposta pela Prefeitura, mediante intimação, quando:
+
+
+I –
+
+clandestinas e não for possível a sua regularização;
+
+
+II –
+
+feitas sem observância do alinhamento e uso permitido, com desrespeito a planta aprovada nos seus elementos essenciais;
+
+
+III –
+
+a obra for edificada em terrenos ou áreas públicas;
+
+
+IV –
+
+julgadas com risco iminente de caráter público, e o proprietário não quiser tomar as providências que a Prefeitura Municipal determinar para a sua segurança.
+
+
+Art. 178.
+
+No caso em que a demolição for executada pela Administração Pública, as despesas decorrentes para tal correrão por conta do proprietário da obra.
+
+
+##### Seção V — Das multas
+
+
+Art. 179.
+
+As multas, independentemente de outras penalidades previstas pela legislação em geral e pelo presente Código, serão aplicadas quando:
+
+
+I –
+
+o projeto sofrer alterações na sua execução ou conter informações falsas;
+
+
+II –
+
+a edificação for ocupada sem que a Prefeitura tenha feito sua vistoria e emitido o respectivo Habite-se;
+
+
+III –
+
+iniciar a construção ou construir sem a licença de construção emitida pela Prefeitura Municipal;
+
+
+IV –
+
+decorridos 30 (trinta) dias da conclusão da obra, não for solicitada a vistoria da Prefeitura;
+
+
+V –
+
+desacatar os funcionários municipais encarregados da aplicação dos dispositivos contidos no presente Código;
+
+
+VI –
+
+o proprietário e/ou a concessionária dos serviços de água e luz não cumprirem as exigências do presente Código.
+
+
+Art. 180.
+
+As multas serão calculadas por meio de alíquotas percentuais sobre o valor de referência e obedecerão ao seguinte escalonamento:
+
+
+I –
+
+iniciar ou executar obras sem licença da Prefeitura Municipal: 10 % (dez por cento) da UF por m² (metro quadrado) de área construída;
+
+
+II –
+
+executar as obras em desacordo com o projeto aprovado: 100 % (cem por cento) da UF;
+
+
+III –
+
+construir em desacordo com o termo de alinhamento: 300 % (trezentos por cento) da UF;
+
+
+IV –
+
+deixar materiais sobre o leito do logradouro público além do tempo necessário para descarga e remoção: 300 % (trezentos por cento) da UF;
+
+
+V –
+
+demolir prédios sem licença da Prefeitura: 50 % (cinqüenta por cento) da UF;
+
+
+VI –
+
+não manter no local da obra os Projetos ou o Alvará de Construção: 100 % (cento por cento) da UF;
+
+
+VII –
+
+deixar de colocar tapumes em obras que atinjam o alinhamento: 200 % (duzentos por cento) da UF;
+
+
+VIII –
+
+não deixar fixar no local da obra a placa de identificação instituída pela Prefeitura Municipal — 100 % (cem por cento) da UF;
+
+
+IX –
+
+desacatar os funcionários municipais encarregados de aplicar os dispositivos deste Código: de 50 % (cinqüenta por cento) a 500 % (quinhentos por cento) da UF, conforme a gravidade do caso;
+
+
+X –
+
+o proprietário do imóvel não cumprir o previsto no artigo 48 do presente Código: 300 % (trezentos por cento) da UF.
+
+
+Parágrafo único
+
+Nas situações não contidas neste artigo, o montante da multa sera fixado pelo órgão competente da Prefeitura Municipal de Colorado do Oeste, tendo em vista:
+
+
+I –
+
+a gravidade da infração;
+
+
+II –
+
+as circunstâncias;
+
+
+III –
+
+os antecedentes do infrator.
+
+
+Art. 181.
+
+O infrator terá o prazo estipulado na notificação para legalizar a irregularidade constatada, sob pena de ser considerado reincidente.
+
+
+Parágrafo único
+
+O prazo a ser fixado na notificação não poderá exceder a 30 (trinta) dias.
+
+
+Art. 182.
+
+Nas reincidências, as multas serão aplicadas em dobro.
+
+
+Art. 183.
+
+Uma vez lavrado o auto da infração, o infrator terá o prazo máximo de 15 (quinze) dias úteis para recolher à Fazenda Pública Municipal a multa estipulada, independentemente das sanções jurídicas que possam ser ou tenham sido impostas.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 184.
+
+O proprietário da obra deverá colocar em lugar apropriado e com caracteres bem visíveis da via pública, uma placa com a identificação de seu nome, endereço da obra e o número do Alvará de Construção, tendo dimensões mínimas de 1,00 m² (um metro quadrado).
+
+
+Parágrafo único
+
+Esta placa poderá ser coincidente com a do profissional responsável pela obra e isenta de qualquer tributação.
+
+
+Art. 185.
+
+A numeração de qualquer prédio ou unidade residencial deverá ficar em lugar visível.
+
+
+Art. 186.
+
+Permitir-se-á somente a construção no primeiro piso e na construção da frente do imóvel, na Rua Potiguara, entre as Avenidas Rio Negro e Solimões, de edificações em alvenaria com a finalidade comercial.
+
+
+Art. 187.
+
+Nas edificações existentes que não estejam de acordo com as exigências estabelecidas no presente Código, somente serão permitidas obras que impliquem aumento de sua capacidade de utilização quando as partes a ampliar não venham a agravar transgressões já existentes.
+
+
+Art. 188.
+
+As edificações especiais não mencionadas neste Código deverão obedecer às legislações específicas de cada uso.
+
+
+Art. 189.
+
+Os casos omissos do presente Código serão julgados após terem sido estudados pelo órgão competente da Prefeitura Municipal, atendendo as Leis, Decretos e Regulamentos Estaduais e Federais.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 190.
+
+Fica determinado o prazo de 01 (um) ano a partir da data da publicação desta Lei, para que sejam regularizadas as construções edificadas sem a devida Licença do órgão competente da Prefeitura Municipal de Colorado do Oeste.
+
+
+§ 1º
+
+Os proprietário de edificações que se enquadrem neste artigo que não regularizarem a Licença de Construção no prazo estipulado deverão apresentar projeto obedecendo às normas estabelecidas no presente Código.
+
+
+§ 2º
+
+O proprietário que regularizar a Licença no prazo estabelecido poderá apresentar projeto conforme a edificação existente, desde que o projeto esteja dentro das normas da Lei anteriormente vigente.
+
+
+Art. 191.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Colorado do Oeste — RO, 13 de Outubro de 2009.
+
+**ANEDINO CARLOS PEREIRA JÚNIOR**
+
+Prefeito Municipal
+
+
+## Anexo I — TABELA I - CASAS POPULARES
+
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>ÁREA MÍNIMA (M2)</td><td>LARGURA MÍNIMA (M)</td><td>ILUMINAÇÃO MÍNIMA</td><td>PÉ-DIREITO MÍNIMO (M)</td><td>REVESTIMENTO DAS PAREDES</td><td>REVESTIMENTO DOS PISOS</td><td>LARGURA DAS PORTAS</td><td>OBSERVAÇÕES</td></tr><tr><td>SALA</td><td>8,00</td><td>2,50</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,70</td><td> </td></tr><tr><td>COPA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td> </td></tr><tr><td>COZINHA</td><td>6,00</td><td>2,00</td><td>1/7</td><td>2,80</td><td>IMPERMEÁVEL ATÉ 1,50M (MÍNIMO)</td><td>IMPERMEÁVEL</td><td>0,70</td><td> </td></tr><tr><td>QUARTO</td><td>6,15</td><td>2,20</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,70</td><td> </td></tr><tr><td>BANHEIROS</td><td>2,00</td><td>1,10</td><td>1/8</td><td>2,30</td><td>IMPERMEÁVEL ATÉ 1,50M (MÍNIMO)</td><td>IMPERMEÁVEL</td><td>0,60</td><td><p>I - NÃO SERÁ PERMITIDA COMUNICAÇÃO DIRETA COM A COZINHA;</p><p>II - TOLERA-SE VENTILAÇÃO E ILUMINAÇÃO INDIRETA OU ARTIFICIAL.</p></td></tr><tr><td>CORREDORES</td><td>-</td><td>0,80</td><td>-</td><td>2,30</td><td>-</td><td>-</td><td>-</td><td>I - TOLERA-SE VENTILAÇÃO E ILUMINAÇÃO INDIRETA OU ARTIFICIAL</td></tr><tr><td>ESCADAS</td><td>-</td><td>0,80</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td><p>I - A ALTURA MÁXIMA DO DEGRAU SERÁ DE 0,20 M (VINTE CENTÍMETROS);</p><p>II - A LARGURA MÍNIMA DO DEGRAU SERÁ DE 0,25M (VINTE CINCO CENTÍMETROS)</p></td></tr><tr><td>DESPENSA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td> </td></tr><tr><td>VARANDA</td><td>-</td><td>1,00</td><td>-</td><td>2,50</td><td>-</td><td>-</td><td>-</td><td> </td></tr><tr><td>ÁREA DE SERVIÇO</td><td>-</td><td>1,00</td><td>-</td><td>2,50</td><td>IMPERMEÁVEL ATÉ 1,50M (MÍNIMO)</td><td>IMPERMEÁVEL</td><td>0,70</td><td> </td></tr></tbody></table>
+
+OBSERVAÇÕES: I — A coluna iluminação mínima refere-se a relação entre a área de cobertura e a área do piso;
+
+II — Todas as dimensões são expressas em metros;
+
+III — Todas as áreas são expressas em metros quadrados;
+
+IV — A largura das portas é considerada mínima.
+
+
+## Anexo II — TABELA II - RESIDENCIAIS
+
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>ÁREA MÍNIMA (M2)</td><td>LARGURA MÍNIMA (M)</td><td>ILUMINAÇÃO MÍNIMA</td><td>PÉ-DIREITO MÍNIMO (M)</td><td>REVESTIMENTO DAS PAREDES</td><td>REVESTIMENTO DOS PISOS</td><td>LARGURA DAS PORTAS</td><td>OBSERVAÇÕES</td></tr><tr><td>SALA DE ESTAR</td><td>9,00</td><td>2,70</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,80</td><td> </td></tr><tr><td>SALA DE REFEIÇÕES</td><td>6,00</td><td>2,00</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,80</td><td> </td></tr><tr><td>COZINHA</td><td>6,00</td><td>2,00</td><td>1/7</td><td>2,80</td><td>IMPERMEÁVEL ATÉ 1,50M</td><td>IMPERMEÁVEL</td><td>0,80</td><td> </td></tr><tr><td>QUARTO</td><td>8,00</td><td>2,50</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,70</td><td> </td></tr><tr><td>BANHEIROS</td><td>2,50</td><td>1,20</td><td>1/8</td><td>2,30</td><td>IMPERMEÁVEL ATÉ 1,50M (MÍNIMO)</td><td>IMPERMEÁVEL</td><td>0,60</td><td><p>I - NÃO SERÁ PERMITIDA COMUNICAÇÃO DIRETA COM A COZINHA;</p><p>II - TOLERA-SE VENTILAÇÃO E ILUMINAÇÃO INDIRETA OU ARTIFICIAL.</p></td></tr><tr><td>BANHEIROS DE EMPREGADA</td><td>1,80</td><td>1,10</td><td>1/8</td><td>2,30</td><td>IMPERMEÁVEL ATÉ 1,50M (MÍNIMO)</td><td>IMPERMEÁVEL</td><td>0,60</td><td><p>I - NÃO SERÁ PERMITIDA COMUNICAÇÃO DIRETA COM A COZINHA;</p><p>II - TOLERA-SE VENTILAÇÃO E ILUMINAÇÃO INDIRETA OU ARTIFICIAL.</p></td></tr><tr><td>LAVABO</td><td>1,50</td><td>1,00</td><td>1/8</td><td>2,30</td><td>IMPERMEÁVEL ATÉ 1,50M (MÍNIMO)</td><td>IMPERMEÁVEL</td><td>0,60</td><td><p>I - NÃO SERÁ PERMITIDA COMUNICAÇÃO DIRETA COM A COZINHA;</p><p>II - TOLERA-SE VENTILAÇÃO E ILUMINAÇÃO INDIRETA OU ARTIFICIAL.</p></td></tr><tr><td>VESTÍBULO</td><td>1,00</td><td>1,00</td><td>-</td><td>2,30</td><td>-</td><td>-</td><td>0,80</td><td> </td></tr><tr><td>GARAGEM</td><td>12,50</td><td>2,50</td><td>1/15</td><td>2,50</td><td>-</td><td>IMPERMEÁVEL</td><td>-</td><td>I - A ÁREA DE VENTILAÇÃO PODERÁ SER DA PORTA C/ VENEZIANA</td></tr><tr><td>ÁREA DE SERVIÇO</td><td>2,00</td><td>1,20</td><td>1/7</td><td>2,30</td><td>IMPERMEÁVEL ATÉ 1,50M (MÍNIMO)</td><td>IMPERMEÁVEL</td><td>0,80</td><td> </td></tr><tr><td>DESPENSA</td><td>2,00</td><td>1,10</td><td>1/10</td><td>2,30</td><td>-</td><td>IMPERMEÁVEL</td><td>0,70</td><td> </td></tr></tbody></table>
+
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>ÁREA MÍNIMA (M2)</td><td>LARGURA MÍNIMA (M)</td><td>ILUMINAÇÃO MÍNIMA</td><td>PÉ-DIREITO MÍNIMO (M)</td><td>REVESTIMENTO DAS PAREDES</td><td>REVESTIMENTO DOS PISOS</td><td>LARGURA DAS PORTAS</td><td>OBSERVAÇÕES</td></tr><tr><td>ESCADAS</td><td>-</td><td>0,80</td><td>-</td><td>-</td><td>-</td><td>IMPERMEÁVEL</td><td>-</td><td><p>I - A ALTURA MÁXIMA DO DEGRAU SERÁ DE 0,20 M (VINTE CENTÍMETROS)</p><p>II - A LARGURA MÍNIMA DO DEGRAU SERÁ DE 0,25M (VINTE CINCO CENTÍMETROS)</p></td></tr><tr><td>QUARTO DE EMPREGADA</td><td>4,00</td><td>2,00</td><td>1/7</td><td>2,60</td><td>-</td><td>IMPERMEÁVEL</td><td>0,70</td><td> </td></tr><tr><td>CORREDOR</td><td>-</td><td>0,80</td><td>-</td><td>2,30</td><td>-</td><td>-</td><td>0,70</td><td><p>I - TOLERA-SE ILUMINAÇÃO, VENTILAÇÃO INDIRETA OU ARTIFICIAL</p><p>II - COM MAIS DE 3,00M (TRÊS METROS) DE COMPRIMENTO A LARGURA MÍNIMA DE 1,00M (UM METRO);</p><p>III - COM MAIS DE 10,00M (DEZ METROS) DE COMPRIMENTO A VENTILAÇÃO MÍNIMA SERÁ DE 1/20 (UM VINTE AVOS).</p></td></tr><tr><td>ESCRITÓRIO ATELIE OU BIBLIOTECA</td><td>8,00</td><td>2,70</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,80</td><td> </td></tr><tr><td>SALA ÍNTIMA</td><td>8,00</td><td>2,70</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,80</td><td><p> </p></td></tr><tr><td>VARANDA</td><td>-</td><td>1,20</td><td>-</td><td>2,50</td><td>-</td><td>-</td><td>-</td><td> </td></tr><tr><td>CLOSET</td><td>2,00</td><td>1,20</td><td>-</td><td>2,30</td><td>-</td><td>-</td><td>-</td><td><p> </p></td></tr></tbody></table>
+
+OBSERVAÇÕES: I — A coluna iluminação mínima refere-se a relação entre a área de cobertura e a área do piso;
+
+II — Todas as dimensões são expressas em metros quadrados;
+
+III — Todas as áreas são expressas em metros quadrados;
+
+IV — A largura das portas é considerada mínima.
+
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>ÁREA MÍNIMA (M2)</td><td>LARGURA MÍNIMA (M)</td><td>ILUMINAÇÃO MÍNIMA</td><td>PÉ-DIREITO MÍNIMO (M)</td><td>REVESTIMENTO DAS PAREDES</td><td>REVESTIMENTO DOS PISOS</td><td>LARGURA DAS PORTAS</td><td>OBSERVAÇÕES</td></tr><tr><td>HALL DO PRÉDIO</td><td>6,00</td><td>2,20</td><td>1/8</td><td>2,50</td><td>-</td><td>-</td><td>-</td><td><p>I - A ÁREA MÍNIMA DE 6 M2 (SEIS METROS QUADRADOS), É EXIGIDA, QUANDO HOUVER ATÉ 01 (UM) ELEVADOR. QUANDO HOUVER MAIS DE UMA ÁREA DEVERÁ SER AUMENTADA EM 30% (TRINTA POR CENTO) POR ELEVADOR EXCEDENTE.</p></td></tr><tr><td>HALL DOS PAVIMENTOS</td><td>3,00</td><td>1,50</td><td>-</td><td>2,50</td><td>-</td><td>-</td><td>-</td><td><p>I - TOLERA-SE A VENTILAÇÃO POR MEIO DE CHAMINÉS OU DUTOS HORIZONTAIS OU PELA CAIXA DE ESCADAS;</p><p>II - DEVERÁ TER LIGAÇÃO COM A CAIXA DE ESCADA.</p></td></tr><tr><td>CORREDORES</td><td>-</td><td>0,80</td><td>-</td><td>2,30</td><td>-</td><td>-</td><td>0,70</td><td><p>I - QUANDO A ÁREA FOR SUPERIOR A 10,00 M2 (DEZ METROS QUADRADOS) DEVERÁ SER ILUMINADA NA RELAÇÃO DE 1/24 (UM VINTE E QUATRO AVOS) DA ÁREA DO PISO;</p><p>II - QUANDO O COMPRIMENTO FOR SUPERIOR A 10,00M (DEZ METROS) DEVERÁ SER ALARGADA EM 0,10M (DEZ CENTÍMETROS) POR 5M (CINCO METROS) OU FRAÇÃO;</p><p>III - TOLERA-SE VENTILAÇÃO POR MEIOS DE CHAMINÉS OU PELA CAIXA DE ESCADA.</p></td></tr></tbody></table>
+
+
+## Anexo III — TABELA III - EDIFÍCIOS DE HABITAÇÃO COLETIVA - PARTES COMUNS
+
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>ÁREA MÍNIMA (M2)</td><td>LARGURA MÍNIMA (M)</td><td>ILUMINAÇÃO MÍNIMA</td><td>PÉ-DIREITO MÍNIMO (M)</td><td>REVESTIMENTO DAS PAREDES</td><td>REVESTIMENTO DOS PISOS</td><td>LARGURA DAS PORTAS</td><td>OBSERVAÇÕES</td></tr><tr><td>RAMPAS</td><td>-</td><td>-</td><td>-</td><td>ALTURA MÍNIMA LIVRE 2,20M (DOIS METROS VINTE CENTÍMETROS).</td><td>MATERIAL INCOMBUSTÍVEL</td><td>-</td><td>-</td><td><p>I - O PISO DEVERÁ SER DE MATERIAL ANTIDERRAPANTE;</p><p>II - A INCLINAÇÃO MÁXIMA SERÁ DE 20% (VINTE POR CENTO), PARA VEÍCULOS, E 12% (DOZE POR CENTO) PARA PEDESTRES;</p><p>III - A LARGURA MÍNIMA SERÁ DE 1,20M (UM METRO E VINTE CENTÍMETROS) PARA PESSOAS, E 2,20M (DOIS METROS E VINTE CENTÍMETROS) PARA VEÍCULOS (LAÇOS RETOS).</p></td></tr><tr><td>ESCADAS</td><td>-</td><td>1,20</td><td>-</td><td>A ALTURA MÍNIMA LIVRE 2,10 M (DOIS METROS E DEZ CENTÍMETROS)</td><td>IMPERMEÁVEL ATÉ 1,50 M (UM METRO E CINQUENTA CENTÍMETROS) MATERIAL INCOMBUSTÍVEL</td><td>-</td><td>-</td><td><p>I - QUANDO O PÉ-DIREITO FOR IGUAL OU SUPERIOR A 3,00 M (TRÊS METROS) SERÁ OBRIGATÓRIO INTERCALAR UM PATAMAR DE LARGURA MÍNIMA DE 1,20M (UM METRO E VINTE CENTÍMETROS);</p><p>II - ALTURA MÁXIMA DO DEGRAU SERÁ DE 0,18M (DEZOITO CENTÍMETROS);</p><p>III - A LARGURA MINIMA DO DEGRAU SERÁ DE 0,28M (VINTE E OITO CENTÍMETROS).</p></td></tr></tbody></table>
+
+OBSERVAÇÕES: I — A coluna iluminação mínima refere-se a relação entre a área de cobertura e a área do piso;
+
+II — Todas as dimensões são expressas em metros;
+
+III — Todas as áreas são expressas em metros quadrados.
+
+
+## Anexo IV — TABELA IV - EDIFÍCIOS COMERCIAIS
+
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>ÁREA MÍNIMA (M2)</td><td>LARGURA MÍNIMA (M)</td><td>ILUMINAÇÃO MÍNIMA</td><td>PÉ-DIREITO MÍNIMO (M)</td><td>REVESTIMENTO DAS PAREDES</td><td>REVESTIMENTO DOS PISOS</td><td>LARGURA DAS PORTAS</td><td>OBSERVAÇÕES</td></tr><tr><td>LOJA</td><td>-</td><td>1,50</td><td>1/7</td><td>3,00</td><td>-</td><td>-</td><td>-</td><td> </td></tr><tr><td>SALAS (ESCRITÓRIOS)</td><td>9,00</td><td>2,60</td><td>1/7</td><td>2,80</td><td>-</td><td>-</td><td>0,80</td><td> </td></tr><tr><td>WC PRIVATIVO</td><td>1,30</td><td>1,00</td><td rowspan="2">1/10</td><td rowspan="2">2,30</td><td rowspan="2">IMPERMEÁVEL ATÉ 1,50M (UM METRO E CINQUENTA CENTÍMETROS)</td><td rowspan="2">IMPERMEÁVEL</td><td rowspan="2">0,60</td><td rowspan="2">I - TOLERA-SE VENTILAÇÃO INDIRETA OU ARTIFICIAL.</td></tr><tr><td>WC COLETIVO</td><td>1,50</td><td>1,20</td></tr><tr><td>KIT-COPA</td><td>1,50</td><td>1,00</td><td>1/10</td><td>2,30</td><td>IMPERMEÁVEL ATÉ 1,50M (UM METRO E CINQUENTA CENTÍMETROS) MÍNIMO</td><td>IMPERMEÁVEL</td><td>0,60</td><td><p>I - TOLERA-SE VENTILAÇÃO INDIRETA OU ARTIFICIAL.</p></td></tr><tr><td>SOBRE-LOJAS</td><td>-</td><td>-</td><td>1/8</td><td>2,30</td><td>-</td><td>-</td><td>0,80</td><td><p>I - SUA ÁREA NÃO PODERÁ EXCEDER A 50% (CINQUENTA POR CENTO) DA ÁREA DA LOJA.</p></td></tr><tr><td>HALL DO PRÉDIO</td><td>9,00</td><td>2,50</td><td>1/8</td><td>3,00</td><td>-</td><td>-</td><td>-</td><td><p>I -  ACRESCENTA 30% (TRINTA POR CENTO) NA ÁREA POR ELEVADOR EXCEDENTE A 01 (UM).</p></td></tr><tr><td>HALL DOS PAVIMENTOS</td><td>6,00</td><td>2,00</td><td>-</td><td>3,00</td><td>-</td><td>-</td><td>-</td><td><p>I - DEVERÁ TER LIGAÇÃO DIRETA COM A CAIXA DA ESCADA;</p><p>II - TOLERA-SE VENTILAÇÃO PELA CAIXA DA ESCADA.</p></td></tr><tr><td>CORREDORES SECUNDÁRIOS</td><td>-</td><td>1,00</td><td>-</td><td>2,50</td><td>-</td><td>-</td><td>-</td><td>I - SÃO DE USO EXCLUSIVO DA ADMINISTRAÇÃO OU SERVIÇO.</td></tr></tbody></table>
+
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>ÁREA MÍNIMA (M2)</td><td>LARGURA MÍNIMA (M)</td><td>ILUMINAÇÃO MÍNIMA</td><td>PÉ-DIREITO MÍNIMO (M)</td><td>REVESTIMENTO DAS PAREDES</td><td>REVESTIMENTO DOS PISOS</td><td>LARGURA DAS PORTAS</td><td>OBSERVAÇÕES</td></tr><tr><td>CORREDORES PRINCIPAIS</td><td>-</td><td>1,50</td><td>-</td><td>1,50</td><td>-</td><td>-</td><td>-</td><td><p>I - SÃO OS DE USO COMUM DO EDIFÍCIO;</p><p>II - QUANDO A ÁREA FOR SUPERIOR A 20% (VINTE POR CENTO) DEVERÁ SER VENTILADO NA RELAÇÃO 1/20 (UM VINTE AVOS) DA ÁREA DO PISO;</p><p>III - TOLERA-SE A VENTILAÇÃO INDIRETA PELA CAIXA DA ESCADA;</p><p>IV - QUANDO O COMPRIMENTO FOR SUPERIOR A 15M (QUINZE METROS), DEVERÁ SER ALARGADO 0,10M (DEZ CENTÍMETROS) POR 5,00M (CINCO METROS) OU FRAÇÃO.</p></td></tr><tr><td>ESCADA COLETIVA</td><td>-</td><td>1,20</td><td>-</td><td>-</td><td>MATERIAL INCOMBUSTÍVEL</td><td>-</td><td>-</td><td><p>I - QUANDO O PÉ-DIREITO FOR IGUAL OU SUPERIOR A 3,00 M (TRÊS METROS) SERÁ OBRIGATÓRIO INTERCALAR UM PATAMAR DE LARGURA MÍNIMA DE 1,00M (UM METRO);</p><p>II - ALTURA MÁXIMA DO DEGRAU SERÁ DE 0,18M (DEZOITO CENTÍMETROS);</p><p>III - A LARGURA MÍNIMA DO DEGRAU SERÁ DE 0,28M (VINTE E OITO CENTÍMETROS).</p></td></tr></tbody></table>
+
+OBSERVAÇÕES: I — A coluna iluminação mínima refere-se a relação entre a área de cobertura e a área do piso;
+
+II — Todas as dimensões são expressas em metros;
+
+III — Todas as áreas são expressas em metros quadrados;
+
+IV — A largura das portas é considerada mínima.
+
+
+## Anexo V — DESENHOS

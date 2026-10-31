@@ -1,0 +1,47 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 18.500.000,00 (dezoito milhões e quinhentos mil reais) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento Geral do Município, no valor de R$ 18.500.000,00 (dezoito milhões e quinhentos mil reais), para reforço de dotações, na forma especificada no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º., na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 17 de março de 2025.  
+  
+Joaquim Silva e Luna  
+Prefeito Municipal  
+  
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos  
+  
+Eduardo Castanheira Garrido Alves  
+Secretário Municipal de Finanças e Orçamento  
+  
+Reginaldo Adriano da Silva  
+Diretor Superintendente da Foz Previdência - FOZPREV
+
+
+## Anexo I
+
+<table><tbody><tr><td colspan="4">CRÉDITO ADICIONAL SUPLEMENTAR</td></tr><tr><td>Órgão</td><td>07</td><td>SECRETARIA MUNICIPAL DE FINANÇAS E ORÇAMENTO</td><td>VALOR</td></tr><tr><td>Unidade</td><td>06</td><td>ENCARGOS</td><td> </td></tr><tr><td>Funcional Programática</td><td>28.843.0030.3003</td><td>Amortização e Pagamento de Juros da Dívida Fundada</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>4.6.91.71</td><td>Principal da Dívida Contratual Resgatado</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente</td><td>18.500.000,00</td></tr><tr><td colspan="4">Justificativa: Adequação orçamentária para parcelamento do Decênio junto ao FOZPREV.</td></tr><tr><td colspan="3">TOTAL DA SUPLEMENTAÇÃO</td><td>18.500.000,00</td></tr></tbody></table>
+
+
+## Anexo II
+
+<table><tbody><tr><td colspan="4">ANULAÇÃO</td></tr><tr><td>Órgão</td><td>04</td><td>SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO E RECURSOS HUMANOS</td><td>VALOR</td></tr><tr><td>Unidade</td><td>01</td><td>GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>Funcional Programática</td><td>04.122.0030.2010</td><td>Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.11</td><td>Vencimentos e Salários</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente</td><td>500.000,00</td></tr><tr><td>Órgão</td><td>07</td><td>SECRETARIA MUNICIPAL DE FINANÇAS E ORÇAMENTO</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>Funcional Programática</td><td>04.123.0030.2040</td><td>Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.11</td><td>Vencimentos e Salários</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente</td><td>287.000,00</td></tr><tr><td>Órgão</td><td>41</td><td>FOZ PREVIDÊNCIA - FUNDO FINANCEIRO</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>FOZ PREVIDÊNCIA - FUNDO FINANCEIRO</td><td> </td></tr><tr><td>Funcional Programática</td><td>09.272.0750.2196</td><td>Pagamento de Aposentadorias e Pensões do Fundo Financeiro</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.01</td><td>Outros Proventos - Pessoal Civil</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.1046</td><td>Recursos Vinculados ao RPPS - Fundo Em Repartição (Plano Financeiro) ....</td><td>17.713.000,00</td></tr><tr><td colspan="3">Justificativa: Adequação orçamentária para parcelamento do Decênio junto ao FOZPREV.</td><td> </td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO</td><td>18.500.000,00</td></tr></tbody></table>
+
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

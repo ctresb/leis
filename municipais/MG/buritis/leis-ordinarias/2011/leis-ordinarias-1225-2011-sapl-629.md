@@ -1,0 +1,249 @@
+---
+titulo: "Lei nº 1.225, de 12 de setembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1225"
+data: "2011-09-12"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-10-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/629"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1027/text"
+sha256_fonte: "010c9e132901abe157e43d6395437d65700f9cc4c6777610f59666e31ff57d6b"
+sha256_texto: "eda232fefcc57c201358260f803bf64ddb17100b5b53e165bfd1b9f1c85d1987"
+capturado_em_fonte: "2026-10-27T20:03:21.566175-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.225, de 12 de setembro de 2011
+
+Criar a Secretaria Municipal de Juventude, Esporte, Lazer e Turismo e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram e Eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica criada na estrutura organizacional da Prefeitura Municipal de Buritis, a Secretaria Municipal da Juventude, Esporte, Lazer e Turismo - SEJELT.
+
+
+Art. 2º.
+
+À Secretaria Municipal de Juventude, Esporte e Lazer compete:
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+I –
+
+Formular políticas e propor diretrizes ao Governo Municipal voltadas juventude;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+II –
+
+Coordenar a implantação das ações governamentais voltadas para atendimento aos jovens;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+III –
+
+Formular e executar, direta e indiretamente em parcerias com entidades públicas e privadas, programas, projetos e atividades para jovens;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+IV –
+
+Apoiar iniciativas da sociedade civil destinadas a fortalecer a auto organização dos jovens;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+V –
+
+Planejar, organizar e executar atividades esportivas no âmbito municipal;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+VI –
+
+Dar assistência técnica às entidades e instituições esportivas do Município;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+VII –
+
+Incentivar e promover o esporte amador em todos os sentidos e modalidades;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+VIII –
+
+Coordenar as atividades de lazer para todas as faixas etárias no âmbito municipal;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+IX –
+
+Planejar e sugerir a construção de áreas de esporte, recreação e lazer;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+X –
+
+Organizar e supervisionar os ginásios e praças esportivas;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+XI –
+
+Proporcionar, estimular e valorizar o surgimento de lideranças juvenis;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+XII –
+
+Intermediar convênios, acordos, ajustes, termos de cooperação técnica e/ou financeira ou instrumentos congêneres, com entidades privadas sem fins lucrativos e órgãos da administração direta da União, Estados e outros Municípios.
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+Art. 3º.
+
+Compõem a Secretaria Municipal de Juventude, Esporte e Lazer os seguintes órgãos com suas respectivas atribuições:
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+I –
+
+Departamento da Juventude e Esportes:
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+a)
+
+Estimular a prática de esportes como forma de resgaste social е valorização da cidadania, através da elaboração de planos, programas e projetos de educação esportiva e implantação de esporte de rendimento, podendo buscar recursos junto à iniciativa privada para representar o Município em competições municipais, estaduais e nacionais;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+b)
+
+Implantar ações governamentais voltadas para o atendimento aos jovens, de acordo com as metas previstas no Plano Plurianual e na LDO;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+c)
+
+Articular políticas de desenvolvimento para entidades e órgãos afins, públicos e privados, visando à mobilização de recursos para atividades essenciais no município;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+d)
+
+Realizar e desenvolver eventos esportivos em suas diferentes modalidades;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+e)
+
+Incentivar, por meio de ações, a prática esportiva e recreativa como pressuposto de saúde e vitalidade;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+f)
+
+Implantar projetos para avaliação e orientação de atletas amadores do Município e praticantes de atividades físicas nos programas desenvolvidos pela Secretaria;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+g)
+
+Conservar os espaços esportivos pertencentes ao Município;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+h)
+
+Manter e adequar a infraestrutura dos locais para a realização de atividades esportivas, recreativas e de lazer.
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+II –
+
+Departamento de Lazer:
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+a)
+
+Desenvolver planos, projetos e programas de incentivo ao lazer;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+b)
+
+Organizar eventos e atividades de lazer e recreação mediante utilização dos espaços disponíveis;
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+c)
+
+Proporcionar integração e congraçamento entre as diferentes faixas etárias por meio de atividades recreativas.
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 188, de 15 de outubro de 2025.
+
+
+d)
+
+Proporcionar à integração e o congraçamento as diferentes faixas etárias, através de atividades recreativas;
+
+
+Art. 4º.
+
+O Poder Executivo deverá fazer constar na LDO - Lei de Diretrizes Orçamentárias de 2012, as metas para a Secretaria Municipal da Juventude, Esporte, Lazer e Turismo, bem como na lei orçamentária para o exercício de 2013 a locação de dotações recursos financeiros da Secretaria criada.
+
+
+Art. 5º.
+
+a partir do exercício de 2013 a Secretaria Municipal de Educação, Cultura, Esporte., Lazer e Turismo passa a ter a denominação da Secretaria Municipal de Educação e Cultura.
+
+
+Art. 6º.
+
+Esta Lei entra vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Buritis, 12 de Setembro de 2.011.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+**Proposição de Lei 020, ref. Projeto de Lei 020/2011. Do Executivo Municipal**
+

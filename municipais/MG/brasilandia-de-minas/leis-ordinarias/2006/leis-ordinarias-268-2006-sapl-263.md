@@ -1,0 +1,984 @@
+---
+titulo: "Lei Ordinária nº 268, de 27 de dezembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "268"
+data: "2006-12-27"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2018-07-20; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/263"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/255/text"
+sha256_fonte: "83497ad5e52d8500dcbb51da7dc0b9fe0f3e19ceaaf18f7b620bc32aa1b998ec"
+sha256_texto: "cbd2859d31121e00ce64dd9c79cb3e7d9ca133edde0db00ae322ce9852e14d58"
+capturado_em_fonte: "2026-10-27T19:56:25.141013-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 268, de 27 de dezembro de 2006
+
+"Dispõe sobre a Politica Municipal de Atendimento dos Direitos da Criança e do Adolescente do Município de Brasilândia de Minas - MG e dá outras providências."
+
+
+O PREFEITO MUNICIPAL DE BRASILÅNDIDA DE MINAS-MG, faço saber que a Câmara Municipal decreta e eu sanciono a seguinte lei:
+
+
+### TÍTULO I — Das Disposições Gerais
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a politica municipal de atendimento dos Direitos da Criança e do Adolescente e estabelece normas gerais para a sua adequada aplicação, em conformidade aos preceitos da Constituição Federal, da Lei nº 8.069 de 13 de Julho de 1.990 e demais legislações pertinentes.
+
+
+Art. 2º.
+
+O atendimento dos Diretos da Criança e do Adolescente, no âmbito municipal, far-se-á através de:
+
+
+I –
+
+Politicas Sociais Básicas de educação, saúde, recreação, esportes, cultura e lazer, profissionalização e outras que assegurem e promovam 0 desenvolvimento físico, mental, moral, espiritual e social da Criança e do Adolescente, em condições de liberdade e dignidade.
+
+
+II –
+
+Politicas e Programas de Assistência Social, em caráter supletivo, para aqueles que dela necessitem.
+
+
+III –
+
+Serviços Especiais, nos termos da Constituição Federal de 05 de Outubro de 1988, da Lei nº 8.069 de 13 de Julho de 1.990 e demais legislações pertinentes.
+
+
+Parágrafo único
+
+O Município destinará recursos e espaços públicos para programações culturais, esportivas e de lazer, voltadas para o desenvolvimento da Infância e da Juventude.
+
+
+Art. 3º.
+
+O Município criará os programas e serviços a que aludem os incisos I e II, do artigo 2º desta Lei, ou estabelecer o consórcio intermunicipal para atendimento personalizado instituindo e mantendo entidades governamentais de atendimento, mediante prévia autorização do Conselho Municipal da Criança e do Adolescente.
+
+
+§ 1º
+
+Os Programas serão classificados como de proteção ou socioeducativas e destinar-se-ão a:
+
+
+a)
+
+Orientação e apoio sócio-familiar;
+
+
+b)
+
+Apoio sócio-educativo em meio aberto;
+
+
+c)
+
+Colocação Familiar;
+
+
+d)
+
+Abrigo;
+
+
+e)
+
+Liberdade Assistida;
+
+
+f)
+
+Semi-liberdade;
+
+
+g)
+
+Internação;
+
+
+§ 2º
+
+Os serviços especiais visam a:
+
+
+a)
+
+Prevenção e atendimento médico e psicológico as vitimas de negligências, maus tratos, exploração, abuso, crueldade e opressão;
+
+
+b)
+
+Identificação e localização de pais equiparados, crianças e adolescentes desaparecidos;
+
+
+c)
+
+Proteção juridico-social;
+
+
+§ 3º
+
+O município poderá celebrar convênios no âmbito Municipal, Estadual e Federal, com Organizações Governamentais e não Governamentais, para o cumprimento do disposto nesta lei, visando em especial ao atendimento regionalizado da criança e do adolescente, de acordo com os arts. 86, 87 e 88 da Lei Federal 8069 de 13 de julho de 1990.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+Art. 4º.
+
+Os serviços previstos pelo artigo 3º e seus parágrafos serão criados, executados e mantidos pelo Poder Público Municipal, cabendo ao Conselho Municipal dos Direitos da Criança e do Adolescente fiscalizar e acompanhar a execução destes serviços.
+
+
+Parágrafo único
+
+A expressão Conselho Municipal dos Direitos da Criança e do Adolescente e a sigla CMDCA se equivalem para efeito de referência e comunicação.
+
+
+### TÍTULO II — Da Politica de Atendimento
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 5º.
+
+São órgãos da Política de Atendimento dos Direitos da Criança e do Adolescente
+
+
+I –
+
+Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+
+II –
+
+Fundo Municipal dos Direitos da Criança e do Adolescente;
+
+
+III –
+
+Conselho Tutelar;
+
+
+#### CAPÍTULO II — Do Conselho Municipal dos Direitos da Criança e do Adolescente
+
+
+Art. 6º.
+
+Fica criado o Conselho Municipal dos Direitos da Criança e do Adolescente (CMDCA), órgão permanente, deliberativo e controlador das ações em todos os níveis da política de atendimento à criança e ao adolescente, observada a composição paritária de seus membros, por meio de organizações representativas, nos termos do Art. 88, inciso II, da Lei federal nº 8.069/90.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+§ 1º
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente, responde pela implementação da prioridade absoluta e a promoção dos direitos e defesa da criança e do adolescente, levando em consideração as peculiaridades do município.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+§ 2º
+
+Cabe a Administração pública municipal fornecer recursos humanos e estrutura técnica, administrativa e institucional necessários ao adequado e ininterrupto funcionamento do Conselho Municipal dos Direitos da Criança e do Adolescente, devendo para tanto instituir dotação orçamentária específica nos orçamentos municipais.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+Art. 7º.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente CMDCA, é composto de 08 (oito) membros efetivos aqui denominados Conselheiros Efetivos e 08 (oito) membros suplentes aqui denominados Conselheiros Suplentes, com a seguinte representação paritária:
+
+
+I –
+
+Do Poder Público:
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+a)
+
+01 (um) representante da Secretaria Municipal de Educação;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+b)
+
+01 (um) representante da Secretaria Municipal de Cultura, Lazer e Desportos;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+c)
+
+01 (um) representante da Secretaria Municipal de Saúde;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+d)
+
+01(um) representante da Secretaria Municipal de Desenvolvimento Social.
+
+Inclusão feita pelo Art. 3º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+II –
+
+Das Entidades Não Governamentais
+
+
+a)
+
+04 (quatro) representantes de Entidades Civis não governamentais ou Entidades Nacionais de defesa e atendimento aos direitos da Criança e do Adolescente, em pleno e regular funcionamento, com sede no Município.
+
+
+§ 1º
+
+Os Conselheiros representantes das Secretarias serão indicados pelo Prefeito Municipal, no prazo de 15 (quinze) dias, contados da solicitação para nomeação e posse pelo Conselho Municipal.
+
+
+§ 2º
+
+Os representantes de organizações da Sociedade Civil a que se refere o inciso II, letra "a", serão eleitos pelo voto destas entidades, reunidas em assembleia convocada pelo Presidente do CMDCA, mediante edital publicado na imprensa, no prazo estabelecido no parágrafo anterior.
+
+
+§ 3º
+
+A função de membro do Conselho Municipal dos Direitos da Criança e do Adolescente é considerada de interesse público relevante e não será remunerada.
+
+
+§ 4º
+
+Cada Titular do Conselho Municipal dos Direitos da Criança e do Adolescente CMDCA terá um Suplente oriundo da mesma categoria representativa.
+
+
+Art. 8º.
+
+A nomeação e a posse do Conselho, far-se-á pelo CMDCA, obedecida a origem e a ordem das indicações.
+
+
+§ 1º
+
+Os membros indicados pelas entidades não-governamentais serão precedidos de indicação, por escrito, das respectivas entidades para serem eleitos pela Assembléia, nos termos da § 2º do artigo anterior.
+
+
+§ 2º
+
+Os membros do Conselho e os respectivos suplentes exercerão mandato de 02 (dois) anos, admitindo uma recondução por igual período.
+
+
+§ 3º
+
+O membro do Conselho, quando ativo, ao postular cargos eletivos no âmbito municipal, estadual e federal, ao registrar sua candidatura será afastado automaticamente do Conselho, sendo substituído pelo suplente.
+
+
+#### CAPÍTULO III — Das Atribuições do CMDCA
+
+
+Art. 9º.
+
+Compete ao Conselho Municipal dos Direitos da Criança e do Adolescente:
+
+
+I –
+
+Formular a Politica Municipal de Atendimento dos Direitos da Criança e do Adolescente, definindo prioridades, planejando e controlando as ações de execução;
+
+
+II –
+
+Opinar na formulação das políticas sociais básicas de interesse da criança e do adolescente;
+
+
+III –
+
+Deliberar sobre a conveniência e oportunidade de implementação de programas e serviços, bem como sobre o registro de entidades governamentais e não-governamentais, regionalizadas de atendimento;
+
+
+IV –
+
+Elaborar o Regimento Interno;
+
+
+V –
+
+Solicitar as indicações para o preenchimento de cargo de conselheiro, nos casos de vacância e término de mandato;
+
+
+VI –
+
+Nomear e dar posse aos membros do Conselho;
+
+
+VII –
+
+Manter rigoroso controle da captação e da aplicação dos recursos que forem destinados ao Fundo Municipal dos Direitos da Criança e do Adolescente;
+
+
+VIII –
+
+Propor modificações nas estruturas das Secretarias e órgãos da administração ligados à promoção, proteção e defesa dos direitos da criança e do adolescente;
+
+
+IX –
+
+Opinar sobre o orçamento municipal no que se refere à dotações destinadas a promoção social, saúde e educação da Criança e do Adolescente, indicando as modificações necessárias à consecução da política formulada
+
+
+X –
+
+Opinar sobre a destinação de recursos e espaços públicos para programações culturais, esportivas e de lazer voltadas para a infância e adolescência;
+
+
+XI –
+
+Proceder a inscrição de programas de proteção e sócio educativas de entidades governamentais e não governamentais, bem como ao registro. destas últimas, na forma dos arts. 90 e 91 da Lei nº 8.069/90;
+
+
+XII –
+
+Opinar na elaboração de Leis que beneficiem e promovam o crescimento humano, visando as Crianças e os Adolescentes;
+
+
+XIII –
+
+Fixar critérios de utilização, através de planos de aplicação das doações subsidiárias e demais receitas, aplicando, necessariamente, percentual para o incentivo ao acolhimento sob a forma de abrigo, de criança ou adolescente, órfão ou abandonado, de difícil colocação familiar,
+
+
+XIV –
+
+Definir e fixar a remuneração ou gratificação dos membros do Conselho Tutelar, observados os critérios estabelecidos no art. 134 da Lei nº 8.069/90 e art. 34 desta Lei.
+
+
+XV –
+
+Opinar sobre o funcionamento do Conselho Tutelar, indicando as modificações necessárias a consecução da politica formulada;
+
+
+XVI –
+
+Manter rigoroso controle da captação e da aplicação dos recursos do Fundo Municipal dos Direitos da Criança e do Adolescente, opinando sobre a alocação de recursos para a execução de programas e projetos pelas entidades governamentais e repasse de verbas para as entidades não-governamentais;
+
+
+XVII –
+
+Dar inicio ao processo eleitoral para a escolha dos membros do Conselho Tutelar, em até 30 (trinta) dias após ter vencido o mandato dos Conselheiros;
+
+
+XVIII –
+
+Regulamentar, organizar, coordenar, bem como adotar todas as providências que julgar cabíveis para a escolha, posse dos Conselheiros, eleição de diretorias dos Conselhos Municipais dos Direitos da Criança e do Adolescente, Conselho Tutelar, bem como a instalação deste último, com o apoio das Secretarias Municipais e Conselhos Municipais,
+
+
+XIX –
+
+O membro do Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA que tiver ciência de irregularidade no Conselho Tutelar é obrigado a tomar as providências necessárias para sua imediata apuração, mediante sindicância ou processo administrativo disciplinar, assegurado ao acusado ampla defesa;
+
+
+XX –
+
+O processo disciplinar dos membros do Conselho Tutelar ocorrerá perante o CMDCA e a perda do respectivo mandato será decretada pelo CMDCA, com aprovação da maioria dos seus membros, mediante provocação do Ministério Público, do próprio Conselho Tutelar, do CMDCA ou qualquer eleitor, assegurada ampla defesa.
+
+
+Art. 10.
+
+Todo o programa municipal destinado à Criança e ao Adolescente deverá contar com a aprovação prévia do Conselho Municipal dos Direitos da Criança e do Adolescente, constando os objetivos, as metas de atendimento, a demanda existente, o cronograma e organograma de aplicação de recursos.
+
+
+#### CAPÍTULO IV — Da Organização e Funcionamento
+
+
+Art. 11.
+
+O CMDCA terá a seguinte estrutura funcional:
+
+
+I –
+
+Colegiado;
+
+
+II –
+
+Mesa Diretora;
+
+
+III –
+
+Comissões Permanentes;
+
+
+IV –
+
+Comissões Temporárias;
+
+
+Art. 12.
+
+A Mesa Diretora terá a seguinte composição:
+
+
+a)
+
+Presidente
+
+
+b)
+
+Vice-presidente;
+
+
+c)
+
+Primeiro (a) Secretário (a);
+
+
+d)
+
+Segundo (a) Secretária (a);
+
+
+Art. 13.
+
+O colegiado é o órgão máximo de deliberação do Conselho Municipal dos Direitos da Criança e do Adolescente CMDCA formado por todos os seus membros e se reunirá ordinariamente pelo uma vez por mês e extraordinariamente por convocação do Presidente ou de metade dos seus membros.
+
+
+§ 1º
+
+As reuniões do Colegiado do CMDCA serão públicas, salvo em hipóteses extraordinárias previstas no Regimento Interno, podendo qualquer presente fazer uso da palavra que será deferida pelo Presidente se julgar pertinente.
+
+
+§ 2º
+
+O CMDCA deliberará por maioria simples dos seus membros e se consubstanciarão em resoluções ou outros atos administrativos formais, assinados pelo Presidente e encaminhados para publicação na forma da Legislação Municipal local.
+
+
+Art. 14.
+
+O CMDCA é presidido por um dos seus membros, eleito nos moldes desta Lei e do Regimento Interno.
+
+
+Parágrafo único
+
+O Presidente nas deliberações do Plenário, além do voto comum, terá direito a voto de qualidade, nos casos de empate, podendo ainda, deliberar ad referendum do Plenário, em casos de manifesta urgência ou de emergência.
+
+
+Art. 15.
+
+O Presidente será substituído, em caso de impedimentos, afastamentos legais e ausências eventuais, pelo Vice-presidente e não por seu Suplente.
+
+
+Art. 16.
+
+As demais funções da Mesa Diretora do Conselho serão substituídas em caso de impedimentos, afastamentos legais e ausências eventuais, na forma seguinte:
+
+
+a)
+
+A Vice-presidente pela 1ª Secretária;
+
+
+b)
+
+A 1ª Secretária pela 2ª Secretária;
+
+
+Art. 17.
+
+Em caso de vacância da Presidência, da Vice-presidência e da 1ª e 2º Secretarias, convocar-se-á nova eleição, no prazo máximo de 30 (trinta) dias, respondendo pelas funções até a escolha dos novos titulares substitutos previstos no artigo anterior.
+
+
+Parágrafo único
+
+Considerar-se-ão os cargos de Presidente, Vice-presidente, 1º e 2º Secretários as mesmas hipóteses do art. 14 e seu parágrafo único.
+
+
+Art. 18.
+
+O mandato dos membros do CMDCA será de 02 (dois) anos, sendo facultada uma reeleição, e são elegíveis apenas os membros titulares, facultado este direito aos suplentes somente na impossibilidade do comparecimento dos membros titulares em Assembléia convocada para este fim.
+
+
+Art. 19.
+
+O Regimento Interno definirá as atuações do Plenário das Comissões Permanentes e Provisórias da Mesa Diretora e regulará o procedimento de escolha e destituição e substituição dos cargos da Mesa Diretora do Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+#### CAPÍTULO V — Das Deliberações do CMDCA
+
+
+Art. 20.
+
+As deliberações do CMDCA, uma vez aprovadas, tomarão forma de Resolução, as quais, numeradas e assinadas, deverão ser amplamente divulgadas.
+
+
+Art. 21.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente contará para o seu funcionamento, com uma secretária-executiva, composta de servidores do Poder Executivo Municipal para exercerem atividades de apoio técnico e administrativo necessárias para o desenvolvimento das atividades do Conselho.
+
+
+Parágrafo único
+
+O secretário-executivo será designada pelo Chefe do Poder Executivo.
+
+
+#### CAPÍTULO VI — Do Regimento Interno
+
+
+Art. 22.
+
+O CMDCA regular-se-á por um Regimento Interno, com observância da legislação aplicável, a ser elaborado no prazo de 30 (trinta) dias, contados da publicação desta Lei, com entrada em vigor após divulgação e publicação em órgão da imprensa local.
+
+
+§ 1º
+
+O Regimento Interno será aprovado por 2/3 (dois terços) dos Conselheiros, devendo, obrigatoriamente, dispor sobre a determinação de, ao menos, uma reunião ordinária quinzenal e, sempre que necessária, extraordinária.
+
+
+§ 2º
+
+As modificações e emendas do Regimento Interno somente serão possíveis, com a aprovação de 2/3 (dois terços) dos Conselheiros, e exigida publicação na forma do caput do artigo 15.
+
+
+Art. 23.
+
+Leis Municipais específicas disporão sobre a criação, estruturação, organização e funcionamento do Fundo Municipal para os Direitos da Criança e do Adolescente, dos Conselhos Tutelares e dos Programas específicos de proteção e sócio-educativas previstos no Estatuto da Criança e do Adolescente, no âmbito do Município de Brasilândia de Minas - MG.
+
+
+### TÍTULO III — Do Conselho Tutelar
+
+
+#### CAPÍTULO I — Disposições Gerais
+
+
+Art. 24.
+
+O Conselho Tutelar é órgão permanente e autônomo, não jurisdicional, encarregado de zelar pelo cumprimento dos direitos da criança e do adolescente.
+
+
+§ 1º
+
+Criado o Conselho Tutelar no Município de Brasilândia de Minas- MG, que é composto por 05 (cinco) membros, com mandato de 04 (quatro) anos, permitida uma reeleição.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+§ 2º
+
+As atribuições do Conselho Tutelar serão estabelecidas no seu Regimento Interno, observado o que dispõe a respeito na Lei Federal nº 8.069/90 e a legislação pertinente.
+
+
+§ 3º
+
+Os membros do Conselho Tutelar reunir-se-ão, ordinariamente, nos dias e horários fixados por seu Regimento Interno, e, extraordinariamente, sempre que convocados em razão da necessidade.
+
+
+#### CAPÍTULO II — Da Eleição dos Membros do Conselho Tutelar
+
+
+Art. 25.
+
+Os Conselheiros serão eleitos em sufrágio universal e direto pelo voto facultativo e secreto dos cidadãos do Município de Brasilândia de Minas MG, em eleição regulamentada, organizada e coordenada pelo CMDCA, o qual adotará todas as medidas necessárias para a realização do processo eleitoral.
+
+
+§ 1º
+
+O processo eleitoral será organizado mediante Resolução e responsabilidade do CMDCA, na forma da Lei e fiscalização do Ministério Público.
+
+
+§ 2º
+
+Podem votar os maiores de dezesseis anos, inscritos como eleitores no Município de Brasilândia de Minas - MG até 03 (três) meses antes da eleição.
+
+
+Art. 26.
+
+Caberá ao CMDCA prever a composição de chapas, sua forma de registro, forma e prazo de impugnações, registro de candidaturas, processo eleitoral, proclamação dos eleitos e posse dos Conselheiros Tutelares.
+
+
+#### CAPÍTULO III — Dos Requisitos e do Registro das Candidaturas
+
+
+Art. 27.
+
+A candidatura é individual e sem vinculação a partido politico.
+
+
+Art. 28.
+
+Somente poderão concorrer a eleição, os candidatos que preencherem, até o encerramento das inscrições, os seguintes requisitos:
+
+
+I –
+
+Reconhecida idoneidade moral;
+
+
+II –
+
+Idade superior a 21 (vinte um) anos;
+
+
+III –
+
+Residir no Município de Brasilândia de Minas MG a mais de 02 (dois) anos;
+
+
+IV –
+
+Estar em gozo dos direitos políticos;
+
+
+V –
+
+Obter aprovação em teste de conhecimento sobre o Estatuto da Criança e do Adolescente
+
+
+VI –
+
+VI-O teste de que trata o inciso V será regulamentado pelo CMDCA, definindo os critérios para a sua confecção e realização, inclusive dia e hora de aplicação, bem como o índice de aproveitamento mínimo para aprovação;
+
+
+VII –
+
+Não pertencer de qualquer modo aos quadros de segurança pública, civil ou militar, bem como de organizações estrangeiras;
+
+
+Art. 29.
+
+O pedido de registro será autuado e registrado pelo CMDCA, abrindo-se vista ao Representante do Ministério Público para eventual impugnação do candidato, no prazo de 10 (dez) dias, decidindo o CMDCA por maioria de votos de seus membros em igual prazo.
+
+
+Art. 30.
+
+Terminado o prazo para registro das candidaturas, o CMDCA mandará publicar edital na imprensa local, informando o nome dos candidatos registrados e fixando o prazo de 15 (quinze) dias contados da publicação, para recebimento de impugnação por qualquer eleitor do Município de Brasilândia de Minas - MG.
+
+
+Parágrafo único
+
+Oferecida Impugnação, os autos serão encaminhados ao Ministério Público para manifestação, no prazo de 10 (dez) dias, decidindo o CMDCA por maioria de votos de seus membros, com voto de desempate de seu presidente em igual prazo.
+
+
+Art. 31.
+
+Das decisões relativas as impugnações caberá ao próprio CMDCA, по prazo de 05 (cinco) dias, contado da intimação pessoal ao candidato, mediante recibo de intimação.
+
+
+Art. 32.
+
+Vencidas as fases de impugnação e recurso, o CMDCA mandará publicar edital com os nomes dos candidatos habilitados ao pleito.
+
+
+#### CAPÍTULO IV — Da Realização do Pleito
+
+
+Art. 33.
+
+A eleição para escolha dos membros do Conselho Tutelar será convocada pelo CMDCA, mediante edital, publicado na imprensa local, e amplamente divulgado através de outros meios de comunicação do Município de Brasilândia de Minas - MG.
+
+
+Art. 34.
+
+É vedada a propaganda eleitoral nos veículos de comunicação social admitindo-se somente a realização de debates e entrevistas agendadas e presidido pelo CMDCA.
+
+
+Art. 35.
+
+É proibida a propaganda por meio de anúncios luminosos, faixas fixas, cartazes ou inscrições em qualquer local público ou particular, com exceção dos locais autorizados pela Prefeitura Municipal em conjunto com o CMDCA, para utilização por todos os candidatos em igualdade de condições.
+
+
+Art. 36.
+
+As cédulas eleitorais serão confeccionadas pela Prefeitura Municipal, mediante modelo previamente aprovado pelo CMDCA e Ministério Público.
+
+
+Art. 37.
+
+Aplica-se no que couber, o disposto na legislação eleitoral em vigor, quanto ao exercício do sufrágio direto e a apuração dos votos, sendo eleito o candidato que obtiver maioria simples dos votos válidos apurados.
+
+
+Parágrafo único
+
+O juiz poderá determinar o agrupamento de seções eleitorais, para efeito de votação, atento a faculdade do voto e as peculiaridades locais.
+
+
+Art. 38.
+
+A medida que os votos forem sendo apurados, poderão os candidatos apresentar impugnação que serão decididas de plano pelo CMDCA por maioria simples de seus membros, em caráter definitivo.
+
+
+#### CAPÍTULO V — Da Proclamação, Nomeação e Posse dos Eleitos
+
+
+Art. 39.
+
+Concluída a apuração dos votos, o CMDCA proclamará o resultado da eleição, mandando publicar os nomes dos candidatos e o número de sufrágios recebidos.
+
+
+§ 1º
+
+Os 05 (cinco) primeiros votados serão considerados eleitos, ficando os demais, pela ordem de quantidade de votos, como suplentes.
+
+
+§ 2º
+
+Havendo empate na votação, será considerado eleito o candidato mais idoso.
+
+
+§ 3º
+
+A proclamação do resultado das eleições com a relação dos membros eleitos do Conselho Tutelar, será feita pelo CMDCA, a nomeação será feita mediante Portaria pelo Chefe do Poder Executivo Municipal e a posse será feita pelo CMDCA, sendo que a nomeação e a posse dos membros a serem eleitos nas eleições posteriores se dará em até 60 (sessenta) dias após o término do mandato dos seus antecessores.
+
+
+§ 4º
+
+Ocorrendo a vacância do cargo, assumirá o suplente que houver obtido o maior número de votos.
+
+
+#### CAPÍTULO VI — Dos Impedimentos
+
+
+Art. 40.
+
+São impedidos de servir no mesmo Conselho Tutelar, marido e mulher, ascendentes e descendentes, sogro e genro ou nora, irmãos, cunhados durante o cunhadio, tio e sobrinho, padrasto ou madrasta e enteado.
+
+
+Parágrafo único
+
+Entende-se o impedimento do Conselheiro Tutelar, na forma deste artigo, em relação a autoridade judiciária e ao Representante do Ministério Público com atuação e em exercício na Comarca de João Pinheiro - MG.
+
+
+#### CAPÍTULO VII — Das Atribuições e Funcionamento do Conselho Tutelar
+
+
+Art. 41.
+
+São atribuições do Conselho Tutelar:
+
+
+I –
+
+Fiscalizar as entidades referidas no art. 90 da Lei Federal nº 8.069/90, conforme o que estabelece o art. 95 da citada Lei;
+
+
+II –
+
+Atender as crianças e adolescentes nas hipóteses previstas nos arts. 98 e 105 da Lei Federal nº 8.069/90, aplicando as medidas previstas no art. 101, incisos i a VII dessa mesma Lei
+
+
+III –
+
+Atender e aconselhar os pais e responsáveis, aplicando as medidas previstas no art. 129, incisos I a VII da Lei Federal nº 8.069/90;
+
+
+IV –
+
+Promover a execução de suas decisões, podendo para tanto:
+
+
+a)
+
+Requisitar serviços públicos nas áreas de saúde, educação, serviço social, previdência, trabalho e segurança:
+
+
+b)
+
+Representar junto a autoridade judiciária nos casos de descumprimento injustificado de suas deliberações:
+
+
+V –
+
+Encaminhar ao Ministério Público noticia de fato que constitua infração administrativa ou penal contra os direitos da criança e adolescente;
+
+
+VI –
+
+Encaminhar a autoridade judiciária os casos de sua competência;
+
+
+VII –
+
+Providenciar a medida estabelecida pela autoridade judiciária, dentre as previstas no art. 101, incisos de I a VI, da Lei Federal nº 8.069/90, para o adolescente autor de ato infracional;
+
+
+VIII –
+
+Expedir notificações;
+
+
+IX –
+
+Requisitar certidões de nascimento e de óbito de criança ou adolescente quando necessário;
+
+
+X –
+
+Assessorar o Poder Executivo Municipal na elaboração da proposta orçamentária para planos e programas de atendimento dos direitos da criança de do adolescente;
+
+
+XI –
+
+Representar, em nome da pessoa e da família, contra a violação dos direitos previstos no art. 220, § 3º, inciso II, da Constituição Federal;
+
+
+XII –
+
+Representar ao Ministério Público, para efeito das ações de perda ou suspensão do pátrio poder.
+
+
+Art. 42.
+
+As decisões do Conselho Tutelar somente poderão ser revistas pela autoridade judiciária a pedido de quem tenha legítimo interesse.
+
+
+Art. 43.
+
+O Presidente e o Secretário do Conselho Tutelar serão escolhidos pelos seus pares na Primeira Sessão, cabendo-lhe a presidência das sessões.
+
+
+§ 1º
+
+A reunião de eleição do Presidente e do Secretário do Conselho Tutelar será presidida pelo seu membro mais idoso.
+
+
+§ 2º
+
+Na falta ou impedimento do Presidente, assumirá a Presidência, sucessivamente, o conselheiro mais antigo ou o mais idoso.
+
+
+Art. 44.
+
+As sessões serão instaladas com o mínimo de 03 (três) conselheiras.
+
+
+Art. 45.
+
+O Conselho atenderá informalmente as partes, mantendo registro das providências adotadas em cada caso e fazendo consignar em ata apenas o essencial.
+
+
+Parágrafo único
+
+As decisões serão tomadas por maioria de votos, cabendo ao presidente o voto de desempate.
+
+
+Art. 46.
+
+As sessões serão realizadas em dias e horários fixados no Regimento Interno, a ser elaborado no prazo de 30 (trinta) dias da posse dos Conselheiros, observado o disposto no art. 17. § 3º.
+
+
+Parágrafo único
+
+Nos finais de semana e feriados será realizado plantão em horário pré-estabelecido.
+
+
+Art. 47.
+
+O Conselho Tutelar manterá uma secretaria geral destinada ao suporte administrativo necessário ao seu funcionamento, utilizando-se de instalações e funcionários que serão cedidos pela Prefeitura Municipal.
+
+
+#### CAPÍTULO VIII — Da Competência
+
+
+Art. 48.
+
+A competência do Conselho Tutelar será determinada:
+
+
+I –
+
+Pelo domicilio dos pais e responsáveis;
+
+
+II –
+
+Pelo lugar onde se encontra a criança ou adolescente, a falta dos pais ou responsáveis;
+
+
+§ 1º
+
+Nos casos de ato infracional praticado por crianças, será competente o Conselho Tutelar do lugar da ação ou omissão, observadas as regras de conexão, continência e prevenção.
+
+
+§ 2º
+
+A execução das medidas de proteção poderão ser delegadas ao Conselho Tutelar do Município de residência dos pais ou responsáveis, ou do local onde sediar a entidade que abrigar a criança ou adolescente.
+
+
+#### CAPÍTULO IX — Da Remuneração e da Perda do Mandato
+
+
+Art. 49.
+
+A remuneração dos membros do Conselho Tutelar será de R$ 1.147,07 (um mil cento e quarenta e sete reais e sete centavos), com reajuste periódico, nas mesmas datas e índices em que forem efetuadas as revisões gerais anuais para os servidores públicos municipais.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária nº 546, de 20 de julho de 2018.
+
+
+§ 1º
+
+A remuneração fixada não gera relação de emprego com a municipalidade nem mesmo com o CMDCA;
+
+
+§ 2º
+
+O Conselho Tutelar, terá sede em local cedido pelo Municipalidade, funcionando no horário de 08:00h às 17:00h, à exceção de plantões.
+
+
+Art. 50.
+
+Os recursos necessários a eventual remuneração dos membros do Conselho Tutelar terão origem diretamente nos cofres municipais, destinados em dotação orçamentária pela Prefeitura Municipal, em consonância com as diretrizes do CMDCA.
+
+
+Parágrafo único
+
+Os Conselheiros Tutelares, para efeito de remuneração, serão incluídos na Folha de Pagamento dos Servidores Públicos Municipais, durante a vigência de seus mandatos.
+
+
+Art. 51.
+
+Perderá o mandato o conselheiro que se ausentar injustificadamente a 03 (três) reuniões consecutivas ou a 06 (seis) alternadas, no mesmo mandato, ou for condenado por sentença irrecorrível, por crime ou contravenção penal.
+
+
+Parágrafo único
+
+A perda do mandato será decretada pelo CMDCA, com a aprovação da maioria dos seus membros, mediante provocação do Ministério Público, do próprio Conselho Tutelar, do CMDCA ou de qualquer eleitor, assegurada ampla defesa.
+
+
+### TÍTULO IV — Das Disposições Finas e Transitórias
+
+
+Art. 52.
+
+O CMDCA no prazo de 30 (trinta) dias da nomeação e posse de seus membros elaborará o seu Regimento Interno ou fará as alterações que acharem necessárias no caso de já tê-lo, elegendo o Presidente.
+
+
+Art. 53.
+
+As despesas necessárias decorrentes desta Lei correrão à conta de dotação orçamentária própria do Orçamento Municipal vigente.
+
+
+Art. 54.
+
+Aplica-se a Lei Federal nº 8.069/90, nos casos omissos e não regulamentados por esta Lei.
+
+
+Art. 55.
+
+Esta Lei entra em vigor na data de sua publicação, ficando revogada a Lei Municipal nº 140/2002 e as disposições em contrário.
+
+
+Prefeitura Municipal de Brasilândia de Minas -MG, 27 de dezembro de 2006.
+
+**JOÃO CARDOSO DO COUTO**
+
+**Prefeito Municipal**
+

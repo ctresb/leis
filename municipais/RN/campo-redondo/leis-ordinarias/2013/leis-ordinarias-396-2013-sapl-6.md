@@ -1,0 +1,135 @@
+---
+titulo: "Lei Ordinária-PEM nº 396, de 26 de agosto de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "396"
+data: "2013-08-26"
+municipio: "Campo Redondo"
+uf: "RN"
+codigo_ibge: "2402105"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.camporedondo.rn.leg.br/norma/6"
+fonte_texto: "https://sapl.camporedondo.rn.leg.br/media/sapl/public/normajuridica/2013/6/lei_no_396_de_26_de_agosto_de_2013_-_cria_o_eja.docx"
+sha256_fonte: "cebd50e6bf3d22662bb2f6c689234bfc16e4ee8fed73ab2179d6572d6b81a26d"
+sha256_texto: "79c872cf882c67de5bef65df1087fac0d86493200b0d458e5636d7c4e72a52ce"
+baixado_em: "2026-10-16"
+---
+
+# Lei Ordinária-PEM nº 396, de 26 de agosto de 2013
+
+**LEI Nº 396, DE 26 DE AGOSTO DE 2013.**
+
+Institui o Programa Municipal de Educação de Jovens e Adultos no Município de Campo Redondo, e dá outras providências.
+
+**O POVO DA CIDADE DE CAMPO REDONDO**, por seus representantes aprovou, e **EU,** em seu nome, nos termos da Lei Orgânica Municipal, **SANCIONO** a seguinte **LEI**:
+
+**Art. 1°** Fica criado o Programa Municipal de Educação de Jovens e Adultos do Município de Campo Redondo - PROEJA com a finalidade de oferecer o Ensino Fundamental, modalidade EJA aos jovens e adultos provenientes dos programas de alfabetização federal, estadual e por interesse dos alunos.
+
+**§1º –** Além da finalidade prevista no caput deste artigo, constituem objetivos do Programa Municipal de Educação de Jovens e Adultos do Município de Campo Redondo – PROEJA:
+
+I - oferecer o Ensino Fundamental, modalidade EJA, aos jovens e adultos não-escolarizados;
+
+II - possibilitar o retorno à escolarização formal àqueles jovens e adultos sem domínio do Letramento Formal;
+
+III - preparar o jovem e adulto, público-alvo do programa, para o pleno exercício da sua cidadania;
+
+IV - proporcionar crescimento pessoal e profissional aos educandos do PROEJA.
+
+**§2º -** A implementação do referido Programa será feita em regime de colaboração entre o Município e organismos da sociedade civil.
+
+**Art. 2º** São beneficiários do PROEJA:
+
+I - jovens com 15 anos ou mais, adultos e idosos provenientes dos programas de alfabetização federal e estadual ou que estejam aptos a acompanhar o desenvolvimento das turmas, doravante denominados “educandos”.
+
+II - bolsista educador;
+
+III - bolsista tradutor-intérprete da Língua Brasileira de Sinais (LIBRAS), que irão assessorar os educadores em turmas com deficientes auditivos;
+
+IV - educadores-coordenadores de turmas.
+
+**Art. 3º** São agentes do PROEJA:
+
+I - Secretaria Municipal de Educação;
+
+II - Conselho Municipal de Educação;
+
+III - Gestores das escolas municipais;
+
+IV - Coordenadores pedagógicos do município;
+
+**Art. 4º** Compete aos agentes do PROEJA:
+
+I - à Secretaria Municipal de Educação coordenar, acompanhar e avaliar a implementação das ações do Programa e de outros instrumentos que considerar apropriados para o acompanhamento e a avaliação da consecução do mesmo;
+
+II - ao Conselho Municipal de Educação analisar o Plano Plurianual de Educação de Jovens e Adultos, aprovando-o ou sugerindo alterações, assim como pronunciar-se sobre revisão do mesmo;
+
+III - aos diretores das escolas municipais de ensino compete apoiar o PROEJA nas suas atribuições e matricular os alunos na escola conforme delimitação territorial;
+
+IV - aos coordenadores pedagógicos do município compete apoiar o programa e dar suporte pedagógico, conforme delimitação territorial da escola à qual está ligado;
+
+**Art. 5º** O curso de Educação de Jovens e Adultos terá 8 (oito) meses de duração com, no mínimo, 800 (oitocentas) horas-aula, incluindo as horas com atividades complementares;
+
+**Art. 6º** O número de educandos em cada turma será no mínimo 20 (vinte) e no máximo 30 (trinta).
+
+**Parágrafo único.** As turmas em que houver jovens e adultos com necessidades educacionais especiais respeitarão o número total de educandos por turma definido no caput deste artigo, recomendando-se para cada turma no máximo 3 (três) alunos com deficiência, quando esta demandar metodologias, linguagens e códigos específicos.
+
+**Art. 7º** Todas as turmas deverão ser supervisionadas por educadores-coordenadores de turmas, que deverão acompanhar de 10 (dez) a 15 (quinze) turmas de educação ativas para fazer jus ao recebimento de gratificação ou remuneração paga pelo município de Campo Redondo, caso não sejam servidores efetivos.
+
+**Art. 8º** A seleção dos bolsistas educadores de turmas e tradutores-intérpretes deverá ser, preferencialmente, precedida de seleção pública simplificada, mediante apresentação de curriculum vitae e entrevista.
+
+**§1º -** A seleção dos bolsistas-educadores deverá considerar os seguintes critérios:
+
+I - o candidato deve, preferencialmente, ser professor da rede pública de ensino municipal;
+
+II - deve ter, no mínimo, nível médio completo, preferencialmente com magistério;
+
+III - deve ter experiência anterior em educação, preferencialmente, em educação de jovens e adultos.
+
+**§2º -** A Administração Municipal poderá contratar educadores bolsistas, não pertencentes ao quadro municipal efetivo, em quantidade e de acordo com critérios de seleção estabelecidos por Decreto Municipal, unicamente nos casos em que as vagas disponíveis em chamada pública não sejam preenchidas com professores efetivos da rede municipal de ensino;
+
+**§3º -** O educador bolsista é responsável pela seleção e manutenção da permanência dos alunos na turma sob a sua responsabilidade.
+
+**§4º -** A seleção dos educadores-coordenadores de turmas deverá considerar os seguintes critérios:
+
+I – o candidato deve ter, no mínimo, nível superior;
+
+II – deve ter experiência anterior em educação, preferencialmente, em educação de jovens e adultos;
+
+**Art. 9º** As bolsas concedidas no âmbito do PROEJA serão destinadas aos bolsistas selecionados que assumam tarefas de educador ou tradutor-intérprete de LIBRAS.
+
+**Art. 10.** A título de bolsa ou gratificação, a Prefeitura Municipal de Campo Redondo pagará aos bolsistas selecionados no Programa e vinculados a turmas ativas, os seguintes valores mensais, até o limite de meses de duração da turma:
+
+I – Bolsa classe I: R$ 678,00 (seiscentos e setenta e oito reais) mensais para o educador bolsista com matrícula de no mínimo 25(vinte e cinco) e no máximo 30 (trinta) educandos;
+
+II – Gratificação classe I: R$ 450,00 (quatrocentos e cinquenta reais) mensais de gratificação ao professor da rede pública municipal, para os casos de 01 (uma) turma ativa, com matricula de 21(vinte e um) a 30(trinta) educandos;
+
+III – Bolsa classe II: R$ 678,00 (seiscentos e setenta e oito reais) mensais para os educadores-coordenadores de turmas de educação ativas, que não sejam ocupantes de emprego efetivo no poder público;
+
+IV – Gratificação classe II: R$ 450,00 (quatrocentos e cinquenta reais) mensais de gratificação aos educadores coordenadores da rede pública municipal, desde que comprove apenas um vínculo, para o mínimo de acompanhamento de 10 turmas e que já cumpram a sua carga horária; podendo os coordenadores efetivos, à critério da administração, exercer seu cargo com as turmas bolsistas.
+
+**Parágrafo único.** Havendo necessidade de se preencher as vagas de educadores com bolsistas não pertencentes ao quadro de professores da rede municipal de ensino, para às turmas com matrícula inferior a 30 (trinta) educandos, aos educadores bolsistas não será paga bolsa mensal inferior ao salário mínimo legal.
+
+**Art. 11.** Para que a Prefeitura Municipal proceda ao pagamento do bolsista e do educador-coordenador é indispensável que este assine Termo de Compromisso com o Programa, a ser elaborado pela Secretaria Municipal de Educação.
+
+**Art. 12.** Fica autorizada a Prefeitura Municipal de Campo Redondo, conforme o caso, a bloquear ou estornar valores creditados na conta-benefício, ou proceder ao desconto nos pagamentos subsequentes, nas seguintes situações:
+
+I - ocorrência de depósitos indevidos;
+
+II - constatação de irregularidades na comprovação da frequência do educando;
+
+III - constatação de incorreções nas informações cadastrais do bolsista e/ou educando.
+
+**Art. 13.** O Chefe do Executivo Municipal, no prazo máximo de até 60 (sessenta) dias após a publicação desta Lei, editará Decreto Municipal estabelecendo a forma de seleção, critérios para formação das turmas e estrutura pedagógica para implementação do Programa Municipal de Educação de Jovens e Adultos do Município de Campo Redondo – PROEJA, ficando validadas todas as matrículas feitas e inseridas no sistema até 31 de julho do corrente ano.
+
+**Art. 14.** Ficam criadas 60(sessenta) turmas do PROEJA MUNICIPAL, com 60 cargos de bolsista-educador e 6 (seis) cargos de educador-coordenador.
+
+**Art. 15.** Fica o Executivo autorizado a abrir, por meio de Decreto, créditos suplementares nas dotações a fim de fazer face as despesas ora criadas.
+
+**Art. 16.** Esta Lei entra em vigor na data de sua publicação e as despesas orçamentárias ocorrerão por conta do orçamento da Secretaria Municipal de Educação, Cultura e Desportos.
+
+Gabinete do Prefeito Municipal de Campo Redondo, Palácio “MANOEL NORBERTO DA COSTA”, em 26 de Agosto de 2013.
+
+**Alessandru Emmanuel Pinheiro e Alves**
+
+Prefeito
+

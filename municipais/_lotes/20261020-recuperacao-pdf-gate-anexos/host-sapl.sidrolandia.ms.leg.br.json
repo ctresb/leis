@@ -1,0 +1,15 @@
+{
+  "host": "sapl.sidrolandia.ms.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.sidrolandia.ms.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.sidrolandia.ms.leg.br/16b2eddb02f760ae75266b5b65d3f61a200781ca6fbdd78576370649736d3f70.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.sidrolandia.ms.leg.br/16b2eddb02f760ae75266b5b65d3f61a200781ca6fbdd78576370649736d3f70.meta.json"
+    }
+  ],
+  "total": 0
+}

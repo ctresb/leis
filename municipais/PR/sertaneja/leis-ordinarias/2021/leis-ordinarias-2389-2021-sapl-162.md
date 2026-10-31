@@ -1,0 +1,91 @@
+---
+titulo: "LEI ORDINÁRIA nº 2.389, de 10 de fevereiro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "2389"
+data: "2021-02-10"
+municipio: "Sertaneja"
+uf: "PR"
+codigo_ibge: "4126405"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.sertaneja.pr.leg.br/norma/162"
+fonte_texto: "https://sapl.sertaneja.pr.leg.br/media/sapl/public/normajuridica/2021/162/download_lei_2389.pdf"
+sha256_fonte: "f3c3d9f7305e7c1c5f495dfb0c2ff783297f0d0416ede24314e740827b38a8b6"
+sha256_texto: "d265efd88cc6dda251a7d7fca3d1a75597d7611b8f1833db23dab4678fe94bc8"
+baixado_em: "2026-10-16"
+---
+
+# LEI ORDINÁRIA nº 2.389, de 10 de fevereiro de 2021
+
+LEI NO 2389/2021- DE 10 DE FEVEREIRO DE 2021 Súmula: "Autoriza a Abertura de Crédito Especial no valor de R$ 187.000,00 e dá outras providencias."
+
+O PREFEITO MUNICIPAL DE SERTANEJA, Estado do Paraná. FAÇO saber que a Câmara Municipal de Sertaneja, Estado do Paraná, APROVOU e EU, Prefeito Municipal, SANaONO a seguinte. SANÇAO Sanciono nest data a Laf Municipal n\*\* 2389/21 Sertaneja Fevereiro de 2021
+
+refeito
+
+LEI:
+
+**Art. 1°** - Fica o Chefe do Poder Executivo Municipai autorizado a fazer a Abertura de um Crédito Especial, no corrente exercício financeiro, no valor de R$ 187.000,00 (CENTO E OITENTA E SETE MIL
+
+0700 - SECRETARIA MUNIQPAL DE ASSIST. SOQAL
+
+0707 08744007^.7346 - MANUTENÇÃO PROGRAMA S.C.F.V. 3390.30.00(XX)- FONTE 934 - MAT. CONSUMO 50.000,00
+
+3390.30.00(XX)- FONTE 000 - MAT. CONSUMO 5.000,00
+
+3390.39.00(XX)- FONTE 934 - OUT. SERV. TERC. P. JURÍDICA 38.000,00
+
+3390.39.00(XX)- FONTE 000 - OUT. SERV. TERC. P. JURÍDICA 5.000,00
+
+4490.52.00(XX)- FONTE 934 - EQUIP. MAT. PERMANENTE 17.000,00
+
+4490.52.00(XX)- FONTE 000 - EQUIP. MAT. PERMANENTE 5.000,00
+
+0703.082430025.6389 - MANUTENÇÃO PROG. MED. SOCIO EDUCATIVAS 3390.30.00(XX)- FONTE 938 - MAT. CONSUMO 20.000,00
+
+3390.30.00(XX)- FONTE 000 - MAT. CONSUMO 5.000,00
+
+3390.39.00(XX)- FONTE 938 - OUT. SERV. TERC. P. JURÍDICA 25.000,00
+
+3390.39.00(XX)- FONTE 000 - OUT. SERV. TERC. P. JURÍDICA 5.000,00
+
+4490.52.00(XX)- FONTE 938 - EQUIP. MAT. PERMANENTE 7.000,00
+
+4490.52.00(XX)- FONTE 000 - EQUIP. MAT. PERMANENTE 5.000,00
+
+TOTAL 187.000,00
+
+**Art. 2°** - Para a abertura do Crédito Especiai de que trata o artigo anterior desta Lei, será utilizado A REDUÇÃO PARCIAL DAS SEGUINTES DOTAÇÕES ORÇAMENTPARIAS: 0700 - SECRETARIA MUNICIPAL DE ASSIST. SOCIAL
+
+AV. NOSSA SR». DO ROCIO. 233 -TEL.:(043)562-U72- FAX (043) 562-1010 CX.POSTAL 11 - CEP 86340-000-SERTANEJA - PR
+
+0702.082440025.2345 - MANUTENÇÃO PROGRAMA PAIF 3190.11.00 (333)- FONTE 934 - VENC. VAANT. FIXAS - PES. QVIL 52.000,00 3190.13.00(334)- FONTE 934 - OBRIGAÇÕES PATRONAIS 15.000,00 3190.16.00 (335)- FONTE 934- OUT.DESP. VARIV. PESS. QVIL 9.000,00 3390.30.00 (336)- FONTE 000 - MATERIAL DE CONSUMO 5.000,00 3390.30.00 (338)- FONTE 934 - MATERIAL DE CONSUMO 14.000,00 3390.39.00 (339)- FONTE 000 - OUT.SERV.TERC. PES. JURÍDICA 5.000,00 3390.39.00 (341)- FONTE 934 - OUT. SER. TERC. PES. JURÍDICA 8.000,00 4490.52.00(342)- FONTE 000 - EQUIP MAT. PERMANENTE 7.000,00 4490.52.00 (344)- FONTE 934 - EQUIP. MAT. PERMANENTE 5.000,00
+
+0703.082430025.6388 - MANUTENÇÃO ATEV. PROG. PAEF 3190.11.00 (376)- FONTE 938 - VENC. VANT. FIXAS - PES. CIVIL 29.000,00
+
+3190.13.00(377)- FONTE 938- OBRIGAÇÕES PATRONAIS 6.000,00
+
+3190.16.00 (378)- FONTE 938 - OUT.DESP. VARIV. PESS. QVIL 4.000,00
+
+3390.30.00 (379)- FONTE 000 - MATERIAL DE CONSUMO 5.000,00
+
+3390.30.00(380)- FONTE 938 - MATERIAL DE CONSUMO 6.000,00
+
+3390.39.00 (381)- FONTE 000 - OUT.SERV.TERC. PES. JURÍDICA 5.000,00
+
+3390.39.00 (382)- FONTE 938 - OUT. SER. TERC. PES. JURÍDICA 7.000,00
+
+4490.52.00(383)- FONTE 000 - EQUIP MAT. PERMANENTE 5.000,00
+
+TOTAL 187.000,00
+
+**Art. 30** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário. ^ULGACAO Promulgo nesta d\ta\ Lei Municipal n\*\* 2389/21 Sertaneja, l^de^vereiro de 2021
+
+Prefeito
+
+Edifício da Prefeitura Municipal de Sertaf ,Estado do Paraíiá, em 10 de fe^iro de 2021.
+
+JAMIS
+
+AV. NOSSA SR". Dü ROCIO.233 -TEL.:(043)562-1172 -FAX (043)562-lOlOCX. POSTAL II -CEP 86.340-000-SERTANEJA - PR
+

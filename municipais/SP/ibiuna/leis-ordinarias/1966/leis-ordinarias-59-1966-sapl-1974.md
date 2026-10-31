@@ -1,0 +1,81 @@
+---
+titulo: "Lei nº 59, de 30 de setembro de 1966"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "59"
+data: "1966-09-30"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/1974"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/195/text"
+sha256_fonte: "3689ef3d095da952827ba0d8576e2fd62049ff7dc25ace98e37cbe988c038894"
+sha256_texto: "4bca0ba767540f1de3d70a05b186a03691d03d016b2bebfcbfdb866a5154eb60"
+capturado_em_fonte: "2026-10-28T13:59:34.377915-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 59, de 30 de setembro de 1966
+
+Que dispõe sobre suplementação de verbas do orçamento vigente, no valor de CR$ 6.080.000,00.
+
+
+**FAÇO SABER que a Câmara Municipal** aprova e eu SEME ISSA, na qualidade de Prefeito Municipal de Ibiúna, sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto na Contadoria da Prefeitura Municipal de Ibiúna um crédito no valor de CR$ 6.080.000,00 (seis milhões e oitenta mil cruzeiros) destinados a suplementar as seguintes verbas do orçamento vigente:
+
+
+3.111-01- Pessoal Civil – 1º Vencimentos do diretor da Secretaria CR$ 500.000,00
+
+3.111-01- Pessoal Civil - 2º Vencimentos do Mensageiro CR$ 380.000,00
+
+3.130-03- Serviços de terceiros – Despesas de viagens, condução, refeições, etc. CR$ 30.000,00
+
+3.1.2.0-47 - Material de consumo – Aquisição de pilhas, isolantes, lâmpadas e Material de limpeza CR$ 700.000,00
+
+3.1.3.0-47- Serviços de terceiros – 1º Tráfego Mútuo CTB CR$ 1.000.000,00
+
+3.1.2.0-49 - Materiais de Consumo – aquisição de pedra, cimento, areia, cal, madeira, etc. CR$ 500.000,00
+
+3.1.3.0-49 – Serviço de terceiros – consertos, adaptações, reparos, lavagens, etc. CR$ 1.000.000,00
+
+3.1.4.0-49 – Encargos diversos – 4º despesas com refeições etc. CR$ 300.000,00
+
+4.1.1.3-49 – Prosseguimentos e conclusão de obras – pontes CR$ 500.000,00
+
+3.1.3.0-72 – Serviços de terceiros – reparos e consertos de ambulância CR$ 300.000,00
+
+3.2.1.5-85 – Instituições privadas – 1º Auxílio a indigentes CR$ 300.000,00
+
+3.1.3.0-92 – Serviços de terceiros – 3º Consertos, reparos, adaptações, etc. CR$ 300.000,00
+
+Soma = CR$ 6.080.000,00
+
+
+Art. 2º.
+
+As despesas decorrentes com a execução da presente lei, será coberto com os recursos provenientes do excesso de arrecadação previsto para o corrente exercício.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação revogadas as disposições em contrario.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 30 DIAS DO MÊS DE SETEMBRO DE 1966.
+
+**SEME ISSA**
+
+**PREFEITO MUNICIPAL**
+
+Publicada na Secretaria da Prefeitura Municipal em edital e afixada no local de costume em 19 de janeiro de 1995.
+
+**GREGÓRIO DE ALMEIDA LIMA NETTO SECRETÁRIO GERAL DA ADMINISTRAÇÃO**
+

@@ -1,0 +1,52 @@
+{
+  "host": "sapl.alpinopolis.mg.leg.br",
+  "metadados_unicos_observados": 129,
+  "total_api_declarado": 129,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 37,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/2d0d4eaa7ca144c28a29d2093ba41bf220a9f7c79cc0736d4e5707032c51b526.json",
+    "url": "https://sapl.alpinopolis.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.alpinopolis.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d49f48f45de5331aecb7e4212ec15efab0a3cc7d55639e7ae1c37327099483ca",
+    "bytes": 951,
+    "capturado_em": "2026-10-21T05:24:19.356054-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/8053ae7366c94d16e8d8025d4aa4ba0dc0dd27bb9f7d65528c2d1e82559ad08c.json",
+    "url": "https://sapl.alpinopolis.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.alpinopolis.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "732d76d57a5146c5724bb9faaf8f216adfeb72506aedd0e3be32a70fbb6c3de4",
+    "bytes": 777,
+    "capturado_em": "2026-10-21T05:24:18.139240-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/f24b7443b74145db1c42dfde36573fb530be3a3e9a5c5466842d93f6b677de42.json",
+      "url": "https://sapl.alpinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.alpinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ff89b509cd905b0320b60d501567a4ba4c5ca74d6702b047bae457e90b39b476",
+      "bytes": 63300,
+      "capturado_em": "2026-10-21T05:24:22.649388-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/2db0693f88e78b61ddd274562e12be937b1967a3e581cf94992db630e85a7cae.json",
+      "url": "https://sapl.alpinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.alpinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "859a16a5af5bf398ea82131f411b02b1b4eaf8dad54c351df5e17f52a07df9f5",
+      "bytes": 16356,
+      "capturado_em": "2026-10-21T05:27:07.709890-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

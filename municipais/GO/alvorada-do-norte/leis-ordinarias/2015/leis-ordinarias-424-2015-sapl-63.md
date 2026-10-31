@@ -1,0 +1,736 @@
+---
+titulo: "LEI ORDINÁRIA nº 424, de 17 de novembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "424"
+data: "2015-11-17"
+municipio: "Alvorada do Norte"
+uf: "GO"
+codigo_ibge: "5200803"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2020-12-01; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.alvoradadonorte.go.leg.br/norma/63"
+fonte_texto: "https://sapl.alvoradadonorte.go.leg.br/ta/16/text"
+sha256_fonte: "2b7c1e088f6a081cb8fb4672b258a92a3dcfe3d4ddb62557b37ae490b401fe5e"
+sha256_texto: "7b40114521e7a6cc84af59017d0c125336aa5a4925d020efff1b178f24b8ffe7"
+capturado_em_fonte: "2026-10-21T05:36:07.875836-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 424, de 17 de novembro de 2015
+
+Dispõe sobre regulamentação da Gestão Democrática, mediante eleição direta de Diretores das Escolas do Ensino Fundamental da Rede Municipal De Ensino de Alvorada do Norte – GO e dá outras providencias.
+
+
+O EXMO. SR. DAVID MOREIRA DE CARVALHO, PREFEITO MUNICIPAL DE ALVORADA DO NORTE, no uso das atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e Eu sanciono a seguinte Lei:
+
+
+### TÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica estabelecida no âmbito do município de Alvorada do Norte, Estado de Goiás, a eleição direta para Diretores e Vice-Diretores das Escolas de Educação Básica, da Rede Municipal de Ensino que será implementada e regida em conformidade com essa Lei.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 489, de 01 de dezembro de 2020.
+
+
+Art. 2º.
+
+Os Diretores e Vice-Diretores das escolas públicas municipais deverão ser indicados pela comunidade escolar de cada unidade de ensino mediante votação direta.
+
+
+Art. 3º.
+
+A administração da Unidade Escolar será exercida pelo diretor em concordância com as deliberações do Grupo Gestor da Unidade Executora, respeitadas as disposições legais.
+
+
+Parágrafo único
+
+Entende-se por comunidade escolar, para efeito dessa lei, o conjunto de alunos, pais ou responsáveis por alunos, os profissionais da educação em efetivo exercício no estabelecimento de ensino.
+
+
+**ATRIBUIÇÕES DO DIRETOR E VICE-DIRETOR**
+
+
+Art. 4º.
+
+Compete ao Diretor:
+
+
+I –
+
+Representar a escola, responsabilizando-se pelo seu funcionamento;
+
+
+II –
+
+Coordenar, em consonância com a Comunidade Escolar, a elaboração, execução, e avaliação do Projeto Político Pedagógico e do Plano de Desenvolvimento Estratégico da Escola, observadas as políticas públicas da Secretaria Municipal de Educação e outros processos de planejamento;
+
+
+III –
+
+Coordenar a implantação do Projeto Político Pedagógico da Escola, assegurando a Unidade Escolar e o cumprimento de Currículo e do Calendário escolar.
+
+
+IV –
+
+Manter atualizado o tombamento dos bens políticos, zelando em conjunto com todos os segmentos da comunidade, pela sua conservação;
+
+
+V –
+
+Dar conhecimento à comunidade escolar das diretrizes e normas emitidas pelos órgãos do sistema de ensino;
+
+
+VI –
+
+Submeter ao Conselho Fiscal para exame e parecer, no prazo regulamentado a prestação de contas dos recursos financeiros repassados à unidade escolar;
+
+
+VII –
+
+Divulgar à comunidade escolar a movimentação financeira da escola;
+
+
+VIII –
+
+Coordenar o processo de avaliação das ações pedagógicas e técnico-administrativo-financeiras desenvolvidas na escola;
+
+
+IX –
+
+Apresentar, anualmente à Secretaria Municipal de Educação e a Comunidade escolar, a avaliação do cumprimento das metas estabelecidas no Plano de Desenvolvimento da Escola, avaliação interna da Escola e as propostas Pedagógicas que visem à melhoria da qualidade do ensino;
+
+
+X –
+
+Cumprir e fazer cumprir a legislação vigente;
+
+
+Art. 5º.
+
+O período da administração do diretor compreende a um mandato de 02 (dois) anos, permitida uma recondução.
+
+
+Art. 6º.
+
+A vacância da função de diretor e vice-diretor ocorre por exclusão de gestão, renúncia, destituição, aposentadoria ou morte.
+
+
+Parágrafo único
+
+O afastamento do diretor por período superior a 02 (dois) meses, com exceção dos casos de licença saúde, licença gestante e licença saúde família, implicará na vacância da função.
+
+
+Art. 7º.
+
+Ocorrendo a vacância da função de diretor, iniciar-se-á o processo de nova indicação, no prazo máximo de 15 (quinze) dias letivos.
+
+
+Parágrafo único
+
+No caso do disposto neste artigo, a pessoa indicada completa o mandato de seu antecessor
+
+
+Art. 8º.
+
+Ocorrendo a vacância da função de diretor no período de 6 (seis) meses anteriores ao término do período, completará o mandado o coordenador pedagógico ou o secretário escolar da unidade de ensino.
+
+
+Parágrafo único
+
+No impedimento do Coordenador Pedagógico ou do Secretário Escolar assumirá a função, um professor em exercício na unidade escolar, indicado pelo Secretário Municipal de Educação.
+
+
+Art. 9º.
+
+A destituição somente poderá ocorrer motivadamente:
+
+
+I –
+
+Após sindicância, em que seja assegurado o direito de defesa em face da concordância de fatos que constituem ilícito penal, falta de idoneidade moral, de disciplina, de assiduidade, de dedicação ao serviço, deficiência ou infração funcional prevista em Lei Complementar dos Profissionais da Educação Básica.
+
+
+II –
+
+– Por descumprimento desta Lei, no que diz respeito às atribuições e responsabilidade.
+
+
+§ 1º
+
+A Comunidade Escolar, mediante decisão fundamentada e documentada pela maioria absoluta de seus membros e o Secretário Municipal de Educação, mediante despacho fundamentado, poderão propor ou determinar a instauração de sindicância, para os fins previstos neste artigo;
+
+
+§ 2º
+
+O Secretário Municipal de Educação determinará o afastamento do indiciado durante a realização do processo de sindicância;
+
+
+§ 3º
+
+O afastamento do diretor será pelo prazo máximo de 90 (noventa) dias. Em caso de afastamento ocorre o previsto no Art. 8.
+
+
+Art. 10.
+
+São órgãos consultivos e deliberativos da unidade escolar:
+
+
+I –
+
+O Grupo Gestor;
+
+
+II –
+
+Membros da Unidade Executora;
+
+
+Art. 11.
+
+A comunidade escolar reunir-se-á em Assembleia Geral ordinária, no mínimo uma vez por semestre.
+
+
+Art. 12.
+
+O Conselho Fiscal reunir-se-á ordinariamente a cada semestre.
+
+
+### TÍTULO II — CRITÉRIOS PARA ESCOLHA DE DIRETORES E VICE-DIRETORES DAS ESCOLAS PÚBLICAS MUNICIPAIS
+
+
+Art. 13.
+
+Os critérios para escolha de diretores têm como referência clara os campos do conhecimento, da competência e liderança, na perspectiva de assegurar um conhecimento mínimo da realidade onde se insere.
+
+
+Art. 14.
+
+A seleção de professor para provimento do cargo de diretor das escolas públicas, considerando-se a aptidão para a liderança e as habilidades gerenciais necessárias ao exercício do cargo, será realizada em etapas:
+
+
+I –
+
+1ª Etapa: constará de inscrição junto à Secretaria Municipal de Educação juntamente com o Currículo e Proposta de trabalho a qual deverá conter:
+
+
+a)
+
+Objetivos e metas para a melhoria da escola e do ensino;
+
+
+b)
+
+Estratégias para preservação do patrimônio público;
+
+
+c)
+
+Estratégia para a participação da comunidade no cotidiano da escola, acompanhamento e avaliação das ações pedagógicas;
+
+
+II –
+
+2ª Etapa: realizar-se-á na Secretaria Municipal de Educação, onde uma comissão deverá selecionar os candidatos, com base nos pré-requisitos apresentados no Art. 16, Incisos: I, II, III, IV, V e VI com divulgação dos deferidos ou não;
+
+
+III –
+
+3ª Etapa: será o processo de eleição de diretor realizado na Unidade Escolar de cada candidato, coordenado pela Comissão Eleitoral com acompanhamento da Secretaria Municipal de Educação.
+
+
+Parágrafo único
+
+O processo eleitoral ocorrerá em todas as Escolas do Ensino Fundamental de 1º ao 9º Ano em data definida pela Secretaria Municipal de Educação através de Edital, com 20 dias de antecedência.
+
+
+Art. 15.
+
+O candidato deverá apresentar sua Proposta de Trabalho para a Comunidade Escolar, em data, local e horários marcados pela Secretaria Municipal de Educação.
+
+
+Parágrafo único
+
+O candidato que não apresentar a sua proposta de trabalho será automaticamente desclassificado.
+
+
+Art. 16.
+
+Para participar do processo de que trata essa Lei, o candidato a Diretor e Vice-Diretor deverá:
+
+Alteração feita pelo Art. 2º. - LEI ORDINÁRIA nº 489, de 01 de dezembro de 2020.
+
+
+I –
+
+Ser ocupante de cargo efetivo do quadro de Professores e Monitores da Educação Básica;
+
+Alteração feita pelo Art. 2º. - LEI ORDINÁRIA nº 489, de 01 de dezembro de 2020.
+
+
+II –
+
+Ter no mínimo 2 (dois) anos de efetivo exercício ininterruptos até a data da inscrição prestados na escola que pretende dirigir;
+
+
+III –
+
+Ser habilitado em nível de Licenciatura Plena.
+
+
+IV –
+
+Possua disponibilidade para atuar em regime de dedicação integral, com o cumprimento de 40 (quarenta) horas semanais de trabalho, a fim de gerenciar a escola em todo o seu funcionamento, nos turnos matutino e vespertino.
+
+
+V –
+
+Participar de ciclos de estudos a serem organizados pela Coordenação Pedagógica do Município e Secretaria Municipal de Educação.
+
+
+VI –
+
+Os Candidatos não poderão afastar-se do cargo que exerce na Unidade Escolar durante o processo eleitoral.
+
+
+Art. 17.
+
+A eleição do diretor importará a do vice-diretor com ele registrado na mesma chapa.
+
+
+Parágrafo único
+
+Caso não haja professor com 2 (dois) anos de efetivo exercício na unidade escolar para composição da chapa ao cargo de vice-diretor, poderá se inscrever o professor do Ensino Fundamental ou da Educação Infantil com um ano de efetivo exercício prestado na unidade escolar, ou 2 (dois) anos em qualquer escola pública da rede pública municipal das modalidades Ensino Fundamental ou Educação Infantil.
+
+
+Art. 18.
+
+O Vice-Diretor exercerá a função de Coordenador Pedagógico com carga horária de 40 (quarenta) horas semanais, nos turnos matutino e vespertino.
+
+
+Art. 19.
+
+É vedada a participação no processo seletivo o professor que nos últimos anos:
+
+
+I –
+
+Tenha sido exonerado, dispensado ou suspenso do exercício da função em decorrência de processo administrativo disciplinar;
+
+
+II –
+
+Esteja respondendo a processo administrativo disciplinar;
+
+
+III –
+
+Esteja sob processo de sindicância;
+
+
+IV –
+
+Esteja inadimplente junta à justiça;
+
+
+**ATRIBUIÇÕES DA COMISSÃO ELEITORAL**
+
+
+Art. 20.
+
+A Comissão Eleitoral constituída pelo Decreto nº 081 de 20/10/2015, terá dentre outras atribuições de:
+
+
+I –
+
+Planejar, organizar, coordenar e presidir o processo de seleção do candidato pela comunidade;
+
+
+II –
+
+Divulgar amplamente as normas e os critérios relativos ao processo de seleção;
+
+
+III –
+
+Analisar, juntamente com o representante da Secretaria Municipal de educação, as inscrições dos candidatos deferindo-as ou não;
+
+
+IV –
+
+Providenciar material de votação, lista de votantes por segmento e urnas;
+
+
+V –
+
+Credenciar até dois fiscais indicados pelos candidatos, identificando-os através de crachás;
+
+
+VI –
+
+Lavrar e assinar atas de todas as reuniões e decisões em Livro próprio;
+
+
+VII –
+
+Receber os pedidos de impugnação – por escrito – relativos aos candidatos ou ao processo de análise junto com a Secretaria Municipal de Educação e emitir parecer no máximo em 48 (quarenta e oito) horas após o recebimento do pedido;
+
+
+VIII –
+
+Designar, credenciar e instruir com a devida antecedência, os componentes das mesas receptoras e escrutinadoras;
+
+
+IX –
+
+Acondicionar as células e fichas de votação, bem como a listagem dos votantes em envelopes lacrados por todos os seus membros, arquivando-as na SEMEC por um prazo de 90 (dias), após os quais deverá proceder à incineração;
+
+
+X –
+
+Conduzir e organizar as mesas receptoras do processo de votação e escrutinação;
+
+
+XI –
+
+Divulgar o resultado final do processo de eleição e enviar o resultado para cada unidade escolar.
+
+
+Art. 21.
+
+Na Apresentação da Proposta de Trabalho, deverá ser concedida a cada candidato 40 minutos para exposição e debate de sua proposta de trabalho.
+
+
+**DAS INFRAÇÕES ELEITORAIS**
+
+
+Art. 22.
+
+É vedado ao candidato que:
+
+
+I –
+
+Fizer exposição de faixas e cartazes fora da escola;
+
+
+II –
+
+Distribuir panfletos promocionais e brindes de qualquer espécie com objetivos de propaganda ou aliciamento de votantes;
+
+
+III –
+
+Realizar festas na escola que não estejam previstas no seu calendário;
+
+
+IV –
+
+Desempenhar atos que impliquem em oferecimento, promessas inviáveis ou vantagens de qualquer natureza;
+
+
+V –
+
+Aparição isolada nos meios de comunicação ainda que de forma de entrevista jornalística;
+
+
+VI –
+
+Utilização de símbolos, frases ou imagens associadas ou semelhantes às empregadas por órgãos do governo.
+
+
+Art. 23.
+
+Estará afastado do processo o candidato que praticar quaisquer dos atos previstos no art. 22 dessa Lei.
+
+
+Parágrafo único
+
+Caso o candidato possua apelido qual seja conhecido, poderá utilizá-lo para a divulgação de sua candidatura junto à comunidade escolar.
+
+
+**DOS VOTANTES**
+
+
+Art. 24.
+
+Podem votar:
+
+
+I –
+
+Profissionais da Educação em exercício na escola;
+
+
+II –
+
+Alunos regularmente matriculados, com frequência comprovada que tenham no mínimo 11 (onze) anos de idade, cursando do 4º ao 9º ano do Ensino Fundamental.
+
+
+III –
+
+Pai, mãe ou responsável pelos alunos menores de 11 (onze) anos que tenham frequência comprovada (um voto por família);
+
+
+§ 1º
+
+O profissional da educação com filhos na escola votará apenas pelo seu segmento;
+
+
+§ 2º
+
+O profissional da educação que ocupa mais de um cargo na escola votará apenas uma vez.
+
+
+Art. 25.
+
+No ato da votação, o votante deverá apresentar a mesa receptora um documento com foto (RG ou equivalente).
+
+
+Parágrafo único
+
+Os votantes não portadores do RG poderão votar desde que seu nome conste na lista de eleitores aptos de cada Unidade Escolar.
+
+
+Art. 26.
+
+Não é permitido voto por procuração.
+
+
+Art. 27.
+
+O votante com identidade comprovada, cujo nome não conste em nenhuma lista poderá votar em uma lista separada.
+
+
+Art. 28.
+
+Poderão permanecer no recinto destinado a mesa receptora apenas os seus membros e os fiscais.
+
+
+Art. 29.
+
+Nenhuma autoridade estranha à mesa poderá intervir sob o pretexto algum em seu regular funcionamento, exceto o Presidente da Comissão Eleitoral quando solicitado.
+
+
+Art. 30.
+
+Cada mesa será composta por no mínimo três e no máximo cinco membros e dois suplentes, escolhidos pela comissão entre os votantes e com antecedência mínima de três dias.
+
+
+Parágrafo único
+
+Não podem integrar a mesa os candidatos, seus cônjuges ou parentes de até segundo grau.
+
+
+Art. 31.
+
+Os eventuais pedidos de impugnação dos mesários, devidamente fundamentados, serão dirigidos ao presidente da comissão e, caso sejam considerados pertinentes, a substituição será feita pelo suplente.
+
+
+Parágrafo único
+
+O candidato que não solicitar a impugnação ficará impedido de arguir, sobre este fundamento, a anulação do processo.
+
+
+Art. 32.
+
+O voto será dado em cédula única, contendo o carimbo identificador da escola municipal, devidamente assinado pelo presidente da comissão e um mesário.
+
+
+Art. 33.
+
+O secretário da mesa deverá lavrar a ata circunstancial dos trabalhos realizados, a qual deverá ser assinada por todos os mesários.
+
+
+Art. 34.
+
+Os fiscais indicados pelos candidatos poderão solicitar ao presidente da mesa o registro, em ata, de eventuais irregularidades ocorridas durante o processo.
+
+
+Art. 35.
+
+As mesas receptoras, uma vez encerrada a votação e elaborada a respectiva ata, ficam automaticamente transformadas em mesas escrutinadas para procederem imediatamente à contagem dos votos nos mesmos locais de votação.
+
+
+§ 1º
+
+Antes da abertura da urna, a comissão deverá verificar se há nela indícios de violação e em caso de constatação, o processo eleitoral deverá ser suspenso e o presidente da comissão e seus membros deverão convocar o secretário municipal de educação para se tomar as decisões cabíveis e devidamente registrá-la em livro próprio;
+
+
+§ 2º
+
+2º Antes da abertura da urna a mesa escrutinadora deverá examinar os votos tomados em separado, anulando-os entre os demais, preservando o sigilo.
+
+
+Art. 36.
+
+Não havendo coincidência entre o número de votantes e o número de cédulas existentes na urna, o fato somente constituirá motivo de anulação, se resultante de fraude comprovada e, neste caso, adota-se o mesmo procedimento citado no Art. 35 parag. 1º e 2º.
+
+
+Art. 37.
+
+Os pedidos de impugnação fundados em violação de urnas somente poderão ser apresentados até sua abertura.
+
+
+Art. 38.
+
+São nulos votos que:
+
+
+I –
+
+Registrados em cédulas que não correspondem ao modelo padrão;
+
+
+II –
+
+Indiquem mais de um candidato;
+
+
+III –
+
+Contenham expressões ou qualquer outro tipo de manifestações daquela que exprime o voto.
+
+
+Art. 39.
+
+Concluídos os trabalhos de escrutinação, lavrada a ata do resultado final de todo o processo e assinada pelos componentes da comissão da mesa escrutinadora, todo material será entregue ao presidente da comissão que se reunirá com os demais membros para:
+
+
+I –
+
+Verificar toda a documentação;
+
+
+II –
+
+Decidir sobre eventuais irregularidades;
+
+
+III –
+
+Divulgar o resultado final da votação.
+
+
+Parágrafo único
+
+Divulgado o resultado, não cabe sua revisão, exceto em caso de provimento de recurso impetrado nos termos do Art. 35 desta Lei, Parag. 1º e 2º.
+
+
+Art. 40.
+
+Será eleito o candidato que obtiver a maioria dos votos válidos.
+
+
+Parágrafo único
+
+Na ocorrência de empate, será considerado eleito o candidato que:
+
+
+a)
+
+Tiver maior idade;
+
+
+b)
+
+Possuir maior titulação;
+
+
+c)
+
+Tiver mais tempo de serviço na Unidade Escolar;
+
+
+d)
+
+Tiver mais tempo de serviço na Rede Pública Municipal de Ensino.
+
+
+Art. 41.
+
+No momento da transmissão de cargo ao diretor eleito pelas comunidades escolares, o professor que estiver na direção deverá apresentar a avaliação pedagógica de sua gestão, entregar um balanço do acervo documental, do inventário do material, do equipamento e do patrimônio existentes na Unidade Escolar.
+
+
+Art. 42.
+
+O professor que estiver exercendo a função de diretor da escola, caso seja novamente escolhido, deve apresentar à Comunidade Escolar em assembleia geral, a prestação de contas da gestão anterior para posteriormente tomar posse.
+
+
+### TÍTULO III — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 43.
+
+A eleição referida no Art. 1º será convocada mediante edital do Secretário Municipal de Educação.
+
+
+§ 1º
+
+Após o ato referido neste artigo, caberá a Comissão Eleitoral dar publicidade das normas que regerão o pleito afixando-as em local visível e de fácil acesso.
+
+
+§ 2º
+
+A votação será realizada na 2ª sexta-feira do mês de dezembro de cada ano eleitoral, das 08:00h às 17:00h.
+
+
+§ 3º
+
+A Comissão Eleitoral encerrará seus trabalhos até 30 (trinta) dias após o encerramento da eleição.
+
+
+Art. 44.
+
+Será atribuída ao professor efetivo da Rede Municipal de Ensino, na função de Diretor de Unidade Escolar Municipal, uma remuneração equivalente a 40 (quarenta) horas/aulas do nível que o servidor pertencer sobre o qual será acrescida uma gratificação que variará de acordo com o número de alunos, ou porte da instituição conforme Lei Municipal Complementar nº 07/2009, 23 de dezembro de 2009, equivalente a:
+
+
+a)
+
+15% (quinze por cento) de gratificação para escolas de pequeno porte, ou seja, com até 200 (duzentos) alunos em todos os turnos de funcionamento;
+
+
+b)
+
+20% (vinte por cento) de gratificação para escolas de médio porte, ou seja, de 211 (duzentos e onze) até 599 (quinhentos e noventa e nove) alunos em todos os turnos de funcionamento;
+
+
+c)
+
+25% (vinte e cinco por cento) de gratificação para escolas de grande porte, ou seja, com 600 (seiscentos) a 1079 (um mil e setenta e nove) alunos em todos os turnos de funcionamento.
+
+
+Parágrafo único
+
+A gratificação mencionada no caput será devida, ao professor efetivo da Rede Municipal de Ensino, na função de Vice-Diretor, cujas atribuições do cargo, são as de Coordenador Pedagógico com carga horária de 40 (quarenta) horas semanais.
+
+
+Art. 45.
+
+É de inteira responsabilidade da Secretaria Municipal de Educação a realização da transmissão do cargo ao eminente diretor empossado em cerimonial.
+
+
+Art. 46.
+
+Ao candidato que se sentir prejudicado ou detectar irregularidades no desenvolvimento do processo eleitoral, será facultado dirigir representação por escrito à Comissão Eleitoral, a qual deverá reunir-se e tomar providências cabíveis imediatamente.
+
+
+Art. 47.
+
+Os casos omissos serão resolvidos pela Secretaria Municipal de educação.
+
+
+Art. 48.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito, Alvorada do Norte - Goiás, 17 de Novembro de 2015.
+
+**David Moreira de Carvalho**  
+Prefeito Municipal
+

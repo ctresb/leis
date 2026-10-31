@@ -1,0 +1,178 @@
+---
+titulo: "LEI Nº 2996 DE 29/12/2025 (LEI ORÇAMENTÁRIA"
+uf: "RO"
+municipio: "ARIQUEMES"
+tipo: "Lei Ordinária"
+numero: "2996"
+data: 
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 17/08/2026"
+data_publicacao: 2026-08-17
+codigo_identificador: "45EC7F4E"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116131_2026-08-14_98cff9d3d12ccbe2ccf2f82e509c7aa3.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 2996 DE 29/12/2025 (LEI ORÇAMENTÁRIA
+
+LEI Nº 2996 DE 29/12/2025 (LEI ORÇAMENTÁRIA
+ANUAL 2026) EM FAVOR DA SECRETARIA
+MUNICIPAL DE EDUCAÇÃO-SEMED.
+
+ALTERA A DISCRIMINAÇÃO DOS ELEMENTOS
+DE DESPESA RELATIVOS À ABERTURA DO
+ORÇAMENTO PARA O EXERCÍCIO FINANCEIRO
+DE 2026, RESPEITADOS O ESTABELECIDO NA
+LEI Nº 2996 DE 29/12/2025 (LEI ORÇAMENTÁRIA
+ANUAL 2026) EM FAVOR DA SECRETARIA
+MUNICIPAL DE EDUCAÇÃO-SEMED.
+
+A PREFEITA MUNICIPAL DE ARIQUEMES, no uso da
+atribuição que lhe confere o art. 7º, da Lei Orgânica Municipal, e
+tendo em vista o disposto na Lei 2996 de 29/12/2025 (ID 3696613),
+publicada no dia 30/12/2025, edição 4140, no Diário Oficial dos
+Municípios do Estado de Rondônia, que aprovou o orçamento do
+Município para o exercício de 2026.
+
+A PREFEITA MUNICIPAL DE ARIQUEMES, no uso da
+atribuição que lhe confere o art. 7º, da Lei Orgânica Municipal, e
+tendo em vista o disposto na Lei 2996 de 29/12/2025 (ID 3696613),
+publicada no dia 30/12/2025, edição 4140, no Diário Oficial dos
+Municípios do Estado de Rondônia, que aprovou o orçamento do
+Município para o exercício de 2026.
+
+RESOLVE:
+
+RESOLVE:
+
+Art. 1º Fica alterada a discriminação dos elementos de despesa e
+respectivos desdobramentos, fixados pelo Quadro de Detalhamento da
+Despesa- QDD anexo do Decreto 23343 de 05/01/2026 (ID 3700883),
+publicado no Diário Oficial dos Municípios do Estado de Rondônia no
+dia 07/01/2025, edição 4145, respeitado o artigo 41 e 44 da Lei
+Municipal nº 2.966, de 28 de agosto de 2025 - LDO/2026, bem como,
+autorizado no artigo 10º e Parágrafo Único da Lei nº 2.996 de 29 de
+dezembro de 2025-LOA/2026, conforme Processo Administrativo nº
+1-2122/2026-Memorando 29 de 13/08/2026 (ID 4211155), e abaixo
+distribuído:
+
+Art. 1º Fica alterada a discriminação dos elementos de despesa e
+respectivos desdobramentos, fixados pelo Quadro de Detalhamento da
+Despesa- QDD anexo do Decreto 23343 de 05/01/2026 (ID 3700883),
+publicado no Diário Oficial dos Municípios do Estado de Rondônia no
+dia 07/01/2025, edição 4145, respeitado o artigo 41 e 44 da Lei
+Municipal nº 2.966, de 28 de agosto de 2025 - LDO/2026, bem como,
+autorizado no artigo 10º e Parágrafo Único da Lei nº 2.996 de 29 de
+dezembro de 2025-LOA/2026, conforme Processo Administrativo nº
+1-2122/2026-Memorando 29 de 13/08/2026 (ID 4211155), e abaixo
+distribuído:
+
+Poder: 02-PREFEITURA MUNICIPAL DE ARIQUEMES
+Órgão: 08-SECRETARIA MUNICIPAL DE SAÚDE-SEMSAU
+Projeto/Atividade: 3018 - MANUTENCAO DAS ATIVIDADES DA EDUCAÇÃO INFANTIL CRECHES
+ALTERAÇÃO DE
+FUNCIONAL
+FICHA
+ELEMENTO DE DESPESA VALOR
+ELEMENTO
+PROGRAMÁTICA
+3.3.90.39.00-OUTROS
+ACRÉSCIMO
+341
+02.07.12.365.0040.3018
+SERVIÇOS DE TERCEIROS - 202.275,80
+PESSOA JURÍDICA
+3.3.90.30.00-MATERIAL DE REDUÇÃO
+338
+02.07.12.365.0040.3018
+CONSUMO
+202.275,80
+Fonte: 1.550.0000-Recursos do Exercício Corrente-Transferência do Salário-Educação.
+TOTAL DA SUPLEMENTAÇÃO
+202.275,80
+TOTAL DA REDUÇÃO
+202.275,80
+
+Poder: 02-PREFEITURA MUNICIPAL DE ARIQUEMES
+Órgão: 08-SECRETARIA MUNICIPAL DE SAÚDE-SEMSAU
+Projeto/Atividade: 3027 - MANUTENÇÃO DA BIBLIOTECA MUNICIPAL PEDRO TAVARES
+BATALHA
+ALTERAÇÃO
+FUNCIONAL
+ELEMENTO
+DE
+FICHA
+VALOR
+DE ELEMENTO
+PROGRAMÁTICA
+DESPESA
+3.3.90.39.00-OUTROS
+SERVIÇOS
+DE
+ACRÉSCIMO
+369
+02.07.12.391.0006.3027
+25.000,00
+TERCEIROS
+PESSOA JURÍDICA
+3.3.90.30.00REDUÇÃO
+368
+02.07.12.391.0006.3027
+MATERIAL
+DE -25.000,00
+CONSUMO
+Fonte: 1.500.0000-Recursos do Exercício Corrente-Recursos não vinculados de impostos e transferências
+de impostos.
+TOTAL DA SUPLEMENTAÇÃO
+25.000,00
+TOTAL DA REDUÇÃO
+-25.000,00
+
+Art. 2º A alteração introduzida pela presente Portaria não implica em
+abertura de crédito adicional, suplementar, especial ou mesmo
+extraordinário, tendo em vista que o Orçamento vigente foi enviado ao
+legislativo até nível de modalidade, conforme o artigo 19, inciso II da
+Lei Municipal nº 2.966, de 28 de agosto de 2025 - LDO/2026.
+Art. 3º O Setor de Orçamento da Prefeitura Municipal providenciará
+os registros relativos ao cumprimento dos termos desta Portaria.
+Art. 4º Esta Portaria entra em vigor nesta data.
+
+Art. 2º A alteração introduzida pela presente Portaria não implica em
+abertura de crédito adicional, suplementar, especial ou mesmo
+extraordinário, tendo em vista que o Orçamento vigente foi enviado ao
+legislativo até nível de modalidade, conforme o artigo 19, inciso II da
+Lei Municipal nº 2.966, de 28 de agosto de 2025 - LDO/2026.
+Art. 3º O Setor de Orçamento da Prefeitura Municipal providenciará
+os registros relativos ao cumprimento dos termos desta Portaria.
+Art. 4º Esta Portaria entra em vigor nesta data.
+
+Ariquemes, 14 de agosto de 2026.
+
+Ariquemes, 14 de agosto de 2026.
+
+CARLA GONÇALVES REZENDE
+Prefeita do Município de Ariquemes/RO
+Av. Tancredo Neves, 2166 - Setor Institucional - Ariquemes/RO CEP:
+76.872-854
+Contato: (69) 3516-2000 - Site: www.ariquemes.ro.gov.br - CNPJ:
+04.104.816/0001-16
+
+CARLA GONÇALVES REZENDE
+Prefeita do Município de Ariquemes/RO
+Av. Tancredo Neves, 2166 - Setor Institucional - Ariquemes/RO CEP:
+76.872-854
+Contato: (69) 3516-2000 - Site: www.ariquemes.ro.gov.br - CNPJ:
+04.104.816/0001-16
+
+www.diariomunicipal.com.br/arom
+
+17
+
+Rondônia , 17 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4299
+Documento assinado eletronicamente por CARLA GONCALVES
+REZENDE, PREFEITA MUNICIPAL, em 14/08/2026 às 12:12,
+horário de Ariquemes/RO, com fulcro no art. 18 do Decreto nº 16.426
+de 16/04/2020.
+Publicado por:
+Everton Absolon Cória Mendes

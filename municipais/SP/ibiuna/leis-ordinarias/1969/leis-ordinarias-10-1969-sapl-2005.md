@@ -1,0 +1,56 @@
+---
+titulo: "Lei nº 10, de 25 de março de 1969"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "10"
+data: "1969-03-25"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2005"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/227/text"
+sha256_fonte: "9b9e5d92dd76caff38f0b2187a82cdd360404a9aeab81f7237347f4e161ef09c"
+sha256_texto: "242f3d5afb0c436d95a55c7dad16b293a58fcdfa5674bf13e371aea1932e4f10"
+capturado_em_fonte: "2026-10-28T13:58:35.916194-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 10, de 25 de março de 1969
+
+Que abre um crédito especial no valor de NCR$ 5.000,00 destinado a atender as despesas com juros e mora sobre as parcelas da amortização dos empréstimos contraídos com a Caixa Econômica do Estado de São Paulo.
+
+
+**Faço saber que a Câmara Municipal de Ibiúna**, aprova e, eu ANTÔNIO JOSÉ SOARES na qualidade de Prefeito Municipal sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto na contadoria da Prefeitura Municipal de Ibiúna um crédito especial no valor de NCR$ 5.000,00 (cinco mil cruzeiros novos), destinados a atender despesas com juros e mora sobre as parcelas as amortizações dos empréstimos contraídos com a Caixa Econômica do Estado de São Paulo.
+
+
+Art. 2º.
+
+As despesas decorrentes com a execução da presente lei, será coberto com os recursos provenientes do excesso de arrecadação previsto para o corrente exercício
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE IBIÚNA, EM 25 DE MARÇO DE 1969.
+
+**ANTÔNIO JOSÉ SOARES**
+
+**Prefeito Municipal**
+
+Publicada e Registrada na Secretaria da Prefeitura e afixada no local de costume em 25 de março de 1969.
+
+**ABIGAIL DE MORAES ROSA**
+
+**Secretaria da Prefeitura**
+

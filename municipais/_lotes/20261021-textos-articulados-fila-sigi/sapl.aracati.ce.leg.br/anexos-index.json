@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/1/regimento_interno-formato-antigo.pdf da norma Resolução nº 2, de 24 de novembro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Este anexo é o formato antigo do Regimento da Câmara Municipal de Aracati. (A diferença para o formato atual é que o mesmo é pesquisável)",
+      "anexo_arquivo": "http://sapl.aracati.ce.leg.br/media/sapl/public/anexonormajuridica/2000/1/regimento_interno-formato-antigo.pdf",
+      "ano": 2000,
+      "norma": 1343
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aracati.ce.leg.br/60358932e88eeed084aa0f2b12ee95e4a49585fe11442ec911a2757897645ebb.json",
+      "url": "https://sapl.aracati.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.aracati.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "452a2e35b22abb5c107b7d93d9e08c34b9d7a5d9bfa742ef6758d6cb986fe797",
+      "bytes": 751,
+      "capturado_em": "2026-10-27T16:51:52.134015-03:00"
+    }
+  ]
+}

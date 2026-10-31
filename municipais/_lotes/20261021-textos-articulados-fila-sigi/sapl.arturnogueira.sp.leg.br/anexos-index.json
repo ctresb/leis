@@ -1,0 +1,303 @@
+{
+  "estado": "indice_completo",
+  "total": 27,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/lei_3495_-_anexo_-_protocolo_de_intencoes_do_consorcio_nacional_de_vacinas_das_cidades_brasileiras_.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.495, de 12 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "PROTOCOLO DE INTENÇÕES CONECTAR",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2021/1/lei_3495_-_anexo_-_protocolo_de_intencoes_do_consorcio_nacional_de_vacinas_das_cidades_brasileiras_.pdf",
+      "ano": 2021,
+      "norma": 11
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/lei_3539_plano_plurianual_investimentos_ppa_2022-2025_-_anexo.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.539, de 22 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2021/2/lei_3539_plano_plurianual_investimentos_ppa_2022-2025_-_anexo.pdf",
+      "ano": 2021,
+      "norma": 100
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/lei_3540_diretrizes_orcamentarias_lei_exercicio_2022_-_anexo.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.540, de 22 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS LDO 2022-2021",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2021/3/lei_3540_diretrizes_orcamentarias_lei_exercicio_2022_-_anexo.pdf",
+      "ano": 2021,
+      "norma": 104
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/lei_complementar_693_reforma_administrativa_anexo_i.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 693, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - TABELA DE REFERÊNCIAS",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2022/5/lei_complementar_693_reforma_administrativa_anexo_i.pdf",
+      "ano": 2022,
+      "norma": 1551
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/lei_complementar_693_reforma_administrativa_anexo_ii.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 693, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - CARGOS PERMANENTES",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2022/6/lei_complementar_693_reforma_administrativa_anexo_ii.pdf",
+      "ano": 2022,
+      "norma": 1551
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/7/lei_complementar_693_reforma_administrativa_anexo_iii.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 693, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III - CARGOS EM COMISSÃO",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2022/7/lei_complementar_693_reforma_administrativa_anexo_iii.pdf",
+      "ano": 2022,
+      "norma": 1551
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/8/lei_complementar_693_reforma_administrativa_anexo_iv.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 693, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - FUNÇÕES GRATIFICADAS",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2022/8/lei_complementar_693_reforma_administrativa_anexo_iv.pdf",
+      "ano": 2022,
+      "norma": 1551
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/9/lei_complementar_693_reforma_administrativa_anexo_v.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 693, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "ANEXO V - CARGOS EFETIVOS - ATRIBUIÇÕES",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2022/9/lei_complementar_693_reforma_administrativa_anexo_v.pdf",
+      "ano": 2022,
+      "norma": 1551
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/10/lei_complementar_693_reforma_administrativa_anexo_vi.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 693, de 21 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI - CARGOS EM COMISSÃO - ATRIBUIÇÕES",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2022/10/lei_complementar_693_reforma_administrativa_anexo_vi.pdf",
+      "ano": 2022,
+      "norma": 1551
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/11/pmsb__artur_nogueira_pos_audiencia_110115_v1_pdf.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.227, de 15 de abril de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2015/11/pmsb__artur_nogueira_pos_audiencia_110115_v1_pdf.pdf",
+      "ano": 2015,
+      "norma": 1332
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/plc_2024-004_-_mapa_1_-_areas_a_ampliar.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 719, de 28 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "MAPA 1 - ÁREAS A AMPLIAR",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2024/12/plc_2024-004_-_mapa_1_-_areas_a_ampliar.pdf",
+      "ano": 2024,
+      "norma": 4146
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/plc_2024-004_-_mapa_2_-_macrozoneamento_e_perimetro_urbano.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 719, de 28 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "MAPA 2 - MACROZONEAMENTO E PERÍMETRO URBANO",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2024/13/plc_2024-004_-_mapa_2_-_macrozoneamento_e_perimetro_urbano.pdf",
+      "ano": 2024,
+      "norma": 4146
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/14/pl_016-2014.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.178, de 13 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 016/2014",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2014/14/pl_016-2014.pdf",
+      "ano": 2014,
+      "norma": 1463
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/15/pl_016-2014_-_mapa.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.178, de 13 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "MAPA",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2014/15/pl_016-2014_-_mapa.pdf",
+      "ano": 2014,
+      "norma": 1463
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/16/plc_016-2013.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 543, de 19 de setembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei Complementar nº 016/2013",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2013/16/plc_016-2013.pdf",
+      "ano": 2013,
+      "norma": 1149
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/17/plc_016-2013_-_mapa_1.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 543, de 19 de setembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "MAPA 1",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2013/17/plc_016-2013_-_mapa_1.pdf",
+      "ano": 2013,
+      "norma": 1149
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/18/plc_016-2013_-_mapa_2.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 543, de 19 de setembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "MAPA 2",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2013/18/plc_016-2013_-_mapa_2.pdf",
+      "ano": 2013,
+      "norma": 1149
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/19/pl_005-2012.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 516, de 13 de fevereiro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI COMPLEMENTAR Nº 005-2012",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2012/19/pl_005-2012.pdf",
+      "ano": 2012,
+      "norma": 1124
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/20/pl_039-2013.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 562, de 23 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI COMPLEMENTAR Nº 039-2013",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2013/20/pl_039-2013.pdf",
+      "ano": 2013,
+      "norma": 1168
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/21/pl_002-2016.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 596, de 09 de maio de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI COMPLEMENTAR N.º 002/2016",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2016/21/pl_002-2016.pdf",
+      "ano": 2016,
+      "norma": 1200
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/22/pl_006-2019.pdf da norma LEI COMPLEMENTAR MUNICIPAL nº 629, de 19 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "PROJETO DE LEI COMPLEMENTAR Nº 006/2019",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2019/22/pl_006-2019.pdf",
+      "ano": 2019,
+      "norma": 160
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/23/002_-_convenio_prefeitura_e_santa_casa.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.544, de 01 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "CONVÊNIO ENTRE A PREFEITURA MUNICIPAL E SANTA CASA DE MISERICÓRDIA DE COSMÓPOLIS.",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2021/23/002_-_convenio_prefeitura_e_santa_casa.pdf",
+      "ano": 2021,
+      "norma": 146
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/24/oficio_238-2024_-_envia_convenio_santa_casa.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.544, de 01 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "OFÍCIO 238-2024 - ENVIA CONVÊNIO, PRORROGAÇÕES, ADITIVOS E PLANOS DE TRABALHO REFERENTES AO CONVÊNIO COM A SANTA CASA DE COSMÓPOLIS.",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2021/24/oficio_238-2024_-_envia_convenio_santa_casa.pdf",
+      "ano": 2021,
+      "norma": 146
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/25/adin_2127627-55.2020.8.26.0000_-_lei_3340_-_guarda.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.340, de 20 de setembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Francisco Antonio Casconi",
+                [
+                  "2022-04-26T12:58:12-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ACÓRDÃO DE AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2017/25/adin_2127627-55.2020.8.26.0000_-_lei_3340_-_guarda.pdf",
+      "ano": 2017,
+      "norma": 519
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/decreto_075-2025.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.751, de 13 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "DECRETO EXECUTIVO Nº 075-2025 - NOVA COMPOSIÇÃO DO CONSELHO DE PLANEJAMENTO",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2025/26/decreto_075-2025.pdf",
+      "ano": 2025,
+      "norma": 4901
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/27/anexos_-_pl_2024015_-_plano_municipal_de_educacao.pdf da norma LEI ORDINÁRIA MUNICIPAL nº 3.236, de 24 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE ARTUR NOGUEIRA",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2015/27/anexos_-_pl_2024015_-_plano_municipal_de_educacao.pdf",
+      "ano": 2015,
+      "norma": 1341
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/decreto_112-2026_transfere_ponto_facultativo.pdf da norma PORTARIA nº 24, de 20 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "DECRETO 112-2026 - TRANSFERE DATA DE PONTO FACULTATIVO",
+      "anexo_arquivo": "http://sapl.arturnogueira.sp.leg.br/media/sapl/public/anexonormajuridica/2026/29/decreto_112-2026_transfere_ponto_facultativo.pdf",
+      "ano": 2026,
+      "norma": 5072
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arturnogueira.sp.leg.br/ea827a79334874668ed71cd3ca4af8c3c8cb62d8f5fb0576ddbbed756f09982a.json",
+      "url": "https://sapl.arturnogueira.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.arturnogueira.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "09d56fc2c5fec15deea391b56a1c7d66bf25bed02eec6255140ef81484e9d712",
+      "bytes": 13321,
+      "capturado_em": "2026-10-27T16:59:31.659042-03:00"
+    }
+  ]
+}

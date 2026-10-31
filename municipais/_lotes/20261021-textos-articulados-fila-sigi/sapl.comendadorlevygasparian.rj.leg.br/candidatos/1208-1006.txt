@@ -1,0 +1,586 @@
+**Dispõe sobre o uso do meio eletrônico, de assinaturas eletrônicas e regulamenta oart.50 da Lei Federal n° 14.063, de 23 de setembro de 2020, quanto ao nível mínimo exigido para a assinatura eletrônica em interações com os processos administrativos no âmbito da Câmara Municipal de Comendador Levy Gasparian.**
+
+
+**O Presidente da Câmara Municipal de Comendador Levy Gasparian, no uso de suas atribuições legais, D=E=C=R=E=T=A:**
+
+
+**Objeto**
+
+
+Art. 1º.
+
+Dispõe sobre o uso do meio eletrônico para a realização do processo administrativo, de assinaturas eletrônicas e regulamenta o art. 5° da Lei n° 14.063, de 23 de setembro de 2020, quanto ao nivel mínimo exigido para a assinatura eletrônica no âmbito da Camara Municipal de Comendador Levy Gasparian.
+
+
+Art. 2º.
+
+Para o disposto neste Decreto, consideram-se as seguintes definições:
+
+
+I –
+
+documento - unidade de registro de informações, independentemente do formato, do suporte ou da natureza;
+
+
+II –
+
+documento digital - informação registrada, codificada em dígitos binários, acessível e interpretavel por meio de sistema computacional, podendo ser:
+
+
+a)
+
+documento nato-digital - documento criado originariamente em meio eletrônico; ou
+
+
+b)
+
+documento digitalizado - documento obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital;
+
+
+III –
+
+processo administrativo eletrônico - aquele em que os atos processuais são registrados e disponibilizados em meio eletrônico.
+
+
+IV –
+
+interação eletrônica - o ato praticado por particular ou por agente público, por meio de edição eletrônica de documentos ou de ações eletrônicas, com a finalidade de:
+
+
+a)
+
+adquirir, resguardar, transferir, modificar, extinguir ou declarar direitos;
+
+
+b)
+
+impor obrigações; ou
+
+
+c)
+
+requerer, peticionar, solicitar, relatar, comunicar, informar, movimentar, consultar, analisar ou avaliar documentos, procedimentos, processos, expedientes, situações ou fatos;
+
+
+V –
+
+validação biométrica - confirmação da identidade da pessoa natural mediante aplicação de método de comparação estatístico de medição biológica das características fisicas de um individuo com objetivo de identificá-lo unicamente com alto grau de segurança;
+
+
+VI –
+
+validação biográfica - confirmação da identidade da pessoa natural mediante comparação de fatos da sua vida, tais como nome civil ou social, data de nascimento, filiação, naturalidade, nacionalidade, sexo, estado civil, grupo familiar, endereço e vínculos profissionais, com o objetivo de identificá-la unicamente com médio grau de segurança; e
+
+
+VI –
+
+validador de acesso digital - órgão ou entidade, pública ou privada, autorizada a fornecer meios seguros de validação de identidade biométrica ou biográfica em processos de identificação digital.
+
+
+Art. 3º.
+
+São objetivos deste Decreto:
+
+
+I –
+
+assegurar a eficiência, a eficácia e a efetividade da ação governamental e promover a adequação entre meios, ações, impactos e resultados;
+
+
+II –
+
+promover a utilização de meios eletrônicos para a realização dos processos administrativos com segurança, transparência e economicidade;
+
+
+III –
+
+ampliar a sustentabilidade ambiental com o uso da tecnologia da informação e da comunicação; e
+
+
+IV –
+
+facilitar o acesso do cidadão às instâncias administrativas da Câmara Municipal.
+
+
+**Âmbito de Aplicação**
+
+
+Art. 4º.
+
+Este Decreto aplica-se a:
+
+
+I –
+
+interação eletrônica interna:
+
+
+a)
+
+das unidades da Câmara Municipal;
+
+
+b)
+
+dos demais órgãos e entidades com a Câmara Municipal de Comendador Levy Gasparian;
+
+
+II –
+
+interação entre pessoas naturais ou pessoas jurídicas de direito privado, diretamente ou por meio de procurador ou de representante legal, e os entes públicos de que trata o inciso I; e
+
+
+III –
+
+interação eletrônica entre os entes públicos de que trata o inciso I e outros entes públicos de qualquer Poder ou ente federativo.
+
+
+Parágrafo único
+
+0 disposto neste Decreto não se aplica:
+
+
+I –
+
+aos processos judiciais;
+
+
+II –
+
+à interação eletrônica:
+
+
+a)
+
+entre pessoas naturais ou entre pessoas juridicas de direito privado;
+
+
+b)
+
+na qual seja permitido o anonimato; e
+
+
+c)
+
+na qual seja dispensada a identificação do particular;
+
+
+III –
+
+aos sistemas de ouvidoria de entes públicos;
+
+
+IV –
+
+aos programas de assistência a vitimas e a testemunhas ameaçadas;
+
+
+V –
+
+às outras hipóteses nas quais deva ser dada garantia de preservação de sigilo da identidade do particular na atuação perante o ente público; e
+
+
+VI –
+
+às interações, sem participação da administração da Câmara Municipal, que envolvam:
+
+
+a)
+
+outros Poderes;
+
+
+b)
+
+órgãos constitucionalmente autônomos;
+
+
+c)
+
+outros entes federativos;
+
+
+d)
+
+empresas públicas; ou
+
+
+e)
+
+sociedades de economia mista.
+
+
+**Níveis mínimos para assinatura eletrônica**
+
+
+Art. 5º.
+
+Os níveis mínimos para as assinaturas em interações eletrônicas com a administração pública federal direta, autárquica e fundacional são:
+
+
+I –
+
+assinatura simples - admitida para as hipóteses cujo conteúdo da interação não envolva informações protegidas por grau de sigilo e não ofereça risco direto de dano a bens, serviços e interesses do ente público, incluidos:
+
+
+a)
+
+a solicitação de agendamentos, atendimentos, anuências, autorizações, pedidos de férias e licenças;
+
+
+b)
+
+a realização de autenticação ou solicitação de acesso a sitio eletrônico oficial que contenha informações de interesse particular, coletivo ou geral, mesmo que tais informações não sejam disponibilizadas publicamente;
+
+
+c)
+
+o envio de documentos digitais ou digitalizados e o recebimento de número de protocolo decorrente da ação;
+
+
+d)
+
+a participação em pesquisa pública; e
+
+
+e)
+
+o requerimento de declarações e de beneficios assistenciais, trabalhistas ou previdenciários diretamente pelo interessado;
+
+
+II –
+
+assinatura eletrônica avançada - admitida para as hipóteses previstas no inciso I e nas hipóteses de interação com o ente público que, considerada a natureza da relação jurídica, exijam maior garantia quanto A autoria, incluidos:
+
+
+a)
+
+as interações eletrônicas entre pessoas naturais ou pessoas jurídicas de direito privado e os entes públicos que envolvam informações dassificadas ou protegidas por grau de sigilo;
+
+
+b)
+
+os requerimentos de particulares e as decisões administrativas referente aos mesmos;
+
+
+c)
+
+a manifestação de vontade para a celebração de contratos, convênios, acordos, termos e outros instrumentos sinalagmaticos bilaterais ou plurilaterais congêneres;
+
+
+d)
+
+os atos relacionados a autocadastro, como usuário particular ou como agente público, para o exercicio de atribuições, BM sistema informatizado de processo administrativo eletrônico ou de serviços;
+
+
+e)
+
+as decisões administrativas referentes A concessão de benefícios assistenciais, trabalhistas, previdenciarios e tributários que envolvam dispêndio direto ou renúncia de receita pela administração da Camara;
+
+
+f)
+
+as declarações prestadas em virtude de lei que constituam reconhecimento de fatos e assunção de obrigações;
+
+
+g)
+
+o envio de documentos digitais ou digitalizados em atendimento a procedimentos administrativos ou medidas de fiscalização; e
+
+
+h)
+
+a apresentação de defesa e interposição de recursos administrativos; e
+
+
+III –
+
+assinatura eletrônica qualificada - aceita em qualquer interação eletrônica com entes públicos e obrigatória para:
+
+
+a)
+
+os atos assinados pelo Presidente da Camara; e
+
+
+b)
+
+as demais hipóteses previstas em lei.
+
+
+§ 1º
+
+A autoridade maxima do órgão ou da entidade poderá estabelecer o uso de assinatura eletrônica em nível superior ao mínimo exigido no caput, caso as especificidades da interação eletrônica em questão o exijam.
+
+
+§ 2º
+
+A exigência de níveis mínimos de assinatura eletrônica não poderá ser invocada como fundamento para a não aceitação de assinaturas realizadas  
+presencialmente ou derivadas de procedimentos presenciais para a identificação do interessado.
+
+
+§ 3º
+
+A assinatura simples de que trata o inciso I do caput será admitida para interações eletrônicas em sistemas informatizados de processo administrativo ou de atendimento a serviços públicos, por parte de agente público, exceto nas hipóteses do inciso Ill do **caput.**
+
+
+Art. 6º.
+
+A autoria, a autenticidade e a integridade dos documentos e da assinatura, nos processos administrativos eletrônicos, poderão ser obtidas por meio dos padrões de assinatura eletrônica definidos noart. 5°.
+
+
+**Responsabilidade dos usuários**
+
+
+Art. 7º.
+
+Os usuários são responsáveis:
+
+
+I –
+
+pela guarda, pelo sigilo e pela utilização de suas credenciais de acesso, de seus dispositivos e dos sistemas que provem os meios de autenticação e de assinatura; e
+
+
+II –
+
+por informar ao ente público possíveis usos ou tentativas de uso indevido.
+
+
+**Suspensão de acesso**
+
+
+Art. 8º.
+
+Em caso de suspeição de uso indevido das assinaturas eletrônicas de que trata este Decreto, a administração da Camarada Municipal de Comendador Levy Gasparian poderá suspender os meios de acesso das assinaturas eletrônicas possivelmente comprometidas, de forma individual ou coletiva.
+
+
+**Competências da Tecnologia da Informação — TI**
+
+
+Art. 9º.
+
+Para o atendimento ao disposto neste Decreto, a Câmara Municipal de Comendador Levy Gasparian utilizará sistemas informatizados para a gestão e o trâmite de processos administrativos eletrônicos.
+
+
+Parágrafo único
+
+Os sistemas a que se refere o caput deverão utilizar, preferencialmente, programas com código aberto e prover mecanismos para a verificação da autoria e da integridade dos documentos em processos administrativos eletrônicos.
+
+
+Art. 10.
+
+O setor de Tecnologia da Informação:
+
+
+I –
+
+definirá os padrões criptográficos referenciais para as assinaturas avançadas nas comunicações que envolvam a Câmara Municipal de Comendador Levy Gasparian: e
+
+
+II –
+
+poderá atuar, em conformidade com as políticas e as diretrizes da Câmara, junto a pessoas jurídicas de direito público interno no apoio técnico e operacional relacionado A criptografia, à assinatura eletrônica, à identificação eletrônica e As tecnologias correlatas.
+
+
+**Dos processos administrativos**
+
+
+Art. 11.
+
+Nos processos administrativos eletrônicos, os atos processuais deverão ser realizados em meio eletrônico, exceto nas situações em que este procedimento for inviável ou em caso de indisponibilidade do meio eletrônico cujo prolongamento cause danos relevantes à celeridade do processo.
+
+
+Parágrafo único
+
+No caso das exceções previstas no caput, os atos processuais poderão ser praticados segundo as regras aplicáveis aos processos em papel, desde  
+que posteriormente o documento-base correspondente seja digitalizado, conforme procedimento previsto no art. 17.
+
+
+Art. 12.
+
+Os atos processuais em meio eletrônico consideram-se realizados no dia e na hora do recebimento pelo sistema informatizado de gestão de processo administrativo eletrônico do árgão ou da entidade, o qual deverá fornecer recibo eletrônico de protocolo que os identifique
+
+
+§ 1º
+
+Quando o ato processual tiver que ser praticado em determinado prazo, por meio eletrônico, serão considerados tempestivos os efetivados, salvo disposição em contrário, até as vinte e três horas e cinquenta e nove minutos do ultimo dia do prazo, no horário oficial deBrasilia.
+
+
+§ 2º
+
+Na hipótese prevista no § 1°, se o sistema informatizado de gestão de processo administrativo eletrônico do árgão ou entidade se tornar indisponível por motivo técnico, o prazo fica automaticamente prorrogado até as vinte e três horas e cinquenta e nove minutos do primeiro dia util seguinte ao da resolução do problema.
+
+
+Art. 13.
+
+O acesso à integra do processo para vista pessoal do interessado pode ocorrer por intermédio da disponibilização de sistema informatizado de gestão a que se refere o art. 9° ou por acesso á copia do documento, preferencialmente, em meio eletrônico.
+
+
+Art. 14.
+
+A classificação da informação quanto ao grau de sigilo e a possibilidade de limitação do acesso aos servidores autorizados e aos interessados no processo observarão os termos da Lei n.° 12.527, de 18 de novembro de 2011, e das demais normas vigentes.
+
+
+Art. 15.
+
+Os documentos nato-digitais e assinados eletronicamente na forma do art. 6° são considerados originais para todos os efeitos legais.
+
+
+Art. 16.
+
+O interessado poderá enviar eletronicamente documentos digitais para juntada aos autos.
+
+
+§ 1º
+
+O teor e a integridade dos documentos digitalizados são de responsabilidade do interessado, que responderá nos termos da legislação civil, penal e administrativa por eventuais fraudes.
+
+
+§ 2º
+
+Os documentos digitalizados enviados pelo interessado terão valor de copia simples.
+
+
+§ 3º
+
+A apresentação do original do documento digitalizado será necessária quando a lei expressamente o exigir ou nas hipóteses previstas nos art. 18 e art. 19.
+
+
+Art. 17.
+
+A digitalização de documentos recebidos ou produzidos no âmbito da Câmara Municipal de Comendador Levy Gasparian deverá ser acompanhada da conferência da integridade do documento digitalizado.
+
+
+§ 1º
+
+A conferência prevista no caput deverá registrar se foi apresentado documento original, cópia autenticada em cartório, cópia autenticada administrativamente ou cópia simples.
+
+
+§ 2º
+
+Os documentos resultantes da digitalização de originais serão considerados cópia autenticada administrativamente, e os resultantes da digitalização de cópia autenticada em cartório, de cópia autenticada administrativamente ou de copia simples terão valor de cópia simples.
+
+
+§ 3º
+
+A administração da Câmara poderá:
+
+
+I –
+
+proceder à digitalização imediata do documento apresentado e devolvê-lo imediatamente ao interessado:
+
+
+II –
+
+determinar que a protocolização de documento original seja acompanhada de cópia simples, hipótese em que o protocolo atestará a conferência da copia com o original, devolverá o documento original imediatamente ao interessado e descartará a cópia simples após a sua digitalização; e
+
+
+III –
+
+receber o documento em papel para posterior digitalização, considerando que:
+
+
+a)
+
+os documentos em papel recebidos que sejam originais ou cópias autenticadas em cartório devem ser devolvidos ao interessado, preferencialmente, ou ser mantidos sob guarda daCamara, nos termos da sua tabela de temporalidade e destinação; e
+
+
+b)
+
+os documentos em papel recebidos que sejam cópias autenticadas administrativamente ou cópias simples podem ser descartados após realizada a sua digitalização, nos termos do caput e do § 1°.
+
+
+§ 4º
+
+Na hipótese de ser impossível ou inviável a digitalização do documento recebido, este ficará sob guarda da administração da Camara e sera admitido o tramite do processo de forma híbrida, conforme definido em ato do Presidente da Camara.
+
+
+Art. 18.
+
+Impugnada a integridade do documento digitalizado, mediante alegação motivada e fundamentada de adulteração, deverá ser instaurada diligência para a verificação do documento objeto de controvérsia.
+
+
+Art. 19.
+
+A administração da Camara poderá exigir, a seu critério, até que decaia o seu direito de rever os atos praticados no processo, a exibição do original de documento digitalizado no âmbito dos órgãos ou das entidades ou enviado eletronicamente pelo interessado.
+
+
+Art. 20.
+
+Deverão ser associados elementos descritivos aos documentos digitais que integram processos eletrônicos, a fim de apoiar sua identificação, sua indexação, sua presunção de autenticidade, sua preservação e sua interoperabilidade.
+
+
+Art. 21.
+
+Os documentos que integram os processos administrativos eletrônicos deverão ser classificados e avaliados de acordo com o plano de classificação e a tabela de temporalidade e destinação adotados na Camara, conforme a legislação arquivistica em vigor.
+
+
+§ 1º
+
+A eliminação de documentos digitais deve seguir as diretrizes previstas na legislação.
+
+
+§ 2º
+
+Os documentos digitais e processos administrativos eletrônicos cuja atividade já tenha sido encerrada e que estejam aguardando o cumprimento dos prazos de guarda e destinação final poderão ser transferidos para umaareade armazenamento especifica, sob controle do orgão ou da entidade que os produziu, a fim de garantir a preservação, a segurança e o acesso pelo tempo necessário.
+
+
+Art. 22.
+
+A definição dos formatos de arquivo dos documentos digitais deverá obedecer as politicas e diretrizes estabelecidas nos Padrões de Interoperabilidade de Governo Eletrônico - ePING e oferecer as melhores expectativas de garantia com relação ao acesso e á preservação
+
+
+Parágrafo único
+
+Para os casos ainda não contemplados nos padrões mencionados no caput, deverão ser adotados formatos interoperaveis, abertos, independentes de  
+plataforma tecnológica e amplamente utilizados.
+
+
+Art. 23.
+
+A Câmara devera estabelecer politicas, estratégias e ações que garantam a preservação de longo prazo, o acesso e o uso continuo dos documentos digitais.
+
+
+Parágrafo único
+
+O estabelecido no caput devera prever, no mínimo:
+
+
+I –
+
+proteção contra a deterioração e a obsolescência de equipamentos e programas; e
+
+
+II –
+
+mecanismos para garantir a autenticidade, a integridade e a legibilidade dos documentos eletrônicos ou digitais.
+
+
+Art. 24.
+
+A guarda dos documentos digitais e processos administrativos eletrônicos considerados de valor permanente deverá estar de acordo com as normas previstas pela instituição arquivistica pública responsável por sua custodia, incluindo a compatibilidade de suporte e de formato, a documentação técnica necessária para interpretar o documento e os instrumentos que permitam a sua identificação e o controle no momento de seu recolhimento.
+
+
+Art. 25.
+
+Para os processos administrativos eletrônicos regidos por este Decreto, deverá ser observado o prazo definido em lei para a manifestação dos interessados e para a decisão do interessado.
+
+
+Art. 26.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**José Fernando Cheffer**
+
+**Presidente**
+
+**Este conteúdo não substituí o publicado na versão certificada.**
+
+<table><tbody><tr><td><strong>Atenção</strong></td></tr></tbody></table>
+
+<table><tbody><tr><td>O SAPL tem cunho informativo e educativo, sendo a fonte de publicação eletrônica do Processo Legislativo da Câmara Municipal de Comendador Levy Gasparian, dada sua capacidade de abrangência, porém não dispensa a consulta aos textos oficiais para a prova da existência de direito, nos termos do art. 337 do Código de Processo Civil.</td></tr></tbody></table>
+
+<table><tbody><tr><td>Alerta quanto as compilações: O Dicionário Jurídico Brasileiro Acquaviva define compilação de leis como a “reunião e seleção de textos legais, com o fito de ordenar tal material, escoimando-o das leis revogadas ou caducas. A compilação tem por finalidade abreviar e facilitar a consulta às fontes de informação legislativa. Na compilação, ao contrário do que ocorre na consolidação, as normas nem mesmo são reescritas”. A compilação de Leis do Município de Comendador Levy Gasparian é uma iniciativa mantida pela Secretaria Geral da Câmara, em respeito a sociedade e ao seu direito de acesso à informação, com o fim de facilitar a pesquisa de leis e suas relações. Assim, dado às limitações existentes, a compilação ofertada é um norte relevante para constituição de tese jurídica, mas não resume todo o processo e, não deve, no estágio atual, ser a única referência.</td></tr></tbody></table>

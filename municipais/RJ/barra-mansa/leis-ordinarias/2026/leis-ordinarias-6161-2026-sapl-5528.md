@@ -1,0 +1,148 @@
+---
+titulo: "Lei Ordinária nº 6.161, de 25 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6161"
+data: "2026-06-25"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5528"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/3127/text"
+sha256_fonte: "56dd44ac0e86ccd7b08550ba7127651c873da9d9bea2df200472a6fb7bbb2436"
+sha256_texto: "e498355db136dbb1e3f23f31644cfcf11b457cadab9ae9be5fc6fcaef4e5c3f2"
+capturado_em_fonte: "2026-10-27T17:15:26.527971-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.161, de 25 de junho de 2026
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTЕ:
+
+
+LEI N° 6161, DE 25 DE JUNHO DE 2026.
+
+
+Altera a Lei Municipal nº 3.965, de 08 de julho de 2011, bem como a Lei Municipal nº 4.329, de 18 de agosto de 2014, alterando os parâmetros da segregação de massa do Regime Próprio de Previdência Social do Município de Barra Mansa/RJ e dá outras providências.
+
+
+Art. 1º.
+
+O art. 13-A da Lei Municipal nº 3.965, de 08 de julho de 2011, com redação dada pelo artigo 1º da Lei Municipal nº 4.329, de 18 de agosto de 2014, passa a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+O FUNFIN eo FUNPREV terão gestão orçamentária, financeira, contábil, patrimonial e atuarial segregada quanto aos recursos, obrigações, receitas, despesas, ativos e passivos correspondentes, sem prejuízo da unidade do Regime Próprio de Previdência Social e da responsabilidade da Unidade Gestora do RPPS de Barra Mansa.
+
+
+§ 1º
+
+O FUNFIN e o FUNPREV são desprovidos de personalidade jurídica própria, integram o mesmo Regime Próprio de Previdência Social e permanecem sob a responsabilidade da Unidade Gestora do RPPS de Barra Mansa, devendo manter segregação orçamentária, financeira, contábil, patrimonial e atuarial, com identificação individualizada por meio de fontes ou destinações de recursos, contas contábeis, contas bancárias ou subcontas específicas, registros cadastrais, demonstrativos próprios e demais mecanismos de controle exigidos pela legislação aplicável.
+
+
+§ 2º
+
+A inscrição cadastral individualizada no Cadastro Nacional da Pessoa Jurídica - CNPJ somente será adotada quando exigida pelas normas da Secretaria Especial da Receita Federal do Brasil, pelo órgão regulador federal, pelo Tribunal de Contas competente ou quando tecnicamente necessária para a adequada execução orçamentária, financeira, bancária, contábil ou fiscal dos fundos, sem que isso implique criação de personalidade jurídica própria, autonomia administrativa ou unidade gestora distinta.
+
+
+§ 3º
+
+As contas bancárias, subcontas ou demais instrumentos de controle financeiro do FUNFIN e do FUNPREV serão individualizados e distintos das contas do Tesouro Municipal, vedada sua utilização para finalidades estranhas manutenção do sistema previdenciário e ao pagamento dos beneficios vinculados ao respectivo fundo.
+
+
+§ 4º
+
+Os recursos financeiros, reservas e saldos eventualmente existentes no FUNFIN e no FUNPREV serão aplicados diretamente ou por intermédio de instituições especializadas do mercado financeiro, observadas as diretrizes da Política de Investimentos aprovada pelo Conselho Deliberativo da Unidade Gestora do RPPS de Barra Mansa, as normas estabelecidas pelo Conselho Monetário Nacional e pelo órgão regulador federal dos Regimes Próprios de Previdência Social, destinando-se exclusivamente ao pagamento dos beneficios previdenciários dos segurados e beneficiários vinculados ao respectivo fundo, ressalvadas as despesas administrativas legalmente admitidas.
+
+
+§ 5º
+
+É vedado:
+
+
+I –
+
+o remanejamento, a retenção ou a utilização de receitas previdenciárias para finalidades não previdenciárias;
+
+
+II –
+
+a realização de adiantamentos, mútuos, garantias ou operações de crédito com o Tesouro Municipal ou com terceiros;
+
+
+III –
+
+a constituição de ônus sobre bens, direitos e valores vinculados ao fundo de natureza previdenciária, salvo quando inerente às aplicações financeiras previstas na Política de Investimentos; e
+
+
+IV –
+
+a utilização de recursos, receitas, ativos ou direitos vinculados a um fundo para pagamento de benefícios, despesas ou obrigações de responsabilidade do outro fundo, salvo nas hipóteses expressamente autorizadas em lei e precedidas de revisão formal da segregação de massa;
+
+
+§ 6º
+
+A Unidade Gestora do RPPS de Barra Mansa manterá evidenciação contábil e atuarial do FUNFIN e do FUNPREV, com conciliações mensais relatórios trimestrais ao Conselho Deliberativo e ao órgão de controle externo competente.
+
+
+§ 7º
+
+A segregação prevista neste artigo não implica criação de novas pessoas jurídicas, unidades gestoras autônomas ou estruturas administrativas independentes, constituindo mecanismo de controle e evidenciação dos recursos e obrigações vinculados a cada plano de benefícios.
+
+
+Art. 3º.
+
+A execução das despesas correntes e de capital do FUNFIN e do FUNPREV ficam a cargo da Unidade Gestora do RPPS de Barra Mansa.
+
+
+§ 1º
+
+A execução orçamentária e a prestação de contas anuais do FUNFIN e do FUNPREV obedecerão às normas legais de controle e de administração financeira adotadas pelo Município de Barra Mansa.
+
+
+§ 2º
+
+O FUNFIN e o FUNPREV terão contabilidade própria, em cujo plano de contas serão discriminadas as receitas realizadas, as despesas incorridas e as reservas, de forma a possibilitar o acompanhamento individualizado das suas situações financeiras e atuariais.
+
+
+§ 3º
+
+A Unidade Gestora do RPPS de Barra Mansa publicará, até 31 de março do exercício subsequente, Relatório Anual de Gestão Previdenciária, contendo demonstrativos financeiros, de investimentos e de execução do plano de custeio.
+
+
+Art. 4º.
+
+A revisão da segregação de massa promovida por esta Lei deverá ser acompanhada de estudo técnico atuarial específico, elaborado por atuário legalmente habilitado, contendo a identificação da massa transferida, a apuração das respectivas provisões matemáticas, o impacto na solvência e liquidez do FUNPREV, a repercussão fiscal para o Município e a demonstração da manutenção do equilíbrio financeiro e atuarial do RPPS.
+
+
+§ 1º
+
+A relação dos beneficios transferidos será publicada por ato do Chefe do Poder Executivo, com identificação administrativa suficiente para controle, preservados os dados pessoais protegidos por sigilo legal.
+
+
+§ 2º
+
+Os efeitos financeiros, contábeis, orçamentários e atuariais da transferência somente ocorrerão após a publicação do ato de que trata o §1º e a adoção das providências cadastrais, contábeis, financeiras e operacionais necessárias pela Unidade Gestora do RPPS.
+
+
+Art. 5º.
+
+Revogam-se todas as disposições em contrário.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor no primeiro dia útil do mês subsequente a sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 25 DE JUNHO DE 2026.
+
+
+LUIZ ANTÔNIO FURLANI FILHO  
+PREFEITО
+

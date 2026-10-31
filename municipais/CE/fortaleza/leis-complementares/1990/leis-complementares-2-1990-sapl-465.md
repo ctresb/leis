@@ -1,0 +1,162 @@
+---
+titulo: "Lei Complementar nº 2, de 17 de setembro de 1990"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "2"
+data: "1990-09-17"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 1993-09-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/465"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3227/text"
+sha256_fonte: "a2dc6a70f257d5f2ae5944f9a25b8e0ed0f8bf0ab01b0aec961015aa5b9faf93"
+sha256_texto: "9cc0a77f4c6b80e48137eeb5cc824636a288c30981fa4803e863ab75537f97a1"
+capturado_em_fonte: "2026-10-21T05:32:36.294557-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 2, de 17 de setembro de 1990
+
+Institui o regime jurídico único para os servidores da Administração Direta, das Autarquias e das Fundações Públicas Municipais e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+É instituído, nos termos do art. 39, caput, da Constituição da República, como regime jurídico único para os servidores da Administração direta, das autarquias e das undações públicas, o regime de direito público administrativo, previsto no Estatuto dos Funcionário Públicos do Município de Fortaleza e legislação complementar.
+
+
+Art. 2º.
+
+Em consequência do disposto no artigo anterior, fiam submetidos, também, ao regime a que se refere o artigo anterior:
+
+
+I –
+
+os sujeitos ao regime da Consolidação das Leis do Trabalho;
+
+
+II –
+
+os ocupantes de cargos ou funções de Direção e Assessoramento.
+
+
+§ 1º
+
+Aos servidores referidos no ítem I deste artigo são estendidos todos os direitos, vantagens e obrigações inerentes ao regime único ora dotado, mantidas as vantagens de caráter pessoal que até então venham percebendo.
+
+
+§ 2º
+
+Em nenhuma hipótese haverá decesso de remuneração e o excesso que eventualmente ocorra será mantido como vantagem pessoal, salvo vedação constitucional, até sua absorção.
+
+
+Art. 3º.
+
+A partir da data de vigência desta Lei não poderão os órgãos e entidades mencionados no art. 1º:
+
+
+I –
+
+reajustar ou conceder aumentos de remuneração senão por meio de Lei;
+
+
+II –
+
+recolher contribuição para o Fundo de Garantia por tempo de Serviço;
+
+
+Art. 4º.
+
+Os servidores antes submetidos ao regime trabalhista, cujos empregos são transformados, por esta Lei, em cargos ou funções, contínuam a ser segurados obrigatórios do Instituto de Previdência do Município - IPM.
+
+
+Art. 5º.
+
+O tempo de serviço prestado sob regime de CLT será contado, pelos servidores por ela alcançados, para concessão de aposentadoria, disponibilidade, licença-prêmio e progressão horizontal, ficando vedado, quando a esta última, o pagamento de atrasados.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 8, de 15 de setembro de 1993.
+
+
+Art. 6º.
+
+Os servidores que hajam ingressado na administração direta, autárquica ou fundacional por meio de concurso público de provas ou de provas títulos tem seus empregos ou funções transformados em cargos, a serem devidamente classificados; e quanto aos demais, os terão transformados em funções as quais comporão a Parte Especial do Quadro de Pessoal a que alude o art. 7º desta Lei.
+
+
+§ 1º
+
+Os contratos de trabalhos, no caso de servidores submetidos ao regime da CLT, são considerados extintos, procedendo-se às devidas anotações, nas respectivas carteiras profissionais e fichas funcionais, da mudança do regime jurídico funcional, o que ocorre por força do art. 39 da Constituição da República e desta Lei.
+
+
+§ 2º
+
+A transformação dos empregos em funções, bem como a formalização da mudança do regime jurídico, operar-se-á por Atos do Chefe do Poder Executivo, dos quais devem constar o nome do servidor, a denominação do emprego ou função ocupados e a definição da nova situação, e que deverão ser expedidos no prazo de 90 dias, contados da data da publicação desta Lei.
+
+
+§ 3º
+
+A movimentação das contas do FGTS, em decorrência do disposto nos parágrafos anteriores deste artigo, deverá ocorrer conforme dispuser a Lei Federal.
+
+
+Art. 7º.
+
+Os quadros de Pessoal do Poder Executivo bem como os das Autarquias e Fundações Públicas, ficam compostos de cargos de provimento efetivo, cargos de provimento em funções, estruturados em 2 (duas) partes a saber:
+
+
+I –
+
+Parte Permanente - composta de cargos e carreira e isolados e de direção e Assessoramento;
+
+
+II –
+
+## Parte Especial - composta de funções, a serem extintas quando vagarem.
+
+
+Parágrafo único.
+
+Os servidores por esta Lei integrarão os Quadros de Pessoal mencionados neste artigo, guardada correspondência quanto ao grupo ocupacional, a categoria funcional, classe e referência.
+
+
+Art. 8º.
+
+A mudança de regime jurídico ocorrerá, na data da publicação desta Lei, produzindo os correspondentes efeitos financeiros a partir do primeiro dia do mês subsequente.
+
+
+Art. 9º.
+
+A redistribuição dos servidores alcançados por esta Lei dar-se-á, apenas, no âmbito da Administração Direta, da autárquica e da fundacional.
+
+
+Art. 10.
+
+São considerados concursos públicos, para fins desta Lei, gerando todos os efeitos que lhes são atinente, os exames de seleção que hajam sido realizados para admissão de candidatos a empregos e funções, desce que se tenham revestido de todas as características essenciais aos concursos públicos de provas e de títulos, inclusive quanto à publicidade e ampla divulgação, livre acesso dos candidatos e caráter competitivo e eliminatório.
+
+
+Art. 11.
+
+Fica o Poder Executivo autorizado a promover, por Decreto, todas as medidas necessárias à implantação ou reformulação dos Quadros de Pessoal referidos no art. 7º desta Lei.
+
+
+Art. 12.
+
+As despesas decorrentes da aplicação desta Lei ocorrerão por conta das dotações orçamentárias próprias da que serão suplementadas, se insuficientes.
+
+
+Art. 13.
+
+Esta Lei Complementar entrará em vigor a data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 17 DE SETEMBRO DE 1990.**  
+  
+  
+JURACY VIEIRA DE MAGALHÃES  
+PREFEITO MUNICIPAL
+

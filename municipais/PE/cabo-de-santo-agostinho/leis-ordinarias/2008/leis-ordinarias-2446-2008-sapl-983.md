@@ -1,0 +1,142 @@
+---
+titulo: "Lei Ordinária nº 2.446, de 01 de abril de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2446"
+data: "2008-04-01"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2009-05-18; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/983"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/986/text"
+sha256_fonte: "60c63c33928151ef484c6a6a75351be927d5055bfa5824e5e24fafbcdb27d30b"
+sha256_texto: "d9a04872bcd313b6b31f0faadfe5acd8938da424e7f66b280925302a7285dc12"
+capturado_em_fonte: "2026-10-27T21:43:29.846558-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.446, de 01 de abril de 2008
+
+FIXA GRATIFICAÇÕES DE PROFISSIONAIS DAS ÁREAS DE SAÚDE E DE EDUCAÇÃO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica fixado, nos valores especificados neste artigo, as gratificações de profissionais e médicos da área de Saúde do Município do Cabo de Santo Agostinho, a seguir:
+
+
+I –
+
+em R$ 621,42 (seiscentos e vinte e um reais e quarenta e dois centavos), denominada gratificação por exercício em ambulatórios, para médicos de ambulatórios diaristas, com carga horária de 20 (vinte) horas semanais;
+
+
+II –
+
+em R$ 494,99 (quatrocentos e noventa e quatro reais e noventa e nove centavos), denominada gratificação por adesão ao SAMU, para médicos plantonistas e urgentistas concursados, com carga horária de 24 (vinte e quatro) horas semanais.
+
+
+Art. 2º.
+
+Fixa fixado, nos valores especificados neste artigo, as gratificações de profissionais integrantes do Programa de Saúde da Família, médicos (as) da área de Saúde do Município do Cabo de Santo Agostinho, a seguir:
+
+
+I –
+
+em R$ 601,16 (seiscentos e um reais e dezesseis centavos), denominada Gratificação de Função de Médico de Saúde da Família;
+
+
+II –
+
+em R$ 392,07 (trezentos e noventa e dois reais e sete centavos), denominada Gratificação de Função de Enfermeiro de Saúde da Família;
+
+
+III –
+
+em R$ 392,07 (trezentos e noventa e dois reais e sete centavos), denominada Gratificação de Função de Cirurgião Dentista de Saúde da Família;
+
+
+IV –
+
+em R$ 139,71 (cento e trinta e nove reais e setenta e um centavos), denominada Gratificação de Função de Auxiliar ou Técnico de Enfermagem de Saúde da Família;
+
+
+V –
+
+em R$ 139,71 (cento e trinta e nove reais e setenta e um centavos), denominada Gratificação de Função de Auxiliar de Consultório Dentário - ACD de Saúde da Família;
+
+
+VI –
+
+em R$ 139,71 (cento e trinta e nove reais e setenta e um centavos), denominada Gratificação de Função de Técnico de Higiene Dental - THD de Saúde da Família;
+
+
+Parágrafo único
+
+Para fazer jus à gratificação referida neste artigo, o profissional deverá cumprir jornada de trabalho de 40 (quarenta) horas semanais.
+
+
+Art. 3º.
+
+Fixa fixado, nos valores especificados neste artigo, para os Profissionais concursados que passem a integrar ao Programa de Saúde da Família, e enquanto nele permanecer, as seguintes gratificações;
+
+
+I –
+
+em R$ 166,40 (cento e sessenta e seis reais e quarenta centavos), denominada Gratificação de Função de Auxiliar ou Técnico de Enfermagem de Saúde da Família;
+
+
+II –
+
+em R$ 139,71 (cento e trinta e nove reais e setenta e um centavos), denominada Gratificação de Função de Auxiliar de Consultório Dentário - ACD de Saúde da Família;
+
+
+III –
+
+em R$ 139,71 (cento e trinta e nove reais e setenta e um centavos), denominada Gratificação de Função de Técnico de Higiene Dental THD de Saúde da Família;
+
+
+Parágrafo único
+
+Para fazer jus à gratificação referida neste artigo, o profissional deverá cumprir jornada de trabalho de 40 (quarenta) horas semanais.
+
+
+Art. 4º.
+
+O § 2º, do artigo 2º, da Lei nº 2.444, de 04 de março de 2008, passa a vigorar acrescido das alíneas "s", "t", "u" e "v", a seguir:
+
+
+Art. 5º.
+
+A partir da vigência da presente Lei, a gratificação pelo efetivo exercício de docência e as gratificações pelo efetivo exercício das funções de Inspetor Escolar, Supervisor Escolar e Secretário Escolar, instituídas pelos artigos 63 e 65 da Lei Municipal nº 2280 de 31 de outubro de 2005, passam a ser de 50% (cinquenta por cento) do valor do vencimento-base do servidor beneficiado.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.482, de 18 de maio de 2009.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações próprias do orçamento vigente, a Lei Orçamentária Anual - LOA 2008; suplementadas, se necessário, nos limites legais, obedecidas as recomendações da Lei Complementar Federal nº 101, de 04 de maio de 2000.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, com seus efeitos a partir de 1º de maio de 2008.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário.
+
+
+Palácio Conde da Boa Vista, 01 de abril de 2008.
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+**Prefeito**
+

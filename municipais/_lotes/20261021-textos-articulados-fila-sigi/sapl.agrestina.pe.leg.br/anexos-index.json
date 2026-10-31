@@ -1,0 +1,168 @@
+{
+  "estado": "indice_completo",
+  "total": 15,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/2/anexo_i.pdf da norma Lei Municipal nº 1.179, de 22 de maio de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2013/2/anexo_i.pdf",
+      "ano": 2013,
+      "norma": 528
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/3/portaria_17-2014.pdf da norma Lei Municipal nº 1.233, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2014/3/portaria_17-2014.pdf",
+      "ano": 2014,
+      "norma": 478
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/parecer_previo_2015.pdf da norma Resolução-ARQ nº 3, de 09 de maio de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2019/4/parecer_previo_2015.pdf",
+      "ano": 2019,
+      "norma": 839
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/5/portaria_39-2017.pdf da norma Lei Municipal nº 1.195, de 31 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "REAJUSTA O VALOR DAS DIÁRIAS, CONFORME ART. 6º DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2013/5/portaria_39-2017.pdf",
+      "ano": 2013,
+      "norma": 547
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/6/portaria_05-2018.pdf da norma Lei Municipal nº 1.195, de 31 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "REAJUSTA O VALOR DAS DIÁRIAS, CONFORME ART. 6º DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2013/6/portaria_05-2018.pdf",
+      "ano": 2013,
+      "norma": 547
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/7/portaria_12-2019.pdf da norma Lei Municipal nº 1.195, de 31 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "REAJUSTA O VALOR DAS DIÁRIAS, CONFORME ART. 6º DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2013/7/portaria_12-2019.pdf",
+      "ano": 2013,
+      "norma": 547
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/8/portaria_04-2020.pdf da norma Lei Municipal nº 1.195, de 31 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "REAJUSTA O VALOR DAS DIÁRIAS, CONFORME ART. 6º DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2013/8/portaria_04-2020.pdf",
+      "ano": 2013,
+      "norma": 547
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/9/portaria_02-2022.pdf da norma Lei Municipal nº 1.195, de 31 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "REAJUSTA O VALOR DAS DIÁRIAS, CONFORME ART. 6º DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2013/9/portaria_02-2022.pdf",
+      "ano": 2013,
+      "norma": 547
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/10/portaria_10-2016.pdf da norma Lei Municipal nº 1.233, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "REALIZAR REVISÃO GERAL ANUAL, CONFORME ART. 13 DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2014/10/portaria_10-2016.pdf",
+      "ano": 2014,
+      "norma": 478
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/11/portaria_27-2017.pdf da norma Lei Municipal nº 1.233, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "REALIZAR REVISÃO GERAL ANUAL, CONFORME ART. 13 DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2014/11/portaria_27-2017.pdf",
+      "ano": 2014,
+      "norma": 478
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/12/portaria_07-2018.pdf da norma Lei Municipal nº 1.233, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "REALIZAR REVISÃO GERAL ANUAL, CONFORME ART. 13 DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2014/12/portaria_07-2018.pdf",
+      "ano": 2014,
+      "norma": 478
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/13/portaria_13-2019.pdf da norma Lei Municipal nº 1.233, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "REALIZAR REVISÃO GERAL ANUAL, CONFORME ART. 13 DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2014/13/portaria_13-2019.pdf",
+      "ano": 2014,
+      "norma": 478
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/14/portaria_10-2020.pdf da norma Lei Municipal nº 1.233, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "REALIZAR REVISÃO GERAL ANUAL, CONFORME ART. 13 DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2014/14/portaria_10-2020.pdf",
+      "ano": 2014,
+      "norma": 478
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/15/portaria_03-2022.pdf da norma Lei Municipal nº 1.233, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "REALIZAR REVISÃO GERAL ANUAL, CONFORME ART. 13 DESTA LEI.",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2014/15/portaria_03-2022.pdf",
+      "ano": 2014,
+      "norma": 478
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/00.anexos_ldo_1578-2023.pdf da norma Lei Municipal-ARQ nº 1.578, de 06 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.agrestina.pe.leg.br/media/sapl/public/anexonormajuridica/2023/16/00.anexos_ldo_1578-2023.pdf",
+      "ano": 2023,
+      "norma": 910
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.agrestina.pe.leg.br/fa3f7c8996f6719258f98deb696d256d4916bd182528ded993fe3a13a767885c.json",
+      "url": "https://sapl.agrestina.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.agrestina.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9c12d51533d99b87f91906c0c663bcd79cbec20fbdee2b491c5296b0676929bc",
+      "bytes": 6523,
+      "capturado_em": "2026-10-21T04:59:44.294508-03:00"
+    }
+  ]
+}

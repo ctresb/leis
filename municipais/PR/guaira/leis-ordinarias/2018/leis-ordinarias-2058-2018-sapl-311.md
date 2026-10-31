@@ -1,0 +1,204 @@
+---
+titulo: "Lei Ordinária nº 2.058, de 02 de julho de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2058"
+data: "2018-07-02"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2023-11-30; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/311"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/475/text"
+sha256_fonte: "98309057d14a8aa2d66a20e4587161e3927499a2efcfd1ae096a594d07078134"
+sha256_texto: "c55257d3dd2d4fcf674678d66e9d5a9c7981242da71afcfb886dfadaf496bb22"
+capturado_em_fonte: "2026-10-28T13:15:22.719845-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.058, de 02 de julho de 2018
+
+Dispõe sobre a concessão de Benefícios Eventuais no município de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+A concessão de benefícios eventuais relacionados à Política de Assistência Social como modalidade de provisão e proteção social básica e especial de caráter suplementar e temporário que integra organicamente as garantias do Sistema Único de Assistência Social - SUAS, com fundamentação nos princípios de cidadania e nos direitos sociais humanos, no Município de Guaíra, obedecerão ao disposto nesta Lei e demais normas que forem aplicáveis, observadas especialmente as diretrizes estabelecidas pela Lei Federal nº 8.742 de 07 de dezembro de 1993 e alterações.
+
+
+Art. 2º.
+
+As ações de que trata esta Lei serão executadas diretamente pelo Poder Público ou através de convênios firmados com entidades sociais legalmente constituídas, sem fins lucrativos, registradas no Conselho Municipal de Assistência Social - CMAS, sendo estas administradas por membros da sociedade civil.
+
+
+Art. 3º.
+
+Os benefícios eventuais são de responsabilidade da Secretaria Municipal de Assistência Social e executados pelo Centro de Referência da Assistência Social - CRAS e pelo Centro de Referência Especializado de Assistência Social - CREAS.
+
+
+Art. 4º.
+
+Os benefícios eventuais são vinculados à disponibilidade de recursos financeiros destinados à assistência social e serão direcionados ao atendimento da população usuária da Política Municipal de Assistência Social.
+
+
+Art. 5º.
+
+Os benefícios eventuais destinam-se aos cidadãos e às famílias com impossibilidade de arcar por conta própria com o seu sustento diante do enfrentamento de contingências sociais, cuja ocorrência provoca riscos e fragiliza a manutenção do indivíduo, a unidade da família e a sobrevivência de seus membros.
+
+
+Parágrafo único
+
+Para concessão dos benefícios previstos nesta Lei, serão considerados e observados os seguintes critérios:
+
+
+a)
+
+enquadramento no contingente das famílias vulnerabilizadas pela pobreza deste município, cuja renda mensal per capta seja igual ou inferior a meio salário mínimo federal;
+
+
+b)
+
+estar cadastrado como usuário dos programas, projetos e ações de responsabilidade da Secretaria Municipal de Assistência Social e executados pelo Centro de Referência da Assistência Social - CRAS e pelo Centro de Referência Especializado de Assistência Social - CREAS;
+
+
+c)
+
+não possuir mais de um imóvel no município.
+
+
+d)
+
+Inclusão no Cadastro Único do Governo Federal.
+
+
+Art. 6º.
+
+Consideram-se Benefícios Eventuais para efeito desta Lei:
+
+
+I –
+
+Benefício eventual de auxílio natalidade;
+
+
+II –
+
+benefício eventual de auxílio funeral;
+
+
+III –
+
+benefício eventual de auxílio itinerante;
+
+
+IV –
+
+benefício eventual de auxílio alimentação e gás de cozinha.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 2.244, de 18 de julho de 2022.
+
+
+V –
+
+benefício eventual de documentação;
+
+
+VI –
+
+benefício eventual de auxílio financeiro temporário.
+
+
+Art. 7º.
+
+O Benefício Eventual de Auxílio Natalidade constitui-se em uma prestação temporária, não contributiva da assistência social, em bens de consumo, para reduzir vulnerabilidade provocada por nascimento de membro da família.
+
+
+Parágrafo único
+
+Os bens de consumo consistem no enxoval do neonato, incluindo itens de vestuário e utensílios de higiene, observada a qualidade que garanta a dignidade e o respeito à família beneficiária.
+
+
+Art. 8º.
+
+O benefício eventual, na forma de auxílio funeral, constitui-se em uma prestação temporária, não contributiva da assistência social, em bens de consumo, para reduzir vulnerabilidade provocada por morte de membro da família.
+
+
+Parágrafo único
+
+Os serviços cobrirão o custeio de despesas de traslado de corpo, urna funerária infantil e adulta, utilização de capela mortuária, concessão assistencial de gavetas e/ou carneiras, sepultamento, colocação de placa de identificação e demais serviços inerentes à garantia da dignidade e o respeito à família beneficiária.
+
+
+Art. 9º.
+
+Os benefícios eventuais de auxílio natalidade e auxílio funeral serão devidos à família em número igual ao das ocorrências desses eventos.
+
+
+Art. 10.
+
+Os benefícios eventuais de auxílio natalidade e auxílio funeral podem ser ofertados diretamente a um integrante da família beneficiária: mãe, pai, parente até segundo grau ou pessoa autorizada mediante procuração.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.319, de 30 de novembro de 2023.
+
+
+Parágrafo único
+
+Na falta de pessoa competente, nos termos descritos no caput deste artigo, estende-se a possibilidade de requerimento a quem tiver assistido aos últimos momentos do finado, o médico, o sacerdote, profissional que atuou em serviço especializado e frequente ou vizinho que do falecimento tiver notícia.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.319, de 30 de novembro de 2023.
+
+
+Art. 11.
+
+O benefício eventual de auxílio itinerante constitui-se no fornecimento de passagens a pessoas sem residência fixa ou em outras situações de necessidades prementes, encaminhadas por entidades ou que procuram diretamente o Centro de Referência da Assistência Social - CRAS ou o Centro de Referência Especializado de Assistência Social - CREAS.
+
+
+Art. 12.
+
+O benefício eventual de auxílio alimentação e gás de cozinha constitui-se no fornecimento de cesta básica e gás liquefeito de petróleo às famílias em situação de risco pessoal e social e miserabilidade socioeconômica.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária nº 2.244, de 18 de julho de 2022.
+
+
+Art. 13.
+
+O benefício eventual de auxílio documentação constitui-se na concessão de Certidões de Registro de Nascimento, Casamento e Óbito e fotos no formato 3x4 para aquisição de outros documentos.
+
+
+Art. 14.
+
+O Benefício eventual de auxílio financeiro temporário constitui-se na quitação de faturas de água e energia elétrica às famílias em condição de vulnerabilidade pela pobreza, cujo provedor da família esteja impossibilitado de trabalhar por motivo de doença ou desemprego, em caráter emergencial e temporário.
+
+
+Parágrafo único
+
+Os critérios para o cadastramento e a concessão dos benefícios de que trata esta Lei serão regulamentados de acordo com as especificidades de cada um, através de Resolução do Conselho Municipal de Assistência Social.
+
+
+Art. 15.
+
+Para fazer face às despesas decorrentes com a execução desta Lei, utilizar-se-á dotações específicas consignadas no orçamento geral do Município.
+
+
+Art. 16.
+
+Revoga-se a Lei Municipal nº 1555 de 18.03.2008.
+
+
+Art. 17.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 02 de julho de 2018.  
+  
+HERALDO TRENTO  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

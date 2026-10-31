@@ -1,0 +1,200 @@
+---
+titulo: "Lei Ordinária nº 2.505, de 05 de junho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2505"
+data: "2023-06-05"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2026-05-12; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/3607"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/312/text"
+sha256_fonte: "6d38fa9d77345277698507fb7222a4b2aa8c8568ba4874be703065fdb0122703"
+sha256_texto: "0f30ea252f7aba74573e3958a07d00cad6bcf957217fb62130fa3526189ab713"
+capturado_em_fonte: "2026-10-27T21:26:38.608035-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.505, de 05 de junho de 2023
+
+"Institui a Política de Atenção e Direitos à Pessoa Portadora de Síndrome da Fibromialgia e ou Doenças Reumatológicas e cria a Carteira de Identificação da Pessoa com Fibromialgia e ou Doenças Reumatológicas no Município de Caçu, e dá outras providências.”
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+**A CÂMARA MUNICIPAL DE CAÇU/GO,** por seus vereadores, APROVA, e a PREFEITA de Caçu/GO, no uso das atribuições conferidas pela Lei Orgânica do Município, SANCIONA a seguinte LEI:
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Atenção e Direitos à Pessoa com Síndrome da Fibromialgia e Doenças Reumatológicas, fica criada a Carteira de Identificação da Pessoa com Fibromialgia e ou Doenças Reumatológicas, com vistas a garantir atenção integral, pronto atendimento e prioridade no atendimento.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+Parágrafo único
+
+Pela identificação dos objetivos previstos e a vida da referida pessoa, já falecida, essa norma é denominada de “Lei Divino José de Macêdo”.
+
+
+Art. 2º.
+
+A política de caráter permanente, tem por objetivo assegurar os direitos e conscientizar a sociedade sobre a Síndrome da Fibromialgia e Doenças Reumatológicas.
+
+
+Parágrafo único
+
+Fica instituído o dia Municipal da Fibromialgia e das Doenças Reumatológicas, o dia 12 de maio.
+
+
+Art. 3º.
+
+Ficam garantidos às pessoas com síndrome de fibromialgia e doenças reumatológicas:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+I –
+
+atendimento preferencial, durante todo o horário de expediente, pelo Poder Público Municipal, por empresas concessionárias de serviços públicos e por empresas privadas;
+
+
+II –
+
+inclusão na fila preferencial, destinada a idosos, gestantes e pessoas com deficiência, pelas agências bancárias e por empresas que realizam e recebem pagamentos;
+
+
+III –
+
+estacionamento em vagas destinadas aos idosos, gestantes e pessoas com deficiência;
+
+
+IV –
+
+reconhecimento da condição de PCD às pessoas com de Síndrome da Fibromialgia e ou Doenças Reumatológicas;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+V –
+
+direito a tratamento fisioterápico, massoterápico e pilates na rede pública municipal;
+
+
+VI –
+
+retirar junto com a Carteira de que trata os artigos 1º e 4º o “cordão de girassol”, símbolo do fibromiálgico, àqueles comprovadamente diagnosticados.
+
+
+VII –
+
+fornecimento de credencial de prioridade para estacionamento, a ser utilizada nas vagas de atendimento prioritário, nos termos da regulamentação municipal.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+VIII –
+
+garantia de prioridade no acesso a exames médicos e laboratoriais, incluindo ressonância magnética, raio-X com laudo e demais exames necessários;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+IX –
+
+fornecimento de medicamentos prescritos para o tratamento da fibromialgia e doenças reumatológicas, conforme protocolos médicos;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+X –
+
+oferta de atividades terapêuticas e de reabilitação, incluindo pilates, acupuntura, fisioterapia e massoterapia, com foco na melhoria da mobilidade, redução da dor e qualidade de vida;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+XI –
+
+disponibilização de transporte municipal adaptado para pessoas que não possuam condições de locomoção, garantindo deslocamento seguro até os serviços de saúde;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+XII –
+
+ampla divulgação da política municipal e dos direitos das pessoas com fibromialgia e doenças reumatológicas nas unidades básicas de saúde (UBS) e demais órgãos públicos;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+XIII –
+
+respeito à ordem de prioridade em filas e atendimentos de saúde, conforme previsto na Lei Federal nº 15.176/2025, assegurando que pessoas com fibromialgia e doenças reumatológicas sejam atendidas de forma adequada e célere.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+Art. 4º.
+
+A Carteira de Identificação da Pessoa com Fibromialgia e ou Doenças Reumatológicas será expedida, gratuitamente, pelo órgão responsável pela execução da Política Municipal de Proteção dos Direitos à Pessoa com Fibromialgia e Doenças Reumatológicas do Município, ou na falta desse pela Secretaria de Assistência Social mediante requerimento, acompanhado de relatório médico, com indicação do código da Classificação Estatística Internacional de Doenças e Problemas Relacionados à Saúde (CID), e deverá conter, no mínimo, as seguintes informações.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+I –
+
+nome completo, filiação, local e data de nascimento, número da carteira de identidade civil, número de inscrição no Cadastro de Pessoas Físicas (CPF), tipo sanguíneo, endereço residencial completo e número de telefone da pessoa identificada;
+
+
+II –
+
+fotografia no formato 3 (três) centímetros (cm) x 4 (quatro) centímetros (cm) e assinatura ou impressão digital da pessoa identificada;
+
+
+III –
+
+nome completo, documento de identificação, endereço residencial, telefone e e-mail do responsável legal ou do cuidador, se for o caso;
+
+
+IV –
+
+identificação da Unidade da Federação e do órgão.
+
+
+§ 1º
+
+Nos casos em que a pessoa com fibromialgia e ou doenças reumatológicas seja imigrante detentor de visto temporário ou de autorização de residência, residente fronteiriço ou solicitante de refúgio, deverá ser apresentada a Cédula de Identidade de Estrangeiro (CIE), a Carteira de Registro Nacional Migratório (CRNM) ou o Documento Provisório de Registro Nacional Migratório (DPRNM), com validade em todo o território nacional.
+
+
+§ 2º
+
+A Carteira de Identificação da Pessoa com Fibromialgia e ou Doenças Reumatológicas terá validade de 5 (cinco) anos, devendo ser mantidos atualizados os dados cadastrais da pessoa identificada, e deverá ser revalidada com o mesmo número, de modo a permitir a contagem das pessoas portadoras das doenças em todo o município de Caçu.
+
+
+§ 3º
+
+Até que seja implementado o disposto no caput deste artigo, os órgãos responsáveis pela execução da Política Municipal de Proteção dos Direitos às Pessoas com Fibromialgia e ou Doenças Reumatológicas, deverão trabalhar em conjunto com os respectivos responsáveis pela emissão de documentos de identificação, para que sejam incluídas as necessárias informações sobre a fibromialgia e doenças reumatológicas no Registro Geral (RG) ou, se estrangeiro, na Carteira de Registro Nacional Migratório (CRNM) ou na Cédula de Identidade de Estrangeiro (CIE), válidos em todo o território nacional.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.735, de 12 de maio de 2026.
+
+
+Art. 5º.
+
+Compete exclusivamente ao Poder Executivo Municipal regulamentar e fiscalizar o disposto nesta Lei.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publicação.
+
+
+**GABINETE DA PREFEITA DE CAÇU**, Estado de Goiás, aos 05 dias do mês de junho do ano de 2023.
+
+
+**ANA CLÁUDIA LEMOS OLIVEIRA Prefeita Municipal**
+

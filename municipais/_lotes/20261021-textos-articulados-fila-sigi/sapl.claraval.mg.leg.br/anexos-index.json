@@ -1,0 +1,558 @@
+{
+  "estado": "indice_completo",
+  "total": 54,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/1/anexo_i.pdf da norma LEI ORDINÁRIA-CMC nº 974, de 15 de maio de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2003/1/anexo_i.pdf",
+      "ano": 2003,
+      "norma": 712
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/2/anexo_ii.pdf da norma LEI ORDINÁRIA-CMC nº 974, de 15 de maio de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2003/2/anexo_ii.pdf",
+      "ano": 2003,
+      "norma": 712
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/3/anexo_iii.pdf da norma LEI ORDINÁRIA-CMC nº 974, de 15 de maio de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2003/3/anexo_iii.pdf",
+      "ano": 2003,
+      "norma": 712
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/4/anexo_iv.pdf da norma LEI ORDINÁRIA-CMC nº 974, de 15 de maio de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2003/4/anexo_iv.pdf",
+      "ano": 2003,
+      "norma": 712
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/5/anexo_v.pdf da norma LEI ORDINÁRIA-CMC nº 974, de 15 de maio de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANEXO V",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2003/5/anexo_v.pdf",
+      "ano": 2003,
+      "norma": 712
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/6/anexo_vi.pdf da norma LEI ORDINÁRIA-CMC nº 974, de 15 de maio de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2003/6/anexo_vi.pdf",
+      "ano": 2003,
+      "norma": 712
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/7/anexo_i.pdf da norma LEI ORDINÁRIA-CMC nº 665, de 23 de maio de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1991/7/anexo_i.pdf",
+      "ano": 1991,
+      "norma": 569
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/8/anexo_ii.pdf da norma LEI ORDINÁRIA-CMC nº 665, de 23 de maio de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1991/8/anexo_ii.pdf",
+      "ano": 1991,
+      "norma": 569
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/9/anexos.pdf da norma LEI ORDINÁRIA-CMC nº 1.420, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2019/9/anexos.pdf",
+      "ano": 2019,
+      "norma": 715
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/10/lei_810_anexo_i.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/10/lei_810_anexo_i.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/11/lei_810_anexo_ii.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/11/lei_810_anexo_ii.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/12/lei_810_anexo_iii.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/12/lei_810_anexo_iii.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/13/lei_810_anexo_iv.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/13/lei_810_anexo_iv.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/14/lei_810_anexo_v.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/14/lei_810_anexo_v.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/15/lei_810_anexo_vi.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/15/lei_810_anexo_vi.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/16/lei_810_anexo_vii.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/16/lei_810_anexo_vii.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/17/lei_810_anexo_viii.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/17/lei_810_anexo_viii.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/18/lei_810_anexo_ix.pdf da norma LEI ORDINÁRIA-CMC nº 810, de 16 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/1997/18/lei_810_anexo_ix.pdf",
+      "ano": 1997,
+      "norma": 716
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/19/anexoi.pdf da norma LEI COMPLEMENTAR-CMC nº 3, de 19 de julho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Para a execução das funções públicas no novo ESF a ser criado, serão contratados para compor a equipe básica, com as atribuições discriminadas no anexo I desta Lei:",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2018/19/anexoi.pdf",
+      "ano": 2018,
+      "norma": 748
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/20/memorando_tecnico.pdf da norma LEI ORDINÁRIA-CMC nº 1.449, de 15 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2021/20/memorando_tecnico.pdf",
+      "ano": 2021,
+      "norma": 771
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/21/lei_1453_2021_3_anexo.pdf da norma LEI ORDINÁRIA-CMC nº 1.453, de 03 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2021/21/lei_1453_2021_3_anexo.pdf",
+      "ano": 2021,
+      "norma": 774
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/22/lc_01_2009_34a1.pdf da norma LEI COMPLEMENTAR-CMC nº 1, de 11 de março de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2009/22/lc_01_2009_34a1.pdf",
+      "ano": 2009,
+      "norma": 815
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/23/lc_01_2009_34a2.pdf da norma LEI COMPLEMENTAR-CMC nº 1, de 11 de março de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2009/23/lc_01_2009_34a2.pdf",
+      "ano": 2009,
+      "norma": 815
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/24/lc_01_2009_34a3.pdf da norma LEI COMPLEMENTAR-CMC nº 1, de 11 de março de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2009/24/lc_01_2009_34a3.pdf",
+      "ano": 2009,
+      "norma": 815
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/25/lc_01_2009_34a4.pdf da norma LEI COMPLEMENTAR-CMC nº 1, de 11 de março de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2009/25/lc_01_2009_34a4.pdf",
+      "ano": 2009,
+      "norma": 815
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/26/lc_02_10_anex1.pdf da norma LEI COMPLEMENTAR-CMC nº 2, de 31 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/26/lc_02_10_anex1.pdf",
+      "ano": 2010,
+      "norma": 849
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/27/lc_02_10_anex2.pdf da norma LEI COMPLEMENTAR-CMC nº 2, de 31 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/27/lc_02_10_anex2.pdf",
+      "ano": 2010,
+      "norma": 849
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/28/lc_02_10_anex3.pdf da norma LEI COMPLEMENTAR-CMC nº 2, de 31 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/28/lc_02_10_anex3.pdf",
+      "ano": 2010,
+      "norma": 849
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/29/lc_02_10_anex4.pdf da norma LEI COMPLEMENTAR-CMC nº 2, de 31 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/29/lc_02_10_anex4.pdf",
+      "ano": 2010,
+      "norma": 849
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/30/lc_02_10_anex5.pdf da norma LEI COMPLEMENTAR-CMC nº 2, de 31 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/30/lc_02_10_anex5.pdf",
+      "ano": 2010,
+      "norma": 849
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/31/lc_02_10_anex6.pdf da norma LEI COMPLEMENTAR-CMC nº 2, de 31 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/31/lc_02_10_anex6.pdf",
+      "ano": 2010,
+      "norma": 849
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/32/lc_02_10_anexo.pdf da norma LEI COMPLEMENTAR-CMC nº 2, de 31 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/32/lc_02_10_anexo.pdf",
+      "ano": 2010,
+      "norma": 849
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/33/port_01_23_anex.pdf da norma PORTARIA-CMC nº 1, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2023/33/port_01_23_anex.pdf",
+      "ano": 2023,
+      "norma": 897
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/34/anexo_1339_2014.pdf da norma LEI ORDINÁRIA-CMC nº 1.339, de 04 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2014/34/anexo_1339_2014.pdf",
+      "ano": 2014,
+      "norma": 905
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/35/anexo_lc_04_2012.pdf da norma LEI COMPLEMENTAR-CMC nº 4, de 28 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2012/35/anexo_lc_04_2012.pdf",
+      "ano": 2012,
+      "norma": 976
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/36/anexo_lei_1217_2011.pdf da norma LEI ORDINÁRIA-CMC nº 1.217, de 07 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2011/36/anexo_lei_1217_2011.pdf",
+      "ano": 2011,
+      "norma": 992
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/37/anexo_1203_2010.pdf da norma LEI ORDINÁRIA-CMC nº 1.203, de 21 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2010/37/anexo_1203_2010.pdf",
+      "ano": 2010,
+      "norma": 1062
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/ppa_2022_2025.pdf da norma LEI ORDINÁRIA-CMC nº 1.458, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DO PLANO PLURIANUAL 2022-2025.",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2021/38/ppa_2022_2025.pdf",
+      "ano": 2021,
+      "norma": 1199
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/39/memoria_de_calculo.pdf da norma LEI ORDINÁRIA-CMC nº 1.509, de 25 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "MEMÓRIA DE CALCULO",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2023/39/memoria_de_calculo.pdf",
+      "ano": 2023,
+      "norma": 1198
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/40/metas_e_prioridades.pdf da norma LEI ORDINÁRIA-CMC nº 1.509, de 25 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "METAS E PRIORIDADES",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2023/40/metas_e_prioridades.pdf",
+      "ano": 2023,
+      "norma": 1198
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/41/metas_fiscais.pdf da norma LEI ORDINÁRIA-CMC nº 1.509, de 25 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "METAS FISCAIS",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2023/41/metas_fiscais.pdf",
+      "ano": 2023,
+      "norma": 1198
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/42/riscos_fiscais.pdf da norma LEI ORDINÁRIA-CMC nº 1.509, de 25 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "RISCOS FISCAIS",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2023/42/riscos_fiscais.pdf",
+      "ano": 2023,
+      "norma": 1198
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/43/regulamento.pdf da norma Resolução-CMC nº 1, de 02 de abril de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "REGULAMENTO",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2014/43/regulamento.pdf",
+      "ano": 2014,
+      "norma": 1374
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/44/anexo_ii_lei_1487.pdf da norma LEI ORDINÁRIA-CMC nº 1.487, de 29 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Atribuições do cargo.",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2022/44/anexo_ii_lei_1487.pdf",
+      "ano": 2022,
+      "norma": 804
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/45/anexo_i_lei_1490.pdf da norma LEI ORDINÁRIA-CMC nº 1.490, de 20 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Designação, provimento...",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2022/45/anexo_i_lei_1490.pdf",
+      "ano": 2022,
+      "norma": 805
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/46/anexo_ii_lei_1490.pdf da norma LEI ORDINÁRIA-CMC nº 1.490, de 20 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Atribuições do Cargo.",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2022/46/anexo_ii_lei_1490.pdf",
+      "ano": 2022,
+      "norma": 805
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/47/emenda_02_2023.pdf da norma LEI ORDINÁRIA-CMC nº 1.525, de 06 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Emenda ao Projeto de Lei Nº 35/2023.",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2023/47/emenda_02_2023.pdf",
+      "ano": 2023,
+      "norma": 1413
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/48/anexo_i.pdf da norma LEI ORDINÁRIA-CMC nº 1.533, de 02 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "FORMULÁRIO DE SOLICITAÇÃO DE ADIANTAMENTO OU PRONTO PAGAMENTO",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2024/48/anexo_i.pdf",
+      "ano": 2024,
+      "norma": 1418
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/49/anexo_ii.pdf da norma LEI ORDINÁRIA-CMC nº 1.533, de 02 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "PRESTAÇÃO DE CONTAS - REGIME DE ADIANTAMENTO",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2024/49/anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 1418
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/errata_lei_1551_2025.pdf da norma LEI ORDINÁRIA-CMC nº 1.551, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Errata.",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2025/50/errata_lei_1551_2025.pdf",
+      "ano": 2025,
+      "norma": 1457
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/errata_lei_1553_2025.pdf da norma LEI ORDINÁRIA-CMC nº 1.553, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Errata.",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2025/51/errata_lei_1553_2025.pdf",
+      "ano": 2025,
+      "norma": 1459
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/justificativa_pr_02_2025.pdf da norma Resolução-CMC nº 2, de 06 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "JUSTIFICATIVAS AO PROJETO",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2025/52/justificativa_pr_02_2025.pdf",
+      "ano": 2025,
+      "norma": 1469
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/54/anexos_loa_2025.pdf da norma LEI ORDINÁRIA-CMC nº 1.546, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2024/54/anexos_loa_2025.pdf",
+      "ano": 2024,
+      "norma": 1484
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/anexo.pdf da norma PORTARIA-CMC nº 6, de 06 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "FCHA DE AVALIAÇÃO",
+      "anexo_arquivo": "http://sapl.claraval.mg.leg.br/media/sapl/public/anexonormajuridica/2025/55/anexo.pdf",
+      "ano": 2025,
+      "norma": 1490
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.claraval.mg.leg.br/f598026c87850123f233b327dda819088df932421f80bbc525372888abcdb97d.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.claraval.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ef8699d52b69936219b2c04f98b55c8b42f741ea371ee27977b17a2d1aba86c5",
+      "bytes": 21318,
+      "capturado_em": "2026-10-27T22:42:16.331766-03:00"
+    }
+  ]
+}

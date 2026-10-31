@@ -1,0 +1,37 @@
+{
+  "estado": "retido_por_completude_da_fonte",
+  "verificado_em": "2026-10-21T03:37:27.123271-03:00",
+  "fontes": [
+    {
+      "arquivo": "municipais/_fonte/capitais/salvador/lei-organica-consolidada-34-2016.pdf",
+      "url": "https://www.cms.ba.gov.br/uploads/16eacd6f15f31ad245828878e7cd82ca_1586979541.pdf",
+      "sha256": "e26d7e2f524d3ea570838e17d9adb2c442b26b7c9a9347607bd29e39ca876917",
+      "paginas": 92,
+      "edicao_literal": "Edição consolidada até a Emenda nº 34; Salvador – janeiro de 2016",
+      "remissao_sumario": "ANEXO ... 90",
+      "ultimo_folio": 91,
+      "ultimo_dispositivo": "ADCT art. 36"
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/salvador/lei-organica-consolidada-41-2024.pdf",
+      "url": "https://www.cms.ba.gov.br/uploads/3bdae368d1a3e255c81b7f262ba1bbf6_1709038424.pdf",
+      "sha256": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598",
+      "paginas": 89,
+      "edicao_literal": "Edição consolidada até a Emenda nº 41; Salvador –2024.",
+      "remissao_sumario": "ANEXO ... 90",
+      "ultimo_folio": 88,
+      "ultimo_dispositivo": "ADCT art. 36"
+    }
+  ],
+  "outra_fonte": {
+    "url": "https://leismunicipais.com.br/lei-organica-salvador-ba",
+    "resultado": "A ferramenta web retornou HTTP 403 Forbidden em 21/10/2026. Nenhuma tentativa de contornar o bloqueio. O portal da Câmara aponta a plataforma Leis Municipais no menu de transparência."
+  },
+  "conclusao": "A edição oficial mais antiga também aponta anexo no sumário sem seção identificada na camada textual integral. Isso não prova que o anexo seja dispensável nem resolve a possível omissão da edição de 2024. Não misturar edições; a LO de Salvador permanece retida até fonte oficial ou esclarecimento documental completo.",
+  "artefatos": [
+    {
+      "arquivo": "municipais/_lotes/20261021-salvador-busca-completude/extracao-2016.txt",
+      "sha256": "6664dd592f5032b238298b6320ef42a1a15c0b3933633e223209244636ffe56e"
+    }
+  ]
+}

@@ -1,0 +1,2588 @@
+{
+  "estado": "CANDIDATOS PARA AUDITORIA, NÃO PUBLICAR",
+  "criterio": "Seleção de 1.000 documentos capturados em 20/10/2026, distribuída entre portais, excluindo o baseline e as listas finais e candidatas anteriores. O tamanho de lote organiza o trabalho, sem limitar o universo.",
+  "portais": 6,
+  "candidatos_disponiveis_na_selecao": 430,
+  "arquivos": [
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1976/resolucoes-17-1976-sapl-2462.md",
+      "sha256": "1fd07b5cd0edd239aeae9b446598223b3ed8f063e139dba75c4c4e68ad06b69d",
+      "bytes": 1740,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RJ/mendes/resolucoes/2026/resolucoes-3-2026-sapl-2889.md",
+      "sha256": "f0a4f4dbf6614e8accb0237319d6f2f2ab20e0dbc4440561555dc4dec3626aad",
+      "bytes": 1828,
+      "host": "sapl.mendes.rj.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1972/decretos-8-1972-sapl-35.md",
+      "sha256": "e3828f78a01dac8b3d2d2362c4f5d66176ec05648ee59d67b42dd08d414e3f9e",
+      "bytes": 3598,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/paraguacu/resolucoes/2025/resolucoes-1-2025-sapl-132.md",
+      "sha256": "59d13ce3467e1170254c06c1941ce1473677ed9c87da6d5de9d30c24825061fa",
+      "bytes": 2955,
+      "host": "sapl.paraguacu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2013/resolucoes-1-2013-sapl-152.md",
+      "sha256": "840f01974450af4b9f16900f121f05504c15bc71d472b9d063645c93632e4852",
+      "bytes": 4491,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2022/resolucoes-1-2022-sapl-493.md",
+      "sha256": "4a2bf7f05cbf0a89d2d0e45fd4b9f4315246408dba7888b31e369ba996deb640",
+      "bytes": 2514,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1977/resolucoes-18-1977-sapl-2307.md",
+      "sha256": "b7d817aa56348b063cae2340d9d1389e5acc0b88d20565de6b556c5177f096b9",
+      "bytes": 1716,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RJ/mendes/resolucoes/2026/resolucoes-4-2026-sapl-2902.md",
+      "sha256": "c775d53e9df54ca879a7e6c5775c112c9f5fa417989bbc5f271211181450c989",
+      "bytes": 5918,
+      "host": "sapl.mendes.rj.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1983/decretos-156-1983-sapl-198.md",
+      "sha256": "0ce8b54c82117ec74b4f019262ffe2c13608c6c3aa8f344df23297a43bfcb918",
+      "bytes": 2264,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/paraguacu/resolucoes/2025/resolucoes-2-2025-sapl-131.md",
+      "sha256": "7e15d2f37190bfd0528bc9ad60dcbd415afde8881cb863ad22db477a750fec60",
+      "bytes": 2708,
+      "host": "sapl.paraguacu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2013/resolucoes-4-2013-sapl-154.md",
+      "sha256": "c5aaba235a70f721aca29e0e388ae24f4ce5c254a76cb1469abc6b3848ca1d71",
+      "bytes": 2222,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2022/resolucoes-2-2022-sapl-494.md",
+      "sha256": "ced7fb3bfc988ebef3d32f76df9d461e86629e359b2dcc5a3d779a464596290a",
+      "bytes": 3270,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1979/resolucoes-20-1979-sapl-2291.md",
+      "sha256": "146fe4e2638ffe1aa1cf263e7115dd6080e98f669399eb24de0e927e797a8852",
+      "bytes": 4281,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RJ/mendes/resolucoes/2026/resolucoes-5-2026-sapl-2971.md",
+      "sha256": "4df6e5c5df608e281c6e24d794a39b23dec7d83e1d57cff453ba9de09fb92197",
+      "bytes": 3430,
+      "host": "sapl.mendes.rj.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1985/decretos-2-1985-sapl-8.md",
+      "sha256": "70b1e1763024b567e5b2b3206b694f862ba9804cdfec9b43f03de1e3ed829739",
+      "bytes": 2122,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/paraguacu/resolucoes/2025/resolucoes-4-2025-sapl-134.md",
+      "sha256": "005b4535022651b54defbe9595071cddf595240bae778c10c57318a29b0ea006",
+      "bytes": 3990,
+      "host": "sapl.paraguacu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2013/resolucoes-5-2013-sapl-155.md",
+      "sha256": "1d32799bf3856bc9c320bfddaad413d288d9cb41a9efcd0f75b5ee38ead6608a",
+      "bytes": 9204,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2022/resolucoes-3-2022-sapl-495.md",
+      "sha256": "8d651d649e72884b78d2d7dc997a34f1111e30536257d267bd99a50a7e9de16c",
+      "bytes": 3680,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1979/resolucoes-21-1979-sapl-2300.md",
+      "sha256": "cd977f8f31e8dca7a6ef5a07be223235fa642d16c8b2bd28001db6583e7de976",
+      "bytes": 4513,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1990/decretos-28-1990-sapl-111.md",
+      "sha256": "8b881c9ef44c60b8c79598e3ab25ba92fdfb4f9bd83b9ffee3bc2f9f17f38d28",
+      "bytes": 2246,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/paraguacu/resolucoes/2026/resolucoes-1-2026-sapl-118.md",
+      "sha256": "643add41903a357831b13fd88de75d5f536063397a95e595ccfc0f01bf640dac",
+      "bytes": 261195,
+      "host": "sapl.paraguacu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2014/resolucoes-1-2014-sapl-151.md",
+      "sha256": "c5b584db9622a4d437b8f2a90edf242624527bd2005fdc49376cb383e39c8586",
+      "bytes": 1703,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2023/resolucoes-1-2023-sapl-490.md",
+      "sha256": "035860606cddf41efac4fbb1b31d29d191edcb1174a53787101bdfdf2f869be1",
+      "bytes": 3958,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1982/resolucoes-31-1982-sapl-1955.md",
+      "sha256": "84e88fc0fc44d15674b33deffbd8d3aa9d182a85e760d894889f76def41ebdb8",
+      "bytes": 2139,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1990/decretos-60-1990-sapl-160.md",
+      "sha256": "206cafbcf1c9b12d4aa56229d428f24016638ef68fcbf30b637aafb8322f66b5",
+      "bytes": 2658,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/paraguacu/resolucoes/2026/resolucoes-2-2026-sapl-116.md",
+      "sha256": "a983bf4facf9ec844c31286f7f35d8b6e112833c92fbbe354bad1736bfe85d6f",
+      "bytes": 46191,
+      "host": "sapl.paraguacu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2015/resolucoes-1-2015-sapl-148.md",
+      "sha256": "35fed483f4d28be8b8fda38a0247d075eef06ff2f8b965eeea463ddf6a28e0b7",
+      "bytes": 3627,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2023/resolucoes-2-2023-sapl-491.md",
+      "sha256": "656108737dbce22809d6236a41bc8539f071e4395383e4368bdb82eaf2cef28b",
+      "bytes": 3134,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1982/resolucoes-32-1982-sapl-1956.md",
+      "sha256": "b3bb9b218e7e1f167ff6565178f5b896c7c08a4a864435fd95f86417c92ec18a",
+      "bytes": 3078,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1991/decretos-15-1991-sapl-88.md",
+      "sha256": "c8bc49b5fd5e5357a65e9945607ece22f2a42646eab534b793fdd1bbcefc8b17",
+      "bytes": 2449,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/paraguacu/resolucoes/2026/resolucoes-3-2026-sapl-117.md",
+      "sha256": "b2a10cd664a95d1499067f96e0c61a273afe1769195e4a842d6202d3eba56335",
+      "bytes": 55141,
+      "host": "sapl.paraguacu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2016/resolucoes-1-2016-sapl-147.md",
+      "sha256": "6699fcb6e868bcf36f61619f77e15026e0eba4925272722acb58244f68580cbd",
+      "bytes": 2077,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2023/resolucoes-3-2023-sapl-492.md",
+      "sha256": "42bb5033114f4fe7e3223cd5e5d01cbbd60971a2b7231b838d0519eb8bdbee1c",
+      "bytes": 4765,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1982/resolucoes-33-1982-sapl-1957.md",
+      "sha256": "0feec0e217b064336fbab137e4f4408afd9d83ead9953932dba7a9898ac297b7",
+      "bytes": 1829,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1991/decretos-34-1991-sapl-121.md",
+      "sha256": "5d76e1a4ff84f277071081d49f1a84bf36fc21e682b75a94a99abc57309b1b85",
+      "bytes": 2089,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2017/resolucoes-2-2017-sapl-132.md",
+      "sha256": "092dd71f4ee78fa1d0fdbf65fd9c82b4f9e856121fdf6220baf4e1fd67d5f4d6",
+      "bytes": 5125,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-1-2024-sapl-482.md",
+      "sha256": "cb143db138979e1f63372cd194d72c91fa22e1e8df5a2662474d13692b4d4417",
+      "bytes": 9342,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1982/resolucoes-34-1982-sapl-1958.md",
+      "sha256": "5bc71cf8adfdcb7b556fdbc94aba639c6ca247b003156adc052556efa45d6c8b",
+      "bytes": 2129,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1991/decretos-35-1991-sapl-124.md",
+      "sha256": "2d4e7965bae2b62b44f4befa748f9cd0102e2237e4b1fd9d97826ed92dc3bf58",
+      "bytes": 2233,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2018/resolucoes-1-2018-sapl-145.md",
+      "sha256": "fa802e23794d1692851dbd42cad228ced5b8d614c87b23c305044694ac9c06fe",
+      "bytes": 4312,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-2-2024-sapl-483.md",
+      "sha256": "9e1e6bb673aa8562bf95223b80333c007bbaa42c80c7784bc0f947e73d474a38",
+      "bytes": 13795,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1982/resolucoes-35-1982-sapl-1959.md",
+      "sha256": "79425c9a667c70f011247b2460f010e5cea6ec27e90d1fb4887e6e677d298dec",
+      "bytes": 2284,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1991/decretos-37-1991-sapl-129.md",
+      "sha256": "ad31f68ad02acf4db110f53c1d1c0da732b2376221f1b5c95d426344d80d4598",
+      "bytes": 2071,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2018/resolucoes-3-2018-sapl-146.md",
+      "sha256": "c08493c96ba4ba179486d290ed14591709d03f3ea17cd80f700b4e869b5b02ed",
+      "bytes": 3303,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-3-2024-sapl-484.md",
+      "sha256": "2c7cf38cccf409285bfe08f63fef5025035ef084ed3f2817539a1efc2fea3f8a",
+      "bytes": 7757,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1983/resolucoes-36-1983-sapl-1871.md",
+      "sha256": "3c96b75ec67354ba3f39147fc22af0fb6ce9ddae484f266ca32c9521d4b157d9",
+      "bytes": 3047,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1991/decretos-46-1991-sapl-144.md",
+      "sha256": "e27a0e743a57a8e09c9573fc9c0cb8747c416e5034fbb3aca33d555b989b7849",
+      "bytes": 2481,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2020/resolucoes-1-2020-sapl-143.md",
+      "sha256": "d41654b6b63a19f072187eaa087836c0a1abc993cbd363e8002ea30acb95bf71",
+      "bytes": 8193,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-4-2024-sapl-485.md",
+      "sha256": "f0764fcff0f21d8718937ba98c4d98db183fce99564507d48d1cf2a0a9cb53b5",
+      "bytes": 11487,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1983/resolucoes-39-1983-sapl-1874.md",
+      "sha256": "52928eef04410434826827d38292889c01ab26a852d077e4f58687e5fd5b5626",
+      "bytes": 2357,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1991/decretos-5-1991-sapl-16.md",
+      "sha256": "6466c76b246f7828b087575faa916087a8af9b247d7a857416ebb4a9d251f497",
+      "bytes": 2309,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-1-2021-sapl-130.md",
+      "sha256": "fc24d5090bd181b9582ffb6cb707e01a130cd0a6ddb519b1d7d7f7fb0dc46311",
+      "bytes": 5354,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-5-2024-sapl-486.md",
+      "sha256": "a7d39f770c7f0c850b86173de61b882c9fbee492d45f1ea60ea75a1f9bb90bd5",
+      "bytes": 3712,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1983/resolucoes-40-1983-sapl-1875.md",
+      "sha256": "4da6c243d316f2042f3788970217eca156e803298f09c0be23f2ff308e5335f9",
+      "bytes": 2133,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/1992/decretos-45-1992-sapl-142.md",
+      "sha256": "ebeba7798508f4d193fba5ee61d2b4bc7ac4ef9fe4d42afadde0128dbcbcb533",
+      "bytes": 5932,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-2-2021-sapl-131.md",
+      "sha256": "549b861a8d62dad680acb3761220f798746eb98d79dcb5fb7931b1a85300ebe8",
+      "bytes": 7414,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-6-2024-sapl-487.md",
+      "sha256": "5dd3ed69ad2ae0e5d11641ea5dcd30190110fb3d479bfb572683a06c7f609a6c",
+      "bytes": 3270,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1983/resolucoes-41-1983-sapl-1876.md",
+      "sha256": "2bfe51be5ca9d69f88e2f2dbc9c899e5ce2c592467bf966141596b24c379004b",
+      "bytes": 2392,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-1-2001-sapl-5.md",
+      "sha256": "32a6b5b7b0f307a4ae539e9056be7d2c805cdc3677ffddf57bc9b54c6f934fad",
+      "bytes": 1473,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-3-2021-sapl-133.md",
+      "sha256": "6ff95e2e5a3b2c624961c2da7412d66095f70e00163ed0023c292fc77731a318",
+      "bytes": 3296,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-7-2024-sapl-488.md",
+      "sha256": "b81a594e05386c64ac67d43c23fdb8f9f203d594ada59b79722169cdd3dd0e25",
+      "bytes": 3270,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1983/resolucoes-42-1983-sapl-1877.md",
+      "sha256": "f4bcd00e4130d503c2f4fe524724d20ce49dff27db0aeecccee9a1e6a43eafe5",
+      "bytes": 2167,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-11-2001-sapl-59.md",
+      "sha256": "b32661130bff42e2b721630386b3783ab9c7eb70d3de93f199db053b2b2d4957",
+      "bytes": 2500,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-4-2021-sapl-134.md",
+      "sha256": "76f3b40cd4fb0f629bafb7c2155b976873e4a3f3a2cf81d4d23cf800b76a6df2",
+      "bytes": 4955,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-8-2024-sapl-489.md",
+      "sha256": "8168ed0b627434b8cb8039b15494b7e69e99bf8c8179130cbe3a53c1a413c4e5",
+      "bytes": 3717,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1984/resolucoes-43-1984-sapl-1834.md",
+      "sha256": "4dc171c02e6d2d69d76078b97d3cd05739c124a7903e04120f9e0c0e387917d3",
+      "bytes": 3046,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-14-2001-sapl-85.md",
+      "sha256": "7599c0fe2f244bcc42ebe22164d4bc8e0bbbd8b9ddc2867dfaaac548f72d0f46",
+      "bytes": 2536,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-5-2021-sapl-137.md",
+      "sha256": "ed649d7db44ddaf9b33eebb58838b3fe4cf008ff5970767b562efddb153fab88",
+      "bytes": 4961,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-1-2025-sapl-30.md",
+      "sha256": "d687a37bb756363dfa8421b5f2599e07576e27e40db69f9c3c08c24e069fdd2f",
+      "bytes": 2355,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1984/resolucoes-44-1984-sapl-1835.md",
+      "sha256": "297573a49ac9aeee09b310182e63c50a35c04783190b0ceab6b82315b459e660",
+      "bytes": 2991,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-15-2001-sapl-89.md",
+      "sha256": "9a57f00df19515066eeaed9152de64fbf2c0b33161c0d1dd8f0e147b11366dd5",
+      "bytes": 2357,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-6-2021-sapl-138.md",
+      "sha256": "9390a1e12093009de19e4127719a60bcc8563051702839bc2fab0ad14cd7ac9c",
+      "bytes": 8086,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-2-2025-sapl-31.md",
+      "sha256": "2038bc017f0bc0c4178581f8a94da3cf3a3e93ef4c8ee78eb5166e5394023e81",
+      "bytes": 2337,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1984/resolucoes-45-1984-sapl-1836.md",
+      "sha256": "54f812958bcdd15580e89750a377ba36a95129f213deb62743df6b2b6a4bce36",
+      "bytes": 2379,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-16-2001-sapl-91.md",
+      "sha256": "86b5c2393aa8eeab25700ebf0beba141d84e5f2bbdae6b09dd19cc72830d018a",
+      "bytes": 2327,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-8-2021-sapl-141.md",
+      "sha256": "debf66b10eb1ae7cf4cfd5a54c3b9e1b3b1d134e1e26da167f8a5d39a27baa99",
+      "bytes": 5262,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-3-2025-sapl-38.md",
+      "sha256": "27fdc173932295754e1d34d748482602aabff73445a64abaff7f79743be7e385",
+      "bytes": 10344,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1984/resolucoes-47-1984-sapl-1838.md",
+      "sha256": "daa1f9f0cecb04b2aa1fc13f478f12614fc84623861dc43cd1ab778b1ee36eb8",
+      "bytes": 3100,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-2-2001-sapl-7.md",
+      "sha256": "b5a2a63c0692d4bde4b836b65c2648d72fd796fbe617592fa95c84cdd4e18a16",
+      "bytes": 3485,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2021/resolucoes-9-2021-sapl-142.md",
+      "sha256": "3ee96d665849c67768ca66de54af1315448be40a41b77d3627a2dee57145f050",
+      "bytes": 4645,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-4-2025-sapl-527.md",
+      "sha256": "522bfc176c57039b440dd67b707ddc0b6cbdb9cac6084c29bc8f91663656607d",
+      "bytes": 2022,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1984/resolucoes-48-1984-sapl-1839.md",
+      "sha256": "d499d1388227775055722b992f1aed9406d2fab58b2191561e22a3b0f56c1894",
+      "bytes": 2358,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-3-2001-sapl-9.md",
+      "sha256": "fb4f059963c705109eb2782fed7281faefe7743108ac6686f506cc96949be8b8",
+      "bytes": 1515,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2022/resolucoes-1-2022-sapl-129.md",
+      "sha256": "e67500a6c14c6a2e1c32cc18ff439515d06780ea3cd0236ede6bf4d63232ba89",
+      "bytes": 10803,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-6-2025-sapl-588.md",
+      "sha256": "97c17931d37937dd304f46e1218bebc0f2086cb0f91124f26089e8732c582ec4",
+      "bytes": 3127,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1984/resolucoes-49-1984-sapl-1840.md",
+      "sha256": "f7e404a456eebbb2c1e89fbf86e8b02a2bac8aa7dff92090b5b0b7bf0d2afa0c",
+      "bytes": 2115,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-4-2001-sapl-14.md",
+      "sha256": "0d0708b575b8d0a9b6640aa765ae8a7d1d6fa38f8298263fe3615122c673d02b",
+      "bytes": 1936,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2023/resolucoes-1-2023-sapl-123.md",
+      "sha256": "30861ad3455a6d6e9e305cabd402b7ce0c548eb061dd26ad04d6fe4de1061991",
+      "bytes": 2231,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/sao-jose-do-serido/resolucoes/2026/resolucoes-1-2026-sapl-642.md",
+      "sha256": "28db2c6ec25a1a530f5b8708055c0a603a6444e374abcc03da35c849a7616761",
+      "bytes": 2046,
+      "host": "sapl.saojosedoserido.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1985/resolucoes-50-1985-sapl-1785.md",
+      "sha256": "9a3bdaa2bc226ca5db89d4bcf33ade08872d6bec6dce7ffb5365e638e6063fdd",
+      "bytes": 3093,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-8-2001-sapl-36.md",
+      "sha256": "748ec8caa732291810340e40abc7b3474e2f8e03ffdeaaaa0b1833b32b0375f2",
+      "bytes": 4141,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2023/resolucoes-2-2023-sapl-119.md",
+      "sha256": "9aa98d5cf9f2db5e56623979e75b87d0dc3f6fdd2764c46005f694b1150da578",
+      "bytes": 2785,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1985/resolucoes-51-1985-sapl-1861.md",
+      "sha256": "dff1a7d40c7405f1bb90d706d277310f5d46fe7cb02e4dd2bf4b1a9afbb0dfe1",
+      "bytes": 2384,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2001/decretos-9-2001-sapl-45.md",
+      "sha256": "49f2bc22db802718afcfa1ee8aa52a59c89a561a97ce92770455c242dc23b436",
+      "bytes": 2107,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2023/resolucoes-3-2023-sapl-124.md",
+      "sha256": "34ea6e8a16cd995f41a7278f13535e73885f73809baf7036f538d5469ceac984",
+      "bytes": 2035,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1985/resolucoes-52-1985-sapl-1862.md",
+      "sha256": "20670c102e4850231b10b060f91e9f4dcb897f2b5eaf38624f0684af56d73465",
+      "bytes": 2172,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-10-2003-sapl-53.md",
+      "sha256": "f0c49dba585a303a463d677aab3a2512d9a0c755bdc31b73ba065929e5b108ae",
+      "bytes": 8076,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2023/resolucoes-4-2023-sapl-125.md",
+      "sha256": "f4a505aaf5035347ef8bb457db90952dc8a1da492c0a4fdc936174bf1f83ded7",
+      "bytes": 3880,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1985/resolucoes-53-1985-sapl-1863.md",
+      "sha256": "c6fd3aaeff9b6b4da751458c93cdfbdfd954f8fb6758dd827e141a426008c505",
+      "bytes": 3135,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-11-2003-sapl-61.md",
+      "sha256": "51127387bcb047df2e95fb284f65f94ca4666449e21637662623ba38a93968dc",
+      "bytes": 8700,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2023/resolucoes-5-2023-sapl-126.md",
+      "sha256": "d967cb2f23a4c581af520b330bad42c4f7e3fc741bc77152e238dc39b915ad15",
+      "bytes": 3739,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1985/resolucoes-55-1985-sapl-1865.md",
+      "sha256": "35dfd2e7d2c2205a38e815fa80c142521836c7be34f5c2d7544c9efef66019a9",
+      "bytes": 1838,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-12-2003-sapl-74.md",
+      "sha256": "79648e1b1e409fc9440b2baa2e304d70f9485d344f4f98e25b125cc0630c37d5",
+      "bytes": 9603,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2023/resolucoes-6-2023-sapl-127.md",
+      "sha256": "cadfdcd1bd9c65a6ffe0134a7f33d6e23e8e25a775acfdf8deb272e8a3839d33",
+      "bytes": 3763,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1985/resolucoes-58-1985-sapl-1868.md",
+      "sha256": "5fb638526d152373bcee853676273a53588cda95f9c5a176346f6fec32363ccd",
+      "bytes": 2178,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-13-2003-sapl-79.md",
+      "sha256": "ecf3874dcad6a09ea8fe3f603a4beec905554b31e7bc04790cbdc8b279847d27",
+      "bytes": 7650,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2023/resolucoes-7-2023-sapl-128.md",
+      "sha256": "152c257b3d43fba7f33c07afc19f5faf534190b0ba87f17f5c6cdacc3763f686",
+      "bytes": 21952,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1987/resolucoes-74-1987-sapl-1808.md",
+      "sha256": "0bba286b6a01b7dffc49690603dd8132b800592a13f008be226749e5147c0958",
+      "bytes": 2897,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-14-2003-sapl-86.md",
+      "sha256": "eef7facb29cb6cf7453967369c21328775bc7c609bb5bdc841bbfe8b256200c7",
+      "bytes": 16384,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2024/resolucoes-1-2024-sapl-120.md",
+      "sha256": "8e2517026c14bdee8d1b482a218682b318553b9b7c516b5483fb084098ffdda5",
+      "bytes": 9151,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1987/resolucoes-76-1987-sapl-1810.md",
+      "sha256": "3fdae8288f3ba903c049d8ed777ad0371498fb8cd8fb2f553bea94954e645ab4",
+      "bytes": 2890,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-5-2003-sapl-18.md",
+      "sha256": "ec8c80b906bf280271bc9ddba0a2d261dbf3d75f9c5b34d74766b19600fa37b5",
+      "bytes": 5544,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2024/resolucoes-2-2024-sapl-121.md",
+      "sha256": "a8a4b10105c80bbba7ba2e835594c35c06960d5da5419ffbdc10a2ce66b2374c",
+      "bytes": 7573,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1987/resolucoes-77-1987-sapl-1811.md",
+      "sha256": "9e5860a9a0884c851d774d9e782bc4a771e77cf74fddfdbc078c55fc98af6daa",
+      "bytes": 3312,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-6-2003-sapl-20.md",
+      "sha256": "2d9b61d28459d1805cbf0531b54d77b08d1d84698042bab8f2eac2f75c0fcc0b",
+      "bytes": 2230,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2024/resolucoes-3-2024-sapl-122.md",
+      "sha256": "e95919cde17cd7bccb9aedc684d8d9da18c8b8723ef7c57a050ff0b692dfa68e",
+      "bytes": 18040,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1987/resolucoes-78-1987-sapl-1812.md",
+      "sha256": "8731b3b9c6e81261508e877e00fbe949d69a766be515f4a40079bdd7fa9048a0",
+      "bytes": 2786,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-7-2003-sapl-29.md",
+      "sha256": "1758eb2a59d62d4df04922936d01e16ef62c188f3cb282bb9b35550ec58110ac",
+      "bytes": 6665,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2024/resolucoes-5-2024-sapl-5.md",
+      "sha256": "ff7631a6abd4969eda319c6c39f43e18368f613e110fdc84df16a7993826d44d",
+      "bytes": 3493,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1987/resolucoes-79-1987-sapl-1813.md",
+      "sha256": "5306349070cf2f766f950a8918200c7380a5b6683d637426fc9a60b6e1d669b3",
+      "bytes": 1655,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-8-2003-sapl-37.md",
+      "sha256": "363b53c7e11e0451a57482687f7cba337cdc735513d97377d002fe4c962ba373",
+      "bytes": 8648,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2025/resolucoes-1-2025-sapl-144.md",
+      "sha256": "2bcb31d69e30c88f6140d42a0c9ccad178ffb14f38f64ec4dbd12a206c8e79aa",
+      "bytes": 3820,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1987/resolucoes-80-1987-sapl-1814.md",
+      "sha256": "0636cc2c63a4010ec142b6b64cdd53b6120407e780454c2b98d72d297be00b14",
+      "bytes": 2130,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2003/decretos-9-2003-sapl-47.md",
+      "sha256": "beac761cdf32e4f319f6ec3cb58a84f597951d315fd2ba8219c2e7cf0bf5a162",
+      "bytes": 7283,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2025/resolucoes-6-2025-sapl-158.md",
+      "sha256": "f54eeef9b07bdb9a297c6532a06a47e8a764cfa7eb54f9ac65b8675d26bfb6fa",
+      "bytes": 19924,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1987/resolucoes-81-1987-sapl-1815.md",
+      "sha256": "d77b44b9527daa7acc854691ef365b761d0f360ca9a4274d86da40778f7d3375",
+      "bytes": 2878,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-1-2004-sapl-6.md",
+      "sha256": "fa95afb3cfa166b495abc8c7b7653aa06d40ca1a24edfef64026e7c6c703da50",
+      "bytes": 3378,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/RN/parelhas/resolucoes/2026/resolucoes-1-2026-sapl-159.md",
+      "sha256": "1ff9eafe6715791fa9dbb89bbe526c37d98a93ebf3f3049d9fcda62b5a3b0b0e",
+      "bytes": 6576,
+      "host": "sapl.parelhas.rn.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-101-1989-sapl-1585.md",
+      "sha256": "d8bd550a5ebe8e7057174a77e70cbfec4f607348e155a0a3de5bb3abec3dada2",
+      "bytes": 3002,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-10-2004-sapl-55.md",
+      "sha256": "772d25b920ca79b45df3d8d8ad91916d2c3a97a8ea17d962a97c62d9a7e1fdbb",
+      "bytes": 8519,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-102-1989-sapl-1586.md",
+      "sha256": "4b23ef5ff753e147419c083d3b973c3d5100b8904df24914f3626106b22a0fe9",
+      "bytes": 2789,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-11-2004-sapl-65.md",
+      "sha256": "79e2a9a7b1f94cfe37a25f3bc9ec2172d5e9585fc434936839ba2bd9bdaccf35",
+      "bytes": 5612,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-103-1989-sapl-1587.md",
+      "sha256": "d7558046e158e745019e4e261966f94e97cbd59be528e5cd2df1f9a49074b10e",
+      "bytes": 3079,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-12-2004-sapl-76.md",
+      "sha256": "5c4d1edb276ec9efd5d364ea3c545a805af223a75db12aa4feff36b92c14f807",
+      "bytes": 5625,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-104-1989-sapl-1588.md",
+      "sha256": "40c741a50d523078f4eac771a4b652c85a79a494b90081aa04bfc9ff82b8c08c",
+      "bytes": 2739,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-13-2004-sapl-81.md",
+      "sha256": "5a24571687fd63beb0f75a534670a7bfcaa835fc3ef28ec68a5b4f4a5b655870",
+      "bytes": 2331,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-105-1989-sapl-1589.md",
+      "sha256": "1d8b3daa09004119af4871d6d7b147905f2dcec60122e30a06632ac36b50cddf",
+      "bytes": 3073,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-14-2004-sapl-87.md",
+      "sha256": "5e5453d0d8cf651ef89bf58b5caab15ba7adc2355d68a0bbc278bd032634019a",
+      "bytes": 16444,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-106-1989-sapl-1590.md",
+      "sha256": "db4bb183c40f361cbb532fe6c8a23512281d0130c8c57fac4bb41dadef8daea9",
+      "bytes": 2698,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-2-2004-sapl-10.md",
+      "sha256": "f4735cbbe4cde0e438998bfcdaccc7aa6a234b6fdd7c776522da3f06d718744a",
+      "bytes": 2884,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-107-1989-sapl-1591.md",
+      "sha256": "51029c695bdf533b177c0c9d6e28eab42107764b24b7ab1211a3120ec0e843bc",
+      "bytes": 13806,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-3-2004-sapl-12.md",
+      "sha256": "75c2bb4d3ec9a1e68d5f4cb654269438e841c69ace46da7fcd24efd03688d75f",
+      "bytes": 3134,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-108-1989-sapl-1592.md",
+      "sha256": "a5767082ba09d0d3706bf3eef96f5d54db72e8bf7a4322356e33297f290a2718",
+      "bytes": 3059,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-4-2004-sapl-15.md",
+      "sha256": "313e6f0a63a258812106c47798e94e58684b0c87c0594e0c00e852ed67709ab2",
+      "bytes": 6317,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-93-1989-sapl-1577.md",
+      "sha256": "3d89a33cfb616cb41ef605728ed5248c1505340156a6773689e42885f19185e7",
+      "bytes": 1904,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-5-2004-sapl-19.md",
+      "sha256": "795bbf54847e0ba3f4b3248c4b0ffecf28fedcaff7e05fad9ccdf80e1eb200a2",
+      "bytes": 3888,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-94-1989-sapl-1578.md",
+      "sha256": "f3636805690234b05c6c25fb9a19f0dbcfa95a63abc0b6128917a7ae141bfae4",
+      "bytes": 2876,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-6-2004-sapl-27.md",
+      "sha256": "c2d0b1e0748239693e4b83bd182cf6ffa0e126fd01ec719f17c7c19852f8d50c",
+      "bytes": 5000,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-96-1989-sapl-1580.md",
+      "sha256": "de78560c2f91381cc185238cbcee26cfb987558c08b79411ec29b9f7e4bfbe10",
+      "bytes": 2934,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-7-2004-sapl-30.md",
+      "sha256": "535fe679634fa9d6f48dc7e0c6f12064d66791e4db45b7d40a41bacbf8b3109d",
+      "bytes": 2221,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-97-1989-sapl-1581.md",
+      "sha256": "06e0bab9e8bb7b6a46764f0b41235cba04774398c299f5eddd7238efff21c62c",
+      "bytes": 1854,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-8-2004-sapl-39.md",
+      "sha256": "85253bc2ba8f90a4344bd5da51d4d15ca851c11db3153575049f56e75bf98845",
+      "bytes": 6071,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-98-1989-sapl-1582.md",
+      "sha256": "72de28f65fadcf595de5466641feac4ffaa7e88ce41bfb6f8602bf8492473378",
+      "bytes": 1866,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2004/decretos-9-2004-sapl-48.md",
+      "sha256": "06dae4d22d02eecb48a1586d3b4f07ea3c2d68966d5c363f4ed4469058740526",
+      "bytes": 6680,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1989/resolucoes-99-1989-sapl-1583.md",
+      "sha256": "a44504ae73fda1e3b0176dd0b0aa72bb1c44409d178a52e084df493f33bfee03",
+      "bytes": 4137,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2006/decretos-7-2006-sapl-33.md",
+      "sha256": "0d3f9bfd4962d954aa86903c2fd5fc49c1178524b368019bf3154d9656524f66",
+      "bytes": 2886,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-112-1990-sapl-1574.md",
+      "sha256": "bb528843a13314d8f69d765dbc5b6523c13f93719e8e6a4cc9d01286505771d8",
+      "bytes": 2961,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/decretos/2006/decretos-8-2006-sapl-40.md",
+      "sha256": "7e183cbbf8343ebdf21d2fe9006ab08e6be2e9bd92a4943e275bc090f11c2d77",
+      "bytes": 2264,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-113-1990-sapl-1575.md",
+      "sha256": "6abcad37c9854ee326c24acf4869984a5b5c5e2c6d14af619eeef0d4ad480206",
+      "bytes": 2697,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/resolucoes/1984/resolucoes-1-1984-sapl-227.md",
+      "sha256": "3514838ff469d4a38bb98bf85f944d8ba2061f89aa84fb062474db801c9ff31a",
+      "bytes": 1375,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-114-1990-sapl-1626.md",
+      "sha256": "fdc5fdc60520775604a117de1df3cc79e49a3ebf79fb6045a0f7df653a4b7e20",
+      "bytes": 3108,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/PB/mulungu/resolucoes/1988/resolucoes-1-1988-sapl-228.md",
+      "sha256": "ba52a65c30bc7a6bd5d70c578051c2d9f60376ff9ce9927557866960fa0bc5c0",
+      "bytes": 1855,
+      "host": "sapl.mulungu.pb.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-115-1990-sapl-1627.md",
+      "sha256": "b1cadc27eca53d6588442dc5c024ae6440e3a96f8c317a6f8e0e3f92cf0cc5f5",
+      "bytes": 2814,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-116-1990-sapl-1628.md",
+      "sha256": "ea72807ddc50ab1c8f2e8198193a61056bae9c8b322e97a9d10f96c24b6d6b71",
+      "bytes": 3001,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-117-1990-sapl-1629.md",
+      "sha256": "797a082d58801620ac3e99eb5ad666caa056d64ea5210c52f2245ad3bc18aab7",
+      "bytes": 2723,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-118-1990-sapl-1630.md",
+      "sha256": "23684d294b2250bd9dc3f6c86d7dd60e042611f2e3a6bee88a290490875c7461",
+      "bytes": 3085,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-119-1990-sapl-1631.md",
+      "sha256": "b4abaff33f272931995f8416d13fdc017cac85c7ad951039c75554ff1a15e1cf",
+      "bytes": 2633,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-122-1990-sapl-1638.md",
+      "sha256": "3cd0b18241645afe98cd7b6d2244509bc28154d91512f54cbdfe53292616fd5f",
+      "bytes": 1855,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-124-1990-sapl-1641.md",
+      "sha256": "278aef1d944aeb8b4ecbae4389f554d3f5e6999d7eb4b7817d3452542b5776d4",
+      "bytes": 1883,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-126-1990-sapl-1646.md",
+      "sha256": "68a1685cd9c965f42f56dd917aab2e9fdb6d10179651c53ed053bec2cfe445ef",
+      "bytes": 1843,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-127-1990-sapl-1648.md",
+      "sha256": "a2d90f4e17a1d9837cccb5e2c2d9cfc42547da6891136a9897748d4d34605a49",
+      "bytes": 3408,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-129-1990-sapl-1650.md",
+      "sha256": "68d4d39d0f62f6820327edd140791d9153d3ec74f83b11d16a5053bec0572b71",
+      "bytes": 3124,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-130-1990-sapl-1652.md",
+      "sha256": "fbf2004dbe4adfd90d29b3a2648a083466e8bc3f81a4f6c46e2240291f1912dc",
+      "bytes": 2761,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-131-1990-sapl-1653.md",
+      "sha256": "9db1de346449ef2f6d64bd63d8f3243acdbe7d6a25a46f15d56027b7c8d2bf58",
+      "bytes": 3133,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-132-1990-sapl-1654.md",
+      "sha256": "771604cf0b9ce6ff0b7c17c926ed51bd632573f9319d5e8b4ab53eccd3907a71",
+      "bytes": 2727,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-133-1990-sapl-1659.md",
+      "sha256": "963a7c4d804cb46bcc77bcfad1a5a67bfd449fc15120b42f9e9631dc4da48df9",
+      "bytes": 3193,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-134-1990-sapl-1660.md",
+      "sha256": "405f428d30cca4f1fac43be66119868668e3988e5a37cfd306eed2dbbe8ce989",
+      "bytes": 2873,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-136-1990-sapl-1662.md",
+      "sha256": "ab1a5a245b0b611628e92037229cd5b7184032b295f7b42c877a6859c82e1dc4",
+      "bytes": 2787,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-137-1990-sapl-1663.md",
+      "sha256": "5f8a5ba1c72020b86778f2154c255f3a62371e77e95e117dbd9a6596424b20d6",
+      "bytes": 3002,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1990/resolucoes-138-1990-sapl-1664.md",
+      "sha256": "ce1dc9b5f956b5980111167ee9d2b5dc208f00f3616a1fce04dc92bc33c5ce76",
+      "bytes": 2792,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1991/resolucoes-143-1991-sapl-1639.md",
+      "sha256": "7f21137934a0fece2c1c0b394d069f1c44d8c9d24950cc10d8daf69258f97665",
+      "bytes": 2870,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1991/resolucoes-145-1991-sapl-1644.md",
+      "sha256": "85c9edeb1839efbd4cb730ba7fab517c056078af7adc05fccf2858ead6138d20",
+      "bytes": 2740,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1991/resolucoes-146-1991-sapl-1645.md",
+      "sha256": "67c406c6f37845a1c729ef1f7591823bc5ad59560433d3962b057dc09d5b70de",
+      "bytes": 4099,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1991/resolucoes-147-1991-sapl-1647.md",
+      "sha256": "c619015b87b0e30263e2672677fc6076e45eae46e235b677edeb4693fbd6d700",
+      "bytes": 5553,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1991/resolucoes-148-1991-sapl-1651.md",
+      "sha256": "b5e801bd15d7ee51ab8d7c9b3e491aaa1cd2d578585ce3444f3b84f214d2760d",
+      "bytes": 1648,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1991/resolucoes-149-1991-sapl-1655.md",
+      "sha256": "d1724613f50a49e3116a4ae4cb0b09cfe8092f088128f21f3aa8a32a3e0d2b34",
+      "bytes": 3791,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1991/resolucoes-150-1991-sapl-1656.md",
+      "sha256": "1b0758f8a281612498fe3802711955bf7e7fe8e1d30c4e48640173c1aa6467d5",
+      "bytes": 4313,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-153-1992-sapl-1531.md",
+      "sha256": "f501d8eece741d95dd5a2c3e79f5232bd9ef997dfaf1697ec3834409b1dcf740",
+      "bytes": 3474,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-154-1992-sapl-1532.md",
+      "sha256": "fcc34e645a33156a2d122a5ed8b3c1029ff7df3cf4db9bd897ab0fd1e24b0e46",
+      "bytes": 3796,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-155-1992-sapl-1533.md",
+      "sha256": "55be1f8dae6848bc788e724c7d094ae3d3653630ab5bd0924dbca68a5c2f6791",
+      "bytes": 3169,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-158-1992-sapl-1536.md",
+      "sha256": "23f3d27592b7909d487eaa3a715cb567f4d1a44662c405163da3db8ee2ca4630",
+      "bytes": 3256,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-160-1992-sapl-1539.md",
+      "sha256": "2001ffdb84f4ccb001867bc11e277a5ee3c28953d7f16fb24adb4f3e1749e16c",
+      "bytes": 3166,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-163-1992-sapl-1545.md",
+      "sha256": "af4a3376021ee16e1a0448b2f2807c3edc276a63efa06cc90b385a21588e3b16",
+      "bytes": 3249,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-164-1992-sapl-1550.md",
+      "sha256": "0434147788094f1c5181a6b4b46e4d0d9a25708d8eb8b2af56ef0f24db4f8458",
+      "bytes": 3168,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-166-1992-sapl-1557.md",
+      "sha256": "122dab4cbf3ad4a5e71cf238bfa9545a971255b5154958c614a391e3e36de800",
+      "bytes": 1863,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-167-1992-sapl-1559.md",
+      "sha256": "ecfdc501ecc73afc6b81f56ed4feed59802dd2dc28ea4234afc459ef0ffe891b",
+      "bytes": 3399,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-170-1992-sapl-1562.md",
+      "sha256": "ddac4487089064726f115e030d8b8d3c4be5ad708337a44949fc490daa6c8c9f",
+      "bytes": 2727,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-172-1992-sapl-1564.md",
+      "sha256": "1244b1a65bca70150f424fd0c4d0f073cb1c2970674fa5bcb08c6e4a71940815",
+      "bytes": 4044,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-173-1992-sapl-1565.md",
+      "sha256": "c6de3c7e3525b9d4121cf50b3f3e07850791fac8b9c96d611091d1d3c2a2df96",
+      "bytes": 3217,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-174-1992-sapl-1566.md",
+      "sha256": "3849ab93da6642d18ea77320b039f3f6438c1acb0cabd3daf9f9ed55434e7949",
+      "bytes": 3129,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-175-1992-sapl-1567.md",
+      "sha256": "91a889376b1dd89be3caba317ec72cfa44b399914c7e5ac0ceed045cf2b77f08",
+      "bytes": 3239,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1992/resolucoes-177-1992-sapl-1569.md",
+      "sha256": "0d93b56100517fd06c57e615d0f96c752c9f439232d944e76ed3fc81c80ef906",
+      "bytes": 3277,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-179-1993-sapl-1433.md",
+      "sha256": "a21f2696b6e2177e0a0086ea9d2e1d7bc715aafd8925a564e39850a1b0b4a11e",
+      "bytes": 3622,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-181-1993-sapl-1436.md",
+      "sha256": "1afff7f9b7ee26fea8fed22ba48f139642abb9672ff6909a2dee171735c6045c",
+      "bytes": 3593,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-182-1993-sapl-1437.md",
+      "sha256": "7ac07f51d35491620c636bf59e0c376181a7706da9a5efb478da6ebd2d3ccd7a",
+      "bytes": 3166,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-183-1993-sapl-1438.md",
+      "sha256": "b5a8b0989bb00c1e738a80231a7de7c661eb39b4430733be637d6b9bbd6217a2",
+      "bytes": 3514,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-184-1993-sapl-1439.md",
+      "sha256": "9695febd163fb6bf16f17b96e949602a114c4d3ff5c5e96dd779c322a0817261",
+      "bytes": 3106,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-185-1993-sapl-1440.md",
+      "sha256": "7a1d4001f870e21e07f04cd39ef6f7e2d3c9bcf468c398e31bed0d30e1fa8867",
+      "bytes": 3606,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-186-1993-sapl-1441.md",
+      "sha256": "919d8d7b3435b1a6f2a44e9a29170771c9a0767e7d2364ea82299c75d38cfff9",
+      "bytes": 3244,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-187-1993-sapl-1442.md",
+      "sha256": "152960ebbcb54a71b9bb674f313b395fe23e87a5987c555a1cb3bbc3c2ec87bd",
+      "bytes": 1863,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-188-1993-sapl-1443.md",
+      "sha256": "7124652ca0f8586d15fe23afb4472f1d64bbfba77cce78b8c20a5d6d47e60fe2",
+      "bytes": 3367,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-189-1993-sapl-1444.md",
+      "sha256": "339980770a1e3b00d66efdfce3abf6311a3d58aaf14f90003ebcceb9d2b5f198",
+      "bytes": 3122,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-190-1993-sapl-1445.md",
+      "sha256": "003dfa25199e40ce5a0bea518fcacfb9491810b39135a7c8045b3b29123fa2f0",
+      "bytes": 3493,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-191-1993-sapl-1446.md",
+      "sha256": "b48359edaf492bc884df4efcfce8ea82ed1e6630eba0927a646b93d2a1aafd1e",
+      "bytes": 3189,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-192-1993-sapl-1462.md",
+      "sha256": "039f6bd99f30ae4493e4221f0b576fa0df505afca3611bb3deb7925a6ff376e1",
+      "bytes": 3408,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-193-1993-sapl-1463.md",
+      "sha256": "d110a6e2fbaef30836473cc3a0dbedc88d53dbaa0fbcf7a3c765682009725975",
+      "bytes": 3040,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-194-1993-sapl-1464.md",
+      "sha256": "d822b839cf1abf01e952d5da58eea232761996318e8393cc44199a8cb15b2fbd",
+      "bytes": 3422,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-195-1993-sapl-1465.md",
+      "sha256": "d6ad1ae989c05b730b4b09b80a0921ec181ee16965eb522de2af66759c3db225",
+      "bytes": 3035,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-196-1993-sapl-1466.md",
+      "sha256": "ce42841f069bd00356badc024c2aaad52139542e98b723c20de19003febe6cb1",
+      "bytes": 3494,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-197-1993-sapl-1467.md",
+      "sha256": "156ae5f81a5650d9b9a6053fedfcd4c5374cb56d9557e853bcca07092f5c4a66",
+      "bytes": 2870,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-198-1993-sapl-1473.md",
+      "sha256": "f0d37a51d989d4a9e06994b35bf33e4f5bea334a697e427875e2b8d4fe961a2a",
+      "bytes": 3313,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-199-1993-sapl-1480.md",
+      "sha256": "30e55d5c761ce253332c2734eaf75941e45dffad2a55ebe3108f7113e16849c5",
+      "bytes": 3129,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-200-1993-sapl-1482.md",
+      "sha256": "5de09b43915654dafdba463f9f0b4893d415577f10b3b5149ceaa13df42b0173",
+      "bytes": 3341,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-201-1993-sapl-1483.md",
+      "sha256": "387832845a85dc637ec0d2f2c37a293e636f2b940291910cb2042929782b5851",
+      "bytes": 3026,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-202-1993-sapl-1484.md",
+      "sha256": "4cae122e1135b4d225485999ce568990ee074ce095531970de794c747510b99a",
+      "bytes": 3349,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1993/resolucoes-203-1993-sapl-1485.md",
+      "sha256": "2f122778fbff954043c4312037f4ae7fabb89765c35a595971616ed6bb753e32",
+      "bytes": 3005,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-206-1994-sapl-1390.md",
+      "sha256": "0c80e54eac3ee6d0e99eca8cdd2e5d5088b6f644959c3bce008ad34bdf507d9c",
+      "bytes": 1821,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-209-1994-sapl-1393.md",
+      "sha256": "5039c72b3042f43202ddfd711f6c3956d1eba95c55661c916048fa1887214f82",
+      "bytes": 1665,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-212-1994-sapl-1396.md",
+      "sha256": "b5dcb86b9f02b369b03b04436a9a0c2c48df020b8a2890f943715b3a465f8bb1",
+      "bytes": 3138,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-213-1994-sapl-1397.md",
+      "sha256": "9a064152314a655e2cf2d3ea091e7d98470bf4827e380554671421f0cfd4425b",
+      "bytes": 1875,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-214-1994-sapl-1399.md",
+      "sha256": "467aef48f85f2b3be047ebb78fa63e297dc804ab1b9dc7a57a6fd52e01e8ddd7",
+      "bytes": 3484,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-216-1994-sapl-1402.md",
+      "sha256": "d95e72af891bbb14f63fd8cb0fd6be4a04ecbfb60163ccc8dbbc02642fbdc6f8",
+      "bytes": 3358,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-217-1994-sapl-1403.md",
+      "sha256": "ad841afbd84c5d6318f9bc95493be0eded8d3fbcc735b4de61fb73bca23be819",
+      "bytes": 3044,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-218-1994-sapl-1405.md",
+      "sha256": "0914dcbfe3666eb2b138c69c9692b64403c7eff483431da6f9eb06ddb4d3357e",
+      "bytes": 3396,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-219-1994-sapl-1407.md",
+      "sha256": "4448003ce3722926f342b8e406bc1ff67dad25310fd2f5bf46706224ef491fcc",
+      "bytes": 2996,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-220-1994-sapl-1408.md",
+      "sha256": "0df7665f320a7ba6f4490ef93c5b5b1684c9aab40a04d3a306f5c097b735c23a",
+      "bytes": 3147,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-222-1994-sapl-1412.md",
+      "sha256": "ae60d1190176ceeb32fe6fc2272ec5833e00328cc2e130d35f47c5b0bb868ee9",
+      "bytes": 3209,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-223-1994-sapl-1414.md",
+      "sha256": "5af586f153533171052e494319e58d5de79ee195b322244f9508f9b54d31437e",
+      "bytes": 2868,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-224-1994-sapl-1417.md",
+      "sha256": "6fdf313b4b246fb6736e0cefed719694e17e7423d982a6d1b883fc51a253bab3",
+      "bytes": 3244,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-225-1994-sapl-1421.md",
+      "sha256": "0147a3f39496aff863c85f8b466ca372531480aaa082934d4d0a09653fa6af89",
+      "bytes": 2869,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-226-1994-sapl-1423.md",
+      "sha256": "ea17770d088a4cc80d048b292c23f4f6754c5faad97838188d49f17494d395f8",
+      "bytes": 3185,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-228-1994-sapl-1426.md",
+      "sha256": "dc49b6a19c00b35781d320ef8a9e4bc371e35949afb727ae9dac753d740a5a45",
+      "bytes": 3312,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-230-1994-sapl-1430.md",
+      "sha256": "182f9cf50b50a34395629f9cacb3787d3c36d57f33434d706ec7cc225c936d13",
+      "bytes": 3348,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1994/resolucoes-231-1994-sapl-1432.md",
+      "sha256": "7f88270f4f883d718ae9ff7857e8fdea764df5ecce24cacca591133b6f565ffa",
+      "bytes": 3037,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-232-1995-sapl-1333.md",
+      "sha256": "14be6266ad5c316349036f7aaf3097775c2f73560ae2116ceedfd856bbf9675e",
+      "bytes": 3556,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-234-1995-sapl-1353.md",
+      "sha256": "40c5991003150bf270b4c879dd1aa884016fbe63f04e649e52a579bdffe89397",
+      "bytes": 3346,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-235-1995-sapl-1448.md",
+      "sha256": "01c05cb62dc43e1bd8bb6e28c2ff788c371cb4f36281e927dd74c0c13b1ee4c4",
+      "bytes": 2893,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-236-1995-sapl-1450.md",
+      "sha256": "d9ec12ae28502bec0cce6ff93546616ca3d31b1264e17d5767f59a00bd3050f6",
+      "bytes": 3286,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-238-1995-sapl-1454.md",
+      "sha256": "de57d5c78d693d7549968096865452b84acec5927212569a5db59160ff03b0b5",
+      "bytes": 3137,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-239-1995-sapl-1456.md",
+      "sha256": "12d7d5423c3e1eef2de2ee20756f864b585ba653ab0c8cb9ecb79f8412943aa2",
+      "bytes": 2883,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-240-1995-sapl-1457.md",
+      "sha256": "85f544b950a7f5c61742f3eaee4d657c8e68880e7dac50eca44d3479ec3dd0d3",
+      "bytes": 3213,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-242-1995-sapl-1459.md",
+      "sha256": "51ef42370f2155a29c70b65571ada9640e8a89a4b467a41ae25a9bfdf7be9d2a",
+      "bytes": 3223,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-247-1995-sapl-1470.md",
+      "sha256": "724c27605726bbae6dd2e9b71a28abc48196db10a64f9873369d1b31b0296a30",
+      "bytes": 3244,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-248-1995-sapl-1471.md",
+      "sha256": "ef458c6e64a6e6e37c5326d79854ff4bb4b75f57174fe5049de0ad42c79f984f",
+      "bytes": 2969,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-249-1995-sapl-1472.md",
+      "sha256": "dcffa9dffd436e76ee9bfddbcd80824693866261e2f9fd5be93dc3ef2279a3a3",
+      "bytes": 3252,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-251-1995-sapl-1475.md",
+      "sha256": "d8f510ba6f84b8b3d87d082d49d3d6209bdc4bdce42391a904a4e04c87dc9caf",
+      "bytes": 3236,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-252-1995-sapl-1476.md",
+      "sha256": "349b2e4d57e3896211eab86cdf1c41a43734beb6293aa957e3b6775b9248eba0",
+      "bytes": 2840,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1995/resolucoes-253-1995-sapl-1477.md",
+      "sha256": "5b55d07d535662a98c88a745c65f4cda4ce7145b69f63b0b2420b958b6d26b4c",
+      "bytes": 3171,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-259-1996-sapl-1316.md",
+      "sha256": "db1ef1cf316df8997ce493f064569b603009782f1bba01be44ff36d525b9d856",
+      "bytes": 3274,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-260-1996-sapl-1317.md",
+      "sha256": "d36d988bda84c6dcffb3ae217513175756f70f08c441d66175630e9c14f33271",
+      "bytes": 2912,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-263-1996-sapl-1320.md",
+      "sha256": "1555134e605da0b9fc4bcc7ca05d844079f21f5f1869762e98dd47f6002bbc4c",
+      "bytes": 3190,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-265-1996-sapl-1334.md",
+      "sha256": "7665f0113b010cd5f8a42fd1678b914570b74b162ca0b157c3674476f64513d4",
+      "bytes": 3143,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-267-1996-sapl-1336.md",
+      "sha256": "75f53c018f833b8519bf9fb7bce48ebc554807c06bc0d8924ea40ee06cd88c5a",
+      "bytes": 3211,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-270-1996-sapl-1339.md",
+      "sha256": "f0f491fbde06745c63b5d358bf5b060a7645e430b6969adba1a05912b32f09f5",
+      "bytes": 1771,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-271-1996-sapl-1340.md",
+      "sha256": "a03a9557e0bf277f12d4805d4049b8879a4af09e3cf3f99b8a3bb13a0a6df862",
+      "bytes": 3198,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-272-1996-sapl-1341.md",
+      "sha256": "407ec02db2259c3be1cdd4bff0519d7a9a7056231fa0a180abefaf205e69ccd7",
+      "bytes": 2844,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-273-1996-sapl-1342.md",
+      "sha256": "78a5fa2a3de76792391446b07e7e8d90c435686eb5b023fb3ab784b9fb42e62d",
+      "bytes": 3130,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-275-1996-sapl-1344.md",
+      "sha256": "564e194a66df5f021ac7a92732c92d57bfab6a3d508ead6e39994021e5949cc9",
+      "bytes": 3192,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-277-1996-sapl-1346.md",
+      "sha256": "5a5c9d48fb997328b299c51eb8b6fae91030a8fa313ff73eab66a2426e7e1f70",
+      "bytes": 4445,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-286-1996-sapl-1411.md",
+      "sha256": "633bcc282982f0c23c0491178bfc1331cd2425da33320beacf8b422a1c84f15a",
+      "bytes": 3289,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-288-1996-sapl-1415.md",
+      "sha256": "3c2663b3865a2adfb9f93113a09f8c194c26cddbfc914290530889400a484b00",
+      "bytes": 3153,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-289-1996-sapl-1416.md",
+      "sha256": "55bb7adab0d7a65cb87bc651e5bca8a69881db645e40784070461c0cbd4d1e1b",
+      "bytes": 2901,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1996/resolucoes-290-1996-sapl-1434.md",
+      "sha256": "ee5bb76eb80dd035277f346b141901ab131d7c6a90589fb59c2d754cd4854b01",
+      "bytes": 1696,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-290-1997-sapl-1281.md",
+      "sha256": "f70ad78b2e6d6c118eb59da904adbb034b5d1eeace9667749ca5c7cac374f032",
+      "bytes": 3353,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-292-1997-sapl-1284.md",
+      "sha256": "c26fc4e4bd3b584cfcbfb2a1f0016d9262cd2b80e5e743c67601faece3003aa7",
+      "bytes": 3299,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-293-1997-sapl-1285.md",
+      "sha256": "2da76297d26b37b408b1934df784a9b045e5c939ddc7ded8c14a414bbeb1636e",
+      "bytes": 2914,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-295-1997-sapl-1287.md",
+      "sha256": "dc60f324063da99d6dded3cbef09b94e2f307f1cdd71cb907fa958f534142b0b",
+      "bytes": 3225,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-297-1997-sapl-1289.md",
+      "sha256": "b6e9f9042ba3e43eff544aebb61883ab120dcb0609cc1e3d7f4779f69649095e",
+      "bytes": 3209,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-298-1997-sapl-1290.md",
+      "sha256": "5161d92cb8492cc496e673cf1fb079f06e2aafef9ce31e2d2d12bd6f2425ed48",
+      "bytes": 2880,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-299-1997-sapl-1291.md",
+      "sha256": "eb991380950bca6554291d01b59cac1ab3880f8aae196f5256c7e610cbe7d8d8",
+      "bytes": 3384,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-300-1997-sapl-1292.md",
+      "sha256": "e4fd579e5248a09398cb1e7b08b615df1390898b9a5eb7c5da4bbb751c7a919f",
+      "bytes": 2884,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-301-1997-sapl-1293.md",
+      "sha256": "2bfdbe442b45c2e45022cd74021e15f2588c996971b6e02595f6d33d296f6bc4",
+      "bytes": 3358,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-302-1997-sapl-1294.md",
+      "sha256": "22ef51ec0cfd70d75bad87235115d0584e97e72184f13bc1dbaf2b54c7b87180",
+      "bytes": 2834,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-303-1997-sapl-1295.md",
+      "sha256": "f66095a707975c293f6df5b0dc6b2218b06a51a37d3cb1b224793db991258668",
+      "bytes": 3331,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-304-1997-sapl-1296.md",
+      "sha256": "afb51a068d7c118595331b9d156b7b8517f36d2092601ff876567739618040ea",
+      "bytes": 2922,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-305-1997-sapl-1297.md",
+      "sha256": "4db585fd8bab2975cac8078d7da4db6386a038e6aba5da688b076e930c4113a5",
+      "bytes": 3334,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-306-1997-sapl-1298.md",
+      "sha256": "472142cb7a18b4d74b202b4e7ab58dafb6a0881dd6d40b13ffc64017ed2ade92",
+      "bytes": 2975,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-307-1997-sapl-1299.md",
+      "sha256": "799dd85ff52a8c01fca50484bea513b9875dfa0f7e2904abfdf4ac1da243b707",
+      "bytes": 3361,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-308-1997-sapl-1300.md",
+      "sha256": "b328091503af87e1a7be923a2e68c92749c156e54461afc99e9f89f9da2585ef",
+      "bytes": 2926,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-309-1997-sapl-1301.md",
+      "sha256": "29be046c1d97bbe5c82ba5d9ddee4641761dfaee42b05ab1df7c86c0e2871d78",
+      "bytes": 1989,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-310-1997-sapl-1302.md",
+      "sha256": "5e1412ea3981049bbdbcfebb76aea1b7e11dee443865baf115429f7654cde0fc",
+      "bytes": 3353,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-311-1997-sapl-1303.md",
+      "sha256": "a8f0eb6d5445151d8252a5f46ac781436ab66fab9f9b6c16e9778dad7edc680b",
+      "bytes": 2864,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-312-1997-sapl-1304.md",
+      "sha256": "6ad24dc8cfb7882303c45215a8f4f845928e546e79bb0464b179302dca39620c",
+      "bytes": 2104,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-313-1997-sapl-1305.md",
+      "sha256": "f9c47946525b66ac1c480fe48052bce500e02ecc104ae92275b548ec9f908d8c",
+      "bytes": 3253,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-314-1997-sapl-1306.md",
+      "sha256": "b71e80bba3d48c04069154eedeebaeefa158349b83fb0379bbb170625962c513",
+      "bytes": 2864,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-315-1997-sapl-1307.md",
+      "sha256": "6e3d94ddb29867730ce5ab5b5b739c53b9226dec82b35886d0b6e9584e4dddd9",
+      "bytes": 3395,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1997/resolucoes-316-1997-sapl-1308.md",
+      "sha256": "f1c4571ea84698d05ae8b88b6f096bcd3641afa5a7b79a2025769db94ff9ce2b",
+      "bytes": 2930,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-317-1998-sapl-1214.md",
+      "sha256": "afda7a3f3b4c6828d8a931b71597a3a63bb0e53a3747bf3968ec7e2d2cbd69ab",
+      "bytes": 3302,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-318-1998-sapl-1215.md",
+      "sha256": "3bd53f9982bd1b4dd73c22bcae72c089679bd96f4e45df0203f8e3f0eb02345d",
+      "bytes": 2885,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-319-1998-sapl-1218.md",
+      "sha256": "521fae46b3c970f4cbf64b74ca41aab6d06fc4ac626d85cc2461a500977f09bb",
+      "bytes": 3306,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-320-1998-sapl-1219.md",
+      "sha256": "20b72d4fe94bcffb76c45c494b67bdb02c27309165fbaf59d632d92afc79c4d1",
+      "bytes": 2854,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-321-1998-sapl-1221.md",
+      "sha256": "82f3d1a4812acc499678f043f842abb64643a1027a59309a3ae14a927ef88e6c",
+      "bytes": 3315,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-322-1998-sapl-1223.md",
+      "sha256": "87d5fd853b93bbfc9bbc4e2cc4d136f377c85d4bbc6800c8530e06df09f8e81e",
+      "bytes": 2869,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-323-1998-sapl-1224.md",
+      "sha256": "e6fc183dea13fb5ba7c0cecaca0d08278d34524efe5d29b411ae0d414b09d8c3",
+      "bytes": 3376,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-324-1998-sapl-1228.md",
+      "sha256": "e6d7c0f846e715a506bb9a4ef3cb144f0e1fe3735bb8075ed8e719a9c5a520c5",
+      "bytes": 2875,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-325-1998-sapl-1237.md",
+      "sha256": "018c0b78ea16f185ba6d47dbc47d1bad086ba8270f4cafeb7c8f5187f1c9b29f",
+      "bytes": 3248,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-326-1998-sapl-1238.md",
+      "sha256": "b1ffcdb11e1808964f50ab1c13389e76b1f09ed669c5ef3c824e34f92e866f2c",
+      "bytes": 2834,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-327-1998-sapl-1239.md",
+      "sha256": "7b870b5cf0f6239182230e193ffb93f65abf3bbfe394f548ec9ef154803cecf0",
+      "bytes": 3335,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-328-1998-sapl-1240.md",
+      "sha256": "bc0fe93ab0d0013c598b8dd9760fbd604e62c65db17d6610d59e8a9d69345fbc",
+      "bytes": 2808,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-329-1998-sapl-1241.md",
+      "sha256": "7fb81be37aa50511251a055a41b72e169ef6c7d9a745f198901859273dee64d7",
+      "bytes": 3281,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-330-1998-sapl-1242.md",
+      "sha256": "3da1ee4c9bc0e2bf15751e8c31d79322eae0bec5b85aadf441b1828f91368a33",
+      "bytes": 2876,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-331-1998-sapl-1243.md",
+      "sha256": "9fdd08360746154fa0c857989a11549f4b705e56901af72f1902d154756f21a5",
+      "bytes": 3328,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-332-1998-sapl-1244.md",
+      "sha256": "dca4b33fff9bb594b235a264e91ad36619a401742b54f872a978846ef2741c5f",
+      "bytes": 2915,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-333-1998-sapl-1245.md",
+      "sha256": "9cf2a6ccf8bceea0438a797c49dab4c7ecc4c7fb35c45957ee06f4c8b083c984",
+      "bytes": 3373,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-334-1998-sapl-1246.md",
+      "sha256": "0c325499965d9dda1fcce727c931b159394066a0f549359dae3516a55def5959",
+      "bytes": 2898,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1998/resolucoes-335-1998-sapl-1247.md",
+      "sha256": "c87d98ebfb09b97af0c03ff0e38edcbf33c58b2c556633e7e45e9c0ebf846f3a",
+      "bytes": 3258,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-339-1999-sapl-1160.md",
+      "sha256": "9fa2b97a0ba8811139f3a5c0ed2926c525642b5fad0c2112c16cd968ff7b09e5",
+      "bytes": 3248,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-340-1999-sapl-1161.md",
+      "sha256": "cb779def6fc1b820bd28d232f7e2f2840c13fc2294cb5da5dfd4ac23737a12b5",
+      "bytes": 2797,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-341-1999-sapl-1162.md",
+      "sha256": "5237016f06ac3ecb5f9f9049418f8220df9e6301f0d7ada19d508bcac0882b2b",
+      "bytes": 3269,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-342-1999-sapl-1163.md",
+      "sha256": "e1f31e65f8e4ba7ef755fbdddae164299cdcb87f77aad30ad4ca704be43af478",
+      "bytes": 2887,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-343-1999-sapl-1164.md",
+      "sha256": "413c6377608806d87e378a2dffd565ce71652dd25a91880441b5f0d0b715f369",
+      "bytes": 3327,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-344-1999-sapl-1165.md",
+      "sha256": "2b8d630516cfc860e0eade08d3f82f7e30c4398f2c4b48edd4ed68f06de1e976",
+      "bytes": 2842,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-345-1999-sapl-1166.md",
+      "sha256": "baf87cb5455a2697587fc9b41974fad3e40e76727d467da86ecb18af90c4f794",
+      "bytes": 3260,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-346-1999-sapl-1167.md",
+      "sha256": "05ccec15bda94fe99ee21ce45eb2e0752816b77237e00b4e11f29bff46c67e63",
+      "bytes": 2962,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-347-1999-sapl-1168.md",
+      "sha256": "316f20ee6a021acf6a655a86655da0be1af2e8cabf346680aaf680125ce2f91d",
+      "bytes": 3297,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-348-1999-sapl-1169.md",
+      "sha256": "cb77bb0ddca3328985431ed88c6eceda483bd3ca8a0214cd5f358a2e4f5c39df",
+      "bytes": 2871,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-349-1999-sapl-1170.md",
+      "sha256": "27e0c2d4c543675c4aa00acdfab4dad0a9848b13c1b7fad35773d4ab75d7e88e",
+      "bytes": 3201,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-350-1999-sapl-1171.md",
+      "sha256": "4ae0fd8cadaac1cc29debb2b2147c8cebc53cd9142b34777615b751bac5d3479",
+      "bytes": 2904,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-351-1999-sapl-1172.md",
+      "sha256": "0aea642650bfdcd36b09b44a15c20b78014d863c9162c8edc41f04651f6b5010",
+      "bytes": 3286,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-352-1999-sapl-1173.md",
+      "sha256": "cc00d66e11621663d3916cf543b6f07ab1f5e850c1e30b2a85d0bbaeba4f0c56",
+      "bytes": 2794,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-353-1999-sapl-1174.md",
+      "sha256": "ac41cf5d0569e55af021e434df8d79893d52d8d7b533bfd24c14abcac3ef9c50",
+      "bytes": 3401,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-354-1999-sapl-1175.md",
+      "sha256": "a5f4aebe881b9b2c3f8c20ad8213cb03b6107e47980343c208dfdcb2e5bca23c",
+      "bytes": 2877,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-355-1999-sapl-1176.md",
+      "sha256": "e239bbf89eb772fded92c10fb62ea5bfd623fd4a1cd89b7ccf711d20a78b7c8d",
+      "bytes": 3170,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-356-1999-sapl-1177.md",
+      "sha256": "c8456f3a65d6ad75190a655ad1405feecc6c7132c5f05f5393a61849b40fbca3",
+      "bytes": 2842,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-357-1999-sapl-1186.md",
+      "sha256": "a863a38b751ed3874b145aef264010e9f3c1edc77abc4a4314d527a5011b3bca",
+      "bytes": 1992,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-358-1999-sapl-1178.md",
+      "sha256": "bf8cd1cb797996f3dd56429dd17296a310ab2c1924178f78e6d0b7057b3b491f",
+      "bytes": 3303,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-359-1999-sapl-1179.md",
+      "sha256": "fd37fee7c0ceb6a25765bf26d87b3f662006544a151150d771a176b5517832c2",
+      "bytes": 2897,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-360-1999-sapl-1180.md",
+      "sha256": "c4b9151d091ed67f0e8210d642029c12a9a4e2a59b708d425f74ffe82c1b67e4",
+      "bytes": 3275,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-361-1999-sapl-1181.md",
+      "sha256": "e548dd4cb6b1aac4bb415bc3c437b551db4639f7b23886abdc164d94e6487727",
+      "bytes": 2873,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-362-1999-sapl-1182.md",
+      "sha256": "246bdd61b8d760229ece86803f85d73a4f0eb4a7b3afbfb1e9ca8247430cda18",
+      "bytes": 3386,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-363-1999-sapl-1183.md",
+      "sha256": "61db99fc562724dd8fcd08aba317cbe5faf3fd86e20d2849c73a1bd3824ae12c",
+      "bytes": 2900,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-364-1999-sapl-1184.md",
+      "sha256": "4f188205cf61c93a2b623900d5d91d108fb2583331f0dbd556de700b7882b795",
+      "bytes": 3235,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/1999/resolucoes-365-1999-sapl-1185.md",
+      "sha256": "b6ec1068b36f7596ee83f6f554ceba323a1858d9d56dcf6facbf21d45725c113",
+      "bytes": 2903,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-366-2000-sapl-1143.md",
+      "sha256": "70f7b094a9f4e09d6b67d772566dcc7a937cf7a970b1f6af58c2904a807b7d6b",
+      "bytes": 3285,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-367-2000-sapl-1142.md",
+      "sha256": "4b3f30c6ee04a03f933e9bdc87441fd8e8ee540dcbd7f88d399043a1b5a5802d",
+      "bytes": 3016,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-368-2000-sapl-1141.md",
+      "sha256": "0974d1b91d45cf875c1576bb4227d19b7ab3cdf0d47c9eea604523c42856b41e",
+      "bytes": 3382,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-369-2000-sapl-1140.md",
+      "sha256": "c1cb18da7edb05e2eb0fbfba2d5f947a3f9f5a62c7ddef96741b8a86a5d62c89",
+      "bytes": 2981,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-370-2000-sapl-1139.md",
+      "sha256": "4bc8ad3e4f5ba2321eb18d5421f69ade31830858c652cd3df031ae091aeea7ff",
+      "bytes": 3259,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-371-2000-sapl-1138.md",
+      "sha256": "88293e527a4a3c1b78086de0d6263048515c908b3bbc3deed0af360c5a6c3d69",
+      "bytes": 2929,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-372-2000-sapl-1137.md",
+      "sha256": "41a4628ee96ea2b3c4779ae1878440a765d921622faffd9562c92a415d6419cc",
+      "bytes": 1981,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-373-2000-sapl-1136.md",
+      "sha256": "c4afa7caa1736269ab5037f2cdda7886e2cad8e964b7cd55cd091087af457496",
+      "bytes": 3253,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-374-2000-sapl-1135.md",
+      "sha256": "227b3c45da7f76ddc4d7866fb31dbf100baff454a682bcdfee4ede8d5222f2cf",
+      "bytes": 2938,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-375-2000-sapl-1134.md",
+      "sha256": "ad53c8e9d3ca2538d035e3f441a3ee78ac3e9621987cd61625f9c8c4a9cd2307",
+      "bytes": 3398,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-376-2000-sapl-1133.md",
+      "sha256": "4e996ed6d32380d38416b9b5982ed9005b942ccdcfa0723ecbba82140488fbc0",
+      "bytes": 2962,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-377-2000-sapl-1132.md",
+      "sha256": "c435b6c8f440d791d5df614cf7fbbb1585b29c944ae264cf66ecd176b7950a72",
+      "bytes": 3377,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-378-2000-sapl-1131.md",
+      "sha256": "b6d9cb2c69f0c31a3054db81535be177a3f3c3ac6e59d287dfcdede5ba2c06fc",
+      "bytes": 2953,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-379-2000-sapl-1130.md",
+      "sha256": "63819cb37c5fd2094a3f6b7980e1f4ca5a4ba95645aacf56f4ec69a646407ec7",
+      "bytes": 3370,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-380-2000-sapl-1129.md",
+      "sha256": "0e56d0f94e2cd8f3600b27a51bdc2f5f310dfe55b668441cbc21440f7fe726b7",
+      "bytes": 2995,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-381-2000-sapl-1128.md",
+      "sha256": "c8523fd891485ccc71dea366f4e10f9c7c1e5541c2b496d273ebb15ce5032541",
+      "bytes": 2498,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-382-2000-sapl-1127.md",
+      "sha256": "7b6318ef5fb565e9ec06b560c4d12f6ef91e595bf581bb4cab6086240732e70f",
+      "bytes": 3021,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-383-2000-sapl-1126.md",
+      "sha256": "1521a4fdc702b934e4737302e3aec067b811fbf4fac3a81e80070533a68f5744",
+      "bytes": 2791,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-384-2000-sapl-1125.md",
+      "sha256": "36cc82ede3893e77658c2f87e6870cfe78717f8f5072f41ce5b6e3a1d708105e",
+      "bytes": 3411,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-385-2000-sapl-1124.md",
+      "sha256": "df5e6e62fb5c620079096684db1e0da36b383430a4e887cb1fa54f1e24921b70",
+      "bytes": 2373,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-386-2000-sapl-1123.md",
+      "sha256": "a0d45e14131b0f40365587d64c4e0c8e0ad789853ce73f9a09bbb4b2a9fba8be",
+      "bytes": 2477,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-387-2000-sapl-1122.md",
+      "sha256": "fc2eb4af8c8925c90ae1da87ee5c259ae984d4a902297ca16f6f362f6f19ea37",
+      "bytes": 3067,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-388-2000-sapl-1121.md",
+      "sha256": "843e6b27b7658752f3f2c167c7ba53bcc53886d63b961ef2be9ba9b3690493a5",
+      "bytes": 1821,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-389-2000-sapl-1120.md",
+      "sha256": "ab85c6014690baf0bc930c8bbf582948d64fd9e35ef8119f4e63442ee037c030",
+      "bytes": 3193,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-390-2000-sapl-1119.md",
+      "sha256": "15b1e0db5c2216e9b2e748dfa12385cb8678f0236dede6109d3e988a2702674c",
+      "bytes": 2851,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-391-2000-sapl-1118.md",
+      "sha256": "5fe4f8d94035b0670b47843b5822acb266e40a4832298471e8b4bf939e925e06",
+      "bytes": 1540,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-392-2000-sapl-1117.md",
+      "sha256": "75a81b71216db280d7f29c5f203c8b3e67d70148b979eae6184ceb0ea289698a",
+      "bytes": 1553,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-393-2000-sapl-1116.md",
+      "sha256": "c35ea534cd72e2c85fe9e95854c348f5822f9c4b36cac8a099c5bcb1e06a66ad",
+      "bytes": 3321,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-394-2000-sapl-1115.md",
+      "sha256": "a0f15fa57b889972b14e3ca451bc18d91fbca58d384f804d68e745325d9d9c2d",
+      "bytes": 2818,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2000/resolucoes-395-2000-sapl-1114.md",
+      "sha256": "401470ad64c84b5f4bf5e0d216a8eeefd2245214b996ecb2181c388405a26c69",
+      "bytes": 1698,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2001/resolucoes-396-2001-sapl-1089.md",
+      "sha256": "431afa0384c5a7ca3c39734a5a95c4f2300350ea2a271f75462d4dc199a6e2a3",
+      "bytes": 2007,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2002/resolucoes-397-2002-sapl-1053.md",
+      "sha256": "7503c61116e05019e972731180d1187cce7dae09feaf4feb09971450050b6430",
+      "bytes": 1948,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2002/resolucoes-398-2002-sapl-1052.md",
+      "sha256": "80e813a21fb4dcad564d1432e831c773c8643fcd04d1ce02397ac151259fa3cb",
+      "bytes": 1756,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2003/resolucoes-399-2003-sapl-1051.md",
+      "sha256": "8ec5069d77a901bb990a91e73b760be87285da85a23915056f4579dfc3dfea00",
+      "bytes": 2808,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2004/resolucoes-400-2004-sapl-1028.md",
+      "sha256": "62c8d34d73d2e4a343dcd8fac1f99aab6fe38d4be046a31032ef52f5c6e07ec2",
+      "bytes": 2245,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2004/resolucoes-401-2004-sapl-1029.md",
+      "sha256": "41de1810f7c89bd29b3a22ed07d688247d10966ccf75626634b6ea67616c2dd4",
+      "bytes": 1801,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2004/resolucoes-402-2004-sapl-1030.md",
+      "sha256": "253808ecb9f7b3d78c307dc4da234f74cc3762411cddb8c35ec4b991598edf7b",
+      "bytes": 1803,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2004/resolucoes-403-2004-sapl-1031.md",
+      "sha256": "924c93576301abbe56da1c88ac212bb31074eca31ba833461b7d5e41d352c720",
+      "bytes": 1515,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2004/resolucoes-405-2004-sapl-1033.md",
+      "sha256": "3769faa8209670208caf69930334d021bc209989f45456b443d9a2a7ed5c1cb1",
+      "bytes": 3048,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2004/resolucoes-406-2004-sapl-1034.md",
+      "sha256": "b200be35bb9bd72562fec0896f193990a55bcec9bea3db8b8498f3d75bf054b4",
+      "bytes": 1899,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2005/resolucoes-407-2005-sapl-930.md",
+      "sha256": "643eb621905530e17da427b82494a3f0ef3e2e33fbb6d66827b57db1179ac1f8",
+      "bytes": 2105,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2005/resolucoes-408-2005-sapl-932.md",
+      "sha256": "391e22e35edb3df1b280dde751fb88f82566552b0404c3892c82c636f05436eb",
+      "bytes": 2211,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2005/resolucoes-409-2005-sapl-925.md",
+      "sha256": "07faec78127f1128d1654d455433f1ff971d370770087989cec8e2b40c5021a8",
+      "bytes": 1650,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2005/resolucoes-410-2005-sapl-922.md",
+      "sha256": "2b4503dfcfc1f1a5f2a3bc0ab839efa2bd77c39f80a41d56c321a6283614275f",
+      "bytes": 2165,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2005/resolucoes-411-2005-sapl-913.md",
+      "sha256": "b4ae40b5db7a34b3039810a87311921b64b7f55ecf8be563810e20c660846c13",
+      "bytes": 1731,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2005/resolucoes-412-2005-sapl-912.md",
+      "sha256": "f16a54b6c9d5a3a5430dc6edbcdad1831264d91e697e8637e1392c2142c22eb1",
+      "bytes": 1862,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2006/resolucoes-413-2006-sapl-884.md",
+      "sha256": "293403bf07e3437516d93f8e3a8518cad2b36ad2e14811c6ab452f38dc994448",
+      "bytes": 2296,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2007/resolucoes-415-2007-sapl-895.md",
+      "sha256": "093e0460b086f9092ad01f6a3cce5857569a22856f687b9d708a147da7c92d71",
+      "bytes": 2367,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2007/resolucoes-416-2007-sapl-897.md",
+      "sha256": "d49c7803e80817c386d733d22ae8f26424f79708ba33814724eeadaf55941e70",
+      "bytes": 1813,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2007/resolucoes-417-2007-sapl-900.md",
+      "sha256": "b8340ae90e070d5603cc35f1d0e8a0ca5f4f83deb939d9a38b2800ef1dcef7c4",
+      "bytes": 2198,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2007/resolucoes-418-2007-sapl-903.md",
+      "sha256": "e2fd9c5d2cb93940465aeb34054699830e3da52a1db38adf4564ddb1236e09da",
+      "bytes": 1799,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2008/resolucoes-419-2008-sapl-870.md",
+      "sha256": "406f900d19551efc218fdfa0bfaf59f07d5356218d60c76b22430c08fc7fbaf3",
+      "bytes": 2204,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2008/resolucoes-420-2008-sapl-872.md",
+      "sha256": "4f93d87373d6bae2c134fd6963c48da8fbfe10f9710a1eda6d61df4608a8b7c7",
+      "bytes": 2278,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2008/resolucoes-421-2008-sapl-875.md",
+      "sha256": "915a32ca25bf51548eac16c27a1a7bf9ad0abd91ee3cf0e073f3236b38dc33c1",
+      "bytes": 1840,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-422-2009-sapl-954.md",
+      "sha256": "9df29c5665bc39fe7182ed1f06a13698d14f299c6ec1c9ffcc71a586d0234290",
+      "bytes": 2147,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-423-2009-sapl-978.md",
+      "sha256": "f45be47e1660ee9e8ddc5a7f30b0c7fc34884fbb4825d5e1bafe10a6839bb48c",
+      "bytes": 1724,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-424-2009-sapl-979.md",
+      "sha256": "bac034e6fb08f59614616c7acad47578fd89413b01b9b50b175095631e68baca",
+      "bytes": 1736,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-425-2009-sapl-1003.md",
+      "sha256": "377a56176615b3011b88bf4e633d5e29bcbe8cae9912236d9972698523041d38",
+      "bytes": 1706,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-425-2009-sapl-980.md",
+      "sha256": "24eaaeca19797f71822ae1ee32f3f7a7c786fd79abd2294d79d2e4e4e4a52570",
+      "bytes": 1809,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-426-2009-sapl-996.md",
+      "sha256": "8bea518f9eca30d9872936373e4a1909a7c31a72bb8c4f9475f5efb8a9ba30e5",
+      "bytes": 1836,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-427-2009-sapl-997.md",
+      "sha256": "5138b7429522fb33eb9f2a35ba0cdc5f10071834559941763fe151c909dcdf94",
+      "bytes": 2340,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-428-2009-sapl-998.md",
+      "sha256": "af6528b862d6ca020676e6ebb99b39ca5701ac68d7b604466f0090b2cd4dec84",
+      "bytes": 40879,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2009/resolucoes-429-2009-sapl-999.md",
+      "sha256": "0b4f3fcf525f5f735c7e7fa6eb01f3ce4adf9b88aaa8d67885a3bcb3150fedf1",
+      "bytes": 1817,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2010/resolucoes-431-2010-sapl-828.md",
+      "sha256": "802c3301572437f8ce5a6c53c6e7f1313b58a73808d3e9d9e31aad4120774eaf",
+      "bytes": 2076,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2010/resolucoes-432-2010-sapl-831.md",
+      "sha256": "97ef4c1f4810515ea367f92a40d911cc218b794ee54758b28b4f42d8b5281f30",
+      "bytes": 1994,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2011/resolucoes-433-2011-sapl-691.md",
+      "sha256": "acb583b0225c35634b789cf8d447c078897f4291c6587ed2c2f7cc2f93f52806",
+      "bytes": 2409,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2011/resolucoes-435-2011-sapl-693.md",
+      "sha256": "403fb2cf50d1e73dd1fde2dfc4dad3e733b8a7c40dbd64dbdd3c6ce041f5e27c",
+      "bytes": 1738,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2011/resolucoes-436-2011-sapl-694.md",
+      "sha256": "c8f4b5976c3e6f824a900e761a7e2b4cfe01222477156265f8b35c31925b29f0",
+      "bytes": 2098,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2011/resolucoes-437-2011-sapl-695.md",
+      "sha256": "d7eee106945019f274fa74fbf6a0659c8807a176827643c363a89f7be762213c",
+      "bytes": 1665,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2011/resolucoes-438-2011-sapl-696.md",
+      "sha256": "cbfa0867ca68dcc77620faf7c9ada3beb19671107e2e16ff29c00490f4c9b863",
+      "bytes": 1676,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2011/resolucoes-439-2011-sapl-697.md",
+      "sha256": "84ce651e7d8c6e4245c9c5c0ae5275e3afc47f20c7d0ff673d0f5e6f0ae19d96",
+      "bytes": 1679,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2011/resolucoes-440-2011-sapl-699.md",
+      "sha256": "c4d5e37d59ffcd183f4f6d8cdf6079e22565c997cd3e8fa63fddd68e01c05114",
+      "bytes": 3633,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-462-2016-sapl-522.md",
+      "sha256": "649bd855831e107d2db62d676b81cf01e41bd146c39f34f295d2ffc3291b1e17",
+      "bytes": 2239,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-463-2016-sapl-523.md",
+      "sha256": "6dbbd32f4066c903ce4f5654ec7667018588e4eb18721ac6a4fbd75a8103d940",
+      "bytes": 2628,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-464-2016-sapl-524.md",
+      "sha256": "ac8b450dd4ab35c565a117a1153a2ac8edcf70a7e390024ae65608bcdc28cf06",
+      "bytes": 1825,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-465-2016-sapl-525.md",
+      "sha256": "6c4968b9f4c87e8608a98d3d28c3557c29b7f999b28eefcc94090ddfc9285a38",
+      "bytes": 2210,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-466-2016-sapl-526.md",
+      "sha256": "977854a3f64d1d35dc54a00d4f9278e6f532e644d30bcca1df6771fab23c5030",
+      "bytes": 2070,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-467-2016-sapl-527.md",
+      "sha256": "2af6f9c3a15fee93704b75b075f75c38fcb6900e85ac483f6a06c7aede2e410b",
+      "bytes": 2266,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-468-2016-sapl-557.md",
+      "sha256": "a521ac74bcce11c6ee6a6da60135990fc122812302d2773ed16750f209391c4a",
+      "bytes": 201761,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2016/resolucoes-469-2016-sapl-558.md",
+      "sha256": "7f0af614886954f71a2ed4cf5322742a15c00b76a0b39844b28ad6563bfbcd14",
+      "bytes": 1893,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2017/resolucoes-470-2017-sapl-573.md",
+      "sha256": "f46637cbab56edddd27bf31e658af46d35983b042e7ab70658abed3f9e6085e8",
+      "bytes": 8225,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2018/resolucoes-471-2018-sapl-432.md",
+      "sha256": "b030f760cba089f875cdaa8f1d7e1bfaac4442988f53d5beb2d4312035cb7e7d",
+      "bytes": 12002,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2018/resolucoes-472-2018-sapl-434.md",
+      "sha256": "f185caea678a4b5debb830b521b1c180b633bd0522b961e6896adf5eaaa32898",
+      "bytes": 1869,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2018/resolucoes-473-2018-sapl-485.md",
+      "sha256": "3768941dc8be39cb789dc5e62e585c09e8afda71b1cec0357d8ef34cf9e79f45",
+      "bytes": 174822,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2019/resolucoes-474-2019-sapl-480.md",
+      "sha256": "b1cc117e59b7e4ecdb9dbe2c828e45cfa1864dd6916664a45594dcb917d6e844",
+      "bytes": 18333,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2026/resolucoes-489-2026-sapl-2501.md",
+      "sha256": "597ab3f128cb147bf734074e2aa32cbe5bcaa0d329304b99c2c125456cd14946",
+      "bytes": 8939,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    },
+    {
+      "arquivo": "municipais/MG/itatiaiucu/resolucoes/2026/resolucoes-490-2026-sapl-2504.md",
+      "sha256": "3bc520dbf9ed6132d6fbfb667d43241860aed2a94c052ad638b19fd352b5f3df",
+      "bytes": 14461,
+      "host": "sapl.itatiaiucu.mg.leg.br"
+    }
+  ]
+}

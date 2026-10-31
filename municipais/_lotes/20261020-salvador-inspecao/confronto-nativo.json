@@ -1,0 +1,254 @@
+{
+  "paginas": 89,
+  "tokens": 29482,
+  "divergencias": [
+    {
+      "pagina": 2,
+      "mesmas_palavras": true,
+      "primeira_diferenca": {
+        "offset": 9,
+        "layout": [
+          "2024",
+          "Diretor",
+          "Legislativo",
+          "Diretor",
+          "Geral",
+          "Carlos",
+          "Lima",
+          "Cavalcanti",
+          "Neto",
+          "Adriano"
+        ],
+        "bbox": [
+          "2024",
+          "Diretor",
+          "Legislativo",
+          "Carlos",
+          "Lima",
+          "Cavalcanti",
+          "Neto",
+          "Diretor",
+          "Geral",
+          "Adriano"
+        ]
+      }
+    },
+    {
+      "pagina": 12,
+      "mesmas_palavras": false,
+      "primeira_diferenca": {
+        "offset": 289,
+        "layout": [
+          "não",
+          "superior",
+          "a",
+          "250m2",
+          "duzentos",
+          "e",
+          "cinquenta",
+          "metros",
+          "quadrados",
+          "nos"
+        ],
+        "bbox": [
+          "não",
+          "superior",
+          "a",
+          "250m",
+          "2",
+          "duzentos",
+          "e",
+          "cinquenta",
+          "metros",
+          "quadrados"
+        ]
+      }
+    },
+    {
+      "pagina": 39,
+      "mesmas_palavras": true,
+      "primeira_diferenca": {
+        "offset": 250,
+        "layout": [
+          "transferência",
+          "de",
+          "propriedade",
+          "das",
+          "áreas",
+          "remanescentes",
+          "ou",
+          "especialmente",
+          "destinadas",
+          "à"
+        ],
+        "bbox": [
+          "transferência",
+          "de",
+          "propriedade",
+          "especialmente",
+          "destinadas",
+          "à",
+          "incorporação",
+          "das",
+          "áreas",
+          "remanescentes"
+        ]
+      }
+    },
+    {
+      "pagina": 47,
+      "mesmas_palavras": true,
+      "primeira_diferenca": {
+        "offset": 62,
+        "layout": [
+          "64",
+          "sessenta",
+          "e",
+          "36",
+          "quatro",
+          "anos",
+          "de",
+          "idade",
+          "se",
+          "homem"
+        ],
+        "bbox": [
+          "64",
+          "sessenta",
+          "e",
+          "quatro",
+          "anos",
+          "de",
+          "idade",
+          "se",
+          "homem",
+          "observados"
+        ]
+      }
+    },
+    {
+      "pagina": 51,
+      "mesmas_palavras": false,
+      "primeira_diferenca": {
+        "offset": 109,
+        "layout": [
+          "Poder",
+          "de",
+          "Tributar",
+          "03Art",
+          "151",
+          "Sem",
+          "prejuízo",
+          "de",
+          "outras",
+          "garantias"
+        ],
+        "bbox": [
+          "Poder",
+          "de",
+          "Tributar",
+          "03",
+          "Art",
+          "151",
+          "Sem",
+          "prejuízo",
+          "de",
+          "outras"
+        ]
+      }
+    },
+    {
+      "pagina": 64,
+      "mesmas_palavras": true,
+      "primeira_diferenca": {
+        "offset": 303,
+        "layout": [
+          "Os",
+          "programas",
+          "de",
+          "amparo",
+          "aos",
+          "idosos",
+          "serão",
+          "executados",
+          "preferencialmente",
+          "nos"
+        ],
+        "bbox": [
+          "Os",
+          "programas",
+          "de",
+          "preferencialmente",
+          "nos",
+          "seus",
+          "lares",
+          "amparo",
+          "aos",
+          "idosos"
+        ]
+      }
+    },
+    {
+      "pagina": 88,
+      "mesmas_palavras": false,
+      "primeira_diferenca": {
+        "offset": 135,
+        "layout": [
+          "com",
+          "mais",
+          "de",
+          "250m2",
+          "duzentos",
+          "e",
+          "cinquenta",
+          "metros",
+          "quadrados",
+          "que"
+        ],
+        "bbox": [
+          "com",
+          "mais",
+          "de",
+          "250m",
+          "2",
+          "duzentos",
+          "e",
+          "cinquenta",
+          "metros",
+          "quadrados"
+        ]
+      }
+    },
+    {
+      "pagina": 89,
+      "mesmas_palavras": false,
+      "primeira_diferenca": {
+        "offset": 70,
+        "layout": [
+          "sem",
+          "oposição",
+          "até",
+          "250m2",
+          "duzentos",
+          "e",
+          "cinquenta",
+          "metros",
+          "quadrados",
+          "de"
+        ],
+        "bbox": [
+          "sem",
+          "oposição",
+          "até",
+          "250m",
+          "2",
+          "duzentos",
+          "e",
+          "cinquenta",
+          "metros",
+          "quadrados"
+        ]
+      }
+    }
+  ]
+}

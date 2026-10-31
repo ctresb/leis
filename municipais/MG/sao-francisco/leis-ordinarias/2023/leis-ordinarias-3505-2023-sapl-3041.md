@@ -1,0 +1,2251 @@
+---
+titulo: "Lei Ordinária nº 3.505, de 05 de dezembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3505"
+data: "2023-12-05"
+municipio: "São Francisco"
+uf: "MG"
+codigo_ibge: "3161106"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.saofrancisco.mg.leg.br/norma/3041"
+fonte_texto: "https://sapl.saofrancisco.mg.leg.br/media/sapl/public/normajuridica/2023/3041/3505.pdf"
+sha256_fonte: "c6e3f4efd1bf9cbb01e913843248b891698458ef92d434e056c7eb3494699106"
+sha256_texto: "6f9471bacbb3e2fe48cd6482e0b547303f91b236e671847a2ad3d9df24f5482f"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 3.505, de 05 de dezembro de 2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+MINAS GERAIS Rua Montes Claros n°. 243 - Centro - CEP 39.300-000 - CNPJ 22.679.153/0001-40 - Fone (38) 3631-1617 - 3631 - 2264
+
+LEI N°. 3505 DE 05 DE DEZEMBRO DE 2023. ALTERA O PLANO PLURIANUAL DE DO INVESTIMENTOS MUNICÍPIO DE SÃO FRANCISCO PARA O QUADRIÊNIO 2022-2025 E DÁ OUTRAS PROVIDÊNCIAS. O povo de São Francisco, por seus representantes na Câmara Municipal aprovou e eu, Prefeito Municipal, no uso das atribuições que a Lei me confere, sanciono a seguinte Lei:
+
+**Art. 1°** - Fica o Município de São Francisco autorizado a alterar o Plano Plurianual de Investimentos para o quadriênio 2022-2025, com a finalidade de alterar os valores consignados para o exercício financeiro de 2024 nos programas e/ou projetos atividades, conforme o Anexo de Objetivos, Diretrizes e Metas.
+
+**Art. 2°** - Ficam inalteradas os quantitativos físicos e as metas financeiras para os próximos exercícios.
+
+**Art. 3°** - Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação. São Francisco/MG, 05 de Dezembro de 2023. Jose MIGUAL PAULO SOUZA FILHO PREFEITO MUNICIPAL
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCICIO DE
+
+1016 ELETRIFICAÇÃO URBANA E RURAL
+
+PROPORCIONAR ABASTECIMENTO E ILUMINAÇÃO PÚBLICA A POPULAÇÃO DE SÃO FRANCISCO.
+
+5113 IMOBILIZAÇÕES-EXTENSÃO DE REDE PÚBLICA
+
+IMOBILIZAÇÕES-EXTENSÃO DE REDE PÚBLICA
+
+Projeto
+
+3.880.000,00
+
+3.880.000,00 6114 MANUTENÇÃO - ILUMINAÇÃO PÚBLICA
+
+MANUTENÇÃO - ILUMINAÇÃO PÚBLICA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 1/104
+
+3.431.041,00
+
+3.431.041,00
+
+7.311.041,00
+
+7.311.041.00 9012 PROGRAMA RECUPERA MINAS
+
+11/04/2022
+
+Data Término: 31/12/2025
+
+PROGRAMA RECUPERA MINAS
+
+0.00
+
+5001 ADM.SEC.AGRICULTURA E MEIO AMBIENTE
+
+ESTRUTURAR A SECRETARIA COM RECURSOS HUMANOS E FÍSICOS PARA ASSEGURAR O PLENO DESENVOLVIMENTO DE TODAS AS SUAS AÇÕES.
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 2/104
+
+5943 IMOBILIZAÇÕES DA SECRETARIA
+
+IMOBILIZAÇÕES DA SECRETARIA
+
+SECRETARIA DE MEIO AMBIENTE ESTRATÉGIA E PERCENTUAL Projeto
+
+100.000,0ął
+
+100.000.00 6502 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA
+
+MANTER AS ATIVIDADES DA SECRETARIA MUNICIPAL DE AGRICULTURA, AÇÃO COMUNITARIA, MEIO AMBIENTE E INFRAESTRUTURA HIDRICA
+
+2.369.291,00
+
+2.369.291,00
+
+2.469.291.00
+
+TOTAL PROGRAMAÙ 2.469.291.00 9010 PROG ACOLHIMENTO A CRIANÇA E ADOLESCENTE
+
+31/03/2022
+
+Data Término: 31/12/2025
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 3/104
+
+PROGRAMA DE ACOLHIMENTO A CRIANÇA E ADOLESCENTE
+
+6941 MANUT. INST. ACOLHIMENTO MUNDO ENCANTADO
+
+Acolher crianças e adolescentes que se encontram com vínculos familiares fragilizados ou rompidos.
+
+MESES
+
+108.000,00
+
+108.000.00
+
+108.000,00
+
+108.000,00 6003 ALIMENTAÇÃO ESCOLAR
+
+ATENDER AS NECESSIDADES NUTRICIONAIS DOS ALUNOS DURANTE SUA PERMANÊNCIA EM SALA DE AULA, CONTRIBUINDO PARA O CRESCIMENTO, O DESENVOLVIMENTO, A APRENDIZAGEM E O RENDIMENTO ESCOLAR DOS ESTUDANTES, BEM COMO PROMOVER A FORMAÇÃO DE HÁBITOS ALIMENTARES SAUDÁVEIS.
+
+× Bunidades: Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoa validadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 4/104
+
+6606 MANUT. DAS ATIVID.DA ALIM. ESCOLAR
+
+MANUT. DAS ATIVID.DA ALIM. ESCOLAR
+
+2.580.000.00
+
+2.580.000,00
+
+2.580.000.00 2.580.000,00 7004 INCETIVO AO LAZER DESPORTO AMADOR
+
+PROMOVER E INCENTIVAR O ESPORTE E LAZER A POPULAÇÃO DE SÃO FRANCISCO
+
+5707 IMOBILIZAÇÕES DO DESPORTO E LAZER
+
+IMOBILIZAÇÕES DO SETOR DE DESPORTO E LAZER
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_ demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 5/104
+
+Projeto
+
+492.827,0ł
+
+492.827,00 6708 MANUT.DAS ATIVIDADES DESPORTO E LAZER
+
+MANUT.DAS ATIVIDADES DESPORTO E LAZER
+
+1.208.422.00
+
+1.208.422.0ł
+
+1.701.249.00 1.701.249,00 0046 PREVIDENCIA SOCIAL A SEGURADOS
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoe svalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 6/104
+
+DOTAR A AUTARQUIA COM MEIOS ADEQUADOS PARA A GESTÃO E CONTROLE DE PROCESSOS, RACIONALIZANDO CUSTOS E AUMENTANDO A EFICIÊNCIA NA PRESTAÇÃO DE SERVIÇOS. ADMINISTRAR A PREVIDÊNCIA SOCIAL DOS SERVIDORES PÚBLICOS EFETIVOS DO MUNICÍPIO, GARANTINDO VENCIMENTOS INTEGRAIS POR OCASIÃO DA APOSENTADORIA, BEM COMO OUTROS BENEFÍCIOS PREVIDENCIÁRIOS EM CONSONÂNCIA COM A LEGISLAÇÃO PREVIDENCIÁRIA VIGENTE.
+
+1103 EQUIP/MAT. PERMEN. GER. DE BENF. PREVID.
+
+EQUIP/MAT. PERMEN. GER. DE BENF. PREVID.
+
+Projeto PERCENTUAL
+
+7.200,00
+
+7.200,00 2209 MANUTENÇÃO GERENCIA DE BENEFICIOS PREV.
+
+MANUTENÇÃO GERENCIA DE BENEFICIOS PREV.
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoaco validadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 7/104
+
+MESES
+
+156.960,00
+
+156.960,00 2210 MANUTENÇÃO PROVENTOS DE INATIVOS E PENS.
+
+MANUTENÇÃO PROVENTOS DE INATIVOS E PENS.
+
+MESES
+
+20.930.000,00
+
+20.930.000.00
+
+21.094.160.00 21.094.160.00ł 6002 QUALIF.E VALORIZ.DA EDUCAÇÃO MUNICIPAL
+
+IMPLEMENTAR POLÍTICAS PÚBLICAS EDUCACIONAIS, VISANDO À VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO E PROMOVER A FORMAÇÃO PERMANENTE PARA GARANTIR A QUALIDADE E EXCELÊNCIA DA EDUCAÇÃO EM SÃO FRANCISCO.
+
+Orcamento>Relatórios do PPA > Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 8/104
+
+Forma de Emissão: Analitico
+
+6603 \_ DESENV. E CAPAC. DOS CONSELHOS MUNICIPAI
+
+DESENV. E CAPAC. DOS CONSELHOS MUNICIPAI
+
+17.000,00ł
+
+17.000,00
+
+17.000.00
+
+17.000,00 9005 FORTALECIMENTO DA AGRICULTURA FAMILIAR
+
+APOIAR PEQUENOS PRODUTORES RURAIS ATRAVÉS DE ORIENTAÇÕES PARA O DESENVOLVIMENTO DA AGRICULTURA FAMILIAR.
+
+0.00
+
+9007 CONSOLIDAÇÃO DO SUAS
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 9/104
+
+Identificar, acompanhar e monitorar o acesso e permanência na escola de pessoas com deficiência que recebem o beneficio de Prestação Continuada
+
+0,00 0000 ENCARGOS ESPECIAIS
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+ENCARGOS ESPECIAIS
+
+1104 AMORTIZAÇÃO E PARCELAMENTO DA DÍVIDA
+
+AMORTIZAÇÃO E PARCELAMENTO DA DÍVIDA
+
+Origem da Ação
+
+Projeto PERCENTUAL
+
+432.000,00
+
+432.000,00
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 X Pág 10/104
+
+2212 ENCARGOS COM PARCELAMENTO DE DÍVIDAS
+
+Encargos Com Parcelamento de Dívidas
+
+MESES
+
+144.000,00śł
+
+144.000,00 2213 CONTRIBUIÇÃO AO PASEP
+
+Contribuição ao PASEP
+
+MESES
+
+360.000,00
+
+360.000,00
+
+936.000,00
+
+936.000.00ł 0001 GESTAO ADMINISTRATIVA
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoac oesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 11/104
+
+GESTAO ADMINISTRATIVA
+
+0,00
+
+1015 SANEAMENTO BÁSICO URBANO
+
+PROMOÇÃO DE SANEAMENTO BÁSICO URBANO AOS MUNÍCIPES PROPORCIONANDO QUALIDADE DO MEIO AMBIENTE E A SAÚDE PÚBLICA Público Alvo
+
+5111 IMOBILIZAÇÕES -SANEAMENTO BÁSICO URBANO
+
+IMOBILIZAÇÕES -SANEAMENTO BÁSICO URBANO
+
+Projeto
+
+934.163,00
+
+934.163.00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 12/104
+
+6112 MANUTENÇÃO DO SANEAMENTO BÁSICO URBANO
+
+MANUTENÇÃO DO SANEAMENTO BÁSICO URBANO
+
+4.740.861,00
+
+4.740.861,00
+
+5.675.024,00
+
+5.675.024,00 0002 UNIVERSALIZACAO DO ENSINO
+
+UNIVERSALIZACAO DO ENSINO
+
+0,00
+
+0003 \_ PROGAMA DE OPOIO AO ESPORTE, LAZER E TUR
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 13/104
+
+PROGAMA DE OPOIO AO ESPORTE, LAZER E TUR
+
+0.00
+
+0004 UNIVERSALIZACAO DA SAUDE PUBLICA
+
+UNIVERSALIZACAO DA SAUDE PUBLICA
+
+0.00
+
+0005 PROGAMA DE APOIO A OBRAS PUBLICAS
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+PROGAMA DE APOIO A OBRAS PUBLICAS
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 14/104
+
+0,00
+
+0006 PROGAMA DE PLANEJAMENTO URBANO
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+PROGAMA DE PLANEJAMENTO URBANO
+
+0.00
+
+0007 \_ PROGAMA DE POIO AO TRANSPORTE MUNICIPAL
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+PROGAMA DE APOIO AO TRANSPORTE MUNICIPAL
+
+0.00
+
+0008 \_ PROGAMA DE ASSISTENCIA COMUN. E MEIO AMB
+
+×
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 15/104
+
+PROGAMA DE ASSISTENCIA COMUN. E MEIO AMB
+
+0,00
+
+0009 PROG. DE DESENV. DA AGRIC. PECUAR. E ABA
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+PROG. DE DESENV. DA AGRIC. PECUAR. E ABA
+
+0.00
+
+0010 PROGAMA MUNICIPAL DE ASSISTENCIA SOCIAL
+
+PROGAMA MUNICIPAL DE ASSISTENCIA SOCIAL
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_ demostrativoaco€ esvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 16/104
+
+0.00
+
+0012 CONSTRUCAO E REFORMA
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+CONSTRUCAO E REFORMA
+
+0.00
+
+0111 AÇÕES ADMINISTRATIVAS GERAIS
+
+MANTER AS ATIVIDADES ADMINISTRATIVAS E OPERACIONAIS DOS ÓRGÃOS PARA MELHORIA DA PRESTAÇÃO DE SERVIÇOS AO PÚBLICO
+
+1100 EQUIPAMENTOS/MAT. PERM. DIR. EXECUTIVA
+
+EQUIPAMENTOS/MAT. PERM. DIR. EXECUTIVA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 17/104
+
+Projeto PERCENTUAL
+
+20.000,00
+
+20.000,00
+
+1101 INSTALAÇÕES DO IPREMSAF
+
+INSTALAÇÕES DO IPREMSAF
+
+Projeto PERCENTUAL
+
+120.000,00
+
+120.000.00
+
+1102 EQUIP./MAT. PERMANENTE GER. DE APOIO ADM
+
+EQUIP./MAT. PERMANENTE GER. DE APOIO ADM
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 18/104
+
+25.000,00
+
+PERCENTUAL Projeto
+
+25.000,00
+
+2200 MANUTENÇÃO DA DIRETORIA EXECUTIVA
+
+MANUTENÇÃO DA DIRETORIA EXECUTIVA
+
+MESES 197.080,00
+
+197.080,00
+
+2201 MANUTENÇÃO DA ASSESSORIA JURIDICA
+
+MANUTENÇÃO DA ASSESSORIA JURIDICA
+
+85.320,00
+
+MESES
+
+) 85.320.00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_ demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 19/104
+
+2202 MANUTENÇÃO DO CONTROLE INTERNO
+
+MANUTENÇÃO DO CONTROLE INTERNO
+
+MESES
+
+22.900,00 22.900,00
+
+2204 MANUTENÇÃO GERENCIA DE APOIO ADM
+
+MANUTENÇÃO GERENCIA DE APOIO ADM
+
+MESES
+
+386.160,00
+
+386.160.00
+
+2205 DESPESAS AGUA/LUZ/TELEFONE/POSTAGEM DESPESAS AGUA/LUZ/TELEFONE/POSTAGEM
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 20/104
+
+21.600,00 MESES
+
+21.600,00
+
+2206 DESPESAS COM ALUGUEIS E SEGUROS
+
+DESPESAS COM ALUGUEIS E SEGUROS
+
+MESES 5.760.00
+
+5.760,0łł
+
+2207 DIVULGAÇÃO DE ATOS OFICIAIS/ADMINISTRAT.
+
+DIVULGAÇÃO DE ATOS OFICIAIS/ADMINISTRAT.
+
+7.200.00
+
+MESES
+
+7.200,00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 21/104
+
+2208 ENCARGOS SOCIAIS E TRABALHISTAS
+
+ENCARGOS SOCIAIS E TRABALHISTAS
+
+MESES
+
+59.760,00
+
+59.760.00
+
+950.780,00
+
+950.780,00 0114 NORMAS E AÇÕES FISCAIS
+
+NORMAS E AÇÕES FISCAIS DO CONSELHO
+
+2203 MANUTENÇÃO DOS CONSELHOS ADM/FISCAL
+
+MANUTENÇÃO DOS CONSELHOS ADM/FISCAL
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 22/104
+
+Base Legalªª
+
+MESES
+
+89.200,00
+
+89.200.00
+
+89.200.00
+
+89.200,00 1012 HABITAÇÕES RURAIS
+
+PROMOVER AÇÕES QUE VIABILIZEM O ACESSO A MORADIA ADEQUADA E LEGALIZADA.
+
+5107 CONST. REFORMA DE HABITAÇÕES RURAIS
+
+CONST. REFORMA DE HABITAÇÕES RURAIS
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 23/104
+
+16.161.00ł Projeto
+
+16.161,00ł
+
+16.161.00ł
+
+16.161.00źłż 1013 HABITAÇÕES URBANAS
+
+PROMOVER AÇÕES QUE VIABILIZEM O ACESSO A MORADIA ADEQUADA E LEGALIZADA,
+
+5108 CONST. REFORMA DE HABITAÇÕES URBANAS
+
+CONST. REFORMA DE HABITAÇÕES URBANAS
+
+Projeto 16.707.00ł
+
+16.707.00
+
+×
+
+Orcamento> Relatórios do PPA > Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002,php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Páo 24/104
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS - EXERCICIO DE
+
+16.707,00
+
+16.707,00 4001 MANUTENÇÃO DAS ATIVIDADES DA CÂMARA
+
+LEGISLAR SOBRE ASSUNTOS MUNICIPAIS, APRECIAR PROPOSICOES EM GERAL, FISCALIZAR OS ATOS DA ADMINISTRAÇÃO MUNICIPAL, VISANDO ATENDER EXIGÊNCIAS E EXERCER COMPETÊNCIAS DEFINIDAS NA CONSTITUIÇÃO ESTADUAL, NA LEI ORGÂNICA DO MUNICÍPIO, NA LEGISLAÇÃO MUNICIPAL E NO REGIMENTO INTERNO
+
+2001 AUXILIOS DIV.AOS AGENTES POLITICOS
+
+AUXILIOS DIV.AOS AGENTES POLITICOS
+
+41.652.00
+
+41.652,00
+
+2002 REMUN.AGEN.POLIT.P/PARC.UNICA
+
+REMUN.AGEN.POLIT.P/PARC.UNICA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrative coesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 25/104
+
+2.186.730,00ł
+
+2.186.730,00
+
+2003 \_ DESPESAS DE VIAGEM VEREADORES
+
+DESPESAS DE VIAGEM VEREADORES
+
+258.260,00
+
+258 260.00
+
+2.486.642,00
+
+2.486.642.00 4003 MANUTENÇÃO DAS ATIVIDADE DA CAMARA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 26/104
+
+LEGISLAR SOBRE ASSUNTOS MUNICIPAIS, APRECIAR PROPOSICOES EM GERAL, FISCALIZAR OS ATOS DA ADMINISTRAÇÃO MUNICIPAL, VISANDO ATENDER EXIGÊNCIAS E EXERCER COMPETÊNCIAS DEFINIDAS NA CONSTITUIÇÃO ESTADUAL, NA LEI ORGÂNICA DO MUNICÍPIO, NA LEGISLAÇÃO MUNICIPAL E NO REGIMENTO INTERNO
+
+2005 REMUNERAÇÃO DOS SERVIDORES DA CAMARA
+
+REMUNERAÇÃO DOS SERVIDORES DA CAMARA
+
+1.449.472,00
+
+1.449.472,00 2006 MANUTECAO DAS ATIVIDADES DA CAMARA
+
+MANUTECAO DAS ATIVIDADES DA CAMARA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 27/104
+
+03836311617 - CNPJ: 22.679.153/0001-40
+
+706.234,00śł
+
+706.234,00
+
+2007 CONTRATAÇÃO PESSOAL TEMP.DETERMINADO
+
+CONTRATAÇÃO PESSOAL TEMP.DETERMINADO
+
+65.351,00
+
+65.351.00 2008 \_ REGULA. DEBITOS DESP. EXERC. ANTERIORES
+
+REGULA. DEBITOS DESP. EXERC. ANTERIORES
+
+MESES
+
+20.826.00
+
+20.826.00
+
+Orcamento > Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 28/104
+
+2013 MANUTENCAO DOS SERV. GERAIS CAMARA
+
+MANUTENCAO DOS SERV. GERAIS CAMARA
+
+260.325,0łł
+
+260.325,00 2014 INCENTIVO A FORM.PREP.SERV.LEGISLATIVO
+
+INCENTIVO A FORM.PREP.SERV.LEGISLATIVO
+
+1.041,00
+
+1.041,00
+
+2.503.249.00
+
+2.503.249,00 4032 \_ PREV. SOCIAL AOS SERVIDORES E AGEN. POL
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 29/104
+
+LEGISLAR SOBRE ASSUNTOS MUNICIPAIS, APRECIAR PROPOSICOES EM GERAL, FISCALIZAR OS ATOS DA ADMINISTRAÇÃO MUNICIPAL, VISANDO ATENDER EXIGÊNCIAS E EXERCER COMPETÊNCIAS DEFINIDAS NA CONSTITUIÇÃO ESTADUAL, NA LEI ORGÂNICA DO MUNICÍPIO, NA LEGISLAÇÃO MUNICIPAL E NO REGIMENTO INTERNO
+
+2009 REGUL.DEB. COM INSTIT. DE PREVIDENCIA
+
+REGUL.DEB. COM INSTIT. DE PREVIDENCIA
+
+1.041,00
+
+1.041.00 2010 CONTRIB.PREV.P/ SERV.E AG.POLI.TERCEIROS
+
+CONTRIB.PREV.P/ SERV.E AG.POLI.TERCEIROS
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 30/104
+
+671.639,00
+
+671.639,00
+
+2011 PAGAMENTO PENSIONISTAS
+
+PAGAMENTO PENSIONISTAS
+
+10.414,00
+
+10.414,00
+
+2012 CONTRIB.PREVIDENCIARIA P/SERV.ESTATUTARI
+
+CONTRIB.PREVIDENCIARIA P/SERV.ESTATUTARI
+
+218.673,00
+
+218.673.00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 31/104
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCICIO DE
+
+www.saotrancisco.mg.gov.br
+
+901.767,00
+
+901.767,00
+
+4005 FISC. ORCAMENTARIA
+
+FISCALIZAR RECURSOS ORÇAMENTÁRIOS DA ADMINISTRAÇÃO MUNICIPAL, VISANDO ATENDER EXIGÊNCIAS E EXERCER COMPETÊNCIAS DEFINIDAS NA CONSTITUIÇÃO ESTADUAL, NA LEI ORGÂNICA DO MUNICÍPIO, NA LEGISLAÇÃO MUNICIPAL E NO REGIMENTO INTERNO
+
+2004 FISCALIZ.FINANCEIRA E ORÇAMENTARIA
+
+FISCALIZ.FINANCEIRA E ORÇAMENTARIA
+
+14.580.00
+
+14.580.00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 32/104
+
+14.580,00
+
+14.580,00 6001 GESTÃO ADMINISTRATIVA DA EDUCAÇÃO
+
+GARANTIR A EFICIÊNCIA, A EFICÁCIA E EFETIVIDADE DO ÓRGÃO.
+
+5601 IMOBILIZAÇÕES SECRETARIA DE EDUCAÇÃO
+
+IMOBILIZAÇÕES SECRETARIA DE EDUCAÇÃO Especificação do Produton
+
+Projeto
+
+370.000,00
+
+370.000.00
+
+6602 MANUTENÇÃO ATIVIDADES SEC. EDUCAÇÃO
+
+MANUTENÇÃO ATIVIDADES SEC. EDUCAÇÃO
+
+Orcamento>Relatórios do PPA> Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 33/104
+
+5.211.900,00
+
+5.211.900,00
+
+6605 \_ COMUNICAÇÃO E PUBLICIDADE INTITUCIONAL
+
+COMUNICAÇÃO E PUBLICIDADE INTITUCIONAL
+
+50.000,00
+
+50.000,00
+
+5.631.900,00
+
+5.631.900,00 5003 PROG.DE DESENVOLV.RURAL SUSTENTÁVEL
+
+IMPLEMENTAR CONDIÇÕES DE FIXAÇÃO DO HOMEM NO CAMPO E PROTEÇÃO AO MEIO AMBIENTE
+
+Binidades: Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 34/104
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS - EXERCICIO DE
+
+5505 CONSTRUÇÃO DE PEQUENAS REPRESAS
+
+CONSTRUÇÃO DE PEQUENAS REPRESAS
+
+160.000,0ął
+
+Projeto 160.000,00
+
+5506 REFORMA E AMPL. DO PARQUE DE EXPOSICÃO
+
+REFORMA E AMPL. DO PARQUE DE EXPOSICÃO
+
+Base Legal^
+
+169.487,00
+
+Projeto 169.487,00
+
+5507 IMOBILIZAÇÕES DE PATRULHA MECANIZADA
+
+IMOBILIZAÇÕES DE PATRULHA MECANIZADA
+
+Orcamento>Relatórios do PPA> Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002, php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Pág 35/104
+
+585.770,00
+
+Projeto 585.770,00
+
+5508 IMOBILIZAÇOES DA AGRICULTURA
+
+IMOBILIZAÇOES DA AGRICULTURA
+
+1.641.250.00
+
+Projeto 1.641.250,00
+
+6509 MANUT. ATIVIDADES DE AGRICULTURA
+
+MANUT. ATIVIDADES DE AGRICULTURA
+
+515.226.00
+
+envo 515.226,00
+
+Pág 36/104 esvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:57 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativ
+
+6510 MANUT.CONV. E PARCERIAS C/ ENTIDADES
+
+MANUT.CONV. E PARCERIAS C/ ENTIDADES
+
+791.613,00
+
+791.613,00
+
+3.863.346,00
+
+3.863.346,00
+
+1014 SANEAMENTO BÁSICO RURAI
+
+PROMOÇÃO DE SANEAMENTO BÁSICO A ZONA RURAL E PROPORCIONANDO QUALIDADE DO MEIO AMBIENTE E A SAÚDE PÚBLICA
+
+5109 IMOBILIZAÇÕES SANEAMENTO BASICO RURAL
+
+IMOBILIZAÇÕES SANEAMENTO BASICO RURAL
+
+Pág 37/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+PREFEITURA MUNICIPAL DE SAO FRANCISCO
+
+Projeto
+
+254.911.00 254.911,0ął
+
+6110 MANUTENÇÃO SANEAMENTO BÁSICO RURAL
+
+MANUTENÇÃO SANEAMENTO BÁSICO RURAL
+
+1.539.050,00
+
+1.539.050,00
+
+1.793.961.00
+
+1.793.961.00 1017 POIO AO TRANSPORTE MUNICIPAL
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 38/104
+
+PROMOVER MELHORIAS NAS VIAS PÚBLICAS E ESTRADAS VICINAIS, VISANDO: QUALIDADE DA MALHA VIÁRIA ESCOLAR; ESCOAMENTO D PRODUTOS AGROPECUÁRIOS; ABASTECIMENTO DE COMUNIDADES RURAIS E OUTROS; LINHAS DE TRANSPORTE MUNICIPAIS E INTERMUNICIPAIS, TRATAMENTO DE SAÚDE; ETC.
+
+5105 PAVIMENTAÇÃO DE RUAS E AVENIDAS
+
+PAVIMENTAÇÃO DE RUAS E AVENIDAS
+
+Projeto 26.002.082,00ł
+
+26.002.082.00 5115 IMOBILIZAÇÕES - TRANSPORTE RODOVIÁRIO
+
+IMOBILIZAÇÕES - TRANSPORTE RODOVIÁRIO
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 39/104
+
+77.452,00
+
+Projeto 77.452,00
+
+5118 IMOBILIZAÇÕES TRANSPORTE HIDROVIÁRIO
+
+IMOBILIZAÇÕES TRANSPORTE HIDROVIÁRIO
+
+18.743.00ł
+
+Projeto 18.743,00
+
+6116 \_ CONSERVAÇÃO DE ESTRADAS VICINAIS
+
+CONSERVAÇÃO DE ESTRADAS VICINAIS
+
+3.116.259.00
+
+3.116.259,00
+
+Pág 40/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+6117 MANUT. ATIVID/ DO TRANSPORTE RODOVIÁRIO
+
+MANUT. ATIVID/ DO TRANSPORTE RODOVIÁRIO
+
+4.992.752,00
+
+4.992.752,00
+
+6119 MANUT.ATIVIDA/ DO TRANSPORTE HIDROVIÁRIO
+
+MANUTENÇÃO DAS ATIVIDADES DO TRANSPORTE HIDROVIÁRIO
+
+685.917,00
+
+685.917,0ÛîšŚÍ
+
+34.893.205.00
+
+34.893.205,00
+
+0011 PROG. DE DIF.DE CULTUR.E PATR. HISTORICO
+
+Pág 41/104 Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+PROMOVER ACESSO A BENS E SERVIÇOS CULTURAIS À POPULAÇÃO DE SÃO FRANCISCO.
+
+5039 IMOBILIZ. FUND MUNIC. PATRIM. HIST. CULT
+
+FOMENTAR, PRESERVAR E PROMOVER O PATRIMONIO HISTORICO E CULTURAL DO MUNICIPIO DE SAO FRANCISCO
+
+SECRETARIA DE CULTURA PATRIMÔNIO TURISMO Projeto MESES
+
+76.015,00
+
+76.015.00 6929 MANUT. ATIV. FUND. MUNIC. PRES. PAT. CUL
+
+MANUT. ATIV. FUND. MUNIC. PRES. PAT. CUL
+
+249.989,00
+
+249.989.00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+326.004,00
+
+326.004,00
+
+1002 MANUTENÇÃO DO GABINETE DO PREFEITO
+
+COORDENAR, ORDENAR E DAR FINALIDADE ÀS AÇÕES E DOCUMENTOS ADMINISTRATIVOS JUNTO AO PREFEITO, BEM COMO ASSESSORAR A
+
+INTERLOCUÇÃO ENTRE DEMAIS SETORES DA PREFEITURA, ÓRGÃOS PÚBLICOS, ENTIDADES E SOCIEDADE COM O GESTOR MUNICIPAL
+
+5002 IMOBILIZAÇÕES GABINETE
+
+IMOBILIZAÇÕES DAS ATIVIDADES DO GABINETE DO PREFEITO
+
+10.000,00
+
+Projeto 10.000.00
+
+6003 MANUTENÇÃO DAS ATIVIDADES DO GABINETE
+
+MANUTENÇÃO DAS ATIVIDADES DO GABINETE
+
+Despesa de Custeio de caráter continuado
+
+Pág 43/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+1.737.707,00
+
+DESPESA DE MESES
+
+CUSTEIO DE CARÁTER CONTINUADO 1.737.707,00
+
+6004 COMUNICAÇÃO E PUBLICIDADE INSTITUCIONAL
+
+COMUNICAÇÃO E PUBLICIDADE INSTITUCIONAL
+
+2.374,00
+
+2.374,00
+
+1.750.081,00
+
+1.750.081.00
+
+1001 DEFESA INTERESSE PUB. PROC. JUDICIARIO
+
+Pág 44/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCÍCIO DE
+
+GARANTIR A ORDEM JURÍDICA E O INTERESSE PÚBLICO NAS DIVERSAS AÇÕES ADMINISTRATIVAS DESENVOLVIDAS PELA PREFEITURA
+
+5005 IMOBILIZAÇÕES DA PROCURADORIA JURÍDICA
+
+IMOBILIZAÇÕES DA PROCURADORIA JURÍDICA
+
+Projeto
+
+10.413,00
+
+10.413,00 6001 MANUTENÇÃO DE SENTENÇAS JUDICIAIS
+
+MANUTENÇÃO DE SENTENÇAS JUDICIAIS
+
+210.413,00
+
+210.413,00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+6006 MAN/ DAS ATIVID/DA PROCURADORIA JURÍDICA
+
+MANUTENCAO DAS ATIVIDADES DA PROCURADORIA JURÍDICA
+
+663.930,00
+
+663.930,00
+
+884.756,00
+
+884.756,00 2001 ADM.DA SEC.ADMINISTRAÇÃO E FINANÇAS
+
+REALIZAR A GESTÃO ADMINISTRATIVA E FINANCEIRA DOS ÓRGÃOS PÚBLICOS BEM COMO O GERENCIAMENTO DE SEUS RECURSOS HUMANOS.
+
+0002 MANUTENÇÃO PGTO INATIVOS E PENSIONISTAS
+
+PAGAMENTOS DE INATIVOS E PENSIONISTAS RECURSO PROPRIO
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 46/104
+
+Base Legal^
+
+Operações
+
+856.298,00 Especiais
+
+856.298,00 5201 IMOBILIZAÇÕES SEC. ADMINIST/ E FINANÇAS
+
+IMOBILIZAÇÕES DA SEC. ADMINISTRAÇÃO E FINANÇAS
+
+Base Legal^
+
+Projeto
+
+331.786,00
+
+331.786.00 6202 MAN/ ATIVIDADES SEC. ADMIN. E FINANÇAS
+
+MANUTENÇÃO DAS ATIVIDADES DA SEC. ADMIN. E FINANÇAS
+
+Base Legal^
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Páo 47/104
+
+8.629.516.00
+
+8.629.516,00
+
+6205 CONTRIBUIÇÃO AO PASEP CONTRIBUIÇÃO AO PASEP
+
+1.325.424.00
+
+1.325.424,00 6809 TRANSFERÊNCIAS A CONSÓRCIO PÚBLICO
+
+TRANSFERÊNCIAS A CONSÓRCIO PÚBLICO
+
+951.334.00
+
+951.334,00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 48/104
+
+12.094.358,00
+
+12.094.358,00 2002 SEGURANÇA PÚBLICA
+
+COMBATER A CRIMINALIDADE DESENVOLVENDO AÇÕES DE PREVENÇÃO, ORDENAMENTO SOCIAL E SEGURANÇA PÚBLICA NO MUNICÍPIO DE SÃO
+
+FRANCISCO
+
+5203 IMOBILIZAÇÕES CONVÊNIOS SEG/ PÚBLICA
+
+IMOBILIZAÇÕES CONVÊNIOS SEG/ PÚBLICA
+
+Projeto
+
+1.041,00ł
+
+1.041,00 5937 IMOBILIZAÇÕES DA GUARDA MUNICIPAL
+
+Proteção de bens, serviços e logradouros publico municipais e instalações do município.
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 49/104
+
+Projeto
+
+2.500,00
+
+2.500,00
+
+6204 MANUT.CONVÊNIOS SEGURANÇA PÚBLICA
+
+MANUT.CONVÊNIOS SEGURANÇA PÚBLICA
+
+240.775.00
+
+240.775,00
+
+6948 MANUTENÇÃO DA GUARDA MUNICIPAL
+
+Proteção de bens, serviços e logradouros publico municipais e instalações do município.
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_ demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 50/104
+
+10.623,00
+
+10.623.00
+
+254.939,00
+
+254.939.00ł 1010 PROGRAMA DE APOIO A OBRAS
+
+PROMOÇÃO DE MELHORIAS NOS AMBIENTES PUBLICOS, ALMEJANDO MELHOR QUALIDADE DOS SERVIÇOS E RECURSOS HUMANOS
+
+5101 IMOBLIZAÇÕES SEC. INFRAESTRUTURA E DESEN
+
+IMOBLIZAÇÕES DA SEC. INFRAESTRUTURA E DESENVOLVIMENTO
+
+Projeto
+
+786.000.00
+
+050 51/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+5102 CONST. REFORM. AMPLIAÇÃO PREDIO PUBLICO
+
+CONST. REFORM. AMPLIAÇÃO PREDIO PUBLICO
+
+Projeto
+
+2.010.000,00
+
+2.010.000.00
+
+5941 IMOBILIZAÇÕES DA SECRETARIA
+
+IMOBILIZAÇÕES DA SECRETARIA
+
+Projeto MESES
+
+150.000.00
+
+150.000,00
+
+5942 IMOBILIZAÇÕES ESPAÇÕS PÚBLICOS
+
+Imobilizações espaços publicos
+
+Orcamento > Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 52/104
+
+Projeto PERCENTUAL
+
+13.520.000,00
+
+13.520.000,00 6103 MANUT. ATIVIDADES SEC. INFRAESTRUTURA
+
+MANUT. ATIVIDADES DA SECRETARIA DE INFRAESTRUTURA E DESENVOLVIMENTO
+
+3.610.047,00
+
+3.610.047.00 6953 MANUTENÇÃO ATIVID. OBRAS E GESTÃO CONV
+
+Manutenção das atividades da Secretaria de Obras e Gestão de Convenios
+
+SECRETARIA DE OBRAS
+
+MESES
+
+2.803.500,00
+
+2.803.500.0011m
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Paga saros
+
+22.879.547.00
+
+22.879.547,00 6007 \_ PROGRAMA DINHEIRO DIRETO NA ESCOLA - PDD
+
+Objetiva o reforço da autogestão escolar nos planos financeiro, administrativo e didático, contribuindo para elevar os índices de desempenho da Educação Básica.
+
+6618 MANUTENÇÃO DO PROGRAMA PDDE
+
+MANUTENÇÃO DO PROGRAMA PDDE
+
+10.000.00
+
+10.000.00
+
+10.000.00
+
+10.000.00 9999 RESERVAS
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+BAnalidade: Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Páo 54/104
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCICIO DE
+
+Registra os recursos que serão utilizados para abertura de créditos adicionais, para o atendimento de passivos contingentes e de outros riscos fiscais imprevistos, bem como registra o montante de ingressos derivados das contribuições social e patronal dos servidores
+
+9999 RESERVA DE CONTINGENCIA RESERVA DE CONTINGENCIA
+
+PERCENTUAL Projeto
+
+20.500.000.00
+
+20.500.000,00
+
+20.500.000,00
+
+20.500.000,00 9002 PROTEÇÃO SOCIAL BÁSICA
+
+EXECUTAR OS SERVIÇOS DA PROTEÇÃO SOCIAL BÁSICA
+
+validadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoaco Pág 55/104
+
+5931 IMOBILIZAÇÕES DA PROTEÇÃO SOCIAL BÁSICA
+
+IMOBILIZAÇÕES DA PROTEÇÃO SOCIAL BÁSICA
+
+Projeto 68.106.00ł
+
+68.106,00 6911 CONCESSÃO DE BENEFICIOS EVENTUAIS
+
+CONCESSÃO DE BENEFICIOS EVENTUAIS
+
+1.569.890.00
+
+1.569.890,00 6942 MANUT. SERV. DE PROTEÇÃO SOCIAL BASICA
+
+EXECUTAR SERVIÇOS, PROGRAMAS, PROJETOS E BENEFÍCIOS, EM ESPECIAL PARA FAMÍLIAS, INDIVÍDUOS E GRUPOS, QUE DELES NECESSITAREM, EM
+
+SITUAÇÃO DE VULNERABILIDADE SOCIAL DECORRENTE DA POBREZA, PRIVAÇÃO POR AUSÊNCIA DE RENDA, PRECÁRIO ACESSO AOS SERVIÇOS PÚBLICOS, FRAGILIZAÇÃO DOS VÍNCULOS AFETIVOS. CONTRIBUINDO COM A INCLUSÃO DOS USUÁRIOS NA VIDA COMUNITÁRIA, AMPLIANDO O ACESSO AOS BENS E SERVIÇOS SOCIOASSISTENCIAIS.
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 56/104
+
+2.693.433.00
+
+2.693.433,00
+
+4.331.429,00
+
+4.331.429.00 9001 OPERACIONALIZAÇÃO S. ASSISTÊNCIA SOCIAL
+
+REALIZAR A GESTÃO DOS SERVIÇOS ADMINISTRATIVOS E DE SUPORTE FÍSICO VINCULADOS AO DESENVOLVIMENTO SOCIAL.
+
+5901 IMOBILIZAÇÕES ADMINISTRAÇÃO DA SEC.
+
+IMOBILIZAÇÕES ADMINISTRAÇÃO DA SEC.
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20-29-59 Pág 57/104
+
+Projeto
+
+62.496,00
+
+62.496,00 5904 IMOBILIZAÇÕES DO CONSELHO TUTELAR
+
+IMOBILIZAÇÕES DO CONSELHO TUTELAR
+
+Projeto
+
+10.413.00
+
+10.413.00 6902 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA
+
+MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA
+
+2.766.448.00
+
+2.766.448,00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 58/104
+
+6905 MANUTENÇÃO DO CONSELHO TUTELAR
+
+MANUTENÇÃO DO CONSELHO TUTELAR
+
+386.642.00
+
+386.642,0ł 6927 MANUTENÇÃO DO CONSELHO DO IDOSO
+
+MANUTENÇÃO DO CONSELHO DO IDOSO
+
+5.414.00
+
+5.414.00 6955 MANUTENÇAO CONS MUNIC PESSOA DEFICIENCIA
+
+MANUTENÇAO CONS MUNIC PESSOA DEFICIENCIA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_ demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 59/104
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+Plane
+
+IMOBILIZAÇÕES DO CONSELHO ASSIST. SOCIAL
+
+5903 IMOBILIZAÇÕES DO CONSELHO ASSIST. SOCIAL
+
+Publico Alvo:
+
+EXECUTAR OS SERVIÇOS DA POLITICA DE ASSISTENCIA NO MUNICIPIO
+
+Programas Finalisticos
+
+9004 GESTÃO E OPERACIONALIZAÇÃO DO SUAS
+
+3.238.577,00
+
+3.238.577,00
+
+Total da ação para os exercicios 7.164,00
+
+MESES 7.164,00
+
+administracao@saotrancisco.mg.gov.or
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCICIO DE
+
+Pág 61/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+26.041,00 12 | SECRETARIA DE DESENVOLIMENTO SOCIAL Projeto 26.041.00 MESES
+
+Orçamentaria
+
+IMOBILIZAÇÕES PROG. BOLSA FAMILIA
+
+5938 \_ IMOBILIZAÇÕES PROG. BOLSA FAMILIA
+
+16.041,00ł
+
+Projeto
+
+16.041,00ł
+
+IMOBILIZAÇÕES GESTAO SUAS
+
+5917 IMOBILIZAÇÕES GESTAO SUAS
+
+10.000,00
+
+Projeto 10.000,00
+
+www.saotrancisco.mg.gov.br administracao@saotrancisco.mg.gov.br
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCICIO DE
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 62/104
+
+MANUTENÇÃO DO PROGRAMA AUXILIO BRASIL
+
+6920 \_ MANUTENÇÃO DO PROGRAMA AUXILIO BRASIL
+
+58.731,00
+
+58.731,00
+
+GESTÃO DO SUAS
+
+6918 GESTÃO DO SUAS Total da ação para os exercicios
+
+38.746,00
+
+38.746,00
+
+Detalhamento da Implementaçao:
+
+MANUT. DO CONSELHO MUNIC. ASSIST. SOCIAL
+
+6903 MANUT. DO CONSELHO MUNIC. ASSIST. SOCIAL www.saotrancisco.mg.gov.br administracao@saotrancisco.mg.gov.br
+
+Forma de Emissao: Analítico
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCICIO DE
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 63/104
+
+IMOBILIZAÇÕES DO ENS.PROFISSIONALIZANTE
+
+5628 IMOBILIZAÇÕES DO ENS.PROFISSIONALIZANTE
+
+VISANDO AO DESENVOLVIMENTO DAS ATIVIDADES EDUCATIVAS E À MELHORIA DA INFRAESTRUTURA.
+
+APOIO FINANCEIRO À ESCOLA FAMÍLIA AGRÍCOLA CONFORME A MODALIDADE DE ENSINO MÉDIO RURAL INTEGRADO À EDUCAÇÃO PROFISSIONAL,
+
+6008 ATENDIMENTO AO ENSINO PROFISSIONAL
+
+887.279,00
+
+887.279,00
+
+737.720,00
+
+737.720,00
+
+administracao@saotrancisco.mg.gov.br
+
+Forma de Emissão: Analitico
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCICIO DE
+
+Projeto
+
+25.000,00
+
+25.000,00 5939 \_ IMOBILIZAÇÕES EFA-ESCOLA FAMILIA AGRICO
+
+IMOBILIZAÇÕES DA EFA - ESCOLA FAMÍLIA AGRÍCOLA
+
+Projeto PERCENTUAL
+
+50.000,00
+
+50.000,00 6629 MANUT.DAS ATIVID.DO ENS.PROFISSIONALIZ.
+
+MANUT.DAS ATIVID.DO ENS.PROFISSIONALIZ.
+
+242.200,00
+
+242.200,00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 64/104
+
+6630 MANUT.DAS ATIVIDA EFA-ESC.FAM.AGRÍCOLA
+
+MANUT.DAS ATIVI.DA EFA-ESC.FAM.AGRÍCOLA
+
+200.000,00śł
+
+12 | 200.000,00
+
+517.200,00
+
+517.200,00 6006 ESCOLA ACESSÍVEL
+
+OFERECER TRANSPORTE ESCOLAR AOS ALUNOS DAS REDES ESTADUAL E MUNICIPAL DE ENSINO, VISANDO À PROMOÇÃO DO ACESSO E PERMANÊNCIA
+
+NA ESCOLA.
+
+5614 IMOBILAÇOES DO TRANSPORTE ESCOLAR
+
+IMOBILAÇOES DO TRANSPORTE ESCOLAR
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 65/104
+
+Projeto
+
+2.400.000,00
+
+2.400.000,0ł 6615 MANUTENÇÃO DO TRANSPORTE ESCOLAR
+
+MANUTENÇÃO DO TRANSPORTE ESCOLAR
+
+13.085.300,00
+
+13.085.300,00
+
+15.485.300.00
+
+15.485.300,00 6011 ALFABETIZAR PROSSEGUIR E AVANÇAR
+
+yon
+
+svalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Orcamento>Relatórios do PPA>Demonstrativo das Acõe orc2 demostrativo: Pa 66/104
+
+REDUZIR O ANALFABETISMO EM NOSSO MUNICÍPIO E DESENVOLVER POLÍTICAS PÚBLICAS QUE VISEM A FORMAÇÃO INTEGRAL E A CONSTRUÇÃO DA AUTONOMIA E DA EMANCIPAÇÃO DOS JOVENS E ADULTOS GARANTINDO A CONTINUIDADE DE SEUS ESTUDOS.
+
+6632 MANUTENÇÃO DAS ATIVIDADES DO PEJA
+
+MANUTENÇÃO DAS ATIVIDADES DO PEJA
+
+55.400.00ł
+
+55.400.00
+
+55.400,00
+
+55.400,00 8001 ADMINISTRAÇÃO DA SAÚDE
+
+GARANTIR A EFICIÊNCIA, EFICÁCIA E EFETIVIDADE DA SECRETARIA MUNICIPAL DE SAÚDE.
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 67/104
+
+5801 IMOBILIZAÇÕES SECRETARIA DE SAÚDE
+
+IMOBILIZAÇÕES SECRETARIA DE SAÚDE
+
+Base Legal^
+
+Projeto 110.086,00
+
+110.086,00
+
+6802 MANUTENÇÃO ATIVIDADES SECRET. SAÚDE
+
+MANUTENÇÃO ATIVIDADES SECRET. SAÚDE
+
+Base Legal
+
+7.042.665,00
+
+7.042.665.00
+
+7.152.751,00 7.152.751.00
+
+8005 VIGILÂNCIA SANITÁRIA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002. php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 68/104
+
+PROMOVER A AMPLIAÇÃO DA ATUAÇÃO FISCALIZADORA DA VIGILÂNCIA SANITÁRIA NAS ÁREAS DE FISCALIZAÇÃO DE ALIMENTOS, ESTABELECIMENTOS DE INTERESSE A SAÚDE, HEMODERIVADOS E HEMODIÁLISE DO MUNICÍPIO
+
+5817 IMOBILIZAÇÕES VIGILÂNCIA SANITÁRIA
+
+IMOBILIZAÇÕES VIGILÂNCIA SANITÁRIA
+
+20.410.00
+
+Projeto
+
+20.410,00
+
+6818 MANUTENÇÃO ATIVIDADES VIGIL SANITÁRIA
+
+MANUTENÇÃO ATIVIDADES VIGIL.SANITÁRIA
+
+Orcamento Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 69/104
+
+537.736,0ął
+
+537.736,0ł
+
+558.146,00
+
+558.146,00ł 7003 ATENDIMENTO AS ATIVIDADES CULTURAIS
+
+ORGANIZAR O TURISMO LOCAL EM UMA ESTRATÉGIA PARA A ESTRUTURAÇÃO DE PRODUTOS E CONSOLIDAÇÃO DE ROTEIROS E DESTINOS.
+
+5705 IMOBILIZAÇÕES DO TURISMO
+
+IMOBILIZAÇÕES DO DO SETOR DE TURISMO
+
+755.984,00
+
+Projeto
+
+755.984,00
+
+Orcamento Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+6706 MANUTENÇÃO ATIVIDADES DO TURISMO
+
+MANUTENÇÃO DAS ATIVIDADES DO TURISMO
+
+979.191.00
+
+979.191,00
+
+1.735.175,00
+
+1.735.175.00
+
+6005 APOIO A REESTRUTURAÇÃO DA REDE FISICA
+
+MELHORAR A QUALIDADE E AMPLIAR A OFERTA DE SERVIÇOS DE EDUCAÇÃO PRESTADOS À POPULAÇÃO.
+
+5608 CONSTRUC. REFORMA AMPL.QUADRAS POLIESPO
+
+CONSTRUC. REFORMA AMPL. QUADRAS POLIESPO
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 71/104
+
+1.600.000,00
+
+Projeto
+
+1.600.000.00
+
+5609 \_ CONST. REFOR. AMPLI. DE UNIDADES ESCOLAR
+
+CONST. REFOR. AMPLI. DE UNIDADES ESCOLAR
+
+9.600.000,00
+
+Projeto
+
+9.600.000,00 5610 IMOBILIZAÇÕES DA REDE FISICA
+
+IMOBILIZAÇÕES DA REDE FISICA
+
+Origem da Ação^
+
+Pág 72/104 Orcamento Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+400.000.00
+
+Projeto
+
+400.000,00
+
+11.600.000.00
+
+11.600.000.00 6009 ATENDIMENTO AO ENSINO SUPERIOR
+
+IMPLEMENTAR POLÍTICA PÚBLICAS EDUCACIONAIS, VISANDO AO ATENDIMENTO E APOIO AOS ALUNOS GARANTINDO OPORTUNIDADES DE ACESSO,
+
+PERMANÊNCIA E SUCESSO ESCOLAR.
+
+5625 IMOBILIZAÇÕES ENSINO SUPERIOR
+
+IMOBILIZAÇÕES ENSINO SUPERIOR
+
+60.000.00 Projeto
+
+Pág 73/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+6626 APOIO AOS UNIVERSITARIOS
+
+APOIO AOS UNIVERSITARIOS
+
+191.000,00
+
+191.000.00 6627 MANUTENÇÃO DO ENSINO SUPERIOR
+
+MANUTENÇÃO DO ENSINO SUPERIOR
+
+637.539,00
+
+637.539.00
+
+888.539.00
+
+888.539,00ął 2003 PREVIDENCIA NO REGIME ESTATUTÁRIO
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 74/104
+
+5007 IMOBILIZAÇÕES CONTROLADORIA
+
+IMOBILIZAÇÕES CONTROLADORIA
+
+Projeto
+
+4.373,00
+
+4.373.00
+
+6008 \_ MANUT/ DAS ATIVIDADES DA CONTROLADORIA
+
+MANUTENCAO DAS ATIVIDADES DA CONTROLADORIA
+
+185.448,00
+
+185.448.00
+
+189.821,00ł
+
+189.821,00 8002 ATENÇÃO PRIMÁRIA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 76/104
+
+FORTALECER A ATENÇÃO BÁSICA PARA A REALIZAÇÃO DO ELENCO DE AÇÕES BÁSICAS DE PREVENÇÃO, PROMOÇÃO, TRATAMENTO E REABILITAÇÃO AOS USUÁRIOS.
+
+5805 IMOBILIZAÇOES - ATENÇÃO PRIMARIA
+
+IMOBILIZAÇÕES - ATENÇÃO PRIMÁRIA
+
+818.643,00
+
+Projeto 818.643.00
+
+6806 MANUTEN. ATIVIDADES ATENÇÃO PRIMÁRIA MANUTEN. ATIVIDADES ATENÇÃO PRIMÁRIA
+
+19.030.317.00ł
+
+19.030.317.00
+
+Pág 77/104 alidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Orcamento>Relatórios do PPA>Demonstrativo das Acõe orc2 demostrati
+
+19.848.960,00
+
+19.848.960,00 8003 ATENÇÃO ALTA E MÉDIA COMPLEXIDADE
+
+PROPORCIONAR ESTRUTURA DE ASSISTÊNCIA DE MÉDIA COMPLEXIDADE AMBULATORIAL E HOSPITALAR, QUE ATENDA A INTEGRALIDADE DA ATENÇÃO A
+
+SAÚDE E COM GARANTIA DE REFERENCIAMENTO PARA NIVEIS DE COMPLEXIDADE NÃO DISPONIVEIS NO MUNICIPIO.
+
+5808 IMOBILIZAÇÕES - HOSPITAL. E AMBULATORIAL
+
+IMOBILIZAÇÕES - HOSPITAL. E AMBULATORIAL
+
+Projeto
+
+1.473.735.00
+
+1.473.735,00 6809 TRANSFERÊNCIAS A CONSÓRCIO PÚBLICO
+
+TRANSFERÊNCIAS A CONSÓRCIO PÚBLICO
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 78/104
+
+266.804.00
+
+266.804,00
+
+6810 MANUT.ATIVIDADES HOSPITAL.E AMBULATOR.
+
+MANUT ATIVIDADES HOSPITAL.E AMBULATOR.
+
+31.806.219.00
+
+31.806.219,00
+
+33.546.758.00
+
+33.546.758,00
+
+9006 ESTAGIO SUPERVISIONADO
+
+×
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 79/104
+
+PROPORCIONAR A FORMAÇÃO DO EDUCANDO MEDIANTE APRENDIZAGEM DE COMPETÊNCIAS PRÓPRIAS DA ATIVIDADE PROFISSIONAL E A CONTEXTUALIZAÇÃO CURRICULAR POSSIBILITANDO SEU DESENVOLVIMENTO PARA A VIDA CIDADA E PARA O TRABALHO
+
+6939 MANUT. DE PROG. DE DESENV. DO ESTAGIO
+
+MANUT. DE PROG. DE DESENV. DO ESTAGIO
+
+2.449.00
+
+2.449,0ął
+
+2.449.00
+
+2.449.00
+
+8004 SUPORTE PROFILÁTICO E TERAPÊUTICO
+
+GARANTIR O ACESSO DA POPULAÇÃO AOS MEDICAMENTOS DA ATENÇÃO BÁSICA E ESTRATÉGICOS, E ORIENTAR A POPULAÇÃO QUANTO AOS
+
+MEDICAMENTOS EXCEPCIONAIS.
+
+Pág 80/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+5816 IMOBILIZAÇÕES - FAMÁCIA BÁSICA
+
+IMOBILIZAÇÕES - FAMÁCIA BÁSICA
+
+149.531,00ł
+
+Projeto 149.531,00
+
+6814 MANUT. ATIVIDADES FARMÁCIA BÁSICA
+
+MANUT. ATIVIDADES FARMÁCIA BÁSICA
+
+2.465.337,00
+
+2.465.337.0îźŚłš
+
+2.614.868,00
+
+2.614.868.00
+
+8006 VIGILÂNCIA EPIDEMIOLÓGICA
+
+Pág 81/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+ESTE PROGRAMA CONSISTE NA APLICAÇÃO DE RECURSOS ORIUNDOS DO ESTADO/UNIÃO, VISANDO À INVESTIGAÇÃO DE ÓBITOS NATURAIS E DE CAUSAS ADVERSAS, O CONTROLE DAS DOENÇAS INFECTO CONTAGIOSAS E DE DOENÇAS NÃO INFECTO CONTAGIOSAS, BEM COMO A INFORMAÇÃO DA POPULAÇÃO E ÓRGÃOS DE SAÚDE, OBJETIVANDO SUA PREVENÇÃO.
+
+5819 IMOBILIZAÇÕES VIGILÂNCIA EPIDEMIOLÓGICA
+
+IMOBILIZAÇÕES VIGILÂNCIA EPIDEMIOLÓGICA
+
+373.706,00
+
+Projeto 373.706,00
+
+6820 MANUT.ATIVIDADES VIG.EPIDEMIOLÓGICA
+
+MANUT.ATIVIDADES VIG.EPIDEMIOLÓGICA
+
+Pág 82/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002. php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+MANTER O EQUILIBRIO FINANCEIRO E ATUARIAL DO REGIME DO SERVIDOR PÚBLICO MUNICIPAL PROVENIENTES DE CONTRIBUIÇÕES PATRONAIS, CONTRIBUIÇÕES DOS SERVIDORES E AS REMUNERAÇÕES DOS INVESTIMENTOS.
+
+6304 AMORTIZAÇÃO DA DÍVIDA INTERNA
+
+AMORTIZAÇÃO DA DÍVIDA INTERNA
+
+8.478.898.00
+
+8.478.898,00
+
+8.478.898.00
+
+8.478.898,00 1003 CONTROLE INTERNO
+
+GARANTIR A EFICIÊNCIA, EFICÁCIA E EFETIVIDADE DO ÓRGÃO.
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2\_ demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 75/104
+
+5.624.021.00
+
+5.624.021.00
+
+5.997.727.00
+
+5.997.727.00 6004 MELHORIA E REVITALIZ.DA EDCUAÇÃO BÁSICA
+
+ASSEGURAR A IGUALDADE NAS CONDIÇÕES DE ACESSO, PERMANÊNCIA E ÊXITO DO ALUNO MATRICULADO NO ENSINO INFANTIL E FUNDAMENTAL;
+
+CAPACITAR A CRIANÇA PARA INICIAR O PROCESSO PEDAGÓGICO, PROPORCIONANDO-LHE A OPORTUNIDADE DE PARTICIPAR DE ATIVIDADES QUE PROMOVAM O SEU DESENVOLVIMENTO SOCIAL, FÍSICO E INTELECTUAL.
+
+5607 IMOMIBILIZAÇÕES DO ENSINO FUNDAMENTAL
+
+IMOMIBILIZAÇÕES DO ENSINO FUNDAMENTAL
+
+Projeto
+
+4.430.000.00
+
+4.430.000,00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 X Pág 83/104
+
+5619 IMOBILIZAÇÃO DO ENSINO INFANTIL
+
+IMOBILIZAÇÃO DO ENSINO INFANTIL
+
+Projeto
+
+513.000,00
+
+513.000,00
+
+5622 IMOBILIZAÇÕES DO ENSINO ESPECIAL IMOBILIZAÇÕES DO ENSINO ESPECIAL
+
+Projeto
+
+42.000,00
+
+42.000,00
+
+6611 MANUT. DO ENSINO FUNDAMENTAL
+
+MANUT. DO ENSINO FUNDAMENTAL
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002. php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 X Pág 84/104
+
+Classificaçã
+
+11.081.700.00
+
+11.081.700,00 6612 MANUTENÇÃO DOS PROFISSIONAIS DO MAGISTER
+
+MANUTENÇÃO DOS PROFISSIONAIS DO MAGISTER
+
+18.470.300.00
+
+18.470.300.00 6620 MANUTENÇÃO DOS PROF.DO MAGISTERIO-CRECHE
+
+MANUTENÇÃO DOS PROF. DO MAGISTERIO/CRECHE
+
+2.050.300.00
+
+2.050.300.00
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Páo 85/104
+
+6621 MANUT. ATIVIDADES DO ENS.INFANTIL/CRECHE
+
+MANUT. ATIVIDADES DO ENS. INFANTIL/CRECHE
+
+1.225.400,00
+
+1.225.400.00 6623 MANUT. DOS PROFISSIONAIS DO MAGISTERIO
+
+MANUT. DOS PROFISSIONAIS DO MAGISTERIO
+
+390.100.00
+
+390.100.00
+
+6624 MANUT. DAS ATIV. DO ENSINO ESPECIAL MANUT. DAS ATIV. DO ENSINO ESPECIAL
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 86/104
+
+202.400,00
+
+6934 MANUTENÇÃO DO PROG. BRASIL CARINHOSO
+
+202.400.0łął
+
+MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO INFANTIL PARA O ATENDIMENTO DE CRIANÇAS DE ZERO A 48 MESES.
+
+100.000.00
+
+6937 MANUT. DOS PROF. MAGISTÉRIO/PRÉ ESCOLA
+
+100.000.00
+
+MANUTENÇÃO DOS PROFESSORES. MAGISTÉRIO/PRÉ ESCOLA
+
+9.800.100,00
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38-58 9.800.100,00
+
+6938 MANUT.ATIV. ENS. INFANTIL/PRÉ ESCOLA
+
+MANUTENÇÃO ATIVIDADES ENSINO INFANTIL/PRÉ ESCOLA
+
+3.082.100,0ł
+
+3.082.100,00 6951 MANUT.ATIV.DA ASSOC.BRASIL.EDUC.CIV.MILI
+
+MANUTENÇÃO DAS ATIVIDADES DA ASSOCIAÇÃO BRASILEIRA DA EDUCAÇÃO CÍVICO MILITAR
+
+contribuição realizada
+
+CONTRIBUIÇÃO MESES
+
+660.000.00 REALIZADA
+
+660.000,00
+
+52.047.400.00 52.047.400.00 6010 INCLUSÃO DIGITAL E TECNOLÓGICA
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Páo 88/104
+
+PROMOVER O USO DAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO COMO FERRAMENTA DE ENRIQUECIMENTO PEDAGÓGICO NAS REDES PÚBLICAS DE EDUCAÇÃO BÁSICA.
+
+0,00 7001 ADM. SEC. DE ESPORTE LAZER E CULTURA
+
+DISPONIBILIZAR E MODERNIZAR ÁREAS PARA A PRÁTICA DE ESPORTES, CULTURA E LAZER, ASSIM COMO A INSTALAÇÃO DE EQUIPAMENTOS ADEQUADOS À PRÁTICA ESPORTIVA.
+
+5701 IMOBILIZ. DA SEC.CULT.TURIMO ESP.LAZER
+
+IMOBILIZ. DA SEC.CULT.TURIMO ESP.LAZER
+
+Orcamento> Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 89/104
+
+Projeto
+
+26.032,00
+
+26.032,00 6702 ADMINISTR.DA SEC.CULT.TURIS.ESP.LAZER
+
+MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE CULTURA, TURISMO, ESPORTE E LAZER
+
+731.331,00
+
+731.331.00ł
+
+757.363,00 757.363.00 7002 ATENDIMENTO ATIVIDADES CULTURAIS
+
+FOMENTAR E PROMOVER O PATRIMÔNIO CULTURAL DO MUNICÍPIO DE SÃO FRANCISCO
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 90/104
+
+5703 IMOBILIZ.PARA PATRIM.HISTÓR.E CULTURAL
+
+IMOBILIZ.PARA PATRIM.HISTÓR.E CULTURAL
+
+44.275,00
+
+Projeto 44.275,00
+
+6704 MANUT.ATIVIDADES PATRIM.HIST.E CULTURAL
+
+MANUT.ATIVIDADES DO SETOR DE PATRIMONIO HISTORICO E CULTURAL
+
+564.276.00
+
+564.276.00îšŚš
+
+608.551,00
+
+608.551,00ł
+
+1011 \_ PLANEJAMENTO E SERVIÇOS URBANOS
+
+Programas Finalístico
+
+Pág 91/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+PROMOÇÃO DA LIMPEZA PÚBLICA, REVITALIZAÇÃO E AMPLIAÇÃO PAISAGÍSTICA MUNICIPAL PROPICIANDO QUALIDADE DE VIDA.
+
+5104 IMOBILIZAÇÕES PLANEJ. E SERV. URBANOS
+
+IMOBILIZAÇÕES DO SETOR DE PLANEJAMENTO E SERVIÇOS URBANOS
+
+77.889,00
+
+Projeto 77.889,00
+
+6106 MANUT. DAS ATIVIDADES PLAN. SERV. URBANO
+
+MANUT. DAS ATIVIDADES DO SETOR DE PLANEJAMENTO SERVIÇOS URBANO
+
+5.173.383,00
+
+5.173.383,00ł
+
+\ Pág 92/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+5.251.272,00
+
+5.251.272,00
+
+5002 PRESERVAÇÃO DO MEIO AMBIENTE
+
+PROMOVER A PROTEÇÃO E A RECUPERAÇÃO DA QUALIDADE E SAÚDE DOS ASPECTOS AMBIENTAIS DO MUNICÍPIO, VISANDO À MOBILIZAÇÃO E À
+
+FORMAÇÃO DA SOCIEDADE PARA AS PRÁTICAS AMBIENTALMENTE SUSTENTÁVEIS E EM ESPECIAL PARA A PRODUÇÃO E O CONSUMO SUSTENTÁVEIS.
+
+5503 IMOBILIZAÇÕES E PRESERVAÇÃO AMBIENTAL
+
+ADQUIRIR MOVEIS, EQUIPAMENTOS, VEICULOS, OBRAS E INSTALAÇÕES DESTINADO A ATENDER AS NECESSIDADES DO MEIO AMBIENTE
+
+44.713,00
+
+Projeto 44.713,00
+
+6504 MANUT. ATIVIDADES GESTAO AMBIENTAL
+
+MANUT. ATIVIDADES GESTAO AMBIENTAL
+
+Pág 93/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+285.620.00
+
+285.620,00
+
+330.333,00
+
+330.333.00
+
+9003 PROTEÇÃO SOCIAL ESPECIAL
+
+EXECUTAR OS SERVIÇOS DA PROTEÇÃO SOCIAL ESPECIAL
+
+5932 IMOBILIZ. DA PROTEÇÃO SOCIAL ESP. MAC
+
+IMOBILIZAÇÕES DA PROTEÇÃO SOCIAL ESPECIAL DE ALTA COMPLEXIDADE
+
+Orcamento>Relatórios do PPA> Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 94/104
+
+Projeto 107.486.00
+
+107.486,00
+
+6943 MANUT. SER DE PROT; SOCIAL ESP. MAC
+
+GRUPOS, QUE SE ENCONTRAM EM SITUAÇÃO DE RISCO PESSOAL E SOCIAL, POR OCORRÊNCIA DE ABANDONO, MAUS TRATOS FÍSICOS, E OU,
+
+PSÍQUICOS, ABUSO SEXUAL, SITUAÇÃO DE TRABALHO INFANTIL, ENTRE OUTRAS
+
+3.437.557.00
+
+3.437.557,00
+
+3.545.043,00
+
+3.545.043.00 4090 PROJETOS DIVERSOS
+
+EQUIPAMENTOS E MATERIAL PERMANENTE
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 95/104
+
+1001 AQUISIÇAO DE EQUIP.MAT.PERM.CAMARA
+
+AQUISIÇÃO DE EQUIP. MAT.PERM.CAMARA
+
+Projeto
+
+186.359.00
+
+186.359,00 1002 \_ CONSTR.RECUP.AMPL.DO PREDIO DA CAM.
+
+CONSTR.RECUP.AMPL.DO PREDIO DA CAM.
+
+Projeto
+
+161.403.00
+
+161.403.00
+
+347.762.00
+
+347.762.00 5004 PROMOÇÃO DO COMERCIO LOCAL
+
+Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Páo 96/104
+
+LEI DE DIRETRIZES ORÇAMENTARIAS - EXERCÍCIO DE
+
+APOIAR O PEQUENO PRODUTOR RURAL ATRAVÉS DE ORIENTAÇÕES PARA O DESENVOLVIMENTO DA AGRICULTURA. ORIENTAR E PREPARAR O TRABALHADOR PARA INICIAR SUA ATIVIDADE PROFISSIONAL COMPATÍVEL COM SEUS INTERESSES, HABILIDADES E QUALIFICAÇÃO PROFISSIONAL. CAPACITAR E ORIENTAR O EMPRESÁRIO PARA O DESENVOLVIMENTO ECONÔMICO, AUXILIAR NO CRESCIMENTO E DESENVOLVIMENTO DAS EMPRESAS LOCAIS.
+
+0,00
+
+9009 SERVIÇOS E PROGRAMAS DO SUAS
+
+SERVIÇOS E PROGRAMAS DO SUAS
+
+5934 IMOBILIZAÇÕES DOS PROGRAMAS E PROJETOS N IMOBILIZAÇÕES DOS PROGRAMAS E PROJETOS NO ÂMBITO DO SUAS
+
+Orcamento>Relatórios do PPA> Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58 Pág 97/104
+
+Projeto 39.090,00
+
+39.090,00
+
+6931 MANUTENÇÃO ACESSUAS/TRABALHO/PRONATEC
+
+Promoção da Integração ao Mundo do Trabalho
+
+Base Legal^
+
+96.839.00
+
+96.839,00
+
+6932 MANUT. AÇÕES ESTRATEGICAS DO PETI
+
+Realização de ações estratégicas com foco na erradicação do trabalho infantil
+
+189.666.00ł
+
+189.666,00
+
+Pág 98/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_ demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+6945 MANUT. DOS PROG. E PROJ NO ÂMB. SUAS
+
+EXECUTAR SERVIÇOS, PROGRAMAS E PROJETOS, PARA FAMÍLIAS, INDIVÍDUOS E GRUPOS, QUE DELES NECESSITAREM, QUE SE ENCONTRAM EM
+
+SITUAÇÃO DE RISCO E VULNERABILIDADE PESSOAL E SOCIAL
+
+55.739,00
+
+55.739.00
+
+6947 MANUTENÇÃO PROG. CRIANÇA FELIZ
+
+Ppromoção do desenvolvimento das crianças que estão na primeira infância
+
+657.058,00
+
+657.058.00
+
+1.038.392,00
+
+1.038.392,00
+
+9008 FUNDO MUN. CRIANÇA E ADOLESCENTE
+
+Brunalidade: Pág 99/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+FUNDO MUN. CRIANÇA E ADOLESCENTE
+
+5906 IMOBILIZAÇÕES DA CRIANÇA E ADOLESCENTE
+
+IMOBILIZAÇÕES DA CRIANÇA E ADOLESCENTE
+
+1.250,00
+
+Projeto
+
+1.250,00
+
+5925 IMOBILIZAÇÕES DO FIA
+
+IMOBILIZAÇÕES DO FIA
+
+1.250.00
+
+Projeto
+
+1.250,00
+
+Pág 100/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+6907 MANUT. DO CONS. DA CRIANÇA E ADOLESCENTE
+
+MANUT. DO CONS. DA CRIANÇA E ADOLESCENTE
+
+12.496,00
+
+12.496,00
+
+6926 MANUTENÇÃO DO FIA
+
+MANUTENÇÃO DO FIA
+
+253.332,00
+
+253.332,00
+
+268.328.00
+
+268.328.00
+
+8007 ASSISTENCIA A SAUDE
+
+Pág 101/104 Orcamento > Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+ASSISTENCIA A SAUDE
+
+0,00
+
+9014 PROGRAMA ASSIST. COMUNIT. E REC. HIDRICO
+
+01/01/2023 Data Término: 31/12/2027
+
+Promover o cooperativismo, gerenciamento de parcerias, integração de entidades comunitárias, apoio e execução de atividades de combate a seca
+
+5944 IMOBILIZAÇÕES AÇÃO COMUNIT. REC. HIDRICO
+
+IMOBILIZAÇÕES AÇÃO COMUNIT. REC. HIDRICO
+
+1.743.000,00
+
+PERCENTUAL Projeto 1.743.000,00
+
+X Pág 102/10ął Raco' o cidado Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002 php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+6954 MANUTENÇÃO AÇÃO COMUNIT. REC. HIDRICOS MANUTENÇÃO AÇÃO COMUNIT. REC. HIDRICOS
+
+MESES 505.207,00
+
+505.207.00
+
+2.248.207,00 2.248.207,00
+
+9013 PROG DEFESA E ASSIST A POPU ATINGIDA POR
+
+Programas de Apoio as Políticas Públicas e Áreas Especiais
+
+11/05/2022
+
+Data Término: 31/12/2025
+
+ores er nivel de segur
+
+Incrementar o nível de segurança intrínseca e reduzir a vulnerabilidade dos desastres e das comunidades em risco; otimizar o funcionamento do sistema municipal de defesa civil - SIMDEC, em todo o território municipal; facilitar uma rápida e eficiente mobilização dos recursos necessários ao restabelecimento da situação de normalidade , em circunstâncias e desastres.
+
+5940 IMOBILIZAÇÕES DA DEFESA CIVIL
+
+Imobilizações da Defesa Civil INVESTIMENTOS DIVERSOS
+
+Pág 103/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2\_demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+
+209.260,0ął
+
+INVESTIMENTOS MESES Projeto DIVERSOS
+
+209.260,00 6952 MANUTENÇÃO DA DEFESA CIVIL
+
+MANUTENÇAO DA DEFESA CIVIL
+
+SECRETARIA DE OBRAS E TRANSPORTES 1.011.478.00 MÊS
+
+1.011.478.00
+
+1.220.738.00
+
+1.220.738.00
+
+338.545.614.00
+
+338.545.614,00 TOTAL GERAL
+
+Pág 104/104 Orcamento>Relatórios do PPA>Demonstrativo das Açõe orc2 demostrativoacoesvalidadas002.php Emissor: Junior Jadson Araujo Dos Santo Exerc: 2024 Data: 01-01-2024 - 20:38:58
+

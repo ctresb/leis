@@ -1,0 +1,16 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icapui.ce.leg.br/9d3fa5eddf45a7a0922dd2fec4b28d1993db91829e207bdab7e869725b949a10.json",
+      "url": "https://sapl.icapui.ce.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "capturado_em": "2026-10-20T20:50:49.986460",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.icapui.ce.leg.br/9d3fa5eddf45a7a0922dd2fec4b28d1993db91829e207bdab7e869725b949a10.json"
+    }
+  ]
+}

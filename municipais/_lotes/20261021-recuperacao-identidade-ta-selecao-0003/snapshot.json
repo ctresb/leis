@@ -1,0 +1,2357 @@
+{
+  "criterio": "Congela a revisão offline de retenções antigas por epígrafe, sem recaptura.\n\nNão seleciona identidades já aprovadas em qualquer gate nem casos previamente\nexaminados nesta recuperação. Cada lote preserva origem e índice de anexos.\n",
+  "selecionados": 325,
+  "retidos_disponiveis": 325,
+  "origens": [
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    }
+  ],
+  "identidades": [
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5668,
+      "norma_id": 26258,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5664,
+      "norma_id": 26257,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5663,
+      "norma_id": 26256,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5659,
+      "norma_id": 26254,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5655,
+      "norma_id": 26253,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5654,
+      "norma_id": 26252,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5653,
+      "norma_id": 26251,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5652,
+      "norma_id": 26250,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5646,
+      "norma_id": 26249,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5645,
+      "norma_id": 26248,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5642,
+      "norma_id": 26247,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5612,
+      "norma_id": 26246,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5609,
+      "norma_id": 26244,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5608,
+      "norma_id": 26245,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5606,
+      "norma_id": 26219,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5584,
+      "norma_id": 26221,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5582,
+      "norma_id": 26217,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5581,
+      "norma_id": 26216,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5580,
+      "norma_id": 26215,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5572,
+      "norma_id": 26214,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5548,
+      "norma_id": 26213,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5550,
+      "norma_id": 26212,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5554,
+      "norma_id": 26211,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5555,
+      "norma_id": 26209,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8458,
+      "norma_id": 26151,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8459,
+      "norma_id": 26150,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8460,
+      "norma_id": 26149,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8461,
+      "norma_id": 26148,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8463,
+      "norma_id": 26147,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8465,
+      "norma_id": 26146,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8467,
+      "norma_id": 26144,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8468,
+      "norma_id": 26143,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8470,
+      "norma_id": 26142,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8472,
+      "norma_id": 26141,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8474,
+      "norma_id": 26140,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8475,
+      "norma_id": 26139,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8477,
+      "norma_id": 26138,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8478,
+      "norma_id": 26137,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8480,
+      "norma_id": 26136,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8481,
+      "norma_id": 26134,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8482,
+      "norma_id": 26133,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8483,
+      "norma_id": 26135,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8484,
+      "norma_id": 26132,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8571,
+      "norma_id": 28782,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8583,
+      "norma_id": 26130,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8585,
+      "norma_id": 26129,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8586,
+      "norma_id": 26128,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8589,
+      "norma_id": 26126,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8591,
+      "norma_id": 26125,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8701,
+      "norma_id": 26124,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8700,
+      "norma_id": 26123,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8699,
+      "norma_id": 26156,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8698,
+      "norma_id": 26122,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8697,
+      "norma_id": 26121,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8695,
+      "norma_id": 26117,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8696,
+      "norma_id": 26116,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8693,
+      "norma_id": 26115,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8692,
+      "norma_id": 26114,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8691,
+      "norma_id": 26113,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8690,
+      "norma_id": 26112,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8688,
+      "norma_id": 26111,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8687,
+      "norma_id": 26110,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8686,
+      "norma_id": 26109,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8681,
+      "norma_id": 26108,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5644,
+      "norma_id": 26105,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8679,
+      "norma_id": 26104,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8678,
+      "norma_id": 26103,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8675,
+      "norma_id": 26099,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8672,
+      "norma_id": 26098,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8671,
+      "norma_id": 26097,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8670,
+      "norma_id": 26096,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8669,
+      "norma_id": 26095,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8668,
+      "norma_id": 26094,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8667,
+      "norma_id": 26093,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8666,
+      "norma_id": 26092,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8665,
+      "norma_id": 26091,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8664,
+      "norma_id": 26090,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8663,
+      "norma_id": 26089,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8659,
+      "norma_id": 26085,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8636,
+      "norma_id": 26077,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8631,
+      "norma_id": 26072,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8630,
+      "norma_id": 26071,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8629,
+      "norma_id": 26070,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8628,
+      "norma_id": 26157,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8623,
+      "norma_id": 26066,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8622,
+      "norma_id": 26065,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8619,
+      "norma_id": 26064,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8614,
+      "norma_id": 26061,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8613,
+      "norma_id": 26059,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8610,
+      "norma_id": 26056,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8609,
+      "norma_id": 26055,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8608,
+      "norma_id": 26054,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8607,
+      "norma_id": 26053,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8606,
+      "norma_id": 26052,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8598,
+      "norma_id": 26033,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8597,
+      "norma_id": 26032,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8596,
+      "norma_id": 26031,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8595,
+      "norma_id": 26030,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8594,
+      "norma_id": 26029,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8593,
+      "norma_id": 26028,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8592,
+      "norma_id": 26027,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8590,
+      "norma_id": 26025,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8588,
+      "norma_id": 26024,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8584,
+      "norma_id": 26023,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8582,
+      "norma_id": 26022,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8581,
+      "norma_id": 26021,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8580,
+      "norma_id": 26020,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8579,
+      "norma_id": 26019,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8578,
+      "norma_id": 26018,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8577,
+      "norma_id": 26017,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8576,
+      "norma_id": 26016,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8575,
+      "norma_id": 26015,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8568,
+      "norma_id": 26006,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8564,
+      "norma_id": 26002,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8561,
+      "norma_id": 26000,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8558,
+      "norma_id": 25997,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8557,
+      "norma_id": 25996,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8554,
+      "norma_id": 25993,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8553,
+      "norma_id": 25992,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8552,
+      "norma_id": 25968,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8551,
+      "norma_id": 26160,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8550,
+      "norma_id": 26159,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8549,
+      "norma_id": 25967,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8548,
+      "norma_id": 25966,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8547,
+      "norma_id": 25963,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8545,
+      "norma_id": 25962,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8544,
+      "norma_id": 25961,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8543,
+      "norma_id": 25959,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8542,
+      "norma_id": 25958,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8541,
+      "norma_id": 25957,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8538,
+      "norma_id": 25948,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8535,
+      "norma_id": 25946,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8534,
+      "norma_id": 25937,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8522,
+      "norma_id": 25945,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8520,
+      "norma_id": 25944,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8517,
+      "norma_id": 25930,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8516,
+      "norma_id": 26161,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8515,
+      "norma_id": 25927,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8514,
+      "norma_id": 25926,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8513,
+      "norma_id": 25925,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8512,
+      "norma_id": 25924,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8511,
+      "norma_id": 25923,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8510,
+      "norma_id": 25922,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8509,
+      "norma_id": 25921,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8508,
+      "norma_id": 25920,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8503,
+      "norma_id": 25916,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8502,
+      "norma_id": 25915,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8501,
+      "norma_id": 25914,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8499,
+      "norma_id": 25913,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8498,
+      "norma_id": 25912,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8496,
+      "norma_id": 25911,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8495,
+      "norma_id": 25910,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8493,
+      "norma_id": 25909,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8492,
+      "norma_id": 25908,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8491,
+      "norma_id": 25907,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8490,
+      "norma_id": 25906,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8486,
+      "norma_id": 25943,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8485,
+      "norma_id": 25899,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8476,
+      "norma_id": 25898,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8464,
+      "norma_id": 25897,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8462,
+      "norma_id": 25896,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8457,
+      "norma_id": 25895,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8456,
+      "norma_id": 25894,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8455,
+      "norma_id": 25893,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8450,
+      "norma_id": 25866,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8449,
+      "norma_id": 25865,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8445,
+      "norma_id": 25860,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8444,
+      "norma_id": 25859,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8443,
+      "norma_id": 25858,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8442,
+      "norma_id": 25857,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8441,
+      "norma_id": 25856,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8440,
+      "norma_id": 25855,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8434,
+      "norma_id": 25847,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8433,
+      "norma_id": 25846,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8432,
+      "norma_id": 25845,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8431,
+      "norma_id": 25844,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8430,
+      "norma_id": 25843,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8428,
+      "norma_id": 25841,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8427,
+      "norma_id": 25833,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8426,
+      "norma_id": 25840,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3810,
+      "norma_id": 25773,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8419,
+      "norma_id": 25831,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8418,
+      "norma_id": 25830,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8414,
+      "norma_id": 25825,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8413,
+      "norma_id": 25824,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8412,
+      "norma_id": 25823,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8411,
+      "norma_id": 25822,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8410,
+      "norma_id": 25821,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8409,
+      "norma_id": 25820,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8408,
+      "norma_id": 25819,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8407,
+      "norma_id": 25818,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8406,
+      "norma_id": 25817,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8405,
+      "norma_id": 25816,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8404,
+      "norma_id": 25815,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8403,
+      "norma_id": 25814,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8402,
+      "norma_id": 25797,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8401,
+      "norma_id": 25796,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8398,
+      "norma_id": 25795,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8396,
+      "norma_id": 25791,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8393,
+      "norma_id": 25788,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8392,
+      "norma_id": 25787,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8391,
+      "norma_id": 25786,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8389,
+      "norma_id": 25785,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8388,
+      "norma_id": 25784,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8387,
+      "norma_id": 25783,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8386,
+      "norma_id": 25782,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8385,
+      "norma_id": 25781,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8384,
+      "norma_id": 25780,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8383,
+      "norma_id": 25779,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8372,
+      "norma_id": 25771,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8371,
+      "norma_id": 25770,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8370,
+      "norma_id": 25769,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8362,
+      "norma_id": 25768,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8380,
+      "norma_id": 25767,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8379,
+      "norma_id": 25766,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8378,
+      "norma_id": 25765,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8361,
+      "norma_id": 25764,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8377,
+      "norma_id": 25762,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8376,
+      "norma_id": 25761,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8375,
+      "norma_id": 25760,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8354,
+      "norma_id": 25759,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8353,
+      "norma_id": 25758,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8341,
+      "norma_id": 25755,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8340,
+      "norma_id": 25754,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8338,
+      "norma_id": 25753,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8337,
+      "norma_id": 25752,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8350,
+      "norma_id": 25751,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8349,
+      "norma_id": 25750,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8348,
+      "norma_id": 25749,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8329,
+      "norma_id": 25738,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8328,
+      "norma_id": 25737,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8326,
+      "norma_id": 25735,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8324,
+      "norma_id": 25734,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8323,
+      "norma_id": 25733,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8322,
+      "norma_id": 25732,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8319,
+      "norma_id": 25731,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8317,
+      "norma_id": 25730,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8310,
+      "norma_id": 25727,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8307,
+      "norma_id": 26165,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8306,
+      "norma_id": 25725,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8300,
+      "norma_id": 25724,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8299,
+      "norma_id": 25723,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8298,
+      "norma_id": 25722,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8290,
+      "norma_id": 25719,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8289,
+      "norma_id": 25694,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8287,
+      "norma_id": 25692,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8285,
+      "norma_id": 25691,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8264,
+      "norma_id": 25685,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8263,
+      "norma_id": 26166,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8262,
+      "norma_id": 25684,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8261,
+      "norma_id": 25683,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8260,
+      "norma_id": 25682,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8259,
+      "norma_id": 25681,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8258,
+      "norma_id": 25680,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8257,
+      "norma_id": 25679,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8253,
+      "norma_id": 26167,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8252,
+      "norma_id": 26168,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8251,
+      "norma_id": 25675,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8250,
+      "norma_id": 25674,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8249,
+      "norma_id": 25673,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8248,
+      "norma_id": 25672,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8247,
+      "norma_id": 25671,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8246,
+      "norma_id": 25670,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8240,
+      "norma_id": 25665,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8239,
+      "norma_id": 25664,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8238,
+      "norma_id": 25663,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8237,
+      "norma_id": 25662,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8236,
+      "norma_id": 25661,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8235,
+      "norma_id": 25656,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8234,
+      "norma_id": 25655,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8233,
+      "norma_id": 25654,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8232,
+      "norma_id": 25653,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8231,
+      "norma_id": 25652,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8230,
+      "norma_id": 25651,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8229,
+      "norma_id": 25660,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8228,
+      "norma_id": 25650,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8227,
+      "norma_id": 25649,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8226,
+      "norma_id": 25648,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8224,
+      "norma_id": 25657,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8223,
+      "norma_id": 25646,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8222,
+      "norma_id": 25645,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8221,
+      "norma_id": 25644,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8220,
+      "norma_id": 25643,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8219,
+      "norma_id": 25642,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8217,
+      "norma_id": 25640,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8216,
+      "norma_id": 25639,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8212,
+      "norma_id": 25637,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8210,
+      "norma_id": 25636,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8209,
+      "norma_id": 25635,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8207,
+      "norma_id": 25634,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8206,
+      "norma_id": 25633,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8204,
+      "norma_id": 25632,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8202,
+      "norma_id": 25631,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8200,
+      "norma_id": 25630,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8199,
+      "norma_id": 25628,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8198,
+      "norma_id": 25629,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8196,
+      "norma_id": 25627,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8197,
+      "norma_id": 25626,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8193,
+      "norma_id": 25625,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8185,
+      "norma_id": 26169,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8184,
+      "norma_id": 26170,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8183,
+      "norma_id": 26171,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8182,
+      "norma_id": 26172,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8179,
+      "norma_id": 26173,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8175,
+      "norma_id": 28690,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8172,
+      "norma_id": 28689,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8171,
+      "norma_id": 28688,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8170,
+      "norma_id": 25603,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8169,
+      "norma_id": 25602,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8181,
+      "norma_id": 25601,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8180,
+      "norma_id": 25600,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8178,
+      "norma_id": 25599,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8177,
+      "norma_id": 25598,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8161,
+      "norma_id": 25594,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8160,
+      "norma_id": 25593,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8159,
+      "norma_id": 25592,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8158,
+      "norma_id": 25584,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8157,
+      "norma_id": 25583,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8153,
+      "norma_id": 25578,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8152,
+      "norma_id": 25577,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8145,
+      "norma_id": 25574,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8144,
+      "norma_id": 25590,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8143,
+      "norma_id": 25589,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8142,
+      "norma_id": 25573,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8141,
+      "norma_id": 25572,
+      "gate_anterior": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "pendencia_anterior": "Epígrafe literal não confirma número e data"
+    }
+  ],
+  "anexos": [
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    }
+  ],
+  "codigo_sha256": "267bcf939e8e1bb1bc4ecafd45e79187b51b0ca77ec168c3182851deacf9a166",
+  "limite": "Reanálise de candidatos antigos retidos, sem alteração das fontes, datas de captura, textos ou listas anteriores. Não é coleta nova nem aprovação automática."
+}

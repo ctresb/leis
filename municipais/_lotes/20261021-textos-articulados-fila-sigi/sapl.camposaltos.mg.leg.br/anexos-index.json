@@ -1,0 +1,528 @@
+{
+  "estado": "indice_completo",
+  "total": 51,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/1/lo_194_2006_anexo.pdf da norma Lei nº 194, de 13 de março de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexo plano Decenal de Educação",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2006/1/lo_194_2006_anexo.pdf",
+      "ano": 2006,
+      "norma": 114
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/lo_1.104_2023_anexo.pdf da norma Lei-CMCA nº 1.104, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da receita estimada e despesa fixada exercício 2024",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2023/2/lo_1.104_2023_anexo.pdf",
+      "ano": 2023,
+      "norma": 2974
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/lo_1041_2022anexos.pdf da norma Lei-CMCA nº 1.041, de 20 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2022/3/lo_1041_2022anexos.pdf",
+      "ano": 2022,
+      "norma": 1729
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/4/lo_1038_2022anexo.pdf da norma Lei-CMCA nº 1.038, de 20 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2022/4/lo_1038_2022anexo.pdf",
+      "ano": 2022,
+      "norma": 2991
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/lo_1039_2022anexo.pdf da norma Lei-CMCA nº 1.039, de 20 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2022/5/lo_1039_2022anexo.pdf",
+      "ano": 2022,
+      "norma": 2992
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/6/lei_725_2016_anexo.pdf da norma Lei-CMCA nº 725, de 03 de agosto de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei 725/2016 - Lei Diretrizes Orçamentárias",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2016/6/lei_725_2016_anexo.pdf",
+      "ano": 2016,
+      "norma": 641
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/lei_1132_2024anexo.pdf da norma Lei-CMCA nº 1.132, de 28 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2024/7/lei_1132_2024anexo.pdf",
+      "ano": 2024,
+      "norma": 3180
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/8/lei_1166_2024anexo.pdf da norma Lei-CMCA nº 1.166, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2024/8/lei_1166_2024anexo.pdf",
+      "ano": 2024,
+      "norma": 3214
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/lei_1179_2025anexoi.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Quadro de resultado de índices oficiais",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/9/lei_1179_2025anexoi.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/lei_1179_2025anexoii.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos de cenários de adequação da despesa",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/10/lei_1179_2025anexoii.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/lei_1179_2025anexoiii.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Memória de cálculo da receita exercícios de 2022 a 2028",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/11/lei_1179_2025anexoiii.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/12/lei_1179_2025anexoiv.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Memória de cálculo da despesa exercícios de 2022 a 2028",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/12/lei_1179_2025anexoiv.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/13/lei_1179_2025anexov.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Projeção da dívida consolidada líquida e resultado nominal",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/13/lei_1179_2025anexov.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/14/lei_1179_2025anexovi.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexo de metas fiscais e metas anuais",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/14/lei_1179_2025anexovi.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/15/lei_1179_2025anexovii.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Avaliação do cumprimento das metas fiscais do exercício anterior",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/15/lei_1179_2025anexovii.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/lei_1179_2025anexoviii.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Metas fiscais comparadas com as fixadas nos três exercícios anteriores",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/16/lei_1179_2025anexoviii.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/17/lei_1179_2025anexoix.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Evolução do patrimônio líquido",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/17/lei_1179_2025anexoix.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/18/lei_1179_2025anexox.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Origem e aplicações de recursos obtidos com alienação de ativos",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/18/lei_1179_2025anexox.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/19/lei_1179_2025anexoxi.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de riscos fiscais e providências",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/19/lei_1179_2025anexoxi.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/20/lei_1179_2025anexoxii.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Margem de expansão das despesas obrigatórias de caráter continuado",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/20/lei_1179_2025anexoxii.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/lei_1179_2025anexoxiii.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexo das variações previstas no quadro de pessoal",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/21/lei_1179_2025anexoxiii.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/lei_1179_2025anexoxiv.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Estimativa e compensação da renúncia de receita",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/22/lei_1179_2025anexoxiv.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/lei_1179_2025anexoxv.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo das receitas e despesas previdênciárias do RPPS",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/23/lei_1179_2025anexoxv.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/24/lei_1179_2025anexoxvi.pdf da norma Lei-CMCA nº 1.179, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da projeção atuarial do RPPS",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/24/lei_1179_2025anexoxvi.pdf",
+      "ano": 2025,
+      "norma": 3229
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/25/lei_1227_2025anexoi.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo resumido por programa",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/25/lei_1227_2025anexoi.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/lei_1227_2025anexoii.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Fontes Integrantes das Ações - resumido",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/26/lei_1227_2025anexoii.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/27/lei_1227_2025anexoiii.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Fontes Integrantes das Ações",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/27/lei_1227_2025anexoiii.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/28/lei_1227_2025anexoiv.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Levantamento Preliminar das Ações",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/28/lei_1227_2025anexoiv.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/29/lei_1227_2025anexov.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Programa Setorial Identificação de Ações",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/29/lei_1227_2025anexov.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/30/lei_1227_2025anexovi.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Relação de Ações Integrantes do Programa",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/30/lei_1227_2025anexovi.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/31/lei_1227_2025anexovii.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Programa Setorial",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/31/lei_1227_2025anexovii.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/32/lei_1227_2025anexoviii.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Relação das Ações Validadas",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/32/lei_1227_2025anexoviii.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/33/lei_1227_2025anexoix.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Relação de Ações Integrantes do Programa - Objetivos específicos",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/33/lei_1227_2025anexoix.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/34/lei_1227_2025anexox.pdf da norma Lei-CMCA nº 1.227, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Relação das Ações Integrantes do Programa - Valores por exercício do quadriênio",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2025/34/lei_1227_2025anexox.pdf",
+      "ano": 2025,
+      "norma": 3279
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/35/lei_1253_2026_anexo_i_-__metas_e_prioridades.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Metas e Prioridades",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/35/lei_1253_2026_anexo_i_-__metas_e_prioridades.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/36/lei_1253_2026_anexo_ii_-_resultado_de_indices_oficiais.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Resultado de Indices Oficiais",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/36/lei_1253_2026_anexo_ii_-_resultado_de_indices_oficiais.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/37/lei_1253_2026_anexo_iii-iv_-_demonstrativos_de_cenarios_de_adequacao_da_despesa_receita.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos de Cenários de Adequação da Despesa Receita",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/37/lei_1253_2026_anexo_iii-iv_-_demonstrativos_de_cenarios_de_adequacao_da_despesa_receita.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/38/lei_1253_2026_anexo_v_-_memoria_de_calculo_das_receitas_exercicios_de_2023_a_2029.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Memória de Cálculo das Receitas Exercícios de 2023 a 2029",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/38/lei_1253_2026_anexo_v_-_memoria_de_calculo_das_receitas_exercicios_de_2023_a_2029.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/39/lei_1253_2026_anexo_vi_-_memoria_de_calculo_da_despesa_exercicios_de_2023_a_2029.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Memória de Cálculo da Despesa Exercícios de 2023 a 2029",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/39/lei_1253_2026_anexo_vi_-_memoria_de_calculo_da_despesa_exercicios_de_2023_a_2029.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/40/lei_1253_2026_anexo_vii_-_projecao_da_divida_consolidada_liquida_e_resultado_nominal.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Projeção da Dívida Consolidada Líquida e Resultado Nominal",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/40/lei_1253_2026_anexo_vii_-_projecao_da_divida_consolidada_liquida_e_resultado_nominal.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/lei_1253_2026_anexo_viii_-_metas_fiscais_e_metas_anuais.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Metas Fiscais e Metas Anuais",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/41/lei_1253_2026_anexo_viii_-_metas_fiscais_e_metas_anuais.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/42/lei_1253_2026_anexo_ix_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Avaliação do Cumprimento das Metas fiscais do Exercício Anterior",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/42/lei_1253_2026_anexo_ix_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/43/lei_1253_2026_anexo_x_-_metas_fiscais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Metas Fiscais Comparadas com as Fixadas nos Três Exercícios Anteriores",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/43/lei_1253_2026_anexo_x_-_metas_fiscais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/44/lei_1253_2026_anexo_xi_-_evolucao_do_patrimonio_liquido.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Evolucão do Patrimônio Líquido",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/44/lei_1253_2026_anexo_xi_-_evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/45/lei_1253_2026_anexo_xii_-_origem_e_aplicacao_de_recursos_obtidos_com_alienacao_de_ativos.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Origem e Aplicacão de Recursos Obtidos com Alienacão de Ativos",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/45/lei_1253_2026_anexo_xii_-_origem_e_aplicacao_de_recursos_obtidos_com_alienacao_de_ativos.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/46/lei_1253_2026_anexo_xiii_-_demonstrativo_de_riscos_fiscais_e_providencias.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de Riscos Fiscais e Providências",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/46/lei_1253_2026_anexo_xiii_-_demonstrativo_de_riscos_fiscais_e_providencias.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/47/lei_1253_2026_anexo_xiv_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Margem de Expansão das Despesas Obrigatórias de Caráter Continuado",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/47/lei_1253_2026_anexo_xiv_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/48/lei_1253_2026_anexo_xv_-_adendo_anexo_i_e_demonstrativo_viii_-_docc.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Adendo Anexo I e Demonstrativo VIII - DOCC",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/48/lei_1253_2026_anexo_xv_-_adendo_anexo_i_e_demonstrativo_viii_-_docc.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/49/lei_1253_2026_anexo_xvi_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Estimativa e Compensação da Renúncia de Receita",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/49/lei_1253_2026_anexo_xvi_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/50/lei_1253_2026_anexo_xvii_-_demonstrativo_das_receitas_e_despesas_previdenciarias_do_rpps.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo das Receitas e Despesas Previdênciarias do RPPS",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/50/lei_1253_2026_anexo_xvii_-_demonstrativo_das_receitas_e_despesas_previdenciarias_do_rpps.pdf",
+      "ano": 2026,
+      "norma": 3338
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/51/lei_1253_2026_anexo_xviii_-_demonstrativo_da_projecao_atuarial.pdf da norma Lei-CMCA nº 1.253, de 11 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Projecao Atuarial",
+      "anexo_arquivo": "http://sapl.camposaltos.mg.leg.br/media/sapl/public/anexonormajuridica/2026/51/lei_1253_2026_anexo_xviii_-_demonstrativo_da_projecao_atuarial.pdf",
+      "ano": 2026,
+      "norma": 3338
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camposaltos.mg.leg.br/e58aba0ca08bb4b12079d6fb139068a35bc3142a8b1fb24b34a606fcaa3da0e4.json",
+      "url": "https://sapl.camposaltos.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.camposaltos.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1d7d642bd798f6f86d4db8468fb8e9a36b53dc1d271879fa55261ce689263519",
+      "bytes": 24201,
+      "capturado_em": "2026-10-27T22:24:12.573084-03:00"
+    }
+  ]
+}

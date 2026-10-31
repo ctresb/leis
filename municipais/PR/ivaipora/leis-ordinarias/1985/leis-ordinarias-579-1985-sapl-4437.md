@@ -1,0 +1,33 @@
+---
+titulo: "Lei Ordinária nº 579, de 09 de dezembro de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "579"
+data: "1985-12-09"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/4437"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1985/4437/lei_no_579_de_9_de_dezembro_de_1985.pdf"
+sha256_fonte: "860422bb45521de32fec26da75ffd7558d465cc1669bd06ade9cdfd9d305d57a"
+sha256_texto: "3bc0625c9f8116e37b8b9d96bf9a360a7e6128616d52980f4f6bdbdced691c8f"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 579, de 09 de dezembro de 1985
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+MUNICÍPIO DE IVAIPORÃ ESTADO DO PARANÁ
+
+LEI N° 579/85 A CAMARA MUNICIPAL DE IVAIPORA. ESTADO DO PARA NA. APROVOU E EU PREFEITO MUNICIPAL, VETO A SE GUINTE
+
+LEI : SUMULA: ALTERA A DENOMINAÇÃO DO PAVILHÃO DE BOVINOS, DO PARQUE DE EXPOSI ÇÕES DO MUNICÍPIO DE IVAIPORÃ, E DA OUTRAS PROVIDÊNCIAS.
+
+ART. 1" - FICA ALTERADA A DENOMINAÇÃO DO " PAVILHÃO DE BOVINOS ELIZEU RA- VELLI ", NO PARQUE DE EXPOSIÇÕES DO MUNICIPIO DE IVAIPORA, PARA " PAVILHÃO DE BOVINOS DR. OSCAR VIRMOND DE ARRUDA ", VETADO.
+
+ART. 2% - O PODER EXECUTIVO DE IVADORA, APOS PROMULGAR A PRESENTE LEI, TE RA O PRAZO DE 30 ( TRINTA ) DIAS PARA AFIXAR NO LOCAL, PLACA IN- DICATIVA, COM O NOME DO HOMENAGEADO, ( VETADO ),
+
+ART. 3ª - REVOGADAS AS DISPOSIÇOES EM CONTRÁRIO, A PRESENTE LEI ENTRARÁ EM VIGOR NA DATA DE SUA PUBLICAÇÃO. PAÇO MUNICIPAL 19 DE NOVERBRO, XXV DA INSTALAÇÃO, GABINETE DO / PREFEITO, AOS NOVE DIAS DO MES DE DEZEMBRO DO ANO DE MIL NOVECENTOS E OITEN TA E CINCO, FLAVIO PEREIRA TEIXEIRA PREFEITO MUNICIPAL
+

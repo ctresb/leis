@@ -1,0 +1,93 @@
+---
+titulo: "DECRETO Nº 789/2026"
+uf: "RJ"
+municipio: "ENGENHEIRO PAULO DE FRONTIN"
+tipo: "Decreto"
+numero: "789"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 18/03/2026"
+data_publicacao: 2026-03-18
+codigo_identificador: "DAFFCF0A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=265&i=publicado_119708_2026-03-18_a44918e4b25223b4e1e327ce0175588f.pdf"
+baixado_em: 2026-10-16
+---
+# DECRETO Nº 789/2026
+
+DECRETO Nº 789/2026
+EMENTA: “Abre crédito adicional suplementar ao orçamento vigente".
+O Prefeito Municipal de Eng. Paulo de Frontin, no uso de suas atribuições legais, e com fulcro no disposto no artigo 5º da Lei Municipal nº 1762, de
+30 de dezembro de 2025,
+DECRETA:
+Art. 1º. Fica aberto Crédito Adicional suplementar no valor de R$ 200.000,00 (Duzentos mil reais), para suprimento da dotação orçamentária, como
+segue:
+Rdz.
+82
+
+Org.
+02
+
+Un
+007
+
+Função
+15
+
+Sub função
+451
+
+Programa
+2002
+
+Proj./Ativ.
+2204
+
+Elemento de Despesa
+3.3.90.39.00.00.00.00
+
+Fonte
+1.705.0000
+
+Valor R$
+200.000,00
+
+Art. 2º. Os recursos orçamentários para atender ao crédito adicional são provenientes de anulação das despesas das categorias econômicas, com
+fulcro no artigo 43, parágrafo 1º, inciso III da Lei 4.320/64, como segue:
+Rdz.
+8
+
+Org.
+02
+
+Un
+015
+
+Função
+10
+
+Sub função
+122
+
+Programa
+3001
+
+Proj./Ativ.
+2301
+
+Elemento de Despesa
+3.3.90.39.00.00.00.00
+
+Fonte
+1.705.0000
+
+Valor R$
+200.000,00
+
+Art. 3º. Este Decreto entra em vigor na data de sua publicação, revogando as disposições em contrário.
+Engenheiro Paulo de Frontin, 18 de março de 2026.
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+Prefeito Municipal
+Publicado por:
+Daniel Dos Santos da Silva

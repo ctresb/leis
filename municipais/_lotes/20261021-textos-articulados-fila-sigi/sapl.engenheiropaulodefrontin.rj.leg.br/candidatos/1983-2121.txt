@@ -1,0 +1,2401 @@
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO, Prefeito do Município de Engenheiro Paulo de Frontin, no uso das atribuições que lhe são conferidas por lei,
+
+
+DECRETA:
+
+
+### TÍTULO I
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Este Decreto regulamenta as normas gerais de licitação e contratação, no âmbito do Poder Executivo do Município de Engenheiro Paulo de Frontin (Lei nº 14.133, de 1º de abril de 2021).
+
+
+Art. 2º.
+
+O disposto neste Decreto abrange todos os órgãos da administração direta do Poder Executivo municipal de Engenheiro Paulo de Frontin, autarquias, fundações, fundos especiais e as demais entidades controladas direta ou indiretamente pela Prefeitura.
+
+
+Parágrafo único
+
+Não são abrangidas por este Decreto as licitações das empresas estatais municipais e suas subsidiárias, regidas pela Lei nº 13.303, de 30 de junho de 2016.
+
+
+Art. 3º.
+
+Na aplicação deste Decreto, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, da segregação de funções, da motivação, da vinculação ao edital, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável, assim como as disposições do Decreto-Lei nº 4.657, de 4 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro).
+
+
+Art. 4º.
+
+Aplicam-se às licitações e contratos disciplinados por este Decreto as disposições constantes dos Arts. 42 a 49 da Lei Complementar nº 123, de 14 de dezembro de 2006.
+
+
+§ 1º
+
+As disposições a que se refere o caput deste artigo não são aplicadas:
+
+
+I –
+
+no caso de licitação para aquisição de bens ou contratação de serviços em geral, ao item cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte;
+
+
+II –
+
+no caso de contratação de obras e serviços de engenharia, às licitações cujo valor estimado for superior à receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte.
+
+
+§ 2º
+
+A obtenção de benefícios a que se refere o caput deste artigo fica limitada às microempresas e às empresas de pequeno porte que, no ano-calendário de realização da licitação, ainda não tenham celebrado contratos com a Administração Pública cujos valores somados extrapolem a receita bruta máxima admitida para fins de enquadramento como empresa de pequeno porte, devendo o órgão ou entidade exigir do licitante declaração de observância desse limite na licitação.
+
+
+§ 3º
+
+Nas contratações com prazo de vigência superior a 1 (um) ano, será considerado o valor anual do contrato na aplicação dos limites previstos nos §§ 1º e 2º deste artigo.
+
+
+#### CAPÍTULO II
+
+AGENTE DE CONTRATAÇÃO E DA EQUIPE DE APOIO, O FUNCIONAMENTO DA COMISSÃO DE CONTRATAÇÃO E A ATUAÇÃO DOS GESTORES E FISCAIS DE CONTRATOS.
+
+
+##### Seção I
+
+
+Art. 5º.
+
+Este Decreto regulamenta o disposto no § 3º do art. 8º da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre as regras para a atuação do agente de contratação e da equipe de apoio, o funcionamento da comissão de contratação e a atuação dos gestores e fiscais de contratos, no âmbito do Poder Executivo do Município de Engenheiro Paulo de Frontin.
+
+
+Art. 6º.
+
+Caberá ao Chefe do Poder Executivo designar agentes públicos para o desempenho das funções essenciais à execução deste Decreto que preencham os seguintes requisitos:
+
+
+I –
+
+Sejam, servidores efetivos, comissionados ou empregados públicos dos quadros permanentes do Município de Engenheiro Paulo de Frontin;
+
+
+II –
+
+Tenham atribuições relacionadas a licitações e contratos ou possuam formação compatível ou qualificação atestada por certificação profissional emitida por escola de governo criada e mantida pelo poder público; e
+
+
+III –
+
+Não sejam cônjuge ou companheiro de licitantes ou contratados habituais da Administração nem tenham com eles vínculo de parentesco, colateral ou por afinidade, até o terceiro grau, ou de natureza técnica, comercial, econômica, financeira, trabalhista e civil.
+
+
+§ 1º
+
+A autoridade referida no caput deste artigo deverá observar o princípio da segregação de funções, vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na respectiva contratação.
+
+
+§ 2º
+
+O disposto no caput e no § 1º deste artigo, inclusive os requisitos estabelecidos, também se aplica aos órgãos de assessoramento jurídico e de controle interno da Administração.
+
+
+Art. 7º.
+
+As licitações e Contratações Diretas serão conduzidas por agente de contratação, pessoa designada pelo Chefe do Poder Executivo, entre servidores efetivos, comissionados ou empregados públicos dos quadros permanentes do Município, para tomar decisões, acompanhar o trâmite da licitação ou da Contratação Direta, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.
+
+
+##### Seção II — AGENTE DE CONTRATAÇÃO
+
+
+Art. 8º.
+
+O agente de contratação e o respectivo substituto serão designados pelo Chefe do Poder Executivo, em caráter permanente ou especial, conforme o disposto no art. 6º deste Decreto.
+
+
+§ 1º
+
+Nas licitações que envolvam bens ou serviços especiais, o agente de contratação poderá ser substituído por comissão de contratação formada por, no mínimo, três membros designados, devendo ser designado no mínimo dois servidores efetivos dos quadros permanentes do Município de Engenheiro Paulo de Frontin.
+
+
+§ 2º
+
+A autoridade competente poderá designar, em ato motivado, mais de um agente de contratação e deverá dispor sobre a forma de coordenação e de distribuição dos trabalhos entre eles.
+
+
+§ 3º
+
+O agente de contratação será auxiliado por equipe de apoio e responderá individualmente pelos atos que praticar, salvo quando induzido a erro pela atuação da equipe.
+
+
+§ 4º
+
+Em licitação na modalidade pregão, o agente de contratação responsável pela condução do certame será designado pregoeiro conforme §5º, Art. 8º da Lei 14.133/2021.
+
+
+##### Seção III — ATUAÇÃO DO AGENTE DE CONTRATAÇÃO
+
+
+Art. 9º.
+
+Caberá ao agente de contratação, em especial:
+
+
+I –
+
+tomar decisões em prol da boa condução da licitação ou da Contratação Direta, dar impulso ao procedimento, inclusive por meio de demandas às áreas das unidades de contratações, descentralizadas ou não, para fins de saneamento da fase preparatória, caso necessário;
+
+
+II –
+
+conduzir e coordenar a sessão pública da licitação e promover as seguintes ações:
+
+
+a)
+
+receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos anexos, além de poder requisitar subsídios formais aos responsáveis pela elaboração desses documentos, caso necessário;
+
+
+b)
+
+verificar a conformidade da proposta em relação aos requisitos estabelecidos no edital;
+
+
+c)
+
+verificar e julgar as condições de habilitação;
+
+
+d)
+
+sanear erros ou falhas que não alterem a substância das propostas;
+
+
+e)
+
+encaminhar à comissão de contratação os documentos de habilitação, caso se verifique a possibilidade de saneamento de erros ou de falhas que não alterem a substância dos documentos e a sua validade jurídica, conforme o disposto no § 1º do art. 64 da Lei nº 14.133, de 2021; e.
+
+
+f)
+
+Negociar, quando for o caso, condições mais vantajosas com o primeiro colocado;
+
+
+g)
+
+indicar o vencedor do certame;
+
+
+h)
+
+conduzir os trabalhos da equipe de apoio; e
+
+
+i)
+
+encaminhar o processo devidamente instruído ao Ordenador de Despesa e propor a sua homologação.
+
+
+§ 1º
+
+O agente de contratação será auxiliado, na fase externa, por equipe de apoio, de que trata o art. 11º deste decreto, e responderá individualmente pelos atos que praticar, exceto quando induzido a erro pela atuação da equipe.
+
+
+§ 2º
+
+A atuação do agente de contratação na fase preparatória deverá ater-se ao acompanhamento e às eventuais diligências para o fluxo regular da instrução processual.
+
+
+§ 3º
+
+Na hipótese prevista no § 2º, o agente de contratações estará desobrigado da elaboração de estudos preliminares, de projetos e de anteprojetos, de termos de referência, de pesquisas de preço e, preferencialmente, de minutas de editais.
+
+
+§ 4º
+
+O não atendimento das diligências do agente de contratação por outros setores do órgão ou da entidade ensejará motivação formal, a ser juntada aos autos do processo.
+
+
+Art. 10.
+
+O agente de contratação contará com o auxílio da Procuradoria Geral e do Controle Interno para o desempenho das funções essenciais à execução das suas funções, devendo ser formalizado nos autos do procedimento licitatório ou de Contratação Direta.
+
+
+Parágrafo único
+
+Previamente à tomada de decisão, o agente de contratação considerará eventuais manifestações apresentadas pela Procuradoria Geral e de controle interno, devendo ser devidamente justificado nos procedimentos licitatórios ou de contratação direta nos casos de não acatamento.
+
+
+##### Seção IV — EQUIPE DE APOIO
+
+
+Art. 11.
+
+A equipe de apoio e os seus respectivos substitutos serão designados pelo Chefe do Poder Executivo, para auxiliar os agentes de contratação ou a comissão de contratação na licitação, observados os requisitos estabelecidos no art. 6º deste decreto.
+
+
+Art. 12.
+
+Caberá à equipe de apoio auxiliar o agente de contratação ou a comissão de contratação no exercício de suas atribuições.
+
+
+Parágrafo único
+
+A equipe de apoio contará com o auxílio dos órgãos de assessoramento jurídico e de controle interno do próprio órgão ou entidade, nos termos do disposto no art. 10 deste decreto.
+
+
+##### Seção V — COMISSÃO DE CONTRATAÇÃO
+
+
+Art. 13.
+
+Os membros da comissão de contratação e os respectivos substitutos serão designados pelo Chefe do Poder Executivo, observados os requisitos estabelecidos no art. 6º deste Decreto.
+
+
+§ 1º
+
+A comissão em caráter permanente ou especial, exercerá a função de receber, de examinar e de julgar documentos relativos às licitações e aos procedimentos auxiliares.
+
+
+§ 2º
+
+A comissão deverá ser formada por, no mínimo, três membros, e será presidida por um deles.
+
+
+Art. 14.
+
+Na licitação na modalidade diálogo competitivo, a comissão de contratação será composta por, no mínimo, três membros que sejam servidores efetivos, comissionados ou empregados públicos dos quadros permanentes do Município de Engenheiro Paulo de Frontin, admitida a contratação de profissionais para o assessoramento técnico.
+
+
+Art. 15.
+
+Em licitação que envolva bens ou serviços especiais cujo objeto não seja rotineiramente contratado pela Administração, poderá ser contratado, por prazo determinado, serviço de empresa ou de profissional especializado para assessorar os agentes públicos responsáveis pela condução da licitação.
+
+
+§ 1º
+
+A empresa ou o profissional especializado contratado na forma prevista no caput assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer atribuição própria e exclusiva dos membros da comissão de contratação.
+
+
+§ 2º
+
+A contratação de terceiros não eximirá de responsabilidade os membros da comissão de contratação, nos limites das informações recebidas do terceiro contratado.
+
+
+Art. 16.
+
+Caberá à comissão de contratação:
+
+
+I –
+
+substituir o agente de contratação, observado o disposto no art. 9, quando a licitação envolver a contratação de bens ou serviços especiais, desde que atendidos os requisitos estabelecidos no art. 6;
+
+
+II –
+
+conduzir a licitação na modalidade diálogo competitivo, observado o disposto no art. 9;
+
+
+III –
+
+sanar erros ou falhas que não alterem a substância dos documentos de habilitação e a sua validade jurídica, mediante despacho fundamentado registrado e acessível a todos, e atribuir-lhes eficácia para fins de habilitação e de classificação; e
+
+
+IV –
+
+receber, examinar e julgar documentos relativos aos procedimentos auxiliares previstos no art. 78 da Lei nº 14.133, de 2021, observados os requisitos estabelecidos em regulamento.
+
+
+Parágrafo único
+
+Quando substituírem o agente de contratação, os membros da comissão de contratação responderão solidariamente pelos atos praticados pela comissão, exceto o membro que expressar posição individual divergente, a qual deverá ser fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.
+
+
+Art. 17.
+
+A comissão de contratação contará com o auxílio dos órgãos de assessoramento jurídico e de controle interno do próprio órgão ou entidade, nos termos do disposto no art. 10 deste decreto.
+
+
+Art. 18.
+
+O agente público designado para atuar na área de licitações e contratos e o terceiro que auxilie a condução da contratação, na qualidade de integrante de equipe de apoio, de profissional especializado ou de funcionário ou representante de empresa que preste assessoria técnica, deverão observar as vedações previstas no art. 9º da Lei nº 14.133, de 2021.
+
+
+Art. 19.
+
+À gratificação pelo exercício das atribuições de pregoeiro e de agente de contratação, será fixada o valor de R$ 230,00 (duzentos e trinta reais) e a equipe de apoio tanto do pregoeiro quanto do agente de contratação será de R$ 150,00 (cento e cinquenta reais) por designação para a condução do respectivo procedimento licitatório, até o máximo de 10 (dez) designações por mês.
+
+
+§ 1º
+
+Para os fins do “caput” deste artigo, considera-se designação o ato administrativo que, no âmbito do respectivo processo licitatório ou da Contratação direta, que indique o pregoeiro ou o agente de contratação responsável pela condução do certame/procedimento.
+
+
+§ 2º
+
+Em licitações que envolvam bens ou serviços especiais, poderá ser designada comissão de contratação, caso em que todos os seus membros farão jus à gratificação, observado o disposto no “caput” deste artigo.
+
+
+§ 3º
+
+Não poderá ser deferida à gratificação aumento do valor referencial, em hipótese nenhuma.
+
+
+§ 4º
+
+Caberá ao Secretário Municipal de Planejamento e Orçamento e/ou ao Secretário Municipal de Governo, o levantamento mensal, até o 15º dia de cada mês, de todos os participantes nos Processos Licitatórios descritos no CAPUT, devendo encaminhar cópia das atas geradas nos certames licitatórios à Secretaria Municipal de Administração para o processamento das gratificações.
+
+
+Art. 20.
+
+Para ser credenciado e designado como pregoeiro ou agente de contratação, o servidor ou empregado público deverá apresentar certificado de capacitação e de atualização periódica, que ficará a cargo da Secretaria de governo o controle e aprovação.
+
+
+Parágrafo único
+
+A formação ofertada e relativa à certificação deverá ser específica para pregoeiro e/ou agente de contratação.
+
+
+Art. 21.
+
+Nos procedimentos de contratação direta, não será concedido a gratificação estabelecida no art. 19 deste decreto ao agente de contratação.
+
+
+##### Seção VI — GESTORES E FISCAIS DE CONTRATOS
+
+
+Art. 22.
+
+Os gestores e os fiscais de contratos e os respectivos substitutos serão representantes da administração designados pelo Ordenador de despesa requisitante da contratação, para exercer as funções estabelecidas neste decreto, observados os requisitos estabelecidos no art. 6º deste Decreto.
+
+
+§ 1º
+
+Na ausência de indicação do gestor e fiscal de contratos, no processo licitatório, deverá ser imposta a responsabilidade no Ordenador de despesa que requisitou a contratação.
+
+
+§ 2º
+
+Caberá o Ordenador de Despesa analisar para a indicação do gestor e do fiscal a compatibilidade com as atribuições do cargo, a complexidade da fiscalização, o quantitativo de contratos por agente público, e, a capacidade para o desempenho das atividades;
+
+
+§ 3º
+
+Nos casos de atraso ou de falta de designação, de desligamento e de afastamento extemporâneo e definitivo do gestor ou dos fiscais do contrato e dos respectivos substitutos, até que seja providenciada a designação, as atribuições de gestor ou de fiscal caberão ao responsável pela designação.
+
+
+Art. 23.
+
+Os fiscais de contratos poderão ser assistidos e subsidiados por terceiros contratados pela administração, observado o disposto neste decreto.
+
+
+Art. 24.
+
+Para fins do disposto neste Decreto, considera-se:
+
+
+I –
+
+gestão de contrato - a coordenação das atividades relacionadas à fiscalização técnica, administrativa e setorial e dos atos preparatórios à instrução processual e ao encaminhamento da documentação pertinente à Procuradoria Geral do município para a formalização dos procedimentos relativos à prorrogação, à alteração, ao reequilíbrio, ao pagamento, à eventual aplicação de sanções e à extinção dos contratos, entre outros;
+
+
+II –
+
+Gestor de contratos – Secretário Municipal requisitante da contratação.
+
+
+III –
+
+Fiscalização técnica - o acompanhamento do contrato com o objetivo de avaliar a execução do objeto nos moldes contratados e, se for o caso, aferir se a quantidade, a qualidade, o tempo e o modo da prestação ou da execução do objeto estão compatíveis com os indicadores estabelecidos no edital, para fins de pagamento, conforme o resultado pretendido pela administração, com o eventual auxílio da fiscalização administrativa;
+
+
+IV –
+
+Fiscal técnico de contratos – Servidor designado pelo Ordenador de despesa requisitante da contratação, através de portaria, para realização da fiscalização técnica da contratação.
+
+
+V –
+
+Fiscalização administrativa - o acompanhamento dos aspectos administrativos contratuais quanto às obrigações previdenciárias, fiscais e trabalhistas e quanto ao controle do contrato administrativo no que se refere a revisões, a reajustes, a repactuações e a providências tempestivas nas hipóteses de inadimplemento; e,
+
+
+VI –
+
+Fiscal administrativo de contratos - Servidor designado pelo Ordenador de despesa requisitante da contratação, através de portaria, para realização da fiscalização administrativa da contratação.
+
+
+§ 1º
+
+As atividades de gestão e de fiscalização dos contratos deverão ser realizadas de forma preventiva, rotineira e sistemática e exercidas por agentes públicos, por equipe de fiscalização ou por agente público único, assegurada a distinção das atividades.
+
+
+§ 2º
+
+A distinção das atividades de que trata o § 1º não poderá comprometer o desempenho das ações relacionadas à gestão do contrato.
+
+
+Art. 25.
+
+Caberá ao gestor do contrato e, nos seus afastamentos e seus impedimentos legais, ao seu substituto, em especial:
+
+
+I –
+
+coordenar as atividades relacionadas à fiscalização técnica e administrativa;
+
+
+II –
+
+acompanhar os registros realizados pelos fiscais do contrato das ocorrências relacionadas à execução do contrato e as medidas adotadas, e informar à autoridade superior aquelas que ultrapassarem a sua competência;
+
+
+III –
+
+acompanhar a manutenção das condições de habilitação do contratado, para fins de empenho de despesa e de pagamento, e anotar os problemas que obstem o fluxo normal da liquidação e do pagamento da despesa no relatório de riscos eventuais;
+
+
+IV –
+
+coordenar a rotina de acompanhamento e de fiscalização do contrato, cujo histórico de gerenciamento deverá conter todos os registros formais da execução, a exemplo da ordem de serviço, do registro de ocorrências, das alterações e das prorrogações contratuais, e elaborar relatório com vistas à verificação da necessidade de adequações do contrato para fins de atendimento da finalidade da administração;
+
+
+V –
+
+coordenar os atos preparatórios à instrução processual e ao envio da documentação pertinente à Procuradoria geral do município para a formalização dos procedimentos de que trata o inciso I do art. 24;
+
+
+VI –
+
+elaborar o relatório final de que trata a alínea “d” do inciso VI do
+
+
+Parágrafo único
+
+do art. 174 da Lei nº 14.133, de 2021, com as informações obtidas durante a execução do contrato;
+
+
+I –
+
+coordenar a atualização contínua do relatório de riscos durante a gestão do contrato, com apoio dos fiscais técnico e administrativo;
+
+
+II –
+
+emitir documento comprobatório da avaliação realizada pelos fiscais técnico, e administrativo quanto ao cumprimento de obrigações assumidas pelo contratado, com menção ao seu desempenho na execução contratual, baseado em indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, a constarem do cadastro de atesto de cumprimento de obrigações conforme disposto em regulamento;
+
+
+III –
+
+realizar o recebimento definitivo do objeto do contrato, mediante termo detalhado que comprove o atendimento das exigências contratuais; e
+
+
+IV –
+
+tomar providências para a formalização de processo administrativo de responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo setor competente para tal, conforme o caso.
+
+
+Art. 26.
+
+Caberá ao fiscal técnico do contrato e, nos seus afastamentos e seus impedimentos legais, ao seu substituto, em especial:
+
+
+I –
+
+prestar apoio técnico e operacional ao gestor do contrato com informações pertinentes às suas competências;
+
+
+II –
+
+anotar no histórico de gerenciamento do contrato todas as ocorrências relacionadas à execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos defeitos observados;
+
+
+III –
+
+emitir notificações para a correção de rotinas ou de qualquer inexatidão ou irregularidade constatada, com a definição de prazo para a correção;
+
+
+IV –
+
+informar ao gestor do contato, em tempo hábil, a situação que demandar decisão ou adoção de medidas que ultrapassem a sua competência, para que adote as medidas necessárias e saneadoras, se for o caso;
+
+
+V –
+
+Comunicar imediatamente ao gestor do contrato quaisquer ocorrências que possam inviabilizar a execução do contrato nas datas estabelecidas;
+
+
+VI –
+
+Fiscalizar a execução do contrato para que sejam cumpridas as condições estabelecidas, de modo a assegurar os melhores resultados para a administração, com a conferência das notas fiscais e das documentações exigidas para o pagamento e, após o ateste, que certifica o recebimento provisório, encaminhar ao gestor de contrato para ratificação;
+
+
+VII –
+
+comunicar ao gestor do contrato, em tempo hábil, o término do contrato sob sua responsabilidade, com vistas à renovação tempestiva ou à prorrogação contratual;
+
+
+VIII –
+
+participar da atualização do relatório de riscos durante a fase de gestão do contrato, em conjunto com o fiscal administrativo;
+
+
+IX –
+
+Auxiliar o gestor do contrato com as informações necessárias, na elaboração do documento comprobatório da avaliação realizada na fiscalização do cumprimento de obrigações assumidas pelo contratado;
+
+
+X –
+
+Realizar o recebimento provisório do objeto do contrato, mediante termo detalhado que comprove o cumprimento das exigências de caráter técnico.
+
+
+Art. 27.
+
+Caberá ao fiscal administrativo do contrato e, nos seus afastamentos e seus impedimentos legais, ao seu substituto, em especial:
+
+
+I –
+
+prestar apoio técnico e operacional ao gestor do contrato, com a realização das tarefas relacionadas ao controle dos prazos relacionados ao contrato e à formalização de apostilamentos e de termos aditivos, ao acompanhamento do empenho e do pagamento e ao acompanhamento de garantias e glosas;
+
+
+II –
+
+verificar a manutenção das condições de habilitação da contratada, com a solicitação dos documentos comprobatórios pertinentes, caso necessário;
+
+
+III –
+
+examinar a regularidade no recolhimento das contribuições fiscais, trabalhistas e previdenciárias e, na hipótese de descumprimento, comunicar ao gestor do contrato para as providências cabíveis;
+
+
+IV –
+
+atuar tempestivamente na solução de eventuais problemas relacionados ao descumprimento das obrigações contratuais e reportar ao gestor do contrato para que tome as providências cabíveis, quando ultrapassar a sua competência;
+
+
+V –
+
+participar da atualização do relatório de riscos durante a fase de gestão do contrato, em conjunto com o fiscal técnico;
+
+
+VI –
+
+auxiliar o gestor do contrato com as informações necessárias, na elaboração do documento comprobatório da avaliação realizada na fiscalização do cumprimento de obrigações assumidas pelo contratado; e
+
+
+VII –
+
+realizar o recebimento provisório do objeto do contrato, mediante termo detalhado que comprove o cumprimento das exigências de caráter administrativo.
+
+
+Art. 28.
+
+O gestor do contrato e os fiscais técnico e administrativo serão auxiliados pela Procuradoria Geral e pelo controle interno, os quais deverão dirimir dúvidas e subsidiá-los com informações para prevenir riscos na execução do contrato, conforme o disposto no art. 10.
+
+
+Art. 29.
+
+Os contratos que tiverem cláusulas de Recebimento provisório e definitivo, serão de responsabilidade do gestor de contratos, fiscais técnicos e administrativo, conforme a seguir descritos:
+
+
+I –
+
+O recebimento provisório ficará a cargo dos fiscais técnico e administrativo, que deverão tomar todas as providências cabíveis;
+
+
+II –
+
+O recebimento definitivo, ficará a cargo dos gestores do contrato ou da comissão designada pelo Ordenador de despesa.
+
+
+Parágrafo único
+
+Os prazos e os métodos para a realização dos recebimentos provisório e definitivo serão definidos em regulamento ou no contrato, nos termos no disposto no § 3º do art. 140 da Lei nº 14.133, de 2021.
+
+
+Art. 30.
+
+Na hipótese da contratação de terceiros para assistir e para subsidiar os fiscais de contrato nos termos do disposto neste decreto, será observado o seguinte:
+
+
+I –
+
+a empresa ou o profissional contratado assumirá responsabilidade civil objetiva pela veracidade e pela precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer atribuição própria e exclusiva de fiscal de contrato; e,
+
+
+II –
+
+a contratação de terceiros não eximirá o fiscal do contrato da responsabilidade, nos limites das informações recebidas do terceiro contratado.
+
+
+### TÍTULO II
+
+
+#### CAPÍTULO I — DO PROCESSO LICITATÓRIO
+
+
+Art. 31.
+
+No processo licitatório, observar-se-á as regras estabelecidas nos Artigos 11 a 17, seus incisos e parágrafos da Lei 14.133/21.
+
+
+Art. 32.
+
+Não serão admitidas assinaturas através de certificado digital em documentos físicos, visto que a assinatura acontece por meio eletrônico, dessa forma, ela será válida apenas no meio eletrônico, ou seja, o documento assinado digitalmente é, juridicamente, um documento com validade digital.
+
+
+#### CAPÍTULO II — DO PLANO DE CONTRATAÇÕES ANUAL
+
+
+Art. 33.
+
+O Município poderá elaborar Plano de Contratações Anual, com o objetivo de racionalizar as contratações dos órgãos e entidades sob sua competência, garantir o alinhamento com o seu planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias.
+
+
+Parágrafo único
+
+Na elaboração do Plano de Contratações Anual do Município, observar-se-á como parâmetro normativo, no que couber, o disposto na Instrução Normativa nº 1, de 10 de janeiro de 2019, da Secretaria de Gestão do Ministério da Economia.
+
+
+Art. 34.
+
+A elaboração do plano de contratações anual pelos órgãos e pelas entidades tem como objetivos:
+
+
+I –
+
+racionalizar as contratações das unidades administrativas de sua competência, por meio da promoção de contratações centralizadas e compartilhadas, a fim de obter economia de escala, padronização de produtos e serviços e redução de custos processuais;
+
+
+II –
+
+garantir o alinhamento com o planejamento estratégico, o plano diretor de logística sustentável e outros instrumentos de governança existentes;
+
+
+III –
+
+subsidiar a elaboração das leis orçamentárias;
+
+
+IV –
+
+evitar o fracionamento de despesas; e
+
+
+V –
+
+sinalizar intenções ao mercado fornecedor, de forma a aumentar o diálogo potencial com o mercado e incrementar a competitividade.
+
+
+Art. 35.
+
+Até a primeira quinzena de maio de cada exercício, as secretariais municipais elaborarão os seus planos de contratações anual, os quais conterão todas as contratações que pretendem realizar no exercício subsequente, incluídas as contratações diretas, nas hipóteses previstas nos art. 74 e art. 75 da Lei nº 14. 133, de 2021;
+
+
+Parágrafo único
+
+Após a Elaboração será encaminhada a Secretaria Municipal de Governo, que juntamente com a Secretaria Municipal de Planejamento de Orçamento realizará o planejamento para realização das contratações.
+
+
+Art. 36.
+
+A elaboração do plano de contratações anual, deverá conter as seguintes informações:
+
+
+I –
+
+justificativa da necessidade da contratação;
+
+
+II –
+
+descrição sucinta do objeto;
+
+
+III –
+
+quantidade a ser contratada, quando couber, considerada a expectativa de consumo anual;
+
+
+IV –
+
+estimativa preliminar do valor da contratação, podendo ser utilizado como parâmetro a contratação nos últimos dois anos ou por média de mercado;
+
+
+V –
+
+indicação da data pretendida para a conclusão da contratação, a fim de não gerar prejuízos ou descontinuidade das atividades do órgão ou da entidade;
+
+
+VI –
+
+grau de prioridade da compra ou da contratação em baixo, médio ou alto, de acordo com a metodologia estabelecida pelo órgão ou pela entidade contratante;
+
+
+VII –
+
+indicação de vinculação ou dependência com o objeto de outro documento de formalização de demanda para a sua execução, com vistas a determinar a sequência em que as contratações serão realizadas; e
+
+
+VIII –
+
+nome da área requisitante ou técnica com a identificação do responsável.
+
+
+Art. 37.
+
+O plano de contratações anual dos órgãos e das entidades será disponibilizado no sítio eletrônico da Prefeitura Municipal e Diário Oficial dos Municípios do Estado do Rio de Janeiro. Após o prazo estabelecido no artigo 176 da Lei 14.133/21, será realiza a publicação no Portal Nacional de Contratações Públicas.
+
+
+Parágrafo único
+
+Deverá ser disponibilizado no sítio eletrônico da acesso ao seu plano de contratações anual no Portal Nacional de Contratações Públicas, no prazo de quinze dias, contado da data de encerramento das etapas de aprovação, revisão e alteração.
+
+
+Art. 38.
+
+Com os procedimentos licitatórios abertos pelas secretarias municipais, a Secretaria Municipal de Governo verificará se as demandas encaminhadas constam do plano de contratações anual anteriormente à sua execução.
+
+
+Parágrafo único
+
+As demandas que não constarem do plano de contratações anual ensejarão a sua revisão, caso justificadas.
+
+
+#### CAPÍTULO III
+
+ENQUADRAMENTO DOS BENS DE CONSUMO NAS CATEGORIAS DE QUALIDADE COMUM E DE LUXO.
+
+
+Art. 39.
+
+Para fins do disposto neste Decreto, considera-se:
+
+
+I –
+
+bem de luxo - bem de consumo com alta elasticidade-renda da demanda, identificável por meio de características tais como:
+
+
+a)
+
+ostentação;
+
+
+b)
+
+opulência;
+
+
+c)
+
+forte apelo estético; ou
+
+
+d)
+
+requinte;
+
+
+II –
+
+bem de qualidade comum - bem de consumo com baixa ou moderada elasticidade-renda da demanda;
+
+
+III –
+
+bem de consumo - todo material que atenda a, no mínimo, um dos seguintes critérios:
+
+
+a)
+
+durabilidade - em uso normal, perde ou reduz as suas condições de uso, no prazo de dois anos;
+
+
+b)
+
+fragilidade - facilmente quebradiço ou deformável, de modo irrecuperável ou com perda de sua identidade;
+
+
+c)
+
+perecibilidade - sujeito a modificações químicas ou físicas que levam à deterioração ou à perda de suas condições de uso com o decorrer do tempo;
+
+
+d)
+
+incorporabilidade - destinado à incorporação em outro bem, ainda que suas características originais sejam alteradas, de modo que sua retirada acarrete prejuízo à essência do bem principal; ou
+
+
+e)
+
+transformabilidade - adquirido para fins de utilização como matéria-prima ou matéria intermediária para a geração de outro bem; e
+
+
+IV –
+
+elasticidade-renda da demanda - razão entre a variação percentual da quantidade demandada e a variação percentual da renda média.
+
+
+Art. 40.
+
+Considerará no enquadramento do bem como de luxo, conforme conceituado no inciso I do caput do art. 39:
+
+
+I –
+
+relatividade econômica - variáveis econômicas que incidem sobre o preço do bem, principalmente a facilidade ou a dificuldade logística regional ou local de acesso ao bem; e
+
+
+II –
+
+relatividade temporal - mudança das variáveis mercadológicas do bem ao longo do tempo, em função de aspectos como:
+
+
+a)
+
+evolução tecnológica;
+
+
+b)
+
+tendências sociais;
+
+
+c)
+
+alterações de disponibilidade no mercado; e
+
+
+d)
+
+modificações no processo de suprimento logístico.
+
+
+Art. 41.
+
+Não será enquadrado como bem de luxo aquele que, mesmo considerado na definição do inciso I do caput do art. 39:
+
+
+I –
+
+for adquirido a preço equivalente ou inferior ao preço do bem de qualidade comum de mesma natureza; ou
+
+
+II –
+
+tenha as características superiores justificadas em face da estrita atividade do órgão ou da entidade.
+
+
+Art. 42.
+
+É vedada a aquisição de bens de consumo enquadrados como bens de luxo, nos termos do disposto neste Decreto.
+
+
+#### CAPÍTULO IV — DA INSTRUÇÃO DO PROCESSO LICITATÓRIO Da fase preparatória
+
+
+Art. 43.
+
+A fase preparatória do processo licitatório é caracterizada pelo planejamento e deve compatibilizar-se com o plano de contratações anual de que trata o inciso VII do caput do art. 12 da Lei 14.133/21 e no artigo 33 deste decreto, sempre que elaborado, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, deverá observar as regras estabelecidas nos arts. 18 a 27 seus incisos e parágrafos da Lei 14.133/21.
+
+
+Art. 44.
+
+O valor previamente estimado da contratação deverá ser compatível com os valores praticados pelo mercado, considerados os preços constantes de bancos de dados públicos e as quantidades a serem contratadas, observadas a potencial economia de escala e as peculiaridades do local de execução do objeto.
+
+
+§ 1º
+
+No processo licitatório para aquisição de bens e contratação de serviços em geral, conforme regulamento, o valor estimado será definido com base no melhor preço aferido por meio da utilização dos seguintes parâmetros:
+
+
+I –
+
+composição de custos unitários menores ou iguais à mediana do item correspondente no painel para consulta de preços ou no banco de preços em saúde disponíveis no Portal Nacional de Contratações Públicas (PNCP);
+
+
+II –
+
+contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, inclusive mediante sistema de registro de preços, observado o índice de atualização de preços correspondente;
+
+
+III –
+
+utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e hora de acesso;
+
+
+IV –
+
+pesquisa direta com no mínimo 3 (três) fornecedores, mediante solicitação formal de cotação, desde que seja apresentada justificativa da escolha desses fornecedores e que não tenham sido obtidos os orçamentos com mais de 6 (seis) meses de antecedência da data de divulgação do edital;
+
+
+V –
+
+pesquisa na base nacional de notas fiscais eletrônicas, do último exercício financeiro.
+
+
+VI –
+
+composição de custos unitários menores ou iguais à mediana do item correspondente no banco de preços públicos;
+
+
+§ 2º
+
+Deverá ser adotado para o valor estimado no mínimo três parâmetros descritos acima.
+
+
+§ 3º
+
+Após a realização dos valores previamente estimado da contratação com os valores praticados pelo mercado, deverá ser formalizado Mapa comparativo, e devendo ser devidamente certificado a sua autenticidade e veracidade pelo servidor que executou a pesquisa, e atestado pelo Agente de contratação.
+
+
+Art. 45.
+
+No processo licitatório para contratação de obras e serviços de engenharia, conforme regulamento, o valor estimado, acrescido do percentual de Benefícios e Despesas Indiretas (BDI) de referência e dos Encargos Sociais (ES) cabíveis, será definido por meio da utilização de parâmetros na seguinte ordem:
+
+
+I –
+
+composição de custos unitários menores ou iguais à mediana do item correspondente do Sistema de Custos Referenciais de Obras (Sicro), para serviços e obras de infraestrutura de transportes, ou do Sistema Nacional de Pesquisa de Custos e Índices de Construção Civil (Sinapi), para as demais obras e serviços de engenharia;
+
+
+II –
+
+utilização de dados de pesquisa publicada em mídia especializada, de tabela de referência formalmente aprovada pelo Poder Executivo federal e de sítios eletrônicos especializados ou de domínio amplo, desde que contenham a data e a hora de acesso;
+
+
+III –
+
+contratações similares feitas pela Administração Pública, em execução ou concluídas no período de 1 (um) ano anterior à data da pesquisa de preços, observado o índice de atualização de preços correspondente;
+
+
+IV –
+
+pesquisa na base nacional de notas fiscais eletrônicas, do último exercício financeiro.
+
+
+Parágrafo único
+
+No processo licitatório para contratação de obras e serviços de engenharia sob os regimes de contratação integrada ou semi-integrada, o valor estimado da contratação será calculado nos termos do art. 45 deste decreto, acrescido ou não de parcela referente à remuneração do risco, e, sempre que necessário e o anteprojeto o permitir, a estimativa de preço será baseada em orçamento sintético, balizado em sistema de custo definido no inciso I do Art. 45 deste decreto, devendo a utilização de metodologia expedita ou paramétrica e de avaliação aproximada baseada em outras contratações similares ser reservada às frações do empreendimento não suficientemente detalhadas no anteprojeto.
+
+
+Art. 46.
+
+Nas contratações diretas por inexigibilidade ou por dispensa, quando não for possível estimar o valor do objeto, deverá o agente de contratação certificar o ato e o contratado deverá comprovar previamente que os preços estão em conformidade com os praticados em contratações semelhantes de objetos de mesma natureza, por meio da apresentação de notas fiscais emitidas para outros contratantes no período de até 1 (um) ano anterior à data da contratação pela Administração, ou por outro meio idôneo.
+
+
+Art. 47.
+
+As modalidades de licitação, dos critérios de julgamento, seguirão a regras estabelecidas nos Arts. 28 a 39 seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO V — DO PROGRAMA DE INTEGRIDADE
+
+
+Art. 48.
+
+Nas contratações de obras, serviços e fornecimentos de grande vulto, o edital deverá prever a obrigatoriedade de implantação de programa de integridade pelo licitante vencedor, no prazo de 6 (seis) meses, contado da celebração do contrato, adotando-se como parâmetro normativo para a elaboração do programa e sua implementação, no que couber, o disposto no Decreto nº 12.304, de 9 de dezembro de 2024.
+
+
+Parágrafo único
+
+Decorrido o prazo de 6 (seis) meses indicado no caput sem o início da implantação de programa de integridade, o contrato poderá ser rescindido pela Administração, sem prejuízo da aplicação de sanções administrativas em função de inadimplemento de obrigação contratual, observado o contraditório e ampla defesa.
+
+
+#### CAPÍTULO VI — APLICAÇÃO DE MARGEM DE PREFERÊNCIA
+
+
+Art. 49.
+
+Nas contratações que dispor sobre a aplicação da margem de preferência, adotando-se como parâmetro normativo para a elaboração do programa e sua implementação, no que couber, o disposto no Decreto nº 11.890, de 22 de janeiro de 2024
+
+
+#### CAPÍTULO VII — EXIGÊNCIA DE PERCENTUAL MINIMO DE MÃO DE OBRA CONSTITUÍDAS POR MULHERES VÍTIMAS DE VIOLÊNCIA DOMÉSTICA
+
+
+Art. 50.
+
+Nas contratações que dispor sobre a exigência, em contratações públicas, de percentual mínimo de mão de obra constituída por mulheres vítimas de violência doméstica e sobre a utilização do desenvolvimento, pelo licitante, de ações de equidade entre mulheres e homens no ambiente de trabalho, no que couber, o disposto no Decreto nº 11.430, de 8 de março de 2023.
+
+
+#### CAPÍTULO VIII
+
+
+##### Seção I — Disposições Setoriais
+
+
+Art. 51.
+
+As compras deverão seguir todas as regras estabelecidas no art. 40 a 44, seus incisos e parágrafos da Lei 14.133/21.
+
+
+Art. 52.
+
+As contratações de obras e serviços de engenharia, deverão seguir todas as regras estabelecidas no art. 45 seus incisos e parágrafos da Lei 14.133/21.
+
+
+Art. 53.
+
+As contratações de serviços em geral, deverão seguir todas as regras estabelecidas no art. 47 a 50 seus incisos e parágrafos da Lei 14.133/21.
+
+
+##### Seção II — Da Locação de Imóveis
+
+
+Art. 54.
+
+Ressalvado o disposto no inciso V do caput do art. 74 da Lei 14.133/2021, a locação de imóveis deverá ser precedida de licitação e avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações e do prazo de amortização dos investimentos necessários.
+
+
+Art. 55.
+
+Na hipótese da locação de imóveis através de inexigibilidade prevista no art. 74, inciso V, da Lei 14.133/2021, que faculta à Administração a aquisição ou locação de imóvel cujas características de instalações e de localização tornem necessária sua escolha, deverá ser observada as seguintes condicionantes:
+
+
+I –
+
+avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações, quando imprescindíveis às necessidades de utilização, e do prazo de amortização dos investimentos;
+
+
+II –
+
+certificação da inexistência de imóveis públicos vagos e disponíveis que atendam ao objeto;
+
+
+III –
+
+justificativas que demonstrem a singularidade do imóvel a ser comprado ou locado pela Administração e que evidenciem vantagem para ela.
+
+
+Art. 56.
+
+Quando houver a possibilidade de compra ou de locação de bens, o estudo técnico preliminar deverá considerar os custos e os benefícios de cada opção, com indicação da alternativa mais vantajosa.
+
+
+Art. 57.
+
+A fase preparatória da contratação é caracterizada pelo planejamento e deve compatibilizar-se com o plano de contratações anual de que trata o inciso VII do caput do art. 12 da Lei 14.133/21, sempre que elaborado, e com as leis orçamentárias, bem como abordar todas as considerações técnicas, mercadológicas e de gestão que podem interferir na contratação, compreendidos:
+
+
+I –
+
+documento de formalização de demanda e, se for o caso, estudo técnico preliminar, análise de riscos, termo de referência (assinado pela autoridade competente), projeto básico ou projeto executivo inciso I do caput do art. 12 da Lei 14.133/21.
+
+
+II –
+
+Estimativa de despesa, demostrando a vantajosidade da locação frente à aquisição de imóvel, que deverá ser calculada na forma estabelecida no art. 45 §1º deste Decreto;
+
+
+III –
+
+Parecer da Procuradoria Geral e do Controle Interno, que demonstrem o atendimento dos requisitos exigidos;
+
+
+IV –
+
+demonstração da compatibilidade da previsão de recursos orçamentários com o compromisso a ser assumido;
+
+
+V –
+
+comprovação de que o contratado preenche os requisitos de habilitação e qualificação mínima necessária;
+
+
+VI –
+
+razão da escolha do contratado, que demonstrem a singularidade do imóvel a ser comprado ou locado pela Administração e que evidenciem vantagem para ela.
+
+
+VII –
+
+justificativa de preço;
+
+
+VIII –
+
+autorização da autoridade competente.
+
+
+Parágrafo único
+
+O ato que autoriza a contratação direta ou o extrato decorrente do contrato deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial.
+
+
+Art. 58.
+
+Na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, o contratado e os agentes público responsáveis responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis.
+
+
+Art. 59.
+
+As documentações de que o contratado preenche os requisitos de habilitação e qualificação mínima necessária são:
+
+
+I –
+
+Avaliação prévia do bem, do seu estado de conservação, dos custos de adaptações, quando imprescindíveis às necessidades de utilização, e do prazo de amortização dos investimentos.
+
+
+II –
+
+Proposta do Locador, contendo o valor mensal da locação, destacando-se o valor do aluguel dos demais custos da locação, se for o caso, vigência da locação, preferencialmente em meses; e condições assumidas quanto aos encargos incidentes sobre a locação (condomínio, contas de consumo, tributos e demais encargos incidentes sobre a locação).
+
+
+III –
+
+Cópia da certidão de registro do imóvel ou, na real impossibilidade de juntada da certidão de registro do imóvel, cópias de outros documentos comprobatórios da propriedade ou da posse do imóvel, a serem avaliados no caso concreto;
+
+
+IV –
+
+Certidão negativa de débitos quanto aos tributos municipais;
+
+
+V –
+
+Declaração anual de quitação de débitos de água e esgoto;
+
+
+VI –
+
+Certidão negativa de débitos condominiais, se for o caso;
+
+
+VII –
+
+Termo de vistoria.
+
+
+VIII –
+
+Nos casos do proprietário for pessoa física, cédula de identidade ou documento equivalente e comprovante de inscrição no Cadastro de Pessoa Física (CPF);
+
+
+IX –
+
+Nos casos do proprietário for pessoa jurídica, registro comercial, ato constitutivo, estatuto ou contrato social em vigor, cópia de documento oficial com foto do representante legal, cópia do comprovante de residência do representante legal;
+
+
+X –
+
+Certidão de regularidade fiscal.
+
+
+§ 1º
+
+O avaliador, considerando a tipologia, a metragem, o estado de conservação do bem, sua localização e os preços de aluguel do mercado local, estima uma faixa de valor que deverá ser utilizada como referência para o valor locatício a ser contratado. O laudo deve vir acompanhado de registros fotográficos e ser elaborados com observância das diretrizes traçadas pela secretaria competente.
+
+
+§ 2º
+
+É admitida a locação com locador que detenha apenas a posse do imóvel, que deverá ser comprovada mediante documentos capazes de demonstrar tal condição, como contratos de cessão de uso, de comodato, de locação com autorização para sublocação, dentre outros.
+
+
+§ 3º
+
+É admissível ainda, que o locador titular da propriedade ou da posse - seja representado por imobiliária ou por procurador constituído para esse fim, hipóteses nas quais será necessário obter cópias do contrato de intermediação imobiliária ou do instrumento de procuração e dos documentos de identificação do representante da empresa.
+
+
+#### CAPÍTULO IX — DA DIVULGAÇÃO DO EDITAL DE LICITAÇÃO
+
+
+Art. 60.
+
+Ao final da fase preparatória, o processo licitatório seguirá para a Procuradoria Geral e ao Controle Interno, que realizará controle prévio de legalidade mediante análise do procedimento licitatório.
+
+
+§ 1º
+
+Encerrada a instrução do processo sob os aspectos técnico e jurídico, a autoridade competente determinará a divulgação do edital de licitação conforme disposto no artigo 61 deste decreto.
+
+
+§ 2º
+
+A Procuradoria Geral e o Controle Interno também realizarão controle prévio de legalidade de contratações diretas, acordos, termos de cooperação, convênios, ajustes, adesões a atas de registro de preços, outros instrumentos congêneres e de seus termos aditivos.
+
+
+Art. 61.
+
+A publicidade do edital de licitação será realizada mediante divulgação e manutenção do inteiro teor do ato convocatório e de seus anexos no Diário Oficial dos Municípios do Estado do Rio de Janeiro (AEMERJ), sítio eletrônico oficial do município. Após o prazo estabelecido no artigo 176 da Lei 14.133/21, será realiza a publicação no Portal Nacional de Contratações Públicas.
+
+
+§ 1º
+
+Nas contratações que envolva recursos federais, será obrigatório a realização da divulgação no Diário Oficial da União, e demais meios estabelecidos nas regras de transferência dos recursos.
+
+
+§ 2º
+
+Após a homologação do processo licitatório, serão disponibilizados no Diário Oficial dos Municípios do Estado do Rio de Janeiro (AEMERJ), sítio eletrônico oficial do município. Após o prazo estabelecido no artigo 176 da Lei 14.133/21, será realiza a publicação no Portal Nacional de Contratações Públicas.
+
+
+Art. 62.
+
+A divulgação do Edital de licitação, serão contados da seguinte forma:
+
+
+I –
+
+para aquisição de bens:
+
+
+a)
+
+8 (oito) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto;
+
+
+b)
+
+15 (quinze) dias úteis, nas hipóteses não abrangidas pela alínea “a” deste inciso;
+
+
+II –
+
+no caso de serviços e obras:
+
+
+a)
+
+10 (dez) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no caso de serviços comuns e de obras e serviços comuns de engenharia;
+
+
+b)
+
+25 (vinte e cinco) dias úteis, quando adotados os critérios de julgamento de menor preço ou de maior desconto, no caso de serviços especiais e de obras e serviços especiais de engenharia;
+
+
+c)
+
+60 (sessenta) dias úteis, quando o regime de execução for de contratação integrada;
+
+
+d)
+
+35 (trinta e cinco) dias úteis, quando o regime de execução for o de contratação semi-integrada ou nas hipóteses não abrangidas pelas alíneas “a”, “b” e “c” deste inciso;
+
+
+III –
+
+para licitação em que se adote o critério de julgamento de maior lance, 15 (quinze) dias úteis;
+
+
+IV –
+
+para licitação em que se adote o critério de julgamento de técnica e preço ou de melhor técnica ou conteúdo artístico, 35 (trinta e cinco) dias úteis.
+
+
+Parágrafo único
+
+Eventuais modificações no edital implicarão nova divulgação na mesma forma de sua divulgação inicial, além do cumprimento dos mesmos prazos dos atos e procedimentos originais, exceto quando a alteração não comprometer a formulação das propostas.
+
+
+Art. 63.
+
+O modo de disputa poderá ser, isolada ou conjuntamente:
+
+
+I –
+
+aberto, hipótese em que os licitantes apresentarão suas propostas por meio de lances públicos e sucessivos, crescentes ou decrescentes;
+
+
+II –
+
+fechado, hipótese em que as propostas permanecerão em sigilo até a data e hora designadas para sua divulgação.
+
+
+§ 1º
+
+A utilização isolada do modo de disputa fechado será vedada quando adotados os critérios de julgamento de menor preço ou de maior desconto.
+
+
+§ 2º
+
+A utilização do modo de disputa aberto será vedada quando adotado o critério de julgamento de técnica e preço.
+
+
+§ 3º
+
+Serão considerados intermediários os lances:
+
+
+I –
+
+iguais ou inferiores ao maior já ofertado, quando adotado o critério de julgamento de maior lance;
+
+
+II –
+
+iguais ou superiores ao menor já ofertado, quando adotados os demais critérios de julgamento.
+
+
+§ 4º
+
+Após a definição da melhor proposta, se a diferença em relação à proposta classificada em segundo lugar for de pelo menos 5% (cinco por cento), a Administração poderá admitir o reinício da disputa aberta, nos termos estabelecidos no instrumento convocatório, para a definição das demais colocações.
+
+
+§ 5º
+
+Nas licitações de obras ou serviços de engenharia, após o julgamento, o licitante vencedor deverá reelaborar e apresentar à Administração, por meio eletrônico, as planilhas com indicação dos quantitativos e dos custos unitários, bem como com detalhamento das Bonificações e Despesas Indiretas (BDI) e dos Encargos Sociais (ES), com os respectivos valores adequados ao valor final da proposta vencedora, admitida a utilização dos preços unitários, no caso de empreitada por preço global, empreitada integral, contratação semiintegrada e contratação integrada, exclusivamente para eventuais adequações indispensáveis no cronograma físico-financeiro e para balizar excepcional aditamento posterior do contrato.
+
+
+Art. 64.
+
+O edital de licitação poderá estabelecer intervalo mínimo de diferença de valores entre os lances, que incidirá tanto em relação aos lances intermediários quanto em relação à proposta que cobrir a melhor oferta.
+
+
+Art. 65.
+
+Poderá ser exigida, no momento da apresentação da proposta, a comprovação do recolhimento de quantia a título de garantia de proposta, como requisito de pré-habilitação.
+
+
+§ 1º
+
+A garantia de proposta não poderá ser superior a 1% (um por cento) do valor estimado para a contratação.
+
+
+§ 2º
+
+A garantia de proposta será devolvida aos licitantes no prazo de 10 (dez) dias úteis, contado da assinatura do contrato ou da data em que for declarada fracassada a licitação.
+
+
+§ 3º
+
+Implicará execução do valor integral da garantia de proposta a recusa em assinar o contrato ou a não apresentação dos documentos para a contratação.
+
+
+§ 4º
+
+A garantia de proposta deverá ser prestada na modalidade definida no Edital de licitação.
+
+
+#### CAPÍTULO X — DO JULGAMENTO
+
+
+Art. 66.
+
+O julgamento das propostas deverá seguir todas as regras estabelecidas no art. 59 a 61, seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO XI — DA HABILITAÇÃO
+
+
+Art. 67.
+
+A habilitação é a fase da licitação em que se verifica o conjunto de informações e documentos necessários e suficientes para demonstrar a capacidade do licitante de realizar o objeto da licitação, deverá seguir todas as regras estabelecidas no art. 62 a 70, seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO XII — DO ENCERRAMENTO DA LICITAÇÃO
+
+
+Art. 68.
+
+Encerradas as fases de julgamento e habilitação, e exauridos os recursos administrativos, o processo licitatório será encaminhado à autoridade superior, que poderá:
+
+
+I –
+
+determinar o retorno dos autos para saneamento de irregularidades;
+
+
+II –
+
+revogar a licitação por motivo de conveniência e oportunidade;
+
+
+III –
+
+proceder à anulação da licitação, de ofício ou mediante provocação de terceiros, sempre que presente ilegalidade insanável;
+
+
+IV –
+
+adjudicar o objeto e homologar a licitação.
+
+
+§ 1º
+
+Ao pronunciar a nulidade, a autoridade indicará expressamente os atos com vícios insanáveis, tornando sem efeito todos os subsequentes que deles dependam, e dará ensejo à apuração de responsabilidade de quem lhes tenha dado causa.
+
+
+§ 2º
+
+O motivo determinante para a revogação do processo licitatório deverá ser resultante de fato superveniente devidamente comprovado.
+
+
+§ 3º
+
+Nos casos de anulação e revogação, deverá ser assegurada a prévia manifestação dos interessados.
+
+
+§ 4º
+
+O disposto neste artigo será aplicado, no que couber, à contratação direta e aos procedimentos auxiliares da licitação.
+
+
+### TÍTULO III
+
+
+#### CAPÍTULO I — DA CONTRATAÇÃO DIRETA
+
+
+##### Seção I — Do Processo de Contratação Direta
+
+
+Art. 69.
+
+O processo de contratação direta, que compreende os casos de inexigibilidade e de dispensa de licitação, deverá ser instruído com os seguintes documentos:
+
+
+I –
+
+documento de formalização de demanda e, se for o caso, estudo técnico preliminar, análise de riscos, termo de referência, projeto básico ou projeto executivo;
+
+
+II –
+
+estimativa de despesa, que deverá ser calculada na forma estabelecida no art. 45 deste Decreto;
+
+
+III –
+
+parecer jurídico e pareceres técnicos, se for o caso, que demonstrem o atendimento dos requisitos exigidos;
+
+
+IV –
+
+demonstração da compatibilidade da previsão de recursos orçamentários com o compromisso a ser assumido;
+
+
+V –
+
+comprovação de que o contratado preenche os requisitos de habilitação e qualificação mínima necessária;
+
+
+VI –
+
+razão da escolha do contratado;
+
+
+VII –
+
+justificativa de preço;
+
+
+VIII –
+
+autorização da autoridade competente.
+
+
+Parágrafo único
+
+O ato que autoriza a contratação direta ou o extrato decorrente do contrato deverá ser divulgado e mantido à disposição do público em sítio eletrônico oficial.
+
+
+Art. 70.
+
+Na hipótese de contratação direta indevida ocorrida com dolo, fraude ou erro grosseiro, o contratado e o agente público responsável responderão solidariamente pelo dano causado ao erário, sem prejuízo de outras sanções legais cabíveis.
+
+
+##### Seção II — Da Inexigibilidade de Licitação
+
+
+Art. 71.
+
+A inexigibilidade de licitação deverá seguir todas as regras estabelecidas no art. 74 seus incisos e parágrafos da Lei 14.133/21.
+
+
+##### Seção III — Da Dispensa de Licitação
+
+
+Art. 72.
+
+A dispensa de licitação deverá seguir todas as regras estabelecidas no art. 75 seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO II — DAS ALIENAÇÕES
+
+
+Art. 73.
+
+A dispensa de licitação deverá seguir todas as regras estabelecidas no art. 76 a 77 seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO III — DOS PROCEDIMENTOS AUXILIARES
+
+
+Art. 74.
+
+São procedimentos auxiliares das licitações e das contratações regidas por este Decreto:
+
+
+I –
+
+credenciamento;
+
+
+II –
+
+pré-qualificação;
+
+
+III –
+
+procedimento de manifestação de interesse;
+
+
+IV –
+
+sistema de registro de preços;
+
+
+V –
+
+registro cadastral.
+
+
+§ 1º
+
+Os procedimentos auxiliares de que trata o caput deste artigo obedecerão a critérios claros e objetivos definidos em regulamento.
+
+
+§ 2º
+
+O julgamento que decorrer dos procedimentos auxiliares das licitações previstos nos incisos II e III do caput deste artigo seguirá o mesmo procedimento das licitações.
+
+
+##### Seção I — Do Credenciamento
+
+
+Art. 75.
+
+O credenciamento poderá ser adotado pela administração nas seguintes hipóteses de contratação:
+
+
+I –
+
+paralela e não excludente - caso em que é viável e vantajosa para a administração a realização de contratações simultâneas em condições padronizadas;
+
+
+II –
+
+com seleção a critério de terceiros - caso em que a seleção do contratado está a cargo do beneficiário direto da prestação;
+
+
+III –
+
+em mercados fluidos - caso em que a flutuação constante do valor da prestação e das condições de contratação inviabiliza a seleção de agente por meio de processo de licitação.
+
+
+Art. 76.
+
+O credenciamento não obriga a administração pública a contratar.
+
+
+Art. 77.
+
+O credenciamento ficará permanentemente aberto durante a vigência do edital e será realizado por procedimento físico até o limite estabelecido no art. 176 da Lei 14.133/21, observadas as seguintes fases:
+
+
+I –
+
+preparatória;
+
+
+II –
+
+de divulgação do edital de credenciamento;
+
+
+III –
+
+de registro do requerimento de participação;
+
+
+IV –
+
+de habilitação;
+
+
+V –
+
+recursal; e
+
+
+VI –
+
+de divulgação da lista de credenciados.
+
+
+Art. 78.
+
+A escolha pela contratação por credenciamento deverá ser motivada durante a fase preparatória e atender, em especial:
+
+
+I –
+
+aos pressupostos para enquadramento na contratação direta, por inexigibilidade, conforme previsto no inciso IV do caput do art. 74 da Lei nº 14.133, de 2021; e
+
+
+II –
+
+à necessidade de designação da comissão de contratação como responsável pelo exame e julgamento dos documentos de habilitação, nos termos do disposto neste decreto.
+
+
+Art. 79.
+
+O edital de credenciamento observará as regras gerais da Lei nº 14.133, de 2021, e conterá:
+
+
+I –
+
+descrição do objeto;
+
+
+II –
+
+quantitativo estimado de cada item, com respectiva unidade de medida;
+
+
+III –
+
+requisitos de habilitação e qualificação técnica;
+
+
+IV –
+
+prazo para análise da documentação para habilitação;
+
+
+V –
+
+critério para distribuição da demanda, quando for o caso;
+
+
+VI –
+
+critério para ordem de contratação dos credenciados, quando for o caso;
+
+
+VII –
+
+forma e prazos de interposição dos recursos, impugnação e pedidos de esclarecimentos;
+
+
+VIII –
+
+prazo para assinatura do instrumento contratual após a convocação pela administração;
+
+
+IX –
+
+condições para alteração ou atualização de preços;
+
+
+X –
+
+hipóteses de descredenciamento;
+
+
+XI –
+
+minuta de termo de credenciamento, de contrato ou de instrumento equivalente;
+
+
+XII –
+
+modelos de declarações;
+
+
+XIII –
+
+possibilidade de cometimento a terceiros, quando for o caso; e
+
+
+XIV –
+
+sanções aplicáveis.
+
+
+§ 1º
+
+O edital definirá os valores fixados e poderá prever índice de reajustamento dos preços, quando couber, para as hipóteses de contratação paralela e não excludente e de contratação com seleção a critério de terceiros.
+
+
+§ 2º
+
+Na hipótese de contratação em mercados fluidos, o edital poderá, quando couber, fixar percentual mínimo de desconto sobre as cotações de mercado registradas no momento da contratação.
+
+
+§ 3º
+
+Para a busca do objeto com melhores condições de preço nas contratações em mercados fluidos, será fornecida, quando for possível, solução tecnológica que permita a integração dos sistemas gerenciadores e interface aos sistemas dos fornecedores.
+
+
+§ 4º
+
+Na hipótese de credenciamento para fornecimento de bens, a administração poderá, excepcionalmente, exigir amostra ou prova de conceito do bem na fase de análise da documentação ou no período de vigência do contrato, desde que justificada a necessidade de sua apresentação.
+
+
+Art. 80.
+
+O edital de credenciamento será divulgado e mantido à disposição no Diário Municipal dos Municípios - AEMERJ, site oficial da prefeitura de Engenheiro Paulo de Frontin/RJ – permanente de novos interessados.
+
+
+Parágrafo único
+
+As modificações no edital serão publicadas no Diário Municipal dos Municípios - AEMERJ, site oficial da prefeitura de Engenheiro Paulo de Frontin/RJ – www.paulodefrontin.rj.gov.br e observarão os prazos inicialmente previstos no edital, respeitado o tratamento isonômico dos interessados.
+
+
+Art. 81.
+
+Na hipótese de contratações paralelas e não excludentes, a convocação dos credenciados para contratação será realizada de acordo com as regras do edital, respeitado o critério objetivo estabelecido para distribuição da demanda, o qual deverá garantir a igualdade de oportunidade entre os interessados.
+
+
+Parágrafo único
+
+A administração permitirá o cadastramento permanente de novos interessados, enquanto o edital de chamamento permanecer vigente.
+
+
+Art. 82.
+
+É vedada a participação no processo de credenciamento de pessoa física ou jurídica que:
+
+
+I –
+
+esteja impedida de licitar ou contratar com a administração pública federal; ou
+
+
+II –
+
+mantenha vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do órgão ou da entidade credenciante ou com agente público que desempenhe função no processo de contratação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau.
+
+
+§ 1º
+
+O interessado declarará, sem prejuízo da exigência de outras declarações previstas na legislação, o cumprimento dos requisitos para a habilitação e a conformidade de seu requerimento de participação com as exigências do edital.
+
+
+§ 2º
+
+A falsidade da declaração de que trata o § 1º sujeitará o interessado às sanções previstas na Lei nº 14.133, de 2021, sem prejuízo da responsabilidade penal.
+
+
+Art. 83.
+
+Para habilitação como credenciado, serão exigidos os documentos necessários e suficientes para demonstrar a capacidade do interessado de realizar o objeto da contratação, nos termos do disposto nos art. 62 ao art. 70 da Lei nº 14.133, de 2021.
+
+
+Parágrafo único
+
+A documentação exigida para fins de habilitação jurídica, fiscal, social, trabalhista e econômico-financeira, desde que previsto no edital, poderá ser substituída por registro no SICAF.
+
+
+Art. 84.
+
+A inscrição do interessado para o credenciamento mediante apresentação de requerimento de participação implicará a aceitação integral e irrestrita das condições estabelecidas no edital.
+
+
+Art. 85.
+
+O interessado que atender aos requisitos de habilitação previstos no edital será credenciado pelo órgão ou pela entidade credenciante, com a possibilidade de, no interesse da administração, ser convocado para executar o objeto.
+
+
+Art. 86.
+
+Quando convocado para execução do objeto, o credenciado deverá comprovar que mantém todos os requisitos de habilitação exigidos no edital de credenciamento para fins de assinatura de contrato ou outro instrumento hábil.
+
+
+Art. 87.
+
+Após a apresentação dos documentos de habilitação, fica vedada a substituição ou a apresentação de novos documentos, exceto em sede de diligência, para:
+
+
+I –
+
+complementação de informações acerca dos documentos já apresentados pelos licitantes, desde que necessária para apurar fatos existentes à época da abertura do certame; ou
+
+
+II –
+
+atualização de documentos cuja validade tenha expirado após a data de recebimento da documentação.
+
+
+§ 1º
+
+A verificação pela comissão de contratação, em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões, constitui meio legal de prova para fins de habilitação.
+
+
+§ 2º
+
+Na análise dos documentos de habilitação, a comissão de contratação poderá sanar erros ou falhas que não alterarem sua substância ou validade jurídica, atribuindo-lhes eficácia para fins de classificação, observado o disposto no art. 55 da Lei nº 9.784, de 29 de janeiro de 1999.
+
+
+§ 3º
+
+A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de pequeno porte observará o disposto no art. 42 da Lei Complementar nº 123, de 14 de agosto de 2006.
+
+
+##### Seção II — Pré-qualificação
+
+
+Art. 88.
+
+A pré-qualificação é o procedimento técnico-administrativo e deverá seguir todas as regras estabelecidas no art. 80, seus incisos e parágrafos da Lei 14.133/21.
+
+
+##### Seção III — Do Procedimento de Manifestação de Interesse
+
+
+Art. 89.
+
+O procedimento aberto de manifestação de interesse deverá seguir todas as regras estabelecidas no art. 81, seus incisos e parágrafos da Lei 14.133/21.
+
+
+##### Seção IV — Do Sistema de Registro de Preços
+
+
+Art. 90.
+
+O procedimento aberto de manifestação de interesse deverá seguir todas as regras estabelecidas no art. 82 a 86, seus incisos e parágrafos da Lei 14.133/21.
+
+
+Art. 91.
+
+O processo de adesão a Ata de Registro de Preços, como órgão não participante (carona) o procedimento administrativo observará as regras gerais deste Decreto e deverá dispor sobre:
+
+
+I –
+
+Documento de Formalização de demanda, especialmente a justificativa da necessidade da contratação, o nome da área requisitante ou técnica com a identificação do responsável, com indicação da Ata pretendida e os itens e quantidade a serem aderidos. Instruir a Solicitação com cópia integral do processo que originou a Ata.
+
+
+II –
+
+Aprovação do Ordenador de despesas para início do procedimento, devidamente motivada e analisada sob a ótica da oportunidade, conveniência e relevância para o interesse público;
+
+
+III –
+
+Autuação do processo correspondente, que deverá ser protocolizado e numerado;
+
+
+IV –
+
+Solicitação de aceite de adesão da Ata de Registro de Preços ao órgão gerenciador;
+
+
+V –
+
+Oficio de aceite do órgão gerenciador.
+
+
+VI –
+
+Solicitação de aceite de adesão da Ata de Registro de Preços do fornecedor;
+
+
+VII –
+
+Oficio de aceite do Fornecedor, instruído com as documentações de habilitação da empresa (Contrato Social, RG e CPF dos sócios, Cartão do CNPJ, Certidões de regularidade fiscal e trabalhista, balanço patrimonial) etc, conforme exigido no edital oriundo da Ata.
+
+
+VIII –
+
+o orçamento estimado, com as composições dos preços utilizados para sua formação, com base no art. 45 ou 46 deste Decreto.
+
+
+IX –
+
+Mapa comparativo dos valores estimado, devidamente assinado pelo agente de contratação certificando a autenticidade e veracidade das pesquisas de mercado realizada.
+
+
+X –
+
+verificação da adequação orçamentária e financeira, em conformidade com a Lei de Responsabilidade Fiscal.
+
+
+XI –
+
+Análise Procuradoria Geral e do Controle interno, referente a legalidade do procedimento.
+
+
+XII –
+
+Publicação do Termo de Adesão a Ata de Registro de Preços.
+
+
+XIII –
+
+Contrato
+
+
+XIV –
+
+Portaria de designação do Fiscal de contrato.
+
+
+XV –
+
+Publicação do extrato do contrato e disponibilização nos meios de transparência.
+
+
+##### Seção V — Do Registro Cadastral
+
+
+Art. 92.
+
+O procedimento aberto de manifestação de interesse deverá seguir todas as regras estabelecidas no art. 87 a 88, seus incisos e parágrafos da Lei 14.133/21.
+
+
+### TÍTULO IV — DOS CONTRATOS ADMINISTRATIVOS
+
+
+#### CAPÍTULO I — DA FORMALIZAÇÃO DOS CONTRATOS
+
+
+Art. 93.
+
+O procedimento aberto de manifestação de interesse deverá seguir todas as regras estabelecidas no art. 89 a 95, seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO II — DAS GARANTIAS
+
+
+Art. 94.
+
+A critério da autoridade competente, em cada caso, poderá ser exigida, mediante previsão no edital, prestação de garantia nas contratações de obras, serviços e fornecimentos, sendo elas:
+
+
+I –
+
+caução em dinheiro ou em títulos da dívida pública emitidos sob a forma escritural, mediante registro em sistema centralizado de liquidação e de custódia autorizado pelo Banco Central do Brasil, e avaliados por seus valores econômicos, conforme definido pelo Ministério da Economia;
+
+
+II –
+
+seguro-garantia;
+
+
+III –
+
+fiança bancária emitida por banco ou instituição financeira devidamente autorizada a operar no País pelo Banco Central do Brasil.
+
+
+IV –
+
+título de capitalização custeado por pagamento único, com resgate pelo valor total. (Incluído pela Lei nº 14.770, de 2023)
+
+
+§ 1º
+
+A modalidade de garantia apresentada pelo contratado deverá ser a prevista no Edital.
+
+
+§ 2º
+
+Na hipótese de suspensão do contrato por ordem ou inadimplemento da Administração, o contratado ficará desobrigado de renovar a garantia ou de endossar a apólice de seguro até a ordem de reinício da execução ou o adimplemento pela Administração.
+
+
+Art. 95.
+
+O seguro-garantia tem por objetivo garantir o fiel cumprimento das obrigações assumidas pelo contratado perante à Administração, inclusive as multas, os prejuízos e as indenizações decorrentes de inadimplemento, observadas as seguintes regras nas contratações regidas por esta Lei:
+
+
+I –
+
+o prazo de vigência da apólice será igual ou superior ao prazo estabelecido no contrato principal e deverá acompanhar as modificações referentes à vigência deste mediante a emissão do respectivo endosso pela seguradora;
+
+
+II –
+
+o seguro-garantia continuará em vigor mesmo se o contratado não tiver pago o prêmio nas datas convencionadas.
+
+
+Parágrafo único
+
+Nos contratos de execução continuada ou de fornecimento contínuo de bens e serviços, será permitida a substituição da apólice de seguro-garantia na data de renovação ou de aniversário, desde que mantidas as mesmas condições e coberturas da apólice vigente e desde que nenhum período fique descoberto, ressalvado o disposto no § 2º do art. 96 da Lei 14.133/21.
+
+
+Art. 96.
+
+Nas contratações de obras, serviços e fornecimentos, a garantia poderá ser de até 5% (cinco por cento) do valor inicial do contrato, autorizada a majoração desse percentual para até 10% (dez por cento), desde que justificada mediante análise da complexidade técnica e dos riscos envolvidos.
+
+
+Parágrafo único
+
+Nas contratações de serviços e fornecimentos contínuos com vigência superior a 1 (um) ano, assim como nas subsequentes prorrogações, será utilizado o valor anual do contrato para definição e aplicação dos percentuais previstos no caput deste artigo.
+
+
+Art. 97.
+
+Nas contratações de obras e serviços de engenharia de grande vulto, poderá ser exigida a prestação de garantia, na modalidade seguro-garantia, com cláusula de retomada prevista no art. 102 da Lei 14133/21, em percentual equivalente a até 30% (trinta por cento) do valor inicial do contrato.
+
+
+Art. 98.
+
+A garantia prestada pelo contratado será liberada ou restituída após a fiel execução do contrato ou após a sua extinção por culpa exclusiva da Administração e, quando em dinheiro, atualizada monetariamente.
+
+
+Art. 99.
+
+Nos casos de contratos que impliquem a entrega de bens pela Administração, dos quais o contratado ficará depositário, o valor desses bens deverá ser acrescido ao valor da garantia.
+
+
+Art. 100.
+
+Na contratação de obras e serviços de engenharia, o edital poderá exigir a prestação da garantia na modalidade seguro-garantia e prever a obrigação de a seguradora, em caso de inadimplemento pelo contratado, assumir a execução e concluir o objeto do contrato, hipótese em que:
+
+
+I –
+
+a seguradora deverá firmar o contrato, inclusive os aditivos, como interveniente anuente e poderá:
+
+
+a)
+
+ter livre acesso às instalações em que for executado o contrato principal;
+
+
+b)
+
+acompanhar a execução do contrato principal;
+
+
+c)
+
+ter acesso a auditoria técnica e contábil;
+
+
+d)
+
+requerer esclarecimentos ao responsável técnico pela obra ou pelo fornecimento;
+
+
+II –
+
+a emissão de empenho em nome da seguradora, ou a quem ela indicar para a conclusão do contrato, será autorizada desde que demonstrada sua regularidade fiscal;
+
+
+III –
+
+a seguradora poderá subcontratar a conclusão do contrato, total ou parcialmente.
+
+
+Parágrafo único
+
+Na hipótese de inadimplemento do contratado, serão observadas as seguintes disposições:
+
+
+I –
+
+caso a seguradora execute e conclua o objeto do contrato, estará isenta da obrigação de pagar a importância segurada indicada na apólice;
+
+
+II –
+
+caso a seguradora não assuma a execução do contrato, pagará a integralidade da importância segurada indicada na apólice.
+
+
+#### CAPÍTULO III — DA ALOCAÇÃO DE RISCOS
+
+
+Art. 101.
+
+O contrato poderá identificar os riscos contratuais previstos e presumíveis e prever matriz de alocação de riscos, alocando-os entre contratante e contratado, mediante indicação daqueles a serem assumidos pelo setor público ou pelo setor privado ou daqueles a serem compartilhados, nos termos do art. 103, seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO IV — DA DURAÇÃO DOS CONTRATOS
+
+
+Art. 102.
+
+A duração dos contratos regidos por este Decreto será a prevista em edital, e deverão ser observadas, no momento da contratação e a cada exercício financeiro, a disponibilidade de créditos orçamentários, bem como a previsão no plano plurianual, quando ultrapassar 1 (um) exercício financeiro.
+
+
+Art. 103.
+
+Serão aplicadas a duração do contrato todos as regras estabelecidas nos Arts. 105 a 146, seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO V — DA NULIDADE DOS CONTRATOS
+
+
+Art. 104.
+
+Será declarada a nulidade dos contratos, seguindo as regras estabelecidas nos Arts. 147 a 150, seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO VI — DOS MEIOS ALTERNATIVOS DE RESOLUÇÃO DE CONTROVÉRSIAS
+
+
+Art. 105.
+
+Nas contratações regidas por esta Lei, poderão ser utilizados meios alternativos de prevenção e resolução de controvérsias, notadamente a conciliação, a mediação, o comitê de resolução de disputas e a arbitragem.
+
+
+Parágrafo único
+
+Será aplicado o disposto no caput deste artigo às controvérsias relacionadas a direitos patrimoniais disponíveis, como as questões relacionadas ao restabelecimento do equilíbrio econômico-financeiro do contrato, ao inadimplemento de obrigações contratuais por quaisquer das partes e ao cálculo de indenizações.
+
+
+Art. 106.
+
+A arbitragem será sempre de direito e observará o princípio da publicidade.
+
+
+Art. 107.
+
+Os contratos poderão ser aditados para permitir a adoção dos meios alternativos de resolução de controvérsias.
+
+
+Art. 108.
+
+O processo de escolha dos árbitros, dos colegiados arbitrais e dos comitês de resolução de disputas observará critérios isonômicos, técnicos e transparentes.
+
+
+### TÍTULO V — DAS IRREGULARIDADES
+
+
+#### CAPÍTULO I — DAS INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
+
+
+Art. 109.
+
+O licitante ou o contratado será responsabilizado administrativamente pelas infrações prevista nos Arts. 155 a 163 seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO II — DAS IMPUGNAÇÕES, DOS PEDIDOS DE ESCLARECIMENTO E DOS RECURSOS
+
+
+Art. 110.
+
+As impugnações, os pedidos de esclarecimentos e dos recursos, deverão seguir o rigor dos Arts. 164 a 168 seus incisos e parágrafos da Lei 14.133/21.
+
+
+#### CAPÍTULO III — DO CONTROLE DAS CONTRATAÇÕES
+
+
+Art. 111.
+
+As contratações públicas deverão submeter-se a práticas contínuas e permanentes de gestão de riscos e de controle preventivo, inclusive mediante adoção de recursos de tecnologia da informação, e, além de estar subordinadas ao controle social, sujeitar-se-ão às seguintes linhas de defesa:
+
+
+I –
+
+primeira linha de defesa, integrada por servidores e empregados públicos, agentes de licitação e autoridades que atuam na estrutura de governança do órgão ou entidade;
+
+
+II –
+
+segunda linha de defesa, integrada pelas unidades de assessoramento jurídico e de controle interno do próprio órgão ou entidade;
+
+
+III –
+
+terceira linha de defesa, integrada pelo órgão central de controle interno da Administração e pelo tribunal de contas.
+
+
+§ 1º
+
+Na forma de regulamento, a implementação das práticas a que se refere o caput deste artigo será de responsabilidade da alta administração do órgão ou entidade e levará em consideração os custos e os benefícios decorrentes de sua implementação, optando-se pelas medidas que promovam relações íntegras e confiáveis, com segurança jurídica para todos os envolvidos, e que produzam o resultado mais vantajoso para a Administração, com eficiência, eficácia e efetividade nas contratações públicas.
+
+
+§ 2º
+
+Para a realização de suas atividades, os órgãos de controle deverão ter acesso irrestrito aos documentos e às informações necessárias à realização dos trabalhos, inclusive aos documentos classificados pelo órgão ou entidade nos termos da Lei nº 12.527, de 18 de novembro de 2011, e o órgão de controle com o qual foi compartilhada eventual informação sigilosa tornar-se-á corresponsável pela manutenção do seu sigilo.
+
+
+§ 3º
+
+Os integrantes das linhas de defesa a que se referem os incisos I, II e III do caput deste artigo observarão o seguinte:
+
+
+I –
+
+quando constatarem simples impropriedade formal, adotarão medidas para o seu saneamento e para a mitigação de riscos de sua nova ocorrência, preferencialmente com o aperfeiçoamento dos controles preventivos e com a capacitação dos agentes públicos responsáveis;
+
+
+II –
+
+quando constatarem irregularidade que configure dano à Administração, sem prejuízo das medidas previstas no inciso Ideste § 3º, adotarão as providências necessárias para a apuração das infrações administrativas, observadas a segregação de funções e a necessidade de individualização das condutas, bem como remeterão ao Ministério Público competente cópias dos documentos cabíveis para a apuração dos ilícitos de sua competência.
+
+
+Art. 112.
+
+Os órgãos de controle adotarão, na fiscalização dos atos previstos nesta Lei, critérios de oportunidade, materialidade, relevância e risco e considerarão as razões apresentadas pelos órgãos e entidades responsáveis e os resultados obtidos com a contratação, observado o disposto no § 3º do art. 169 da Lei 14.133/21.
+
+
+§ 1º
+
+As razões apresentadas pelos órgãos e entidades responsáveis deverão ser encaminhadas aos órgãos de controle até a conclusão da fase de instrução do processo e não poderão ser desentranhadas dos autos.
+
+
+§ 2º
+
+A omissão na prestação das informações não impedirá as deliberações dos órgãos de controle nem retardará a aplicação de qualquer de seus prazos de tramitação e de deliberação.
+
+
+§ 3º
+
+Os órgãos de controle desconsiderarão os documentos impertinentes, meramente protelatórios ou de nenhum interesse para o esclarecimento dos fatos.
+
+
+§ 4º
+
+Qualquer licitante, contratado ou pessoa física ou jurídica poderá representar aos órgãos de controle interno ou ao tribunal de contas competente contra irregularidades na aplicação deste Decreto.
+
+
+Art. 113.
+
+Na fiscalização de controle será observado o seguinte:
+
+
+I –
+
+viabilização de oportunidade de manifestação aos gestores sobre possíveis propostas de encaminhamento que terão impacto significativo nas rotinas de trabalho dos órgãos e entidades fiscalizados, a fim de que eles disponibilizem subsídios para avaliação prévia da relação entre custo e benefício dessas possíveis proposições;
+
+
+II –
+
+adoção de procedimentos objetivos e imparciais e elaboração de relatórios tecnicamente fundamentados, baseados exclusivamente nas evidências obtidas e organizados de acordo com as normas de auditoria do respectivo órgão de controle, de modo a evitar que interesses pessoais e interpretações tendenciosas interfiram na apresentação e no tratamento dos fatos levantados;
+
+
+III –
+
+definição de objetivos, nos regimes de empreitada por preço global, empreitada integral, contratação semi-integrada e contratação integrada, atendidos os requisitos técnicos, legais, orçamentários e financeiros, de acordo com as finalidades da contratação, devendo, ainda, ser perquirida a conformidade do preço global com os parâmetros de mercado para o objeto contratado, considerada inclusive a dimensão geográfica.
+
+
+§ 1º
+
+Ao suspender cautelarmente o processo licitatório, o tribunal de contas deverá pronunciar-se definitivamente sobre o mérito da irregularidade que tenha dado causa à suspensão no prazo de 25 (vinte e cinco) dias úteis, contado da data do recebimento das informações a que se refere o § 2º deste artigo, prorrogável por igual período uma única vez, e definirá objetivamente:
+
+
+I –
+
+as causas da ordem de suspensão;
+
+
+II –
+
+o modo como será garantido o atendimento do interesse público obstado pela suspensão da licitação, no caso de objetos essenciais ou de contratação por emergência.
+
+
+§ 2º
+
+Ao ser intimado da ordem de suspensão do processo licitatório, o órgão ou entidade deverá, no prazo de 10 (dez) dias úteis, admitida a prorrogação:
+
+
+I –
+
+informar as medidas adotadas para cumprimento da decisão;
+
+
+II –
+
+prestar todas as informações cabíveis;
+
+
+III –
+
+proceder à apuração de responsabilidade, se for o caso.
+
+
+§ 3º
+
+A decisão que examinar o mérito da medida cautelar a que se refere o § 1º deste artigo deverá definir as medidas necessárias e adequadas, em face das alternativas possíveis, para o saneamento do processo licitatório, ou determinar a sua anulação.
+
+
+§ 4º
+
+O descumprimento do disposto no § 2º deste artigo ensejará a apuração de responsabilidade e a obrigação de reparação do prejuízo causado ao erário.
+
+
+Art. 114.
+
+Os tribunais de contas deverão, por meio de suas escolas de contas, promover eventos de capacitação para os servidores efetivos e empregados públicos designados para o desempenho das funções essenciais à execução da Lei 14.133/21, incluídos cursos presenciais e a distância, redes de aprendizagem, seminários e congressos sobre contratações públicas.
+
+
+### TÍTULO VI — DISPOSIÇÕES GERAIS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+
+Art. 115.
+
+Os prazos previstos neste Decreto serão contados com exclusão do dia do começo e inclusão do dia do vencimento e observarão as seguintes disposições:
+
+
+I –
+
+os prazos expressos em dias corridos serão computados de modo contínuo;
+
+
+II –
+
+os prazos expressos em meses ou anos serão computados de data a data;
+
+
+III –
+
+nos prazos expressos em dias úteis, serão computados somente os dias em que ocorrer expediente administrativo no órgão ou entidade competente.
+
+
+§ 1º
+
+Salvo disposição em contrário, considera-se dia do começo do prazo:
+
+
+I –
+
+o primeiro dia útil seguinte ao da disponibilização da informação na internet;
+
+
+II –
+
+a data de juntada aos autos do aviso de recebimento, quando a notificação for pelos correios.
+
+
+§ 2º
+
+Considera-se prorrogado o prazo até o primeiro dia útil seguinte se o vencimento cair em dia em que não houver expediente, se o expediente for encerrado antes da hora normal ou se houver indisponibilidade da comunicação eletrônica.
+
+
+§ 3º
+
+Na hipótese do inciso II do caput deste artigo, se no mês do vencimento não houver o dia equivalente àquele do início do prazo, considera-se como termo o último dia do mês.
+
+
+Art. 116.
+
+Aplicam-se as disposições deste Decreto, no que couber e na ausência de norma específica, aos convênios, acordos, ajustes e outros instrumentos congêneres celebrados pelo Município de Engenheiro Paulo de Frontin.
+
+
+Art. 117.
+
+Após o prazo previsto no artigo 176 da Lei 14.133/21, todos os atos descritos neste Decreto passaram a ser por meio eletrônico.
+
+
+Art. 118.
+
+Revogam-se todos os decretos municipais que tratam de assuntos semelhantes ao deste Decreto, em especial os Decretos nº 063/2013, 403/2023 e 405/2023.
+
+
+Art. 119.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Engenheiro Paulo de Frontin, 18 de março de 2025.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal

@@ -1,0 +1,235 @@
+---
+titulo: "Lei Ordinária nº 1.409, de 15 de dezembro de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1409"
+data: "2004-12-15"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1791"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/371/text"
+sha256_fonte: "ab3f916a3a2fbb0b49cfe257079e556714fdd6c0e975908d44e4c713e8b0927b"
+sha256_texto: "dffa9abc37bbb91795182f7607f7410e3398e9a37fc361c99b51921886866cd5"
+capturado_em_fonte: "2026-10-27T21:38:21.658649-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.409, de 15 de dezembro de 2004
+
+Dá nome às vias públicas urbanas, localizadas na Vila São João, Conjunto Boa Vista, Loteamento Vale do Sol e Conjunto Arco Íris e Água Fria, na Cidade de Caçu, Estado de Goiás e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CAÇU, Estado de Goiás, aprovou e eu, Prefeito Municipal sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam assim denominadas as vias públicas urbanas situadas na Cidade de Caçu, Estado de Goiás:
+
+
+I –
+
+De Rua Vitalina Felizarda de Jesus a via pública urbana de duas pistas, até então sem denominação, localizada na Vila São João, compreendida entre a Avenida Ildefonso Carneiro e a Rua Vicente Soares, onde está sediada a Associação Ana Custódia de Jesus.
+
+
+II –
+
+De Rua José Monteiro de Magalhães a Rua 01, localizada no Conjunto Boa Vista, compreendida entre a Rua Jamir Pereira da Silva e a Av. Argemiro Purcena da Silva.
+
+
+III –
+
+De Rua Joaquim Cardoso de Lemos a Rua 02, localizada no Conjunto Boa Vista, compreendida entre a Av. Antonio Cândido de Castro e a Av. Argemiro Purcena da Silva.
+
+
+IV –
+
+De Rua José Vilela Souto a Rua 03, localizada no Conjunto Boa Vista, compreendida entre a Av. Antonio Cândido de Castro e a Av. Argemiro Purcena da Silva.
+
+
+V –
+
+De Rua João Thiago de Carvalho a Rua 04, localizada no Conjunto Boa Vista, compreendida entre a Av. Antonio Cândido de Castro e a Av. Argemiro Purcena da Silva.
+
+
+VI –
+
+De Rua Olivina da Silva Ramos a Rua 05, localizada no Conjunto Boa Vista, compreendida entre a Av. Antonio Cândido de Castro e a Rua Jamir Pereira da Silva.
+
+
+VII –
+
+De Rua Manoel Vieira Porto a Rua 04, localizada no Loteamento Vale do Sol, compreendida entre a Rua Lázaro Ludgero de Souza e a atual Rua 05.
+
+
+VIII –
+
+De Rua Professora Leonora Severino de Andrade a Rua 05 no Loteamento Vale do Sol, compreendida entre a atual Rua 04 e área do Clube do Laço.
+
+
+IX –
+
+De Rua Pedro Paula de Siqueira a Rua 06 no Loteamento Vale do Sol, compreendida entre a atual Rua 04 e a atual Rua 08.
+
+
+X –
+
+De Rua José Valdemar da Silva a Rua 07 do Loteamento Vale do Sol, compreendida entre a Rua Lázaro Ludgero de Souza e a atual Rua 06.
+
+
+XI –
+
+De Rua Joaquim Vieira Cabral a Rua 08 do Loteamento Vale do Sol, compreendida entre a Rua Lázaro Ludgero de Souza e a atual Rua 06.
+
+
+XII –
+
+De Rua Bulhões de Araújo França a Rua 10 do Loteamento Vale do Sol, compreendida entre a Rua Lázaro Ludgero de Souza e área do Clube do Laço.
+
+
+XIII –
+
+De Rua Jordelina Rosa de Jesus a Rua 11 do Loteamento Vale do Sol, compreendida entre a Rua Lázaro Ludgero de Souza e área do Clube do Laço.
+
+
+XIV –
+
+De Rua João Tomaz Maia a Rua 12 do Loteamento Vale do Sol, compreendida entre a Rua Lázaro Ludgero de Souza e área do Clube do Laço.
+
+
+XV –
+
+De Rua Maria Hipólita Nunes a Rua 13 do Loteamento Vale do Sol, compreendida entre a Rua Lázaro Ludgero de Souza e área do Clube do Laço.
+
+
+XVI –
+
+De Rua Duílio Pereira Vieira a Rua 01 do Conjunto Arco íris, compreendida entre a Rua 20 de Outubro e a atual Rua 11.
+
+
+XVII –
+
+De Rua Professora Neida Divina de Oliveira a Rua 02 do Conjunto Arco Iris, compreendida entre a Rua 20 de Outubro e a atual Rua 11.
+
+
+XVIII –
+
+De Rua Nemézio Vieira Borges a Rua 03 do Conjunto Arco Íris, compreendida entre a Rua 20 de Outubro e a atual Rua 11.
+
+
+XIX –
+
+De Rua Pedro Soares de Oliveira a Rua 04 do Conjunto Arco Íris, compreendida entre a Rua 20 de Outubro e a atual Rua 11.
+
+
+XX –
+
+De Rua Professora Zulmira de Castro a Rua 05 do Conjunto Arco Íris, compreendida entre a Rua 20 de Outubro e a atual Rua 10.
+
+
+XXI –
+
+De Rua Jerônimo José de Assis a Rua 06 do Conjunto Arco Íris, compreendida entre a Rua 20 de Outubro e a atual Rua 10.
+
+
+XXII –
+
+De Rua Manoel Francisco a Rua 07 do Conjunto Arco Íris, compreendida entre a Rua 20 de Outubro e a atual Rua 09.
+
+
+XXIII –
+
+De Rua Lázaro da Silveira Chaves a Rua 08 do Conjunto Arco íris, compreendida entre a Rua 20 de Outubro e a atual Rua 09.
+
+
+XXIV –
+
+De Rua José Paulino Barbosa a Rua 09 do Conjunto Arco Íris e Água Fria, compreendida entre a Av. Ildefonso Carneiro e a atual Rua 12 do Conjunto Água Fria.
+
+
+XXV –
+
+De Rua Miguel Alves de Lima a Rua 10 do Conjunto Arco Íris, compreendida entre a Av. Ildefonso Carneiro e a Rua Vicente Soares.
+
+
+XXVI –
+
+De Rua Teodorico Rodrigues da Fonseca a Rua 11 do Conjunto Água Fria, compreendida entre a Rua Vicente Soares e a atual Rua 22.
+
+
+XXVII –
+
+De Rua Frederico de Souza Lima a Rua 12 do Conjunto Água Fria, compreendida entre a Rua Vicente Soares e a atual Rua 09.
+
+
+XXVIII –
+
+De Rua Ursulino Francisco de Freitas a Rua 13 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXIX –
+
+De Rua Antônio Prudêncio de Lima a Rua 14 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXX –
+
+De Rua Antônio Nunes Borges a Rua 15 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXXI –
+
+De Rua Deoclides Barbosa de Aguiar a Rua 16 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXXII –
+
+De Rua Raimunda Maria da Conceição a Rua 17 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXXIII –
+
+De Rua Deijanira Lúcia da Cunha a Rua 18 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXXIV –
+
+De Rua Evaristo Ribeiro de Souza a Rua 19 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXXV –
+
+De Rua Vilmar José de Castro a Rua 20 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXXVI –
+
+De Rua Joaquim de Melo Pereira a Rua 21 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+XXXVII –
+
+De Rua Daniel José de Sousa a Rua 22 do Conjunto Água Fria, compreendida entre a atual Rua 09 e a atual Rua 11.
+
+
+Art. 2º.
+
+O Poder Executivo providenciará a colocação de placas indicativas, bem como a devida comunicação à Empresa Brasileira de Correios e Telégrafos e as empresas concessionárias de água, esgoto, luz e telefonia.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+**PREFEITURA MUNICIPAL DE CAÇU**, Estado de Goiás, em 15 de dezembro de 2004.
+
+**RUI ALVES MARTINS**
+
+**Prefeito Municipal**
+

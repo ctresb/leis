@@ -1,0 +1,452 @@
+Dispõe sobre o IMPOSTO SOBRE SERVIÇOS - ISS e dá outras providências
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O IMPOSTO SOBRE SERVIÇOS DE QUALQUER NA­TUREZA tem como fato gerador a prestação por empresa ou profissional autônomo, com ou sem estabelecimento fixo, de serviços constantes da lista seguinte; ou que se lhe equiparem, além de outros que vierem a ser descritos em lei federal complementar ao art. 156, IV da Constituição:
+
+<table><tbody><tr><td rowspan="2">LISTA DOS SERVIÇOS</td><td colspan="2">ALÍQUOTAS Sobre</td></tr><tr><td>B.C.A</td><td>P.S.</td></tr><tr><td>01. Médicos, inclusive análise clinica, eletricidade médica, radioterapia, ultrassonografia e congêneres...</td><td>20%</td><td> </td></tr><tr><td>2. Hospitais, clínicas, sanatórios, laboratórios de análise, ambulatórios, prontos-socorros, casas de saúde e de repouso e de recuperação e congêneres...</td><td> </td><td>5%</td></tr><tr><td>03. Bancos de sangue, leite, pele, olhos, sêmem e congêneres...</td><td> </td><td>5%</td></tr><tr><td>04. Enfermeiros, obstetras, ortópticos, fonoaudiólogos, protéticos (prótese dentária) ...</td><td>3%</td><td> </td></tr><tr><td>05. Assistência médica e congêneres previstos nos Itens 1, 1 e 3 desta lista, prestados através de planos de medicina de grupo, convênios, inclusive com empresas para assistência a empregados...</td><td> </td><td>5%</td></tr><tr><td>06. Planos de saúde, prestados por empresas que não estejam incluí­das no Item 5 desta lista e que se cumpram através de serviços prestados por terceiros, contratados pela empresa ou apenas pagos por esta...</td><td> </td><td>5%</td></tr><tr><td>07. Médicos veterinários...</td><td>20%</td><td> </td></tr><tr><td>08. Hospitais veterinários, clínicas veterinárias e congêneres</td><td> </td><td>5%</td></tr><tr><td>09. Guarda, tratamento, amestramento, adestramento, embelezamento, alojamento e congêneres, relativos a animais...</td><td> </td><td>5%</td></tr><tr><td>10. Barbeiros, cabelereiros, manicuros, pedicuros, tratamento de pele, depilação e congêneres...</td><td>4%</td><td> </td></tr><tr><td>11. Banhos, duchas, sauna, massagens, ginásticas e congêneres...</td><td> </td><td>5%</td></tr><tr><td>12. Varrição, coleta, remoção e incineração de lixo...</td><td> </td><td>5%</td></tr><tr><td>13. Limpeza e dragagem de portos, rios e canais...</td><td> </td><td>5%</td></tr><tr><td>15. Desinfecção, imunização, higienização, desratização e congêneres...</td><td> </td><td>5%</td></tr><tr><td>16. Controle e tratamento de afluentes de qualquer natureza e de agentes físicos e biológicos...</td><td> </td><td>5%</td></tr><tr><td>17. Incineração de resíduos quaisquer...</td><td> </td><td>5%</td></tr><tr><td>18. Limpeza de chaminés...</td><td> </td><td>5%</td></tr><tr><td>19. Saneamentos ambientais e congêneres...</td><td> </td><td>5%</td></tr><tr><td>20. Assistência técnica...</td><td> </td><td>5%</td></tr><tr><td>21. Assessoria e consultoria de qualquer natureza, não contida em outros itens desta lista, organização, programação, planejamento, assessoria, processamento de dados, consultoria técnica, financeira ou administrativa...</td><td> </td><td>5%</td></tr><tr><td>22. Planejamento, coordenação, programação ou organização técnica, financeira ou administrativa...</td><td> </td><td>5%</td></tr><tr><td>23. Análise, inclusive de sistemas, exames, pesquisas e informações, coleta e processamento de dados de qualquer natureza...</td><td> </td><td>5%</td></tr><tr><td>24. Contabilidade, auditoria, guarda-livros, técnicos em contabilidade e congêneres...</td><td>8%</td><td>5%</td></tr><tr><td>25. Perícias, laudos, exames técnicos e análises técnicas...</td><td> </td><td>5%</td></tr><tr><td>26. Traduções e interpretações...</td><td> </td><td>5%</td></tr><tr><td>27. Avaliação de bens...</td><td> </td><td>5%</td></tr><tr><td>28. Datilografia, estenografia, expediente, secretaria em geral e congêneres...</td><td> </td><td>5%</td></tr><tr><td>29. Projetos, cálculos e desenhos técnicos de qualquer natureza...</td><td> </td><td>5%</td></tr><tr><td>30. Aerofotogrametria (inclusive interpretação), mapeamento e topografia...</td><td> </td><td>5%</td></tr><tr><td>31. Execução, por administração, empreitada ou subempreitada, de construção civil, de obras hidráulicas e outras obras semelhantes e respec­tiva engenharia consultiva, inclusive serviços auxiliares ou complementares (exceto o fornecimento de mercadorias produzidas pelo pres­tador de serviços, fora do local da prestação de serviços, que fica sujeito ao ICMS) ...</td><td> </td><td>5%</td></tr><tr><td>32. Demolição...</td><td> </td><td>5%</td></tr><tr><td>33. Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres (exceto o fornecimento de mercadorias produzidas pelo prestador dos serviços fora do local dos serviços, que fica sujeito ao ICMS) ...</td><td> </td><td>5%</td></tr><tr><td>34. Pesquisa, perfuração, cimentação, perfilagem, estimulação e outros serviços relacionados com a exploração de petróleo e gás natural...</td><td> </td><td>5%</td></tr><tr><td>35. Florestamento e reflorestamento...</td><td> </td><td>5%</td></tr><tr><td>36. Escoramento e contenção de encostas e serviços congêneres...</td><td> </td><td>5%</td></tr><tr><td>37. Paisagismo, jardinagem e decoração (exceto o fornecimento de mercadorias, que fica sujeito ao ICMS).</td><td> </td><td>5%</td></tr><tr><td>39. Ensino, instrução, treinamento, avaliação de conhecimentos, de qualquer grau ou natureza...</td><td> </td><td>5%</td></tr><tr><td>40. Planejamento, organização e administração de feiras, exposições, congressos e congêneres...</td><td> </td><td>5%</td></tr><tr><td>41. Organização de festas e recepções: buffet (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS) ...</td><td> </td><td>5%</td></tr><tr><td>42. Administração de bens e negócios de terceiros e de consórcio</td><td> </td><td>5%</td></tr><tr><td>43. Administração de fundos mútuos (exceto a realizada por instituição autorizada a funcionar pelo Banco Central) ...</td><td> </td><td>5%</td></tr><tr><td>44. Agenciamento, corretagem ou intermediação de câmbio, de seguros e de planos de previdência privada...</td><td> </td><td>5%</td></tr><tr><td>45. Agenciamento, corretagem ou intermediação de títulos quaisquer (ex­ceto os serviços executados por instituição autorizada a funcionar pelo Banco Central) ...</td><td> </td><td>5%</td></tr><tr><td>46. Agenciamento, corretagem ou intermediação de direitos da propriedade industrial, artística ou literária...</td><td> </td><td>5%</td></tr><tr><td>47. Agenciamento, corretagem ou Intermediação de contratos de franquia (francliise) e de faturação (factoring) excetuam-se os serviços prestados por instituições autorizadas a funcionar pelo (Banco Central) ...</td><td> </td><td>5%</td></tr><tr><td>48. Agenciamento, organização, promoção e execução de programas de turismo, passeios excursões, guias de turismo e congêneres...</td><td> </td><td>5%</td></tr><tr><td>49. Agenciamento, corretagem ou intermediação de bens móveis e imóveis não abrangidos nos itens 44, 45, 46 e 47...</td><td> </td><td>5%</td></tr><tr><td>50. Despachantes...</td><td>8%</td><td>5%</td></tr><tr><td>51. Agentes da propriedade industrial...</td><td>8%</td><td>5%</td></tr><tr><td>52. Agentes da propriedade artística ou literária...</td><td>8%</td><td>5%</td></tr><tr><td>53. Leilão...</td><td> </td><td>5%</td></tr><tr><td>54. Regulamentação de sinistros cobertos por contratos de seguros inspeção e avaliação de riscos para cobertura de contratos de seguros, prevenção e gerência de riscos seguráveis, prestados por quem não seja o próprio segurado ou companhia de seguro...</td><td> </td><td>5%</td></tr><tr><td>55. Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie (exceto depósitos feitos em instituições financeiras autorizadas a funcionar pelo Banco Central) ...</td><td> </td><td>5%</td></tr><tr><td>56. Guarda e estacionamento de veículos automotores terrestres...</td><td> </td><td>5%</td></tr><tr><td>57. Vigilância ou segurança de pessoas e bens...</td><td> </td><td>5%</td></tr><tr><td>58. Transporte, coleta, remessa ou entrega de bens e valores, dentro do território do Município...</td><td> </td><td>5%</td></tr><tr><td>59. Diversões públicas:</td><td> </td><td> </td></tr><tr><td>a) cinemas, "taxi-dancings" e congêneres;</td><td> </td><td>5%</td></tr><tr><td>b) bilhares, boliches, corridas de animais e outros jogos;</td><td> </td><td>5%</td></tr><tr><td>c) exposições, com cobrança de ingresso;</td><td> </td><td>5%</td></tr><tr><td>e) jogos eletrônicos...</td><td> </td><td>5%</td></tr><tr><td>f) competições esportivas ou de destreza física ou Intelectual, com ou sem a participação do espectador, inclusive a venda de direitos à transmissão pelo rádio ou p/televisão...</td><td> </td><td>5%</td></tr><tr><td>g) execução de música, individual ou por conjuntos...</td><td> </td><td>5%</td></tr><tr><td>60. Distribuição de venda de bilhetes de loterias, cartões, pules ou cupons de apostas, sorteios ou prêmios</td><td> </td><td>5%</td></tr><tr><td>61. Fornecimento de música, mediante transmissão por qualquer proces­so, para vias públicas ou ambientes fechados (exceto transmissões radiofônicas ou de televisão) ...</td><td> </td><td>5%</td></tr><tr><td>62. Gravação e distribuição de filmes e "vídeo-tapes"...</td><td> </td><td>5%</td></tr><tr><td>63. Fonografia ou gravação de sons ou ruídos, inclusive trucagem, dublagem e mixagem sonora...</td><td> </td><td>5%</td></tr><tr><td>64. Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução e trucagem...</td><td> </td><td>5%</td></tr><tr><td>65. Produção, para terceiros, mediante ou sem encomenda prévia, de espetáculos, entrevistas e congêneres...</td><td> </td><td>5%</td></tr><tr><td>66. Colocação de tapetes e cortinas, com material fornecido pelo usuário final do serviço...</td><td> </td><td>5%</td></tr><tr><td>67. Lubrificação, limpeza e revisão de máquinas, veículos, aparelhos e equipamentos (exceto o fornecimento de peças e partes, que fica sujeito ao ICMS) ...</td><td> </td><td>5%</td></tr><tr><td>68. Conserto, restauração, manutenção e conservação de máquinas, veí­culos, motores, elevadores ou de qualquer objeto (exceto o fornecimento de peças e partes, que fica sujeito ao ICMS) ...</td><td> </td><td>5%</td></tr><tr><td>69. Recondicionamento de motores (o valor das peças fornecidas pelo prestador do serviço fica sujeito ao ICMS) ...</td><td> </td><td>5%</td></tr><tr><td>70. Recauchutagem ou regeneração de pneus para o usuário final...</td><td> </td><td>5%</td></tr><tr><td>71. Recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodização, corte, recorte, polimento, plastificação e congêneres, de objetos não destinados à industrialização ou comercialização...</td><td> </td><td>5%</td></tr><tr><td>72. Lustração de bens móveis quando o serviço for prestado para usuário final do objeto lustrado...</td><td> </td><td>5%</td></tr><tr><td>73. Instalação e montagem de aparelhos, máquinas e equipamentos, prestados ao usuário final do serviço, exclusivamente com material por ele fornecido...</td><td> </td><td>5%</td></tr><tr><td>74. Montagem industrial, prestada ao usuário final do serviço, exclusivamente com material por ele fornecido...</td><td> </td><td>5%</td></tr><tr><td>75. Cópia ou reprodução, por quaisquer processos, de documentos e outros papéis, plantas ou desenhos...</td><td> </td><td>5%</td></tr><tr><td>76. Composição gráfica, fotocomposição, clicheria, zincografia, litografia e fotolitografia.</td><td> </td><td>5%</td></tr><tr><td>77. Colocação de molduras e afins, encadernação, gravação e douração de livros, revistas e congêneres...</td><td> </td><td>5%</td></tr><tr><td>78. Locação de bens móveis, inclusive arrendamento mercantil...</td><td> </td><td>5%</td></tr><tr><td>79. Funerais.</td><td> </td><td>5%</td></tr><tr><td>80. Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento...</td><td> </td><td>5%</td></tr><tr><td>81. Tinturaria e lavanderia.</td><td> </td><td>5%</td></tr><tr><td>82. Taxidermia.</td><td> </td><td>5%</td></tr><tr><td>83. Recrutamento, agenciamento, seleção, colocação ou fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive por empregados do prestador do serviço ou por trabalhadores avulsos por ele contratados.</td><td> </td><td>5%</td></tr><tr><td>84. Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais de publicitários (exceto sua impressão, reprodução ou fabricação) ...</td><td> </td><td>5%</td></tr><tr><td>85. Veiculação e divulgação de textos, desenhos e outros materiais de publicidade, por qualquer meio (exceto em jornais periódicos, rádios e televisão) ...</td><td> </td><td>5%</td></tr><tr><td>86. Serviços portuários e aeroportuários, utilização de porto ou aero­porto, atracação, capatazia, armazenagem interna, externa e especial, suprimento de água, serviços acessórios, movimentação de mercadoria fora do cais...</td><td> </td><td>5%</td></tr><tr><td>87. Advogado...</td><td>15%</td><td> </td></tr><tr><td>88. Engenheiros, arquitetos, urbanistas, agrônomos...</td><td>15%</td><td> </td></tr><tr><td>89. Dentistas...</td><td>15%</td><td> </td></tr><tr><td>90. Economistas...</td><td>10%</td><td> </td></tr><tr><td>91. Psicólogos...</td><td>15%</td><td> </td></tr><tr><td>92. Assistentes sociais...</td><td>5%</td><td> </td></tr><tr><td>93. Relações públicas...</td><td>5%</td><td> </td></tr><tr><td>94. Cobranças e recebimentos por conta de terceiros, inclusive direitos autorais, protestos de títulos, sustação de protestos, devolução de títulos não pagos, manutenção de títulos vencidos, fornecimentos de posição de cobrança ou recebimento e outros serviços correlatos da cobrança ou recebimento (este Item abrange os serviços prestados por instituições autorizadas a funcionar pelo Banco Central) ...</td><td> </td><td>5%</td></tr><tr><td>95. Instituições financeiras autorizadas a funcionar pelo Banco Central, fornecimento de talões de cheques, emissão de cheques administrati­vos, transferência de fundos, devolução de cheques, sustação de pa­gamentos de cheques, ordem de pagamento e de créditos, por qualquer meio, emissão e renovação de cartões magnéticos, consultas em terminal de extrato em contas, emissão de carnês (neste item não está abrangido o ressarcimento, a instituição financeira, de gastos com portes do correio, telegrama, telex e teleprocessamento, necessário à prestação dos serviços... )</td><td> </td><td>5%</td></tr><tr><td>96. Transporte de natureza estritamente Municipal...</td><td> </td><td>5%</td></tr><tr><td>97. Hospedagem em hotéis, motéis, pensões e congêneres (o valor da alimentação, quando incluído no preço da diária, fica sujeito ao imposto sobre serviços) ...</td><td> </td><td>5%</td></tr><tr><td>98. Distribuição de bens de terceiros em representação de qualquer natureza...</td><td> </td><td>5%</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O imposto será devido ao Município:
+
+
+I –
+
+no caso de construção civil, quando a obra se localizar dentro do seu território, ainda que o prestador tenha estabelecimento ou domicílio tributário fora dele;
+
+
+II –
+
+nos demais casos, quando o estabelecimento ou domicílio do prestador se localizar no território do Município, ainda que o serviço seja prestado fo­ra dele.
+
+
+Parágrafo único
+
+Entende-se por B.C.A. a ex­pressão Base de Cálculo para Autônomo identificada no art. 7º, I desta lei e por P.S. a expressão Preço do Serviço.
+
+
+Art. 3º.
+
+O contribuinte do imposto é o presta­dor do serviço, assim entendido a pessoa física ou jurídica com ou sem estabelecimento fixo que exerça, habitual ou temporariamente, individualmente ou em sociedade, qualquer atividade não compreendidos no art. 155, I, b) da Constituição Federal, recolhimento do imposto todo aquele que se utilizar de serviço de terceiro quando:
+
+
+I –
+
+o prestador do serviço não emitir fatura, nota fiscal de prestação de servi­ços ou outro documento admitido pela administração, com o número da inscri­ção no cadastro econômico do Município.
+
+
+II –
+
+não sendo apresentado o comprovante de inscrição ou documento comprobatório de imunidade ou isenção.
+
+
+§ 1º
+
+A fonte pagadora deverá dar ao contribuinte o comprovante de retenção a que refere este artigo.
+
+
+§ 2º
+
+A não exigência da comprovação da inscri­ção acarretará a responsabilidade solidária da empresa, profissional autônomo ou utilizador do serviço no pagamento do imposto re­lativo aos serviços a eles prestados, além de multa prevista.
+
+
+§ 3º
+
+Considera-se apropriação indébita a posse pelo usuário do serviço, por prazo superior a 30 (trinta) dias contados da data em que deveria ter providenciado o recolhimento, do valor do tributo retido na fonte (art. 168 do Código Penal).
+
+
+Art. 4º.
+
+
+Art. 5º.
+
+É base de cálculo do imposto:
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 8º. - Lei Ordinária nº 903, de 27 de dezembro de 1990.
+
+
+II –
+
+nos demais casos o imposto será calcu­lado, segundo o tipo de serviço presta do, mediante a aplicação das alíquotas conforme a lista de serviços, sobre o (parte incompleta).
+
+
+III –
+
+o imposto retido na fonte será cal­culado aplicando-se a alíquota fixa da na lista de serviços sobre o va­lor ou preço do serviço.
+
+
+§ 1º
+
+Quando os serviços a que referem os itens 1, 4, 7, 24, 51, 87, 88, 89, 90 e 91 da lista de serviços forem prestados por sociedades, estas ficarão sujeitas ao imposto na forma do art. 70, I, calculado em relação a cada pro­fissional habilitado, sócio, empregado ou não, que preste serviço em nome da sociedade, embora assumindo responsabilidade pessoal, nos termos da lei aplicável.
+
+
+§ 2º
+
+A Base de Cálculo para Autônomo será atualizada no mês de janeiro de cada ano com base nos índices oficiais inflacionários.
+
+
+Art. 6º.
+
+
+Art. 7º.
+
+Na hipótese de serviços prestados por profissionais autônomos, enquadráveis em mais de um dos itens a que se refere a lista de serviços, o imposto será calculado mediante a aplicação da alíquota mais elevada.
+
+
+Art. 8º.
+
+O Preço do serviço é a importância relativa à receita bruta a ele correspondente, sem qualquer dedução.
+
+
+§ 1º
+
+Integram o preço:
+
+
+a)
+
+os valores acrescidos e os encar­gos de qualquer natureza, ainda que de responsabilidade de terceiros;
+
+
+b)
+
+os ônus relativos à concessão do crédito, ainda que cobrados em separado, na hipótese de presta (parte incompleta).
+
+
+§ 2º
+
+Não integram o preço do serviço os valo­res relativos a descontos ou abatimentos sujeitos a condição, desde que prévia e expressamente contratados.
+
+
+Art. 9º.
+
+No caso de prestação de serviços a crédito, sob qualquer modalidade, o imposto deve ser pagode uma só vez, sobre o valor total da operação.
+
+
+Art. 10.
+
+A apuração do preço será efetuada com base nos elementos em poder do sujeito passivo.
+
+
+Art. 11.
+
+Proceder-se-á ao arbitramento para apuração do preço, sempre que:
+
+
+a)
+
+o contribuinte não possuir livros fiscais de utilização obrigatória;
+
+
+b)
+
+o contribuinte, depois de intimado, deixar de exibir livros fiscais de utilização obrigatória;
+
+
+c)
+
+ocorrer fraude ou sonegação de dados julgados indispensáveis ao lançamen­to;
+
+
+d)
+
+sejam omissos ou não mereçam fé os esclarecimentos expedidos pelo sujeito passivo ou as respectivas declarações;
+
+
+e)
+
+o preço seja notoriamente inferior ao corrente no mercado, ou desconhecido pela autoridade administrativa.
+
+
+Art. 12.
+
+É obrigatório o cadastro dos prestadores de serviço no Departamento de Tributação e Controle da Secretaria da Fazenda Municipal.
+
+
+Parágrafo único
+
+O cadastro econômico-social, sem pre­juízos de outros elementos obtidos pela fiscalização, será forma do pelos dados da inscrição e respectivas alterações.
+
+
+Art. 13.
+
+O contribuinte será identificado, pa­ra efeitos fiscais, pelo número do cadastro econômico-social, o qual deverá constar de quaisquer documentos, inclusive recibos ou notas fiscais.
+
+
+Art. 14.
+
+As notas fiscais ou recibos somente poderão ser confeccionados com autorização por escrito da repar­tição fazendária competente.
+
+
+**§ 1º** As tipografias e estabelecimentos congê­neres são obrigados a manter registros próprios das notas fis­cais que imprimirem.
+
+
+Art. 15.
+
+A inscrição deverá ser promovida pelo contribuinte, em formulário próprio, mencionados os dados neces­sários à perfeita identificação dos serviços prestados.
+
+
+§ 1º
+
+A inscrição será efetuada dentro do pra­zo de vinte (20) dias, contados do início da atividade do contribuinte.
+
+
+§ 2º
+
+Na hipótese de o contribuinte deixar de promover a inscrição, esta será procedida de ofício, sem prejuí­zo de aplicação de penalidades.
+
+
+§ 3º
+
+A inscrição deverá ser feita uma para cada estabelecimento ou local de atividade, ainda que pertencentes à mesma pessoa, salvo em relação ao ambulante, que fica sujeito à inscrição única.
+
+
+§ 4º
+
+Na inexistência de estabelecimentos fixo, a inscrição será única, pelo local do domicílio do prestador do serviço.
+
+
+§ 5º
+
+A inscrição poderá ser dispensada quando o prestador do serviço já possuir a licença de localização e funcionamento para o desempenho de suas atividades.
+
+
+Art. 16.
+
+Os dados apresentados na inscrição de verão ser alterados pelo contribuinte dentro do prazo de vinte (20) dias, contados da ocorrência de fatos ou circunstâncias que possam afetar o lançamento do imposto.
+
+
+§ 1º
+
+O prazo previsto neste artigo deverá ser observado quando se tratar de venda ou transferência de estabelecimento, de transferência de ramo ou encerramento da atividade.
+
+
+§ 2º
+
+A administração poderá promover, de ofí­cio, alterações cadastrais.
+
+
+Art. 17.
+
+Sem prejuízo de inscrição e respecti­vas alterações, o Fisco Municipal poderá sujeitar o contribuinte a apresentação de uma declaração, mensal ou anual, de dados para fins estatísticos e de fiscalização.
+
+
+Art. 18.
+
+O imposto será lançado:
+
+
+I –
+
+uma única vez, no mês de janeiro do exercício a que corresponde o tributo, contribuinte ou pelas sociedades, previstas nesta lei;
+
+
+II –
+
+mensalmente, quando a base de cálculo for o preço do serviço.
+
+
+Art. 19.
+
+Os contribuintes do imposto caracterizados como empresas ficam obrigados a:
+
+
+I –
+
+manter em uso escrita fiscal destina­do ao registro dos serviços prestados, ainda que não tributáveis;
+
+
+II –
+
+emitir notas fiscais de serviços, ou outros documentos admitidos pela administração, por ocasião da prestação dos serviços.
+
+
+Art. 20.
+
+O Poder Executivo poderá definir os modelos de livros, notas fiscais e demais documentos a serem obrigatoriamente utilizados pelo contribuinte, devendo a escritu­ração fiscal ser mantida em cada um dos seus estabelecimentos ou, na falta destes, em seu domicílio.
+
+
+§ 1º
+
+Nenhum livro de escrita fiscal e notas fiscais poderão ser utilizadas sem prévia autenticação, pela repartição competente.
+
+
+§ 2º
+
+Os livros e documentos fiscais, que são de exibição obrigatória à fiscalização, não poderão ser retirados do estabelecimento ou do domicílio do contribuinte, salvo nos casos expressamente previstos em regulamento.
+
+
+§ 3º
+
+A autoridade administrativa, por despacho fundamentado, e tendo em vista a natureza do serviço prestado, poderá obrigar a manutenção de determinados livros especiais ou autorizar a sua dispensa, e permitir a emissão e utilização (parte incompleta).
+
+
+§ 4º
+
+Sendo insatisfatórios os meios normais de fiscalização, o Poder Executivo poderá exigir a adoção de instrumentos ou documentos especiais necessários ã perfeita apuração dos serviços prestados da receita auferida e do imposto devido.
+
+
+Art. 21.
+
+Os contribuintes de rudimentar organização, poderão, a critério da Fazenda Municipal, ser dispensados da emissão da nota de prestação de serviço a que se refere o art. 19, I e II.
+
+
+§ 1º
+
+Ocorrendo à hipótese deste artigo, o im­posto será pago por estimativa.
+
+
+§ 2º
+
+O valor da estimativa será arbitrada com base nos dados estatísticos e ou declaração conforme o art. 17.
+
+
+Art. 22.
+
+A fiscalização será feita sistematicamente nos estabelecimentos, vias públicas e demais locais onde se exerçam atividades tributáveis.
+
+
+Art. 23.
+
+O sujeito passivo fornecerá todos os elementos necessários ã verificação da exatidão das operações sobre as quais pagou imposto e exibirá todos os elementos da escrita fiscal e da contabilidade geral, sempre que exigidos pelos agentes da Fazenda Municipal.
+
+
+§ 1º
+
+Os agentes fazendários, no exercício de suas atividades, poderão ingressar nos estabelecimentos e demais locais em que se pratiquem atividades tributáveis, a qualquer hora do dia ou da noite, desde que os mesmos estejam em funcionamento, ainda que somente em expediente interno.
+
+
+§ 2º
+
+Em caso de embaraço ou desacato no exer­cício da função, os agentes fazendários poderão requisitar auxílio autoridades policiais, ainda que não se configure fato definido em lei como crime ou contravenção.
+
+
+§ 3º
+
+A exibição dos livros e dos documentos fiscais far-se-á sempre que exigida pelos agentes fazendários, independentemente de aviso ou notificação.
+
+
+Art. 24.
+
+As notas de prestação de serviços e os livros de escrita fiscal, serão conservados pelo prazo de 5 (cinco) anos, no próprio estabelecimento, para serem exibidos ã fiscalização quando exigidos, daí não podendo ser retirados, salvo para apresentação em juízo ou quando apreendidos pelos agentes fazendários.
+
+
+Art. 25.
+
+O recolhimento do imposto após o pra­zo de vencimento acarretará a aplicação de:
+
+
+I –
+
+correção monetária nos índices fixados pelo governo federal;
+
+
+II –
+
+juros de 1% (um por cento) ao mês ou fração, sobre o valor corrigido do tributo a recolher;
+
+
+III –
+
+multa de 20% (vinte por cento) sobre o valor corrigido do tributo a recolher.
+
+
+Art. 26.
+
+As infrações serão punidas com as se­guintes penalidades:
+
+
+I –
+
+multa igual a 5% (cinco por cento) da base de cálculo, referida no art. 5º, I, nos casos de:
+
+
+a)
+
+(parte incompleta) alteração, comunicação de venda ou transferência de estabeleci­mentos e encerramento ou trans­ferência do ramo de atividade, fora do prazo;
+
+
+c) falta de livros fiscais;
+
+
+d) falta de escrituração do imposto devido;
+
+
+e) dados incorretos na escrita fiscal ou documentos fiscais;
+
+
+f) falta do número de cadastro de atividade em documentos fiscais;
+
+
+g) falta de declaração de dados;
+
+
+h) erro, omissão ou falsidade na declaração de dados.
+
+
+II –
+
+multa de importância igual a 10% (dez por cento) da base de cálculo, refe­rida no art. 5º, I, nos casos de:
+
+
+a)
+
+falta de emissão de nota fiscal ou outro documento admitido pe­la administração;
+
+
+b)
+
+falta ou recusa na exibição de livros ou documentos fiscais;
+
+
+c)
+
+retirada do estabelecimento, ou domicílio do prestador, de li­vros ou documentos fiscais;
+
+
+d)
+
+sonegação de documentos para apuração do preço dos serviços ou da fixação da estimativa;
+
+
+e)
+
+embaraçar ou ilidir a ação fis­cal.
+
+
+III –
+
+multa de importância igual a 50%(cinquenta por cento) sobre a diferença entre o valor recolhido e o valor efetivamente devido do imposto;
+
+
+(parte incompleta) imposto, no caso de não retenção do imposto devido;
+
+
+V - multa de importância igual a 200 % (duzentos por cento) sobre o valor do imposto, no caso da falta do recolhimento do imposto retido na fonte.
+
+
+Art. 27.
+
+Esta lei entra em vigor na data de sua publicação revogadas as disposições em contrário especialmente as leis nº s. 805, de 29.12.87 e os art. 27 a 57 da lei nº 615 de 15.12.78.
+
+
+Edifício da Prefeitura Municipal de Guaíra, em 22 de dezembro de 1989.
+
+Mário Barbosa Rodrigues
+
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+
+*Nota: textos incompletos/ilegíveis nos artigos 5º, inciso II; art. 8º, § 1º, letra b; art. 20, § 3º; art. 26, inciso I, letra a até b; art. 26, inciso IV. conforme arquivo original disponibilizado no final da página.*

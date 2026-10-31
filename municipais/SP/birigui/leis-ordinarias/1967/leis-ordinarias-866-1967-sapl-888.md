@@ -1,0 +1,125 @@
+---
+titulo: "Lei Ordinária nº 866, de 11 de dezembro de 1967"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "866"
+data: "1967-12-11"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1978-01-01; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/888"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1452/text"
+sha256_fonte: "c22a3e5c64da844c67ae96c22d5c9559df5ef33e171e833f2250a60ed5b6dea0"
+sha256_texto: "b85e63f8a27bfd4ca0f0573f38570cee38d6ad56b68ebc46de16e3b93a2dc040"
+capturado_em_fonte: "2026-10-27T19:27:13.335797-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 866, de 11 de dezembro de 1967
+
+DISPÕE SOBRE ALTERAÇÕES NA LEI Nº 786, DE 15 DE DEZEMBRO DE 1966 (CÓDIGO TRIBUTÁRIO DO MUNICÍPIO), E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eu, **MARIO CRÊM DOS SANTOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Ficam revogados os Parágrafos 1º e 2º do Artigo 177, o Artigo 182, o Título VI (Imposto Municipal sobre a Circulação de Mercadorias) e os itens 1 e 2 da Tabela III da Lei nº 786, de 15 de dezembro de 1966.
+
+
+Art. 2º.
+
+As bases de TAXA DE LICENÇA e de RENOVAÇÃO DE LICENÇA PARA LOCALIZAÇÃO DE ESTABELECIMENTOS DE PRODUÇÃO, COMÉRCIO, INDÚSTRIA E PRESTAÇÃO DE SERVIÇOS, passem a ser as seguintes:
+
+
+<table><tbody><tr><th>I - COMÉRCIO </th><th>% salário-mínimo por m² da área ocupada até 600m²</th></tr><tr><td>1 - Açougue </td><td>1,5</td></tr><tr><td>2 - adubos e inseticidas </td><td>1,0</td></tr><tr><td>3 - Agência de venda de jornais e revistas </td><td>1,0</td></tr><tr><td>4 - Armazém de secos e molhados, mercearias e supermercado </td><td>1,0</td></tr><tr><td>5 - Bar, café, restaurante e similar </td><td>2,0</td></tr><tr><td>6 - Bazar e loja de armarinhos </td><td>1,5</td></tr><tr><td>7 - Botequim, quitanda e mercadinho </td><td>1,0</td></tr><tr><td>8 - Calçados e artefatos de couro </td><td>1,5</td></tr><tr><td>9 - Casa de Saúde e hospital </td><td>1,0</td></tr><tr><td>10 - Cinema ou outro estabelecimento de diversões </td><td>3,0</td></tr><tr><td>11 - Comércio de Bebidas </td><td>2,0</td></tr><tr><td>12 - Comércio de Carvão vegetal </td><td>1,0</td></tr><tr><td>13 - Depósito fechado </td><td>0,5</td></tr><tr><td>14 - Empresa de transporte de cargas e de passageiros </td><td>3,0</td></tr><tr><td>15 - Estabelecimento de crédito </td><td>2,0</td></tr><tr><td>16 - Farmácia e drogaria </td><td>2,0</td></tr><tr><td>17 - Ferragens, materiais de construção e implementos agrícolas </td><td>1,0</td></tr><tr><td>18 - Loja de venda de artigos domésticos e aparelhos elétricos </td><td>1,0</td></tr><tr><td>19 - Loja de venda de móveis </td><td>1,0</td></tr><tr><td>20 - Loja de venda de tecidos </td><td>1,5</td></tr><tr><td>21 - Peixaria </td><td>1,5</td></tr><tr><td>22 - Relojoaria e Óptica </td><td>3,0</td></tr><tr><td>23 - Roupas feitas </td><td>1,5</td></tr><tr><td>24 - Veículos automotores, peças e acessórios </td><td>1,0</td></tr></tbody></table>
+
+<table><tbody><tr><th>II - INDÚSTRIA </th><th>% salário-mínimo por m² da área ocupada até 600m²</th></tr><tr><td>1 - Acumuladores </td><td>1,0</td></tr><tr><td>2 - Adubos e inseticidas </td><td>0,5</td></tr><tr><td>3 - Artefatos de papel </td><td>0,5</td></tr><tr><td>4 - Calçados e artefatos de couro </td><td>0,5</td></tr><tr><td>5 - Carroças e carrinhos </td><td>0,6</td></tr><tr><td>6 - Cerâmica e olaria </td><td>0,2</td></tr><tr><td>7 - Colchões </td><td>1,0</td></tr><tr><td>8 - Confecções em geral </td><td>1,0</td></tr><tr><td>9 - Depósito fechado </td><td>0,3</td></tr><tr><td>10 - Doces </td><td>0,6</td></tr><tr><td>11 - Escovãos e vassouras </td><td>0,6</td></tr><tr><td>12 - Ferro e aço </td><td>0,7</td></tr><tr><td>13 - Frigorífico </td><td>0,5</td></tr><tr><td>14 - Guarda-chuvas e sombrinhas </td><td>1,0</td></tr><tr><td>15 - Laticínio </td><td>0,5</td></tr><tr><td>16 - Máquina de benefício </td><td>0,5</td></tr><tr><td>17 - Massas alimentícias </td><td>0,6</td></tr><tr><td>18 - Móveis </td><td>0,6</td></tr><tr><td>19 - Óleo vegetal </td><td>0,3</td></tr><tr><td>20 - Panificadora </td><td>0,6</td></tr><tr><td>21 - Refrigerantes </td><td>0,5</td></tr><tr><td>22 - Serralheria </td><td>1,0</td></tr><tr><td>23 - Serraria </td><td>0,5</td></tr><tr><td>24 - Tipografia </td><td>1,0</td></tr><tr><td>25 - Torrefação de café </td><td>0,6</td></tr></tbody></table>
+
+<table><tbody><tr><th>III - PRESTAÇÃO DE SERVIÇOS DE QUALQUER NATUREZA </th><th>% salário-mínimo por m² da área ocupada até 600m²</th></tr><tr><td>1 - Barbearia </td><td>1,0</td></tr><tr><td>2 - Carpintaria e marcenaria </td><td>0,5</td></tr><tr><td>3 - Escritório em geral </td><td>1,0</td></tr><tr><td>4 - Fotógrafo </td><td>0,5</td></tr><tr><td>5 - Hotel e pensão </td><td>0,3</td></tr><tr><td>6 - Instituto de beleza </td><td>1,5</td></tr><tr><td>7 - Lavanderia </td><td>1,0</td></tr><tr><td>8 - Oficina de consertos em geral </td><td>1,0</td></tr><tr><td>9 - Oficina mecânica </td><td>0,5</td></tr><tr><td>10 - Posto de serviço de gasolina </td><td>0,6</td></tr><tr><td>11 - Vulcanização </td><td>0,6</td></tr></tbody></table>
+
+
+§ 1º
+
+As atividades não constantes das Tabelas especificadas serão enquadradas por analogia.
+
+
+§ 2º
+
+Quando um estabelecimento exercer mais de uma atividade, prevalecerá para o lançamento da Taxa de Licença e Renovação de Licença e sua atividade principal.
+
+
+§ 3º
+
+O excesso de área fixada nas Tabelas deste Artigo será lançado dentro das percentagens nelas estabelecidas com a dedução de 50% (cinquenta por cento).
+
+
+Art. 3º.
+
+A TAXA DE LICENÇA PARA FUNCIONAMENTO DE ESTABELECIMENTOS EM HORÁRIO ESPECIAL fica fixada em 25% (vinte e cinco por cento) da Taxa de Licença e de Renovação de Licença.
+
+
+DA TAXA DE CONSERVAÇÃO DE ESTRADAS E RODAGEM
+
+
+#### CAPÍTULO I — DA INCIDÊNCIA
+
+
+Art. 4º.
+
+A TAXA DE CONSERVAÇÃO DE ESTRADAS DE RODAGEM tem como fato gerador a prestação, pela Prefeitura Municipal, de serviços destinados à conservação das rodovias do Município e recai sobre todas as propriedades rurais que se beneficiarem com os serviços sejam a estas marginais ou delas se utilizem em virtude de servidão ou passagem forçada.
+
+
+Art. 5º.
+
+Em se tratando de propriedade que se extenda pelos Municípios vizinhos, a taxa será cobrada somente sobre a parte situada dentro deste Município.
+
+
+#### CAPÍTULO II — DA ALÍQUOTA E BASE DE CÁLCULO
+
+
+Art. 6º.
+
+A TAXA DE CONSERVAÇÃO DE ESTRADAS DE RODAGEM será cobrada aplicando-se o coeficiente de 0,30 (zero vírgula trinta) sobre o total da despesa efetivamente realizada pelo Município no ano anterior, nos serviços respectivos, e dividindo-se o resultado obtido, proporcionalmente à área de cada propriedade.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.724, de 06 de setembro de 1977.
+
+
+#### CAPÍTULO III — DO LANÇAMENTO E DA ARRECADAÇÃO
+
+
+Art. 7º.
+
+Far-se-à o lançamento no nome sob o qual estiver inscrito a propriedade do Cadastro Imobiliário.
+
+
+Art. 8º.
+
+O lançamento da TAXA DE CONSERVAÇÃO DE ESTRADAS DE RODAGEM será anual e o seu recolhimento será feito durante o mês de abril.
+
+
+Art. 9º.
+
+Fica revogado o item II do Artigo 6º da Lei nº 787, de 15 de dezembro de 1966.
+
+
+Art. 10.
+
+Esta lei entrará em vigor a partir de 1º de janeiro de 1968, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos onze de dezembro de mil novecentos e sessenta e sete.
+
+**MARIO CRÊM DOS SANTOS Prefeito Municipal**
+
+Publicada na Seção do Expediente e do Pessoal da Prefeitura, aos onze de dezembro de mil novecentos e sessenta e sete, e por Edital, afixado no local de costume.
+
+**SALVADOR GIAMPIETRO Assistente Administrativo da Seção de Expediente e do Pessoal da Prefeitura**
+

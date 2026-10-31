@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/lei_580_de_2025_-_anexos.pdf da norma Lei Ordinária-PMC nº 580, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos a Lei nº 580/2025.",
+      "anexo_arquivo": "http://sapl.craibas.al.leg.br/media/sapl/public/anexonormajuridica/2025/1/lei_580_de_2025_-_anexos.pdf",
+      "ano": 2025,
+      "norma": 560
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/anexo_-_lei_585_de_2025_-_normatiza_a_utilizacao_dos_recursos_para_as_equipes_de_saude.pdf da norma Lei Ordinária-CMC nº 585, de 11 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo I da Lei 585 De 2025",
+      "anexo_arquivo": "http://sapl.craibas.al.leg.br/media/sapl/public/anexonormajuridica/2025/2/anexo_-_lei_585_de_2025_-_normatiza_a_utilizacao_dos_recursos_para_as_equipes_de_saude.pdf",
+      "ano": 2025,
+      "norma": 561
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.craibas.al.leg.br/0b3d3fd567e121b57e236bcd99c282de00b0b3657dd2ac410645bff2994d4fd8.json",
+      "url": "https://sapl.craibas.al.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.craibas.al.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d179275278542b05cae1fac6c4978db742934be65f485409b5252a096aaf0808",
+      "bytes": 1147,
+      "capturado_em": "2026-10-28T09:29:55.628229-03:00"
+    }
+  ]
+}

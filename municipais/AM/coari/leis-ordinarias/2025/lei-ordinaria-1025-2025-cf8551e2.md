@@ -1,0 +1,500 @@
+---
+titulo: "LEI MUNICIPAL Nº 1.025/2025"
+uf: "AM"
+municipio: "COARI"
+tipo: "Lei Ordinária"
+numero: "1025"
+data: 
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 19/06/2026"
+data_publicacao: 2026-06-19
+codigo_identificador: "CF8551E2"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118884_2026-06-18_00ad7dcbe7a5ca5eefa3ed667bb73f2b.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 1.025/2025
+
+LEI MUNICIPAL Nº 1.025/2025
+Lei autorizativa do
+
+2. RESULTADO DA RUBRICA
+Rubrica: Contribuição Patronal - EC 136 (300 meses)
+Competência Inicial: 08/2022
+Valor original: 3.781.374,39
+Valor da parcela na data de consolidação: 15.743,77
+Critérios de atualização para consolidação do
+Índice: IPCA
+Critérios de atualização das parcelas
+Índice: IPCA
+Critérios de atualização das parcelas
+Índice: IPCA
+
+Data de consolidação do 15/06/2026
+Data de assinatura do Termo: 15/06/2026
+Data de vencimento da 1ª 10/08/2026
+
+Final: 08/2025
+Valor Consolidado: 4.723.131,39
+
+Quantidade de Parcelas: 300
+
+Taxa de juros: 0,50 am
+
+Tipo de juros: Simples
+
+Taxa de juros: 0,50 am
+
+Tipo de juros: Simples
+
+Taxa de juros: 0,50 am
+
+Tipo de juros: Simples
+
+Multa: 0,00 %
+
+Multa: 1,00 %
+
+DEMONSTRATIVO CONSOLIDADO DE PARCELAMENTO - DCP - RETIFICADOR
+3. LANÇAMENTOS DA RUBRICA (VALORES IMPORTADOS DOS DIPRs)
+COMPETÊNCIA
+
+DIFERENÇA APURADA
+
+ÍNDICE(%)
+
+VARIAÇÃO(%)
+
+ATUALIZAÇÃO
+
+JUROS PERC.(%)
+
+JUROS
+
+MULTA
+
+08/2022
+09/2022
+10/2022
+11/2022
+12/2022
+13/2022
+01/2023
+02/2023
+03/2023
+04/2023
+05/2023
+06/2023
+
+0,00
+76.613,12
+77.214,26
+77.473,19
+77.144,13
+78.592,03
+84.087,80
+83.450,78
+83.543,72
+83.356,07
+83.628,07
+87.049,49
+
+-0,36
+-0,29
+0,59
+0,41
+0,62
+
+19,59
+19,93
+19,23
+18,74
+18,01
+18,01
+17,39
+16,41
+15,59
+14,89
+14,63
+14,72
+
+0,00
+15.268,99
+14.848,30
+14.518,48
+13.893,66
+14.154,42
+14.622,87
+13.694,27
+13.024,47
+12.411,72
+12.234,79
+12.813,68
+
+22,50
+22,00
+21,50
+21,00
+20,50
+20,50
+20,00
+19,50
+19,00
+18,50
+18,00
+17,50
+
+0,00
+20.214,06
+19.793,45
+19.318,25
+18.662,75
+19.013,02
+19.742,13
+18.943,28
+18.347,96
+17.717,04
+17.255,31
+17.476,05
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+0,53
+0,84
+0,71
+0,61
+0,23
+-0,08
+
+www.diariomunicipal.com.br/aam
+
+DIFERENÇA
+ATUALIZADA
+0,00
+112.096,17
+111.856,01
+111.309,92
+109.700,54
+111.759,47
+118.452,80
+116.088,33
+114.916,15
+113.484,83
+113.118,17
+117.339,22
+
+117
+
+Amazonas , 19 de Junho de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4131
+07/2023
+08/2023
+09/2023
+10/2023
+11/2023
+12/2023
+13/2023
+01/2024
+02/2024
+03/2024
+04/2024
+05/2024
+06/2024
+07/2024
+08/2024
+09/2024
+10/2024
+11/2024
+12/2024
+13/2024
+01/2025
+02/2025
+03/2025
+04/2025
+05/2025
+06/2025
+07/2025
+08/2025
+TOTAL:
+
+87.307,81
+87.091,17
+86.934,55
+93.103,94
+89.081,27
+89.084,63
+88.867,33
+94.588,72
+93.833,46
+92.996,08
+94.082,67
+93.259,75
+93.478,30
+93.444,74
+92.790,05
+92.625,14
+92.267,93
+91.780,49
+91.807,08
+89.089,00
+124.496,56
+128.304,81
+132.910,79
+131.145,42
+139.854,56
+138.685,47
+133.865,37
+132.444,64
+3.781.374,39
+
+0,12
+0,23
+0,26
+0,24
+0,28
+0,56
+
+14,58
+14,32
+14,02
+13,75
+13,43
+12,80
+12,80
+12,33
+11,40
+11,22
+10,80
+10,30
+10,06
+9,65
+9,67
+9,19
+8,58
+8,16
+7,60
+7,60
+7,43
+6,04
+5,45
+5,00
+4,72
+4,47
+4,20
+4,32
+
+0,42
+0,83
+0,16
+0,38
+0,46
+0,21
+0,38
+-0,02
+0,44
+0,56
+0,39
+0,52
+0,16
+1,31
+0,56
+0,43
+0,26
+0,24
+0,26
+-0,11
+
+RESPONSÁVEIS PELO DOCUMENTO
+CPF
+NOME
+23096110263
+JOSÉ CIDENEI LOBO DO NASCIMENTO
+42177170249
+RAIMUNDO ALVES DE AGUIAR
+23096110263
+JOSÉ CIDENEI LOBO DO NASCIMENTO
+
+12.729,48
+12.471,46
+12.188,22
+12.801,79
+11.963,61
+11.402,83
+11.375,02
+11.662,79
+10.697,01
+10.434,16
+10.160,93
+9.605,75
+9.403,92
+9.017,42
+8.972,80
+8.512,25
+7.916,59
+7.489,29
+6.977,34
+6.770,76
+9.250,09
+7.749,61
+7.243,64
+6.557,27
+6.601,14
+6.199,24
+5.622,35
+5.721,61
+408.984,02
+
+17,00
+16,50
+16,00
+15,50
+15,00
+14,50
+14,50
+14,00
+13,50
+13,00
+12,50
+12,00
+11,50
+11,00
+10,50
+10,00
+9,50
+9,00
+8,50
+8,50
+8,00
+7,50
+7,00
+6,50
+6,00
+5,50
+5,00
+4,50
+
+17.006,34
+16.427,83
+15.859,64
+16.415,39
+15.156,73
+14.570,68
+14.535,14
+14.875,21
+14.111,61
+13.445,93
+13.030,45
+12.343,86
+11.831,46
+11.270,84
+10.685,10
+10.113,74
+9.517,53
+8.934,28
+8.396,68
+8.148,08
+10.699,73
+10.204,08
+9.810,81
+8.950,67
+8.787,34
+7.968,66
+6.974,39
+6.217,48
+532.772,98
+
+RESPONSABILIDADE
+Representante Legal do Ente
+Representante da Unidade Gestora
+Ordenador de despesa – Assinatura FPM Banco do
+
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+
+117.043,63
+115.990,46
+114.982,41
+122.321,12
+116.201,61
+115.058,14
+114.777,49
+121.126,72
+118.642,08
+116.876,17
+117.274,05
+115.209,36
+114.713,68
+113.733,00
+112.447,95
+111.251,13
+109.702,05
+108.204,06
+107.181,10
+104.007,84
+144.446,38
+146.258,50
+149.965,24
+146.653,36
+155.243,04
+152.853,37
+146.462,11
+144.383,73
+4.723.131,39
+
+ASSINATURA DIGITAL
+Assinado digitalmente em 16/06/2026 10:32:19
+Assinado digitalmente em 16/06/2026 10:30:10
+Assinado digitalmente em 16/06/2026 10:32:19
+
+Este documento foi assinado digitalmente por completo em 16/06/2026 10:32:20.
+A
+autenticidade
+deste
+documento
+pode
+ser
+conferida
+no
+site
+https://cadprev.previdencia.gov.br:443/Cadprev/pages/publico/assinatura/validacao.xhtml?verificador=2442020&crc=017A485B, informando o
+código verificador: 2442020 e código CRC: 017A485B.
+Publicado por:
+Juliano Barroso Formiga

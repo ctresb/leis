@@ -1,0 +1,45 @@
+Autoriza a abertura de Crédito Adicional Suplementar ao Orçamento Vigente
+
+
+A CÂMARA MUNICIPAL DE ENG.º PAULO DE FRONTIN aprova e eu, José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte
+
+
+Art. 1º.
+
+Em conformidade com o artigo 4º da Lei Municipal nº 1495, de 29 de dezembro de 2020, fica autorizada a abertura de Crédito Adicional Suplementar, no orçamento vigente do Fundo Municipal de Saúde, por Superávit Financeiro, na importância de R$ 105.257,40 (cento e cinco mil, duzentos e cinqüenta e sete reais, quarenta centavos).
+
+
+FONTE 0100 = R$ 105.257,40 (PFEC - LC 173/2020)
+
+
+<table><tbody><tr><td><strong>Órgão </strong></td><td><strong>Unid </strong></td><td><strong>Função </strong></td><td><strong>Sub função </strong></td><td><strong>Programas </strong></td><td><strong>Proj/Ativ </strong></td><td><strong>Elemento de Despesa </strong></td><td><strong>Valor (R$)</strong></td></tr><tr><td>03 </td><td>01 </td><td>10 </td><td>122 </td><td>3001 </td><td>2359 </td><td>3.3.90.30.00.00.00.00.0100 </td><td>R$ 52.628,70</td></tr><tr><td>03 </td><td>01 </td><td>10 </td><td>122 </td><td>3001 </td><td>2359 </td><td>3.3.90.39.00.00.00.00.0100 </td><td>R$ 52.628,70</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O recurso para atender à presente suplementação é oriundo de Superávit Financeiro apurado no Balanço Patrimonial do Exercício de 2020; conforme inciso I do Art. 43 da Lei nº 4.320 de 17/03/64.
+
+
+Parágrafo único
+
+O Superávit Financeiro apurado a que se refere o caput está demonstrado da seguinte forma:
+
+
+**BALANCETE CONTÁBIL DE VERIFICAÇÃO EM 31/12/2020**
+
+
+Agência 4647-7 Conta 8938-9 Banco do Brasil Saldo: R$ 105.257,40
+
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td colspan="2"><strong>ATIVO</strong> </td><td colspan="2"><strong>PASSIVO</strong></td></tr><tr><td colspan="2"><strong>FINANCEIRO</strong> </td><td colspan="2"><strong>FINANCEIRO</strong></td></tr><tr><td>Disponibilidades </td><td>R$ 105.257,40 </td><td>Obrigações </td><td>R$ 0,00</td></tr><tr><td>Superávit </td><td>R$ 105.257,40</td><td> </td><td> </td></tr><tr><td><strong>Total</strong> </td><td><strong>R$ 105.257,40</strong> </td><td><strong>Total</strong> </td><td><strong>R$ 105.257,40</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Eng. Paulo de Frontin, 25 de maio de 2021.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal

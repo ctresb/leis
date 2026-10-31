@@ -1,0 +1,153 @@
+Dispõe sobre a instituição de princípios e diretrizes para a modernização digital, inovação tecnológica e desenvolvimento de cidades inteligentes no Município de Foz do Iguaçu.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei estabelece princípios e diretrizes para a modernização digital, a inovação tecnológica e o desenvolvimento de cidades inteligentes no Município de Foz do Iguaçu, visando à melhoria da gestão pública, inclusão digital, eficiência dos serviços municipais e incentivo à economia digital, com especial enfoque na aplicação da inteligência artificial e tecnologias emergentes.
+
+
+Art. 2º.
+
+A implementação das medidas previstas nesta Lei será realizada pelo Poder Executivo Municipal, de forma progressiva, conforme disponibilidade orçamentária e financeira, observando-se as normas aplicáveis à Administração Pública.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS
+
+
+Art. 3º.
+
+São princípios que orientam a modernização digital e a inovação tecnológica no Município:
+
+
+I –
+
+Princípio da inovação pública: utilização de tecnologias digitais e inteligência artificial para modernizar a gestão e a prestação de serviços públicos;
+
+
+II –
+
+Princípio da inclusão digital: garantia de acesso à tecnologia para todos os cidadãos, com especial atenção às populações em situação de vulnerabilidade;
+
+
+III –
+
+Princípio da transparência digital: incentivo à adoção de plataformas eletrônicas e inteligência artificial para ampliação da transparência na gestão pública;
+
+
+IV –
+
+Princípio da sustentabilidade urbana inteligente: utilização de tecnologias e soluções baseadas em inteligência artificial para otimização dos recursos públicos e redução de impactos ambientais;
+
+
+V –
+
+Princípio da participação social: promoção da interação entre a população e o Poder Público por meio de tecnologias digitais e plataformas de inteligência artificial interativas.
+
+
+VI –
+
+Princípios e fundamentos da Lei Geral de Proteção de Dados (LGPD), Lei nº 13.709, de 14 de agosto de 2018: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+
+
+VII –
+
+Princípios de segurança digital: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão; adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais.
+
+
+#### CAPÍTULO III — DAS DIRETRIZES
+
+
+Art. 4º.
+
+Para a concretização dos princípios estabelecidos no artigo 3º desta Lei, ficam definidas as seguintes diretrizes:
+
+
+I –
+
+infraestrutura e conectividade: estímulo à implantação de redes públicas de internet sem fio em espaços urbanos, escolas e órgãos públicos, bem como ao desenvolvimento de redes 5G e computação em nuvem para maior eficiência e conectividade;
+
+
+II –
+
+modernização dos serviços públicos: digitalização dos processos administrativos, uso de inteligência artificial para otimização da prestação de serviços e oferta de serviços públicos por meio de plataformas eletrônicas acessíveis à população;
+
+
+III –
+
+inclusão digital e educação tecnológica: incentivo à capacitação da população em tecnologia, inteligência artificial, programação, robótica e empreendedorismo digital;
+
+
+IV –
+
+fomento à economia digital e inovação: apoio a startups, incubadoras tecnológicas e projetos de pesquisa voltados à inteligência artificial, inovação e desenvolvimento tecnológico;
+
+
+V –
+
+uso de tecnologia para gestão sustentável: implementação de sensores inteligentes e algoritmos de inteligência artificial para otimização da iluminação pública, controle de tráfego e gestão de resíduos urbanos.
+
+
+VI –
+
+autosserviço: acesso pelo cidadão ao serviço público prestado, por meio digital, com instalação de Totem digital interativo, ou computadores onde há atendimento direto aos cidadãos para realização de consultas, solicitações, requerimentos, extratos;
+
+
+VII –
+
+carta de serviços: documento que visa informar aos cidadãos quais os serviços prestados por cada órgão público, como acessar e obter esses serviços, quais são os compromissos com o atendimento e os padrões de atendimento estabelecidos;
+
+
+VIII –
+
+simplificação e desburocratização: facilitar e modernizar os processos municipais, gerando autonomia do cidadão através de gestão inteligente das informações.
+
+
+#### CAPÍTULO IV — DA GOVERNANÇA E PARCERIAS
+
+
+Art. 5º.
+
+A Secretaria Municipal de Tecnologia, Inovação e Modernização Digital será responsável por coordenar a implementação das medidas previstas nesta Lei, com apoio das demais secretarias municipais envolvidas.
+
+
+Art. 6º.
+
+O Poder Público poderá firmar parcerias com instituições acadêmicas, empresas privadas e organizações nacionais e internacionais para o desenvolvimento e implementação de projetos relacionados à modernização digital do Município.
+
+
+§ 1º
+
+Os convênios e parcerias serão formalizados conforme a legislação vigente, respeitando os princípios da economicidade e eficiência na Administração Pública.
+
+
+§ 2º
+
+Poderão ser utilizados recursos provenientes de programas estaduais, federais, voltados à inovação, inteligência artificial e tecnologia para viabilizar as iniciativas estabelecidas nesta Lei.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 29 de julho de 2025.  
+  
+Joaquim Silva e Luna  
+Prefeito Municipal  
+  
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos  
+  
+Luiz Ninoff Teixeira  
+Secretário Municipal de Tecnologia, Inovação e Modernização Digital
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

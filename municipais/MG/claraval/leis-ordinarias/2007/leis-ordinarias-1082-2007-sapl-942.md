@@ -1,0 +1,335 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.082, de 20 de novembro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1082"
+data: "2007-11-20"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2013-10-08; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/942"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/274/text"
+sha256_fonte: "2544a482971c63509158a9b7ceb83216e4e030127c5b7ddf5dfaf34e0a27ed33"
+sha256_texto: "12894f1df46848164e180611de2cd4f094a51d8b0cd81de78f1c710e70c7cffb"
+capturado_em_fonte: "2026-10-27T22:58:50.600636-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.082, de 20 de novembro de 2007
+
+"DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO E CONTROLE SOCIAL DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - CONSELHO DO FUNDEB."
+
+
+A Câmara Municipal de Claraval Estado de Minas Gerais APROVOU e eu, Prefeito Municipal, no uso de minhas atribuições SANCIONO a seguinte Lei:
+
+
+#### CAPÍTULO I — Das Disposições Preliminares
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - Conselho do FUNDEB - no âmbito do Município de Claraval - MG.
+
+
+#### CAPÍTULO II — Da Composição
+
+
+Art. 2º.
+
+O artigo 2º da Lei 1.082/2007, com a redação dada pela Lei 1.131/2009, passa a vigorar com a seguinte redação:
+
+"Artigo 2º
+
+O conselho a que se refere o artigo 1° é constituído por 11 (onze) membros titulares e respectivos suplentes, cumprindo a seguinte representação:
+
+I - dois do Poder Executivo, sendo um da Secretaria de Educação;
+
+II - um dos professores da educação básica;
+
+III - um dos diretores das escolas básicas públicas;
+
+IV- um dos servidores técnico-administrativos das escolas básicas públicas;
+
+V - dois dos pais de alunos da educação básica pública;
+
+VI - dois dos estudantes da educação básica pública, sendo um indicado pela entidade de estudantes secundaristas.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA-CMC nº 1.302, de 08 de outubro de 2013.
+
+
+I –
+
+um representante da Secretaria Municipal de Educação, indicado pelo Poder executivo Municipal;
+
+
+II –
+
+um representante dos professores das Escolas Públicas Municipais;
+
+
+III –
+
+um representante dos Diretores das Escolas Públicas Municipais;
+
+
+IV –
+
+um representante dos Servidores Técnico-Administrativos das Escolas Públicas Municipais;
+
+
+V –
+
+dois representantes dos pais de alunos das Escolas Públicas Municipais;
+
+
+VI –
+
+dois representantes dos estudantes da Educação Básica Pública; e
+
+
+VII –
+
+um representante do Conselho Tutelar.
+
+
+§ 1º
+
+Os membros de que tratam os incisos II, III, IV, V, VI e VII deste artigo serão indicados pelas respectivas representações, após processo eletivo organizado para escolha dos indicados, pelos respectivos pares.
+
+
+§ 2º
+
+A indicação referida no art. 1º, caput, deverá ocorrer em até vinte dias antes do término do mandato dos conselheiros anteriores.
+
+
+§ 3º
+
+Os conselheiros de que trata o caput deste artigo deverão guardar vinculo formal com os segmentos que representam, devendo esta condição constituir-se como pré-requisito à participação no processo eletivo previsto no § 1º.
+
+
+§ 4º
+
+São impedidos de integrar o Conselho do FUNDEB:
+
+
+I –
+
+cônjuge e parentes consanguíneos ou afins, até terceiro grau, do Prefeito e do Vice-Prefeito, e dos Secretários Municipais;
+
+
+II –
+
+tesoureiro, contador ou funcionário de empresa de assessoria ou consultoria que prestem serviços relacionados à administração ou controle interno dos recursos do Fundo, bem como cônjuges, parentes consanguíneos ou afins, até terceiro grau, desses profissionais;
+
+
+III –
+
+estudantes que não sejam emancipados; e
+
+
+IV –
+
+pais de alunos que:
+
+
+a)
+
+exerçam cargos ou funções públicas de livre nomeação e exoneração no âmbito do Poder Executivo Municipal; ou
+
+
+b)
+
+prestem serviços terceirizados ao Poder executivo Municipal.
+
+
+Art. 3º.
+
+O suplente substituirá o titular do Conselho do FUNDEB nos casos de afastamentos temporários ou eventuais deste, e assumirá sua vaga nas hipóteses de afastamento definitivo decorrente de:
+
+
+I –
+
+desligamento por motivos particulares;
+
+
+II –
+
+rompimento do vinculo de que trata o § 3º, do art. 2º; e
+
+
+III –
+
+situação de impedimento previsto no § 4º, incorrida pelo titular no decorrer de seu mandato.
+
+
+§ 1º
+
+Na hipótese em que o suplente incorrer na situação de afastamento definitivo descrito no art. 3º, o estabelecimento ou segmento responsável pela indicação deverá indicar novo suplente.
+
+
+§ 2º
+
+Na hipótese em que o titular e o suplente incorram simultaneamente na situação de afastamento definitivo descrito no art. 3º, a instituição ou segmento responsável pela indicação deverá indicar novo titular e novo suplente para o Conselho do FUNDEB.
+
+
+Art. 4º.
+
+O mandato dos membros do Conselho será de 2 (dois) anos, permitida uma única recondução para o mandato subsequente por apenas uma vez.
+
+
+#### CAPÍTULO III — Das Competências do Conselho do FUNDEB
+
+
+Art. 5º.
+
+Compete ao Conselho do FUNDEB:
+
+
+I –
+
+acompanhar e controlar a repartição, transferência e aplicação dos recursos do Fundo;
+
+
+II –
+
+supervisionar a realização do Censo Escolar e a elaboração da proposta orçamentária anual do Poder Executivo Municipal, com o objetivo de concorrer para o regular e tempestivo tratamento e encaminhamento dos dados estatísticos e financeiros que alicerçam a operacionalização do FUNDEB;
+
+
+III –
+
+examinar os registros contábeis e demonstrativos gerenciais mensais e atualizados relativos aos recursos repassados ou retidos à conta do Fundo;
+
+
+IV –
+
+emitir parecer sobre as prestações de contas dos recursos do Fundo, que deverão ser disponibilizadas mensalmente pelo Poder Executivo Municipal; e
+
+
+V –
+
+outras atribuições que legislação especifica eventualmente estabelecida.
+
+
+Parágrafo único
+
+O parecer de que trata o inciso IV deste artigo deverá ser apresentado ao Poder Executivo Municipal em até trinta dias antes do vencimento do prazo para a apresentação da prestação de contas junto ao Tribunal de Contas.
+
+
+#### CAPÍTULO IV — Das Disposições Finais
+
+
+Art. 6º.
+
+O Conselho do FUNDEB terá um Presidente e um Vice-Presidente, que serão eleitos pelos conselheiros.
+
+
+Art. 7º.
+
+Na hipótese em que o membro que ocupa a função de Presidente do Conselho do FUNDEB incorrer na situação de afastamento definitivo previsto no art. 3º, a Presidência será ocupada pelo Vice-Presidente.
+
+
+Art. 8º.
+
+No prazo máximo de 30 (trinta) dias após a instalação do Conselho do FUNDEB, deverá ser aprovado o Regimento Interno que viabiliza seu funcionamento.
+
+
+Art. 9º.
+
+As reuniões ordinárias do Conselho do FUNDEB serão realizadas mensalmente, com a presença da maioria de seus membros e, extraordinariamente, quando convocados pelo Presidente ou mediante solicitação por escrito de pelo menos um terço dos membros efetivos.
+
+
+Parágrafo único
+
+As deliberações serão tomadas pela maioria dos membros presentes, cabendo ao Presidente o voto de qualidade, nos casos em que o julgamento depender de desempate.
+
+
+Art. 10.
+
+O Conselho do FUNDEB atuará com autonomia em suas decisões, sem vinculação ou subordinação institucional ao Poder Executivo Municipal.
+
+
+Art. 11.
+
+A atuação dos membros do Conselho do FUNDEB:
+
+
+I –
+
+não será remunerada;
+
+
+II –
+
+é considerada atividade de relevante interesse social;
+
+
+III –
+
+assegura isenção da obrigatoriedade de testemunhar sobre informações recebidas ou prestadas em razão do exercício de suas atividades de conselheiro, e sobre as pessoas que lhes confiarem ou deles receberem informações, e
+
+
+IV –
+
+veda, quando os conselheiros forem representantes de professore e diretores ou de servidores das Escolas Públicas, no curso do mandato:
+
+
+a)
+
+exoneração de oficio ou demissão do cargo ou emprego sem justa causa, ou transferência involuntária do estabelecimento de ensino em que atuam;
+
+
+b)
+
+atribuição de falta injustificada ao serviço em função das atividades do conselho; e
+
+
+c)
+
+afastamento involuntário e injustificado da condição de conselheiro antes do término do mandato para o qual tenha sido designado.
+
+
+Art. 12.
+
+O Conselho do FUNDEB não contará com estrutura administrativa própria, devendo o Município garantir infraestrutura e condições materiais adequadas à execução plena das competências do Conselho e oferecer ao Ministério da Educação os dados cadastrais relativos à sua criação e composição.
+
+
+Parágrafo único
+
+A Prefeitura Municipal deverá ceder ao Conselho do FUNDEB um servidor do quadro efetivo municipal para atuar como Secretário Executivo do Conselho.
+
+
+Art. 13.
+
+O Conselho do FUNDEB poderá, sempre que julgar conveniente:
+
+
+I –
+
+apresentar, ao Poder Legislativo local e aos órgãos de controle interno e externo manifestação formal acerca dos registros contábeis e dos demonstrativos gerenciais do Fundo; e
+
+
+II –
+
+por decisão da maioria de seus membros, convocar o Secretário Municipal de Educação, ou servidor equivalente, para prestar esclarecimentos acerca do fluxo de recursos e a execução das despesas do Fundo, devendo a autoridade convocada apresentar-se em prazo não superior a trinta dias.
+
+
+Art. 14.
+
+Durante o prazo previsto no § 2º, do art. 2º, os novos membros deverão ser reunir com os membros do Conselho do FUNDEB, cujo mandato está se encerrando, para transferência de documentos e informações de interesse do Conselho.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Claraval - MG, 20 de novembro de 2007.
+
+LUIZ GONZAGA CINTRA
+
+Prefeito Municipal
+

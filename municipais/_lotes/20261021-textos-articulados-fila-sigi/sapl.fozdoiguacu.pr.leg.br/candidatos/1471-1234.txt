@@ -1,0 +1,217 @@
+Institui a Política Municipal de Energia Solar.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — PRINCÍPIOS
+
+
+Art. 1º.
+
+A Política Municipal de Energia Solar em prédios públicos atenderá aos seguintes princípios:
+
+
+I –
+
+utilização da energia solar nas edificações em prédios públicos do Município quando houver viabilidade técnica e econômica, contribuindo para a segurança e diferenciação energética, a economia na demanda, consumo e nos gastos com energia a redução das emissões de poluentes e de gases de efeito estufa e consequente melhoria na qualidade de vida;
+
+
+II –
+
+estímulo ao estabelecimento de empresas e à geração de empregos locais e de qualidade na cadeia produtiva de energia solar, com isonomia para os sistemas fotovoltaicos, térmicos e outros que venham a ser desenvolvidos;
+
+
+III –
+
+fomento à capacitação e formação de recursos humanos para atuar em todas as etapas da cadeia produtiva de energia solar fotovoltaica e térmica;
+
+
+IV –
+
+direito de acesso à informação e à participação pública no processo de tomada de decisão nos temas relacionados ao uso de energia solar.
+
+
+#### CAPÍTULO II — CONCEITOS
+
+
+Art. 2º.
+
+Para os efeitos desta Lei, ficam estabelecidos os seguintes conceitos:
+
+
+I –
+
+energia solar: é a energia proveniente da luz do sol, a qual pode ser aproveitada por meio de sistemas solares térmicos e fotovoltaicos;
+
+
+II –
+
+sistema solar fotovoltaico: conjunto formado por módulo(s) fotovoltaico(s), inversor(es) e outros componentes que convertem a energia solar em eletricidade;
+
+
+III –
+
+sistema solar térmico: conjunto formado por coletor(es) solar(es), reservatório e outros componentes que aproveitam a energia do sol para gerar energia térmica concentrada para aquecimento de fluidos;
+
+
+IV –
+
+potência: capacidade de fornecer ou consumir energia em um determinado intervalo de tempo pode ser expressa em W (Watt), ou quilowatt (kW) ou seus múltiplos;
+
+
+V –
+
+demanda energética: quantidade de energia consumida em um determinado período de tempo. Pode ser expressa em W (Watt), kW (quilowatt), ou outras unidades;
+
+
+VI –
+
+microgeração distribuída: central geradora de energia elétrica, com potência instalada menor ou igual a 75 kW e que utilize cogeração qualificada, conforme regulamentação da ANEEL, ou fontes renováveis de energia elétrica, conectada na rede de distribuição por meio de instalações de unidades consumidoras;
+
+
+VII –
+
+minigeração distribuída: central geradora de energia elétrica, com potência instalada superior a 75 kW e menor ou igual a 5MW e que utilize cogeração qualificada, conforme regulamentação da ANEEL, ou fontes renováveis de energia elétrica, conectada na rede de distribuição por meio de instalações de unidades consumidoras;
+
+
+VIII –
+
+sistema de compensação de energia elétrica: sistema no qual a energia ativa injetada por unidade consumidora com microgeração ou minigeração distribuída é cedida, por meio de empréstimo gratuito, à distribuidora local e posteriormente compensada com o consumo de energia elétrica ativa;
+
+
+IX –
+
+fração solar: quociente entre a quantidade de energia fornecida pelo sistema solar térmico e o total de energia necessária no empreendimento para aquecimento de água, ao longo do ano. Geralmente apresentada em percentagem (%) como índice de aproveitamento de energia solar.
+
+
+#### CAPÍTULO III — OBJETIVOS
+
+
+Art. 3º.
+
+A Política Municipal de Energia Solar em prédios públicos tem por objetivos:
+
+
+I –
+
+objetivo geral: ampliar o uso da energia solar nos prédios públicos em âmbito municipal;
+
+
+II –
+
+objetivos específicos:
+
+
+a)
+
+ampliar o uso da microgeração e minigeração distribuída de fonte solar fotovoltaica;
+
+
+b)
+
+ampliar o uso de energia solar térmica;
+
+
+c)
+
+estimular a instalação e o desenvolvimento de indústrias de produtos e de materiais utilizados em sistemas de energia solar, bem como dos setores comerciais e de serviços envolvidos;
+
+
+d)
+
+reduzir o consumo de energia produzida por fontes não renováveis nos prédios públicos do Município;
+
+
+e)
+
+contribuir para a redução dos custos com energia nos prédios públicos do Município;
+
+
+f)
+
+contribuir para a redução de emissões de gases de efeito estufa - GEE.
+
+
+#### CAPÍTULO IV — INFORMAÇÃO E GESTÃO
+
+
+Art. 4º.
+
+O Poder Executivo publicará, ao final de cada ano, o inventário de instalações com energia solar fotovoltaicas e de aquecimento solar, com informações detalhadas sobre a situação dos prédios públicos do Município, que permitam avaliar a efetividade desta Lei.
+
+
+Parágrafo único
+
+O Poder Público Municipal, por meio das secretarias municipais afins a serem especificadas em decreto, com apoio das associações especializadas, deverá implantar banco de dados para o acompanhamento e controle dos novos sistemas de energia solar.
+
+
+#### CAPÍTULO V — DAS OBRIGATORIEDADES
+
+
+Art. 5º.
+
+Fica estabelecida a obrigatoriedade da instalação de sistema de geração de energia solar por meio de tecnologia fotovoltaica ou térmica em novas edificações dos prédios públicos, para quaisquer finalidades, no Município, considerando:
+
+
+I –
+
+a instalação de sistema de geração de energia solar, por meio de tecnologia fotovoltaica e/ou térmica, deve considerar a viabilidade técnica e econômica da implementação de cada tecnologia e o seu melhor aproveitamento para redução do consumo de energia, de acordo com a característica e finalidade da edificação à qual se destina;
+
+
+II –
+
+nas edificações em que a demanda de energia for superior à possibilidade de geração do sistema de energia solar, será tolerado o dimensionamento máximo possível considerando as superfícies disponíveis nas edificações e/ou no terreno.
+
+
+§ 1º
+
+A obrigatoriedade da instalação do sistema não se aplica às edificações que apresentem condições de sombreamento e limitação de espaço físico que inviabilizem a instalação do sistema de energia solar.
+
+
+§ 2º
+
+O enquadramento nas situações previstas nos incisos I e II, e § 1º deste artigo deverá ser comprovado mediante apresentação, à Prefeitura, de estudo técnico com laudo comprobatório elaborado por profissional habilitado, com registro ativo no Conselho Regional de Engenharia e Agronomia - CREA ou no Conselho de Arquitetura e Urbanismo - CAU, que demonstre o atendimento às exigências legais, conforme a metodologia e os parâmetros estabelecidos por Decreto do Poder Executivo.
+
+
+§ 3º
+
+Os sistemas de energia solar deverão ser dimensionados para atender no mínimo 40% (quarenta por cento) do consumo de energia anual projetado, a depender do perfil de consumo e das características técnicas da edificação.
+
+
+§ 4º
+
+Caso comprovada a inviabilidade técnica para a implementação do sistema solar em seu percentual mínimo, conforme exposto no § 3º deste artigo, será permitida a adesão da edificação ao sistema de compensação de energia elétrica de maneira remota, conforme regulamentação da Agência Nacional de Energia Elétrica - ANEEL.
+
+
+#### CAPÍTULO VI — DISPOSIÇÕES FINAIS
+
+
+Art. 6º.
+
+Cabe ao Poder Público Municipal, para a consecução da presente norma, a elaboração dos projetos de diagnóstico da eficiência e geração renovável de energia por sistema fotovoltaico criando um programa de eficiência energética.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 14 de julho de 2023.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Nilton Aparecido Bobato  
+Secretário Municipal da Administração  
+  
+Rui Alberto Hauenstein  
+Secretário Municipal de Obras - Interino  
+  
+Andrey Bachixta Dias  
+Secretário Municipal de Planejamento e Captação de Recursos  
+  
+Vilmar Andreola  
+Secretário Municipal de Desenvolvimento Comercial, Industrial e Agropecuário
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

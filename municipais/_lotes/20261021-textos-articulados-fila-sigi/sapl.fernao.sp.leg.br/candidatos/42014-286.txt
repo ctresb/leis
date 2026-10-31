@@ -1,0 +1,255 @@
+DISPÕE SOBRE O PROCESSO LEGISLATIVO ELETRÔNICO NO ÂMBITO DA CÂMARA MUNICIPAL DE FERNÃO E DÁ OUTRAS PROVIDÊNCIAS
+
+LUIZ ALFREDO LEARDINI, PRESIDENTE DA CÂMARA MUNICIPAL DE FERNÃO, ESTADO DE SÃO PAULO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS:
+
+Faço saber que a Câmara Municipal aprovou e eu promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+O uso de meio eletrônico na tramitação de processos e proposições legislativas, comunicação de atos e transmissão de documentos no âmbito da Câmara Municipal de Fernão será admitido nos termos desta Resolução.
+
+
+Parágrafo único
+
+Aplica-se o disposto nesta Resolução, no que couber, aos processos administrativos de tramitação originária no âmbito do Poder Legislativo.
+
+
+Art. 2º.
+
+Para o disposto nesta Resolução, considera-se:
+
+
+I –
+
+meio eletrônico: qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais;
+
+
+II –
+
+transmissão eletrônica: toda forma de comunicação a distância com a utilização de redes de comunicação, preferencialmente a rede mundial de computadores;
+
+
+III –
+
+assinatura eletrônica: as seguintes formas de identificação inequívoca do signatário:
+
+
+a)
+
+assinatura digital baseada em certificado digital emitido por Autoridade Certificadora credenciada, de acordo com as regras da Infraestrutura de Chaves Públicas Brasileira (ICPBrasil), a fim de se garantir a autenticidade, integridade e validade jurídica do documentos em forma eletrônica;
+
+
+b)
+
+mediante cadastro de usuário junto ao Poder Legislativo, conforme disposto em regulamento.
+
+
+IV –
+
+digitalização: processo de conversão de um documento originalmente confeccionado em papel para o formato digital, por meio de dispositivo apropriado.
+
+
+V –
+
+autos do processo eletrônico ou autos digitais: conjunto de digitais correspondentes a todos os atos, termos e informações do processo.
+
+
+Parágrafo único
+
+A aposição de assinatura eletrônica em um documento garante sua irretratabilidade ou não-repúdio, de modo que seu emissor não poderá negar a autenticidade da mensagem ou do arquivo digital.
+
+
+Art. 3º.
+
+O envio de proposições legislativas e a prática de atos processuais em geral por meio eletrônico serão admitidos mediante uso de assinatura eletrônica, na forma do artigo 2° desta Resolução, podendo ser exigido credenciamento prévio junto ao Poder Legislativo, nos termos regulamentares.
+
+
+Art. 4º.
+
+Consideram-se realizados os atos processuais por meio eletrônico no dia e hora do seu envio ao sistema do Poder Legislativo, no qual haverá intervenção do protocolo geral da Edilidade.
+
+
+§ 1º
+
+Serão considerados realizados e os atos tempestivos, quando os documentos forem transmitidos até às 23h:59min do último dia de prazo, excetuados os prazos relativos ao envio de proposituras a serem incluídas na Ordem do Dia da sessão subsequente, os quais deverão observar, invariavelmente, o disposto no Regimento Interno da Casa.
+
+
+§ 2º
+
+Caso o sistema do Poder Legislativo esteja indisponível por motivos técnicos, o prazo fica automaticamente prorrogado para o primeiro dia útil seguinte à resolução do problema, com exceção da hipótese disposta na parte final do parágrafo anterior.
+
+
+Art. 5º.
+
+Para a inclusão de proposição na pauta da Ordem do Dia da sessão subsequente, o autor deverá enviar à Secretaria da Casa o respectivo documento eletrônico, devidamente assinado, até o prazo limite disposto no Regimento Interno.
+
+
+#### CAPÍTULO II — DO PROCESSO ELETRÔNICO
+
+
+Art. 6º.
+
+A Edilidade poderá firmar parcerias com órgãos e entidades, públicas ou privadas, bem como proceder a contratação, na forma da legislação em vigor, visando o emprego de sistemas eletrônicos de processamento de proposições legislativas, por meio de autos total ou parcialmente digitais, utilizando, preferencialmente, a rede mundial de computadores e acesso por meio de redes internas e externas.
+
+
+Art. 7º.
+
+Os atos do processo legislativo eletrônico serão assinados digitalmente na forma estabelecida nesta Resolução.
+
+
+§ 1º
+
+Não é obrigatório que a assinatura eletrônica esteja visível no corpo do documento, bastando a indicação da sua existência, a fim de possibilitar a verificação de sua integridade e autenticidade.
+
+
+§ 2º
+
+Os documentos assinados eletronicamente devem conter, ao menos, a seguinte inscrição: "Documento assinado eletronicamente pelo(s) autor(es), nos termos da Medida Provisória nº 2.200-1, de 27 de julho de 2001, em conformidade com as regras da infraestrutura de Chaves Públicas Brasileira (ICP-Brasil)".
+
+
+§ 3º
+
+A autenticidade e integridade dos documentos poderão ser consultadas através de sítio eletrônico provido pelo Instituto Nacional de Tecnologia da Informação - ITI, autarquia federal vinculada à Casa Civil da Presidência da República.
+
+
+Art. 8º.
+
+No processo eletrônico, todos os atos legislativos dispostos no artigo 317 da Lei Orgânica do Município de Fernão tramitarão digitalmente, na forma desta Resolução.
+
+
+§ 1º
+
+As notificações e remessas realizadas no decorrer processo serão consideradas vista pessoal do interessado para todos os efeitos legais, inclusive para contagem de prazo.
+
+
+§ 2º
+
+Quando, por motivo técnico, for inviável o uso do meio eletrônico para a realização de atos processuais, esses poderão ser praticados segundo as regras ordinárias, digitalizando-se o documento físico, que poderá ser posteriormente descartado.
+
+
+Art. 9º.
+
+A autuação da proposição inicial e a juntada de documentos correlatos, todos em formato digital, nos autos de processo eletrônico, podem ser realizadas diretamente pelos Vereadores, Prefeito, servidores e cidadãos, atendidos os aspectos de competência e legalidade, com a necessidade da intervenção do protocolo geral da Edilidade.
+
+
+Parágrafo único
+
+A Edilidade poderá fornecer certificados digitais aos parlamentares e servidores que oficiarem nos processos eletrônicos, devendo sua utilização se restringir às finalidades institucionais da Casa.
+
+
+Art. 10.
+
+Os documentos produzidos eletronicamente e juntados aos processos eletrônicos com garantia da origem e de seu signatário, na forma estabelecida nesta Resolução, serão considerados originais para todos os efeitos legais.
+
+
+§ 1º
+
+Os documentos cuja digitalização seja tecnicamente inviável, devido ao grande volume ou por motivo de ilegibilidade, deverão ser apresentados ao protocolo geral da Câmara no prazo de 10 (dez) dias, contados do envio da proposição eletrônica, os quais serão devolvidos ao autor após o processamento final da proposição legislativa.
+
+
+§ 2º
+
+Os documentos digitalizados juntados em processo eletrônico estarão, em regra, disponíveis para acesso por meio da rede externa para o público em geral, ressalvado os casos de sigilo em que a lei determinar.
+
+
+Art. 11.
+
+A conservação dos autos do processo legislativo poderá ser efetuada, total ou parcialmente, por meio eletrônico.
+
+
+Parágrafo único
+
+Os autos dos processos eletrônicos deverão ser protegidos por meio de sistemas de segurança de acesso e armazenados em meio que garanta a preservação e integridade dos dados.
+
+
+Art. 12.
+
+Os documentos que forem juntados eletronicamente em autos digitais e reputados manifestamente impertinentes, inadequados, ou de caráter pessoal, terão sua visualização tomada indisponível.
+
+
+Art. 13.
+
+Fica expressamente vedado o protocolo de qualquer proposição aos autos do processo eletrônico quando o documento não apresentar a assinatura eletrônica do respectivo autor.
+
+
+Art. 14.
+
+Os autos de processos eletrônicos que tiverem de ser remetidos a outros órgãos ou entidades que não disponham de sistema compatível deverão ser impressos em papel.
+
+
+Art. 15.
+
+Como comunicação oficial, os servidores e agentes políticos do Poder Legislativo devem utilizar a extensão de e-mail "@cmfernao.sp.leg.br ", ou outro disponibilizado pela Edilidade.
+
+
+#### CAPÍTULO III — DA VOTAÇÃO ELETRÔNICA
+
+
+Art. 16.
+
+A votação eletrônica é o sistema de informação e controle documental que registra e determina, de forma digital, a manifestação de cada Vereador sobre votações de matérias em trâmite na Edilidade, dispensando a utilização de papel e carimbos.
+
+
+Art. 17.
+
+A votação eletrônica em plenário poderá ser realizada mediante a utilização de dispositivos móveis para o acesso ao sistema informatizado, podendo ser disponibilizado pela Câmara ou cedido pelo parlamentar.
+
+
+Art. 18.
+
+Adotado o sistema de votação eletrônica, cada Vereador deverá utilizá-lo para identificar seu voto nas proposições sujeitas à deliberação do Plenário, cabendo à Secretaria os trâmites processuais necessários, observado o resultado de votação proferido pelo Presidente da Casa, nos termos do Regimento Interno.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES GERAIS E FINAIS
+
+
+Art. 19.
+
+Os sistemas a serem desenvolvidos ou utilizados pela Câmara Municipal de Fernão poderão ser de código aberto ou fechado, acessíveis ininterruptamente por meio da rede mundial de computadores, priorizando-se a sua padronização.
+
+
+Art. 20.
+
+Fica incluído o § 3° ao artigo 176 do Regimento Interno da Câmara Municipal de Fernão, passando a vigorar com a seguinte redação:
+
+
+Art. 21.
+
+O artigo 288 do Regimento Interno da Câmara Municipal de Fernão passa a vigorar com a seguinte redação:
+
+
+Art. 22.
+
+Ficam convalidados os atos processuais praticados por meio físico e eletrônico até a data de publicação desta Resolução.
+
+
+Art. 23.
+
+O Presidente da Câmara expedirá normas regulamentares, sempre que necessário à execução do disposto nesta Resolução.
+
+
+Art. 24.
+
+Esta Resolução entra em vigor a partir de 1 º de janeiro de 2023.
+
+
+Art. 25.
+
+Ficam revogadas as disposições em contrário.
+
+
+Câmara Municipal de Fernão, 06 de dezembro de 2022.
+
+Luiz Alfredo Leardini
+
+Presidente da Câmara
+
+Eber Rogério Assis
+
+1º Secretário
+
+Registrado e Publicado por Afixação na Secretaria da Câmara Municipal de Fernão, nesta data.

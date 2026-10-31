@@ -1,0 +1,78 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 4.350.000,00 (quatro milhões, trezentos e cinquenta mil reais) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento Geral do Município, no valor de R$ 4.350.000,00 (quatro milhões, trezentos e cinquenta mil reais), na forma abaixo especificada:
+
+<table><tbody><tr><td>32</td><td colspan="2">- INSTITUTO DE TRANSPORTES E TRÂNSITO DE FOZ DO IGUAÇU - FOZTRANS</td></tr><tr><td>01</td><td colspan="2">- FOZTRANS</td></tr><tr><td>26 453 0710 2.280</td><td colspan="2">- Regime Emergencial de Operação e Custeio do Transporte Coletivo</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>4.350.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td> TOTAL DO CRÉDITO ADICIONAL SUPLEMENTAR </td><td>4.350.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, e a seguir especificados:
+
+<table><tbody><tr><td><strong>04</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</strong></td></tr><tr><td>01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>04 126 0030 2.016</td><td colspan="2">- Manutenção da Escola de Governo</td></tr><tr><td>3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>20.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>20.000,00</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>10.000,00</td></tr><tr><td>4.4.90.52</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>15.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>06</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA</strong></td></tr><tr><td>04</td><td>- DIRETORIA DE LOGÍSTICA</td><td> </td></tr><tr><td>04 122 0500 2.032</td><td colspan="2">- Manutenção das Atividades Operacionais de Patrulhamento, Vigilância e Sede da SMSP</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>100.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>08</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL</strong></td></tr><tr><td>05</td><td>- FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td><td> </td></tr><tr><td>08 244 0510 1.015</td><td colspan="2">- Investimento na Proteção Social Básica - Execução Obrigatória</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>300.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>13</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE TURISMO E PROJETOS ESTRATÉGICOS</strong></td></tr><tr><td>03</td><td>- DIRETORIA DE PROMOÇÃO, MARKETING E EVENTOS DO TURISMO</td><td> </td></tr><tr><td>23 695 0610 2.132</td><td colspan="2">- Promoção e Divulgação do Natal de Foz do Iguaçu</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>80.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE CAPTAÇÃO DE INVESTIMENTOS, PROJETOS ESTRATÉGICOS E INOVAÇÃO</strong></td></tr><tr><td>23 695 0620 1.071</td><td colspan="2">- Projeto de Implantação do Centro Municipal de Inovações</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr><tr><td>4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>23 695 0620 2.149</strong></td><td colspan="2"><strong>- Manutenção do Observatório Econômico</strong></td></tr><tr><td>3.3.50.41</td><td colspan="2">- Contribuições</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr><tr><td>3.3.90.35</td><td colspan="2">- Serviços de Consultoria</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr><tr><td>4.4.50.42</td><td colspan="2">- Auxílios</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>23 695 0620 2.151</strong></td><td colspan="2"><strong>- Manutenção do Fundo de Desenvolvimento Econômico e Social - FMDES</strong></td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>100.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>23 695 0620 2.168</strong></td><td colspan="2"><strong>- Manutenção das Ações e Atividades do Centro Municipal de Inovação</strong></td></tr><tr><td>3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>80.000,00</td></tr><tr><td>3.3.90.31</td><td colspan="2">- Premiações Culturais, Artísticas, Científicas, Desportivas e Outras</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>75.000,00</td></tr><tr><td>3.3.90.35</td><td colspan="2">- Serviços de Consultoria</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>135.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>160.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>4.4.90.51</strong></td><td colspan="2"><strong>- Obras e Instalações</strong></td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>100.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>23 695 0620 2.210</strong></td><td colspan="2"><strong>- Manutenção da Agência Municipal de Desenvolvimento, Turismo e da Inovação - AMD</strong></td></tr><tr><td>3.3.90.35</td><td colspan="2">- Serviços de Consultoria</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>25.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>25.000,00</td></tr><tr><td>4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>25.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>23 695 0620 2.211</strong></td><td colspan="2"><strong>- Manutenção do Fundo Municipal de Desenvolvimento, Turismo e da Inovação - FMD</strong></td></tr><tr><td>3.3.60.45</td><td colspan="2">- Subvenções Econômicas</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>150.000,00</td></tr><tr><td>3.3.90.35</td><td colspan="2">- Serviços de Consultoria</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>180.000,00</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>250.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>14</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA TECNOLOGIA DA INFORMAÇÃO</strong></td></tr><tr><td>01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>04 126 0060 2.130</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>100.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>04</strong></td><td><strong>- DIRETORIA DE ENGENHARIA DE SOFTWARE</strong></td><td> </td></tr><tr><td>04 126 0060 2.153</td><td colspan="2">- Gestão de Engenharia de Software</td></tr><tr><td>3.390.40</td><td colspan="2">- Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>1.000.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>20</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE DESENVOLVIMENTO COMERCIAL, INDUSTRIAL E AGROPECUÁRIO</strong></td></tr><tr><td>01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td>23 122 0660 2.170</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>100.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>04 22 661 0660 2.129</td><td colspan="2">- DIRETORIA DE COMÉRCIO, INDÚSTRIA E SERVIÇOS - Manutenção dos Distritos Industriais e Parques de Serviços</td></tr><tr><td>3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>3.3.90.39</strong></td><td colspan="2"><strong>- Outros Serviços de Terceiros - Pessoa Jurídica</strong></td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr><tr><td>4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr><tr><td>4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>50.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE EMPREENDEDORISMO E DESENVOLVIMENTO SOCIECONÔMICO</strong></td></tr><tr><td>11 334 0660 2.133</td><td colspan="2">- Manutenção do Fomento do Empreendedorismo e Garantioeste</td></tr><tr><td>3.3.90.27</td><td colspan="2">- Encargos pela Honra de Avais, Garantias, Seguros e Similares</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>200.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>23 691 0660 2.147</td><td colspan="2">- Manutenção do Programa Juro Zero</td></tr><tr><td>3.3.60.45</td><td colspan="2">- Subvenções Econômicas</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional ...</td><td>600.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong> TOTAL DA ANULAÇÃO </strong></td><td><strong>4.350.000,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 22 de agosto de 2022.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal
+
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda  
+  
+Licério Ferreira dos Santos  
+Diretor Superintendente do Instituto de Transportes e Trânsito de Foz do Iguaçu - FOZTRANS
+
+Nilton Aparecido Bobato  
+Secretário Municipal da Administração
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

@@ -1,0 +1,92 @@
+---
+titulo: "Lei nº 2.701, de 18 de março de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2701"
+data: "2026-03-18"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/5321"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/5992/text"
+sha256_fonte: "3986b7e41e9d578bbef94aecc5f475be5c65d7566681c3e6c03aaac2a252e657"
+sha256_texto: "57930532207d291b0531e3ff003bd0559a818e39585ec2c60acc61765ef73bbf"
+capturado_em_fonte: "2026-10-21T05:08:28.204703-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 2.701, de 18 de março de 2026
+
+O PREFEITO DO MUNICÍPIO DE AGUDO, ESTADO DO RIO GRANDE DO SUL, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no Art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam criadas as quadras 1, 2, 3, com confrontações, área e entroncamento das ruas, constantes no Memorial Descritivo e Mapa, que integram a presente Lei:
+
+
+I –
+
+A “Quadra 1”, com a área de 1.800,00 m² (um mil e oitocentos metros quadrados), formada pela Rua Caiçara, pelo Prolongamento da Rua do Salso, por uma gleba de terras urbanas de Wrasse Empreendimentos Ltda e pela a Rua A, com as seguintes confrontações e dimensões: faz frente, a OESTE, com a Rua Caiçara, numa extensão de 60,00 metros; a NORTE, com o prolongamento da Rua do Salso, na extensão de 30,00 metros; a LESTE, com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda, na extensão de 60,00 metros; e, ao SUL, com a Rua A, na extensão de 30,00 metros, até chegar novamente na Rua Caiçara, onde iniciou-se essa descrição.
+
+
+II –
+
+A “Quadra 2”, com a área de 1.800,00 m² (um mil e oitocentos metros quadrados), formada pela Rua Caiçara, pela Rua A, por uma gleba de terras urbanas de Wrasse Empreendimentos Ltda e pela a Rua B, com as seguintes confrontações e dimensões: faz frente, a OESTE, com a Rua Caiçara, numa extensão de 60,00 metros; a NORTE, com a Rua A, na extensão de 30,00 metros; a LESTE, com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda, na extensão de 60,00 metros; e, ao SUL, com a Rua B, na extensão de 30,00 metros, até chegar novamente na Rua Caiçara, onde iniciou-se essa descrição.
+
+
+III –
+
+A “Quadra 3”, com a área de 1.800,00 m² (um mil e oitocentos metros quadrados), formada pela Rua Caiçara, pela Rua B, por uma gleba de terras urbanas de Wrasse Empreendimentos Ltda e pelo Prolongamento da Rua do Cedro, com as seguintes confrontações e dimensões: faz frente, a OESTE, com a Rua Caiçara, numa extensão de 60,00 metros; a NORTE, com a Rua B, na extensão de 30,00 metros; a LESTE, com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda, na extensão de 60,00 metros; e, ao SUL, com o Prolongamento da Rua do Cedro, na extensão de 30,00 metros, até chegar novamente na Rua Caiçara, onde iniciou-se essa descrição.
+
+
+Art. 2º.
+
+Com a criação das quadras ficam criados os seguintes logradouros constantes no Memorial Descritivo e Mapa, que integram a presente Lei:
+
+
+I –
+
+Prolongamento da Rua do Salso: Situada no Bairro Caiçara, município de Agudo/RS, com a área superficial de 420,00 m² (quatrocentos e vinte metros quadrados), possuindo as seguintes dimensões e confrontações: ao NORTE, na extensão de 30,00 metros, confronta-se com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda; ao LESTE, na extensão de 14,00 metros, confronta-se com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda; ao SUL, na extensão de 30,00 metros, confronta-se com a Quadra 1; e, ao OESTE, na extensão de 5,53 metros, confronta-se com a Rua Caiçara, na extensão de 5,83 metros, confronta-se com a Rua do Salso e na extensão de 2,64 metros, confronta-se com terreno de Adriana Salete dos Santos.
+
+
+II –
+
+Rua A: Situada no Bairro Caiçara, município de Agudo/RS, com a área superficial de 420,00 m² (quatrocentos e vinte metros quadrados), possuindo as seguintes dimensões e confrontações: ao NORTE, na extensão de 30,00 metros, confronta-se com a Quadra 1; ao LESTE, na extensão de 14,00 metros, confronta-se com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda; ao SUL, na extensão de 30,00 metros, confronta-se com a Quadra 2; e, ao OESTE, na extensão de 14,00 metros, confronta-se com a Rua Caiçara.
+
+
+III –
+
+Rua B: Situada no Bairro Caiçara, município de Agudo/RS, com a área superficial de 420,00 m² (quatrocentos e vinte metros quadrados), possuindo as seguintes dimensões e confrontações: ao NORTE, na extensão de 30,00 metros, confronta-se com a Quadra 2; ao LESTE, na extensão de 14,00 metros, confronta-se com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda.; ao SUL, na extensão de 30,00 metros, confronta-se com a Quadra 3.; e, ao OESTE, na extensão de 14,00 metros, confronta-se com a Rua Caiçara.
+
+
+IV –
+
+Prolongamento da Rua do Cedro:Situada no Bairro Caiçara, município de Agudo/RS, com a área superficial de 420,00 m² (quatrocentos e vinte metros quadrados), possuindo as seguintes dimensões e confrontações: ao NORTE, na extensão de 30,00 metros, confronta-se com a Quadra 3; ao LESTE, na extensão de 14,00 metros, confronta-se com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda; ao SUL, na extensão de 30,00 metros, confronta-se com uma gleba de terras urbanas de Wrasse Empreendimentos Ltda; e, ao OESTE, na extensão de 6,33 metros, confronta-se com terreno de Elsa Santos Chaves, na extensão de 5,15 metros, confronta-se com a Rua do Cedro, e na extensão de 2,52 metros, confronta-se a Rua Caiçara.
+
+
+Parágrafo único.
+
+As vias descritas neste artigo possuem as seguintes larguras: largura das ruas: 10,00 metros; largura das calçadas: 2,00 metros para cada lado.
+
+
+Art. 3º.
+
+Esta Lei entra vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO, 03 de março de 2026; 168º da Colonização e 67º da Emancipação.
+
+LUÍS HENRIQUE KITTEL  
+Prefeito de Agudo
+
+
+Registre-se e publique-se.
+
+DANIELA ARGUILAR CAMARGO  
+Secretária de Administração e Gestão
+

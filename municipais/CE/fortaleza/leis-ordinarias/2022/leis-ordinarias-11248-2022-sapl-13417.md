@@ -1,0 +1,200 @@
+---
+titulo: "Lei Ordinária nº 11.248, de 12 de abril de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11248"
+data: "2022-04-12"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; 2023-05-17; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/13417"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3827/text"
+sha256_fonte: "7b3ef1984e2543da6d282edad6a717c7ff92ab5cfb52fa5d38cd1498787279d5"
+sha256_texto: "685a85acf0d1c53d297743259fe1210f5367fb3cf29dc5f2660c791c5f0e6f8b"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 11.248, de 12 de abril de 2022
+
+Dispõe sobre a criação do programa Professores Sem Fronteiras, no âmbito do Município de Fortaleza, e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica instituído, sob a gestão da Secretaria Municipal da Educação de Fortaleza, o programa de intercâmbio internacional Professores Sem Fronteiras, que tem o propósito de ofertar aos professores de provimento efetivo da Secretaria Municipal da Educação, de forma gratuita, as experiências de intercâmbio educacional e cultural, supervisionado e custeado pelo Poder Público.
+
+
+Parágrafo único.
+
+A indicação dos países para o intercâmbio educacional será feita pela Secretaria Municipal da Educação, de acordo com o mapeamento de experiências de destaque internacional alinhadas às práticas de interesse da educação municipal e da relevância dos indicadores de desempenho em educação do país de destino publicizados pelo Programme for International Student Assessment (Pisa), estudo realizado a cada três anos pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE).
+
+
+Art. 2º.
+
+O Município de Fortaleza, por meio da SME, custeará as despesas referentes a passagens, hospedagens e alimentação aos seus beneficiários.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+Parágrafo único.
+
+As despesas referentes a passagens, hospedagens e alimentação serão pagas conforme dispõe o Decreto n.º 13.251, de 13 de novembro de 2013, que dispõe sobre a concessão de diárias e passagens aéreas no âmbito da Administração Pública Municipal Direta e Indireta, e dá outras providências.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+Art. 3º.
+
+Os beneficiários do programa deverão submeter-se a processo seletivo regulamentado por meio de edital a ser publicado pela Secretaria Municipal da Educação, contemplando etapas eliminatórias e classificatórias, mediante critérios impessoais, objetivos e isonômicos.
+
+
+Art. 4º.
+
+Para participar do programa, deverão ser observados os seguintes requisitos:
+
+
+I –
+
+pertencer o professor ao quadro efetivo da Secretaria Municipal da Educação;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+II –
+
+não ter impedimento legal ou ter sido condenado em processo administrativo disciplinar;
+
+
+III –
+
+comprovar desempenho satisfatório no curso preparatório do programa Professores Sem Fronteiras, destinado aos inscritos, com frequência mínima de 95% (noventa e cinco por cento);
+
+
+IV –
+
+cumprir as exigências para obtenção do visto do país de destino;
+
+
+V –
+
+comprometer-se a participar de ações de divulgação das experiências vivenciadas a outros profissionais da Rede.
+
+
+Art. 5º.
+
+O professor selecionado para o intercâmbio não terá perda de seus vencimentos durante o período em que estiver afastado para as ações do programa.
+
+
+Art. 6º.
+
+A concessão da licença para frequentar cursos de formação importa o compromisso do professor, ao seu retorno, de permanecer, obrigatoriamente, no Sistema Municipal de Ensino, por tempo igual ao da licença, sob pena de ressarcimento integral dos dispêndios efetuados.
+
+
+Art. 7º.
+
+Fica proibido o benefício previsto nesta Lei, cumulativamente, com qualquer outro com o mesmo fim.
+
+
+Art. 8º.
+
+O pagamento da bolsa para custear os estudos de intercâmbio será efetuado diretamente, por meio de depósito bancário, na conta corrente do professor da Secretaria Municipal da Educação.
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+Parágrafo único.
+
+O professor que, injustificadamente, não concluir o programa deverá ressarcir o Município dos valores pagos, mediante desconto em folha de pagamento, em consonância com os valores e os prazos do cronograma original de pagamento da despesa, anteriormente cumprido pelo Município.
+
+
+Art. 9º.
+
+Perderá o direito de continuar no programa o professor efetivo da Secretaria Municipal da Educação que:
+
+
+I –
+
+abandonar o curso;
+
+
+II –
+
+não comprovar a frequência da carga horária destinada às atividades de intercâmbio;
+
+
+III –
+
+realizar qualquer ato que venha a gerar problemas legais fora do país.
+
+
+Parágrafo único.
+
+Nestes casos, o professor deverá ressarcir integralmente o Erário municipal e responderá a processo administrativo disciplinar.
+
+
+Art. 10.
+
+Os recursos financeiros necessários para a execução do programa Professores Sem Fronteiras correrão por conta das dotações orçamentárias da Secretaria Municipal da Educação.
+
+
+Parágrafo único.
+
+Para a execução do programa Professores Sem Fronteiras, o Poder Executivo municipal poderá firmar convênio ou instrumento congênere com entidades públicas e/ou privadas, respeitada a legislação em vigor, visando à operacionalização e à logística do processo de envio e permanência dos professores durante o intercâmbio.
+
+
+Art. 11.
+
+A relação dos beneficiários e dos respectivos valores financeiros pagos pelo programa será divulgada no sítio eletrônico de acesso público da Secretaria Municipal da Educação e em outros meios previstos em regulamento.
+
+
+Art. 11-A.
+
+Compete ao Chefe do Poder Executivo municipal expedir decreto para regulamentar a fiel execução desta Lei, caso seja necessário.
+
+Inclusão feita pelo Art. 4º. - Lei Ordinária nº 11.362, de 17 de maio de 2023.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 12 DE ABRIL DE 2022.**
+
+**JOSÉ SARTO NOGUEIRA MOREIRA**  
+Prefeito Municipal de Fortaleza
+

@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/emenda_a_lei_organica_1.pdf da norma Lei Orgânica Municipal-PREF nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "adequar o teor da Carta Municipalista ao Teor da Constituição Federal, no tocante à matéria de Acumulação remunerada de Cargos Públicos.",
+      "anexo_arquivo": "http://sapl.granito.pe.leg.br/media/sapl/public/anexonormajuridica/1990/1/emenda_a_lei_organica_1.pdf",
+      "ano": 1990,
+      "norma": 48
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/2/emenda_a_lei_organica_municipal_1.pdf da norma Lei Orgânica Municipal-PREF nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Eleição da Mesa Diretora da Câmara Municipal de Granito-PE",
+      "anexo_arquivo": "http://sapl.granito.pe.leg.br/media/sapl/public/anexonormajuridica/1990/2/emenda_a_lei_organica_municipal_1.pdf",
+      "ano": 1990,
+      "norma": 48
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/3/promulgacao_de_emenda_02_de_2021_a_lei_organica_municipal.pdf da norma Lei Orgânica Municipal-PREF nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Dá nova redação ao art. 101 da Lei Orgânica Municipal, altera o prazo e modifica o Sistema de Avaliação Especial de Desempenho de Servidores nomeados em decorrência de Concurso Público, conforme dispõe o art. 41, §4° da Constituição Federal",
+      "anexo_arquivo": "http://sapl.granito.pe.leg.br/media/sapl/public/anexonormajuridica/1990/3/promulgacao_de_emenda_02_de_2021_a_lei_organica_municipal.pdf",
+      "ano": 1990,
+      "norma": 48
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.granito.pe.leg.br/2981e5c65b7967cd2338011a35013fa92e80c68bd8050e535a2f1979a24c3973.json",
+      "url": "https://sapl.granito.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.granito.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "35bad8d06441417a1aa70189e5f3870b0904211c6d081864d668672bafb4049e",
+      "bytes": 2005,
+      "capturado_em": "2026-10-28T12:41:31.053490-03:00"
+    }
+  ]
+}

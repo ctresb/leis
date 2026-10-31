@@ -1,0 +1,42 @@
+{
+  "host": "sapl.altodorodrigues.rn.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altodorodrigues.rn.leg.br/1eedba6b9bbfca182c08f3a1daf86c433e13a672d13e12e26b3f47fe9ecf180f.json",
+    "url": "https://sapl.altodorodrigues.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.altodorodrigues.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T05:27:43.357517-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altodorodrigues.rn.leg.br/7e1bf14a500f2083ac5907dcbf86e0b58d50af90124a5ae1361fb1173190af2b.json",
+    "url": "https://sapl.altodorodrigues.rn.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.altodorodrigues.rn.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "89052dcfbea4e89fe2bf81f28d8781a0acf840225ca9e32f65a9f520101e7de8",
+    "bytes": 874,
+    "capturado_em": "2026-10-21T05:27:42.146362-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altodorodrigues.rn.leg.br/496bb60d28e176956748ea35be447b85c815df1b328db5abdb15be340546ed7d.json",
+      "url": "https://sapl.altodorodrigues.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.altodorodrigues.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-21T05:27:45.945395-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

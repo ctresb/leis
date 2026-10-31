@@ -1,0 +1,42 @@
+{
+  "host": "sapl.conceicaodemacabu.rj.leg.br",
+  "metadados_unicos_observados": 77,
+  "total_api_declarado": 77,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 15,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodemacabu.rj.leg.br/16f0a78c58877f6e2d114c940d5a4e7fd16f068f049401fce40df15b27189d7a.json",
+    "url": "https://sapl.conceicaodemacabu.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.conceicaodemacabu.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1e51c9bf2b35ed3ac05609f3e1079b39e08049ac8268e44f6aed60132234fd23",
+    "bytes": 696,
+    "capturado_em": "2026-10-27T23:07:27.009463-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodemacabu.rj.leg.br/02936ba8553d8dcaa820fb390a2dc53b80e00bce696efff9a672a322f82a536a.json",
+    "url": "https://sapl.conceicaodemacabu.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.conceicaodemacabu.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8c958fbf2c052310827be966bc5a4945bec49d1b3932d3f18ec5cabfdd4fc2de",
+    "bytes": 910,
+    "capturado_em": "2026-10-27T23:07:26.155823-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodemacabu.rj.leg.br/360ffbfd1fa9ff7c3e00ce9a97969d65ee78da37675458eac64982574e7be6cb.json",
+      "url": "https://sapl.conceicaodemacabu.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.conceicaodemacabu.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "74769397be8476895321844d02731aef8514effc3e624f871a4939637b970077",
+      "bytes": 51954,
+      "capturado_em": "2026-10-27T23:07:29.383994-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

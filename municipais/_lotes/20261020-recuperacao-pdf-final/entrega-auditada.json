@@ -1,0 +1,28 @@
+{
+  "documentos": 242,
+  "apenas_pdf_nativo_sem_imagens": true,
+  "transcricao_preformatada_integral_inclui_numeros_isolados_folios_cabecalhos": true,
+  "originais_preservados_com_backup_sha256": true,
+  "recuperacao": {
+    "path": "municipais/_lotes/20261020-recuperacao-pdf-sem-imagens-v2/lote-0001.json",
+    "sha256": "9ace4882cd61d07c73fafab3a2032c92a01233e9ddfee6c77c7b962b965fef64"
+  },
+  "gate_anexos": {
+    "path": "municipais/_lotes/20261020-recuperacao-pdf-gate-anexos/overlay.json",
+    "sha256": "d00355fabce30fa934227f08c9ec7e86e1c8e2ae21c61d6d24bfc8b4b83b8a6d"
+  },
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-recuperacao-pdf-final/auditoria-municipal.json",
+      "sha256": "a70782a9becf346c594161441eb6a5560c9a39d04913605e680ff862bc76a7a7"
+    },
+    {
+      "path": "municipais/_lotes/20261020-recuperacao-pdf-final/lote-0001.json",
+      "sha256": "eeb24d294af7c2169359ddadf146279d2d70df5985d3ee751a3d21d35fe5ed1f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-recuperacao-pdf-final/lote-0001.paths.txt",
+      "sha256": "cace2281e111c1ce4cfe4a4fb191eaf7d646b5f46d49b7581b0ec1be5c381bc5"
+    }
+  ]
+}

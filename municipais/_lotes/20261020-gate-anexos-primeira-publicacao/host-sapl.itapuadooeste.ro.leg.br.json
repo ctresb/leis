@@ -1,0 +1,15 @@
+{
+  "host": "sapl.itapuadooeste.ro.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.itapuadooeste.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapuadooeste.ro.leg.br/c69ad975c42c861c6781b1d3ed8a50a7931b3353fb6b80cc89d20e9ce75e461a.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapuadooeste.ro.leg.br/c69ad975c42c861c6781b1d3ed8a50a7931b3353fb6b80cc89d20e9ce75e461a.meta.json"
+    }
+  ],
+  "total": 0
+}

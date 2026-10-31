@@ -1,0 +1,52 @@
+A CÂMARA MUNICIPAL DE ENG. PAULO DE FRONTIN aprova e eu, José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte DECRETA:
+
+
+Art. 1º.
+
+Fica aberto crédito adicional suplementar ao orçamento vigente, no valor de R$ 100.000,00 (cem mil reais), para reforço das seguintes dotações:
+
+
+Rdz Órgão Unid Função Subfunção Programa Ação Elemento de Despesa Fonte Valor (R$)  
+13 02 003 04 122 2001 2201 3.3.90.30.00.00.00.0 1.705.0000 50.000,00  
+15 02 003 04 122 2001 2201 3.3.90.39.00.00.00.0 1.705.0000 50.000,00
+
+
+Art. 2º.
+
+Para dar cobertura ao crédito adicional suplementar de que trata o artigo 1º deste Decreto, no Orçamento Geral do Município, serão utilizados recursos do provável excesso de arrecadação apurado na Fonte de Recurso 1.705.0000: Transferências dos Estados Referente a Royalties do Petróleo e Gás Natural, no valor de R$ 100.000,00 (cem mil reais), conforme disposto no Anexo I deste decreto, com fulcro no artigo 43, §1º, inciso III da Lei 4.320/64.
+
+
+Art. 3º.
+
+Esta Lei produzirá seus efeitos a contar de sua publicação.
+
+
+Eng. Paulo de Frontin, 22 de outubro de 2024.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+
+
+ANEXO I  
+Metodologia de Cálculo do Excesso de Arrecadação e Tendência do Exercício da Receita Transferências dos Estados Referente a Royalties do Petróleo e Gás Natural (1.705.0000)  
+2023 JAN/23 FEV/23 MAR/23 ABR/23 MAI/23 JUN/23 JUL/23 AGO/23 SET/23 OUT/23 NOV/23 DEZ/23 TOTAL  
+Previsão R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 33.333,33 R$ 400.000,00  
+Arrecadação R$ 309.689,95 R$ 184.603,87 R$ 262.711,27 R$ 253.634,52 R$ 256.315,69 R$ 318.890,97 R$ 164.201,30 R$ 234.198,52 R$ 256.523,87 R$ 278.394,10 R$ 318.971,32 R$ 435.702,21 R$ 3.273.837,59  
+Totais: R$ 276.356,62 R$ 151.270,54 R$ 229.377,94 R$ 220.301,19 R$ 222.982,36 R$ 285.557,64 R$ 130.867,97 R$ 200.865,19 R$ 223.190,54 R$ 245.060,77 R$ 285.637,99 R$ 402.368,88 R$ 2.873.837,59  
+2024 JAN/24 FEV/24 MAR/24 ABR/24 MAI/24 JUN/24 JUL/24 AGO/24 SET/24 OUT/24 NOV/24 DEZ/24 TOTAL  
+Previsão R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 39.610,00 R$ 475.320,00  
+Arrecadação R$ 291.364,37 R$ 186.858,93 R$ 271.245,38 R$ 269.541,06 R$ 277.578,99 R$ 282.748,64 R$ 272.277,39 R$ 272.277,39 R$ 272.277,39 R$ 272.277,39 R$ 272.277,39 R$ 272.277,39 R$ 3.213.001,72  
+Totais: R$ 251.754,37 R$ 147.248,93 R$ 231.635,38 R$ 229.931,06 R$ 237.968,99 R$ 243.138,64 R$ 232.667,39 R$ 232.667,39 R$ 232.667,39 R$ 232.667,39 R$ 232.667,39 R$ 232.667,39 R$ 2.737.681,72  
+OBS: O Critério utilizado para cálculo da tendência do exercício foi pela média móvel mensal da receita realizada nos últimos doze meses (Julho/2023 a Junho/2024).  
+Julho a Dezembro 2023: R$ 1.687.991,32  
+Janeiro a Junho 2024: R$ 1.579.337,37  
+Total: R$ 3.267.328,69 / 12 = R$ 272.277,39  
+Cálculo do Provável Excesso de Arrecadação da Receita Transferências dos Estados Referente a Royalties do Petróleo e Gás Natural (1.705.0000)  
+Receita Total Orçada: R$ 475.320,00  
+Receita Arrecadada + Tendência do Exercício: R$ 3.213.001,72  
+Provável Excesso de Arrecadação: R$ 2.737.681,72  
+Créditos Adicionais Abertos no Período: R$ 170.000,00  
+Provável Excesso de Arrecadação a utilizar: R$ 2.567.681,72

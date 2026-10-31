@@ -1,0 +1,142 @@
+{
+  "host": "sapl.cabeceiragrande.mg.leg.br",
+  "metadados_unicos_observados": 1034,
+  "total_api_declarado": 1034,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 970,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/fa1e0aaf60ce825b2c262bc7f5ff27e9dedb2d84477de00f52fd50670adfb69f.json",
+    "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "097dbe412115ff51a02fd5cc57ba7765d7527af78b9a8f22ec781ef339434cb4",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T20:08:25.279697-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f4b653788b3eb9a6230b8f3f9870a9b250a65b053ce6dff68b834eb605973204.json",
+    "url": "https://sapl.cabeceiragrande.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1615225784583a811dc4730d383cf26e805467d5ea04ebaf9a0bc97e833ec7c0",
+    "bytes": 776,
+    "capturado_em": "2026-10-27T20:08:24.364663-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/26a8c2b710e28c288ce957ec00d4ee3b3acbf78230c3b24c90369d53f45eec0b.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9ed9eb815b8369c54cbaed400f01f7d423857cb4cfd3ef57238a2cee5fbd2217",
+      "bytes": 65951,
+      "capturado_em": "2026-10-27T20:08:26.792357-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/57522722033210169d11f79594ca34a0b01790e561c572323e1c46cca2f48293.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9df1bfa85ba340bdfac65ae651cf841e58b67037f448a00dc65b31d535c41519",
+      "bytes": 62976,
+      "capturado_em": "2026-10-27T20:11:19.883120-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/fb1191cef87da495508eb6e18080f66c8b76b636b7f2d98284bed30600cd1a83.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a4b65a07c327250b2d4b1aea7d51d5e293e2a9132b4df62e5dd5b06a2ba408b0",
+      "bytes": 70099,
+      "capturado_em": "2026-10-27T20:14:40.882086-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/0e5ca212103c38ff1c7106660a48fa7729919ff3eab33bfd0a8f57f91006926c.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "61870c2545d589bcbaca051cec0db8209ae3efdb30220f3a7263f3e7ed512dcc",
+      "bytes": 66162,
+      "capturado_em": "2026-10-27T20:17:56.092851-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/e60d8d0452978e9c1b6a1cb68a3c092394f6347b8d002c91d5a63f250e98bc9d.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "84c6b989cd9e39e6da25ffb74e6f6923fafdf5df8f286b94a00d3bdbee5a12e4",
+      "bytes": 65420,
+      "capturado_em": "2026-10-27T20:21:19.842727-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/7250867a1fe13b56da5794fad697d44539bd4f9bc50736366d105051ae26f648.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2cf12f69c35ab40ec4c29b7ffd6bb4529448f3cfea9b09020aa46e99b899f9a6",
+      "bytes": 65262,
+      "capturado_em": "2026-10-27T20:24:49.052822-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/5328ca5079022677435cf8fec23bc77a28c5b858a5120434309d33734da6cbd8.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "aea8d31fc635dab1f8f777e6b1ab936afa2dad3185de4ca1e3a4adbb9b6975d6",
+      "bytes": 58719,
+      "capturado_em": "2026-10-27T20:28:11.235878-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/910bbc377ab3a4af1e0696dc52561c64e7a5605317dfcc797ec21cdbde1cd543.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8c3064239538f9013cea28853963c43635b371d34ba9e16d3ccb1b17b58e037d",
+      "bytes": 58019,
+      "capturado_em": "2026-10-27T20:31:40.449267-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/55f17731e50617c13f3a530e087e7e69428115c5d2a2842e17ed1463c0ff0f8e.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bd5d87f3fcd14ef82d2dc860725382047089e2cd96cba59e272fa232a4d2d802",
+      "bytes": 58572,
+      "capturado_em": "2026-10-27T20:35:48.297259-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/2ae91134607deb891e85fc788cad48000bbe7edb32a963e965c3bbfa02bf5f9b.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b730803c2be06a50046150432ff3055e466fa793b4f44d6c7c5085dc673aa56c",
+      "bytes": 56362,
+      "capturado_em": "2026-10-27T20:39:42.859739-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1d3eb7058ec8df9ed01bfea54d763a062ce0167b6698e346daf9aeb267ada3e9.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.cabeceiragrande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "afcbe37c88eaf023eb352d1fb3c5c90378de7f392cacede7ca07d32b45b2832b",
+      "bytes": 19928,
+      "capturado_em": "2026-10-27T20:43:34.472970-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

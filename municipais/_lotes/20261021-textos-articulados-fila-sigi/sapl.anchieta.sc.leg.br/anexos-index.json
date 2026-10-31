@@ -1,0 +1,78 @@
+{
+  "estado": "indice_completo",
+  "total": 6,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/jardinagem-suspencao_de_edital.docx da norma EDITAIS nº 3, de 11 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "CAMARA DE VEREADORES DE ANCHIETA /SC\r\nAviso de Suspensão da Coleta de orçamento /2019",
+      "anexo_arquivo": "http://sapl.anchieta.sc.leg.br/media/sapl/public/anexonormajuridica/2019/1/jardinagem-suspencao_de_edital.docx",
+      "ano": 2019,
+      "norma": 2181
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/1551116261_galeria_lilas_deserta.docx da norma EDITAIS nº 4, de 12 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "AVISO DE PEDIDO DE ORÇAMENTO DESERTA 2019",
+      "anexo_arquivo": "http://sapl.anchieta.sc.leg.br/media/sapl/public/anexonormajuridica/2019/2/1551116261_galeria_lilas_deserta.docx",
+      "ano": 2019,
+      "norma": 2182
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/1551116377_tribuna_deserta.docx da norma EDITAIS nº 5, de 12 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "AVISO DE PEDIDO DE ORÇAMENTO DESERTA 2019",
+      "anexo_arquivo": "http://sapl.anchieta.sc.leg.br/media/sapl/public/anexonormajuridica/2019/3/1551116377_tribuna_deserta.docx",
+      "ano": 2019,
+      "norma": 2183
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/cronograma.docx da norma EDITAIS nº 8, de 16 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Cronograma",
+      "anexo_arquivo": "http://sapl.anchieta.sc.leg.br/media/sapl/public/anexonormajuridica/2019/4/cronograma.docx",
+      "ano": 2019,
+      "norma": 2677
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/memorial_descritivo.docx da norma EDITAIS nº 8, de 16 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Memorial Descritivo",
+      "anexo_arquivo": "http://sapl.anchieta.sc.leg.br/media/sapl/public/anexonormajuridica/2019/5/memorial_descritivo.docx",
+      "ano": 2019,
+      "norma": 2677
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/6/anexo_unico_lei_complemenatr_098.2020.pdf da norma LEI COMPLEMENTAR nº 98, de 23 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexo único tabelas",
+      "anexo_arquivo": "http://sapl.anchieta.sc.leg.br/media/sapl/public/anexonormajuridica/2020/6/anexo_unico_lei_complemenatr_098.2020.pdf",
+      "ano": 2020,
+      "norma": 2834
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.anchieta.sc.leg.br/bbfc25c7253154e40665d42a53719dcfbc0005e0e8ae6468a961a5328d14ada0.json",
+      "url": "https://sapl.anchieta.sc.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.anchieta.sc.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fb3a54545d8ab1b16eab00d98b37d82d9f8ee9dfee53d550bc25f253bf9b6c80",
+      "bytes": 2737,
+      "capturado_em": "2026-10-27T16:43:54.785845-03:00"
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+---
+titulo: "Lei Complementar nº 14, de 21 de março de 2005"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "14"
+data: "2005-03-21"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/197"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1982/text"
+sha256_fonte: "514c84f1432bb0a2d927c0d0245ff88ce4369d5c4806512d8a3c8febf7fb8219"
+sha256_texto: "e73cca221636057ca35fc13822d9cd763cfc1ec5612faee760be7fe36a70fd89"
+capturado_em_fonte: "2026-10-27T20:17:26.393716-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 14, de 21 de março de 2005
+
+Altera o anexo II, IV e VI da Lei Complementar nº 005/2002 que Institui o Plano de Cargos, Carreira e Vencimentos dos Servidores pertencentes ao Quadro de Pessoal da Prefeitura Municipal de Buritis, cria cargos públicos que menciona e dá outras providências.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, por seus representantes, aprova e Eu, Prefeito Municipal, sanciono a seguinte Lei Complementar:
+
+
+Art. 1º.
+
+Ficam criados na estrutura organizacional da Secretaria Municipal de Saúde, os seguintes cargos de provimento efetivo:
+
+
+I –
+
+Atendente de Farmácia, com vencimento inicial correspondente ao nível IV - A, com duas vagas, carga horária semanal de 40 (quarenta) horas, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: - Ensino Médio Completo.
+
+
+b)
+
+Atribuições do Cargo: Cuidar dos arquivos da farmácia; arquivar receitas; criar controle de entrada e saída de medicamentos; elaborar relatório de entrada e saída de medicamentos; receber e catalogar os medicamentos recebidos; conferir notas fiscais com a ordem de fornecimento; conferir prazos de validade de medicamentos; atualizar fichários; atender chamadas telefônicas; redigir ofícios, comunicação interna, memorandos; informar à Secretaria o limite mínimo de medicamentos para a realização de compras, para que não haja falta de medicamentos na farmácia sob seu controle, realizar outras atividades correlatas;
+
+
+II –
+
+Médico Veterinário, com vencimento inicial correspondente ao nível XXIV - A, com uma vaga, carga horária semanal de 40 (quarenta) horas, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: - Ensino Superior Completo, com registro no CRMV;
+
+
+b)
+
+Atribuições do Cargo: A prática da clínica em todas as suas modalidades; a direção dos hospitais para animais; a assistência técnica e sanitária aos animais sob qualquer forma; o planejamento e a execução da defesa sanitária animal; a direção técnica sanitária dos estabelecimentos industriais e, sempre que possível, dos comerciais ou de finalidades recreativas, desportivas ou de proteção onde estejam, permanentemente, em exposição, em serviço ou para qualquer outro fim animais ou produtos de sua origem; a inspeção e a fiscalização sob o ponto-de-vista sanitário, higiênico е tecnológico dos matadouros, frigoríficos, fábricas de conservas de carne e de pescado, fábricas de banha e gorduras em que se empregam produtos de origem animal, usinas e fábricas de laticínios, entrepostos de carne, leite, peixe, ovos,mel, cera e demais derivados da indústria pecuária e, de um modo geral, quando possível, de todos os produtos de origem animal nos locais de produção, manipulação, armazenagem e comercialização; a peritagem sobre animais, identificação, defeitos, vícios, doenças, acidentes, e exames técnicos em questões judiciais; as perícias, os exames e as pesquisas reveladoras de fraudes ou operação dolosa nos animais inscritos nas competições desportivas ou nas exposições pecuárias; a organização dos congressos, comissões, seminários e outros tipos de reuniões destinados ao estudo da medicina veterinária,
+
+
+Art. 2º.
+
+O anexo II que trata do Quadro de Cargos de Provimento Efetivo da Lei Complementar nº 005/2002, passa a vigorar com a seguinte redação:
+
+
+<table><tbody><tr><td><p><strong>Denominação </strong></p></td><td><p><strong>N° de Vagas</strong></p></td><td><p><strong>Jornada de Trabalho Semanal </strong></p></td><td><p><strong>Vencimento Inicial (Nível-Grau/Letra)</strong></p></td></tr><tr><td><p>Agente Administrativo</p></td><td><p>07</p></td><td><p>40 h</p></td><td><p>XIV-A</p></td></tr><tr><td><p>Agente de Saúde</p></td><td><p>09</p></td><td><p>40 h</p></td><td><p>VI-A</p></td></tr><tr><td><p>Agente Sanitário</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XVIII - A</p></td></tr><tr><td><p>Almoxarife</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XVII-A</p></td></tr><tr><td><p>Analista de Controle Interno</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XXIV - A</p></td></tr><tr><td><p>Assistente Administrativo</p></td><td><p>30</p></td><td><p>40 h</p></td><td><p>IV-A</p></td></tr><tr><td><p>Assistente Social</p></td><td><p>03</p></td><td><p>20 h</p></td><td><p>XXII -A</p></td></tr><tr><td><p>Atendente de Farmácia</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>IV-A</p></td></tr><tr><td><p>Auditor de Saúde 1- Enfermeiro</p></td><td><p>01</p></td><td><p>30 h</p></td><td><p>XXI-A</p></td></tr><tr><td><p>Auditor de Saúde II - Médico</p></td><td><p>01</p></td><td><p>30 h</p></td><td><p>XXI-A</p></td></tr><tr><td><p>Auxiliar de Administração</p></td><td><p>05</p></td><td><p>40 h</p></td><td><p>IV-A</p></td></tr><tr><td><p>Auxiliar de Análise Clínica</p></td><td><p>05</p></td><td><p>40 h</p></td><td><p>IV-A</p></td></tr><tr><td><p>Auxiliar de Desenho</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XI-A</p></td></tr><tr><td><p>Auxiliar de Enfermagem</p></td><td><p>22</p></td><td><p>40 h</p></td><td><p>IX-A</p></td></tr><tr><td><p>Auxiliar de Mecânico</p></td><td><p>40</p></td><td><p> 40 h</p></td><td><p>IX-A</p></td></tr><tr><td><p>Auxiliar de Serviços Gerais</p></td><td><p>127</p></td><td><p>40 h</p></td><td><p>I-A</p></td></tr><tr><td><p>Barqueiro</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>I-A</p></td></tr><tr><td><p>Bioquímico</p></td><td><p>03</p></td><td><p>20 h</p></td><td><p> XX-A</p></td></tr><tr><td><p>Borracheiro</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>X-A</p></td></tr><tr><td><p>Contador</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XXIV - A</p></td></tr><tr><td><p>Coveiro</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>I-A</p></td></tr><tr><td><p>Dentista</p></td><td><p>05</p></td><td><p>20 h</p></td><td><p>XXII - A</p></td></tr><tr><td><p>Desenhista</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XII-A</p></td></tr><tr><td><p>Digitador</p></td><td><p>02</p></td><td><p>33 h</p></td><td><p>XIV-A</p></td></tr><tr><td><p>Eletricista Predial</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XIV-A</p></td></tr><tr><td><p>Enfermeiro</p></td><td><p>07</p></td><td><p>40 h</p></td><td><p>XXV-A</p></td></tr><tr><td><p>Engenheiro Civil</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XXVII -A</p></td></tr><tr><td><p>Farmacêutico</p></td><td><p>01</p></td><td><p>20 h</p></td><td><p>XXII -A</p></td></tr><tr><td><p>Fiscal Municipal</p></td><td><p>05</p></td><td><p>40 h</p></td><td><p>IV</p></td></tr><tr><td><p>Fisioterapeuta</p></td><td><p>04</p></td><td><p>20 h</p></td><td><p>XXII-A</p></td></tr><tr><td><p>Fonoaudiólogo</p></td><td><p>02</p></td><td><p>20 h</p></td><td><p>XXII -A</p></td></tr><tr><td><p>Gari</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>I-A</p></td></tr><tr><td><p>Guarda</p></td><td><p>48</p></td><td><p>40 h</p></td><td><p>I-A</p></td></tr><tr><td><p>Inst. Culinária е Limpeza Doméstica</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>II-A</p></td></tr><tr><td><p>Instrutor de Artes</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XVI-A</p></td></tr><tr><td><p>Instrutor de Informática</p></td><td><p>01</p></td><td><p>20 h</p></td><td><p>VIII-A</p></td></tr><tr><td><p>Instrutor de Marcenaria</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>XIII-A</p></td></tr><tr><td><p>Instrutor de Música</p></td><td><p>05</p></td><td><p>40 h</p></td><td><p>V-A</p></td></tr><tr><td><p>Lavador de Autos</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>I-A</p></td></tr><tr><td><p>Mecânico</p></td><td><p>03</p></td><td><p>40 h</p></td><td><p>XVII-A</p></td></tr><tr><td><p>Médico</p></td><td><p>02</p></td><td><p>20 h</p></td><td><p>XXVI - A</p></td></tr><tr><td><p>Médico Veterinário</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XXIV - A</p></td></tr><tr><td><p>Monitora de Creche</p></td><td><p>31</p></td><td><p>40 h</p></td><td><p>II-A</p></td></tr><tr><td><p>Motorista</p></td><td><p>29</p></td><td><p>40 h</p></td><td><p>VIII-A</p></td></tr><tr><td><p>Office Boy</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>I-A</p></td></tr><tr><td><p>Operador de Máquinas Leves</p></td><td><p>07</p></td><td><p>40 h</p></td><td><p>X-A</p></td></tr><tr><td><p>Operador de Máquinas Pesadas</p></td><td><p>06</p></td><td><p>40 h</p></td><td><p>XI-A</p></td></tr><tr><td><p>Programador</p></td><td><p>33</p></td><td><p>33 h</p></td><td><p>XXII-A</p></td></tr><tr><td><p>Psicólogo</p></td><td><p>04</p></td><td><p>20 h</p></td><td><p>XXII-A</p></td></tr><tr><td><p>Técnico Agrícola</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XV-A</p></td></tr><tr><td><p>Técnico de Contabilidade</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>XIII-A</p></td></tr><tr><td><p>Técnico de Higiene Bucal</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>III-A</p></td></tr><tr><td><p>Técnico de Enfermagem</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>XII -A</p></td></tr><tr><td><p>Técnico em Radiologia</p></td><td><p>02</p></td><td><p>40 h</p></td><td><p>XV-A</p></td></tr><tr><td><p>Telefonista</p></td><td><p>03</p></td><td><p>33 h</p></td><td><p>IV-A</p></td></tr><tr><td><p>Zelador de Horta Comunitária</p></td><td><p>01</p></td><td><p>40 h</p></td><td><p>1-A</p></td></tr><tr><td><p><strong>TOTAL DE VAGAS</strong></p></td><td><p><strong>414</strong></p></td><td colspan="2"><p> </p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Ficam criados os seguintes cargos em comissão:
+
+
+I –
+
+Secretária de Gabinete, com duas vagas, com dedicação exclusiva, vencimento no nível CC- 4, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: Ensino Médio Completo.
+
+
+b)
+
+Atribuições do Cargo: Assessorar o gabinete do Prefeito e/ou do Vice-Prefeito; organizar a agenda do Prefeito e/ou Vice-Prefeito; Conferir e arquivar documentos em pastas específicas; atualizar fichários e arquivos, classificando os documentos; efetuar controle de requisição e recebimento do material de escritório; datilografar ou digitar correspondência externa e interna, textos diversos, transcrevendo originais, manuscritos ou impressos; minutar atos administrativos; efetuar cálculos para elaboração de quadros estatísticos; atender a chamadas telefônicas, anotando ou enviando recados; distribuir documentos em geral, para os diversos órgãos; atender os munícipes nas suas diversas solicitações; encaminhar documentação para órgãos ou instituições estaduais ou federais; acompanhar os indivíduos até o seu atendimento final; executar outras tarefas correlatas.
+
+
+II –
+
+Motorista de Gabinete, com uma vaga, com dedicação exclusiva, vencimento no nível CC- 5, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: - Ensino Fundamental incompleto.
+
+
+b)
+
+Atribuições do Cargo: Conduzir o veículo do Gabinete do Prefeito; verificar diariamente as condições de funcionamento do veículo antes de sua utilização: pneus, água do radiador, bateria, nível de óleo, sinaleiros, freios, embreagem, faróis, Atribuições do Cargo: Conduzir o veículo do Gabinete do Prefeito; verificar diariamente as condições de funcionamento do veículo antes de sua utilização: pneus, água do radiador, bateria, nível de óleo, sinaleiros, freios, embreagem, faróis, abastecimento de combustível, etc; zelar pela segurança de passageiros, verificando o fechamento de portas e o uso de cintos de segurança; fazer pequenos reparos de urgência; manter o veículo limpo, interna e externamente, e em condições de uso, levando-o à manutenção sempre que necessário; observar os períodos de revisão e manutenção preventiva do veículo; anotar e comunicar ao chefe imediato quaisquer defeitos que necessitem de serviços de mecânica, para reparos ou conserto; comunicar à chefia imediata, tão imediatamente quanto possível, qualquer enguiço ou ocorrência extraordinária; registrar a quilometragem do veículo no começo e no final do serviço, anotando as horas de saída e chegada; preencher mapas e formulários sobre a utilização diária do veículo, assim como sobre o abastecimento de combustível; recolher o veículo após o serviço, deixando-o corretamente estacionado e fechado; executar outras atribuições afins.
+
+
+III –
+
+Tesoureiro, com uma vaga, nível de vencimento correspondente a CС-12, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: Ensino Médio Completo.
+
+
+b)
+
+Atribuições do Cargo: Redigir ou participar da redação de oficios, cartas, despachos e demais expedientes simples, segundo normas preestabelecidas; digitar ou determinar a digitação de dados constantes de documento-base, segundo orientação recebida; operar microcomputador, utilizando programas básicos e aplicativos, para incluir, alterar e obter dados e informações, bem como consultar registros; estudar processos referentes a assuntos de caráter geral ou específico da unidade administrativa e propor soluções; elaborar ou colaborar na elaboração de relatórios parciais e anuais, atendendo às exigências ou às normas da unidade administrativa; registrar a tramitação de papéis e fiscalizar o cumprimento das normas referentes á tesouraria e atividades de contabilidade afetas ao trabalho da tesouraria; ler, selecionar, registrar e arquivar, quando for o caso, documentos e publicações de interesse da unidade administrativa onde exerce as funções; colecionar portarias, ordens de serviço e outros atos normativos de interesse da repartição; receber, classificar, fichar, guardar e conservar processos, livros e demais documentos segundo normas e códigos preestabelecidos; verificar as necessidades de material da unidade administrativa em que serve e preencher ou solicitar o preenchimento de requisições de material ao almoxarifado; fazer cálculos e operações de caráter financeiro; fazer cálculos não muito complexos sobre juros e percentagens, entre outros; preparar relação de cobrança e de pagamentos efetuados pela Prefeitura, especificando os saldos, para facilitar o controle financeiro; averbar e conferir documentos contábeis; auxiliar na elaboração e revisão do plano de contas da Prefeitura; escriturar contas-correntes diversas; conferir documentos de receita, despesas e outros; fazer a conciliação de extratos bancários, confrontando débitos e créditos, pesquisando quando for detectado erro e realizando as correções necessárias; fazer levantamento de contas para fins de elaboração de balancetes, boletins e outros demonstrativos contábil-financeiros; auxiliar na análise econômico-financeira e patrimonial da Prefeitura; executar ou supervisionar o lançamento das contas em movimento, nas fichas e livros contábeis; orientar os servidores que o auxiliam na execução das tarefas típicas da classe; assinar, juntamente com o Prefeito Municipal, os cheques da contas mantidas pela Prefeitura, desde que não delegação de competência para outro Agente Público; executar outras atribuições afins.
+
+
+IV –
+
+Inspetor de Vigilância Sanitária, Epidemiológica e de Zoonoses, com uma vaga, vencimento mensal no nível CC- 14, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: - Ensino Superior Completo, com registro no CRMV
+
+
+b)
+
+Atribuições do Cargo: - Implementação de medidas de controle ou a suspensão de fatores de risco para a saúde; Controle sanitário nas ações desenvolvidas pelo órgão de vigilância sanitária para aferição da qualidade dos produtos e a verificação das condições de licenciamento dos estabelecimentos, envolvendo: inspeção, fiscalização, lavratura de autos e aplicação de penalidades; avaliar as diferentes situações epidemiológicas definir ações específicas para cada realidade; elaborar plano de necessidades cronogramas de distribuição e fazer suprimentos de vacina, insumos para diagnósticos soros, mantendo-os em quantidade e condições de estocagem ideais; realizar investigações, inquéritos e levantamentos epidemiológicos, bem como programação e avaliação das medidas de controle de doenças e das situações de agravos à Saúde; viabilizar a implementação do sistema de vigilância epidemiológica e coordenar sua execução, estabelecendo fluxo de informações definido, com elaboração e análise permanente de seus indicadores; adotar estratégias de rotina e promover campanhas de vacinação; fomentar a busca ativa de causadores de doenças e agravos; Estimular a notificação compulsória de doenças e agravos; planejar, estabelecer normas, coordenar, acompanhar, e avaliar as ações de controle de zoonoses; analisar comportamento das zoonoses, das doenças ou dos agravos causados por vetor, animal hospedeiro, reservatório ou sinantrópico e dos agravos à saúde, de forma integrada com a vigilância epidemiológica, de saneamento, meio ambiente, educação, comunicação social; analisar o impacto das ações desenvolvidas, das metodologias empregadas e das tecnologias incorporadas; integrar-se de forma dinâmica e interativa com o sistema de informações do SUS.
+
+
+V –
+
+Coordenador de Garagem, com uma vaga, nível de vencimento corresponde a СС – 12, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: - Ensino Fundamental Completo.
+
+
+b)
+
+Atribuições do Cargo: Fiscalizar os veículos, máquinas e equipamentos da Prefeitura; providenciar reparo, conserto e manutenção; orientar na elaboração dos mapas de controle de veículos, máquinas e equipamentos; estabelecer os critérios de distribuição dos veículos; organizar, com apoio de seu superior hierárquico as rotinas de trabalho de seu setor; coordenar e controlar os servidores postos à sua disposição; comunicar ao setor de pessoal as faltas, atrasos e saídas antecipadas dos servidores lotados em seu setor; elaborar solicitação de compras; receber material de sua unidade enviadas pelo almoxarifado; executar outras tarefas correlatas.
+
+
+VI –
+
+Coordenador de Parques, Jardins e Limpeza Pública, com uma vaga, nível de vencimento correspondente a CC – 10, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: - Ensino Fundamental Completo.
+
+
+b)
+
+Atribuições do Cargo: Organizar o serviço de varrição de logradouros; organizar os serviços de coleta de lixo, entulhos e outros; organizar a limpeza e manutenção de praças, jardins calçadas; Organizar os serviços de poda de árvores; Fiscalizar a execução dos serviços; organizar escala de servidores do setor e de contratados; solicitar a aquisição de material, máquinas e equipamentos; informar as faltas, saídas antecipadas e outras ocorrências; executar outras atividades correlatas;
+
+
+VII –
+
+Coordenador do Serviço de Controle e Avaliação, Perícia Médica e Trabalhista, com uma vaga e vencimento correspondente ao nível CC – 16, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: - Ensino Superior em Medicina com registro no CRM;
+
+
+b)
+
+Atribuições do Cargo: Fiscalizar os serviços oferecidos pelo hospital conveniado (internações por área, exames realizados, direitos que o paciente internado pelo SUS possui. - Observar a tabela do SUS; - Visita diária, para observar atendimento a parturientes, recém-natos, dentre outros; - Fiscalizar e organizar o fluxo de encaminhamentos dos pacientes da Unidade Mista de Saúde para o hospital conveniado. Observar e organizar o fluxo de atendimentos ambulatoriais, do PSF para a UMS, número de consultas, número de exames. Observar, organizar e acompanhar o atendimento e fluxo de atendimento e exames laboratoriais; - Acompanhar o atendimento do Programa de Saúde da Família: pontos críticos resolutividade, por bairro, de acordo com a equipe e realidade de cada comunidade; - Acompanhar e organizar, com a equipe responsável pela Agência Transfusional, oferta de sangue para o município; e a Atuar, junto à Vigilância Sanitária e Epidemiológica, nas questões relativas fiscalização que necessitar da presença do Médico e, principalmente, nas questões relativas à adequação sanitária do hospital conveniado; à - Atuar, junto ao Diretor Clínico da UMS e o Enfermeiro Chefe, na organização do atendimento emergencial da UMS. - Apurar, junto com o Serviço de Auditoria Médica, as denúncias dos usuários do SUS; Implantar o PCMSO - Programa de Controle Médico de Saúde Ocupacional, CIPA; - Instituir Programa de Controle da Saúde dos Trabalhadores, custeando a realização dos exames médicos admissionais, periódicos, de mudança de função e demissões; Adoção de medidas de proteção individual/EPI; Rastrear e diagnosticar procedimentos e agravos à saúde, relacionados ao trabalho, constatar casos de doenças profissionais e danos irreversíveis à saúde dos trabalhadores; - Fazer o reconhecimento prévio dos riscos ocupacionais existentes na empresa, em função das atividades desenvolvidas: ramo de atividade, grau de risco, número de funcionários, turnos de trabalho, etc.; - Demais atribuições, relativas à organização e acesso à qualidade dos serviços prestados à comunidade.
+
+Compete, ainda, ao Serviço de Controle e Avaliação:
+
+Liberar AIH's; - TFD's - Tratamento Fora do Domicílio; - Avalizar e avaliar solicitações de exames diversos, como por exemplo: Tomografia, Ultrassonografia e outros; - liberar os casos urgentes, dentre outros; Acompanhar a PPI Assistencial (referências e contra-referências); - Atendimentos de Média e Alta complexidade, em outro município.
+
+
+VIII –
+
+Coordenador de Controle Interno, com uma vaga, vencimento ao nível de СС - 14, com as seguintes atribuições:
+
+
+a)
+
+Requisitos Mínimos para Provimento: Ensino Médio Completo.
+
+
+b)
+
+Atribuições do Cargo: Avaliar o cumprimento das metas previstas no plano plurianual, a execução dos programas de governo, participando da elaboração do orçamento do Município, bem como fiscalizando sua execução; comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira, patrimonial e fiscal, nos órgãos e entidades da administração municipal, bem como da aplicação das subvenções e dos recursos públicos, por entidades de direito privado; exercer o controle das operações de crédito e garantias, bem como dos direitos e haveres do Município; apoiar o controle externo no exercício de sua missão institucional; fiscalizar o cumprimento do disposto na Lei Complementar n° 101, de 04 de maio de 2000; dar ciência ao Chefe do Poder Executivo e ao Tribunal de Contas de qualquer irregularidade que tomar conhecimento; emitir Relatório sobre as contas dos órgãos e entidades da administração municipal, que deverá ser assinado pelo Coordenador, assinando igualmente as demais peças que integram os relatórios de Gestão Fiscal e de contas, juntamente com o Prefeito Municipal e o Secretário da Fazenda. IX - Assessor de Imprensa, com uma vaga, vencimento no nível CC – 7, com as seguintes atribuições: a Supervisionar e coordenar todas as atividades relativas à divulgação das realizações e dos atos do Poder Executivo, nos âmbitos interno e externo do Município; zelar pela boa imagem do Poder, e passar à comunidade, por intermédio da informação, transparência das ações desenvolvidas pela Administração Pública; responsabilizar-se pela guarda e conservação dos bens patrimoniais colocados no respectivo setor para uso das atividades por ela desenvolvidas; informar, periodicamente, o comportamento funcional dos servidores que integram o respectivo setor; organizar e coordenar publicação impressa dos atos diversos do Município, e outras matérias consideradas de interesse do Poder Legislativo; providenciar o envio de outros atos oficiais do Município que exijam sua publicação em Jornal; organizar e apresentar os eventos, solicitados pelo Prefeito e seus secretários, bem com confeccionar e enviar os respectivos convites; manter a imprensa informada sobre projetos e demais atividades de Prefeitura Municipal; produzir e apresentar material informativo das atividades da Prefeitura, mostrando, através de reportagens, o trabalho desenvolvido pelo Município; Exercer quaisquer atividades compatíveis com as atribuições do cargo.
+
+RECRUTAMENTO: Amplo.
+
+CARGA HORÁRIA: Dedicação Exclusiva
+
+
+Art. 4º.
+
+O anexo IV da Lei Complementar n° 005/2002, passa a vigorar com a seguinte redação:
+
+
+<table><tbody><tr><td><p><strong>Denominação                       </strong></p></td><td><p><strong>N° de vagas </strong></p></td><td><p><strong>Vencimento</strong></p><p><strong>(Símbolo)</strong></p></td></tr><tr><td><p>Assessor Contábil e Tesouraria</p></td><td><p>01</p></td><td><p>CC-12</p></td></tr><tr><td><p>Assessor de Imprensa</p></td><td><p>01</p></td><td><p>CC-7</p></td></tr><tr><td><p>Assessor Jurídico</p></td><td><p>01</p></td><td><p>CC-15</p></td></tr><tr><td><p>Assistente Judiciário</p></td><td><p>02</p></td><td><p>CC-11</p></td></tr><tr><td><p>Chefe de Departamento</p></td><td><p>01</p></td><td><p>CC-5</p></td></tr><tr><td><p>Chefe de Setor</p></td><td><p>07</p></td><td><p>CC-5</p></td></tr><tr><td><p>Coordenador de Parques, Jardins e Limpeza Pública</p></td><td><p>01</p></td><td><p>CC-10</p></td></tr><tr><td><p>Coordenador de Controle Interno</p></td><td><p>01</p></td><td><p>CC-14</p></td></tr><tr><td><p>Coordenador de Creche</p></td><td><p>01</p></td><td><p>CC-5</p></td></tr><tr><td><p>Coordenador de Ensino Religioso</p></td><td><p>01</p></td><td><p>CC-3</p></td></tr><tr><td><p>Coordenador de Garagem</p></td><td><p>01</p></td><td><p>CC-12</p></td></tr><tr><td><p>Coordenador de Matadouro</p></td><td><p>01</p></td><td><p>CC-3</p></td></tr><tr><td><p>Coordenador de Pólo Informática</p></td><td><p>01</p></td><td><p>CC-10</p></td></tr><tr><td><p>Coordenador de Projetos Agrícolas</p></td><td><p>01</p></td><td><p>CC-5</p></td></tr><tr><td><p>Coordenador de Serviços Mecânicos</p></td><td><p>01</p></td><td><p>CC-10</p></td></tr><tr><td><p>Coordenador de Vigilância Epidemiológica</p></td><td><p>01</p></td><td><p>CC-9</p></td></tr><tr><td><p>Coordenador de Vigilância Sanitária</p></td><td><p>01</p></td><td><p>CC-9</p></td></tr><tr><td><p>Coordenador do Serviços de Controle e Avaliação, Perícia Médica e  Trabalhista</p></td><td><p>01</p></td><td><p>CC-16</p></td></tr><tr><td><p>Coordenador do PAV</p></td><td><p>01</p></td><td><p>CC-8</p></td></tr><tr><td><p>Coordenador do Serviço de Avaliação, Perícia Médica e Trabalhista</p></td><td><p>01</p></td><td><p>CC-16</p></td></tr><tr><td><p>Inspetor de Vigilância Sanitária, Epidemiológica e de Zoonoses</p></td><td><p>01</p></td><td><p>CC-14</p></td></tr><tr><td><p>Motorista de Gabinete</p></td><td><p>01</p></td><td><p>CC-5</p></td></tr><tr><td><p>Secretária de Gabinete</p></td><td><p>02</p></td><td><p>CC-4</p></td></tr><tr><td><p>Secretário da J.S.М.</p></td><td><p>01</p></td><td><p>CC-4</p></td></tr><tr><td><p>Secretário Municipal</p></td><td><p>08</p></td><td><p>Lei Específica</p></td></tr><tr><td><p>Tesoureiro</p></td><td><p>01</p></td><td><p>01 CC-12</p></td></tr></tbody></table>
+
+
+Art. 5º.
+
+O anexo VI da Lei Complementar n° 005/2002, passa a vigorar com a seguinte redação:
+
+
+<table><tbody><tr><td><p>SÍMBOLO</p></td><td><p>VALOR (R$)</p></td></tr><tr><td><p>CC-1</p></td><td><p>335,05</p></td></tr><tr><td><p>CC-2</p></td><td><p>378,28</p></td></tr><tr><td><p>CC-3</p></td><td><p>395,57</p></td></tr><tr><td><p>CC-4</p></td><td><p>432,32</p></td></tr><tr><td><p>CC-5</p></td><td><p>540,40</p></td></tr><tr><td><p>CC-6</p></td><td><p>557,69</p></td></tr><tr><td><p>CC-7</p></td><td><p>590,12</p></td></tr><tr><td><p>CC-8</p></td><td><p>674,42</p></td></tr><tr><td><p>CC-9</p></td><td><p>698,20</p></td></tr><tr><td><p>CC-10</p></td><td><p>864,64</p></td></tr><tr><td><p>CC-11</p></td><td><p>1.000,00</p></td></tr><tr><td><p>CC-12</p></td><td><p>1.028,92</p></td></tr><tr><td><p>CC-13</p></td><td><p>1.405,04</p></td></tr><tr><td><p>CC-14</p></td><td><p>1.945,44</p></td></tr><tr><td><p>CC-15</p></td><td><p>2.161,60</p></td></tr><tr><td><p>CC-16</p></td><td><p>2.500,00</p></td></tr></tbody></table>
+
+
+Art. 6º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Buritis, 23 de março de 2.005.
+
+**Dr. Keny S. Rodrigues Prefeito Municipal - Buritis-MG**
+
+**PROPOSIÇÃO DE LEI COMPLEMENTAR N° 013/2005, DE AUTORIA DO EXECUTIVO MUNICIPAL, APROVADA EM 18/03/2.005, COM A EXCLUSÃO DE UM CARGO DE ASSESSOR JURÍDICO. SANCIONADA SEM VETO EM 23/03/2005.**
+

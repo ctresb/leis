@@ -1,0 +1,39 @@
+---
+titulo: "Lei Ordinária nº 1.536, de 02 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1536"
+data: "2023-03-02"
+municipio: "Peabiru"
+uf: "PR"
+codigo_ibge: "4118808"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.peabiru.pr.leg.br/norma/1399"
+fonte_texto: "https://sapl.peabiru.pr.leg.br/media/sapl/public/normajuridica/2023/1399/lei_n1536.pdf"
+sha256_fonte: "a74ac0df07736c3bf44fa2d2ed971fd73ee3f239fe1bfc0bd598ac9006bda74f"
+sha256_texto: "207abec81b0400c29a91b6780dc898d0a5d4cdff4a6de0bbbdb3f832dc8c4220"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 1.536, de 02 de março de 2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PEABIRU Praça Eleutério Galdino de Andrade, 21 - Fone-Fax (44) 3531 - 2121
+
+iid
+
+Lei N° 1536/2023 PREFEITURA AUTORIZA A ABERTURA DE CRÉDITO SECRE ADICIONAL ESPECIAL NO ORÇAMENTO PARA 2023, E DÁ OUTRAS PROVIDÊNCIAS. A Câmara Municipal de Peabiru, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte: LEI
+
+**Art. 1°** Fica o Executivo Municipal autorizado a incluir no Orçamento Geral do Município de Peabiru, no Exercício de 2023, um crédito adicional especial no valor de R$ 100.000,00 (cem mil reais). SECRETARIA MUNICIPAL DE OBRAS, VIAÇAO E SERVIÇOS
+
+PÚBLICOS SERVIÇO RODOVIÁRIO MUNICIPAL 05.008 Manutenção do Consórcio Público Intermunicipal de Inovação e 05.008.26.782.0 Desenvolvimento do Estado do Paraná - CINDEPAR 012.2059 Despesas Correntes 3.0.0.0.00.00.00 Fonte TCE Rateio pela participação 3.371.70.00.00 01001 em Consórcio Público Ordinarios Recursos 100.000,00 Livres- Exercicio Atual 100.000,00
+
+Parágrafo Unico - As alterações necessárias nos instrumentos de planejamento Municipal decorrente da abertura dos créditos que trata o caput do artigo serão incluídas nos anexos Il do PPA para o exercício de 2023 e no Anexo I da LDO para o exercício de 2023.
+
+Praça Eleutério Galdino de Andrade, 21 - Fone-Fax (44 ) 3531 - 2121
+
+**Art. 2°.** - Para dar cobertura ao Crédito aberto no artigo anterior, será indicado como fonte de recursos: 1 - de acordo com o inciso I, Parágrafo 1°, do Art. 43, da Lei Federal n° 4320/64, os recursos do Superávit Financeiro apurado no Balanço Patrimonial do exercício anterior conforme abaixo: Valor do Superávit Utilizado Descrição da Fonte de Recurso nesta Lei R$ 100.000,00 (Fonte 1001 Recursos Ordinários Livres - Exercicio Corrente) R$ 100.000,00
+
+**Art. 3°.** Esta Lei entrará em vigor a partir da data de sua publicação. Prefeitura Municipal de Peabiru, 02 de março de 2023. JULIO CEZAR FRARE Prefeito Municipal
+

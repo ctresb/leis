@@ -1,0 +1,290 @@
+---
+titulo: "Lei-PMC nº 3.787, de 23 de outubro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3787"
+data: "2018-10-23"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7548"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4505/text"
+sha256_fonte: "a51573a17b5c1b9f1acaaae305898887c2fac5b9bb39cce1454b5c46585908c6"
+sha256_texto: "ccfe4cdee50475d5a5487571a537e0fc79424515f83785b656baf5b6fdcaeed7"
+capturado_em_fonte: "2026-10-27T23:23:14.050670-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei-PMC nº 3.787, de 23 de outubro de 2018
+
+Dispõe sobre o Conselho Municipal de Desenvolvimento Rural Sustentável de Congonhas.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais aprovou e eu, Prefeito Municipal, promulgo e sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável de Congonhas – CMDRS, órgão gestor do Desenvolvimento Rural do Município, instituído pela Lei n.º 3.215, de 2 de outubro de 2012, tem caráter consultivo e deliberativo, segundo o contexto de cada política ou programa de desenvolvimento rural em implementação.
+
+
+Parágrafo único
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável de Congonhas será regido por esta lei, que estabelecerá competências do órgão, entre outras atribuições, diretos e deveres previstos nos artigos seguintes.
+
+
+Art. 2º.
+
+Ao CMDRS compete:
+
+
+I –
+
+promover o Desenvolvimento Rural Sustentável no Município;
+
+
+II –
+
+assegurar a efetiva e legítima participação das comunidades rurais na discussão e elaboração de Plano Municipal de Desenvolvimento Rural Sustentável – PMDRS;
+
+
+III –
+
+incrementar ações de apoio e fomento à produção e comercialização de produtos da agricultura familiar e da reforma agrária;
+
+
+IV –
+
+estimular a organização dos agricultores familiares, buscando sua promoção social, a geração de ocupações e a elevação da renda;
+
+
+V –
+
+a execução, monitoria e avaliação das ações previstas no Plano Municipal de Desenvolvimento Rural Sustentável e dos impactos dessas ações no desenvolvimento municipal e propor redirecionamento;
+
+
+VI –
+
+a formação e a proposição de políticas públicas municipais voltadas para o desenvolvimento rural sustentável;
+
+
+VII –
+
+a inclusão dos objetivos e ações do Plano Municipal de Desenvolvimento Rural Sustentável, no Plano Plurianual (PPA), na Lei de Diretrizes Orçamentárias (LDO) e na Lei de Orçamento Anual (LOA);
+
+
+VIII –
+
+a aprovação e compatibilização da programação física – financeira anual, em nível municipal, dos programas que integram o Plano Municipal de Desenvolvimento Rural Sustentável, acompanhando seu desempenho e apreciando relatório de execução;
+
+
+IX –
+
+a compatibilização entre as Políticas Públicas Municipais, Regionais, Estatuais e Federais voltadas para o Desenvolvimento Rural Sustentável, e para a conquista e consolidação da plena cidadania no espação rural;
+
+
+X –
+
+a criação e o fortalecimento das Associações Comunitárias e a sua participação no CMDRS;
+
+
+XI –
+
+a articulação com municípios vizinhos, visando a construção de planos regionais de desenvolvimento rural sustentável;
+
+
+XII –
+
+a identificação e qualificação das necessidades de crédito rural e de assistência técnica para os agricultores familiares;
+
+
+XIII –
+
+a articulação com agentes financeiros com vista a solucionar dificuldades identificadas e qualificadas, a nível municipal, para concessão de financiamentos à agricultura familiar;
+
+
+XIV –
+
+as ações que revitalizam a cultura local;
+
+
+XV –
+
+garantir a diversidade e a representação dos diferentes atores sociais do município, no plenário do conselho, estimulando a participação de mulheres, jovens, agricultores familiares rurais e urbanos, assentados de reforma agrária e descendentes de quilombos;
+
+
+XVI –
+
+convocar e promover a conferência municipal ou regional de desenvolvimento rural sustentável ou evento similar onde serão discutidas as políticas para setor agropecuário do Município.
+
+
+Art. 3º.
+
+Para os efeitos desta lei considera-se agricultor familiar aquele que pratica atividades no meio rural, atendendo simultaneamente, os seguintes requisitos:
+
+
+I –
+
+não detenha, a qualquer título, área maior do que 4 (quatro) módulos fiscais, considerando 01 (um) módulo fiscal correspondentes a área de 20 (vinte) hectares;
+
+
+II –
+
+utilize predominantemente mão de obra própria familiar nas atividades econômicas do seu estabelecimento ou empreendimentos;
+
+
+III –
+
+tenha renda familiar originada predominantemente, de atividade econômicas vinculadas ao próprio estabelecimento ou empreendimento, nos termos estabelecidos pelo Plano Safra do Programa Nacional de Fortalecimento da Agricultura Familiar – PRONAF;
+
+
+IV –
+
+dirija seu estabelecimento ou empreendimento com sua família;
+
+
+V –
+
+resida no próprio estabelecimento ou em suas proximidades.
+
+
+Art. 4º.
+
+São também beneficiários desta Lei:
+
+
+I –
+
+agricultores familiares, posseiros, arrendatários, parceiros ou assentados da reforma agrária;
+
+
+II –
+
+remanescente de quilombos;
+
+
+III –
+
+agricultores urbanos cujas atividades sejam de cultivos de hortaliças, plantas medicinais, espécies frutíferas e flores, bem como, criação de animais de pequeno porte, piscicultura e a produção artesanal de alimentos e bebidas para consumo humano;
+
+
+IV –
+
+pescadores artesanais que se dedica à pesca artesanal, com fins comerciais, explorem a atividade como autônomos, com meio de produção próprias ou de parceria com outros pescadores artesanais;
+
+
+V –
+
+extrativistas que se dedicam à exploração extrativista ecologicamente sustentável;
+
+
+VI –
+
+silvicultores que cultivam florestas nativas ou exóticas devidamente licenciados pelos órgãos competentes, como manejo sustentável;
+
+
+VII –
+
+aquicultores que se dediquem ao cultivo de organismos cujo meio normal, ou mais frequente de vida, seja a água e sejam registrados e licenciados pelos órgãos competentes.
+
+
+Art. 5º.
+
+O mandato dos membros da CMDRS será de 02 (dois) anos, permitida uma única reeleição para diretoria e não se admitindo prorrogação de mantado, sendo considerado serviço público relevante, não sendo remunerada em nenhuma hipótese.
+
+
+Art. 6º.
+
+Integram o CMDRS:
+
+
+I –
+
+1 (um) representante de entidades da sociedade civil organizada que estudem ou promovam ações voltadas para o apoio e desenvolvimento da agricultura familiar;
+
+
+II –
+
+2 (dois) representantes de entidades representativas dos agricultores familiares, e de trabalhadores assalariados rurais;
+
+
+III –
+
+2 (dois) representantes da Diretoria de Desenvolvimento Rural;
+
+
+IV –
+
+1 (um) representante da EMATER;
+
+
+V –
+
+1 (um) representante da Secretaria Municipal de Desenvolvimento e Assistência Social.
+
+
+§ 1º
+
+O CMDRS deverá ter, obrigatoriamente, como maioria dos seus membros, representantes dos agricultores familiares e trabalhadores assalariados rurais, escolhidos e indicados por suas respectivas comunidades, associações, conselho de desenvolvimento comunitário, sindicatos e demais grupos associativos.
+
+
+§ 2º
+
+Todos os conselheiros titulares e suplentes devem ser indicados, formalmente, em documento escrito pela entidade ou instituição que representam:
+
+
+I –
+
+para os conselheiros e suplentes indicados por entidades da sociedade civil organizada e órgãos públicos a indicação deverá ser feita em reunião específica para este fim, e haja associações constituída, a indicação deverá ser feita em papel timbrado e assinado pelo responsável da respectiva instituição;
+
+
+II –
+
+para os conselheiros e suplentes indicados por comunidades ou bairros rurais onde não haja associações constituída, a indicação deverá ser assinada pelo presidente da associação;
+
+
+§ 3º
+
+O Prefeito nomeará, por portaria, os conselheiros e os respectivos suplentes do CMDRS.
+
+
+Art. 7º.
+
+Na primeira reunião após a posse o CMDRS elegerá uma Diretoria Executiva entre os Conselheiros Titulares composta de Presidente, Vice-Presidente, Secretário que, entre suas atribuições estabelecidas no Regimento Interno, convocará e presidirá as plenárias.
+
+
+Art. 8º.
+
+O CMDRS reunir-se-á ordinariamente 1 (uma) vez por mês em data e local previamente estabelecido e extraordinariamente sempre que se fizer necessário, por convocação de seu Presidente ou por 60% (sessenta por cento) de seus membros.
+
+
+Art. 9º.
+
+O Executivo Municipal, através da Secretaria Municipal de Desenvolvimento Econômico, Inovação e Tecnologia fornecerá as condições e as informações necessárias para o CMDRS cumprir suas atribuições.
+
+
+Art. 10.
+
+O CMDRS elaborará seu Regimento Interno, para regular o seu funcionamento.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 12.
+
+Fica revogada a Lei n.º 3.215, de 2 de outubro de 2012.
+
+
+Congonhas, 23 de outubro de 2018.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

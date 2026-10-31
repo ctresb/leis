@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 836, de 19 de agosto de 1967"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "836"
+data: "1967-08-19"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/858"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1419/text"
+sha256_fonte: "003f4c3e253929f4f68272e6a4e82514bde34c34eecd7c24ebc48bdfb2a1f5e0"
+sha256_texto: "f94eb6c3720cce40f2120a3e35eca63b74537f563c87d49a53a6cf0e9abf5a52"
+capturado_em_fonte: "2026-10-27T19:28:12.754898-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 836, de 19 de agosto de 1967
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL.
+
+
+Eu, **MARIO CRÊM DOS SANTOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto, na Diretoria de Finanças - Seção de Contabilidade, um crédito adicional de NCr$ 213.296,71 (DUZENTOS E TREZE MIL, DUZENTOS E NOVENTA E SEIS CRUZEIROS NOVOS E SETENTA E UM CENTAVOS) suplementar às seguintes verbas do orçamento municipal vigente:
+
+
+<table><tbody><tr><th colspan="2">1. Poder Legislativo</th></tr><tr><td colspan="2">3.1.2.0.0.1 - Material de Consumo</td></tr><tr><td>01 - Impressos e materiais de escritório </td><td> NCr$ 200,00</td></tr><tr><td colspan="2">3.1.3.0.0.1 - Serviços de Terceiros</td></tr><tr><td>01 - Publicações e Publicidade </td><td> NCr$ 200,00</td></tr><tr><td>02 - Telefone e Telégrafo </td><td> NCr$ 200,00</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 5,20</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">2. Poder Executivo</th></tr><tr><td colspan="2">3.1.1.1.0.3 - Pessoal Civil</td></tr><tr><td>01 - Subsídio </td><td> NCr$ 669,33</td></tr><tr><td colspan="2">3.1.4.0.0.3 - Encargos Diversos</td></tr><tr><td>02 - Recepções, homenagens e hospedagens </td><td> NCr$ 200,00</td></tr><tr><td>03 - Despesas eventuais </td><td> NCr$ 1.700,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">3. Secretaria</th></tr><tr><td colspan="2">3.1.3.0.0.3 - Serviços de Terceiros</td></tr><tr><td>01 - Publicações e Publicidade </td><td> NCr$ 2.500,00</td></tr><tr><td>03 - Café, açúcar, etc </td><td> NCr$ 300,00</td></tr><tr><td colspan="2">3.1.4.0.0.3 - Encargos Diversos</td></tr><tr><td>01 - Despesas eventuais </td><td> NCr$ 500,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">4. Junta de Alistamento Militar</th></tr><tr><td colspan="2">3.1.1.1.0.3 - Pessoal Civil</td></tr><tr><td>01 - Vencimentos do Secretário da JAM </td><td> NCr$ 549,90</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 20,00</td></tr><tr><td colspan="2">Tiro de Guerra</td></tr><tr><td colspan="2">3.1.2.0.0.3 - Material de Consumo</td></tr><tr><td>01 - Impressos e materiais de escritório </td><td> NCr$ 700,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">5. Diretoria de Finanças</th></tr><tr><td colspan="2">3.1.1.1.0.3 - Pessoal Civil</td></tr><tr><td>A - Gabinete </td><td> NCr$ 917,20</td></tr><tr><td>B - Seção de Contabilidade </td><td> NCr$ 2.390,92</td></tr><tr><td>C - Seção da Tesouraria </td><td> NCr$ 2.965,82</td></tr><tr><td>D - Seção da Receita </td><td> NCr$ 3.734,52</td></tr><tr><td>E - Seção de Fiscalização </td><td> NCr$ 2.086,50</td></tr><tr><td colspan="2">3.1.2.0.0.3 - Material de Consumo</td></tr><tr><td>Materiais de escritório e impressos </td><td> NCr$ 4.000,00</td></tr><tr><td colspan="2">3.1.4.0.0.3 - Encargos Diversos</td></tr><tr><td>01 - Despesas de viagens, estadias, etc </td><td> NCr$ 300,00</td></tr><tr><td>02 - Despesas eventuais </td><td> NCr$ 300,00</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 244,40</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">6. Encargos Municipais</th></tr><tr><td colspan="2">3.1.3.0.0.3 - Serviços de Terceiros</td></tr><tr><td colspan="2">Executivos Fiscais</td></tr><tr><td>Pagamento de percentagens, custas e honorários de Advogado </td><td> NCr$ 5.000,00</td></tr><tr><td colspan="2">3.1.4.0.1.9 - Encargos Diversos</td></tr><tr><td>01 - Indenizações, restituições e reposições </td><td> NCr$ 500,00</td></tr><tr><td colspan="2">3.2.1.5.0.7 - Instituições Privadas</td></tr><tr><td>03 - Para a Fundação da Casa Popular </td><td> NCr$ 15.000,00</td></tr><tr><td colspan="2">3.2.1.5.8.5 - Instituições Privadas</td></tr><tr><td>07 - Aquisições de caixões mortuários para indigentes </td><td> NCr$ 1.000,00</td></tr><tr><td>08 - Chapas radiográficas, medicamentos,etc., para indigentes </td><td> NCr$ 2.000,00</td></tr><tr><td colspan="2">3.2.3.0.8.2 - Inativos</td></tr><tr><td>01 - Vencimentos do Pessoal aposentado </td><td> NCr$ 23.170,66</td></tr><tr><td colspan="2">3.2.8.0.8.1 - Contribuição Previdência Social</td></tr><tr><td>01 - Contribuição ao Instituto Nacional de Previdência Social </td><td> NCr$ 25.120,62</td></tr><tr><td colspan="2">4.3.5.4.0.5 - Entidades Privadas</td></tr><tr><td>02 - Auxílio à Polícia Mirim </td><td> NCr$ 100,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">7. Educação e Cultura</th></tr><tr><td colspan="2">3.1.3.0.6.0 - Serviços de Terceiros</td></tr><tr><td>03 - Outras despesas </td><td> NCr$ 500,00</td></tr><tr><td colspan="2">3.2.1.4.6.1 - Instituições Municipais</td></tr><tr><td>05 - Telefones rurais - mensalidades </td><td> NCr$ 2.200,00</td></tr><tr><td colspan="2">3.2.1.0.6.4 - Subvenções Sociais</td></tr><tr><td>01 - Prêmios culturais e bolsas de estudo </td><td> NCr$ 2.000,00</td></tr><tr><td colspan="2">Órgãos Culturais</td></tr><tr><td colspan="2">3.1.2.0.6.7 - Material de Consumo</td></tr><tr><td>02 - Outras despesas </td><td> NCr$ 100,00</td></tr><tr><td colspan="2">3.2.1.5.6.5 - Instituições Privadas</td></tr><tr><td>D - Para aluguel do salão de ensaio da Corporação Musical Maestro Antonio Passarelli </td><td> NCr$ 430,80</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">8. Saúde</th></tr><tr><td colspan="2">3.2.1.5.7.3 - Instituições Privadas</td></tr><tr><td>01 - Auxílio à Maternidade e Infância </td><td> NCr$ 300,00</td></tr><tr><td colspan="2"> </td></tr><tr><th colspan="2">9. Obras e Melhoramentos Públicos Diretoria de Obras, Viação e Dependências</th></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 70,00</td></tr><tr><td colspan="2">Serviços de Conservação de Vias Públicas</td></tr><tr><td colspan="2">3.1.2.0.9.5 - Material de Consumo</td></tr><tr><td>01 - Cal, cimento, gasolina, etc </td><td> NCr$ 15.000,00</td></tr><tr><td colspan="2">Serviços das Vias e Rodovias</td></tr><tr><td>3.1.1.1.4.9 - Pessoal Civil </td><td> NCr$ 1.108,90</td></tr><tr><td>04 - Salários de Mensalistas e Diaristas </td><td> NCr$ 36.000,00</td></tr><tr><td colspan="2">Serviços de Cemitérios</td></tr><tr><td colspan="2">3.1.1.1.9.8 - Pessoal Civil</td></tr><tr><td>01 - Salários de Mensalistas e Diaristas</td><td> NCr$ 1.801,80</td></tr><tr><td colspan="2">Fábrica de Tubos</td></tr><tr><td colspan="2">3.1.1.1.9.9 - Pessoal Civil</td></tr><tr><td>01 - Vencimentos do Chefe </td><td> NCr$ 361,40</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 50,00</td></tr><tr><td colspan="2">Serviços de Transporte e Almoxarifado</td></tr><tr><td colspan="2">3.1.1.1.9.9 - Pessoal Civil</td></tr><tr><td>01 - Vencimentos do Almoxarife </td><td> NCr$ 533,00</td></tr><tr><td colspan="2">3.1.4.0.9.9 - Encargos Diversos</td></tr><tr><td>01 - Despesas de viagens, estadias, a serviço </td><td> NCr$ 500,00</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 6,20</td></tr><tr><td colspan="2">Oficina Mecânica</td></tr><tr><td colspan="2">3.1.1.1.9.9 - Pessoal Civil</td></tr><tr><td>01 - Vencimentos do Chefe </td><td> NCr$ 666,90</td></tr><tr><td>02 - Salários de Mensalistas e Diaristas </td><td> NCr$ 2.600,79</td></tr><tr><td colspan="2">3.1.4.0.9.9 Encargos Diversos</td></tr><tr><td>01 - Despesas eventuais </td><td> NCr$ 100,00</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 20,00</td></tr><tr><td colspan="2">Serviços de Água e Esgoto</td></tr><tr><td>3.1.1.1.9.2 - Pessoal Civil </td><td> NCr$ 10.870,70</td></tr><tr><td>08 - Salários de Mensalistas e Diaristas </td><td> NCr$ 5.336,50</td></tr><tr><td colspan="2">3.1.2.0.9.2 - Material de Consumo</td></tr><tr><td>02 - Material para ligação de água e esgoto </td><td> NCr$ 2.000,00</td></tr><tr><td colspan="2">3.1.3.0.9.2 - Serviços de Terceiros</td></tr><tr><td>01 - Energia elétrica para as bombas, etc </td><td> NCr$ 11.000,00</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 18,80</td></tr><tr><td colspan="2">Matadouro</td></tr><tr><td colspan="2">3.1.1.1.9.7 - Pessoal Civil</td></tr><tr><td>01 - Vencimentos do Zelador </td><td> NCr$ 546,00</td></tr><tr><td>03 - Salários de Mensalistas e Diaristas </td><td> NCr$ 105,75</td></tr><tr><td colspan="2">3.2.o.o.B.3 - Transferências Correntes</td></tr><tr><td>Salário-família </td><td> NCr$ 50,00</td></tr><tr><td colspan="2">Iluminação Pública</td></tr><tr><td colspan="2">3.1.3.0.9.4 - Serviços de Terceiros</td></tr><tr><td>01 - Fornecimento de energia elétrica </td><td> NCr$ 22.444,10</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O presente crédito será coberto com os recursos provenientes do excesso de arrecadação previsto para o exercício em curso e do produto de operações de crédito que o Executivo Municipal fica autorizado a realizar, elevado o limite legal dessas operações da percentagem necessária à execução desta lei.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos dezenove de agosto de mil novecentos e sessenta e sete.
+
+**MARIO CRÊM DOS SANTOS Prefeito Municipal**
+
+Publicada na Seção do Expediente e do Pessoal da Prefeitura, aos dezenove de agosto de mil novecentos e sessenta e sete, e por Edital, afixado no local de costume.
+
+**SALVADOR GIAMPIETRO Assistente Administrativo da Seção de Expediente e do Pessoal da Prefeitura**
+

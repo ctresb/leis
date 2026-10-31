@@ -1,0 +1,148 @@
+{
+  "estado": "indice_completo",
+  "total": 13,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/lei_3558.25_anexo_cips_protocolo_assinado.pdf da norma LEI ORDINÁRIA-E.M. nº 3.558, de 04 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2025/1/lei_3558.25_anexo_cips_protocolo_assinado.pdf",
+      "ano": 2025,
+      "norma": 818
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/ata_011_2026_7a_sessao_ordinaria_23_03_26.pdf da norma DECRETO LEGISLATIVO-C.M. nº 1, de 24 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão onde o Decreto foi votado.",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2026/2/ata_011_2026_7a_sessao_ordinaria_23_03_26.pdf",
+      "ano": 2026,
+      "norma": 878
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/ata_017_2025_9a_sessao_ordinaria_07_04_25.pdf da norma DECRETO LEGISLATIVO-C.M. nº 1, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão onde o Decreto foi votado.",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2025/3/ata_017_2025_9a_sessao_ordinaria_07_04_25.pdf",
+      "ano": 2025,
+      "norma": 673
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/ata_031_2024_23a_sessao_ordinaria_12_08_24.pdf da norma DECRETO LEGISLATIVO-C.M. nº 2, de 13 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2024/4/ata_031_2024_23a_sessao_ordinaria_12_08_24.pdf",
+      "ano": 2024,
+      "norma": 639
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/ata_007_2024_3a_sessao_ordinaria_19_02_24.pdf da norma DECRETO LEGISLATIVO-C.M. nº 1, de 19 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2024/5/ata_007_2024_3a_sessao_ordinaria_19_02_24.pdf",
+      "ano": 2024,
+      "norma": 621
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/ata_029_2023_21a_sessao_ordinaria_14_08_23.pdf da norma DECRETO LEGISLATIVO-C.M. nº 1, de 14 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2023/6/ata_029_2023_21a_sessao_ordinaria_14_08_23.pdf",
+      "ano": 2023,
+      "norma": 601
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/ata_018_2021_-_10a_sessao_ordinaria_12_04_21.pdf da norma DECRETO LEGISLATIVO nº 1, de 15 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2021/7/ata_018_2021_-_10a_sessao_ordinaria_12_04_21.pdf",
+      "ano": 2021,
+      "norma": 47
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/8/ata_058_2020_40a_sessao_ordinaria_14_12_2020.pdf da norma DECRETO LEGISLATIVO nº 4, de 15 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2020/8/ata_058_2020_40a_sessao_ordinaria_14_12_2020.pdf",
+      "ano": 2020,
+      "norma": 46
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/ata_023_2020_17a_sessao_ordinaria_01_06_2020.pdf da norma DECRETO LEGISLATIVO nº 3, de 03 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2020/9/ata_023_2020_17a_sessao_ordinaria_01_06_2020.pdf",
+      "ano": 2020,
+      "norma": 45
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/10/ata_009_2020_8a_sessao_ordinaria_23_03_2020.pdf da norma DECRETO LEGISLATIVO nº 2, de 23 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2020/10/ata_009_2020_8a_sessao_ordinaria_23_03_2020.pdf",
+      "ano": 2020,
+      "norma": 44
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/11/ata_004_2020_3a_sessao_ordinaria_17_02_2020.pdf da norma DECRETO LEGISLATIVO nº 1, de 17 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2020/11/ata_004_2020_3a_sessao_ordinaria_17_02_2020.pdf",
+      "ano": 2020,
+      "norma": 43
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/12/ata_050_2019_de_11_11_19.pdf da norma DECRETO LEGISLATIVO nº 2, de 12 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2019/12/ata_050_2019_de_11_11_19.pdf",
+      "ano": 2019,
+      "norma": 42
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/13/lei_3626.26_revisao_pmsb_entre_rios.anexo..pdf da norma LEI ORDINÁRIA-E.M. nº 3.626, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.entreriosdooeste.pr.leg.br/media/sapl/public/anexonormajuridica/2026/13/lei_3626.26_revisao_pmsb_entre_rios.anexo..pdf",
+      "ano": 2026,
+      "norma": 899
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.entreriosdooeste.pr.leg.br/3b56daa3e1fad5d88e26c8ad84cf0849c7b106760b21ba8abf56d8eee4dcc78a.json",
+      "url": "https://sapl.entreriosdooeste.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.entreriosdooeste.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f277fcbd0ad9d35fbc3c4e3b71184cf97c5ca1678b819e90d42649279b1ad6bc",
+      "bytes": 5936,
+      "capturado_em": "2026-10-28T10:28:07.098088-03:00"
+    }
+  ]
+}

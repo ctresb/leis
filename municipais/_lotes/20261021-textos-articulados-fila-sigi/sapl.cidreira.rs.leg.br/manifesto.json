@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cidreira.rs.leg.br",
+  "metadados_unicos_observados": 5,
+  "total_api_declarado": 5,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cidreira.rs.leg.br/a698526bb66b849bfee0e8d88de7e5d5b3ea47b88a565a39aad875ef097c39cb.json",
+    "url": "https://sapl.cidreira.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cidreira.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7e1b603c836b07c085767090cf9813bcea3fdd7d0c4abb30b480a418f8dee103",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:42:11.873671-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cidreira.rs.leg.br/4ab75bba6fcb6336b871b8bf9ecd84d0ac7937b25c5acf846720f1b879f7bebb.json",
+    "url": "https://sapl.cidreira.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cidreira.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "dd3fbdc65e2c94d8ba7292db080b6a011ade06db365de0ea475dbb90d3bf7f33",
+    "bytes": 753,
+    "capturado_em": "2026-10-27T22:42:10.978091-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cidreira.rs.leg.br/fd935193c541f1452ed3927a7eb882ea9001449c8e50c5923dbe11cdc3bfbc8b.json",
+      "url": "https://sapl.cidreira.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cidreira.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7c93fb344a9c72e1b5f04b907e1c7d81cb28f987c1215ef529fb4aa7d3f7f5cf",
+      "bytes": 3448,
+      "capturado_em": "2026-10-27T22:42:13.931434-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

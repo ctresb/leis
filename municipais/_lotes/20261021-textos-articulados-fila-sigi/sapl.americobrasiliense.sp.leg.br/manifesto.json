@@ -1,0 +1,42 @@
+{
+  "host": "sapl.americobrasiliense.sp.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.americobrasiliense.sp.leg.br/5319eae8a698230ded874afc39f7cdcdd9b52a4dc12389bb8176724a49625d8e.json",
+    "url": "https://sapl.americobrasiliense.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.americobrasiliense.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "326f65a5c879aee7bbe531e00e78b4beb9f945f48764d7b7fe3e6f613cd9a45c",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T05:38:08.481598-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.americobrasiliense.sp.leg.br/560e90ee64d2dd098ef62cc56d868072257ddefa9faf574bad3dcb534fd9c3f1.json",
+    "url": "https://sapl.americobrasiliense.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.americobrasiliense.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "df2f7743f1785c82107274d5ab8c6da3fca395f5f3ef3a4a1f2d1a34baded436",
+    "bytes": 802,
+    "capturado_em": "2026-10-21T05:38:07.272454-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.americobrasiliense.sp.leg.br/14362968650f9c0216f2386fe79800f7339aaca89185d4772ccaba00a660de3a.json",
+      "url": "https://sapl.americobrasiliense.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.americobrasiliense.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "08693dd2425bd2e8dd943fcb57b86f4e5250d760c72fe0af5bc456bebe4b210e",
+      "bytes": 869,
+      "capturado_em": "2026-10-21T05:38:10.279202-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

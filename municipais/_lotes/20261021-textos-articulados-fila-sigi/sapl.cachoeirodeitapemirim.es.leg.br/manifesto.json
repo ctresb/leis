@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cachoeirodeitapemirim.es.leg.br",
+  "metadados_unicos_observados": 3,
+  "total_api_declarado": 3,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirodeitapemirim.es.leg.br/e760b2688523f9fb8dce69b0b4657cfcb941b65c1c63d062d9e53c330b5eabd1.json",
+    "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "dece0fcdb22486a4bc3c74a8e0760bed94f275a9f4988eddc64b0eb1ec3b822a",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T21:04:13.630220-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirodeitapemirim.es.leg.br/f81ecee66ff9e0fb3f22ffcf2c4db25acc4ee650ad76417f5cc200296e27076a.json",
+    "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "98c413c964d249de6ddcc0ed9ecedb0f0c9f67b3eeef5b500864af7a821bf59d",
+    "bytes": 1034,
+    "capturado_em": "2026-10-27T21:04:12.817931-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirodeitapemirim.es.leg.br/7669797c25e59044f3e998f55b1c38a2fcaf99488549fea4089dd3b64f93d014.json",
+      "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fab7e00b4ef10988c6aa9e115769bd80fb24adb6a8a4e429eb368c0a82b1bc00",
+      "bytes": 2029,
+      "capturado_em": "2026-10-27T21:04:15.638031-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

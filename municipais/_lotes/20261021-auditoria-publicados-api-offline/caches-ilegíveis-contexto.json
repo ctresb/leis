@@ -1,0 +1,32 @@
+[
+  {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/5f835735aaedf06a3f343c834003d20406d12024f049ecc51b46a62f715c177e.json",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/5f835735aaedf06a3f343c834003d20406d12024f049ecc51b46a62f715c177e.meta.json",
+    "sha256_metadata": "1bca38b021a9daed30dc7521832f1de503593a3a7d8cf7bfe286269ca30f4f09",
+    "status": 404,
+    "url": "https://sapl.fortaleza.ce.leg.br/api/norma/normajuridica/293/",
+    "capturado_em": "2026-10-21T03:41:07.221888-03:00",
+    "norma_identificada_em_head": false
+  },
+  {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/15b89cc79f93b1635ab75e8d93db6afc9cb02f788dcdc89fc42b61fba8261843.json",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/15b89cc79f93b1635ab75e8d93db6afc9cb02f788dcdc89fc42b61fba8261843.meta.json",
+    "sha256_metadata": "f58278c6dac83d689bba2babc1797e2ab03da75388f309af58780aad2707d5cb",
+    "status": 404,
+    "url": "https://sapl.portovelho.ro.leg.br/api/norma/normajuridica/26770/",
+    "capturado_em": "2026-10-21T04:17:50.529621-03:00",
+    "norma_identificada_em_head": false
+  },
+  {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/33891872a6e3bdfb3be1a82a0c715f69b0d6a4a1ef52f47018a4e7659b113333.json",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/33891872a6e3bdfb3be1a82a0c715f69b0d6a4a1ef52f47018a4e7659b113333.meta.json",
+    "sha256_metadata": "76c966e349f63960690bb11be653d3df86f9d64386da543549958011f1210d6b",
+    "status": 404,
+    "url": "https://sapl.portovelho.ro.leg.br/api/norma/normajuridica/29875/",
+    "capturado_em": "2026-10-20T22:19:58.225033",
+    "norma_identificada_em_head": false
+  }
+]

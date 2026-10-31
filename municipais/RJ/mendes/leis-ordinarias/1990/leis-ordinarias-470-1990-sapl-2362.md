@@ -1,0 +1,193 @@
+---
+titulo: "Lei Municipal nº 470, de 13 de março de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Municipal"
+numero: "470"
+data: "1990-03-13"
+municipio: "Mendes"
+uf: "RJ"
+codigo_ibge: "3302809"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.mendes.rj.leg.br/norma/2362"
+fonte_texto: "https://sapl.mendes.rj.leg.br/media/sapl/public/normajuridica/1990/2362/lei_municipal_470-1990.pdf"
+sha256_fonte: "e3eb4c4c0383910e6c70fe59a7fe13d3f723b5227d0ed725a630ffb12f6f4387"
+sha256_texto: "44c50056f0a9320394f394a63ef421015ea25fbd6434ad71924d89edd45f8c4f"
+baixado_em: "2026-10-20"
+---
+
+# Lei Municipal nº 470, de 13 de março de 1990
+
+CÁMARA MUNICIPAL DE MENDES
+
+LEI MUNICIPAL No 159 DE ;; DE uwapÇO DE 1990.
+
+EMENTA: Autoriza abertura de Crédito Adicional Suplementar.
+
+A CÂMARA MUNICIPAL DE MENDES, por seus represen
+
+tantes legais aprova e eu sanciono a presente Lei:
+
+**Art. 1o** — Fica o Chefe do Executivo Municipal \*'
+
+autorizado a abrir Crédito Adicional Suplementar na importância de NCZ$18.270.000,00 (dezoito milhões, duzentos e setenta cruzados no
+
+vos) para reforço das seguintes Dotações Orçamentárias: PROGRAMA DE TRABALHO NATUREZA DA DESPESA FONTE VALOR
+
+01010012.001 1001. 3111.00 oO 715.000,00
+
+01010212,002 1001.3111.,00 oo 100.000,00
+
+01010212,.002 1001 .3120.00 [919 100.000,00 01010212.002 1001 .3131.00 [91 80.000,00
+
+01010212.002 1001..3132.00 oO 130.000,00 01010212 .002 1001..4120.00 oO 25.000,00
+
+03070202.002 2001.3111.00 (1) 200.000,00
+
+03070202.002 2001 .3131.00 oO 10.000,00
+
+03070202.002 2001 .3132.00 oo 30.000,00
+
+03653632.004 2001..3111.00 oO 100.000,00
+
+06070212.005 2001 .3111.00 oO 50.000,00
+
+03070212.002 2002. 3111.00 oO 100.000,00
+
+03070212.002 2002.3111.00 oL 200.000,00
+
+03070212.002 2002. 3120.00 oo 10.000,00
+
+03080212.002 2003. 3111.00 oo 200.000,00
+
+03080212.002 2003. 3111.00 ol 300.000,00
+
+03080212.002 2003.3113.00 oo 200.000,00
+
+03080212.002 2003. 3113.00 ol 500.000,00
+
+03080212.002 2003.3120.00 oo 20.000,00
+
+03080212.002 2003.3132.00 oo 50.000,00
+
+03080212.002 2003.4120.00 oL 50.000,00
+
+E NADO END
+
+CÁMARA MUNICIPAL DE MENDES 15824942.007 200 3.3253.00 oo 50.000,00 15824952.008 2003.3251.00 oL 200 . 000,00
+
+15824952.008 2003.3252.00 oo 50.000,00
+
+15844942.009 2003.3280.00 oo 50.000,00 15844942.009 2003.3280.00 oL 230.000,00
+
+10070212.002 2004,3111.00 (1) . 500000,00 10070212,.002 2004. 3111.00 o1L 1.000.000,00
+
+10070212.002 2004 .3120.00 oO 100.000,00
+
+10070212.002 2004.3131.00 oO 20.000,00
+
+10070212.002 2004 ,.3132.00 oO 200 . 000 , 00
+
+10070212.002 2004.3132.00 oL 600. 000,00
+
+1007021.2.002 2004.4120.00 o 50.000,00 10764471 .002 2004.3120.00 oL 500.000,00 10764471..002 2004 .4110.00 OO 200.000,00
+
+10764471.002 2004 .4110.00 o1 400.000,00 10764481.003 2004 ,42110.00 ol 100.000,00
+
+10764491.004 2004 .4110.00 00 20.000,00
+
+10764491 .004 2004.4110.00 o1L 100.000,00
+
+10915751.005 2004.4110.00 [919] 200 . 000,00
+
+10915751.005 2004.4110.00 oL 500.000,00 08421882.002 2005.3111.00 oo 500.000,00 08421882.002 2005.3111.00 o1L 1.000.000,00
+
+08421882.002 2005.3113.00 oO 200 . 000,00
+
+08421882.002 2005.3113.00 oL 0 . 000,00
+
+08421882.002 2005 .3120.00 oO 300.000,00
+
+08421882.002 2005.3120.00 ol 500.000,00
+
+08421882.002 2005 .3131.00 00 100.000,00
+
+08421882.002 2005 .3132.00 oo 100.000,00
+
+08421882.002 2005.4120.00 oo 200.000,00
+
+08421882.002 2005 .4120.00 oL . 400000, 00
+
+08421881.006 2005.4110.00 oo 300.000,00
+
+08421881.006 2005.4110.00 oL . 400000,00 08422352.011 2005.3132.00 oO 100.000,00
+
+HenDE
+
+CÁMARA MUNICIPAL, DE MENDES 08422352.011 oL 200.000,00
+
+08432352.012 2005.3132.00 oO 80.000,00 08432352.012 2005.3132.00 oL 150.000,00 08462281.007 2005.4110.00 oL 50.000,00
+
+08482472.013 2005.3120.00 [019] 50.000,00 08482472.013 2005.4120.00 00 50.000,00
+
+08482472.013 2005.4120.00 oL 100.000,00
+
+08482472.014 2005.3120.00 oo 10.000,00 08482472.014 2005.4120.00 oo 50.000,00
+
+08482472.014 2005.4120.00 ol 30.000,00
+
+15824942.007 2005.3253.00 oO 20.000,00 15824952.015 2005 .3251.00 oL 200.000,00
+
+1307021.2.002 2006.3111.00 oo 150.000,00
+
+1307021.2.002 2006.3111.00 OL 250.000,00
+
+13070212.002 2006.3131.00 oo 10.000,00
+
+13600251.008 2006.4110.00 oo 30.000,00
+
+13600251 .008 2006.4110.00 oL 50.000,00
+
+16070212.002 2007.3111.00 oo 200.000,00
+
+16070212.002 2007.3111.00 oL 400.000,00
+
+16070212.002 2007.3120.00 oo 500.000,00
+
+16070212.002 2007.3120.00 01 1.000.000,00
+
+16070212.002 2007 .3131.00 00 50.000,00
+
+16070212.002 2007.3132.00 oo 100.000,00
+
+16070212.002 2007.3132.00 ol 200.000,00 16070212.002 2007.4120.00 00 200.000,00
+
+16070212.002 2007.4120.00 01 1.500.000,00
+
+TOPAL assecessnaanacscaacrae eternas 15,270.000,00
+
+**Art. 2o** - Os recursos para atendimento do Crédi to Adicional Suplementar previsto no artigo anterior ficam à conta do provável excesso de arrecadação a se verificar no exercício fi- nanceiro corrente, como segue:
+
+Arrecadação do 1o período (01.01 a 23.02.90) 5.328.885,13
+
+=o HENDE
+
+Arrecadação prov£áMARA MUNICIPAL DE MENDES
+
+(01.01 a 31.12.90) 13.000.000,00 2) Cáloulo para obtenção da Arrecadação Média Mensal. ANM= Arrecsdação do 1o perfodo : por 2 (meses do períoão) As 5.328.685,13 :; 2 = 2.664.442,57
+
+b) Cáloulo para obtenção de Arrecadação provável do segun- ào período AP= AMNM X 10 = (meses do perícão) AP = 2.664.442,57 X 10 = 26.,644.425,7O
+
+e) Cáloulo de Excesso de Arrecadação provável de 1990, segundo & média: 1- Feceita prevista para 1990 13.000.000,00
+
+2= Arrecadação provável de 1990:: 2) Arrecadação do dia 01.01 a 23.02.90 5.328.885,13 vp) Arrecadação do dia 24.03 a 31.12.90 26.644.425,70 POPAL asecesnenenceaceraaeracectcrçasss 31.973.310,83 3- Excesso de arrecadação provável: Diferença entre arrecadação provável e a Receita prevista 18.973.310,83
+
+MENOS: — Créditos Adicionais Suplementares abertos etravés das Leis no 466, 467, 468 e 469 de 02/03/89. 200000 449.131,99 Excesso provável disponível i.... 168.524.178,84 Utilizado nesta Lei:
+
+a) Recursos Próprios 6.810.000,00
+
+b) Recursos do F.P.M. 11.460.000,00 18.270.000,00 Saldo Disponível ..«cccoccecec caneca sceceacescaçees — 254.178,84
+
+**Art. 3o** — Cota Lei entrará em vigor, na data de ma publicação, revogadas as disposíções em contrário, GABINETE DO PREFEITO MUNICIPAL DE MENDES ,,
+
+de 1990,
+

@@ -1,0 +1,97 @@
+{
+  "estado": "indice_completo",
+  "total": 8,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/lom.pdf da norma LEI ORGÂNICA MUNICIPAL nº 1, de 03 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/1990/1/lom.pdf",
+      "ano": 1990,
+      "norma": 10
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/anexos-da-lei-municipal-1218-de-10-de-dezembro-2020.pdf da norma LEI ORDINÁRIA nº 1.218, de 10 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/2020/2/anexos-da-lei-municipal-1218-de-10-de-dezembro-2020.pdf",
+      "ano": 2020,
+      "norma": 11
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/3/lei_935-2009.pdf da norma LEI ORDINÁRIA nº 935, de 09 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/2009/3/lei_935-2009.pdf",
+      "ano": 2009,
+      "norma": 249
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/4/lei_869.pdf da norma LEI ORDINÁRIA nº 869, de 24 de outubro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/2006/4/lei_869.pdf",
+      "ano": 2006,
+      "norma": 185
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/5/precedente-regimental-001-2024-publicacao-fecam.pdf da norma REGIMENTO INTERNO nº 1.807, de 02 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "O Presidente, de ofício, fará reconstituir e tramitar a proposição que foi devolvida, por decisão soberana do plenário, ao autor, em razão de vícios encontrados durante as discussões, após retornar a esta Casa Legiferante.",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/2016/5/precedente-regimental-001-2024-publicacao-fecam.pdf",
+      "ano": 2016,
+      "norma": 1
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/6/ricma-publicacao-original.pdf da norma REGIMENTO INTERNO nº 1.807, de 02 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Texto  original do REGIMENTO INTERNO publicado no Diário Oficial das Câmaras Municipais do Estado do Rio Grande do Norte - FECAMRN - Edição de 12 de dezembro de 2016 - Ano 2016 - Nº 0022",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/2016/6/ricma-publicacao-original.pdf",
+      "ano": 2016,
+      "norma": 1
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/7/lei-organica-municipal-publicacao-2016.pdf da norma LEI ORGÂNICA MUNICIPAL nº 1, de 03 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Lei Orgânica Municipal",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/1990/7/lei-organica-municipal-publicacao-2016.pdf",
+      "ano": 1990,
+      "norma": 10
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/mpdf_18.pdf da norma RESOLUÇÃO-MD nº 1, de 14 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alexandria.rn.leg.br/media/sapl/public/anexonormajuridica/2026/9/mpdf_18.pdf",
+      "ano": 2026,
+      "norma": 535
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alexandria.rn.leg.br/2821b091600f976707b94882a4c6df532fb2afcec6634f6666e369d2bebca6b2.json",
+      "url": "https://sapl.alexandria.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cfd0cf2ff341de829d7637ac532f5e445d2612a40776164addc2cc35d984c701",
+      "capturado_em": "2026-10-20T20:50:28.037044",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.alexandria.rn.leg.br/2821b091600f976707b94882a4c6df532fb2afcec6634f6666e369d2bebca6b2.json"
+    }
+  ]
+}

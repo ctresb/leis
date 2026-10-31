@@ -1,0 +1,325 @@
+---
+titulo: "Lei nº 1.010, de 06 de janeiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1010"
+data: "2014-01-06"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2018-07-12; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1011"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1524/text"
+sha256_fonte: "4737e76c1d6de46c756fb516144f7fd6dc2e75b5b02abda99201132ed7d1b9b9"
+sha256_texto: "8e74d296e5be07fe9b946054f96ea34444ca0928a8f04a6e94ace99acee41b8c"
+capturado_em_fonte: "2026-10-21T06:19:37.898509-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.010, de 06 de janeiro de 2014
+
+Cria o Conselho Municipal de Direitos da Mulher e dá outras providências
+
+
+Faço saber que a Cãmara Municipal de Amontada decreta e eu, Prefeito do Município de Amontada, Estado do Ceará sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Direitos da Mulher - CMDM, órgão consultivo e deliberativo, vinculado a Secretaria de Trabalho e Desenvolvimento Social- STDS, com a finalidade de propor diretrizes gerais de ações governamentais que garantam a igualdade de oportunidades e de direitos entre homens e mulheres deste Município, em todas as esferas da administração municipal, de forma a assegurar à população feminina o pleno exercício de sua cidadania.
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal de Direitos da Mulher:
+
+
+I –
+
+Atuar no controle social das políticas públicas em prol das mulheres no Município.
+
+
+II –
+
+Estimular, apoiar e desenvolver estudos e debates das condições de vidas das mulheres do município, visando eliminar todas as formas de discriminação e violência.
+
+
+III –
+
+Fiscalizar e exigir o cumprimento da legislação em vigor relacionada aos direitos assegurados às mulheres.
+
+
+IV –
+
+Receber, analisar denúncias de toda sorte de discriminação e violência contra mulheres e encaminha - las aos órgãos competentes para providencias efetivas e acompanhar os procedimentos pertinentes.
+
+
+V –
+
+Manter canais permanentes de relação com o movimento e grupos de mulheres, apoiando o desenvolvimento de suas atividades, sem interferir no conteúdo e orientação das mesmas.
+
+
+VI –
+
+Encaminhar sugestões de projetos de leis para o Poder Executivo, ou Legislativo.
+
+
+VII –
+
+Estabelecer intercâmbio com entidades afins.
+
+
+VIII –
+
+Organizar junto com as Coordenadorias ou Secretarias Municipais as Conferências Municipais de Mulheres.
+
+
+IX –
+
+Criar comissões e grupos temáticos, quando se fizer necessário, para estudos e analise de questões referentes às mulheres.
+
+
+X –
+
+Promover e divulgar os instrumentos internacionais dos quais o Brasil é signatário, que tratam dos direitos humanos das mulheres.
+
+
+XI –
+
+Promover seminários e encontros municipais sobre os temas importantes para as mulheres do Município.
+
+
+XII –
+
+Estabelecer critérios para a aplicação dos recursos do Fundo Especial dos Direitos da Mulher.
+
+
+Art. 3º.
+
+O Conselho Municipal dos Direitos da Mulher terá a seguinte estrutura:
+
+
+I –
+
+Colegiado;
+
+
+II –
+
+Presidente;
+
+
+III –
+
+Vice-Presidente;
+
+
+IV –
+
+Secretária Executiva.
+
+
+Art. 4º.
+
+O colegiado, órgão máximo de deliberação do Conselho é constituído de 18 (dezoito) conselheiras titulares e 18 (dezoito) suplentes, sendo 9 (nove) representantes do Poder Público, com suas suplentes e 9 (nove) Sociedade Civil, com suas suplentes. Todas com mandato de 2 (dois) anos, sendo permitida a recondução pelo mesmo período.
+
+Alteração feita pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+§ 1º
+
+Terão representação no Conselho as seguintes secretarias e autarquia, cujos secretários indicarão das seguintes pastas:
+
+
+a)
+
+Secretaria do Trabalho e Desenvolvimento Social - STDS;
+
+Alteração feita pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+b)
+
+Secretaria de Educação;
+
+Alteração feita pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+c)
+
+Secretaria de Saúde;
+
+
+d)
+
+Secretaria de Turismo;
+
+Alteração feita pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+e)
+
+Secretaria de Agricultura;
+
+Alteração feita pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+f)
+
+Secretaria de Desenvolvimento Econômico e Relações Institucionais;
+
+
+g)
+
+Secretaria de Cultura, Esporte e Lazer - SECEL;
+
+Alteração feita pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+h)
+
+Autarquia do Meio Ambiente;
+
+
+i)
+
+Gabinete do Prefeito.
+
+Alteração feita pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 1.180, de 12 de julho de 2018.
+
+
+§ 2º
+
+As representantes do poder publico, e suas suplentes serão indicadas dentre aquelas que tenham envolvimento com as questões de gênero, seja pela militância, seja pela produção de estudos e pesquisas, seja pela atuação relevante em relação aos direitos das mulheres.
+
+
+§ 3º
+
+Terão representação no Conselho pela sociedade civil:
+
+
+a)
+
+Sindicato dos Trabalhadores Rurais - STR;
+
+
+b)
+
+Sindicato dos Trabalhadores da Agricultura Familiar - SINTRAF;
+
+
+c)
+
+Sindicato dos Servidores Públicos - SINDSEP;
+
+
+d)
+
+Associação das Agentes Comunitárias de Saúde - Agente de Saúde- AASA;
+
+
+e)
+
+Associação de Pescadores;
+
+
+f)
+
+Associação Artesã;
+
+
+g)
+
+Outras Organizações Não Governamentais - ONGs;
+
+
+h)
+
+Entidades Religiosas;
+
+
+i)
+
+Assentamentos;
+
+
+j)
+
+Associações Comunitárias.
+
+
+§ 4º
+
+As representantes da sociedade civil, e suas suplentes deverão ter envolvimento com as questões de gênero, seja pela militância, seja pela produção de estudos e pesquisas, seja pela atuação relevante em relação aos direitos das mulheres e ou por terem liderança na comunidade, por uma Comissão composta para este fim pelo Colegiado.
+
+
+§ 5º
+
+O processo seletivo acima referido será aberto a todas as entidades e/ou grupos de mulheres que tenham objetivos relacionados às políticas de gêneros, ou mulheres que exercerem liderança na comunidade, devendo as vagas serem preenchidas a partir de critérios previamente definidos através de reuniões nas comunidades, para a representatividade da sociedade civil.
+
+
+§ 6º
+
+A função de Conselheira não será remunerada, mas, será considerado serviço público relevante.
+
+
+§ 7º
+
+A função de Presidente do conselho será por meio de votação entre os conselheiros, tendo que ter no mínimo 51% (cinquenta e um por cento) dos votos, observando que para dá quórum nas decisões deste conselho é necessário 1/3 de sua representação.
+
+
+Art. 5º.
+
+A Secretaria Executiva não será conselheira e será paga pela Prefeitura, sendo a responsável pela gerência do Conselho.
+
+
+Art. 6º.
+
+Nas primeiras reuniões do Conselho Municipal, será discutido e aprovado o Regimento Interno para seu pleno funcionamento.
+
+
+Art. 7º.
+
+A Secretaria de Trabalho e Desenvolvimento Social - STDS, adotará as providências necessárias à operacionalização e ao funcionamento do Conselho Municipal dos Direitos da Mulher, dotando - o, de condições físicas e meios de execução propícios ao atendimento de suas finalidades legais.
+
+
+Art. 8º.
+
+Fica criado o Fundo Especial do Conselho Municipal dos Direitos da Mulher, destinado a gerir recursos e financiar as atividades do Conselho, de acordo com o orçamento apresentado anualmente pelo Poder Executivo.
+
+
+Art. 9º.
+
+Constituirão o Fundo Especial mencionado, além da verba consignada no orçamento anual, doações de entidades não governamentais e verbas oriundas de convênios com órgãos da Administração Pública Direta e Indireta, Federal ou Estadual ou por designação judicial.
+
+
+Art. 10.
+
+O Conselho Municipal poderá solicitar ao Prefeito que sejam colocados a sua disposição servidores públicos municipais necessários ao atendimento de suas necessidades.
+
+
+Art. 11.
+
+O Conselho formalizará suas deliberações por meio de resoluções, as quais se dará a publicidade possível.
+
+
+Art. 12.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada-CE, aos 06 de janeiro de 2014.
+
+Paulo César dos Santos  
+**Prefeito Municipal**
+

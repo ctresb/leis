@@ -1,0 +1,94 @@
+Dispõe acerca da regulamentação do Fundo Municipal de Educação – Infraestrutura (FME-I), e transferência parcial de valores e ações existentes no Fundo Municipal de Educação, com o crédito especial para o fim que indica, e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica criada a Unidade Orçamentária “Fundo Municipal de Educação – Infraestrutura” (FME-I), vinculada à Secretaria Municipal da Educação (SME), instrumento financeiro para aplicação dos recursos destinados a ações referentes à aquisição, reforma e construção de instalações e equipamentos necessários ao ensino, em conformidade com o disposto no art. 70, inciso II, da Lei Federal nº 9.394, de 20 de dezembro de 1996
+
+
+Parágrafo único.
+
+O FME-I será gerido pelo Secretário Municipal da Educação, a quem fica autorizado a delegar competências, inclusive para outros órgãos ou entes, se necessário
+
+
+Art. 2º.
+
+Constituirão receitas da unidade orçamentária do Fundo Municipal de Educação – Infraestrutura (FME-I):
+
+
+I –
+
+os recursos oriundos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB) destinados às ações a que se refere o art. 1º desta Lei;
+
+
+II –
+
+os recursos recebidos para realização das ações a que se refere o art. 1º desta Lei, tais como os de que trata o art. 212 da Constituição Federal, de 1988;
+
+
+III –
+
+as doações, auxílios, contribuições, subvenções e transferências, de entidades nacionais e internacionais, organizações governamentais e não governamentais, pessoas físicas e jurídicas, recebidas para realização das ações a que se refere o art. 1º desta Lei;
+
+
+IV –
+
+o resultado de aplicações financeiras dos recursos da Unidade Orçamentária FME-I realizado na forma da lei;
+
+
+V –
+
+outras receitas que venham a ser legalmente instituídas.
+
+
+Art. 3º.
+
+Ficam acrescidos o § 3º ao art. 19 e o parágrafo único ao art. 20, ambos da Lei nº 9.317, de 14 de dezembro de 2007, com a seguinte redação:
+
+
+Art. 4º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a transferir parcialmente as ações e os valores indicados no Anexo I desta Lei, bem como anular parcialmente os recursos indicados no Anexo II.
+
+
+Art. 5º.
+
+Durante a execução orçamentária, o crédito autorizado poderá ser alterado, observando o disposto no art. 7º da Lei nº 10.841, de 26 de dezembro de 2018 (LOA 2019).
+
+
+Art. 6º.
+
+O ato que abre o crédito indicará o detalhamento da despesa em que serão alocados e cancelados os recursos.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário
+
+
+PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 18 de junho de 2019.  
+  
+  
+Roberto Cláudio Rodrigues Bezerra  
+PREFEITO MUNICIPAL DE FORTALEZA.
+
+
+## Anexo I — ORÇAMENTO FISCAL DO MUNICÍPIO
+
+**24000 – SECRETARIA MUNICIPAL DA EDUCAÇÃO**
+
+**24902 – FUNDO MUNICIPAL DA EDUCAÇÃO – INFRAESTRUTURA (FME-I)**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><p><strong>Classificação</strong></p><p><strong>Orçamentária</strong></p></td><td><p><strong>Descrição</strong></p></td><td><p><strong>Fonte</strong></p></td><td><p><strong>Investimento</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>368</p></td><td><p>Educação Básica</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0042</p></td><td><p>Desenvolvimento do Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>1224</p></td><td><p>Construção de Unidades Escolares – Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>12.368.0042.1224.0002</p></td><td><p>Construção de Unidades</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>150.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Escolares – Ensino Fundamental</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>3.000.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>3.150.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>368</p></td><td><p>Educação Básica</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0042</p></td><td><p>Desenvolvimento do Ensino</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>100.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Fundamental</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>10.000,00</strong></p></td></tr><tr><td><p>1229</p></td><td><p>Implantação de</p><p>Infraestrutura Esportiva</p><p>nas Escolas</p></td><td><p><strong>1.190.0000.00.00</strong></p></td><td><p><strong>100.000,00</strong></p></td></tr><tr><td><p>12.365.0052.1129.0008</p></td><td><p>Implantação de</p><p>Infraestrutura Esportiva</p><p>nas Escolas</p></td><td><p> </p></td><td><p><strong>210.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>365</p></td><td><p>Educação Infantil</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0052</p></td><td><p>Desenvolvimento do Ensino</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>1.000.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Infantil</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>2.000.000,00</strong></p></td></tr><tr><td><p>1229</p></td><td><p>Construção de Centro de Educação Infantil</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>12.365.0052.1229.0008</p></td><td><p>Construção de Centro de Educação Infantil</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>3.000.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>361</p></td><td><p>Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0193</p></td><td><p>Desenvolvimento da</p><p>Política de Educação em Tempo Integral</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>2.000.000,00</strong></p></td></tr><tr><td><p>1255</p></td><td><p>Construção de Escolas em Tempo Integral</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>3.000.000,00</strong></p></td></tr><tr><td><p>12.361.0193.1255.0007</p></td><td><p>Construção de Escolas em Tempo Integral</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>5.000.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>361</p></td><td><p>Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0193</p></td><td><p>Desenvolvimento da</p><p>Política de Educação em Tempo Integral</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>60.000,00</strong></p></td></tr><tr><td><p>1256</p></td><td><p>Adequação de Escolas Para</p><p>o Tempo Integral</p></td><td><p><strong>1.125.0000.01.00</strong></p><p><strong>1.190.0000.00.00</strong></p></td><td><p><strong>5.000,00</strong></p><p><strong>50.000,00</strong></p></td></tr><tr><td><p>12.361.0193.1256.0005</p></td><td><p>Adequação de Escolas Para</p><p>o Tempo Integral</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>115.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>368</p></td><td><p>Educação Básica</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0042</p></td><td><p>Desenvolvimento do Ensino</p><p>Fundamental</p></td><td><p><strong>1.111.0000.00.00</strong></p><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>40.000,00</strong></p><p><strong>100.00,00</strong></p></td></tr><tr><td><p>1226</p></td><td><p>Reforma e Ampliação de Unidades Escolares –</p><p>Ensino Fundamental</p></td><td><p><strong>1.190.0000.00.00</strong></p><p> </p></td><td><p><strong>400.000,00</strong></p><p> </p></td></tr><tr><td><p>12.365.0052.1126.0007</p></td><td><p>Reforma e Ampliação de Unidades Escolares –</p><p>Ensino Fundamental</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>540.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>365</p></td><td><p>Educação Infantil</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0052</p></td><td><p>Desenvolvimento do Ensino</p><p>Infantil</p></td><td><p><strong>1.111.0000.00.00</strong></p><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>30.000,00</strong></p><p><strong>200.000,00</strong></p></td></tr><tr><td><p>1252</p></td><td><p>Reforma e Ampliação de Centro de Educação Infantil</p></td><td><p><strong>1.190.0000.00.00</strong></p><p> </p></td><td><p><strong>200.000,00</strong></p><p> </p></td></tr><tr><td><p>12.365.0052.1252.0006</p></td><td><p>Reforma e Ampliação de Centro de Educação Infantil</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>430.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>122</p></td><td><p>Administração Geral</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0001</p></td><td><p>Gestão e Administração</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>1122</p></td><td><p>Reforma e Recuperação de Imóveis Públicos</p></td><td><p><strong>1.111.0000.00.00</strong></p><p> </p></td><td><p><strong>30.000,00</strong></p><p> </p></td></tr><tr><td><p>12.122.0001.1222.0003</p></td><td><p>Reforma e Recuperação de Imóveis Públicos</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>30.000,00</strong></p></td></tr></tbody><tbody><tr><td><p><strong>TOTAL GERAL</strong></p></td><td><p> </p></td><td><p> </p></td><td><p><strong>12.475.000,00</strong></p></td></tr></tbody></table>
+
+
+## Anexo II — ORÇAMENTO FISCAL DO MUNICÍPIO
+
+**24000 – SECRETARIA MUNICIPAL DA EDUCAÇÃO**
+
+**24901 – FUNDO MUNICIPAL DA EDUCAÇÃO**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><p><strong>Classificação</strong></p><p><strong>Orçamentária</strong></p></td><td><p><strong>Descrição</strong></p></td><td><p><strong>Fonte</strong></p></td><td><p><strong>Investimento</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>368</p></td><td><p>Educação Básica</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0042</p></td><td><p>Desenvolvimento do Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>1224</p></td><td><p>Construção de Unidades Escolares – Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>12.368.0042. 1224.0001</p></td><td><p>Construção de Unidades</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>150.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Escolares – Ensino Fundamental</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>3.000.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>3.150.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>365</p></td><td><p>Educação Infantil</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0052</p></td><td><p>Desenvolvimento do Ensino</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>1.000.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Infantil</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>2.000.000,00</strong></p></td></tr><tr><td><p>1229</p></td><td><p>Construção de Centro de Educação Infantil</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>12.365.0052.1229.0002</p></td><td><p>Construção de Centro de Educação Infantil</p></td><td><p> </p></td><td><p><strong>3.000.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>368</p></td><td><p>Educação Básica</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0042</p></td><td><p>Desenvolvimento do Ensino</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>100.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Fundamental</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>10.000,00</strong></p></td></tr><tr><td><p>1229</p></td><td><p>Implantação de</p><p>Infraestrutura Esportiva</p><p>nas Escolas</p></td><td><p><strong>1.190.0000.00.00</strong></p></td><td><p><strong>100.000,00</strong></p></td></tr><tr><td><p>12.365.0052.1129.0005</p></td><td><p>Implantação de</p><p>Infraestrutura Esportiva</p><p>nas Escolas</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>210.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>361</p></td><td><p>Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0193</p></td><td><p>Desenvolvimento da</p><p>Política de Educação em Tempo Integral</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>1255</p></td><td><p>Construção de Escolas em Tempo Integral</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>2.000.000,00</strong></p></td></tr><tr><td><p>12.361.0193.1255.0002</p></td><td><p>Construção de Escolas em Tempo Integral</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>3.000.000,00</strong></p><p> </p><p><strong>5.000.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>361</p></td><td><p>Ensino Fundamental</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0193</p></td><td><p>Desenvolvimento da</p><p>Política de Educação em Tempo Integral</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>60.000,00</strong></p></td></tr><tr><td><p>1256</p></td><td><p>Adequação de Escolas Para</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>5.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>o Tempo Integral</p></td><td><p><strong>1.190.0000.00.00</strong></p></td><td><p><strong>50.000,00</strong></p></td></tr><tr><td><p>12.361.0193. 1256.0001</p></td><td><p>Adequação de Escolas Para</p><p>o Tempo Integral</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>115.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>368</p></td><td><p>Educação Básica</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0042</p></td><td><p>Desenvolvimento do Ensino</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>40.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Fundamental</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>100.000,00</strong></p></td></tr><tr><td><p>1226</p></td><td><p>Reforma e Ampliação de Unidades Escolares –</p><p>Ensino Fundamental</p></td><td><p><strong>1.190.0000.00.00</strong></p></td><td><p><strong>400.000,00</strong></p></td></tr><tr><td><p>12.365.0052.1126.0006</p></td><td><p>Reforma e Ampliação de Unidades Escolares –</p><p>Ensino Fundamental</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>540.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>365</p></td><td><p>Educação Infantil</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0052</p></td><td><p>Desenvolvimento do Ensino</p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>30.000,00</strong></p></td></tr><tr><td><p> </p></td><td><p>Infantil</p></td><td><p><strong>1.125.0000.01.00</strong></p></td><td><p><strong>200.000,00</strong></p></td></tr><tr><td><p>1252</p></td><td><p>Reforma e Ampliação de Centro de Educação Infantil</p></td><td><p><strong>1.190.0000.00.00</strong></p></td><td><p><strong>200.000,00</strong></p></td></tr><tr><td><p>12.365.0052.1252.0004</p></td><td><p>Reforma e Ampliação de Centro de Educação Infantil</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>430.000,00</strong></p></td></tr></tbody><tbody><tr><td><p>12</p></td><td><p>Educação</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>122</p></td><td><p>Administração Geral</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>0001</p></td><td><p>Gestão e Administração</p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>1122</p></td><td><p>Reforma e Recuperação de Imóveis Públicos</p><p> </p></td><td><p><strong>1.111.0000.00.00</strong></p></td><td><p><strong>30.000,00</strong></p></td></tr><tr><td><p>12.122.0001.1222.0002</p></td><td><p>Reforma e Recuperação de Imóveis Públicos</p></td><td><p> </p></td><td><p> </p><p> </p><p><strong>30.000,00</strong></p></td></tr></tbody><tbody><tr><td><p><strong>TOTAL GERAL</strong></p></td><td><p> </p></td><td><p> </p></td><td><p><strong>12.475.000,00</strong></p></td></tr></tbody></table>

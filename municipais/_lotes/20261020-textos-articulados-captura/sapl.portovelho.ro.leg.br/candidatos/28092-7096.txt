@@ -1,0 +1,48 @@
+Declara utilidade pública, por via administrativa e amigável, as coordenadas geográficas específicas, objetivando a implantação da Casa da Mulher Brasileira na cidade de Porto Velho - RO.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Proc. 00600-00033686/2025-11-e.
+
+**CONSIDERANDO** o dever Público Municipal de zelar pelo bem estar de sua população e, preocupado com a qualidade de vida dos seus munícipes de acordo com o desenvolvimento local a administração políticas visa criar políticas para equacionar o problema verificado em um determinado momento histórico;
+
+**CONSIDERANDO** a necessidade crescente de proteção, acolhimento e atendimento especializado às mulheres vítimas de violência doméstica e de gênero no município de Porto Velho;
+
+**CONSIDERANDO** o compromisso constitucional do Município com a promoção da igualdade de gênero e com a garantia dos direitos humanos, em consonância com a Lei Federal nº 11.340, de 7 de agosto de 2006 - Lei Maria da Penha e demais legislações específicas;
+
+**CONSIDERANDO** as políticas públicas municipais voltadas à proteção da mulher e a importância de um espaço institucional que concentre serviços essenciais para a recepção, orientação e encaminhamento das mulheres em situação de vulnerabilidade;
+
+**CONSIDERANDO** o estudo técnico realizado pelo Poder Executivo Municipal que identificou a área localizada na Av. Guaporé, Bairro Três Marias, de propriedade do Município, como local estratégico para a construção da Casa da Mulher Brasileira, proporcionando fácil acesso, segurança e condições adequadas para o atendimento;
+
+**CONSIDERANDO** a responsabilidade do Poder Executivo Municipal em promover a construção de equipamentos públicos que garantam a dignidade, a segurança e o respeito aos direitos das mulheres.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica autorizada a construção da Casa da Mulher Brasileira, espaço destinado à recepção, acolhimento e atendimento integrado às mulheres vítimas de violência doméstica e de gênero, a ser erguida no imóvel público localizado na Avenida Guaporé, Bairro Três Marias, conforme descrito no Anexo Único deste Decreto.
+
+
+Art. 2º.
+
+A decretação de utilidade pública prevista no Art. 1º deste Decreto é declarada de natureza urgente tendo em vista a estiagem com cessamento das chuvas na região possibilitando as obras iniciais de terraplanagem.
+
+
+Art. 3º.
+
+Fica declarada de utilidade pública a área destinada à construção da Casa da Mulher Brasileira, definido pela Poligonal de Coordenadas, perímetros e confrontações, constantes no Anexo Único deste Decreto.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+**LEONARDO BARRETO DE MORAES**
+
+Prefeito
+
+
+## Anexo I — COORDENADAS GEOGRÁFICAS
+
+<table><tbody><tr><td colspan="3"><p><strong>COORDENADAS (UTM)</strong></p><p><strong>DESCRIÇÃO DO PERÍMETRO</strong></p></td></tr><tr><td colspan="3"><p>LOTE 1362</p></td></tr><tr><td><p>PONTOS</p></td><td><p>NORTE (Y)</p></td><td><p>ESTE (X)</p></td></tr><tr><td><p>P1 P3</p></td><td><p>9.029.804.709</p></td><td><p>405.677.832</p></td></tr><tr><td><p>P3 P4</p></td><td><p>9.029.893.668</p></td><td><p>405.657.913</p></td></tr><tr><td><p>P4 P6</p></td><td><p>9.029.860.544</p></td><td><p>405.845.010</p></td></tr><tr><td><p>P6 P1</p></td><td><p>9.029.769.573</p></td><td><p>405.793.635</p></td></tr><tr><td colspan="3"><p>APP DO LOTE 1362</p></td></tr><tr><td><p>PONTOS</p></td><td><p>NORTE (Y)</p></td><td><p>ESTE (X)</p></td></tr><tr><td><p>P2 P3</p></td><td><p>9.029.854.318</p></td><td><p>405.666.724</p></td></tr><tr><td><p>P3 P4</p></td><td><p>9.029.893.668</p></td><td><p>405.657.913</p></td></tr><tr><td><p>P4 P5</p></td><td><p>9.029.860.544</p></td><td><p>405.845.010</p></td></tr><tr><td><p>P5 P2</p></td><td><p>9.029.825.902</p></td><td><p>405.825.447</p></td></tr><tr><td colspan="3"><p>ESTACIONAMENTO NA APP DO LOTE 1362</p></td></tr><tr><td><p>PONTOS</p></td><td><p>NORTE (Y)</p></td><td><p>ESTE (X)</p></td></tr><tr><td><p>PE1 PE2</p></td><td><p>9.029.850.419</p></td><td><p>405.688.500</p></td></tr><tr><td><p>PE2 PE3</p></td><td><p>9.029.860.406</p></td><td><p>405.706.664</p></td></tr><tr><td><p>PE3 PE1</p></td><td><p>9.029.826.084</p></td><td><p>405.824.430</p></td></tr></tbody></table>

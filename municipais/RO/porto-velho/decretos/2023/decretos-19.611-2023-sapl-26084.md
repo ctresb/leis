@@ -1,0 +1,121 @@
+---
+titulo: "Decreto nº 19.611, de 05 de dezembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.611"
+data: "2023-12-05"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2024-04-12; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26084"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6796/text"
+sha256_fonte: "009668296006b07a4a55755278db45d9e438fd74ba620d4327ce19d67aad4fbd"
+sha256_texto: "a420b6e4da7f00b163e2211bb467673f4ef0cdca8a6655d39b1b607f216d42d8"
+capturado_em_fonte: "2026-10-21T04:52:33.885016-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 19.611, de 05 de dezembro de 2023
+
+Instaura Processo Administrativo de Investigação Preliminar e Designa servidores para compor Comissão de Investigação Preliminar, nos termos da Lei Federal nº 12.846, de 1º de agosto de 2013 e Decreto nº 15.354, de 02 de agosto de 2018.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e o Controlador Geral do Município, no uso das atribuições que lhe é conferida pela Lei Federal nº 12.846, de 1º de agosto de 2013 e Decreto nº 15.354, de 02 de agosto de 2018, e tendo em vista o que consta no Ofício nº 401/2023/ASTEC/CGM, de 30 de novembro de 2023 (2F7387D2-e).
+
+**CONSIDERANDO** o Ofício nº 254/GAB/SML que narra os fatos apresentados no Relatório Circunstanciado nº 001/2022/SML, que comunica possível irregularidade praticada na fase externa da Concorrência Pública nº 001/2022/SML/PVH, Processo nº 21.00028/2021, cujo objeto foi a Concessão do Espaço Público denominado Estrada de Ferro Madeira-Mamoré.
+
+**CONSIDERANDO** o Parecer Técnico nº 003/ASTEC/CGM/2022, e-DOC A887C276, do Processo Administrativo de Apuração de Responsabilidade de Pessoa Jurídica nº 00600-00015068/2022-39-e, que em sua conclusão opinou pela instauração do procedimento de apuração de atos contra a administração pública municipal, conforme fundamentos da Lei Federal nº 12.846, de 2013;
+
+**CONSIDERANDO** a necessidade de apurar fatos e responsabilizar pessoas jurídicas pela prática de atos lesivos à Administração Pública Municipal, conforme estabelece a Lei Federal nº 12.846, de 2013 e Decreto nº 15.354, de 2018.
+
+**RESOLVEM:**
+
+
+Art. 1º.
+
+**INSTAURAR PROCESSO ADMINISTRATIVO DE APURAÇÃO DE RESPONSABILIDADE DE PESSOA JURÍDICA (PAR)**, visando apurar a responsabilidade das pessoas jurídicas pela prática de atos lesivos à Administração Pública Municipal, nos termos da Lei Federal nº 12.846, de 1º de agosto de 2013, conforme fatos narrados nos autos do Processo Administrativo de Apuração de Responsabilidade de Pessoa Jurídica nº 00600-00015068/2022-39-e, por possível irregularidade praticada na fase externa da Concorrência Pública nº 001/2022/SML/PVH, Processo nº 21.00028/2021.
+
+
+Parágrafo único
+
+As pessoas jurídicas que eventualmente venham substituir ou assumir direitos e obrigações contratuais deverão ser notificadas de todos os atos praticados para comporem o rol de empresas processadas e exercerem o direito de ampla defesa e contraditório.
+
+
+Art. 2º.
+
+A Comissão Processante será composta pelos Servidores relacionados abaixo, sob a Presidência do primeiro:
+
+
+I –
+
+Sueleide Cristina Mascarenhas Rodrigues, Auditora, Cad. 144288;
+
+
+II –
+
+Samuel Jorge da Costa, Assistente de Controle Interno, Cad. 160432;
+
+
+III –
+
+Lindonjonson da Silva Costa, Cad. 1000063.
+
+Alteração feita pelo Art. 1º. - Decreto nº 19.885, de 12 de abril de 2024.
+
+
+Parágrafo único
+
+Fica designado o servidor Moacir de Souza Magalhães, Procurador do Município, Cad. 203960, para exercer todos os atos de competência da Procuradoria Geral do Município no âmbito da Comissão Processante.
+
+
+Art. 3º.
+
+Estabelecer o prazo máximo de 90 (noventa) dias para entrega do Relatório Final contendo as conclusões sobre os fatos apurados.
+
+
+Art. 4º.
+
+Para fins deste Decreto as atividades da Comissão e do Servidor da Procuradoria se dará conforme abaixo:
+
+
+I –
+
+deverão ocorrer preferencialmente no horário extra expediente;
+
+
+II –
+
+não integram o conjunto de atribuições do cargo de origem dos servidores;
+
+
+III –
+
+são consideradas de caráter cumulativo;
+
+
+IV –
+
+deverão ser enquadradas nos termos do Art. 76 da Lei Complementar nº 385, de 1º de julho de 2010, regulamentado pelo Art. 41, do Decreto nº 11.824, de 18 de outubro de 2010.
+
+
+Art. 5º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***JEOVAL BATISTA DA SILVA***
+
+Controlador Geral do Município
+
+***LUIZ DUARTE FREITAS JÚNIOR***
+
+Procurador Geral do Município
+

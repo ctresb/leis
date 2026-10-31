@@ -1,0 +1,785 @@
+---
+titulo: "Lei Ordinária nº 3.951, de 27 de dezembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3951"
+data: "2024-12-27"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2640"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2534/text"
+sha256_fonte: "c7b0b6058a0dc48176ad7f8a313428b2ff9a27eefdc01a836446f6a4be98f538"
+sha256_texto: "971a7160313c902a4611af3a660623a7fd2fbab8d40e4b082c24cba9027a6e6d"
+capturado_em_fonte: "2026-10-27T21:14:19.969165-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.951, de 27 de dezembro de 2024
+
+Dispõe sobre a criação, organização e funcionamento da Gerência de Inteligência de Segurança Pública – GINT do Cabo de Santo Agostinho e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica instituída a Gerência de Inteligência de Segurança Pública (GINT) no âmbito da Secretaria Municipal de Defesa Social do Cabo de Santo Agostinho - SMDS, que será constituída por um conjunto de Coordenadorias de Inteligência voltadas ao exercício permanente e sistemático de ações especializadas na produção e salvaguarda de conhecimentos necessários para prever, prevenir e reprimir atos delituosos de qualquer natureza ou relativos a outros temas de interesse da segurança pública e da defesa social do Município.
+
+
+Art. 2º.
+
+A GINT tem por finalidade o assessoramento à atividade de segurança pública e defesa social e a formulação das respectivas políticas, a fim de atribuir maior efetividade às suas ações estratégicas, táticas operacionais e de proteção do conhecimento, respeitando a legalidade, as atribuições e limites constitucionais de cada órgão e a Doutrina Nacional de Inteligência de Segurança Pública - DNISP.
+
+
+Parágrafo único
+
+A comunicação no âmbito da Gerência de Inteligência, deverá ser, preferencialmente, através da hierarquia orgânica, podendo ser utilizado o Canal Técnico, respeitando o princípio da oportunidade.
+
+
+Art. 3º.
+
+Fica criado o Conselho da Atividade de Inteligência, órgão colegiado, composto pelos seguintes membros:
+
+
+I –
+
+Secretário (a) Municipal de Defesa Social;
+
+
+II –
+
+Gerente de Inteligência;
+
+
+III –
+
+Coordenador(a) do Observatório Municipal de Segurança Pública;
+
+
+IV –
+
+Coordenador(a) da Central de Operações de Inteligência;
+
+
+V –
+
+Coordenador(a) de Inteligência e Contrainteligência;
+
+
+Art. 4º.
+
+As deliberações do Conselho da Atividade de Inteligência serão realizadas para tratar de assuntos que envolvam a GINT, por meio de assembleias ordinárias, realizadas a cada semestre, ou extraordinária, por solicitação assinada por 1/3 dos membros ou provocada pelo Presidente do Conselho.
+
+
+§ 1º
+
+O Secretário Municipal de Defesa Social presidirá as assembleias, na sua ausência cabe ao suplente, Gerente de Inteligência, designado pelo Presidente assumir.
+
+
+§ 2º
+
+As assembleias têm caráter constitutivo, podendo ser aprovado por quórum de maioria simples, 50% (cinquenta) mais 1 (um) dos presentes.
+
+
+#### CAPÍTULO II — DA ORGANIZAÇÃO, DOS AGENTES E DOS INTEGRANTES DA GINT
+
+
+Art. 5º.
+
+A Gerência de Inteligência de Segurança Pública - GINT será subordinada ao Secretário de Defesa Social e terá como estrutura orgânica, três Coordenadorias com suas respectivas Unidades e uma unidade de Apoio Técnico-administrativo:
+
+
+I –
+
+Unidade de Apoio Técnico-Administrativo – UATA;
+
+
+II –
+
+Coordenação do Observatório Municipal de Segurança Pública - COMSP:
+
+
+a)
+
+Unidade de Análise Estatística - UAE;
+
+
+b)
+
+Unidade de Planejamento e Modernização - UPM.
+
+
+III –
+
+Coordenação do Centro de Operações de Inteligência - COI:
+
+
+a)
+
+Unidade de Apoio Técnico - UAT;
+
+
+b)
+
+Unidade Videomonitoramento e Tecnologia - UVT.
+
+
+IV –
+
+Coordenação de Inteligência e Contrainteligência - CIC:
+
+
+a)
+
+Unidade de Contrainteligência - UC;
+
+
+b)
+
+Unidade de Operações de Inteligência - UOI
+
+
+c)
+
+Unidade de Produção de Conhecimento - UPC.
+
+
+##### Seção I — Do Ingresso, Do Desligamento E Da Remoção
+
+
+Art. 6º.
+
+O cargo de Gerente de Inteligência deverá ser ocupado mediante indicação do Secretário da SMDS, dentre as pessoas de reputação ilibada, com experiência profissional, devidamente comprovada, na área de inteligência.
+
+
+Parágrafo único
+
+É indispensável que conste em seu currículo a realização de Curso de Inteligência em Segurança Pública, promovido de acordo com as diretrizes da Doutrina Nacional de Inteligência de Segurança Pública (DNISP).
+
+
+Art. 7º.
+
+O ingresso de Agente de Inteligência de Segurança Pública na GINT, bem como seu desligamento e/ou remoção serão condicionados à apreciação e aprovação pela Comissão de Controle das Atividades de Inteligência, mediante a observação dos seguintes critérios:
+
+
+I –
+
+Experiência profissional, mediante análise curricular;
+
+
+II –
+
+Vida pregressa;
+
+
+III –
+
+Pesquisa social;
+
+
+IV –
+
+Demais qualificações, que poderão ser exigidas para habilitação do agente, serão regulamentadas por portaria do Secretário Municipal de Defesa Social.
+
+
+§ 1º
+
+Os candidatos a ingresso na GINI deverão preencher formulário próprio de inteligência, e serão escolhidos, preferencialmente, dentre aqueles que possuam capacitação ou experiência na atividade de Inteligência de Segurança Pública.
+
+
+§ 2º
+
+Os candidatos habilitados a integrar a GINT deverão participar de Curso de Inteligência de Segurança Pública, de caráter eliminatório, e deverão permanecer, pelo prazo mínimo de 02 (dois) anos, na atividade de Inteligência, salvo desvio de conduta ou força maior.
+
+
+§ 3º
+
+O candidato habilitado será considerado Agente de Inteligência de Segurança Pública no âmbito Municipal mediante Portaria publicada pela Secretaria Municipal de Defesa Social.
+
+
+§ 4º
+
+No caso de desligamento da Gerência de Inteligência de Segurança Pública, os agentes deverão passar por um acompanhamento interno e passar pelo período de quarentena de no mínimo 6 meses, tendo como objetivo salvaguardar o sigilo das informações que o mesmo teve acesso durante o período que fez parte da Atividade de Inteligência. Além disso, deve ser lotado (a), preferencialmente, em local que não os (as) exponha e mediante deliberação do Conselho de Inteligência.
+
+
+§ 5º
+
+Se o desligamento for motivo de transgressão de alguma norma ou procedimento, o agente estará sujeito ao regime disciplinar de sua unidade de origem, sem prejuízo de sofrer as sanções do Procedimento Administrativo Disciplinar.
+
+
+Art. 8º.
+
+Após o ingresso do agente na GINT, na fase de credenciamento, deverá ser observada a indicação, a pesquisa social, a comprovação documental da capacitação técnica, a assinatura do termo de compromisso e a realização de entrevista.
+
+
+Art. 9º.
+
+Os atos das agências integrantes da GINT, cuja publicidade possa comprometer o êxito de suas atividades sigilosas, deverão ser publicados em Portaria.
+
+
+§ 1º
+
+Incluem-se entre os atos objeto deste artigo os referentes ao seu peculiar funcionamento, bem como às atribuições, à atuação, aos deslocamentos e às especificações dos respectivos cargos, e à movimentação dos seus titulares e componentes.
+
+
+§ 2º
+
+A obrigatoriedade de publicação dos atos em extrato independe de serem de caráter ostensivo ou sigiloso os recursos utilizados, em cada caso.
+
+
+§ 3º
+
+As portarias de ingresso, transferência e afastamento, bem como as demais publicações referidas neste artigo serão externadas apenas com fragmentos da matrícula do efetivo, de forma que não identifique nenhum Agente de Inteligência, ficando o ato por completo arquivado em pasta classificada como confidencial na GINT.
+
+
+##### Seção II — Das Condutas Vedadas
+
+
+Art. 10.
+
+É vedado aos integrantes da GINI, sem prejuízo das ações de apoio e a necessidade do interesse público, respeitando-se a DNISP:
+
+
+I –
+
+Realizar atividade de policiamento ostensivo ou trabalhos rotineiros sem vínculo com as atividades de Inteligência, na conformidade com a legislação vigente;
+
+
+II –
+
+Divulgar, nos meios de comunicação, os métodos ou procedimentos de Inteligência, de instalações de agências de Inteligência e o nome ou qualquer identificação do pessoal integrante da GINT ou que, de alguma maneira, dele participe;
+
+
+III –
+
+Exercer atividades cartorárias de cunho disciplinar que sejam típicas de correição, sem vínculo com serviços de Inteligência.
+
+
+Parágrafo único
+
+A inobservância ao disposto neste artigo ensejará a abertura de processo administrativo disciplinar, de caráter sigiloso, onde serão aplicadas as penas descritas na legislação específica.
+
+
+#### CAPÍTULO III — DO APOIO TÉCNICO-ADMINISTRATIVO E DAS COORDENAÇÕES DA GERÊNCIA DE INTELIGÊNCIA
+
+
+##### Seção I — Unidade De Apoio Técnico-Administrativo
+
+
+Art. 11.
+
+A Unidade de Apoio Técnico-Administrativo, com o objetivo de assessorar a GINI, através da integração de outros Órgãos ou pessoas, poderá ser composta por profissionais com especializações e aptidões técnicas com a finalidade de apoiar ou contribuir com as atividades de inteligência de Segurança Pública.
+
+
+§1°
+
+A Unidade de Apoio Técnico-Administrativo ficará diretamente subordinada à GINT.
+
+
+##### Seção II — Coordenação Do Observatório Municipal De Segurança Pública - COMSP
+
+
+Art. 12.
+
+A Coordenação do Observatório Municipal de Segurança Pública contará com duas unidades:
+
+
+§ 1º
+
+UNIDADE DE ANÁLISE ESTATÍSTICA – UAE:
+
+
+I –
+
+Coletar, sistematizar, analisar e disponibilizar dados, a partir das fontes públicas Municipais, Estaduais e Federais de informação que tenham relação, direta ou indiretamente, com a violência local;
+
+
+II –
+
+Produzir indicadores capazes de orientar e qualificar a implementação de políticas públicas em âmbito municipal;
+
+
+III –
+
+criar no âmbito da SMDS, o Banco de Dados de Inteligência - BDI, com informações e conhecimentos destinados a concentrar e integrar as bases de inteligência;
+
+
+§ 2º
+
+O acesso ao BDI respeitará a compartimentação e a necessidade de conhecer, sendo disponibilizado através de níveis de acesso.
+
+
+§ 3º
+
+A Gerência de Inteligência de Segurança Pública manterá um banco de dados atualizado com dados estatísticos, bem como do efetivo integrante do Sistema de Inteligência;
+
+
+§ 4º
+
+UNIDADE DE PLANEJAMENTO E MODERNIZAÇÃO – UPM:
+
+
+I –
+
+Firmar parcerias entre as diversas Secretarias Municipais e órgãos da administração Municipal, estaduais e Federais direta e indireta, a fim de viabilizar o compartilhamento de informações sobre o fenômeno da violência;
+
+
+II –
+
+Produzir dados e indicadores capazes de embasar as políticas públicas de segurança implementadas pela SMDS;
+
+
+III –
+
+Agregar conhecimento, sistematizar conceitos e metodologias, de forma a melhorar a gestão e a qualidade das ações e das políticas públicas que impactem, direta ou indiretamente, na prevenção da violência e criminalidade;
+
+
+IV –
+
+Firmar parcerias e convênios com os demais órgãos que compõem o sistema de segurança pública, a fim de permitir compartilhamento de dados e informações sobre o fenômeno da violência em âmbito local;
+
+
+V –
+
+Subsidiar o Conselho de Inteligência e Conselho Municipal de Segurança Pública com dados e informações que auxiliem no direcionamento da política municipal de segurança pública;
+
+
+VI –
+
+Elaborar propostas de intervenção e melhoria na dinâmica de atuação e registro das atividades desenvolvidas pela SMDS;
+
+
+VII –
+
+Estimular a produção e a publicação de estudos e diagnósticos para a formulação e a avaliação de políticas públicas;
+
+
+VIII –
+
+Fomentar o intercâmbio de informações de inteligência na área da segurança pública;
+
+
+IX –
+
+Estabelecer parcerias e convênios com o Governo Federal, Secretaria de Defesa Social do Estado de Pernambuco e demais secretarias afins nos estados circunvizinhos e Municípios, a fim de possibilitar o compartilhamento de dados produzidos no âmbito dos projetos de prevenção a criminalidade desenvolvidos no Cabo de Santo Agostinho.
+
+
+X –
+
+Elaborar, coordenar e promover Cursos ligados à Inteligência de Segurança Pública, junto ao Centro de Ensino e Pesquisa de Segurança Pública Municipal da SMDS.
+
+
+##### Seção III — Coordenação Do Centro De Operações De Inteligência - COI
+
+
+Art. 13.
+
+Todas as viaturas operacionais da Guarda Civil Municipal deverão realizar o cadastro da equipe do plantão, seja ela de serviço ordinário ou extraordinário, na Central de Operações e Inteligência - COI, bem como obedecer às determinações operacionais repassadas pelo Centro.
+
+
+§1°
+
+As equipes de Inteligência ficam dispensadas dessa determinação, mas se reportarão diretamente ao Gerente da GINT.
+
+
+Art. 14.
+
+Todas as ocorrências serão repassadas exclusivamente pelo COI.
+
+
+Art. 15.
+
+A Coordenação do Centro de Operações de Inteligência contará com duas Unidades:
+
+
+§ 1º
+
+UNIDADE APOIO TÉCNICO:
+
+
+I –
+
+registrar as ocorrências em plataforma do SINESPCAD ou correspondente, como também, acompanhar seu desfecho e emissão de relatório;
+
+
+II –
+
+Controlar, fiscalizar equipamentos inerentes ao videomonitoramento, telefonia, internet, Central de Despacho de Rádio, patrimônio e outros;
+
+
+§ 2º
+
+UNIDADE DE VIDEOMONITORAMENTO E TECNOLOGIA
+
+
+I –
+
+Tramitação de documentações relativas ao funcionamento operacional do Centro de Operações de Inteligência - COI;
+
+
+II –
+
+Zelar pelo pleno funcionamento dos equipamentos que fazem parte do setor e da sua estrutura como um todo;
+
+
+III –
+
+Fazer solicitação de manutenção, quando necessário, aos prestadores de serviço;
+
+
+IV –
+
+Gerir os recursos humanos, patrimônio e técnicos do setor.
+
+
+Art. 16.
+
+O COI será responsável pela captação de imagens, tratamento de dados e informações produzidas no âmbito municipal, mantendo estrito respeito à inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas, bem como preservando demais direitos e garantias fundamentais.
+
+
+§ 1º
+
+Cada plantão será coordenado obrigatoriamente por um Guarda Civil Municipal.
+
+
+§ 2º
+
+As atividades do COI abrangem aplicações diversificadas conforme o interesse público municipal, atendendo áreas como trânsito, transporte coletivo, segurança preventiva, proteção e defesa civil, saúde, assistência social, obras públicas, polícia administrativa, entre outros.
+
+
+§ 3º
+
+Diante de emergências ambientais ou de causas humanas que exijam ações de Proteção e Defesa Civil, o monitoramento deverá ser prioritariamente coordenado por servidores cedidos pela Defesa Civil.
+
+
+§ 4º
+
+A gestão e o processamento de imagens, a fim de controlar a rotina municipal em situações de crise e outras emergências, através do videomonitoramento, serão realizados por meio do sistema de rádio comunicação, recepção e atendimentos de ligações pelo número 153 e 0800;
+
+
+§ 5º
+
+Entre as funções do COI está a prevenção inibitória de qualquer ocorrência, interna e externa, de infrações penais, bem como administrativos, nas áreas abrangidas pelo sistema;
+
+
+§ 6º
+
+A comprovação da materialidade de possíveis contravenções ou ilícitos penais, bem como administrativos que porventura sejam captados pelo sistema, respeitadas as formalidades, será condicionada a devida autorização ou requisição legal;
+
+
+§ 7º
+
+haverá cooperação e integração com órgãos de segurança pública, de socorro e atendimento emergencial e com os órgãos responsáveis pela mobilidade urbana do município (trânsito e transporte público);
+
+
+Art. 17.
+
+O uso e compartilhamento de imagens devem obedecer aos seguintes procedimentos:
+
+
+§ 1º
+
+O tratamento de dados, informações e imagens produzidos pelo Sistema de Videomonitoramento deve processar-se no estrito respeito à inviolabilidade da intimidade, da vida privada, da honra e da imagem das pessoas, bem como pelos direitos, liberdades e garantias fundamentais;
+
+
+§ 2º
+
+É vedada a utilização de câmeras de videomonitoramento quando a captação de imagens atingir o interior de residência, ambiente de trabalho ou qualquer outra forma de habitação que seja amparada pelos preceitos constitucionais de privacidade, salvo se houver interesse público e nas situações em que a legislação brasileira permite.
+
+
+§ 3º
+
+A administração, o gerenciamento e a coordenação do COI, ficará a cargo da GINT;
+
+
+§ 4º
+
+Os operadores do Sistema de Videomonitoramento estão obrigados a comunicar, de imediato, qualquer alteração, à Gerência, ao Coordenador ou mais graduado presente;
+
+
+§ 5º
+
+As gravações obtidas de acordo com a presente Lei, serão conservadas pelo prazo máximo de 30 (trinta) dias, contados a partir da sua captação, salvo os reputados de forma estratégica
+
+
+§ 6º
+
+As imagens registradas pelo Sistema de Videomonitoramento somente serão disponibilizadas por requisições ou solicitações fundamentadas, mediante solicitação através de documento, de Poderes pertencentes a Segurança Pública, salvo autorização expressa do Secretário da SMDS ou Gerente de Inteligência;
+
+
+§ 7º
+
+O Centro de Operação de Inteligência, local onde são exibidas e registradas as imagens de videomonitoramento resultantes da vigilância eletrônica, somente será permitida aos servidores credenciados pelo Secretário da SMDS ou Gerente de Inteligência, mediante assinatura do respectivo termo de confidencialidade, assegurado o exercício do controle externo dessa atividade.
+
+
+Art. 18.
+
+Os servidores credenciados devem tomar as medidas adequadas e necessárias para:
+
+
+I –
+
+Impedir o acesso de pessoa não autorizada às instalações utilizadas para o tratamento de imagens, dados e informações produzidos pelo sistema;
+
+
+II –
+
+Impedir que imagens, dados e informações possam ser visualizados, copiados, alterados ou retirados por pessoa não autorizada;
+
+
+III –
+
+Garantir que as pessoas autorizadas somente possam ter acesso à imagem, dados e informações abrangidos pela autorização.
+
+
+##### Seção IV — Coordenação De Inteligência E Contrainteligência - CIC
+
+
+Art. 19.
+
+A Coordenação de Inteligência e Contrainteligência, será o instrumento de viabilização de informações e contrainformação com indicadores para tomada de decisões e direcionamento de ações na intenção de proporcionar mais segurança aos munícipes.
+
+
+§1°
+
+A função de Agente de Inteligência e Contrainteligência será exercida exclusivamente por servidores da Guarda Municipal do Cabo de Santo Agostinho
+
+
+Art. 20.
+
+A coordenação será composta da seguinte estrutura:
+
+
+I –
+
+UNIDADE DE CONTRAINTELIGÊNCIA
+
+
+II –
+
+UNIDADE DE OPERAÇÕES DE INTELIGÊNCIA
+
+
+III –
+
+UNIDADE DE PRODUÇÃO DE CONHECIMENTO
+
+
+§ 1º
+
+São atribuições da Unidade de Contrainteligência:
+
+
+I –
+
+Executar medidas referentes às atividades de contrainteligência visando a prevenir, detectar, obstruir e neutralizar a inteligência adversa, bem como as ações que constituam ameaças à salvaguarda de dados, conhecimentos, pessoas, áreas e instalações afetas aos Órgãos da Prefeitura Municipal do Cabo de Santo Agostinho.
+
+
+II –
+
+Proceder às investigações de segurança dos prestadores de serviços contratados a qualquer título e servidores designados para a atividade de inteligência da Secretaria Municipal de Defesa Social;
+
+
+III –
+
+Manter os servidores lotados na Secretaria Municipal de Defesa Social, atualizados com as normas de segurança em vigor, referentes às atividades de inteligência.
+
+
+IV –
+
+Elaborar o Plano de Segurança Orgânica e mantê-lo atualizado, de acordo com legislação específica.
+
+
+V –
+
+Salvaguardar os conhecimentos produzidos por meio de medidas de segurança;
+
+
+VI –
+
+Manter a segurança do arquivo de assuntos sigilosos sob a responsabilidade da área de
+
+Inteligência;
+
+
+§ 2º
+
+São atribuições de Unidade de Operações de Inteligência
+
+
+I –
+
+Elaborar e apresentar o seu plano anual de ação, observadas as diretrizes da SMDS;
+
+
+II –
+
+Coordenar e integrar as atividades de inteligência de defesa no âmbito de atuação da Secretaria Municipal de Defesa Social;
+
+
+III –
+
+Identificar, acompanhar e avaliar as ameaças reais ou potenciais no âmbito de atuação do Município;
+
+
+IV –
+
+Promover a coleta busca e análise de dados de defesa social, alinhando sua atuação com a Unidade Operacional, no que couber para execução de seus planos de ação;
+
+
+V –
+
+Identificar atuações sobre desempenho da SMDS, por meio de dados estatísticos;
+
+
+VI –
+
+Confeccionar o Manual de Operações de Inteligência, garantindo o seu sigilo;
+
+
+VII –
+
+Propor critérios de temporalidade e classificação de sigilo de documentos;
+
+
+VIII –
+
+Zelar e responder pelo patrimônio público colocado à sua disposição;
+
+
+IX –
+
+Articular e colaborar com outras unidades da Secretaria Municipal de Defesa Social em assuntos de sua competência;
+
+
+X –
+
+Assessorar a GINT em assuntos de sua competência;
+
+
+XI –
+
+Executar outras atividades correlatas.
+
+
+§ 3º
+
+Os Agentes de Inteligência de Segurança Pública designados para prestação de serviço de Inteligência e Contrainteligência Operacional, criado por esta Lei, poderão deixar de usar uniforme e utilizar viatura descaracterizada com sinalização intermitente interno e dispositivo sonoro em razão do serviço prestado, bem como, a título de identificação, usar distintivo com brasão da instituição e identificação da Gerência de Inteligência.
+
+
+§ 4º
+
+São atribuições da Unidade de Produção de Conhecimento
+
+
+I –
+
+Executar a coleta, busca e análise de dados para a produção de conhecimento no campo da Segurança Pública;
+
+
+II –
+
+Monitorar a efetividade das ações de Segurança Pública no Município;
+
+
+III –
+
+Levantar dados e informações necessárias à tomada de decisão dos diversos órgãos integrantes do Sistema Municipal de Inteligência, para o cumprimento de suas atribuições legais, com relatórios sobre práticas infracionais, criminais e administrativas;
+
+
+IV –
+
+Identificar, acompanhar e avaliar as ameaças reais ou potenciais à segurança do Município;
+
+
+V –
+
+Manter a segurança do arquivo de assuntos sigilosos sob a responsabilidade da área de Inteligência;
+
+
+VI –
+
+Elaborar análises e relatórios estatísticos apontando os números, as variações e a predominância das ocorrências operacionais;
+
+
+VII –
+
+Manter o controle dos boletins de ocorrência registrados;
+
+
+VIII –
+
+Obter e acompanhar dados estatísticos e informações relativos à Segurança Pública de interesse do Município;
+
+
+IX –
+
+Assessorar a área de Inteligência em assuntos de sua competência;
+
+
+X –
+
+Produzir conhecimento sobre os fatos graves que afetam os Órgãos Públicos Municipais e a comunidade;
+
+
+XI –
+
+Executar outras atividades correlatas.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES GERAIS
+
+
+Art. 21.
+
+As instruções normativas referentes a questões doutrinárias, procedimentais e metodológicas serão editadas pela Secretaria Municipal de Defesa Social – SMDS por solicitação do (a) Gerente da GINT.
+
+
+Art. 22.
+
+Todas as Coordenações de Inteligência da GINT deverão realizar, no prazo de 30 (trinta) dias, a contar da publicação da presente Lei, recredenciamento dos servidores lotados.
+
+
+Art. 23.
+
+O Secretário Municipal de Defesa Social editará os atos normativos necessários à regulamentação das atividades a serem desenvolvidas pela GINI, e poderá:
+
+
+I –
+
+Firmar convênios ou contratos com entidades especializadas, públicas ou privadas;
+
+
+II –
+
+Propor ao Prefeito a requisição de servidores da Administração Direta e Indireta Estado que possuam capacitação técnica especializada necessária à atividade de inteligênc
+
+
+Art. 24.
+
+Após a publicação desta Lei, no prazo de até 180 dias, serão criadas as gratificaç dos respectivos Agentes de Inteligências de Segurança Pública da Gerência de Inteligência Segurança Pública, mediante proposta elaborada e apresentada por um Grupo de Trabalho.
+
+
+Art. 25.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Palácio Joaquim Nabuco, 27 de dezembro de 2024.
+
+***CLAYTON DA SILVA MARQUES***
+
+Prefeito
+
+“Lei decorrente do Projeto de Lei à Sanção nº 143/2024, de autoria do Poder Executivo.”
+
+**Publicado por:**  
+José Raimundo e Silva Neto  
+**Código Identificador:**4C69F366
+

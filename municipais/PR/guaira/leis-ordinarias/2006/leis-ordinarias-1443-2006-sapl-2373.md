@@ -1,0 +1,375 @@
+---
+titulo: "Lei Ordinária nº 1.443, de 13 de dezembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1443"
+data: "2006-12-13"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2023-06-01; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2373"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/874/text"
+sha256_fonte: "15b1caca94182f43c7efe0b875271cdd097b5ccc257c4a09f46717618c96e07f"
+sha256_texto: "49024125d0ba6b34a618636dd3596d707d97ada8ae2b98f468469b51171d3266"
+capturado_em_fonte: "2026-10-28T13:24:09.363671-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.443, de 13 de dezembro de 2006
+
+Cria o Sistema de Controle Interno do Poder Executivo Municipal, nos termos do art. 31 da Constituição da República, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu, Prefeito Municipal sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DA ORGANIZAÇÃO SISTÊMICA DO CONTROLE INTERNO
+
+
+Art. 1º.
+
+Fica organizado o Sistema de Controle Interno no Município de Guaíra - PR, sob a forma de sistema, que abrange a administração direta e indireta, nos termos do que dispõe o Art. 31 da Constituição da República.
+
+
+#### CAPÍTULO II — DAS FINALIDADES DO SISTEMA DE CONTROLE INTERNO
+
+
+Art. 2º.
+
+O Sistema de Controle Interno do Município, com atuação prévia, concomitante e posterior aos atos administrativos, visa à avaliação da ação governamental e da gestão fiscal dos administradores municipais, por intermédio da fiscalização contábil, financeira, orçamentária, operacional e patrimonial, quanto à legalidade, legitimidade, economicidade, aplicação das subvenções e renúncia de receitas, e, em especial, tem as seguintes atribuições:
+
+
+I –
+
+avaliar, no mínimo por exercício financeiro, o cumprimento das metas previstas no Plano Plurianual, a execução dos programas de governo e dos orçamentos do Município;
+
+
+II –
+
+viabilizar o atingimento das metas fiscais, físicas e de resultados dos programas de governo, quanto à eficácia, a eficiência e a efetividade da gestão nos órgãos e nas entidades da administração Pública Municipal, bem como da aplicação de recursos públicos por entidades de direito privado, estabelecidas na lei de diretrizes orçamentárias;
+
+
+III –
+
+comprovar a legitimidade dos atos de gestão;
+
+
+IV –
+
+exercer o controle das operações de crédito, avais e garantias, bem como dos direitos e haveres do Município;
+
+
+V –
+
+apoiar o controle externo no exercício de sua missão institucional;
+
+
+VI –
+
+realizar o controle dos limites e das condições para a inscrição de despesas em Restos a Pagar;
+
+
+VII –
+
+supervisionar as medidas adotadas pelo Poder Executivo para o retorno da despesa total com pessoal ao respectivo limite, caso necessário, nos termos dos Arts. 22 e 23 da LC nº 101/2000;
+
+
+VIII –
+
+tomar as providências indicadas pelo Poder Executivo, conforme o disposto no Art. 31 da LC 101/2000, para recondução dos montantes das dívidas consolidada e mobiliária aos respectivos limites;
+
+
+IX –
+
+efetuar o controle da destinação de recursos obtidos com a alienação de ativos, tendo em vista as restrições constitucionais e da LC nº 101/2000;
+
+
+X –
+
+realizar o controle sobre o cumprimento do limite de gastos totais dos legislativos municipais, inclusive no que se refere ao atingimento de metas fiscais, nos termos da Constituição Federal e da LC nº 101/2000, informando-o sobre a necessidade de providências e, em caso de não-atendimento, informar ao Tribunal de Contas do Estado;
+
+
+XI –
+
+cientificar a(s) autoridade(s) responsável (eis) e a Unidade Central do Sistema de Controle Interno quando constadas ilegalidades ou irregularidades na administração municipal.
+
+
+#### CAPÍTULO II DA ORGANIZAÇÃO DO SISTEMA DE CONTROLE INTERNO
+
+
+##### Seção I — Da Unidade Central do Sistema de Controle Interno
+
+
+Art. 3º.
+
+Integram o Sistema de Controle Interno do Município todos os órgãos e agentes públicos da administração direta e das entidades da administração indireta.
+
+
+Art. 4º.
+
+Fica criada, na estrutura administrativa do Município de que trata a Lei nº 1191/2001, na Unidade Orçamentária do Gabinete do Prefeito, a Coordenadoria do Sistema de Controle Interno, que se constituirá em unidade administrativa, com independência profissional para o desempenho de suas atribuições de controle em todos os órgãos e entidades da administração municipal.
+
+
+Art. 5º.
+
+A coordenação das atividades do sistema de controle interno será exercida pela Coordenadoria do Sistema de Controle Interno, como órgão central, com o auxílio dos serviços seccionais de controle interno.
+
+
+§ 1º
+
+Os serviços seccionais da Coordenadoria do Sistema de Controle Interno são serviços de controle, sujeitos à orientação normativa e à supervisão técnica da Unidade Central do Sistema, sem prejuízo da subordinação aos órgãos em cujas estruturas administrativas estiverem integrados.
+
+
+§ 2º
+
+Para o desempenho de suas atribuições constitucionais e as previstas nesta Lei, o Coordenador do Sistema de Controle Interno poderá emitir instruções normativas, de observância obrigatória no Município, com a finalidade de estabelecer a padronização sobre a forma de controle interno e esclarecer dúvidas sobre procedimentos de controle interno.
+
+
+§ 3º
+
+O Controle Interno instituído pelas entidades da administração indireta, com a indicação do respectivo responsável no órgão e na entidade, para o controle de seus recursos orçamentários e financeiros, é considerado como serviço seccional da Coordenadoria do Sistema de Controle Interno.
+
+
+§ 4º
+
+As unidades setoriais da administração indireta relacionam-se com a UCCI no que diz respeito às instruções e orientações normativas de caráter técnico-administrativo, e ficam adstritas às auditorias e às demais formas de controle administrativo instituídas pela Unidade Central de Controle Interno, com o objetivo de proteger o patrimônio público contra erros, fraudes e desperdícios.
+
+
+Art. 6º.
+
+A indicação do Coordenador do Sistema de Controle Interno, caberá unicamente ao Chefe do Poder Executivo Municipal, dentre os servidores de provimento efetivo que disponham de capacitação técnica e profissional para o exercício do cargo, com formação mínima em nível superior, até que lei complementar federal disponha sobre as regras gerais de escolha, levando em consideração os recursos humanos do Município, e será remunerado com o subsídio de simbologia CC1, nos termos do art. 94 da Lei Municipal nº 1.247/2003.
+
+Alteração feita pelo Art. 22. - Lei Ordinária nº 2.286, de 01 de junho de 2023.
+
+
+a)
+
+possuir nível superior, ou formação técnica conforme legislação federal;
+
+
+b)
+
+ser detentor de maior tempo de trabalho na Coordenadoria do Sistema de Controle Interno;
+
+
+c)
+
+ter desenvolvido projetos e estudos técnicos de reconhecida utilidade para o Município;
+
+
+d)
+
+maior tempo de experiência na administração pública.
+
+
+**§ 1º** Não poderão ser designados para o exercício da Função de que trata o caput, os servidores que:
+
+
+I - sejam contratados por excepcional interesse público;
+
+
+II - tiverem sofrido penalização administrativa, civil ou penal transitada em julgado;
+
+
+III - realizem atividade político-partidária;
+
+
+IV - exerçam, concomitantemente com a atividade pública, qualquer outra atividade profissional.
+
+
+Art. 7º.
+
+Constituem-se em garantias do ocupante do cargo de Coordenador do Sistema de Controle Interno e dos servidores que integrarem a Unidade:
+
+
+I –
+
+independência profissional para o desempenho das atividades na administração direta e indireta;
+
+
+II –
+
+o acesso a documentos e banco de dados indispensáveis ao exercício das funções de controle interno;
+
+
+III –
+
+a impossibilidade de destituição da função no último ano do mandato do Chefe do Poder Executivo até a data da prestação de contas do exercício do último ano do mandato ao Poder Legislativo.
+
+
+§ 1º
+
+O agente público que, por ação ou omissão, causar embaraço, constrangimento ou obstáculo à atuação da Coordenadoria do Sistema de Controle Interno no desempenho de suas funções institucionais, ficará sujeito à pena de responsabilidade administrativa, civil e penal.
+
+
+§ 2º
+
+Quando a documentação ou informação prevista no inciso II deste artigo envolver assuntos de caráter sigiloso, deverá ser dispensado tratamento especial de acordo com o estabelecido em ordem de serviço pelo Chefe do Poder Executivo.
+
+
+§ 3º
+
+O servidor deverá guardar sigilo sobre dados e informações pertinentes aos assuntos a que tiver acesso em decorrência do exercício de suas funções, utilizando-os, exclusivamente, para a elaboração de pareceres e relatórios destinados à autoridade competente, sob pena de responsabilidade administrativa, civil e penal.
+
+
+##### Seção II — Da Competência da Coordenadoria do Sistema de Controle Interno
+
+
+Art. 8º.
+
+Compete à Coordenadoria do Sistema de Controle Interno a organização dos serviços de controle interno e a fiscalização do cumprimento das atribuições do Sistema de Controle previstos no Art. 2º desta Lei.
+
+
+§ 1º
+
+Para o cumprimento das atribuições previstas no caput, a Coordenadoria:
+
+
+I –
+
+determinará, quando necessário, a realização de inspeção ou auditoria sobre a gestão dos recursos públicos municipais sob a responsabilidade de órgãos e entidades públicos e privados;
+
+
+II –
+
+disporá sobre a necessidade da instauração de serviços seccionais de controle interno na administração direta e indireta, ficando, todavia, a designação dos servidores a cargo dos responsáveis pelos respectivos órgãos e entidades;
+
+
+III –
+
+utilizar-se-á de técnicas de controle interno e dos princípios de controle interno do Conselho Federal de Contabilidade - CFC e da INTOSAI - Organização Internacional de Instituições Superiores de Auditoria;
+
+
+IV –
+
+regulamentará as atividades de controle através de instruções normativas, inclusive quanto às denúncias encaminhadas pelos cidadãos, partidos políticos, organização, associação ou sindicato à Coordenadoria sobre irregularidades ou ilegalidades na Administração Municipal;
+
+
+V –
+
+emitirá parecer sobre as contas prestadas ou tomadas por órgãos e entidades relativos a recursos públicos repassados pelo Município;
+
+
+VI –
+
+verificará as prestações de contas dos recursos públicos recebidos pelo Município;
+
+
+VII –
+
+opinará em prestações ou tomada de contas, exigidas por força de legislação;
+
+
+VIII –
+
+deverá criar condições para o exercício do controle social sobre os programas contemplados com recursos oriundos dos orçamentos do Município;
+
+
+VIII - concentrará as consultas a serem formuladas pelos diversos subsistemas de controle do Município;
+
+
+IX –
+
+responsabilizar-se-á pela disseminação de informações técnicas e legislação aos subsistemas responsáveis pela elaboração dos serviços.
+
+
+X –
+
+realização de treinamentos aos servidores de departamentos e seccionais integrantes do Sistema de Controle Interno.
+
+
+§ 2º
+
+O Relatório de Gestão Fiscal, e o Relatório Resumido da Execução Orçamentária, ambos previstos, respectivamente, nos Arts. 52 e 54 da LC nº 101/2000, além do Contabilista e do Secretário Responsável pela administração financeira, será assinado pelo Coordenador do Sistema de Controle Interno.
+
+
+##### Seção III — Dos Deveres da Coordenadoria Perante Irregularidades no Sistema de Controle Interno
+
+
+Art. 9º.
+
+A Coordenadoria cientificará o Chefe do Poder Executivo mensalmente sobre o resultado das suas respectivas atividades, devendo conter, no mínimo:
+
+
+I –
+
+as informações sobre a situação físico-financeira dos projetos e das atividades constantes dos orçamentos do Município;
+
+
+II –
+
+apurar os atos ou fatos inquinados de ilegais ou de irregulares, praticados por agentes públicos ou privados, na utilização de recursos públicos municipais;
+
+
+III –
+
+avaliar o desempenho das entidades da administração indireta do Município.
+
+
+§ 1º
+
+Constatada irregularidade ou ilegalidade pela Coordenadoria do Sistema de Controle Interno, esta cientificará a autoridade responsável para a tomada de providências, devendo, sempre, proporcionar a oportunidade de esclarecimentos sobre os fatos levantados.
+
+
+§ 2º
+
+Não havendo a regularização relativa a irregularidades ou ilegalidades, ou não sendo os esclarecimentos apresentados como suficientes para elidi-las, o fato será documentado e levado a conhecimento do Prefeito Municipal e arquivado ficando à disposição do Tribunal de Contas do Estado.
+
+
+§ 3º
+
+Em caso da não-tomada de providências pelo Prefeito Municipal, Secretários e Agentes Públicos para a regularização da situação apontada, a Coordenadoria do Sistema de Controle Interno, comunicará o fato ao Tribunal de Contas do Estado, sob pena de responsabilização solidária.
+
+
+Art. 10.
+
+A Tomada de Contas dos Administradores e responsáveis por bens e direitos do Município e a prestação de contas dos Chefes de Poder será organizada pela Coordenadoria do Sistema de Controle Interno.
+
+
+Parágrafo único
+
+Constará da Tomada e Prestação de contas de que trata este artigo relatório resumido da Coordenadoria do Sistema de Controle sobre as contas tomadas ou prestadas.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES GERAIS E FINAIS
+
+
+Art. 11.
+
+O Poder Executivo estabelecerá, em regulamento, a forma pela qual qualquer cidadão, sindicato ou associação, poderá ser informado sobre os dados oficiais do Município relativos à execução dos orçamentos.
+
+
+Art. 12.
+
+A Coordenadoria do Sistema de Controle Interno participará, obrigatoriamente:
+
+
+I –
+
+dos processos de expansão da informatização do Município, com vistas a proceder à otimização dos serviços prestados pelos subsistemas de controle interno;
+
+
+II –
+
+da implantação do gerenciamento pela gestão da qualidade total no Município.
+
+
+Art. 13.
+
+Nos termos da legislação, poderão ser contratados especialistas para atender às exigências de trabalho técnico que, para esse fim, serão estabelecidos em regulamento.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra - PR, em 13 de Dezembro de 2006.  
+  
+FABIAN PERSI VENDRUSCOLO  
+Prefeito Municipal
+

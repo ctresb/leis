@@ -1,0 +1,126 @@
+{
+  "host": "sapl.natercia.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/1/quadro_suplementar_de_servidores.pdf da norma Lei nº 428, de 14 de maio de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/1993/1/quadro_suplementar_de_servidores.pdf",
+      "ano": 1993,
+      "norma": 883
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/2/projeto_de_lei_991-2006.pdf da norma Lei nº 991, de 21 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 991/2006.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2006/2/projeto_de_lei_991-2006.pdf",
+      "ano": 2006,
+      "norma": 781
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/3/anexo_projeto_de_lei_991-2006.pdf da norma Lei nº 991, de 21 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Projeto de Lei nº 991/2006.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2006/3/anexo_projeto_de_lei_991-2006.pdf",
+      "ano": 2006,
+      "norma": 781
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/4/projeto_de_lei_11-2007.pdf da norma Lei nº 1.017, de 28 de maio de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 11/2007.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2007/4/projeto_de_lei_11-2007.pdf",
+      "ano": 2007,
+      "norma": 812
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/5/anexo_projeto_de_lei_11-2007.pdf da norma Lei nº 1.017, de 28 de maio de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Projeto de Lei nº 11/2007.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2007/5/anexo_projeto_de_lei_11-2007.pdf",
+      "ano": 2007,
+      "norma": 812
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/6/projeto_de_lei_32-2007.pdf da norma Lei nº 1.025, de 19 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 32/2007.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2007/6/projeto_de_lei_32-2007.pdf",
+      "ano": 2007,
+      "norma": 820
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/7/anexo_projeto_de_lei_32-2007.pdf da norma Lei nº 1.025, de 19 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Projeto de Lei nº 32/2007.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2007/7/anexo_projeto_de_lei_32-2007.pdf",
+      "ano": 2007,
+      "norma": 820
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/8/projeto_de_lei_35-2008.pdf da norma Lei nº 1.061, de 04 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 35/2008.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2008/8/projeto_de_lei_35-2008.pdf",
+      "ano": 2008,
+      "norma": 917
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/9/anexo_projeto_de_lei_35-2008.pdf da norma Lei nº 1.061, de 04 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Projeto de Lei nº 35/2008.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2008/9/anexo_projeto_de_lei_35-2008.pdf",
+      "ano": 2008,
+      "norma": 917
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/10/projeto_de_lei_42-2014.pdf da norma Lei nº 1.245, de 22 de outubro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 42/2014.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2014/10/projeto_de_lei_42-2014.pdf",
+      "ano": 2014,
+      "norma": 237
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/11/anexo_projeto_de_lei_42-2014.pdf da norma Lei nº 1.245, de 22 de outubro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Projeto de Lei nº 42/2014.",
+      "anexo_arquivo": "http://sapl.natercia.mg.leg.br/media/sapl/public/anexonormajuridica/2014/11/anexo_projeto_de_lei_42-2014.pdf",
+      "ano": 2014,
+      "norma": 237
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.natercia.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.natercia.mg.leg.br/506cfb6e0fc51032b7d5b87c4cbd4a376f1c815d34a99c809500cda2e41fb0f5.json",
+      "sha256": "8f4c88b1a40416b8addaad18405affdebbf765e019222f1813c2ff3ccc438938",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.natercia.mg.leg.br/506cfb6e0fc51032b7d5b87c4cbd4a376f1c815d34a99c809500cda2e41fb0f5.meta.json"
+    }
+  ],
+  "total": 11
+}

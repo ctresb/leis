@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo:  da norma Lei Ordinária-PE nº 895, de 30 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": null,
+      "ano": 2016,
+      "norma": 1091
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/emendas.pdf da norma Lei Ordinária-PE nº 1.172, de 30 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "EMENDAS (01-22) AO PROJETO DE LEI Nº 29/2022 DO PODER EXECUTIVO.",
+      "anexo_arquivo": "http://sapl.conde.pb.leg.br/media/sapl/public/anexonormajuridica/2022/2/emendas.pdf",
+      "ano": 2022,
+      "norma": 263
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conde.pb.leg.br/baf94ecbe982202846125c4c46bce78691215a1c5c5c1a90af384dfd58e282ce.json",
+      "url": "https://sapl.conde.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.conde.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b503443b67edfa5c5ae51bc2975c69fe9af0798e50871e39d711362282fa8183",
+      "bytes": 832,
+      "capturado_em": "2026-10-27T23:20:39.448332-03:00"
+    }
+  ]
+}

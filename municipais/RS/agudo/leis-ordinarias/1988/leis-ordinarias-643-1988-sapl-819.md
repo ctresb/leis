@@ -1,0 +1,56 @@
+---
+titulo: "Lei nº 643, de 18 de julho de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "643"
+data: "1988-07-18"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/819"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/2084/text"
+sha256_fonte: "65f55851856e3126d503ba44f4f7512ca209dcba2dc7241c77ef38a5fc65767b"
+sha256_texto: "f24011030c03058b24745e4cee0894062b9180262243d754be9d7d17cee81dc1"
+capturado_em_fonte: "2026-10-27T21:48:00.087082-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 643, de 18 de julho de 1988
+
+DISPÕE SOBRE O REAJUSTE SALARIAL DO QUADRO DE EMPREGOS, QUADRO PERMANENTE DE CARGOS, CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS, MAGISTÉRIO PÚBLICO MUNICIPAL, QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS.
+
+
+ARI ALVES ANUNCIAÇÃO, PREFEITO MUNICIPAL DE AGUDO, ESTADO DO RIO GRANDE DO SUL, no uso de suas atribuições legais que lhe são conferidas pela pela Lei Orgânica do Município, FAÇO SABER, que a Câmara Municipal de Vereadores aprovou e eu sanciono e promulgo a seguinte LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder a partir do dia 1º de julho de 1988, um aumento geral a todo o funcionalismo Público Municipal, indistintamente de classe ou Padrão, na ordem de 30 % (trinta porcento).
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor a partir do dia 1º de julho de 1988, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, em 18 de julho de 1988.
+
+Bel. ARI ALVES ANUNCIAÇÃO  
+Prefeito Municipal.
+
+Registre-se e Publique-se  
+  
+CLOVIS FERNANDO FICK  
+Sec. da Administração.
+
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td> </td><td colspan="8">TABELA DE REAJUSTE SALARIAL</td></tr><tr><td>A -</td><td colspan="8">QUADRO DE EMPREGO DO MAGISTÉRIO PÚBLICO MUNICIPAL</td></tr><tr><td> </td><td colspan="6">Valor Básico ……………………………...……………………………….…</td><td colspan="2">Cz$ 16.137,00</td></tr><tr><td>B -</td><td colspan="8">QUADRO DE EMPREGO PÚBLICO</td></tr><tr><td> </td><td> </td><td>A</td><td> </td><td>B</td><td> </td><td>C</td><td> </td><td>D</td></tr><tr><td>1…</td><td>……….</td><td>22.713,00</td><td>……….</td><td>23.144,00</td><td>……….</td><td>24.322,00</td><td>……….</td><td>25.522,00</td></tr><tr><td>2…</td><td>……….</td><td>40.622,00</td><td>……….</td><td>42.647,00</td><td>……….</td><td>44.774,00</td><td>……….</td><td>46.997,00</td></tr><tr><td>C -</td><td colspan="8">QUADRO PERMANENTE DE CARGOS</td></tr><tr><td> </td><td> </td><td>0</td><td> </td><td>1</td><td> </td><td>2</td><td> </td><td>3</td></tr><tr><td>1…</td><td>……….</td><td>22.713,00</td><td>……….</td><td>23.144,00</td><td>……….</td><td>24.322,00</td><td>……….</td><td>25.522,00</td></tr><tr><td>2…</td><td>……….</td><td>40.622,00</td><td>……….</td><td>42.647,00</td><td>……….</td><td>44.774,00</td><td>……….</td><td>46.997,00</td></tr><tr><td>3…</td><td>……….</td><td>47.708,00</td><td>……….</td><td>50.096,00</td><td>……….</td><td>52.597,00</td><td>……….</td><td>55.301,00</td></tr><tr><td>4…</td><td>……….</td><td>57.977,00</td><td>……….</td><td>60.868,00</td><td>……….</td><td>63.927,00</td><td>……….</td><td>67.113,00</td></tr><tr><td>5…</td><td>……….</td><td>70.464,00</td><td>……….</td><td>73.991,00</td><td>……….</td><td>77.729,00</td><td>……….</td><td>81.689,00</td></tr><tr><td>D -</td><td colspan="8">CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS</td></tr><tr><td>CC1</td><td>……….</td><td>………..</td><td>21.480,00</td><td> </td><td> </td><td>FG1 ……</td><td>………..</td><td>10.740,00</td></tr><tr><td>CC2</td><td>……….</td><td>………..</td><td>30.656,00</td><td> </td><td> </td><td>FG2 ……</td><td>………..</td><td>15.328,00</td></tr><tr><td>CC3</td><td>……….</td><td>………..</td><td>49.016,00</td><td> </td><td> </td><td>FG3 ……</td><td>………..</td><td>24.508,00</td></tr><tr><td>CC4</td><td>……….</td><td>………..</td><td>85.602,00</td><td> </td><td> </td><td>FG4 ……</td><td>………..</td><td>42.801,00</td></tr><tr><td>E -</td><td colspan="8">QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS</td></tr><tr><td> </td><td colspan="2">Referência Salarial</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="8">1…………………………………………………………………………………………</td><td>14.724,00</td></tr><tr><td colspan="8">2…………………………………………………………………………………………</td><td>16.425,00</td></tr><tr><td colspan="8">3…………………………………………………………………………………………</td><td>16.898,00</td></tr><tr><td colspan="8">4…………………………………………………………………………………………</td><td>18.926,00</td></tr><tr><td colspan="8">5…………………………………………………………………………………………</td><td>20.448,00</td></tr><tr><td colspan="8">6…………………………………………………………………………………………</td><td>22.713,00</td></tr><tr><td colspan="8">7…………………………………………………………………………………………</td><td>27.113,00</td></tr><tr><td colspan="8">8…………………………………………………………………………………………</td><td>35.841,00</td></tr><tr><td colspan="8">9…………………………………………………………………………………………</td><td>37.608,00</td></tr><tr><td colspan="8">10……………………………………………………………………………………..…</td><td>46.734,00</td></tr><tr><td colspan="8">11……………………………………………………………………..…………………</td><td>52.069,00</td></tr></tbody></table>
+
+Agudo, 11 de julho de 1988
+
+<table><tbody><tr><td>CLOVIS FERNANDO FICK<br>Secretário da Administração.</td><td>Bel. ARI ALVES ANUNCIAÇÃO<br>Prefeito Municipal.</td></tr></tbody></table>
+

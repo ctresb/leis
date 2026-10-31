@@ -1,0 +1,34 @@
+---
+titulo: "LEI Nº 585/2026-GP, DE 03 DE JUNHO DE 2026"
+uf: "PA"
+municipio: "BOM JESUS DO TOCANTINS"
+tipo: "Lei Ordinária"
+numero: "585"
+data: 2026-06-03
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 09/06/2026"
+data_publicacao: 2026-06-09
+codigo_identificador: "0CA127B3"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117098_2026-06-08_ebd51d107eacaeb58ea34e2c96c3b5fc.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 585/2026-GP, DE 03 DE JUNHO DE 2026
+
+LEI Nº 585/2026-GP, DE 03 DE JUNHO DE 2026
+LEI Nº 585-2026-GP 03 DE JUNHO DE 2026.
+DISPÕE SOBRE
+A RATIFICAÇÃO
+DA
+APROVAÇÃO DO PLANO DE CARGOS,
+CARREIRA
+E
+REMUNERAÇÃO
+DOS
+SERVIDORES PÚBLICOS DO CONSÓRCIO
+PÚBLICO INTERMUNICIPAL DE SAÚDE DO
+ARAGUAIA E TOCANTINS- CISAT.
+
+Publicado por:
+Maria Gracilene Carvalho da Silva

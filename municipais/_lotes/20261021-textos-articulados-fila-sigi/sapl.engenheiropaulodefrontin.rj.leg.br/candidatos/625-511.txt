@@ -1,0 +1,23 @@
+“Retifica Lei Municipal nº 1301 de 29 de agosto de 2018"
+
+
+A CÂMARA MUNICIPAL DE ENG.º PAULO DE FRONTIN aprova e eu, Jauldo de Souza Balthazar Ferreira, Prefeito Municipal, sanciono e promulgo a seguinte,
+
+
+Art. 1º.
+
+Onde se lê, no artigo 1º, da Lei Municipal 1.301 de 29 de agosto de 2018, na coluna “Proj/Ativ” a numeração 2321, leia-se a numeração 2323, conforme detalhado no quadro abaixo.
+
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td><strong>Órgão</strong></td><td><strong>Unid</strong></td><td><strong>Função</strong></td><td><strong>Sub Função</strong></td><td><strong>Programa</strong></td><td><strong>Proj/Ativ</strong></td><td><strong>Elemento de Despesa</strong></td><td><strong>Valor (R$)</strong></td></tr><tr><td>03</td><td>01</td><td>10</td><td>302</td><td>3004</td><td>2323</td><td>3.3.90.30.00.00.00.00.0122</td><td>25.000,00</td></tr><tr><td>03</td><td>01</td><td>10</td><td>302</td><td>3004</td><td>2323</td><td>3.3.90.32.00.00.00.00.0122</td><td>25.000,00</td></tr><tr><td>03</td><td>01</td><td>10</td><td>302</td><td>3004</td><td>2323</td><td>3.3.90.39.00.00.00.00.0122</td><td>50.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Esta Lei produzirá seus efeitos a contar de sua publicação retroagindo seus efeitos a partir de 31 de agosto de 2018.
+
+
+Eng. Paulo de Frontin, 01 de outubro de 2018.
+
+**JAULDO DE SOUZA BALTHAZAR FERREIRA**  
+Prefeito Municipal

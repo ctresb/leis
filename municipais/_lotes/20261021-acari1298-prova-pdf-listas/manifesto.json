@@ -1,0 +1,35 @@
+{
+  "publicavel": false,
+  "arquivos": [
+    {
+      "arquivo": "municipais/_fonte/auditorias/acari1298-original/lei-1298-2023.fonte.json",
+      "sha256": "f7adeef3ae14176de11182699f171659a8d3aa982bc121f0fcfa25b54cfc2eba",
+      "bytes": 835
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/acari1298-original/lei-1298-2023.pdf",
+      "sha256": "e8989c5af42ce45ba8b143b30657a6161ecbf3be4be57484ab5473a1406f597a",
+      "bytes": 358463
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-acari1298-prova-pdf-listas/diagnostico.json",
+      "sha256": "8215eb47294c308a1779bf680b69a29e86e73485318a841f3ef872f661eba09d",
+      "bytes": 1153
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-acari1298-prova-pdf-listas/extracao-layout.txt",
+      "sha256": "3bc9ac89adf92769570a194efffc39db77c7b739b26f8a2bd307c197f5a85067",
+      "bytes": 49007
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-acari1298-prova-pdf-listas/pagina-002.png",
+      "sha256": "85b4ae0e47e92fa557f48ff2134911bb2649e7d1d0c01cfa602c605055ba6374",
+      "bytes": 282903
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-acari1298-prova-pdf-listas/pagina-011.png",
+      "sha256": "9af594bada96b9a8685146febbc44d0cbacdc483b5fe56b4dbff973b3b8b813b",
+      "bytes": 303431
+    }
+  ]
+}

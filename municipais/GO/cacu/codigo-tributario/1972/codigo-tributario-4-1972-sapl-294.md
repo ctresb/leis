@@ -1,0 +1,2351 @@
+---
+titulo: "Lei Ordinária nº 4, de 11 de janeiro de 1972"
+tipo: "Código tributário"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4"
+data: "1972-01-11"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1976-03-10; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/294"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/175/text"
+sha256_fonte: "8d7f7a3b87c39e007503fb390d648bb4cf1681e8d3c2f71240cab7bdd3c2c80b"
+sha256_texto: "18a5e22553b9c8aa947e1ceaeb3a94ae12571249fba0aca4544925b480464ded"
+capturado_em_fonte: "2026-10-27T22:08:11.938823-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4, de 11 de janeiro de 1972
+
+Institui o Código Tributário do Município de Caçu.
+
+
+**O Prefeito Municipal de Caçu**:  
+  
+Faço saber que Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+## LIVRO I — Do Sistema Tributário Municipal
+
+
+### TÍTULO I — Dos Tributos
+
+
+CAPÍTULO ÚNICO
+
+Das Disposições Preliminares
+
+
+Art. 1º.
+
+Esta Código disciplina a atividade tributária do Município e regula as relações entre o contribuinte e o fisco Municipal decorrentes de tributação.
+
+
+Parágrafo único
+
+As normas deste código aplicam-se às relações tributárias reguladas por lei Municipal, ainda quando o sujeito ativo não seja o próprio Município.
+
+
+Art. 2º.
+
+O sistema tributário do Município compõe-se dos seguintes tributos:
+
+
+I –
+
+Impostos:
+
+
+a)
+
+territorial urbano;
+
+
+b)
+
+predial urbano;
+
+
+c)
+
+sobre serviços de qualquer natureza.
+
+
+II –
+
+Taxas:
+
+
+a)
+
+pelo exercício do poder de policia;
+
+
+b)
+
+pela utilização efetiva ou potencial de serviços públicos Municipais específicos e divisíveis;
+
+
+III –
+
+Contribuição de Melhoria.
+
+
+Parágrafo único
+
+A contribuição de melhoria será disciplinada em lei especial.
+
+
+### TÍTULO II — Dos Impostos
+
+
+#### CAPÍTULO I — Do Imposto Territorial Urbano
+
+
+Art. 3º.
+
+O fato gerador do imposto territorial urbano é a propriedade ou domínio útil do terreno sem edificação situado nas áreas urbanas ou organizável do município.
+
+
+Art. 4º.
+
+A base de cálculo do imposto territorial urbano é o valor venal do terreno, determinado de acordo com o artigo 11.
+
+
+Art. 5º.
+
+A alíquota do imposto territorial urbano é de 3% da base de calculo.
+
+
+#### CAPÍTULO II — Do Imposto Predial Urbano
+
+
+Art. 6º.
+
+O fato gerador do imposto predial urbano é a propriedade ou o domínio útil de terreno sem edificação, digo edificável do Município.
+
+
+§ 1º
+
+O imposto não incidirá sobre construção em andamento.
+
+
+§ 2º
+
+O imposto incidirá sobre construção indeterminada, sobre prédio condenado, em ruína ou em demolição.
+
+
+§ 3º
+
+O imposto incidirá independentemente da concessão ou não do “habite-se” a contar do término da construção.
+
+
+Art. 7º.
+
+A base de cálculo do imposto predial urbano é o valor venal do prédio, incluído o terreno, estabelecido de acordo com o art. 11.
+
+
+Art. 8º.
+
+A alíquota do imposto predial urbano é de 0,5% da base de cálculo.
+
+
+#### CAPÍTULO III — Das Disposições comuns aos Impostos Imobiliários
+
+
+Art. 9º.
+
+A lei fixará a área urbana, sempre que necessário, o executivo proporá projeto de ampliação desta área.
+
+
+Parágrafo único
+
+Para efeitos tributários, estas ampliações só serão consideradas no exercício financeiro subseqüente.
+
+
+Art. 10.
+
+Considera-se área urbanizável aquela assim definida em lei.
+
+
+Art. 11.
+
+O valor venal será aquele decorrente dos padrões da planta de valores do cadastro imobiliário municipal.
+
+
+Art. 12.
+
+O período do fato gerador dos impostos imobiliários é anual. O lançamento, em cada exercício, terá por base o valor correspondente ao ano anterior.
+
+
+Art. 13.
+
+O débito decorrente dos impostos territorial e predial urbano é garantido, em último caso, pelo próprio imóvel tributado.
+
+
+§ 1º
+
+São contribuintes o proprietário do imóvel, o titular do domínio útil ou, à falta de noticias destes, o possuidor, à época do lançamento, salvo de exibir certidão negativa em nome de seu antecessor.
+
+
+§ 2º
+
+Responderá pelos impostos imobiliários o oficial do registro que registre transmissão imobiliária sem a junta de certidão negativa.
+
+
+#### CAPÍTULO IV — Do Imposto Sobre Serviços de Qualquer Natureza
+
+
+Art. 14.
+
+O fato gerador do imposto sobre Serviços de qualquer Natureza é a prestação onerosa ou gratuita de qualquer dos serviços constantes das seguinte lista:
+
+
+I –
+
+médicos, dentistas, veterinários, enfermeiros, protéticos, ortopedistas, fisioterapeutas e congêneres;
+
+
+II –
+
+Hospitais, sanatórios, ambulatórios, pronto-socorros, bancos de sangue, casas de saúde, recuperação ou repouso;
+
+
+III –
+
+Advogados, solicitadores e provisionados;
+
+
+IV –
+
+Agentes da propriedade industrial, artística ou literária, despachantes, peritos e avaliadores particulares, tradutores e intérpretes juramentadas e congêneres;
+
+
+V –
+
+Engenheiros, arquitetos, urbanistas, projetistas, calculistas, desenhistas técnicos, decoradores, paisagistas e congêneres;
+
+
+VI –
+
+Serviços por administração, empreitada, de construção civil, terraplenagem, demolição, conservação e reparação de edifícios, estradas, pontes e outras obras de engenharia, inclusive obras hidreláuticas, serviços auxiliares e congêneres;
+
+
+VII –
+
+Contadores, auditores, economistas, guarda-livros, técnicos em contabilidade;
+
+
+VIII –
+
+Barbeiros, cabeleireiros, manicures, pedicures e congêneres, instituto de beleza e congêneres, estabelecimentos de duchas, massagens, ginásticas, banhos e seus congêneres;
+
+
+IX –
+
+Serviço de transporte urbano ou rural, de cargas ou de passageiros, estritamente de natureza municipal.
+
+
+X –
+
+Serviços de diversões públicas:
+
+
+a)
+
+Teatros, cinemas, circos, auditórios, parques de diversões, exposições com cobrança de ingresso e congêneres, de natureza permanente ou temporária;
+
+
+b)
+
+Bilhares, boliches e outros jogos permitidos, exceto o fornecimento, no recinto, de bebidas alimentos e outras mercadorias, que fica sujeito ao imposto sobre circulação de mercadorias;
+
+
+c)
+
+Cabarés, clubes noturnos, dancings, boates e congêneres, exceto o fornecimento, no recinto de bebidas, alimentos e outras mercadorias, que fica sujeito ao imposto sobre circulação de mercadorias;
+
+
+d)
+
+Bailes e outras reuniões públicas, com o sem a cobrança de ingressos;
+
+
+e)
+
+Competições esportivas ou de destreza física ou intelectual, com ou sem cobrança de ingressos, ou participação de espectador de estações radio técnicas e congêneres;
+
+
+f)
+
+Execução de música por executantes individuais ou conjunto ou transmitida por processo mecânico, elétrico ou eletrônico;
+
+
+XI –
+
+Agências de turismo, passeios e excursões, guias turísticos e intérpretes;
+
+
+XII –
+
+Agenciamento, corretagem ou intermediação de seguros, de cambio, de compra e venda de imóveis, digo, bens moveis ou imóveis, de serviços pessoais de qualquer natureza e quaisquer atividades congêneres ou similares, exceto o agenciamento-corretagem ou intermediação de títulos ou valores imobiliários praticados por instituição que dependa de autorização federal;
+
+
+XIII –
+
+Organização, programação, planejamento e consultoria técnica, financeira ou administrativa, avaliação de bens, mercadorias, riscos ou danos; laboratórios de análises técnicas; processamento de dados; serviços congêneres e similares;
+
+
+XIV –
+
+Organização de feiras de amostras, de congressos e reuniões similares;
+
+
+XV –
+
+Propaganda e publicidade, inclusive planejamento de campanhas ou sistemas regulares de publicidade, e elaboração de desenhos, textos e demais material publicitário (exceto sua impressão, reprodução e fabricação) e a divulgação de tais desenhos, textos ou outros materiais publicitários por qualquer meio apto de torna-los acessíveis ao publico, inclusive por meio de transmissão telefônico ou radiofônica e sua inserção em jornais, periódicos ou livros;
+
+
+XVI –
+
+datilografia, estenografia, secretaria e congêneres;
+
+
+XVII –
+
+Elaboração, copia ou reprodução de plantas, desenhos e documentos;
+
+
+XVIII –
+
+Locação de bens móveis;
+
+
+XIX –
+
+Locação de espaço em bens imóveis, a título de hospedagem;
+
+
+XX –
+
+Armazéns-gerais, armazéns-frigorificos, silos, depósitos de qualquer natureza, guarda-moveis e serviços correlatos, serviços de carga, descarga, arrumação e guarda de bens depositados;
+
+
+XXI –
+
+hospedagem em hotéis, pensões e congêneres, exceto o fornecimento de alimentação, bebidas e outras mercadorias, quando não incluídas no preço da diária ou mensalidade;
+
+
+XXII –
+
+administração de bens ou de negócios;
+
+
+XXIII –
+
+lubrificação, conservação e manutenção;
+
+
+XXIV –
+
+empresas limpadoras;
+
+
+XXV –
+
+Alfaiates, costureiras ou congêneres, quando o material, salvo aviamentos, seja fornecido pelo usuário do serviço;
+
+
+XXVI –
+
+tinturarias e lavanderias;
+
+
+XXVII –
+
+Estúdios fotográficos e cinematográficos, inclusive revelação, ampliação, cópias fotográficas, fotolitografia;
+
+
+XXVIII –
+
+venda de bilhetes de loteria.
+
+
+Art. 15.
+
+Sujeito passivo é o profissional autônomo, estabelecimento ou empresa prestadora de serviço constante da lista do artigo anterior.
+
+
+Art. 16.
+
+O imposto incidirá sobre todos os serviços prestados na área do município, ainda que em caráter eventual e independentemente da lucratividade ou do resultado do serviço.
+
+
+Art. 17.
+
+A base de cálculo será o preço do serviço.
+
+
+Parágrafo único
+
+A base de calculo para efeitos tributários não será inferior ao preço corrente da praça ou, se tratar de serviço tabelado pela SUNAB ou órgão congênere, o preço da tabela vigente à data do fato gerador.
+
+
+Art. 18.
+
+A alíquota do imposto sobre serviços será:
+
+
+I –
+
+para os serviços dos itens I, II, IV, VIII, XIV, XVII, XX, XXI, XXIII, XXIV, XXV, XXVI e XXVII da lista ......................................................................................................... 1%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+II –
+
+Para os serviços dos itens XI, XII, XIII, XV, XVI, XVIII, XIX, XXII e XXVIII .. 2%
+
+
+Art. 19.
+
+No caso do item X da lista, na impossibilidade de determinação do movimento financeiro, serão aplicadas as seguintes alíquotas fixas, sobre o lalário mínimo regional mensal:
+
+
+I –
+
+Para a alínea “a”.
+
+
+a)
+
+quando a atividade for de natureza permanente, por ano .................................... 70%
+
+
+b)
+
+Se de natureza temporárias:
+
+
+1
+
+por mês ................................................................................................................... 35%
+
+
+2
+
+por dia ..................................................................................................................... 10%
+
+
+II –
+
+Para alínea “b”, “c” e “d”:
+
+
+a)
+
+por ano ............................................................................................................... 100%
+
+
+b)
+
+por mês ............................................................................................................... 50%
+
+
+c)
+
+por dia ................................................................................................................. 15%
+
+
+III –
+
+Para as alíneas “e” e “f”:
+
+
+a)
+
+Por ano
+
+
+b)
+
+Por mês
+
+
+c)
+
+Por dia
+
+
+Parágrafo único
+
+No caso do item IX, a alíquota do imposto será de 40% do salário mínimo regional, ao ano.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+Art. 20.
+
+Quando se tratar de prestação de serviços sob a forma de trabalho pessoal do próprio contribuinte, o imposto será qual, digo, calculado com aplicação das seguintes alíquotas fixas sobre o salário mínimo mensal vigente na região:
+
+
+I –
+
+profissionais liberais: advogados, médicos, engenheiros, arquitetos, economistas e outras profissionais de nível universitário, por ano .......................................................................................... 150%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+II –
+
+Contadores, desenhistas, despachantes, corretores e outros intermediários de decoradores ......................................................................................................................... 45%
+
+
+III –
+
+Corretores e outros intermediários de negócios ................................................... 35%
+
+
+IV –
+
+Barbeiros e cabelereiros ....................................................................................... 20%
+
+
+V –
+
+Demais profissões ................................................................................................. 25%
+
+
+Parágrafo único
+
+As sociedades civis, constituídas exclusivamente de profissionais liberais, terão seu imposto calculado com base na alíquota do item I, multiplicada pelo número de seus sócios componentes.
+
+
+### TÍTULO III — Das Imunidades e Isenções
+
+
+#### CAPÍTULO I — Das Imunidades e suas Conseqüências
+
+
+Art. 21.
+
+São isentos os imóveis cedidos gratuitamente ao uso de serviços públicos federais, digo, a imunidade tributaria exclui o pagamento de impostos, mas não de taxas.
+
+
+Art. 22.
+
+São inumes os impostos predial e territorial urbanos os imóveis de propriedade da União e do Estado.
+
+
+Parágrafo único
+
+Gozam de idêntica situação os imóveis de autarquias federais e estaduais, desde que usamos efetivamente no atendimento de suas finalidades legais.
+
+
+Art. 23.
+
+São também imunes a impostos os templos de quaisquer cultos, os prédios e serviços dos partidos políticos e de instituições de educação e Assistência social, na forma do artigo 14 do Código Tributário Nacional.
+
+
+Art. 24.
+
+A imunidade não exclui a obrigatoriedade do cumprimento dos deveres acessórios.
+
+
+#### CAPÍTULO II — Das Isenções
+
+
+Art. 25.
+
+São isentos os imóveis cedidos gratuitamente ao uso de serviços públicos federais, estaduais e municipais.
+
+
+Art. 26.
+
+Gozam de redução dos impostos imobiliários os loteadores que, obedecendo à legislação especifica, dotarem seus loteamentos de equipamentos urbanos, tais como:
+
+
+I –
+
+rede de água ........................................................................................................... 20%
+
+
+II –
+
+rede de esgostos .................................................................................................... 20%
+
+
+III –
+
+Galerias de águas pluviais ................................................................................... 15%
+
+
+IV –
+
+pavimentação ....................................................................................................... 15%
+
+
+V –
+
+Guias e sarjetas ...................................................................................................... 10%
+
+
+§ 1º
+
+Esta redução será proporcional à extenção da testada correspondente ao equipamento efetivamente executado e será de 15 anos, nos casos dos itens I e II, e 10 anos, nos demais casos.
+
+
+§ 2º
+
+Esta redução será transmissível aos adquirentes.
+
+
+Art. 27.
+
+São isentos dos seguintes impostos imobiliários:
+
+
+I –
+
+Prédios ou terrenos cedidos gratuitamente pelos seus proprietários a instituições que visem a prática da caridade, desde que tenham tal finalidade, e os cedidos, nas mesmas condições, a instituições de ensino gratuito;
+
+
+II –
+
+Prédios ou terrenos pertencentes a sociedades ou instituições sem fins lucrativos, que se destinem a congregar classes patrimoniais ou trabalhadores com o fito de realizar a união dos associados, sua representação e defesa, a elevação do seu nível cultural ou físico, a assistência médico-hospitalar ou a recreação social.
+
+
+### TÍTULO IV — Das Taxas
+
+
+#### CAPÍTULO I — Disposições Preliminares
+
+
+Art. 28.
+
+As taxas municipais são:
+
+
+I –
+
+de serviços;
+
+
+II –
+
+pelo exercício do Poder de Polícia.
+
+
+Art. 29.
+
+As taxas de Serviços são cobradas:
+
+
+I –
+
+Pela prestação de um serviço publico Municipal;
+
+
+II –
+
+Pela disponibilidade de um serviço público Municipal;
+
+
+III –
+
+Cumulativamente, pela prestação e disponibilidade de um serviço público municipal;
+
+
+IV –
+
+Pelo uso de bem público.
+
+
+Art. 30.
+
+As taxas pelo exercício do poder de policia são cobradas sempre que o Poder Público Municipal deva desenvolver atividades de vistoria, fiscalização, exame, perícia, apuração de fatos, ou proceder a diligencias ou outras atividades inseridas no seu poder de polícia, na forma da lei, tendo em vista conceder autorização, permissão ou licenciamento para o exercício de atividades sujeitas a fiscalização ou licenciamento.
+
+
+#### CAPÍTULO II — Das Taxas de Serviços e Seu Fato Gerador
+
+
+Art. 31.
+
+São fatos geradores das taxas de serviços:
+
+
+I –
+
+da taxa de expediente, o recebimento de requerimento, petidões e outros papéis;
+
+
+II –
+
+da taxa de certidões, a expedição de certidões, fotocópias autenticadas pelo Município e atestados;
+
+
+III –
+
+da taxa de registros, a lavratura de registros em livros da Municipalidade;
+
+
+IV –
+
+das taxas de colocação de guias e sarjetas; de pavimentação; de calçadas e muros; de cemitério; de iluminação pública; de abate de gado; de numeração de prédios; de medição de terrenos, a prestação do serviço.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+V –
+
+das taxas de remoção do lixo; de limpeza pública; da retransmissão de TV; de telefone; a disponibilidade do serviço.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+VI –
+
+das taxas de localização de barracas, quiosques e similares; de utilização extraordinária, de bem público; o uso de bens públicos.
+
+
+#### CAPÍTULO III — Das Taxas de Polícia e Seu Fato Gerador
+
+
+Art. 32.
+
+As taxas pelo exercício do poder de polícia são os seguintes:
+
+
+I –
+
+de publicidade;
+
+
+II –
+
+de fiscalização e construção de obras;
+
+
+III –
+
+de licença para funcionamento de estabelecimentos;
+
+
+IV –
+
+de licença para comércio em via pública;
+
+
+V –
+
+de permissão para exploração de serviços de transporte coletivo ou individual de passageiros.
+
+
+Art. 33.
+
+É fato gerador das taxas pelo exercício do poder de polícia a emissão de juízo expressivo desse poder.
+
+
+#### CAPÍTULO IV — Da Base de Calculo e das Alíquotas das Taxas de Serviço
+
+
+Art. 34.
+
+São as seguintes as bases de cálculo e as alíquotas das taxas de serviço, aplicadas sobre o salário mínimo regional:
+
+
+I –
+
+da taxa de expediente, o numero de folhas:
+
+
+a)
+
+uma folha ..................................................................................................... 2,00%
+
+
+b)
+
+demais folhas, cada uma ................................................................................ 0,7%
+
+
+II –
+
+da taxa de certidões, o numero de folhas:
+
+
+a)
+
+Uma folha .................................................................................................... 4,00%
+
+
+b)
+
+demais folhas, cada uma ................................................................................ 0,7%
+
+
+III –
+
+da taxa de registros, o número de folhas do livro:
+
+
+a)
+
+Uma folha ...................................................................................................... 6,00%
+
+
+b)
+
+demais folhas, cada uma ................................................................................... 1,0%
+
+
+IV –
+
+Das taxas de:
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+d)
+
+calçadas, o metro quadrado ............................................................................ 3,5%
+
+
+e)
+
+muros, o metro quadrado ............................................................................... 6,0%
+
+
+f)
+
+cemitério, por:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+1
+
+enterramento ........................ 12%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+2
+
+autorização de obras ............... 50%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+g)
+
+iluminação pública, pelo padrão técnico, por ano:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+1
+
+iluminação comum, por metro de testada do imóvel ......... 0,6%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+2
+
+iluminação fluorescente ........... 0,8%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+3
+
+iluminação de mercúrio ........... 1,0%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+h)
+
+medição de terrenos ................. 3,0%
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+h)
+
+abate de gado, por cabeça:
+
+
+1
+
+bovino ............................................................................................................... 5,5%
+
+
+2
+
+suíno, caprino etc .............................................................................................. 3,0%
+
+
+i)
+
+numeração de prédios, além do custo da placa .............................................. 2,0%
+
+
+V –
+
+Das taxas de:
+
+
+a)
+
+remoção de lixo, por metro cúbico ........................ 8,5%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+b)
+
+limpeza pública, por metro linear de testada do imóvel, por ano 0,8%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+c)
+
+retransmissão de TV, por unidade de receptor, por ano .....................................
+
+
+VI –
+
+das taxas de:
+
+
+a)
+
+localização de bancas de ambulantes:
+
+
+1
+
+por ano ............................................................................................................ 35,0%
+
+
+2
+
+por mês .............................................................................................................. 9,0%
+
+
+3
+
+por dia ................................................................................................................0,7%
+
+
+b)
+
+b) localização de quiosques em lugares públicos por ano ........................................35,0%
+
+
+c)
+
+utilização extraordinária de bem público por dia ........................................... 3,0%
+
+
+Parágrafo único
+
+As taxas de colocação de guias e sarjetas e de pavimentação, a que se refere o inciso IV do artigo 31 deste código, serão cobradas de conformidade com o custo das obras, ficando o Prefeito autorizado a, mediante decreto, fixar os preços por metro quadrado ou linear, bem como a reajustá-los na periodicidade necessária.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 57, de 16 de dezembro de 1974.
+
+
+#### CAPÍTULO V — Das Bases de Cálculo e das Alíquotas Das Taxas pelo Poder de Polícia
+
+
+Art. 35.
+
+São as seguintes as bases de cálculo e as alíquotas das taxas pelo poder de polícia, aplicadas sobre o salário mínimo regional:
+
+
+I –
+
+Taxa de publicidade, de acordo com a seguinte tabela:
+
+
+a)
+
+Publicidade em:
+
+
+1
+
+Veículos destinados especialmente a publicidade, por veículo e por dia ......... 4,0%
+
+
+2
+
+cinema, por meio de projeção, por dia .............................................................. 3,0%
+
+
+3
+
+vitrines, para exposição de quaisquer artigos, por semestre ............................. 8,0%
+
+
+b)
+
+Painéis, placas ou tabuletas com anúncios ou letreiros, qualquer que seja o sistema de colocação desde que visíveis de ruas ou estradas municipais, estaduais ou federais, por mês................................................................................................................................ 2,0%
+
+
+c)
+
+Propaganda falada ou escrita, inclusive por meio de folhetos para distribuição externa em via ou logradouro público, por dia .............................................................5,5%
+
+
+d)
+
+Propaganda através de:
+
+
+1
+
+projeções em logradouros públicos, por dia ..................................................... 3,0%
+
+
+2
+
+faixas ou cartazes, por dia ................................................................................. 2,0%
+
+
+II –
+
+taxa de licença e fiscalização de construções e obras:
+
+
+a)
+
+Construções de casas ou edificações .............................................................. 3,0%
+
+
+b)
+
+reconstruções, reformas e demolições ........................................................... 4,0%
+
+
+III –
+
+taxa de licença para funcionamento de estabelecimentos:
+
+
+a)
+
+a) indústria e comércio, por ano:
+
+
+1
+
+classe “A”, com movimento econômico até Cr$ 7.500,00 anual ..................... 10%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+2
+
+classe “B”, com movimento econômico anual entre Cr$ 7.501,00 e Cr$ 10.000,00.................................................................................................................. 14%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+3
+
+classe “C”, com movimento econômico anual de Cr$ 10.001,00 a Cr$ 25.000,00 19,6%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+4
+
+classe “D”, com movimento econômico anual de Cr$ 25.001,00 a Cr$ 50.000,00............................................................................................................... 28,4%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+5
+
+classe “E”, com movimento econômico anual de Cr$ 50.001,00 a Cr$ 75.000,00................................................................................................................ 41,1%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+6
+
+classe “F”, com movimento econômico anual de Cr$ 75.001,00 a Cr$ 100.000,00................................................................................................................ 61,6%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+7
+
+classe “G”, com movimento econômico anual de Cr$ 100.001,00 a Cr$ 175.000,00.................................................................................................................... 92,4%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+8
+
+classe “H”, com movimento econômico anual de Cr$ 175.001,00 a Cr$ 250.000,00............................................................................................................ 143,2%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+9
+
+classe “I”, com movimento econômico anual de Cr$ 250.001,00 a Cr$ 375.000,00......................................................................................................... 213,0%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+10
+
+classe “J”, com movimento econômico anual de Cr$ 375.001,00 a Cr$ 500.000,00............................................................................................................ 283,8%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+11
+
+classe “K”, com movimento econômico anual de Cr$ 500.001,00 a Cr$ 625.000,00............................................................................................................ 354,6%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+12
+
+classe “L”, com movimento econômico anual de Cr$ 625.001,00 a Cr$ 750.000,00......................................................................................................... 425,4%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+13
+
+classe “M”, com movimento econômico anual de Cr$ 750.001,00 até Cr$ 975.000,00..................................................................................................... 496,2%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+14
+
+classe "N", com movimento econômico anual de Cr$ 875.001,00 até Cr$ 1.000.000,00 .......................................................................569,0%
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+15
+
+classe "O", com movimento econômico anual acima de Cr$ 1.000.000,00 .......................................................................538,8%
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 96, de 10 de março de 1976.
+
+
+b)
+
+Prestação de Serviços:
+
+
+1
+
+Sociedades civis com fins lucrativos, por ano ................................................ 10,0%
+
+
+2
+
+Divertimentos Públicos:
+
+
+2.1
+
+Casas de espetáculos:
+
+
+2.1.1
+
+Circos e parques:
+
+
+2.1.1.1
+
+por dia .................................................................................................. 12,0%
+
+
+2.1.1.2
+
+por mês .................................................................................................. 80,0%
+
+
+2.1.1.3
+
+por ano ................................................................................................ 200,0%
+
+
+2.1.2
+
+Cinemas por ano ....................................................................................... 70,8%
+
+
+2.2
+
+Restaurantes dançantes, boates e similares, por semestre ............................ 30,0%
+
+
+2.3
+
+Demais espetáculos, por mês ....................................................................... 15,0%
+
+
+2.4
+
+Boliches, bilhares e outros jogos de mesa, corda ou pista por mês ............. 15,0%
+
+
+2.5
+
+outros divertimentos públicos, por mês ....................................................... 10,0%
+
+
+3
+
+Postos de serviço para veículos, por ano ........................................................ 12,0%
+
+
+4
+
+Profissionais que exercem atividades aplicação de capital, por ano ............... 12,0%
+
+
+5
+
+Oficinas de consertos, por ano ........................................................................ 10,0%
+
+
+6
+
+Barbeiros e cabelereiros, por ano .................................................................... 10,0%
+
+
+7
+
+demais ramos de atividade, por ano ................................................................ 10,0%
+
+
+IV –
+
+Taxa de licença para comercio em via pública, por ambulante:
+
+
+a)
+
+a) por dia ............................................................................................................ 7,5%
+
+
+b)
+
+b) por mês ........................................................................................................... 80,0%
+
+
+c)
+
+c) por ano .......................................................................................................... 200,0%
+
+
+V –
+
+taxa de permissão para exploração de serviço de transporte coletivo ou individual de passageiros, por ano ............................................................................................................ 50%
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+### TÍTULO V — Disposições Gerais
+
+
+#### CAPÍTULO I — Dos Princípios e da Aplicação da Lei Tributária
+
+
+Art. 36.
+
+São princípios obrigatórios para o fisco, na interpretação e aplicação da legislação tributária municipal:
+
+
+I –
+
+Só a lei pode criar tributos;
+
+
+II –
+
+Só a lei pode criar incidências, aplica-las, restringi-las ou suprimi-las;
+
+
+III –
+
+Só a lei pode designar os sujeitos ativo e passivo das relações tributárias;
+
+
+IV –
+
+Só a lei pode estabelecer casos de substituição e responsabilidade;
+
+
+V –
+
+Só a lei pode conceder isenções, reduções ou agravamentos fiscais;
+
+
+VI –
+
+Só a lei pode fixar penalidades tributárias.
+
+
+Parágrafo único
+
+A lei pode autorizar o Executivo a, mediante decreto, corrigir anualmente a expressão monetária das bases de cálculo dos tributos, antes do inicio da vigência do orçamento. O critério será a depreciação da moeda, segundo os índices fixados pelo Ministério do Planejamento ou outro órgão competente. Tal decreto só vigorará a partir do dia 1º de janeiro do ano seguinte.
+
+
+Art. 37.
+
+Nas situações que se não possam solucionar pelas disposições deste código ou da legislação Municipal, recorrer-se-á aos princípios gerais do direito tributário e às soluções normativas adotadas pelos Municípios mais desenvolvidos do país.
+
+
+Art. 38.
+
+As leis tributárias entram em vigor, 10 dias após publicadas, salvo se dispuserem de forma diversa. As que importem agravação tributária, só no dia 1º de janeiro do ano subseguinte.
+
+
+Art. 39.
+
+Nenhuma lei tributária terá efeito retroativo.
+
+
+Art. 40.
+
+Os prazos fixados na legislação tributária contam-se pela seguinte forma:
+
+
+I –
+
+os de ano ou mais são contínuos e terminam no dia equivalente do ano ou mês respectivo;
+
+
+II –
+
+quanto aos fixados em dias, despreza-se o primeiro e conta-se o último.
+
+
+Parágrafo único
+
+Prorrogam-se até o próximo dia útil os prazos vencidos em feriado ou em dia em que a repartição tributária esteja fechada.
+
+
+Art. 41.
+
+As convenções entre particulares não são oponíveis ao fisco municipal.
+
+
+#### CAPÍTULO II — Dos Regulamentos
+
+
+Art. 42.
+
+Mediante decreto, o Prefeito regulamentará a legislação tributária do Município, observados os princípios constitucionais e o disposto neste código.
+
+
+§ 1º
+
+O regulamento se dirige essencialmente aos servidores fiscais do município.
+
+
+§ 2º
+
+O regulamento ditará as medidas necessárias, ao cumprimento da legislação tributária estabelecendo as normas de organização e funcionamento da administração tributária que se fizerem necessárias ao cabal cumprimento da lei.
+
+
+§ 3º
+
+O regulamento não poderá dispor sobre matéria não tratada em lei, não poderá criar tributo, estabelecer ou alterar bases de cálculo ou alíquotas, nem fixar por mais de extinção de obrigações.
+
+
+§ 4º
+
+O regulamento não poderá estabelecer agravações ou isenções, nem criar deveres acessórios, nem ampliar as faculdades do fisco.
+
+
+Art. 43.
+
+Toda e qualquer disposição regulamentar em matéria tributária será veiculada pr decreto. São proibidos instruções, portarias e ordens de serviço que se enderecem ao conhecimento dos contribuintes.
+
+
+Parágrafo único
+
+As normas que devem ser conhecidas pelos contribuintes serão sempre veiculadas por decreto.
+
+
+Art. 44.
+
+A municipalidade imprimirá os formulários de declarações, comunicações e outros documentos necessários ao cumprimento de deveres acessórios.
+
+
+Art. 45.
+
+A Municipalidade dará adequada publicidade a todas as leis e regulamentos em matéria tributária.
+
+
+Art. 46.
+
+As certidões e fotocópias solicitadas pelos contribuintes serão fornecidas no prazo improrrogável de dez dias, sob pena de suspensão de servidor que causar a ultrapassagem do prazo.
+
+
+Parágrafo único
+
+Toda a qualquer fotocópia ou papel produzido por processo fotográfico ou semelhante será assinado pelo servidor que o elaborar e valerá, para todos os efeitos, como documento autêntico.
+
+
+#### CAPÍTULO III — Da Solidariedade e Responsabilidade
+
+
+Art. 47.
+
+São solidariamente responsáveis pelo pagamento dos impostos imobiliários, bem como pelo cumprimento dos deveres necessários , os condômica, sócios, co-possuidores ou comunheiros.
+
+
+Art. 48.
+
+São responsáveis pelo pagamento dos tributos imobiliários ou sucessores a qualquer título, bem como o oficial do registro de imóveis que registrar alienação com a juntada da certidão negativa respectiva.
+
+
+Art. 49.
+
+Os deveres, obrigações e direitos de contribuinte falecido são cumpridos ou exercidos por seu sucessor a titulo universal.
+
+
+#### CAPÍTULO IV — Do Domicilio Tributário
+
+
+Art. 50.
+
+É domicilio tributário o local onde o contribuinte exerce suas atividades tributáveis. Se tratar de pessoa jurídica, o local de qualquer de seus estabelecimentos.
+
+
+§ 1º
+
+O contribuinte deve comunicar mudança de domicilio ao cadastro geral, sob pena de multa e determinação de oficio de seu domicilio.
+
+
+§ 2º
+
+O contribuinte elegerá, de acordo com sua conveniência, qualquer local, na área urbana, como seu domicílio tributário, salvo se residir na área rural.
+
+
+## LIVRO II — Do Direito Administrativo Tributário
+
+
+### TÍTULO I
+
+### Título I
+
+
+#### CAPÍTULO I — Disposições Gerais
+
+
+Art. 51.
+
+Administração tributária ou fisco é a designação legal dos órgãos administrativos municipais que devam velar pela observância da legislação tributária, cumprir os deveres que a lei impõe ao Município e exercer os direitos a ele atribuídos.
+
+
+§ 1º
+
+A estes órgãos incumbe manter atualizados os cadastros e livros de informação, proceder ao lançamento, à cobrança a escrituração e contabilidade da arrecadação, bem como à fiscalização dos contribuintes e da ocorrência de fatos geradores.
+
+
+§ 2º
+
+Também incumbe à administração tributária Municipal a lavratura de autos de infração e a aplicação das sanções previstas na legislação tributária, bem como o auxílio e orientação aos contribuintes.
+
+
+Art. 52.
+
+Todos os atos, sem qualquer exceção, praticados pela administração tributaria serão públicos.
+
+
+Parágrafo único
+
+Qualquer contribuinte terá direito de examinar livros, papéis e documentos de qualquer espécie nas repartições fiscais.
+
+
+Art. 53.
+
+A administração tributária adotará procedimentos mecanizados, técnicas e racionalização do trabalho e métodos bancários, sempre que possível.
+
+
+Art. 54.
+
+Serão punidos na forma da lei os servidores fiscais que ministrarem informações erradas, as sonegarem ou forem desidiosos ou destentos com os contribuintes.
+
+
+§ 1º
+
+Será punido com pena de demissão, depois de processo regular, o servidor que favorecer ou prejudicar contribuintes, desviando-se de critério da lei.
+
+
+§ 2º
+
+O superior hierárquico que tomar conhecimento de indícios deste comportamento é obrigado a determinar a instauração de processo, sob pena de demissão.
+
+
+### TÍTULO II — Do Lançamento
+
+
+#### CAPÍTULO I — Princípios Gerais
+
+
+Art. 55.
+
+São competentes para praticarem o ato de lançamento os funcionários da administração tributária designados para esse fim.
+
+
+Art. 56.
+
+É passível de punição, de oficio ou requerimento do interessado, o funcionário que retardar, omitir, apressar ou, de qualquer forma, desviar-se dos critérios legais ao proceder ao lançamento ou sem preparo.
+
+
+Art. 57.
+
+No despacho de lançamento o funcionário consignará a ocorrência do fato gerador, data, circunstancias legalmente relevante, base de cálculo, numero da lei ou das leis que aplicar, os dados objetivos da matéria tributada, bem como o nome do contribuinte ou responsável legal, tudo no ingresso próprio. Em seguida, fará a aplicação da alíquota à base tributária, procedendo aos cálculos previstos em lei.
+
+
+Art. 58.
+
+São aplicáveis ao lançamento os critérios legais vigentes à data da ocorrência do fato gerador, ainda que revogados no momento do lançamento. Aplica-se a lei nova, em matéria de penalidades, quando venha beneficiar o contribuinte.
+
+
+#### CAPÍTULO II — Das Disposições Gerais Relativas aos Impostos Imobiliários
+
+
+Art. 59.
+
+O lançamento dos tributos imobiliários será procedido por uma comissão de funcionários, à vista dos dados referentes ao imóvel tributado, à luz dos critérios da planta de valores.
+
+
+Art. 60.
+
+Feito o lançamento e individualizado o débito tributário, expedir-se-á documento formal de que constem, ainda que resumidamente, todos os dados relevantes para o lançamento, do qual se dará ciência ao contribuinte ou responsável, pessoalmente, mediante a entrega do aviso-recibo.
+
+
+Parágrafo único
+
+Qualquer pessoa no domicílio fiscal poderá assinar o aviso-recibo, à falta do contribuinte.
+
+
+Art. 61.
+
+A administração tributária poderá utilizar o mesmo aviso-recibo para notificação de lançamento das taxas que recaiam sobre o imóvel.
+
+
+Art. 62.
+
+O lançamento referente a imóvel objeto de compromisso de compra e venda será feito em nome de quem estiver na sua posse.
+
+
+Art. 63.
+
+Dentro do prazo de cinco anos, a contar do encerramento do ano base, poderá a administração tributária proceder ao lançamento omitido ou completar lançamento insuficiente, em razão de erro de fato.
+
+
+### TÍTULO III — Da Divida Ativa
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 64.
+
+Constitui dívida ativa do Município a proveniente de impostos, taxas, contribuição de melhoria e multas de qualquer natureza, regularmente inscrita na repartição administrativa competente, depois de esgotado o prazo fixado para pagamento pela lei ou por decisão final proferida em processo regular.
+
+
+Art. 65.
+
+Para todos os efeitos legais, considera-se como inscrita a dívida registrada em livros especiais na repartição competente da Prefeitura.
+
+
+Art. 66.
+
+Encerrado o exercício financeiro, a repartição competente providenciará imediatamente, a inscrição dos débitos fiscais por contribuinte.
+
+
+Parágrafo único
+
+Independentemente, porém, do término do exercício financeiro, os débitos fiscais não pagos em tempo hábil poderão ser inscritos no livro próprio da dívida ativa Municipal.
+
+
+Art. 67.
+
+O Município fará publicar, no seu órgão oficial, ou pelos meios habituais, nos trinta dias subseqüentes à inscrição e durante cinco dias, relação contendo:
+
+
+I –
+
+nome dos devedores e endereço relativo à dívida;
+
+
+II –
+
+Origem da dívida e seu valor.
+
+
+Parágrafo único
+
+Dentro de trinta dias, a contar da data de publicação da relação, será feita a cobrança amigável da dívida ativa, depois de que a Prefeitura encaminhará para cobrança judicial à medida que forem sendo extraídas, as certidões relativas aos débitos.
+
+
+Art. 68.
+
+O termo de inscrição da dívida ativa, autenticado pela autoridade competente, indicará, obrigatoriamente:
+
+
+I –
+
+O nome do devedor e, sendo o caso, os dos co-responsáveis, bem como sempre que possível, o domicílio ou residência de um ou de outros.
+
+
+II –
+
+A origem e a natureza do crédito fiscal, mencionando a lei tributária respectiva;
+
+
+III –
+
+A quantia devida e a maneira de calcular os juros de mora acrescidos;
+
+
+IV –
+
+A data em que foi inscrita;
+
+
+V –
+
+O número de processo administrativo de que se origina o crédito fiscal, sendo o caso.
+
+
+Parágrafo único
+
+A certidão, devidamente autenticada, contará, além dos requisitos deste artigo, a indicação do livro e da folha de inscrição.
+
+
+Art. 69.
+
+As dívidas relativas ao mesmo devedor, quando conexas ou conseqüentes, serão reunidas em um só processo.
+
+
+Art. 70.
+
+As certidões da divida ativa, para cobrança judicial, deverão conter os elementos mencionados no artigo 68 deste código.
+
+
+Art. 71.
+
+O recebimento de débitos fiscais constantes de certidões já encaminhadas para cobrança executiva, será feito exclusivamente à vista de guia em duas vias, expedidas pelos escrivões ou advogados, com o visto do órgão jurídico da Prefeitura, incumbido da cobrança judicial da dívida.
+
+
+Parágrafo único
+
+A partir da data de publicação da relação, começará a fluir o prazo de trinta dias para a cobrança por procedimento amigável. Decorrido este prazo, ajuizar-se-á a competente ação executiva.
+
+
+Art. 72.
+
+As guias, que serão datadas e assinadas pelo emitente conterão:
+
+
+I –
+
+O nome do devedor e seu endereço;
+
+
+II –
+
+O número da inscrição da dívida;
+
+
+III –
+
+A importância total do débito e o exercício ou período que se refere;
+
+
+IV –
+
+A multa, os juros de mora e a correção monetária a que estiver sujeito o débito;
+
+
+V –
+
+As custas judiciais.
+
+
+Art. 73.
+
+Não se efetuará a recebimento de débitos fiscais inscritos na dívida ativa com dispensa da multa, dos juros de mora e da correção monetária, ressalvados os casos de mandado judicial.
+
+
+Art. 74.
+
+Encaminhada a certidão da dívida ativa para cobrança executiva, cessará a competência do órgão fazendário para agir ou decidir quanto a ela, cumprindo-lhe, entretanto, prestar as informações solicitadas pelo órgão encarregado da execução e pelas autoridades judiciárias.
+
+
+### TÍTULO IV — Dos Deveres Acessórios
+
+
+#### CAPÍTULO I — Disposições Gerais
+
+
+Art. 75.
+
+Toda pessoa sujeita ao poder Público Municipal deve colaborar com a administração tributária, prestando as informações, esclarecimentos, dados e notícias solicitadas, bem como exibindo papéis, livros, documentos e coisas.
+
+
+Art. 76.
+
+Os contribuintes são obrigados especialmente a:
+
+
+I –
+
+Inscrever-se nos cadastros;
+
+
+II –
+
+Manter escrituração e expedir documentos, notas fiscais e outros papéis exigidos pela lei;
+
+
+III –
+
+exibir documentos e livros relacionados com fator geradores;
+
+
+IV –
+
+Prestar esclarecimentos e informação quando solicitados;
+
+
+V –
+
+Cumprir as exigências contidas nas leis tributárias ou delas decorrentes.
+
+
+Art. 77.
+
+Os contribuintes podem requer, a qualquer tempo, as devidas retificações nos cadastros e outros documentos oficiais.
+
+
+Parágrafo único
+
+As pessoas isentas são obrigadas a cumprir os deveres acessórios estabelecidos na lei.
+
+
+Art. 78.
+
+O município fará convênio com as pessoas imunes, para delas poder receber informações regulares a obrigações de terceiros.
+
+
+Art. 79.
+
+Para gozar de direito de que se trata o § 2º do art. 26, o adquirente ou compromissário comprador deverá requere-lo em trinta dias, a contar da assinatura do contrato respectivo, por escrito, em petição instruída com a ficha cadastral devidamente preenchida com os dados referente à nova situação.
+
+
+Art. 80.
+
+Todo possuidor de aparelho de televisão deverá comunicar o fato do fisco por ocasião da aquisição ou da publicação desta lei.
+
+
+Art. 81.
+
+Todo comerciante que vender aparelho de televisão deverá comunicar a quem vendeu.
+
+
+Art. 82.
+
+Será punido com suspensão o funcionário Municipal que revelar fatos de que tenha conhecimento em razão de sua função.
+
+
+Art. 83.
+
+O descumprimento dos deveres acessórios sujeita o contribuinte e terceiros a multa e a uma sobretaxa, na forma deste código.
+
+
+### TÍTULO V — Dos Cadastros e da Planta de Valores
+
+
+#### CAPÍTULO I — Do Cadastro Geral
+
+
+Art. 84.
+
+A Prefeitura manterá um cadastro geral:
+
+
+I –
+
+dos imóveis urbanos;
+
+
+II –
+
+dos prestadores de serviços;
+
+
+III –
+
+dos industriais e comerciantes;
+
+
+IV –
+
+dos veículos;
+
+
+V –
+
+dos contribuintes em geral.
+
+
+§ 1º
+
+Todos os proprietários ou possuidores de veículos, bem como os industriais, comerciantes e prestadores de serviço do Município, deverão ser inscritos no cadastro geral, voluntariamente ou de ofício, conforme dispuser o regulamento.
+
+
+§ 2º
+
+Do cadastro Geral constarão todos os dados relevantes para efeitos tributários, o cadastro geral será atualizado constantemente.
+
+
+§ 3º
+
+Os números cadastrais dos contribuintes, sempre que possível, serão os mesmos que os do Cadastro Geral de contribuintes, (CGC) do Ministério da Fazenda.
+
+
+Art. 85.
+
+O Prefeito é autorizado a celebrar convênios com a União, com o Estado ou com outros Municípios e suas autarquias, para o fim de intercambiar dados e informações que interessem aos respectivos cadastros.
+
+
+#### CAPÍTULO II — Do Cadastro Imobiliário Municipal
+
+
+Art. 86.
+
+A administração tributária organizará e manterá o cadastro imobiliário Municipal, do qual constarão os dados interessantes à tributação relativos a todos os imóveis situados nas áreas urbana e urbanizável do Município.
+
+
+§ 1º
+
+Todos os imóveis serão cadastrados, abrindo-se uma ficha para cada qual.
+
+
+§ 2º
+
+Todo proprietário imobiliário é obrigado a inscrever-se neste cadastro, sob pena de multa, cobrada juntamente com o imposto.
+
+
+§ 3º
+
+A inscrição de ofício será feita sempre que o proprietário se omita. Além da multa será cobrada a sobretaxa correspondente.
+
+
+§ 4º
+
+Anualmente, no mês que for estabelecido no regulamento, serão comunicadas ao cadastro as modificações nas condições do imóvel que possam alterar a tributação.
+
+
+#### CAPÍTULO III — Da Planta de Valores e da Comissão Municipal de Valores
+
+
+Art. 87.
+
+É criada a Comissão Municipal de Valores, que terá por atribuição estabelecer os critérios de determinação dos valores imobiliários do Município, levando em conta:
+
+
+I –
+
+localização;
+
+
+II –
+
+área do terreno;
+
+
+III –
+
+área construída;
+
+
+IV –
+
+equipamentos urbanos (guias, calçamento, água, esgoto, iluminação, etc);
+
+
+V –
+
+proximidades de centro comerciais ou serviços públicos;
+
+
+VI –
+
+tipo de edificação e sua finalidade;
+
+
+VII –
+
+padrão de construção e sua idade.
+
+
+§ 1º
+
+Depois de estabelecidos os critérios em tese e atribuídos valores ao metro quadrado de terreno e de construção, conforme estas características, a Comissão oferecerá, sob a forma de tabela de valores, parecer vinculante ao Prefeito, que expedirá antes da vigência do exercício financeiro, a planta de valores mediante decretos.
+
+
+§ 2º
+
+A comissão de Valores decidirá em tese e fazendo obstração dos casos concretos.
+
+
+Art. 88.
+
+Com base na planta de valores elaborado de acordo com os critérios referidos no artigo anterior, uma comissão integrada por dois funcionários fiscais e de contribuintes que não tenham pertencido à Comissão de Valores procederá aos lançamentos, à vista dos dados do cadastro imobiliário.
+
+
+Art. 89.
+
+A Comissão de Valores será composta de cinco membros, na seguinte forma:
+
+
+I –
+
+um funcionário fiscal, designado pelo Prefeito;
+
+
+II –
+
+um funcionário não ligado ao setor fiscal, também designado pelo Prefeito;
+
+
+III –
+
+um vereador designado pela Câmara Municipal;
+
+
+IV –
+
+dois representantes dos contribuintes, designados pela Associação Comercial e Industrial.
+
+
+§ 1º
+
+As funções de membro da Comissão de Valores são honoríficas e não remuneradas, considerando-se o trabalho a ela prestados como colaboração relevante ao Município.
+
+
+§ 2º
+
+O Executivo ouvirá obrigatoriamente a Comissão de Valores, sempre que tiver que atualizar ou estabelecer valores para efeitos tributários.
+
+
+### TÍTULO VI — Das Infrações e das Penalidades
+
+
+#### CAPÍTULO I — Das Infrações em Espécie
+
+
+Art. 90.
+
+Constituem infrações tributárias:
+
+
+I –
+
+Não promover inscrições nos cadastros ou não comunicar as alterações cadastrais;
+
+
+II –
+
+Negar-se a exibir livros, papéis e documentos ou negar-se a prestar esclarecimentos e informações;
+
+
+III –
+
+Impedir, embaraçar ou dificultar a fiscalização;
+
+
+IV –
+
+fornecer por escrito ao fisco dados ou informações inverídicas;
+
+
+V –
+
+Não comunicar a venda ou posse de aparelho de televisão;
+
+
+VI –
+
+instalar ou colocar banca, quiosque ou semelhante sem a obtenção prévia do respectivo alvará;
+
+
+VII –
+
+exercer qualquer atividade sujeita a taxa pelo poder de polícia sem a prévia obtenção do alvará ou licença.
+
+
+#### CAPÍTULO II — Das Multas
+
+
+Art. 91.
+
+As infrações tributárias serão punidas com as seguintes multas:
+
+
+I –
+
+nos casos dos incisos I, II, III, IV e V do art. 90, multa de 20%;
+
+
+II –
+
+nos casos dos incisos VI e VII, multa de 100% sobre a taxa prevista para o obtenção do alvará, licença ou autorização.
+
+
+Parágrafo único
+
+A multa prevista no inciso II deste artigo somente será cobrada quando a taxa não for paga dentro de trinta dias, contados do início da atividade a que se refere o inciso VII do art. 50, cobrando-se antes dos trinta dias, apenas 30% da multa.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+#### CAPÍTULO III — Da Reincidência
+
+
+Art. 92.
+
+O contribuinte terá o prazo de trinta dias, a contar da intimação da autuação, para regularizar sua situação tributária, sob pena de considerar-se reincidente.
+
+
+Art. 93.
+
+Na reincidência específica as multas serão aplicadas em dobro, na genérica, com 50% de acréscimo.
+
+
+Parágrafo único
+
+Não se considera reincidência genérica a prática de qualquer infração, depois de um ano, e específica, depois de dois anos.
+
+
+Art. 94.
+
+Se, no mesmo processo, se apura a prática de mais de uma infração, desde que afim, aplicar-se-á a multa correspondente mais grave.
+
+
+Art. 95.
+
+Considera-se reincidência específica a repetição de infração punida pelo mesmo inciso.
+
+
+Art. 96.
+
+Considera-se reincidência genérica a repetição de qualquer infração.
+
+
+### TÍTULO VII — Do Processo Tributário
+
+
+#### CAPÍTULO I — Do Processo de Aplicação de Penalidades
+
+
+Art. 97.
+
+Diante de noticia ou indicio de prática de qualquer infração, a autoridade competente, na forma da lei, determinará a abertura de processo para a aplicação de multa respectiva, e, se for o caso, cobrança de tributo devido com os acréscimos legais.
+
+
+Art. 98.
+
+O agente fiscal competente procederá às diligências, investigações, exame e verificações necessárias a elaborará o auto de infração, do qual constarão os seguintes dados:
+
+
+I –
+
+Nome e domicilio do infrator;
+
+
+II –
+
+Descrição da infração;
+
+
+III –
+
+Disposições legais infringidas;
+
+
+IV –
+
+Aplicação das penalidades e tributos devidos.
+
+
+Art. 99.
+
+A pessoa implicada no auto de infração será pessoalmente intimada do inteiro teor do auto, tendo o prazo de trinta dias para apresentar sua defesa.
+
+
+Art. 100.
+
+Feitas as provas requeridas e instruído o processo, no prazo de trinta dias, será decidido pela autoridade superior ao agente fiscal que levou o auto de infração.
+
+
+Art. 101.
+
+Notificado da decisão, o contribuinte terá o prazo de dez dias para pagar, ou interpor recurso à autoridade competente, que o julgará no prazo de quinze dias, ordenando as diligências e perícias que entender úteis ao seu pleno esclarecimento.
+
+
+Art. 102.
+
+O contribuinte será notificado da decisão, tendo o prazo de dez dias para pagar a importância fixada pela autoridade competente.
+
+
+Art. 103.
+
+O pagamento de multas não dispensa o cumprimento das demais exigências legais e o pagamento das sobretaxas e demais tributos devidos.
+
+
+#### CAPÍTULO II — Da Apreensão de Bens e Documentos
+
+
+Art. 104.
+
+Poderão ser apreendidas as coisas móveis, inclusive mercadorias e documentos, existentes em estabelecimento comercial, industrial, agrícola ou profissional, ou em outros lugares ou em transito, que constitua prova material de infração tributária, estabelecida neste código, em lei a regulamentos.
+
+
+Parágrafo único
+
+Havendo prova, ou fundada suspeita, de que as coisas se encontram em residência particular ou lugar utilizado como moradia, serão promovidos a busca e apreensão judiciais, sem prejuízo das medidas necessárias para evitar a remoção clandestina.
+
+
+Art. 105.
+
+Da apreensão lavrar-se-á auto, com os elementos do auto de infração, observando-se, no que couber, o disposto no art. 98 deste código.
+
+
+Parágrafo único
+
+O auto de apreensão conterá a discriminação das coisas ou dos documentos apreendidos, a indicação do lugar onde ficaram depositados e a assinatura do depositário, o qual será designado pelo atuante, podendo a designação recair no próprio detentor, se for idôneo, a juízo do atuante.
+
+
+Art. 106.
+
+Os documentos apreendidos poderão, a requerimento do autuado, ser-lhe devolvidos, ficando no processo cópia do inteiro teor ou da parte que deva fazer prova, caso o original não seja indispensável a esse fim.
+
+
+Art. 107.
+
+As coisas apreendidas serão restituídas, a requerimento, mediante depósito das quantias exigíveis, cuja a importância será arbitrada pela autoridade competente, ficando retidos, até decisão final, os espécimes necessários à prova.
+
+
+Art. 108.
+
+Se o autuado não provar o preenchimento das exigências legais para a libertação dos bens apreendidos, no prazo de sessenta dias, a contar da data de apreensão, serão os bens levados a hasta pública ou leilão.
+
+
+§ 1º
+
+Quando a apreensão recair em bens de fácil deterioração, a hasta pública ou o leilão poderá realizar-se a partir do próprio dia da apreensão.
+
+
+§ 2º
+
+Apurando-se, na venda, importância superior ao tributo é a multa devidas, será o autuado notificado, no prazo de cinco dias, para receber o excedente, se já não tiver comparecido para faze-lo.
+
+
+#### CAPÍTULO III — Da Reconsideração e do Recurso
+
+
+Art. 109.
+
+O contribuinte ou responsável, inconformado com os lançamentos, poderá, no prazo de 15 dias do recebimento dos avisos respectivos, pedir reconsideração, apresentando, em petição circunstanciada, suas razoes de fato e de direito.
+
+
+§ 1º
+
+O pedido de reconsideração será apreciado no prazo de quinze dias.
+
+
+§ 2º
+
+Notificado o contribuinte da decisão, terá dez dias para pagar ou interpor recurso de revisão.
+
+
+Art. 110.
+
+O recurso de revisão deverá ser apreciado no prazo de trinta dias.
+
+
+Parágrafo único
+
+Notificado o contribuinte da decisão terá o prazo de dez dias para pagar.
+
+
+#### CAPÍTULO IV — Da Consulta
+
+
+Art. 111.
+
+Os contribuintes poderão dirigir consultas ao fisco municipal sobre o modo de cumprimento de suas obrigações tributárias e deveres acessórios.
+
+
+Parágrafo único
+
+As consultas devem descrever completa e exatamente as hipóteses a que se referirem, com indicação precisa dos fatos concretos a que visam, e de vem conter uma sugestão de solução.
+
+
+Art. 112.
+
+Não será recebida consulta quando o contribuinte estiver sob processo fiscal, salvo se tratar de matéria diversa.
+
+
+#### CAPÍTULO V — Da Restituição de Pagamento Indevido
+
+
+Art. 113.
+
+Quem pagar tributo indevido, total ou parcialmente, tem direito a obter devolução, ainda que o erro causador do pagamento seja seu.
+
+
+Parágrafo único
+
+O interessado dirigirá petição fundamentada à Chefia do Setor de Fazenda, a qual decidirá no prazo de sessenta dias, depois de ouvir os agentes fiscais competentes e produzidas as provas e alegações necessárias ao pleno esclarecimento da questão.
+
+
+#### CAPÍTULO VI — Da Mora e da Correção Monetária
+
+
+Art. 114.
+
+Os débitos não pagos no seu vencimento estão sujeitos a mora à razão de 1% ao mês, a contar da data fixada para o pagamento, salvo se for interposto recurso previsto em lei.
+
+
+Art. 115.
+
+Os débitos pagos com atraso sofrem automaticamente os seguintes acréscimos, observado o disposto no art. 92:
+
+
+I –
+
+Se de dez dias ....................................................................................................... 5%
+
+
+II –
+
+Se até trinta dias ................................................................................................ 10%
+
+
+III –
+
+Se acima de trinta dias ..................................................................................... 20%
+
+
+Parágrafo único
+
+No caso da taxa de telefone, decorridos quarenta e cinco dias de seu vencimento, será cortada a linha telefônica.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+Art. 116.
+
+Decorridos noventa dias do vencimento do débito fiscal, incluídos os acréscimos e penalidades, a cobrança será feita com correção monetária com base nos índices fixados pelo órgão federal competente.
+
+
+#### CAPÍTULO VII — Das Sobretaxas
+
+
+Art. 117.
+
+Serão cobradas sobretaxas, no valor de 2% do salário mínimo regional:
+
+
+I –
+
+no valor de 2% do salário mínimo regional:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+a)
+
+pela inscrição de ofício no cadastro geral;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+b)
+
+pela inscrição de ofício no cadastro imobiliário;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+II –
+
+no valor de 4% do salário mínimo regional, pela religação de linha telefônica cortada por atraso de pagamento da taxa do telefone.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 39, de 26 de dezembro de 1973.
+
+
+### TÍTULO VIII — Das Disposições Finais
+
+
+Art. 118.
+
+Salário mínimo, para os efeitos deste código, é o vigente no Município em 31 de dezembro do ano anterior ao da ocorrência dos fatos geradores de obrigações tributárias.
+
+
+Art. 119.
+
+Este código entrará em vigor a 1º de fevereiro de 1972, revogadas as disposições em contrário.
+
+
+**Prefeitura Municipal de Caçu**, Estado de Goiás, em 11 de janeiro de 1972.
+
+
+**Oldack Musa dos Santos**
+
+**- Prefeito Municipal -**
+

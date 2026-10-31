@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/1/declaracao_ile_ase_danada.pdf da norma Decreto Legislativo nº 836, de 08 de novembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Declaramos para os devidos fins a renovação da utilidade pública da ASSOCIAÇÃO lLÊ ASÉ DANADANA, inscrita no MF/CNPJ no. 16.415.91110001-10, estabelecida na Rua São João, no 189, Baino Centro, nesta cidade de Caetité-Ba, entidade sem fins lucrativos.",
+      "anexo_arquivo": "http://sapl.caetite.ba.leg.br/media/sapl/public/anexonormajuridica/2016/1/declaracao_ile_ase_danada.pdf",
+      "ano": 2016,
+      "norma": 675
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/2/declaracao_de_associcao_amigos_da_apae.pdf da norma Decreto Legislativo nº 5, de 23 de maio de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "DECLARAMOS PARA OS DEVIDOS FINS A RENOVAÇÃO DA UTILIDADE PÚBLICA DA ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS - APAE DE CAETITÉ.",
+      "anexo_arquivo": "http://sapl.caetite.ba.leg.br/media/sapl/public/anexonormajuridica/1998/2/declaracao_de_associcao_amigos_da_apae.pdf",
+      "ano": 1998,
+      "norma": 1364
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caetite.ba.leg.br/8dbed15b0c1957828c5561c23a316ab461543166db731275cd18de3ec1991afb.json",
+      "url": "https://sapl.caetite.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.caetite.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "da5e652b65ceb61d1a323e6716dff00b3b10831c0ef286ba45c9a324d9b9bb37",
+      "bytes": 1447,
+      "capturado_em": "2026-10-27T22:14:11.345611-03:00"
+    }
+  ]
+}

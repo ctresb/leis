@@ -1,0 +1,339 @@
+Regulamenta a elaboração do Plano de Contratações Anual - PCA a que se referem os arts. 12, inciso VII da Lei Federal nº 14.133, de 1º de abril de 2021, no âmbito do Poder Legislativo do Município de Agudo.
+
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE AGUDO, no uso de suas atribuições regimentais, pela Lei Orgânica Municipal e pelo Regimento Interno da Câmara, e  
+CONSIDERANDO a Lei Federal nº 14.133, de 1º de abril de 2021 – Lei de Licitações e Contratos Administrativos,
+
+RESOLVE
+
+
+##### Seção I — Finalidades e Sistema para Elaboração do PCA
+
+
+Art. 1º.
+
+O Plano de Contratações Anual - PCA é o documento que consolida as demandas que o órgão ou a entidade planeja contratar no exercício subsequente ao de sua elaboração.
+
+
+§ 1º
+
+O Poder Legislativo poderá utilizar o Sistema de Planejamento e Gerenciamento de Contratações – PGC, que constitui a ferramenta informatizada integrante do Sistema de Compras do Governo Federal - Comprasnet 4.0, disponibilizada pela Secretaria de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia, para elaboração do PCA, mediante celebração de Termo de Acesso, conforme disposto na Portaria n. 355, de 9 de agosto de 2019, ou o ato normativo que a substituir.
+
+
+§ 2º
+
+Caso seja adotado o PGC da União, deverão ser observados os procedimentos estabelecidos no Manual do Sistema de PGC, disponível no Portal de Compras do Governo Federal, para acesso ao sistema, operacionalização e elaboração do PCA.
+
+
+§ 3º
+
+Em caso de não utilização do Sistema de PGC da União, poderá o órgão ou entidade elaborar o PCA em ferramenta informatizada própria.
+
+
+§ 4º
+
+Fica dispensado de registro no Sistema que o Município adotar, dos itens classificados como sigilosos, nos termos da Lei Federal no 12.527, de 18 de novembro de 2011, ou abrangidos pelas demais hipóteses legais de sigilo.
+
+
+§ 5º
+
+O Poder Legislativo deverá assegurar o sigilo e a integridade dos dados e informações da ferramenta informatizada de que trata esta Resolução, protegendo-os contra danos e utilizações indevidas ou desautorizadas no âmbito de sua atuação.
+
+
+§ 6º
+
+No caso de classificação parcial de informações, as partes não classificadas como sigilosas deverão ser cadastradas no Sistema ou o que o Município adotar, quando couber.
+
+
+§ 7º
+
+O órgão e a entidade, seus secretários, dirigentes e servidores que utilizem o Sistema ou outro que o Município adotar responderão administrativa, civil e penalmente por ato ou fato que caracterize o uso indevido de senhas de acesso ou que transgrida as normas de segurança instituídas.
+
+
+##### Seção II — Objetivos do PCA
+
+
+Art. 2º.
+
+A elaboração do PCA pelos órgãos e pelas entidades tem como objetivos:
+
+
+I –
+
+racionalizar as contratações das unidades administrativas de sua competência, por meio da promoção de contratações centralizadas e compartilhadas, a fim de obter economia de escala, padronização de produtos e serviços e redução de custos processuais;
+
+
+II –
+
+garantir o alinhamento com o planejamento estratégico, o Plano de Gestão de Logística Sustentável e outros instrumentos de governança existentes;
+
+
+III –
+
+subsidiar a elaboração da Lei de Diretrizes Orçamentária e da Lei Orçamentária;
+
+
+IV –
+
+evitar o fracionamento de despesas;
+
+
+V –
+
+estabelecer um calendário anual de licitações;
+
+
+VI –
+
+finalizar intenções ao mercado fornecedor, de forma a aumentar o diálogo potencial com o mercado e incrementar a competitividade.
+
+
+##### Seção III — Do Documento de Formalização de Demanda
+
+
+Art. 3º.
+
+O procedimento para elaboração do Plano de Contratações Anual inicia-se com o preenchimento do DFD pelo setor requisitante, contendo as seguintes informações:
+
+
+I –
+
+justificativa da necessidade da contratação;
+
+
+II –
+
+descrição sucinta do objeto;
+
+
+III –
+
+tipo de item, de acordo com os Sistemas de Catalogação de Material ou de Serviços, unidade de fornecimento e quantidade a ser contratada;
+
+
+IV –
+
+estimativa preliminar do valor total da contratação com a indicação do valor correspondente ao exercício financeiro do Plano;
+
+
+V –
+
+previsão de data desejada para a contratação;
+
+
+VI –
+
+grau de prioridade da compra ou contratação.
+
+
+VII –
+
+se há vinculação ou dependência com a contratação de outro DFD para sua execução, visando a determinar a sequência em que as respectivas contratações serão realizadas;
+
+
+VIII –
+
+classificação orçamentária da despesa até nível de elemento e desdobramentos;
+
+
+§ 1º
+
+Os itens referentes a contratações de soluções de tecnologia da informação e comunicações deverão observar as regras específicas do Município, se houver.
+
+
+§ 2º
+
+Os itens que tiverem classificação de prioridade como “alta” deverão conter justificativas sobre a escolha.
+
+
+§ 3º
+
+O documento de formalização de demanda poderá, se houver necessidade, ser remetido pelo requisitante à área técnica para fins de análise, complementação das informações, compilação de demandas e padronização.
+
+
+##### Seção IV — Do Cronograma de Elaboração
+
+
+Art. 4º.
+
+A elaboração do PCA observará o que segue:
+
+
+I –
+
+Em até 60 dias o Setor de Planejamento colocará à disposição dos Departamentos, como subsídio de elaboração dos Documentos de Formalização de Demanda – DFD os valores prévios das dotações de cada ação orçamentária em relação às contratações para o exercício a que se refere.
+
+
+II –
+
+Em até noventa dias da data do envio do projeto de lei de diretrizes orçamentárias do ano de elaboração do Plano de Contratações Anual, os setores requisitantes ou técnicos deverão incluir, no sistema PGC ou outro que o Município adotar, as contratações que pretendem realizar ou renovar no exercício subsequente, na forma do art. 105 da Lei Federal no 14.133, de 2021, e encaminhar ao setor de contratações, por meio da DFD – Documento de Formalização de Demanda, devidamente aprovado pelo Secretário da Pasta.
+
+
+III –
+
+Em até sessenta dias do envio do projeto de Lei de Diretrizes Orçamentárias do ano de elaboração do Plano de Contratações Anual, o setor de contratações deverá analisar as demandas encaminhadas pelos setores requisitantes ou técnicos, e, se de acordo, consolidar e enviar o Plano consolidado para aprovação da autoridade competente do órgão ou entidade ao qual integra ou a quem ela delegar.
+
+
+##### Seção V — Da consolidação das Demandas e Elaboração do PCA
+
+
+Art. 5º.
+
+O setor de contratações deverá analisar as demandas encaminhadas pelos setores requisitantes ou técnicos promovendo diligências necessárias para:
+
+
+I –
+
+agregação, sempre possível, dos DFD com objetos de mesma natureza visando à racionalização de esforços de contratação e à economia de escala;
+
+
+II –
+
+adequação e consolidação do Plano de Contratações Anual;
+
+
+III –
+
+construção do calendário de contratação, por grau de prioridade da demanda, considerando a data desejada e a disponibilidade da força de trabalho na instrução dos autos de contratação;
+
+
+IV –
+
+definição da data estimada para início do processo de contratação considerando o tempo necessário para o procedimento, a data desejada para a contratação e a disponibilidade da força de trabalho na instrução dos autos de contratação.
+
+
+§ 1º
+
+Sempre que pertinente, os DFD deverão ser encaminhados, previamente, dos setores requisitantes para os setores técnicos, que promoverão a análise das demandas e a agregação de valor, observando-se os princípios da padronização e da economicidade.
+
+
+§ 2º
+
+A definição dos setores requisitantes e técnicos, se couber, deverá constar de ato do órgão.
+
+
+##### Seção VI — Da Aprovação do Plano de Contratação Anual
+
+
+Art. 6º.
+
+Em até trinta dias da data do envio da Lei de Diretrizes Orçamentárias do ano de elaboração do Plano de Contratações Anual, a autoridade competente deverá aprovar o Plano por meio do Sistema PGC ou outro que adotar, sendo disponibilizado automaticamente, na forma do art. 7° desta Resolução.
+
+
+§ 1º
+
+A autoridade competente poderá reprovar o Plano de Contratações Anual ou, se necessário, devolvê-lo para o setor de contratações realizar adequações, observada a data limite definida no caput.
+
+
+§ 2º
+
+Após a aprovação pela autoridade competente o PCA será disponibilizado ao Setor de Planejamento para elaboração das peças orçamentárias, podendo ser devolvido ao setor de contratações em caso de necessários ajustes orçamentários.
+
+
+##### Seção VII — Da Divulgação
+
+
+Art. 7º.
+
+Os Planos Anuais de Contratações serão disponibilizados no site do órgão ou entidade e no Portal Nacional de Contratações Públicas - PNCP.
+
+
+Parágrafo único.
+
+O Poder Legislativo deverá disponibilizar, por meios eletrônicos, o endereço de acesso aos seus respectivos Planos de Contratações Anuais no Painel de Compras no PNCP.
+
+
+##### Seção VIII — Da Revisão e do Redimensionamento
+
+
+Art. 8º.
+
+O Plano de Contratações Anual poderá ser alterado para a inclusão ou o redimensionamento dos itens.
+
+
+§ 1º
+
+Durante a sua execução, o Plano de Contratações Anual somente poderá ser alterado mediante justificativa dos fatos que ensejaram a mudança da necessidade da contratação e posterior aprovação da autoridade competente.
+
+
+§ 2º
+
+A divulgação das alterações acontecerá nos mesmos sítios de divulgação da divulgação original do PCA.
+
+
+##### Seção IX — Da Execução do Plano de Contratação Anual
+
+
+Art. 9º.
+
+Na execução do Plano de Contratações Anual, o setor de contratações deverá observar se as demandas a ele encaminhadas constam da listagem do Plano vigente.
+
+
+§ 1º
+
+As demandas que não constarem do Plano de Contratações Anual ensejarão a sua revisão, caso justificada, observando-se o disposto no art. 8º desta Resolução.
+
+
+§ 2º
+
+Não será necessário incluir no Plano de Contratações Anual os casos supervenientes:
+
+
+I –
+
+de contratações com valor inferior a 15% (quinze por cento) dos valores de que tratam os incisos I e II do caput do art. 75 da Lei Federal no 14.133, de 2021
+
+
+II –
+
+de contratações referentes a serviços de manutenção de veículos automotores de propriedade do órgão, incluído o fornecimento de peças, de que trata o § 7º, do art. 75, da Lei nº 14.133, de 2021.
+
+
+III –
+
+as hipóteses previstas nos incisos VII e VIII do caput do art. 75 da Lei nº 14.133, de 2021;
+
+
+IV –
+
+as pequenas compras e a prestação de serviços de pronto pagamento, de que trata o § 2º do  
+art. 95 da Lei nº 14.133, de 2021.
+
+
+§ 3º
+
+Os casos supervenientes de contratação previstos nos incisos do § 1o deste artigo poderão ser incluídos no Plano de Contratações Anual depois de autorizados pela autoridade competente.
+
+
+Art. 10.
+
+As demandas constantes do Plano de Contratações Anual deverão ser encaminhadas ao setor de contratações com a antecedência necessária para o cumprimento da data desejada de que trata o inciso V do art. 3º desta Resolução, acompanhadas da devida instrução processual.
+
+
+Art. 11.
+
+A partir de julho do ano de execução do Plano de Contratações Anual, os setores de contratação deverão elaborar relatórios de riscos referentes à provável não efetivação de contratação de itens do Plano até o término do exercício, podendo utilizar-se do método disposto em Caderno de Logística elaborado pela Secretaria de Gestão da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério da Economia.
+
+
+Parágrafo único.
+
+O relatório de gestão de riscos terá periodicidade bimestral, e será encaminhado à autoridade competente, que promoverá ações de correção pertinentes.
+
+
+Art. 12.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Agudo, 18 de dezembro de 2024.
+
+Ver. Bode  
+Presidente
+
+Ver. Dario Schüller  
+Vice-Presidente
+
+Registre-se e publique-se.
+
+Ver. Professor Tiago Janner  
+Secretário

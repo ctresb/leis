@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/parecer_cfo_subsidio_003_2020.pdf da norma Lei Ordinária nº 3, de 09 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Parecer nº 30, Requerentes: Comissão de Finanças,Orçamento e Fiscalização ao projeto de lei 003/ 2020 que dispõe sobre a fixação do subsídio mensal dos vereadores (as) da Câmara Municipal de Corrente- PI para o quadriênio 2021/2024.",
+      "anexo_arquivo": "http://sapl.corrente.pi.leg.br/media/sapl/public/anexonormajuridica/2020/1/parecer_cfo_subsidio_003_2020.pdf",
+      "ano": 2020,
+      "norma": 12
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/parecer_cjrlf_003_subsidio.pdf da norma Lei Ordinária nº 3, de 09 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Parecer nº 28, Requerentes: Comissão de Constituição, Justiça e Redação Final ao projeto de lei 003/ 2020 que dispõe sobre a fixação do subsídio mensal dos vereadores (as) da Câmara Municipal de Corrente- PI para o quadriênio 2021/2024.",
+      "anexo_arquivo": "http://sapl.corrente.pi.leg.br/media/sapl/public/anexonormajuridica/2020/2/parecer_cjrlf_003_subsidio.pdf",
+      "ano": 2020,
+      "norma": 12
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/parecer_comissao_sobre_pdl_no_01_de_2024.pdf da norma Decreto Legislativo-PLEN nº 1, de 26 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Parecer da Comissão de Constituição, Justiça e Redação Final ao Projeto de Decreto Legislativo nº 01/2024, que dispõe sobre a concessão de Título Corrntino e dá outras providências.",
+      "anexo_arquivo": "http://sapl.corrente.pi.leg.br/media/sapl/public/anexonormajuridica/2024/3/parecer_comissao_sobre_pdl_no_01_de_2024.pdf",
+      "ano": 2024,
+      "norma": 48
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corrente.pi.leg.br/7757c86a38f78064c30eeafb7e2b88afbc31f75c288b88fd1c997611ce83d8bf.json",
+      "url": "https://sapl.corrente.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.corrente.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "34975e9bacf80fd7ccfa786b2f3a2f5bc1a094991c69c56f022a4b7b71122ca2",
+      "bytes": 2231,
+      "capturado_em": "2026-10-28T09:22:00.089332-03:00"
+    }
+  ]
+}

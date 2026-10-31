@@ -1,0 +1,209 @@
+CONSIDERANDO o disposto no Manual de Contabilidade Aplicada ao Setor Público – MCASP e na Norma Brasileira de Contabilidade; CONSIDERANDO o Plano de Implantação dos Procedimentos Contábeis Patrimoniais, aprovado Portaria nº 548, de 24 de setembro de 2015 da Secretaria do Tesouro Nacional; CONSIDERANDO a necessidade de regulamentar os procedimentos de reavaliação, redução ao valor recuperável, depreciação, amortização e exaustão dos bens móveis no âmbito do Poder Executivo, O PREFEITO MUNICIPAL DE ENGENHEIRO PAULO DE FRONTIN, no uso de suas atribuições legais, de conformidade com a Lei Orgânica do Município de Engenheiro Paulo de Frontin; DECRETA:
+
+
+Art. 1º.
+
+Fica estabelecido aos procedimentos Contábeis Patrimoniais à tabela de vida útil, valor residual, taxa de depreciação e/ou amortização dos bens móveis, imóveis e intangíveis da Administração Pública do Município de Engenheiro Paulo de Frontin conforme ANEXO ÚNICO do presente Decreto.
+
+
+Parágrafo único
+
+Para os fins deste Decreto, entende-se por:
+
+
+I –
+
+Avaliação patrimonial: é a atribuição de um valor monetário a itens do ativo ou passivo cuja obtenção decorreu de julgamento fundado em consenso entre as partes e que traduza, com razoabilidade, o processo de evidenciação dos atos e fatos da administração.
+
+
+II –
+
+Mensuração: é o ato de constatação de valor monetário para itens do ativo ou passivo, expresso no processo de evidenciação dos atos e fatos da administração, revelando mediante a aplicação de procedimentos técnicos suportados em análises tanto qualitativas quanto quantitativas.
+
+
+III –
+
+Valor de aquisição: é a soma do preço de compra de um bem com os gastos suportados direta ou indiretamente para colocá-lo em condição de uso.
+
+
+IV –
+
+Valor de mercado ou valor justo: é o valor pelo qual pode ser intercambiado um ativo ou cancelado um passivo, entre partes conhecidas ou interessadas, que atuam em condições independentes e isentas ou conhecedoras do mercado.
+
+
+V –
+
+valor bruto contábil: é o valor do bem registrado na contabilidade em uma determinada data, sem a dedução da correspondente depreciação, amortização ou exaustão acumulada.
+
+
+VI –
+
+valor depreciável, amortizável e exaurível: é o valor original de um ativo deduzido do seu valor residual, quando possível ou necessária a sua determinação.
+
+
+VII –
+
+Valor residual: é o montante líquido que a entidade espera, com razoável segurança, obter por um ativo no fim de sua vida útil econômica, deduzidos os gastos esperados para sua alienação.
+
+
+VIII –
+
+Valor líquido contábil: é o valor do bem registrado na contabilidade, em uma determinada data, deduzido da correspondente depreciação, amortização ou exaustão acumulada.
+
+
+IX –
+
+Depreciação: é a redução do valor de um bem pelo desgaste ou perda de utilidade por uso, ação da natureza ou obsolescência ao longo de sua vida útil.
+
+
+X –
+
+Amortização: é a redução do valor aplicado na aquisição de direitos de propriedade e quaisquer outros, inclusive ativos intangíveis, com existência ou exercício duração limitada, ou cujo objeto sejam bens aplicados nessa exploração.
+
+
+XI –
+
+Exaustão: é a perda do valor, decorrente da exploração de direitos, cujo objeto sejam recursos minerais ou florestais, ou bens aplicados nessa exploração.
+
+
+XII –
+
+Vida útil econômica: é o período de tempo definido ou estimado tecnicamente, durante o qual se espera obter fluxos de benefícios futuros de um ativo.
+
+
+XIII –
+
+Vida útil: é o período de tempo durante o qual a entidade espera utilizar o ativo ou o número de unidades de produção ou de unidades semelhantes que a entidade espera obter pela utilização do ativo.
+
+
+XIV –
+
+Ajustes de Exercícios Anteriores: são considerados os decorrentes de efeitos de mudança de critério contábil, ou da retificação de erro imputável a determinado exercício anterior, e que não possam ser atribuídos a fatos subsequentes, devendo ser conhecidos à conta do patrimônio liquido e evidenciados em notas explicativas.
+
+
+Art. 2º.
+
+Os bens móveis produzidos, adquiridos ou incorporados ao patrimônio do Município a partir da data de 1º de janeiro de 2008, serão depreciados ou amortizados de acordo com os prazos de vida útil, taxas de depreciação e amortização, previstas no anexo Único deste Decreto, dispensando-se a prévia reavaliação.
+
+
+Art. 3º.
+
+Os bens móveis produzidos, adquiridos ou incorporados ao patrimônio do Município em data anterior a estabelecida no Art. 2º, serão primeiramente inventariados, reavaliados e posteriormente depreciados ou amortizados de acordo com as disposições deste decreto.
+
+
+§ 1º
+
+Os bens móveis que, por ocasião do inventário, estejam sem identificação patrimonial, serão avaliados e incorporados ao patrimônio através de tombamento, iniciando-se então sua depreciação ou amortização.
+
+
+§ 2º
+
+Poderão ser criadas subcomissões específicas, para atender as necessidades técnicas de reavaliação, designando-se profissional qualificado do quadro de pessoal do Município de Engenheiro Paulo de Frontin para emissão de Laudo Técnico, bem como solicitar apoio técnico junto a outros órgãos e instituições.
+
+
+§ 3º
+
+Não sendo possível obter o apoio técnico de que trata o parágrafo anterior, poderá o Município contratar empresa ou pessoa especializada para a emissão do Laudo Técnico.
+
+
+Art. 4º.
+
+A reavaliação deverá estimar a vida útil econômica dos bens, e será feita por laudo emitido pela Coordenação de Patrimônio público que deverá ser composta por servidores do quadro permanente e designada pelo Prefeito Municipal, aplicando-se quando cabível, os seguintes parâmetros:
+
+
+I –
+
+Valor de referência de mercado ou de reposição;
+
+
+II –
+
+Estado físico do bem; Subelemento Descrição do Subelemento Vida útil (Anos) Valor Residual Taxa Anual Taxa Mensal 04 Aparelhos de Medicação e Orientação 15 10% 6,00% 0,50% 06 Aparelhos e Equipamentos de Comunicação 10 20% 8,00% 0,67% 08 Aparelhos, Equip. E utens. Medicoodonto, Labarat. e Hospitalar 15 20% 5,33% 0,44% 10 Aparelhos e Equipamentos par Esporte e Diversões 10 10% 9,00% 0,75% 12 Aparelhos e Utensilios Domésticos 10 10% 9,00% 0,75% 18 Coleções e Materiais bibliográficos 10 0% 10,00% 0,83% 19 Discotecas e Filmotecas 5 10% 18,00% 1,50% 22 Equipamentos de Manobra e Patrulhamento 20 10% 4,50% 0,38% 24 Equipamentos de Proteção, Segurança e Socorro 10 10% 9,00% 0,75% 26 Instrumentos Musicais e Artísticos 20 10% 4,50% 0,38% 28 Máquinas e Equipamentos de Natureza Industrial 20 10% 4,50% 0,38% 30 Máquinas e Equipamentos Energéticos 10 10% 9,00% 0,75% 32 Máquinas e Equipamentos Gráficos 15 10% 6,00% 0,50% 33 Equipamentos para Aúdio, Vídeo e Foto 10 10% 9,00% 0,75% 34 Máquinas, Utensílios e Equipamentos Diversos 10 10% 9,00% 0,75% 35 Equipamentos de Processamento de Dados 5 20% 16,00% 1,33% 36 Máquinas, Iinstalações e Utensílios de Escritório 10 10% 9,00% 0,75% 38 Máquinas, Ferramentas e Utensílios de Oficina 10 10% 9,00% 0,75% 39 Equipamentos e Utensílios Hidráulicos e Elétricos 10 10% 9,00% 0,75% 40 Máquinas e Equipamentos Agricolas e Rodoviários 10 10% 9,00% 0,75% 42 Mobiliario em Geral 10 10% 9,00% 0,75% 48 Veículos Diversos 15 10% 6,00% 0,50% 51 Peças Não Incorporáveis a Imóveis 10 10% 9,00% 0,75% 52 Veículos de Tração Mecânica 15 10% 6,00% 0,50% 57 Acessórios para Automóveis 5 10% 18,00% 1,50% 83 Equipamentos e Sistemas de Proteção e Vigilancia Ambiental 10 10% 9,00% 0,75% 99 Outros Equipamentos e Materiais Permanentes 10 5% 9,50% 0,79%
+
+
+III –
+
+Capacidade de geração de benefícios futuros, em anos;
+
+
+IV –
+
+Obsolescência tecnológica, em anos;
+
+
+V –
+
+Desgastes decorrentes de fatores operacionais ou não operacionais;
+
+
+VI –
+
+Limites legais ou contratuais sobre o uso ou exploração do ativo.
+
+
+Art. 5º.
+
+Quando se tratarem de bens singulares que possuam características de uso peculiares, e desde que formalmente indicados e justificados pela comissão, poderão ser utilizados outros parâmetros.
+
+
+§ 1º
+
+Para os bens reavaliados nos termos deste Decreto, a depreciação ou amortização registrados sobre o valor reavaliado, considerada a vida útil remanescente, indicada no correspondente laudo emitido pela Coordenação de Patrimônio e ou Comissão Técnica referida no Art. 3º §§.
+
+
+§ 2º
+
+Os valores depreciados ou amortizados nos termos deste Decreto, apurados mensalmente, deverão ser registrados pela contabilidade, em contas de variação patrimonial.
+
+
+I –
+
+Para fins de cálculo da depreciação e da amortização, adotar-se-á o método de cotas constantes.
+
+
+§ 3º
+
+A depreciação e a amortização não cessam quando o bem for considerado obsoleto ou for retirado temporariamente de operação, devendo ser reconhecidas e contabilizadas até que o valor líquido contábil do ativo seja igual ao valor residual.
+
+
+§ 4º
+
+Fica a Secretaria Municipal de Administração, em conjunto com a Secretaria Municipal de Fazenda do Município, autorizada a promover a revisão e a atualização das definições constantes no inciso I, §2º, para atender às Normas de Contabilidade Aplicadas ao Setor Público.
+
+
+Art. 6º.
+
+Observando o disposto no art. 5º, a depreciação e a amortização dos ativos devem iniciar quando os bens forem adquiridos/incorporados.
+
+
+Art. 7º.
+
+Anterior a realização dos procedimentos previstos nos artigos 1º e 2º, se faz necessária o ajuste entre o Sistema Contábil e o Sistema de Controle Patrimonial, de forma a confrontar e conciliar o Inventário físico concluído neste exercício com os registros contábeis.
+
+
+Parágrafo único
+
+Os procedimentos de depreciação, amortização e exaustão somente devem ser realizados após a conclusão dos procedimentos previstos neste decreto.
+
+
+Art. 8º.
+
+Este decreto entra em vigor na data de sua publicação.
+
+
+Engenheiro Paulo de Frontin, 20 de outubro de 2021.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+
+
+ANEXO ÚNICO
+
+
+Publicado por:
+
+
+Daniel dos Santos da Silva Código Identificador:A59935D6 Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 28/10/2021. Edição 3001 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site:

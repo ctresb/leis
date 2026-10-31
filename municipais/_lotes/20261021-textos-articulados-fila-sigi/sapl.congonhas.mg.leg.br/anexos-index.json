@@ -1,0 +1,208 @@
+{
+  "estado": "indice_completo",
+  "total": 19,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/lei_3.823-_loa_1_-_anexo_1_receita_e_despesa_segun_8NqqoMV.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Receita e Despesa Segundo Categoria",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/1/lei_3.823-_loa_1_-_anexo_1_receita_e_despesa_segun_8NqqoMV.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_3.823-_loa_2_-anexo_2_receita_por_categoria_econ.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Receita por Categorias Econômicas",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_3.823-_loa_2_-anexo_2_receita_por_categoria_econ.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/lei_3.823-_loa_3-_anexo_2_tdespesa_categoria_econ.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Natureza da Despesa por Categorias Econômicas",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/3/lei_3.823-_loa_3-_anexo_2_tdespesa_categoria_econ.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/lei_3.823-_loa_4_-_anexo_5_funcoes_e_subfuncoes.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Funções e Subfunções de Governo",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/4/lei_3.823-_loa_4_-_anexo_5_funcoes_e_subfuncoes.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/lei_3.823-_loa_5_-_anexo_6_programa_de_trabalho_de_governo.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Programa de Trabalho de Governo",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/5/lei_3.823-_loa_5_-_anexo_6_programa_de_trabalho_de_governo.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/lei_3.823-_loa_6_-_anexo_7_programa_de_trabalho_de_9Bksyjy.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Programa de Trabalho de Governo - Demonstrativo de Funções, Subfunções e Programas, por Projetos, Atividades e Operações Especiais",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/6/lei_3.823-_loa_6_-_anexo_7_programa_de_trabalho_de_9Bksyjy.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/lei_3.823-_loa_7_-_anexo_8_funcao_subfuncao_e_programas.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Funções, Subfunções e Programas conforme o Vínculo com os Recursos",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/7/lei_3.823-_loa_7_-_anexo_8_funcao_subfuncao_e_programas.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/8/lei_3.823-_loa_8_-_anexo_9_orgaos_e_funcoes.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Despesa por Órgãos e Funções",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/8/lei_3.823-_loa_8_-_anexo_9_orgaos_e_funcoes.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/9/lei_3.823-_loa_9_-anexo_10_programa_de_trabalho_ob_Pteo5M1.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Programa Anual de Trabalho do Governo em Termos de Realizações de Obras e Prestação de Serviços",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/9/lei_3.823-_loa_9_-anexo_10_programa_de_trabalho_ob_Pteo5M1.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/10/lei_3.823-_loa_10_-anexo_11_sumario_receitas_e_de_8yW5qrC.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Sumário Geral da Receita por Fontes e Despesa por Funções de Governo",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/10/lei_3.823-_loa_10_-anexo_11_sumario_receitas_e_de_8yW5qrC.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/11/lei_3.823-_loa_11_-anexo_12_qdd.pdf da norma Lei nº 3.823, de 19 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Quadro Demonstrativo das Dotações por Órgãos de Governo e da Administração - QDD",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2018/11/lei_3.823-_loa_11_-anexo_12_qdd.pdf",
+      "ano": 2018,
+      "norma": 7340
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/lei_no_3.723_-_anexo.pdf da norma Lei nº 3.723, de 14 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/12/lei_no_3.723_-_anexo.pdf",
+      "ano": 2017,
+      "norma": 7219
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/13/lei_no_3.724_-_anexo.pdf da norma Lei nº 3.724, de 14 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/13/lei_no_3.724_-_anexo.pdf",
+      "ano": 2017,
+      "norma": 7220
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/14/lei_no_2.921.pdf da norma Lei-CMC nº 2.921, de 15 de janeiro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2010/14/lei_no_2.921.pdf",
+      "ano": 2010,
+      "norma": 6444
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/anexo_ldo_2020.pdf da norma Lei-PMC nº 3.856, de 13 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Anexo de Metas e Riscos Fiscais - LDO 2020",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/15/anexo_ldo_2020.pdf",
+      "ano": 2019,
+      "norma": 7713
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/pl_061_2018.pdf da norma Lei-CMC nº 3.832, de 25 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 061/2018 - Dispõe sobre a inclusão de tratamento ortodôntico na rede pública de saúde do Município",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/16/pl_061_2018.pdf",
+      "ano": 2019,
+      "norma": 7601
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/17/pl_074_2018.pdf da norma Lei-PMC nº 3.830, de 08 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei nº 074/2018",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2019/17/pl_074_2018.pdf",
+      "ano": 2019,
+      "norma": 7589
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/18/acordao_-_tj__-_dl_259_95.pdf da norma Decreto Legislativo-CMC nº 259, de 16 de novembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Acórdão - Tribunal de Justiça de MG de 14 de maio de 1998 - ANULAÇÃO do Decreto Legislativo nº 259/95; de 16 de novembro de 1995.",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/1995/18/acordao_-_tj__-_dl_259_95.pdf",
+      "ano": 1995,
+      "norma": 253
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/5004357-40.2023.8.13.0180-decisao.pdf da norma Portaria-CMC nº 199, de 31 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Mandato de Segurança nº 5004357-40.2023.8.13.0180",
+      "anexo_arquivo": "http://sapl.congonhas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/19/5004357-40.2023.8.13.0180-decisao.pdf",
+      "ano": 2023,
+      "norma": 9214
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.congonhas.mg.leg.br/90b78b1fbfdf9db0348325a748f4cc8d92c954128df6c840fbe884f44d889da8.json",
+      "url": "https://sapl.congonhas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.congonhas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "96de43671f91568c5f6434554e1c645afcc884c6f43ee2862b9db5c5e7b64059",
+      "bytes": 9315,
+      "capturado_em": "2026-10-27T23:20:46.129393-03:00"
+    }
+  ]
+}

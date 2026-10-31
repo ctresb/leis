@@ -1,0 +1,42 @@
+{
+  "host": "sapl.chapadadosguimaraes.mt.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadosguimaraes.mt.leg.br/8008e13c5e9291f25a64a05bef37a809955028b528f8927e0e4b430146f0503a.json",
+    "url": "https://sapl.chapadadosguimaraes.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.chapadadosguimaraes.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7e1b603c836b07c085767090cf9813bcea3fdd7d0c4abb30b480a418f8dee103",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:40:05.745213-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadosguimaraes.mt.leg.br/3649d1f207992abc0227f6a3f5b37c29d1d6854196a6c54f387a3a15e75ed4f4.json",
+    "url": "https://sapl.chapadadosguimaraes.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.chapadadosguimaraes.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fafc0b2e96febb22d234f2360c07dd0d8149ed8890fc81a096076c13c3343bab",
+    "bytes": 680,
+    "capturado_em": "2026-10-27T22:40:04.507363-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadosguimaraes.mt.leg.br/2e78dccc51931af5a6c795f73338d1195a21eb7e8271cac93b5036af6e9152e4.json",
+      "url": "https://sapl.chapadadosguimaraes.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.chapadadosguimaraes.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1ac79e150d773dae8a4ac70be725480d89ac89670f9fb3b6dcd6a6312a898d1e",
+      "bytes": 711,
+      "capturado_em": "2026-10-27T22:40:07.604095-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

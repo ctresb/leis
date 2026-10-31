@@ -1,0 +1,354 @@
+{
+  "criterio": "Inventário suplementar das cores de texto de PDFs, sem decidir vigência.\n\nPreserva valores originais de cor, páginas e amostras. Cores podem indicar\nnotas, links, títulos ou redações históricas e exigem inspeção contextual.\n",
+  "script_sha256": "406a5e11812743b619553bc8f7b7318f9f258aac9740bc608118ca6dae33e9f2",
+  "documentos": [
+    {
+      "pdf": "municipais/_fonte/capitais/aracaju/lei-organica-atualizada.pdf",
+      "sha256_fonte": "5126f91b91aa3d4d680d8282b2d4f51ebaf6a6abe11dfac79c9b3ba80e0dbc1e",
+      "total_paginas": 107,
+      "cores": [
+        {
+          "cor_original": [
+            0.0
+          ],
+          "caracteres": 194303,
+          "paginas": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107
+          ],
+          "amostras": [
+            {
+              "pagina": 1,
+              "texto": "1ESTADODESERGIPECIDADEDEARACAJUCÂMARAMUNICIPALDEARACAJULEIORGÂNICADOMUNICÍPIODEARACAJU1990"
+            },
+            {
+              "pagina": 2,
+              "texto": "2LEIORGÂNICADOMUNICÍPIODEARACAJUPREÂMBULONós,representantesdopovodoMunicípiodeAracaju,investidosnospoderesoutorgadospelaConstituiçãodaRepúblicaFederativadoBrasilelegitimadospelavontadepopular,afirmandoopropósitodefavoreceroprocessoeconômicoecultural,deestabelecerasbasesdeumademocraciaparticipativa,deprotegereestimularapráticadacidadania,sobofundamentodosideaisdeliberdadeejustiçapopular,emconsonânciacomaconstruçãodoestadodedireitoedeumacidadejusta,humanaesolidária,promulgamossobaproteçãodeDeus,aseguinteLeiOrgânicaMunicipal:"
+            },
+            {
+              "pagina": 3,
+              "texto": "3SUMÁRIOPREÂMBULOTÍTULOI-Dosprincípiosfundamentais(Art.1ºa6º-A)TÍTULOII-DosDireitoseGarantiasIndividuaiseColetivas(Art.7ºa16)TÍTULOIII-DoMunicípioCAPÍTULOI-DaOrganizaçãodoMunicípioSeçãoIDasDisposiçõesGerais(art.17a18)SeçãoIIDaCompetênciadoMunicípio(art.19a20)SeçãoIIIDoDomínioPúblico(art.21a28)SeçãoIVDasObraseServiçosPúblicosSubseçãoI–Dasobras(art.29a35)SubseçãoII–DosServiços(36a45)SubseçãoIII–DaLicitação(art.46)SeçãoVDaAdministraçãoPública(art.47a65)SeçãoVIDosServidoresPúblicosMunicipais(art.66a79)CAPÍTULOII-DaOrganizaçãodosPoderesSeçãoIDoPoderLegislativoSubseçãoI–DasDisposiçõesGerais(art.80a82)SubseçãoII–DaCâmaraMunicipal(art.83a89)SubseçãoIII–DasAtribuiçõesdaCâmaraMunicipal(art.90a91)SubseçãoIV–DosVereadores(art.92a99)SubseçãoV–DasComissões(art.100a101)SubseçãoVI–DoProcessoLegislativo(art.102a111)"
+            },
+            {
+              "pagina": 4,
+              "texto": "4SeçãoIIDoPoderExecutivoSubseçãoI–DasDisposiçõesGerais(art.112a119)SubseçãoII–DasAtribuiçõesdoPrefeito(art.120)SubseçãoIII–DaResponsabilidadedoPrefeito(art.121a123)SubseçãoIV–DosAuxiliaresDiretosdoPrefeito(art.124a128)SubseçãoV–DaProcuradoria-GeraldoMunicípio(art.128-Aa128-B)SeçãoIIIDaFiscalizaçãoedoControle(art.129a131)CAPÍTULOIII-DaTributaçãoedoOrçamentoSeçãoIDasReceitasedasDespesasMunicipaisSubseçãoI–DasDisposiçõesGerais(art.132a135)SubseçãoII–DosTributosMunicipais(art.136a142)SubseçãoIII–DasLimitaçõesdoPoderdeTributar(art.143a152)SeçãoIIDoOrçamento(art.153a170-A)TÍTULOIV-DaOrdemEconômicaedoDesenvolvimentoUrbanoCAPÍTULOI-DosPrincípiosGerais(art.171a173)CAPÍTULOII-DaPolíticadeDesenvolvimentoUrbanoSeçãoI–DasDisposiçõesGerais(art.174a181)SeçãoII–InstrumentosdaPolíticadeDesenvolvimentoUrbano(art.182a205)SeçãoIII–PlanoDiretordeDesenvolvimentoUrbano(art.206a223)SeçãoIV–DasInfraçõesUrbanísticas(art.224a233)SeçãoV–DosTransportesUrbanos(art.234a244)SeçãoVI–DaPolíticaHabitacional(art.245a249)CAPÍTULOIII-DaPolíticaRural(art.250a254)CAPÍTULOIV-DaPolíticaAmbiental(art.255a279)CAPÍTULOV-DaPolíticadeAbastecimento(art.280a283)"
+            },
+            {
+              "pagina": 5,
+              "texto": "5TÍTULOV-DaOrdemSocialCAPÍTULOI-DasDisposiçõesGerais(art.284)CAPÍTULOII-DaPolíticaMunicipaldeSaúdeeSaneamentoBásico(art.285a292)CAPÍTULOIII-DaCiênciaeTecnologia(art.293a295)CAPÍTULOIV-DaEducação(art.296a318)CAPÍTULOV-DaCultura,EsporteeLazer(art.319a324)CAPÍTULOVI-DaComunicaçãoSocial(art.325)CAPÍTULOVII-DaAssistênciaSocial(art.326a335)CAPÍTULOVIII-DaJuventude(art.335-Aa335-B)TÍTULOVI-DasDisposiçõesGerais(art.336a337)ATODASDISPOSIÇÕESTRANSITÓRIAS(art.1ºa32)"
+            },
+            {
+              "pagina": 6,
+              "texto": "6TÍTULOIDOSPRINCÍPIOSFUNDAMENTAISArt.1ºOMunicípiodeAracajuintegra,comautonomiapolítico-administrativaefinanceira,oEstadodeSergipe,membrodaRepúblicaFederativadoBrasil.Parágrafoúnico.Omunicípioorganiza-seerege-seporestaLeiOrgânicaedemaisleisqueadotar,observadososprincípiosconstitucionaisdaRepúblicaedoEstado.Art.2ºOmunicípiodeAracajutem,comoobjetivofundamental,aconstruçãodobem-estardocidadãoquenelevive,paraquepossaconsolidarumasociedadelivre,justaesolidária,erradicarapobrezaeamarginalizaçãoereduzirasdesigualdadessociaiseregionais,promoverobemdetodos,sempreconceitosdeorigem,raça,sexo,cor,idadeequaisqueroutrasformasdediscriminação.Art.2ºOmunicípiodeAracaju,temcomoobjetivofundamental,aconstruçãodobem-estardocidadãoquenelevive,paraquepossaconsolidarumasociedadelivre,justaesolidária,erradicarapobrezaeamarginalizaçãoereduzirasdesigualdadessociaiseregionais,promoverobemdetodos,sempreconceitosdeorigem,raça,sexo,cor,idade,classesocial,orientaçãosexual,deficiênciafísica,mentalousensorial,convicçãopolítico-ideológica,crençaemmanifestaçãoreligiosaequaisqueroutrasformasdediscriminação,sendoosinfratorespassíveisdepuniçãoporlei.ModificadopelaEmendaàLeiOrgânicanº41/2005.Art.3ºTodopoderdoMunicípioema"
+            },
+            {
+              "pagina": 7,
+              "texto": "7Art.4ºOMunicípioreconhece,protegeeestimulaasorganizaçõessociaisedemassa,surgidasnoprocessohistóricodaslutasdenossopovoequeagrupamosdiferentessetoresdapopulação,representaminteressesgeraiseespecíficoseosqueincorporamotrabalhodeedificação,consolidaçãoedefesadasociedadedemocrática.Art.5ºOMunicípioconcorrerá,noslimitesdesuacompetência,paraaconsecuçãodosobjetivosfundamentaisdaRepúblicaeprioritáriosdoEstado.Parágrafoúnico.SãoobjetivosprioritáriosdoMunicípio,alémdaquelesprevistosnaConstituiçãodoEstado,osseguintes:I–assegurarapermanênciadacidadecomoespaçoviáveledevocaçãohistórica,deformaquepossibiliteoefetivoexercíciodacidadania;II–preservarasuaidentidade,adequandoasexigênciasdodesenvolvimentoàpreservaçãodesuamemória,tradiçãoepeculiaridades;III–proporcionaraosseushabitantescondiçõesdevidacompatíveiscomadignidadehumana,justiçasocialeobemcomum;IV–atenderàsdemandassociaisdeeducação,saúde,transporte,moradia,abastecimento,lazereassistênciasocial;V–estabelecerapolíticadedesenvolvimentourbano.Art.6ºSãosímbolosdoMunicípioobrasão,abandeiraeohino,representativosdesuaculturaehistória.Art.6º-AAAdministraçãoPúblicaMunicipal–PoderExecutivo,deveadotar,demodoperene,oBrasãoOficialaqueserefereoart.6ºdestaL"
+            },
+            {
+              "pagina": 8,
+              "texto": "8Art.7ºÉasseguradoatodohabitantedoMunicípio,nostermosdasConstituiçõesFederal,EstadualedestaLeiOrgânica,odireitoàeducação,àsaúde,aotrabalho,aolazer,àsegurança,àprevidênciasocial,àproteçãoàmaternidade,àassistênciaaosdesamparados,aotransporte,àhabitação,aomeioambienteequilibradoeaoacessouniversalizadoàinternet.ModificadopelaEmendaàLeiOrgânicanº62/2019.Art.8ºOMunicípioassegura,noseuterritórioenoslimitesdesuacompetência,osdireitosegarantiasfundamentaisqueasConstituiçõesdaRepúblicaedoEstadoconferemaosbrasileiroseaosestrangeirosresidentesnoPaís.Parágrafoúnico.Nenhumapessoaserádiscriminadapelofatodelitigarcomórgãoouentidademunicipal,noâmbitoadministrativooujudicial.Art.9ºTodostêmodireitoderequerereobterinformaçõessobreatoseprojetosdaAdministraçãoMunicipal,ressalvadaaquelacujosigiloseja,temporariamente,imprescindívelàsegurançadasociedade.Parágrafoúnico.ALeidisporásobreosprazosecondiçõesparaatendimentodoprevistonocaputdesteartigo.Art.10.Cabeaçãodereclamaçãodedireito,noexercíciodacidadania,aqualquermunícipeouentidadeslegalmenteconstituídasquesesentiremprejudicadasporprocedimentosdanososaosinteressessócio-comunitários.Art.11.Édireitoedeverdequalquercidadãoeentidadelegalmenteconstituídadenunci"
+            },
+            {
+              "pagina": 9,
+              "texto": "9Parágrafoúnico.Odispostonocaputdesteartigoaplicar-se-á,também,aoutrosestabelecimentosdeusopúblicoquepratiquemtaisatos.Art.14.OPoderPúblicoasseguraráaparticipaçãodeorganizaçõeseliderançaspopularesnaelaboraçãodepolíticas,planos,programaseprojetosdedesenvolvimentourbano,aqualseráviabilizadamedianteosseguintesinstrumentos:I–audiênciadoPoderLegislativocomassociaçõesdebairros,entidadesdeclasseeoutrasassociaçõeslocaiseaprópriacomunidadeenvolvida;II–ampladivulgaçãoeinformaçãodosobjetivos,diretrizeseprioridadespretendidos.Art.15.Éasseguradoatodos,independentementedopagamentodetaxa:I–direitodepetiçãoaosPoderesMunicipais,emdefesadedireitooucontrailegalidadeouabusodepoder;II–obtençãodecertidõesemRepartiçõesPúblicasMunicipais,paradefesadedireitoeesclarecimentodesituaçõesdeinteressepessoal.Art.16.OMunicípiodevegarantiracessoadequadoapessoascomdeficiênciafísicaoumentalaosbenseserviçoscoletivos,logradouroseedifíciospúblicos,bemcomoedificaçõesdestinadasaousopúblicoindustrial,comercialedeserviços,eresidencialmultifamiliar.TÍTULOIIIDOMUNICÍPIOCAPÍTULOIDAORGANIZAÇÃODOMUNICÍPIOSeçãoIDasDisposiçõesGeraisArt.17.SãoPoderesdoMunicípio,independenteseharmônicosentresi,oLegislativoeoExecutivo.Parágrafoúnico."
+            },
+            {
+              "pagina": 10,
+              "texto": "10InseridopelaEmendaàLeiOrgânicanº61/2018.SeçãoIIDaCompetênciadoMunicípioArt.19.CompeteaoMunicípio,alémdeoutrasatribuições:I–legislarsobreassuntosdeinteresselocal;II–suplementaraslegislaçõesfederaleestadual,noquecouber;III–instituirearrecadarostributosdesuacompetência,bemcomoaplicarsuasrendas,semprejuízosdaobrigatoriedadedeprestarcontasepublicarbalancetesnosprazosfixadosemlei;IV–elaborarorçamento,prevendoareceitaefixandodespesa,combaseemplanejamentoadequado;V–acriaçãodefundosespeciais;VI–criar,organizaresuprimirdistritos,observadoodispostonestaLeiOrgânicaedemaislegislaçõespertinentes;VII–criareorganizaraguardamunicipaldestinadaàproteçãodeseusbens,serviçoseinstalações,conformeaLeidispuser;VIII–fazercessar,noexercíciodopoderdepolíticaadministrativa,asatividadesqueviolaremasnormasdesaúde,sossego,higiene,segurança,funcionalidade,estética,moralidadeeoutrosdeinteressedacoletividade;IX–organizareprestar,diretamenteousobregimedeconcessãooupermissão,entreoutros,osseguintesserviços:a)transportecoletivourbanoeintramunicipal,queterácaráteressencial;b)mercado,feirasematadouroslocais;c)cemitérioseserviçosfunerários;d)iluminaçãopública;e)limpezapública,coletaedestinaçãofinaldosresíduossólidos;f)"
+            },
+            {
+              "pagina": 11,
+              "texto": "11XV–fiscalizaraprodução,aconservação,ocomércioeotransportedegênerosalimentícioseprodutosfarmacêuticosdestinadosaoabastecimentopúblico,bemcomodesubstânciaspotencialmentenocivasaomeioambiente,àsaúde,àsegurançaeaobem-estardapopulação;XVI–acompanharefiscalizarasconcessõesdedireitosdepesquisaseexploraçãoderecursoshídricosemineraisemseuterritório;XVII–fiscalizarquaisqueratividadespassíveisdelicençapeloMunicípio;XVIII–realizarserviçosdeassistênciasocial,diretamenteoupormeiodeoutrasinstituiçõesprivadas,conformecritériosecondiçõesfixadosemleimunicipal;XIX–zelarpelaguardadasinstituiçõesdemocráticas;XX–realizaratividadesdedefesacivil;XXI–zelarpelasaúdeebem-estardoscidadãos;XXII–garantiraparticipaçãopopular,deacordocomoprevistoemlei;XXIII–promover,noquecouber,adequadoordenamentoterritorial,mediantepolíticadedesenvolvimentourbano,daqualdeverãoterparticipaçãoativaosdiversossegmentosorganizadosdapopulação;XXIV–combaterascausasdapobrezaeosfatoresdemarginalização,promovendoaintegraçãosocialdossetoresdesfavorecidos;XXV–promoverprogramasdeconstruçãodemoradias,demelhoriadascondiçõeshabitacionaisedesaneamentobásico;XXVI–fixarhoráriosdefuncionamentodosestabelecimentosindustriais,comerciais,bancáriosesi"
+            },
+            {
+              "pagina": 12,
+              "texto": "12XXII–participar,autorizadoporleimunicipal,decriaçãodeentidadesintermunicipais,pararealizaçãodeobras,exercíciodeatividadeouexecuçãodeserviçoespecíficodeinteressecomum;XXXIII–associar-seaoutrosmunicípiosdomesmocomplexogeoeconômico-social,medianteconvêniopreviamenteaprovadopelaCâmara,paragestãodefunçõespúblicasouserviçosdeinteressecomum,deformapermanenteoutransitória;XXXIV–denominarseuslogradouros,ficandovedadaautilizaçãodenomesdepessoasvivasparaaidentificaçãooriginal;XXXV–desapropriar,pornecessidadeouutilidadepúblicaouporinteressesocial,noscasosprevistosemlei;XXXVI–estabelecerservidõesadministrativasnecessáriasaosserviçose,emcasodeiminenteperigooucalamidadepública,usarpropriedadeparticular,asseguradaaoproprietárioindenização,sehouverdanos,deacordocomalegislaçãopertinente;XXXVII–zelarpelocumprimentodasConstituiçõesFederaleEstadualedaLeiOrgânicaMunicipal;XXXVIII–recuperar,protegerepreservaromeioambiente,combatendoapoluição;XXXIX–criareorganizargrupodesalva-vidas,objetivandoprotegereoferecersegurançaàpopulaçãonaspraias.Art.20.Alémdascompetênciasprevistasnoartigoanterior,oMunicípiocooperarácomaUniãoecomoEstado,objetivandoocumprimentodoartigo23daConstituiçãoFederal,atendidososseusintere"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf": "municipais/_fonte/capitais/salvador/lei-organica-consolidada-41-2024.pdf",
+      "sha256_fonte": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598",
+      "total_paginas": 89,
+      "cores": [
+        {
+          "cor_original": [
+            0.0
+          ],
+          "caracteres": 171428,
+          "paginas": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89
+          ],
+          "amostras": [
+            {
+              "pagina": 1,
+              "texto": "LeiOrgânicadoMunicípiodeSalvadorEdiçãoconsolidadaatéaEmendanº41Salvador–2024."
+            },
+            {
+              "pagina": 2,
+              "texto": "2CÂMARAMUNICIPALDESALVADOR-LEGISLATURA2021/2024DiretorLegislativoDiretor-GeralCarlosLimaCavalcantiNetoAdrianoMottaGalloPresidente:VereadorCarlosMuniz1ºVice-Presidente:CátiaRodrigues2°Vice-Presidente:VereadorSabá3ºVice-Presidente:VereadorMarceloMaia1ºSecretário:VereadorIsnardAraújo2ºSecretário:VereadorRicardoAlmeida3ºSecretário:VereadorÁtiladoCongo4ºSecretário:EdvaldoBritoCorregedor:VereadorAlexandreAleluiaOuvidor-Geral:VereadorAugustoVasconcelosOuvidorSubstituto:AndersonNinhoAlbertoBragaAlexandreAleluiaAlfredoMacedoMangueiraAndersonNinhoAndréFragaAntônioCarolinoArnandoLessaÁtiladoCongoAugustoVasconcelosCarlosdaSilvaMunizCátiaMariaRodriguesPenhaCláudioTinocoCrisCorreiaDanielAlvesDéboraSantanaDr.JoséAntônioDudaSanches(EduardoHenriqueBritodosSSanches)EdvaldoPereiradeBritoFábioSouzaGeorgeGordinhodaFavelaHélioFerreiradosSantosIreudaSilvaIsnardAraújoJúlioSantosJocevalRodriguesdosSantosKikiBispo(ClistenesBispo)LainaPretasporSalvadorLeandroGuerrilhaMarceloMaiaMartaRodriguesSousaB.CostaMaurícioGonçalvesTrindadeOrlandoPereiraPalhinhaPauloMagalhãesJúnior(PauloSérgioParanhosdeMagalhãesJr.)RandersonVieiraLealRicardoAlmeidaRobertaCairesSabá(BalbinoCarvalho)SandroBahienseSidininho(SidneyCarlosMan"
+            },
+            {
+              "pagina": 3,
+              "texto": "2PREFEITURAMUNICIPALDESALVADORPREFEITOBrunoReisVICE-PREFEITAAnaPaulaMatos"
+            },
+            {
+              "pagina": 4,
+              "texto": "3SUMÁRIOTÍTULOIDOMUNICÍPIO...................................................................................................................05CAPÍTULOIDASDISPOSIÇÕESPRELIMINARES...............................................................................05CAPÍTULOIIDACOMPETÊNCIA............................................................................................................06CAPÍTULOIIIDOSBENSMUNICIPAIS...................................................................................................10TÍTULOIIDaOrganizaçãodosPoderesMunicipais...........................................................................13CAPÍTULOIDOPODERLEGISLATIVO.................................................................................................13SeçãoI................................................................................................................................13DaCâmaraMunicipal.........................................................................................................13SeçãoII...............................................................................................................................15DosVereadores.........................."
+            },
+            {
+              "pagina": 5,
+              "texto": "4TÍTULOIVDAORGANIZAÇÃODOSISTEMATRIBUTÁRIO.............................................................48CAPÍTULOIDOSISTEMATRIBUTÁRIOMUNICIPAL...........................................................................48SeçãoI................................................................................................................................48DosPrincípiosGerais.........................................................................................................48SeçãoII...............................................................................................................................49DasLimitaçõesdoPoderdeTributar..................................................................................49SeçãoIII..............................................................................................................................50DosTributosMunicipais......................................................................................................50SeçãoIV.............................................................................................................................51DasIsenções,AnistiaeRemissãodeTributos....................................."
+            },
+            {
+              "pagina": 6,
+              "texto": "5TÍTULOIDOMUNICÍPIOCAPÍTULOIDASDISPOSIÇÕESPRELIMINARESArt.1ºOMunicípiodeSalvador,CapitaldoEstadodaBahia,reger-se-áporestaLeiOrgânicaepelasleisqueadotar,respeitadososprincípiosconstitucionais.Parágrafoúnico.Ninguémserádiscriminado,prejudicadoouprivilegiadoemrazãodenascimento,idade,etnia,raça,cor,sexo,estadocivil,orientaçãosexual,atividadeprofissional,religião,convicçãopolítica,filosófica,deficiênciafísica,mental,sensorial,aparênciapessoal,ouqualquersingularidadeoucondiçãosocial,ouaindaportercumpridopena.Art.2ºOMunicípiodoSalvadordividir-se-á,naformadalei,emunidadesregionalizadas,objetivandoadescentralizaçãoadministrativaeaotimizaçãodaexecuçãodeobraseprestaçãodosserviçosdeinteresselocal.Art.3ºSãoPoderesdoMunicípio,independenteseharmônicosentresi,oLegislativoeoExecutivo.Art.4ºAsededoMunicípioéaCidadedeSalvador.Art.5ºSãosímbolosdoMunicípioosatualmenteemvigoreosqueforemadotadosporlei.Art.6ºSãoprincípiosquefundamentamaorganizaçãodoMunicípio:I-oplenoexercíciodaautonomiamunicipal;II-acooperaçãoarticuladacomosdemaisníveisdeGoverno,comoutrosMunicípiosecomentidadesregionaisqueoMunicípiointegreouvenhaaintegrar;III-oexercíciodasoberaniaeaparticipaçãopopularnaadministraçãomunicipalenocontroledes"
+            },
+            {
+              "pagina": 7,
+              "texto": "6CAPÍTULOIIDACOMPETÊNCIAArt.7ºAoMunicípiodeSalvadorcompete:I-disporsobreassuntosdeinteresselocalesuplementaralegislaçãofederaleaestadual,noquecouber;II-elaboraroorçamento,prevendoareceitaefixandoadespesa,combaseemplanejamentoadequado,observandoadivisãodoMunicípioemregiõesadministrativas,naformadalei;III-instituirearrecadartributos,fixartarifas,estabelecerecobrarpreçoseaplicarsuasrendas,semprejuízodaobrigatoriedadedeprestarcontasepublicarbalancetes,nosprazosfixadosemlei;IV-criar,organizaresuprimirunidadesadministrativasregionais,observadaalegislaçãopertinente;V-dispor,medianteplebiscitopopular,sobrequalqueralteraçãoterritorial,naformadeleiestadual,preservandosempreacontinuidadeeaunidadehistórico-culturaldoambienteurbano;VI-organizareprestar,diretamenteousobregimedeconcessãooupermissão,osserviçospúblicosdeinteresselocal;VII-estabelecerasservidõesadministrativasnecessáriasaosseusserviços;VIII-disporsobreaadministração,utilizaçãoealienaçãodosseusbens,cabendo-lhe:a)adquirirbens,inclusiveatravésdedesapropriaçãopornecessidade,ouporutilidadepública,ouinteressesocial;b)aceitarlegadosedoações;c)disporsobreconcessão,permissão,cessãoeautorizaçãodeusodosseusbens;IX-regulamentarautilizaçãodelogr"
+            },
+            {
+              "pagina": 8,
+              "texto": "7d)fixaresinalizaroslimitesdaszonasdesilêncio,detrânsitoedetráfegoemcondiçõesespeciais;e)disciplinarosserviçosdecargaedescarga,fixarostipos,dimensõesetonelagemmáximapermitidaaveículosquecirculememviaspúblicasmunicipais;f)proversobredenominação,numeraçãoeemplacamentodelogradourospúblicos,vedadaautilizaçãodenome,sobrenomeoucognomesdepessoasvivas;X-sinalizarasviasurbanaseestradasmunicipais,bemcomoregulamentarefiscalizarsuautilização;XI-proversobrelimpezadasviaselogradourospúblicos,coleta,remoção,destinoeaproveitamentodolixo;XII-proversobrefornecimentodeiluminaçãodasviaselogradourosdoMunicípioegaleriasdeáguaspluviais;XIII-estabelecernormassobreprevençãoecombatedeincêndios;XIV-regulamentar,autorizarefiscalizarafixaçãodecartazes,anúncios,faixaseemblemas,bemcomoautilizaçãodequaisqueroutrosmeiosdepublicidadeepropaganda,noslocaissujeitosaopoderdePolíciaMunicipal;XV-disporsobredepósitoevendadeanimais,mercadoriasecoisasmóveisapreendidasemdecorrênciadetransgressãodalegislaçãomunicipal;XVI-disporsobreoregistro,vacinaçãoecapturadeanimais;XVII-disciplinarefiscalizarasatividadesrelacionadascomaexploraçãodemercadosematadouros,manterefiscalizarfeiraslivresemtodososbairrosdeSalvador;XVIII-regulamenta"
+            },
+            {
+              "pagina": 9,
+              "texto": "8c)fiscalizarascondiçõessanitáriasedehigienedosestabelecimentos,aqualidadedasmercadorias,bemcomodosveículosdestinadosaotransportedeprodutosdeorigemanimalouvegetaledadistribuiçãodealimentos;XXI-fiscalizarasinstalaçõessanitárias,asdemáquinasemotores,degáseelétricas,inclusivedomiciliares,bemcomoregulamentarefiscalizarasinstalaçõesefuncionamentodeascensores;XXII-elaborareaprovar,porlei,oPlanoDiretordoMunicípio;XXIII-estabelecernormasdeedificação,loteamento,desmembramento,arruamento,saneamentourbanoeplanosurbanísticosespecíficos,bemcomoaslimitaçõesurbanísticasconvenientesaoordenamentoeocupaçãodeseuterritório;XXIV-interditaredifícios,construçõesouobrasemruína,emcondiçõesdeinsalubridadeoudeinsegurançae,diretamente,demolir,restaurarourepararquaisquerconstruçõesqueameacemasaúdeouaincolumidadedapopulação;XXV-fiscalizarosquintaiseterrenosbaldios,notificandoosproprietáriosamantê-losasseados,muradosecomascalçadascorrespondentesasuastestadasdevidamenteconstruídas,sobpenadeexecuçãodiretapelaadministraçãoe,semprejuízodesançõesprevistasemlei,cobrançadocustorespectivoaoproprietárioomisso;XXVI-tombarbens,documentos,obraselocaisdevalorartísticoehistórico,aspaisagensnaturais,bemcomocultivaratradiçãodef"
+            },
+            {
+              "pagina": 10,
+              "texto": "9XXXV-incentivareapoiarapesquisaeaaplicaçãodetecnologiaalternativanoâmbitodaatividadehumana,objetivandoareduçãodecustosadministrativoseasatisfaçãodasnecessidadesbásicasdascomunidadescarentes;XXXVI-incentivareapoiaracriaçãodecooperativasdeeducação,produçãodealimentos,saúde,habitaçãopopular,consumoeoutrasformasdeorganizaçãodapopulação,asquaistenhamporobjetivoarealizaçãodeprogramasquepromovamoserhumanoemtodaasuadimensão;XXXVII-estabelecereimporpenalidadesporinfraçãodesuasleiseregulamentos;XXXVIII-exercitaropoderdePolíciaAdministrativa,bemcomoorganizaremanterosserviçosdefiscalizaçãonecessáriosaoseuexercício;XXXIX-celebrarconvêniosparaexecuçãodesuasleiseserviços.Art.8ºCompeteaoMunicípio,emcomumcomaUnião,oEstadoeoDistritoFederal,observadasasnormasdecooperaçãofixadasemleicomplementar:I-zelarpelaguardadaConstituição,dasinstituiçõesdemocráticaseconservaropatrimôniopúblico;II-cuidardasaúdeeassistênciapública,daproteçãoegarantiadaspessoascomdeficiência;III-proporcionarosmeiosdeacessoàcultura,àeducaçãoeàciência;IV-impediraevasão,adestruiçãoeadescaracterizaçãodeobrasdearteedeoutrosbenseedificaçõesdevalorhistórico,artísticoecultural;V-protegerosdocumentos,asobraseoutrosbensdevalorhistórico,artís"
+            },
+            {
+              "pagina": 11,
+              "texto": "10CAPÍTULOIIIDOSBENSMUNICIPAISArt.9ºConstituipatrimôniodoMunicípioosseusdireitos,ações,bensmóveiseimóveiseasrendasprovenientesdoexercíciodasatividadesdesuacompetênciaedaprestaçãodosseusserviços.Art.10.Aalienaçãodebensmunicipais,subordinadaàexistênciadeinteressepúblicodevidamentejustificado,serásempreprecedidadeavaliaçãoeobedeceráàsseguintesnormas:I-quandoimóveis,seráprecedidadeautorizaçãolegislativa,dispensadaaconcorrêncianoscasosdedoação,permuta,investidura,daçãoempagamentoeintegralizaçãoaocapitaldaempresapúblicaousociedadedeeconomiamistadequeoMunicípiosejamajoritário;II-quandomóveis,dependerádelicitação,dispensadaestanoscasosdepermuta,doaçãoeaçõesqueserãovendidasembolsa,apósautorizaçãolegislativa;III-serátambémdispensadadeautorizaçãolegislativaeconcorrênciaaalienaçãodeáreaoulotedeaté120.00m²,destinadaàhabitaçãodepessoacomprovadamentepobre,seatendidoopreçomínimofixadoemavaliaçãoadministrativa,nãosendopermitidaaalienaçãodemaisdeumaáreaouloteàmesmapessoa.Art.11.OMunicípio,observadoointeressepúblico,promoverá,atravésdeinvestidura,aalienaçãoaosproprietáriosdeimóveislindeirosdeárearemanescenteouresultadodeobraspúblicasoumodificaçõesdealinhamentos,dispensadaaautorizaçãolegislativaparaár"
+            },
+            {
+              "pagina": 12,
+              "texto": "11(16)Art.13.Paraefeitodealienaçãoouconcessãododireitorealdeusodebensimóveismunicipais,aavaliaçãoadministrativaseráprocessadatomando-seporbaseospreçosvigentesnomercadoimobiliário.Parágrafoúnico.Aleipoderáestabelecercondiçõesfacilitadasdepagamento,nahipótesedealienaçãoouconcessãodedireitorealdeusodeterrenosintegrantesdeprogramashabitacionaisparapopulaçõesdebaixarenda.(16)EmendaàLOMnº16(16)(21)(26)Art.14.OMunicípiopoderáconcederdireitorealdeusodeseusbensimóveis,mediantepréviaavaliação,autorizaçãolegislativaeprocessolicitatório.(16)(26)§1ºAconcessãodedireitorealdeuso,remunerada,comimposiçãodeencargo,ougratuita,portempocertoouindeterminado,comdireitorealresolúvel,teráporobjeto,apenas,terrenosparafinsespecíficosderegularizaçãodeinteressesocial,urbanização,industrialização,edificação,cultivodeterra,preservaçãodascomunidadestradicionaiseseusmeiosdesubsistência,ououtrasmodalidadesdeinteressesocialemáreasurbanas.(16)(21)(26)§2ºNahipótesedebensimóveisconstruídosedestinadosouefetivamenteutilizadosnoâmbitodeprogramashabitacionaisdeinteressesocialouderegulaçãofundiáriadeinteressesocial,desenvolvidosporórgãosouentidadesdaadministraçãopública,aconcessãodedireitorealdeusoparafinsdemoradiapoderáser"
+            }
+          ]
+        },
+        {
+          "cor_original": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "caracteres": 2,
+          "paginas": [
+            53,
+            76
+          ],
+          "amostras": [
+            {
+              "pagina": 53,
+              "texto": "."
+            },
+            {
+              "pagina": 76,
+              "texto": "o"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

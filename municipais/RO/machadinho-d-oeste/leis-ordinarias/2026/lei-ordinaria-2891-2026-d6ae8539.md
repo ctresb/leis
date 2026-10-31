@@ -1,0 +1,186 @@
+---
+titulo: "LEI MUNICIPAL Nº 2891, DE 28 DE JULHO DE 2026."
+uf: "RO"
+municipio: "MACHADINHO D'OESTE"
+tipo: "Lei Ordinária"
+numero: "2891"
+data: 2026-07-28
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 30/07/2026"
+data_publicacao: 2026-07-30
+codigo_identificador: "D6AE8539"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116119_2026-07-29_5a75befa6f734bfe65344196c4a40e07.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 2891, DE 28 DE JULHO DE 2026.
+
+LEI MUNICIPAL Nº 2891, DE 28 DE JULHO DE 2026.
+
+ESTADO DE RONDÔNIA
+PREFEITURA MUNICIPAL DE MACHADINHO D'OESTE
+ANEXO ÚNICO
+LEI MUNICIPAL Nº 2886, DE 28 DE JULHO DE 2026.
+PLANILHA FINANCEIRA POR TENDÊNCIA DE ARRECADAÇÃO
+ANEXO I CONV.Nº395/26/PGE/DERADM.
+RECEITA:
+Iduso:1050
+Grupo/Código: 1.701
+Detalhamento: 0
+Código de aplicação: 001.132
+Agencia
+Conta Bancária
+Descrição da Conta
+VALOR (R$)
+2265-9
+30.454-9
+CONV.Nº395/26/PGE/DERADM 1.993.937,63
+SALDO
+1.993.937,63
+RESTOS
+A
+PAGAR
+NÃO
+0,00
+PROCESSADOS
+TOTAL GERAL
+1.993.937,63
+TENDENCIA DE ARRECADAÇÃO A SER INSERIDO AO ORÇAMENTO DO EXERCÍCIO
+FINANCEIRO DE 2026, ATRAVÉS DO CONV.Nº395/26/PGE/DERADM , FIRMADO ENTRE O
+ESTADO/DERADM E PREFEITURA MUNICIPAL TENDO COMO CONTRA PARTIDA O VALOR
+DE R$ 20.140,78 (VINTE MIL CENTO E QUARENTA REAIS E SETENTA E OITO CENTAVOS)
+TOTALIZANDO O VALOR DO CONVÊNIO EM R$ 2.014.078,41( DOIS MILHÕES QUATORZE
+MIL SETENTA E OITO REAIS E QUARENTA E UM CENTAVOS).
+DESPESA:
+Iduso:1050
+Grupo/Código: 1.701
+Detalhamento: 0
+Código de aplicação: 001.132
+ELEM.
+FICHA
+DESCRIÇÃO
+PROJ/ATIV.
+VALOR
+DESPESA
+OUTROS
+860
+SERV.TERC.PESSOA 04.122.0004.2002.0025
+44.90.39.00 1.993.937,63
+JURID.
+SUB TOTAL
+1.993.937,63
+DESPESA:
+Iduso:0
+Grupo/Código: 1
+Detalhamento: 500
+Código de aplicação: 001.132
+ELEM.
+FICHA
+DESCRIÇÃO
+PROJ/ATIV.
+VALOR
+DESPESA
+OUTROS
+861
+SERV.TERC.PESSOA 04.122.0004.2002.0025
+44.90.39.00 20.140,78
+JURID.
+SUB TOTAL
+20.140,78
+TOTAL
+2.01.078,41
+GERAL
+Machadinho D'Oeste, 28 de julho de 2.026.
+
+PAULO HENRIQUE DOS SANTOS
+Prefeito Municipal
+
+Av. Rio de Janeiro, 3098 - Centro - Machadinho D´Oeste/RO CEP:
+76.868-000
+Contato: (69) 3581-3723 - Site: www.machadinho.ro.gov.br - CNPJ:
+22.855.142/0001-73
+
+PLANILHA FINANCEIRA POR EXCESSO DE ARRECADAÇÃO ANEXO I TERMO DE ACEITE
+Nº 006/2026-CONSTRUÇÃO DA PRAÇA AV. TANGARÁ E CONSTR. DE DRENAGEM
+AV.PRESIDENTE MÉDICE.
+RECEITA:
+Iduso:9024
+Grupo/Código: 1.710
+Detalhamento: 3210
+Código de aplicação: 017.039
+Agencia
+Conta Bancária
+Descrição da Conta
+VALOR (R$)
+TERCMO ACEITE Nº
+2265-9
+31828-0
+R$ 400.000,00
+006/2026
+SALDO
+400.000,00
+RESTOS A PAGAR
+0,00
+NÃO PROCESSADOS
+TOTAL GERAL
+400.000,00
+EXCESSO DE ARRECADAÇÃO A SER INSERIDO AO ORÇAMENTO DO EXERCÍCIO
+FINANCEIRO DE 2026, ATRAVÉS DO TERMO DE ACEITE Nº 006/2026 FIRMADO ENTRE O
+ESTADO E PREFEITURA MUNICIPAL .
+DESPESA:
+Iduso:9024
+Grupo/Código: 1.710
+Detalhamento: 3210
+Código de aplicação: 017.039
+FICHA
+
+DESCRIÇÃO
+
+PROJ/ATIV.
+
+OBRAS
+E
+15.451.0021.1009.002
+INSTALAÇÕES
+OBRAS
+E
+15.451.0021.1007.0001
+INSTALAÇÕES
+
+815
+867
+
+ELEM.
+DESPESA
+
+VALOR
+
+44.90.51.00
+
+250.000,00
+
+44.90.51.00
+
+150.000,00
+
+SUB TOTAL
+
+400.000,00
+Machadinho D'Oeste, 28 de julho de 2.026.
+
+PAULO HENRIQUE DOS SANTOS
+Prefeito Municipal
+Av. Rio de Janeiro, 3098 - Centro - Machadinho D´Oeste/RO CEP:
+76.868-000
+Contato: (69) 3581-3723 - Site: www.machadinho.ro.gov.br - CNPJ:
+22.855.142/0001-73
+Documento assinado eletronicamente (ICP-BR) por PAULO
+HENRIQUE DOS SANTOS, PREFEITO MUNICIPAL, em
+28/07/2026 às 14:03, horário de Machadinho D'Oeste/RO, com fulcro
+no art. 18 do Decreto nº 3.431 de 06/03/2020.
+A autenticidade deste documento pode ser conferida no site
+transparencia.machadinho.ro.gov.br, informando o ID 1025518 e o
+código verificador 0F6F25FA.
+Publicado por:
+Adriana de Souza Figueirêdo

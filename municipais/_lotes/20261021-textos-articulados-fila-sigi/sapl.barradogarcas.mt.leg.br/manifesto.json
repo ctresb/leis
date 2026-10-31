@@ -1,0 +1,52 @@
+{
+  "host": "sapl.barradogarcas.mt.leg.br",
+  "metadados_unicos_observados": 139,
+  "total_api_declarado": 139,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 51,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradogarcas.mt.leg.br/80d41d224587e57c33b1e4f67b5f432f5fbe97a0f8c50aad7a68b20f8ad17035.json",
+    "url": "https://sapl.barradogarcas.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.barradogarcas.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f5a0e2995471e404d342c7bc4dd34df3daf8704dd00ffdbf9333b14762dd1966",
+    "bytes": 957,
+    "capturado_em": "2026-10-27T17:10:31.431655-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradogarcas.mt.leg.br/06529ed4a15b215f4769e2a2fad885ff130218329c64d29161c8e151601952aa.json",
+    "url": "https://sapl.barradogarcas.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.barradogarcas.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3cdfe1241c9b5126f019b0794c529ae768874dd8f1ac516cd30ddc2019a7e745",
+    "bytes": 894,
+    "capturado_em": "2026-10-27T17:10:30.660065-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradogarcas.mt.leg.br/b72ffd874b7ee090547fee971cf41bceea0180c411af7402d2c19daeb74f2029.json",
+      "url": "https://sapl.barradogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.barradogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "97fb4d1523422addc82da4ddda5a181b71c2d5cb7cd0fa48900d0b6242d0e4d0",
+      "bytes": 59647,
+      "capturado_em": "2026-10-27T17:10:32.895824-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradogarcas.mt.leg.br/4020544f442497d3a7927f19eba51ed2a1c1e8f67bf9845fab2326cb42159210.json",
+      "url": "https://sapl.barradogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.barradogarcas.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1ea486295352de9998b8d81251da078ef69b676b8be72ee7222c13cf1933fbac",
+      "bytes": 23807,
+      "capturado_em": "2026-10-27T17:13:38.606991-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

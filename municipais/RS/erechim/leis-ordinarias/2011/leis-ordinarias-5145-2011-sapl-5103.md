@@ -1,0 +1,229 @@
+---
+titulo: "Lei Ordinária Municipal nº 5.145, de 29 de dezembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "5145"
+data: "2011-12-29"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2019-07-16; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/5103"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/436/text"
+sha256_fonte: "05d80398890a0d5c652f6fe7a65e743f9835188e6cbc62a6dc56446ddc78c70d"
+sha256_texto: "afabfb06fcd3a5aa027ec30f90d9b904be25a684101789e5f87307dad49c7530"
+capturado_em_fonte: "2026-10-21T03:42:56.299465-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 5.145, de 29 de dezembro de 2011
+
+Dispõe sobre a regularização de construções em desacordo com as normas legais, e institui taxa de indenização e revoga a Lei n." 3.747, de 13 de julho de 2004.
+
+
+O Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, no uso de atribuições conferidas pelo Artigo 64, Inciso V da Lei Orgânica do Município:
+
+
+Faço saber que o Poder Legislativo aprovou, e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+A Administração Pública Municipal é autorizada a regularizar as construções executadas, clandestinas ou irregulares não conformes com os projetos aprovados, procedendo-se na forma estabelecida nesta Lei.
+
+
+Art. 2º.
+
+São regularizáveis, ainda que em desacordo com as normas legais e com dispositivos de controle das edificações do Plano Diretor, desde que não situados em logradouros públicos oficializados pelo Município ou em condomínios por unidades autônomas:
+
+
+I –
+
+as edificações destinadas a residências unifamiliares, bem como os aumentos e reformas nelas executadas;
+
+
+II –
+
+as edificações de habitação coletiva, bem como os aumentos e reformas nelas executadas;
+
+
+III –
+
+as edificações destinadas a atividades não residenciais, bem como os aumentos e reformas nela executadas, observados o zoneamento de usos estabelecidos pelo Plano diretor.
+
+
+Parágrafo único
+
+Para efeito da aplicação dos itens I a Ill, entende-se como regularizáveis as obras ou edificações no estágio em que se encontram, já consolidado o espaço fisico.
+
+
+Art. 3º.
+
+Dará direito à regularização, aquelas obras clandestinas ou irregulares que tenham sido concluídas até dezembro de 2018, podendo ser regularizáveis as edificações com processo e aprovação protocolados até 31 de Dezembro de 2019, desde que atendam as especificações contidas nas Leis Municipais n.° 2.595, 2.596, 2.597, 2.598 e 2.599, todas do ano de 1994.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária Municipal Legislativa nº 218, de 16 de julho de 2019.
+
+
+Art. 4º.
+
+É condição para a aprovação das obras irregulares ou clandestinas, o pagamento de multa indenizatória, conforme disposição do artigo 6.° desta Lei.
+
+
+Art. 5º.
+
+Para a obtenção dos benefícios previstos nesta lei, a parte interessada deverá, no prazo de até 18 (dezoito) meses da sua promulgação, requerer a regularização, instruindo o pedido com os seguintes documentos:
+
+
+I –
+
+Projeto arquitetônico e projetos complementares que contenha a obra existente e os acréscimos a regularizar;
+
+
+II –
+
+Laudo técnico, com a correspondente Anotação de Responsabilidade Técnica junto ao CREA;
+
+
+III –
+
+Comprovação de que a obra clandestina ou irregular apresenta condições de segurança e habitabilidade;
+
+
+IV –
+
+Prova de que a construção tenha sido efetuada antes de 31 de agosto de 2011;
+
+
+V –
+
+Comprovante do recolhimento da multa indenizatória, indicada no artigo 4.° desta Lei.
+
+
+Art. 6º.
+
+Fica instituída a multa indenizatória, a qual será calculada sobre o metro quadrado de construção excedente em desacordo com a legislação vigente, tendo como valor de referência o Índice Nacional da Construção Civil (INCC) do mês do pagamento, obedecendo para cada situação, o percentual correspondente ao tipo de edificação nas seguintes proporções:
+
+
+I –
+
+para edificações destinadas às residências unifamiliares, bem como os aumentos e reformas nelas executadas:
+
+
+a)
+
+Alvenaria: 25% (vinte e cinco por cento) do INCC;
+
+
+b)
+
+Mista: 18% (dezoito por cento) do INCC;
+
+
+c)
+
+Madeira: 12% (doze por cento) do INCC;
+
+
+II –
+
+para edificações de habitação coletiva, unidade autônoma e/ou áreas condominiais, bem como os aumentos e reformas nas mesmas executadas:
+
+
+a)
+
+25% (vinte e cinco por cento) do INCC.
+
+
+III –
+
+as edificações destinadas às atividades não residenciais, bem como os aumentos e reformas nelas executadas, observado zoneamento de uso estabelecido pelo Plano Diretor:
+
+
+a)
+
+25% (vinte e cinco por cento) do INCC.
+
+
+§ 1º
+
+É devida também a multa indenizatória para aquelas regularizações que não tenham atendido, no mínimo, 4 (quatro) metros de recuo para ajardinamento, não respeitados os recuos laterais e de fundos.
+
+
+§ 2º
+
+A multa indenizatória de que trata o § 1º será de 10% (dez por cento) do valor venal do terreno incidindo, somente, sobre aquela área utilizada irregularmente.
+
+
+Art. 7º.
+
+Esgotado o prazo indicado no caput do artigo 5.°, sem que a parte interessada tenha requerido a regularização, incidirá multa anual de 2% (dois por cento) sobre o valor venal do imóvel edificado, sem prejuízo das medidas judiciais cabíveis.
+
+
+§ 1º
+
+A multa indicada no caput deste artigo somente passa a ser devida e contada a partir do exercício seguinte àquele em que a parte interessada perdeu os direitos de regularizar a obra.
+
+
+§ 2º
+
+A multa indicada no caput deste artigo fica limitada a 20% (vinte por cento), somadas as porcentagens anuais sobre o valor venal do imóvel.
+
+
+Art. 8º.
+
+Entende-se por valor venal, para efeitos desta lei, aqueles utilizados para fins de cobrança do Imposto Predial e Territorial Urbano (IPTU).
+
+
+Art. 9º.
+
+O valor das multas indenizatórias estabelecidas nesta lei serão destinados ao Fundo Municipal de Habitação.
+
+
+Art. 10.
+
+Ficam anistiados os lançamentos de multas com base no artigo 6.° da Lei nº 3.747/04 e alterações.
+
+
+§ 1º
+
+Ficam também anistiados os lançamentos de multas com base nos artigos 41 e 42 da Lei nº 2.599/97 alterada pela Lei nº 4.847/10.
+
+
+§ 2º
+
+Os beneficios concedidos pelo caput deste artigo e seu §1.° não conferem qualquer direito à restituição ou compensação de importâncias já pagas ou compensadas.
+
+
+Art. 11.
+
+Ao interessado que regularizar obras com base nesta lei não incidirá a multa estabelecida pelo artigo 42 da Lei nº 2.599/94.
+
+
+Art. 12.
+
+Revogam-se as disposições em contrário, em especial a Lei n.º 3.747, de 13 de Julho de 2004.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Erechim/RS, 29 de Dezembro de 2011.  
+  
+  
+Paulo Alfredo Polis  
+Prefeito Municipal
+
+
+Registre-se e Publique-se  
+Data supra  
+  
+  
+  
+Gerson Leandro Berti  
+Secretário Municipal de Administração
+

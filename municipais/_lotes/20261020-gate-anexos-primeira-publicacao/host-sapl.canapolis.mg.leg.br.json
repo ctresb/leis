@@ -1,0 +1,15 @@
+{
+  "host": "sapl.canapolis.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.canapolis.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.canapolis.mg.leg.br/1b7aca419e112cb21570b69e1635f185cedc5ec8ee818d2e92d7d9c9bd05015e.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.canapolis.mg.leg.br/1b7aca419e112cb21570b69e1635f185cedc5ec8ee818d2e92d7d9c9bd05015e.meta.json"
+    }
+  ],
+  "total": 0
+}

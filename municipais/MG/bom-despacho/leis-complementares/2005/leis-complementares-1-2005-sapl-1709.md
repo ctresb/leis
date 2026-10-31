@@ -1,0 +1,2923 @@
+---
+titulo: "Lei Complementar nº 1, de 18 de maio de 2005"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "1"
+data: "2005-05-18"
+municipio: "Bom Despacho"
+uf: "MG"
+codigo_ibge: "3107406"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2022-06-14; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bomdespacho.mg.leg.br/norma/1709"
+fonte_texto: "https://sapl.bomdespacho.mg.leg.br/ta/100/text"
+sha256_fonte: "c9c55a33a750303cece28ff9664334861c609853e830a30e3e22df5ffd7dccd9"
+sha256_texto: "6781afbb41822b473f42e3e558f0605161bc351377c503bf99dee14dbe506bd6"
+capturado_em_fonte: "2026-10-27T19:31:24.058846-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 1, de 18 de maio de 2005
+
+**LEI COMPLEMENTAR N°01/05**
+
+
+DISPÕE SOBRE A LEI ORGÂNICA DA PREVIDÊNCIA SOCIAL MUNICIPAL E O INSTITUTO MUNICIPAL DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DE BOM DESPACHO – BDPREV, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito Municipal, faço saber que a Câmara Municipal decreta e eu sanciono a seguinte lei complementar:
+
+
+### TÍTULO I — INTRODUÇÃO
+
+
+Art. 1º.
+
+A Previdência Social Municipal, organizada na forma desta Lei, tem, por fim, assegurar a seus beneficiários os meios indispensáveis à sua manutenção, por motivo de invalidez, idade avançada, tempo de contribuição e morte.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 2º.
+
+São beneficiários da Previdência Social Municipal:
+
+
+I –
+
+como segurados obrigatórios: os servidores públicos municipais titulares de cargo efetivo da Prefeitura Municipal, de suas Autarquias, Fundações Municipais, Câmara Municipal ou cedidos para outros órgãos, com ou sem ônus para a Prefeitura Municipal de Bom Despacho.
+
+
+II –
+
+na qualidade de dependentes: as pessoas assim definidas no Artigo 8°.
+
+
+### TÍTULO II — DOS SEGURADOS, DOS DEPENDENTES E DA INSCRIÇÃO DOS SEGURADOS
+
+
+#### CAPÍTULO I — DOS SEGURADOS
+
+
+Art. 3º.
+
+São obrigatoriamente Segurados da Previdência Social Municipal os Servidores Públicos Municipais investidos em cargo público de provimento efetivo, bem como, os que adquiriram estabilidade constitucional.
+
+
+Parágrafo único
+
+Aos servidores titulares de cargo efetivo do Município, incluídas suas autarquias e fundações, é assegurado regime de previdência de caráter contributivo e solidário, mediante contribuição do respectivo ente público, dos servidores ativos e inativos e dos pensionistas, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.
+
+
+Art. 4º.
+
+O ingresso no serviço público ou atividades compreendidas no Regime Estatutário é determinante da obrigatoriedade de filiação ao Sistema Previdenciário previsto nesta Lei.
+
+
+Parágrafo único
+
+O Servidor que exercer mais de um emprego, cargo ou função, além do serviço público municipal, contribuirá obrigatoriamente sobre os vencimentos de seu cargo para o Sistema de Previdência Municipal.
+
+
+Art. 5º.
+
+Permanece filiado ao Regime Próprio de Previdência Social na qualidade de participante o servidor ativo que estiver:
+
+
+I –
+
+cedido a órgão ou entidade da administração direta ou indireta da União, dos Estados, do Distrito Federal e dos Municípios.
+
+
+Parágrafo único
+
+Incumbe ao cessionário, na hipótese do inciso I deste artigo, promover o recolhimento das contribuições previdenciárias devidas originariamente pelo cedente.
+
+
+Art. 6º.
+
+Ao Segurado, que não perde a qualidade de servidor mas que deixar de exercer atividade que o submeta ao regime desta Lei, é facultado manter esta qualidade, desde que passe a efetuar o pagamento mensal da contribuição ao sistema, correspondente ao vencimento do cargo anteriormente exercido, bem como da parcela correspondente ao seu empregador.
+
+
+§ 1º
+
+O pagamento a que se refere este artigo deverá ter início no mês subseqüente ao seu desligamento da atividade
+
+
+§ 2º
+
+Não será aceito pagamento de contribuições fora dos prazos previstos neste artigo, perdendo o Segurado essa qualidade.
+
+
+§ 3º
+
+O servidor que perder a qualidade de segurado somente reabilitará após o cumprimento de uma carência de 6 (seis) meses de contribuição ininterrupta.
+
+
+Art. 7º.
+
+É garantida ao Segurado mencionado no Artigo 2º desta Lei a contagem de tempo de atividade vinculada ao regime das Leis Federais nº 8.212 e 8.213, ambas de 24 de julho de 1991, para efeito de Aposentadoria por Tempo de Serviço, Invalidez, Compulsória e Idade, obedecidas as normas vigentes no sistema de origem, para efeito de pagamento.
+
+
+Parágrafo único
+
+O BDPREV, através da sua Presidência e em conjunto com a Procuradoria Geral Municipal, deverá interagir com o Instituto Nacional de Seguridade Social - INSS, com o Sistema de Previdência Estadual, ou com qualquer outro órgão a que estiver vinculado o segurado, no sentido de obter as compensações legais previstas para acobertar a situação exposta neste artigo, conforme dispositivos legais.
+
+
+#### CAPÍTULO II — DOS DEPENDENTES
+
+
+Art. 8º.
+
+Consideram-se dependentes do Segurado para os efeitos desta Lei:
+
+
+I –
+
+o cônjuge, a companheira, o companheiro e o filho, ou equiparado, não emancipado, menor de 21 (vinte e um) anos, ou inválido;
+
+
+II –
+
+os pais, desde que comprovem depender econômica e financeiramente do participante;
+
+
+III –
+
+o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido, desde que comprove depender econômica e financeiramente do participante.
+
+
+Art. 9º.
+
+A existência de dependentes de qualquer das classes enumeradas no inciso I do artigo 8º exclui o direito à prestação a todos os outros das classes subseqüentes e, a da pessoa designada, exclui os indicados nos incisos II e III do mesmo artigo.
+
+
+§ 1º
+
+Equiparam-se a filho, mediante declaração do participante, o enteado e o menor sob guarda ou tutela, desde que comprovada a dependência econômica e financeira na forma estabelecida no regulamento.
+
+
+§ 2º
+
+Considera-se companheira ou companheiro a pessoa que, sem ser casada, mantém união estável com o participante, de acordo com a legislação em vigor.
+
+
+§ 3º
+
+Presume-se a união estável quando comprovada a existência de filhos em comum e o esforço recíproco para a formação de entidade familiar.
+
+
+Art. 10.
+
+A dependência econômica e financeira das pessoas indicadas no inciso I do artigo 8º é presumida, e as das demais deve ser comprovada, constituindo requisito para a atribuição da qualidade de dependente e o gozo de benefícios.
+
+
+Art. 11.
+
+Não tem direito à prestação o separado judicialmente ou divorciado, ao qual não tenha sido assegurada a percepção de pensão alimentícia.
+
+
+#### CAPÍTULO III — DAS INSCRIÇÕES
+
+
+Art. 12.
+
+O Segurado e seus dependentes estão sujeitos à inscrição no BDPREV, que promoverá todas as facilidades para esse fim
+
+
+Art. 13.
+
+A inscrição é essencial à obtenção de qualquer prestação, devendo ser fornecido pelo BDPREV documento que a comprove.
+
+
+Art. 14.
+
+A inscrição de dependentes incumbe ao próprio Segurado e será feita, sempre que possível, no ato da inscrição do Segurado.
+
+
+Art. 15.
+
+Ocorrendo o falecimento do Segurado, sem que tenha feito a inscrição de seus dependentes, a estes será lícito promovê-la.
+
+
+### TÍTULO III — DOS REGIMES DE ATRIBUIÇÃO DE BENEFÍCIOS
+
+
+#### CAPÍTULO I — DO CÁLCULO DOS PROVENTOS DE APOSENTADORIA
+
+
+##### Seção I — DA BASE DE CÁLCULO
+
+
+Art. 16.
+
+Para o cálculo dos benefícios será considerada a remuneração de contribuição que corresponderá, tão-só, às verbas de caráter permanente, integrantes da remuneração ou do subsídio dos participantes, ou equivalentes valores componentes dos proventos e pensões, aí considerado o abono anual, conforme definidas em lei.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+§ 1º
+
+Sujeitam-se ao regime de que dispõe o caput as parcelas de caráter temporário já incorporadas, na forma da legislação vigente, às verbas que comporão os proventos de aposentadoria;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+§ 2º
+
+No cálculo dos proventos de aposentadoria, previstos nos artigos 20, 23, 24, 25 e 26, da Lei Complementar Municipal nº 01/2005, por ocasião da sua concessão serão consideradas a média aritmética simples das maiores remunerações, utilizadas como base para as contribuições do servidor ao regime de previdência a que esteve vinculado, correspondente a 80% (oitenta por cento) de todo período contributivo desde a competência julho de 1994 ou desde a do início da contribuição, se posterior àquela competência;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+§ 3º
+
+As remunerações consideradas no cálculo do valor inicial dos proventos terão os seus valores atualizados mês a mês de acordo com a variação integral do índice fixado para a atualização dos salários-de-contribuição considerados no cálculo dos benefícios do RGPS;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+§ 4º
+
+A base de cálculo dos proventos será a remuneração do servidor no cargo efetivo nas competências a partir de julho de 1994 em que não tenha havido contribuição para o BDPREV.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+Art. 17.
+
+Os proventos de aposentadoria, por ocasião da sua concessão, serão calculados com base na remuneração do servidor no cargo efetivo em que se der a aposentadoria e, na forma da lei, corresponderão a totalidade da remuneração.
+
+
+##### Seção II — DA ATUALIZAÇÃO
+
+
+Art. 18.
+
+É assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei.
+
+
+##### Seção III — DOS BENEFÍCIOS
+
+
+Art. 19.
+
+O Instituto Municipal de Previdência dos Servidores Públicos de Bom Despacho – BDPREV -, no que concerne à concessão de benefícios aos seus participantes e beneficiários, compreenderá os seguintes benefícios:
+
+
+I –
+
+quanto ao servidor:
+
+
+a)
+
+aposentadoria por invalidez;
+
+
+b)
+
+aposentadoria compulsória;
+
+
+c)
+
+aposentadoria voluntária por idade e tempo de contribuição;
+
+
+d)
+
+aposentadoria voluntária por idade;
+
+
+e)
+
+aposentadoria especial do professor;
+
+
+f)
+
+(Revogado)
+
+Revogado pelo I - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+g)
+
+abono anual (décimo terceiro salário/gratificação natalina dos benefícios)
+
+
+h)
+
+(Revogado)
+
+Revogado pelo I - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo I - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+II –
+
+quanto ao dependente:
+
+
+a)
+
+pensão por morte;
+
+
+b)
+
+(Revogado)
+
+Revogado pelo II - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+c)
+
+abono anual (décimo terceiro salário/gratificação natalina dos benefícios)
+
+
+#### CAPÍTULO II — DA ESPECIFICAÇÃO DOS BENEFÍCIOS
+
+
+##### Seção I — DA APOSENTADORIA POR INVALIDEZ
+
+
+Art. 20.
+
+O servidor será aposentado por invalidez permanente, com proventos proporcionais ao tempo de contribuição, exceto se decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, hipóteses em que os proventos serão integrais, observado quanto ao seu cálculo, o disposto no art. 16.
+
+
+§ 1º
+
+São considerados moléstia profissional ou doença grave, contagiosa ou incurável as seguintes: tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira posterior ao ingresso no serviço público, hanseníase, cardiopatia grave, doença de Parkinson, paralisia irreversível e incapacitante, espondiloartrose anquilosante, nefropatia grave, estados avançados do mal de Paget (osteíte deformante), síndrome de imunodeficiência adquirida (AIDS).
+
+
+§ 2º
+
+Aposentadoria por invalidez será concedida ao segurado do BDPREV, estando ou não em gozo de auxílio-doença, for considerado incapaz para o trabalho e insuscetível de reabilitação para o exercício de atividade que lhe garanta a subsistência, e ser-lhe-á paga enquanto permanecer nessa condição.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 3º
+
+O pagamento do benefício de aposentadoria por invalidez, decorrente de doença mental, somente será feito ao curador do segurado, condicionado a apresentação do termo de curatela, ainda que provisório.
+
+
+§ 4º
+
+O aposentado que voltar a exercer atividade laboral terá a aposentadoria por invalidez permanente cessada a partir da data do retorno.
+
+
+§ 5º
+
+A concessão de aposentadoria por invalidez será precedida de exame médico- pericial a cargo do BDPREV, e conforme o caso, seja necessário a realização de exames complementares para a referida concessão, caberá ao segurado comprovar sua incapacidade sem ônus para o BDPREV.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 7º
+
+A doença ou lesão de que o participante já era portador ao filiar-se ao BDPREV não lhe conferirá direito a aposentadoria por invalidez, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão.
+
+
+§ 8º
+
+Nos casos de incapacidade total e definitiva do Segurado, concluída pelo médico- perito do BDPREV, a concessão da Aposentadoria por Invalidez será devida a partir da data definida no laudo médico pericial.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 9º
+
+Até a concessão de aposentadoria por invalidez permanente, caberá aos órgãos do Poder Executivo, à Câmara Municipal ou às suas autarquias e fundações e demais entidades controladas direta ou indiretamente pelo Município, durante os primeiros 15 (quinze) dias de afastamento consecutivos da atividade, pagar ao participante o respectivo subsídio ou remuneração.
+
+
+§ 10
+
+Os proventos da aposentadoria por invalidez não poderão ser inferiores a 70% (setenta por cento) do valor calculado na forma estabelecida pelo § 2º do Art. 16.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+Art. 21.
+
+Os aposentados por invalidez, sob pena de suspensão do benefício, ficam obrigados a submeter-se aos exames que forem determinados pelo médico perito do BDPREV, bem como acatar os processos de reeducação e readaptação profissional prescrito e ao tratamento determinado.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+Parágrafo único
+
+Verificada, na forma do caput, a recuperação da capacidade de trabalho do servidor aposentado por invalidez, o benefício será extinto imediatamente, ficando a repartição de origem na obrigação de reintegrá-lo.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+Art. 22.
+
+Verificada a recuperação da capacidade de trabalho do aposentado por invalidez, o benefício cessará de imediato para o segurado que tiver direito a retornar à atividade que desempenhava ao se aposentar, valendo como documento, para tal fim, o certificado de capacidade laboral fornecido pelo BDPREV.
+
+
+Parágrafo único
+
+O segurado que retornar à atividade poderá requerer, a qualquer tempo, novo benefício, tendo, este, processamento normal.
+
+
+##### Seção II — DA APOSENTADORIA COMPULSÓRIA
+
+
+Art. 23.
+
+O servidor, homem ou mulher, será aposentado compulsoriamente aos setenta anos de idade, com proventos proporcionais ao tempo de contribuição, observado, quanto ao seu cálculo, o disposto no art. 16.
+
+
+Parágrafo único
+
+Quanto à concessão da aposentadoria compulsória, é vedada:
+
+
+I –
+
+a concessão em idade distinta daquela definida no caput;
+
+
+II –
+
+concessão de proventos em valor inferior ao salário mínimo.
+
+
+##### Seção III — DA APOSENTADORIA VOLUNTÁRIA POR IDADE E POR TEMPO DE CONTRIBUIÇÃO
+
+
+Art. 24.
+
+O servidor fará jus à aposentadoria voluntária por idade e tempo de contribuição, com proventos calculados na forma prevista no art. 16, desde que preencha, cumulativamente, os seguintes requisitos:
+
+
+I –
+
+tempo mínimo de dez anos de efetivo exercício no serviço público;
+
+
+II –
+
+tempo mínimo de cinco anos de efetivo exercício no cargo efetivo em que se der a aposentadoria;
+
+
+III –
+
+sessenta anos de idade e trinta e cinco de tempo de contribuição, se homem, e cinqüenta e cinco anos de idade e trinta de tempo de contribuição, se mulher.
+
+
+Parágrafo único
+
+A aposentadoria por idade poderá ser decorrente da transformação de aposentadoria por invalidez ou auxílio-doença, desde que requerida pelo participante.
+
+
+##### Seção IV — DA APOSENTADORIA VOLUNTÁRIA POR IDADE
+
+
+Art. 25.
+
+O servidor fará jus à aposentadoria voluntária por idade, com proventos proporcionais ao tempo de contribuição, calculados conforme art. 16, desde que preencha, cumulativamente, os seguintes requisitos:
+
+
+I –
+
+tempo mínimo de dez anos de efetivo exercício no serviço público;
+
+
+II –
+
+tempo mínimo de cinco anos de efetivo exercício no cargo efetivo em que se der a aposentadoria; e
+
+
+III –
+
+sessenta e cinco anos de idade, se homem, e sessenta anos de idade, se mulher.
+
+
+##### Seção V — DA APOSENTADORIA ESPECIAL DO PROFESSOR
+
+
+Art. 26.
+
+O professor que comprove, exclusivamente, tempo de efetivo exercício das funções de magistério, na educação infantil e no ensino fundamental e médio, quando da aposentadoria prevista no artigo 24, terá os requisitos de idade e de tempo de contribuição reduzidos em cinco anos.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 11, de 12 de agosto de 2009.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 11, de 12 de agosto de 2009.
+
+
+§ 1º
+
+A função de magistério não se circunscreve apenas ao trabalho em sala de aula, abrangendo também a preparação de aulas, a correção de provas, o atendimento aos pais e alunos, a coordenação e o assessoramento pedagógico e, ainda, a direção de unidade escolar;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 11, de 12 de agosto de 2009.
+
+
+§ 2º
+
+As funções de direção, coordenação e assessoramento pedagógico integram a carreira do magistério, desde que exercidos em estabelecimentos de ensino básico, por professores de carreira, excluídos os especialistas em educação, fazendo jus aqueles que as desempenham ao regime especial de aposentadoria estabelecidos no art. 40 e 201 § 1º da Constituição Federal.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 11, de 12 de agosto de 2009.
+
+
+##### Seção VI — DO AUXÍLIO-DOENÇA
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo IV - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+##### Seção VII — DO ABONO ANUAL ( DÉCIMO TERCEIRO SALÁRIO/GRATIFICAÇÃO NATALINA DOS BENEFÍCIOS)
+
+
+Art. 34.
+
+O Abono Anual é devido ao Segurado ou dependente em gozo de benefício, devendo ser pago até o dia 20 (vinte) de dezembro de cada ano, resguardada a proporcionalidade de 1/12 (um doze avo) do total por mês de benefício efetivamente gozado no exercício.
+
+
+Art. 35.
+
+O Abono Anual será pago uma só vez por ano e será calculado com base no Salário de Benefício vigente no mês de dezembro.
+
+
+Parágrafo único
+
+A critério do Conselho de Administração do BDPREV, poderá o Instituto pagar o benefício do Abono Anual quando o segurado obtiver alta do Auxílio-Doença, sendo proporcional ao tempo em que esteve afastado percebendo este benefício.
+
+
+##### Seção VIII — DO SALÁRIO-FAMÍLIA
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo V - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+##### Seção X — DA PENSÃO POR MORTE
+
+
+Art. 51.
+
+A pensão por morte será conferida ao conjunto dos dependentes do segurado, sob forma de renda mensal, quando do seu falecimento, em valor correspondente a:
+
+
+I –
+
+totalidade dos proventos percebidos pelo aposentado na data anterior à do óbito, até o limite máximo estabelecido para os benefícios do RGPS, acrescida de setenta por cento da parcela excedente a esse limite; ou
+
+
+II –
+
+totalidade da remuneração do servidor no cargo efetivo na data anterior à do óbito, conforme definido no art. 16, até o limite máximo estabelecido para os benefícios do RGPS, acrescida de setenta por cento da parcela excedente a esse limite, se o falecimento ocorrer quando o servidor ainda estiver em atividade.
+
+
+§ 1º
+
+Na hipótese de que trata o inciso II, aplica-se a vedação de inclusão no benefício de pensão de parcelas remuneratórias pagas em decorrência de local de trabalho, de função de confiança, de cargo em comissão ou do abono de permanência de que trata os artigos 66 e 68.
+
+
+§ 2º
+
+Compreende-se na vedação do parágrafo anterior a previsão de incorporação de tais parcelas diretamente no valor da pensão ou na remuneração, apenas para efeito de concessão do benefício, ainda que mediante regras específicas.
+
+
+§ 3º
+
+O direito à pensão configura-se na data do falecimento do segurado, sendo o benefício concedido com base na legislação vigente nessa data.
+
+
+§ 4º
+
+Para efeito do rateio da Pensão, considerar-se-ão apenas os dependentes habituais, não se adiando a concessão pela falta de habilitação de outros possíveis dependentes.
+
+
+§ 5º
+
+Concedido o benefício, qualquer inscrição ou habilitação posterior, que implique exclusão ou inclusão de dependentes, só produzirá efeito a partir da data em que se realizar.
+
+
+Art. 52.
+
+A quota de Pensão se extingue:
+
+
+I –
+
+por morte do Pensionista;
+
+
+II –
+
+para o filho e o irmão, de qualquer condição, ao completarem 21 (vinte e um) anos, salvo se inválidos, ou pela emancipação, ainda que inválidos, exceto, neste caso, se a emancipação for decorrente de colação de grau científico em curso superior;
+
+
+III –
+
+para os (as) pensionistas inválidos (as), se cessar a invalidez.
+
+
+§ 1º
+
+Para os efeitos da concessão ou extinção da Pensão, a invalidez do dependente deverá ser atestada por Exame Médico Pericial, a cargo do BDPREV.
+
+
+§ 2º
+
+Os (as) pensionistas inválidos (as), sob pena de suspensão do benefício, ficam obrigados (as) a submeter-se aos exames que forem determinados pelo BDPREV.
+
+
+§ 3º
+
+Extingue-se a pensão quando extinta a parte devida ao último pensionista.
+
+
+Art. 53.
+
+Por morte presumida do (a) Segurado(a), declarada pela Autoridade Judicial competente, será concedida uma Pensão na forma estabelecida nesta Seção.
+
+
+##### Seção XI — DO AUXÍLIO-RECLUSÃO
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo VI - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 57.
+
+É vedado ao Segurado o recebimento cumulativo dos seguintes benefícios, ressalvados os previstos constitucionalmente e salvo quando a origem dos pagamentos forem de cargos distintos:
+
+
+I –
+
+(Revogado)
+
+Revogado pelo III - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+II –
+
+mais de uma aposentadoria;
+
+
+III –
+
+(Revogado)
+
+Revogado pelo III - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+IV –
+
+mais de uma pensão deixada por cônjuge;
+
+
+V –
+
+mais de uma pensão deixada por companheiro ou companheira; e
+
+
+VI –
+
+mais de uma pensão deixada por cônjuge e companheiro ou companheira.
+
+
+Art. 58.
+
+Os benefícios concedidos ao Segurado ou a seus dependentes, salvo quanto as importâncias devidas ao próprio BDPREV, aos descontos autorizados por Lei ou derivados de obrigações de prestar pensão alimentícia, transitada em julgado, não poderão ser objeto de penhora, arresto ou seqüestro, sendo nula de pleno direito qualquer venda ou cessão de direitos e a constituição de qualquer ônus, bem como a outorga de poderes inegociáveis ou em causa própria para a respectiva recepção.
+
+
+Art. 59.
+
+O pagamento dos benefícios em espécie, em cheque ou em crédito em conta corrente bancária, será efetuado diretamente ao Segurado ou dependente, salvo nos casos de impedimento por moléstia contagiosa ou impossibilidade de locomoção do beneficiário, quando então se fará por procuração, mediante autorização expressa do BDPREV, renovável a cada 3(três) meses, podendo, todavia, ser negado o pagamento, a exclusivo critério do BDPREV, quando reputar a representação de duvidosa ou inconveniente.
+
+
+Art. 60.
+
+A impressão digital do Segurado ou dependente incapaz de assinar, desde que tomada na presença de funcionário credenciado do BDPREV, será reconhecida como do mesmo valor da assinatura, para efeito de quitação de recibos de benefícios.
+
+
+Art. 61.
+
+É lícito ao Segurado menor, a critério do BDPREV, firmar recibo de benefício, desde que na presença e com testemunho dos pais ou tutores.
+
+
+Art. 62.
+
+As contribuições sucessivamente pagas a outras instituições públicas de Previdência Municipal, Estadual ou Federal serão computadas para a concessão de benefícios de aposentadorias, devendo a Presidência do BDPREV e o serviço de Procuradoria Municipal, em conjunto, acionarem os meios necessários à obtenção da compensação financeira envolvida, até o seu desfecho final.
+
+
+### TÍTULO IV — DAS REGRAS DE TRANSIÇÃO
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PARA OS SERVIDORES INATIVOS E PENSIONISTAS EM GOZO DE BENEFÍCIO EM 30/12/2003
+
+
+Art. 63.
+
+O servidores inativos e pensionistas do Município, incluídos suas autarquias e fundações, em gozo de benefício em 30/12/2003, última data anterior à publicação e vigência da Emenda Constitucional nº 41, em 31 de dezembro de 2003, participarão do custeio do Regime Próprio de Previdência Social do Município em percentual de 11% (onze por cento).
+
+Alteração feita pelo Art. 5º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+Parágrafo único
+
+A contribuição previdenciária a que se refere o caput incidirá apenas sobre a parcela dos proventos e das pensões que supere 100% (cem por cento) do limite máximo estabelecido para os benefícios do Regime Geral de Previdência Social.
+
+
+Art. 64.
+
+Os respectivos proventos de aposentadoria e as pensões dos dependentes serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei.
+
+
+#### CAPÍTULO II — DAS DISPOSIÇÕES PARA QUEM CUMPRIU OS CRITÉRIOS PARA A CONCESSÃO DOS BENEFÍCIOS DE APOSENTADORIA E PENSÃO POR MORTE ATÉ 30/12/2003
+
+
+Art. 65.
+
+É assegurada a concessão, a qualquer tempo, de aposentadoria aos servidores públicos participantes, referidos no inciso I do art. 2º desta Lei, bem como pensão aos seus dependentes que, até 30/12/2003, última data anterior à publicação e vigência da Emenda Constitucional nº 41, em 31 de dezembro de 2003, tenham cumprido todos os requisitos para a obtenção desses benefícios, com base nos critérios da legislação vigente à época da elegibilidade.
+
+
+Parágrafo único
+
+Os proventos da aposentadoria a ser concedida aos servidores públicos referidos no caput, em termos integrais ou proporcionais ao tempo de serviço já exercido até a data de publicação da Emenda Constitucional nº 41, em 31 de dezembro de 2003, bem como as pensões de seus dependentes, serão calculados de acordo com a legislação em vigor à época em que foram atendidas as prescrições nela estabelecidas para a concessão destes benefícios.
+
+
+Art. 66.
+
+O servidor de que trata este Capítulo que opte por permanecer em atividade tendo completado as exigências para aposentadoria voluntária e que conte com, no mínimo, 30 (trinta) anos de contribuição, se mulher, ou 35 (trinta e cinco) anos de contribuição, se homem, fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para a aposentadoria compulsória.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES PARA QUEM INGRESSOU NO SERVIÇO PÚBLICO COMO TITULAR DE CARGO EFETIVO ATÉ 16/12/1998 E AINDA NÃO CUMPRIU OS REQUISITOS DE ELEGIBILIDADE
+
+
+Art. 67.
+
+Ao servidor que tenha ingressado por concurso público de provas ou de provas e títulos em cargo efetivo na administração pública direta, autárquica e fundacional até 16 de dezembro de 1998, é facultado aposentar-se com proventos calculados de acordo com o art. 16, quando o servidor, cumulativamente:
+
+
+I –
+
+tiver cinqüenta e três anos de idade, se homem, e quarenta e oito anos de idade, se mulher;
+
+
+II –
+
+tiver cinco anos de efetivo exercício no cargo em que se der a aposentadoria; e
+
+
+III –
+
+contar tempo de contribuição igual, no mínimo, à soma de:
+
+
+a)
+
+trinta e cinco anos, se homem, e trinta anos, se mulher; e
+
+
+b)
+
+um período adicional de contribuição equivalente a vinte por cento do tempo que, na data prevista no caput, faltava para atingir o limite de tempo constante da alínea “a” deste inciso.
+
+
+§ 1º
+
+O servidor de que trata este artigo que cumprir as exigências para aposentadoria na forma do caput terá seus proventos de inatividade reduzidos para cada ano antecipado em relação aos limites de idade de 60 (sessenta) anos de idade e 35 (trinta e cinco) anos de tempo de contribuição para os homens e 55 (cinqüenta e cinco) anos de idade e 30 (trinta) anos de tempo de contribuição para as mulheres, na seguinte proporção:
+
+
+I –
+
+3,5% (três inteiros e cinco décimos por cento) para aquele que completar as exigências para aposentadoria na forma do caput até 31 de dezembro de 2005;
+
+
+II –
+
+5% (cinco por cento) para aquele que completar as exigências para aposentadoria na forma do caput a partir de 1º de janeiro de 2006.
+
+
+§ 2º
+
+O número de anos antecipados na forma do § 1º será verificado no momento da concessão do benefício.
+
+
+§ 3º
+
+O professor, servidor do Município, que, até a data da publicação da Emenda Constitucional nº 20/98, tenha ingressado, regularmente, em cargo efetivo de magistério, e que opte por aposentar-se na forma do disposto no caput, terá o tempo de serviço, exercido até a publicação da Emenda Constitucional nº 20, de 15 de dezembro de 1998, contado com o acréscimo de 17% (dezessete por cento), se homem, e de 20% (vinte por cento), se mulher, desde que se aposente, exclusivamente, com tempo de efetivo exercício das funções de magistério.
+
+
+I –
+
+Para fins do disposto neste parágrafo, considera-se função de magistério a atividade docente do professor exercida exclusivamente em sala de aula.
+
+
+Art. 68.
+
+O servidor de que tratam os artigos 24, 26 e 67, que tenha completado as exigências para aposentadoria voluntária, ali estabelecidas, e que opte por permanecer em atividade, fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória.
+
+
+Art. 69.
+
+Às aposentadorias concedidas de acordo com os artigos 20, 23, 24, 25 e 26 é assegurado o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos nesta lei.
+
+
+#### CAPÍTULO IV
+
+DAS DISPOSIÇÕES PARA QUEM INGRESSOU NO SERVIÇO PÚBLICO COMO TITULAR DE CARGO EFETIVO ATÉ 30/12/2003 E AINDA NÃO CUMPRIU OS REQUISITOS DE ELEGIBILIDADE DE QUE TRATA O CAPÍTULO II.
+
+
+Art. 70.
+
+Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas no art. 24, ou no art. 26, 67 e 71 desta Lei, o servidor que tiver ingressado no serviço público até 31 de dezembro de 2003, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da remuneração do servidor no cargo efetivo em que se der a aposentadoria, conforme art. 16, quando, observadas as reduções de idade e tempo de contribuição contidas no art. 26, vier a preencher, cumulativamente, as seguintes condições:
+
+Alteração feita pelo Art. 6º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+I –
+
+Sessenta anos de idade, se homem, e cinqüenta e cinco anos de idade, se mulher;
+
+
+II –
+
+trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher;
+
+
+III –
+
+vinte anos de efetivo exercício no serviço público;
+
+
+IV –
+
+dez anos de carreira, previsto na estrutura organizacional do ente patrocinador, cometidos a um servidor aprovado por meio de concurso público de provas ou de provas e títulos;
+
+
+V –
+
+cinco anos de efetivo exercício no cargo em que se der a aposentadoria.
+
+
+§ 1º
+
+Os proventos das aposentadorias concedidas conforme este artigo serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade
+
+
+§ 2º
+
+O tempo de carreira deverá ser cumprido no mesmo ente patrocinador e no mesmo poder.
+
+
+Art. 71.
+
+Ressalvado o direito de opção à aposentadoria pelas normas estabelecidas no art. 24, ou pelas regras do artigo anterior, é assegurado o direito à aposentadoria voluntária com proventos integrais, que corresponderão à totalidade da remuneração do servidor no cargo efetivo em que se der a aposentadoria, na forma da lei, àquele que tenha ingressado regularmente em cargo efetivo na administração pública, direta, autárquica e fundacional, até a data de publicação e vigência da Emenda Constitucional nº 41, em 31 de dezembro de 2003, e que ainda não cumpriu os requisitos de elegibilidade de que trata o art. 25, desde que preencha, cumulativamente, as seguintes condições:
+
+Alteração feita pelo Art. 7º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+I –
+
+Trinta e cinco anos de contribuição, se homem, e trinta anos de contribuição, se mulher;
+
+Alteração feita pelo Art. 7º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+II –
+
+Vinte e cinco anos de efetivo exercício no serviço público, quinze anos de carreira e cinco anos em cargo que se der a aposentadoria;
+
+Alteração feita pelo Art. 7º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+III –
+
+Idade mínima resultante da redução, relativamente aos limites do art. 40, § 3º, inciso III, alínea “a” da Constituição Federal, de um ano de idade para cada ano de contribuição que exceder a condição prevista no inciso I do caput deste artigo.
+
+Alteração feita pelo Art. 7º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 7º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+Parágrafo único
+
+Aplica-se ao valor dos proventos de aposentadorias concedidas com base neste artigo o disposto no art. 7º da EC/41 de 2003, observando-se igual critério de revisão às pensões derivadas dos proventos de servidores falecidos que tenham se aposentado em conformidade com este artigo. (AC)
+
+Inclusão feita pelo Art. 7º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+Art. 72.
+
+Os requisitos de idade e tempo de contribuição serão reduzidos em 5 (cinco) anos, em relação ao disposto nos incisos I e II do artigo 70, respectivamente, para o professor que comprove exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio.
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+Art. 73.
+
+Os proventos das aposentadorias concedidas conforme os artigos 70 e 71 serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, na forma da lei, observado o limite disposto no art. 77 desta Lei e conforme o § 1º do artigo 70 desta lei , dos servidores em atividade.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES GERAIS SOBRE BENEFÍCIOS
+
+
+Art. 74.
+
+Para efeito do cumprimento dos requisitos de concessão das aposentadorias previstas nos artigos 24, 25, 67, e 70, o tempo de efetivo exercício no cargo em que se dará a aposentadoria deverá ser cumprido no cargo efetivo em que o servidor esteja em exercício na data imediatamente anterior à da concessão do benefício.
+
+
+Art. 75.
+
+Independe de carência a concessão de benefícios previdenciários, ressalvadas as aposentadorias previstas nos artigos 24, 25, 67 e 70 que observarão os prazos mínimos previstos naqueles artigos.
+
+
+Art. 76.
+
+É vedado:
+
+
+I –
+
+o cômputo de tempo de contribuição fictício para o cálculo de benefício previdenciário;
+
+
+II –
+
+a concessão de aposentadoria especial, nos termos do § 4º do art. 40 da Constituição Federal, até que lei complementar federal discipline a matéria;
+
+
+III –
+
+a percepção de mais de uma aposentadoria à conta do regime próprio a servidor público titular de cargo efetivo, ressalvadas as decorrentes dos cargos acumuláveis previstos na Constituição Federal; e
+
+
+IV –
+
+a percepção simultânea de proventos de aposentadoria decorrente de regime próprio de servidor titular de cargo efetivo, com a remuneração de cargo, emprego ou função pública, ressalvados os cargos acumuláveis previstos na Constituição Federal, os cargos eletivos e os cargos em comissão declarados em lei de livre nomeação e exoneração.
+
+
+§ 1º
+
+Não se considera fictício o tempo definido em lei como tempo de contribuição para fins de concessão de aposentadoria quando tenha havido, por parte do servidor, a prestação de serviço ou a correspondente contribuição.
+
+
+§ 2º
+
+O servidor inativo, para ser investido em cargo público efetivo não acumulável com aquele que gerou a aposentadoria, deverá renunciar aos proventos dessa.
+
+
+Art. 77.
+
+Os proventos de aposentadoria e as pensões, por ocasião de sua concessão, não poderão exceder a remuneração do respectivo servidor, no cargo efetivo em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão.
+
+Alteração feita pelo Art. 8º. - Lei Complementar nº 2, de 16 de março de 2006.
+
+
+Art. 78.
+
+Concedida a aposentadoria ou a pensão, será o ato publicado e encaminhado, pela Unidade Gestora, ao Tribunal de Contas, para homologação.
+
+
+#### CAPÍTULO VI — DO REAJUSTE DOS BENEFÍCIOS
+
+
+Art. 79.
+
+Os benefícios de aposentadoria e pensão, de que tratam os artigos 20, 23, 24, 25, 26, 51 e 67, serão reajustados para preservar-lhes, em caráter permanente, o valor real, na mesma data em que se der o reajuste dos benefícios do RGPS, de acordo com a variação do índice definido em lei pelo ente federativo, na mesma data em que der os reajustes dos servidores em atividade.
+
+
+Parágrafo único
+
+Na ausência de definição do índice de reajustamento pelo ente, os benefícios serão corrigidos pelos mesmos índices aplicados aos benefícios do RGPS.
+
+
+#### CAPÍTULO VII — DO DIREITO ADQUIRIDO
+
+
+Art. 80.
+
+É assegurada a concessão de aposentadoria e pensão a qualquer tempo, aos segurados e seus dependentes que, até 31 de dezembro de 2003, tenham cumprido os requisitos para a obtenção destes benefícios, com base nos critérios da legislação então vigente, observado o disposto no inciso XI do art. 37 da Constituição Federal.
+
+
+Parágrafo único
+
+Os proventos da aposentadoria a ser concedida aos segurados referidos no caput, em termos integrais ou proporcionais ao tempo de contribuição já exercido até 31 de dezembro de 2003, bem como as pensões de seus dependentes, serão calculados de acordo com a legislação em vigor à época em que foram atendidas as prescrições nela estabelecidas para a concessão desses benefícios ou nas condições da legislação vigente.
+
+
+#### CAPÍTULO VIII — DO ABONO DE PERMANÊNCIA
+
+
+Art. 81.
+
+O segurado ativo que tenha completado as exigências para aposentadoria voluntária estabelecidas nos artigos 24, 26 e 67 e que opte por permanecer em atividade, fará jus a um abono de permanência equivalente ao valor da sua contribuição previdenciária até completar as exigências para aposentadoria compulsória contidas no art. 23.
+
+
+§ 1º
+
+O abono previsto no caput será concedido, nas mesmas condições, ao servidor que, até 31 de dezembro de 2003, tenha cumprido todos os requisitos para obtenção da aposentadoria voluntária, com proventos integrais ou proporcionais, com base nos critérios da legislação então vigente, como previsto no art. 80, desde que conte com, no mínimo, vinte e cinco anos de contribuição, se mulher, ou trinta anos, se homem.
+
+
+§ 2º
+
+O recebimento do abono de permanência pelo servidor que cumpriu todos os requisitos para obtenção da aposentadoria voluntária, com proventos integrais ou proporcionais em qualquer das regras previstas nos artigos 24, 26, 67 e 80, conforme previsto no caput e § 1º, não constitui impedimento à concessão do benefício de acordo com outra regra, inclusive a prevista no art. 70, desde que cumpridos os requisitos previstos para a hipótese.
+
+
+§ 3º
+
+O valor do abono de permanência será equivalente ao valor da contribuição efetivamente descontada do servidor, ou recolhida por este, relativamente a cada competência.
+
+
+§ 4º
+
+O pagamento do abono de permanência é de responsabilidade do respectivo ente federativo e será devido a partir do cumprimento dos requisitos para obtenção do benefício conforme disposto no caput e § 1º, mediante opção expressa pela permanência em atividade.
+
+
+### TÍTULO V — DO CUSTEIO
+
+
+#### CAPÍTULO I — DAS FONTES DE RECEITA
+
+
+Art. 82.
+
+O custeio do Regime de Previdência de que trata esta Lei, será atendido pelas seguintes receitas:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+I –
+
+contribuição dos servidores inativos e pensionistas equivalente a 14% (quatorze por cento) incidente sobre a parcela dos benefícios que supere o valor do teto do RGPS do INSS.
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+II –
+
+contribuição dos servidores ativos equivalente a 14% (quatorze por cento) incidente sobre a remuneração de contribuição;
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+III –
+
+contribuição dos Órgãos Empregadores equivalente a 16,32% (dezesseis inteiros e trinta e dois décimos por cento) incidente sobre a totalidade da remuneração de contribuição;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 14, de 08 de março de 2010.
+
+
+IV –
+
+A contribuição suplementar dos Órgãos Empregadores, a título de reserva de tempo passado, será de:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+a)
+
+16,87% (dezesseis inteiros e oitenta e sete por cento) para o exercício de 2021;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+b)
+
+18,95% (dezoito inteiros e noventa e cinco por cento) para o exercício de 2022;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+c)
+
+25,85%( vinte e cinco inteiros e oitenta e cinco por cento) para o exercício de 2023;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+d)
+
+31,25% (trinta e um inteiros e vinte e cinco por cento) para o exercício de 2024;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+e)
+
+32,06%( trinta e dois inteiros e seis por cento) para o exercício de 2025;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+f)
+
+33,55%( trinta e três inteiros e cinquenta e cinco por cento) para o exercício de 2026;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+g)
+
+36,26% (trinta e seis inteiros e vinte e seis por cento) para o exercício de 2027;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+h)
+
+44,85%( quarenta e quatro inteiros e oitenta e cinco por cento) para o exercício de 2028;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+i)
+
+48,20% (quarenta e oito inteiros e vinte por cento) para o exercício de 2029;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+j)
+
+52,07%( cinquenta e dois inteiros e sete por cento) para o exercício de 2030;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+k)
+
+53,04% (cinquenta e três inteiros e quatro por cento) para o exercício de 2031;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+l)
+
+53,39% (cinquenta e três inteiros e trinta e nove por cento) para o exercício de 2032;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+m)
+
+53,59%( cinquenta e três inteiros e cinquenta e nove por cento) para o exercício de 2033;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+n)
+
+54,09% (cinquenta e quatro inteiros e nove por cento) para o exercício de 2034;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+o)
+
+54,39% (cinquenta e quatro inteiros e trinta e nove por cento) para o exercício de 2035;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+p)
+
+54,59% (cinquenta e quatro inteiros e cinquenta e nove por cento) para o exercício de 2036;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+q)
+
+54,70% (cinquenta e quatro inteiros e setenta por cento) para o exercício de 2037;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+r)
+
+54,95%(cinquenta e quatro inteiros e noventa e cinco por cento) para o exercício de 2038;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+s)
+
+55,00%(cinquenta e cinco inteiros) para o exercício de 2039;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+t)
+
+55,20% (cinquenta e cinco inteiros e vinte por cento) para o exercício de 2040;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+u)
+
+55,25% (cinquenta e cinco inteiros e vinte e cinco por cento) para o exercício de 2041;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+v)
+
+55,30%( cinquenta e cinco inteiros e trinta por cento) para o exercício de 2042;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+w)
+
+55,35%(cinquenta e cinco inteiros e trinta e cinco por cento) para o exercício de 2043;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+x)
+
+55,51% (cinquenta e cinco inteiros e cinquenta e um por cento) para o exercício de 2044;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+y)
+
+55,77%(cinquenta e cinco inteiros e setenta e sete por cento) para o exercício de 2045;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+z)
+
+55,89%(cinquenta e cinco inteiros e oitenta e nove por cento) para o exercício de 2046;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+aa)
+
+56,11%(cinquenta e seis inteiros e onze por cento) para o exercício de 2047;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+bb) 56,12%( cinquenta e seis inteiros e doze por cento) para o exercício de 2048;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+cc) 56,22%( cinquenta e seis inteiros e vinte e dois por cento) para o exercício de 2049;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+dd) 57,01% (cinquenta e sete inteiros e um por cento) para o exercício de 2050;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+ee) 57,57% (cinquenta e sete inteiros e cinquenta e sete por cento) para o exercício de 2051;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+ff) 57,80% (cinquenta e sete inteiros e oitenta por cento) para o exercício de 2052;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+gg) 57,90%( cinquenta e sete inteiros e noventa por cento) para o exercício de 2053;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+hh) 57,99%(cinquenta e sete inteiros e noventa e nove por cento) para o exercício de 2054;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+ii) 58,04%(cinquenta e oito inteiros e quatro por cento) para o exercício de 2055, incidente sobre a totalidade da remuneração de contribuição.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+V –
+
+subvenções, doações ou legados;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+VI –
+
+rentabilidade de aplicações financeiras;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+VII –
+
+compensação financeira em razão do §9º do art. 201 da Constituição Federal;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+VIII –
+
+eventuais receitas.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 1º
+
+O valor constante no inciso I deste artigo serão corrigidos pelos mesmos índices aplicados aos benefícios do Regime Geral de Previdência Social – RGPS.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 2º
+
+Para fins de cálculo do inciso II deste artigo, considera-se remuneração de contribuição o vencimento ou subsídio do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei, dos adicionais de caráter individual, ou outras vantagens, excluídas:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+I –
+
+salário-família;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+II –
+
+diárias de viagem;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+III –
+
+ajuda de custo em razão de mudança de sede;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+IV –
+
+indenização de transporte;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+V –
+
+auxílio-alimentação;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+VI –
+
+auxílio-creche;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+VII –
+
+as parcelas remuneratórias pagas em decorrência de local de trabalho;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+VIII –
+
+a parcela recebida em decorrência do exercício de cargo em comissão ou função de confiança;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+IX –
+
+o abono de permanência de que trata o art. 81 desta Lei; e
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+X –
+
+outras parcelas cujo caráter indenizatório esteja definido em lei.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 3º
+
+O segurado ativo poderá optar pela inclusão na remuneração de contribuição de parcelas remuneratórias percebidas em decorrência de local de trabalho, do exercício de cargo em comissão ou de função de confiança, para efeito de cálculo de benefício a ser concedido com fundamento nos arts. 20, 23, 24, 25, 26 e 67 da Lei Complementar 01/2005, respeitada em qualquer hipótese, a limitação estabelecida no art. 17 da mesma lei.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 4º
+
+Os servidores afastados por incapacidade temporária para o trabalho e saláriomaternidade, contribuirão para o BDPREV com os mesmos percentuais do servidor ativo em exercício.
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 5º
+
+Caberá ao Órgão Empregador a contribuição de sua responsabilidade incidente sobre a totalidade da remuneração de contribuição dos respectivos segurados afastados por incapacidade temporária para o trabalho e salário-maternidade.
+
+Alteração feita pelo Art. 4º. - Lei Complementar nº 55, de 22 de março de 2021.
+
+
+§ 6º
+
+O abono anual será considerado, para fins contributivos, separadamente da remuneração de contribuição relativa ao mês em que for pago.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 7º
+
+Para o segurado em regime de acumulação remunerada de cargos considerar-se- á o somatório da remuneração de contribuição referente a cada cargo.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 8º
+
+A contribuição prevista no inciso I deste artigo incidirá apenas sobre as parcelas de proventos de aposentadoria e de pensão que superem o dobro do limite máximo estabelecido para os benefícios do regime geral de previdência social de que trata o art. 201 da Constituição Federal, quando o beneficiário for portador de doença incapacitante.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 9º
+
+Consideram-se doenças incapacitantes: sarcoidose; doença de Hansen; tumores malignos; hemopatias graves; doenças graves e invalidantes do sistema nervoso central e periférico e dos órgãos dos sentidos; cardiopatias reumatismais crônicas graves; hipertensão arterial maligna; cardiopatias isquêmicas graves; cardiomiopatias graves; acidentes vasculares cerebrais com acentuadas limitações; vasculopatias periféricas graves; doença pulmonar crônica obstrutiva grave; hepatopatias graves; nefropatias crônicas graves, doenças difusas do tecido conectivo; espondilite anquilosante e artroses graves invalidantes.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 10
+
+O BDPREV deverá, anualmente, até 31 de julho, efetuar a reavaliação atuarial de suas reservas técnicas, fundos e provisões, no sentido de garantir o equilíbrio econômico-financeiro de seu elenco de benefícios e o futuro cumprimento dos compromissos assumidos para com os seus contribuintes e servidores.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+§ 11
+
+A Administração Municipal deverá acatar as orientações contidas no parecer Técnico Atuarial Anual, devendo as alíquotas de contribuições serem adequadas através de Lei Municipal, para a implementação das recomendações nele constantes.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+Art. 83.
+
+Os Poderes Executivo e Legislativo, as Autarquias e Fundações Municipais que estiverem sujeitas ao regime do orçamento próprio e cujos servidores e empregados vierem a se integrar ao regime previdenciário municipal, constante desta Lei, incluirão, obrigatoriamente, em seus orçamentos anuais, as dotações necessárias para atender ao pagamento de suas responsabilidades junto ao BDPREV, a serem definidas por cálculo atuarial específico.
+
+
+#### CAPÍTULO II — DA ARRECADAÇÃO E DO RECOLHIMENTO
+
+
+Art. 84.
+
+A arrecadação e o recolhimento das contribuições da qualquer importância devida ao BDPREV, serão efetuadas à tesouraria da Instituição, até o dia 20 (vinte) do mês subsequente ao da competência, ou até o dia útil imediatamente anterior se não houver expediente bancário naquele dia, sob pena de responsabilidade pessoal de quem der causa, sem prejuízo do disposto no parágrafo seguinte.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 20, de 28 de abril de 2011.
+
+
+§ 1º
+
+Para efeito desta lei fica prorrogado , de forma definitiva , a competência ao Conselho Fiscal quando :
+
+
+I –
+
+houver descumprimento por parte dos empregadores, do repasse no prazo determinado;
+
+
+II –
+
+houver descumprimento da obrigação do presidente do instituto, na inadimplência de até 05(cinco) dias , para a retenção e o repasse do FPM ( Fundo de Participação do Município) para o instituto;
+
+
+§ 2º
+
+O Conselho Fiscal poderá , automaticamente , providenciar junto à agência bancária , onde estiver depositado o FPM ( Fundo de Participação do Município ), a respectiva retenção e o conseqüente repasse ao instituto previdenciário, independentemente de autorização do Executivo, autorização esta que é conferida por esta lei, normatização esta que deverá ser levada ao conhecimento das agências bancárias localizadas no Município de Bom Despacho.
+
+
+§ 3º
+
+Não sendo cumprida a determinação do caput deste artigo, incorrerá o Prefeito Municipal em crime de responsabilidade, bem como aos demais representantes dos poderes empregadores, além de ser obrigatória a aplicação de multa de 3% (três por cento) sobre valor devido. Correções e juros serão calculados com base nos coeficientes e critérios fixados pelo Regime Geral de Previdência Social (INSS).
+
+Alteração feita pelo Art. 7º. - Lei Complementar nº 66, de 14 de junho de 2022.
+
+
+§ 4º
+
+Caso o repasse não seja feito, apesar das sanções previstas no parágrafo terceiro, em 5 (cinco) dias após o vencimento, incorrerá no mesmo crime de responsabilidade, o Presidente do Instituto que não tomar as providências necessárias para a efetivação do repasse , bem como das suas atualizações monetárias;
+
+
+§ 5º
+
+Fica autorizado, havendo inadimplência por parte do Município, da Câmara Municipal, Autarquias e Fundações, por um prazo superior a 5(cinco) dias , ao Conselho Fiscal a proceder a retenção do FPM ( Fundo de Participação do Município) , na agência bancária, na qual estiver depositado, para que seja repassado ao instituto, o valor correspondente às contribuições previdenciárias, em atraso, bem como de seus devidos acréscimos previstos na forma e nos moldes regulamentados neste artigo.
+
+
+#### CAPÍTULO III — DA QUITAÇÃO DE DÉBITO
+
+
+##### Seção I — DO PARCELAMENTO
+
+
+Art. 85.
+
+Os valores das contribuições previdenciárias devidas pelo ente federativo e não repassadas à Unidade Gestora em época própria poderão, após verificadas e confessadas, ser objeto de acordo para pagamento parcelado em moeda corrente, inclusive mediante vinculação de percentual do Fundo de Participação dos Estados - FPE ou Fundo de Participação dos Municípios - FPM, conforme lei do respectivo ente.
+
+
+§ 1º
+
+Não poderão ser objeto do acordo de que trata o caput as contribuições descontadas dos segurados e pensionistas.
+
+
+§ 2º
+
+Para preservar o equilíbrio financeiro e atuarial do regime próprio, no acordo para pagamento parcelado deverão constar, no mínimo:
+
+
+I –
+
+os critérios e índices de atualização do montante dos valores devidos, das parcelas vincendas e das eventuais vencidas;
+
+
+II –
+
+a taxa de juros de mora;
+
+
+III –
+
+a quantidade máxima de parcelas admitidas para o parcelamento e para cada competência; e
+
+
+IV –
+
+o valor mínimo de cada parcela.
+
+
+##### Seção II — DA DAÇÃO EM PAGAMENTO
+
+
+Art. 86.
+
+É vedada a quitação de dívida previdenciária do ente com o regime próprio mediante a dação em pagamento com bens móveis e imóveis de qualquer natureza, ações ou quaisquer outros títulos.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES GERAIS E FINAIS
+
+
+Art. 87.
+
+O Município poderá, por lei específica de iniciativa do respectivo Poder Executivo, instituir regime de previdência complementar para os seus servidores titulares de cargo efetivo, observado o disposto no art. 202 da Constituição Federal, por intermédio de entidade fechada de previdência complementar, de natureza pública, que oferecerá aos respectivos participantes planos de benefícios somente na modalidade de contribuição definida.
+
+
+Parágrafo único
+
+Somente mediante sua prévia e expressa opção, o disposto neste artigo poderá ser aplicado ao servidor que tiver ingressado no serviço público Municipal até a data da publicação do ato de instituição do correspondente regime de previdência complementar.
+
+
+### TÍTULO VI — DA ADMINISTRAÇÃO DA PREVIDÊNCIA MUNICIPAL
+
+
+#### CAPÍTULO I — DA ESTRUTURA ADMINISTRATIVA
+
+
+Art. 88.
+
+A estrutura administrativa do BDPREV, destinada a promover aos seus beneficiários as prestações estabelecidas nesta Lei, constituir-se-á dos seguintes órgãos:
+
+
+I –
+
+Conselho Administrativo;
+
+
+II –
+
+Conselho Fiscal;
+
+
+III –
+
+Presidência, com sua estrutura organizacional, e
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+##### Seção I — DO CONSELHO ADMINISTRATIVO
+
+
+Art. 89.
+
+O Conselho Administrativo do BDPREV será constituído de 5 (cinco) membros efetivos e 5 (cinco) membros suplentes, nomeados por Decreto do Executivo Municipal.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 1º
+
+O Conselho Administrativo de que trata este Artigo será constituído por:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+I –
+
+um membro efetivo e um suplente indicados pela Câmara Municipal de Bom Despacho, dentre os servidores ativos, inativos ou pensionistas.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+II –
+
+um membro efetivo e um suplente indicados pela Associação dos Servidores Públicos Municipais;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+III –
+
+um membro efetivo e um suplente eleitos pelos Servidores Aposentados do Instituto Municipal de Previdência;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+IV –
+
+um membro efetivo e um suplente eleitos pelos servidores efetivos em atividade;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+V –
+
+um membro efetivo e um suplente indicados pelo Poder Executivo Municipal, dentre os servidores ativos, inativos ou pensionistas.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 2º
+
+Os membros efetivos do Conselho Administrativo do BDPREV escolherão entre si o seu Presidente.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 3º
+
+O mandato dos membros do Conselho Administrativo do BDPREV é de 2 (dois) anos.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Art. 90.
+
+Ao Conselho Administrativo compete:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+I –
+
+acompanhar e indicar as ações necessárias que deverão constar no PPA e na LDO do município, relativas às pendências do regime próprio, bem como aprovar a Proposta Orçamentária anual, com suas respectivas alterações, elaboradas pela Presidência do BDPREV, com a aprovação do Conselho Fiscal;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+II –
+
+aconselhar a admissão, demissão, promoção e movimentação de funcionários;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+III –
+
+autorizar a contratação de instituição financeira que se encarregará da administração da Carteira de Investimentos do BDPREV, por proposta da Presidência;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+IV –
+
+autorizar a contratação de Consultoria Externa Técnica Especializada, para desenvolvimento de Serviços Técnicos Especializados necessários ao BDPREV, por indicação da Presidência;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+V –
+
+funcionar como órgão de aconselhamento à Presidência do BDPREV, nas questões por ela suscitadas;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+VI –
+
+acompanhar e apreciar, através de relatórios gerenciais, a execução dos planos, programas e orçamentos previdenciários;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+VII –
+
+autorizar a contratação de auditores independentes;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+VIII –
+
+apreciar e aprovar a prestação de contas anual a ser remetida ao TCE, podendo, se for necessário, contratar auditoria externa.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+IX –
+
+julgar, em última instância, recursos dos servidores municipais que se sentirem prejudicados nos seus direitos, por atos do Presidente do BDPREV, e dar parecer a consultas formuladas pela Presidência, sendo suas decisões lavradas em Atas, que serão encaminhadas ao Presidente do BDPREV.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 1º
+
+Não serão remunerados os membros do Conselho Administrativo, fazendo jus apenas a um jeton para reembolso de despesas de participação nas reuniões, no valor de 10% (dez por cento) do salário mínimo vigente no país.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 2º
+
+Perderá o mandato o Conselheiro que faltar a mais de 3 (três) reuniões consecutivas ou 5 (cinco) alternadas, assumindo, neste caso, o seu suplente, ou sendo indicado novo Conselheiro em caso de substituição de suplente.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 3º
+
+Os membros integrantes do Conselho Administrativo, não serão destituíveis “AD NUTUM”, somente podendo ser afastados de seus cargos depois de condenados em processo administrativo de responsabilidade instaurado pelo Prefeito Municipal, assegurado o direito a ampla defesa, ou em caso de vacância, assim entendida a decorrente da ausência não justificada conforme dispõe o parágrafo anterior.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+##### Seção II — DO CONSELHO FISCAL
+
+
+Art. 91.
+
+O Conselho Fiscal do BDPREV será constituído de 3 (três) membros efetivos e 3 (três) suplentes, nomeados por Decreto do Executivo Municipal por indicação das seguintes representações:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+I –
+
+um membro efetivo e um suplente indicados pela Câmara Municipal de Bom Despacho dentre os servidores ativos vinculados ao BDPREV;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+II –
+
+um membro efetivo e um suplente eleitos pelos servidores municipais ativos e inativos;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+III –
+
+um membro efetivo e um suplente indicados pelo Poder Executivo Municipal dentre os servidores inativos e pensionistas vinculados ao BDPREV.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Art. 92.
+
+Os membros integrantes do Conselho Fiscal terão mandato de 2 (dois) anos
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 1º
+
+Exercerá a função de presidente do Conselho Fiscal um dos conselheiros efetivos eleito entre seus pares.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 2º
+
+O Conselho Fiscal reunir-se-á ordinariamente, uma vez por mês, ou extraordinariamente, quando convocado pelo seu Presidente, pelo Presidente do BDPREV ou pelo Conselho Administrativo.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 3º
+
+Perderá o mandato o conselheiro que faltar a mais de 3 (três) reuniões consecutivas ou 5 (cinco) alternadas, assumindo, neste caso, o seu suplente, ou sendo nomeado novo conselheiro no caso de substituição de suplente.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+§ 4º
+
+Os membros integrantes do Conselho Fiscal, não serão destituíveis “AD NUTUM”, somente podendo ser afastados de seus cargos depois de condenados em processo administrativo de responsabilidade instaurado pelo Prefeito Municipal, assegurado o direito a ampla defesa, ou em caso de vacância, assim entendida a decorrente da ausência não justificada conforme dispõe o parágrafo anterior.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Art. 93.
+
+Compete ao Conselho Fiscal:
+
+
+I –
+
+acompanhar a organização dos serviços técnicos e a admissão de pessoal;
+
+
+II –
+
+acompanhar a execução orçamentária do BDPREV, conferindo a classificação dos fatos e examinando a sua procedência e exatidão;
+
+
+III –
+
+examinar as prestações efetivadas pelo BDPREV aos servidores e dependentes e a respectiva tomada de contas dos responsáveis;
+
+
+IV –
+
+proceder, face aos documentos de receita e despesa, a verificação dos balancetes mensais, os quais deverão estar instruídos com os esclarecimentos devidos, para encaminhamento ao Conselho Administrativo;
+
+
+V –
+
+encaminhar ao Prefeito Municipal, anualmente, até a 1ª quinzena do mês de março, com seu parecer técnico, o relatório do exercício anterior da Presidência, o processo de tomada de contas, o balanço anual, e o inventário a ele referente, assim como o relatório estatístico dos benefícios prestados;
+
+
+VI –
+
+requisitar ao Presidente do BDPREV e ao Presidente do Conselho Administrativo as informações e diligências que julgar convenientes e necessárias ao desempenho de suas atribuições, e notificá-los para correção de irregularidades verificadas, apresentando ao Prefeito Municipal o desenrolar dos acontecimentos;
+
+
+VII –
+
+propor ao Presidente do BDPREV as medidas que julgar de interesse para resguardar a lisura e a transparência da administração do mesmo;
+
+
+VIII –
+
+acompanhar o recolhimento mensal das contribuições para que sejam efetuadas no prazo legal, notificar e interceder junto ao Prefeito Municipal e demais titulares de órgãos filiados ao sistema, na ocorrência de irregularidades, alertando-os para os riscos envolvidos, além de cobrar do Presidente as medidas judiciais cabíveis;
+
+
+IX –
+
+as prerrogativas no tocante ao repasse das verbas das cotas do FPM devidas ao Instituto, previstas nesta lei :
+
+
+a)
+
+fica prorrogada a competência do Conselho Fiscal para as atitudes e procedimentos necessários visando a retenção e o repasse do FPM, na conta bancária do Município para a conta bancária do Instituto;
+
+
+X –
+
+proceder a verificação dos valores em depósito na tesouraria, em bancos, nos administradores de carteira de investimentos, e atestar a sua correção ou denunciando irregularidades constatadas;
+
+
+XI –
+
+examinar e dar parecer prévio nos contratos, acordos a serem celebrados pelo BDPREV, por solicitação da Presidência;
+
+
+XII –
+
+pronunciar-se sobre a alienação de bens imóveis de propriedade do BDPREV;
+
+
+XIII –
+
+rever as suas próprias decisões, fundamentando qualquer possível alteração.
+
+
+§ 1º
+
+Assiste a todos os membros do Conselho Fiscal, individualmente, o direito de exercer fiscalização dos serviços do BDPREV, não lhe sendo permitido envolver-se na direção e administração dos mesmos.
+
+
+§ 2º
+
+Não serão remunerados os membros do Conselho Fiscal, fazendo jus, apenas, a um jeton para reembolso de despesas de participação nas reuniões, no valor de 10% (dez por cento) do salário mínimo vigente no país.
+
+
+##### Seção III — DA PRESIDÊNCIA
+
+
+Art. 94.
+
+O BDPREV será administrado por um Presidente de livre nomeação e exoneração pelo Prefeito Municipal, dentre os servidores titulares de cargo efetivo, tendo "status" , remuneração, demais direitos e responsabilidades equivalentes aos do cargo de Secretário Municipal.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+Parágrafo único
+
+O Presidente do BDPREV dedicará com exclusividade à gestão do Instituto Municipal de Previdência dos Servidores Públicos de Bom Despacho.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+Art. 95.
+
+Compete ao Presidente:
+
+
+I –
+
+superintender a Administração Geral do BDPREV;
+
+
+II –
+
+Elaborar a proposta orçamentária anual do BDPREV, bem como as suas alterações:
+
+
+III –
+
+organizar o quadro de pessoal de acordo com o orçamento aprovado pelo Conselho Administrativo e Fiscal;
+
+
+IV –
+
+propor o preenchimento das vagas do quadro de pessoal;
+
+
+V –
+
+expedir instruções, normas e ordens de serviço, para o cumprimento e esclarecimento desta Lei;
+
+
+VI –
+
+organizar os serviços de Prestação Previdenciária do BDPREV;
+
+
+VII –
+
+assinar despacho de concessão de benefícios;
+
+
+VIII –
+
+assinar e responder juridicamente pelos atos e fatos de interesse do BDPREV, representando-o em juízo ou fora dele;
+
+
+IX –
+
+assinar, em conjunto com o Tesoureiro ou o Contador, os cheques e demais documentos do BDPREV, movimentando os fundos existentes;
+
+
+X –
+
+Propor a contratação de Administradores de Carteira de Investimentos do BDPREV, de Consultores Técnicos Especializados e outros serviços de interesse;
+
+
+XI –
+
+submeter ao Conselho Administrativo e ao Conselho Fiscal os assuntos a eles pertinentes e facilitar o acesso de seus membros para o desempenho de suas atribuições;
+
+
+XII –
+
+cumprir e fazer cumprir as deliberações dos Conselhos Administrativo, Fiscal e da Junta de Recursos.
+
+
+Art. 96.
+
+O BDPREV, para execução de seus serviços, poderá ter pessoal requisitado na municipalidade, dentre os seus servidores, os quais serão colocados à sua disposição com todos os seus direitos e vantagens assegurados, garantias e deveres previstos na Lei, não podendo perceber remuneração adicional.
+
+
+Parágrafo único
+
+O atendimento do disposto neste artigo ficará a exclusivo critério do Executivo Municipal.
+
+
+Art. 97.
+
+O Presidente do BDPREV terá remuneração equiparada com a dos Secretários Municipais, a cargo do Instituto.
+
+
+##### Seção IV — DA JUNTA DE RECURSOS
+
+
+Art. 98.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Art. 99.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Art. 100.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+Art. 101.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 34, de 20 de maio de 2014.
+
+
+### TÍTULO VII — DA ADMINISTRAÇÃO FINANCEIRA E PATRIMONIAL
+
+
+Art. 102.
+
+As aplicações das reservas técnicas garantidoras dos benefícios previdenciários de que trata esta lei serão efetuadas em conformidade com a política de aplicação dos recursos financeiros do BDPREV aprovada pelo Conselho de Administração, de modo a garantir a otimização da combinação de risco, rentabilidade e liquidez.
+
+
+Parágrafo único
+
+A política de diretrizes de investimentos dos recursos financeiros do BDPREV será elaborada em observância às regras de prudência estabelecidas pela Comissão de Valores Mobiliários -CVM, Conselho Monetário Nacional e pelo Banco Central do Brasil.
+
+
+Art. 103.
+
+Ao BDPREV é vedado:
+
+
+I –
+
+a utilização de bens, direitos e ativos para empréstimos de qualquer natureza, inclusive ao Município, a entidades da administração direta e indireta e aos respectivos segurados;
+
+
+II –
+
+atuar como instituição financeira, bem como prestar fiança, aval, ou obrigar-se por qualquer outra modalidade.
+
+
+### TÍTULO VIII — DAS DISPOSIÇÕES GERAIS, FINAIS E TRANSITÓRIAS
+
+
+Art. 104.
+
+Os membros representantes dos diversos órgãos da estrutura administrativa do BDPREV não poderão acumular cargos, mesmo que indicados para órgãos diferentes e por diferentes entidades.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+Art. 105.
+
+A taxa de administração destinada às despesas administrativas do BDPREV, será de 3% (três por cento) aplicados sobre o somatório da remuneração de contribuição de todos os servidores ativos vinculados à Previdência Própria, apurado no exercício financeiro anterior.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 64, de 26 de abril de 2022.
+
+
+Art. 106.
+
+O BDPREV deverá manter os seus registros próprios, criando o seu Plano de Contas de acordo com a Portaria MPS – 916, de 15/07/2003, que espelhe com fidedignidade a sua situação econômico-financeira de cada exercício, evidenciando, ainda, as despesas e receitas previdenciárias, patrimoniais, financeiras e administrativas, além de sua situação ativa e passiva.
+
+
+Art. 107.
+
+O BDPREV, na condição de Autarquia Municipal, prestará contas anualmente ao Tribunal de Contas do Estado de Minas Gerais, respondendo seus gestores pelo fiel desempenho de suas atribuições e mandatos, na forma da Lei.
+
+
+Art. 108.
+
+Os funcionários efetivos do BDPREV também se encontram amparados pela presente Lei.
+
+
+Art. 109.
+
+BDPREV deverá contratar, anualmente, Escritório de Atuária e Estatística, para efetuar a reavaliação atuarial de suas reservas matemáticas, fundos e provisões, no sentido de garantir o equilíbrio econômico-financeiro de seu elenco de benefícios e o futuro cumprimento dos compromissos assumidos para com os seus contribuintes segurados. A Prefeitura Municipal e demais órgãos integrantes do Sistema terão que acatar as orientações contidas no Parecer Técnico Atuarial anual, tomando as medidas necessárias em conjunto com a Presidência do BDPREV, para implantação imediata das recomendações dele constantes, contando, ainda, com todo o apoio e empenho dos Conselhos Administrativo e Fiscal.
+
+
+Art. 110.
+
+Sem prejuízo de sua contribuição estabelecida nesta Lei e das transferências vinculadas ao pagamento das aposentadorias, das reservas ou das pensões, o Município terá que propor, quando necessário, a abertura de créditos adicionais visando assegurar ao BDPREV alocação de recursos orçamentários destinados à cobertura de eventuais insuficiências financeiras reveladas pelo plano de custeio.
+
+
+Art. 111.
+
+Na hipótese de extinção do BDPREV, o Tesouro Municipal assumirá integralmente a responsabilidade pelo pagamento dos benefícios concedidos durante a sua vigência, bem como daqueles benefícios cujos requisitos necessários a sua concessão foram implementados anteriormente à extinção desse regime.
+
+
+Art. 112.
+
+O Tesouro Municipal assumirá os encargos totais, até sua extinção, dos benefícios de aposentadoria e pensão aos respectivos dependentes concedidos em data anterior à criação do BDPREV e assim como dos futuros pensionistas provenientes dos atuais aposentados.
+
+
+Art. 113.
+
+O Tesouro Municipal assumirá o ônus das aposentadorias e pensões provenientes dos atuais servidores ativos, por um período de 240 ( duzentos e quarenta ) dias, após o Instituto ter recebido 08 ( oito) contribuições, podendo ser prorrogado de acordo com o cálculo atuarial a ser realizado em dezembro de 2005, que definirá o percentual a ser recolhido pelo empregador, e, se há necessidade de continuidade da carência.
+
+
+Art. 114.
+
+O Município, através da administração direta e indireta, das autarquias e fundações integrantes do Sistema, efetuará as contribuições patronais, após a aprovação da presente Lei Complementar, vigorando as alíquotas de contribuições a seu cargo, aqui definidas, a partir da entrada em vigor desta Lei, para fins de capitalização e independência financeira.
+
+
+Art. 115.
+
+Nenhum servidor do BDPREV será colocado à disposição de outro órgão, com ônus para o BDPREV.
+
+
+Art. 116.
+
+Nenhuma prestação de serviço ou de benefício será criada, majorada ou estendida, sem a correspondente fonte de custeio total e a prévia avaliação atuarial, além da aprovação do Conselho Administrativo e da Câmara Municipal.
+
+
+Art. 117.
+
+O BDPREV poderá manter seguro coletivo, de caráter complementar, custeado por contribuições adicionais de servidores, após aprovação do Conselho Administrativo.
+
+
+Art. 118.
+
+Fica o Município responsável pelo pagamento dos benefícios concedidos até a data da entrada em vigor desta lei, bem como daqueles , cujos requisitos necessários à sua concessão foram implementados até a data final da carência de 08 (oito) meses de contribuição, além das pensões decorrentes destes benefícios.
+
+
+§ 1º
+
+Os encargos totais dos benefícios de que trata o caput deste artigo são de responsabilidade do Tesouro Municipal até a sua extinção;
+
+
+§ 2º
+
+Os servidores efetivos , ou não, que adquiriram o direito à aposentadoria por tempo de serviço, por limite de idade , por acidente de trabalho e incapacidade física até o final do período de carência, data na qual o instituto passará a assumir as aposentadorias e pensões , ficarão sob a responsabilidade do Município, que arcará com as aposentadorias e pensões, pelo caixa único, dos respectivos benefícios , até as suas extinções.
+
+
+Art. 119.
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 7, de 17 de setembro de 2008.
+
+
+Art. 120.
+
+O Executivo Municipal regulamentará esta Lei por Decreto, no que couber.
+
+
+Art. 121.
+
+Esta Lei entra em vigor no dia primeiro do mês seguinte à sua publicação, retroagindo seus efeitos a primeiro de maio de 2005 ( 1º/05/05).
+
+
+Art. 122.
+
+Revogam-se as disposições em contrário.
+
+
+**MUNICÍPIO DE BOM DESPACHO, AOS DEZOITO DIAS DO MÊS DE MAIO DO ANO DOIS MIL E CINCO ( 18/05/2005).**
+
+
+**HAROLDO DE SOUSA QUEIROZ PREFEITO MUNICIPAL**
+

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.galia.sp.leg.br",
+  "metadados_unicos_observados": 33,
+  "total_api_declarado": 33,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.galia.sp.leg.br/e23102a6d2eec3d8cce3e10d19e23ab9eb8d3dd94d5fee021f5183bc6fe7ac85.json",
+    "url": "https://sapl.galia.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.galia.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e004d12af38f7577cc1d50b0d2b246cf1bee9baff82540ed92c93f9a7b0e3e52",
+    "bytes": 958,
+    "capturado_em": "2026-10-28T12:29:59.113011-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.galia.sp.leg.br/e073a280957af1a55ae656e60af08d1b20d551f7cabff025b59cef4f16de5dbe.json",
+    "url": "https://sapl.galia.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.galia.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "4d2c587a385ed190e2df0793dc53cf695e13017f77e2c51dd3e38447df84ff8e",
+    "bytes": 751,
+    "capturado_em": "2026-10-28T12:29:58.319881-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.galia.sp.leg.br/e9c04d11cdf6b7bdedf283c97f7c749e67e82bafd16405ebd4dbede0d552046d.json",
+      "url": "https://sapl.galia.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.galia.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bf8959eb48eeb9af5f5a0da60f1965433582cbd3c95b44b043d514dcea24e431",
+      "bytes": 20343,
+      "capturado_em": "2026-10-28T12:30:01.274165-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

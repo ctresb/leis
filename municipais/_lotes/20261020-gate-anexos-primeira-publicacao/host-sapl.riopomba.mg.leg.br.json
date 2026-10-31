@@ -1,0 +1,128 @@
+{
+  "host": "sapl.riopomba.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/1/lei_n1.184-2004.pdf da norma Lei nº 1.177, de 31 de dezembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ALTERA A LEI N°1.177, DE 31 DE DEZEMBRO DE 2.003, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2003/1/lei_n1.184-2004.pdf",
+      "ano": 2003,
+      "norma": 834
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/ata_19_maio_2025.pdf da norma Decreto Legislativo nº 225, de 23 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Ata onde aconteceu o julgamento das contas.",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/2/ata_19_maio_2025.pdf",
+      "ano": 2025,
+      "norma": 2034
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/parecer_previo.pdf da norma Decreto Legislativo nº 225, de 23 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Agostinho Celio Andrade Patrus:99008092620",
+                [
+                  "2024-12-16T14:34:04-02:00",
+                  ""
+                ]
+              ],
+              [
+                "Durval Angelo Andrade:37911287600",
+                [
+                  "2024-12-11T16:46:37-02:00",
+                  ""
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Parecer prévio do Tribunal de Contas.",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/3/parecer_previo.pdf",
+      "ano": 2025,
+      "norma": 2034
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/anexo_orcamento_2026.pdf da norma Resolução nº 357, de 19 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Detalhamento",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/4/anexo_orcamento_2026.pdf",
+      "ano": 2025,
+      "norma": 2076
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/decreto_3281_regulamenta_lei_2065.pdf da norma Lei nº 2.065, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Regulamento da lei.",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2025/5/decreto_3281_regulamenta_lei_2065.pdf",
+      "ano": 2025,
+      "norma": 2106
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/6/memorando_10.pdf da norma Decreto Legislativo nº 235, de 18 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Declaração de publicação.",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/6/memorando_10.pdf",
+      "ano": 2026,
+      "norma": 2146
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/7/orcamento_da_camara_2027.pdf da norma Resolução nº 361, de 18 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Detalhamento",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/7/orcamento_da_camara_2027.pdf",
+      "ano": 2026,
+      "norma": 2173
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/memorando_15_pubcliacao.pdf da norma Resolução nº 361, de 18 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Publicação.",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/8/memorando_15_pubcliacao.pdf",
+      "ano": 2026,
+      "norma": 2173
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/memorando_14_publicacao.pdf da norma Resolução nº 360, de 05 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Publicação",
+      "anexo_arquivo": "http://sapl.riopomba.mg.leg.br/media/sapl/public/anexonormajuridica/2026/9/memorando_14_publicacao.pdf",
+      "ano": 2026,
+      "norma": 2172
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.riopomba.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.riopomba.mg.leg.br/8e361c90956a7513f89e62338585379ffb4cd646a4c90d0890c91e6849b19a9d.json",
+      "sha256": "e352be269980a773becb83e8b48db631a9500b1db9ef1274e62551cfc5e522fe",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.riopomba.mg.leg.br/8e361c90956a7513f89e62338585379ffb4cd646a4c90d0890c91e6849b19a9d.meta.json"
+    }
+  ],
+  "total": 9
+}

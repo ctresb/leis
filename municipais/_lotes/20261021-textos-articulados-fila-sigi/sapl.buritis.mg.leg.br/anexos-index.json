@@ -1,0 +1,788 @@
+{
+  "estado": "indice_completo",
+  "total": 77,
+  "anexos": [
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/lei_no_1.461_ldo_-_anexo.pdf da norma Lei nº 1.461, de 02 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "PROJETO/ATIVIDADES DA CÂMARA MUNICIPAL, IPREB E SECRETARIAS MUNICIPAIS",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/4/lei_no_1.461_ldo_-_anexo.pdf",
+      "ano": 2021,
+      "norma": 2040
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/lc_150-2021_anexo_i.pdf da norma Lei Complementar nº 150, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/5/lc_150-2021_anexo_i.pdf",
+      "ano": 2021,
+      "norma": 2079
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/lc_150-2021_anexo_ii.pdf da norma Lei Complementar nº 150, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/6/lc_150-2021_anexo_ii.pdf",
+      "ano": 2021,
+      "norma": 2079
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/lc_150-2021_anexo_iii.pdf da norma Lei Complementar nº 150, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/7/lc_150-2021_anexo_iii.pdf",
+      "ano": 2021,
+      "norma": 2079
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/lc_150-2021_anexo_v.pdf da norma Lei Complementar nº 150, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/8/lc_150-2021_anexo_v.pdf",
+      "ano": 2021,
+      "norma": 2079
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/9/lc_150-2021_anexo_vi.pdf da norma Lei Complementar nº 150, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/9/lc_150-2021_anexo_vi.pdf",
+      "ano": 2021,
+      "norma": 2079
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/lc_150-2021_anexo_vii.pdf da norma Lei Complementar nº 150, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/10/lc_150-2021_anexo_vii.pdf",
+      "ano": 2021,
+      "norma": 2079
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/lc_150-2021_anexo_viii.pdf da norma Lei Complementar nº 150, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2021/11/lc_150-2021_anexo_viii.pdf",
+      "ano": 2021,
+      "norma": 2079
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/12/lc_no_151-2022_publicacao.pdf da norma Lei Complementar nº 151, de 05 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2022/12/lc_no_151-2022_publicacao.pdf",
+      "ano": 2022,
+      "norma": 2080
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/15/lc__no_006-2003.pdf da norma Lei Complementar nº 6, de 31 de dezembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Lei Complementar nº 006-2003 atualizada",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2003/15/lc__no_006-2003.pdf",
+      "ano": 2003,
+      "norma": 71
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/16/lei_no_1.498-2022_anexos_da_ldo.pdf da norma Lei nº 1.498, de 08 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2022/16/lei_no_1.498-2022_anexos_da_ldo.pdf",
+      "ano": 2022,
+      "norma": 2115
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/res_no_354_-_publicacao.pdf da norma Resolução nº 354, de 17 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Resolução Nº 354 de 17 de abril de 2023.",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2023/17/res_no_354_-_publicacao.pdf",
+      "ano": 2023,
+      "norma": 2144
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/res_no_355-2023_-_publicacao.pdf da norma Resolução nº 355, de 20 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Resolução Nº 355 de 20 de abril de 2023",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2023/18/res_no_355-2023_-_publicacao.pdf",
+      "ano": 2023,
+      "norma": 2145
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/lei_no_1.525-2023_eleicao_de_diretores_pdf.io.pdf da norma Lei nº 1.525, de 20 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2023/19/lei_no_1.525-2023_eleicao_de_diretores_pdf.io.pdf",
+      "ano": 2023,
+      "norma": 2142
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/lei_no_1.521-2023_fundo_de_estradas_publicacao.pdf da norma Lei nº 1.521, de 15 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2023/20/lei_no_1.521-2023_fundo_de_estradas_publicacao.pdf",
+      "ano": 2023,
+      "norma": 2152
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/22/lei_no_1.512-2022_publicacao_parte_vetada.pdf da norma Lei nº 1.512, de 22 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2022/22/lei_no_1.512-2022_publicacao_parte_vetada.pdf",
+      "ano": 2022,
+      "norma": 2134
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/24/2024_emenda_a_lei_organica_009-2024_publicacao.pdf da norma Emenda à Lei Orgânica nº 9, de 21 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2024/24/2024_emenda_a_lei_organica_009-2024_publicacao.pdf",
+      "ano": 2024,
+      "norma": 2282
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/25/res_no_376-2025_estagiarios_do_forum_publicacao.pdf da norma Resolução nº 376, de 11 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Públicação da Resolução",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/25/res_no_376-2025_estagiarios_do_forum_publicacao.pdf",
+      "ano": 2025,
+      "norma": 2306
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/res_no_378-2025_libras_-_publicacao.pdf da norma Resolução nº 378, de 25 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/26/res_no_378-2025_libras_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 2309
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/27/res_no_377-2025_publicacao.pdf da norma Resolução nº 377, de 25 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/27/res_no_377-2025_publicacao.pdf",
+      "ano": 2025,
+      "norma": 2308
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/28/lc_no_063-2009_pccs_atualizada.pdf da norma Lei Complementar nº 63, de 30 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2009/28/lc_no_063-2009_pccs_atualizada.pdf",
+      "ano": 2009,
+      "norma": 1689
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/29/lc_no_002-2002_atualizada.pdf da norma Lei Complementar nº 2, de 18 de setembro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2002/29/lc_no_002-2002_atualizada.pdf",
+      "ano": 2002,
+      "norma": 67
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/31/lc_072-2010_plano_de_carreira_da_camara.pdf da norma Lei Complementar nº 72, de 27 de maio de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2010/31/lc_072-2010_plano_de_carreira_da_camara.pdf",
+      "ano": 2010,
+      "norma": 1044
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/32/lei_no_1.633_ldo_anexo_i_educacao.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/32/lei_no_1.633_ldo_anexo_i_educacao.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/33/lei_no_1.633_ldo_anexo_ii_transportes.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/33/lei_no_1.633_ldo_anexo_ii_transportes.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/34/lei_no_1.633_ldo_anexo_iii_saude.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/34/lei_no_1.633_ldo_anexo_iii_saude.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/35/lei_no_1.633_ldo_anexo_iv_esportes.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/35/lei_no_1.633_ldo_anexo_iv_esportes.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/36/lei_no_1.633_ldo_anexo_v_fazenda.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/36/lei_no_1.633_ldo_anexo_v_fazenda.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/37/lei_no_1.633_ldo_anexo_vi_acao_social.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/37/lei_no_1.633_ldo_anexo_vi_acao_social.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/lei_no_1.633_ldo_anexo_vii_administracao.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/38/lei_no_1.633_ldo_anexo_vii_administracao.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/lei_no_1.633_ldo_anexo_viii_agricultura.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/39/lei_no_1.633_ldo_anexo_viii_agricultura.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/40/lei_no_1.633_ldo_anexo_ix_obras.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/40/lei_no_1.633_ldo_anexo_ix_obras.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/41/lei_no_1.633_ldo_anexo_x_ipreb.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/41/lei_no_1.633_ldo_anexo_x_ipreb.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/42/lei_no_1.633_ldo_anexo_x_ipreb.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/42/lei_no_1.633_ldo_anexo_x_ipreb.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/43/lei_no_1.633_ldo_anexo_xi_camara_municipal.pdf da norma Lei nº 1.633, de 01 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/43/lei_no_1.633_ldo_anexo_xi_camara_municipal.pdf",
+      "ano": 2025,
+      "norma": 2349
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/44/lei_692.pdf da norma Lei nº 692, de 28 de maio de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/1996/44/lei_692.pdf",
+      "ano": 1996,
+      "norma": 1040
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/45/pl_32-1993_codigo_tributario.pdf da norma Lei nº 636, de 28 de dezembro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/1993/45/pl_32-1993_codigo_tributario.pdf",
+      "ano": 1993,
+      "norma": 1133
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/46/res_no_381-2025_ouvidoria-publicacao.pdf da norma Resolução nº 381, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/46/res_no_381-2025_ouvidoria-publicacao.pdf",
+      "ano": 2025,
+      "norma": 2381
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/47/res_no_382-2025_venc_sec_procon_publicacao.pdf da norma Resolução nº 382, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/47/res_no_382-2025_venc_sec_procon_publicacao.pdf",
+      "ano": 2025,
+      "norma": 2382
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/48/1_natureza_da_receita_co_incidencia_a_pessoal.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/48/1_natureza_da_receita_co_incidencia_a_pessoal.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/49/2_receita_estimada_por_fonte_de_recurso.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/49/2_receita_estimada_por_fonte_de_recurso.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/3_receita_segundo_as_categorias_economicas.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/50/3_receita_segundo_as_categorias_economicas.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/4_receita_por_fontes_e_despesa_por_categoria_economica.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/51/4_receita_por_fontes_e_despesa_por_categoria_economica.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/5_receita_por_fontes_e_despesa_por_funcoes_do_governo.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/52/5_receita_por_fontes_e_despesa_por_funcoes_do_governo.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/53/6_quadro_sumario_da_despesa.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/53/6_quadro_sumario_da_despesa.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/54/7_parte_1_-_quadro_de_detalhamento_de_despesas_por_fonte_de_recurso.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/54/7_parte_1_-_quadro_de_detalhamento_de_despesas_por_fonte_de_recurso.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/7_parte_2_-_quadro_de_detalhamento_de_despesas_por_fonte_de_recurso.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/55/7_parte_2_-_quadro_de_detalhamento_de_despesas_por_fonte_de_recurso.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/56/8_quadro_de_detalhamento_de_despesas.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/56/8_quadro_de_detalhamento_de_despesas.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/57/9_despesa_segundo_as_categorias_economicas_-_consolidacao_geral.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/57/9_despesa_segundo_as_categorias_economicas_-_consolidacao_geral.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/58/10_despesa_segundo_as_categorias_economicas_por_orgao.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/58/10_despesa_segundo_as_categorias_economicas_por_orgao.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/11_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_o_vinculo_com_os_recursos.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/59/11_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_o_vinculo_com_os_recursos.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/12_demonstrativo_dos_gastos_em_acoes_e_servicos_publicos_de_saude_-_fonte_de_recurso.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/60/12_demonstrativo_dos_gastos_em_acoes_e_servicos_publicos_de_saude_-_fonte_de_recurso.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/13_demonstrativo_de_despesa_por_poder_e_funcoes.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/61/13_demonstrativo_de_despesa_por_poder_e_funcoes.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/63/14_demonstrativo_dos_projetos_-_atividades_a_serem_desenvolvidas.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/63/14_demonstrativo_dos_projetos_-_atividades_a_serem_desenvolvidas.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/64/15_programa_de_trabalho_do_governo_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_e_atividades.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/64/15_programa_de_trabalho_do_governo_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_e_atividades.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/65/16_programa_de_trabalho_por_orgao.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/65/16_programa_de_trabalho_por_orgao.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/17_demonstrativo_de_funcoes_subfuncoes_e_programas_por_categoria_economico.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/66/17_demonstrativo_de_funcoes_subfuncoes_e_programas_por_categoria_economico.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/18_controle_de_gastos_com_educacao_-_anexo_i_-_fonte_de_recurso.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/67/18_controle_de_gastos_com_educacao_-_anexo_i_-_fonte_de_recurso.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/68/19_aplicacao_em_acoes_e_servicos_publicos_de_saude_-_recursos_proprios_-_fonte_de_recurso.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/68/19_aplicacao_em_acoes_e_servicos_publicos_de_saude_-_recursos_proprios_-_fonte_de_recurso.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/69/20_controle_dos_gastos_com_educacao_-_anexo_iii_-_fonte_de_recurso.pdf da norma Lei nº 1.650, de 24 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/69/20_controle_dos_gastos_com_educacao_-_anexo_iii_-_fonte_de_recurso.pdf",
+      "ano": 2025,
+      "norma": 2383
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/70/res_no_384-2026_publicacao.pdf da norma Resolução nº 384, de 24 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Publicação",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/70/res_no_384-2026_publicacao.pdf",
+      "ano": 2026,
+      "norma": 2388
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/71/ldo_1_controladoria_geral.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/71/ldo_1_controladoria_geral.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/ldo_2_secretaria_de_esportes.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/72/ldo_2_secretaria_de_esportes.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/73/ldo_3_secretaria_de_obras.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/73/ldo_3_secretaria_de_obras.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/74/ldo_4_secretaria_da_fazenda.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/74/ldo_4_secretaria_da_fazenda.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/75/ldo_5_secretaria_de_transportes.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/75/ldo_5_secretaria_de_transportes.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/76/ldo_6_secretaria_de_planejamento.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/76/ldo_6_secretaria_de_planejamento.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/77/ldo_7_secretaria_de_educacao.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/77/ldo_7_secretaria_de_educacao.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/78/ldo_8_secretaria_da_cultura.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/78/ldo_8_secretaria_da_cultura.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/79/ldo_9_ipreb.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/79/ldo_9_ipreb.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/80/ldo_10_anexo_de_metas_e_camara_municipal.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/80/ldo_10_anexo_de_metas_e_camara_municipal.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/81/relatorio_atuarial_ipreb.pdf da norma Lei Complementar nº 113, de 03 de novembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2015/81/relatorio_atuarial_ipreb.pdf",
+      "ano": 2015,
+      "norma": 6
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/82/emenda_a_lom_no_011-2026_publicacao.pdf da norma Emenda à Lei Orgânica nº 11, de 18 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/82/emenda_a_lom_no_011-2026_publicacao.pdf",
+      "ano": 2026,
+      "norma": 2413
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/83/lei_no_1669-2026_anexos.pdf da norma Lei nº 1.669, de 18 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/83/lei_no_1669-2026_anexos.pdf",
+      "ano": 2026,
+      "norma": 2415
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/84/11_sec.__municipal_de_saude_-_anexo.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "Saúde",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/84/11_sec.__municipal_de_saude_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/85/12_sec.__m._de_agricultura_-_anexo.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Agricultura",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/85/12_sec.__m._de_agricultura_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 2410
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/86/13_sec.__municipal_de_a._social_-_anexo.pdf da norma Lei nº 1.667, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Assistência Social",
+      "anexo_arquivo": "http://sapl.buritis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/86/13_sec.__municipal_de_a._social_-_anexo.pdf",
+      "ano": 2026,
+      "norma": 2410
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/87f0f267c1c3729479c9be2f9da524b1b751c04c6312880bb99ef50f4e115b9e.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6a7b4ba58039638bf9a08a61cc95798602c7fa5e94b2781e5c4433b6d37a9933",
+      "bytes": 32444,
+      "capturado_em": "2026-10-27T19:39:39.184251-03:00"
+    }
+  ]
+}

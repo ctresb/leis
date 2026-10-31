@@ -1,0 +1,92 @@
+{
+  "host": "sapl.bofete.sp.leg.br",
+  "metadados_unicos_observados": 553,
+  "total_api_declarado": 553,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 534,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/6141270ce6776e818ade26e4a35326e746ba1bb2481d615e585323ed74da718c.json",
+    "url": "https://sapl.bofete.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bofete.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b52c1cc266180bfcf2b43092c22962b2a9ef29e2e4d1f21dc9e0e36da10010e8",
+    "bytes": 952,
+    "capturado_em": "2026-10-27T19:08:08.813426-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/e076c67ee49993e54e6f44c5cf45437f1ad384762fa0a20d22f15c8ee5df59a7.json",
+    "url": "https://sapl.bofete.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bofete.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1559d099a497fbb5c7359d9e79839da0a4bb813700be6883879e8c07b5023a26",
+    "bytes": 745,
+    "capturado_em": "2026-10-27T19:08:07.908852-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/6669e74d5c0c2a334cda31a6628ecdb43137451ca7050ef03c50471ee0b82a5d.json",
+      "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1f93eaf7c30b8b11b341ec15f02d33d9348382bbbb1b61bb5d0e6b9d207d672f",
+      "bytes": 62083,
+      "capturado_em": "2026-10-27T19:08:11.259203-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/1b8e954e271cbb00e016fed72debc79d6c4d0754328f4045a8d035a09ae8f9e8.json",
+      "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "64375a9ce0051b85d2bab16ef91a08e15745233bd152cc5e990000ceeb601104",
+      "bytes": 57660,
+      "capturado_em": "2026-10-27T19:11:29.793490-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/773444ef52552ebc3023d77d11a885b6367b35629c426558b4d053f40b2bffcf.json",
+      "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "44c87900211f8484a73ec0b143dc36df13c3c930b36168c72852592d8628a62d",
+      "bytes": 55874,
+      "capturado_em": "2026-10-27T19:14:33.926971-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/c44518d3909c9b077e89ed55bfc7dcc4474925f600aa13a29eb1d4b74931c72e.json",
+      "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3105b732934b067292c728e11f5b22e06f4106244f486ef07dc0fab27ccd4db0",
+      "bytes": 58611,
+      "capturado_em": "2026-10-27T19:17:54.967642-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/73e47ef21fc82d9d9c77376764609d8bced3c7c16de919af23ef0f0ed6814adb.json",
+      "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3a3c81d969d11959b596eba16c46f8de9af21a11a0e49804c2c326b1f99a776d",
+      "bytes": 55083,
+      "capturado_em": "2026-10-27T19:21:16.112500-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/54f3d9a96f8b875e89872299adf7a7cdbfc1ccbe6ccdd77b1fcfbe273d0a7608.json",
+      "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "18a8c31ae801ee07c016c8d4987c57c30863758d96ea99a533167ef53ce765e2",
+      "bytes": 30119,
+      "capturado_em": "2026-10-27T19:24:36.433274-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

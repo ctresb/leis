@@ -1,0 +1,109 @@
+{
+  "inicio": "2026-10-21T06:34:48.863273-03:00",
+  "fim": "2026-10-21T06:35:14.481294-03:00",
+  "retencoes_unicas": 11316,
+  "contagens": {
+    "excluido": 11316,
+    "tambem_aceito_em_recibo_rfb": 1420
+  },
+  "motivos_exclusao": {
+    "ValueError: HTML ou entidade exige interpretação própria": 4549,
+    "ValueError: anexo exige representação e prova próprias": 6721,
+    "ValueError: âncoras exigem prova contextual própria": 43,
+    "ValueError: tachado, estilo ou agendamento exige prova própria": 3
+  },
+  "recibos": [
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-001.json",
+      "sha256": "837c17bf1e5eeaf7ec0e045ff92ae2e99dcc22140e0d726c7605f8592b4f443e",
+      "bytes": 2291103
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-002.json",
+      "sha256": "aa3110bb2e939c1cfa4bd4a8d725bc0d87be18d8d1951003502d4b3003228171",
+      "bytes": 2156010
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-003.json",
+      "sha256": "4e3a543c1570185bb1d37dd9f32e2ba2d16cbd4aa81f925ae1cd8be70a5c63e1",
+      "bytes": 2381481
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-004.json",
+      "sha256": "b78c2f7224337487fb25be2872125bf57355c28c17d479e55598769f436bcaa1",
+      "bytes": 2619947
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-005.json",
+      "sha256": "3eed2e82fd0a88bd60e6e3ef4916bb8e21838c865f073f3dc7af5345cfe776fe",
+      "bytes": 5840047
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-006.json",
+      "sha256": "3a98dee8f4b2eb2051317a4e403d392b719222ec907a72babf560eec9ff551f0",
+      "bytes": 5258454
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-007.json",
+      "sha256": "8e7f778e4c1946a2442541b52ca177c1bfc39d4fc25ac4fa354f91b804a9a9e2",
+      "bytes": 5753823
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-008.json",
+      "sha256": "6d11200b6a04e09ba8b2cbf03acd538bb7d264a83e44a9340541cd50a0480d54",
+      "bytes": 5602229
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-009.json",
+      "sha256": "5a8752083fac5309f854a6da9bb1b998f460d02464e8d9d57b2e9a638d818a04",
+      "bytes": 5598651
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-010.json",
+      "sha256": "f8050492ab432cd7d873536e6a2d817d669e9216e5eb932224b82d5eb94f4c0b",
+      "bytes": 5585140
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-011.json",
+      "sha256": "f1d0dab1a4331a60ecbd0adb43f3a9eab1e812362834aa0a0acf5bfb588488ac",
+      "bytes": 5230136
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-20261020-012.json",
+      "sha256": "35a23fe4dd1135b26bd938a386166015c47a2b1535d2c91fa630f00f37484769",
+      "bytes": 1090
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-novos72-20261021-006.json",
+      "sha256": "2fe3521c2f2a3f1364488e257175489912b038aa7244e0ecc4cf403077221d0e",
+      "bytes": 71774
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-retomada-20261021-001.json",
+      "sha256": "fc690e0fe0c9a0083b32120800e93ee1161f460377733d8af2ba440ff11b1be5",
+      "bytes": 5138693
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-retomada-20261021-002.json",
+      "sha256": "1529a0bcd81e2dd9d8ec1b0c896c9420917425467075877704e3f725e84bb5f6",
+      "bytes": 6797685
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-retomada-20261021-003.json",
+      "sha256": "ef74aafd7dd999ad0f5b1146207dab4419544a1f419cd7b124fc82386478f4a4",
+      "bytes": 5237723
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-retomada-20261021-004.json",
+      "sha256": "af32e9178c72ecc6c2b0f000108b031f05196607c055410f943e2f393b117c9b",
+      "bytes": 5235408
+    },
+    {
+      "arquivo": "scripts/dados/rfb-cache-retomada-20261021-005.json",
+      "sha256": "af96b37c75a10fe17fe04d6a126339dc54eb93c8dda38e29ed5bb3c835f6f658",
+      "bytes": 6086381
+    }
+  ],
+  "limite": "Elegibilidade da representação literal, não aprovação ou confirmação de publicação. União histórica de retenções deduplicada por path/ID; SHA atuais da preimagem e do cache. Nenhuma rede, norma ou auditor alterado; sem afirmar conformidade de catálogo/duplicação/vigência/íntegra jurídica.",
+  "codigo_sha256": "89cb7a690659a20fd59010d2d6b2ec664eb3734500789472a5ce10b34b0c2af3"
+}

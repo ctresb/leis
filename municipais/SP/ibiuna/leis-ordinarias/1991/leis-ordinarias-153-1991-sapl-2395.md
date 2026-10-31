@@ -1,0 +1,53 @@
+---
+titulo: "Lei nº 153, de 24 de abril de 1991"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "153"
+data: "1991-04-24"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2395"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/622/text"
+sha256_fonte: "62a0514de8a4bcaf75cc12ec021b11bfc15b5f41c0ad5e4c98c7321f7b47ac62"
+sha256_texto: "02f013ae7edafd31f7d62bc4dafdfb4532e86cbff6c84814103bf137444c7f76"
+capturado_em_fonte: "2026-10-28T13:46:54.574769-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 153, de 24 de abril de 1991
+
+Autoriza a Prefeitura Municipal a receber em doação, faixa de terras destinada a abertura de rua.
+
+
+**JONAS DE CAMPOS**, Prefeito do Município de Ibiúna-SP, usando das atribuições que lhe são conferidas por lei,
+
+**FAZ SABER** que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Prefeitura Municipal de Ibiúna autorizada a receber em doação, sem ônus para o Município, do Sr. SEBASTIÃO LEME LEMI FURQUIM e sua mulher RUTH DA COSTA FURQUIM, para abertura de uma rua, a seguinte faixa de terras, com área de 1.985,03 m2 (um mil, novecentos e oitenta e cinco, e três metros quadrados), localizada no Bairro Morro Grande, neste município, com as seguintes medidas e confrontações: “Tem início no ponto “A” situado na lateral esquerda da estrada municipal no sentido São Paulo, praticamente coincidindo com o alinhamento Leste da faixa da linha de transmissão de alta tensão, segue com AZ-291º37’19’ e distancia de 62,283 m., atravessando a referida linha de transmissão até o ponto “B”, deflete a esquerda com AZ-273º01’29’ e distancia de 75,806 m. até o ponto “C”, deflete a esquerda com AZ-228º09’17’ e distancia de 26,982 m. até o ponto “D”, deflete a direita com AZ-289º00’41’ e distancia de 11,449 m. até o ponto “E”, ponto este que coincide com o raio do balão de retorno. Esta rua confronta com área do proprietário de ambos os lados, sendo que no trecho inicial, na faixa da linha de transmissão, está gravada como (área não edificante). A área ocupada pela implantação de rua em questão, encerra a referida metragem de 1.985,03 m2.
+
+
+Art. 2º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 24 DIAS DO MÊS DE ABRIL DE 1991.
+
+**JONAS DE CAMPOS**
+
+**PREFEITO MUNICIPAL**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 24 de abril de 1991.
+
+**JOSÉ UBIRAJARA DE CAMPOS**
+
+**SECRETÁRIO GERAL DA ADMINISTRAÇÃO**
+

@@ -1,0 +1,308 @@
+{
+  "estado": "indice_completo",
+  "total": 29,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/lei_3.472_-_anexo_da_lei_3.472_de_30_de_dezembro_de_2019.pdf da norma Lei Ordinária-CMCN nº 3.472, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2019/1/lei_3.472_-_anexo_da_lei_3.472_de_30_de_dezembro_de_2019.pdf",
+      "ano": 2019,
+      "norma": 490
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/modelo_1_-_cabecalho_e_rodape_-_centralizado.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Papel timbrado - Centralizado",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/2/modelo_1_-_cabecalho_e_rodape_-_centralizado.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/modelo_2_-_cabecalho_e_rodape_-_recuado.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Papel timbrado - Recuado",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/3/modelo_2_-_cabecalho_e_rodape_-_recuado.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/modelo_de_ata.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Ata",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/4/modelo_de_ata.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/modelo_de_emenda_a_projeto.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Emenda a Projeto",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/5/modelo_de_emenda_a_projeto.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/modelo_de_emenda_impositiva.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Emenda Impositiva",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/6/modelo_de_emenda_impositiva.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/modelo_de_indicacao.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Indicação",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/7/modelo_de_indicacao.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/modelo_de_mocao.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Moção",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/8/modelo_de_mocao.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/modelo_de_parecer.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Parecer",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/10/modelo_de_parecer.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/modelo_de_portaria.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Portaria",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/11/modelo_de_portaria.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/12/modelo_de_projeto_de_decreto_legislativo.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Projeto de Decreto Legislativo",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/12/modelo_de_projeto_de_decreto_legislativo.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/13/modelo_de_projeto_de_lei.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Projeto de Lei",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/13/modelo_de_projeto_de_lei.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/14/modelo_de_relatorio.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Relatório",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/14/modelo_de_relatorio.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/15/modelo_de_requerimento.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Requerimento",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/15/modelo_de_requerimento.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/modelo_de_oficio.docx da norma Resolução-CMCN nº 3, de 02 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Ofício",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2025/16/modelo_de_oficio.docx",
+      "ano": 2025,
+      "norma": 3993
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/17/desenho_1_-_perfil_das_vias.pdf da norma Lei Complementar-CMCN nº 8, de 01 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Perfil das Vias - 1",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2007/17/desenho_1_-_perfil_das_vias.pdf",
+      "ano": 2007,
+      "norma": 4346
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/18/desenho_2_-_perfil_das_vias.pdf da norma Lei Complementar-CMCN nº 8, de 01 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Perfil das Vias - 2",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2007/18/desenho_2_-_perfil_das_vias.pdf",
+      "ano": 2007,
+      "norma": 4346
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/19/desenho_3_-_altura_recuo_subsolo.pdf da norma Lei Complementar-CMCN nº 8, de 01 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Altura, Recuo e Subsolo",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2007/19/desenho_3_-_altura_recuo_subsolo.pdf",
+      "ano": 2007,
+      "norma": 4346
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/20/mapa_1-_macrozoneamento.pdf da norma Lei Complementar-CMCN nº 8, de 01 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Mapa 1 - Macrozoneamento",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2007/20/mapa_1-_macrozoneamento.pdf",
+      "ano": 2007,
+      "norma": 4346
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/21/mapa_2_-_perimetro_urbano.pdf da norma Lei Complementar-CMCN nº 8, de 01 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Mapa 2 - Perímetro Urbano",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2007/21/mapa_2_-_perimetro_urbano.pdf",
+      "ano": 2007,
+      "norma": 4346
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/22/mapa_3_-_areas_especiais.pdf da norma Lei Complementar-CMCN nº 8, de 01 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Mapa 3 - Áreas Especiais",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2007/22/mapa_3_-_areas_especiais.pdf",
+      "ano": 2007,
+      "norma": 4346
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/23/mapa_4_-_area_urbana.pdf da norma Lei Complementar-CMCN nº 8, de 01 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Mapa 4 - Área Urbana",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2007/23/mapa_4_-_area_urbana.pdf",
+      "ano": 2007,
+      "norma": 4346
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/24/anexo_i__modelo_padrao_de_plano_de_trabalho_das_emendas_impositivas.docx da norma Decreto nº 6.187, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Modelo padrão de Plano das Emendas Impositivas",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2026/24/anexo_i__modelo_padrao_de_plano_de_trabalho_das_emendas_impositivas.docx",
+      "ano": 2026,
+      "norma": 4473
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/25/anexo_ii__fluxo_e_cronograma_de_execucao_das_emendas_impositivas.docx da norma Decreto nº 6.187, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Fluxo e Cronograma de Execução das Emendas Impositivas",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2026/25/anexo_ii__fluxo_e_cronograma_de_execucao_das_emendas_impositivas.docx",
+      "ano": 2026,
+      "norma": 4473
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/26/anexo_iii__relatorio_de_execucao_das_emendas_impositivas.docx da norma Decreto nº 6.187, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Relatório de Execução das Emendas Impositivas",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2026/26/anexo_iii__relatorio_de_execucao_das_emendas_impositivas.docx",
+      "ano": 2026,
+      "norma": 4473
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/27/anexo_iv__impedimentos_tecnicos.docx da norma Decreto nº 6.187, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Impedimentos Técnicos",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2026/27/anexo_iv__impedimentos_tecnicos.docx",
+      "ano": 2026,
+      "norma": 4473
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/28/anexo_v__padrao_de_transparencia_do_portal.docx da norma Decreto nº 6.187, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Padrão de Transparência do Portal",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2026/28/anexo_v__padrao_de_transparencia_do_portal.docx",
+      "ano": 2026,
+      "norma": 4473
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/anexo_vi__regras_bancarias.docx da norma Decreto nº 6.187, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Regras Bancárias",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2026/29/anexo_vi__regras_bancarias.docx",
+      "ano": 2026,
+      "norma": 4473
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/30/anexo_vii__modelo_de_relatorio_circunstanciado_de_impedimento_de_ordem_tecnica.docx da norma Decreto nº 6.187, de 15 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Modelo de Relatório Circunstanciado de Impedimentos de Ordem Técnica",
+      "anexo_arquivo": "http://sapl.curraisnovos.rn.leg.br/media/sapl/public/anexonormajuridica/2026/30/anexo_vii__modelo_de_relatorio_circunstanciado_de_impedimento_de_ordem_tecnica.docx",
+      "ano": 2026,
+      "norma": 4473
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.curraisnovos.rn.leg.br/f357c6927b108433fabfad7e08dd13037a563208b954f3f666937bdd51ba661b.json",
+      "url": "https://sapl.curraisnovos.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.curraisnovos.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "36f0f5f62443daa3c744bd429913ace0994003583ef9f22bfe7ca0adc7855eef",
+      "bytes": 13087,
+      "capturado_em": "2026-10-28T09:38:22.452046-03:00"
+    }
+  ]
+}

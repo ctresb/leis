@@ -1,0 +1,736 @@
+CÂMARA MUNICIPAL DE GARÇA
+
+ESTADO DE SÃO PAULO
+
+LEI Nº 5.325, de 21 de outubro de 2019.
+
+
+Dispõe sobre a organização do sistema de inovação de Garça e sobre medidas de incentivo à inovação tecnológica, à pesquisa científica e tecnológica, ao desenvolvimento tecnológico, à engenharia não rotineira e à extensão tecnológica em ambiente produtivo, cria o Conselho Municipal de Ciência, Tecnologia e Inovação de Garça, e dá outras providências.
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei estabelece medidas de incentivo à inovação tecnológica, à pesquisa científica e tecnológica, ao desenvolvimento tecnológico, à engenharia não rotineira, à informação tecnológica e à extensão tecnológica em ambiente produtivo ou social, visando alcançar a capacitação e o desenvolvimento industrial e tecnológico competitivo do Município de Garça, nos termos dos artigos 218, 219 e 219-A, da Constituição Federal, dos artigos 268 a 272, da Constituição do Estado de São Paulo, das disposições da Lei Federal nº 10.973, de 2 de dezembro de 2004 alterada pela Lei Federal 13.243, de 11 de janeiro de 2016, do Decreto Estadual nº 60.286, de 25 de março de 2014, e ainda da Lei Complementar nº 1.049, de 19 de junho de 2008, do Estado de São Paulo.
+
+
+Art. 2º.
+
+Para os efeitos desta Lei considera-se:
+
+
+I –
+
+Agência de Inovação e Competitividade: órgão ou entidade de natureza pública ou privada que tenha entre os seus objetivos o fomento à inovação tecnológica, à pesquisa científica e tecnológica, ao desenvolvimento tecnológico, à engenharia não rotineira, à informação tecnológica e à extensão tecnológica em ambiente produtivo;
+
+
+II –
+
+Arranjos Produtivos Locais (APL): aglomeração de empresas, localizadas em um mesmo território, que apresentam especialização produtiva e mantêm vínculos de articulação, interação, cooperação e aprendizagem entre si e com outros atores locais, tais como governo, associações empresariais, instituições de crédito, ensino e pesquisa;
+
+
+III –
+
+Criação: invenção, modelo de utilidade, desenho industrial, programa de computador, topografia de circuito integrado, nova cultivar ou cultivar essencialmente derivada ou qualquer outro desenvolvimento tecnológico obtido por um ou mais criadores, que gere ou possa gerar novo processo, produto, serviço ou aperfeiçoamento incremental;
+
+
+IV –
+
+Inovação Tecnológica: introdução de novidade ou aperfeiçoamento no ambiente produtivo e/ou social que resulte em novos processos, produtos ou serviços, bem como em ganho de qualidade ou produtividade em processos, produtos ou serviços já existentes, visando ampliar a competitividade no mercado, bem como a melhoria das condições de vida da maioria da população, e a sustentabilidade socioambiental;
+
+
+V –
+
+Instituição Científica e Tecnológica (ICT): órgão ou entidade pública ou privada, sediada no Município de Garça, que tenha por missão institucional executar atividades ligadas à inovação tecnológica, à pesquisa científica e tecnológica, ao desenvolvimento aprendizagem entre si e com outros atores locais, tais como governo, associações empresariais, instituições de crédito, ensino e pesquisa;
+
+
+VI –
+
+Centro de Inovação e Parque Tecnológico: empreendimentos criados e geridos com o objetivo permanente de promover a pesquisa, o desenvolvimento e a inovação tecnológica, estimular a cooperação entre instituições de pesquisa, universidades e empresas e dar suporte ao desenvolvimento de atividades intensivas em conhecimento;
+
+
+VII –
+
+Sistema de Inovação: conjunto de organizações institucionais e empresariais que, em dado território, interagem entre si e despendem recursos para a realização de atividades orientadas à geração, difusão e aplicação de conhecimentos científicos e tecnológicos que proporcionem processos, bens e serviços inovadores;
+
+
+VIII –
+
+Economia Verde: atividade econômica que, por meio da inovação promove a redução dos riscos ambientais e das escassezes ecológicas, resultando na melhora do bem estar humano e da igualdade social;
+
+
+IX –
+
+Incubadora de Empresas de Base Tecnológica: empreendimento que, por tempo limitado, oferece espaço físico para instalação de empresas e empreendimentos nascentes voltados ao desenvolvimento de produtos e processos intensivos em conhecimento, disponibiliza suporte gerencial e tecnológico, assim como outros serviços correlatos de valor agregado, com vista ao seu crescimento e consolidação;
+
+
+X –
+
+Empresas Juniores: organizações privadas dirigidas por acadêmicos de cursos de ensino superior, que desenvolvam atividades de pesquisa e extensão em áreas correlatas aos respectivos cursos que se vinculam.
+
+
+#### CAPÍTULO II — DA POLÍTICA MUNICIPAL DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+
+Art. 3º.
+
+Fica o Executivo Municipal autorizado a promover o desenvolvimento científico, tecnológico e de inovação no Município de Garça, com vistas:
+
+
+I –
+
+à melhoria das condições de vida de sua população, notadamente no que se refere aos padrões de saúde, educação, habitação, lazer, emprego, transporte, ambiente e infraestrutura;
+
+
+II –
+
+ao fortalecimento e à ampliação da base técnico-científica do Município, constituída por entidades de ensino, pesquisa e prestação de serviços técnicos especializados e por unidades de produção de bens e serviços de elevado conteúdo tecnológico;
+
+
+III –
+
+à criação de empregos e renda no âmbito do Município, mediante o aumento e a diversificação das atividades econômicas que tenham por base a geração e a aplicação de conhecimento técnico e científico;
+
+
+IV –
+
+ao aprimoramento das condições de atuação do poder público municipal, notadamente no que se refere à identificação e ao equacionamento das necessidades urbanas e rurais e ao aproveitamento das potencialidades locais;
+
+
+V –
+
+à disseminação da cultura inovativa e empreendedora em todas as áreas de atuação ao alcance do Município.
+
+
+Art. 4º.
+
+Na promoção do desenvolvimento científico, tecnológico e de inovação, o Município propiciará apoio financeiro e institucional a projetos e programas voltados à sistematização, à geração, à absorção e à transferência de conhecimentos científicos e tecnológicos, notadamente aqueles relacionados com:
+
+
+I –
+
+a capacitação de pessoas;
+
+
+II –
+
+a realização de estudos técnicos;
+
+
+III –
+
+a realização de pesquisas científicas;
+
+
+IV –
+
+a realização de projetos de desenvolvimento tecnológico;
+
+
+V –
+
+a criação e a adequação de infraestrutura de apoio a empreendimentos de base tecnológica;
+
+
+VI –
+
+a divulgação de informações técnico-científicas;
+
+
+VII –
+
+a realização de projetos para a criação, ampliação e manutenção de incubadoras de base tecnológica, arranjos produtivos locais, centros de inovação e parques tecnológicos;
+
+
+VIII –
+
+o apoio e o assessoramento para o ensino e as atividades de ciências dos níveis de ensino fundamental, médio e técnico no Município de Garça;
+
+
+IX –
+
+eventos técnico-científico.
+
+
+Parágrafo único
+
+Os projetos que demandarem contrapartida financeira ou apoio institucional do município, de pertinência temática desta Lei, deverão ser submetidos à Secretaria Municipal de Desenvolvimento Econômico, que encaminhará ao Conselho Municipal de Ciência, Tecnologia e Inovação que designará comissão de avaliação e fiscalizará o andamento, nos termos de seu regimento interno.
+
+
+#### CAPÍTULO III — DO SISTEMA DE INOVAÇÃO DE GARÇA
+
+
+Art. 5º.
+
+Fica instituído o Sistema de Inovação do Município de Garça (SIG), a ser regulamentado por decreto do Poder Executivo, com o objetivo de incentivar o desenvolvimento sustentável do Município pela inovação tecnológica, estimulando projetos e programas especiais, articulados com os setores público e privado.
+
+
+§ 1º
+
+Poderão ser credenciados ao Sistema de Inovação do Município de Garça, segundo regulamento aprovado pelo Conselho Municipal de Ciência, Tecnologia e Inovação de Garça, órgãos públicos e entidades públicas e privadas localizadas ou com representações no Município, cujas atividades contribuam para o objetivo de incentivar o desenvolvimento sustentável pela inovação tecnológica.
+
+
+§ 2º
+
+O credenciamento terá validade de quatro anos, contados da sua concessão, sendo que a renovação se dará na forma do regulamento.
+
+
+§ 3º
+
+As empresas participantes de Incubadoras, Arranjos Produtivos Locais, Centros de Inovação e Parques Tecnológicos, integrantes do SIG, serão consideradas integrantes credenciadas.
+
+
+§ 4º
+
+O Município, frente às suas disponibilidades, poderá ceder por prazo determinado ou indeterminado, mediante condições a serem estabelecidas no termo de cessão de uso, imóveis, edificados ou não, de sua propriedade, para instituições gestoras de mecanismos de promoção da inovação, devidamente qualificadas, com base em critérios definidos pelo Conselho Municipal de Ciência, Tecnologia e Inovação de Garça.
+
+
+§ 5º
+
+O Município poderá realizar investimentos diretos e indiretos, inclusive de infraestrutura e custeio, em bens públicos que dão suporte aos mecanismos de promoção da inovação.
+
+
+Art. 6º.
+
+Para integrar o Sistema de Inovação do Município de Garça, a entidade interessada deve tornar público, via imprensa oficial, o seu plano de ação no setor e sua convergência com as diretrizes de inovação do Município, submetendo-se a apreciação da Secretaria Municipal de Desenvolvimento Econômico, que solicitará parecer do Conselho Municipal de Ciência, Tecnologia e Inovação de Garça.
+
+
+Parágrafo único
+
+O Município criará o Selo Municipal de Empresa Inovadora, atribuindo-o às empresas e entidades que fizerem parte deste Sistema, para que possam utilizá-lo em suas ações de publicidade, objetivando a divulgação e disseminação da inovação e da cultura inovativa.
+
+
+Art. 7º.
+
+O Município apoiará a cooperação entre o Sistema de Inovação do Município de Garça e instituições públicas de pesquisa e de inovação tecnológica da União, do Estado e de outros Municípios para atrair empresas que promovam inovação tecnológica, desenvolvimento científico e tecnológico, incubadoras, parques tecnológicos e outras entidades de pesquisa científica e tecnológica.
+
+
+#### CAPÍTULO IV — DO CONSELHO MUNICIPAL DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO DE GARÇA
+
+
+Art. 8º.
+
+Fica instituído o Conselho Municipal de Ciência, Tecnologia e Inovação de Garça, organismo consultivo de apoio ao Poder Executivo Municipal, com a finalidade de promover a discussão, a proposição e o acompanhamento das políticas públicas e projetos de Ciência, Tecnologia e Inovação, de interesse do Município, bem como apoiar e incentivar o desenvolvimento científico, tecnológico e a inovação, com vistas ao desenvolvimento sustentável do Município.
+
+
+Art. 9º.
+
+Integrarão o Conselho Municipal de Ciência, Tecnologia e Inovação de Garça:
+
+
+1
+
+01 (um) representante da Secretaria Municipal de Desenvolvimento Econômico;
+
+
+2
+
+01 (um) representante da Secretaria Municipal da Fazenda, Planejamento e Finanças;
+
+
+3
+
+01 (um) representante da Secretaria Municipal de Planejamento e Desenvolvimento Urbano;
+
+
+4
+
+01 (um) representante da Secretaria Municipal de Informação, Comunicação e Eventos;
+
+
+5
+
+01 (um) representante da Secretaria Municipal de Educação;
+
+
+6
+
+01 (um) representante da Câmara Municipal de Garça;
+
+
+7
+
+03 (três) representantes de graduação Tecnológica de Instituições de Ensino Superior - IES públicas ou privadas sediadas no Município de Garça;
+
+
+8
+
+01 (um) representante da sociedade organizada representativa do setor industrial, sediada no Município de Garça;
+
+
+9
+
+01 (um) representante da sociedade organizada representativa do setor comercial, sediada no Município de Garça;
+
+
+10
+
+01 (um) representante da sociedade organizada representativa do setor de serviços, sediada no Município de Garça;
+
+
+11
+
+03 (três) representantes da sociedade organizada representativa do setor de tecnologia e inovação, sediada no Município de Garça.
+
+
+§ 1º
+
+Os membros do Conselho serão indicados pelas respectivas classes que representem, quando for o caso, e deverão preferencialmente ser portadores de comprovada experiência profissional, notadamente na administração, implantação ou execução de projetos e programas de desenvolvimento científico e tecnológico.
+
+
+§ 2º
+
+Será indicado, para cada membro titular, um suplente, ficando proibida a participação de mais de um representante da mesma entidade, na composição do Conselho.
+
+
+Art. 10.
+
+O Conselho será nomeado por ato do Executivo e terá mandato de 04 (quatro) anos, permitida sua recondução.
+
+
+§ 1º
+
+A perda do vínculo legal entre o representante e a respectiva entidade implicará na extinção concomitante de seu mandato, e sua imediata substituição, a critério da respectiva entidade ou órgão.
+
+
+§ 2º
+
+As atividades exercidas pelos membros do Conselho serão consideradas de relevante serviço público e não serão remuneradas.
+
+
+Art. 11.
+
+Compete ao Conselho Municipal de Ciência, Tecnologia e Inovação de Garça:
+
+
+I –
+
+propor planos gerais e específicos relacionados ao desenvolvimento da ciência, tecnologia e inovação no Município e sua aplicação no âmbito da Administração Pública Municipal, bem como colaborar com a política a ser por ela implantada nessa área, visando à qualificação dos serviços municipais;
+
+
+II –
+
+identificar as necessidades, prioridades e interesses referentes aos assuntos mencionados no inciso I deste artigo, na esfera municipal;
+
+
+III –
+
+indicar temas específicos da área da ciência, tecnologia e inovação que requeiram tratamento planejado;
+
+
+IV –
+
+cooperar na concepção, implantação e avaliação de políticas públicas da área da ciência, tecnologia e inovação, a partir de iniciativas governamentais ou em parceria com agentes privados, sempre preservando o interesse público;
+
+
+V –
+
+contribuir com as políticas públicas da Secretaria Municipal de Desenvolvimento Econômico por meio de programas e instrumentos que promovam a transferência de tecnologias inovadoras e incrementais ao setor produtivo, com ênfase em médias, pequenas e microempresas e no empreendedorismo social, para a geração de postos de trabalho e renda;
+
+
+VI –
+
+incentivar a geração, difusão e a popularização do conhecimento, bem como das informações e novas técnicas na área da ciência, tecnologia e inovação;
+
+
+VII –
+
+propor ao Executivo Municipal os orçamentos e os planos anuais e plurianuais de ciência e tecnologia, nos quais estarão fixadas as diretrizes e prioridades que nortearão as aplicações dos recursos do Fundo Municipal de Apoio à Ciência, Tecnologia e Inovação de Garça;
+
+
+VIII –
+
+avaliar e recomendar apoio a projetos que solicitem apoio institucional, econômico ou financeiro do Município e fiscalizar a utilização dos recursos do Fundo Municipal de Ciência, Tecnologia e Inovação;
+
+
+IX –
+
+sugerir ações à Administração Pública que utilizem a Ciência, Tecnologia e Inovação como instrumentos ou recursos que melhorem a qualidade e eficiência dos serviços públicos;
+
+
+X –
+
+intermediar ações, políticas e projetos entre o Poder Público Municipal e as Instituições de Ensino Superior, notadamente pelos seus respectivos programas de pós-graduação, permitindo a aplicação e socialização do conhecimento e inovação produzidos pela Academia;
+
+
+XI –
+
+elaborar seu regimento interno.
+
+
+Art. 12.
+
+O Regimento Interno do Conselho Municipal de Ciência, Tecnologia e Inovação de Garça disporá sobre a forma de sua organização e as condições de seu funcionamento, incluindo a destituição de mandato e os casos de substituição, impedimento e vacância, dentre outros assuntos pertinentes.
+
+
+§ 1º
+
+Serão constituídas, na forma prevista no Regimento Interno, as Comissões Técnicas que forem necessárias, auxiliadas pelos representantes das comunidades científicas e tecnológicas.
+
+
+§ 2º
+
+O Regimento Interno do Conselho deverá ser aprovado pelo voto da maioria absoluta de seus membros e referendado por decreto do Executivo, o qual será editado até 90 (noventa) dias após a data da publicação da presente Lei.
+
+
+§ 3º
+
+O Conselho manterá registro próprio e sistemático de seus atos de funcionamento, assegurada a publicidade dos mesmos, por meio da Imprensa Oficial do Município.
+
+
+Art. 13.
+
+O Executivo Municipal assegurará a organização e funcionamento do Conselho, fornecendo os meios necessários para a sua instalação e funcionamento, inclusive com a cessão de pessoal administrativo e custeio para seu funcionamento.
+
+
+Art. 14.
+
+O Conselho Municipal de Ciência, Tecnologia e Inovação de Garça apresentará, anualmente, ao Chefe do Poder Executivo e à Câmara Municipal relatório de suas atividades, disponibilizando-o para a comunidade em geral.
+
+
+#### CAPÍTULO V — DO FUNDO DE APOIO À CIÊNCIA, TECNOLOGIA E INOVAÇÃO DE GARÇA
+
+
+Art. 15.
+
+Fica criado o Fundo Municipal de Apoio à Ciência, Tecnologia e Inovação de Garça, com a finalidade de fomentar a inovação tecnológica no Município e de incentivar empreendedores e empresas aqui instaladas, que desejarem pesquisar, desenvolver ou aperfeiçoar projetos de pesquisa científica, tecnológica e de inovação, em consonância com a Política Municipal de Ciência, Tecnologia e Inovação.
+
+
+Parágrafo único
+
+Os recursos deste Fundo serão administrados pela Secretaria Municipal de Desenvolvimento Econômico e serão submetidos aos sistemas de controles contábeis e fiscais pertinentes, bem como aos órgãos de fiscalização e controle.
+
+
+Art. 16.
+
+Os recursos deste Fundo poderão ser aplicados em projetos que tenham sido submetidos e aprovados pelo Conselho Municipal de Ciência, Tecnologia e Inovação, com temas preferencialmente de interesse público e relevância social, pelo voto de seus membros ou dos integrantes de uma comissão ad-hoc que constituírem para este fim, e serão concedidos, quando aplicáveis, da seguinte forma:
+
+
+I –
+
+concessão de bolsa auxílio de estímulo à inovação e à pesquisa científica e tecnológica;
+
+
+II –
+
+cessão de material permanente;
+
+
+III –
+
+auxílio para realização de eventos técnico-científicos de inovação, ciência e tecnologia, aptos a divulgar e fomentar a cultura de inovação na cidade;
+
+
+IV –
+
+capacitação, treinamento, e custeio de programas de certificação;
+
+
+V –
+
+participação em feiras e eventos nacionais, incluindo inscrição, transporte e estadia, para divulgação dos projetos em desenvolvimento;
+
+
+VI –
+
+aquisição de softwares, material bibliográfico e de consumo necessários para o desenvolvimento do projeto;
+
+
+VII –
+
+outras formas de incentivo, cujas justificativas impliquem em comprovada necessidade para a pesquisa, desenvolvimento ou aprimoramento do projeto.
+
+
+Parágrafo único
+
+Aprovado pelo Conselho, o projeto seguirá para deliberação do Secretário Municipal de Desenvolvimento Econômico que o recomendará ao Chefe do Executivo, de acordo com a disponibilidade financeira do Fundo.
+
+
+Art. 17.
+
+Não poderão ser solicitados recursos para obras civis, custeio com assessorias ou consultorias, pagamento de pró-labore, salários ou tributos de qualquer espécie, viagens internacionais, aquisição ou manutenção de veículos ou imóveis e quaisquer outras despesas ou custeio que não sejam essenciais para o projeto.
+
+
+Parágrafo único
+
+Não será aprovada solicitação de recursos para projetos cujos integrantes ou beneficiários sejam integrantes do Conselho, seus sócios, cônjuges ou familiares em até terceiro grau.
+
+
+Art. 18.
+
+As bolsas auxílio serão concedidas mensalmente, observados procedimentos definidos em edital próprio que observará, entre outros:
+
+
+I –
+
+que os beneficiários sejam exclusivamente empreendedores pessoas físicas, independentes, que manifestarem interesse, e que atendam às exigências do Edital, para pesquisa, desenvolvimento ou aprimoramento de projeto de inovação;
+
+
+II –
+
+que as bolsas tenham prazo de duração não superior a 12 (doze) meses, prorrogável por igual período uma única vez;
+
+
+III –
+
+que a concessão e manutenção da bolsa auxílio exija a dedicação exclusiva ao projeto e ausência de qualquer outra fonte de renda de seu beneficiário;
+
+
+IV –
+
+que seja concedida uma única bolsa auxílio por pessoa física, e no máximo duas bolsas por projeto que tenha sido submetido;
+
+
+V –
+
+que os beneficiários submetam-se ao Conselho, periodicamente, relatório descritivo da evolução de seu projeto, suas perspectivas e outras informações que permitam o controle e auditoria da produção intelectual e a eficiência do consumo dos recursos oriundos da bolsa auxílio, que poderá ser interrompida ou suspensa, nos termos do Regimento Interno e do Edital;
+
+
+VI –
+
+que os valores das bolsas sejam definidos pelo Edital, de acordo com a disponibilidade financeira existente, e não ultrapassem 02 (dois) salários mínimos mensais;
+
+
+VII –
+
+que a bolsa concedida nos termos deste artigo caracterize-se como doação, não configure vínculo empregatício e não caracterize contraprestação de serviços.
+
+
+Parágrafo único
+
+Poderão ser concedidas bolsas para desenvolvimento e pesquisa de projetos acadêmicos em cursos técnicos, graduação e programas de pós-graduação de universidades reconhecidas pelo MEC e sediadas no município, desde que desenvolvam temas de relevante interesse público, notadamente no âmbito da Administração Municipal que deverá se manifestar previamente pelo interesse no tema e nos resultados esperados.
+
+
+Art. 19.
+
+A cessão de materiais permanentes será feita mediante Termo de Cooperação próprio entre o Poder Púbico e o interessado, pessoa física ou jurídica.
+
+
+Parágrafo único
+
+Os materiais cedidos deverão ser utilizados exclusivamente para o desenvolvimento do projeto, e deverão ser restituídos ao Poder Público ao final do termo de cooperação.
+
+
+Art. 20.
+
+A Secretaria Municipal de Desenvolvimento Econômico publicará editais de oferta de recursos e de apoio para as modalidades citadas nos incisos III a VII, do artigo 16 desta Lei, onde serão estipulados valores máximos por projeto e por tipo de apoio, tendo em vista a disponibilidade de recursos e o atendimento ao maior número de ações possíveis, e exigirá, dentre outros, e sempre que possível:
+
+
+I –
+
+projeto ou pré-projeto detalhado, plano de negócios ou cronograma físico financeiro;
+
+
+II –
+
+comprovação de capacidade técnica, de tutoria, orientação acadêmica ou do apoio institucional conforme o caso;
+
+
+III –
+
+justificativa detalhada da utilização dos recursos solicitados, os benefícios, perspectivas e objetivos, bem como a previsão de indicadores claros e objetivos que permitam auditoria e verificação do consumo dos recursos e avanços obtidos.
+
+
+Art. 21.
+
+O termo de cessão ou documento equivalente que tratar do uso dos recursos do Fundo também disciplinará questões de propriedade intelectual e patentes, e poderá prever pagamento, na forma de royalties, de percentual não superior a 3% (três por cento) sobre o faturamento bruto resultante da comercialização do projeto custeado pelo Fundo, pelo prazo não superior a 5 (cinco) anos, após a finalização do Termo de Cooperação.
+
+
+§ 1º
+
+Estes recursos serão obrigatoriamente integrados ao Fundo de Apoio de Ciência, Tecnologia e Inovação e só poderão ser aplicados em novos projetos.
+
+
+§ 2º
+
+Nos projetos em que o Município possa ser diretamente beneficiado como usuário ou destinatário final, será licito condicionar sua aprovação e consequente liberação do apoio solicitado à cessão de licença de uso, ou termo equivalente, se assim o Conselho deliberar.
+
+
+Art. 22.
+
+Constituem receitas do Fundo:
+
+
+I –
+
+dotação própria escriturada no orçamento geral do Município;
+
+
+II –
+
+recursos decorrentes de acordos, ajustes, contratos e convênios celebrados com órgãos ou instituições de natureza pública, inclusive agências de fomento;
+
+
+III –
+
+convênios, contratos e doações realizados por entidades nacionais ou internacionais, públicas ou privadas;
+
+
+IV –
+
+doações, auxílios, subvenções e legados, de qualquer natureza, de pessoas físicas ou jurídicas do país ou do exterior;
+
+
+V –
+
+rendimentos de aplicação financeira dos seus recursos;
+
+
+VI –
+
+receitas diversas, auferidas na participação em projetos ou comercialização de produtos ou serviços por empresas em que o Município de Garça for sócio, acionista, etc;
+
+
+VII –
+
+receitas provenientes de royalties oriundos da comercialização dos projetos financiados pelo Fundo, ou receitas de suas patentes e registros, quando previstos no respectivo termo;
+
+
+VIII –
+
+outras receitas que vierem a ser destinadas ao Fundo.
+
+
+#### CAPÍTULO VI — DO ESTÍMULO À PARTICIPAÇÃO DE EMPRESAS NO PROCESSO DE INOVAÇÃO TECNOLÓGICA
+
+
+Art. 23.
+
+O Município, por meio de seus órgãos da administração pública direta ou indireta, incentivará a participação de pessoas, empresas, grupos de empresas, cooperativas, arranjos produtivos locais e outras formas de produção, no processo de inovação tecnológica, mediante o compartilhamento de recursos humanos, materiais e de infraestrutura ou a concessão de apoio financeiro, a serem ajustados em convênios ou contratos e termos específicos.
+
+
+§ 1º
+
+A concessão do apoio financeiro, previsto no caput deste artigo implica, obrigatoriamente, a assunção de contrapartida pelo beneficiário, na forma estabelecida nos respectivos instrumentos jurídicos.
+
+
+§ 2º
+
+As condições e a duração da participação de que trata este artigo, bem como os critérios para compartilhar resultados futuros, deverão estar definidos nos respectivos instrumentos jurídicos.
+
+
+Art. 24.
+
+O Município, por meio de seus órgãos da administração pública direta ou indireta, incentivará a participação de empresas no processo de inovação tecnológica, bem como ações de empreendedorismo tecnológico e de criação de ambientes de inovação tecnológica e/ou social, inclusive incubadoras, centros tecnológicos e parques tecnológicos.
+
+
+Art. 25.
+
+O Município incentivará os esforços inovativos dos microempreendedores individuais, microempresas, empresas de pequeno porte e empresas juniores locais por ação própria ou em parceria com agências de fomento, instituições científicas e tecnológicas, núcleos de inovação tecnológica, instituições de ensino e de apoio e outros órgãos promotores da ciência, tecnologia e inovação.
+
+
+Art. 26.
+
+O Município poderá instituir mecanismos de incentivo à inovação visando estimular os esforços inovativos de microempreendedores individuais, microempresas, empresas de pequeno porte, cooperativas e empresas juniores, visando incentivar a inserção destes no Sistema de Inovação de Garça a serem ajustados em acordos específicos.
+
+
+§ 1º
+
+O Município envidará esforços para prover o acesso dos microempreendedores individuais, microempresas, empresas de pequeno porte e cooperativas aos mecanismos de fomento, propriedade intelectual e serviços técnicos especializados.
+
+
+§ 2º
+
+Poderão ser instituídas, com ou sem parceiros públicos e/ou privados, modalidades de incubadoras de empresas que estimulem o empreendedorismo inovador de base tecnológica.
+
+
+Art. 27.
+
+Fica instituído o "Prêmio Garça de Inovação" outorgado pelo Prefeito em reconhecimento a pessoas, empresas e entidades que se destacarem em inovação, na forma a ser disciplinada por decreto.
+
+
+#### CAPÍTULO VII — DOS PARQUES TECNOLÓGICOS, CENTRO DE INOVAÇÃO E INCUBADORAS DE EMPRESAS TECNOLÓGICAS
+
+
+Art. 28.
+
+O Município concentrará esforços visando à implantação de Parque Tecnológico, Centro de Inovação em Garça e Incubadora de base Tecnológica como parte de sua estratégia para incentivar os investimentos em inovação tecnológica, pesquisa científica e tecnológica, desenvolvimento tecnológico, engenharia não rotineira, informação tecnológica e extensão tecnológica em ambiente produtivo que gerem novos negócios, trabalho e renda e ampliem a competitividade socioeconômica do Município.
+
+
+Parágrafo único
+
+A definição dos organismos responsáveis pela gestão desses ambientes de inovação será disciplinada por regulamentação específica do Poder Executivo Municipal de Garça.
+
+
+Art. 29.
+
+Poderão ser celebradas, no âmbito do Parque Tecnológico de Garça e da Incubadora de Base Tecnológica de Garça, parcerias e termos de cooperação com instituições de ensino locais e empresas, para capacitação especializada de mão de obra e atividades de extensão e estágios, mediante instrumento jurídico apropriado.
+
+
+Art. 30.
+
+Ficam isentos do ISSQN, taxas, alvarás e licenças municipais as empresas regularmente inscritas no cadastro mobiliário do município que exerçam suas atividades na INTEG - Incubadora Tecnológica de Garça, e as empresas juniores ligadas às instituições de ensino superiores reconhecidas pelo MEC, desde que organizadas e dirigidas por acadêmicos e que não tenham fins lucrativos.
+
+
+§ 1º
+
+A concessão do benefício fiscal previsto no caput deste artigo ficará condicionada à previsão na Lei de Diretrizes Orçamentárias, bem como ao cumprimento do disposto no artigo 14 da Lei de Responsabilidade Fiscal (LRF).
+
+
+§ 2º
+
+As isenções tratadas nesse artigo devem ser solicitadas anualmente à Secretaria Municipal de Finanças, em processo administrativo próprio, devidamente instruído com documentos pertinentes.
+
+
+§ 3º
+
+Após análise dos referidos documentos, as empresas amparadas por esta Lei serão reconhecidas através de Decreto.
+
+
+§ 4º
+
+As empresas que deixarem de exercer suas atividades de incubação, terá o cancelamento de forma imediata de todos os benefícios concedidos nesta Lei, com o lançamento das taxas e demais despesas devidas, reportando-se à data de seu descredenciamento.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 31.
+
+São consideradas ações de extensão tecnológica pelo município, que envidará esforços para manter e ampliar:
+
+
+I –
+
+o Mutirão do Lixo Eletrônico de Garça;
+
+
+II –
+
+locais públicos e abertos com internet sem fio (Wi-Fi);
+
+
+III –
+
+salas e espaços públicos equipados com computadores e acesso à internet;
+
+
+IV –
+
+cursos básicos de informática;
+
+
+V –
+
+laboratórios de informática para uso nas escolas públicas municipais;
+
+
+VI –
+
+promoção de desafios, concursos, campeonatos e demais eventos que promovam ações cujos objetivos se enquadrem nesta Lei.
+
+
+Art. 32.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Garça, 21 de outubro de 2019.
+
+
+JOÃO CARLOS DOS SANTOS
+
+
+PREFEITO

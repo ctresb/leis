@@ -1,0 +1,265 @@
+---
+titulo: "Lei Complementar nº 668, de 19 de julho de 2017"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "668"
+data: "2017-07-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/289"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1670/text"
+sha256_fonte: "efbded502d256d8d576ba5d0b0d2941edf966b892238f0085fd8c6312ec7c038"
+sha256_texto: "06e4769d9232875f35f9a489f35a1587f0b80601ba4b78758650c1be12564384"
+capturado_em_fonte: "2026-10-27T20:42:05.129819-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 668, de 19 de julho de 2017
+
+“Dispõe sobre alterações de dispositivos da Lei Complementar nº 304 de 16 de Abril de 2008 que cria o Conselho Municipal de Esporte e Lazer; Institui o Fundo Municipal de Desenvolvimento do Desporto – FUMDER o dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO EM EXERCÍCIO**, usando da atribuição que lhe é conferida no inciso IV do art. 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR :**
+
+
+Art. 1º.
+
+Dá nova redação ao art. 1º, e inciso VI do art. 2º, da Lei Complementar nº 304 de 16 de Abril de 2008, que passam a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+Fica criado o Fundo Municipal de Desenvolvimento do Desporto – FUMDER, vinculado a Secretaria Municipal de Esporte e Lazer – SEMES, com o objetivo de captar e destinar recursos para atender projetos e programas esportivos, por intermédio de seleção de projetos e editais públicos, que atendam às necessidades e objetivos da SEMES.
+
+
+Art. 3º.
+
+A Gestão do FUMDER, ficará a cargo do Conselho Diretor, instituído pela SEMES, que contará com a seguinte composição:
+
+
+I –
+
+Presidente - Secretário da SEMES;
+
+
+II –
+
+Diretor de orçamento, administração e finanças - Chefe da Assessoria Técnica da SEMES;
+
+
+III –
+
+Diretor técnico de esporte e lazer – Diretor do Departamento de Esporte e Lazer da SEMES.
+
+
+IV –
+
+Conselho fiscal – Comissão de Esportes da Câmara Municipal de Porto Velho formada por 03 (três) vereadores.”
+
+
+Parágrafo único
+
+As atividades do Conselho Diretor não serão remuneradas, sendo consideradas para todos os efeitos, serviço de relevante interesse público.
+
+
+Art. 4º.
+
+O Fundo Municipal de Desenvolvimento do Desporto tem às seguintes finalidades:
+
+
+I –
+
+auxílio financeiro à Entidade de Administração do Desporto, no âmbito municipal, em projetos direcionados ao desporto amador;
+
+
+II –
+
+auxílio financeiro às entidades esportivas sem fins lucrativos na promoção do desporto;
+
+
+III –
+
+aquisição de equipamentos esportivos de natureza permanente, sendo que os bens adquiridos com os referidos recursos serão incorporados ao patrimônio da Secretaria Municipal de Esporte e Lazer;
+
+
+IV –
+
+manutenções e reformas de instalações esportivas;
+
+
+V –
+
+projetos de pesquisas relacionadas ao desporto;
+
+
+VI –
+
+fomento a programas de capacitação de profissionais da área-fim do desporto;
+
+
+VII –
+
+custeio de materiais promocionais, a título de participação, referentes à área do desporto e do lazer.
+
+
+Parágrafo único
+
+É vedada a utilização de recursos do Fundo Municipal de Desenvolvimento do Desporto com despesas de manutenção administrativa municipal, bem como de suas entidades vinculadas.
+
+
+Art. 5º.
+
+Constituem recursos do FUMDER:
+
+
+I –
+
+dotações consignadas na Lei Orçamentária Anual da SEMES;
+
+
+II –
+
+créditos suplementares a ele destinados;
+
+
+III –
+
+dos retornos e resultados de suas aplicações;
+
+
+IV –
+
+multas, correção monetária e juros em decorrência de suas operações;
+
+
+V –
+
+contribuições, doações, transferências, subvenções e auxílios de setores públicos ou privados, nacionais ou estrangeiros;
+
+
+VI –
+
+outros recursos, créditos e rendas adicionais ou extraordinários que lhe vierem a ser destinados;
+
+
+VII –
+
+recursos de origem orçamentária da União, Estado destinado a programa esportivo, como dispuser a legislação vigente;
+
+
+VIII –
+
+receitas obtidas através da exploração publicitária que envolva o marketing esportivo, colocadas, em Estádios e Ginásios sob a administração da SEMES, e em espaços públicos municipais, incluídas em vias vicinais do Município, atendidas as normas de posturas dos Municípios (outdoor e assemelhados);
+
+
+IX –
+
+receitas oriundas de aluguéis de salas e outros espaços livres localizados em ginásios, estádios e outros locais públicos estaduais, utilizados por lojas e lanchonetes, torres de transmissão de televisão e telefonia, dentre outros;
+
+
+X –
+
+receitas obtidas sobre máquinas de diversão eletrônica e eletromecânica, de concurso de prognósticos, loterias, rifas e similares, quando permitido, e não resultar ofensa à legislação federal;
+
+
+XI –
+
+doações, patrocínios e legados feitos por pessoas físicas ou jurídicas;
+
+
+XII –
+
+saldos de exercícios anteriores;
+
+
+XIII –
+
+receitas oriundas de aluguéis para realização de eventos sociocultural esportivos, de unidades de práticas esportivas pertencentes ao Município e sob a responsabilidade da SEMES;
+
+
+XIV –
+
+de operações de empréstimos, realizados com os recursos do Fundo de Desenvolvimento do Desporto, a título de financiamento reembolsável, observadas nas operações os critérios próprios de financiamento bancário, conforme disposição em decreto; e
+
+
+XV –
+
+outros recursos, naquilo que não contrarie a Constituição Federal.
+
+
+Art. 6º.
+
+Os recursos do Fundo de Desenvolvimento do Desporto serão obrigatoriamente creditados em instituição bancária idônea em conta especial, com autorização de saques em conjunto, do Presidente do Conselho Diretor e o Diretor de Orçamento, Administração e Finanças.
+
+
+Art. 7º.
+
+Para usufruir dos recursos do FUMDER o interessado deverá, obrigatoriamente, participar dos Editais Públicos a serem adotados e aprovados pelo Secretário da SEMES, conforme critérios estabelecidos em Decreto e Portaria específica para tal fim.
+
+
+Art. 8º.
+
+As despesas fixas e variáveis por conta do Fundo de Desenvolvimento do Desporto obedecerão ao critério de proporcionalidade em relação aos recursos existentes.
+
+
+§ 1º
+
+Para atender as despesas, sempre previamente aprovadas em resolução do Conselho Diretor, gestor do FUMDER, haverá sob a responsabilidade de seu Presidente, um caixa rotativo no valor de até 5 (cinco) vezes o salário mínimo vigente.
+
+
+§ 2º
+
+O caixa rotativo será suprido quando tiver esgotado, devendo o Presidente do órgão fazer a prestação de contas das despesas ocorridas a cada trimestre, conforme dispuser o decreto que regulamentará a presente Lei Complementar.
+
+
+§ 3º
+
+Nenhuma despesa será efetivada sem a prévia indicação dos recursos disponíveis, prestando contas o aplicador em prazo não superior a 90 (noventa) dias ao Presidente do Conselho Diretor, inclusive demonstrando para esse efeito a sua economicidade e a qualidade do produto ou serviço, mediante pesquisa de preços no mercado.
+
+
+Art. 9º.
+
+Todo ato de gestão financeira do Fundo de Desenvolvimento do Desporto deve ser realizado mediante documentos que comprovem a operação e registro, mediante classificação, em conta adequada, segundo as normas estabelecidas na contabilidade pública.
+
+
+Parágrafo único
+
+As compras e serviços realizados com os recursos do Fundo de Desenvolvimento do Desporto obedecerão ao que dispuser a legislação federal e estadual, observado, em especial, no que couber, o que preceitua a Lei Complementar Federal Nº 101 de 4 de maio de 2000 — Lei de Responsabilidade Fiscal.
+
+
+Art. 10.
+
+Para a execução dos trabalhos administrativos e de assessoramento técnico, científico, contábil e jurídico ao Fundo de Desenvolvimento do Desporto, a SEMES disponibilizará tantos servidores quantos necessários, para o perfeito funcionamento do mesmo.
+
+
+Art. 11.
+
+As despesas decorrentes desta Lei correrão por conta de dotação orçamentária própria da Secretaria Municipal de Esportes e Lazer.
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação, revogada as disposições em contrário.
+
+
+**EDGAR NILO TONIAL**
+
+Prefeito em Exercício
+
+IVONETE GOMES DA SILVA COSTA
+
+Secretária Municipal de Esportes e Lazer
+
+JOSÉ LUIZ STORER JÚNIOR
+
+Procurador Geral do Município
+

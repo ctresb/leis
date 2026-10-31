@@ -1,0 +1,42 @@
+{
+  "host": "sapl.caldasnovas.go.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caldasnovas.go.leg.br/7db4a015a498ebc2c11b404a7db5a31aff64f9756815a7f555e380ba9a6da949.json",
+    "url": "https://sapl.caldasnovas.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.caldasnovas.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:15:33.939148-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caldasnovas.go.leg.br/9c0fe64387759a9927f508e04224a03361bf00baaf0fef8781949f0b860f0a5c.json",
+    "url": "https://sapl.caldasnovas.go.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.caldasnovas.go.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6b81f4cedfe8cb783e99d3f3a36366281098bf044131a9142d3c382ee0d533da",
+    "bytes": 766,
+    "capturado_em": "2026-10-27T22:15:33.123768-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caldasnovas.go.leg.br/54ecb8265b359c6b82ba849b2e23b65f3935662d46122d2dbcdedb8ca05887bf.json",
+      "url": "https://sapl.caldasnovas.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.caldasnovas.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:15:36.116270-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

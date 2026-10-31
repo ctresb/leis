@@ -1,0 +1,262 @@
+---
+titulo: "Lei Ordinária nº 1.487, de 16 de novembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1487"
+data: "2006-11-16"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2013-02-18; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1868"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/365/text"
+sha256_fonte: "66984c8803b1b9b1dd4433ae42a82ff6d503e0af5349dd351a2218ca1bee7536"
+sha256_texto: "e38ba12e1657db476d4e127c9f8b5d2c7a7f12b5c35c6a69f925a2cf4974ad6d"
+capturado_em_fonte: "2026-10-27T21:37:57.681890-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.487, de 16 de novembro de 2006
+
+Cria cargos para as funções de Agente Comunitário da Saúde e de Agente de Combate às Endemias, estabelece normas para a contratação de pessoal e dá outras providências.
+
+
+O PREFEITO DE CAÇU: Faço saber que a Câmara de Caçu, Estado de Goiás, aprovou e eu, Prefeito, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+As atividades de Agente Comunitário de Saúde e de Agente de Combate às Endemias, passam a reger-se pelo disposto nesta Lei.
+
+
+Parágrafo único
+
+Os programas de Agente Comunitário da Saúde e de Agente de Combate às Endemias serão desenvolvidos no Município de Caçu, enquanto forem mantidos os Programas pelo Ministério da Saúde.
+
+
+Art. 2º.
+
+O Agente Comunitário de Saúde tem como atribuição o exercício de atividades de prevenção de doenças e promoção da saúde mediante ações domiciliares ou comunitárias, individuais ou coletivas, desenvolvidas em conformidade com as diretrizes do SUS e sob supervisão da Secretaria Municipal de saúde.
+
+
+Parágrafo único
+
+São consideradas atividades do Agente Comunitário de Saúde, na sua área de atuação:
+
+
+I –
+
+a utilização de instrumentos para diagnóstico demográfico e sociocultural da comunidade:
+
+
+II –
+
+a promoção de ações de educação para a saúde individual e coletiva;
+
+
+III –
+
+o registro, para fins exclusivos de controle e planejamento das ações de saúde, de nascimentos, óbitos, doenças e outros agravos à saúde;
+
+
+IV –
+
+o estímulo à participação da comunidade nas políticas públicas voltadas para a área da saúde;
+
+
+V –
+
+a realização de visitas domiciliares periódicas para monitoramento de situações de risco à família;
+
+
+VI –
+
+a participação em ações que fortaleçam os elos entre o setor saúde e outras políticas que promovam a qualidade de vida.
+
+
+Art. 3º.
+
+O Agente de Combate às Endemias tem como atribuição o exercício de atividades de vigilância, prevenção e controle de doenças e promoção da saúde, desenvolvidas em conformidade com as diretrizes do SUS e sob supervisão da Secretaria Municipal de Saúde.
+
+
+Art. 4º.
+
+A Secretaria Municipal de Saúde disciplinará as atividades de prevenção de doenças, de promoção da saúde, de controle e de vigilância a que se referem os arts. 2º e 3º desta Lei e estabelecerão os parâmetros dos cursos previstos nos incisos Il do art. 5º e I do art. 6º desta Lei, observadas as diretrizes curriculares nacionais definidas pelo Conselho Nacional da Educação.
+
+
+Art. 5º.
+
+O Agente Comunitário de Saúde deverá preencher os seguintes requisitos para o exercício da atividade:
+
+
+I –
+
+residir na área da comunidade em que pretender atual, quando do início dos serviços inerentes ao cargo em que for aprovado no processo seletivo;
+
+
+II –
+
+haver concluído com aproveitamento, curso introdutório de formação inicial e continuada;
+
+
+III –
+
+haver concluído o ensino fundamental.
+
+
+Parágrafo único
+
+Não se aplica a exigência a que se refere o inciso Ill, deste artigo aos que, em 12 de junho de 2006, data de publicação da Medida Provisória nº 297, estavam exercendo atividades de Agente Comunitário de Saúde.
+
+
+Art. 6º.
+
+O Agente de Combate às Endemias deverá preencher os seguintes requisitos para o exercício da atividade:
+
+
+I –
+
+haver concluído, com aproveitamento, curso introdutório de formação inicial e continuada;
+
+
+II –
+
+haver concluído o ensino fundamental.
+
+
+Parágrafo único
+
+Não se aplica a exigência a que se refere o inciso Il do caput deste artigo aos que, em 12 de junho de 2006, data de publicação da Medida Provisória nº 297, estavam exercendo atividades próprias de Agente de Combate às Endemias.
+
+
+Art. 7º.
+
+Os agentes Comunitários de Saúde e os Agentes de Combate às Endemias admitidos na forma do disposto no 8 4º do art. 198 da Constituição Federal, submete-se ao regime jurídico estabelecido pela Consolidação das Leis do Trabalho - CLT.
+
+
+Art. 8º.
+
+A contratação de Agentes Comunitários de saúde e de Agentes de Combate às Endemias deverá ser precedida de processo seletivo público de provas, de acordo com a natureza e complexidade de suas atribuições e requisitos específicos para o exercício das atividades, que atenda aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência.
+
+
+§ 1º
+
+A Secretaria Municipal de Saúde deverá certificar, em cada caso, a existência de anterior processo de seleção pública, para efeito da dispensa referida no parágrafo único do art. 2º da Emenda Constitucional nº 51, de 14 de fevereiro de 2006, considerando-se como tal aquele que tenha sido realizado com observância dos seguintes critérios mínimos:
+
+
+I –
+
+a observância do princípio da publicidade, mediante ampla divulgação do ato convocatório, ou das regras de seleção;
+
+
+II –
+
+a aplicação de prova escrita;
+
+
+III –
+
+observância estrita da ordem classificatória final por área, no caso dos Agentes Comunitários de Saúde.
+
+
+§ 2º
+
+A certificação deverá ser feita por comissão nomeada pelo Chefe do Poder Executivo composta por representantes da Secretaria Municipal de Saúde, do Conselho Municipal de Saúde, do Sindicato dos Trabalhadores na Saúde, Regional de Saúde/SES e do Órgão de Controle Interno do Município.
+
+
+§ 3º
+
+Certificados os processos seletivos anteriores para admissão de Agentes Comunitários de Saúde, os suplentes, remanescentes dos mesmos, serão considerados reservas técnicas.
+
+
+Art. 9º.
+
+O Município somente poderá rescindir unilateralmente o contrato do Agente Comunitário de Saúde ou do Agente de Combate às Endemias, na ocorrência de uma das seguintes hipóteses:
+
+
+I –
+
+prática de falta grave, dentre as enumeradas no art. 482 da Consolidação das Leis do Trabalho — CLT;
+
+
+II –
+
+acumulação ilegal de cargos, empregos ou funções públicas;
+
+
+III –
+
+necessidade de redução de quadro pessoal, por excesso de despesa, nos termos da Lei nº 9.801, de 14 de junho de 1999;
+
+
+IV –
+
+insuficiência de desempenho, apurada em procedimento no qual se assegurem pelo menos um recurso hierárquico dotado de efeito suspensivo, que será apreciado em 30 (trinta) dias, e o prévio conhecimento dos padrões mínimos exigidos para a continuidade da relação de emprego, obrigatoriamente estabelecidos de acordo com as peculiaridades das atividades exercidas.
+
+
+Parágrafo único
+
+No caso do Agente Comunitário de Saúde, o contrato também poderá ser rescindido unilateralmente na hipótese de não-atendimento ao disposto no inciso I do art. 5º desta Lei, ou em função de apresentação de declaração falsa de residência.
+
+
+Art. 10.
+
+Ficam criados 20 (vinte) empregos públicos de Agente de Combate às Endemias e 30 (trinta) empregos públicos de Agente Comunitário de Saúde, cuja despesa decorrente correrá por conta de dotação prevista no programa estabelecido pelo Ministério da Saúde do Governo Federal, através da transferência mensal pelo SIA/SUS, cabendo ao Município a contrapartida para complementação do Programa, referente à complementação salarial, 13º salário, férias e encargos.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.816, de 18 de fevereiro de 2013.
+
+
+§ 1º
+
+Cada agente perceberá a remuneração de R$.412,00 (quatrocentos e doze reais) por mês.
+
+
+§ 2º
+
+A remuneração dos agentes será reajustada e/ou revisada na mesma época e de acordo com os mesmos índices aplicados na remuneração e/ou revisão dos servidores públicos efetivos do Município.
+
+
+§ 3º
+
+O Departamento de Recursos Humanos, em até 30 (trinta) dias, promoverá o enquadramento do pessoal de que trata o parágrafo 1º do art. 8º desta Lei nos cargos e na remuneração deste artigo.
+
+
+Art. 11.
+
+Fica vedada a contratação temporária ou terceirizada de Agentes Comunitários de Saúde e de Agentes de Combate às Endemias, salvo na hipótese de combate a surtos endêmicos, na forma da lei aplicável.
+
+
+Art. 12.
+
+Os profissionais que até 12 de junho de 2006, data de publicação da Medida Provisória nº 297, exerciam atividades próprias de Agente Comunitário de Saúde e Agente de Combate às Endemias, não investidos em cargo ou emprego público e não alcançados pelo disposto no parágrafo 1º do art. 8º desta Lei poderão permanecer no exercício destas atividades, até que seja concluída a realização de processo seletivo público pelo Município, que deverá ocorrer até 31 de dezembro de 2006.
+
+
+Art. 13.
+
+Os empregos públicos criados por essa Lei serão extintos, quando terminar o repasse mensal dos recursos oriundos do Ministério da Saúde para os Programas de Agente Comunitário de Saúde e de Agente de Combate às Endemias.
+
+
+Art. 14.
+
+As despesas decorrentes da criação dos empregos públicos a que se refere esta Lei correrão por conta de dotação prevista no programa estabelecido pelo Ministério da Saúde do Governo Federal, por meio de transferência mensal pelo SIA/SUS, cabendo ao Município a contrapartida para complementação do Programa, referente à complementação salarial, 13º salário, férias e encargos, consignadas no Orçamento do Município.
+
+
+Art. 15.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a regulamentar, por Decreto, a presente Lei.
+
+
+Art. 16.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito de Caçu, Estado de Goiás, em 16 de novembro de 2006.
+
+**GILMAR JOSÉ DE FREITAS GUIMARÃES**
+
+**Prefeito**
+

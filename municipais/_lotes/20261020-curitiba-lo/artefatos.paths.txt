@@ -1,0 +1,10 @@
+municipais/_fonte/capitais/curitiba/captura-63d8488d93187c08dfca.bin
+municipais/_fonte/capitais/curitiba/captura-63d8488d93187c08dfca.json
+municipais/_lotes/20261020-curitiba-lo/auditoria-municipal.json
+municipais/_lotes/20261020-curitiba-lo/bloco-alterado.html
+municipais/_lotes/20261020-curitiba-lo/colisoes.json
+municipais/_lotes/20261020-curitiba-lo/historico-tachado.json
+municipais/_lotes/20261020-curitiba-lo/manifesto.json
+municipais/_lotes/20261020-curitiba-lo/normas.paths.txt
+scripts/converter_organica_curitiba.py
+scripts/test_organica_curitiba.py

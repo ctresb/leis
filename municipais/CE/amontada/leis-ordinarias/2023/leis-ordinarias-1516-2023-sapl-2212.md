@@ -1,0 +1,273 @@
+---
+titulo: "Lei nº 1.516, de 11 de setembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1516"
+data: "2023-09-11"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2026-03-09; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/2212"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/735/text"
+sha256_fonte: "b264880698cf49e1a3a82430c5f2fd1f19dd3f2cf695e662a79602bc22975ac3"
+sha256_texto: "dca92c20e1cb0dbf31207b08f6205c5034bcb0ee0a980b54aea801948d1cd11d"
+capturado_em_fonte: "2026-10-21T05:57:21.050263-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.516, de 11 de setembro de 2023
+
+Autoriza o Poder Executivo Municipal a conceder bolsas de estudo, até o limite de valor que especifica, diretamente aos professores efetivos da rede pública municipal de ensino, objetivando o cumprimento de metas do Plano Nacional de Educação, Lei Federal nº 13.005, 24 de junho de 2014, e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ**.
+
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal, autorizado a conceder bolsas de estudo para formação de professores para a educação básica, que visem:
+
+
+I –
+
+a formação inicial em serviço para professores da educação básica ainda não titulados, em nível superior;
+
+
+II –
+
+a formação para professores a título de 2ª (segunda) graduação em curso de licenciatura na área de conhecimento em que atuam;
+
+
+III –
+
+a formação para professores a título de pós-graduação, em nível lato sensu e stricto sensu (mestrado e doutorado), na área de educação ou em áreas diretamente relacionadas à atuação na educação básica, em instituições de ensino superior reconhecidas e autorizadas pelo Ministério da Educação - MEC.
+
+Alteração feita pelo Art. 2º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+§ 1º
+
+Poderão pleitear as bolsas de que trata o caput deste artigo, os professores que estiverem em efetivo exercício no magistério da rede pública de ensino e que comprovem matrícula em instituição de nível superior, obedecidos os requisitos dos incisos I, II e III do caput deste artigo;
+
+
+§ 2º
+
+É vedada a cumulação ou concessão de mais de uma bolsa de estudo de que trata esta Lei.
+
+
+§ 3º
+
+As bolsas terão caráter exclusivamente indenizatório, com fins de ressarcimento integral ou parcial dos valores despendidos com o pagamento de mensalidade em instituições de ensino particulares, vedada a cumulação ou concessão de mais de uma bolsa de estudo de que trata esta Lei.
+
+
+§ 4º
+
+Não se admitirá, sob qualquer forma, a concessão de bolsa para professores matriculados em instituições públicas de ensino superior.
+
+
+Art. 2º.
+
+As bolsas previstas no art. 1º desta Lei serão concedidas até o valor de 100% (cem por cento) da mensalidade da instituição de ensino superior reconhecida e autorizada pelo MEC, ficando definido que o valor em moeda nacional será fixado através de Decreto Municipal, podendo sofrer reajuste no decorrer do período do curso.
+
+
+§ 1º
+
+O período de duração das bolsas será limitado à duração do curso ao qual o professor estiver vinculado.
+
+
+§ 2º
+
+O nome do servidor beneficiado com a bolsa de estudo será indicado por Portaria do Titular da Secretaria Municipal de Educação.
+
+
+§ 3º
+
+O período de tempo que o servidor fará jus a gratificação em forma de bolsa de estudo será indicada na Portaria de concessão do Titular da Secretaria Municipal de Educação.
+
+
+Art. 2º-A.
+
+Nos casos de concessão de bolsa de estudo para cursos de pós-graduação stricto sensu, o Poder Executivo Municipal poderá efetuar o pagamento do benefício diretamente à instituição de ensino superior, como forma de execução financeira da bolsa concedida ao servidor beneficiário.
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+§ 1º
+
+O pagamento direto à instituição de ensino superior de que trata o caput:
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+I –
+
+não caracteriza contratação de serviços educacionais pelo Município;
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+II –
+
+não implica celebração de convênio, parceria ou instrumento congênere com a instituição de ensino;
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+III –
+
+constitui mera quitação de despesa educacional individual vinculada ao servidor beneficiário, nos termos desta Lei.
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+§ 2º
+
+O pagamento direto ficará condicionado, no mínimo, à:
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+I –
+
+comprovação de matrícula ativa do servidor beneficiário no curso de pós-graduação stricto sensu;
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+II –
+
+comprovação periódica de frequência e/ou desempenho acadêmico satisfatório, na forma estabelecida em regulamento;
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+III –
+
+apresentação de documento fiscal idôneo ou documento equivalente emitido pela instituição de ensino superior, com identificação do beneficiário e da competência;
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+IV –
+
+assinatura, pelo servidor beneficiário, de termo de compromisso e de autorização expressa para o pagamento direto, inclusive para o compartilhamento das informações acadêmicas estritamente necessárias à fiscalização da correta aplicação dos recursos públicos.
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+§ 3º
+
+O disposto neste artigo aplica-se exclusivamente às bolsas de estudo destinadas a cursos de pós-graduação stricto sensu, permanecendo inalterada a forma de pagamento das bolsas relativas aos cursos de pós-graduação lato sensu.
+
+Inclusão feita pelo Art. 3º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+Art. 3º.
+
+A bolsa de estudo concedida poderá ser revogada em qualquer tempo por portaria do Titular da Secretaria Municipal de Educação, quando o beneficiário incorrer nas situações seguintes:
+
+
+I –
+
+abandono do curso;
+
+
+II –
+
+atraso no pagamento da parcela da mensalidade de responsabilidade do bolsista, nos casos de bolsas destinadas à cursos de pós-graduação lato sensu.
+
+Alteração feita pelo Art. 4º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+III –
+
+estar sendo beneficiado por outro programa de bolsa;
+
+
+IV –
+
+não cumprir com a frequência mínima exigida pela lnstituição de ensino realizadora do curso.
+
+
+§ 1º
+
+Considera-se frequência regular, o comparecimento mínimo a 90% (noventa por cento) das aulas na disciplina do curso, salvo por faltas justificadas a acolhidas pela instituição de ensino.
+
+
+§ 2º
+
+Ocorrendo atraso no pagamento das mensalidades nos casos de bolsas destinadas a cursos de pós-graduação lato sensu, será concedido ao professor o prazo de 5 (cinco) dias úteis para regularização, antes do cancelamento do benefício.
+
+Alteração feita pelo Art. 5º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+§ 3º
+
+O professor beneficiário deverá assinar termo de autorização, dirigido à instituição de ensino superior, possibilitando ao Município colher perante à mesma, as informações necessárias à comprovação do quanto estabelecido no caput neste artigo, podendo inclusive, solicitar perante a instituição, o envio dos relatórios de que trata o caput deste artigo.
+
+
+Art. 4º.
+
+Para a concessão de bolsas, os beneficiários deverão cumprir as seguintes exigências:
+
+
+I –
+
+comprovar que pertence ao quadro permanente de professor da rede pública de ensino do Município de Amontada e está realizando atividade pedagógica na escola pública municipal;
+
+
+II –
+
+não está em estágio probatório;
+
+
+III –
+
+continuar atuando, por um período não inferior a 4 (quatro) anos após a certificação, como Professor da Rede Pública do Município de Amontada, desenvolvendo, além das atividades docentes, outros trabalhos em temas de interesse público visando à melhoria da qualidade da Educação Básica, nas escolas públicas a que estiver vinculado;
+
+
+IV –
+
+assinar o Termo de compromisso do Bolsista sem rasuras e/ou alterações.
+
+
+Art. 4º-A.
+
+O servidor beneficiário de bolsa de estudo para cursos de pós-graduação stricto sensu, compromete-se a permanecer em efetivo exercício na rede pública municipal de ensino, pelo prazo mínimo de 4 (quatro) anos após a conclusão do curso, sob pena de ressarcimento proporcional dos valores custeados pelo Município, assegurados o contraditório e a ampla defesa.
+
+Inclusão feita pelo Art. 6º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+Art. 5º.
+
+O valor financeiro pago a título de bolsa de estudo não se incorpora ao vencimento ou salário do servidor para qualquer efeito e não poderá ser utilizada como base de cálculo para quaisquer outras vantagens, inclusive para fins de cálculo dos proventos da aposentadoria e das pensões.
+
+
+Parágrafo único
+
+Os valores pagos a título de bolsa de estudo, nos termos desta Lei, possuem natureza exclusivamente indenizatória e educacional, não constituem remuneração, vencimento, salário ou vantagem de qualquer natureza, não se incorporam à remuneração do servidor, e não sofrem incidência de contribuição previdenciária, nem de imposto de renda, nos termos da legislação federal e municipal aplicável.
+
+Inclusão feita pelo Art. 7º. - Lei nº 1.741, de 09 de março de 2026.
+
+
+Art. 6º.
+
+As despesas com a execução das ações previstas nesta Lei correrão por conta de dotações orçamentárias específicas da Secretaria de Educação, especialmente do FUNDEB, ficando o Poder Executivo autorizado a realizar as suplementações que se fizerem necessárias.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**Paço da Prefeitura Municipal de Amontada,** em 11 de setembro de 2023.
+
+**Flávio César Bruno Texeira Filho**  
+Prefeito do Município de Amontada
+

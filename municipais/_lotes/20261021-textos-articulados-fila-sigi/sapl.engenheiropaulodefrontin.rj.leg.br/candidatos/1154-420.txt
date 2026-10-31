@@ -1,0 +1,36 @@
+Autoriza a abertura de Crédito Adicional Suplementar ao Orçamento Vigente
+
+
+A CÂMARA MUNICIPAL DE ENG. PAULO DE FRONTIN aprova e eu, José Emmanuel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte
+
+
+Art. 1º.
+
+Fica aberto crédito adicional suplementar ao orçamento vigente, no valor de R$ 1.624.260,81 (hum milhão, seiscentos e vinte e quatro mil, duzentos e sessenta reais e oitenta e um centavos), para reforço das seguintes dotações:
+
+
+<table><colgroup><col span="6"><col><col></colgroup><tbody><tr><td><strong>Órgão</strong> </td><td><strong>Unid</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Programas</strong> </td><td><strong>Proj/Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Valor (R$)</strong></td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.1.90.11.00.00.00.00.0100 </td><td>348.225,83</td></tr><tr><td>3</td><td>1</td><td>10</td><td>122</td><td>3001</td><td>2301</td><td>3.1.90.13.00.00.00.00.0100 </td><td>555.100,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2304</td><td>3.1.90.11.00.00.00.00.0201 </td><td>104.908,47</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2308</td><td>3.1.90.11.00.00.00.00.0201 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2338</td><td>3.3.90.39.00.00.00.00.0203 </td><td>9.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.1.90.11.00.00.00.00.0203 </td><td>111.823,63</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.39.00.00.00.00.0203 </td><td>395.202,88</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Os recursos orçamentários para dar cobertura ao crédito adicional suplementar são advindos da anulação das despesas das categorias econômicas, com fulcro no artigo 43, §1º, inciso III da Lei 4.320/64, como segue:
+
+
+<table><colgroup><col span="6"><col><col></colgroup><tbody><tr><td><strong>Órgão</strong> </td><td><strong>Unid</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Programas</strong> </td><td><strong>Proj/Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Valor (R$)</strong></td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2304</td><td>3.1.90.11.00.00.00.00.0100 </td><td>320.487,03</td></tr><tr><td>3</td><td>1</td><td>10</td><td>305</td><td>3006</td><td>2314</td><td>3.1.90.11.00.00.00.00.0000 </td><td>27.738,80</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2304</td><td>3.1.90.13.00.00.00.00.0100 </td><td>200.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2306</td><td>3.1.90.13.00.00.00.00.0100 </td><td>30.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2307</td><td>3.1.90.13.00.00.00.00.0100 </td><td>20.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2310</td><td>3.1.90.13.00.00.00.00.0100 </td><td>20.100,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2311</td><td>3.1.90.13.00.00.00.00.0100 </td><td>50.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>304</td><td>3006</td><td>2313</td><td>3.1.90.13.00.00.00.00.0000 </td><td>40.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>305</td><td>3003</td><td>2305</td><td>3.1.90.13.00.00.00.00.0100 </td><td>75.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>305</td><td>3006</td><td>2314</td><td>3.1.90.13.00.00.00.00.0000 </td><td>20.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2309</td><td>3.1.90.13.00.00.00.00.0000 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2304</td><td>3.3.90.39.00.00.00.00.0201 </td><td>4.908,47</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2329</td><td>4.4.90.52.00.00.00.00.0202 </td><td>100.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2308</td><td>3.3.90.30.00.00.00.00.0201 </td><td>30.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2308</td><td>3.3.90.32.00.00.00.00.0201 </td><td>25.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2308</td><td>3.3.90.39.00.00.00.00.0201 </td><td>20.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2308</td><td>3.3.90.92.00.00.00.00.0201 </td><td>11,67</td></tr><tr><td>3</td><td>1</td><td>10</td><td>301</td><td>3003</td><td>2308</td><td>4.4.90.52.00.00.00.00.0202 </td><td>24.988,33</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2338</td><td>3.3.90.39.00.00.00.00.0203 </td><td>9.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.30.00.00.00.00.0203 </td><td>120.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.30.00.00.00.00.0201 </td><td>130.000,00</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.32.00.00.00.00.0203 </td><td>111.823,63</td></tr><tr><td>3</td><td>1</td><td>10</td><td>302</td><td>3004</td><td>2372</td><td>3.3.90.32.00.00.00.00.0201 </td><td>145.202,88</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica autorizado a abertura de crédito suplementar, através de Decreto do Executivo para utilização do referido.
+
+
+Art. 4º.
+
+Esta Lei produzirá seus efeitos a contar de sua publicação.
+
+
+Eng. Paulo de Frontin, 28 de setembro de 2021.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal

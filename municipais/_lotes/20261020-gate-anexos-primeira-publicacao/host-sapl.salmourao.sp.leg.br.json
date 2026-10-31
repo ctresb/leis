@@ -1,0 +1,246 @@
+{
+  "host": "sapl.salmourao.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/memorial_spa_571_294.pdf da norma Lei nº 1.138, de 14 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Memorial SPA 571-294",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2018/1/memorial_spa_571_294.pdf",
+      "ano": 2018,
+      "norma": 528
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/planta_de_acesso_-_salmourao_4_1.pdf da norma Lei nº 1.138, de 14 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Planta do Acesso",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2018/2/planta_de_acesso_-_salmourao_4_1.pdf",
+      "ano": 2018,
+      "norma": 528
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/aenxo_alteracoes_ppa_ldo_2019.pdf da norma Lei nº 1.141, de 12 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo de Alterações da LDO/2019 e do PPA 2018-2021",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2018/3/aenxo_alteracoes_ppa_ldo_2019.pdf",
+      "ano": 2018,
+      "norma": 532
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/anexo_loa_2019.pdf da norma Lei nº 1.141, de 12 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Anexos Lei Orçamentária 2019",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2018/4/anexo_loa_2019.pdf",
+      "ano": 2018,
+      "norma": 532
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/descritivo_do_desdobre_3.pdf da norma Lei nº 1.142, de 12 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Descritivo de Desdobre",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2018/5/descritivo_do_desdobre_3.pdf",
+      "ano": 2018,
+      "norma": 533
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/projeto_de_desdobre_plotar-model.pdf da norma Lei nº 1.142, de 12 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Desdobre",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2018/6/projeto_de_desdobre_plotar-model.pdf",
+      "ano": 2018,
+      "norma": 533
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/minuta_convenio_aja.pdf da norma Lei nº 1.149, de 02 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Minuta do Convênio",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2019/7/minuta_convenio_aja.pdf",
+      "ano": 2019,
+      "norma": 566
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/8/pmgirs_salmourao_final_2017.pdf da norma Lei nº 1.085, de 30 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Plano de Gestão de Resíduos Sólidos",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2017/8/pmgirs_salmourao_final_2017.pdf",
+      "ano": 2017,
+      "norma": 456
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/anexos_ldo.pdf da norma Lei nº 1.192, de 17 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexos Lei de Diretrizes Orçamentárias - Alteração",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2020/9/anexos_ldo.pdf",
+      "ano": 2020,
+      "norma": 662
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/10/anexos_ppa.pdf da norma Lei nº 1.192, de 17 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo Plano Plurianual - Alteração",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2020/10/anexos_ppa.pdf",
+      "ano": 2020,
+      "norma": 662
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/11/anexos_loa.pdf da norma Lei nº 1.192, de 17 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexos Lei Orçamentária Municipal",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2020/11/anexos_loa.pdf",
+      "ano": 2020,
+      "norma": 662
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/12/doc_397201284.pdf da norma Lei nº 1.202, de 08 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Despacho de suspensão da Lei nº 1.202 - ADI 2273958-69.2021.8.26.0000",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2021/12/doc_397201284.pdf",
+      "ano": 2021,
+      "norma": 692
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/13/anexo_i_-_lei_complementar_no_09_-_2006.pdf da norma Lei Complementar nº 9, de 17 de fevereiro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2006/13/anexo_i_-_lei_complementar_no_09_-_2006.pdf",
+      "ano": 2006,
+      "norma": 73
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/14/24_-_parecer_juridico__acao_inconstitucionalidade.pdf da norma Lei nº 1.202, de 08 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Parecer Jurídico",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2021/14/24_-_parecer_juridico__acao_inconstitucionalidade.pdf",
+      "ano": 2021,
+      "norma": 692
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/15/adi_2273958_lei_mun_1202_inconstitucionalidade.pdf da norma Lei nº 1.202, de 08 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "ADI - 2273958-69.2021.8.26.0000",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2021/15/adi_2273958_lei_mun_1202_inconstitucionalidade.pdf",
+      "ano": 2021,
+      "norma": 692
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/anexos_unificados_loa.pdf da norma Lei nº 1.318, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Anexos LOA",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2025/16/anexos_unificados_loa.pdf",
+      "ano": 2025,
+      "norma": 956
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/17/unificados_ldo_loa.pdf da norma Lei nº 1.318, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA referente alterações nos anexos do PPA e da LDO",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2025/17/unificados_ldo_loa.pdf",
+      "ano": 2025,
+      "norma": 956
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/18/emendas_imp_arqunico.pdf da norma Lei nº 1.318, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Emendas Impositivas apresentadas pelos Senhores Vereadores",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2025/18/emendas_imp_arqunico.pdf",
+      "ano": 2025,
+      "norma": 956
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/anexosloa.pdf da norma Lei nº 1.292, de 11 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2024/19/anexosloa.pdf",
+      "ano": 2024,
+      "norma": 895
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/20/anexo_v.pdf da norma Lei nº 1.292, de 11 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2024/20/anexo_v.pdf",
+      "ano": 2024,
+      "norma": 895
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/21/anexos_lei_ldo.pdf da norma Lei nº 1.286, de 05 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2024/21/anexos_lei_ldo.pdf",
+      "ano": 2024,
+      "norma": 882
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/anexos_ldo_unificados.pdf da norma Lei nº 1.313, de 11 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Anexos - já com as alterações feitas pela LOA",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2025/22/anexos_ldo_unificados.pdf",
+      "ano": 2025,
+      "norma": 945
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/anexos_ppa_unificados.pdf da norma Lei nº 1.312, de 11 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Já com as alterações feitas pela LOA",
+      "anexo_arquivo": "http://sapl.salmourao.sp.leg.br/media/sapl/public/anexonormajuridica/2025/23/anexos_ppa_unificados.pdf",
+      "ano": 2025,
+      "norma": 944
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.salmourao.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.salmourao.sp.leg.br/67a9bc696a8c2b3c3fb4a26a48bbcffa506fa8ee681976ffaf6b2a425bbf121f.json",
+      "sha256": "e8060cce17f345cba35980e02d039118b6b70df5fdf6121366697e822ae72d50",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.salmourao.sp.leg.br/67a9bc696a8c2b3c3fb4a26a48bbcffa506fa8ee681976ffaf6b2a425bbf121f.meta.json"
+    }
+  ],
+  "total": 23
+}

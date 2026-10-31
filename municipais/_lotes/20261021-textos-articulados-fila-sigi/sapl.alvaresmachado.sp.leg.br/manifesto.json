@@ -1,0 +1,42 @@
+{
+  "host": "sapl.alvaresmachado.sp.leg.br",
+  "metadados_unicos_observados": 78,
+  "total_api_declarado": 78,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 6,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvaresmachado.sp.leg.br/d37fd83328d9d98a730a118f0b6f35a0fb5745b09fbe042875712b23839766e1.json",
+    "url": "https://sapl.alvaresmachado.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.alvaresmachado.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3e7b48cb3b97f779233b9c1d4450c490b7eda33c59e3a2397ec95b41d8ac87a3",
+    "bytes": 1676,
+    "capturado_em": "2026-10-21T05:34:19.332447-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvaresmachado.sp.leg.br/fa689e46e1a293ebdd570a2803f203ebe41ac0c68d4ea4de8b87162eb3241e67.json",
+    "url": "https://sapl.alvaresmachado.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.alvaresmachado.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "cc3cb7933c30bd2242c8164136c65c8c441ca948b8c80b7c4a5dbfcc7cb616bb",
+    "bytes": 890,
+    "capturado_em": "2026-10-21T05:34:18.324466-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvaresmachado.sp.leg.br/3de6a3b0d517bae22f5db1b0aa71dcbcb2e51feebb20e9987409f664e1888184.json",
+      "url": "https://sapl.alvaresmachado.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.alvaresmachado.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2711a2eecb154bb80bb3ef74dd1b94cbfc4dc5981d4b6ea99c9950c25734905b",
+      "bytes": 49395,
+      "capturado_em": "2026-10-21T05:34:21.912889-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

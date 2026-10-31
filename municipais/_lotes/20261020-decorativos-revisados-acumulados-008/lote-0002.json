@@ -1,0 +1,1079 @@
+{
+  "aprovados": [
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1797-2025-sapl-970.md",
+      "sha256": "1d4678ad5dc32341e3b51c9c77baa9ef3535ae5d7244af5017c9617762e19bac",
+      "sha256_fonte": "113f4fa9fc3436dfbc8f29df853efacaf7eaa7b5fbdbc6164341a8324985197e",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/970",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/113f4fa9fc3436dfbc8f29df853efacaf7eaa7b5fbdbc6164341a8324985197e/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1798-2025-sapl-971.md",
+      "sha256": "4287cf28a94d655be2c35da81cfacde31f5a64a56312b12dcafe48f470dfbbe6",
+      "sha256_fonte": "0f113069609bdcd8551c348453987adcf5132e1a925992b34f05b655a09d45e3",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/971",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0f113069609bdcd8551c348453987adcf5132e1a925992b34f05b655a09d45e3/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1799-2025-sapl-972.md",
+      "sha256": "f9a2a9c289305bf3a24647824579e09a1532dca3ed1622907048f210a9894752",
+      "sha256_fonte": "1352b410bd1f2ee9506ef6071367fbc056a703f19d3ba72f10972905c47487bc",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/972",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1352b410bd1f2ee9506ef6071367fbc056a703f19d3ba72f10972905c47487bc/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1800-2025-sapl-973.md",
+      "sha256": "77bc1a8ce254b65a9ec2f854ef7f04107be879904b309202e590c7d402ef1bd9",
+      "sha256_fonte": "51d4538010f212a9b78b970b2074adc01d1fe09ddb3cdcf06f777ed1964472ff",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/973",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "11",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/51d4538010f212a9b78b970b2074adc01d1fe09ddb3cdcf06f777ed1964472ff/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1801-2025-sapl-974.md",
+      "sha256": "487badda5e29c358fc5d889f532918770cac83ddfe73d94a74c1eb72943788e1",
+      "sha256_fonte": "dac7cf940da15c136ff974b8f1fae94a76ee7d28ef73847a401d092f0a185885",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/974",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/dac7cf940da15c136ff974b8f1fae94a76ee7d28ef73847a401d092f0a185885/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1803-2025-sapl-976.md",
+      "sha256": "4ddf2e4dc5f1bff75dc540f23dca28d66dd949bb90d71eb69d853b5fd2051637",
+      "sha256_fonte": "d264322496471ab79bffadaff9386c4c3608eb4223a976d6488646fb69478def",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/976",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "22",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d264322496471ab79bffadaff9386c4c3608eb4223a976d6488646fb69478def/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1804-2025-sapl-977.md",
+      "sha256": "36be871ddee133aac25bc4966e2bb6755c9f3a611097137186e2ed9ed8c868ca",
+      "sha256_fonte": "a33f0b0b7e9e055188b2da44e7436e55d3d0ba6c689a7934cf9459da3e0a4525",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/977",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "22",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a33f0b0b7e9e055188b2da44e7436e55d3d0ba6c689a7934cf9459da3e0a4525/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1806-2025-sapl-979.md",
+      "sha256": "8f35200bcc5e45bdd76085741a1aec459064fb085a115abc75beced2a8da6c96",
+      "sha256_fonte": "5772db0b17acd22843bbdd2ff100d4384d2304871effd55aa4a5e6d21305285f",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/979",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "33",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5772db0b17acd22843bbdd2ff100d4384d2304871effd55aa4a5e6d21305285f/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1807-2025-sapl-980.md",
+      "sha256": "af3dad004269c9344d7ad10364ff77691432c00b3180522a2033c160e81751ad",
+      "sha256_fonte": "a8c57e84e9326f0964773b0be0d5f5afe9afcffa859f1b77267048ea68874072",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/980",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a8c57e84e9326f0964773b0be0d5f5afe9afcffa859f1b77267048ea68874072/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1815-2025-sapl-989.md",
+      "sha256": "6a40945880ca5c1c43bc0f61e876203c856fa0dcd32c79c3452f563dcf1cb7c3",
+      "sha256_fonte": "d73cf994ef6922b9db4267f71a8612fe0bf112188911a99e78990785a8a109cc",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/989",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "33",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d73cf994ef6922b9db4267f71a8612fe0bf112188911a99e78990785a8a109cc/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1818-2025-sapl-991.md",
+      "sha256": "4d55682dd54a2089d6d41c1c66155b1a9ecb6cfcd792f172fdafbe774228f723",
+      "sha256_fonte": "d0bdb3a7ad6f54c5b08eaddbc45fe0bf18c075a4e77e3ad4f1ca97f3de76c8fb",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/991",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "29",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d0bdb3a7ad6f54c5b08eaddbc45fe0bf18c075a4e77e3ad4f1ca97f3de76c8fb/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1822-2025-sapl-995.md",
+      "sha256": "dff9e9b1f44b5d85626e669f932618439d5fd76ec00f1bef25cc7c165bda7b44",
+      "sha256_fonte": "9d00260a158513e2dfd4169bae84d93dfe5a0bf7dccd1c93155ef2fb0de155dc",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/995",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "29",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9d00260a158513e2dfd4169bae84d93dfe5a0bf7dccd1c93155ef2fb0de155dc/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1829-2025-sapl-1000.md",
+      "sha256": "e887dc5e315020e0624c5c4c4872655695094c7db29dc2f55dc82761d937a891",
+      "sha256_fonte": "60565e14282623d8c22ef41f6642ddc101ae98dad381bc557ebba6b903368e84",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1000",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "22",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/60565e14282623d8c22ef41f6642ddc101ae98dad381bc557ebba6b903368e84/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1836-2025-sapl-1006.md",
+      "sha256": "c63ca5b3d2bfbfde98d32cd9f9a96a1e9ee30525cc0b7309f81e4732ceaa69e0",
+      "sha256_fonte": "79d998a36fc805d303a1016214a3e828e1ea4c5b1f02cc84098ae6a0db5e4981",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1006",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "22",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/79d998a36fc805d303a1016214a3e828e1ea4c5b1f02cc84098ae6a0db5e4981/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1839-2025-sapl-1009.md",
+      "sha256": "b858871b8758fb815026f6ce17668b2a2e0485bd65fd12570414dd4617dd1332",
+      "sha256_fonte": "ac3f4a6378b5fad25055c4fcbcaccb2db1ab01657c7328571134c95a88db66a0",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1009",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ac3f4a6378b5fad25055c4fcbcaccb2db1ab01657c7328571134c95a88db66a0/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1840-2025-sapl-1010.md",
+      "sha256": "9e66675aa309a3569369d4339676991a9d8408618a25d8f46e1ac23014c18dce",
+      "sha256_fonte": "85fecc937a963efc16c0c6bf051c217c051bc5cb57540d7b34250d46c7467cea",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1010",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/85fecc937a963efc16c0c6bf051c217c051bc5cb57540d7b34250d46c7467cea/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1841-2025-sapl-1011.md",
+      "sha256": "53adb6943097ead3a742efddfff249910ee94d5be9223a998d1f51c98b9d597d",
+      "sha256_fonte": "94c32dc2074e0c0fe3a000ccf55da8d8cc256d6b31c2be3bb2d07b572651d9a4",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1011",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/94c32dc2074e0c0fe3a000ccf55da8d8cc256d6b31c2be3bb2d07b572651d9a4/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1842-2025-sapl-1012.md",
+      "sha256": "cb4f5163f24bc4f2790d0e3b9a4b9dade742b5bdd634ad6b59fc051496ebd22e",
+      "sha256_fonte": "ba5f275e12fdacf52421f637e2e6740445b89411af2128a2e8ca11908018e26b",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1012",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ba5f275e12fdacf52421f637e2e6740445b89411af2128a2e8ca11908018e26b/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1843-2025-sapl-1013.md",
+      "sha256": "7d2109074716b521fca071d2b9592ecc968370b52824c36d2b7d56d0888b56ea",
+      "sha256_fonte": "b6da7efb9b4ba71a86e0fca66e0136e8042aa01839c02c6a31b9d60b9283d049",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1013",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b6da7efb9b4ba71a86e0fca66e0136e8042aa01839c02c6a31b9d60b9283d049/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1844-2025-sapl-1014.md",
+      "sha256": "4a0f6ac22730ca6b427fbe90400b028cea29231e86b06335a072ea92dc8aa32e",
+      "sha256_fonte": "5577f21c01d1d419ad50279d9412d2ae4223b106234d770f859f3f8f6c4b571b",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1014",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5577f21c01d1d419ad50279d9412d2ae4223b106234d770f859f3f8f6c4b571b/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1845-2025-sapl-1015.md",
+      "sha256": "c9a3be7cf0edf43e090232ca73e99cc6c6507a22d4648bc922c2a2a440dab99e",
+      "sha256_fonte": "adb63352570fed9c5c4761f8bf7917bc740df6eebe746fef04ad5fd5c60095d0",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1015",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/adb63352570fed9c5c4761f8bf7917bc740df6eebe746fef04ad5fd5c60095d0/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1846-2025-sapl-1016.md",
+      "sha256": "9ba8d749bd8ed04d0d6a5624784b885d65ecd9e0c8af67fddcd71b8089cc6e3b",
+      "sha256_fonte": "b10828dff09bff04ad194ee458bc1668af44063591ed89804094b02da8391e2b",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1016",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b10828dff09bff04ad194ee458bc1668af44063591ed89804094b02da8391e2b/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1847-2025-sapl-1017.md",
+      "sha256": "bffc59f396de80831a15b2bc4109712eb50ae215b052060ec7d3facc1d8c114c",
+      "sha256_fonte": "41c1592081136bd802505d6ab29e1fd173bd63e4cefed4414226a1923e950157",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1017",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/41c1592081136bd802505d6ab29e1fd173bd63e4cefed4414226a1923e950157/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1848-2025-sapl-1018.md",
+      "sha256": "0f8de53b3700508f947f276691ff87969d5a115c564ae674323fbee4ed06557f",
+      "sha256_fonte": "8091e892c3328c71cf05809ec5df59b7ac0dcfac9f2f1d118ed8c7495e0deb69",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1018",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "26",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8091e892c3328c71cf05809ec5df59b7ac0dcfac9f2f1d118ed8c7495e0deb69/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1856-2025-sapl-1026.md",
+      "sha256": "cc6a08a00e485de21efc3b6f3596ef21575d29232c40a23f78ddcbbc7ea93d49",
+      "sha256_fonte": "9e831a972b51bbdcca7ac72f334a2a56f8edb9d5bdeda8c9b7e11560312cae7f",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1026",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "36",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9e831a972b51bbdcca7ac72f334a2a56f8edb9d5bdeda8c9b7e11560312cae7f/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1858-2025-sapl-1028.md",
+      "sha256": "a0133769b7cf0b39c2247f0fe8ce436a0822ded9d2c22eec6ea0df6132dae8ef",
+      "sha256_fonte": "4eb3da2333e1726ed0ed231d103ccac2ce5a4421275dd655d5ad1f2b408ec0fc",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1028",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "30",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4eb3da2333e1726ed0ed231d103ccac2ce5a4421275dd655d5ad1f2b408ec0fc/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1861-2025-sapl-1031.md",
+      "sha256": "e00a3094c89d0216fa2712e0ef3ed9d54b5a0959712f3d09f7e544b3ed09a093",
+      "sha256_fonte": "432e76688e65a2d75f1104bff47fe890a9e5f51378e01d4d655d94453610c598",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1031",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "33",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/432e76688e65a2d75f1104bff47fe890a9e5f51378e01d4d655d94453610c598/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1867-2025-sapl-1037.md",
+      "sha256": "75e2efc9ae838f48524cbc98f9a9d753dfd72ce16aa29da909f8dfdc179be72a",
+      "sha256_fonte": "483320366c2feabbf65dcad1958aa589f9d67447273ea2661ac9c585abb65c85",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1037",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "33",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/483320366c2feabbf65dcad1958aa589f9d67447273ea2661ac9c585abb65c85/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1870-2025-sapl-1038.md",
+      "sha256": "086f78806593de35c57aca7ba5b5e4fc02be20eb7b413efe06cd4c3ac652ea43",
+      "sha256_fonte": "7fe7ee5bc1ed8371a886e992aa6b9731575c4c2b15c44a340cca786c5051d9a7",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1038",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "34",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7fe7ee5bc1ed8371a886e992aa6b9731575c4c2b15c44a340cca786c5051d9a7/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1872-2025-sapl-1040.md",
+      "sha256": "3719cebd84fccfbeabfc1b06617933708d938616ddba061cb683a045decbdcb6",
+      "sha256_fonte": "031e2e2354afb94e37841ccf3326603621d0c85b5bc3baeafda1f7a7ed4eac89",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1040",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "22",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/031e2e2354afb94e37841ccf3326603621d0c85b5bc3baeafda1f7a7ed4eac89/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1873-2025-sapl-1041.md",
+      "sha256": "9af0f34aff03271bb09d967dc5d0a5abcfda305a251f282e32c583c7926acacb",
+      "sha256_fonte": "d19e91932fbc299299c19551fef55cb25d632d24f740717e90244b676446b481",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1041",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "33",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d19e91932fbc299299c19551fef55cb25d632d24f740717e90244b676446b481/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1879-2025-sapl-1044.md",
+      "sha256": "e97076440c9a2003498063aa3677fce4cc11f73d10913dd5c09bedb694dc280b",
+      "sha256_fonte": "30c43a252349bc20de6e157ae73ac8cb82df0b859696bd2da96bcdde2cf0f79d",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1044",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "34",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/30c43a252349bc20de6e157ae73ac8cb82df0b859696bd2da96bcdde2cf0f79d/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1880-2025-sapl-1045.md",
+      "sha256": "14a04f623bab1de3735a189124d2f1cc954b4bf4a1475d1ab5600a003dde57be",
+      "sha256_fonte": "cfdffd5e94258db68bec73a19300c4ab7b7efe214b1ab976c78582a31da33530",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1045",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "34",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/cfdffd5e94258db68bec73a19300c4ab7b7efe214b1ab976c78582a31da33530/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1881-2025-sapl-1046.md",
+      "sha256": "0e92fafe0762fa6941c5da2331b78e45111ac24ed80f3e8fa878e82888f7dba5",
+      "sha256_fonte": "37b44d553567fb60c324133cd1fd8fe6da37f47284bc47f0788e04c9094e1ec1",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1046",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "34",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/37b44d553567fb60c324133cd1fd8fe6da37f47284bc47f0788e04c9094e1ec1/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1882-2025-sapl-1047.md",
+      "sha256": "005a05485db32d29069e86a1f495d03c1ef9dd39b9545f7db14413b2068c8d14",
+      "sha256_fonte": "3bca4e13626086292b75ea3e6c7820a6cac0973d240d6d98d0d380b1535202d8",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1047",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "34",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3bca4e13626086292b75ea3e6c7820a6cac0973d240d6d98d0d380b1535202d8/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2025/leis-ordinarias-1883-2025-sapl-1048.md",
+      "sha256": "7eb648103708b22014cdcc68ab08537def09bdacbba39345e46e1f06a4331e49",
+      "sha256_fonte": "ce2da803a3ab95282c7502c92a6acb2286ef7d55970c9cdbf20c439243f78e73",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1048",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+          "object_id": [
+            "38",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ce2da803a3ab95282c7502c92a6acb2286ef7d55970c9cdbf20c439243f78e73/1/imagem-000.png",
+          "classificacao": "brasão ou sua máscara gráfica, sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1 933-2026-sapl-1088.md",
+      "sha256": "e6a0d0c15afee76c18e76feb9fd1a77103351df132e62c9e9edc1e8c9fa685b9",
+      "sha256_fonte": "e4933c281f0b2a224c427eaa48381d9861fe8287a79889e36cc78c6930552750",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1088",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e4933c281f0b2a224c427eaa48381d9861fe8287a79889e36cc78c6930552750/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1 940-2026-sapl-1108.md",
+      "sha256": "1fd90fac60102e2d28cf9c36b47f42354ac98d037fb43069a5c1b8eb87b97a2e",
+      "sha256_fonte": "beeba6aacfeb312ab9c4232348c4461c275797e5f21b7f8e2b1d31b1db49c4f1",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1108",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/beeba6aacfeb312ab9c4232348c4461c275797e5f21b7f8e2b1d31b1db49c4f1/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1 943-2026-sapl-1105.md",
+      "sha256": "136adef64129c2459f2ad4326801bd2b73927fe14f30c6711fac363d3a1fa8b2",
+      "sha256_fonte": "85acf04336ff53fe101351d45a7ff6e01c6fda60323620d5d1aa68e5679d2dd1",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1105",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/85acf04336ff53fe101351d45a7ff6e01c6fda60323620d5d1aa68e5679d2dd1/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1 944-2026-sapl-1104.md",
+      "sha256": "5dc1bbc3f43ad2d96855266700461e8c2f9caccaa56b6a5506d534c58d9d1087",
+      "sha256_fonte": "872614071753d7fcf9279536ca19fbdd89443da5d9337db4d4b500454aa6e8e1",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1104",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/872614071753d7fcf9279536ca19fbdd89443da5d9337db4d4b500454aa6e8e1/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1 945-2026-sapl-1103.md",
+      "sha256": "72415bc76b90632a2dc3f98e937dd47ddea0bb8eeb42a96bfbc4a33cb73ed8e0",
+      "sha256_fonte": "22d0142219263f5ef98baf86a416fd171d4f93742c1104be229b4451d178a08c",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1103",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/22d0142219263f5ef98baf86a416fd171d4f93742c1104be229b4451d178a08c/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1 948-2026-sapl-1100.md",
+      "sha256": "2586f02412ab7be00b7fff3f09eb3616857f86e16f15bda4e5cf98ead5dbd5a9",
+      "sha256_fonte": "32aa716992d7ab16bdb8d2f53c6b27866e82a7705bc652401d2b20013aeace21",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1100",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/32aa716992d7ab16bdb8d2f53c6b27866e82a7705bc652401d2b20013aeace21/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1905-2026-sapl-413.md",
+      "sha256": "8a8d6fe491873c8f14f3ea3e23dab0b6c23373707face42ba8ee6de711435f30",
+      "sha256_fonte": "fdbdeb1b10a8b5f428ffeb6a5e7b7d2c3c42a3c8a2b72109aa78eda63586192c",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/413",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/fdbdeb1b10a8b5f428ffeb6a5e7b7d2c3c42a3c8a2b72109aa78eda63586192c/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1906-2026-sapl-414.md",
+      "sha256": "b7b9375cec59535c51531e90a7cceb68d534ddab361825e3fec596688a27e8ca",
+      "sha256_fonte": "6dd69c60ce72e00d1c6b1df256059e60ec41abbee41154be65fbacea3d8748cc",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/414",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6dd69c60ce72e00d1c6b1df256059e60ec41abbee41154be65fbacea3d8748cc/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1908-2026-sapl-416.md",
+      "sha256": "e94df0f71362579bb1579fcffc0ff198a36b9a405805d4dda4cfe71a5300561a",
+      "sha256_fonte": "0690f4d0a29dca03d3ff7c589aec21063215174f3c58f80133a6960e7a33986a",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/416",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0690f4d0a29dca03d3ff7c589aec21063215174f3c58f80133a6960e7a33986a/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1910-2026-sapl-383.md",
+      "sha256": "b8130832ca9b44894712668a936155dfd1ca597d80f8aed5ca399a67697929eb",
+      "sha256_fonte": "e53510d0958a3a06e8ba502d8352e9071f177cf3c9c443c2507032b9199d1f55",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/383",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e53510d0958a3a06e8ba502d8352e9071f177cf3c9c443c2507032b9199d1f55/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1912-2026-sapl-385.md",
+      "sha256": "e590fe259f29e8cca39220419b58e5335ddb3b8a891a83ffde581cbed9902920",
+      "sha256_fonte": "8cc9f8f14918c07c82456f94f3e30d777665c4ccbcad14a008492e9268b1a226",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/385",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8cc9f8f14918c07c82456f94f3e30d777665c4ccbcad14a008492e9268b1a226/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1913-2026-sapl-386.md",
+      "sha256": "132f2fd33f374c9f6cedf111b9c1ef550c9dbdc1e771354a4c0138b4a74a7792",
+      "sha256_fonte": "88f8a7f06ffb5f036e3a044a7db46cb9966378777d10b03bf076ca98bdcc855f",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/386",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/88f8a7f06ffb5f036e3a044a7db46cb9966378777d10b03bf076ca98bdcc855f/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1918-2026-sapl-391.md",
+      "sha256": "47c61da75bf1ea3149c8e499ce26d321e1fc392ed934405e69ca1930cdd9bcc3",
+      "sha256_fonte": "602fcdecddda77a9c3ef764935007f5fbef206f2ad32bfd6eb251006c565d736",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/391",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/602fcdecddda77a9c3ef764935007f5fbef206f2ad32bfd6eb251006c565d736/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1919-2026-sapl-392.md",
+      "sha256": "b30c0968498ce3ac0aba2389c077b02b7ea6b93c0d1b148b7c3e3978229312a0",
+      "sha256_fonte": "d413409886513ef87b620d916a93c4c832e4edcf35529896fa12202beea13174",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/392",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "14",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d413409886513ef87b620d916a93c4c832e4edcf35529896fa12202beea13174/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1921-2026-sapl-11.md",
+      "sha256": "30a239d4714c635a3f5c1c94699ec40b6ba3779b09a45ea9e3ae8535cc60d1b8",
+      "sha256_fonte": "b913ebd72a89a6c5d287128d2e14adb150e328924634867c68d15896c48e4406",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/11",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b913ebd72a89a6c5d287128d2e14adb150e328924634867c68d15896c48e4406/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2026/leis-ordinarias-1926-2026-sapl-396.md",
+      "sha256": "e48b0b91b2139f995645aaf7dfa4705a33f49291a00444e0533ec21e3ac6541d",
+      "sha256_fonte": "10edba23414a21b715b13f2092e1bfff5ef89d82b80e18c0be6bfc45a8ee48cc",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/396",
+      "codigo_ibge": "4112801",
+      "imagens_revisadas": [
+        {
+          "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+          "object_id": [
+            "13",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/10edba23414a21b715b13f2092e1bfff5ef89d82b80e18c0be6bfc45a8ee48cc/1/imagem-000.png",
+          "classificacao": "brasão ou máscara gráfica de brasão sem redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    }
+  ],
+  "revisoes": [
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-001.json",
+      "sha256": "fda248217a17881532b3a38504759fe64a2c8fc3008e763510d8f8a60783bbd7"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-002.json",
+      "sha256": "e2f28987af747accb427b08292ebd19ad82536c2ca9fddd8a91e976e63525c2c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-003.json",
+      "sha256": "69ef08ece4c6140461e0102e39ccc97098a43a1e502eec837eda5fb9e7dc593f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-004.json",
+      "sha256": "b382bdae64405fcc0d0a14d35ca46c72fd6e683a6615faba943cbedfbbe3ce35"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-005.json",
+      "sha256": "a1b21f8dcdea5236d9c4ecc23ea69d19b885a76eac2e6aaa45d37f34cbd25f63"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-006.json",
+      "sha256": "3b076e68eb6fa16313f58643ef8fa057222cf5a6e90390a68908f3436e2e4c07"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-007.json",
+      "sha256": "4af20f13f8f1a5231e93b93343d8ded740ec82c83aea729cdb6c28a2f0b48bbe"
+    },
+    {
+      "path": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-008.json",
+      "sha256": "4709a32af0d453117578e5aac54f712ea711df32de4f2b19661c73d7b91b808a"
+    }
+  ],
+  "catalogo_sha256": "712573717d35712d2aedffc4e215f8237911135beb5dd313f35ba90b10aeffc3"
+}

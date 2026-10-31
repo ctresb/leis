@@ -1,0 +1,378 @@
+{
+  "estado": "indice_completo",
+  "total": 36,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/lei_1625_2018_decisao_liminar.pdf da norma Lei nº 1.625, de 05 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Decisão liminar",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2018/1/lei_1625_2018_decisao_liminar.pdf",
+      "ano": 2018,
+      "norma": 1114
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/de_005_2025_portaria_62_2025.pdf da norma Decreto Executivo nº 5, de 22 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Portaria nº 62/2025 - Nomeação da Comissão de Avaliação do processo seletivo interno para funções gratificadas do Decreto Executivo nº 05/2025.\r\nPublicada em 23/01/2025 no Diário Oficial Municipal (https://dosp.com.br/exibe_do.php?i=NTk4NTM5), pg. 10",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2025/3/de_005_2025_portaria_62_2025.pdf",
+      "ano": 2025,
+      "norma": 2326
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/de_005_2025_edital.pdf da norma Decreto Executivo nº 5, de 22 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Edital Processo Seletivo para gestores escolares da Rede Pública Municipal de Ensino\r\nPublicado em 23/01/2025 no Diário Oficial Municipal (https://dosp.com.br/exibe_do.php?i=NTk4NTM5), pg. 12",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2025/4/de_005_2025_edital.pdf",
+      "ano": 2025,
+      "norma": 2326
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/de_005_2025_portaria_98_2025.pdf da norma Decreto Executivo nº 5, de 22 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Portaria nº 98/2025 - Nomeação da Comissão de Avaliação do processo seletivo interno para funções gratificadas do Decreto Executivo nº 05/2025.\r\nPublicada em 14/02/2025 no Diário Oficial Municipal (https://dosp.com.br/exibe_do.php?i=NjEwMDA1), pg. 4",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2025/5/de_005_2025_portaria_98_2025.pdf",
+      "ano": 2025,
+      "norma": 2326
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/de_005_2025_portaria_138_2025.pdf da norma Decreto Executivo nº 5, de 22 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Portaria nº 138/2025 - Nomeação da Comissão de Avaliação do processo seletivo interno para funções gratificadas do Decreto Executivo nº 05/2025.\r\nPublicada em 24/04/2025 no Diário Oficial Municipal (https://dosp.com.br/exibe_do.php?i=NjQzMTcw), pg.10",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2025/6/de_005_2025_portaria_138_2025.pdf",
+      "ano": 2025,
+      "norma": 2326
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/ofr_077_2025.pdf da norma Decreto Executivo nº 39, de 17 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2025/7/ofr_077_2025.pdf",
+      "ano": 2025,
+      "norma": 2393
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/ri_cmmasb.pdf da norma Lei nº 1.978, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Regimento Interno do Conselho",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2025/8/ri_cmmasb.pdf",
+      "ano": 2025,
+      "norma": 2387
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/lei_2008_2025_infografico.pdf da norma Lei nº 2.008, de 05 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2025/9/lei_2008_2025_infografico.pdf",
+      "ano": 2025,
+      "norma": 2472
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/10/lei_2017_2026_info.pdf da norma Lei nº 2.017, de 21 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei.",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/10/lei_2017_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2490
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/11/lei_2019_2026_info.pdf da norma Lei nº 2.019, de 09 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/11/lei_2019_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2502
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/lei_2018_2026_info.pdf da norma Lei nº 2.018, de 09 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/12/lei_2018_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2501
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/13/lei_2021_2026_info.pdf da norma Lei nº 2.021, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/13/lei_2021_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2509
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/14/lei_2022_2026_info.pdf da norma Lei nº 2.022, de 18 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/14/lei_2022_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2512
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/15/lei_2023_2026_info.pdf da norma Lei nº 2.023, de 18 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/15/lei_2023_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2513
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/16/lei_2024_2026_info.pdf da norma Lei nº 2.024, de 02 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/16/lei_2024_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2517
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/17/lei_2020_2026_info.pdf da norma Lei nº 2.020, de 10 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/17/lei_2020_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2525
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/18/lei_2025_2026_info.pdf da norma Lei nº 2.025, de 24 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/18/lei_2025_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2526
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/19/lei_2026_2026_info.pdf da norma Lei nº 2.026, de 24 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/19/lei_2026_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2527
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/20/lei_2027_2026_info.pdf da norma Lei nº 2.027, de 24 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/20/lei_2027_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2528
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/21/lei_2028_2026_info.pdf da norma Lei nº 2.028, de 17 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/21/lei_2028_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2550
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/22/lei_2029_2026_info.pdf da norma Lei nº 2.029, de 17 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/22/lei_2029_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2551
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/23/lei_2030_2026_info.pdf da norma Lei nº 2.030, de 25 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/23/lei_2030_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2553
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/24/lei_2031_2026_info.pdf da norma Lei nº 2.031, de 25 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/24/lei_2031_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2554
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/25/lei_2032_2026_info.pdf da norma Lei nº 2.032, de 29 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/25/lei_2032_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2559
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/26/lei_2033_2026_info.pdf da norma Lei nº 2.033, de 29 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/26/lei_2033_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2560
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/27/lei_2034_2026_info.pdf da norma Lei nº 2.034, de 29 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/27/lei_2034_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2561
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/28/lei_2035_2026_info.pdf da norma Lei nº 2.035, de 04 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/28/lei_2035_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2563
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/lei_2039_2026_info.pdf da norma Lei nº 2.039, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/29/lei_2039_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2572
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/30/lei_2036_2026_info.pdf da norma Lei nº 2.036, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/30/lei_2036_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2574
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/31/lei_2037_2026_info.pdf da norma Lei nº 2.037, de 01 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/31/lei_2037_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2576
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/32/lei_2038_2026_info.pdf da norma Lei nº 2.038, de 01 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/32/lei_2038_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2577
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/33/lei_2040_2026_info.pdf da norma Lei nº 2.040, de 16 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/33/lei_2040_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2582
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/34/lei_2041_2026_info.pdf da norma Lei nº 2.041, de 16 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/34/lei_2041_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2583
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/35/lei_2042_2026_info.pdf da norma Lei nº 2.042, de 07 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da lei",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/35/lei_2042_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2589
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/36/lei_2043_2026_info.pdf da norma Lei nº 2.043, de 14 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei.",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/36/lei_2043_2026_info.pdf",
+      "ano": 2026,
+      "norma": 2594
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/37/lei_2044_2026_pub.pdf da norma Lei nº 2.044, de 14 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Infográfico da Lei.",
+      "anexo_arquivo": "http://sapl.cunha.sp.leg.br/media/sapl/public/anexonormajuridica/2026/37/lei_2044_2026_pub.pdf",
+      "ano": 2026,
+      "norma": 2595
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/880132c6b19583f5c007f1bb3721ae9b95ce4dc8468f5da50aaafdb96b27c3bc.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0716baed160f835f1c661ca6f879098db1984c6e02c803783aa6d80255b56577",
+      "bytes": 15324,
+      "capturado_em": "2026-10-28T09:34:04.803389-03:00"
+    }
+  ]
+}

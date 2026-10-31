@@ -1,0 +1,466 @@
+---
+titulo: "Lei Complementar nº 534, de 15 de maio de 2014"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "534"
+data: "2014-05-15"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2022-08-18; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/415"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/791/text"
+sha256_fonte: "50df88789300aa16859616adc120a4466b896488c6c6eac1e10f9359ed78e614"
+sha256_texto: "048edad15e58098121350d355f0600cad4cd4d5bb58309dd4f52762ced1d6acb"
+capturado_em_fonte: "2026-10-27T20:58:36.666194-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 534, de 15 de maio de 2014
+
+“Institui o Conselho Municipal de Promoção da Igualdade Racial – COMPIR”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe é conferida no inciso, III, do artigo 87, da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR**
+
+
+#### CAPÍTULO I — DA FINALIDADE E DA COMPETÊNCIA
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a instituir o Conselho Municipal de Promoção da Igualdade Racial – COMPIR, órgão colegiado de caráter consultivo, deliberativo, fiscalizador, controle social e articulador das políticas de promoção da igualdade racial nos termos desta lei complementar.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+Parágrafo único
+
+As atribuições conferidas ao Conselho de que trata esta lei complementar não eliminam as competências constitucionais dos Poderes Executivo e Legislativo.
+
+
+Art. 2º.
+
+O Conselho Municipal de Promoção da Igualde Racial – COMPIR, fica vinculado a Secretaria Municipal de Assistência Social e da Família – SEMASF, com a finalidade de deliberar, fiscalizar e exercer o controle social das políticas públicas de promoção da igualdade racial em seus programas, projetos e ações, assim como exercer a orientação normativa e consultiva sobre temáticas atinentes à igualdade racial, com o objetivo de combater o racismo, o preconceito e a discriminação racial e de reduzir as desigualdades raciais, inclusive no aspecto econômico e financeiro, político e cultural no município de Porto Velho.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+I –
+
+propor em âmbito municipal, políticas de promoção da igualdade racial com ênfase na população negra e outros segmentos étnicos da população do Município, com o objetivo de combater o racismo e a discriminação racial, desconstruir preconceitos e reduzir as desigualdades raciais, inclusive no aspecto econômico, financeiro, social, político e cultural;
+
+
+II –
+
+exercer o processo de controle social sobre as políticas de promoção da igualdade racial desenvolvidas pelo Município.
+
+
+Art. 3º.
+
+Ao COMPIR compete:
+
+
+I –
+
+participar na elaboração de critérios e parâmetros para a formulação e implementação de metas e prioridades para assegurar as condições de igualdade à população negra e de outros segmentos étnicos da população portovelhense;
+
+
+II –
+
+analisar e opinar sobre projetos de Lei e Decretos referentes aos direitos e à afirmação da população negra, bem como oferecer contribuições para o seu aperfeiçoamento;
+
+
+III –
+
+propor estratégias de acompanhamento, avaliação e fiscalização das políticas de promoção da igualdade racial, fomentando a inclusão da dimensão racial nas políticas públicas desenvolvidas no Município;
+
+
+IV –
+
+apresentar sugestões para a elaboração do planejamento plurianual do Governo Municipal, o estabelecimento de diretrizes orçamentárias e a alocação de recursos no Orçamento Anual do Município, visando subsidiar decisões governamentais relativas à implementação de ações de promoção da igualdade racial;
+
+
+V –
+
+propor a realização e acompanhar o processo organizativo das conferências municipal e/ou regional de promoção da igualdade racial, bem como participar de eventos que tratem de políticas públicas de interesse da população negra e de outros segmentos étnicos da população do Município;
+
+
+VI –
+
+acompanhar a implementação das deliberações das conferências de promoção da igualdade racial;
+
+
+VII –
+
+acompanhar, analisar e apresentar sugestões em relação ao desenvolvimento de programas e ações governamentais com vistas à implementação de ações de promoção da igualdade racial;
+
+
+VIII –
+
+articular-se com órgãos e entidades públicas ou privadas, especialmente aqueles que tenham como objetivo a promoção, o desenvolvimento e a implementação de ações de igualdade racial, objetivando ampliar a cooperação mútua e estabelecer estratégias comuns para a implementação da política de igualdade racial e o fortalecimento do processo de controle social;
+
+
+IX –
+
+zelar pelos direitos culturais da população negra e indígena, especialmente pela preservação da memória e das tradições africanas, afro-brasileiras e indígenas, bem como dos demais segmentos étnicos constitutivos da formação histórica e social do povo brasileiro;
+
+
+X –
+
+zelar, acompanhar e propor medidas de defesa de direitos de indivíduos e grupos étnico-raciais afetados por discriminação racial e demais formas de intolerância;
+
+
+XI –
+
+propor a atualização da legislação relacionada com as atividades de promoção da igualdade racial;
+
+
+XII –
+
+propor e contribuir para a realização de campanhas de informação sobre o combate ao racismo e à discriminação racial;
+
+
+XIII –
+
+manter intercâmbio com entidades e organizações, públicas e privadas, de pesquisa e demais atividades voltadas à questão da afirmação da comunidade negra e ao combate ao racismo;
+
+
+XIV –
+
+promover estudos e discussões sobre a inclusão de Capítulo específico sobre a valorização e o desenvolvimento da comunidade na Lei Orgânica do Município;
+
+
+XV –
+
+elaborar seu regimento interno e decidir sobre as alterações propostas por seus membros.
+
+
+XVI –
+
+Deliberar sobre a aplicação do Fundo Municipal de Promoção da Igualdade Racial;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+XVII –
+
+Receber e encaminhar aos órgãos competentes, denúncias, reclamações, violações de direitos humanos dos afrodescendentes;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+XVIII –
+
+Propor a criação de instrumentos legais que assegurem a participação qualificada do negro em todos os níveis e setores da administração municipal;
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+#### CAPÍTULO II — DA COMPOSIÇÃO E DO FUNCIONAMENTO
+
+
+Art. 4º.
+
+O COMPIR será composto de forma paritária por representantes do Poder Público Municipal e da Sociedade Civil, sendo uma cadeira para o titular e uma para o suplente, observando-se o seguinte:
+
+
+I –
+
+10 (dez) Representantes Governamentais:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+a)
+
+1 (um) representante da Secretaria Municipal de Assistência Social e da Família – SEMASF;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+b)
+
+1 (um) representante da Secretaria Municipal de Saúde – SEMUSA;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+c)
+
+1 (um) representante da Secretaria Municipal de Educação – SEMED;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+d)
+
+1 (um) representante da Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+e)
+
+01 (um) representante das instituições de ensino superior pública com unidade no Município de Porto Velho e que tenha atuação/atividade de extensão, ou pesquisa, ou ensino voltadas para promoção da Igualdade racial, a serem eleitos por processo eleitoral regulamentado por edital de chamamento;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+f)
+
+01 (um) representante da Secretaria Municipal de Indústria, Comércio, Turismo e Trabalho – SEMDESTUR;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+g)
+
+1 (um) representante da Fundação Cultural de Porto Velho – FUNCULTURAl;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+h)
+
+1 (um) representante da Câmara Municipal de Porto Velho – CMPV;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+i)
+
+01 (um) representante da Defensoria Pública do Estado de Rondônia – DPE/RO; e
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+j)
+
+01 (um) representante da Procuradoria Geral do Município de Porto Velho – PGM.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+II –
+
+10 (dez) Representantes Não-governamentais:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+a)
+
+01 (um) representante das instituições de ensino superior privada com unidade no Município de Porto Velho e que tenha atuação/atividade de extensão, ou pesquisa, ou ensino voltadas para promoção da Igualdade racial, a serem eleitos por processo eleitoral regulamentado por edital de chamamento;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+b)
+
+1 (um) representante da Ordem dos Advogados do Brasil – OAB/RO;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+c)
+
+05 (cinco) representantes de entidades da sociedade civil organizada, com atuação no Município de Porto Velho, que represente ou trabalhe com a temática racial, a serem eleitos por processo eleitoral regulamentado por edital de chamamento;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+d)
+
+1 (um) representante de instituição que representa as Comunidades Tradicionais de Terreiros;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+e)
+
+01 (um) representante de instituições das comunidades indígenas localizadas exclusivamente no Município de Porto Velho;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+g)
+
+1 (um) representante de entidade sindical que desenvolva trabalho com ênfase na temática voltado ao negro;
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+§ 1º
+
+Os representantes titulares e suplentes serão indicados pelos respectivos órgãos e entidades que compõem o Conselho e nomeados por Decreto do Prefeito do Município.
+
+
+§ 2º
+
+Os representantes das entidades não-governamentais, serão eleitos em assembléias dos respectivos segmentos, onde serão convocadas as entidades cadastradas na Secretária Executiva do Conselho.
+
+
+§ 3º
+
+O mandato dos integrantes do COMPIR será de dois anos, permitida reeleição.
+
+
+§ 4º
+
+O Presidente, Vice-Presidente e Secretário do COMPIR serão eleitos por seus membros, observando-se o disposto no seu regimento interno, podendo ser reconduzido por uma única vez.
+
+
+§ 5º
+
+Qualquer dos membros do Conselho poderão convidar personalidades e representantes de órgãos e entidades públicos e privados, dos Poderes Legislativo e Judiciário, bem como outros técnicos, sempre que da pauta constar temas de áreas de atuação.
+
+
+§ 6º
+
+Nos impedimentos, por motivos justificados, dos membros titulares, serão convocados os suplentes.
+
+
+§ 7º
+
+Para efeito de composição das vagas nas categorias do inciso II, Art. 4º desta Lei Complementar, alusivos aos representantes não-governamentais, fica facultada a redistribuição das citadas vagas entre as demais categorias existentes e atuantes no município, em caso de não acudirem instituições interessadas ou tais entidades não tenham representatividade e/ou atuação nos limites do município de Porto Velho.
+
+Inclusão feita pelo Art. 1º. - Lei Complementar nº 911, de 18 de agosto de 2022.
+
+
+Art. 5º.
+
+Os membros referidos no inciso II do art. 4º desta Lei Complementar poderão perder o mandato, antes do prazo de dois anos, nos seguintes casos:
+
+
+I –
+
+por renúncia;
+
+
+II –
+
+pela ausência imotivada em três reuniões consecutivas do COMPIR; e
+
+
+III –
+
+pela prática de ato incompatível com a função de conselheiro, por decisão da maioria absoluta dos membros do COMPIR.
+
+
+Art. 6º.
+
+O COMPIR formalizará suas deliberações por meio de resoluções, que serão publicadas no Diário Oficial do Município.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+
+Art. 7º.
+
+A organização do COMPIR será estabelecida por regimento interno, aprovado por dois terços de seus membros.
+
+
+Parágrafo único
+
+Para a alteração do regimento interno também deverá ser observado o quórum exigido pelo caput deste artigo.
+
+
+Art. 8º.
+
+O Conselho reunir-se-á, ordinariamente, uma vez por mês, na forma estabelecida em seu regimento interno e, em caráter extraordinário, sempre que convocado pelo seu Presidente, por iniciativa própria ou a requerimento de, pelo menos, 50% (cinquenta por cento) de seus membros titulares.
+
+
+Art. 9º.
+
+A participação nas atividades do COMPIR não será remunerada, mas será considerada como serviço público relevante.
+
+
+Art. 10.
+
+A designação dos membros do COMPIR para o primeiro mandato darse-á por ato do Prefeito Municipal, a ser publicado no prazo de noventa dias da data de publicação desta Lei Complementar.
+
+
+Art. 11.
+
+A Secretaria Municipal de Assistência Social e da Família – SEMASF, colocará à disposição do conselho os recursos humanos e materiais necessários ao seu funcionamento.
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+Art. 12.
+
+Fica constituído o Fundo Municipal de Promoção da Igualdade Racial, com a finalidade de apoiar com recursos financeiros a realização de trabalhos, pesquisas e projetos voltados ao desenvolvimento da comunidade negra, nas áreas da educação, saúde e cultura, dentre outras.
+
+
+Art. 13.
+
+O Fundo Municipal de Promoção da Igualdade Racial será constituído com os seguintes recursos:
+
+
+I –
+
+doações de pessoas físicas e jurídicas;
+
+
+II –
+
+5% (cinco por cento) dos recursos arrecadados em decorrência da aplicação das penas pelas práticas de crime de racismo. (Lei Federal Nº 7.716 de 5 de janeiro de 1989);
+
+
+III –
+
+doações orçamentárias;
+
+
+IV –
+
+outras receitas.
+
+
+Parágrafo único.
+
+O Fundo Municipal de Promoção da Igualdade Racial será gerido pela Secretaria Municipal de Assistência Social e da Família, porém, compete ao COMPIR deliberar sobre a aplicação dos recursos do fundo.
+
+Alteração feita pelo Art. 3º. - Lei Complementar nº 798, de 20 de dezembro de 2019.
+
+
+Art. 14.
+
+As despesas decorrentes da execução desta Lei Complementar correrão por conta de verbas próprias consignadas em Orçamento, suplementadas se necessário.
+
+
+Art. 15.
+
+Esta Lei Complementar entrará em vigor na data de sua publicação, revogadas as disposições em contrário, bem como a Lei Complementar Municipal n.º 168, de 18 de dezembro de 2003.
+
+
+**MAURO NAZIF RASUL**
+
+Prefeito
+
+**CARLOS DOBBIS**
+
+Procurador Geral do Município
+

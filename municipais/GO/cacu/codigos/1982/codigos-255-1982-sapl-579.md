@@ -1,0 +1,1087 @@
+---
+titulo: "Lei Ordinária nº 255, de 15 de fevereiro de 1982"
+tipo: "Código municipal"
+tipo_na_fonte: "Lei Ordinária"
+numero: "255"
+data: "1982-02-15"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1989-02-09; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/579"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/290/text"
+sha256_fonte: "291455958fceb78b0ba4ff53009c9c5a13ccb551a14cb28fae33af676d668976"
+sha256_texto: "8a3a09cf6ced44aef6304600f841c90952a0f1cc7f8ef585193d63e52a427d61"
+capturado_em_fonte: "2026-10-27T21:57:02.439933-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 255, de 15 de fevereiro de 1982
+
+Institui o Código de obras do Município de Caçu.
+
+
+**O PREFEITO MUNICIPAL DE CAÇU:**
+
+Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+#### CAPÍTULO I — Das Disposições Preliminares
+
+
+Art. 1º.
+
+Este Código disciplina toda construção, reconstrução, modificação ou demolição na zona urbana ou de expansão urbana do Município de Caçu.
+
+
+Art. 2º.
+
+Qualquer construção, reconstrução, modificação ou demolição só poderão ser iniciadas, dentro do perímetro urbano, após aprovação pela Prefeitura.
+
+
+Art. 3º.
+
+Para obter a aprovação de projetos de construção, reconstrução, modificação ou demolição, o interessado deverá apresentar à Prefeitura, em formatos padronizados pela Associação Brasileira de Normas Técnicas (ABNT) a seguinte documentação:
+
+
+I –
+
+Requerimento;
+
+
+II –
+
+Planta de locação;
+
+
+III –
+
+Título de propriedade do terreno ou equivalente;
+
+
+§ 1º
+
+O requerimento deverá conter:
+
+
+a)
+
+Assinatura do proprietário ou seu representante legal;
+
+
+b)
+
+Nome e endereço do proprietário;
+
+
+c)
+
+Local de obra, com a indicação da rua, quadra e lote;
+
+
+d)
+
+Natureza da obra;
+
+
+e)
+
+Área a ser construída, ampliada ou demolida;
+
+
+f)
+
+Autor do projeto.
+
+
+§ 2º
+
+A planta de locação será apresentada na escala 1:100 e contendo as seguintes informações gráficas:
+
+
+a)
+
+Dimensões e área do lote;
+
+
+b)
+
+Lotes limítrofes, com sua numeração;
+
+
+c)
+
+Posição da construção projetada, com os afastamentos das divisas;
+
+
+d)
+
+Edificações existentes no lote.
+
+
+§ 3º
+
+O projeto arquitetônico será apresentado em cópias heliográficas ou similares, devendo estas serem retidas pela Prefeitura, acompanhadas do original, observando as seguintes disposições:
+
+
+a)
+
+Planta de cada pavimento que comportar o edifício, devendo ser indicados em cada compartimento o seu destino e suas dimensões, inclusive área, na escala 1:50;
+
+
+b)
+
+Elevação da fachada ou fachadas voltadas para a via pública, com paredes de 0,25m de espessura na escala de 1:50;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 584, de 09 de fevereiro de 1989.
+
+
+c)
+
+Cortes transversal e longitudinal do edifício, pelas partes mais importantes, com as dimensões verticais, na escala 1:50;
+
+
+d)
+
+Planta de situação escala 1:1000;
+
+
+e)
+
+Planta de locação e cobertura;
+
+
+f)
+
+Memorial descritivo, evidenciando, pelo menos:
+
+
+1
+
+Natureza e local da obra;
+
+
+2
+
+Área do terreno;
+
+
+3
+
+Área total da construção;
+
+
+4
+
+Nome do proprietário e assinatura, ou de seu representante legal;
+
+
+5
+
+Nome do responsável pela execução do projeto de arquitetura e dos projetos complementares, assinatura, título e número da carteira profissional.
+
+
+§ 4º
+
+No caso de ampliação, reforma ou modificação, serão adotadas as seguintes convenções:
+
+
+a)
+
+Tinta vermelha: construção a ser executada;
+
+
+b)
+
+Tinta preta: construção a ser conservada;
+
+
+c)
+
+Tinta amarela: construção a ser demolida.
+
+
+§ 5º
+
+Os projetos e construções deverão ser executados por profissionais legalmente habilitados e devidamente inscritos no Conselho Regional de Engenharia, Arquitetura e Agronomia – CREA e na Prefeitura.
+
+
+§ 6º
+
+A Prefeitura recusará a aprovação de projetos que apresentarem deficiências técnicas, morais e sociais quanto ao conforto dos moradores, ou soluções estéticas inconvenientes à paisagem urbana.
+
+
+Art. 4º.
+
+Antes da aprovação, a Prefeitura deverá fazer a competente vistoria do local, para ver se atende as normas legais, a proceder ao seu competente alinhamento e nivelamento, desde que disponha de condições para isso.
+
+
+Parágrafo único
+
+Poderá o proprietário ou seu representante legal, requerer da Prefeitura a demarcação do imóvel e o fornecimento do CROQUIS.
+
+
+Art. 5º.
+
+quando se tratar de construções destinadas ao fabrico ou manipulação de gêneros alimentícios, frigoríficos ou matadouros, bem como estabelecimentos hospitalares e congêneres, deverá ser ouvida a autoridade sanitária competente, antes da aprovação pela Prefeitura.
+
+
+Art. 6º.
+
+Toda construção, reconstrução, acréscimos ou demolição só serão feitos após a licença expedida pela Prefeitura.
+
+
+§ 1º
+
+A licença dependerá da existência de um projeto aprovado, podendo ser requeridos, ao mesmo tempo, a aprovação do projeto e o alvará de licença para construção.
+
+
+§ 2º
+
+Se, depois de aprovado o projeto e expedido o alvará de licença para construção, houver alterações do mesmo, o interessado deverá requerer nova aprovação do projeto, evidenciando as mudanças.
+
+
+§ 3º
+
+As licenças de construção terão validade de um ano para o início das obras. Não acontecendo o início das abras nesse período, deverá ser requerida uma nova licença.
+
+
+Art. 7º.
+
+A Prefeitura poderá elaborar e fornecer projetos de construções residenciais populares, com dimensões máximas de 72m², a pessoas sem habitação própria, e de condição humilde, e que as requeiram, para sua moradia, ficando a construção dispensada de responsável técnico.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 274, de 03 de maio de 1983.
+
+
+Parágrafo único
+
+Os projetos das construções mencionados neste artigo, terão que ser elaborados e fiscalizados pelo engenheiro da Prefeitura.
+
+
+#### CAPÍTULO II — Dos Afastamentos
+
+
+Art. 8º.
+
+Todos os prédios a serem construídos ou reconstruídos nos terrenos residenciais deverão obedecer ao seguinte critério de afastamento:
+
+
+I –
+
+O afastamento mínimo nas divisas laterais, será de 1,5 m. podendo todavia ser até 1,0 m. desde que permitido pelo proprietário vizinho e declaração escrita e legalmente autenticada.
+
+
+II –
+
+As construções com finalidades de depósitos caseiros também deverão obedecer aos afastamentos laterais, estando isento apenas do afastamento do fundo, que poderá ser ocupado em seus limites;
+
+
+III –
+
+Em relação as vias públicas, os afastamentos serão de , no mínimo 3,0 m.
+
+
+Parágrafo único
+
+A Prefeitura poderá, em lei de zoneamento, delimitar locais em que as construções se façam sem afastamento.
+
+
+Art. 9º.
+
+Os prédios comerciais que ocuparem a testada do lote, deverão obedecer ao seguinte:
+
+
+I –
+
+É obrigatório possuir marquise, obedecendo o seguinte:
+
+
+a)
+
+não atingir a largura do passeio, sendo de 1,20 a 1,50m
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 274, de 03 de maio de 1983.
+
+
+b)
+
+Não apresentarem quaisquer de seus elementos, inclusive bambinelas fixas, abaixo da cota de três metros referida, ao nível do passeio salvo no caso de consolos os quais junto às paredes poderão ter essa cota reduzida a 2,50 m.;
+
+
+c)
+
+Não terem as bambinelas fixas, inclusive lambrequins, se houver, dimensão maior de 0,30 m., no sentido vertical;
+
+
+d)
+
+Não prejudicar a iluminação e a arborização pública e não ocultarem placas de nomenclatura e outras indicações oficiais nos logradouros;
+
+
+e)
+
+Serem construídas de material incombustível e resistente a ação de tempo;
+
+
+f)
+
+Terem, na face superior, caimento em direção a fachada do edifício junto a qual será convenientemente disposta a calha, provida de condutor para coletar e encaminhar as águas sob o passeio para a sarjeta do logradouro;
+
+
+g)
+
+Serem providas de cobertura protetora, quando revestidas de vidro frágil ou de outra matéria também frágil;
+
+
+h)
+
+Serem construídas até a linha de divisa das respectivas fachadas de modo a ser evitada qualquer solução de continuidade entre as marquises contíguas, ressalvados casos especiais e os previstos por este Código;
+
+
+II –
+
+É proibido despejar as águas as águas pluviais sobre o passeio, mesmo não havendo rede própria;
+
+
+III –
+
+No caso de se fazer necessária passagem lateral, em prédios comerciais, esta nunca será inferior a 1m.;
+
+
+IV –
+
+Se essa passagem tiver como fim acesso público para o atendimento de mais de três estabelecimentos comerciais, será considerada galeria e obedecerá ao seguinte:
+
+
+a)
+
+Largura mínima de 3,0m.;
+
+
+b)
+
+Pé direito mínimo de 3m.;
+
+
+c)
+
+Profundidade máxima, quando tiver apenas uma abertura que obedeça às mesmas dimensões da galeria, de 2,5m.;
+
+
+d)
+
+No caso de haver duas saídas nas dimensões mínimas acima citadas e serem em linha reta, a profundidade poderá ser de até 50m.
+
+
+Parágrafo único
+
+O dispositivo no inciso II deste artigo aplica-se a qualquer tipo de construção.
+
+
+Art. 10.
+
+Os prédios industriais para funcionamento de indústrias caracterizadas como incômodas, isto é, as indústrias que produzem ruídos, emitem poeira, fuligem, exalação de mau cheiro ou qualquer outro inconveniente, passe a construir atentado à tranqüilidade, trabalho, vivência e a saúde da vizinhança ou em uma área residencial, comercial e mesmo industrial, será previamente determinados pela municipalidade, em lotes de área nunca inferior a 1.000m2. E cuja largura mínima seja de 20m., obedecendo ao que se segue:
+
+
+I –
+
+Afastamento de uma divisa lateral mínimo de 3m., sendo observada a não contiguidade das paredes dos prédios e cabendo direito de precedência ao mais antigo proprietário;
+
+
+II –
+
+Afastamento mínimo de 6m., da divisa do fundo do lote;
+
+
+III –
+
+Afastamento mínimo de 6m., da divisa com o passeio, sendo permitido, neste espaço, pátio de estacionamento não coberto.
+
+
+Parágrafo único
+
+As indústrias leves cujo funcionamento não incomoda nem ameaça a tranqüilidade, a higiene a saúde da vizinhança, serão construídas de acordo com este Código.
+
+
+#### CAPÍTULO III — Da Altura das Edificações
+
+
+Art. 11.
+
+O gabarito das edificações, referente a altura, será ilimitado, devendo contudo atender as normas contidas neste Código e nos demais diplomas legais.
+
+
+Parágrafo único
+
+Em edifícios de quatro ou mais andares – pavimentos é obrigatória a colocação de elevador, sendo que este não dispensa a construção de escadas.
+
+
+Art. 12.
+
+A altura das edificações será considerada aquela medida do nível do passeio até a base da platibanda ou beiral do prédio e obedecerá ao seguinte:
+
+
+I –
+
+Prédios residenciais: mínimo por pavimento 2,90m.;
+
+
+II –
+
+Prédios comerciais: mínimo por pavimento 3,50m.
+
+
+#### CAPÍTULO IV — Dos Pés Direitos
+
+
+Art. 13.
+
+O pé-direito será considerado a medida entre o piso e o teto, obedecendo ao seguinte:
+
+
+I –
+
+Dormitórios, salas, escritórios e cozinhas: mínimo 2,70m.;
+
+
+II –
+
+Banheiros, corredores, depósitos e garagens: mínimo 2,50m.;
+
+
+III –
+
+Lojas: mínimo 3,20m..
+
+
+#### CAPÍTULO V — Das Dimensões Mínimas dos Compartimentos
+
+
+Art. 14.
+
+As áreas e dimensões mínimas permitidas para compartimentos são as seguintes:
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td>COMPARTIMENTOS</td><td>ÁREAS</td><td>DIMENSÕES</td></tr><tr><td>Sala</td><td>12,00 m2</td><td>2,80 m.</td></tr><tr><td>Quarto</td><td>9,00 m2</td><td>2.80 m.</td></tr><tr><td>Cozinha </td><td>5,00 m2</td><td>1,80 m.</td></tr><tr><td>Banheiro</td><td>3,00 m2</td><td>1,30 m.</td></tr><tr><td>Box</td><td>1,00 m2</td><td>1,00 m.</td></tr><tr><td>Quarto de empregada</td><td>6,00 m2</td><td>2,00 m.</td></tr><tr><td>WC</td><td>2,00 m2</td><td>1,00 m.</td></tr><tr><td>Instalações sanitárias</td><td>2,40 m2</td><td>1,20 m.</td></tr><tr><td>Área de serviço</td><td>1,50 m2</td><td>1,20 m.</td></tr><tr><td>Locais de trabalho burocrático</td><td>12,00 m2</td><td>2,80 m.</td></tr><tr><td>Lojas </td><td>14,00 m2</td><td>3,00 m.</td></tr><tr><td>Garagem</td><td>12,00 m2</td><td>2,80 m.</td></tr></tbody></table>
+
+
+§ 1º
+
+A habitação terá no mínimo 35m2 de construção, compreendendo um quarto, uma sala, um banheiro e uma cozinha;
+
+
+§ 2º
+
+As instalações sanitárias deverão conter, no mínimo, vaso sanitário, lavatório e chuveiro;
+
+
+§ 3º
+
+W.C. compreende vaso e lavatório.
+
+
+Art. 15.
+
+As áreas de circulação deverão ter as seguintes larguras mínimas:
+
+
+I –
+
+Corredores internos de residências – 10% do comprimento, com um mínimo de 0,90 m.;
+
+
+II –
+
+Circulação coletiva até 20m de comprimento – 8% do comprimento, com um mínimo de 1,20 m.;
+
+
+III –
+
+Circulação coletiva entre 20 a 50m de comprimento – 6% do comprimento, com um mínimo de 1,50m.;
+
+
+IV –
+
+Circulação coletiva com mais de 50m de comprimento – mínimo de 3m..
+
+
+Parágrafo único
+
+Nos vestíbulos de edifícios e nas áreas defronte a elevadores, as larguras mínimas serão de 2m no térreo e 1,5m nos demais pavimentos.
+
+
+#### CAPÍTULO VI — Das Áreas de Iluminação
+
+
+Art. 16.
+
+As áreas para efeito do presente Código serão divididas em duas categorias: Áreas principais e Áreas secundárias.
+
+
+I –
+
+Toda área principal fechada deverá satisfazer as seguintes condições:
+
+
+a)
+
+Ser de 2,00m no mínimo, o afastamento de qualquer vão a face da parede, que lhe ficava oposta medido sobre a perpendicular traçada, em plano horizontal ao meio do peitório ou soleira do vão interessado;
+
+
+b)
+
+Permitir a inscrição de um círculo de dois metros de diâmetro, no mínimo;
+
+
+c)
+
+Ter uma área mínima de dez (10) metros quadrados;
+
+
+d)
+
+Permitir, acima do segundo pavimento, ao nível de cada piso e inscrição de um círculo cujo diâmetro mínimo “D” seja dado pela fórmula: D = 2m mais H/B, na qual H representa distância do piso considerado, ao piso do segundo pavimento e B igual a 4; Tratando-se de construção na zona comercial poder-se-á adotar a B igual a H, quando não houver compartimento destinados a permanência noturna, que sejam ventiladas e iluminados pela área.
+
+
+II –
+
+Toda a área principal aberta deverá satisfazer as seguintes condições:
+
+
+a)
+
+Ser de um metro e cinqüenta centímetros no mínimo, o afastamento de qualquer vão a face da parede que lhe fique oposta, afastamento medido entre a perpendicular traçada, em plano horizontal ao meio do peitório ou lodeira do não interessado;
+
+
+b)
+
+Permitir a inscrição de um círculo de um metro e meio de diâmetro, no mínimo;
+
+
+c)
+
+Permitir, acima do segundo pavimento ao nível de cada piso, a inscrição de um círculo cujo diâmetro mínimo D seja dado pela fórmula: D = 1,50 + H/B, na qual H representa a distância do piso considerado ao piso do segundo pavimento e onde B igual a 9 (nove) para as construções na zona central e B igual a 5 (cinco) para as construções nas demais zonas.
+
+
+III –
+
+Toda área secundária deverá satisfazer as seguintes condições:
+
+
+a)
+
+Ser de um metro e meio, no mínimo, o afastamento de qualquer vão a face da parede que lhe fique oposta, afastamento este medido sobre a perpendicular traçada em plano horizontal ao meio do peitoral ou soleira do vão interessado;
+
+
+b)
+
+Permitir a inscrição de um círculo de um metro e meio de diâmetro;
+
+
+c)
+
+Ter a área mínima de seis metros quadrados;
+
+
+d)
+
+Permitir acima do segundo pavimento, ao nível de cada piso a inscrição de um círculo cujo diâmetro mínimo D seja dado pela fórmula: D = 1,50m + H/10 no qual H representa a distância do piso considerado ao piso do segundo pavimento.
+
+
+#### CAPÍTULO VII — Dos Vãos de Iluminação
+
+
+Art. 17.
+
+Todos os compartimentos, excetuados os corredores deverão ter abertura para o exterior, ou área interna de iluminação.
+
+
+Art. 18.
+
+A área das aberturas deverá satisfazer as seguintes condições mínimas:
+
+
+I –
+
+1/6 da superfície do piso nos dormitórios;
+
+
+II –
+
+1/8 da superfície do piso nas salas de estar, refeitórios, escritórios, bibliotecas, cozinhas, copas, banheiros, W.C., etc.;
+
+
+III –
+
+1/10 do piso nos armazéns, lojas e sobrelojas.
+
+
+Parágrafo único
+
+Essas relações de 1/6, 1/8 e 1/10 respectivamente, quando os vãos abrirem para áreas cobertas, varandas, pórticos, alpendres ou marquises, e se não houver parede oposta à superfície desses vãos a menos de um metro e cinqüenta de limite da cobertura da área, da va5randa, do pórtico, do alpendre ou da marquise. O presente parágrafo não se aplica as varandas, pórticos ou varandas de largura superior a 3m são considerados de valor nulo para efeito de iluminação.
+
+
+Art. 19.
+
+Quando o pavimento for forrado, a distância da parte superior da janela ao teto não deverá ser superior a 1/5 do pé-direito (distância do piso ao forro).
+
+
+Art. 20.
+
+Para construções residenciais, a taxa de ocupação não poderá exceder a 65% da área do terreno, por pavimento.
+
+
+Art. 21.
+
+Para as construções mistas (comerciais e residenciais), a taxa de ocupação poderá atingir até 90% da área do terreno, desde que outros dispositivos do Código sejam obedecidos.
+
+
+#### CAPÍTULO VIII — Das Instalações Sanitárias e Hidráulicas
+
+
+Art. 22.
+
+É obrigatória a ligação de rede domiciliar às redes de água e esgoto, quando tais redes existirem na via pública em frente à construção.
+
+
+§ 1º
+
+Nas vias onde não existir rede de esgoto, será obrigatório a existência de fossas sépticas;
+
+
+§ 2º
+
+Caso não haja rede de distribuição de água, poderá esta ser obtida por meio de poços (com tampão) perfurados em parte mais alta em relação à fossa mais próxima e dela afastada 15m no mínimo;
+
+
+§ 3º
+
+Todos os serviços de água e esgoto serão feitos de acordo com os regulamentos do órgão de saneamento.
+
+
+Art. 23.
+
+Toda habitação será provida, sempre que possível de reservatório de água, hermeticamente fechado, com capacidade de 150 litros por pessoa.
+
+
+Art. 24.
+
+Os compartimentos de instalações sanitárias terão suas paredes revestidas de material liso resistente e impermeável (azulejo, barra lisa, etc.) até, no mínimo, 150m de altura, a partir do piso.
+
+
+Art. 25.
+
+Os compartimentos de banho não podem ter comunicação direta com as cozinhas, copas, dispensas, dormitórios e salas de refeições.
+
+
+Parágrafo único
+
+Os banheiros privativos de dormitórios poderão ter comunicação direta com estes.
+
+
+Art. 26.
+
+Não será permitida a existência de privadas-fossas.
+
+
+#### CAPÍTULO IX — Dos Hotéis
+
+
+Art. 27.
+
+As construções destinadas a hotéis, além das prescrições gerais deste Código, ficam obrigadas ainda:
+
+
+I –
+
+Além das peças destinadas a habitação, apartamentos ou simplesmente quartos, deverão essas construções possuir as seguintes dependências:
+
+
+a)
+
+Vestíbulo com local para instalação de portarias;
+
+
+b)
+
+Sala de estar;
+
+
+§ 1º
+
+Quando houver cozinha, a sua área mínima será de 8,0m2, sem contar o espaço de proporções convenientes, que deverá ser reservado para instalação de câmara frigorifica ou geladeira, o seu piso será revestido de material liso, resistente e i permeável, e as suas paredes, até a altura de 2,00m, serão revestidas de azulejos;
+
+
+§ 2º
+
+Havendo copas serão instaladas em compartimentos separados da cozinha e terão as paredes revestidas de azulejos até a altura de 2,00m.
+
+
+§ 3º
+
+As despensas quando houver, terão as paredes revestidas de azulejos até a altura de 2,00, e serão protegidas contra insetos e animais daninhos;
+
+
+§ 4º
+
+As instalações para o pessoal de serviço serão independentes das destinadas aos hospedes;
+
+
+§ 5º
+
+Quando houver instalação de lavanderia anexa ao hotel, será revestidas as paredes e piso com material liso, resistente e impermeável contendo também as seguintes dependências:
+
+
+a)
+
+Depósito para roupa servida;
+
+
+b)
+
+Local para lavagem e secagem de roupas;
+
+
+c)
+
+Outros espaços exigidos pelos trabalhos.
+
+
+§ 6º
+
+As instalações para hotéis terão, quando de mais de dois pavimentos, elevador.
+
+
+#### CAPÍTULO X — Da Aceitação das Obras
+
+
+Art. 28.
+
+Uma obra será considerada aceita quando tiver em condições de ser habitada.
+
+
+Art. 29.
+
+Após a conclusão das obras, deverá ser requerida vistoria da Prefeitura, a fim de que se possa ou não conceder o “habite-se”
+
+
+Parágrafo único
+
+O “habite-se” será solicitado pelo proprietário ou responsável técnico.
+
+
+Art. 30.
+
+Poderá ser concedido “habite-se” parcial, a juízo da repartição competente.
+
+
+Art. 31.
+
+O “habite-se” será concedido se estiver a construção de acordo com a legislação municipal e o projeto aprovado.
+
+
+#### CAPÍTULO XI — Das Penalidades
+
+
+Art. 32.
+
+As obras que não obedecerem às prescrições deste Código estarão sujeitas às seguintes penalidades:
+
+
+I –
+
+Multas;
+
+
+II –
+
+Embargos;
+
+
+III –
+
+Interdição de prédio ou dependência;
+
+
+IV –
+
+Demolição.
+
+
+##### Seção I — Das Multas
+
+
+Art. 33.
+
+A multa será imposta pelo Departamento de Obras da Prefeitura à vista do auto de infração lavrado pelo fiscal, que apenas registrará a falta verificada.
+
+
+§ 1º
+
+O auto de infração será lavrado em duas vias, assinadas pelo autuante e pelo autuado, sendo uma entregue a este;
+
+
+§ 2º
+
+Se o autuado se recusar a assinar o auto de infração, o autuante anotará o fato. Em qualquer caso, o intimará a apresentar defesa escrita no prazo de três dias, findo o qual será o processo encaminhado à decisão da autoridade competente;
+
+
+§ 3º
+
+Considerar-se-á perfeito o auto, no caso de recusa da assinatura do infrator, desde que anotado e subscrito por duas ou mais testemunhas.
+
+
+Art. 34.
+
+o auto de infração deverá conter:
+
+
+I –
+
+O nome do infrator, ou denominação que o identifique, residência ou sede;
+
+
+II –
+
+A designação do dia e lugar em que se deu a infração ou que ela foi constatada pela fiscalização;
+
+
+III –
+
+Fato ou ato que constitui a infração;
+
+
+IV –
+
+Nome, assinatura e residência das testemunhas, quando for o caso.
+
+
+Art. 35.
+
+O auto de infração, quando o infrator não for encontrado a fim de lhe ser entregue a segunda via, será afixado no placar da Prefeitura, por três dias.
+
+
+Art. 36.
+
+Presume-se verdadeiro, até prova em contrário, o auto de infração regularmente lavrado.
+
+
+Art. 37.
+
+Imposta a multa, o infrator terá o prazo de 30 (trinta) dias para efetuar o pagamento ou para interpor recursos dirigidos ao Prefeito.
+
+
+Parágrafo único
+
+Da decisão proferida, o autuado será notificado pessoalmente pela fiscalização, ou, não sendo encontrado, mediante a publicação da decisão nos jornais locais ou por outro meio usual.
+
+
+Art. 38.
+
+As multas serão impostas entre os valores limites de 10 a 200% do valor – referência regional e sua graduação far-se-á tendo em vista:
+
+
+I –
+
+Maior ou menor gravidade da infração;
+
+
+II –
+
+Suas circunstâncias;
+
+
+III –
+
+Antecedentes do infrator.
+
+
+##### Seção II — Dos Embargos das Obras
+
+
+Art. 39.
+
+A obra em andamento seja ela de reparo, reconstrução ou reforma será embargada, sim prejuízo das multas do:
+
+
+I –
+
+Estiver sendo executada sem alvará de licença;
+
+
+II –
+
+For desrespeitado o respectivo projeto, em alguns de seus elementos ou a execução se iniciar sem ele;
+
+
+III –
+
+Estiver em risco sua estabilidade, com perigo para o público ou para o pessoal que a executa.
+
+
+Art. 40.
+
+A fiscalização, ao constatar a infração, na hipótese de ocorrência de alguns dos casos do artigo anterior, fará notificação do infração, por comunicação escrita, à autoridade superior, solicitando o embargo.
+
+
+Art. 41.
+
+Verificada pela autoridade competente a procedência do mesmo, determinará o embargo, em auto que mandará lavrar e no qual fará constar as providências exigíveis para o prosseguimento da obra, sem prejuízo da imposição de multas, de acordo com a estabelecida nos artigos anteriores.
+
+
+Art. 42.
+
+O auto de infração será levado ao conhecimento do infrator, para que assine, e, se o recusar, ou não for encontrado, publicar-se-á em resumo, no expediente da Prefeitura, seguindo-se o processo administrativo e a ação competente para a suspensão da obra.
+
+
+Art. 43.
+
+O embargo só será levantado após o cumprimento das exigências consignadas no auto.
+
+
+Art. 44.
+
+Se ao embargo dever seguir-se a demolição total ou parcial da obra, ou se, em se tratando de risco, parecer possível evitá-lo, far-se-á prévia vistoria, da mesma forma adiante estabelecida.
+
+
+##### Seção III — Da Interdição do Prédio ou Dependência
+
+
+Art. 45.
+
+O prédio, ou qualquer de suas dependências, poderá ser interditado, com impedimento de sua ocupação provisória, ou permanente, nos seguintes casos:
+
+
+I –
+
+Se for utilizado para fins diversos do consignado no respectivo projeto, verificado o fato por dois fiscais;
+
+
+II –
+
+Se for iniciado sem a licença necessária e sem projeto aprovado, devendo, neste caso, aguardar a aprovação e o licenciamento, ficando o responsável sujeito às multas estipuladas;
+
+
+III –
+
+Se estiver em flagrante desacordo com o projeto aprovado ou a licença concedida;
+
+
+IV –
+
+Se não atender ao mínimo de conforto e segurança estabelecido pelo presente Código;
+
+
+V –
+
+Se oferecer iminente perigo de caráter público.
+
+
+Art. 46.
+
+A interdição prevista no artigo anterior será imposta por escrito após a vistoria efetuada por técnico da Prefeitura.
+
+
+Parágrafo único
+
+Não atendida a interdição e não interposto recursos, ou indeferido este, iniciar-se-á competente ação judicial.
+
+
+##### Seção IV — Da Demolição
+
+
+Art. 47.
+
+A demolição, total ou parcial, do prédio ou dependência será impostas nos seguintes casos:
+
+
+I –
+
+Quando for, a construção, ou reparo, clandestino, entendendo-se como tal a que for executada sem licença ou prévia aprovação do projeto;
+
+
+II –
+
+Construção feita sem observância do alinhamento e nivelamento fornecidos, ou sem as respectivas cotas, ou com desrespeito da planta aprovada nos seus elementos essenciais;
+
+
+III –
+
+Obra julgada com risco eminente de caráter público, quando o proprietário não quiser tomar as providências que a Prefeitura sugerir par a sua segurança;
+
+
+Art. 48.
+
+A demolição não será imposta, nos casos dos incisos I e II do artigo anterior, se o proprietário, submetendo à Prefeitura a planta da construção mostrar:
+
+
+I –
+
+Que a mesma preenche os requisitos regulamentares;
+
+
+II –
+
+Que, embora não os preenchendo, pode sofrer modificações que satisfarão ao regulamento, e que se dispõe a faze-las.
+
+
+Parágrafo único
+
+Tratando-se de obra julgada em risco, aplicar-se-á o art. 934, inciso III do Código de Processo Civil.
+
+
+Art. 49.
+
+Nos casos do artigo anterior (incisos I e II), uma vez verificada a planta da construção, ou o projeto das modificações, o alvará só será expedido mediante o pagamento prévio de multa igual ao emolumento do mesmo.
+
+
+Art. 50.
+
+Se os encarregados da fiscalização verificarem que o infrator, desobedecendo as notificações, poderá frustar as disposições do presente Código, ou, mesmo, tornar, mais difícil sua execução, representarão imediatamente à autoridade competente, que solicitará ao Prefeito a determinação de providências judiciais.
+
+
+#### CAPÍTULO XII — Das Disposições Finais
+
+
+Art. 51.
+
+Em zonas com pavimentação ou meio-fio, indicadas pela Prefeitura, os terrenos não edificados deverão ter, no alinhamento, fechos de alvenaria ou concreto até 1,50m, de altura. O proprietário de toda construção nova é obrigado a construir o passeio em sua testada.
+
+
+§ 1º
+
+A Prefeitura poderá construir os passeios, ficando no entanto, o proprietário na obrigação do respectivo pagamento;
+
+
+§ 2º
+
+Na hipótese de construções anteriores a esta Lei, o prazo para o início da construção do passeio será de 45 dias após a intimação feita pela Prefeitura.
+
+
+§ 3º
+
+Fica proibido o uso de cerâmica ou qualquer outro material escorregadio nos passeios.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 584, de 09 de fevereiro de 1989.
+
+
+Art. 52.
+
+Com o objetivo de preservar o paisagismo, todo o plantio, remoção ou extinção de árvore ou qualquer vegetação na via pública, só poderão ser feitos pela Prefeitura, ou com a autorização desta.
+
+
+Art. 53.
+
+Esta Lei entrará em vigor na data de sua publicação, exceto quanto às penalidades, que só serão aplicadas a partir do segundo ano de vigência, inclusiva.
+
+
+Art. 54.
+
+Revogam-se as disposições em contrário.
+
+
+**PREFEITURA MUNICIPAL DE CAÇU,** Estado de Goiás, em 15 de fevereiro de 1982.
+

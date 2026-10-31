@@ -1,0 +1,42 @@
+{
+  "host": "sapl.altoaraguaia.mt.leg.br",
+  "metadados_unicos_observados": 3,
+  "total_api_declarado": 3,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoaraguaia.mt.leg.br/53a8c9a18bece87e5a414e219df6afc9ee5d1bdbb92acf6f725eb92d4db7d8b2.json",
+    "url": "https://sapl.altoaraguaia.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.altoaraguaia.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d49f48f45de5331aecb7e4212ec15efab0a3cc7d55639e7ae1c37327099483ca",
+    "bytes": 951,
+    "capturado_em": "2026-10-21T05:27:34.176338-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoaraguaia.mt.leg.br/c67ed02eca65dfe674b17040c7f56a3f373d1c9cc7ab9eceb60910b5b1452665.json",
+    "url": "https://sapl.altoaraguaia.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.altoaraguaia.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5575f7e33a5259ecdc947f97b98e7ec192b512488ec0e877316cda3640e76fdc",
+    "bytes": 755,
+    "capturado_em": "2026-10-21T05:27:32.543027-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoaraguaia.mt.leg.br/657beb20d725ab60d228bd186685fb84980aeac0fdf8cc545ba689f3a28b4503.json",
+      "url": "https://sapl.altoaraguaia.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.altoaraguaia.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "147d860fa7af1d36bef40ad27b6c2fc18a92f2d6afeda46bf6b0a709a2d75218",
+      "bytes": 2154,
+      "capturado_em": "2026-10-21T05:27:36.758067-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

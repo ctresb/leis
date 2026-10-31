@@ -1,0 +1,25 @@
+{
+  "aplicado": true,
+  "lotes": [
+    {
+      "manifesto": "municipais/_lotes/20261020-recuperacao-pdf-sem-imagens-v2/lote-0001.json",
+      "sha256_manifesto": "9ace4882cd61d07c73fafab3a2032c92a01233e9ddfee6c77c7b962b965fef64",
+      "lista": "municipais/_lotes/20261020-recuperacao-pdf-sem-imagens-v2/lote-0001.paths.txt",
+      "sha256_lista": "76ad3e27d0f82244568472cdd0b610be8c55f7ea174d01b64348a8f24ad6559d",
+      "aprovados": 333
+    }
+  ],
+  "recuperados": 333,
+  "retidos": 15059,
+  "controles": [
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-pdf/entrega-final.json",
+      "sha256": "67d45131ede14857a5ad32b8115c1d0881b7454f386f7ea623fe79d5fd4e8f5e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/entrega-final.json",
+      "sha256": "6bb9b3e38ed1909270eb6dac4a4fa86316849977e1724388f459b72aa781e088"
+    }
+  ],
+  "script_sha256": "ce10fbccf25377647d34aa5ffe8ac87fdf70469bd4e9bce7d821b7e28b683478"
+}

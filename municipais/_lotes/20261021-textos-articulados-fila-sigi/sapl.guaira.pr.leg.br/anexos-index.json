@@ -1,0 +1,968 @@
+{
+  "estado": "indice_completo",
+  "total": 95,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/lei_2024.17_-_anexo_i_-_estrutura_organizacional_e_funcoes_gratificadas_-_26.09.pdf da norma Lei Ordinária nº 2.024, de 26 de setembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Estrutura Organizacional Administrativa do Município de Guaíra Estado do Paraná",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/1/lei_2024.17_-_anexo_i_-_estrutura_organizacional_e_funcoes_gratificadas_-_26.09.pdf",
+      "ano": 2017,
+      "norma": 178
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/lei_2024.17_-_anexo_ii_-_estrutura_organizacional_e_funcoes_gratificadas_-_26.09.pdf da norma Lei Ordinária nº 2.024, de 26 de setembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Estrutura Organizacional Administrativa do Município de Guaíra Estado do Paraná.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/2/lei_2024.17_-_anexo_ii_-_estrutura_organizacional_e_funcoes_gratificadas_-_26.09.pdf",
+      "ano": 2017,
+      "norma": 178
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/3/lei_2024.17_-_anexo_iii_-_estrutura_organizacional_e_funcoes_gratificada-_26.09.pdf da norma Lei Ordinária nº 2.024, de 26 de setembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Estrutura Organizacional Administrativa do Município de Guaíra Estado do Paraná.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/3/lei_2024.17_-_anexo_iii_-_estrutura_organizacional_e_funcoes_gratificada-_26.09.pdf",
+      "ano": 2017,
+      "norma": 178
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/4/1_anexo_ppa_-_demonstrativo_da_receita.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Receita.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/4/1_anexo_ppa_-_demonstrativo_da_receita.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/5/2_anexo_ppa_2018_-_meta_financeira_por_orgao_e_unidade.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Meta Financeira por Órgão e Unidade",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/5/2_anexo_ppa_2018_-_meta_financeira_por_orgao_e_unidade.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/3_anexo_ppa_2018_-_detalhamento_orgao-unidade_fisico-financeiro.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Detalhamento Órgao/Unidade Físico/Financeiro",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/6/3_anexo_ppa_2018_-_detalhamento_orgao-unidade_fisico-financeiro.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/7/4_anexo_ppa_2018_analitico.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Analítico.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/7/4_anexo_ppa_2018_analitico.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/8/5_anexo_ppa_-_2018_-_2021_-_camara_municipal.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "CÂMARA MUNICIPAL DE GUAÍRA",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/8/5_anexo_ppa_-_2018_-_2021_-_camara_municipal.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/9/6_anexo_ppa_-_2018_-_2021_-_governo_mun..pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Governo Municipal",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/9/6_anexo_ppa_-_2018_-_2021_-_governo_mun..pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/10/7_anexo_ppa_-_2018_-_2021_-_sec._seguranca.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Secretaria de Segurança.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/10/7_anexo_ppa_-_2018_-_2021_-_sec._seguranca.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/11/8_anexo__ppa_-_2018_-_2021_-_t.i..pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE TECNOLOGIA E SISTEMAS DE INFORMAÇÃO.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/11/8_anexo__ppa_-_2018_-_2021_-_t.i..pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/9anexo_ppa_-_2018_-_2021_-_planejamento.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE PLANEJAMENTO.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/12/9anexo_ppa_-_2018_-_2021_-_planejamento.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/13/11_anexo_ppa_-_2018_-_2021_-_fazenda.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Secretaria Municipal de Fazenda.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/13/11_anexo_ppa_-_2018_-_2021_-_fazenda.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/14/12_anexo__ppa_-_2018_-_2021_-_educacao.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Secretaria Municipal de Educação.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/14/12_anexo__ppa_-_2018_-_2021_-_educacao.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/15/13_anexo_ppa_-_2018_-_2021_-_saude.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Secretaria Municipal de Saúde.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/15/13_anexo_ppa_-_2018_-_2021_-_saude.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/16/14_anexo_ppa_-_2018_-_2021_-_assist._social.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Secretaria Municipal de Assistência Social.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/16/14_anexo_ppa_-_2018_-_2021_-_assist._social.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/17/15_anexo_ppa_-_2018_-_2021_-__agrop.infraestrutura_e_meio_amb..pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE AGROPECUARIA INFRA-ESTRUTURA E MEIO AMBIENTE.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/17/15_anexo_ppa_-_2018_-_2021_-__agrop.infraestrutura_e_meio_amb..pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/18/16anexo_ppa_-_2018_-_2021_-_desenv.econ._emprego.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONOMICO E EMPREGO.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/18/16anexo_ppa_-_2018_-_2021_-_desenv.econ._emprego.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/19/17_anexo_ppa_-_2018_-_2021_-_turismo_esporte_e_cultura.pdf da norma Lei Ordinária nº 2.035, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE TURISMO, ESPORTE E CULTURA.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/19/17_anexo_ppa_-_2018_-_2021_-_turismo_esporte_e_cultura.pdf",
+      "ano": 2017,
+      "norma": 285
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/20/anexo_ldo.pdf da norma Lei Ordinária nº 2.037, de 27 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2017/20/anexo_ldo.pdf",
+      "ano": 2017,
+      "norma": 287
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/21/lei_2.057.2018_-_1_anexo_amf__demonstrativo_1_-__anexo_de_metas_fiscais.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/21/lei_2.057.2018_-_1_anexo_amf__demonstrativo_1_-__anexo_de_metas_fiscais.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/22/lei_2.057.2018_-_2_anexo_demonstrativo_2_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/22/lei_2.057.2018_-_2_anexo_demonstrativo_2_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/23/lei_2.057.2018_-_3_anexo_-__demonstrativo_3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exerc.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/23/lei_2.057.2018_-_3_anexo_-__demonstrativo_3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exerc.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/24/lei_2.057.18_-_4_anexo_-_amf__demonstrativo_4_-_evolucao_do_patrimonio_liquido.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/24/lei_2.057.18_-_4_anexo_-_amf__demonstrativo_4_-_evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/25/lei_2.057.2018_-_5_anexo_amf__demonstrativo_5_-_origem_e_aplicacao_dos_rec_alienacao_de_ativos.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/25/lei_2.057.2018_-_5_anexo_amf__demonstrativo_5_-_origem_e_aplicacao_dos_rec_alienacao_de_ativos.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/26/lei_2.057.2018_-_6_anexo_amf__demonstrativo_7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/26/lei_2.057.2018_-_6_anexo_amf__demonstrativo_7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/27/lei_2.057.2018_-_7_anexo_amf__demonstrativo_8_-_margem_de_expansao_das_despesas_obrig.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/27/lei_2.057.2018_-_7_anexo_amf__demonstrativo_8_-_margem_de_expansao_das_despesas_obrig.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/28/lei_2.057.2018_-_8_anexo_1_da_lei_4.320-64_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/28/lei_2.057.2018_-_8_anexo_1_da_lei_4.320-64_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/29/lei_2.057.2018_-_9_anexo_2_da_lei_4.320-64_-_anexo_ii_-_despesas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/29/lei_2.057.2018_-_9_anexo_2_da_lei_4.320-64_-_anexo_ii_-_despesas_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/30/lei_2.057.2018_-_10_anexo_2_da_lei_4.320-64_-_anexo_ii_-_receitas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/30/lei_2.057.2018_-_10_anexo_2_da_lei_4.320-64_-_anexo_ii_-_receitas_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/31/lei_2.057.2018_-_11_anexo_6_da_lei_4.320-64_-_anexo_vi_-_programa_de_trabalho.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/31/lei_2.057.2018_-_11_anexo_6_da_lei_4.320-64_-_anexo_vi_-_programa_de_trabalho.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/32/lei_2.057.2018_-_12_anexo_7_da_lei_4.320-64_-_anexo_vii_-_programa_de_trabalho_consolidacao.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/32/lei_2.057.2018_-_12_anexo_7_da_lei_4.320-64_-_anexo_vii_-_programa_de_trabalho_consolidacao.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/33/lei_2.057.2018_-_13_anexo_8_da_lei_4.320-64_-_anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/33/lei_2.057.2018_-_13_anexo_8_da_lei_4.320-64_-_anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/34/lei_2.057.2018_-_14_anexo_i_-_metas_fiscais_da_receita.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/34/lei_2.057.2018_-_14_anexo_i_-_metas_fiscais_da_receita.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/35/lei_2.057.2018_-_15_anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/35/lei_2.057.2018_-_15_anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/36/lei_2.057.2018_-_16_anexo_-_anexo_ix_-_despesa_por_orgao_e_funcao.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/36/lei_2.057.2018_-_16_anexo_-_anexo_ix_-_despesa_por_orgao_e_funcao.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/37/lei_2.057.2018_-_17_anexo_-_demonstrativo_da_despesa.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/37/lei_2.057.2018_-_17_anexo_-_demonstrativo_da_despesa.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/38/lei_2.057.2018_-_18_anexo__demonstrativo_da_receita.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/38/lei_2.057.2018_-_18_anexo__demonstrativo_da_receita.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/39/lei_2.057.2018_-_19_anexo__-_demonstrativo_da_receita.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/39/lei_2.057.2018_-_19_anexo__-_demonstrativo_da_receita.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/40/lei_2.057.2018_-__20_anexo_-_montante_da_divida_-_metodologia_e_memoria_de_calculo.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/40/lei_2.057.2018_-__20_anexo_-_montante_da_divida_-_metodologia_e_memoria_de_calculo.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/41/lei_2.057.2018_-__21_anexo_origem_e_destino_de_aplicacoes_de_recursos.pdf da norma Lei Ordinária nº 2.057, de 29 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/41/lei_2.057.2018_-__21_anexo_origem_e_destino_de_aplicacoes_de_recursos.pdf",
+      "ano": 2018,
+      "norma": 310
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/42/anexo_i_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/42/anexo_i_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/43/anexo_02_-_desp._segundo_cat._economica_consolidado_por_elemento.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/43/anexo_02_-_desp._segundo_cat._economica_consolidado_por_elemento.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/44/anexo_02_-_despesa_por_unidade_orcamentaria_segundo_cat._economica.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/44/anexo_02_-_despesa_por_unidade_orcamentaria_segundo_cat._economica.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/45/anexo_02_-_despesa_seg._cat._economicaorg._unid..pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/45/anexo_02_-_despesa_seg._cat._economicaorg._unid..pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/46/anexo_02_-_despesa_seg._categoria_economica_orgao.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/46/anexo_02_-_despesa_seg._categoria_economica_orgao.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/47/anexo_02_-_natureza_da_despesa_segundo_as_categorias_economicas_acao.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/47/anexo_02_-_natureza_da_despesa_segundo_as_categorias_economicas_acao.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/48/anexo_02_-_receita_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/48/anexo_02_-_receita_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/49/anexo_06_-_programa_de_trabalho_por_orgao_e_unidade_orcamentaria.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/49/anexo_06_-_programa_de_trabalho_por_orgao_e_unidade_orcamentaria.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/50/anexo_07_-_programa_de_trabalho_por_funcao-subfuncao-programa-acao.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/50/anexo_07_-_programa_de_trabalho_por_funcao-subfuncao-programa-acao.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/51/anexo_08_-_despesa_por_funcao-sub-programa_conforme_vinculo_de_recursos.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/51/anexo_08_-_despesa_por_funcao-sub-programa_conforme_vinculo_de_recursos.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/52/anexo_9_-_despesa_por_orgao_e_funcao.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/52/anexo_9_-_despesa_por_orgao_e_funcao.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/53/anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf da norma Lei Ordinária nº 2.071, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/53/anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf",
+      "ano": 2018,
+      "norma": 323
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/54/anexo_i_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/54/anexo_i_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/55/anexo_i_-_metas_fiscais_da_receita.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/55/anexo_i_-_metas_fiscais_da_receita.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/56/anexo_ii_-_despesas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/56/anexo_ii_-_despesas_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/57/anexo_ii_-_receitas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/57/anexo_ii_-_receitas_segundo_categoria_economica.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/58/anexo_ix_-_despesa_por_orgao_e_funcao.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/58/anexo_ix_-_despesa_por_orgao_e_funcao.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/59/anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/59/anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/60/anexo_vi_-_programa_de_trabalho.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/60/anexo_vi_-_programa_de_trabalho.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/61/anexo_vi_-_programa_de_trabalho.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/61/anexo_vi_-_programa_de_trabalho.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/62/anexo_vii_-_programa_de_trabalho_consolidacao.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/62/anexo_vii_-_programa_de_trabalho_consolidacao.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/63/anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf da norma Lei Ordinária nº 2.072, de 13 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2018/63/anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf",
+      "ano": 2018,
+      "norma": 324
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/64/lei_2.101.2019_-__anexos.pdf da norma Lei Ordinária nº 2.101, de 04 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2019/64/lei_2.101.2019_-__anexos.pdf",
+      "ano": 2019,
+      "norma": 353
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/65/lei_no_2.118-2019__anexos.pdf da norma Lei Ordinária nº 2.118, de 11 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2019/65/lei_no_2.118-2019__anexos.pdf",
+      "ano": 2019,
+      "norma": 370
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/68/glossario_-_anexo_da_resolucao_01-2020.pdf da norma Resolução-CMG nº 1, de 23 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Glossário.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2020/68/glossario_-_anexo_da_resolucao_01-2020.pdf",
+      "ano": 2020,
+      "norma": 639
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/69/1_-_metas_anuais.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Metas anuais",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/69/1_-_metas_anuais.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/70/2_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Avaliação do cumprimento das metas fiscais do exercício anterior.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/70/2_-_avaliacao_do_cumprimento_das_metas_fiscais_do_exercicio_anterior.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/71/3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Metas fiscais atuais comparadas com as fixadas nos três exercícios anteriores",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/71/3_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/72/4_-_evolucao_do_patrimonio_liquido.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Evolução do patrimônio líquido",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/72/4_-_evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/73/5_-_origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Origem e aplicação dos recursos obtidos com a alienação de ativos.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/73/5_-_origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/74/6_-_anexo_06-_avaliacao_da_situacao_financeira_e_atuarial_do_rpps.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "Avaliação da situação financeira e atuarial do RPPS",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/74/6_-_anexo_06-_avaliacao_da_situacao_financeira_e_atuarial_do_rpps.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/75/7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "Estimativa e compensação da renúncia de receita.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/75/7_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/76/8_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "Margem de expansão das despesas obrigatórias de caráter continuado",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/76/8_-_margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/77/9_-_demonstrativo_de_riscos_fiscais_e_providencias.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de riscos fiscais e providências.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/77/9_-_demonstrativo_de_riscos_fiscais_e_providencias.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/78/10_-_analise_da_evolucao_da_receita_e_despesa.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Análise da Evolução da Receita e Despesa",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/78/10_-_analise_da_evolucao_da_receita_e_despesa.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/79/11_-_projetos_em_andamento.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Projetos em andamento",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/79/11_-_projetos_em_andamento.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/80/12_-_demonstrativo_das_obras_em_andamento_e_custos_com_conservacao.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo das obras em andamento e custos com conservação.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/80/12_-_demonstrativo_das_obras_em_andamento_e_custos_com_conservacao.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/81/13_-_anexo_i_-_ldo_das_metas_e_prioridades.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Metas e prioridades.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/81/13_-_anexo_i_-_ldo_das_metas_e_prioridades.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/82/14_-_anexo_i_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de receitas e despesas segundo categoria econômica.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/82/14_-_anexo_i_-_demonstrativo_de_receitas_e_despesas_segundo_categoria_economica.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/83/15_-_anexo_ii_-_despesas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "Despesas segundo categoria econômica.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/83/15_-_anexo_ii_-_despesas_segundo_categoria_economica.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/84/16_-_anexo_ii_-_receitas_segundo_categoria_economica.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "Receitas segundo categoria econômica.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/84/16_-_anexo_ii_-_receitas_segundo_categoria_economica.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/85/17_-_anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Funções e subfunções de governo.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/85/17_-_anexo_v_-_funcoes_e_subfuncoes_de_governo.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/86/18_-_anexo_vi_-_programa_de_trabalho.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Programa de trabalho.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/86/18_-_anexo_vi_-_programa_de_trabalho.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/87/20_-_anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Programa de trabalho (consolidação).",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/87/20_-_anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/88/20_-_anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Despesas por função, subfunção e programa.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/88/20_-_anexo_viii_-_despesas_por_funcao_subfuncao_e_programa.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/89/21_-_anexo_ix_-_despesa_por_orgao_e_funcao.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "Despesas por órgão e função.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/89/21_-_anexo_ix_-_despesa_por_orgao_e_funcao.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/90/22_-_ldo_-_demonstrativo_da_despesa.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de despesa",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/90/22_-_ldo_-_demonstrativo_da_despesa.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/91/23_-_receita_ldo_-_ldo_-_demonstrativo_da_receita.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "Receita LDO",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/91/23_-_receita_ldo_-_ldo_-_demonstrativo_da_receita.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/92/24_-_origem_e_destino_de_aplicacoes_de_recursos.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Origem e destino de aplicações de recursos.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/92/24_-_origem_e_destino_de_aplicacoes_de_recursos.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/93/25_-_programas_de_trabalho.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "Programas de trabalho.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/93/25_-_programas_de_trabalho.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/94/26_-_demonstrativo_de_despesas_com_saude_-_ldo.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de despesa com saúde.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/94/26_-_demonstrativo_de_despesas_com_saude_-_ldo.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/95/27_-_demonstrativo_de_despesas_com_educacao_-_ldo.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de despesa com educação.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/95/27_-_demonstrativo_de_despesas_com_educacao_-_ldo.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/96/28_-_demonstrativo_de_despesas_com_pessoal_-_ldo.pdf da norma Lei Ordinária nº 2.373, de 08 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo de despesa com pessoal.",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2024/96/28_-_demonstrativo_de_despesas_com_pessoal_-_ldo.pdf",
+      "ano": 2024,
+      "norma": 1119
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/97/anexos_da_ldo_2025_-_todos_do_1_ao_13.pdf da norma Lei Ordinária nº 2.445, de 05 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaira.pr.leg.br/media/sapl/public/anexonormajuridica/2025/97/anexos_da_ldo_2025_-_todos_do_1_ao_13.pdf",
+      "ano": 2025,
+      "norma": 2067
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaira.pr.leg.br/f5cb0696991e38ada94d04d145d63295b1d1ae7c3de452686642bc659e0f1bb5.json",
+      "url": "https://sapl.guaira.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.guaira.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "90af5250234bacc9ef5bfe0c50103e8e099cff213c498952f0ddda3444eb73ad",
+      "bytes": 46080,
+      "capturado_em": "2026-10-28T13:04:50.180757-03:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/1/anexo_i_-_quadro_de_pessoal_-cargos_de_provimento_efetivo_012.doc da norma Lei Ordinaria nº 874, de 08 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE PESSOAL CARGOS DE PROVIMENTO EFETIVO",
+      "anexo_arquivo": "http://sapl.altogarcas.mt.leg.br/media/sapl/public/anexonormajuridica/2011/1/anexo_i_-_quadro_de_pessoal_-cargos_de_provimento_efetivo_012.doc",
+      "ano": 2011,
+      "norma": 30
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/2/anexo_ii_...doc da norma Lei Ordinaria nº 874, de 08 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE PESSOAL CARGOS DE PROVIMENTO EM COMISSÃO",
+      "anexo_arquivo": "http://sapl.altogarcas.mt.leg.br/media/sapl/public/anexonormajuridica/2011/2/anexo_ii_...doc",
+      "ano": 2011,
+      "norma": 30
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altogarcas.mt.leg.br/a252534ca9f957e898b91509b72a394e738cbdd56424111540b8d77be320cb16.json",
+      "url": "https://sapl.altogarcas.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.altogarcas.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8eddd4ce1eb170842fa3c17de02124cdb0eb0a32d0d4b67a3e267e6d74c6c5c2",
+      "bytes": 1102,
+      "capturado_em": "2026-10-21T05:27:50.144714-03:00"
+    }
+  ]
+}

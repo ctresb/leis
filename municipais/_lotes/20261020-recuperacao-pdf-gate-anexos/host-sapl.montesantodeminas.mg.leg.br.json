@@ -1,0 +1,56 @@
+{
+  "host": "sapl.montesantodeminas.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/anexo_i_lei_no_2078-2017.pdf da norma Lei nº 2.078, de 05 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "AnexoI",
+      "anexo_arquivo": "http://sapl.montesantodeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2017/2/anexo_i_lei_no_2078-2017.pdf",
+      "ano": 2017,
+      "norma": 1366
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/3/anexo_projeto_de_lei_no_061_-_lei_no_2529-2023.pdf da norma Lei nº 2.529, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montesantodeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/3/anexo_projeto_de_lei_no_061_-_lei_no_2529-2023.pdf",
+      "ano": 2023,
+      "norma": 2775
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/4/anexo_projeto_de_lei_no_055_-_lei_no_2524-2023.pdf da norma Lei nº 2.524, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montesantodeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2023/4/anexo_projeto_de_lei_no_055_-_lei_no_2524-2023.pdf",
+      "ano": 2023,
+      "norma": 2776
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/lei_no_2575-2024_-_loa_-_seguencia_-.pdf da norma Lei nº 2.575, de 22 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.montesantodeminas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/5/lei_no_2575-2024_-_loa_-_seguencia_-.pdf",
+      "ano": 2024,
+      "norma": 2848
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.montesantodeminas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.montesantodeminas.mg.leg.br/154dae5426391e5f260d466e0772d39c2fb2356e394d9abd1ea3535f8f15b5b6.json",
+      "sha256": "c39d8d439c8a22b7882569a7530569891da77565f298f67e7b5013f8e1c901a8",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.montesantodeminas.mg.leg.br/154dae5426391e5f260d466e0772d39c2fb2356e394d9abd1ea3535f8f15b5b6.meta.json"
+    }
+  ],
+  "total": 4
+}

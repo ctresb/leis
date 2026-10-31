@@ -1,0 +1,96 @@
+---
+titulo: "Lei nº 593, de 31 de março de 1986"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "593"
+data: "1986-03-31"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/3762"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4205/text"
+sha256_fonte: "a1df43abf10488f3bc78b3873e417117e59534d000519dece0a1c840fadbdb21"
+sha256_texto: "86fcddadf2f83b9720819e074968fd1c2f7f400ad7d3736c82fe0d9d68fbfd85"
+capturado_em_fonte: "2026-10-27T22:26:21.336878-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 593, de 31 de março de 1986
+
+Modifica o Art. 1º da Lei nº 559, de 11 de dezembro de 1985, que doa área de terrra a Associação dos Moradores do Bairro Costa e Silva I e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, no uso da atribuição que lhe confere o § 1º do art. 153, da Constituição do Estado de Rondônia.
+
+FAÇO SABER que a Câmara Municipal de Porto Velho aprovo e eu, sanciono a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+O art. 1ºda Lei nº 559, de 11 de dezembro de 1985, passa a vigorar com aseguinte redação.:
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data sua publicação.
+
+
+Art. 3º.
+
+Revogam-se disposições em contrário.
+
+
+JERÔNIMO GARCIA DE SANTANA
+
+Prefeito Municipal
+
+SILVIO RODRIGUES PERSIVO CUNHA
+
+Secretário Munic. de Planejamento.
+
+EDILSON DE OLIVEIRA
+
+Sec. Munic. da Fazenda
+
+ROBERTO MAGNO RAMOS DE OLIVEIRA
+
+Sec. Municipal de Administração
+
+CLARICE SABÓIA DE MADUREIRA
+
+Sec. Munic. Educ. Cultura
+
+SÉRGIO SIQUEIRA DE CARVALHO
+
+Secret. Munic. de Saúde.
+
+JOSÉ AIRTO LEITE
+
+Sec. Munic. Obras
+
+BENEDITO BARRETO RONDON
+
+Sec. Munic. de Serv. Públicos
+
+JOSÉ WALDIR GALVãO
+
+Sec. Munic. Assist. Interior
+
+ODAISA FERNANDES FERREIRA
+
+Sec. Munic. Assis. e Prom. Social
+
+JOSÉ FERREIRA DA COSTA
+
+Secret. Munic. Transportes
+
+JEOVÁ RODRIGUES
+
+Procurador Geral
+

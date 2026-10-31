@@ -1,0 +1,347 @@
+---
+titulo: "Lei Ordinária nº 4.704, de 21 de março de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4704"
+data: "2006-03-21"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/4727"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/148/text"
+sha256_fonte: "083a841a2893139e95b14b6ed3fb88e69c6bebd28b0b709a007c3c69a6b45eb1"
+sha256_texto: "e05676e43aa073d4f90e0bd3cd2e60a081a5da1a39e93c9c75e73ae68c7adcf2"
+capturado_em_fonte: "2026-10-27T18:26:31.809600-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.704, de 21 de março de 2006
+
+INSTITUI O FUNDO MUNICIPAL DE TURISMO - FUMTUR, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eu, **PAULO BATISTA DE SOUZA**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DOS OBJETIVOS
+
+
+Art. 1º.
+
+Fica criado o FUNDO MUNICIPAL DE TURISMO, destinado à captação e aplicação de recursos visando o desenvolvimento turístico e econômico do Município de Birigui, em consonância com as diretrizes da Política Municipal de Turismo e do Plano Municipal de Turismo.
+
+
+Parágrafo único
+
+O Fundo Municipal de Turismo, de que trata este artigo, será identificado pela sigla FUMTUR.
+
+
+Art. 2º.
+
+Os recursos do FUMTUR serão aplicados no (a):
+
+
+I –
+
+Desenvolvimento e implantação total ou parcial de programas e projetos turísticos no Município, com efetiva participação do COMTUR.
+
+
+II –
+
+Fomento das atividades relacionadas ao Turismo no Município, visando criar alternativas de geração de emprego, melhoria da renda e qualidade de vida da população de Birigüi;
+
+
+III –
+
+Melhoria da infra-estrutura turística:
+
+
+IV –
+
+Aquisição de materiais de consumo e permanentes destinados aos projetos e programas turísticos:
+
+
+V –
+
+Na manutenção e criação de novos serviços de apoio ao turismo no Município;
+
+
+VI –
+
+No desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações de turismo;
+
+
+VII –
+
+No desenvolvimento de programas, capacitação e aperfeiçoamento de recursos humanos na área de turismo;
+
+
+VIII –
+
+No custeio de alimentação, transporte e hospedagem de grupos especiais durante viagens nacionais durante "Tours" e "Workshops" realizadas para a divulgação da cidade;
+
+
+IX –
+
+Na adequação de atrativos turísticos em produtos turísticos.
+
+
+#### CAPÍTULO II — DA SUBORDINAÇÃO DO FUNDO
+
+
+Art. 3º.
+
+O FUMTUR será auxiliado por um Conselho Deliberativo, responsável pela aprovação de projetos, execução de programas turísticos, aprovação de recursos, integrantes do Plano Municipal de Turismo, ficando as despesas vinculadas à conta dos recursos captados pelo Fundo.
+
+
+Art. 4º.
+
+O Conselho Deliberativo será constituído de 05 (cinco) membros, a saber:
+
+
+I –
+
+03 membros do Conselho Municipal de Turismo;
+
+
+II –
+
+02 membros designados pelo Prefeito;
+
+
+Parágrafo único
+
+Os representantes do CMTUR, deverão ser escolhidos pela maioria absoluta de seus membros, ou seja, (50% +1).
+
+
+Art. 5º.
+
+O exercício como membro do Conselho Deliberativo do Fundo será desempenhado, gratuitamente, ficando expressamente vedada a concessão de qualquer tipo de remuneração, vantagem ou benefício de natureza pecuniária pelo desempenho da função.
+
+
+Art. 6º.
+
+Ao Conselho Deliberativo do FUMTUR compete:
+
+
+I –
+
+Aprovar as diretrizes e normas para a gestão do Fundo;
+
+
+II –
+
+Aprovar a aplicação e liberação de recursos do Fundo;
+
+
+III –
+
+Estabelecer limites máximos de financiamento, a título oneroso ou a fundo perdido, para as modalidades de atendimento previstas no artigo desta Lei;
+
+
+IV –
+
+Fiscalizar e acompanhar a aplicação dos recursos do Fundo, solicitando, se necessário, o auxílio do controle interno do Município;
+
+
+V –
+
+Propor medidas de aprimoramento de desempenho do Fundo, bem como outras formas de atuação, visando à consecução da política de Turismo do Município.
+
+
+#### CAPÍTULO III — DOS RECURSOS FINANCEIROS DO FUNDO
+
+
+Art. 7º.
+
+Os recursos financeiros do Fundo constituir-se-ão basicamente de:
+
+
+I –
+
+Taxa de espedição e renovação de alvarás de hotéis, bares, restaurantes, agências de viagens e similares;
+
+
+II –
+
+Contribuições, transferências de pessoas físicas ou jurídicas, auxílios e subvenções de entidades, empresas ou órgãos internacionais, federais, estaduais e municipais, públicos ou provados, específicos ou oriundos de convênios ou ajustes financeiros firmados pelo município, cuja aplicação seja destinada especificamente às ações de implantação de projetos Turísticos do Município. Os donativos poderão ser feitos em bens ou espécies;
+
+
+III –
+
+Recursos transferidos pelo município ou entidades privadas, orçamentários ou decorrentes de crédito especiais e suplementares, que venham a ser, por lei ou decreto, atribuídos ao Fundo;
+
+
+IV –
+
+Rendimentos e juros provenientes de aplicações financeiras dos recursos do Fundo;
+
+
+V –
+
+Outras taxas do setor turístico ou incentivos fiscais, que porventura vierem a ser criados;
+
+
+VI –
+
+Serviços de Guia de Turismo;
+
+
+VII –
+
+As resultantes de convênios, contratos ou acordos firmados com instituições públicas ou privadas, nacionais ou estrangeiras, dentre elas:
+
+
+a)
+
+taxas de hospedagens, passagens aeroviárias, ferroviárias e rodoviárias;
+
+
+b)
+
+produto de arrecadação de taxas, multas e juros no âmbito do Turismo;
+
+
+c)
+
+participação na bilheteria de eventos artísticos, culturais e esportivos, com fins lucrativos;
+
+
+d)
+
+venda e publicação e edições relativas ao Turismo.
+
+
+VIII –
+
+Demais receitas decorrentes do desenvolvimento do Turismo.
+
+
+IX –
+
+Cessão de espaços públicos para eventos de cunho turístico;
+
+
+X –
+
+As dotações constantes do Orçamento geral do Município;
+
+
+XI –
+
+O produto de arrecadação de taxas de fiscalização, multas e juros no âmbito do Setor de Turismo.
+
+
+§ 1º
+
+O orçamento anual do município deverá prever recursos para o Fundo Municipal de Turismo.
+
+
+§ 2º
+
+A movimentação e a aplicação dos recursos do Fundo Municipal do Turismo - FUMTUR serão deliberadas pelo Conselho Deliberativo.
+
+
+§ 3º
+
+A fiscalização da aplicação dos recursos e da movimentação contábil será exercida pela Comissão de Fiscalização, composta por três membros, nomeados pelo Prefeito Municipal.
+
+
+§ 4º
+
+Excetua-se do disposto nesse artigo a aquisição realizada com recursos transferidos por intermédio de convênio, quando este estabelecer normas para a destinação dos bens adquiridos.
+
+
+Art. 8º.
+
+As receitas que constituírem recursos do Fundo serão depositadas em conta específica, sob a denominação de PREFEITURA DO MUNICÍPIO DE BIRIGUI/FUNDO MUNICIPAL DE TURISMO - FUMTUR.
+
+
+Parágrafo único
+
+O eventual saldo não utilizado pelo Fundo Municipal de Turismo - FUMTUR, será transferido para o próximo exercício, a seu crédito.
+
+
+Art. 9º.
+
+Quando disponíveis os recursos do Fundo poderão ser aplicados no mercado de capitais, objetivando o aumento das receitas, cujos resultados a ele reverterão.
+
+
+#### CAPÍTULO IV — DOS ATIVOS E PASSIVOS DO FUNDO
+
+
+Art. 10.
+
+Constituem ativos do Fundo:
+
+
+I –
+
+Disponibilidades monetárias, oriundas das receitas específicas;
+
+
+II –
+
+Direitos que porventura vier a constituir;
+
+
+III –
+
+Imobilizados, móveis e utensílios, máquinas e equipamentos e outros.
+
+
+Art. 11.
+
+Constituem passivos do Fundo as obrigações de qualquer natureza que porventura venha a assumir para a manutenção e funcionamento do Plano Municipal de Turismo.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 12.
+
+O Fundo Municipal de Turismo será administrado por um representante do Departamento de Finanças da Prefeitura e pelo Presidente do COMTUR os quais serão nomeados pelo Prefeito Municipal.
+
+
+Parágrafo único
+
+Em caso de extinção do FUMTUR, seu Patrimônio será incorporado ao patrimônio público municipal.
+
+
+Art. 13.
+
+A administração superior e a coordenação político-administrativa do Fundo serão exercidas pelo Prefeito Municipal, sem prejuízo das competências e atribuições delegadas por esta Lei.
+
+
+Art. 14.
+
+O Poder Executivo regulamentará dispositivos desta Lei, por Decreto, no que couber.
+
+
+Art. 15.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte e um de março de dois mil e seis.
+
+**PAULO BATISTA DE SOUZA**
+
+**Prefeito Municipal**
+
+**ANTONIO LIRANÇO**
+
+**Secretário Municipal de Indústria, Comércio e Agronegócios**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**ELISABETE GRASSI CRUZ**
+
+**Secretária Substituta de Expediente e Comunicações Administrativas**
+

@@ -1,0 +1,136 @@
+{
+  "aprovados": 108,
+  "retidos": 6,
+  "hosts": 29,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/aprovados.paths.txt",
+      "sha256": "08b1bdfc69c690179bbae609bccfe6d6bf38963c955ecc6f0995e38590cec176"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.agudo.rs.leg.br.json",
+      "sha256": "1fd49c261039d9e24234caf86b361c58878632ee0449f70d854feb7158ad60b2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.barradesaomiguel.pb.leg.br.json",
+      "sha256": "6aca8e326697a3cdb5846725f93ddae98b6cff6c3cb2fd09d2912bf83f7f4160"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.bomjardim.rj.leg.br.json",
+      "sha256": "e448977cb477d2338fa9c3cd5357207535b13c16870a0eca925515f32646ebf1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.california.pr.leg.br.json",
+      "sha256": "2772d9933ccd15a9d4367006e9de708ddd25d28e8582efa9d2603cfc0281b31b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.cambira.pr.leg.br.json",
+      "sha256": "f1b59eb653d4841c2c72912851b979fc80e04130e90f0f235c6c942bfdc5d428"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.canapolis.mg.leg.br.json",
+      "sha256": "d78ad7c34d82b23211041fab0ec2b878841e684865d859971353ff7444b53915"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.cataguases.mg.leg.br.json",
+      "sha256": "c0649cf3c09dc58d932b8aa4a51029ee899aa7dec01bb9cb317d4b00b725b935"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.corbelia.pr.leg.br.json",
+      "sha256": "8f07c05e888939b486e38a6511613c9c93a1f58398e40b6177ec388ae49a36dd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.delfimmoreira.mg.leg.br.json",
+      "sha256": "ef8f5366e75ecab76691e18f26dd57b6e8be70914ea7dad2b5c8cb48e30ce2f1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.domingosmartins.es.leg.br.json",
+      "sha256": "278c9e82b6aa319d57ef7108bfa42267f8b20e572c305abc0028d0e15de255d8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.flores.pe.leg.br.json",
+      "sha256": "69ed68e25bc65c3b8eca3c63b26446c3fe24b1308b3c3f73716014dee395004c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.florida.pr.leg.br.json",
+      "sha256": "d683038f03144af677841929312f360459a0e9ce91aa5d74f231b33ae06b2347"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.iguape.sp.leg.br.json",
+      "sha256": "69b3e0ab3cb30c09303db2c8f8c6467646e38ccbc5a68bd51f2e7f7db8a1ddb3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.ilhacomprida.sp.leg.br.json",
+      "sha256": "559612350283bd8b5f42e93545be5f14e2459451bb3239369b6e89b66e9eb58d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.jataizinho.pr.leg.br.json",
+      "sha256": "387d78de93f1d2f63503222e89c83fee7ba4998a0f35eecdebb81ab1c16b7298"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.joaopessoa.pb.leg.br.json",
+      "sha256": "fa8b64ad52e64760f1fada87f1745cfa910831124bf502f1a6c572d1144fd3e5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.joaquimtavora.pr.leg.br.json",
+      "sha256": "168ac7a95196e30522ad644fc74d452ab7d77d92e438a7867ba4d31f8d753ff2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.lagoadaprata.mg.leg.br.json",
+      "sha256": "e05672b495ff545c9cbf89ec44bfeffb724bcf5e4b46cdb24ee2308879c43ad1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.laranjalpaulista.sp.leg.br.json",
+      "sha256": "aa3b3f38aff15f5624e1820789788fcdb72b665a5b630433112b20c76cdec35e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.luz.mg.leg.br.json",
+      "sha256": "6bc3b5d272a5bbcd4a332d9dc877da6221b31b780ee15cca659f588fa1c55392"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.manhumirim.mg.leg.br.json",
+      "sha256": "a7233c41575aeab6bd49ee242dbae994ea90966ef33e238cbe5d13b3cdff503e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.mauadaserra.pr.leg.br.json",
+      "sha256": "e65b5b5b7f9404e2ae85dbe861dde52219373fd884e530f0a5e3bbf6b1dcccad"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.mercedes.pr.leg.br.json",
+      "sha256": "ed358d4282e867bff991ad3b653d276e4a83e526a1772c62113b378f13e85e34"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.pontenova.mg.leg.br.json",
+      "sha256": "fed44d1b2ecf83e00513042b8b1cb7887dfb0c3fac217562b053f80c8f8963e8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.ribasdoriopardo.ms.leg.br.json",
+      "sha256": "0b74ec987be2b60aaaa251ad02a55948ad530b7ca5128527842442b4814c294c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.serranopolisdoiguacu.pr.leg.br.json",
+      "sha256": "2e34adee126eb4b3aa1a59997a6fce34f361c4b2a9ef377a56a16e673b51f0cd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.sertania.pe.leg.br.json",
+      "sha256": "ffecd16520bb925ed6bdabcbde7df53d9af1222140b342be0181d77aac5a4782"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.tomazina.pr.leg.br.json",
+      "sha256": "5f3a8d3cb180957d60fb096c8c9726c4512b72f931f724a265570155fc652af4"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/host-sapl.uba.mg.leg.br.json",
+      "sha256": "4e3b4e3c00ce5a36e7d1654af80ca738265c1d27f0c208dbf4bf5e91fd2b21ee"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/overlay.json",
+      "sha256": "835cb553f81bc6baac5642975e91312d6c4ce794ff72f6c24629e9f65b73c845"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/retidos.paths.txt",
+      "sha256": "0e26ab2bcd9b50ad321375e8c953524a942ca30c5213a87d004f9a838e32bcdd"
+    }
+  ],
+  "script_sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362"
+}

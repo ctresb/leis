@@ -1,0 +1,154 @@
+---
+titulo: "LEI Nº 3.507, DE 28 DE AGOSTO DE 2026."
+uf: "RO"
+municipio: "PORTO VELHO"
+tipo: "Lei Ordinária"
+numero: "3507"
+data: 2026-08-28
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 31/08/2026"
+data_publicacao: 2026-08-31
+codigo_identificador: "E1E9503A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116141_2026-08-28_263a9033191eaa5e1863b7f0b63e3884.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 3.507, DE 28 DE AGOSTO DE 2026.
+
+LEI Nº 3.507, DE 28 DE AGOSTO DE 2026.
+Dispõe sobre a obrigatoriedade de alinhamento e
+identificação de fiação aérea, remoção de fios e
+equipamentos excedentes e sem uso, instalados por
+concessionárias e empresas privadas que operam ou
+utilizam rede aérea, no Município de Porto Velho e
+dá outras providências.
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO usando da
+atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei
+Orgânica do Município de Porto Velho.
+Faço saber que a CÂMARA MUNICIPAL DE PORTO VELHO
+aprovou e eu sanciono a seguinte
+LEI:
+Art. 1º Ficam a empresa concessionária de serviços de energia elétrica
+e as empresas de telecomunicações, conforme a Norma de
+Distribuição Unificada da ENERGISA/GTD NDU09, obrigadas a
+realizar o alinhamento e a identificação dos fios por ela utilizados e a
+retirada dos seus fios e equipamentos não utilizados nos postes
+existentes no Município de Porto Velho.
+§ 1º A empresa concessionária ou permissionária de serviços de
+energia elétrica fica obrigada a notificar as demais empresas que
+utilizam os postes como suporte de seus cabeamentos, a fim de que
+estas façam a identificação e o alinhamento dos seus cabos e demais
+instrumentos por elas utilizados e que procedam à retirada do que não
+estão mais utilizando.
+§ 2º A identificação da fiação deve atender aos termos da Norma
+(NBR)15214, da Associação Brasileira de Normas Técnicas (ABNT),
+ou outras normas técnicas que venham à substituí-la.
+§ 3º Para efeito desta Lei, cabos ou fiação aérea são todos os produtos
+que utilizam cabeamento para levar ao mercado consumidor os
+
+serviços oferecidos por concessionárias e empresas que operam
+distribuindo:
+I - energia elétrica;
+II - telefonia fixa;
+III - banda larga;
+IV - tv a cabo; e
+V - demais redes correlatas que utilizem cabeamento aéreo.
+Art. 2° A empresa concessionária ou permissionária de serviços de
+energia elétrica deve fazer a manutenção, conservação, remoção,
+substituição, sem qualquer ônus para a administração pública
+municipal, de poste de concreto ou de madeira que esteja em estado
+precário, torto, inclinado ou em desuso.
+§ 1º Em caso de substituição de poste, fica a empresa concessionária
+ou permissionária de serviços de energia elétrica, obrigada a notificar
+as demais empresas que utilizam os postes como suporte de seus
+cabeamentos, a fim de que possam realizar o realinhamento dos cabos
+e demais petrechos.
+§ 2º A notificação de que se trata o § 1º deste artigo, deverá ocorrer
+em 48 (quarenta e oito) horas da data da substituição do poste.
+§ 3º Havendo a substituição do poste, as empresas devidamente
+notificadas têm o prazo de 15 (quinze) dias para regularizar a situação
+de seus cabos e/ou petrechos.
+Art. 3º O compartilhamento da faixa de ocupação deve ser feito de
+forma ordenada e uniforme, de modo que a instalação de um ocupante
+não utilize pontos de fixação e nem invada a área destinada a outros,
+bem como o espaço de uso exclusivo das redes de energia elétrica e de
+iluminação pública.
+§ 1º Para efeito desta Lei, faixa de ocupação corresponde ao espaço na
+infraestrutura da rede de distribuição de energia elétrica onde são
+definidos pela concessionária os pontos de fixação destinados
+exclusivamente ao compartilhamento com agentes do setor de
+telecomunicações.
+§ 2º Os 40 cm (quarenta centímetros) imediatamente abaixo do
+condutor de baixa tensão, seja este do tipo convencional ou
+multiplexado, deverão ser reservados, com exclusividade, para a
+instalação e manutenção dos circuitos e equipamentos destinados à
+iluminação pública.
+§ 3º É vedada a utilização do espaço mencionado no § 2º deste artigo,
+por quaisquer outras redes ou cabeamentos, ainda que previamente
+instalados, exceto quando tecnicamente justificado e autorizado pelo
+órgão municipal competente responsável pela gestão da iluminação
+pública.
+Art. 4º Fica a concessionária proibida de realizar a alimentação dos
+pontos de iluminação pública fora do braço projetado, mesmo em
+decorrência da instalação de Sistema de Medição Centralizada - SMC,
+blindagem de rede ou outras intervenções técnicas.
+Parágrafo único. Qualquer alteração na forma de alimentação deverá
+ser previamente autorizada pelo órgão municipal competente, sendo
+vedada a adoção de forma definitiva ou sem justificativa técnica
+formal.
+Art. 5º Fica a empresa concessionária ou permissionária de serviços
+de energia elétrica, obrigada a enviar mensalmente ao Poder
+Executivo Municipal relatório das notificações realizadas, bem como
+do comprovante de recebimento por parte do notificado.
+Art. 6º As fiações devem ser identificadas e instaladas separadamente
+com o nome da ocupante, salvo quando o desenvolvimento
+tecnológico permitir compartilhamento.
+Parágrafo único. Nas ruas arborizadas, os fios condutores de energia
+elétrica, telefônicos e demais ocupantes dos postes de energia elétrica
+deverão ser estendidos a distância razoáveis das árvores ou
+convenientemente isolados.
+Art. 7º Caberá ao Poder Executivo Municipal, por intermédio do
+órgão ou entidade competente designado em regulamento, a
+responsabilidade de fiscalizar, notificar e autuar a concessionária ou
+permissionária de energia elétrica, bem como as demais empresas que
+utilizem a infraestrutura de postes no Município.
+Art. 8º Compete ao Poder Executivo Municipal, por intermédio do
+órgão ou entidade responsável designado em regulamento, notificar a
+concessionária ou permissionária de energia elétrica para realizar a
+remoção de equipamentos, cabos ou fiação excedente e sem uso.
+§ 1º A concessionária ou permissionária mencionada no caput deste
+artigo terá o prazo de 30 (trinta) dias, a contar do recebimento da
+notificação, para apresentar ao Poder Executivo plano de remoção da
+rede aérea excedente e sem uso.
+
+www.diariomunicipal.com.br/arom
+
+127
+
+Rondônia , 31 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4309
+§ 2º No caso de não apresentação ou descumprimento do plano
+previsto no § 1º deste artigo, será aplicada multa no valor de
+R$5.000,00 (cinco mil reais), sem prejuízo da fixação de novo prazo
+de 30 (trinta) dias para a regularização.
+§ 3º Persistindo a irregularidade, a cada período subsequente de 30
+(trinta) dias será aplicada multa no valor de R$20.000,00 (vinte mil
+reais), até a efetiva regularização.
+§ 4º As empresas que utilizam os postes da concessionária ou
+permissionária de serviços de energia elétrica sera aplicada multa de
+R$ 1.000,00 (mil reais) por notificação não atendida, quando
+relacionada à organização, identificação ou remoção de cabos
+excedentes, conforme previsto nesta Lei, no prazo de até 30 (trinta)
+dias após o recebimento, ou em até 15 (quinze) dias no caso previsto
+no § 3º do Art. 2º desta Lei.
+§ 5º Os valores das multas previstos nesta Lei serão atualizados
+anualmente com base no índice oficial de inflação adotado pelo
+Município, ou outro que venha a substituí-lo.
+Art. 9º A rede ou fiação aérea não deve comprometer a segurança das
+pessoas e instalações de qualquer espécie.
+Art. 10. Esta Lei entra em vigor na data de sua publicação.
+Art. 11. Fica revogada a Lei nº 2.675 de 04 de novembro de 2019.
+LEONARDO BARRETO DE MORAES
+Prefeito
+Publicado por:
+Fernanda Santos Julio

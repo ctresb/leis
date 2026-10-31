@@ -1,0 +1,102 @@
+{
+  "host": "sapl.boavista.rr.leg.br",
+  "metadados_unicos_observados": 624,
+  "total_api_declarado": 624,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 416,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/88cf22e8f7c2c558f49980a0811dac740a10c691719e3986e97c1afd0ea2d47b.json",
+    "url": "https://sapl.boavista.rr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "930ab027536f31026058d006f4c7241f54b247655e47e05728e2fa6dec0a7934",
+    "bytes": 1327,
+    "capturado_em": "2026-10-20T23:30:42.928254"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/6afeeae9abcd726ecc910249ca391e229035ea0ad8588b16217db94d32b1d9f8.json",
+    "url": "https://sapl.boavista.rr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.boavista.rr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "cb28cf107ca2dc32c3c6dfa48dfbcc89a324a3a43aff9b9c951332a3af9da09d",
+    "bytes": 774,
+    "capturado_em": "2026-10-20T23:30:43.928722"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/174d6c54727b5eab334a2a23793888bbd3287dbdfea69f5bcef1ee55d97b1986.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b164c7f1da76d7b00bf69e000a63c5ad9b38909bdd700a0b6f90f09cecfe38db",
+      "bytes": 60980,
+      "capturado_em": "2026-10-20T23:30:47.729746"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/397c0cb0301b2f6f27c3303b277f6e47ddd8442f9a6b2e005d7c07e8f8f4b303.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0e49c5adb513f52cdfed6da67e4eb2f61e100036382bd17aadecebe10792cc80",
+      "bytes": 58314,
+      "capturado_em": "2026-10-20T23:35:09.511390"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/1e0e61bcca17b2d45694a6ae5cfdb55fbca9730f376713c37d8ba5a1230a2967.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ecde5bc2190c53ed5f5171d0e985dd0c3f691744c3601cb3dd0e46dda9fc82ba",
+      "bytes": 59249,
+      "capturado_em": "2026-10-20T23:39:04.945799"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/f474aa2df97525fef78377578cf0337b082a7817f633cdeb963bcb927ec2da5c.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9d6d9f5bc33ebb2832d07c623a22b3a8d74607707e25f828d3af4fa61c339dfc",
+      "bytes": 57530,
+      "capturado_em": "2026-10-20T23:43:23.497118"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/7cbe39bea06780ffde49c9848470bf8ab60dcc23dc90fa3e65f43b2fe208e710.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5acf9b3cd2ca8e0a00f9076233c49b35daaea2fa2060cfde5a2bab61dd3239c0",
+      "bytes": 58506,
+      "capturado_em": "2026-10-20T23:48:38.440570"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/b785f938824339d609cbaf616a40bab07f5ce1384fc686bbd9759c41c8007df6.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "70a654f13c11c0f2a3fd8bb28b086eccd0fb0f84e12f548985e359296842a19e",
+      "bytes": 57442,
+      "capturado_em": "2026-10-20T23:53:26.595729"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavista.rr.leg.br/f558758e4480afba7fb1c8cda28d01203ba4f12971bbe6f32cb94452c9a44c7b.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.boavista.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "dda834733b651928fea9136b663f1492096eb67b4b81ab59fe5ae37c60567689",
+      "bytes": 13476,
+      "capturado_em": "2026-10-20T23:54:59.671094"
+    }
+  ],
+  "script_sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,372 @@
+{
+  "host": "sapl.ibiuna.sp.leg.br",
+  "metadados_unicos_observados": 3393,
+  "total_api_declarado": 3393,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 626,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/f99c524295a5e668c4328fac069181ca74a7198497c4679c9f1f4795adc6f56f.json",
+    "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3f70485b1cd3702e16a99d3515ee84f0b3fedce237d044ce0ce878757548c60b",
+    "bytes": 954,
+    "capturado_em": "2026-10-28T13:43:47.930954-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/380344f4cba4e6788aeef66edd5f644883700dd6b515a489ceed5db878a831f6.json",
+    "url": "https://sapl.ibiuna.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.ibiuna.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "422551774400007c3cb55565bcf93671f62bb81d5a955ee92e02715ece74c100",
+    "bytes": 791,
+    "capturado_em": "2026-10-28T13:43:46.965899-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/b9b119fba0a008c937e485250a80bb61ea9ce6bf4552f1f5deae14b523407a0a.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5fd58b29f4de18dd97372142a9e31f9417ee44fcafc14ab9c4dda3d752bd3eb5",
+      "bytes": 65138,
+      "capturado_em": "2026-10-28T13:43:50.244061-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/90e603abe39dc674e1c3998222b26e32d8d34f0baf9bc8b14867e8aa358a9fec.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "439329b4c115df278b454668455bd73b51b238e755a4c839184e7557ee46b7f0",
+      "bytes": 64939,
+      "capturado_em": "2026-10-28T13:43:53.265860-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/6a91ffba87ab53d44584387de60a568753369259cad07b1230b92e21fccd1785.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "713971b98861e2925baaa12ac734d22aaf74776ef6bb4cf7b5ef471c766f9377",
+      "bytes": 62955,
+      "capturado_em": "2026-10-28T13:43:54.209046-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/3f5e08e25cb5aa6f8b7c45fcd2aa9c310313e75ab48f9196f63b7276024c7472.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3e949fe69e121c11e7eda7b88016bb8ec845437eff07928c941bcc3140800fa1",
+      "bytes": 57552,
+      "capturado_em": "2026-10-28T13:43:57.229880-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/0dcbdd6dbe5af264cd89935bf19480ef4e8941c671eb43c640a90e69a1d184fe.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c3e3f54ab22ba8b785bb483e452a32734bba739585c21a0ea970694cd1348c49",
+      "bytes": 60402,
+      "capturado_em": "2026-10-28T13:43:58.405057-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/77e275c279c7ab764dde90af134ea9714481110215b3545e7fa69074afcf1086.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "558a03599e6ad7f2ebfe0432db0a99bd96630f74aa436b1678a25994d6fc9b3b",
+      "bytes": 60599,
+      "capturado_em": "2026-10-28T13:43:59.240577-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/68751c130cff04a558e6cb6731621395bb85e81b1a8c6eeb1621d7255bdcc772.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f6ae2ac1045d86d03e45ff15cb5dadaaa1504416d483cab33e6db5405e7a6262",
+      "bytes": 59780,
+      "capturado_em": "2026-10-28T13:44:00.254407-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/a5ef1117b5bc7ca30de07568b030b260929630b201487bb5bef2cb0f9bac3676.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "970fef999a98187c53921e0e5fc89a7dc79ce36a85e1c85ab3e58eed07048bbe",
+      "bytes": 58844,
+      "capturado_em": "2026-10-28T13:44:01.269112-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/17305f4108f35dbd6c9dd67289bb30fbf722dbacaee5f4321fa405d2d3532550.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ef7d5f1ad4c3b47f8c1dee1e707be27bcbc7d89e6a8942380d021ed1c46e01d8",
+      "bytes": 64324,
+      "capturado_em": "2026-10-28T13:44:02.317342-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/41da54ea05daab18d0f89b12fdc1b1e17d1d02f1ecd7ae4ddc306c7c7f11f14b.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9f214d5773e3bf3f5ce624e7fee7f642cdd4cb656f7e065ab56573352bdaa268",
+      "bytes": 59864,
+      "capturado_em": "2026-10-28T13:44:03.234121-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/bb2ca220aa9b5c30b195b7bfe14d211d8d7f9e3264fdbeedf35fe196d20cad57.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "19f8987da694fd0d0e893335d00407cf45e43c525c34617b52398a52471caccb",
+      "bytes": 62744,
+      "capturado_em": "2026-10-28T13:44:04.271019-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/1897feb83a9fec51aef963ef0ffb6993b4ae164dafb256683acb04c4f2c5aaf8.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a712f4c706b499b934965f3733ba6b9d9212e0a95a0b0a37dc9e12cd322ab977",
+      "bytes": 66379,
+      "capturado_em": "2026-10-28T13:44:05.230113-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/da91da2dc374cea3feefcef662abc7cb2ca4019933835891c7d509aae1b79ee5.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "16010c9fd56f8ccf94daa8a7aa75464523e07da6d5b47993e77500c00163a1c8",
+      "bytes": 68265,
+      "capturado_em": "2026-10-28T13:44:06.226849-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/0603d075a4a7c82744b769683a9ffde413d68b56e2ba7555c4f18b815ba52650.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6bace95f44de7535251d15e01b4371ac2f77f18ff0056514c68599844e99109c",
+      "bytes": 66450,
+      "capturado_em": "2026-10-28T13:44:09.459528-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/1f30cf270dcd47260cf137e50357499f28395271d40b3188facd40b8bb93cf48.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "68534d43b227eba815bd5dc40d94bc9e65a8be4ccf716d772710e4dea9d22042",
+      "bytes": 65618,
+      "capturado_em": "2026-10-28T13:44:10.308036-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/98f33289bfc032ee3051f21678f09d36d4a97b44268bd8a4062b76516e8e4947.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "83c36778439fc77e4b5be5f3b6e2c926e19029c35b2c98e126fea3e69188c698",
+      "bytes": 64774,
+      "capturado_em": "2026-10-28T13:44:11.323436-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/a7e948c30ac0bdbcd7defc033c72153816d75615855168ca9205a85e5742794e.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "319f35abe4019cf5a93256b7ef1e3a8a234772837098c98aea0f9b08b85fbff6",
+      "bytes": 67118,
+      "capturado_em": "2026-10-28T13:44:12.420161-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/8da8fbe496b0c9d2b352906dfcf90ca6a6868543080d7f79ddd3440de7302a67.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c95957953dd5e87dccd791751a88ea11388ce3ede36b3809a1072168e3dda543",
+      "bytes": 67752,
+      "capturado_em": "2026-10-28T13:44:13.324545-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/873fd357540b48bd3f450eb7d20c2960174d963fb93810b02ca08e705b48eba4.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "76665847cabc2c93d44ed3d3189b0ccc05ef87252be5f76beb62c2cedd12cdf9",
+      "bytes": 64650,
+      "capturado_em": "2026-10-28T13:44:16.644399-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/2f9ca9add7ed38b1e4cd47c944d2a1655335663dc32caabc2f3a2473ac6469e8.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b91231ef769b87b849b69a77d3819d9d70889d4c047811a6a614eb6f2d30d3c4",
+      "bytes": 60794,
+      "capturado_em": "2026-10-28T13:44:19.298507-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/203e1f0960a69dd5369b91f4193565bac97433133bea04eab2be9ae1f87a14f0.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "28a24e8fd431e5aba5ee3d511876674f7d68090dd34191892243c5c78a2ff4da",
+      "bytes": 65544,
+      "capturado_em": "2026-10-28T13:44:20.527406-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/cd2f29fd5db3496855f9e690445493cc56b13478b60293150adb869a4a4f92eb.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f206f83d8e7bbb3993a1801972271596766809f381b4deacdb765c24afecf621",
+      "bytes": 63617,
+      "capturado_em": "2026-10-28T13:44:23.351741-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/99fe5c3d411554732870856a57c68cad139689e7ef34148c1039ad60c13d64b2.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "42de1e87299b9e8b110f98794657c54e36ed79aa68ffa66026d4e5f19f88abab",
+      "bytes": 62956,
+      "capturado_em": "2026-10-28T13:44:26.473818-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/4548267062d006661c87a7c919bc24dd483cf8e2c2a3d4d21275d2090b3dff1b.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "85b7c80c8d548c3edd338033d45aec3450f94b55f3df2dbce906848564a1dbc4",
+      "bytes": 57822,
+      "capturado_em": "2026-10-28T13:44:27.350881-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/76c3269f433e4d45b6001fe987022acbf70553e95eb7a6851455ef97b3798ed1.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e0cd30dda35881786bdcaec47e031eba240d43c2089957f75913b770142593f4",
+      "bytes": 59446,
+      "capturado_em": "2026-10-28T13:44:28.678056-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/48d1e17804dd36423349055b59f06304baae2e2c0bd5d22cc29c50204056d972.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7b1c8c4768f5f8dacf4647ae68c228c2c9514fce6966206e2e52d63a15e88ae0",
+      "bytes": 62744,
+      "capturado_em": "2026-10-28T13:44:29.346690-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/4e3efddf346a449164f096d2737e33f0722eb379d4ce139219f7646f2aeb73cd.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f95e145cf058830cccf4c4fa001ee10bd2da05de26f18e15061802771119a539",
+      "bytes": 59977,
+      "capturado_em": "2026-10-28T13:44:30.425756-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/95e063cd12971564df68d5b59f37bc2dd50d9bfa21c9de66dcd634dd4b33f7cf.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6e8b0b69e0f1fd1e3b2f95373512c764ef1273b70d71bd56e96952d72b7084da",
+      "bytes": 58895,
+      "capturado_em": "2026-10-28T13:44:51.336837-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/fd7d56fad251c61a3c3d81375f9755c50a0c7abb5e7cf76f801da08c29840449.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "385cf828b583e18d76d3aaf4c5b09a7ebd873137d56910f3932825a4036bd06a",
+      "bytes": 54808,
+      "capturado_em": "2026-10-28T13:46:06.043053-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/d97160699f169fe2d5c9fa42faa6e4183a4f5fa61b8a3f0a94d198b25ba39612.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1cdd42d092a92c526e35f3144579bb536a06af1ae0a13c0c632210eceb4fbf00",
+      "bytes": 58215,
+      "capturado_em": "2026-10-28T13:49:29.337075-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/3bcf636bdeac573c40a23e35e016ff41c3aad738ddf4c1bfa19509af2825a843.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5bf78e84794cd4edda546f9fbb8cf50422c5119e6464577caa38dd5e94c7f056",
+      "bytes": 58511,
+      "capturado_em": "2026-10-28T13:52:52.142412-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/6e71d39d34fe493d9cbaade924e667744a343b5f801c7a97e1584434b759c87d.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bb4a2a4fe1a6e5cdd2a44d640a0da9490ee29780413408a98c5df192dd1bedd6",
+      "bytes": 53514,
+      "capturado_em": "2026-10-28T13:56:09.387919-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/a7906cf3293bc183e1a83c9f70d79485c20287ecb3489885dd0551808d391e6e.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "03e6a447d5308e2a62f9bfa586fe053989893e05525cd027663d04471ef197dc",
+      "bytes": 54010,
+      "capturado_em": "2026-10-28T13:59:30.084184-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibiuna.sp.leg.br/bd5642261ce05f334fb62b2c91f84660fd0a56c75a4b6b6e1df14ce056a3fd20.json",
+      "url": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "url_final": "https://sapl.ibiuna.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "89c7f8c2419da4a9a12e98e4e2be1f9e7a3a7056982809cdddb9f59e66f1d97d",
+      "bytes": 49997,
+      "capturado_em": "2026-10-28T14:02:51.445957-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

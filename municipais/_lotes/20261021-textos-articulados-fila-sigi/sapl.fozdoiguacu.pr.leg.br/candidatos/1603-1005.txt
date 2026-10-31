@@ -1,0 +1,48 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 12.000.000,00 (doze milhões de reais) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento Geral do Município, no valor de R$ 12.000.000,00 (doze milhões de reais), detalhadas no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 27 de novembro de 2023.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Eliane Dávilla Sávio  
+Secretária Municipal da Administração  
+  
+Nilton Aparecido Bobato  
+Secretário Municipal da Transparência e Governança  
+  
+Darlei Finkler  
+Secretário Municipal da Fazenda - Interino
+
+
+## Anexo I — SUPLEMENTAÇÃO
+
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO I - SUPLEMENTAÇÃO</strong></td></tr><tr><td>Órgão</td><td>04</td><td>SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</td><td>Valor</td></tr><tr><td>Unidade</td><td>04</td><td>DIRETORIA DE GESTÃO DE PESSOAS</td><td> </td></tr><tr><td>Funcional Programática</td><td>28 846 0030 3.002</td><td colspan="2">Contribuição Patronal e Aportes para o RPPS - Administração</td></tr><tr><td>Natureza da Despesa</td><td>3.1.91.13.99</td><td colspan="2">Outras Obrigações Patronais</td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente </td><td>7.580.000,00</td></tr><tr><td>Órgão</td><td>10</td><td>SECRETARIA MUNICIPAL DA SAÚDE</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>FUNDO MUNICIPAL DE SAÚDE</td><td> </td></tr><tr><td>Funcional Programática</td><td>10 122 0100 2.090</td><td colspan="2">Manutenção e Ampliação das Atividades de Gestão em Saúde</td></tr><tr><td>Natureza da Despesa</td><td>3.1.91.13.99</td><td colspan="2">Outras Obrigações Patronais</td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente </td><td>260.000,00</td></tr><tr><td>Funcional Programática</td><td>10 302 0560 2.093</td><td colspan="2">Manutenção dos Serviços de Atendimento Móvel de Emergência</td></tr><tr><td>Natureza da Despesa</td><td>3.1.91.13.99</td><td colspan="2">Outras Obrigações Patronais</td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente </td><td>350.000,00</td></tr><tr><td>Órgão</td><td>12</td><td>SECRETARIA MUNICIPAL DA EDUCAÇÃO</td><td> </td></tr><tr><td>Unidade</td><td>02</td><td>DIRETORIA DE ENSINO FUNDAMENTAL</td><td> </td></tr><tr><td>Funcional Programática</td><td>12 361 0600 2.114</td><td colspan="2">Manutenção do Ensino Fundamental</td></tr><tr><td>Natureza da Despesa</td><td>3.1.91.13.99</td><td colspan="2">Outras Obrigações Patronais</td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente </td><td>2.000.000,00</td></tr><tr><td>Unidade</td><td>05</td><td>DIRETORIA DE EDUCAÇÃO INFANTIL</td><td> </td></tr><tr><td>Funcional Programática</td><td>12 365 0600 2.102</td><td colspan="2">Manutenção da Educação Infantil</td></tr><tr><td>Natureza da Despesa</td><td>3.1.91.13.99</td><td colspan="2">Outras Obrigações Patronais</td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente </td><td>1.455.000,00</td></tr><tr><td colspan="4">Justificativa: Reforço das dotações para pagamento de Encargos Patronais, em virtude da mudança de Alíquota Patronal e do aumento da Contribuição dos inativos que migraram do Fundo Financeiro para o Fundo Previdenciário.</td></tr><tr><td>Órgão</td><td>31</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Unidade</td><td>01</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Funcional Programática</td><td>13 392 0310 2.180</td><td colspan="2">Manutenção e Gestão da Fundação Cultural</td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.11.01</td><td colspan="2">Vencimentos e Salários</td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente </td><td>355.000,00</td></tr><tr><td colspan="4">Justificativa: Reforço da dotação para pagamento de Salários e Vencimentos.</td></tr><tr><td colspan="3"><strong>TOTAL DA SUPLEMENTAÇÃO </strong></td><td><strong>12.000.000,00</strong></td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO
+
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO II - ANULAÇÃO</strong></td></tr><tr><td>Órgão</td><td>41</td><td>FOZ PREVIDÊNCIA - FUNDO FINANCEIRO</td><td>Valor</td></tr><tr><td>Unidade</td><td>01</td><td>FOZ PREVIDÊNCIA - FUNDO FINANCEIRO</td><td> </td></tr><tr><td>Funcional Programática</td><td>09 272 0750 2.196</td><td>Pagamento de Aposentadorias e Pensões do Fundo Financeiro</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.01.99</td><td>Outros Proventos - Pessoal Civil</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.1046</td><td>Recursos vinculados ao RPPS - Fundo em Repartição (Plano Financeiro) </td><td>12.000.000,00</td></tr><tr><td colspan="4">Justificativa: Repriorização do recurso, diminuição do objeto previsto, mediante migração de vidas ao Fundo Previdenciário.</td></tr><tr><td colspan="3"><strong>TOTAL DA ANULAÇÃO </strong></td><td><strong>12.000.000,00</strong></td></tr></tbody></table>
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

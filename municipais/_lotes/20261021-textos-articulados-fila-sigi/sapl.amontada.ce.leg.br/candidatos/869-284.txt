@@ -1,0 +1,1872 @@
+Dispõe sobre o Plano Diretor Participativo de Amontada, revoga a Lei Municipal nº. 828, de 19 de Maio de 2009 e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE AMONTADA, do Estado do Ceará, faço saber que a Câmara Municipal decretou e eu sanciono a seguinte Lei:
+
+
+Disposições Preliminares
+
+
+Art. 1º.
+
+A presente Lei institui o Plano Diretor Participativo do Município de Amontada, instrumento básico da sua política de desenvolvimento e de expansão urbana, objetivando, a partir da fixação de objetivos e diretrizes definidos nos relatórios "Plano Estratégico de Desenvolvimento Sustentável" e "Plano de Estruturação do Território Municipal", orientar o processo de transformação do município, assegurando uma melhor qualidade de vida a seus habitantes.
+
+
+### TÍTULO I — DAS DEFINIÇÕES
+
+
+Art. 2º.
+
+Para efeito desta Lei são adotadas como referenciais ao fiel cumprimento de suas disposições normativas, as seguintes definições:
+
+
+I –
+
+ABNT - Associação Brasileira de Normas Técnicas;
+
+
+II –
+
+Acessibilidade - Consiste em sistemas que permitam e favoreçam o deslocamento de pessoas e bens dentro da estrutura urbana, visando garantir, de forma eficiente, o encontro entre pessoas, a relação entre atividades, o acesso a informações e lugares dentro do espaço urbano;
+
+
+III –
+
+Área - A medida de uma superficie. Superficie plana delimitada. Extensão de terreno;
+
+
+IV –
+
+Área non aedificandi – Área situada ao longo das águas correntes e dormentes, das faixas de ferrovias, rodovias e dutos, linhas elétricas de alta tensão e rede telefônica, bem como ao longo de equipamentos urbanos, definida em lei federal, estadual ou municipal, onde não é permitida qualquer edificação;
+
+
+V –
+
+Centro Focal da Unidade de Vizinhança - Constitui-se em uma área situada, aproximadamente, no centro geométrico da Unidade de Vizinhança, como seu elemento aglutinador, estando materialmente representada pelo conjunto de equipamentos de apoio à vida cotidiana, incluindo lazer, saúde, educação, segurança e a estação de transporte público;
+
+
+VI –
+
+Crescimento Contiguo - Crescimento urbano compacto, evitando deixar vazios urbanos, a não ser nos casos justificados de zonas de interesse ambiental ou espaços abertos de uso público;
+
+
+VII –
+
+Densidade ou Adensamento - Índice que traduz a relação entre quantidade de habitantes de grande importância para a definição e dimensionamento das infra-estruturas, equipamentos e serviços públicos, das zonas de uma cidade;
+
+
+VIII –
+
+Desenho Urbano - Aspecto global dos volumes construídos nas zonas urbanas e suas relações, incluindo os espaços públicos;
+
+
+IX –
+
+Diretriz - Expressão de conteúdo que define o curso da ação para a materialização dos conceitos;
+
+
+X –
+
+Edificação - É a construção de estruturas fisicas acima, no nível ou abaixo da superficie de um terreno, que possibilitem a instalação e o exercício de atividades;
+
+
+XI –
+
+Empachamento - Expressão utilizada para definir o ato de empachar, ou seja, encobrir algo impedindo sua visualização;
+
+
+XII –
+
+Infra-estrutura de Suporte Humano - Edificação ou espaço destinado ao uso da população e ao suporte à prestação de serviços de interesse público tais como escola, hospital, quadra esportiva, estação rodoviária, unidade de reciclagem de lixo, praça, etc.;
+
+
+XIII –
+
+Espaço de Convivência - Espaço público para onde a população converge para atividades de encontro e lazer, geralmente representados por praças, parques ou edificios públicos, com áreas externas (de entomo), atrativas e saudáveis;
+
+
+XIV –
+
+Estudo de Impacto de Vizinhança - Instituído pelo Estatuto da Cidade e obrigatório na aprovação de projetos que possam afetar a qualidade de vida da vizinhança pela produção de ruído, trânsito excessivo, poluição, etc., cabendo à população afetada aprová-los, preliminarmente;
+
+
+XV –
+
+Estudo de Impacto Ambiental - É o instrumento técnico-jurídico para a correta avaliação das conseqüências ambientais das atividades, obras e empreendimentos tidos como causadores de significativa degradação ambiental;
+
+
+XVI –
+
+Espraiamento - Dispersão, expansão desordenada;
+
+
+XVII –
+
+Evolução Urbana - É a compreensão do processo gradativo pelo qual a cidade se desenvolveu espacialmente, desde a sua fundação até a configuração atual, entendendo o ciclo e fatos que os determinaram;
+
+
+XVIII –
+
+Fórum Visível - É o conjunto formado por espaços públicos, edificios comerciais, cívicos, sociais e educacionais, situados no núcleo da Unidade de Vizinhança, com caráter de espaço cívico;
+
+
+XIX –
+
+Imagem da Cidade - Imagem memorável da cidade, cuja silhueta se forma pela junção dos remanescentes de recursos históricos e culturais, combinados com os aspectos naturais, definindo o caráter específico da cidade;
+
+
+XX –
+
+Indicador Urbano ou Índice Urbanístico - Taxa, quociente, índice e outros indicadores com o objetivo de disciplinar a implantação de atividades e empreendimentos no território municipal;
+
+
+XXI –
+
+Infraestrutura Básica - Sistema de instalações fisicas em rede (tubulações e cabeações) e edificações para abrigo de equipamentos destinados à prestação de serviços de abastecimento de água, esgotamento sanitário, energia elétrica, coleta de águas pluviais, telefonia, gás, coleta e destino final de lixo, e vias de circulação de sistemas de transporte:
+
+
+XXII –
+
+Infraestrutura de Suporte Humano - Edificação ou espaço destinado ao uso da população e ao suporte à prestação de serviços de interesse público tais como escola, hospital, quadra esportiva, terminal de transporte, praça, etc.;
+
+
+XXIII –
+
+Licença Ambiental - Ato Administrativo pelo qual o órgão ambiental competente estabelece as condições, restrições e medidas de controle ambiental que deverão ser obedecidas pelo empreendedor, pessoa física ou jurídica, para localizar, instalar, ampliar e operar empreendimentos ou atividades utilizadores de recursos ambientais, considerados efetiva ou potencialmente poluidores, ou aqueles que, sob qualquer forma, possam causar degradação ambiental;
+
+
+XXIV –
+
+Licenciamento Ambiental - É o procedimento administrativo pelo qual o órgão ambiental competente licencia a localização, instalação, ampliação e a operação de empreendimentos e atividades utilizadores de recursos ambientais, considerados efetiva ou potencialmente poluidores, ou daqueles que, sob qualquer forma, possam causar degradação ambiental, considerando as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso;
+
+
+XXV –
+
+Logradouro Público - É o espaço livre, assim reconhecido pela Municipalidade, destinado ao trânsito, tráfego, comunicação ou lazer públicos;
+
+
+XXVI –
+
+Lote - Terreno servido de infra-estrutura básica, cujas dimensões atendem aos índices urbanísticos nesta Lei ou em outra lei municipal para a zona em que se situe;
+
+
+XXVII –
+
+Meta - Condição ou estado relacionado com a satisfação pública ou bem-estar geral, para os quais o planejamento deve ser dirigido;
+
+
+XXVIII –
+
+Ordenamento do Uso e Ocupação do Solo - É o processo de intervenção do Poder Público, visando orientar e disciplinar a implantação de atividades e empreendimentos no território do município, com vistas a objetivos de natureza sócioeconômica, cultural e administrativa:
+
+
+XXIX –
+
+Plano Diretor Participativo - É o instrumento que constitui uma política de afirmação de macrodiretrizes, diretrizes setoriais nos aspectos estruturantes e condicionantes do desenvolvimento, ordenamento das funções sociais das propriedades, de acordo com as necessidades da comunidade local, nos aspectos fisico, social, econômico, ambiental e humano;
+
+
+XXX –
+
+Recurso Natural - Elemento relacionado à terra, água, ar, plantas, vida animal e às interrelações desses elementos;
+
+
+XXXI –
+
+Subsistema Viário Local – É aquele formado pelas vias locais, vias paisagísticas, ciclovias, vias de pedestres e sistemas cicloviários / calçadões;
+
+
+XXXII –
+
+Subsistema Viário Troncal - É o conjunto das vias destinadas a absorver grandes volumes de tráfego, interligando os Centros Focais das Unidades de Vizinhançа, constituindo a base fisica do sistema de transporte coletivo;
+
+
+XXXIII –
+
+Tráfego Calmo - Características de zonas urbanas onde é desestimulado o tráfego de passagem de veículos, com priorização do uso compartilhado das vias locais, apoio ao uso confortável por parte dos pedestres e velocidade baixa para veículos;
+
+
+XXXIV –
+
+Unidade de Vizinhança ou Vizinhança - Unidade fisica de planejamento para subdividir a zona urbana em núcleos de até 15.000 habitantes, com um raio de caminhabilidade médio de 15.000 (quinze mil) metros, onde o foco central de cada uma delas, também denominado de Centro Focal da Unidade de Vizinhança, agrega funções cívicas, comerciais, sociais, de lazer e estação de transporte público conectada às demais por um sistema de transporte coletivo, promovendo a descentralização do trabalho е reduzindo os custos de transporte para seus habitantes;
+
+
+XXXV –
+
+Urbanização - É o processo de incorporação de áreas ao tecido urbano, seja através da implantação de unidades imobiliárias, seja através da implantação de sistemas e instalação de infra-estrutura;
+
+
+XXXVI –
+
+Uso Adequado - É o uso compatível com as características estabelecidas para a zona de planejamento;
+
+
+XXXVII –
+
+Uso do Solo - É o resultado de toda e qualquer atividade, que implique em dominação ou apropriação de um espaço ou terreno;
+
+
+XXXVIII –
+
+Uso Inadequado - É o uso incompativel com as características estabelecidas para a zona de planejamento;
+
+
+XXXIX –
+
+Vazio Urbano - Espaço não construído entre áreas urbanizadas;
+
+
+XL –
+
+Via de Circulação - É o espaço organizado para a circulação de veículos ou pedestres, subdividindo-se em:
+
+
+a)
+
+via oficial - Aquela que se destina ao uso público, sendo reconhecida oficialmente como bem municipal de uso comum do povo;
+
+
+b)
+
+via particular - Aquela que se constitui em propriedade privada, ainda que aberta ao uso público.
+
+
+XLI –
+
+Vitalidade - É a capacidade da estrutura urbana de suportar as funções humanas e os requisitos biológicos;
+
+
+XLII –
+
+Zona de Natureza Sensível - Área que, por suas características naturais, ou por objetivos de proteção, não suportam processos de urbanização.
+
+
+### TÍTULO II — DA POLÍTICA DE DESENVOLVIMENTO TERRITORIAL
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 3º.
+
+O PDP de Amontada destina-se à execução, pelo Poder Público Municipal, da política de desenvolvimento municipal e de expansão urbana, conforme diretrizes gerais por ele fixadas, tendo como objetivo ordenar o pleno desenvolvimento das funções sociais das cidades, bem como as funções sociais das propriedades urbanas e rurais no território do município.
+
+
+Parágrafo único
+
+A propriedade, tanto urbana quanto rural, cumpre sua função social quando atende às exigências fundamentais de ordenação do território municipal, expressas no seu PDP.
+
+
+Art. 4º.
+
+O PDP de Amontada tem como objetivos fundamentais:
+
+
+I –
+
+realizar o pleno desenvolvimento das funções sociais das cidades e das propriedades e o uso socialmente justo e ecologicamente equilibrado de seu território, de forma a assegurar o bem-estar de seus habitantes;
+
+
+II –
+
+estimular a expansão do mercado de trabalho e das atividades produtivas;
+
+
+III –
+
+propiciar melhores condições de acesso da população à moradia, ao trabalho, aos transportes e aos equipamentos e serviços públicos;
+
+
+IV –
+
+disciplinar o uso e ocupação do solo, compatibilizando-os com o meio ambiente e a infra-estrutura disponível:
+
+
+V –
+
+compatibilizar a infra-estrutura das cidades e das áreas rurais do município ao crescimento demográfico previsto;
+
+
+VI –
+
+preservar, conservar e recuperar as áreas e edificações de valor histórico, paisagístico, artístico e natural;
+
+
+VII –
+
+distribuir a densidade demográfica em área urbanizada, de forma a proporcionar maior eficiência na distribuição dos serviços públicos à comunidade;
+
+
+VIII –
+
+estabelecer mecanismos de participação da comunidade no planejamento do território e na fiscalização de sua implementação;
+
+
+IX –
+
+estabelecer padrões básicos de urbanização, estimulando, inclusive, a reurbanização de áreas deterioradas;
+
+
+X –
+
+promover o ordenamento territorial das cidades, adotando como referencial de planejamento e gestão a Unidade de Vizinhança, UV;
+
+
+XI –
+
+implantar um sistema integrado de planejamento e de democratização da gestão do território.
+
+
+#### CAPÍTULO II — Dos Objetivos Estratégicos
+
+
+Art. 5º.
+
+Constituem objetivos estratégicos do PDP de Amontada:
+
+
+I –
+
+definir padrões urbanos de apoio às Unidades de Vizinhança propostas para as cidades e demais localidades;
+
+
+II –
+
+desenvolver e manter imagem positiva dos ambientes urbanos, rurais e de paisagens naturais;
+
+
+III –
+
+criar e manter a estabilidade das Unidades de Vizinhança, obedecendo aos critérios de acessibilidade, sustentabilidade e vitalidade comunitária;
+
+
+IV –
+
+proteger a qualidade do sistema ambiental municipal pela implementação de ações do Poder Público em articulação com a sociedade civil;
+
+
+V –
+
+assegurar a prestação de serviços públicos igualitários e eficientes, no âmbito das cidades, localidades e comunidades rurais do município;
+
+
+VI –
+
+promover condições que garantam a sustentabilidade do desenvolvimento em todo o território municipal.
+
+
+#### CAPÍTULO III — Das Estratégias e Ações Prioritárias para o Desenvolvimento Sustentável de Amontada
+
+
+Art. 6º.
+
+As Estratégias e Ações Prioritárias para o Desenvolvimento Sustentável de Amontada objetivam assegurar um grau de desenvolvimento econômico sustentável com justiça social, através da oferta de serviços de qualidade, oferecendo aos moradores e visitantes áreas urbanas, áreas rurais e áreas de natureza atraentes e equilibradas fisica e socialmente, compondo-se de 7 (sete) linhas básicas, a seguir elencadas:
+
+
+I –
+
+Linha Estratégica 1 - Elaborar projeto de desenvolvimento econômico local para promoção das atividades econômicas e inclusão social da população;
+
+
+II –
+
+Linha Estratégica 2 - Requalificar os espaços urbanos e ordenar territorialmente o município;
+
+
+III –
+
+Linha Estratégica 3 - Preparar o município para o desenvolvimento do turismo buscando a integração de Amontada aos circuitos turísticos da Costa do Sol Poente;
+
+
+IV –
+
+Linha Estratégica 4 - Valorizar o patrimônio ambiental;
+
+
+V –
+
+Linha Estratégica 5 - Implementar ações de saneamento ambiental;
+
+
+VI –
+
+Linha Estratégica 6 - Fortalecer o governo local ao restaurar o sistema de fiscalização e melhorar a destinação dos tributos municipais;
+
+
+VII –
+
+Linha Estratégica 7 - Oferecer acesso universalizado à educação e saúde de qualidade.
+
+
+Art. 7º.
+
+Os componentes básicos para consecução dos objetivos traçados nas linhas estratégicas 1, 2, 3, 4, 5, 6 e 7 definidas no artigo 6° desta Lei, assim como as ações específicas de cada uma destas linhas estratégicas e o seu conjunto de indicadores de desempenho, encontram-se definidos no relatório "Plano Estratégico de Desenvolvimento Sustentável", independentemente de transcrição.
+
+
+#### CAPÍTULO IV — Das Proposições para o Ordenamento Territorial e Aplicação dos Instrumentos do Estatuto da Cidade
+
+
+Art. 8º.
+
+O relatório "Plano de Estruturação do Território Municipal" representa a definição de uma política de afirmação de diretrizes para o planejamento e o futuro das áreas de desenvolvimento fisico-territorial do Município de Amontada, estabelecendo metas a curto, médio e a longo prazos, objetivando viabilizar o desenvolvimento das comunidades nos aspectos físicos, ambientais e sociais.
+
+
+Parágrafo único
+
+Constitui ainda, parte integrante do relatório "Plano de Estruturação do Território Municipal" a indicação de um elenco de intervenções estruturantes e respectivos projetos, que, somados e implantados, numa hierarquia temporal de complementaridade, deverão ao final de sua implementação configurar o perfil desejado para o Município de Amontada, nas suas áreas rurais e urbanas.
+
+
+Art. 9º.
+
+As ações específicas de proposições para o ordenamento territorial e aplicação dos instrumentos do Estatuto da Cidade encontram-se definidas e detalhadas no relatório "Plano de Estruturação do Território Municipal", independentemente de transcrição.
+
+
+##### Seção I — Das Diretrizes Gerais
+
+
+Art. 10.
+
+A implementação do PDP de Amontada fica subordinada à observância de diretrizes gerais e políticas dos relatórios "Plano Estratégico de Desenvolvimento Sustentável" e "Plano de Estruturação do Território Municipal".
+
+
+§ 1º
+
+Constituem diretrizes básicas quanto ao uso do solo do território municipal:
+
+
+I –
+
+reestruturar o zoneamento do uso do solo urbano através de uma estrutura policêntrica, com uso misto e incremento de densidades:
+
+
+II –
+
+incentivar a permanência e o incremento da moradia nas zonas urbanas centrais, possibilitando que edificios representativos de conjuntos edificados, que hoje se deterioram, tenham novos usos compatíveis com os padrões urbanísticos definidos;
+
+
+III –
+
+remanejar funções dentro das zonas urbanas centrais que não sejam compatíveis com a qualidade de vida desejada, mesclando, sempre que possível, atividades diferentes dentro de uma mesma área;
+
+
+IV –
+
+incentivar a parceria entre os vários níveis do Poder Público, à instância do planejamento territorial e da ação educadora, para o trabalho de preservação das características de conjuntos de edificações relevantes associado a uma melhor adequação de seus usos;
+
+
+V –
+
+assegurar a preservação do patrimônio histórico, religioso e cultural no território, que representam significância na imagem do sítio identificado;
+
+
+VI –
+
+criar um subsistema viário troncal de vias para priorizar a ligação entre os centros focais das Unidades de Vizinhança, nas áreas urbanas, através de transporte coletivo, ciclovias e percursos preferenciais de pedestres, determinados pela demanda;
+
+
+VII –
+
+apoiar a configuração de limites fisicos das Unidades de Vizinhança, considerando um raio de caminhabilidade médio de 400m (quatrocentos metros) a partir do seu centro para as Sedes Distritais;
+
+
+VIII –
+
+garantir, para as novas Unidades de Vizinhança, a coexistência de atividades de moradia, trabalho, comércio, lazer, e a acessibilidade aos serviços públicos além dos equipamentos de segurança, saúde e educação;
+
+
+IX –
+
+configurar, nas Unidades de Vizinhança, as atividades de convergência coletiva em torno de um espaço público central, cujo ponto focal é a estação de transporte público;
+
+
+X –
+
+descentralizar o trabalho industrial em núcleos eqüidistantes em relação à maioria das Unidades de Vizinhança;
+
+
+XI –
+
+evitar a expansão dos limites urbanizados da cidade e controlar seu crescimento através da ocupação dos vazios urbanos disponíveis e do incremento da densidade;
+
+
+XII –
+
+criar paisagens urbanas renovadas para os novos centros focais das Unidades de Vizinhança;
+
+
+XIII –
+
+reforçar a visibilidade do acervo do patrimônio histórico das zonas urbanas centrais, através do redesenho da seqüência de espaços públicos adjacentes;
+
+
+XIV –
+
+definir critérios rigorosos quanto às exigências legais para obter uma melhor qualidade arquitetônica nas futuras construções;
+
+
+XV –
+
+prover as áreas abertas e futuros parques com mobiliário urbano e amenidades com boa qualidade de desenho, para a realização de atividades sócio-culturais, visando o bem estar da população.
+
+
+§ 2º
+
+Constituem diretrizes básicas de Transporte e Acessibilidade:
+
+
+I –
+
+criar, junto ao subsistema viário troncal, uma trilha de ciclovias e caminhos para pedestres, conectando as Unidades de Vizinhança entre si, e essas aos espaços centrais das áreas urbanas e seus equipamentos;
+
+
+II –
+
+criar um circuito de transporte público de fácil acessibilidade, ligando as Unidades de Vizinhança entre si, e essas aos equipamentos centrais de uso comum, a partir da identificação da demanda adequada;
+
+
+III –
+
+apoiar a construção de um conjunto de estacionamentos em áreas privadas e periféricas ao centro da cidade, a partir da identificação da demanda adequada;
+
+
+IV –
+
+criar uma malha de pedestres nas zonas urbanas centrais a partir da redução do tráfego de veículos e o conseqüente alargamento de passeios e arborização desses espaços, a partir da identificação da demanda adequada;
+
+
+V –
+
+criar um circuito de vias paisagísticas nas margens dos recursos hídricos, na Sede Municipal, de forma a conectar as Unidades de Vizinhança entre si, e proporcionar caminhos agradáveis ao transeunte;
+
+
+VI –
+
+implantar órgão gestor do planejamento e operação dos transportes, para coordenar institucionalmente sua gerência, quando da implantação de sistema de transporte público;
+
+
+VII –
+
+incentivar o uso do transporte público em toda sua plenitude, através da criação de rotas eficazes e paradas racionais, incluindo os distritos e localidades do município.
+
+
+§ 3º
+
+Constituem diretrizes básicas quanto à Habitação e ao Desenvolvimento da Comunidade:
+
+
+I –
+
+reconhecer as Unidades de Vizinhança como padrão das e de unidade de planejamento comunidades urbanas, configuradas com 15.000 (quinze mil) habitantes, no máximo, 7.000 (sete mil) habitantes, no mínimo, tendo um limite espacial regulado por um raio de caminhabilidade de 400m (quatrocentos metros), com área central equipada com comércio, serviços e oportunidades de locais de trabalho, conectados a sistema de transporte público que interligará todas as UVs, devidamente apoiado em estudo prévio de demanda;
+
+
+II –
+
+definir como elemento aglutinador dos componentes do centro focal da Unidade de Vizinhança, o espaço público convergente na escala da comunidade;
+
+
+III –
+
+estabelecer que o centro de bairro será o ponto focal da convergência da comunidade e o elemento de conexão com o circuito de transporte e acessibilidade;
+
+
+IV –
+
+estabelecer que a conexão do transporte público, ciclovias e calçadões para pedestres, com o conjunto das Unidades de Vizinhança, será feita através de estações localizadas no centro de convergência;
+
+
+V –
+
+determinar que as Unidades de Vizinhança utilizem o modelo de uso misto, com alta densidade no núcleo central e de densidade decrescente no sentido da periferia;
+
+
+VI –
+
+assegurar que a prestação de serviços de saúde à população deve ser realizada mediante sistema composto de vários estabelecimentos, articulados entre si, para atendimento harmônico e abrangente à comunidade;
+
+
+VII –
+
+estabelecer que cada Unidade de Vizinhança deverá dispor, obrigatoriamente, de serviço de atendimento primário de saúde, capaz de realizar atividades de promoção, prevenção e recuperação, as quais serão desenvolvidas por médicos generalistas e demais profissionais da área de saúde;
+
+
+VIII –
+
+colocar à disposição da população um serviço de atenção primária de saúde capaz de realizar as atividades de promoção, prevenção e recuperação da saúde, a nível ambulatorial;
+
+
+IX –
+
+estabelecer que a prestação de serviços educacionais à população deve ser realizada mediante sistema composto por vários estabelecimentos de diferentes graus de ensino, articulados entre si para o atendimento harmônico e abrangente das necessidades da população infanto-juvenil;
+
+
+X –
+
+estabelecer que cada Unidade de Vizinhança de 15.000 (quinze mil) a 7.000 (sete mil) habitantes deverá dispor, obrigatoriamente, de escolas de nível médio, articuladas entre si, e em quantidades compativeis com a demanda da população infanto-juvenil.
+
+
+§ 4º
+
+Constituem diretrizes básicas de Natureza Ambiental:
+
+
+I –
+
+disciplinar o uso do solo, do subsolo, da água e do ar;
+
+
+II –
+
+incrementar o planejamento e fiscalização do uso dos recursos ambientais;
+
+
+III –
+
+proteger os ecossistemas, com a preservação de áreas representativas, através da criação de novas unidades de preservação ou conservação;
+
+
+IV –
+
+zonear e controlar as atividades potencial ou efetivamente poluidoras;
+
+
+V –
+
+incentivar o estudo e a pesquisa de tecnologias orientadas para o uso racional e a proteção dos recursos ambientais;
+
+
+VI –
+
+proteger áreas ameaçadas de degradação e recuperar áreas degradadas;
+
+
+VII –
+
+promover a educação ambiental em todos os níveis de ensino, inclusive a educação da comunidade, objetivando capacitá-la para participação ativa na defesa do meio ambiente;
+
+
+VIII –
+
+exigir a realização de estudo de impacto ambiental e estudo de impacto de vizinhança das atividades, obras ou empreendimentos causadores de significativa degradação ou poluição ambiental;
+
+
+IX –
+
+estabelecer padrões de qualidade ambiental;
+
+
+X –
+
+criar instrumentos de auto-sustentabilidade das unidades de preservação e conservação ambiental instituídas pelo Poder Público;
+
+
+XI –
+
+criar e oferecer o necessário suporte logístico ao pleno funcionamento de um Conselho Municipal de Meio Ambiente;
+
+
+XII –
+
+preservar os ambientes e drenagens de natureza sensível, evitando urbanizações inadequadas;
+
+
+XIII –
+
+promover a restauração das áreas naturais às margens dos Rios Timonha e Rio Ubatuba e demais corpos hídricos, removendo os usos inadequado das mesmas.
+
+
+§ 5º
+
+Constituem diretrizes básicas de infra-estrutura e serviços públicos:
+
+
+I –
+
+criar alternativa adequada para destinação final do lixo, através de sistemas mistos de aterros sanitários controlados e implantação gradativa de coleta seletiva e reciclagem de materiais:
+
+
+II –
+
+ajustar os programas de expansão das redes de abastecimento d'água, esgotamento sanitário, energia elétrica e telefonia com os de desenvolvimento e consolidação das Unidades de Vizinhança;
+
+
+III –
+
+integrar as políticas de drenagem urbana e meio ambiente;
+
+
+IV –
+
+expandir as redes de infra-estrutura básica, com ênfase para os sistemas de abastecimento d'água e esgotamento sanitário;
+
+
+V –
+
+proceder a integração rodoviária interdistrital e operacionalização de sistema de transporte coletivo regular por ônibus ou similar, articulando a rede de distritos e núcleos urbanos do município entre si;
+
+
+VI –
+
+implantar equipamentos comunitários de caráter multifuncional e estimuladores da organização comunitária;
+
+
+VII –
+
+estruturar programas de atendimento à saúde, educação, prática de esportes e lazer comunitário e a preservação das raízes populares das comunidades distritais;
+
+
+VIII –
+
+estruturar programas e ambientes propícios à capacitação para o trabalho, educação profissionalizante e desenvolvimento de atividades produtivas e turísticas não predatórias nas Unidades de Vizinhança e nos distritos;
+
+
+IX –
+
+implantar rede hierarquizada de equipamentos de saúde, educação, cultura e esportes na sede municipal e nos distritos.
+
+
+§ 6º
+
+Constituem diretrizes básicas de consolidação e integração da rede de distritos e núcleos urbanos municipais:
+
+
+I –
+
+consolidar o centro urbano dos distritos e demais núcleos urbanos como ponto focal da convergência da comunidade;
+
+
+II –
+
+roceder o ordenamento urbanístico básico da sede distrital, demais distritos e localidades relevantes, objetivando sua requalificação para futuras expansões;
+
+
+III –
+
+fixar os limites fisicos da área urbana dos distritos e demais localidades relevantes, observando para que o raio de caminhabilidade no seu interior seja de, no máximo 400m (quatrocentos metros) a partir do seu centro;
+
+
+IV –
+
+garantir condições para que dentro do distrito possa ocorrer a coexistência de atividades de moradia, trabalho, comércio, lazer e a acessibilidade aos serviços públicos, além dos equipamentos de segurança, saúde e educação;
+
+
+V –
+
+preservar os ambientes naturais de natureza sensível, evitando urbanizações inadequadas;
+
+
+VI –
+
+viabilizar a integração rodoviária distrital e a operacionalização de sistema de transporte coletivo, articulando a rede de núcleos urbanos com o distrito e a sede do município.
+
+
+### TÍTULO III — DO PLANO DIRETOR PARTICIPATIVO
+
+
+#### CAPÍTULO I — Das Definições e dos Objetivos
+
+
+Art. 11.
+
+O PDP de Amontada é o instrumento básico da política municipal de desenvolvimento estratégico e ordenamento territorial e tem como objetivos específicos:
+
+
+I –
+
+realizar o pleno desenvolvimento das funções sociais da cidade e da propriedade, e ainda o uso socialmente justo e ecologicamente equilibrado de seu território, de forma a assegurar o bem-estar dos seus habitantes;
+
+
+II –
+
+estimular a expansão do mercado de trabalho e das atividades produtivas no município, a partir de seu planejamento estratégico;
+
+
+III –
+
+distribuir as locações de serviços e equipamentos públicos com eqüidade e alto grau de acessibilidade a todas as áreas do território;
+
+
+IV –
+
+promover a requalificação das áreas urbanas pela busca da estabilização de Unidades de Vizinhança e suas contigüidades;
+
+
+V –
+
+considerar a compactação das Unidades de Vizinhança e o uso múltiplo como forma mais econômica de melhor utilizar a infra-estrutura urbana, relacionando densidade com custos;
+
+
+VI –
+
+preservar, conservar e recuperar o patrimônio ambiental natural do município, respeitando as áreas verdes, protegendo áreas agrícolas no perímetro urbano e, sempre que possível, viabilizando a convivência de áreas urbanizadas com áreas naturais acessíveis dentro de toda a região urbanizada;
+
+
+VII –
+
+preservar, conservar e recuperar as áreas e edificações de valor histórico, paisagístico e natural em todo o território municipal;
+
+
+VIII –
+
+disciplinar a ocupação e o uso do solo, urbano e rural, compatibilizando-os com o meio ambiente e a infra-estrutura disponivel;
+
+
+IX –
+
+estabelecer estratégias de ação que integrem os esforços institucionais, tendo como centro a gestão da qualidade de vida e o estabelecimento de políticas públicas de gestão territorial integrada com as políticas nacional e estadual de meio ambiente e recursos hídricos;
+
+
+X –
+
+promover uma gestão urbana integrada com a gestão ambiental, buscando sempre alternativas institucionais que articulem o Poder Público com os segmentos organizados da sociedade civil;
+
+
+XI –
+
+garantir a participação de pessoas com necessidades especiais, através de seus movimentos representativos, nas atividades pertinentes ao acompanhamento e execução do PDP;
+
+
+XII –
+
+exigir, quando da liberação de toda e qualquer obra pública ou privada, a observância das necessidades e dos direitos das pessoas deficientes ao acesso e uso de ambientes e equipamentos adaptados às suas limitações.
+
+
+#### CAPÍTULO II — Dos Instrumentos de Operacionalização
+
+
+Art. 12.
+
+Constituem instrumentos de operacionalização do Plano Diretor Participativo, sem prejuízo de outros previstos na legislação municipal, estadual e federal pertinentes, em especial os instrumentos de política urbana previstos no artigo 4º da Lei Federal n° 10.257, de 10 de julho de 2001, Estatuto da Cidade:
+
+
+I –
+
+DOS INSTRUMENTOS INSTITUCIONAIS
+
+
+a)
+
+Conselho Municipal do PDP.
+
+
+II –
+
+DOS INSTRUMENTOS URBANÍSTICOS E AMBIENTAIS
+
+
+a)
+
+Estudo de Impacto de Vizinhança;
+
+
+b)
+
+Programa de Formação de Estoque de Terras, contemplando:
+
+
+1
+
+Da concessão de direito real de uso;
+
+
+2
+
+Das operações urbanas consorciadas;
+
+
+3
+
+Da outorga onerosa do direito de construir e da alteração do uso do solo; e
+
+
+4
+
+Transferência do direito de construir.
+
+
+III –
+
+DOS INSTRUMENTOS TRIBUTÁRIOS e FINANCEIROS
+
+
+a)
+
+Incentivos Fiscais;
+
+
+b)
+
+IPTU Progressivo;
+
+
+c)
+
+Fundo Municipal de Desenvolvimento Territorial.
+
+
+IV –
+
+DOS INSTRUMENTOS JURÍDICOS E POLÍTICOS
+
+
+a)
+
+Tombamento;
+
+
+b)
+
+Direito de Preempção.
+
+
+Parágrafo único
+
+Os instrumentos relacionados no inciso II deste artigo serão regulamentados pelo Poder Executivo, observado os preceitos desta lei.
+
+
+##### Seção I — Dos Instrumentos Institucionais
+
+
+###### Subseção I — Do Conselho Municipal do Plano Diretor Participativo
+
+
+Art. 13.
+
+O Conselho Municipal do PDP de Amontada é o órgão de deliberação superior e de assessoramento ao Poder Executivo, com atribuição básica de analisar e propor medidas de efetivação da política de desenvolvimento estratégico e ordenamento territorial do município, bem como acompanhar o processo de implementação das suas diretrizes.
+
+
+Art. 14.
+
+A composição, organização e as normas de funcionamento do Conselho serão regulamentadas no prazo de 90 (noventa) dias após a edição desta Lei, observando como regra básica que de sua composição deverão integrar representantes de órgãos e entidades governamentais e não govemamentais, observada a necessária paridade.
+
+
+§ 1º
+
+As decisões do conselho, no âmbito de sua competência, terão caráter deliberativo, devendo ser formalizadas mediante resoluções, o que deverá ser objeto de regulamentação específica.
+
+
+§ 2º
+
+Consideram-se organizações não-govemamentais, para os efeitos desta Lei:
+
+
+I –
+
+as associações de bairro ou moradores que tenham por finalidade estatutária promover ou defender os interesses comunitários locais;
+
+
+II –
+
+as entidades que tenham sido declaradas de utilidade pública municipal;
+
+
+III –
+
+as entidades cujos estatutos estejam devidamente registrados na forma da lei civil e com atas da eleição das diretorias devidamente autenticadas.
+
+
+Art. 15.
+
+Compete ao Conselho Municipal do Plano Diretor Participativo de Amontada:
+
+
+I –
+
+promover a aplicação e fiscalizar o cumprimento da legislação municipal referente ao PDP, estabelecendo, quando solicitado, a interpretação uniforme e adequada dos dispositivos legais pertinentes;
+
+
+II –
+
+opinar sobre os projetos de lei, decretos e demais atos regulamentares necessários à atualização e complementação da presente lei;
+
+
+III –
+
+opinar sobre propostas de alterações de padrões urbanísticos;
+
+
+IV –
+
+opinar sobre a programação de investimentos anual e plurianual dos instrumentos de planejamento municipal;
+
+
+V –
+
+promover a integração das atividades de planejamento fisico-territorial atinentes ao desenvolvimento estadual e regional, com impacto no município;
+
+
+VI –
+
+promover as atividades de planejamento fisico-territorial, acompanhando a sua execução, em especial quando do estabelecimento, atualização permanente e revisão periódica:
+
+
+a)
+
+da ordenação do uso do solo, da ocupação e do parcelamento do solo; e
+
+
+b)
+
+de definição das prioridades governamentais.
+
+
+VII –
+
+promover um canal de comunicação efetivo entre o Poder Executivo e os cidadãos, no que tange à execução da política de desenvolvimento estratégico e ordenamento territorial do município;
+
+
+VIII –
+
+baixar normas de sua competência, necessárias à execução e implementação da política urbana do município;
+
+
+IX –
+
+determinar, quando julgar necessário, a realização de estudos sobre alternativas e possíveis conseqüências urbanístico/ambientais, de projetos públicos ou privados, com vistas à adequação dos mesmos às diretrizes constantes nesta Lei;
+
+
+X –
+
+submeter, por intermédio da secretaria competente, à apreciação do Chefe do Poder Executivo, as propostas referentes à concessão de incentivos e beneficios fiscais e financeiros, visando a melhoria da qualidade de vida da população;
+
+
+XI –
+
+apreciar os projetos de urbanização e de equipamentos urbanos que venham a causar significativo impacto ambiental em estreita articulação com o Conselho Municipal de Meio Ambiente e respectivos órgãos executivos da gestão ambiental e urbana no município;
+
+
+XII –
+
+exercer outras atividades que lhe venham a ser conferidas por lei.
+
+
+##### Seção II — Dos Instrumentos Urbanísticos e Ambientais
+
+
+###### Subseção I — Do Estudo de Impacto de Vizinhança
+
+
+Art. 16.
+
+Dependerá de Estudo de Impacto de Vizinhança, elaborado por profissionais habilitados, a implantação de atividades, obras ou empreendimentos, públicos ou privados, que possam vir a representar sobrecarga na capacidade infra-estrutural da área onde essas atividades, obras ou empreendimentos serão localizados, e que, também, possam vir provocar danos ao ambiente natural ou construído.
+
+
+§ 1º
+
+O Estudo de Impacto de Vizinhança é o instrumento que visa apresentar uma definição de impacto a ser causado pela instalação, operação ou intervenção de atividades considerando o entomo da mesma, na concepção da infra-estrutura, do meio ambiente, e da sociedade.
+
+
+§ 2º
+
+O estudo aa que se refere o caput deste artigo não substitui o Estudo de Impacto Ambiental (EIA) e o respectivo Relatório de Impacto Ambiental (RIMA), sendo os mesmos exigíveis nos termos das Constituições Federal e do Estado do Ceará, observando-se, subsidiariamente, as diretrizes gerais insertas nas Resoluções baixadas pelo Conselho Nacional do Meio Ambiente, CONAMA, em especial a Resolução nº. 001, de 23 de janeiro de 1986.
+
+
+§ 3º
+
+A sobrecarga na capacidade da infraestrutura, a que se refere o caput deste artigo, deverá ser analisada pelas concessionárias dos serviços públicos, no caso de abastecimento d'água, esgotamento sanitário, energia elétrica e telefonia, e pelas secretarias municipais setoriais, no caso de drenagem, limpeza pública, sistema viário e transportes.
+
+
+Art. 17.
+
+O Estudo de Impacto de Vizinhança deverá conter a análise dos impactos causados pela obra ou empreendimento, considerando, dentre outros, os seguintes aspectos:
+
+
+I –
+
+localização e acessos gerais;
+
+
+II –
+
+atividades previstas;
+
+
+III –
+
+áreas, dimensões e volumetria;
+
+
+IV –
+
+levantamento plani-altimétrico do imóvel;
+
+
+V –
+
+mapeamento das redes de água pluvial, água e esgoto, luz e telefone para implantação do empreendimento;
+
+
+VI –
+
+estudo hidrogeológico quando não existir rede de água ou esgoto;
+
+
+VII –
+
+capacidade de atendimento pelas concessionárias das redes de água pluvial, água, esgoto, luz e telefone para implantação do empreendimento;
+
+
+VIII –
+
+levantamento dos usos e volumetria dos imóveis e construções existentes no entorno do empreendimento;
+
+
+IX –
+
+indicação das zonas de uso constantes da legislação de uso e ocupação do solo das quadras limítrofes à quadra ou quadras onde o imóvel está localizado;
+
+
+X –
+
+compatibilização com o sistema viário existente;
+
+
+XI –
+
+produção de ruído e medidas mitigadoras;
+
+
+XII –
+
+produção e volume de partículas em suspensão e fumaça;
+
+
+XIII –
+
+destino final do material resultante do movimento de terra;
+
+
+XIV –
+
+destino final do entulho da obra;
+
+
+XV –
+
+destino final dos resíduos do empreendimento.
+
+
+Art. 18.
+
+O Estudo de Impacto Vizinhança será apreciado pelo Conselho Municipal do Plano Diretor Participativo, ou órgão similar, que poderá recomendar, ou não, a aprovação da obra, atividade ou empreendimento, e ainda exigir do empreendedor, às suas expensas, todas as obras e medidas mitigadoras e compensatórias dos impactos de vizinhança.
+
+
+§ 1º
+
+O Conselho Municipal do Plano Diretor Participativo normatizará, mediante Resolução, os critérios básicos e diretrizes gerais para uso e implementação da avaliação dos possíveis impactos ambientais.
+
+
+§ 2º
+
+Compete ao Conselho Municipal de Meio Ambiente, ouvidos os órgãos competentes da União e do Estado, quando couber, o licenciamento ambiental de empreendimentos e atividades de impacto ambiental local e daquelas que lhe forem delegadas pelo Estado por instrumento legal ou convênio, segundo a Resolução nº 20 do COEMA.
+
+
+###### Subseção II — Do Programa de Formação de Estoque de Terras
+
+
+Art. 19.
+
+Fica instituído o Programa de Formação de Estoque de Terras, de acordo com o disposto nesta Lei.
+
+
+Art. 20.
+
+Caberá ao Poder Executivo implementar um programa de municipalização de terras, que objetivará a aquisição progressiva de áreas da Cidade de Amontada, através de permutas, transferências, doações, compras e desapropriações.
+
+
+Art. 21.
+
+O programa será operacionalizado com recursos do Fundo de Terras Públicas, e destinar-se-á, preferencialmente:
+
+
+I –
+
+à implementação da política municipal de ordenamento do território, principalmente à implantação de programas habitacionais e equipamentos de caráter social;
+
+
+II –
+
+à implementação de projetos referentes ao programa de municipalização de terras;
+
+
+III –
+
+a outros programas e projetos que atendam à função social da cidade e da propriedade, a exemplo de assentamentos populares.
+
+
+Art. 22.
+
+Anualmente, o Chefe do Poder Executivo Municipal elaborará a proposta de investimentos do Programa de Formação de Estoque de Terras, observando o seguinte:
+
+
+I –
+
+será dado amplo conhecimento à sociedade civil da proposta mencionada no caput deste artigo, através de publicação em jornal de grande circulação e divulgação pelos demais meios de comunicação;
+
+
+II –
+
+o programa de investimento deverá ser previamente aprovado pelo Conselho Municipal do Plano Diretor Participativo.
+
+
+§ 1º
+
+O direito real de uso será individualizado, preservando formas coletivas de titulação e organização do espaço territorial.
+
+
+§ 2º
+
+A urbanização do espaço coletivo ficará a cargo da Municipalidade.
+
+
+§ 3º
+
+A concessão de direito real de uso resolver-se-á antes de seu termo, em favor da Administração, se o beneficiário transferir, transmitir ou ceder o imóvel a terceiros, a qualquer título, ou tornar-se proprietário de outro imóvel.
+
+
+Art. 23.
+
+O Poder Público Municipal, por deliberação do Conselho Municipal do Plano Diretor Participativo, poderá ceder áreas para fins específicos de projetos de habitação coletiva, para:
+
+
+I –
+
+cooperativas habitacionais;
+
+
+II –
+
+sindicatos de trabalhadores.
+
+
+##### Seção III — Dos Instrumentos Tributários e Financeiros
+
+
+###### Subseção I — Dos Incentivos Fiscais
+
+
+Art. 24.
+
+O município poderá conceder incentivos fiscais sob a forma de isenção ou redução de tributos municipais, considerando o Art. 14 da Lei Complementar n° 101/00 - Lei de Responsabilidade Fiscal e o estabelecido no Art. 47 da Lei Federal n° 10.257/07 - Estatuto da Cidade, com vistas à proteção do ambiente natural, das edificações de interesse de preservação e dos programas de valorização do ambiente urbano e rural.
+
+
+Parágrafo único
+
+Os proprietários de imóveis tombados ou que estiverem sujeitos às restrições impostas pelo tombamento vizinho, poderão gozar de redução ou isenção, nos termos da legislação tributária municipal, estadual e federal, desde que as edificações sejam mantidas em bom estado de conservação, comprovado através de vistorias realizadas pelos órgãos municipais competentes.
+
+
+###### Subseção II — Do Imposto Progressivo
+
+
+Art. 25.
+
+O imposto progressivo de que trata o Art. 182, § 4°, inciso II da Constituição Federal combinado com o Art. 7° da Lei Federal n° 10.257/01 e Art. 296 da Constituição Estadual, incidirá sobre terrenos não edificados ou subutilizados ou não utilizados, nas áreas urbanas do município sujeitas ao parcelamento, edificação ou utilização compulsórios, delimitadas nos ANEXOS I a XI desta Lei.
+
+
+Art. 26.
+
+O imposto progressivo não incidirá sobre terrenos de até 250 (duzentos e cinqüenta) metros quadrados, cujos proprietários não possuam outro imóvel.
+
+
+Art. 27.
+
+Lei de iniciativa do Poder Executivo regulamentará o imposto progressivo, dispondo, dentre outros aspectos, sobre:
+
+
+I –
+
+identificação dos terrenos nas Unidades de Vizinhança que não cumprem a função social da propriedade e que estão em desacordo com a proposta de estruturação e adensamento do Plano Diretor Participativo;
+
+
+II –
+
+alíquotas;
+
+
+III –
+
+formas de aplicação, contendo:
+
+
+a)
+
+cálculo do valor a ser pago;
+
+
+b)
+
+forma de pagamento;
+
+
+c)
+
+penalidades.
+
+
+Art. 28.
+
+Os imóveis notificados terão o prazo de:
+
+
+a)
+
+01 (um) ano para protocolar projeto junto ao órgão municipal competente,a contar da data da notificação;
+
+
+b)
+
+02 (dois) anos para edificar ou parcelar, a contar da data da aprovação do projeto.
+
+
+Art. 29.
+
+O não cumprimento do disposto no artigo 28, desta Lei, implicará pagamento do Imposto Territorial Urbano Progressivo no tempo.
+
+
+###### Subseção III — Do Fundo Municipal de Desenvolvimento Territorial
+
+
+Art. 30.
+
+Fica instituído o Fundo Municipal de Desenvolvimento Territorial, vinculado à secretaria municipal competente, como um fundo destinado à aplicação de recursos para o desenvolvimento econômico, fisico-territorial, social e cultural do município como um todo, mediante a execução de programas de financiamento a projetos definidos em consonância com as linhas dos relatórios "Plano Estratégico de Desenvolvimento Sustentáve!" e "Plano de Estruturação do Território Municipal".
+
+
+Art. 31.
+
+Os recursos do Fundo Municipal de Desenvolvimento Territorial destinam-se a oferecer suporte financeiro à implementação dos objetivos, programas e projetos estruturantes definidos por esta Lei, devendo sua destinação estar especificada na proposta orçamentária do município, e sua aplicação deverá ser feita, prioritariamente, na execução dos programas de urbanização, de obras de infra-estrutura básica em redes, de intervenções voltadas para a proteção ambiental do território e de obras de infra-estrutura de suporte humano.
+
+
+Art. 32.
+
+Constituem receitas do Fundo Municipal de Desenvolvimento Territorial:
+
+
+I –
+
+dotações orçamentárias do município;
+
+
+II –
+
+recursos resultantes de doações, contribuições em dinheiro, valores, bens móveis e imóveis que venha a receber de pessoas fisicas ou jurídicas;
+
+
+III –
+
+rendimentos de qualquer natureza que venha a auferir como remuneração decorrente de aplicações de seu patrimônio;
+
+
+IV –
+
+recursos negociados junto ao Poder Público federal e estadual;
+
+
+V –
+
+outros, destinados por lei.
+
+
+Art. 33.
+
+Dentro de 120 (cento e vinte) dias, a contar da publicação desta Lei, o Poder Executivo regulamentará o Fundo Municipal de Desenvolvimento Territorial, fixando as normas para obtenção e distribuição de recursos, assim como as diretrizes e os critérios para sua aplicação.
+
+
+##### Seção IV — Dos Instrumentos Jurídicos e Políticos
+
+
+###### Subseção I — Do Tombamento
+
+
+Art. 34.
+
+O Tombamento constitui limitação administrativa e de disponibilidade a que estão sujeitos os bens integrantes do patrimônio ambiental, histórico, paisagístico e cultural do município, cuja conservação e proteção seja de interesse público.
+
+
+Art. 35.
+
+Constitui o patrimônio ambiental, histórico, paisagístico e cultural do municípioо conjunto de bens imóveis existentes em seu território e que, por sua vinculação a fatos pretéritos memoráveis e a fatos atuais significativos, ou por seu valor sócio-cultural, ambiental, histórico, científico, estético, paisagístico ou turístico, seja de interesse público proteger, preservar e conservar.
+
+
+§ 1º
+
+Os bens, referidos no caput deste artigo, passarão a integrar o patrimônio histórico e sociocultural mediante a sua inscrição, isolada ou agrupada, no Livro de Tombo.
+
+
+§ 2º
+
+Equiparam-se aos bens referidos neste artigo e são também sujeitos a tombamento, os monumentos naturais, bem como os sítios e paisagens naturais que importem conservar e proteger pela feição notável com que tenham sido dotados pela natureza.
+
+
+Art. 36.
+
+Consideram-se edificações, obras e monumentos naturais de interesse de preservação aqueles que se constituírem em elementos representativos do patrimônio ambiental urbano do município pelo seu valor histórico, cultural, social, funcional, técnico ou afetivo.
+
+
+Parágrafo único
+
+A identificação das edificações, obras e dos monumentos naturais de interesse de preservação será feita pelo Conselho Municipal do Plano Diretor Participativo, mediante os seguintes critérios:
+
+
+I –
+
+Historicidade - relação da edificação com a história social local;
+
+
+II –
+
+Caracterização arquitetônica - estilo arquitetônico de determinado período histórico;
+
+
+III –
+
+Situação em que se encontra a edificação - necessidade, ou não, de reparos;
+
+
+IV –
+
+Representatividade - exemplares significativos dos diversos períodos de urbanização;
+
+
+V –
+
+Raridade arquitetônica - apresentação de formas valorizadas, porém, com ocorrência rara;
+
+
+VI –
+
+Valor cultural - qualidade que confere à edificação, permanência na memória coletiva;
+
+
+VII –
+
+Valor ecológico - relação existente entre os diversos elementos naturais bióticos e abióticos e sua significância;
+
+
+VIII –
+
+Valor paisagistico - qualidade visual de elemento natural de características ímpares.
+
+
+Art. 37.
+
+Ficam, desde logo, identificados e declarados como edificações, obras е monumentos naturais de interesse de preservação, pelo só efeito desta Lei, os imóveis constantes do Tombamento Federal, aprovados pelo Instituto de Patrimônio Histórico e Artístico Nacional, IPHAN, sem prejuízo de outros que venham aser tombados pelo Estado ou Município.
+
+
+§ 1º
+
+Ficam também tombadas, como patrimônio histórico e ambiental, as ruínas da Capela de Amontada Velha, o conjunto arquitetônico composto pela Igreja Matriz e as edificações de seu entorno, não podendo haver intervenções nestes bens sem autorização do Poder Público Local;
+
+
+§ 2º
+
+O Poder Executivo irá regulamentar o uso e realizar a demarcação das áreas procedendo os respectivos atos administrativos para realizar a proteção dos referidos bens.
+
+
+Art. 38.
+
+Projetos arquitetônicos de restauração ou reforma das edificações identificadas como de interesse de preservação, deverão ser submetidos, previamente, ao exame da secretaria municipal competente para parecer técnico, ouvidas as áreas de cultura, trabalho e ação social, e posterior encaminhamento ao Conselho Municipal do Plano Diretor Participativo, para fins de deliberação, sem prejuízo das normas federais e estaduais atinentes à matéria.
+
+
+Parágrafo único
+
+Não será permitida a utilização de perfis metálicos ou placas similares que encubram quaisquer elementos das fachadas das edificações identificadas como de interesse de preservação.
+
+
+Art. 39.
+
+Os bens tombados deverão ser conservados e em nenhuma hipótese poderão ser demolidos, destruídos ou mutilados.
+
+
+§ 1º
+
+As obras de restauração só poderão ser iniciadas mediante prévia comunicação e aprovação do Conselho Municipal do Plano Diretor Participativo e com anuência do Instituto do Patrimônio Histórico Nacional, IPHAN.
+
+
+§ 2º
+
+A requerimento do proprietário, possuidor ou detentor, que comprovar insuficiência de recursos para realizar as obras de conservação ou restauração do bem, o Poder Público Municipal poderá assumir esse ônus.
+
+
+§ 3º
+
+Sem prévia consulta ao Conselho Municipal do Plano Diretor Participativo, não poderá ser executada qualquer obra nas proximidades em um raio de 200 (duzentos) metros do imóvel tombado, que lhe possa impedir ou reduzir a visibilidade ou que não se harmonize com o aspecto estético, arquitetônico ou paisagístico do bem tombado.
+
+
+§ 4º
+
+A vedação supra estende-se à colocação de cartazes, painéis de propaganda, anúncios, tapumes ou qualquer outro objeto de empachamento.
+
+
+###### Subseção II — Do Direito de Preempção
+
+
+Art. 40.
+
+O Direito de Preempção deverá ser utilizado pela Prefeitura nas ZEIS da área urbana e nas áreas passíveis de desapropriação, delimitadas nos ANEXOS I a XI desta Lei, com o objetivo de implantar loteamentos, equipamentos ou habitação para fins sociais, proteger as áreas de interesse histórico, ambiental ou paisagístico, observadas as disposições contidas nos artigos 25, 26 e 27 da Lei Federal n° 10.257/01 - Estatuto da Cidade.
+
+
+### TÍTULO IV — DAS ZONAS DE PLANEJAMENTO DO PLANO DIRETOR PARTICIPATIVO
+
+
+Art. 41.
+
+O zoneamento urbanístico compreende a divisão do espaço territorial da sede municipal, distrito e localidades, com o objetivo de possibilitar a vinculação da política de organização territorial às normas de uso e ocupação do solo, visando a uma distribuição social mais eqüitativa dos custos e beneficios da ocupação do território, na forma a ser definida na Lei de Parcelamento, Uso e Ocupação do Solo do município.
+
+
+Art. 42.
+
+Na definição das Zonas de Planejamento deverão ser respeitados os seguintes princípios:
+
+
+I –
+
+atendimento da função social da propriedade e da cidade, assim entendida como o uso socialmente justo e ecologicamente equilibrado do espaço municipal;
+
+
+II –
+
+do direito à cidadania, entendido em sua dimensão política de participação dos habitantes das cidades e áreas rurais na ordenação do seu território, assim como o direito de acesso às condições de vida digna e ao usufruto de um espaço culturalmente rico е diversificado resultante.
+
+
+Art. 43.
+
+Para fins desta Lei, zoneamento é a divisão da sede municipal, distritos, localidades relevantes, zonas rurais e zonas naturais em áreas de usos diferentes ou superpostos, com o objetivo de ordenar o desenvolvimento do território como um todo, fazendo cumprir a função social da propriedade, visando proteger os interesses da coletividade.
+
+
+Art. 44.
+
+As Zonas serão delimitadas por vias, logradouros públicos, acidentes topográficos e divisão de lotes, sempre que possível.
+
+
+Art. 45.
+
+Nas diferentes zonas, o uso e a ocupação do solo urbano respeitarão os seguintes princípios:
+
+
+I –
+
+proteger o meio ambiente e o patrimônio cultural como condicionamento da ocupação do solo;
+
+
+II –
+
+conter o espraiamento do desenvolvimento urbano, quando pertinente, evitando que a cidade dilate o seu raio de área urbana;
+
+
+III –
+
+incrementar a acessibilidade da população em suas atividades quotidianas com relação ao trabalho, aos serviços sociais, às infra-estruturas, ao lazer e ao comércio;
+
+
+IV –
+
+preservar e realçar o patrimônio arquitetônico de importância histórica, articulado com o processo de tombamento, com o redesenho dos espaços públicos circundantes;
+
+
+V –
+
+reordenar os espaços públicos naturais e urbanizados, com vários raios de alcance, no sentido de favorecer à convivência da população, desde a periferia das Unidades de Vizinhança até os seus espaços centrais;
+
+
+VI –
+
+preservar os espaços de natureza sensível e drenagem natural;
+
+
+VII –
+
+favorecer à circulação de pedestres e ciclistas, satisfazendo as necessidades de circulação da maioria da população, e ao mesmo tempo ajudando a configurar o perfil da área urbana saudável;
+
+
+VIII –
+
+criar uma forma de ordenamento para as áreas urbanas do município, no sentido de controlar o seu crescimento, baseado numa espacialidade orgânica, através de um sistema articulado e gradativo de Unidades de Vizinhança, que poderão acomodar comunidades de 7.000 (sete mil) até 15.000 (quinze mil) habitantes.
+
+
+### TÍTULO V — DO PARCELAMENTO, USO E OCUPAÇÃO DO SOLO
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 46.
+
+O parcelamento do solo para fins urbanos será procedido na forma desta Lei, observados os princípios, normas e diretrizes gerais insertas na Lei Federal nº 6.766, de 19 de dezembro de 1979, alterada pela Lei Federal nº 9.785, de 29 de janeiro de 1999, na Lei Federal n° 10.257, de 10 de julho de 2001, denominada Estatuto da Cidade, na legislação estadual pertinente, bem como nas determinações do relatório "Plano de Estruturação do Território Municipal".
+
+
+Parágrafo único
+
+As áreas urbanas sujeitas ao parcelamento, edificação ou utilização compulsórios se encontram delimitadas nos ANEXOS I a XI desta Lei, estando as condições e prazos para sua implementação previstos na Lei Municipal nº 830, de 19 de maio de 2009 - Lei de Parcelamento, Uso e Ocupação do Solo.
+
+
+Art. 47.
+
+O parcelamento do solo é a subdivisão de glebas em lotes, com ou sem abertura de novas vias, logradouros públicos ou seus prolongamentos, podendo apresentar-se sob as formas de loteamento e desmembramento.
+
+
+§ 1º
+
+Loteamento é a subdivisão de glebas em lotes, destinados a edificações, com a abertura de novas vias de circulação, de logradouros públicos ou prolongamento, modificação ou ampliação das vias já existentes.
+
+
+§ 2º
+
+Desmembramento é a subdivisão de glebas em lotes, destinados a edificações, com aproveitamento do sistema viário existente, desde que não implique em abertura de novas vias e logradouros públicos, nem o prolongamento, modificação ou ampliação das já existentes.
+
+
+Art. 48.
+
+Para efeito desta Lei, entende-se como lote o terreno servido de infra-estrutura básica, contido em uma quadra, com pelo menos uma divisa lindeira à via oficial de circulação de veículos, e cujas dimensões atendam aos índices urbanísticos definidos pela Lei de Parcelamento, Uso e Ocupação do Solo do município.
+
+
+Art. 49.
+
+Considera infraestrutura básica os equipamentos urbanos de escoamento das águas pluviais, iluminação pública, redes de esgoto sanitário, de abastecimento de água potável e de energia elétrica pública e domiciliar, e as vias de circulação, pavimentadas ou não.
+
+
+Art. 50.
+
+Os parâmetros de parcelamento de solo no município serão estabelecidos levando-se em consideração, dentre outros, os seguintes fatores:
+
+
+I –
+
+a Lei Federal n° 6.766/79, com as alterações advindas da Lei nº 9.785/99, que dispõe sobre o parcelamento do solo urbano;
+
+
+II –
+
+padrões ambientais e sanitários de ocupação urbana;
+
+
+III –
+
+respeito às dimensões dos lotes existentes nas áreas urbanizadas;
+
+
+IV –
+
+as projeções de adensamento populacionais propostas.
+
+
+Art. 51.
+
+Para prevenção de possíveis causas de degradação ambiental, ficam os loteamentos sujeitos ao prévio licenciamento do Poder Público Municipal e com anuência do Órgão Ambiental do Estado do Ceará, nos termos do art. 11 da Lei Estadual n° 11.411, de 20 de dezembro de 1987.
+
+
+Art. 52.
+
+A percentagem de áreas públicas destinadas ao sistema de circulação, à implantação de equipamentos urbanos e comunitários, bem como, aos espaços livres de uso público, não poderá ser inferior a 40% (quarenta por cento) da gleba, observados os requisitos urbanísticos definidos no art. 4°, da Lei Federal n° 6.766, de 19 de dezembro de 1979, com a nova redação dada pela Lei Federal n° 9.785, de 29 de janeiro de 1999.
+
+
+Art. 53.
+
+Para efeito desta Lei, os Indicadores Urbanos de Ocupação a serem utilizados para as áreas urbanas de Amontada, são definidos na forma seguinte:
+
+
+I –
+
+afastamento ou recuo de frente:
+
+
+II –
+
+afastamento ou recuo de fundos;
+
+
+III –
+
+afastamento ou recuo lateral;
+
+
+IV –
+
+altura máxima da edificação;
+
+
+V –
+
+área e testada mínima de lote:
+
+
+VI –
+
+índice de aproveitamento;
+
+
+VII –
+
+taxa de ocupação;
+
+
+VIII –
+
+taxa de permeabilidade.
+
+
+Parágrafo único
+
+A altura máxima permitida para as edificações, em qualquer zona de uso, fica sujeita às normas estabelecidas na Lei de Parcelamento, Uso e Ocupação do Solo e às disposições de legislações correlatas.
+
+
+Art. 54.
+
+A Lei de Parcelamento, Uso e Ocupação do Solo definirá, para cada zona em que se divide o território da sede municipal, os usos permitidos e os respectivos índices urbanísticos, que incluirão, obrigatoriamente, as áreas mínimas e máximas de lote e os coeficientes máximos de aproveitamento.
+
+
+Art. 55.
+
+Ao longo das rodovias, e dutos de infra-estrutura de interesse público, e linhas elétricas de alta tensão será obrigatória a observação das faixas non aedificandi (faixa de domínio) definidas pelos órgãos estaduais e municipais competentes.
+
+
+Parágrafo único
+
+A faixa non aedificandi referida neste artigo não será computada para о cálculo de áreas públicas destinadas aos espaços livres de uso público.
+
+
+Art. 56.
+
+A execução do arruamento, pela abertura das vias de circulação e demais logradouros públicos, vinculados à circulação urbana e rede viária do município, obedecerá ao traçado e às características funcionais, geométricas, infra-estruturais e paisagísticas em conformidade com a Lei do Sistema Viário Básico.
+
+
+Art. 57.
+
+Não caberá à Prefeitura responsabilidade por qualquer divergência relacionada com dimensões, áreas e outras características dos lotes de terrenos, constantes da planta de loteamento, verificadas em confronto com a situação real da gleba parcelada.
+
+
+### TÍTULO VI — DO SISTEMA VIÁRIO BÁSICO
+
+
+Art. 58.
+
+Os planos, programas, normas e projetos referentes ao sistema viário e de circulação de veículos e de pedestres deverão observar as diretrizes traçadas no relatório "Plano de Estruturação do Território Municipal", em conformidade com a Lei do Sistema Viário Básico e, em caráter especial:
+
+
+I –
+
+considerar o uso e a ocupação do solo estabelecido para as diferentes áreas e sub-áreas do município;
+
+
+II –
+
+priorizar a segurança e o conforto da população, e a defesa do meio ambiente;
+
+
+III –
+
+estabelecer critérios de hierarquização da rede viária básica priorizando sua utilização pelo transporte público de passageiros;
+
+
+IV –
+
+criar um sistema de comunicação visual, através de sinalização gráfica e semafórica de forma a atender as necessidades do sistema viário, considerando o interesse paisagístico;
+
+
+V –
+
+criar um circuito de transporte público de boa acessibilidade, interligando a Sede Municipal ao Distrito de Passagem do Vaz e às Localidades de Cameiro e Retiro;
+
+
+VI –
+
+criar junto ao subsistema viário troncal, proposto para o município em suas áreas urbanas, trilhas de ciclovias e de caminhos para pedestres, conectando as Unidades de Vizinhança entre si e essas aos espaços centrais dessas áreas e seus equipamentos;
+
+
+VII –
+
+criar uma malha de caminhos de pedestres na zona central, a partir da redução do tráfego de veículos, eventuais alargamentos de passeios e arborização desses espaços.
+
+
+Art. 59.
+
+A definição do sistema viário básico para as áreas urbanas de Amontada contemplará a hierarquização das vias, suas diretrizes de traçado e a garantia de espaços destinados a pedestres, através da regulamentação do uso dos passeios, articulando os centros focais das Unidades de Vizinhança propostas.
+
+
+Parágrafo único
+
+Os detalhes de alinhamento para efeito de alargamento ou abertura de novas vias que irão configurar o sistema viário básico e as soluções de drenagem serão identificados quando da elaboração dos seus respectivos projetos de engenharia.
+
+
+Art. 60.
+
+As vias devem ser atraentes e funcionais para os pedestres, de modo a garantir condições favoráveis à locomoção, inclusive para portadores de deficiência física, melhorando as condições paisagisticas, a amenização climática e regulamentando o uso das faces adjacentes com placas e anúncios.
+
+
+### TÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 61.
+
+O Plano Diretor Participativo, PDP do Município de Amontada, define as macrodiretrizes e diretrizes setoriais a serem atendidas na promoção de seu desenvolvimento e planejamento urbanístico nos próximos 10 (dez) anos, sem prejuízo das revisões decorrentes de sua atualização permanente.
+
+
+Art. 62.
+
+O Plano Diretor Participativo poderá ser alterado, mediante revisão, sempre que se fizer necessário, por proposta do Conselho Municipal do Plano Diretor Participativo, dos Poderes Executivo ou Legislativo, observando-se, para tanto, o competente processo legislativo.
+
+
+Art. 63.
+
+As revisões do PDP não se aplicam aos processos administrativos em curso nos órgãos técnicos municipais, salvo disposição em contrário no texto da revisão.
+
+
+§ 1º
+
+É assegurada a participação da comunidade em todo o processo de planejamento, pelo amplo acesso às informações e ainda por sua representação em entidades e associações comunitárias, em grupos de trabalho, comissões, provisórias ou permanentes e órgãos colegiados;
+
+
+§ 2º
+
+A gestão integrada do planejamento urbano e promoção do desenvolvimento do município dependerá, basicamente, da capacidade de mobilização das várias instâncias govemamentais e sua permeabilidade à participação direta dos agentes sociais, inclusive da iniciativa privada.
+
+
+Art. 64.
+
+Caberá ao Poder Público Municipal proceder a identificação das áreas urbanas para o atendimento do disposto no art. 182, § 4º da Constituição Federal, combinado com o art. 290 da Constituição do Estado do Ceará.
+
+
+Art. 65.
+
+O Poder Executivo divulgará, de forma ampla e didática, o conteúdo desta Lei visando o acesso da população aos instrumentos de política urbana que orientam a produção e organização do espaço habitado.
+
+
+Art. 66.
+
+O Chefe do Poder Executivo Municipal encaminhará, no prazo de 90 (noventa) dias, a contar da publicação desta Lei, projeto de lei dispondo sobre a regulamentação, naquilo que couber, dos instrumentos de operacionalização do PDP, de natureza institucional, urbanística, ambiental, tributária e financeira.
+
+
+Art. 67.
+
+Os relatórios "Plano Estratégico de Desenvolvimento Sustentável" e "Plano de Estruturação do Território Municipal" são documentos que registram o histórico do processo de elaboração do Plano Diretor Participativo do Município de Amontada.
+
+
+Parágrafo único
+
+As informações técnicas contidas nos documentos supracitados deverão ser utilizadas por todos os órgãos da Administração Municipal, objetivando a implementação das diretrizes de desenvolvimento sócio-econômico do município, envolvendo sua sede e distritos, bem como as diretrizes da política de ordenamento territorial municipal.
+
+
+Art. 68.
+
+Fazem parte integrante desta Lei os seguintes Anexos:
+
+
+ANEXO I Planta Oficial para Delimitação de ZEIS, de Área para Aplicação do Direito de Preempção e de Area para Parcelamento, Edificação ou Utilização Compulsórios - Área 1- Cidade de Amontada;  
+ANEXO II Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Área para Parcelamento, Edificação ou Utilização Compulsórios - Área 2 - Vila de Aracatiara;  
+ANEXO III Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Area para Parcelamento, Edificação ou Utilização Compulsórios - Área 3 - Vila de Garças;
+
+ANEXO IV Planta Oficial para Delimitação de Area para Aplicação do Direito de Preempção e de Area para Parcelamento, Edificação ou Utilização Compulsórios - Área 4 - Vila de Icaraí de Amontada;  
+ANEXO V Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Área para Parcelamento, Edificação ou Utilização Compulsórios - Área 5 Vila de Lagoa Grande;  
+ANEXO VI Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Área para Parcelamento, Edificação ou Utilização Compulsórios - Área 6 - Vila de Moitas:  
+ANEXO VIl Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Área para Parcelamento, Edificação ou Utilização Compulsórios - Área 7 - Vila de Mosquito;  
+ANEXO VIII Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Área para Parcelamento, Edificação ou Utilização Compulsórios - Área 8 - Vila de Nascentes:  
+ANEXO IX Planta Oficial Delimitação de Área para Aplicação do Direito de para Preempção e de Área rea para Parcelamento, Edificação ou Utilização Compulsórios - Area 9 - Vila de Poço Comprido;  
+ANEXO X Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Área para Parcelamento, Edificação ou Utilização Compulsórios - Área 10 -Vila de Sabiaguaba; е  
+ANEXO XI Planta Oficial para Delimitação de Área para Aplicação do Direito de Preempção e de Área para Parcelamento, Edificação ou Utilização Compulsórios - Área 11 - Localidade de Caetano.
+
+
+Art. 69.
+
+Esta Lei entra em vigor na data de sua publicação, revogando a Lei Municipal nº. 828, de 19 de maio de 2009, e quaisquer outras disposições contrárias.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL, aos 15 de março de 2010.**
+
+**Edivaldo Assis de Jesus Prefeito Municipal**

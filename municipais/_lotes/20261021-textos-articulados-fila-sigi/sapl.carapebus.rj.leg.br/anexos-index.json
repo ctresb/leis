@@ -1,0 +1,1108 @@
+{
+  "estado": "indice_completo",
+  "total": 105,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/lei_733_-_2021_-_ppa_-_anexo_-_altera_anexo_programas_objetivos_e_metas_da_administracao.pdf da norma Lei Ordinária nº 733, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/1/lei_733_-_2021_-_ppa_-_anexo_-_altera_anexo_programas_objetivos_e_metas_da_administracao.pdf",
+      "ano": 2021,
+      "norma": 5
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/lei_734_-_2021_-_ldo_-_anexo__altera_anexo_metas_anuais.pdf da norma Lei Ordinária nº 734, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/2/lei_734_-_2021_-_ldo_-_anexo__altera_anexo_metas_anuais.pdf",
+      "ano": 2021,
+      "norma": 6
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/lei_735_-_2021_-_loa_-_anexo_1_-_sumario_geral_da_receita_por_fonte_e_da_despesa_por_funcoes_do_governo.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/3/lei_735_-_2021_-_loa_-_anexo_1_-_sumario_geral_da_receita_por_fonte_e_da_despesa_por_funcoes_do_governo.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/lei_735_-_2021_-_loa_-_anexo_2_-_receita_e_despesa_segundo_a_categoria_economica.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/4/lei_735_-_2021_-_loa_-_anexo_2_-_receita_e_despesa_segundo_a_categoria_economica.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/lei_735_-_2021_-_loa_-_anexo_3_-_especificacao_da_receita_por_fonte.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/5/lei_735_-_2021_-_loa_-_anexo_3_-_especificacao_da_receita_por_fonte.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/lei_735_-_2021_-_loa_-_anexo_4_-_natureza_da_despesa.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/6/lei_735_-_2021_-_loa_-_anexo_4_-_natureza_da_despesa.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/lei_735_-_2021_-_loa_-_anexo_5_-_programa_de_trabalho_por_orgao.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/7/lei_735_-_2021_-_loa_-_anexo_5_-_programa_de_trabalho_por_orgao.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/lei_735_-_2021_-_loa_-_anexo_6_-_funcoes_por_projeto-atividade.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/8/lei_735_-_2021_-_loa_-_anexo_6_-_funcoes_por_projeto-atividade.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/9/lei_735_-_2021_-_loa_-_anexo_7_-_demonstrativo_da_despesa_por_orgaos_e_funcoes.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/9/lei_735_-_2021_-_loa_-_anexo_7_-_demonstrativo_da_despesa_por_orgaos_e_funcoes.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/lei_735_-_2021_-_loa_-_anexo_8_-_demonstrativo_da_despesa_conforme_os_vinculos.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/10/lei_735_-_2021_-_loa_-_anexo_8_-_demonstrativo_da_despesa_conforme_os_vinculos.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/lei_735_-_2021_-_loa_-_anexo_9_-_quadro_demonstrativo_das_dotacoes_por_orgao.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/11/lei_735_-_2021_-_loa_-_anexo_9_-_quadro_demonstrativo_das_dotacoes_por_orgao.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/12/lei_735_-_2021_-_loa_-_anexo_10_-_quadro_sumario_da_receita.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/12/lei_735_-_2021_-_loa_-_anexo_10_-_quadro_sumario_da_receita.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/13/lei_735_-_2021_-_loa_-_anexo_11_-_quadro_sumario_da_despesa.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/13/lei_735_-_2021_-_loa_-_anexo_11_-_quadro_sumario_da_despesa.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/14/lei_735_-_2021_-_loa_-_anexo_12_-_demonstrativo_dos_projetos-atividades_a_serem_desenvolvidos.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/14/lei_735_-_2021_-_loa_-_anexo_12_-_demonstrativo_dos_projetos-atividades_a_serem_desenvolvidos.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/16/lei_735_-_2021_-_loa_-_anexo_13_-_demonstrativo_da_compatibilidade_entre_o_ppa_e_o_orcamento.pdf da norma Lei Ordinária nº 735, de 18 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/16/lei_735_-_2021_-_loa_-_anexo_13_-_demonstrativo_da_compatibilidade_entre_o_ppa_e_o_orcamento.pdf",
+      "ano": 2021,
+      "norma": 7
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/17/loa_2020_-_i_sumario_geral_da_receita_por_fonte_e_das_despesas_por_funcao_do_governo.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/17/loa_2020_-_i_sumario_geral_da_receita_por_fonte_e_das_despesas_por_funcao_do_governo.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/18/loa_2020_-_ii_receita_e_despesa_segundo_as_categorias_economicas.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/18/loa_2020_-_ii_receita_e_despesa_segundo_as_categorias_economicas.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/19/loa_2020_-_iii_especificacao_da_receita_por_fonte.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/19/loa_2020_-_iii_especificacao_da_receita_por_fonte.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/20/loa_2020_-_iv_natureza_da_despesa.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/20/loa_2020_-_iv_natureza_da_despesa.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/loa_2020_-_v_programa_de_trabalho_por_orgao.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/21/loa_2020_-_v_programa_de_trabalho_por_orgao.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/23/loa_2020_-_vi_funcao_por_projeto-atividade.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/23/loa_2020_-_vi_funcao_por_projeto-atividade.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/24/loa_2020_-_vii_quadro_demonstrativo_das_despesas_por_orgaos_e_funcoes.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/24/loa_2020_-_vii_quadro_demonstrativo_das_despesas_por_orgaos_e_funcoes.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/loa_2020_-_viii_quadro_demonstrativo_das_dotacoes_por_orgaos_do_governo_e_da_administracao.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/25/loa_2020_-_viii_quadro_demonstrativo_das_dotacoes_por_orgaos_do_governo_e_da_administracao.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/26/loa_2020_-_ix_quadro_demonstrativo_do_programa_anual_de_trabalho_do_governo_obras_e_servicos.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/26/loa_2020_-_ix_quadro_demonstrativo_do_programa_anual_de_trabalho_do_governo_obras_e_servicos.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/27/loa_2020_-_x_quadro_sumario_da_receita.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/27/loa_2020_-_x_quadro_sumario_da_receita.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/28/loa_2020_-_xi_quadro_sumario_da_despesa.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/28/loa_2020_-_xi_quadro_sumario_da_despesa.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/29/loa_2020_-_xii_demonstrativo_dos_projetos-atividades_a_serem_desenvolvidos.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/29/loa_2020_-_xii_demonstrativo_dos_projetos-atividades_a_serem_desenvolvidos.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/30/loa_2020_-_xiii_quadro_demonstrativo_da_compatibilidade_entre_o_ppa_e_o_orcamento.pdf da norma Lei Ordinária nº 726, de 31 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2019/30/loa_2020_-_xiii_quadro_demonstrativo_da_compatibilidade_entre_o_ppa_e_o_orcamento.pdf",
+      "ano": 2019,
+      "norma": 16
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/31/anexo_i_doscargosemcomissao.administrativo.publicacao.pdf da norma Lei Ordinária nº 736, de 28 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/31/anexo_i_doscargosemcomissao.administrativo.publicacao.pdf",
+      "ano": 2021,
+      "norma": 2
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/32/anexo_ii_doscargosemcomissao.legislativo.publiccao.pdf da norma Lei Ordinária nº 736, de 28 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/32/anexo_ii_doscargosemcomissao.legislativo.publiccao.pdf",
+      "ano": 2021,
+      "norma": 2
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/33/anexo_iii_dasatribuicoes.cargosemcomissao.administrativo.publicacao.pdf da norma Lei Ordinária nº 736, de 28 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/33/anexo_iii_dasatribuicoes.cargosemcomissao.administrativo.publicacao.pdf",
+      "ano": 2021,
+      "norma": 2
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/34/anexo_iv_dasatribuicoes.cargosemcomissao.legislativo.publicacao.pdf da norma Lei Ordinária nº 736, de 28 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/34/anexo_iv_dasatribuicoes.cargosemcomissao.legislativo.publicacao.pdf",
+      "ano": 2021,
+      "norma": 2
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/35/mensagem_no_004_-_ldo_2020-001.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/35/mensagem_no_004_-_ldo_2020-001.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/36/mensagem_no_004_-_ldo_2020-002.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/36/mensagem_no_004_-_ldo_2020-002.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/37/mensagem_no_004_-_ldo_2020-003.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/37/mensagem_no_004_-_ldo_2020-003.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/mensagem_no_004_-_ldo_2020-004.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/38/mensagem_no_004_-_ldo_2020-004.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/39/mensagem_no_004_-_ldo_2020-005.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/39/mensagem_no_004_-_ldo_2020-005.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/40/mensagem_no_004_-_ldo_2020-006.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/40/mensagem_no_004_-_ldo_2020-006.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/41/mensagem_no_004_-_ldo_2020-007.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/41/mensagem_no_004_-_ldo_2020-007.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/42/mensagem_no_004_-_ldo_2020-008.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/42/mensagem_no_004_-_ldo_2020-008.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/43/mensagem_no_004_-_ldo_2020-009.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/43/mensagem_no_004_-_ldo_2020-009.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/44/mensagem_no_004_-_ldo_2020-010.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/44/mensagem_no_004_-_ldo_2020-010.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/45/mensagem_no_004_-_ldo_2020-011.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/45/mensagem_no_004_-_ldo_2020-011.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/46/mensagem_no_004_-_ldo_2020-012.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/46/mensagem_no_004_-_ldo_2020-012.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/47/mensagem_no_004_-_ldo_2020-013.pdf da norma Lei Ordinária nº 746, de 05 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2021/47/mensagem_no_004_-_ldo_2020-013.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/48/01_-_i_-_sumario_geral_da_receita_por_fonte_e_despesa_por_funcoes_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/48/01_-_i_-_sumario_geral_da_receita_por_fonte_e_despesa_por_funcoes_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/49/02_-_ii_-_anexo_1_-_receita_e_despesa_segundo_categoria_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/49/02_-_ii_-_anexo_1_-_receita_e_despesa_segundo_categoria_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/50/03_-_iii_-_receita_por_fonte_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/50/03_-_iii_-_receita_por_fonte_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/51/04_-_iv_-_natureza_da_despesa_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/51/04_-_iv_-_natureza_da_despesa_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/52/05_-_v_-_anexo_6_programa_de_trabalho_por_orgao_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/52/05_-_v_-_anexo_6_programa_de_trabalho_por_orgao_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/53/06_-_vi_-_anexo_7_funcoes_por_projeto_atividade_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/53/06_-_vi_-_anexo_7_funcoes_por_projeto_atividade_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/54/07_-_viii_-_anexo_8_demonstrativo_despesa_por_funcao_subfuncao_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/54/07_-_viii_-_anexo_8_demonstrativo_despesa_por_funcao_subfuncao_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/55/08_-_vii_-_anexo_9_despesa_por_orgao_e_funcoes_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/55/08_-_vii_-_anexo_9_despesa_por_orgao_e_funcoes_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/56/09_-_ix_-_quadro_demonstrativo_das_dotacoes_por_orgaos_do_governo_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/56/09_-_ix_-_quadro_demonstrativo_das_dotacoes_por_orgaos_do_governo_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/57/10_-_x_-_quadro_sumario_da_receita_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/57/10_-_x_-_quadro_sumario_da_receita_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/58/11_-_xi_-_quadro_sumario_da_despesa_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/58/11_-_xi_-_quadro_sumario_da_despesa_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/59/12_-_xii_-_demonstrativo_dos_projetos_atividades_a_serem_desenvolvidos_em_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/59/12_-_xii_-_demonstrativo_dos_projetos_atividades_a_serem_desenvolvidos_em_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/60/13_-_xiii_-_demonstrativo_da_compatibilidade_entre_ppa_metas_e_orcamento_2022.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/60/13_-_xiii_-_demonstrativo_da_compatibilidade_entre_ppa_metas_e_orcamento_2022.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/61/01_-_anexo_1_-_objetivos_programas_e_metas_da_administracao.pdf da norma Lei Ordinária-GABPREF nº 752, de 12 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/61/01_-_anexo_1_-_objetivos_programas_e_metas_da_administracao.pdf",
+      "ano": 2022,
+      "norma": 67
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/62/02_-_anexo_2_-_resumo_das_acoes_por_funcao_e_subfuncao.pdf da norma Lei Ordinária-GABPREF nº 752, de 12 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/62/02_-_anexo_2_-_resumo_das_acoes_por_funcao_e_subfuncao.pdf",
+      "ano": 2022,
+      "norma": 67
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/63/03_-_anexo_3_-_classificacao_dos_programas_por_macro_objetivos.pdf da norma Lei Ordinária-GABPREF nº 752, de 12 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/63/03_-_anexo_3_-_classificacao_dos_programas_por_macro_objetivos.pdf",
+      "ano": 2022,
+      "norma": 67
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/64/04_-_anexo_4_-_classificacao_dos_programas_e_acoes_por_funcao.pdf da norma Lei Ordinária-GABPREF nº 752, de 12 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/64/04_-_anexo_4_-_classificacao_dos_programas_e_acoes_por_funcao.pdf",
+      "ano": 2022,
+      "norma": 67
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/04_-_anexo_5_-_resumo_dos_programas_finalisticos_por_macroobjetivo.pdf da norma Lei Ordinária-GABPREF nº 752, de 12 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/65/04_-_anexo_5_-_resumo_dos_programas_finalisticos_por_macroobjetivo.pdf",
+      "ano": 2022,
+      "norma": 67
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/66/lei_683_-_2017_-_emenda_a_lei_municipal_624-2015_-_conselheiro_tutelar.doc da norma Lei Ordinária-GABPREF nº 624, de 01 de abril de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "“Altera o Art. 73 da Lei Municipal 624/15.”",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2015/66/lei_683_-_2017_-_emenda_a_lei_municipal_624-2015_-_conselheiro_tutelar.doc",
+      "ano": 2015,
+      "norma": 75
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/67/lei_683_-_2017_-_errata_da_lei_683-2017_-_conselheiros_tutelares.doc da norma Lei Ordinária-GABPREF nº 624, de 01 de abril de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "Na Lei Municipal 683, publicada em 05/09/2017, na edição do Jornal Diário da Costa do Sol.",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2015/67/lei_683_-_2017_-_errata_da_lei_683-2017_-_conselheiros_tutelares.doc",
+      "ano": 2015,
+      "norma": 75
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/68/edicao-de-quinta-feira-07_04_2022-no-5321.pdf da norma Lei Ordinária-GABPREF nº 753, de 22 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/68/edicao-de-quinta-feira-07_04_2022-no-5321.pdf",
+      "ano": 2022,
+      "norma": 76
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/69/edicao-de-quinta-feira-07_04_2022-no-5321.pdf da norma Lei Ordinária-GABPREF nº 754, de 25 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/69/edicao-de-quinta-feira-07_04_2022-no-5321.pdf",
+      "ano": 2022,
+      "norma": 77
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/edicao-de-sabado-a-segunda-feira-09-a-11_04_2022-no-5323.pdf da norma Lei Ordinária-GABPREF nº 755, de 25 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/70/edicao-de-sabado-a-segunda-feira-09-a-11_04_2022-no-5323.pdf",
+      "ano": 2022,
+      "norma": 78
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/71/edicao-de-terca-feira-24-de-maio-de-2022-no-5351.pdf da norma Lei Ordinária-GABPREF nº 756, de 23 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/71/edicao-de-terca-feira-24-de-maio-de-2022-no-5351.pdf",
+      "ano": 2022,
+      "norma": 79
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/edicao-de-sexta-feira-27_05_2022-no-5354.pdf da norma Lei Ordinária-GABPRES nº 757, de 26 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/72/edicao-de-sexta-feira-27_05_2022-no-5354.pdf",
+      "ano": 2022,
+      "norma": 80
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/73/13_22_edicao_13._-_diario_oficial.pdf da norma Lei Ordinária-GABPRES nº 758, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/73/13_22_edicao_13._-_diario_oficial.pdf",
+      "ano": 2022,
+      "norma": 81
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/74/13_22_edicao_13._-_diario_oficial.pdf da norma Lei Ordinária-GABPRES nº 759, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/74/13_22_edicao_13._-_diario_oficial.pdf",
+      "ano": 2022,
+      "norma": 82
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/75/18__extra_22_edicao_18_extra_-_diario_oficial.pdf da norma Lei Ordinária-GABPRES nº 760, de 19 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/75/18__extra_22_edicao_18_extra_-_diario_oficial.pdf",
+      "ano": 2022,
+      "norma": 83
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/76/19_22_edicao_19_-_diario_oficial_1.pdf da norma Lei Ordinária-GABPRES nº 761, de 20 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/76/19_22_edicao_19_-_diario_oficial_1.pdf",
+      "ano": 2022,
+      "norma": 84
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/77/20_22_edicao_20.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Carapebus, 21 de Julho - Edição nº 20 - ANO 1.",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/77/20_22_edicao_20.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/78/edicao-de-sexta-feira-28_01_2022-no-5275.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Jornal Diário Costa do Sol - Edição 5275 - Parte I",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/78/edicao-de-sexta-feira-28_01_2022-no-5275.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/79/edicao-de-sabado-a-segunda-feira-29-a-31_01_2022-no-5276.pdf da norma Lei Ordinária-GABPREF nº 751, de 27 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/79/edicao-de-sabado-a-segunda-feira-29-a-31_01_2022-no-5276.pdf",
+      "ano": 2022,
+      "norma": 66
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/80/24_22_edicao_24_-_diario_oficial.pdf da norma Lei Ordinária-GABPRES nº 763, de 25 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/80/24_22_edicao_24_-_diario_oficial.pdf",
+      "ano": 2022,
+      "norma": 86
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/81/edicao-de-sexta-feira-11_03_2022-no-5302.pdf da norma Resolução-GABPRES nº 1, de 09 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/81/edicao-de-sexta-feira-11_03_2022-no-5302.pdf",
+      "ano": 2022,
+      "norma": 87
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/82/edicao-de-sabado-a-segunda-feira-26-a-28_03_2022-no-5313.pdf da norma Resolução-GABPRES nº 2, de 24 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/82/edicao-de-sabado-a-segunda-feira-26-a-28_03_2022-no-5313.pdf",
+      "ano": 2022,
+      "norma": 88
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/83/edicao-de-sabado-a-segunda-feira-26-a-28_03_2022-no-5313.pdf da norma Resolução-GABPRES nº 3, de 24 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/83/edicao-de-sabado-a-segunda-feira-26-a-28_03_2022-no-5313.pdf",
+      "ano": 2022,
+      "norma": 89
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/84/edicao-de-terca-feira-12_04_2022-no-5324.pdf da norma Resolução-GABPRES nº 4, de 07 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/84/edicao-de-terca-feira-12_04_2022-no-5324.pdf",
+      "ano": 2022,
+      "norma": 90
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/85/edicao_13_-_diario_oficial.cdr.pdf da norma Resolução-GABPRES nº 5, de 12 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/85/edicao_13_-_diario_oficial.cdr.pdf",
+      "ano": 2022,
+      "norma": 91
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/86/edicao_14_-_diario_oficial.cdr.pdf da norma Resolução-GABPRES nº 5, de 12 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/86/edicao_14_-_diario_oficial.cdr.pdf",
+      "ano": 2022,
+      "norma": 91
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/87/avaliacao_do_cumprimento_das_metas_fiscais.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/87/avaliacao_do_cumprimento_das_metas_fiscais.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/88/demosntrativos_de_riscos_fiscais_e_providencias_2023.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/88/demosntrativos_de_riscos_fiscais_e_providencias_2023.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/89/estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/89/estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/90/evolucao_do_patrimonio_liquido.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/90/evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/91/margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/91/margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/92/metas_anuais.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/92/metas_anuais.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/93/metas_e_prioridades.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/93/metas_e_prioridades.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/94/metas_fiscais_atuais_comparadas_com_as_fixadas.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/94/metas_fiscais_atuais_comparadas_com_as_fixadas.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/95/origem_e_aplicacao_dos_recursos_obtidos_com_alienacao_de_ativos_2023.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/95/origem_e_aplicacao_dos_recursos_obtidos_com_alienacao_de_ativos_2023.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/96/projecao_atuarial_do_rpps.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/96/projecao_atuarial_do_rpps.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/97/receitas_e_despesas_previdenciarias.pdf da norma Lei Ordinária-GABPREF nº 762, de 21 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/97/receitas_e_despesas_previdenciarias.pdf",
+      "ano": 2022,
+      "norma": 85
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/98/72_22_edicao_72_-_diario_oficial.pdf da norma Lei Ordinária-GABPREF nº 767, de 05 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/98/72_22_edicao_72_-_diario_oficial.pdf",
+      "ano": 2022,
+      "norma": 92
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/100/63_22_edicao_63_-_diario_oficial.pdf da norma Lei Ordinária-GABPREF nº 766, de 21 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/100/63_22_edicao_63_-_diario_oficial.pdf",
+      "ano": 2022,
+      "norma": 94
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/101/79_22_edicao_79.pdf da norma Lei Ordinária-GABPREF nº 768, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/101/79_22_edicao_79.pdf",
+      "ano": 2022,
+      "norma": 95
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/102/51_22_edicao_51_-_diario_oficial.pdf da norma Lei Ordinária-GABPREF nº 764, de 05 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2022/102/51_22_edicao_51_-_diario_oficial.pdf",
+      "ano": 2022,
+      "norma": 96
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/103/errata_n_001_-_lei_municipal_796_de_08_de_dezembro_de_2023_edicao_228___12-12-2023.pdf da norma Lei Ordinária-GABPREF nº 795, de 08 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2023/103/errata_n_001_-_lei_municipal_796_de_08_de_dezembro_de_2023_edicao_228___12-12-2023.pdf",
+      "ano": 2023,
+      "norma": 109
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/104/errata_n_001_-_lei_municipal_796_de_08_de_dezembro_de_2023_edicao_228___12-12-2023.pdf da norma Lei Ordinária-GABPREF nº 796, de 08 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "ERRATA QUANTO À NUMERAÇÃO NA EPIGRAFE DA PUBLICAÇÃO ORIGINAL",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2023/104/errata_n_001_-_lei_municipal_796_de_08_de_dezembro_de_2023_edicao_228___12-12-2023.pdf",
+      "ano": 2023,
+      "norma": 138
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/105/lei_ordinaria_no_797_de_13.12.2023__errata_preambulo__edicao_234___20-12-2023.pdf da norma Lei Ordinária-GABPRES nº 797, de 12 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "Publicação da ERRATA do preâmbulo do Plano de Cargos",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2023/105/lei_ordinaria_no_797_de_13.12.2023__errata_preambulo__edicao_234___20-12-2023.pdf",
+      "ano": 2023,
+      "norma": 127
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/106/lei_ordinaria_no_794__de_01.12.2023__altera_a_lei_das_diretrizes_orcamentarias_para_o_exercicio_financeiro_de_2024__edicao_221___01-12-2023.pdf da norma Lei Ordinária-GABPREF nº 807, de 24 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2024/106/lei_ordinaria_no_794__de_01.12.2023__altera_a_lei_das_diretrizes_orcamentarias_para_o_exercicio_financeiro_de_2024__edicao_221___01-12-2023.pdf",
+      "ano": 2024,
+      "norma": 147
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/107/acordao_acao_direta_de_inconstitucionalidade.pdf da norma Lei Ordinária-GABPREF nº 777, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Antonio Carlos Nascimento Amado",
+                [
+                  "2025-02-21T15:21:19-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2023/107/acordao_acao_direta_de_inconstitucionalidade.pdf",
+      "ano": 2023,
+      "norma": 108
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/108/acordao_acao_direta_de_inconstitucionalidade.pdf da norma Lei Ordinária-GABPRES nº 778, de 01 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Antonio Carlos Nascimento Amado",
+                [
+                  "2025-02-21T15:21:19-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carapebus.rj.leg.br/media/sapl/public/anexonormajuridica/2023/108/acordao_acao_direta_de_inconstitucionalidade.pdf",
+      "ano": 2023,
+      "norma": 120
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carapebus.rj.leg.br/0acdf181e1558bee4efcce8eca4d115110c9ceeb3ae1e8ac4f033e1a89965588.json",
+      "url": "https://sapl.carapebus.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.carapebus.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "03236134881356aabace12f9e454eb8095608fd39af8c4cd56144c898d6b98c1",
+      "bytes": 45780,
+      "capturado_em": "2026-10-27T22:32:40.054241-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carapebus.rj.leg.br/a5e9dc33d44c13a21b754ba5f865102da2c261d42963922f641214a55af12b01.json",
+      "url": "https://sapl.carapebus.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "url_final": "https://sapl.carapebus.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c46c9904cdf9616e932b57fdd75427e88884f8c7a7983a0dbcadbc7d64e3f7f5",
+      "bytes": 3235,
+      "capturado_em": "2026-10-27T22:32:40.709606-03:00"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "host": "sapl.cacu.go.leg.br",
+  "metadados_unicos_observados": 1728,
+  "total_api_declarado": 1728,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1541,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/b11dbad1ab589ffd57305a593604136c6503b15a2568652abefabe3ecd512889.json",
+    "url": "https://sapl.cacu.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "4277b1411b6b5cfdbac6b0c030d30e564e6ddb9895b8e9b5699b261ae56495f6",
+    "bytes": 957,
+    "capturado_em": "2026-10-27T21:15:12.169198-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+    "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+    "bytes": 804,
+    "capturado_em": "2026-10-27T21:15:10.958379-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/abe7031387efa47b62b8fb4c19aaff32bf55186f1279ccc8094341a4d6d503c6.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "97192d6b2954c1e2c95cccfc47cf41d5dd08327f1727863762374e3ba3ae3627",
+      "bytes": 62775,
+      "capturado_em": "2026-10-27T21:15:14.344554-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/fe8ba881917222ae1075fd8833254c4ea513a91c2c5563628c6619801e59eec0.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "124a0271fef9ce9ecc7d2b7bb181236e623efe35d2a30a5702a0d3f656317c02",
+      "bytes": 62783,
+      "capturado_em": "2026-10-27T21:18:47.245754-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/fe95499e61f11918ea791ee5e6e50ca54c15cfca121a6cdf7894e6448705f3fb.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7e858f679781d844f0c1ae3e14765b1156d0fedbb19411cda8b350dd91be0337",
+      "bytes": 65023,
+      "capturado_em": "2026-10-27T21:22:22.833295-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/5c2b128fe0ae36572b2477f0f0c4ba99ceae6425757ada1fe9bc33c531a2b678.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fb0163167105fd8e2dc17177c409cb9e10ff050d0253ab88fb705fca10843950",
+      "bytes": 62755,
+      "capturado_em": "2026-10-27T21:25:53.823544-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/af4cdbbb44a899d043fff2fd6cd2d8550004cfab934804f470445e56e91f2701.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b56aa7ddd041e96f0a626f0473969f9c17c0fdfa32676a51655a09a5bb4a399a",
+      "bytes": 62744,
+      "capturado_em": "2026-10-27T21:29:03.672047-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/8856bafda1e0c4e541a9ff9ff41d48dc21a07d05ca740c1228082189e8087704.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "735ffc4cff2ececb90b7b67d334bae99aa16fcc76b2c400816595d55e7a2dad8",
+      "bytes": 56652,
+      "capturado_em": "2026-10-27T21:32:04.826705-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/f4b383fa4fa21d210b131ce05036bb7dc797143827cf4796a5e2461f999c6f86.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d2bf33e6fff3edf703a88a7293ab56563acf3648055c72f5dc8c9fa5dd47212a",
+      "bytes": 59242,
+      "capturado_em": "2026-10-27T21:35:39.503934-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/39b0390b65fd080fb09776c052a36d28b7675025c0a4a42ed721259cd8a6c8b2.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "41cef3ff6b9708072dfed5b18ed36d9f91ec9a340e1971fb38b72192a3336558",
+      "bytes": 55823,
+      "capturado_em": "2026-10-27T21:38:29.473669-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/662dc94ad35d665a1e867c9130fa279e9f7dde38f96f73a5d3727c07f8830802.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0a5d9342201014e7d46444101db805908dd79163bacffa543c7af46893807131",
+      "bytes": 55243,
+      "capturado_em": "2026-10-27T21:41:48.987354-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/a9c775748573426b8ddf4159aae0549e0fd81a88dd613c6644c531e604a34b2d.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6ad2bc8d20a1717eb0e9d26e07277b251113f6c4f9d1781927e00e938f5280f3",
+      "bytes": 54114,
+      "capturado_em": "2026-10-27T21:45:39.805643-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/fa8cb53c46589cbdf1ba2d8e77edd0c8ec895f0d0744b04e4e8eb45c42eb04a1.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fdb929ae94e982ce27637f06a1404cc203e8ef2f28ab26887a21135dced76f9d",
+      "bytes": 54298,
+      "capturado_em": "2026-10-27T21:49:29.350332-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/e7691dde2fc43da4a7e1aaabf63aeab71e7d77bdbf7f3c326042af02e60202ce.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d0ed49ddf5d43d5e8bdf6f390ab26e11209f41fce1a4bc4373c7b0229d1bb825",
+      "bytes": 55236,
+      "capturado_em": "2026-10-27T21:53:16.623329-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/efd994355860657341e172f3f8410447cb6ea79ff0ca819a079fc9c25dd13174.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "587b47675c0a9899bfd50ba314b0ce48a296308bb157cd1ee43f86a61175b5dc",
+      "bytes": 55933,
+      "capturado_em": "2026-10-27T21:57:07.706187-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "bytes": 56710,
+      "capturado_em": "2026-10-27T22:01:00.165146-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "bytes": 54003,
+      "capturado_em": "2026-10-27T22:04:54.772090-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c253d9ae918322a5f81fc319efff60181ba098dbc5dce81cdab75cdca63147e1.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fa74e028d47bdbd4fc6b00e3afa1f22248bce569a7bb781dc1cb0bf760f2f68d",
+      "bytes": 53100,
+      "capturado_em": "2026-10-27T22:08:53.168837-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "bytes": 55079,
+      "capturado_em": "2026-10-27T22:12:50.873058-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/deb0a1c5ddc49f3e1f76de8c47d31dab304ac4e575be2830df2f7a72de064924.json",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "13c4a3bb8cbc955637b4f7a2c3c4ba882d08c3d76566d702c74b61a49048656b",
+      "bytes": 15094,
+      "capturado_em": "2026-10-27T22:16:30.305594-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

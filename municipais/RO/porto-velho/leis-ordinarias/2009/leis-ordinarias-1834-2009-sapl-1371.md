@@ -1,0 +1,85 @@
+---
+titulo: "Lei nº 1.834, de 27 de agosto de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1834"
+data: "2009-08-27"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2011-08-31; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1371"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2987/text"
+sha256_fonte: "e8f385064d1ae58a2dc704edd751def25514d12028f557ffe8cd245a91bb8f42"
+sha256_texto: "63a6fb936186e6c53d7c77b10693eef990899e9ff93b0966833e29f627b0a27f"
+capturado_em_fonte: "2026-10-27T21:20:33.215999-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.834, de 27 de agosto de 2009
+
+"Dispõe sobre o emplacamento de veículos automotores das Empresas que prestam serviços ao Município de Porto Velho”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, Vereador **JOSÉ HERMINIO COÊLHO**, no uso das atribuições que lhe confere o § 6º, do artigo 72 da Lei Orgânica do Município, combinado com o § 6º do art. 165 da Resolução nº 254/CMPV-91 – REGIMENTO INTERNO, PROMULGA a seguinte:
+
+**LEI:**
+
+
+Art. 1º.
+
+O emplacamento de veículos automotores das Empresas que prestam serviços ao Município de Porto Velho será efetuado mediante todo procedimento devido, como pagamento de taxa de licenciamento, do Imposto sobre a Propriedade de Veículos Automotores – IPVA , de taxas de vistorias e demais encargos, sempre dentro do Município de Porto Velho.
+
+
+§ 1º
+
+As empresas que vierem a contratar a prestação de serviço ao Município de Porto Velho terão obrigatoriamente os veículos automotores, seu emplacamento com origem no Município de Porto Velho.
+
+
+§ 2º
+
+As empresas já contratadas com prestação de serviço em execução deverão ser enquadradas em conformidade com esta Lei para o fiel cumprimento da mesma.
+
+
+§ 3º
+
+Os veículos que já prestam serviços ao Município e que tenham suas origens de financiamentos, poderão continuar prestando suas atividades até o final dos financiamentos, para que as transferências sejam efetuadas.
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.953, de 31 de agosto de 2011.
+
+
+Art. 2º.
+
+O Município adotará medidas punitivas, tais como: multa contratual e/ou cancelamento do serviço, com a consequente rescisão do contrato que deu origem a prestação do serviço, pelo descumprimento das determinações da presente Lei.
+
+
+§ 1º
+
+Após a conclusão do certame licitatório e, antes da firmatura do contrato de prestação de serviços ao Município de Porto Velho, a Empresa vencedora e presumível contratante, terá o prazo, de até 30 (trinta) dias, para a adequação do emplacamento de seus veículos, que vierem a ser utilizados na realização do serviço a ser contratado.
+
+
+§ 2º
+
+Uma vez trascorrido o prazo, estabelecido no parágrafo anterior, sem adoção das providências exigidas por esta Lei, por parte da empresa vencedora do certame, esta será desclassificada e convocada a empresa segunda classificada para a firmatura do contrato de prestação de serviços, sempre que, por esta segunda classificada, forem obedecidas as determinadas estabelecidas nesta Lei.
+
+
+§ 3º
+
+Uma vez comprovado o descumprimento, por parte do gestor público do Município de Porto Velho, dos termos desta Lei, este incorrerá em crime de responsabilidade, passível de punição no valor estabelecido como multa contratual, além das demais medidas administrativas cabíveis, até que seja sanada a irregularidade apurada.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 27 de agosto de 2009.
+
+**Vereador JOSÉ HERMINIO COÊLHO Presidente**
+
+Projeto de Lei nº. 2.525/2009  
+Ver. José Wildes de Brito
+

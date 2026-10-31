@@ -1,0 +1,45 @@
+AUTORIZA O PODER EXECUTIVO MUNICIPAL A DOAR BENS MÓVEIS E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Art. 1º.
+
+Autoriza o Chefe do Poder Executivo Municipal a doar à **"ASSOCIAÇÃO BENEFICENTE HOSPITALAR GUARUJÁ"**, do Município de Guarujá do Sul, Associação Privada, sem fins lucrativos e declarada de caráter beneficente com registro de inscrição junto ao Cadastro Nacional de Pessoa Jurídica sob o no 83.835.736/0001-07, fundada em 11 de maio do ano de 1961, com sede na Rua Presidente Kennedy, n° 270 nesta cidade de Guarujá do Sul, estado de Santa Catarina e foro na Comarca de São Jose do Cedro, estado de Santa Catarina; os seguintes bens moveis:
+
+<table><tbody><tr><td><p><strong>Quantidade</strong></p></td><td colspan="2"><p><strong>Especificação</strong></p></td><td><p><strong>Marca</strong></p></td><td><p><strong>Nº de Registro Cadastro de Patrimônio PM</strong></p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Autoclave pare esterilização de materiais e<br>utensílios em laboratórios e médicos em geral com<br>capacidade de 50It. E c/ câmara simples e c/<br>válvula de segurança controladora e manômetro c/<br>escalas p/ pressão e temperatura.</p></td><td><p>Pohenix</p></td><td><p>2571</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Carrinho para anestesia geral móvel em chapa de aço c/ tratamento e entrada de O² e N²O ar comprimido de engate rápido e traqueias autoclaveis. Câmara de borbulhamento transparente c/capacidade de 100ml e ventilador p/ anestesia c/ fole de 1.000 ml e controle de pressão máxima e volume corrente e manômetro de pressão endotraqueal c/escalas</p></td><td><p>Oxigel</p></td><td><p>2572</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Oxímetro de pulso de mesa c/ capacidade de medir continuamente a saturação periférica de oxigênio e a frequência cardíaca c/ sensores adulto, infantil e pediátrico.</p></td><td><p>Emai</p></td><td><p>2573</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Eletrocauterio cirúrgico c/ capacidade de corte 100w e coagulação 50w c/ cabos autoclaves c/ potência de saída adequada para cada especificação cirúrgica.</p></td><td><p> Emai</p></td><td><p>2574</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Desfibrador cardíaco c/ carga reajustável de 01 a 360j. ajustável de joule a joule c/ tempo de carga no máxima de 10 seg. c/ carga automática após cada aplicação.</p></td><td><p>Emai</p></td><td><p>2575</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Monitor cardíaco c/ apresentação de sinal ECG e c/ comando eletrônico das variações e frequências de 0,05 a 100 HZ (3db) e alarmes audiovisuais e reguláveis e alimentação 110/220 volts.</p></td><td><p>Emai</p></td><td><p>2576</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Aspirador para cavidades c/ rodízios e frascos coletor para 05 lt e bicos de sucção esterilizáveis e fluxo de 19 lt p/ minuto.</p></td><td><p>Microen</p></td><td><p>2577</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Geladeira hospitalar com painel de controle digital c/ temperatura de 4% c+/- 1cc/ degelo automático e c/cargas de gás livre cfc e câmara interna de aço inoxidável.</p></td><td><p>Biotecno</p></td><td><p>2578</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Mesa cirúrgica automática c/ comandos de pé e encosto anatômico c/ cabeceira articulada e braços e perneiras e calcanheiras e escamotáveis e prolongador de assento.</p></td><td><p>Olsen</p></td><td><p>2579</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Eletrocardiografo portátil de 01 canal c/ seleções de derivações e indicação de frequência cardíaca e seletor de velocidade p/25 ou 50 mm/s e entrada p/ sinal de monitor.</p></td><td><p>Ecafix</p></td><td><p>2880</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Foco de luz para cirurgia com 03 bulbos com capacidade de 33.000 lux e com rodízios </p></td><td><p>Inpromed</p></td><td><p>2561</p></td></tr><tr><td><p>02</p></td><td colspan="2"><p>Mesa auxiliar com rodízios e medindo 90*50m com pintura epóxi</p></td><td><p>Biotecno</p></td><td><p>2562/2563</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Laringoscópio infantil com 03 lâminas em metal cromado nº 01/02/03</p></td><td><p>Oxigel</p></td><td><p>2564</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Laringoscópio adulto com 03 lâminas em metal cromado nº 01/02/03</p></td><td><p>Oxigel</p></td><td><p>2565</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Reanimador manual adulto ambu de látex sem reservatório</p></td><td><p>Oxigel</p></td><td><p>2566</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Reanimador manual infantil ambu de látex sem reservatório</p></td><td><p>Oxigel</p></td><td><p>2567</p></td></tr><tr><td><p>01</p></td><td colspan="2"><p>Reanimador manual neonatal ambu de látex sem reservatório</p></td><td><p>Oxigel</p></td><td><p>2568</p></td></tr><tr><td rowspan="12"><p>02</p></td><td rowspan="12"><p>Kit-material, cada um composto de </p></td><td><p>01 cabo bisturi</p></td><td rowspan="12"><p>Erwingut</p></td><td rowspan="12"><p>2569/2570</p></td></tr><tr><td><p>02 pinças anatômicas com dentes (12 e 20cm)</p></td></tr><tr><td><p>02 pinças anatômicas com dentes (12 e 20cm)</p></td></tr><tr><td><p>02 tesouras (15 e 20cm)</p></td></tr><tr><td><p>02 tesouras retas (15 e 20cm)</p></td></tr><tr><td><p>06 pinças de 15cm</p></td></tr><tr><td><p>06 pinças 15cm</p></td></tr><tr><td><p>04 pinças 15cm</p></td></tr><tr><td><p>04 pinças (15e 20cm)</p></td></tr><tr><td><p>02 pinças anel (15 e 20cm)</p></td></tr><tr><td><p>01 pinça 20 cm</p></td></tr><tr><td><p>01 válvula </p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Autoriza também o Poder Executivo a dar baixa no Cadastro de Bens Móveis e na Contabilidade, dos valores contábeis correspondentes ao bem relacionado no artigo anterior, tão logo for assinado o Termo de Doação entre a Prefeitura e a Associação Beneficente Hospitalar Guarujá.
+
+
+Art. 3º.
+
+O Presidente da entidade deverá ficar responsável pela guarda e conservação dos bens mediante termo de compromisso.
+
+
+Parágrafo único
+
+Em Caso de liquidação ou encerramento das atividades da entidade ou destinação diversa, os bens reverterão ao patrimônio municipal.
+
+
+Art. 4º.
+
+Esta Lei entra vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL - SC  
+19 de Outubro de 2011 - 60º ano da Fudação e 49º ano da Instalação.
+
+Celso Natalino Taube
+
+Prefeito Municipal.
+
+\- Certifico que a presente Lei foi publicada e registrada nesta Secretaria em data supra.
+
+José Viro Waschburger
+
+Secretário de Administração e Fazenda.
+
+
+Este texto não substitui o original.

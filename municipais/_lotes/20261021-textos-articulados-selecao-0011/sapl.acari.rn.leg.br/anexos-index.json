@@ -1,0 +1,427 @@
+{
+  "estado": "indice_completo",
+  "total": 41,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/lei_municipal_n_1.128_anexos.pdf da norma Lei Ordinária-MUN nº 1.128, de 24 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2019/1/lei_municipal_n_1.128_anexos.pdf",
+      "ano": 2019,
+      "norma": 61
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/2/lei_municial_no._1.045_-_anexo_i.pdf da norma Lei Ordinária-MUN nº 1.045, de 30 de novembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2016/2/lei_municial_no._1.045_-_anexo_i.pdf",
+      "ano": 2016,
+      "norma": 160
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/3/lei_municipal_no_1.075_-_anexos.pdf da norma Lei Ordinária-MUN nº 1.075, de 19 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2017/3/lei_municipal_no_1.075_-_anexos.pdf",
+      "ano": 2017,
+      "norma": 174
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/4/lei_municipal_no_1.083__-_demonstrativo_viii__margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei Ordinária-MUN nº 1.083, de 29 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2017/4/lei_municipal_no_1.083__-_demonstrativo_viii__margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2017,
+      "norma": 182
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/5/lei_municipal_no_1.084_-_anexo.pdf da norma Lei Ordinária-MUN nº 1.084, de 29 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2017/5/lei_municipal_no_1.084_-_anexo.pdf",
+      "ano": 2017,
+      "norma": 183
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/6/lei_municipal_no._1020_-_anexo_i.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "DETALHAMENTO ANALÍTICO DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL PARA O EXERCÍCIO DE 2016",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/6/lei_municipal_no._1020_-_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/7/lei_municipal_no._1020_-_demonstrativo_i.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo I - metas anuais",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/7/lei_municipal_no._1020_-_demonstrativo_i.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/8/lei_municipal_no._1020_-_demonstrativo_ii_-_avaliacao_do_cumprimento_das_metas_do_exercicio_anterior.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO II – AVALIAÇÃO DO CUMPRIMENTO DAS METAS FISCAIS DO EXERCÍCIO ANTERIOR",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/8/lei_municipal_no._1020_-_demonstrativo_ii_-_avaliacao_do_cumprimento_das_metas_do_exercicio_anterior.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/9/lei_municipal_no._1020_-_demonstrativo_iii_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO III – METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/9/lei_municipal_no._1020_-_demonstrativo_iii_-_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/10/lei_municipal_no._1020_-_demonstrativo_iv__evolucao_do_patrimonio_liquido.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo IV – EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/10/lei_municipal_no._1020_-_demonstrativo_iv__evolucao_do_patrimonio_liquido.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/11/lei_municipal_no._1020_-_demonstrativo_v__origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO V – ORIGEM E APLICAÇÃO DOS RECURSOS OBTIDOS COM A ALIENAÇÃO DE ATIVOS",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/11/lei_municipal_no._1020_-_demonstrativo_v__origem_e_aplicacao_dos_recursos_obtidos_com_a_alienacao_de_ativos.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/12/lei_municipal_no._1020_-_demonstrativo_vi__avaliacao_da_situacao_financeira_e_atuarial_do_regime_proprio_de_previdencia_dos_servidores_publicos.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO VI – AVALIAÇÃO DA SITUAÇÃO FINANCEIRA E ATUARIAL DO REGIME PRÓPRIO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/12/lei_municipal_no._1020_-_demonstrativo_vi__avaliacao_da_situacao_financeira_e_atuarial_do_regime_proprio_de_previdencia_dos_servidores_publicos.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/13/lei_municipal_no._1020_-_demonstrativo_vii__estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO VII – ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/13/lei_municipal_no._1020_-_demonstrativo_vii__estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/14/lei_municipal_no._1020_-_demonstrativo_viii__margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf da norma Lei Ordinária-MUN nº 1.020, de 15 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO VIII – MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2015/14/lei_municipal_no._1020_-_demonstrativo_viii__margem_de_expansao_das_despesas_obrigatorias_de_carater_continuado.pdf",
+      "ano": 2015,
+      "norma": 198
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/15/lei_municipal_n._1008_-_anexo_i.pdf da norma Lei Ordinária-MUN nº 1.008, de 28 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2014/15/lei_municipal_n._1008_-_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 220
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/16/lei_municipal_n._1008_-_anexo_metas_fiscais.pdf da norma Lei Ordinária-MUN nº 1.008, de 28 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2014/16/lei_municipal_n._1008_-_anexo_metas_fiscais.pdf",
+      "ano": 2014,
+      "norma": 220
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/17/lei_municipal_no_1010_-_loa_2015_anexo.pdf da norma Lei Ordinária-MUN nº 1.010, de 23 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2014/17/lei_municipal_no_1010_-_loa_2015_anexo.pdf",
+      "ano": 2014,
+      "norma": 222
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/22/lei_1.231_anexo_i.pdf da norma Lei Ordinária-MUN nº 1.231, de 23 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Proposta Percentual de 10% (janeiro a junho de 2022)\r\n\r\nTABELAS DE VENCIMENTOS DO MAGISTÉRIO (em reais) - 30 horas",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2022/22/lei_1.231_anexo_i.pdf",
+      "ano": 2022,
+      "norma": 62
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/23/lei_1.231_anexo_ii.pdf da norma Lei Ordinária-MUN nº 1.231, de 23 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Proposta Percentual de 5% (julho a dezembro de 2022)\r\n\r\nTABELAS DE VENCIMENTOS DO MAGISTÉRIO (em reais) - 30 horas",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2022/23/lei_1.231_anexo_ii.pdf",
+      "ano": 2022,
+      "norma": 62
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/24/decreto_no_117_de_16_de_novembro_de_2023.pdf da norma Lei Complementar-MUN nº 10, de 26 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a regulamentação do art. 57º, da Lei Complementar Municipal nº 10, de 26 de março de 2021 com a instituição da Coordenadoria de Atendimento ao Usuário SUS do Município de Acari/RN, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2021/24/decreto_no_117_de_16_de_novembro_de_2023.pdf",
+      "ano": 2021,
+      "norma": 694
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/lei_municipal_no_1.120_-_anexo.pdf da norma Lei Ordinária-MUN nº 1.120, de 14 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Anexo - Mapa.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2019/25/lei_municipal_no_1.120_-_anexo.pdf",
+      "ano": 2019,
+      "norma": 43
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/27/acari_-_contrato_de_concessao_no_001-2004_caern.pdf da norma Lei Ordinária-MUN nº 795, de 29 de março de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Contrato de Concessão.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2004/27/acari_-_contrato_de_concessao_no_001-2004_caern.pdf",
+      "ano": 2004,
+      "norma": 511
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/28/anexo_i_-_pr_002-2022.pdf da norma Resolução-MD nº 1, de 19 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2022/28/anexo_i_-_pr_002-2022.pdf",
+      "ano": 2022,
+      "norma": 766
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/29/anexo_ii_-_resolucao_002-2022.pdf da norma Resolução-MD nº 1, de 19 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2022/29/anexo_ii_-_resolucao_002-2022.pdf",
+      "ano": 2022,
+      "norma": 766
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/30/anexo_iii_-_resolucao_no_002-2022.pdf da norma Resolução-MD nº 1, de 19 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Anexo III",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2022/30/anexo_iii_-_resolucao_no_002-2022.pdf",
+      "ano": 2022,
+      "norma": 766
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/31/anexo_lei_1364.pdf da norma Lei Ordinária-MUN nº 1.364, de 12 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/31/anexo_lei_1364.pdf",
+      "ano": 2025,
+      "norma": 941
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/32/decreto_de_regulamentacao.pdf da norma Lei Ordinária-MUN nº 1.365, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Regulamenta a Lei Municipal nº 1.319, de 22 de novembro de 2023, alterada pela Lei Municipal nº 1.365, de 18 de março de 2025, que dispõe sobre a instalação de infraestrutura de suporte para Estações Transmissoras de Radiocomunicação (ETR).",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/32/decreto_de_regulamentacao.pdf",
+      "ano": 2025,
+      "norma": 943
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/33/lei_municipal_no_1.150_de_21_de_novembro_de_2019_-_anexo_-_programas_projetos_e_acoes_de_acari.pdf da norma Lei Ordinária-MUN nº 1.150, de 21 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Saneamento Básico do Município de Acari/RN - Programas, Projetos e Ações.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2019/33/lei_municipal_no_1.150_de_21_de_novembro_de_2019_-_anexo_-_programas_projetos_e_acoes_de_acari.pdf",
+      "ano": 2019,
+      "norma": 233
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/34/lei_municipal_no_1.150_de_21_de_novembro_de_2019_-_anexo_-_prospectiva_e_planejamento_estrategico_-_acari_-_rev03.pdf da norma Lei Ordinária-MUN nº 1.150, de 21 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Saneamento Básico do Município de Acari/RN - PROSPECTIVA E PLANEJAMENTO ESTRATÉGICO.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2019/34/lei_municipal_no_1.150_de_21_de_novembro_de_2019_-_anexo_-_prospectiva_e_planejamento_estrategico_-_acari_-_rev03.pdf",
+      "ano": 2019,
+      "norma": 233
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/35/decreto_57.pdf da norma Lei Complementar-MUN nº 31, de 21 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Regulamenta a Lei Complementar nº 31, de 21 de agosto de 2025, que dispõe sobre a transação de créditos tributários e não tributários no âmbito da Fazenda Pública Municipal de Acari/RN, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/35/decreto_57.pdf",
+      "ano": 2025,
+      "norma": 1060
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/36/publicacao_da_resolucao_no_004-2025_-_dispoe_sobre_a_criacao_do_livro_de_tombo_para_registro_do_patrimonio_cultural_material_e_imaterial_do_municipio_de_acarirn.pdf da norma Resolução-GABPRES nº 4, de 16 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Resolução no Diário Oficial.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/36/publicacao_da_resolucao_no_004-2025_-_dispoe_sobre_a_criacao_do_livro_de_tombo_para_registro_do_patrimonio_cultural_material_e_imaterial_do_municipio_de_acarirn.pdf",
+      "ano": 2025,
+      "norma": 1131
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/37/decreto_regulamentacao_fogos.pdf da norma Lei Ordinária-MUN nº 1.358, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 162, DE 22 DE OUTUBRO DE 2025: Regulamenta a Lei Municipal nº 1.358, de 12 de dezembro de 2024, que veda o manuseio, a utilização, a queima e a soltura de fogos de estampidos e de artifícios, assim como de quaisquer artefatos pirotécnicos.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2024/37/decreto_regulamentacao_fogos.pdf",
+      "ano": 2024,
+      "norma": 919
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/anexo_da_lei_no_1.398_de_10_de_dezembro_de_2025.pdf da norma Lei Ordinária-MUN nº 1.398, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "PROTOCOLO DE INTENÇÕES \r\n\r\nCONSÓRCIO NACIONAL PARA GESTÃO CLIMÁTICA E PREVENÇÃO DE DESASTRES – CONCLIMA",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/38/anexo_da_lei_no_1.398_de_10_de_dezembro_de_2025.pdf",
+      "ano": 2025,
+      "norma": 1174
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/publicacao_da_portaria_no_005-2026_-_calculo_para_desconto_do_auxilio-alimentacao.pdf da norma Lei Ordinária-MUN nº 1.404, de 30 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Regulamenta a forma de cálculo proporcional do auxílio-alimentação e o desconto correspondente aos dias de percepção de diárias, nos termos da Lei Ordinária nº 1.404/2025.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/39/publicacao_da_portaria_no_005-2026_-_calculo_para_desconto_do_auxilio-alimentacao.pdf",
+      "ano": 2025,
+      "norma": 1183
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/40/decreto_178-2026.pdf da norma Lei Complementar-MUN nº 10, de 26 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Cria, no âmbito da Administração Direta do Município de Acari, a Secretaria Extraordinária de Compras Governamentais e Modernização Administrativa, define sua natureza, vinculação, finalidades, competências, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2021/40/decreto_178-2026.pdf",
+      "ano": 2021,
+      "norma": 694
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/lei_1406_anexo.pdf da norma Lei Ordinária-MUN nº 1.406, de 24 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I – Lei Municipal nº 1.406, de 24 de fevereiro de 2026.\r\n\r\nPercentual de 5,40 % (janeiro a dezembro de 2026)\r\n\r\nVENCIMENTOS DO MAGISTÉRIO (em reais) - 30 horas",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2026/41/lei_1406_anexo.pdf",
+      "ano": 2026,
+      "norma": 1194
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/42/decreto_no_179_de_19_de_marco_de_2026.pdf da norma Lei Ordinária-MUN nº 1.193, de 17 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre o recadastramento obrigatório e a regularização dos autorizatários do serviço de transporte individual de passageiros e cargas (mototáxi) no Município de Acari/RN, nos termos da Lei Municipal nº 1.193/2021, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2021/42/decreto_no_179_de_19_de_marco_de_2026.pdf",
+      "ano": 2021,
+      "norma": 710
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/43/decreto_no_180_de_19_de_marco_de_2026.pdf da norma Lei Ordinária-MUN nº 1.378, de 08 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Regulamenta a aplicação da atualização monetária prevista no art. 1º, §5º, da Lei Municipal nº 1.378, de 08 de julho de 2025, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/43/decreto_no_180_de_19_de_marco_de_2026.pdf",
+      "ano": 2025,
+      "norma": 1053
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/44/decreto_no_56_de_27_de_janeiro_de_2022.pdf da norma Lei Complementar-MUN nº 10, de 26 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a regulamentação do art. 9º, §§ 3º e 4º, da LC Municipal nº 10, de 26/03/2021 com a instituição das Secretarias Municipais Extraordinárias de Comunicação Social e Projetos Especiais do Município de Acari/RN, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2021/44/decreto_no_56_de_27_de_janeiro_de_2022.pdf",
+      "ano": 2021,
+      "norma": 694
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/45/decreto_no_190_de_26_de_junho_de_2026.pdf da norma Lei Complementar-MUN nº 10, de 26 de março de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a regulamentação do art. 9º, §§ 3ºe 4º, da Lei Complementar Municipal nº 10, de 26 de março de 2021 com a instituição da Secretaria Municipal Extraordinária de Projetos Especiais do Município de Acari/RN, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2021/45/decreto_no_190_de_26_de_junho_de_2026.pdf",
+      "ano": 2021,
+      "norma": 694
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/46/decreto_no_199_de_07_de_agosto_de_2026.pdf da norma Lei Complementar-MUN nº 34, de 23 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Regulamenta a Lei Complementar Municipal nº 34, de 23 de dezembro de 2025, que institui o Programa Municipal de Subsídio à Habitação de Interesse Social no Município de Acari/RN, disciplina a seleção e a titulação das unidades do Empreendimento.",
+      "anexo_arquivo": "http://sapl.acari.rn.leg.br/media/sapl/public/anexonormajuridica/2025/46/decreto_no_199_de_07_de_agosto_de_2026.pdf",
+      "ano": 2025,
+      "norma": 1182
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/5e3163d85adb7b4fe55accc7fb1f46134433c8b8df6541b12685b056a7524bc4.json",
+      "url": "https://sapl.acari.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1394e61f92ed65a6d45aa3a5fe64e1697579a8c1add71719dfc3e3d27c07fdcf",
+      "capturado_em": "2026-10-20T20:50:28.755147",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.acari.rn.leg.br/5e3163d85adb7b4fe55accc7fb1f46134433c8b8df6541b12685b056a7524bc4.json"
+    }
+  ]
+}

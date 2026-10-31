@@ -1,0 +1,62 @@
+{
+  "host": "sapl.arturnogueira.sp.leg.br",
+  "metadados_unicos_observados": 257,
+  "total_api_declarado": 257,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 195,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arturnogueira.sp.leg.br/63c9195105cd08b86cb1629ff1b984c1a3c6d1471433fb5d1461cb3798c1a233.json",
+    "url": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9389df3d6c43ea472834504a07fe02ca7311fb226100869d2f8c452cdb0653e7",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T16:59:30.410904-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arturnogueira.sp.leg.br/b5b412d24c9d1707a38b1769699ae59b2727865feb9ecbb82967d19f43a2b8e0.json",
+    "url": "https://sapl.arturnogueira.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.arturnogueira.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "260cf16275d994494fe1c68bda0460ae5669d3fd5ffd1d59d1910af93f765229",
+    "bytes": 883,
+    "capturado_em": "2026-10-27T16:59:29.565955-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arturnogueira.sp.leg.br/8ba405717c0cfcb0aadd444e42fd806d0e12475536f9f486d9c0c1287907cd97.json",
+      "url": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "465e60a49a8cd9e5e993ed243239a9609654b4b673e3c45227d6719fc0ad8a03",
+      "bytes": 61537,
+      "capturado_em": "2026-10-27T16:59:32.853698-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arturnogueira.sp.leg.br/6eda0bab3cbdd8a337cd93b1f62a0cd73bf00ed9261e650162e288ee9800f552.json",
+      "url": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fd923767fecaf45f4385ee895386830b73c041a3f73a24d174801b03a359f382",
+      "bytes": 62644,
+      "capturado_em": "2026-10-27T17:01:57.960628-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arturnogueira.sp.leg.br/09a467c68ebcb2ee0077f7d5bef94b6574b766d349db8f73d450facb9325f8a5.json",
+      "url": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.arturnogueira.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7b63023c5004f423431fb865cd92b7c2dfc0933591215675f92f7589b4cdaa8a",
+      "bytes": 35133,
+      "capturado_em": "2026-10-27T17:04:45.797032-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

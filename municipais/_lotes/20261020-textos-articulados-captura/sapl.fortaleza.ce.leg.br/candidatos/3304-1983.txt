@@ -1,0 +1,314 @@
+Disciplina a instalação e fiscalização de antenas transmissoras de rádio, televisão, telefonia celular, telecomunicações em geral e outras antenas de radiação eletromagnética no município de Fortaleza.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições, que lhe são conferidas pelo art. 30, inciso V e parágrafo único da Lei Orgânica do Município,  
+  
+Promulga:
+
+
+Art. 1º.
+
+A instalação de antenas de rádio, televisão, celular, telecomunicações em geral e outras antenas transmissoras de radiação eletromagnética no município de Fortaleza fica sujeita às condições estabelecidas nesta lei.
+
+
+§ 1º
+
+Estão compreendidas nas disposições desta lei as antenas transmissoras de radiação eletromagnética que operam na faixa de frequência de 9 kHz (nove quilohertz) a 300 gHz (trezentos gigahertz).
+
+
+§ 2º
+
+São excluídas do estabelecido no caput deste artigo as antenas transmissoras de radiação eletromagnética associadas a:
+
+
+I –
+
+radares civis e militares, destinados à defesa ou controle de tráfego aéreo;
+
+
+II –
+
+radioamador, faixa cidadão e similares;
+
+
+III –
+
+radiocomunicadores de uso exclusivo das polícias civil e militares, guarda municipal, corpo de bombeiros, defesa civil, controle de tráfego ambulância e serviços relacionados à proteção da segurança e saúde dos adminisrados;
+
+
+IV –
+
+radiocomunicadores instalados em veículos terrestres, aquáticos ou aéreos;
+
+
+Art. 2º.
+
+É vedada, sob qualquer pretexto, a instalação e/ou manutenção de antenas transmissoras de radiação eletromagnética em:
+
+
+I –
+
+bens públicos de uso comum do povo ou de uso especial;
+
+
+II –
+
+áreas de parques, praças e centros comunitários;
+
+
+III –
+
+áreas de preservação estabelecidas pela legislação de Uso e Ocupação do Solo;
+
+
+IV –
+
+locais com distância inferior a 30,00m (trinta metros) de prédios tombados ou em processo de tombamento pelos órgãos competentes;
+
+
+V –
+
+estabelecimentos de ensino formal, creches, clínicas médicas, hospitais, postos de saúde e similares ou a menos de 30,00m (trinta metros) destes;
+
+
+VI –
+
+terrenos nos quais existam construções habitacionais, sejam de uso individual ou múltiplo, nas coberturas destes, ou ainda, em terrenos vizinhos à imóveis nos quais existam unidades de uso residencial sem a concordância de todos os proprietários de imóveis confroniantes.
+
+
+§ 1º
+
+A distância referida nos incisos IV e V deste artigo será contada a partir do eixo da torre ou suporte de antena transmissora de radiação eletromagnética até a edificação ou área de acesso aos locais elencados nos mesmo incisos.
+
+
+§ 2º
+
+Ocorrendo à mudança de destinação de uso de imóvel situado no raio de 30,00m (trinta metros) do local onde as antenas se encontram em operação, a aplicação das restrições constantes deste artigo ficará sujeita à realização de Estudo de Impacto Ambiental, a cargo da empresa operadora da antena, e posterior aprovação do Conselho Municipal de Meio Ambiente (COMAM).
+
+
+§ 3º
+
+Na hipótese do § 2º deste artigo, não haverá óbice à manutenção da antena, desde que observado o limite máximo de radiação previsto no art. 3º desta lei.
+
+
+§ 4º
+
+Para a instalação em qualquer ponto da cidade, as antenas deverão obedecer a Lei de Uso e Ocupação do Solo, bem como as leis que regem o Estatuto da Cidade.
+
+
+§ 5º
+
+As antenas já instaladas, além de estarem enquadradas nos dispositivos desta lei, deverão passar por vistorias no Instituto de Metrologia e Quantidade (INMETRO), da Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM) e a concordância expressa da Agência Nacional de Telecomunicação (ANATEL). Sendo que a rejeição por parte de qualquer destes órgãos acarretará a imediata retirada do equipamento.
+
+
+Art. 3º.
+
+Toda instalação de antenas transmissoras deverá ser feita de modo que a densidade de potência total, considerada a soma da radiação preexistente na área pretendida com a da radiação adicional emitida pela nova antena, medida por equipamento que faça a integração da densidade de potência nas frequências da faixa a integração da faixa prevista por lei, não ultrapasse os limites especificados no Regulamento sobre Limitação da Exposição a Campos Elétricos, Magnéticos e Eletromagnéticos na faixa de radiofrequências entre 9 kHz (nove quilohertz) e 300 gHz (trezentos gigahertz) da ANATEL em vigor.
+
+
+§ 1º
+
+O atendimento aos limites de densidade de potência média total a que se refere o caput deste artigo poderá ser comprovado mediante a apresentação da Licença de Funcionamento de Estação emitida pela ANATEL, pelo menos a cada 12 (doze) meses.
+
+
+§ 2º
+
+O Município de Fortaleza, através da SEMAM ou de outro órgãos competente, poderá requisitar da empresa concessionária do serviço, ou de seu representante contratual, responsável pela manutenção e operação de seus equipamentos, que seja verificado o atendimento aos limites de densidade de potência média total a que se refere o caput deste artigo, através de Laudo Técnico Radiométrico, também referido como Relatório de conformidade de acordo com o estabelecido no art. 5º desta lei.
+
+
+Art. 4º.
+
+Cabe ao Município de Fortaleza, através da Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM), fiscalizar o cumprimento das disposições desta lei.
+
+
+§ 1º
+
+Em caso de descumprimento das condições estabelecidas no art. 3º desta lei, a empresa proprietária ou responsável pelo equipamento será notificada a no prazo de 60 (sessenta) dias, promover os ajustes necessários à manutenção do nível de densidade de potência máxima permitido nesta lei.
+
+
+§ 2º
+
+Quando o limite de potência total for ultrapassado e não for possível identificar sua fonte, em face da proximidade os equipamentos, a SEMAM notificará a empresa proprietária ou responsável pelos equipamento, para alternadamente desligarem os equipamentos enquanto são realizadas as medições, que deverão ser procedidas na hora de menor tráfego.
+
+
+§ 3º
+
+Identificada a fonte geradora do excesso de densidade de potência, a empresa terá 60 (sessenta) dias para adequar-se aos limites estabelecidos nesta lei, sob pena de pagamento de multa diária no valor de R$ 1.000,00 (um mil reais) destinada ao Fundo Municipal de Defesa do Meio Ambiente (FUNDEMA), sujeitando-se, ainda, à responsabilidade administrativa civil e penal por danos causados a terceiros ou ao meio ambiente.
+
+
+§ 4º
+
+Desde que por motivo justificado, devidamente comprovado, o notificado poderá solicitar a prorrogação do prazo estabelecido, no § 1º deste artigo por mais 30 (trinta) dias, para adeque a densidade de potência das antenas transmissoras de radiação eletromagnética ao limite estipulado nesta lei.
+
+
+Art. 5º.
+
+A verfiicação da densidade de potência máxima, a que se refere o art. 3º desta lei, deve ser feita por profissional habilitado e com a respectiva Anotação de Responsabilidade Técnica (ART), que emitirá o Relatório de Conformidade nos padrões de conformidade exigidos pela ANATEL.
+
+
+§ 1º
+
+O laudo deverá conter os valores nominais dos níveis de densidade de potência nos limites da área de instalação e circunvizinhas em 6 (seis) pontos de simulação com raios máximos de 30,00m (trinta metros) de distância, considerando os seguintes casos, ilustrados na figura 1, constante do Anexo Único desta lei, sendo:
+
+
+a)
+
+três (3) pontos de simulação a 1,70m (um metro e setenta centímetros) do nível do solo, correspondente à estatura média de uma pessoa, distantes respectivamente 10,00m (dez metros), 20,00m (vinte metros) e 30,00m (trinta metros) contados a partir do eixo da torre;
+
+
+b)
+
+três (3) pontos de simulação na direção do maior ganho da antena a 10,00m (dez metros), 20,00 (vinte metros) e 30,00m (trinta metros) contados a partir do ponto de emissão de irradiação e na mesma altura da antena.
+
+
+§ 2º
+
+O laudo radiómetrico será submetido à apreciação da SEMAM por ocasião do licenciamento ambiental e sempre que se fizer necessário.
+
+
+§ 3º
+
+As medições, quando necessárias, devem ser feitas através de equipamentos comprovadamente ajustados às especificações do fabricante e submetidos à verificação periódica do órgão competente, que meçam a densidade de potência por integração das faixas de frequência nas áreas de interesse.
+
+
+§ 4º
+
+O Município, através da SEMAM, acompanhará as medições, podendo indicar os locais de aferição.
+
+
+§ 5º
+
+Fica facultada à SEMAM, a qualquer momento, proceder às vistorias nos locais onde se encontram instaladas as antenas transmissoras, devendo notificar a operada com antecedência de 24 (vinte e quatro) horas, para liberação de acesso.
+
+
+§ 6º
+
+O Chefe do Poder Executivo regulamentará, por meio de decreto os limites relativos à instalação do número máximo de torres para fixação de antenas e equipamentos de telecomunicação permitidos por quilômetro quadrado no município de Fortaleza.
+
+
+Art. 6º.
+
+A concessão de Alvará de Construção e de Funcionamento, previstos na legislação municipal (Código de Obras e Posturas e Lei de Uso e Ocupação do Solo) das antenas, dependerá de prévio licenciamento ambiental pela Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM).
+
+
+§ 1º
+
+As empresas responsáveis pelas antenas já instaladas terão prazo de 365 (trezentos e sessenta e cinco) dias para ajustarem seus equipamentos aos níveis estabelecidos nesta lei, obrigando-se ainda a apresentar o respectivo laudo radiométrico e a obter o licenciamento ambiental.
+
+
+§ 2º
+
+Para efeito de licenciamento ambiental, a instalação de antenas transmissoras de rádio, televisão, telefonia celular, telecomunicações em geral e outras antenas de radiação eletromagnéticas no município de Fortaleza aplica-se no que couber, as disposições contidas na Lei nº 8.230 de 29 de dezembro de 1998, e suas alterações.
+
+
+Art. 7º.
+
+O ponto de emissão de radiação da antena transmissora da radiação eletromagnética deverá estar, no mínimo, a 25,00m (vinte e cinco metros) de distância dos imóveis confinantes, contados a partir da divisa do imóvel em que estiver instalada,conforme indicado na figura 1, constante do Anexo Único desta lei.
+
+
+§ 1º
+
+Os imóveis construídos após a instalação da antena, que estejam total ou parcialmente situados na área delimitada no caput deste artigo, serão objeto de medição radiométrica, se solicitado pela SEMAM.
+
+
+§ 2º
+
+Na hipótese do § 1º deste artigo, não haverá óbice à manutenção da antena, desde que observado o limite máximo de radiação previsto no art. 3º desta lei.
+
+
+Art. 8º.
+
+A base da torre de sustentação da antena transmissora de radiação eletromagnética deverá ser fixada, observando-se, no mínimo, os seguinte recuos:
+
+
+I –
+
+antenas de tv e rádio: 5,00m (cinco metros) de distância das divisas laterais e de fundo e a 7,00m (sete metros) da divisão frontal do terreno em que estiver instalada;
+
+
+II –
+
+antenas de telefonia móvel: 3,00m (três metros) de distância das divisas laterais e de fundo e a 7,00m (sete metros) da divisão frontal do terreno em que estiver instalada.
+
+
+Art. 9º.
+
+A instalação de antenas transmissoras de radiação eletromagnética, em edificações verticalizadas, deverá atender, cumulativamente, aos seguinte requisitos:
+
+
+I –
+
+o prédio deverá possuir gabarito mínimo de 10,00m (dez metros);
+
+
+II –
+
+o gabarito máximo definido na Lei de Uso e Ocupação do Solo, incluindo-se a antena, deverá ser sempre observado;
+
+
+III –
+
+os recuos das antenas instaladas em edificações existentes deverão observar o disposto no art. 8º desta lei;
+
+
+IV –
+
+em se tratando de condomínio, deverá ser apresentada a ata de reunião de condomínios em que foi autorizada a sua instalação;
+
+
+V –
+
+controle de acesso ao local de instalação.
+
+
+Art. 10.
+
+Nenhuma antena transmissora de radiação eletromagnética poderá entrar em operação, sem prévia autorização da SEMAM.
+
+
+Art. 11.
+
+Em caso de descumprimento de qualquer dos dispositivos desta lei, sujeitar-se o infrator, sem prejuízo das sanções previstas na legislação federal, às seguinte penas:
+
+
+I –
+
+multa no valor de 1 (um) a 5 (cinco) vezes o valor da taxa da licença ambiental;
+
+
+II –
+
+suspensão da operação por 90 (noventa) dias, em caso de reincidência;
+
+
+III –
+
+interdição da atividade, na hipótese de descumprimento dos prazos e limites estipulados nos arts. 3º e 4º desta lei.
+
+
+Parágrafo único
+
+Esgotados os prazos estabelecidos por este diploma ou julgado improcedente o recurso interposto, a SEMAM, observada a legislação federal, poderá lacrar ou selar os equipamentos transmissores de radiação eletromagnética, até que seja cumprido o limite estabelecido nesta lei.
+
+
+Art. 12.
+
+Das decisões proferidas com base nesta lei caberá recurso ao Secretário da Secretaria Municipal de Meio Ambiente e Controle Urbano (SEMAM), no prazo de 5 (cinco) dias úteis, contados do recebimento da notificação ou da lavratura do auto de infração, de suspensão ou de interdição da atividade.
+
+
+Art. 13.
+
+Esta lei deve ser regulamentada no prazo de 60 (sessenta) dias contados de sua publicação.
+
+
+Art. 14.
+
+Fica expressamente revogada a Lei Municipal nº 8.551 de 05 de julho de 2001.
+
+
+Art. 15.
+
+Esta lei entra em vigor na data de sua publicação oficial, revogadas as disposições em contrário.
+
+
+**PAÇO DA CÂMARA MUNICIPAL DE FORTALEZA, JOSÉ BARROS DE ALENCAR, em 22 de dezembro de 2004. CARLOS ALBERTO MESQUITA PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA.**

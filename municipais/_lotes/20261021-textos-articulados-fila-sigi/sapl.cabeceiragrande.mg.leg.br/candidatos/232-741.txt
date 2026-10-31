@@ -1,0 +1,598 @@
+INSTITUI O DIÁRIO OFICIAL ELETRÔNICO DO MUNICÍPIO DE CABECEIRA GRANDE-MG PARA FINS DE PUBLICAÇÃO DE ATOS DO GOVERNO MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE, Estado de Minas Gerais,** no uso das atribuições que lhe confere o Art. 76, X, da Lei Orgânica do Município e tendo em vista o que dispõe o Caput do Art. 37 da Constituição Federal de 1988, os incisos I e IV do Art. 4° da Lei Federal n.° 10.520/02, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado o Diário Oficial Eletrônico, sem autonomia administrativa e financeira, onde o Poder Executivo e Legislativo divulgará os avisos e editais de licitação no âmbito da Lei Federal n.° 10.520/02 e da Lei Federal n.º 8.666/93 e alterações posteriores e também as leis, decretos, portarias, planos, programas, campanhas, serviços, obras, relatórios resumidos da execução orçamentária, relatórios de gestão fiscal, versões simplificadas desses instrumentos, contas públicas e outros atos administrativos que se sujeitam ao princípio constitucional da publicidade.
+
+
+Art. 2º.
+
+O site do Diário Oficial eletrônico para fins de publicação dos avisos e atos de licitação no âmbito da Lei Federal n.° 8.666/93 é o sítio do Diário Oficial dos municípios de Minas Gerais: (WWW.diariomunicipal.com.br/amm-mg).
+
+
+Art. 3º.
+
+O funcionamento do Diário Oficial Eletrônico do Poder Executivo será da seguinte forma:
+
+
+I –
+
+As publicações dos atos oficiais são de responsabilidade do gestor dos órgãos públicos municipais;
+
+
+II –
+
+As edições serão diagramadas e editoradas com recursos de informática, controladas por numeração seqüenciada a partir do número 01 (zero um), cada edição terá o mínimo de uma página ou número ilimitado de páginas e a numeração das páginas das edições do Diário Oficial Eletrônico será a partir do número 01 (zero um);
+
+
+III –
+
+O calendário das edições é o mesmo do funcionamento oficial da Prefeitura e a critério da Administração Municipal, da urgência e do interesse público, poderão ser feitas edições extras.
+
+
+IV –
+
+Todas as edições serão publicadas na internet no site http://www.diariomunicipal.com.br/amm-mg/ assinado digitalmente por autoridade certificadora credenciada no âmbito da Infra-estrutura de Chaves Pública Brasileira – ICP Brasil;
+
+
+V –
+
+Todas as pessoas físicas e jurídicas com acesso à Internet poderão acessar as publicações feitas no Diário Oficial Eletrônico do Poder Executivo Municipal sem nenhum custo.
+
+
+VI –
+
+As impressões das edições, se necessário, serão feitas por cada órgão, a partir da publicação eletrônica na internet, em impressora comum ou por qualquer outro meio de impressão ou reprodução.
+
+
+Art. 4º.
+
+São publicados no diário oficial eletrônico:
+
+
+I –
+
+Avisos, editais e outros atos de licitação na modalidade pregão que com base na Lei n° 10.520/02 podem ser publicados no Diário Oficial do respectivo ente federado.
+
+
+a)
+
+Aviso de convocação dos interessados;
+
+
+b)
+
+Edital do pregão;
+
+
+c)
+
+Aviso de modificação do edital do pregão;
+
+
+d)
+
+Aviso da impugnação do edital;
+
+
+e)
+
+Aviso do julgamento e classificação de propostas;
+
+
+f)
+
+Aviso de julgamento e habilitação de licitantes
+
+
+g)
+
+Aviso da adjudicação;
+
+
+h)
+
+Aviso do recurso;
+
+
+i)
+
+Aviso da homologação;
+
+
+j)
+
+Aviso do extrato de contrato;
+
+
+l)
+
+Aviso da anulação;
+
+
+m)
+
+Aviso da revogação;
+
+
+n)
+
+Aviso do cancelamento;
+
+
+o)
+
+Aviso do parecer e deliberações do pregoeiro;
+
+
+p)
+
+Aviso da nomeação do pregoeiro e da sua equipe de apoio;
+
+
+q)
+
+Outros tipos de avisos de licitação.
+
+
+II –
+
+Avisos e outros atos de licitação que com base na Lei Federal n.° 8.666/93 podem ser publicados no Diário Oficial do respectivo ente federado.
+
+
+a)
+
+Relação de todas as compras feitas pela administração direta ou indireta, de maneira a clarificar a identificação do bem comprado, seu preço unitário, a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação;
+
+
+b)
+
+Aviso de abertura de concorrência, tomada de preço, concurso e leilão;
+
+
+c)
+
+Aviso de modificação de edital de concorrência, tomada de preço, concurso e leilão;
+
+
+d)
+
+Aviso da Dispensa;
+
+
+e)
+
+Aviso da Inexigibilidade;
+
+
+f)
+
+Aviso do Registro de preço;
+
+
+g)
+
+Aviso da Impugnação de edital /convite;
+
+
+h)
+
+Aviso de Julgamento de Habilitação de licitantes;
+
+
+i)
+
+Aviso do Julgamento e classificação de propostas;
+
+
+j)
+
+Aviso da Adjudicação;
+
+
+l)
+
+Aviso da Homologação;
+
+
+m)
+
+Aviso do Recurso;
+
+
+n)
+
+Aviso do Contrato;
+
+
+o)
+
+Aviso da Anulação;
+
+
+p)
+
+Aviso da Revogação;
+
+
+q)
+
+Aviso do Parecer e deliberações da comissão julgadora;
+
+
+r)
+
+Aviso do Termo Aditivo;
+
+
+s)
+
+Aviso da Rescisão de contrato;
+
+
+t)
+
+Aviso do Adiamento de licitação;
+
+
+u)
+
+Aviso da Convocação para sorteio;
+
+
+v)
+
+Aviso da Constituição de comissão de licitação;
+
+
+x)
+
+Aviso da Notificação de penalidades a licitantes;
+
+
+z)
+
+Aviso da Cessão de uso;
+
+
+k)
+
+Aviso da Permissão de uso;
+
+
+w)
+
+Portaria de nomeação de compradores e comissões de licitações;
+
+
+y)
+
+Outros tipos de avisos de licitação.
+
+
+III –
+
+Contas Públicas podem ser publicadas somente no site do Diário Oficial do respectivo ente federado.
+
+
+a)
+
+Tributos arrecadados;
+
+
+b)
+
+Orçamentos anuais;
+
+
+c)
+
+Execução dos orçamentos;
+
+
+d)
+
+Balanço orçamentário;
+
+
+e)
+
+Demonstrativo de receitas e despesas;
+
+
+f)
+
+Contratos e seus aditivos;
+
+
+g)
+
+Compras.
+
+
+IV –
+
+Instrumentos de Transparência da Gestão Fiscal
+
+
+a)
+
+Planos;
+
+
+b)
+
+Orçamentos;
+
+
+c)
+
+Leis de diretrizes orçamentárias;
+
+
+d)
+
+Prestação de contas;
+
+
+e)
+
+Parecer prévio;
+
+
+f)
+
+Relatórios resumidos da execução orçamentária - RREO;
+
+
+g)
+
+Relatórios de gestão fiscal - RGF;
+
+
+h)
+
+Versões simplificadas desses documentos.
+
+
+V –
+
+Atos Normativos
+
+
+a)
+
+Leis;
+
+
+b)
+
+Decretos;
+
+
+c)
+
+Portarias;
+
+
+d)
+
+Resoluções;
+
+
+e)
+
+Circulares;
+
+
+f)
+
+Despachos;
+
+
+g)
+
+Outros atos normativos.
+
+
+VI –
+
+Outros atos normativos.
+
+
+a)
+
+A programação financeira;
+
+
+b)
+
+O cronograma de execução orçamentária;
+
+
+c)
+
+O quadro de cotas trimestrais da despesa;
+
+
+d)
+
+Prestação de contas;
+
+
+e)
+
+Créditos adicionais;
+
+
+f)
+
+Outros atos financeiros.
+
+
+VII –
+
+Atos de Pessoal
+
+
+a)
+
+Lei do estatuto dos servidores municipais e do regime jurídico único;
+
+
+b)
+
+Lei que estabelece os casos de contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público;
+
+
+c)
+
+Outras disposições legais instituídas pelo município;
+
+
+d)
+
+Ato que criou os cargos ou empregos e sua vacância no quadro de pessoal;
+
+
+e)
+
+Edital de concurso público;
+
+
+f)
+
+Homologação das inscrições;
+
+
+g)
+
+Resultado dos aprovados e sua classificação;
+
+
+g)
+
+Homologação do concurso após julgamento do último recurso;
+
+
+h)
+
+Outros atos de concurso;
+
+
+i)
+
+Edital dirigido aos aprovados em concurso público convocando para passe;
+
+
+j)
+
+Nomeação de servidor efetivo, celetista, temporário ou comissionado;
+
+
+l)
+
+Promoção;
+
+
+m)
+
+Transferência;
+
+
+n)
+
+Reintegração;
+
+
+o)
+
+Aproveitamento;
+
+
+p)
+
+Reversão;
+
+
+q)
+
+Readaptação;
+
+
+r)
+
+Recondução;
+
+
+s)
+
+Exoneração;
+
+
+t)
+
+Demissão;
+
+
+u)
+
+Aposentadoria;
+
+
+v)
+
+Falecimento;
+
+
+x)
+
+Outros atos de pessoal;
+
+
+z)
+
+Ato de nomeação da comissão de sindicância.
+
+
+VIII –
+
+Ato de nomeação da comissão de sindicância.
+
+
+a)
+
+Atas e deliberações dos conselhos municipais;
+
+
+b)
+
+Alvarás e demais atos administrativos;
+
+
+c)
+
+Outros atos administrativos.
+
+
+Art. 5º.
+
+As publicações realizadas no site do Diário Oficial Eletrônico serão também publicadas no quadro de avisos e editais situado no saguão dos respectivos órgãos, para conhecimento dos cidadãos que não tiverem acesso ao uso da tecnologia da informação.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revoga as disposições em contrário e integrará a primeira edição do Diário Oficial Eletrônico do Poder Executivo Municipal.
+
+
+**Cabeceira Grande-MG, 15 de Junho de 2009.**
+
+**Antônio Nazaré Santana Melo**
+
+**Prefeito Municipal**
+
+**"Este texto não substitui o original"**

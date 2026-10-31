@@ -1,0 +1,72 @@
+{
+  "host": "sapl.cacoal.ro.leg.br",
+  "metadados_unicos_observados": 313,
+  "total_api_declarado": 313,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 258,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacoal.ro.leg.br/4b08cf01a724a541153e9045e474d41d2c71873b286f97243cf1d45dc59cac03.json",
+    "url": "https://sapl.cacoal.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cacoal.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "12b6088dfeb2d04e5301cdf0378f70f6df9d110bde08e2356101bba61c15cead",
+    "bytes": 999,
+    "capturado_em": "2026-10-27T21:04:20.619261-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacoal.ro.leg.br/b6cc52b94459a90ca8ec4cf3a4a4c592c672c0b80ca1b316a51fa7d7192fc803.json",
+    "url": "https://sapl.cacoal.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cacoal.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6b57bbc601cd277a635da1fb62d75ae1423d52039423f842abfec44d1b726708",
+    "bytes": 740,
+    "capturado_em": "2026-10-27T21:04:19.820938-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacoal.ro.leg.br/cb532b4966abebf104033223de15f197f75cd1546e2c51368f293098b7e34500.json",
+      "url": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "aa65c4967e0e7693a594c1dc2d8af17541826efb57c575a0f4d98c56982ee16c",
+      "bytes": 67957,
+      "capturado_em": "2026-10-27T21:04:21.857321-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacoal.ro.leg.br/2588e5e21ed3b15e570770c5abdf11637082169de07c5abe80c619cf05d95112.json",
+      "url": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "589c63c6c8f6cc27bdf3d4354c0468e4cc5b56036cd8071a8147f3b360ab985e",
+      "bytes": 64365,
+      "capturado_em": "2026-10-27T21:07:03.551970-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacoal.ro.leg.br/32655936023ed0e9dbf3843ef5171fa100e341237712999736bac195653933f3.json",
+      "url": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a8cfe981d2bac3df159ce91c5f8023fac1db25729af9549dcbfc01a6e96c2c5e",
+      "bytes": 62073,
+      "capturado_em": "2026-10-27T21:10:45.072298-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacoal.ro.leg.br/ea55517f8f48f57bf12a2f22df7d69ff646d95b032bc7ddc5a1fa319ad7bf199.json",
+      "url": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.cacoal.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9c8e3006251bb412ff02a9f66f88286e76243aeb276476b182159e3223914eb1",
+      "bytes": 7250,
+      "capturado_em": "2026-10-27T21:14:41.997798-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

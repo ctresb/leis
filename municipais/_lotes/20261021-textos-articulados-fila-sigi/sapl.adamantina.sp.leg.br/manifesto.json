@@ -1,0 +1,42 @@
+{
+  "host": "sapl.adamantina.sp.leg.br",
+  "metadados_unicos_observados": 13,
+  "total_api_declarado": 13,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.adamantina.sp.leg.br/030f841cef9b9c2cfd932be695549a3d94fbab6bbbf3f6fb286009e5dc96a08c.json",
+    "url": "https://sapl.adamantina.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.adamantina.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3579dbf0b69431cb392f5b5c2567631fed40c8cd30b087cb5d5a72a2bab51de0",
+    "bytes": 1229,
+    "capturado_em": "2026-10-21T04:59:21.688766-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.adamantina.sp.leg.br/458d3aba36f247db9ab096756d9728aa87201c6ad0ba22a140fa788f03da49e8.json",
+    "url": "https://sapl.adamantina.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.adamantina.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b67e0372249ef763ad1c315dd0c41210794b09d193300e040923f2d39e50555a",
+    "bytes": 774,
+    "capturado_em": "2026-10-21T04:59:20.459127-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.adamantina.sp.leg.br/409c322a0bce80564364f877ed46bebb80672ddfe213b6b6762bda945056d01f.json",
+      "url": "https://sapl.adamantina.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.adamantina.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d917d236e5800db3b7f44d66bc990dcc61be484648293832c7b0369a67502f11",
+      "bytes": 8122,
+      "capturado_em": "2026-10-21T04:59:22.935240-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,2102 @@
+---
+titulo: "Lei Ordinária nº 2.202, de 20 de março de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2202"
+data: "2011-03-20"
+municipio: "Bom Despacho"
+uf: "MG"
+codigo_ibge: "3107406"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2021-06-09; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bomdespacho.mg.leg.br/norma/390"
+fonte_texto: "https://sapl.bomdespacho.mg.leg.br/ta/16/text"
+sha256_fonte: "eab6fddc68981d23a8897e34eb81724ecfeb091eb23dfc42393aed5c012b4d5d"
+sha256_texto: "3bf7990ab25284fb1abc3f459cc5ec3d8027c0771e09f4f1f0f62ee07bff7c79"
+capturado_em_fonte: "2026-10-27T19:30:12.223805-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.202, de 20 de março de 2011
+
+"DISPOE SOBRE A POLÍTICA MUNICIPAL DE DESENVOLVIMENTO ECONÓMICO E DÁ OUTRAS PROVIDÊNCIAS"
+
+
+O povo de Bom Despacho, por seus representantes legais aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+### TÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+CAPÍTULO ÚNICO
+
+DAS DISPOSIÇOES GERAIS
+
+
+Art. 1º.
+
+Esta lei dispõe sobre a política de desenvolvimento municipal, em todas as áreas de interesse econômico, sejam agrícola, pecuária, comercial, industrial, de atividades de prestação de serviços e quaisquer outras, estabelecendo normas gerais para a adequada aplicação de incentivos à implantação, instalação e manutenção de tais atividades no município.
+
+
+Art. 2º.
+
+A política de desenvolvimento do município de Bom Despacho, compreende, dentre outras, as seguintes diretrizes:
+
+
+I –
+
+políticas sociais básicas, que assegurem a concessão de empregos às pessoas residentes no Município de Bom Despacho;
+
+
+II –
+
+políticas básicas de incremento da receita municipal, que assegurem a implantação, funcionamento e/ou manutenção de empresas no município, gerando incidência de encargos tributários, fiscais e sociais;
+
+
+III –
+
+políticas básicas de subvenções econômicas, que assegurem o auxílio municipal para implantação, funcionamento e manutenção de empresas no município;
+
+
+IV –
+
+políticas básicas de utilização de matérias primas locais, explorando o potencial produtivo da região;
+
+
+V –
+
+serviços especiais nos termos da lei.
+
+
+Parágrafo único
+
+O Município destruirá recursos e espaços públicos para desenvolvimento das atividades econômicas, sejam agrícolas, pecuárias, industriais, comerciais, de prestação de serviço ou quaisquer outras.
+
+
+Art. 3º.
+
+O Município .poderá criar os programas e serviços a que aludem os incisos III e IV do art. 2º, ou estabelecer consórcio intermunicipal para desenvolvimento regionalizado, instituindo e mantendo entidades governamentais de assistência, mediante prévia consulta ao Conselho Municipal de Desenvolvimento Econômico de Bom Despacho.
+
+
+### TÍTULO II — DOS ORGANISMOS DE ATENDIMENTO
+
+
+#### CAPÍTULO I — DOS ORGÃOS DE ATENDIMENTO
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+#### CAPÍTULO II — DO CONSELHO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO DE BOM DESPACHO
+
+
+##### Seção I — DA CRIAÇÃO E NATUREZA DO COMDEC-BD
+
+
+Art. 5º.
+
+Fica criado o Conselho Municipal de Desenvolvimento Econômico de Bom Despacho — COMDEC-BD, Orgão deliberativo e controlador da política de desenvolvimento municipal, vinculado à Secretaria Municipal de Meio Ambiente, Planejamento e Desenvolvimento.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+##### Seção II — DAS ATRIBUIÇÕES DO COMDEC-BD
+
+
+Art. 6º.
+
+São competências do Conselho Municipal de Desenvolvimento Econômico de Bom Despacho:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+opinar na formulação da política municipal de desenvolvimento econômico da cidade e nas políticas sociais básicas de interesse dos munícipes;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+acompanhar e monitorar a atuação do Executivo Municipal no que se refere às políticas públicas de desenvolvimento econômico e à aplicação dos recursos públicos consignados no orçamento municipal para essa finalidade;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+III –
+
+criar em conjunto ao Poder Executivo o Plano Municipal de Desenvolvimento Econômico;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IV –
+
+mobilizar e articular entre a sociedade civil organizada, incluindo as instituições de ensino, os poderes públicos constituídos e o setor produtivo;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+V –
+
+opinar sobre a programação físico-financeira anual, em nível municipal, dos programas que integram o Plano Municipal de Desenvolvimento Econômico, acompanhando seu desempenho;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VI –
+
+propor ações, programas e projetos para serem inseridos no Plano Municipal de Desenvolvimento Econômico, no Plano Plurianual (PPA), na Lei de Diretrizes Orçamentárias (LDO) e na Lei Orçamentária Anual (LOA) do Município;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VII –
+
+estimular e articular a implementação de programas voltados ao fortalecimento da cultura empreendedora no município, bem como à implantação da educação empreendedora nas escolas do município;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VIII –
+
+estimular a melhoria do ambiente de negócios no município, com uma atenção especial às questões relacionadas à desburocratização e simplificação;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IX –
+
+fortalecer a atuação do Agente de Desenvolvimento e da Sala Mineira do Empreendedor;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+X –
+
+compatibilizar as políticas públicas municipal, regional, estadual e federal voltadas para o desenvolvimento econômico e para a conquista e consolidação da plena cidadania no Município;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XI –
+
+estimular a implantação e reestruturação de organizações representativas de segmentos empresariais, tanto no meio urbano quanto rural;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XII –
+
+articular com os municípios vizinhos na elaboração, qualificação e implementação dos Planos Regionais de Desenvolvimento Econômico;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XIII –
+
+integrar as políticas públicas de Desenvolvimento Econômico com as demais políticas públicas de Bom Despacho, principalmente com as políticas públicas de meio ambiente, desenvolvimento social e educação;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XIV –
+
+promover e realizar fóruns, seminários, encontros técnicos e conferências municipais ou regionais de desenvolvimento econômico ;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XV –
+
+identificar e divulgar as potencialidades econômicas de Bom Despacho, bem como desenvolver, em parceria com os poderes constituídos, diretrizes para a atração de investimentos;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XVI –
+
+incentivar ações que fomenta a pesquisa, a inovação e o desenvolvimento tecnológico capazes de potencializar e destacar a economia de Bom Despacho;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XVII –
+
+analisar e deliberar pedidos de doação ou concessão de uso de áreas públicas, a serem destinadas a atividades industriais, comerciais e de prestação de serviços, bem como outros incentivos e benefícios a serem criados como estratégias para o fortalecimento da economia local;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XVIII –
+
+priorização iniciativas que gerem trabalho, emprego e renda, promovendo a justiça social e o meio ambiente e construindo parcerias no âmbito municipal e regional.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XIX –
+
+elaborar o regimento interno do COMDEC-BD;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XX –
+
+decidir em conjunto a Secretaria Municipal de Desenvolvimento Econômico e Agricultura sobre a aplicação dos recursos provenientes do Fundo Municipal de Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XXI –
+
+fiscalizar projetos e a devida aplicação dos recursos do Fundo Municipal de Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XXII –
+
+deliberar critérios de utilização de planos de aplicações de doações subsidiadas e percentual destinado ao incetivo da colocação de mão de obra ociosa em atividades que gerem desenvolvimento econômico.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XXIII –
+
+deliberar em conjunto a Secretaria Municipal de Desenvolvimento Econômico e Agricultura sobre a contratação de agentes financeiros, elaboração de termo de cooperação, elaboração de convênios todos afetos às receitas do Fundo Municipal de Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XXIV –
+
+sugerir sobre a criação de empresas públicas, sociedade de economia mista, autarquias e entidades governamentais ou realização de consórcio intermunicipal;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XXV –
+
+estabelecer em conjunto a Secretaria Municipal de Desenvolvimento Econômico e Agricultura prioridades de aplicação dos recursos do Fundo Municipal de Desenvolvimento Econômico de Bom Despacho;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XXVI –
+
+estabelecer, sob a forma de deliberações, procedimentos e condições operacionais do COMDEC-BD.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Parágrafo único
+
+Poderá o Conselho Municipal de Desenvolvimento Econômico de Bom Despacho, através de decisão pela maioria absoluta de seus membros, delegar quaisquer das atribuições mencionadas, contratar agente financeiro e estabelecer taxa de administração aos agentes financeiros.
+
+
+##### Seção III — DA COMPOSIÇÃO DO COMDEC-BD
+
+
+Art. 7º.
+
+O COMDEC-BD terá a seguinte composição:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+I –
+
+Presidência;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+Plenário;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+III –
+
+Câmaras Temáticas:
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+a)
+
+Câmara Industrial, Comercial e de Prestação de Serviços;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+b)
+
+Câmara Residual.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 1º
+
+Os membros indicados ao Conselho exercerão mandato de 2 (dois) anos, admitindo-se a recondução apenas por uma vez e por igual período.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+a)
+
+Câmara Industrial e Comercial;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+b)
+
+Câmara Tecnológica e de Prestação de Serviços;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+c)
+
+Câmara do Agronegócio e Residual.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 2º
+
+A função de membro do Conselho é considerada de interesse público relevante e não será remunerada.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+Art. 8º.
+
+A Presidência será exercida diretamente por membro indicado pelo Prefeito.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 1º
+
+Compete ao Presidente:
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+presidir as sessões do Plenário e das Câmaras Temáticas;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+designar os membros das Câmaras Temáticas, mediante publicação no Diário Oficial do Município;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+III –
+
+assinar e publicar as deliberações do Plenário;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IV –
+
+avocar, para discussão e deliberação em Plenário, matéria ou qualquer outra questão de competência das Câmaras Temáticas;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+V –
+
+delegar competências do Plenário às Câmaras Temáticas, desde de aprovada por maioria absoluta dos membros;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VI –
+
+exercer outras atividades correlatas.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 2º
+
+Nas sessões plenárias estando ausente o Presidente, ou mesmo precisando se ausentar durante as sessões, será substituído por membro indicado pelo Presidente.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Art. 9º.
+
+O Plenário é o órgão superior de deliberação do COMDEC-BD quanto às diretrizes gerais da política de desenvolvimento econômico do Município de Bom Despacho que tem as seguintes competências:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+opinar na formulação da política municipal de desenvolvimento econômico da cidade e nas políticas sociais básicas de interesse dos munícipes;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+criar em conjunto ao Poder Executivo o Plano Municipal de Desenvolvimento Econômico;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+III –
+
+opinar sobre a programação físico-financeira anual, em nível municipal, dos programas que integram o Plano Municipal de Desenvolvimento Econômico, acompanhando seu desempenho;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IV –
+
+fortalecer a atuação do Agente de Desenvolvimento e da Sala Mineira do Empreendedor;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+V –
+
+compatibilizar as políticas públicas municipal, regional, estadual e federal voltadas para o desenvolvimento econômico e para a conquista e consolidação da plena cidadania no Município;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VI –
+
+integrar as políticas públicas de Desenvolvimento Econômico com as demais políticas públicas de Bom Despacho, principalmente com as políticas públicas de meio ambiente, desenvolvimento social e educação;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VII –
+
+promover e realizar fóruns, seminários, encontros técnicos e conferências municipais ou regionais de desenvolvimento econômico;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VIII –
+
+identificar e divulgar as potencialidades econômicas de Bom Despacho, bem como desenvolver, em parceria com os poderes constituídos, diretrizes para a atração de investimentos;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IX –
+
+incentivar ações que fomenta a pesquisa, a inovação e o desenvolvimento tecnológico capazes de potencializar e destacar a economia de Bom Despacho;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+X –
+
+priorização iniciativas que gerem trabalho, emprego e renda, promovendo a justiça social e o meio ambiente e construindo parcerias no âmbito municipal e regional.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XI –
+
+elaborar o regimento interno do COMDEC-BD;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XII –
+
+decidir em conjunto a Secretaria Municipal de Desenvolvimento Econômico e Agricultura sobre a aplicação dos recursos provenientes do Fundo Municipal de Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XIII –
+
+deliberar critérios de utilização de planos de aplicações de doações subsidiadas e percentual destinado ao incetivo da colocação de mão de obra ociosa em atividades que gerem desenvolvimento econômico.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XIV –
+
+deliberar em conjunto a Secretaria Municipal de Desenvolvimento Econômico e Agricultura sobre a contratação de agentes financeiros, elaboração de termo de cooperação, elaboração de convênios todos afetos às receitas do Fundo Municipal de Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+XV –
+
+estabelecer em conjunto a Secretaria Municipal de Desenvolvimento Econômico e Agricultura prioridades de aplicação dos recursos do Fundo Municipal de Desenvolvimento Econômico de Bom Despacho;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 1º
+
+Será necessária a presença de 50% (cinquenta por cento) dos membros para início das sessões plenárias, que poderão ter continuidade com a presença de 1/3 (um terço) dos membros após instalada a sessão.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 2º
+
+O Plenário do COMDEC-BD será composto por 11 (onze) membros titulares, sendo 10 (dez) de livre escolha do Chefe do Executivo, escolhidos entre cidadãs e cidadãos de reconhecida capacidade empresarial ou educacional, e 01 (um) por indicação do Legislativo, o qual comporá a Câmara do Agronegócio e Residual, com aprovação do nome pelo Chefe do Executivo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 3º
+
+Os membros indicados ao Conselho exercerão mandato de 2 (dois) anos, admitindo-se a recondução.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 4º
+
+A função de membro do Conselho é considerada de interesse público relevante e não será remunerada.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 5º
+
+Além dos 11 (onze) membros titulares, haverá um suplente para cada membro, sendo todos os suplentes indicados pelo Chefe do Executivo;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 6º
+
+Os Suplentes serão convocados para todas as sessões com direito a voz, havendo direito a voto somente em caso de efetiva ausência de membro titular, que não precisa ser necessariamente o suplente da cadeira, podendo substituir o Titular de outra cadeira.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Art. 10.
+
+As Câmaras Temáticas são unidades de consultas, deliberações e apoio ao Plenário, que tem as seguintes competências:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+acompanhar e monitorar a atuação do Executivo Municipal no que se refere às políticas públicas de desenvolvimento econômico e à aplicação dos recursos públicos consignados no orçamento municipal para essa finalidade;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+mobilizar e articular entre a sociedade civil organizada, incluindo as instituições de ensino, os poderes públicos constituídos e o setor produtivo;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+III –
+
+propor ações, programas e projetos para serem inseridos no Plano Municipal de Desenvolvimento Econômico, no Plano Plurianual (PPA), na Lei de Diretrizes Orçamentárias (LDO) e na Lei Orçamentária Anual (LOA) do Município;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IV –
+
+estimular e articular a implementação de programas voltados ao fortalecimento da cultura empreendedora no município, bem como à implantação da educação empreendedora nas escolas do município;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+V –
+
+estimular a melhoria do ambiente de negócios no município, com uma atenção especial às questões relacionadas à desburocratização e simplificação;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VI –
+
+estimular a implantação e reestruturação de organizações representativas de segmentos empresariais, tanto no meio urbano quanto rural;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VII –
+
+analisar e deliberar pedidos de doação ou concessão de uso de áreas públicas, a serem destinadas a atividades industriais, comerciais e de prestação de serviços, bem como outros incentivos e benefícios a serem criados como estratégias para o fortalecimento da economia local;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VIII –
+
+fiscalizar projetos e a devida aplicação dos recursos do Fundo Municipal de Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IX –
+
+sugerir sobre a criação de empresas públicas, sociedade de economia mista, autarquias e entidades governamentais ou realização de consórcio intermunicipal;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+X –
+
+estabelecer, sob a forma de deliberações, procedimentos e condições operacionais do COMDEC-BD.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 1º
+
+Os trabalhos serão distribuídos por Câmara conforme área de abrangência para a qual a unidade de apoio foi criada.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+§ 2º
+
+As câmaras serão compostas pelo Presidente e três membros, exceto a Câmara do Agronegócio e Residual que contará também com um membro do Poder Legislativo, conforme dispõe o § 2º do artigo 9º.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 3º
+
+A Câmara Industrial e Comercial deliberará e opinará sobre assuntos afetos à política de desenvolvimento dos setores industrial e comercial.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 4º
+
+A Câmara Tecnológica e de outros serviços deliberará sobre assuntos afetos a ações que fomentam a pesquisa, a inovação e o desenvolvimento tecnológico, capazes de potencializar e destacar a economia de Bom Despacho, bem como sobre os assuntos afetos a serviços diversos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 5º
+
+A Câmara do Agronegócio e Residual deliberará sobre assuntos afetos ao agronegócio e a política de desenvolvimento dos demais setores econômicos existentes em Bom Despacho.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 6º
+
+As proposições de políticas e de normas serão encaminhadas ao Plenário para deliberação, após serem discutidas pela câmara proponente.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 7º
+
+O Presidente somente terá direito a voto para desempate, e nos casos de composição mínima seu voto terá peso de qualidade no resultado da decisão.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+§ 8º
+
+Para instalação das sessões será necessária a presença de 50% (cinquenta por cento dos membros)”.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.802, de 09 de junho de 2021.
+
+
+##### Seção IV — DO FUNCIONAMENTO DO CONSELHO DE DESENVOLVIMENTO ECONÔMICO DE BOM DESPACHO
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+#### CAPÍTULO III — DO FUNDO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO DE BOM DESPACHO
+
+
+##### Seção I — DA CRIAÇÃO DO FUNDO MUNICIPAL
+
+
+Art. 16.
+
+Fica instituído o Fundo Municipal de Desenvolvimento Econômico, que tem por objetivo criar condições financeiras e de gerência dos recursos e dos bens destinados à consecução das ações de atendimento ao desenvolvimento econômico do Município de Bom Despacho, executadas ou coordenadas pelo Conselho Municipal de Desenvolvimento Econômico de Bom Despacho.
+
+
+Art. 17.
+
+Respeitadas as disposições do Plano de Desenvolvimento Municipal, serão observadas as seguintes diretrizes na formulação do programa de financiamento, concessão de benefícios e plano de desenvolvimento:
+
+
+I –
+
+concessão de financiamentos exclusivamente a pessoas e empresas estabelecidos no Município;
+
+
+II –
+
+tratamento preferencial às atividades produtivas de uso intensivo de matérias-primas e mão de obra locais e às que produzem, beneficiam e comercializam alimentos básicos para consumo da população;
+
+
+III –
+
+conjugação de crédito com a assistência técnica especializada para cada projeto;
+
+
+IV –
+
+elaboração de orçamento anual para as aplicações dos recursos;
+
+
+V –
+
+apoio à criação de novos centros, atividades e polos dinâmicos no Município, que estimulem a redução das disparidades regionais de renda.
+
+
+VI –
+
+preservação do meio-ambiente;
+
+
+VII –
+
+construção de unidades armazenadoras, produtivas, industriais e/ou comerciais, a serem cedidas às pessoas, físicas ou jurídicas interessadas no desenvolvimento econômico do Município;
+
+
+VIII –
+
+concessão de subvenções econômicas destinadas ao custeio de atividades ou para possibilitar a implantação, instalação e/ou manutenção de empresas no Município;
+
+
+IX –
+
+investimentos financeiros destinados a constituição, injeção ou aumento de capital de empresas estabelecidas no Município;
+
+
+X –
+
+inversões financeiras em empresas estabelecidas no Município.
+
+
+Art. 18.
+
+O Fundo Municipal de Desenvolvimento Econômico de Bom Despacho vincula a Secretaria Municipal de Desenvolvimento Econômico e Agricultura, a quem caberá a gestão dos recursos e bens, em conjunto ao Conselho Municipal de Desenvolvimento Econômico de Bom Despacho.
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+##### Seção II — DAS ATRIBUIÇÕES
+
+
+Art. 19.
+
+São atribuições da Secretaria Municipal de Desenvolvimento Econômico e Agricultura, com referência ao Fundo Municipal de Desenvolvimento Econômico de Bom Despacho:
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+gerir em conjunto com o Plenário do Conselho Municipal de Desenvolvimento Social, o Fundo Municipal de Desenvolvimento Econômico de Bom Despacho, e estabelecer políticas de aplicações dos recursos;
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+acompanhar, avaliar e decidir a realização de ações, em conjunto com o Plenário do Conselho Municipal de Desenvolvimento Econômico;
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+III –
+
+submeter ao Plenário do Conselho Municipal de Desenvolvimento Econômico demonstrações de receitas e despesas do fundo, sempre que solicitado;
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IV –
+
+manter os controles necessários a execução orçamentária do Fundo referentes a empenhos, liquidações e pagamento das despesas e recebimentos das receitas destinadas ao Fundo;
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+V –
+
+manter o controle sobre os bens patrimoniais com carga ao Fundo;
+
+Alteração feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VI –
+
+fazer relatórios de acompanhamento da realização de ações de atendimento ao desenvolvimento econômico, sempre que o COMDEC-BD solicitar;
+
+Inclusão feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VII –
+
+manter os controles necessários sobre convênios e cooperações firmados;
+
+Inclusão feita pelo Art. 5º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária-EXEC nº 2.789, de 28 de abril de 2021.
+
+
+##### Seção III — DOS ATIVOS E DAS RECEITAS DO FUNDO
+
+
+Art. 21.
+
+Constituem ativos do Fundo Municipal de Desenvolvimento Econômico:
+
+
+I –
+
+disponibilidades monetárias em bancos ou em caixa especial oriundas das receitas especificadas;
+
+
+II –
+
+direitos que porventura vier a adquirir;
+
+
+III –
+
+bens moveis e imóveis que forem designados ao Conselho Municipal;
+
+
+IV –
+
+bens moveis e imóveis doados, com ou sem ônus destinados ao Conselho Municipal.
+
+
+Parágrafo único
+
+Anualmente se processará o inventario dos bens e direitos vinculados ao Fundo.
+
+
+Art. 22.
+
+São receitas do Fundo:
+
+
+I –
+
+valor destinado ao fundo será estipulado pela Lei Orçamentária anual;
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 2.581, de 20 de abril de 2017.
+
+
+II –
+
+os retornos dos valores liberados;
+
+
+III –
+
+rendas eventuais, inclusive a resultante de depósitos, rendimentos e os juros provenientes de aplicações financeiras;
+
+
+IV –
+
+as doações, auxílios, contribuições e legados que lhe venham a ser destinados;
+
+
+V –
+
+outros recursos que lhe forem destinados.
+
+
+§ 1º
+
+As receitas descritas neste artigo serão depositadas obrigatoriamente em conta especial a ser aberta e mantida em agencia de estabelecimento de credito.
+
+
+§ 2º
+
+A aplicação dos recursos de natureza financeira dependera:
+
+
+I –
+
+da existência de disponibilidade em função do cumprimento de programação;
+
+
+II –
+
+de previa aprovação do Presidente do Conselho Municipal de Desenvolvimento Econômico e do Prefeito Municipal.
+
+
+§ 3º
+
+A movimentação dos recursos financeiros do Fundo Municipal de Desenvolvimento Econômico será feita pelos mesmos meios com que são movimentados os recursos da Prefeitura Municipal de Bom Despacho.
+
+
+##### Seção IV — DOS PASSIVOS DO FUNDO
+
+
+Art. 23.
+
+Constituem passivos do Fundo Municipal de Desenvolvimento Econômico as obrigações de qualquer natureza que porventura o Município venha a assumir para a manutenção e o funcionamento do Conselho Municipal de Desenvolvimento Econômico, bem como para a instalação, implantação e manutenção de empresas no Município.
+
+
+Art. 24.
+
+A despesa do Fundo Municipal de Desenvolvimento Econômico se constituirá de:
+
+
+I –
+
+financiamento total ou parcial de programas, desenvolvidos por empresas, devidamente autorizados pelo Conselho Municipal de Desenvolvimento Econômico;
+
+
+II –
+
+pagamento de vencimentos, salários, gratificações de pessoal dos orgãos ou entidades de administração direta ou indireta que participem da execução das ações previstas na presente Lei;
+
+
+III –
+
+pagamento pela prestação de serviços a entidades de direito privado para execução de programas ou projetos específicos no atendimento ao desenvolvimento econômico;
+
+
+IV –
+
+aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento dos programas;
+
+
+V –
+
+construção, reforma, ampliação, aquisição ou locação de imóveis para possibilitar o desenvolvimento econômico do Município através de sua cessão a terceiros para exploração com fins econômicos;
+
+
+VI –
+
+desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle a ser aplicado às empresas autorizadas pelo Conselho Municipal;
+
+
+VII –
+
+desenvolvimento de programas de capacitação e aperfeiçoamento de recursos humanos em atendimento às empresas.
+
+
+##### Seção V — DA CONTABILIDADE
+
+
+Art. 25.
+
+A contabilidade do Fundo Municipal de Desenvolvimento Econômico tem por objetivo evidenciar a situação financeira, patrimonial e orçamentaria do Conselho Municipal de Desenvolvimento Econômico, observados os padrões e normas estabelecidas na legislação pertinente.
+
+
+Art. 26.
+
+A contabilidade será organizada de forma a permitir o exercício das suas funções de controle prévio, concomitante e subsequente e de informar, inclusive de apropriar e apurar custos dos serviços, e consequentemente, de concretizar o seu objetivo, bem como interpretar a analisar os resultados obtidos.
+
+
+Art. 27.
+
+A contabilidade emitirá relatórios mensais de gestão, inclusive dos custos dos serviços.
+
+
+§ 1º
+
+entende-se por relatórios de gestão os balancetes mensais de receita e de despesa do Fundo Municipal de Desenvolvimento Econômico e demais demonstrações exigidas pela Administração e pela legislação pertinente.
+
+
+§ 2º
+
+As demonstrações e os relatórios passarão a integrar a contabilidade geral do município.
+
+
+### TÍTULO III — DOS BENEFÍCIOS
+
+
+#### CAPÍTULO I — DA EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
+
+
+##### Seção I — DAS ISENÇÕES TRIBUTARIAS
+
+
+Art. 28.
+
+Poderá o Prefeito Municipal, ouvido previamente o Conselho Municipal de Desenvolvimento Econômico — COMDEC-BD, conceder isenção de tributos municipais, a quaisquer pessoas, como incentivo fiscal para que se instalem e/ou promovam suas atividades e desenvolvimento econômico no Município, dentro dos limites estabelecidos neste Capítulo.
+
+
+Art. 29.
+
+As isenções de tributos poderão se fazer mediante um dos seguintes critérios:
+
+
+I –
+
+critério de mão de obra empregada;
+
+
+II –
+
+critério de receita bruta anual.
+
+
+Art. 30.
+
+O sistema municipal de isenção tributária pelo Critério de Mão de Obra Empregada, poderá se fazer dentro dos seguintes limites:
+
+
+I –
+
+Isenção de até 100% (cem por cento) do valor dos tributos municipais, a pessoas que empreguem, diretamente, mais de 30 (trinta) pessoas, com vínculo empregatício;
+
+
+II –
+
+Isenção de até 70% (setenta por cento) do valor dos tributos municipais, a pessoas que empreguem, diretamente, mais de 20 (vinte) pessoas, com vínculo empregatício;
+
+
+III –
+
+Isenção de até 50% (cinqüenta por cento) do valor dos tributos municipais, a pessoas que empreguem, diretamente, mais de 05 (cinco) pessoas, com vínculo empregatício.
+
+
+Art. 31.
+
+O sistema municipal de isenção tributária pelo Critério de Receita Bruta Anual, poderá se fazer dentro dos seguintes limites:
+
+
+I –
+
+Isenção de até 100% (cem por cento) do valor dos tributos municipais, a pessoas jurídicas que tenham tido, no exercício anterior, no município de Bom Despacho, receita bruta anual correspondente a no mínimo 100 (cem) vezes o capital social registrado em 01 de janeiro do exercício em que se apurar a receita;
+
+
+II –
+
+Isenção de até 70% (setenta por cento) do valor dos tributos municipais, a pessoas jurídicas que tenham tido, no exercício anterior, no município de Bom Despacho, receita bruta anual correspondente a no mínimo 50 (cinquenta) vezes o capital social registrado em 01 de janeiro do exercício em que se apurar a receita;
+
+
+III –
+
+Isenção de até 50% (cinquenta por cento) do valor dos tributos municipais, a pessoas jurídicas que tenham tido, no exercício anterior, no município de Bom Despacho, receita bruta anual correspondente a no mínimo 20 (vinte) vezes o capital social registrado em 01 de janeiro do exercício em que se apurar a receita;
+
+
+IV –
+
+Isenção de até 30% (trinta por cento) do valor dos tributos municipais, a pessoas jurídicas que tenham tido, no exercício anterior, no município de Bom Despacho, receita bruta anual correspondente a no mínimo 10 (dez) vezes o capital social registrado em 01 de janeiro do exercício em que se apurar a receita
+
+
+Art. 32.
+
+Excepcionalmente, ouvido o Conselho Municipal de Desenvolvimento Econômico — COMDEC-BD, poderá ser concedida isenção dou remissão de tributos municipais, como auxílio à sua manutenção, a pessoas jurídicas já instaladas no Município, atendendo a situação econômica deficitária em que se encontre.
+
+
+Parágrafo único
+
+A isenção ou remissão concedida com fundamento neste Artigo, deverá ser renovada MENSALMENTE, sob pena de ser revogado automaticamente o benefício.
+
+
+Art. 33.
+
+Excepcionalmente, ouvido o Conselho Municipal de Desenvolvimento Econômico — COMDEC-BD, que avaliará a conveniência e interesse par município, poderá ser concedida isenção de até 100% (cem por cento) dos tributos municipais, a pessoas jurídicas que pretendam se instalar no município.
+
+
+Parágrafo único
+
+As isenções concedidas com fundamento neste Artigo, poderão se dar por prazo de até 05 (cinco) anos, não podendo ser revogada por qualquer autoridade que seja durante o prazo de sua concessão.
+
+
+Art. 34.
+
+Todos as demais concessões de isenções e remissões tributárias, fora das previstas neste Capítulo; com exceção das já autorizadas por outras leis ou dispositivos legais, somente poderão ser concedidas após aprovação prévia pelo Legislativo Municipal.
+
+
+##### Seção II — DAS REMISSÕES
+
+
+Art. 35.
+
+Poderá o Prefeito Municipal, ouvido previamente o Conselho Municipal de Desenvolvimento Econômico — COMDEC-BD, conceder remissão de tributos municipais, a quaisquer pessoas, como incentivo fiscal para que continuem a promover suas atividades e desenvolvimento econômico no Município.
+
+
+Art. 36.
+
+Os critérios para concessão das remissões de tributos são os seguintes:
+
+
+I –
+
+critério de mão de obra empregada;
+
+
+II –
+
+critério de receita bruta anual.
+
+
+Art. 37.
+
+Os limites para concessão de remissão tributária são os mesmos estabelecidos para isenção tributária, de conformidade com o disposto nos Artigos 30 e 31, anteriores.
+
+
+Art. 38.
+
+Excepcionalmente, ouvido o Conselho Municipal de Desenvolvimento Econômico — COMDEC-BD, poderá ser concedida remissão de tributos municipais, corno auxilio à sua manutenção, a pessoa jurídica já instalada no Município, atendendo a situação econômica deficitária em que se encontre.
+
+
+Parágrafo único
+
+A remissão concedida com fundamento neste Artigo, deverá ser renovada MENSALMENTE, sob pena de ser revogado automaticamente o beneficio.
+
+
+Art. 39.
+
+Todos as demais concessões de remissões tributárias, fora das previstas nesta Seção, com exceção das já autorizadas por outras leis ou dispositivos legais, somente poderão ser concedidas após aprovação prévia pelo Legislativo Municipal.
+
+
+##### Seção III — DAS TRANSAÇÕES
+
+
+Art. 40.
+
+Para recebimento do crédito tributário, devidamente apurado, poderá o Executivo Municipal, através do Prefeito Municipal, após ouvido o COMDEC-BD, promover transações, seja por composições, novações e/ou acordos com os sujeitos passivos da obrigação tributária ou terceiros.
+
+
+Art. 41.
+
+Poderá o Executivo Municipal transacionar para receber, em pagamento de créditos tributários, todos e quaisquer bens que forem possíveis, pertencentes a quaisquer pessoas, sejam imóveis, móveis e/ou semoventes.
+
+
+Parágrafo único
+
+Em caso de recebimento de bens pelo Executivo Municipal, para quitação, parcial ou total de bens, será necessário a avaliação prévia dos bens, por empresa ou pessoa credenciada, ou por Comissão de avaliação devidamente designada.
+
+
+Art. 42.
+
+Os bens a serem recebidos em pagamento não poderão ter valor superior ao valor dos créditos tributários, não se admitindo desembolso financeiro do Município para as transações permitidas.
+
+
+Parágrafo único
+
+Em nenhuma hipótese se admitirá o recebimento de bens por valor superior ao valor da avaliação.
+
+
+#### CAPÍTULO II — DA UTILIZAÇÃO E/OU DA TRANSFERÊNCIA DE BENS
+
+
+##### Seção I — DAS FORMAS
+
+
+Art. 43.
+
+O Município, ouvido o Conselho Municipal de Desenvolvimento Econômico — COMDEC-BD, poderá autorizar a utilização de bens públicos, mediante as formas jurídicas de cessão de uso, autorização de uso, permissão de uso ou concessão do direito real de uso, ou a transferência de bens públicos, mediante doação, a quaisquer pessoas, jurídicas ou físicas interessadas, sediadas ou residentes no Município de Bom Despacho ou que venham se instalar ou residir no Município, observadas as disposições deste Capítulo, além das demais necessárias e estabelecidas em lei.
+
+
+Parágrafo único
+
+A Administração Pública poderá se utilizar de outros instrumentos jurídicos possibilitadores do uso do bem público por particulares, desde que atendidos os requisitos legais para tanto.
+
+
+###### Subseção I — CESSÃO DE USO
+
+
+Art. 44.
+
+Poderá ser autorizada a cessão de uso de bens públicos, a título gratuito ou oneroso, a quaisquer empresas, firmas individuais e/ou pessoas, devendo os bens serem utilizados somente para os fins a que se destinam, devidamente determinado pela Administração no ato próprio.
+
+
+Art. 45.
+
+A cessão de uso, a título gratuito, obedecerá, dentre outros, os seguintes princípios:
+
+
+I –
+
+É dispensada licitação, para sua realização;
+
+
+II –
+
+Somente poderá ser feita a título PRECÁRIO, podendo ser rescindida pela Administração no momento que julgar conveniente;
+
+
+III –
+
+Considera-se nula de pleno direito se feita com prazo de vigência;
+
+
+IV –
+
+quando referente a bem imóvel, não permite a indenização pela Administração por acessões, construções, benfeitorias e melhoramentos;
+
+
+V –
+
+quando referente a bem imóvel, as construções, benfeitorias, melhoramentos e acessões feitos pelo cessionário incorporarão o bem cedido, não assistindo ao cessionário direito de retenção.
+
+
+Art. 46.
+
+A cessão de uso, a título oneroso, de bens públicos, dentre outros, obedecerá os seguintes princípios:
+
+
+I –
+
+Quando de imóveis:
+
+
+a)
+
+exige licitação, pelos meios adequados;
+
+
+b)
+
+não poderá ultrapassar o prazo de doze (12) meses, sob pena de nulidade de pleno direito;
+
+
+c)
+
+não permite a indenização pela Administração por acessões, construções; benfeitorias e melhoramentos;
+
+
+d)
+
+as construções, benfeitorias, melhoramentos e acessões feitos pelo cessionário incorporarão ao bem cedido, não assistindo ao cessionário direito de retenção.
+
+
+II –
+
+Quando de bens móveis e máquinas:
+
+
+a)
+
+não exige licitação;
+
+
+b)
+
+a cessão somente poderá se dar quando não prejudicar os serviços administrativos;
+
+
+c)
+
+o prazo máximo da cessão será de 48 (quarenta e oito) horas, salvo quando o COMDEC-BD julgar conveniente a cessão por período de tempo superior atendendo a motivos de conveniência do Município.
+
+
+Art. 47.
+
+Na cessão de uso, tanto a título gratuito, quanto oneroso, a destinação do bem será aquela estabelecida pela Administração e não aquela que pretenda o cessionário.
+
+
+Parágrafo único
+
+O desvio de finalidade ocasionará a rescisão da cessão de uso, de pleno direito, independentemente de notificação ou procedimento judicial ou extra-judicial.
+
+
+Art. 48.
+
+Na cessão de uso, tanto a título gratuito, quanto oneroso, o cessionário, para entrar no uso e gozo do bem, declarará sua responsabilidade pela guarda e conservação do bem, responsabilizando-se pela reparação de danos.
+
+
+Art. 49.
+
+A cessão de uso não permite a sub-cessão, ou qualquer outra forma de transferência, parcial ou total, seja a que título for, do direito ou do bem, pelo cessionário a terceiros.
+
+
+###### Subseção II — DA CONCESSÃO DO DIREITO REAL DE USO
+
+
+Art. 50.
+
+A Administração Pública Municipal, preferentemente a doação, poderá conceder direito real de uso de bens públicos, a título gratuito, ou a título oneroso, por prazo determinado ou indeterminado.
+
+
+Art. 51.
+
+A Concessão do Direito Real de Uso sobre bem público, confere ao concessionário o direito real sobre a coisa.
+
+
+Art. 52.
+
+Somente poderá haver Concessão do Direito Real de Uso sobre bens que não sejam de uso comum do povo ou de uso especial.
+
+
+Art. 53.
+
+Somente se admitirá a Concessão do Direito Real de Uso pelo Poder Público Municipal, mediante estabelecimento da FINALIDADE de uso do bem.
+
+
+§ 1º
+
+Os objetivos da Concessão deverão ser atingidos dentro do prazo máximo de 24 (vinte e quatro) meses, a contar da data da Concessão.
+
+
+§ 2º
+
+Poderá o COMDEC-BD conceder prazo superior a 24 (vinte e quatro) meses, atendendo a complexidade do projeto ou das atividades que forem desenvolvidas no bem a ser objeto de concessão.
+
+
+Art. 54.
+
+Não utilizado o bem dentro da finalidade que for determinada, ou não atingindo os objetivos dentro do prazo estabelecido, ou dando o Concessionário destinação diversa ao bem, reverterá o mesmo bem ao patrimônio público municipal, independentemente de qualquer procedimento, judicial ou extrajudicial.
+
+
+Parágrafo único
+
+Em caso de reversão do bem, as benfeitorias, construções, edificações e acessões incorporarão ao imóvel, independentemente de indenização, não assistindo ao Concessionário o direito de retenção.
+
+
+Art. 55.
+
+A Concessão do Direito Real de Uso, a titulo gratuito, dispensa licitação, e somente poderá ser, efetivada para interesse social ou público devidamente justificado e aceito pelo COMDEC-BD.
+
+
+Art. 56.
+
+A Concessão do Direito Real de Uso, a título oneroso exigirá licitação.
+
+
+Art. 57.
+
+Assume, pela Concessão do Direito Real de Uso, o Concessionário, todos os encargos, civis, administrativos e tributários incidentes sobre o bem ou sobre a atividade que for explorada no bem.
+
+
+Art. 58.
+
+A Concessão do Direito Real de Uso, por tempo indeterminado somente será celebrada a título precário, sendo rescindível, por motivo de conveniência e/ou interesse público, no momento que entender o Poder Público Municipal.
+
+
+Art. 59.
+
+A Concessão do Direito Real de Uso, por tempo determinado, não poderá ser celebrada por prazo superior a 10 (dez) anos.
+
+
+Art. 60.
+
+A Concessão do direito Real de Uso não poderá ser transferida, ficando automaticamente rescindida em caso de transferência, inter-vivos" ou "causa mortis", do Concessionário, ou ainda, em caso de transferência do controle societário da empresa concessionária.
+
+
+###### Subseção III — DA AUTORIZAÇÃO DE USO
+
+
+Art. 61.
+
+Poderá o Poder Público Municipal, autorizar o uso de bens públicos, por particulares, pessoas físicas ou jurídicas, ou para atendimento de necessidades de particulares, desde que não prejudiquem os serviços administrativos do Poder Público Municipal.
+
+
+Art. 62.
+
+A Autorização de uso poderá se dar de forma gratuita ou onerosa.
+
+
+Art. 63.
+
+A Autorização de uso, a título gratuito, obedecerá, dentre outros, os seguintes princípios:
+
+
+I –
+
+É dispensada licitação, para sua realização;
+
+
+II –
+
+Somente poderá ser feita a título PRECÁRIO, podendo ser rescindida pela Administração no momento que julgar conveniente;
+
+
+III –
+
+Considera-se nula de pleno direito se feita com prazo de vigência;
+
+
+IV –
+
+quando de veículos ou máquinas, o operador da máquina ou motorista do veículo será o servidor público municipal credenciado.
+
+
+Art. 64.
+
+A Autorização de uso, a título oneroso, de bens públicos, dentre outros, obedecerá os seguintes princípios:
+
+
+I –
+
+Quando de imóveis:
+
+
+a)
+
+exige licitação, pelos meios adequados;
+
+
+b)
+
+não poderá ultrapassar o prazo de 15 (quinze) dias, sob pena de nulidade de pleno direito.
+
+
+II –
+
+Quando de bens móveis, máquinas e veículos:
+
+
+a)
+
+não exige licitação;
+
+
+b)
+
+a autorização somente poderá se dar quando não prejudicar os serviços administrativos;
+
+
+c)
+
+o prazo máximo da autorização será de 8 (oito) horas, salvo quando o COMDEC-BD julgar conveniente que a autorização se dê por período de tempo superior atendendo a motivos de conveniência do Município;
+
+
+d)
+
+o operador da máquina ou motorista do veículo será o servidor público municipal credenciado.
+
+
+Art. 65.
+
+A Autorização de uso de imóvel, além dos requisitos anteriores, não permite a modificação do imóvel, quer seja por acessões, construções, benfeitorias e melhoramentos, e, em caso de estas serem feitas, em descumprimento do dispositivo de lei, não permite a indenização pelo Poder Público e nem o direito de retenção pelo autorizado.
+
+
+Art. 66.
+
+Na Autorização de uso, tanto a título gratuito, quanto oneroso, a destinação do bem será aquela estabelecida pela Administração e não aquela que pretenda o autorizado.
+
+
+Parágrafo único
+
+O desvio de finalidade ocasionará a rescisão da autorização de uso, de pleno direito, independentemente de notificação ou procedimento judicial ou extrajudicial.
+
+
+Art. 67.
+
+A Autorização de uso não permite a transferência, quer seja parcial ou total, seja a que título for, do direito ou do bem, pelo autorizado a terceiros.
+
+
+###### Subseção IV — DA PERMISSÃO DE USO
+
+
+Art. 68.
+
+A Administração Pública Municipal, poderá Permitir o Uso de bens públicos, a título gratuito, ou a título oneroso, por prazo determinado ou indeterminado.
+
+
+Art. 69.
+
+A Permissão de Uso obriga o permissionário à guarda e manutenção do bem e à sua defesa contra esbulho ou turbação, não constituindo tal fato em perca do direito da Administração em tais providências.
+
+
+Art. 70.
+
+Somente poderá haver Permissão de Uso sobre bens que não sejam de uso comum do povo ou de uso especial.
+
+
+Art. 71.
+
+Somente se admitirá a Permissão de Uso pelo Poder Público Municipal, mediante estabelecimento da FINALIDADE de uso do bem.
+
+
+Art. 72.
+
+Não utilizado o bem dentro da finalidade que for determinada, ou não atingindo os objetivos dentro do prazo estabelecido, ou dando o Permissionário destinação diversa ao bem, considerar-se-á rescindida a permissão de uso, independentemente de qualquer procedimento, judicial ou extrajudicial.
+
+
+Parágrafo único
+
+Em caso de rescisão da permissão de uso, as benfeitorias, construções, edificações e acessões incorporarão ao imóvel, independentemente de indenização, não assistindo ao Permissionário o direito de retenção.
+
+
+Art. 73.
+
+A Permissão de Uso, a título gratuito, dispensa licitação, e somente poderá ser efetivada para interesse social ou público devidamente justificado e aceito pelo COMDEC-BD.
+
+
+Art. 74.
+
+A Permissão de Uso, a título oneroso exigirá licitação.
+
+
+Art. 75.
+
+Assume, pela Permissão de Uso, o Permissionário, todos os encargos, civis, administrativos e tributários incidentes sobre o bem ou sobre a atividade que for explorada no bem.
+
+
+Art. 76.
+
+A Permissão de Uso, por tempo indeterminado somente será celebrada a título precário, sendo rescindível, por motivo de conveniência e/ou interesse público, no momento que entender o Poder Público Municipal.
+
+
+Art. 77.
+
+A Permissão de Uso, por tempo determinado, não poderá ser celebrada por prazo superior a 04 (quatro) anos.
+
+
+Art. 78.
+
+A Permissão de Uso não poderá ser transferida, ficando automaticamente rescindida em caso de transferência, inter-vivos" ou "causa mortis", do Permissionário, ou ainda, em caso de transferência do controle societário da empresa Permissionária.
+
+
+###### Subseção V — DAS DOAÇÕES
+
+\- DOS IMÓVEIS -
+
+
+Art. 79.
+
+Poderá o Poder Público Municipal, para os fins desta lei, proceder a doação de bens imóveis, construídos ou não, a empresas que no município pretendam se instalar, dentro dos requisitos estabelecidos nesta subseção.
+
+
+Parágrafo único
+
+Poderá também ser realizada doação de bens imóveis, a empresas já instaladas, com a finalidade de transferência de localização em decorrência de melhor planejamento urbano ou de uso e utilização do solo.
+
+
+Art. 80.
+
+É obrigatório se constar das escrituras de doação de bens imóveis:
+
+
+I –
+
+as obrigações de construção no imóvel, de conformidade com o uso pretendido, se não construído;
+
+
+II –
+
+a finalidade da doação e obrigatoriedade de utilização do bem doado na finalidade estabelecida;
+
+
+III –
+
+a proibição de desvio de finalidade, seja parcial ou total incidente sobre o bem doado, durante o prazo que for estabelecido;
+
+
+IV –
+
+o prazo a que fica o bem e a empresa donatária obrigados a respeitar a cláusula de finalidade, podendo o prazo ser estabelecido a critério do COMDEC-BD, vigorando no mínimo por dois (02) anos a contar do término das construções ou da doação;
+
+
+V –
+
+o prazo para construção no imóvel, de conformidade com determinação do COMDEC-BD, caso não esteja construído;
+
+
+VI –
+
+o direito de o Poder Público Municipal, em caso de necessidade devidamente justificada, como "alargamento de via pública", "abertura de praça", "passagem de servidão", etc... retomar parte do imóvel, ou todo ele, independentemente de indenização, a não ser no caso de incidência da necessidade sobre área construída, caso em que, a indenização se fará somente sobre a construção, não incidindo sobre o terreno doado;
+
+
+VII –
+
+a obrigatoriedade de manter o número de empregados que for estabelecido pelo COMDEC-BD, com vínculo jurídico;
+
+
+VIII –
+
+outras condições e obrigações que forem estabelecidas pelo COMDEC-BD.
+
+
+Art. 81.
+
+Nenhuma doação de imóveis poderá ser efetivada sem a cláusula de reversão ao Poder Público Municipal em caso de descumprimento das condições que forem impostas ou de desvio de finalidade.
+
+
+Art. 82.
+
+Os bens imóveis que forem doados o serão com a cláusula de impenhorabilidade e não poderão servir corno garantia para qualquer espécie de dívida.
+
+
+Art. 83.
+
+Em caso de reversão dos bens ao Poder Público Municipal, as construções, acessões ou edificações que houverem sido feitas pelo donatário, deverão ser indenizadas pelo Poder Público, procedendo-se de conformidade com o disposto nos itens seguintes:
+
+
+I –
+
+o terreno doado, em nenhuma hipótese será indenizado, seja na retomada ou na reversão do imóvel, mesmo que sobre ele se ache erigida construção;
+
+
+II –
+
+as construções serão indenizadas através do preço de custo dos materiais empregados na obra e custo da mão de obra utilizada;
+
+
+III –
+
+A apuração dos custos se fará através dos lançamentos contábeis da empresa referente à obra, não se admitindo recibos, notas fiscais ou quaisquer outros documentos que não tenham sido lançados contabilmente como custo da obra;
+
+
+IV –
+
+Em caso de decurso de tempo entre a construção e a indenização, o custo apurado será atualizado monetariamente de conformidade com índice oficial de inflação divulgado pelo Governo Federal;
+
+
+V –
+
+as benfeitorias, quer sejam úteis, necessárias ou voluptuárias, não serão indenizadas sob qualquer forma ou justificativa.
+
+
+Art. 84.
+
+A doação somente será efetivada após análise do requerimento do interessado, com indicação da finalidade do uso do bem e indicação da construção a ser erigida.
+
+
+Art. 85.
+
+Após apresentação do requerimento, o COMDEC-BD, analisando a proposta, decidirá sobre a conveniência e interesse público na doação, e estabelecerá as condições em que será feita.
+
+
+Art. 86.
+
+A metragem do imóvel a ser doado não poderá ultrapassar três (03) vezes o tamanho da área a ser construída e, em caso de não construção total da obra dentro do prazo que for estabelecido, sujeitará o donatário à devolução da área excedente.
+
+
+**- DOS MÓVEIS -**
+
+
+Art. 87.
+
+Poderá o Poder Público Municipal, atendendo a situações de conveniência e interesse público, devidamente justificado, proceder à doação de bens móveis, constantes de SEMENTES, ADUBOS, CORRETIVOS DE SOLO, FERTILIZANTES, etc..., a pessoas interessadas na exploração agro-pastoril.
+
+
+Art. 88.
+
+Para recebimento da doação deverá o interessado apresentar requerimento perante o COMDEC-BD, que, analisando os elementos que possam interessar, notadamente, para a doação de sementes, adubos, conetivos e fertilizantes, a área do imóvel a ser plantada, a qualidade do solo e as condições gerais do local, decidirá, deferindo ou não o requerimento.
+
+
+###### Subseção VI — DAS LOCAÇÕES E SUAS CESSÕES
+
+
+Art. 89.
+
+Poderá o Executivo Municipal promover a locação de imóveis, a terceiros, constituídos por galpões já construídos ou por instalações próprias para indústria, cedendo seu uso a empresas que pretendam se instalar no Município ou que desejam transferir suas sedes para o Município de Bom Despacho.
+
+
+Art. 90.
+
+A locação de imóveis para sua cessão às empresas somente poderá se dar caso não exista de propriedade do Município imóveis em condições de serem utilizados pelas empresas interessadas.
+
+
+Art. 91.
+
+A empresa interessada deverá dirigir requerimento ao COMDEC-BD, que, analisando a situação, o número de empregos que serão gerados, o tempo necessário para uso, decidirá de conformidade com entendimentos próprios seus.
+
+
+#### CAPÍTULO III — DAS TRANSFERÊNCIAS DE RECURSOS FINANCEIROS
+
+
+##### Seção I — DAS INVERSÕES FINANCEIRAS
+
+
+Art. 92.
+
+Poderá o Poder Público Municipal, devidamente autorizado pelo COMDEC-BD, promover INVERSÕES FINANCEIRAS em empresas já instaladas no município de Bom Despacho, e que se destinem a exploração industrial, agro-pecuária, avícola ou produção de bens.
+
+
+Art. 93.
+
+A aquisição de títulos representativos do capital de empresas ou entidades, pelo formalismo de inversões financeiras, somente poderá se dar quando a operação não importar em aumento de capital da empresa.
+
+
+Art. 94.
+
+A inversão financeira somente poderá se realizar quando o Poder Público Municipal não adquirir ou não passar a ser proprietário de capital que represente a maioria do capital da empresa.
+
+
+Art. 95.
+
+Poderá o Poder Público Municipal fiscalizar todas as atividades e negócios da empresa na qual promover inversão financeira, tendo o direito de vetar atividades ou negócios quando julgá-los não interessantes, ou ainda o direito de retirada da empresa quando melhor lhe convier.
+
+
+Art. 96.
+
+A inversão financeira somente poderá se fazer após análise pelo COMDEC-BD da situação da empresa e da conveniência da inversão, para manutenção das atividades da empresa no município.
+
+
+Art. 97.
+
+As inversões financeiras que forem julgadas convenientes pelo COMDEC-BD serão objeto de encaminhamento, através de lei específica, ao Poder Legislativo.
+
+
+##### Seção II — DOS INVESTIMENTOS FINANCEIROS
+
+
+Art. 98.
+
+Poderá o Poder Público Municipal, devidamente autorizado pelo COMDEC-BD, promover INVESTIMENTOS FINANCEIROS em empresas, no município de Bom Despacho, visando sua constituição ou aumento de capital, e que se destinem a exploração industrial, agro-pecuária, avícola ou produção de bens.
+
+
+Art. 99.
+
+A aquisição de títulos representativos do capital de empresas ou entidades, pelo formalismo do investimento financeiro, somente poderá se dar quando a operação importar em constituição de capital ou em aumento de capital da empresa.
+
+
+Art. 100.
+
+Os investimentos financeiros somente poderá se realizar quando o Poder Público Municipal não adquirir ou não passar a ser proprietário de capital que represente a maioria do capital da empresa.
+
+
+Art. 101.
+
+Poderá o Poder Público Municipal fiscalizar todas as atividades e negócios da empresa na qual promover investimentos financeiros, tendo o direito de vetar atividades ou negócios quando julgá-los não interessantes, ou ainda o direito de retirada quando melhor lhe convier.
+
+
+Art. 102.
+
+Os investimentos financeiros somente poderão se fazer após análise pelo COMDEC-BD da situação da empresa e da conveniência dos investimentos, para instalação da empresa ou para aumento de suas atividades no município.
+
+
+Art. 103.
+
+Os investimentos financeiros que forem julgados convenientes pelo COMDEC-BD serão objeto de encaminhamento, através de lei específica ao Poder - Legislativo.
+
+
+##### Seção III — DAS SUBVENÇÕES ECONÔMICAS
+
+
+Art. 104.
+
+Poderá o Poder Público Municipal, ouvido o COMDEC-BD, conceder subvenções econômicas a empresas sediadas no Município de Bom Despacho, que tenham como atividade a exploração industrial, comercial, agrícola ou pastoril.
+
+
+Art. 105.
+
+Somente poderá se dar a subvenção econômica corno auxilio para cobertura de déficit de manutenção da empresa ou para o pagamento de bonificações a produtores de gêneros alimentícios para manutenção de preços acessíveis à população.
+
+
+Art. 106.
+
+As subvenções econômicas somente serão concedidas após análise pelo COMDEC-BD da situação, da empresa ou do produtor e da conveniência da transferência financeira.
+
+
+Art. 107.
+
+As subvenções econômicas que forem julgadas convenientes pelo COMDEC-BD serão objeto de encaminhamento, através de lei específica, ou através da lei orçamentária anual, ao Poder Legislativo.
+
+
+#### CAPÍTULO IV — DOS FINANCIAMENTOS E EMPRÉSTIMOS
+
+
+Art. 108.
+
+Poderá o COMDEC-BD contratar instituição financeira para promover a administração dos recursos do FUNDO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO DE BOM DESPACHO;
+
+
+Art. 109.
+
+Através da aprovação da maioria qualificada de 2/3 (dois terços) dos membros do Conselho, se decidirá qual a instituição financeira administrará os recursos, qual a taxa a ser paga pela administração, a forma de prestação de contas, direitos e deveres de cada parte.
+
+
+Art. 110.
+
+As receitas do FUNDO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO que forem aplicadas através de instituições financeiras, somente o poderão ser para o financiamento de atividades produtivas, industriais, comerciais e/ou rurais, de empresas ou pessoas instalados no Município de Bom Despacho.
+
+
+Art. 111.
+
+As empresas ou pessoas interessadas nos recursos apresentarão propostas, através do agente financeiro, que as encaminharão ao COMDEC-BD, para estudo da viabilidade econômica e técnica e análise de garantias.
+
+
+Parágrafo único
+
+Somente poderá ser utilizado o recurso do FUNDO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO DE BOM DESPACHO para empréstimos ou financiamentos de que trata o artigo, mediante aprovação pelo COMDEC¬BD, pela maioria qualificada de 2/3 (dois terços) de seus membros, sendo do COMDEC¬BD o voto final deliberando a respeito do empréstimo ou financiamento, bem ainda da taxa de encargos, prazo de carência, prazo do contrato, numero de parcelas e demais disposições contratuais de interesse do COMDEC-BD.
+
+
+Art. 112.
+
+Fica terminantemente proibido o empréstimo ou financiamento de valores oriundos do FUNDO MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO DE BOM DESPACHO a empresas e/ou pessoas, que não o sejam através de instituições financeiras contratadas.
+
+
+Parágrafo único
+
+É obrigatório, para concessão do empréstimo e/ou financiamento, que haja a aprovação da operação pela instituição financeira submetendo-se a empresa ou pessoa interessada ás normas bancárias e financeiras que estejam sendo praticadas à ocasião.
+
+
+### TÍTULO IV — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 113.
+
+O Conselho Municipal de Desenvolvimento Econômico, no prazo de 60 (sessenta) dias da nomeação de seus membros, elaborará o regimento interno, elegendo o Presidente.
+
+
+Art. 114.
+
+Fica o Poder Executivo autorizado a abrir Credito Adicional Especial, ou suplementar dotações do orçamento vigente para o exercício de 2011, necessário para as despesas de cumprimento desta lei, até o limite de R$ 200.000,00 (duzentos mil reais).
+
+
+Parágrafo único
+
+O Executivo Municipal, para abertura do crédito mencionado no Artigo, poderá se utilizar de dotações orçamentárias vigentes, anulando ou cancelando, parcial ou totalmente, tais dotações, bem como utilizar-se de excesso de arrecadação ou de superavit financeiro.
+
+
+#### CAPÍTULO II — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 115.
+
+O Fundo Municipal de Desenvolvimento Econômico de Bom Despacho terá vigência ilimitada.
+
+
+Art. 116.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Bom Despacho, 02 de março de 2011.
+
+**HAROLDO DE SOUZA QUEIROZ**
+
+Prefeito Municipal
+

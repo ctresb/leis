@@ -1,0 +1,100 @@
+Eliane Aparecida de Souza Fanton, Prefeita Municipal de Guarujá do Sul, Estado de Santa Catarina, Faço saber a Todos os habitantes deste Município que a Câmara Municipal de Vereadores apreciou, votou, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir um Crédito Adicional Suplementar no valor de R$ 1.113.768,05 (um milhão, cento e treze mil, setecentos e sessenta e oito reais e cinco centavos), no orçamento do Município de Guarujá do Sul, no exercício de 2025, destinado ao reforço dos seguintes itens orçamentários:
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>            10 - FUNDO DE HABITAÇÃO DE INTERESSE SOCIAL</strong></td></tr><tr><td><strong>            10.001 - DEPARTAMENTO DE HABITAÇÃO DE INTERESSE SOCIAL</strong></td></tr><tr><td><strong>            0016.0482.0056.1046 - Imóvel para Programa de Habitação</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>...</td><td>3449000000000000000 - Aplicações diretas</td><td>150170000000 - Outros Recursos não Vinculados</td><td>50.000,00</td></tr><tr><td> </td><td>316</td><td>3449000000000000000 - Aplicações diretas </td><td>150170000000 - Outros Recursos não Vinculados</td><td>1.063.768,05</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Para dar cobertura do crédito adicional suplementar de que trata o art. 1º, fica reduzido do orçamento vigente do Município de Guarujá do Sul, os seguintes itens orçamentários:
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>02 - GABINETE DO PREFEITO</strong></td></tr><tr><td><strong>02.001 - GABINETE DO PREFEITO</strong></td></tr><tr><td><strong>0004.0122.002.2002 - Manutenção do Gabinete do Prefeito</strong></td></tr><tr><td><strong>0004.0124.0002.2003 - Manutenção do Controle Interno</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>8</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>15.000,00</td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>03 - GABINETE DO VICE PREFEITO</strong></td></tr><tr><td><strong>03.001 - GABINETE DO VICE PREFEITO</strong></td></tr><tr><td><strong>0004.0122.0002.2065 - Manutenção do Gabinete do Vice - Prefeito</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>16</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>12.000,00</td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>04 - SECRETARIA DE ADMINISTRAÇÃO E FAZENDA</strong></td></tr><tr><td><strong>04.001 - GABINETE DO SECRETÁRIO</strong></td></tr><tr><td><strong>0004.0123.0002.2066 - Manutenção do Gabinete do Secretário</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>19</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>60.000,00</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>04.004 - GERÊNCIA DE COMPRAS, LICITAÇÕES E CONVÊNIOS</strong></td></tr><tr><td><strong>0004.0122.0002.2059 - Manutenção do Depto de Compras e Convênios</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>32</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>20.000,00</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>04.007 - ENCARGOS GERAIS DO MUNICÍPIO</strong></td></tr><tr><td><strong>0004.0122.0002.2110 - Manutenção do CONDER</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>105</td><td>3317100000000000000 - Transferências a consórcios públicos mediante contrato de rateio</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>1.895,53</td></tr><tr><td> </td><td>107</td><td>3337100000000000000 - Transferências a consórcios públicos mediante contrato de rateio</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>1.151,78</td></tr><tr><td> </td><td>109</td><td>3447100000000000000 - Transferências a consórcios públicos mediante contrato de rateio</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>191,97</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>04.007 - ENCARGOS GERAIS DO MUNICÍPIO</strong></td></tr><tr><td><strong>0028.0843.0000.2039 - Pagamento da Dívida Pública</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>79</td><td>3329000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>250.000,00</td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>05 - SECRETARIA DE EDUCAÇÃO, CULTURA, TURISMO E ESPORTE</strong></td></tr><tr><td><strong>05.001 - GABINETE DO SECRETÁRIO</strong></td></tr><tr><td><strong>0012.0361.0014.1042 - Aquisição de Veículo Secretaria de Educação</strong></td></tr><tr><td><strong>0012.0361.0014.2090 - Manutenção do Gabinete da Secretária(o)</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>139</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>50.000,00</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>05.003 - DEPARTAMENTO DE ESPORTE</strong></td></tr><tr><td><strong>0027.0812.0032.2018 - Manutenção do Depto. Municipal de Esportes</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>248</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>100.000,00</td></tr><tr><td> </td><td>251</td><td>3339000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>50.000,00</td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>06 - SECRETARIA DA AGRICULTURA E MEIO AMBIENTE</strong></td></tr><tr><td><strong>06.001 - DEPTO DE AGRICULTURA</strong></td></tr><tr><td><strong>0020.0606.0026.2026 - Manutenção do Depto. de Agricultura</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>269</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>70.000,00</td></tr><tr><td> </td><td>271</td><td>3339000000000000000 - Aplicações diretas</td><td>150170000000 - Outros Recursos não Vinculados</td><td>50.000,00</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>0020.0606.0026.2075 - Manutenção do Consad</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>273</td><td>3317100000000000000 - Transferências a consórcios públicos mediante contrato de rateio</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>4.848,80</td></tr><tr><td> </td><td>274</td><td>3337100000000000000 - Transferências a consórcios públicos mediante contrato de rateio</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>3.009,88</td></tr><tr><td> </td><td>275</td><td>3447100000000000000 - Transferências a consórcios públicos mediante contrato de rateio</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>535,08</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>0020.0606.0026.2080 - Manutenção do Programa de Extensão Rural</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>276</td><td>3339000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>5.135,01</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>0020.0606.0026.2112 - Programa Subsídios Agrícolas</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>277</td><td>3339000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>10.000,00</td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>07 - SECRETARIA DA INDÚSTRIA E COMÉRCIO</strong></td></tr><tr><td><strong>07.001 - DEPARTAMENTO DE INDÚSTRIA E COMÉRCIO</strong></td></tr><tr><td><strong>0022.0661.0036.2113 - Programa Juro Zero</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>285</td><td>3339000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>20.000,00</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>0022.0661.0036.2123 - Programa Acelera Guarujá</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>286</td><td>3339000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>25.000,00</td></tr><tr><td> </td><td>287</td><td>3449000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>25.000,00</td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>08 - SECRETARIA DE TRANSPORTES E OBRAS</strong></td></tr><tr><td><strong>08.001 - DEPARTAMENTO DE URBANISMO</strong></td></tr><tr><td><strong>0015.0451.0019.1010 - Construção de Passeios</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>292</td><td>3449000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>40.000,00</td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>0026.0782.0031.2024 - Manutenção do Depto. de Transportes e Obras</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td> </td><td>310</td><td>3319000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>200.000,00</td></tr><tr><td> </td><td>311</td><td>3339000000000000000 - Aplicações diretas</td><td>150070000000 - Recursos não vinculados de Impostos</td><td>100.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+GABINETE DA PREFEITA MUNICIPAL DE GUARUJÁ DO SUL, 20 DE AGOSTO DE 2025.
+
+ELIANE APARECIDA DE SOUZA FANTON  
+Prefeita Municipal
+
+Este texto não substitui o publicado no DOM de 20.08.2025.

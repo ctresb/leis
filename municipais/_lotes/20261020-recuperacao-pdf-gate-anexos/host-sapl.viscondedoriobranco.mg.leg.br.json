@@ -1,0 +1,46 @@
+{
+  "host": "sapl.viscondedoriobranco.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/adin_ref._plo_2117-2024.pdf da norma Lei Ordinária-LegMun nº 1.740, de 16 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Ação Direta de Inconstitucionalidade",
+      "anexo_arquivo": "http://sapl.viscondedoriobranco.mg.leg.br/media/sapl/public/anexonormajuridica/2024/1/adin_ref._plo_2117-2024.pdf",
+      "ano": 2024,
+      "norma": 1962
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/adin_ref._plo_2064-2024.pdf da norma Lei Ordinária-LegMun nº 1.700, de 21 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Ação Direta de Inconstitucionalidade",
+      "anexo_arquivo": "http://sapl.viscondedoriobranco.mg.leg.br/media/sapl/public/anexonormajuridica/2024/2/adin_ref._plo_2064-2024.pdf",
+      "ano": 2024,
+      "norma": 1913
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/adin_ref._plc_110_-2026.pdf da norma Lei Complementar-EXECMUN nº 110, de 03 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ADIN AO PLC Nº 110/2025",
+      "anexo_arquivo": "http://sapl.viscondedoriobranco.mg.leg.br/media/sapl/public/anexonormajuridica/2025/3/adin_ref._plc_110_-2026.pdf",
+      "ano": 2025,
+      "norma": 2068
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.viscondedoriobranco.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.viscondedoriobranco.mg.leg.br/7e969dea6351cc17c1b32b74632e67d53b1f9b6d123503bc972201241f6792e1.json",
+      "sha256": "1fc66802ad3474c225aa45544e2eaade9246b92ba05185d08538c8d0259dc9ea",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.viscondedoriobranco.mg.leg.br/7e969dea6351cc17c1b32b74632e67d53b1f9b6d123503bc972201241f6792e1.meta.json"
+    }
+  ],
+  "total": 3
+}

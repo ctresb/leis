@@ -1,0 +1,243 @@
+---
+titulo: "Lei Ordinária nº 2.353, de 03 de outubro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2353"
+data: "2013-10-03"
+municipio: "Bom Despacho"
+uf: "MG"
+codigo_ibge: "3107406"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2023-12-14; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bomdespacho.mg.leg.br/norma/58"
+fonte_texto: "https://sapl.bomdespacho.mg.leg.br/ta/271/text"
+sha256_fonte: "6b0dc8ace9134bb2438d5823d08adc5cbcbbf30aa4ad83909f33238a266717cd"
+sha256_texto: "1f5b239d32879371f6a874e0eed69b7b7bab001b4cacb16dc8c7da16a3ffbce6"
+capturado_em_fonte: "2026-10-27T19:29:40.678357-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.353, de 03 de outubro de 2013
+
+**Lei nº 2.353, de 3 de outubro de 2.013.**
+
+
+Autoriza o Poder Executivo a conceder gratificação por produtividade e desempenho aos servidores efetivos e comissionados da rede pública municipal.
+
+
+O Povo do Município de Bom Despacho/MG, através de seus representantes legais aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder gratificação por produtividade e desempenho aos servidores efetivos e contratados do Município, nos valores descritos no art. 2º desta lei.
+
+
+Art. 2º.
+
+O valor da gratificação de produtividade e desempenho será de até 50% (cinquenta por cento) do salário base do servidor, conforme critério de avaliação disposto nos arts. 7.º, 8º e 9º da presente lei.
+
+
+Art. 3º.
+
+Serão beneficiários da gratificação de que trata esta lei os servidores e contratados no exercício de suas funções, qualquer que seja a sua lotação.
+
+
+Art. 4º.
+
+O servidor deixará de receber a gratificação assim que cessar o encargo adicional, ou:
+
+
+I –
+
+em licença médica, a qualquer título;
+
+
+II –
+
+em gozo de licença prêmio;
+
+
+III –
+
+afastado dos serviços por qualquer natureza, no mês de referência;
+
+
+IV –
+
+que apresente faltas ou atestados no mês de referência;
+
+
+V –
+
+no gozo de licença para estudo;
+
+
+VI –
+
+cedido para órgão da Administração Direta ou Indireta;
+
+
+VII –
+
+cedido mediante convênio a órgãos e prefeituras de outros municípios.;
+
+
+VIII –
+
+em licença sem vencimento;
+
+
+IX –
+
+em licença para acompanhamento de cônjuge;
+
+
+X –
+
+licenciado para atividade política.
+
+
+Art. 5º.
+
+Os servidores que estiverem em exercício em outros órgãos da administração direta, indireta ou fundacional do Município, Estado ou União, não terão direito à gratificação de que trata esta lei.
+
+
+Art. 6º.
+
+A gratificação de produtividade e desempenho instituída por esta lei não será computada para quaisquer fins, inclusive para o pagamento de férias, já que devida em razão do efetivo cumprimento de encargo, nem será incorporada aos proventos de aposentadoria ou pensão.
+
+
+Art. 7º.
+
+A gratificação será atribuída, mediante requisição motivada do Secretário da pasta a que pertencer o servidor que será beneficiário da vantagem e com a aprovação da Secretaria da Administração.
+
+
+Art. 8º.
+
+Ficará a cargo da Secretaria da Administração elaborar critérios de avaliação individual de produtividade e desempenho.
+
+
+Art. 9º.
+
+A avaliação de desempenho individual será feita com base em critérios e fatores que reflitam as competências do servidor, aferidas no desempenho individual das tarefas e atividades a ele atribuídas.
+
+
+Parágrafo único
+
+Na avaliação de desempenho individual, além do cumprimento das metas de desempenho individual, deverão ser avaliados os seguintes fatores mínimos:
+
+
+I –
+
+produtividade no trabalho, com base em parâmetros previamente estabelecidos de qualidade e produtividade;
+
+
+II –
+
+conhecimento de métodos e técnicas necessários para o desenvolvimento das atividades referentes ao cargo, emprego e função exercida na unidade de lotação;
+
+
+III –
+
+trabalho em equipe;
+
+
+IV –
+
+comprometimento com o trabalho;
+
+
+V –
+
+cumprimento das normas de procedimentos e de conduta no desempenho das atribuições do cargo;
+
+
+VI –
+
+cumprimento do código de ética do servidor municipal;
+
+
+VII –
+
+participação espontânea em cursos de formação;
+
+
+VIII –
+
+contribuição no processo de inovação e informatização da gestão pública;
+
+
+IX –
+
+pontualidade; e
+
+
+X –
+
+assiduidade.
+
+
+Art. 10.
+
+A gratificação de produtividade e desempenho, dado o caráter especial de vinculação à atividade adicional, poderá acumular-se com os benefícios pessoais, inclusive horas extras.
+
+
+Art. 11.
+
+A avaliação do servidor será feita a cada 90 ( noventa) dias e paga no mês subsequente ao mês avaliado.
+
+
+Art. 12.
+
+A gratificação de produtividade de que trata esta lei não se confunde com a gratificação instituída pela Lei Complementar Municipal nº 25 de 2.013, e não poderá ser atribuída concomitante e cumulativamente a esta e a nenhuma outra em vigor.
+
+
+Parágrafo único
+
+A restrição do caput não se aplica aos servidores que estejam:
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-EXEC nº 2.966, de 14 de dezembro de 2023.
+
+
+I –
+
+lotados da Secretaria Municipal da Fazenda, que desempenhem atividades relacionadas ao atendimento presencial e online, com foco nas obrigações fiscais relacionadas a impostos incidentes sobre imóveis, tais como o Imposto Predial e Territorial Urbano – IPTU, e outras taxas correlatas, bem como as relacionadas à Dívida Ativa, no âmbito da Secretaria Municipal da Fazenda e que:
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-EXEC nº 2.966, de 14 de dezembro de 2023.
+
+
+a)
+
+estejam na efetiva execução de suas atribuições;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-EXEC nº 2.966, de 14 de dezembro de 2023.
+
+
+b)
+
+realizem aproximadamente 70% das atividades no atendimento ao público, abrangendo questões relacionadas à dívida ativa municipal, protestos, negociações de dívidas lançadas, emissão de alvarás, inscrições municipais e obrigações fiscais relacionadas a impostos incidentes sobre imóveis.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-EXEC nº 2.966, de 14 de dezembro de 2023.
+
+
+II –
+
+lotados da Secretaria Municipal de Administração, e que atuem na Gerência de Licitações, Compras e Contrato, executando as tarefas regulamentadas.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-EXEC nº 2.966, de 14 de dezembro de 2023.
+
+
+Art. 13.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Bom Despacho, 3 de outubro de 2013, 102º ano de emancipação do Município.
+
+
+Fernando José Castro Cabral  
+**Prefeito Municipal**
+

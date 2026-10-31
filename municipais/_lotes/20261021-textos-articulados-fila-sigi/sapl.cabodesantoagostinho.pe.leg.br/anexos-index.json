@@ -1,0 +1,887 @@
+{
+  "estado": "indice_completo",
+  "total": 87,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/1/lei_ordinaria_2835_2011_de_cabo_de_santo_agostinho_pe__anexo_i.pdf da norma Lei Ordinária nº 2.835, de 09 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2011/1/lei_ordinaria_2835_2011_de_cabo_de_santo_agostinho_pe__anexo_i.pdf",
+      "ano": 2011,
+      "norma": 682
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/2/lei_ordinaria_2835_2011_de_cabo_de_santo_agostinho_pe_anexo_ii.pdf da norma Lei Ordinária nº 2.835, de 09 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2011/2/lei_ordinaria_2835_2011_de_cabo_de_santo_agostinho_pe_anexo_ii.pdf",
+      "ano": 2011,
+      "norma": 682
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/4/lei-ordinaria-1521-1989-cabo-de-santo-agostinho-pe-consolidada-29-12-2010.pdf da norma Lei Ordinária nº 2.607, de 29 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "CRIA O CÓDIGO DE POSTURA DO MUNICÍPIO DO CABO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2010/4/lei-ordinaria-1521-1989-cabo-de-santo-agostinho-pe-consolidada-29-12-2010.pdf",
+      "ano": 2010,
+      "norma": 1220
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/6/anexo-lei-2461-2008-cabo-de-santo_agostinho-pe1.pdf da norma Lei Ordinária nº 2.461, de 27 de agosto de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "CARTA DE INTENÇÃO DO CMC",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2008/6/anexo-lei-2461-2008-cabo-de-santo_agostinho-pe1.pdf",
+      "ano": 2008,
+      "norma": 1362
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/7/anexo-lei-2423-2007-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.423, de 28 de dezembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 1 DA LEI Nº 2.423, DE 28 DE DEZEMBRO 2007.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/7/anexo-lei-2423-2007-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1399
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/8/ord-2397-2007-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 2.397, de 28 de junho de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE REAJUSTE APLICÁVEL A PARTIR DE 01/04/2007 AOS CARGOS QUE ESPECIFICA E, DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/8/ord-2397-2007-cabodesantoagostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1416
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/9/anexo-lei-2396-2007-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.396, de 28 de junho de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A ALTERAÇÃO DA ESTRUTURA DE GESTÃO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO; ALTERA A ESTRUTURA DA SECRETARIA EXECUTIVA DE SERVIÇOS PÚBLICOS - SESP; CRIA OS CARGOS QUE INDICA, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/9/anexo-lei-2396-2007-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1419
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/10/anexo-lei-2395-2007-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.395, de 28 de junho de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "ORGANOGRAMA DA SECRETARIA EXECUTIVA DE PROGRAMAS SOCIAIS - SEPROS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/10/anexo-lei-2395-2007-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1423
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/11/anexo-lei-2387-2007-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.387, de 30 de maio de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "ANEXO-LEI-2387-2007-CABO-DE-SANTO AGOSTINHO-PE",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/11/anexo-lei-2387-2007-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1432
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/12/anaxo-lei-2384-2007-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 2.384, de 27 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "AUTORIZA O PODER EXECUTIVO A DESENVOLVER AÇÕES E APORTE DE CONTRAPARTIDA MUNICIPAL PARA IMPLEMENTAR O PROGRAMA CARTA DE CRÉDITO - RECURSOS FGTS NA MODALIDADE PRODUÇÃO DE UNIDADES HABITACIONAIS, OPERAÇÕES COLETIVAS, REGULAMENTADO PELA RESOLUÇÃO DO CON",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/12/anaxo-lei-2384-2007-cabodesantoagostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1434
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/13/anexo-lei-2381-2007-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 2.381, de 16 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "ESTABELECE A GRATUIDADE DE TRANSPORTE COLETIVO LOCAL PARA OS MEMBROS DO CONSELHO TUTELAR DA CRIANÇA E DO ADOLESCENTE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/13/anexo-lei-2381-2007-cabodesantoagostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1435
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/14/anexo-lei-2382-2007-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 2.382, de 16 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A OBRIGATORIEDADE AO PODER EXECUTIVO, QUANDO DO PLANTIO DE ÁRVORES, QUE NO MÍNIMO SEJA 40% DE ÁRVORES FRUTÍFERAS, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2007/14/anexo-lei-2382-2007-cabodesantoagostinho-pe.pdf",
+      "ano": 2007,
+      "norma": 1436
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/15/anexo-lei-2371-2006-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.371, de 29 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "ANEXO ÚNICO DA LEI Nº 2371 2006",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2006/15/anexo-lei-2371-2006-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2006,
+      "norma": 1445
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/16/anexo-lei-2356-2006-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.356, de 20 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "ANEXO-LEI-2356-2006-CABO-DE-SANTO AGOSTINHO-PE",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2006/16/anexo-lei-2356-2006-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2006,
+      "norma": 1458
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/17/anexo-lei-2346-2006-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.346, de 18 de setembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "ANEXO-LEI-2346-2006-CABO-DE-SANTO AGOSTINHO-PE",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2006/17/anexo-lei-2346-2006-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2006,
+      "norma": 1467
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/18/anexo-lei-2307-2005-cabo-de-santo-agostinho-pe_1.zip da norma Lei Ordinária nº 2.307, de 16 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Estrutura de Gestão da Câmara Municipal",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2005/18/anexo-lei-2307-2005-cabo-de-santo-agostinho-pe_1.zip",
+      "ano": 2005,
+      "norma": 1504
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/19/anexo-lei-2307-2005-cabo-de-santo-agostinho-pe_2.zip da norma Lei Ordinária nº 2.307, de 16 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Estrutura de Gestão da Câmara Municipal",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2005/19/anexo-lei-2307-2005-cabo-de-santo-agostinho-pe_2.zip",
+      "ano": 2005,
+      "norma": 1504
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/20/anexo_unico_-_lei_no_3786_2022_-_cabo_de_santo_agostinho-pe.pdf da norma Lei Ordinária nº 3.786, de 08 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Fica declarada de utilidade Pública",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2022/20/anexo_unico_-_lei_no_3786_2022_-_cabo_de_santo_agostinho-pe.pdf",
+      "ano": 2022,
+      "norma": 1900
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/errata_-_lei_ordinaria_no_3852_2023_cabo_de_santo_agostinho_pe.pdf da norma Lei Ordinária nº 3.852, de 02 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Na Matéria publicada no Diário Oficial dos Municípios do Estado de Pernambuco no dia 09/06/2023, Edição 3358.\r\n\r\nONDE SE LÊ:\r\n\r\nArt. 2º.......................",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2023/21/errata_-_lei_ordinaria_no_3852_2023_cabo_de_santo_agostinho_pe.pdf",
+      "ano": 2023,
+      "norma": 2054
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/22/anexo-lei-1938-2001-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 1.938, de 28 de setembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "ANEXO ÚNICO - QUADRO GERAL DOS CARGOS PARA PROVIMENTO EM COMISSÃO",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2001/22/anexo-lei-1938-2001-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2001,
+      "norma": 2149
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/23/anexo-lei-1922-2000-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 1.922, de 29 de dezembro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "PLANTA DE SITUAÇÃO",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2000/23/anexo-lei-1922-2000-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2000,
+      "norma": 2162
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/24/anexo-lei-1892-2000-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 1.892, de 30 de março de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "ALTERAÇÃO DO QUADRO I DO ANEXO I DA LEI 1760/97 E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2000/24/anexo-lei-1892-2000-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2000,
+      "norma": 2195
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/25/ord-1878-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.878, de 16 de novembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Medalha Vicente Yañes Pinzón para ser outorgada pessoas que haja se sobressaído nas atividades culturais, artísticas, tecnológicas ou que tenham prestada relevantes serviços ao município nos campos da educação, saúde pública e sua economia.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/25/ord-1878-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2207
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/26/ord-1877-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.877, de 16 de novembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Autoriza o Poder Executivo a celebrar convênios e outros instrumentos afins, a nível internacional, no sentido de inserir o Município do Cabo de Santo Agostinho no Programa Cidade Irmãs.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/26/ord-1877-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2208
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/27/ord-1876-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.876, de 15 de setembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A DENOMINAÇÃO DE RUA IRMÃ LÍDIA MARIA DE PAULA.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/27/ord-1876-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2209
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/28/ord-1875-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.875, de 08 de setembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE RUA AMBRÓSIO MARINHO FALCÃO A ATUAL RUA 35, NO LOTEAMENTO CIDADE GARAPU, NO CABO DE SANTO AGOSTINHO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/28/ord-1875-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2210
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/29/ord-1874-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.874, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE RUA ESTUDANTE RINALDO BONIFÁCIO, A RUA F, DO LOTEAMENTO BOM CONSELHO, EM PONTE DOS CARVALHOS, NESTE MUNICÍPIO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/29/ord-1874-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2211
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/30/ord-1873-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.873, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "DENOMINAÇÃO DA RUA DOMINGOS AFONSO FERREIRA PAIVA, A ATUAL RUA CH, QUADRA 36, NO LOTEAMENTO SANTO INÁCIO, VILA SANTO INÁCIO CABO DE SANTO AGOSTINHO, PE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/30/ord-1873-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2212
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/31/ord-1872-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.872, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "DÁ NOME DE RUA MANOEL FELIPE CORREIA, À ATUAL RUA DA UNIÃO, LOCALIZADA NO DISTRITO DE PONTO DOS CARVALHOS, DESTE MUNICÍPIO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/31/ord-1872-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2213
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/32/ord-1871-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.871, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA NOME DE RUAS EM ÁREA REMANESCENTE DO CONJUNTO HABITACIONAL PIRAPAMA - VILA COHAB.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/32/ord-1871-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2214
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/33/ord-1870-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.870, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE RUA NELSON MENDES DA SILVA A ATUAL RUA DA QUADRA 23, LOTEAMENTO SANTO INÁCIO, NESTA CIDADE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/33/ord-1870-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2215
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/34/ord-1869-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.869, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE ESCOLA VEREADOR JOÃO CIRÍACO DA SILVA, A ATUAL ESCOLA EM CONSTRUÇÃO NO TERMINAL DA RUA 34, BAIRRO DA CHARNECA, DESTA CIDADE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/34/ord-1869-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2216
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/35/ord-1868-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.868, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA NOME DA COMUNIDADE LOCALIZADA NO MUNICÍPIO DO CABO DE SANTO AGOSTINHO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/35/ord-1868-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2217
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/36/ord-1867-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.867, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A DENOMINAÇÃO DE NOME DE RUA NO MUNICÍPIO DO CABO E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/36/ord-1867-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2218
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/37/ord-1866-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.866, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA NOME DE RUA VILA IRMÃOS UNIDOS, MUNICÍPIO DO CABO DE SANTO AGOSTINHO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/37/ord-1866-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2219
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/38/ord-1865-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.865, de 26 de agosto de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "DÁ DENOMINAÇÃO AS AVENIDAS 1, 2 E 3 DO LOTEAMENTO CIDADE GARAPU.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/38/ord-1865-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2220
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/39/ord-1864-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.864, de 01 de setembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "CRIA O FUNDO DE AVAL DO MUNICÍPIO DE CABO DE SANTO AGOSTINHO E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/39/ord-1864-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2221
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/40/ord-1863-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.863, de 01 de setembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "ALTERA DENOMINAÇÃO DE COMUNIDADE LOCALIZADA NESTE MUNICÍPIO, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/40/ord-1863-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2229
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/41/ord-1859-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.859, de 25 de maio de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "INCLUI ENTIDADES SEM FINS LUCRATIVOS NO ANEXO V DA LEI Nº 1846/98, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/41/ord-1859-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2233
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/42/ord-1858-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.858, de 13 de maio de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "REVOGA OS INCISOS XXV E XXXI DO ARTIGO 66, DA LEI ORGÂNICA DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/42/ord-1858-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2234
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/43/ord-1857-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.857, de 30 de abril de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE RUA VEREADOR BENEDITO ALVES DOS SANTOS, A ATUAL PARALELA BC, NO LOTEAMENTO JARDIM SANTO INÁCIO, NA VILA SANTO INÁCIO, CABO DE SANTO AGOSTINHO- PE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/43/ord-1857-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2235
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/44/ord-1856-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.856, de 13 de abril de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE RUA LOTEAMENTO CIDADE GARAPU.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/44/ord-1856-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2236
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/45/ord-1855-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.855, de 13 de abril de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "DÁ NOME DE RUA.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/45/ord-1855-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2237
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/46/ord-1854-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.854, de 13 de abril de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "DÁ NOME DE AVENIDA, CONFORME ESPECIFICA.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/46/ord-1854-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2238
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/47/ord-1853-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.853, de 13 de abril de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE RUA ANTÔNIO HONORATO FILHO, A ATUAL RUA CENTRAL, LOTEAMENTO JARDIM VERTENTE, EM PONTEZINHA, DESTE MUNICÍPIO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/47/ord-1853-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2239
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/48/ord-1852-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.852, de 09 de março de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE VEREADOR COSME BEZERRA DOS SANTOS, O TÚNEL DA BR-101-SUL, EM PONTO DOS CARVALHOS DESTE MUNICÍPIO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/48/ord-1852-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2240
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/49/ord-1851-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.851, de 09 de março de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "DÁ NOME A RUA, CONFORME ESPECIFICA.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/49/ord-1851-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2241
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/50/ord-1850-1999-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.850, de 09 de março de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "DÁ NOME A RUA, CONFORME ESPECIFICA.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1999/50/ord-1850-1999-cabodesantoagostinho-pe.pdf",
+      "ano": 1999,
+      "norma": 2242
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/51/ord-1842-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.842, de 24 de novembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "DECLARA DE UTILIDADE PÚBLICA A LOJA MAÇÔNICA ALVORADA DA PAZ, Nº 10, NESTA CIDADE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/51/ord-1842-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2250
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/52/ord-1841-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.841, de 24 de novembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "DECLARA DE UTILIDADE PÚBLICA O GRUPO ESPAÇO CULTURAL QUESTIONADOR.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/52/ord-1841-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2251
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/53/ord-1840-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.840, de 24 de novembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE RUA JOSÉ JOAQUIM DO NASCIMENTO A ATUAL RUA 02, NA CHERNEQUINHA, VILA DA UNIÃO, CABO DE SANTO AGOSTINHO PE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/53/ord-1840-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2252
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/54/ord-1838-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.838, de 24 de novembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "DÁ NOME A ESCOLA PÚBLICA A SER CONSTRUÍDA NO CONJUNTO RESIDENCIAL PIRAPAMA (VILA DA COHAB), NA RUA 47.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/54/ord-1838-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2254
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/55/ord-1837-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.837, de 24 de novembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "DENOMINA DE ESCOLA MUNICIPAL DR. MARINALDO BURÉGIO DE LIMA, A NOVA ESCOLA A SER CONSTRUÍDA NA AV. HISTORIADOR PEREIRA DA COSTA, EM FRENTE À ESCOLA EPITÁCIO PESSOA, NESTA CIDADE.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/55/ord-1837-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2255
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/56/anexo-3112-16.pdf da norma Lei Ordinária nº 3.112, de 23 de março de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "CARGO - FAIXA - NÍVEL",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2016/56/anexo-3112-16.pdf",
+      "ano": 2016,
+      "norma": 500
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/57/anexo_2951-13.pdf da norma Lei Ordinária nº 2.951, de 16 de setembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2013/57/anexo_2951-13.pdf",
+      "ano": 2013,
+      "norma": 780
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/59/3559_-_tornar_sem_efeito.pdf da norma Lei Ordinária nº 3.559, de 06 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Na publicação do Diário Oficial dos Municípios do Estado de Pernambuco do dia 11 de novembro de 2020, Edição 2706, Código Identificador: E400E7C6.\r\nTornar sem efeito a publicação da Lei nº 3.559, de 06 de novembro de 2020.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2020/59/3559_-_tornar_sem_efeito.pdf",
+      "ano": 2020,
+      "norma": 42
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/60/3567_-_tornar_sem_efeito.pdf da norma Lei Ordinária nº 3.567, de 10 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Na publicação do Diário Oficial dos Municípios do Estado de Pernambuco do dia 11 de novembro de 2020, Edição 2706, Código Identificador: E5E8FD7E\r\nTornar sem efeito a publicação da Lei nº 3.567, de 10 de novembro de 2020.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2020/60/3567_-_tornar_sem_efeito.pdf",
+      "ano": 2020,
+      "norma": 2690
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1980/61/anexos_da_lei_1264_1980.pdf da norma Lei Ordinária nº 1.264, de 25 de novembro de 1980",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1980/61/anexos_da_lei_1264_1980.pdf",
+      "ano": 1980,
+      "norma": 2077
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/63/3430-19.pdf da norma Lei Ordinária nº 3.430, de 10 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2019/63/3430-19.pdf",
+      "ano": 2019,
+      "norma": 154
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/64/errata_-_3432-19.pdf da norma Lei Ordinária nº 3.432, de 21 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2019/64/errata_-_3432-19.pdf",
+      "ano": 2019,
+      "norma": 152
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/65/errata_-_3344-17.pdf da norma Lei Ordinária nº 3.344, de 22 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Lei decorrente do Projeto de Lei à Sanção nº 152/2017, originário do Projeto de Lei de autoria do vereador Neemias José Silva, partido PV.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2017/65/errata_-_3344-17.pdf",
+      "ano": 2017,
+      "norma": 246
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/dec._2745-25.pdf da norma Decreto nº 2.745, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "JUSTIFICATIVA PARA INDICAÇÃO DE SUPERÁVIT FINANCEIRO",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2025/66/dec._2745-25.pdf",
+      "ano": 2025,
+      "norma": 2738
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1976/68/lei-1157-1976.pdf da norma Lei Ordinária nº 1.157, de 31 de maio de 1976",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1976/68/lei-1157-1976.pdf",
+      "ano": 1976,
+      "norma": 4167
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/69/anexo_-lei-_ord_1729-_1995.pdf da norma Lei Ordinária nº 1.729, de 21 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I DA LEI Nº 1.729/95 ART. 2ª",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1995/69/anexo_-lei-_ord_1729-_1995.pdf",
+      "ano": 1995,
+      "norma": 2365
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/70/ord-1726-1995-cabodesantoagostinho-pe_1.pdf da norma Lei Ordinária nº 1.726, de 04 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE CABO DE SANTO AGOSTINHO PARA O EXERCÍCIO FINANCEIRO DE 1996.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1995/70/ord-1726-1995-cabodesantoagostinho-pe_1.pdf",
+      "ano": 1995,
+      "norma": 2368
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1979/71/lei-1237-1979-anexo.pdf da norma Lei Ordinária nº 1.237, de 26 de novembro de 1979",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1979/71/lei-1237-1979-anexo.pdf",
+      "ano": 1979,
+      "norma": 4481
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/72/ord-1756-1996-cabodesantoagostinho-pe_1.pdf da norma Lei Ordinária nº 1.756, de 20 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "LEI 1756/1996",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1996/72/ord-1756-1996-cabodesantoagostinho-pe_1.pdf",
+      "ano": 1996,
+      "norma": 2338
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/73/ord-1753-1996-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.753, de 20 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "LEI ORD 1753/-1996",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1996/73/ord-1753-1996-cabodesantoagostinho-pe.pdf",
+      "ano": 1996,
+      "norma": 2341
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/74/anexo-ord-1738-1996-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.738, de 17 de junho de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "LEI ORD 1738-1996",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1996/74/anexo-ord-1738-1996-cabodesantoagostinho-pe.pdf",
+      "ano": 1996,
+      "norma": 2356
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/75/lei-1800-1997-cabo-de-santo-agostinho-pe.pdf da norma Lei Ordinária nº 1.800, de 24 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "LEI 1800 DE 1997.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1997/75/lei-1800-1997-cabo-de-santo-agostinho-pe.pdf",
+      "ano": 1997,
+      "norma": 2336
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/76/anexo-ord-1769-1997-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.769, de 11 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "LEI ORDIÁRIA Nº 1.769 11 DE JUNHO DE 1997",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1997/76/anexo-ord-1769-1997-cabodesantoagostinho-pe.pdf",
+      "ano": 1997,
+      "norma": 2324
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/77/anexo-ord-1768-1997-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.768, de 11 de junho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Lei Ordinária nº 1.768, de 11 de junho de 199",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1997/77/anexo-ord-1768-1997-cabodesantoagostinho-pe.pdf",
+      "ano": 1997,
+      "norma": 2325
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/78/anexo-lei-2275-2005.pdf da norma Lei Ordinária nº 2.275, de 03 de outubro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2005/78/anexo-lei-2275-2005.pdf",
+      "ano": 2005,
+      "norma": 1535
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/79/anexo-lei-2277-2005-cabo-de-santo_agostinho-pe.pdf da norma Lei Ordinária nº 2.277, de 26 de outubro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2005/79/anexo-lei-2277-2005-cabo-de-santo_agostinho-pe.pdf",
+      "ano": 2005,
+      "norma": 1533
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/80/anexo_-_ord-1759-1997-cabodesantoagostinho-pe_2.pdf da norma Lei Ordinária nº 1.759, de 10 de janeiro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "LEI ORDINÁRIA 1.759 - 1997",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1997/80/anexo_-_ord-1759-1997-cabodesantoagostinho-pe_2.pdf",
+      "ano": 1997,
+      "norma": 2334
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/81/anexo-ord-1806-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.806, de 06 de janeiro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "COMPOSIÇÃO DO ACERVO",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/81/anexo-ord-1806-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2285
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/82/anexo-ord-1818-1998-cabodesantoagostinho-pe_1.pdf da norma Lei Ordinária nº 1.818, de 30 de maio de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "PRIORIDADES E METAS PARA O EXERCÍCIO DE 1999.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/82/anexo-ord-1818-1998-cabodesantoagostinho-pe_1.pdf",
+      "ano": 1998,
+      "norma": 2273
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1988/83/anexo-_lei_ordinaria_n_1820_1998_-_leis.org.pdf da norma Lei Ordinária nº 1.819, de 01 de julho de 1988",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "II - QUADRO DE CARGOS COMISSIONADOS DA ESTRUTURA BÁSICA.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1988/83/anexo-_lei_ordinaria_n_1820_1998_-_leis.org.pdf",
+      "ano": 1988,
+      "norma": 4728
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/84/anexo-ord-1846-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.846, de 16 de dezembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "ORÇAMENTO ANUAL PARA O EXERCÍCIO DE 1999.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/84/anexo-ord-1846-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2246
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/85/anexo-ord-1847-1998-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.847, de 30 de dezembro de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "FATOR DE COLETA DE LIXO DOMICILIAR",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1998/85/anexo-ord-1847-1998-cabodesantoagostinho-pe.pdf",
+      "ano": 1998,
+      "norma": 2245
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/87/anexo-1-da-lei-2589-2010.pdf da norma Lei Ordinária nº 2.589, de 10 de setembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2010/87/anexo-1-da-lei-2589-2010.pdf",
+      "ano": 2010,
+      "norma": 1239
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/88/anexo-unico-lei-3548-2020-leis.org.pdf da norma Lei Ordinária nº 3.548, de 04 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2020/88/anexo-unico-lei-3548-2020-leis.org.pdf",
+      "ano": 2020,
+      "norma": 496
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1989/89/anexo-da-lei-1539-1989.pdf da norma Lei Ordinária nº 1.539, de 13 de novembro de 1989",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1989/89/anexo-da-lei-1539-1989.pdf",
+      "ano": 1989,
+      "norma": 4842
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/90/anexo-ord-1717-1995-cabodesantoagostinho-pe_1.pdf da norma Lei Ordinária nº 1.717, de 12 de junho de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "DAS DIRETRIZES ORÇAMENTÁRIAS PARA O EXERCÍCIO DE 1996.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1995/90/anexo-ord-1717-1995-cabodesantoagostinho-pe_1.pdf",
+      "ano": 1995,
+      "norma": 2377
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/91/anexo-ord-1760-1997-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.760, de 10 de janeiro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE CARGO DE PESSOAL.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1997/91/anexo-ord-1760-1997-cabodesantoagostinho-pe.pdf",
+      "ano": 1997,
+      "norma": 2333
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/92/anexo-ord-1772-1997-cabodesantoagostinho-pe.pdf da norma Lei Ordinária nº 1.772, de 22 de agosto de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "DESCRIÇÃO DO PROGRAMA DE TRABALHO.",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/1997/92/anexo-ord-1772-1997-cabodesantoagostinho-pe.pdf",
+      "ano": 1997,
+      "norma": 2321
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/93/anexos-lei-2343-2006.pdf da norma Lei Ordinária nº 2.343, de 11 de julho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/anexonormajuridica/2006/93/anexos-lei-2343-2006.pdf",
+      "ano": 2006,
+      "norma": 1470
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/9b30a37778ca9cd1ee27c87573ce61bf1b668bad9bb2887ee179b20e0f2ad3c4.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a9856fc37fb7939817e24927be0ff5d9537ff9e6bfad84c713119d2d81df7ad9",
+      "capturado_em": "2026-10-20T20:50:32.722663",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.cabodesantoagostinho.pe.leg.br/9b30a37778ca9cd1ee27c87573ce61bf1b668bad9bb2887ee179b20e0f2ad3c4.json"
+    }
+  ]
+}

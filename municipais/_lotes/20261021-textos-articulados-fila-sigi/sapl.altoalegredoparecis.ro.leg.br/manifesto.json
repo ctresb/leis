@@ -1,0 +1,42 @@
+{
+  "host": "sapl.altoalegredoparecis.ro.leg.br",
+  "metadados_unicos_observados": 20,
+  "total_api_declarado": 20,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoalegredoparecis.ro.leg.br/969443e5df334eb5bd4f45e9d4e830003e384ff39590c7e17cb492ad6ed3417c.json",
+    "url": "https://sapl.altoalegredoparecis.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.altoalegredoparecis.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "4886eb0a9d94e1d5078867774f55896af7b24bad7744fcf5a2950568580da284",
+    "bytes": 2189,
+    "capturado_em": "2026-10-21T05:27:28.568491-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoalegredoparecis.ro.leg.br/56f50b653148cc09c7540ceddd3a6ae41ac51f612c3993b1ace5da0f4a21699b.json",
+    "url": "https://sapl.altoalegredoparecis.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.altoalegredoparecis.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "4ba05f9bbb8ca55274e1c96cbaa144d3c380331d4c97ca9321163f05fe6a5967",
+    "bytes": 911,
+    "capturado_em": "2026-10-21T05:27:26.943408-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.altoalegredoparecis.ro.leg.br/bf662189cfeb3ee2261a77a3c4b1ffe47dd56b0e32b87c124ce6b968e79c1e3d.json",
+      "url": "https://sapl.altoalegredoparecis.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.altoalegredoparecis.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5f5074f57a9c71da0a415082ae0ece9d8cb16c12ae87106a5763be67a45f2a8d",
+      "bytes": 13489,
+      "capturado_em": "2026-10-21T05:27:31.086877-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

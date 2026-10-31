@@ -1,0 +1,63 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 0401/2026"
+uf: "PA"
+municipio: "ITAITUBA"
+tipo: "Decreto"
+numero: "0401"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 29/06/2026"
+data_publicacao: 2026-06-29
+codigo_identificador: "BE1C3EAD"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117112_2026-06-26_e003d06fd7a071466ec89a05ddc62ef4.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 0401/2026
+
+DECRETO MUNICIPAL Nº 0401/2026
+NICODEMOS ALVES DE AGUIAR, Prefeito Municipal de
+Itaituba, Estado do Pará, no uso de suas atribuições legais e
+Constitucionais, etc.,
+Considerando o que dispõe a Lei Municipal nº 2682/13, de 10 de
+outubro de 2013, e suas alterações, que dispõe sobre o Plano de
+Cargos, Carreira e Remuneração dos Servidores da Assistência
+Pública à Saúde do Município de Itaituba;
+D E C R E T A:
+Artigo 1º - NOMEAR, a partir de 03 de junho de 2026, em caráter
+efetivo, para exercer as funções do cargo de MICROSCOPISTA ZONA URBANA, Classe/Nível: A/III, do I - Grupo Ocupacional
+Básico da Saúde, do quadro permanente do Plano de Cargos, Carreira
+e Remuneração dos Servidores da Assistência Pública à Saúde do
+Município de Itaituba, com lotação na SECRETARIA MUNICIPAL
+DE SAÚDE, face a habilitação em Concurso Público Edital nº
+001/2024.
+Classificados:
+Marcos Douglas Barbosa Paiva
+Caio Rodrigo Correa Sousa
+Lidiane Raquel de Oliveira Sousa
+
+Colocação
+
+Sandra de Sousa Pereira
+Lucia Helena Lopes dos Santos
+
+Colocação
+1º
+2º
+3º
+
+Artigo 2º - Este Decreto entrará em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+
+Dê-se Ciência,
+Publique-se,
+Cumpra-se.
+GABINETE DO PREFEITO MUNICIPAL DE ITAITUBA,
+ESTADO DO PARÁ, em 22 de maio de 2026.
+NICODEMOS ALVES DE AGUIAR
+Prefeito Municipal
+DIEGO JOSÉ MOTA FREITAS
+Secretário Municipal de Administração
+Publicado por:
+Diego William Oliveira Nascimento

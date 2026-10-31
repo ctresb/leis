@@ -1,0 +1,42 @@
+{
+  "host": "sapl.carapebus.rj.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carapebus.rj.leg.br/982bfde4554dd9a181b206de591e5329d73713362b3ec24b4d24470f3d8f0044.json",
+    "url": "https://sapl.carapebus.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.carapebus.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7e1b603c836b07c085767090cf9813bcea3fdd7d0c4abb30b480a418f8dee103",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:32:38.705110-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carapebus.rj.leg.br/814f81a0a5bf9892ef82cb0e2facc7734ee4a55a98f67e0502308e20bf65e693.json",
+    "url": "https://sapl.carapebus.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.carapebus.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0ec7fbe97647bb80f9e87fae81dadc8e6eb4ebaea643900226a76e26bf1e6edf",
+    "bytes": 724,
+    "capturado_em": "2026-10-27T22:32:37.791081-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carapebus.rj.leg.br/ae6940abe76cc1d7a2ed54792982fa0f2c10e5654f053f397ac5eb252b190d51.json",
+      "url": "https://sapl.carapebus.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.carapebus.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4753cd0e8418dd4310635c6fb3d72227ad6dba5a10a0f08dcb6e8f561a657718",
+      "bytes": 1228,
+      "capturado_em": "2026-10-27T22:32:41.742695-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

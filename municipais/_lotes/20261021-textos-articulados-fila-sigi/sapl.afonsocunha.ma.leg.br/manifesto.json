@@ -1,0 +1,42 @@
+{
+  "host": "sapl.afonsocunha.ma.leg.br",
+  "metadados_unicos_observados": 6,
+  "total_api_declarado": 6,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.afonsocunha.ma.leg.br/4c5cf10414cdc5efc09d157688534b37219079e73cf021018e8cc115a797f199.json",
+    "url": "https://sapl.afonsocunha.ma.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.afonsocunha.ma.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9a07265cd0ab69225270bd05a1e9c0b7c0cd657c72891b5b867766b3e0944bf8",
+    "bytes": 955,
+    "capturado_em": "2026-10-21T04:59:37.479318-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.afonsocunha.ma.leg.br/dd8b522a8f3a8f935d8a0eee1ea1b2c3a1a20838e10a3a0cf004c11a8bc19639.json",
+    "url": "https://sapl.afonsocunha.ma.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.afonsocunha.ma.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "dfc50c60b84a738e2697b0adc79f46fe63f7539839e808c929fd57fe5ca56333",
+    "bytes": 832,
+    "capturado_em": "2026-10-21T04:59:36.049421-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.afonsocunha.ma.leg.br/82d178dc6c46f67e8451ffc9a5edcb6df9fdbd72390aaae905ef6ce588c1215c.json",
+      "url": "https://sapl.afonsocunha.ma.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.afonsocunha.ma.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "198358b7c94bd5b8554b4116f0298b2e8723b64df84fb992036e6e4fb9450c93",
+      "bytes": 3408,
+      "capturado_em": "2026-10-21T04:59:40.301455-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

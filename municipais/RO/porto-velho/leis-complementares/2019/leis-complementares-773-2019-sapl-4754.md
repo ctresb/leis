@@ -1,0 +1,232 @@
+---
+titulo: "Lei Complementar nº 773, de 12 de julho de 2019"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "773"
+data: "2019-07-12"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4754"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/529/text"
+sha256_fonte: "29b0e76cff39932d1168cedefd7c9f8faf92661f4fe312785a7bfebe010453d2"
+sha256_texto: "8285ccc86979b8f5d3f5d85a476cc7acd70d1bc06bf552f978a28c4ae4672713"
+capturado_em_fonte: "2026-10-21T07:24:20.380395-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Complementar nº 773, de 12 de julho de 2019
+
+“Autoriza o Poder Executivo a outorgar concessão de serviço público de Estacionamento Rotativo Pago para veículos em vias e logradouros públicos, e dá outras providências.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas nos incisos IV do artigo 87, da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte,  
+  
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Esta Lei disciplina o Estacionamento Rotativo Pago para veículos automotores de passageiros, e de cargas com capacidade de até 02 (duas) toneladas em vias e logradouros públicos, conforme áreas definidas em regulamento, denominadas “Zona Azul PVH”.
+
+
+Art. 2º.
+
+Fica o Poder Executivo autorizado a outorgar a terceiros, concessão onerosa para a gestão das áreas de Estacionamento Rotativo Pago, pelo prazo de 10 (dez) anos, podendo ser prorrogado, mediante processo de licitação na modalidade de Concorrência Pública, nos termos da Lei Federal n° 8.666/93.
+
+
+Parágrafo único
+
+A Concessionária repassará ao Poder Concedente o percentual definido no certame, obedecido ao mínimo de 08% (oito por cento) da receita bruta auferida com a exploração da concessão do serviço.
+
+
+Art. 3º.
+
+A cobrança referente à utilização do Estacionamento Rotativo Pago deverá ser feito por meio eletrônico.
+
+
+§ 1º
+
+O valor da tarifa a ser paga deverá ser estabelecida por Ato do Chefe do Poder Executivo.
+
+
+§ 2º
+
+Para fins de estipulação da tarifa, considerar-se-ão os seguintes fatores:
+
+
+I –
+
+o tempo de duração do estacionamento;
+
+
+II –
+
+as características dos veículos;
+
+
+III –
+
+as condições do local.
+
+
+Art. 4º.
+
+O estacionamento nas áreas de abrangência da "Zona Azul PVH" será permitido nos horários, vias e logradouros a serem definidos por ato do Chefe do Executivo Municipal.
+
+
+§ 1º
+
+O estacionamento será isento de pagamento aos sábados – após as 14 horas, domingos e feriados, e nas demais horas do dia que antecederem ou ultrapassarem os períodos expressos no caput deste artigo.
+
+
+§ 2º
+
+As áreas de abrangência da “Zona Azul PVH”, serão definidas em Regulamento.
+
+
+Art. 5º.
+
+O tempo máximo de permanência na vaga constará nas placas de sinalização de regulamentação, sendo obrigatória a retirada do veículo pelo condutor, quando expirado o tempo permitido para uso da vaga.
+
+
+Parágrafo único
+
+Excedido o tempo de permanência previsto no caput deste artigo, poderá ocorrer a remoção do veículo.
+
+
+Art. 6º.
+
+Constituem infrações ao Estacionamento Rotativo Pago:
+
+
+I –
+
+estacionar o veículo nas áreas regulamentadas sem a apresentação do comprovante de pagamento correspondente ao tempo de estacionamento;
+
+
+II –
+
+utilizar o comprovante de pagamento de forma incorreta contrariando as instruções nele inseridas;
+
+
+III –
+
+ultrapassar o tempo máximo permitido de estacionamento na vaga;
+
+
+IV –
+
+colocar o comprovante de tempo de estacionamento em local não visível;
+
+
+V –
+
+estacionar em local demarcado por faixa amarela ou fora do espaço delimitado para a vaga.
+
+
+VI –
+
+trocar o comprovante de pagamento, depois de expirado o tempo regular para permanência na mesma vaga.
+
+
+Parágrafo único
+
+A permanência do condutor ou de passageiro no interior do veículo não desobriga o uso do comprovante de tempo de estacionamento.
+
+
+Art. 7º.
+
+O usuário que estacionar em desacordo com as disposições da presente Lei, terá 10 (dez) minutos de tolerância para a regularização do estacionamento
+
+
+§ 1º
+
+Não regularizado no prazo previsto no caput deste artigo, o usuário será notificado e terá o prazo de 03 (três) dias úteis para a regularização, mediante o pagamento do valor equivalente a 10 (dez) horas de estacionamento.
+
+
+§ 2º
+
+O não cumprimento do disposto no § 1º deste artigo, acarretará na aplicação de multa de trânsito pela SEMTRAN, nos termos do artigo 181, XVII, do CTB.
+
+
+Art. 8º.
+
+A utilização de vagas de Estacionamento Rotativo Pago para colocação de coletores de resíduos deverá ser requerida junto a SEMTRAN, com antecedência mínima de 03 (três) dias.
+
+
+Art. 9º.
+
+Fica destinado, dentre as vagas de Estacionamento Rotativo Pago, o percentual de:
+
+
+I –
+
+5% (cinco por cento) das vagas para serem utilizadas exclusivamente por idosos, conforme Resolução do CONTRAN nº 303, de 18 de dezembro de 2008;
+
+
+II –
+
+2% (dois por cento) das vagas para serem utilizadas exclusivamente por pessoas portadoras de necessidades especiais, conforme Resolução do CONTRAN nº 304, de 18 de dezembro de 2008;
+
+
+III –
+
+1% (um por cento) das vagas para serem utilizadas exclusivamente por gestantes durante todo o período gestacional.
+
+
+§ 1º
+
+A reserva de vaga para pessoas idosas, portadoras de necessidades especiais e gestantes não as isenta do pagamento do estacionamento rotativo.
+
+
+§ 2º
+
+Ficarão sujeitos à aplicação das penalidades previstas no artigo 181, inciso XVII do Código de Trânsito Brasileiro, os veículos que, mesmo contendo o selo de identificação, definido pela Resolução nº 303/08 e nº 304/08, ambas do CONTRAN, não estejam sendo conduzidos, ou conduzindo pessoas idosas ou portadoras de necessidades especiais.
+
+
+§ 3º
+
+VETADO.
+
+
+Art. 10.
+
+O uso de vagas por tempo superior ao limite estabelecido na sinalização para atendimento de serviços de utilidade pública, definidos em regulamento, dependerá de autorização especial da SEMTRAN, requerido com antecedência de 03 (três) dias úteis, excetuados os casos de serviços emergenciais que ficam dispensados de autorização prévia.
+
+
+Art. 11.
+
+À Secretaria Municipal de Trânsito, Mobilidade e Transporte (SEMTRAN), por intermédio do Departamento de Trânsito, compete organizar e coordenar as atividades de fiscalização da concessão.
+
+
+Parágrafo único
+
+VETADO
+
+
+Art. 12.
+
+Ao Município de Porto Velho não caberá qualquer responsabilidade por acidentes, danos, furtos ou prejuízos de qualquer natureza que os veículos dos usuários venham a sofrer nos locais de estacionamento.
+
+
+Art. 13.
+
+O Poder Executivo Municipal regulamentará, no que couber, às disposições desta Lei.
+
+
+Art. 14.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, revogam-se as disposições em contrário, em especial a Lei Complementar nº 131, de 27 de dezembro de 2001; o inciso II do art. 15, da Lei Complementar 410, de 27 de dezembro de 2010.
+
+
+**HILDON DE LIMA CHAVES**  
+  
+Prefeito
+

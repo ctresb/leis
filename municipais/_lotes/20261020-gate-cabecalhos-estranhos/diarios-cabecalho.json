@@ -1,0 +1,246 @@
+[
+  {
+    "path": "municipais/PR/tomazina/leis-ordinarias/2024/leis-ordinarias-624-2024-sapl-684.md",
+    "sha256": "edfbc91b63132999493c79e34ddc62aa91ffe587e3a35f308af45ff78d6ffbf5",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e63907ce514a5969cf2563fd67c8185bb075deae3f3235ea07ec2a77da16031e.json.gz",
+    "hits": [
+      {
+        "offset": 3910,
+        "trecho": "Diário Oficial e pelo endereço eletrônico indicado ao"
+      }
+    ],
+    "paginas": 2
+  },
+  {
+    "path": "municipais/RN/cerro-cora/leis-ordinarias/2023/leis-ordinarias-994-2023-sapl-508.md",
+    "sha256": "ca00c3e6d98e9a31e396024141ea3f86b8dea35d9182459f2f4eb8c956fdbc98",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c16de8e800ecb666264adf989475db329fcfdc4b11ed2a7361009397a78001d1.json.gz",
+    "hits": [
+      {
+        "offset": 17867,
+        "trecho": "Diário Oficial dos Municípios e afixado nos murais de cada"
+      }
+    ],
+    "paginas": 9
+  },
+  {
+    "path": "municipais/RN/parnamirim/leis-ordinarias/2025/leis-ordinarias-2645-2025-sapl-380.md",
+    "sha256": "fef7a26675e06a5592ef41688ce65d75df682d90be424bdd6f97edde05ad5547",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/22b6ca43520fec7efe63ba1656fbdc0bf20f336a1f0c538e59a08fbb2efbb80b.json.gz",
+    "hits": [
+      {
+        "offset": 7765,
+        "trecho": "                                                         Diário Oficial do Município de Parnamirim/RN                                       Páginalojas,"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RR/boa-vista/emendas-lei-organica/2023/emendas-lei-organica-23-2023-sapl-3960.md",
+    "sha256": "585612d5d59f9229a93eeffe11540993a1fe69aad7be44a5cc38b016b86c0415",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/448238ff3fbeb245ba7894a99d554b419789dc20c7cde8d257f85ca990e869ea.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO OFICIAL DO MUNICÍPIO DE BOA VISTA - Nº 5920                                                                        02 de Agosto de 2023"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RR/boa-vista/emendas-lei-organica/2025/emendas-lei-organica-25-2025-sapl-4945.md",
+    "sha256": "b7214f257e0d44d32625d6917df125791276e5d8ab8a3fce8c2612282bea3e3d",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/aa64fd76b98d6ee900f6a68ad2dc6a345d756644e03ffe4cefee26e865119f8a.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO OFICIAL DO MUNICÍPIO DE BOA VISTA - Nº 6395                                                 24 de Julho de 2025"
+      },
+      {
+        "offset": 7343,
+        "trecho": "\fDIÁRIO OFICIAL DO MUNICÍPIO DE BOA VISTA - Nº 6395                                               24 de Julho de 2025"
+      }
+    ],
+    "paginas": 2
+  },
+  {
+    "path": "municipais/PR/santa-lucia/leis-ordinarias/2023/leis-ordinarias-1134-2023-sapl-1143.md",
+    "sha256": "f190c54bda33ffbaef8c80169b827eec2251d50192bbeed14152e9094e11d055",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a9d99ed9fbeadb0be83a27184001dbf10d19c3efac457ebd9efc51435f812cc1.json.gz",
+    "hits": [
+      {
+        "offset": 44059,
+        "trecho": "                                  Diário Oficial do Município), devendo atingir a nota mínima de"
+      }
+    ],
+    "paginas": 19
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-complementares/2026/leis-complementares-398-2026-sapl-137.md",
+    "sha256": "78cf6300f25c478d3ee5ff4143cb0f9d0089dcecf68e1723cb4f439e5bc240cb",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/93c9595ba60b34990e7af7ea06cf16cf583325ab0e05f39ec0ab5d7a281a3cbd.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                                 OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2025/leis-ordinarias-1 773-2025-sapl-118.md",
+    "sha256": "fa2e2fce80036c4616397d947e718deb191a0ec03cac3eff6a03037e004bff7b",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9f315c6729a6c9e7828c35ef656a59e802c3598d268647f1421c29931a829926.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                            OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2025/leis-ordinarias-1 774-2025-sapl-119.md",
+    "sha256": "0719c19826c00e901b4146f1a061381ed8f84fea1fb712bb63bf478a64351d15",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/482b1f8ed74c822a33d9e43b26cbed97fc5b8d6e8177f81643b0f7a0a0d2ba56.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "   DIÁRIO                                                                OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2025/leis-ordinarias-1 775-2025-sapl-120.md",
+    "sha256": "9c8cf16aa84068b41d80ff56956e6ff436acb58b9ceee2f451d6a24472538892",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8b16c1cd7002ee88e316952ecd67ead1f122ef03f611639e34349dabf1a5cef3.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "  DIÁRIO                                                                  OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2025/leis-ordinarias-1 778-2025-sapl-123.md",
+    "sha256": "a61b92c0cb2326426f363d8551239738c7a4049c5dfba0fe9ad81768f72e6bc8",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1796d6b873e62418fbc73dd3304040fabf298ba64c00d79ec70e65961c9039d1.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                              OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2025/leis-ordinarias-1 782-2025-sapl-91.md",
+    "sha256": "e5207f7f5a58b49e37eba44280276def0643cb484dbb1e9f6d2a70ae8cde7ca6",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/fd0eb1973afe461a54588c9d122a56733850d2a0b4e81b4f3aea6ec4502627d6.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                                   OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2025/leis-ordinarias-1 785-2025-sapl-129.md",
+    "sha256": "141b3b8cd8a997aa878a815dd653d3427ab3312e968006d5595efc98be159ab4",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e37882afb14b4578c1d32a5e4ba67dfc6ff3ced8b430b94229acbe36503012c4.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                            OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 795-2026-sapl-99.md",
+    "sha256": "e9ad0f89e0d6d37a85db2447e1768a855f86544c5319ea125d5bd936d9f4e8b7",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5de8fd343f3da047220a34c289836e70ec062bb8ccc519bc18825d2c6dc0b9ba.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                            OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 797-2026-sapl-101.md",
+    "sha256": "bff64224b703569756d9886f05d78f25da318c2b75ae20c464ca6341d4df9745",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c51eaf92c794082fa5bd2f930e0b64529ce71bfa7cbebb86475ba07f07243897.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "  DIÁRIO                                                               OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 798-2026-sapl-102.md",
+    "sha256": "fa287a7b918c2855dcca951f674f19b448d2dd82f9d0cfb507567a3ee2db8f3d",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2cf9ab4940aa3b128cec3ffe50e4ece940246afc7bff460975702fefddf72e65.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                            OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 801-2026-sapl-107.md",
+    "sha256": "b6af2f23e888d0e140c78f74451bb7253ddad9b50bf9b2e5e17b8057619ded03",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4a209c1541368c279fe035000866c9c2beca4624a352acb887e6a1c1580bdbcb.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                             OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 804-2026-sapl-105.md",
+    "sha256": "22934908c6beb155261350fb35d09e47eecdd3b6c3d38d06d0a8d7b5d9815aeb",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e184774258b4c04629f54d07eb8f680073e00cbb923e4eb901140e7a7afafa92.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                            OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 809-2026-sapl-133.md",
+    "sha256": "8b367091fb1d06017b4d478b528ff4321086dfc66f2bc92beff1747313ebd840",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d0fb5b6e220498b9385c20c96d7cac03318028763e50d2adf58e9ec90622a816.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                                 OFICIAL"
+      }
+    ],
+    "paginas": 1
+  },
+  {
+    "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 810-2026-sapl-134.md",
+    "sha256": "915e38866e98e18d34658e8bf2829a0706c4b9aba320e744bade25e32e13ea18",
+    "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ea53a571c8deded8dabb7ea600e8079171805ef3a395e24574ef0e3844c54853.json.gz",
+    "hits": [
+      {
+        "offset": 0,
+        "trecho": "DIÁRIO                                                                 OFICIAL"
+      }
+    ],
+    "paginas": 1
+  }
+]

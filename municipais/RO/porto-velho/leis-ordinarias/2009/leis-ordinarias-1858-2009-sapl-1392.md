@@ -1,0 +1,320 @@
+---
+titulo: "Lei nº 1.858, de 22 de dezembro de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1858"
+data: "2009-12-22"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2017-12-29; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1392"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1873/text"
+sha256_fonte: "60086cf90baf08a613a787f037cb267da470e61f85443e32c92cf128ad17aab3"
+sha256_texto: "8ae3238784e5187b93a87b5be6170c1e3f1f18ccd2f411466f530acdaeff93b3"
+capturado_em_fonte: "2026-10-27T21:19:13.146954-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.858, de 22 de dezembro de 2009
+
+“Cria o Programa ‘Desperta Porto Velho’, que estabelece Corredores Culturais nos Circuitos dos Blocos Carnavalescos, e dá outras providências”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe confere o inciso IV, do artigo 87, da Lei Orgânica do
+
+Município de Porto Velho,
+
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+**Art. 1º.** Fica criado o “CALENDÁRIO OFICIAL DE BLOCOS CARNAVALESCOS NOS CORREDORES CULTURAIS DO MUNICÍPIO PORTO VELHO”, bem como os Circuitos dos Blocos Carnavalescos.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+Art. 2º.
+
+Fica criado o Circuito Zona Oeste que terá como corredor cultural facultativo a área do Espaço Alternativo, para desfiles de Blocos Carnavalescos e demais agremiações.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+Art. 2º-A.
+
+O “CALENDÁRIO OFICIAL DE BLOCOS CARNAVALESCOS NOS CORREDORES CULTURAIS DO MUNICÍPIO PORTO VELHO”,será organizado em Circuitos Culturais, da seguinte forma:
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+**CIRCUITO ZONA NORTE/CENTRO**
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 1º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Sociedade Cultural Galo da Meia-Noite, compreende inicialmente a concentração na Rua Rogério Weber, entre Pinheiro Machado e Carlos Gomes, seguindo pelas Ruas Pinheiro Machado, Joaquim Nabuco, Carlos Gomes e Rogério Weber.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 2º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Associação Cultural Pirarucu do Madeira, compreende inicialmente a concentração na Rua Duque de Caxias, entre Pinheiro Machado e Rui Barbosa, seguindo pelas Ruas Duque de Caxias, Rogério Weber, Pinheiro Machado, Joaquim Nabuco, Carlos Gomes, Rogério Weber e Rua Duque de Caxias.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 3º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Banda do Vai Quem Quer, compreende inicialmente a concentração na Rua Carlos Gomes, entre Rogério Weber e Presidente Dutra, seguindo pelas Ruas Carlos Gomes, Joaquim Nabuco, Sete de Setembro e Rogério Weber.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 4º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Associação Cultural e Recreativa Murupi, compreende inicialmente a concentração na Rua Pinheiro Machado, entre as Ruas Santos Dumont e Rogério Weber, seguindo pelas Ruas Pinheiro Machado, Joaquim Nabuco, Carlos Gomes e Rogério Weber.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 5º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Sociedade Cultural e Carnavalesca Axé Folia Mix, compreende inicialmente a concentração na Rua Pinheiro Machado, entre as Ruas Rogério Weber e Presidente Dutra, seguindo pelas Ruas Pinheiro Machado, Joaquim Nabuco, Carlos Gomes e Rogério Weber.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 6º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Associação Recreativa e Cultural Porto Maria, compreende inicialmente a concentração na Rua Pinheiro Machado, entre as Ruas Rogério Weber e Presidente Dutra, seguindo pelas Ruas Pinheiro Machado, Joaquim Nabuco, Carlos Gomes e Rogério Weber.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 7º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Associação Cultural e Carnavalesca Bloco Stronda Eletro, compreende inicialmente a concentração na Rua Pinheiro Machado, entre as Ruas Presidente Dutra e José de Alencar, seguindo pelas Ruas Pinheiro Machado, Joaquim Nabuco, Carlos Gomes e Rogério Weber.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 8º
+
+Circuito Cultural Zona Norte/Centro, pertinente à Associação Carnavalesca do Bloco Tô de Folga, compreende inicialmente a concentração na Rua Pinheiro Machado, entre as Ruas Presidente Dutra e Jose de Alencar, seguindo pelas Ruas Pinheiro Machado, Joaquim Nabuco, Carlos Gomes e Rogério Weber.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+**CIRCUITO ZONA NORTE/AREAL**
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 9º
+
+Circuito Cultural Zona Norte/Areal, pertinente à Associação Esportiva e Cultural Us Dy Phora, compreende inicialmente a concentração na Rua Treze de Setembro, entre Raimundo Cantuária e Alexandre Guimarães, seguindo pelas Ruas Rogério Weber, Rio de Janeiro, Marechal Deodoro, Alexandre Guimarães e Rua Treze de Setembro.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 10
+
+Circuito Cultural Zona Norte/Areal, pertinente à Sociedade Cultural Até que a Noite Vire Dia, compreende inicialmente a concentração na Praça São José do Mocambo, seguindo pelas Ruas Capitão Esron de Menezes, Alexandre Guimarães, Rua Rogério Weber, Sete de Setembro, Prudente de Morais, Rua Treze de Maio e, final, na praça São José do Mocambo.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 11
+
+Circuito Cultural Zona Norte/Areal, pertinente à Associação Desportiva e Cultural o Canto da Coruja, compreende inicialmente a concentração na Rua Treze de Setembro, entre Raimundo Cantuária e Alexandre Guimarães, seguindo pelas Ruas Rogério Weber, 13 de maio, Presidente Dutra, Alexandre Guimarães e Rua 13 de Setembro.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 12
+
+Circuito Cultural Zona Norte/Areal, pertinente à Associação Cultural Vai & Volta, compreende inicialmente a concentração na Rua Alexandre Guimarães, entre Rua 13 de Maio e Presidente Dutra, seguindo pelas Ruas Rogério Weber, Rio de Janeiro, 13 de Maio e Rua Alexandre Guimarães.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 13
+
+Circuito Cultural Zona Norte/Areal, pertinente ao Grêmio Recreativo e Carnavalesco Bloco Areal Folia, compreende inicialmente a concentração na Rua 13 de setembro, entre Raimundo Cantuária e Alexandre Guimarães, seguindo pelas Ruas Rogério Weber, 13 de maio, Presidente Dutra, Alexandre Guimarães e Rua 13 de Setembro.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+**CIRCUITO ZONA SUL**
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 14
+
+Circuito Cultural Zona Sul, pertinente à Associação Esportiva e Cultural JatuaranaSul, compreende inicialmente a concentração em frente ao Campo de Futebol Florestão, entre as Ruas Daniel Néri e Monte Azul, seguindo pelas Ruas Jatuarana até a confluência com Rua Sucupira.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 15
+
+Circuito Cultural Zona Sul, pertinente à Associação Cultural e Carnavalesca Furacão da Zona Sul, compreende inicialmente a concentração em frente ao Campo de Futebol Florestão, entre as Ruas Daniel Néri e Monte Azul, seguindo pelas Ruas Jatuarana até a confluência com Rua Sucupira.
+
+Alteração feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 16
+
+Circuito Cultural Zona Sul, pertinente à Associação Cultural e Recreativa Bloco Leva Eu, compreende inicialmente a concentração em frente ao Campo de Futebol Florestão, entre as Ruas Daniel Néri e Monte Azul, seguindo pelas Ruas Jatuarana até a confluência com Rua Sucupira.
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+**CIRCUITO ZONA NORTE LESTE**
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 17
+
+Circuito Cultural Zona Leste, pertinente à Sociedade Cultural CarnaLeste, compreende inicialmente a concentração na rua Alexandre Guimarães com José Amador dos Reis, seguindo pelas Ruas José Amador dos Reis até a Rua Mário Andreazza em frente à SEMOB.
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 18
+
+Circuito Cultural Zona Leste, pertinente à Sociedade Cultural Arco-Íris, compreende inicialmente a concentração na Rua Alexandre Guimarães com José Amador dos Reis, seguindo pelas Ruas José Amador dos Reis até a Rua Mário Andreazza em frente à SEMOB.
+
+Inclusão feita pelo Art. 1º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+Art. 2º-B.
+
+Aplica-se aos Circuitos Culturais o disposto no art. 347, §§ 2º, 4º e 5º da Lei nº 53-A, de 26 de dezembro de 1972- Código de Posturas.
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+Art. 2º-C.
+
+A programação do “CALENDÁRIO OFICIAL DE BLOCOS CARNAVALESCOS NOS CORREDORES CULTURAIS DO MUNICÍPIO PORTO VELHO”, terá início na sexta-feira anterior ao início do carnaval oficial, e término no primeiro domingo após o carnaval oficial, da seguinte forma:
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 1º
+
+Desfiles dos Blocos Carnavalescos no final de semana anterior ao carnaval oficial:
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+I –
+
+Sexta Feira: Bloco Areal Folia.
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+II –
+
+Sábado: Bloco Até que a Noite Vire Dia e Bloco Vai & Volta.
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+III –
+
+Domingo: Bloco Furacão da Zona Sul e Bloco Leva Eu.
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 2º
+
+Desfiles dos Blocos Carnavalescos na semana do carnaval oficial:
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+I –
+
+Quinta-Feira: Bloco Galo da Meia Noite
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+II –
+
+Sexta-Feira: Bloco US DY Phora e Bloco Canto da Coruja
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+III –
+
+Sábado: Bloco Banda do Vai Quem Quer
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+IV –
+
+Domingo: Bloco Murupi e Bloco infantil Furacão Kids (parado)
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+V –
+
+Segunda-feira: Bloco JatuaranaSul e Bloco Arco-Íris
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+VI –
+
+Terça-Feira: Bloco Porto Maria, Bloco Carnaleste e Bloco Stronda Eletro Folia.
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+§ 3º
+
+Desfiles dos Blocos no final semana após carnaval oficial:
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+I –
+
+Sábado: Bloco Axé Folia Mix e Bloco Tô de Folga.”
+
+Inclusão feita pelo Art. 2º. - Lei nº 2.477, de 29 de dezembro de 2017.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito Municipal
+
+**Projeto de Lei nº 2.581/2009**
+
+**Autoria: Ver. Ellis Regina Batista Leal.**
+

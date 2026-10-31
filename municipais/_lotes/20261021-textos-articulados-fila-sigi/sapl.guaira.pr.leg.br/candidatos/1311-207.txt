@@ -1,0 +1,50 @@
+Altera a LOA 2025 (Lei Municipal 2.375 de 09/12/2024) e ajusta as programações estabelecidas no PPA - Plano Plurianual - 2022 a 2025 (Lei Municipal 2.202 de 09/12/2021) e LDO - Lei de Diretrizes Orçamentárias (Lei Municipal 2.373 de 08/11/2024), para a criação de dotação por EXCESSO DE ARRECADAÇÃO para abertura de Crédito Adicional Suplementar no valor de R$ 119.106,62 (cento e dezenove mil, cento e seis reais e sessenta e dois centavos).
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aberto no Orçamento Fiscal de 2025 - LOA (Lei nº 2.375 de 09/12/2024) Crédito Adicional Suplementar por EXCESSO DE ARRECADAÇÃO no valor de R$ 119.106,62 (cento e dezenove mil, cento e seis reais e sessenta e dois centavos), mediante a inclusão de nova natureza de despesa conforme discriminado abaixo:
+
+<table><tbody><tr><td>Órgão</td><td>02</td><td colspan="3">Governo Municipal</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Gabinete do Prefeito</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0122</td><td colspan="3">Administração Geral</td></tr><tr><td>Programa</td><td>0003</td><td colspan="3">COORDENAÇÃO POLÍTICA, ECONÔMICA E SOCIAL</td></tr><tr><td>Projeto/Atividade</td><td>2002</td><td colspan="3">Manutenção das Atividades do Gabinete do Prefeito</td></tr><tr><td>Fonte</td><td>569</td><td colspan="3">SECID - Convênio nº 845/2024 - Aquisição de Veiculo</td></tr><tr><td colspan="3">3449052000000000000 - Equipamentos e material permanente</td><td>R$</td><td>114.149,62</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>07</td><td colspan="3">Secretaria Municipal de Fazenda</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Diretoria de Gestão Orçamentaria e Financeira</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0123</td><td colspan="3">Administração Financeira</td></tr><tr><td>Programa</td><td>0020</td><td colspan="3">SISTEMA MUNICIPAL DE ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td>Projeto/Atividade</td><td>2031</td><td colspan="3">Manutenção das Atividades do Setor de Tesouraria</td></tr><tr><td>Fonte</td><td>569</td><td colspan="3">SECID - Convênio nº 845/2024 - Aquisição de Veiculo</td></tr><tr><td colspan="3">3339093000000000000 - Indenizações e restituições</td><td>R$</td><td>1.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>09</td><td colspan="3">Secretaria Municipal de Saúde</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Fundo Municipal de Saúde</td></tr><tr><td>Função</td><td>0010</td><td colspan="3">Saúde</td></tr><tr><td>Subfunção</td><td>0301</td><td colspan="3">Atenção Básica</td></tr><tr><td>Programa</td><td>0030</td><td colspan="3">SISTEMA MUNICIPAL DE ATENÇÃO PRIMARIA EM SAÚDE</td></tr><tr><td>Projeto/Atividade</td><td>2049</td><td colspan="3">Manutenção das Atividades de Atenção Primaria</td></tr><tr><td>Fonte</td><td>434</td><td colspan="3">Implementação de Políticas de Atenção - Nacional</td></tr><tr><td colspan="3">3339030000000000000 - Material de consumo</td><td>R$</td><td>1.070,00</td></tr><tr><td colspan="3">3339039000000000000 - Outros serviços de terceiros PJ</td><td>R$</td><td>2887,00</td></tr><tr><td colspan="3">TOTAL</td><td>R$</td><td>119.106,62</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Em decorrência da suplementação por EXCESSO DE ARRECADAÇÃO para abertura do Crédito Adicional Suplementar no valor de R$ 119.106,62 (cento e dezenove mil, cento e seis reais e sessenta e dois centavos) as despesas e parte das metas físicas programadas para o exercício de 2025 nas ações orçamentárias estabelecida no PPA - Plano Plurianual - 2022 a 2025 (Lei Municipal 2.202 de 09/12/2021), ficam reprogramadas na forma descrita nos Órgãos e Unidades abaixo:
+
+<table><tbody><tr><td>Órgão</td><td>02</td><td colspan="3">Governo Municipal</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Gabinete do Prefeito</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0122</td><td colspan="3">Administração Geral</td></tr><tr><td>Programa</td><td>0003</td><td colspan="3">COORDENAÇÃO POLÍTICA, ECONÔMICA E SOCIAL</td></tr><tr><td>Projeto/Atividade</td><td>2002</td><td colspan="3">Manutenção das Atividades do Gabinete do Prefeito</td></tr><tr><td>Fonte</td><td>569</td><td colspan="3">SECID - Convênio nº 845/2024 - Aquisição de Veiculo</td></tr><tr><td colspan="3">3449052000000000000 - Equipamentos e material permanente</td><td>R$</td><td>114.149,62</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>07</td><td colspan="3">Secretaria Municipal de Fazenda</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Diretoria de Gestão Orçamentaria e Financeira</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0123</td><td colspan="3">Administração Financeira</td></tr><tr><td>Programa</td><td>0020</td><td colspan="3">SISTEMA MUNICIPAL DE ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td>Projeto/Atividade</td><td>2031</td><td colspan="3">Manutenção das Atividades do Setor de Tesouraria</td></tr><tr><td>Fonte</td><td>569</td><td colspan="3">SECID - Convênio nº 845/2024 - Aquisição de Veiculo</td></tr><tr><td colspan="3">3339093000000000000 - Indenizações e restituições</td><td>R$</td><td>1.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>09</td><td colspan="3">Secretaria Municipal de Saúde</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Fundo Municipal de Saúde</td></tr><tr><td>Função</td><td>0010</td><td colspan="3">Saúde</td></tr><tr><td>Subfunção</td><td>0301</td><td colspan="3">Atenção Básica</td></tr><tr><td>Programa</td><td>0030</td><td colspan="3">SISTEMA MUNICIPAL DE ATENÇÃO PRIMARIA EM SAÚDE</td></tr><tr><td>Projeto/Atividade</td><td>2049</td><td colspan="3">Manutenção das Atividades de Atenção Primaria</td></tr><tr><td>Fonte</td><td>434</td><td colspan="3">Implementação de Políticas de Atenção - Nacional</td></tr><tr><td colspan="3">3339030000000000000 - Material de consumo</td><td>R$</td><td>1.070,00</td></tr><tr><td colspan="3">3339039000000000000 - Outros serviços de terceiros PJ</td><td>R$</td><td>2.887,00</td></tr><tr><td colspan="3">TOTAL</td><td>R$</td><td>119.106,62</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Em decorrência da suplementação por EXCESSO DE ARRECADAÇÃO para abertura de Crédito Especial no valor de R$ 119.106,62 (cento e dezenove mil, cento e seis reais e sessenta e dois centavos), as despesas e parte das metas físicas programadas para o exercício de 2024 nas ações orçamentárias estabelecida no PPA - Plano Plurianual - 2022 a 2025 (Lei Municipal 2.202 de 09/12/2021), ficam reprogramadas na forma descrita nos Órgãos e Unidades abaixo:
+
+<table><tbody><tr><td>Órgão</td><td>02</td><td colspan="3">Governo Municipal</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Gabinete do Prefeito</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0122</td><td colspan="3">Administração Geral</td></tr><tr><td>Programa</td><td>0003</td><td colspan="3">COORDENAÇÃO POLÍTICA, ECONÔMICA E SOCIAL</td></tr><tr><td>Projeto/Atividade</td><td>2002</td><td colspan="3">Manutenção das Atividades do Gabinete do Prefeito</td></tr><tr><td>Fonte</td><td>569</td><td colspan="3">SECID - Convênio nº 845/2024 - Aquisição de Veiculo</td></tr><tr><td colspan="3">3449052000000000000 - Equipamentos e material permanente</td><td>R$</td><td>114.149,62</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>07</td><td colspan="3">Secretaria Municipal de Fazenda</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Diretoria de Gestão Orçamentaria e Financeira</td></tr><tr><td>Função</td><td>0004</td><td colspan="3">Administração</td></tr><tr><td>Subfunção</td><td>0123</td><td colspan="3">Administração Financeira</td></tr><tr><td>Programa</td><td>0020</td><td colspan="3">SISTEMA MUNICIPAL DE ADMINISTRAÇÃO FINANCEIRA</td></tr><tr><td>Projeto/Atividade</td><td>2031</td><td colspan="3">Manutenção das Atividades do Setor de Tesouraria</td></tr><tr><td>Fonte</td><td>569</td><td colspan="3">SECID - Convênio nº 845/2024 - Aquisição de Veiculo</td></tr><tr><td colspan="3">3339093000000000000 - Indenizações e restituições</td><td>R$</td><td>1.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Órgão</td><td>09</td><td colspan="3">Secretaria Municipal de Saúde</td></tr><tr><td>Unidade</td><td>001</td><td colspan="3">Fundo Municipal de Saúde</td></tr><tr><td>Função</td><td>0010</td><td colspan="3">Saúde</td></tr><tr><td>Subfunção</td><td>0301</td><td colspan="3">Atenção Básica</td></tr><tr><td>Programa</td><td>0030</td><td colspan="3">SISTEMA MUNICIPAL DE ATENÇÃO PRIMARIA EM SAÚDE</td></tr><tr><td>Projeto/Atividade</td><td>2049</td><td colspan="3">Manutenção das Atividades de Atenção Primaria</td></tr><tr><td>Fonte</td><td>434</td><td colspan="3">Implementação de Políticas de Atenção - Nacional</td></tr><tr><td colspan="3">3339030000000000000 - Material de consumo</td><td>R$</td><td>1.070,00</td></tr><tr><td colspan="3">3339039000000000000 - Outros serviços de terceiros PJ</td><td>R$</td><td>2.887,00</td></tr><tr><td colspan="3">TOTAL</td><td>R$</td><td>119.106,62</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 17 de fevereiro de 2025.  
+  
+GILEADE GABRIEL OSTI  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*

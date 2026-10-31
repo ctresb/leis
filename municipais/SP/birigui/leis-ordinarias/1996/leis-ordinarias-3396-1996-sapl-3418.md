@@ -1,0 +1,94 @@
+---
+titulo: "Lei Ordinária nº 3.396, de 21 de junho de 1996"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3396"
+data: "1996-06-21"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2017-07-28; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/3418"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3705/text"
+sha256_fonte: "fd0eeb072a8063551f0d885e0f90d330b8f5a22d7300ba79781f64626ffc20f9"
+sha256_texto: "eef919de4a4378ca02d912754fe443d34e3e479254dc2d8bd65bb8bf3555b4dc"
+capturado_em_fonte: "2026-10-27T18:28:55.013992-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.396, de 21 de junho de 1996
+
+DISPÕE SOBRE DESDOBRO E FRACIONAMENTO DE LOTES OU ÁREAS DE TERRENO, NOS TERMOS EM QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS.
+
+
+Eu, **FLORIVAL CERVELATI**, Prefeito Municipal de Birigüi, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam permitidos o desdobro e o fracionamento de lote ou área de terreno, desde que resultem, no mínimo, áreas com 125,00 m2 (cento e vinte e cinco metros quadrados) e frente mínima de 5,00 m (cinco metros), para os seguintes efeitos:
+
+
+a)
+
+(Suprimido)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 6.402, de 28 de julho de 2017.
+
+
+b)
+
+separação de edificações, residenciais ou não.
+
+
+§ 1º
+
+(Suprimido)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 6.402, de 28 de julho de 2017.
+
+
+§ 2º
+
+Para os efeitos desta Lei, entende -se como desdobro a divisão de um lote ou área de terreno em duas partes; como fracionamento, a divisão de um lote ou área de terreno em mais de duas partes.
+
+
+§ 3º
+
+Uma das partes resultantes do desdobro ou fracionamento poderá ter dimensões menores se destinada a anexação a outra que lhe seja contígua.
+
+
+§ 4º
+
+No caso de imóveis de esquina, a área resultante de desdobro poderá ser inferior a 125,00 m2 (cento e vinte e cinco metros quadrados), desde que não inferior a 115,00 m2 (cento e quinze metros quadrados).
+
+
+Art. 2º.
+
+Não serão exigidos os limites mínimos previstos no artigo anterior, pelo prazo de 120 (cento e vinte) dias, a contar da vigência da presente Lei, para regularização de situações de fato já existentes, em lotes ou áreas de terreno, desde que os imóveis neles construídos ofereçam, a critério do órgão competente da Prefeitura, condições mínimas de habitabilidade, higiene e segurança.
+
+
+Parágrafo único
+
+Para obtenção do benefício do caput do artigo, não poderão haver aberturas para ventilação e/ou iluminação, em paredes construídas na divisa do imóvel a ser desdobrado ou fracionado.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, notadamente as das Leis nºs 2.575, de 13/04/1989, 2.954, de 09/02/1993 e 3.383, de 22/05/1996.
+
+
+Prefeitura Municipal de Birigüi, aos vinte e um de junho de mil novecentos e noventa e seis.
+
+**FLORIVAL CERVELATI Prefeito Municipal**
+
+**ARQTO. MILTON LOT JUNIOR Secretário de Obras e Serviços Públicos**
+
+Publicada no Departamento de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigüi, na data supra, por afixação no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Diretora do Departamento de Expediente e Comunicações Administrativas**
+

@@ -1,0 +1,404 @@
+---
+titulo: "Lei Ordinária-PMEPF nº 1.509, de 23 de abril de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1509"
+data: "2021-04-23"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/22"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/447/text"
+sha256_fonte: "0aa6fcf281c165cb8e559a3429d1bacd0b099cf4a50481dd1394ea929b50f8f1"
+sha256_texto: "2b2149b729d2b442674cb05643227a0907ef3278350926ca1daba6dd8fb513f4"
+capturado_em_fonte: "2026-10-28T10:51:24.168922-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-PMEPF nº 1.509, de 23 de abril de 2021
+
+Institui o Conselho de Acompanhamento e de Controle Social do FUNDEB na forma da Lei Federal nº 14.113, de 25 de dezembro de 2020, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB), de que trata o art. 212-A da Constituição Federal de 1988.
+
+
+A CÂMARA MUNICIPAL DE ENG. PAULO DE FRONTIN aprova e eu, José Emmanoel Rodrigues Artemenko, Prefeito Municipal, sanciono e promulgo a seguinte
+
+
+Art. 1º.
+
+Esta Lei institui o Conselho de Acompanhamento e de Controle Social de que dispõe a Lei Federal nº 14.113, de 25 de dezembro de 2020, que regulamenta o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB), de que trata o art. 212-A da Constituição Federal de 1988, no Município de Engenheiro Paulo de Frontin.
+
+
+Parágrafo único
+
+Doravante o caput deste artigo, fica adotada a nomenclatura resumido para o Conselho de Acompanhamento de Acompanhamento e Controle Social do FUNDEB, CACS-FUNDEB.
+
+
+Art. 2º.
+
+O CACS-FUNDEB no Município de Engenheiro Paulo de Frontin, sempre que julgar conveniente, poderá:
+
+
+I –
+
+apresentar ao Poder Legislativo de Engenheiro Paulo de Frontin e aos órgãos de controle interno externo manifestação formal acerca dos registros contábeis e dos demonstrativos gerenciais do Fundo, dando ampla transparência ao documento em sítio oficial da internet;
+
+
+II –
+
+convocar, pro decisão da maioria dos membros, o Secretário de Educação competente ou servidor equivalente para prestar esclarecimentos acerca do fluxo de recursos e de execução das despesas do Fundo, devendo a autoridade convocada apresentar-se em prazo não superior a 30 (trinta) dias;
+
+
+III –
+
+requisita ao Poder Executivo cópia de documentos, os quais serão imediatamente concedidos, devendo a resposta ocorrer em prazo não superior a 20 (vinte) dias, referentes a:
+
+
+a)
+
+licitação, empenho, liquidação e pagamento de obras e serviços custeados com recursos do Fundo;
+
+
+b)
+
+folhas de pagamento dos profissionais da educação, as quais deverão discriminar aqueles em efetivo exercício na educação básica e indicar o respectivo nível, modalidade ou tipo de estabelecimento a que sejam vinculados;
+
+
+c)
+
+convênios com as instituições a que se refere o art. 7º da Lei Federal nº 14.113, de 25 de dezembro de 2020;
+
+
+d)
+
+outras informações necessárias ao desempenho de suas funções;
+
+
+IV –
+
+realizar visitas para verificar, in loco, entre outras questões pertinentes:
+
+
+a)
+
+o desenvolvimento regular de obras e serviços efetuados nas instituições escolares com recursos do Fundos;
+
+
+b)
+
+a adequação do serviço de transporte escolar;
+
+
+c)
+
+a utilização em benefício do sistema de ensino de bens adquiridos com recursos do Fundo para esse fim.
+
+
+Art. 3º.
+
+Ao CACS-FUNDEB no Município de Engenheiro Paulo de Frontin incumbe, ainda:
+
+
+I –
+
+elaborar parecer das prestações de contas a que se refere ao parágrafo único do art. 31 da Lei Federal nº 14.113, de 25 de dezembro de 2020;
+
+
+II –
+
+supervisionar o censo escolar anual e a elaboração da proposta orçamentária anual, no âmbito de suas respectivas esferas governamentais de atuação, com o objetivo de concorrer para o regular e tempestivo tratamento e encaminhamento dos dados estatísticos e financeiros que alicerçam a operacionalização dos Fundos;
+
+
+III –
+
+acompanhar a aplicação dos recursos federais transferidos à conta do Programa Nacional de Apoio ao Transporte Escolar (PNATE) e do Ensino para Atendimento à Educação de Jovens e Adultos (EJA) e, ainda, receber e analisar as prestações de contas referentes a esses programas, com a formulação de pareceres conclusivos acerca da aplicação desses recursos e o encaminhamento deles ao FNDEF.
+
+
+Art. 4º.
+
+O CACS-FUNDEB atuará com autonomia, sem vinculação ou subordinação institucional ao Poder Executivo local e será renovado periodicamente ao final de cada mandato dos seus membros.
+
+
+Art. 5º.
+
+O CACS-FUNDEB não contará com estrutura administrativa própria, e incumbirá ao Município garantir infraestrutura e condições materiais adequadas à execução plena de suas competências e oferecer ao Ministério da Educação os dados cadastrais relativos à criação e à composição do respectivo CACS-FUNDEB do Município de Engenheiro Paulo de Frontin.
+
+
+Art. 6º.
+
+O CACS-FUNDEB será composto pelos seguintes membros, nos termos do art. 34, IV da Lei Federal nº 14.113, de 25 de dezembro de 2020:
+
+
+a)
+
+2 (dois) representantes do Poder Executivo Municipal, dos quais pelo menos 1 (um) da Secretaria Municipal de Educação ou órgão educacional equivalente;
+
+
+b)
+
+1 (um) representante dos professores da educação básica pública;
+
+
+c)
+
+1 (um) representante dos diretores das escolas básicas públicas;
+
+
+d)
+
+1 (um) representante dos servidores técnico-administrativos das escolas básicas públicas;
+
+
+e)
+
+2 (dois) representantes dos pais de alunos da educação básica pública;
+
+
+f)
+
+2 (dois) representantes dos estudantes da educação básica pública, dos quais 1 (um) indicado pela entidade de estudantes secundaristas.
+
+
+§ 1º
+
+Integrará ainda o CACS-FUNDEB, quando houver:
+
+
+I –
+
+1 (um) representante do respectivo Conselho Municipal de Educação (CME);
+
+
+II –
+
+1 (um) representante do Conselho Tutelar a que se refere a Lei nº 8.069, de 13 de julho de 1990, indicado por seus pares;
+
+
+III –
+
+2 (dois) representantes de organizações da sociedade civil;
+
+
+IV –
+
+1 (um) representante das escolas indígenas;
+
+
+V –
+
+1 (um) representante das escolas do campo;
+
+
+VI –
+
+1 (um) representante das escolas quilombolas.
+
+
+§ 2º
+
+Os membros do CACS-FUNDEB previstos no caput e no § 1º deste artigo, observados os impedimentos dispostos no § 5º deste artigo, serão indicados até 20 (vinte) dias do término do mandato dos conselheiros anteriores, da seguinte forma:
+
+
+I –
+
+nos casos das representações do Município de Engenheiro Paulo de Frontin e das entidades de classes organizadas, pelos seus titulares;
+
+
+II –
+
+nos casos dos representantes dos diretores, pais de alunos e estudantes, pelo conjunto dos estabelecimentos ou entidades de âmbito municipal, conforme o caso, em processo eletivo organizado para esse fim, pelos respectivos pares:
+
+
+III –
+
+nos casos de representantes de professores e servidores, pelas entidades sindicais da respectivas categorias;
+
+
+IV –
+
+nos casos de organizações da sociedade civil, em processo eletivo dotado de ampla publicidade, vedada a participação de entidades que figurem como beneficiárias de recursos fiscalizados pelo CACSFUNDEB ou como contratadas da Administração Municipal de Engenheiro Paulo de Frontin a título oneroso.
+
+
+§ 3º
+
+As organizações da sociedade civil a que se refere este artigo:
+
+
+I –
+
+são pessoas jurídicas de direito privado sem fins lucrativos, nos termos da Lei nº 13.019, de 31 de julho de 2014;
+
+
+II –
+
+desenvolvem atividades direcionadas à localidade do respectivo conselho;
+
+
+III –
+
+devem atestar o seu funcionamento há pelo menos 1 (um) ano contado da data de publicação do edital;
+
+
+IV –
+
+desenvolvem atividades relacionadas à educação ou ao controle social dos gastos públicos;
+
+
+V –
+
+não figuram como beneficiárias de recursos fiscalizados pelo CACS-FUNDBEB ou como contratadas da Administração Municipal a título oneroso.
+
+
+§ 4º
+
+Indicados os conselheiros, na forma da legislação em vigor, o Poder Executivo designá-los-á integrantes do CACS-FUNDEB.
+
+
+§ 5º
+
+São impedidos de integrar o CACS-FUNDEB, na forma da Lei Federal nº 14.113, de 25 de dezembro de 2020;
+
+
+I –
+
+titulares dos cargos de Presidente e de Vice-Presidente da República, de Ministro de Estado, de Governador e de Vice-Governador, de Prefeito e de Vice-Prefeito e de Secretário Estadual, Distrital ou Municipal, bem como seus cônjuges e parentes consanguíneos ou afins, até o terceiro grau;
+
+
+II –
+
+tesoureiro, contador ou funcionário de empresa de assessoria ou consultoria que prestem serviços relacionados à administração ou ao controle interno dos recursos do Fundo, bem como cônjuges, parentes consanguíneos ou afins, até o terceiro grau, desses profissionais;
+
+
+III –
+
+estudantes que não sejam emancipados;
+
+
+IV –
+
+pais de alunos ou representantes da sociedade que:
+
+
+a)
+
+Exerçam cargos ou funções públicas de livre nomeação e exoneração no âmbito dos órgãos do respectivo Poder Executivo gestor dos recursos; ou
+
+
+b)
+
+Prestem serviços terceirizados, no âmbito dos Poderes Executivos em que atuam os respectivos conselhos.
+
+
+§ 6º
+
+O Presidente do CACS-FUNDEB será eleito por seus pares em reunião do colegiado, sendo impedido de ocupar a função o representante do governo gestor dos recursos do Fundo no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, nos termos da legislação federal em vigor.
+
+
+§ 7º
+
+A atuação dos membros do CACS-FUNDEB:
+
+
+I –
+
+não é remunerada;
+
+
+II –
+
+é considerada atividade de relevante interesse social;
+
+
+III –
+
+assegura isenção da obrigatoriedade de testemunha sobre informações recebidas ou prestadas em razão do exercício de suas atividades de conselheiro e sobre as pessoas que lhes confiarem ou deles receberem informações;
+
+
+IV –
+
+veda, quando os conselheiros forem representantes de professores e diretores ou de servidores das escolas públicas, no curso do mandato;
+
+
+a)
+
+Exoneração ou demissão de cargo ou emprego sem justa causa ou transferência involuntária do estabelecimento de ensino em que atuam;
+
+
+b)
+
+Atribuição de falta injustificada ao serviço em função das atividades do CACS-FUNDEB;
+
+
+c)
+
+Afastamento involuntário e injustificado da condição de conselheiro antes do término do mandato para o qual tenha sido designado;
+
+
+V –
+
+veda, quando os conselheiros forem representantes de estudantes em atividades do CACS-FUNDEB, no curso do mandato, atribuição de falta injustificada nas atividades escolares.
+
+
+§ 8º
+
+Para cada membro titular deverá ser nomeado um suplente, representante da mesma categoria ou segmento social com assento no CACS-FUNDEB, que substituirá o titular em seus impedimentos temporários, provisórios e em seus afastamentos definitivos, ocorridos antes do fim do mandato.
+
+
+§ 9º
+
+O mandato dos membros do CACS-FUNDEB será de 4 (quatro) anos, vedada a recondução par ao próximo mandato, e iniciar-se-á em 1º de janeiro do terceiro ano de mandato do respectivo titular do Poder Executivo.
+
+
+§ 10
+
+Na hipótese de inexistência de estudantes emancipados, representação estudantil poderá acompanhar as reuniões do CACSFUNDEB com direito a voz.
+
+
+§ 11
+
+O órgão municipal competente disponibilizará em sítio da internet informações atualizadas sobre a composição e o funcionamento do CACS-FUNDEB de que trata esta Lei, incluídos:
+
+
+I –
+
+nomes do conselheiros e das entidades ou segmentos que representam;
+
+
+II –
+
+correio eletrônico ou outro canal de contato direto com o conselho;
+
+
+III –
+
+atas das reuniões;
+
+
+IV –
+
+relatórios e pareceres;
+
+
+V –
+
+outros documentos produzidos pelo CACS-FUNDEB.
+
+
+§ 12
+
+O CACS-FUNDEB reunir-se-á, no mínimo, trimestralmente ou por convocação de seu Presidente.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data sua publicação, retroagindo seus efeitos a partir de 30 de março de 2021, sendo preservado o ato jurídico perfeito, revogados as disposições em contrário, em especial a Lei Municipal nº 802, de 30 de março de 2007.
+
+
+Engenheiro Paulo de Frontin, 23 de abril de 2021
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal
+

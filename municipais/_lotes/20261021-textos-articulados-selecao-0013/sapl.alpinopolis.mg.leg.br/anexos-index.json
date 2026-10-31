@@ -1,0 +1,98 @@
+{
+  "estado": "indice_completo",
+  "total": 8,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/lei_municipal_2.410_de_09.03.2023_anexo_i.pdf da norma Lei Ordinária nº 2.410, de 09 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Cria o SIMC – Serviço de Inspeção Municipal Consorciado no âmbito do Consórcio AMEG e dá outras providências",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2023/1/lei_municipal_2.410_de_09.03.2023_anexo_i.pdf",
+      "ano": 2023,
+      "norma": 33
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/anexos_r0002.pdf da norma Resolução nº 2, de 03 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I: FORMULÁRIO PARA SOLICITAÇÃO DE VIAGEM\r\nANEXO II: DESPACHO DE AUTORIZAÇÃO DE VIAGEM",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2025/2/anexos_r0002.pdf",
+      "ano": 2025,
+      "norma": 100
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/anexo_i_da_lc263.pdf da norma Lei Complementar nº 263, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - PLANTA GENÉRICA DE VALORES",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/3/anexo_i_da_lc263.pdf",
+      "ano": 2026,
+      "norma": 154
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/4/anexo_ii_da_lc263.pdf da norma Lei Complementar nº 263, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II – TABELA I - LISTA DE SERVIÇOS",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/4/anexo_ii_da_lc263.pdf",
+      "ano": 2026,
+      "norma": 154
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/5/anexo_iii_da_lc263.pdf da norma Lei Complementar nº 263, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III – TAXAS",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/5/anexo_iii_da_lc263.pdf",
+      "ano": 2026,
+      "norma": 154
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/6/anexo_iv_da_lc263.pdf da norma Lei Complementar nº 263, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV – CONTRIBUIÇÃO PARA O CUSTEIO, A EXPANSÃO E A MELHORIA DO SERVIÇO DE ILUMINAÇÃO PÚBLICA E DE SISTEMAS DE MONITORAMENTO PARA SEGURANÇA E PRESERVAÇÃO DE LOGRADOUROS PÚBLICOS",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/6/anexo_iv_da_lc263.pdf",
+      "ano": 2026,
+      "norma": 154
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/7/anexo_v_da_lc263.pdf da norma Lei Complementar nº 263, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "ANEXO V -  LAUDO OFICIAL",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/7/anexo_v_da_lc263.pdf",
+      "ano": 2026,
+      "norma": 154
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/anexo_vi_da_lc263.pdf da norma Lei Complementar nº 263, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI - GRATIFICAÇÃO POR PRODUTIVIDADE",
+      "anexo_arquivo": "http://sapl.alpinopolis.mg.leg.br/media/sapl/public/anexonormajuridica/2026/8/anexo_vi_da_lc263.pdf",
+      "ano": 2026,
+      "norma": 154
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/104c7d7501973906158aba82cd83ae0fa995469d16b74db1fb9e88792198d15a.json",
+      "url": "https://sapl.alpinopolis.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.alpinopolis.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "509b3786f89bea41022b71b16cbead6cd1eb69d6f8025cee898f0cdde2cc6126",
+      "bytes": 3941,
+      "capturado_em": "2026-10-21T05:24:20.778380-03:00"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/lei_ordinaria-2426-2024.pdf da norma Lei Ordinária-PPE nº 2.431, de 04 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarantadonorte.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1/lei_ordinaria-2426-2024.pdf",
+      "ano": 2025,
+      "norma": 4
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guarantadonorte.mt.leg.br/8c5d75be8da10b548e10b736dd0c73fd6634c19f3b7b9d51742e6489176dbe12.json",
+      "url": "https://sapl.guarantadonorte.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.guarantadonorte.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a5b9dd697a8e94e8f2a74d21747b91cc1ddcfe2e4ae1a82754f39f9105df7075",
+      "bytes": 579,
+      "capturado_em": "2026-10-28T13:26:40.968198-03:00"
+    }
+  ]
+}

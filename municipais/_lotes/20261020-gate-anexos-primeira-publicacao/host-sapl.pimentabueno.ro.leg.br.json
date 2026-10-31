@@ -1,0 +1,476 @@
+{
+  "host": "sapl.pimentabueno.ro.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/lei_complementar_014-2018_errata.pdf da norma Lei Complementar nº 14, de 01 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Errata  da Lei Complementar 014/2018. Publicado data 02/10/2018",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2018/1/lei_complementar_014-2018_errata.pdf",
+      "ano": 2018,
+      "norma": 14
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/lei_2477-2019.pdf da norma Lei Ordinária nº 2.477, de 20 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Dispõe Sobre Abertura de Crédito Adicional Especial e Suplementar por Superávit Financeiro, Excesso e Arrecadação e Anulação Parcial de Dotação e dá outras providências.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/2/lei_2477-2019.pdf",
+      "ano": 2019,
+      "norma": 394
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/errata_lei_2474-2019.pdf da norma Lei Ordinária nº 2.474, de 18 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA LEI MUNICIPAL N.º 2.474 GP/2.019 DE, 19 DE FEVEREIRO DE 2.019, PUBLICADA NO “DIÁRIO OFICIAL DOS MUNICÍPIOS Nº 2400",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/3/errata_lei_2474-2019.pdf",
+      "ano": 2019,
+      "norma": 392
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/errata_lei_2481-2019.pdf da norma Lei Ordinária nº 2.481, de 15 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Errata da Lei  Municipal",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/4/errata_lei_2481-2019.pdf",
+      "ano": 2019,
+      "norma": 666
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/lei_2502-2019_-_republicacao.pdf da norma Lei Ordinária nº 2.502, de 01 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Republicação da Lei que faltou o preâmbulo.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/5/lei_2502-2019_-_republicacao.pdf",
+      "ano": 2019,
+      "norma": 1282
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/6/lei_2503-2019_-_republicacao.pdf da norma Lei Ordinária nº 2.503, de 01 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Republicação da Lei que faltou preambulo",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/6/lei_2503-2019_-_republicacao.pdf",
+      "ano": 2019,
+      "norma": 1283
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/errata_da_emenda_026-2019.pdf da norma Emenda a Lei Orgânica nº 26, de 17 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Errata ref. a Emenda da LOM",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/7/errata_da_emenda_026-2019.pdf",
+      "ano": 2019,
+      "norma": 1280
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/errata_lei_2507-2019.pdf da norma Lei Ordinária nº 2.507, de 31 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "RETIFICAÇÃO DA LEI MUNICIPAL N.º 2.507/2019 DE 31 DE JULHO 2019,\r\nPUBLICADA NO DIÁRIO OFICIAL DOS MUNICÍPIOS – AROM, NO DIA\r\n02/08/2019 EDIÇÃO Nº 2.514.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/8/errata_lei_2507-2019.pdf",
+      "ano": 2019,
+      "norma": 1287
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/9/errata_lei_no_1813.pdf da norma Lei Ordinária nº 1.813, de 10 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DO PREFEITO\r\nERRATA DA PUBLICAÇÃO DO PROJETO DE LEI Nº 1.813/GP/2012.\r\nOnde se lê:\r\nProjeto de Lei nº 1.813/GP/2012.\r\nLeia-se:\r\nLei nº 1.813/GP/2012.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2012/9/errata_lei_no_1813.pdf",
+      "ano": 2012,
+      "norma": 1745
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/10/errata_lei_no_1814.pdf da norma Lei Ordinária nº 1.814, de 10 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DO PREFEITO\r\nERRATA DA PUBLICAÇÃO DO PROJETO DE LEI Nº 1.814/GP/2012.\r\nOnde se lê:\r\nProjeto de Lei nº 1.814/GP/2012.\r\nLeia-se:\r\nLei nº 1.814/GP/2012.\r\nPermanecem em vigor os artigos desta Lei nº 1.814/GP/2012\r\nPalácio Vicente Homem Sobrinho",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2012/10/errata_lei_no_1814.pdf",
+      "ano": 2012,
+      "norma": 1746
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/lei_2514-2019_-_errata.pdf da norma Lei Ordinária nº 2.514, de 20 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Errata referente a lei  2514/2019",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/11/lei_2514-2019_-_errata.pdf",
+      "ano": 2019,
+      "norma": 1763
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo:  da norma Lei Ordinária nº 1.832, de 08 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA LEI Nº 1.832/2012\r\nPublicado por:\r\nAmauri Ramos de Campos\r\nCódigo Identificador:9D7E39C2\r\nMatéria publicada no Diário Oficial dos Municípios do Estado de Rondônia no dia 26/06/2012. Edição 0723",
+      "anexo_arquivo": null,
+      "ano": 2012,
+      "norma": 1824
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/13/lei_1910-2013_errata.pdf da norma Lei Ordinária nº 1.910, de 02 de maio de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA LEI MUNICIPAL N.º 1.910/2013 DE 02/05/2013, PUBLICADA NO DIÁRIO OFICIAL DO MUNICÍPIO N.º 938 DO DIA 06/05/2013.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2013/13/lei_1910-2013_errata.pdf",
+      "ano": 2013,
+      "norma": 1890
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo:  da norma Lei Ordinária nº 1.915, de 06 de junho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DA LEI MUNICIPAL N.º 1.910/2013 DE 02/05/2013, PUBLICADA NO DIÁRIO OFICIAL DO MUNICÍPIO N.º 938 DO DIA 06/05/2013.\r\nONDE SE LÊ: ...LEIA SE: II – Por Exames Médicos a) Médico Ultrassonografista de R$-28,00 (vinte e oito reais) por exame realiza",
+      "anexo_arquivo": null,
+      "ano": 2013,
+      "norma": 1895
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/15/lei_2111-2015_torna_sem_efeito.pdf da norma Lei Ordinária nº 2.111, de 12 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Torna sem efeito a lei 2.111/2019",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2015/15/lei_2111-2015_torna_sem_efeito.pdf",
+      "ano": 2015,
+      "norma": 2129
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/decreto_legislativo_122-2019_errata.pdf da norma Decreto Legislativo nº 122, de 02 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "No Decreto Legislativo nº 122, publicado no Diário Oficial dos\r\nMunicípios do Estado de Rondônia no dia 04/12/2019, edição 2601,\r\ndesconsiderar onde se lê: “02/13/2019” devido a erro de digitação.\r\nLeia-se “02/12/2019”.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/16/decreto_legislativo_122-2019_errata.pdf",
+      "ano": 2019,
+      "norma": 2154
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo:  da norma Lei Ordinária nº 2.576, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DO PREFEITO\r\nANEXO I – DA LEI MUNICIPAL Nº 2576/2019\r\nPublicado por:\r\nFrancismar Saraiva Mendes\r\nCódigo Identificador:1AAD1AD9\r\nMatéria publicada no Diário Oficial dos Municípios do Estado\r\nde Rondônia no dia 13/01/2020. Edição 2627",
+      "anexo_arquivo": null,
+      "ano": 2019,
+      "norma": 2173
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/18/lei_2566-2019_republicacao.pdf da norma Lei Ordinária nº 2.566, de 17 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Publicado por:\r\nFrancismar Saraiva Mendes\r\nCódigo Identificador:6EF2A5B5\r\nMatéria publicada no Diário Oficial dos Municípios do Estado\r\nde Rondônia no dia 18/12/2019. Edição 2611",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/18/lei_2566-2019_republicacao.pdf",
+      "ano": 2019,
+      "norma": 2175
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/19/lei_2565-2019_republicacao.pdf da norma Lei Ordinária nº 2.565, de 16 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Publicado por:\r\nFrancismar Saraiva Mendes\r\nCódigo Identificador:B0CDEF98\r\nMatéria publicada no Diário Oficial dos Municípios do Estado de Rondônia no dia 18/12/2019. Edição 2611",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/19/lei_2565-2019_republicacao.pdf",
+      "ano": 2019,
+      "norma": 2176
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/20/lei_2578-2019_anexo_v.pdf da norma Lei Ordinária nº 2.578, de 23 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Publicado por:\r\nFrancismar Saraiva Mendes\r\nCódigo Identificador:E1B99E15\r\nMatéria publicada no Diário Oficial dos Municípios do Estado de Rondônia no dia 14/01/2020. Edição 2628",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/20/lei_2578-2019_anexo_v.pdf",
+      "ano": 2019,
+      "norma": 2182
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/lei_2.566-2019.pdf_torna_sem_efeito_a_retificacao.pdf da norma Lei Ordinária nº 2.566, de 17 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Publicado por:\r\nJanaina Camila Alves da Silva\r\nCódigo Identificador:9F35FC1F\r\nMatéria publicada no Diário Oficial dos Municípios do Estado de Rondônia no dia 03/03/2020. Edição 2662",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2019/21/lei_2.566-2019.pdf_torna_sem_efeito_a_retificacao.pdf",
+      "ano": 2019,
+      "norma": 2175
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/22/lei_2.688-2020_retificacao_do_numero_da_lei.pdf da norma Lei Ordinária nº 2.688, de 03 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "ONDE SE-LÊ: LEI MUNICIPAL N. 2.679/2020 DE, 03 DE NOVEMBRO DE 2020\r\n \r\nLEIA SE: LEI MUNICIPAL N. 2.688/2020 DE, 03 DE NOVEMBRO DE 2020",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/22/lei_2.688-2020_retificacao_do_numero_da_lei.pdf",
+      "ano": 2020,
+      "norma": 2437
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/23/lei_2260-2017_errata.pdf da norma Lei Ordinária nº 2.260, de 16 de março de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "ONDE SE-LÊ: LEI MUNICIPAL Nº 2.660/2017 DE 16 DE MARÇO DE 2017\r\nLEIA-SE: LEI MUNICIPAL Nº 2.260/2017 DE 16 DE MARÇO DE 2017\r\nPublicado por:\r\nTainara Ribeiro M. T. Martins\r\nCódigo Identificador:D81D88F7",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/23/lei_2260-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2444
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/24/lei_2264-2017_com_errata.pdf da norma Lei Ordinária nº 2.264, de 04 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Alteração da Lei Municipal n°2264/GP/2017 de 02 de maio de 2017.\r\n \r\nOnde se lê Artigo 3°;\r\n Leia –se Artigo 2°- Esta Lei esta em vigor a partir desta, revogadas as disposições em contrário.\r\nPublique-se.\r\nPublicado por:\r\nCódigo FFC16A6D",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/24/lei_2264-2017_com_errata.pdf",
+      "ano": 2017,
+      "norma": 2447
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/25/lei_2266-2017_errata.pdf da norma Lei Ordinária nº 2.266, de 05 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DA PREFEITA\r\nERRATA DA LEI MUNICIPAL N.º 2.266/2017 DE 05 DE MAIO DE 2017, PUBLICADA NO “DIÁRIO OFICIAL DOS MUNICIPIOS Nº 1.951 NO DIA 09/05/2017.\r\nPublicado por:\r\nElaine das Graças Silva\r\nCódigo Identificador:B023898E",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/25/lei_2266-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2449
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/26/lei_2275-2017_errata.pdf da norma Lei Ordinária nº 2.275, de 23 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "ONDE SE LÊ:\r\n Art. 1º -\r\n 07.001\tSecretaria Municipal de Educação e Cultura\r\n10.79.40061.27.812.1240\tConstruir, Reformar e Ampliar Espaços Públicos Esportivos\tR$\tValor\tFonte/ Recursos\r\n E Art. 2º -\r\n 027.1.07071.12.361.1207\tTransportar Alunos da Zona",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/26/lei_2275-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2462
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/27/lei_2275-2017_errata_da_errata.pdf da norma Lei Ordinária nº 2.275, de 23 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "ONDE SE LÊ:\r\n07.001\tSecretaria Municipal de Educação e Cultura\r\n07.001.27.812.1241.1.946\tConstruir, Reformar e Ampliar Espaços Públicos Esportivos\tR$\tValor\tFonte/Recursos\r\nLeia se:\r\n07.001\tSecretaria Municipal de Educação e Cultura\r\n07.001.27.812.1",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/27/lei_2275-2017_errata_da_errata.pdf",
+      "ano": 2017,
+      "norma": 2462
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/28/lei_2276-2017_errata.pdf da norma Lei Ordinária nº 2.276, de 24 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DA PREFEITA\r\nERRATA DA LEI MUNICIPAL N.º 2.276/2017 DE 24 DE MAIO DE 2017, PUBLICADA NO “DIÁRIO OFICIAL DOS MUNICIPIOS Nº 1.964 NO DIA 26/05/2017.\r\nONDE SE-LÊ: Art.3.º\r\nLEIA - SÊ: Art. 2.º\r\nONDE SE-LÊ: Art. 4.º\r\nLEIA - SÊ: Art. 3.º",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/28/lei_2276-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2463
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/29/lei_2291-2017_errata.pdf da norma Lei Ordinária nº 2.291, de 28 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE PLANEJAMENTO E COORDENAÇÃO GERAL\r\nERRATA DA LEI Nº 2291/GP/2017, POSTADA NO “DIARIO OFICIAL DOS MUNICIPIOS” Nº 1996 NO DIA 12/07/2017.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/29/lei_2291-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2477
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/30/lei_2293-2017_errata.pdf da norma Lei Ordinária nº 2.293, de 30 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE PLANEJAMENTO E COORDENAÇÃO GERAL\r\nERRATA DA LEI Nº 2293/GP/2017, PUBLICADA NO “DIÁRIO OFICIAL DOS MUNICÍPIOS” Nº 1996, NO DIA 12/07/2017",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/30/lei_2293-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2479
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/32/lei__2.304-2017_errata.pdf da norma Lei Ordinária nº 2.304, de 16 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE SAÚDE\r\nERRATA DA LEI Nº 2.304/GP/2017, POSTADA NO “DIARIO OFICIAL DOS MUNICIPIOS” Nº 2023 NO DIA 18/08/2017",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/32/lei__2.304-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2496
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/33/lei__2.304-2017_errata_da_errata.pdf da norma Lei Ordinária nº 2.304, de 16 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/33/lei__2.304-2017_errata_da_errata.pdf",
+      "ano": 2017,
+      "norma": 2496
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/34/lei_2325-2017_errata_da_errata.pdf da norma Lei Ordinária nº 2.325, de 11 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DA PREFEITA\r\n ERRATA DA LEI Nº 2325/GP/2017, POSTADA NO “DIARIO OFICIAL DOS MUNICIPIOS” Nº 2061 NO DIA 13/10/2017",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/34/lei_2325-2017_errata_da_errata.pdf",
+      "ano": 2017,
+      "norma": 2517
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/35/lei_2326-2017_errata_da_errata.pdf da norma Lei Ordinária nº 2.326, de 11 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DA PREFEITA\r\nERRATA DA ERRATA DA LEI Nº 2326/GP/2017, POSTADA NO “DIARIO OFICIAL DOS MUNICIPIOS” Nº 2063 NO DIA 17/10/2017",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/35/lei_2326-2017_errata_da_errata.pdf",
+      "ano": 2017,
+      "norma": 2518
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/36/lei_2343-2017.pdf da norma Lei Ordinária nº 2.343, de 08 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DA PREFEITA\r\nERRATA DA LEI MUNICIPAL N.º 2.343/2017 \r\nONDE SE-LÊ: Art. 2º. Esta Lei entra em vigor na data de sua publicação, revogando dispositivos em contrários a esta. \r\nLEIA-SE: Art. 2º. Esta Lei entra em vigor na data de sua publicação.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/36/lei_2343-2017.pdf",
+      "ano": 2017,
+      "norma": 2535
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/37/lei_2344-2017_errata.pdf da norma Lei Ordinária nº 2.344, de 10 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "GABINETE DA PREFEITA\r\nERRATA DA LEI MUNICIPAL N.º 2.344/2017 DE 10 DE NOVEMBRO DE 2017, PUBLICADA NO “DIÁRIO OFICIAL DOS MUNICIPIOS Nº 2.082 NO DIA 14/11/2017 - CÓDIGO IDENTIFICADOR AB9AFE45.",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/37/lei_2344-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2536
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/38/lei_2348-2017_errata.pdf da norma Lei Ordinária nº 2.348, de 29 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "SECRETARIA MUNICIPAL DE PLANEJAMENTO E COORDENAÇÃO GERAL\r\nERRATA DA ERRATA DA LEI Nº 2348/GP/2017, POSTADA NO “DIARIO OFICIAL DOS MUNICIPIOS” Nº 2094 NO DIA 01/12/2017",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2017/38/lei_2348-2017_errata.pdf",
+      "ano": 2017,
+      "norma": 2540
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/40/anexo_ix-dem._desp._orgao_e_funcoes_10.pdf da norma Lei Ordinária nº 2.706, de 31 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/40/anexo_ix-dem._desp._orgao_e_funcoes_10.pdf",
+      "ano": 2020,
+      "norma": 2570
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/41/anexo_xi_gabinete_do_prefeito_e_vice-prefeito.pdf da norma Lei Ordinária nº 2.706, de 31 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/41/anexo_xi_gabinete_do_prefeito_e_vice-prefeito.pdf",
+      "ano": 2020,
+      "norma": 2570
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/42/anexo_xiii_secretaria_municipal_de_fazenda_e.pdf da norma Lei Ordinária nº 2.706, de 31 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/42/anexo_xiii_secretaria_municipal_de_fazenda_e.pdf",
+      "ano": 2020,
+      "norma": 2570
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/43/anexo_xviii_secretaria_municipal_de_saude_-_semsau.pdf da norma Lei Ordinária nº 2.706, de 31 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/43/anexo_xviii_secretaria_municipal_de_saude_-_semsau.pdf",
+      "ano": 2020,
+      "norma": 2570
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/44/competencias_e_atribuicoes_capitulo_i.pdf da norma Lei Ordinária nº 2.706, de 31 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/44/competencias_e_atribuicoes_capitulo_i.pdf",
+      "ano": 2020,
+      "norma": 2570
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/45/competencias_e_atribuicoes_capitulo_i.pdf da norma Lei Ordinária nº 2.706, de 31 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/45/competencias_e_atribuicoes_capitulo_i.pdf",
+      "ano": 2020,
+      "norma": 2570
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/46/quadro_de_vagas_-_anexo_x.pdf da norma Lei Ordinária nº 2.706, de 31 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2020/46/quadro_de_vagas_-_anexo_x.pdf",
+      "ano": 2020,
+      "norma": 2570
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/47/lei_complementar_028-2021_retificacao.pdf da norma Lei Complementar nº 28, de 16 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "RETIFICAÇÃO DA LEI COMPLEMENTAR",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2021/47/lei_complementar_028-2021_retificacao.pdf",
+      "ano": 2021,
+      "norma": 2633
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/48/prefeitura_municipal_de_pimenta_bueno.pdf da norma Lei Ordinária nº 2.849, de 02 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.pimentabueno.ro.leg.br/media/sapl/public/anexonormajuridica/2022/48/prefeitura_municipal_de_pimenta_bueno.pdf",
+      "ano": 2022,
+      "norma": 2708
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.pimentabueno.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pimentabueno.ro.leg.br/d7925d7d04828af6b1040abbfc778e8b9cbdfce2dac35e3cfc445f1c942ceffb.json",
+      "sha256": "5904c34732e0ea5e9247ae50466860a74b7d94bae0055696dfd599c7381aa85f",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pimentabueno.ro.leg.br/d7925d7d04828af6b1040abbfc778e8b9cbdfce2dac35e3cfc445f1c942ceffb.meta.json"
+    }
+  ],
+  "total": 46
+}

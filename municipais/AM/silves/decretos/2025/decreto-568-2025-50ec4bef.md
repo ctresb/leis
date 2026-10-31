@@ -1,0 +1,78 @@
+---
+titulo: "DECRETO N.º 568-A/GP-PMT DE 15 DE SETEMBRO DE 2025"
+uf: "AM"
+municipio: "SILVES"
+tipo: "Decreto"
+numero: "568"
+data: 2025-09-15
+ano: "2025"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 19/01/2026"
+data_publicacao: 2026-01-19
+codigo_identificador: "50EC4BEF"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118777_2026-01-16_b3d13dfe5b939fb32b37535bd695873c.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N.º 568-A/GP-PMT DE 15 DE SETEMBRO DE 2025
+
+DECRETO N.º 568-A/GP-PMT DE 15 DE SETEMBRO DE 2025
+DISPÕE
+SOBRE
+A
+DESIGNAÇÃO
+DE
+SERVIDORES PARA TITULAR E SUPLENTE DE
+FISCAL DE PROCESSO ADMINISTRATIVO Nº
+032/2025 DA PREFEITURA MUNICIPAL DE
+TABATINGA E DÁ OUTRAS PROVIDÊNCIAS.
+O EXCELENTÍSSIMO SENHOR PLINIO SOUZA DA CRUZ,
+M.D. PREFEITO DE TABATINGA/AM, no uso de suas
+atribuições legais, ex vi, tendo em vista o que dispõe o Art. 72 e inciso
+VI e IX do Art. 73 da Lei Orgânica do Município de Tabatinga;
+CONSIDERANDO, que cabe as entidades públicas, nos termos do
+disposto no artigo 117 da Lei Federal nº 14.133/2021, acompanhar e
+fiscalizar a execução dos contratos celebrados através de
+representantes da Administração.
+CONSIDERANDO, as disposições legais, previstas no artigo 37 da
+Constituição Federal, e o poder de discricionariedade do
+administrador público;
+DECRETA
+Art. 1º - DESIGNAR os servidores listados abaixo, nos termos do
+artigo nº 117 da Lei Federal nº 14.133/21, responsáveis pelo
+acompanhamento e fiscalização do Processo Administrativo nº
+032/2025-PMT, Pregão nº 035/2025-PMT, que dispõe sobre
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM
+SERVIÇOS DE CONFECÇÃO E INSTALAÇÃO DE
+LETREIROS E PLACAS DE IDENTIFICAÇÃO EM ACM,
+PARA ATENDER AS NECESSIDADES DA SECRETARIA
+MUNICIPAL DE EDUCAÇÃO, PODENDO SER ESTENDIDO
+ÁS DEMAIS SECRETARIAS MUNICIPAIS celebrado entre a
+PREFEITURA MUNICIPAL DE TABATINGA/AM.
+FISCAL TITULAR: Vanuzia Silva de Assis Holanda
+FISCAL SUPLENTE: Adeilton Maia Costa
+Art. 2º - Cabe aos servidores designados no Art. 1º do presente
+Decreto as seguintes atribuições:
+Zelar pelo efeito cumprimento das obrigações contratuais assumidas e
+pela qualidade dos serviços prestados;
+Acompanhar, fiscalizar e atestar as aquisições a execução dos serviços
+contratados;
+Cumprir fielmente as observações no Processo Administrativo nº
+032/2025-PMT.
+Art. 2.º - Este Decreto entra em vigor na data de sua publicação,
+revogando-se as disposições em contrário com efeito retroativo ao dia
+15 de setembro de 2025.
+Art. 3.º - Comunique-se, publique-se e cumpra-se.
+GABINETE DO PREFEITO DE TABATINGA/AM, de 15 de
+setembro de 2025.
+PLINIO SOUZA DA CRUZ
+Prefeito Municipal de Tabatinga/AM
+DADO CIÊNCIA, REGISTRADO E PUBLICADO NO
+SERVIÇO DE DECRETO DESTA PREFEITURA MUNICIPAL,
+NA DATA SUPRA, EM OBEDIÊNCIA AO DISPOSTO NO
+ART. 100 DA LEI ORGÂNICA DO MUNICÍPIO DE
+TABATINGA.
+BÁRBARA JUVENTINO DA SILVA
+Secretária Municipal de Administração
+Publicado por:
+Sabrina do Nascimento Ramos

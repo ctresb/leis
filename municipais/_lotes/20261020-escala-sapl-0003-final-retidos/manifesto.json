@@ -1,0 +1,165 @@
+{
+  "candidatos": 430,
+  "normas_aptas": 0,
+  "retidos": 430,
+  "estagios": {
+    "integridade_textual": 36,
+    "imagens_revisadas": 35,
+    "colunas_emissores": 32,
+    "anexos": 27,
+    "layout_sem_suspeitas": 3,
+    "intersecao_com_epigrafes_e_proveniencia": 1,
+    "confronto_integral_por_pagina": 0
+  },
+  "criterio": "O único candidato que restou antes da preservação integral apresentou divergência de ordem entre layout e palavras por coordenadas. Nenhuma norma é liberada por comparar OCR consigo. Os demais retidos exigem revisão própria; o resultado zero não significa ausência de atos no portal.",
+  "controles": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003/candidatos.paths.txt",
+      "sha256": "e2c1b9b2b66b75a888f6e07e99f52ab13d28ca8a4be0c4b28ac8508919335f5b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003/snapshot.json",
+      "sha256": "6cb4ea9187ef9cc33f5aa0f352ba169345e634bbc1145f1fb4f9e627759f4620"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003/pre-selecao.paths.txt",
+      "sha256": "df2def1cb07be4209bfa409531935da1131cb2b2bffbcaea377ec56ae0d3aec9"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003/pre-selecao-layout-final.paths.txt",
+      "sha256": "a69bbdae005ab524bca454f2242f852885ebbdadd6f69d8e255d124f2ba28ca6"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-integral/entrega-final.json",
+      "sha256": "af770cca6878c4d8a756abf7f9b2298789f469207602c1e02fc3d4bc0e13b495"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-integral/aprovados.paths.txt",
+      "sha256": "fd1d02252f2a79b315c8218c8a5d1061a224cffbf0023f17a764cbd799d036d6"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-integral/retidos.paths.txt",
+      "sha256": "ebc848e83138b965218b1800e51dc306ae3278ac26bfd6d2acbf8346cb9b1c7e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-integral/resultados.jsonl",
+      "sha256": "a6d23de8080b72d24d6f4e22c4ca5f374ffb5799e3c49f230b7a3bdfe9ba8501"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-imagens-v2/entrega-final.json",
+      "sha256": "55e6c550b65c63bde4d41d5883dcf35af419cad0bb332338410539f3f37e2fa0"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-imagens-v2/aprovados.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-imagens-v2/retidos.paths.txt",
+      "sha256": "010edc096e71d38ebdd4cd40742cc8752c6a56b2f09dd6519abe45e00a0136ff"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-imagens-v2/resultados.jsonl",
+      "sha256": "a1487aef1efb830c228c76550cacc4d29ea87c87b90a464389f2eab2a93f0150"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-colunas/controle.json",
+      "sha256": "b303840e51810933a4b104d1cd09369ba169a90eabe35c38fa39ea16d1d9c8a4"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-emissores/controle.json",
+      "sha256": "48bf03d3c70a2a7364e6900ed1826ec762fa27448657f6afe405763d32dfb879"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-catalogo/documentos.jsonl",
+      "sha256": "d0955d77af0579a8b805d8ce59dbe8222132914e085a091bdf5ccd11e6fae84b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-catalogo/revisao.json",
+      "sha256": "a431734d5419f6167998e612cba38e1ed991e13b188b97b83b0c1212a59fc227"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-catalogo/catalogo.json",
+      "sha256": "e3e6afe34bf59e3b927d50fff492f7522a043d133b1eb456984a3cd084dfb1c1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-decorativos-vistos/lote-0001.paths.txt",
+      "sha256": "e608edd9443542c6cf6ead8e786ed5a480891d1619665748ec9fbc6440fe6297"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-decorativos-vistos/entrega-final.json",
+      "sha256": "5b8f988f8970849881110753e6ca6b04879740adadcad578e69c7c5ea0d5f7d2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-decorativos-vistos/retidos.json",
+      "sha256": "c2d7f0fa0bec97935c3a364983b26a52e9608024742cd689b6e5cd60fa0a0704"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-decorativos-vistos/lote-0001.json",
+      "sha256": "8059b2897d372605391e1fae699603e39fc5a1f36ea6526e9fb23650ba770cee"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/entrega-final.json",
+      "sha256": "a672d44f3c87a8077a81e17c17a1c8b3d3b4587316ae4cb92c1ac1fc00faa061"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/aprovados.paths.txt",
+      "sha256": "5cae03665fa311a9d5f9da676060b8dc5db40566c156fd54d955716186d78e4d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/host-sapl.parelhas.rn.leg.br.json",
+      "sha256": "eaf8a361f5e052a2cf483e12b9b6fc34395a169ffbba70bcf60cbb1e0408b3b8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/overlay.json",
+      "sha256": "dd6195ddee06157bc3ac62d2ec48422884985487856edd0db3f37c055cfe7ebf"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/retidos.paths.txt",
+      "sha256": "6570db80dbd32e0c3e519f5a9131cf2e8e6dbd9824c22cf418e2ba2782207389"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-anexos/host-sapl.saojosedoserido.rn.leg.br.json",
+      "sha256": "88574819e7a4ef2c9637543287c79f9be01cd385401adb94488d21a0a0a9694f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-layout/aprovados.paths.txt",
+      "sha256": "95562cde9a050dd4ae9a63af98d159414eb3918bc083e286682019a0d8d6155c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-layout/retidos.paths.txt",
+      "sha256": "b160e3e5a5c9d6efbbeffb0a1394227925a8040fcd831f36c9798ae3753c596f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-layout/controle.json",
+      "sha256": "7a87a08bc836e0fe494a16859d0e93f26b48a8041ef22feaa0da042980b88541"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-epigrafes/sem-divergencia.paths.txt",
+      "sha256": "0053cd4568f13698de8802a6797e0bb0b26ed7b20f9469342b8ff20acc0a2cf2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-epigrafes/controle.json",
+      "sha256": "ba36edc6988fad4580301b85134e20d27b2d62999a2c8446a927d918d8d7c95f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-proveniencia/lote-0001.paths.txt",
+      "sha256": "5cae03665fa311a9d5f9da676060b8dc5db40566c156fd54d955716186d78e4d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-proveniencia/lote-0001.json",
+      "sha256": "b2365995d21a42ca88017fe309e47fea195dfe7c04802c365e79da8bf350be42"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-layout-integral/manifesto.json",
+      "sha256": "cf66e29f8c97f545205ead3c8149bd1ae747711166dbe7a0c5d08f3cf1b5a887"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-layout-integral/aprovados.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-layout-integral/retidos.paths.txt",
+      "sha256": "a69bbdae005ab524bca454f2242f852885ebbdadd6f69d8e255d124f2ba28ca6"
+    }
+  ]
+}

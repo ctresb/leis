@@ -1,0 +1,214 @@
+---
+titulo: "Lei Ordinária nº 4.580, de 30 de junho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4580"
+data: "2025-06-30"
+municipio: "Araucária"
+uf: "PR"
+codigo_ibge: "4101804"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araucaria.pr.leg.br/norma/2034"
+fonte_texto: "https://sapl.araucaria.pr.leg.br/ta/167/text"
+sha256_fonte: "f6e3a49893384e3f9eb29103ff9eb41824249dc69b7d1fc75492ecf33aad5e31"
+sha256_texto: "e349e2e05a2bb72080a6f14fdc84cb8e24df8c09df59e104230c46fd19a8b797"
+capturado_em_fonte: "2026-10-27T16:57:52.249011-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.580, de 30 de junho de 2025
+
+### TÍTULO I
+
+LEI N° 4.580, DE 30 DE JUNHO DE 2025.
+
+
+Dispõe sobre a distribuição de honorários advocatícios a título de sucumbência aos Advogados Legislativos da Câmara Municipal de Araucária, nos termos da Lei Federal n° 8.906, de 4 de julho de 1994 — Estatuto da Advocacia e a Ordem dos Advogados do Brasil e da Lei Federal n° 13.105, de 16 de março de 2015 — Código de Processo Civil, conforme especifica.
+
+
+A CÂMARA MUNICIPAL DE ARAUCÁRIA, Estado do Paraná, aprovou, e eu, Prefeito, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Os valores fixados e percebidos a título de honorários advocatícios por arbitramento, acordo ou sucumbência, nas ações judiciais ou administrativas de qualquer natureza, inclusive em andamento ou já arquivadas, em que for parte a Câmara Municipal de Araucária, serão devidos e destinados exclusivamente aos Advogados efetivos e Diretor Jurídico da Câmara Municipal de Araucária.
+
+
+§ 1º
+
+A verba honorária, de natureza alimentar, não se incorporará aos vencimentos dos Advogados e estará sujeita ao teto remuneratório a que se refere o inciso XI do art. 37 da Constituição Federal.
+
+
+§ 2º
+
+A verba honorária prevista no caput não constitui encargo da Câmara Municipal de Araucária, sendo paga exclusivamente pela parte sucumbente ou devedora.
+
+
+§ 3º
+
+Os honorários constituem verba variável, não computável para cálculo de qualquer vantagem remuneratória, não estando sujeita à incidência de contribuição previdenciária.
+
+
+§ 4º
+
+Os valores percebidos a título dos honorários advocatícios não servirão de parâmetro, nem influenciarão nos percentuais, nos índices ou na data base de reajuste dos Advogados, nem mesmo incidirão no cômputo de décimo terceiro salário, abono de férias e outras verbas legais.
+
+
+Art. 2º.
+
+Fica criado o Fundo Especial da Diretoria Jurídica da Câmara Municipal de Araucária — FEDJ, de natureza contábil, financeira autônoma, que movimentará seus recursos através de conta corrente bancária própria.
+
+
+Art. 3º.
+
+O FEDJ tem por finalidade suprir a Diretoria Jurídica com os recursos financeiros destinados a:
+
+
+I –
+
+pagamento da verba honorária, destinado aos Advogados efetivos da Câmara Municipal de Araucária e ao Diretor Jurídico, no total da receita que tratam os incisos I a IV do art. 4º desta Lei;
+
+
+II –
+
+despesas administrativas do FEDJ, necessárias à sua manutenção, tais como despesas contábeis, financeiras e judiciais.
+
+
+Art. 4º.
+
+Constituem receitas do FEDJ:
+
+
+I –
+
+receita dos honorários advocatícios especificados no art. 1º;
+
+
+II –
+
+o produto da remuneração das aplicações financeiras do próprio fundo;
+
+
+III –
+
+auxílios, subvenções, doações, legados e contribuições de pessoas naturais e jurídicas de direito privado ou público, desde que destinadas paraa Diretoria Jurídica ou ao próprio FEDJ;
+
+
+IV –
+
+quaisquer outras receitas que a ele possam ser legalmente incorporadas.
+
+
+§ 1º
+
+As receitas do FEDJ serão consignadas em fonte específica e não poderão ser revertidas, a qualquer título, ao Tesouro Municipal, sendo o seu saldo reaproveitado no exercício financeiro seguinte pelo próprio FEDJ.
+
+
+§ 2º
+
+Quando houver depósitos de valores descritos nos incisos I a IV do art. 4º em conta-corrente da Câmara Municipal de Araucária, estes deverão ser repassados diretamente à conta do FEDJ.
+
+
+§ 3º
+
+A receita será constituída a partir de seu ingresso em conta de titularidade do FEDJ.
+
+
+Art. 5º.
+
+Os recursos do FEDJ serão recolhidos em conta-corrente própria, vinculada ao fundo, e fonte específica da Câmara Municipal de Araucária.
+
+
+§ 1º
+
+Os recursos referidos no caput deverão ser depositados diretamente em conta específica de titularidade da Câmara Municipal de Araucária indicada nos autos do processo, e os valores levantados pelo Diretor Jurídico e pelos Advogados efetivos da Câmara Municipal de Araucária deverão ser depositados na referida conta quando o alvará for a eles destinado.
+
+
+§ 2º
+
+Levantado o alvará judicial, o valor deste deverá ser depositado no FEDJ em no máximo cinco dias úteis.
+
+
+§ 3º
+
+O saldo remanescente no final do exercício financeiro permanecerá na conta bancária específica para o exercício subsequente, de forma a assegurar a destinação prevista nesta Lei.
+
+
+Art. 6º.
+
+A importância arrecadada a título de verba honorária será paga diretamente pelo FEDJ no mesmo dia do pagamento da remuneração dos servidores municipais, sendo o período de apuração o do mês imediatamente anterior ao do pagamento.
+
+
+§ 1º
+
+Os honorários advocatícios serão divididos em quotas-partes iguais aos Advogados efetivos e Diretor Jurídico em efetivo exercício no período de apuração, proporcionalmente aos dias em que desempenharam suas atribuições no cargo.
+
+
+§ 2º
+
+No caso de o valor a ser pago superar o teto previsto no § 1º do art. 1º, o saldo permanecerá na conta específica do FEDJ e deverá ser pago no mês subsequente, repetindo-se o pagamento até que o valor seja integralmente depositado aos Advogados efetivos e Diretor Jurídico.
+
+
+Art. 7º.
+
+Os servidores beneficiários dos honorários previstos nesta Lei continuarão a receber a sua quota-parte em caso de afastamento para tratamento da própria saúde, de gozo de férias regulamentares ou licença-prêmio por assiduidade.
+
+
+§ 1º
+
+Os servidores em licença sem vencimentos ou qualquer outra situação em que não esteja no efetivo cumprimento de suas atribuições, com exceção das hipóteses previstas no caput deste artigo, não participarão da distribuição prevista nesta Lei.
+
+
+§ 2º
+
+Serão excluídos automaticamente do rateio das receitas do FEDJ aqueles que se encontrarem nas seguintes condições:
+
+
+I –
+
+demitidos ou exonerados do cargo;
+
+
+II –
+
+em licença para tratar de interesses particulares;
+
+
+III –
+
+no exercício exclusivo de mandato eletivo;
+
+
+IV –
+
+afastados do exercício da função a pedido próprio ou por seu interesse.
+
+
+Parágrafo único
+
+A reinclusão no rateio, após encerradas as hipóteses de exclusão acima, implicará o recebimento do prêmio por atividade jurídica proporcionalmente aos dias de efetivo exercício das suas funções no cargo.
+
+
+Art. 8º.
+
+Na execução orçamentária da Câmara Municipal não serão admitidas restrições de qualquer natureza, por envolver transferência de verbas pertencentes em caráter privado e de cunho alimentar aos Advogados efetivos e Diretor Jurídico enquadrados nesta Lei.
+
+
+Art. 9º.
+
+É nula qualquer disposição, cláusula, regulamento ou ato administrativo que retire, no todo ou em parte, dos beneficiários o direito à distribuição dos honorários advocatícios sucumbenciais de que trata esta Lei.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura do Município de Araucária, 30 de junho de 2025.
+
+
+LUIZ GUSTAVO BOTOGOSKI Prefeito de Araucária
+

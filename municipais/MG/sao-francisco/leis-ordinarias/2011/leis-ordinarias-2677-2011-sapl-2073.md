@@ -1,0 +1,693 @@
+---
+titulo: "Lei Ordinária-EXEC nº 2.677, de 18 de janeiro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2677"
+data: "2011-01-18"
+municipio: "São Francisco"
+uf: "MG"
+codigo_ibge: "3161106"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.saofrancisco.mg.leg.br/norma/2073"
+fonte_texto: "https://sapl.saofrancisco.mg.leg.br/media/sapl/public/normajuridica/2011/2073/2677.pdf"
+sha256_fonte: "8f61b6cabe66e0c56824628f7764c4f56dd12cded9881a64d598d75a1191e1f5"
+sha256_texto: "da931464fd3f293d4a5ba27f5c5bc9dae220b826f4550c90c300526d36c9cb55"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-EXEC nº 2.677, de 18 de janeiro de 2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE SÃO FRANCISCO MINAS GERAIS Rua Montes Claros n° 243 - Centro - CEP 39.300-000 - CNPJ 22.679.153/0001-40
+
+LEI DE N.° 2.677 DE 18 DE JANEIRO DE 2011. AUTORIZA O PODER EXECUTIVO MUNICIPAL A ABRIR CREDITO ESPECIAL NO EXERCICIO FINANCEIRO DE 2011 ALTERANDO A LEI ORÇAMENTÁRIA ANUAL DE N° 2.672, E DÁ OUTRAS PROVIDENCIAS.
+
+**Art. 1°** - Fica autorizada a abertura de Crédito Adicional Especial, ao Orçamento da Prefeitura Municipal, no valor de R$ 7.784.194,00 (Sete milhões, setecentos e oitenta e quatro mil cento e noventa e quatro reais), com a finalidade de custear despesas do orçamento vigente. ORGÃO:
+
+02 11 Secretaria Municipal de Planejamento e Gestão UNIDADE ORÇAMENTARIA: 02 11 01 Departamento de Planejamento FUNÇÃO 04 Administração SUBFUNÇAO 04| 122 Administração Geral PROGRAMA 04 | 122 0001 Gestão Administrativa PROJETO/ATIVIDADE 04 | 122 0001 4.123 Manutenção das Ativ. Da Sec. De Planej. e Gestão 19.000,00 449052 Equipamento e material permanente 50,00
+
+277.805,00
+
+9.250,00 13.210,00
+
+20.940,00
+
+3.000,00
+
+15.000,00
+
+328.550,00
+
+04| 122 0001 4.124 Manutenção Divisão de Orçamento
+
+04 122 0001 4.125 Manutenção Divisão de Projetos/convênios
+
+5.100,00 5.000,00
+
+04 122 0001 4.126 Manutenção Divisão de Informática
+
+5100,00
+
+50000,00 04 | 122 0001 4.127 Manutenção Divisão de Prestação de Contas
+
+ORGAO: 02 11 Secretaria Municipal de Planjamento e Gestão
+
+02 Departamento de Gestão UNIDADE ORÇAMENTÁRIA: 02 11 04 Administração FUNÇAO SUBFUNÇÃO 04 122 Administração Geral
+
+PROGRAMA 04 122 0001 Gestão Administrativa
+
+04 122 0001 4.128 Manutenção Divisão de Recursos Humanos
+
+80000,00
+
+4500,00 9530,00
+
+8590,00
+
+15000,00
+
+1500,00
+
+04 122 0001 4.129 Manutenção Divisão de Material e Patrimônio
+
+200,00
+
+04 122 0001 4.130 Manut. Divisão de Arquivo Geral e Protocolo
+
+FUNÇÃO 99 Reservas SUBFUNÇÃO 99 999 Reserva de Contingência PROGRAMA 99 999 9999 Reservas
+
+99 999 9999 9.999 Reserva de Contingência 999999 Reserva 500.00,00
+
+ORGAO:
+
+02 12 Secretaria Municipal de Finanças UNIDADE ORÇAMENTARIA: 01 Procuradoria Adjunta de Finanças
+
+FUNÇÃO 04 SUBFUNÇÃO 04 122 PROGRAMA 04| 122 0001 Gestão Administrativa 04 122 0001 4.131 Manut. Divisão Procuradoria Adjunta de Finanças
+
+200,00
+
+ORGÃO:
+
+02 12 Secretaria Municipal de Finanças
+
+02 Departamento de Finanças 02 12 UNIDADE ORÇAMENTARIA: FUNÇAO 04 Administração SUBFUNÇÃO 04 122 Administração Geral PROGRAMA 04 122 0001 Gestão Administrativa 0001|4.132 Manutenção Divisão de Contabilidade 04| 122
+
+10.000,00
+
+70.000,00 4.770,00
+
+9.850,00
+
+5.000,00
+
+3.000,00
+
+35.000,00 2.000,00
+
+150.000,00
+
+04 122 0001 4.133 Manutenção Divisão de Tesouraria
+
+38.000,00
+
+3.000,00
+
+3.000,00
+
+04 122 0001 4.134 Manut. Div. de Tribut., Arrecadação e Fiscalização
+
+115000,00
+
+5000,00
+
+10000,00
+
+10000,00
+
+1050,0ął
+
+1000,0ął 25000,00
+
+FUNÇÃO 28 Encargos Especiais SUBFUNÇAO 28 122 Administração Geral PROGRAMA 28 122 0000 Encargos Especiais 28 122| 0001 4.081 Contribuição ao Pasep
+
+339047 Obrigações Tributarias e Contributivas 386.214,00 FUNÇAO Encargos Especiais
+
+28 841 Refinacinciamento da Divida Interna SUBFUNÇAO PROGRAMA 28 841 | 0000 Encargos Especiais
+
+28 841 0001 4.080 Amortização de Debitos 469071 Principal da Divida Contr. Resgatado
+
+469076 Principal Corrigido Div.Mobi.Refinanciada 637810,00 283583,50 469077 Principal Corrigido Div. Contratual Refinanciada 469091 Sentenças Judiciais 620426,50 469171 Principal da Divida Contr. Resgatado 1500100,00
+
+ORGÃO: HUADE ORÇAMENTARIA
+
+12 Secretaria Municipal de Finanças UNIDADE ORÇAMENTARIA: 02 12 03 Departamento de Administração 04 Administração SUBFUNÇAO 04 | 122 Administração Geral PROGRAMA 04 122 0001 Gestão Administrativa
+
+04 | 122 0001 4.135 Manutenção Divisão de Licitações
+
+600,00
+
+5000,00
+
+24000,00
+
+04 122 0001 4.136 Manutenção Divisão de Compras
+
+3.000,00
+
+100,0ął
+
+5.000,00 04 122 0001 4.137 Manutenção Divisão de Almoxarifado
+
+04 122| 0001|4.138 Manutenção Divisão de Administração e Finanças
+
+50,00
+
+277805,00 9250,00
+
+13210,00
+
+319101 Aposentadorias Reserva Remunerada e Reformas
+
+319103 Pensões
+
+20940,00 339005 Outros Beneficios Previdenciarios
+
+18000,00
+
+14000,00 328550,00
+
+10000,00
+
+210000,00 339092 Despesas de Exercicios Anteriores
+
+319092 Despesas de Exercicios Anteriores
+
+04 | 122 0001 4.139 Manutenção das Atividades de Capacitação
+
+339036 Outros Serviços de Terceiros - Pessoa Fisica 339039 Outros Serviços de Terceiros - Pessoa Juridica
+
+04 | 122 0001 4.140 Programa de Manutençãi - ETC
+
+319004 Contratação por Tempo Determinado 58.500,00
+
+100,0ł 339036 Outros Serviços de Terceiros - Pessoa Fisica
+
+339039 Outros Serviços de Terceiros - Pessoa Juridica 30,00 04 122 0001 3.088 Aquisição de Equipamentos e Mat Permanente
+
+449052 Equipamentos e Material Permanente 1.000,0ął 04 | 122 0001 3.089 Aquis. de Equip. e Mat Permanente Contabilidade
+
+449052 Equipamentos e Material Permanente 04 122| 0001 3.090 Aquis. de Equip. e Mat Permanente Fiscalização
+
+15.000,00 449052 Equipamentos e Material Permanente ORGAO:
+
+14 Secretaria Municipal de Meio Abiente
+
+UNIDADE ORÇAMENTARIA: 02 14 01 Secretaria Municipal de Meio Abiente FUNÇÃO 18 GESTAO AMBIENTAL SUBFUNÇÃO 18 451 INFRA-ESTRUTURA URBANA PROGRAMA 18 451 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 18 451 0008 4.115 MANUTENCAO DO PROGRAMA DE GESTAO AMBIENTAL
+
+50000,00
+
+5000,00
+
+5000,00
+
+FUNÇAO 18 GESTAO AMBIENTAL SUBFUNÇÃO 18 541 PRESERVACAO E CONSERVACAO AMBIENTAL PROGRAMA 18 541 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 18 541 0008 4.117 MANUT. DAS ATIVIDADES FUNDO DE MEIO AMBIENTE
+
+30000,0ł
+
+18 541 0008 3.081 CONSTRUCOES DE PEQUENAS BARRAGENS
+
+18 541| 0008 4.116 MANUTENCAO DAS ATIVADES DO CODEMA
+
+12000,00
+
+FUNÇÃO 18 GESTAO AMBIENTAL SUBFUNÇAO 18 122 Administração Geral PROGRAMA 18 122 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE
+
+18 | 122| 0008 4.141 MANUT. DAS ATIVIDADES SECR. DE MEIO AMBIENTE
+
+50,00 75865,00
+
+5950,00
+
+50,00
+
+3455,00
+
+3130,00
+
+12500,00
+
+1130,00
+
+17500,00
+
+50,00 339041 Contribuições 12000,00 FUNÇAO 18 GESTAO AMBIENTAL SUBFUNÇÃO 18 122 Administração Geral PROGRAMA 18 122 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 18 122 0008 3.082 EQUIP.MAT.PERMANENTE-FUNDO MEIO AMBIENTE
+
+449052 Equipamentos e Material Permanente 3.000,00 ORGÃO:
+
+02| 15 Secretaria Municipal de Infraestrutura Hidrica e Ações Comunitarias
+
+UNIDADE ORÇAMENTARIA: 02 15 01 Secretaria Municipal de Infraestrutura Hidrica e Ações Comunitarias FUNÇÃO 04 ADMINISTRAÇÃO
+
+SUBFUNÇÃO 04 244 ASSISTENCIA COMUNITARIA PROGRAMA 04 244 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 04 244| 0008 3.072 CONST., REFORMA E AMPL. DE CAIXAS D'AGUA
+
+04 244 0008 3.087 OBRAS E INSTALACOES DE SIST. DE ABASTEC. DE AGUA
+
+04 244 0008 4.142 MANUT. ATIVIDADES DA SECRETARIA
+
+50,00
+
+75765,00 5950,00
+
+50,00 3455,00
+
+3130,00
+
+12500,00
+
+1130,00
+
+17500,00
+
+339041 Contribuições
+
+50,00
+
+339032 Materiais, Bens ou Serviços p/ Distrib. Gratuito
+
+04 | 244| 0008 4.088 MANUTENCAO DE POCOS ARTESIANOS
+
+63.810,00
+
+7.280,00
+
+60.000,00
+
+10.000,00 70.000,00
+
+FUNÇÃO 14 DIREITOS DE CIDADANIA 14 244 ASSISTENCIA COMUNITARIA SUBFUNÇAO PROGRAMA 14 244 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 14 244 0008 3.042 AQUISCAO EQUIPAMENTO E MATERIAL PERMANENTE
+
+30.000,0ОîŚłÍ 449052 Equipamento e Material Permanente 14 244 0008 4.093 CONVENIO COM COMENAC
+
+7.000,00 339041 Contribuições FUNÇÃO 20 AGRICULTURA SUBFUNÇÃO 20 244 ASSISTENCIA COMUNITARIA PROGRAMA 20 244 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 20 244 0008 4.079 MANUTENÇÃO DOS CONSELHOS RURAIS
+
+319004 Contratação por Tempo Determinado
+
+ORGAO:
+
+02| 16 SECR. MUN. DE TURISMO CULTURA ESPORTE LAZAER PATRI. HISTORICO
+
+01 SECR. MUN. DE TURISMO CULTURA ESPORTE LAZAER PATRI. HISTO UNIDADE ORÇAMENTARIA: 02 16 FUNÇÃO 04 ADMINISTRAÇÃO SUBFUNÇÃO 04 122 ADMINISTRACAO GERAL PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO PROGRAMA 04 122 0011
+
+04 | 122 0011 3.047 AQUIS. DE EQUIPAMENTO E MATERIAL PERMAMENTE
+
+5.000,00 Euipamento e Material Permanente 449052 04 122 0011 3.048 CONSTRUCAO AMPLIACAO E REFORMAS - SEC. CULTURA
+
+30.000,00
+
+04 122 0011 4.060 MANUTENCAO DAS ATIVIDADE DA SECRETARIA
+
+9.000,00
+
+66.880,00
+
+10.790,00
+
+2.120,00
+
+1.500,00
+
+339031 Premiações Culturais, Art. Cient. Desportiva e Outras
+
+339032 Materiais, Bens ou Serviços p/ Distrib. Gratuito
+
+12.000,00
+
+FUNÇÃO 13 CULTURA 13 122 ADMINISTRACAO GERAL SUBFUNÇÃO PROGRAMA 13 122 0011 PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO 13 | 122 0011|4.062 | MANUTENCAO DAS FESTIVIDADES MUNICIPAIS
+
+10000,00
+
+3000,00
+
+FUNÇÃO 13 CULTURA 391 PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO SUBFUNÇAO 13 13 391 0011 PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO PROGRAMA 13 391| 0011|3.077 EQUIP MAT.PERMANENTE - PATRIMONIO CULTURAL
+
+8.000,00 Euipamento e Material Permanente 449052 13 | 391| 0011|4.087 MANUT.DAS ATIVIDADES DO CON.MUN.PATR.CUTURAL-CMPC
+
+25230,00
+
+5050,00
+
+FUNÇÃO 13 CULTURA 13 392 DIFUSAO CULTURAL SUBFUNÇAO PROGRAMA 13 392 0011 PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO 13 392| 0011 3.049 CONSTRUCAO E REFORMA DE OBRAS DE ARTE
+
+13| 392| 0011|3.073 AQUIS. DE MAT. PERM.-INC.CULT.PATR.HISTORICO
+
+449052 Equipamentos e Material Permanente 13 392 0011 4.061 MANUT. PROGR. DE INCENT.A CULT.PATR. HISTORICO
+
+71960,00
+
+7400,00
+
+5000,00
+
+98440,00
+
+12000,00 339041 Contribuições 13 392 0011 4.089 MANUTENCAO DO PROGRAMA PRESERVAR
+
+7.200,0ął 339041 Contribuições FUNÇÃO 04 ADMINISTRAÇÃO SUBFUNÇÃO 04| 695 TURISMO PROGRAMA 04 695 0003 PROGRAMA DE APOIO AO ESPORTE, LAZER E TURISMO 04 695 0003 3.084 CONST.MELHOR..AQ.MAT.PERM. DE ATRATIVOS TURISTICO
+
+449052 Equipamanentos e Materiais Permanente 04 695 0003 4.118 MANUTENCAO DAS ATIVIDADE DA DIVISAO DE TURISMO
+
+26.450,00
+
+84.000,00 7.000,00
+
+319016 Outras Despesas Variaveis - Pessoal Civil
+
+5.760,00
+
+2.000,00
+
+10.000,00
+
+3.000,0ął 339031 Premiações Culturais, Art. Cient. Desportiva e Outras 339032 Material, Bem ou Serviço p/ Distribuição Gratuita
+
+1.000,0ął
+
+10.000,00
+
+5.000,00 339041 Contribuições
+
+04 695 0003 4.119 MANUTENCAO DAS FESTIVIDADES MUNICIPAIS
+
+15.000,00
+
+25.000,00
+
+FUNÇÃO 27 DESPORTO E LAZER SUBFUNÇÃO 27 812 DESPORTO COMUNITARIO 812 0003 PROGRAMA DE APOIO AO ESPORTE, LAZER E TURISMO PROGRAMA 27 27 812| 0003 3.058 CONST.MELH.AQ.MAT.PERM. ESPACOS ESPORTIVOS
+
+449052 Equipamanentos e Materiais Permanente 27 | 812 0003 4.025 MANUT. DA ATIVIDADES DIVISAO DE ESPORTE E LAZER
+
+48670,00
+
+1970,00
+
+4260,00 319016 Outras Despesas Variaveis - Pessoal Civil
+
+4300,00
+
+35000,00
+
+339032 Material, Bem ou Serviço p/ Distribuição Gratuita
+
+4000,0ął
+
+32000,00 339041 Contribuições
+
+**Art. 2°** - A cobertura ao Crédito Especial do artigo anterior dar-se-á através da anulação de dotações conforme Artigo 43 item III, da Lei Federal 4.320/64 nas seguintes dotações.
+
+ORGÃO: 02 02 Secretaria Municipal de Administração e Finanças
+
+01 Secretaria Municipal de Administração e Finanças UNIDADE ORÇAMENTARIA: 02 02 FUNÇÃO 04 Administração SUBFUNÇAO 04 | 122 Administração Geral PROGRAMA 04 | 122 0001 Gestão Administrativa PROJETO/ATIVIDADE 04 122 0001 3.004 Aquisição de Equipamentos e Material Permanente
+
+449052 Equipamento e material permanente PROJETO/ATIVIDADE 04 122 0001 3.005 Aquisição de Equip. Mat. Permanente-Contabilidade
+
+449052 Equipamento e material permanente 04| 122| 0001 4.004 Manutenção das Ativ. Da Sec. Adm. E Finanças
+
+555.610,00
+
+18.500,00
+
+26.420,00
+
+319092 Despesas de Exercicios Anteriores
+
+319101 Aposentadorias Reserva Remunerada e Reformas
+
+319103 Pensões 41.880,00
+
+339005 Outros Beneficios Previdenciarios 10.000,00
+
+50.000,00
+
+3.000,00
+
+30.000,00
+
+751.700,00
+
+210.000,00 339092 Despesas de Exercicios Anteriores 10.000,00
+
+04 122 0001 4.005 Manutenção Divisão de Contabilidade
+
+80.000,00
+
+4.770,00
+
+9.850,00
+
+5.000,00
+
+3.000,00
+
+35.000,00
+
+2.000,0ął
+
+150.000,00
+
+04 122 0001 4.095 Manutenção Divisão de Recursos Humanos
+
+80000,0łął
+
+4500,00
+
+9530,00
+
+8590,00
+
+15000,00
+
+1500,00
+
+04 122 0001 4.096 Manutenção das Atividades de Capacitação
+
+04 122 0001 4.140 Programa de Manutençãi - ETC
+
+58.500,00 319004 Contratação por Tempo Determinado
+
+339036 Outros Serviços de Terceiros - Pessoa Fisica 30,00 339039 Outros Serviços de Terceiros - Pessoa Juridica SUBFUNÇAO 04 125 Normatização e Fiscalização PROGRAMA 04 | 125 0001 Gestão Administrativa PROJETO/ATIVIDADE 04| 125 0001 3.006 Aquisição de Equip. Mat. Permanente-Fiscalização 15.000,00 449052 Equipamento e material permanente 04 125 0001|4.006 Manutenção das Atividades da Fisc. E Tributação
+
+115000,00
+
+5000,00
+
+10000,00
+
+10000,00
+
+1050,00
+
+25000,00
+
+SUBFUNÇÃO 04 129 Administração de Receitas 129 0001 Gestão Administrativa PROGRAMA 04 04 129 0001 4.007 Manutenção da Atividades do Tesouro Municipal
+
+38.000,00
+
+3.000,00
+
+3.000,00
+
+FUNÇAO 28 Encargos Especiais SUBFUNÇÃO 28 122 Administração Geral PROGRAMA 28 122 0000 Encargos Especiais 28 122 0001 4.081 Contribuição ao Pasep
+
+339047 Obrigações Tributarias e Contributivas 386.214,00 28 841 Refinacinciamento da Divida Interna SUBFUNÇÃO PROGRAMA 28 841 0000 Encargos Especiais 28 841 0001 4.080 Amortização de Debitos
+
+469071 Principal da Divida Contr. Resgatado 637810,00 469076 Principal Corrigido Div.Mobi. Refinanciada 283583,50 469077 Principal Corrigido Div.Contratual Refinanciada 620426,50 469091 Sentenças Judiciais 1500100,00 469171 Principal da Divida Contr. Resgatado FUNÇÃO 99 Reservas SUBFUNÇÃO 99 999 Reserva de Contingência PROGRAMA 99 999 9999 Reservas 99 999 9999 9.999 Reserva de Contingência
+
+500.00,00 999999 Reserva
+
+ORGÃO: Sec. Munc. De Meio Amb., Ações Comum. e Rec. Hidricos
+
+02 08 02 08 UNIDADE ORÇAMENTARIA: 01 Sec. Munc. De Meio Amb., Ações Comum. e Rec. Hidricos FUNÇÃO 04 ADMINISTRAÇÃO SUBFUNÇÃO 04 244 ASSISTENCIA COMUNITARIA
+
+PROGRAMA 04 244 0008 PROGR. DE ASSIST. COMUNITARIA E MEIO AMBIENTE | 04 244 0008 3.072 CONST., REFORMA E AMPL. DE CAIXAS D'AGUA
+
+04 244 0008 3.087 OBRAS E INSTALACOES DE SIST. DE ABASTEC. DE AGUA
+
+| 04 244| 0008|4.045 MANUT. ATIV. SEC.M.AMB.AÇÕES COMUNIT REC. HIDRICOS
+
+151730,00
+
+11900,00
+
+6910,0łął
+
+6260,00
+
+25000,00
+
+339032 Materiais, Bens ou Serviços p/ Distrib. Gratuito 2260,00
+
+35000,00
+
+12000,00 339041 Contribuições
+
+04 244 0008 4.088 MANUTENCAO DE POCOS ARTESIANOS
+
+63.810,00
+
+7.280,0ł
+
+60.000,00
+
+10.000,00
+
+70.000,00
+
+FUNÇÃO 14 DIREITOS DE CIDADANIA SUBFUNÇÃO 14 244 ASSISTENCIA COMUNITARIA PROGRAMA 14 244 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 14 244 0008 3.042 Aquisição Equipamento e Material Permanente-SACH
+
+30.000,00 449052 Equipamentos e Material Permanente 14 244 0008 4.093 CONVENIO COM COMENAC
+
+7.000,00 339041 Contribuições FUNÇÃO 18 GESTAO AMBIENTAL SUBFUNÇÃO 18 451 INFRA-ESTRUTURA URBANA 18 451 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE PROGRAMA 18 451 0008 4.115 MANUTENCAO DO PROGRAMA DE GESTAO AMBIENTAL
+
+50000,00
+
+5000,00
+
+5000,00
+
+SUBFUNÇÃO 18 541 PRESERVACAO E CONSERVACAO AMBIENTAL PROGRAMA 18 541 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 18 541 0008 3.081 CONSTRUCOES DE PEQUENAS BARRAGENS
+
+18 541 0008 3.082 EQUIP.MAT.PERMANENTE-FUNDO MEIO AMBIENTE
+
+3.000,0ął 449052 Equipamentos e Material Permanente 18 | 541| 0008 4.116 MANUTENCAO DAS ATIVADES DO CODEMA
+
+12000,00
+
+| 18| 541 0008 4.117 MANUTENÇÃO DAS ATIVIDADES FUNDO DE MEIO AMBIENTE
+
+30000,00
+
+100,0ął
+
+100,0łął
+
+FUNÇÃO 20 AGRICULTURA SUBFUNÇÃO 20 244 ASSISTENCIA COMUNITARIA PROGRAMA 20 244 0008 PROGR. DE ASSISTENCIA COMUNITARIA E MEIO AMBIENTE 20 244 0008 4.079 MANUTENÇÃO DOS CONSELHOS RURAIS
+
+319004 Contratação por Tempo Determinado
+
+ORGAO: 02 09 SECR. MUN. DE CULTURA E PATRIM. HISTORICO
+
+UNIDADE ORÇAMENTARIA: 02 09 01 SECR. MUN. DE CULTURA E PATRIM. HISTORICO FUNÇAO 04 ADMINISTRAÇÃO SUBFUNÇAO 04 122 ADMINISTRACAO GERAL PROGRAMA 04 122 0011 PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO 04 122 0011 3.047 AQUIS. DE EQUIPAMENTO E MATERIAL PERMAMENTE
+
+5.000,00 Euipamento e Material Permanente 449052 04 | 122 0011 3.048 CONSTRUCAO AMPLIACAO E REFORMAS - SEC. CULTURA
+
+30.000,00
+
+04 122 0011 4.060 MANUTENCAO DAS ATIVIDADE DA SECRETARIA
+
+9.000,0łął
+
+66.880,00
+
+10.790,00
+
+2.120,00
+
+1.500,00
+
+339031 Premiações Culturais, Art. Cient. Desportiva e Outras
+
+339032 Materiais, Bens ou Serviços p/ Distrib. Gratuito
+
+12.000,00
+
+FUNÇAO 13 CULTURA SUBFUNÇÃO 13 122 ADMINISTRACAO GERAL PROGRAMA 13 122 0011 PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO 13 122 0011 4.062 MANUTENCAO DAS FESTIVIDADES MUNICIPAIS
+
+10000,00
+
+3000,00
+
+FUNÇÃO 13 CULTURA SUBFUNÇAO 13 391 PATRIMONIO HISTORICO, ARTISTICO E ARQUEOLOGICO PROGRAMA 13 391 0011 PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO 13 391 0011 3.077 EQUIP MAT.PERMANENTE - PATRIMONIO CULTURAL
+
+8.000,0łął 449052 Euipamento e Material Permanente
+
+13| 391 0011 4.087 MANUT.DAS ATIVIDADES DO CON.MUN.PATR.CUTURAL-CMPC
+
+25230,00
+
+5050,00
+
+FUNÇÃO 13 CULTURA SUBFUNÇÃO 13 392 DIFUSAO CULTURAL PROGRAMA 13 392 0011 PROGRAMA DE DIFUSAO DE CULTURA E PATR.HISTORICO 13 392 0011 3.049 CONSTRUCAO E REFORMA DE OBRAS DE ARTE
+
+13| 392| 0011/3.073 AQUIS. DE MAT. PERM.-INC.CULT.PATR.HISTORICO
+
+449052 Equipamentos e Material Permanente
+
+13 392| 0011|4.061 MANUT. PROGR. DE INCENT.A CULT.PATR. HISTORICO
+
+71960,00
+
+7400,00
+
+5000,00
+
+98440,00
+
+12000,00 339041 Contribuições 13 392 0011 4.089 MANUTENCAO DO PROGRAMA PRESERVAR
+
+339041 Contribuições 7.200,00
+
+ORGAO:
+
+10 SECR. MUN. DE ESPORTE, LAZER E TURISMO
+
+UNIDADE ORÇAMENTARIA: 02 10 | 01 SECR. MUN. DE ESPORTE, LAZER E TURISMO FUNÇÃO 04 ADMINISTRAÇÃO SUBFUNÇÃO 04 695 TURISMO PROGRAMA 04 695 0003 PROGRAMA DE APOIO AO ESPORTE, LAZER E TURISMO
+
+04 695 0003 3.084 CONST.MELHOR..AQ.MAT.PERM. DE ATRATIVOS TURISTICO
+
+449052 Equipamanentos e Materiais Permanente
+
+04 | 695 0003 4.118 MANUTENCAO DAS ATIVIDADE DA DIVISAO DE TURISMO
+
+26.450,00
+
+84.000,00
+
+7.000,00 319016 Outras Despesas Variaveis - Pessoal Civil
+
+5.760,00 2.000,00
+
+10.000,00 Premiações Culturais, Art. Cient. Desportiva e Outras 3.000,0ął 33903îŚ 339032 Material, Bem ou Serviço p/ Distribuição Gratuita
+
+1.000,0ął
+
+10.000,00 339041 Contribuições 5.000,0łł
+
+04 695 0003 4.119 MANUTENCAO DAS FESTIVIDADES MUNICIPAIS
+
+15.000,00
+
+25.000,00
+
+FUNÇÃO 27 DESPORTO E LAZER SUBFUNÇAO 27 812 DESPORTO COMUNITARIO 27 812 0003 PROGRAMA DE APOIO AO ESPORTE, LAZER E TURISMO PROGRAMA
+
+812 0003 3.058 CONST.MELH.AQ.MAT.PERM. ESPACOS ESPORTIVOS
+
+449052 Equipamanentos e Materiais Permanente
+
+27 | 812 0003 4.025 MANUT. DA ATIVIDADES DIVISAO DE ESPORTE E LAZER
+
+48670,00
+
+1970,00 319016 Outras Despesas Variaveis - Pessoal Civil 4260,00
+
+4300,00
+
+35000,00 339032 Material, Bem ou Serviço p/ Distribuição Gratuita
+
+4000,00
+
+339041 Contribuições 32000,00
+
+**Art. 3°** - Esta Lei entrará em vigor na data de sua publicação, revogando - se as disposições em contrário e retroagirá a 01 de janeiro de 2011. Registre-se. Publique-se. Cumpra-se São Francisco, 18 de janeiro de 2011 Luíz Rocha Neto Prefeito Municipal
+

@@ -1,0 +1,62 @@
+{
+  "host": "sapl.capitaoeneas.mg.leg.br",
+  "metadados_unicos_observados": 256,
+  "total_api_declarado": 256,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 57,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.capitaoeneas.mg.leg.br/df518b2190ee72341fb99940a2acabf47b6d6eef784f8717607b476baed979fe.json",
+    "url": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ef32a71f2e8cf3e030cdc9e807459e19e21661532f5e23388ba21a3125e65b14",
+    "bytes": 962,
+    "capturado_em": "2026-10-27T22:30:09.774708-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.capitaoeneas.mg.leg.br/c5832678775f766786aea4c1ff12c84029f08ac28c32fee16a809fed5551f8da.json",
+    "url": "https://sapl.capitaoeneas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.capitaoeneas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d7bf4fd000afb6aebc5c9131b8162cc7731d10be5ee08a2a9c16ff6b1a7fabf3",
+    "bytes": 816,
+    "capturado_em": "2026-10-27T22:30:09.153547-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.capitaoeneas.mg.leg.br/2063df5d26159ad989545304d39be06b691482aefd504f6d7673f017c7e9ba5b.json",
+      "url": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b2e3b3b3792510e96f4d3625be9a563ebeec31715837efd1200dccd6236594f8",
+      "bytes": 65681,
+      "capturado_em": "2026-10-27T22:30:12.278301-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.capitaoeneas.mg.leg.br/91840d0afe1f2cd3fc71686df855e4380af5c184f0421cc804f0182182167616.json",
+      "url": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fec0a2324dd17323af2c55d2eddb19a4b86d2acbbc02dd6fe190bf7fe876bb37",
+      "bytes": 65260,
+      "capturado_em": "2026-10-27T22:30:55.283540-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.capitaoeneas.mg.leg.br/3a51f9a18651a5de9c89571cd3fa52d22be19c54cdc36ead9282b5a600b6e05c.json",
+      "url": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.capitaoeneas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "91b2682543a4987cff8fa016472ef8c76b0ef626e33e3b31820684643af36260",
+      "bytes": 31212,
+      "capturado_em": "2026-10-27T22:31:43.667992-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

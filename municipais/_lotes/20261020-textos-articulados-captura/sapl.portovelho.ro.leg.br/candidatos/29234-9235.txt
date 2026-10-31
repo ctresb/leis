@@ -1,0 +1,107 @@
+“Dispõe sobre a obrigatoriedade de disponibilização, pelas empresas contratadas para a execução dos serviços de coleta de resíduos sólidos, de dados operacionais em tempo real como condição para liquidação e pagamento contratual, e dá outras providências.
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador **FRANCISCO GEDEÃO BESSA HOLANDA DE NEGREIROS**, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte:
+
+**L E I:**
+
+
+Art. 1º.
+
+As empresas contratadas para a execução dos serviços de coleta, transporte e destinação final de resíduos sólidos no Município de Porto Velho deverão disponibilizar, em tempo real, ao Poder Público Municipal, mediante sistema de monitoramento e telemetria da frota, os seguintes dados operacionais, considerados condição objetiva para aferição do adimplemento contratual:
+
+
+I –
+
+Posição georreferenciada (GPS) de cada veículo, com atualização contínua, contendo identificação do equipamento,velocidade, sentido, paradas, desvios e demais eventos de deslocamento;
+
+
+II –
+
+Trilhas completas das rotas executadas, com registro de data, horário, trechos percorridos, pontos de coleta atendidos, interrupções e alterações do itinerário;
+
+
+III –
+
+Identificação integral dos veículos utilizados no serviço, incluindo placas, número operacional e equipe embarcada;
+
+
+IV –
+
+Registro automático e individualizado dos eventos de pesagem no aterro sanitário, abrangendo data, hora, peso bruto, tara, peso líquido e identificação da balança utilizada;
+
+
+V –
+
+Registro eletrônico de entrada, conferência e identificação da carga no aterro sanitário por scanner, RFID ou tecnologia equivalente, integrável aos dados de telemetria e pesagem;
+
+
+VI –
+
+Relatórios consolidados de operação, gerados automaticamente pela plataforma de monitoramento, contendo histórico diário, semanal e mensal das coletas, rastreabilidade das rotas, quilometragem percorrida e volumes coletados.
+
+
+Art. 2º.
+
+O acesso aos dados previstos no art. 1º será:
+
+
+I –
+
+Integral e contínuo, por meio de credencial eletrônica, API ou painel de acompanhamento, aos órgãos municipais responsáveis pela fiscalização contratual;
+
+
+II –
+
+Disponibilizado automaticamente à Câmara Municipal de Porto Velho, para fins de fiscalização, conforme o art. 50, parágrafo único, da Lei Orgânica do Município.
+
+
+Art. 3º.
+
+A ausência, indisponibilidade, inconsistência ou recusa de fornecimento dos dados previstos nesta Lei caracteriza inadimplemento contratual, ensejando:
+
+
+I –
+
+Glosa total ou proporcional da medição;
+
+
+II –
+
+Suspensão do pagamento até a completa regularização;
+
+
+III –
+
+Demais sanções administrativas previstas na Lei Federal nº 14.133/2021 e no contrato.
+
+
+Art. 4º.
+
+O disposto nesta Lei possui natureza estritamente contratual, limitando-se a estabelecer critérios objetivos para verificação da execução pela contratada, não criando estruturas, rotinas internas, atribuições administrativas ou obrigações ao Poder Executivo Municipal.
+
+
+Art. 5º.
+
+O cumprimento das obrigações previstas nesta Lei será comprovado exclusivamente pela empresa contratada, mediante sistemas próprios ou integrados, sem prejuízo da autonomia fiscalizatória do Município.
+
+
+Art. 6º.
+
+O Poder Executivo, se necessário, poderá regulamentar esta Lei para fins de padronização do formato de disponibilização dos dados.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 11 de maio de 2026.
+
+
+**FRANCISCO GEDEÃO BESSA HOLANDA DE NEGREIROS**  
+*Presidente da Câmara Municipal de Porto Velho*
+
+
+Projeto de Lei nº 4.969/2025  
+Autoria: Vereador Dr. Breno Mendes

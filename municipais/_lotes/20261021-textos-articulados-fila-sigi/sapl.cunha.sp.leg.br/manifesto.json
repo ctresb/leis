@@ -1,0 +1,182 @@
+{
+  "host": "sapl.cunha.sp.leg.br",
+  "metadados_unicos_observados": 1481,
+  "total_api_declarado": 1481,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 308,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/f44961bc609d348234dc08df5728b498c853d9502dd8aa2bd2bfa5563d67a53f.json",
+    "url": "https://sapl.cunha.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3968a4b1edc4f0a7fc9cdb03b1bfd9dc3c936ea485047a929d8fd1c92ec957f0",
+    "bytes": 1200,
+    "capturado_em": "2026-10-28T09:34:03.654297-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/2c7f55376da6cbd17210667bb1538d2778057b6c420eb12ec58ba01d5920c2ed.json",
+    "url": "https://sapl.cunha.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cunha.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0b0ca69e95e3835e03b9a056b4cdda0f89d51439640fd16592ec1fff620d82d3",
+    "bytes": 705,
+    "capturado_em": "2026-10-28T09:34:02.808596-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/b17567244adf86e6e54dd1fb62d060a253da44cea4c23d9e84e669f45723fc56.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "77d1cad8c4cbf60a3a5116dc67bf1288e1f2e594001a1cc4858e5b5247b85586",
+      "bytes": 75326,
+      "capturado_em": "2026-10-28T09:34:06.229290-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/fd777e8c61d0c1cd7f64becd9c4db43fd565021b5a9dc1d3588a4791c07a2d51.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0e624f41a9b3e0517ed697928d5e1873592d84e1fc027c6230f00a93ec749eb2",
+      "bytes": 81275,
+      "capturado_em": "2026-10-28T09:34:21.507611-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/b4ba1faa01fe4e96d4361ae49dbb0922b581d8270c2051c85306bc4c18c2279e.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f9f78d3c0c86c1f1ce99c06ae1784de2a3dae7f803a6cfc3c31f740bed3247b6",
+      "bytes": 81250,
+      "capturado_em": "2026-10-28T09:34:50.080614-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/d3ee43683ac46dc7d477d13172419a8bbbd347c20069ce159e174102b0aed307.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "19ba3cf11f2e86b4b1dbb4b77d0a4314df8795ea2dab7ac648f56ca083504a9b",
+      "bytes": 68069,
+      "capturado_em": "2026-10-28T09:35:01.399901-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/482a25b7b69f92b0502eda3fbd3db692af002b011b6d9fa4314c646b042277b4.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "690b49cb958fc8bd16a925bf7546ada408fab61738f76ee39c800e70a85b7ba1",
+      "bytes": 77233,
+      "capturado_em": "2026-10-28T09:35:28.508483-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/1e7324b2a90bbb06ee829d67e3938e94f1459f908a43987469e173999558d78d.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e4b96b82ad489a187e21890d196fb3663ba0d41272259b92e6a6bba1bfc83332",
+      "bytes": 71986,
+      "capturado_em": "2026-10-28T09:35:40.964670-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/f3036b80161a0affa7b4b2c8883c638cc79c686cb2eb997a3303df22e8fa5ff6.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "175bacea38da85a2c880e314e392b192c8bd8a5789e30e9af7ca7b8a7cdd66fc",
+      "bytes": 66458,
+      "capturado_em": "2026-10-28T09:36:17.962603-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/66303b8a932778c9b3878933933d845de48648d7548dd9dbd1dec650b36d46e9.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5c9099570c43c3ea0a05f725db7a011b75b28349c746df5c4d57bb3345c4f75c",
+      "bytes": 66873,
+      "capturado_em": "2026-10-28T09:36:41.161187-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/3a983fd600ff91c8d721b74f7009b062a62998259a211fa124135b79f22c91bd.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e8826c56e8f229f7f2014443b1675e1bdf96dc87a08c408c701e32fa6c3acc86",
+      "bytes": 62212,
+      "capturado_em": "2026-10-28T09:36:52.196695-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/6cdc6a5a72b89ad07cb57bc9fca2f5f1149b00c4735fe6b42a4ede5feaa2064c.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4a3526cd7f9f8de6ae608583a635123867a962c55c4b241479120044385eb764",
+      "bytes": 60521,
+      "capturado_em": "2026-10-28T09:37:15.105284-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/8f3c042ee85f9be2a89f313c277e0c53e9a8b333ee5327b888bfea87e33b8e4e.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3cbc706e8de69e59294ddab719cc88099bd20a3c202ffffdaf33068bc4c6f0ad",
+      "bytes": 68204,
+      "capturado_em": "2026-10-28T09:37:57.417484-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/234a3bf1a8a20715636f9e4118d979bca46da466eefb63cc446770ef8a0965c1.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "58eb955003cc0fe0ab4244e521e575ae213e6fd87588ee5929bd9fec929c981d",
+      "bytes": 72275,
+      "capturado_em": "2026-10-28T09:38:28.656145-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/5bd30672424ccd24112375bde3047ca28a1584f48186b3947a202afe42a1af74.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c44c056e594b208643b292709cd30f7cbc91d4e1635dfb19ed06873e31a14829",
+      "bytes": 65642,
+      "capturado_em": "2026-10-28T09:38:31.677674-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/d699d3acebcf452984a1f6fbe71e9bf00d7e5c0a79018ad310a658c0d6eb0939.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2e87a0176708b1f5a7e2c78732a157384d2e6a7b3899ac61fa74f29b871b50b0",
+      "bytes": 61498,
+      "capturado_em": "2026-10-28T09:39:39.975209-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cunha.sp.leg.br/59896116e04a2ab229ffe0f0f62ac41280ecea618c77200a4eafa906828f33da.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.cunha.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d141d5d5cc63260d16c0d4d38cc5f3bc0d769c913bec01161b9880a0f5c2f2af",
+      "bytes": 45347,
+      "capturado_em": "2026-10-28T09:42:42.520176-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,28 @@
+---
+titulo: "DECRETO Nº 3.269 DE 29 DE SETEMBRO DE 2026."
+uf: "RO"
+municipio: "NOVA MAMORÉ"
+tipo: "Decreto"
+numero: "3269"
+data: 2026-09-29
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 30/09/2026"
+data_publicacao: 2026-09-30
+codigo_identificador: "2DCE2CE8"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116162_2026-09-29_05bdb5fbae23ca0ad3c5d7005a6f34e9.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 3.269 DE 29 DE SETEMBRO DE 2026.
+
+DECRETO Nº 3.269 DE 29 DE SETEMBRO DE 2026.
+
+Ficha
+
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+
+Nova União/RO, 28 de setembro de 2026.
+
+Publicado por:
+Camilly Souza Oliveira

@@ -1,0 +1,51 @@
+Altera o Decreto nº 21.133, de 03 de julho de 2025 e o Decreto nº 22.021, de 20 de maio de 2026, que "dispõe sobre a regulamentação da estrutura básica dos órgãos e entidades da Administração Pública Municipal previstos na Lei Complementar nº 1.000, de 7 de janeiro de 2025", e dá outras providências, para redefinir a estrutura e as nomenclaturas da Secretaria Municipal de Segurança, Trânsito e Mobilidade – SEMTRAN.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe e conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Processo SEI nº 017.002609/2025-09.
+
+
+**CONSIDERANDO** a necessidade de adequar a estrutura de cargos em comissão da Secretaria Municipal de Segurança, Trânsito e Mobilidade (SEMTRAN) à realidade organizacional e às demandas técnicas das unidades administrativas, promovendo maior eficiência, modernização e racionalização das funções.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+O Anexo XXII do Decreto nº 21.133, de 3 de julho de 2025, passa a vigorar com a redação constante no Anexo Único deste Decreto.
+
+
+Art. 2º.
+
+As alterações de nomenclaturas e estrutura tratadas neste Decreto não implicam aumento de despesa, assegurada a compatibilidade com o art. 45 da Lei Complementar nº 1.000, de 7 de janeiro de 2025.
+
+
+Parágrafo único
+
+Os ocupantes dos cargos que sofreram alteração de nomenclatura, enquadramento ou gratificação por este Decreto não serão submetidos ao regime de exoneração e nova nomeação, devendo o Chefe do Poder Executivo Municipal expedir atos específicos de readequação ou reajuste das nomeações vigentes para refletir a nova nomenclatura ou gratificação, preservada a continuidade do vínculo funcional e observado o disposto no art. 46-A da Lei Complementar nº 1.000, de 7 de janeiro de 2025.”
+
+Inclusão feita pelo Art. 1º. - Decreto nº 22.288, de 29 de julho de 2026.
+
+
+Art. 3º.
+
+Ficam revogadas as disposições em contrário, em especial o Anexo III do Decreto nº 22.021, de 20 de maio de 2026.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito
+
+
+## Anexo I
+
+(Anexo XXII do Decreto nº 21.133, de 03 de julho de 2025)
+
+**SECRETARIA MUNICIPAL DE SEGURANÇA, TRÂNSITO E MOBILIDADE (SEMTRAN)**
+
+
+<table><tbody><tr><td><p>Unidade</p></td><td><p>CARGO</p></td><td><p>DAS</p></td><td><p>QNT</p></td></tr><tr><td><p>Gabinete da Secretaria</p></td><td><p>SECRETÁRIO MUNICIPAL</p></td><td><p>SUBSÍDIO</p></td><td><p>1</p></td></tr><tr><td><p>Gabinete da Secretaria</p></td><td><p>SECRETÁRIO MUNICIPAL ADJUNTO</p></td><td><p>DAS 15</p></td><td><p>1</p></td></tr><tr><td><p>Gabinete da Secretaria</p></td><td><p>ASSESSOR TÉCNICO I</p></td><td><p>DAS 06</p></td><td><p>1</p></td></tr><tr><td><p>Gabinete da Secretaria</p></td><td><p>ASSESSOR IV</p></td><td><p>DAS 04</p></td><td><p>1</p></td></tr><tr><td><p>Gabinete da Secretaria</p></td><td><p>ASSESSOR I</p></td><td><p>DAS 01</p></td><td><p>14</p></td></tr><tr><td><p>Assessoria de Controle Interno</p></td><td><p>SUPERVISOR DE CONTROLE</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Assessoria de Gestão e Análise de Dados</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Assessoria Técnica</p></td><td><p>ASSESSOR CHEFE</p></td><td><p>DAS 08</p></td><td><p>1</p></td></tr><tr><td><p>Assessoria Técnica</p></td><td><p>ASSESSOR TÉCNICO II</p></td><td><p>DAS 07</p></td><td><p>4</p></td></tr><tr><td><p>Assessoria Técnica</p></td><td><p>ASSESSOR TÉCNICO I</p></td><td><p>DAS 06</p></td><td><p>3</p></td></tr><tr><td><p>Assessoria Técnica</p></td><td><p>ASSESSOR IV</p></td><td><p>DAS 04</p></td><td><p>3</p></td></tr><tr><td><p>Assessoria Técnica</p></td><td><p>ASSESSOR II</p></td><td><p>DAS 02</p></td><td><p>5</p></td></tr><tr><td><p>Departamento Administrativo</p></td><td><p>DIRETOR I</p></td><td><p>DAS 08</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Gestão de Pessoas</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Apoio e Logística</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Convênio e Contratos</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Tecnologia da Informação e Transparência</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Planejamento e Instrução Processual</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Departamento de Engenharia de Tráfego e Mobilidade</p></td><td><p>DIRETOR I</p></td><td><p>DAS 08</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Estudo e Planejamento de Engenharia de Trânsito</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Elaboração de Projetos de Sinalização Viária</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Sinalização e Regulamentação de Trânsito</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Central Semafórica</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Acessibilidade</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Estacionamento Regulamentado</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Licenciamento de Obras e Polos Geradores de Tráfego</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Departamento de Transportes</p></td><td><p>DIRETOR I</p></td><td><p>DAS 08</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Serviços de Táxi</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Serviços Especiais de Transporte</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Serviços de MotoTáxi, Motofrete e Motoboy</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Fiscalização de Transporte</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Controle de Custo de Transporte e Reajuste Tarifário</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Gestão Operacional do Transporte Público</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Planejamento e Estudo de Transporte Público</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Departamento de Trânsito</p></td><td><p>DIRETOR I</p></td><td><p>DAS 08</p></td><td><p>1</p></td></tr><tr><td><p>Supervisão Municipal de Trânsito</p></td><td><p>SUPERVISOR I</p></td><td><p>DAS 05</p></td><td><p>4</p></td></tr><tr><td><p>Divisão de Fiscalização e Operação de Trânsito</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Gestão e Autorização Viária</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Remoção e Liberação de Veículos</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Treinamento e Educação para o Trânsito</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Gestão de Infrações</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Corregedoria da Guarda Municipal</p></td><td><p>CORREGEDOR DA GUARDA MUNICIPAL</p></td><td><p>DAS 12</p></td><td><p>1</p></td></tr><tr><td><p>Ouvidoria da Guarda Municipal</p></td><td><p>OUVIDOR DA GUARDA MUNICIPAL</p></td><td><p>DAS 10</p></td><td><p>1</p></td></tr><tr><td><p>Comando da Guarda Municipal</p></td><td><p>COMANDANTE DA GUARDA MUNICIPAL</p></td><td><p>DAS 12</p></td><td><p>1</p></td></tr><tr><td><p>Departamento de Segurança</p></td><td><p>DIRETOR I</p></td><td><p>DAS 08</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Policiamento Preventivo</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Operações Especiais</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td><p>Divisão de Gestão de Recursos Operacionais</p></td><td><p>GERENTE II</p></td><td><p>DAS 05</p></td><td><p>1</p></td></tr><tr><td colspan="3"><p><strong>TOTAL</strong></p></td><td><p>75</p></td></tr></tbody></table>

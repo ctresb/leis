@@ -1,0 +1,176 @@
+---
+titulo: "Lei Ordinária nº 1.734, de 11 de agosto de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1734"
+data: "2011-08-11"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2656"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/991/text"
+sha256_fonte: "6f56968ab0d763bd92ba9e3d837ee9682779eb6f9cd8443f1e14f2f96ee27eeb"
+sha256_texto: "37f8bdd10c4e4188235cb756a3e63072a2a109d3f68555b11cd10ece5151bf51"
+capturado_em_fonte: "2026-10-28T13:20:11.553054-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.734, de 11 de agosto de 2011
+
+Autoriza o Poder Executivo a criar e efetuar a abertura de crédito adicional especial no valor de R$ 250.000,00 (duzentos e cinquenta mil reais), e crédito adicional suplementar no valor de R$ 187.592,14 (cento e oitenta e sete mil, quinhentos e noventa e dois reais, e quatorze centavos), no orçamento anual do exercício de 2011 (Lei Municipal 1714 de 22/01/2011), ajustar as programações estabelecidas na Lei de Diretrizes Orçamentárias Exercício 2011 (Lei Municipal 1687 de 06/07/2010) e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir no orçamento anual do Município de Guaíra - PR exercício de 2011 (Lei Municipal 1714 de 22/01/2011), Crédito Especial no valor R$ 50.000,00 (cinqüenta mil reais), por transposição de crédito de dotação para criação da seguinte rubrica e programação orçamentária:  
+  
+ÓRGÃO 01 CÂMARA MUNICIPAL  
+UNIDADE 001 CÂMARA MUNICIPAL  
+FUNÇÃO 01 LEGISLATIVA  
+SUB-FUNÇÃO 031 AÇÃO LEGISLATIVA  
+PROGRAMA 0001 FISCALIZAÇÃO E CONTROLE EXTERNO E ATIVIDADES INTERNAS  
+PROJETO/ATIVIDADE 2001 MANUTENÇÃO E REVITALIZAÇÃO DA CÂMARA MUNICIPAL  
+ELEMENTO DE DESPESAS  
+4.6.90.71.99.00 1001 OUTRAS AMORTIZAÇÕES DA DÍVIDA CONTRATADA...........................R$ 50.000,00  
+  
+TOTAL...................................................................................R$ 50.000,00
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir no orçamento anual do Município de Guaíra - PR exercício de 2011 (Lei Municipal 1714 de 22/01/2011), Crédito Especial no valor R$ 200.000,00 (duzentos mil reais), por redução de crédito de dotação para criação da seguinte rubrica e programação orçamentária:  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 1013 CONSTRUÇÕES E AMPLIAÇÕES DAS UNIDADES DE SAUDE  
+ELEMENTO DE DESPESAS  
+44.90.51.00 1303 Obras e Instalações...................................................R$ 100.000,00  
+44.90.51.00 1495 Obras e Instalações...................................................R$ 100.000,00  
+  
+TOTAL..................................................................................R$ 200.000,00
+
+
+Art. 3º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir no orçamento anual do Município de Guaíra - PR exercício de 2011 (Lei Municipal 1714 de 22/01/2011), Crédito Adicional Suplementar no valor R$ 137.592,14 (cento e trinta e sete mil, quinhentos e noventa e dois reais, quatorze centavos), por transposição de crédito de dotação para suplementar as seguintes rubricas e programação orçamentária:  
+  
+ÓRGÃO 01 CÂMARA MUNICIPAL  
+UNIDADE 001 CÂMARA MUNICIPAL  
+FUNÇÃO 01 LEGISLATIVA  
+SUB-FUNÇÃO 031 AÇÃO LEGISLATIVA  
+PROGRAMA 0001 FISCALIZAÇÃO E CONTROLE EXTERNO E ATIVIDADES INTERNAS  
+PROJETO/ATIVIDADE 2001 MANUTENÇÃO E REVITALIZAÇÃO DA CÂMARA MUNICIPAL  
+ELEMENTO DE DESPESAS  
+3.3.90.14.00.00 1001 DIÁRIAS - PESSOAL CIVIL............................................R$ 30.000,00  
+3.3.90.30.00.00 1001 MATERIAL DE CONSUMO................................................R$ 20.000,00  
+3.3.90.33.00.00 1001 PASSAGENS E DESPESAS DE LOCOMOÇÃO..................................R$ 15.000,00  
+3.3.90.39.00.00 1001 OUTROS SERV.TERCEIROS - PESSOA JURÍDICA............................R$ 72.592,14  
+  
+TOTAL..................................................................................R$ 137.592,14
+
+
+Art. 4º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir no orçamento anual do Município de Guaíra - PR exercício de 2011 (Lei Municipal 1714 de 22/01/2011), Crédito Adicional Suplementar no valor R$ 50.000,00 (cinqüenta mil Reais), por redução de crédito de dotação para suplementar as seguintes rubricas e programação orçamentária:  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2.030 MANUT. E REVITALIZAÇÃO DO ENSINO FUNDAMENTAL- O. RECURSOS  
+ELEMENTO DE DESPESAS  
+31.90.16.00 1104 Outras Despesas Variáveis - Pessoal Civil 50.000,00  
+  
+TOTAL...................................................................................R$ 50.000,00
+
+
+Art. 5º.
+
+Diante da abertura de Crédito Especial constante do artigo 1º, o ANEXO II - Planejamento Orçamentário, do quadro descritivo de Metas/Indicadores no Exercício 2011 da Lei nº 1687 de 06/07/2010 (Lei de Diretrizes Orçamentárias), passa a vigorar acrescido da seguinte Meta/Indicador:  
+  
+METAS/INDICADORES NO EXERCÍCIO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+| INDICADORES | Unidade de | Índice | Índice |  
+| | Medida | Recente | Futuro |  
+|========================================|==================|===========|===========|  
+|Amortização e Refinanciamento da Dívida |Diversos |Diversos | 90,00|  
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_|
+
+
+Art. 6º.
+
+O Art.48 da Lei nº 1687 de 06/07/2010 (Lei de Diretrizes Orçamentárias), passa a vigorar acrescido de parágrafo único:
+
+
+Art. 7º.
+
+Fica também o Chefe do Poder Executivo Municipal autorizado a alterar o Anexo 2, da Lei nº 1687 de 06/07/2010 (Lei de Diretrizes Orçamentárias) e Anexos segundo as categorias econômicas da Lei nº 1714 de 22/01/2011 (Lei Orçamentária Anual).
+
+
+Art. 8º.
+
+Os recursos no valor de R$ 187.592,14 (cento e oitenta e sete mil, quinhentos e noventa e dois reais, quatorze centavos), necessários à execução deste Projeto Lei decorrerão de transposição de crédito de dotação através das reduções previstas na seguinte rubrica e programação orçamentária:  
+  
+ÓRGÃO 10 SECRETARIA MUNICIPAL DE INFRAESTRUTURA  
+UNIDADE 02 DEPARTAMENTO DE OBRAS  
+FUNÇÃO 15 URBANISMO  
+SUB-FUNÇÃO 451 INFRAESTRUTURA URBANA  
+PROGRAMA 0046 INFRAESTRUTURA URBANA  
+PROJETO/ATIVIDADE 1018 CONTRUÇÕES EM VIAS E LOGRADOUROS PUBLICOS  
+ELEMENTO DE DESPESAS  
+44.90.51.00 1000 Obras e Instalações...................................................R$ 187.592,14  
+  
+TOTAL..................................................................................R$ 187.592,14
+
+
+Art. 9º.
+
+Os recursos no valor de R$ 250.000,00 (duzentos e cinqüenta mil reais), necessários à execução deste Projeto Lei decorrerão de redução de crédito de dotação das seguintes rubricas e programação orçamentária:  
+  
+ÓRGÃO 06 SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+UNIDADE 01 DEPARTAMENTO DE EDUCAÇÃO  
+FUNÇÃO 12 EDUCAÇÃO  
+SUB-FUNÇÃO 361 ENSINO FUNDAMENTAL  
+PROGRAMA 0021 ENSINO FUNDAMENTAL  
+PROJETO/ATIVIDADE 2.030 MANUT. E REVITALIZAÇÃO DO ENSINO FUNDAMENTAL- O. RECURSOS  
+ELEMENTO DE DESPESAS  
+31.90.11.00 1104 Vencimentos e Vantagens Fixas - Pessoal Civil 50.000,00  
+  
+TOTAL...................................................................................R$ 50.000,00  
+  
+ÓRGÃO 08 SECRETARIA MUNICIPAL DE SAÚDE  
+UNIDADE 01 FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO 10 SAÚDE  
+SUB-FUNÇÃO 301 ATENÇÃO BASICA  
+PROGRAMA 0035 ATENÇÃO A SAÚDE  
+PROJETO/ATIVIDADE 2043 MANUTENÇÃO E REVIT. DO DEPARTAMENTO MÉDICO  
+ELEMENTO DE DESPESAS  
+33.90.39.00 1303 Outros Serviços de 3º - Pessoa Jurídica...............................R$ 100.000,00  
+33.90.30.00 1495 Material de Consumo....................................................R$ 50.000,00  
+33.90.32.00 1495 Material de Distribuição Gratuita......................................R$ 50.000,00  
+  
+TOTAL..................................................................................R$ 200.000,00
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 11 de agosto de 2011.  
+  
+DR. MANOEL KUBA  
+Prefeito Municipal
+

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cambira.pr.leg.br",
+  "metadados_unicos_observados": 5,
+  "total_api_declarado": 5,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 4,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cambira.pr.leg.br/99e690b143605573db9973947d3461855a0f7989b4d75c9c7b2865991bf289e5.json",
+    "url": "https://sapl.cambira.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cambira.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a5f5b3eaebf833caf8e5540f0a7624c091af10a62cea33e137aac71097c8d2fb",
+    "bytes": 952,
+    "capturado_em": "2026-10-27T22:18:00.954434-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cambira.pr.leg.br/a21ec9032630bae838f5d4ec7d81ea842ac688e4afaacddceabdd188ca43910b.json",
+    "url": "https://sapl.cambira.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cambira.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5365905e6e0cbe3be7619c4caf4a0c1eaad1c197fdc53968b95a4abc72da29a4",
+    "bytes": 695,
+    "capturado_em": "2026-10-27T22:17:59.793748-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cambira.pr.leg.br/2400433e3f4f885cc031683dd329b1a91c9b29ec54c7c838b6ad9b3679562796.json",
+      "url": "https://sapl.cambira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cambira.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "be81eaf3bf03be295ae810bb3d26f8c4a2dbe71fdef85cea100546463bdcebd3",
+      "bytes": 2745,
+      "capturado_em": "2026-10-27T22:18:01.778761-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

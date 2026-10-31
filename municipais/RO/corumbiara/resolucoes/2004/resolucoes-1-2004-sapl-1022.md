@@ -1,0 +1,107 @@
+---
+titulo: "RESOLUÇÃO nº 1, de 03 de setembro de 2004"
+tipo: "Resolução"
+tipo_na_fonte: "RESOLUÇÃO"
+numero: "1"
+data: "2004-09-03"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2006-12-15; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1022"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/210/text"
+sha256_fonte: "0841e0afb89d14713c7584a7e98c25828db9d77a885567d77b9913681c50db9a"
+sha256_texto: "943b23c150f066e1360e739f81159178ffb77666b225ec417a1c5f9cfd07e063"
+capturado_em_fonte: "2026-10-28T09:26:44.650690-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# RESOLUÇÃO nº 1, de 03 de setembro de 2004
+
+FIXA O SUBSÍDIO DOS VEREADORES PARA A LEGISLATURA DE 2005 A 2008 E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Mesa Diretora da Câmara Municipal de Corumbiara, Estado de Rondônia, usando de suas atribuições legais e para cumprir as normas legais da Legislação vigente, apresenta a seguinte
+
+**RESOLUÇÃO:**
+
+
+Art. 1º.
+
+Os subsídios dos Vereadores da Câmara Municipal de Corumbiara, Estado de Rondônia, para a Legislatura de 2005 a 2008, são fixados nos seguintes valores:
+
+Alteração feita pelo Art. 1º. - RESOLUÇÃO nº 2, de 15 de dezembro de 2006.
+
+
+I –
+
+Vereador Presidente da Câmara Municipal de Corumbiara em R$ 1.870,00 (um mil, oitocentos e setenta reais).
+
+Inclusão feita pelo Art. 1º. - RESOLUÇÃO nº 2, de 15 de dezembro de 2006.
+
+
+II –
+
+Vereador Vice-Presidente da Câmara Municipal de Corumbiara em R$ 1.401,00 (um mil, quatrocentos e um reais).
+
+Inclusão feita pelo Art. 1º. - RESOLUÇÃO nº 2, de 15 de dezembro de 2006.
+
+
+III –
+
+Vereador 1º Secretário da Câmara Municipal de Corumbiara em R$ 1.468,00 (um mil, quatrocentos e sessenta reais).
+
+Inclusão feita pelo Art. 1º. - RESOLUÇÃO nº 2, de 15 de dezembro de 2006.
+
+
+IV –
+
+Vereador 2º Secretário da Câmara Municipal de Corumbiara em R$ 1.401,00 (um mil, quatrocentos e um reais).
+
+Inclusão feita pelo Art. 1º. - RESOLUÇÃO nº 2, de 15 de dezembro de 2006.
+
+
+V –
+
+Aos demais Vereadores da Câmara Municipal de Corumbiara em R$ 1.200,00 (um mil e duzentos reais).
+
+Inclusão feita pelo Art. 1º. - RESOLUÇÃO nº 2, de 15 de dezembro de 2006.
+
+
+Art. 2º.
+
+O subsídio mensal dos Vereadores será dividido em parte fixa e parte variável, na proporção de 50% (cinqüenta por cento).
+
+
+§ 1º
+
+A parte fixa será paga integralmente por corresponder ao exercício do cargo eletivo.
+
+
+§ 2º
+
+A parte variável será paga na proporção do número de sessões ordinárias da Câmara Municipal, realizadas em cada mês.
+
+
+Art. 3º.
+
+As sessões extraordinárias convocadas pelo Prefeito Municipal e pelo Presidente da Câmara Municipal não serão remuneradas.
+
+
+Art. 4º.
+
+Fixa Verba de Representação, que será atribuída ao Presidente da Câmara Municipal de Corumbiara, no valor de 10% (dez por cento), ao Vice-Presidente, no valor de 3% (três por cento), ao Primeiro Secretário, no valor de 4% (quatro por cento) e ao Segundo Secretário, no valor de 3% sobre a remuneração do Prefeito Municipal, observando o disposto no Art. 20 e o Parágrafo Único da L.O.M.
+
+
+Art. 5º.
+
+Esta Resolução entrará em vigor na data de sua publicação, com efeitos Jurídicos e Financeiros a partir de 01 de janeiro de 2005, revogadas as disposições em contrário.
+
+
+Corumbiara, 03 de setembro de 2004.
+
+<table><tbody><tr><td><strong>Josué da Silva Lopes</strong><br>Presidente da Câmara<br>Munic. de Corumbiara</td></tr></tbody></table>
+

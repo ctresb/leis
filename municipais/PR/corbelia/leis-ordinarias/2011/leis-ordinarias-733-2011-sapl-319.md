@@ -1,0 +1,99 @@
+---
+titulo: "04 - Lei Ordinária nº 733, de 03 de maio de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "733"
+data: "2011-05-03"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/319"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/301/text"
+sha256_fonte: "a78499288e0ec564c919f258b86e4ccc0acab0e0e93497f1853ccd580b784123"
+sha256_texto: "e50307082798792b8250e2fc9e12cb8a83f5ad5db51bdab730449dcf3d90eb16"
+capturado_em_fonte: "2026-10-28T06:27:22.582825-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 733, de 03 de maio de 2011
+
+Dispõe sobre as ações da política de atendimento dos direitos da criança e do adolescente e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+O artigo 7º da Lei nº 694 de 10 de setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+O artigo 25 da Lei nº 694 de 10 de setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+O artigo 50 da Lei nº 694 de 10 de setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 4º.
+
+O artigo 54 da Lei nº 694 de 10 de setembro de 2009 passa a vigorar com seguinte redação:
+
+
+Art. 5º.
+
+O artigo 65 da Lei nº 694 de 10 setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 6º.
+
+O artigo 69 da Lei nº 694 de 10 setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 7º.
+
+O artigo 70 da Lei nº 694 de 10 setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 8º.
+
+O artigo 72 da Lei nº 694 de 10 setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 9º.
+
+O artigo 82 e o seu §1º da Lei nº 694 de 10 setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 10.
+
+Os incisos II e III do artigo 85 da Lei nº 694 de 10 setembro de 2009 passa a vigorar com a seguinte redação:
+
+
+Art. 11.
+
+Esta Lei terá os seus efeitos retroativos à 1º de março de 2011, ficando revogadas as disposições porventura contrárias, inclusive o artigo 27 da Lei nº 694 de 10 de setembro de 2009.
+
+
+Gabinete do Prefeito Municipal de Corbélia,
+
+Em, 03 de maio de 2011.
+
+Eliezer José Fontana
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial Jornal O Paraná nº 10.656 de 04/05/2011, pág. F6 CI1059912-E11.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/319/ta
+

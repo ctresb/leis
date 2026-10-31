@@ -1,0 +1,1523 @@
+---
+titulo: "LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "768"
+data: "2022-12-19"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/1079"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/252/text"
+sha256_fonte: "66f150a8774b21f16947c0c21fec9c21b0a164f39675fadd6d47e297cec3629d"
+sha256_texto: "23473287b0f8a061fe090d25177da7d1dc81a16523f7b265ef19f03b074a9467"
+capturado_em_fonte: "2026-10-27T20:12:32.774102-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 768, de 19 de dezembro de 2022
+
+Dispõe sobre a organização básica da Prefeitura e das Secretarias Municipais.
+
+
+O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE, Estado de Minas Gerais, no uso da atribuição que lhe confere o art. 76, incisos III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei estabelece a organização básica dos órgãos da Prefeitura e das Secretarias Municipais.
+
+
+§ 1º
+
+O detalhamento da organização dos órgãos de que trata esta Lei será definido nos decretos de estrutura administrativa.
+
+
+§ 2º
+
+Ato do Poder Executivo estabelecerá a vinculação das entidades da administração indireta aos órgãos da administração pública municipal.
+
+
+#### CAPÍTULO I — DA PREFEITURA MUNICIPAL
+
+
+##### Seção I — Dos Órgãos da Prefeitura Municipal
+
+
+Art. 2º.
+
+Integram a Prefeitura Municipal os órgãos subordinados diretamente ao Prefeito Municipal, sendo eles:
+
+
+I –
+
+o Gabinete do Prefeito, com status de Secretaria Municipal;
+
+
+II –
+
+a Controladoria, Ouvidoria e Corregedoria Geral do Município - CGM;
+
+
+III –
+
+a Procuradoria Geral do Município - PGM, de natureza especial;
+
+
+IV –
+
+a Administração Distrital de Palmital de Minas, com status de Secretaria Municipal; e,
+
+
+V –
+
+o Conselho de Governo, como órgão consultivo e de assessoramento do Prefeito.
+
+
+##### Seção II — Do Gabinete do Prefeito
+
+
+Art. 3º.
+
+Ao Gabinete do Prefeito compete:
+
+
+I –
+
+assistir diretamente o Prefeito Municipal no desempenho de suas atribuições, especialmente:
+
+
+a)
+
+no relacionamento e na articulação com as entidades da sociedade e na criação e na implementação de instrumentos de consulta e de participação popular de interesse do governo municipal;
+
+
+b)
+
+na realização de estudos de natureza político-institucional;
+
+
+c)
+
+na articulação política do Prefeito com outros Prefeitos e outros agentes políticos de nível municipal, estadual, distrital ou federal;
+
+
+II –
+
+supervisionar a área de relações públicas do Poder Executivo, administrando as contas pessoais e governamentais de mídias sociais oficiais do Prefeito e do Governo;
+
+
+III –
+
+supervisionar a área de convênios do Poder Executivo;
+
+
+IV –
+
+na preparação dos atos a serem submetidos ao Prefeito Municipal;
+
+
+V –
+
+na publicação e preservação dos atos oficiais;
+
+
+VI –
+
+assessorar na elaboração e coordenação da agenda do Prefeito Municipal;
+
+
+VII –
+
+exercer as atividades de secretariado particular do Prefeito Municipal;
+
+
+VIII –
+
+exercer as atividades de cerimonial;
+
+
+IX –
+
+planejar, coordenar e/ou supervisionar os eventos em que haja a presença do Prefeito Municipal e os deslocamentos dele;
+
+
+X –
+
+desempenhar a ajudância de ordens do Prefeito Municipal;
+
+
+XI –
+
+organizar o acervo documental privado do Prefeito Municipal;
+
+
+XII –
+
+realizar estudos e contatos determinados pelo Prefeito Municipal em assuntos que subsidiem a coordenação de ações em setores específicos do governo municipal;
+
+
+XIII –
+
+preparar material de informação e de apoio, bem como na preparar encontros e audiências do Prefeito Municipal com autoridades e personalidades nacionais e estrangeiras; e
+
+
+XIV –
+
+preparar a correspondência do Prefeito Municipal.
+
+
+Art. 4º.
+
+O Gabinete do Prefeito tem como estrutura básica:
+
+
+I –
+
+o Gabinete;
+
+
+II –
+
+a Assessoria de Relações Públicas;
+
+
+III –
+
+a Assessoria de Convênios; e
+
+
+IV –
+
+a Assessoria de Conselhos Municipais.
+
+
+##### Seção III — Da Controladoria, Ouvidoria e Corregedoria Geral
+
+
+Art. 5º.
+
+A Controladoria, Ouvidoria e Corregedoria Geral do Município rege-se pela Lei nº 676, de 14 de maio de 2020, observadas as alterações processadas nos termos do artigo 36 desta lei.
+
+
+Parágrafo único
+
+No exercício de suas atribuições e competências a Controladoria, Ouvidoria e Corregedoria Geral contará com apoio e suporte de assessoria especializada terceirizada.
+
+
+Art. 6º.
+
+A Controladoria, Ouvidoria e Corregedoria Geral tem como estrutura básica o Gabinete do Controlador.
+
+
+##### Seção IV — Da Procuradoria Geral do Município
+
+
+Art. 7º.
+
+À Procuradoria Geral do Município compete:
+
+
+I –
+
+representar, em juízo e fora dele, o Município e suas autarquias e fundações públicas;
+
+
+II –
+
+executar e cobrar, administrativa e judicialmente, a dívida ativa do Município;
+
+
+III –
+
+examinar previamente a legalidade dos contratos, convênios, acordos ou ajustes que interessem à Fazenda Municipal e à Administração Pública;
+
+
+IV –
+
+defender em juízo ou fora dele, ativa ou passivamente, os atos e prerrogativas do Prefeito;
+
+
+V –
+
+elaborar minutas de informações a serem prestadas ao judiciário em mandados de segurança, ação popular e ação civil pública impetrados contra ato do Prefeito e de outras autoridades que forem indicadas em norma legal ou regulamentar;
+
+
+VI –
+
+exercer funções de consultoria jurídica da Administração Municipal, no plano superior, bem como emitir pareceres, normativos ou não, para fixar a interpretação governamental de leis ou atos administrativos;
+
+
+VII –
+
+propor ao Prefeito o encaminhamento de representação para a declaração de inconstitucionalidade de quaisquer atos normativos, minutar a correspondente petição, bem como as informações que devem ser prestadas pelo Prefeito na forma da legislação específica;
+
+
+VIII –
+
+defender os interesses do Município junto aos contenciosos administrativos;
+
+
+IX –
+
+assessorar o Prefeito, cooperando na elaboração de matéria legislativa;
+
+
+X –
+
+opinar sobre providências de ordem jurídica aconselhadas pelo interesse público e pela aplicação das leis vigentes;
+
+
+XI –
+
+propor ao Prefeito a edição de normas legais ou regulamentares de natureza legal;
+
+
+XII –
+
+propor ao Prefeito, para os órgãos da Administração direta ou indireta e das fundações instituídas ou mantidas pelo Poder Público, medidas de caráter jurídico que visem proteger-lhes o patrimônio ou aperfeiçoar as práticas administrativas;
+
+
+XIII –
+
+elaborar minutas padronizadas dos termos de convênios, contratos e outros ajustes a serem firmados pelo Município;
+
+
+XIV –
+
+opinar, por determinação do Prefeito, sobre as consultas que devam ser formuladas pelos órgãos da Administração direta e indireta ao Tribunal de Contas do Estado e demais órgãos de controle financeiro, orçamentário e patrimonial;
+
+
+XV –
+
+opinar previamente com referência ao cumprimento de decisões judiciais e, por determinação do Prefeito, nos pedidos de extensão de julgados, relacionados com a Administração Direta Estadual;
+
+
+XVI –
+
+coordenar e supervisionar técnica e administrativamente os órgãos do Sistema Jurídico Municipal, estabelecendo normas complementares sobre seu funcionamento integrado e examinando suas manifestações e expedientes jurídicos que lhe sejam submetidos pelo Prefeito ou por Secretário Municipal;
+
+
+XVII –
+
+opinar, sempre que for solicitado, nos processos administrativos em que haja questão judicial correlata ou que neles possa influir como condição de seu prosseguimento;
+
+
+XVIII –
+
+acompanhar, supervisionar e assessorar comissões processantes em caso de processo disciplinar promovido contra servidor municipal;
+
+
+XIX –
+
+assistir diretamente o Prefeito Municipal na condução do relacionamento do Governo Municipal com a Câmara Municipal e com os partidos políticos; e
+
+
+XX –
+
+na verificação prévia da constitucionalidade e da legalidade dos atos administrativos expedidos pelos órgãos e unidades administrativas da Administração Pública Municipal.
+
+
+Parágrafo único
+
+A Procuradoria Geral exercerá suas competências diretamente ou por meio de prestadores de serviços, sob supervisão do dirigente máximo do órgão.
+
+
+Art. 8º.
+
+A Procuradoria Geral tem como estrutura básica o Gabinete do Procurador.
+
+
+##### Seção V — Da Administração Distrital de Palmital de Minas
+
+
+Art. 9º.
+
+À Administração Distrital de Palmital de Minas compete:
+
+
+I –
+
+realizar a interlocução das atividades da Prefeitura Municipal e suas Secretarias com o povo de Palmital de Minas;
+
+
+II –
+
+promover políticas públicas voltadas para o desenvolvimento de Palmital de Minas;
+
+
+III –
+
+superintender, sob ordem direta do Prefeito, os serviços municipais que funcionem em Palmital de Minas; e
+
+
+IV –
+
+representar o Prefeito Municipal no distrito de Palmital de Minas.
+
+
+Art. 10.
+
+A Administração Distrital de Palmital de Minas terá como estrutura básica:
+
+
+I –
+
+o Gabinete do Administrador;
+
+
+II –
+
+o Departamento Administrativo; e
+
+
+III –
+
+o Departamento de Serviços no Distrito.
+
+
+##### Seção VI — Do Conselho de Governo
+
+
+Art. 11.
+
+Ao Conselho de Governo compete assessorar o Prefeito Municipal na formulação de diretrizes de ação governamental, com os seguintes níveis de atuação:
+
+
+I –
+
+Conselho de Governo, presidido pelo Prefeito Municipal ou, por sua determinação, por pessoa por ele indicado, integrado pelos Secretários Municipais; e
+
+
+II –
+
+Câmaras do Conselho de Governo, criadas em ato do Poder Executivo, com a finalidade de formular políticas públicas setoriais cujos escopos ultrapassem a competência de mais de 1 (uma) Secretaria.
+
+
+§ 1º
+
+Para desenvolver as ações executivas das Câmaras mencionadas no inciso II do caput deste artigo, serão constituídos comitês executivos, cujos funcionamento, competência e composição serão definidos em ato do Poder Executivo.
+
+
+§ 2º
+
+O Conselho de Governo será convocado pelo Prefeito Municipal e será secretariado por membro ou servidor por ele designado.
+
+
+#### CAPÍTULO II — DAS SECRETARIAS MUNICIPAIS
+
+
+##### Seção I — Da Estrutura do Secretariado
+
+
+Art. 12.
+
+As Secretarias Municipais são as seguintes:
+
+
+I –
+
+de Administração e Planejamento;
+
+
+II –
+
+da Fazenda;
+
+
+III –
+
+de Educação;
+
+
+IV –
+
+de Saúde;
+
+
+V –
+
+de Infraestrutura;
+
+
+VI –
+
+de Agricultura;
+
+
+VII –
+
+de Esportes e Lazer;
+
+
+VIII –
+
+de Meio Ambiente, Cultura e Turismo; e
+
+
+IX –
+
+de Desenvolvimento Social.
+
+
+Art. 13.
+
+VETADO.
+
+
+##### Seção II — Da Secretaria Municipal de Administração e Planejamento
+
+
+Art. 14.
+
+Constituem áreas de competência da Secretaria Municipal de Administração e Planejamento:
+
+
+I –
+
+a supervisão e a execução das atividades administrativas da sede da Prefeitura Municipal;
+
+
+II –
+
+a supervisão e a execução centralizada dos serviços de:
+
+
+a)
+
+licitações, contratos, compras e orçamentos;
+
+
+b)
+
+recursos humanos;
+
+
+c)
+
+vigilância, limpeza e manutenção de próprios públicos;
+
+
+d)
+
+patrimônio público;
+
+
+e)
+
+tecnologia da informação;
+
+
+f)
+
+aquisição e distribuição de materiais de consumo;
+
+
+III –
+
+assistir diretamente o Prefeito Municipal no desempenho de suas atribuições, especialmente:
+
+
+a)
+
+na avaliação e no monitoramento da ação governamental e da gestão dos órgãos e das entidades da administração pública municipal;
+
+
+b)
+
+na coordenação e acompanhamento das atividades das Secretarias Municipais e da formulação de projetos e políticas públicas;
+
+
+c)
+
+na articulação política dos órgãos e unidades administrativas da administração direta e indireta do Governo Municipal;
+
+
+d)
+
+no planejamento municipal estratégico e de modernização do Município;
+
+
+e)
+
+na orientação das escolhas e das políticas públicas estratégicas de modernização do Município, de economicidade, de simplificação, de eficiência e de excelência de gestão, consideradas a situação atual e as possibilidades para o futuro;
+
+
+f)
+
+na elaboração de subsídios para a preparação de ações de governo;
+
+
+g)
+
+na definição, na coordenação, no monitoramento, na avaliação e na supervisão das ações dos programas de modernização do Município necessárias à sua execução; e
+
+
+h)
+
+na implementação de políticas e ações destinadas à ampliação das oportunidades de investimento, de cooperações e de parcerias estratégicas.
+
+
+Art. 15.
+
+Integram a estrutura básica da Secretaria Municipal de Administração e Planejamento:
+
+
+I –
+
+o Gabinete do Secretário;
+
+
+II –
+
+o Departamento de Licitações e Contratos;
+
+
+III –
+
+o Departamento de Planejamento e Compras;
+
+
+IV –
+
+o Departamento de Recursos Humanos;
+
+
+V –
+
+o Departamento de Patrimônio e Tecnologia; e
+
+
+VI –
+
+o Departamento de Serviços Gerais.
+
+
+##### Seção III — Da Secretaria Municipal da Fazenda
+
+
+Art. 16.
+
+Constituem áreas de competência da Secretaria Municipal da Fazenda:
+
+
+I –
+
+política, administração, fiscalização e arrecadação tributária;
+
+
+II –
+
+administração financeira e contabilidade públicas;
+
+
+III –
+
+administração das dívidas públicas interna e externa;
+
+
+IV –
+
+negociações econômicas e financeiras com governos, organismos multilaterais e agências governamentais;
+
+
+V –
+
+preços em geral e tarifas públicas e administradas;
+
+
+VI –
+
+elaboração de estudos e pesquisas para acompanhamento da conjuntura econômica;
+
+
+VII –
+
+expedição de alvarás de funcionamento de empresas e eventos no território municipal, nos termos da Lei;
+
+
+VIII –
+
+elaboração, acompanhamento e avaliação do plano plurianual de investimentos e dos orçamentos anuais;
+
+
+IX –
+
+viabilização de novas fontes de recursos para os planos de governo;
+
+
+X –
+
+formulação de diretrizes, coordenação de negociações e acompanhamento e avaliação de financiamentos de projetos públicos com organismos multilaterais e agências governamentais;
+
+
+XI –
+
+formulação da política de apoio à microempresa, à empresa de pequeno porte e ao artesanato;
+
+
+XII –
+
+articulação e supervisão dos órgãos e das entidades envolvidos na integração para registro e legalização de empresas; e
+
+
+XIII –
+
+políticas de desenvolvimento da indústria, do comércio e dos serviços.
+
+
+Parágrafo único
+
+Nos conselhos de administração das empresas públicas, das sociedades de economia mista, das autarquias, de suas subsidiárias e controladas e das demais empresas em que o Município, direta ou indiretamente, detenha a maioria do capital social com direito a voto, sempre haverá 1 (um) membro indicado pelo Secretário Municipal da Fazenda, ainda que não previsto na legislação específica de criação.
+
+
+Art. 17.
+
+Integram a estrutura básica da Secretaria Municipal da Fazenda:
+
+
+I –
+
+Gabinete do Secretário;
+
+
+II –
+
+Departamento de Arrecadação e Tributos;
+
+
+III –
+
+Departamento de Contabilidade; e
+
+
+IV –
+
+Departamento de Regularização Imobiliária.
+
+
+##### Seção IV — Da Secretaria Municipal de Educação
+
+
+Art. 18.
+
+Constituem áreas de competência da Secretaria Municipal de Educação:
+
+
+I –
+
+política municipal de educação;
+
+
+II –
+
+educação infantil;
+
+
+III –
+
+educação em geral, compreendidos o ensino fundamental, a educação de jovens e adultos, a educação profissional, a educação especial e a educação a distância;
+
+
+IV –
+
+avaliação, informação e pesquisa educacional; e
+
+
+V –
+
+magistério.
+
+
+§ 1º
+
+É competência subsidiária da Secretaria Municipal de Educação o apoio e o desenvolvimento ao ensino médio e superior, podendo, inclusive, subsidiar essas atividades a fim de desenvolver e capacitar a população local, principalmente nas áreas em que o Estado ou a União não atuarem ou forem deficitários na atuação.
+
+
+§ 2º
+
+Para o cumprimento de suas competências, a Secretaria Municipal de Educação poderá estabelecer parcerias com instituições civis que apresentam experiências exitosas em educação.
+
+
+Art. 19.
+
+Integram a estrutura básica da Secretaria Municipal de Educação:
+
+
+I –
+
+o Gabinete do Secretário;
+
+
+II –
+
+o Departamento de Transporte Escolar e Universitário;
+
+
+III –
+
+o Departamento Pedagógico;
+
+
+IV –
+
+o Departamento de Prestação de Contas e Caixa Escolar; e
+
+
+V –
+
+5 (cinco) Escolas Municipais.
+
+
+##### Seção V — Da Secretaria Municipal de Saúde
+
+
+Art. 20.
+
+Constituem áreas de competência da Secretaria Municipal de Saúde:
+
+
+I –
+
+política de saúde;
+
+
+II –
+
+coordenação e fiscalização do Sistema Único de Saúde;
+
+
+III –
+
+saúde ambiental e ações de promoção, de proteção e de recuperação da saúde individual e coletiva, inclusive a dos trabalhadores;
+
+
+IV –
+
+informações de saúde;
+
+
+V –
+
+insumos críticos para a saúde;
+
+
+VI –
+
+ação preventiva em geral, vigilância e controle sanitário;
+
+
+VII –
+
+vigilância de saúde, especialmente quanto a drogas, medicamentos e alimentos; e
+
+
+VIII –
+
+pesquisa científica e tecnologia na área de saúde.
+
+
+Art. 21.
+
+Integram a estrutura básica da Secretaria Municipal de Saúde:
+
+
+I –
+
+o Gabinete do Secretário;
+
+
+II –
+
+o Departamento de Vigilância em Saúde;
+
+
+III –
+
+o Departamento de Regulação e Ouvidoria;
+
+
+IV –
+
+o Departamento de Atenção Primária à Saúde; e
+
+
+V –
+
+o Departamento de Vigilância e Inspeção Sanitária.
+
+
+##### Seção VI — Da Secretaria Municipal de Infraestrutura
+
+
+Art. 22.
+
+Constituem áreas de competência da Secretaria Municipal de Infraestrutura:
+
+
+I –
+
+política de transportes de cargas, mercadorias e passageiros;
+
+
+II –
+
+política de trânsito;
+
+
+III –
+
+participação no planejamento estratégico, no estabelecimento de diretrizes para sua implementação e na definição das prioridades dos programas de investimentos em transportes;
+
+
+IV –
+
+desenvolvimento da infraestrutura das estradas municipais, com a finalidade de promover a segurança e a eficiência do transporte de cargas e de passageiros;
+
+
+V –
+
+a declaração de utilidade pública, para fins de desapropriação, de supressão vegetal ou de instituição de servidão administrativa, dos bens necessários à construção, à manutenção e à expansão da infraestrutura em transportes, na forma prevista em legislação específica;
+
+
+VI –
+
+a aprovação dos planos de zoneamento civil e de uso e ocupação do solo;
+
+
+VII –
+
+o planejamento, a regulação, a normatização e a gestão da aplicação de recursos em políticas de trânsito;
+
+
+VIII –
+
+de uso, cessão, concessão ou outorga de maquinários e equipamentos de uso para manutenção e melhoramento da infraestrutura viária;
+
+
+IX –
+
+coordenar, articular e fomentar políticas públicas necessárias à retomada e à execução de obras de implantação dos empreendimentos de infraestrutura considerados estratégicos
+
+
+X –
+
+na implementação de políticas e de ações destinadas à ampliação da infraestrutura pública e das oportunidades de investimento;
+
+
+XI –
+
+conduzir, acompanhar, fiscalizar e executar obras públicas;
+
+
+XII –
+
+serviços de engenharia, arquitetura e urbanismo no âmbito dos órgãos da administração pública direta e indireta do Poder Executivo;
+
+
+XIII –
+
+políticas de posturas e obras municipais; e
+
+
+XIV –
+
+plano diretor.
+
+
+Art. 23.
+
+Integram a estrutura básica da Secretaria Municipal de Infraestrutura:
+
+
+I –
+
+o Gabinete do Secretário; e
+
+
+II –
+
+o Departamento de Estradas e Mecânica.
+
+
+##### Seção VII — Da Secretaria Municipal de Agricultura
+
+
+Art. 24.
+
+Constituem áreas de competência da Secretaria Municipal de Agricultura:
+
+
+I –
+
+política agrícola, abrangidos a produção, a comercialização, o seguro rural, o abastecimento, a armazenagem e a garantia de preços mínimos;
+
+
+II –
+
+produção e fomento agropecuário, abrangidas a agricultura, a pecuária, a agroindústria, a agroenergia, as florestas plantadas, a aquicultura e a pesca;
+
+
+III –
+
+política nacional pesqueira e aquícola, inclusive gestão do uso dos recursos e dos licenciamentos, das permissões e das autorizações para o exercício da aquicultura e da pesca;
+
+
+IV –
+
+estoques reguladores e estratégicos de produtos agropecuários;
+
+
+V –
+
+informação agropecuária;
+
+
+VI –
+
+defesa agropecuária e segurança do alimento, abrangidos:
+
+
+a)
+
+saúde animal e sanidade vegetal;
+
+
+b)
+
+insumos agropecuários, inclusive a proteção de cultivares;
+
+
+c)
+
+alimentos, produtos, derivados e subprodutos de origem animal e vegetal;
+
+
+d)
+
+padronização e classificação de produtos e insumos agropecuários;
+
+
+e)
+
+controle de resíduos e contaminantes em alimentos;
+
+
+VII –
+
+pesquisa em agricultura, pecuária, sistemas agroflorestais, aquicultura, pesca e agroindústria;
+
+
+VIII –
+
+conservação e proteção de recursos genéticos de interesse para a agropecuária e a alimentação;
+
+
+IX –
+
+assistência técnica e extensão rural;
+
+
+X –
+
+irrigação e infraestrutura hídrica para produção agropecuária;
+
+
+XI –
+
+informação meteorológica e climatológica;
+
+
+XII –
+
+desenvolvimento rural sustentável;
+
+
+XIII –
+
+políticas e fomento da agricultura familiar;
+
+
+XIV –
+
+conservação e manejo do solo e da água, destinados ao processo produtivo agrícola, pecuário, sistemas agroflorestais e aquicultura;
+
+
+XV –
+
+boas práticas agropecuárias e bem-estar animal;
+
+
+XVI –
+
+cooperativismo e associativismo na agricultura, pecuária, aquicultura e pesca; e
+
+
+XVII –
+
+energização rural e agroenergia, incluída a eletrificação rural.
+
+
+Art. 25.
+
+Integra a estrutura básica da Secretaria Municipal de Agricultura o Gabinete do Secretário.
+
+
+##### Seção VIII — Da Secretaria Municipal de Esportes e Lazer
+
+
+Art. 26.
+
+Constituem áreas de competência da Secretaria Municipal de Esportes e Lazer:
+
+
+I –
+
+política de desenvolvimento da prática dos esportes;
+
+
+II –
+
+intercâmbio com organismos públicos e privados, nacionais, internacionais e estrangeiros, destinados à promoção do esporte;
+
+
+III –
+
+estímulo às iniciativas públicas e privadas de incentivo às atividades esportivas;
+
+
+IV –
+
+planejamento, coordenação, supervisão e avaliação dos planos e programas de incentivo aos esportes e de ações de democratização da prática esportiva e de inclusão social por intermédio do esporte;
+
+
+V –
+
+política de fomento e subsídio ao desenvolvimento e descoberta de atletas municipais; e
+
+
+VI –
+
+desenvolvimento de atividades e políticas de lazer e de atividades físicas.
+
+
+Art. 27.
+
+Integra a estrutura básica da Secretaria Municipal de Esportes e Lazer o Gabinete do Secretário.
+
+
+##### Seção IX — Da Secretaria Municipal de Meio Ambiente, Cultura e Turismo
+
+
+Art. 28.
+
+Constituem áreas de competência da Secretaria Municipal de Meio Ambiente, Cultura e Turismo:
+
+
+I –
+
+política de meio ambiente, de cultura e de turismo;
+
+
+II –
+
+política de preservação, conservação e utilização sustentável de ecossistemas, biodiversidade e florestas;
+
+
+III –
+
+estratégias, mecanismos e instrumentos econômicos e sociais para a melhoria da qualidade ambiental e o uso sustentável dos recursos naturais;
+
+
+IV –
+
+políticas para a integração do meio ambiente e a produção econômica;
+
+
+V –
+
+zoneamento ecológico econômico;
+
+
+VI –
+
+promoção e divulgação do turismo local, no País e no exterior;
+
+
+VII –
+
+estímulo às iniciativas públicas e privadas de incentivo às atividades turísticas;
+
+
+VIII –
+
+planejamento, coordenação, supervisão e avaliação dos planos e dos programas de incentivo ao turismo;
+
+
+IX –
+
+criação de diretrizes para a integração das ações e dos programas para o desenvolvimento do turismo local entre os governos federal, estaduais, distrital e demais municípios;
+
+
+X –
+
+formulação, em coordenação com as demais Secretarias, de políticas e ações integradas destinadas à melhoria da infraestrutura e à geração de emprego e renda nos destinos turísticos;
+
+
+XI –
+
+regulação, fiscalização e estímulo à formalização, à certificação e à classificação das atividades, dos empreendimentos e dos equipamentos dos prestadores de serviços turísticos;
+
+
+XII –
+
+proteção do patrimônio histórico, artístico e cultural;
+
+
+XIII –
+
+desenvolvimento e implementação de políticas e ações de acessibilidade cultural; e
+
+
+XIV –
+
+formulação e implementação de políticas, programas e ações para o desenvolvimento do setor museal.
+
+
+Art. 29.
+
+Integra a estrutura básica da Secretaria Municipal de Meio Ambiente, Cultura e Turismo o Departamento de Cultura e Turismo.
+
+
+##### Seção X — Da Secretaria Municipal de Desenvolvimento Social
+
+
+Art. 30.
+
+Constituem áreas de competência da Secretaria Municipal de Desenvolvimento Social:
+
+
+I –
+
+política de desenvolvimento social;
+
+
+II –
+
+política de segurança alimentar e nutricional;
+
+
+III –
+
+política de assistência social;
+
+
+IV –
+
+política de renda de cidadania;
+
+
+V –
+
+políticas sobre drogas, relativas a:
+
+
+a)
+
+educação, informação e capacitação para ação efetiva com vistas à redução do uso indevido de drogas lícitas e ilícitas;
+
+
+b)
+
+realização de campanhas de prevenção do uso indevido de drogas lícitas e ilícitas;
+
+
+c)
+
+implantação e implementação de rede integrada para pessoas com transtornos decorrentes do consumo de substâncias psicoativas;
+
+
+d)
+
+avaliação e acompanhamento de tratamentos e de iniciativas terapêuticas;
+
+
+e)
+
+redução das consequências sociais e de saúde decorrentes do uso indevido de drogas lícitas e ilícitas;
+
+
+VI –
+
+articulação, coordenação, supervisão, integração e proposição das ações do governo e do Sistema Nacional de Políticas Públicas sobre Drogas (Sisnad) quanto aos aspectos relacionados ao tratamento, à recuperação e à reinserção social de usuários e dependentes;
+
+
+VII –
+
+atuação em favor da ressocialização e da proteção dos dependentes químicos;
+
+
+VIII –
+
+articulação entre os governos federal, estaduais, distrital e municipais e a sociedade no estabelecimento de diretrizes e na execução de ações e programas nas áreas de desenvolvimento social, de segurança alimentar e nutricional, de renda, de cidadania e de assistência social;
+
+
+IX –
+
+orientação, acompanhamento, avaliação e supervisão de planos, programas e projetos relativos às áreas de desenvolvimento social, de segurança alimentar e nutricional, de renda, de cidadania e de assistência social;
+
+
+X –
+
+normatização, orientação, supervisão e avaliação da execução das políticas de desenvolvimento social, de segurança alimentar e nutricional, de renda, de cidadania e de assistência social;
+
+
+XI –
+
+coordenação, supervisão, controle e avaliação da operacionalização de programas de transferência de renda;
+
+
+XII –
+
+cooperativismo e associativismo urbanos;
+
+
+XIII –
+
+política de proteção e defesa civil;
+
+
+XIV –
+
+política nacional de habitação;
+
+
+XV –
+
+estabelecimento de diretrizes e normas relativas à política de subsídio à habitação popular, ao saneamento e à mobilidade urbana;
+
+
+XVI –
+
+políticas e diretrizes destinadas à promoção dos direitos humanos, incluídos os direitos:
+
+
+a)
+
+da mulher;
+
+
+b)
+
+da família;
+
+
+c)
+
+da criança e do adolescente;
+
+
+d)
+
+da juventude;
+
+
+e)
+
+do idoso;
+
+
+f)
+
+da pessoa com deficiência;
+
+
+g)
+
+da população negra;
+
+
+h)
+
+das minorias étnicas e sociais;
+
+
+XVII –
+
+articulação de iniciativas e apoio a projetos destinados à proteção e à promoção dos direitos humanos, com respeito aos fundamentos constitucionais do Estado de Direito;
+
+
+XVIII –
+
+exercício da função de ouvidoria nacional em assuntos relativos aos direitos humanos;
+
+
+XIX –
+
+políticas de promoção do reconhecimento e da valorização da dignidade da pessoa humana em sua integralidade; e
+
+
+XX –
+
+combate a todas as formas de violência, de preconceito, de discriminação e de intolerância;
+
+
+XXI –
+
+política e diretrizes para a geração de emprego e renda e de apoio ao trabalhador; e
+
+
+XXII –
+
+política e diretrizes para a modernização das relações de trabalho.
+
+
+Art. 31.
+
+Integram a estrutura básica da Secretaria Municipal de Desenvolvimento Social:
+
+
+I –
+
+o Gabinete do Secretário;
+
+
+II –
+
+o Departamento de Programas Sociais; e
+
+
+III –
+
+o Departamento de Assistência Social.
+
+
+#### CAPÍTULO III — DA ESTRUTURA REGIMENTAL DAS UNIDADES ADMINISTRATIVAS
+
+
+Art. 32.
+
+Os órgãos administrativos integrantes da estrutura básica das Secretarias Municipais terão suas competências disciplinadas por Decreto ou por Regimento Interno de cada Secretaria Municipal, mantidas as competências atribuídas a eles até a publicação do decreto ou do regimento interno.
+
+
+§ 1º
+
+O Decreto ou o Regimento Interno, expedido por ato do Secretário Municipal, irá distribuir as competências e as atividades da Secretaria em cada órgão da estrutura básica e em setores, se necessário, e fixar o respectivo organograma.
+
+
+§ 2º
+
+Decreto poderá estabelecer o exercício de competências não previstas nesta Lei para os órgãos da presente organização administrativa, e, também, fixar o exercício conjunto das competências previstas com auxílio ou participação de outro órgão.
+
+
+Art. 33.
+
+Nas hipóteses de calamidade pública ou de necessidade de especial atendimento à população, o Prefeito Municipal poderá dispor sobre a ação articulada entre órgãos, inclusive de diferentes níveis da administração pública.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 34.
+
+As unidades administrativas, os conselhos municipais e os fundos municipais existentes na data de publicação desta Lei, serão transformados, transferidos, incorporados ou vinculados à presente organização administrativa em até 90 (noventa) dias por Decreto.
+
+
+§ 1º
+
+As unidades administrativas não transformadas, transferidas, incorporadas ou vinculadas a presente organização administrativa serão extintas depois de decorrido o prazo estipulado no caput deste artigo.
+
+
+§ 2º
+
+A composição dos conselhos municipais e dos fundos municipais poderão ser modificadas por Decreto, limitada tais modificações à adequação dos representantes do Poder Executivo com base na nova organização administrativa estabelecida por esta Lei.
+
+
+Art. 35.
+
+Os servidores em atividade nos órgãos extintos, transformados, incorporados ou vinculados nos termos desta Lei ficam transferidos para os órgãos que absorverem as respectivas competências ou unidades administrativas.
+
+
+§ 1º
+
+A transferência de pessoal a que se refere o caput deste artigo não implicará alteração remuneratória e não poderá ser obstada a pretexto de limitação de exercício em outro órgão ou entidade por força de lei especial.
+
+
+§ 2º
+
+O disposto neste artigo aplica-se a:
+
+
+I –
+
+servidores efetivos lotados no órgão ou na entidade;
+
+
+II –
+
+servidores efetivos cedidos, requisitados, movimentados, em exercício temporário ou em exercício descentralizado; e
+
+
+III –
+
+pessoal temporário.
+
+
+§ 3º
+
+A gestão da folha de pagamento de pessoal, inclusive de inativos e de pensionistas, permanecerá com a unidade administrativa responsável até que haja disposição em contrário.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+
+Art. 36.
+
+A Lei nº 676, de 14 de maio de 2020passa a vigorar com as seguintes alterações:
+
+
+Art. 37.
+
+Revogam-se:
+
+
+I –
+
+a Lei nº 385, de 24 de janeiro de 2013;
+
+
+II –
+
+da Lei nº 676, de 14 de maio de 2020:
+
+
+a)
+
+os §§ 3º, 4º, 6º e 12 do artigo 28;
+
+
+b)
+
+o inciso II do § 7º do artigo 28; e
+
+
+III –
+
+a Lei nº 713, de 3 de setembro de 2021 .
+
+
+Art. 38.
+
+VETADO.
+
+
+Cabeceira Grande, MG, em 19 de dezembro de 2022; 26º da Instalação do Município.
+
+**ELDSON AMORIM DUARTE Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

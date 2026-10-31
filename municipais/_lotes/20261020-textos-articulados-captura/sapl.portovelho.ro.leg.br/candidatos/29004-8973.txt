@@ -1,0 +1,30 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+Considerando o Ofício n° 488/2026/SMCL-DA, de 20 de março de 2026, pelo qual a Secretaria Municipal de Contratos, Convênios e Licitações - SMCL solicita a movimentação para cobertura orçamentária com o Processo Administrativo nº. 003.000320/2025-04, tendo como objeto contratação de empresa especializada para fornecimento de licença de software antivírus,
+
+**DECRETA:**
+
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 54.116,00 (cinquenta e quatro mil, cento e dezesseis reais).
+
+**Art. 2º** - Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei n.º 3.348, de 27 de novembro de 2025 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>23.00 - SECRETARIA MUNICIPAL DE CONTRATOS, CONVÊNIOS E LICITAÇÕES - SMCL</strong></td></tr><tr><td colspan="7"><strong>23.01 - SECRETARIA MUNICIPAL DE CONTRATOS, CONVÊNIOS E LICITAÇÕES - SMCL</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DA DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>REMANEJA R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td>23.01.04.122.192.2.615 </td><td>Manutenção e Desenvolvimento dos Serviços Administrativos </td><td>FIS</td><td>3.3.90.14</td><td>1.500.0000.0000.0000</td><td>54.116,00</td><td> -</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>54.116,00</strong></td><td><strong>- </strong></td></tr><tr><td colspan="7"><strong>02.00 - SECRETARIA DE GOVERNO - SGOV</strong></td></tr><tr><td colspan="7"><strong>02.81 - SUPERINTENDÊNCIA MUNICIPAL DE TECNOLOGIA DA INFORMAÇÃO E PESQUISA - SMTI</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>  NATUREZA DA DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>REMANEJA R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td>02.81.19.572.356.2.844 </td><td>Modernizar as Soluções e Ativos de TI </td><td>FIS</td><td>3.3.90.40</td><td>1.500.0000.0000.0000</td><td>-</td><td>54.116,00</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>54.116,00</strong></td><td><strong>54.116,00</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>54.116,00</strong></td><td><strong>54.116,00</strong></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+**LEONARDO BARRETO DE MORAES**  
+Prefeito do Município
+
+**WAGNER GARCIA DE FREITAS**  
+Secretário Municipal de Economia
+
+**GEANE PEREIRA DA SILVA**  
+Procuradora Geral Adjunta do Município

@@ -1,0 +1,56 @@
+---
+titulo: "Lei nº 667, de 12 de dezembro de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "667"
+data: "1988-12-12"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/843"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/2088/text"
+sha256_fonte: "63a0313872c75021cbdba91fd25f4566f63a3313ff97ff203df7b2e56fdaf3ba"
+sha256_texto: "44e6104840b003bab365fd6e5dee51e2b0c50f507a5f3f9ce745f814904afcab"
+capturado_em_fonte: "2026-10-27T21:46:42.366999-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 667, de 12 de dezembro de 1988
+
+DISPÕE SOBRE O REAJUSTE SALARIAL DO QUADRO DE EMPREGOS, QUADRO PERMANENTE DE CARGOS, CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS, MAGISTÉRIO PÚBLICO MUNICIPAL, QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS.
+
+
+HILBERTO HEINZ SCHIEFELBEIN, PREFEITO MUNICIPAL DE AGUDO EM EXERCÍCIO, ESTADO DO RIO GRANDE DO SUL, no uso de suas atribuições legais que lhe são conferidas pela Lei Orgânica do Município, FAÇO SABER, que a Câmara Municipal de Vereadores aprovou e eu sanciono e promulgo a seguinte LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder a partir do dia 1º de dezembro de 1988, um aumento geral a todo Funcionalismo Público Municipal, indistintamente de classe ou padrão, na ordem de 31,25% (trinta e um, vírgula, vinte e cinco por cento).
+
+
+Art. 2º.
+
+Esta LEI entrará em vigor, retroativamente, a partir do dia 1º de dezembro de 1988, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, em 12 de dezembro de 1988.
+
+HILBERTO HEINZ SCHIEFELBEIN  
+Prefeito em Exercício.
+
+Registre-se e Publique-se  
+  
+CLÓVIS FERNANDO FICK  
+Sec. da Administração.
+
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup span="3"></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td> </td><td colspan="8">TABELA DE REAJUSTE SALARIAL</td></tr><tr><td>A -</td><td colspan="8">QUADRO DE EMPREGO DO MAGISTÉRIO PÚBLICO MUNICIPAL</td></tr><tr><td> </td><td colspan="6">Valor Básico ……………………………...……………………...…… Cz$</td><td colspan="2">54.591,00</td></tr><tr><td>B -</td><td colspan="8">QUADRO DE EMPREGO PÚBLICO</td></tr><tr><td> </td><td> </td><td>A</td><td> </td><td>B</td><td> </td><td>C</td><td> </td><td>D</td></tr><tr><td>1…</td><td>……….</td><td>76.832,00</td><td>……….</td><td>78.292,00</td><td>……….</td><td>82.276,00</td><td>……….</td><td>86.335,00</td></tr><tr><td>2…</td><td>……….</td><td>137.413,00</td><td>……….</td><td>144.264,00</td><td>……….</td><td>151.460,00</td><td>……….</td><td>158.980,00</td></tr><tr><td>C -</td><td colspan="8">QUADRO PERMANENTE DE CARGOS</td></tr><tr><td> </td><td> </td><td>0</td><td> </td><td>1</td><td> </td><td>2</td><td> </td><td>3</td></tr><tr><td>1…</td><td>……….</td><td>76.832,00</td><td>……….</td><td>78.292,00</td><td>……….</td><td>82.276,00</td><td>……….</td><td>86.335,00</td></tr><tr><td>2…</td><td>……….</td><td>137.413,00</td><td>……….</td><td>144.264,00</td><td>……….</td><td>151.460,00</td><td>……….</td><td>158.980,00</td></tr><tr><td>3…</td><td>……….</td><td>161.383,00</td><td>……….</td><td>169.431,00</td><td>……….</td><td>177.920,00</td><td>……….</td><td>187.070,00</td></tr><tr><td>4…</td><td>……….</td><td>196.121,00</td><td>……….</td><td>205.899,00</td><td>……….</td><td>216.248,00</td><td>……….</td><td>227.022,00</td></tr><tr><td>5…</td><td>……….</td><td>238.360,00</td><td>……….</td><td>250.289,00</td><td>……….</td><td>249.402,00</td><td>……….</td><td>276.328,00</td></tr><tr><td>D -</td><td colspan="8">CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS</td></tr><tr><td>CC1</td><td>……….</td><td>………..</td><td>72.664,00</td><td> </td><td> </td><td>FG1 ……</td><td>………..</td><td>36.332,00</td></tr><tr><td>CC2</td><td>……….</td><td>………..</td><td>103.704,00</td><td> </td><td> </td><td>FG2 ……</td><td>………..</td><td>51.852,00</td></tr><tr><td>CC3</td><td>……….</td><td>………..</td><td>165.806,00</td><td> </td><td> </td><td>FG3 ……</td><td>………..</td><td>82.903,00</td></tr><tr><td>CC4</td><td>……….</td><td>………..</td><td>289.562,00</td><td> </td><td> </td><td>FG4 ……</td><td>………..</td><td>144.781,00</td></tr><tr><td>E -</td><td colspan="8">QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS</td></tr><tr><td> </td><td colspan="2">Referência Salarial</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="8">1…………………………………………………………………………………………</td><td>49.811,00</td></tr><tr><td colspan="8">2…………………………………………………………………………………………</td><td>55.564,00</td></tr><tr><td colspan="8">3…………………………………………………………………………………………</td><td>57.164,00</td></tr><tr><td colspan="8">4…………………………………………………………………………………………</td><td>64.023,00</td></tr><tr><td colspan="8">5…………………………………………………………………………………………</td><td>69.172,00</td></tr><tr><td colspan="8">6…………………………………………………………………………………………</td><td>76.832,00</td></tr><tr><td colspan="8">7…………………………………………………………………………………………</td><td>91.717,00</td></tr><tr><td colspan="8">8…………………………………………………………………………………………</td><td>121.243,00</td></tr><tr><td colspan="8">9…………………………………………………………………………………………</td><td>127.218,00</td></tr><tr><td colspan="8">10……………………………………………………………………………………..…</td><td>158.090,00</td></tr><tr><td colspan="8">11……………………………………………………………………..…………………</td><td>176.134,00</td></tr></tbody></table>
+
+Agudo, 12 de dezembro de 1988.
+
+<table><tbody><tr><td>CLOVIS FERNANDO FICK<br>Sec. da Administração.</td><td>HILBERTO HEINZ SCHIEFELBEIN<br>Prefeito em Exercício.</td></tr></tbody></table>
+

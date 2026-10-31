@@ -1,0 +1,332 @@
+---
+titulo: "Lei Complementar nº 196, de 25 de novembro de 2004"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "196"
+data: "2004-11-25"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2010-10-21; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/192"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1783/text"
+sha256_fonte: "bee42132cb350cbef23d64faa8e36792b99571155f7db8dbf5ca70e80d24e31b"
+sha256_texto: "3fe75c6c107760bdfb94ffa7b9fc022d6c3ae5981fad5e3fd14cf93011f8b397"
+capturado_em_fonte: "2026-10-27T21:37:42.338224-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 196, de 25 de novembro de 2004
+
+“Dispõe sobre a gestão democrática na rede pública municipal de ensino, do município de porto velho, disciplina a escolha dos diretores e dos vice-diretores das escolas públicas municipais da zona urbana e rural e dá outras providências”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe são conferidas no inciso IV do art.87, da Lei Orgânica do Município.
+
+**FAÇO SABE**, que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte:
+
+**LEI :**
+
+
+Art. 1º.
+
+A Administração Escolar na rede pública municipal de ensino do Município de Porto Velho será exercida com a adoção da Gestão Democrática, nos termos do inciso VI do artigo 206 da Constituição Federal e do inciso VIII, do artigo 3º, da Lei nº 9.394/96 e Emenda 18/94 a Lei Orgânica do Município compreende:
+
+
+I –
+
+A garantia de progressivos graus de autonomia pedagógica e administrativa e gestão financeira;
+
+
+II –
+
+A escolha dos Diretores e dos Vice-Diretores, das escolas públicas municipais da zona urbana e da zona rural, mediante a realização de processo de eleições diretas;
+
+
+III –
+
+A participação dos servidores, dos pais e dos alunos, no processo de escolha dos Diretores e dos Vice-Diretores Escolares, conforme o disposto nesta Lei e no regulamento próprio;
+
+
+IV –
+
+A participação da comunidade, representada pelos Conselhos escolares e/ou pela Associação dos Pais e Professores – APP, na gestão escolar.
+
+
+Art. 2º.
+
+A Gestão Democrática nas escolas da rede pública municipal de ensino do Município de Porto Velho terá como princípios:
+
+
+I –
+
+a participação, que será permanentemente estimulada, a fim de que os membros dos segmentos que compõem as comunidades escolares sejam, de fato, sujeitos do processo educativo;
+
+
+II –
+
+a formação para o exercício da cidadania, que será permanentemente exercitado pela prática de participação;
+
+
+III –
+
+a transparência, pela qual será garantida a todos os interessados a mais ampla divulgação das discussões realizadas e das deliberações tomadas no âmbito das escolas da rede pública municipal e, também, será garantido o acesso de todos a quaisquer informações relacionadas com essas escolas;
+
+
+IV –
+
+o pluralismo, pelo qual os administradores do sistema municipal de ensino de Porto Velho, sejam os da Secretaria Municipal de Educação ou os das escolas municipais serão incentivados a conviver com a diversidade e com a multiplicidade das manifestações culturais próprias do Município e do estado;
+
+
+V –
+
+a autonomia, que visa levar cada escola municipal a trabalhar com dinâmica própria, em busca de sua identidade, sem no entanto perder a perspectiva global do sistema municipal de ensino;
+
+
+VI –
+
+a liberdade de expressão, que será garantida a todos os que compõem os diversos segmentos das comunidades escolares, das escolas públicas municipais;
+
+
+VII –
+
+a equidade, pela qual as políticas do Município, na área da educação, deverão ser objeto de ampla discussão e avaliação, nas escolas municipais e nas localidades nas quais se inserem, a fim de que se estabeleça a igualdade do tratamento dessas escolas, mediante a adoção de critérios justos, para o repasse de recursos financeiros a elas destinados;
+
+
+VIII –
+
+a descentralização administrativa, que deverá ser incentivada e implementada sem que se perca de vista a necessidade de serem utilizados mecanismos de acompanhamento, controle e avaliação, com vistas à preservação da unidade do Sistema Municipal de Ensino do Município de Porto Velho.
+
+
+Art. 3º.
+
+O processo de Eleições Diretas para a escolha e nomeação ao exercício das Funções de Confiança de Diretor Escolar e de Vice-Diretor Escolar, das unidades escolares, da Rede Pública Municipal de Ensino, com a participação de representações da comunidade escolar, observará as normas e critérios estabelecidos nesta Lei e em regulamento específico.
+
+
+Art. 4º.
+
+O processo de Eleições Diretas para a escolha e nomeação ao exercício das Funções de Confiança de Diretor Escolar e de Vice-Diretor Escolar, das unidades escolares, da Rede Pública Municipal de Ensino, com a participação de representações da comunidade escolar, observará as normas e critérios estabelecidos nesta Lei e em regulamento específico.
+
+
+Art. 5º.
+
+Poderão concorrer ao processo de Eleições Diretas , servidores efetivos, do Quadro de Magistério Público Municipal, de que trata a Lei Complementar nº 140, de 31 de Dezembro de 2001 e, que se encontrem em exercício nas unidades escolares da Rede Pública Municipal de Ensino, que preencham, cumulativamente, conforme o caso, os seguintes requisitos:
+
+
+I –
+
+estar atuando na escola em que deseja candidatar-se, por tempo igual ou superior a 01(um) ano, da data da publicação do Regulamento das Eleições;
+
+
+II –
+
+ter formação de nível superior em Pedagogia, na área de Administração Escolar, ao nível de Licenciatura Plena ou Pós-Graduação em Administração Escolar ou em outras especialidades da Pedagogia, admitindo-se que, na falta destes, possam candidatar-se profissionais habilitados em nível médio, na modalidade Normal, no caso de unidades de ensino que ofereçam apenas educação infantil e/ou séries iniciais do ensino fundamental.
+
+
+III –
+
+no caso de profissionais habilitados em nível médio, na modalidade Normal, este deve comprovar experiência profissional de efetivo exercício no magistério, pelo período mínimo de 05(cinco) anos, dos quais, pelo menos 02 (dois) em atividade de docência;
+
+
+IV –
+
+ser detentor de cargo de Estatutário Municipal e ter disponibilidade de tempo integral para o exercício da função;
+
+
+V –
+
+não estar envolvido ou respondendo processo administrativo, inquérito ou sindicância e não ter sofrido pena disciplinar no triênio anterior à data de início das inscrições para o processo de Eleições Diretas, conforme previsto no regulamento próprio;
+
+
+VI –
+
+apresentar, no ato de inscrições para o processo de Eleições Diretas, Declaração negativa de pendências, expedida pelo Setor de Prestação de Contas da SEMED.
+
+
+§ 1º
+
+Quando se tratar de escolas que atendam até o nível de conclusão do Ensino Fundamental, admitir-se-á a inscrição de candidatos com formação de nível superior de Licenciatura Curta em Pedagogia, observados os demais requisitos previstos no inciso II, deste artigo.
+
+
+§ 2º
+
+O servidor interessado em submeter seu nome à escolha da comunidade escolar, objetivando o exercício das Funções de Confiança de Diretor Escolar e de Vice-Diretor Escolar, somente poderá se inscrever em uma única chapa concorrente, e para apenas uma unidade escolar municipal em cada pleito.
+
+
+Art. 6º.
+
+Para a realização do processo de Eleições Diretas, de que trata o art. 1º desta Lei, o titular da Secretaria Municipal de Educação designará a Comissão Organizadora Municipal, que se responsabilizará pela organização e coordenação de todas a fases do processo, até a posse dos nomeados pela autoridade competente.
+
+
+Art. 7º.
+
+As Eleições Diretas, tratadas no art. 1º, desta Lei, serão realizadas concomitantemente em todas as unidades da Rede Pública Municipal de Ensino, a cada três anos, sempre na primeira sexta-feira do mês de dezembro, adotando o voto pelo modelo de voto qualificado, compreendendo dois segmentos um de funcionários e outro de pais e alunos, onde cada segmento corresponderá a 50% do total de votos da eleição, sendo considerados aptos a votar:
+
+
+I –
+
+os membros do segmento “servidores da unidade escolar”, efetivos ou celetistas do Quadro Municipal permanente, que estejam em efetivo exercício na escola, considerando-se nessa situação, os que se encontrarem em licença exclusivamente para tratamento de saúde, licença maternidade e os que não se encontrarem afastados preliminarmente à aposentadoria, assim como outros servidores que, estejam lotados e prestando serviços à escola, devidamente amparados pela legislação pertinente;
+
+
+II –
+
+os membros do segmento “pais e alunos”, assim constituídos:
+
+
+a)
+
+os alunos regularmente matriculados na unidade escolar e com freqüência comprovada até o mês anterior ao da realização da consulta, que contem com idade igual ou superior a 12 (doze) anos, até o dia anterior ao da realização das eleições, aqui tratadas, independentemente da série, etapa ou modalidade de ensino que estejam cursando;
+
+
+b)
+
+o pai e a mãe, ou na falta deles, o responsável legal pelos alunos regularmente matriculados na unidade escolar e com freqüência comprovada até o mês anterior ao da realização da consulta, ou ainda, no caso de não haver responsável legalmente constituído, a pessoa notoriamente reconhecida como tal pela escola.
+
+
+§ 1º
+
+A participação dos dois segmentos da comunidade escolar nas Eleições Diretas será na qualidade de eleitores, através do voto secreto de cada um deles.
+
+
+§ 2º
+
+Os membros do segmento “servidores da unidade escolar” que tenham exercício em mais de uma unidade de ensino da rede pública municipal poderão cadastrar-se para votar em todas elas.
+
+
+§ 3º
+
+Os membros do segmento “servidores da unidade escolar” que estejam substituindo servidores em gozo de licenças previstas no inciso I, deste artigo poderão se cadastrar para votar novamente.
+
+
+§ 4º
+
+Os membros do segmento “pais e alunos” que preencham os requisitos para participar do processo de escolha em mais de uma unidade escolar poderão se cadastrar para votar em todas elas.
+
+
+Art. 8º.
+
+As regras de proporcionalidade para garantir a idêntica participação relativa no resultado da votação aos dois segmentos de votantes, assim como os critérios de nulidade e desempate serão estabelecidos no regulamento próprio.
+
+
+Art. 9º.
+
+A relação a ser encaminhada ao titular da Secretaria Municipal de Educação para nomeação dos Diretores e dos Vice-Diretores Escolares será composta pelos nomes dos candidatos da chapa que obtiver o maior número de votos após a proclamação dos resultados da votação.
+
+
+Parágrafo único
+
+No caso de chapa única, ou de inscrições individuais, os candidatos serão nomeados para as funções respectivas se conseguirem mais de 50% dos votos válidos, segundo as regras de proporcionalidade estabelecidas no regulamento.
+
+
+Art. 10.
+
+O titular da Secretaria Municipal de Educação procederá a nomeação dos Diretores e dos Vice-Diretores das unidades escolares da Rede Pública Municipal de Ensino observando a classificação tipologia das escolas, para um mandato de 03 (três) anos, contados a partir de sua nomeação.
+
+
+Parágrafo único
+
+A posse dos diretores eleitos ocorrerá imediatamente após o término dos mandatos dos diretores eleitos para a gestão anterior.
+
+
+Art. 11.
+
+É permitida recondução consecutiva aos cargos de Diretor Escolar e Vice-Diretores nomeados, mediante reeleição.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 397, de 21 de outubro de 2010.
+
+
+§ 1º
+
+No caso de vacância da função de Diretor Escolar até seis meses antes do término da gestão para qual tenha sido eleito, assumirá essa função o Vice-Diretor, devendo ser realizada eleição para a função de Vice-Diretor, nos dois casos, para a complementação do mandato.
+
+
+§ 2º
+
+No caso de vacância da função de Diretor e de Vice-Diretor Escolar, de uma só vez, até seis meses antes do término da gestão para a qual tenham sido eleitos, deverá ser realizada eleição para complementação desses mandatos.
+
+
+§ 3º
+
+O Diretor e o Vice-Diretor somente poderão ser exonerados após apuração e constatação de denúncias de falta grave por comissão de sindicância.
+
+
+Art. 12.
+
+A garantia de progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, de que trata o inciso I, do artigo 1º, desta Lei será efetivada mediante a descentralização administrativa e de recursos financeiros para as escolas da rede pública municipal de ensino, através de seus Conselhos Escolares ou de suas Associações de Pais e Professores – APP’s, com os seguintes programas, regulamentados por ato próprio do Poder Executivo Municipal:
+
+
+I –
+
+PPP-Projeto Político Pedagógico, elaborado pela comunidade escolar levando-se em consideração as especificidades e diversidades de cada realidade, tendo como eixo fundamental a melhoria da qualidade do ensino e a formação docente;
+
+
+II –
+
+PROAFEM- Programa de Apoio Financeiro às Escolas Municipais, Núcleos de Ensino, Conselho Municipal de Educação, Biblioteca Pública Francisco Meireles e a Escola de Música Jorge Andrade – que consiste no repasse de recursos financeiros próprios do orçamento da Secretaria Municipal de educação às escolas municipais, o valor correspondente a R$ 3,00 (três reais) por aluno/mês e nos valores definidos pelo poder Executivo Municipal para os demais beneficiários, podendo ser majorado, consoante crescimento da receita, com a aprovação do Legislativo Municipal;
+
+
+III –
+
+PNAE – Programa Nacional de Alimentação Escolar, que consiste na Escolarização da Merenda Escolar, mediante o repasse integral às escolas da rede pública municipal de ensino, via suas Unidades Executoras, dos recursos destinados à aquisição de gêneros alimentícios para a merenda escolar, conforme as regras específicas editadas pela União e pelo Município;
+
+
+IV –
+
+Outros programas que vierem a ser instituídos pelo Executivo Municipal, objetivando o alcance do disposto neste artigo.
+
+
+Parágrafo único
+
+O Poder Executivo Municipal enviará ao Legislativo Municipal cópia dos Programas com seus regulamentos, para conhecimento e acompanhamento.
+
+
+Art. 13.
+
+O Poder Executivo Municipal fica autorizado a instituir e implantar e/ou implementar, por ato próprio;
+
+
+I –
+
+o Fundo Permanente de projetos Especiais e Inovadores, de cunho Político-Pedagógico, que visem à melhoria e ao aprimoramento da qualidade de ensino, nas escolas da rede pública municipal.
+
+
+II –
+
+O Programa de apoio Técnico e Financeiro às Instituições Filantrópicas; ou Confessionais; ou Comunitárias que atuam, no âmbito do Município de Porto Velho, com o atendimento à Educação Especial e/ou com a Educação Infantil.
+
+
+III –
+
+O 1º de Setembro como o Dia destinado às atividades Cívico-Culturais do Município de Porto Velho, em comemoração alusiva à Semana da Pátria e como parte integrante do Projeto Político Pedagógico.
+
+
+Art. 14.
+
+O Poder Executivo Municipal, por intermédio da Secretaria Municipal de Educação, regulamentará a presente Lei, no prazo máximo de 60 (sessenta) dias, a contar de sua publicação.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 16.
+
+Revogam-se as disposições em contrário.
+
+
+**CARLOS ALBERTO DE AZEVEDO CAMURÇA**
+
+Prefeito do Município
+
+**RANILSON DE PONTE GOMES**
+
+Procurador Geral do Município
+
+**ZIDNALVA FERNANDES CAMURÇA**
+
+Secretária Municipal de Educação
+

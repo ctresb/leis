@@ -1,0 +1,455 @@
+---
+titulo: "Lei Ordinária nº 1.263, de 25 de novembro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1263"
+data: "1980-11-25"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4170"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4218/text"
+sha256_fonte: "64625d283cd939d3b3a9c23b6afaa58caef6e60ec3900a61a2b3b46308b3fcfe"
+sha256_texto: "d0af3195b7b553f9382b5f9c064e324f297a204a2f5d7450e21f31d435cc2535"
+capturado_em_fonte: "2026-10-27T22:09:04.270136-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.263, de 25 de novembro de 1980
+
+Reformula a estrutura organizacional da Prefeitura Municipal do Cabo.
+
+
+O PREFEITO DO MUNICIPIO DO CABO, no uso das atribuições legais, faço saber que a Câmara Municipal decretou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+As atividades básicas da Prefeitura Municipal do Cabo serão desempenhadas por órgãos da administração direta, agrupados como a seguir:
+
+
+I –
+
+Órgão Auxiliar  
+- Gabinete do Prefeito, constituído pelo Chefe do Gabinete e pelo Assessor de Imprensa
+
+
+II –
+
+Órgão de Assessoramento
+
+-Assessoria Especial
+
+-Assessoria Jurídica
+
+
+III –
+
+Órgão de Assessoramento e Execução
+
+-Secretaria-Geral do Planejamento
+
+
+IV –
+
+Órgãos Executivos:
+
+
+a)
+
+De Atividades-Fim
+
+-Secretaria de Saúde
+
+-Secretaria de Serviços Urbanos
+
+-Secretaria de Transportes e Obras Públicas
+
+-Secretaria de Educação e Cultura
+
+
+b)
+
+De Atividades-Meio
+
+-Secretaria de Administração
+
+-Secretaria de Finanças
+
+
+Parágrafo único
+
+Integra a estrutura da Prefeitura Municipal do Cabo (quatro) Distritos, assim distribuídos:
+
+-um na sede do município;
+
+-um em Ponte dos Carvalhos;
+
+-um em Juçaral;
+
+-um em Santo Agostinho.
+
+
+Art. 2º.
+
+O Chefe do Gabinete do Prefeito tem por finalidade a preparação do expediente e da correspondência do Prefeito, o atendimento ao público e o exercício das atividades de programação, execução e controle do cerimonial.
+
+
+Art. 3º.
+
+O Assessor de Imprensa tem por finalidade desenvolver as atividades específicas de divulgação das realizações administrativas do Prefeito.
+
+
+Art. 4º.
+
+A Assessoria Jurídica tem por finalidade exercer a representação do Município em qualquer juízo ou tribunal; exercer as funções de procuradoria extra-judicial do Município; executar trabalhos de consultoria e assessoria jurídica do Município.
+
+
+Art. 5º.
+
+A Assessoria Especial tem por finalidade exercer as atividades de programação e prestação de apoio comunitário à população do Município; analisar a concessão de subvenções e auxílios; representar o Prefeito em atos públicos, junto a entidades públicas e privadas.
+
+
+Art. 6º.
+
+A Secretaria-Geral do Planejamento, por intermédio do seu titular prestará assessoramento imediato ao Prefeito do Cabo, assistindo-o, particularmente:
+
+
+I –
+
+na implantação e manutenção do sistema de planejamento do desenvolvimento integrado para o município do Cabo;
+
+
+II –
+
+na coordenação:
+
+
+a)
+
+da política municipal de desenvolvimento econômico-social;
+
+
+b)
+
+do Plano Diretor de Desenvolvimento Integrado, do Plano Diretor de Organização do Espaço Urbano, dos Planos de Ação Municipal e de outros planos, programas e projetos que sirvam de instrumento para alcançar os objetivos e metas do bem-estar social.
+
+
+III –
+
+na adoção de medidas específicas visando, em particular:
+
+
+a)
+
+a utilização racional do solo, em busca de equilíbrio entre a estrutura urbana e a vida dos habitantes;
+
+
+b)
+
+a concepção e estruturação de sistema viário que possa assegurar a circulação rápida, segura e eficiente de pessoas e veículos;
+
+
+c)
+
+o desenvolvimento da base econômica municipal, particularmente das atividades econômicas urbanas, objetivando a oferta adequada de empregos e auto-sustentação do município;
+
+
+d)
+
+a preservação do meio-ambiente e o combate à poluição;
+
+
+e)
+
+a preservação das praias;
+
+
+f)
+
+o desenvolvimento de condições sociais e culturais que facilitem: a integração social; a preservação dos valores que compõem o patrimônio histórico-cultural; a proteção à saúde; o desenvolvimento da educação; a criação de condições para o exercício do lazer; enfim, a obtenção de uma melhor qualidade de vida do município.
+
+
+IV –
+
+a modernização da administração municipal, consubstanciando a institucionalização do processo de planejamento integrado, a qualificação e profissionalização do servidor público e o desenvolvimento gerencial e administrativo.
+
+
+Parágrafo único
+
+Integra a Secretaria-Geral do Planejamento:
+
+
+I –
+
+Divisão de Cadastro Técnico-Municipal;
+
+
+II –
+
+Divisão de Planos, Projetos e Orçamentos;
+
+
+III –
+
+Divisão de Planejamento Físico;
+
+
+IV –
+
+Divisão de Controle do Desenvolvimento Urbano e do Meio-Ambiente.
+
+
+Art. 7º.
+
+A Secretaria de Saúde tem por finalidade planejar e executar a política de saúde da municipalidade, integrando os recursos setoriais locais aos das demais instituições promotoras de serviços de saúde no município, em observância às diretrizes emanadas do Ministério da Saúde.
+
+
+Parágrafo único
+
+Integra a estrutura da Secretaria de Saúde:
+
+
+I –
+
+Coordenação de Programas de Saúde;
+
+
+II –
+
+Divisão de Assistência Médica;
+
+
+III –
+
+Divisão de Assistência Odontológica.
+
+
+Art. 8º.
+
+A Secretaria de Serviços Urbanos tem por finalidade:
+
+
+I –
+
+planejamento setorial dos serviços urbanos;
+
+
+II –
+
+execução e manutenção dos seguintes serviços urbanos:  
+. limpeza urbana;  
+. abastecimento, compreendendo administração de mercados, matadouros e frigoríficos;  
+. organização e fiscalização de feiras;  
+. conservação de parques, praças, jardins e praias e funcionamento de serviços de lazer nesses equipamentos urbanos;  
+. arborização;  
+. iluminação pública ;  
+. administração de cemitérios.
+
+
+Parágrafo único
+
+Integra a estrutura da Secretaria de Serviços Urbanos:
+
+
+I –
+
+Divisão de Limpeza Urbana;
+
+
+II –
+
+Divisão de Abastecimento;
+
+
+III –
+
+Divisão de Paisagismo e Administração de Cemitérios.
+
+
+Art. 9º.
+
+A Secretaria dos Transportes e Obras Públicas tem por finalidade:
+
+
+I –
+
+quanto à transportes:
+
+-planejamento setorial do sistema viário e dos transportes urbanos;
+
+-elaboração, direta ou indireta, de projetos de rodovias municipais;
+
+-construção, conservação e sinalização de rodovias municipais;
+
+-administração das concessões e permissões para transporte coletivo de passageiros nas estradas municipais, rurais e vias urbanas;
+
+-elaboração de planos de circulação urbana, em especial dos itinerários dos transportes coletivos;
+
+
+II –
+
+quanto a obras públicas:
+
+-planejamento setorial das atividades de projetação, construção e conservação de obras públicas;
+
+-elaboração, direta ou indireta, de projetos de obras públicas, inclusive dos referentes aos próprios municipais;
+
+-construção e conservação de obras públicas, em geral.
+
+
+Parágrafo único
+
+Integra a estrutura da Secretaria dos Transportes e Obras Públicas:
+
+
+I –
+
+Divisão dos Transportes;
+
+
+II –
+
+Divisão de Obras Públicas.
+
+
+Art. 10.
+
+A Secretaria de Educação e Cultura tem por finalidade a execução do ensino de 1º e 2º graus, de acordo com as diretrizes emanadas dos governos federal e estadual; apoiar programas de ensino supletivo; executar os programas de merenda escolar; desenvolver atividades de cultura, turismo e desportos.
+
+
+Parágrafo único
+
+Integra a estrutura da Secretaria de Educação e Cultura:
+
+
+I –
+
+Coordenação de Programas Educacionais;
+
+
+II –
+
+Divisão de Ensino;
+
+
+III –
+
+Divisão de Merenda Escolar;
+
+
+IV –
+
+Divisão de Cultura, Turismo e Desportos.
+
+
+Art. 11.
+
+A Secretaria de Administração tem por finalidade exercer as atividades relativas a administração de pessoal, de material, de patrimônio, dos transportes internos e oficinas, e documental.
+
+
+Parágrafo único
+
+Integra a estrutura da Secretaria de Administração:
+
+
+I –
+
+Divisão de Material;
+
+
+II –
+
+Divisão de Patrimônio;
+
+
+III –
+
+Divisão de Transportes Internos e Oficinas;
+
+
+IV –
+
+Divisão de Documentação;
+
+
+V –
+
+Divisão de Pessoal.
+
+
+Art. 12.
+
+A Secretaria das Finanças tem por finalidade exercer as atividades de arrecadação e fiscalização dos tributos municipais; elaborar a programação financeira e efetuar pagamentos das despesas orçamentárias e extra-orçamentária.
+
+
+Parágrafo único
+
+Integra a estrutura da Secretaria de Finanças:
+
+
+I –
+
+Divisão de Contadoria;
+
+
+II –
+
+Divisão do Tesouro;
+
+
+III –
+
+Divisão de Arrecadação;
+
+
+IV –
+
+Divisão de Fiscalização.
+
+
+Art. 13.
+
+As Divisões que compõem as Secretarias, criadas ou reestruturadas por esta lei, serão instaladas a partir da aprovação do Regulamento-Geral a ser baixado por decreto do Chefe do Executivo Municipal.
+
+
+Art. 14.
+
+Os cargos de Secretário, Chefe de Gabinete, Assessor Especial, Assessor Jurídico, Assessor de Imprensa, Coordenador de Programas de Saúde, Coordenador de Programas Educacionais, Chefe de Divisão e Administrador Distrital serão providos em comissão.
+
+
+Parágrafo único
+
+Os símbolos, quantitativos e valor da remuneração para o provimento dos cargos de que trata este artigo constarão do Plano de Classificação de Cargos do Poder Executivo Municipal.
+
+
+Art. 15.
+
+O prazo para regulamentação desta lei é de 60 (sessenta) dias.
+
+
+Art. 16.
+
+O Prefeito expedirá atos administrativos necessários à aplicação desta lei.
+
+
+Art. 17.
+
+Ficam revogadas as leis nº 1156 de 31.05.76, 1157, de 31.05.76 e 1246, de 12.02.80.
+
+
+Art. 18.
+
+Esta lei entrará em vigor a partir de 1º de setembro do corrente exercício.
+
+
+Palácio Conde da Boa Vista, 08 de setembro de 1980.
+
+JOSÉ ALBERTO DE LIMA
+
+Prefeito
+

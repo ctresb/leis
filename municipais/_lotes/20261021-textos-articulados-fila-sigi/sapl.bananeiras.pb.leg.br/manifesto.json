@@ -1,0 +1,102 @@
+{
+  "host": "sapl.bananeiras.pb.leg.br",
+  "metadados_unicos_observados": 662,
+  "total_api_declarado": 662,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 183,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/16fda27d5542ee4afb606fc8eb792838fbdce689603fd5b237e4a92c82dc3a2d.json",
+    "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "015a886b3d634570b5ba2ffe1c1a7196382ba1ac458492224650c0c046e6f541",
+    "bytes": 957,
+    "capturado_em": "2026-10-27T17:03:19.659205-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/1270e9061e609f3c9ac1572594048d7ef1aac2bc3b8ede74f97887e9a25cd17b.json",
+    "url": "https://sapl.bananeiras.pb.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bananeiras.pb.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8d5b08853c670a383ae38120cf91f5e4c7641350d5862b2a21e9fe26bf993ba6",
+    "bytes": 780,
+    "capturado_em": "2026-10-27T17:03:18.607751-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/aecb68dd9d369abc10ffcfcb999566a47ada06332f5fe3c0f8465ef17ba247dd.json",
+      "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "acf4cd93ce1208984e2db4a3a29fc8f7e30e860901234d357ebfd614e0fa1b00",
+      "bytes": 59709,
+      "capturado_em": "2026-10-27T17:03:26.153110-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/cf01c490fe5782f64f795472ceb5d2c8d5a46b1f99cbb9b1a8047cec2961e2d4.json",
+      "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5c6dbeed35d8977368a8ee6bd6ceda5dfb37ee2d55c5f106eae32bdb40ba5b55",
+      "bytes": 56886,
+      "capturado_em": "2026-10-27T17:05:42.896359-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/b657b019b1593bf62deed523a14b1ea3055eda67b3f91674cacd7869bf897c56.json",
+      "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "592faa2b02b990f94b9fb3e5e32cd37a13efa7a33ba66961092ae0586badfb53",
+      "bytes": 57791,
+      "capturado_em": "2026-10-27T17:08:30.439435-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/fc3ad36f00adf8768b219e0506386af0362de633ce0d543cf469150e4fb4a468.json",
+      "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e6cb62eecd917996fd1820b1250b5d09db92594dc12f41de456807018b80cfb1",
+      "bytes": 60047,
+      "capturado_em": "2026-10-27T17:09:35.484647-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/58e22225c535154ae6dbff83028f11a7a335ce99a4916e13f8107f5bb68033ad.json",
+      "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "677ad4bca6e75be05f9616e88169eec5819753c9d83cbcbcdab6c070365f279d",
+      "bytes": 56491,
+      "capturado_em": "2026-10-27T17:09:36.489232-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/aa2c8a30686ce9a8da61c1c4273da72c46ab12ceea148f85633f91fdf0ea0d35.json",
+      "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ab6d60ea990dd99d820b181e45ec8d543e71c244f4b1d326a5b82f7e3b8f9f43",
+      "bytes": 53631,
+      "capturado_em": "2026-10-27T17:09:39.570468-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bananeiras.pb.leg.br/3a3143fab464a6df453aa2b342c0ea10d4737a3ff7fd40da49b7cc34dd8bdace.json",
+      "url": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.bananeiras.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "91265a557eee84a3caa120652e0dc0e1a6250d9027488f29f6a6df6fe1e82173",
+      "bytes": 33755,
+      "capturado_em": "2026-10-27T17:09:44.286409-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,44 @@
+Autoriza abrir Crédito Especial ao vigente Orçamento, para os fins que indica e dá outras providencias.
+
+
+O **PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ** no uso de suas atribuições legais, conforme lhe confere a Lei Orgânica Municipal, submete a apreciação, discussão e votação da Câmara Municipal de Amontada a seguinte lei:
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo Municipal autorizado abrir ao vigente Orçamento Geral do Município, o crédito adicional especial no valor de R$ **40.000,00** (quarenta mil reais) destinado a atender despesas de parcelamentos de débitos junto ao Serviço Autônomo de Água e Esgoto - SAAE de Amontada, distribuídos na forma do **Anexo I**, parte integrante da presente lei.
+
+
+Art. 2º.
+
+A fonte de recurso compensatória para abertura de Crédito Adicional Especial objeto do art. 1º desta Lei, em atendimento ao disposto no art. 177, V, da constituição da República de 1988, será a anulação parcial de dotação orçamentária na forma do disposto no art. 43, § 1º. III da Lei No. 4.320/1964, na forma do **Anexo II** da presente Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada, Estado do Ceará aos 17 dias do mês de Junho do ano de dois mil e dezenove [2019].
+
+**VALDIR HERBSTER FILНО**  
+Prefeito de Amontada
+
+
+## Anexo I — CREDITO ESPECIAL
+
+
+**PARA: Serviço Autônomo de Água e Esgoto - SAAE**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><strong>Dotação Orçamentária</strong></td><td colspan="3"><strong>Descrição</strong></td></tr><tr><td>1101</td><td colspan="3"><strong>Serviço Autónomo de Água e Esgoto- SAAE</strong></td></tr><tr><td>17</td><td colspan="3">Saneamento</td></tr><tr><td>512</td><td colspan="3">Saneamento Básico Urbano</td></tr><tr><td>1101.17.512.0476.2.057</td><td colspan="3">Manutenção das Atividades do Serviço Autônomo de Água e Esgoto</td></tr><tr><td>4.0.00.00.00</td><td colspan="3">Despesas de Capital</td></tr><tr><td>4.6.00.00.00</td><td colspan="3">Amortização da Dívida</td></tr><tr><td>4.4.91.00.00</td><td colspan="3">Aplicações Díretas entre Órgãos Integr. do Orçam.</td></tr><tr><td>4.6.91.71.00</td><td>Principal da Dívida Contratual Resgatado</td><td>FONTE 100100000</td><td>40.000,00</td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td><strong>FONTE 100100000</strong></td><td><strong>40.000,00</strong></td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA
+
+
+**DA:Serviço Autônomo de Água e Esgoto - SAAE**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><strong>Dotação Orçamentária</strong></td><td colspan="3"><strong>Descrição</strong></td></tr><tr><td>1701</td><td colspan="3"><strong>Serviço Autónomo de Água e Esgoto- SAAE</strong></td></tr><tr><td>1101.17.512.0476.2.057</td><td colspan="3">Manutenção das Atividades do Serviço Autônomo de Água e Esgoto</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serviços de Terceiro - Pessoa Física</td><td>FONTE 100100000</td><td>20.000,00</td></tr><tr><td>3.3.90.40.00</td><td>Serv. Tecnologia Informação/Comunic. - PJ</td><td>FONTE 100100000</td><td>20.000,00</td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td><strong>FONTE 100100000</strong></td><td><strong>40.000,00</strong></td></tr></tbody></table>
+
+
+**VALDIR HERBSTER FILНО Prefeito de Amontada**

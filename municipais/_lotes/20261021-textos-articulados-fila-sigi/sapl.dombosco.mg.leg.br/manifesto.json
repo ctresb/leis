@@ -1,0 +1,42 @@
+{
+  "host": "sapl.dombosco.mg.leg.br",
+  "metadados_unicos_observados": 24,
+  "total_api_declarado": 24,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dombosco.mg.leg.br/8c9f81df37eff2a4dfd98530e65dbeb562d7ff29acbf71d165c83970609be310.json",
+    "url": "https://sapl.dombosco.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.dombosco.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3afae34df7157745aa0eae9b1d61649a68bb030618c5e1a514ac3ca6acb0c2a2",
+    "bytes": 951,
+    "capturado_em": "2026-10-28T09:48:22.703888-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dombosco.mg.leg.br/6a6fd737de1188e14913bb0ba11655be57ea734b917f772b9c3607193edfea04.json",
+    "url": "https://sapl.dombosco.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.dombosco.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3c229d4303e259a620da0875e50038caae939b90fec21bbf39e65361615b80d2",
+    "bytes": 768,
+    "capturado_em": "2026-10-28T09:48:21.638059-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dombosco.mg.leg.br/b6bed73d37a97228a5ce9520b2b6a1de0f20818f394819b80aa3dbcf93b83b2d.json",
+      "url": "https://sapl.dombosco.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.dombosco.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "74c1424d3f8bd8e3804cb23b8e2fbcbb37fe4cd9feb14545b01d6fe14bf6cbd0",
+      "bytes": 15368,
+      "capturado_em": "2026-10-28T09:48:23.865931-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

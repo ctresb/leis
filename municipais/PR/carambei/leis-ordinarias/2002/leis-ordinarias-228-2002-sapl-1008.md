@@ -1,0 +1,133 @@
+---
+titulo: "Lei nº 228, de 24 de julho de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "228"
+data: "2002-07-24"
+municipio: "Carambeí"
+uf: "PR"
+codigo_ibge: "4104659"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2022-08-18; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.carambei.pr.leg.br/norma/1008"
+fonte_texto: "https://sapl.carambei.pr.leg.br/ta/16/text"
+sha256_fonte: "0c3f80380e979d2c94ffaa2f781a9dd12d35ff6502518792f38270e15670a881"
+sha256_texto: "9531d159f5b9255399c5a415b71bd1471861777c3ab1783f7e3da1dc0289e98c"
+capturado_em_fonte: "2026-10-27T22:32:34.028305-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 228, de 24 de julho de 2002
+
+Estabelece valor e condições para concessão e utilização de áreas no cemitério municipal do boqueirão.
+
+
+A Câmara Municipal de Carambeí, aprovou e Eu Prefeito Municipal de Carambeí, Sanciono a Seguinte
+
+LEI
+
+
+Art. 1º.
+
+Fica estabelecido o preço de 55 Valores de Referência Municipal (VRM) para concessão ao público de áreas junto ao Cemitério Municipal do Boqueirão. “
+
+Alteração feita pelo Art. 1º. - Lei nº 1.353, de 10 de setembro de 2020.
+
+
+Art. 2º.
+
+O valor constante no artigo 1º, poderá ser parcelado em até 10 (dez) parcelas mensais e sucessivas. (...)”
+
+Alteração feita pelo Art. 1º. - Lei nº 1.420, de 18 de agosto de 2022.
+
+
+§ 1º
+
+No caso de Parcelamento, a primeira parcela deverá ser paga em até 15 (quinze) dias contados do ato da assinatura do contrato.
+
+Alteração feita pelo Art. 2º. - Lei nº 1.420, de 18 de agosto de 2022.
+
+
+§ 2º
+
+Sobre o valor consolidado incidirá juros de 1% (um por cento) ao mês.
+
+
+§ 3º
+
+No caso de comprovação de baixa renda, através da Secretaria Municipal de Assistência Social, será autorizada a utilização de área no Cemitério Municipal, sem qualquer ônus.
+
+
+a)
+
+Quando comprovada a situação de baixa renda perante a Secretaria Municipal de Assistência Social e obtenha-se a isenção para utilização do jazigo, o munícipe terá até 05(cinco) anos a contar da data do óbito do familiar para pagar o valor referente ao título de Concessão Perpétua, ficando impossibilitado de edificar ou realizar benfeitorias no túmulo durante este período.
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.230, de 16 de março de 2018.
+
+
+b)
+
+Não havendo o pagamento da Taxa de Concessão Perpétua, no prazo de 05(cinco) anos, o conjunto dos ossos do cadáver será realocado para o ossuário municipal.
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.230, de 16 de março de 2018.
+
+
+Art. 3º.
+
+As parcelas pagas em atraso estarão sujeitas a juros de 1% (um por cento) ao mês ou fração contados a partir do dia seguinte ao vencimento.
+
+
+Art. 4º.
+
+A ocupação da área ( jazigo), será em caráter precário; somente após a liquidação do valor constante do artigo 1º será emitido o Título de Concessão Perpétua.
+
+
+Art. 5º.
+
+A área da concessão terá as seguintes dimensões: largura de 1,10 metros; comprimento de 2,5 metros.
+
+Alteração feita pelo Art. 2º. - Lei nº 1.353, de 10 de setembro de 2020.
+
+
+Art. 6º.
+
+O mutuário poderá edificar até 03 (três) gavetas no referido terreno, ficando obrigado a realizar a construção de ao menos uma gaveta logo após a quitação do valor, pois não poderá ser sepultado no chão”.
+
+Alteração feita pelo Art. 3º. - Lei nº 1.353, de 10 de setembro de 2020.
+
+
+Art. 7º.
+
+Fica o mutuário obrigado a zelar pela conservação, limpeza das áreas concedidas, obrigando-se a atender às exigências constantes pelas demais normas e posturas municipais.
+
+
+Art. 8º.
+
+Caso o mutuário não atenda às exigências previstas no artigo anterior, o município através de seus órgãos competentes poderá realizar as melhorias necessárias, cujo preço do serviço será devidamente lançado em nome do responsável.
+
+
+Art. 9º.
+
+A área concedida não poderá ser objeto de transferência para terceiros, sem prévia autorização da Prefeitura Municipal.
+
+
+Art. 10.
+
+O responsável pelo controle das áreas em concessão será a Secretaria Municipal de Meio Ambiente e a firmação do contrato, lançamento e arrecadação dos valores constantes nesta Lei ficará ao encargo do Departamento de Tributação da Prefeitura Municipal
+
+Alteração feita pelo Art. 4º. - Lei nº 1.353, de 10 de setembro de 2020.
+
+
+Art. 11.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Gabinete Do Prefeito Municipal de Carambeí,  
+Em 24 de Julho de 2002.
+
+NELSON CRIST  
+Prefeito Municipal
+

@@ -1,0 +1,388 @@
+---
+titulo: "Lei nº 72, de 13 de março de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "72"
+data: "1984-03-13"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2082"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/309/text"
+sha256_fonte: "02964ea9d20f00e57864e29d856aebfb01b05ecdd1ad9a99677490dbfcc58685"
+sha256_texto: "831002f378ea231479f9601cb0acc0716d6084ef7330c0cc765fe249e721938e"
+capturado_em_fonte: "2026-10-28T13:55:48.325227-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 72, de 13 de março de 1984
+
+Dispõe sobre obras, serviços, compras e alienações da Administração Municipal e dá outras providencias.
+
+
+**JOSE VICENTE ZEZITO FALCI**, Prefeito do Município de Ibiúna, usando de suas atribuições legais,
+
+**FAÇO SABER**, que a Câmara Municipal de Ibiúna decreta eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Todas as obras, serviços, compras e alienações da administração Municipal serão realizadas segundo as normas desta lei e respectivos atos regulamentares.
+
+
+Art. 2º.
+
+Para os fins desta lei considera-se:
+
+
+I –
+
+OBRA – todo trabalho de engenharia realizada direta ou indiretamente, de que resulte criação, modificação ou reparação, ou que tenha como resultado qualquer transformação do meio ambiente natural;
+
+
+II –
+
+SERVIÇO - toda atividade realizada direta ou indiretamente, tal como fabricação, conserto, instalação, montagem, operação, conservação, restauração, manutenção, transporte, comunicação, demolição ou trabalho técnico profissional;
+
+
+III –
+
+COMPRA – toda aquisição remunerada de bens para fornecimento de uma só vez ou parceladamente;
+
+
+IV –
+
+ALIENAÇÃO – toda transferência de domínio de bens a terceiros;
+
+
+V –
+
+EXECUÇÃO DIRETA – a que é realizada pelos próprios órgãos da Administração Municipal;
+
+
+VI –
+
+EXECUÇÃO INDIRETA – a que a Administração contrata com terceiros, sob qualquer uma das seguintes modalidades:
+
+
+a)
+
+empreitada por preço global quando se contrata a execução da obra ou serviço por preço certo e total;
+
+
+b)
+
+empreitada por preço unitário quando se contrata a execução da obra ou serviço por unidades determinadas e preço certo;
+
+
+c)
+
+administração contratada – quando se contrata a execução da obra ou serviço, mediante o reembolso das despesas e pagamento da remuneração ajustada para os trabalhos de administração;
+
+
+d)
+
+regime misto – a combinação de modalidades referidas nas alíneas anteriores;
+
+
+e)
+
+tarefa – quando se ajusta mão de obra para pequenos trabalhos, por preço certo, com ou sem vínculo empregatício, retribuída mediante recibo não empenhado em dotações destinadas a “Pessoal Civil”;
+
+
+f)
+
+prestação de serviço técnico profissional especializado com profissional ou firma notória especialização;
+
+
+VII –
+
+PROJETO BÁSICO – o conjunto de elementos definidores da obra ou do serviço e que contenha as especificações e referencias necessárias ao entendimento do objeto licitável e a possibilidade da estimativa de seu custo e prazo de execução.
+
+
+Art. 3º.
+
+Todas as obras, serviços, compras e alienações da administração municipal efetuar-se-ão, salvo as exceções previstas nesta lei, com observância dos princípios da licitação.
+
+
+Art. 4º.
+
+Licitação é o procedimento administrativo pelo qual a Administração municipal busca obter a proposta mais vantajosa para a execução de suas obras, serviços compras e alienações.
+
+
+Art. 5º.
+
+São modalidades de licitação:
+
+
+I –
+
+CONVITE – dirigido a pelo menos,três interessados do ramo pertinente ao objeto da licitação, registrados ou não, convocados por escrito pela administração, com antecedência mínima de três dias úteis;
+
+
+II –
+
+TOMADA DE PREÇOS – entre interessados registrados ou não, observada a necessária qualificação e convocados com antecedência mínima de 15 (quinze) dias corridos e com ampla divulgação.
+
+
+§ 1º
+
+a convocação para a tomada de preços far-se-á por edital, resumido, que será publicado:
+
+
+I –
+
+por um dos órgãos a seguir relacionados e na seguinte ordem de preferência:
+
+
+a)
+
+órgão oficial do município
+
+
+b)
+
+jornal editado na cidade
+
+
+c)
+
+jornal de comprovada circulação no município.
+
+
+II –
+
+e ainda por afixação nos locais de costume da Prefeitura e da Câmara Municipal.
+
+
+§ 2º
+
+Far-se-á também, comunicação da tomada de preços as entidades de classe localizadas no município e representativas de fornecedores que possam atender a convocação de edital.
+
+
+§ 3º
+
+A convocação para a concorrência far-se-á por edital, com ampla divulgação de seu resumo, o qual será publicado:
+
+
+I –
+
+por três vezes consecutivas pelo órgão do município ou, inexistindo este, pelo Diário Oficial do Estado;
+
+
+II –
+
+por duas vezes consecutivas por um jornal da cidade ou, inexistindo este, por outro jornal de comprovada circulação do município.
+
+
+III –
+
+e, ainda, por afixação no local de costume da Prefeitura e da Câmara Municipal.
+
+
+§ 4º
+
+Os prazos previstos contar-se-ão da primeira publicação do edital a que se referem o inciso I do § 1º e o inciso I do § 3º, excluindo-se dia do começo e incluindo-se o do vencimento. Se o vencimento ocorrer em sábado, domingo, feriado ou facultativo, fica transferido para o primeiro dia útil.
+
+
+Art. 6º.
+
+A elaboração de projetos poderá ser objeto de concurso com estipulação de prêmios aos classificados, na forma estabelecida por edital cujo resumo deverá ser publicado com quinze dias de antecedência.
+
+
+Art. 7º.
+
+Aplicam-se as alienações de bens móveis ou limites estabelecidos nesta lei para as aquisições de materiais e contratação de serviços.
+
+
+Parágrafo único
+
+Entre as modalidades de licitação para alienações inclui-se o leilão, que poderá ser utilizado independentemente do valor, observando-se o prazo mínimo de publicidade de quinze dias.
+
+
+Art. 8º.
+
+Nas licitações serão observados os seguintes limites de valores:
+
+
+I –
+
+para serviços e compras:
+
+
+a)
+
+convite: até 200 (duzentos) valores de referencia;
+
+
+b)
+
+tomada de preços: até 10.000 (dez mil) valores de referencia
+
+
+c)
+
+concorrência: acima de 10.000 (dez mil) valores de referencia
+
+
+II –
+
+para obras:
+
+
+a)
+
+convite: até 750 (setecentos e cinqüenta) valores de referencia
+
+
+b)
+
+tomada de preços: até 20.000 (vinte mil) valores de referencia
+
+
+c)
+
+concorrência: acima de 20.000 (vinte mil) valores de referencia
+
+
+Parágrafo único
+
+O valor de referencia é a expressão financeira vigente para a região e estabelecida pelo governo federal na forma da lei 6.205, de 29 de abril de 1975.
+
+
+Art. 9º.
+
+É dispensável a licitação:
+
+
+I –
+
+para serviços e compras até 15 (quinze) valores de referencia
+
+
+II –
+
+para obras: até 100 (cem) valores de referencia
+
+
+III –
+
+para alienações, nos casos previstos pela Lei Orgânica dos Municípios.
+
+
+IV –
+
+nos casos de emergência, quando caracterizada a urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a segurança de pessoas, obras serviços, bens ou equipamentos.
+
+
+V –
+
+para aquisição de materiais, equipamentos ou gêneros que só possam ser fornecidos por produtor, empresa ou representante comercial exclusivo;
+
+
+VI –
+
+para contratação de serviços com profissionais ou firmas de notória especialização;
+
+
+VII –
+
+quando não acudirem interessados a licitação anterior, mantidas, neste caso, as condições preestabelecidas;
+
+
+VIII –
+
+quando a operação envolver concessionário de serviços públicos ou, exclusivamente, pessoas de direito público interno, ou entidades sujeitas ao seu controle majoritário;
+
+
+IX –
+
+para aquisição de imóveis destinados ao serviço público;
+
+
+X –
+
+para aquisição de obras de arte e objetos históricos;
+
+
+XI –
+
+nos casos de calamidade pública, grave perturbação da ordem interna ou guerra.
+
+
+Parágrafo único
+
+As dispensas previstas nos incisos IV, V, VI, IX e X, deverão ser justificadas, dentro de 10 dias, sempre perante a autoridade superior que as ratificará ou promoverá a responsabilidade de quem as ordenou.
+
+
+Art. 10.
+
+Observadas, no que couber, as normas do Decreto Lei Federal nº 200, de 25 de fevereiro de 1967, e da Lei Estadual nº 89, de 27 de dezembro de 1972, o Executivo, mediante decreto regulamentará todo o processo licitatório no âmbito administrativo do Município.
+
+
+§ 1º
+
+O decreto a que se refere este artigo abrangerá:
+
+
+1
+
+os registros cadastrais
+
+
+2
+
+a habilitação dos proponentes
+
+
+3
+
+a apreciação e o julgamento das propostas
+
+
+4
+
+a prestação da garantia
+
+
+5
+
+o recebimento provisório e definitivo de obras e serviços
+
+
+6
+
+as proibições
+
+
+7
+
+os prazos e os recursos
+
+
+§ 2º
+
+Além das disposições regulamentares, serão aplicadas, quando necessário e em caráter supletivo, as normas do Decreto Lei nº 200/67 e da Lei Estadual 89/72.
+
+
+Art. 11.
+
+Esta lei entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 13 DIAS DO MÊS DE MARÇO DE 1984.
+
+**JOSÉ VICENTE ZEZITO FALCI**
+
+**Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 13 de março de 1984.
+
+**DR. JOÃO BENEDICTO DE MELLO JUNIOR**
+
+**Secretário Geral da Administração**
+

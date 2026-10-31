@@ -1,0 +1,138 @@
+Aprova Instrução Normativa Conjunta SEMFAZ/SEMPOG nº 001/2022 que normatiza, no âmbito do Município, o Ementário da Receita Pública e a padronização das fontes ou destinações de recursos em conformidade com as Portarias da Secretaria do Tesouro Nacional – STN e Portaria n.º 22/GABPRES/2021 do Tribunal de Contas do Estado de Rondônia (TCE/RO) dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas nos incisos IV do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+
+**CONSIDERANDO** a Portaria Conjunta STN/SOF n.º 20, de 23 de fevereiro de 2021 que estabelece a padronização das fontes ou destinações de recursos a ser observada no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, bem como, a Portaria STN n.º 925, de 08 de julho de 2021, que inclui no Anexo I da Portaria STN n.º 710, de 25 de fevereiro de 2021, as classificações por fonte ou destinação de recursos;
+
+
+**CONSIDERANDO** a Portaria STN n.º 831, de 7 de maio de 2021, que dispõe sobre o desdobramento da classificação por natureza da receita orçamentária no âmbito dos Estados, Distrito Federal e Municípios, e suas alterações realizadas através das Portarias n.º 923, de 08 de julho de 2021 e 1.128, de 04 de novembro de 2021;
+
+
+**CONSIDERANDO** o Ofício n.º 593/2021/SGCE/TCERO, que referencia a Portaria TCE n.º 22/GABPRES/2021 e a Resolução TCE n.º 328/2020, que determina que os poderes e órgãos deverão adotar o ementário da receita nos termos da Portaria STN n.º 831, de 07 de maio de 2021, assim como a padronização da tabela de fontes e destinação de recursos, em conformidade com a Portaria Conjunta STN/SOF n.º 20, de 23 de fevereiro de 2021, e Portaria n.º 710 de 25 de fevereiro de 2021, alterada pela Portaria n.º 925, de 08 de julho de 2021;
+
+
+**CONSIDERANDO** o Ofício Conjunto n.º 003/SEMPOG/SEMFAZ, de 27 de dezembro de 2021, remetido pelas Secretarias Municipais de Fazenda (SEMFAZ) e de Planejamento, Orçamento e Gestão (SEMPOG), informando que o Tribunal de Contas do Estado de Rondônia (TCE/RO) editou a Portaria n.º 22/GABPRES/2021, publicada no DOE TCERO n.º 2.496 de 16 de dezembro de 2021, determinando a adoção das tabelas de layout e de codificação orçamentária nela preconizadas;
+
+
+**CONSIDERANDO** que a determinação do Tribunal de Contas do Estado de Rondônia (TCE/RO) foi recebida no Município após a sanção e publicação do Plano Plurianual – PPA (Lei Municipal n.º 2.901 de 20 de dezembro de 2021) e da Lei Orçamentária Anual (LOA) para o exercício 2022 (Lei Municipal n.º 2.903, de 20 dezembro de 2021); e,
+
+
+**CONSIDERANDO** o disposto nos artigos 14 e 33 da Lei de Diretrizes Orçamentárias (LDO) para o exercício 2022 (Lei Municipal n.º 2.902, de 20 dezembro de 2021).
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Aprova a Instrução Normativa Conjunta SEMFAZ/SEMPOG nº 001/2022 que normatiza, no âmbito do Município, o Ementário da Receita Pública e a padronização das fontes ou destinações de recursos em conformidade com as Portarias da Secretaria do Tesouro Nacional – STN e Portaria n.º 22/GABPRES/2021 do Tribunal de Contas do Estado de Rondônia (TCE/RO).
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 3º.
+
+Revogam-se as disposições contrárias.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda / SEMFAZ
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão / SEMPOG
+
+
+## Anexo I — INSTRUÇÃO NORMATIVA CONJUNTA SEMFAZ/SEMPOG N° 001/2022
+
+
+Estabelece e normatiza, no âmbito do Município, o Ementário da Receita Pública e a padronização das fontes ou destinações de recursos em conformidade com as Portarias da Secretaria do Tesouro Nacional – STN e Portaria n.º 22/GABPRES/2021 do Tribunal de Contas do Estado de Rondônia (TCE/RO) dá outras providências.
+
+**O Secretário Municipal de Planejamento, Orçamento e Gestão e o Secretário Municipal de Fazenda**, no uso de suas atribuições legais, por meio do Departamento de Planejamento Orçamentário – DPO/SEMPOG e Departamento de Contabilidade – DEC/SEMFAZ, resolvem expedir a presente Instrução Normativa, nos seguintes termos:
+
+#### Capítulo I — Das Disposições Gerais
+
+**Art. 1º** Esta Instrução Normativa estabelece e normatiza a implantação do Ementário da Receita Pública e a Padronização das Fontes ou Destinações de Recursos em conformidade com as Portarias da Secretaria do Tesouro Nacional – STN e Portaria n.º 22/GABPRES/2021 do Tribunal de Contas do Estado de Rondônia (TCE/RO) no âmbito do Município de Porto Velho.
+
+**Art. 2°** Para fins desta Instrução Normativa considera-se:
+
+**CLASSIFICAÇÃO DA RECEITA POR NATUREZA** é o agrupamento que identifica a origem dos recursos, se orçamentários ou extra-orçamentários. Busca identificar a origem dos recursos segundo o fato gerador;
+
+**DESPESA PÚBLICA** é o conjunto de gastos realizados pelos entes públicos para custear os serviços públicos prestados à sociedade ou para a realização de investimentos;
+
+**EMENTÁRIO DA RECEITA** visa subsidiar os entes da Federação no processo de planejamento e execução do orçamento, propiciando o adequado registro contábil das receitas orçamentárias;
+
+**FONTES DE RECURSO** são determinados agrupamentos de naturezas de receitas, atendendo a uma determinada regra de destinação legal, e servem para indicar como são financiadas as despesas orçamentárias. Entende-se por fonte de recursos a origem ou a procedência dos recursos que devem ser gastos com uma determinada finalidade.
+
+**MARCADOR (CO – Código de Acompanhamento da Execução Orçamentária)** tem como objetivo a identificação de informações que complementam a classificação por Fonte de Recursos na fase de execução da despesa ou da receita.
+
+**RECEITA PÚBLICA** é o montante de dinheiro recolhido pelo tesouro municipal, incorporado ao patrimônio do município, que serve para custear as despesas e investimentos públicos;
+
+**UNIDADE GESTORA** é a unidade responsável por administrar dotações orçamentárias e financeiras próprias ou descentralizadas;
+
+#### Capítulo II — Ementário da Receita
+
+**Art 3°** A partir do Exercício Financeiro de 2022, o ementário da natureza da receita e a tabela de códigos aplicados no âmbito municipal devem seguir o estabelecido no Anexo I – Ementário da Receita desta Instrução Normativa.
+
+**Parágrafo único.** A codificação da natureza da receita será composta por 8 (oito) dígitos (**a.b.c.d.dd.d.e)**, sendo, 1° dígito categoria econômica da receita, 2° dígito corresponde a origem do recurso, 3° dígito identifica a espécie, 4°,5°,6º e 7° dígitos correspondem ao desdobramento da receita, que permite a identificação de peculiaridades ou necessidades gerenciais de cada natureza de receita, e por último, 8° dígito definindo o tipo de receita.
+
+#### Capítulo III — Fontes de Recursos
+
+**Art 4°** A identificação dos códigos da fonte de recursos deve seguir o disposto no Anexo II – Tabela Consolidada das Fontes de Recursos desta Instrução Normativa, discriminado de forma separada, sendo: Quadro 1 – código de uso exclusivo para envio das informações ao TCE (IDUSO), Quadro 2 – Codificação do 1° dígito (identificação do exercício), Quadro 3 – Classificação por Fonte ou Destinação de Recursos e Quadro 4 – Código de Acompanhamento da Execução Orçamentária – CO (marcador) identificação de despesa para fins de comprovação da aplicação.
+
+**§ 1°** A codificação da fonte de recursos será composta por 9 (nove) dígitos (**x.x.xxx.xxxx)** sendo, 1°dígito o identificador de uso (IDUSO) para uso de informação complementar, exclusiva ao TCERO e destina-se a indicar se os recursos compõem contrapartida nacional de empréstimos ou de doações ou destinam-se a outras aplicações; 2° dígito corresponde ao grupo da fonte de recurso que identificará o exercício do recurso, 3°,4º e 5º dígitos representam a especificação da fonte com codificação padronizada da classificação por fonte de recurso e os 6°,7°,8°e 9° corresponde ao detalhamento da fonte(marcador - CO).
+
+**§ 2°** A utilização do código de marcador (CO – detalhamento da fonte), é de preenchimento obrigatório na identificação da despesa, quando da emissão do empenho, para fins de comprovação da aplicação.
+
+**§ 3°** O nível de codificação da Fonte de Recurso terá a seguinte estrutura:
+
+<table><tbody><tr><td colspan="3"><p><strong>Nível de Codificação da Fonte</strong></p></td></tr><tr><td><p>Identificação do Exercício do Recurso</p></td><td><p>Códificação da Fonte</p></td><td><p>Detalhamento da Fonte</p></td></tr><tr><td><p><strong>X</strong></p></td><td><p><strong>XXX</strong></p></td><td><p><strong>XXXX</strong></p></td></tr></tbody></table>
+
+**§ 4°** No sistema informatizado o usuário deve constatar, tanto na receita como na despesa, se o campo “Fonte de Recursos” está preenchida com a identificação do exercício e codificação da fonte adequada.
+
+**§ 5°** Na despesa, o usuário deve certificar que o campo “Detalhamento da Fonte”, esteja preenchido com a codificação correta, ressaltando que algumas despesas já vêm previamente preenchidas, não permitindo alteração e outras deve ser adequadamente informada pelo Usuário.
+
+#### Capítulo IV — Das Considerações Gerais
+
+**Art 5°** No âmbito do Município a adoção do ementário da receita e padronização da tabela de fontes e destinação de recursos foi instituído pelo Decreto nº 17.882, de 05 de janeiro de 2022.
+
+**Art 6°** A Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG e Secretaria Municipal de Fazenda – SEMFAZ devem promover as adequações necessárias nos sistemas informatizados do município, de forma a adequar o aparelho Orçamentário, Contábil, Financeiro e Patrimonial do ente às regras estabelecidas nas Portarias da Secretaria do Tesouro Nacional – STN e do Tribunal de Contas do Estado de Rondônia (TCE/RO).
+
+**Art 7°** Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+Porto Velho, 11 de fevereiro de 2022.
+
+***LUIZ HENRIQUE GONÇALVES***
+
+Diretor do Departamento de Contabilidade – DEC
+
+***LETÍCIA AGNES GONÇALVES BARROS***
+
+Diretora do Departamento de Planejamento e Orçamento – SEMPOG
+
+**Elaborada pelo Grupo de Trabalho (SEMFAZ/SEMPOG):**
+
+Edglei Souza da Silva
+
+Flavio Silva Lima
+
+Lucas Fernando Balbinot
+
+Morys Albert de Oliveira Santos
+
+Nadya Karolina de Melo
+
+Rita Ferreira Lima
+
+Rosane Da Silva Cruz
+
+Zaira Segorvea De M Nucini

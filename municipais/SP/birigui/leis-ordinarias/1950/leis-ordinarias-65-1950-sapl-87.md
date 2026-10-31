@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 65, de 02 de março de 1950"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "65"
+data: "1950-03-02"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/87"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2676/text"
+sha256_fonte: "2d03843787371dc582bd962ab68b40009439d858b55349206679b18ef131d504"
+sha256_texto: "d17fcbec0d75a57fa295bff799bee1234083e9b6de0e55671d51977b33031c0e"
+capturado_em_fonte: "2026-10-27T19:37:02.166264-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 65, de 02 de março de 1950
+
+CONCORRÊNCIA PÚBLICA PARA EXECUÇÃO DOS SERVIÇOS DE ASSENTAMENTO DE SESSENTA MIL METROS QUADRADOS DE PARALELEPÍPEDOS.
+
+
+**JOSÉ XAVIER SOARES**, Prefeito Municipal de Biriguí, Estado de São Paulo, etc.
+
+FAÇO SABER que a Câmara Municipal decretou e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Prefeito Municipal autorizado a pôr em concorrência pública, pelo prazo de 30 (trinta) dias, fazendo publicar editais na imprensa local e num jornal de grande circulação da Capital, a execução dos serviços de assentamento de 60.000 (sessenta mil) metros quadrados de paralelepípedos, nas ruas Barão do Rio Branco, da Saudade, João Galo, Bento da Cruz, Siqueira Campos, 7 de Dezembro, 9 de Julho, Tupí, Marechal Deodoro, D. Pedro II, Avenida Governador Pedro de Toledo, nas partes ainda não dotadas nesse melhoramento e que se confinam na área limitada pelas ruas da Saudade, 9 de Julho, João Galo, Avenida Governador Pedro de Toledo e Tupí e mais o trecho da rua Antônio Simões ainda não dotado desse serviço, até o páteo da estação da Noroeste do Brasil.
+
+
+Art. 2º.
+
+Os serviços a que se refere o Artigo 1º, serão executados com paralelepípedos de granito, comuns, nas dimensões seguintes: comprimento, 20,00 a 28,00 cm; largura, 11,05 a 15,00 cm; altura, 13,00 a 15,00 cm; de qualidade e tipo idênticos aos utilizados no serviço de calçamento já existente na cidade, estabelecendo o edital as demais particularidades do serviço.
+
+
+Art. 3º.
+
+Para pagamento dos serviços de calçamento a que se refere esta lei, fica o Prefeito Municipal autorizado a utilizar a verba a esse fim destinada no orçamento vigente, podendo, ainda, realizar as operações de crédito necessárias, por antecipação da receita, inclusive levantamento de empréstimo interno pelo prazo de 3 (três) anos e até o limite máximo de Cr$ 2.000.000,00 (dois milhões de cruzeiros), pagando juros à razão de 12% (doze por cento) ao ano.
+
+
+Art. 4º.
+
+O total dos serviços de calçamento previsto nesta lei, deverá ser executado dentro do prazo máximo de 20 (vinte) mezes, à razão de uma quota de 3.000 (três mil) metros quadrados por mês, a partir da data da assinatura do contrato.
+
+
+Art. 5º.
+
+A Câmara Municipal nomeará, pelo seu Presidente, uma Comissão Especial, composta de 5 (cinco) Vereadores, para, conjuntamente com o Prefeito Municipal, proceder a abertura das propostas apresentadas, podendo, essa Comissão, rejeitar qualquer delas, caso não sejam julgadas de interesse da Municipalidade, dando de tudo ciência à Câmara.
+
+
+Art. 6º.
+
+Os proponentes depositarão, cada um deles, préviamente, na Tesouraria Municipal, a importância, em dinheiro, de Cr$ 10.000,00 (dez mil cruzeiros), como garantia de assinatura do contrato.
+
+
+Art. 7º.
+
+O proponente cuja proposta fôr aceita, depositará na mesma Tesouraria, a importância de Cr$ 50.000,00 (cincoenta mil cruzeiros), em dinheiro, pela garantia da bôa execução dos serviços, nas bases do contrato.
+
+
+Art. 8º.
+
+Esta lei entrará em vigôr na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Biriguí, aos dois de março de mil novecentos e cincoenta.
+
+**JOSÉ XAVIER SOARES Prefeito Municipal**
+
+Publicada na Secretaría da Prefeitura, na mesma data.
+
+**ALFREDO GALEOTTI Secretário da Prefeitura**
+

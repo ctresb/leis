@@ -1,0 +1,58 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 0,
+  "retidos": 1,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.632-2023-sapl-26105.md",
+      "sha256": "8292bcb16f9ee4f0cacf9732e7d59ca127f658a59d4b606fa47ee883c25b4083",
+      "sha256_fonte": "c939f0cab89e7f46d7a60c9b14bb8a655dafcf947cf88ad37b034094d613d069",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c8a274fe088eedf2b51649556ba85b30720d0113a79a6c4768d395a4cec8ff6e.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            448,
+            40
+          ]
+        },
+        {
+          "texto": "30 de Janeiro de 2024",
+          "posicao": [
+            452,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            452,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            458,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto nº 19.722, de 30 de janeiro de 2024",
+          "posicao": [
+            458,
+            58
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

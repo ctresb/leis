@@ -1,0 +1,808 @@
+{
+  "estado": "indice_completo",
+  "total": 79,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/lei_municipal_no_908-2023_-_ldo_1.pdf da norma Lei Municipal-LM nº 908, de 16 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2023/1/lei_municipal_no_908-2023_-_ldo_1.pdf",
+      "ano": 2023,
+      "norma": 49
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/lei_complementar_no_089-2024_-_anexo_vii_-_vide_lc_037-2015.pdf da norma Lei Complementar-CVFN nº 89, de 13 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2024/2/lei_complementar_no_089-2024_-_anexo_vii_-_vide_lc_037-2015.pdf",
+      "ano": 2024,
+      "norma": 97
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/lei_complementar_no_089-2024_-_anexo_vii_-_vide_lc_037-2015_tabela_de_movimentacao.pdf da norma Lei Complementar-CVFN nº 89, de 13 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Tabela de Movimentação",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2024/3/lei_complementar_no_089-2024_-_anexo_vii_-_vide_lc_037-2015_tabela_de_movimentacao.pdf",
+      "ano": 2024,
+      "norma": 97
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/lei_complementar_no_089-2024_-_anexo_vii_-_vide_lc_037-2015.pdf da norma Lei Complementar-CVFN nº 89, de 13 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2024/4/lei_complementar_no_089-2024_-_anexo_vii_-_vide_lc_037-2015.pdf",
+      "ano": 2024,
+      "norma": 97
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/lei_complementar_no_088-2024_-_pccs_saude_-_anexo_v.pdf da norma Lei Complementar-CVFN nº 88, de 13 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2024/5/lei_complementar_no_088-2024_-_pccs_saude_-_anexo_v.pdf",
+      "ano": 2024,
+      "norma": 96
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/6/lei_complementar_no_088-2024_-_pccs_saude_anexo_v.pdf da norma Lei Complementar-CVFN nº 88, de 13 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2024/6/lei_complementar_no_088-2024_-_pccs_saude_anexo_v.pdf",
+      "ano": 2024,
+      "norma": 96
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/7/lei_complementar_no_087-2024_-_pccs_educacao_-_anexo_iv.pdf da norma Lei Complementar-CVFN nº 87, de 13 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2024/7/lei_complementar_no_087-2024_-_pccs_educacao_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 94
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/lm_1060_autoriza_o_poder_executivo_a_conceder_premiacoes_em_eventos_esportivos_municipais.pdf da norma Lei Municipal-CVFN nº 1.060, de 25 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/8/lm_1060_autoriza_o_poder_executivo_a_conceder_premiacoes_em_eventos_esportivos_municipais.pdf",
+      "ano": 2026,
+      "norma": 728
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/lm_1059_autoriza_o_poder_executivo_municipal_a_celebrar_termo_de_fomento_com_a_fundacao_livre_para_viver__funvida.pdf da norma Lei Municipal-CVFN nº 1.059, de 25 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/9/lm_1059_autoriza_o_poder_executivo_municipal_a_celebrar_termo_de_fomento_com_a_fundacao_livre_para_viver__funvida.pdf",
+      "ano": 2026,
+      "norma": 727
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/10/lm_1058_autoriza_o_poder_executivo_municipal_a_celebrar_termo_de_fomento_com_a_associacao_de_pais_e_amigos_dos_excepcionais.pdf da norma Lei Municipal-CVFN nº 1.058, de 25 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/10/lm_1058_autoriza_o_poder_executivo_municipal_a_celebrar_termo_de_fomento_com_a_associacao_de_pais_e_amigos_dos_excepcionais.pdf",
+      "ano": 2026,
+      "norma": 726
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/11/lm_1057_adquirir_e_doar_os_imoveis_denominados_lotes_02_e_03_da_quadra_23.pdf da norma Lei Municipal-CVFN nº 1.057, de 20 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/11/lm_1057_adquirir_e_doar_os_imoveis_denominados_lotes_02_e_03_da_quadra_23.pdf",
+      "ano": 2026,
+      "norma": 509
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/lm_1056_altera_a_lei_municipal_no.pdf da norma Lei Municipal-CVFN nº 1.056, de 20 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/12/lm_1056_altera_a_lei_municipal_no.pdf",
+      "ano": 2026,
+      "norma": 508
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/13/lm_1055_altera_o__2o_do_art_1o_da.pdf da norma Lei Municipal-CVFN nº 1.055, de 20 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/13/lm_1055_altera_o__2o_do_art_1o_da.pdf",
+      "ano": 2026,
+      "norma": 507
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/14/lc_105_alterar_o_anexo_ii_da_lei_complementar_no_088-2024.pdf da norma Lei Complementar-CVFN nº 105, de 20 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/14/lc_105_alterar_o_anexo_ii_da_lei_complementar_no_088-2024.pdf",
+      "ano": 2026,
+      "norma": 506
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/15/lei_complementar_037_2015_pccs_anexo_vii_-_progressao.pdf da norma Lei Complementar-CVFN nº 37, de 19 de agosto de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2015/15/lei_complementar_037_2015_pccs_anexo_vii_-_progressao.pdf",
+      "ano": 2015,
+      "norma": 825
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/16/lei_complementar_042-16_-_1-__anexos_i_-v.pdf da norma Lei Complementar-CVFN nº 42, de 27 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/16/lei_complementar_042-16_-_1-__anexos_i_-v.pdf",
+      "ano": 2016,
+      "norma": 837
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/17/lei_complementar_042-16_-_2_-_anexo_vi.pdf da norma Lei Complementar-CVFN nº 42, de 27 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/17/lei_complementar_042-16_-_2_-_anexo_vi.pdf",
+      "ano": 2016,
+      "norma": 837
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/18/lei_complementar_042-16_-_3_-_anexo_vii__progressao_-_out-2016.pdf da norma Lei Complementar-CVFN nº 42, de 27 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/18/lei_complementar_042-16_-_3_-_anexo_vii__progressao_-_out-2016.pdf",
+      "ano": 2016,
+      "norma": 837
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/19/lei_complementar_042-16_-_4_-_anexo_viii.pdf da norma Lei Complementar-CVFN nº 42, de 27 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/19/lei_complementar_042-16_-_4_-_anexo_viii.pdf",
+      "ano": 2016,
+      "norma": 837
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/20/lei_complementar_042-16_-_5_-anexos_ix_e_x.pdf da norma Lei Complementar-CVFN nº 42, de 27 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/20/lei_complementar_042-16_-_5_-anexos_ix_e_x.pdf",
+      "ano": 2016,
+      "norma": 837
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/21/lei553-16_-_anexo_i_-_metas_e_prioridades_-_ldo_2.pdf da norma Lei Municipal-CVFN nº 553, de 13 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/21/lei553-16_-_anexo_i_-_metas_e_prioridades_-_ldo_2.pdf",
+      "ano": 2016,
+      "norma": 835
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/22/lei553-16_-_anexo_iii_-_metas_fiscais_fixadas_nos_tres_exercicios_anteriores_2.pdf da norma Lei Municipal-CVFN nº 553, de 13 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/22/lei553-16_-_anexo_iii_-_metas_fiscais_fixadas_nos_tres_exercicios_anteriores_2.pdf",
+      "ano": 2016,
+      "norma": 835
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/23/lei553-16_-_anexo_vii_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf da norma Lei Municipal-CVFN nº 553, de 13 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2016/23/lei553-16_-_anexo_vii_-_estimativa_e_compensacao_da_renuncia_de_receita.pdf",
+      "ano": 2016,
+      "norma": 835
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/24/lei_munic_668-2019_ldo_2020_-_anexo__ii-a-_metas_fiscais_tabelas_ldo_2020.pdf da norma Lei Municipal-CVFN nº 668, de 19 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/24/lei_munic_668-2019_ldo_2020_-_anexo__ii-a-_metas_fiscais_tabelas_ldo_2020.pdf",
+      "ano": 2019,
+      "norma": 966
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/lei_munic_668-2019_ldo_2020_-_anexo_ii_-_metas_e_prioridades_ldo_2020.pdf da norma Lei Municipal-CVFN nº 668, de 19 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/25/lei_munic_668-2019_ldo_2020_-_anexo_ii_-_metas_e_prioridades_ldo_2020.pdf",
+      "ano": 2019,
+      "norma": 966
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/26/lei_munic_668-2019_ldo_2020_-_anexo_ii-b_-_memoria_de_calculo_das_metas_fiscais.pdf da norma Lei Municipal-CVFN nº 668, de 19 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/26/lei_munic_668-2019_ldo_2020_-_anexo_ii-b_-_memoria_de_calculo_das_metas_fiscais.pdf",
+      "ano": 2019,
+      "norma": 966
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/27/lei_munic_668-2019_ldo_anexo_iii_-_anexo_de_riscos_fiscais.pdf da norma Lei Municipal-CVFN nº 668, de 19 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/27/lei_munic_668-2019_ldo_anexo_iii_-_anexo_de_riscos_fiscais.pdf",
+      "ano": 2019,
+      "norma": 966
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/28/lei_complementar_055-2019_anexo_vi__progressao_-_mar-2019.pdf da norma Lei Complementar-CVFN nº 55, de 03 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/28/lei_complementar_055-2019_anexo_vi__progressao_-_mar-2019.pdf",
+      "ano": 2019,
+      "norma": 979
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/29/lei_complementar_055-2019_anexos_vii.pdf da norma Lei Complementar-CVFN nº 55, de 03 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/29/lei_complementar_055-2019_anexos_vii.pdf",
+      "ano": 2019,
+      "norma": 979
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/30/lei_complementar_055-2019_anexos_viii_e__ix.pdf da norma Lei Complementar-CVFN nº 55, de 03 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/30/lei_complementar_055-2019_anexos_viii_e__ix.pdf",
+      "ano": 2019,
+      "norma": 979
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/31/lei_complementar_056-2019_anexo_vi__progressao_-_mar-2019.pdf da norma Lei Complementar-CVFN nº 56, de 13 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2019/31/lei_complementar_056-2019_anexo_vi__progressao_-_mar-2019.pdf",
+      "ano": 2019,
+      "norma": 980
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/32/lei_munic_715-2020_anexo_excesso_de_arrecadacao_out_2020_pl_apm_e_fethab.pdf da norma Lei Municipal-CVFN nº 715, de 01 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2020/32/lei_munic_715-2020_anexo_excesso_de_arrecadacao_out_2020_pl_apm_e_fethab.pdf",
+      "ano": 2020,
+      "norma": 1024
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/33/anexo_01_-_projecao_de_receita.pdf da norma Lei Municipal-CVFN nº 763, de 15 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2021/33/anexo_01_-_projecao_de_receita.pdf",
+      "ano": 2021,
+      "norma": 1066
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/34/anexo_02_-_projecao_de_receita_detalhada.pdf da norma Lei Municipal-CVFN nº 763, de 15 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2021/34/anexo_02_-_projecao_de_receita_detalhada.pdf",
+      "ano": 2021,
+      "norma": 1066
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/35/anexo_03_-_ppa_por_acao.pdf da norma Lei Municipal-CVFN nº 763, de 15 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2021/35/anexo_03_-_ppa_por_acao.pdf",
+      "ano": 2021,
+      "norma": 1066
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/36/anexo_04_-_programas_e_indicadores.pdf da norma Lei Municipal-CVFN nº 763, de 15 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2021/36/anexo_04_-_programas_e_indicadores.pdf",
+      "ano": 2021,
+      "norma": 1066
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/37/anexo_05_-_programa_por_funcao_e_subfuncao.pdf da norma Lei Municipal-CVFN nº 763, de 15 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2021/37/anexo_05_-_programa_por_funcao_e_subfuncao.pdf",
+      "ano": 2021,
+      "norma": 1066
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/anexo_06_-_ppa_detalhado.pdf da norma Lei Municipal-CVFN nº 763, de 15 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2021/38/anexo_06_-_ppa_detalhado.pdf",
+      "ano": 2021,
+      "norma": 1066
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/39/lei396-12_loa2013_-_4.xiv_descricao_de_cada_unidade_adm_e_re.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/39/lei396-12_loa2013_-_4.xiv_descricao_de_cada_unidade_adm_e_re.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/40/lei396-12_loa_2013_-_4.xii_-_quadro_programa_anual_de_trabal.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/40/lei396-12_loa_2013_-_4.xii_-_quadro_programa_anual_de_trabal.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/41/lei396-12_loa_2013_-_4.xi_-_quadro_da_receita_e_planos_de_ap.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/41/lei396-12_loa_2013_-_4.xi_-_quadro_da_receita_e_planos_de_ap.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/42/lei396-12_loa_2013_-_4.x_-_quadro_despesas_por_orgao_e_funco.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/42/lei396-12_loa_2013_-_4.x_-_quadro_despesas_por_orgao_e_funco.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/43/lei396-12_loa_2013_-_4.vii_-_quadro_por_unidade_e_programa_d.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/43/lei396-12_loa_2013_-_4.vii_-_quadro_por_unidade_e_programa_d.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/44/lei396-12_loa_2013_-_4.vi_-_quadro_das_dotacoes_por_orgao_de.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/44/lei396-12_loa_2013_-_4.vi_-_quadro_das_dotacoes_por_orgao_de.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/45/lei396-12_loa_2013_-_4.v_-_quadro_da_receita_por_fonte_e_res.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/45/lei396-12_loa_2013_-_4.v_-_quadro_da_receita_por_fonte_e_res.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/46/lei396-12_loa_2013_-_4.ix_-_quadro_por_funcoes_subfuncoes_e.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/46/lei396-12_loa_2013_-_4.ix_-_quadro_por_funcoes_subfuncoes_e.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/47/lei396-12_loa_2013_-_4.iv.b_-_consolidacao_geral_anexo_2_lei.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/47/lei396-12_loa_2013_-_4.iv.b_-_consolidacao_geral_anexo_2_lei.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/48/lei396-12_loa_2013_-_4.iv.a_-_natureza_da_despesa_anexo_2_le.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/48/lei396-12_loa_2013_-_4.iv.a_-_natureza_da_despesa_anexo_2_le.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/49/lei396-12_loa_2013_-_4.iii_-_receita_segundo_categoria__anex.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/49/lei396-12_loa_2013_-_4.iii_-_receita_segundo_categoria__anex.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/50/lei_396-12_loa_2013_-_4.vii_-_quadro_por_unidade_e_programa_d_-2.pdf da norma Lei Municipal-CVFN nº 396, de 04 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2012/50/lei_396-12_loa_2013_-_4.vii_-_quadro_por_unidade_e_programa_d_-2.pdf",
+      "ano": 2012,
+      "norma": 651
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/51/lei_munic_371-2011_-_loa_2012_-_ii_-_anexo__1-_quadro_demonst._rec._e_desp._segundo_categoria1.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/51/lei_munic_371-2011_-_loa_2012_-_ii_-_anexo__1-_quadro_demonst._rec._e_desp._segundo_categoria1.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/52/lei_munic_371-2011_-_loa_2012_-_iii_-_anexo_2_-_receita__segundo_categoria1.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/52/lei_munic_371-2011_-_loa_2012_-_iii_-_anexo_2_-_receita__segundo_categoria1.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/53/lei_munic_371-2011_-_loa_2012_-_iv_-_anexo_2_-_despesa_segundo_categoria2.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/53/lei_munic_371-2011_-_loa_2012_-_iv_-_anexo_2_-_despesa_segundo_categoria2.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/54/lei_munic_371-20..2.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/54/lei_munic_371-20..2.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/55/lei_munic_371-20..4.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/55/lei_munic_371-20..4.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/56/lei_munic_371-20..5.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/56/lei_munic_371-20..5.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/57/lei_munic_371-2011_-_loa_2012_-_xi_-_quadro_da_receita_e_planos_dos_fundo_especais1.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/57/lei_munic_371-2011_-_loa_2012_-_xi_-_quadro_da_receita_e_planos_dos_fundo_especais1.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/58/lei_munic_371-2011_-_loa_2012_-_xii_-_quadro_programa_anual_de_trabalho1.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/58/lei_munic_371-2011_-_loa_2012_-_xii_-_quadro_programa_anual_de_trabalho1.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/59/lei_munic_371_2011_anexo.pdf da norma Lei Municipal-CVFN nº 371, de 06 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2011/59/lei_munic_371_2011_anexo.pdf",
+      "ano": 2011,
+      "norma": 624
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/60/lei_munic_710-2020_cria_remume_anexo.pdf da norma Lei Municipal-CVFN nº 710, de 28 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2020/60/lei_munic_710-2020_cria_remume_anexo.pdf",
+      "ano": 2020,
+      "norma": 1093
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/61/anexo_lei_197_2006.pdf da norma Lei Municipal-CVFN nº 197, de 29 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2006/61/anexo_lei_197_2006.pdf",
+      "ano": 2006,
+      "norma": 430
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/62/anexo_2_lei_197_2006.pdf da norma Lei Municipal-CVFN nº 197, de 29 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2006/62/anexo_2_lei_197_2006.pdf",
+      "ano": 2006,
+      "norma": 430
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/63/anexo_3_lei_197_2006.pdf da norma Lei Municipal-CVFN nº 197, de 29 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2006/63/anexo_3_lei_197_2006.pdf",
+      "ano": 2006,
+      "norma": 430
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/64/anexo_4_lei_197_2006.pdf da norma Lei Municipal-CVFN nº 197, de 29 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2006/64/anexo_4_lei_197_2006.pdf",
+      "ano": 2006,
+      "norma": 430
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/65/anexo_5_lei_197_2006.pdf da norma Lei Municipal-CVFN nº 197, de 29 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2006/65/anexo_5_lei_197_2006.pdf",
+      "ano": 2006,
+      "norma": 430
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/anexo_i_resolucao_002_2025.pdf da norma Resolução-CVFN nº 2, de 25 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2025/66/anexo_i_resolucao_002_2025.pdf",
+      "ano": 2025,
+      "norma": 1196
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/anexo_ii_res_002_2025.pdf da norma Resolução-CVFN nº 2, de 25 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2025/67/anexo_ii_res_002_2025.pdf",
+      "ano": 2025,
+      "norma": 1196
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/68/00_-_adiantamento_formularios.pdf da norma Resolução-CVFN nº 3, de 30 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2025/68/00_-_adiantamento_formularios.pdf",
+      "ano": 2025,
+      "norma": 1197
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/69/02_-_anexo_i_adiantamento_formulario_solicitacao.pdf da norma Resolução-CVFN nº 3, de 30 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2025/69/02_-_anexo_i_adiantamento_formulario_solicitacao.pdf",
+      "ano": 2025,
+      "norma": 1197
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/70/03_-_anexo_ii__adiantamento_formulario_prestacao_de_contas_1.pdf da norma Resolução-CVFN nº 3, de 30 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2025/70/03_-_anexo_ii__adiantamento_formulario_prestacao_de_contas_1.pdf",
+      "ano": 2025,
+      "norma": 1197
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/71/anexo_i_rga_resolucao_002.pdf da norma Resolução-CVFN nº 2, de 24 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/71/anexo_i_rga_resolucao_002.pdf",
+      "ano": 2026,
+      "norma": 1201
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/anexo_ii_quadro_demosntrativo_revisao_geral.pdf da norma Resolução-CVFN nº 2, de 24 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/72/anexo_ii_quadro_demosntrativo_revisao_geral.pdf",
+      "ano": 2026,
+      "norma": 1201
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/73/publicacao_resolucao_no_002-2026_-_rga.pdf da norma Resolução-CVFN nº 2, de 24 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/73/publicacao_resolucao_no_002-2026_-_rga.pdf",
+      "ano": 2026,
+      "norma": 1201
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/74/impacto_resolucao_002-2026.pdf da norma Resolução-CVFN nº 2, de 24 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/74/impacto_resolucao_002-2026.pdf",
+      "ano": 2026,
+      "norma": 1201
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/75/lm_1075_limpeza_dos_lotes_pra_expofeliz.pdf da norma Lei Municipal-AL nº 1.075, de 04 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/75/lm_1075_limpeza_dos_lotes_pra_expofeliz.pdf",
+      "ano": 2026,
+      "norma": 1210
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/76/lm_1076_reestrutura_o_conselho_municipal.pdf da norma Lei Municipal-AL nº 1.076, de 04 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/76/lm_1076_reestrutura_o_conselho_municipal.pdf",
+      "ano": 2026,
+      "norma": 1211
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/77/lm_1077_descongela_tempo_de_servico_da_camara.pdf da norma Lei Municipal-CVFN nº 1.077, de 15 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/77/lm_1077_descongela_tempo_de_servico_da_camara.pdf",
+      "ano": 2026,
+      "norma": 1212
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/78/lm_1078_aumentar_o_percentual_de_abertura_de_creditos_adicionais_suplementares_sobre_o_valor_total_previsto_na_lei_municipal_no_1054-2025_loa_2026.pdf da norma Lei Municipal-CVFN nº 1.078, de 21 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/78/lm_1078_aumentar_o_percentual_de_abertura_de_creditos_adicionais_suplementares_sobre_o_valor_total_previsto_na_lei_municipal_no_1054-2025_loa_2026.pdf",
+      "ano": 2026,
+      "norma": 1213
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/79/lm_1079_vila_militar.pdf da norma Lei Municipal-CVFN nº 1.079, de 21 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.feliznatal.mt.leg.br/media/sapl/public/anexonormajuridica/2026/79/lm_1079_vila_militar.pdf",
+      "ano": 2026,
+      "norma": 1214
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.feliznatal.mt.leg.br/792632b02b13dc6b1b0b8aca2fd2185a0bbb363363cd694c7b8c07557bb46f66.json",
+      "url": "https://sapl.feliznatal.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.feliznatal.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "290c7b08301a8a023e3cfc9731ee14250311990991ca09078dca8edaf389e61c",
+      "bytes": 36007,
+      "capturado_em": "2026-10-28T10:32:10.638846-03:00"
+    }
+  ]
+}

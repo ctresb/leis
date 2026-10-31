@@ -1,0 +1,39 @@
+---
+titulo: "Lei Ordinária nº 1.330, de 21 de setembro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1330"
+data: "2007-09-21"
+municipio: "Jambeiro"
+uf: "SP"
+codigo_ibge: "3524907"
+versao_texto: "texto integral anexado no SAPL municipal; “CONSIDERA ZONA URBANA PARA FINS INDUSTRIAIS, ÁREA DE TERRENO RURAL\""
+fonte: "https://sapl.jambeiro.sp.leg.br/norma/711"
+fonte_texto: "https://sapl.jambeiro.sp.leg.br/media/sapl/public/normajuridica/2007/711/leis_municipais_1330_2007-output.pdf"
+sha256_fonte: "87bc0abf06a0cfe2ac2a41321456e6e3395848b5d0578e903a7d4cd89ef05fc8"
+sha256_texto: "3464add2f0bb144114d93d02a9d9d72b78244e4aa6736e15afb328a748273d90"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 1.330, de 21 de setembro de 2007
+
+CEc. JOÃO FRANCO DE CAMARGO, 80• CEP 12.27Q-000 — JAMBEIRO - SP TEL: (012)3978-1190 FAX: 3978•1 235 A L L“ ' '' ' “ c o iAu BEIRO Fls.
+
+LDCD 1 0D
+
+“Considera Zona Urbana para fins industriais, área de terreno rural"
+
+Carlos Alberto de Gouza, Prefeito Nunicipal de Jambeiro, Estado de São Paulo, faz saber que a Câmara M u nici pal aprovou e ele sancionae promu Igaa segui nte lei:
+
+Artigo 1• - Fica considerada zona urbana industrial, nos termos do parágrafo 2º, artigo 32, da Lei Federal N 5.172, de 2S de outubro de 1 966, a área de terreno ruraI com 24,9950ha. (vinte e quatro hectares noventa e nove arese cinqüenta centiares), localizada na antiga estrada São José dos Campos-Caraguatatuba, no Bairro do Tapanhão, Município de Jambeiro, com a seguinte descrição:o tmóvelé delimitada por um polígono irregular, cuja demarcação inicia- se pelo marco MP, cravado na antlga estrada São 3osé dos Campos-Caraguatatuba, junto às divisas de Rodolfo Alberto Wysling; segue atravessandoa referida estrada, através da seguinte azimutee d istância: 254°31’ — 20,00m (vinte metros), atéo marca f'4A;j unto asd ivisas de Rodo!fo Alberto \/Vysling; segue com azimute de 270°1O’ uma distância de B6, D3m (oitentae seis metrose três centímetros), atêo marco MB, junto as divisas de Rodolfo Alberto Wysling, seguindo pelo córrego sentido contrário das ág uas, com seguintes azimutee respectivas distâncias: 45°24’ — 3,22m (três metrose vintee dois centímetros); 39°30‘ - 20,42m (vinte metrose quarentae dois centímetros)j , 03°0B’ — 1 2,76m (doze metrose setentae sels centímetros); 342°17\* - I 1,43m (onze metrose quarentae três centímetr€is); 26°35’ - 8,29m (otto metrose vlntee neve centímetros); 45°04‘ - 7,B5m( sete metrose oitentae cinco centímetros); 38°52‘ -1 0,42m (dez metrose vintee quatro centímetros); 15°52’ - 6,03m (seis metros e três centímetros), até o marco 2 A; segue confrontando com o mesmo proprietário, seguindo pelo córrego sentido das águas, com os seguintes azimutes e respectivas distâncias: 1 1°38‘ 1Z,47m (doze metros e quarenta e sete centímetros): 3S6°38’ - t1,83m (onze metrose oitentae três centímetros); 320°34' - 7,56m (sete - ./‘ metros e cinqüenta e seis centímetros); 334°55’ J 1,64m (onze metros e sessenta e quatro centímetros), atéo marco6 A; confrontando com os proprietários, seguindo pelo córrego sentido contrário das águas, com os seguintes azimutes e respectivas distâncias: 334°41’ - 10,00 (dez metros); 327°3 1’ — 34,09m (trintae quaCro metrose nove cenLímetros);332°16’ — 24,82m (vintee quatro metros e oltenta e dois centímetros); 374º 16’ - 8,35m (oito metros e trinta e c1nco centímetros}, atéo marco1 11 A; deste pontoo imóvel passaa confrontar-se co Diniz Noura de Castilho, seguindo com azimute de 91°37’ uma distância de 9D,44• tnoventa metrose quarentae quatro centímetros), atéo marco4 A; desse ponto em diante,o imóvel passaa confrontar-se com Rodolfo Alberto Wysling, seguindo através dos seguintes azimutese respectivas distâncias: Z52°50’ - 241,21m (duzentose quarenta e um metrose vinte e um centímetros) e 263°35’ — 93,95m (noventa e Lrês metrose cinco centímetros), atéo marco1 14; confrontandoa Inda com Rodolfo Alberto Wysling, segulnclo através dos seguintes azimutes e respectivas disC6ncias: 254°S7’ — 31,33m( trintae um metrose trintae três centímetros) e 231°55' - 166,01m (centoe sessentae seis metros e um centímetro), até o marco 15 A. segue com o mesmo azimuEe anterior uma distância de 13,74m (treze metrose setentae quatro centímetros), atéo marco 158. Desse ponto em diante, o imóvel passa se confrontar com a Fazenda Brasil, seguindo através dos seguintes azimutes e respectivas distâncias: 174°05’ e JB,S6m (dezoito metros e ci•9üenta e seis centímetros); 246°0D’e 29,49m (vintee nove metnase quarentae nove centímetros); Z49°42’e 15.59m (guinze metrose cinq Üentae nove centímetros); 29B°35’e 73,93m (setentae trts metros e noventae três centímetros); 294°38’e 147,98a (centoe quarentae sete metrose noventae oito centímetros); 287°12’e 9,93m (nove metrose noventae trts); 278°16” e 32,65m (trintae dois metrose sessentae cinco centímetros); 269°05’e 19,20m (dezenove metrese vinte centím s);
+
+CBL. JDÀO FRANCO DE CA iARGO, 80- CEP 12.270-000 - JAMBEIRO TEL tof2) 3978-1190 FnX: 3978• 1235 EMAIL! pmjambeim@not. m.br
+
+," \_ \_ i?”›' .' '. 261°4S’e 22,28m (vintee dols metrose vintee oiCo centímetros); 250°OO’ e1 1,50m (onze metros e cinqüenta centímetros); 242°3O’ e 16,1Om (dezesseis metros e dez centímetros); 238°55‘ e 42,05m (quarenta e dols metrose cinco centímetros); 228°20’e 23,20m (vintee três metrose vinte centímetros); 218°22’e 27,72m (vintee sete metrose sessentae dois centímetros); atéo marco 24, cravado as margens da antiqa estrada São José dos Campos-Caraguatatuba. Segue margeandoa referida estrada com azlmute 126°33’ uma distância de 40,09m (quarenta metrose nove centímetros), atéo marco 25. Segueo azimute de 169°43’ uma distância de 23,83m (vintee trés metrose oitentae trés centímetros} atéo marco 26 A, atravessando a já referida estrada, cravado juntoa faixa da atual estrada São 3osé dos Campos-Caraguatatuba. Seg ue margeandoa referlda estrada, através dos seguintes azlmutese respectivas distâncias: 141º 18’e 111,18m (cento e onze metros e dezoito centímetros); 124°56’ e 13,73m (treze metros e setenta e Crés centímetros); 133°30’e 12,6Bm (doze metrose sessentae oito centímetrosJ; 137º 16’e B3,32m (oitentae três metros e trintae dois centímetros}; 138°55’e 56,92m (cinqüentae seis metrose noventa e dois centímetros); 143º 10’e 51,98m (cinqüenta e um metros e noventa e oito centímetros); 13B°15’e 2 1,9Sm (vinte e um metrose noventa e cinco centímetros) 13B°28’e 41,37m (quarentae um metrose trintae sete centímetros); 143°50'e 22,10m (vintee dois meCrOS e dez centímetros); 119°02’e 7,36m (sete metrose trintae seis centímetros); 115°52’e 22,98m (vintee dois metrose noventae oito centímetros); 112°1O'e 11,39m (onze metrose trintae nove centímetros); 81°20’e 27,40m t•/nte e sete metrose quarenta centímetros); 81°58’e 20,93m (vinte metrose noventae três centímetros); 8B°07‘e 23,56m (vintee três metrose cinqüentae seis centímetros); 91°13’e 53,54m (cinqüentae trés metrose cinqüentae quatro centímetros); 104°36’e 7,84m (sete metrose oitentae quatro centímetros); 70°0O’e 18,0 1m (dezoito metrose um centímetro); 57°3fi’e 7,7fim (sete metros e setentae cinco centímetros}; 6B"33’e 7,1Om (sete metrose dez centímetros); 72°51’e 1B4,97 m (centoe oitentae quatro metrose noventae sete centímetrosJ; 77°56’e 22,38m (vlntee dois metrose trintae oito centímetros); 73°38’e 26,15m (vintee seis metrose quinze centímetros); 77°44’e 16,99m (dezesseis metrose noventae nove centímetros), atéo marco 50. Desse ponto em dianteo imóvel voltaa confrontar-se com Rodolfo Alberto WysÍing, seguindo com azimute de 354°31’ uma distância de 29,52m (vintee nove metrose cinqüentae dois centímetros), atéa MP inicial, comp1etandoo perímetro.
+
+Artfgo 2° - Esta Lei entrará em vigor na data de sua pu bl1 caçâo.
+
+Regi strada e pubIi Cadano Setor de Ad min i stra çip u n IcIp , os 21 d e Sete m bro de 2007.
+
+J oão Luiz ue a . I atrativo
+

@@ -1,0 +1,96 @@
+---
+titulo: "LEI Nº 3.170/GAB/PREF/2026 GUAJARÁ-MIRIM, 10 DE"
+uf: "RO"
+municipio: "GUAJARÁ-MIRIM"
+tipo: "Lei Ordinária"
+numero: "3170"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 11/09/2026"
+data_publicacao: 2026-09-11
+codigo_identificador: "14FE3F2B"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116149_2026-09-10_c0fcf226588251caf20b6671a655d3e6.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 3.170/GAB/PREF/2026 GUAJARÁ-MIRIM, 10 DE
+
+LEI Nº 3.170/GAB/PREF/2026 GUAJARÁ-MIRIM, 10 DE
+SETEMBRO DE 2026.
+
+www.diariomunicipal.com.br/arom
+
+77
+
+Rondônia , 11 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4317
+Autoriza o Poder Executivo Municipal a abrir crédito
+adicional especial no orçamento vigente, com
+recursos provenientes de superávit financeiro apurado
+no exercício de 2025 e contrapartida municipal, para
+execução da Emenda Parlamentar nº 202537060004,
+e dá outras providências.
+O PREFEITO MUNICIPAL DE GUAJARÁ-MIRIM, Estado de
+Rondônia, no uso das atribuições que lhe confere o artigo 58 da Lei
+Orgânica do Município.
+FAZ SABER que a CÂMARA MUNICIPAL DE GUAJARÁMIRIM - RO aprovou e ele sanciona a seguinte:
+LEI
+Art. 1º – Fica o Poder Executivo Municipal autorizado a abrir, no
+orçamento geral do Município para o exercício financeiro de 2026,
+Crédito Adicional Especial no valor de R$ 370.180,49 (trezentos e
+setenta mil, cento e oitenta reais e quarenta e nove centavos),
+destinado à execução da Emenda Parlamentar nº 202537060004, de
+autoria do Deputado Federal Lúcio Mosquini, em favor da Secretaria
+Municipal de Agricultura e Pesca – SEMAGRIP.
+021401
+20.606.0004.2015.0000
+4.4.90.51.00
+4.4.90.51.00
+TOTAL
+
+Secretaria Municipal de Agricultura e Pesca- SEMAGRIP
+Incentivo à Agricultura Sustentável
+Obras e Instalações
+F-A/C R$ 300.000,00
+Obras e Instalações
+F-A/C R$ 70.180,49
+R$ 370.180,49
+
+Art. 2º - Para cobertura do Crédito Adicional Especial a ser aberto de
+conformidade com a autorização do artigo anterior, serão utilizados os
+recursos oriundos do Superávit Financeiro apurado 2025, conforme o
+seguinte detalhamento por fontes de Recursos:
+NOMECRATURA
+Emenda Parlamentar nº 202537060004
+TOTAL
+
+CONTA
+574601212-9
+
+VALOR SUPERÁVIT
+R$ 300.000,00
+R$ 300.000,00
+
+Art. 3º - O crédito aberto por essa Lei será coberto com recursos
+provenientes anulação parcial da dotação a seguir indicada para
+atender Secretaria Municipal de Agricultura e Pesca - SEMAGRIP
+conforme autorizado pelo artigo 43 § 1°, III da Lei Federal 4320/64.
+0208
+04.121.0001.2007.0000
+3.3.90.30.00
+TOTAL
+
+Coordenadoria Geral Municipal de Planejamento - COMPLA
+Gestão Planejamento Municipal
+Material de Consumo
+F-153
+R$ 70.180,49
+R$ 70.180,49
+
+Art. 4º - Esta lei entra em vigor na data de sua publicação, revogadas
+as disposições em contrário.
+Palácio Pérola do Mamoré, 10 de setembro de 2026.
+FABIO GARCIA DE OLIVEIRA
+Prefeito Municipal
+Publicado por:
+Cristiane Oliveira Carvalho

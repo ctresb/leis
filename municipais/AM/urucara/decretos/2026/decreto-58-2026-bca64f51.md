@@ -1,0 +1,60 @@
+---
+titulo: "DECRETO Nº 58, DE 30 DE JANEIRO DE 2026."
+uf: "AM"
+municipio: "URUCARÁ"
+tipo: "Decreto"
+numero: "58"
+data: 2026-01-30
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 11/03/2026"
+data_publicacao: 2026-03-11
+codigo_identificador: "BCA64F51"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118814_2026-03-10_d4d6b99df4082cedea4e1be2aaaf3abb.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 58, DE 30 DE JANEIRO DE 2026.
+
+DECRETO Nº 58, DE 30 DE JANEIRO DE 2026.
+DECRETO Nº 58, DE 30 DE JANEIRO DE 2026.
+EXONERAR O SERVIDOR E DÁ OUTRAS
+PROVIDÊNCIAS.
+
+DECRETA:
+Art. 1º - EXONERAR, a senhora MONIQUE DANIELLY GAMA
+E SILVA,do Cargo Comissionado de Assessora Educacional, da
+Estrutura Organizacional Administrativa da Prefeitura Municipal de
+Urucará.
+Art. 2º - Este Decreto entra em vigor na data de sua publicação.
+
+O Excelentíssimo Senhor JOÃO BOSCO FALABELLA,
+PREFEITO DO MUNICIPIO DE URUCARÁ, no Estado do
+Amazonas, no uso das atribuições que lhe são conferidas por lei.
+CONSIDERANDO o que estabelecem os Incisos VI e IX, do artigo
+65, da Lei Orgânica do Município de Urucará.
+
+REGISTRE-SE, CIENTIFIQUE-SE, CUMPRA-SE E PUBLIQUESE!
+
+DECRETA:
+
+Gabinete do Prefeito Municipal, em Urucará-AM, 30 de janeiro de
+2026.
+JOÃO BOSCO FALABELLA
+Prefeito de Urucará
+Publicado por afixação na sede da Prefeitura, conforme Art.85 da Lei
+Orgânica do Município de Urucará, em 30 de janeiro de 2026.
+
+Art. 1º - EXONERAR, a senhora ANA LUCIA MARTINS DE
+AZEVEDO,do Cargo Comissionado de Assessora Educacional, da
+Estrutura Organizacional Administrativa da Prefeitura Municipal de
+Urucará.
+Art. 2º - Este Decreto entra em vigor na data de sua publicação.
+REGISTRE-SE, CIENTIFIQUE-SE, CUMPRA-SE E PUBLIQUESE!
+Gabinete do Prefeito Municipal, em Urucará-AM, 30 de janeiro de
+2026.
+
+DOUGLAS ALVES DE ANDRADE
+Chefe de Gabinete
+Publicado por:
+Carlos Dos Santos Ramos

@@ -1,0 +1,52 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 638.440,00 (seiscentos e trinta e oito mil, quatrocentos e quarenta reais), ao Orçamento da Fundação Cultural de Foz do Iguaçu.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento da Fundação Cultural de Foz do Iguaçu, no valor de R$ 638.440,00 (seiscentos e trinta e oito mil, quatrocentos e quarenta reais), conforme Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do Crédito Adicional Suplementar de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 25 de novembro de 2024.  
+  
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Jean Mauro Miyagawa Mezomo de Souza  
+Secretário Municipal da Administração  
+  
+Nilton Aparecido Bobato  
+Secretário Municipal da Transparência e Governança  
+  
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda  
+  
+Joaquim Rodrigues da Costa  
+Diretor Presidente da Fundação Cultural de Foz do Iguaçu
+
+
+## Anexo I
+
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO I - SUPLEMENTAÇÃO</strong></td></tr><tr><td>Órgão</td><td>31</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td>Valor</td></tr><tr><td>Unidade</td><td>01</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2180</td><td>Manutenção e Gestão da Fundação Cultural</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.91.13.99</td><td>Outras Obrigações Patronais</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>150.000,00</td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2184</td><td>Programa de Fortalecimento do Turismo Cultural</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.39.00</td><td>Outros Serviços de Terceiros Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>488.440,00</td></tr><tr><td colspan="4">Justificativa: Suplementação para pagamento de despesas referente à organização de eventos.</td></tr><tr><td colspan="3">TOTAL DA SUPLEMENTAÇÃO</td><td>638.440,00</td></tr></tbody></table>
+
+
+## Anexo II
+
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO II - ANULAÇÃO</strong></td></tr><tr><td>Órgão</td><td>31</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td>Valor</td></tr><tr><td>Unidade</td><td>01</td><td>FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td>Funcional Programática</td><td>13.392.0310.1065</td><td>Promoção e Proteção do Patrimônio Cultural</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.50.41.00</td><td>Contribuições</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>1.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.50.43.00</td><td>Subvenções Sociais</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>1.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.60.45.00</td><td>Subvenções Econômicas</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>1.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.30.00</td><td>Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>2.000,00</td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2179</td><td>Promoção e Difusão Cultural</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>3.3.50.43.00</td><td>Subvenções Sociais</td><td> </td></tr><tr><td>Funcional Programática</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>500,00</td></tr><tr><td>Fonte de Recursos</td><td>3.3.60.45.00</td><td>Subvenções Econômicas</td><td> </td></tr><tr><td>Funcional Programática</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>1.000,00</td></tr><tr><td>Fonte de Recursos</td><td>3.3.90.36.00</td><td>Outros Serviços de Terceiros - Pessoa Física</td><td> </td></tr><tr><td>Funcional Programática</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>62.500,00</td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2180</td><td>Manutenção e Gestão da Fundação Cultural</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.11.01</td><td>Vencimentos e Salários</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>150.000,00</td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2184</td><td colspan="2">Programa de Fortalecimento do Turismo Cultural</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.30.00</td><td colspan="2">Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>30.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.32.00</td><td colspan="2">Material, Bem ou Serviço para Distribuição Gratuita</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>60.800,00</td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2187</td><td colspan="2">Programa Municipal de Incentivo e Formação Cultural</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.20.00</td><td colspan="2">Auxílio Financeiro a Pesquisadores</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>80.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.30.00</td><td colspan="2">Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>150.000,00</td></tr><tr><td>Funcional Programática</td><td>13.392.0310.2261</td><td colspan="2">Ações para a Política do Livro Leitura Literatura e Biblioteca</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.30.00</td><td colspan="2">Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>70.898,05</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.32.00</td><td colspan="2">Material, Bem ou Serviço para Distribuição Gratuita</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>23.664,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.36.00</td><td colspan="2">Outros Serviços de Terceiros - Pessoa Física</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>4.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.52.00</td><td colspan="2">Equipamentos e Material Permanente</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td colspan="2">Recursos do Tesouro (descentralizados) - Exercício Corrente</td><td>77,95</td></tr><tr><td colspan="5">Justificativa: A anulação do saldo orçamentário não acarretará em impactos, visto que os saldos disponíveis nas dotações são adequados para atender integralmente aos objetivos planejados. (Inciso II, art. 2º da Lei nº 5.253/2023).</td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO</td><td colspan="2">638.440,00</td></tr></tbody></table>
+
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

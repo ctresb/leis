@@ -1,0 +1,65 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 2: aceita também o tipo completo literal cadastrado, sem ignorar divergências anteriores.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 767,
+  "aprovados_nestes_gates": 138,
+  "fontes": [
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.acari.rn.leg.br.prefixo.jsonl",
+      "sha256": "e045463be694fdb0a5f01b110be3328eb744f58d8ed41a77357662f0fbce4314",
+      "bytes": 725698
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.acari.rn.leg.br.tipos.json",
+      "url": "https://sapl.acari.rn.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4f88396d20e68fb7c5044a1f5d63c0caa43fc6bf2314f48672db2fd3924c5bb2"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.acari.rn.leg.br.anexos.json",
+      "sha256": "4662f5e4915f65729807fce4dd9b97ab0ed3d1be5a4b61d65d5470e0f38c1f47"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.agudo.rs.leg.br.prefixo.jsonl",
+      "sha256": "908d13d32c435715f57b69db3b886f87b399a77a2faec91f082020dd00c1d5f5",
+      "bytes": 398655
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.agudo.rs.leg.br.tipos.json",
+      "url": "https://sapl.agudo.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b057e0780b8e70fb396b5b733022f17c7a2a434f848534ea30a256ec8653882d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.agudo.rs.leg.br.anexos.json",
+      "sha256": "0bb5a98fd2ba2cec0c0675f55f0d9bc26f1fd2b89e7dc9bb616f83cb6004aa7d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.fortaleza.ce.leg.br.prefixo.jsonl",
+      "sha256": "e62f8e1bcd2d75bf226bc90b3bb248cc985840376132b033a58f1eb0ccba25fa",
+      "bytes": 657613
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.fortaleza.ce.leg.br.tipos.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "cc738081c5fd74d82ed6686ffa44e0e160436b11c6323dbcd36a28572346971b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.fortaleza.ce.leg.br.anexos.json",
+      "sha256": "a404a71cb9e4081b89f11098f51838393d94c7f4d858994fd33a58b33d60ef7f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "6013ca6f4881cadb4d66077c647e70a57b29a7157b702f70a8d2a5cd2ca1668f",
+      "bytes": 670794
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    }
+  ],
+  "script_sha256": "e9c10753f64bc1c1c7bab25dab0b1475848ac5a9b88d6b505a0c8bfaae9378e7",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

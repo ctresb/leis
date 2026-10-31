@@ -1,0 +1,42 @@
+{
+  "host": "sapl.castro.pr.leg.br",
+  "metadados_unicos_observados": 17,
+  "total_api_declarado": 17,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 3,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.castro.pr.leg.br/a705791e020c915727957c1c412a1fb4e18d114d40376a10dfab0215df0d5eb6.json",
+    "url": "https://sapl.castro.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.castro.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3ec5d2431d3b407654f2bfce546d6f0a70259116838fdf8203ce87c7f01e3d71",
+    "bytes": 954,
+    "capturado_em": "2026-10-27T22:39:13.384374-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.castro.pr.leg.br/687e6bfc937ee092ed8bbd0f233dab596703539e70ba161a6e4a8eab7897101a.json",
+    "url": "https://sapl.castro.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.castro.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ca42b4ce660c45ebebaad76c0d97c52f8dfdf7500e5251f3a66bb2966a7e6bf5",
+    "bytes": 733,
+    "capturado_em": "2026-10-27T22:39:12.564004-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.castro.pr.leg.br/e6d8eb5ca5391791071a12a8af7ad2ed2714dee4f0f3f93565bb23c6fe6f6014.json",
+      "url": "https://sapl.castro.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.castro.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b4162229e1646352790217aff47d6f050629640dbdf973492da1bdec4322ac66",
+      "bytes": 10210,
+      "capturado_em": "2026-10-27T22:39:15.466368-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

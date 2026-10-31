@@ -1,0 +1,194 @@
+**"Institui a Planta de ValoresGenéricos de Metro Quadrado deTerrenos e Edificações noMunicípio de Comendador LevyGasparian e dá outras V. providências."**
+
+
+**O PREFEITO DE COMENDADOR LEVY GASPARIAN FAZ SABER** que a Câmara Municipal aprova e ele sanciona e promulga a seguinte Lei Complementar:
+
+
+Art. 1º.
+
+Está aprovada a revisão da Planta de Valores Genéricos Imobiliários, constante dos Anexos I, II, Ill para fins de cálculo do Valor Venal Imobiliário.
+
+
+Parágrafo único
+
+As Faces de quadras que não constarem da Planta de Valores Genéricos — PVG, terão seus valores de metro quadrado de terreno determinados por setor responsável pelo cadastro imobiliário do município, utilizando o valor unitário do terreno dos imóveis mais próximos ou com fatores de  
+valorização e depreciação semelhantes.
+
+
+Art. 2º.
+
+A apuração do valor venal do imóvel, para efeitos de lançamento do Imposto Predial e Territorial Urbano (IPTU), serarealizada de acordo com as  
+normas e métodos fixados nesta Lei Complementar.
+
+
+Art. 3º.
+
+O valor venal territorial, seraobtido mediante multiplicação da area de terreno pelo valor unitário do metro quadrado de terreno por face de quadra e aplicados os fatores de correção, segundo as características do terreno, de acordo com as tabelas do anexo III, conforme a seguinte fórmula:
+
+VVT = 17711: T. At. f P. f . fS fideal
+
+Onde:
+
+vm2T = Valor do m2do terreno por código de face de quadra;  
+At = Areado terreno;  
+fP = Pedologia do terreno;  
+f'T = Topografia do terreno;  
+fS = Situação do terreno;  
+fideal = Fração ideal;
+
+
+§ 1º
+
+O valor unitário básico do metro quadrado do terreno (V mt), será obtido a partir da tabela do Anexo II desta Lei.
+
+
+§ 2º
+
+Os fatores de correção territorial serão, Pedologia (fp), Topografia (fT), Situação (is) e a fração Ideal (f:deat),conforme as tabelas do Anexo Ill desta Lei  
+Complementar.
+
+
+§ 3º
+
+Nos casos singulares de terrenos que, por suas peculiaridades, não se enquadrem nas normas e métodos de apuração do valor venal previstos nesta Lei Complementar, poderão ser adotados procedimentos de avaliação especial, estabelecidos em regulamento próprio.
+
+
+Art. 4º.
+
+O Valor Venal das Edificações (VVE) será obtido mediante a multiplicação da área construída (Ar) e o valor unitário do metro quadrado de área  
+construída de acordo com seu tipo e classe, através da seguinte formula:  
+VVE = A, .17m 2C  
+Onde:  
+Ac = Areaconstruída da unidade;  
+Vm2C = Valor do metro quadrado da construção por tipo e classe.
+
+
+§ 1º
+
+O valor do metro quadrado da construção (vm':c) será obtido a partir da Tabela do Anexo I, desta Lei Complementar, de acordo com seu tipo e classe.
+
+
+§ 2º
+
+A area construída de que trata o presente artigoseraobtida através dos contornos externos das paredes ou pilares, computando-se também a superfície:
+
+
+I –
+
+Das sacadas, varandas e terraços, cobertos ou descobertos, de cada pavimento;
+
+
+II –
+
+Dos jiraus, porões e sótãos;
+
+
+III –
+
+Das garagens ou vagas cobertas;
+
+
+IV –
+
+Das areas edificadas destinadas ao lazer, na proporção das respectivas frações ideais, quando se tratar de condomínios;
+
+
+V –
+
+Das demais partes comuns, na proporção das respectivas frações ideais.
+
+
+§ 3º
+
+No caso de piscinas, aareaconstruídaseraobtida através da medição dos contornos internos de suas paredes e nas quadras para a prática de esportes  
+serão consideradas suas medidas externas.
+
+
+Art. 5º.
+
+O Valor Venal do Imóvel seraobtido pela soma do Valor Venal do Terreno com o Valor Venal da Construção, se houver. Representado conforme a  
+seguinte expressão:
+
+VVI - VVT +VVE  
+Onde:  
+VVI = Valor venal do imóvel;  
+VVT = Valor venal territorial;  
+VVE = Valor venal da edificação.
+
+
+Art. 6º.
+
+As tabelas dos anexos I, II, Ill desta Lei, estabelecendo os custos do metro quadrado de construção e do metro quadrado de terreno, para cálculo do  
+valor venal do imóvel, assim como o desconto de Pedologia, Topografia, Situação e gleba, serão elaboradas e divulgadas pelo Poder Executivo.
+
+
+Art. 7º.
+
+Fica autorizada a inclusão de novos logradouros públicos e suas respectivas faces de quadra, oficiais ou não, na presente Planta Genérica de  
+Valores.
+
+
+Parágrafo único
+
+A inclusão dos logradouros não oficiais na Planta Genérica de valores não implica na sua oficialização por parte da Prefeitura.
+
+
+Art. 8º.
+
+O Executivo poderá atualizar, anualmente, os valores constantes desta Lei, expressos em Reais (R$), pela variação, nos 12 (doze) meses imediatamente anteriores, do IPCA (Índice Nacional de Pregos ao Consumidor ' Amplo) ou de índice que vier a substitui-lo.
+
+
+Art. 9º.
+
+A Planta de Valores Genéricos deve ser revista de forma geral e homogênea em relação a todos os imóveis do Município, a cada quatro anos.
+
+
+Parágrafo único
+
+O Chefe do Poder Executivo poderá constituir, uma Comissão de Avaliação, integrada por até 6 membros, servidores Municipais, com  
+a finalidade de elaborar e/ou revisar a Planta de Valores Genéricos.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, produzindo seus efeitos a partir de 01 de janeiro de 2026, revogadas as disposições em  
+contrário.
+
+
+**Cláudio Mannarino**
+
+**Prefeito**
+
+**Este conteúdo não substituí o publicado na versão certificada.**
+
+<table><tbody><tr><td><strong>Atenção</strong></td></tr></tbody></table>
+
+<table><tbody><tr><td>O SAPL tem cunho informativo e educativo, sendo a fonte de publicação eletrônica do Processo Legislativo da Câmara Municipal de Comendador Levy Gasparian, dada sua capacidade de abrangência, porém não dispensa a consulta aos textos oficiais para a prova da existência de direito, nos termos do art. 337 do Código de Processo Civil.</td></tr></tbody></table>
+
+<table><tbody><tr><td>Alerta quanto as compilações: O Dicionário Jurídico Brasileiro Acquaviva define compilação de leis como a “reunião e seleção de textos legais, com o fito de ordenar tal material, escoimando-o das leis revogadas ou caducas. A compilação tem por finalidade abreviar e facilitar a consulta às fontes de informação legislativa. Na compilação, ao contrário do que ocorre na consolidação, as normas nem mesmo são reescritas”. A compilação de Leis do Município de Comendador Levy Gasparian é uma iniciativa mantida pela Secretaria Geral da Câmara, em respeito a sociedade e ao seu direito de acesso à informação, com o fim de facilitar a pesquisa de leis e suas relações. Assim, dado às limitações existentes, a compilação ofertada é um norte relevante para constituição de tese jurídica, mas não resume todo o processo e, não deve, no estágio atual, ser a única referência.</td></tr></tbody></table>
+
+
+## Anexo I — VALOR UNITÁRIO DO METRO QUADRADO DEAREACONSTRUÍDA POR
+PADRÃO CONSTRUTIVO
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><strong>Tipo de Construção </strong></td><td><strong>Classe</strong></td><td><strong>Valor Unitário de Area</strong><br><strong>(m2) </strong></td></tr><tr><td rowspan="3"><strong>Construção Precária </strong></td><td>Popular </td><td>R$ 13,09 </td></tr><tr><td>Comum</td><td>R$ 20,95 </td></tr><tr><td>Bom </td><td>R$28,80</td></tr><tr><td rowspan="4"><strong>Construção Precária </strong></td><td>Popular</td><td>R$ 136,16 </td></tr><tr><td>Comum</td><td>R$ 272,97 </td></tr><tr><td>Bom</td><td>R$514,07</td></tr><tr><td>Luxo</td><td>R$ 726,82</td></tr><tr><td rowspan="4"><strong>Apartamento </strong></td><td>Popular</td><td>R$ 130,92 </td></tr><tr><td>Comum</td><td>R$329,92 </td></tr><tr><td>Bom</td><td>R$ 434,65 </td></tr><tr><td>Luxo</td><td>R$ 578,66</td></tr><tr><td rowspan="4"><strong>Loja/Sala Comercial</strong></td><td>Popular</td><td>R$ 130,92</td></tr><tr><td>Comum</td><td>R$ 316,82</td></tr><tr><td>Bom</td><td>R$408,47 </td></tr><tr><td>Luxo</td><td>R$ 550,51 </td></tr><tr><td rowspan="4"><strong>Galpão/Industria</strong></td><td>Popular </td><td>R$113,03 </td></tr><tr><td>Comum </td><td>R$ 214,27 </td></tr><tr><td>Bom </td><td>R$ 298,49 </td></tr><tr><td>Luxo</td><td>R$408,47 </td></tr><tr><td rowspan="3"><strong>Telheiro</strong> </td><td>Popular </td><td>R$ 15,49 </td></tr><tr><td>Comum </td><td>R$ 49,97 </td></tr><tr><td>Bom </td><td>R$ 72,66 </td></tr><tr><td rowspan="4"><strong>Tipo Especial</strong></td><td>Popular</td><td>R$ 136,16 </td></tr><tr><td>Comum </td><td>R$ 306,57</td></tr><tr><td>Bom </td><td>R$ 452,40</td></tr><tr><td>Luxo</td><td>R$618,66 </td></tr></tbody></table>
+
+
+## Anexo II — VALOR DO METRO QUADRADO POR FACE DE QUADRA
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td>CÓDIGO DA FACE<br>DE QUADRA</td><td>DENOMINAÇÃO</td><td>VALOR UNITÁRIO DO<br>METRO QUADRADO</td></tr><tr><td>0107000- P0123 </td><td>ALAMEDA DALILA </td><td>R$ 350,00 </td></tr><tr><td> </td><td>AVENIDA AMARAL PEIXOTO </td><td>R$ 275,00</td></tr><tr><td> </td><td>AVENIDA COMENDADOR LEVY<br>GASPARIAN</td><td>R$321,00 </td></tr><tr><td>0105000 - P0323 </td><td>AVENIDA FONSECA ALMEIDA </td><td>R$ 337,00 </td></tr><tr><td>0105005 - P0323</td><td>AVENIDA FONSECA ALMEIDA </td><td>R$ 337,00 </td></tr><tr><td>0105025 - P0323 </td><td>AVENIDA FONSECA ALMEIDA </td><td>R$ 337,00</td></tr><tr><td>0105563 - P0323</td><td>AVENIDA FONSECA ALMEIDA </td><td>R$ 337,00 </td></tr><tr><td>0105999 - P0323</td><td>AVENIDA FONSECA ALMEIDA </td><td>R$ 575,00 </td></tr><tr><td>0201000- P0288 </td><td>AVENIDA JOAO CABRAL </td><td>R$ 155,50 </td></tr><tr><td>0201002 - P0288 </td><td>AVENIDA JOAO CABRAL</td><td>R$ 155,50 </td></tr><tr><td>0201003- P0288</td><td>AVENIDA JOAO CABRAL </td><td>R$ 155,50 </td></tr><tr><td>0103000- P0332 </td><td>AVENIDA JOSINO PERES </td><td>R$ 362,00 </td></tr><tr><td>0103059- P0332</td><td>AVENIDA JOSINO PERES </td><td>R$ 362,00</td></tr><tr><td>0103526 - P0332</td><td>AVENIDA JOSINO PERES </td><td>R$ 362,00 </td></tr><tr><td>0103999 - P0332</td><td>AVENIDA JOSINO PERES</td><td>R$ 328,00 </td></tr><tr><td> </td><td>AVENIDA OCTAVIO FERREIRA MEYER </td><td>R$ 275,00 </td></tr><tr><td>0103000 - P0299</td><td>AVENIDA TRES RIOS </td><td>R$ 323,00</td></tr><tr><td>0108000 - P0286</td><td>AVENIDA UNIAO INDUSTRIA KM </td><td>R$ 363,00</td></tr><tr><td>0108016- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM.</td><td>R$ 335,00</td></tr><tr><td>0108548 P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM.</td><td>R$ 363,00 </td></tr><tr><td>0108999- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM.</td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 128 </td><td>R$ 363,00 </td></tr><tr><td>0108099- P0286</td><td>AVENIDA UNA() INDUSTRIA KM. 128 </td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 129</td><td>R$ 363,00 </td></tr><tr><td>0108099- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 129 </td><td>R$ 363,00</td></tr><tr><td>0108129- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 129 </td><td>R$ 363,00</td></tr><tr><td>0108000- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 130 </td><td>R$ 363,00</td></tr><tr><td>0108001 - P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 130</td><td>R$ 363,00</td></tr><tr><td>0108002- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 130 </td><td>R$ 363,00 </td></tr><tr><td>0108005- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 130 </td><td>R$ 363,00 </td></tr><tr><td>0108006- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 130</td><td>R$ 363,00 </td></tr><tr><td>0108099- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 130 </td><td>R$ 363,00 </td></tr><tr><td>0108130- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 130 </td><td>R$ 363,00</td></tr><tr><td>0108428- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 130</td><td>R$ 363,00 </td></tr><tr><td>0108999- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 130</td><td>R$ 363,00</td></tr><tr><td>0108000- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00</td></tr><tr><td>0108001 - P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108002- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 131</td><td>R$ 363,00 </td></tr><tr><td>0108003- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108004- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108005- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108006- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108007- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00</td></tr><tr><td>0108099- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108131 - P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108132- P0286</td><td>AVENIDA UNA() INDUSTRIA KM. 131</td><td>R$ 363,00 </td></tr><tr><td>0108567- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 131 </td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 132 </td><td>R$ 363,00 </td></tr><tr><td>0108010 - P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 132</td><td>R$ 363,00 </td></tr><tr><td>0108099- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 132 </td><td>R$ 363,00</td></tr><tr><td>0108132- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 132 </td><td>R$ 363,00</td></tr><tr><td>0108134- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 132 </td><td>R$ 363,00</td></tr><tr><td>0108999- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 132 </td><td>R$ 363,00 </td></tr><tr><td>0102000- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00</td></tr><tr><td>0102012- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00</td></tr><tr><td>0108000- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00</td></tr><tr><td>0108012- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00</td></tr><tr><td>0108015- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00</td></tr><tr><td>0108015- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00</td></tr><tr><td>0108016- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 335,00</td></tr><tr><td>0108099- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00</td></tr><tr><td>0108428- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 133 </td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 134 </td><td>R$ 363,00 </td></tr><tr><td>0108015- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 134 </td><td>R$ 363,00 </td></tr><tr><td>0108099- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 134</td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 135 </td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 142 </td><td>R$ 363,00</td></tr><tr><td>0108548- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 142 </td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 143 </td><td>R$ 363,00 </td></tr><tr><td>0108019- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 143</td><td>R$ 363,00 </td></tr><tr><td>0108099- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 143</td><td>R$ 363,00 </td></tr><tr><td>0108548- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 143 </td><td>R$ 363,00 </td></tr><tr><td>0108999- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 143 </td><td>R$ 363,00 </td></tr><tr><td>0108000- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 145 </td><td>R$ 363,00 </td></tr><tr><td>0108999 - P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 145 </td><td>R$ 363,00</td></tr><tr><td>0201000- P0286 </td><td> AVENIDA UNA() INDUSTRIA KM. 147 </td><td>R$ 363,00 </td></tr><tr><td>0108004- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 148</td><td>R$ 363,00 </td></tr><tr><td>0108005- P0286</td><td>AVENIDA UNIAO INDUSTRIA KM. 148</td><td>R$ 363,00 </td></tr><tr><td>0108019- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 148 </td><td>R$ 363,00 </td></tr><tr><td>0208004- P0286 </td><td>AVENIDA UNIAO INDUSTRIA KM. 148 </td><td>R$ 363,00 </td></tr><tr><td>0102006- P0305</td><td>AVENIDA ZACARON </td><td>R$ 328,00 </td></tr><tr><td>0102007- P0305</td><td>AVENIDA ZACARON</td><td>R$ 357,00</td></tr><tr><td>0102008 - P0305 </td><td>AVENIDA ZACARON</td><td>R$ 308,00 </td></tr><tr><td>0102010- P0305</td><td>AVENIDA ZACARON</td><td>R$ 320,00 </td></tr><tr><td>0102011 - P0305</td><td>AVENIDA ZACARON</td><td>R$ 355,00 </td></tr><tr><td>0102088 - P0305</td><td>AVENIDA ZACARON</td><td>R$ 328,00 </td></tr><tr><td>0201000 - P0304 </td><td>ESTRADA SERRA DAS ABOBORAS</td><td>R$ 275,00 </td></tr><tr><td>0201024 - P0304</td><td>ESTRADA SERRA DAS ABOBORAS</td><td>R$ 220,00 </td></tr><tr><td>0201257 - P0304</td><td>ESTRADA SERRA DAS ABOBORAS</td><td>R$ 220,00 </td></tr><tr><td> </td><td>ESTRADA SITIO SAO VICENTE </td><td>R$ 379,00 </td></tr><tr><td> </td><td>PRACA ANTONIO PORTO</td><td>R$ 348,00 </td></tr><tr><td>0102010- P0246</td><td>PRACA JOAQUIM JOSE FERREIRA </td><td>R$ 337,00</td></tr><tr><td>0102012- P0246</td><td>PRACA JOAQUIM JOSE FERREIRA </td><td>R$ 337,00</td></tr><tr><td>0102013- P0246</td><td>PRACA JOAQUIM JOSE FERREIRA </td><td>R$ 337,00</td></tr><tr><td>0102038- P0246</td><td>PRACA JOAQUIM JOSE FERREIRA </td><td>R$ 337,00</td></tr><tr><td> </td><td>PRACA MANOEL DOS SANTOS</td><td>R$ 379,00</td></tr><tr><td>0108000- P0313 </td><td>RODOVIA BR-040 </td><td>R$ 424,00</td></tr><tr><td>0108001 - P0313</td><td>RODOVIA BR-040 </td><td>R$ 424,00</td></tr><tr><td>0108099- P0313</td><td>RODOVIA BR-040 </td><td>R$ 424,00</td></tr><tr><td>0108999- P0313 </td><td>RODOVIA BR-040 </td><td>R$ 424,00</td></tr><tr><td> </td><td>RODOVIA RJ 151 </td><td>R$ 275,00</td></tr><tr><td> </td><td>RUA A - PROJETADA </td><td>R$ 65,00</td></tr><tr><td>0109000 - P0291 </td><td>RUA ABÍLIO MARTINS SEIXAS </td><td>R$ 289,00 </td></tr><tr><td>0107000 - P0303 </td><td>RUA ADEMAR SANTANA DE LIMA </td><td>R$ 424,00 </td></tr><tr><td>0107001 - P0303</td><td>RUA ADEMAR SANTANA DE LIMA </td><td>R$ 424,00 </td></tr><tr><td>0107693- P0303</td><td>RUA ADEMAR SANTANA DE LIMA </td><td>R$ 424,00 </td></tr><tr><td>0102001 - P0233</td><td>RUA ALBERTINA SANTOS </td><td>R$ 329,00</td></tr><tr><td>0102010- P0233 </td><td>RUA ALBERTINA SANTOS </td><td>R$ 329,00</td></tr><tr><td>0102011 -P0233</td><td>RUA ALBERTINA SANTOS </td><td>R$352,00 </td></tr><tr><td> </td><td>RUA ALENCAR GONCALVES JORGE</td><td>R$ 427,00</td></tr><tr><td> </td><td>RUA ALMIRANTE LYSANDRO DE ANDRADE</td><td>R$ 264,00</td></tr><tr><td>0105004- P0298</td><td>RUA AMYR TEIXEIRA SANTOS</td><td>R$ 349,00 </td></tr><tr><td>0105006- P0298 </td><td>RUA AMYR TEIXEIRA SANTOS</td><td>R$ 349,00 </td></tr><tr><td>0105007 - P0298</td><td>RUA AMYR TEIXEIRA SANTOS</td><td>R$ 349,00 </td></tr><tr><td> </td><td>RUA ANA BERTOLDO DE LIMA </td><td>R$ 424,00 </td></tr><tr><td>0102003 - P0301 </td><td>RUA ANA SANTOS </td><td>R$ 456,00 </td></tr><tr><td>0102005- P0301 </td><td>RUA ANA SANTOS </td><td>R$ 456,00 </td></tr><tr><td>0102010- P0301 </td><td>RUA ANA SANTOS </td><td>R$ 308,00</td></tr><tr><td>0102011- P0301 </td><td>RUA ANA SANTOS </td><td>R$ 368,00</td></tr><tr><td>0102013- P0301 </td><td>RUA ANA SANTOS </td><td>R$ 323,00 </td></tr><tr><td>0102014- P0301 </td><td>RUA ANA SANTOS </td><td>R$ 323,00 </td></tr><tr><td>0102015- P0301 </td><td>RUA ANA SANTOS </td><td>R$ 356,00</td></tr><tr><td> </td><td>RUA ANGELINA BONFANTE DIAS </td><td>R$ 379,00 </td></tr><tr><td>0107000- P0294</td><td>RUA ANGELO MELLO </td><td>R$ 219,00</td></tr><tr><td>0107019- P0294</td><td>RUA ANGELO MELLO </td><td>R$ 336,00 </td></tr><tr><td>0108000- P0294 </td><td>RUA ANGELO MELLO </td><td>R$ 219,00</td></tr><tr><td>0107008- P0079</td><td>RUA ANISIO TORRES </td><td>R$ 236,00</td></tr><tr><td>0107999- P0079</td><td>RUA ANISIO TORRES </td><td>R$ 236,00</td></tr><tr><td> </td><td>RUA ANTONIO AFONSO </td><td>R$ 432,00 </td></tr><tr><td>0107074- P0098 </td><td>RUA ANTONIO CEZARIO </td><td>R$ 427,00</td></tr><tr><td> </td><td>RUA ANTONIO CORREA DA SILVA</td><td>R$ 427,00 </td></tr><tr><td>0102015 - P0216</td><td>RUA ANTONIO DE MATTOS SOUZA</td><td>R$ 348,00</td></tr><tr><td>0102048- P0216</td><td>RUA ANTONIO DE MATTOS SOUZA</td><td>R$ 348,00</td></tr><tr><td>0102567- P0216</td><td>RUA ANTONIO DE MATTOS SOUZA</td><td>R$ 348,00</td></tr><tr><td>0101000 - P0324</td><td>RUA ANTONIO FELIX DE SOUZA</td><td>R$ 66,00 </td></tr><tr><td>0107001 - P0092</td><td>RUA ANTONIO PANOEIRO</td><td>R$ 407,00 </td></tr><tr><td> </td><td>RUA ANTONIO RAMALHO</td><td>R$ 275,00</td></tr><tr><td>0201000- P0038</td><td>RUA ARGEMIRO FEDOCIO</td><td>R$ 288,00 </td></tr><tr><td>0103000 - P0268</td><td>RUA AUGUSTA</td><td>R$ 323,00</td></tr><tr><td>0101000- P0309 </td><td>RUA B - PROJETADA</td><td>R$ 66,00</td></tr><tr><td>0201000- P0322</td><td>RUA BERNARDINO FRANCO </td><td>R$ 379,00 </td></tr><tr><td>0201001 - P0322 </td><td>RUA BERNARDINO FRANCO</td><td>R$ 379,00 </td></tr><tr><td>0201002- P0322</td><td>RUA BERNARDINO FRANCO</td><td>R$ 379,00 </td></tr><tr><td>0201005- P0322</td><td>RUA BERNARDINO FRANCO</td><td>R$ 379,00 </td></tr><tr><td>0201006- P0322</td><td>RUA BERNARDINO FRANCO</td><td>R$ 379,00 </td></tr><tr><td>0201007- P0322</td><td>RUA BERNARDINO FRANCO</td><td>R$ 379,00 </td></tr><tr><td>0201017- P0322</td><td>RUA BERNARDINO FRANCO</td><td>R$ 379,00 </td></tr><tr><td>0103000- P0267</td><td>RUA BOA VISTA </td><td>R$ 323,00</td></tr><tr><td>0103015- P0267</td><td>RUA BOA VISTA</td><td>R$ 323,00</td></tr><tr><td>0107072 - P0329 </td><td>RUA C</td><td>R$346,00</td></tr><tr><td>0101000- P0319</td><td>RUA C - PROJETADA </td><td>R$ 65,00</td></tr><tr><td> </td><td>RUA CAMPINHO</td><td>R$ 275,00</td></tr><tr><td>0201 000 - P0289 </td><td>RUA CANDIDO SERAFIM</td><td>R$ 309,00</td></tr><tr><td>0201003 - P0289 </td><td>RUA CANDIDO SERAFIM</td><td>R$ 116,00</td></tr><tr><td>0201006 - P0289 </td><td>RUA CANDIDO SERAFIM</td><td>R$ 116,00</td></tr><tr><td>0201008 - P0289 </td><td>RUA CANDIDO SERAFIM</td><td>R$ 116,00</td></tr><tr><td>0201009 - P0289 </td><td>RUA CANDIDO SERAFIM</td><td>R$ 116,00</td></tr><tr><td>0208008 - P0289</td><td>RUA CANDIDO SERAFIM</td><td>R$ 116,00</td></tr><tr><td>0102008- P0274</td><td>RUA CASSIANO NASCIMENTO</td><td>R$ 305,00 </td></tr><tr><td>0102009 - P0274 </td><td>RUA CASSIANO NASCIMENTO</td><td>R$ 311,00</td></tr><tr><td>0102017 - P0274 </td><td>RUA CASSIANO NASCIMENTO</td><td>R$ 305,00 </td></tr><tr><td>0102018 - P0274 </td><td>RUA CASSIANO NASCIMENTO</td><td>R$ 305,00 </td></tr><tr><td>0109000 - P0285 </td><td>RUA CUSTODIA CUNHA DE A. LOURO </td><td>R$ 306,00 </td></tr><tr><td>0108099 - P0307</td><td>RUA D </td><td>R$403,00 </td></tr><tr><td> </td><td>RUA DA ADMINISTRACAO </td><td>R$ 323,00 </td></tr><tr><td>0107000- P0292 </td><td>RUA DEODATO PRAXEDES DIAS</td><td>R$ 224,00 </td></tr><tr><td>0107002- P0292</td><td>RUA DEODATO PRAXEDES DIAS</td><td>R$ 363,00 </td></tr><tr><td>0107021 - P0292</td><td>RUA DEODATO PRAXEDES DIAS</td><td>R$ 363,00 </td></tr><tr><td>0107999- P0292 </td><td>RUA DEODATO PRAXEDES DIAS</td><td>R$ 256,00 </td></tr><tr><td>0106000- P0203</td><td>RUA DEOMAR GONCALVES DIAS</td><td>R$ 323,00</td></tr><tr><td>0106020 - P0203</td><td>RUA DEOMAR GONCALVES DIAS</td><td>R$ 323,00</td></tr><tr><td>0106528- P0203</td><td>RUA DEOMAR GONCALVES DIAS</td><td>R$ 323,00</td></tr><tr><td>0107021 - P0316</td><td>RUA DONATO JUNQUEIRA MEIRELLES</td><td>R$ 266,00 </td></tr><tr><td> </td><td>RUA DR. ALTINO ALVES MOREIRA</td><td>R$ 427,00 </td></tr><tr><td>0105000- P0276</td><td>RUA DR. ROMEU MESQUITA FURTADO </td><td>R$ 482,00</td></tr><tr><td>0105566- P0276 </td><td>RUA DR. ROMEU MESQUITA FURTADO </td><td>R$ 482,00</td></tr><tr><td>0105999- P0276</td><td>RUA DR. ROMEU MESQUITA FURTADO </td><td>R$ 482,00</td></tr><tr><td>0107007- P0315</td><td>RUA EDISON BRUNO</td><td>R$ 432,00 </td></tr><tr><td>0107070- P0315 </td><td>RUA EDISON BRUNO </td><td>R$ 432,00 </td></tr><tr><td> </td><td>RUA EDITH MATHOZINHOS PIERRE </td><td>R$ 427,00 </td></tr><tr><td>0102000- P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 363,00 </td></tr><tr><td>0102001 - P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 395,00 </td></tr><tr><td>0102002 - P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 390,00 </td></tr><tr><td>0102004 - P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 395,00</td></tr><tr><td>0102006 - P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 351,00 </td></tr><tr><td>0102008 - P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 326,00 </td></tr><tr><td>0102009 - P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 332,00 </td></tr><tr><td>0102023 - P0275</td><td>RUA ELISA DE SOUZA</td><td>R$ 395,00 </td></tr><tr><td>0106004- P0250 </td><td>RUA ENEAS BORGES ESTRELA </td><td>R$ 363,00 </td></tr><tr><td>0106006- P0250</td><td>RUA ENEAS BORGES ESTRELA </td><td>R$ 363,00 </td></tr><tr><td>0108005- P0250 </td><td>RUA ENEAS BORGES ESTRELA </td><td>R$ 363,00 </td></tr><tr><td>0108006- P0250 </td><td>RUA ENEAS BORGES ESTRELA </td><td>R$ 363,00 </td></tr><tr><td>0107000- P0126</td><td>RUA ENGENHEIRO LUIZ MULLER</td><td>R$ 360,00 </td></tr><tr><td>0107045- P0126</td><td>RUA ENGENHEIRO LUIZ MULLER</td><td>R$ 360,00 </td></tr><tr><td>0107099- P0126 </td><td>RUA ENGENHEIRO LUIZ MULLER</td><td>R$ 360,00 </td></tr><tr><td>0107605- P0126</td><td>RUA ENGENHEIRO LUIZ MULLER</td><td>R$ 360,00 </td></tr><tr><td>0107999- P0126</td><td>RUA ENGENHEIRO LUIZ MULLER</td><td>R$ 360,00 </td></tr><tr><td>0108099- P0126</td><td>RUA ENGENHEIRO LUIZ MULLER</td><td>R$ 360,00 </td></tr><tr><td> </td><td>RUA EUCLIDES DANTAS WERNECK</td><td>R$ 348,00</td></tr><tr><td>0102015- P0234</td><td>RUA FRANCISCO ANTONIO CORSINO</td><td>R$ 348,00 </td></tr><tr><td>0102026- P0234</td><td>RUA FRANCISCO ANTONIO CORSINO</td><td>R$ 138,00 </td></tr><tr><td>0102012 - P0311 </td><td>RUA FRANCISCO MACHADO COELHO </td><td>R$ 355,00 </td></tr><tr><td>0102027 - P0311</td><td>RUA FRANCISCO MACHADO COELHO </td><td>R$ 355,00 </td></tr><tr><td>0201002 - P0278 </td><td>RUA GARCIA DE MATTOS </td><td>R$ 372,00</td></tr><tr><td>0201018- P0278</td><td>RUA GARCIA DE MATTOS </td><td>R$ 372,00</td></tr><tr><td>0106000- P0317 </td><td>RUA GERALDO DUARTE</td><td>R$ 245,00 </td></tr><tr><td>0106028- P0317</td><td>RUA GERALDO DUARTE</td><td>R$ 245,00 </td></tr><tr><td>0106530- P0317</td><td>RUA GERALDO DUARTE</td><td>R$ 245,00 </td></tr><tr><td>0106999 - P0317 </td><td>RUA GERALDO DUARTE</td><td>R$ 241,00 </td></tr><tr><td> </td><td>RUA GERALDO THULER GARCIA </td><td>R$ 363,00</td></tr><tr><td> </td><td>RUA GERSON RENATO CARVALHO</td><td>R$ 275,00 </td></tr><tr><td>0102001 - P0306</td><td>RUA GETULIO DE SOUZA</td><td>R$ 417,50</td></tr><tr><td>0102002- P0306 </td><td>RUA GETULIO DE SOUZA</td><td>R$ 404,00 </td></tr><tr><td>0102003 - P0306</td><td>RUA GETULIO DE SOUZA</td><td>R$ 404,00 </td></tr><tr><td>0102009- P0328</td><td>RUA HELEN PIFANO </td><td>R$ 404,00 </td></tr><tr><td>0102010- P0328</td><td>RUA HELEN PIFANO </td><td>R$ 350,00 </td></tr><tr><td>0102011- P0328</td><td>RUA HELEN PIFANO </td><td>R$ 350,00 </td></tr><tr><td>0102012- P0328</td><td>RUA HELEN PIFANO </td><td>R$ 350,00 </td></tr><tr><td>0102030- P0328</td><td>RUA HELEN PIFANO </td><td>R$ 332,00 </td></tr><tr><td>0106000- P0331</td><td>RUA ILKA VIEIRA DE MATTOS </td><td>R$ 240,00 </td></tr><tr><td>0106031 - P0331 </td><td>RUA ILKA VIEIRA DE MATTOS </td><td>R$ 250,00</td></tr><tr><td>0106032 - P0331</td><td>RUA ILKA VIEIRA DE MATTOS </td><td>R$ 250,00</td></tr><tr><td>0106441 - P0331 </td><td>RUA ILKA VIEIRA DE MATTOS </td><td>R$ 250,00</td></tr><tr><td>0106999- P0331 </td><td>RUA ILKA VIEIRA DE MATTOS </td><td>R$ 252,00 </td></tr><tr><td>0102000- P0300 </td><td>RUA IRIS DE MATTOS SOUZA </td><td>R$ 119,00</td></tr><tr><td>0102007- P0300</td><td>RUA IRIS DE MATTOS SOUZA </td><td>R$ 119,00</td></tr><tr><td>0102014- P0300</td><td>RUA IRIS DE MATTOS SOUZA </td><td>R$ 119,00</td></tr><tr><td>0102015 - P0300 </td><td>RUA IRIS DE MATTOS SOUZA </td><td>R$ 119,00</td></tr><tr><td>0102032 - P0300 </td><td>RUA IRIS DE MATTOS SOUZA </td><td>R$ 119,00</td></tr><tr><td>0102050- P0300</td><td>RUA IRIS DE MATTOS SOUZA </td><td>R$ 119,00</td></tr><tr><td> </td><td>RUA IZABEL SALLES SERZEDELLO </td><td>R$ 275,00 </td></tr><tr><td>0201 000 - P0321 </td><td>RUA JAIME DE MATTOS </td><td>R$ 450,00</td></tr><tr><td>0201 004 - P0321 </td><td>RUA JAIME DE MATTOS </td><td>R$ 441,00 </td></tr><tr><td>0201007- P0321</td><td>RUA JAIME DE MATTOS </td><td>R$ 450,00</td></tr><tr><td>0105000 - P0287</td><td>RUA JANIRA BORGES DE LIMA </td><td>R$ 427,00 </td></tr><tr><td>0105025- P0287</td><td>RUA JANIRA BORGES DE LIMA </td><td>R$ 427,00 </td></tr><tr><td>0105999 - P0287 </td><td>RUA JANIRA BORGES DE LIMA </td><td>R$ 427,00 </td></tr><tr><td> </td><td>RUA JEFERSON SILVEIRA DA SILVA </td><td>R$ 424,00 </td></tr><tr><td>0101002 - P0284 </td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0101003- P0284</td><td>RUA JOAO DIAS</td><td>R$ 406,00 </td></tr><tr><td>0101004- P0284</td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0101005- P0284</td><td>RUA JOAO DIAS</td><td>R$ 401,00 </td></tr><tr><td>0101006- P0284</td><td>RUA JOAO DIAS</td><td>R$ 335,00</td></tr><tr><td>0101007- P0284</td><td>RUA JOAO DIAS</td><td>R$ 350,00 </td></tr><tr><td>0101008- P0284</td><td>RUA JOAO DIAS</td><td>R$ 306,00 </td></tr><tr><td>0101009- P0284</td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0101010- P0284</td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0101015- P0284</td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0101043- P0284</td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0101088- P0284</td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0102010- P0284</td><td>RUA JOAO DIAS</td><td>R$ 319,00 </td></tr><tr><td>0102002 - P0333</td><td>RUA JOAO MEDEIROS DA SILVA </td><td>R$ 378,00</td></tr><tr><td>0102003 - P0333</td><td>RUA JOAO MEDEIROS DA SILVA </td><td>R$ 403,00 </td></tr><tr><td>0102004 - P0333</td><td>RUA JOAO MEDEIROS DA SILVA </td><td>R$ 421,00 </td></tr><tr><td>0102005 - P0333</td><td>RUA JOAO MEDEIROS DA SILVA </td><td>R$ 447,00</td></tr><tr><td>0201001 - P0281</td><td>RUA JOAO PAIVA </td><td>R$ 429,00 </td></tr><tr><td>0201002 - P0281</td><td>RUA JOAO PAIVA </td><td>R$ 429,00 </td></tr><tr><td>0201003 - P0281</td><td>RUA JOAO PAIVA </td><td>R$ 429,00 </td></tr><tr><td>0201004 - P0281</td><td>RUA JOAO PAIVA </td><td>R$ 429,00 </td></tr><tr><td>0201005 - P0281</td><td>RUA JOAO PAIVA </td><td>R$ 429,00 </td></tr><tr><td>0201006 - P0281</td><td>RUA JOAO PAIVA </td><td>R$ 429,00 </td></tr><tr><td>0107036 - P0074 </td><td>RUA JOAO PEDRO DA SILVEIRA </td><td>R$ 321,00 </td></tr><tr><td>0107038 - P0074 </td><td>RUA JOAO PEDRO DA SILVEIRA </td><td>R$ 321,00 </td></tr><tr><td>0107999 - P0074</td><td>RUA JOAO PEDRO DA SILVEIRA </td><td>R$ 321,00 </td></tr><tr><td>0104037 - P0283</td><td>RUA JOAO XAVIER</td><td>R$ 154,00 </td></tr><tr><td>0105000 - P0222</td><td>RUA JOSE CAMARA SILVEIRA </td><td>R$ 500,00 </td></tr><tr><td>0105004 - P0222</td><td>RUA JOSE CAMARA SILVEIRA </td><td>R$ 500,00 </td></tr><tr><td>0201000- P0312</td><td>RUA JOSE CLAUDIO </td><td>R$ 379,00 </td></tr><tr><td>0201002- P0312</td><td>RUA JOSE CLAUDIO </td><td>R$ 379,00 </td></tr><tr><td>0201005- P0312 </td><td>RUA JOSE CLAUDIO </td><td>R$ 379,00 </td></tr><tr><td>0201021 - P0312 </td><td>RUA JOSE CLAUDIO </td><td>R$ 379,00 </td></tr><tr><td>0102009 - P0260</td><td>RUA JOSE DE ANDRADE </td><td>R$ 325,00</td></tr><tr><td>0102012 - P0260 </td><td>RUA JOSE DE ANDRADE </td><td>R$ 348,00 </td></tr><tr><td>0101012- P0259</td><td>RUA JOSEFINA GASPARIAN </td><td>R$ 387,00</td></tr><tr><td>0101042 - P0259</td><td>RUA JOSEFINA GASPARIAN </td><td>R$ 387,00</td></tr><tr><td>0102012- P0259</td><td>RUA JOSEFINA GASPARIAN </td><td>R$ 387,00</td></tr><tr><td>0107000- P0320 </td><td>RUA LEOPOLDO FERNANDES </td><td>R$ 424,00 </td></tr><tr><td>0107043 - P0320 </td><td>RUA LEOPOLDO FERNANDES </td><td>R$ 424,00 </td></tr><tr><td>0107046 - P0320</td><td>RUA LEOPOLDO FERNANDES </td><td>R$ 424,00 </td></tr><tr><td>0107047 - P0320 </td><td>RUA LEOPOLDO FERNANDES </td><td>R$ 424,00 </td></tr><tr><td>0107536- P0320 </td><td>RUA LEOPOLDO FERNANDES </td><td>R$ 424,00 </td></tr><tr><td>0201001 - P0290</td><td>RUA LINDAURA PEREIRA MARQUES </td><td>R$ 319,00 </td></tr><tr><td>0209003 - P0290 </td><td>RUA LINDAURA PEREIRA MARQUES</td><td>R$ 311,00 </td></tr><tr><td> </td><td>RUA LINHA FERREA - KM. 205 </td><td>R$ 65,00</td></tr><tr><td> </td><td>RUA LOT. SAODOMINGOS DA BASTILHA</td><td>R$ 424,00</td></tr><tr><td>0109000- P0280 </td><td>RUA LUCIO CORREIA E CASTRO </td><td>R$ 252,00</td></tr><tr><td>0109130 - P0280</td><td>RUA LUCIO CORREIA E CASTRO </td><td>R$ 245,00</td></tr><tr><td>0109000 - P0296 </td><td>RUA MARCELINO FERREIRA MARINHO</td><td>R$ 238,00</td></tr><tr><td> </td><td>RUA MARGEM DA E. F. C. B. </td><td>R$ 379,00 </td></tr><tr><td>0106000- P0279</td><td>RUA MARIA FLORISBELA</td><td>R$ 240,00 </td></tr><tr><td>0106047 - P0279 </td><td>RUA MARIA FLORISBELA</td><td>R$ 260,00</td></tr><tr><td>0106258- P0279</td><td>RUA MARIA FLORISBELA</td><td>R$ 240,00 </td></tr><tr><td>0106528- P0279</td><td>RUA MARIA FLORISBELA</td><td>R$ 234,00 </td></tr><tr><td>0106999- P0279</td><td>RUA MARIA FLORISBELA</td><td>R$ 240,00 </td></tr><tr><td>0102015- P0273</td><td>RUA MARIA MELLO DE MATTOS </td><td>R$ 115,50 </td></tr><tr><td>0102048- P0273</td><td>RUA MARIA MELLO DE MATTOS </td><td>R$ 115,50 </td></tr><tr><td> </td><td>RUA MARICA NUNES FERREIRA </td><td>R$ 379,00 </td></tr><tr><td>0109000- P0310 </td><td>RUA MARIO REIS</td><td>R$ 264,00 </td></tr><tr><td>0107071- P0318 </td><td>RUA MAURO DA SILVA</td><td>R$ 431,00 </td></tr><tr><td>0105000- P0282</td><td>RUA NEWTON GUILHERME DA SILVA </td><td>R$ 459,00</td></tr><tr><td>0105565 - P0282 </td><td>RUA NEWTON GUILHERME DA SILVA </td><td>R$ 459,00</td></tr><tr><td>0105566- P0282</td><td>RUA NEWTON GUILHERME DA SILVA </td><td>R$ 459,00</td></tr><tr><td>0201000- P0031 </td><td>RUA OCTACILIO LEAL BARBOSA </td><td>R$ 315,00 </td></tr><tr><td>0106002- P0263 </td><td>RUA ORLANDO MARIOSA</td><td>R$ 276,00 </td></tr><tr><td>0106003 - P0263 </td><td>RUA ORLANDO MARIOSA</td><td>R$ 276,00 </td></tr><tr><td>0106063- P0263 </td><td>RUA ORLANDO MARIOSA</td><td>R$ 276,00 </td></tr><tr><td>0108004- P0263 </td><td>RUA ORLANDO MARIOSA</td><td>R$ 276,00 </td></tr><tr><td>0105000 - P0302</td><td>RUA OSWALDO TEIXEIRA SANTOS </td><td>R$ 276,00</td></tr><tr><td>0105007- P0302</td><td>RUA OSWALDO TEIXEIRA SANTOS </td><td>R$ 337,00 </td></tr><tr><td>0201009- P0026 </td><td>RUA PEDRO GONCALVES </td><td>R$ 275,00 </td></tr><tr><td>0201011 - P0026 </td><td>RUA PEDRO GONCALVES </td><td>R$ 275,00 </td></tr><tr><td>0201002 - P0056</td><td>RUA PEDRO NUNES FERREIRA </td><td>R$ 351,00</td></tr><tr><td>0201020- P0056</td><td>RUA PEDRO NUNES FERREIRA </td><td>R$ 351,00</td></tr><tr><td>0102004- P0277</td><td>RUA PRIMEIRO DE MAIO </td><td>R$ 382,00</td></tr><tr><td>0102005- P0277</td><td>RUA PRIMEIRO DE MAIO </td><td>R$ 416,00 </td></tr><tr><td>0102006- P0277</td><td>RUA PRIMEIRO DE MAIO </td><td>R$ 346,00 </td></tr><tr><td>0102007- P0277</td><td>RUA PRIMEIRO DE MAIO </td><td>R$ 373,00 </td></tr><tr><td>0100000 - P0295</td><td>RUA PROLONGAMENTO DA REGINALDO MAIA</td><td>R$ 335,00</td></tr><tr><td>0105000- P0295 </td><td>RUA REGINALDO MAIA </td><td>R$ 335,00 </td></tr><tr><td>0105001 - P0295</td><td>RUA REGINALDO MAIA </td><td>R$ 335,00 </td></tr><tr><td>0105002- P0295 </td><td>RUA REGINALDO MAIA </td><td>R$ 335,00 </td></tr><tr><td>0105003- P0295 </td><td>RUA REGINALDO MAIA </td><td>R$ 335,00 </td></tr><tr><td>0105052- P0295</td><td>RUA REGINALDO MAIA </td><td>R$ 335,00 </td></tr><tr><td>0105130- P0295</td><td>RUA REGINALDO MAIA </td><td>R$ 155,00</td></tr><tr><td>0105131 - P0295</td><td>RUA REGINALDO MAIA </td><td>R$ 335,00 </td></tr><tr><td>0105132- P0295</td><td>RUA REGINALDO MAIA </td><td>R$ 335,00 </td></tr><tr><td>0105999 - P0295 </td><td>RUA REGINALDO MAIA </td><td>R$ 116,00 </td></tr><tr><td>0104000- P0325</td><td>RUA SEBASTIAO DA SILVA MADEIRA</td><td>R$ 143,00 </td></tr><tr><td>0105053 - P0325 </td><td>RUA SEBASTIAO DA SILVA MADEIRA</td><td>R$ 143,00 </td></tr><tr><td> </td><td>RUA SEBASTIAO FRANCISCO DIAS</td><td>R$ 351,00 </td></tr><tr><td>0107536- P0099 </td><td>RUA SER. RICARDO MENDES DA COSTA </td><td>R$ 424,00 </td></tr><tr><td>0107567- P0099</td><td>RUA SER. RICARDO MENDES DA COSTA </td><td>R$ 424,00 </td></tr><tr><td>0107693- P0099</td><td>RUA SER. RICARDO MENDES DA COSTA </td><td>R$ 424,00 </td></tr><tr><td> </td><td>RUA SILMO JOSE FERREIRA MARINHO </td><td>R$ 424,00 </td></tr><tr><td>0105999 - P0314</td><td>RUA SINICHY KYKUCHI </td><td>R$ 430,00 </td></tr><tr><td>0107057- P0330</td><td>RUA SUZANO SANTANA DE LIMA </td><td>R$ 399,00 </td></tr><tr><td>0107630- P0330 </td><td>RUA SUZANO SANTANA DE LIMA </td><td>R$ 399,00 </td></tr><tr><td> </td><td>RUA VIANA DE CASTRO</td><td>R$ 363,00 </td></tr><tr><td>0201002 - P0308</td><td>RUA WELCK </td><td>R$ 119,00 </td></tr><tr><td>0201 003 - P0308</td><td>RUA WELCK </td><td>R$ 119,00 </td></tr><tr><td> </td><td>SERVIDA0 FRANCISCA DE SOUZA </td><td>R$ 424,00</td></tr><tr><td> </td><td>SERvIDA0 GERALDO ALFREDO DE<br>OLIVEIRA</td><td>R$ 363,00 </td></tr><tr><td>0106001 - P0220</td><td>SERVIDAO JOSE ANTUNES DA SILVA</td><td>R$ 374,00</td></tr><tr><td> </td><td>TRAVESSA ANTONIO GUMIERI</td><td>R$ 363,00</td></tr><tr><td> </td><td>TRAVESSA BOANERGES AMANCIO DE<br>LIMA </td><td>R$424,00 </td></tr><tr><td> </td><td>TRAVESSA JOAO CARLOS SIMOES </td><td>R$ 427,00</td></tr><tr><td> </td><td>TRAVESSA LUIZ ALMADA</td><td>R$ 275,00 </td></tr><tr><td> </td><td>TRAVESSA LUZIA SCHEFFER DE LIMA</td><td>R$ 275,00 </td></tr><tr><td>0102015- P0230</td><td>TRAVESSA PEDRO INES DE SOUZA </td><td>R$ 154,00 </td></tr><tr><td>0102032- P0230</td><td>TRAVESSA PEDRO INES DE SOUZA </td><td>R$ 154,00 </td></tr><tr><td>0102050- P0230 </td><td>TRAVESSA PEDRO INES DE SOUZA </td><td>R$ 154,00 </td></tr><tr><td> </td><td>TRAVESSA ROSALINA PEDROSO PASCOA </td><td>R$ 348,00 </td></tr><tr><td>0106000- P0009 </td><td>TRAVESSA SANTO ANTONIO</td><td>R$ 131,00 </td></tr><tr><td>0106067 - P0009 </td><td>TRAVESSA SANTO ANTONIO</td><td>R$ 131,00 </td></tr><tr><td>0106528 - P0009</td><td>TRAVESSA SANTO ANTONIO</td><td>R$ 131,00 </td></tr><tr><td>0106E32 - P0009 </td><td>TRAVESSA SANTO ANTONIO</td><td>R$ 131,00 </td></tr><tr><td> </td><td>TRAVESSA YVAN RODRIGUES<br>SERZEDELLO </td><td>R$ 275,00 </td></tr></tbody></table>
+
+
+## Anexo III — FATOR PEDOLOGIA
+
+<table><tbody><tr><td>FIRME</td><td>1,0</td></tr><tr><td>INUNDAVEL </td><td>0,9 </td></tr><tr><td>ALAGADO</td><td>0,7 </td></tr></tbody></table>
+
+**FATOR TOPOGRAFIA**
+
+<table><tbody><tr><td>PLANO</td><td>1,0 </td></tr><tr><td>ACLIVE </td><td>0,9 </td></tr><tr><td>DECLIVE</td><td>0,7 </td></tr><tr><td>IRREGULAR </td><td>0,8 </td></tr></tbody></table>
+
+**FATOR SITUAÇÃO**
+
+<table><tbody><tr><td>MEIO DE QUADRA </td><td>1,0 </td></tr><tr><td>ESQUINA L + FRENTE</td><td>1,1 </td></tr><tr><td>ENCRAVADO </td><td>0,8 </td></tr></tbody></table>

@@ -1,0 +1,457 @@
+{
+  "host": "sapl.fortaleza.ce.leg.br",
+  "metadados_unicos_observados": 4251,
+  "total_api_declarado": 4251,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1667,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/a86c1c498ccfbf6d31b5221ea4bc772c41bbb68f803e226b3ed802092c1f1836.json",
+    "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "sha256": "62965910c2b1830fbf5083d68fad9a6d3b2e885031f7ad40f60cac4722dcac92",
+    "capturado_em": "2026-10-20T22:13:50.167686"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e530277424a39f9dc92f4143423e1f27c714bf1bfb60fbc141f79fe8335485fb.json",
+    "url": "https://sapl.fortaleza.ce.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.fortaleza.ce.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9f72543dd9af1a5b292012ab2aff0ee51ffd95c13d239b47c0abcfeca66777b9",
+    "bytes": 733,
+    "capturado_em": "2026-10-20T22:17:48.299761"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/5650fdb9b91c56d09c862dae88e013e1d090ddbfce4ebbc90e669f686cc71047.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a938c3d1fd17a6b878aec7e9773984897f510edee716abbd19f4f8f2ee0b32b5",
+      "capturado_em": "2026-10-20T22:12:30.148748"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/9a702e721d73ccfc3309ca93a691b82352b3d34dae15ca532aab8d1f0be82ca1.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5f0a5b119bdceea926665b8bcbf9feb7c0a535b7fdc86a89a50344e536296cc3",
+      "bytes": 60441,
+      "capturado_em": "2026-10-20T22:23:45.679420"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/6aa55f37969ba3d7138061a8ed2533d9ed1fec42c1452b733d88d43df082c586.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d866f5602af3e3055d99073ed49eb565c671db516c06a46cbf7b425a63595f9a",
+      "bytes": 63818,
+      "capturado_em": "2026-10-20T22:31:05.122303"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/c389c132eebb4503cd8e9d0ccb9b8b6b93292724cb136895cae45a345c753a45.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4602bb78a705aad0022f03f8f68ed437a75c110f42dd0686f725f74a37c2b8c8",
+      "bytes": 64645,
+      "capturado_em": "2026-10-20T22:35:57.212168"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/00a15e3abee71c4b3f78055145a524b2559a9893e1535892bd87fc28077c24e5.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "94ae01ce6c0afedb214a5e6fb199057e22b89d036495425cbec6e3c1608d0a7f",
+      "bytes": 62625,
+      "capturado_em": "2026-10-20T22:40:42.571615"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/6eb8de173e3b94ef40babc7edd9313c187370cdb78f99fa93243b031453c4650.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "63eb049d0fcb7cf90b6466aabf1f30951308e5dcbb63cdb591a3ad62d153ff11",
+      "bytes": 62973,
+      "capturado_em": "2026-10-20T22:45:01.774443"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/1ac9e0476a6a80d970d4dd10f07db8ec5ffdeb44a5737e4b45e6de95f1955353.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2512547268fdb37077e135398b2314fa09b2146c9d50dfe57ebf9639044a2523",
+      "bytes": 63520,
+      "capturado_em": "2026-10-20T22:48:57.632330"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/b9296b311260c7a372afb2c80d5b7f534d46b462966316c1860ab7ca5f9d57f8.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e355cf145258f9bd0d1387d518ebdbf4be3beeccd8d0b879d682f44b67ad425a",
+      "bytes": 63619,
+      "capturado_em": "2026-10-20T22:54:03.512081"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/50c5dc58d96fd27024fe08fedc9a3a9c9595df89e660dba29110ca5e8041c66d.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5f107e387445013c3ce80becf9a9e2f2f2819898ba97aa593d725a8a56dd06bf",
+      "bytes": 62159,
+      "capturado_em": "2026-10-20T22:57:37.231705"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e02f3fa83df277088c2627f2fb406ef9ce435cb2b8e6d6e6138a5487501c6c0c.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "aaccff73f28a54be8ab440088f46120f712f6354e1382b6f2f589bc5bb7fc203",
+      "bytes": 62933,
+      "capturado_em": "2026-10-20T23:01:33.919971"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/0d35e73b32074e22dc0aa47c869ec1681f521c51bc807c461109a4e7f0adc67c.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8f51a43a290a9bd8e5253fc6642b61935ef4c18e8c40307a634bf4057d23dc33",
+      "bytes": 59790,
+      "capturado_em": "2026-10-20T23:06:04.274778"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/ea121d865a02d6b01f4bad86d4d937672c1f01120ed27ecc40d736243acc6c33.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f67ad1d4d7ef46556a80478ef32c51f9fdca715ab150f9d344e4fa6e1ec816e4",
+      "bytes": 63519,
+      "capturado_em": "2026-10-20T23:10:35.151883"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/a0e6ec75301fe5188a8180547ff7d84ed8b2c4db3017e9ad53fc229ee3a8e95c.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "217eed38022bbdd018bbc43ef5b2128602dd83344a90f3cb9619c2de490bcf01",
+      "bytes": 62500,
+      "capturado_em": "2026-10-20T23:14:36.921802"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/bea3497a8160e57244ff38db7cf5a0b09b6b2726706758b847c3d36d51f7e02c.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ff6a7f7eb76e2ad64f21db825ea8a9d3f29ccb998e24cc687a7b06a2a00d3ece",
+      "bytes": 63569,
+      "capturado_em": "2026-10-20T23:18:19.850606"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/54f64beb99925a6e8d0b6b0c9a701f13a8a44b5a47f35c7b1c791af1c606bb83.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5301bb4d42c15fd4edd23cf5c0c04a655979c1af1b34caedcefb6c64b25472bc",
+      "bytes": 62397,
+      "capturado_em": "2026-10-20T23:22:18.608583"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/517aa67282d6527ac7465b30267a62b7f0c8c2a35a39c01b331ef0fc859ff0ec.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f481307849d3a5e760c3c50c67933561533181c536142e07bc14cca234145c79",
+      "bytes": 60694,
+      "capturado_em": "2026-10-20T23:26:40.765549"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/8db26df8aaa1f3ab2a3f45375a18bff508c95675094caef49ed5e6b0553d7303.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3ff02ca7cdf6c5130e755717278cc413266f901b6ef4548be8fb199484af1259",
+      "bytes": 60610,
+      "capturado_em": "2026-10-20T23:31:38.062983"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/de1b000a75991368f7cbea396ec53dde9efc06bbd13d04e1be5c16ef0e752a3f.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "029136b6d346c102f4bea7264520cd5c2efe1a160412a512059e83e31e41d9b2",
+      "bytes": 61329,
+      "capturado_em": "2026-10-20T23:37:16.703312"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/77abf40d0e3394b8b647d937fc7eab889a7156b869dc16d84b6d6b9b9b9ecb4b.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d0bc1a67048f2f00457526b1ac0a5c75d944a00f85fafc303aa501d92a745936",
+      "bytes": 61150,
+      "capturado_em": "2026-10-20T23:42:10.136270"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/ed1a57b9380d991e1e7a9c95e90649f91c63233eb50cd01267ef8c97d09dbccd.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e7ee144984b649bde2ed6452752e13fc792377dee5f0439a8c99a4a64ffe4a4d",
+      "bytes": 60647,
+      "capturado_em": "2026-10-20T23:47:14.070034"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/b5eaf4a54b0223c6f7d380b528aeaf14d93fd389384b5d8186f0ce1db11aac4c.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "05b0f05b862382f507401b6138d1e0c0d8de08bf6b16ee30bf727d2ef37dee84",
+      "bytes": 59331,
+      "capturado_em": "2026-10-20T23:52:35.464617"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/c7efdfc546f31a7e83691af97c2e7a08d566f326fe2a2dc0fce423ec21ca6678.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1b76990ff775a43c1ad3f3636c43e77ab2a38ba2a40dc5758dfe2eed68a6a606",
+      "bytes": 60026,
+      "capturado_em": "2026-10-21T03:26:38.323106-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/a56792e630d602a4c05c620e3bf2a8da9c74f4fe67e45cc1e57b601220b908b8.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "600b483cb474ad546ed6c48a854e832e7b54e7f8ab08e619a725617310a5d14a",
+      "bytes": 61387,
+      "capturado_em": "2026-10-21T03:30:20.796818-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/f31717965badb17ae1eea0555730baf73d6c664a579c2f7bf8b16e99bba77232.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9fcfe3aed70423ed5470732881c896018ffb457126942aeb4eac6d808171e340",
+      "bytes": 60832,
+      "capturado_em": "2026-10-21T03:36:24.538228-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/d2b62d2d932a6fd9ef03237cce9edd3f408c3f4562b1614fd27800540baad56a.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c3df282d87d2adcb60c019c5612e85fd7f77885048ff6fe9c7f0da392ebc2f39",
+      "bytes": 59765,
+      "capturado_em": "2026-10-21T03:42:28.524196-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/0bc0719c50223ad4b2593f86056dbf7ede355e0bb987d275d654b2834640c2dd.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "07766f6e834c9d0575bb49c2b68efe89080e2c497d62eb74c0a6c63248b96c98",
+      "bytes": 58829,
+      "capturado_em": "2026-10-21T03:49:15.182006-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/39b2d080aa87d84addf5c7dcb9101ce1b2069f0351ad312d0a809e2d570b49e4.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=27",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "802a3eaf28459aa9ba5e6df5743b913dd8097b4edd6e175dab4f6f09992f91da",
+      "bytes": 58272,
+      "capturado_em": "2026-10-21T03:55:44.132889-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/7077365eb0fc7ea1b08c4b31356ab7da56f025ce9858d1cf5886230997e95f83.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=28",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2f3b9b0d4aa31b96293bdaa9803630f54a8e763957dc015cd6771ee2fabd5f4d",
+      "bytes": 59105,
+      "capturado_em": "2026-10-21T04:01:27.216087-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/405ee7883d4a16923933553ea6cd87cc59eebef17f4a185a437e514672823b33.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3f91e2a13b1ef207e72842f7f1b23f9dbe04cab04972bff51459ee3e912eabb8",
+      "bytes": 59062,
+      "capturado_em": "2026-10-21T04:08:11.168847-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/497680335437b73cb08f4179e8896d79df1c72fe7ce0bbd07e10d2c340238c2f.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "beec76960674ff43300b3d56a4d0e49b5e6b7be551fa3d510cc72124744305b9",
+      "bytes": 59791,
+      "capturado_em": "2026-10-21T04:14:24.138451-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/debdf4b0267ea35ea57fc5610b174379bd00d28e39a32224b46a71d2d5e51262.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=31",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2d301c4c2e3fec75a6e09d34cde8f32716e3c11d92c0e821a7131f731641599a",
+      "bytes": 58516,
+      "capturado_em": "2026-10-21T04:20:09.527340-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/d233b3716fe0adc55dd95e0fda35eef86c53fc3ca71fea886d3a9d373f14dde1.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=32",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "08bace7de6d672d265bf16d83ccc9dd5936a6f85e9e1a287a8ab7438e1acfd76",
+      "bytes": 56811,
+      "capturado_em": "2026-10-21T04:25:45.973235-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/f31b0d96cf1f09865be4c1341a30239d3c69d49dd3c50c937ffacc808f47b499.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=33",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d35e443d3efa020c0ac159a067dc65b9fd8bf9f358a391d654734387bd1cedc7",
+      "bytes": 56115,
+      "capturado_em": "2026-10-21T04:31:59.070535-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e1f93b17d018640d1b774b56f8a0a6fee9c024fa338f690624ad3cf4c1c3494f.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=34",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "55b56f78ba3a1372053461d19b90eaa4fa9dd021968eb906c90bbc3e9fae3def",
+      "bytes": 56875,
+      "capturado_em": "2026-10-21T04:37:38.385301-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/e9501691ffef920b0e04411333f18fc32dca80eed126f8ad9e534566d28e2bae.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5018a56110c7320b91c7a2e182d25709df7a6a2168a66b2e5f024b48405b8762",
+      "bytes": 58995,
+      "capturado_em": "2026-10-21T04:43:20.808260-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/a72db5f83ad44d21e65f00234d6310aa956cb507c5a5cbbd5b88136dc5d55d34.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=36",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b83be65d62e3ac80e97a6161dad52a77f0f536217c56646d7ad708ac59a4514e",
+      "bytes": 56601,
+      "capturado_em": "2026-10-21T04:47:54.302072-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/8939ac1af51f9338d8e4f0175715a023f120ccd54e6304fa996965f286def5cb.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=37",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=37",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "421671f852fefaae465b83363fe3437b15b92007ea3d85e509d6aeb0f1dcb8f8",
+      "bytes": 54935,
+      "capturado_em": "2026-10-21T04:52:33.662589-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/2dabd8a31cd99000157edd701c97470f4beaffc5324af55ab4de3d873d63122d.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=38",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=38",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1a3ddf18d933eea41fdc64bac10ec80a2a130e4d474482a348f9e9ee2ee70a13",
+      "bytes": 52997,
+      "capturado_em": "2026-10-21T04:57:28.537725-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/964e88b2f25e95ef922dfccb7f2b9b8c44ecbb1880b0ac4271810c2e7a4489ac.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=39",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=39",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "89c49782ca5a83abaf6b1f9c2dafcb7fae4fadde8f376337416f3f206ab8b23f",
+      "bytes": 55303,
+      "capturado_em": "2026-10-21T05:03:55.970693-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/ea271a12280f281c185ab29f3902a5f79c530265e92a24c1e5bae8707254896a.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=40",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=40",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "562a015a9fde6cdee1fbd8fca40535f356e07e051684eaddda0bc5823fe75e7a",
+      "bytes": 55054,
+      "capturado_em": "2026-10-21T05:10:40.185965-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/7ce1cbc134e4c6696244b1fae41a9915f75e150243c785faf63e18406d7c814a.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=41",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=41",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c9c9788422db9aebc76e8ff9fda7e838db4a9246f400c3ad4a15ea6a204ba4dc",
+      "bytes": 53510,
+      "capturado_em": "2026-10-21T05:17:36.552169-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/202ef47144f4d51efd21e1cb79ccc7bf973d7347aba96c8201ea4a338a6a72a7.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=42",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=42",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b20f5c0478c48446854360867646f8fdfb068b554f0e8e02bcc629b4f4f73c27",
+      "bytes": 54064,
+      "capturado_em": "2026-10-21T05:24:27.276173-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/6a91976bf9ab1293cc4f75665358b45a60d9996f43dc90e31dee1ff487c8a0b5.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=43",
+      "url_final": "https://sapl.fortaleza.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=43",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "63cd5903c6dd21374b26669e25a9503846b993ac89c6533dee3b1b35a9afa65a",
+      "bytes": 29788,
+      "capturado_em": "2026-10-21T05:31:09.541739-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

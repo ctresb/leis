@@ -1,0 +1,62 @@
+{
+  "host": "sapl.curraisnovos.rn.leg.br",
+  "metadados_unicos_observados": 271,
+  "total_api_declarado": 271,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 265,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.curraisnovos.rn.leg.br/316f4f8f25d0cc1fbb5f806cba6fcfcfd3c4afd736a2b9feb6ff1232f1d96357.json",
+    "url": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f2098a5851389f5c38b2a4afd4b1b326f4d4927136d82fffa410c64dce098621",
+    "bytes": 952,
+    "capturado_em": "2026-10-28T09:38:21.478132-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.curraisnovos.rn.leg.br/1e8ab4bf293c27929daeef64c9d6091e0f1275d823d37349b19b37660680a28d.json",
+    "url": "https://sapl.curraisnovos.rn.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.curraisnovos.rn.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7480cc1de2f9b275594021d189879e744ab1eebed9906d1af6c0e1590a045a98",
+    "bytes": 756,
+    "capturado_em": "2026-10-28T09:38:20.456403-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.curraisnovos.rn.leg.br/eca02a55417d2f875ff14e7ef8289f959e5541d83cc8dde49997d6654db7ba9b.json",
+      "url": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "97698b3c80dd933a4edac42250c9a8d2e6820077f1b9f5c66e5213a3b26160da",
+      "bytes": 64959,
+      "capturado_em": "2026-10-28T09:38:24.148508-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.curraisnovos.rn.leg.br/e8f7136f3f1343c3b365850ffa65355067e7a78a959d304256db55645104f14c.json",
+      "url": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "752df2c9ed83ea186733bd00c77c56a01b824613c9c1740f0e7edab4817db39c",
+      "bytes": 64226,
+      "capturado_em": "2026-10-28T09:41:53.811248-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.curraisnovos.rn.leg.br/6dfa5c6f81f890bb3a217d7d4a3d4a04856e742333d3dbc3dda112080df76d21.json",
+      "url": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.curraisnovos.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0853f0fa6093d8902894c44a18d392d3e786265ae931b035bb9be4c38ef4f23e",
+      "bytes": 45160,
+      "capturado_em": "2026-10-28T09:45:42.197833-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

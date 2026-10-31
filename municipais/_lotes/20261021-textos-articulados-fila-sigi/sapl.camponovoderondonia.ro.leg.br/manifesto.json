@@ -1,0 +1,42 @@
+{
+  "host": "sapl.camponovoderondonia.ro.leg.br",
+  "metadados_unicos_observados": 6,
+  "total_api_declarado": 6,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camponovoderondonia.ro.leg.br/4076ed1c874df1c98516c7e37c044df71be3fdeff56d7523f3012b3a3a692359.json",
+    "url": "https://sapl.camponovoderondonia.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.camponovoderondonia.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c03e9e90179cc7c62ab268fb71d7a81ee5413a523a61e5980c51c4d580cb63b9",
+    "bytes": 958,
+    "capturado_em": "2026-10-27T22:21:55.547647-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camponovoderondonia.ro.leg.br/b31876f8520104edec1c3120319f7de3a4af3f06c8216a344e2f2d7d8e8362d2.json",
+    "url": "https://sapl.camponovoderondonia.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.camponovoderondonia.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5061d98d4418a8e05dc9370f06cd3a44dda2ab7ccd17084d97bbe12452e43e30",
+    "bytes": 782,
+    "capturado_em": "2026-10-27T22:21:54.534007-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camponovoderondonia.ro.leg.br/1b68d417a940237537fee813bf3e68086aacd5bdaa2856e013c68d1c2aeba049.json",
+      "url": "https://sapl.camponovoderondonia.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.camponovoderondonia.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4877658aa7cc1742ad39fb6f685b0a53da8068f4644124e650251854c0b44b87",
+      "bytes": 3689,
+      "capturado_em": "2026-10-27T22:21:57.492656-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

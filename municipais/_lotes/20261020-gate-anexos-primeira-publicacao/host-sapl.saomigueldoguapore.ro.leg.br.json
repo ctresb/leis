@@ -1,0 +1,26 @@
+{
+  "host": "sapl.saomigueldoguapore.ro.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/errata_decreto_12.pdf da norma Decreto Legislativo nº 12, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ERRATA\r\nNo Decreto n.º 015/2025, de 10 de novembro de 2025,\r\nONDE SE LE:\r\n\"Decreto Legislativo n.º 015/2025\".\r\nLEIA-SE:\r\n\"Decreto Legislativo n.º 012/2025\".\r\nGabinete da Presidência, em 13 de novembro de 2025.",
+      "anexo_arquivo": "http://sapl.saomigueldoguapore.ro.leg.br/media/sapl/public/anexonormajuridica/2025/1/errata_decreto_12.pdf",
+      "ano": 2025,
+      "norma": 3109
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.saomigueldoguapore.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomigueldoguapore.ro.leg.br/32b654f5175cf610e58d01dca1ea8aa4db3fcda9b8a8e6e835cc79bed81ecff0.json",
+      "sha256": "de5d0ccca44186545eeaa5e65da14210994b140442e53b0a7735aae46f85b68d",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saomigueldoguapore.ro.leg.br/32b654f5175cf610e58d01dca1ea8aa4db3fcda9b8a8e6e835cc79bed81ecff0.meta.json"
+    }
+  ],
+  "total": 1
+}

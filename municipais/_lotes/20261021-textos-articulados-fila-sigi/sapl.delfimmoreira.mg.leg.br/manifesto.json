@@ -1,0 +1,42 @@
+{
+  "host": "sapl.delfimmoreira.mg.leg.br",
+  "metadados_unicos_observados": 10,
+  "total_api_declarado": 10,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.delfimmoreira.mg.leg.br/7dfbb8311ae53a0b5b2ea935344af6286c8726d8a661758f640981016c652b1c.json",
+    "url": "https://sapl.delfimmoreira.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.delfimmoreira.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "326f65a5c879aee7bbe531e00e78b4beb9f945f48764d7b7fe3e6f613cd9a45c",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:45:40.830888-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.delfimmoreira.mg.leg.br/d8d4917474dee9785eb09b6d511029588f266ef744bb48211590f752ad69a91f.json",
+    "url": "https://sapl.delfimmoreira.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.delfimmoreira.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "187f0e49b1ecd772af6efb0c41a8f0d53d0498a7874cf950ba777d40b8f48d3b",
+    "bytes": 813,
+    "capturado_em": "2026-10-28T09:45:39.985412-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.delfimmoreira.mg.leg.br/3e026856b04735b2b3aef0aabd74574fa84e2d93aad87e176e7767f723cddaf2.json",
+      "url": "https://sapl.delfimmoreira.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.delfimmoreira.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d1636b57ff064f39d5655cf785c1c908be7394b43c2d5a62dc6f4b4bc55b83a3",
+      "bytes": 6218,
+      "capturado_em": "2026-10-28T09:45:42.002264-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

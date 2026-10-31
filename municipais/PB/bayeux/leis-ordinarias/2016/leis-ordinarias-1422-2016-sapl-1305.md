@@ -1,0 +1,29 @@
+---
+titulo: "Lei Ordinária-PEX nº 1.422, de 20 de abril de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1422"
+data: "2016-04-20"
+municipio: "Bayeux"
+uf: "PB"
+codigo_ibge: "2501807"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.bayeux.pb.leg.br/norma/1305"
+fonte_texto: "https://sapl.bayeux.pb.leg.br/media/sapl/public/normajuridica/2016/1305/lei_1422.pdf"
+sha256_fonte: "c45a80da937c1186124d57ded8cfb98b666dd539f8e80792eaebb49b89e7ac90"
+sha256_texto: "991578f255206f049d65093f0f874d071fbf2ff81e1b215c545697035cf5143b"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-PEX nº 1.422, de 20 de abril de 2016
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+O PREFEITO CONSTITUCIONAL DO MUNICIPIO DE BAYEUX, Estado da Paraíba, no uso das atribuições que lhes são conferidas pelo art. 35 c/c o art. 45, inciso IV, da Lei Orgânica Municipal, faz saber que o Poder Legislativo aprovou e o Poder Executivo sanciona a seguinte Lei:
+
+**Art. 1.°** Fica alterado o art. 4.° da Lei Municipal n.º 987/2005, de 08 de dezembro de 2005, que terá a seguinte redação: "Ar. 4.º Só será permitido o reconhecimento de utilidade pública, a entidade que tiver mais de um ano de existência, depois que forem comprovadas todas as documentações exigidas para o feito, com base no inciso I do art. 3.º desta Lei, e os meios que comprovem a eficácia e autenticidade dos relevantes serviços prestados à comunidade ou bairro que originou a entidade." NR
+
+**Art. 2.°** Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 3.º** Revogam-se as disposições em contrário. Gabinete do Prefeito, Bayeux-PB, aos 20 de abril de 2016. Dr. Expedita Pereira Prefeito Av. Liberdade, 3220 - Centro - Bayeux - Paraíba - CEP: 58306-000 FONE: (83) 3253-4078
+

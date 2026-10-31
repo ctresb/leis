@@ -1,0 +1,81 @@
+Estima a receita e Fixa a despesa do Município de Caçu, para o exercício financeiro de 2015.
+
+
+A CÂMARA MUNICIPAL DE CAÇU, Estado de Goiás, aprova e o PREFEITO MUNICIPAL sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aprovado para o Exercício Financeiro de 2015 o Orçamento Geral do Município de Caçu, discriminados pelos quadros e demais anexos integrantes desta Lei, que Estima a Receita e Fixa a Despesa em R$ 64.292.500,00 (sessenta e quatro milhões, duzentos e noventa e dois mil e quinhentos reais).
+
+
+Art. 2º.
+
+A Receita será realizada mediante arrecadação dos tributos, suprimentos de fundos e demais rendas, na forma da legislação em vigor e das demais especificações constantes das tabelas explicativas, de acordo com o seguinte desdobramento:
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>I - RECEITAS CORRENTES</strong></td><td><strong>66.733.040,00</strong></td></tr><tr><td>RECEITA TRIBUTÁRIA</td><td>5.435.490,00</td></tr><tr><td>RECEITA DE CONTRIBUIÇÕES</td><td>1.000.000,00</td></tr><tr><td>RECEITA PATRIMONIAL</td><td>372.300,00</td></tr><tr><td>RECEITA DE SERVIÇOS</td><td>398.500,00</td></tr><tr><td>TRANSFERÊNCIAS CORRENTES</td><td>59.399.550,00</td></tr><tr><td>OUTRAS RECEITAS CORRENTES</td><td>127.200,00</td></tr><tr><td><strong>SOMA</strong></td><td><strong>66.733.040,00</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>II - RECEITAS DE CAPITAL</strong></td><td><strong>4.198.000,00</strong></td></tr><tr><td>TRANSFERÊNCIAS DE CAPITAL</td><td>4.198.000,00</td></tr></tbody></table>
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>III - RECEITAS INTRA- ORÇAMENTÁRIAS CORRENTES</strong></td><td><strong>2.300.000,00</strong></td></tr><tr><td>RECEITAS CORRENTES</td><td>2.300.000,00</td></tr><tr><td><strong>SOMA</strong></td><td><strong>73.231.040,00</strong></td></tr><tr><td><strong>DEDUÇÕES DA RECEITA CORRENTE</strong></td><td><strong>-8.938.540,00</strong></td></tr><tr><td><strong>TOTAL</strong></td><td><strong>64.292.500,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+A Despesa será realizada na forma dos quadros e anexos que compõem a presente Lei, de conformidade com o seguinte desdobramento:
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>I - DESPESA POR ÓRGÃO DE GOVERNO - ADMINISTRAÇÃO DIRETA</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>02.00 - PODER LEGISLATIVO</td><td>2.270.000,00</td></tr><tr><td>01.00 - PODER EXECUTIVO</td><td>32.533.156,50</td></tr><tr><td><strong>TOTAL</strong></td><td><strong>34.803.156,50</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>II – DESPESA POR ÓRGÃO DE GOVERNO - ADMINISTRAÇÃO INDIRETA</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>05.00 – FUNDO MUNICIPAL DE SAÚDE DE CAÇU</td><td>11.758.243,50</td></tr><tr><td>06.00 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td><td>3.050.000,00</td></tr><tr><td>04.00 – FUNDEB</td><td>6.132.600,00</td></tr><tr><td>07.00 – CAÇUPREV</td><td>3.559.500,00</td></tr><tr><td>11.00 – FUNDO MUNICIPAL DE SEGURANÇA PÚBLICA</td><td>467.000,00</td></tr><tr><td>09.00 – FMMA FUNDO MUL DO MEIO AMBIENTE</td><td>336.000,00</td></tr><tr><td>10.00 – FMH FUNDO MUL DE HABITAÇÃO</td><td>4.020.000,00</td></tr><tr><td>12.00 – FMDCA</td><td>166.000,00</td></tr><tr><td><strong>TOTAL</strong></td><td><strong>29.489.343,50</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>III – DESPESA</strong>  <strong>POR UNIDADES ORÇAMENTÁRIAS – ADM. DIRETA</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>02.01 – CÂMARA MUNICIPAL</td><td>2.270.000,00</td></tr><tr><td>01.51 – GABINETE DO PREFEITO </td><td>1.157.000,00</td></tr><tr><td>01.52 – SECRETARIA DE ADMINISTRAÇÃO</td><td>2.236.000,00</td></tr><tr><td>01.53 – SECRETARIA DE FINANÇAS</td><td>3.691.244,00</td></tr><tr><td>01.54 – SECRETARIA DE AGRICULTURA</td><td>648.000,00</td></tr><tr><td>01.55 – SECRETARIA DA EDUCAÇÃO</td><td>8.485.712,50</td></tr><tr><td>01.56 – SECRETARIA DA CULTURA, DESPORTO E LAZER</td><td>1.365.000,00</td></tr><tr><td>01.57 – SECRETARIA DE OBRAS E SERV. URBANISMO</td><td>10.227.200,00</td></tr><tr><td>01.58 – SEC. DE INDÚSTRIA COMERCIO E TURISMO</td><td>480.000,00</td></tr><tr><td>01.62 – SECRETARIA DE TRANSPORTES</td><td>3.774.000,00</td></tr><tr><td>01.63 – SECRETARIA DE CONTROLE INTERNO</td><td>229.000,00</td></tr><tr><td>01.64 – SECRETARIA DE COMUNICAÇÃO SOCIAL</td><td>140.000,00</td></tr><tr><td>01.99 – <strong>RESERVA DE CONTINGÊNCIA</strong></td><td>100.000,00</td></tr><tr><td><strong>TOTAL</strong></td><td><strong>34.803.156,50</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>IV – DESPESA POR UNIDADES ORÇAMENTÁRIAS – ADM. INDIRETA</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>05.01 – FUNDO MUNICIPAL DE SAÚDE DE CAÇU</td><td>11.758.243,50</td></tr><tr><td>06.02 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td><td>3.050.000,00</td></tr><tr><td>04.01 – FUNDO DE GESTÃO DO FUNDEB</td><td>6.132.600,00</td></tr><tr><td>07.01 – INST MUL PREV. DOS SERVIDORES</td><td>3.559.500,00</td></tr><tr><td>11.01 – FUNDO MUNICIPAL DE SEGURANÇA PÚBLICA</td><td>467.000,00</td></tr><tr><td>09.01 – FMMA FUNDO MUL DO MEIO AMBIENTE</td><td>336.000,00</td></tr><tr><td>10.01 – FMH FUNDO MUL DE HABITAÇÃO</td><td>4.020.000,00</td></tr><tr><td>12.01 – FMDCA</td><td>166.000,00</td></tr><tr><td><strong>TOTAL</strong></td><td><strong>29.489.343,50</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>TOTAL GERAL DO ORÇAMENTO</strong></td><td><strong>64.292.500,00</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col></colgroup><tbody><tr><td><strong>V – DESPESA DISCRIMINADA POR FUNÇÕES</strong></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>01 – LEGISLATIVA</td><td>2.270.000,00</td></tr><tr><td>04 – ADMINISTRAÇÃO</td><td>6.873.244,00</td></tr><tr><td>06 – SEGURANÇA PÚBLICA</td><td>521.000,00</td></tr><tr><td>08 – ASSISTÊNCIA SOCIAL</td><td>3.216.000,00</td></tr><tr><td>09 – PREVIDÊNCIA SOCIAL</td><td>4.045.500,00</td></tr><tr><td>10 – SAÚDE</td><td>11.758.243,50</td></tr><tr><td>12 – EDUCAÇÃO</td><td>14.618.312,50</td></tr><tr><td>13 – CULTURA</td><td>318.000,00</td></tr><tr><td>15 – URBANISMO</td><td>10.227.200,00</td></tr><tr><td>16 – HABITAÇÃO</td><td>4.020.000,00</td></tr><tr><td>18 – GESTÃO AMBIENTAL</td><td>336.000,00</td></tr><tr><td>20 – AGRICULTURA</td><td>648.000,00</td></tr><tr><td>22 – INDÚSTRIA </td><td>480.000,00</td></tr><tr><td>24 – COMUNICAÇÕES</td><td>140.000,00</td></tr><tr><td>26 – TRANSPORTE</td><td>3.774.000,00</td></tr><tr><td>27 – DESPORTO E LAZER</td><td>1.047.000,00</td></tr><tr><td><strong>TOTAL DA DESPESA DISCRIMINADA POR FUNÇÕES</strong></td><td><strong>64.292.500,00</strong></td></tr></tbody></table>
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><strong>TOTAL GERAL DO ORÇAMENTO</strong></td><td><strong>64.292.500,00</strong></td></tr></tbody></table>
+
+
+Art. 4º.
+
+Fica o Poder Executivo autorizado a abrir créditos adicionais de natureza suplementar, até o limite de 15% (quinze por cento) do total das despesas fixadas no art. 1º, da presente Lei utilizando-se como recursos os definidos no art. 43, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 5º.
+
+Ficam os Poderes Executivo e Legislativo autorizados a remanejarem as dotações orçamentárias dentro do mesmo projeto ou atividade.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, surtindo seus efeitos em 01 de janeiro de 2015.
+
+
+**GABINETE DO PREFEITO MUNICIPAL DE CAÇU**, Estado de Goiás, aos 28 dias do mês de novembro do ano de 2014.
+
+**GILMAR JOSÉ DE FREITAS GUIMARÃES**
+
+Prefeito Municipal

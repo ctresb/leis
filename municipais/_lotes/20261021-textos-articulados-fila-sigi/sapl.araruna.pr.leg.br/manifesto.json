@@ -1,0 +1,42 @@
+{
+  "host": "sapl.araruna.pr.leg.br",
+  "metadados_unicos_observados": 5,
+  "total_api_declarado": 5,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araruna.pr.leg.br/47e2449e4f77bc7861b2f52bda18505fd7f36006ac4c4cdd5bf949de4cd9a57b.json",
+    "url": "https://sapl.araruna.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.araruna.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6c715e1c945dbdbefe09ca4ed1bc57b606a2c7258a00d49cc6855ec6dcba56ff",
+    "bytes": 957,
+    "capturado_em": "2026-10-27T16:57:24.579803-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araruna.pr.leg.br/c305d3bcdd3e9318264e3cc67db34623920f217309b1d5885186322e0b54061d.json",
+    "url": "https://sapl.araruna.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.araruna.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3e6939b2ad3a3ae3ada453ea44bfed2464661ffdb4c56e344ea5bf8797260f0f",
+    "bytes": 723,
+    "capturado_em": "2026-10-27T16:57:23.605777-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.araruna.pr.leg.br/c451a7a21e5c63ae7f2dd436ed1db94c9c0063fb03fa82468635df8f45d92c67.json",
+      "url": "https://sapl.araruna.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.araruna.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "279ecc4b376e38ec0b9d6d3cabb3fc0550f3020dd14cb26ab55620aebc4ca168",
+      "bytes": 3239,
+      "capturado_em": "2026-10-27T16:57:26.542477-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

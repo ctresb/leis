@@ -1,0 +1,1367 @@
+“Institui o código de obras e edificações do Município de Porto Velho e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas nos incisos IV e VI do artigo 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CAMARA DO MUNICÍPIO DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR**:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Este código disciplina, no município de Porto Velho, os procedimentos administrativos e executivos e as regras a serem obedecidas no projeto, licenciamento, execução, manutenção e utilização de obras, edificações, aplicando-se também às edificações já existentes, inclusive os destinados ao funcionamento de órgãos ou serviços públicos, sem prejuízo do disposto nas legislações federal e estadual pertinentes, no âmbito de suas respectivas competências.
+
+
+Art. 2º.
+
+Para os efeitos de aplicação deste código são adotadas as seguintes definições:
+
+
+I –
+
+ABNT: Associação Brasileira de Normas Técnicas;
+
+
+II –
+
+Ampliação: acréscimo ou aumento de área de edificação existente;
+
+
+III –
+
+Alinhamento: linha legal que limita o terreno e a via ou logradouro público;
+
+
+IV –
+
+Andaime: estrutura necessária à execução de trabalhos em lugares elevados, que não possam ser executados em condições de segurança a partir do piso, sendo utilizada em serviços de construção, reforma, demolição, pintura, limpeza e manutenção;
+
+
+V –
+
+Apartamento: unidade residencial autônoma em edificação multifamiliar, de hotelaria ou assemelhada;
+
+
+VI –
+
+Área construída: soma das áreas dos pisos utilizáveis, cobertos ou não, de todos os pavimentos de uma edificação;
+
+
+VII –
+
+ART: Anotação de Responsabilidade Técnica, perante o Conselho Profissional;
+
+
+VIII –
+
+Área útil: Considera-se Área Útil a somatória das áreas de piso dos ambientes do pavimento (privativas e de uso comum), descontadas as áreas das seções horizontais das paredes e vazios, quando houver;
+
+
+IX –
+
+Balanço: avanço, acima de pavimento de referência, de parte da fachada da edificação sobre o afastamento frontal;
+
+
+X –
+
+Beiral: prolongamento do telhado que sobressai das paredes externas da edificação;
+
+
+XI –
+
+Canal: Curso d’água, natural ou artificial;
+
+
+XII –
+
+Circulação: elemento de composição arquitetônica, horizontal ou vertical, cuja função é possibilitar a interligação entre unidades autônomas, compartimentos ou ambientes de qualquer natureza;
+
+
+XIII –
+
+Corredor: local de circulação interna de uma edificação, confinado, que serve de comunicação horizontal entre dois ou mais compartimentos ou unidades autônomas;
+
+
+XIV –
+
+Cota: distância vertical entre um ponto do terreno e um plano horizontal de referência; número colocado sobre uma linha fixa auxiliar traçada em paralelo com uma dimensão ou ângulo de um desenho técnico, que indica o valor real de distância entre dois pontos ou abertura correspondente, no mesmo representado;
+
+
+XV –
+
+Declividade: relação percentual entre a diferença das cotas altimétricas de dois pontos e a sua distância horizontal;
+
+
+XVI –
+
+Demolição: derrubamento de uma edificação, muro ou instalação;
+
+
+XVII –
+
+Edificação: obra destinada a abrigar atividades humanas, instalações, equipamentos ou materiais;
+
+
+XVIII –
+
+Embargo: ato administrativo que determina a paralisação de uma obra;
+
+
+XIX –
+
+Equipamento: elemento destinado a guarnecer ou completar uma edificação, a esta integrando-se;
+
+
+XX –
+
+Escada: elemento de composição arquitetônica cuja função é possibilitar a circulação vertical entre dois ou mais pisos de diferentes níveis, constituindo uma sucessão de, no mínimo, três degraus;
+
+
+XXI –
+
+Especificação: discriminação dos materiais e serviços empregados na construção;
+
+
+XXII –
+
+Estacionamento: local descoberto destinado à guarda de veículos;
+
+
+XXIII –
+
+Garagem - local coberto da edificação onde são estacionados ou guardados veículos;
+
+
+XXIV –
+
+Guarda-corpo: barreira protetora vertical, maciça ou não, delimitando as faces laterais abertas de escadas, rampas, patamares, terraços, balcões, mezaninos, etc.;
+
+
+XXV –
+
+Habitação: edificação usada para moradia de pessoas;
+
+
+XXVI –
+
+Habite-se: atestado de verificação da regularidade da obra, quando da sua conclusão, correspondendo à autorização da Prefeitura para a sua ocupação e uso;
+
+
+XXVII –
+
+IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional;
+
+
+XXVIII –
+
+Licença da obra: ato administrativo que concede licença e prazo para início e término de uma obra;
+
+
+XXIX –
+
+Locação da obra: ato de transferir e fixar no terreno, a obra conforme o projeto apresentado;
+
+
+XXX –
+
+Logradouro público: espaço de domínio público e de uso comum do povo;
+
+
+XXXI –
+
+Marquise: balanço constituindo cobertura, localizado na fachada frontal da edificação;
+
+
+XXXII –
+
+Obra: realização de trabalho em imóvel, desde seu início até sua conclusão, cujo resultado implique na alteração de seu estado físico anterior;
+
+
+XXXIII –
+
+Passeio: parte da via de circulação destinada ao trânsito de pedestres;
+
+
+XXXIV –
+
+Patamar: piso situado entre dois lanços sucessivos de uma mesma escada;
+
+
+XXXV –
+
+Pavimento: parte de uma edificação situada entre a face superior de um piso acabado e a face superior do piso seguinte, ou entre a face superior de um piso acabado e o teto acima dele, se não houver outro piso acima; conjunto de dependências situadas no mesmo nível, compreendidas entre dois pisos consecutivos;
+
+
+XXXVI –
+
+Pé-direito: distância vertical medida entre o piso acabado e a parte inferior do teto de um compartimento, ou do forro falso, se houver;
+
+
+XXXVII –
+
+Perfil do terreno: situação topográfica existente, objeto do levantamento físico que serviu de base para a elaboração do projeto e/ou constatação da realidade;
+
+
+XXXVIII –
+
+Piso: plano ou superfície de acabamento inferior de um pavimento;
+
+
+XXXIX –
+
+Rampa: elemento de composição arquitetônica cuja função é possibilitar a circulação vertical entre desníveis, através de um plano inclinado;
+
+
+XL –
+
+Reconstrução: obra destinada à recuperação e recomposição de uma edificação, motivada pela ocorrência de incêndio ou outro sinistro fortuito, mantendo-se as características anteriores;
+
+
+XLI –
+
+Recuo: faixa de terra pertencente à propriedade particular a ser incorporada ao logradouro público para fins de modificação do alinhamento;
+
+
+XLII –
+
+Reforma: obra que implica em uma ou mais das seguintes modificações, com ou sem alteração de uso: área edificada, estrutura, compartimentação e volumetria;
+
+
+XLIII –
+
+Reparo: obra ou serviços destinados à manutenção de um edifício, sem implicar em mudança de uso, acréscimo ou supressão de área, alteração da estrutura, da compartimentação, da volumetria, e dos espaços destinados a circulação, iluminação e ventilação;
+
+
+XLIV –
+
+Restauro ou restauração: recuperação de edificação tombada ou preservada, de modo a restituir-lhe as suas características anteriores;
+
+
+XLV –
+
+RRT: Registro de Responsabilidade Técnica, perante o Conselho Profissional;
+
+
+XLVI –
+
+Sacada ou balcão: parte da edificação em balanço em relação à parede externa do prédio, tendo, pelo menos, uma face aberta para o espaço livre exterior;
+
+
+XLVII –
+
+Tapume: vedação provisória usada durante a construção;
+
+
+XLVIII –
+
+Teto: acabamento inferior dos pisos intermediários ou vedação entre o último pavimento e a cobertura do prédio;
+
+
+XLIX –
+
+Toldo: elemento de proteção constituindo cobertura de material leve e facilmente removível, do tipo lona ou similar;
+
+
+L –
+
+Unidade autônoma: edificação, ou parte dela, composta de compartimentos e instalações de uso privativo, constituindo economia independente;
+
+
+LI –
+
+Vistoria: diligência efetuada pela Prefeitura, tendo por fim verificar as condições de regularidade de uma construção ou obra.
+
+
+#### CAPÍTULO II — DIREITOS E RESPONSABILIDADES
+
+
+##### Seção I — Do Município
+
+
+Art. 3º.
+
+Visando a observância das prescrições edilícias do município, do Plano Diretor Municipal, das leis de zoneamento, parcelamento, uso e ocupação do solo e legislação correlata, o Município licenciará a obra e fiscalizará exclusivamente o cumprimento do regime urbanístico estabelecido pela legislação em vigor, apreciando: recuos, coeficiente de aproveitamento, taxa de ocupação, gabarito de altura, zoneamento e demais parâmetros do regime urbanístico, bem como os parâmetros de construção dispostos nos artigos contidos na Seção I do Capítulo V, desta lei.
+
+
+Parágrafo único
+
+Caberá aos autores dos projetos e ao executor da obra em análise pelo município a responsabilidade exclusiva quanto à observância das normas técnicas e dos demais parâmetros edilícios, bem como por quaisquer erros de projeto, sinistro ou acidente decorrente de deficiências destes.
+
+
+##### Seção II — Do Proprietário
+
+
+Art. 4º.
+
+Considera-se proprietário do imóvel a pessoa física ou jurídica detentora do título de propriedade registrado em Cartório de Registro Imobiliário.
+
+
+Art. 5º.
+
+É direito do proprietário do imóvel, promover neste, obra ou benfeitoria, sendo obrigatório o prévio consentimento da Prefeitura, ressalvados os lotes considerados vazios urbanos pelo Plano Diretor e Lei Municipal de Parcelamento de Uso e Ocupação do Solo, cuja edificação poderá ser compulsória.
+
+
+Art. 6º.
+
+O proprietário do imóvel, ou seu sucessor a qualquer título, é responsável pela manutenção das condições de estabilidade, segurança e salubridade do imóvel, pelas benfeitorias, edificações e equipamentos nele existentes, bem como pela observância das prescrições desta lei e legislação municipal correlata.
+
+
+Art. 7º.
+
+A análise dos pedidos de emissão dos documentos previstos neste código dependerá, quando for o caso, da apresentação do título de propriedade registrado no Registro de Imóveis, respondendo o proprietário pela sua veracidade, não implicando sua aceitação por parte da Prefeitura em reconhecimento do direito de propriedade.
+
+
+##### Seção III — Do Possuidor
+
+
+Art. 8º.
+
+Considera-se possuidor a pessoa física ou jurídica, bem como seu sucessor a qualquer título, que tenha de fato o exercício pleno ou não de usar o imóvel, objeto da obra, excluídos os casos em que o possuidor detenha a posse em razão de dependência econômica ou subordinação ao proprietário.
+
+
+Art. 9º.
+
+O possuidor poderá requerer, perante a Prefeitura, licença para realizar obras e edificações no imóvel.
+
+
+Art. 10.
+
+Poderá o possuidor exercer o direito previsto no artigo anterior devendo apresentar os documentos estabelecidos em regulamento específico.
+
+
+Art. 11.
+
+O possuidor é responsável pela manutenção das condições de estabilidade, segurança e salubridade do imóvel, pelas benfeitorias, edificações e equipamentos nele existentes, bem como pela observância das prescrições desta lei e legislação municipal correlata.
+
+
+##### Seção IV — Do Profissional Habilitado
+
+
+Art. 12.
+
+Profissional habilitado é o técnico registrado junto ao órgão fiscalizador do exercício profissional, podendo atuar como pessoa física ou como responsável por pessoa jurídica, respeitadas as atribuições e limitações consignadas por aquele órgão.
+
+
+Art. 13.
+
+É obrigatória a assistência de profissional habilitado na elaboração de projetos, na execução e na implantação de obras, sempre que assim o exigir a legislação federal relativa ao exercício profissional, ou a critério da Prefeitura, ainda que a legislação federal não o exija.
+
+
+Parágrafo único
+
+O acompanhamento do processo administrativo de licenciamento da obra até sua finalização deverá ser exercido exclusivamente por profissional habilitado, autor ou coautor do projeto, por responsável técnico pela execução da obra e pelo proprietário, bem como por qualquer profissional habilitado, desde que registrado como seu representante legal.
+
+
+Art. 14.
+
+O profissional habilitado e devidamente registrado poderá atuar como autor, coautor e como executante da obra.
+
+
+§ 1º
+
+Para os efeitos desta lei, será considerado autor, ou coautor, o profissional habilitado responsável pela elaboração de projetos, que responderá, sob todas as formas, pelo conteúdo das peças gráficas, descritivas, especificações e exequibilidade de projeto.
+
+
+§ 2º
+
+Para os efeitos desta lei, será considerado executante o profissional responsável pela direção técnica das obras, desde seu início até sua total conclusão, respondendo por sua correta execução e adequado emprego de materiais, conforme o projeto aprovado na Prefeitura e em observância às normas correlatas da ABNT.
+
+
+Art. 15.
+
+É facultada a substituição ou a transferência da responsabilidade profissional, sem prejuízo da atuação do profissional anterior.
+
+
+§ 1º
+
+Quando a baixa e assunção da responsabilidade técnica ocorrer em épocas distintas, a obra deverá permanecer paralisada até que seja comunicada a assunção de nova responsabilidade.
+
+
+§ 2º
+
+A Prefeitura se exime do reconhecimento de direitos autorais ou pessoais decorrentes da aceitação de transferência de responsabilidade técnica ou da solicitação de alteração ou substituição de projeto.
+
+
+§ 3º
+
+Nos casos em que o responsável técnico estiver impossibilitado de exercê-la, a transferência de responsabilidade será obrigatória.
+
+
+#### CAPÍTULO III — NORMAS ADMINISTRATIVAS
+
+
+##### Seção I — Licença de Obras
+
+
+Art. 16.
+
+Todas as obras de construção, reconstrução, ampliação, reforma e demolição, de quaisquer edificações, ou alteração de uso, e ainda as obras de movimento de terra, como cortes, escavações e aterros, deverão ser precedidas de licenciamento por parte da Prefeitura Municipal.
+
+
+Art. 17.
+
+Independem de Licença de Obras os pequenos consertos ou reparos em prédios em que não se alterem ou modifiquem os elementos geométricos da construção, tais como:
+
+
+I –
+
+reparo e substituição de telhas, calhas, tubulações e condutores em geral;
+
+
+II –
+
+consertos em coberturas, sem modificação de suas características;
+
+
+III –
+
+impermeabilização de terraços e piscinas;
+
+
+IV –
+
+substituição de revestimentos, pisos, assoalhos, forros e esquadrias;
+
+
+V –
+
+limpeza, pintura e reparos nos revestimentos das edificações;
+
+
+VI –
+
+construção de muros, cercas e outros tipos vedação de divisa, ressalvadas aquelas construídas nas divisas de servidões estabelecidas e em área de proteção permanente;
+
+
+VII –
+
+abrigos destinados à proteção de equipamentos relacionados à infraestrutura predial.
+
+
+Parágrafo único
+
+A dispensa prevista no presente artigo não se aplica aos imóveis tombados, que dependerão da anuência prévia do IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional.
+
+
+##### Seção II — Projeto
+
+
+Art. 18.
+
+O projeto arquitetônico deverá constar, no mínimo, de:
+
+
+I –
+
+planta de situação do terreno em escala não inferior a 1:2000, com as dimensões e área do lote, indicação do Norte, distância a uma rua com denominação oficial ou designação notória, denominação da(s) rua(s) de acesso e largura(s) da(s) rua(s) confinante(s);
+
+
+II –
+
+planta de locação, em escala não inferior a 1:500, com a indicação do Norte, todos os elementos que definem a forma e as dimensões do terreno e da construção; a posição desta no terreno, com todos os afastamentos das divisas e aberturas projetadas na edificação; a indicação de afastamentos entre prédios no mesmo lote, as cotas do nível do terreno, dos passeios e das soleiras; a representação das árvores, postes e hidrantes da via pública, assim como a locação das fossas sépticas e filtros anaeróbios, quando necessários, dos cursos d’água e galerias, e a distância das margens destes às construções; limite(s) anterior(es) do terreno e alinhamento(s) definitivo(s) do(s) muro(s); alturas dos muros e larguras dos passeios frontais; vão(s) de acesso ao imóvel e rebaixamento(s) do(s) meio-fio(s); e, identificação dos extremantes conforme titulação do imóvel, curvas de nível de metro em metro.
+
+
+III –
+
+plantas baixas, cortes e elevações em escala 1:50, que indiquem claramente o uso, a área e as dimensões de cada compartimento, bem como representem e dimensionem todos os elementos referidos neste código, sendo recomendada a redução da escala até 1:100, quando se tratar de edificações de grandes dimensões;
+
+
+IV –
+
+quadro de áreas indicando a área do terreno e as áreas das construções, com discriminação das áreas cobertas e descobertas - quando existirem - e totalização para cada edificação implantada no terreno;
+
+
+V –
+
+memorial descritivo dos revestimentos, devendo estar discriminado juntamente com as peças gráficas do projeto.
+
+
+§ 1º
+
+A escala não dispensará a indicação das cotas que exprimam as dimensões dos compartimentos e das aberturas, os afastamentos das divisas e a altura da edificação, prevalecendo, em caso de divergência, as cotas apresentadas.
+
+
+§ 2º
+
+Os cortes e fachadas deverão ser apresentados em número suficiente para um perfeito entendimento do projeto e convenientemente cotados, com a representação do perfil natural do terreno e dos níveis das edificações;
+
+
+§ 3º
+
+As pranchas deverão ser numeradas e possuirão espaço reservado para os carimbos de aprovação acima do selo, e deverão atender as especificações da ABNT quanto à forma, dimensões e dobradura;
+
+
+§ 4º
+
+O carimbo das pranchas conterá, no mínimo, a discriminação do(s) uso(s) ,índices urbanísticos da zona e da(s) edificação(ões), a(s) escala(s) dos desenhos, o assunto, o(s) nome(s) do(s) proprietário(s), o endereço do imóvel e o(s) nome(s) e referências profissionais do autor e do executante;
+
+
+§ 5º
+
+Todas as folhas serão autenticadas com a assinatura do proprietário e do autor do projeto, sendo a assinatura do executante exigida por ocasião do licenciamento, e devendo figurar adiante da assinatura dos últimos seus nomes e referências profissionais.
+
+
+Art. 19.
+
+Para aprovação do projeto arquitetônico, o interessado apresentará à municipalidade a seguinte documentação:
+
+
+I –
+
+Três cópias impressas do projeto arquitetônico, conforme disposto no Art. 18 incisos I e II;
+
+
+II –
+
+Anotação ou registro de responsabilidade técnica do projeto arquitetônico, projetos complementares de engenharia, e de execução da obra;
+
+
+III –
+
+Arquivo eletrônico formato não editável, conforme incisos de I a IV do Art. 18;
+
+
+IV –
+
+Arquivo eletrônico em formato CAD, da planta de implantação;
+
+
+V –
+
+Memorial descritivo do projeto, devidamente assinado pelo profissional responsável.
+
+
+Parágrafo único
+
+O requerimento solicitando a aprovação do projeto mencionará o nome do proprietário, endereço completo e características gerais da obra, e será assinado pelo proprietário seu representante legal.
+
+
+Art. 20.
+
+O projeto para licenciamento das obras poderá ser simplificado, devendo ser apresentado impresso o descrito nos incisos I, II e IV do Art. 18.
+
+
+§ 1º
+
+Aplicam-se as disposições deste artigo às obras, ampliações e regularizações que não forem consideradas impactantes à vizinhança, ao meio ambiente ou ao trânsito, segundo critérios legais.
+
+
+§ 2º
+
+Os pedidos de regularização de edificações devem ser acompanhados de RRT ou ART devendo ser considerados, para fins de análise, o disposto no Art. 3º desta Lei.
+
+
+Art. 21.
+
+Nos projetos de ampliações, modificações ou reformas, deverão ser apresentados desenhos indicativos contendo cada tipo de intervenção na construção, com a legenda das convenções utilizadas.
+
+
+Art. 22.
+
+O projeto deverá ser apresentado sem rasuras ou emendas.
+
+
+Art. 23.
+
+Os projetos já aprovados poderão sofrer alterações desde que sejam novamente analisados e licenciados pela municipalidade.
+
+
+§ 1º
+
+O projeto de alteração a que se refere o caput do artigo deverá ser anexado ao processo administrativo que lhe deu origem.
+
+
+§ 2º
+
+Constatada qualquer irregularidade, o interessado será notificado para solução das inconsistências apresentadas.
+
+
+Art. 24.
+
+Aprovado o projeto, uma via será arquivada na Prefeitura e as outras entregues ao requerente.
+
+
+##### Seção III — Licenciamento de Obras
+
+
+Art. 25.
+
+Para obtenção da Licença de Obras, o interessado apresentará à Prefeitura os seguintes documentos, além dos estabelecidos em regulamento:
+
+
+I –
+
+Para as edificações não qualificadas como de impacto ambiental, de trânsito ou de vizinhança:
+
+
+a)
+
+requerimento;
+
+
+b)
+
+três cópias do projeto arquitetônico;
+
+
+c)
+
+título de propriedade ou comprovante de posse do imóvel junto ao cadastro municipal;
+
+
+d)
+
+RRT ou ART do(s) autor(es) de todos os projetos e do executante, devidamente registradas;
+
+
+e)
+
+certidão negativa de débitos do lote.
+
+
+II –
+
+Para as edificações qualificadas como de impacto ambiental, de trânsito ou de vizinhança:
+
+
+a)
+
+requerimento;
+
+
+b)
+
+três cópias do projeto arquitetônico;
+
+
+c)
+
+título de propriedade ou comprovante de posse do imóvel junto ao cadastro municipal;
+
+
+d)
+
+RRT ou ART do(s) autor(es) de todos os projetos e do executante, devidamente registradas;
+
+
+e)
+
+licença ambiental de instalação – LAI, quando for o caso;
+
+
+f)
+
+Licença do órgão competente para aferição do impacto sobre o trânsito, quando for o caso;
+
+
+g)
+
+Relatório de Impacto de Vizinhança aprovado pelo Município, quando for o caso;
+
+
+h)
+
+Certidão negativa de débitos do lote.
+
+
+Parágrafo único
+
+O requerimento solicitando o licenciamento da construção mencionará o nome do proprietário, endereço completo e características gerais da obra, número da inscrição imobiliária municipal do terreno e CPF ou CNPJ do proprietário, e será assinado pelo proprietário ou seu representante legal.
+
+
+Art. 26.
+
+O licenciamento para início da construção será válido pelo prazo de 1 (um) ano. Findo este prazo e não tendo sido iniciada a construção, o licenciamento perderá sua validade. Iniciada a obra, a Licença será válida por 2 (dois) anos, admitindo renovação pelo mesmo prazo, até o limite de 6 (seis) anos.
+
+
+Parágrafo único
+
+caracteriza-se como obra iniciada, ou obra nova, aquela que, aprovada pela autoridade licenciadora do Poder Executivo Municipal, de acordo com o regime urbanístico estabelecido pelo Plano Diretor Municipal, Lei de Parcelamento, Uso e Ocupação do Solo e o presente Código de Obras, tenha iniciado os serviços de locação da obra, nos casos de construção e ampliação de edificação e loteamento, e do início da remoção de qualquer elemento construtivo, no caso de reforma ou demolição.
+
+
+Art. 27.
+
+O prazo de validade da Licença de Obras poderá ser superior a 2 (dois) anos, limitado a até 5 (cinco) anos, renováveis, condicionado aos seguintes itens:
+
+
+I –
+
+Solicitação do requerente quanto à ampliação do período de vigência da Licença de Obra, no ato da abertura do processo;
+
+
+II –
+
+Pagamento das taxas da Licença, e das taxas de vistoria e de renovação anuais, referentes ao prazo de validade solicitado;
+
+
+III –
+
+Verificação de continuidade da obra, quando da vistoria anual, exercida pelo órgão competente municipal;
+
+
+Art. 28.
+
+Havendo caducidade do primeiro licenciamento, se a parte quiser retomar as obras, deverá requerer e recolher as taxas e emolumentos referentes ao novo licenciamento, desde que o projeto aprovado esteja em conformidade com a legislação atual.
+
+
+Art. 29.
+
+A Licença de Obras poderá, a qualquer tempo e assegurada ampla defesa à parte, mediante ato da autoridade competente, ser:
+
+
+I –
+
+Revogada, em atendimento e declarado relevante interesse público;
+
+
+II –
+
+Cassada, em caso de desvirtuamento, por parte do interessado, da licença concedida;
+
+
+III –
+
+Anulada, quando comprovada a ilegalidade em sua expedição, assegurada ampla defesa das partes envolvidas.
+
+
+Art. 30.
+
+Quando do licenciamento de obras não residenciais, considerar-se-á a área da unidade imobiliária, conforme Lei de Uso e Ocupação do Solo.
+
+
+Art. 31.
+
+Não poderão ser executadas Obras Públicas sem licença da Prefeitura, devendo obedecer às determinações do presente Código, ficando, entretanto, isentas de pagamento de emolumentos, as seguintes obras:
+
+
+I –
+
+Construção de edifícios públicos;
+
+
+II –
+
+Obras de qualquer natureza em propriedade da União, ou Estado e Município;
+
+
+III –
+
+Obras a serem realizadas por instituições oficiais ou paraestatais quando para a sua sede própria.
+
+
+Art. 32.
+
+O processamento do pedido de licença para as obras públicas será feito e analisado com preferência sobre quaisquer outros processos.
+
+
+Art. 33.
+
+Os contratantes ou executantes das obras públicas estão sujeitos aos pagamentos das licenças relativas ao exercício da respectiva profissão, a não ser que se trate de funcionário que deve executar, as obras, em função do seu cargo.
+
+
+Art. 34.
+
+As obras pertencentes à Municipalidade ficam sujeitas na sua execução, à obediência das determinações do presente Código, seja a unidade administrativa que as execute ou sob cuja responsabilidade estejam.
+
+
+##### Seção IV — Licenciamento de Demolições
+
+
+Art. 35.
+
+A demolição de qualquer edificação, ou parte dela, só poderá ser executada mediante licenciamento da Prefeitura.
+
+
+Art. 36.
+
+O requerimento para obtenção da Licença de demolição será instruído com os seguintes documentos, além dos estabelecidos em regulamento:
+
+
+I –
+
+Título de propriedade ou equivalente;
+
+
+II –
+
+Croqui com locação e localização do imóvel;
+
+
+III –
+
+Programa de gerenciamento de resíduos sólidos na construção civil devidamente aprovado pelo órgão municipal competente;
+
+
+IV –
+
+ART ou RRT de profissional habilitado, contendo a descrição da área a ser demolida.
+
+
+§ 1º
+
+No pedido de licença para demolição deverá constar o nome do proprietário, endereço completo e características gerais da(s) edificação(ões) a ser(em) demolida(s), número da inscrição imobiliária municipal do imóvel, CPF ou CNPJ do proprietário e o prazo de duração dos trabalhos, o qual poderá ser prorrogado, atendendo solicitação justificada do interessado, e a juízo da Prefeitura.
+
+
+§ 2º
+
+A licença para demolição será negada quando se tratar de imóvel tombado pela municipalidade.
+
+
+§ 3º
+
+As demolições com uso de explosivos deverão ser acompanhadas por profissional habilitado e membros dos órgãos fiscalizadores.
+
+
+Art. 37.
+
+O prazo para a validade da licença de demolição expedida pela prefeitura será de 01 ano a partir da emissão.
+
+
+Art. 38.
+
+Em qualquer demolição o profissional responsável ou o proprietário, conforme o caso, adotará todas as medidas necessárias à garantia das condições de segurança dos operários, dos transeuntes, das benfeitorias dos logradouros e das propriedades vizinhas.
+
+
+##### Seção V — Conclusão e Ocupação das Edificações
+
+
+Art. 39.
+
+Concluída a construção, modificação ou ampliação, a edificação só poderá ser utilizada após a obtenção do habite-se junto à municipalidade, que só o deferirá comprovada a execução da obra de acordo com os projetos e especificações aprovadas.
+
+
+Parágrafo único
+
+A conclusão da obra inclui a execução do fechamento do lote, nos casos aplicáveis, sendo que a obtenção do habite-se a que se refere o caput deste artigo, nos casos de licenciamento simplificado, não está vinculada a comprovação da execução das calçadas, estando o proprietário sujeito aos procedimentos previstos no art. 264-A e art. 264-B da Lei nº 53- A, de 27 de dezembro de 1972, que trata do Código Municipal de Posturas no caso de sua inexecução ou desconformidade.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 750, de 19 de dezembro de 2018.
+
+
+Art. 40.
+
+A vistoria para obtenção do habite-se deverá ser requerida, junto à Municipalidade, dentro do prazo de validade da Licença de Obras e após a conclusão total das obras.
+
+
+§ 1º
+
+O requerimento de vistoria deverá ser acompanhado dos seguintes documentos, além dos estabelecidos em regulamento:
+
+
+I –
+
+Laudo de vistoria e aprovação das instalações de prevenção e combate a incêndios, quando for o caso;
+
+
+II –
+
+Licença ambiental para operação – LAO, quando for o caso;
+
+
+III –
+
+Laudo de vistoria e aprovação das edificações destinadas aos usos de saúde e de educação, pelos órgãos competentes;
+
+
+IV –
+
+Baixa da RRT ou ART de execução da obra ou laudo emitido pelo responsável técnico da obra atestando a conclusão das instalações prediais, registrado no Conselho Profissional;
+
+
+§ 2º
+
+No requerimento de vistoria deverá ser informado, no mínimo, os seguintes dados: o número do processo administrativo que lhe deu origem, o CPF ou CNPJ do proprietário e o número da inscrição imobiliária do imóvel no cadastro municipal, endereço da obra, conforme modelo inserido em regulamento.
+
+
+§ 3º
+
+A vistoria a que se refere o caput deste artigo será vinculada somente aos aspectos descritos no projeto aprovado, conforme Art. 18, Incisos I e II, observando exclusivamente os parâmetros apresentados no Art. 3º.
+
+
+§ 4º
+
+Nos casos em que o licenciamento for exercido de forma simplificada, para a emissão do habite-se, é necessária a conclusão da edificação, bem como de seus elementos que não estejam descritos nos projetos aprovados.
+
+
+#### CAPÍTULO IV — INFRAÇÕES E PENALIDADES
+
+
+##### Seção I — Disposições Gerais
+
+
+Art. 41.
+
+As infrações e penalidades cometidas contra o Código de Obras do Município ficam assim estabelecidas, e podem ser aplicadas cumulativamente com a Legislação de Uso e Ocupação do solo municipal.
+
+
+Art. 42.
+
+As infrações às disposições deste código serão punidas com as seguintes penalidades:
+
+
+I –
+
+multa;
+
+
+II –
+
+embargo;
+
+
+III –
+
+interdição;
+
+
+IV –
+
+demolição.
+
+
+Parágrafo único
+
+A aplicação das penas previstas não dispensa o atendimento às disposições deste código bem como não desobriga o infrator de ressarcir danos resultantes da infração, na forma da legislação vigente.
+
+
+##### Seção II — Autos de Infração e de Multa
+
+
+Art. 43.
+
+A inobservância de qualquer dispositivo legal ensejará a lavratura do competente auto de infração, com notificação do infrator para, no prazo de 15 (quinze) dias corridos, contados do recebimento ou da publicação, apresentar defesa à autoridade competente.
+
+
+§ 1º
+
+A notificação far-se-á ao infrator, pessoalmente ou por via postal, com aviso de recebimento, ou, ainda, por edital, nas hipóteses de recusa do recebimento da notificação ou não localização do notificado.
+
+
+§ 2º
+
+Para os efeitos desta lei considera-se infrator o proprietário ou possuidor do imóvel, e, ainda, quando for o caso, o autor dos projetos e/ou o executante das obras e serviços.
+
+
+§ 3º
+
+Respondem, também, pelo proprietário, os seus sucessores a qualquer título e o possuidor do imóvel.
+
+
+§ 4º
+
+Na ausência de defesa ou sendo esta julgada improcedente será imposta multa pecuniária pelo órgão municipal fiscalizador.
+
+
+§ 5º
+
+A defesa prevista no caput deste artigo deverá ser protocolada pelo interessado no órgão municipal fiscalizador.
+
+
+§ 6º
+
+Tratando-se de obra em condomínio horizontal ou vertical o síndico também deverá ser cientificado da infração.
+
+
+Art. 44.
+
+Imposta a multa, o infrator será notificado para que proceda o pagamento no prazo de 30 (trinta) dias corridos, cabendo recurso a ser interposto, no mesmo prazo, no órgão municipal fiscalizador que emitiu a multa.
+
+
+Parágrafo único
+
+Negado provimento ao recurso - quando existir- e na falta de recolhimento no prazo estabelecido, o valor da multa será inscrito em dívida ativa e encaminhado para execução fiscal.
+
+
+Art. 45.
+
+As multas administrativas impostas na conformidade da presente lei, não pagas nas épocas próprias, ficam sujeitas à atualização monetária e acréscimo de juros moratórios contados do mês seguinte ao do vencimento, de acordo com a legislação tributária do município, sem prejuízo, quando for o caso, dos honorários advocatícios, custas e demais despesas judiciais, nos termos em que dispuser a legislação municipal pertinente.
+
+
+Art. 46.
+
+A aplicação das multas pecuniárias estabelecidas nesta lei não exime o infrator das demais sanções e medidas administrativas ou judiciais cabíveis, inclusive a apuração de sua responsabilidade pelos crimes de desobediência contra a administração pública, previstos na legislação penal.
+
+
+Art. 47.
+
+Pelas infrações às disposições deste código serão aplicadas ao autor, executante e/ou proprietário, conforme o caso, as multas, vinculadas à Unidade Padrão Fiscal (UPF) do município de Porto Velho, apresentadas na tabela do Anexo Único, desta lei.
+
+
+Parágrafo único
+
+O não atendimento ao embargo caracteriza infração continuada, cabendo multas diárias de 10 (dez) UPFs do município de Porto Velho, sem prejuízo das providências administrativas ou judiciais cabíveis.
+
+
+Art. 48.
+
+Na reincidência, a multa será aplicada em dobro, progressivamente.
+
+
+Parágrafo único
+
+Considera-se reincidência nova violação do mesmo dispositivo legal.
+
+
+Art. 49.
+
+O pagamento da multa não sana a infração, ficando o infrator na obrigação de legalizar, regularizar, demolir, desmontar ou modificar as obras executadas em desacordo com este código.
+
+
+##### Seção III — Embargo
+
+
+Art. 50.
+
+Poderá ser imposto o embargo sempre que constatada irregularidade na execução de obra, seja pelo desatendimento às disposições deste código ou pelo descumprimento de normas técnicas ou administrativas na construção licenciada, principalmente nos seguintes casos:
+
+
+I –
+
+execução de obras ou instalação de equipamentos sem a Licença de Obras, quando necessário;
+
+
+II –
+
+inobservância de qualquer prescrição essencial do projeto aprovado ou da Licença de Obras;
+
+
+III –
+
+realização de obra sem a responsabilidade de profissional habilitado, quando indispensável;
+
+
+IV –
+
+quando a execução da obra e/ou instalação dos equipamentos estiver(em) colocando em risco a segurança pública, dos imóveis vizinhos e/ou do próprio pessoal empregado nos diversos serviços.
+
+
+Parágrafo único
+
+A fiscalização efetivará o embargo no caso de obra ou instalação licenciada, somente quando recomendado em laudo emitido após vistoria efetuada por profissional da área de engenharia ou arquitetura, para tal fim designado.
+
+
+Art. 51.
+
+A execução, alteração ou eliminação de redes pluviais serão embargadas quando não estiverem autorizadas pela municipalidade.
+
+
+Art. 52.
+
+O embargo só será levantado quando forem eliminadas as causas que o determinaram.
+
+
+##### Seção IV — Interdição
+
+
+Art. 53.
+
+Uma edificação ou qualquer de suas dependências poderá ser interditada imediatamente, com impedimento de sua ocupação, quando oferecer iminente perigo de caráter público.
+
+
+Art. 54.
+
+A interdição prevista no artigo anterior será imposta por escrito, mediante ato do órgão fiscalizador, sempre que indicado como necessário em laudo emitido após vistoria efetuada por profissional da área de engenharia ou arquitetura para tal fim designado.
+
+
+##### Seção V — Demolição Compulsória
+
+
+Art. 55.
+
+A demolição total ou parcial de uma edificação poderá ser imposta nos seguintes casos:
+
+
+I –
+
+quando executados sem licenciamento ou em desacordo com o projeto licenciado, ou ainda desobedecendo os alinhamento e/ou nivelamento fornecidos;
+
+
+II –
+
+quando forem julgados em risco iminente de caráter público;
+
+
+III –
+
+quando construídos sobre canais ou redes pluviais existentes, sem anuência do órgão responsável pela rede geral de drenagem do município.
+
+
+Art. 56.
+
+A demolição será precedida de vistoria realizada por profissional da área de engenharia ou arquitetura, pertencente ou não ao quadro de servidores do município, designado pelo órgão competente da municipalidade.
+
+
+Parágrafo único
+
+Todos os custos e serviços referentes ao reforço estrutural e à demolição serão de responsabilidade exclusiva do proprietário ou possuidor a qualquer título.
+
+
+#### CAPÍTULO V — PARÂMETROS DAS CONSTRUÇÕES
+
+
+##### Seção I — Parâmetros para Análise de Projeto Arquitetônico
+
+
+Art. 57.
+
+Será permitida a construção de marquises, toldos e berais nas edificações, sobre logradouros públicos, com largura máxima de 2,50 m e altura mínima de 2,80 m, desde que não interfiram na arborização, mobiliário e equipamentos urbanos projetados e instalados e desde que não ultrapassem o limite da faixa de passeio da calçada.
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 598, de 28 de janeiro de 2016.
+
+
+Art. 58.
+
+Os beirais com até 1,00 de comprimento não serão computados como área construída para fins de recuo.
+
+
+§ 1º
+
+Fica estabelecido a altura total da edificação é aquela cuja dimensão vertical pode ser expressa em números de pavimentos, contados a partir do térreo, inclusive, ou em metros lineares, considerando a distância do nível do pavimento térreo até o ponto mais alto da cobertura habitável.
+
+
+§ 2º
+
+As áreas destinadas à moradia, estacionamento de veículos, serviço/comércio, ambientes de apoio como depósito e almoxarifado, área destinada ao lazer e similares, serão computadas na altura total da edificação.
+
+
+§ 3º
+
+Em caso de áreas destinadas a infraestrutura predial – Chaminé, dutos de exaustão, caixa d'água, casa de máquinas, platibanda, frontões e similares, não serão computadas na altura total da edificação.
+
+
+##### Seção II — Parâmetros Edilícios
+
+
+Art. 59.
+
+Qualquer movimento de terra deverá ser executado com o devido controle tecnológico, a fim de assegurar sua estabilidade, prevenir erosões e garantir a segurança dos imóveis e logradouros limítrofes, bem como não impedir ou alterar o curso natural de escoamento de águas pluviais e fluviais.
+
+
+Art. 60.
+
+Os terrenos, ao receberem edificações, deverão ser convenientemente preparados para dar escoamento às águas pluviais e de infiltração com adoção de medidas de controle da erosão.
+
+
+Art. 61.
+
+As águas pluviais provenientes das estruturas definidas deverão ser esgotadas dentro dos limites do lote, não sendo permitido o despejo em lotes vizinhos ou sobre os logradouros públicos.
+
+
+Parágrafo único
+
+Não será permitido o despejo de águas pluviais ou servidas, inclusive daquelas provenientes do funcionamento de equipamentos, sobre as calçadas e os imóveis vizinhos, devendo serem conduzidas por canalização sob o passeio à rede coletora própria, de acordo com as normas emanadas do órgão competente.
+
+
+Art. 62.
+
+Toda edificação deverá possuir reservatório de água próprio.
+
+
+Parágrafo único
+
+Nas edificações com mais de uma unidade independente que tiverem reservatório de água comum, o acesso ao mesmo e ao sistema de controle de distribuição se fará, obrigatoriamente, através de partes comuns.
+
+
+Art. 63.
+
+A instalação de dispositivo hidráulico para controle do consumo de água para cada unidade residencial autônoma deve estar conforme regulamento dos serviços públicos de águas e esgotos sanitários do órgão concessionário de Rondônia.
+
+
+Art. 64.
+
+As instalações sanitárias e os compartimentos a estas destinadas deverão observar os padrões estabelecidos pelas normas e legislações específicas referentes à acessibilidade a das edificações, mobiliário, espaços e equipamentos urbanos.
+
+
+Art. 65.
+
+Toda edificação que não seja servida por rede pública de esgotos sanitários deverá possuir sistema de tratamento e destinação de esgotos, individual ou coletivo próprio, projetado e construído de acordo com as normas da ABNT e aprovado pelos órgãos competentes.
+
+
+Art. 66.
+
+O dimensionamento dos demais ambientes da edificação deverá ser estabelecido segundo o mobiliário previsto, devendo permitir a circulação livre e desobstruída dos usuários.
+
+
+Art. 67.
+
+Nas edificações de uso coletivo haverá, obrigatoriamente, interligação entre todos os pavimentos através de escadas ou rampas.
+
+
+Art. 68.
+
+Na construção das edificações será obrigatória a arborização do passeio segundo as normas dos órgãos municipais competentes.
+
+
+Art. 69.
+
+Será permitida a instalação de equipamentos e abrigos destinados à infraestrutura predial na área relativa ao recuo frontal.
+
+
+Art. 70.
+
+As edificações deverão ser providas de instalações e equipamentos de proteção contra incêndio aprovadas pelo Corpo de Bombeiros, quando necessário.
+
+
+Art. 71.
+
+A fabricação e instalação de escadas e/ou esteiras rolantes, elevadores, Instalações de gás, rede telefônica, equipamentos para renovação e condicionamento de ar, instalações elétricas, instalações hidrosanitárias, instalações para escoamento de águas pluviais e de infiltração e de qualquer tipo de equipamento geral destinado à infraestrutura predial deverão obedecer às normas da ABNT bem como as normas de segurança atinentes.
+
+
+Art. 72.
+
+Deverá ser prevista nas edificações a construção de compartimento para coleta seletiva do lixo, com fácil acesso e revestimento em material lavável e ponto d’água.
+
+
+Art. 73.
+
+As edificações deverão obrigatoriamente possuir local para guarda de lixo, dotadas de capacidade e materiais construtivos necessários e suficientes para a armazenagem total dos resíduos sólidos coletados pelo condomínio, devendo ali permanecer até a sua coleta, garantindo a salubridade das edificações.
+
+
+Parágrafo único
+
+Os locais para guarda de lixo definidos no caput, deverão localizar-se em área que permita fácil acesso para coleta.
+
+
+###### Subseção I — Unidades Habitacionais
+
+
+Art. 74.
+
+As unidades habitacionais de qualquer tipo deverão dispor, no mínimo, de ambientes destinados a instalações sanitárias e repouso, devendo ser atendidas as normas de desempenho das edificações, e suas alterações, estabelecidas pela ABNT.
+
+
+§ 1º
+
+Os ambientes das habitações deverão apresentar espaços compatíveis com as necessidades do usuário.
+
+
+§ 2º
+
+As edificações de uso habitacional unifamiliar e multifamiliar, deverão possuir dimensionamento mínimo dos compartimentos internos que garantam conforto dos seus usuários, atendidas a normas de conforto das edificações e ergonomia, sendo suas definições de responsabilidade exclusiva do profissional habilitado executor do projeto arquitetônico ou do executor da obra, quando for o caso.
+
+
+Art. 75.
+
+O pé direito mínimo para as edificações deverá atender aos critérios estabelecidos pela norma da ABNT para esse fim.
+
+
+###### Subseção II — Edificações de Uso Coletivo
+
+
+Art. 76.
+
+Os cinemas, teatros, auditórios, centros de convenções, boates, discotecas e estabelecimentos congêneres, igrejas e templos deverão possuir isolamento e condicionamento acústico e sistema de segurança adequados, em conformidade com as NBR pertinentes e com a legislação de segurança das edificações.
+
+
+###### Subseção III — Edificações para estabelecimentos de assistência à saúde
+
+
+Art. 77.
+
+Consideram-se edificações para usos de saúde as destinadas à prestação de serviços de assistência à saúde em geral, inclusive veterinária, com ou sem internação.
+
+
+Art. 78.
+
+As edificações destinadas à assistência à saúde deverão ser executadas de acordo com a legislação pertinente com aprovação emanada pela autoridade responsável pela vigilância sanitária.
+
+
+###### Subseção IV — Edificações para Usos Educacionais
+
+
+Art. 79.
+
+As edificações para usos educacionais deverão obedecer às normas federal, estadual e municipal específicas, com aprovação emanada pela autoridade responsável para o licenciamento de instituições educacionais.
+
+
+###### Subseção V — Edificações para usos de comércio varejista e atacadistas de produtos perigosos
+
+
+Art. 80.
+
+Além das exigências desta lei, as edificações ou instalações destinadas a varejistas ou atacadistas de produtos perigosos — inflamáveis, explosivos, produtos químicos agressivos — deverão obedecer às normas da ABNT e as normas especiais emanadas das autoridades competentes, dentre elas o Ministério do Exército e ANP – Agencia Nacional de Petróleo e , quando for o caso, o Corpo de Bombeiros.
+
+
+###### Subseção VI — Edificações para Usos Industriais
+
+
+Art. 81.
+
+As edificações destinadas ao uso industrial, além das exigências deste código que lhes forem aplicáveis, deverão atender às disposições da Consolidação das Leis do Trabalho e as normas federal, estadual e municipal específicas.
+
+
+Parágrafo único
+
+Visando o controle da qualidade de vida da população dependerão de aprovação e aceitação, por parte do órgão estadual competente, as indústrias que produzam resíduos líquidos, sólidos ou gasosos potencialmente poluidores.
+
+
+##### Seção III — Parâmetros para vistoria da obra
+
+
+Art. 82.
+
+Nas obras ou serviços que se desenvolverem a mais de 6,00m (seis metros) de altura será obrigatória a execução de andaimes, obedecidas, as normas técnicas atinentes.
+
+
+Art. 83.
+
+Nenhuma construção, reforma ou demolição poderá ser realizada sem a implantação de tapumes, em toda a sua frente, e que não obstrua o passeio público.
+
+
+Art. 84.
+
+Durante as vistorias para renovação da Licença de Obras ou concessão de habite-se, as possíveis divergências entre os valores de projeto e as medidas conferidas em campo, não poderão ser superiores a 3% em relação às cotas apresentadas em projeto.
+
+
+Parágrafo único
+
+Caso as divergências identificadas na vistoria excedam a 3%, caberá apresentação de projeto de AS BUILT à apreciação do município.
+
+
+Art. 85.
+
+A vistoria para a concessão de habite-se observará exclusivamente os parâmetros definidos no Artigo 3º desta Lei.
+
+
+#### CAPÍTULO VI — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+
+Art. 86.
+
+Os projetos cujos requerimentos sejam protocolados até a data de início da vigência deste código, poderão ser analisados de acordo com a legislação anterior ou pelas normas da presente lei, de modo exclusivo.
+
+
+Art. 87.
+
+Os casos omissos ou não contemplados por esta legislação serão resolvidos pelo órgão responsável pela gestão urbana do Município.
+
+
+Art. 88.
+
+Qualquer alteração deste Código de Obras, seja esta de caráter total ou parcial, deverá ser precedido de estudo técnico justificativo emanado do poder executivo municipal.
+
+
+Art. 89.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei nº 63 de 13 de abril de 1973 e suas alterações.
+
+
+**MAURO NAZIF RASUL**
+
+Prefeito
+
+MARCELO HAGGE SIQUEIRA
+
+Secretário Municipal de Fazenda
+
+CARLOS DOBBIS
+
+Procurador Geral do Município
+
+
+Anexo Único
+
+<table><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col><col></colgroup><colgroup><col></colgroup><tbody><tr><td colspan="10"><p><strong>ANEXO ÚNICO DO CÓDIGO DE OBRAS DO MUNICÍPIO DE PORTO VELHO INFRAÇÕES E PENALIDADES</strong></p></td></tr></tbody><tbody><tr><td colspan="10"><p> </p></td></tr></tbody><tbody><tr><td rowspan="2"><p><strong>ITEM</strong></p></td><td rowspan="2"><p><strong>DESCRIÇÃO DAS INFRAÇÕES</strong></p></td><td rowspan="2"><p><strong>MULTAS (VALOR EM UPF)</strong></p></td><td colspan="4"><p><strong>INFRATOR</strong></p></td><td colspan="3" rowspan="2"><p><strong>OUTRAS PENALIDADES</strong></p></td></tr></tbody><tbody><tr><td><p><strong>POSSUIDOR A QUALQUER TÍTULO</strong></p></td><td colspan="2"><p><strong>AUTOR DO PROJETO</strong></p></td><td><p><strong>RESPONSÁVEL TÉCNICO DA OBRA</strong></p></td></tr></tbody><tbody><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p> </p></td></tr></tbody><tbody><tr><td><p><strong>1</strong></p></td><td><p>Aquele que iniciar obras de construção, reconstrução, reforma, acréscimo, e demolição nas zonas urbanas do Município, sem possuir Licença de Obra ou processo protocolado junto ao setor competente de licenciamento, ficará sujeito a aplicação de penalidades: </p></td><td colspan="8"><p> </p></td></tr></tbody><tbody><tr><td><p>1.1</p></td><td><p>Se a obra for, de pessoa física ou jurídica, destinada a uso residencial unifamiliar ou conjugada, por unidade autônoma; </p></td><td><p>10</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p>1.2</p></td><td><p>Se a obra for de pessoa física ou jurídica destinada a uso residencial, multifamiliar horizontal ou vertical, por unidade autônoma;</p></td><td><p>20</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p>1.3</p></td><td><p>Se a obra for de pessoa física ou jurídica destinada ao uso comercial próprio.</p></td><td><p>15</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p>Embargo da obra; Cassação da Licença de Obras. </p></td></tr></tbody><tbody><tr><td><p>1.4</p></td><td><p>Se a obra for, de pessoa física ou jurídica, destinada ao uso comercial coletivo, por unidade autônoma; </p></td><td><p>30</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p>1.5</p></td><td><p>Se a Obra for de uso misto próprio</p></td><td><p>15</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p>Embargo da obra</p></td></tr></tbody><tbody><tr><td><p>1.6</p></td><td><p>Se a obra for de uso misto com maior parte da edificação destinada a comércio<strong>, </strong>por unidade autônoma.</p></td><td><p>20</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p>Embargo da obra; Cassação da Licença de Obras. </p></td></tr></tbody><tbody><tr><td><p>1.7</p></td><td><p>Se a obra for de uso misto com maior parte da edificação destinada a comércio<strong>, </strong> por unidade autônoma.</p></td><td><p>20</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p><strong>2</strong></p></td><td><p>Aquele que for notificado a prestar esclarecimentos sobre projeto arquitetônico incompleto, com pequenas inexatidões ou equívocos, ou que tiver que complementar documentação, e não o fizer no prazo estabelecido</p></td><td><p>20</p></td><td><p>X</p></td><td colspan="2"><p>X</p></td><td><p>X</p></td><td colspan="3"><p>Embargo temporário da Obra; indeferimento do licenciamento se persistir a falha processual.</p></td></tr></tbody><tbody><tr><td><p><strong>3</strong></p></td><td><p>Aquele que fizer modificações ou alterações na obra, diferindo do projeto arquitetônico aprovado, sem apresentar ao Órgão licenciador do Município projeto modificativo para aprovação</p></td><td><p>20</p></td><td><p>X</p></td><td colspan="2"><p> </p></td><td><p>X</p></td><td colspan="3"><p>Embargo imediato da obra até a aprovação do <em>As Built</em></p></td></tr></tbody><tbody><tr><td><p><strong>4</strong></p></td><td><p>Aquele que executar qualquer tipo de obra de construção civil ou demolição sem observância aos requisitos mínimos de segurança abaixo indicado ficará sujeito a aplicação de penalidades:</p></td><td colspan="8"><p> </p></td></tr></tbody><tbody><tr><td><p>4.1</p></td><td><p>Colocação de tapume nos lotes vizinhos a logradouro públicos</p></td><td><p>30</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p>X</p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p>4.2</p></td><td><p>Colocação de andaime protetor de obra, do tipo bandeja salva vida</p></td><td><p>50</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p>X</p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p>4.3</p></td><td><p>Colocação de tela ou rede de proteção em obras civis verticais</p></td><td><p>50</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p>X</p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p>4.4</p></td><td><p>Colocação de placa indicativa da obra</p></td><td><p>20</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p>X</p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p><strong>5</strong></p></td><td><p>Aquele que legalmente habilitado para exercer responsabilidade técnica por elaboração ou execução de projeto arquitetônico não estiver registrado no cadastro econômico do Município, ficará impedido de apresentar projetos junto ao Órgão Licenciador Municipal. </p></td><td><p>20</p></td><td colspan="2"><p> </p></td><td><p> </p></td><td><p>X</p></td><td colspan="2"><p>-</p></td><td><p> </p></td></tr></tbody><tbody><tr><td colspan="8"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="8"><p> </p></td><td colspan="2"><p> </p></td></tr></tbody><tbody><tr><td colspan="9"><p><strong>ANEXO ÚNICO DO CÓDIGO DE OBRAS DO MUNICÍPIO DE PORTO VELHO INFRAÇÕES E PENALIDADES</strong></p></td><td><p> </p></td></tr></tbody><tbody><tr><td colspan="10"><p> </p></td></tr></tbody><tbody><tr><td rowspan="2"><p><strong>ITEM</strong></p></td><td rowspan="2"><p><strong>DESCRIÇÃO DAS INFRAÇÕES</strong></p></td><td rowspan="2"><p><strong>MULTAS (VALOR EM UPF)</strong></p></td><td colspan="4"><p><strong>INFRATOR</strong></p></td><td colspan="3" rowspan="2"><p><strong>OUTRAS PENALIDADES</strong></p></td></tr></tbody><tbody><tr><td><p><strong>POSSUIDOR A QUALQUER TÍTULO</strong></p></td><td colspan="2"><p><strong>AUTOR DO PROJETO</strong></p></td><td><p><strong>RESPONSÁVEL TÉCNICO DA OBRA</strong></p></td></tr></tbody><tbody><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td colspan="2"><p> </p></td><td><p> </p></td><td colspan="3"><p> </p></td></tr></tbody><tbody><tr><td><p><strong>6</strong></p></td><td><p>Aquele que como autor ou responsável Técnico por execução de obra não tiver registro local no Conselho de Fiscalização Profissional competente</p></td><td><p>30</p></td><td colspan="2"><p> </p></td><td><p>X</p></td><td><p>X</p></td><td colspan="3"><p>Embargo da Obra até a regularização junto ao Conselho de Fiscalização Profissional</p></td></tr></tbody><tbody><tr><td><p><strong>7</strong></p></td><td><p>Impedir ou dificultar o trânsito de pedestres nas calçadas, com a colocação de materiais de construção ou com tapume fora de alinhamento</p></td><td><p>20</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p> </p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p><strong>8</strong></p></td><td><p>Aquele que fizer escavações no terreno sem proteger dos deslocamentos de terra dos prédios lindeiros e a via pública</p></td><td><p>40</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p> </p></td><td colspan="3"><p>-</p></td></tr></tbody><tbody><tr><td><p><strong>9</strong></p></td><td><p>Aquele que ao construir prédios, fundações e escavações sem observâncias das normas de proteção estabelecidas no Código de Obras e nas Normas técnicas da ABNT, e causem danos nas estruturas dos imóveis lindeiros</p></td><td><p>500</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p>X</p></td><td colspan="3"><p>Embargo imediato da obra pelo tempo necessário a execução das ações de reparação, sendo permitido somente trabalhos que corrijam ou impeçam o aumento de danos ao patrimônio público ou de terceiros; Notificação de advertência ao responsável técnico pela execução da obra.</p></td></tr></tbody><tbody><tr><td><p><strong>10</strong></p></td><td><p>Aquele que ao construir fundações sem responsável técnico e fiel observância as normas construtivas da ABNT</p></td><td><p>500</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p> </p></td><td colspan="3"><p>Embargo</p></td></tr></tbody><tbody><tr><td><p><strong>11</strong></p></td><td><p>Aquele que edificar sem observar o alinhamento do terreno e lançar nas áreas lindeiras, as águas pluviais provenientes do seu telhados e balcões </p></td><td><p>10</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p> </p></td><td colspan="3"><p>Embargo</p></td></tr></tbody><tbody><tr><td><p><strong>12</strong></p></td><td><p>Aquele que impedir ou dificultar a ação de Fiscal Municipal de Obra no uso de suas atribuições em horário de expediente</p></td><td><p>30</p></td><td colspan="2"><p>X</p></td><td><p> </p></td><td><p>X</p></td><td colspan="3"><p>Embargo</p></td></tr></tbody></table>

@@ -1,0 +1,31 @@
+---
+titulo: "Lei Ordinária nº 582, de 09 de dezembro de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "582"
+data: "1985-12-09"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/4434"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1985/4434/lei_no_582_de_9_de_dezembro_de_1985.pdf"
+sha256_fonte: "5586859b88e47306f9f48b96ab3b3c02af3962bda0b3e4b3ae7a8dbad06515d2"
+sha256_texto: "f53052c87481e266ab3c3752a8b2fe0d43aec9454ac924f959687dda687112c8"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 582, de 09 de dezembro de 1985
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+MUNICÍPIO DE IVAIPORÃ ESTADO DO PARANÁ
+
+LEI N° 582/85 A CÂVARA FUTICIPAL DE IVAIPORÃ, ESTADO DO PA RANA, APROVOU E EU PREFEITO NUNICIPAL, VETO A SEGUINTE LEI: SUMULA: ALTERA A DENONINAÇÃO DA " CRECHE ARLETE STIER TEIXEIRA ", SITUA DA NA AV. BRASIL, PARA " CRECHE JOSÉ NESSIAS ", E DA OUTRAS PRO VIDENCIAS.
+
+ART. 1° - FICA ALTERADA A DENOMINAÇÃO DA CRECHE ARLETE STIER TEIXEIRA SITUADA NA AV. BRASIL, PARA " CRECHE JOSE PESSIAS ".
+
+ART. 2% -'O PODER EXECUTIVO DE IVAIPURÃ, APÓS PROMULGAR A PRESENTE LEI/ TERA 30 ( TRINTA ) DIAS, PARA AFIXAR NO LOCAL, PLACA INDICATI VA, COM O NONE DO HOMENAGEADO,
+
+ART. 3° - REVOGADAS AS DISPOSIÇÕES EM CONTRARIO, A PRESENTE LEI, ENTRARA EM VIGOR PA DATA DE SUA PUBLICAÇÃO. PAÇO HUNICIPAL 19 DE NOVERBRO, XXV DA INSTALAÇÃO, GABINETE DO PREFEITO, AOS NOVE DIAS DO MES DE DEZEMBRO DO ANO DE NIL NOVECENTOS E OI TENTA E CINCO, FLAVIO PEREIRA TEIXEIRA PREFEITO MUNICIPAL
+

@@ -1,0 +1,135 @@
+---
+titulo: "Lei Complementar nº 101, de 28 de abril de 2000"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "101"
+data: "2000-04-28"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/101"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1794/text"
+sha256_fonte: "07538382e2fd5cd86fa956e6a8d4b06960610ccf80ad28d9b4e5b4df571d0632"
+sha256_texto: "1794a66c565cc222ccaf8cbf960376210745679b969189002bae71e80860fe16"
+capturado_em_fonte: "2026-10-27T21:49:59.762286-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 101, de 28 de abril de 2000
+
+“Concede remissão do Imposto Predial e Territorial Urbano -IPTU”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuiçãoque lhe éconferida no inciso IV,do artigo 87,da Lei Orgânicado Município de Porto Velho.
+
+**FAÇO SABER**, que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+A remissão total ou parcial do Imposto Predial e Territorial Urbano – IPTU será concedida, nos termos desta Lei, por despacho fundamentado da autoridade administrativa, atendendo, concomitantemente, os seguintes requisitos:
+
+
+I –
+
+quanto ao sujeito passivo:
+
+
+a)
+
+possua um único imóvel no Município de Porto Velho;
+
+
+b)
+
+perceba como única renda brutal mensal valor não superior a um salário mínimo;
+
+
+c)
+
+tenha prole de dois ou mais filhos com idades inferiores a dezesseis anos;
+
+
+II –
+
+quanto ao imóvel:
+
+
+a)
+
+esteja situado em área do Município que não disponha de asfalto, esgoto, água encanada e iluminação pública;
+
+
+b)
+
+esteja efetivamente ocupado pelo próprio sujeito passivo ou seus familiares, sendo utilizado exclusivamente para residência.
+
+
+III –
+
+quanto ao imposto
+
+
+a)
+
+tenha valor não superior a três UPF;
+
+
+b)
+
+seja referente ao ano em que ocorrer o pedido de remissão.
+
+
+§ 1º
+
+A remissão total será concedida quando o contribuinte tiver prole superior a quatro filhos menores de dezesseis anos e valor do imposto não ultrapassar a uma UPF, satisfeitas os demais requisitos do presente artigo.
+
+
+§ 2º
+
+A remissão parcial será de cinqüenta por cento do valor do imposto, quando os requisitos dos incisos I, II e III do caput deste artigo estiverem presentes.
+
+
+Art. 2º.
+
+A comprovação das condições de beneficiário da remissão poderá ser através de documentação ou por diligencia de agente publico credenciado.
+
+
+Art. 3º.
+
+O ato administrativo que conceder a remissão poderá a qualquer tempo ser anulado mediante comprovação de que as condições exigidas pela presente Lei Complementar não foram observadas.
+
+
+Art. 4º.
+
+Compete ao Executivo Municipal regulamentar a presente Lei Complementar no prazo de trinta dias.
+
+
+Art. 5º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, tendo vigência ate o dia 31 de dezembro de 2000.
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, especialmente a Lei nº 1.140, de 22 de dezembro de 1993 e o Decreto nº 5.329, de 17 de março de 1994.
+
+
+**CARLOS ALBERTO DE AZEVEDO CAMURÇA**
+
+**Prefeito do Município**
+
+WALDIRO TEOBALDO GRABNER
+
+Secretário Municipal de Fazenda
+
+JOÃO RICARDO VALLE MACHADO
+
+Procurador Geral do Município
+

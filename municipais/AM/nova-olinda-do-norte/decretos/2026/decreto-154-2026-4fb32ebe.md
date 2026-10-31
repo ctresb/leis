@@ -1,0 +1,33 @@
+---
+titulo: "DECRETO N.º 154/2026, DE 13 DE FEVEREIRO DE 2026"
+uf: "AM"
+municipio: "NOVA OLINDA DO NORTE"
+tipo: "Decreto"
+numero: "154"
+data: 2026-02-13
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 19/02/2026"
+data_publicacao: 2026-02-19
+codigo_identificador: "4FB32EBE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118800_2026-02-18_dcbe55cd1bdfa54e51414ec814131bf0.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N.º 154/2026, DE 13 DE FEVEREIRO DE 2026
+
+DECRETO N.º 154/2026, DE 13 DE FEVEREIRO DE 2026
+NOMEIA o(a) Senhor(a) ANDRESON DE SOUZA
+SALES, aprovado(a) no Concurso Público nº.
+003/2023, para provimento de cargo efetivo de
+pessoal da Secretaria Municipal de Educação do
+Município de Nova Olinda do Norte – AM,
+contratado sob o regime estatutário, e outorga outras
+providências.
+
+ARACI RODRIGUES DA CUNHA
+Prefeita Municipal de Nova Olinda do Norte
+MARIA DO SOCORRO FERREIRA BELEM
+Secretária Municipal de Administração e Finanças
+Publicado por:
+Aldriene Garcia Freire

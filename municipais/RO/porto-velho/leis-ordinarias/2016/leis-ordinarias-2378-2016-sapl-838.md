@@ -1,0 +1,315 @@
+---
+titulo: "Lei nº 2.378, de 16 de dezembro de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2378"
+data: "2016-12-16"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/838"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2277/text"
+sha256_fonte: "bf9da0539cd10e8b5c1d50feb6d75c6cee652816d132ff2c86825d63d1609e1d"
+sha256_texto: "178693d6cac4973be557fb03d3677d198a91d05a6ad044a59eea08569a43dd6b"
+capturado_em_fonte: "2026-10-27T20:44:50.364761-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.378, de 16 de dezembro de 2016
+
+“Reorganiza o Conselho de Alimentação Escolar Municipal – CAE, do Município de Porto Velho, e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO,** no uso das atribuições que lhe são conferidas no inciso IV, § 1º, do artigo 65, e no inciso III, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte,
+
+**LEI:**
+
+
+Art. 1º.
+
+O Conselho de Alimentação Escolar Municipal – CAE, do Município de Porto Velho, criado pelo inciso XVII, do art. 233 da Lei Orgânica e pela Lei N° 1.288, de 21 de março de 1997, com alterações procedidas pela Lei N° 1.423, de 30 de março de 2001, é Órgão Colegiado vinculado à Secretaria Municipal de Educação, de caráter fiscalizador, permanente, deliberativo e de assessoramento ao Município, no gerenciamento e controle da execução dos Programas de Alimentação Escolar, no âmbito da Rede Pública Municipal de Ensino e passa a ser reorganizado pelo disposto nesta Lei.
+
+
+Parágrafo único
+
+O Conselho de Alimentação Escolar Municipal - CAE, observará em sua estrutura e funcionamento as normas específicas estabelecidas pelo o Programa Nacional de Alimentação Escolar - PNAE pela União e pelo Fundo Nacional de Desenvolvimento da Educação – FNDE/MEC e outras que vierem a ser editadas pelo Município para o Programa Municipal de Alimentação Escolar - PMAE.
+
+
+Art. 2º.
+
+Ao Conselho de Alimentação Escolar Municipal – CAE compete:
+
+
+I –
+
+acompanhar, monitorar e fiscalizar o cumprimento das diretrizes estabelecidas na forma do art. 2º da Lei n° 11.947, de 16 de junho de 2009;
+
+
+II –
+
+acompanhar e fiscalizar a aplicação dos recursos destinados à alimentação escolar no âmbito da Rede Pública Municipal de Ensino;
+
+
+III –
+
+zelar pela qualidade dos alimentos, em especial quanto às condições higiênicas, bem como a aceitabilidade dos cardápios oferecidos aos estudantes das Escolas de responsabilidade da Rede Pública Municipal de Ensino;
+
+
+IV –
+
+analisar o Relatório de Acompanhamento da Gestão do PNAE, emitido pela Entidade Executora, contido no Sistema de Gestão de Conselhos – SIGECON on-line, antecedendo a elaboração e o envio do parecer conclusivo;
+
+
+V –
+
+receber o relatório anual de gestão do PNAE e do PMAE na Rede Pública Municipal de Ensino e emitir parecer conclusivo aprovando ou reprovando a execução do Programa;
+
+
+VI –
+
+analisar a prestação de contas do gestor, conforme as normas estabelecidas pelo FNDE/MEC para o PNAE, e emitir Parecer Conclusivo acerca da execução do Programa no SIGECON on-line;
+
+
+VII –
+
+analisar o Relatório de Acompanhamento da Gestão do PMAE e a prestação de contas do gestor, conforme as normas estabelecidas para o Programa e emitir Parecer Conclusivo, aprovando ou reprovando a sua execução;
+
+
+VIII –
+
+comunicar ao FNDE, aos Tribunais de Contas, à Controladoria- Geral da União, ao Ministério Público e aos demais órgãos de controle qualquer irregularidade identificada na execução do PNAE e/ou do PMAE, inclusive em relação ao apoio para funcionamento do CAEM, sob pena de responsabilidade solidária de seus membros;
+
+
+IX –
+
+fornecer informações e apresentar relatórios acerca do acompanhamento da execução do PNAE e/ou do PMAE, sempre que solicitado;
+
+
+X –
+
+realizar reunião específica para apreciação da prestação de contas do PNAE e/ou do PMAE com a participação de, no mínimo, 2/3 (dois terços) dos conselheiros titulares;
+
+
+XI –
+
+elaborar o seu Regimento Interno e aprová-lo por, no mínimo, 2/3 (dois terços) dos conselheiros titulares, observando as normas dispostas para o PNAE e o PMAE;
+
+
+XII –
+
+elaborar o Plano de Ação Anual a fim de acompanhar a execução do PNAE e do PMAE nas Escolas da Rede Pública Municipal de Ensino, bem como nas escolas conveniadas e demais estruturas atendidas pelo PNAE e PMAE, contendo previsão de despesas necessárias para o exercício de suas atribuições e encaminhá-lo à(o) Titular da Secretaria Municipal de Educação, antes do início de cada ano letivo;
+
+
+Parágrafo único
+
+O Conselho de Alimentação Escolar Municipal - CAE, poderá desenvolver suas atribuições em regime de cooperação com o Conselho de Segurança Alimentar e Nutricional Municipal e demais conselhos afins, e deverá observar as diretrizes estabelecidas pelo Conselho Nacional de Segurança Alimentar e Nutricional -CONSEA.
+
+
+Art. 3º.
+
+O Conselho de Alimentação Escolar Municipal - CAE será composto por 14 (quatorze) membros titulares, com seus respectivos suplentes, observando a seguinte distribuição por segmento representado:
+
+
+I –
+
+02 (dois) membros titulares e 02 (dois) suplentes, indicados pelo Poder Executivo;
+
+
+II –
+
+04 (quatro) membros titulares e 04 (quatro) suplentes, representantes das entidades de docentes, discentes ou trabalhadores na área da educação, indicados pelo respectivo órgão de representação, a serem escolhidos por meio de assembleia específica;
+
+
+III –
+
+04 (quatro) membros titulares e 04 (quatro) suplentes, representantes de pais de alunos, indicados pelos Conselhos Escolares, ou entidades similares, escolhidos por meio de assembleia específica;
+
+
+IV –
+
+04 (quatro) membros titulares e 04 (quatro) suplentes, indicados por entidades civis organizadas, escolhidos em assembleia específica.
+
+
+§ 1º
+
+Cada membro titular do CAE terá um suplente do mesmo segmento representado, com exceção dos membros titulares do inciso II, deste artigo, os quais poderão ter como suplentes qualquer um dos segmentos nele previstos.
+
+
+§ 2º
+
+A nomeação dos membros titulares e dos suplentes será feita por Decreto do Chefe do Poder Executivo Municipal, para um mandato de 04 (quatro) anos, podendo ser reconduzidos de acordo com a indicação de seus respectivos segmentos.
+
+
+§ 3º
+
+Fica vedada a indicação do Ordenador de Despesas da Entidade Executora para compor o CAE.
+
+
+§ 4º
+
+Os discentes só poderão ser indicados e eleitos quando forem maiores de 18 anos ou emancipados.
+
+
+§ 5º
+
+O exercício do mandato de Conselheiro do CAE é considerado serviço público relevante e não será remunerado.
+
+
+§ 6º
+
+Após a nomeação dos membros do CAE, em conformidade com a legislação vigente, somente haverá substituições nos seguintes casos:
+
+
+I –
+
+renúncia expressa do Conselheiro;
+
+
+II –
+
+deliberação do segmento, devidamente comunicada à Presidência do Conselho;
+
+
+III –
+
+não comparecimento às sessões do CAE em 03 (três) reuniões consecutivas ou em 04 (quatro) alternadas, observado o disposto no Regimento Interno do Conselho;
+
+
+IV –
+
+descumprimento das ações e/ou negligência no exercício do que lhe compete, devidamente comprovado, observando os procedimentos previstos no Regimento Interno do CAE;
+
+
+V –
+
+tomadas de decisões isoladas e/ou qualquer atitude que venham a comprometer as ações do Conselho e de seus pares, devidamente comprovado, observando os procedimentos previstos no Regimento Interno do CAE;
+
+
+VI –
+
+descumprimento do disposto no Regimento Interno do CAE, mediante a instauração dos procedimentos nele previstos.
+
+
+§ 7º
+
+Nas situações previstas no § 6º, deste artigo, o suplente assumirá a função de titular, devendo o segmento representado indicar um novo suplente para preenchimento da função, mantida a exigência de nomeação por ato legal emanado do poder competente.
+
+
+§ 8º
+
+No caso da ocorrência de substituição, o suplente deverá ser nomeado para completar o mandato daquele que está sendo substituído, salvo na recusa do mesmo, devendo a entidade representada, indicar um novo membro para ocupar a titularidade do mandato.
+
+
+§ 9º
+
+As normas referentes às ausências, impedimentos e licenças de Conselheiros serão dispostas no Regimento Interno do CAE.
+
+
+Art. 4º.
+
+A Presidência e a Vice-Presidência do CAE serão escolhidas por eleição de, no mínimo 2/3 dos membros titulares, ficando vedada a escolha de membros previstos no Inciso I, do art. 4°, desta Lei, para estas funções, observadas as normas legais vigentes.
+
+
+§ 1º
+
+A escolha da Presidência e da Vice-Presidência do CAE deverá se dar dentre os membros titulares do Conselho.
+
+
+§ 2º
+
+O mandato da Presidência e da Vice-Presidência do CAE será de 02 (dois) anos, com mandatos coincidentes com o do Conselho, sendo permitida a reeleição uma única vez consecutiva.
+
+
+§ 3º
+
+A Presidência e/ou a Vice-Presidência do CAE poderá(ão) ser destituída(s), observando o disposto no Regimento Interno do Conselho, sendo imediatamente eleito(s) outro(s) membro(s) para a complementação do período restante do respectivo mandato.
+
+
+Art. 5º.
+
+A Secretaria Municipal de Educação fica responsável por prover as condições necessárias ao funcionamento do CAE, dentre as quais:
+
+
+I –
+
+garantir ao Conselho a infraestrutura necessária à plena execução das atividades de sua competência, tais como:
+
+
+a)
+
+local apropriado com condições adequadas para as reuniões do Colegiado;
+
+
+b)
+
+disponibilidade de equipamento de informática;
+
+
+c)
+
+transporte para deslocamento dos membros aos locais relativos ao exercício das competências e atribuições do Conselho; e
+
+
+d)
+
+disponibilidade de recursos humanos e financeiros, previstos no Plano de Ação do CAE, necessários às atividades inerentes as suas competências e atribuições, a fim de desenvolver as atividades de forma efetiva;
+
+
+II –
+
+Fornecer ao CAE, sempre que solicitado, todos os documentos e informações referentes à execução do PNAE e do PMAE em todas as etapas, tais como: editais de licitação e/ou chamada pública, extratos bancários, cardápios, notas fiscais de compras e demais documentos necessários ao desempenho das atividades de sua competência;
+
+
+III –
+
+Realizar, em parceria com o FNDE e/ou com recursos próprios, a formação dos conselheiros sobre a execução do PNAE e do PMAE e temas que possuam interfaces com estes Programas; e
+
+
+IV –
+
+divulgar as atividades do CAE por meio dos canais de comunicação oficial da Secretaria.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias da Secretaria Municipal de Educação, suplementadas se necessário.
+
+
+Art. 7º.
+
+Ficam mantidos, até o final das respectivas vigências, os mandatos dos atuais Conselheiros titulares e suplentes do CAE.
+
+
+Art. 8º.
+
+O Regimento Interno do Conselho de Alimentação Escolar Municipal aprovado pelo Decreto n° 12.011, de 28 de fevereiro de 2011, publicado no Suplemento do DOM n° 3059, de 28 de fevereiro de 2011 deverá ser ajustado, no que couber ao disposto nesta Lei.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 10.
+
+Revogam-se as disposições em contrário, ficando cessados os efeitos da Lei N° 1.288, de 21 de março de 1997 e da Lei N° 1.423, de 30 de março de 2001.
+
+
+**MAURO NAZIF RASUL**
+
+Prefeito
+
+FRANCISCA DAS CHAGAS HOLANDA XAVIER
+
+Secretária Municipal de Educação
+
+MIRTON MORAES DE SOUZA
+
+Procurador Geral do Município
+

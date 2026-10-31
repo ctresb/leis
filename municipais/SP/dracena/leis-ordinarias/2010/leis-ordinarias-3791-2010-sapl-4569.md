@@ -1,0 +1,103 @@
+---
+titulo: "Lei Ordinária nº 3.791, de 27 de julho de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3791"
+data: "2010-07-27"
+municipio: "Dracena"
+uf: "SP"
+codigo_ibge: "3514403"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.dracena.sp.leg.br/norma/4569"
+fonte_texto: "https://sapl.dracena.sp.leg.br/media/sapl/public/normajuridica/2010/4569/lei3791_-_2010.pdf"
+sha256_fonte: "e5fb3c9a5ef51f2bfb6fe47ae1bb12647b5a6c9a4b5e6341e83b6a88fc285a21"
+sha256_texto: "2ffedef27d4c2bd8c05bf910966533e436e4ae623a513e3fba40191260da4019"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 3.791, de 27 de julho de 2010
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+AROU бото -SE DRACE:
+
+FL. N°. PROC. N° "Dispõe sobre venda de bens móveis e dá outras providências" CELIO REJANI, Prefeito Municipal de Dracena, Estado de São Paulo, usando das atribuições que lhe são conferidas por lei: FL. N°\_ FAZ SABER QUE A CÂMARA MUNICIPAL APROVOU'E PROC. N-P/- 46/12 ELE SANCIONA E PROMULGA A SEGUINTE LEI: Atrizo 1°- Fica o Poder Executivo autorizado a vender os bens movela. abaixo relacionados, considerados inservíveis para o serviço público: 1- ONIBUS, MARCA: MERCEDES-BENZ, ANO/MODELO: 1996/1996, MODELOg 8. 8E764 0680/2000 15110 00025966 OF-1620 - C/ CARROCERIA URBANA - COMB.DIESEL CHASSI: 9BM384087TB091600, PLACA: LBB-7223
+
+II-ONIBUS, MARCA: MERCEDES-BENZ, ANO MODELO: 1996/1996, MODELO OF-1620 - C/ CARROCERIA URBANA - COMB. DIESEL CHASSI: 9BM384097TB091737, PLACA :LBB -7260
+
+III- ONIBUS, MARCA: MERCEDES-BENZ, ANO MODELO: 1996/1996, MODELO: OF-1620 - C/ CARROCERIA URBANA - COMB. DIESEL CHASSI: 9BM384087TB091186, PLACA ; LAZ-5133 IV:ONIBUS, MARCA: MERCEDES-BENZ, ANO MODELO: 1996/1996 MODELO: OF-1620 - C/ CARROCERIA URBANA - DIESEL CHASSI: 9BM384087TB091591, PLACA: LBI-0892 .
+
+V-ONIBUS, MARCA: MERCEDES-BENZ, ANO MODELO: 1983/1983, MODELO: LPO-1113 C/ CARROCERIA URBANA - DIESEL CHASSI: 34405811611024, PLACA: BFY-1419 AVALIADO EM R$- 11.200,00
+
+VI-AUTOMOVEL, MARCA: FORD FOCUS, ANO MODELO: 2003/2003 MODELO : PASSAGEIROS 05 LUGARES CHASSI: 8AFCZZFFC3J309129 PLACA: BNZ-4852 - COMB.GASOLINA
+
+VII-VEÍCULO, MARCA: FORD F 100, ANO MODELO: 1978/1979 MODELO : CAR/CAMIONETA/ CAR.ABERTA - PLACA: GH-1811 CHASSI: LA7AUA35943 - COMBUSTIVEL : GASOLINA
+
+VIII-AUTOMOVEL - MARCA: FORD / BELINA II, ANO MODELO: 1985/1986 MODELO: PAS/AUTOMOVEL 05 LUGARES - PLACA : CDZ-5879 CHASSI: 3BFDXXLBIDFE88563 - COMBUSTIVEL - ALCOOL
+
+DE 27 DE JULHO DE 20100
+
+Fls. 02
+
+IX-AUTOMOVEL - MARCA: FORD / BELINA II, ANO/MODELO: 1985/1986 MODELO: PAS/AUTOMOVEL 05 LUGARES - PLACA: BPZ-3135 CHASSI: 3BFDXXLB1DFE88568 - COMBUSTIVEL - ALCOOL
+
+X-VEÍCULO - MARCA: IMP/CHEVROLET MODELO: TRAFIC ANO/MODELO: 1994/1994 - AMBULANCIA - PLACA: BPY-6475 CHASSI: 8 1T31C1ZRS000490 - COMBUSTIVEL - GASOLINA
+
+XI- TORNO MECÂNICO IMOR 500 MINI V NI 429260
+
+FL. N°
+
+XII - TORNO MECANICO IMOR S400 NI 211686 46/10 PROC. N
+
+XIII- TORNO MECANICO IMOR RN 420 NI 247735
+
+XIV- TORNO MECANICO NARDINI 350 MICRO NI 346660
+
+XV- TORNO MECANICO NARDINI MICRO ES NI 400157
+
+XVI- APARELHO DE AR CONDICIONADO TIPO JANELA DE 30000 BTUS, MARCA ADMIRAL
+
+XVII- APARELHO DE AR CONDICIONADO TIPO JANELA DE 30000 BTUS, MARCA: SPRINGER
+
+XVIII- APARELHO DE AR CONDICIONADO TIPO JANELA DE 30000 BTUS, MARCA: SPRINGER
+
+XIX- APARELHO DE AR CONDICIONADO TIPO JANELA DE 21000 BTUS MARCA: CONSUL
+
+XX- APARELHO DE AR CONDICIONADO TIPO JANELA DE 30000 BTUS MARCA: CONSUL
+
+XXI- APARELHO DE AR CONDICIONADO TIPO JANELA DE 7500BTUS MARCA: ELECTROLUX
+
+XXII- APARELHO DE AR CONDICIONADO TIPO JANELA DE 10000 BTUS MARCA: ELECTROLUX
+
+XXIII- APARELHO DE AR CONDICIONADO TIPO JANELA DE 30000 BTUS MARCA: CONSUL
+
+XXIV - APARELHO DE AR CONDICIONADO TIPO JANELA DE 7500 BTUS MARCA : ELECTROLUX
+
+FL. N°. PROC. N° PL 46/10
+
+Fls.03
+
+XXV- APARELHO DE AR CONDICIONADO TIPO JANELA DE 10000 BTUS MARCA: ELECTROLUX
+
+XXVI- APARELHO DE AR CONDICIONADO TIPO JANELA DE 10000 BTUS MARCA:ELECTROLUX
+
+XXVII- APARELHO DE AR CONDICIONADO TIPO JANELA DE 18000 BTUS MARCA: ELECTROLUX
+
+XXVIII- APARELHO DE AR CONDICIONADO TIPO JANELA DE 8300 BTUS MARCA: ELGIN
+
+XXIX- APARELHO DE AR CONDICIONADO TIPO JANELA DE 8300 BTUS MARCA: ELGIN
+
+XXX- APARELHO DE AR CONDICIONADO TIPO JANELA DE 18000 BTUS MARCA: ELECTROLUX
+
+XXXI- APARELHO DE AR CONDICIONADO TIPO.JANELA DE 18000 BTUS MARCA: ELECTROLUX
+
+XXXII- APARELHO DE AR CONDICIONADO TIPO JANELA DE 10000 BTUS MARCA: ELECTROLOX
+
+XXXIII - APARELHO DE AR CONDICIONADO TIPO JANELA DE 18000 BTUS MARCA: ELECTROLUX
+
+XXXIV- APARELHO DE AR CONDICIONADO TIPO JANELA DE 7000 BTUS MARÇA: GREE
+
+XXXV- APARELHO DE AR CONDICIONADO ȚIPO JANELA DE 7500 BTUS. MARCA: CONSUL Parágrafo Unico- Os bens móveis objeto desta Lei foram considerados inservíveis para o serviço público tendo em vista a modernização dos veículos e equipamentos da Prefeitura Municipal de Dracena para melhor prestação de serviços aos munícipes em observância ao Princípio da Eficiência estabelecido no art. 37 da Constituição Federal. Artigo 2°- Os bens móveis de que trata esta lei ficam desafetados para fins da venda por ela autorizada.
+
+Fls.04 Artigo 3°- Os bens constantes desta Lei serão vendidos através de licitação na modalidade de leilão, nos termos da Lei 8.666/93, não podendo ser vendidos por valor abaixo da avaliação realizada pela comissão municipal de avaliação nomeada pela Portaria 3.672 de 16 de abril de 2010, constante do Anexo I desta Lei. Artigo 4°- A receita proveniente da venda dos bens elencados no artigo 1° desta Lei será creditada na seguinte conta bancária: BANCO DO BRASIL AGÊNCIA 373-5 19.308-9 DRACENA/SP Parágrafo Unico- A receita de que trata este artigo será utilizada para aquisição de bens necessários à prestação dos serviços públicos municipais ou para amortização da dívida, nos termos estabelecidos na Lei Complementar 101/2000. Artigo 5°- Esta Lei entra em vigor na data de sua publicação, revogadas as • disposições em contrário. Dracena, 27 de julho de 2010. FL. N° PROC. Nº2146/10 CÉLIO REJANI Prefeito Municipal Registrada e publicada por afixação, público do costume desta Prefeitura e na imprensa loçal: Dracena vdata supra LUIS GUSTAVO JUNQUEIRA DE SOUSA Sécretário Municipal de Governo e Ações Estratégicas
+

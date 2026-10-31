@@ -1,0 +1,78 @@
+{
+  "estado": "indice_completo",
+  "total": 6,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/doe_141_-_data_02-08.pdf da norma Lei Ordinária-PE nº 3.877, de 24 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Lei no Boletim Municipal 141",
+      "anexo_arquivo": "http://sapl.barradopirai.rj.leg.br/media/sapl/public/anexonormajuridica/2024/1/doe_141_-_data_02-08.pdf",
+      "ano": 2024,
+      "norma": 3934
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/acordao_-_lei_3597-2022.pdf da norma Lei Ordinária-GP nº 3.597, de 16 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Representação por Inconstitucionalidade n°0050118-09.2022.8.19.0000",
+      "anexo_arquivo": "http://sapl.barradopirai.rj.leg.br/media/sapl/public/anexonormajuridica/2022/3/acordao_-_lei_3597-2022.pdf",
+      "ano": 2022,
+      "norma": 172
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/4/anexo_lm_326_-_97.pdf da norma Lei Ordinária-PE nº 326, de 28 de abril de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Municipal nº 326 de 28 de abril de 1997.",
+      "anexo_arquivo": "http://sapl.barradopirai.rj.leg.br/media/sapl/public/anexonormajuridica/1997/4/anexo_lm_326_-_97.pdf",
+      "ano": 1997,
+      "norma": 3586
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/anexos.pdf da norma Lei Ordinária-PE nº 4.237, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA",
+      "anexo_arquivo": "http://sapl.barradopirai.rj.leg.br/media/sapl/public/anexonormajuridica/2025/5/anexos.pdf",
+      "ano": 2025,
+      "norma": 4443
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/anexos_ldo.pdf da norma Lei Ordinária-PE nº 4.078, de 17 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexos LDO",
+      "anexo_arquivo": "http://sapl.barradopirai.rj.leg.br/media/sapl/public/anexonormajuridica/2025/6/anexos_ldo.pdf",
+      "ano": 2025,
+      "norma": 4224
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/anexos_ppa.pdf da norma Lei Ordinária-PE nº 4.238, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexos PPA",
+      "anexo_arquivo": "http://sapl.barradopirai.rj.leg.br/media/sapl/public/anexonormajuridica/2025/7/anexos_ppa.pdf",
+      "ano": 2025,
+      "norma": 4444
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barradopirai.rj.leg.br/5c8031a20283b10d199e582b493e9df95be21d7a60b79363b3627e4801490919.json",
+      "url": "https://sapl.barradopirai.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.barradopirai.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ec50431d94bae25b894a366ff53f773a13ea61e6a739f005b07408f83d393cbd",
+      "bytes": 2683,
+      "capturado_em": "2026-10-27T17:12:30.006535-03:00"
+    }
+  ]
+}

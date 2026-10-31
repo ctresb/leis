@@ -1,0 +1,58 @@
+Dispõe sobre a obrigatoriedade de utilização de programas abertos (software livre) pela Câmara Municipal de Agudo.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE AGUDO.  
+FAÇO SABER que a Câmara Municipal aprovou e eu promulgo a seguinte
+
+RESOLUÇÃO
+
+
+Art. 1º.
+
+A Câmara Municipal de Agudo utilizará obrigatoriamente, em seus sistemas e equipamentos de informática adquiridos a partir da data desta Resolução, sistemas operacionais e programas abertos, livres de restrições proprietárias quanto a pagamento de licença de uso, cessão, alteração e distribuição.
+
+
+Parágrafo único.
+
+Entende-se por programa aberto aquele cuja licença de propriedade industrial ou intelectual não restrinja, sob nenhum aspecto, a sua cessão, distribuição, utilização ou alteração de suas características originais, assegurando ao usuário acesso irrestrito e sem custos adicionais ao seu código fonte, permitindo a alteração parcial ou total do programa para seu aperfeiçoamento ou adequação.
+
+
+Art. 2º.
+
+Os equipamentos da Câmara Municipal que na data desta Resolução utilizem programas proprietários poderão receber a implantação de programas abertos de forma paulatina, na medida em que as condições técnicas permitirem.
+
+
+Art. 3º.
+
+Os programas de computador utilizados pela Câmara Municipal, sejam eles de código fonte aberto ou fechado, devem ter a capacidade de funcionar em distintas plataformas operacionais, independentemente do sistema operacional empregado.
+
+
+Parágrafo único.
+
+Entende-se por sistema operacional o conjunto de procedimentos e equipamentos capaz de transformar dados segundo um plano determinado, produzindo resultados a partir da informação representada por esses dados.
+
+
+Art. 4º.
+
+O Presidente da Câmara poderá autorizar a implantação de programas com restrições proprietárias para trabalho ou ação específicos que não sejam atendidos por programas abertos, mediante laudo técnico que indique tal solução.
+
+
+Art. 5º.
+
+O arquivamento de documentos eletrônicos ocorrerá em formato aberto, de acordo com o padrão NBR ISO/IEC 26300 da Associação Brasileira de Normas Técnicas.
+
+
+Art. 6º.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Agudo, 24 de junho de 2008.
+
+Ver. Pedro de Lima  
+Presidente
+
+Registre-se e publique-se
+
+Ver. Vilson Dias  
+Secretário

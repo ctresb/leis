@@ -1,0 +1,672 @@
+REGULAMENTA O ART. 31 DA LEI Nº 14.133, DE 1º DE ABRIL DE 2021, PARA DISPOR SOBRE OS PROCEDIMENTOS OPERACIONAIS DA LICITAÇÃO NA MODALIDADE LEILÃO, NA FORMA ELETRÔNICA, PARA ALIENAÇÃO DE BENS IMÓVEIS OU DE BENS MÓVEIS INSERVÍVEIS OU LEGALMENTE APREENDIDOS, NO ÂMBITO DO PODER EXECUTIVO MUNICIPAL DE FERNÃO/SP.
+
+EBER ROGÉRIO ASSIS, PREFEITO MUNICIPAL DE FERNÃO, ESTADO DE SÃO PAULO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS,
+
+
+CONSIDERANDO que, em 1º de abril de 2021, entrou em vigor a Lei Federal nº 14.133/2021, que estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios;
+
+
+CONSIDERANDO que a referida lei estabeleceu, em seu artigo 193, a revogação imediata dos arts. 89 a 108 da Lei Federal nº 8.666, de 21 de junho de 1993, e da íntegra da Lei Federal nº 8.666, de 21 de junho de 1993, da Lei Federal nº 10.520, de 17 de julho de 2002, e dos arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011, após decorridos 2 (dois) anos da publicação oficial daquela lei;
+
+
+CONSIDERANDO que a mencionada lei prevê que várias questões poderão ser disciplinadas por regulamento, bem como que os Estados, o Distrito Federal e os Municípios poderão aplicar os regulamentos editado pela União para execução daquela lei;
+
+
+CONSIDERANDO que, embora a Lei Federal nº 14.133, de 1º de abril de 2021 permita a aplicação de regulamentos editados pela União, faz-se necessária a regulamentação pontual com vistas a compatibilização às peculiaridades locais;
+
+
+CONSIDERANDO o disposto no arts. 6º, inciso XL, art. 28, inciso IV, 76, incisos I e II, e em especial, art. 31, da Lei Federal nº 14.133, de 1º de abril de 2021,
+
+
+DECRETA:
+
+
+DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Este Decreto regulamenta o art. 31 da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre os procedimentos operacionais da licitação na modalidade leilão, na forma eletrônica, para alienação de bens imóveis ou de bens móveis inservíveis ou legalmente apreendidos no âmbito da administração pública municipal direta, autárquica e fundacional.
+
+
+§ 1º
+
+Para operacionalização do leilão, poderá ser utilizado sistema eletrônico público ou privado, desde que adequado ao disposto neste Decreto e observada a existência de protocolos de segurança das operações e dos dados inseridos, que garantam confiabilidade das transações e sigilo na identificação dos licitantes durante a fase competitiva.
+
+
+§ 2º
+
+Será admitida, excepcionalmente, nos termos do disposto no inciso IV do § 2º do art. 31 da Lei nº 14.133, de 2021, a realização do leilão na forma presencial, mediante prévia justificativa da autoridade competente e comprovação da inviabilidade técnica ou da desvantagem para a Administração.
+
+
+Art. 2º.
+
+Serão observados para aplicação deste Decreto, os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, da segregação das funções, do interesse público, da motivação, da probidade administrativa, da igualdade, do planejamento, da transparência, da eficácia, do julgamento objetivo, da segurança jurídica, da razoabilidade, da competitividade, da proporcionalidade, da celeridade, da economicidade e do desenvolvimento nacional sustentável, assim como as disposições do Decreto-Lei Federal Nº 4.657, de 04 de setembro de 1942 (Lei de Introdução às Normas do Direito Brasileiro).
+
+
+DO COMETIMENTO DO LEILÃO
+
+
+Art. 3º.
+
+O leilão poderá ser cometido a servidor designado pela autoridade competente ou a leiloeiro oficial.
+
+
+§ 1º
+
+A opção por leiloeiro oficial deverá ser justificada, observados:
+
+
+I –
+
+a disponibilidade de recursos de pessoal da Administração para a realização do leilão;
+
+
+II –
+
+a complexidade dos serviços necessários para a preparação e a execução do leilão;
+
+
+III –
+
+a necessidade de conhecimentos específicos para a alienação;
+
+
+IV –
+
+o custo procedimental para a Administração; e
+
+
+V –
+
+ampliação prevista da publicidade e da competitividade do leilão.
+
+
+§ 2º
+
+É vedado pagamento de comissão a servidor designado para atuar como leiloeiro.
+
+
+§ 3º
+
+O servidor designado para atuar como leiloeiro poderá ser auxiliado, na fase externa, por equipe de apoio composta por agentes designados pela autoridade competente ou por terceiros contratados.
+
+
+Art. 4º.
+
+Se optar pela realização de leilão por intermédio de leiloeiro oficial, a Administração deverá selecioná-lo mediante credenciamento ou licitação na modalidade pregão e adotar o critério de julgamento de maior desconto para as comissões a serem cobradas, utilizados como parâmetro máximo os percentuais definidos na lei que regula a referida profissão e observados os valores dos bens a serem leiloados.
+
+
+§ 1º
+
+A contratação de que trata o caput observará, como parâmetro máximo da taxa de comissão a ser paga pelos arrematantes, o montante de cinco por cento do valor do bem arrematado.
+
+
+§ 2º
+
+É vedada a previsão de taxa de comissão a ser paga pelos comitentes.
+
+
+DO PROCEDIMENTO
+
+
+Art. 5º.
+
+A realização do leilão, na forma eletrônica, observará as seguintes fases sucessivas:
+
+
+I –
+
+preparatória;
+
+
+II –
+
+divulgação do edital;
+
+
+III –
+
+apresentação da proposta inicial;
+
+
+IV –
+
+abertura da sessão pública e envio de lances;
+
+
+V –
+
+julgamento;
+
+
+VI –
+
+recurso;
+
+
+VII –
+
+pagamento pelo licitante vencedor; e
+
+
+VIII –
+
+homologação.
+
+
+Parágrafo único
+
+O leilão não exigirá registro cadastral prévio, não terá fase de habilitação dos licitantes e deverá ser homologado assim que concluída a fase de lances, superada a fase recursal e efetivado o pagamento pelo licitante vencedor, na forma definida no edital.
+
+
+Art. 6º.
+
+O critério de julgamento adotado para escolha da proposta mais vantajosa na modalidade leilão será o de maior lance, a constar obrigatoriamente do edital.
+
+
+DA FASE PREPARATÓRIA
+
+
+Art. 7º.
+
+A fase preparatória da licitação na modalidade leilão compreenderá, no mínimo:
+
+
+I –
+
+a comprovação da propriedade do bem;
+
+
+II –
+
+a manifestação do órgão ou entidade responsável pela gestão do bem quanto ao desinteresse em sua utilização, e, no caso de bens móveis, quanto à conveniência, oportunidade e interesse público em sua alienação;
+
+
+III –
+
+a verificação de eventuais ônus ou débitos incidentes sobre o bem, com indicação do responsável por sua regularização;
+
+
+IV –
+
+a avaliação do bem a ser alienado, mediante laudo técnico exarado por profissional habilitado, em consonância com as normas técnicas e legislação vigente;
+
+
+V –
+
+a designação de servidor para atuar como leiloeiro ou a contratação de leiloeiro oficial, conforme o caso;
+
+
+VI –
+
+a elaboração da minuta de edital de licitação com seus anexos, admitida, mediante justificativa, a organização dos bens em lotes.
+
+
+§ 1º
+
+Para a alienação de bens imóveis, além do estabelecido no "caput" deste artigo, a Administração deverá juntar aos autos:
+
+
+I –
+
+as informações cadastrais, título dominial e registro imobiliário do bem a ser alienado;
+
+
+II –
+
+manifestação sobre eventual ocupação do imóvel e seu estado de conservação, incluindo quaisquer informações que possam repercutir na futura alienação;
+
+
+III –
+
+especificação e valoração de benfeitorias que possam, eventualmente, ensejar indenização pela Administração;
+
+
+IV –
+
+autorização legislativa, ressalvada a hipótese prevista no § 1° do artigo 76 da Lei federal n° 14.133, de 1° de abril de 2021.
+
+
+§ 2º
+
+Ao final da fase preparatória, o processo seguirá para o órgão de assessoramento jurídico da Administração, para fins do controle prévio de legalidade de que trata o artigo 53 da Lei federal n° 14.133, de 1° de abril de 2021.
+
+
+DA DIVULGAÇÃO DO EDITAL
+
+
+Art. 8º.
+
+O edital, divulgado pelo órgão ou pela entidade, como agente promotor do leilão, ou pelo leiloeiro oficial, conterá as seguintes informações sobre a realização do leilão, no mínimo:
+
+
+I –
+
+descrição do bem, com suas características, e, no caso de imóvel, suas divisas, com remissão à matrícula e aos registros, bem como seu estado de ocupação;
+
+
+II –
+
+valor pelo qual o bem foi avaliado, preço mínimo pelo qual poderá ser alienado, condições de pagamento e, se for o caso, comissão do leiloeiro contratado, e despesas relativas à armazenagem incidentes sobre mercadorias arrematadas;
+
+
+III –
+
+indicação do lugar onde estão localizados os bens móveis, os veículos ou os semoventes, a fim de que interessados possam conferir o estado dos itens a serem leiloados, em data e horário estabelecidos;
+
+
+IV –
+
+sítio da internet e período em que ocorrerá o leilão, salvo se, excepcionalmente, for realizado sob a forma presencial, observado o disposto no § 2° do art. 1° deste decreto;
+
+
+V –
+
+especificação de eventuais ônus, gravames ou pendências existentes sobre os bens a serem leiloados;
+
+
+VI –
+
+critério de julgamento das propostas pelo maior lance, nos termos do disposto no art. 6º;
+
+
+VII –
+
+intervalo mínimo de diferença de valores ou de percentuais entre os lances, quando necessário, que incidirá tanto em relação a lances intermediários quanto a lance que cobrir a melhor oferta;
+
+
+VIII –
+
+modo de disputa;
+
+
+IX –
+
+data e horário de sua realização, respeitado o horário comercial.
+
+
+§ 1º
+
+As informações de que trata o caput serão inseridas no sistema pelo órgão ou pela entidade, como agente promotor do leilão, ou pelo leiloeiro oficial.
+
+
+§ 2º
+
+O prazo fixado para abertura do leilão e o envio de lances constará do edital e não será inferior a quinze dias úteis, contado a partir da data de divulgação do edital.
+
+
+§ 3º
+
+Na hipótese de leilão de imóvel ocupado, o edital definirá, se o caso, eventual direito a compensação, pelo ocupante, entre crédito previamente reconhecido pela Administração, acerca de benfeitorias realizadas, e o débito decorrente do preço de arrematação, nos termos dos artigos 368 e 369 da Lei federal n° 10.406, de 10 de janeiro de 2002.
+
+
+Art. 9º.
+
+O leilão será precedido de divulgação do edital no Portal Nacional de Contratações Públicas e no Diário Oficial do Município, com as informações constantes do art. 8º.
+
+
+Parágrafo único
+
+O edital, além da divulgação de que trata o caput, deverá ser afixado em local de ampla circulação de pessoas na sede da Administração e poderá, ainda, ser divulgado por outros meios necessários para dar ampla publicidade ao certame e aumentar a competitividade entre licitantes.
+
+
+DO CADASTRAMENTO DOS LICITANTES
+
+
+Art. 10.
+
+O licitante interessado em participar do leilão na forma eletrônica deverá se cadastrar previamente no sistema de que trata o § 1° do art. 1° deste decreto, dentro do prazo previsto no edital.
+
+
+Parágrafo único
+
+O cadastramento de que trata o caput deste artigo destinase à obtenção de login e senha para acesso ao sistema de que trata o § 1° do art. 1° deste decreto e não constitui registro cadastral prévio.
+
+
+DA APRESENTAÇÃO DA PROPOSTA
+
+
+Art. 11.
+
+Após a divulgação do edital, o licitante interessado em participar do leilão eletrônico encaminhará, exclusivamente, via sistema, sua proposta inicial até a data e o horário estabelecidos para abertura da sessão pública.
+
+
+§ 1º
+
+O licitante declarará em campo próprio do sistema, sem prejuízo de outras exigências editalícias:
+
+
+I –
+
+a inexistência de fato impeditivo para licitar ou contratar com a Administração;
+
+
+II –
+
+o pleno conhecimento e a aceitação das regras e das condições gerais constantes do edital; e
+
+
+III –
+
+responsabilidade pelas transações que forem efetuadas no sistema diretamente ou por intermédio de seu representante, assumidas como firmes e verdadeiras.
+
+
+§ 2º
+
+As informações declaradas no sistema na forma do § 1º permitem a participação dos interessados no leilão, na forma eletrônica, e não constituem registro cadastral prévio.
+
+
+DA ABERTURA DA SESSÃO PÚBLICA E DO ENVIO DE LANCES
+
+
+Art. 12.
+
+Na data e horário estabelecidos no edital, o procedimento será aberto no sistema pelo leiloeiro oficial ou o servidor designado para envio de lances públicos e sucessivos por período não inferior a três horas e de, no máximo, seis horas.
+
+
+Parágrafo único
+
+Os lances ocorrerão exclusivamente por meio do sistema.
+
+
+Art. 13.
+
+O licitante somente poderá oferecer valor superior ao último lance por ele ofertado e registrado pelo sistema, observado, se houver, o intervalo mínimo de diferença de valores ou de percentuais entre os lances, que incidirá tanto em relação a lances intermediários quanto em relação a lance que cobrir a melhor oferta.
+
+
+Art. 14.
+
+Os licitantes, durante o procedimento, serão informados, em tempo real, do valor do maior lance registrado, vedada a identificação do licitante.
+
+
+Art. 15.
+
+O licitante será imediatamente informado pelo sistema do recebimento de seu lance.
+
+
+DO JULGAMENTO
+
+
+Art. 16.
+
+Encerrada a etapa de envio de lances, o leiloeiro oficial ou o servidor designado verificará a conformidade da proposta e considerará vencedor aquele licitante que ofertou o maior lance, observado o preço mínimo pelo qual poderá ser alienado o bem.
+
+
+Art. 17.
+
+Definido o resultado do julgamento, o leiloeiro oficial ou o servidor designado poderá negociar condições mais vantajosas para a Administração com o primeiro colocado, por meio do sistema, quando a proposta permanecer abaixo do preço mínimo estipulado pela Administração para arrematação.
+
+
+§ 1º
+
+Os demais licitantes poderão acompanhar a negociação de que trata o caput.
+
+
+§ 2º
+
+Concluída a negociação, se houver, o resultado será registrado na ata do procedimento de licitação, a ser anexada aos autos do processo de contratação.
+
+
+Art. 18.
+
+A negociação poderá ser feita com os demais licitantes classificados, exclusivamente por meio do sistema, respeitada a ordem de classificação, quando o primeiro colocado, mesmo após a negociação, for desclassificado em razão de sua proposta permanecer abaixo do preço mínimo estipulado pela Administração para arrematação, observado o disposto no § 2º do art. 17.
+
+
+Art. 19.
+
+Na venda de imóveis, será concedido direito de preferência ao licitante que, submetendo-se a todas as regras do edital, comprove a ocupação de boa-fé do bem, nos termos do artigo 77 da Lei Federal n° 14.133, de 1° de abril de 2021.
+
+
+§ 1º
+
+O ocupante de boa-fé do imóvel a ser leiloado será notificado, com antecedência mínima de 15 (quinze) dias úteis da data de encerramento do prazo para apresentação de propostas, para, se for de seu interesse, participar da licitação.
+
+
+§ 2º
+
+Após a publicação do resultado do julgamento, caso não tenha ofertado o maior lance, o ocupante de boa-fé do imóvel será convocado para se for de seu interesse, exercer o direito de preferência a que alude o caput, mediante apresentação de nova proposta de preço, igual e nas mesmas condições do maior lance ofertado, observado o preço mínimo de alienação.
+
+
+§ 3º
+
+Cumpridas as condições estabelecidas no § 2° deste artigo, o ocupante de boa-fé do imóvel será considerado arrematante.
+
+
+Art. 20.
+
+Na hipótese de o procedimento restar fracassado, o órgão ou a entidade poderá:
+
+
+I –
+
+republicar o procedimento; ou
+
+
+II –
+
+fixar prazo para que os interessados possam adequar as suas propostas.
+
+
+Parágrafo único
+
+A republicação também poderá ocorrer na hipótese de o procedimento restar deserto.
+
+
+DO RECURSO
+
+
+Art. 21.
+
+Qualquer licitante poderá, durante o prazo concedido na sessão pública, não inferior a dez minutos, de forma imediata e após o término do julgamento das propostas, em campo próprio do sistema, manifestar sua intenção de recorrer, sob pena de preclusão.
+
+
+§ 1º
+
+As razões do recurso deverão ser apresentadas em momento único, em campo próprio do sistema, no prazo de 03 (três) dias úteis, contado da data de intimação ou da lavratura da ata de julgamento.
+
+
+§ 2º
+
+Os demais licitantes ficarão intimados para, se desejarem, apresentar suas contrarrazões, no prazo de 03 (três) dias úteis, contado da data de intimação ou de divulgação da interposição do recurso.
+
+
+§ 3º
+
+Será assegurado ao licitante vista dos elementos indispensáveis à defesa de seus interesses.
+
+
+§ 4º
+
+O acolhimento do recurso importará na invalidação apenas dos atos que não puderem ser aproveitados.
+
+
+§ 5º
+
+Na hipótese de ocorrência da preclusão prevista no caput, o processo será encaminhado à autoridade superior, que fica autorizada a adjudicar o objeto ao licitante declarado vencedor, observadas as condições de pagamento.
+
+
+DO PAGAMENTO
+
+
+Art. 22.
+
+O leiloeiro oficial ou o servidor designado, após a declaração do vencedor, emitirá, por meio do sistema, o Documento de Arrecadação Municipal – DAM.
+
+
+§ 1º
+
+A emissão de que trata o caput ocorrerá para que o licitante vencedor proceda ao pagamento no prazo fixado no edital, que não será superior a 05 (cinco) dias úteis, salvo:
+
+
+I –
+
+arrematação a prazo; ou
+
+
+II –
+
+outra forma prevista em lei ou em regulamentação específica que impeça a arrematação imediata.
+
+
+§ 2º
+
+O arrematante enviará o comprovante de pagamento ao leiloeiro oficial ou ao servidor designado por meio do sistema.
+
+
+§ 3º
+
+Caso o arrematante deixe de realizar o pagamento no prazo definido em edital, o leiloeiro oficial ou o servidor designado, após atestar o fato, examinará o lance imediatamente subsequente e assim sucessivamente, na ordem de classificação, até a apuração de proposta que atenda à Administração, sem prejuízo da aplicação das sanções cabíveis ao licitante que não cumprir sua obrigação, garantidos o contraditório e a ampla defesa.
+
+
+§ 4º
+
+Na hipótese do § 3° deste artigo:
+
+
+I –
+
+a convocação dos licitantes remanescentes dar-se-á para fins de contratação nas condições propostas pelo arrematante original
+
+
+II –
+
+caso nenhum dos licitantes remanescentes aceite a contratação nos termos do inciso I deste § 4°, o leiloeiro oficial ou o servidor designado poderá convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas a obtenção de preço melhor, mesmo que abaixo do preço do arrematante original, desde que observe o maior dos seguintes limites mínimos:
+
+
+a)
+
+o preço mínimo de alienação do bem;
+
+
+b)
+
+o valor do lance final apresentado pelo próprio licitante remanescente na licitação.
+
+
+Art. 23.
+
+Os bens e direitos arrematados serão pagos, preferencialmente, à vista, admitindo-se o pagamento mediante entrada em percentual não inferior a vinte por cento, e o restante no prazo e forma estabelecidos em edital.
+
+
+§ 1º
+
+No caso de pagamento parcelado, o bem será entregue após o pagamento integral, salvo prestação de garantia sobre o valor total remanescente.
+
+
+§ 2º
+
+O valor recolhido à Administração não será devolvido.
+
+
+Art. 24.
+
+O instrumento convocatório estabelecerá as condições para a entrega do bem ao arrematante.
+
+
+DA HOMOLOGAÇÃO
+
+
+Art. 25.
+
+Encerradas as etapas de recurso e de pagamento, o processo será encaminhado à autoridade superior para adjudicação do objeto e homologação do procedimento, observado o disposto no art. 71 da Lei nº 14.133, de 2021.
+
+
+DO CONTRATO E DA TRADIÇÃO DO BEM
+
+
+Art. 26.
+
+Após a homologação pela autoridade superior, serão realizadas as providências necessárias para a assinatura do contrato e tradição do bem ao arrematante.
+
+
+§ 1º
+
+Os contratos relativos a imóveis serão formalizados por escritura pública lavrada por tabelião de notas.
+
+
+§ 2º
+
+Os contratos decorrentes de licitações disciplinadas por este decreto deverão conter as cláusulas elencadas no artigo 92 da Lei federal n° 14.133, de 1° de abril de 2021, observado, ainda, o disposto em legislação especial.
+
+
+§ 3º
+
+Quando o arrematante for pessoa jurídica, previamente à celebração do contrato, deverá ser comprovada sua regularidade perante a seguridade social, nos termos do § 3° do artigo 195 da Constituição Federal.
+
+
+DAS SANÇÕES ADMINISTRATIVAS
+
+
+Art. 27.
+
+O arrematante, em caso de infração aos dispositivos contidos neste Decreto e no edital de licitação, estará sujeito às sanções administrativas previstas na Lei nº 14.133, de 2021, e às demais cominações legais, com a reversão do bem a novo leilão, no qual não será admitida a participação do arrematante, conforme disposto no art. 897 da Lei nº 13.105, de 16 de março de 2015.
+
+
+DA REVOGAÇÃO E DA ANULAÇÃO
+
+
+Art. 28.
+
+A autoridade superior poderá revogar o procedimento licitatório de que trata este Decreto, por motivo de conveniência e de oportunidade, e deverá anular, por ilegalidade insanável, de ofício ou por provocação de terceiros, assegurada a prévia manifestação dos interessados.
+
+
+§ 1º
+
+O motivo determinante para a revogação do processo licitatório deverá ser resultante de fato superveniente devidamente comprovado.
+
+
+§ 2º
+
+A autoridade, ao pronunciar a nulidade, indicará expressamente os atos com vícios insanáveis, tornados sem efeito todos os subsequentes que deles dependam, e ensejará a apuração de responsabilidade daquele que tenha dado causa.
+
+
+DAS DISPOSIÇÕES FINAIS
+
+
+Art. 29.
+
+Os horários estabelecidos na divulgação do procedimento e durante o envio de lances e da documentação observarão o horário de Brasília, inclusive para contagem de tempo e de registro no sistema de que trata o § 1° do art. 1° deste Decreto.
+
+
+Art. 30.
+
+Os órgãos, entidades, seus dirigentes e servidores que utilizem o Sistema de Leilão Eletrônico responderão administrativa, civil e penalmente por ato ou fato que caracterize o uso indevido de senhas de acesso ou que transgrida as normas de segurança instituídas.
+
+
+Parágrafo único
+
+Os órgãos e entidades deverão assegurar o sigilo e a integridade dos dados e informações do Sistema de Leilão Eletrônico, protegendo-os contra danos e utilizações indevidas ou desautorizadas no âmbito de sua atuação.
+
+
+Art. 31.
+
+O licitante é responsável:
+
+
+I –
+
+por qualquer transação efetuada diretamente ou por seu representante no sistema de que trata o § 1° do art.1° deste Decreto, não cabendo ao provedor deste ou ao órgão ou entidade promotora do procedimento a responsabilidade por eventuais danos decorrentes de uso indevido da senha, ainda que por terceiros não autorizados;
+
+
+II –
+
+pelo ônus decorrente da perda do negócio pela inobservância de quaisquer mensagens emitidas pelo sistema de que trata o § 1° do art. 1° deste Decreto, ou de sua desconexão.
+
+
+Art. 32.
+
+A Secretaria Municipal de Governo e o Controle Interno poderão editar normas complementares para a execução do disposto neste Decreto.
+
+
+Art. 33.
+
+Este decreto entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Fernão, 08 de outubro de 2025.
+
+Eber Rogério Assis  
+Prefeito Municipal
+
+REGISTRADA E PUBLICADA POR AFIXAÇÃO, NO SAGUÃO PRINCIPAL DA PREFEITURA MUNICIPAL DE FERNÃO, LOCAL PRÓPRIO - DATA SUPRA.

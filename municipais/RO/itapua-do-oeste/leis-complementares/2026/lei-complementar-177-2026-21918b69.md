@@ -1,0 +1,1843 @@
+---
+titulo: "LEI COMPLEMENTAR N° 177, DE 24 DE AGOSTO DE 2026."
+uf: "RO"
+municipio: "ITAPUÃ DO OESTE"
+tipo: "Lei Complementar"
+numero: "177"
+data: 2026-08-24
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 26/08/2026"
+data_publicacao: 2026-08-26
+codigo_identificador: "21918B69"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116138_2026-08-25_3039b5f6e9c0ae8d0136b84a32247e2a.pdf"
+baixado_em: 2026-10-15
+---
+# LEI COMPLEMENTAR N° 177, DE 24 DE AGOSTO DE 2026.
+
+LEI COMPLEMENTAR N° 177, DE 24 DE AGOSTO DE 2026.
+PREFEITURA DO MUNICIPIO DE ITAPUÃ DO OESTE
+PODER EXECUTIVO – GABINETE MUNICIPAL
+ANEXO IV
+LEI COMPLEMENTAR Nº 177/2026
+QUADRO PERMANENTE
+GRUPO DOS PROFISSIONAIS DA EDUCAÇÃO - NÍVEL MAGISTÉRIO
+EXERCÍCIO DE 2026 (ESTUDO TÉCNICO PRELIMINAR)
+CARGO: PROFESSOR MAGISTÉRIO 40 HORAS
+Probatório
+03 anos
+05 anos
+07 anos
+Classe
+Referência
+A
+B
+C
+D
+5.130,63
+5.284,55
+5.390,24
+5.498,04
+Nível I
+Tempo
+de
+153,92
+259,61
+367,41
+Serviço (R$)
+CARGO: PROFESSOR MAGISTÉRIO 20 HORAS
+Probatório
+03 anos
+05 anos
+07 anos
+Classe
+Referência
+A
+B
+C
+D
+2.565,32
+2.642,27
+2.695,12
+2.749,02
+Nível I
+76,96
+129,80
+183,71
+Tempo de Serviço (R$)
+
+09 anos
+
+11 anos
+
+13 anos
+
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+E
+5.608,01
+
+F
+5.720,17
+
+G
+5.834,57
+
+H
+5.951,26
+
+I
+6.070,29
+
+J
+6.191,69
+
+K
+6.315,53
+
+L
+6.441,84
+
+M
+6.570,67
+
+N
+6.702,09
+
+O
+6.836,13
+
+P
+6.972,85
+
+Q
+7.112,31
+
+R
+7.254,55
+
+477,38
+
+589,54
+
+703,94
+
+820,63
+
+939,66
+
+1.061,06
+
+1.184,90
+
+1.311,21
+
+1.440,04
+
+1.571,46
+
+1.705,50
+
+1.842,22
+
+1.981,68
+
+2.123,92
+
+09 anos
+
+11 anos
+
+13 anos
+
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+E
+2.804,00
+238,69
+
+F
+2.860,08
+294,77
+
+G
+2.917,28
+351,97
+
+H
+2.975,63
+410,32
+
+I
+3.035,14
+469,83
+
+J
+3.095,85
+530,53
+
+K
+3.157,76
+592,45
+
+L
+3.220,92
+655,60
+
+M
+3.285,34
+720,02
+
+N
+3.351,04
+785,73
+
+O
+3.418,06
+852,75
+
+P
+3.486,43
+921,11
+
+Q
+3.556,15
+990,84
+
+R
+3.627,28
+1.061,96
+
+ITAPUÃDOOESTE/RO,24DEAGOSTODE2026.
+IDIZNEI CASTRO MARTINS: 59013192220
+Digitally signed by IDIZNEI CASTRO MARTINS: 59013192220
+DN:C=BR,O=ICP-Brasil,OU=SecretariadaReceita FederaldoBrasil-RFB,OU=RFBe-CPFA3,OU=AC VALID RFB V5, OU=AR SENHA DIGITAL, OU=Presencial, OU=19520630000115, CN=IDIZNEI CASTRO
+MARTINS:59013192220
+Reason: CHEFE DO PODER EXECUTIVO MUNICIPAL
+Location: ITAPUÃ DO OESTE/RO Date: 2026-08-24 09:15:19
+Foxit Reader Version: 9.7.0
+IDIZNEI CASTRO MARTINS
+Chefe do Poder Executivo Municipal
+Equipe Técnica
+PREFEITURA DO MUNICIPIO DE ITAPUÃ DO OESTE
+PODER EXECUTIVO – GABINETE MUNICIPAL
+ANEXO V
+LEI COMPLEMENTAR Nº 177/2026
+QUADRO PERMANENTE
+GRUPO DOS PROFISSIONAIS DA EDUCAÇÃO - NÍVEL SUPERIOR
+EXERCÍCIO DE 2026 (ESTUDO TÉCNICO PRELIMINAR)
+CARGO: PROFESSOR PEDAGOGO 40H; PROFESSOR LICENCIATURA: MATEMÁTICA 40H; GEOGRAFIA 40H; HISTÓRIA 40H; PROFESSOR LICENCIATURA - EDUCAÇÃO FÍSICA 40H; LICENCIATURA EM LETRAS: PORTUGUES ESPANHOL E PORTUGUÊS INGLÊS 40H.
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+17 anos
+19 anos
+21 anos
+23 anos
+25 anos
+27 anos
+29 anos
+31 anos
+33 anos
+35 anos
+Classe
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+
+www.diariomunicipal.com.br/arom
+
+363
+
+Rondônia , 26 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4306
+Nível I
+5.771,96
+5.945,12
+6.064,02
+6.185,30
+6.309,01
+6.435,19
+6.563,89
+6.695,17
+6.829,07
+6.965,65
+7.104,97
+7.247,07
+7.392,01
+7.539,85
+7.690,64
+7.844,46
+8.001,35
+8.161,37
+173,16
+292,06
+413,34
+537,05
+663,23
+791,93
+923,21
+1.057,11
+1.193,69
+1.333,01
+1.475,11
+1.620,05
+1.767,89
+1.918,68
+2.072,50
+2.229,39
+2.389,41
+Tempo de Serviço (R$)
+CARGO:
+SUPERVISOR
+ORIENTADOR ESCOLAR -40H; ADMINISTRADOR ESCOLAR 40H.
+ESCOLAR 40H;
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+17 anos
+19 anos
+21 anos
+23 anos
+25 anos
+27 anos
+29 anos
+31 anos
+33 anos
+35 anos
+Classe
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+Nível I
+5.771,96
+5.945,12
+6.064,02
+6.185,30
+6.309,01
+6.435,19
+6.563,89
+6.695,17
+6.829,07
+6.965,65
+7.104,97
+7.247,07
+7.392,01
+7.539,85
+7.690,64
+7.844,46
+8.001,35
+8.161,37
+173,16
+292,06
+413,34
+537,05
+663,23
+791,93
+923,21
+1.057,11
+1.193,69
+1.333,01
+1.475,11
+1.620,05
+1.767,89
+1.918,68
+2.072,50
+2.229,39
+2.389,41
+Tempo de Serviço (R$)
+CARGO: PROFESSOR PEDAGOGO 20H; PROFESSOR LICENCIATURA - GEOGRAFIA 20H; PROFESSOR LICENCIATURA - HISTÓRIA 20H;PROFESSOR LICENCIATURA - EDUCAÇÃO FÍSICA 20H; PROFESSOR NIVEL SUPERIOR 20H;PROFESSOR LICENCIATURA GEOGRAFIA 20H; PROFESSOR PORTUGUES E INGLÊS 20H
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+17 anos
+19 anos
+21 anos
+23 anos
+25 anos
+27 anos
+29 anos
+31 anos
+33 anos
+35 anos
+Classe
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+Nível I
+2.885,98
+2.972,56
+3.032,01
+3.092,65
+3.154,50
+3.217,59
+3.281,95
+3.347,58
+3.414,54
+3.482,83
+3.552,48
+3.623,53
+3.696,00
+3.769,92
+3.845,32
+3.922,23
+4.000,67
+4.080,69
+86,58
+146,03
+206,67
+268,52
+331,61
+395,97
+461,60
+528,56
+596,85
+666,50
+737,55
+810,02
+883,94
+959,34
+1.036,25
+1.114,69
+1.194,71
+Tempo de Serviço (R$)
+CARGO: SUPERVISOR ESCOLAR 20H; ORIENTADOR ESCOLAR -20H; ADMINISTRADOR ESCOLAR -20H.
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+17 anos
+19 anos
+21 anos
+23 anos
+25 anos
+27 anos
+29 anos
+31 anos
+33 anos
+35 anos
+Classe
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+Nível I
+2.885,98
+2.972,56
+3.032,01
+3.092,65
+3.154,50
+3.217,59
+3.281,95
+3.347,58
+3.414,54
+3.482,83
+3.552,48
+3.623,53
+3.696,00
+3.769,92
+3.845,32
+3.922,23
+4.000,67
+4.080,69
+86,58
+146,03
+206,67
+268,52
+331,61
+395,97
+461,60
+528,56
+596,85
+666,50
+737,55
+810,02
+883,94
+959,34
+1.036,25
+1.114,69
+1.194,71
+Tempo de Serviço (R$)
+
+ITAPUÃ DO OESTE/RO, 24 DE AGOSTO DE 2026.
+IDIZNEI CASTRO MARTINS: 59013192220
+DigitallysignedbyIDIZNEICASTROMARTINS:59013192220
+DN:C=BR,O=ICP-Brasil,OU=SecretariadaReceitaFederal
+do
+Brasil
+RFB,
+OU=Presencial,OU=19520630000115,CN=IDIZNEICASTROMARTINS:59013192220
+Reason:CHEFEDOPODEREXECUTIVOMUNICIPAL
+Location:ITAPUÃDOOESTE/RO
+Date:2026-08-2409:18:30
+FoxitReaderVersion:9.7.0
+
+OU=RFB
+
+e-CPF
+
+A3,
+
+OU=AC
+
+VALID
+
+RFB
+
+V5,
+
+OU=AR
+
+SENHA
+
+DIGITAL,
+
+IDIZNEI CASTRO MARTINS
+Chefe do Poder Executivo Municipal
+Equipe Técnica
+PREFEITURA DO MUNICIPIO DE ITAPUÃ DO OESTE
+PODER EXECUTIVO – GABINETE MUNICIPAL
+ANEXO VI
+LEI COMPLEMENTAR Nº 177/2026
+QUADRO PERMANENTE
+GRUPO DOS PROFISSIONAIS DA EDUCAÇÃO - GRATIFICAÇÃO DE TITULAÇÃO
+EXERCÍCIO DE 2026 (ESTUDO TÉCNICO PRELIMINAR)
+GRATIFICAÇÃO DE TITULAÇÃO - PROFESSOR MAGISTÉRIO - 40 HORAS
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+Referência
+GRATIFICAÇÃO DE
+A
+B
+C
+D
+E
+TITULAÇÃO
+Nível II Graduação
+484,81
+499,35
+509,34
+519,53
+529,92
+Nível III Pós Graduação 543,81
+560,12
+571,33
+582,75
+594,41
+GRATIFICAÇÃO DE TITULAÇÃO - PROFESSOR MAGISTÉRIO - 20 HORAS
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+Referência
+GRATIFICAÇÃO DE
+A
+B
+C
+D
+E
+TITULAÇÃO
+Nível II Graduação
+242,41
+249,68
+254,67
+259,76
+264,96
+
+11 anos
+
+13 anos
+
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+540,52
+606,30
+
+551,33
+618,42
+
+562,35
+630,79
+
+573,60
+643,41
+
+585,07
+656,27
+
+596,77
+669,40
+
+608,71
+682,79
+
+620,88
+696,44
+
+633,30
+710,37
+
+645,97
+724,58
+
+658,89
+739,07
+
+672,07
+753,85
+
+685,51
+768,93
+
+11 anos
+
+13 anos
+
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+270,26
+
+275,66
+
+281,18
+
+286,80
+
+292,54
+
+298,39
+
+304,36
+
+310,44
+
+316,65
+
+322,98
+
+329,44
+
+336,03
+
+342,75
+
+www.diariomunicipal.com.br/arom
+
+364
+
+Rondônia , 26 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4306
+Nível III Pós Graduação 271,91
+280,06
+285,66
+291,38
+297,20
+GRATIFICAÇÃO DE TITULAÇÃO - PROFESSOR NÍVEL SUPERIOR - 40 HORAS
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+Referência
+GRATIFICAÇÃO DE
+A
+B
+C
+D
+E
+TITULAÇÃO
+Nível
+II
+PÓS
+543,81
+560,12
+571,33
+582,75
+594,41
+GRADUAÇÃO
+Nível III MESTRADO
+846,72
+872,12
+889,56
+907,36
+925,50
+
+303,15
+
+309,21
+
+315,40
+
+321,70
+
+328,14
+
+334,70
+
+341,39
+
+348,22
+
+355,19
+
+362,29
+
+369,54
+
+376,93
+
+384,47
+
+11 anos
+
+13 anos
+
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+606,30
+
+618,42
+
+630,79
+
+643,41
+
+656,27
+
+669,40
+
+682,79
+
+696,44
+
+710,37
+
+724,58
+
+739,07
+
+753,85
+
+768,93
+
+944,01
+
+962,89
+
+982,15
+
+1.001,79
+
+1.021,83
+
+1.042,27
+
+1.063,11
+
+1.084,37
+
+1.106,06
+
+1.128,18
+
+1.150,75
+
+1.173,76
+
+1.197,24
+
+PREFEITURA DO MUNICIPIO DE ITAPUÃ DO OESTE
+PODER EXECUTIVO – GABINETE MUNICIPAL
+GRATIFICAÇÃO DE TITULAÇÃO - PROFESSOR NÍVEL SUPERIOR - 20 HORAS
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+17 anos
+19 anos
+21 anos
+23 anos
+Referência
+GRATIFICAÇÃO
+DE
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+TITULAÇÃO
+Nível II PÓS GRADUAÇÃO 271,91
+280,06
+285,66
+291,38
+297,20
+303,15
+309,21
+315,40
+321,70
+328,14
+334,70
+341,39
+Nível III MESTRADO
+423,36
+436,06
+444,78
+453,68
+462,75
+472,01
+481,45
+491,08
+500,90
+510,91
+521,13
+531,56
+Obs: (A correção será realizada em 02 em 02 anos pelo Índice Nacional de Preços ao Consumido - INPC acumulado no exercício de aplição por Ato próprio conforme a disponibilidade orçamentária e financeira do município).
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+348,22
+542,19
+
+355,19
+553,03
+
+362,29
+564,09
+
+369,54
+575,37
+
+376,93
+586,88
+
+384,47
+598,62
+
+ITAPUÃ DO OESTE/RO, 24 DE AGOSTO DE 2026.
+IDIZNEI CASTRO MARTINS: 59013192220
+Digitally signed by IDIZNEI CASTRO MARTINS:59013192220
+DN:C=BR,O=ICP-Brasil,OU=SecretariadaReceitaFederaldoBrasil-RFB,OU=RFBeCPFA3,OU=ACVALIDRFBV5,OU=ARSENHADIGITAL,OU=Presencial,OU=19520630000115,CN=IDIZNEICASTROMARTINS:59013192220
+Reason:CHEFEDOPODEREXECUTIVOMUNICIPAL
+Location:ITAPUÃDOOESTE/RO
+Date:2026-08-2409:20:38
+Foxit Reader Version: 9.7.0
+IDIZNEI CASTRO MARTINS
+Chefe do Poder Executivo Municipal
+Equipe Técnica
+PREFEITURA DO MUNICIPIO DE ITAPUÃ DO OESTEPODER EXECUTIVO – GABINETE MUNICIPAL
+ANEXO III
+LEI COMPLEMENTAR Nº 177/2026
+QUADRO PERMANENTE
+GRUPO DOS PROFISSIONAIS DA EDUCAÇÃO PESSOAL DE APOIO - NÍVEL FUNDAMENTAL, MÉDIO E SUPERIOR
+EXERCÍCIO DE 2026
+PSICÓLOGO-40H; PSICOPEDAGOGO CLINICO-40H
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+Nível
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+3.909,95
+4.027,25
+4.148,07
+4.272,51
+4.400,68
+4.532,70
+4.668,69
+Nível I
+3.741,58
+4.115,74
+4.300,95
+4.429,97
+4.562,87
+4.699,76
+4.840,75
+4.985,97
+5.135,55
+Nível II
+4.527,31
+4.731,04
+4.872,97
+5.019,16
+5.169,74
+5.324,83
+5.484,57
+5.649,11
+Nível III
+NUTRICIONISTA-40H.
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+Nível
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+3.776,23
+3.889,52
+4.006,21
+4.126,39
+4.250,18
+4.377,69
+4.509,02
+Nível I
+3.613,62
+3.974,98
+4.153,86
+4.278,47
+4.406,83
+4.539,03
+4.675,20
+4.815,46
+4.959,92
+Nível II
+4.372,48
+4.569,24
+4.706,32
+4.847,51
+4.992,93
+5.142,72
+5.297,00
+5.455,91
+Nível III
+VIGILANTE-40H; AGENTE DE SERVIÇOS GERAIS -40H; COZINHEIRO-40H; AUXILIAR DE CRECHE -40H
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+I
+4.808,75
+5.289,62
+5.818,58
+
+J
+4.953,01
+5.448,31
+5.993,14
+
+L
+5.101,60
+5.611,76
+6.172,93
+
+M
+5.254,65
+5.780,11
+6.358,12
+
+N
+5.412,29
+5.953,51
+6.548,87
+
+O
+5.574,65
+6.132,12
+6.745,33
+
+P
+5.741,89
+6.316,08
+6.947,69
+
+Q
+5.914,15
+6.505,57
+7.156,12
+
+R
+6.091,58
+6.700,73
+7.370,81
+
+S
+6.274,32
+6.901,75
+7.591,93
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+I
+4.644,29
+5.108,72
+5.619,59
+
+J
+4.783,62
+5.261,98
+5.788,18
+
+L
+4.927,13
+5.419,84
+5.961,82
+
+M
+5.074,94
+5.582,44
+6.140,68
+
+N
+5.227,19
+5.749,91
+6.324,90
+
+O
+5.384,01
+5.922,41
+6.514,65
+
+P
+5.545,53
+6.100,08
+6.710,09
+
+Q
+5.711,89
+6.283,08
+6.911,39
+
+R
+5.883,25
+6.471,57
+7.118,73
+
+S
+6.059,75
+6.665,72
+7.332,29
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+www.diariomunicipal.com.br/arom
+
+365
+
+Rondônia , 26 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4306
+Nível
+
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+L
+M
+Nível I
+1.652,13
+1.701,69
+1.752,74
+1.805,33
+1.859,49
+1.915,27
+1.972,73
+2.031,91
+2.092,87
+2.155,65
+2.220,32
+1.580,99
+Nível II
+1.739,08
+1.817,34
+1.871,86
+1.928,02
+1.985,86
+2.045,43
+2.106,80
+2.170,00
+2.235,10
+2.302,15
+2.371,22
+2.442,36
+Nível III
+1.912,99
+1.999,08
+2.059,05
+2.120,82
+2.184,44
+2.249,98
+2.317,48
+2.387,00
+2.458,61
+2.532,37
+2.608,34
+2.686,59
+AGENTE ADMINISTRATIVO; INSPETOR ESCOLAR, MONITOR DE TRANSPORTE ESCOLAR, CUIDADOR INFANTIL; AUXILIAR DE SALA DE AULA - EDUCAÇÃO ESPECIAL.
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+13 anos
+15 anos
+17 anos
+19 anos
+21 anos
+23 anos
+Nível
+Referência
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+L
+M
+2.020,29
+2.080,90
+2.143,32
+2.207,62
+2.273,85
+2.342,07
+2.412,33
+2.484,70
+2.559,24
+2.636,02
+2.715,10
+Nível I
+1.933,29
+2.126,62
+2.222,32
+2.288,99
+2.357,66
+2.428,39
+2.501,24
+2.576,27
+2.653,56
+2.733,17
+2.815,16
+2.899,62
+2.986,61
+Nível II
+2.339,28
+2.444,55
+2.517,88
+2.593,42
+2.671,22
+2.751,36
+2.833,90
+2.918,92
+3.006,49
+3.096,68
+3.189,58
+3.285,27
+Nível III
+PREFEITURA DO MUNICIPIO DE ITAPUÃ DO OESTEPODER EXECUTIVO – GABINETE MUNICIPAL
+MOTORISTA DE VEICULOS LEVES -40H
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+Nível
+Referência
+A
+B
+C
+D
+E
+F
+1.836,64
+1.891,74
+1.948,50
+2.006,95
+2.067,16
+Nível I
+1.757,55
+1.933,31
+2.020,31
+2.080,92
+2.143,34
+2.207,65
+2.273,87
+Nível II
+2.126,64
+2.222,34
+2.289,01
+2.357,68
+2.428,41
+2.501,26
+Nível III
+MOTORISTA DE VEICULOS PESADOS-40H
+Probatório
+03 anos
+05 anos
+07 anos
+09 anos
+11 anos
+Nível
+Referência
+A
+B
+C
+D
+E
+F
+2.203,96
+2.270,07
+2.338,18
+2.408,32
+2.480,57
+Nível I
+2.109,05
+2.319,95
+2.424,35
+2.497,08
+2.571,99
+2.649,15
+2.728,63
+Nível II
+2.551,95
+2.666,79
+2.746,79
+2.829,19
+2.914,07
+3.001,49
+Nível III
+
+N
+2.286,93
+2.515,63
+2.767,19
+
+O
+2.355,54
+2.591,10
+2.850,21
+
+P
+2.426,21
+2.668,83
+2.935,71
+
+Q
+2.498,99
+2.748,89
+3.023,78
+
+R
+2.573,96
+2.831,36
+3.114,50
+
+S
+2.651,18
+2.916,30
+3.207,93
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+N
+2.796,55
+3.076,21
+3.383,83
+
+O
+2.880,45
+3.168,49
+3.485,34
+
+P
+2.966,86
+3.263,55
+3.589,90
+
+Q
+3.055,87
+3.361,45
+3.697,60
+
+R
+3.147,54
+3.462,30
+3.808,53
+
+S
+3.241,97
+3.566,17
+3.922,78
+
+13 anos
+
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+G
+2.129,17
+2.342,09
+2.576,30
+
+H
+2.193,05
+2.412,35
+2.653,59
+
+I
+2.258,84
+2.484,72
+2.733,20
+
+J
+2.326,61
+2.559,27
+2.815,19
+
+L
+2.396,40
+2.636,04
+2.899,65
+
+M
+2.468,30
+2.715,13
+2.986,64
+
+N
+2.542,34
+2.796,58
+3.076,24
+
+O
+2.618,61
+2.880,48
+3.168,52
+
+P
+2.697,17
+2.966,89
+3.263,58
+
+Q
+2.778,09
+3.055,90
+3.361,49
+
+R
+2.861,43
+3.147,57
+3.462,33
+
+S
+2.947,27
+3.242,00
+3.566,20
+
+13 anos
+
+15 anos
+
+17 anos
+
+19 anos
+
+21 anos
+
+23 anos
+
+25 anos
+
+27 anos
+
+29 anos
+
+31 anos
+
+33 anos
+
+35 anos
+
+G
+2.554,99
+2.810,49
+3.091,54
+
+H
+2.631,64
+2.894,80
+3.184,28
+
+I
+2.710,59
+2.981,65
+3.279,81
+
+J
+2.791,91
+3.071,10
+3.378,21
+
+L
+2.875,66
+3.163,23
+3.479,55
+
+M
+2.961,93
+3.258,13
+3.583,94
+
+N
+3.050,79
+3.355,87
+3.691,46
+
+O
+3.142,31
+3.456,55
+3.802,20
+
+P
+3.236,58
+3.560,24
+3.916,27
+
+Q
+3.333,68
+3.667,05
+4.033,75
+
+R
+3.433,69
+3.777,06
+4.154,77
+
+S
+3.536,70
+3.890,37
+4.279,41
+
+ITAPUÃ DO OESTE/RO, 24 DE AGOSTO DE 2026.
+IDIZNEI CASTROMARTINS:59013192220
+Digitally signed byIDIZNEI CASTRO MARTINS:59013192220
+DN:C=BR,O=ICP-Brasil,OU=SecretariadaReceitaFederaldoBrasil-RFB,OU=RFBe-CPFA3,OU=ACVALID RFB V5, OU=AR SENHA DIGITAL, OU=Presencial, OU=19520630000115, CN=IDIZNEI CASTRO
+MARTINS:59013192220
+Reason:CHEFEDOPODEREXECUTIVOMUNICIPAL
+Location:ITAPUÃDOOESTE/RO
+Date:2026-08-2409:50:20
+Foxit Reader Version: 9.7.0
+IDIZNEICASTRO MARTINS
+Chefe do Poder Executivo Municipal
+Equipe Técnica
+Publicado por:
+Juliano França Moura Junior

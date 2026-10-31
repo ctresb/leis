@@ -1,0 +1,42 @@
+{
+  "host": "sapl.costamarques.ro.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.costamarques.ro.leg.br/cc92f4613232b0c3632f2deaa86f9b3d17f3c5b06965413bb98acb0428351e79.json",
+    "url": "https://sapl.costamarques.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.costamarques.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7e1b603c836b07c085767090cf9813bcea3fdd7d0c4abb30b480a418f8dee103",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:29:48.907926-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.costamarques.ro.leg.br/f02884da83ee791e4d2b858b07fcfa48e5c107c98a759fbca3fdfe93dcf61416.json",
+    "url": "https://sapl.costamarques.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.costamarques.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3a3fadb22eacfa24c053967462e0fc8c4caf233c9017b235142a31c8632e3a86",
+    "bytes": 717,
+    "capturado_em": "2026-10-28T09:29:48.193728-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.costamarques.ro.leg.br/6c4519eb6b2007930c2f053d996ec3cf8605a4134e9c3762ac892b17d57d1167.json",
+      "url": "https://sapl.costamarques.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.costamarques.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T09:29:50.915794-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,103 @@
+---
+titulo: "Lei Complementar nº 523, de 24 de março de 2014"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "523"
+data: "2014-03-24"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2015-03-24; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/404"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1755/text"
+sha256_fonte: "c16087913a1a29567f5fa19f0483563b070101142078b5a0bbae74a0b07f9bfa"
+sha256_texto: "8ef56c9f4e5cdb889be38e9c46233e5f510f708122e160b70888b8950ff5e13e"
+capturado_em_fonte: "2026-10-27T21:00:30.699894-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 523, de 24 de março de 2014
+
+“Institui Bolsa Moradia e Alimentação para Médico participante do Programa Mais Médicos para o Brasil e dá outras providências”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe é conferida no inciso IV do artigo 87 da Lei Orgânica do Município do Porto Velho.
+
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituído no âmbito do Município de Porto Velho, a Bolsa Moradia e Alimentação para os médicos participantes do “Programa Mais Médico para o Brasil” criado pelo Governo Federal por intermédio do Ministério da Saúde.
+
+
+Art. 2º.
+
+Os Médicos participantes do “Programa Mais Médicos para o Brasil” serão selecionados, contratados e remunerados pelo Ministério da Saúde, nos termos da Medida Provisória nº 621/2013 e da Portaria Interministerial nº 1.369, de 08 de julho de 2013, estando estes Profissionais vinculados ao Ministério da Saúde, competindo ao Município de Porto Velho tão somente a responsabilização pelo custeio das despesas com moradia, alimentação e de transporte, quando necessário, dos referidos nos valores estabelecidos nesta Lei.
+
+
+Art. 3º.
+
+A Bolsa Moradia e Alimentação para os médicos participantes do “Programa Mais Médicos para o Brasil” disponibilizados pelo Ministério da Saúde para atuar no âmbito do Município de Porto Velho fixada nos seguintes valores:
+
+
+I –
+
+para auxilio moradia – R$ 1.200,00 (hum mil e duzentos reais).
+
+
+II –
+
+para auxílio alimentação - R$ 500,00 (quinhentos reais).
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 564, de 24 de março de 2015.
+
+
+§ 1º
+
+Será repassado aos Médicos citado no caput deste artigo o valor total mensal de R$ 1.575,00 (hum mil e quinhentos e setenta e cinco reais), sendo possibilitado ao profissional fazer remanejamentos dos gastos efetuados com moradia e alimentação, em conformidade com suas necessidades.
+
+
+§ 2º
+
+Em havendo necessidade o Município de Porto Velho, por intermédio da Secretaria Municipal de Saúde, poderá custear o transporte dos médicos participantes do “Programa Mais Médicos para o Brasil” no valor limite de R$ 220,00 (duzentos e vinte reais), podendo também disponibilizar veículos para fazer os deslocamentos necessários.
+
+
+Art. 4º.
+
+Ficam excluídos do direito à Bolsa Moradia e Alimentação criada por esta Lei Complementar os médicos participantes do “Programa Mais Médicos para o Brasil” já anteriormente domiciliados no âmbito do Município de Porto Velho.
+
+
+Art. 5º.
+
+A bolsa instituída por esta Lei Complementar não se caracteriza como pagamento por contraprestação de serviço prestado ao Município de Porto Velho e dispensa prestação de contas por parte dos médicos beneficiados.
+
+
+Art. 6º.
+
+As despesas com a instituição da Bolsa Moradia e Alimentação para os médicos participantes do “Programa Mais Médicos para o Brasil” criada por esta Lei Complementar serão custeadas pelo Programa de Trabalho 08.31.10.122.007.2217, Fonte 01.02, do Orçamento da Secretaria Municipal de Saúde de Porto Velho.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, com efeitos retroativos a partir de 01 de janeiro de 2014.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário.
+
+
+**MAURO NAZIF RASUL**
+
+Prefeito
+
+**CARLOS DOBBIS**
+
+Procurador Geral do Município
+

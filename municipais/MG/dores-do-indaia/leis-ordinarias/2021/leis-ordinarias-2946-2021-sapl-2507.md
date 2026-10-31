@@ -1,0 +1,839 @@
+---
+titulo: "Lei Ordinária nº 2.946, de 30 de setembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2946"
+data: "2021-09-30"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2023-10-16; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/2507"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/641/text"
+sha256_fonte: "063caf339e4b91e93effee6bfb4b9d6415ed2645b0abbcf56bd7c1e22ce0f7db"
+sha256_texto: "22dcf727fba6d438f551a3647765c4cc8d46e2064baa4baf0d7ba063ad78e656"
+capturado_em_fonte: "2026-10-28T10:02:17.558827-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.946, de 30 de setembro de 2021
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+(Revogado)
+
+Revogado pelo Art. 28. - Lei Ordinária nº 3.122, de 16 de outubro de 2023.
+
+
+Art. 18.
+
+O auxílio aluguel social compreende o pagamento de aluguel a famílias de baixa renda, conforme definido no art. 2º desta lei, bem como às famílias vítimas de catástrofes naturais e que tenham sido removidas do local de moradia por segurança ou que sejam afetadas em razão de situação de calamidade pública, devidamente comprovada.
+
+
+Art. 19.
+
+Para o recebimento do aluguel social o beneficiário deve apresentar:
+
+
+I –
+
+Documentação de todos os integrantes da família (CPF, RG, Certidão de Nascimento e Carteira de Trabalho);
+
+
+II –
+
+Comprovante de renda familiar,
+
+
+III –
+
+Comprovante de matrícula e presença na escola de todas as crianças em idade escolar.
+
+
+Art. 20.
+
+É vedada a adoção do benefício para a obtenção de alojamento nos casos de ocupação de áreas públicas e privadas.
+
+
+Art. 21.
+
+A aprovação da concessão do auxílio será deferida, exclusivamente, pelo Conselho Municipal de Assistência Social, após a apresentação de laudo elaborado por Assistente Social, lotado na Secretaria Municipal de Desenvolvimento Social.
+
+
+Art. 22.
+
+O valor do aluguel social será de, no máximo, meio salário mínimo, o qual deverá ser pago diretamente ao beneficiário, que deverá quitar os valores do aluguel.
+
+
+§ 1º
+
+O beneficiário do aluguel social deverá comprovar o valor que será pago mediante declaração do proprietário do imóvel ou contrato de locação do imóvel.
+
+
+§ 2º
+
+O beneficiário do aluguel social deverá comprovar o pagamento em até dez dias úteis do recebimento do benefício, sob pena de ter o mesmo cancelado.
+
+
+§ 3º
+
+Não poderá ser deferido outro pedido de aluguel social aquele beneficiário que tenha descumprido o disposto neste artigo.
+
+
+Art. 23.
+
+A Secretaria Municipal de Desenvolvimento Social deverá indicar assistente social para o acompanhamento da família beneficiária do aluguel social, devendo o profissional emitir laudo trimestral indicando a necessidade de continuidade de pagamento do benefício.
+
+
+Parágrafo único
+
+Cessado a situação de vulnerabilidade social deverá ser imediatamente revogado o benefício eventual de auxílio aluguel.
+
+
+##### Seção VII — Auxílio Mudança
+
+
+Art. 24.
+
+O benefício eventual denominado auxílio mudança consiste na ajuda financeira para que cidadão ou família dorense residente em outra cidade retornar à residência para cidade de Dores do Indaiá.
+
+
+Art. 25.
+
+Para a concessão desse auxílio será necessário a apresentação dos seguintes documentos:
+
+
+I –
+
+Documentos pessoais de todos os membros da família, inclusive menores de idade,
+
+
+II –
+
+Comprovação de natalidade no Município de Dores do Indaiá de pelo menos uma pessoa do núcleo familiar,
+
+
+III –
+
+Justificativa que demonstre o motivo de mudança.
+
+
+Art. 26.
+
+Esse auxílio somente será concedido após a emissão de laudo de Assistente Social lotada na Secretaria Municipal de Desenvolvimento Social e desde que comprovado que o indivíduo preenche os requisitos dispostos no art. 20 desta lei.
+
+
+Parágrafo único
+
+O referido benefício eventual somente pode ser concedido uma vez por pessoa ou núcleo familiar.
+
+
+Art. 27.
+
+O valor do auxílio mudança será de, no máximo, um salário mínimo, independentemente do local de onde o dorense beneficiário esteja vindo.
+
+
+#### CAPÍTULO III — Das Disposições Finais
+
+
+Art. 28.
+
+Todos os cidadãos e as famílias beneficiados deverão ser cadastradas no CADÚnico Municipal, perante a Secretária Municipal de Desenvolvimento Social.
+
+
+Art. 29.
+
+Os cidadãos e famílias poderão ser identificados a partir de busca ativa das equipes técnicas da rede socioassistencial, encaminhamento da população e demais serviços ou setores públicos, denúncias anônimas.
+
+
+Parágrafo único
+
+A partir do conhecimento da situação de vulnerabilidade da família, serão realizados os procedimentos técnicos necessários a cada caso.
+
+
+Art. 30.
+
+Os relatórios dos procedimentos técnicos deverão ficar arquivados pelas equipes técnicas responsáveis, na própria Secretaria ou nos equipamentos de assistência social (CRAS e CREAS) para eventuais consultas, averiguações e acompanhamentos.
+
+
+Art. 31.
+
+Pode ser exigido que os beneficiários dos benefícios eventuais participem de cursos e oficinas realizados pela Secretaria de Desenvolvimento Social, para a concessão ou manutenção dos benefícios concedidos com base nesta lei.
+
+
+Art. 32.
+
+As famílias que tiverem crianças na escola deverão comprovar a matrícula e presença nas instituições, mediante a não concessão ou revogação do benefício.
+
+
+Art. 33.
+
+Os beneficiários que comprovadamente omitirem ou mentirem informações com o fito de obter benefício eventual pela prefeitura, terão os mesmos revogados, bem como responderão cível e criminalmente pelos atos por eles praticados.
+
+
+Parágrafo único
+
+Deverá ser instaurado processo administrativo para averiguar qualquer irregularidade quanto à concessão dos benefícios contidos nesta lei, que deverá obedecer aos princípios do contraditório e ampla defesa, e determinar o ressarcimento ao erário de valores recebidos indevidamente.
+
+
+Art. 34.
+
+O Executivo poderá regulamentar a presente lei mediante decreto.
+
+
+Art. 35.
+
+Farão face às despesas decorrentes desta lei a dotação orçamentária própria
+
+
+Art. 37.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 38.
+
+Revogando-se as disposições em contrário, em especial a Lei Municipal n.º 2.602/2014, de 04 de Dezembro de 2014.
+
+
+Dores do Indaiá, 30 de Setembro de 2.021
+
+**ALEXANDRO COÊLHO FERREIRA**
+
+**PREFEITO MUNICIPAL**
+

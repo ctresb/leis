@@ -1,0 +1,386 @@
+{
+  "host": "sapl.alegre.es.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/lei_3426_anexo.pdf da norma Lei Municipal nº 3.426, de 31 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Relação de Equipamentos",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2017/1/lei_3426_anexo.pdf",
+      "ano": 2017,
+      "norma": 71
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/lei_3571_anexos_loa.pdf da norma Lei Municipal nº 3.571, de 19 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexos LOA exercício 2020",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2019/2/lei_3571_anexos_loa.pdf",
+      "ano": 2019,
+      "norma": 3591
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/sumario_geral.pdf da norma Lei Municipal nº 3.676, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "SUMARIO GERAL DA RECEITA POR FONTE E DESPESA POR FUNÇOES",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2021/3/sumario_geral.pdf",
+      "ano": 2021,
+      "norma": 3773
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/resumo_geral_da_receita.pdf da norma Lei Municipal nº 3.676, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "RESUMO GERAL DA RECEITA",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2021/4/resumo_geral_da_receita.pdf",
+      "ano": 2021,
+      "norma": 3773
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/analitico_da_despesa.pdf da norma Lei Municipal nº 3.676, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANALITICO DA DESPESA",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2021/5/analitico_da_despesa.pdf",
+      "ano": 2021,
+      "norma": 3773
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/demonstrativo_por_funcao.pdf da norma Lei Municipal nº 3.676, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO POR FUNCAO, SUNFUNCAO E CATEGORIA ECONOMICA",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2021/6/demonstrativo_por_funcao.pdf",
+      "ano": 2021,
+      "norma": 3773
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/demonstrativo_da_despesa.pdf da norma Lei Municipal nº 3.676, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "DEMONSTRATIVO DA DESPESA POR CATEGORIA ECONOMICA",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2021/7/demonstrativo_da_despesa.pdf",
+      "ano": 2021,
+      "norma": 3773
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/comparativo.pdf da norma Lei Municipal nº 3.676, de 22 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "COMPARATIVO POR FONTE DE RECURSO",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2021/8/comparativo.pdf",
+      "ano": 2021,
+      "norma": 3773
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/9/analitico_da_despesa.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/9/analitico_da_despesa.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/10/analitico_da_receita.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/10/analitico_da_receita.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/11/anexo_i_-_demonstrativo_da_receita_e_despesa__segundo_as_categorias_economicas.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/11/anexo_i_-_demonstrativo_da_receita_e_despesa__segundo_as_categorias_economicas.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/12/anexo_ii_-_demonstrativo_da_despesa_por_categoria_economica.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/12/anexo_ii_-_demonstrativo_da_despesa_por_categoria_economica.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/13/anexo_ii_-_resumo_geral_da_receita.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/13/anexo_ii_-_resumo_geral_da_receita.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/14/anexo_ix_-_demonstrativo_da_despesa_por_orgao_e_funcao.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/14/anexo_ix_-_demonstrativo_da_despesa_por_orgao_e_funcao.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/15/anexo_vi_-_demonstrativo_do_programa_de_trabalho_de_governo.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/15/anexo_vi_-_demonstrativo_do_programa_de_trabalho_de_governo.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/16/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_categoria_economica.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/16/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_categoria_economica.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/17/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_projeto_atividade.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/17/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_projeto_atividade.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/18/anexo_viii_-_demonstrativo_por_funcao_subfuncao_e_programa_conforme_vinculos_com_recursos.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/18/anexo_viii_-_demonstrativo_por_funcao_subfuncao_e_programa_conforme_vinculos_com_recursos.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/19/comparativo_por_fonte_de_recurso.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/19/comparativo_por_fonte_de_recurso.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/20/orcamento_da_despesa_por_atividade_projeto_operacao_especial.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/20/orcamento_da_despesa_por_atividade_projeto_operacao_especial.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/21/orcamento_da_despesa_segundo_o_vinculo_de_recurso.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/21/orcamento_da_despesa_segundo_o_vinculo_de_recurso.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/22/sumario_geral_da_receita_por_fonte_e_da_despesa_por_funcoes_de_governo.pdf da norma Lei Municipal nº 3.737, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/22/sumario_geral_da_receita_por_fonte_e_da_despesa_por_funcoes_de_governo.pdf",
+      "ano": 2022,
+      "norma": 3872
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/23/detalhamento_da_receita_ppa_2022-2025_atualizado_2023.pdf da norma Lei Municipal nº 3.738, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/23/detalhamento_da_receita_ppa_2022-2025_atualizado_2023.pdf",
+      "ano": 2022,
+      "norma": 3873
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/24/plano_plurianual_2022-2025_atualizado_2023.pdf da norma Lei Municipal nº 3.738, de 14 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2022/24/plano_plurianual_2022-2025_atualizado_2023.pdf",
+      "ano": 2022,
+      "norma": 3873
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/25/analitico_da_despesa_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Analítico da Despesa",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/25/analitico_da_despesa_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/26/analitico_da_receita_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Analítico da Receita",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/26/analitico_da_receita_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/anexo_i_-_demonstrativo_da_receita_e_despesa_segundo_as_categorias_economicas_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - DEMONSTRATIVO DA RECEITA E DESPESA SEGUNDO AS CATEGORIAS ECONÔMICAS",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/27/anexo_i_-_demonstrativo_da_receita_e_despesa_segundo_as_categorias_economicas_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/28/anexo_ii_-_demonstrativo_da_despesa_por_categoria_economica_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - DEMONSTRATIVO DA DESPESA POR CATEGORIA ECONÔMICA",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/28/anexo_ii_-_demonstrativo_da_despesa_por_categoria_economica_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/29/anexo_ii_-_resumo_geral_da_receita_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - RESUMO GERAL DA RECEITA",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/29/anexo_ii_-_resumo_geral_da_receita_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/30/anexo_ix_-_demonstrativo_da_despesa_por_orgao_e_funcao_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IX - DEMONSTRATIVO DA DESPESA POR ORGÃO E FUNÇÃO",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/30/anexo_ix_-_demonstrativo_da_despesa_por_orgao_e_funcao_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/31/anexo_vi_-_demonstrativo_do_programa_de_trabalho_de_governo_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI - DEMONSTRATIVO DO PROGRAMA DE TRABALHO DE GOVERNO",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/31/anexo_vi_-_demonstrativo_do_programa_de_trabalho_de_governo_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/32/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_categoria_economica_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VII - DEMONSTRATIVO POR FUNÇÃO, SUBFUNÇÃO E PROGRAMA POR CATEGORIA ECONÔMICA",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/32/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_categoria_economica_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/33/anexo_viii_-_demonstrativo_por_funcao_subfuncao_e_programas_conforme_vinculo_com_recursos_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VIII - DEMONSTRATIVO POR FUNÇÃO, SUBFUNÇÃO E PROGRAMAS CONFORME VÍNCULO COM RECURSOS",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/33/anexo_viii_-_demonstrativo_por_funcao_subfuncao_e_programas_conforme_vinculo_com_recursos_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/34/comparativo_por_fonte_de_recurso_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "COMPARATIVO POR FONTE DE RECURSO",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/34/comparativo_por_fonte_de_recurso_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/35/orcamento_da_despesa_por_atividade_-_projeto_-_operacao_especial_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "ORÇAMENTO DA DESPESA POR ATIVIDADE - PROJETO - OPERAÇÃO ESPECIAL",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/35/orcamento_da_despesa_por_atividade_-_projeto_-_operacao_especial_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/36/sumario_geral_da_receita_por_fonte_e_da_despesa_por_funcoes_de_governo_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "SUMÁRIO GERAL DA RECEITA POR FONTE E DA DESPESA POR FUNÇÕES DE GOVERNO",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/36/sumario_geral_da_receita_por_fonte_e_da_despesa_por_funcoes_de_governo_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/37/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_projeto_atividade_1.pdf da norma Lei Municipal nº 3.902, de 13 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VII - DEMONSTRATIVO POR FUNÇÃO, SUBFUNÇÃO E PROGRAMA POR PROJETO ATIVIDADE",
+      "anexo_arquivo": "http://sapl.alegre.es.leg.br/media/sapl/public/anexonormajuridica/2024/37/anexo_vii_-_demonstrativo_por_funcao_subfuncao_e_programa_por_projeto_atividade_1.pdf",
+      "ano": 2024,
+      "norma": 4079
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.alegre.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.alegre.es.leg.br/405f43d17eae2745fdc3ae133a931c935f28953a71cf8c64db6b9032b7ce63b7.json",
+      "sha256": "a90aef8de6b609931191e5408053379f9ab19f4a5c1ed31e34a96089c4e927b4",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.alegre.es.leg.br/405f43d17eae2745fdc3ae133a931c935f28953a71cf8c64db6b9032b7ce63b7.meta.json"
+    }
+  ],
+  "total": 37
+}

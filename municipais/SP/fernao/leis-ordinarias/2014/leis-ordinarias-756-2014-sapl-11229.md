@@ -1,0 +1,53 @@
+---
+titulo: "Lei Ordinária nº 756, de 08 de agosto de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "756"
+data: "2014-08-08"
+municipio: "Fernão"
+uf: "SP"
+codigo_ibge: "3515657"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2020-04-23; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fernao.sp.leg.br/norma/11229"
+fonte_texto: "https://sapl.fernao.sp.leg.br/ta/74/text"
+sha256_fonte: "b8b9caefd0970c45e495de78094ab5fcf207902542a833e22089948f7045b2fa"
+sha256_texto: "463f2a03508195b8d6b2af2ebdf5c967f4d7416c49847d308517fa859079733f"
+capturado_em_fonte: "2026-10-28T10:54:41.098210-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 756, de 08 de agosto de 2014
+
+DISPÕE SOBRE ALTERAÇÃO DA LEI Nº572/2010, DE 02 DE DEZEMBRO DE 2010, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+ALTEMAR CANELADA CAMPOS, PREFEITO DO MUNICÍPIO DE FERNÃO, ESTADO DE SÃO PAULO, NO USO DE SUAS ATRIBUIÇÕES LEGAIS.  
+  
+FAZ SABER que a Câmara Municipal de Fernão, Estado de São Paulo, aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal de Fernão autorizado a alienar por doação, sem ônus e encargos para a Fazenda Pública Estadual, bem imóvel com as seguintes características: Um terreno localizado no prolongamento da Rua 7 de Setembro, quadra 22, com as seguintes medidas e confrontações: "Inicia-se num ponto distante 42 metros da confrontação da Rua José Bonifácio com a Rua 7 de Setembro; daí segue com rumo de SW 88°22'11 NE na extensão de 51,80 metros, confrontando com a Rua 7 de Setembro; daí deflete à esquerda e segue com rumo de SE 11°50'25" NW na extensão de 40 metros, confrontando com a Área B (remanescente) de propriedade da Prefeitura Municipal de Fernão; daí deflete à esquerda e segue com rumo de SW 88°22"11" NE por uma extensão de 51,80 metros, confrontando com a Área V de propriedade da Prefeitura Municipal de Fernão, daí deflete à esquerda e segue com rumo de SE 11°50'NW por uma extensão de 40 metros, confrontando com a Área I, de propriedade da Prefeitura Municipal de Fernão, chegando ao ponto de partida, perfazendo uma área de 2.072,00 metros quadrados.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 970, de 23 de abril de 2020.
+
+
+Art. 2º.
+
+As despesas com averbações junto ao Cartório de Registro de Imóveis decorrentes da presente Lei, correrão por conta da dotação orçamentária do Município.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Fernão, 08 de agosto de 2014.  
+  
+Altemar Canelada Campos  
+Prefeito Municipal
+

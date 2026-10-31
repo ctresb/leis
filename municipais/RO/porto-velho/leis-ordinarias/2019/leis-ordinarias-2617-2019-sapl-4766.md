@@ -1,0 +1,95 @@
+---
+titulo: "Lei nº 2.617, de 12 de julho de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2617"
+data: "2019-07-12"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2019-07-12; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4766"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/922/text"
+sha256_fonte: "0b90df1fc3aabca696a7ec1dc3db274afef00c58ad3c4ee913ae2ca6a660dd96"
+sha256_texto: "7118a41bcebbe33ac03ec9ccc9aa452843d5d39690adff5c7239916672a96e32"
+capturado_em_fonte: "2026-10-21T07:24:37.649713-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 2.617, de 12 de julho de 2019
+
+“Institui a Semana Municipal de Conscientização, Prevenção e Atendimento à Gravidez na Adolescência a serem realizadas anualmente no mês de setembro.”
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe confere o inciso IV, do art. 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER QUE A CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte:
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituído no Município de Porto Velho a Semana Municipal de Conscientização, Prevenção e Atendimento à Gravidez na Adolescência, a ser realizada anualmente no mês de setembro, passando a fazer parte do Calendário Oficial de Eventos do Município.
+
+
+§ 1º
+
+Gravidez na adolescência é a gestação de uma adolescente ocorrida na faixa etária entre 14 e 18 anos de idade incompletos.
+
+
+§ 2º
+
+A Semana Municipal de Conscientização, Prevenção e Atendimento à Gravidez na Adolescência realizar-se-á durante a terceira semana do mês de setembro, coincidindo seu início na vigência da comemoração do Dia do Adolescente, no Brasil, comemorado anualmente no dia 21 de setembro.
+
+
+Art. 2º.
+
+A Secretaria Municipal de Saúde poderá fomentar ações de apoio mediante campanhas informativas, seminários, palestras e conferências, visando o supra objetivo.
+
+Alteração feita pelo Art. 2º. - Lei Promulgada nº 2.617, de 12 de julho de 2019.
+
+
+Parágrafo único
+
+Para a consecução destes objetivos, a Secretaria Municipal de Saúde poderá firmar parceria com órgãos públicos e com o setor privado.
+
+Alteração feita pelo Art. 2º. - Lei Promulgada nº 2.617, de 12 de julho de 2019.
+
+
+Art. 3º.
+
+As atividades inerentes à Conscientização, Prevenção e Atendimento à Gravidez na Adolescência deverá respeitar e seguir as diretrizes gerais previstas na legislação em vigor.
+
+Alteração feita pelo Art. 2º. - Lei Promulgada nº 2.617, de 12 de julho de 2019.
+
+
+Parágrafo único
+
+O Executivo ou a Secretaria Pertinente, disporá sobre os temas e diretrizes a serem debatidos e realizados durante a Semana Municipal de Conscientização, Prevenção e Atendimento à Gravidez na Adolescência e, ainda, a implantação de políticas públicas, programas e projetos destinados a este fim.
+
+Alteração feita pelo Art. 2º. - Lei Promulgada nº 2.617, de 12 de julho de 2019.
+
+
+Art. 4º.
+
+O Poder Executivo regulamentará esta Lei no prazo de 90 (noventa), contados da data de sua publicação.
+
+Alteração feita pelo Art. 2º. - Lei Promulgada nº 2.617, de 12 de julho de 2019.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito
+
+**Projeto de Lei nº 3.821/2018.**
+
+Autoria: Vereador Zezinha Araújo.
+

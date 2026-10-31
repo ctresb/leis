@@ -1,0 +1,158 @@
+---
+titulo: "04 - Lei Ordinária nº 509, de 23 de novembro de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "509"
+data: "2001-11-23"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/313"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/295/text"
+sha256_fonte: "8534416fbcee5be5692abb74b16e94c6231b50debf1aa258286530b3c4a904cd"
+sha256_texto: "8407c897da67f5dcbb259742452fc693489cd03e998e780dcf001cf465478db6"
+capturado_em_fonte: "2026-10-28T08:01:24.930164-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 509, de 23 de novembro de 2001
+
+Dispõe sobre o orçamento anual do município de Corbélia, para o exercício financeiro de 2002, e dá outras providencias.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Esta lei estima a receita e fixa a despesa do município de Corbélia, para o exercício financeiro de 2002.
+
+
+Art. 2º.
+
+A área desmembrada será destinada à implantação do parque de fábricas, industrias e prestadores de serviço do município de Corbélia. Fica aprovado o Orçamento-Programa do Município de Corbélia, para o exercício financeiro de 2002, com a estimativa de receita e fixação de despesa em R$ 10.428.500,00 (dez milhões, quatrocentos e vinte oito mil e quinhentos reais), a preço do mês de julho de 2001, incluídos os recursos da Administração Direta e da Indireta.
+
+
+Art. 3º.
+
+A receita será realizada em conformidade com a legislação especifica em vigor, de acordo com as seguintes estimativas:
+
+
+I –
+
+Administração Direta:
+
+
+**1. RECEITA DO TESOURO 9.654.500,00**
+
+1.1 RECEITAS CORRENTES 8.786.500,00
+
+Receita Tributária 1.036.000,00
+
+Receita Patrimonial 47.800,00
+
+Receita de Serviços 18.600,00
+
+Transferências Correntes 7.381.800,00
+
+Outras Receitas Correntes 302.300,00
+
+1.2 RECEITAS DE CAPITAL 868.000,00
+
+Operações de Crédito 460.000,00
+
+Alienação de Bens 100.000,00
+
+Transferências de Capital 300.000,00
+
+Outras Receitas de Capital 8.000,00
+
+
+II –
+
+Administração Indireta:
+
+
+**1. RECEITA DE AUTARQUIAS 774.000,00**
+
+1.1 CASSEMC - Caixa de Previdência dos Servidores Públicos Civis 774.000,00
+
+
+Art. 4º.
+
+A despesa está fixada com a seguinte distribuição entre os órgãos:
+
+
+I –
+
+Administração Direta:
+
+
+**1. DESPESA DA ADMINISTRAÇÃO DIRETA 9.654.500,00**
+
+1.1 LEGISLATIVO MUNICIPAL .000,00
+
+1.2 GOVERNO MUNICIPAL 408.950,00
+
+1.3 SECRETARIA DA FAZENDA E COORDENAÇÃO GERAL 1.470.550,00
+
+1.4 SECRETARIA DE DESENVOLVIMENTO ECONÔMICO 530.250,00
+
+1.5 SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS 2.050.500,00
+
+1.6 SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE 3.269.850,00
+
+1.7 SECRETARIA DE SAÚDE 1.451.400,00
+
+1.8 RESERVA DE CONTIGENCIA 93.000,00
+
+
+II –
+
+Administração Indireta:
+
+
+**1. DESPESA DA ADMINISTRAÇÃO INDIRETA 774.000,00**
+
+1.1 CASSEMC - Caixa de Seguridade dos Servidores Públicos Civis 774.000,00
+
+
+Art. 5º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a atualizar os valores do orçamento geral do Município durante o exercício financeiro de 2002, trimestralmente, até o limite da variação do ICV (DIEESE) de cada período.
+
+
+Art. 6º.
+
+Fica o chefe do Poder Executivo Municipal autorizado, nos termos do artigo 7 da Lei Federal nº 4.320, de 17 de Março de 1964, a abrir créditos adicionais suplementares no orçamento vigente da Administração Direta e Indireta até o limite de 5% (cinco por cento) do valor total atualizado do orçamento.
+
+
+Parágrafo único
+
+Fica excluído do limite de que trata o caput deste artigo, os créditos adicionais suplementares que não alterem o valor da dotação atribuída a cada projeto ou atividade e os que decorrem de leis municipais especificas no exercício.
+
+
+Art. 7º.
+
+Esta lei entrará em vigor em 1º de Janeiro de 2002, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de CORBÉLIA
+
+Em 23 dias de novembro de 2001.
+
+Clóvis João Bombarda
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Jornal O Paraná de 27/11/2001, pág. 34-34, CI-123-AI.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/313/ta
+

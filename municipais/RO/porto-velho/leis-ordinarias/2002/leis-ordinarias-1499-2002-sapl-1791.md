@@ -1,0 +1,73 @@
+---
+titulo: "Lei nº 1.499, de 27 de dezembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1499"
+data: "2002-12-27"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1791"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3412/text"
+sha256_fonte: "057df007feebc6496d7206d1df596c26ba301c10e7958fded5746abdb43525f1"
+sha256_texto: "b0e49236652dcbcc3bf0a41054adedb894e2480fc984024053a27f0305b4f9d1"
+capturado_em_fonte: "2026-10-27T21:42:58.478913-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.499, de 27 de dezembro de 2002
+
+“Dispõe sobre autorização legislativa ao Município para receber doação de área de Terra do INCRA”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica
+
+**FAÇO SABER**, que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu, sanciono a seguinte:
+
+**L E I:**
+
+
+Art. 1º.
+
+Fica o Município, por intermédio do Poder Executivo, autorizado a receber em doação onerosa, do Instituto Nacional de Colonização e Reforma Agrária – INCRA, a área de terra com duzentos hectares, situada no Município de Porto Velho, Estado de Rondônia, com especificações, limites e confrontações estipulados nesta Lei.
+
+
+Art. 2º.
+
+A área a que se refere o artigo anterior, pertence ao Projeto Fundiário Alto Madeira, e possui o seguinte Memorial descritivo, obtido pelo método Poligométrico – Estadimétrico, por meio de teodolito repetidor Wild T – 1: a partir do marco M-3 situado a uma distância de 485,48m (quatrocentos e oitenta e cinco metros e quarenta e oito centímetros) do marco M-2, segue-se por uma linha reta com azimute verdadeiro de 354º10’33”, uma distância de 434,64m (quatrocentos e trinta e quatro metros e sessenta e quatro centímetros) onde será fincado o marco inicial MA-3. A partir deste ponto segue-se por uma linha reta, com azimute verdadeiro de 354º10’33”, uma distância de 314,33m (trezentos e quatorze metros e trinta e três centímetros) até alcançar o marco M-7, a partir deste, segue-se por uma linha reta, com azimute verdadeiro de 352º08’55”, uma distância de 584,18m (quinhentos e oitenta e quatro metros e dezoito centímetros) até alcançar o marco M-8, a partir deste, segue-se por uma linha reta, com azimute verdadeiro de 23º28’24”, uma distância de 54,73m (cinqüenta e quatro metros e setenta e três centímetros) até alcançar o marco M-10, a partir deste segue-se por uma linha reta, com azimute verdadeiro de 80º42’40”, uma distância de 483,24m (quatrocentos e oitenta e três metros e vinte e quatro centímetros) até alcançar o piquete EZ-184 A, a partir deste segue-se por uma linha reta, com azimute verdadeiro de 79º24’02”, uma distância de 17,40m (dezessete metros e quatro centímetros) até alcançar o piquete EZ-184 B, a partir deste segue-se por uma linha reta com azimute verdadeiro de 84º49’52”, uma distância de 448,42m (quatrocentos e quarenta e oito metros e quarenta e dois centímetros) até alcançar o marco M-13, a partir deste segue-se por uma linha reta, com azimute verdadeiro de 85º26’47”, uma distância de 1.137,39m (mil cento e trinta e sete metros e trinta e nove centímetros) até alcançar o marco M-10, a partir deste segue por uma linha reta, com azimute verdadeiro de 175º21’37”, uma distância de 936,66m (novecentos e trinta e seis metros e sessenta e seis centímetros) até alcançar o ponto onde será fincado o marco MA- 10, a partir deste segue por uma linha reta, com azimute verdadeiro de 263º54’27”, uma distância de 2.071,98m (dois mil e setenta e um metros e noventa e oito centímetros) até alcançar finalmente o marco MA-3, fechando o poligonal de duzentos hectares.
+
+
+Parágrafo único
+
+A área estabelecida no caput deste artigo, será desmembrada da área maior de 390,8216 hectares, corresponde ao lote nº 02, da gleba 02 do imóvel gleba Belmont, pertencente ao Projeto Fundiário Alto Madeira, restando uma área remanescente de 190,8216 hectares, cuja configuração será viabilizada quando da elaboração da Planta Topográfica expedida pelo órgão competente.
+
+
+Art. 3º.
+
+A área objeto desta doação, será destinada exclusivamente à Unidade de Conservação denominada “Parque Natural Municipal de Porto Velho”, conforme o que dispõe o Decreto Municipal nº 3.816, de 27 de dezembro de 1989.
+
+
+Art. 4º.
+
+O Município observará fielmente quanto à utilização da área recebida em doação pela presente Lei, todos os princípios que regem a legislação sobre unidades de conservação, devendo adotar todas as medidas objetivando a elaboração e execução de Plano de Manejo da Unidade de Conservação.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário, em especial a Lei nº 1.444, de 27 de dezembro de 2001.
+
+
+**CARLOS ALBERTO DE AZEVEDO CAMURÇA Prefeito do Município**
+
+RANILSON DE PONTES GOMES  
+Procurador Geral do Município
+

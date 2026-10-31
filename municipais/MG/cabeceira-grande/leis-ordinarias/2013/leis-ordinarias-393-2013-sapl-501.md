@@ -1,0 +1,346 @@
+---
+titulo: "LEI ORDINÁRIA nº 393, de 10 de abril de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "393"
+data: "2013-04-10"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2019-10-02; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/501"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/651/text"
+sha256_fonte: "1b3c7f23a846a32ca9c2192017ccb6c9d65ed13cf286b51e97e9412ffad758bf"
+sha256_texto: "87ae187f3e6f57c8b437f0260afb2007da0c15119c305a6d3a674f44d3a42a12"
+capturado_em_fonte: "2026-10-27T20:26:36.937943-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 393, de 10 de abril de 2013
+
+Regulamenta o disposto no inciso I do artigo 89 da Lei Complementar n.° 32, de 2 de dezembro de 2015, que ‘dispõe sobre o Estatuto dos Servidores Públicos Municipais de Cabeceira Grande (MG)”, para disciplinar a cessão de servidores públicos municipais efetivos.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei regulamenta o disposto no inciso I do artigo 89 da Lei Complementar n.° 32, de 2 de dezembro de 2015, que ‘dispõe sobre o Estatuto dos Servidores Públicos Municipais de Cabeceira Grande (MG)”, para disciplinar a cessão de servidores públicos municipais efetivos para ter exercício em outro órgão ou entidade dos Poderes da União, dos Estados, do Distrito Federal, de outros Municípios ou de outro órgão ou Poder do Município de Cabeceira Grande, nas seguintes hipóteses:
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+I –
+
+para exercício em cargo de provimento em comissão, ou função de confiança, gratificada ou afim, com ônus para o órgão cessionário; e
+
+
+II –
+
+para atender a termos de convênio administrativo.
+
+
+§ 1º
+
+No caso do disposto no inciso I do caput deste artigo, a cessão será formalizada em ato próprio expedido pelo órgão cedente.
+
+
+§ 2º
+
+No caso do disposto no inciso II do caput deste artigo, o respectivo instrumento convenial será firmado a prazo certo e para fim determinado, e deverá prever, entre outros, necessariamente:
+
+
+I –
+
+a responsabilidade, atendido o interesse público e a legislação pertinente, pelo ônus da remuneração do servidor cedido e dos respectivos encargos sociais definidos em lei, observado o disposto no artigo 1°-A e respectivo parágrafo único desta Lei;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+II –
+
+o prazo de vigência da cessão e a possibilidade ou não de sua prorrogação ou renovação;
+
+
+III –
+
+o número de servidores objeto da cessão;
+
+
+IV –
+
+a descrição das funções que se pretende que sejam exercidas por servidor cedido no órgão cessionário;
+
+
+V –
+
+a responsabilidade do cessionário, no caso de cessão com ônus para o órgão cedente decorrente de requisição judicial, permuta ou no caso da aplicação do sistema de ressarcimento de que trata o artigo 1°-A e respectivo parágrafo único desta Lei, por informar nos prazos estabelecidos:
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+a)
+
+o horário de trabalho do servidor e as funções que o mesmo exerce;
+
+
+b)
+
+o horário de funcionamento do órgão cessionário;
+
+
+c)
+
+as eventuais alterações cadastrais do servidor, tais como endereço, telefone, estado civil;
+
+
+d)
+
+os eventos relacionados à maternidade e à paternidade, à licença para tratamento de saúde e ao acidente de trabalho, se for o caso;
+
+
+e)
+
+as ausências ao trabalho de que trata o Estatuto dos Servidores Públicos Municipais;
+
+
+f)
+
+os períodos de recesso, quando houver, na unidade em que o servidor prestar serviços;
+
+
+g)
+
+o período de gozo de férias e a necessidade de suspensão do gozo das mesmas;
+
+
+h)
+
+a eventual prática de infrações disciplinares pelo servidor; e
+
+
+i)
+
+as avaliações de desempenho definidas em lei.
+
+
+VI –
+
+a responsabilidade do cessionário, no caso de cessão com ônus para o órgão cedente decorrente de requisição judicial, permuta ou no caso da aplicação do sistema de ressarcimento de que trata o artigo 1°-A e respectivo parágrafo único desta Lei, por zelar pela assiduidade e pelo cumprimento da jornada de trabalho do servidor, informando eventuais faltas injustificadas;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+VII –
+
+a possibilidade de ser requisitada a devolução de servidores cuja cessão fora autorizada quando assim o exigir o interesse público e, especialmente, por motivo de reduzido quadro de pessoal do órgão ou entidade cedente ou de indisponibilidade financeira e orçamentária.
+
+
+VIII –
+
+a responsabilidade do cessionário pela avaliação de desempenho do servidor durante o período de estágio probatório, nos termos do disposto no artigo 1°-B desta Lei.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+§ 3º
+
+Não será permitida a cessão de servidor:
+
+
+I –
+
+investido exclusivamente em cargo de provimento em comissão ou em função pública temporária; e
+
+
+II –
+
+contra o qual tramita processo administrativo disciplinar ou sindicância administrativa.
+
+
+§ 4º
+
+A cessão de servidor municipal não será autorizada quando for contrária ao interesse público e, especialmente, por motivo de reduzido quadro de pessoal do órgão ou entidade cedente ou de indisponibilidade financeira e orçamentária.
+
+
+§ 5º
+
+Poderá ser requerida a devolução de servidores cuja cessão fora autorizada quando assim o exigir o interesse público e, especialmente, por motivo de reduzido quadro de pessoal do órgão ou entidade cedente ou de indisponibilidade financeira e orçamentária.
+
+
+Art. 1º-A.
+
+A cessão somente poderá ser efetivada com ônus para o órgão cessionário, salvo no caso de requisição judicial quando o ônus poderá ser do órgão cedente conforme se dispuser a respectiva requisição ou, ainda, para atender razões de interesse público inclusive com contrapartidas e subvencionamento e, também, no caso de permuta que atender ao interesse público do Município de Cabeceira Grande.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+Parágrafo único
+
+Em caráter excepcional, será admitido o sistema de ressarcimento em que o órgão cedente se responsabiliza pelo pagamento remuneratório do servidor cedido e é ressarcido tempestivamente pelo órgão cessionário, desde que, porém, o cômputo da despesa com pessoal seja contabilizado e atribuído ao órgão cessionário.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+Art. 1º-B.
+
+O servidor não estável, em cumprimento do estágio probatório, poderá ser cedido na forma desta Lei ficando suspenso o prazo legal de estágio probatório, cuja suspensão é ressalvada se, cumulativamente, no órgão cessionário o servidor cedido exercer cargo com atribuições semelhantes, compatíveis ou afins a seu cargo de origem e o órgão cessionário se responsabilizar, formalmente, pela avaliação legal de desempenho durante o período de estágio probatório.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+Art. 1º-C.
+
+Esta Lei abrange, também, cessões recíprocas, na forma de permuta, havendo compatibilidade entre os cargos e funções permutados.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+Art. 1º-D.
+
+O servidor cedido, na forma desta Lei, conserva a condição de filiado ao Regime Próprio de Previdência Social do Município de Cabeceira Grande, devendo, na forma da legislação previdenciária, proceder ao recolhimento da sua contribuição, ainda que de modo avulso, bem como da integralidade da contribuição patronal correspondente.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+Art. 1º-E.
+
+Havendo mais de um servidor interessado na cessão para determinado órgão, adotar-se-ão critérios justos e objetivos para a seleção, inclusive com base na qualificação e especialização para o desempenho do cargo no órgão cessionário e aplicando-se, no que couber, os critérios que regulamentam a remoção de que trata o Decreto n.º 2.519, de 14 de março de 2019.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+Art. 1º-F.
+
+A cessão dar-se-á para cargos com atribuições semelhantes e compatíveis, salvo no caso de o servidor cedido exercer, no órgão cessionário, cargo de provimento comissionado ou função comissionada.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+#### CAPÍTULO II — DAS CONCEITUAÇÕES BÁSICAS
+
+
+Art. 2º.
+
+Para os efeitos desta Lei,considera-se:
+
+
+I –
+
+cessão: ato autorizativo para atendimento de qualquer das hipóteses de incidência previstas no artigo 1º desta Lei, em que o servidor público municipal presta serviço em órgão diverso, sem alteração da lotação no órgão de origem;
+
+
+II –
+
+cessionário: o órgão ou entidade onde o servidor irá exercer suas atividades; e
+
+
+III –
+
+cedente: o órgão ou entidade de origem e lotação do servidor cedido.
+
+
+#### CAPÍTULO III — DOS PROCEDIMENTOS
+
+
+Art. 3º.
+
+A cessão deverá ser formalizada mediante requerimento devidamente protocolado.
+
+
+§ 1º
+
+O requerimento seguirá para o órgão de recursos humanos respectivo, a fim de que seja efetuado o levantamento da situação funcional do servidor e ainda:
+
+
+I –
+
+a quantidade de férias não gozadas ou suspensas do servidor, se for o caso;
+
+
+II –
+
+a jornada do cargo de que o servidor for titular; e
+
+
+III –
+
+se o servidor se encontra ou não em gozo de alguma licença, bem como outras informações pertinentes.
+
+
+§ 2º
+
+Efetuado o levantamento de que trata o § 1º deste artigo, órgão de recursos humanos respectivo emitirá parecer sobre o atendimento ou não dos requisitos de:
+
+
+I –
+
+prévia existência de convênio e se este se encontra em vigor;
+
+
+II –
+
+trâmite ou não de eventual processo administrativo disciplinar ou sindicância em face do servidor;
+
+
+III –
+
+compatibilidade entre as atribuições do cargo de que o servidor é titular e as funções que serão exercidas no órgão cessionário, bem como compatibilidade da jornada de trabalho; e
+
+
+IV –
+
+eventuais pendências de consignação em folha de pagamento.
+
+
+§ 3º
+
+Após parecer do órgão de recursos humanos respectivo, o órgão de lotação do servidor se manifestará sobre a conveniência ou não da cessão, observado o que dispõe esta Lei, e se há disponibilidade orçamentária e financeira.
+
+
+Art. 4º.
+
+A cessão dar-se-á mediante decisão final do Chefe do Poder Executivo e respectiva publicação de Portaria ou celebração de convênio administrativo, conforme cada caso.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES FINAIS
+
+
+Art. 5º.
+
+Verificado interesse público e a disponibilidade orçamentária e financeira, a Administração Pública Direta e Indireta do Poder Executivo Municipal poderá solicitar a cessão de servidor ou empregado oriundo de órgão ou entidade de qualquer dos Poderes da União, dos Estados, do Distrito Federal, de outros Municípios ou de Poder Município, nas mesmas hipóteses previstas nesta Lei.
+
+
+Art. 6º.
+
+O período de afastamento correspondente à cessão de que trata este Lei será considerado como de efetivo exercício, para os efeitos legais e estatutários previstos, nos casos de cessão por requisição judicial, para atender razões de interesse público inclusive com contrapartidas e subvencionamento ou para atender interesse público do Município de Cabeceira Grande.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 647, de 02 de outubro de 2019.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 10 de abril de 2013; 17º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**DAILTON GERALDO RODRIGUES GONÇALVES**
+
+**Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais**
+
+**"Este texto não substitui o original."**
+

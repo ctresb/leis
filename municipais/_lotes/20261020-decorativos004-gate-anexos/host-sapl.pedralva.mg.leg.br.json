@@ -1,0 +1,26 @@
+{
+  "host": "sapl.pedralva.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/oficio_16-09-2024_-_renuncia_ao_cargo_de_vereadora.pdf da norma Termo de Posse-PRES nº 3, de 17 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Renuncia ao cargo de vereadora na Câmara Municipal de Pedralva.",
+      "anexo_arquivo": "http://sapl.pedralva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/1/oficio_16-09-2024_-_renuncia_ao_cargo_de_vereadora.pdf",
+      "ano": 2024,
+      "norma": 1411
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.pedralva.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.pedralva.mg.leg.br/261f71cae43f9e10748fbed825859f00b5ea10b13a483a87e1e363979ba6811b.json",
+      "sha256": "45a6bfaf4f477dea97ea50c1b86fa44b1468388e42a58a47c77df27d69818c39",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.pedralva.mg.leg.br/261f71cae43f9e10748fbed825859f00b5ea10b13a483a87e1e363979ba6811b.meta.json"
+    }
+  ],
+  "total": 1
+}

@@ -1,0 +1,587 @@
+---
+titulo: "Lei Ordinária nº 1.740, de 25 de outubro de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1740"
+data: "1977-10-25"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1987-11-17; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1762"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2429/text"
+sha256_fonte: "dab5a1af8eb3dbba09e142a0d452a9b1a9498c7d308dc31f07ed468f41ec643d"
+sha256_texto: "3951be5d80d760f988793d98038a5e5d2f704b5443f6f48322d90dee901f60aa"
+capturado_em_fonte: "2026-10-27T18:57:54.205344-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.740, de 25 de outubro de 1977
+
+DISPÕE SOBRE OS LOTEAMENTOS PARA FINS DE EDIFICAÇÃO DE QUALQUER NATUREZA, NO MUNICÍPIO DE BIRIGUI.
+
+
+Eu, **PEDRO MARIN BERBEL**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Esta lei dispõe sobre **LOTEAMENTOS URBANOS**, tendo em vista os seguintes objetivos:
+
+
+I –
+
+assegurar a reserva dos espaços necessários, destinados ao desenvolvimento urbano;
+
+
+II –
+
+estimular e orientar o desenvolvimento urbano.
+
+
+Art. 2º.
+
+Para efeitos desta lei, ficam assim definidos:
+
+
+I –
+
+GLEBA – área de terra que ainda não foi objeto de loteamento, na zona urbana do Município, dada a esta definição do § 3º do artigo 1º do Decreto-Lei Federal nº 271, de 28 de fevereiro de 1967;
+
+
+II –
+
+ARRUAMENTO – plano de subdivisão de glebas em quadras, detalhando as vias e logradouros públicos e as áreas livres e institucionais, seguido, nos prazos desta lei, da efetiva implantação das obras respectivas de arruamento;
+
+
+III –
+
+LOTEAMENTO – a subdivisão de área urbana em lotes, para edificação de qualquer natureza, que não se enquadre no inciso seguinte;
+
+
+IV –
+
+DESMEMBRAMENTO – a subdivisão de área urbana em lotes para edificações na qual seja aproveitado o sistema viário oficial de cidade ou vila, sem que se abram novas vias ou logradouros e sem que prolongam ou modifiquem os existentes;
+
+
+V –
+
+LOTE – parcela de terreno contido em uma quadra, objeto de loteamento ou desmembramento, com pelo menos uma divisa lindeira à via oficial de circulação de veículos;
+
+
+VI –
+
+QUADRA – porção de terreno delimitada por vias oficiais de circulação de veículos, podendo ainda, quando proveniente de loteamentos aprovados, ter como limites as divisas desses mesmos loteamentos;
+
+
+VII –
+
+DESDOBRO DE LOTE – separação de parte de um lote para englobamento em outro adjacente, observadas as disposições legais a respeito da área mínima para terrenos edificáveis;
+
+
+VIII –
+
+RETALHAMENTO – separação de parte ou partes de um lote para formação de novo ou novos lotes, observadas as mesmas disposições referentes às áreas mínimas para terrenos edificáveis;
+
+
+IX –
+
+VIA DE CIRCULAÇÃO – espaço destinado à circulação de veículos ou pedestres, sendo que:
+
+
+a)
+
+via particular é a via de propriedade privada, ainda que aberta ao uso público;
+
+
+b)
+
+via oficial é a via de uso público, aceita, declarada ou reconhecida como oficial pela Prefeitura.
+
+
+X –
+
+EIXO DA VIA – linha que, passando pleno seu centro, é equidistante dos alinhamentos;
+
+
+XI –
+
+ALINHAMENTO – linha divisória entre o terreno de propriedade particular e logradouro público;
+
+
+XII –
+
+FRENTE DO LOTE – sua divisa lindeira à via oficial de circulação de veículos;
+
+
+XIII –
+
+FUNDO DO LOTE – dívida oposta à frente, sendo que:
+
+
+a)
+
+no caso de lotes de esquinas, o fundo do lote é encontro de suas divisas laterais;
+
+
+b)
+
+no caso de lotes irregulares ou de mais de uma frente, o fundo será definido de acordo com as condições estabelecidas pelo Setor de Obras e Serviços Públicos.
+
+
+XIV –
+
+PROFUNDIDADE DO LOTE – distancia medida entre o alinhamento do lote e uma paralela a este que passa pelo ponto mais extremo do lote em relação ao alinhamento;
+
+
+XV –
+
+ÁREAS INSTITUCIONAIS – parcelas de terrenos, em glebas loteáveis, reservadas à Prefeitura, e que passam ao domínio desta, por doação, na ocasião da aprovação do plano de arruamento;
+
+
+XVI –
+
+ÁREAS LIVRES – parcelas de terreno, em glebas loteáveis, reservadas à Prefeitura, para construção de praças, jardins, ou outros logradouros públicos, que e passam ao domínio do Município nos termos do inciso XV;
+
+
+XVII –
+
+ACESSO – dispositivo que permite a interligação para veículos e pedestres entre:
+
+
+a)
+
+logradouro público e propriedade privada;
+
+
+b)
+
+propriedade privada e áreas do uso comum em condomínio;
+
+
+c)
+
+logradouro público e espaços de uso comum em condomínio.
+
+
+Parágrafo único
+
+A divisão de glebas em chácaras, sítios ou semelhantes, caracteriza o retalhamento do artigo 286, do Decreto Estadual nº 52.497, de 21 de julho de 1970, e por ele será regido, não sendo permitidos empreendimentos desse gênero na zona do Município.
+
+
+#### CAPÍTULO II — DOS ARRUAMENTOS E LOTEAMENTOS
+
+
+Art. 3º.
+
+O parcelamento do solo para fins de edificação na zona urbana, caracterizado por plano de arruamento, loteamento ou desmembramento, está sujeito à prévia aprovação da Prefeitura e às disposições desta lei. Às mesmas condições sujeitam-se os retalhamentos e desdobros de lotes.
+
+
+§ 1º
+
+Na zona rural, o parcelamento do solo somente será permitido em áreas delimitadas por lei para fins de expansão urbana mediante regulamentação própria e autorização do instituto Nacional de Colonização e Reforma Agrária – INCRA.
+
+
+§ 2º
+
+Nenhum parcelamento do solo será permitido em terrenos baixos, alagados e sujeitos à inundações, antes de tomadas, pelo requerente, as providências necessárias para assegura-lhe o escoamento das águas; as obras necessárias para tal fim, poderão ser projetadas, quando for o caso, juntamente com as vias de circulação a serem abertas, Da mesma forma, não será permitido o parcelamento de terrenos que tenham sido aterrados com materiais nocivos à saúde pública, sem que sejam previamente saneados. Do mesmo modo, não será permitido o parcelamento de terrenos com declividade igual ou superior a 20% (vinte por cento).
+
+
+Art. 4º.
+
+O plano de arruamento, loteamento, ou desmembramento, deverá obedecer às diretrizes fixadas pela Prefeitura, que se manifestará em requerimento assinado pelo proprietário, acompanhado dos documentos abaixo discriminados, seguindo as normas traçadas pelo Setor de Obras e Serviços Públicos:
+
+
+I –
+
+4 (quatro) vias de cópias de mapa plano-altimétrico-cadastral da área objeto do pedido, na escala 1:1.000, com curvas de nível de metro em metro, indicando com exatidão os limites de área com relação aos terrenos vizinhos, cursos d’água e suas denominações oficiais;
+
+
+II –
+
+4 (quatro) vias de cópias de planta de situação da área, na escala 1:5.000, que permita o perfeito reconhecimento e localização da área objeto do pedido;
+
+
+III –
+
+título de propriedade da área, comprovando o domínio;
+
+
+IV –
+
+certidão negativa de tributos municipais que incidam sobre a área.
+
+
+Art. 5º.
+
+A fixação de diretrizes, pelo Setor de Obras e Serviços Públicos, constará de:
+
+
+I –
+
+características, dimensionamento e traçado de vias de circulação, adequados aos planos e projetos viários do Município e às condições locais;
+
+
+II –
+
+características, dimensionamento e locação de áreas verdes, até o máximo de 50% (cinquenta por cento) do total exigido por lei, sendo que as mesmas não serão localizadas em parcelas de terreno que, por sua configuração topográfica, apresentem declividade superior a 20% (vinte por cento);
+
+
+III –
+
+características, dimensionamento e localização de áreas institucionais, até o total de 3% (três por cento), exigido por lei.
+
+
+Parágrafo único
+
+As diretrizes terão validade pelo prazo de 120 (cento e vinte) dias corridos, contados da data da notificação ou publicação na imprensa local.
+
+
+Art. 6º.
+
+O plano de loteamento, submetido pelo interessando à aprovação da Prefeitura, obedecidas as diretrizes pré-estabelecidas, será apresentado em duas fases, correspondendo a primeira ao plano e execução do arruamento, com as vias públicas, áreas livres e institucionais, e a segunda ao plano de loteamento propriamente dito.
+
+
+Art. 7º.
+
+O plano de arruamento em 4 (quatro) vias de cópias, assinadas pelo proprietário e por profissional devidamente registrado na Prefeitura, obedecidas as diretrizes anteriormente estabelecidas e as normas fixadas pelo Setor e Serviços Públicos, contará de:
+
+
+I –
+
+projeto geral de arruamento, na escola 1:1.000, incluindo curvas de nível do terreno de metro em metro, vias de circulação, quadras, áreas verdes e áreas institucionais;
+
+
+II –
+
+perfis longitudinais e seções transversais de todas as vias de circulação, em escalas horizontais de 1:100, em cópias de originais desenhados sobre papel milimetrado;
+
+
+III –
+
+memoriais descritivos e justificativos;
+
+
+IV –
+
+comprovação de que o profissional responsável pela execução do arruamento está registrado na Prefeitura do Município.
+
+
+Art. 8º.
+
+Da área total, objeto do plano de arruamento e loteamento, serão destinados, no mínimo:
+
+
+I –
+
+20% (vinte por cento) para vias de circulação;
+
+
+II –
+
+10% (dez por cento) para áreas verdes;
+
+
+III –
+
+3% (três por cento) para áreas institucionais.
+
+
+Parágrafo único
+
+Quando, a juízo do órgão competente da Prefeitura, o espaço necessário para vias de circulação for inferior a 20% (vinte por cento) da área arruada, a área necessária para completar esse valor será adicionada às áreas verdes.
+
+
+Art. 9º.
+
+As características técnicas, declividades, dimensões máximas e mínimas exigidas para as vias de circulação, em plano de arruamento, são as constantes das normas do Setor de Obras e Serviços Públicos.
+
+
+Art. 10.
+
+O espaço livre decorrente da confluência de vias de circulação só será computado como área verde, quando, em algum ponto da área puder ser contido um círculo com o raio de 10 (dez) metros.
+
+
+Parágrafo único
+
+Não será computado como área verde o espaço que, mesmo satisfazendo as condições previstas no *caput* deste artigo, apresentar declives superior a 20% (vinte por cento).
+
+
+Art. 11.
+
+O comprimento das quadras não poderá ser superior a 200 (duzentos) metros.
+
+
+Art. 12.
+
+O prazo máximo para início e término de obras é de 1 (um) ano, a contar da expedição da licença para execução de obras, caracterizando-se o início de obras pela abertura e nivelamento das vias de circulação.
+
+
+Art. 13.
+
+Após o término das obras correspondentes à primeira fase, deverá o interessado requerer à Prefeitura a competente vistoria, para aceitação do arruamento e o recebimento em doação, dos logradouros públicos, para sua oficialização.
+
+
+Art. 14.
+
+Após a aprovação do plano de arruamento, deverá o interessando, dentro do prazo máximo de 30 (trinta) dias, submeter à aprovação da Prefeitura o plano de loteamento, correspondente à segunda fase referida no artigo 6º desta lei.
+
+
+Parágrafo único
+
+O plano de loteamento será submetido à aprovação da Prefeitura, mediante a apresentação dos seguintes documentos, obedecidas as normas fixadas pelo Setor de Obras e Serviços Públicos:
+
+
+I –
+
+requerimento assinado pelo proprietário;
+
+
+II –
+
+1 (uma) via de cópia do projeto geral de arruamento aprovado, a que se refere o inciso I do artigo 7º desta lei;
+
+
+III –
+
+1 (uma) via de original transparente copiativo enrolado e 4 (quatro) vias de cópias do plano de loteamento em escala 1:1.000, assinadas pelo proprietário e por profissional devidamente registrado na Prefeitura, obedecido o plano de arruamento aprovado e incluindo as vias de circulação, as áreas verdes, as áreas institucionais e parcelamento das quadras em lotes, as quais conterão: as cotas de todas as linhas divisórias e as indicações da área de cada lote;
+
+
+IV –
+
+documento comprobatório da doação dos logradouros do arruamento;
+
+
+V –
+
+documento se comprometendo a cumprir as exigências constantes do artigo 28 e seu parágrafo da presente lei.
+
+
+Art. 15.
+
+As ruas não poderão ter largura total inferior a 14 (quatorze) metros, sem leito carroçável inferior a 10 (dez) metros.
+
+
+Art. 16.
+
+À margem das faixas das estradas de ferro e de rodagem é obrigatória a existência de ruas de 15 (quinze) metros de largura no mínimo.
+
+
+Art. 17.
+
+Nos cruzamentos das vias públicas os dois alinhamentos deverão ser concordados com um arco de círculo de raio mínimo igual a 9 (nove) metros.
+
+
+Parágrafo único
+
+Nos cruzamentos esconsos, as disposições do corpo deste artigo, poderão sofrer modificações.
+
+
+Art. 18.
+
+A rampa máxima admitida para as vias de comunicação é de 10% (dez por cento).
+
+
+Art. 19.
+
+Ao longo das águas correntes, intermitentes ou dormentes, será destinada área para rua ou sistema de recreio com 9 (nove) metros de largura no mínimo, em casa margem, satisfeitas as demais exigências desta lei.
+
+
+Art. 20.
+
+Nos chamados vales secos, será destinada, nas mesmas condições do artigo anterior, faixa com 9 (nove) metros de cada lado do eixo, podendo ser reduzida ao mínimo de 7 (sete) metros, em função da área da bacia tributária, sempre obedecendo as demais exigências desta lei.
+
+
+Art. 21.
+
+A área mínima de um lote será de 250m² (duzentos e cinquenta metros quadrados), com testada no mínimo de 10m (dez metros).
+
+
+Parágrafo único
+
+Para os lotes localizados em esquinas de quadras será permitida a área mínima de 233,00m² (duzentos e trinta e três metros quadrados).
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.439, de 17 de novembro de 1987.
+
+
+Art. 22.
+
+Aprovado o plano de loteamento e expedido pela Prefeitura o respectivo **ALVARÁ DE APROVAÇÃO**, o interessado deverá, obedecidas as disposições legais (Decreto-Lei Federal nº 271, de 28 de fevereiro de 1967), proceder à sua inscrição no registro de Imóveis competente e encaminhar à Prefeitura cópia de Certidão daquela, sem o que não serão expedidos Alvarás para edificação nos lotes.
+
+
+Art. 23.
+
+Qualquer alteração em plano de arruamento, loteamento ou desmembramento, dependerá de prévia autorização e aceitação pela Prefeitura, obedecidas as disposições desta lei.
+
+
+§ 1º
+
+Somente serão admitidas alterações mediante prévia autorização da Prefeitura, nas dimensões dos lotes existentes, em loteamentos ou desmembramentos aprovados ou regularmente inscritos no Registro de Imóveis competente, desde que se enquadram nas exigências desta lei.
+
+
+§ 2º
+
+Os desdobramentos de lote e retalhamento também dependerão de prévia autorização da Prefeitura, que levará em conta as áreas mínimas de terrenos e máximas de sua ocupação.
+
+
+Art. 24.
+
+O projeto de retalhamento, desdobro de lote ou de modificação de plano de loteamento ou de desmembramento, desde que não implique em abertura ou modificação das vias e logradouros existentes, será submetido à aprovação da Prefeitura, através de seus órgãos próprios, obedecidas as normas fixadas pelo Setor de Obras e Serviços Públicos, e instruído com os seguintes documentos:
+
+
+I –
+
+requerimento assinado pelo proprietário;
+
+
+II –
+
+1 (uma) via original copiativo enrolado e 4 (quatro) vias de cópias em escala de 1:1.000 do projeto assinado pelo proprietário e por profissional devidamente registrado na Prefeitura e com indicação dos lotes resultantes do projeto cotado em todas as duas linhas divisórias e da superfície de cada lote;
+
+
+III –
+
+1 (uma) via cópia da planta em escala 1:1.000, com indicação da situação anterior da área, contendo curvas de nível de metro em metro, vias lindeiras, dimensões, confrontações e superfícies;
+
+
+IV –
+
+4 (quatro) vias de cópias de plantas de situação na escala de 1:5.000, que permita o perfeito reconhecimento a localização das áreas;
+
+
+V –
+
+título de propriedade da área, que comprove o domínio da mesma;
+
+
+VI –
+
+certidão negativa de tributos municipais que incidem sobre a área objeto do projeto.
+
+
+Art. 25.
+
+Aprovado o projeto de loteamento, de desmembramento, de retalhamento, de desdobro de lotes, ou de modificações a eles pertinentes, e expedido o respectivo Alvará de Aprovação, o interessado deverá promover o seu registro no Cartório de Imóveis da Comarca, encaminhando à Prefeitura a competente Certidão daquele órgão, sem a qual anão serão expedidos Alvarás para Edificação nos lotes resultantes do projeto.
+
+
+Art. 26.
+
+Compete ao Setor de Obras e Serviços Públicos:
+
+
+I –
+
+a fixação de diretrizes par aplano de arrumamento e loteamento, bem como a apreciação preliminar do plano de arrumamento, para verificação do perfeito cumprimento das diretrizes fixadas;
+
+
+II –
+
+o acompanhamento e a fiscalização técnico-administrativa da execução de plano de arruamento aprovado;
+
+
+III –
+
+a fiscalização, o embargo e a aplicação de sanções às obras irregulares ou clandestinas, de arruamentos;
+
+
+IV –
+
+a vistoria final, para aceitação de arruamento executado, ou partes de arruamentos executadas;
+
+
+V –
+
+a preparação dos elementos para lavratura, pelo Departamento próprio, de escrituras de doação de plano de arruamento executado, incluindo vias de circulação, áreas verdes e áreas institucionais;
+
+
+VI –
+
+a preparação de elementos para oficialização dos logradouros públicos doados.
+
+
+Art. 27.
+
+Compete ao Executivo, uma vez ouvido do Setor de Obras e Serviços Públicos, a aprovação de plano de arruamento, de loteamento, de desmembramento, de retalhamento ou de desdobro de lote, bem como a expedição do respectivo Alvará.
+
+
+#### CAPÍTULO III — DAS OBRIGAÇÕES DOS PROPRIETÁRIOS DE LOTEAMENTOS COM RELAÇÃO ÀS OBRAS DE INFRA-ESTRUTURA
+
+
+§ 2º
+
+A Prefeitura Municipal não aprovará plantas de construção em loteamentos ou desmembramentos cujos proprietários não tenham cumprido a exigência do artigo e do § 1º.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.982, de 19 de fevereiro de 1981.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.134, de 12 de agosto de 1983.
+
+
+#### CAPÍTULO IV — DAS INFRAÇÕES E PENALIDADES
+
+
+Art. 29.
+
+As infrações da presente lei darão ensejo à Cassação do alvará, ao embargo administrativo das obras e à aplicação de multas fixadas nesta lei.
+
+
+Art. 30.
+
+Será aplicada a multa do valor igual à Taxa de Licença, para os arruamentos ou loteamentos que tenham sigo executados em desacordo com o projeto aprovado e possam ser conservados mediante a aprovação de projeto regulamentar, modificativo.
+
+
+Art. 31.
+
+Será aplicada a multa de 10 (dez) vezes a do artigo anterior, para os loteamentos executados sem licença e que possam ser conservados mediante a aprovação de projeto regulamentar.
+
+
+Art. 32.
+
+Além das multas previstas nos artigos 30 e 31, serão aplicadas aos respectivos proprietários, multas diárias de valor igual a um salário-referência (Unidade Fiscal Padrão), por quilômetro ou fração de quilômetro de via pública de loteamento irregular, caso o responsável não requeira, nos termos desta lei, a regularização do empreendimento, dentro do prazo de 30 (trinta) dias, contados da notificação pessoal ou da publicação na imprensa local e no Diário Oficial do Estado (Executivo).
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 33.
+
+As disposições contidas nos artigos 8º, 9º, 11 e 14, não se aplicam às vias de circulação existentes e oficializadas, nem aos loteamentos ou arruamentos aprovados, ou protocolados na Prefeitura, nem aos imóveis, lotes e quadras regularmente inscritos no Registro de Imóveis competente, anteriores à data da publicação desta lei.
+
+
+Art. 34.
+
+Os loteamentos existentes e não aprovados pela Prefeitura, anteriormente a 1972 (mil novecentos e setenta e dois), poderão ser regularizados, no prazo de 90 (noventa) dias, mediante doação ao Município, pelos respectivos proprietários, de todas as vias públicas e espaços livres.
+
+
+Parágrafo único
+
+Os proprietários de loteamentos previstos neste artigo, que não optarem pela sua regularização, mediante doação das vias públicas e espaços livres, fixarão sujeitos ao pagamento das multas previstas nos artigos 30 e 31 desta lei.
+
+
+Art. 35.
+
+Ficam mantidas as diretrizes básicas fixadas pelo Setor de Obras e Serviços Públicos, relativas a projetos de loteamentos protocolados na Prefeitura anteriormente à vigência desta lei.
+
+
+Art. 36.
+
+Está lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e cinco de outubro de mil novecentos e setenta e sete.
+
+**PEDRO MARIN BERBEL Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e cinco de outubro de mil novecentos e setenta e sete, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

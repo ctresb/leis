@@ -1,0 +1,76 @@
+Autoriza o Poder Executivo a abrir crédito adicional especial no orçamento do Município, com base em anulação parcial de dotação orçamentária, superávit financeiro do exercício anterior e excesso de arrecadação, no valor de R$ 181.000,00 (cento e oitenta e um mil reais), na forma em que especifica.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+O Poder Executivo Municipal fica autorizado a abrir crédito adicional especial, com base em anulação parcial, no valor de R$ 16.000,00 (dezesseis mil reais), para criação no exercício financeiro de 2025 das seguintes dotações orçamentárias:
+
+
+<table><tbody><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE ASSISTENCIA SOCIAL E FAMILIA - SEAF</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária: </strong>08.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</p></td></tr><tr><td><p><strong>Funcional Programática: </strong>08.002.0008.0244.0120.2470</p></td><td colspan="2"><p><strong>Atividade: </strong>Manutenção do cadastro único e bolsa família.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390930000 - Indenizações e restituições</p></td><td><p>31940 - Bloco Gestão do Prog. Bolsa Família e do Cadastro Único - Portaria MDS 113/2015</p></td><td><p>R$ 3.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE ASSISTENCIA SOCIAL E FAMILIA - SEAF</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária: </strong>08.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</p></td></tr><tr><td><p><strong>Funcional Programática: </strong>08.002.0008.0244.0120.2340</p></td><td colspan="2"><p><strong>Atividade:</strong> Manter o sistema de gestão da política de assistência social e serviços da</p><p>rede de proteção socioassistencial básica, respeitando as desigualdades socioterritoriais integrando as ações da iniciativa pública às da sociedade civil organizada para atendimento às pessoas, famílias e grupos em situação de vulnerabilidade social decorrente da pobreza, viabilizando condições para o fortalecimento do vínculo familiar e comunitário, e o desenvolvimento da autonomia e protagonismo enquanto cidadãos de direito.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390930000 - Indenizações e restituições</p></td><td><p>31936 - Componente para Qualificação da Gestão (SUAS)</p></td><td><p>R$ 3.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA – SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária: </strong>06.005</p></td><td colspan="2"><p>DEPARTAMENTO DE EDUCAÇÃO ESPECIAL</p></td></tr><tr><td><p><strong>Funcional Programática: </strong>06.005.0012.0367.0210.2270</p></td><td colspan="2"><p><strong>Atividade:</strong> Oferecer apoio ao educando.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>4490520000 - Equipamentos e material permanente</p></td><td><p>01104 - 25% s/demais impostos vinc à Educação</p></td><td><p>R$ 10.000,00</p></td></tr><tr><td colspan="3"><p><strong>VALOR TOTAL DA SUPLEMENTAÇÃO:  R$ 16.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Para dar cobertura aos créditos indicados no artigo anterior serão utilizados recursos provenientes da anulação das dotações a seguir:
+
+
+<table><tbody><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE ASSISTENCIA SOCIAL E FAMILIA - SEAF</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária:</strong> 08.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</p></td></tr><tr><td><p><strong>Funcional Programática:</strong> 08.002.0008.0244.0120.2340</p></td><td colspan="2"><p><strong>Atividade:</strong> Manter o sistema de gestão da política de assistência social e serviços da</p><p>rede de proteção socioassistencial básica, respeitando as desigualdades socioterritoriais integrando as ações da iniciativa pública às da sociedade civil organizada para atendimento às pessoas, famílias e grupos em situação de vulnerabilidade social decorrente da pobreza, viabilizando condições para o fortalecimento do vínculo familiar e comunitário, e o desenvolvimento da autonomia e protagonismo enquanto cidadãos de direito.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390300000 - Material de consumo</p></td><td><p>31936 - Componente para Qualificação da Gestão (SUAS)</p></td><td><p>R$ 3.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE ASSISTENCIA SOCIAL E FAMILIA - SEAF</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária:</strong> 08.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</p></td></tr><tr><td><p><strong>Funcional Programática:</strong> 08.002.0008.0244.0120.2470</p></td><td colspan="2"><p><strong>Atividade:</strong> Manutenção do cadastro único e bolsa família.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3190110000 - Vencimentos e vantagens fixas - pessoal civil</p></td><td><p>31940 - Bloco Gestão do Prog Bolsa Família e do Cadastro Único - Portaria MDS 113/2015</p></td><td><p>R$ 3.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA - SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária:</strong> 06.003</p></td><td colspan="2"><p>DEPARTAMENTO DE ENSINO FUNDAMENTAL</p></td></tr><tr><td><p><strong>Funcional Programática: </strong>06.003.0012.0361.0220.2250</p></td><td colspan="2"><p><strong>Atividade:</strong> Manter e aprimorar a gestão do sistema municipal de educação.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>4490520000 - Equipamentos e material permanente</p></td><td><p>01104 - 25% s/demais impostos vinc à Educação</p></td><td><p>R$ 10.000,00</p></td></tr><tr><td colspan="3"><p><strong>VALOR TOTAL DA ANULAÇÃO:  R$ 16.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+O Poder Executivo Municipal fica autorizado a abrir crédito adicional especial, com base em superávit financeiro de exercício anterior, no valor de R$ 25.000,00 (vinte e cinco mil reais), para criação no exercício financeiro de 2025 da seguinte dotação orçamentária:
+
+
+<table><tbody><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA - SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária:</strong> 06.005</p></td><td colspan="2"><p>DEPARTAMENTO DE EDUCAÇÃO ESPECIAL</p></td></tr><tr><td><p><strong>Funcional Programática: </strong>06.005.0012.0367.0210.2270</p></td><td colspan="2"><p><strong>Atividade:</strong> Oferecer apoio ao educando.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>4490520000 - Equipamentos e material permanente</p></td><td><p>01105 - Alienação de Ativos da Educação/Indenização de sinistro</p></td><td><p>R$ 25.000,00</p></td></tr><tr><td colspan="3"><p><strong>VALOR TOTAL DA SUPLEMENTAÇÃO:  R$ 25.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+O Poder Executivo Municipal fica autorizado a abrir crédito adicional especial, com base em excesso de arrecadação, no valor de R$ 140.000,00 (cento e quarenta mil reais), para criação no exercício financeiro de 2025 das seguintes dotações orçamentárias:
+
+
+<table><tbody><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE EDUCAÇÃO E CULTURA - SEMEC</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária:</strong> 06.005</p></td><td colspan="2"><p>DEPARTAMENTO DE EDUCAÇÃO ESPECIAL</p></td></tr><tr><td><p><strong>Funcional Programática: </strong>06.005.0012.0367.0210.2270</p></td><td colspan="2"><p><strong>Atividade: </strong>Oferecer apoio ao educando.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>4490520000 - Equipamentos e material permanente</p></td><td><p>01105 - Alienação de Ativos da Educação/Indenização de sinistro</p></td><td><p>R$ 15.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE SAÚDE - SESAU</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária:</strong> 07.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE SAÚDE</p></td></tr><tr><td><p><strong>Funcional Programática:</strong> 07.002.0010.0301.0130.2527</p></td><td colspan="2"><p><strong>Atividade:</strong> Manter e aprimorar a gestão da rede pública de saúde na atenção primaria.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390400000 - Serviços de tecnologia da informação e</p><p>comunicação - pessoa jurídica</p></td><td><p>01494 - Bloco de custeio das ações e serviços públicos de saúde</p></td><td><p>R$ 25.000,00</p></td></tr><tr><td colspan="3"><p><strong>SECRETARIA MUN. DE SAÚDE - SESAU</strong></p></td></tr><tr><td><p><strong>Unidade Orçamentária:</strong> 07.002</p></td><td colspan="2"><p>FUNDO MUNICIPAL DE SAÚDE</p></td></tr><tr><td><p><strong>Funcional Programática: </strong>07.002.0010.0301.0130.2527</p></td><td colspan="2"><p><strong>Atividade:</strong> Manter e aprimorar a gestão da rede pública de saúde na atenção primaria.</p></td></tr><tr><td><p><strong>Elemento de Despesa</strong></p></td><td><p><strong>Fonte de Recurso</strong></p></td><td><p><strong>Valor</strong></p></td></tr><tr><td><p>3390320000 - Material, bem ou serviço para distribuição gratuita</p></td><td><p>01494 - Bloco de custeio das ações e serviços públicos de saúde</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td colspan="3"><p><strong>VALOR TOTAL DA SUPLEMENTAÇÃO:  R$ 140.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 5º.
+
+Para dar cobertura aos créditos indicados no artigo anterior serão utilizados recursos provenientes do excesso de arrecadação da(s) receita(s): 1713501100 - Transferências de recursos do bloco de manutenção das ações e serviços públicos de saúde - atenção primária - principal, 2213010100 - Alienação de bens móveis e semoventes - principal da fonte 1104 - 25% s/demais impostos vinc à Educação, 1105 - Alienação de Ativos da Educação/indenização de sinistro, 1494 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE, 31936 - Componente para Qualificação da Gestão (SUAS), 31940 - Bloco Gestão do Prog Bolsa Família e do Cadastro Único - Portaria MDS 113/2015 nos termos do inciso II, § 1º, art. 43, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 6º.
+
+Face ao crédito fica alterado o Anexo I da Lei Municipal nº 1.249 de 22 de julho de 2024, que dispõe sobre a Lei de Diretrizes Orçamentárias para o exercício de 2025.
+
+
+Art. 7º.
+
+Face ao crédito fica alterado o Anexo I da Lei Municipal nº 1.151 de 22 de dezembro de 2021, que dispõe sobre o Plano Plurianual para o período de 2022 a 2025.
+
+
+Art. 8º.
+
+O crédito adicional especial, a ser aberto na conformidade desta lei, terá vigência até 31 de dezembro de 2025.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 22 de julho de 2025, 65º da Emancipação Política.
+
+**Thiago Daross Stefanello**
+
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2333 de 22/07/2025, pág. 63-67.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1452/ta

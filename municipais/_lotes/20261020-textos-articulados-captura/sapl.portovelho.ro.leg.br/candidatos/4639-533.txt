@@ -1,0 +1,715 @@
+“Institui o Sistema de Controle Interno – SCI no Município de Porto Velho e dá outras providências.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO** usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR:**
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica instituído o Sistema de Controle Interno – SCI do Município de Porto Velho que visa assegurar maior grau de eficácia e eficiência à fiscalização contábil, financeira, orçamentária, operacional e patrimonial, quanto à legalidade, legitimidade e economicidade na gestão dos recursos, a proteção do patrimônio, e a avaliação dos resultados obtidos pela Administração, nos termos do artigo 31 da Constituição Federal e artigos 73 e 74 da Lei Orgânica do Município.
+
+
+§ 1º
+
+O funcionamento do SCI do Município, abrangendo as Administrações Direta e Indireta do Poder Executivo, sujeita-se ao disposto nesta Lei Complementar, à legislação e normas regulamentares aplicáveis ao Município e ao conjunto de instruções normativas que comporão o Manual de Rotinas Internas
+
+
+§ 2º
+
+Na administração indireta, o Órgão Central de Controle Interno – OCCI será aquele designado na respectiva estrutura organizacional, cabendo a este todas as responsabilidades atribuídas ao SCI nesta lei
+
+
+#### CAPÍTULO II — DOS CONCEITOS APLICÁVEIS
+
+
+Art. 2º.
+
+Para os fins do disposto nesta Lei Complementar, considera-se
+
+
+I –
+
+controle: uma série de ações que permeiam as atividades dos órgãos. Essas ações se dão em todas as atividades da entidade, de modo contínuo. São ações inerentes à maneira pela qual o gestor administra a organização, como parte integrante dos processos gerenciais de planejamento, execução e monitoramento. É concebido dentro da estrutura organizacional e é parte integrante da essência da organização.
+
+
+II –
+
+controles internos da gestão: conjunto de regras, procedimentos, diretrizes, protocolos, rotinas de sistemas informatizados, conferências e trâmites de documentos e informações, entre outros, operacionalizados de forma integrada pela direção e pelo corpo de servidores das organizações, destinados a enfrentar os riscos e fornecer segurança razoável de que, na consecução da missão da entidade serão alcançados os seguintes objetivos gerais: execução ordenada, ética, econômica, eficiente, eficaz e efetiva das operações; cumprimento das obrigações de prestação de contas e transparência; cumprimento das leis e regulamentos aplicáveis.
+
+
+III –
+
+– componentes de controle: são o conjunto de conceitos fundamentais, estabelecidos na fixação dos objetivos da entidade, que demonstrarão a gestão do controle para proporcionar segurança razoável acerca da realização de seus objetivos. Compreende: seu ambiente de controle, a gestão do risco (compreendendo a identificação, avaliação e resposta aos riscos), as atividades de controle, a informação e comunicação e o monitoramento;
+
+
+IV –
+
+Sistema de Controle Interno – SCI: o conjunto de procedimentos de controle estruturados por sistemas administrativos especificados em regulamentos próprios, executados em todas as unidades da estrutura organizacional, com a finalidade de promover a salvaguarda dos ativos, desenvolver a eficiência nas operações, avaliar o cumprimento dos programas, objetivos, metas, orçamentos e das políticas administrativas, bem como verificar a exatidão, a fidelidade das informações, assegurando a legalidade, legitimidade, transparência e efetividade da receita e dos gastos públicos, de maneira a ser o controle executado no âmbito interno do ente controlado e com o objetivo de propiciar ao gestor uma razoável margem de segurança acerca da conformidade dos atos.
+
+
+V –
+
+Agentes do Sistema de Controle Interno: órgãos, unidades ou servidores designados que atuam nas atividades de controle do ente, dispostos em:
+
+
+a)
+
+Órgão Central de Controle Interno: Órgão de coordenação das atividades integradas do SCI. Trata-se, em essência, de um órgão de planejamento, supervisão e articulação dos controles executados nas demais unidades do ente controlado.
+
+
+b)
+
+Representante setorial do Sistema de Controle Interno: titular de unidade executora do Sistema de Controle Interno ou servidor designado;
+
+
+c)
+
+Unidades executoras do Sistema de Controle Interno: unidades no nível de atuação instrumental, integrantes da estrutura organizacional da unidade controlada;
+
+
+VI –
+
+Ponto de Controle: Aspectos relevantes em um Sistema Administrativo, integrantes das rotinas de trabalho ou na forma de indicadores, sobre os quais, em função de sua importância, grau de risco ou efeitos posteriores, deva haver algum procedimento de controle.
+
+
+VII –
+
+Sistema Administrativo: Conjunto de atividades afins, relacionadas a funções finalísticas ou de apoio, distribuídas em diversas unidades da organização e executadas sob a orientação técnica do respectivo órgão central com o objetivo de atingir algum resultado.
+
+
+VIII –
+
+Agentes dos Sistemas Administrativos: órgão, unidade ou servidor designado que atua nas atividades administrativas do ente, dispostos em:
+
+
+Órgãos Centrais de Sistemas Administrativos: unidades no nível de execução programática, que respondem pelo gerenciamento das atividades afetas ao respectivo sistema administrativo; responsáveis pela instituição de regulamentos de seu sistema, que devem ser de observância obrigatória em âmbito geral, e indicar as responsabilidades e procedimentos a serem adotados em todas as unidades envolvidas no assunto objeto da normatização.
+
+
+Representante Setorial de Sistema Administrativo: titular da unidade executora de Sistema Administrativo ou servidor designado, desempenha atividades no nível de atuação instrumental;
+
+
+Unidades Executoras de Sistemas Administrativos: unidades em nível de atuação instrumental, integrantes da estrutura organizacional da unidade administrada, que se sujeitam às instruções normativas do órgão central do sistema administrativo respectivo;
+
+
+IX –
+
+Administração Sistêmica: Atividades organizadas de forma sistêmica, sob a coordenação de seus respectivos órgãos centrais, comuns aos órgãos da entidade, compreendendo os órgãos e unidades desconcentradas executoras dos serviços nas áreas de planejamento, administração, finanças, contabilidade e controle. As unidades incumbidas do exercício das atividades consideram-se integrados no sistema respectivo e ficam, consequentemente, sujeitos à orientação normativa, à supervisão técnica e à fiscalização específica do órgão central do sistema, sem prejuízo da subordinação ao órgão em cuja estrutura administrativa estiverem integrados.
+
+
+X –
+
+Instrução Normativa: Documento que estabelece os procedimentos a serem adotados objetivando a padronização na execução de atividades e rotinas de trabalho, especificando finalidade, abrangência, conceitos, base legal e regulamentar, análise de riscos, responsabilidades e fluxo das atividades
+
+
+XI –
+
+Manual de Rotinas Internas: conjunto de instruções normativas, principalmente as atividades executadas sob administração sistêmica, devendo evoluir gradativamente para contemplação de todos os sistemas administrativos de execução programática.
+
+
+XII –
+
+Manual de Avaliação de Controle Interno: especifica os procedimentos e metodologia de trabalho a ser observada nas atividades de avaliação de Controle Interno de Gestão, verificando a eficiência e eficácia dos procedimentos de controle interno adotados pelas unidades executoras do Sistema de Controle Interno.
+
+
+XIII –
+
+Planos de Avaliação de Controle Interno: determinação de níveis, periodicidades e escopos de avaliações de controle interno. Devem ser estabelecidos pelo Órgão Central de Controle Interno, de acordo com o Manual de Avaliação de Controle Interno, preferencialmente, escalonado em planejamento a longo, médio e curto prazo conforme as estratégias de controle e avaliação de risco;
+
+
+XIV –
+
+Estrutura de Controles Internos: contempla o modelo das três linhas a qual deve comunicar, de maneira clara, as responsabilidades de todos os envolvidos, provendo uma atuação coordenada, eficiente e sem lacunas, constituída pelos controles internos da gestão (primeira e segunda linha) e auditoria interna (terceira linha), sendo:
+
+Inclusão feita pelo Art. 33. - Lei Complementar nº 976, de 29 de fevereiro de 2024.
+
+
+a)
+
+primeira linha: constituída pelos controles internos destinados a enfrentar os riscos e fornecer segurança razoável quanto ao alcance dos objetivos do órgão ou entidade, operacionalizados pela gestão, por meio da liderança e direção de ações (incluindo gerenciamento de riscos) e aplicação de recursos para atingir os objetivos da organização, mantendo diálogo contínuo com o órgão de governança, reportando resultados e riscos;
+
+Inclusão feita pelo Art. 33. - Lei Complementar nº 976, de 29 de fevereiro de 2024.
+
+
+b)
+
+segunda linha: também situadas ao nível da gestão, são dotadas de expertise destinadas ao apoio, monitoramento e questionamento àqueles com papéis de primeira linha, incluindo gerenciamento de riscos, desenvolvimento dos controles internos, conformidade com leis, regulamentos e comportamento ético, verificação da qualidade, sustentabilidade, segurança da informação e tecnologia, controle financeiro, orientação e treinamento;
+
+Inclusão feita pelo Art. 33. - Lei Complementar nº 976, de 29 de fevereiro de 2024.
+
+
+c)
+
+terceira linha: representada pela atividade de auditoria interna governamental, exercida exclusivamente pelo Órgão Central do Sistema de Controle Interno, que presta avaliação e consultoria independentes e objetivas sobre a adequação e eficácia da governança, do gerenciamento de riscos relativos ao atingimento dos objetivos da organização.
+
+Inclusão feita pelo Art. 33. - Lei Complementar nº 976, de 29 de fevereiro de 2024.
+
+
+#### CAPÍTULO III — DOS PRINCÍPIOS INERENTES AO CONTROLE
+
+
+Art. 3º.
+
+São princípios inerentes às atividades de controle interno:
+
+
+I –
+
+Princípio da Segregação das Funções: as funções administrativas devem ser segregadas/parceladas entre os agentes, órgãos ou entes. Estabelece que quem executa, não fiscaliza nem aprova. Estas atividades devem ser efetuadas por agentes ou unidades distintas. A segregação de funções determina que cada um dos executores conferirá a atividade/tarefa, ou conjunto delas, executada na etapa anterior, atestando maior segurança no processo decisório;
+
+
+II –
+
+Princípio da relação Custo/Benefício: as atividades e os procedimentos de controle devem ser racionalizados mediante simplificação de processos e, avaliada sua extensão e rigor, promover a supressão de controles que se evidenciarem puramente formais ou cujo custo seja evidentemente superior ao risco, sob pena de infringir o Princípio da Eficiência.
+
+
+III –
+
+Princípio da Aderência a Diretrizes e Normas: os atos do ente controlado devem ser vinculados aos princípios, diretrizes, normas, estatutos e demais diplomas que regem a Administração Pública; e observância aos Padrões Internacionais de Controle Interno.
+
+
+IV –
+
+Princípio da Qualificação Adequada: os agentes de controle devem ter conhecimentos necessários e suficientes para o desempenho da função. Os órgãos de controle devem contar com profissionais que disponham do conhecimento técnico-científico compatível com as atividades afetas à fiscalização;
+
+
+V –
+
+Princípio da Independência Técnico-Funcional: no desempenho de suas funções, os agentes de controle devem ter independência técnico-funcional em relação ao controlado para proceder às verificações, analisar documentos, colher provas, bem como emitir o resultado de suas análises. Pressupõe, também, que o controlador, seja ele interno ou externo, não dependa do auxílio de outros órgãos para realização do mister de controle, salvo a utilização eventual de suporte de especialistas para atividades determinadas e a formalização de parcerias técnico-operacionais.
+
+
+VI –
+
+Princípio da gestão integrada: os responsáveis pelos órgãos integrantes do SCI atuarão estrategicamente com relação à gestão administrativa em sua área de competência, priorizando a ação preventiva, qualificação dos recursos humanos, a adoção de boas práticas de governança, de gestão de riscos e de controles internos,
+
+
+VII –
+
+Princípios de governança: legitimidade, integridade, equidade, responsabilidade, eficiência, probidade, compromisso com as delegações, prestação de contas e transparência, visando contribuir para aumentar a confiança na forma como são geridos os recursos, reduzindo a incerteza quanto a gestão dos recursos públicos.
+
+
+#### CAPÍTULO IV — DO SISTEMA DE CONTROLE INTERNO – SCI
+
+
+Art. 4º.
+
+As normas, manuais, procedimentos, processos, sistema de tecnologia da informação, gestores e servidores e suas respectivas ações compõe um sistema único e integrado de controle que deverá atender às seguintes diretrizes:
+
+
+I –
+
+Eficiência, com a maximização do alcance e da intensidade da ação pública com o menor uso de recursos possível, em observância aos comandos do inciso III do Art. 2º da Lei Federal nº 14.129, de 29 de março de 2021.
+
+Alteração feita pelo Art. 33. - Lei Complementar nº 976, de 29 de fevereiro de 2024.
+
+
+II –
+
+Eficácia, com o cumprimento dos objetivos e metas previamente planejados pela gestão;
+
+
+III –
+
+Efetividade, com a promoção de melhorias perceptíveis para os munícipes, proporcionais ao investimento de recursos públicos;
+
+
+IV –
+
+Transparência, com a disponibilidade de informações de ampla compreensão, confiáveis, precisas e em tempo útil sobre o uso do dinheiro e da coisa pública, das receitas, das despesas e dos investimentos realizados.
+
+
+Art. 5º.
+
+A Finalidade do SCI está prevista no artigo 31 da Constituição Federal, art. 59 da Lei Complementar Federal nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal – LRF) e art. 74 da Lei Orgânica do Município de Porto Velho, executada pelos diversos sistemas administrativos, em toda a estrutura organizacional sob a fiscalização do respectivo Órgão Central de Controle Interno.
+
+
+Art. 6º.
+
+O funcionamento do SCI abrange todas as unidades e sujeita-se ao disposto na legislação e normas regulamentares aplicáveis à Administração Pública e no conjunto de regulamentos que comporão seu respectivo Manual de Rotinas Internas.
+
+
+§ 1º
+
+As atividades de controle interno devem abranger as unidades integrantes da estrutura, qualquer pessoa física ou jurídica, pública ou privada, que utilize, arrecade, guarde, gerencie ou administre dinheiros, bens e valores públicos ou pelos quais a Administração Pública responda, ou que, em nome desta, assuma obrigações de natureza pecuniária.
+
+
+§ 2º
+
+Na elaboração e eventuais atualização do Manual de Rotinas Internas, deve ser considerada a legislação vigente, as normas regulamentares, externas e internas, aplicáveis ao caso, e as rotinas especificadas e outros documentos internos do Município, incluindo-se as diretrizes gerais estabelecidas nesta Lei complementar.
+
+
+§ 3º
+
+O Manual Rotinas Internas deve ser disponibilizado a todos os servidores em meio físico e/ou com recursos da tecnologia da informação.
+
+
+Art. 7º.
+
+Para a operacionalização do SCI, as atividades desenvolvidas na estrutura organizacional são identificadas na forma de sistemas administrativos.
+
+
+Art. 8º.
+
+A Controladoria Geral do Município - CGM é o Órgão Central de Controle Interno da Prefeitura Municipal de Porto Velho, e nas indiretas será o órgão instituído na respectiva estrutura administrativa
+
+
+Parágrafo único
+
+Para fins de registro, os órgãos centrais de sistemas administrativos devem expedir ato designatório formal indicando o respectivo representante setorial do Sistema de Controle Interno e de seu eventual substituto, dando ciência oficialmente ao Órgão Central de Controle Interno
+
+
+#### CAPÍTULO V — DAS ATRIBUIÇÕES DO ÓRGÃO CENTRAL DE CONTROLE INTERNO
+
+
+Art. 9º.
+
+O Órgão Central de Controle Interno – OCCI tem as seguintes atribuições relativas ao SCI:
+
+
+I –
+
+coordenar as atividades estratégicas relacionadas com o SCI do Município, promover a sua integração operacional e orientar a expedição dos atos normativos sobre procedimentos de controle;
+
+
+II –
+
+estabelecer diretrizes quanto às ações integradas pelas unidades executoras do Sistema de Controle Interno, de forma harmônica no contexto das competências concorrentes e fortalecimento recíproco.
+
+
+III –
+
+realizar avaliações periódicas no SCI quanto à governança pública e integridade.
+
+
+IV –
+
+realizar avaliações periódicas no SCI, nos diversos objetivos e níveis organizacionais contemplando:
+
+
+a)
+
+seu desenho, implantação e eficiência;
+
+
+b)
+
+a eficácia, efetividade e mensuração de objetivos;
+
+
+c)
+
+mecanismos estabelecidos para garantir a qualidade da informação, seu correto tratamento e disponibilidade e sua disseminação;
+
+
+d)
+
+mecanismos estabelecidos para garantir a conformidade com a legislação e regulamentos aplicáveis aos atos de gestão.
+
+
+V –
+
+Apreciar os seguintes componentes nas avaliações do SCI:
+
+
+a)
+
+ambiente de controle, regulatório e operacional
+
+
+b)
+
+fixação de objetivos e mensuração de resultados;
+
+
+c)
+
+gestão de riscos, compreendendo a identificação de riscos nos atos de gestão, a avaliação e a resposta dada a esses riscos;
+
+
+d)
+
+atividades de controle
+
+
+e)
+
+tratamento da informação e comunicações no processo de gestão; e
+
+
+f)
+
+monitoramento dos controles estabelecidos.
+
+
+VI –
+
+avaliar os componentes e mecanismos de gestão, monitoramento e controle do Sistema de Planejamento e Orçamento;
+
+
+VII –
+
+orientar e esclarecer sobre o estabelecimento de mecanismos voltados a comprovação de legalidade e legitimidade dos atos de gestão e avaliação dos resultados, quanto à eficácia, eficiência e economicidade na gestão orçamentária, financeira e patrimonial nas entidades da Administração Pública Municipal, bem como, controle da aplicação de recursos públicos por entidades de direito privado;
+
+
+VIII –
+
+elaborar e manter manuais, especificando os procedimentos e metodologia de trabalho a ser observada na avaliação de Controle Interno de Gestão;
+
+
+IX –
+
+Elaborar plano de integridade que contemple normas de ética e conduta aplicadas ao exercício da atividade de avaliação de Controle Interno de Gestão;
+
+
+X –
+
+Avaliar instrumentos normativos e manuais das atividades de controle interno adotados pelas unidades executoras do SCI;
+
+
+XI –
+
+Avaliar planos de integridade que contemple normas de ética e conduta aplicadas ao exercício da atividade adotados pelas unidades executoras do SCI;
+
+
+XII –
+
+Avaliar as políticas, princípios, diretrizes, modelos, estruturas, componentes, competências e responsabilidades da gestão de risco estabelecidas nos órgãos, e procedimentos de identificação, avaliação e respostas a riscos nas unidades executoras do SCI;
+
+
+XIII –
+
+avaliar a eficiência e eficácia dos procedimentos de controle interno adotados pelas unidades executoras do SCI, por meio de atividades consignadas em um Plano Anual de Atividade de Controle Interno – PAACI, com utilização de metodologia e expedição de relatórios contemplando recomendações para o aprimoramento dos componentes, quando necessários.
+
+
+XIV –
+
+recomendar as unidades executoras do SCI quanto aos atos, no relacionamento com o Tribunal de Contas do Estado de Rondônia, relativo ao encaminhamento de documentos e informações, atendimento às equipes técnicas, recebimento de diligências e elaboração de respostas;
+
+
+XV –
+
+orientar a administração nos aspectos relacionados com o controle e fiscalização de órgãos internos e externos, inclusive sobre a forma dos atos de gestão e de prestação de contas e incentivar a adoção de boas práticas de governança, especialmente, de gestão de riscos e de controles internos;
+
+
+XVI –
+
+interpretar e pronunciar-se, por meio de consulta formal, sobre a legislação aplicável e normas concernentes ao controle da Administração Pública, instruída com a manifestação do órgão de assessoria jurídica do ente controlado;
+
+
+XVII –
+
+avaliar os componentes e mecanismos de gestão para a observância dos limites constitucionais de aplicação em gastos com a manutenção e o desenvolvimento do ensino e com despesas na Área de Saúde;
+
+
+XVIII –
+
+fiscalizar o cumprimento das normas da Lei Complementar nº 101, de 04 de maio de 2000, especialmente avaliar os componentes e mecanismos de gestão para o cumprimento das metas fiscais e para a observância às condições e aos limites e providências determinados pela Lei de Responsabilidade Fiscal, nos termos do seu art. 59.
+
+
+XIX –
+
+exercer o acompanhamento sobre a elaboração e divulgação dos instrumentos de transparência da gestão fiscal nos termos da LRF, em especial quanto ao Relatório Resumido da Execução Orçamentária e ao Relatório de Gestão Fiscal, aferindo a consistência das informações constantes dos instrumentos;
+
+
+XX –
+
+propor a melhoria ou implantação de sistemas apoiados em tecnologia da informação, com o objetivo de aprimorar os controles internos, agilizar as rotinas e melhorar a qualidade das informações;
+
+
+XXI –
+
+instituir e manter sistema de informações para o exercício de suas atividades finalísticas;
+
+
+XXII –
+
+recomendar a autoridade administrativa competente para que instaure procedimento, sob pena de responsabilidade solidária, visando apurar atos ou fatos inquinados ilegais, ilegítimos ou antieconômicos, praticados por agentes públicos ou privados, bem como na hipótese de não serem prestadas as contas ou, ainda, quando ocorrer desfalque, desvio de dinheiro, bens ou valores públicos;
+
+
+XXIII –
+
+representar aos órgãos responsáveis, sob pena de responsabilidade solidária, as irregularidades e ilegalidades que evidenciem danos ou prejuízos ao erário, não reparados integralmente por meio de medidas adotadas pela Administração;
+
+
+#### CAPÍTULO VI — DAS ATRIBUIÇÕES DAS UNIDADES EXECUTORAS DO SISTEMA DE CONTROLE INTERNO
+
+
+Art. 10.
+
+Às unidades integrantes da estrutura organizacional do Poder Executivo Municipal, em relação ao SCI, do qual são consideradas unidades executoras do Sistema de Controle Interno, por seus gestores e servidores, compete:
+
+
+I –
+
+exercer os controles estabelecidos nos regulamentos dos sistemas administrativos afetos a sua área de atuação, no que tange a atividades específicas ou auxiliares objetivando a observância da legislação, a salvaguarda do patrimônio e a busca da eficiência operacional;
+
+
+II –
+
+exercer o controle sobre a execução do seu Orçamento Anual visando cumprimento dos objetivos e metas inerentes à sua área de atuação, definidas no Plano Plurianual e na Lei de Diretrizes Orçamentárias;
+
+
+III –
+
+exercer o controle sobre o uso e guarda de bens pertencentes ao poder Executivo Municipal, que no exercício de suas funções sejam colocados à disposição de qualquer pessoa física ou unidade que os utilize;
+
+
+IV –
+
+avaliar e acompanhar a execução dos contratos, convênios ou instrumentos congêneres, afetos a sua unidade;
+
+
+V –
+
+manter atualizada relação de responsáveis por dinheiros, valores e bens públicos, cujo rol deverá ser transmitido anualmente ao Tribunal de Contas, comunicando-se quadrimestralmente as alterações.
+
+
+VI –
+
+comunicar ao nível hierárquico superior e ao Órgão Central de Controle Interno o conhecimento da ocorrência de atos ilegais, ilegítimos, irregulares ou antieconômicos de que resultem, ou não, dano ao erário, sob pena de responsabilidade solidária;
+
+
+VII –
+
+propor ao Órgão Central de Controle Interno – OCCI e ao órgão central do respectivo sistema administrativo, a atualização ou a adequação dos regulamentos inerentes às suas atividades;
+
+
+VIII –
+
+apoiar os trabalhos de avaliação de controle interno de gestão, facilitando o acesso a documentos e informações.
+
+
+Parágrafo único
+
+As atividades das Unidades Executoras do SCI ficam sujeitas à orientação técnica do órgão central do sistema.
+
+
+#### CAPÍTULO VII — DOS SISTEMAS ADMINISTRATIVOS
+
+
+Art. 11.
+
+Os sistemas administrativos do Poder Executivo estabelecerão controles internos no âmbito da gestão pública que visa essencialmente aumentar a probabilidade de que os objetivos e metas estabelecidos sejam alcançados, de forma eficaz, eficiente, efetiva e econômica
+
+
+Art. 12.
+
+Os regulamentos instituídos pelo órgão central de cada sistema administrativo devem indicar as responsabilidades e procedimentos a serem adotados em todas as unidades envolvidas no assunto objeto da normatização
+
+
+Parágrafo único
+
+Na definição dos procedimentos de controle deverão ser priorizados os controles preventivos, a serem executados concomitantemente aos atos controlados, destinados a evitar a ocorrência de erros, desperdícios, irregularidades ou ilegalidades, sem prejuízo de controles corretivos, exercidos após a ação.
+
+
+Art. 13.
+
+As recomendações, orientações e determinações emitidas pelo Órgão Central de Controle Interno no exercício das atividades de avaliação dos controles internos de gestão deverão ser observadas pelos órgãos centrais de sistemas administrativos.
+
+
+Parágrafo único
+
+A atuação do Órgão Central de Controle Interno não exime os gestores dos órgãos centrais de sistemas administrativos da responsabilidade individual de controle no exercício de suas funções, nos limites das respectivas atribuições, observada a legislação correlata e normativos internos.
+
+
+Art. 14.
+
+Os órgãos centrais dos respectivos sistemas administrativos, conforme suas competências estabelecidas em lei, são responsáveis pela orientação normativa, supervisão técnica e fiscalização específica dos serviços de atividade auxiliar executados pelos agentes
+
+
+#### CAPÍTULO VIII — DOS REPRESENTANTES SETORIAIS DO SISTEMA DE CONTROLE INTERNO
+
+
+Art. 15.
+
+O representante setorial do Sistema de Controle Interno a que se refere o art. 2º, VI, “b”, tem como missão dar suporte ao funcionamento do SCI em seu âmbito de atuação e serve de elo entre a unidade executora do Sistema de Controle Interno e o Órgão Central de Controle Interno – OCCI, tendo como principais atribuições:
+
+
+I –
+
+identificar os pontos de controle inerentes ao sistema administrativo ao qual a sua unidade atua como órgão central, assim como no estabelecimento dos respectivos procedimentos de controle;
+
+
+II –
+
+coordenar o processo de desenvolvimento, implementação ou atualização dos normativos aos quais a unidade está vinculada em que atue como unidade executora ou como órgão central de qualquer sistema administrativo;
+
+
+III –
+
+exercer o acompanhamento sobre a efetiva observância dos regulamentos e normativos a que a sua unidade está sujeita e propor o seu constante aprimoramento;
+
+
+IV –
+
+encaminhar ao órgão competente documentos sobre as situações de irregularidades ou ilegalidades que vierem a seu conhecimento mediante denúncias ou outros meios, juntamente com indícios de provas;
+
+
+V –
+
+coordenar e orientar providências para as questões relacionadas ao Tribunal de Contas do Estado de Rondônia, afetas à sua unidade;
+
+
+VI –
+
+prover o atendimento às solicitações de informações e de providências, encaminhadas pelo Órgão Central de Controle Interno – OCCI, inclusive quanto à obtenção e encaminhamento das respostas da unidade sobre as constatações e recomendações apresentadas nos relatórios de avaliação de controle interno de gestão;
+
+
+VII –
+
+comunicar ao titular do Órgão Central do Sistema Administrativo e sua chefia superior, com cópia para o Órgão Central de Controle Interno – OCCI, as situações de ausência de providências para a apuração e/ou regularização de desconformidades.
+
+
+Art. 16.
+
+O representante setorial dos Sistemas Administrativos a que se refere o art. 2º, IX, “b”, tem como missão dar suporte ao funcionamento do sistema administrativo em seu âmbito de atuação e serve de elo entre a unidade executora do sistema administrativo e seu órgão central, tendo suas atribuições determinadas por normativos específicos de cada sistema.
+
+
+#### CAPÍTULO IX — DAS AVALIAÇÕES DE CONTROLE INTERNO REALIZADAS PELA CONTROLADORIA GERAL DO MUNICÍPIO
+
+
+Art. 17.
+
+As avaliações de controle interno de gestão deverão obedecer a regras estabelecidas no Manual de Avaliação de Controle Interno e Planos de Atividade de Controle Interno elaborados e mantidos pelo Órgão Central de Controle Interno – OCCI.
+
+
+Art. 18.
+
+As atividades de avaliação de controle Interno de gestão terão como objeto os componentes dos controles internos da gestão e governança realizados nos sistemas
+
+
+§ 1º
+
+Ao Órgão Central de Controle Interno – OCCI caberá a elaboração do Manual de Avaliação de Controle Interno, que especificará os procedimentos e metodologia de trabalho a ser observada pela Unidade e que será submetido à aprovação do Prefeito.
+
+
+§ 2º
+
+O Plano Anual de Atividade de Controle Interno – PAACI será elaborado pelo Órgão Central de Controle Interno – OCCI observará os princípios e diretrizes estabelecidos nesta Lei.
+
+
+§ 3º
+
+Para a realização de trabalhos de avaliação de controle interno em áreas, programas ou situações específicas, cuja complexidade ou especialização assim justifiquem, o Órgão Central de Controle Interno – OCCI poderá requerer à autoridade competente a colaboração técnica de servidores de outros órgãos da estrutura organizacional, ou mesmo externa, ou ainda a contratação de terceiros, nos termos da legislação
+
+
+§ 4º
+
+O Plano Anual de Atividade de Controle Interno – PAACI deve ser aprovado e publicado até o encerramento do exercício anterior ao que se refere.
+
+
+Art. 19.
+
+Caso a avaliação de controle interno de gestão apresente recomendações destinadas ao aprimoramento das rotinas e procedimentos de controle, compete ao Órgão Central de Controle Interno – OCCI monitorar suas implementações, podendo contar para este fim com o apoio do representante setorial.
+
+
+§ 1º
+
+Em caso de detecção de irregularidades, desconformidades procedimentais, ilegalidades, atuações eivadas de ineficiência ou ineficácia, ou dano, será elaborado relatório preliminar a ser submetido aos responsáveis para ciência e eventuais ponderações quanto aos apontamentos no prazo legal.
+
+
+§ 2º
+
+Se em decorrência dos trabalhos de avaliação de controle interno de gestão, após a apreciação das ponderações apresentadas em face do relatório preliminar, de outros trabalhos ou averiguações executadas pelo Órgão Central de Controle Interno – OCCI ou, ainda, em função de denúncias a esta encaminhadas, diretamente ou por meio dos representantes setoriais do SCI, forem constatadas irregularidades ou ilegalidades, àquela caberá comunicar formalmente ao gestor sobre as providências a serem adotadas.
+
+
+Art. 20.
+
+Qualquer servidor é parte legítima para denunciar a existência de irregularidades ou ilegalidades no SCI, podendo fazê-las diretamente ao Órgão Central de Controle Interno – OCCI ou aos representantes setoriais, sempre por escrito e com clara identificação do denunciante, da situação constatada e da(s) pessoa(s) ou unidade(s) envolvida(s), anexando ainda, indícios de comprovação dos fatos denunciados.
+
+
+§ 1º
+
+É de responsabilidade do Órgão Central de Controle Interno – OCCI acatar ou não a denúncia e requerer do(s) gestor(es) apuração e providências e proceder o monitoramento
+
+
+§ 2º
+
+Os controles internos que forem objeto de denúncias, acatadas pelo Órgão Central de Controle Interno – OCCI serão autuados e contemplados no Plano Anual de Atividade de Controle Interno – PAACI
+
+
+§ 3º
+
+Poderão ser estabelecidas penalidades, inclusive multa, para gestores e servidores que não observarem as normas do SCI.
+
+
+Art. 21.
+
+Sempre que, em função de irregularidades ou ilegalidades, for constatado dano ao erário, caberá ao Órgão Central de Controle Interno – OCCI comunicar à autoridade competente quanto à necessidade de instauração do processo de tomada de contas especial, observadas as normas do Tribunal de Contas do Estado de Rondônia que regulamentam a matéria, o que deverá ocorrer também nas demais situações em que este procedimento for aplicável
+
+
+#### CAPÍTULO X — DAS PRERROGATIVAS, GARANTIAS E DEVERES
+
+
+Art. 22.
+
+Constituem-se em garantias e prerrogativas do titular do Órgão Central de Controle Interno – OCCI e dos integrantes da sua equipe técnica:
+
+
+I –
+
+Princípio da Independência Técnico-Funcional profissional para o desempenho das suas atividades junto às unidades do ente controlado;
+
+
+II –
+
+acesso irrestrito a documentos ou informações indispensáveis ao exercício das atividades de controle interno, inclusive às informações contidas em sistemas eletrônicos de processamento de dados.
+
+
+Art. 23.
+
+Nenhum processo, documento ou informação poderá ser negado aos integrantes do Órgão Central de Controle Interno – OCCI, no exercício das suas atribuições, sob pena de responsabilidade administrativa de quem lhe der causa ou motivo.
+
+
+Art. 24.
+
+O servidor do Órgão Central de Controle Interno – OCCI deverá guardar sigilo sobre dados e informações obtidos em decorrência do exercício de suas atribuições; utilizando-os exclusivamente para elaboração de relatórios e pareceres destinados, conforme o caso, ao titular do Órgão Central de Controle Interno – OCCI ou responsável pela unidade administrativa na qual se procederam às constatações, ou ainda à autoridade máxima do ente controlado, e quando solicitado pelo Tribunal de Contas do Estado de Rondônia.
+
+
+Art. 25.
+
+A participação de servidores lotados no Órgão Central de Controle Interno – OCCI deverá ser precedida de autorização expressa do responsável quando envolver atividades fora da competência do OCCI.
+
+
+Art. 26.
+
+O servidor que exercer funções relacionadas com o SCI deverá guardar sigilo sobre dados e informações obtidas em decorrência do exercício de suas atribuições e pertinentes aos assuntos, sob a sua fiscalização, utilizando-os, exclusivamente, para elaboração de relatórios e pareceres destinados à Chefia Superior e ao titular da unidade administrativa ou entidade na qual se procederam as constatações e ao Chefe do Poder.
+
+
+#### CAPÍTULO XI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 27.
+
+O Órgão Central de Controle Interno – OCCI elaborará anualmente plano de qualificação dos servidores para ser executado no ano subsequente.
+
+
+Art. 28.
+
+Caberá ao Órgão Central de Controle Interno – OCCI prestar os esclarecimentos e orientações a respeito da aplicação dos dispositivos desta Lei Complementar
+
+
+Art. 29.
+
+Toda a legislação de Controle Interno, bem como, planos, manuais devem ser publicados no Diário Oficial do Município de Porto Velho e disponibilizados em item específico “Controle Interno” no Portal da Transparência.
+
+
+Art. 30.
+
+Respeitadas as classificações de Acesso à Informações, conforme Lei Federal nº 12.527, de 18 de novembro de 2011, os relatórios de avaliação de controle interno de gestão serão disponibilizados em item específico “Controle Interno” no Portal da Transparência.
+
+
+Art. 31.
+
+Esta Lei Complementar entrará em vigor na data de sua publicação
+
+
+**HILDON DE LIMA CHAVES**  
+  
+Prefeito

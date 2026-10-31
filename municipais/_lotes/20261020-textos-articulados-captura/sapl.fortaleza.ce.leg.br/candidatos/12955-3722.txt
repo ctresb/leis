@@ -1,0 +1,35 @@
+Altera os arts. 2º e 6º da Lei Complementar nº 277/2019, na forma que indica.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI COMPLEMENTAR:
+
+
+Art. 1º.
+
+Fica alterado o art. 2º da Lei Complementar nº 277/2019, passando a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+Fica alterado o art. 6º da Lei Complementar nº 277/2019, passando a vigorar com a seguinte redação:
+
+
+**I — Tabela 7.2 – VIAS ARTERIAIS – OUTRAS VIAS ARTERIAIS I**
+
+<table><tbody><tr><td rowspan="2"><p>TIPO</p></td><td rowspan="2"><p>TÍTULO</p></td><td><p>VIA</p></td><td colspan="2"><p>TRECHO</p></td><td rowspan="2"><p>QUADRÍCULA</p></td><td rowspan="2"><p>CAIXA PROPOSTA</p></td></tr><tr><td><p>NOME</p></td><td><p>INÍCIO</p></td><td><p>FIM</p></td></tr><tr><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td></tr><tr><td><p>Av.</p></td><td><p>Cel.</p></td><td><p>Miguel Dias</p></td><td><p>Av. Washington Soares</p></td><td><p>Av. Maximiniano da Fonseca</p></td><td><p>H16 – I16</p></td><td><p>Atual</p></td></tr><tr><td><p>Rua</p></td><td><p>-</p></td><td><p>Marinho e Silva</p></td><td><p>Av. Presidente Juscelino Kubitschek</p></td><td><p>Rua Nove</p></td><td><p>O11 – R11</p></td><td><p>Atual</p></td></tr></tbody></table>
+
+
+**II — Tabela 7.4 – VIAS COLETORAS**
+
+<table><tbody><tr><td rowspan="2"><p>TIPO</p></td><td rowspan="2"><p>TÍTULO</p></td><td><p>VIA</p></td><td colspan="2"><p>TRECHO</p></td><td rowspan="2"><p>QUADRÍCULA</p></td><td rowspan="2"><p>CAIXA PROPOSTA</p></td></tr><tr><td><p>NOME</p></td><td><p>INÍCIO</p></td><td><p>FIM</p></td></tr><tr><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td><td><p>...</p></td></tr><tr><td><p>Rua</p></td><td><p>-</p></td><td><p>lldefonso</p><p>Albano</p></td><td><p>Av. Historiador Raimundo Girão</p></td><td><p>Av. Heráclito Graça</p></td><td><p>D14-E13</p></td><td><p>Atual</p></td></tr><tr><td><p>Rua</p></td><td><p>-</p></td><td><p>Passeio dos</p><p>Cajueiros</p></td><td><p>Av. das Adenanteras</p></td><td><p>Rua Miraíma</p></td><td><p>...</p></td><td><p>Atual</p></td></tr><tr><td><p>Rua</p></td><td><p>-</p></td><td><p>Heribaldo Costa</p></td><td><p>Rua Monsenhor Hipólito Brasil</p></td><td><p>Franco Rocha</p></td><td><p>...</p></td><td><p>Atual</p></td></tr><tr><td><p>Rua</p></td><td><p>-</p></td><td><p>Rua Sul</p></td><td><p>Av. Paulino</p><p>Rocha</p></td><td><p>Rua Brisa Leste</p></td><td><p>...</p></td><td><p>Atual</p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 11 DE MARÇO DE 2020.
+
+**ROBERTO CLÁUDIO RODRIGUES BEZERRA**  
+Prefeito Municipal de Fortaleza

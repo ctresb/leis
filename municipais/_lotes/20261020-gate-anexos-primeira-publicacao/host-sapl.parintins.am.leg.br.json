@@ -1,0 +1,916 @@
+{
+  "host": "sapl.parintins.am.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/1/lei_n_003_2007_aepmp.pdf da norma Lei Ordinária-PGMP nº 391, de 26 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A CONCESSÃO DE USO DE BEM PÚBLICO REMUNERADA E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2007/1/lei_n_003_2007_aepmp.pdf",
+      "ano": 2007,
+      "norma": 440
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/2/lei_n_002390_2007_aepmp.pdf da norma Lei Ordinária-PGMP nº 390, de 04 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "A numeração da Lei n°002/2007 (EM ANEXO) foi alterada pela Lei n° 390/2007-PGMP, de 04 de abril de 2007, passando a vigorar com o n° 390/2007 - PGMP.",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2007/2/lei_n_002390_2007_aepmp.pdf",
+      "ano": 2007,
+      "norma": 443
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/3/lei_n_001389_2007_aepmp.pdf da norma Lei Ordinária-PGMP nº 389, de 04 de abril de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2007/3/lei_n_001389_2007_aepmp.pdf",
+      "ano": 2007,
+      "norma": 444
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/4/lei_n_001367_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 367, de 01 de janeiro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/4/lei_n_001367_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 445
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/5/lei_n_002368_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 368, de 11 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/5/lei_n_002368_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 446
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/6/lei_n_003369_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 369, de 11 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/6/lei_n_003369_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 447
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/7/lei_n_004370_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 370, de 15 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/7/lei_n_004370_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 448
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/8/lei_n_005371_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 371, de 15 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "AUTORIZA A DESAPROPRIAÇÃO DO IMÓVEL LOCALIZADO NESTE MUNICÍPIO NA RUA PADRE FRANCISCO LUPINO N° 4177, BAIRRO ITAÚNA II, E \r\nDÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/8/lei_n_005371_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 449
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/9/lei_n_006372_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 372, de 15 de maio de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/9/lei_n_006372_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 450
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/10/lei_n_007373_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 373, de 08 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/10/lei_n_007373_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 451
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/11/lei_n_008374_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 374, de 21 de julho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/11/lei_n_008374_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 452
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/12/lei_n_009375_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 375, de 06 de outubro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/12/lei_n_009375_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 453
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/13/lei_n_010376_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 376, de 21 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/13/lei_n_010376_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 454
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/14/lei_n_011377_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 377, de 21 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/14/lei_n_011377_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 455
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/15/lei_n_012378_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 378, de 21 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/15/lei_n_012378_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 456
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/16/lei_n_013379_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 379, de 21 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/16/lei_n_013379_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 457
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/17/lei_n_015381_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 381, de 21 de novembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/17/lei_n_015381_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 459
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/18/lei_n_016382_2006_pgmp.pdf da norma Lei Ordinária-PGMP nº 382, de 19 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/18/lei_n_016382_2006_pgmp.pdf",
+      "ano": 2006,
+      "norma": 460
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/19/lei_n_017383_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 383, de 19 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/19/lei_n_017383_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 461
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/20/lei_n_018384_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 384, de 19 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/20/lei_n_018384_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 462
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/21/lei_n_019385_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 385, de 19 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/21/lei_n_019385_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 463
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/22/lei_n_020386_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 386, de 19 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/22/lei_n_020386_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 464
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/23/lei_n_021387_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 387, de 22 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/23/lei_n_021387_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 465
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/24/lei_n_022388_2006_aepmp.pdf da norma Lei Ordinária-PGMP nº 388, de 22 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2006/24/lei_n_022388_2006_aepmp.pdf",
+      "ano": 2006,
+      "norma": 466
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/25/lei_n_001335_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 335, de 10 de janeiro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/25/lei_n_001335_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 467
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/26/lei_n_002336_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 336, de 17 de janeiro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/26/lei_n_002336_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 468
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/27/lei_n_003337_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 337, de 17 de janeiro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/27/lei_n_003337_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 469
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/28/lei_n_004338_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 338, de 17 de janeiro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/28/lei_n_004338_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 470
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/29/lei_n_005339_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 339, de 17 de janeiro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/29/lei_n_005339_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 471
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/30/lei_n_007341_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 341, de 18 de abril de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/30/lei_n_007341_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 472
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/31/lei_n_008342_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 342, de 18 de abril de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/31/lei_n_008342_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 473
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/32/lei_n_009343_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 343, de 18 de abril de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/32/lei_n_009343_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 474
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/33/lei_n_010344_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 344, de 18 de abril de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/33/lei_n_010344_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 475
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/34/lei_n_011345_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 345, de 18 de abril de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/34/lei_n_011345_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 476
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/35/lei_n_012346_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 346, de 06 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/35/lei_n_012346_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 477
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/36/lei_n_013347_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 347, de 13 de junho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/36/lei_n_013347_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 478
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/37/lei_n_014348_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 348, de 13 de junho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/37/lei_n_014348_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 479
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/38/lei_n_015349_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 349, de 07 de julho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/38/lei_n_015349_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 480
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/39/lei_n_016350_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 350, de 07 de julho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/39/lei_n_016350_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 481
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/40/lei_n_017351_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 351, de 07 de julho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/40/lei_n_017351_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 482
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/41/lei_n_019353_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 353, de 07 de julho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/41/lei_n_019353_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 483
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/42/lei_n_020354_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 354, de 14 de julho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/42/lei_n_020354_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 484
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/43/lei_n_021355_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 355, de 20 de setembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/43/lei_n_021355_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 485
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/44/lei_n_022356_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 356, de 20 de setembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/44/lei_n_022356_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 486
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/45/lei_n_023357_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 357, de 27 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/45/lei_n_023357_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 487
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/46/lei_n_024358_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 358, de 27 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/46/lei_n_024358_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 488
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/47/lei_n_025359_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 359, de 27 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/47/lei_n_025359_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 489
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/48/lei_n_026360_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 360, de 27 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/48/lei_n_026360_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 490
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/49/lei_n_027361_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 361, de 27 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/49/lei_n_027361_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 491
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/50/lei_n_028362_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 362, de 27 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/50/lei_n_028362_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 492
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/51/lei_n_029363_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 363, de 28 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/51/lei_n_029363_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 493
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/52/lei_n_030364_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 364, de 28 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/52/lei_n_030364_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 494
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/53/lei_n_031365_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 365, de 28 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/53/lei_n_031365_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 495
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/54/lei_n_032366_2005_aepmp.pdf da norma Lei Ordinária-PGMP nº 366, de 28 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2005/54/lei_n_032366_2005_aepmp.pdf",
+      "ano": 2005,
+      "norma": 496
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/55/publicacao_-_21_07_2023_ato_da_mesa_diretora_002.pdf da norma Ato da Mesa Diretora-MD nº 2, de 20 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial dos Municípios",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2023/55/publicacao_-_21_07_2023_ato_da_mesa_diretora_002.pdf",
+      "ano": 2023,
+      "norma": 667
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/56/publicacao_-_resolucao_n._076-2022_-_institui_a_ouvidoria.pdf da norma Resolução-GABPRES nº 76, de 06 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Resolução n. 076/2023 - Institui a Ouvidoria",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2022/56/publicacao_-_resolucao_n._076-2022_-_institui_a_ouvidoria.pdf",
+      "ano": 2022,
+      "norma": 668
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/57/publicacao_-_lei_complementar_037-2022_-_alteracao_da_lei_complementar_009-2011.pdf da norma Lei Complementar-GABPRES nº 37, de 13 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial dos Municípios da Lei Complementar n. 37/2022",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2022/57/publicacao_-_lei_complementar_037-2022_-_alteracao_da_lei_complementar_009-2011.pdf",
+      "ano": 2022,
+      "norma": 669
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/58/publicacao_-_22_08_2023_resolucao_082-2023_-_lei_da_informacao.pdf da norma Resolução-GABPRES nº 82, de 21 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Resolução no diário oficial",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2023/58/publicacao_-_22_08_2023_resolucao_082-2023_-_lei_da_informacao.pdf",
+      "ano": 2023,
+      "norma": 670
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/59/publicacao_-_28_11_2023_resolucao_n._083-2023.pdf da norma Resolução-GABPRES nº 83, de 27 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Resolução n. 083-2023.",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2023/59/publicacao_-_28_11_2023_resolucao_n._083-2023.pdf",
+      "ano": 2023,
+      "norma": 686
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/60/lei_n_945_2024_anexo.pdf da norma Lei Ordinária-PGMP nº 945, de 27 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Anexo de Riscos Fiscais e Anexo de Metas Fiscais",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2024/60/lei_n_945_2024_anexo.pdf",
+      "ano": 2024,
+      "norma": 772
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/61/lei_n_946_2024_pgmp_-_anexo.pdf da norma Lei Ordinária-PGMP nº 946, de 27 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Medidas e Desenho(Croqui)",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2024/61/lei_n_946_2024_pgmp_-_anexo.pdf",
+      "ano": 2024,
+      "norma": 773
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/62/anexo_lei_no_985_2025_pgmp.pdf da norma Lei Ordinária-PGMP nº 985, de 25 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DA LEI Nº 985/2025 - TABELA DE DIÁRIAS",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2025/62/anexo_lei_no_985_2025_pgmp.pdf",
+      "ano": 2025,
+      "norma": 812
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/63/anexo_da_lei_n_995_2025_lei_de_diretrizes_orcamentarias.pdf da norma Lei Ordinária-PGMP nº 995, de 18 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE RISCOS FISCAIS E ANEXO DE METAS FISCAIS",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2025/63/anexo_da_lei_n_995_2025_lei_de_diretrizes_orcamentarias.pdf",
+      "ano": 2025,
+      "norma": 1157
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/64/errata_de_publicacao_da_lei_no_996_2025_pgmp.pdf da norma Lei Ordinária-PGMP nº 996, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DE PUBLICAÇÃO DA LEI N° 996/2025-PGMP DE 25 DE JUNHO DE 2025, PUBLICADO NO DIÁRIO OFICIAL DOS MUNICÍPIOS DO ESTADO DO AMAZONAS NO DIA 26/06/2025 - N° 3884.",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2025/64/errata_de_publicacao_da_lei_no_996_2025_pgmp.pdf",
+      "ano": 2025,
+      "norma": 1158
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/65/dol_-_emenda_a_lei_organica_no_012_2024-cmp.pdf da norma Emenda à Lei Orgânica Municipal-GABPRES nº 12, de 11 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Municípios do Estado do Amazonas",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2024/65/dol_-_emenda_a_lei_organica_no_012_2024-cmp.pdf",
+      "ano": 2024,
+      "norma": 1305
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/66/dol_-_emendaa_lei_organica_no_013_2024-cmp.pdf da norma Emenda à Lei Orgânica Municipal-GABPRES nº 13, de 12 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial do Municípios do Amazonas.",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2024/66/dol_-_emendaa_lei_organica_no_013_2024-cmp.pdf",
+      "ano": 2024,
+      "norma": 1307
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/pub.pdf da norma Ato da Mesa Diretora-MD nº 2, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2025/67/pub.pdf",
+      "ano": 2025,
+      "norma": 1356
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/68/publicacao_-_16_04_2024_alteracao_regimento_interno_2024.pdf da norma Resolução-GABPRES nº 90, de 15 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2024/68/publicacao_-_16_04_2024_alteracao_regimento_interno_2024.pdf",
+      "ano": 2024,
+      "norma": 740
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/69/pub._dec._001-2026.pdf da norma Decreto Legislativo-GABPRES nº 1, de 13 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/69/pub._dec._001-2026.pdf",
+      "ano": 2026,
+      "norma": 1357
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/70/interno.diariomunicipal.com.br_diario_materia_visualizar_cod_materia_15617728.pdf da norma Decreto Legislativo-GABPRES nº 2, de 27 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/70/interno.diariomunicipal.com.br_diario_materia_visualizar_cod_materia_15617728.pdf",
+      "ano": 2026,
+      "norma": 1358
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/71/interno.diariomunicipal.com.br_diario_index._003.pdf da norma Decreto Legislativo-GABPRES nº 3, de 06 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/71/interno.diariomunicipal.com.br_diario_index._003.pdf",
+      "ano": 2026,
+      "norma": 1360
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/dom_n._06-2026.pdf da norma Decreto Legislativo-GABPRES nº 6, de 07 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/72/dom_n._06-2026.pdf",
+      "ano": 2026,
+      "norma": 1366
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/73/dom_n._07-2026.pdf da norma Decreto Legislativo-GABPRES nº 7, de 07 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/73/dom_n._07-2026.pdf",
+      "ano": 2026,
+      "norma": 1367
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/74/dom._errata._lei_complementar_45-a.pdf da norma Lei Complementar-PGMP nº 45A, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DE PUBLICAÇÃO DA LEI COMPLEMENTAR Nº 045/2025-PGMP DE 22 DE ABRIL DE 2025, PUBLICADO NO DIÁRIO OFICIAL DOS MUNICÍPIOS DO ESTADO DO AMAZONAS NO DIA 23/04/2025 - Nº 3844.",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2025/74/dom._errata._lei_complementar_45-a.pdf",
+      "ano": 2025,
+      "norma": 1022
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/75/dom_lei_1.046-2026.pdf da norma Lei Ordinária-PGMP nº 1.046, de 05 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/75/dom_lei_1.046-2026.pdf",
+      "ano": 2026,
+      "norma": 1373
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/76/dom_n._08-2026.pdf da norma Decreto Legislativo-GABPRES nº 8, de 07 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/76/dom_n._08-2026.pdf",
+      "ano": 2026,
+      "norma": 1368
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/77/dom_n._10-2026.pdf da norma Decreto Legislativo-GABPRES nº 10, de 07 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/77/dom_n._10-2026.pdf",
+      "ano": 2026,
+      "norma": 1370
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/78/dom_n._09-2026.pdf da norma Decreto Legislativo-GABPRES nº 9, de 07 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/78/dom_n._09-2026.pdf",
+      "ano": 2026,
+      "norma": 1369
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/79/lei_n._1047-2026-pgmp.pdf da norma Lei Ordinária-PGMP nº 1.047, de 11 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/79/lei_n._1047-2026-pgmp.pdf",
+      "ano": 2026,
+      "norma": 1376
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/80/lei_n._1048-2026-_pgmp.pdf da norma Lei Ordinária-PGMP nº 1.048, de 21 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/80/lei_n._1048-2026-_pgmp.pdf",
+      "ano": 2026,
+      "norma": 1377
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/81/dom_ato_da_mesa_n._2-2026.pdf da norma Ato da Mesa Diretora-MD nº 2, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/81/dom_ato_da_mesa_n._2-2026.pdf",
+      "ano": 2026,
+      "norma": 1379
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/82/dom._emenda.pdf da norma Emenda à Lei Orgânica Municipal-GABPRES nº 16, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/82/dom._emenda.pdf",
+      "ano": 2026,
+      "norma": 1399
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/83/procuradoria.pdf da norma Lei Ordinária-PGMP nº 1.063, de 21 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2026/83/procuradoria.pdf",
+      "ano": 2026,
+      "norma": 1413
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/84/emenda_a_lei_organica_05-2015_dom.pdf da norma Emenda à Lei Orgânica Municipal-GABPRES nº 5, de 07 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "Matéria publicada no DOM no dia 18/12/2015. Edição 1502.\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2015/84/emenda_a_lei_organica_05-2015_dom.pdf",
+      "ano": 2015,
+      "norma": 1419
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/85/emenda_a_lei_organica_no_001_2011_cmp.pdf da norma Emenda à Lei Orgânica Municipal-GABPRES nº 1, de 18 de outubro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Emenda à Lei Orgânica Municipal-GABPRES nº 1, de 18 de outubro de 2011",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2011/85/emenda_a_lei_organica_no_001_2011_cmp.pdf",
+      "ano": 2011,
+      "norma": 1475
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/86/processo_n_033_2016.pdf da norma Emenda à Lei Orgânica Municipal-MD nº 1, de 24 de agosto de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Emenda 1/2016 (Processo nº 033/2016)",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2016/86/processo_n_033_2016.pdf",
+      "ano": 2016,
+      "norma": 1476
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/87/redacao_final_do_projeto_de_emenda_a_lei_organica_n_001_2016.pdf da norma Emenda à Lei Orgânica Municipal-MD nº 1, de 24 de agosto de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Redação final do Projeto",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2016/87/redacao_final_do_projeto_de_emenda_a_lei_organica_n_001_2016.pdf",
+      "ano": 2016,
+      "norma": 1476
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/88/ata_da_62_sessao_ordinaria_de_24_08_2016.pdf da norma Emenda à Lei Orgânica Municipal-MD nº 1, de 24 de agosto de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Aprovção do Projeto",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2016/88/ata_da_62_sessao_ordinaria_de_24_08_2016.pdf",
+      "ano": 2016,
+      "norma": 1476
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/89/processo_n_038_2016.pdf da norma Emenda à Lei Orgânica Municipal-MD nº 2, de 24 de agosto de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "Processo Legislativo nº 038/2016, referente a Emenda a Lei Orgânica nº 02/2016",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2016/89/processo_n_038_2016.pdf",
+      "ano": 2016,
+      "norma": 1477
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/90/ata_da_62_sessao_ordinaria_de_24_08_2016.pdf da norma Emenda à Lei Orgânica Municipal-MD nº 2, de 24 de agosto de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão Ordinária que aprovou a Emenda",
+      "anexo_arquivo": "http://sapl.parintins.am.leg.br/media/sapl/public/anexonormajuridica/2016/90/ata_da_62_sessao_ordinaria_de_24_08_2016.pdf",
+      "ano": 2016,
+      "norma": 1477
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.parintins.am.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.parintins.am.leg.br/4c77659d54e43aa57be5d6425bf5350026ebae98833e3cd760d776925756cda8.json",
+      "sha256": "69ea0f4762e846b4fe5ecfbd71ea10755eb87ea03a4e17b14ff4e76ab28fd9a2",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.parintins.am.leg.br/4c77659d54e43aa57be5d6425bf5350026ebae98833e3cd760d776925756cda8.meta.json"
+    }
+  ],
+  "total": 90
+}

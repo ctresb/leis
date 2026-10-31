@@ -1,0 +1,2914 @@
+{
+  "host": "sapl.santacruzdocapibaribe.pe.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/1/anexo...............pdf da norma Lei Ordinária nº 1.914, de 02 de setembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2010/1/anexo...............pdf",
+      "ano": 2010,
+      "norma": 1042
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/2/anexo_1.pdf da norma Lei Ordinária nº 1.915, de 02 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXO",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2010/2/anexo_1.pdf",
+      "ano": 2010,
+      "norma": 1043
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/3/anexo_1.pdf da norma Lei Ordinária nº 3.198, de 19 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2020/3/anexo_1.pdf",
+      "ano": 2020,
+      "norma": 1057
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/anexo_2.pdf da norma Lei Ordinária nº 3.198, de 19 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2020/4/anexo_2.pdf",
+      "ano": 2020,
+      "norma": 1057
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/anexos.pdf da norma Lei Ordinária nº 3.197, de 19 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2020/5/anexos.pdf",
+      "ano": 2020,
+      "norma": 1059
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/6/anexo_i.pdf da norma Lei Ordinária nº 3.180, de 31 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2020/6/anexo_i.pdf",
+      "ano": 2020,
+      "norma": 121
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/7/anexo_ii.pdf da norma Lei Ordinária nº 3.180, de 31 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2020/7/anexo_ii.pdf",
+      "ano": 2020,
+      "norma": 121
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/8/anexo.pdf da norma Lei Ordinária nº 3.179, de 31 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2020/8/anexo.pdf",
+      "ano": 2020,
+      "norma": 61
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/anexo.pdf da norma Lei Ordinária nº 3.171, de 09 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2020/9/anexo.pdf",
+      "ano": 2020,
+      "norma": 1098
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/10/anexo_lei_3.125-2019.pdf da norma Lei Ordinária nº 3.125, de 23 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2019/10/anexo_lei_3.125-2019.pdf",
+      "ano": 2019,
+      "norma": 1131
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/anexo_lei_3.124-2019.pdf da norma Lei Ordinária nº 3.124, de 23 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2019/11/anexo_lei_3.124-2019.pdf",
+      "ano": 2019,
+      "norma": 1132
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/12/anexo_lei_3065-2019.pdf da norma Lei Ordinária nº 3.065, de 04 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2019/12/anexo_lei_3065-2019.pdf",
+      "ano": 2019,
+      "norma": 398
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/13/anexo_lei_3402-2022.pdf da norma Lei Ordinária nº 3.402, de 09 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2022/13/anexo_lei_3402-2022.pdf",
+      "ano": 2022,
+      "norma": 1902
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/15/titulo_de_cidadao_caetano_motos.pdf da norma Resolução nº 84, de 01 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2022/15/titulo_de_cidadao_caetano_motos.pdf",
+      "ano": 2022,
+      "norma": 4375
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/publicacao_portaria_035-2023_-amupe.pdf da norma Portaria nº 35, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/16/publicacao_portaria_035-2023_-amupe.pdf",
+      "ano": 2023,
+      "norma": 4941
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/publicacao_portaria_036-2023_-_amupe.pdf da norma Portaria nº 36, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/17/publicacao_portaria_036-2023_-_amupe.pdf",
+      "ano": 2023,
+      "norma": 4942
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/portaria_079-2023_publicada_no_diario_oficial.pdf da norma Portaria nº 79, de 11 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/18/portaria_079-2023_publicada_no_diario_oficial.pdf",
+      "ano": 2023,
+      "norma": 5092
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/ata_no_001-2023_-_composicao_de_todas_as_comissao.pdf da norma Portaria nº 14, de 30 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/19/ata_no_001-2023_-_composicao_de_todas_as_comissao.pdf",
+      "ano": 2023,
+      "norma": 4919
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/municipio_de_santa_cruz_do_capibaribe_-_publicacao_diario_dos_municipios.pdf da norma Portaria nº 83, de 14 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/21/municipio_de_santa_cruz_do_capibaribe_-_publicacao_diario_dos_municipios.pdf",
+      "ano": 2023,
+      "norma": 5835
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/22/camscanner_04-08-2023_09.49.pdf da norma Portaria nº 95, de 04 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/22/camscanner_04-08-2023_09.49.pdf",
+      "ano": 2023,
+      "norma": 6035
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/23/02_-_amupe_-_extrato_de_nomeacao_do_servidor_vilson_lopes_da_silva.pdf da norma Portaria nº 97, de 09 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/23/02_-_amupe_-_extrato_de_nomeacao_do_servidor_vilson_lopes_da_silva.pdf",
+      "ano": 2023,
+      "norma": 6046
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/24/nomeacao_vilson_-publicado.pdf da norma Portaria nº 97, de 09 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/24/nomeacao_vilson_-publicado.pdf",
+      "ano": 2023,
+      "norma": 6046
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/25/comprovante-_96.pdf da norma Portaria nº 96, de 04 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/25/comprovante-_96.pdf",
+      "ano": 2023,
+      "norma": 6045
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/26/portaria-096.pdf da norma Portaria nº 96, de 04 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/26/portaria-096.pdf",
+      "ano": 2023,
+      "norma": 6045
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/27/comprovante-_95.pdf da norma Portaria nº 95, de 04 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/27/comprovante-_95.pdf",
+      "ano": 2023,
+      "norma": 6035
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/28/portaria-095.pdf da norma Portaria nº 95, de 04 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/28/portaria-095.pdf",
+      "ano": 2023,
+      "norma": 6035
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/29/portaria-094.pdf da norma Portaria nº 94, de 21 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/29/portaria-094.pdf",
+      "ano": 2023,
+      "norma": 6034
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/30/portaria-093.pdf da norma Portaria nº 93, de 21 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/30/portaria-093.pdf",
+      "ano": 2023,
+      "norma": 6033
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/31/portaria-092.pdf da norma Portaria nº 92, de 19 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/31/portaria-092.pdf",
+      "ano": 2023,
+      "norma": 6032
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/32/comprovante-_91.pdf da norma Portaria nº 91, de 14 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/32/comprovante-_91.pdf",
+      "ano": 2023,
+      "norma": 6028
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/33/portaria-091.pdf da norma Portaria nº 91, de 14 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/33/portaria-091.pdf",
+      "ano": 2023,
+      "norma": 6028
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/34/portaria-090.pdf da norma Portaria nº 90, de 11 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/34/portaria-090.pdf",
+      "ano": 2023,
+      "norma": 6027
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/35/comprovante-_90.pdf da norma Portaria nº 90, de 11 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/35/comprovante-_90.pdf",
+      "ano": 2023,
+      "norma": 6027
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/36/comprovante-_89.pdf da norma Portaria nº 89, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/36/comprovante-_89.pdf",
+      "ano": 2023,
+      "norma": 6025
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/37/portaria-089.pdf da norma Portaria nº 89, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/37/portaria-089.pdf",
+      "ano": 2023,
+      "norma": 6025
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/38/portaria-088.pdf da norma Portaria nº 88, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/38/portaria-088.pdf",
+      "ano": 2023,
+      "norma": 6024
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/39/comprovante-_88.pdf da norma Portaria nº 88, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/39/comprovante-_88.pdf",
+      "ano": 2023,
+      "norma": 6024
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/40/comprovante-_87.pdf da norma Portaria nº 87, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/40/comprovante-_87.pdf",
+      "ano": 2023,
+      "norma": 6023
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/41/portaria-087.pdf da norma Portaria nº 87, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/41/portaria-087.pdf",
+      "ano": 2023,
+      "norma": 6023
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/42/portaria-086.pdf da norma Portaria nº 86, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/42/portaria-086.pdf",
+      "ano": 2023,
+      "norma": 6022
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/43/comprovante-_86.pdf da norma Portaria nº 86, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/43/comprovante-_86.pdf",
+      "ano": 2023,
+      "norma": 6022
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/44/comprovante-_85.pdf da norma Portaria nº 85, de 19 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/44/comprovante-_85.pdf",
+      "ano": 2023,
+      "norma": 5878
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/45/portaria-085.pdf da norma Portaria nº 85, de 19 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/45/portaria-085.pdf",
+      "ano": 2023,
+      "norma": 5878
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/46/portaria-084.pdf da norma Portaria nº 84, de 19 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/46/portaria-084.pdf",
+      "ano": 2023,
+      "norma": 5877
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/47/comprovante-_84.pdf da norma Portaria nº 84, de 19 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/47/comprovante-_84.pdf",
+      "ano": 2023,
+      "norma": 5877
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/48/comprovante-_83.pdf da norma Portaria nº 83, de 14 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/48/comprovante-_83.pdf",
+      "ano": 2023,
+      "norma": 5835
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/49/portaria-083.pdf da norma Portaria nº 83, de 14 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/49/portaria-083.pdf",
+      "ano": 2023,
+      "norma": 5835
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/50/portaria-082.pdf da norma Portaria nº 82, de 07 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/50/portaria-082.pdf",
+      "ano": 2023,
+      "norma": 5831
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/51/comprovante-_82.pdf da norma Portaria nº 82, de 07 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/51/comprovante-_82.pdf",
+      "ano": 2023,
+      "norma": 5831
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/52/comprovante-_81.pdf da norma Portaria nº 81, de 01 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/52/comprovante-_81.pdf",
+      "ano": 2023,
+      "norma": 5573
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/53/portaria-081.pdf da norma Portaria nº 81, de 01 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/53/portaria-081.pdf",
+      "ano": 2023,
+      "norma": 5573
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/54/portaria-080.pdf da norma Portaria nº 80, de 01 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/54/portaria-080.pdf",
+      "ano": 2023,
+      "norma": 5572
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/55/comprovante-_80.pdf da norma Portaria nº 80, de 01 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/55/comprovante-_80.pdf",
+      "ano": 2023,
+      "norma": 5572
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/56/comprovante-_79.pdf da norma Portaria nº 79, de 11 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/56/comprovante-_79.pdf",
+      "ano": 2023,
+      "norma": 5092
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/57/comprovante-_78.pdf da norma Portaria nº 78, de 08 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/57/comprovante-_78.pdf",
+      "ano": 2023,
+      "norma": 5037
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/58/portaria-078.pdf da norma Portaria nº 78, de 08 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/58/portaria-078.pdf",
+      "ano": 2023,
+      "norma": 5037
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/59/portaria-077.pdf da norma Portaria nº 77, de 02 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/59/portaria-077.pdf",
+      "ano": 2023,
+      "norma": 5019
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/60/comprovante-_77.pdf da norma Portaria nº 77, de 02 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/60/comprovante-_77.pdf",
+      "ano": 2023,
+      "norma": 5019
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/61/comprovante-_76.pdf da norma Portaria nº 76, de 02 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/61/comprovante-_76.pdf",
+      "ano": 2023,
+      "norma": 5018
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/62/portaria-076.pdf da norma Portaria nº 76, de 02 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/62/portaria-076.pdf",
+      "ano": 2023,
+      "norma": 5018
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/63/portaria-075.pdf da norma Portaria nº 75, de 28 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/63/portaria-075.pdf",
+      "ano": 2023,
+      "norma": 5017
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/64/comprovante-_75.pdf da norma Portaria nº 75, de 28 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/64/comprovante-_75.pdf",
+      "ano": 2023,
+      "norma": 5017
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/65/comprovante-_74.pdf da norma Portaria nº 74, de 28 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/65/comprovante-_74.pdf",
+      "ano": 2023,
+      "norma": 5016
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/66/portaria-074.pdf da norma Portaria nº 74, de 28 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/66/portaria-074.pdf",
+      "ano": 2023,
+      "norma": 5016
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/67/portaria-073.pdf da norma Portaria nº 73, de 27 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/67/portaria-073.pdf",
+      "ano": 2023,
+      "norma": 5015
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/68/comprovante-_73.pdf da norma Portaria nº 73, de 27 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/68/comprovante-_73.pdf",
+      "ano": 2023,
+      "norma": 5015
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/69/comprovante-_72.pdf da norma Portaria nº 72, de 20 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/69/comprovante-_72.pdf",
+      "ano": 2023,
+      "norma": 5014
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/70/portaria-072.pdf da norma Portaria nº 72, de 20 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/70/portaria-072.pdf",
+      "ano": 2023,
+      "norma": 5014
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/71/portaria-070.pdf da norma Portaria nº 70, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/71/portaria-070.pdf",
+      "ano": 2023,
+      "norma": 5012
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/72/comprovante-_70.pdf da norma Portaria nº 70, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/72/comprovante-_70.pdf",
+      "ano": 2023,
+      "norma": 5012
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/73/portaria-069.pdf da norma Portaria nº 69, de 11 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/73/portaria-069.pdf",
+      "ano": 2023,
+      "norma": 4994
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/74/portaria-068.pdf da norma Portaria nº 68, de 04 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/74/portaria-068.pdf",
+      "ano": 2023,
+      "norma": 4993
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/75/portaria-067.pdf da norma Portaria nº 67, de 04 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/75/portaria-067.pdf",
+      "ano": 2023,
+      "norma": 4992
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/76/portaria-066.pdf da norma Portaria nº 66, de 03 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/76/portaria-066.pdf",
+      "ano": 2023,
+      "norma": 4991
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/77/portaria-063.pdf da norma Portaria nº 63, de 03 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/77/portaria-063.pdf",
+      "ano": 2023,
+      "norma": 4988
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/78/portaria-062.pdf da norma Portaria nº 62, de 29 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/78/portaria-062.pdf",
+      "ano": 2023,
+      "norma": 4987
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/79/comprovante-_49.pdf da norma Portaria nº 49, de 15 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/79/comprovante-_49.pdf",
+      "ano": 2023,
+      "norma": 4972
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/80/comprovante-_48.pdf da norma Portaria nº 48, de 15 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/80/comprovante-_48.pdf",
+      "ano": 2023,
+      "norma": 4971
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/81/comprovante-_47.pdf da norma Portaria nº 47, de 15 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/81/comprovante-_47.pdf",
+      "ano": 2023,
+      "norma": 4970
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/82/comprovante-_45.pdf da norma Portaria nº 45, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/82/comprovante-_45.pdf",
+      "ano": 2023,
+      "norma": 4958
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/83/comprovante-_44.pdf da norma Portaria nº 44, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/83/comprovante-_44.pdf",
+      "ano": 2023,
+      "norma": 4957
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/84/comprovante-_43.pdf da norma Portaria nº 43, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/84/comprovante-_43.pdf",
+      "ano": 2023,
+      "norma": 4956
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/85/comprovante-_40.pdf da norma Portaria nº 40, de 08 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/85/comprovante-_40.pdf",
+      "ano": 2023,
+      "norma": 4951
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/86/comprovante-_60.pdf da norma Portaria nº 60, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/86/comprovante-_60.pdf",
+      "ano": 2023,
+      "norma": 4985
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/87/portaria-060.pdf da norma Portaria nº 60, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/87/portaria-060.pdf",
+      "ano": 2023,
+      "norma": 4985
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/88/portaria-059.pdf da norma Portaria nº 59, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/88/portaria-059.pdf",
+      "ano": 2023,
+      "norma": 4984
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/89/comprovante-_59.pdf da norma Portaria nº 59, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/89/comprovante-_59.pdf",
+      "ano": 2023,
+      "norma": 4984
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/90/comprovante-_58.pdf da norma Portaria nº 58, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/90/comprovante-_58.pdf",
+      "ano": 2023,
+      "norma": 4983
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/91/portaria-058.pdf da norma Portaria nº 58, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/91/portaria-058.pdf",
+      "ano": 2023,
+      "norma": 4983
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/92/portaria-057.pdf da norma Portaria nº 57, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/92/portaria-057.pdf",
+      "ano": 2023,
+      "norma": 4982
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/93/comprovante-_57.pdf da norma Portaria nº 57, de 24 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/93/comprovante-_57.pdf",
+      "ano": 2023,
+      "norma": 4982
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/94/comprovante-_56.pdf da norma Portaria nº 56, de 21 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/94/comprovante-_56.pdf",
+      "ano": 2023,
+      "norma": 4979
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/95/portaria-056.pdf da norma Portaria nº 56, de 21 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/95/portaria-056.pdf",
+      "ano": 2023,
+      "norma": 4979
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/96/portaria-055.pdf da norma Portaria nº 55, de 21 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/96/portaria-055.pdf",
+      "ano": 2023,
+      "norma": 4978
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/97/comprovante-_55.pdf da norma Portaria nº 55, de 21 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/97/comprovante-_55.pdf",
+      "ano": 2023,
+      "norma": 4978
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/98/comprovante-_54.pdf da norma Portaria nº 54, de 20 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/98/comprovante-_54.pdf",
+      "ano": 2023,
+      "norma": 4977
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/99/portaria-054.pdf da norma Portaria nº 54, de 20 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/99/portaria-054.pdf",
+      "ano": 2023,
+      "norma": 4977
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/100/portaria-053.pdf da norma Portaria nº 53, de 20 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/100/portaria-053.pdf",
+      "ano": 2023,
+      "norma": 4976
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/101/comprovante-_53.pdf da norma Portaria nº 53, de 20 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/101/comprovante-_53.pdf",
+      "ano": 2023,
+      "norma": 4976
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/102/comprovante-_52.pdf da norma Portaria nº 52, de 20 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/102/comprovante-_52.pdf",
+      "ano": 2023,
+      "norma": 4975
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/103/portaria-052.pdf da norma Portaria nº 52, de 20 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/103/portaria-052.pdf",
+      "ano": 2023,
+      "norma": 4975
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/104/portaria-051.pdf da norma Portaria nº 51, de 16 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/104/portaria-051.pdf",
+      "ano": 2023,
+      "norma": 4974
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/105/comprovante-_51.pdf da norma Portaria nº 51, de 16 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/105/comprovante-_51.pdf",
+      "ano": 2023,
+      "norma": 4974
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/106/comprovante-_50.pdf da norma Portaria nº 50, de 16 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/106/comprovante-_50.pdf",
+      "ano": 2023,
+      "norma": 4973
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/107/portaria-050.pdf da norma Portaria nº 50, de 16 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/107/portaria-050.pdf",
+      "ano": 2023,
+      "norma": 4973
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/108/portaria-049.pdf da norma Portaria nº 49, de 15 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/108/portaria-049.pdf",
+      "ano": 2023,
+      "norma": 4972
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/109/portaria-048.pdf da norma Portaria nº 48, de 15 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/109/portaria-048.pdf",
+      "ano": 2023,
+      "norma": 4971
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/110/portaria-047.pdf da norma Portaria nº 47, de 15 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/110/portaria-047.pdf",
+      "ano": 2023,
+      "norma": 4970
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/111/portaria-045.pdf da norma Portaria nº 45, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/111/portaria-045.pdf",
+      "ano": 2023,
+      "norma": 4958
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/112/portaria-044.pdf da norma Portaria nº 44, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/112/portaria-044.pdf",
+      "ano": 2023,
+      "norma": 4957
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/113/portaria-043.pdf da norma Portaria nº 43, de 13 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/113/portaria-043.pdf",
+      "ano": 2023,
+      "norma": 4956
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/114/portaria-040.pdf da norma Portaria nº 40, de 08 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/114/portaria-040.pdf",
+      "ano": 2023,
+      "norma": 4951
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/115/comprovante-_26.pdf da norma Portaria nº 26, de 06 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2022/115/comprovante-_26.pdf",
+      "ano": 2022,
+      "norma": 4936
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/116/comprovante-_25.pdf da norma Portaria nº 25, de 08 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/116/comprovante-_25.pdf",
+      "ano": 2023,
+      "norma": 4930
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/117/comprovante-_24.pdf da norma Portaria nº 24, de 08 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/117/comprovante-_24.pdf",
+      "ano": 2023,
+      "norma": 4929
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/118/comprovante-_23.pdf da norma Portaria nº 23, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/118/comprovante-_23.pdf",
+      "ano": 2023,
+      "norma": 4928
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/119/comprovante-_22.pdf da norma Portaria nº 22, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/119/comprovante-_22.pdf",
+      "ano": 2023,
+      "norma": 4927
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/120/comprovante-_21.pdf da norma Portaria nº 21, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/120/comprovante-_21.pdf",
+      "ano": 2023,
+      "norma": 4926
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/121/comprovante-_20.pdf da norma Portaria nº 20, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/121/comprovante-_20.pdf",
+      "ano": 2023,
+      "norma": 4925
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/122/comprovante-_19.pdf da norma Portaria nº 19, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/122/comprovante-_19.pdf",
+      "ano": 2023,
+      "norma": 4924
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/123/comprovante-_18.pdf da norma Portaria nº 18, de 03 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/123/comprovante-_18.pdf",
+      "ano": 2023,
+      "norma": 4923
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/124/comprovante-_17.pdf da norma Portaria nº 17, de 03 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/124/comprovante-_17.pdf",
+      "ano": 2023,
+      "norma": 4922
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/125/comprovante-_39.pdf da norma Portaria nº 39, de 07 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/125/comprovante-_39.pdf",
+      "ano": 2023,
+      "norma": 4950
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/126/portaria-_039.pdf da norma Portaria nº 39, de 07 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/126/portaria-_039.pdf",
+      "ano": 2023,
+      "norma": 4950
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/127/portaria-_038.pdf da norma Portaria nº 38, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/127/portaria-_038.pdf",
+      "ano": 2023,
+      "norma": 4944
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/128/comprovante-_38.pdf da norma Portaria nº 38, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/128/comprovante-_38.pdf",
+      "ano": 2023,
+      "norma": 4944
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/129/comprovante-_37.pdf da norma Portaria nº 37, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/129/comprovante-_37.pdf",
+      "ano": 2023,
+      "norma": 4943
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/130/portaria-_037.pdf da norma Portaria nº 37, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/130/portaria-_037.pdf",
+      "ano": 2023,
+      "norma": 4943
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/131/comprovante-_36.pdf da norma Portaria nº 36, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/131/comprovante-_36.pdf",
+      "ano": 2023,
+      "norma": 4942
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/132/comprovante-_35.pdf da norma Portaria nº 35, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/132/comprovante-_35.pdf",
+      "ano": 2023,
+      "norma": 4941
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/133/portaria-_035.pdf da norma Portaria nº 35, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/133/portaria-_035.pdf",
+      "ano": 2023,
+      "norma": 4941
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/134/portaria-_034.pdf da norma Portaria nº 34, de 02 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/134/portaria-_034.pdf",
+      "ano": 2023,
+      "norma": 4940
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/135/comprovante-_34.pdf da norma Portaria nº 34, de 02 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/135/comprovante-_34.pdf",
+      "ano": 2023,
+      "norma": 4940
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/136/comprovante-_33.pdf da norma Portaria nº 33, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/136/comprovante-_33.pdf",
+      "ano": 2023,
+      "norma": 4939
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/137/portaria-_033.pdf da norma Portaria nº 33, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/137/portaria-_033.pdf",
+      "ano": 2023,
+      "norma": 4939
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/138/portaria-_032.pdf da norma Portaria nº 32, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/138/portaria-_032.pdf",
+      "ano": 2023,
+      "norma": 4938
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/139/comprovante-_32.pdf da norma Portaria nº 32, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/139/comprovante-_32.pdf",
+      "ano": 2023,
+      "norma": 4938
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/140/comprovante-_31.pdf da norma Portaria nº 31, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/140/comprovante-_31.pdf",
+      "ano": 2023,
+      "norma": 4937
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/141/portaria-_031.pdf da norma Portaria nº 31, de 01 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/141/portaria-_031.pdf",
+      "ano": 2023,
+      "norma": 4937
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/142/portaria-_030.pdf da norma Portaria nº 30, de 14 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/142/portaria-_030.pdf",
+      "ano": 2023,
+      "norma": 4935
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/143/comprovante-_30.pdf da norma Portaria nº 30, de 14 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/143/comprovante-_30.pdf",
+      "ano": 2023,
+      "norma": 4935
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/144/portaria-_029.pdf da norma Portaria nº 29, de 13 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/144/portaria-_029.pdf",
+      "ano": 2023,
+      "norma": 4934
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/145/portaria-_028.pdf da norma Portaria nº 28, de 13 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/145/portaria-_028.pdf",
+      "ano": 2023,
+      "norma": 4933
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/146/portaria-_027.pdf da norma Portaria nº 27, de 09 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/146/portaria-_027.pdf",
+      "ano": 2023,
+      "norma": 4932
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/147/portaria-_026.pdf da norma Portaria nº 26, de 09 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/147/portaria-_026.pdf",
+      "ano": 2023,
+      "norma": 4931
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/148/comprovante-_26.pdf da norma Portaria nº 26, de 09 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/148/comprovante-_26.pdf",
+      "ano": 2023,
+      "norma": 4931
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/149/portaria-_025.pdf da norma Portaria nº 25, de 08 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/149/portaria-_025.pdf",
+      "ano": 2023,
+      "norma": 4930
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/150/portaria-_024.pdf da norma Portaria nº 24, de 08 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/150/portaria-_024.pdf",
+      "ano": 2023,
+      "norma": 4929
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/151/portaria-_023.pdf da norma Portaria nº 23, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/151/portaria-_023.pdf",
+      "ano": 2023,
+      "norma": 4928
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/152/portaria-_022.pdf da norma Portaria nº 22, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/152/portaria-_022.pdf",
+      "ano": 2023,
+      "norma": 4927
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/153/portaria-_021.pdf da norma Portaria nº 21, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/153/portaria-_021.pdf",
+      "ano": 2023,
+      "norma": 4926
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/154/portaria-_020.pdf da norma Portaria nº 20, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/154/portaria-_020.pdf",
+      "ano": 2023,
+      "norma": 4925
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/155/portaria-_019.pdf da norma Portaria nº 19, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/155/portaria-_019.pdf",
+      "ano": 2023,
+      "norma": 4924
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/156/portaria-_018.pdf da norma Portaria nº 18, de 03 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/156/portaria-_018.pdf",
+      "ano": 2023,
+      "norma": 4923
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/157/portaria-_017.pdf da norma Portaria nº 17, de 03 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/157/portaria-_017.pdf",
+      "ano": 2023,
+      "norma": 4922
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/158/portaria-_016.pdf da norma Portaria nº 16, de 01 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/158/portaria-_016.pdf",
+      "ano": 2023,
+      "norma": 4921
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/159/portaria-_098.pdf da norma Portaria nº 98, de 14 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/159/portaria-_098.pdf",
+      "ano": 2023,
+      "norma": 6052
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/160/comprovante-98.pdf da norma Portaria nº 98, de 14 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/160/comprovante-98.pdf",
+      "ano": 2023,
+      "norma": 6052
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/161/comprovante-99.pdf da norma Portaria nº 99, de 15 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/161/comprovante-99.pdf",
+      "ano": 2023,
+      "norma": 6053
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/162/portaria-_099.pdf da norma Portaria nº 99, de 15 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/162/portaria-_099.pdf",
+      "ano": 2023,
+      "norma": 6053
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/163/portaria-_100.pdf da norma Portaria nº 100, de 18 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/163/portaria-_100.pdf",
+      "ano": 2023,
+      "norma": 6054
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/164/comprovante-100.pdf da norma Portaria nº 100, de 18 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/164/comprovante-100.pdf",
+      "ano": 2023,
+      "norma": 6054
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/165/comprovante-_14.pdf da norma Portaria nº 14, de 30 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/165/comprovante-_14.pdf",
+      "ano": 2023,
+      "norma": 4919
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/166/portaria-_014.pdf da norma Portaria nº 14, de 30 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/166/portaria-_014.pdf",
+      "ano": 2023,
+      "norma": 4919
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/167/portaria-_013.pdf da norma Portaria nº 13, de 24 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/167/portaria-_013.pdf",
+      "ano": 2023,
+      "norma": 4916
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/168/comprovante-_13.pdf da norma Portaria nº 13, de 24 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/168/comprovante-_13.pdf",
+      "ano": 2023,
+      "norma": 4916
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/169/comprovante-_12.pdf da norma Portaria nº 12, de 23 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/169/comprovante-_12.pdf",
+      "ano": 2023,
+      "norma": 4915
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/170/portaria-_012.pdf da norma Portaria nº 12, de 23 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/170/portaria-_012.pdf",
+      "ano": 2023,
+      "norma": 4915
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/171/portaria-_011.pdf da norma Portaria nº 11, de 13 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/171/portaria-_011.pdf",
+      "ano": 2023,
+      "norma": 4910
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/172/comprovante-_11.pdf da norma Portaria nº 11, de 13 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/172/comprovante-_11.pdf",
+      "ano": 2023,
+      "norma": 4910
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/173/comprovante-_10.pdf da norma Portaria nº 10, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/173/comprovante-_10.pdf",
+      "ano": 2023,
+      "norma": 4842
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/174/portaria-_010.pdf da norma Portaria nº 10, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/174/portaria-_010.pdf",
+      "ano": 2023,
+      "norma": 4842
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/175/portaria-_009.pdf da norma Portaria nº 9, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/175/portaria-_009.pdf",
+      "ano": 2023,
+      "norma": 4841
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/176/comprovante-_09.pdf da norma Portaria nº 9, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/176/comprovante-_09.pdf",
+      "ano": 2023,
+      "norma": 4841
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/177/comprovante-_08.pdf da norma Portaria nº 8, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/177/comprovante-_08.pdf",
+      "ano": 2023,
+      "norma": 4825
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/178/portaria-_008.pdf da norma Portaria nº 8, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/178/portaria-_008.pdf",
+      "ano": 2023,
+      "norma": 4825
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/179/portaria-_007.pdf da norma Portaria nº 7, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/179/portaria-_007.pdf",
+      "ano": 2023,
+      "norma": 4824
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/180/comprovante-_07.pdf da norma Portaria nº 7, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/180/comprovante-_07.pdf",
+      "ano": 2023,
+      "norma": 4824
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/181/portaria-_006.pdf da norma Portaria nº 6, de 03 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/181/portaria-_006.pdf",
+      "ano": 2023,
+      "norma": 4819
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/182/portaria-_005.pdf da norma Portaria nº 5, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/182/portaria-_005.pdf",
+      "ano": 2023,
+      "norma": 4813
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/183/portaria-_004.pdf da norma Portaria nº 4, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/183/portaria-_004.pdf",
+      "ano": 2023,
+      "norma": 4812
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/184/portaria-_003.pdf da norma Portaria nº 3, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/184/portaria-_003.pdf",
+      "ano": 2023,
+      "norma": 4811
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/185/portaria-_104.pdf da norma Portaria nº 104, de 01 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/185/portaria-_104.pdf",
+      "ano": 2023,
+      "norma": 6058
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/186/comprovante-_101.pdf da norma Portaria nº 101, de 23 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/186/comprovante-_101.pdf",
+      "ano": 2023,
+      "norma": 6055
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/187/comprovante-_102.pdf da norma Portaria nº 102, de 23 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/187/comprovante-_102.pdf",
+      "ano": 2023,
+      "norma": 6056
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/188/comprovante-_103.pdf da norma Portaria nº 103, de 24 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/188/comprovante-_103.pdf",
+      "ano": 2023,
+      "norma": 6057
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/189/comprovante-_105.pdf da norma Portaria nº 105, de 01 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/189/comprovante-_105.pdf",
+      "ano": 2023,
+      "norma": 6059
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/190/comprovante-_106.pdf da norma Portaria nº 106, de 01 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/190/comprovante-_106.pdf",
+      "ano": 2023,
+      "norma": 6060
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/191/comprovante-_107.pdf da norma Portaria nº 107, de 01 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/191/comprovante-_107.pdf",
+      "ano": 2023,
+      "norma": 6061
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/192/comprovante-_109.pdf da norma Portaria nº 109, de 04 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/192/comprovante-_109.pdf",
+      "ano": 2023,
+      "norma": 6063
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/193/comprovante-_110.pdf da norma Portaria nº 110, de 04 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/193/comprovante-_110.pdf",
+      "ano": 2023,
+      "norma": 6064
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/194/portaria-101.pdf da norma Portaria nº 101, de 23 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/194/portaria-101.pdf",
+      "ano": 2023,
+      "norma": 6055
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/195/portaria-102.pdf da norma Portaria nº 102, de 23 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/195/portaria-102.pdf",
+      "ano": 2023,
+      "norma": 6056
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/196/portaria-103.pdf da norma Portaria nº 103, de 24 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/196/portaria-103.pdf",
+      "ano": 2023,
+      "norma": 6057
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/197/portaria-105.pdf da norma Portaria nº 105, de 01 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/197/portaria-105.pdf",
+      "ano": 2023,
+      "norma": 6059
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/198/portaria-106.pdf da norma Portaria nº 106, de 01 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/198/portaria-106.pdf",
+      "ano": 2023,
+      "norma": 6060
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/199/portaria-107.pdf da norma Portaria nº 107, de 01 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/199/portaria-107.pdf",
+      "ano": 2023,
+      "norma": 6061
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/200/portaria-109.pdf da norma Portaria nº 109, de 04 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/200/portaria-109.pdf",
+      "ano": 2023,
+      "norma": 6063
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/201/portaria-110.pdf da norma Portaria nº 110, de 04 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/201/portaria-110.pdf",
+      "ano": 2023,
+      "norma": 6064
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/202/portaria-111.pdf da norma Portaria nº 111, de 04 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/202/portaria-111.pdf",
+      "ano": 2023,
+      "norma": 6065
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/203/comprovante-_111.pdf da norma Portaria nº 111, de 04 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/203/comprovante-_111.pdf",
+      "ano": 2023,
+      "norma": 6065
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/204/comprovante-_112.pdf da norma Portaria nº 112, de 05 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/204/comprovante-_112.pdf",
+      "ano": 2023,
+      "norma": 6071
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/205/portaria-112.pdf da norma Portaria nº 112, de 05 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/205/portaria-112.pdf",
+      "ano": 2023,
+      "norma": 6071
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/206/portaria-113.pdf da norma Portaria nº 113, de 05 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/206/portaria-113.pdf",
+      "ano": 2023,
+      "norma": 6072
+    },
+    {
+      "id": 207,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/207/comprovante-_113.pdf da norma Portaria nº 113, de 05 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/207",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/207/comprovante-_113.pdf",
+      "ano": 2023,
+      "norma": 6072
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/208/comprovante-_114.pdf da norma Portaria nº 114, de 14 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/208/comprovante-_114.pdf",
+      "ano": 2023,
+      "norma": 6083
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/209/portaria-114.pdf da norma Portaria nº 114, de 14 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/209/portaria-114.pdf",
+      "ano": 2023,
+      "norma": 6083
+    },
+    {
+      "id": 210,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/210/comprovante-_115.pdf da norma Portaria nº 115, de 22 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/210",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/210/comprovante-_115.pdf",
+      "ano": 2023,
+      "norma": 6084
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/211/portaria-115.pdf da norma Portaria nº 115, de 22 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/211/portaria-115.pdf",
+      "ano": 2023,
+      "norma": 6084
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/212/portaria-116.pdf da norma Portaria nº 116, de 28 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/212/portaria-116.pdf",
+      "ano": 2023,
+      "norma": 6085
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/213/comprovante-_117.pdf da norma Portaria nº 117, de 04 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/213/comprovante-_117.pdf",
+      "ano": 2023,
+      "norma": 6092
+    },
+    {
+      "id": 214,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/214/termo_de_posse_de_servidor_publico.pdf da norma Portaria nº 97, de 09 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/214",
+      "metadata": {},
+      "assunto_anexo": "Termo de posse",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/214/termo_de_posse_de_servidor_publico.pdf",
+      "ano": 2023,
+      "norma": 6046
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/215/termo_de_entrada_em_exercicio.pdf da norma Portaria nº 97, de 09 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {},
+      "assunto_anexo": "Termo de entrada em exercício",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/215/termo_de_entrada_em_exercicio.pdf",
+      "ano": 2023,
+      "norma": 6046
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/216/angelica_bezerra_melo_figueiredo_-_contador.pdf da norma Portaria nº 83, de 14 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "Termo de posse",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/216/angelica_bezerra_melo_figueiredo_-_contador.pdf",
+      "ano": 2023,
+      "norma": 5835
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/217/16-_angelica_bezerra_melo_figueiredo_-_contador_assinado.pdf da norma Portaria nº 83, de 14 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Angelica Bezerra Melo Figueiredo",
+                [
+                  "2023-09-04T08:11:54-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Eric Mateus Goncalves",
+                [
+                  "2023-09-01T08:08:05-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Termo de entrada em exercício",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/217/16-_angelica_bezerra_melo_figueiredo_-_contador_assinado.pdf",
+      "ano": 2023,
+      "norma": 5835
+    },
+    {
+      "id": 218,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/218/portaria-_028.pdf da norma Portaria nº 28, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/218",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/218/portaria-_028.pdf",
+      "ano": 2024,
+      "norma": 6317
+    },
+    {
+      "id": 219,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/219/portaria-_027.pdf da norma Portaria nº 27, de 18 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/219",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/219/portaria-_027.pdf",
+      "ano": 2024,
+      "norma": 6315
+    },
+    {
+      "id": 220,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/220/portaria-_026.pdf da norma Portaria nº 26, de 15 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/220",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/220/portaria-_026.pdf",
+      "ano": 2024,
+      "norma": 6314
+    },
+    {
+      "id": 221,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/221/portaria-_025.pdf da norma Portaria nº 25, de 07 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/221",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/221/portaria-_025.pdf",
+      "ano": 2024,
+      "norma": 6304
+    },
+    {
+      "id": 222,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/222/portaria-_024.pdf da norma Portaria nº 24, de 04 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/222",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/222/portaria-_024.pdf",
+      "ano": 2024,
+      "norma": 6298
+    },
+    {
+      "id": 223,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/223/portaria-_022.pdf da norma Portaria nº 22, de 22 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/223",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/223/portaria-_022.pdf",
+      "ano": 2024,
+      "norma": 6296
+    },
+    {
+      "id": 224,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/224/portaria-_021.pdf da norma Portaria nº 21, de 19 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/224",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/224/portaria-_021.pdf",
+      "ano": 2024,
+      "norma": 6289
+    },
+    {
+      "id": 225,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/225/portaria-129.pdf da norma Portaria nº 129, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/225",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/225/portaria-129.pdf",
+      "ano": 2023,
+      "norma": 6222
+    },
+    {
+      "id": 226,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/226/portaria-_020.pdf da norma Portaria nº 20, de 09 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/226",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/226/portaria-_020.pdf",
+      "ano": 2024,
+      "norma": 6285
+    },
+    {
+      "id": 227,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/227/portaria-128.pdf da norma Portaria nº 128, de 28 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/227",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/227/portaria-128.pdf",
+      "ano": 2023,
+      "norma": 6221
+    },
+    {
+      "id": 228,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/228/portaria-_018.pdf da norma Portaria nº 18, de 02 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/228",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/228/portaria-_018.pdf",
+      "ano": 2024,
+      "norma": 6283
+    },
+    {
+      "id": 229,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/229/portaria-_019.pdf da norma Portaria nº 19, de 10 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/229",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/229/portaria-_019.pdf",
+      "ano": 2024,
+      "norma": 6284
+    },
+    {
+      "id": 230,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/230/portaria-_017.pdf da norma Portaria nº 17, de 02 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/230",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/230/portaria-_017.pdf",
+      "ano": 2024,
+      "norma": 6282
+    },
+    {
+      "id": 231,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/231/portaria-_016.pdf da norma Portaria nº 16, de 01 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/231",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/231/portaria-_016.pdf",
+      "ano": 2024,
+      "norma": 6276
+    },
+    {
+      "id": 232,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/232/portaria-_015.pdf da norma Portaria nº 15, de 01 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/232",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/232/portaria-_015.pdf",
+      "ano": 2024,
+      "norma": 6275
+    },
+    {
+      "id": 233,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/233/portaria-_014.pdf da norma Portaria nº 14, de 01 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/233",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/233/portaria-_014.pdf",
+      "ano": 2024,
+      "norma": 6274
+    },
+    {
+      "id": 234,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/234/portaria-_013.pdf da norma Portaria nº 13, de 01 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/234",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/234/portaria-_013.pdf",
+      "ano": 2024,
+      "norma": 6273
+    },
+    {
+      "id": 235,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/235/portaria-_012.pdf da norma Portaria nº 12, de 01 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/235",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/235/portaria-_012.pdf",
+      "ano": 2024,
+      "norma": 6272
+    },
+    {
+      "id": 236,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/236/portaria-_011.pdf da norma Portaria nº 11, de 25 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/236",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/236/portaria-_011.pdf",
+      "ano": 2024,
+      "norma": 6271
+    },
+    {
+      "id": 237,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/237/portaria-_010.pdf da norma Portaria nº 10, de 23 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/237",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/237/portaria-_010.pdf",
+      "ano": 2024,
+      "norma": 6270
+    },
+    {
+      "id": 238,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/238/portaria-_009.pdf da norma Portaria nº 9, de 22 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/238",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/238/portaria-_009.pdf",
+      "ano": 2024,
+      "norma": 6269
+    },
+    {
+      "id": 239,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/239/portaria-_008.pdf da norma Portaria nº 8, de 22 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/239",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/239/portaria-_008.pdf",
+      "ano": 2024,
+      "norma": 6268
+    },
+    {
+      "id": 240,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/240/portaria-_007.pdf da norma Portaria nº 7, de 19 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/240",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/240/portaria-_007.pdf",
+      "ano": 2024,
+      "norma": 6267
+    },
+    {
+      "id": 241,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/241/portaria-_006.pdf da norma Portaria nº 6, de 17 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/241",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/241/portaria-_006.pdf",
+      "ano": 2024,
+      "norma": 6265
+    },
+    {
+      "id": 242,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/242/portaria-_005.pdf da norma Portaria nº 5, de 15 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/242",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/242/portaria-_005.pdf",
+      "ano": 2024,
+      "norma": 6261
+    },
+    {
+      "id": 243,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/243/portaria-_004.pdf da norma Portaria nº 4, de 12 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/243",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/243/portaria-_004.pdf",
+      "ano": 2024,
+      "norma": 6233
+    },
+    {
+      "id": 244,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/244/portaria-_003.pdf da norma Portaria nº 3, de 12 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/244",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/244/portaria-_003.pdf",
+      "ano": 2024,
+      "norma": 6234
+    },
+    {
+      "id": 245,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/245/portaria-_002.pdf da norma Portaria nº 2, de 08 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/245",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/245/portaria-_002.pdf",
+      "ano": 2024,
+      "norma": 6225
+    },
+    {
+      "id": 246,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/246/portaria-_001.pdf da norma Portaria nº 1, de 03 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/246",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/246/portaria-_001.pdf",
+      "ano": 2024,
+      "norma": 6224
+    },
+    {
+      "id": 247,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/247/convocacao_concurso_publico_-_luiz_eduardo_goncalves.pdf da norma Portaria nº 19, de 10 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/247",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/247/convocacao_concurso_publico_-_luiz_eduardo_goncalves.pdf",
+      "ano": 2024,
+      "norma": 6284
+    },
+    {
+      "id": 248,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/248/portaria-_029.pdf da norma Portaria nº 29, de 25 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/248",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/248/portaria-_029.pdf",
+      "ano": 2024,
+      "norma": 6318
+    },
+    {
+      "id": 249,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/249/portaria-_030.pdf da norma Portaria nº 30, de 27 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/249",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/249/portaria-_030.pdf",
+      "ano": 2024,
+      "norma": 6319
+    },
+    {
+      "id": 250,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/250/portaria-_031.pdf da norma Portaria nº 31, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/250",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/250/portaria-_031.pdf",
+      "ano": 2024,
+      "norma": 6333
+    },
+    {
+      "id": 251,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1985/251/biografia_de_donatila_da_costa_lima.pdf da norma Lei Ordinária nº 783, de 21 de agosto de 1985",
+      "link_detail_backend": "/norma/anexonormajuridica/251",
+      "metadata": {},
+      "assunto_anexo": "Biografia",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/1985/251/biografia_de_donatila_da_costa_lima.pdf",
+      "ano": 1985,
+      "norma": 3375
+    },
+    {
+      "id": 252,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/252/portaria-_032.pdf da norma Portaria nº 32, de 10 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/252",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/252/portaria-_032.pdf",
+      "ano": 2024,
+      "norma": 6337
+    },
+    {
+      "id": 253,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/253/portaria-_035.pdf da norma Portaria nº 35, de 13 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/253",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/253/portaria-_035.pdf",
+      "ano": 2024,
+      "norma": 6372
+    },
+    {
+      "id": 254,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/254/portaria-_033.pdf da norma Portaria nº 33, de 19 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/254",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/254/portaria-_033.pdf",
+      "ano": 2024,
+      "norma": 6340
+    },
+    {
+      "id": 255,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/255/portaria-_034.pdf da norma Portaria nº 34, de 19 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/255",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/255/portaria-_034.pdf",
+      "ano": 2024,
+      "norma": 6339
+    },
+    {
+      "id": 256,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/256/portaria-_036.pdf da norma Portaria nº 36, de 17 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/256",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/256/portaria-_036.pdf",
+      "ano": 2024,
+      "norma": 6373
+    },
+    {
+      "id": 257,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/257/portaria-_037.pdf da norma Portaria nº 37, de 17 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/257",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/257/portaria-_037.pdf",
+      "ano": 2024,
+      "norma": 6374
+    },
+    {
+      "id": 258,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/258/portaria-_038.pdf da norma Portaria nº 38, de 21 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/258",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/258/portaria-_038.pdf",
+      "ano": 2024,
+      "norma": 6375
+    },
+    {
+      "id": 259,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/259/portaria-_040.pdf da norma Portaria nº 40, de 29 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/259",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/259/portaria-_040.pdf",
+      "ano": 2024,
+      "norma": 6392
+    },
+    {
+      "id": 260,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/260/portaria-_041.pdf da norma Portaria nº 41, de 29 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/260",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/260/portaria-_041.pdf",
+      "ano": 2024,
+      "norma": 6393
+    },
+    {
+      "id": 261,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/261/termo_de_posse_e_termo_de_entrada.pdf da norma Portaria nº 44, de 12 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/261",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse e Termo de Entrada",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/261/termo_de_posse_e_termo_de_entrada.pdf",
+      "ano": 2024,
+      "norma": 6429
+    },
+    {
+      "id": 262,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/262/termo_de_entrada_de_exercicio_-_anderson_rodrigo.pdf da norma Portaria nº 44, de 12 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/262",
+      "metadata": {},
+      "assunto_anexo": "TERMO DE ENTRADA",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/262/termo_de_entrada_de_exercicio_-_anderson_rodrigo.pdf",
+      "ano": 2024,
+      "norma": 6429
+    },
+    {
+      "id": 263,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/263/termo_de_entrada_em_exercicio_-_vilson_lopes_da_silva.pdf da norma Portaria nº 127, de 08 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/263",
+      "metadata": {},
+      "assunto_anexo": "TERMO DE ENTRADA",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/263/termo_de_entrada_em_exercicio_-_vilson_lopes_da_silva.pdf",
+      "ano": 2023,
+      "norma": 6217
+    },
+    {
+      "id": 264,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/264/termo_de_posse_de_servidor_publico_-_vilson_lopes_da_silva.pdf da norma Portaria nº 127, de 08 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/264",
+      "metadata": {},
+      "assunto_anexo": "TERMO DE POSSE",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/264/termo_de_posse_de_servidor_publico_-_vilson_lopes_da_silva.pdf",
+      "ano": 2023,
+      "norma": 6217
+    },
+    {
+      "id": 265,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/265/termo_de_entrada_em_exercicio_-_russenaide_castellany.pdf da norma Portaria nº 23, de 01 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/265",
+      "metadata": {},
+      "assunto_anexo": "Termo de entrada",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/265/termo_de_entrada_em_exercicio_-_russenaide_castellany.pdf",
+      "ano": 2024,
+      "norma": 6297
+    },
+    {
+      "id": 266,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/266/termo_de_posse_de_servidor_publico_-_russenaide_castellany.pdf da norma Portaria nº 23, de 01 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/266",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/266/termo_de_posse_de_servidor_publico_-_russenaide_castellany.pdf",
+      "ano": 2024,
+      "norma": 6297
+    },
+    {
+      "id": 267,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/267/ata_da_reuniao_da_comissao_de_inquerito_administrativo.pdf da norma Portaria nº 64, de 02 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/267",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Anderson Rodrigo de Vasconcelos Arruda",
+                [
+                  "2024-08-14T18:49:26-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Antonio Carlos de Andrade Silva",
+                [
+                  "2024-08-13T09:24:37-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Daniel Welles Andrade do Nascimento",
+                [
+                  "2024-08-15T09:11:33-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Debora Raissa Cardoso Silva",
+                [
+                  "2024-08-15T10:13:03-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Fernando Cesar Alves Cintra",
+                [
+                  "2024-08-15T10:30:13-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Henrique dos Santos Amorim",
+                [
+                  "2024-08-15T11:04:50-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Higor Batista Nascimento",
+                [
+                  "2024-08-13T09:53:38-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Isabelle Souza Diniz",
+                [
+                  "2024-08-15T11:55:15-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Jose Geraldo Moura de Souza Filho",
+                [
+                  "2024-08-13T12:12:28-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Josue Custodio de Araujo Sobrinho",
+                [
+                  "2024-08-15T18:36:11-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Noeme Yasmim Neves Gomes",
+                [
+                  "2024-08-16T08:47:13-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Russenaide Castellany de Souza Batista Rocha",
+                [
+                  "2024-08-16T08:59:22-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Saulo Correia de Albuquerque",
+                [
+                  "2024-08-16T09:26:56-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ],
+              [
+                "Uziel Ferreira Aragao",
+                [
+                  "2024-08-13T12:39:09-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Valtency Vasconcelos Carneiro",
+                [
+                  "2024-08-14T09:06:43-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Vilson Lopes da Silva",
+                [
+                  "2024-08-16T13:20:11-03:00",
+                  "Gov-Br"
+                ]
+              ],
+              [
+                "Walan Max Araujo Santos",
+                [
+                  "2024-08-19T08:14:08-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Ata da Reunião da Comissão",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2024/267/ata_da_reuniao_da_comissao_de_inquerito_administrativo.pdf",
+      "ano": 2024,
+      "norma": 6466
+    },
+    {
+      "id": 270,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/270/declaracao_funcional_-_daniel_welles_andrade_do_nascimento_1.pdf da norma Portaria nº 38, de 14 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/270",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Antonio Carlos de Andrade Silva",
+                [
+                  "2024-12-04T12:28:25-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Declaração Funcional",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2022/270/declaracao_funcional_-_daniel_welles_andrade_do_nascimento_1.pdf",
+      "ano": 2022,
+      "norma": 2051
+    },
+    {
+      "id": 271,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/271/termo_de_responsabilidade_-_josue_custodio__1.pdf da norma Portaria nº 87, de 17 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/271",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2025/271/termo_de_responsabilidade_-_josue_custodio__1.pdf",
+      "ano": 2025,
+      "norma": 6753
+    },
+    {
+      "id": 272,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/272/declaracao_funcional_flavio_-_assinado.pdf da norma Portaria nº 35, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/272",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Henrique Barbosa Barros",
+                [
+                  "2025-02-24T12:57:59-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Declaração Funcional",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/272/declaracao_funcional_flavio_-_assinado.pdf",
+      "ano": 2023,
+      "norma": 4941
+    },
+    {
+      "id": 273,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/273/declaracao4.pdf da norma Portaria nº 35, de 03 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/273",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Henrique Barbosa Barros",
+                [
+                  "2025-05-19T10:56:06-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "DECLARAÇÃO FUNCIONAL",
+      "anexo_arquivo": "http://sapl.santacruzdocapibaribe.pe.leg.br/media/sapl/public/anexonormajuridica/2023/273/declaracao4.pdf",
+      "ano": 2023,
+      "norma": 4941
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/607d3712aa2f828dc960d5581c2be781f0982eb7d5d1ce1a7a94dbeb9c870e08.json",
+      "sha256": "be208044cbeaf3c717cf5abb2feae0372570e9cc37f4e8b7953707e9a1238813",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/607d3712aa2f828dc960d5581c2be781f0982eb7d5d1ce1a7a94dbeb9c870e08.meta.json"
+    },
+    {
+      "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/4aa3e8fc7c54b4aea3d6f326da19e94f8b11178f55472f02d8f3f49c8e02bb63.json",
+      "sha256": "4ae3884809151668826d330d3a81f33bcc7b2e88012ee0522f7b045ef47a2966",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/4aa3e8fc7c54b4aea3d6f326da19e94f8b11178f55472f02d8f3f49c8e02bb63.meta.json"
+    },
+    {
+      "url": "https://sapl.santacruzdocapibaribe.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/989b85dd8c49bf3d4f89aad244f7392af982302088c4f6f1f6b311e7e33ce34a.json",
+      "sha256": "d54320beda42715319156a2b132facb06e6ecd3ebb83ae1b2aa6b31bfad0fe60",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santacruzdocapibaribe.pe.leg.br/989b85dd8c49bf3d4f89aad244f7392af982302088c4f6f1f6b311e7e33ce34a.meta.json"
+    }
+  ],
+  "total": 269
+}

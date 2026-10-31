@@ -1,0 +1,236 @@
+{
+  "host": "sapl.marechalcandidorondon.pr.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/errata_portaria_n_34-2022_regulamento_camara_jovem.pdf da norma Portaria nº 34, de 04 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2022/3/errata_portaria_n_34-2022_regulamento_camara_jovem.pdf",
+      "ano": 2022,
+      "norma": 10597
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/publicacao____dioenet___plenus_sistemas___diarios_eletronicos_-_edicao__2854.pdf da norma Portaria-OLLCD nº 53, de 05 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2023/5/publicacao____dioenet___plenus_sistemas___diarios_eletronicos_-_edicao__2854.pdf",
+      "ano": 2023,
+      "norma": 10966
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/decreto_legislativo_no_06.2023_publicacao.pdf da norma Decreto Legislativo-OLLCD nº 6, de 17 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Publicado no Diário Oficial no dia 18/10/2023, Edição 2885.",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2023/6/decreto_legislativo_no_06.2023_publicacao.pdf",
+      "ano": 2023,
+      "norma": 10994
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/7/ato-me_no_22.2023_-_errata_-_publicacao.pdf da norma Ato da Mesa-OLLCD nº 22, de 18 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Publicação de Errata do Ato-ME.",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2023/7/ato-me_no_22.2023_-_errata_-_publicacao.pdf",
+      "ano": 2023,
+      "norma": 10995
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/8/resolucao_no_04.2023_-_publicacao.pdf da norma Resolução-OLLCD nº 4, de 06 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2023/8/resolucao_no_04.2023_-_publicacao.pdf",
+      "ano": 2023,
+      "norma": 11008
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/resolucao_no_05.2023_-_publicacao.pdf da norma Resolução-OLLCD nº 5, de 14 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Resolução 05/2023.",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2023/9/resolucao_no_05.2023_-_publicacao.pdf",
+      "ano": 2023,
+      "norma": 11016
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/10/publicacao____diarios_eletronicos_-_edicao__2929.pdf da norma Ato da Mesa-OLLCD nº 27, de 12 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2023/10/publicacao____diarios_eletronicos_-_edicao__2929.pdf",
+      "ano": 2023,
+      "norma": 11043
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/11/portaria_no_09.2024_-_diarios_eletronicos_-_edicao__2965.pdf da norma Portaria nº 9, de 02 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO DA PORTARIA",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/11/portaria_no_09.2024_-_diarios_eletronicos_-_edicao__2965.pdf",
+      "ano": 2024,
+      "norma": 11080
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/edital_de_convocacao_para_audiencia_publica_-_financas_no_01.2024_-_publicacao___diarios_eletronicos_-_edicao__2967.pdf da norma Edital de Convocação para Audiência Pública-OLLCD nº 1, de 06 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO EDITAL",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/12/edital_de_convocacao_para_audiencia_publica_-_financas_no_01.2024_-_publicacao___diarios_eletronicos_-_edicao__2967.pdf",
+      "ano": 2024,
+      "norma": 11083
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/ato-me_no_01.2024_-_publicacao.pdf da norma Ato da Mesa-OLLCD nº 1, de 05 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/13/ato-me_no_01.2024_-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11081
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/edital_de_convocacao_para_audiencia_publica_-_saude_no_02.2024_-_publicacao____diarios_eletronicos_-_edicao__2967.pdf da norma Edital de Convocação para Audiência Pública-OLLCD nº 2, de 06 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/14/edital_de_convocacao_para_audiencia_publica_-_saude_no_02.2024_-_publicacao____diarios_eletronicos_-_edicao__2967.pdf",
+      "ano": 2024,
+      "norma": 11085
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/edital_de_convocacao_para_audiencia_publica_-_p.l.c._no_06.2023_leg._-__no_03.2024_-_publicacao____diarios_eletronicos_-_edicao__2972.pdf da norma Edital de Convocação para Audiência Pública-OLLCD nº 3, de 15 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/15/edital_de_convocacao_para_audiencia_publica_-_p.l.c._no_06.2023_leg._-__no_03.2024_-_publicacao____diarios_eletronicos_-_edicao__2972.pdf",
+      "ano": 2024,
+      "norma": 11090
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/edital_de_convocacao_no_03.2024_-_1a_sessao_solene_-_publicacao.pdf da norma Edital de Convocação-OLLCD nº 3, de 14 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/16/edital_de_convocacao_no_03.2024_-_1a_sessao_solene_-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11089
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/ato-me_no_02.2024_-_publicacao.pdf da norma Ato da Mesa-OLLCD nº 2, de 01 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/17/ato-me_no_02.2024_-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11103
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/ato-me_no_03.2024_-_publicacao.pdf da norma Ato da Mesa nº 3, de 04 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/18/ato-me_no_03.2024_-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11106
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/edital_de_convocacao_no_10.2024_-_2a_sessao_solene_-_publicacao.pdf da norma Edital de Convocação-OLLCD nº 10, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Edital de Convocação nº 10/2024 - 2ª Sessão Solene",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/19/edital_de_convocacao_no_10.2024_-_2a_sessao_solene_-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11127
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/20/edital_de_convocacao_para_audiencia_publica_-_financas_no_04.2024_-_publicacao.pdf da norma Edital de Convocação para Audiência Pública-OLLCD nº 4, de 29 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "PUBLICAÇÃO",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/20/edital_de_convocacao_para_audiencia_publica_-_financas_no_04.2024_-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11172
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/21/publicacao_no_diario_oficial.pdf da norma Edital de Convocação para Audiência Pública-OLLCD nº 6, de 05 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/21/publicacao_no_diario_oficial.pdf",
+      "ano": 2024,
+      "norma": 11188
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/edital_de_convocacao_para_audiencia_publica_-_loa_-_p.l.c._no_41.2024_exe.__-_publicacao.pdf da norma Edital de Convocação para Audiência Pública-OLLCD nº 9, de 25 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/22/edital_de_convocacao_para_audiencia_publica_-_loa_-_p.l.c._no_41.2024_exe.__-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11255
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/23/edital_de_convocacao_no_50.2024_-_3a_sessao_solene_-_publicacao.pdf da norma Edital de Convocação-OLLCD nº 50, de 25 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2024/23/edital_de_convocacao_no_50.2024_-_3a_sessao_solene_-_publicacao.pdf",
+      "ano": 2024,
+      "norma": 11266
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/25/publicacao_no_diario_oficial_do_ato_da_mesa_no_1.2025.pdf da norma Ato da Mesa-OLLCD nº 1, de 08 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2025/25/publicacao_no_diario_oficial_do_ato_da_mesa_no_1.2025.pdf",
+      "ano": 2025,
+      "norma": 11303
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/publicacao_diario_oficial_15.01.2025_edicao_no_3219_pag._5.pdf da norma Portaria nº 9, de 14 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.marechalcandidorondon.pr.leg.br/media/sapl/public/anexonormajuridica/2025/26/publicacao_diario_oficial_15.01.2025_edicao_no_3219_pag._5.pdf",
+      "ano": 2025,
+      "norma": 11312
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.marechalcandidorondon.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.marechalcandidorondon.pr.leg.br/f17ad4bebac41a83a62b5e5b47b18ae4d1cbebcb2148ecc97e68e391e85bc3d0.json",
+      "sha256": "c51ccfa5e54bac7a771878d4c7c3915af61cb3f36e094883583530bd7e2f05b6",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.marechalcandidorondon.pr.leg.br/f17ad4bebac41a83a62b5e5b47b18ae4d1cbebcb2148ecc97e68e391e85bc3d0.meta.json"
+    }
+  ],
+  "total": 22
+}

@@ -1,0 +1,15 @@
+{
+  "host": "sapl.coronelbarros.rs.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.coronelbarros.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.coronelbarros.rs.leg.br/aef7aff3899b0a30e5443fe57c609f35fe9dd3e07d65f95c1597c070a18df74d.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.coronelbarros.rs.leg.br/aef7aff3899b0a30e5443fe57c609f35fe9dd3e07d65f95c1597c070a18df74d.meta.json"
+    }
+  ],
+  "total": 0
+}

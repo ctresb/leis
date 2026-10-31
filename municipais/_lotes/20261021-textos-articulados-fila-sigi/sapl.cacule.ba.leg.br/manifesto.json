@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cacule.ba.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacule.ba.leg.br/fd9d83109de1e949d2dfe7199743636f15095c8712f051d16362bd169352128d.json",
+    "url": "https://sapl.cacule.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cacule.ba.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:14:06.366390-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacule.ba.leg.br/db92c29dce1a5fffe91142b2cac49baa014afca414b3eee1a50d1003a985c8eb.json",
+    "url": "https://sapl.cacule.ba.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cacule.ba.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fc0fd653592a5dfc7c8e0f3438c9e5a6fd38f6bee2383852eb3af07869ede333",
+    "bytes": 850,
+    "capturado_em": "2026-10-27T22:14:05.752394-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacule.ba.leg.br/a54f69729b45377e17647f4174b81e60b256329c9d47aa51697d552c1203fc7d.json",
+      "url": "https://sapl.cacule.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cacule.ba.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1d6726188b191b603373c9fd4056e4b46ea0f004e5927fb510b9a85ab8d140a9",
+      "bytes": 1087,
+      "capturado_em": "2026-10-27T22:14:08.368264-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

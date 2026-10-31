@@ -1,0 +1,137 @@
+{
+  "estado": "indice_completo",
+  "total": 12,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/anexo_1_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I DA LEI 580.2017 PPA 2018 A 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/1/anexo_1_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/anexo_2_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 2 A LEI  580 2017 PPA 2018 A 2021",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/2/anexo_2_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/3/anexo_3_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 3 DA LEI 580 2017 PPA 2018 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/3/anexo_3_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/4/anexo_4_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 4 DA LEI 580 2017 PPA 2018 A 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/4/anexo_4_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/5/anexo_5_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 5 DA LEI 580 2017 PPA 2018 A 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/5/anexo_5_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/anexo_6_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 6 DA LEI 580 2017 PPA 2018 A 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/6/anexo_6_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/7/anexo_7_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 7 DA LEI 580 2017  PPA 2018 A 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/7/anexo_7_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/8/anexo_8_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 8 DA LEI 580 2017 PPA 2018 A 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/8/anexo_8_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/9/anexo_9_a_lei_580_2017.pdf da norma LEI ORDINÁRIA nº 580, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "ANEXO 9 A LEI 580 2017  PPA 2018 A 2021.",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2017/9/anexo_9_a_lei_580_2017.pdf",
+      "ano": 2017,
+      "norma": 718
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/10/lei_639_2019_anexo_.pdf da norma LEI ORDINÁRIA nº 639, de 11 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo a Lei 639.2019, que \"Revisa o Plano Municipal de Saneamento Básico instituído pela Lei n.º 477, de 14 de outubro de 2015.\"",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2019/10/lei_639_2019_anexo_.pdf",
+      "ano": 2019,
+      "norma": 800
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/11/anexo_01_ldo_2023.pdf da norma LEI ORDINÁRIA nº 751, de 30 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "METODOLOGIAS E PREMISSAS DO PROJETO DE LEI DE DIRETRIZES ORÇAMENTÁRIAS – PLDO",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2022/11/anexo_01_ldo_2023.pdf",
+      "ano": 2022,
+      "norma": 969
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/12/anexo_02_ldo_2023.pdf da norma LEI ORDINÁRIA nº 751, de 30 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Órgãos Consolidados",
+      "anexo_arquivo": "http://sapl.cabeceiragrande.mg.leg.br/media/sapl/public/anexonormajuridica/2022/12/anexo_02_ldo_2023.pdf",
+      "ano": 2022,
+      "norma": 969
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1cb224dd2ffec7694a40c3cabf07efda5cb1edc036c2d947050a948b19bd1a09.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1abeef80cd95b63d35856142f88ccf9175d46d1ba3ee1abf1e9525ba2be1cb4f",
+      "capturado_em": "2026-10-20T20:50:32.007499",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.cabeceiragrande.mg.leg.br/1cb224dd2ffec7694a40c3cabf07efda5cb1edc036c2d947050a948b19bd1a09.json"
+    }
+  ]
+}

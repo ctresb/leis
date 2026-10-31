@@ -1,0 +1,118 @@
+---
+titulo: "Lei Complementar nº 120, de 25 de outubro de 2017"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "120"
+data: "2017-10-25"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1036"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2296/text"
+sha256_fonte: "b3af8cf65be60335e8acbdaa7b8b82f9f4cdb4c4995fa8caaaacd6302e4e286e"
+sha256_texto: "16bf8ed6f0eb569251752c371f87d36e2f4d442f41d53d85a886e98f6c04ff36"
+capturado_em_fonte: "2026-10-27T19:55:18.800875-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 120, de 25 de outubro de 2017
+
+Altera a nomenclatura do cargo público de Agente Sanitário para Fiscal Sanitário, altera número de vagas e atribuições do cargo de Barqueiro constante da Lei Complementar nº 038/2007 que Dispõe sobre Estruturação do Plano de Cargos e Carreiras da Prefeitura Municipal de Buritis - MG, estabelece normas gerais de enquadramento, institui nova tabela de vencimentos, Altera a redação do parágrafo único do art. 1º e do Caput do art. 3º, ambos da Lei Complementar nº 109 de 02.03.2015 que Dispõe sobre regime estatutário especial e o Plano de Carreira, aplicável aos Agente Comunitário de Saúde e ao Agente de Combate a Endemias e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprova e Eu Prefeito Municipal, sanciono a seguinte lei complementar:
+
+
+Art. 1º.
+
+Fica alterada a nomenclatura do cargo público de Agente Sanitário para Fiscal Sanitário, constante da Lei Complementar nº 038/2007 que Dispõe sobre a Estruturação do Plano de Cargos e Carreiras da Prefeitura Municipal de Buritis - MG, estabelece normas gerais de enquadramento, institui nova tabela de vencimentos e dá outras providências.
+
+
+Art. 2º.
+
+O Parágrafo Único do art. 1º e o Caput do art. 3º, ambos da Lei Complementar nº 109 de 02/03/2015, que Dispõe sobre o Regime Estatutário Especial e o Plano de Carreira dos Agentes Comunitários de Saúde e de Combate a Endemias, passa a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+Fica alterada a vaga do cargo de provimento efetivo de Barqueiro de 01(uma) para 02 (duas) vagas e as atribuições do cargo constantes da Lei Complementar nº 038/2007, que passa a ter as seguintes atribuições.
+
+
+I –
+
+Conduzir embarcação de transporte de pessoas, veículos e cargas;
+
+
+II –
+
+Entregar e receber materiais e documentos;
+
+
+III –
+
+Abastecer a embarcação sobre sua responsabilidade;
+
+
+IV –
+
+Proceder a limpeza da embarcação;
+
+
+V –
+
+Zelar pela conservação e manutenção da embarcação;
+
+
+VI –
+
+Seguir obrigatoriamente o quer determina a legislação pertinente;
+
+
+VII –
+
+Seguir previamente o itinerário previamente definido;
+
+
+VIII –
+
+Preencher formulários;
+
+
+IX –
+
+Observar e cumprir as normas de higiene e segurança do trabalho;
+
+
+X –
+
+Possuir habilitação, identificação e registro aquaviário, fornecido pela Marinha do Brasil;
+
+
+XI –
+
+Executar outras atividades correlatas.
+
+
+Art. 4º.
+
+Fica modificado – CLASSES DA PARTE PERMANENTE DO QUADRO DE PESSOAL, no Grupo Ocupacional III - Serviços Gerais. Manutenção, transporte, obras e serviços públicos do anexo I da Lei Complementar 038/2007, que passa a vigorar da seguinte forma:
+
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td><strong>Denominação do Grupo</strong><br><strong>Ocupacional</strong></td><td><strong>Denominação do Cargo</strong></td><td><strong>Vagas</strong></td><td><strong>Carga</strong><br><strong>Horária</strong></td><td><strong>Nível de</strong><br><strong>vencimento</strong></td></tr><tr><td rowspan="15">III - Serviços Gerais,<br>manutenção, Transporte,<br>Obras e Servicos Públicos</td><td>Auxiliar de Mecânico</td><td>01</td><td>40 HORAS</td><td>I-A</td></tr><tr><td>Auxiliar de Serviços Gerais</td><td>120</td><td>40 HORAS</td><td>I-A</td></tr><tr><td>Barqueiro</td><td>02</td><td>40 HORAS</td><td>I-A</td></tr><tr><td>Borracheiro</td><td>01</td><td>40 HORAS</td><td>I-A</td></tr><tr><td>Coveiro</td><td>02</td><td>40 HOAS</td><td>I-A</td></tr><tr><td>Eletricista Predial</td><td>02</td><td>40 HORAS</td><td>VII-A</td></tr><tr><td>Gari</td><td>20 </td><td>40 HORAS</td><td>I-A</td></tr><tr><td>Lavador de Autos</td><td>01</td><td>40 HORAS</td><td>I-A</td></tr><tr><td>Mecânico</td><td>04</td><td>40 HORAS</td><td>IX-A</td></tr><tr><td>Motorista</td><td>55</td><td>40 HORAS</td><td>V-A</td></tr><tr><td>Office Boy</td><td>02</td><td>40 HORAS</td><td>I-A</td></tr><tr><td>Operador de Máquinas Leves</td><td>13</td><td>40 HORAS</td><td>VI-A</td></tr><tr><td>Operador de Máquinas Pesadas</td><td>07</td><td>40 HORAS</td><td>VII-A</td></tr><tr><td>Telefonista</td><td>03</td><td>30 HORAS</td><td>IV-A</td></tr><tr><td>Vigia </td><td>48</td><td>40 HORAS</td><td>I-A</td></tr></tbody></table>
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 25 de outubro de 2017.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Proposição de Lei Complementar nº 003 de 11/10/2017. De autoria do Executivo Municipal
+

@@ -1,0 +1,422 @@
+---
+titulo: "Lei Complementar nº 108, de 02 de março de 2015"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "108"
+data: "2015-03-02"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/11"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2291/text"
+sha256_fonte: "9a7871fff9ab8d3920b49ed39bf19b750304c7a73f3dea0381b39f7c107461f6"
+sha256_texto: "47b726a17dd5ca6422ee7fdee81d9364ebf243ee98e9a7afe9930c54f1f87e89"
+capturado_em_fonte: "2026-10-27T19:58:07.579496-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 108, de 02 de março de 2015
+
+Cria o Plano de Cargos, Carreira e Remuneração dos Médicos.
+
+
+O PREFEITO DO MUNICÍPIO DE BURITIS, Estado de Minas Gerais, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei Complementar:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta lei dispõe sobre o Plano de Cargos, Carreira e Remuneração dos Médicos Município de Buritis-MG.
+
+
+Art. 2º.
+
+Para os fins desta Lei Complementar, entende-se por:
+
+
+I –
+
+carreira médica, o disposto neste Plano de Cargos, Carreira e Remuneração;
+
+
+II –
+
+médico, o servidor legalmente investido em cargo público componente da carreira médica;
+
+
+III –
+
+cargo, o conjunto de atribuições inerentes ao médico com responsabilidades previstas na carreira médica e vínculo de trabalho estatutário;
+
+
+IV –
+
+remuneração, o valor pecuniário do subsídio devido ao médico pelo exercício atribuições de seu cargo.
+
+
+Art. 3º.
+
+A carreira médica tem por objetivo a valorização dos servidores através da equidade de oportunidades de desenvolvimento profissional como forma de melhorar a qualidade da prestação dos serviços de saúde.
+
+
+Art. 4º.
+
+O acesso aos cargos da carreira médica se dará através de concurso de provas e títulos e deverá, no mínimo:
+
+
+I –
+
+apurar os conhecimentos básicos e específicos para o exercício do cargo;
+
+
+II –
+
+apurar o conhecimento sobre Sistema Único de Saúde.
+
+
+Parágrafo único
+
+O concurso terá a validade de até dois anos prorrogável por igual período.
+
+
+#### CAPÍTULO II — DAS CARREIRAS E DAS REMUNERAÇÕES
+
+
+Art. 5º.
+
+A carreira médica compreende uma estrutura de cargos, categorias, classes e padrões de desempenho.
+
+
+Art. 6º.
+
+Os médicos estão organizados nos cargos de provimento efetivo de Especialista em Saúde.
+
+
+§ 1º
+
+Os cargos são divididos em categorias, que especificam a área de atuação do médico, e subdivididos em classes, que especificam a formação acadêmica mínima para exercício do cargo público, estando disposto no Anexo I.
+
+
+§ 2º
+
+As Classes constituem forma de promoção na carreira, observadas as regras dispostas na Seção I do Capítulo III.
+
+
+§ 3º
+
+O padrão de desempenho identifica a posição do médico na tabela de remuneração e constitui a progressão na carreira após atingido determinado tempo de trabalho e as regras dispostas na Seção II do Capítulo III, estando disposto no Anexo II.
+
+
+Art. 7º.
+
+O médico submete-se a regime de dedicação integral, devendo cumprir a jornada trabalho mínima estabelecida no Anexo I.
+
+
+§ 1º
+
+A jornada de trabalho mínima será cumprida mediante acordo de trabalho junto Secretaria Municipal de Saúde, prevalecendo a necessidade do serviço e o interesse público justificado.
+
+
+§ 2º
+
+No estabelecimento do acordo de trabalho, a que se refere o § 1º, quando determinado o cumprimento da jornada semanal em um ou dois dias da semana o médico deverá prestar seus serviços mesmo que o dia de atendimento recaia em feriado nacional ou municipal, admitida a reposição em outro dia da mesma semana.
+
+
+§ 3º
+
+As ausências ao serviço serão punidas com o desconto pecuniário por hora, desprezada a soma inferior a trinta minutos por mês.
+
+
+§ 4º
+
+A punição prevista no § 3º não afasta a eventual punição administrativa, civil ou penal, se couber.
+
+
+§ 5º
+
+Em casos de calamidade pública ou de surtos epidêmicos o médico poderá ser convocado para o serviço, podendo, durante o período que perdurar a convocação, ser indenizado com valor pecuniário.
+
+
+Art. 8º.
+
+O médico será remunerado através de subsídio fixado em parcela única, nos termos do § 8º do art. 39 da Constituição Federal.
+
+
+Parágrafo único
+
+O subsídio do médico será reajustado anualmente pelo Índice Nacional Preços ao Consumidor - INPC acumulado nos últimos doze meses, sempre no mês seguinte ao mês de aniversário desta Lei Complementar.
+
+
+#### CAPÍTULO III — DO DESENVOLVIMENTO NA CARREIRA
+
+
+Art. 9º.
+
+O desenvolvimento do médico na carreira médica se dará através de promoção progressão funcional, vinculada a avaliação de desempenho.
+
+
+§ 1º
+
+A promoção e a progressão poderá ocorrer de forma simultânea.
+
+
+§ 2º
+
+A avaliação de desempenho tem por finalidade a apreciação sistemática e contínua do desempenho do trabalhador e da sua conduta no exercício de suas atribuições, à vista da contribuição efetiva para realização dos princípios e objetivos institucionais, abrangendo avaliação das atividades do médico, dos Coletivos de Trabalho, e da Instituição.
+
+
+§ 3º
+
+A promoção e a progressão, sendo que esta independe de requerimento, contarão a partir do primeiro dia do mês sequente ao mês do término do período aquisitivo, se atingidos os requisitos para usufruir de cada um dos institutos, independentemente da data de término da apuração dos requisitos, contudo será pago somente após a publicação do ato de concessão.
+
+
+##### Seção I — Promoção Funcional
+
+
+Art. 10.
+
+A promoção é a passagem do médico de uma classe para outra imediatamente superior, no mesmo cargo e no mesmo padrão de desempenho, mediante cumprimento das seguintes disposições:
+
+
+I –
+
+ter a formação acadêmica exigida para a classe;
+
+
+II –
+
+ter cumprido satisfatoriamente o estágio probatório;
+
+
+III –
+
+cumprir o interstício mínimo de três anos de efetivo exercício na classe em que encontre;
+
+
+IV –
+
+ter tido aproveitamento satisfatório em três, últimas e consecutivas, avaliações desempenho.
+
+
+Parágrafo único
+
+A penalização do médico por infração disciplinar interrompe o período aquisitivo para promoção, devendo ser reiniciada a contagem do tempo previsto no inciso III do art. 10.
+
+
+##### Seção II — Progressão Funcional
+
+
+Art. 11.
+
+A progressão funcional é a passagem do médico de um padrão de desempenho para outro, na mesma classe, mediante cumprimento das seguintes disposições:
+
+
+I –
+
+ter cumprido o estágio probatório;
+
+
+II –
+
+cumprir o interstício mínimo de três anos de efetivo exercício no padrão de desempenho em que se encontre;
+
+
+III –
+
+ter tido aproveitamento satisfatório em três, últimas e consecutivas, avaliações desempenho.
+
+
+Parágrafo único
+
+A penalização com suspensão do médico por infração disciplinar interrompe o período aquisitivo para promoção, devendo ser reiniciada a contagem do tempo previsto inciso II do art. 11.
+
+
+##### Seção III — Da Avaliação de Desempenho
+
+
+Art. 12.
+
+A avaliação de desempenho, nos termos regulamentares, é o instrumento de avaliação do médico onde serão apurados, no mínimo:
+
+
+I –
+
+o desempenho do médico frente ao exercício das atribuições de seu cargo;
+
+
+II –
+
+o atendimento respeitoso ao cidadão e usuário do Sistema Único de Saúde;
+
+
+III –
+
+o atendimento das metas de trabalho individuais e coletivas, pré-estabelecidas, bem como o atendimento das metas do Sistema Único de Saúde;
+
+
+IV –
+
+a assiduidade e a disciplina do médicо.
+
+
+§ 1º
+
+Deverão ser criado formulários e métodos de avaliação que possibilite a permanente avaliação do médico.
+
+
+§ 2º
+
+Será considerada satisfatória a avaliação de desempenho do médico que obtiver, mínimo, 80% (oitenta por cento), de aproveitamento.
+
+
+Art. 13.
+
+A avaliação de desempenho deverá ser realizada anualmente em até sessenta dias do término do ano civil.
+
+
+§ 1º
+
+O prazo estipulado no caput será considerado suprido se tiver sido iniciado o processo de avaliação até o último dia útil do prazo.
+
+
+§ 2º
+
+Não realizada a avaliação de desempenho no prazo estipulado no caput, observado disposto no § 1º, a mesma será considerada como realizada e com aproveitamento satisfatório para o médico, exceto no tocante ao contido em seus assentamentos funcionais referente período avaliado, que será apurado pelo Departamento de Recursos Humanos frente aos dados constantes dos assentamentos funcionais.
+
+
+#### CAPÍTULO IV — DO PROGRAMA DE QUALIFICAÇÃO
+
+
+Art. 14.
+
+O Município poderá promover palestras ou cursos de capacitação para os médicos.
+
+
+Art. 15.
+
+Deverá ser concedido ao médico o gozo de férias prêmio para participar de cursos de capacitação, qualificação ou especialização, desde que não ultrapasse o montante de 10% (dez por cento) do número de médicos, no mesmo período, e o curso não possa ser realizado concomitantemente com o exercício do cargo.
+
+
+Parágrafo único
+
+A concessão poderá ser negada se o período de execução do curso for inferior a duas semanas, se no exterior, ou três semanas, se no país.
+
+
+Art. 16.
+
+Poderá ser convertida em espécie férias prêmio do médico que queira participar cursos de qualificação ou especialização, que tenha custo elevado.
+
+
+Art. 17.
+
+As concessões realizadas nos termos dos artigos 15 e 16 deverão:
+
+
+I –
+
+ser previamente programada;
+
+
+II –
+
+ser devidamente comprovada;
+
+
+III –
+
+ser na área de atuação ou afim do médico;
+
+
+IV –
+
+contribuir para o exercício e melhoramento das atribuições de seu cargo.
+
+
+Parágrafo único
+
+A não observação das determinações do disposto no art. 17 poderá ser penalizada com ressarcimento aos cofres públicos e regular processo administrativo para apurar infração disciplinar e aplicação de outras penalidades cabíveis.
+
+
+#### CAPÍTULO VI — DISPOSIÇÕES FINAIS
+
+
+Art. 18.
+
+O disposto nesta Lei Complementar prescindirá o disposto no Estatuto dos Servidores, naquilo que contrariar.
+
+
+Art. 19.
+
+Ficam extintos os cargos e as carreiras de Médico e Médico Plantonista constantes da Lei Complementar nº 038, de 28 de agosto de 2007.
+
+
+Art. 20.
+
+As despesas decorrentes da aplicação desta Lei correrão das verbas próprias do orçamento vigente, ficando o Chefe do Poder Executivo autorizado a abrir créditos adicionais necessários.
+
+
+Art. 21.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Buritis-MG, 02 de março de 2015.
+
+**João JoseAlves de Souza PREFEITO DE BURITIS-MG**
+
+
+## Anexo I — DIVISÃO DOS CARGOS
+
+
+<table><thead><tr><td><strong>Nomenclatura</strong></td><td><strong>Categoria</strong></td><td><strong>Classe</strong></td><td><strong>Formação Mínima Exigida</strong></td><td><strong>Subsídio Inicial</strong></td><td><strong>Jornada</strong></td></tr></thead><tbody><tr><td><strong>Especialista em Saúde</strong></td><td>Plantonista</td><td>E011</td><td>Diploma de conclusão de curso de graduação em <strong>Medicina</strong>, fornecido por instituição de ensino reconhecida pelo MEC e registro no Conselho Regional de Medicina (<strong>CRM</strong>), ambos registrados até a data de nomeação</td><td>R$ 5.004,00</td><td>24h Sem.</td></tr><tr><td> </td><td> </td><td>E012</td><td>Diploma de conclusão de curso de <strong>Mestrado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E011 + 10% (R$ 5.504,40)</td><td>24h Sem.</td></tr><tr><td> </td><td> </td><td>E013</td><td>Diploma de conclusão de curso de <strong>Doutorado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E012 + 15% (R$ 6.330,06)</td><td>24h Sem.</td></tr><tr><td> </td><td>Ambulatorial - Trabalho</td><td>E021</td><td>Diploma de conclusão de curso de graduação em <strong>Medicina</strong>, fornecido por instituição de ensino reconhecida pelo MEC, registro no Conselho Regional de Medicina (<strong>CRM</strong>) e certificado de curso de <strong>especialização em Medicina do Trabalho</strong>, ambos registrados até a data de nomeação</td><td>R$ 4.170,00</td><td>20h Sem.</td></tr><tr><td> </td><td> </td><td>E022</td><td>Diploma de conclusão de curso de <strong>Mestrado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E021 + 10% (R$ 4.587,00)</td><td>20h Sem.</td></tr><tr><td> </td><td> </td><td>E023</td><td>Diploma de conclusão de curso de <strong>Doutorado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E022 + 15% (R$ 5.275,05)</td><td>20h Sem.</td></tr><tr><td> </td><td>Ginecologista - Obstetra</td><td>E031</td><td>Diploma de conclusão de curso de graduação em <strong>Medicina</strong>, fornecido por instituição de ensino reconhecida pelo MEC, registro no Conselho Regional de Medicina (<strong>CRM</strong>) e certificado de curso de <strong>especialização em Ginecologia e em Obstetrícia</strong>, ambos registrados até a data de nomeação</td><td>R$ 4.170,00</td><td>20h Sem.</td></tr><tr><td> </td><td> </td><td>E032</td><td>Diploma de conclusão de curso de <strong>Mestrado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E031 + 10% (R$ 4.587,00)</td><td>20h Sem.</td></tr><tr><td> </td><td> </td><td>E033</td><td>Diploma de conclusão de curso de <strong>Doutorado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E032 + 15% (R$ 5.275,05)</td><td>20h Sem.</td></tr><tr><td> </td><td>Pediatra</td><td>E041</td><td>Diploma de conclusão de curso de graduação em <strong>Medicina</strong>, fornecido por instituição de ensino reconhecida pelo MEC, registro no Conselho Regional de Medicina (<strong>CRM</strong>) e certificado de curso de <strong>especialização em Pediatria</strong>, ambos registrados até a data de nomeação</td><td>R$ 2.085,00</td><td>10h Sem.</td></tr><tr><td> </td><td> </td><td>E042</td><td>Diploma de conclusão de curso de <strong>Mestrado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E041 + 10% (R$ 2.293,50)</td><td>10h Sem.</td></tr><tr><td> </td><td> </td><td>E043</td><td>Diploma de conclusão de curso de <strong>Doutorado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E042 + 15% (R$ 2.637,52)</td><td>10h Sem.</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>Especialista em Saúde</strong></td><td>Urologista</td><td>E051</td><td>Diploma de conclusão de curso de graduação em <strong>Medicina</strong>, fornecido por instituição de ensino reconhecida pelo MEC, registro no Conselho Regional de Medicina (<strong>CRM</strong>) e certificado de curso de <strong>especialização em Urologia</strong>, ambos registrados até a data de nomeação</td><td>R$ 2.085,00</td><td>10h Sem.</td></tr><tr><td> </td><td> </td><td>E052</td><td>Diploma de conclusão de curso de <strong>Mestrado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E051 + 10% (R$ 2.293,50)</td><td>10h Sem.</td></tr><tr><td> </td><td> </td><td>E053</td><td>Diploma de conclusão de curso de <strong>Doutorado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E052 + 15% (R$ 2.637,52)</td><td>10h Sem.</td></tr><tr><td> </td><td>Ortopedista</td><td>E061</td><td>Diploma de conclusão de curso de graduação em <strong>Medicina</strong>, fornecido por instituição de ensino reconhecida pelo MEC, registro no Conselho Regional de Medicina (<strong>CRM</strong>) e certificado de curso de <strong>especialização em Ortopedia</strong>, ambos registrados até a data de nomeação</td><td>R$ 2.085,00</td><td>10h Sem.</td></tr><tr><td> </td><td> </td><td>E062</td><td>Diploma de conclusão de curso de <strong>Mestrado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E061 + 10% (R$ 2.293,50)</td><td>10h Sem.</td></tr><tr><td> </td><td> </td><td>E063</td><td>Diploma de conclusão de curso de <strong>Doutorado</strong>, expedido por instituição de ensino reconhecida pelo Ministério da Educação</td><td>E062 + 15% (R$ 2.637,52)</td><td>10h Sem.</td></tr></tbody></table>
+
+
+## Anexo II — TABELA DE REMUNERAÇÃO
+
+
+<table><thead><tr><td><strong>Classe</strong></td><td><strong>Inicial</strong></td><td><strong>A</strong></td><td><strong>B</strong></td><td><strong>C</strong></td><td><strong>D</strong></td><td><strong>E</strong></td><td><strong>F</strong></td><td><strong>G</strong></td><td><strong>H</strong></td><td><strong>I</strong></td></tr></thead><tbody><tr><td><strong>E011</strong></td><td>R$ 5.004,00</td><td>R$ 5.254,20</td><td>R$ 5.516,91</td><td>R$ 5.792,76</td><td>R$ 6.082,39</td><td>R$ 6.386,51</td><td>R$ 6.705,84</td><td>R$ 7.041,13</td><td>R$ 7.393,19</td><td>R$ 7.762,85</td></tr><tr><td><strong>E012</strong></td><td>R$ 5.504,40</td><td>R$ 5.779,62</td><td>R$ 6.068,60</td><td>R$ 6.372,03</td><td>R$ 6.690,63</td><td>R$ 7.025,16</td><td>R$ 7.376,42</td><td>R$ 7.745,24</td><td>R$ 8.132,51</td><td>R$ 8.539,13</td></tr><tr><td><strong>E013</strong></td><td>R$ 6.330,06</td><td>R$ 6.646,56</td><td>R$ 6.978,89</td><td>R$ 7.327,84</td><td>R$ 7.694,23</td><td>R$ 8.078,94</td><td>R$ 8.482,89</td><td>R$ 8.907,03</td><td>R$ 9.352,38</td><td>R$ 9.820,00</td></tr><tr><td><strong>E021</strong></td><td>R$ 4.170,00</td><td>R$ 4.378,50</td><td>R$ 4.597,43</td><td>R$ 4.827,30</td><td>R$ 5.068,66</td><td>R$ 5.322,09</td><td>R$ 5.588,20</td><td>R$ 5.867,61</td><td>R$ 6.160,99</td><td>R$ 6.469,04</td></tr><tr><td><strong>E022</strong></td><td>R$ 4.587,00</td><td>R$ 4.816,35</td><td>R$ 5.057,17</td><td>R$ 5.310,03</td><td>R$ 5.575,53</td><td>R$ 5.854,30</td><td>R$ 6.147,02</td><td>R$ 6.454,37</td><td>R$ 6.777,09</td><td>R$ 7.115,94</td></tr><tr><td><strong>E023</strong></td><td>R$ 5.275,05</td><td>R$ 5.538,80</td><td>R$ 5.815,74</td><td>R$ 6.106,53</td><td>R$ 6.411,86</td><td>R$ 6.732,45</td><td>R$ 7.069,07</td><td>R$ 7.422,53</td><td>R$ 7.793,65</td><td>R$ 8.183,33</td></tr><tr><td><strong>E031</strong></td><td>R$ 4.170,00</td><td>R$ 4.378,50</td><td>R$ 4.597,43</td><td>R$ 4.827,30</td><td>R$ 5.068,66</td><td>R$ 5.322,09</td><td>R$ 5.588,20</td><td>R$ 5.867,61</td><td>R$ 6.160,99</td><td>R$ 6.469,04</td></tr><tr><td><strong>E032</strong></td><td>R$ 4.587,00</td><td>R$ 4.816,35</td><td>R$ 5.057,17</td><td>R$ 5.310,03</td><td>R$ 5.575,53</td><td>R$ 5.854,30</td><td>R$ 6.147,02</td><td>R$ 6.454,37</td><td>R$ 6.777,09</td><td>R$ 7.115,94</td></tr><tr><td><strong>E033</strong></td><td>R$ 5.275,05</td><td>R$ 5.538,80</td><td>R$ 5.815,74</td><td>R$ 6.106,53</td><td>R$ 6.411,86</td><td>R$ 6.732,45</td><td>R$ 7.069,07</td><td>R$ 7.422,53</td><td>R$ 7.793,65</td><td>R$ 8.183,33</td></tr><tr><td><strong>E041</strong></td><td>R$ 2.085,00</td><td>R$ 2.189,25</td><td>R$ 2.298,71</td><td>R$ 2.413,65</td><td>R$ 2.534,33</td><td>R$ 2.661,05</td><td>R$ 2.794,10</td><td>R$ 2.933,80</td><td>R$ 3.080,49</td><td>R$ 3.234,52</td></tr><tr><td><strong>E042</strong></td><td>R$ 2.293,50</td><td>R$ 2.408,18</td><td>R$ 2.528,58</td><td>R$ 2.655,01</td><td>R$ 2.787,76</td><td>R$ 2.927,15</td><td>R$ 3.073,51</td><td>R$ 3.227,18</td><td>R$ 3.388,54</td><td>R$ 3.557,97</td></tr><tr><td><strong>E043</strong></td><td>R$ 2.637,53</td><td>R$ 2.769,40</td><td>R$ 2.907,87</td><td>R$ 3.053,26</td><td>R$ 3.205,93</td><td>R$ 3.366,22</td><td>R$ 3.534,54</td><td>R$ 3.711,26</td><td>R$ 3.896,83</td><td>R$ 4.091,67</td></tr><tr><td><strong>E051</strong></td><td>R$ 2.085,00</td><td>R$ 2.189,25</td><td>R$ 2.298,71</td><td>R$ 2.413,65</td><td>R$ 2.534,33</td><td>R$ 2.661,05</td><td>R$ 2.794,10</td><td>R$ 2.933,80</td><td>R$ 3.080,49</td><td>R$ 3.234,52</td></tr><tr><td><strong>E052</strong></td><td>R$ 2.293,50</td><td>R$ 2.408,18</td><td>R$ 2.528,58</td><td>R$ 2.655,01</td><td>R$ 2.787,76</td><td>R$ 2.927,15</td><td>R$ 3.073,51</td><td>R$ 3.227,18</td><td>R$ 3.388,54</td><td>R$ 3.557,97</td></tr><tr><td><strong>E053</strong></td><td>R$ 2.637,53</td><td>R$ 2.769,40</td><td>R$ 2.907,87</td><td>R$ 3.053,26</td><td>R$ 3.205,93</td><td>R$ 3.366,22</td><td>R$ 3.534,54</td><td>R$ 3.711,26</td><td>R$ 3.896,83</td><td>R$ 4.091,67</td></tr><tr><td><strong>E061</strong></td><td>R$ 2.085,00</td><td>R$ 2.189,25</td><td>R$ 2.298,71</td><td>R$ 2.413,65</td><td>R$ 2.534,33</td><td>R$ 2.661,05</td><td>R$ 2.794,10</td><td>R$ 2.933,80</td><td>R$ 3.080,49</td><td>R$ 3.234,52</td></tr><tr><td><strong>E062</strong></td><td>R$ 2.293,50</td><td>R$ 2.408,18</td><td>R$ 2.528,58</td><td>R$ 2.655,01</td><td>R$ 2.787,76</td><td>R$ 2.927,15</td><td>R$ 3.073,51</td><td>R$ 3.227,18</td><td>R$ 3.388,54</td><td>R$ 3.557,97</td></tr><tr><td><strong>E063</strong></td><td>R$ 2.637,53</td><td>R$ 2.769,40</td><td>R$ 2.907,87</td><td>R$ 3.053,26</td><td>R$ 3.205,93</td><td>R$ 3.366,22</td><td>R$ 3.534,54</td><td>R$ 3.711,26</td><td>R$ 3.896,83</td><td>R$ 4.091,67</td></tr></tbody></table>
+
+
+## Anexo III — QUANTITATIVO DE CARGOS, MISSÃO E PRINCIPAIS ATIVIDADES DOS CARGOS DE ESPECIALISTA EM SAÚDE
+
+
+**CATEGORIA: Plantonista | CLASSES: E011, E012, E013**
+
+**Cargos:** 07 (sete)
+
+**Missão:** Atender aos usuários do sistema único de saúde, observadas as normas éticas da profissão médica.
+
+**Principais Atividades:** Fazer atendimento de urgência e emergência, adulto ou pediátrico, identificados de acordo com a classificação definida pelo enfermeiro classificador deRisco; Realizar consultas, exames clínicos, prescrever medicamentos e orientar os pacientes do órgão de urgência e emergência.
+
+**Demais Atividades:** As estabelecidas pela Legislação Federal na profissão médica e as necessárias para a concretização das funções de profissional da saúde, estabelecidas pela Administração.
+
+
+**CATEGORIA: Ambulatorial - Trabalhista | CLASSES: E021, E022, E023**
+
+**Cargos:** 01 (um)
+
+**Missão:** Atender aos usuários do sistema único de saúde, observadas as normas éticas da profissão médica.  
+  
+**Principais Atividades:** Fazer atendimento de consultas, exames clínicos, prescrever medicamentos e orientar os pacientes agendados pela Administração. Avaliar os servidores Municipais quando da apresentação de atestados médicos, para fins de homologação constatação das informações atestadas ou para fins de preenchimento de Boletim de Inspeção Médica.
+
+**Demais Atividades:** As estabelecidas pela Legislação Federal na profissão médica e as necessárias para a concretização das funções de profissional da saúde, estabelecidas pela Administração.
+
+
+**CATEGORIA: Ginecologista - Obstetra; Pediatra; Urologista; Ortopedista | CLASSES: E031, E032, E033; E041, E042, E043; E051, E052, E053; E061, E062, E063**
+
+**Cargos:** 01 (um) para cada Categoria.
+
+**Missão:** Atender aos usuários do sistema único de saúde, observadas as normas éticas da profissão médica.
+
+**Principais Atividades:** Fazer atendimento de consultas, exames clínicos, prescrever medicamentos e orientar os pacientes agendados pela Administração, no âmbito de sua especialidade.
+
+**Demais Atividades:** As estabelecidas pela Legislação Federal na profissão médica e as necessárias para a concretização das funções de profissional da saúde, estabelecidas pela Administração.
+

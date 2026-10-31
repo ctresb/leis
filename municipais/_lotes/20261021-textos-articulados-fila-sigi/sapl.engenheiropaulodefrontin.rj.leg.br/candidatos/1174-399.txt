@@ -1,0 +1,32 @@
+Abre crédito adicional suplementar no valor de ao orçamento vigente
+
+
+O Prefeito Municipal de Eng.º Paulo de Frontin, no uso de suas atribuições legais, e com fulcro no disposto no artigo 4º da Lei Municipal nº 1.495, de 29 de dezembro de 2020,
+
+
+Art. 1º.
+
+Fica aberto um Crédito Adicional suplementar de R$ 835.000,00 (Oitocentos e Trinta e Cinco Mil Reais), para suprimento da dotação orçamentária, como segue:
+
+
+<table><colgroup><col span="6"><col><col span="2"></colgroup><tbody><tr><td><strong>Org.</strong> </td><td><strong>Un</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Programa</strong> </td><td><strong>Proj/ Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Fonte</strong> </td><td><strong>Valor R$</strong></td></tr><tr><td>2</td><td>3</td><td>4</td><td>122</td><td>2001</td><td>2.203</td><td>3.1.90.11.00.00.00.00 </td><td>0000</td><td>250.000,00</td></tr><tr><td>2</td><td>5</td><td>12</td><td>361</td><td>2009</td><td>2.211</td><td>3.1.90.11.00.00.00.00 </td><td>0100</td><td>200.000,00</td></tr><tr><td>2</td><td>5</td><td>12</td><td>365</td><td>2008</td><td>2.210</td><td>3.1.90.11.00.00.00.00 </td><td>0151</td><td>155.000,00</td></tr><tr><td>2</td><td>5</td><td>12</td><td>365</td><td>2008</td><td>2.210</td><td>3.1.90.11.00.00.00.00 </td><td>0152</td><td>70.000,00</td></tr><tr><td>2</td><td>5</td><td>12</td><td>361</td><td>2009</td><td>2.211</td><td>3.1.90.11.00.00.00.00 </td><td>0151</td><td>160.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Os recursos orçamentários para atender ao crédito adicional suplementar é advindo da anulação das despesas das categorias econômicas, com  
+fulcro no artigo 43, § 1º, inciso III da Lei 4.320/64 de 17/03/1964, como segue:
+
+
+<table><colgroup><col span="6"><col><col span="2"></colgroup><tbody><tr><td><strong>Org.</strong> </td><td><strong>Un</strong> </td><td><strong>Função</strong> </td><td><strong>Sub função</strong> </td><td><strong>Programa</strong> </td><td><strong>Proj/ Ativ</strong> </td><td><strong>Elemento de Despesa</strong> </td><td><strong>Fonte</strong> </td><td><strong>Valor R$</strong></td></tr><tr><td>2</td><td>3</td><td>4</td><td>122</td><td>2001</td><td>2.201</td><td>4.6.90.71.00.00.00.00 </td><td>0000</td><td>450.000,00</td></tr><tr><td>2</td><td>5</td><td>12</td><td>361</td><td>2009</td><td>2.211</td><td>3.3.90.30.00.00.00.00 </td><td>0152</td><td>385.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 03 de dezembro de 2021.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal

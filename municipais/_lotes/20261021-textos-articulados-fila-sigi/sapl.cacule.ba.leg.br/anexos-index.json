@@ -1,0 +1,58 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/lei_313_de_2013_-_plano_de_carreira-2.pdf da norma Lei Municipal-EX nº 475, de 18 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Lei 313-2013\r\nReestrutura o plano de carreira e remuneração do magistério publico municipal , e do da Bahia, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cacule.ba.leg.br/media/sapl/public/anexonormajuridica/2024/1/lei_313_de_2013_-_plano_de_carreira-2.pdf",
+      "ano": 2024,
+      "norma": 88
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/lei_206_de_16_de_agosto_de_2005_-_estrutura_administrativa.pdf da norma Lei Municipal-EX nº 421, de 23 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a estrutura administrativa do Município de Caculé, regula o processo administrativo, cria e transforma órgãos e cargos, estabelece normas de processos administrativos e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cacule.ba.leg.br/media/sapl/public/anexonormajuridica/2020/2/lei_206_de_16_de_agosto_de_2005_-_estrutura_administrativa.pdf",
+      "ano": 2020,
+      "norma": 90
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/decreto_no_1.866_de_05_junho_de_2024.pdf da norma Lei Municipal-EX nº 477, de 23 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "\"Regulamenta a Lei Municipal n° 477, de 23 de maio de 2024, que Autoriza o pagamento da indenização com recursos extraordinários - FUNDEF/FUNDEB no âmbito no município de Caculé.",
+      "anexo_arquivo": "http://sapl.cacule.ba.leg.br/media/sapl/public/anexonormajuridica/2024/3/decreto_no_1.866_de_05_junho_de_2024.pdf",
+      "ano": 2024,
+      "norma": 93
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/decreto_no_1.870_de_10_de_julho_de_2024-abono.pdf da norma Lei Municipal-EX nº 477, de 23 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Divulga lista preliminar dos beneficiários habilitados para recebimento do abono de que trata a Lei Municipal nº 477, de 23 de maio de 2024",
+      "anexo_arquivo": "http://sapl.cacule.ba.leg.br/media/sapl/public/anexonormajuridica/2024/4/decreto_no_1.870_de_10_de_julho_de_2024-abono.pdf",
+      "ano": 2024,
+      "norma": 93
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacule.ba.leg.br/1c266b6fafaa7d8f35cf1268766cfb9876565ac1c2ac13577cabd21bd868bb1e.json",
+      "url": "https://sapl.cacule.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cacule.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1232d754ad31f0e08804170d2989902b560259fed54ecd534a5af8e2d78f8065",
+      "bytes": 2645,
+      "capturado_em": "2026-10-27T22:14:07.559542-03:00"
+    }
+  ]
+}

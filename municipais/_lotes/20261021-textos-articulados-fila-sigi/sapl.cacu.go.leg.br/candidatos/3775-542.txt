@@ -1,0 +1,418 @@
+“Institui os Processos Administrativo e Legislativo Eletrônicos no âmbito da Câmara Municipal de Caçu, Estado de Goiás e dá outras providências”.
+
+
+A CÂMARA MUNICIPAL DE CAÇU, Estado de Goiás, APROVA e eu, PREFEITA DE CAÇU/GO, usando das atribuições conferidas pela Lei Orgânica Municipal, SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam instituídos os Processos Administrativo e Legislativo Eletrônicos no âmbito da Câmara Municipal de Caçu, Estado de Goiás.
+
+
+Art. 2º.
+
+São objetivos desta Lei:
+
+
+I –
+
+atender às determinações da Lei nº 12.527/11 - Lei de Acesso à Informação - quanto as normas e procedimentos que assegurem a:
+
+
+a)
+
+gestão transparente da informação;
+
+
+b)
+
+proteção da informação, garantindo sua disponibilidade, autenticidade, integridade e primariedade.
+
+
+II –
+
+assegurar a eficiência, a eficácia e a efetividade das ações do Poder Legislativo Municipal;
+
+
+III –
+
+promover a utilização de meios eletrônicos para a realização dos Processos Administrativo e Legislativo com segurança, transparência e economicidade;
+
+
+IV –
+
+ampliar a sustentabilidade ambiental com o uso da tecnologia da informação e da comunicação;
+
+
+V –
+
+facilitar o acesso do cidadão às informações do Poder Legislativo.
+
+
+Art. 3º.
+
+Para o disposto nesta Lei, consideram-se as definições:
+
+
+I –
+
+processo administrativo eletrônico: aquele em que os atos processuais são registrados e disponibilizados em meio eletrônico;
+
+
+II –
+
+processo legislativo eletrônico: aquele em que os documentos são registrados, tramitados e disponibilizados em meio eletrônico;
+
+
+III –
+
+documento: unidade de registro de informações, independentemente do formato, do suporte ou da natureza;
+
+
+IV –
+
+documento digital: informação registrada, codificada em dígitos binários, acessível e interpretável por meio de sistema computacional, podendo ser:
+
+
+a)
+
+documento nato-digital: documento criado originariamente em meio eletrônico;
+
+
+b)
+
+documento digitalizado: documento obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital.
+
+
+V –
+
+Sistema de Apoio ao Processo Legislativo – SAPL: sistema desenvolvido e mantido pelo Programa Interlegis - permite a automação completa do Processo Legislativo Municipal;
+
+
+VI –
+
+e-mail institucional: consiste em uma conta de correio eletrônico exclusivamente de cunho institucional, com a extensão “...@cacu.go.leg.br”;
+
+
+VII –
+
+programa Interlegis: programa executado pelo Instituto Legislativo Brasileiro (ILB) – que objetiva fortalecer o Poder Legislativo por meio do estímulo à modernização, integração e cooperação das casas legislativas nas esferas Federal, Estadual e Municipal, que disponibiliza, gratuitamente os Produtos: SAPL, Portal Modelo, dentre outros;
+
+
+VIII –
+
+infraestrutura de Chaves Públicas Brasileira (ICP-Brasil): cadeia hierárquica e de confiança que viabiliza a emissão de Certificados Digitais - primeira autoridade da cadeia de Certificação;
+
+
+IX –
+
+certificado Digital: identidade digital da pessoa física ou jurídica no meio eletrônico, garante autenticidade, confiabilidade, integridade e não repúdio nas operações que são realizadas por meio dele, atribuindo validade jurídica ao documento;
+
+
+X –
+
+assinatura eletrônica são formas de identificação inequívoca do signatário definidas a seguir:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.720, de 24 de fevereiro de 2026.
+
+
+a)
+
+assinatura digital - baseada em certificado digital emitido de acordo com as regras da infraestrutura de Chaves Públicas e Privadas – ICP-Brasil, estabelecidas pela Medida Provisória 2200/01;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.720, de 24 de fevereiro de 2026.
+
+
+b)
+
+assinatura via GOV.BR - regulamentada pelo Decreto Federal nº 10.543/2020, alterado pelo Decreto Federal nº 10.900/2021;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.720, de 24 de fevereiro de 2026.
+
+
+c)
+
+mediante prévia autenticação no sistema interno de processo legislativo ou administrativo da Câmara Municipal de Caçu/GO.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.720, de 24 de fevereiro de 2026.
+
+
+Art. 4º.
+
+Serão utilizados sistemas informatizados para a gestão e o trâmite de documentos nos Processos Administrativo e Legislativo Eletrônicos da Câmara Municipal de Caçu, Estado de Goiás.
+
+
+§ 1º
+
+O Processo Administrativo Eletrônico será feito via e-mail institucional, por Sistema de Gerenciamento de Documentos e por WhatsApp institucional nos termos do Art. 16.
+
+
+§ 2º
+
+O Processo Legislativo Eletrônico ocorrerá por meio do Sistema de Apoio ao Processo Legislativo – SAPL e por WhatsApp institucional nos termos do Art. 16.
+
+
+Art. 5º.
+
+Nos Processos Administrativo e Legislativo Eletrônicos, os atos processuais deverão ser realizados exclusivamente em meio eletrônico e com assinatura eletrônica, na forma do artigo 3º, inciso X, desta Lei, exceto nas situações em que este procedimento for inviável ou em caso de indisponibilidade do meio eletrônico cujo prolongamento cause danos relevante à celeridade do processo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.720, de 24 de fevereiro de 2026.
+
+
+Parágrafo único
+
+No caso das exceções previstas no caput, os atos processuais poderão ser praticados segundo as regras aplicáveis aos processos em papel, desde que posteriormente os documentos sejam digitalizados, conforme procedimento previsto no Art. 10.
+
+
+Art. 6º.
+
+A autoria, autenticidade e a integridade dos documentos e das assinaturas, nos Processos Administrativo e Legislativo Eletrônicos, serão obtidas por meio de Certificado Digital emitido no âmbito da Infraestrutura de Chaves Públicas Brasileira – ICP-Brasil, observados os padrões definidos por essa infraestrutura, por meio da GOV.BR, regulamentada pelo Decreto Federal nº 10.543/2020, alterado pelo Decreto Federal nº 10.900/2021
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.720, de 24 de fevereiro de 2026.
+
+
+Parágrafo único
+
+O disposto neste artigo não se aplica às situações que permitam identificação simplificada do interessado ou nas hipóteses legais de anonimato.
+
+
+Art. 7º.
+
+Os documentos nato-digitais e assinados eletronicamente na forma do Art. 6º são considerados originais para todos os efeitos legais.
+
+
+Parágrafo único
+
+Fica dispensada a impressão dos documentos produzidos de forma integralmente eletrônica, com assinatura digital e em conformidade com o padrão ICP – Brasil, nesse caso deverá ser adotado rigoroso procedimento de backup dos documentos.
+
+
+Art. 8º.
+
+O protocolo de documentos observará os critérios:
+
+
+I –
+
+no Processo Administrativo Eletrônico considerar-se-á a data de envio do e-mail ao destinatário;
+
+
+II –
+
+para o Processo Legislativo Eletrônico será considerada a data e horário de recebimento pelo Sistema de Apoio ao Processo Legislativo - SAPL.
+
+
+Parágrafo único
+
+Nenhuma proposição será recebida no SAPL sem a devida assinatura digital do autor.
+
+
+Art. 9º.
+
+A tramitação de documentos entre os Poderes Executivo e Legislativo será feita por meio do Sistema de Apoio ao Processo Legislativo – SAPL, quando se tratar de proposituras, ou por meio de e-mails institucionais, nos demais casos.
+
+
+§ 1º
+
+A propositura registrada no SAPL na forma do “caput” será considerada matéria legislativa no momento em que for dado o aceite pelo departamento competente.
+
+
+§ 2º
+
+O Poder Executivo Municipal indicará à Secretaria Geral da Câmara, a relação dos e-mails e servidores responsáveis pelo recebimento dos documentos encaminhados pelo Poder Legislativo.
+
+
+§ 3º
+
+Os documentos encaminhados pelo Poder Executivo serão assinados digitalmente e enviados ao e-mail protocolo@cacu.go.leg.br.
+
+
+§ 4º
+
+Os e-mails serão redigidos com clareza e atenderão aos seguintes critérios:
+
+
+I –
+
+no campo assunto deverão constar:
+
+
+a)
+
+tipo do documento;
+
+
+b)
+
+número de ordem;
+
+
+c)
+
+ano;
+
+
+d)
+
+resumo do documento.
+
+
+II –
+
+o corpo da mensagem conterá:
+
+
+a)
+
+identificação do responsável pelo envio do documento;
+
+
+b)
+
+informações que facilitem a identificação dos arquivos anexados.
+
+
+III –
+
+os documentos anexados deverão estar assinados digitalmente e disponibilizados no formato “Portable Document Format” (PDF);
+
+
+IV –
+
+no envio dos autógrafos, leis sancionadas e nas situações que demandarem edições dos documentos pelo destinatário, será necessário o envio do documento "PDF assinado digitalmente acrescido do arquivo para edição no formato "Open Document Format - ODF (.odt; .ods)" ou "Open XML Format (.docx;.xlsx)".
+
+
+Art. 10.
+
+O processo de digitalização será realizado de forma a manter a integridade e a autenticidade do documento digital, com o emprego de Certificado Digital emitido no âmbito da Infraestrutura de Chaves Públicas Brasileira - ICP Brasil.
+
+
+§ 1º
+
+Compete aos setores da Câmara a digitalização de todos documentos sob sua custódia.
+
+
+§ 2º
+
+Os servidores poderão adotar os seguintes procedimentos:
+
+
+I –
+
+proceder à digitalização imediata do documento apresentado e devolvê-lo ao interessado;
+
+
+II –
+
+determinar que a protocolização de documento original seja acompanhada de cópia simples, hipótese em que o protocolo atestará a conferência da cópia com o original, devolverá o documento original imediatamente ao interessado e descartará a cópia simples após a sua digitalização;
+
+
+III –
+
+receber o documento em papel para posterior digitalização, considerando que:
+
+
+a)
+
+os documentos em papel recebidos que sejam originais ou cópias autenticadas em cartório devem ser devolvidos ao interessado, preferencialmente, ou ser mantidos sob guarda do setor;
+
+
+b)
+
+os documentos em papel recebidos que sejam cópias autenticadas administrativamente ou cópias simples podem ser descartados após realizada a sua digitalização.
+
+
+Art. 11.
+
+Impugnada a integridade do documento digitalizado, mediante alegação motivada e fundamentada de adulteração, deverá ser instaurada diligência para a verificação do documento objeto de controvérsia.
+
+
+Art. 12.
+
+Deverão ser associados elementos descritivos aos documentos digitais que integram os Processos Administrativo e Legislativo Eletrônicos, a fim de apoiar sua identificação, sua indexação, sua presunção de autenticidade, sua preservação e sua interoperabilidade.
+
+
+Art. 13.
+
+O departamento responsável pela documentação eletrônica da Câmara estabelecerá políticas, estratégias e ações que garantam o acesso e o uso contínuo dos documentos digitais e sua preservação a longo prazo, sendo obrigatórios:
+
+
+I –
+
+procedimentos rotineiros de cópias de segurança (backup), dentre os quais:
+
+
+a)
+
+armazenamento no servidor de arquivos;
+
+
+b)
+
+backup em nuvem;
+
+
+c)
+
+armazenamento em mídias removíveis;
+
+
+II –
+
+uso de sistema de indexação que permita a localização dos documentos digitais;
+
+
+III –
+
+adoção de medidas contra a deterioração e a obsolescência de equipamentos e programas.
+
+
+Art. 14.
+
+Compete ao departamento responsável pela documentação eletrônica:
+
+
+I –
+
+implementação e definição das rotinas a serem adotadas nos Processos Administrativo e Legislativo Eletrônicos;
+
+
+II –
+
+administração do Sistema de Apoio ao Processo Legislativo – SAPL;
+
+
+III –
+
+a administração da infraestrutura dos e-mails oficiais e a inclusão ou exclusão das contas dos e-mails oficiais dos servidores públicos e agentes políticos.
+
+
+Art. 15.
+
+Torna-se obrigatória a renovação anual dos Certificados Digitais dos parlamentares, dos servidores ocupantes de Cargos ou Funções de Direção da Câmara.
+
+
+§ 1º
+
+A critério do Presidente, poderão ser concedidos Certificados Digitais a outros servidores do quadro de pessoal da Câmara.
+
+
+§ 2º
+
+Compete a Secretaria Geral, com auxílio do departamento responsável pela documentação eletrônica, prestar o apoio para a criação, revogação, utilização e controle do prazo de expiração dos Certificados Digitais.
+
+
+Art. 16.
+
+Fica autorizado a disponibilização para uso de WhatsApp, o número de telefone fixo da Câmara Municipal de Caçu/GO, (64) 3656-1348, exclusivamente para as finalidades institucionais.
+
+
+Art. 17.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**GABINETE DA PREFEITA DE CAÇU**, Estado de Goiás, aos 14 dias do mês de setembro do ano de 2023.
+
+
+**ANA CLÁUDIA LEMOS OLIVEIRA**  
+Prefeita Municipal

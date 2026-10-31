@@ -1,0 +1,52 @@
+{
+  "host": "sapl.coloradodooeste.ro.leg.br",
+  "metadados_unicos_observados": 103,
+  "total_api_declarado": 103,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 96,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coloradodooeste.ro.leg.br/792054bfe763fb03dc53c58142c9f1d128ad0a5babc87a95f7d3c05e7a4ac622.json",
+    "url": "https://sapl.coloradodooeste.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.coloradodooeste.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8630bf1a71021e301236943471ca3c79182870e323b23fc6768298e0dd7c7fd8",
+    "bytes": 2994,
+    "capturado_em": "2026-10-27T22:51:53.626177-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coloradodooeste.ro.leg.br/9baa388c5835ce97e1dea9ef33dd89d64812ccada0249a07ec6625eccdc91c7f.json",
+    "url": "https://sapl.coloradodooeste.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.coloradodooeste.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "992d6e3d36c9579e1455f10832e4f01ee7b808ee734ae65275339a504d2d87af",
+    "bytes": 797,
+    "capturado_em": "2026-10-27T22:51:52.703470-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coloradodooeste.ro.leg.br/62f180447e52effc68ad162e71f24beb708309a5e339477ced2ae6e631ffc91a.json",
+      "url": "https://sapl.coloradodooeste.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.coloradodooeste.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b74e78f5b7b8921a0523defb94428f67e3e12583ecaa39ca425a7026e4613e18",
+      "bytes": 61630,
+      "capturado_em": "2026-10-27T22:51:56.166463-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coloradodooeste.ro.leg.br/d470307928cdc456addeca0b6026bdb2feee368390dbc98d05c7b3f5c0da23f7.json",
+      "url": "https://sapl.coloradodooeste.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.coloradodooeste.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "54d7d6ceded2377e07a712d7a4da7df557845459fffaa4d9cda3eefac5ba01a3",
+      "bytes": 1891,
+      "capturado_em": "2026-10-27T22:55:12.900359-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

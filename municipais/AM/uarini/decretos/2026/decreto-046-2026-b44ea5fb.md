@@ -1,0 +1,472 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 046/2026/PMU-GP, DE 22 DE"
+uf: "AM"
+municipio: "UARINI"
+tipo: "Decreto"
+numero: "046"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 24/06/2026"
+data_publicacao: 2026-06-24
+codigo_identificador: "B44EA5FB"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118887_2026-06-23_1e10c8688fc9df6e7a566c4a7ad76fd8.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 046/2026/PMU-GP, DE 22 DE
+
+DECRETO MUNICIPAL Nº 046/2026/PMU-GP, DE 22 DE
+JUNHO DE 2026
+DECRETO MUNICIPAL Nº 046/2026/PMU-GP, de 22 de junho
+de 2026
+DISPÕE SOBRE A IMPLEMENTAÇÃO DA
+EDUCAÇÃO EM COMPUTAÇÃO NO ÂMBITO
+DA REDE MUNICIPAL DE ENSINO, EM
+CONFORMIDADE
+COM
+A
+BNCC
+COMPUTAÇÃO
+E
+AS
+DIRETRIZES
+OPERACIONAIS NACIONAIS, E DÁ OUTRAS
+PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE UARINI, Estado do
+Amazonas, Sr. MARCOS SOUZA MARTINS, no uso das
+atribuições que lhe são conferidas pelo artigo 90, VII da Lei Orgânica
+do Município – LOMU, e;
+- CONSIDERANDO o disposto nos arts. 205, 206, 210, 211 e 214 da
+Constituição Federal, que estabelecem os princípios e diretrizes da
+
+educação nacional, incluindo a garantia de padrão de qualidade e a
+fixação de conteúdos mínimos para o ensino fundamental;
+- CONSIDERANDO o art. 11, inciso III, da Lei nº 9.394, de 20 de
+dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional –
+LDB), que incumbe os Municípios de baixar normas complementares
+para o seu sistema de ensino; e o art. 26, da mesma Lei, que dispõe
+que os currículos da educação básica devem observar a Base Nacional
+Comum Curricular – BNCC;
+- CONSIDERANDO a Resolução CNE/CP nº 2, de 22 de dezembro
+de 2017, que institui e orienta a implantação da Base Nacional
+Comum Curricular – BNCC, em especial o disposto no art. 22, que
+prevê a possibilidade de complementação de computação na BNCC; E
+o Parecer CNE/CEB nº 2, de 17 de fevereiro de 2022, homologado
+pelo Ministério da Educação em 30 de setembro de 2022, que aprovou
+as normas sobre Computação na Educação Básica como
+Complemento à BNCC;
+- CONSIDERANDO a Resolução CNE/CEB nº 1, de 4 de outubro de
+2022, que define as normas sobre Computação na Educação Básica –
+Complemento à BNCC;
+- CONSIDERANDO a Lei nº 14.533, de 11 de janeiro de 2023, que
+institui a Política Nacional de Educação Digital – PNED, estruturada
+nos eixos de Inclusão Digital, Educação Digital Escolar, Capacitação
+e Especialização Digital, e Pesquisa e Desenvolvimento em
+Tecnologias da Informação e Comunicação;
+- CONSIDERANDO a Lei nº 15.100, de 13 de janeiro de 2025, que
+dispõe sobre a restrição do uso de aparelhos eletrônicos portáteis
+pessoais em estabelecimentos de ensino da educação básica,
+ressalvadas as exceções para fins pedagógicos, acessibilidade e
+condições de saúde;
+- CONSIDERANDO a Resolução CNE/CEB nº 2, de 21 de março de
+2025, que institui as Diretrizes Operacionais Nacionais sobre o uso de
+dispositivos digitais em espaços escolares e a integração curricular da
+Educação Digital e Midiática, determinando a adequação dos
+currículos e a implementação efetiva;
+- CONSIDERANDO a necessidade de assegurar a inclusão digital, o
+letramento computacional e a cidadania digital dos estudantes da rede
+municipal de ensino, em consonância com os princípios da equidade,
+da qualidade e da formação integral;
+- CONSIDERANDO que o Município adota como base curricular o
+Referencial Curricular do Estado do Amazonas, já alinhado à BNCC
+Computação, competindo à rede municipal assegurar sua
+implementação nas unidades escolares.
+DECRETA:
+CAPÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+Art. 1º. Fica instituída, no âmbito da Rede Municipal de Ensino, a
+Educação em Computação, em conformidade com a Base Nacional
+Comum Curricular, suas normas complementares e o Referencial
+Curricular do Estado do Amazonas adotado pelo Município.
+Parágrafo Único. As disposições deste Decreto aplicam-se a todas as
+unidades educacionais da rede pública municipal de ensino,
+abrangendo a Educação Infantil, o Ensino Fundamental – Anos
+Iniciais e Anos Finais –, e as modalidades da Educação de Jovens e
+Adultos – EJA, quando ofertadas pelo Município.
+Art. 2º. A implementação de que trata este Decreto observará a
+legislação federal, as normas do Conselho Nacional de Educação
+referenciadas no preâmbulo deste ato e o RC adotado pelo Município.
+Art. 3º. Para os fins deste Decreto, entende-se por Educação em
+Computação o conjunto integrado de conhecimentos, habilidades e
+
+www.diariomunicipal.com.br/aam
+
+136
+
+Amazonas , 24 de Junho de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4134
+práticas pedagógicas organizadas nos eixos estruturantes definidos no
+Capítulo II.
+Art. 4º. São objetivos da implementação de que trata este Decreto:
+I – integrar ao currículo da rede municipal de ensino as competências
+e habilidades previstas no Complemento à BNCC referente à
+Computação, organizadas nos eixos de Pensamento Computacional,
+Mundo Digital e Cultura Digital;
+II – promover a Educação Digital e Midiática como componente
+obrigatório do currículo, em conformidade com as Diretrizes
+Operacionais estabelecidas pela Resolução CNE/CEB nº 2/2025;
+III – assegurar o desenvolvimento do pensamento computacional, do
+letramento digital e da cidadania digital dos estudantes, de forma
+progressiva e adequada a cada etapa da educação básica;
+IV – garantir a formação inicial e continuada dos profissionais da
+educação para atuação nas áreas de Computação;
+V – promover a infraestrutura tecnológica adequada para a
+implementação das atividades pedagógicas relacionadas à
+Computação e à Educação Digital;
+VI – regulamentar o uso pedagógico de dispositivos digitais nos
+espaços escolares, em consonância com a Lei nº 15.100/2025 e a
+Resolução CNE/CEB nº 2/2025;
+VII – assegurar a proteção de crianças e adolescentes em ambientes
+digitais, nos termos do ECA Digital (Lei nº 15.211/2025 e Decreto nº
+12.880/2026);
+CAPÍTULO II
+DOS EIXOS ESTRUTURANTES
+COMPUTAÇÃO
+
+DA
+
+EDUCAÇÃO
+
+EM
+
+Art. 5º. A Educação em Computação da Rede Municipal de Ensino,
+em conformidade com a Base Nacional Comum Curricular e as
+Diretrizes Nacionais para o ensino de Computação, está organizada
+nos seguintes eixos estruturantes:
+I – Pensamento Computacional: compreende a capacidade de
+mobilizar fundamentos da Computação para formular e resolver
+problemas de forma criativa, lógica e crítica, envolvendo abstração,
+decomposição, reconhecimento de padrões e construção de
+algoritmos;
+II – Mundo Digital: abrange a compreensão sobre o funcionamento
+das tecnologias digitais, incluindo hardware, software, redes de
+computadores, Internet, sistemas de informação, Inteligência Artificial
+e segurança digital;
+III – Cultura Digital: refere-se às práticas, costumes e formas de
+interação social mediadas por tecnologias digitais, abrangendo
+reflexões sobre ética, cidadania digital, letramento midiático, direitos
+autorais, proteção de dados pessoais e impactos sociais, ambientais,
+culturais e econômicos das tecnologias.
+Parágrafo Único. Os eixos de que trata o caput devem ser
+desenvolvidos de forma integrada, articulada e progressiva,
+respeitadas as especificidades de cada etapa e modalidade da
+educação básica ofertadas pela rede municipal de ensino.
+Art. 6º. Os eixos estruturantes de que trata o art. 5º devem ser
+desenvolvidos de forma progressiva, observadas as seguintes
+diretrizes por etapa:
+I – Educação Infantil:
+a) o uso de telas e dispositivos digitais não é recomendado como regra
+geral, devendo ocorrer apenas em caráter absolutamente excepcional e
+com mediação docente;
+b) devem ser priorizadas atividades de computação desplugada, de
+caráter lúdico, integradas aos Campos de Experiência, por meio de
+brincadeiras, jogos e interações que desenvolvam noções de
+algoritmos, sequenciamento, padrões e resolução de problemas com
+objetos concretos e movimentos corporais;
+c) as atividades devem respeitar os tempos, os ritmos e as
+singularidades de cada criança, em conformidade com as Diretrizes
+Curriculares Nacionais para a Educação Infantil;
+
+a) o uso de dispositivos digitais deve ser equilibrado e restrito, de
+modo a não comprometer o desenvolvimento de outras habilidades
+essenciais, especialmente as de alfabetização e letramento;
+b) devem ser desenvolvidas atividades que consolidem o pensamento
+computacional por meio de algoritmos simples, organização e
+representação de dados, resolução de problemas lógicos e introdução
+ao mundo digital;
+c) a abordagem deve ser preferencialmente transversal, integrada aos
+componentes curriculares já existentes;
+III – Ensino Fundamental – Anos Finais:
+a) a Computação deve ser ofertada preferencialmente como
+componente curricular específico, podendo adotar denominação de
+"Educação Digital e Midiática", "Computação" ou outra equivalente, a
+critério da Secretaria Municipal de Educação;
+b) os conteúdos devem incluir programação visual e textual, lógica
+booleana, estruturas de dados, cidadania digital, literacia midiática e
+reflexões sobre ética no ambiente digital;
+c) deve-se promover a integração ao Projeto de Vida do estudante e a
+participação social por meio de projetos que utilizem tecnologias
+digitais;
+§1º. A Secretaria Municipal de Educação poderá expedir orientações
+pedagógicas complementares para a implementação das competências
+e habilidades previstas na BNCC Computação, em consonância com o
+referencial curricular adotado pelo Município.
+§2º. Na modalidade de Educação de Jovens e Adultos – EJA, quando
+ofertada pelo Município, as habilidades e competências devem ser
+adequadas ao perfil dos estudantes, priorizando a inclusão digital, o
+letramento tecnológico e a cidadania digital.
+CAPÍTULO III
+DA ORGANIZAÇÃO CURRICULAR
+Art. 7º. A integração da Educação em Computação ao currículo da
+rede municipal de ensino adotará abordagem diferenciada conforme a
+etapa e a modalidade de oferta, observadas as Diretrizes Operacionais
+da Resolução CNE/CEB n.º 2/2025.
+Seção I – Do Ensino em Tempo Integral
+Art. 8º. Nas unidades escolares que ofertam educação em tempo
+integral, a Computação será implementada como componente
+curricular específico, com carga horária própria, integrada ao
+currículo escolar.
+Art. 9º. O componente curricular de Computação deverá:
+I – Possuir objetivos de aprendizagem definidos por etapa de ensino;
+II – Apresentar progressão de habilidades ao longo da escolaridade;
+III – Ser ofertado de forma contínua e sistemática;
+IV – Integrar-se aos demais componentes curriculares por meio de
+projetos interdisciplinares.
+Art. 10. A carga horária mínima será definida pela Secretaria
+Municipal de Educação, respeitando:
+I – A matriz curricular vigente;
+II – A ampliação da jornada escolar;
+III – A viabilidade pedagógica e estrutural da rede.
+Seção II – Do Ensino Regular
+Art. 11. Nas unidades escolares de ensino regular (tempo parcial), a
+Educação em Computação será desenvolvida de forma transversal e
+integrada aos componentes curriculares.
+Art. 12. A abordagem transversal deverá:
+I – Ser incorporada aos planos de ensino das diferentes áreas do
+conhecimento;
+
+II – Ensino Fundamental – Anos Iniciais:
+www.diariomunicipal.com.br/aam
+
+137
+
+Amazonas , 24 de Junho de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4134
+II – Promover o desenvolvimento do pensamento computacional em
+atividades pedagógicas;
+III – Utilizar metodologias ativas e resolução de problemas;
+IV – Articular-se com práticas de cultura digital e uso crítico da
+tecnologia.
+
+I – Indicadores de aprendizagem;
+II – Registros pedagógicos;
+III – Avaliações diagnósticas e formativas;
+IV – Relatórios periódicos das unidades escolares.
+Art. 19. A Secretaria Municipal de Educação instituirá mecanismos
+de monitoramento e avaliação contínua da política.
+
+Seção III Disposições Comuns
+Art. 13. As unidades educacionais deverão adequar seus Projetos
+Político-Pedagógicos, planos e práticas pedagógicas às disposições
+deste Decreto, observadas as diretrizes da BNCC e o referencial
+curricular adotado.
+Art. 14. A Secretaria Municipal de Educação poderá, mediante ato
+fundamentado, autorizar a adoção de abordagem diversa da prevista
+nas Seções I e II deste Capítulo, quando as condições pedagógicas e
+estruturais da unidade escolar assim o justificarem.
+CAPÍTULO IV
+DO PLANEJAMENTO E IMPLEMENTAÇÃO
+Art. 15. Compete à Secretaria Municipal de Educação:
+I – Elaborar orientações pedagógicas complementares
+implementação da BNCC Computação;
+II – Definir matriz de habilidades por etapa de ensino;
+III – Disponibilizar materiais pedagógicos de apoio;
+IV – Garantir infraestrutura mínima para implementação.
+
+para
+
+Art. 20. Fica instituído o Grupo de Trabalho para Implementação da
+Educação em Computação – GT-EduComp, vinculado à Secretaria
+Municipal de Educação, com as seguintes atribuições:
+I – coordenar a adequação das propostas pedagógicas e instrumentos
+curriculares às Diretrizes da BNCC Computação;
+II – coordenar a implementação, no âmbito da rede municipal, das
+competências e habilidades de Computação previstas na BNCC e no
+RC adotado pelo Município;
+III – propor o Plano de Formação Continuada de que trata o art. 17
+deste Decreto;
+IV – articular-se com o Conselho Municipal de Educação – CME para
+validação e aprovação das propostas curriculares;
+V – monitorar a implementação nas unidades educacionais e elaborar
+relatórios periódicos de acompanhamento;
+VI – propor ajustes e aprimoramentos às estratégias de
+implementação, com base nos dados de monitoramento;
+VII – articular parcerias com instituições de ensino superior,
+organizações da sociedade civil e setor privado para apoio à
+implementação.
+
+Art. 16. As unidades escolares deverão:
+
+Art. 21. O GT-EduComp será composto por, no mínimo:
+
+I – Inserir a Computação em seus Projetos Político-Pedagógicos
+(PPP);
+II – Planejar ações pedagógicas integradas;
+III – Registrar e acompanhar o desenvolvimento das habilidades;
+IV – Promover práticas interdisciplinares.
+
+I – 2 (dois) representantes da Secretaria Municipal de Educação,
+sendo um da área pedagógica e um da área de tecnologia;
+II – 1 (um) representante do Conselho Municipal de Educação –
+CME;
+III – 2 (dois) representantes dos professores da rede municipal,
+preferencialmente com experiência em tecnologia educacional;
+IV – 1 (um) representante dos gestores escolares da rede municipal;
+V – 1 (um) representante da comunidade escolar (pais ou
+responsáveis).
+
+CAPÍTULO V
+DA FORMAÇÃO DOCENTE
+Art. 17. A Secretaria Municipal de Educação elaborará e
+implementará Plano de Formação Continuada dos Profissionais da
+Educação para a área de Computação, que deverá contemplar:
+I – capacitação específica em pensamento computacional, mundo
+digital e cultura digital, alinhada aos eixos estruturantes da BNCC
+Computação;
+II – formação em metodologias ativas para o ensino de Computação,
+incluindo computação desplugada, programação, robótica educacional
+e uso pedagógico de Inteligência Artificial;
+III – orientação sobre literacia midiática, combate à desinformação,
+proteção de dados pessoais e segurança digital;
+IV – capacitação sobre a legislação aplicável, incluindo o ECA
+Digital, a Lei nº 15.100/2025 e as diretrizes da Resolução CNE/CEB
+nº 2/2025;
+V – formação de professores multiplicadores e tutores para atuar
+como referência em suas unidades educacionais;
+VI – parcerias com instituições de ensino superior, institutos federais
+de educação e organizações especializadas para oferta de programas
+de formação.
+§1º. O Plano de Formação de que trata o caput deverá ser elaborado
+no prazo de 90 (noventa) dias, contados da publicação deste Decreto.
+§2º. A Secretaria Municipal de Educação deverá designar, em cada
+unidade educacional, ao menos um profissional de referência para a
+área de Educação em Computação, que receberá formação prioritária
+e atuará como multiplicador.
+CAPÍTULO VI
+DA AVALIAÇÃO E MONITORAMENTO
+Art. 18. A implementação da Educação em Computação será
+acompanhada por meio de:
+
+§1º. Os membros do GT-EduComp serão designados por ato do(a)
+Secretário(a) Municipal de Educação, no prazo de 30 (trinta) dias,
+contados da publicação deste Decreto.
+§2º. O GT-EduComp poderá convidar especialistas, representantes de
+instituições de ensino superior e de organizações da sociedade civil
+para colaborar em seus trabalhos.
+§3º. A participação no GT-EduComp é considerada serviço público
+relevante, não remunerado.
+Art. 22. A Secretaria Municipal de Educação realizará, ao menos
+anualmente, avaliação diagnóstica do nível de implementação da
+BNCC Computação na rede municipal, abrangendo:
+I – o grau de atualização curricular nas unidades educacionais;
+II – o percentual de profissionais da educação capacitados;
+III – as condições de infraestrutura tecnológica disponíveis;
+IV – os indicadores de aprendizagem dos estudantes nas competências
+de Computação;
+Parágrafo Único. Os resultados da avaliação de que trata o caput
+serão encaminhados ao Conselho Municipal de Educação e ao Chefe
+do Poder Executivo Municipal, com propostas de ajustes e
+aprimoramentos.
+CAPÍTULO VII
+DA INFRAESTRUTURA TECNOLÓGICA
+Art. 23. A Secretaria Municipal de Educação, em articulação com os
+demais órgãos da Administração Municipal, promoverá as condições
+de infraestrutura tecnológica necessárias à implementação deste
+Decreto, incluindo:
+
+www.diariomunicipal.com.br/aam
+
+138
+
+Amazonas , 24 de Junho de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4134
+I – garantia de conectividade à Internet de qualidade para uso
+pedagógico em todas as unidades educacionais;
+II – aquisição, manutenção e renovação de equipamentos e
+dispositivos digitais adequados às atividades pedagógicas;
+III – implantação e manutenção de laboratórios de informática,
+espaços makers ou ambientes tecnológicos equivalentes;
+IV – disponibilização de plataformas educacionais digitais com
+configurações de segurança e privacidade adequadas à faixa etária dos
+estudantes;
+V – adequação das redes internas (Wi-Fi) das unidades educacionais
+para suportar o uso pedagógico simultâneo de dispositivos digitais.
+
+de Educação, consignadas no orçamento vigente e nos orçamentos
+subsequentes, suplementadas se necessário.
+
+§1º. Para o cumprimento do disposto neste artigo, a Secretaria
+Municipal de Educação deverá elaborar Plano de Infraestrutura
+Tecnológica, com diagnóstico da situação atual, metas, cronograma de
+execução e previsão orçamentária.
+
+GABINETE DO PREFEITO DO MUNICÍPIO DE UARINI/AM,
+aos 22 dias do mês de junho do ano de 2026.
+
+§2º. O Município buscará adesão aos programas federais e estaduais
+de conectividade e equipamentos.
+§3º. Nas unidades educacionais que ainda não disponham de
+infraestrutura tecnológica adequada, a implementação da BNCC
+Computação deverá priorizar atividades de computação desplugada e
+metodologias que não dependam exclusivamente de dispositivos
+digitais.
+CAPÍTULO VIII
+DOS PRAZOS E DO CRONOGRAMA DE IMPLEMENTAÇÃO
+Art. 24. A implementação da Educação em Computação na rede
+municipal de ensino observará o seguinte cronograma:
+I – no prazo de 30 (trinta) dias, contados da publicação deste Decreto:
+designação dos membros do GT-EduComp;
+II – no prazo de 90 (noventa) dias, contados da publicação deste
+Decreto: elaboração do Plano de Formação Continuada e do Plano de
+Infraestrutura Tecnológica;
+III – no prazo de 120 (cento e vinte) dias, contados da publicação
+deste Decreto: adequação dos Projetos Político-Pedagógicos, planos
+de ensino e práticas pedagógicas às diretrizes da BNCC Computação,
+em consonância com o referencial curricular adotado pelo Município;
+IV – no prazo de 150 (cento e cinquenta) dias, contados da publicação
+deste Decreto: validação, pelo Conselho Municipal de Educação, das
+diretrizes pedagógicas e das adequações realizadas no âmbito da rede
+municipal de ensino;
+V – até o início do ano letivo subsequente à publicação deste Decreto:
+implementação efetiva das diretrizes da BNCC Computação em todas
+as unidades educacionais da rede municipal de ensino;
+VI – continuamente: realização de ações de formação,
+monitoramento, avaliação e aprimoramento da implementação.
+Parágrafo Único. Os prazos previstos neste artigo poderão ser
+ajustados mediante ato fundamentado do(a) Secretário(a) Municipal
+de Educação, desde que observadas as diretrizes e os prazos
+estabelecidos pelas normas federais aplicáveis.
+CAPÍTULO IX
+DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 25. A implementação ocorrerá de forma gradual, conforme
+cronograma definido no Capítulo VIII deste Decreto, admitidos
+ajustes mediante ato fundamentado da Secretaria Municipal de
+Educação, desde que observados os prazos estabelecidos em normas e
+instruções federais pertinentes ao tema.
+Art. 26. A Secretaria Municipal de Educação expedirá os atos
+complementares necessários à execução deste Decreto.
+Art. 27. Os casos omissos serão resolvidos pela Secretaria Municipal
+de Educação, ouvido o Conselho Municipal de Educação quando a
+matéria envolver aspectos curriculares ou normativos.
+Art. 28. As despesas decorrentes da execução deste Decreto correrão
+à conta das dotações orçamentárias próprias da Secretaria Municipal
+
+Art. 29. O Município buscará a captação de recursos adicionais junto
+à União, ao Estado, por meio de convênios, termos de colaboração e
+outros instrumentos legais.
+Art. 30. Revogam-se as disposições em contrário, este DECRETO
+entra em vigor na data de sua publicação.
+I - PUBLIQUE-SE, CIENTIFIQUE-SE E CUMPRA-SE.
+
+MARCOS SOUZA MARTINS
+Prefeito do Município de Uarini/AM
+PUBLICAÇÃO:
+Atesto para os fins e efeitos legais que o presente DECRETO
+MUNICIPAL Nº 046/2026, foi publicado por afixação no Mural da
+Prefeitura em local destinado a publicação dos ATOS do Poder
+Executivo Municipal, podendo ser acessão por meio do endereço
+eletrônico: https://diariomunicipal.com.br/aam//, tudo de acordo com
+o Art. 111 da Lei Orgânica do Município de Uarini.
+JASON JOSÉ GOMES PROTÁSIO
+Secretário de Administração do Município de Uarini
+Port. Nº 010/2025/PMU-GP
+Publicado por:
+Jason José Gomes Protásio

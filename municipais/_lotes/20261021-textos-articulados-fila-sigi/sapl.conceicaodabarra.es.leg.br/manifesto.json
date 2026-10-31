@@ -1,0 +1,42 @@
+{
+  "host": "sapl.conceicaodabarra.es.leg.br",
+  "metadados_unicos_observados": 3,
+  "total_api_declarado": 3,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodabarra.es.leg.br/71f2b9560cf3b0d07b38d481d6d39cd1767bff650245d593df448f6d9e07662b.json",
+    "url": "https://sapl.conceicaodabarra.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.conceicaodabarra.es.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e39acd76bd35074eaa0d218e64aacd2a8e737978c6a43a3a5b31c76bde6c6140",
+    "bytes": 948,
+    "capturado_em": "2026-10-27T23:07:23.791506-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodabarra.es.leg.br/8e959f8c1d868e349d77ba81afaef6c5089527756b755e89e14da892224e02c1.json",
+    "url": "https://sapl.conceicaodabarra.es.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.conceicaodabarra.es.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a1ef9410d2e1009a444411585eeae5c3f2c0a592a9265a9370c7673a838c452c",
+    "bytes": 927,
+    "capturado_em": "2026-10-27T23:07:22.900862-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodabarra.es.leg.br/279a5518c055cb460ee749b2d4d1616d88d43ee51ae2e037ec4f6e55f27dbeb6.json",
+      "url": "https://sapl.conceicaodabarra.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.conceicaodabarra.es.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ef2fb24b3507d439afa4429e2bfbe19207436c7ae74b4c88d7e0943da86e3238",
+      "bytes": 2169,
+      "capturado_em": "2026-10-27T23:07:25.777295-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

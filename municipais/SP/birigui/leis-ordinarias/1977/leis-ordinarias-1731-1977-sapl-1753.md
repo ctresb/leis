@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 1.731, de 28 de setembro de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1731"
+data: "1977-09-28"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1753"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2419/text"
+sha256_fonte: "8f5796ff1e2545a8c41a6f609ad2d566cc233a3590644be5c3bae352ef01bb91"
+sha256_texto: "77996bf5df911d949c08a9e70db7d05ecc25bdc89a6a575b374ece2cb85d7c4a"
+capturado_em_fonte: "2026-10-27T18:58:10.026492-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.731, de 28 de setembro de 1977
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL DE Cr$ 1.150.000,00.
+
+
+Eu, **PEDRO MARIN BERBEL**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir, por Decreto, no Serviço de Finanças – Setor de Contabilidade, o crédito adicional de Cr$ 1.150.000,00 (hum milhão, cento e cinquenta mil cruzeiros), suplementar às seguintes dotações do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">2 - CHEFIA DO EXECUTIVO</td></tr><tr><td colspan="2">2.1 - GABINETE DO PREFEITO</td></tr><tr><td colspan="2">2.1 / 03070202.03 - Manutenção do Gabinete do Prefeito</td></tr><tr><td>3130.00 - Serviço de Terceiros</td><td>Cr$ 70.000,00</td></tr><tr><td>3140.00 - Encargos Diversos</td><td>Cr$ 50.000,00</td></tr><tr><td>3274.00 - Entidades Municipais</td><td>Cr$ 100.000,00</td></tr><tr><td colspan="2">2.2 - PROCURADORIA</td></tr><tr><td colspan="2">2.2 / 03070212.04 - Manutenção da Procuradoria</td></tr><tr><td>3132.00 - Outros Serviços de Terceiros</td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2">2.4 - SECRETARIA</td></tr><tr><td colspan="2">2.4 / 03070212.07 - Manutenção da Portaria</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 10.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">3 - FINANÇAS</td></tr><tr><td colspan="2">3.1 - DIRETORIA</td></tr><tr><td colspan="2">3.1 / 03080212.11 - Manutenção da Diretoria de Finanças</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 20.000,00</td></tr><tr><td>4140.00 - Material Permanente</td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2">3.2 - TRIBUTAÇÃO</td></tr><tr><td colspan="2">3.2 / 03080302-12 - Manutenção da Tributação</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 40.000,00</td></tr><tr><td>3130.00 - Serviços de Terceiros</td><td>Cr$ 40.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">6 - SERVIÇOS MUNICIPAIS</td></tr><tr><td colspan="2">6.1 - SERVIÇO DE ESTRADAS DE RODAGEM MUNICIPAL (SERM)</td></tr><tr><td colspan="2">6.1 / 16885312.18 - Manutenção do Serviço de Estradas de Rodagem Municipal (SERM)</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 100.000,00</td></tr><tr><td colspan="2">6.5 - LIMPEZA PÚBLICA</td></tr><tr><td colspan="2">6.5 / 10603252.25 - Manutenção da Limpeza Pública</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 50.000,00</td></tr><tr><td colspan="2">6.10 - LOGRADOUROS PÚBLICOS</td></tr><tr><td colspan="2">6.10 / 10585751.13 -Pavimentação de Vias Públicas</td></tr><tr><td>4120.00 - Serviços em Regime de Programação Especial</td><td>Cr$ 300.000,00</td></tr><tr><td colspan="2">6.10 / 10585752.31 - Conservação de Ruas e Avenidas</td></tr><tr><td>3120.00 - Material de Consumo</td><td>Cr$ 90.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">9 - SAÚDE E SANEAMENTO</td></tr><tr><td colspan="2">9.1 - ASSISTÊNCIA MÉDICO-HOSPITALAR</td></tr><tr><td colspan="2">9.1 / 13754282.48 - Manutenção da Assistência Médico-Hospitalar</td></tr><tr><td>3140.00 - Encargos Diversos</td><td>Cr$ 20.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">10 - ENCARGOS GERAIS DO MUNICÍPIO</td></tr><tr><td colspan="2">10.2 - PREVIDÊNCIA E PASEP</td></tr><tr><td colspan="2">10.2 / 15824942.53 - Contribuição para Previdência Social</td></tr><tr><td>3250.01 - INPS e FGTS</td><td>Cr$ 220.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito a que se reporta o artigo anterior será coberto com parte do excesso de arrecadação verificado na rubrica 1200.00.00 – RECEITA PATRIMONIAL – 1290.00.00-02 – OUTRAS RECEITAS, - do orçamento municipal vigente.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e oito de setembro de mil novecentos e setenta e sete.
+
+**PEDRO MARIN BERBEL Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e oito de setembro de mil novecentos e setenta e sete, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

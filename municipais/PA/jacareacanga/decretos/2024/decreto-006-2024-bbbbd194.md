@@ -1,0 +1,54 @@
+---
+titulo: "DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°"
+uf: "PA"
+municipio: "JACAREACANGA"
+tipo: "Decreto"
+numero: "006"
+data: 
+ano: "2024"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 10/04/2026"
+data_publicacao: 2026-04-10
+codigo_identificador: "BBBBD194"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117058_2026-04-09_fb668ed5e104ef157a298ef41a662954.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°
+
+DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°
+007/2024 e DECRETO MUNICIPAL N° 009/2024
+Partes:
+PREFEITURA
+MUNICIPAL
+DE
+JACAREACANGA/FMS
+E
+EMPRESA
+MIL
+PAPEIS
+PAPELARIA E PRESENTES LTDA inscrita no CNPJ/MF sob o
+nº 40.046.743/0001-17
+Objeto: REGISTRO DEPREÇO PARA FUTURA E EVENTUAL
+CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NO
+FORNECIMENTO DE MATERIAIS DE EXPEDIENTE
+COMPLEMENTARES,
+PARA
+ATENDIMENTODAS
+NECESSIDADES DA PREFEITURA MUNICIPAL DE
+JACAREACANGA/PA
+Valor do Contrato R$56.910,60(Cinquenta e seis mil novecentos e
+dez reais e sessenta centavos)
+Vigência: 30/03/2026 a 31/12/2026
+
+www.diariomunicipal.com.br/famep
+
+44
+
+Pará , 10 de Abril de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3981
+Data de Assinatura: 30 de março de 2026
+Ordenador Responsável: Ledioneta de Sousa Silva
+Endereço da contratada: AV MARANHAO nº335 ,Bairro Bela
+Vista CEP.68.180-410 , em Itaituba/PA
+Publicado por:
+Maria Elizete Campos do Nascimento

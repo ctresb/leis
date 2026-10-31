@@ -1,0 +1,975 @@
+---
+titulo: "LEI COMPLEMENTAR Nº 1.080, DE 28 DE AGOSTO DE 2026."
+uf: "RO"
+municipio: "PORTO VELHO"
+tipo: "Lei Complementar"
+numero: "1080"
+data: 2026-08-28
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 14/09/2026"
+data_publicacao: 2026-09-14
+codigo_identificador: "601B0AFA"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116150_2026-09-11_2d2027ca84e959915ce973c78ce37a11.pdf"
+baixado_em: 2026-10-15
+---
+# LEI COMPLEMENTAR Nº 1.080, DE 28 DE AGOSTO DE 2026.
+
+LEI COMPLEMENTAR Nº 1.080, DE 28 DE AGOSTO DE 2026.
+REPUBLICAÇÃO
+Cria a Superintendência Municipal de Fiscalização
+Integrada – SUFIS e a Junta Revisora de Penalidades
+Administrativas – JURPA, institui o rito único do
+contencioso administrativo de poder de polícia do
+Município, altera as Leis Complementares nº 138, de
+28 de dezembro de 2001, nº 391, de 6 de julho de
+2010, nº 873, de 16 de dezembro de 2021, e nº 1.000,
+de 7 de janeiro de 2025, e a Lei nº 1.562, de 29 de
+dezembro de 2003, e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO usando da
+atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei
+Orgânica do Município de Porto Velho.
+Faço saber que a CÂMARA MUNICIPAL DE PORTO VELHO
+aprovou e eu sanciono a seguinte
+LEI COMPLEMENTAR:
+CAPÍTULO I
+DAS DISPOSIÇÕES PRELIMINARES
+Art. 1º Esta Lei Complementar cria a Superintendência Municipal de
+Fiscalização Integrada – SUFIS e a Junta Revisora de Penalidades
+Administrativas – JURPA, institui o rito único do contencioso
+administrativo decorrente do exercício do poder de polícia no
+
+Município de Porto Velho e promove as alterações necessárias na
+legislação municipal.
+Art. 2° A SUFIS e a JURPA observarão a Lei Complementar que
+institui o Marco Legal de Liberdade Econômica do Município de
+Porto Velho, a Lei federal nº 13.874, de 20 de setembro de 2019, a Lei
+Estadual nº 5.918, de 26 de novembro de 2024, a Lei federal nº
+11.598, de 3 de dezembro de 2007, a Lei Complementar federal nº
+123, de 14 de dezembro de 2006, e as normas do Comitê para Gestão
+da Rede Nacional para a Simplificação do Registro e da Legalização
+de Empresas e Negócios – CGSIM e do Comitê Municipal para a
+Simplificação do Registro e da Legalização de Empresas, Negócios e
+Atividades de Porto Velho – COMSIM.
+§ 1º A SUFIS é o órgão central do Licenciamento Integrado Municipal
+– LIM e o órgão responsável pela fiscalização integrada de
+policiamento urbano a que se referem o Marco Legal de Liberdade
+Econômica do Município e a sua legislação específica.
+§ 2º A JURPA é o órgão recursal competente para o processamento e
+o julgamento do contencioso administrativo de poder de polícia, na
+forma prevista no Marco Legal de Liberdade Econômica do
+Município.
+§ 3º A prescrição da ação punitiva e da ação executória em matéria de
+poder de polícia não tributário rege-se pelo Marco Legal de Liberdade
+Econômica do Município.
+§ 4º A Lei Complementar nº 873, de 16 de dezembro de 2021, os
+demais códigos setoriais e os dispositivos remanescentes da Lei
+Complementar nº 906, de 7 de julho de 2022, permanecem aplicáveis,
+naquilo que não conflitarem com esta Lei Complementar e com o
+Marco Legal de Liberdade Econômica do Município, e serão
+interpretados e aplicados em conformidade com as normas gerais
+deste, até que sejam adaptados, alterados ou revogados.
+CAPÍTULO II
+DA SUPERINTENDÊNCIA MUNICIPAL DE FISCALIZAÇÃO
+INTEGRADA
+Art. 3º Fica instituída a Superintendência Municipal de Fiscalização
+Integrada – SUFIS, órgão auxiliar da Secretaria de Governo – SGOV,
+dotada de autonomia técnica no exercício de suas atribuições, à qual
+compete coordenar e executar, no âmbito do Município de Porto
+Velho:
+I – o Licenciamento Integrado Municipal – LIM;
+II – o exercício do poder de polícia administrativa nas áreas ambiental,
+urbanística, de obras e edificações, sanitária, de posturas e de
+transporte municipal;
+III – a lavratura de autos de infração e a aplicação das sanções
+administrativas previstas na legislação setorial; e
+IV – a instrução do processo administrativo decorrente do exercício do
+poder de polícia.
+§ 1º As competências de que trata este artigo são exercidas com
+fundamento nos arts. 23, incisos II, VI, VII e XI, 30, incisos I e VIII, e
+182 da Constituição Federal.
+§ 2º Permanecem atribuídas aos órgãos e conselhos setoriais a
+formulação, o planejamento, a regulação, a normatização, a emissão
+de normas técnicas e a gestão das políticas públicas em suas
+respectivas áreas, bem como as atribuições técnicas, instrutórias e
+deliberativas não compreendidas no licenciamento ou no exercício do
+poder de polícia.
+§ 3º É vedado à SUFIS alterar competências estabelecidas em lei.
+Art. 4º No exercício do licenciamento e da fiscalização integrados,
+observarse-ão as seguintes condições de conformidade interfederativa:
+I – a SUFIS integra o Sistema Nacional do Meio Ambiente –
+SISNAMA, instituído pela Lei federal nº 6.938, de 31 de agosto de
+1981, e o Sistema Nacional de Vigilância Sanitária – SNVS, instituído
+pela Lei federal nº 9.782, de 26 de janeiro de 1999, na qualidade de
+entidade executora do licenciamento e da fiscalização;
+II – as secretarias setoriais mantêm a condição de órgãos ambiental e
+sanitário capacitados, para fins de integração ao SISNAMA e ao
+SNVS, preservadas as competências de formulação de políticas
+públicas, de normatização e de emissão de normas técnicas em suas
+respectivas áreas;
+III – a SUFIS contará com servidores efetivos das carreiras de
+fiscalização municipal, legalmente habilitados e em número
+compatível com a demanda das ações administrativas a seu cargo, para
+os fins do parágrafo único do art. 5º da Lei Complementar federal nº
+140, de 8 de dezembro de 2011;
+
+www.diariomunicipal.com.br/arom
+
+131
+
+Rondônia , 14 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4318
+IV – o Município manterá o cadastramento da estrutura de vigilância
+sanitária no Sistema de Cadastro Nacional de Estabelecimentos de
+Saúde – SCNES e a alimentação dos sistemas nacionais
+correspondentes; e
+V – os fiscais municipais lotados na SUFIS permanecem como
+servidores efetivos do Município, na mesma carreira, no mesmo
+regime previdenciário e na mesma estrutura remuneratória.
+Art. 5º A SUFIS observará, no licenciamento e na fiscalização, as
+normas técnicas editadas pelos órgãos setoriais competentes.
+§ 1º Havendo divergência de natureza técnica sobre a aplicação de
+norma setorial, a SUFIS submeterá a questão, fundamentadamente, ao
+órgão setorial competente, cuja manifestação vincula a decisão
+administrativa.
+§ 2º A manifestação de que trata o § 1º será proferida no prazo de 10
+(dez) dias úteis, prorrogável uma vez por igual período mediante
+justificativa.
+§ 3º Não proferida a manifestação no prazo, o processo terá
+prosseguimento com fundamento na análise técnica da SUFIS, sem
+prejuízo da responsabilidade funcional pela omissão e da revisão
+posterior do entendimento para os casos futuros.
+§ 4º O disposto neste artigo não autoriza a criação, por norma técnica,
+de exigência documental, condicionante, infração ou penalidade não
+prevista em lei.
+Art. 6° Fica instituído o Comitê Técnico Setorial do Licenciamento
+Integrado, órgão consultivo da SUFIS, presidido pelo Superintendente
+Municipal de Fiscalização Integrada e composto por 1 (um)
+representante de cada secretaria municipal cujas competências de
+licenciamento ou de fiscalização tenham sido transferidas à SUFIS.
+§ 1º Compete ao Comitê manifestar-se sobre as normas técnicas
+aplicáveis ao licenciamento e à fiscalização, sobre as instruções
+normativas de que trata o inciso VII do § 5º do art. 5º da Lei
+Complementar nº 1.000, de 7 de janeiro de 2025, sobre a matriz de
+classificação de risco e sobre os casos de divergência técnica de que
+trata o art. 5º desta Lei Complementar.
+§ 2º O Comitê reunir-se-á ordinariamente a cada 2 (dois) meses e,
+extraordinariamente, sempre que convocado.
+§ 3º A participação no Comitê é considerada serviço público relevante
+e não será remunerada a qualquer título.
+Art. 7° Fica criado 1 (um) cargo em comissão de Superintendente
+Municipal de Fiscalização Integrada, símbolo DAS-15.
+§ 1º As atribuições do cargo criado no caput são as previstas no § 5º
+do art. 5º da Lei Complementar nº 1.000, de 7 de janeiro de 2025, na
+redação desta Lei Complementar, para os fins do § 1º do art. 27 da
+mesma Lei Complementar.
+§ 2º Os demais cargos em comissão necessários ao funcionamento da
+SUFIS serão remanejados dos órgãos cujas atribuições de
+licenciamento e fiscalização forem transferidas por esta Lei
+Complementar, na forma dos arts. 28, 29 e 29-A da Lei Complementar
+nº 1.000, de 7 de janeiro de 2025, sem alteração dos quantitativos
+totais constantes de seu Anexo I.
+§ 3º O cargo criado no caput poderá ser provido a partir da publicação
+desta Lei Complementar, para a condução dos trabalhos de
+implantação da SUFIS.
+Art. 8° O Poder Executivo editará decreto que definirá os cargos em
+comissão remanejados para a SUFIS e as respectivas simbologias,
+iniciando-se o efetivo funcionamento da Superintendência em 1º de
+janeiro de 2027 ou na data anterior fixada no decreto.
+§ 1º Não editado o decreto, considera-se iniciado o efetivo
+funcionamento da SUFIS em 1º de janeiro de 2027.
+§ 2º O decreto de que trata o caput disporá também sobre a estrutura, a
+organização e o funcionamento da SUFIS, indicando as autoridades
+competentes para a designação prévia da ação fiscal e para a decisão
+sobre exigência documental de que tratam, respectivamente, o § 1º do
+art. 14 e o § 4º do art. 36 do Marco Legal de Liberdade Econômica do
+Município.
+Art. 9° Os servidores ocupantes de cargos de provimento efetivo de
+nível superior das áreas de engenharia, arquitetura, meio ambiente e
+vigilância sanitária, responsáveis pela análise técnica documental e
+pela instrução dos processos de licenciamento, atuarão junto à SUFIS
+na condição de analistas setoriais, em regime de atuação integrada,
+mantidos o vínculo, a lotação de origem, a carreira, o regime
+previdenciário e a estrutura remuneratória.
+§ 1º O decreto de que trata o art. 8º definirá o quantitativo, a forma de
+designação, os prazos de atuação e os fluxos de trabalho dos analistas
+
+setoriais, ouvido o Comitê Técnico Setorial do Licenciamento
+Integrado.
+§ 2º A atuação de que trata o caput não implica alteração de lotação,
+cessão, requisição ou mudança de exercício, nem acarreta aumento de
+despesa.
+CAPÍTULO III
+DA JUNTA REVISORA DE PENALIDADES ADMINISTRATIVAS
+Seção I
+Da criação, da natureza e da competência
+Art. 10. Fica instituída a Junta Revisora de Penalidades
+Administrativas – JURPA, órgão colegiado de caráter permanente,
+vinculado à Secretaria de Governo – SGOV, dotado de autonomia
+decisória, competente para processar e julgar o contencioso
+administrativo decorrente do exercício do poder de polícia no âmbito
+do Município de Porto Velho.
+§ 1º A JURPA não se subordina ao órgão autuante, e suas decisões
+não se sujeitam a revisão hierárquica.
+§ 2º A JURPA observará os princípios do contraditório, da ampla
+defesa, da motivação, da impessoalidade, da razoável duração do
+processo, da segurança jurídica e da primazia da regularização sobre a
+sanção.
+Art. 11. Compete à JURPA processar e julgar as impugnações e os
+recursos administrativos interpostos contra:
+I – multas;
+II – interdições de estabelecimentos, atividades ou obras;
+III – apreensões de bens, equipamentos, produtos ou mercadorias, com
+ou sem inutilização;
+IV – suspensão ou cassação de alvarás e licenças;
+V – embargos e demolições;
+VI – decisões relativas à desinterdição, à liberação ou à destinação de
+bens apreendidos; e
+VII – outras penalidades de natureza administrativa decorrentes do
+exercício do poder de polícia municipal.
+§ 1º Compete ainda à JURPA celebrar e homologar os Termos de
+Compromisso de Regularização de que trata o art. 17 desta Lei
+Complementar.
+§ 2º Excluem-se da competência da JURPA:
+I – o contencioso administrativo tributário;
+II – as penalidades de trânsito tipificadas na Lei federal nº 9.503, de
+23 de setembro de 1997;
+III – o processo administrativo disciplinar; e
+IV – as sanções previstas na Lei federal nº 14.133, de 1º de abril de
+2021.
+Seção II
+Da composição
+Art. 12. A JURPA compõe-se de Câmaras Temáticas, competentes
+para o julgamento em primeira instância administrativa, e do Plenário,
+competente para o julgamento em segunda e última instância
+administrativa.
+§ 1º A JURPA contará com, no mínimo, 2 (duas) Câmaras Temáticas,
+cuja quantidade e cujas matérias serão definidas no regimento interno,
+observado o critério da especialização.
+§ 2º Cada Câmara Temática será composta por 3 (três) membros, dos
+quais 1 (um) exercerá a presidência.
+§ 3º O Plenário é composto pelos membros das Câmaras Temáticas e
+presidido pelo Presidente da JURPA.
+§ 4º As decisões são tomadas por maioria de votos, presente a maioria
+absoluta dos membros, cabendo ao presidente do órgão julgador o
+voto de qualidade.
+§ 5º O membro que houver funcionado como relator na Câmara
+Temática não atuará como relator do mesmo processo no Plenário.
+Art. 13. Os membros da JURPA e seus suplentes serão designados
+pelo Prefeito do Município de Porto Velho para mandato de 2 (dois)
+anos, permitida uma recondução.
+§ 1º Ao menos 2/3 (dois terços) dos membros de cada Câmara
+Temática serão servidores públicos municipais ocupantes de cargo de
+provimento efetivo, com formação jurídica ou notório saber na
+matéria objeto de julgamento.
+§ 2º Até 1/3 (um terço) dos membros de cada Câmara Temática
+poderá ser indicado por entidades representativas do setor produtivo,
+de categorias profissionais ou de defesa do meio ambiente, conforme a
+matéria, na forma do regimento interno.
+
+www.diariomunicipal.com.br/arom
+
+132
+
+Rondônia , 14 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4318
+§ 3º O Presidente da JURPA será designado pelo Prefeito do
+Município de Porto Velho dentre os membros de que trata o § 1º, para
+mandato coincidente.
+§ 4º Durante o mandato, o membro somente perderá a condição em
+razão de renúncia, de perda do vínculo funcional ou da representação
+que ensejou a designação, de condenação em processo administrativo
+disciplinar transitada em julgado na esfera administrativa ou de
+ausência injustificada a 3 (três) sessões consecutivas ou a 5 (cinco)
+alternadas no mesmo exercício.
+§ 5º É vedado ao agente autuante e ao seu superior hierárquico
+imediato integrar o órgão julgador do processo decorrente da
+respectiva autuação.
+§ 6º Aplicam-se aos membros da JURPA as hipóteses de impedimento
+e de suspeição previstas nos arts. 18 a 21 da Lei federal nº 9.784, de
+29 de janeiro de 1999.
+§ 7º A participação nos trabalhos da JURPA é considerada serviço
+público relevante e não será remunerada a qualquer título.
+Seção III
+Do processo administrativo
+Art. 14. A impugnação será apresentada no prazo de 30 (trinta) dias,
+contado da ciência da autuação ou da aplicação da penalidade,
+protocolizada perante a SUFIS e instruída com os documentos que
+identifiquem o impugnante e, quando for o caso, com a procuração
+outorgada.
+§ 1º O prazo será de 48 (quarenta e oito) horas quando a impugnação
+versar sobre apreensão de produtos perecíveis ou de rápida
+deterioração.
+§ 2º Protocolizada a impugnação, dar-se-á vista ao autor da peça
+básica ou ao seu substituto para oferecimento de contestação, no prazo
+de 15 (quinze) dias, após o que os autos serão encaminhados à Câmara
+Temática competente.
+§ 3º É vedado reunir, em uma só petição, impugnações referentes a
+mais de um processo, ainda que versem sobre o mesmo assunto e
+alcancem o mesmo sujeito passivo.
+§ 4º As partes poderão juntar provas enquanto o processo estiver em
+diligência, facultada a produção de prova pericial quando
+indispensável ao deslinde da controvérsia.
+§ 5º Não se exigirá depósito prévio, arrolamento de bens, garantia ou
+pagamento de qualquer espécie como condição de admissibilidade da
+impugnação ou do recurso.
+Art. 15. A impugnação e o recurso têm efeito suspensivo quanto às
+penalidades pecuniárias, ressalvado o disposto no inciso V do art. 16.
+Parágrafo único. Quanto às penalidades restritivas de direito, o efeito
+suspensivo depende de decisão fundamentada do relator, do presidente
+da Câmara Temática ou do Presidente da JURPA, observado o art. 20.
+Art. 16. Aplicadas, em razão do mesmo fato, penalidade restritiva de
+direito e penalidade pecuniária, observar-se-á o seguinte:
+I – a impugnação relativa à penalidade restritiva de direito será
+autuada em apartado e julgada com prioridade absoluta, no rito de
+urgência do art. 20, independentemente de requerimento;
+II – o julgamento da impugnação relativa à penalidade pecuniária
+ficará sobrestado até que sobrevenha decisão sobre a penalidade
+restritiva de direito e seja cessada ou mitigada a irregularidade que deu
+causa à autuação;
+III – durante o sobrestamento ficam suspensos a exigibilidade do
+crédito e o prazo de prescrição da ação punitiva;
+IV – cessada a irregularidade, ou provida a impugnação quanto à
+penalidade restritiva de direito, o processo relativo à penalidade
+pecuniária retomará o curso, com prioridade de julgamento; e
+V – mantida a penalidade restritiva de direito em decisão
+administrativa definitiva e persistindo a irregularidade após 30 (trinta)
+dias contados da intimação dessa decisão, cessa o sobrestamento, a
+impugnação relativa à penalidade pecuniária perde o efeito suspensivo
+e o julgamento tem seguimento, tornando-se exigível o crédito.
+§ 1º O disposto no inciso V não se aplica quando a regularização
+depender de ato da Administração Pública ou de decisão judicial, nem
+quando a irregularidade não for imputável à conduta comissiva ou
+omissiva do autuado.
+§ 2º A perda do efeito suspensivo prevista no inciso V não obsta o
+conhecimento e o julgamento da impugnação, nem condiciona o
+exercício do direito de defesa.
+Art. 17. A JURPA poderá, a requerimento do interessado ou por
+proposta da SUFIS, celebrar Termo de Compromisso de
+Regularização – TCR, pelo qual o autuado se obriga a sanar a
+
+irregularidade, a recuperar o dano ou a executar medida
+compensatória, em prazo e condições determinados.
+§ 1º A celebração do TCR suspende o julgamento e a exigibilidade
+das penalidades pecuniárias e, quando compatível com a cessação do
+risco, os efeitos das penalidades restritivas de direito, ficando
+igualmente suspenso o prazo de prescrição da ação punitiva durante a
+vigência do Termo.
+§ 2º Cumprido integralmente o TCR, a penalidade pecuniária será
+reduzida em 50% (cinquenta por cento) e serão levantadas as
+penalidades restritivas de direito, arquivando-se o processo.
+§ 3º A regularização espontânea comprovada antes do julgamento em
+primeira instância, ainda que sem TCR, enseja a redução de 30%
+(trinta por cento) da penalidade pecuniária.
+§ 4º O descumprimento do TCR importa a retomada imediata do
+processo, o restabelecimento dos efeitos das penalidades e a perda dos
+benefícios, sem prejuízo da exigibilidade das obrigações assumidas.
+§ 5º Em matéria ambiental, o TCR será celebrado ouvido o Conselho
+Municipal de Defesa do Meio Ambiente – COMDEMA; em matéria
+sanitária, ouvido o órgão municipal de vigilância sanitária.
+§ 6º Não se admite TCR nas hipóteses de risco iminente e não cessado
+à saúde, à segurança das pessoas ou ao meio ambiente, de fraude, de
+resistência ou embaraço à fiscalização, ou de reincidência específica
+no período de 24 (vinte e quatro) meses.
+§ 7º O TCR constitui título executivo extrajudicial e será publicado no
+portal eletrônico da SUFIS.
+Art. 18. Findo o prazo de impugnação sem que esta tenha sido
+apresentada nem efetuado o pagamento, considerar-se-á o sujeito
+passivo revel, importando a revelia no reconhecimento da infração e
+da penalidade aplicada.
+§ 1º A impugnação ou os recursos apresentados intempestivamente
+não serão conhecidos, mediante despacho fundamentado, dando-se
+ciência ao interessado.
+§ 2º O não conhecimento por intempestividade não impede a revisão
+de ofício do ato, nos termos do § 2º do art. 63 e do art. 53 da Lei
+federal nº 9.784, de 29 de janeiro de 1999.
+§ 3º Na hipótese do § 2º, a peça não conhecida será remetida à SUFIS,
+que examinará o seu conteúdo e, verificando vício de legalidade, erro
+material, erro da Administração, caso fortuito, força maior ou fato
+superveniente relevante, adotará as providências de autotutela
+cabíveis, sem instauração do contencioso, em decisão motivada
+proferida no prazo de 30 (trinta) dias e comunicada ao interessado.
+§ 4º Verificada, na peça não conhecida, a existência de risco à saúde, à
+segurança das pessoas ou ao meio ambiente, a SUFIS adotará de
+imediato as medidas de polícia cabíveis.
+§ 5º Da decisão proferida na forma do § 3º não cabe recurso,
+ressalvada nova provocação fundada em fato novo.
+§ 6º O órgão julgador conhecerá de ofício, a qualquer tempo, das
+nulidades absolutas e das questões de ordem pública.
+Art. 19. A Câmara Temática proferirá decisão no prazo de 60
+(sessenta) dias, contado do recebimento dos autos, prorrogável uma
+vez, por igual período, mediante decisão fundamentada.
+§ 1º A decisão conterá:
+I – o relatório, que será uma síntese do processo;
+II – o exame das alegações de defesa;
+III – os fundamentos de fato e de direito;
+IV – a conclusão;
+V – a ordem de intimação; e
+VI – o recurso de ofício, se for o caso.
+§ 2º Da intimação constará a decisão prolatada e o prazo de 15
+(quinze) dias para pagamento ou para interposição de recurso ao
+Plenário.
+§ 3º Não cabe pedido de reconsideração da decisão da Câmara
+Temática.
+Art. 20. Submetem-se ao rito de urgência as impugnações e os
+recursos relativos a interdição, cassação ou suspensão de alvará ou
+licença, embargo, demolição e apreensão de produtos perecíveis ou de
+rápida deterioração.
+§ 1º A impugnação será distribuída no primeiro dia útil seguinte ao
+protocolo, com prioridade absoluta, e o autor da peça básica terá 5
+(cinco) dias para contestação.
+§ 2º A Câmara Temática decidirá no prazo de 10 (dez) dias úteis,
+contado do recebimento dos autos, prorrogável uma única vez por 5
+(cinco) dias úteis, mediante decisão fundamentada.
+
+www.diariomunicipal.com.br/arom
+
+133
+
+Rondônia , 14 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4318
+§ 3º O relator ou, na sua ausência ou impedimento, o presidente da
+Câmara Temática poderá, no prazo de 48 (quarenta e oito) horas do
+recebimento dos autos, suspender liminarmente os efeitos da
+penalidade quando presentes a plausibilidade do direito invocado e o
+risco de dano grave ou de difícil reparação ao administrado, desde que
+a suspensão não implique risco à saúde, à segurança das pessoas ou ao
+meio ambiente, submetendo a decisão ao referendo da Câmara na
+primeira sessão subsequente.
+§ 4º Não proferida a decisão no prazo do § 2º, os efeitos da penalidade
+restritiva de direito ficam suspensos até o julgamento, salvo se o risco
+iminente à coletividade for declarado em decisão fundamentada do
+presidente da Câmara Temática, renovável, mediante nova motivação,
+a cada 30 (trinta) dias.
+§ 5º O recurso ao Plenário, nas hipóteses deste artigo, será julgado no
+prazo de 15 (quinze) dias úteis.
+§ 6º As sessões de que trata este artigo poderão realizar-se por meio
+eletrônico e em caráter extraordinário.
+§ 7º Têm igualmente prioridade de julgamento os processos de
+interesse do microempreendedor individual, da microempresa e da
+empresa de pequeno porte, da pessoa com deficiência, da pessoa com
+idade igual ou superior a 60 (sessenta) anos e do empreendedor
+inscrito no Cadastro do Bom Empreendedor.
+Art. 21. Da decisão desfavorável ao impugnante caberá recurso
+voluntário ao Plenário da JURPA, no prazo de 15 (quinze) dias,
+contado da ciência da decisão.
+§ 1º O recurso voluntário tem efeito suspensivo quanto às penalidades
+pecuniárias, observado o art. 16, e, quanto às demais, na forma do
+parágrafo único do art. 15.
+§ 2º É vedado reunir, em uma só petição, recursos referentes a mais de
+uma decisão ou processo.
+§ 3º É facultada ao recorrente ou ao seu representante legal a
+sustentação oral perante o Plenário, na forma e no tempo previstos no
+regimento interno, intimado o interessado da data da sessão com
+antecedência mínima de 72 (setenta e duas) horas.
+Art. 22. A Câmara Temática recorrerá de ofício ao Plenário, com
+efeito suspensivo, sempre que a decisão for, no todo ou em parte,
+contrária ao Município de Porto Velho.
+Parágrafo único. Será dispensada a interposição do recurso de ofício
+quando:
+I – o valor exonerado não exceder o correspondente a 45 (quarenta e
+cinco) Unidades Padrão Fiscal – UPF, vigentes à data da decisão;
+II – houver nos autos prova do pagamento integral da penalidade
+exigida;
+III – a matéria for objeto de súmula administrativa da JURPA; ou
+IV – a decisão decorrer do cumprimento integral de Termo de
+Compromisso de Regularização.
+Art. 23. O Plenário proferirá decisão no prazo de 90 (noventa) dias,
+contado do recebimento dos autos, prorrogável uma vez, por igual
+período, mediante decisão fundamentada, observado o § 5º do art. 20.
+§ 1º A decisão do Plenário substituirá, no que tiver sido objeto do
+recurso, a decisão recorrida.
+§ 2º São definitivas, na esfera administrativa, as decisões:
+I – da Câmara Temática, esgotado o prazo para recurso voluntário sem
+que este tenha sido interposto e não sendo caso de recurso de ofício; e
+II – do Plenário.
+§ 3º Tornada definitiva a decisão, o interessado será intimado,
+fixando-se prazo para o seu cumprimento, e o crédito não pago no
+prazo será inscrito em dívida ativa e encaminhado à execução judicial.
+Art. 24. O Plenário poderá editar súmulas administrativas para
+uniformização de entendimentos sobre matérias recorrentes, aprovadas
+pelo voto de 2/3 (dois terços) de seus membros.
+§ 1º As súmulas são de observância obrigatória pelas Câmaras
+Temáticas e pelos agentes da SUFIS no exercício da atividade de
+licenciamento e de fiscalização.
+§ 2º A revisão e o cancelamento de súmula observarão o mesmo
+quórum de aprovação.
+§ 3º As súmulas serão publicadas no Diário Oficial do Município e
+mantidas em repositório eletrônico de acesso público.
+Art. 25. As disposições desta Seção aplicam-se a todas as áreas de
+licenciamento e de fiscalização de competência da SUFIS e
+prevalecem sobre as normas de rito, de prazos, de competência
+julgadora e de recursos previstas na legislação setorial municipal que
+com elas conflitarem.
+
+Parágrafo único. Aplicam-se subsidiariamente a Lei federal nº 9.784,
+de 29 de janeiro de 1999, e, quanto à prescrição, o Marco Legal de
+Liberdade Econômica do Município.
+Seção IV
+Do funcionamento e da instalação
+Art. 26. A SUFIS prestará à JURPA o apoio administrativo necessário
+ao seu funcionamento, incluídos secretaria, protocolo, elaboração de
+pautas e atas, intimação das partes e guarda de processos, sem
+ingerência na atividade decisória.
+Art. 27. O Poder Executivo editará decreto que aprovará o regimento
+interno da JURPA, observadas as normas desta Lei Complementar,
+instalando-se o órgão em 1º de janeiro de 2027 ou na data anterior
+fixada no decreto.
+Parágrafo único. Não editado o decreto, considera-se instalada a
+JURPA em 1º de janeiro de 2027, aplicando-se, até a aprovação do
+regimento interno, o disposto nesta Lei Complementar e,
+subsidiariamente, a Lei federal nº 9.784, de 29 de janeiro de 1999.
+CAPÍTULO IV
+DAS ALTERAÇÕES NA LEGISLAÇÃO MUNICIPAL
+Art. 28. A Lei Complementar nº 138, de 28 de dezembro de 2001,
+passa a vigorar com as seguintes alterações:
+"Art. 31. (...)
+(...)
+IX – acompanhar e apreciar, quando solicitado pela SUFIS ou pela
+SEMA, os licenciamentos ambientais no Município;‖ (NR)
+(...)
+XI – apreciar, quando solicitado pela SUFIS ou pela SEMA, Termo de
+Referência e Estudo de Impacto Ambiental – EIA que vierem a ser
+apresentados no processo de licenciamento; (NR)
+(...)
+XV – manifestar-se sobre os pedidos de suspensão temporária da
+multa e sobre os termos de compromisso de regularização em matéria
+ambiental, quando solicitado pelo órgão competente; (NR)
+(...)
+Art. 35. O Município de Porto Velho, por intermédio da
+Superintendência Municipal de Fiscalização Integrada – SUFIS, no
+exercício do poder de polícia ambiental e da competência
+administrativa expressa no art. 23, incisos VI, VII e XI, da
+Constituição Federal, fiscalizará o cumprimento e a aplicação deste
+Código, podendo também aplicar a legislação federal e estadual de
+proteção ambiental. (NR)
+Art. 35-A. As referências à Secretaria Municipal de Meio Ambiente e
+Desenvolvimento Sustentável – SEMA constantes deste Código
+consideram-se feitas à Superintendência Municipal de Fiscalização
+Integrada – SUFIS quando relativas ao licenciamento ambiental, ao
+exercício do poder de polícia ambiental, à fiscalização, à lavratura de
+autos de infração, à aplicação de sanções administrativas e à instrução
+do correspondente processo administrativo. (NR)
+§ 1º Permanecem atribuídas à SEMA a formulação, o planejamento, a
+gestão e a implementação das políticas públicas ambientais, a
+normatização e a emissão de normas técnicas ambientais, a realização
+de estudos, planos, pesquisas e projetos ambientais, a gestão de
+parques, jardins e áreas verdes e a condição de órgão executivo do
+Sistema Municipal de Meio Ambiente – SIMMA e de órgão ambiental
+capacitado para os fins da legislação federal, nos termos do art. 34.
+(NR)
+§ 2º O disposto no caput não se aplica às referências ao Conselho
+Municipal de Defesa do Meio Ambiente – COMDEMA, cujas
+competências permanecem as previstas neste Código, ressalvada a
+competência contenciosa. (NR)
+§ 3º A SUFIS observará as normas técnicas ambientais editadas pela
+SEMA e as deliberações normativas do COMDEMA. (NR)
+§ 4º O processo administrativo decorrente do exercício do poder de
+polícia ambiental observa o rito único estabelecido na lei
+complementar que dispõe sobre a SUFIS e a JURPA. (NR)"
+Art. 29. O Anexo III – Das Atribuições Característica/Descrição
+Detalhada da Lei Complementar nº 391, de 6 de julho de 2010, com a
+redação dada pelo Anexo V da Lei Complementar nº 983, de 4 de
+abril de 2024, e pelo art. 5º da Lei Complementar nº 1.033, de 20 de
+outubro de 2025, passa a vigorar com as seguintes alterações:
+"ANEXO III
+Das Atribuições Característica/Descrição Detalhada
+(...)
+CARGO: FISCAL MUNICIPAL DE MEIO AMBIENTE
+
+www.diariomunicipal.com.br/arom
+
+134
+
+Rondônia , 14 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4318
+(...)
+Lotação: Superintendência Municipal de Fiscalização Integrada –
+SUFIS. (NR)
+(...)
+CARGO: FISCAL MUNICIPAL DE OBRAS
+(...)
+Lotação: Superintendência Municipal de Fiscalização Integrada –
+SUFIS. (NR)
+(...)
+CARGO: FISCAL MUNICIPAL DE POSTURA
+(...)
+Lotação: Superintendência Municipal de Fiscalização Integrada –
+SUFIS. (NR)
+(...)
+CARGO: FISCAL MUNICIPAL DE TRANSPORTES
+(...)
+Lotação: Superintendência Municipal de Fiscalização Integrada –
+SUFIS.‖ (NR)
+(...)
+CARGO: FISCAL MUNICIPAL DE VIGILÂNCIA SANITÁRIA
+(...)
+Lotação: Superintendência Municipal de Fiscalização Integrada –
+SUFIS.‖ (NR)
+(...)
+CARGO: FISCAL MUNICIPAL DE TRIBUTOS
+(...)
+Lotação: Superintendência Municipal de Fiscalização Integrada –
+SUFIS ou órgão responsável pela fiscalização de alvará de
+funcionamento. (NR)"
+Art. 30. A Lei Complementar nº 873, de 16 de dezembro de 2021,
+passa a vigorar com as seguintes alterações:
+"Art. 233. Findo o prazo da intimação, sem pagamento do débito nem
+apresentação de defesa, considerar-se-á o sujeito passivo revel,
+importando a revelia no reconhecimento da infração e da penalidade
+aplicada, sem prejuízo do conhecimento de ofício das nulidades
+absolutas e das questões de ordem pública e da revisão de ofício do
+ato, na forma da lei complementar que dispõe sobre a SUFIS e a
+JURPA. (NR)
+Art. 234. A defesa apresentada intempestivamente não será conhecida,
+mediante despacho fundamentado, dando-se ciência ao interessado,
+observado o disposto na lei complementar que dispõe sobre a SUFIS e
+a JURPA. (NR)
+Art. 235. Oferecida a contestação pelo autor da peça básica, os autos
+serão encaminhados à Câmara Temática competente da Junta Revisora
+de Penalidades Administrativas – JURPA, à qual compete processar e
+julgar a impugnação em primeira instância administrativa, observado
+o rito único estabelecido na lei complementar que dispõe sobre a
+SUFIS e a JURPA. (NR)
+Art. 236. A decisão da Câmara Temática observará o rito, os prazos e
+os requisitos estabelecidos na lei complementar que dispõe sobre a
+SUFIS e a JURPA. (NR)
+Art. 237. Prolatada a decisão, serão providenciadas as necessárias
+intimações. (NR)
+§ 1º Da intimação constará a decisão prolatada e o prazo de 15
+(quinze) dias para pagamento ou para interposição de recurso ao
+Plenário da JURPA.
+§ 2º Não efetuado o pagamento nem interposto o recurso no prazo, o
+crédito será inscrito em dívida ativa. (NR)
+Art. 238. À Câmara Temática da JURPA não cabe pedido de
+reconsideração da decisão, cabendo recurso ao Plenário da JURPA.
+(NR)
+(...)
+Art. 248. São definitivas, na esfera administrativa, as decisões: (NR)
+I – da Câmara Temática da JURPA, esgotado o prazo para recurso ao
+Plenário sem que este tenha sido interposto e não sendo caso de
+recurso de ofício; e (NR)
+II – do Plenário da JURPA. (NR)
+(...)
+Art. 251. A aplicação das normas e imposições deste Código será
+exercida pelos órgãos e servidores integrantes do Grupo de
+Fiscalização Municipal – GFISC, na forma da lei. (NR)
+Art. 31. A Lei nº 1.562, de 29 de dezembro de 2003, passa a vigorar
+com as seguintes alterações:
+"Art. 88-A. (...)
+
+(...)
+Parágrafo único. (...)
+(...)
+III – o gestor da Vigilância Sanitária decidir quanto à desinterdição,
+após análise da ação fiscal, observada a legislação sanitária vigente e
+ressalvado o cumprimento de determinação judicial, competindo à
+Junta Revisora de Penalidades Administrativas – JURPA o julgamento
+da impugnação da interdição, na forma do art. 98. (NR)
+(...)
+Art. 89. A impugnação ao Auto de Infração observará o prazo e o rito
+único estabelecidos na lei complementar que dispõe sobre a SUFIS e a
+JURPA. (NR)
+§ 1º As impugnações aos autos de infração sanitária serão
+protocolizadas perante a SUFIS e encaminhadas à JURPA, à qual
+compete processar e julgar as impugnações e os recursos em matéria
+de poder de polícia sanitária. (NR)
+§ 3º É vedado reunir, em uma só petição, impugnações referentes a
+mais de um processo, ainda que versem sobre o mesmo assunto e
+alcancem o mesmo sujeito passivo. (NR)
+(...)
+Art. 90. As impugnações aos Autos de Apreensão e Depósito com ou
+sem inutilização, Auto de Colheita de Amostra, Termo de Interdição
+ou suspensão de vendas e/ou fabricação de produtos serão igualmente
+processadas e julgadas pela JURPA. (NR)
+(...)
+Art. 95. Da decisão da Câmara Temática da JURPA desfavorável ao
+impugnante caberá recurso ao Plenário da JURPA, na forma e no
+prazo estabelecidos na lei complementar que dispõe sobre a SUFIS e a
+JURPA. (NR)
+Art. 96. A Câmara Temática da JURPA recorrerá de ofício ao Plenário
+sempre que, no todo ou em parte, a decisão for contrária ao Município
+de Porto Velho, observadas as hipóteses de dispensa previstas na lei
+complementar que dispõe sobre a SUFIS e a JURPA. (NR)
+(...)
+Art. 97. Tornada definitiva a decisão contrária ao impugnante ou
+recorrente, será este intimado, fixando-se prazo para o seu
+cumprimento. (NR)
+§ 1º O não pagamento do crédito no prazo fixado sujeita o débito à
+inscrição em dívida ativa e à remessa para execução judicial. (NR)
+(...)
+Art. 98. As penalidades não pecuniárias, tais como Autos de
+Apreensão e Depósito com ou sem inutilização, Auto de Colheita de
+Amostra, Termo de Interdição ou suspensão de vendas e/ou fabricação
+de produtos, terão as eventuais impugnações processadas e julgadas
+pela JURPA, no rito de urgência. (NR)
+§ 1º O prazo de impugnação é o estabelecido na lei complementar que
+dispõe sobre a SUFIS e a JURPA. (NR)
+§ 2º O recebimento da impugnação de que trata este artigo não terá
+efeito suspensivo, salvo decisão fundamentada da JURPA. (NR)
+§ 3º As decisões de que trata este artigo são independentes do
+julgamento dos autos de infração sanitária. (NR)‖
+Art. 32. A Lei Complementar nº 1.000, de 7 de janeiro de 2025, que
+passa a vigorar com as seguintes alterações:
+"Art. 2°
+(...)
+§ 1º Integram a Secretaria de Governo (SGOV), como órgãos
+auxiliares: (NR)
+I — a Superintendência Municipal de Distritos (SMD); (NR)
+II — a Superintendência Municipal de Proteção e Defesa Civil
+(SMPDC); (NR)
+III — a Superintendência Municipal de Tecnologia da Informação e
+Pesquisa (SMTI); (NR)
+IV — o Gabinete de Articulação e Representação do Município de
+Porto Velho em Brasília (GAR/BSB); e (NR)
+V — a Superintendência Municipal de Fiscalização Integrada
+(SUFIS). (NR)
+(...)
+Art. 5° (...)
+(...)
+§ 5º À Superintendência Municipal de Fiscalização Integrada
+(SUFIS), vinculada à Secretaria de Governo (SGOV), órgão central do
+Licenciamento Integrado Municipal (LIM), dotada de autonomia
+técnica no exercício de suas atribuições, compete: (NR)
+
+www.diariomunicipal.com.br/arom
+
+135
+
+Rondônia , 14 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4318
+I – coordenar, executar e operacionalizar o Licenciamento Integrado
+Municipal (LIM), incluídas a análise técnica documental, a instrução
+de processos e a emissão de atos públicos de liberação do exercício de
+direitos e atividades quanto à sua viabilidade urbanística, sanitária e
+ambiental; (NR)
+II – planejar, coordenar e executar as ações integradas de fiscalização
+no território municipal; (NR)
+III – realizar vistorias em processos de licenciamento e ações de
+fiscalização de campo de forma integrada e multidisciplinar, por
+intermédio dos fiscais municipais nela lotados; (NR)
+IV – lavrar autos de infração e aplicar as sanções administrativas
+previstas na legislação de poder de polícia setorial, observadas as
+normas técnicas de cada área; (NR)
+V – operacionalizar a plataforma tecnológica de integração do LIM,
+definindo fluxos, prazos automatizados e requisitos de integração com
+a Rede Nacional para a Simplificação do Registro e da Legalização de
+Empresas e Negócios – REDESIM; (NR)
+VI – coordenar a solução de divergências operacionais entre as
+diferentes áreas de licenciamento e fiscalização, vedada a alteração
+das competências estabelecidas em lei; (NR)
+VII – editar instruções normativas sobre procedimentos de
+licenciamento e de fiscalização integrados, ouvido o Comitê Técnico
+Setorial do Licenciamento Integrado e, quando a matéria alcançar
+competência de órgão setorial, mediante ato conjunto; (NR)
+VIII – promover a capacitação contínua e o aperfeiçoamento técnico
+dos fiscais municipais e dos analistas setoriais; (NR)
+IX – elaborar anualmente o plano de fiscalização e os relatórios
+estatísticos e gerenciais sobre as ações de licenciamento e de
+fiscalização, dando-lhes publicidade; (NR)
+X – promover campanhas educativas sobre regularização de atividades
+econômicas e conformidade com a legislação municipal; (NR)
+XI – empregar tecnologias de monitoramento remoto e sistemas de
+inteligência artificial para a fiscalização preventiva e o apoio ao
+licenciamento, observadas a Lei federal nº 13.709, de 14 de agosto de
+2018, e as diretrizes municipais de governança de inteligência
+artificial; (NR)
+XII – instruir o processo administrativo decorrente do exercício do
+poder de polícia e prestar apoio administrativo à Junta Revisora de
+Penalidades Administrativas – JURPA; e (NR)
+XIII – exercer outras atividades correlatas. (NR)
+§ 6º O Superintendente Municipal de Fiscalização Integrada será
+nomeado pelo Prefeito do Município de Porto Velho dentre cidadãos
+com notório conhecimento em matéria de liberdade econômica,
+ordenamento urbano ou gestão pública. (NR)
+(...)
+Art. 17-A. A Secretaria Municipal de Meio Ambiente e
+Desenvolvimento Sustentável (SEMA) tem por finalidade a
+formulação de políticas e diretrizes, a normatização técnica, a gestão e
+a implementação da política de proteção, conservação e melhoria do
+meio ambiente do Município, para consecução de atividades de
+natureza local, nos termos das competências constitucionais e da Lei
+Orgânica do Município, competindo-lhe: (NR)
+(...)
+V – editar normas técnicas ambientais de observância obrigatória no
+licenciamento e na fiscalização; (NR)
+VI – gerenciar parques e jardins, com a competência de implantação e
+manutenção, zelando pelo embelezamento da cidade, no que tange à
+sua área de competência; e (NR)
+VII – outras atividades correlatas. (NR)
+Art. 33. O Anexo I da Lei Complementar nº 1.000, de 7 de janeiro de
+2025, passa a vigorar nos termos do Anexo Único desta Lei
+Complementar.
+CAPÍTULO V
+DAS DISPOSIÇÕES TRANSITÓRIAS
+Art. 34. Até a data de início do efetivo funcionamento da SUFIS,
+apurada na forma do art. 8º, as competências de licenciamento e de
+fiscalização transferidas por esta Lei Complementar continuarão a ser
+exercidas pelos órgãos e servidores aos quais estavam anteriormente
+atribuídas.
+§ 1º A coordenação provisória do Licenciamento Integrado Municipal
+– LIM será exercida por órgão designado em ato do Poder Executivo,
+até a data referida no caput.
+§ 2º A redistribuição dos fiscais municipais para a SUFIS ocorrerá na
+data referida no caput e não implicará alteração de vencimentos,
+
+gratificações, direitos ou vantagens dos servidores, tampouco exigirá
+novo ato de cessão, de requisição ou de alteração de exercício.
+§ 3º Os processos de licenciamento e de fiscalização em curso na data
+referida no caput serão transferidos à SUFIS no estado em que se
+encontrarem, preservados os atos já praticados.
+§ 4º O disposto no caput aplica-se igualmente às competências
+atribuídas à SUFIS pelo Marco Legal de Liberdade Econômica do
+Município que não correspondam a competência anteriormente
+atribuída a órgão municipal, as quais serão exercidas, até a data
+referida no caput, pelo órgão designado na forma do § 1º.
+§ 5º São válidos e eficazes os atos praticados na forma do caput e dos
+§§ 1º e 4º, não constituindo vício de competência a sua prática por
+órgão ou agente diverso da SUFIS enquanto esta não estiver em
+efetivo funcionamento.
+Art. 35. A partir da data de instalação da JURPA, apurada na forma do
+art. 27, ficam a ela transferidas as competências dos órgãos julgadores
+setoriais para processar e julgar o contencioso administrativo
+decorrente do exercício do poder de polícia, observado o seguinte:
+I – os processos cuja instrução estiver concluída até essa data
+permanecerão sob a competência do órgão julgador originariamente
+competente, exclusivamente para julgamento, pelo prazo máximo de
+90 (noventa) dias;
+II – os processos cuja instrução não estiver concluída serão
+imediatamente redistribuídos à JURPA;
+III – aos processos de que trata o inciso I aplicam-se, até o
+encerramento do prazo nele previsto, as regras de competência e de
+procedimento vigentes imediatamente antes da data de instalação da
+JURPA;
+IV – encerrado o prazo previsto no inciso I, os processos
+eventualmente não julgados serão imediatamente redistribuídos à
+JURPA, aplicando-se lhes o rito desta Lei Complementar; e
+V – o Conselho Municipal de Defesa do Meio Ambiente –
+COMDEMA permanecerá no exercício das demais competências
+previstas na Lei Complementar nº 138, de 28 de dezembro de 2001,
+ficando sua competência contenciosa limitada aos processos
+abrangidos pelo inciso I.
+Parágrafo único. Durante o prazo de que trata o inciso I, a
+competência dos órgãos julgadores setoriais restringe-se aos processos
+nele abrangidos, competindo à JURPA o processamento e o
+julgamento de todos os demais.
+Art. 36. Encerrado o prazo previsto no inciso I do art. 35:
+I – fica extinto o Conselho de Recursos Fiscais do órgão gestor das
+Posturas Urbanas, instituído pela Lei Complementar nº 873, de 16 de
+dezembro de 2021;
+II – cessam as competências de julgamento atribuídas ao gestor da
+Vigilância Sanitária pela Lei nº 1.562, de 29 de dezembro de 2003,
+ressalvada a decisão sobre a desinterdição, na forma do inciso III do
+parágrafo único do art. 88-A da mesma Lei;
+III – cessa a competência do Conselho de Recursos Fiscais do
+Município de Porto Velho para o processamento e o julgamento do
+contencioso sanitário, de posturas, de obras e de licenças e alvarás,
+preservada integralmente a sua competência em matéria tributária; e
+IV – cessa a competência contenciosa do Conselho Municipal de
+Defesa do Meio Ambiente – COMDEMA e do titular da Secretaria
+Municipal de Meio Ambiente e Desenvolvimento Sustentável –
+SEMA em matéria de poder de polícia ambiental.
+Art. 37. O Poder Executivo elaborará e dará publicidade ao plano de
+implantação da SUFIS e da JURPA em até 60 (sessenta) dias antes da
+data de início do efetivo funcionamento da SUFIS, apurada na forma
+do art. 8º.
+CAPÍTULO VI
+DAS DISPOSIÇÕES FINAIS
+Art. 38. As despesas decorrentes da execução desta Lei Complementar
+correrão por conta de dotações orçamentárias próprias, suplementadas
+se necessário.
+Art. 39. O Poder Executivo regulamentará esta Lei Complementar no
+que couber.
+Art. 40. Esta Lei Complementar entra em vigor na data de sua
+publicação, observado o disposto no Capítulo V e o seguinte:
+I – a alteração promovida pelo art. 30 no art. 251 da Lei
+Complementar nº 873, de 16 de dezembro de 2021, produz efeitos a
+partir da data de início do efetivo funcionamento da SUFIS, apurada
+na forma do art. 8º;
+
+www.diariomunicipal.com.br/arom
+
+136
+
+Rondônia , 14 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4318
+II – os arts. 11 a 25 e as demais alterações promovidas pelos arts. 30 e
+31 produzem efeitos a partir da data de instalação da JURPA, apurada
+na forma do art. 27; e
+III – as revogações previstas no art. 41 produzem efeitos no 91º
+(nonagésimo primeiro) dia contado da data de instalação da JURPA.
+Art. 41. Revogam-se, observado o disposto no inciso III do art. 40:
+I – o inciso III do art. 31 e os arts. 303 a 308 da Lei Complementar nº
+138, de 28 de dezembro de 2001;
+II – as Seções VII, VIII e IX do Capítulo VI da Lei Complementar nº
+873, de 16 de dezembro de 2021, compreendendo os arts. 239 a 247; e
+III – os §§ 2º e 4º do art. 89, os arts. 91, 92, 93 e 94 e o § 1º do art. 96
+da Lei nº 1.562, de 29 de dezembro de 2003.
+LEONARDO BARRETO DE MORAES
+Prefeito
+ANEXO ÚNICO
+(Anexo I da Lei Complementar nº 1.000, de 7 de janeiro de 2025)
+QUANTIDADE DE CARGOS COMISSIONADOS
+CLASSIFICAÇÃO / NÍVEL
+PREFEITO
+VICE-PREFEITO
+DAS - 16
+DAS - 15
+DAS - 14
+DAS - 13
+DAS - 12
+DAS - 11
+DAS - 10
+DAS - 09
+DAS - 08
+DAS - 07
+DAS - 06
+DAS - 05
+DAS - 04
+DAS - 03
+DAS - 02
+DAS - 01
+
+QUANTIDADE
+(LEI PRÓPRIA)
+(LEI PRÓPRIA)
+23
+33
+0
+4
+3
+53
+38
+13
+161
+59
+290
+559
+105
+214
+324
+271
+
+Administração Pública do Município de Porto Velho/RO, passa a
+vigorar com a seguinte redação.
+Art. 40-A. O advogado tem direito de examinar, presencialmente, em
+qualquer órgão da Administração Pública Municipal, direta ou
+indireta, previstas no artigo 1º desta Lei, autos de processos físicos,
+arquivados ou em andamento, mesmo sem procuração, quando não
+estiverem sujeitos a sigilo, nas condições previstas em legislação,
+caráter sigiloso nos termos da legislação vigente ou não concluída a
+diligência.
+§ 1º Quando físico, será assegurada a obtenção de cópias do processo,
+com possibilidade de tomar apontamentos e realizar a carga dos autos,
+devendo a retirada dos autos ser devidamente assinada pelo advogado
+em livro ou documento próprio, no momento que receber os autos.
+§ 2° Quando eletrônico, será disponibilizado o acesso ao processo
+eletrônico, mediante cadastro do advogado, garantindo-lhe acesso
+durante a tramitação do processo administrativo.
+§ 3° Nos autos sujeitos a sigilo, ou de caráter sigiloso nos termos da
+legislação vigente, deve o advogado apresentar procuração para o
+exercício dos direitos do patrocinado.
+Art. 3º Esta Lei entra em vigor em 120 (cento e vinte) dias, contados
+da data de sua publicação.
+Art. 4º O Poder Executivo regulamentará esta Lei, no que couber.
+LEONARDO BARRETO DE MORAES
+Prefeito
+Projeto de Lei Complementar nº 1426/2026.
+Autoria: Vereador Thiago Tezzari.
+Publicado por:
+Fernanda Santos Julio

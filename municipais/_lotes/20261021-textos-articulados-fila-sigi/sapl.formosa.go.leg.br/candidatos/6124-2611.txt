@@ -1,0 +1,306 @@
+Institui e regulamenta o Programa Municipal de Microchipagem de Animais de Grande Porte apreendidos em vias públicas no Município de Formosa/GO, incluindo cães considerados de mordedura forte, estabelece penalidades e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 28/26, de autoria do Poder Executivo, aprovado em 22 de junho de 2026.
+
+A PREFEITA MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais conferidas pela Constituição Federal e nos termos do Inciso III do art. 69 da Lei Orgânica Municipal, de 5 de abril de 1990, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município de Formosa/GO, o Programa Municipal de Microchipagem de Animais, com o objetivo de promover a identificação eletrônica:
+
+
+I –
+
+de animais de grande porte apreendidos em vias públicas, especialmente equinos e muares, incluindo cavalos, éguas, burros, mulas e demais animais assemelhados;
+
+
+II –
+
+de cães considerados de mordedura forte, visando à guarda responsável, segurança pública e bem-estar animal.
+
+
+Art. 2º.
+
+Para fins desta Lei, consideram-se cães de mordedura forte aqueles que, em razão de suas características físicas, potência de mordida ou histórico comportamental, apresentem potencial de causar lesões graves, conforme critérios técnicos reconhecidos por normas veterinárias ou sanitárias, observando-se, de forma exemplificativa, o rol previsto no §2º do Art. 102 da Lei Complementar nº 24, de 20 de novembro de 2017 (Código de Posturas do Município de Formosa).
+
+
+I –
+
+incluindo, de forma exemplificativa, as seguintes raças reconhecidas por possuírem potencial de forte mordedura:
+
+
+a)
+
+Pit Bull Terrier;
+
+
+b)
+
+American Pit Bull Terrier;
+
+
+c)
+
+American Staffordshire Terrier;
+
+
+d)
+
+Staffordshire Bull Terrier;
+
+
+e)
+
+Rottweiler;
+
+
+f)
+
+Doberman Pinscher;
+
+
+g)
+
+Fila Brasileiro;
+
+
+h)
+
+Dogo Argentino;
+
+
+i)
+
+Bull Terrier;
+
+
+j)
+
+Cane Corso;
+
+
+k)
+
+Mastim Napolitano;
+
+
+l)
+
+Tosa Inu;
+
+
+m)
+
+Akita;
+
+
+n)
+
+Chow Chow;
+
+
+o)
+
+Pastor Alemão;
+
+
+p)
+
+Boxer.
+
+
+Art. 3º.
+
+O programa consistirá na implantação subcutânea de microchips nos animais abrangidos por esta Lei, contendo número de série único, vinculado a banco de dados oficial com as seguintes informações:
+
+
+I –
+
+espécie, raça e características do animal;
+
+
+II –
+
+nome completo e CPF/CNPJ do proprietário ou responsável;
+
+
+III –
+
+endereço e telefone de contato do responsável;
+
+
+IV –
+
+histórico de apreensões ou ocorrências, quando houver;
+
+
+V –
+
+data de inserção do microchip.
+
+
+§ 1º
+
+Os microchips utilizados no Programa Municipal de Microchipagem deverão atender a padrões técnicos internacionais de identificação animal, observando, no mínimo:
+
+
+I –
+
+tecnologia de radiofrequência passiva compatível com as normas ISO 11784 e ISO 11785 (FDX-B), frequência de 134,2 kHz, ou padrão técnico equivalente ou superior;
+
+
+II –
+
+encapsulamento em material biocompatível e esterilizado, com revestimento antimigratório, próprio para implantação subcutânea em animais;
+
+
+III –
+
+dimensões compatíveis com aplicação em animais de diferentes portes, permitindo a utilização em animais de grande porte, médio porte e pequeno porte;
+
+
+IV –
+
+fornecimento individual esterilizado, acompanhado de identificação numérica única e etiquetas para registro e rastreabilidade;
+
+
+V –
+
+compatibilidade com leitores universais de radiofrequência capazes de realizar a leitura dos transponders implantados.
+
+
+§ 2º
+
+O Município poderá utilizar microchips de dimensões aproximadas de 2 x 12 mm, ou modelos equivalentes tecnicamente reconhecidos, inclusive versões reduzidas destinadas a animais de menor porte, conforme avaliação médico-veterinária.
+
+
+§ 3º
+
+Os leitores eletrônicos utilizados deverão possuir capacidade de leitura universal compatível com os padrões ISO de identificação animal, memória interna para armazenamento de dados e possibilidade de transferência das informações para sistema oficial de cadastro.
+
+
+§ 4º
+
+As especificações complementares, operacionais e tecnológicas serão definidas em regulamento próprio, observada a legislação de compras públicas vigente.
+
+
+Art. 4º.
+
+A microchipagem será obrigatória para:
+
+
+I –
+
+todos os animais de grande porte apreendidos em vias públicas e encaminhados à FASF – Fazenda AgroSustentável de Formosa, localizada na rodovia GO-430, zona rural de Formosa, Goiás;
+
+
+II –
+
+cães considerados de mordedura forte, especialmente:
+
+
+a)
+
+aqueles envolvidos em ocorrência de ataque ou agressão registrada;
+
+
+b)
+
+animais submetidos a termo de responsabilidade do tutor;
+
+
+c)
+
+outras situações previstas na legislação vigente aplicável.
+
+
+§ 1º
+
+A identificação eletrônica dos animais de grande porte será realizada após avaliação médico-veterinária realizada por profissional habilitado do Município, devendo ocorrer preferencialmente no momento da apreensão ou, obrigatoriamente, antes da liberação do animal ao proprietário ou responsável, como condição para sua restituição.
+
+
+§ 2º
+
+Nos casos de cães de mordedura forte, a microchipagem poderá ocorrer como medida de identificação e responsabilização do tutor, observadas as normas sanitárias e de proteção animal.
+
+
+§ 3º
+
+Todo animal apreendido será automaticamente submetido à microchipagem, independentemente de autorização prévia do tutor ou responsável, como medida administrativa de identificação oficial, segurança pública e promoção da guarda responsável.
+
+
+§ 4º
+
+Ocorrendo a apreensão, a liberação do animal somente ocorrerá mediante comprovação, por parte do proprietário ou responsável, de que reúne condições adequadas de segurança e contenção para a guarda do animal, tais como construção ou adequação de canil, curral, baias, muros ou cercas, observadas as características da espécie e do porte do animal, bem como a utilização de equipamentos de segurança, incluindo focinheira quando exigida, além do pagamento de multa equivalente a 100 (cem) UFMs do Município de Formosa.
+
+
+§ 5º
+
+No ato da retirada do animal, o tutor ou responsável será formalmente notificado e orientado quanto às obrigações legais de guarda responsável, ficando registrado termo de ciência.
+
+
+§ 6º
+
+Em caso de segunda apreensão vinculada ao mesmo tutor, será aplicada multa administrativa, sem prejuízo da nova notificação e demais medidas previstas nesta Lei.
+
+
+§ 7º
+
+O animal apreendido que não for liberado no prazo de 15 (quinze) dias será considerado de propriedade do Município, podendo receber destinação socialmente adequada, inclusive adoção responsável, leilão público ou outro encaminhamento legalmente admitido.
+
+
+§ 8º
+
+Na reincidência, a multa será dobrada, e ocorrendo terceira apreensão de animal pertencente ao mesmo proprietário, a multa será triplicada, independentemente de outras penalidades e cominações legais cabíveis.
+
+
+§ 9º
+
+Persistindo a reincidência, o animal poderá permanecer sob guarda definitiva do Município, observadas as normas de proteção e bem-estar animal.
+
+
+§ 10
+
+Ficam obrigados ao cadastramento junto ao Município, os estabelecimentos urbanos que possuam mais de 05 (cinco) equídeos e os estabelecimentos rurais que possuam mais de 20 (vinte) equídeos.
+
+
+Art. 5º.
+
+Os custos da microchipagem poderão ser atribuídos ao proprietário ou responsável pelo animal no momento da regularização ou retirada.
+
+
+Parágrafo único.
+
+Poderão ser adotadas medidas de apoio ou incentivo destinadas à viabilização da identificação animal, observada a legislação vigente.
+
+
+Art. 6º.
+
+Os dados registrados terão uso exclusivo para fins de identificação, controle, responsabilização e promoção do bem-estar animal, sendo vedado seu uso indevido ou divulgação não autorizada, observadas as disposições da Lei Geral de Proteção de Dados Pessoais – LGPD (Lei Federal nº 13.709, de 14 de agosto de 2018), garantindo-se a proteção da privacidade e dos dados pessoais dos responsáveis pelos animais.
+
+
+Art. 7º.
+
+Esta Lei estabelece diretrizes de interesse público, não criando atribuições novas ao Poder Executivo ou seus órgãos, não interferindo na organização administrativa municipal e não invadindo competência legislativa, cuja a regulamentação ficará a critério do poder executivo.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete da Prefeita, 23 de junho de 2026.
+
+SIMONE DIAS RIBEIRO DE MELO  
+Prefeita Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Camila Silva Pimentel  
+Subprocuradora II,  
+na Subprocuradoria em demandas de RH  
+Decreto nº 3078, de 24 de abril de 2026

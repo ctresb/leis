@@ -1,0 +1,4973 @@
+---
+titulo: "LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002"
+tipo: "Lei complementar"
+tipo_na_fonte: "LEI COMPLEMENTAR"
+numero: "36"
+data: "2002-12-16"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2006-05-02; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1119"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/287/text"
+sha256_fonte: "1b11f8e76d82d3e6338e9e4f18e8e6dd225f4add3f95a769972453219a96c064"
+sha256_texto: "ca54fe713ba91e15afb7b3293b502717b280d61c7ad26227a59a5cc947b4e5ef"
+capturado_em_fonte: "2026-10-28T09:27:00.779569-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# LEI COMPLEMENTAR nº 36, de 16 de dezembro de 2002
+
+Dispõe sobre o sistema tributário do Município e da outras providências.
+
+
+LEIDSON FERREIRA DE SOUSA, Prefeito do Município de Corumbiara-RO, usando das atribuições que lhe são conferidas por Lei .
+
+Faço saber que a Câmara Municipal , em sessão de ........de........de..........., decretou e eu promulgo e sanciono a seguinte Lei:
+
+
+**Disposição Preliminar**
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+### TÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+### TÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+### TÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 68.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 69.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 70.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 71.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 72.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 73.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 74.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 75.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 76.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 77.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 78.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 79.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 80.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 81.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 82.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 83.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 84.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 85.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 86.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 87.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+1
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+2
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+3
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+4
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+5
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+6
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+7
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+8
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+9
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+10
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+11
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+12
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+13
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+14
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+15
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+16
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+17
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+18
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+19
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+20
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+21
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+22
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+23
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+24
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+25
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+26
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+27
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+28
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+29
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+30
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+31
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+32
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+33
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+34
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+35
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+36
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+37
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+38
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+39
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+40
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+41
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+42
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+43
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+44
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+45
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+46
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+47
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+48
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+49
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+50
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+51
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+52
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+53
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+54
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+55
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+56
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+57
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+58
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+59
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+60
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+61
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+62
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+63
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+64
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+65
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+66
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+67
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+68
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+69
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+70
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+71
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+72
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+73
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+74
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+75
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+76
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+77
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+78
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+79
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+80
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+81
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+82
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+83
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+84
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+85
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+86
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+87
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+88
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+89
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+90
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+91
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+92
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+93
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+94
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+95
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+96
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+97
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 88.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 89.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 90.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 91.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 92.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 93.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 94.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 95.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 96.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 97.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 98.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 99.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 100.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 101.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 102.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 103.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 104.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 105.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 106.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 107.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 108.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 109.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 110.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 111.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 112.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 113.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 114.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 115.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 116.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 117.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 118.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 119.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 120.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 121.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 122.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 123.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 124.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 125.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 126.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 127.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 128.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 129.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+### TÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 130.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 131.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 132.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 133.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 134.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 135.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 136.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 137.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 138.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 139.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 140.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 141.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 142.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 143.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+### TÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 144.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 145.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 146.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 147.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 148.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 149.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 150.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 151.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 152.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 153.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 154.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 155.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 156.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 157.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 158.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 159.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 160.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 161.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 162.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 163.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 164.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 165.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 166.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 167.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 168.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 169.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 170.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 171.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 172.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 173.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 174.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 175.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 176.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 177.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 178.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 179.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 180.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 182.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 183.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 184.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 185.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 186.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 187.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 188.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 189.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 190.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 191.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+### TÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 192.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 193.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 194.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 195.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 196.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 197.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Art. 198.
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+Corumbiara, 16 de dezembro 2002
+
+**LEIDSON FERREIRA DE SOUSA**  
+Prefeito Municipal
+
+COMISSÃO DE ELABORAÇÃO
+
+PRESIDENTE: JOUBERT ANT. MURACAMI  
+SECRETARIO : JOAO SOARES MOTA  
+MEMBROS: CELSO ANTUNES DOS SANTOS  
+EMERSON DE PAULA FARIAS
+
+COLABORADORES E CONVIDADOS
+
+ADIL MEDEIROS BRAGANCA  
+PALMIRA FATIMA DOS SANTOS  
+DONIZETE AP. SILVA  
+SIMAO MACHADO DE SOUZA  
+ALCEU KERBER  
+JOSUÉ LOPES DA SILVA  
+VALMIR BEATTO  
+JOSÉ GUILHERME  
+MARIA CRISTINA SANTOS CARDOSO
+
+
+TABELA I
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA II
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA III
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA IV
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA V
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA VI
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA VII
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA VIII
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA IX
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA X
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA XI
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA XII
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+TABELA XIII
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+## ANEXO XV
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+ANEXO ÚNICO
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+PARTE 3
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+
+
+(Revogado)
+
+Revogado pelo Art. 585. - LEI COMPLEMENTAR nº 39, de 02 de maio de 2006.
+

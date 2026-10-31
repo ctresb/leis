@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/decreto008-2022.pdf da norma DECRETOS LEGISLATIVOS-GABPRES nº 8, de 03 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campinorte.go.leg.br/media/sapl/public/anexonormajuridica/2022/1/decreto008-2022.pdf",
+      "ano": 2022,
+      "norma": 9
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinorte.go.leg.br/4625f576e98b3e73a6e6c17d2101b226fd3d509bfa613f96eb608cd25181fee4.json",
+      "url": "https://sapl.campinorte.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.campinorte.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "00e0d96f2dbd465e8ac1e82677f44ccb4d8bb6599dd612b2ce10139b3d0686ec",
+      "bytes": 559,
+      "capturado_em": "2026-10-27T22:21:27.566618-03:00"
+    }
+  ]
+}

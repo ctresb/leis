@@ -1,0 +1,72 @@
+{
+  "host": "sapl.natal.rn.leg.br",
+  "metadados_unicos_observados": 390,
+  "total_api_declarado": 390,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.natal.rn.leg.br/390982c772d562a34d5baeb04b78a5f8185f345d17526efad3a282c396f59b92.json",
+    "url": "https://sapl.natal.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.natal.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f72ddf6d52dbc6eab0888a7973ca91f56e4b06af91342276ceef964e8ed0141b",
+    "bytes": 949,
+    "capturado_em": "2026-10-20T23:28:32.664938"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.natal.rn.leg.br/f37743644d671518c202d1fb75d25f245167a00d5b913462d3fc42d7e9896da6.json",
+    "url": "https://sapl.natal.rn.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.natal.rn.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3f5b3f425e663779c27c8bdd42520dcb589659fa2de856d569a97603eb19c6e9",
+    "bytes": 680,
+    "capturado_em": "2026-10-20T23:28:34.039331"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.natal.rn.leg.br/3032f59d3e27ce0b80054d29825773b933c0124cfe9214d87139f9a6e84f8724.json",
+      "url": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c45d137c8ba4a64eb3e49b35d517cee27173b0dd343f3b3a4c2bf95b69dc82a8",
+      "bytes": 65458,
+      "capturado_em": "2026-10-20T23:28:35.740672"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.natal.rn.leg.br/e021742d50943f3d5fcfe075427566951a1e5b35ffda15e808ad0c3ad6a93075.json",
+      "url": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a1310628b178261e0dfdd9c6c536a4fd4c2d7d7109f7e381210634343c5126e6",
+      "bytes": 66310,
+      "capturado_em": "2026-10-20T23:28:37.089513"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.natal.rn.leg.br/e195c580a8bc2b0428765705294a1fac9dd77db0abc731661b0026216dde78f7.json",
+      "url": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ad4507b3f82eb6e98b3d2f457bc63f540be7ba55e4f69930980f77b0fa6430a4",
+      "bytes": 65319,
+      "capturado_em": "2026-10-20T23:28:38.571300"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.natal.rn.leg.br/8019bc33529422e3a83901510b2d35abe243837cef75c09521833731b7cfe31b.json",
+      "url": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.natal.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4767605efe01a3d367fb8688a6932bb18f9998eadb270ed9bc49dd5dbc399866",
+      "bytes": 58060,
+      "capturado_em": "2026-10-20T23:28:39.935030"
+    }
+  ],
+  "script_sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

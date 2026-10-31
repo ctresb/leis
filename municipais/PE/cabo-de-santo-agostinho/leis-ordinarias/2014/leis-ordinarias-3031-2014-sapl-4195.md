@@ -1,0 +1,890 @@
+---
+titulo: "Lei Ordinária nº 3.031, de 21 de novembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3031"
+data: "2014-11-21"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2022-03-31; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4195"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4242/text"
+sha256_fonte: "4f1f8a2b59fa31a143d43ce98b996b9d6dd5eb7484d655c775fbdbc5569d1986"
+sha256_texto: "0190f8a20b8a02c4538f96f40800591da00ad13c03fdf32f0586ff00ecbb228c"
+capturado_em_fonte: "2026-10-27T21:41:07.683554-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.031, de 21 de novembro de 2014
+
+Dispõe sobre a Exploração de Serviços de Transporte Público de Passageiros por Táxis do Cabo de Santo Agostinho STPPT/CS, e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho:**
+
+**Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+A exploração do Serviço de Transporte Público de Passageiros por Táxis do Cabo de Santo Agostinho - STPPT/CSA, subordinar-se-á, a prévia permissão pela Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou através de Órgão Público que delegar poderes, e reger-se-á pelas normas contidas na presente Lei.
+
+
+§ 1º
+
+Definem-se, para efeito desta Lei, os seguintes termos:
+
+
+I –
+
+**Cassação da permissão:** devolução compulsória da permissão por infração legal ou regulamentar;
+
+
+II –
+
+**Condutor:** condutor permissionário;
+
+
+III –
+
+**Condutor auxiliar:** motorista de atividade profissional, vinculado ao permissionário inscrito no cadastro de condutores de veículos/táxi da Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou através de Órgão Público que delegar poderes;
+
+
+IV –
+
+**Condutor permissionário:** motorista de atividade profissional inscrito no cadastro de condutores de veículos/táxi da Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou através de Órgão Público que delegar poderes;
+
+
+V –
+
+**Frota:** número de veículos às permissões delegadas pela Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou por órgão Público que delegar poderes;
+
+
+VI –
+
+**INMETRO**: Instituto Nacional de Metrologia, Normatização e Qualidade Industrial;
+
+
+VII –
+
+**IPEM**: Instituto de Pesos e Medidas;
+
+
+VIII –
+
+**Permissão:** Ato Administrativo discricionário e unilateral pelo qual a Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou através de Órgão Público que delegar poderes, delega a terceiros a execução do STPPT/CSA nas condições estabelecidas na presente Lei;
+
+
+IX –
+
+**Permissionário**: pessoa física detentora de permissão;
+
+
+X –
+
+**Permitente**: Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou através de um Órgão Público que delegar poderes;
+
+
+XI –
+
+**Ponto de estacionamento de táxi**: local regulamentado para estacionar o veículo táxi e aguardar o passageiro;
+
+
+XII –
+
+**Ponto Fixo**: ponto de taxi pré-estabelecido pelo órgão público com previsão de quantidade e definição dos veículos estacionados;
+
+
+XIII –
+
+**Ponto Rotativo**: Ponto de Táxi que se permite o livre estacionamento de Táxi, excetuando-se Taxis do Ponto Fixo;
+
+
+XIV –
+
+**Registro de Condutor (RC)**: documento emitido pela Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou através de Órgão Público que delegar Poderes, autoriza o condutor a dirigir veículo vinculado ao Sistema de Táxi;
+
+
+XV –
+
+**Renúncia à Permissão**: devolução voluntária da permissão;
+
+
+XVI –
+
+**Suspensão do condutor**: período de tempo no qual o condutor fica proibido de conduzir o veículo/táxi em serviço;
+
+
+XVII –
+
+**Táxi**: o veículo de aluguel destinado ao transporte público de passageiros, com retribuição aferida por meio de taxímetro digital, atendidas, as especificações normatizadas pelo IPEM, através de tarifas estabelecidas pelo Município, em consonância com as Resoluções do Conselho Interministerial de Preços.
+
+
+XVIII –
+
+**Termo de Credenciamento**: permissão para explorar o STPPT/CSA;
+
+
+XIX –
+
+**Transferência:** processo de cessão da permissão;
+
+
+XX –
+
+**Veículo de aluguel**: automóvel inscrito no Cadastro de Veículos/Táxi da Prefeitura Municipal do Cabo de Santo Agostinho, diretamente ou através de Órgão Público que delegar poderes.
+
+
+Art. 2º.
+
+O estacionamento de veículos utilizados como táxis só poderá se dar nos PONTOS estabelecidos, devendo-se para tanto, observar-se, as seguintes categorias:
+
+
+I –
+
+Ponto Fixo;
+
+
+II –
+
+Ponto Rotativo.
+
+
+§ 1º
+
+Os pontos fixos serão definidos por meio de Decreto e estabelecidos de maneira proporcional ao número de habitantes de cada localidade, de acordo com o último senso realizado pelo Instituto Brasileiro de Geografia e Estatística – IBGE.
+
+
+§ 2º
+
+Os Pontos de estacionamento de táxis, definidos nos locais do parágrafo anterior, serão fixados em função do interesse público e conveniência administrativa, com a devida sinalização e especificação da categoria, bem como, a quantidade máxima de veículos que neles poderão estacionar, assegurado a prioridade aos permissionários que já possuem alvará naqueles locais, totalizando 173 (cento e setenta e três) vagas.
+
+
+§ 3º
+
+Os demais pontos de estacionamento serão destinados aos PONTOS ROTATIVOS totalizando 134 (cento e trinta e quatro) vagas, a serem estabelecidos a critério da administração.
+
+
+§ 4º
+
+Poderão ser criados PONTOS PROVISÓRIOS, cuja finalidade será atender necessidades ocasionais e terá duração limitada temporariamente.
+
+
+§ 5º
+
+É função precípua do permissionário a execução direta do serviço, independentemente da existência de condutores auxiliares, autônomos ou empregados.
+
+
+Art. 3º.
+
+Os táxis licenciados por outros municípios, para exercer tal atividade no território do município do Cabo de Santo Agostinho, só poderão circular, realizando transporte remunerado, nas seguintes situações:
+
+
+I –
+
+quando as viagens forem originadas em seus municípios, com destino ao município do Cabo de Santo Agostinho;
+
+
+II –
+
+quando as viagens forem originadas em seus municípios, com destino a outros municípios, implicando, necessariamente, sua passagem pelo município do Cabo de Santo Agostinho.
+
+
+Parágrafo único
+
+Os táxis licenciados por outros municípios, quando em circulação no território do Cabo de Santo Agostinho, em quaisquer das situações, não poderão expor a caixa luminosa indicativa da atividade.
+
+
+Art. 4º.
+
+A circulação no território do município do Cabo de Santo Agostinho dos táxis licenciados por outros municípios, com a inobservância dos preceitos desta Lei, constitui-se em infração sujeita as seguintes penalidades:
+
+
+I –
+
+efetuar embarque de passageiros em território do município do Cabo de Santo Agostinho;
+
+**Penalidade** - multa de valor correspondente a 2000 (duas mil) bandeiradas;
+
+**Medida Administrativa** - apreensão do veículo, até o recolhimento ao município, do valor da multa devida.
+
+
+II –
+
+circular com o táxi expondo a caixa luminosa indicativa da atividade:
+
+**Penalidade -** multa de valor correspondente a 1000 (mil) bandeiradas;
+
+**Medida Administrativa** - apreensão do veiculo, ate o recolhimento ao município, do valor da multa devida.
+
+
+#### CAPÍTULO II — DAS PERMISSÕES
+
+
+Art. 5º.
+
+A delegação de novas permissões para o Serviço Público de Transporte Individual por Táxi, posteriormente à publicação desta lei, será objeto de processo seletivo, com observância aos princípios da impessoalidade, da legalidade, da moralidade, da publicidade, da igualdade, do julgamento por critérios objetivos.
+
+
+Parágrafo único
+
+O prazo para a exploração do serviço Público de Transporte Individual por Táxi será de 20(vinte) anos, prorrogável uma única vez.
+
+
+Art. 6º.
+
+A relação táxi por habitante no município, não poderá ser inferior a 500 habitantes por táxi e nem superior a 700 habitantes por táxi, índice estabelecido com base na população estimada através de censo demográfico mais recente, realizado pelo Instituto Brasileiro de Geografia e Estatística - IBGE.
+
+
+§ 1º
+
+O quantitativo de veículos em circulação, deverá ser revisto a cada 1 (um) ano, devendo ser levado em conta o equilíbrio entre a demanda dos passageiros e a oferta de veículos, segundo dimensionamento da frota, que observará, entre outros, os seguintes critérios:
+
+
+I –
+
+tamanho da frota;
+
+
+II –
+
+demanda pelo serviço;
+
+
+III –
+
+número médio de corridas;
+
+
+IV –
+
+distância média das corridas;
+
+
+V –
+
+custo operacional dos veículos;
+
+
+VI –
+
+valor médio das corridas;
+
+
+VII –
+
+receita bruta média obtida pelos permissionários;
+
+
+§ 2º
+
+É vedado processo seletivo no ano eleitoral municipal.
+
+
+§ 3º
+
+Os dados e as informações operacionais de cada alvará será utilizado, exclusivamente, para o dimensionamento da frota e os demais atos administrativos referentes ao planejamento, à regulamentação, à permissão, à operação, ao controle e à fiscalização do Serviço Público de Transporte Individual por Táxi, sendo vedado seu repasse, integral ou parcial, a pessoas diversas do permissionário.
+
+
+§ 4º
+
+A Prefeitura manterá serviços estatísticos da situação da frota e movimento de passageiros, devidamente atualizados; bem como acompanhamento das alterações de custo e situação econômico-financeira dos permissionários para fins de revisão do quantitativo das permissões.
+
+
+§ 5º
+
+O número de táxis atualmente licenciados, cujas permissões estejam devidamente regularizadas junto à Prefeitura Municipal do Cabo de Santo Agostinho ficará mantido para efeito de renovação das suas permissões, após aprovação desta Lei.
+
+
+Art. 7º.
+
+Compete à Secretaria Municipal de Defesa Social – SMDS, sem prejuízo de outras atribuições previstas nesta lei e demais regulamentos:
+
+
+I –
+
+a elaboração de planos e estudos relacionados aos serviços de táxi, inclusive sobre tarifas e dimensionamento da frota;
+
+
+II –
+
+a elaboração de normas diretivas e operacionais para a regulamentação desta lei, submetendo-os à aprovação do Chefe do Poder Executivo Municipal;
+
+
+III –
+
+a realização do processo de seleção, pelo prazo de 20 (vinte) anos, para a outorga das autorizações, elaboração de editais e fiscalização do cumprimento das normas estabelecidas nesta lei, através de regulamentos ou decretos;
+
+
+IV –
+
+a emissão do Termo de Permissão, para a prestação do serviço de táxi aos interessados, após regular processo de seleção;
+
+
+V –
+
+a fiscalização dos serviços de táxi no município do Cabo de Santo Agostinho;
+
+
+VI –
+
+a aplicação das penalidades previstas nesta lei, inclusive a cassação da permissão.
+
+
+Art. 8º.
+
+Respeitado o processo de seleção, cada permissionário pessoa física, deterá uma única permissão.
+
+
+§ 1º
+
+É facultado ao permissionário confiar o veículo a terceiros, como condutor auxiliar que complementem e deem continuidade ao trabalho do titular, na condição de autônomo ou de empregado.
+
+
+§ 2º
+
+Os permissionários poderão apresentar e cadastrar apenas 1 (um) condutor auxiliar.
+
+
+Art. 9º.
+
+São deveres dos profissionais taxistas:
+
+
+I –
+
+atender ao cliente com presteza e polidez;
+
+
+II –
+
+trajar-se adequadamente para a função;
+
+
+III –
+
+manter o veículo em boas condições de funcionamento e higiene;
+
+
+IV –
+
+manter em condições de visibilidade ao usuário, sua Carteira de Identificação;
+
+
+V –
+
+obedecer à Lei nº 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, bem como à legislação municipal;
+
+
+VI –
+
+manter em dia a documentação do veículo exigida pelas autoridades competentes e portar sempre o Alvará no interior do veículo.
+
+
+Parágrafo único
+
+Perfazer jornada diária mínima de operação no Ponto, ao qual se encontra vinculado, caracterizadas pela disponibilidade de transporte aos passageiros nos dias úteis, domingo e feriados, por 08 (oito) horas, consecutivas ou não, dentre as quais o permissionário deverá operar no horário de pico, conforme regulamentação desta Lei;
+
+
+Art. 10.
+
+É vedado ao titular da permissão entregar a condução do veículo/táxi a pessoas que não sejam cadastradas junto à Prefeitura Municipal do Cabo de Santo Agostinho.
+
+
+Parágrafo único
+
+A constatação da inobservância do disposto no caput deste artigo implicará na suspensão da permissão.
+
+
+Art. 11.
+
+Fica assegurada aos permissionários a possibilidade de cessão da permissão de táxi e ainda no caso do falecimento do permissionário a realização da sucessão dos herdeiros, conforme previsto no Código Civil.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.706, de 31 de março de 2022.
+
+
+§ 1º
+
+É autorizada a sucessão dos sucessores do primeiro permissionário, de modo que serão operadas tantas transferências quantas forem necessárias para exaurir o período de delegação original ao permissionário falecido.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.706, de 31 de março de 2022.
+
+
+§ 2º
+
+O cessionário e o sucessor da permissão de táxi deverão atender integralmente aos requisitos da legislação municipal para se investirem na qualidade de permissionário.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.706, de 31 de março de 2022.
+
+
+§ 3º
+
+Fica assegurada, em qualquer caso, a cessão ou transferência da permissão no serviço de táxi em casos de aposentadoria, doença grave ou incapacidade que impeça o permissionário de conduzir o veículo desde que devidamente comprovado o impedimento pelo Instituto Nacional de Seguridade Social – INSS.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.706, de 31 de março de 2022.
+
+
+#### CAPÍTULO III — DOS VEÍCULOS
+
+
+Art. 12.
+
+Somente poderão trafegar no Município táxis com até 7 anos de fabricação, de cor branca e com 4 portas, cuja capacidade máxima seja de 7 passageiros, observado o estipulado pelo fabricante do veículo
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.707, de 31 de março de 2022.
+
+
+§ 1º
+
+A contagem do prazo de vida útil de cada veículo, terá como tempo inicial o ano/modelo especificado no Certificado de Registro e Licenciamento do Veículo – CRLV.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.080, de 24 de agosto de 2015.
+
+
+§ 2º
+
+Para efeito de cálculo da vida útil o ano fechará em 31 de dezembro do ano em vigência.
+
+
+§ 3º
+
+Os veículos autorizados pelo Poder Público Municipal que já operam no Sistema de Transporte Público de Passageiros por Táxi na cor prata poderão continuar circulando normalmente, somente sendo exigida a cor branca dos veículos quando da renovação da permissão do licenciamento do Táxi
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.707, de 31 de março de 2022.
+
+
+Art. 13.
+
+O veículo que não for submetido à renovação, terá sua licença suspensa, tendo o permissionário prazo de 15 (quinze) dias, para regularizar sua situação perante o município do Cabo de Santo Agostinho, sob pena de baixa efetiva nos órgãos de trânsito Municipal, Estadual e Federal.
+
+
+Parágrafo único
+
+O veículo de aluguel, caracterizado como táxi do Município do Cabo de Santo Agostinho, enquadrado no caput deste artigo, flagrado pela Fiscalização, em operação no Município, estará sujeito à aplicação de multa no valor de 2.000 (dois mil) bandeiras e da medida administrativa de apreensão do veículo até a comprovação do pagamento da pena pecuniária.
+
+
+#### CAPÍTULO IV — DAS PENALIDADES
+
+
+Art. 14.
+
+No disciplinamento do STPPT/CSA, compete ao poder permitente aplicar sanções disciplinares aos permissionários em razão da inobservância das obrigações e deveres estatuídos em lei, bem como, por desvios de comportamento moral, social e funcional e nos demais atos para a sua regulamentação.
+
+
+Parágrafo único
+
+O poder permitente aplicará aos infratores, sucessiva e simultaneamente, as seguintes sanções:
+
+
+I –
+
+advertência escrita;
+
+
+II –
+
+multa;
+
+
+III –
+
+suspensão;
+
+
+IV –
+
+cancelamento da permissão, através de processo administrativo, garantido o contraditório e ampla defesa.
+
+
+Art. 15.
+
+Compete ao Secretário Municipal de Defesa Social, a aplicação das penalidades descritas nos incisos I a III do artigo precedente.
+
+
+Art. 16.
+
+A penalidade de advertência conterá determinações das providências necessárias para o saneamento da irregularidade que lhe deu origem.
+
+
+Art. 17.
+
+Serão punidos com a penalidade de Advertência escrita, os seguintes casos não reiterados:
+
+
+I –
+
+o descumprimento dos incisos I a IV previstos no artigo 9º desta lei;
+
+
+II –
+
+Ausentar-se do veículo quando este estiver sido estacionado no ponto;
+
+
+III –
+
+Por não atualizar endereço junto à SMDS.
+
+
+Art. 18.
+
+A penalidade de suspensão pelo prazo de 15 dias, será aplicada em casos de reincidência das faltas punidas com advertência, bem como proceder com as condutas transcritas abaixo:
+
+
+I –
+
+Recusar passageiros, salvo em casos justificados;
+
+
+II –
+
+Prestar serviço com o taxímetro desligado ou funcionando defeituosamente;
+
+
+III –
+
+Prestar serviço com o alvará vencido;
+
+
+IV –
+
+Não apresentar, quando solicitado, os documentos regulamentares à fiscalização;
+
+
+V –
+
+Dirigir em situações que ofereçam riscos á segurança de passageiros ou de terceiros;
+
+
+VI –
+
+Cobrar valor acima do expresso no taxímetro;
+
+
+VII –
+
+Agredir verbal ou fisicamente a passageiros, agentes administrativos e agentes de fiscalização;
+
+
+VIII –
+
+Permitir que condutor não cadastrado no órgão Permitente, dirija o veículo de Táxi.
+
+
+Art. 19.
+
+Serão punidos com a penalidade de cancelamento da Permissão os taxistas que:
+
+
+I –
+
+deixarem de frequentar o ponto ou não exercerem suas funções pelo prazo de 07 (sete) dias, dentro de um período máximo de 30 dias, salvo motivo devidamente justificado perante a SMDS;
+
+
+II –
+
+reincidentes na penalidade de suspensão;
+
+
+III –
+
+for flagrado dirigindo veículo Táxi, dentro do período de cumprimento da penalidade de suspensão temporária do exercício de sua atividade.
+
+
+IV –
+
+os permissionários que não fizerem o uso de faixa adesiva, conforme especificações do Permitente.
+
+
+V –
+
+utilização do veiculo para outros fins;
+
+
+VI –
+
+condenação criminal.
+
+
+Art. 20.
+
+A cada ano, na renovação do cadastro do Alvará, ocorrerá à baixa das penalidades de advertência e suspensão aplicadas ao permissionário.
+
+
+Art. 21.
+
+É vedado àqueles que mantêm qualquer tipo de vínculo empregatício ativo com a Administração Pública Direta ou Indireta de qualquer ente ou esfera da federação, inclusive nas formas de concessionários, permissionários ou autorizatários de serviços públicos, operar no Serviço público de Transporte Individual por Táxi, na qualidade de permissionário.
+
+
+Parágrafo único
+
+Por ocasião dos serviços de emissão ou renovação do alvará e do Termo de Permissão, o requerente deverá apresentar à SMDS, declaração de inexistência de vínculo a que se refere o caput deste artigo, com a União, os estados, os municípios e o Distrito Federal, devidamente assinada e com firma reconhecida.
+
+
+Art. 22.
+
+Fica terminantemente proibido ao permissionário de ponto fixo exercer suas funções em locais diversos daqueles previstos no seu Termo de Permissão, sob pena de aplicação da medida administrativa de multa no valor de 1.000 (mil) bandeiradas e recolhimento do veículo até a comprovação do pagamento da pena pecuniária.
+
+
+Art. 23.
+
+O permissionário é solidariamente responsável pelo pagamento das penalidades e multas aplicadas ao condutor.
+
+
+Art. 24.
+
+As penalidades citadas poderão ser aplicadas separadas ou cumulativamente.
+
+
+Art. 25.
+
+A aplicação das penalidades previstas nesta Lei, não se confundem com as prescritas em outras legislações, como também não elidem quaisquer responsabilidades de natureza civil ou criminal perante terceiros.
+
+
+Art. 26.
+
+O procedimento para a aplicação de penalidades, impugnações e recursos cabíveis será regulamentado após a vigência desta Lei.
+
+
+Art. 27.
+
+Caso o permissionário não tenha mais interesse em explorar a permissão, esta deverá ser renunciada, em formulário próprio, junto à Prefeitura.
+
+
+Parágrafo único
+
+A renúncia somente será consolidada pela Prefeitura após efetuada a baixa de cadastros e conforme exigências regulamentares.
+
+
+Art. 28.
+
+O permissionário desvinculado do sistema por renúncia, transferência ou cassação regulamentar, só poderá pleitear nova permissão após o prazo mínimo de 24 (vinte e quatro) meses, contado da baixa do cadastro da permissão anterior.
+
+
+#### CAPÍTULO V — DA RENOVAÇÃO
+
+
+Art. 29.
+
+A prestação de STPPT/CSA fica sujeita à prévia expedição de Alvará específico para o veículo com a prévia expedição de Termo de Permissão e Carteira de Identificação, para os permissionários e condutores auxiliares preenchidos todos os requisitos desta Lei; documentos de porte obrigatório no interior do veículo que deverão ser renovados anualmente pelos permissionários perante a Prefeitura.
+
+
+§ 1º
+
+Após a conclusão a primeira renovação realizado posterior à aprovação desta Lei, será emitido:
+
+
+a)
+
+Termo de Permissão e Alvará para exploração do STPPT/CSA para os permissionários regularizados e condutores auxiliares;
+
+
+b)
+
+Carteira de Identificação ;
+
+
+§ 2º
+
+Quando da transferência de permissionários, da substituição de veículos e da renovação anual, os Termos de Permissão para exploração do STPPT/CSA, deverão ser renovados para atualização dos registros.
+
+
+§ 3º
+
+Após aprovação desta Lei, feito a primeira renovação, será obrigatório o uso no interior do veículo, do Termo de Credenciamento para exploração dos STPPT/CSA, e da Carteira de Identificação por parte dos permissionários e condutores auxiliares.
+
+
+§ 4º
+
+A constatação da inobservância do disposto no § 3º, acima, implicará aplicação da medida administrativa de apreensão do veículo até o recolhimento ao Município de multa devidamente comprovada, correspondente ao valor de 1.000 (mil) bandeiradas.
+
+
+Art. 30.
+
+A Prefeitura Municipal do Cabo de Santo Agostinho poderá proceder a renovação dos permissionários e dos condutores auxiliares a qualquer tempo.
+
+
+Art. 31.
+
+A permissão para prestação do serviço de táxi no município do Cabo de Santo Agostinho será outorgada em caráter personalíssimo, temporário, precário e impenhorável, observando-se as datas, critérios, conceitos e regras a serem estabelecidos em edital a ser pulicado pela SMDS, observadas as exigências e os critérios de seleção constantes na regulamentação desta Lei.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.706, de 31 de março de 2022.
+
+
+§ 1º
+
+O Termo de Permissão é ato unilateral e discricionário e pode ser cassado, revogado ou modificado a qualquer tempo pelo Poder Executivo Municipal;
+
+
+§ 2º
+
+O cancelamento do Termo de Permissão, por parte do Poder Executivo Municipal, poderá ocorrer a qualquer tempo, proposta pela SMDS, quando se configure a infração do Permissionário ou seus prepostos às normas e regulamentos em vigor, assegurado o devido processo legal, observadas disposições do Capítulo IV desta lei;
+
+
+Art. 32.
+
+A atividade profissional de que trata o art. 1o, somente será exercida por autônomos e condutores auxiliares que atendam integralmente aos requisitos e às condições abaixo estabelecidos:
+
+
+I –
+
+habilitação para conduzir veículo automotor, em uma das categorias B, C, D ou E, assim definidas no art. 143 da Lei no 9.503, de 23 de setembro de 1997;
+
+
+II –
+
+curso de relações humanas, direção defensiva, primeiros socorros, mecânica e elétrica básica de veículos, promovido por entidade reconhecida pelo respectivo órgão autorizatário;
+
+
+III –
+
+veículo com as características exigidas no capítulo III desta lei;
+
+
+IV –
+
+certificação específica para exercer a profissão, emitida pelo órgão competente da localidade da prestação do serviço;
+
+
+V –
+
+inscrição como segurado do Instituto Nacional de Seguridade Social - INSS, ainda que exerça a profissão na condição de taxista autônomo ou taxista auxiliar de condutor autônomo; e
+
+
+VI –
+
+Carteira de Trabalho e Previdência Social - CTPS, para o profissional taxista empregado.
+
+
+Art. 33.
+
+O Edital de seleção para a prestação do Serviço de Táxi deverá conter, além das exigências nele especificadas, os seguintes documentos e requisitos a serem preenchidos pelos interessados na outorga de Permissão:
+
+
+I –
+
+preenchimento de todos os requisitos constantes no artigo anterior desta lei;
+
+
+II –
+
+ser proprietário ou arrendatário do veículo a ser utilizado na prestação do serviço;
+
+
+III –
+
+comprovação de regularidade perante o fisco municipal e inscrição no CIM como autônomo, prevendo maior pontuação para aqueles que se inscreveram primeiro no fisco;
+
+
+IV –
+
+comprovação de regularidade perante a Previdência Social;
+
+
+V –
+
+quitação militar (sexo masculino) e eleitoral;
+
+
+VI –
+
+comprovante de residência no município do Cabo de Santo Agostinho, em nome do permissionário (conta de água, luz ou telefone fixo) ou declaração de residência preenchida em formulário próprio;
+
+
+VII –
+
+2 (duas) fotos de identificação, no tamanho 3x4;
+
+
+VIII –
+
+Certidão Negativa de Registro e Distribuição Estadual e Federal, para os crimes contra a vida (homicídio; induzimento, instigação ou auxílio a suicídio; infanticídio; aborto), roubo, furto, estupro, corrupção de menores, tráfico de entorpecentes e sequestro, bem como suas tentativas;
+
+
+Parágrafo único
+
+Fica assegurada a participação do Poder Executivo, por meio da Secretaria Municipal de Defesa Social, da Câmara Municipal do Cabo de Santo Agostinho, do Ministério Público, de representantes dos atuais taxistas e de representantes dos taxistas autônomos, no processo de elaboração do edital de seleção a que se refere o caput deste artigo. (NR)
+
+
+Art. 34.
+
+O Permissionário terá o prazo preclusivo de 60 dias, contado a partir da assinatura do recebimento do termo de Permissão, para apresentar o veículo nas condições previstas nesta Lei, de modo a obter a competente licença.
+
+
+Parágrafo único
+
+A não apresentação do veículo no prazo assinalado ou a apresentação fora das exigências regulamentares, importará na revogação de pleno direito da permissão, independentemente de notificação de qualquer natureza.
+
+
+Art. 35.
+
+Os atuais permissionários de táxi que pretenderem manter-se no sistema deverão apresentar, no prazo de 150 dias, a contar da publicação desta Lei, os documentos comprobatórios do atendimento aos requisitos previstos na presente Lei para prestação de serviço.
+
+
+§ 1º
+
+O não cumprimento ao disposto no *caput* deste artigo importará na caducidade da permissão.
+
+
+§ 2º
+
+Os atuais permissionários que se adequarem ao previsto nesta Lei receberão novo alvará e terão sua permissão concedida pelo mesmo prazo fixado no parágrafo único do artigo 4º, da presente lei.
+
+
+Art. 36.
+
+Os condutores auxiliares deverão reunir os mesmos requisitos requeridos aos permissionários no âmbito de sua inscrição ou do recadastramento.
+
+
+Art. 37.
+
+Na realização de renovação e transferências de permissões e substituições de veículos não serão admitidas procurações.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 38.
+
+Os condutores de táxis deverão trabalhar asseados e adequadamente trajados, ficando a Prefeitura Municipal do Cabo de Santo Agostinho autorizada a baixar respectivas normas disciplinares.
+
+
+Art. 39.
+
+O Poder Executivo regulamentará a presente Lei no prazo máximo de 60 (sessenta) dias, contados da sua publicação.
+
+
+Art. 40.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 41.
+
+Ficam revogadas as Lei Municipais nº 2.424/2007 e nº 2.905/2012.
+
+
+Palácio Conde da Boa Vista, em **21 de novembro de 2014.**
+
+***JOSÉ IVALDO GOMES***
+
+Prefeito
+
+***TATIANA CAVALCANTI GONÇALVES GUERRA***
+
+Secretária Municipal de Assuntos Jurídicos
+
+***JOSÉ CARLOS LEANDRO***
+
+Secretaria Municipal de Defesa Social
+
+***LUSIVAN SEVERINO DE OLIVEIRA***
+
+Secretario Municipal de Gestão Pública
+
+“Lei decorrente do Projeto de Lei à Sanção nº 065/2014, originário do Anteprojeto de Lei nº 13/2014, de autoria do Poder Executivo.”
+

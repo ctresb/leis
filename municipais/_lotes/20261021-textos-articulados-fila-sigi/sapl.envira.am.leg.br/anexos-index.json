@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/lei_organica_do_municipio_de_envira_atualizada_ate_a_emenda_no_04.2026.pdf da norma Emenda à Lei Orgânica Municipal nº 4, de 21 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.envira.am.leg.br/media/sapl/public/anexonormajuridica/2026/1/lei_organica_do_municipio_de_envira_atualizada_ate_a_emenda_no_04.2026.pdf",
+      "ano": 2026,
+      "norma": 2
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/2/lei_organica_do_municipio_de_envira_atualizada_ate_a_emenda_no_04.2026.pdf da norma Lei Orgânica Municipal nº 1, de 04 de maio de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.envira.am.leg.br/media/sapl/public/anexonormajuridica/1995/2/lei_organica_do_municipio_de_envira_atualizada_ate_a_emenda_no_04.2026.pdf",
+      "ano": 1995,
+      "norma": 1
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.envira.am.leg.br/2ca17a373d745431c15441c97ee8c707893d8854af2268f0afb8afe2487c30bb.json",
+      "url": "https://sapl.envira.am.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.envira.am.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "29b6b4db9bd6c1e4278f0ea8a78037c09af043e717841c2ac3b71348ef24f0f5",
+      "bytes": 1158,
+      "capturado_em": "2026-10-28T10:28:10.137056-03:00"
+    }
+  ]
+}

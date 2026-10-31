@@ -1,0 +1,157 @@
+---
+titulo: "Lei nº 1.946, de 05 de setembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1946"
+data: "2024-09-05"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2025-02-26; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/2277"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/512/text"
+sha256_fonte: "6406e28bc32dc6cac0cb4faeb59b48cc323c3043b92303fb95716d9691711730"
+sha256_texto: "3355b20e5c25f6bd957ea4cbbbe77a3086cf6d34973f5335459a88361435ca59"
+capturado_em_fonte: "2026-10-28T09:37:54.558701-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.946, de 05 de setembro de 2024
+
+Institui o programa "Jovem Aprendiz" no âmbito do Poder Executivo do Município de Cunha.
+
+
+JOSÉ ÉDER GALDINO DA COSTA. Prefeito da Estância Turística de Cunha, Estado de São Paulo, no uso de suas atribuições legais e regimentais, elabora e submete ao plenário, para discussão e deliberação, o presente projeto de lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município da Estância Turística de Cunha, o programa "Jovem Aprendiz".
+
+
+Parágrafo único
+
+Fica o Poder Executivo autorizado a celebrar convênio e seus respectivos termos aditivos com o CIEE - Centro de Integração Empresa-Escola, para implementar o Programa Municipal Jovem Aprendiz, estabelecendo cooperação recíproca entre as partes, visando o desenvolvimento de atividades conjuntas que propiciem a promoção da integração do Aprendiz ao mercado de trabalho e a sua formação para o trabalho, nos termos da Constituição Federal.
+
+Inclusão feita pelo Art. 1º. - Lei nº 1.963, de 26 de fevereiro de 2025.
+
+
+Art. 2º.
+
+Aprendiz é o maior de 14 (catorze) anos e menor de 24 [vinte e quatro) anos, que celebra contrato de aprendizagem de acordo com os ditames do artigo 428 da Consolidação das Leis do Trabalho (Decreto-lei nº 5.452, de 1º de maio de 1993).
+
+
+Art. 3º.
+
+Contrato de aprendizagem é o contrato de trabalho especial, ajustado por escrito e por prazo determinado, não superior a 2 (dois) anos, em que o empregador se compromete a assegurar ao aprendiz inscrito em programa de aprendizagem, uma formação técnico-profissional metódica, compatível com o seu desenvolvimento físico, moral e psicológico, e o aprendiz se compromete a executar com zelo e diligência as tarefas necessárias a essa formação.
+
+
+Parágrafo único
+
+Excetua-se ao prazo estipulado no caput, o aprendiz que for pessoa com deficiência, nos termos do §3º do art. 428 da CLT.
+
+
+Art. 4º.
+
+O programa de que trata esta Lei será direcionado a adolescentes e jovens com idade entre 14 (catorze) e 24 (vinte e quatro) anos, oriundos de famílias de baixa renda, que estejam cursando a educação básica ou já tenham concluído o ensino médio e atendam as seguintes condições:
+
+
+I –
+
+matrícula e frequência regular do aprendiz em escola da rede pública municipal, estadual ou bolsista integral da rede privada, caso não tenha concluído a educação básica;
+
+
+II –
+
+não manter qualquer tipo de vínculo empregatício ou prestação de serviço normal;
+
+
+III –
+
+comprovar ser residente no Município de Cunha:
+
+
+IV –
+
+jovens e adolescentes cujas famílias e o mesmo estejam inscritos no Cadastro Único.
+
+
+§ 1º
+
+A contratação de aprendizes deverá atender, prioritariamente, aos adolescentes com idade entre quatorze e dezoito anos, sendo assegurado a estes o respeito o sua condição peculiar de pessoa em desenvolvimento.
+
+
+§ 2º
+
+A idade máxima prevista no caput deste artigo não se aplica aos aprendizes com deficiência.
+
+
+§ 3º
+
+O disposto no inc. IV deste artigo não se aplica aos adolescentes em situação de acolhimento institucional com idade entre 14 anos e inferior a 16 anos, observado o disposto no art. 5º, inc. IV, alínea a, do Decreto Federal nº 11.016, de 29 de março de 2022, que regulamenta o Cadastro Único para Programas Sociais do Governo Federal.
+
+
+Art. 5º.
+
+Dentre os jovens e adolescentes que atendam aos critérios descritos no artigo anterior, terão prioridade os que se encontrem em situação de vulnerabilidade ou risco social, tais como:
+
+
+I –
+
+adolescentes egressos do sistema socioeducativa ou em cumprimento de medidas socioeducativas;
+
+
+II –
+
+jovens e adolescentes cujas famílias sejam beneficiários de programas de transferência de renda;
+
+
+III –
+
+jovens e adolescentes em situação de acolhimento institucional;
+
+
+IV –
+
+jovens e adolescentes egressos do trabalho infantil:
+
+
+V –
+
+jovens e adolescentes com deficiência;
+
+
+VI –
+
+jovens e adolescentes matriculados em instituição de ensino da rede pública, em nível fundamental, médio regular ou médio técnico, incluída a modalidade de educação de jovens e adultos; e
+
+
+VII –
+
+jovens desempregados e com ensino fundamental ou médio concluído em instituição de ensino da rede pública.
+
+
+Art. 6º.
+
+Fica o Poder Executivo autorizado a contratar 19 (dezenove) vagas de jovens aprendiz.
+
+
+Art. 7º.
+
+Fica o Poder Executivo autorizado a regulamentar a presente lei.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+PM. de Cunha, 05 de setembro de 2024
+
+José Éder Galdino da Costa
+
+Prefeito Municipal
+

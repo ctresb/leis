@@ -1,0 +1,58 @@
+Dispõe sobre a autorização para efetuar a transposição, o remanejamento ou a transferência das fontes de recursos constantes na Lei Orçamentária Anual de 2022 e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 10/22, de autoria do Prefeito Municipal, aprovado em 4 de abril de 2022.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal, autorizado a efetuar a transposição, o remanejamento ou a transferência das fontes de recursos de uma categoria de programação para outra, constantes na Lei Orçamentária Anual de 2022, aprovado pela Lei nº 724, de 20 de dezembro de 2021, de acordo com o Inciso VI, Art. 167, da Constituição Federal e artigo 66 da Lei nº 4.320/64 no valor de R$ 12.000.000,00 (doze milhões de reais).
+
+
+Parágrafo único.
+
+A classificação orçamentária e programática, para atender o objeto deste artigo, está evidenciada no Anexo I e II deste projeto de Lei.
+
+
+Art. 2º.
+
+Para acorrer às despesas orçamentárias com abertura do Crédito Adicional de que trata esta Lei, serão utilizados os recursos previstos no §1º do art. 43 da Lei Federal nº 4.320/64, especificados, detalhadamente, no Decreto de abertura do crédito.
+
+
+Art. 3º.
+
+Fica autorizado o setor de contabilidade realizar as alterações necessárias à adequação do PPA - Plano Plurianual 2022/2025, LDO - Lei de Diretrizes Orçamentárias de 2022, e LOA - Lei Orçamentária Anual de 2022, a fim de contemplar as ações alteradas neste Projeto de Lei.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 06 de abril de 2022
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 21, de 04 de janeiro de 2021.
+
+
+## Anexo I — detalhamento da dotação a ser suplementada no orçamento municipal
+
+
+<table><tbody><tr><td colspan="6"><p><strong>SUPLEMENTAÇÕES</strong></p></td></tr><tr><td><p><strong>ORGÃO</strong></p></td><td><p><strong>Un.</strong></p></td><td><p><strong>DOTAÇÃO</strong></p></td><td><p><strong>NATUREZA</strong></p></td><td><p><strong>FICHA</strong></p></td><td><p> <strong>VALOR </strong></p></td></tr><tr><td><p>02 - CAMARA MUNICIPAL </p></td><td><p>20</p></td><td><p>01.031.0100.2.300</p></td><td><p>3.1.90.11.00-100</p></td><td><p>268</p></td><td><p>        400.000,00 </p></td></tr><tr><td colspan="5"><p><strong>TOTAL - MANUTENCAO DA CAMARA MUNICIPAL</strong></p></td><td><p>       <strong>400.000,00 </strong></p></td></tr><tr><td><p>02 - CAMARA MUNICIPAL </p></td><td><p>20</p></td><td><p>01.031.0100.2.301 </p></td><td><p>3.1.90.11.00-100</p></td><td><p>282</p></td><td><p>        600.000,00 </p></td></tr><tr><td><p>02 - CAMARA MUNICIPAL </p></td><td><p>20</p></td><td><p>01.031.0100.2.301 </p></td><td><p>3.1.90.13.00-100</p></td><td><p>283</p></td><td><p>        360.477,36 </p></td></tr><tr><td colspan="5"><p><strong>TOTAL - MANUTENÇÃO DAS ATIVIDADES DO PLENÁRIO</strong></p></td><td><p>       <strong>960.477,36 </strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL DE SUPLEMENTAÇÃO DA CÂMARA MUNICIPAL</strong></p></td><td><p>     <strong>1.360.477,36 </strong></p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>ORGÃO</strong></p></td><td><p><strong>Un.</strong></p></td><td><p><strong>DOTAÇÃO</strong></p></td><td><p><strong>NATUREZA</strong></p></td><td><p><strong>FICHA</strong></p></td><td><p> <strong>VALOR </strong></p></td></tr><tr><td><p>1 - PODER EXECUTIVO</p></td><td><p>51</p></td><td><p>15.451.0111.1.111 </p></td><td><p>3.3.90.30.00-100 </p></td><td><p>95</p></td><td><p>     6.739.522,64 </p></td></tr><tr><td><p>1 - PODER EXECUTIVO</p></td><td><p>51</p></td><td><p>15.451.0111.1.111 </p></td><td><p>4.4.90.51.00-100</p></td><td><p>96</p></td><td><p>     3.400.000,00 </p></td></tr><tr><td colspan="5"><p><strong>TOTAL - PAVIMENTAÇAO ASFALTICA</strong></p></td><td><p> <strong>10.139.522,64 </strong></p></td></tr><tr><td><p>5 - FMAS</p></td><td><p>6</p></td><td><p>04.122.0119.2.350</p></td><td><p>3.3.50.43.00-100</p></td><td><p>543</p></td><td><p>        500.000,00 </p></td></tr><tr><td colspan="5"><p><strong>TOTAL - SUBVENÇÕES SOCIAIS</strong></p></td><td><p>        <strong>500.000,00 </strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL DE SUPLEMENTAÇÕES</strong></p></td><td><p>  <strong>12.000.000,00 </strong></p></td></tr></tbody></table>
+
+
+## Anexo II — detalhamento da dotação a ser reduzida ao orçamento municipal
+
+
+<table><tbody><tr><td colspan="6"><p><strong>REDUÇÕES</strong></p></td></tr><tr><td><p><strong>ORGÃO</strong></p></td><td><p><strong>Un.</strong></p></td><td><p><strong>DOTAÇÃO</strong></p></td><td><p><strong>NATUREZA</strong></p></td><td><p><strong>FICHA</strong></p></td><td><p> <strong>VALOR </strong></p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.1.90.04.00-102</p></td><td><p>453</p></td><td><p>            5.384,04 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.1.90.11.00-102</p></td><td><p>454</p></td><td><p>      2.549.500,72 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.1.90.11.00-107</p></td><td><p>454</p></td><td><p>      1.198.845,97 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.14.00-102</p></td><td><p>455</p></td><td><p>           21.536,16 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.30.00-102</p></td><td><p>456</p></td><td><p>         277.037,45 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.30.00-107</p></td><td><p>456</p></td><td><p>         662.619,39 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.34.00-102</p></td><td><p>457</p></td><td><p>           10.768,08 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.35.00-102</p></td><td><p>458</p></td><td><p>           10.768,08 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.36.00-102</p></td><td><p>459</p></td><td><p>         631.565,52 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.36.00-107</p></td><td><p>459</p></td><td><p>         248.816,49 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.39.00-102</p></td><td><p>460</p></td><td><p>         682.499,40 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.39.00-107</p></td><td><p>460</p></td><td><p>         525.138,12 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.370</p></td><td><p>3.3.90.92.00-102</p></td><td><p>461</p></td><td><p>           26.920,19 </p></td></tr><tr><td colspan="5"><p><strong>TOTAL - MANUTENÇÃO DO HOSPITAL MUNICIPAL</strong></p></td><td><p>      <strong>6.851.399,61 </strong></p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.1.90.04.00-102</p></td><td><p>435</p></td><td><p>            5.384,04 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.1.90.11.00-102</p></td><td><p>436</p></td><td><p>           86.144,62 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.1.90.11.00-107</p></td><td><p>436</p></td><td><p>         236.897,71 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.1.90.34.00-102</p></td><td><p>437</p></td><td><p>            8.076,06 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.14.00-102</p></td><td><p>438</p></td><td><p>            2.692,02 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.30.00-102</p></td><td><p>439</p></td><td><p>           26.920,19 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.30.00-107</p></td><td><p>439</p></td><td><p>           80.760,58 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.35.00-102</p></td><td><p>440</p></td><td><p>            2.692,02 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.36.00-102</p></td><td><p>441</p></td><td><p>         835.898,41 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.36.00-107</p></td><td><p>441</p></td><td><p>      1.016.633,21 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.39.00-102</p></td><td><p>442</p></td><td><p>      1.685.731,99 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.39.00-107</p></td><td><p>442</p></td><td><p>      1.158.077,52 </p></td></tr><tr><td><p> 4 - FUNDO MUNICIPAL DE SAÚDE</p></td><td><p>11</p></td><td><p>10.302.0123.2.368</p></td><td><p>3.3.90.92.00-102</p></td><td><p>443</p></td><td><p>            2.692,02 </p></td></tr><tr><td colspan="5"><p><strong>TOTAL - MANUTENÇÃO DO CENTRO CIRÚRGICO</strong></p></td><td><p><strong>5.148.600,39 </strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL DE REDUÇÕES</strong></p></td><td><p>     <strong>12.000.000,00 </strong></p></td></tr></tbody></table>

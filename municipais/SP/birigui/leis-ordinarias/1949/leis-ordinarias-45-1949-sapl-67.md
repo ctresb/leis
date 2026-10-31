@@ -1,0 +1,238 @@
+---
+titulo: "Lei Ordinária nº 45, de 09 de junho de 1949"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "45"
+data: "1949-06-09"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/67"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2655/text"
+sha256_fonte: "5ef6f8e902a008115881cfb10edd2cf14be109f21777a78cf1237dde6ff24211"
+sha256_texto: "45ab5128edf4e6bf915584e1ad3d356246528b59482d6dc11ae2ae2bf77a40d2"
+capturado_em_fonte: "2026-10-27T19:37:40.378686-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 45, de 09 de junho de 1949
+
+REFORMA DE CONTRATO DE SERVIÇOS TELEFÔNICOS, ENTRE A MUNICIPALIDADE DE BIRIGUÍ E A EMPRESA TELEFÔNICA DE RIO PRETO.
+
+
+**JOSÉ XAVIER SOARES**, Prefeito Municipal de Biriguí, Estado de São Paulo, etc.
+
+FAÇO SABER que a Câmara Municipal decretou e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Prefeitura Municipal de Birigui, autorizada a contratar com a Emprêsa Telefônica de Rio Preto, a reforma e prorrogação de contrato de serviços telefônicos, na conformidade das cláusulas seguintes:
+
+
+CLÁUSULA I
+
+
+A Câmara Municipal de Biriguí concede à Emprêsa Telefônica de Rio Preto, durante o prazo de vinte anos, a contar da data da assinatura do presente contrato, o seguinte:
+
+
+1º) O direito exclusivo de explorar o serviço telefônico na cidade de Biriguí, seus subúrbios e distritos, com suas rêdes, instalações e aparelhos;
+
+
+2º) Para executar os serviços acima aludidos, a Emprêsa terá os favores constantes de leis e regulamentos e os seguintes direitos:
+
+
+a) Ocupar gratuitamente quaesquer ruas, praças, estradas, caminhos e outros logradouros públicos, em todo o território do Município, para instalação e conservação de seus postes, linhas, cabos aéreos ou subterrâneos, suportes, encanamentos e quaesquer obras pertencentes ao serviço, desde que não prejudique ou danifique outros serviços de obras públicas, com prévia licença da Prefeitura Municipal;
+
+
+b) Desapropriar, por utilidade pública, na forma da lei, por intermédio da Municipalidade em qualquer ponto do território do Município, os bens necessários à execução do presente contrato, correndo por conta da Emprêsa as respectivas indenisações;
+
+
+c) Cortar ou podar as árvores existentes nas vias públicas, no trajeto de suas linhas, quando possam trazer embaraços ou interrupções ao serviço telefônico, solicitando, nos casos necessários, prévia licença dos proprietários ou da Prefeitura Municipal, não podendo, todavia, estes, conservarem-se inertes ao caso;
+
+
+d) Isenção do Imposto de Indústrias e Profissões, Predial da Séde da Emprêsa e de Licença de um veículo;
+
+
+e) Diligenciar do Estado as providências necessárias para que a Emprêsa possa conseguir, do Govêrno Federal, isenção ou redução de direitos para importação de todo o material utilizado nos serviços telefônicos previstos neste contrato, observada a legislação aplicável.
+
+
+CLÁUSULA II
+
+
+A Emprêsa assume a obrigação de:
+
+
+a) Fornecer, durante o prazo deste contrato, um serviço telefônico perfeito, empregando o sistema semi-automático (bateria central), mantendo e conservando as suas instalações, bem como ampliando-as de conformidade com o desenvolvimento da cidade, dentro dos perímetros urbano e suburbano;
+
+
+b) As linhas rurais, como sejam fazendas e sítios fóra do perímetro suburbano, continuarão mantidas pelo atual sistema magneto, devido as obrigações técnicas.
+
+
+CLÁUSULA III
+
+
+A Emprêsa fornecerá seis assinaturas gratuitamente à Prefeitura Municipal, aparelhos esses que serão instalados a juízo da Prefeitura e onde esta julgar conveniente, mas dentro do perímetro urbano.
+
+
+CLÁUSULA IV
+
+
+A Emprêsa compromete-se a instalar, de início, um equipamento para atender a seiscentos assinantes, comprometendo-se, ainda, a aumentar a capacidade dessa instalação inicial, na medida das necessidades do desenvolvimento da cidade; essa instalação constará de cabos aéreos, os quais serão distribuídos na cidade, de conformidade com as normas e exigências técnicas dos tipos mais aperfeiçoados, bem como de mesas de ligações das mais modernas, de natureza idêntica à que se refere a cláusula II.
+
+
+CLÁUSULA V
+
+
+A Emprêsa, por questões técnicas, poderá fazer instalações subterrâneas, mediante licença da Prefeitura, devendo esta facilitar esses trabalhos, tendo em vista as canalizações de luz, águas e esgotos.
+
+
+CLÁUSULA VI
+
+
+Os aparelhos telefônicos serão fornecidos pela Emprêsa concessionária, sem pagamento de aluguel e serão sempre de sua propriedade. A manutenção dos mesmos será feita pela Emprêsa, salvo, porém, os danos ocasionados pelo próprio assinante, pelos quais este responderá. Em hipótese alguma será permitido ao assinante instalar telefone de sua propriedade ou mesmo substituír o existente fornecido pela Emprêsa.
+
+
+CLÁUSULA VII
+
+
+É vedado ao assinante intervir na mecânica do aparelho telefônico de seu uso e acessórios de seu funcionamento, ou permitir que o façam pessôas alheias aos serviços da Emprêsa, ou realizar, à revelia da Emprêsa, qualquer alteração na suas instalações telefônicas. A infração deste dispositivo, devidamente comprovada, dará à Emprêsa o direito de suspender os serviços, desligar e retirar o aparelho telefônico, seus acessórios e linhas de extensão, cobnrando do assinante faltoso os prejuízos resultantes da infração.
+
+
+CLÁUSULA VIII
+
+
+Os preços mensais de assinatura dos serviços urbanos e suburbanos na cidade de Biriguí, serão os seguintes:
+
+
+a) Cr$ 50,00 para as residências, hospitais e casas de caridade;
+
+
+b) Cr$ 70,00 para o comércio varejista;
+
+
+c) Cr$ 80,00 para o comércio atacadista, máquinas, fábricas, hotéis, bares, clubes, drogarias, pontos de automóveis de aluguel e de charretes, bancos, farmácias e fazendas;
+
+
+d) Cr$ 50,00 para reeligação;
+
+
+e) Cr$ 5,00 mensais para conservações de linhas de fazendas, por quilômetro, ficando o mesmo isento de qualquer pagamento se fizer a conservação por sua conta, em linhas de sua propriedade;
+
+
+f) Cr$ 20,00 para telefones de extensão;
+
+
+g) Cr$ 50,00 para mudança interna e mais o material empregado;
+
+
+h) Cr$ 100,00 para mudança externa e mais o material empregado;
+
+
+i) Cr$ 50,00 para transferência de assinatura.
+
+
+CLÁUSULA IX
+
+
+A Emprêsa ficará obrigada a fornecer o orçamento do material empregado nas instalações, ligações, reeligações e mudanças de aparelhos, ao preço corrente, com recurso à Prefeitura Municipal, no caso de reclamações.
+
+
+CLÁUSULA X
+
+
+Para instalações especiais ou quaesquer serviços, cujos preços ou taxas não se acham previstos neste contrato, o interessado pagará o que for ajustado entre êle e a Emprêsa, com recurso à Prefeitura Municipal, no caso de divergência.
+
+
+CLÁUSULA XI
+
+
+Os pagamentos serão feitos no escritório da Emprêsa, até o dia dez de cada mês subsequente ao vencido, acrescentando-se dez por cento para os que excederem esse prazo. Todas as contas atinentes aos serviços prestados pela Emprêsa, que não forem liquidadas no prazo de sessenta dias, dará à Emprêsa o direito de retirar o aparelho telefônico e seus acessórios. O assinante, cuja linha tenha sido desligada por falta de pagamento, não terá direito a nova ligação, no mesmo ou em outro prédio ou local, antes de saldar o seu débito e pagar a taxa de ligação, estipulada na cláusula VIII.
+
+
+CLÁUSULA XII
+
+
+Serão as seguintes as taxas para as presentes e futuras instalações:
+
+
+a) Instalações existentes: os assinantes pagarão para a conversão do sistema de magneto para o de bateria central, o custo do material empregado desde a caixa terminal até o aparelho;
+
+
+b) Os novos assinantes, dentro dos perímetros urbano e suburbano, pagarão uma taxa de Cr$ 100,00 e mais o material empregado desde a caixa de distribuição até o aparelho.
+
+
+CLÁUSULA XIII
+
+
+O presente contrato, mediante licença prévia da Prefeitura, poderá ser transferido no seu todo ou em parte, *ad-referendum* da Câmara Municipal.
+
+
+CLÁUSULA XIV
+
+
+a) O presente contrato entrará em vigôr na data de sua assinatura e o seu prazo será de vinte anos, a contar dessa data. Findo esse prazo, terá a Emprêsa preferência de concessão na renovação do contrato, em igualdade de proposta com terceiros;
+
+
+b) A Emprêsa entregará o serviço a este Município em perfeito estado, de acôrdo com as normas ordinárias de serviços de tal natureza, introduzindo no mesmo os melhoramentos que forem necessários á sua perfeição e sua pontualidade, tão logo esteja assinado, entre ela e a Municipalidade, o contrato de concessão.
+
+
+CLÁUSULA XV
+
+
+a) Findo o prazo do presente contrato e não sendo possível a sua renovação, caberá à Prefeitura a encampação de todos os bens e instalações da Emprêsa, aplicados nos serviços de que cogita o presente contrato, mediante sua justa indenização;
+
+
+b) A indenização constituirá no pagamento integral por avaliação, preço atual da época, si antes não for êle fixado por mútuo acôrdo e, na falta destes, por um juizo arbitral;
+
+
+c) Enquanto não for a Emprêsa indenizada, de acôrdo com esta cláusula, continuará ela na posse e administração dos bens e instalações e na exploração do serviço telefônico, nos têrmos previstos neste contrato.
+
+
+CLÁUSULA XVI
+
+
+a) Na infração de quaesquer das cláusulas do presente contrato, caberá à Prefeitura intervir criteriósamente junto ao concessionário;
+
+
+b) As questões que surgirem entre a Municipalidade e o concessionário, sobre a interpretação do presente contrato, serão decididas por um juízo arbitral, devendo os arbitradores ser profissionais;
+
+
+c) Fica eleito o Fôro da Comarca de Biriguí, para as questões oriundas do presente contrato.
+
+
+CLÁUSULA XVII
+
+
+A Emprêsa iniciará as suas instalações trinta dias após a assinatura deste, entregando o serviço acabado ao público, durante o prazo de doze mezes, salvo motivo de força maiór, quando então entrarão em vigôr as novas taxas constantes do presente contrato.
+
+
+CLÁUSULA XVIII
+
+
+No caso de não cumprimento do estatuído na cláusula anterior, incorrerá a Emprêsa na multa de Cr$ 20.000,00.
+
+
+CLÁUSULA XIX
+
+
+A Concessionária é obrigada a manter um livro especial de “RECLAMAÇÕES”, onde os assinantes registrarão as falhas técnicas de seus aparelhos e dentro de sessenta horas a Emprêsa é obrigada a solucionar os casos registrados.
+
+
+Art. 2º.
+
+Esta lei entrará em vigôr na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos nove de junho de mil novecentos e quarenta e nove.
+
+**JOSÉ XAVIER SOARES Prefeito Municipal**
+
+Publicada na Secretaría da Prefeitura, na mesma data.
+
+**ALFREDO GALEOTTI Secretário da Prefeitura**
+

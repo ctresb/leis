@@ -1,0 +1,105 @@
+---
+titulo: "Lei nº 2.427, de 04 de outubro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2427"
+data: "2017-10-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2024-04-04; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/793"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2226/text"
+sha256_fonte: "7a3aecf5058b4a38dc018172af83e033d00d6cf2ad9661a5aab0d30b5bafc528"
+sha256_texto: "aadfc259aff0b6d4d06ce5072d373aa590416d17f760a99f66bd77591bb0d40b"
+capturado_em_fonte: "2026-10-27T20:40:53.182590-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.427, de 04 de outubro de 2017
+
+“Institui a obrigatoriedade da realização de audiência pública antes de reajustes de tarifas de serviços públicos e tributos municipais e dá outras providências”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, no uso das atribuições que lhe confere os §§ 4º e 6º, do artigo 72 da Lei Orgânica do Município, combinado com os §§ 4º e 6º, do art. 165 da Resolução nº. 254/CMPV-91 - REGIMENTO INTERNO PROMULGA a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+As empresas prestadoras de serviços públicos municipais, por regimento de concessão ou não, de água, saneamento, transporte, comunicações, energia, limpeza urbana, saúde e qualquer outro serviço público, privatizado ou não, são obrigadas a realizar, com a Prefeitura Municipal de Porto Velho, previamente à revisão de tarifas ou preços, audiências com os usuários destes serviços para expor e fundamentar detalhadamente as razões que justificariam o referido aumento.
+
+Alteração feita pelo Art. 76. - Lei Complementar nº 985, de 04 de abril de 2024.
+
+
+§ 1º
+
+As audiências públicas referidas no caput deste artigo deverão ser convocadas oportunamente pela Prefeitura Municipal de Porto Velho, juntamente com as empresas prestadoras de serviços públicos através de editais divulgados nos meios de comunicação.
+
+
+§ 2º
+
+Os editais de convocação das audiências públicas referidas no parágrafo anterior devem ser divulgados com uma antecedência mínima de quinze dias e reiterados ao longo de um período de pelo menos três dias até a véspera da realização da audiência, de maneira a assegurar aos usuários dos serviços na área de atuação da empresa o conhecimento antecipado da data, horário, local e objeto da audiência pública.
+
+
+§ 3º
+
+As empresas prestadoras de serviços públicos municipais conforme artigo 1º, quando seja o caso, deverão também anunciar oportunamente nas contas enviadas aos usuários de seus serviços sua intenção de solicitar qualquer aumento das tarifas cobradas e a data fixada para a realização da correspondente audiência pública.
+
+
+§ 4º
+
+A Câmara de Vereadores e a Promotoria de Defesa do Consumidor deverão ser previamente comunicadas quando da realização das referidas audiências públicas.
+
+
+§ 5º
+
+A regra contida no caput deste artigo não se aplica aos reajustes de tarifas e preços públicos realizados de acordo com as regras previstas nos respectivos contratos de delegação dos serviços públicos.
+
+Alteração feita pelo Art. 76. - Lei Complementar nº 985, de 04 de abril de 2024.
+
+
+Art. 2º.
+
+As empresas prestadoras de serviços públicos são obrigadas a fornecer aos usuários, por ocasião da realização das audiências públicas referidas no artigo 1º desta Lei, todas as informações quantitativas e qualitativas relativas à explicação e justificação do aumento proposto das tarifas ou preços praticados.
+
+
+Parágrafo único
+
+Na hipótese que os usuários considerem insuficientes as informações apresentadas conjuntamente pela Prefeitura e as empresas, estas deverão fornecer aos mesmos, em um prazo máximo de quinze dias contados a partir da data da realização da audiência pública correspondente, todas as informações complementares solicitadas para o atendimento do disposto no caput deste artigo.
+
+
+Art. 3º.
+
+Os conselhos municipais responsáveis pela supervisão, fiscalização e controle dos serviços públicos somente poderão aumentar ou autorizar o aumento das tarifas ou preços correspondentes após a comprovação do cumprimento do disposto nos artigos 1º e 2º desta Lei.
+
+
+Art. 4º.
+
+As despesas decorrentes desta Lei correrão por conta de dotação orçamentária própria.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 04 de outubro de 2017.
+
+**Vereador Maurício Carvalho**
+
+**Presidente**
+
+Projeto de Lei nº. 3.477/2017
+
+Ver. Maurício Carvalho - PSDB
+

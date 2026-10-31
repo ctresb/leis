@@ -1,0 +1,43 @@
+---
+titulo: "RESOLUÇÃO-LEG nº 4, de 28 de setembro de 2023"
+tipo: "Resolução"
+tipo_na_fonte: "RESOLUÇÃO"
+numero: "4"
+data: "2023-09-28"
+municipio: "Santa Lúcia"
+uf: "PR"
+codigo_ibge: "4123824"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.santalucia.pr.leg.br/norma/1285"
+fonte_texto: "https://sapl.santalucia.pr.leg.br/media/sapl/public/normajuridica/2023/1285/resolucao_04-2023.pdf"
+sha256_fonte: "dcb2beba690729166afe2076958d2a92207de0384cb5e566480d0ad39db5d067"
+sha256_texto: "460a181f6d71a6c6c609cd0dc83e2ec83581b491997985957693bb4ecda91062"
+baixado_em: "2026-10-20"
+---
+
+# RESOLUÇÃO-LEG nº 4, de 28 de setembro de 2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE SANTA LÚCIA Estado do Paraná MATA LÚCIA - PR 2023 Exercício: Resolução n° 04/2023 de 28/09/2023 Ementa: Abre Crédito Adicional Suplementar e dá outras providências.
+
+O Presidente da Câmara Municipal de Santa Lúcia, Estado do Paraná, no uso de suas atribuições legais e das que lhe foram conferidas pela Lei Orçamentária n° 1111/2022 de 14/12/2022, Resolve Artigo 1° - Fica aberto no corrente Exercício o Crédito Adicional Suplementar, no Orçamento Geral da Câmara Municipal, no valor de R$ 100.000,00 (cem mil reais), destinado ao reforço das seguintes Dotações Orçamentárias. Suplementação LEGISLATIVO MUNICIPAL 01.000.00.000.0000.0.000. CAMARA MUNICIPAL 01.001.00.000.0000.0.000. ATIVIDADES DO LEGISLATIVO MUNICIPAL 01.001.01.031.0001.2.002. 35.000,00 01001 DIÁRIAS - CIVIL 60 - 3.3.90.14.00.00 01001 OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA 65.000,00 100 - 3.3.90.39.00.00 Total suplementação: R$ 100.000,00 Artigo 2° - Para atender o disposto no Artigo 1° desta Resolução, servirá como recurso o Cancelamento de Dotações Orçamentárias, conforme discriminação abaixo, de acordo com o Artigo 43, § 1°, Inciso III da Lei Federal n° 4.320/64. Redução LEGISLATIVO MUNICIPAL 01.000.00.000.0000.0.000. CAMARA MUNICIPAL 01.001.00.000.0000.0.000. AQUISIÇÃO/INSTALAÇÃO DA SEDE DO LEGISLATIVO MUNICIPAL 01.001.01.031.0001.1.001. 01001 OBRAS E INSTALAÇÕES 10 - 4.4.90.51.00.00 1.000,00 01.001.01.031.0001.2.002. ATIVIDADES DO LEGISLATIVO MUNICIPAL 01001 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 53.000,00 30 - 3.1.90.11.00.00 01001 CONTRIBUIÇÕES PATRONAIS 15.000,00 40 - 3.1.90.13.00.00 01001 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 50 - 3.1.90.94.00.00 3.000,00 4.000,00 70 - 3.3.90.30.00.00 01001 MATERIAL DE CONSUMO 01001 PASSAGENS E DESPESAS COM LOCOMOÇÃO 8.000,00 80 - 3.3.90.33.00.00 5.000,00 01001 SERVIÇOS DE CONSULTORIA 90 - 3.3.90.35.00.00 11.000,00 01001 EQUIPAMENTOS E MATERIAL PERMANENTE 120 - 4.4.90.52.00.00 Total Redução: R$ 100.000,00
+
+CÂMARA MUNICIPAL DE SANTA LÚCIA Estado do Paraná Exercício: 2023 Artigo 3º - Esta resolução entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Edifício da Câmara Municipal de Santa Lúcia, Estado do Paraná, em 28 de Setembro de 2023. JOÃO ELTO RANGEL Presidente
+
+Paraná, 29 de Setembro de 2023 • Diário Oficial dos Municipios do Paraná • ANO XII | N° 2868 R$ 3.200,00 (Três Mil e Duzentos Reais). Prazo de Vigência: 27/09/2024. Prazo de Execução: 27/09/2024. Data da Assinatura: 28/09/2023. Prazo de Vigência: 27/09/2024. RENATO TONIDANDEL Prefeito Municipal Data da Assinatura: 28/09/2023. RENATO TONIDANDEL Publicado por: Edes Mota Tavares Código Identificador: 29700B08 Prefeito Municipal LEGISLATIVO MUNICIPAL RESOLUÇÃO N° 04/2023 DE 28/09/2023 Publicado por: Edes Mota Tavares Ementa: Abre Crédito Adicional Suplementar e dá Código Identificador: 48D24E42 outras providências. DEPARTAMENTO DE LICITAÇÕES E CONTRATOS CONTRATO N° 299/2023 CONTRATO DE FORNECIMENTO DE BENS / SERVIÇOS
+
+O Presidente da Câmara Municipal de Santa Lúcia, Estado do Paraná, no uso de suas atribuições legais e das que lhe foram conferidas pela
+
+Lei Orçamentária n° 1111/2022 de 14/12/2022, Ref. Licitação Pregão Eletrônico Nº45/2023. Resolve EXTRATO Artigo 1° - Fica aberto no corrente Exercício o Crédito Adicional Suplementar, no Orçamento Geral da Câmara Municipal, no valor de R$ 100,000,00 (cem mil reais), destinado ao reforço das seguintes Partes: Dotações Orçamentárias. Contratante: MUNICÍPIO DE SANTA LÚCIA: Suplementação Contratada: DPL. MATERIAIS DE CONSTRUÇÃO LTDA: 01.000.00.000.0000.0.000. LEGISLATTVO MUNICIPAL 01.001.00.000.0000.0.000. CAMARA MUNICIPAL 01.001.01.031.0001.2.002. ATTVIDADES DO LEGISLATIVO Objeto: MUNICIPAL Aquisição de material de construção para aplicação na Cobertura do 60 - 3.3.90.14.00.00 01001 DIÁRIAS - CIVIL 35.000,00 barracão Pátio de Máquinas, em atendimento as necessidades da Secretaria Municipal de Obras e Serviços Urbanos. 100 - 3.3.90.39.00.00 01001 OUTROS SERVIÇOS DE TERCEIROS PESSOA JURÍDICA 65.000.00 Valor: Total suplementação: R$ 100.000,00 R$ 30.463,40 (Trinta Mil, Quatrocentos e Sessenta e Três Reais e Quarenta Centavos). Artigo 2° - Para atender o disposto no Artigo 1° desta Resolução. Prazo de Execução: 27/09/2024. servirá como recurso o Cancelamento de Dotações Orçamentárias conforme discriminação abaixo, de acordo com o Artigo 43, § 1º. Inciso III da Lei Federal n° 4.320/64.
+
+www.diariomunicipal.com.br/amp
+
+Paraná. 29 de Setembro de 2023 • Diário Oficial dos Municípios do Paraná • ANO XII | N° 2868 www.diariomunicipal.com.br/amp Redução 01.000.00.000.0000.0.000. LEGISLATTVO MUNICIPAL 01.001.00.000.0000.0.000. CAMARA MUNICIPAL 01.001.01.031.0001.1.001. AQUISIÇÃO/INSTALAÇÃO DA SEDE DO LEGISLATIVO MUNICIPAL 10 - 4.4.90.51.00.00 01001 OBRAS E INSTALAÇÕES 1.000,00 01.001.01.031.0001.2.002. ATTVIDADES DO LEGISLATIVO MUNICIPAL 30 - 3.1.90.11.00.00 01001 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 53.000,00 40 - 3.1.90.13.00.00 01001 CONTRIBUIÇÕES PATRONAIS 15.000,00 50 - 3.1.90.94.00.00 01001 INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS 3.000,00 70 - 3.3.90.30.00.00 01001 MATERIAL DE CONSUMO 4.000,00 80 - 3.3.90.33.00.00 01001 PASSAGENS E DESPESAS COM LOCOMOÇÃO 8.000,00 90 - 3.3.90.35.00.00 01001 SERVIÇOS DE CONSULTORIA 5.000,00 120 - 4.4.90.52.00.00 01001 EQUIPAMENTOS E MATERIAL PERMANENTE 11.000,00 Total Redução: R$ 100.000,00 Artigo 3° - Esta resolução entrará em vigor na data de sua publicação. revogadas as disposições em contrário. Edifício da Câmara Municipal de Santa Lúcia, Estado do Paraná, em 28 de Setembro de 2023. JOÃO ELTO RANGEL Presidente Publicado por: Julia Nayra Dos Santos Moraes Código Identificador: B81C7DAE SECRETARIA DE ADMINISTRAÇÃO PROCESSO SELETIVO SIMPLIFICADO N° 001/2023 EDITAL 015/2023 - CONVOCAÇÃO O Prefeito Municipal de Santa Lúcia, Estado do Paraná, no uso de suas atribuições constitucionais e legais, e de conformidade com o disposto no artigo 37, inciso II da Constituição Federal, no artigo 68, inciso IV. da Lei Orgânica Municipal, de 18 de novembro 2014 e na
+
+Lei Municipal n. °590, de 29 de setembro de 2014 e de acordo com o Edital n° 001/2023 do Processo Seletivo Simplificado, e ainda: Considerando a Homologação dos Resultados do Processo Seletivo Simplificado, homologado em 20 de abril de 2023, RESOLVE
+
+**Art. 1º** CONVOCAR, os candidatos abaixo relacionados, para comparecer, no Departamento de Recursos Humanos desta Prefeitura, até dia 05 de outubro de 2023, munido dos documentos exigidos para investidura, conforme item 8 do edital 001/2023, a fim de tomar posse no cargo em que foi selecionado(a). NOME CARGO PROFESSOR ELIANIR ZAMPIERI MODENA SONILDA DE SOUZA PROFESSOR
+
+**Art. 2°** O não comparecimento do candidato convocado no prazo citado no artigo anterior implicara automaticamente em desistência ao Cargo concorrido Santa Lúcia, PR, 28 de setembro de 2023. RENATO TONIDANDEL Prefeito Municipal Publicado por: Luana Stracher França Código Identificador: C21D3434 SECRETARIA DE ADMINISTRAÇÃO O REPRESENTANTE LEGAL DO PODER EXECUTIVO DE SANTA LÚCIA/PR, NO EXERCICIO DE SUAS ATRIBUIÇÕES, TORNA PÚBLICO O PRESENTE EDITAL PARA DIVULGAR O QUE SEGUE 1. Homologação definitiva das inscrições: Após a análise do recurso interposto, ratifica-se a homologação preliminar de inscrições divulgada pelo Edital n° 04/2023, a qual passa a constar como homologação definitiva das inscrições. 1.1. O recorrente poderá consultar o parecer do seu recurso diretamente na área do candidato, no site www.objetivas.com.br. O parecer também se encontra disponível na Prefeitura Municipal de Santa Lúcia/PR. para consulta pública. 2. Convocação para a prova objetiva: Tendo em vista o quantitativo de inscritos e a indisponibilidade de locais suficientes na cidade de Santa Lúcia/PR, com fulcro no item 6.1.2.2 do Edital de Abertura das Inscrições, a prova objetiva será aplicada no Município de Capitão Leônidas Marques/PR, conforme as disposições da tabela abaixo:
+

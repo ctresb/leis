@@ -1,0 +1,95 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 665, de 19 de agosto de 2025"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "665"
+data: "2025-08-19"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2413"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1927/text"
+sha256_fonte: "55e30d9684501cae351b5e2f31264132d8f9705a5bbad36e840ae856e642ae00"
+sha256_texto: "0f0949a9d80f15383f79313fb31ac78c7bab3ad52e83b42a1d899ac2835b93f4"
+capturado_em_fonte: "2026-10-28T10:33:35.518603-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 665, de 19 de agosto de 2025
+
+O Prefeito do Município de Engenheiro Paulo de Frontin, no uso de suas atribuições legais, CONS IDERANDO, a competência da Secretaria Municipal de Agricultura e do Conselho Municipal de Desenvolvimento Rural Sustentável – CM DRS, na formulação, coordenação e articulação de políticas públicas e diretrizes, para promoção, fomento e fortalecimento de políticos públicas de produção e abastecimento alimentar; CONS IDERANDO, o disposto nas Resoluções no 15/2024 e 32/2025, do Conselho Nacional de Desenvolvimento Rural Sustentável
+
+
+– CNDRS, que norteia ser competência dos governos municipais, estaduais e distritais a realização das conferências municipais, intermunicipais, estaduais e distritais e definem o calendário nacional para a realização das etapas dos entes federativos; CONS IDERANDO, o resultado da reunião do pleno do Conselho Municipal de Desenvolvimento Rural Sustentável – CM DRS, realizada no dia 01 de julho de 2025, que aprovou a realização da Conferência no âmbito municipal.
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica convocada a 1ª Conferência Municipal de Desenvolvimento Rural Sustentável de Engenheiro Paulo de Frontin – 1ª CM DRSEPF, a ser realizada no dia 17 de setembro de 2025 às 12h:30, no Centro Cultural Herivelton Martins, com participação ampla da sociedade, tendo como tema central “Construindo uma Agenda Política de Transformação Agroecológica, para o Brasil Rural.”
+
+
+Parágrafo único
+
+São eixos temáticos principais que acompanham a temática:
+
+
+I –
+
+o papel do Brasil rural como resposta à emergência climática e outras crises globais;
+
+
+II –
+
+a transformação agroecológica dos sistemas alimentares e do Brasil rural;
+
+
+III –
+
+a democratização do acesso à terra, território e água;
+
+
+IV –
+
+o financiamento para o desenvolvimento rural sustentável;
+
+
+V –
+
+o Estado, a participação popular e as políticas públicas para o Brasil rural e,
+
+
+VI –
+
+soberania alimentar no contexto do Plano Municipal de Adaptação Climática.
+
+
+Art. 2º.
+
+O regimento interno da 1ª CM SDRSEPF será elaborado por comissão designada em Ato do Conselho Municipal de Desenvolvimento Rural e Sustentável.
+
+
+Art. 3º.
+
+As despesas com a organização e a realização da 1ª CM SDRSEPF correrão por conta de recursos orçamentários da Secretaria Municipal de Agricultura de Engenheiro Paulo de Frontin.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos ao dia 07 de julho de 2025.
+
+
+Engenheiro Paulo de Frontin, 19 de agosto de 2025.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

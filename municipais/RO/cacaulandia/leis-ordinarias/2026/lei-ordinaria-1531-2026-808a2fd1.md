@@ -1,0 +1,160 @@
+---
+titulo: "LEI MUNICIPAL N.º 1.531/GP/2026, DE 20 DE MAIO DE 2026."
+uf: "RO"
+municipio: "CACAULÂNDIA"
+tipo: "Lei Ordinária"
+numero: "1531"
+data: 2026-05-20
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 26/05/2026"
+data_publicacao: 2026-05-26
+codigo_identificador: "808A2FD1"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116072_2026-05-25_b514f603f75432841f813b151c5194b4.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL N.º 1.531/GP/2026, DE 20 DE MAIO DE 2026.
+
+LEI MUNICIPAL N.º 1.531/GP/2026, DE 20 DE MAIO DE 2026.
+
+Autoriza o Executivo Municipal à abertura de
+Crédito Adicional Especial por Superávit Financeiro
+ao orçamento vigente e dá outras providências.
+OPREFEITO MUNICIPAL DE CACAULÂNDIA, Estado de
+Rondônia, no uso de suas atribuições legais, FAZ SABER que a
+Câmara Municipal de Vereadores aprovou e ele sanciona a seguinte,
+LEI:
+Art. 1º.Fica o Poder Executivo Municipal autorizado a abrir crédito
+adicional especial por superávit financeiro ao orçamento vigente, no
+valor total de R$ 1.542.947,15 (um milhão quinhentos e quarenta e
+dois mil novecentos e quarenta e sete reais e quinze centavos), de
+acordo com os artigos 41 e 43, da Lei Federal 4.320/64, conforme
+parâmetros a seguir:
+I - FUNDO MUNICIPAL DE SAÚDE:
+a) FUNÇÃO: 10 - SAÚDE;
+b) SUB FUNÇÃO: 301 - ATENÇÃO BÁSICA;
+c) PROGRAMA: 1002 - SAÚDE PARA TODOS;
+d) PROJ. ATIVIDADE: 1175 - EMENDA 40920005;
+e) AÇÃO: 0000 - EMENDA 40920005;
+f) FUNCIONAL PROGRAMÁTICA: 10.301.1002.1175.0000 EMENDA 40920005;
+g) ELEMENTO DE DESPESA: 3.3.90.36.00 - OUTROS SERVIÇOS
+DE TERCEIROS - PESSOA FÍSICA;
+h) FONTE: 2.600;
+i) VALOR: R$ 150.003,41 (CENTO E CINQUENTA MIL TRÊS
+REAIS E QUARENTA E UM CENTAVOS).
+II - FUNDO MUNICIPAL DE SAÚDE:
+a) FUNÇÃO: 10 - SAÚDE;
+b) SUB FUNÇÃO: 301 - ATENÇÃO BÁSICA;
+c) PROGRAMA: 1002 - SAÚDE PARA TODOS;
+d) PROJ. ATIVIDADE: 1176 - EMENDA 40920001;
+e) AÇÃO: 0000 - EMENDA 40920001;
+f) FUNCIONAL PROGRAMÁTICA: 10.301.1002.1176.0000 EMENDA 40920001;
+g) ELEMENTO DE DESPESA: 3.3.90.39.00 - OUTROS SERVIÇOS
+DE TERCEIROS - PESSOA JURÍDICA;
+h) FONTE: 2.600;
+i) VALOR: R$ 438.819,77 (QUATROCENTOS E TRINTA E OITO
+MIL OITOCENTOS E DEZENOVE REAIS E SETENTA E SETE
+CENTAVOS).
+III - FUNDO MUNICIPAL DE SAÚDE:
+a) FUNÇÃO: 10 - SAÚDE;
+b) SUB FUNÇÃO: 301 - ATENÇÃO BÁSICA;
+c) PROGRAMA: 1002 - SAÚDE PARA TODOS;
+d) PROJ. ATIVIDADE: 1177 - EMENDA 43310003 - CRISTIANE
+LOPES;
+e) AÇÃO: 0000 - EMENDA 43310003 - CRISTIANE LOPES;
+f) FUNCIONAL PROGRAMÁTICA: 10.301.1002.1177.0000 EMENDA 43310003 - CRISTIANE LOPES;
+g) ELEMENTO DE DESPESA: 3.3.90.30.00 - MATERIAL DE
+CONSUMO;
+h) FONTE: 2.600;
+i) VALOR: R$ 254.761,44 (DUZENTOS E CINQUENTA E
+QUATRO MIL SETECENTOS E SESSENTA E UM REAIS E
+QUARENTA E QUATRO CENTAVOS).
+IV - FUNDO MUNICIPAL DE SAÚDE:
+a) FUNÇÃO: 10 - SAÚDE;
+b) SUB FUNÇÃO: 301 - ATENÇÃO BÁSICA;
+c) PROGRAMA: 1002 - SAÚDE PARA TODOS;
+d) PROJ. ATIVIDADE: 1178 - PROP. 11876352000124004 AQUISIÇÃO EQUIPAMENTOS;
+e) AÇÃO: 0000 - PROP. 11876352000124004 - AQUISIÇÃO
+EQUIPAMENTOS;
+f) FUNCIONAL PROGRAMÁTICA: 10.301.1002.1178.0000 PROP. 11876352000124004 - AQUISIÇÃO EQUIPAMENTOS;
+g) ELEMENTO DE DESPESA: 4.4.90.52.00 - EQUIPAMENTOS E
+MATERIAL PERMANENTE;
+
+www.diariomunicipal.com.br/arom
+
+27
+
+Rondônia , 26 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4240
+h) FONTE: 2.601;
+i) VALOR: R$ 104.591,22 (CENTO E QUATRO MIL
+QUINHENTOS E NOVENTA E UM REAIS E VINTE E DOIS
+CENTAVOS).
+V - FUNDO MUNICIPAL DE SAÚDE:
+a) FUNÇÃO: 10 - SAÚDE;
+b) SUB FUNÇÃO: 301 - ATENÇÃO BÁSICA;
+c) PROGRAMA: 1002 - SAÚDE PARA TODOS;
+d) PROJ. ATIVIDADE: 1179 - PROP. 11876352000122010 JAQUELINE CASSOL;
+e) AÇÃO: 0000 - PROP. 11876352000122010 - JAQUELINE
+CASSOL;
+f) FUNCIONAL PROGRAMÁTICA: 10.301.1002.1179.0000 PROP. 11876352000122010 - JAQUELINE CASSOL;
+g) ELEMENTO DE DESPESA: 4.4.90.52.00 - EQUIPAMENTOS E
+MATERIAL PERMANENTE;
+h) FONTE: 2.631;
+i) VALOR: R$ 165.582,05 (CENTO E SESSENTA E CINCO MIL
+QUINHENTOS E OITENTA E DOIS REAIS E CINCO
+CENTAVOS).
+
+no valor de R$ 600,00 (seiscentos reais), de acordo com os artigos 41
+e 43, da Lei Federal 4.320/64, conforme parâmetros a seguir:
+I - SECRETARIA MUNICIPAL DE COORDENAÇÃO GERAL:
+a) FUNÇÃO: 04 - ADMINISTRAÇÃO;
+b) SUB FUNÇÃO: 122 - ADMINISTRAÇÃO GERAL;
+c) PROGRAMA: 0000 - ENCARGOS ESPECIAIS;
+d) PROJ. ATIVIDADE: 3002 - PAGAMENTO PASEP;
+e) AÇÃO: 0000 - PAGAMENTO PASEP;
+f) FUNCIONAL PROGRAMÁTICA: 04.122.0000.3002.0000 PAGAMENTO PASEP;
+g) ELEMENTO DE DESPESA: 3.3.90.47.00 - OBRIGAÇÕES
+TRIBUTÁRIAS E CONTRIBUTIVAS;
+h) FONTE: 708;
+i) VALOR: R$ 600,00 (SEISCENTOS REAIS).
+Art. 2º. Fica o Poder Executivo Municipal autorizado a inserir as
+alterações na Lei de Diretrizes Orçamentárias (LDO) e no Plano
+Plurianual (PPA) vigentes.
+Art. 3º. Esta Lei entra em vigor na data de sua publicação.
+
+VI - FUNDO MUNICIPAL DE SAÚDE:
+a) FUNÇÃO: 10 - SAÚDE;
+b) SUB FUNÇÃO: 301 - ATENÇÃO BÁSICA;
+c) PROGRAMA: 1002 - SAÚDE PARA TODOS;
+d) PROJ. ATIVIDADE: 2185 - ESTRUTURAÇÃO DOS SERVIÇOS
+DE SAÚDE;
+e) AÇÃO: 0000 - ESTRUTURAÇÃO DOS SERVIÇOS DE SAÚDE;
+f) FUNCIONAL PROGRAMÁTICA: 10.301.1002.2185.0000 ESTRUTURAÇÃO DOS SERVIÇOS DE SAÚDE;
+g) ELEMENTO DE DESPESA: 3.1.90.13.00 - OBRIGAÇÕES
+PATRONAIS;
+h) FONTE: 2.601;
+i) VALOR: R$ 150.000,00 (CENTO E CINQUENTA MIL REAIS);
+j) ELEMENTO DE DESPESA: 3.3.90.39.00 - OUTROS SERVIÇOS
+DE TERCEIROS - PESSOA JURÍDICA;
+k) FONTE: 2.601;
+l) VALOR: R$ 279.189,26 (DUZENTOS E SETENTA E NOVE MIL
+CENTO E OITENTA E NOVE REAIS E VINTE E SEIS
+CENTAVOS)..
+
+Edifício da Prefeitura Municipal.
+Cacaulândia, em 20 de maio de 2026.
+
+Art. 2º. Fica o Poder Executivo Municipal autorizado a inserir as
+alterações na Lei de Diretrizes Orçamentárias (LDO) e no Plano
+Plurianual (PPA) vigentes.
+
+LEI:
+
+Art. 3º. Esta Lei entra em vigor na data de sua publicação.
+Edifício da Prefeitura Municipal.
+Cacaulândia, em 20 de maio de 2026.
+DANIEL MARCELINO DA SILVA
+Prefeito Municipal
+Publicado por:
+Elisabeth Santuzzi Zuccolotto Leite

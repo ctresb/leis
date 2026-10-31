@@ -1,0 +1,58 @@
+---
+titulo: "Lei nº 56, de 27 de novembro de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "56"
+data: "1989-11-27"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2333"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/559/text"
+sha256_fonte: "143f7f0187fa1e21bf911949abb751438220dd7c091710587b16caf098bd6401"
+sha256_texto: "c4115c3af14b8f7c2649506ee0d070b9191488d17b4ae69841756a016d84343f"
+capturado_em_fonte: "2026-10-28T13:49:04.642125-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 56, de 27 de novembro de 1989
+
+Dá denominação em Praça Pública
+
+
+**JONAS DE CAMPOS**, Prefeito do Município de Ibiúna, no uso de suas atribuições legais, que lhe são conferidas por lei
+
+**FAÇO SABER**, que a Câmara Municipal de Ibiúna aprovou e eu sanciono seguinte lei:
+
+
+Art. 1º.
+
+Fica denominada PRAÇA ROQUE SOARES DE CAMPOS, a Praça de formato triangular existente no Jardim Sandra Maria, contornada pelas Ruas Emílio Ribas, Oswaldo Cruz e Joaquim Inácio Rodrigues.
+
+
+Art. 2º.
+
+As despesas com a execução da presente lei correrão por conta de verba própria do orçamento vigente, suplementada se necessário.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 27 DIAS DO MÊS DE NOVEMBRO DE 1989.
+
+**JONAS DE CAMPOS**
+
+**Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 27 de novembro de 1989.
+
+**JOSÉ UBIRAJARA DE CAMPOS**
+
+**Secretário Geral da Administração**
+

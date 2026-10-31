@@ -1,0 +1,80 @@
+---
+titulo: "Lei Ordinária nº 2.791, de 24 de fevereiro de 1995"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2791"
+data: "1995-02-24"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1996-02-23; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3389"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2489/text"
+sha256_fonte: "634e4bfc8a14ad3b159efecbef720c4a7019e242b59973638f6b69b039a5391d"
+sha256_texto: "d9d6e7c319a1707200d0474f1b694baac85171085f2ff37f8f63c13b23188835"
+capturado_em_fonte: "2026-10-27T18:37:32.258331-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.791, de 24 de fevereiro de 1995
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE
+
+
+LEI Nº 2.791, DE 31 DE OUTUBRO DE 1995.
+
+
+Autoriza menciona, o Poder Executivo a efetivar concessão de direito real de uso de Imóvel, que menciona, ao Serviço Social da Indústria - Departamento Regional do Estado do Rio Janeiro e dá outras providências.
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a efetivar concessão de direito real de uso ao Serviço Social da Indústria - Departamento Regional do Estado do Rio de Janeiro - SESI-RIO, do imóvel onde se situa a histórica sede da "Fazenda da Posse", de propriedade do Municiplo de Barra Mansa, no Bairro Vila Barbaré, na cidade de Barra Mansa, medindo de frente, em três linhas, 14,68m, 25,00m e 38,50m para a faixa da viação férrea, aos fundos 75,18m, confrontando com terras da Cia. Metalúrgica Barbará, totalizando a área de 4.217,46m2.
+
+
+Parágrafo único
+
+O referido imóvel será integrado à área já cedida ao SESI-RIO, onde funciona hoje o seu Centro de Atividades, com a finalidade de ali se instalar um Centro de Cultura.
+
+
+Art. 2º.
+
+Em contrapartida à concessão ora autorizada, o concessionário se obrigará a urbanizar o terrreno e, também, a recuperar o prédio da antiga "Fazenda da Posse", com a restauração e/ou recuperação completa de sua fachada e do telhado de acordo com as características originais e reforma da parte interna, adequando-o às necessidades operacionais do Centro de Cultura, em consonância com o memorial de recuperação elaborado pelo Poder Concedente de comum acordo com o SESI- RIO.
+
+
+Parágrafo único
+
+No prédio restaurado ou recuperado, será instalado pelo Poder Público Muni- cipal, um Museu do Municipio de Barra Mansa, em no mínimo 3 (três) salas, onde se permitirá a visitação pública e será regulamentado em Convênio a ser firmado entre as partes (Prefeitura-Sesi).
+
+
+Art. 3º.
+
+A "Fazenda da Posse" bem como as atividades culturais que vierema ser desenvolvidas no local, objeto desta concessão, serão administrados pelo SESI-RIO e pelo Poder Concedente.
+
+
+Art. 4º.
+
+Do instrumento de concessão constará cláusula de reversão do mencionado imóvel ao Poder Concedente, sem que haja direito a qualquer indenização, inclusive por benfeitorias já realizadas, no caso de desvio das finalidades contidas nesta Lei.
+
+
+Art. 5º.
+
+O Concessionário deverá iniciar as obras de recuperação no prazo de 120 (cento e vinte) dias, a contar da data do Registro, no Registro Geral de Imóveis, do titulo de concessão do terreno, devendo concluí-las dentro de 18 (dezoito) meses, a contar da mesma data.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.828, de 23 de fevereiro de 1996.
+
+
+Art. 6º.
+
+Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 31 DE OUTUBRO DE 1995.
+
+
+Dr. LUIZ CARLOS SUCKOW F. DO AMARAL  
+PREFEITO
+

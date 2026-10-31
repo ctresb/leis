@@ -1,0 +1,51 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 700.000,00 (setecentos mil reais) ao Orçamento da Fundação Cultural de Foz do Iguaçu.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento da Fundação Cultural de Foz do Iguaçu, no valor de R$ 700.000,00 (setecentos mil reais), para reforço de dotações orçamentárias detalhadas no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 25 de agosto de 2023.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Eliane Dávilla Sávio  
+Secretária Municipal da Administração  
+  
+Nilton Aparecido Bobato  
+Secretário Municipal da Transparência e Governança  
+  
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda  
+  
+Joaquim Rodrigues da Costa  
+Diretor Presidente da Fundação Cultural de Foz do Iguaçu
+
+
+## Anexo I — SUPLEMENTAÇÃO
+
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO I - SUPLEMENTAÇÃO</strong></td></tr><tr><td> Órgão</td><td> 31</td><td> FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> Valor</td></tr><tr><td> Unidade</td><td> 02</td><td> FUNDO MUNICIPAL DE INCENTIVO A CULTURA - FMIC</td><td> </td></tr><tr><td> Funcional Programática</td><td> 13.392.0310.2189</td><td> FUNDO MUNICIPAL DE INCENTIVO A CULTURA</td><td> </td></tr><tr><td> Natureza da Despesa</td><td> 3.3.90.31</td><td> PREMIAÇÕES CULTURAIS, ARTÍSTICAS, CIENTÍFICAS, DESPORTIVAS E OUTRAS</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 700.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td colspan="3"> TOTAL DA SUPLEMENTAÇÃO </td><td> 700.000,00</td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO
+
+
+<table><tbody><tr><td colspan="4"><strong>ANEXO II - ANULAÇÃO</strong></td></tr><tr><td> Órgão</td><td> 31</td><td> FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> Valor</td></tr><tr><td> Unidade</td><td> 01</td><td> FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> </td></tr><tr><td> Funcional Programática</td><td> 13.392.0310.2179</td><td> PROMOÇÃO E DIFUSÃO CULTURAL</td><td> </td></tr><tr><td> Natureza da Despesa</td><td> 3.3.90.32</td><td> Material, Bem ou Serviço para Distribuição Gratuita</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 1.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td> Órgão</td><td> 31</td><td> FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td><td> Valor</td></tr><tr><td> Unidade</td><td> 02</td><td> FUNDO MUNICIPAL DE INCENTIVO A CULTURA - FMIC</td><td> </td></tr><tr><td> Funcional Programática</td><td> 13.392.0310.2189</td><td> FUNDO MUNICIPAL DE INCENTIVO A CULTURA</td><td> </td></tr><tr><td> Natureza da Despesa</td><td> 3.3.50.41</td><td> CONTRIBUIÇÕES</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 100.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td> Natureza da Despesa</td><td> 3.3.60.45</td><td> SUBVENÇÕES ECONÔMICAS</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 100.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td> Natureza da Despesa</td><td> 3.3.90.32.00</td><td> MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 100.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td> Natureza da Despesa</td><td> 3.3.90.36.00</td><td> OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 165.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td> Natureza da Despesa</td><td> 3.3.90.39</td><td> Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 202.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td> Natureza da Despesa</td><td> 3.3.90.47</td><td> OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS</td><td> </td></tr><tr><td> Fonte de Recursos</td><td> 1.001</td><td> Recursos do Tesouro (descentralizados) - Exercício Corrente ...</td><td> 32.000,00</td></tr><tr><td colspan="4">Justificativa: Execução do Edital de Fomento do Fundo Municipal, deliberado em conjunto com o CMPC - Conselho Municipal de Políticas Culturais, conforme Ofício nº 15, de 14/03/2023 - CMPC.</td></tr><tr><td colspan="3"> TOTAL DA ANULAÇÃO </td><td> 700.000,00</td></tr></tbody></table>
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

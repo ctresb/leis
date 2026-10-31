@@ -1,0 +1,882 @@
+---
+titulo: "Lei Ordinária nº 2.685, de 24 de agosto de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.685"
+data: "2010-08-24"
+municipio: "Cacoal"
+uf: "RO"
+codigo_ibge: "1100049"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacoal.ro.leg.br/norma/1432"
+fonte_texto: "https://sapl.cacoal.ro.leg.br/ta/78/text"
+sha256_fonte: "b1597cef651e9ced454969a16270c3a101b5db44fce1dfc58e8ac3e1b4b1b28e"
+sha256_texto: "c5fb7aa4f3f26ce92606f719922de41ca737e7121e7db0a7a9455014a35f615d"
+capturado_em_fonte: "2026-10-27T21:11:46.265272-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.685, de 24 de agosto de 2010
+
+DISPÕE SOBRE A CRIAÇÃO DO FUNDO MUNICIPAL DE DESENVOLVIMENTO RURAL SUSTENTAVEL E REFORMA AGRÁRIA E CONSTITUIÇÃO DO CONSELHO MUNICIPAL DE DESENVOLVIMENTO RURAL SUSTENTAVEL E REFORMA AGRÁRIA E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O PREFEITO MUNICIPAL**. Faço saber que o Poder Legislativo Municipal aprovou e eu sanciono a seguinte lei:
+
+
+#### CAPÍTULO I — Do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária
+
+
+Art. 1º.
+
+Fica criado o Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, vinculado ao Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária destinada a aplicação de Recursos, que tenham suas fontes constituídas pelo Artigo 5º desta Lei, tendo por objetivo o desenvolvimento econômico e social do Município, mediante a execução de programa de financiamento aos setores produtivos, constituídos de agroindústrias, trabalhadores extrativistas, pequenos produtores rurais, associações rurais e/ou cooperativas agrícolas em consonância com a política de desenvolvimento Municipal.
+
+
+Parágrafo único
+
+Consideram-se como produtores rurais proprietários, assentados, posseiros, arrendatários, parceiros e chacareiros.
+
+
+Art. 2º.
+
+Respeitadas as diretrizes do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, serão observados os seguintes critérios na formulação dos projetos de financiamento:
+
+
+I –
+
+Concessão de financiamento exclusivamente aos setores produtivos aqui identificados como microempresários rurais, agroindústrias rurais, trabalhadores extrativistas, pequenos produtores rurais, associações rurais e/ou cooperativas agrícola.
+
+
+II –
+
+Tratamentos preferenciais às atividades produtivas de micro e pequenos empreendimentos locais, de uso intensivo de matérias-primas e mão-de-obra locais, e as que produzam, beneficiem e comercializem alimentos básicos para o consumo da população e atividades extrativistas.
+
+
+III –
+
+Conjugação de crédito com assistência técnica especializada para cada projeto.
+
+
+IV –
+
+Apoio a criação de novos centros, atividades e pólos dinâmicos no Município que estimulem a redução das disparidades regionais da renda.
+
+
+V –
+
+Preservação do meio ambiente.
+
+
+VI –
+
+Tratamento preferencial das atividades desenvolvidas em locais de infra-estrutura mínima
+
+
+Art. 3º.
+
+O Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária participará das seguintes modalidades de operações:
+
+
+I –
+
+Financiamento de investimentos fixos e semi fixos necessários à implantação e/ou ampliação de atividades produtivas.
+
+
+II –
+
+Financiamento de capital de giro e custeio de atividades produtivas.
+
+
+III –
+
+Financiamento de capital de giro associado, assim definido ou dimensionado para atendimento de necessidades adicionais de giro pelas atividades produtivas, após análise técnica e aprovação do Conselho.
+
+
+Art. 4º.
+
+São Beneficiários dos recursos do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, trabalhadores extrativistas, as micro empresas agro-industriais, pequenos produtores rurais, chacareiros, associações rurais e/ou cooperativas agrícolas que desenvolvam atividades produtivas nos setores agroextrativistas e agro-industrial.
+
+
+Parágrafo único
+
+Considere-se para efeito de classificação quanto ao porte das empresas, o critério ditadas por linhas de crédito rural colocada à disposição do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária pelos bancos conveniados.
+
+
+Art. 5º.
+
+Constituem fontes de recursos do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária:
+
+
+I –
+
+Dotações Orçamentárias próprias.
+
+
+II –
+
+Recebimento de Prestações decorrentes de financiamentos de programas de geração de emprego e renda.
+
+
+III –
+
+Recursos financeiros oriundos dos Governos Federal, Estadual e de outros órgãos públicos ou privados, recebidos diretamente ou por meio de convênios.
+
+
+IV –
+
+Recursos financeiros oriundos de organismos internacionais de cooperação, recebidos diretamente ou por meio de convênios.
+
+
+V –
+
+Aporte de capital decorrente de realização de operações de crédito em instituições financeiras oficiais, quando previamente autorizadas em Lei específica.
+
+
+VI –
+
+Rendas provenientes de aplicação de seus recursos no mercado de capitais, com prévia autorização do conselho com retorno exclusivo para o programa em atividade.
+
+
+VII –
+
+Recursos financeiros disponibilizados por linhas de créditos em bancos que venham firmar convênios com o Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária.
+
+
+Parágrafo único
+
+O Poder Executivo Municipal poderá, através de Decreto, regulamentar a destinação de recursos ao Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária.
+
+
+Art. 6º.
+
+Os recursos financeiros do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, serão administrados pelo Gestor do fundo e os conveniados, para efeito de pagamento, emissão de cheques e demais documentos deverão os mesmos ser assinados por representantes governamentais e não governamental. (Secretaria de Agricultura e Conselho Municipal).
+
+
+Parágrafo único
+
+O Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária fará jus a taxa de administração dos recursos do Fundo, a ser negociada com o Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária.
+
+
+Art. 7º.
+
+Os recursos do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, serão aplicados no:
+
+
+I –
+
+Fomento às atividades produtivas das micro e pequenas empresas agro industriais, visando a geração de empregos e aumento da renda para trabalhadores e produtores rurais.
+
+
+II –
+
+Fomento à pequena produção agrícola e extrativista.
+
+
+III –
+
+Apoio a Criação de novos centros de atividades e pólos de desenvolvimento do Município, que estimulem a redução das disparidades regionais de renda.
+
+
+IV –
+
+Incentivo a dinamização e diversificação de atividades econômicas.
+
+
+V –
+
+No fomento da política agrícola de Desenvolvimento do Município.
+
+
+Parágrafo único
+
+Para fins do disposto neste artigo, o Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária poderá celebrar convênio ou contrato com instituição, empresa ou técnicos previamente qualificados, no propósito de elaborar projetos, analisar e prestar assistência técnica abrangendo aspectos técnicos, financeiros, organizacionais, administrativos, de capacitação gerencial, qualificação de mão-de-obra e comercialização, garantindo dessa forma o objetivo do programa, após análise e aprovação do Conselho.
+
+
+Art. 8º.
+
+O Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária toda vez que financiar projetos com recursos próprios exigirá penhor ou aval com garantia do financiamento.
+
+
+§ 1º
+
+As condições operacionais dos recursos do fundo serão objeto de deliberação do Conselho, incluindo o limite financiável, contrapartida de recursos próprios, prazos de pagamentos, carência, garantias, juros, encargos de atualização monetária e inadimplemento.
+
+
+§ 2º
+
+Para linhas de crédito dos Bancos conveniados, os critérios adotados serão utilizados por tais instituições.
+
+
+Art. 9º.
+
+O fundo terá contabilidade própria, elaborada pela Secretaria Executiva, registrando todos os atos a ele referentes, valendo-se, para tal, de informações prestadas pelo agente financeiro e bancos conveniados.
+
+
+§ 1º
+
+O conselho fará publicar os balanços anuais do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária.
+
+
+§ 2º
+
+O conselho fará publicar na imprensa local através de edital, o balanço semestral dos recursos aplicados no Fundo.
+
+
+Art. 10.
+
+Fica o Poder Executivo autorizado a celebrar com o Instituto Nacional de Colonização e Reforma Agrária, convênios, ajustes e acordos, com o propósito de promover e/ou executar as ações relacionadas ao Programa Nacional de Reforma Agrária no âmbito do município, com as contrapartidas definidas na Lei das Diretrizes Orçamentárias.
+
+
+#### CAPÍTULO II — Do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária
+
+
+Art. 11.
+
+Fica instituído o Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, que exercerá a administração do Fundo Municipal de Desenvolvimento Rural Sustentável e reforma Agrária, o qual terá caráter deliberativo com finalidade de fomentar o desenvolvimento de micro empresas agro-industriais, pequenos produtores rurais, trabalhadores extrativistas, chacareiros, associações rurais e cooperativas agrícolas em projetos a serem atendidos com recursos do Fundo e das linhas de créditos dos Bancos conveniados.
+
+
+Parágrafo único
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária elaborará a política agrícola de desenvolvimento Municipal.
+
+
+Art. 12.
+
+Cabe ao Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária:
+
+
+I –
+
+Aprovar as diretrizes e normas para a gestão do Fundo;
+
+
+II –
+
+Analisar e aprovar os critérios para a seleção dos projetos à serem atendidos pelo Fundo e/ou linhas de Crédito dos Bancos conveniados;
+
+
+III –
+
+Definir as condições gerenciais dos recursos sob a responsabilidade do Fundo;
+
+
+IV –
+
+Supervisionar a execução física e financeira de convênios firmados em apoio ao Fundo;
+
+
+V –
+
+Fiscalizar e acompanhar a aplicação dos recursos do Fundo;
+
+
+VI –
+
+Receber as propostas de projetos de financiamento, proceder análise prévia e encaminhar à Secretaria Executiva e Agentes Financeiros conveniados, para as providências necessárias;
+
+
+VII –
+
+Acompanhar e avaliar a execução dos projetos de financiamentos, comunicando imediatamente à Secretaria Executiva e ao Agente Financeiro qualquer irregularidade constatada na aplicação dos recursos;
+
+
+VIII –
+
+Dirimir dúvidas quanto a aplicação das normas regulamentares relativas ao fundo, nas matérias de sua competência;
+
+
+IX –
+
+Propor medidas de aprimoramento do desenvolvimento de desempenho do Fundo, bem como outras formas de atuação, visando a concepção dos objetivos para gerar emprego e renda;
+
+
+X –
+
+Selecionar os beneficiários e aprovar os projetos aptos às linhas de créditos dos bancos conveniados, aos quais caberá a análise econômico-financeiro e contratação dos financiamentos;
+
+
+XI –
+
+Selecionar os beneficiários aptos às linhas de crédito, com recurso do próprio Fundo cabendo a análise econômico-financeira através do Agente Financeiro do fundo;
+
+
+XII –
+
+Definir as diretrizes da política Municipal de Reforma Agrária e as zonas prioritárias para o desenvolvimento da agricultura familiar e para implantação de assentamento da Reforma Agrária, inclusive ratificar ou propor novas condições às diretrizes existentes.
+
+
+XIII –
+
+Propor sugestões de políticas de apoio à Reforma Agrária e à agricultura familiar no âmbito dos órgãos estatais.
+
+
+XIV –
+
+Aprovar a ordem de prioridade na relação de imóveis a serem vistoriados para ações de Reforma Agrária.
+
+
+XV –
+
+Emitir parecer, sempre que julgar oportuno, sobre os processos de aquisição e desapropriação instruídos pelo INCRA, a serem encaminhados para decreto ou portaria. Este procedimento não vincula os atos da administração.
+
+
+XVI –
+
+Aprovar critérios complementares aos de seleção de beneficiários para os projetos de assentamento de trabalhadores rurais no seu respectivo município.
+
+
+XVII –
+
+Homologar relação, emitida pelo SIPRA- Sistema de Informações de Projetos de Reforma Agrária, de beneficiários dos projetos de assentamento no Município.
+
+
+XVIII –
+
+Aprovar a programação e supervisionar a aplicação dos recursos para Reforma Agrária no Município (obras, serviços, assistência técnica, créditos, vistorias, ações de cadastro, entre outras).
+
+
+XIX –
+
+Aprovar critérios complementares aos critérios de emancipação de projetos de assentamento de trabalhadores rurais no Município.
+
+
+XX –
+
+Aprovar a implantação de projetos de assentamento no Município, de acordo com as normas vigentes.
+
+
+XXI –
+
+Estimular a elaboração de planos participativos para desenvolvimento de assentamentos, em articulação com os planos municipais de desenvolvimento.
+
+
+XXII –
+
+Promover outras medidas assemelhadas de interesse da Reforma Agrária.
+
+
+#### CAPÍTULO III — Da Organização
+
+
+Art. 13.
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, terá a seguinte estrutura e composição:
+
+
+I –
+
+Plenário;
+
+
+II –
+
+Mesa Diretora;
+
+
+III –
+
+Secretaria Executiva ; e
+
+
+IV –
+
+Comissões e grupos de trabalhos.
+
+
+##### Seção I — Do Plenário e Das Reuniões
+
+
+Art. 14.
+
+O plenário do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária é o fórum de deliberação plena e conclusiva, configurado por reuniões ordinárias e extraordinárias, de acordo com requisitos de funcionamento estabelecido nesta lei e no seu regimento interno.
+
+
+I –
+
+As reuniões ordinárias serão mensais, na 2ª (segunda) terça-feira de cada mês, com início às 09: h00min;
+
+
+II –
+
+As reuniões do CMDRSRA deverão ser realizadas em sua sede, ou em qualquer outro local, obedecendo às normas regimentais. E sendo em local descentralizado, de fácil acesso público, com divulgação nos meios de comunicação e enviado aos conselheiros, convocação em que conste pauta, local e o horário.
+
+
+III –
+
+As reuniões plenárias ordinárias funcionarão em primeira convocação com a presença de maioria absoluta (quorum máximo) de seus membros e em segunda convocação trinta (30) minutos após a primeira com um 1/3 dos seus membros, as quais terão duração máxima de duas horas. Por decisão do plenário, em caráter excepcional poderão ser prorrogadas por mais trinta (30) minutos.
+
+
+IV –
+
+As intervenções serão feitas pela ordem de inscrição junto à mesa diretora;
+
+
+a)
+
+Cada membro terá três (3) minutos para intervenção a cada tópico da pauta, podendo ceder seu tempo a outro membro.
+
+
+b)
+
+Em todas as reuniões CMDRSRA haverá um tempo de três (03) minutos para cada membro devidamente escrito fazer uso da palavra com assuntos pertinentes de interesse do CMDRSRA, que não conste na respectiva pauta.
+
+
+c)
+
+O tempo previsto no presente artigo deverá ocorrer entre a aprovação da ata anterior e o inicio da discussão da pauta atual.
+
+
+d)
+
+Cada membro do conselho terá direito apenas a um voto;
+
+
+e)
+
+Após a exposição e esclarecimentos de todos passa-se em seguida à votação da matéria. Depois de votada o mesmo não poderá voltar a ser discutido nos seus méritos. Caso seja solicitado o Recurso de votação poderá ser aprovado pela plenária, com dois terços (2/3) dos conselheiros presentes.
+
+
+V –
+
+As reuniões extraordinárias serão realizadas por convocação do Presidente, ou mediante documento do qual conste a assinatura de no mínimo um terço (1/3) de seus membros titulares e/ou suplentes, observada a paridade
+
+
+VI –
+
+A reunião do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária será aberta ao público que poderá ter direito a manifestação (voz) sob a coordenação da mesa diretora e sem direito ao voto;
+
+
+§ 1º
+
+A pauta das reuniões ordinárias deve ser encaminhadas aos conselheiros com antecedência mínima de três (3) dias e das extraordinárias de no mínimo vinte e quatro (24) horas.
+
+
+§ 2º
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária reunir-se-á ordinariamente no mínimo uma (1) vez por mês e, extraordinariamente sempre que necessário, funcionará baseado no regimento interno aprovado pelo seu plenário em reunião ordinária.
+
+
+##### Seção II — Mesa Diretora
+
+
+Art. 15.
+
+A mesa diretora do Conselho de Desenvolvimento Rural Sustentável e Reforma Agrária será eleita entre os seus membros titulares, em reunião plenária do Conselho por meio de voto obrigatório fechado, podendo qualquer seguimento: Representantes dos agricultores, Instituições do poder Publico, Instituições da Sociedade Civil organizada, concorrer, devendo a composição da mesa diretora respeitar a paridade.
+
+
+Parágrafo único
+
+A mesa diretora será composta de: Presidente e Vice Presidente; 1º Secretário e 2º Secretário e terá duração de (02) dois anos.
+
+
+Art. 16.
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária reger-se-á pelas seguintes disposições.
+
+
+I –
+
+Autonomia para o pleno funcionamento do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária.
+
+
+II –
+
+Dotação orçamentária própria, de no mínimo 0,5% (meio por cento) do orçamento do Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária.
+
+
+III –
+
+Apoio administrativo;
+
+
+IV –
+
+Secretaria executiva com recursos humanos suficientes e qualificados.
+
+
+##### Seção III — Da Secretaria Executiva
+
+
+Art. 17.
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, terá uma Secretaria Executiva, que será exercida pela Secretaria Municipal de Agricultura que além de suas atividades, terá as seguintes atribuições:
+
+
+I –
+
+Oferecer todas as condições necessárias e indispensáveis ao pleno funcionamento do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária;
+
+
+II –
+
+Receber e encaminhar ao Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária com parecer técnico, todos os temas relativos a financiamento com recursos do Fundo;
+
+
+III –
+
+Propor normas, critérios e condições para os projetos e Programas à serem financiados pelo Fundo e submetê-las ao Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária;
+
+
+IV –
+
+Submeter ao Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária todos os projetos devidamente credenciados e pré-analisados para sua apreciação;
+
+
+V –
+
+Encaminhar os projetos aprovados pelo Conselho, ao Agente Financeiro do fundo e aos Bancos Conveniados;
+
+
+VI –
+
+Submeter ao Conselho demonstrações mensais de receitas e despesas do Fundo;
+
+
+VII –
+
+Encaminhar à contabilidade geral do Município as demonstrações mencionadas no inciso anterior;
+
+
+VIII –
+
+Providenciar a publicação de todas as resoluções do Conselho;
+
+
+IX –
+
+Secretariar todas as reuniões do Conselho;
+
+
+###### Subseção I — Da Composição
+
+
+Art. 18.
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária será composto por 26 (vinte e seis) conselheiros os quais serão indicados pelos segmentos que eles representam, estando garantida conforme a lei.
+
+
+I –
+
+50% representantes dos agricultores;
+
+
+II –
+
+50% Órgãos Governamental e outras entidades Civil.
+
+
+###### Subseção II — Do Funcionamento
+
+
+Art. 19.
+
+Os representantes dos Agricultores demais órgãos ou instituições terão um titular e um suplente, empossados pelo Prefeito Municipal através de Decreto, publicando-se na imprensa.
+
+
+I –
+
+Na presença do titular o suplente terá direito a voz e não ao voto nas reuniões.
+
+
+II –
+
+Os membros titulares e suplentes serão indicados por suas respectivas instituições e homologados pela plenária do Conselho Municipal de Desenvolvimento rural Sustentável e Reforma Agrária.
+
+
+III –
+
+Os membros indicados por associações rurais, a escolha deverá ser feita em reunião especifica com votação e a indicação deverá ser assinada pelo Presidente da Associação Rural e acompanhada da ata da eleição.
+
+
+IV –
+
+Após a indicação de todos os conselheiros titular e suplente devera ser feita a eleição da nova mesa diretora que devera ocorrer sempre no mês de Abril.
+
+
+V –
+
+O mandato de conselheiros não deverá coincidir com o mandato da Gestão do município, e terá duração de 02 (dois) anos podendo ser reconduzido a critérios das respectivas instituições;
+
+
+Art. 20.
+
+Os representantes dos segmentos integrantes do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária, poderão a critério desses mesmos, fazer a substituição ou manutenção dos conselheiros que os representam, a qualquer tempo;
+
+
+I –
+
+No caso de falta não justificada por escrito, os membros efetivos do CMDRSRA serão substituídos pelos suplentes automaticamente.
+
+
+II –
+
+Os membros do CMDRSRA serão substituídos caso faltem três (03) reuniões ordinárias consecutivas ou três (03) reuniões intercaladas no período de cento e oitenta (180) dias;
+
+
+III –
+
+As entidades e ou organização representadas pelos conselheiros faltosos deverão ser comunicados a partir de 2º (segunda) falta, através de correspondência da secretaria do conselho (CMDRSRA);
+
+
+IV –
+
+O exercício da função de conselheiro será honorífico, considerando-se como serviço público relevante;
+
+
+Os Conselheiros que se deslocarem do Município representando o CMDRSRA receberão diárias conforme número de dias que ficarem a disposição do Conselho, seguindo o Regimento Jurídico Municipal de Cacoal 1082/00 Art. 102.
+
+
+Art. 21.
+
+Os conselheiros do CMDRSRA terão autonomia através de deliberação da plenária, estrutura administrativa e às assessorias permanentes ao transitório que necessitam para pleno funcionamento. Essas estruturas devem ser viabilizadas pelo governo municipal.
+
+
+Art. 22.
+
+As deliberações do Conselho serão formalizadas mediante:
+
+
+I –
+
+Resolução – quando se tratar de matéria de caráter normativo, de competência exclusiva do Conselho;
+
+
+II –
+
+Decisão – quando se tratar de disposição conclusiva a respeito de caso concreto, circunscrito a determinado setor de interesse da agricultura do município.
+
+
+#### CAPÍTULO IV — Das Competências
+
+
+Art. 23.
+
+Compete ao Presidente do CMDRSRA:
+
+
+I –
+
+Dirigir as sessões plenárias do Conselho, orientando os debates e consignando os votos dos conselheiros presentes;
+
+
+II –
+
+Convocar as reuniões extraordinárias do CMDRSRA;
+
+
+III –
+
+Fixar a pauta dos trabalhos;
+
+
+IV –
+
+Submeter a apreciação dos Conselheiros os assuntos e propostas que dependem da decisão do Conselho;
+
+
+V –
+
+Resolver as questões de ordem suscitadas no curso das sessões, admitindo a votação dos presentes para a decisão;
+
+
+VI –
+
+Emitir o voto de qualidade, se necessário.
+
+
+VII –
+
+Executar e fazer executar as deliberações tomadas em reunião pelo CMDRSRA.
+
+
+VIII –
+
+Comunicar por escrito a todos os conselheiros a data e o horário da reunião que acontecera a eleição e coordenar as eleições.
+
+
+IX –
+
+Proclamar o resultado das votações;
+
+
+X –
+
+Cumprir e fazer cumprir as deliberações adotadas, assinando as resoluções respectivas;
+
+
+XI –
+
+Cuidar para que seja mantida estrita conformidade das decisões do Conselho com os objetivos da política do Desenvolvimento Agrícola Municipal e suas diretrizes e prioridades;
+
+
+XII –
+
+Encaminhar às instituições-membros todos os atos e decisões aprovadas pelo CMDRSRA.
+
+
+XIII –
+
+Representar o conselho e o Fundo Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária em juízo e fora dele;
+
+
+XIV –
+
+Assinar correspondência do Conselho, bem como as atas das reuniões e autenticar os livros respectivos.
+
+
+XV –
+
+Elaborar o programa de trabalho para a sua gestão, submetendo-o a apreciação do CMDRSRA na primeira reunião ordinária do ano civil;
+
+
+XVI –
+
+Elaborar o relatório anual de atividades do CMDRSRA, submetendo-o a apreciação do mesmo na última reunião ordinária do ano civil;
+
+
+XVII –
+
+Cumprir e fazer cumprir o regimento Interno do CMDRSRA
+
+
+Art. 24.
+
+Compete ao Vice-Presidente:
+
+
+I –
+
+Substituir o Presidente nos seus impedimentos;
+
+
+II –
+
+Auxiliar o Presidente em todas as suas ações;
+
+
+III –
+
+Quando da vacância do cargo de Presidente, assumir a Presidência e convocar reunião da Coordenação Executiva para eleger novo Vice Presidente.
+
+
+Art. 25.
+
+Compete ao Primeiro Secretário
+
+
+I –
+
+Organizar e manter atualizados os arquivos do CMDRSRA
+
+
+II –
+
+Redigir expedientes e atas das reuniões, assinando-as juntamente com o presidente e demais conselheiros presentes.
+
+
+III –
+
+Manter o registro e a guarda de toda a documentação do Conselho.
+
+
+IV –
+
+Preparar as pautas das reuniões e o material a ser distribuído aos conselheiros.
+
+
+V –
+
+Realizar com a devida antecedência a convocação dos Conselheiros para as reuniões do CMDRSRA.
+
+
+VI –
+
+Ler, nas reuniões, todas as correspondências solicitadas pelo presidente e membros do Conselho.
+
+
+VII –
+
+Emitir, receber e responder todas as correspondências.
+
+
+VIII –
+
+Acompanhar e monitorar o cronograma de trabalho do Conselho.
+
+
+IX –
+
+Substituir o presidente e o vice-presidente em seus eventuais impedimentos.
+
+
+X –
+
+Cumprir e fazer cumprir o regimento Interno do CMDRSRA.
+
+
+Art. 26.
+
+Compete ao Segundo Secretario
+
+
+I –
+
+Auxiliar o primeiro secretario nas reuniões.
+
+
+II –
+
+Organizar tempo de fala dos conselheiros.
+
+
+III –
+
+Substituir o primeiro Secretario na sua ausência.
+
+
+IV –
+
+Quando da vacância do cargo de primeiro secretario assumir a vaga.
+
+
+Art. 27.
+
+O Gestor do Fundo e os Bancos conveniados colocarão à disposição do Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária demonstrativos dos recursos e aplicação do Fundo e de Linhas de crédito a sua disposição.
+
+
+Art. 28.
+
+O Conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária elaborará e aprovará seu regimento interno no prazo máximo de 60 ( sessenta ) dias a contar da data da publicação da presente Lei.
+
+
+Art. 29.
+
+A Mesa Diretora do CMDRSRA será empossada no prazo de 45 (quarenta e cinco dias) a contar da aprovação do seu regimento interno.
+
+
+Art. 30.
+
+Os casos omissos serão resolvidos pelo conselho Municipal de Desenvolvimento Rural Sustentável e Reforma Agrária.
+
+
+Art. 31.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 32.
+
+Revogam-se as disposições em contrário em especial a Lei nº 1.013/PMC/99, 1200/PMC/01, 1.565/PMC/2003.
+
+
+Cacoal - RO, 24 de agosto de 2010.
+
+Francesco Vialetto  
+Prefeito Municipal  
+  
+Marcelo Vagner Pena Carvalho  
+Procurador-Geral Do Município OAB/RO - 1171
+

@@ -1,0 +1,1938 @@
+{
+  "estado": "indice_completo",
+  "total": 188,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/10._publicacao_da_lei_sancionada_n._1190.2026.pdf da norma Lei-PEM nº 1.190, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/1/10._publicacao_da_lei_sancionada_n._1190.2026.pdf",
+      "ano": 2026,
+      "norma": 1
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/08._lei_aprovada_no_1190.2026.pdf da norma Lei-PEM nº 1.190, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/2/08._lei_aprovada_no_1190.2026.pdf",
+      "ano": 2026,
+      "norma": 1
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/12._publicacao_da_lei_sancionada_n._1191.2026.pdf da norma Lei-PEM nº 1.191, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/3/12._publicacao_da_lei_sancionada_n._1191.2026.pdf",
+      "ano": 2026,
+      "norma": 2
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/4/12._publicacao_da_lei_sancionada_no_1192.2026.pdf da norma Lei-PEM nº 1.192, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/4/12._publicacao_da_lei_sancionada_no_1192.2026.pdf",
+      "ano": 2026,
+      "norma": 3
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/5/12._publicacao_da_lei_municipal_sancionada_n._1193.2026.pdf da norma Lei-PEM nº 1.193, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/5/12._publicacao_da_lei_municipal_sancionada_n._1193.2026.pdf",
+      "ano": 2026,
+      "norma": 4
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/6/11._publicacao_lei_municipal_sancionada_no_1201.2026.pdf da norma Lei-PEM nº 1.201, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/6/11._publicacao_lei_municipal_sancionada_no_1201.2026.pdf",
+      "ano": 2026,
+      "norma": 5
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/7/publicacao-lei-municipal-sancionada-n-1202-2026.pdf da norma Lei-PEM nº 1.202, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/7/publicacao-lei-municipal-sancionada-n-1202-2026.pdf",
+      "ano": 2026,
+      "norma": 6
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/publicacao-lei-municipal-sancionada-n-1203-2026.pdf da norma Lei-PEM nº 1.203, de 12 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/8/publicacao-lei-municipal-sancionada-n-1203-2026.pdf",
+      "ano": 2026,
+      "norma": 7
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/publicacao-lei-municipal-sancionada-n-1204-2026.pdf da norma Lei-PEM nº 1.204, de 29 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/9/publicacao-lei-municipal-sancionada-n-1204-2026.pdf",
+      "ano": 2026,
+      "norma": 8
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/10/publicacao-da-lei-municipal-sancionada-n-1210-2026.pdf da norma Lei-PEM nº 1.210, de 17 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/10/publicacao-da-lei-municipal-sancionada-n-1210-2026.pdf",
+      "ano": 2026,
+      "norma": 9
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/11/publicacao_da_lei_municipal_sancionada_no_1205.2026.pdf da norma Lei-PEM nº 1.205, de 11 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/11/publicacao_da_lei_municipal_sancionada_no_1205.2026.pdf",
+      "ano": 2026,
+      "norma": 10
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/publicacao-da-lei-municipal-sancionada-n-1206-2026.pdf da norma Lei-PEM nº 1.206, de 25 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/12/publicacao-da-lei-municipal-sancionada-n-1206-2026.pdf",
+      "ano": 2026,
+      "norma": 11
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/13/publicacao-da-lei-sancionada-n-1212-2026.pdf da norma Lei-PEM nº 1.212, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/13/publicacao-da-lei-sancionada-n-1212-2026.pdf",
+      "ano": 2026,
+      "norma": 12
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/14/publicacao-da-lei-municipal-sancionada-n-1208-2026.pdf da norma Lei-PEM nº 1.208, de 10 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/14/publicacao-da-lei-municipal-sancionada-n-1208-2026.pdf",
+      "ano": 2026,
+      "norma": 13
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/15/publicacao-da-lei-municipal-sancionada-n-1209-2026.pdf da norma Lei-PEM nº 1.209, de 10 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/15/publicacao-da-lei-municipal-sancionada-n-1209-2026.pdf",
+      "ano": 2026,
+      "norma": 14
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/16/publicacao-da-lei-sancionada-n-1213-2026.pdf da norma Lei-PEM nº 1.213, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/16/publicacao-da-lei-sancionada-n-1213-2026.pdf",
+      "ano": 2026,
+      "norma": 15
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/17/publicacao-da-lei-sancionada-n-1211-2026.pdf da norma Lei-PEM nº 1.211, de 17 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/17/publicacao-da-lei-sancionada-n-1211-2026.pdf",
+      "ano": 2026,
+      "norma": 16
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/18/08._lei_aprovada_no_1191.2026.pdf da norma Lei-PEM nº 1.191, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/18/08._lei_aprovada_no_1191.2026.pdf",
+      "ano": 2026,
+      "norma": 2
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/19/08._lei_aprovada_no_1192.2026.pdf da norma Lei-PEM nº 1.192, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/19/08._lei_aprovada_no_1192.2026.pdf",
+      "ano": 2026,
+      "norma": 3
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/20/9._lei_municipal_aprovada_n._1193.2026.pdf da norma Lei-PEM nº 1.193, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/20/9._lei_municipal_aprovada_n._1193.2026.pdf",
+      "ano": 2026,
+      "norma": 4
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/21/9._lei_municipal_aprovada_n._1201.2026.pdf da norma Lei-PEM nº 1.201, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/21/9._lei_municipal_aprovada_n._1201.2026.pdf",
+      "ano": 2026,
+      "norma": 5
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/22/lei-aprovada-n-1202-2026.pdf da norma Lei-PEM nº 1.202, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/22/lei-aprovada-n-1202-2026.pdf",
+      "ano": 2026,
+      "norma": 6
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/23/lei-aprovada-n-1203-2026.pdf da norma Lei-PEM nº 1.203, de 12 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/23/lei-aprovada-n-1203-2026.pdf",
+      "ano": 2026,
+      "norma": 7
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/24/lei-municipal-sancionada-n-1204-2026.pdf da norma Lei-PEM nº 1.204, de 29 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/24/lei-municipal-sancionada-n-1204-2026.pdf",
+      "ano": 2026,
+      "norma": 8
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/25/lei-municipal-aprovada-n-1205-2026.pdf da norma Lei-PEM nº 1.205, de 11 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/25/lei-municipal-aprovada-n-1205-2026.pdf",
+      "ano": 2026,
+      "norma": 10
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/26/lei-municipal-aprovada-n-1206-2026.pdf da norma Lei-PEM nº 1.206, de 25 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/26/lei-municipal-aprovada-n-1206-2026.pdf",
+      "ano": 2026,
+      "norma": 11
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/27/lei-municipal-aprovada-n-1208-2026.pdf da norma Lei-PEM nº 1.208, de 10 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/27/lei-municipal-aprovada-n-1208-2026.pdf",
+      "ano": 2026,
+      "norma": 13
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/28/lei-municipal-aprovada-n-1209-2026.pdf da norma Lei-PEM nº 1.209, de 10 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/28/lei-municipal-aprovada-n-1209-2026.pdf",
+      "ano": 2026,
+      "norma": 14
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/lei-municipal-aprovada-n-1210-2026.pdf da norma Lei-PEM nº 1.210, de 17 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/29/lei-municipal-aprovada-n-1210-2026.pdf",
+      "ano": 2026,
+      "norma": 9
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/30/lei-municipal-sancionada-n-1211-2026.pdf da norma Lei-PEM nº 1.211, de 17 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/30/lei-municipal-sancionada-n-1211-2026.pdf",
+      "ano": 2026,
+      "norma": 16
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/31/lei-aprovada-n-1212-2026.pdf da norma Lei-PEM nº 1.212, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/31/lei-aprovada-n-1212-2026.pdf",
+      "ano": 2026,
+      "norma": 12
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/32/lei-aprovada-n-1213-2026.pdf da norma Lei-PEM nº 1.213, de 17 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/32/lei-aprovada-n-1213-2026.pdf",
+      "ano": 2026,
+      "norma": 15
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/33/lei-municipal-aprovada-n-1198-2026.pdf da norma Lei-PEM nº 1.198, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/33/lei-municipal-aprovada-n-1198-2026.pdf",
+      "ano": 2026,
+      "norma": 18
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/34/publicacao_da_lei_municipal_sancionada_no_1198.2026.pdf da norma Lei-PEM nº 1.198, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/34/publicacao_da_lei_municipal_sancionada_no_1198.2026.pdf",
+      "ano": 2026,
+      "norma": 18
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/35/ato_da_mesa_n._002.2026_e_parecer_previo_do_tribunal_de_contas.pdf da norma Ato da Mesa-PRES nº 2, de 27 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/35/ato_da_mesa_n._002.2026_e_parecer_previo_do_tribunal_de_contas.pdf",
+      "ano": 2026,
+      "norma": 19
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/36/lei-aprovada-n-1215-2026.pdf da norma Lei-PEM nº 1.215, de 28 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/36/lei-aprovada-n-1215-2026.pdf",
+      "ano": 2026,
+      "norma": 20
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/37/publicacao-lei-municipal-n-1215-2026.pdf da norma Lei-PEM nº 1.215, de 28 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/37/publicacao-lei-municipal-n-1215-2026.pdf",
+      "ano": 2026,
+      "norma": 20
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/38/lei-aprovada-n-1216-2026.pdf da norma Lei-PEM nº 1.216, de 28 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/38/lei-aprovada-n-1216-2026.pdf",
+      "ano": 2026,
+      "norma": 21
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/39/publicacao-da-lei-aprovada-n-1216-2026.pdf da norma Lei-PEM nº 1.216, de 28 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/39/publicacao-da-lei-aprovada-n-1216-2026.pdf",
+      "ano": 2026,
+      "norma": 21
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/40/lei-aprovada-n-1.217-2026.pdf da norma Lei-PEM nº 1.217, de 28 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/40/lei-aprovada-n-1.217-2026.pdf",
+      "ano": 2026,
+      "norma": 22
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/publicacao-da-lei-sancionada-n-1217-2026.pdf da norma Lei-PEM nº 1.217, de 28 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/41/publicacao-da-lei-sancionada-n-1217-2026.pdf",
+      "ano": 2026,
+      "norma": 22
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/42/lei-municipal-aprovada-n-1214-2026.pdf da norma Lei-PEM nº 1.214, de 23 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/42/lei-municipal-aprovada-n-1214-2026.pdf",
+      "ano": 2026,
+      "norma": 23
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/43/publicacao-da-lei-municipal-n-1214-2026.pdf da norma Lei-PEM nº 1.214, de 23 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/43/publicacao-da-lei-municipal-n-1214-2026.pdf",
+      "ano": 2026,
+      "norma": 23
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/44/publicacao_da_lei_municipal_sancionada_no_1149.2025.pdf da norma Lei-PEM nº 1.149, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/44/publicacao_da_lei_municipal_sancionada_no_1149.2025.pdf",
+      "ano": 2025,
+      "norma": 24
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/45/publicacao_da_lei_municipal_sancionada_no_1150.2025.pdf da norma Lei-PEM nº 1.150, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/45/publicacao_da_lei_municipal_sancionada_no_1150.2025.pdf",
+      "ano": 2025,
+      "norma": 25
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/46/publicacao_da_lei_municipal_sancionada_no_1151.2025.pdf da norma Lei-PEM nº 1.151, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/46/publicacao_da_lei_municipal_sancionada_no_1151.2025.pdf",
+      "ano": 2025,
+      "norma": 26
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/47/publicacao_da_lei_municipal_sancionada_no_1153.2025.pdf da norma Lei-PEM nº 1.153, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/47/publicacao_da_lei_municipal_sancionada_no_1153.2025.pdf",
+      "ano": 2025,
+      "norma": 27
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/48/publicacao_da_lei_municipal_sancionada_no_1154.2025.pdf da norma Lei-PEM nº 1.154, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/48/publicacao_da_lei_municipal_sancionada_no_1154.2025.pdf",
+      "ano": 2025,
+      "norma": 28
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/49/publicacao_da_lei_municipal_sancionada_no_1155.2025.pdf da norma Lei-PEM nº 1.155, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/49/publicacao_da_lei_municipal_sancionada_no_1155.2025.pdf",
+      "ano": 2025,
+      "norma": 29
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/publicacao_da_lei_municipal_sancionada_no_1157.2025.pdf da norma Lei-PEM nº 1.157, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/50/publicacao_da_lei_municipal_sancionada_no_1157.2025.pdf",
+      "ano": 2025,
+      "norma": 30
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/lei-municipal-n-1163-2025.pdf da norma Lei-PEM nº 1.163, de 26 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/51/lei-municipal-n-1163-2025.pdf",
+      "ano": 2025,
+      "norma": 31
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/publicacao_da_lei_municipal_sancionada_no_1163.2025.pdf da norma Lei-PEM nº 1.163, de 26 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/52/publicacao_da_lei_municipal_sancionada_no_1163.2025.pdf",
+      "ano": 2025,
+      "norma": 31
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/53/lei-municipal-aprovada-n-1149-2025.pdf da norma Lei-PEM nº 1.149, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/53/lei-municipal-aprovada-n-1149-2025.pdf",
+      "ano": 2025,
+      "norma": 24
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/54/lei-municipal-aprovada-n-1150-2025.pdf da norma Lei-PEM nº 1.150, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/54/lei-municipal-aprovada-n-1150-2025.pdf",
+      "ano": 2025,
+      "norma": 25
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/lei-municipal-aprovada-n-1152-2025.pdf da norma Lei-PEM nº 1.152, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/55/lei-municipal-aprovada-n-1152-2025.pdf",
+      "ano": 2025,
+      "norma": 32
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/56/publicacao_da_lei_municipal_sancionada_no_1152.2025.pdf da norma Lei-PEM nº 1.152, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/56/publicacao_da_lei_municipal_sancionada_no_1152.2025.pdf",
+      "ano": 2025,
+      "norma": 32
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/57/lei-municipal-aprovada-n-1153-2025.pdf da norma Lei-PEM nº 1.153, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/57/lei-municipal-aprovada-n-1153-2025.pdf",
+      "ano": 2025,
+      "norma": 27
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/58/lei-municipal-aprovada-n-1154-2025.pdf da norma Lei-PEM nº 1.154, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/58/lei-municipal-aprovada-n-1154-2025.pdf",
+      "ano": 2025,
+      "norma": 28
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/lei-municipal-aprovada-n-1151-2024.pdf da norma Lei-PEM nº 1.151, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/59/lei-municipal-aprovada-n-1151-2024.pdf",
+      "ano": 2025,
+      "norma": 26
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/lei-municipal-aprovada-n-1155-2025.pdf da norma Lei-PEM nº 1.155, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/60/lei-municipal-aprovada-n-1155-2025.pdf",
+      "ano": 2025,
+      "norma": 29
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/lei-aprovada-n-1157-2026.pdf da norma Lei-PEM nº 1.157, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/61/lei-aprovada-n-1157-2026.pdf",
+      "ano": 2025,
+      "norma": 30
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/62/portaria_n_002.2026_-_contratacao_cargo_comissionado.pdf da norma Portaria-PRES nº 2, de 05 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/62/portaria_n_002.2026_-_contratacao_cargo_comissionado.pdf",
+      "ano": 2026,
+      "norma": 34
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/63/portaria_n_003.2026_-_gratificacao_supervisor_de_controle_patrimonial.pdf da norma Portaria-PRES nº 3, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Camara Municipal de Guaporema",
+                [
+                  "2026-03-09T16:59:09-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/63/portaria_n_003.2026_-_gratificacao_supervisor_de_controle_patrimonial.pdf",
+      "ano": 2026,
+      "norma": 35
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/64/portaria_n_001.2026_-_gratificacao_agente_de_contratacao.pdf da norma Portaria-PRES nº 1, de 25 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Camara Municipal de Guaporema",
+                [
+                  "2026-02-25T09:33:12-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/64/portaria_n_001.2026_-_gratificacao_agente_de_contratacao.pdf",
+      "ano": 2026,
+      "norma": 33
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/publicacao-da-portaria-n-001-2022.pdf da norma Portaria-PRES nº 1, de 03 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/65/publicacao-da-portaria-n-001-2022.pdf",
+      "ano": 2022,
+      "norma": 37
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/66/publicacao-da-portaria-n-002-2022.pdf da norma Portaria-PRES nº 2, de 03 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/66/publicacao-da-portaria-n-002-2022.pdf",
+      "ano": 2022,
+      "norma": 38
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/67/publicacao-da-portaria-n-003-2022.pdf da norma Portaria-PRES nº 3, de 03 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/67/publicacao-da-portaria-n-003-2022.pdf",
+      "ano": 2022,
+      "norma": 39
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/68/publicacao-da-portaria-n-004-2022.pdf da norma Portaria-PRES nº 4, de 03 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/68/publicacao-da-portaria-n-004-2022.pdf",
+      "ano": 2022,
+      "norma": 40
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/69/publicacao-da-portaria-n-005-2022.pdf da norma Portaria-PRES nº 5, de 19 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/69/publicacao-da-portaria-n-005-2022.pdf",
+      "ano": 2022,
+      "norma": 41
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/publicacao-da-portaria-n-006-2022.pdf da norma Portaria-PRES nº 6, de 28 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/70/publicacao-da-portaria-n-006-2022.pdf",
+      "ano": 2022,
+      "norma": 42
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/71/publicacao-da-portaria-n-007-2022.pdf da norma Portaria-PRES nº 7, de 28 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/71/publicacao-da-portaria-n-007-2022.pdf",
+      "ano": 2022,
+      "norma": 43
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/publicacao-da-portaria-n-008-2022.pdf da norma Portaria-PRES nº 8, de 28 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/72/publicacao-da-portaria-n-008-2022.pdf",
+      "ano": 2022,
+      "norma": 44
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/73/publicacao-da-portaria-n-009-2022.pdf da norma Portaria-PRES nº 9, de 28 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/73/publicacao-da-portaria-n-009-2022.pdf",
+      "ano": 2022,
+      "norma": 45
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/74/publicacao-da-portaria-n-010-2022.pdf da norma Portaria-PRES nº 10, de 03 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/74/publicacao-da-portaria-n-010-2022.pdf",
+      "ano": 2022,
+      "norma": 46
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/75/publicacao-da-portaria-n-004-2026.pdf da norma Portaria-PRES nº 4, de 23 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/75/publicacao-da-portaria-n-004-2026.pdf",
+      "ano": 2026,
+      "norma": 36
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/76/publicacao-da-portaria-n-003-2026.pdf da norma Portaria-PRES nº 3, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/76/publicacao-da-portaria-n-003-2026.pdf",
+      "ano": 2026,
+      "norma": 35
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/77/publicacao-da-portaria-n-001-2023.pdf da norma Portaria-PRES nº 1, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/77/publicacao-da-portaria-n-001-2023.pdf",
+      "ano": 2023,
+      "norma": 47
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/78/publicacao-da-portaria-n-002-2023.pdf da norma Portaria-PRES nº 2, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/78/publicacao-da-portaria-n-002-2023.pdf",
+      "ano": 2023,
+      "norma": 48
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/79/publicacao-da-portaria-n-003-2023.pdf da norma Portaria-PRES nº 3, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/79/publicacao-da-portaria-n-003-2023.pdf",
+      "ano": 2023,
+      "norma": 49
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/80/publicacao-da-portaria-n-004-2023.pdf da norma Portaria-PRES nº 4, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/80/publicacao-da-portaria-n-004-2023.pdf",
+      "ano": 2023,
+      "norma": 50
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/81/publicacao-da-portaria-n-005-2023.pdf da norma Portaria-PRES nº 5, de 06 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/81/publicacao-da-portaria-n-005-2023.pdf",
+      "ano": 2023,
+      "norma": 51
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/82/publicacao-da-portaria-n-001-2024.pdf da norma Portaria-PRES nº 1, de 02 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/82/publicacao-da-portaria-n-001-2024.pdf",
+      "ano": 2024,
+      "norma": 52
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/83/publicacao-da-portaria-n-002-2024.pdf da norma Portaria-PRES nº 2, de 02 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/83/publicacao-da-portaria-n-002-2024.pdf",
+      "ano": 2024,
+      "norma": 53
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/84/publicacao-da-portaria-n-003-2024.pdf da norma Portaria-PRES nº 3, de 02 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/84/publicacao-da-portaria-n-003-2024.pdf",
+      "ano": 2024,
+      "norma": 54
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/85/publicacao-da-portaria-n-004-2024.pdf da norma Portaria-PRES nº 4, de 02 de janeiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/85/publicacao-da-portaria-n-004-2024.pdf",
+      "ano": 2024,
+      "norma": 55
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/86/publicacao-da-portaria-n-005-2024.pdf da norma Portaria-PRES nº 5, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/86/publicacao-da-portaria-n-005-2024.pdf",
+      "ano": 2024,
+      "norma": 56
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/87/publicacao-da-portaria-n-006-2024.pdf da norma Portaria-PRES nº 6, de 14 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/87/publicacao-da-portaria-n-006-2024.pdf",
+      "ano": 2024,
+      "norma": 57
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/88/publicacao-da-portaria-n-007-2024.pdf da norma Portaria-PRES nº 7, de 02 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/88/publicacao-da-portaria-n-007-2024.pdf",
+      "ano": 2024,
+      "norma": 58
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/89/publicacao-da-portaria-n-001-2025.pdf da norma Portaria-PRES nº 1, de 02 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/89/publicacao-da-portaria-n-001-2025.pdf",
+      "ano": 2025,
+      "norma": 59
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/90/publicacao-da-portaria-n-002-2025.pdf da norma Portaria-PRES nº 2, de 02 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/90/publicacao-da-portaria-n-002-2025.pdf",
+      "ano": 2025,
+      "norma": 60
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/91/publicacao-da-portaria-n-003-2025.pdf da norma Portaria-PRES nº 3, de 02 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/91/publicacao-da-portaria-n-003-2025.pdf",
+      "ano": 2025,
+      "norma": 61
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/92/publicacao-da-portaria-n-004-2025.pdf da norma Portaria-PRES nº 4, de 02 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/92/publicacao-da-portaria-n-004-2025.pdf",
+      "ano": 2025,
+      "norma": 62
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/93/publicacao-da-portaria-n-005-2025.pdf da norma Portaria-PRES nº 5, de 03 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/93/publicacao-da-portaria-n-005-2025.pdf",
+      "ano": 2025,
+      "norma": 63
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/94/publicacao-da-portaria-n-006-2025.pdf da norma Portaria-PRES nº 6, de 26 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/94/publicacao-da-portaria-n-006-2025.pdf",
+      "ano": 2025,
+      "norma": 64
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/95/portaria-n-006a-2025.pdf da norma Portaria-PRES nº 6A, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/95/portaria-n-006a-2025.pdf",
+      "ano": 2025,
+      "norma": 65
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/96/publicacao-da-portaria-n-007-2025.pdf da norma Portaria-PRES nº 7, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/96/publicacao-da-portaria-n-007-2025.pdf",
+      "ano": 2025,
+      "norma": 66
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/97/publicacao-da-portaria-n-008-2025.pdf da norma Portaria-PRES nº 8, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/97/publicacao-da-portaria-n-008-2025.pdf",
+      "ano": 2025,
+      "norma": 67
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/98/publicacao-da-portaria-n-009-2025.pdf da norma Portaria-PRES nº 9, de 29 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/98/publicacao-da-portaria-n-009-2025.pdf",
+      "ano": 2025,
+      "norma": 68
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/99/publicaca-da-portaria-n-001-2021.pdf da norma Portaria-PRES nº 1, de 04 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2021/99/publicaca-da-portaria-n-001-2021.pdf",
+      "ano": 2021,
+      "norma": 69
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/100/publicaca-da-portaria-n-002-2021.pdf da norma Portaria-PRES nº 2, de 04 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2021/100/publicaca-da-portaria-n-002-2021.pdf",
+      "ano": 2021,
+      "norma": 70
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/101/publicaca-da-portaria-n-003-2021.pdf da norma Portaria-PRES nº 3, de 04 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2021/101/publicaca-da-portaria-n-003-2021.pdf",
+      "ano": 2021,
+      "norma": 71
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/102/publicaca-da-portaria-n-004-2021.pdf da norma Portaria-PRES nº 4, de 04 de janeiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2021/102/publicaca-da-portaria-n-004-2021.pdf",
+      "ano": 2021,
+      "norma": 72
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/103/publicaca-da-portaria-n-005-2021.pdf da norma Portaria-PRES nº 5, de 09 de fevereiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2021/103/publicaca-da-portaria-n-005-2021.pdf",
+      "ano": 2021,
+      "norma": 73
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/104/publicacao-da-resolucao-n-004-2009.pdf da norma Resolução-PRES nº 4, de 03 de novembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2009/104/publicacao-da-resolucao-n-004-2009.pdf",
+      "ano": 2009,
+      "norma": 75
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/106/errata-de-publicacao.pdf da norma Resolução-PRES nº 2, de 26 de maio de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2002/106/errata-de-publicacao.pdf",
+      "ano": 2002,
+      "norma": 77
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/107/publicacao-da-errada.pdf da norma Resolução-PRES nº 2, de 26 de maio de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2002/107/publicacao-da-errada.pdf",
+      "ano": 2002,
+      "norma": 77
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/108/publicacao-resolucao-n-001-2014.pdf da norma Resolução-PRES nº 1, de 24 de junho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2014/108/publicacao-resolucao-n-001-2014.pdf",
+      "ano": 2014,
+      "norma": 80
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/109/publicacao-da-resolucao-n-002-2014.pdf da norma Resolução-PRES nº 2, de 02 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2014/109/publicacao-da-resolucao-n-002-2014.pdf",
+      "ano": 2014,
+      "norma": 81
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/110/publicacao-resolucao-n-001-2015.pdf da norma Resolução-PRES nº 1, de 24 de novembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2015/110/publicacao-resolucao-n-001-2015.pdf",
+      "ano": 2015,
+      "norma": 82
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/111/publicacao-da-resolucao-n-001-2016.pdf da norma Resolução-PRES nº 1, de 13 de junho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2016/111/publicacao-da-resolucao-n-001-2016.pdf",
+      "ano": 2016,
+      "norma": 83
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/112/publicacao-da-resolucao-n-001-2017.pdf da norma Resolução-PRES nº 1, de 27 de março de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2017/112/publicacao-da-resolucao-n-001-2017.pdf",
+      "ano": 2017,
+      "norma": 84
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/113/publicacao-da-resolucao-n-001-2019.pdf da norma Resolução-PRES nº 1, de 25 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2019/113/publicacao-da-resolucao-n-001-2019.pdf",
+      "ano": 2019,
+      "norma": 85
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/114/publicacao-da-resolucao-n-001-2021.pdf da norma Resolução-PRES nº 1, de 19 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2021/114/publicacao-da-resolucao-n-001-2021.pdf",
+      "ano": 2021,
+      "norma": 86
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/115/publicacao-da-resolucao-n-002-2021.pdf da norma Resolução-PRES nº 2, de 28 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2021/115/publicacao-da-resolucao-n-002-2021.pdf",
+      "ano": 2021,
+      "norma": 87
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/116/publicacao-da-resolucao-n-001-2022.pdf da norma Resolução-PRES nº 1, de 11 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/116/publicacao-da-resolucao-n-001-2022.pdf",
+      "ano": 2022,
+      "norma": 88
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/117/publicacao-da-resolucao-n-002-2022.pdf da norma Resolução-PRES nº 2, de 11 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2022/117/publicacao-da-resolucao-n-002-2022.pdf",
+      "ano": 2022,
+      "norma": 89
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/118/publicacao-da-resolucao-n-002-2024.pdf da norma Resolução-PRES nº 2, de 21 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/118/publicacao-da-resolucao-n-002-2024.pdf",
+      "ano": 2024,
+      "norma": 90
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/119/publicacao-da-resolucao-n-001-2025.pdf da norma Resolução-PRES nº 1, de 10 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/119/publicacao-da-resolucao-n-001-2025.pdf",
+      "ano": 2025,
+      "norma": 91
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/120/publicacao-da-resolucao-n-002-2025.pdf da norma Resolução-PRES nº 2, de 10 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/120/publicacao-da-resolucao-n-002-2025.pdf",
+      "ano": 2025,
+      "norma": 92
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/121/publicacao-da-resolucao-n-003-2025.pdf da norma Resolução-PRES nº 3, de 15 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/121/publicacao-da-resolucao-n-003-2025.pdf",
+      "ano": 2025,
+      "norma": 93
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/122/lei-municipal-aprovada-n-1195-2026.pdf da norma Lei-PEM nº 1.195, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/122/lei-municipal-aprovada-n-1195-2026.pdf",
+      "ano": 2026,
+      "norma": 94
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/123/publicacao_da_lei_municipal_sancionada_no_1195.2026.pdf da norma Lei-PEM nº 1.195, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/123/publicacao_da_lei_municipal_sancionada_no_1195.2026.pdf",
+      "ano": 2026,
+      "norma": 94
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/124/lei-municipal-aprovada-n-1196-2026.pdf da norma Lei-PRES nº 1.196, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/124/lei-municipal-aprovada-n-1196-2026.pdf",
+      "ano": 2026,
+      "norma": 95
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/125/lei-municipal-aprovada-n-1194-2026.pdf da norma Lei-PEM nº 1.194, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/125/lei-municipal-aprovada-n-1194-2026.pdf",
+      "ano": 2026,
+      "norma": 17
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/126/lei-municipal-aprovada-n-1200-2026.pdf da norma Lei-PEM nº 1.200, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/126/lei-municipal-aprovada-n-1200-2026.pdf",
+      "ano": 2026,
+      "norma": 96
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/127/publicacao-da-lei-municipal-sancionada-n-1200-2026.pdf da norma Lei-PEM nº 1.200, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/127/publicacao-da-lei-municipal-sancionada-n-1200-2026.pdf",
+      "ano": 2026,
+      "norma": 96
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/128/lei-municipal-aprovada-n-1199-2026.pdf da norma Lei-PEM nº 1.199, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/128/lei-municipal-aprovada-n-1199-2026.pdf",
+      "ano": 2026,
+      "norma": 97
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/129/publicacao_da_lei_municipal_sancionada_no_1199.2026.pdf da norma Lei-PEM nº 1.199, de 03 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/129/publicacao_da_lei_municipal_sancionada_no_1199.2026.pdf",
+      "ano": 2026,
+      "norma": 97
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/130/lei-municipal-aprovada-n-1197-2026.pdf da norma Lei-PEM nº 1.197, de 04 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/130/lei-municipal-aprovada-n-1197-2026.pdf",
+      "ano": 2026,
+      "norma": 98
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/131/publicacao_da_lei_municipal_sancionada_no_1197.2026.pdf da norma Lei-PEM nº 1.197, de 04 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/131/publicacao_da_lei_municipal_sancionada_no_1197.2026.pdf",
+      "ano": 2026,
+      "norma": 98
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/132/publicacao-do-decreto-legislativo-n-001-2025.pdf da norma Decreto Legislativo-PRES nº 1, de 30 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/132/publicacao-do-decreto-legislativo-n-001-2025.pdf",
+      "ano": 2025,
+      "norma": 99
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/133/publicacao-do-ato-da-mesa-n-004-2024.pdf da norma Ato da Mesa-PRES nº 4, de 14 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/133/publicacao-do-ato-da-mesa-n-004-2024.pdf",
+      "ano": 2024,
+      "norma": 100
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/134/publicacao-do-ato-da-mesa-002-2024.pdf da norma Ato da Mesa-PRES nº 2, de 27 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/134/publicacao-do-ato-da-mesa-002-2024.pdf",
+      "ano": 2024,
+      "norma": 101
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/135/publicacao-do-decreto-legislativo-n-002-2024.pdf da norma Decreto Legislativo-PRES nº 2, de 18 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2024/135/publicacao-do-decreto-legislativo-n-002-2024.pdf",
+      "ano": 2024,
+      "norma": 102
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/136/publicacao-ato-da-mesa-n-004-2023.pdf da norma Ato da Mesa-PRES nº 4, de 11 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/136/publicacao-ato-da-mesa-n-004-2023.pdf",
+      "ano": 2023,
+      "norma": 103
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/137/publicacao-do-decreto-legislativo-n-001-2023-e-parecer-da-comissao-de-justica-e-redacao.pdf da norma Decreto Legislativo-PRES nº 1, de 11 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/137/publicacao-do-decreto-legislativo-n-001-2023-e-parecer-da-comissao-de-justica-e-redacao.pdf",
+      "ano": 2023,
+      "norma": 104
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/138/publicacao-do-decreto-legislativo-n-002-2023-e-parecer-da-comissao-de_justica-e-redacao.pdf da norma Decreto Legislativo-PRES nº 2, de 11 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/138/publicacao-do-decreto-legislativo-n-002-2023-e-parecer-da-comissao-de_justica-e-redacao.pdf",
+      "ano": 2023,
+      "norma": 105
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/139/publicacao-ato-da-mesa-n-003-2023.pdf da norma Ato da Mesa-PLEN nº 3, de 11 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2023/139/publicacao-ato-da-mesa-n-003-2023.pdf",
+      "ano": 2023,
+      "norma": 106
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/140/lei-municipal-aprovada-n-1158-2025.pdf da norma Lei-PEM nº 1.158, de 26 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/140/lei-municipal-aprovada-n-1158-2025.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/141/publicaca-da-lei-sancionada-n-1158-2025.pdf da norma Lei-PEM nº 1.158, de 26 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/141/publicaca-da-lei-sancionada-n-1158-2025.pdf",
+      "ano": 2025,
+      "norma": 108
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/142/lei-municipal-n-1159-2025.pdf da norma Lei-PEM nº 1.159, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/142/lei-municipal-n-1159-2025.pdf",
+      "ano": 2025,
+      "norma": 109
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/143/publicacao-da-lei-municipal-sancionada-n-1159-2025.pdf da norma Lei-PEM nº 1.159, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/143/publicacao-da-lei-municipal-sancionada-n-1159-2025.pdf",
+      "ano": 2025,
+      "norma": 109
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/144/lei-municipal-aprovada-n-1160-2025.pdf da norma Lei-PEM nº 1.160, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/144/lei-municipal-aprovada-n-1160-2025.pdf",
+      "ano": 2025,
+      "norma": 110
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/145/publicacao-da-lei-municipal-sancionada-n-1160-2025.pdf da norma Lei-PEM nº 1.160, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/145/publicacao-da-lei-municipal-sancionada-n-1160-2025.pdf",
+      "ano": 2025,
+      "norma": 110
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/146/lei-municipal-aprovada-n-1161-2025.pdf da norma Lei-PEM nº 1.161, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/146/lei-municipal-aprovada-n-1161-2025.pdf",
+      "ano": 2025,
+      "norma": 111
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/147/publicacao-da-lei-sancionada-n-1161-2025.pdf da norma Lei-PEM nº 1.161, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/147/publicacao-da-lei-sancionada-n-1161-2025.pdf",
+      "ano": 2025,
+      "norma": 111
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/148/lei-municipal-aprovada-n-1162-2025.pdf da norma Lei-PEM nº 1.162, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/148/lei-municipal-aprovada-n-1162-2025.pdf",
+      "ano": 2025,
+      "norma": 112
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/149/publicacao-da-lei-sancionada-n-1162-2025-em-26-06-2025.pdf da norma Lei-PEM nº 1.162, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/149/publicacao-da-lei-sancionada-n-1162-2025-em-26-06-2025.pdf",
+      "ano": 2025,
+      "norma": 112
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/150/publicacao-da-lei-sancionada-n-1162-2025-em-27-06-2025.pdf da norma Lei-PEM nº 1.162, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/150/publicacao-da-lei-sancionada-n-1162-2025-em-27-06-2025.pdf",
+      "ano": 2025,
+      "norma": 112
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/151/lei-municipal-sancionada-n-1164-2025.pdf da norma Lei-PEM nº 1.164, de 07 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/151/lei-municipal-sancionada-n-1164-2025.pdf",
+      "ano": 2025,
+      "norma": 113
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/152/publicacao-da-lei-municipal-sancionada-n-1164-2025.pdf da norma Lei-PEM nº 1.164, de 07 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/152/publicacao-da-lei-municipal-sancionada-n-1164-2025.pdf",
+      "ano": 2025,
+      "norma": 113
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/153/lei-municipal-aprovada-n-1165-2025.pdf da norma Lei-PEM nº 1.165, de 11 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/153/lei-municipal-aprovada-n-1165-2025.pdf",
+      "ano": 2025,
+      "norma": 114
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/154/publicacao-da-lei-sancionada-n-1165-2025.pdf da norma Lei-PEM nº 1.165, de 11 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/154/publicacao-da-lei-sancionada-n-1165-2025.pdf",
+      "ano": 2025,
+      "norma": 114
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/155/lei-municipal-n-1166-2025.pdf da norma Lei-PEM nº 1.166, de 18 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/155/lei-municipal-n-1166-2025.pdf",
+      "ano": 2025,
+      "norma": 115
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/156/publicacao-da-lei-sancionada-n-1166-2025.pdf da norma Lei-PEM nº 1.166, de 18 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/156/publicacao-da-lei-sancionada-n-1166-2025.pdf",
+      "ano": 2025,
+      "norma": 115
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/157/portaria-005-2026_designacao-coordenacao-prolegis_publicacao.pdf da norma Portaria-PRES nº 5, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/157/portaria-005-2026_designacao-coordenacao-prolegis_publicacao.pdf",
+      "ano": 2026,
+      "norma": 116
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/158/portaria-006-2026_designacao-responsaveis-sic_publicacao.pdf da norma Portaria-PRES nº 6, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/158/portaria-006-2026_designacao-responsaveis-sic_publicacao.pdf",
+      "ano": 2026,
+      "norma": 117
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/159/portaria-007-2026_designacao-ouvidoria_publicacao.pdf da norma Portaria-PRES nº 7, de 26 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/159/portaria-007-2026_designacao-ouvidoria_publicacao.pdf",
+      "ano": 2026,
+      "norma": 118
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/160/resolucao-001-2026_governanca-prolegis_publicacao.pdf da norma Resolução-PRES nº 1, de 17 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/160/resolucao-001-2026_governanca-prolegis_publicacao.pdf",
+      "ano": 2026,
+      "norma": 119
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/161/resolucao-002-2026_acesso-informacao-sic_publicacao.pdf da norma Resolução-PRES nº 2, de 17 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/161/resolucao-002-2026_acesso-informacao-sic_publicacao.pdf",
+      "ano": 2026,
+      "norma": 120
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/162/resolucao-003-2026_ouvidoria-participacao-social_publicacao.pdf da norma Resolução-PRES nº 3, de 17 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2026/162/resolucao-003-2026_ouvidoria-participacao-social_publicacao.pdf",
+      "ano": 2026,
+      "norma": 121
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/163/lei-municipal-aprovada-n-1175-2025.pdf da norma Lei-PEM nº 1.175, de 03 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/163/lei-municipal-aprovada-n-1175-2025.pdf",
+      "ano": 2025,
+      "norma": 123
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/164/publicacao-da-lei-municipal-sancionada-n-1175-2025.pdf da norma Lei-PEM nº 1.175, de 03 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/164/publicacao-da-lei-municipal-sancionada-n-1175-2025.pdf",
+      "ano": 2025,
+      "norma": 123
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/165/publicacao-dos-pareceres.pdf da norma Ato da Mesa-PRES nº 3, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/165/publicacao-dos-pareceres.pdf",
+      "ano": 2025,
+      "norma": 124
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/166/lei-municipal-aprovada-n-1186-2025.pdf da norma Lei-PEM nº 1.186, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/166/lei-municipal-aprovada-n-1186-2025.pdf",
+      "ano": 2025,
+      "norma": 125
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/167/publicacao-da-lei-sancionada-n-1186-2025.pdf da norma Lei-PEM nº 1.186, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/167/publicacao-da-lei-sancionada-n-1186-2025.pdf",
+      "ano": 2025,
+      "norma": 125
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/168/lei-municipal-aprovada-n-1167-2025.pdf da norma Lei-PEM nº 1.167, de 25 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/168/lei-municipal-aprovada-n-1167-2025.pdf",
+      "ano": 2025,
+      "norma": 126
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/169/publicacai-da-lei-municipal-sancionada-n-1167-2025.pdf da norma Lei-PEM nº 1.167, de 25 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/169/publicacai-da-lei-municipal-sancionada-n-1167-2025.pdf",
+      "ano": 2025,
+      "norma": 126
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/170/lei-municipal-aprovada-n-1168-2025.pdf da norma Lei-PEM nº 1.168, de 01 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/170/lei-municipal-aprovada-n-1168-2025.pdf",
+      "ano": 2025,
+      "norma": 127
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/171/publicacao-da-lei-municipal-sancionada-n-1168-2025.pdf da norma Lei-PEM nº 1.168, de 01 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/171/publicacao-da-lei-municipal-sancionada-n-1168-2025.pdf",
+      "ano": 2025,
+      "norma": 127
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/172/lei-municipal-aprovada-n-1169-2025.pdf da norma Lei-PEM nº 1.169, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/172/lei-municipal-aprovada-n-1169-2025.pdf",
+      "ano": 2025,
+      "norma": 128
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/173/publicacao-da-lei-municipal-sancionada-n-1169-2025.pdf da norma Lei-PEM nº 1.169, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/173/publicacao-da-lei-municipal-sancionada-n-1169-2025.pdf",
+      "ano": 2025,
+      "norma": 128
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/174/lei-municipal-aprovada-n-1170-2025.pdf da norma Lei-PEM nº 1.170, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/174/lei-municipal-aprovada-n-1170-2025.pdf",
+      "ano": 2025,
+      "norma": 129
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/175/publicacao-da-lei-municipal-sancionada-n-1170-2025.pdf da norma Lei-PEM nº 1.170, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/175/publicacao-da-lei-municipal-sancionada-n-1170-2025.pdf",
+      "ano": 2025,
+      "norma": 129
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/176/lei-municipal-aprovada-n-1171-2025.pdf da norma Lei-PEM nº 1.171, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/176/lei-municipal-aprovada-n-1171-2025.pdf",
+      "ano": 2025,
+      "norma": 130
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/177/publicacao-da-lei-municipal-sancionada-n-1171-2025.pdf da norma Lei-PEM nº 1.171, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/177/publicacao-da-lei-municipal-sancionada-n-1171-2025.pdf",
+      "ano": 2025,
+      "norma": 130
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/178/lei-municipal-aprovada-n-1172-2025.pdf da norma Lei-PRES nº 1.172, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/178/lei-municipal-aprovada-n-1172-2025.pdf",
+      "ano": 2025,
+      "norma": 131
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/179/publicacao-da-lei-municipal-aprovada-n-1172-2025.pdf da norma Lei-PRES nº 1.172, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/179/publicacao-da-lei-municipal-aprovada-n-1172-2025.pdf",
+      "ano": 2025,
+      "norma": 131
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/180/lei-municipal-aprovada-n-1173-2025.pdf da norma Lei-PEM nº 1.173, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/180",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/180/lei-municipal-aprovada-n-1173-2025.pdf",
+      "ano": 2025,
+      "norma": 132
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/181/publicacao-da-lei-municipal-sancionada-n-1173-2025.pdf da norma Lei-PEM nº 1.173, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/181/publicacao-da-lei-municipal-sancionada-n-1173-2025.pdf",
+      "ano": 2025,
+      "norma": 132
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/182/lei-municipal-aprovada-n-1174-2025.pdf da norma Lei-PEM nº 1.174, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/182/lei-municipal-aprovada-n-1174-2025.pdf",
+      "ano": 2025,
+      "norma": 133
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/183/publicacao-da-lei-municipal-sancionada-n-1174-2025.pdf da norma Lei-PEM nº 1.174, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/183/publicacao-da-lei-municipal-sancionada-n-1174-2025.pdf",
+      "ano": 2025,
+      "norma": 133
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/184/lei-municipal-aprovada-n-1176-2025.pdf da norma Lei-PEM nº 1.176, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/184/lei-municipal-aprovada-n-1176-2025.pdf",
+      "ano": 2025,
+      "norma": 134
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/185/publicacao-da-lei-sancionada-n-1176-2025.pdf da norma Lei-PEM nº 1.176, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/185/publicacao-da-lei-sancionada-n-1176-2025.pdf",
+      "ano": 2025,
+      "norma": 134
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/186/lei-municipal-aprovada-n-1177-2025.pdf da norma Lei-PEM nº 1.177, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/186/lei-municipal-aprovada-n-1177-2025.pdf",
+      "ano": 2025,
+      "norma": 135
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/187/publicacao-da-lei-municipal-sancionada-n-1177-2025.pdf da norma Lei-PEM nº 1.177, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/187/publicacao-da-lei-municipal-sancionada-n-1177-2025.pdf",
+      "ano": 2025,
+      "norma": 135
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/188/lei-municipal-aprovada-n-1179-2025.pdf da norma Lei-PEM nº 1.179, de 17 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/188/lei-municipal-aprovada-n-1179-2025.pdf",
+      "ano": 2025,
+      "norma": 136
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/189/publicacao-da-lei-municipal-sancionada-n-1179-2025.pdf da norma Lei-PEM nº 1.179, de 17 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guaporema.pr.leg.br/media/sapl/public/anexonormajuridica/2025/189/publicacao-da-lei-municipal-sancionada-n-1179-2025.pdf",
+      "ano": 2025,
+      "norma": 136
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaporema.pr.leg.br/fc3784dcc530c10a76f12688eb1ca62e17354dfc5a9bb79fa20530c13935b5bb.json",
+      "url": "https://sapl.guaporema.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.guaporema.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2ac459fe42c5130691f11617bfa5864399169a0b16f3af9af732e06fcac8d89a",
+      "bytes": 41897,
+      "capturado_em": "2026-10-28T13:26:30.294963-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guaporema.pr.leg.br/1d7737275199220cc3855ad5803f380f1a064a54109c698243fd8d60a82c39b5.json",
+      "url": "https://sapl.guaporema.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "url_final": "https://sapl.guaporema.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "eabcdff141bef453b805f46b485cd8bce930ecc363ea7dff911c576e35ab33d7",
+      "bytes": 37826,
+      "capturado_em": "2026-10-28T13:26:31.202348-03:00"
+    }
+  ]
+}

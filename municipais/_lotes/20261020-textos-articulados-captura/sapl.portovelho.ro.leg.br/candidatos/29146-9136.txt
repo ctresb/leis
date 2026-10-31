@@ -1,0 +1,53 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+
+Considerando o art. 8º, §§ 1º e 2º do Decreto n.º 21.694, de 08 de janeiro de 2026, que estabelece procedimentos e prazos para a operacionalização de ações governamentais com recursos oriundos de Emendas Parlamentares;
+
+
+Considerando o Ofício n° 1822/2026/SGOV-DEPGI, de 08 de abril de 2026, pelo qual a Secretaria de Governo - SGOV, encaminha o Ofício n.° 016/CTEAEP/2026, de 24 de março de 2026, referente a movimentação das Emendas Parlamentares n.° 156, n° 157 e n.° 158/2025 pelo Vereador Macário Barros em favor da Secretaria Municipal de Agricultura, Pecuária e Abastecimento - SEMAGRIC,
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 780.000,00 (setecentos e oitenta mil reais).
+
+
+Art. 2º.
+
+Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei n.º 3.348, de 27 de novembro de 2025 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+
+<table><tbody><tr><td colspan="7"><p><strong>09.00 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td colspan="7"><p><strong>09.01 - SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>09.01.12.361.311.2.231</p></td><td><p>Modernização da infraestrutura física das unidades educacionais</p></td><td><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>1.500.0025.1001.0010</p></td><td><p>250.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="2"><p>09.01.12.361.311.2.233</p></td><td rowspan="2"><p>Aquisição de mobiliário e equipamentos</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>1.500.0025.1001.0010</p></td><td><p>280.000,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.500.0025.1001.0010</p></td><td><p>250.000,00</p></td><td><p> </p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>780.000,00</strong></p></td><td><p><strong>-</strong></p></td></tr><tr><td colspan="7"><p><strong>15.00 - SECRETARIA MUNICIPAL DE AGRICULTURA - SEMAGRIC</strong></p></td></tr><tr><td colspan="7"><p><strong>15.01 - SECRETARIA MUNICIPAL DE AGRICULTURA - SEMAGRIC</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>15.01.20.608.340.2.603</p></td><td><p>Fortalecimento do comércio e abastecimento de produtos agropecuários da sociobiodiversidade</p></td><td><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>1.500.0000.0000.0010</p></td><td><p>-</p></td><td><p>780.000,00</p></td></tr><tr><td colspan="5"><p> </p></td><td><p>-</p></td><td><p><strong>780.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>780.000,00</strong></p></td><td><p><strong>780.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito do Município
+
+***WAGNER GARCIA DE FREITAS***
+
+Secretário Municipal de Economia
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município

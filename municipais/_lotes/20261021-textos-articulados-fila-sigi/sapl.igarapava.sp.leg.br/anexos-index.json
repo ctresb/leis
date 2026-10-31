@@ -1,0 +1,113 @@
+{
+  "estado": "indice_completo",
+  "total": 8,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/1/lei_301.2007.anexos.pdf da norma Lei Ordinária nº 301, de 31 de maio de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/2007/1/lei_301.2007.anexos.pdf",
+      "ano": 2007,
+      "norma": 678
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/2/lei_322.2007.anexos.pdf da norma Lei Ordinária nº 322, de 19 de novembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/2007/2/lei_322.2007.anexos.pdf",
+      "ano": 2007,
+      "norma": 699
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/3/lei_348.2008_anexos.pdf da norma Lei Ordinária nº 348, de 12 de junho de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/2008/3/lei_348.2008_anexos.pdf",
+      "ano": 2008,
+      "norma": 727
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/4/lei_complementar_003.2008.anexos.pdf da norma Lei Complementar nº 3, de 04 de abril de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/2008/4/lei_complementar_003.2008.anexos.pdf",
+      "ano": 2008,
+      "norma": 673
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/5/lei_1942.1997-ii.pdf da norma Lei Complementar nº 1.942, de 24 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS DA LEI COMPLEMENTAR 1942/1997.",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/1997/5/lei_1942.1997-ii.pdf",
+      "ano": 1997,
+      "norma": 895
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/6/convenio_procon.pdf da norma Lei Ordinária nº 12, de 10 de abril de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "CONVÊNIO PROCON",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/2001/6/convenio_procon.pdf",
+      "ano": 2001,
+      "norma": 1027
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/anexos_da_lei_840.2019.pdf da norma Lei Ordinária nº 840, de 26 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL ESPECÍFICO DOS SERVIÇOS DE SANEAMENTO BÁSICO - RESÍDUOS SÓLIDOS",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/2019/7/anexos_da_lei_840.2019.pdf",
+      "ano": 2019,
+      "norma": 139
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/exposicao_de_movitovs_-_ato_da_mesa_05.2026_-_anulacao_parcial_e_suplementacao.pdf da norma Atos Administrativos-SECLEG nº 5, de 15 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Carlos Roberto Rodrigues Lima",
+                [
+                  "2026-06-16T15:46:06-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.igarapava.sp.leg.br/media/sapl/public/anexonormajuridica/2026/8/exposicao_de_movitovs_-_ato_da_mesa_05.2026_-_anulacao_parcial_e_suplementacao.pdf",
+      "ano": 2026,
+      "norma": 1881
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.igarapava.sp.leg.br/cd240d147c29ef292eed1d83c384de9bb9abbdfd639a1d99a436a8f09c600db0.json",
+      "url": "https://sapl.igarapava.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.igarapava.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4142dc9888c02a99cdd454fe222e2e752d1712d1a79c6777ceaf86ac8e047c07",
+      "bytes": 3674,
+      "capturado_em": "2026-10-28T14:15:38.636925-03:00"
+    }
+  ]
+}

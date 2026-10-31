@@ -1,0 +1,1132 @@
+---
+titulo: "LEI Nº 1564/2026"
+uf: "RO"
+municipio: "MIRANTE DA SERRA"
+tipo: "Lei Ordinária"
+numero: "1564"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 27/02/2026"
+data_publicacao: 2026-02-27
+codigo_identificador: "5A4F06BB"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116012_2026-02-26_0b1ad063c041539a77bf628a5d598434.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1564/2026
+
+LEI Nº 1564/2026
+ESTADO DE RONDÔNIA
+MUNICÍPIO DE MIRANTE DA SERRA
+www.diariomunicipal.com.br/arom
+
+365
+
+Rondônia , 27 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4181
+SECRETARIA MUNICIPAL DE GOVERNO
+LEI N.º 1564/2026
+DISPÕE SOBRE A REVISÃO GERAL ANUAL DOS VENCIMENTOS DOS SERVIDORES PÚBLICOS E SECRETÁRIOS MUNICIPAIS E DÁ OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICIPIO DE MIRANTE DA SERRA, ESTADO DE RONDÔNIA, no exercício de sua competência, FAÇO SABER que a CÂMARA MUNICIPAL DE MIRANTE DA SERRA aprovou,
+e eu sanciono e promulgo a seguinte lei:
+LEI
+Art. 1º Ficam os Poderes Executivo e Legislativo do Município de Mirante da Serra, autorizados a concederem a Revisão Geral Anual, dos vencimentos dos servidores públicos municipal, com fundamento no inciso
+X, do art. 37, da Constituição Federal.
+Art. 2º O percentual de correção será de 3,90% (três vírgula noventa por cento), correspondente ao índice do INPC acumulado do ano de 2025.
+Art. 3º Ficam revisados os vencimentos dos Servidores Públicos do Poder Executivo e Legislativo do Município de Mirante da Serra – RO, para o ano de 2026, passando a viger conforme consta nos Anexos I, II, III
+e IV (Executivo) e Anexos V e VI (Legislativo).
+Art. 4º Fica ainda concedido, reajuste adicional de 1,5% (um vírgula cinco por cento), aos Profissionais do Magistério constantes do Anexo I e V, da Lei Municipal nº 301/2004 e suas atualizações.
+Art. 5º Fica autorizado o pagamento da diferença entre o valor do vencimento base e o valor do piso nacional, somente aos servidores das carreiras de Agente Comunitário de Saúde (ACS) e Agente de Combate à
+Endemias (ACE) cujo vencimento base seja inferior ao piso nacional de que trata a Emenda Constitucional 120/2022.
+Parágrafo Único - Permanece inalterada a legislação que fixa a remuneração e o vencimento base dos respectivos servidores nos termos da Lei Municipal n° 1323/2023.
+Art. 6º As despesas decorrentes desta Lei correrão por conta de dotação orçamentária próprias em cada unidade orçamentária vigente de cada poder/órgão.
+Art. 7º Fica alterado o § 1º, do art. 68, da Lei 1299/2023, que passará a viger com a seguinte redação:
+Art. 68 Remuneração é o vencimento do cargo paga a cada mês ao membro do Conselho Tutelar, acrescido das vantagens pecuniárias pagas em caráter permanente e temporário.
+§ 1o No efetivo exercício da sua função perceberá, a título de remuneração, o valor correspondente a R$ 2.065,41 (dois mil e sessenta e cinco reais e quarenta e um centavos) que será reajustado anualmente conforme
+o índice aplicado aos servidores públicos municipais.
+Art. 8º Esta lei entra em vigor na data de sua publicação, com efeitos financeiros retroativos a partir de 1º de janeiro de 2026.
+Mirante da Serra, 24 de fevereiro de 2026.
+JOSÉ CARLOS PEREIRA DE ANDRADE
+Prefeito Municipal
+(Assinado Eletronicamente)
+ANEXO I DO PROJETO DE LEI Nº 1564/2026
+(ANEXO II DA LEI Nº 1.323/2023)
+REF.
+NS I
+NS II
+1
+1.618,96
+1.942,75
+2
+1.651,34
+1.981,61
+3
+1.684,37
+2.021,24
+4
+1.718,05
+2.061,67
+5
+1.752,41
+2.102,90
+6
+1.787,46
+2.144,96
+7
+1.823,21
+2.187,86
+8
+1.859,68
+2.231,61
+9
+1.896,87
+2.276,25
+10
+1.934,81
+2.321,77
+11
+1.973,50
+2.368,21
+12
+2.012,97
+2.415,57
+13
+2.053,23
+2.463,88
+14
+2.094,30
+2.513,16
+15
+2.136,18
+2.563,42
+16
+2.178,91
+2.614,69
+17
+2.222,48
+2.666,98
+18
+2.266,93
+2.720,32
+19
+2.312,27
+2.774,73
+20
+2.358,52
+2.830,22
+REF.
+NE II
+NE III
+1
+863,46
+894,29
+
+NS III
+2.914,14
+2.972,42
+3.031,87
+3.092,50
+3.154,35
+3.217,44
+3.281,79
+3.347,43
+3.414,37
+3.482,66
+3.552,31
+3.623,36
+3.695,83
+3.769,74
+3.845,14
+3.922,04
+4.000,48
+4.080,49
+4.162,10
+4.245,34
+NE IV
+1.079,32
+
+NS IV
+3.733,25
+3.807,92
+3.884,08
+3.961,76
+4.040,99
+4.121,81
+4.204,25
+4.288,33
+4.374,10
+4.461,58
+4.550,81
+4.641,83
+4.734,67
+4.829,36
+4.925,95
+5.024,47
+5.124,95
+5.227,45
+5.332,00
+5.438,64
+NE V / Piso
+2.980,41
+
+NS V
+4.811,37
+4.907,60
+5.005,75
+5.105,86
+5.207,98
+5.312,14
+5.418,38
+5.526,75
+5.637,29
+5.750,03
+5.865,03
+5.982,33
+6.101,98
+6.224,02
+6.348,50
+6.475,47
+6.604,98
+6.737,08
+6.871,82
+7.009,26
+NI
+2.590,36
+
+NS VI
+9.390,74
+9.578,56
+9.770,13
+9.965,53
+10.164,84
+10.368,14
+10.575,50
+10.787,01
+11.002,75
+11.222,81
+11.447,26
+11.676,21
+11.909,73
+12.147,93
+12.390,88
+12.638,70
+12.891,48
+13.149,31
+13.412,29
+13.680,54
+NSA 2
+2.590,36
+
+www.diariomunicipal.com.br/arom
+
+NM I
+871,16
+888,58
+906,35
+924,48
+942,97
+961,83
+981,07
+1.000,69
+1.020,70
+1.041,12
+1.061,94
+1.083,18
+1.104,84
+1.126,94
+1.149,48
+1.172,47
+1.195,92
+1.219,83
+1.244,23
+1.269,12
+NIVEL1 A
+2.289,26
+
+NM II
+940,54
+959,36
+978,54
+998,11
+1.018,08
+1.038,44
+1.059,21
+1.080,39
+1.102,00
+1.124,04
+1.146,52
+1.169,45
+1.192,84
+1.216,69
+1.241,03
+1.265,85
+1.291,17
+1.316,99
+1.343,33
+1.370,20
+NS A4
+3.885,52
+
+NF I
+848,03
+864,99
+882,29
+899,94
+917,94
+936,30
+955,02
+974,12
+993,60
+1.013,48
+1.033,75
+1.054,42
+1.075,51
+1.097,02
+1.118,96
+1.141,34
+1.164,17
+1.187,45
+1.211,20
+1.235,42
+NM V
+1.279,09
+
+NE I
+840,32
+857,13
+874,27
+891,76
+909,59
+927,78
+946,34
+965,27
+984,57
+1.004,26
+1.024,35
+1.044,84
+1.065,73
+1.087,05
+1.108,79
+1.130,96
+1.153,58
+1.176,65
+1.200,19
+1.224,19
+NM VI
+3.074,12
+
+366
+
+Rondônia , 27 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4181
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+
+880,73
+898,34
+916,31
+934,64
+953,33
+972,40
+991,85
+1.011,68
+1.031,92
+1.052,55
+1.073,61
+1.095,08
+1.116,98
+1.139,32
+1.162,10
+1.185,35
+1.209,05
+1.233,23
+1.257,90
+
+912,17
+930,42
+949,03
+968,01
+987,37
+1.007,11
+1.027,26
+1.047,80
+1.068,76
+1.090,13
+1.111,93
+1.134,17
+1.156,86
+1.179,99
+1.203,59
+1.227,67
+1.252,22
+1.277,26
+1.302,81
+
+ANEXO II DO PROJETO DE LEI Nº 1564/2026
+ANEXO I DA LEI Nº 301/2004
+NÍVEL MÉDIO / NÍVEL ÚNICO
+REF.
+Carga Horária 25H
+Carga Horária 30H
+1
+3.211,59
+3.853,91
+2
+3.275,82
+3.930,99
+3
+3.341,34
+4.009,61
+4
+3.408,17
+4.089,80
+5
+3.476,33
+4.171,59
+6
+3.545,86
+4.255,03
+7
+3.616,77
+4.340,13
+8
+3.689,11
+4.426,93
+9
+3.762,89
+4.515,47
+10
+3.838,15
+4.605,78
+11
+3.914,91
+4.697,89
+12
+3.993,21
+4.791,85
+13
+4.073,07
+4.887,69
+14
+4.154,54
+4.985,44
+15
+4.237,63
+5.085,15
+16
+4.322,38
+5.186,85
+17
+4.408,83
+5.290,59
+18
+4.497,00
+5.396,40
+19
+4.586,94
+5.504,33
+20
+4.678,68
+5.614,42
+
+1.100,91
+1.122,93
+1.145,39
+1.168,29
+1.191,66
+1.215,49
+1.239,80
+1.264,60
+1.289,89
+1.315,69
+1.342,00
+1.368,84
+1.396,22
+1.424,14
+1.452,63
+1.481,68
+1.511,31
+1.541,54
+1.572,37
+
+Carga Horária 40H
+5.138,55
+5.241,32
+5.346,14
+5.453,07
+5.562,13
+5.673,37
+5.786,84
+5.902,57
+6.020,62
+6.141,04
+6.263,86
+6.389,13
+6.516,92
+6.647,26
+6.780,20
+6.915,81
+7.054,12
+7.195,20
+7.339,11
+7.485,89
+
+ANEXO III DO PROJETO DE LEI Nº 1564/2026
+ANEXO V DA LEI Nº 301/2004
+ASSISTENTE SOCIAL EDUCACIONAL e PSICÓLOGO ESCOLAR
+REF.
+ASSISTENTE SOCIAL EDUCACIONAL
+NS A4 40H
+1
+4.000,74
+2
+4.080,76
+3
+4.162,37
+4
+4.245,62
+5
+4.330,53
+6
+4.417,14
+7
+4.505,48
+8
+4.595,59
+9
+4.687,51
+10
+4.781,26
+
+3.040,02
+3.100,82
+3.162,84
+3.226,09
+3.290,62
+3.356,43
+3.423,56
+3.492,03
+3.561,87
+3.633,11
+3.705,77
+3.779,88
+3.855,48
+3.932,59
+4.011,24
+4.091,47
+4.173,30
+4.256,76
+4.341,90
+
+2.642,17
+2.695,01
+2.748,91
+2.803,89
+2.859,97
+2.917,17
+2.975,51
+3.035,02
+3.095,72
+3.157,64
+3.220,79
+3.285,21
+3.350,91
+3.417,93
+3.486,29
+3.556,01
+3.627,13
+3.699,67
+3.773,67
+
+NÍVEL SUPERIOR / PEDAGOGO
+REF.
+Carga Horária 25H
+1
+3.355,15
+2
+3.422,25
+3
+3.490,69
+4
+3.560,51
+5
+3.631,72
+6
+3.704,35
+7
+3.778,44
+8
+3.854,01
+9
+3.931,09
+10
+4.009,71
+11
+4.089,90
+12
+4.171,70
+13
+4.255,14
+14
+4.340,24
+15
+4.427,04
+16
+4.515,58
+17
+4.605,90
+18
+4.698,01
+19
+4.791,97
+20
+4.887,81
+
+2.642,17
+2.695,01
+2.748,91
+2.803,89
+2.859,97
+2.917,17
+2.975,51
+3.035,02
+3.095,72
+3.157,64
+3.220,79
+3.285,21
+3.350,91
+3.417,93
+3.486,29
+3.556,01
+3.627,13
+3.699,67
+3.773,67
+
+2.335,05
+2.381,75
+2.429,38
+2.477,97
+2.527,53
+2.578,08
+2.629,64
+2.682,23
+2.735,88
+2.790,60
+2.846,41
+2.903,34
+2.961,40
+3.020,63
+3.081,04
+3.142,66
+3.205,52
+3.269,63
+3.335,02
+
+3.963,23
+4.042,49
+4.123,34
+4.205,81
+4.289,92
+4.375,72
+4.463,24
+4.552,50
+4.643,55
+4.736,42
+4.831,15
+4.927,78
+5.026,33
+5.126,86
+5.229,39
+5.333,98
+5.440,66
+5.549,48
+5.660,46
+
+1.304,67
+1.330,77
+1.357,38
+1.384,53
+1.412,22
+1.440,47
+1.469,27
+1.498,66
+1.528,63
+1.559,21
+1.590,39
+1.622,20
+1.654,64
+1.687,73
+1.721,49
+1.755,92
+1.791,04
+1.826,86
+1.863,40
+
+3.135,60
+3.198,31
+3.262,28
+3.327,53
+3.394,08
+3.461,96
+3.531,20
+3.601,82
+3.673,86
+3.747,34
+3.822,28
+3.898,73
+3.976,70
+4.056,24
+4.137,36
+4.220,11
+4.304,51
+4.390,60
+4.478,41
+
+Carga Horária 30H
+4.026,17
+4.106,70
+4.188,83
+4.272,61
+4.358,06
+4.445,22
+4.534,13
+4.624,81
+4.717,31
+4.811,65
+4.907,88
+5.006,04
+5.106,16
+5.208,29
+5.312,45
+5.418,70
+5.527,07
+5.637,62
+5.750,37
+5.865,38
+
+Carga Horária 40H
+5.368,24
+5.475,61
+5.585,12
+5.696,82
+5.810,76
+5.926,97
+6.045,51
+6.166,42
+6.289,75
+6.415,55
+6.543,86
+6.674,74
+6.808,23
+6.944,40
+7.083,28
+7.224,95
+7.369,45
+7.516,84
+7.667,17
+7.820,52
+
+PSICOPEDAGOGO/ SUPERVISOR ESCOLAR /ORIENTADOR
+REF.
+Carga Horária 40H
+1
+6.710,31
+2
+6.844,52
+3
+6.981,41
+4
+7.121,04
+5
+7.263,46
+6
+7.408,73
+7
+7.556,90
+8
+7.708,04
+9
+7.862,20
+10
+8.019,44
+11
+8.179,83
+12
+8.343,43
+13
+8.510,30
+14
+8.680,50
+15
+8.854,11
+16
+9.031,20
+17
+9.211,82
+18
+9.396,06
+19
+9.583,98
+20
+9.775,66
+
+PSICOLOGO ESCOLAR
+NS V 40H
+4.954,04
+5.053,12
+5.154,19
+5.257,27
+5.362,41
+5.469,66
+5.579,06
+5.690,64
+5.804,45
+5.920,54
+
+www.diariomunicipal.com.br/arom
+
+367
+
+Rondônia , 27 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4181
+11
+12
+13
+14
+15
+16
+17
+18
+19
+
+4.876,88
+4.974,42
+5.073,91
+5.175,39
+5.278,89
+5.384,47
+5.492,16
+5.602,00
+5.714,04
+
+6.038,95
+6.159,73
+6.282,92
+6.408,58
+6.536,75
+6.667,49
+6.800,84
+6.936,86
+7.075,59
+
+ANEXO IV DO PROJETO DE LEI Nº 1564/2026
+ANEXO II DA LEI 524/2011
+REFERÊNCIA DO CARGO EM COMISSÃO
+PREFEITO
+VICE-PREFEITO
+SECRETÁRIO
+D.A.S-1
+D.A.S-2
+D.A.S-3
+D.A.S-4
+G.E.C-1
+G.E.C-2
+G.E.C-3
+G.E.C-4
+G.E.C-5
+FUNÇÕES GRATIFICADAS
+DIRETOR DE ESCOLA TIPO - I
+DIRETOR DE ESCOLA TIPO - II
+DIRETOR DE ESCOLA TIPO - III
+DIRETOR DE CRECHE TIPO - Único
+VICE - DIRETOR DE ESCOLA TIPO - I
+VICE - DIRETOR DE ESCOLA TIPO - II
+VICE - DIRETOR DE ESCOLA TIPO - III
+SECRETÁRIO DE ESCOLA TIPO - I
+SECRETÁRIO DE ESCOLA TIPO - II
+SECRETÁRIO DE ESCOLA TIPO - III
+
+ANEXO V DO PROJETO DE LEI Nº 1564/2026
+Servidores Estatutários do Poder Legislativo
+Anexo II Lei 1336/2023
+CLASSE
+REF
+1
+I
+2
+3
+4
+II
+5
+6
+7
+8
+III
+9
+10
+11
+12
+IV
+13
+14
+15
+16
+17
+V
+18
+19
+
+VENCIMENTO
+R$ 620,05
+R$ 416,68
+R$ 395,85
+R$ 275,40
+R$ 277,79
+R$ 246,93
+R$ 200,63
+R$ 154,32
+
+GRATIFICAÇÃO
+R$ 15.964,00
+R$ 9.950,00
+R$ 4.935,25
+R$ 9.414,40
+R$ 4.579,36
+R$ 3.125,08
+R$ 1.790,02
+R$ 1.543,33
+R$ 987,74
+R$ 740,79
+R$ 578,75
+R$ 462,55
+
+GRATIFICAÇÃO
+R$ 1.790,02
+R$ 1.543,33
+R$ 1.113,38
+R$ 1.113,38
+R$ 896,64
+R$ 896,64
+R$ 896,64
+R$ 896,64
+R$ 896,64
+R$ 896,64
+
+CARGOS NE
+1.374,56
+1.374,56
+1.374,56
+1.374,56
+1.374,56
+1.374,56
+1.374,56
+1.374,56
+1.374,56
+1.402,06
+1.430,10
+1.458,69
+1.487,87
+1.517,63
+1.547,97
+1.578,94
+1.610,51
+1.642,72
+1.675,57
+
+CARGOS NF
+1.386,82
+1.386,82
+1.386,82
+1.386,82
+1.386,82
+1.386,82
+1.386,82
+1.386,82
+1.386,82
+1.414,38
+1.442,82
+1.471,68
+1.501,11
+1.531,12
+1.561,73
+1.592,97
+1.624,83
+1.657,33
+1.690,48
+
+CARGOS NF II
+1.534,29
+1.534,29
+1.534,29
+1.534,29
+1.534,29
+1.534,29
+1.534,29
+1.534,29
+1.534,29
+1.564,98
+1.596,28
+1.628,21
+1.660,77
+1.693,99
+1.727,86
+1.762,42
+1.797,67
+1.833,63
+1.870,30
+
+CARGOS NM
+1.538,13
+1.538,13
+1.538,13
+1.538,13
+1.538,13
+1.538,13
+1.538,13
+1.538,13
+1.538,13
+1.568,89
+1.601,17
+1.632,25
+1.664,88
+1.698,17
+1.732,10
+1.766,75
+1.802,07
+1.838,13
+1.874,88
+
+CARGOS NS
+2.742,42
+2.797,27
+2.852,13
+2.910,28
+2.968,47
+3.027,82
+3.088,38
+3.150,14
+3.213,13
+3.277,38
+3.342,71
+3.409,77
+3.477,96
+3.547,51
+3.618,46
+3.690,83
+3.764,65
+3.839,94
+3.916,74
+
+www.diariomunicipal.com.br/arom
+
+CARGOS NS II
+6.672,07
+6.805,51
+6.941,62
+7.080,44
+7.221,57
+7.366,00
+7.513,32
+7.663,57
+7.816,84
+7.973,17
+8.132,64
+8.295,26
+8.461,17
+8.630,39
+8.802,99
+8.979,05
+9.158,64
+9.341,80
+9.528,65
+
+PROGRESSÃO EM ANOS
+3
+2
+2
+2
+2
+1½
+1½
+1½
+1½
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+
+368
+
+Rondônia , 27 de Fevereiro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4181
+20
+
+1.709,09
+
+1.724,29
+
+ANEXO VI DO PROJETO DE LEI Nº 1564/2026
+Lei 914/2019 Alterada pela Lei 1473/2025
+ESCALA DE VENCIMENTOS DE CARGOS EM COMISSÃO
+REFERÊNCIAS
+CC-8
+CC-7
+CC-6
+CC-5
+CC-4
+CC-3
+CC-2
+CC-1
+
+1.907,70
+
+1.912,38
+
+3.995,08
+
+VENCIMENTOS
+708,43
+631,37
+566,05
+446,31
+0,00
+437,61
+424,54
+212,27
+
+9.719,21
+
+2
+
+GRATIFICAÇÃO
+4.141,76
+3.265,68
+2.503,69
+1.698,15
+0,00
+1.562,08
+1.545,75
+440,87
+
+Publicado por:
+Dhessica Souza Abel

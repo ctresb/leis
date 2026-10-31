@@ -1,0 +1,207 @@
+{
+  "estado": "indice_completo",
+  "total": 19,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/lei_1009.2017_-__loa_2018.pdf da norma Lei Ordinária nº 1.016, de 08 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "LOA 2018",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2019/1/lei_1009.2017_-__loa_2018.pdf",
+      "ano": 2019,
+      "norma": 115
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_1009.2017_-__loa_2018.pdf da norma Lei Ordinária nº 1.024, de 18 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Altera a Lei 1009/2017",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_1009.2017_-__loa_2018.pdf",
+      "ano": 2018,
+      "norma": 131
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/lei_1009.2017_-__loa_2018.pdf da norma Lei Ordinária nº 1.025, de 25 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/3/lei_1009.2017_-__loa_2018.pdf",
+      "ano": 2018,
+      "norma": 132
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/lei_999_-_regulamenta_o_uso_do_parque_de_exposicao.pdf da norma Lei Ordinária nº 1.032, de 27 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Regulamenta o uso do Parque de Exposições do Município de Campo Magro",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/4/lei_999_-_regulamenta_o_uso_do_parque_de_exposicao.pdf",
+      "ano": 2018,
+      "norma": 139
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/lei_638.pdf da norma Lei Ordinária nº 1.033, de 27 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Institui o Fundo Municipal de saúde e dá outras providências",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/5/lei_638.pdf",
+      "ano": 2018,
+      "norma": 156
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/6/lei_1032_-_altera_a_lei_999_2017.pdf da norma Lei Ordinária nº 638, de 13 de agosto de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Institui o Fundo Municipal de saúde e dá outras providências",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2010/6/lei_1032_-_altera_a_lei_999_2017.pdf",
+      "ano": 2010,
+      "norma": 157
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/lei_887.pdf da norma Lei Ordinária nº 1.034, de 27 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Alteração da Lei 887.15",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/7/lei_887.pdf",
+      "ano": 2018,
+      "norma": 159
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/lei_608.pdf da norma Lei Ordinária nº 1.082, de 04 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre os projetos de lei de declaração de utilidade pública",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2019/8/lei_608.pdf",
+      "ano": 2019,
+      "norma": 82
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/9/lei_211_._2002.pdf da norma Lei Ordinária nº 1.043, de 12 de setembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Dá denominação a logradouro público que especifica neste Município\r\nEstrada Lufrido Junior Menegusso",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/9/lei_211_._2002.pdf",
+      "ano": 2018,
+      "norma": 181
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/10/lei_146_._2001.pdf da norma Lei Ordinária nº 1.048, de 16 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/10/lei_146_._2001.pdf",
+      "ano": 2018,
+      "norma": 189
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/11/lei_146_._2001.pdf da norma Lei Ordinária nº 1.048, de 16 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "altera parcialmente a Lei N.132/2000, da seguinte forma",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/11/lei_146_._2001.pdf",
+      "ano": 2018,
+      "norma": 189
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/12/lei_124_._2000.pdf da norma Lei Ordinária nº 1.048, de 16 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Ementa: \"Cria o Conselho de Alimentação Escolar no Município e dá outras providências.\"",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/12/lei_124_._2000.pdf",
+      "ano": 2018,
+      "norma": 189
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/13/lei_132_._2000.pdf da norma Lei Ordinária nº 1.048, de 16 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "\"Altera parcialmente a Lei N° 124/2000, na forma que especifica.\"",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/13/lei_132_._2000.pdf",
+      "ano": 2018,
+      "norma": 189
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/14/lei_145_._2001.pdf da norma Lei Ordinária nº 1.048, de 16 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "\"altera parcialmente a Lei N.124/2000, da seguinte forma\".",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2018/14/lei_145_._2001.pdf",
+      "ano": 2018,
+      "norma": 189
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/15/lei_1113_-_alteracao_da_lei_948-17.pdf da norma Lei Ordinária nº 948, de 17 de janeiro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Altera a Lei Municipal nº 948/2017",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2017/15/lei_1113_-_alteracao_da_lei_948-17.pdf",
+      "ano": 2017,
+      "norma": 126
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/lei_municipal_no_1296.23_rua_antonio_ercule.pdf da norma Lei Ordinária nº 1.296, de 18 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2023/16/lei_municipal_no_1296.23_rua_antonio_ercule.pdf",
+      "ano": 2023,
+      "norma": 1334
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/lei_municipal_no_1302.23_altera_a_lei_036.97.pdf da norma Lei Ordinária nº 1.302, de 10 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2023/17/lei_municipal_no_1302.23_altera_a_lei_036.97.pdf",
+      "ano": 2023,
+      "norma": 1340
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/lei_36_._1997.pdf da norma Lei Ordinária nº 1.302, de 10 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2023/18/lei_36_._1997.pdf",
+      "ano": 2023,
+      "norma": 1340
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/19/decisao_da_mesa_diretora_no_004_-_regulamenta_camara_mirin.pdf da norma Lei Ordinária nº 1.125, de 11 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.campomagro.pr.leg.br/media/sapl/public/anexonormajuridica/2020/19/decisao_da_mesa_diretora_no_004_-_regulamenta_camara_mirin.pdf",
+      "ano": 2020,
+      "norma": 1121
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campomagro.pr.leg.br/d164112ff80db8421ccb7fa9d25acac7c796e15740d0b3bd2b4a01fc9f635341.json",
+      "url": "https://sapl.campomagro.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fadb978c69889975825d93819c6db4755a2123b7d3c1a075eb579a403d9e4562",
+      "capturado_em": "2026-10-20T20:50:34.827823",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.campomagro.pr.leg.br/d164112ff80db8421ccb7fa9d25acac7c796e15740d0b3bd2b4a01fc9f635341.json"
+    }
+  ]
+}

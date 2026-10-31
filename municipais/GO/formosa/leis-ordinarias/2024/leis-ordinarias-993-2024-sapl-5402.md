@@ -1,0 +1,415 @@
+---
+titulo: "Lei Ordinária nº 993, de 02 de julho de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "993"
+data: "2024-07-02"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/5402"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2388/text"
+sha256_fonte: "dc540aac0662e8731e4e5a82fdec96debf499c03b76df46543e365f75b48208b"
+sha256_texto: "123937bad074ad4fae933fd2085ef945b79dde1649fd5eef94a5d3e3f4eeaf95"
+capturado_em_fonte: "2026-10-28T11:08:31.095820-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 993, de 02 de julho de 2024
+
+Dispõe sobre a criação, competência e organização do Conselho Municipal de Segurança Pública e Defesa Social de Formosa e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 23/24, de autoria do Poder Executivo, aprovado em 20 de junho de 2024.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Segurança Pública e Defesa Social de Formosa (COMUSP), nos termos desta Lei.
+
+
+#### CAPÍTULO I — DOS OBJETIVOS E DA COMPOSIÇÃO
+
+
+Art. 2º.
+
+O Conselho Municipal de Segurança Pública e Defesa Social (COMUSP) tem por objetivos:
+
+
+I –
+
+estabelecer, entre os diversos níveis de governo e órgãos de segurança atuantes no Município, a cooperação nas atividades, buscando a otimização e complementariedade de suas ações e respeitando a autonomia de cada órgão no desempenho de suas atribuições específicas;
+
+
+II –
+
+criar e manter um banco de dados com informações sobre violência e criminalidade no Município e divulgá-lo entre seus membros;
+
+
+III –
+
+explicitar políticas públicas de cooperação no combate à violência, à criminalidade e à insegurança dos cidadãos;
+
+
+IV –
+
+propor diretrizes para a política local de combate à violência e à criminalidade que orientem ações, tanto dos poderes constituídos como da sociedade formosense, que viabilizem um programa continuado de ampliação da segurança do Município;
+
+
+V –
+
+promover a constante revisão e as adequações necessárias nas políticas públicas para a segurança no Município e acompanhar a sua execução;
+
+
+VI –
+
+discutir e propor aos poderes constituídos, convênios e outros mecanismos de cooperação no combate à violência e à criminalidade urbana;
+
+
+VII –
+
+manter intercâmbio com outros conselhos similares, visando o encaminhamento de reivindicações de interesse comum e a troca de experiências entre ambos;
+
+
+VIII –
+
+estimular e apoiar órgãos envolvidos em iniciativas no combate à violência e no desenvolvimento de medidas preventivas, cívico-educativas e de caráter social, fundamentadas nos princípios dos Direitos Humanos e do resgate e fortalecimento da cidadania;
+
+
+IX –
+
+propor aos órgãos públicos e particulares a adoção de medidas de caráter, que contribuam para eliminar situações de risco social e que visem prevenir ou sanar as causas ou situações, crônicas ou agudas, que favorecem o cometimento de ilícitos penais;
+
+
+X –
+
+prestar assessoria técnica e consultiva à Secretaria Municipal de Governo, nas áreas sócio educacional, jurídico-administrativa e econômico-financeira, auxiliando-a em suas relações com as entidades representativas da sociedade civil;
+
+
+XI –
+
+propor programas oficiais e comunitários de valorização da Guarda Municipal de Formosa.
+
+
+Art. 3º.
+
+O COMUSP terá o Prefeito Municipal como seu presidente e será composto por:
+
+
+I –
+
+Secretário Municipal de Governo;
+
+
+II –
+
+Comandante da Guarda Municipal de Formosa;
+
+
+III –
+
+um representante da Câmara Municipal de Formosa;
+
+
+IV –
+
+um representante da Polícia Militar;
+
+
+V –
+
+um representante do Corpo de Bombeiros;
+
+
+VI –
+
+um representante da Polícia Civil;
+
+
+VII –
+
+um representante da Polícia Penal;
+
+
+VIII –
+
+um representante da Defesa Civil;
+
+
+IX –
+
+um representante da SMT;
+
+
+X –
+
+um representante do CONSEG;
+
+
+XI –
+
+um representante do Conselho Tutelar;
+
+
+XII –
+
+um representante da Ordem dos Advogados do Brasil (OAB).
+
+
+§ 1º
+
+Para cada representante titular deverá ser indicado 1 (um) membro suplente.
+
+
+§ 2º
+
+Os membros do COMUSP serão nomeados por ato do Prefeito Municipal de Formosa.
+
+
+Art. 4º.
+
+O mandato dos membros do Conselho será de 2 (dois) anos sendo permitida apenas uma recondução por igual período, entendendo-se os mesmos como pertencentes aos organismos, órgãos e entidades representados, enumerados no artigo 3º desta Lei, os quais, havendo justificada razão, poderão ser outra vez indicados.
+
+
+Art. 5º.
+
+O COMUSP de Formosa terá uma Secretaria Executiva como órgão técnico-operacional responsável pelo acompanhamento, execução e implementação das suas deliberações.
+
+
+Art. 6º.
+
+Cada membro conselheiro só poderá representar um segmento, não havendo, pois, a possibilidade de representação múltipla.
+
+
+Art. 7º.
+
+A função de conselheiro não será remunerada, sendo considerada como de relevante interesse público.
+
+
+Art. 8º.
+
+O conselheiro candidato a qualquer cargo eletivo deverá afastar-se do exercício no Conselho pelo prazo de 3 (meses) que antecedem o pleito eleitoral, devendo seu suplente ser conduzido à função de conselheiro durante o período.
+
+
+Art. 9º.
+
+No caso de afastamento temporário ou definitivo de um dos membros titulares, assumirá, com plenos direitos, o suplente indicado na Ata da Plenária ou nos ofícios de indicação.
+
+
+Parágrafo único.
+
+Os membros suplentes, quando presentes às reuniões plenárias do COMUSP de Formosa, terão assegurado o direito de voz, mesmo na presença dos titulares.
+
+
+Art. 10.
+
+É vedada a escolha de representante de uma entidade ou movimento, já com assento no Conselho Municipal de Segurança Pública e Defesa Social, para representar, em um mesmo mandato, outro movimento ou entidade vigente.
+
+
+#### CAPÍTULO II — DA SECRETARIA EXECUTIVA
+
+
+Art. 11.
+
+O COMUSP de Formosa instituirá uma Secretaria Executiva, órgão permanente, que terá como competência, entre outras, das funções:
+
+
+I –
+
+elaborar a pauta de cada reunião do Conselho Municipal de Segurança Pública e Defesa Social de Formosa e enviá-la a todos os conselheiros, efetivos e suplentes, com prazo mínimo de 10 (dez) dias de antecedência;
+
+
+II –
+
+encaminhar a correspondência;
+
+
+III –
+
+diligenciar para que sejam implementadas as deliberações do Plenário;
+
+
+IV –
+
+dar suporte administrativo e técnico às atividades do Conselho;
+
+
+V –
+
+ser o órgão responsável pela ampla divulgação da abertura de processo de preenchimento de vagas, de tal modo que dele participem todas as entidades representativas dos segmentos referidos;
+
+
+VI –
+
+regulamentar as inscrições das entidades representativas dos segmentos referidos que pleiteiam participar do Conselho.
+
+
+Art. 12.
+
+A Secretaria Executiva será composta por:
+
+
+I –
+
+Secretário Municipal de Governo;
+
+
+II –
+
+um representante da Guarda Municipal;
+
+
+III –
+
+um representante da Polícia Militar;
+
+
+IV –
+
+um representante da Polícia Civil;
+
+
+V –
+
+um representante da Polícia Técnico Científica;
+
+
+VI –
+
+dois representantes da Sociedade Civil indicados dentre os membros do Conselho.
+
+
+#### CAPÍTULO III — DA CONVOCAÇÃO DO CONSELHO MUNICIPAL DE SEGURANÇA PÚBLICA E DEFESA SOCIAL DE FORMOSA
+
+
+Art. 13.
+
+O COMUSP de Formosa reunir-se-á em dependências que lhe forem destinadas, em reuniões ordinárias com periodicidade bimestral, por convocação de sua Secretaria Executiva.
+
+
+Art. 14.
+
+O COMUSP reunir-se-á extraordinariamente para tratar de matérias especiais ou urgentes, quando houver:
+
+
+I –
+
+convocação formal de sua Secretaria Executiva;
+
+
+II –
+
+convocação formal de 1/3 (um terço) de seus membros titulares.
+
+
+#### CAPÍTULO IV — DAS REUNIÕES E DELIBERAÇÕES
+
+
+Art. 15.
+
+O COMUSP instalar-se-á e deliberará, no horário convocado, com a presença da maioria absoluta dos seus membros, considerando os suplentes que estiverem em exercício, podendo ser verificado o quórum em cada sessão e antes de cada votação.
+
+
+Parágrafo único.
+
+Não tendo sido atingido o quórum a que se refere o caput deste artigo, após 15 minutos será feita convocação, após a qual o COMUSP instalar-se-á e deliberará com quórum mínimo de 1/3 de seus membros.
+
+
+Art. 16.
+
+Na ausência do Presidente, as reuniões do COMUSP serão presididas pelo seu representante legal e, na ausência de ambos, a plenária será aberta pelo Secretário Executivo, que procederá a eleição de um conselheiro para presidir os trabalhos.
+
+
+Art. 17.
+
+Cada membro terá o direito a um voto, sendo que cada votação será nominal e com voto aberto, sendo vedado o voto por procuração.
+
+
+Art. 18.
+
+É facultado ao Presidente e aos Conselheiros solicitar o reexame, por parte do plenário, de qualquer deliberação exarada na reunião anterior, justificada a possível ilegalidade, incorreção ou inadequação técnica ou de outra natureza.
+
+
+Art. 19.
+
+Fica assegurado a cada um dos membros participantes o direito de se manifestar sobre o assunto em discussão, antes que seja encaminhado para votação.
+
+
+Parágrafo único.
+
+A palavra será dada por ordem de inscrição da mesa, sendo que o Secretário do COMUSP controlará o tempo de cada orador.
+
+
+Art. 20.
+
+Os assuntos tratados e as deliberações tomadas em cada reunião serão registradas em ata, a qual será aprovada na reunião subsequente, devendo conter as posições majoritárias e minoritárias, com seus respectivos votantes.
+
+
+Art. 21.
+
+As deliberações do COMUSP serão consubstanciadas em resoluções que poderão, quando cabível, ser publicadas nos meios de comunicação do Município.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 22.
+
+Dentro de trinta dias, contados a partir da instalação e posse dos membros do Conselho, o mesmo elaborará seu regimento interno, o qual disporá sobre sua organização, seu funcionamento e diretrizes básicas de atuação.
+
+
+Art. 23.
+
+O COMUSP, bem como a sua Secretaria Executiva poderão, sempre que for necessário, constituir grupos de trabalho para prestar apoio técnico operacional às suas atividades.
+
+
+Art. 24.
+
+Os membros COMUSP que faltarem a 2 (duas) reuniões consecutivas ou a 4 (quatro) reuniões alternadas, sem justificativa, terão seus nomes encaminhados às instituições/segmentos que representam para serem substituídos pelos seus respectivos suplentes.
+
+
+§ 1º
+
+Os órgãos, organismos e entidades que não responderem ao encaminhamento estabelecido no caput deste artigo perderão a sua representação no biênio respectivo.
+
+
+§ 2º
+
+As justificativas estabelecidas no caput deste artigo serão analisadas pela Secretaria Executiva que, caso julgue necessário, fará o encaminhamento à plenária do COMUSP que decidirá pelo pedido ou não de substituição.
+
+
+§ 3º
+
+Caso se trate de representante de segmento e não havendo mais suplente que possa ocupar o cargo, será convocada plenária extraordinária para a eleição de um ou mais representantes.
+
+
+Art. 25.
+
+As propostas de modificação desta Lei devem ser elaboradas e votadas pelo COMUSP, encaminhadas para anuência do Chefe do Poder Executivo para, em seguida, serem enviadas à apreciação e votação do Legislativo Municipal.
+
+
+Art. 26.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário, em especial a Lei Municipal nº 37/01 SMG, de 14 de setembro de 2001.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 02 de julho de 2024.
+
+Gustavo Marques de Oliveira  
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra
+
+Iany Macedo Troncha  
+Superintendência Executiva de Legislação,  
+Atos Oficiais e Assuntos Técnicos  
+Decreto nº 3.731, de 1º de novembro de 2023
+

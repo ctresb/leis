@@ -1,0 +1,58 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/lei_2725-2020_contratacao__prof._ed._infantil_1.doc da norma Lei Ordinária nº 2.725, de 13 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cidreira.rs.leg.br/media/sapl/public/anexonormajuridica/2020/1/lei_2725-2020_contratacao__prof._ed._infantil_1.doc",
+      "ano": 2020,
+      "norma": 1
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/lei_2726-2020_estabelece_indice_de_revisao_geral_l_0Tw2tox.doc da norma Lei Ordinária nº 2.726, de 13 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cidreira.rs.leg.br/media/sapl/public/anexonormajuridica/2020/2/lei_2726-2020_estabelece_indice_de_revisao_geral_l_0Tw2tox.doc",
+      "ano": 2020,
+      "norma": 2
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/3/anexo_ldo.pdf da norma Lei Ordinária nº 3.094, de 21 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cidreira.rs.leg.br/media/sapl/public/anexonormajuridica/2023/3/anexo_ldo.pdf",
+      "ano": 2023,
+      "norma": 386
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/lei_3161-2024_altera_art_2o_da_lei_3114-2023.pdf da norma Lei Ordinária nº 3.161, de 23 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cidreira.rs.leg.br/media/sapl/public/anexonormajuridica/2024/4/lei_3161-2024_altera_art_2o_da_lei_3114-2023.pdf",
+      "ano": 2024,
+      "norma": 456
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cidreira.rs.leg.br/1764c750688c44d220834bf5d02da0788023b64d5cfe1b147bae3da66d3b6e14.json",
+      "url": "https://sapl.cidreira.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cidreira.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bd146528ce0f434d06010bcf2426a6da8789b973db40b7ab04ca7016240a66c4",
+      "bytes": 1872,
+      "capturado_em": "2026-10-27T22:42:12.994910-03:00"
+    }
+  ]
+}

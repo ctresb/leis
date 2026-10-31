@@ -1,0 +1,23 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 3: também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 325,
+  "aprovados_nestes_gates": 2,
+  "fontes": [
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "01a781b674b203c04121fc30b3d98a2064b3e98b9803882aa4865f36df7f2bec",
+      "bytes": 1066086
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    }
+  ],
+  "script_sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

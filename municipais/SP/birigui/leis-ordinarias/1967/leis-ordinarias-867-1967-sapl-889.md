@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 867, de 11 de dezembro de 1967"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "867"
+data: "1967-12-11"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/889"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1453/text"
+sha256_fonte: "9d0064a36f905ee897610cbf4534063c67e789ca8d8bb886308077ff10184204"
+sha256_texto: "72a7ccaa1a3d9f29c69259f333b5ebfa24f5e618974f28f21b531ed1e0d165dd"
+capturado_em_fonte: "2026-10-27T19:27:11.301917-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 867, de 11 de dezembro de 1967
+
+DISPÕE SOBRE A ABERTURA DE CRÉDITO ADICIONAL.
+
+
+Eu, **MARIO CRÊM DOS SANTOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto, na Diretoria de Finanças – Seção de Contabilidade, um crédito adicional de NCr$ 15.006,03 (quinze mil e seis cruzeiros novos e três centavos) suplementar às seguintes verbas do orçamento municipal vigente:
+
+
+<table><tbody><tr><th colspan="2">1. PODER LEGISLATIVO</th></tr><tr><td colspan="2">3.1.2.0.0.1 - Material de Consumo</td></tr><tr><td>01-Impressos e materiais de escritório</td><td>NCr$ 300,00</td></tr><tr><th colspan="2">2. PODER EXECUTIVO</th></tr><tr><td colspan="2">3.1.1.1.0.3 - Pessoal Civil</td></tr><tr><td>01-SubsÍdio</td><td>NCr$ 669,37</td></tr><tr><td colspan="2">3.1.4.0.0.3 - Encargos Diversos</td></tr><tr><td>01-Despesas de viagens, condução, estadias, etc</td><td>NCr$ 1.500,00</td></tr><tr><td colspan="2">3.1.3.0.0.3 - Serviços de Terceiros</td></tr><tr><td>01-Publicações e Publicidade</td><td>NCr$ 1.000,00</td></tr><tr><td colspan="2">3.1.2.0.0.3 - Material de Consumo</td></tr><tr><td>01-Impressos e materiais de escritório</td><td>NCr$ 300,00</td></tr><tr><td colspan="2">3.1.1.1.0.3 - Pessoal Civil</td></tr><tr><td>10-Vencimentos do Tesoureiro</td><td>NCr$ 253,00</td></tr><tr><td>17-Vencimentos do 2º Lançador</td><td>NCr$ 1.500,00</td></tr><tr><td colspan="2">4.1.3.0.0.3 - Material Permanente</td></tr><tr><td>01-Máquinas para escritório</td><td>NCr$ 3.000,00</td></tr><tr><td colspan="2">3.2.0.0.8.3 - Transferências Correntes</td></tr><tr><td>Salário-família</td><td>NCr$ 211,20</td></tr><tr><td colspan="2">3.1.4.0.1.9 - Encargos Diversos</td></tr><tr><td>01-Indenizações, restituições e reposições</td><td>NCr$ 300,00</td></tr><tr><td>05-Indenizações, licenças-prêmio a funcionários</td><td>NCr$ 152,46</td></tr><tr><td colspan="2">3.2.1.5.8.5 - Instituições Privadas</td></tr><tr><td>08-Chapas radiográficas, medicamentos, etc., para indigentes</td><td>NCr$ 800,00</td></tr><tr><td colspan="2">3.1.1.1.6.0 - Ensino Primário (Escolas Municipais)</td></tr><tr><td>01-Professôras</td><td>NCr$ 1.800,00</td></tr><tr><td colspan="2">3.1.3.0.6.0 - Serviços de Terceiros</td></tr><tr><td>02-Aluguéis de prédios escolares</td><td>NCr$ 2.120,00</td></tr><tr><td colspan="2">3.2.1.0.6.4 - Subvenções Sociais</td></tr><tr><td>01-Prêmios culturais e Bolsas de Estudos</td><td>NCr$ 400,00</td></tr><tr><td colspan="2">3.2.1.4.6.6 - Instituições Municipais</td></tr><tr><td>01-Auxílio à Comissão Municipal de Esportes</td><td>NCr$ 600,00</td></tr><tr><td colspan="2">3.2.1.5.7.3 - Instituições Privadas</td></tr><tr><td>01-Auxílio à Maternidade e Infância</td><td>NCr$ 100,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O presente crédito será coberto com os recursos provenientes do excesso de arrecadação já verificado no exercício em curso.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos onze de dezembro de mil novecentos e sessenta e sete.
+
+**MARIO CRÊM DOS SANTOS Prefeito Municipal**
+
+Publicada na Seção do Expediente e do Pessoal da Prefeitura, aos onze de dezembro de mil novecentos e sessenta e sete, e por Edital, afixado no local de costume.
+
+**SALVADOR GIAMPIETRO Assistente Administrativo da Seção de Expediente e do Pessoal da Prefeitura**
+

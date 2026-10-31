@@ -1,0 +1,42 @@
+{
+  "host": "sapl.chapadadanatividade.to.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadanatividade.to.leg.br/26f170039fc01b8583fe2ecc3ce704ef1005fa41a3dda6674c6e1ea3c67e950b.json",
+    "url": "https://sapl.chapadadanatividade.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.chapadadanatividade.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c2fc6de42c26ba81210cf5d90dada846e88981d3d21b802156bebfd384776a69",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:39:58.514106-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadanatividade.to.leg.br/d5344069c4f7f5edab121ad31937fdf04b50f640a5cd899fad17d0e50bce2b1e.json",
+    "url": "https://sapl.chapadadanatividade.to.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.chapadadanatividade.to.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1be9e7a8ffaf01bbf23599e1a99249a5d295a934d5efa16650d91667706c547b",
+    "bytes": 695,
+    "capturado_em": "2026-10-27T22:39:57.999066-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadanatividade.to.leg.br/61fb0c3f0dab71e7be3aadc42536498d569d40e4e9fcf06217f175b89b9ddae8.json",
+      "url": "https://sapl.chapadadanatividade.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.chapadadanatividade.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:40:00.489575-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

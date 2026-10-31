@@ -1,0 +1,93 @@
+---
+titulo: "Lei Ordinária-EXEC nº 1.681, de 26 de dezembro de 1996"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1681"
+data: "1996-12-26"
+municipio: "São Francisco"
+uf: "MG"
+codigo_ibge: "3161106"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.saofrancisco.mg.leg.br/norma/1088"
+fonte_texto: "https://sapl.saofrancisco.mg.leg.br/media/sapl/public/normajuridica/1996/1088/1681.pdf"
+sha256_fonte: "44d77b5eef625ddefe76fb9b9f0dbbf0cfef52f304b498e7fe2aecc94daeead2"
+sha256_texto: "8c485a50309dfd8cc5cf7eab110e849393b29edf784042085a6f035997599d56"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária-EXEC nº 1.681, de 26 de dezembro de 1996
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE SÃO FRANCISCO MINAS GERAIS DE LEI N° 1.681/96, DE 26 DE DEZEMBRO DE 1.996 DISPÕE SOBRE O PLANO PLURIANU- AL DE INVESTIMENTOS PARA O TRI- ENIO 1.997 A 1.999 O Povo do Município de São Francisco, Estado de Minas Gerais, pôr seus repre- sentantes na Câmara Municipal, decretou, e eu em seu nome, sanciono a seguin- te lei:
+
+**Art. 1°** - O Plano Plurianual de Investimentos do Município de São Francisco, Estado de Minas Gerais, para o triênio de 1.997 a 1.999, estima, para o período, as Despesas de Capital em 11.269.440,00 (onze milhões, duzentos e sessenta e nove mil, quatrocentos e quarenta reais).
+
+**Art. 2°** - As Despesas de Capital, discriminadas em quadro anexo, cuja realização fica autorizada pôr esta Lei, são programadas com base nos re- cursos considerados disponíveis para tais fins e desdobrar-se-ão da seguinte forma: DESPESAS POR FUNÇÕES 1.997 1.999 1.998 TOTAL 01-Legislativa 90.000,00 75.000,00 108.000,00 273.000,00 03-Adm. Planejamento 105.000,00 126.000,00 151.200,00 382.200,00 04-Agricultura 41.000,00 49.200,00 59.040,00 149.240,00 05-Comunicações
+
+182.000,00 60.000,00 72.000,00 50.000,00 09-Energia e Recursos Minerais 2.074.800,00 684.000,0łł 820.800,00 570.000,00 10-Habitação e Urbanismo 388.800,00 324.000,00 982.800,00 270.000,00 13-Saúde e Saneamento 2.948.400.00 972.000,00 16-Transportes 810.000,00 1.166.400,00 11.269.440,00 3.715.200,00 4.458.240,00 TOTAIS 3.096.000,00
+
+**Art. 3°** - Na elaboração das propostas Orçamentárias anuais, do pe- ríodo, serão reajustadas as importâncias consignadas aos projetos, podendo, em conseqüência da alteração da Receita, ser criados novos ou reformulados proje- tos constantes do anexo desta Lei.
+
+Parágrafo Único - As importâncias referentes aos exercícios de 1.998 e 1.999, estimadas a preços de 1.996, serão corrigidos monetariamente, pôr ocasião da elaboração dos orçamentos anuais correspondentes àqueles exercícios.
+
+**Art. 4°** - Esta Lei entra em vigor em 1° de janeiro de 1.997.
+
+**Art. 5°** - Revogam-se as disposições em contrário. São Francisco (MG), 26 de dezembro de 1.996 SEVERINO GONÇALVES DA SILVA Prefeito Municipal MANOEL FERREIRA DE JESUS Sec.Mun.Adm. e Finanças
+
+364.000,00 72.800,00 72.800,00 182.000,00 182.000,00 691.600,00 36.400,00 10.887.240,00 2.912.000,00 8.517.600,00 43.680,00 3.640,00 1820.000,0łą 2.369.640,00
+
+72.800,00 72.800,00 10.920,00
+
+2.184.000,00 TOTAL PREFEITURA MUNICIPAL DE SÃO FRANCISCO
+
+28.800,00 72.000,00 4.320,00
+
+864.000.00 937.440,00 273.600,00 720.000,0łł 17.280,00 144.000,0łśł 28.800,00 28.800,00 28.800,00 1.440,00 72.000,00 14.400,00 4.307.040,00 1.152.000,00 3.369.600,00 1.999 PLANO PLURIANUAL DE INVESTIMENTOS 60.000,00 781.200,00 228.000,00 600.000,00 120.000,00 24.000,00 12.000,00 14.400,00 720.000,00 24.000,00 60.000,00
+
+2.808.000,00
+
+24.000,00 24.000,00
+
+1.200,00 3.600,00 960.000,0ł 3.589.200,00 PERÍODO DE 1.997 A 1.999 1.998 20.000,00
+
+500.000,00 50.000,00 3.000,00
+
+1.000,00 190.000,00 600.000,00 651.000,00 800.000,00 100.000,00 10.000,00 20.000,00 50.000,00 20.000,00 12.000,00 20.000,00 2.991.000,00 2.340.000,00
+
+ANEXO I MINAS GERAIS 1.997 ÃO DE PRÉDIOS JARDINS INFÂNCIA AMENTOS P/DIVISÃO ANALISE PROJETO AMENTOS E IMPLEMENTOS AGRICOLAS TENTOS P/DIVISÃO ESTRADA VICINAL TOS E MATERIAL PERMANENTE ENTOS P/DIVISÃO SERV. URBANOS ENTOS P/MATADOURO MUNICIPAL OS P/GABINETE DO PREFEITO TOS P/SET. ADMINISTRATIVOS ÃO DE SERVIÇOS DE D'ÁGUA AO DE PRÉDIOS ESCOLARES ÇÃO DE ESTRADAS E PONTES OS P/DESENVOLV. ANIMAL CONSTRUÇÃO DE PREDIOS PÚBLICOS O DE PRAÇAS E JARDINS O DE POSTOS DE SAÚDE OBRAS E INSTALAÇÕES O DE VIAS URBANAS ENTOS DE INFORMÁTICA INVESTIMENTOS PROGRAMAÇÃO ÃO DE CEMITÉRIOS ÃO RURAL VEN CONSTRU CONFERE COM O ORIGINAL CONSTRU EQUIPAM EQUIPAI EQUIP EQUIP IMPLA ELETR EQUIP CONS CONS CONS EQUIP EQUIP EQUIP EQU PAVIM CONS EQUIP Assinatura CLASS FNC PROG 09.51.269 - 1.032 08.42.188 - 1.030 10.60.326 - 1.01łął 13.75.428 - 1.033 03.07.021 - 1.003 03.07.025 - 1.02îšŚ 03.08.024 - 1.007 03.07.021 - 1.002 03.07.021 - 1.01îîš 03.07.021 - 1.020 04.14.078 - 1.024 04.15.088 - 1.02îîš 04.16.097 - 1.02łął 13.76.447 - 1.011 10.58.575 - 1.00ą 16.88.534 - 1.021 08.41.190 - 1.029 03.07.025 - 1.02šŚ 10.60.328 - 1.031 Em \_ ECON.
+
+CONFERE COM O ORIGINAL 36.400,00 36.400,00 11.269.440,00 309.400,00 309.400,00
+
+273.000,00
+
+72.800,00 36.400,00 36.400.00 546.000,0ął
+
+54.600,00 546.000,00 728.000,00
+
+36.400,00 72.800,00 36.400,00 36.400.00 Assinatura
+
+122.400,00 14.400,00 14.400,00 4.458.240,00 28.800,00 7.200,0ł 108.000,00
+
+14.400,00
+
+7.200.00 122.400,0ął 14.400,00 14.400,00 288.000,0ł 14.400.00
+
+216.000,00 216.000,0ł 28.800,00 21.600,00 14.400,00 Em 12.000,00 90.000.00 12.000,00 12.000,00 6.000.00 3.715.200,00
+
+12.000,00 6.000.00 102.000.00 102.000.00
+
+6.000.00 180.000,00 24.000,00 240.000,00 12.000.00 24.000,00 12.000,00 18.000,00 180.000,0ął 12.000,00
+
+SEVERTOCONTDA SILVA MANOEL FERREIRA DE JESUS Sec. Mun.Ádm. Finanças Prefeito Municipal
+
+3.096.000,00 10.000,00 10.000,00
+
+85.000,00 85.000,00 75.000,00
+
+150.000,00 20.000,00 5.000.00
+
+200.000,0ł 10.000.0łą 10.000.00 10.000.00 15.000.00 150.000,0ł 10.000,00 20.000,00
+
+10.000.00 AUXÍLIO P/DESPESAS DE CAPITAL POD.LEGISL. IS CAP. JÁ EM UTILIZAÇÃO DE SAÚDE E HOSP DE EMPRESA PRIVADA ÕES DE EMPRESA PÚBLICA OS P/SIST.CAPTAÇÃO SINAIS TV ADO OS ABAST. D'ÁGUA AMPLIAÇÃO E/OU MELH.REDE ILUM.PÚBLICA OS P/DIVISAO DE ESPORTES AUXILIOS P/DESPESAS DE CAPITAL NS DE INFANCIA VESSIA S/BALSA O REGULAR TAL GRA JBLICA DES FINANCEIRAS O MÉDIO ÃO DE IMÓVEIS CAP. INTE TOTAIS RIOS DE AS OS P/O ENSI SFERENC EQUIPAMENTOS P OS BI AQU AQUISIÇÃO DE TRAN AQUISIÇÃO EQUIPAMEN EQUIPAME EQUIPAMEI EQUIPAME AUXIl EQUIPAME EQUIPAMEI EQUIPAMEI EQUIPAME EQUIPAMEI AQUISIÇÃO AQUISIÇÃO AQUIS.OUT 13.75.428 - 1.008 10.60.327 - 1.010ł 03.07.021 - 1.006 03.07.021 - 1.004 03.07.021 - 1.005 08.43.197 - 1.018 08.42.188 - 1.017 08.41.190 - 1.016 01.01.001 - 1.001 05.22.136 - 1.013 08.46.224 - 1.019 10.60.325 - 1.014 16.88.534 - 1.022 16.90.566 - 1.02îšŚ 13.76.447 - 1.011
+

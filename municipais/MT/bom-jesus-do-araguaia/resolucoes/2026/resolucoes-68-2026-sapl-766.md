@@ -1,0 +1,147 @@
+---
+titulo: "Resolução-CM nº 68, de 16 de junho de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "68"
+data: "2026-06-16"
+municipio: "Bom Jesus do Araguaia"
+uf: "MT"
+codigo_ibge: "5101852"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/766"
+fonte_texto: "https://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/normajuridica/2026/766/resolucao_no_068-2026_-_programa_governanca_legislativa.pdf"
+sha256_fonte: "ceb41bb4cb9b28dc28b4e9f0678101fe88dc1248b46b5ab2cc287b8041d22f01"
+sha256_texto: "483f94545f2fd28dcb95dd05649a04ed2cd655824735cdd157c40a90e526a8ed"
+baixado_em: "2026-10-20"
+---
+
+# Resolução-CM nº 68, de 16 de junho de 2026
+
+RESOLUÇÃO Nº 068, DE 16 DE JUNHO DE 2026 DE AUTORIA DO LEGISLATIVO.
+
+“Regulamenta o Programa de Governança Legislativa Digital no âmbito da Câmara Municipal de Bom Jesus do Araguaia/MT, em conformidade com a Lei Federal nº 14.129, de 29 de março de 2021, e dá outras providências”.
+
+A CÂMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA, Estado de Mato Grosso, no uso de suas atribuições legais e regimentais, por seus Vereadores, aprova, e
+
+o Presidente da Câmara Municipal promulga a seguinte Resolução:
+
+**Art. 1º** Fica instituído, no âmbito da Câmara Municipal de Bom Jesus do Araguaia/MT, o Programa de Governança Legislativa Digital, com o objetivo de modernizar, digitalizar e integrar os serviços legislativos prestados ao cidadão, nos termos da Lei Federal nº 14.129, de 29 de março de 2021.
+
+**Art. 2º** São diretrizes do Programa de Governança Legislativa Digital:
+
+I — garantir a continuidade e a evolução tecnológica dos serviços digitais já existentes;
+
+II — ampliar a oferta de serviços públicos digitais de forma eficiente, acessível e segura;
+
+III — aproximar o Poder Legislativo Municipal da sociedade por meio de canais digitais oficiais;
+
+IV — utilizar a tecnologia e a inovação para promover inclusão, transparência e participação social;
+
+V — aperfeiçoar continuamente os processos e ferramentas de atendimento ao cidadão;
+
+VI — observar as normas de proteção de dados pessoais, segurança da informação e transparência pública.
+
+**Art. 3º** A coordenação das ações previstas nesta Resolução caberá à Presidência da Câmara Municipal, em articulação com a Mesa Diretora e os setores administrativos competentes.
+
+**Parágrafo único.** A Presidência poderá designar servidor ou responsável para acompanhar a execução das medidas previstas nesta Resolução, sem criação de cargo, função remunerada ou gratificação.
+
+**Art. 4º** A Câmara Municipal poderá instituir instrumentos de desenvolvimento de capacidades técnicas e institucionais voltadas à transformação digital, com os seguintes objetivos:
+
+I — criar e avaliar estratégias de capacitação de vereadores, servidores e colaboradores para atuação no meio digital;
+
+II — desenvolver métodos colaborativos entre servidores, cidadãos e unidades administrativas para soluções digitais inovadoras;
+
+III — aperfeiçoar o uso dos sistemas, canais digitais e ferramentas tecnológicas disponíveis.
+
+**Art. 5º** As plataformas digitais, ferramentas tecnológicas compartilhadas e canais eletrônicos utilizados pela Câmara Municipal deverão dispor, sempre que possível, das seguintes funcionalidades:
+
+I — sistema ou canal de solicitação e acompanhamento de serviços públicos legislativos;
+
+II — protocolo físico ou digital das solicitações apresentadas pelo cidadão;
+
+III — painel, página ou ferramenta de acompanhamento de informações institucionais e de transparência pública;
+
+IV — acesso à Carta de Serviços ao Cidadão;
+
+V — acesso à Ouvidoria Legislativa e ao Serviço de Informação ao Cidadão, quando disponíveis.
+
+**§ 1º** As plataformas deverão estar disponíveis por meio de portal na internet, aplicativo móvel, sistemas oficiais ou outros canais digitais adotados pela Câmara Municipal.
+
+**§ 2º** As funcionalidades deverão observar padrões de acessibilidade, simplificação do atendimento ao cidadão, segurança da informação e proteção de dados pessoais.
+
+**Art. 6º** Compete ao Poder Legislativo Municipal, no âmbito de seus serviços digitais:
+
+I — manter atualizadas e disponíveis as informações institucionais e a Carta de Serviços ao Cidadão;
+
+II — monitorar e aperfeiçoar continuamente os serviços digitais oferecidos ao cidadão;
+
+III — integrar os serviços a ferramentas de notificação eletrônica, protocolo eletrônico e assinatura digital, quando aplicáveis e disponíveis;
+
+IV — reduzir exigências desnecessárias de apresentação de documentos por parte do cidadão, sempre que possível;
+
+V — utilizar dados, indicadores e evidências para aprimorar a gestão institucional e os serviços legislativos;
+
+VI — manter canais digitais de transparência, participação social e atendimento ao cidadão.
+
+**Art. 7º** Sempre que viável, os serviços públicos legislativos deverão ser disponibilizados em formato eletrônico, sem prejuízo do atendimento presencial.
+
+**Art. 8º** As plataformas digitais deverão observar as disposições da Lei Federal nº 13.709, de 14 de agosto de 2018/Lei Geral de Proteção de Dados Pessoais, assegurando privacidade, segurança e transparência no tratamento das informações pessoais.
+
+**Art. 9º** Deverão ser garantidos aos usuários dos serviços públicos digitais:
+
+I — acesso gratuito às plataformas e canais digitais oficiais da Câmara Municipal;
+
+II — atendimento em conformidade com a Carta de Serviços ao Cidadão;
+
+III — padronização, sempre que possível, de formulários e documentos digitais;
+
+IV — recebimento de protocolo, físico ou digital, com possibilidade de acompanhamento da solicitação, quando disponível;
+
+V — atendimento presencial quando o cidadão não possuir acesso ou condições de utilizar os meios digitais.
+
+**Art. 10.** A Câmara Municipal poderá promover o uso estratégico de dados, indicadores e informações institucionais para acompanhamento, avaliação e aperfeiçoamento dos serviços legislativos, administrativos e de atendimento ao cidadão, observada a legislação vigente.
+
+**Art. 11.** São considerados serviços digitais públicos da Câmara Municipal de Bom Jesus do Araguaia/MT, dentre outros que venham a ser incorporados:
+
+I — Carta de Serviços ao Cidadão;
+
+II — Portal da Transparência;
+
+III — Serviço de Informação ao Cidadão, inclusive e-SIC, quando disponível;
+
+IV — Ouvidoria Legislativa;
+
+V — banco de dados da legislação municipal;
+
+VI — sistema ou página de acompanhamento do processo legislativo;
+
+VII — sistema de emissão de certidões e documentos, quando disponível;
+
+VIII — transmissão online ou disponibilização de gravações das sessões plenárias por meio de canal institucional;
+
+IX — programa ou sistema informatizado de controle e acompanhamento do processo legislativo e gestão das sessões plenárias;
+
+X — canais digitais oficiais de comunicação institucional;
+
+XI — dados abertos legislativos, quando disponíveis;
+
+XII — informações relativas à estrutura organizacional, responsáveis, contatos e horários de atendimento;
+
+XIII — serviços digitais vinculados à Sala da Cidadania, quando disponíveis.
+
+**Art. 12.** O Poder Legislativo poderá estabelecer parcerias, utilizar sistemas compartilhados, contratar soluções tecnológicas ou desenvolver soluções próprias para assegurar o acesso universal, democrático e seguro aos serviços públicos digitais, observada a legislação aplicável.
+
+**Art. 13.** A Mesa Diretora ou a Presidência da Câmara Municipal poderá editar os atos necessários e complementares à fiel execução das medidas previstas nesta Resolução.
+
+**Art. 14.** As despesas decorrentes da execução desta Resolução correrão à conta das dotações orçamentárias próprias da Câmara Municipal, observada a disponibilidade orçamentária e financeira.
+
+**Parágrafo único.** A execução desta Resolução ocorrerá, preferencialmente, com os recursos humanos, materiais e tecnológicos já disponíveis, não implicando, por si só, criação de cargos, funções, gratificações ou aumento de despesa obrigatória.
+
+**Art. 15.** Esta Resolução entra em vigor na data de sua publicação.
+
+Plenário Sebastião Lopes Pessoa, 16 de junho de 2026
+
+CELSO DE SOUZA Assinado de forma digital por CELSO DE SOUZA BARROS:9834302 BARROS:98343025172 Dados: 2026.06.16 16:41:25 5172 -03'00'
+
+CELSO BARROS Presidente da Câmara Municipal
+

@@ -1,0 +1,85 @@
+---
+titulo: "Lei Ordinária nº 10.980, de 23 de dezembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "10980"
+data: "2019-12-23"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 20/10/2026; 2020-09-01; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/12873"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/3520/text"
+sha256_fonte: "e32fd431534cb425955e9ca4e40630469722cffc21e10101fb150c9a884be46c"
+sha256_texto: "c740ab3baefaeabca71f6d61a69085d77ca9756fe5a933416d37d1cda64b6d23"
+baixado_em: "2026-10-20"
+revogada: null
+---
+
+# Lei Ordinária nº 10.980, de 23 de dezembro de 2019
+
+Dispõe sobre a desafetação de bem público municipal e permuta, sem ônus financeiro ao Município de Fortaleza, e dá outras providências.
+
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica desafetado de seu destino originário como Área Verde, passando a ser afetado como Área Institucional, um terreno com área de 4.316,66m², cadastrado no patrimônio da Secretaria do Planejamento, Orçamento e Gestão sob o nº 234, da Secretaria Regional II, situado no Município de Fortaleza, no lugar denominado Engenheiro Luciano Cavalcante, no Loteamento Sítio Tunga, com os seguintes limites e confinantes: ao norte, por onde mede 37,78m em um segmento de reta, com início no ponto P1 (X:557054.8917;Y:9581646.3328) com ângulo interno de 133°2'3″ e término no ponto P2, no sentido noroeste-sudeste e limita-se com a Avenida Eduardo Brígido Monteiro; ao leste, por onde mede 90,70m em 4 (quatro) segmentos: o primeiro com início no ponto P2 (X: 557092.1207; 9581639.9194) com ângulo interno de 141°23'34″ e término no ponto P3, no sentido noroeste-sudeste medindo 15,44m: o segundo segmento com início no ponto P3 (X:557102.3779;Y:9581628.3738) e término no ponto P4, em linha curva com raio de 50° e mede 44,87m e segue no sentido noroeste-sudeste: o terceiro com início no ponto P4 (X:557114.2682;Y:9581586.6513) e término no ponto P5, no sentido norte-sul e mede 24,27m: o quarto segmento com início no ponto P5 (X:557110.1361;Y:9581562.7402) com ângulo interno de 135°00'00″ e término no ponto P6, no sentido nordeste-sudoeste medindo 6,12m, todos limitam-se com a Rua Dr. Francisco Francílio Dourado da Silva; ao sul, por onde mede 31,29m em um segmento de reta, com início no ponto P6 (X:557105.1338;Y:9581559.2121) com ângulo interno de 135°00'00″ e término no ponto P7, no sentido sudeste-noroeste e limita-se com a Rua Dr. Francisco Francílio Dourado da Silva; ao oeste, por onde mede 91,74m em 3 (três) segmentos de reta: o primeiro com início no ponto P7 (X:557074.3500;Y:9581564.4600) com ângulo interno de 132°22'51″ e término no ponto P8, no sentido sudeste-noroeste e limita-se com terreno de particulares e mede 50,21m: o segundo com início no ponto P8 (X:557047.2649;Y:9581606.8512) com ângulo interno de 141°17'24″ e término no ponto P9, no sentido sul-norte e limita-se com a Rua Coronel Honório Vieira e mede 36,90m: o terceiro segmento com início no ponto P9 (X:557051.2073;Y:9581643.5371) com ângulo interno de 133°19'30″ e término no ponto P1, no sentido sudoeste-nordeste, por onde mede 4,63m e limita-se com a Rua Coronel Honório Vieira.
+
+
+Art. 2º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a permutar o bem descrito no art. 1º desta Lei, na forma das determinações da legislação em vigor, com o Sindicato dos Taxistas e Condutores Autônomos de Veículos Rodoviários de Passageiros – SINDITAXI, pelo terreno de sua propriedade, registrado sob a Matrícula nº 34.391, do 3º Cartório de Registro de Imóveis da Comarca de Fortaleza, com as seguintes características, sendo:
+
+
+a)
+
+um terreno de formato irregular, situado no Município de Fortaleza, no lugar denominado de Quintino Cunha, no loteamento denominado Cidade Oeste, perfazendo uma área de 10.958,50m², com os seguintes limites e confinantes: ao norte, por onde mede 165,25m em um segmento de reta, com início no ponto P1 (X:544352.5442;Y:9588030.9624) com ângulo interno de 86°31'54″ e término no ponto P2, no sentido noroeste-sudeste e limita-se com a Área Verde do Loteamento Cidade Oeste; ao leste, por onde mede 70,00m em 3 (três) segmentos de reta: o primeiro com início no ponto P2 (X:544511.0519;Y:9587984.2409) com ângulo interno de 90°00'00″ e término no ponto P3, no sentido nordeste-sudoeste e mede 20,00m: o segundo com início no ponto P3 (X:544505.3972;Y:9587965.0570) com ângulo interno de 270°00'00″ e término no ponto P4, no sentido noroeste-sudeste e mede 4,00m: o terceiro com início no ponto P4 (X:544509.2340;Y:9587963.9260) com ângulo interno de 90°00'00″ e término no ponto P5, no sentido nordeste-sudoeste e mede 46,00m, todos limitam-se com a Rua Francisquinha Portela; ao sul, por onde mede 162,25m em um segmento de reta, com início no ponto P5 (X:544496.2284;Y:9587919.8029) com ângulo interno de 90°00'00″ e término no ponto P6, no sentido sudeste-noroeste e limita-se com a Rua 6 do Loteamento Cidade Oeste; ao oeste, por onde mede 66,12m em um segmento de reta, com início no ponto P6 (X:544337.7207;Y:9587966.5243) com ângulo interno de 93°28'6″ e término no ponto P1, no sentido sudoeste-nordeste e limita-se com a Área Institucional do Loteamento Cidade Oeste.
+
+
+Parágrafo único.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 11.032, de 01 de setembro de 2020.
+
+
+Art. 3º.
+
+Do terreno descrito no art. 2º desta Lei será destinada uma área de 2.376,00m² para fins de regularização da posse da Unidade Básica de Saúde – Posto de Saúde Dr. Licínio Nunes de Miranda, ficando a área restante destinada à promoção de ação voltada à habitação popular.
+
+
+Art. 4º.
+
+O terreno oferecido em permuta fica destinado ao SINDITAXI, que irá utilizá-lo para implantação de sua sede que ali deverá construir, e manter instalações para reuniões e serviços assistenciais.
+
+
+Art. 5º.
+
+O imóvel ora permutado reverterá ao patrimônio público municipal, independente de ato especial, e sem direito de haver ao sindicato beneficiário qualquer indenização, inclusive por benfeitorias realizadas, se ao bem, no todo ou em parte, vier a ser dado finalidade diversa da prevista no artigo anterior, transferência ou concessão a terceiros, a título gratuito ou oneroso, inadimplência de cláusula prevista na escritura de permuta ou se não forem iniciadas, no prazo de 2 (dois) anos, a contar da assinatura da respectiva escritura de permuta, as obras de instalações a que se destina.
+
+
+Parágrafo único.
+
+Ocorrida qualquer das hipóteses previstas no caput, a Administração Municipal instaurará processo administrativo e notificará ao interessado, dando-lhe prazo de 30 (trinta) dias para apresentar defesa e, caso rejeitada, determinará a desocupação do imóvel no prazo que fixar, independentemente de notificação judicial, revertendo em benefício do Município de Fortaleza todas as benfeitorias realizadas no imóvel permutado, sem direito de o sindicato pleitear indenização ou retenção.
+
+
+Art. 6º.
+
+Qualquer transação jurídica a envolver o bem desafetado não trará quaisquer ônus financeiros ao Município de Fortaleza, sendo que todos os custos com escrituração e registro correrão por conta do Sindicato dos Taxistas e Condutores Autônomos de Veículos Rodoviários de Passageiros – SINDITAXI.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 23 DE DEZEMBRO DE 2019.**
+
+**ROBERTO CLÁUDIO RODRIGUES BEZERRA**
+
+Prefeito Municipal de Fortaleza
+

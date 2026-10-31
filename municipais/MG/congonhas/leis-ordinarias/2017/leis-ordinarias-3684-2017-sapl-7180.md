@@ -1,0 +1,106 @@
+---
+titulo: "Lei-CMC nº 3.684, de 16 de maio de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3684"
+data: "2017-05-16"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2018-12-19; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7180"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4528/text"
+sha256_fonte: "cd5b04975bb480230cadf7fa002924071a2e7123793bdcfa1eda897faba1458d"
+sha256_texto: "87d9b8f118ac256d6a7c48353dd1eecabecdf6d99d86444696883cf7d0fefb3d"
+capturado_em_fonte: "2026-10-28T00:45:41.167490-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.684, de 16 de maio de 2017
+
+AUTORIZA CONCESSÃO DE “CARTÃO CESTA SERVIDOR” A SERVIDORES MUNICIPAIS E REVOGA A LEI Nº 3.490, DE 24 DE MARÇO DE 2015
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou e eu, Prefeito, promulgo e sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica autorizada a concessão de “Cartão Cesta Servidor” aos servidores públicos ocupantes de cargos efetivos, em comissão, contratados e detentores de função pública na administração municipal direta e indireta.
+
+
+§ 1º
+
+O cartão de que trata o caput será utilizado no comércio local, para aquisição de gêneros alimentícios, refeições, bebidas não alcoólicas, gás liquefeito de petróleo (gás de cozinha), produtos de higiene pessoal e limpeza, bem como medicamentos.
+
+
+a)
+
+excepcionalmente, nos meses de dezembro de 2018 e janeiro de 2019, o cartão de que trata o caput poderá, também, ser utilizado no comércio local para aquisição de materiais de livraria, papelaria e vestuário.
+
+Alteração feita pelo Art. 1º. - Lei-PMC nº 3.797, de 19 de dezembro de 2018.
+
+
+§ 2º
+
+Em nenhuma hipótese será permitido o uso do crédito do cartão para aquisição de bebidas alcoólicas e cigarros.
+
+
+Art. 2º.
+
+O valor do “cartão cesta servidor” será de R$500,00 (quinhentos reais).
+
+
+Parágrafo único
+
+Além da quantia prevista no caput, no mês de dezembro de 2018, será devido a quantia mínima de R$ 150,00 (cento e cinquenta reais) a título de parcela especial de natal.
+
+Alteração feita pelo Art. 2º. - Lei-PMC nº 3.797, de 19 de dezembro de 2018.
+
+
+Art. 3º.
+
+O beneficiário terá o prazo de 6 (seis) meses para fazer uso do crédito, sob pena de reversão ao erário dos valores não utilizados, diante da sua renúncia presumida, devendo a administradora do cartão alimentação devolver o crédito ao Município, conforme regulamento.
+
+
+Art. 4º.
+
+O benefício será concedido a partir da data de requerimento para aqueles que não recebem, atualmente, o cartão cesta servidor e que se enquadram nos requisitos do art. 1º desta Lei.
+
+
+Parágrafo único
+
+Farão jus a parcela especial de natal, previsto no caput, os servidores nomeados e exonerados no curso do mês de dezembro, independentemente da quantidade de dias trabalhados.
+
+Alteração feita pelo Art. 3º. - Lei-PMC nº 3.797, de 19 de dezembro de 2018.
+
+
+Art. 5º.
+
+O benefício do cartão destina-se ao servidor e não poderá ser acrescido seu valor em razão de acúmulo de cargos legalmente previsto.
+
+
+Art. 6º.
+
+As despesas decorrentes desta lei serão custeadas por dotação consignada no orçamento vigente.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos financeiros a 1º de maio de 2017.
+
+
+Art. 8º.
+
+Fica revogada a Lei n.º 3.490, de 24 de março de 2015.
+
+
+Congonhas, 16 de maio de 2017.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

@@ -1,0 +1,527 @@
+{
+  "estado": "indice_completo",
+  "total": 51,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/anexo_1287.pdf da norma Lei nº 1.287, de 01 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/1/anexo_1287.pdf",
+      "ano": 2019,
+      "norma": 1339
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/pl_38_ppa_2018_2021_somente_anexos.pdf da norma Lei nº 1.214, de 21 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2017/2/pl_38_ppa_2018_2021_somente_anexos.pdf",
+      "ano": 2017,
+      "norma": 1255
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/orcanexo01receitasdespesas_7.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/3/orcanexo01receitasdespesas_7.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/orcanexo02despesaconsolidacao_3.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/4/orcanexo02despesaconsolidacao_3.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/orcanexo02despesas_4.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/5/orcanexo02despesas_4.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/orcanexo06despesas_2.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/6/orcanexo06despesas_2.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/orcanexo08despesas_1_1.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/7/orcanexo08despesas_1_1.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/8/orcanexo08despesas_1.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/8/orcanexo08despesas_1.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/9/orcanexo09despesas_2.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/9/orcanexo09despesas_2.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/10/orcquadrodetdespesaorcamentaria_7.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/10/orcquadrodetdespesaorcamentaria_7.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/11/orcsumariogeralreceitasdespesas_5.pdf da norma Lei nº 1.265, de 11 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2018/11/orcsumariogeralreceitasdespesas_5.pdf",
+      "ano": 2018,
+      "norma": 1308
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/12/1295_anexo_1.pdf da norma Lei nº 1.295, de 08 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "1",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/12/1295_anexo_1.pdf",
+      "ano": 2019,
+      "norma": 1347
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/13/1295_anexo_2.pdf da norma Lei nº 1.295, de 08 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "2",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/13/1295_anexo_2.pdf",
+      "ano": 2019,
+      "norma": 1347
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/14/pl_058_concede_titulo_honorario.pdf da norma Lei nº 252, de 11 de dezembro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei n° 058/2002 - Concede Título de Cidadã Honorária a Senhora Maria Aparecida Bonfim Martins.",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2002/14/pl_058_concede_titulo_honorario.pdf",
+      "ano": 2002,
+      "norma": 986
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/1313_anexo_1.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/15/1313_anexo_1.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/1313_anexo_2.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/16/1313_anexo_2.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/17/1313_anexo_3.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/17/1313_anexo_3.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/18/1313_anexo_4.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/18/1313_anexo_4.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/19/1313_anexo_5_7_da_norma.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/19/1313_anexo_5_7_da_norma.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/20/1313_anexo_6_8_da_norma.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/20/1313_anexo_6_8_da_norma.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/1313_anexo_7_v_da_norma.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/21/1313_anexo_7_v_da_norma.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/22/1313_anexo_8_v_despesa_por_funcao.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/22/1313_anexo_8_v_despesa_por_funcao.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/23/1313_anexo_9_2_da_norma.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/23/1313_anexo_9_2_da_norma.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/1313_anexo_10_2_da_norma.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/25/1313_anexo_10_2_da_norma.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/26/1313_anexo_11_2_da_norma.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/26/1313_anexo_11_2_da_norma.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/27/1313_anexo_12_por_natureza_da_despesa.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/27/1313_anexo_12_por_natureza_da_despesa.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/28/1313_anexo_13_por_categoria_economica.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/28/1313_anexo_13_por_categoria_economica.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/29/1313_anexo_14_detalhamento_da_despesa.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/29/1313_anexo_14_detalhamento_da_despesa.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/30/1313_anexo_15_receita.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/30/1313_anexo_15_receita.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/31/1313_anexo_16_receita_funcao.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/31/1313_anexo_16_receita_funcao.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/32/1313_anexo_17_receita_segundo_categoria_economica.pdf da norma Lei nº 1.313, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2019/32/1313_anexo_17_receita_segundo_categoria_economica.pdf",
+      "ano": 2019,
+      "norma": 1364
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/33/anexos_lei_1317_2020.pdf da norma Lei nº 1.317, de 06 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/33/anexos_lei_1317_2020.pdf",
+      "ano": 2020,
+      "norma": 1368
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/34/anexos_lei_1317_2020.pdf da norma Lei nº 1.122, de 09 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Os anexos da Lei 1122/2015 foram revogados passando os anexos da Lei 1317/2020 a integrarem as normas.",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2015/34/anexos_lei_1317_2020.pdf",
+      "ano": 2015,
+      "norma": 229
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/35/1336_anexo_i.pdf da norma Lei nº 1.336, de 26 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/35/1336_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 1388
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/36/1338_anexo_i.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/36/1338_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/37/1338_anexo_ii.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/37/1338_anexo_ii.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/38/1338_anexo_iii.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Anexo III",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/38/1338_anexo_iii.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/39/1338_anexo_iv.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/39/1338_anexo_iv.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/40/1338_anexo_v.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Anexo V",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/40/1338_anexo_v.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/41/1338_anexo_vi.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/41/1338_anexo_vi.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/42/1338_anexo_vii.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Anexo VII",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/42/1338_anexo_vii.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/43/1338_anexo_viii.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Anexo VIII",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/43/1338_anexo_viii.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/44/1338_anexo_ix.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Anexo IX",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/44/1338_anexo_ix.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/45/1338_anexo_x.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Anexo X",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/45/1338_anexo_x.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/46/1338_anexo_xi.pdf da norma Lei nº 1.338, de 18 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Anexo XI",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/46/1338_anexo_xi.pdf",
+      "ano": 2020,
+      "norma": 1396
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/47/1336_anexo_iii_e_iv.pdf da norma Lei nº 1.336, de 26 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/47/1336_anexo_iii_e_iv.pdf",
+      "ano": 2020,
+      "norma": 1388
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/48/1350_anexo.pdf da norma Lei nº 1.350, de 04 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/48/1350_anexo.pdf",
+      "ano": 2020,
+      "norma": 1403
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/49/1351_anexo.pdf da norma Lei nº 1.351, de 04 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/49/1351_anexo.pdf",
+      "ano": 2020,
+      "norma": 1404
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/50/1346_anexo.pdf da norma Lei nº 1.346, de 20 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Mapa",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2020/50/1346_anexo.pdf",
+      "ano": 2020,
+      "norma": 1413
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/51/anexos_lei_1389.pdf da norma Lei nº 1.389, de 10 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2021/51/anexos_lei_1389.pdf",
+      "ano": 2021,
+      "norma": 1444
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/52/1392_anexos.pdf da norma Lei nº 1.392, de 09 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carambei.pr.leg.br/media/sapl/public/anexonormajuridica/2021/52/1392_anexos.pdf",
+      "ano": 2021,
+      "norma": 1447
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carambei.pr.leg.br/8e21246effd2e6a350c04fb222248dd636b2ec768f740b200e629a8cd90aa9e2.json",
+      "url": "https://sapl.carambei.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9b1ea437b81cdb744f74044d9956baad46d6f315b64319fdb028895214b89788",
+      "capturado_em": "2026-10-20T20:59:20.241254",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.carambei.pr.leg.br/8e21246effd2e6a350c04fb222248dd636b2ec768f740b200e629a8cd90aa9e2.json"
+    }
+  ]
+}

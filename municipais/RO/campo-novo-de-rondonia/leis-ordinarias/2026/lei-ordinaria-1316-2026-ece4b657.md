@@ -1,0 +1,31 @@
+---
+titulo: "LEI Nº 1.316, DE 21 DE JULHO DE 2026"
+uf: "RO"
+municipio: "CAMPO NOVO DE RONDÔNIA"
+tipo: "Lei Ordinária"
+numero: "1316"
+data: 2026-07-21
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 22/07/2026"
+data_publicacao: 2026-07-22
+codigo_identificador: "ECE4B657"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116113_2026-07-21_0adb6b73fdc75a7c62886dde2bc1f830.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1.316, DE 21 DE JULHO DE 2026
+
+LEI Nº 1.316, DE 21 DE JULHO DE 2026
+AUTORIZA O PODER EXECUTIVO MUNICIPAL
+ABRIR CRÉDITO ADICIONAL ESPECIAL POR
+EXCESSO
+DE
+ARRECADAÇÃO
+NO
+ORÇAMENTO DO MUNICÍPIO DE CAMPO
+NOVO DE RONDÔNIA PARA O EXERCÍCIO DE
+2026.
+
+Publicado por:
+João Felipe Marques Cordeiro de Oliviera

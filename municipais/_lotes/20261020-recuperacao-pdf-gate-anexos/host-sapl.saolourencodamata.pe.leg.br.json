@@ -1,0 +1,246 @@
+{
+  "host": "sapl.saolourencodamata.pe.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/1694796024_21asessaoordinariada3asessaolegislativa.pdf da norma Resolução nº 798, de 06 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Ata da 21ª sessão ordinária da 3º Sessão Legislativa da 18º Legislatura (2021 - 2024) - aprecia Prestação de Contas do Exercício Financeiro de 2010.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2023/1/1694796024_21asessaoordinariada3asessaolegislativa.pdf",
+      "ano": 2023,
+      "norma": 1420
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/geec_22_15033089_1_v1.pdf da norma Resolução nº 798, de 06 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "PARECER PRÉVIO RECOMENDANDO À CÂMARA MUNICIPAL A APROVAÇÃO, COM RESSALVAS, DAS CONTAS DE GOVERNO 2010.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2023/2/geec_22_15033089_1_v1.pdf",
+      "ano": 2023,
+      "norma": 1420
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/3/mapeamento-de-votacao-projeto-de-resolucao-7982023.pdf da norma Resolução nº 798, de 06 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Mapeamento de Votação Projeto de Resolução 798/2023 - Referente a prestação de contas exercício financeiro de 2010.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2023/3/mapeamento-de-votacao-projeto-de-resolucao-7982023.pdf",
+      "ano": 2023,
+      "norma": 1420
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/4/16asessaoordinariada2asessaolegislativa.pdf da norma Resolução nº 779, de 03 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Ata da 16ª sessão ordinária da 2º Sessão Legislativa da 18º Legislatura (2021 - 2024) - aprecia Prestação de Contas do Exercício Financeiro de 2016.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2022/4/16asessaoordinariada2asessaolegislativa.pdf",
+      "ano": 2022,
+      "norma": 1222
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/itd.pdf da norma Resolução nº 779, de 03 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "PARECER PRÉVIO RECOMENDANDO À CÂMARA MUNICIPAL A APROVAÇÃO, COM RESSALVAS, DAS CONTAS DE GOVERNO 2016.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2022/5/itd.pdf",
+      "ano": 2022,
+      "norma": 1222
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/27a_sessao_ordinaria_da_3a_sessao_legislativa.pdf da norma Resolução nº 311, de 06 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Ata da 27ª sessão ordinária da 3º Sessão Legislativa da 17º Legislatura (2017 - 2020) - aprecia Prestação de Contas do Exercício Financeiro de 2005.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2018/6/27a_sessao_ordinaria_da_3a_sessao_legislativa.pdf",
+      "ano": 2018,
+      "norma": 1547
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/geec_22_06200291_1_v1.pdf da norma Resolução nº 311, de 06 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "PARECER PRÉVIO RECOMENDANDO À CÂMARA MUNICIPAL A REJEIÇÃO, DAS CONTAS DE GOVERNO 2005.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2018/7/geec_22_06200291_1_v1.pdf",
+      "ano": 2018,
+      "norma": 1547
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/8/4a_sessao_ordinaria_da_2a_sessao_legislativa.pdf da norma Resolução nº 774, de 17 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Ata da 4ª reunião ordinária do 1º Período Legislativo da Câmara Municipal de São Lourenço da Mata - aprecia Prestação de Contas do Exercício de 2018.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2022/8/4a_sessao_ordinaria_da_2a_sessao_legislativa.pdf",
+      "ano": 2022,
+      "norma": 1224
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/9/4a_sessao_ordinaria_da_2a_sessao_legislativa.pdf da norma Resolução nº 773, de 17 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre o Parecer do Tribunal de Contas do Estado de Pernambuco, Processo TCE-PE Nº 18100866-0- referente à Prestação de Contas da Prefeitura Municipal de São Lourenço da Mata, relativo ao exercício financeiro de 2018.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2022/9/4a_sessao_ordinaria_da_2a_sessao_legislativa.pdf",
+      "ano": 2022,
+      "norma": 1206
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/10/23a_sessao_ordinaria_da_4a_sessao_legislativa.pdf da norma Resolução nº 756, de 07 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Ata da 23ª sessão ordinária da 4º Sessão Legislativa da 17º Legislatura (2017 - 2020) - aprecia Prestação de Contas do Exercício Financeiro de 2012.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2020/10/23a_sessao_ordinaria_da_4a_sessao_legislativa.pdf",
+      "ano": 2020,
+      "norma": 1112
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/41a_sessao_ordinaria_da_3a_sessao_legislativa.pdf da norma Resolução nº 410, de 01 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Ata da 41ª sessão ordinária da 3º Sessão Legislativa da 17º Legislatura (2017 - 2020) - aprecia Prestação de Contas do Exercício Financeiro de 2015.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2019/11/41a_sessao_ordinaria_da_3a_sessao_legislativa.pdf",
+      "ano": 2019,
+      "norma": 986
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/12/42a_sessao_ordinaria_da_2a_sessao_legislativa.pdf da norma Resolução nº 310, de 06 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Ata da 42ª sessão ordinária da 2º Sessão Legislativa da 17º Legislatura (2017 - 2020) - aprecia Prestação de Contas do Exercício Financeiro de 2007.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2018/12/42a_sessao_ordinaria_da_2a_sessao_legislativa.pdf",
+      "ano": 2018,
+      "norma": 1338
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/13/9a_sessao_ordinaria_da_2a_sessao_legislativa_-_2018.pdf da norma Resolução nº 303, de 19 de março de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Ata da 9ª sessão ordinária da 2º Sessão Legislativa da 17º Legislatura (2017 - 2020) - aprecia Prestação de Contas do Exercício Financeiro de 2006.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2018/13/9a_sessao_ordinaria_da_2a_sessao_legislativa_-_2018.pdf",
+      "ano": 2018,
+      "norma": 1332
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/14/47a_sessao_ordinaria_da_1a_sessao_legislativa_-_2013.pdf da norma Resolução nº 99, de 04 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Ata da 47ª sessão ordinária da 4º Sessão Legislativa da 15º Legislatura (2013 - 2016) - aprecia Prestação de Contas do Exercício Financeiro de 2011.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2013/14/47a_sessao_ordinaria_da_1a_sessao_legislativa_-_2013.pdf",
+      "ano": 2013,
+      "norma": 1594
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/15/6a_sessao_ordinaria_da_4a_sessao_legislativa_-_2012.pdf da norma Resolução nº 35, de 01 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Ata da 6ª sessão ordinária da 4º Sessão Legislativa da 15º Legislatura (2009 - 2012) - aprecia Prestação de Contas do Exercício Financeiro de 1992.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2012/15/6a_sessao_ordinaria_da_4a_sessao_legislativa_-_2012.pdf",
+      "ano": 2012,
+      "norma": 1485
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/16/24a_sessao_ordinaria_da_3a_sessao_legislativa_-_2011.pdf da norma Resolução nº 26, de 28 de junho de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2011/16/24a_sessao_ordinaria_da_3a_sessao_legislativa_-_2011.pdf",
+      "ano": 2011,
+      "norma": 1596
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/17/30a_sessao_ordinaria_da_1a_sessao_legislativa_-_2009.pdf da norma Resolução nº 5, de 25 de agosto de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Ata da 30ª sessão ordinária da 1º Sessão Legislativa da 15º Legislatura (2009 - 2012) - aprecia Prestação de Contas do Exercício Financeiro de 1997.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2009/17/30a_sessao_ordinaria_da_1a_sessao_legislativa_-_2009.pdf",
+      "ano": 2009,
+      "norma": 1458
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/18/36a_sessao_ordinaria_da_3a_sessao_legislativa_-_2015.pdf da norma Resolução nº 163, de 01 de outubro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Ata da 36ª sessão ordinária da 3º Sessão Legislativa da 16º Legislatura (2013 - 2016) - aprecia Prestação de Contas do Exercício Financeiro de 2013.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2015/18/36a_sessao_ordinaria_da_3a_sessao_legislativa_-_2015.pdf",
+      "ano": 2015,
+      "norma": 1597
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/38a_sessao_ordinaria_da_3a_sessao_legislativa_-_2023.pdf da norma Resolução nº 808, de 17 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Ata da 38ª sessão ordinária da 3º Sessão Legislativa da 18º Legislatura (2021 - 2024) - aprecia Prestação de Contas do Exercício Financeiro de 2020.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2023/19/38a_sessao_ordinaria_da_3a_sessao_legislativa_-_2023.pdf",
+      "ano": 2023,
+      "norma": 1659
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/49a_sessao_ordinaria_da_3a_sessao_legislativa_-_2023.pdf da norma Resolução nº 809, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Ata da 39ª sessão ordinária da 3º Sessão Legislativa da 18º Legislatura (2021 - 2024) - aprecia Prestação de Contas do Exercício Financeiro de 2021.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2023/20/49a_sessao_ordinaria_da_3a_sessao_legislativa_-_2023.pdf",
+      "ano": 2023,
+      "norma": 1684
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/21/37a_sessao_ordinaria_da_4a_sessao_legislativa_-_2016.pdf da norma Resolução nº 184, de 14 de outubro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Ata de Julgamento",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2016/21/37a_sessao_ordinaria_da_4a_sessao_legislativa_-_2016.pdf",
+      "ano": 2016,
+      "norma": 1698
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/22/45a_sessao_ordinaria_da_4a_sessao_legislativa_-_2016.pdf da norma Resolução nº 187, de 21 de novembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Ata de Julgamento",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2016/22/45a_sessao_ordinaria_da_4a_sessao_legislativa_-_2016.pdf",
+      "ano": 2016,
+      "norma": 1701
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/23/4a_sessao_ordinaria_da_4a_sessao_legislativa.pdf da norma Resolução nº 814, de 21 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Ata sessão de aprovação.",
+      "anexo_arquivo": "http://sapl.saolourencodamata.pe.leg.br/media/sapl/public/anexonormajuridica/2024/23/4a_sessao_ordinaria_da_4a_sessao_legislativa.pdf",
+      "ano": 2024,
+      "norma": 1839
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.saolourencodamata.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saolourencodamata.pe.leg.br/108d204f064e884356f2616cd29423d6237a0ae81e37792b5c5a5b567c61d6e2.json",
+      "sha256": "261ceae47ec0d210b924bce08054d89753a541d8a634c14f04ce7843dfc36cd3",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saolourencodamata.pe.leg.br/108d204f064e884356f2616cd29423d6237a0ae81e37792b5c5a5b567c61d6e2.meta.json"
+    }
+  ],
+  "total": 23
+}

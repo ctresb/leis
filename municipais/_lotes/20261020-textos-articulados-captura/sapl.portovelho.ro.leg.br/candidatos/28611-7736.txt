@@ -1,0 +1,32 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.240, de 27 de dezembro de 2024, a fim de proceder às adequações orçamentárias no exercício 2025,
+
+Considerando o Ofício n.º362/2025/SMD-DA, de 13 de novembro de 2025, pelo qual a Superintendência Municipal de Distritos - SMD solicita a movimentação de recursos para cobertura de despesas com passagens e despesas com locomoção,
+
+**D E C R E T A:**
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 45.267,04 (quarenta e cinco mil reais, duzentos e sessenta e sete reais e quatro centavos).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVI do Artigo o 6º da Lei nº 3.193, de 27 de junho de 2024 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="8"><p><strong>02.00 - SECRETARIA GERAL DE GOVERNO - SGOV</strong></p></td></tr><tr><td colspan="8"><p><strong>02.71 - SUPERINTENDÊNCIA MUNICIPAL DE DISTRITOS - SMD</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td><td><p> </p></td></tr><tr><td rowspan="3"><p>02.71.04.122.286.2.746</p></td><td rowspan="3"><p>Plano de Desenvolvimento Distrital</p></td><td rowspan="3"><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>17.850,00</p></td><td><p>-</p></td><td><p> </p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>6.417,04</p></td><td><p>-</p></td><td><p> </p></td></tr><tr><td><p>4.4.90.51</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>21.000,00</p></td><td><p>-</p></td><td><p> </p></td></tr><tr><td><p>02.71.04.122.286.2.692</p></td><td><p>Manutenção das sedes administrativas</p></td><td><p>FIS</p></td><td><p>3.3.90.33</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>-</p></td><td><p>45.267,04</p></td><td><p> </p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>45.267,04</strong></p></td><td><p><strong>45.267,04</strong></p></td><td><p> </p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>45.267,04</strong></p></td><td><p><strong>45.267,04</strong></p></td><td><p> </p></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 20.737, de 27 de dezembro de 2024 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 20.738, de 27 de dezembro de 2024.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito do Município
+
+***WAGNER GARCIA DE FREITAS***
+
+Secretário Municipal de Economia
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município

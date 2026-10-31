@@ -1,0 +1,142 @@
+{
+  "host": "sapl.doresdoindaia.mg.leg.br",
+  "metadados_unicos_observados": 1095,
+  "total_api_declarado": 1095,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1043,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/0844aca1b67052a73598e2c6dbb501419a879d4a74aefa111f5a8532469ca939.json",
+    "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "6408fd562ec382c4ae937abd6ce98cf406d41b59ed2dbb984d8a5b07b778b371",
+    "bytes": 951,
+    "capturado_em": "2026-10-28T09:48:39.093454-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/fe41f6133c4b29f97c2320e3d203b0a8a737fcfcb07c9903f4ae8c479566b328.json",
+    "url": "https://sapl.doresdoindaia.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "21c769ee3c75c7c3cdf525015025a4d4644672ddd5f35130076d819438b10bca",
+    "bytes": 749,
+    "capturado_em": "2026-10-28T09:48:38.202691-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/a121fda1b8e21a2fee32783f7f88d101097e4eb776de5f00312785e66e624533.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1fad2b247047527030f7e6dcdf742a7a64a54e118347533f861908ba1dbe1de4",
+      "bytes": 64199,
+      "capturado_em": "2026-10-28T09:48:41.694227-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/c42d5db166dd3c2b1730c181e193d94f9511784c5ddcd738ae46ccba0f6545d9.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6ea656cc9362aa794318bcb63ce480fb4ad6a1efe43b49751cbaeb2df39e87d4",
+      "bytes": 63184,
+      "capturado_em": "2026-10-28T09:52:07.597016-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/bfb2f84282aa435ae0ac87fd82277b7e1c30cadc64a78859b8ea3e9333e81f13.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f63015723fde4a7d3a231a827e636c6de239c7374d16a40e2cbbf4115a2c5d95",
+      "bytes": 68039,
+      "capturado_em": "2026-10-28T09:55:25.229945-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/0cb06ac2abfea598de31a04f49892d6cf8ae4096418a9ec29ecd8db602afef21.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4114adfd7e89c71b23cc610e972ac2c2832b8c05bc03df49c7fade60eb9781bb",
+      "bytes": 67926,
+      "capturado_em": "2026-10-28T09:58:43.069623-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/6ea1b0d23c6a623195a023c7693f1c08a3051ec5bbc1bfc4c31a48214fd5908a.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "63d4ce5ffdcf6493f1cbc0fdc9466a5aa65bfc5147b7cc41bfdb20ae0018dfb1",
+      "bytes": 61606,
+      "capturado_em": "2026-10-28T10:01:59.050509-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/7cd3502b010617684d615fbaf8fcce1a63dc88083c71259a556b13824dfa9655.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7dfad6d31bb36a2df18a48b3a6459a3d30bbcca3ad90805616a4c11cdee4f749",
+      "bytes": 55591,
+      "capturado_em": "2026-10-28T10:05:22.663975-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/b4f503f5f842e5f8c596e001b19f452093fd38ad02c228fc36ecbcb285a619dc.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "29cadf25c99dd56dda00770714e5c16066d7c86a6ffedad879fdaed3eddfe9d9",
+      "bytes": 55331,
+      "capturado_em": "2026-10-28T10:08:37.341360-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/0e6f39fdb1eb896f7f9b7e69c0d431a45e537e96b03669f5217e869275ccbfb4.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bbcb118f693207b4e9f827b025f068a4c43c1a619532380cfafc903009b3f422",
+      "bytes": 53362,
+      "capturado_em": "2026-10-28T10:11:59.129358-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/66a5647f5b6a7942bc4e09bd47dc3d7f5a868700ba174cfd59f256ae9129cb33.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0e93ece13e706befc210a33a9afafa6d58b4ebcd898963fb59ad54ccc6a4dadc",
+      "bytes": 56407,
+      "capturado_em": "2026-10-28T10:15:24.530762-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/ead2ae62f06e055cc31f95c06f80e1e277001f844e48ee8b2db20b49c9e63e71.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cb2197f5ba52e6319bf3b113cbc293deb8a87fc9fa323ebbcc1a0254c1f451aa",
+      "bytes": 58358,
+      "capturado_em": "2026-10-28T10:18:39.958386-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doresdoindaia.mg.leg.br/0582db87fe9fa639ca9dbc57b3e451de28dfa37d0340367d47ecc713fdd8cb7d.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.doresdoindaia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4b75dddfee1df72ea3cb71ecc7e5ed82834d04792e902e88ad9b51bfe74c9de6",
+      "bytes": 55600,
+      "capturado_em": "2026-10-28T10:21:58.201912-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

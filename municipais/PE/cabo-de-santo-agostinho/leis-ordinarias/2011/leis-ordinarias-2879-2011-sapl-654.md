@@ -1,0 +1,232 @@
+---
+titulo: "Lei Ordinária nº 2.879, de 22 de dezembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2879"
+data: "2011-12-22"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2014-09-11; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/654"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/657/text"
+sha256_fonte: "90e93b412d3be847aa4282ad8e60f3fb8d34495febff67e4c829f96db5e771ad"
+sha256_texto: "0ac85bdc3dfb192b8fb7f3480fd4bc8579bc30f7bb1c73bcd7a36b68ab45bcb0"
+capturado_em_fonte: "2026-10-27T21:42:06.460578-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.879, de 22 de dezembro de 2011
+
+DISPÕE SOBRE INCENTIVOS FISCAIS PARA FOMENTAR AS ATIVIDADES ECONÔMICAS DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO; INSTITUI O COMITÊ GESTOR DE INCENTIVO FISCAL - COGIF; E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO, FAÇO SABER QUE A CÂMARA MUNICIPAL DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a conceder, benefícios fiscais às empresas estabelecidas ou a se estabelecer no Município, considerando o seguinte:
+
+
+I –
+
+a concessão de incentivos fiscais pelo Município respeitará os preceitos da Lei Complementar Federal nº 101/2000;
+
+
+II –
+
+a concessão poderá ser dada às empresas industriais, comerciais e prestadoras de serviços que:
+
+
+a)
+
+venham a se instalar no Município e cujo ramo de atividade incremente e/ou complemente as atividades econômicas;
+
+
+b)
+
+já estejam instaladas no Município e que venham a expandir e/ou aumentar a sua atividade econômica, elevando a arrecadação do Imposto Sobre Operações Relativas à Circulação de Mercadorias e Serviços - ICMS e do Imposto Sobre Serviço de Qualquer Natureza - ISSQN.
+
+
+Art. 2º.
+
+Para obtenção dos incentivos previstos nesta Lei, os interessados deverão efetuar investimento em:
+
+
+I –
+
+obras de infraestrutura urbana, equipamentos comunitários e do meio ambiente; e
+
+
+II –
+
+projetos culturais, esportivos e/ou sociais.
+
+
+III –
+
+Prestar serviços de interesse e em benefício da comunidade Cabense.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.012, de 11 de setembro de 2014.
+
+
+§ 1º
+
+Os investimentos em obras de infraestrutura urbana, equipamentos comunitários e do meio ambiente deverão ser em até 10% (dez por cento) do valor do empreendimento.
+
+
+§ 2º
+
+Os empreendedores que tiverem direito aos benefícios fiscais estabelecidos nesta Lei deverão:
+
+
+I –
+
+proporcionar a aplicação a título de doação ou patrocínio durante todo o período do benefício fiscal, a quantia equivalente a até 4% (quatro por cento) do Imposto de Renda em projetos culturais desenvolvidos pelo Município do Cabo de Santo Agostinho, desde que amparados pela "Lei Rouanet" ou em Lei de mesmo cunho que vier a substituir ou alterar esta;
+
+
+II –
+
+proporcionar a aplicação a título de doação ou patrocínio durante todo o período do benefício fiscal, a quantia equivalente a até 1% (um por cento) do Imposto de Renda em projetos esportivos e paraesportivos desenvolvidos pelo Município do Cabo de Santo Agostinho, desde que amparados pela Lei Federal nº 11.438/2006 u em Lei de mesmo cunho que vier a substituir ou alterar esta;
+
+
+III –
+
+proporcionar a aplicação a título de doação ou patrocínio durante todo o período do benefício fiscal, a quantia equivalente a até 1% (um por cento) do Imposto de Renda em projetos para o Fundo dos Direitos da Criança e do Adolescente desenvolvidos pelo Município do Cabo de Santo Agostinho, desde que amparados pelo Decreto Federal nº 794 de 05 de abril de 1993 u em Lei de mesmo cunho que vier a substituir ou alterar esta.
+
+
+Art. 3º.
+
+Os benefícios fiscais do que trata o artigo 1º, compreenderão:
+
+
+I –
+
+redução de 50% (cinquenta por cento) do Imposto Sobre a Propriedade Predial o Territorial Urbana - IPTU;
+
+
+II –
+
+redução da alíquota do Imposto Sobre Serviços do Qualquer Natureza - ISSQN para:
+
+
+a)
+
+2% (dois por cento) do início da operação até o 5º ano;
+
+
+b)
+
+2,5% (dois e meio por cento) do 6º ano até o 10º ano;
+
+
+c)
+
+3,0% (três por cento) do 11º ano até o 15º ano.
+
+
+III –
+
+redução em até 50% (cinquenta por cento) das Taxas Pela Prestação de Serviços e Pelo Poder de Polícia;
+
+
+IV –
+
+redução de 50% (cinquenta por cento) da alíquota do ITBI dos imóveis com destinação à atividade industrial, comercial e de prestação de serviço até 30 de dezembro de 2012.
+
+
+§ 1º
+
+A redução prevista nos incisos I, II e III para as empresas instaladas serão proporcional ao aumento de sua capacidade produtiva e área ampliada.
+
+
+§ 2º
+
+A concessão do benefício fiscal de que trata os incisos I, II e III não poderá ultrapassar o prazo de 15 (quinze) anos.
+
+
+Art. 4º.
+
+As empresas beneficiárias com a redução prevista nos incisos I a III deverão atender no mínimo aos seguintes requisitos básicos:
+
+
+I –
+
+ser proprietária ou locatária de imóvel situado no Município, destinado à instalação industrial, comercial ou de serviço que atenda à legislação vigente, principalmente no que diz respeito ao uso e ocupação do solo;
+
+
+II –
+
+estar sem débito com o erário público municipal;
+
+
+III –
+
+apresentar Termo de Compromisso no ato da solicitação dos investimentos que irá realizar no Município.
+
+
+Parágrafo único
+
+Considera-se, para efeito desta Lei, que a empresa está sem débito com o erário público municipal, quando pagos todos os tributos municipais com vencimento fixado até a data do protocolo do pedido junto à Secretaria Executiva de Finanças e Arrecadação - SEFA, bem como aqueles já vencidos com negociação de pagamento já acordada.
+
+
+Art. 5º.
+
+Os benefícios concedidos com base nesta Lei, cessam no momento do encerramento das atividades da empresa e/ou do empreendimento.
+
+
+Art. 6º.
+
+Fica instituído o Comitê Gestor de Incentivo Fiscal - COGIF, com duração indeterminada, para o fim de proceder estudos, análises, pareceres e julgamentos sobre pedidos de benefícios fiscais a serem concedidos pelo Município.
+
+
+Art. 7º.
+
+O COGIF de que trata o artigo anterior será nomeado pelo Chefe do Poder Executivo, ficando a execução de suas atividades vinculadas à estrutura de seu Gabinete.
+
+
+§ 1º
+
+O COGIF será constituído por representantes das Secretarias Municipais de Gestão Pública; de Desenvolvimento Econômico e Turismo e de Planejamento e Meio Ambiente.
+
+
+§ 2º
+
+Os Funcionários que comporão o Grupo Executivo integrante do COGIF serão nomeados por Portaria do Chefe do Executivo Municipal e manterão suas relações funcionais com as respectivas unidades de origem, sem prejuízos de suas regulares atribuições.
+
+
+Art. 8º.
+
+Para se habilitar aos benefícios de que trata esta Lei, a empresa interessada deverá apresentar seu pedido ao COGIF, que terá o prazo máximo de 30 (trinta) dias para apreciação e definição.
+
+
+Art. 9º.
+
+O descumprimento ou prática de infração à legislação Tributária, Urbanística, Sanitária e/ou Ambiental do Município implicará na suspensão dos benefícios previsto nesta Lei, a partir da data do cometimento da infração.
+
+
+Art. 10.
+
+A Secretaria Executiva de Finanças e Arrecadação - SEFA é o órgão competente para fiscalização do fiel cumprimento das obrigações, pelos beneficiários desta Lei.
+
+
+Art. 11.
+
+O Chefe do Poder Executivo, no prazo de 60 (sessenta) dias, contado a partir da publicação, regulamentará esta Lei e instalará o Comitê Gestor de Incentivo Fiscal - COGIF.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação ficando revogadas as Leis nº 1781 de 28 de outubro de 1997 e 1926 de 29 de dezembro de 2000, facultado aos contribuintes que tenham protocolado pedido de incentivo fiscal, a opção da concessão do incentivo pela legislação vigente à época do requerimento e ora revogada.
+
+
+Palácio Conde da Boa Vista, em 22 de dezembro de 2011.
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+**Prefeito**
+

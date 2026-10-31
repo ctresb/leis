@@ -1,0 +1,89 @@
+---
+titulo: "Lei Ordinária nº 2.166, de 20 de fevereiro de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2166"
+data: "1984-02-20"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/2188"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3068/text"
+sha256_fonte: "2011bff0e9e754bf0f156d84b02bda6bb7a48b897ebd69b8de3dbb413ff03eb3"
+sha256_texto: "9577115da8eac2ec856e420bf39bda7fd02c956dcbf6bf6423ef5549eb28f918"
+capturado_em_fonte: "2026-10-27T18:43:39.549343-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.166, de 20 de fevereiro de 1984
+
+DISPÕE SOBRE COMPRA DE EQUIPAMENTO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eu, **DR. FLORIVAL CERVELATI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a adquirir de **LARK S.A. MÁQUINAS E EQUIPAMENTOS**, nos termos do § 2º, alínea “d”, do artigo 126 do Decreto-Lei Federal nº 200, de 25 de fevereiro de 1967, e do inciso IV do artigo 24, da Lei Estadual nº 89, de 27 de dezembro de 1972, uma **ESCAVADEIRA HIDRÁULICA UNIVERSAL POCLAIN**, fabricada no Brasil por **J. I. CASE DO BRASIL & CIA**, nova, modelo LY 2P (LY-80 4x4) sobre pneus, tração nas quatro rodas, acionada por motor Diesel marca MWM, modelo D229/6, de 6 cilindros, refrigerado a água de 100 CV (SAE), transmissão mecânica com caixa de velocidades sincronizadas e inversor de marchas, 8 velocidades à frente e 8 à ré, chassis com quatro patolas laterais de apoio, acionadas hidraulicamente da cabine; circuito hidráulico de alta pressão 300 kg/cm² e baixa pressão – 40 + 80 litros/minuto, bomba hidráulica de dois estágios e 3 pistões cada, capacidade do tanque hidráulico de 125 livros e capacidade do circuito hidráulico 230 litros; composta de um lança de 4,50m, um braço retro de 2,60m, com comando hidráulico e caçamba de 700 litros de capacidade, profundidade de escavação 5,20m, altura de corte 8,30m e alcance horizontal de 8,20m.
+
+
+Art. 2º.
+
+Para pagamento parcial do equipamento acima descrito, fica o Prefeito Municipal autorizado a contrair empréstimo junto a uma instituição financeira oficial ou particular, até o montante de Cr$ 132.660.000,00 (cento e trinta e dois milhões, seiscentos e sessenta mil cruzeiros), assinando o respectivo contrato e assumindo as obrigações decorrentes do financiamento.
+
+
+Parágrafo único
+
+Como garantia da operação de crédito, o equipamento adquirido poderá ser alienado fiduciariamente à instituição financeira credora, nos termos e para os efeitos do artigo 66 e parágrafos da Lei nº 4.728, de 14 de julho de 1965, com a redação e as normas processuais adotados pelo Decreto-Lei nº 911, de 1º de outubro de 1969.
+
+
+Art. 3º.
+
+A cobertura das obrigações de pagamento do equipamento e da amortização do empréstimo, incluídos os encargos complementares, no presente exercício, correrá por conta de abertura de crédito especial de Cr$ 60.802.500,00 (sessenta milhões, oitocentos e dois mil e quinhentos cruzeiros), a ser aberto por decreto e coberto com recursos do financiamento contraído, e pela importância de Cr$ 21.737.624,00 (vinte e um milhões, seiscentos e trinta e sete mil, seiscentos e vinte e quatro cruzeiros), referentes à complementação do preço do equipamento, financiada pela **LARK S.A. MÁQUINAS E EQUIPAMENTOS**, em 4 (quatro) parcelas mensais iguais de Cr$ 5.434.406,00 (cinco milhões, quatrocentos e trinta e quatro mil, quatrocentos e seis cruzeiros), que ocorrerá por conta da verba 6 – SERVIÇOS DE UTILIDADE PÚBLICA – 6.1 – SERVIÇO MUNICIPAL DE ESTRADAS DE RODAGEM – SERM – 16885312.27 – Manutenção do SERM – 4120 – Obras e Equipamentos, - do orçamento municipal vigente.
+
+
+Parágrafo único
+
+Os orçamentos futuros do Município consignarão, obrigatoriamente, as dotações necessárias à liquidação dos compromissos oriundos do financiamento contraído.
+
+
+Art. 4º.
+
+A amortização do empréstimo e o pagamento dos respectivos encargos financeiros de qualquer natureza, acessórios, acréscimos previstos e multa serão efetivados mediante aplicação da quota que for creditada ao Município decorrente da arrecadação do Imposto de Circulação de Mercadorias (ICM), nos termos do artigo 23, § 8º, da Constituição da República Federativa do Brasil.
+
+
+§ 1º
+
+Na hipótese de insuficiência, cancelamento ou suspensão das quotas do ICM, os pagamentos serão realizados mediante a aplicação de outros recursos, quer incluídos no orçamento municipal, quer extra-orçamentários, tais como, as quotas do Fundo Rodoviário Nacional e do Fundo de Participação dos Municípios.
+
+
+§ 2º
+
+O Prefeito Municipal autorizar, de forma irrevogável, o Banco do Estado de São Paulo, S.A., ou a instituição assemelhada a contabilizar, a débito da conta do Município em que foram creditadas as quotas ou recursos referidos neste artigo, as importâncias correspondentes à liquidação das obrigações derivadas desta lei.
+
+
+Art. 5º.
+
+Fica o Prefeito Municipal autorizado a outorgar, em nome do Município, procuração à Agencia Especial de Financiamento Industrial – FINAME, criada pelo Decreto Federal nº 59.170, de 2 de setembro de 1966, ou a outra instituição financeira que participe do financiamento, com cláusula expressa de substabelecer o mandato, para receber o Banco do Estado de São Paulo, S.A., ou instituição de crédito assemelhada, as quotas que lhe couberem nas receitas referidas no artigo 4º, até o montante necessário para liquidar as obrigações a serem contraídas pela execução da presente lei.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte de fevereiro de mil novecentos e oitenta e quatro.
+
+**DR. FLORIVAL CERVELATI Prefeito Municipal**
+
+Publicada na Divisão de Expediente da Prefeitura Municipal de Birigui, aos vinte de fevereiro de mil novecentos e oitenta e quatro, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

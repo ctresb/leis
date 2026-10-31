@@ -1,0 +1,46 @@
+Autoriza abrir Crédito Especial o vigente orçamento, para os fins que indica e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA - ESTADO DO CEARÁ, no uso de suas atribuições:**  
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo Municipal autorizado abrir ao vigente Orçamento Geral do Município, o crédito adicional especial no valor de R$ 3.029,63 (três mil e vinte nove reais e sessenta e três centavos) destinado a atender despesas com indenizações e restituições junto ao Instituto de Previdência dos Servidores do município de Amontada, distribuídos na forma do Anexo I, parte integrante da presente lei.
+
+
+Art. 2º.
+
+A fonte de recurso compensatória para abertura de Credito Adicional Especial objeto do art. 1º desta Lei, em atendimento ao disposto no at. 177, V, da constituição da República de 1988, será a anulação parcial de dotação orçamentaria na forma do disposto no art. 43, § 1º. III da Lei No. 4.320/1964, na forma de Anexo II da presente Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada/CE, aos 04 dias do mês de setembro do ano de 2019.
+
+**VALDIR HERBSTER FILНО**  
+Prefeito de Amontada
+
+
+## Anexo I — CREDITO ESPECIAL
+
+
+**PARA: Instituto de Previdência dos Servidores de Amontada - Amontadaprev.**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><strong>Dotação Orçamentária </strong></td><td colspan="3"><strong>Descrição</strong></td></tr><tr><td>1801</td><td colspan="3"><strong> Instituto de Previdência dos Servidores de Amontada</strong></td></tr><tr><td>09</td><td colspan="3">Previdência Social</td></tr><tr><td>122</td><td colspan="3">Administração Geral</td></tr><tr><td>1801.09.122.0100.2.063</td><td colspan="3">Manutenção Admin. Do Regime Próprio de Previdência dos Servidores</td></tr><tr><td>3.0.00.00.00</td><td colspan="3">Despesas correntes</td></tr><tr><td>3.3.00.00.00</td><td colspan="3">Outras despesas correntes</td></tr><tr><td>3.3.90.00.00</td><td colspan="3">Aplicações Diretas</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e restituições</td><td>FONTE 1410013101</td><td>3.029,63</td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td><strong>FONTE 1410013101</strong></td><td><strong>3.029,63</strong></td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA
+
+
+**DA: Instituto de Previdência dos Servidores de Amontada – Amontadaprev.**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><strong>Dotação Orçamentária </strong></td><td colspan="3"><strong>Descrição</strong></td></tr><tr><td>1801</td><td colspan="3"><strong> Instituto de Previdência dos Servidores de Amontada</strong></td></tr><tr><td>1801.09.122.0100.2.063</td><td colspan="3">Manutenção Admin. Do Regime Próprio de Previdência dos Servidores</td></tr><tr><td>3.3.90.92.00</td><td>Despesas de exercícios anteriores</td><td><strong>FONTE 1410013101</strong></td><td>3.029,63</td></tr></tbody></table>
+
+
+**VALDIR HERBSTER FILНО**  
+Prefeito de Amontada

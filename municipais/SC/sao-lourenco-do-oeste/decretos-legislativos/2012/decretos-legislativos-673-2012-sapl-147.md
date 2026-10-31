@@ -1,0 +1,91 @@
+---
+titulo: "Decreto Legislativo nº 673, de 12 de abril de 2012"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "673"
+data: "2012-04-12"
+municipio: "São Lourenço do Oeste"
+uf: "SC"
+codigo_ibge: "4216909"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.saolourencodooeste.sc.leg.br/norma/147"
+fonte_texto: "https://sapl.saolourencodooeste.sc.leg.br/media/sapl/public/normajuridica/2012/147/dec_673_-_homologa_resultado_eleicao_parlamento_jovem_2012.doc"
+sha256_fonte: "f79d4740715018688e8208ceb5928b2a166412c5506cf37e4731127bc345f26d"
+sha256_texto: "c312f560ff6f7f088a82b1bc7c2c13cc7cfaf44769321e4598a1ecd9b83be6a6"
+baixado_em: "2026-10-21"
+---
+
+# Decreto Legislativo nº 673, de 12 de abril de 2012
+
+**DECRETO LEGISLATIVO Nº 673, de 12 de abril de 2012.**
+
+Dispõe sobre a homologação do resultado das eleições para o cargo de vereador mirim do Programa Parlamento Jovem da Câmara de Vereadores de São Lourenço do Oeste.
+
+O Presidente da Câmara de Vereadores de São Lourenço do Oeste, Estado de Santa Catarina, no uso de suas atribuições, em especial o contido no Decreto Legislativo nº 641, de 09 de setembro de 2009, e em atenção ao disposto no artigo 10 da Portaria nº 147, de 01 de março de 2012,
+
+**Decreta:**
+
+**Art. 1º** Fica homologado o resultado das eleições, por escola, para o cargo de vereador mirim 2012, do Programa Parlamento Jovem, realizadas no dia 10 de abril de 2012:
+
+**I – Rede Estadual de Ensino:**
+
+a) Escola de Educação Básica Sóror Angélica:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Guilherme K. Machado</strong></p>       </td>       <td>         <p><strong>14 anos</strong></p>       </td>       <td>         <p><strong>Eleito vereador</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Isadora Cristina Rissi</p>       </td>       <td>         <p>15 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Analice Tresoldi</p>       </td>       <td>         <p>15 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>4º</p>       </td>       <td>         <p>Marcelo Jacó Pesenti</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>5º</p>       </td>       <td>         <p>Michele Luana Pasqualotto</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>6º</p>       </td>       <td>         <p>Francieli Antunes Moreira</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>7º</p>       </td>       <td>         <p>Carlos Miguel Lazzarotto</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>8º</p>       </td>       <td>         <p>Vinicius Aguiar</p>       </td>       <td>         <p>15 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+b) Escola de Educação Básica Rui Barbosa e Extensão Escola Básica Municipal Santa Maria Goretti:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Luiz R. Dendena</strong></p>       </td>       <td>         <p><strong>14 anos</strong></p>       </td>       <td>         <p><strong>Eleito vereador</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Letícia Vieira de Gos</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Larissa Simões</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>4º</p>       </td>       <td>         <p>Thalison Santos Paulo</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+c) Escola de Educação Básica São Valentim e Extensão Escola Básica Municipal Santa Catarina:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Natali Letícia Pereira</strong> </p>       </td>       <td>         <p><strong>14 anos</strong></p>       </td>       <td>         <p><strong>Eleita vereadora</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Josiane Chaves Trindade</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Larissa Rohr</p>       </td>       <td>         <p>15 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>4º</p>       </td>       <td>         <p>Anieli Maria Dias</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>5º</p>       </td>       <td>         <p>Andréia de Fátima Muraro</p>       </td>       <td>         <p>15 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>6º</p>       </td>       <td>         <p>Catiele Tezza</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>6º</p>       </td>       <td>         <p>Helen Bamberg</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>7º</p>       </td>       <td>         <p>Aldaisa Guralski Dias</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>8º</p>       </td>       <td>         <p>Andrei Bonczkowski</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>9º</p>       </td>       <td>         <p>Luis Carlos A. Nunes</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>9º</p>       </td>       <td>         <p>Tiago Menegon</p>       </td>       <td>         <p>13 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>10º</p>       </td>       <td>         <p>Gustavo Luiz Zanettin</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>11º</p>       </td>       <td>         <p>Fabiano Seibel</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>12º</p>       </td>       <td>         <p>Danielli Ribeiro dos Santos</p>       </td>       <td>         <p>13 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>13º</p>       </td>       <td>         <p>Caroline Konrad Laurenth</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>13º</p>       </td>       <td>         <p>Lucimari M. de O. Camargo </p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+**II – Rede Municipal de Ensino:**
+
+a) Escola Básica Municipal São Lourenço:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Madalena de Almeida Nunes</strong></p>       </td>       <td>         <p><strong>13 anos</strong></p>       </td>       <td>         <p><strong>Eleita vereadora</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Luana Ap. da Silva</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Lucas Gabriel Teston</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>4º</p>       </td>       <td>         <p>Daiane Zuchi de Almeida</p>       </td>       <td>         <p>13 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+b) Escola Básica Municipal Santa Inês (Linha Santa Inês):
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Rosangela Steil</strong></p>       </td>       <td>         <p><strong>15 anos</strong></p>       </td>       <td>         <p><strong>Eleita vereadora</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Gislaine dos Santos</p>       </td>       <td>         <p>14 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Sônia Mara Mendes</p>       </td>       <td>         <p>13 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+c) Escola Básica Municipal Santa Maria Goretti:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Higor Augusto Kolling</strong></p>       </td>       <td>         <p><strong>13 anos</strong></p>       </td>       <td>         <p><strong>Eleito vereador</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Bruna Ioris</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Eduarda Jovana Buttner</p>       </td>       <td>         <p>13 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>4º</p>       </td>       <td>         <p>Eluana de Almeida</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>5º</p>       </td>       <td>         <p>Natani Querino dos Santos</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>6º</p>       </td>       <td>         <p>Elizangele Aparecida Myczak</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>6º</p>       </td>       <td>         <p>Rubens Christoff</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>6º</p>       </td>       <td>         <p>Thalia Goulart da Silva</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+d) Escola Básica Municipal São Roque:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Eduardo Parisoto</strong></p>       </td>       <td>         <p><strong>14 anos</strong></p>       </td>       <td>         <p><strong>Eleito vereador</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Manuela Everlin Slaviero</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Rodrigo Zanon</p>       </td>       <td>         <p>13 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>4º</p>       </td>       <td>         <p>Mateus Junior Consoli</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>5º</p>       </td>       <td>         <p>Veronilce Barbosa</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+e) Escola Básica Municipal Santa Catarina – Extensão na Escola de Educação Básica Sóror Angélica:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Larissa Libardoni</strong></p>       </td>       <td>         <p><strong>13 anos</strong></p>       </td>       <td>         <p><strong>Eleito vereador</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Ana Carla Meneguetti</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Tainara M. Barbosa</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>4º</p>       </td>       <td>         <p>Guilherme André Tavella</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>5º</p>       </td>       <td>         <p>Ismael Roberto Przysbecz</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+**III – Rede Particular de Ensino:**
+
+a) Escola São Francisco de Assis – ESFA:
+
+<table>   <tbody>     <tr>       <td>         <p>Ordem de</p>         <p>colocação</p>       </td>       <td>         <p><br></p>         <p>Candidato(a)</p>       </td>       <td>         <p><br></p>         <p>Idade</p>       </td>       <td>         <p><br></p>         <p>Condição </p>       </td>     </tr>     <tr>       <td>         <p><strong>1º</strong></p>       </td>       <td>         <p><strong>Karina Cofferri</strong></p>       </td>       <td>         <p><strong>13 anos</strong></p>       </td>       <td>         <p><strong>Eleita vereadora</strong></p>       </td>     </tr>     <tr>       <td>         <p>2º</p>       </td>       <td>         <p>Vitor Verona Ceni</p>       </td>       <td>         <p>13 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>     <tr>       <td>         <p>3º</p>       </td>       <td>         <p>Victoria Dallagnol Batista</p>       </td>       <td>         <p>12 anos</p>       </td>       <td>         <p>Suplente</p>       </td>     </tr>   </tbody> </table>
+
+**Art. 2º** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Câmara de Vereadores de São Lourenço do Oeste, 12 de abril de 2012.
+
+**Vereador Walmor José Pederssetti**
+
+Presidente da Câmara de Vereadores
+
+EMBED CorelDRAW.Graphic.11
+
+PAGE
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Rua Duque de Caxias, 522  (0xx)49-3344–2666 CEP – 89.990-000 – São Lourenço do Oeste – SC.
+
+**CÂMARA DE VEREADORES**
+
+SÃO LOURENÇO DO OESTE – SANTA CATARINA
+

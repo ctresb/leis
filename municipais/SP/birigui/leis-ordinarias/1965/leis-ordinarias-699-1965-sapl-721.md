@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 699, de 16 de novembro de 1965"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "699"
+data: "1965-11-16"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/721"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1126/text"
+sha256_fonte: "93591a4e558607928f5600e395d191b8dc0d04e0204ccc481a7eea1a4ab4c215"
+sha256_texto: "156438030d02d4b0a6e3a14b96f44ac7b0f4b125c81f6665f7504a56a962b0fe"
+capturado_em_fonte: "2026-10-27T19:32:51.706699-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 699, de 16 de novembro de 1965
+
+SUPLEMENTA DIVERSAS VERBAS DO ORÇAMENTO VIGENTE.
+
+
+Eu, **MARIO CRÊM DOS SANTOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto, na Diretoria de Finanças – Seção de Contabilidade, um crédito de Cr$ 113.837.596,00 (cento e treze milhões, oitocentos e trinta e sete mil e quinhentos e noventa e seis cruzeiros) suplementar às seguintes verbas do orçamento vigente:
+
+
+<table><tbody><tr><td>102/8-00-0</td><td>Pessoal Fixo</td><td>Cr$ 2.034.008,00</td></tr><tr><td>102/8-00-3</td><td>Material de Consumo</td><td>Cr$ 100.000,00</td></tr><tr><td>104/8-02-4</td><td>Despesas Diversas</td><td>Cr$ 1.000.000,00</td></tr><tr><td>105/8-09-0</td><td>Pessoal Fixo</td><td>Cr$ 3.438.301,00</td></tr><tr><td>105/8-09-1</td><td>Pessoal Variável</td><td>Cr$ 280.000,00</td></tr><tr><td>105/8-09-4</td><td>Despesas Diversas - I</td><td>Cr$ 1.000.000,00</td></tr><tr><td>105/8-09-4</td><td>Despesas Diversas - II</td><td>Cr$ 20.000,00</td></tr><tr><td>105/8-09-4</td><td>Despesas Diversas - III</td><td>Cr$ 50.000,00</td></tr><tr><td>105/8-09-4</td><td>Despesas Diversas - IV</td><td>Cr$ 500.000,00</td></tr><tr><td>105/8-09-4</td><td>Despesas Diversas - VI</td><td>Cr$ 200.000,00</td></tr><tr><td>106/8-09-0</td><td>Pessoal Fixo</td><td>Cr$ 736.794,00</td></tr><tr><td>106/8-09-1</td><td>Pessoal Variável</td><td>Cr$ 671.100,00</td></tr><tr><td>106/8-09-4</td><td>Despesas Diversas - II</td><td>Cr$ 400.000,00</td></tr><tr><td>107/8-07-0</td><td>Pessoal Fixo</td><td>Cr$ 3.517.750,00</td></tr><tr><td>107/8-07-1</td><td>Pessoal Variável</td><td>Cr$ 1.490.300,00</td></tr><tr><td>107/8-07-3</td><td>Material de Consumo</td><td>Cr$ 300.000,00</td></tr><tr><td>107/8-07-4</td><td>Despesas Diversas - I</td><td>Cr$ 100.000,00</td></tr><tr><td>108/8-13-0</td><td>Pessoal Fixo</td><td>Cr$ 3.254.610,00</td></tr><tr><td>108/8-13-1</td><td>Pessoal Variável</td><td>Cr$ 2.818.933,00</td></tr><tr><td>108/8-13-3</td><td>Material de Consumo</td><td>Cr$ 200.000,00</td></tr><tr><td>109/8-13-0</td><td>Pessoal Fixo</td><td>Cr$ 263.132,00</td></tr><tr><td>201/8-27-0</td><td>Pessoal Fixo</td><td>Cr$ 2.266.858,00</td></tr><tr><td>202/8-89-1</td><td>Pessoal Variável</td><td>Cr$ 2.636.500,00</td></tr><tr><td>202/8-89-3</td><td>Material de Consumo</td><td>Cr$ 200.000,00</td></tr><tr><td>203/8-89-0</td><td>Pessoal Fixo</td><td>Cr$ 645.498,00</td></tr><tr><td>203/8-89-3</td><td>Material de Consumo</td><td>Cr$ 200.000,00</td></tr><tr><td>204/8-89-1</td><td>Pessoal Variável</td><td>Cr$ 1.320.000,00</td></tr><tr><td>204/8-89-3</td><td>Material de Consumo</td><td>Cr$ 200.000,00</td></tr><tr><td>205/8-85-1</td><td>Pessoal Variável</td><td>Cr$ 9.000.233,00</td></tr><tr><td>205/8-85-3</td><td>Material de Consumo</td><td>Cr$ 1.000.000,00</td></tr><tr><td>207/8-63-0</td><td>Pessoal Fixo</td><td>Cr$ 2.591.734,00</td></tr><tr><td>207/8-63-1</td><td>Pessoal Variável</td><td>Cr$ 1.209.637,00</td></tr><tr><td>207/8-63-3</td><td>Material de Consumo</td><td>Cr$ 2.000.000,00</td></tr><tr><td>207/8-63-4</td><td>Despesas Diversas</td><td>Cr$ 3.000.000,00</td></tr><tr><td>209/8-63-1</td><td>Pessoal Variável</td><td>4.904.543,00</td></tr><tr><td>210/8-88-4</td><td>Despesas Diversas</td><td>Cr$ 2.800.000,00</td></tr><tr><td>212/8-81-1</td><td>Pessoal Variável</td><td>Cr$ 10.088.000,00</td></tr><tr><td>212/8-81-3</td><td>Material de Consumo</td><td>Cr$ 10.000.000,00</td></tr><tr><td>214/8-82-0</td><td>Pessoal Fixo</td><td>1.213.592,00</td></tr><tr><td>214/8-82-1</td><td>Pessoal Variável</td><td>Cr$ 9.500.000,00</td></tr><tr><td>214/8-82-3</td><td>Material de Consumo</td><td>Cr$ 10.000.000,00</td></tr><tr><td>302/8-34-0</td><td>Pessoal Fixo</td><td>Cr$ 553.175,00</td></tr><tr><td>302/8-34-4</td><td>Despesas Diversas - a) XII</td><td>Cr$ 314.000,00</td></tr><tr><td>302/8-34-4</td><td>Despesas Diversas - c) III</td><td>Cr$ 500.000,00</td></tr><tr><td>302/8-34-4</td><td>Despesas Diversas - d) I</td><td>Cr$ 500.000,00</td></tr><tr><td>302/8-34-4</td><td>Despesas Diversas - d) II</td><td>Cr$ 200.000,00</td></tr><tr><td>304/8-29-4</td><td>Despesas Diversas - I</td><td>Cr$ 200.000,00</td></tr><tr><td>304/8-29-4</td><td>Despesas Diversas - XIV</td><td>Cr$ 500.000,00</td></tr><tr><td>305/8-92-4</td><td>Despesas Diversas - I</td><td>Cr$ 500.000,00</td></tr><tr><td>601/8-90-0</td><td>Proventos Diversos</td><td>Cr$ 5.274.968,00</td></tr><tr><td>602/8-95-4</td><td>Despesas Diversas</td><td>Cr$ 993.790,00</td></tr><tr><td>702/8-09-4</td><td>Despesas Diversas</td><td>Cr$ 300.000,00</td></tr><tr><td>802/8-92-4</td><td>Despesas Diversas</td><td>Cr$ 1.164.480,00</td></tr><tr><td>803/8-94-4</td><td>Despesas Diversas</td><td>Cr$ 3.086.660,00</td></tr><tr><td>804/8-99-4</td><td>Despesas Diversas</td><td>Cr$ 2.000.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O presente crédito será coberto com os recursos provenientes de excesso de arrecadação previsto para o exercício em curso.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos dezesseis de novembro de mil novecentos e sessenta e cinco.
+
+**MARIO CRÊM DOS SANTOS Prefeito Municipal**
+
+Publicada na Seção do Expediente e do Pessoal da Prefeitura, aos dezesseis de novembro de mil novecentos e sessenta e cinco, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Assistente Administrativo da Seção de Expediente e do Pessoal da Prefeitura**
+

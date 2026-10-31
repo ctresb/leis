@@ -1,0 +1,56 @@
+{
+  "host": "sapl.urupa.ro.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/1/lei_454_31_marco_2011_anexo.pdf da norma Lei Ordinária nº 454, de 31 de março de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "PLANO DECENAL MUNICIPAL DE EDUCAÇÃO PARTICIPATIVO DO MUNICÍPIO DE URUPÁ PERÍODO 2012 A 2022",
+      "anexo_arquivo": "http://sapl.urupa.ro.leg.br/media/sapl/public/anexonormajuridica/2011/1/lei_454_31_marco_2011_anexo.pdf",
+      "ano": 2011,
+      "norma": 190
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/decreto_n.005-2020-gp..pdf da norma Decretos nº 5, de 12 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.urupa.ro.leg.br/media/sapl/public/anexonormajuridica/2020/2/decreto_n.005-2020-gp..pdf",
+      "ano": 2020,
+      "norma": 395
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/lei_n._1.172_de_13_de_outubro_de_2025..pdf da norma Lei Ordinária-P L M nº 1.172, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.urupa.ro.leg.br/media/sapl/public/anexonormajuridica/2025/3/lei_n._1.172_de_13_de_outubro_de_2025..pdf",
+      "ano": 2025,
+      "norma": 847
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/resolucao_001-2025-cmur-errata.pdf da norma Resolução-P.L nº 1, de 29 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Errata.",
+      "anexo_arquivo": "http://sapl.urupa.ro.leg.br/media/sapl/public/anexonormajuridica/2025/4/resolucao_001-2025-cmur-errata.pdf",
+      "ano": 2025,
+      "norma": 841
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.urupa.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.urupa.ro.leg.br/abed0559d501edf38bc41195cc2ffcca9822b660656bfe7dd1ed0d2bb834cdfd.json",
+      "sha256": "a389245c8c215afdbf95a13d02e000caf825e402be52b806f1fc9016f231d0e3",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.urupa.ro.leg.br/abed0559d501edf38bc41195cc2ffcca9822b660656bfe7dd1ed0d2bb834cdfd.meta.json"
+    }
+  ],
+  "total": 4
+}

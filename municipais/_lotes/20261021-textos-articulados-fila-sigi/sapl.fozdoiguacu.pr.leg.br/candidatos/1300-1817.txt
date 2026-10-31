@@ -1,0 +1,383 @@
+Institui o Domicílio Municipal Eletrônico -DM-e - para todas as pessoas naturais e jurídicas estabelecidas no Município, e dá outras providências.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Domicílio Municipal Eletrônico - DM-e, para comunicação eletrônica entre o Município e os cidadãos, podendo ser utilizada para:
+
+
+I –
+
+cientificar e intimar o sujeito passivo acerca de quaisquer decisões, inclusive de recursos fiscais, termos ou atos administrativos, notificações, notificações de lançamento, autuações, autos de infração, intimações e outros documentos inerentes a processos de ação fiscal ou processo administrativo;
+
+
+II –
+
+dar publicidade a editais;
+
+
+III –
+
+avisos em geral;
+
+
+IV –
+
+apresentação de impugnações e recursos em processos administrativos;
+
+
+V –
+
+cientificar o sujeito passivo sobre o indeferimento de opção, da exclusão e de ações fiscais do Simples Nacional; e
+
+
+VI –
+
+requerimentos e formulação de consultas sobre a interpretação e a aplicação da legislação.
+
+
+Art. 2º.
+
+Para fins de aplicação desta Lei, consideram-se:
+
+
+I –
+
+domicílio eletrônico: o portal de comunicações e serviços eletrônicos do Município, disponível na internet;
+
+
+II –
+
+meio eletrônico: qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais;
+
+
+III –
+
+comunicação eletrônica: toda forma de transmissão de dados com a utilização de redes de comunicação, preferencialmente a internet;
+
+
+IV –
+
+assinatura eletrônica: aquela que possibilite a identificação do signatário e utilize certificado digital emitido por Autoridade Certificadora credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP Brasil, nos termos da lei federal específica ou através de login e senha de acesso ao cadastro.
+
+
+V –
+
+sujeito passivo: o sujeito eleito pela legislação para o cumprimento da obrigação tributária, mesmo as que gozem de isenção ou imunidade, podendo ser o próprio contribuinte ou terceiro responsável pelo cumprimento da obrigação tributária, seja ela principal ou acessória;
+
+
+VI –
+
+usuário: todas as pessoas, naturais ou jurídicas, estabelecidas ou não no Município, que tenham o credenciamento ativo no DM-e;
+
+
+VII –
+
+credenciamento: procedimento formal realizado pelas pessoas naturais ou jurídicas, estabelecidas ou não no Município, de solicitação, autorização e de utilização do sistema do DM-e;
+
+
+Art. 3º.
+
+A comunicação do Município efetuada por meio do Domicílio Municipal Eletrônico - DM-e - será considerada pessoal, para todos os efeitos legais, dispensando a publicação em Diário Oficial, o envio por via postal e outras formas previstas na legislação, ressalvado o disposto no parágrafo único, deste artigo.
+
+
+Parágrafo único
+
+No interesse da Administração Tributária, a comunicação poderá ser realizada mediante outras formas previstas na legislação.
+
+
+Art. 4º.
+
+São também competentes para recebimento das comunicações exaradas pelo sistema DM-e, na condição de representantes dos contribuintes tratados no art. 1º desta Lei:
+
+
+I –
+
+contador e demais responsáveis pela escrita fiscal;
+
+
+II –
+
+engenheiros, arquitetos e demais responsáveis técnicos;
+
+
+III –
+
+responsável tributário;
+
+
+IV –
+
+procurador legalmente constituído;
+
+
+V –
+
+prepostos ou funcionários; e
+
+
+VI –
+
+outros previstos em legislação tributária.
+
+
+Parágrafo único
+
+Para que seja válida a representação, deverá ser apresentado e deferido o instrumento de procuração em nome do responsável principal, com o registro do respectivo instrumento no sistema.
+
+
+Art. 5º.
+
+Os sujeitos passivos que já encontrarem licenciados para atuação no Município até a data da publicação desta Lei poderão, facultativamente, se credenciar no DM-e até 31 de dezembro de 2022, e deverão se credenciar a partir de 1º de janeiro 2023, a ser realizado na forma do regulamento estabelecido pelo Município.
+
+
+§ 1º
+
+O deferimento do credenciamento no DM-e na forma do caput deste artigo será comunicado ao sujeito passivo ou seu representante, por meio eletrônico.
+
+
+§ 2º
+
+O credenciamento terá prazo de validade indeterminado.
+
+
+§ 3º
+
+O contribuinte poderá cadastrar até dois números de celulares WhatsApp e três endereços de email para recebimento de avisos quando ocorrer mensagens na caixa de entrada do seu DM-e.
+
+
+§ 4º
+
+No caso de contribuintes que se licenciarem no Município posteriormente à publicação desta Lei, estarão automaticamente obrigados a utilizar o DM-e, exceto nos casos em que o cadastramento é facultativo.
+
+
+§ 5º
+
+O cancelamento ou baixa do licenciamento não exime o contribuinte de dar ciência às intimações eletrônicas pendentes, e seu cadastro de usuário do sistema do DM-e somente poderá ser cancelado após a ciência a todas as intimações pendentes.
+
+
+§ 6º
+
+O credenciamento no DM-e constitui uma obrigação acessória, e o não credenciamento no prazo estabelecido no caput deste artigo poderá gerar as sanções previstas no Código Tributário Municipal - CTM.
+
+
+Art. 6º.
+
+O DM-e será facultativo para as seguintes pessoas, a ser deferido mediante comprovação, cuja documentação admitida será definida em regulamento, e anotação no sistema de que não estão habilitadas a receber intimações:
+
+
+I –
+
+pessoas de baixa renda;
+
+
+II –
+
+idosos a partir de 60 anos;
+
+
+III –
+
+pessoas que comprovarem não possuir acesso à internet.
+
+
+Art. 7º.
+
+Para os cidadãos de maneira geral, domiciliados ou não em Foz do Iguaçu, bem como as pessoas naturais e jurídicas não estabelecidas no Município, o credenciamento no DM-e será facultativo.
+
+
+§ 1º
+
+Uma vez realizado o credenciamento, o usuário fica obrigado a acompanhar o DM-e;
+
+
+§ 2º
+
+Exclusivamente para os casos deste artigo, será permitido a cancelamento do credenciamento no DM-e, devendo fazê-lo de forma expressa.
+
+
+Art. 8º.
+
+Os atos e termos processuais no âmbito do DM-e consideram-se realizados no dia e no horário do recebimento completo das informações no sistema informatizado de tramitação do DM-e, em relação aos quais serão fornecidos recibos eletrônicos.
+
+
+§ 1º
+
+Para todos os efeitos desta Lei, será considerado o horário oficial de Brasília.
+
+
+§ 2º
+
+São considerados tempestivos os atos e termos processuais efetivados até às 23h59min59s do último dia estabelecido para encerramento do prazo, observado o horário registrado no protocolo eletrônico de recebimento.
+
+
+§ 3º
+
+Considerar-se-á realizada a intimação no dia em que o usuário consultar a intimação eletrônica.
+
+
+§ 4º
+
+Nos casos em que a consulta se der em dia não útil, o usuário será considerado intimado no primeiro dia útil seguinte.
+
+
+§ 5º
+
+Não constatado acesso ao DM-e ou não sendo feita a consulta da intimação eletrônica, após 10 (dez) dias corridos, contados da data em que foi disponibilizada a comunicação no DM-e, o usuário será considerado intimado.
+
+
+§ 6º
+
+Os prazos terão início no primeiro dia útil que seguir ao da intimação.
+
+
+§ 7º
+
+Na contagem de prazo em dias, quando da intimação no DM-e, computar-se-ão em dias corridos.
+
+
+§ 8º
+
+Se o Sistema do DM-e se tornar indisponível por motivos técnicos, os prazos ficam automaticamente prorrogados para o primeiro dia útil seguinte à resolução do problema, mediante certidão de indisponibilidade a ser fornecida pelo Município.
+
+
+§ 9º
+
+Não caracterizam indisponibilidade do sistema:
+
+
+I –
+
+as falhas de transmissão de dados entre as estações de trabalho do público externo e a rede de comunicação pública; e
+
+
+II –
+
+a impossibilidade técnica que decorra de falhas nos equipamentos ou programas dos usuários externos.
+
+
+Art. 9º.
+
+documento eletrônico transmitido com garantia de autoria, autenticidade e integridade, será considerado original para todos os efeitos legais, podendo o Município exigir a exibição do original de documento digitalizado e juntado.
+
+
+§ 1º
+
+Os extratos digitais e os documentos digitalizados e transmitidos na forma estabelecida nesta Lei tem a mesma força probante dos originais, ressalvada a alegação motivada e fundamentada de adulteração antes ou durante o processo de digitalização.
+
+
+§ 2º
+
+Os originais dos documentos digitalizados, a que se refere o § 1º deste artigo, deverão ser preservados pelo seu detentor durante o prazo decadencial previsto na legislação tributária.
+
+
+§ 3º
+
+A alegação de adulteração de documento digital devidamente motivada ensejará a realização de diligência para a verificação do documento objeto de controvérsia e a instauração de processo para apuração da responsabilidade pela prática do ato ilícito.
+
+
+§ 4º
+
+Os documentos cuja digitalização seja tecnicamente inviável devido ao grande volume ou por motivo de ilegibilidade deverão ser apresentados ao Município, no prazo improrrogável de 10 (dez) dias contados do envio de petição eletrônica comunicando o fato.
+
+
+Art. 10.
+
+São de exclusiva responsabilidade dos usuários do sistema informatizado de tramitação do DM-e:
+
+
+I –
+
+o acesso ao seu provedor de internet e a configuração do computador utilizado nas transmissões eletrônicas;
+
+
+II –
+
+manter atualizados os cadastros e informações;
+
+
+III –
+
+as condições das linhas de comunicação;
+
+
+IV –
+
+o correto preenchimento dos dados solicitados e dos campos contidos no sistema;
+
+
+V –
+
+a equivalência entre os dados informados no sistema e os dados constantes dos arquivos transmitidos;
+
+
+VI –
+
+o cadastramento das partes, pelo nome ou razão social constante do Cadastro de Pessoas Físicas - CPF - ou do Cadastro Nacional da Pessoa Jurídica - CNPJ - na Secretaria da Receita Federal do Brasil, mediante a informação dos registros do CPF ou do CNPJ, conforme o caso;
+
+
+VII –
+
+o fornecimento da qualificação do mandatário;
+
+
+VIII –
+
+a elaboração e a digitalização de todos os documentos relacionados ao processo;
+
+
+IX –
+
+a correta descrição, a indexação e a ordenação dos atos e termos processuais e dos documentos transmitidos;
+
+
+X –
+
+a transmissão eletrônica dos atos e termos processuais e dos documentos;
+
+
+XI –
+
+a integridade e a legibilidade dos arquivos transmitidos;
+
+
+XII –
+
+o login de acesso e a senha de segurança, de uso intransferível e responsabilidade exclusiva do usuário, que deverão ser gerados por meio de prévio credenciamento no endereço eletrônico; e
+
+
+XIII –
+
+o acompanhamento do regular recebimento dos atos e dos documentos transmitidos eletronicamente.
+
+
+§ 1º
+
+Nos termos do inciso XI deste artigo, os atos praticados no DM-e serão considerados efetuados pelo respectivo usuário, motivo que não serão aceitas alegações de fraudes ou que tenha o ato sido praticados por terceiros sem autorização do responsável.
+
+
+§ 2º
+
+No caso de fato tipificado na legislação penal, poderá o usuário comprovar mediante o devido processo legal.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 7 de julho de 2022.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal
+
+Nilton Aparecido Bobato  
+Secretário Municipal da Administração
+
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

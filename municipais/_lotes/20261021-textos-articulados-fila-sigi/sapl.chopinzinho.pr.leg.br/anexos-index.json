@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/doc00358166.pdf da norma Lei Ordinária nº 3.890, de 07 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação",
+      "anexo_arquivo": "http://sapl.chopinzinho.pr.leg.br/media/sapl/public/anexonormajuridica/2021/1/doc00358166.pdf",
+      "ano": 2021,
+      "norma": 62
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/resolucao_001-2020_-__compilada_-_quadro_de_pessoal_-_com_todas_as_alteracoes.pdf da norma Resolução nº 1, de 06 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO COMPILADA COM TODAS AS ALTERAÇÕES.",
+      "anexo_arquivo": "http://sapl.chopinzinho.pr.leg.br/media/sapl/public/anexonormajuridica/2020/2/resolucao_001-2020_-__compilada_-_quadro_de_pessoal_-_com_todas_as_alteracoes.pdf",
+      "ano": 2020,
+      "norma": 34
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/resolucao_n_002-2019_compilada_-_estrutura_administrativa_da_camara_municipal_-_com_todas_as_alteracoes.pdf da norma Resolução nº 2, de 26 de junho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO COMPILADA COM TODAS AS ALTERAÇÕES.",
+      "anexo_arquivo": "http://sapl.chopinzinho.pr.leg.br/media/sapl/public/anexonormajuridica/2019/3/resolucao_n_002-2019_compilada_-_estrutura_administrativa_da_camara_municipal_-_com_todas_as_alteracoes.pdf",
+      "ano": 2019,
+      "norma": 36
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chopinzinho.pr.leg.br/f9f6b5cd25557cafced1aeee68db7aa9c7859d763e2c8a6a610348b392b129c3.json",
+      "url": "https://sapl.chopinzinho.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.chopinzinho.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "81c92b20168caa0715135b2f56c4528cd66f5516da3965c14562d4b0c095e989",
+      "bytes": 1737,
+      "capturado_em": "2026-10-27T22:41:15.806176-03:00"
+    }
+  ]
+}

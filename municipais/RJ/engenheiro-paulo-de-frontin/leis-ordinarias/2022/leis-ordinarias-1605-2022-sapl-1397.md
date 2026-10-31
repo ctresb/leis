@@ -1,0 +1,147 @@
+---
+titulo: "Lei Ordinária-PMEPF nº 1.605, de 21 de setembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1605"
+data: "2022-09-21"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1397"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/651/text"
+sha256_fonte: "cc5d6f0be3896bab248fcd4125a1d342887fb7e35f96d25613ee6b9efb9e7345"
+sha256_texto: "8c375195237e486534b405682510f4159dd8694e718e8f4d44cfa3825daa3f69"
+capturado_em_fonte: "2026-10-28T10:45:17.926919-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-PMEPF nº 1.605, de 21 de setembro de 2022
+
+Institui o auxílio alimentação a ser concedido aos servidores públicos da Câmara Municipal de Engenheiro Paulo de Frontin, e da outras providências
+
+
+A Câmara Municipal de Eng°. Paulo de Frontin aprova a seguinte.
+
+
+LEI MUNICIPAL:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito da Câmara Municipal de Engenheiro Paulo de Frontin, o auxilio alimentação mensal para os servidores efetivos e comissionados ativos.
+
+
+Art. 2º.
+
+O auxilio alimentação destina-se a subsidiar as despesas coma refeição do servidor, será concedido em pecúnia e creditado em folha de pagamento no mês da competência, iniciando-se a partir de 01 de setembro de 2022, até 31 de dezembro de 2022.
+
+
+§ 1º
+
+O benefício de que trata o artigo poderá ser prorrogado por outros períodos, através de ato administrativo próprio do Chefe do Poder Legislativo.
+
+
+§ 2º
+
+Ocorrendo a prorrogação prevista no parágrafo anterior, seu valor será corrigido, anualmente, pela variação do INPC/IBGE, desde que haja previsão orçamentário financeira, de forma a manterseu poder aquisitivo.
+
+
+Art. 3º.
+
+Não terá direito ao recebimento do auxílio alimentação de que trata esta lei, o servidor que:
+
+
+I –
+
+No correspondente período aquisitivo:
+
+
+a)
+
+tiver falta (não justificada e não abonada);
+
+
+b)
+
+tiver atrasos (não justificados e não abonados em seu registro de frequência).
+
+
+II –
+
+Nos três meses anteriores ao de referência, tiver sofrido qualquer penalidade disciplinar, nos termos do Estatuto dos Servidores Públicos Municipais.
+
+
+III –
+
+Estiver prestando serviço em outro órgão, instituição ou entidade mediante cessão ou permuta, desde que sem ônus para a origem
+
+
+Parágrafo único
+
+O servidor não terá direito ao auxilio alimentação de que trata esta lei no período em que estiver de licença.
+
+
+Art. 4º.
+
+O auxílio de que trata o presente dispositivo:
+
+
+I –
+
+Não terá natureza salarial, nem se incorporará a remuneração do servidor para quaisquer efeitos;
+
+
+II –
+
+Não será configurado como rendimento tributável e nem constitui base para incidência de contribuição previdenciária;
+
+
+III –
+
+Não é considerado para efeito de gratificação de Natal.
+
+
+Art. 5º.
+
+O auxilio alimentação não será acumulável com outros da mesma espécie ou semelhante, originária de qualquer forma de auxilio ou benefício para alimentação do servidor.
+
+
+Parágrafo único
+
+O valor do auxílio será de R$ 300,00 (trezentos reais), no período mencionado no art. 2° e não será cumulativo.
+
+
+Art. 6º.
+
+O benefício instituído pela presente matéria será financiado com recursos provenientes de dotação orçamentaria própria do orçamento vigente da Câmara Municipal, suplementadas se necessário, tudo em consonância com a legislação pertinente à espécie.
+
+
+Art. 7º.
+
+Fica revogada a Resolução n° 02, de 30 de setembro de 2014.
+
+
+Art. 8º.
+
+Por último, autoriza-se o Chefe do Poder Legislativo Municipal a regulamentar, por Decreto Legislativo, o presente dispositivo, no caso de julgar necessário e conveniente.
+
+
+Art. 9º.
+
+Esta Lei entra emvigor na data de sua publicação, com seus efeitos a partir de 01 de setembro de 2022, revogadas as disposições emcontrário.
+
+
+Autor: Ver. Julio Cesar da Silva Sereno
+
+
+PUBLIQUE-SE, REGISTRE-SE E CUMPRA-SE.
+
+Eng. Paulo de Frontin, 21 de setembro de 2022.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal
+

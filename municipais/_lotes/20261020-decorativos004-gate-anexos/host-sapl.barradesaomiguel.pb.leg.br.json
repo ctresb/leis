@@ -1,0 +1,15 @@
+{
+  "host": "sapl.barradesaomiguel.pb.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.barradesaomiguel.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradesaomiguel.pb.leg.br/3368952fb40ae2d09c79adeed7293f63d6ac790fdbb7c558e8949c226b7bed1b.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.barradesaomiguel.pb.leg.br/3368952fb40ae2d09c79adeed7293f63d6ac790fdbb7c558e8949c226b7bed1b.meta.json"
+    }
+  ],
+  "total": 0
+}

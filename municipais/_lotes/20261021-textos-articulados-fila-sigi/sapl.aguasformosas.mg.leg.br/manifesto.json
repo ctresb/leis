@@ -1,0 +1,42 @@
+{
+  "host": "sapl.aguasformosas.mg.leg.br",
+  "metadados_unicos_observados": 6,
+  "total_api_declarado": 6,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguasformosas.mg.leg.br/c828f51440f7ba4c777ae58d7b36403f15061f3fdb07bf760dd3651ea87ee441.json",
+    "url": "https://sapl.aguasformosas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.aguasformosas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0ae7ae32500939f29ef97af11913a042030b14b9cca089a5d95b02e3cc4ca4fd",
+    "bytes": 955,
+    "capturado_em": "2026-10-21T05:00:13.068798-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguasformosas.mg.leg.br/57d3ba20691643a1bc28af61df8a4551964b4f90ca6db64a696b67cb65cac678.json",
+    "url": "https://sapl.aguasformosas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.aguasformosas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "99dba8e7547ad7298a22dfc2c29d38b83e21c130dc15ac134b2db005f9c2e23f",
+    "bytes": 768,
+    "capturado_em": "2026-10-21T05:00:11.459555-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguasformosas.mg.leg.br/983daa15c6a4464f5565c328fb58aeb0763a499860d53e22ccbbb2842e0649eb.json",
+      "url": "https://sapl.aguasformosas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.aguasformosas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4b99235d7e47c092bd4a4a0d63681af2c8252d8c44053948aeda216a992b08bf",
+      "bytes": 3524,
+      "capturado_em": "2026-10-21T05:00:15.690529-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

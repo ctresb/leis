@@ -1,0 +1,82 @@
+{
+  "host": "sapl.acari.rn.leg.br",
+  "metadados_unicos_observados": 435,
+  "total_api_declarado": 435,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 334,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/9dabc16e168d4cc04340cf4cfdc83029344107d116aced095c1afb55e8cc85bd.json",
+    "url": "https://sapl.acari.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.acari.rn.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "62205a4491536555fcdc3d48d9e172bfb1b04445abc6fadbfbb31947a6e2741d",
+    "bytes": 959,
+    "capturado_em": "2026-10-21T04:58:55.658907-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/30b69fbed377e93d6d94cb199b0af51272c9c0422a8de954a76a3a81352b4511.json",
+    "url": "https://sapl.acari.rn.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.acari.rn.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a9185e9ff32b691d3a3dcd3cdf8d52f5bcba32d252c5514120265f297cc3ff91",
+    "bytes": 715,
+    "capturado_em": "2026-10-21T04:58:54.447053-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/b3fd40d2219aa0a92d8185b6bcb234e6e545c0e6e51baff34c83d203ab2cd59f.json",
+      "url": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b3ec4b4f3f8d0dff36986ca73199d96e8c3080f52191ef9b31efd5288dc24bb3",
+      "bytes": 62370,
+      "capturado_em": "2026-10-21T04:58:57.374399-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/18f7b1b16ee13876d64daa22b21e74d00cd63f58e2967fdec496dc52fc30937e.json",
+      "url": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "002cca388bfe9504faf4beb67b45d1d3ee197d4c4785013a909b09ca80aa814b",
+      "bytes": 62904,
+      "capturado_em": "2026-10-21T05:04:39.138790-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/6603f272f9d744109377486caebd40da594cbb5b3ded030eed061739df04b93e.json",
+      "url": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "74de2e2be8b63b16f06475cbebd7ea89854c5ca9f43992e266bc9b8d1304d5ed",
+      "bytes": 60882,
+      "capturado_em": "2026-10-21T05:10:19.802246-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/542a4a0662c3e74ea1336122a11cc728c120760e30781ea20815797e88869e1f.json",
+      "url": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "62ce1d3d713daf447e34451b62a6e45223a775758a6cfa38687b75fe455eaa4c",
+      "bytes": 60904,
+      "capturado_em": "2026-10-21T05:16:36.191896-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/436a8efe8859be7dc78a915b44289803eeb429a62ffcddcd9d404ae566ed0aca.json",
+      "url": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.acari.rn.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a344867a666d20f1eca2a116efa1e3272e5a6c646d8fc4c254698972381c7a85",
+      "bytes": 19624,
+      "capturado_em": "2026-10-21T05:20:18.225671-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

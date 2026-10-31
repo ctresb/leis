@@ -1,0 +1,77 @@
+{
+  "estado": "indice_completo",
+  "total": 6,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/lei_no_1.064-politec.pdf da norma Lei nº 1.055, de 28 de agosto de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "“Altera em partes a Lei Municipal Nº 1.055/2018, que Autoriza o Poder Executivo Municipal de Cotriguaçu, a firmar convênio com a POLITEC – ESCOLA POLITÉCNICA DO NOROESTE LTDA, objetivando a instalação de cursos Técnicos, tecnólogos, Graduação e Pós-G",
+      "anexo_arquivo": "http://sapl.cotriguacu.mt.leg.br/media/sapl/public/anexonormajuridica/2018/1/lei_no_1.064-politec.pdf",
+      "ano": 2018,
+      "norma": 1106
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_no_1.064-politec.pdf da norma Lei nº 1.055, de 28 de agosto de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "“Altera em partes a Lei Municipal Nº 1.055/2018, que Autoriza o Poder Executivo Municipal de Cotriguaçu, a firmar convênio com a POLITEC – ESCOLA POLITÉCNICA DO NOROESTE LTDA, objetivando a instalação de cursos Técnicos, tecnólogos, Graduação e Pós-G",
+      "anexo_arquivo": "http://sapl.cotriguacu.mt.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_no_1.064-politec.pdf",
+      "ano": 2018,
+      "norma": 1106
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/lei_no_1.147-2021.pdf da norma Lei-SL nº 1.168, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre o Plano Plurianual - PPA para o Quadriênio 2022-2025 e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cotriguacu.mt.leg.br/media/sapl/public/anexonormajuridica/2021/3/lei_no_1.147-2021.pdf",
+      "ano": 2021,
+      "norma": 1275
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/lei_no_1.147-2021.pdf da norma Lei-SL nº 1.168, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre o Plano Plurianual - PPA para o Quadriênio 2022-2025 e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cotriguacu.mt.leg.br/media/sapl/public/anexonormajuridica/2021/4/lei_no_1.147-2021.pdf",
+      "ano": 2021,
+      "norma": 1275
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/lei_no_1.139-2021.pdf da norma Lei-SL nº 1.157, de 28 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre os procedimentos para concessão de Parcelamento Especial de Débitos Fiscais, dispensa de juros e multas, nas condições que estabelece, no âmbito do Município de Cotriguaçu, Estado de Mato Grosso, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cotriguacu.mt.leg.br/media/sapl/public/anexonormajuridica/2021/5/lei_no_1.139-2021.pdf",
+      "ano": 2021,
+      "norma": 1264
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/lei_no_1.139-2021.pdf da norma Lei-SL nº 1.157, de 28 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre os procedimentos para concessão de Parcelamento Especial de Débitos Fiscais, dispensa de juros e multas, nas condições que estabelece, no âmbito do Município de Cotriguaçu, Estado de Mato Grosso, e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cotriguacu.mt.leg.br/media/sapl/public/anexonormajuridica/2021/6/lei_no_1.139-2021.pdf",
+      "ano": 2021,
+      "norma": 1264
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cotriguacu.mt.leg.br/ced91c6554494970ad095ea69b7d53805d4a4a99f24ceea83bddf24b4df09a31.json",
+      "url": "https://sapl.cotriguacu.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "85a1e03300fa634dfeb79d606f5810b9340a7eb2a19624ade1f3ae791849caa7",
+      "capturado_em": "2026-10-20T20:50:39.728758",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.cotriguacu.mt.leg.br/ced91c6554494970ad095ea69b7d53805d4a4a99f24ceea83bddf24b4df09a31.json"
+    }
+  ]
+}

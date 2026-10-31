@@ -1,0 +1,27 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/lei-ordinaria-2181-2026-cambira-pr.pdf da norma Lei nº 2.181, de 01 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cambira.pr.leg.br/media/sapl/public/anexonormajuridica/2026/2/lei-ordinaria-2181-2026-cambira-pr.pdf",
+      "ano": 2026,
+      "norma": 32
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cambira.pr.leg.br/5db2c737afdff72c8feeffa8710bfa9da3c9d1e6537919d542874ea46f55b6b6.json",
+      "url": "https://sapl.cambira.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4d7c18c331c8f388ba88b45f7c3dda23d9452425cfa92909e1251c5874e53581",
+      "capturado_em": "2026-10-20T20:50:33.585093",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.cambira.pr.leg.br/5db2c737afdff72c8feeffa8710bfa9da3c9d1e6537919d542874ea46f55b6b6.json"
+    }
+  ]
+}

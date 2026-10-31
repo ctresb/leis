@@ -1,0 +1,416 @@
+---
+titulo: "Lei nº 1.299, de 11 de março de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1299"
+data: "2014-03-11"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/336"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1073/text"
+sha256_fonte: "31a7b6919a1530b24cc871a7f4dc0238532f0e9a56b1ef001e33bc309ddd367c"
+sha256_texto: "62a0cd77ae65ef1a11e392392e571854acff21e6958d7aceb67ca099cd2ab25b"
+capturado_em_fonte: "2026-10-27T19:59:09.518870-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.299, de 11 de março de 2014
+
+Institui o Regime de Adiantamento para Pronto Pagamento de Pequenas Despesas e dá outras providências
+
+
+O PREFEITO DO MUNICÍPIO DE BURITIS, Estado de Minas Gerais, faz saber que a Câmara Municipal decreta e ele promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES INICIAIS
+
+
+Art. 1º.
+
+Fica instituída no Município de Buritis/MG, a forma de pagamento de despesas pelo Regime de Adiantamento de Recursos para pronto pagamento de pequenas despesas que não possam ser processadas regularmente através do empenhamento normal.
+
+
+Art. 2º.
+
+Entende-se por adiantamento o numerário colocado à disposição de um funcionário Municipal, a fim de lhe dar condições de realizar despesas quando do deslocamento fora da sede do Município pra efetuar serviço relativo à Prefeitura Municipal, ou para quitar pequenas despesas de pronto pagamento, que por sua natureza ou urgência não possam aguardar o processamento normal
+
+
+Parágrafo único
+
+O valor máximo de adiantamento para cada funcionário instituído por esta Lei será de até R$ 3.000,00 (três mil reais).
+
+
+Art. 3º.
+
+Os pagamentos efetuados através de Adiantamento ora instituído, restringir-se-ão aos casos previstos nesta Lei.
+
+
+Art. 4º.
+
+O adiantamento mensal de cada espécie de despesa não ultrapassará o valor previsto para dispensa de licitação de acordo com a Lei 8.666 de 21 de junho de 1993 e posteriores alterações.
+
+
+Art. 5º.
+
+Poderão realizar-se sob o regime de adiantamento os pagamentos decorrentes das seguintes espécies de despesas:
+
+
+I –
+
+Despesas com material de consumo;
+
+
+II –
+
+Despesas com serviços de terceiros – pessoa física;
+
+
+III –
+
+Despesas com serviços de terceiros – pessoa jurídica;
+
+
+IV –
+
+Despesas extraordinárias e urgentes, cuja realização não permite esperar pelo processamento normal;
+
+
+V –
+
+Despesas que tenham que ser efetuada em lugar distante da sede do Município;
+
+
+VI –
+
+Despesa miúda e de pronto pagamento;
+
+
+VII –
+
+Despesas com Ajuda Financeira, mediante Parecer da Assistência Social.
+
+
+Art. 6º.
+
+Consideram-se pequenas despesas e de pronto pagamento para os efeitos desta Lei, as que realizarem com:
+
+
+I –
+
+Pequenos consertos, pneus, combustível (gasolina, álcool e diesel);
+
+
+II –
+
+Outra despesa qualquer de pequeno vulto e de necessidade imediata, desde que devidamente justificada, inclusive com Ajudas Financeiras a Pessoas Carentes.
+
+
+Art. 7º.
+
+As despesas com artigos em quantidade maior de uso ou consumo remotos, correrão pelos sistemas orçamentários próprios e seguirão o processamento normal das despesas de acordo com a Lei 8.666/93.
+
+
+#### CAPÍTULO II — DA SOLICITAÇÃO DE ADIANTAMENTO
+
+
+Art. 8º.
+
+As solicitações de adiantamento serão feitas pelos servidores, através de formulário próprio dirigido ao Prefeito Municipal
+
+
+Art. 9º.
+
+Das solicitações de adiantamentos constarão necessariamente as seguintes informações:
+
+
+I –
+
+Identificação do órgão e Unidade Orçamentária;
+
+
+II –
+
+Identificação da espécie das despesas de acordo com esta Lei
+
+
+III –
+
+Nome completo, cargo ou função do servidor responsável pelo adiantamento
+
+
+Art. 10.
+
+O prazo de aplicação Dops recursos solicitados será de até 60 (sessenta) dias
+
+
+Art. 11.
+
+Não será concedido novo adiantamento:
+
+
+I –
+
+A quem do anterior não haja prestado contas no prazo legal;
+
+
+II –
+
+A quem no prazo legal de 10 (dez) dias deixar de atender notificação para regularizar a prestação de contas.
+
+
+Art. 12.
+
+Não se fará adiantamento:
+
+
+I –
+
+À responsável por dois suprimentos;
+
+
+II –
+
+À servidor que tenha seu cargo a guarda ou utilização do material a adquirir, salvo quando não houver na repartição outro servidor;
+
+
+III –
+
+À servidor responsável por adiantamento ainda vigentes;
+
+
+IV –
+
+À servidor responsável por suprimento de fundos que, esgotado o prazo, não tenha prestado contas de sua aplicação;
+
+
+V –
+
+À servidor declarado em alcance
+
+
+#### CAPÍTULO III — DA TRAMITAÇÃO DOS PROCESSOS DE ADIANTAMENTO
+
+
+Art. 13.
+
+A solicitação será encaminhada através do Departamento de Contabilidade diretamente ao Gabinete do Prefeito para competente autorização.
+
+
+Art. 14.
+
+Os processos de adiantamento terão sempre andamento preferencial e urgente.
+
+
+Art. 15.
+
+Autorizada a despesa, será empenhada nas dotações orçamentárias próprias e paga com cheque nominal a favor do responsável indicado no processo.
+
+
+Art. 16.
+
+Cabe ao Departamento de Contabilidade verificar, antes de registrar o empenho, se foram cumpridas as disposições desta Lei.
+
+
+Parágrafo único
+
+Constatando alguma irregularidade no processo, não dará o prosseguimento citado, até que sejam procedidas as devidas correções.
+
+
+#### CAPÍTULO IV — DAS NORMAS DE APLICAÇÃO DO ADIANTAMENTO
+
+
+Art. 17.
+
+O adiantamento não poderá ser aplicado em despesa de classificação diferente daquela para qual foi autorizado.
+
+
+Art. 18.
+
+A cada pagamento efetuado o responsável exigirá o correspondente comprovante: nota fiscal, nota simplificada, cupom fiscal, recibo, etc.
+
+
+Art. 19.
+
+As notas fiscais serão sempre emitidas em nome do Município de Buritis/MG.
+
+
+Art. 20.
+
+Os comprovantes de despesas não poderão conter rasuras, emendas, borrões e valor ilegível, não sendo admitido, AM hipótese alguma, segundas vias, ou outras vias, fotocópias ou qualquer outra espécie de reprodução.
+
+
+Art. 21.
+
+Em todos os comprovantes de despesas contará o atestado de recebimento do material ou da prestação de serviço.
+
+
+#### CAPÍTULO V — DO RECEBIMENTO DO SALDO NÃO UTILIZADO
+
+
+Art. 22.
+
+O saldo de adiantamento não utilizado será recolhido à Prefeitura Municipal, mediante recolhimento através de DAM (Documento de Arrecadação Municipal) ou depósito bancário onde constará o nome do responsável e identificação de adiantamento cujo saldo está sendo restituído.
+
+
+Art. 23.
+
+O prazo para recolhimento do saldo não utilizado será de 03 (três) dias úteis, a contar do término final do período de aplicação.
+
+
+Art. 24.
+
+No mês de Dezembro todos os saldos de adiantamento serão recolhidos até o último dia útil, mesmo que o período de aplicação não tenha expirado.
+
+
+#### CAPÍTULO VI — DA PRESTAÇÃO DE CONTAS
+
+
+Art. 25.
+
+No prazo de 10 (dez) dias a contar do término final do período de aplicação, o responsável prestará contas da aplicação do adiantamento recebido.
+
+
+Art. 26.
+
+A prestação de contas far-se-á mediante entrada, no Departamento de Contabilidade com os seguintes documentos:
+
+
+I –
+
+Comunicação Interna para encaminhamento de documentos;
+
+
+II –
+
+Impressos conforme modelos regulamentares;
+
+
+III –
+
+Relação de todos os documentos de despesas contando: número e data do documento, espécie do documento e valor da despesa, contando no final da relação a soma da despesa realizada;
+
+
+IV –
+
+Cópia do comprovante de recolhimento do saldo não aplicado, cópia da nota de empenho e da Nota de Anulação da Despesa se houver saldo recolhido;
+
+
+V –
+
+Documento das despesas realizadas, dispostos em ordem cronológica, na mesma sequência da relação mencionada no item III;
+
+
+VI –
+
+Em cada documento constará, obrigatoriamente: atestado de recebimento do material ou prestação de serviço.
+
+
+Art. 27.
+
+Não serão aceitos documentos rasurados, com data anterior ou posterior ao período da aplicação do adiantamento ou que se refira a despesa não classificável na espécie de adiantamento concedido.
+
+
+Parágrafo único
+
+Somente serão aceitos documentos originais, não se admitindo outras vias, fotocópias ou outras espécies de reprodução.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 28.
+
+Caberá ao Departamento de Contabilidade a tomada de Contas Especial dos adiantamentos.
+
+
+Art. 29.
+
+Recebidas as Prestações de Contas conforme dispõe o artigo 29, o Departamento de Contabilidade verificará se as disposições da presente Lei foram inteiramente cumpridas, fazendo as exigências necessárias, fixando prazos razoáveis para que os responsáveis possam cumpri-las.
+
+
+Art. 30.
+
+Se as contas forem consideradas de acordo com a presente Lei o Departamento de Contabilidade encaminhará o processo diretamente ao Chefe do Poder Executivo para aprovação das contas, voltando ao Departamento de Contabilidade para as seguintes providências:
+
+
+I –
+
+No caso das contas terem sido aprovadas:
+
+
+a)
+
+Convidar o responsável para tomar ciência no próprio processo;
+
+
+b)
+
+Arquivar o processo de prestação de contas apenso ao processo que autorizou o adiantamento em local seguro onde ficará a disposição do Tribunal de Contas;
+
+
+II –
+
+Na hipótese da aprovação de contas condicionadas à determinadas exigências:
+
+
+a)
+
+Providenciar o cumprimento das exigências determinadas;
+
+
+b)
+
+Adotar medidas indicadas no item I;
+
+
+III –
+
+Não tendo sido aprovadas as contas seguir a orientação determinada pelo Prefeito Municipal em seu despacho final
+
+
+Art. 31.
+
+Até o terceiro dia útil imediato ao vencimento do prazo para prestação de contas, sem que o responsável as tenha apresentado ao Departamento de Contabilidade, este oficializará diretamente ao responsável, concedendo-lhe o prazo final e improrrogável de três dias úteis para fazê-lo.
+
+
+Parágrafo único
+
+Na cópia o responsável assinará o recebimento da via original colocando de próprio punho a data de recebimento.
+
+
+Art. 32.
+
+Não sendo cumprida a obrigação de prestação de contas, após o vencimento do prazo final estabelecido no artigo anterior, o Departamento de Contabilidade através do Departamento de Tributos e Arrecadação emitirá DAM – Documento de Arrecadação Municipal no valor do adiantamento ou parte do adiantamento, caso algum documento da comprovação da despesa esteja irregular, para que no prazo de 03 (três) dias úteis proceda-se o recolhimento.
+
+
+Parágrafo único
+
+Persistindo a irregularidade, o Departamento de Contabilidade encaminhará à Assessoria Jurídica, para abertura de Sindicância e, posteriormente, após a conclusão, ao Departamento de Recursos Humanos e Pessoas para que se proceda desconto em folha do salário do funcionário responsável pelo adiantamento.
+
+
+Art. 33.
+
+Os casos omissos serão regulamentados pelo Prefeito Municipal.
+
+
+Art. 34.
+
+Fica revogada a Lei Municipal nº 970, de 14 de março de 2005, e alterações posteriores.
+
+
+Art. 35.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Buritis-MG, 11 de março de 2014.
+
+**JOÃO JOSÉ ALVES DE SOUZA**
+
+**Prefeito de Buritis-MG**
+

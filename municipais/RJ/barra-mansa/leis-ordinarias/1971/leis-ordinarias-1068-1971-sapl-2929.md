@@ -1,0 +1,569 @@
+---
+titulo: "Lei Ordinária nº 1.068, de 22 de março de 1971"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1068"
+data: "1971-03-22"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1989-07-08; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/2929"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/340/text"
+sha256_fonte: "1da0b5cbb0dfce827237fd9b1cccfb2b66ecd4bee56d234fc775749918452ce7"
+sha256_texto: "066dae66754d4319880924972b715a87757cc34fd7aa06373944811344d6a95a"
+capturado_em_fonte: "2026-10-27T19:07:17.792112-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.068, de 22 de março de 1971
+
+A CÂMARA MUNICIPAL DE BARRA MANSA DECRETA E EU SANCIONO A SEGUINTE
+
+
+DELIBERAÇÃO Nº1068, DE 22 DE MARÇO DE 1971.
+
+
+Dá nova redação a deliberação nº982, de 29 de Julho de 1969, e dá outras providências.
+
+
+#### CAPÍTULO I — Das Finalidades
+
+
+Art. 1º.
+
+Passará a denominar-se "SERVIÇO AUTÔNOMO DE ÁGUA E ESGÔTO - SAAE" sob a forma de autarquia municipal, com personalidade jurídica de direito público, sede e fôro na cidade de Barra Mansa, Estado do Rio de Janeiro, dispondo de autonomia administrativo, financeira e patrimonial, dentro dos limites estabelecidos na presente lei.
+
+
+Art. 2º.
+
+O SERVIÇO AUTÔNOMO DE ÁGUA E ESGÔTO exercerá sua ação em todo o Município de Barra Mansa, competindo-lhe, com exclusividade:
+
+
+I –
+
+estudar, projetar e executar, diretamente ou mediante contrato com organizações especializadas em engenharia sanitária, de direito público ou privado, as obras relativas a construção, ampliação ou remodelação dos sistemas públicos de abastecimento de água potável e de esgôtos sanitários;
+
+
+II –
+
+atuar como órgão coordenador e fiscalizador dos convênios entre o Município e os órgãos federais ou estaduais para estudos, projetos e obras de construção, ampliação ou remodelação dos serviços públicos de abastecimento de água potável e de esgôtos sanitários;
+
+
+III –
+
+operar, manter, conservar e explorar, diretamente os serviços de água potável e de esgôtos sanitários;
+
+
+IV –
+
+aplicar multas, lançar, fiscalizar e arrecadar as tarifas dos serviços de água e esgôto e as taxas e contribuições que incidirem sôbre os imóveis beneficiados com tais serviços;
+
+
+V –
+
+exercer quaisquer outras atividades relacionadas com os sistemas públicos de água e esgôto, compatíveis com as leis gerais e especiais;
+
+
+VI –
+
+defender os cursos de água do Município contra a poluição;
+
+
+#### CAPÍTULO II — Da Organização
+
+
+Art. 3º.
+
+São órgãos do SAAE:
+
+
+I –
+
+O Conselho Deliberativo;
+
+
+II –
+
+O Diretor Executivo.
+
+
+##### Seção I — Do Conselho Deliberativo
+
+
+Art. 4º.
+
+O Conselho é Órgão de Administração Superior do SAAE e será constituído dos seguintes membros:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.035, de 21 de dezembro de 2022.
+
+
+I –
+
+Cinco representantes do município de Barra Mansa, escolhidos entre os secretários municipais e/ou subsecretários.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 6.071, de 16 de janeiro de 2025.
+
+
+II –
+
+Um representante da Associação Comercial, Industrial e Agropastoril de Barra Mansa;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.035, de 21 de dezembro de 2022.
+
+
+III –
+
+Um representante da Câmara de Vereadores do Município de Barra Mansa;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.035, de 21 de dezembro de 2022.
+
+
+IV –
+
+Um representante dos Sindicatos dos Trabalhadores, sediados no Município de Barra Mansa;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 5.035, de 21 de dezembro de 2022.
+
+
+V –
+
+1 (um) representante dos Funcionários do SAAE;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.243, de 08 de junho de 1989.
+
+
+VI –
+
+2 (dois) representantes das Associações de Moradores de Barra Mansa, sendo 1 (um) indicado pelo COMAM (Conselho Municipal das Associações de Moradores) de Barra Mansa e outro indicado pela FAMBAM ( Federação das Associações de Moradores de Barra Mansa).
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.243, de 08 de junho de 1989.
+
+
+§ 1º
+
+A cada membro efetivo corresponderá um suplente.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.212, de 13 de setembro de 1973.
+
+
+§ 2º
+
+A nomeação dos membros do Conselho Deliberativo, será feita pelo Prefeito Municipal e terão mandato de 2 (dois) anos, podendo serem reconduzidos para novo mandato.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.212, de 13 de setembro de 1973.
+
+
+§ 3º
+
+Dentre os representantes da Prefeitura, obrigatoriamente, um será médico e o outro engenheiro.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.212, de 13 de setembro de 1973.
+
+
+§ 4º
+
+Os representantes das entidades referidas nos ítens II a IV deste artigo, titulares e suplentes serão indicados em lista tríplice para escolha e nomeação do Prefeito. A indicação da lista pela Câmara Municipal deverá ser assinada ou aprovada por, no mínimo por 9 (nove) dos 17 (dezessete) Vereadores.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.212, de 13 de setembro de 1973.
+
+
+§ 5º
+
+O Presidente do Conselho será escolhido e nomeado pelo Prefeito, dentre os membros do Conselho, com mandato de um ano, podendo ser reconduzido para novo mandato.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.212, de 13 de setembro de 1973.
+
+
+Art. 5º.
+
+O Conselho Deliberativo reunir-se-á ordinariamente, uma vez por mês ou, extraordinariamente, mediante solicitação do Diretor Executivo ou de pelo menos três (3) de seus membros efetivos, ou quando convocado pelo seu Presidente.
+
+
+§ 1º
+
+Não havendo número legal na primeira convocação, o Presidente convocará nova reunião que se realizará no prazo mínimo de quarenta e oito (48) horas e o máximo de cinco (5) dias.
+
+
+§ 2º
+
+Ficará extinto o mandato do membro do Conselho Deliberativo que deixar de comparecer a duas (2) reuniões consecutivas ou a quatro (4) alternadas, sem justificação.
+
+
+§ 3º
+
+Declarado extinto o mandato de qualquer membro, o Presidente do Conselho Deliberativo oficiará ao Prefeito Municipal, para que proceda ao preenchimento da vaga.
+
+
+Art. 6º.
+
+Os membros do conselho deliberativo perceberão jeton de comparecimento às reuniões ordinárias, a base de meio salário-mínimo, vedada porém a percepção de jeton pelas sessões extraordinárias.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 4.933, de 13 de julho de 2021.
+
+
+Art. 7º.
+
+As decisões do Conselho Deliberativo serão tomadas por maioria simples, cabendo ao Presidente o voto de qualidade.
+
+
+§ Único
+
+O Vice-Presidente, quando no exercício da Presidência do Conselho, só terá voto de desempate.
+
+
+Art. 8º.
+
+Compete ao Conselho Deliberativo:
+
+
+I –
+
+aprovar o Orçamento analítico do SAAE;
+
+
+II –
+
+aprovar os planos gerais e programas anuais a serem executados pelo SAAE;
+
+
+III –
+
+aprovar as tarifas propostas pelo Diretor Executivo, só podendo rejeitá-las se for constatado êrro na formação dos custos.
+
+
+IV –
+
+aprovar Convênios, ajustes e contratos, exceto os relativos a pessoal;
+
+
+V –
+
+fixar critérios para aquisição e alienação de bens imóveis e móveis;
+
+
+VI –
+
+aprovar o quadro de pessoal e as tabelas de salários e gratificações;
+
+
+VII –
+
+aprovar o balanço anual e os balancetes do SAAE bem como o relatório anual do Diretor Executivo;
+
+
+VIII –
+
+aprovar os regulamentos e o regimento interno dos órgãos e serviços do SAAE;
+
+
+IX –
+
+autorizar a abertura de créditos adicionais;
+
+
+X –
+
+fixar as normas para a transferência de dotações orçamentárias;
+
+
+XI –
+
+fixar a remuneração do Diretor Executivo do SAAE;
+
+
+XII –
+
+aprovar as tabelas de multas e seus critérios de aplicação, propostos pelo Diretor Executivo;
+
+
+XIII –
+
+decidir em grau de recurso, sôbre os atos do Diretor Executivo;
+
+
+XIV –
+
+decidir sôbre a criação de fundos de reserva especiais, bem como sôbre a sua aplicação;
+
+
+XV –
+
+aprovar mediante proposta do Diretor Executivo, a contratação de firma especializada para realizar pelo menos anualmente a auditoria contábil do SAAE, nos têrmos do art.25º;
+
+
+Art. 9º.
+
+Compete, ainda ao Conselho Deliberativo:
+
+
+I –
+
+eleger o Vice-Presidente;
+
+
+II –
+
+elaborar seu regimento interno, que será baixado pelo Presidente do Conselho;
+
+
+III –
+
+sugerir medidas que visem à melhoria dos serviços de abastecimento de água e esgôtos sanitários;
+
+
+IV –
+
+sugerir medidas para melhor entrosamento do SAAE com as demais entidades públicas e privadas;
+
+
+V –
+
+velar pelo prestígio do SAAE, sugerindo medidas para resguardá-lo;
+
+
+Art. 10.
+
+O Diretor Executivo do SAAE, participará, obrigatoriamente, das reuniões do Conselho Deliberativo, sem direito a voto.
+
+
+Art. 11.
+
+O Conselho Deliberativo terá o prazo de trinta dias para aprovar ou rejeitar nos têrmos do ítem III do art.8º, as tarifas propostas pelo Diretor Executivo, sendo considerada aprovada, se o Conselho não se manifestar no prazo estabelecido nêste artigo.
+
+
+Art. 12.
+
+O Cargo de Diretor Executivo, será obrigatoriamente exercido por um engenheiro civil ou sanitarista, no mundo em Comissão pelo Prefeito.
+
+
+Parágrafo único
+
+O Diretor Executivo exercerá sua Administração através de um organograma funcional a ser aprovado pelo Conselho Deliberativo.
+
+
+Art. 13.
+
+Compete ao Diretor Executivo:
+
+
+I –
+
+Dirigir o SAAE;
+
+
+II –
+
+Representar o SAAE em Juízo;
+
+
+III –
+
+Expedir normas, instruções ou ordens para a execução dos trabalhos afetos ao órgão que dirige;
+
+
+IV –
+
+Admitir, contratar, promover, movimentar, punir, demitir ou dispensar o pessoal do SAAE;
+
+
+V –
+
+Autorizar a realização de concorrências públicas, ajustes e acôrdos para o fornecimento de materiais e equipamentos, ou prestação de serviços do SAAE;
+
+
+VI –
+
+Autorizar a realização de Concorrências Públicas para a alienação de materiais e equipamentos desnecessários e inservíveis.
+
+
+VII –
+
+Autorizar despesas e ordenar pagamentos, de acôrdo com as dotações orçamentárias;
+
+
+VIII –
+
+Abrir créditos adicionais;
+
+
+IX –
+
+Assinar contratos, acôrdos, ajustes e autorizações, relativos à execução de obras e serviços e ao fornecimento de materiais e equipamentos necessários ao SAAE;
+
+
+X –
+
+Prestar contas, ao Conselho Deliberativo, da gestão financeira e da execução dos planos de trabalhos do SAAE;
+
+
+XI –
+
+Comparecer às reuniões do Conselho Deliberativo, fornecendo-lhe os elementos informativos de que necessitar.
+
+
+#### CAPÍTULO III — Do Patrimônio
+
+
+Art. 14.
+
+O Patrimônio inicial do SAAE será constituido de todos os bens móveis, imóveis, instalações, títulos, materiais e outros valores próprios do Município, empregados e utilizados nos serviços públicos de água, de esgôtos sanitários ou a êles destinados, os quais lhe serão transferidos sem qualquer ônus ou compensações pecuniárias e independentemente de qualquer formalidade, obedecido entretanto, o estabelecido no artigo 26º.
+
+
+#### CAPÍTULO IV — Da Receita
+
+
+Art. 15.
+
+A receita do SAAE provirá dos seguintes recursos:
+
+
+I –
+
+do produto de quaisquer tarifas e remuneração, do reparo, da aferição, do aluguel e da conservação de hidrômetros, dos serviços referentes a ligações de água e de esgôtos, do prolongamento de rêdes;
+
+
+II –
+
+de taxas e contribuições que vierem a incidir sôbre terrenos beneficiados com os serviços de água e esgôto;
+
+
+III –
+
+de auxílios, subvenções e créditos especiais que lhe forem concedidos;
+
+
+IV –
+
+do produto de juros sôbre depósitos bancários e outras rendas patrimoniais;
+
+
+V –
+
+do produto da alienação de materiais inservíveis ou de bens que se tornarem desnecessários ao seus serviços;
+
+
+VI –
+
+do produto de cauções e depósitos que reverterem aos seus cofres por inadimplemento contratual;
+
+
+VII –
+
+de doações, legados, multas e outras rendas;
+
+
+Parágrafo único
+
+Mediante prévia autorização do Conselho Deliberativo poderá o Diretor Executivo do SAAE realizar operações de créditos por antecipação da receita ou para obtenção de recursos necessários à execução de obras de ampliação e remodelação dos sistemas de água e esgôtos.
+
+
+Art. 16.
+
+O SAAE diretamente ou através de estabelecimentos de crédito, procederá a arrecadação dos recursos que lhe são próprios.
+
+
+#### CAPÍTULO V — Das Tarifas
+
+
+Art. 17.
+
+As tarifas de água e esgôtos serão calculadas com base no custo dos serviços, levando-se em conta as reservas para depreciação e expansão do serviço, assim como as despesas com juros e amortizações.
+
+
+§ Ú
+
+O Diretor Executivo da SAAE não poderá propor, nem o Conselho Deliberativo aprovar, tarifas deficitárias para os serviços de água e esgôto.
+
+
+Art. 18.
+
+As tarifas de água e esgôto incidirão sôbre as unidades prediais e territoriais, servidas pelas respectivas rêdes.
+
+
+Art. 19.
+
+É vedado ao SAAE conceder isenção ou redução de tarifas do serviço de água e esgôto, inclusive a entidades públicas federais, estaduais, municipais ou qualquer de suas autarquias.
+
+
+#### CAPÍTULO VI — Do Pessoal
+
+
+Art. 20.
+
+O SAAE terá quadro próprio de empregados, regidos pela Legislação Trabalhista, que terão seus salários fixados com base nas condições do mercado de trabalho.
+
+
+§ 1º
+
+Além do pessoal referido nêste artigo, poderá o SAAE requisitar funcionários efetivos que trabalham, atualmente, nos serviços de água e esgôto da Prefeitura Municipal, devendo seus vencimentos e vantagens serem pagos pela Autarquia.
+
+
+§ 2º
+
+Serão automaticamente aproveitados pelo SAAE os atuais servidores de serviço de água e esgôto da Prefeitura Municipal, sujeitos ao regime das leis trabalhistas.
+
+
+Art. 21.
+
+As admissões no SAAE serão feitas mediante prova de habilitação.
+
+
+#### CAPÍTULO VII — Disposições Gerais
+
+
+Art. 22.
+
+Aplicam-se ao SAAE naquilo que disrespeito aos seus bens, rendas e serviços, tôdas as prerrogativas, regalias, imunidades, isenções, favores fiscais e demais vantagens de que os serviços públicos gozem e que lhe caibam por lei.
+
+
+Art. 23.
+
+O SAAE até o dia trinta (30) do mês de janeiro de cada ano, submeterá a apreciação do Prefeito Municipal a prestação de contas do exercício anterior, depois de exercida pelo Conselho Deliberativo, q qual integrará o balanço geral do Município.
+
+
+Parágrafo único
+
+O Prefeito Municipal encaminhará ao Legislativo, cópia autêntica da prestação de contas do SAAE no prazo máximo de trinta dias de seu recebimento.
+
+
+Art. 24.
+
+O Orçamento sintético do SAAE integrará o orçamento geral do Município.
+
+
+Art. 25.
+
+As contas da administração do SAAE serão tomadas por auditor independente, escolhido na forma do ítem XV do art.8º desta lei.
+
+
+Art. 26.
+
+O Prefeito Municipal constituirá, dentro de 30(trinta) dias, a contar da vigência desta lei, uma comissão composta de três (3) membros para promover o levantamento do patrimônio que deverá ser entregue ao SAAE.
+
+
+Art. 27.
+
+Após aprovação pelo Conselho Deliberativo do Regulamento dos Serviços de Água e Esgôtos e do Regimento Interno da Autarquia, o Diretor Executivo dentro do prazo de 60(sessenta) dias baixará Ato colocando-os em vigôr.
+
+
+Art. 28.
+
+Os membros dos órgãos administrativos do SAAE, respondem funcional e criminalmente pelas irregularidades verificadas, apuráveis através de inquérito administrativo a ser procedido por uma comissão para êsse fim especialmente constituída, por designação do Prefeito Municipal.
+
+
+Art. 29.
+
+Esta Deliberação entrará em vigor na data de sua publicação, revogadas tôdas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 22 DE MARÇO DE 1971.
+
+
+LUIZ CARLOS SUCKOW F. DO AMARAL
+
+PREFEITO
+

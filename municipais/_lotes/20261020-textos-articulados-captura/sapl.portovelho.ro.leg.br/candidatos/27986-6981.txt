@@ -1,0 +1,418 @@
+Designa servidores para compor o Grupo de Trabalho responsável pela implantação, normatização, parametrização, comunicação, treinamento e procedimentos do Sistema Eletrônico de Informações – SEI na prefeitura de Porto Velho.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho.
+
+**CONSIDERANDO** a necessidade de garantir o cumprimento dos termos do Acordo de Cooperação Técnica nº 585/2025, DEA nº 59 (14/03/2025), instruído nos autos do processo administrativo nº 0013405-20.2017.4.04.8000, celebrado entre o Tribunal Regional Federal da 4ª Região e o Município de Porto Velho, com a finalidade de autorizar a cessão gratuita do direito de uso do Sistema Eletrônico de Informações – SEI;
+
+**CONSIDERANDO** a necessidade de garantir que a transição do sistema e-TCDF para o sistema SEI, ocorra de forma controlada, organizada e assegure a continuidade das atividades executadas pelos servidores das Secretarias e outros órgãos integrantes da gestão municipal.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituído o Grupo de Trabalho Multidisciplinar (Comissão Especial) responsável pela implantação, normatização, comunicação, treinamento, procedimento e multiplicação do Sistema Eletrônico de Informações - SEI, no âmbito do Poder Executivo Estadual.
+
+
+Art. 2º.
+
+Ficam designados, sem prejuízo de suas atribuições, devendo ter como dedicação prioritária o desenvolvimento das funções para essa especialidade, os servidores a seguir relacionados, sendo responsáveis:
+
+
+I –
+
+pela coordenação geral:
+
+
+a)
+
+André Henrique da Silva Santos – matrícula nº 10079096; e
+
+
+b)
+
+Cezar Eduardo Dondoni Marini – matrícula nº 10078190.
+
+
+II –
+
+pela implantação:
+
+
+a)
+
+Wellington Guimarães de Souza – matrícula nº 261488;
+
+
+b)
+
+Iuri Gustavo Santos Silva – matrícula nº 188864;
+
+
+c)
+
+Hugo Sued de Azevedo Machado – matrícula nº 68751;
+
+
+d)
+
+Michel Teixeira Lima – matrícula nº 98451; e
+
+
+e)
+
+Lilian Gabryela Nascimento dos Santos – matrícula nº 10079421.
+
+
+III –
+
+pela normatização:
+
+
+a)
+
+Eric Arruda Alves Saraiva – matrícula nº 263682;
+
+
+b)
+
+Ingrid Julianne Molino Czelusniak – matrícula nº 327876; e
+
+
+c)
+
+Júlia Roberta Melgar Pereira – matrícula nº 1000678.
+
+
+IV –
+
+pela comunicação e sensibilização:
+
+
+a)
+
+Rafael Altomar Alves Martins – matrícula nº 10079050; e
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 3º. - Decreto nº 21.206, de 28 de julho de 2025.
+
+
+V –
+
+pelo treinamento:
+
+
+a)
+
+Geovanna Cláudia Alves Ferreira de Lucena – matrícula nº 1006123; e
+
+
+b)
+
+Katarina Moraes Costa de Souza – matrícula nº 1006150.
+
+
+VI –
+
+pelos procedimentos:
+
+
+a)
+
+Eric Zanovello – matrícula nº 16536;
+
+
+b)
+
+Dilma Batista dos Anjos – matrícula nº 80325; e
+
+
+c)
+
+Saymon Souza Corrêa – matrícula nº 10079246.
+
+Alteração feita pelo Art. 1º. - Decreto nº 21.206, de 28 de julho de 2025.
+
+
+VII –
+
+pela parametrização:
+
+
+a)
+
+Caroline Leite Braga – matrícula nº 278954;
+
+
+b)
+
+Raurisson Pereira da Silva – matrícula nº 38994;
+
+
+c)
+
+Sinara Lima Santana Conceição – matrícula nº 71440; e
+
+
+d)
+
+Thalita Rosa Silva – matrícula nº 179110.
+
+
+e)
+
+Ronald Pereira Brandão – 31840;
+
+Inclusão feita pelo Art. 1º. - Decreto nº 21.206, de 28 de julho de 2025.
+
+
+f)
+
+Paulo Henrique Morato de Queiroz – 294778.
+
+Inclusão feita pelo Art. 1º. - Decreto nº 21.206, de 28 de julho de 2025.
+
+
+Art. 3º.
+
+São atribuições dos membros do grupo de trabalho, por núcleo de atuação:
+
+
+I –
+
+Equipe de implantação:
+
+
+a)
+
+realizar as tarefas do plano de ação, incluindo instalação, configuração e testes do sistema;
+
+
+b)
+
+avaliar e realizar a aquisição e/ou configuração de hardware, redes, servidores e backups necessários;
+
+
+c)
+
+instalar o software e ambientes de teste;
+
+
+d)
+
+criar o portal SEI;
+
+
+e)
+
+iniciar uso do SEI no setor piloto;
+
+
+f)
+
+disponibilizar o ambiente de treinamento no portal em parceria com a equipe de treinamento; e
+
+
+g)
+
+dirigir as ações da equipe de configuração e parametrização.
+
+
+II –
+
+Equipe de normatização:
+
+
+a)
+
+elaborar ato normativo de instituição do SEI na prefeitura;
+
+
+b)
+
+planejar a publicação do ato normativo no Diário Oficial do Município considerando a data de início do uso do sistema; e
+
+
+c)
+
+analisar as disposições do Decreto nº 18.809, de 24 de fevereiro de 2023, que dispõe sobre a obrigação de uso do Sistema e–TCDF / e– PMPV na Prefeitura do Município de Porto Velho e elaborar minuta de decreto com as alterações e/ou revogações necessárias.
+
+
+III –
+
+Equipe de comunicação:
+
+
+a)
+
+criar um cronograma de informativos aos servidores sobre a implantação do SEI, em consonância com o plano de implantação, devendo informar objetivos, benefícios e cronograma de ações aos servidores;
+
+
+b)
+
+organizar, compilar as informações fornecidas pelas demais equipes e definir os melhores canais para garantir que os comunicados alcancem tanto os servidores quanto os usuários externos;
+
+
+c)
+
+divulgar o portal do sei e os serviços e funcionalidades oferecidas;
+
+
+d)
+
+divulgar a publicação do ato normativo de instituição do sei e alterações no ato normativo de instituição do e-TCDF; e
+
+
+e)
+
+divulgar os treinamentos e materiais disponibilizados pela equipe de treinamento.
+
+
+IV –
+
+equipe de treinamento:
+
+
+a)
+
+capacitar os servidores que atuarão na parametrização/ configuração/ suporte;
+
+
+b)
+
+criar o cronograma de treinamentos e publicações de materiais didáticos de apoio aos servidores, consonante aos prazos delimitados no plano de implantação;
+
+
+c)
+
+organizar treinamentos presenciais para formação de multiplicadores em cada secretaria e virtuais para acesso de todos os servidores;
+
+
+d)
+
+rganizar a criação do ambiente de treinamento no portal sei em parceria com a equipe de implantação; e
+
+
+e)
+
+firmar parcerias para realização dos treinamentos necessários à boa utilização do sistema.
+
+
+V –
+
+pelos procedimentos:
+
+
+a)
+
+elaborar/editar e reunir todo o material necessário à aprendizagem e uso da ferramenta;
+
+
+b)
+
+guia de boas práticas no uso do SEI-PMPV;
+
+
+c)
+
+manual de normas e procedimentos administrativos do SEI;
+
+
+d)
+
+guia prático do SEI;
+
+
+e)
+
+cartilha de orientação de níveis de acesso;
+
+
+f)
+
+cartilha de orientação de transição de documentos digitais e físicos para o sistema SEI;
+
+
+g)
+
+guias rápidos por funcionalidade;
+
+
+h)
+
+Como Disponibilizar Processo a Interessados (Acesso Externo);
+
+
+i)
+
+manual do usuário externo;
+
+
+j)
+
+guia de digitalização de documentos; e
+
+
+k)
+
+criar a cartilha de orientação de transição de documentos digitais e físicos para o sistema SEI.
+
+
+VI –
+
+pela parametrização:
+
+
+a)
+
+inserir a carga inicial de dados no SEI com o objetivo de inserir informações;
+
+
+b)
+
+configurar as tabelas essenciais do sistema relativas, por exemplo, a unidades, usuários, assuntos, hipóteses legais de sigilo, tipos de documento, tipos de processo e níveis de acesso permitido;
+
+
+c)
+
+associar permissões adequadas aos usuários SEI;
+
+
+d)
+
+garantir que o sistema seja adaptado às necessidades específicas de cada órgão ou entidade;
+
+
+e)
+
+organizar o gerenciamento de órgãos, unidades, usuários, hierarquias, sistemas e permissões para os usuários que serão utilizados pelo SEI; e
+
+
+f)
+
+configurar tais sistemas e parametrizar algumas informações próprias de cada organização, como: sigla da organização, página de autenticação, nome do sistema a ser utilizado no título das janelas, endereço das unidades administrativas, estruturação da hierarquia organizacional, código de classificação documental.
+
+
+Art. 4º.
+
+Os membros do Grupo de Trabalho farão jus ao disposto no art. 76 da Lei Complementar nº 385, de 1º de junho de 2010, por se tratar de tarefa específica e transitória, sem prejuízo de suas atribuições ordinárias.
+
+
+Art. 5º.
+
+O prazo para vigência das atividades do Grupo de Trabalho será de 60 (sessenta) dias para a conclusão dos trabalhos, sem prorrogação.
+
+
+Art. 6º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito

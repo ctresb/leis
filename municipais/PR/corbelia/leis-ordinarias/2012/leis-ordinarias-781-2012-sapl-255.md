@@ -1,0 +1,2163 @@
+---
+titulo: "04 - Lei Ordinária nº 781, de 09 de agosto de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "781"
+data: "2012-08-09"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2024-12-20; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/255"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/266/text"
+sha256_fonte: "1cbf9a2f73a3f3bcb8677302bdf2f65b4c5f4cc5133d82c2b296cc96425e093f"
+sha256_texto: "ec09bf64391b2191a87058c3cd4855825523fc927a8c1105899e89e33ce8e78d"
+capturado_em_fonte: "2026-10-28T06:13:34.058099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 781, de 09 de agosto de 2012
+
+(Revogado)
+
+Revogado pelo Art. 242. - 04 - Lei Ordinária nº 1.267, de 20 de dezembro de 2024.
+
+
+(Revogado)
+
+Revogado pelo Art. 242. - 04 - Lei Ordinária nº 1.267, de 20 de dezembro de 2024.
+
+
+(Revogado)
+
+Revogado pelo Art. 242. - 04 - Lei Ordinária nº 1.267, de 20 de dezembro de 2024.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 242. - 04 - Lei Ordinária nº 1.267, de 20 de dezembro de 2024.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 242. - 04 - Lei Ordinária nº 1.267, de 20 de dezembro de 2024.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 242. - 04 - Lei Ordinária nº 1.267, de 20 de dezembro de 2024.
+
+
+#### CAPÍTULO II — DA ORDEM PÚBLICA E DOS COSTUMES
+
+
+##### Seção I — Da Moralidade e do Sossego Público
+
+
+Art. 3º.
+
+É proibido pichar, escrever, pintar ou gravar figuras nas fachadas dos prédios, nos muros ou postes, ressalvados os casos permitidos nesta Lei.
+
+
+Art. 4º.
+
+É proibido rasgar, riscar ou inutilizar, editais ou avisos afixados em lugares públicos.
+
+
+Art. 5º.
+
+Os proprietários de estabelecimentos em que se vendem bebidas alcoólicas serão responsáveis pela manutenção da ordem dos mesmos.
+
+
+Parágrafo único
+
+As desordens, algazarras ou barulho, porventura verificados nos referidos estabelecimentos, sujeitarão os proprietários à multa, podendo ser cassada a licença para seu funcionamento nas reincidências.
+
+
+Art. 6º.
+
+É expressamente proibido perturbar o sossego público em ruídos ou sons excessivos, tais como:
+
+
+I –
+
+os de motores de explosão desprovidos de silenciadores ou com estes, em mau estado de funcionamento;
+
+
+II –
+
+os de buzinas, tímpanos, campainhas ou quaisquer outros aparelhos;
+
+
+III –
+
+a propaganda realizada em alto-falantes;
+
+
+IV –
+
+os de morteiro, bombas e demais fogos ruidosos;
+
+
+V –
+
+os de apitos ou silvos de sirene de fábrica ou estabelecimentos outros, por mais de 30 (trinta) segundos ou depois das 22 (vinte e duas) horas;
+
+
+VI –
+
+batuques, e outros divertimentos congêneres, sem licença das autoridades;
+
+
+VII –
+
+produzidos através de equipamentos elétricos ou eletrônicos.
+
+
+Parágrafo único
+
+Excetuam-se das proibições deste artigo:
+
+
+I –
+
+os tímpanos, sinetas ou sirenes dos veículos de Assistência, Corpo de Bombeiros e Polícia quando em serviço;
+
+
+II –
+
+os apitos das rondas e guardas policiais;
+
+
+III –
+
+as manifestações em festividades religiosas, comemorações oficiais, reuniões desportivas, festejos típicos carnavalescos e juninos, passeatas, desfiles, fanfarras, banda de música, desde que se realizem em horários e locais previamente autorizados pelo órgão competente.
+
+
+Art. 7º.
+
+Nas igrejas e capelas, os sinos não poderão tocar antes das 05 (cinco) horas e depois das 22 (vinte e duas) horas, salvo os toques de rebates por ocasião de incêndios ou inundações.
+
+
+Art. 8º.
+
+É proibido executar qualquer trabalho ou serviço que produza ruído, antes das 07(sete) horas e depois das 22 (vinte e duas) horas, nas proximidades de locais de atendimento à saúde, escolas, asilos e prédios residenciais.
+
+
+##### Seção II — Dos Divertimentos Públicos
+
+
+Art. 9º.
+
+Divertimentos públicos, para efeito desta Lei, são os que se realizarem nas vias públicas, ou em recintos fechados de livre acesso ao público.
+
+
+Art. 10.
+
+Nenhum divertimento público poderá ser realizado sem autorização prévia da Prefeitura Municipal.
+
+
+Parágrafo único
+
+O requerimento de licença para funcionamento de qualquer casa de diversão será instruído com a prova de terem sido satisfeitas as exigências regulamentares referentes à construção e higiene do edifício, e procedida vistoria policial e dos Bombeiros.
+
+
+Art. 11.
+
+Em todas as casas de diversões públicas serão observadas as seguintes disposições, além das estabelecidas pelo Código de Obras:
+
+
+I –
+
+tanto as salas de entrada como as de espetáculos serão mantidas rigorosamente limpas;
+
+
+II –
+
+as portas e os corredores para o exterior serão amplos e conservar-se-ão sempre livres de grades, móveis ou quaisquer objetos que possam dificultar a retirada rápida do público em caso de emergência;
+
+
+III –
+
+todas as portas de saída devem ser encimadas pela inscrição “SAÍDA” visível à distância e luminosa de forma suave, quando se apagarem as luzes da sala. As portas se abrirão de dentro para fora;
+
+
+IV –
+
+os aparelhos destinados à renovação do ar deverão ser conservados e mantidos em perfeito funcionamento;
+
+
+V –
+
+haverá instalações sanitárias independentes para homens e senhoras;
+
+
+VI –
+
+serão tomadas as precauções necessárias para evitar incêndios, sendo a adoção de extintores de fogo em locais visíveis e de fácil acesso;
+
+
+VII –
+
+possuirão bebedouro automático de água filtrada em perfeito estado de funcionamento;
+
+
+VIII –
+
+durante os espetáculos, as portas deverão conservar-se abertas, vedadas com reposteiros ou cortinas;
+
+
+IX –
+
+deverão possuir material de pulverização de inseticidas;
+
+
+X –
+
+o mobiliário será mantido em perfeito estado de conservação.
+
+
+Art. 12.
+
+Nas casas de espetáculos de sessões consecutivas, que não tiverem exaustores suficientes, deve, entre a saída e a entrada dos espectadores, decorrer lapso de tempo suficiente para efeito de renovação de ar.
+
+
+Art. 13.
+
+Em todas as salas de espetáculos ou circos, serão reservados quatro lugares destinados às autoridades policiais e municipais, encarregadas da fiscalização.
+
+
+Art. 14.
+
+Os programas anunciados serão executados integralmente, não podendo o espetáculo iniciar-se em hora diversa da marcada.
+
+
+§ 1º
+
+Em caso de modificação do programa ou horário o empresário devolverá aos espectadores o preço integral da entrada.
+
+
+§ 2º
+
+As disposições deste artigo aplicam-se no que couber às competições esportivas para as quais se exija o pagamento de entradas.
+
+
+Art. 15.
+
+Os bilhetes de entrada não poderão ser vendidos por preço superior ao anunciado e em número excedente à lotação da Sala de Espetáculos ou Circo.
+
+
+Art. 16.
+
+Não serão fornecidas licenças para a realização de jogos ou diversões ruidosas em locais compreendidos em área formada por m raio de 100 (cem) metros de locais de atendimento a saúde.
+
+
+Art. 17.
+
+Para local de funcionamento de teatros, além das demais disposições aplicáveis desta Lei, deverão ser observados itens que segue:
+
+
+I –
+
+a parte destinada ao público será inteiramente separada da parte destinada aos artistas, não devendo, entre as duas, haver mais que as indispensáveis comunicações de serviço;
+
+
+II –
+
+a parte destinada aos artistas deverá ter, quando possível, fácil comunicação com as vias públicas de maneira que assegure saída ou entrada franca, sem dependência da parte destinada à permanência do público.
+
+
+Art. 18.
+
+A armação de circos de pano ou parques de diversão só poderá ser permitida em locais, a juízo da Prefeitura Municipal.
+
+
+§ 1º
+
+A autorização de funcionamento dos estabelecimentos de que trata este artigo não poderá ser por prazo superior a trinta dias, podendo ser renovado com o mesmo prazo.
+
+
+§ 2º
+
+A seu juízo, poderá a Prefeitura não renovar a autorização de um circo ou parque de diversões, ou obrigá-los a novas restrições para conceder-lhes a renovação pedida.
+
+
+§ 3º
+
+Ao conceder a autorização, poderá a Prefeitura estabelecer as restrições que julgar conveniente, no sentido de assegurar a ordem e amoralidade dos divertimentos e o sossego da vizinhança.
+
+
+§ 4º
+
+Os circos e parques de diversões, embora autorizados, só poderão ser franqueados ao público depois de vistoriados em todas as suas instalações, pelas autoridades da Prefeitura.
+
+
+Art. 19.
+
+Para permitir armação de circos ou barracas em logradouros públicos, poderá a Prefeitura Municipal exigir, se julgar conveniente, um depósito até o máximo de 200 % (duzentos por cento) do valor de referência vigente na região, como garantia de despesas com a eventual limpeza e recomposição do logradouro.
+
+
+Parágrafo único
+
+O depósito será restituído integralmente se não houver necessidade de limpeza especial ou reparos. Em caso contrário, serão deduzidas do mesmo as despesas feitas com tal serviço.
+
+
+Art. 20.
+
+Na localização de estabelecimentos de diversões noturnas, a Prefeitura terá sempre em vista o sossego da população.
+
+
+Art. 21.
+
+Os espetáculos, bailes, ou festas de caráter público, dependem para realizar-se, de prévia licença da Prefeitura.
+
+
+Parágrafo único
+
+Excetua-se das disposições deste artigo as reuniões de qualquer natureza, sem convites ou entradas pagas, levadas à efeito por clubes ou entidades de classe, em sua sede, ou as realizadas em residências particulares.
+
+
+Art. 22.
+
+É expressamente proibido, durante os festejos carnavalescos, apresentar-se com fantasias indecorosas, ou atirar substância que possa molestar os transeuntes.
+
+
+Parágrafo único
+
+Fora do período destinado aos festejos carnavalescos, a ninguém é permitido apresentar-se mascarado ou fantasiado nas vias públicas, salvo com licença especial das autoridades.
+
+
+##### Seção III — Dos Locais de Culto
+
+
+Art. 23.
+
+Nas igrejas, templos ou casas de cultos, os locais franqueados ao público, deverão ser conservados limpos, iluminados e arejados.
+
+
+Art. 24.
+
+As igrejas, templos e casas de culto não poderão contar com maior número de assistentes, a qualquer de seus ofícios, do que a lotação comportada por suas instalações.
+
+
+##### Seção IV — Da Publicidade em Via Pública
+
+
+Art. 25.
+
+A exploração dos meios de publicidade nas vias e logradouros públicos, bem como nos lugares de acesso comum, depende de licença da Prefeitura, sujeitando o contribuinte ao pagamento de taxa respectiva.
+
+
+§ 1º
+
+Incluem-se na obrigatoriedade deste artigo todos os cartazes, letreiros, programas, painéis, emblemas, placas, avisos, anúncios e mostruários, luminosos ou não, feitos por qualquer modo, processo ou engenho, suspensos, distribuídos, afixados ou pintados em paredes, muros, tapumes, veículos ou calçadas.
+
+
+§ 2º
+
+Incluem-se ainda na obrigatoriedade deste artigo os anúncios que, embora postos em terrenos de domínio privado, forem visíveis dos lugares públicos.
+
+
+Art. 26.
+
+Para propaganda falada em lugares públicos, por meio de ampliadores de voz, alto-falantes e propagandistas, a Prefeitura fará restrições relativas à itinerários, limites de horários de funcionamento e obrigações para com as áreas de silêncio, de acordo com o disposto nos artigos 6° e 8° deste Código.
+
+
+Art. 27.
+
+Não será permitida a colocação de anúncios ou cartazes quando:
+
+
+I –
+
+pela sua natureza provoquem aglomerações prejudiciais ao trânsito público;
+
+
+II –
+
+de alguma forma, prejudiquem os aspectos paisagísticos da cidade, seus panoramas naturais, monumentos típicos históricos e tradicionais;
+
+
+III –
+
+sejam ofensivos à moral ou contenham dizeres desfavoráveis a indivíduos, crenças e instituições;
+
+
+IV –
+
+obstruam, interceptem ou reduzam o vão das portas e janelas;
+
+
+V –
+
+Contenham incorreções de linguagem;
+
+
+VI –
+
+Façam uso da palavra em língua estrangeira, salvo aquelas que, por insuficiência de nosso léxico, a ele se hajam incorporado;
+
+
+VII –
+
+Pelo seu número ou má distribuição, prejudiquem o aspecto das fachadas.
+
+
+Art. 28.
+
+Os pedidos de licenças para a publicidade, ou propaganda por meio de cartazes ou anúncios deverão mencionar:
+
+
+I –
+
+a indicação dos locais em que serão colocados ou distribuídos os cartazes ou anúncios;
+
+
+II –
+
+a natureza do material de confecção;
+
+
+III –
+
+as dimensões;
+
+
+IV –
+
+as inscrições e o texto;
+
+
+V –
+
+as cores empregadas.
+
+
+Art. 29.
+
+Tratando-se de anúncios luminosos, os pedidos deverão ainda indicar o sistema de iluminação a ser adotado.
+
+
+Art. 30.
+
+Os anúncios luminosos deverão ser colocados a uma altura mínima de 2,50 m (dois metros e cinqüenta centímetros) do passeio, não podendo sua luminosidade, ser projetada contra prédio residencial.
+
+
+Art. 31.
+
+Os anúncios encontrados sem que os responsáveis tenham satisfeito as formalidades deste capítulo, poderão ser apreendidos e retirados pela Prefeitura, até a satisfação daquelas formalidades, além do pagamento da multa prevista nesta Lei.
+
+
+#### CAPÍTULO III — DA SEGURANÇA PÚBLICA
+
+
+##### Seção I — Da Obstrução das Vias Públicas
+
+
+Art. 32.
+
+Nenhuma obra, inclusive demolição quando feita no alinhamento das vais públicas, poderá dispensar o tapume provisório, que deverá ocupar uma faixa de largura, no máximo igual à metade do passeio.
+
+
+§ 1º
+
+Quando os tapumes forem construídos em esquinas, as placas de nomenclatura dos logradouros serão neles afixados de forma bem visível.
+
+
+§ 2º
+
+Dispensa-se o tapume quando se tratar de:
+
+
+I –
+
+construção ou reparos de muros ou grades com altura não superior a 03 m (três metros);
+
+
+II –
+
+pinturas ou pequenos reparos.
+
+
+Art. 33.
+
+Os andaimes deverão satisfazer o seguinte:
+
+
+I –
+
+apresentar em perfeitas condições de segurança;
+
+
+II –
+
+não causarem dano às árvores, aparelhos de iluminação e redes telefônicas e da distribuição de energia elétrica.
+
+
+Parágrafo único
+
+O andaime deverá ser retirado quando ocorrer a paralisação da obra por mais de 60 (sessenta) dias.
+
+
+Art. 34.
+
+Poderão ser armados coretos ou palanques provisórios nos logradouros públicos, para festividades religiosas, cívicas ou de caráter popular, desde que sejam observadas as seguintes condições:
+
+
+I –
+
+serem aprovados pela Prefeitura Municipal, quanto à localização;
+
+
+II –
+
+não perturbarem o trânsito público;
+
+
+III –
+
+não prejudicarem o calçamento nem o escoamento das águas pluviais, correndo por conta dos responsáveis pela festividade os estragos por acaso verificados;
+
+
+IV –
+
+serem removidos no prazo máximo de 24 (vinte e quatro) horas, a contar do encerramento dos festejos.
+
+
+Parágrafo único
+
+Uma vez findo o prazo estabelecido no item IV a Prefeitura promoverá a remoção do coreto ou palanque, cobrando ao responsável as despesas da remoção, dando ao material removido o destino que convier.
+
+
+Art. 35.
+
+Nenhum material ou detrito poderá permanecer nos logradouros públicos, exceto nos casos previstos nesta Lei.
+
+
+Art. 36.
+
+O ajardinamento e a arborização das praças e vias públicas serão atribuições exclusivas da Prefeitura Municipal.
+
+
+Parágrafo único
+
+Nos logradouros abertos por particulares, com licença da Prefeitura, é facultado aos interessados promover e custear a respectiva arborização.
+
+
+Art. 37.
+
+É proibido podar, cortar, derrubar ou sacrificar as árvores da arborização pública, sem consentimento expresso da Prefeitura.
+
+
+Art. 38.
+
+Os postes de iluminação e força, as caixas postais, os hidrantes, poderão ser colocados nos logradouros públicos mediante autorização da Prefeitura, que incidirá as posições convenientes e as condições da respectiva instalação.
+
+
+Art. 39.
+
+As colunas ou suporte de anúncios, as caixas coletoras de lixo, os bancos e os abrigos de logradouros públicos somente poderão ser instalados mediante licença prévia da Prefeitura.
+
+
+Art. 40.
+
+As bancas para a venda de jornais e revistas poderão ser permitidas nos logradouros públicos, desde que satisfaçam as seguintes condições:
+
+
+I –
+
+terem sua localização aprovada pela Prefeitura Municipal;
+
+
+II –
+
+apresentarem bom aspecto quando da sua construção;
+
+
+III –
+
+não perturbarem o trânsito público;
+
+
+IV –
+
+serem de fácil remoção.
+
+
+Art. 41.
+
+Os estabelecimentos comerciais poderão ocupar com mesas e cadeiras, parte do passeio correspondente à testada do edifício desde que fique para o trânsito público uma faixa do passeio de largura de 02 m (dois metros).
+
+
+Art. 42.
+
+Os relógios, estátuas, fontes e quaisquer monumentos somente poderão ser colocados nos logradouros públicos se comprovado o seu valor artístico ou cívico, e a juízo da Prefeitura Municipal.
+
+
+Parágrafo único
+
+Dependerá, ainda, de aprovação, o local escolhido para a fixação dos monumentos.
+
+
+##### Seção II — Dos Passeios, Muros e Cercas
+
+
+Art. 43.
+
+Os proprietários de terrenos urbanos não edificados já beneficiados com meio-fio e/ou pavimentação são obrigados a murá-los ou cercá-los em prazo determinado, não inferior a 60 (sessenta) dias da data da notificação bem como a mantê-los limpos, capinados e drenados.
+
+
+Parágrafo único
+
+Serão comuns os muros e cercas divisórias entre propriedades, tendo os proprietários dos imóveis confinantes concorrer em partes iguais, para as despesas de construção e conservação dos muros ou cercas.
+
+
+Art. 44.
+
+Os proprietários de terrenos urbanos, edificados ou não, que possuam meio-fio, são obrigados a executar a pavimentação do passeio (calçada) fronteiriça a seus imóveis, dentro dos padrões estabelecidos pelo Município, e mantê-los em bom estado de conservação e limpeza, no prazo que lhe notificado, nunca inferior a 30 (trinta) dias.
+
+
+Art. 45.
+
+Os proprietários que deixarem de cumprir as determinações dos artigos 43 e 44 desta Lei obrigarão a Municipalidade a tomar providências para tal, com a execução dos serviços que lhes serão debitados pelo seu custo, na forma prevista pela Contribuição de Melhoria.
+
+
+##### Seção III — Da Mobilidade
+
+
+Art. 46.
+
+O trânsito, de acordo com as leis vigentes é livre, e sua regulamentação tem por objetivo manter a ordem, a segurança e o bem-estar dos transeuntes e da população em geral.
+
+
+Art. 47.
+
+É proibido embaraçar ou impedir por qualquer meio, o livre trânsito de pedestres ou veículos nas ruas, praças, passeios, estradas e caminhos públicos, exceto para efeito de obras públicas ou quando exigências policiais o determinarem.
+
+
+Parágrafo único
+
+Sempre que houver necessidade de interromper o trânsito, deverão ser colocadas sinalização claramente visível de dia e luminosa à noite.
+
+
+Art. 48.
+
+É expressamente proibido atirar à via pública ou logradouros públicos detritos que possam incomodar os transeuntes.
+
+
+Art. 49.
+
+É expressamente proibido danificar ou retirar sinais colocados nas vias, estradas ou caminhos públicos, para advertência de perigo ou de impedimento de trânsito.
+
+
+Art. 50.
+
+Assiste à Prefeitura Municipal o direito de impedir o trânsito, de qualquer veículo ou meio de transporte que possa ocasionar danos à via pública.
+
+
+Art. 51.
+
+É proibido embaraçar o trânsito ou molestar os pedestres por meios tais como:
+
+
+I –
+
+conduzir pelos passeios, volumes de grande porte;
+
+
+II –
+
+conduzir pelos passeios, veículos de qualquer espécie;
+
+
+III –
+
+patinar, a não ser nos logradouros a isso destinados;
+
+
+IV –
+
+conduzir ou conservar animais sobre os passeios ou jardins.
+
+
+Parágrafo único
+
+Excetuam-se do disposto no item II, deste artigo, carrinhos de crianças ou de portadores de deficiência; e em ruas de pequeno movimento, triciclos e bicicletas de uso infantil.
+
+
+Art. 52.
+
+Cabe à Prefeitura Municipal fixar local e horário de funcionamento às áreas de carga e descarga, bem como de outros tipos de estacionamento em vias públicas.
+
+
+Art. 53.
+
+Os pontos de estacionamento de veículos de aluguel, para transporte individual de passageiros ou não, serão determinados pela Prefeitura Municipal.
+
+
+#### CAPÍTULO IV — DO COMÉRCIO EM GERAL, PRESTAÇÃO DE SERVIÇOS E INDÚSTRIAS
+
+
+##### Seção I — DO FUNCIONAMENTO DO COMÉRCIO, PRESTAÇÃO DE SERVIÇOS E INDÚSTRIAS
+
+
+Art. 54.
+
+Nenhum estabelecimento comercial ou industrial poderá funcionar sem prévia licença da Prefeitura, a qual só será concedida se observadas contidas na Lei de Uso e Ocupação do Solo e as demais normas legais e regulamentares pertinentes.
+
+
+Parágrafo único
+
+O requerimento deverá especificar com clareza:
+
+
+I –
+
+O ramo do comércio ou da indústria, ou o tipo de serviço a ser prestado;
+
+
+II –
+
+O local em que o requerente pretende exercer sua atividade.
+
+
+Art. 55.
+
+Não será concedida licença, dentro do perímetro urbano, aos estabelecimentos industriais que pela natureza dos produtos, pelas matérias-primas utilizadas, pelos combustíveis empregados, ou por qualquer outro motivo possam prejudicar a saúde pública.
+
+
+Art. 56.
+
+Para ser concedida licença de funcionamento pela Prefeitura, o prédio e as instalações de todo e qualquer estabelecimento comercial, industrial ou prestador de serviços deverão ser previamente vistoriados pelos órgãos competentes, em particular no que diz respeito às condições de higiene e segurança, em qualquer que seja o ramo de atividade a que se destina.
+
+
+Parágrafo único
+
+O alvará de licença só poderá ser concedido após informações, pelos órgãos competentes da Prefeitura, de que o estabelecimento atende as exigências estabelecidas neste código.
+
+
+Art. 57.
+
+Para efeito de fiscalização, o proprietário do estabelecimento licenciado colocará o alvará de localização em lugar visível e o exibirá à autoridade competente sempre que esta o exigir.
+
+
+Art. 58.
+
+Para mudança de local de estabelecimento comercial ou industrial, deverá ser solicitada a necessária permissão à Prefeitura que verificará se o novo local satisfaz as condições exigidas.
+
+
+Art. 59.
+
+A licença de localização poderá ser cassada:
+
+
+I –
+
+quando se tratar de negócio diferente do requerido;
+
+
+II –
+
+como medida preventiva, além da higiene, da moral ou sossego e segurança pública;
+
+
+III –
+
+se o licenciado se negar a exibir o alvará de localização à autoridade competente, quando solicitado a fazê-lo;
+
+
+IV –
+
+por solicitação da autoridade competente, provado os motivos que fundamentarem a solicitação.
+
+
+§ 1º
+
+Cassada a licença, o estabelecimento será imediatamente fechado.
+
+
+§ 2º
+
+Poderá ser igualmente fechado todo o estabelecimento que exercer atividades sem a necessária licença expedida em conformidade com o que preceitua esta secção.
+
+
+##### Seção II — Do Comércio Ambulante
+
+
+Art. 60.
+
+O exercício do comércio ambulante dependerá sempre de licença especial da Prefeitura, mediante requerimento do interessado.
+
+
+Parágrafo único
+
+O exercício a que se refere o presente artigo será concedido em conformidade com as prescrições desta Lei e da legislação fiscal do Município.
+
+
+Art. 61.
+
+Da licença concedida deverão constar os seguintes elementos essenciais, além de outros que forem estabelecidos:
+
+
+I –
+
+número de inscrição;
+
+
+II –
+
+residência do comerciante ou responsável;
+
+
+III –
+
+nome, razão social ou denominação sob cuja responsabilidade funciona o comércio ambulante.
+
+
+§ 1º
+
+O vendedor ambulante não licenciado para o exercício ou período em que esteja desempenhando atividade, ficará sujeito à apreensão da mercadoria encontrada em seu poder.
+
+
+§ 2º
+
+A devolução das mercadorias apreendidas só será efetuada depois de ser concedida a licença ao respectivo vendedor ambulante e de pagamento da multa a que estiver sujeito.
+
+
+Art. 62.
+
+A licença será renovada periodicamente, por solicitação do interessado.
+
+
+Art. 63.
+
+Ao vendedor ambulante é vedado:
+
+
+I –
+
+o comércio de qualquer mercadoria ou objeto não mencionado na licença;
+
+
+II –
+
+estacionar nas vias públicas e outros logradouros, fora dos locais previamente determinados pela Prefeitura Municipal;
+
+
+III –
+
+impedir ou dificultar o trânsito nas vias públicas ou outros logradouros;
+
+
+Parágrafo único
+
+No caso do inciso I, além da multa, caberá a apreensão da mercadoria do objeto.
+
+
+##### Seção III — Das Feiras Livres
+
+
+Art. 64.
+
+As feiras livres para venda a varejo de gêneros alimentícios, serão organizadas, orientadas e fiscalizadas pela Prefeitura.
+
+
+Art. 65.
+
+São obrigações comuns a todos os que exercem atividades nas feiras livres:
+
+
+I –
+
+ocupar o local e área delimitada para seu comércio;
+
+
+II –
+
+manter a higiene do seu local de comércio e colaborar para a limpeza da feira e suas imediações;
+
+
+III –
+
+somente colocar a venda gêneros em perfeitas condições para consumo;
+
+
+IV –
+
+observar na utilização das balanças e na aferição de pesos e medidas, o que determinar as normas competentes;
+
+
+V –
+
+observar rigorosamente seu horário de funcionamento.
+
+
+##### Seção IV — Do Horário de Funcionamento
+
+
+Art. 66.
+
+A abertura e o fechamento dos estabelecimentos comerciais e prestadores de serviços obedecerão aos preceitos da Legislação Federal que regula o contrato de duração e condições de trabalho.
+
+
+Parágrafo único
+
+Nos domingos e feriados os estabelecimentos permanecerão fechados, bem como nos feriados decretados pelo Executivo Municipal, salvo exceções previstas em lei.
+
+
+Art. 67.
+
+O Prefeito Municipal poderá, através de Decreto e mediante solicitação das classes interessadas, prorrogar o horário de funcionamento dos estabelecimentos comerciais.
+
+
+Art. 68.
+
+As farmácias e drogarias poderão, em caso de urgência, atender ao público a qualquer hora do dia ou da noite.
+
+
+Parágrafo único
+
+Quando fechadas, as farmácias deverão afixar à porta uma placa com a indicação dos estabelecimentos análogos que estiverem de plantão.
+
+
+Art. 69.
+
+Os estabelecimentos comerciais e prestadores de serviços que necessitarem funcionar em horário especial deverão requerê-lo à Prefeitura Municipal para análise e aprovação.
+
+
+#### CAPÍTULO V — DA HIGIENE
+
+
+##### Seção I — Da Higiene Pública
+
+
+Art. 70.
+
+O serviço de limpeza das ruas, praças e logradouros públicos será executado direta ou indiretamente pela Prefeitura Municipal, bem como o serviço de coleta de lixo domiciliar.
+
+
+Art. 71.
+
+Os moradores são responsáveis pela limpeza do passeio e sarjeta fronteiriça à sua residência.
+
+
+Art. 72.
+
+É proibido varrer lixo, detritos sólidos de qualquer natureza, para os coletores ou “bocas de lobo” dos logradouros.
+
+
+Art. 73.
+
+É proibido impedir ou dificultar o livre escoamento das águas pelos canos, valas, sarjetas ou canais das vias públicas.
+
+
+Art. 74.
+
+Para preservar de maneira geral a higiene pública fica proibido:
+
+
+I –
+
+Consentir o escoamento de águas servidas das residências para as ruas;
+
+
+II –
+
+Consentir, sem as precauções devidas, a permanência nas vias públicas de quaisquer materiais que possam comprometer o asseio das mesmas;
+
+
+Art. 75.
+
+É proibido lançar nas vias públicas, nos terrenos sem edificações ou nas várzeas, lixo de qualquer origem, entulhos, cadáveres de animais, fragmentos pontiagudos ou qualquer material que possa causar incômodo à população ou prejudicar a paisagem urbana, bem como queimar, dentro do perímetro urbano, qualquer substância nociva à população.
+
+
+Art. 76.
+
+Todo proprietário de terreno, cultivado ou não, é obrigado a extinguir focos de insetos nocivos, como formigas, aranhas, mosquitos, marimbondos, etc.
+
+
+##### Seção II — Da Higiene das Habitações
+
+
+Art. 77.
+
+O lixo das habitações será recolhido em vasilhames apropriados, providos de tampa em sacos plásticos, para serem removidos pelo serviço de limpeza pública.
+
+
+Art. 78.
+
+Os prédios de habitação coletiva deverão ser dotados de recipiente coletor de lixo, convenientemente disposto em local que facilite a coleta, não obstrua passagens, e, em perfeitas condições de higiene.
+
+
+Art. 79.
+
+Nenhum prédio, em via pública dotado de rede de água e esgoto, poderá ser habitado sem que disponha dessas utilidades e seja provido de instalações sanitárias.
+
+
+Art. 80.
+
+Quando não houver rede pública de abastecimento de água ou rede coletora de esgoto, serão indicadas pela Administração Municipal as medidas a serem adotadas.
+
+
+Art. 81.
+
+Os reservatórios de água deverão obedecer aos seguintes requisitos:
+
+
+I –
+
+vedação total que evite o acesso de substâncias que possam contaminar a água;
+
+
+II –
+
+facilidade de sua inspeção por parte da fiscalização sanitária;
+
+
+III –
+
+tampa removível.
+
+
+Art. 82.
+
+As chaminés de qualquer espécie, de fogões, de casas particulares, de restaurantes, pensões, hotéis e de estabelecimentos comerciais e industriais de qualquer natureza, terão altura suficiente para que a fumaça, fuligem ou outros resíduos que possam expelir, não incomodem os vizinhos devendo ainda conter dispositivos que contenham a fuligem e gases.
+
+
+Art. 83.
+
+É proibido comprometer, por qualquer forma, a limpeza das águas destinadas ao consumo público ou particular
+
+
+##### Seção III — Da Higiene dos Estabelecimentos
+
+
+Art. 84.
+
+Os hotéis, pensões, restaurantes, bares, cafés, padarias, confeitarias e estabelecimentos congêneres deverão observar as seguintes prescrições:
+
+
+I –
+
+a lavagem de louças e talheres deverá fazer-se com água corrente, não sendo permitida, sob qualquer hipótese, a lavagem em baldes, tonéis ou vasilhames;
+
+
+II –
+
+os guardanapos e toalhas serão de uso individual;
+
+
+III –
+
+a louça e os talheres deverão ser guardados em armários com portas e ventilados, não podendo ficar expostos;
+
+
+IV –
+
+as mesas e balcões deverão possuir tampos impermeáveis;
+
+
+V –
+
+as cozinhas e copas terão revestimentos de ladrilhos nos pisos, e paredes com superfície impermeável, conservadas em perfeitas condições de higiene;
+
+
+VI –
+
+haverá sanitários para ambos os sexos, não sendo permitida entrada comum;
+
+
+VII –
+
+nos salões de consumação não será permitido o depósito de caixas de qualquer material estranho às suas finalidades.
+
+
+Art. 85.
+
+Nos salões de barbeiros, cabeleireiros e estabelecimentos congêneres é obrigado o uso de toalhas individuais.
+
+
+Art. 86.
+
+As toalhas ou panos que recobrem o encosto das cadeiras devem ser usados uma só vez para cada atendimento.
+
+
+Art. 87.
+
+Os instrumentos de trabalho, logo após sua utilização, deverão ser mergulhados em solução anti-séptica e lavados em água corrente.
+
+
+Art. 88.
+
+Os salões de barbeiros, cabeleireiros e estabelecimentos congêneres deverão obedecer as seguintes prescrições:
+
+
+I –
+
+os pisos deverão ser recobertos de material impermeável;
+
+
+II –
+
+as paredes deverão ser pintadas ou revestidas até a altura mínima de dois metros.
+
+
+Art. 89.
+
+As instalações de carnes e peixarias deverão atender as seguintes condições:
+
+
+I –
+
+ser instaladas em prédios de alvenaria;
+
+
+II –
+
+ser dotadas de torneiras e pias apropriadas;
+
+
+III –
+
+ter balcões com tampo de aço inoxidável, mármore ou fórmica;
+
+
+IV –
+
+ter câmaras frigoríficas ou refrigeradores com capacidade suficiente;
+
+
+V –
+
+não será permitido o uso de lâmpadas coloridas na iluminação artificial;
+
+
+VI –
+
+o piso deverá ser em cimento alisado, revestido de material impermeável;
+
+
+VII –
+
+as paredes deverão ser revestidas com azulejo até a altura de 02m (dois metros), no mínimo;
+
+
+VIII –
+
+possuir instalações sanitárias adequadas;
+
+
+IX –
+
+possuir portas gradeadas e ventiladas.
+
+
+Art. 90.
+
+Nas casas de carne e congêneres, só poderão entrar carnes provenientes de abatedouros devidamente licenciados, regularmente, inspecionadas e carimbadas, conduzidas em veículo apropriado.
+
+
+Art. 91.
+
+Nos estabelecimentos tratados nesta seção é obrigatório observar as seguintes prescrições de higiene:
+
+
+I –
+
+o uso de aventais e gorros;
+
+
+II –
+
+manter coletores de lixo e resíduos com tampa à prova de moscas e roedores;
+
+
+III –
+
+a pessoa que manipula as carnes não poderá manipular com dinheiro.
+
+
+##### Seção IV — Da Higiene dos Alimentos
+
+
+Art. 92.
+
+A Prefeitura exercerá, em colaboração com as autoridades sanitárias do Estado e da União, severa fiscalização sobre a produção, o comércio e o consumo de gêneros alimentícios em geral.
+
+
+Parágrafo único
+
+Para os efeitos deste Código, consideram-se gêneros alimentícios todas as substâncias sólidas ou líquidas, destinadas a serem ingeridas pelo homem, excetuando os medicamentos.
+
+
+Art. 93.
+
+Não será permitida a produção, exposição ou venda de gêneros alimentícios deteriorados, falsificados, adulterados, ou nocivos à saúde, os quais serão apreendidos pelos funcionários encarregados pela fiscalização e removidos para local destinado a inutilização das mesmas.
+
+
+§ 1º
+
+A inutilização dos gêneros não eximirá a fábrica ou estabelecimento comercial, do pagamento das multas e demais penalidades que possam sofrer em virtude da infração.
+
+
+§ 2º
+
+A reincidência na prática das infrações previstas neste artigo determinará a cassação da licença para funcionamento da fábrica ou casa comercial.
+
+
+Art. 94.
+
+Toda água que tenha de servir de manipulação ou preparo de gêneros alimentícios, desde que não provenha de abastecimento público deve ser comprovadamente pura.
+
+
+Art. 95.
+
+O gelo destinado ao uso alimentar deverá ser fabricado com água potável, isenta de qualquer contaminação.
+
+
+Art. 96.
+
+As fábricas de doces e de massas, as refinarias, padarias, confeitarias e de estabelecimentos congêneres deverão ter:
+
+
+I –
+
+o piso e as paredes das salas de elaboração dos produtos alimentícios revestidos de azulejo ou similar até a altura de 02 m (dois metros);
+
+
+II –
+
+as salas de preparo dos produtos com as janelas e aberturas teladas e à prova de moscas.
+
+
+Art. 97.
+
+Todo produto destinado a alimentação humana, produzido no Município de Corbélia, e que seja de origem animal deve possuir registro junto ao Sistema de Inspeção Municipal de Corbélia, localizado na Secretaria Municipal de Desenvolvimento Econômico, estando obrigado a respeitar a legislação da área em vigor.
+
+
+##### Seção V — Dos Resíduos Sólidos Urbano
+
+
+Art. 98.
+
+A coleta, transporte, tratamento e disposição final do lixo urbano de qualquer espécie ou natureza, processar-se-á em condições que não tragam malefícios ou inconvenientes à saúde, ao bem-estar público ou ao meio ambiente.
+
+
+§ 1º
+
+Fica expressamente proibido:
+
+
+I –
+
+a deposição indiscriminada de lixo e entulhos em locais inapropriados, em áreas urbanas e rurais.
+
+
+II –
+
+a utilização do lixo “in natura” para alimentação de animais e adubação orgânica.
+
+
+III –
+
+o lançamento de lixo residual e entulhos, em água de superfícies, sistemas de drenagem de águas pluviais, poços, cacimbas e áreas erodidas, lotes baldios, ou em valas e nas vias públicas.
+
+
+IV –
+
+o assoreamento de fundo de vale através da colocação de lixo, entulhos e outros materiais.
+
+
+§ 2º
+
+É obrigatória à adequada coleta, transporte e destinação final do lixo clínicas médicas, odontológicas e veterinárias, postos de saúde, farmácias, drogarias, ambulatórios e congêneres, sempre obedecidas as normas técnicas pertinentes.
+
+
+Art. 99.
+
+Fica proibido lançar ao solo, em logradouros públicos, resíduos sólidos de qualquer natureza.
+
+
+##### Seção VI — Das Medidas Referentes a Animais Domésticos
+
+
+Art. 100.
+
+É proibida a permanência de animais nas vias públicas.
+
+
+Art. 101.
+
+Os animais soltos ou encontrados nas ruas, praças, estradas ou caminhos públicos serão recolhidos ao depósito da municipalidade.
+
+
+Art. 102.
+
+O animal recolhido em virtude do disposto neste capítulo, será retirado dentro do prazo máximo de 05(cinco) dias mediante pagamento de multa e do custo de manutenção respectiva.
+
+
+Parágrafo único
+
+Não sendo retirado o animal nesse prazo deverá a Prefeitura efetuar a sua venda em hasta pública, precedida da necessária publicação.
+
+
+Art. 103.
+
+É proibida a criação ou engorda de porcos no perímetro urbano da Sede do Município.
+
+
+Art. 104.
+
+Os cães que forem encontrados nas vias públicas da cidade e vilas serão apreendidos e recolhidos ao depósito da Prefeitura.
+
+
+§ 1º
+
+O animal não registrado será sacrificado ou levado a instituições de pesquisa, se não for retirado por seu dono, dentro de 10 (dez) dias, mediante o pagamento de multa e custo de manutenção respectiva.
+
+
+§ 2º
+
+Os proprietários de cães registrados serão notificados devendo retirá-los em idêntico prazo, sem o que serão igualmente sacrificados.
+
+
+Art. 105.
+
+Haverá na Prefeitura, o registro de cães, que será feito anualmente, mediante o pagamento de taxa respectiva.
+
+
+Art. 106.
+
+Os proprietários de cães são obrigados a vaciná-los contra a raiva, na época determinada pelo Município.
+
+
+Art. 107.
+
+Os cães hidrófobos ou atacados de moléstias transmissíveis, encontrados nas vias públicas ou recolhidos nas residências de seus proprietários serão imediatamente sacrificados e incinerados.
+
+
+Art. 108.
+
+É expressamente proibido:
+
+
+I –
+
+criar abelhas nos locais de maior concentração urbana;
+
+
+II –
+
+criar pequenos animais (coelhos, perus, patos, galinhas, etc), nos porões das habitações;
+
+
+III –
+
+criar pombos nos forros das residências.
+
+
+Art. 109.
+
+É expressamente proibido a qualquer pessoa maltratar os animais ou praticar atos de crueldade contra os mesmos, tais como:
+
+
+I –
+
+fazer trabalhar animais doentes, feridos, extenuados, aleijados, enfraquecidos ou extremamente magros;
+
+
+II –
+
+martirizar animais para deles alcançar esforços excessivos;
+
+
+III –
+
+abandonar, em qualquer ponto, animais doentes, extenuados, enfraquecidos ou feridos;
+
+
+IV –
+
+amontoar animais em depósitos insuficientes ou sem água, ar, luz e alimentos;
+
+
+V –
+
+praticar todo e qualquer ato, mesmo não especificado neste código, que acarretar violência e sofrimento para o animal.
+
+
+#### CAPÍTULO VI — DA PROTEÇÃO AO MEIO AMBIENTE
+
+
+##### Seção I — Das Queimadas, Arborização Pública e Pastagens
+
+
+Art. 110.
+
+Não será permitida a utilização da arborização pública para colocação de cartazes e anúncios ou fixações de cabos e fios, nem para suporte ou apoio de objetos e instalações de qualquer natureza.
+
+
+Art. 111.
+
+É proibido queimar, mesmo que nos fundos de lotes ou quintais, folhas ou qualquer outro resíduo capaz de molestar a vizinhança.
+
+
+##### Seção II — Das Substâncias Nocivas a Saúde e ao Maio Ambiente
+
+
+Art. 112.
+
+Aquele que utiliza substâncias, produtos, objetos ou rejeitos perigosos, deve tomar precauções para que não apresente perigo, risco à saúde pública e não afete o meio ambiente.
+
+
+§ 1º
+
+Os resíduos e rejeitos perigosos devem ser reciclados, neutralizados ou eliminados pelo fabricante ou comerciante.
+
+
+§ 2º
+
+Os consumidores deverão devolver as substâncias, produtos ou objetos, ou resíduos potencialmente perigosos ao meio ambiente, nos locais de coleta pública, quando houver ou diretamente ao comerciante ou fabricante, observadas as instruções técnicas pertinentes.
+
+
+§ 3º
+
+A aplicação de agrotóxicos nas áreas periurbanas, correspondente a uma faixa lateral de 500 metros no entorno das áreas urbanas do Município de Corbélia deverá ser efetuado com rigorosa observância dos cuidados e das recomendações técnicas, afim de não causar danos à saúde humana e ao meio ambiente, sujeitando-se às restrições impostas pelo poder público.
+
+
+##### Seção III — Da Conservação das Estradas
+
+
+Art. 113.
+
+Na construção e manutenção de estradas, os leitos, taludes, faixa de domínio e áreas marginais deverão receber tratamentos conservacionistas adequados, a fim de evitar a ocorrência de erosão, ou eliminá-la quando já existente.
+
+
+Art. 114.
+
+As propriedades adjacentes não poderão utilizar-se do leito ou das margens das estradas para canalizar as águas das chuvas oriundas da propriedade, bem como devem promover adequada conservação do solo nas faixas de domínio quando utilizadas para plantio.
+
+
+Art. 115.
+
+As estradas rurais não poderão ter o leito e as margens danificados pela ação de máquinas e implementos agrícolas.
+
+
+##### Seção IV — Da Conservação dos Solos
+
+
+Art. 116.
+
+É de responsabilidade do proprietário rural implantar e manter o sistema de terraceamento segundo as normas técnicas vigentes a fim de evitar o processo de degradação do solo.
+
+
+Parágrafo único
+
+O não cumprimento do disposto no caput deste artigo implicará em sansões previstas em legislações sobre o tema nos vários níveis de governo.
+
+
+#### CAPÍTULO VII — DO EXERCÍCIO DE ATIVIDADES E USOS ESPECIAIS
+
+
+##### Seção I — Da Exploração de Pedreiras, Cascalheiras e Congêneres
+
+
+Art. 117.
+
+A exploração de pedreiras, cascalheiras, olarias e depósitos de areia e saibro depende de licença da Prefeitura, que a concederá, observados os preceitos da Lei Municipal do Meio Ambiente e das Legislações Estadual e Federal pertinentes.
+
+
+Art. 118.
+
+A licença será processada mediante apresentação de requerimento assinado pelo proprietário do solo ou pelo explorador, e instruído de acordo com este artigo.
+
+
+§ 1º
+
+Do requerimento deverão constar as seguintes indicações:
+
+
+I –
+
+nome e residência do proprietário do terreno;
+
+
+II –
+
+nome e residência do explorador, se este não for o proprietário;
+
+
+III –
+
+localização precisa da entrada do terreno;
+
+
+IV –
+
+declaração do processo de exploração e da qualidade do explosivo a ser empregado se for o caso.
+
+
+§ 2º
+
+O requerimento de licença deverá ser instruído com os seguintes documentos:
+
+
+I –
+
+prova de propriedade do terreno;
+
+
+II –
+
+autorização para a exploração, passada pelo proprietário em cartório, no caso de não ser ele o explorador;
+
+
+III –
+
+planta de situação, com indicação do relevo do solo por meio de curvas de nível, contendo a delimitação exata da área a ser explorada com a localização das respectivas instalações e indicando as construções, os logradouros, os mananciais e cursos de água situados em toda a faixa de largura de 100 m (cem metros) em torno da área a ser explorada;
+
+
+IV –
+
+perfis do terreno em 03 (três) vias.
+
+
+§ 3º
+
+No caso de se tratar de exploração de pequeno porte, poderão ser dispensados a critério da Prefeitura, os documentos indicados nos incisos III e IV do parágrafo anterior.
+
+
+Art. 119.
+
+A licença para exploração será sempre por prazo fixo.
+
+
+Parágrafo único
+
+Será interditada a pedreira ou parte da pedreira embora licenciada, e explorada de acordo com esta Lei desde que posteriormente se verifique que a sua exploração acarreta perigo ou dano à vida ou à propriedade.
+
+
+Art. 120.
+
+Ao conceder a licença, a Prefeitura poderá fazer as restrições que julgar conveniente.
+
+
+Art. 121.
+
+Os pedidos de prorrogação de licença para a continuação da exploração serão feitos por meio de requerimento e instruídos com o documento de licença anteriormente concedida.
+
+
+Art. 122.
+
+Não será permitida a exploração de pedreiras na zona urbana.
+
+
+Art. 123.
+
+A Prefeitura poderá, a qualquer tempo, determinar a execução de obras no recinto da exploração de pedreiras ou cascalheiras, com o intuito de proteger propriedades particulares ou públicas, ou evitar a obstrução das galerias de água.
+
+
+##### Seção II — Dos Inflamáveis e Explosivos
+
+
+Art. 124.
+
+No interesse público a Prefeitura fiscalizará a fabricação, o comércio, o transporte e o emprego de inflamáveis e explosivos.
+
+
+Art. 125.
+
+São considerados inflamáveis:
+
+
+I –
+
+o fósforo e os materiais fosforados;
+
+
+II –
+
+a gasolina e demais derivados de petróleo;
+
+
+III –
+
+os éteres, álcoois, a aguardente e os óleos em geral;
+
+
+IV –
+
+os carburetos, o alcatrão e as matérias betuminosas líquidas;
+
+
+V –
+
+toda e qualquer outra substância cujo ponto de inflamabilidade seja acima de 135º (centro e trinta e cinco graus centígrados).
+
+
+Art. 126.
+
+Consideram-se explosivos:
+
+
+I –
+
+os fogos de artifício;
+
+
+II –
+
+a nitroglicerina e seus compostos e derivados;
+
+
+III –
+
+a pólvora e o algodão-pólvora;
+
+
+IV –
+
+as espoletas e os estopins;
+
+
+V –
+
+os cartuchos de guerra; caça e minas.
+
+
+Art. 127.
+
+É absolutamente proibido:
+
+
+I –
+
+fabricar explosivos sem licença especial e em local não determinado pela Prefeitura;
+
+
+II –
+
+manter depósito de substâncias inflamáveis ou de explosivos sem atender às exigências legais, quanto à construção e segurança;
+
+
+III –
+
+depositar ou conservar nas vias públicas, mesmo provisoriamente, inflamáveis ou explosivos.
+
+
+§ 1º
+
+Aos varejistas é permitido conservar, em cômodos apropriados, em seus armazéns ou lojas a quantidade fixada pela Prefeitura, na respectiva licença, de material inflamável ou explosivo que não ultrapassar a venda provável de 20 (vinte) dias.
+
+
+§ 2º
+
+Os fogueteiros e exploradores de pedreiras poderão manter depósito de explosivos correspondentes ao consumo de 30 (trinta) dias, desde que os depósitos estejam localizados a uma distância mínima de 250m (duzentos e cinqüenta metros) da habitação mais próxima e a 150m (cento e cinqüenta metros) das ruas ou estradas.
+
+
+Art. 128.
+
+Os depósitos de explosivos e inflamáveis, só poderão ser construídos em locais especialmente designados na zona rural e com licença especial da Prefeitura.
+
+
+§ 1º
+
+Os depósitos serão dotados de instalação para combate ao fogo e de extintores de incêndio portáteis, em quantidade e disposição convenientes.
+
+
+§ 2º
+
+Todas as dependências e anexos dos depósitos de explosivos ou inflamáveis serão construídos de material incombustível, admitindo-se o emprego de outro material apenas nos caibros, ripas e esquadrias.
+
+
+Art. 129.
+
+Não será permitido o transporte de explosivos ou inflamáveis sem as precauções devidas.
+
+
+§ 1º
+
+Não poderão ser transportados simultaneamente, no mesmo veículo, explosivos e inflamáveis.
+
+
+§ 2º
+
+Os veículos que transportarem explosivos ou inflamáveis não poderá conduzir outras pessoas além do motorista e dos ajudantes.
+
+
+Art. 130.
+
+É expressamente proibido:
+
+
+I –
+
+queimar fogos de artifício, bombas, busca-pés, morteiros e outros fogos perigosos, nos logradouros públicos ou em janelas e portas que deitarem para os mesmos logradouros;
+
+
+II –
+
+soltar balões em toda a extensão do Município;
+
+
+III –
+
+fazer fogueiras, nos logradouros públicos, sem prévia autorização da Prefeitura;
+
+
+§ 1º
+
+A proibição de que tratam os itens I, II e III, poderá ser suspensa mediante licença da Prefeitura, em dias de regozijo público ou festividades religiosas de caráter tradicional.
+
+
+§ 2º
+
+Os casos previstos no § 1º serão regulamentados pela Prefeitura, que poderá inclusive estabelecer, para cada caso, as exigências que julgar necessárias ao interesse da segurança pública.
+
+
+Art. 131.
+
+A instalação de postos de abastecimentos de veículos, bombas de gasolina e depósitos de outros inflamáveis, fica sujeita a licença especial da Prefeitura Municipal.
+
+
+§ 1º
+
+A Prefeitura poderá negar a licença se reconhecer que a instalação do depósito ou da bomba irá prejudicar, de algum modo, a segurança pública.
+
+
+§ 2º
+
+A Prefeitura poderá estabelecer, para cada caso, as exigências que julgar necessárias ao interesse da segurança.
+
+
+##### Seção III — Dos Cemitérios
+
+
+Art. 132.
+
+Os cemitérios existentes no Município, tanto os particulares como os municipais deverão ter sua manutenção em conformidade com a Resolução 335 do Conselho Nacional do Meio Ambiente, e Resolução 19/04 da Secretaria Estadual do Meio Ambiente.
+
+
+Art. 133.
+
+Cabe à Administração Municipal, fiscalizar os serviços executados nos cemitérios particulares.
+
+
+#### CAPÍTULO VIII — DA NOMENCLATURA DOS LOGRADOUROS PÚBLICOS E DA NUMERAÇÃO PREDIAL
+
+
+##### Seção I — Da Nomenclatura de Vias e Logradouros Públicos
+
+
+Art. 134.
+
+As vias e/ou logradouros públicos receberão denominação conforme as seguintes alternativas:
+
+
+I –
+
+quando da elaboração e aprovação de loteamento novo, proposta pelo proprietário e aceita pelo Município;
+
+
+II –
+
+quando já existentes, através de Lei Municipal.
+
+
+Parágrafo único
+
+Quando se tratar da continuação de via já existente, seu prolongamento deverá ter a mesma nomenclatura.
+
+
+##### Seção II — Da Numeração Predial
+
+
+Art. 135.
+
+O sistema de numeração predial sempre obedecerá às seguintes normas:
+
+
+I –
+
+A numeração será par à direita e ímpar à esquerda, a partir do início do logradouro público;
+
+
+II –
+
+O número de cada edificação corresponderá à distância em metros, medidas desde o início do logradouro público, até o eixo central da unidade imobiliária.
+
+
+III –
+
+É obrigatória a colocação de placa de numeração em local que fique a mais de 2,50m (dois metros e cinqüenta centímetros) acima do nível da soleira da porta, e a uma distância menor que 10,00m (dez metros), em relação ao alinhamento.
+
+
+#### CAPÍTULO IX — DOS PROCEDIMENTOS E DAS PENAS
+
+
+##### Seção I — Das Considerações Gerais
+
+
+Art. 136.
+
+Constitui infração toda ação ou omissão contrária às disposições deste código ou de outras leis, decretos, resoluções ou atos baixados pelo Governo Municipal no uso do seu poder de fiscalização.
+
+
+Art. 137.
+
+Será considerado infrator todo aquele que cometer, mandar constranger ou auxiliar alguém a praticar infração e, os encarregados da execução das leis que, tendo conhecimento da infração, deixarem de autuar o infrator.
+
+
+Art. 138.
+
+A penalidade será judicialmente executada se, imposta de forma regular e pelos meios hábeis, o infrator se recusar a satisfazê-lo no prazo legal.
+
+
+Art. 139.
+
+A pena, além de impor a obrigação de fazer ou desfazer, será pecuniária e consistirá em multa, observados os limites máximos estabelecidos neste Código.
+
+
+§ 1º
+
+A multa não paga em prazo regulamentar será inscrita em dívida ativa.
+
+
+§ 2º
+
+Os infratores que estiverem em débito de multa não poderão receber quaisquer quantias ou créditos que tiverem com a Prefeitura, participar de concorrência, convite ou tomada de preços, celebrar contratos ou termos de qualquer natureza, ou transacionar a qualquer título, com a administração municipal.
+
+
+Art. 140.
+
+As multas serão impostas em grau mínimo, médio e máximo.
+
+
+§ 1º
+
+Na imposição da multa, e para graduá-la, ter-se-á em vista:
+
+
+I –
+
+A maior ou menor gravidade da infração;
+
+
+II –
+
+As suas circunstâncias atenuantes ou agravantes;
+
+
+III –
+
+Os antecedentes do infrator, com relação às disposições deste Código.
+
+
+§ 2º
+
+A infração de qualquer artigo deste Código, será imposta a multa correspondente, de 03(três) à 15 (quinze) U.F.M(Unidades Fiscais do Município), conforme os incisos dispostos no parágrafo primeiro deste artigo.
+
+
+§ 3º
+
+Serão observados ainda os seguintes dispositivos:
+
+
+I –
+
+restrição de incentivos e benefícios fiscais, quando concedidos pela Administração Municipal;
+
+
+II –
+
+cassação da licença de localização e funcionamento em se tratando de estabelecimento de natureza econômica.
+
+
+Art. 141.
+
+Nas reincidências, as multas serão cobradas em dobro.
+
+
+Parágrafo único
+
+Reincidente é o que violar preceito deste Código, por cuja infração já tiver sido autuado e punido em prazo não inferior a 30 (trinta) dias.
+
+
+Art. 142.
+
+As penalidades a que se refere este Código, não isentam o infrator da obrigação de reparar o dano resultante da infração, na forma da Lei.
+
+
+Parágrafo único
+
+aplicada a multa, não fica o infrator desobrigado do cumprimento da exigência que a houver determinado.
+
+
+Art. 143.
+
+Os débitos decorrentes de multa, não pagas nos prazos regulamentares, serão atualizados, nos seus valores monetários, na base dos coeficientes de correção monetária que estiverem em vigor na data de liquidação das importâncias devidas.
+
+
+Art. 144.
+
+Não são diretamente puníveis das penas definidas neste Código:
+
+
+I –
+
+os incapazes na forma da Lei;
+
+
+II –
+
+os que forem coagidos a cometerem a inflação.
+
+
+Art. 145.
+
+Sempre que a infração for praticada por qualquer dos agentes que se refere o artigo anterior, a pena recairá:
+
+
+I –
+
+sobre os pais, tutores ou pessoas sob cuja guarda estiver o menor;
+
+
+II –
+
+sobre o curador, ou pessoa sob cuja guarda estiver o deficiente mental;
+
+
+III –
+
+sobre aquele que causar contravenção forçada.
+
+
+##### Seção II — Da Notificação Preliminar
+
+
+Art. 146.
+
+Verificando-se ação ou omissão dolosa com relação a presente Lei ou regulamento que vier a ser baixado, será expedida contra o infrator, notificação para que, no prazo de 08 (oito) dias, regularize a situação.
+
+
+§ 1º
+
+Esgotado esse prazo, sem solução, lavrar-se-á o auto de infração.
+
+
+§ 2º
+
+Lavrar-se-á igualmente, auto de infração, quando o contribuinte se recusar a tomar conhecimento da Notificação Preliminar.
+
+
+Art. 147.
+
+A notificação preliminar será feita em forma destacada de talonário, no qual ficará cópia, com o “ciente” do notificado e conterá os elementos seguintes:
+
+
+I –
+
+nome do notificado;
+
+
+II –
+
+local, dia, hora da lavratura;
+
+
+III –
+
+descrição do fato que a motivou e indicação do dispositivo legal infringido;
+
+
+IV –
+
+determinação das providências a serem tomadas pelo notificado;
+
+
+V –
+
+assinatura do notificante.
+
+
+§ 1º
+
+A notificação será lavrada no local onde se verificar a infração, ainda que aí não resida o infrator.
+
+
+§ 2º
+
+Ao fiscalizado ou infrator dar-se-á cópia do termo, autenticado pela autoridade competente, contra recibo no original.
+
+
+Art. 148.
+
+Não caberá notificação preliminar, devendo o infrator ser imediatamente autuado:
+
+
+I –
+
+quando apanhado em flagrante infração;
+
+
+II –
+
+quando for encontrado no exercício de atividade sujeita às normas desta Lei sem cumprimento das condições nela determinada;
+
+
+III –
+
+Quando for manifesto o ânimo de cometer a infração;
+
+
+IV –
+
+Quando incidir nova falta antes de decorridos 06 (seis) meses contados da última notificação preliminar.
+
+
+##### Seção III — Do Auto de Infração
+
+
+Art. 149.
+
+Auto de infração é o instrumento por meio do qual a autoridade municipal apura a violação das disposições deste Código e de outras leis, decretos e regulamentos municipais.
+
+
+Art. 150.
+
+A verificação pelo agente administrativo da situação proibida ou vedada por este Código para a lavratura de auto de infração, na qual se assinala a irregularidade constatada.
+
+
+Art. 151.
+
+Dará motivo à lavratura do auto de infração qualquer violação de normas deste Código que for levada ao conhecimento do Prefeito, ou dos Chefes de Serviço, por qualquer servidor municipal, ou qualquer outra pessoa que a presenciar, devendo a comunicação estar acompanhada de prova ou devidamente testemunhada.
+
+
+Parágrafo único
+
+Recebendo tal comunicação a autoridade competente ordenará, sempre que couber, a lavratura do auto de infração.
+
+
+Art. 152.
+
+Qualquer do povo poderá autuar os infratores, devendo o auto respectivo, que será assinado por duas testemunhas, ser enviado à Prefeitura para fins de direito.
+
+
+Parágrafo único
+
+São autoridades para lavrar o auto de infração, os fiscais, ou outros funcionários para isso designados pelo prefeito.
+
+
+Art. 153.
+
+É autoridade para confirmar os autos de infração e arbitrar multas o Prefeito Municipal ou seu substituto legal, este quando em exercício.
+
+
+Art. 154.
+
+Os autos de infração, lavrados em modelos especiais, com precisão, sem entrelinhas, emendas ou rasuras, deverão conter obrigatoriamente:
+
+
+I –
+
+o dia, mês, ano, hora e lugar em que foi lavrado;
+
+
+II –
+
+o nome de quem lavrou, relatando-se com toda a clareza o fato constante da infração e os pormenores que possam servir de atenuantes ou agravantes à ação;
+
+
+III –
+
+o nome do infrator, sua profissão, idade, estado civil e residência;
+
+
+IV –
+
+a disposição infringida, a intimação ao infrator para pagar as multas devidas ou apresentar defesa e prova nos prazos previstos;
+
+
+V –
+
+a assinatura de quem lavrou, do infrator e de duas testemunhas capazes, se houver.
+
+
+§ 1º
+
+As omissões ou incorreções do auto de infração não acarretarão sua nulidade quando do processo constar elementos suficientes para a determinação da infração e do infrator.
+
+
+§ 2º
+
+A assinatura não constitui formalidade essencial à validade do auto de infração não implica em confissão, nem a recusa agravará a pena.
+
+
+Art. 155.
+
+Recusando-se o infrator a assinar o auto de infração, será tal recusa averbada no mesmo pela autoridade que o lavrar.
+
+
+##### Seção IV — Do Processo de Execução
+
+
+Art. 156.
+
+O infrator terá o prazo de 10 (dez) dias para apresentar defesa, constatados na lavratura do auto de infração.
+
+
+Parágrafo único
+
+A defesa far-se-á por petição ao Prefeito, facultada a anexação de documentos.
+
+
+Art. 157.
+
+Julgada improcedente, ou não sendo a defesa apresentada no prazo previsto, será imposta a multa ao infrator, o qual será intimado a recolhê-la dentro do prazo de 10 (dez) dias decorrido este prazo, será inscrito o débito em dívida ativa.
+
+
+#### CAPÍTULO X — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 158.
+
+As penalidades referentes às infrações serão definidas por Decreto Municipal.
+
+
+Art. 159.
+
+Os casos omissos no presente Código, serão estudados e julgados pelo órgão competente aplicando-se Leis, Decretos e Regulamentos Especiais.
+
+
+Art. 160.
+
+Este Código entrará em vigor na data de sua publicação.
+
+
+Art. 161.
+
+Ficam revogadas quaisquer disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 09 de agosto de 2012.
+
+ELIEZER JOSÉ FONTANA
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Jornal O Paraná nº 11.058 de 17/08/2012, pág. F6-F8 CI-1094755-E12.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/255/ta
+

@@ -1,0 +1,15 @@
+{
+  "host": "sapl.sertania.pe.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.sertania.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.sertania.pe.leg.br/7673432d72e3175b408ff70e7167f8623630d9b25e66dccf36023334e0d0f1c2.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.sertania.pe.leg.br/7673432d72e3175b408ff70e7167f8623630d9b25e66dccf36023334e0d0f1c2.meta.json"
+    }
+  ],
+  "total": 0
+}

@@ -1,0 +1,24 @@
+{
+  "documento": "municipais/BA/salvador/lei-organica/1990/lei-organica-salvador-1990.md",
+  "sha256": "b204ba9517ded8577db8409451e40723f44357ae6465151fe988b86b8f3a522b",
+  "pdf": "municipais/_fonte/capitais/salvador/lei-organica-consolidada-41-2024.pdf",
+  "sha256_fonte": "b98d10caff6d3f9ef053b101622f6d107b4ceda01c3a0cae9f187d3ca85f9598",
+  "paginas": 89,
+  "tokens_nativos_preservados": 29482,
+  "sequencia_caracteres_identica_layout_bbox": 85,
+  "paginas_com_ordem_conferida_visualmente": [
+    2,
+    39,
+    47,
+    64
+  ],
+  "cores": "22 caracteres coloridos registrados, sendo 20 espaços, um ponto e a letra o; 19 recortes vistos. Distinções documentadas sem decidir vigência pela cor.",
+  "marcador_reposicionado": {
+    "pagina": 47,
+    "preimagem": "         III – aos 61 (sessenta e um) anos de idade, se mulher, e aos 64 (sessenta e\n      (36)\n\nquatro)",
+    "posimagem": "      (36)\n         III – aos 61 (sessenta e um) anos de idade, se mulher, e aos 64 (sessenta e\nquatro)"
+  },
+  "criterio": "Todos os caracteres não brancos conferidos por página. Nas quatro páginas com diferença de fluxo, multiconjunto integral idêntico e ordem confirmada visualmente. Somente o marcador (36) foi reposicionado, com reversão exata. Nas demais páginas, sequência de caracteres idêntica, incluindo pontuação e números, independentemente da separação de palavras pelo bbox.",
+  "script_sha256": "2083c072971f6d9ecf1b840664321306bfa9248b51bf10dfcc3fcb33c8eb563f",
+  "limite": "Edição e corte são os da fonte oficial de 2024. A data da LO é atribuída à referência oficial auxiliar. Não certifica atualização posterior ou vigência integral."
+}

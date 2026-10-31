@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bomprincipiodopiaui.pi.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomprincipiodopiaui.pi.leg.br/b8215f3ad598d41400aa52fd42da7c4f7e0f80c1a544a8ee1bc2bd1697f94d84.json",
+    "url": "https://sapl.bomprincipiodopiaui.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bomprincipiodopiaui.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T19:36:00.804222-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomprincipiodopiaui.pi.leg.br/7d160a2b8279bf5a7952362adc31f911870a7f8348aef179bbe306024e9ccdab.json",
+    "url": "https://sapl.bomprincipiodopiaui.pi.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bomprincipiodopiaui.pi.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "db23adb642592bcc9f3e792a82557004ce4a3f2cffd50a3426369bd6baac3d31",
+    "bytes": 800,
+    "capturado_em": "2026-10-27T19:35:59.805890-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomprincipiodopiaui.pi.leg.br/063ae7dbbcc761798f8506eade68f78324ef74a3a704bf15764a0e084025fb51.json",
+      "url": "https://sapl.bomprincipiodopiaui.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bomprincipiodopiaui.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T19:36:02.765407-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

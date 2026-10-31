@@ -1,0 +1,30 @@
+[
+  {
+    "path": "municipais/PR/cambira/lei-organica/1990/lei-organica-1-1990-sapl-3.md",
+    "sha256": "2213482fcd3d920a1105ed6572bdc051e7a5a8eaa86e99747380344c25b01a04",
+    "lista_anterior": [
+      "20261020-gate-anexos-primeira-publicacao/aprovados.paths.txt"
+    ]
+  },
+  {
+    "path": "municipais/PR/tomazina/leis-ordinarias/2025/leis-ordinarias-639-2025-sapl-608.md",
+    "sha256": "7e64092b3408fa81d951d4f1119e7e8a2e015ec0e8937b0ff3881d9cc3e0008c",
+    "lista_anterior": [
+      "20261020-gate-anexos-primeira-publicacao/aprovados.paths.txt"
+    ]
+  },
+  {
+    "path": "municipais/PR/tomazina/leis-ordinarias/2025/leis-ordinarias-664-2025-sapl-634.md",
+    "sha256": "00ec0e7ce6d5cc9aa17f2dcbf2412a1fc1fcae98f2f432f2aa91cc142e6456ef",
+    "lista_anterior": [
+      "20261020-gate-anexos-primeira-publicacao/aprovados.paths.txt"
+    ]
+  },
+  {
+    "path": "municipais/GO/sao-miguel-do-passa-quatro/emendas-lei-organica/2022/emendas-lei-organica-1-2022-sapl-24.md",
+    "sha256": "0751552c980950474c003877644daafdc3b1314bea90cec805a88060d4581539",
+    "lista_anterior": [
+      "20261020-gate-anexos-primeira-publicacao/aprovados.paths.txt"
+    ]
+  }
+]

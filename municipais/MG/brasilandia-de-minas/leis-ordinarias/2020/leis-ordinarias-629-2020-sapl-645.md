@@ -1,0 +1,112 @@
+---
+titulo: "Lei Ordinária nº 629, de 08 de outubro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "629"
+data: "2020-10-08"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2023-09-26; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/645"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/567/text"
+sha256_fonte: "42ffa3f53c718918ff8d6191d889aefe1a9867d15d056a80a145d5ecd85a0637"
+sha256_texto: "06dfc8569634ebe514fe360013b3687ba0f1c180499c07915f697ff1d24693ba"
+capturado_em_fonte: "2026-10-27T19:42:29.219039-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 629, de 08 de outubro de 2020
+
+DISPÕE SOBRE A ESTRUTURAÇÃO TERRITORIAL ATRAVÉS DA DEFINIÇÃO DO PERÍMETRO URBANO DO MUNICIPIO DE BRASILÂNDIA DE MINAS
+
+
+O PREFEITO MUNICIPAL DE BRASILÂNDIA DE MINAS, Estado de Minas Gerais, no uso das atribuições que lhe conferem o art. 86, inciso II, da Lei Orgânica, faz saber que a Câmara Municipal aprova e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Esta Lei estabelece o Perímetro e Zoneamento Urbano da Sede do Município de Brasilândia de Minas/MG.
+
+
+Art. 2º.
+
+As disposições aplicar-se-ão às obras de infraestrutura, urbanização, reurbanização, construção, reconstrução, reforma e ampliação de edificações, instalação de usos e atividades, inclusive a aprovação de projetos, concessão de licenças para construção e de certidões de habite-se.
+
+
+Art. 3º.
+
+As normas contidas nesta Lei têm como objetivos:
+
+
+I –
+
+estabelecer critérios de ocupação e utilização do solo urbano, para que o Município e a Propriedade cumpram cada qual a sua função social;
+
+
+II –
+
+a ordenação e o controle do uso do solo, de forma a prevenir a proximidade de usos incompatíveis ou inconvenientes;
+
+
+III –
+
+orientar o crescimento da cidade visando à minimização dos impactos sobre as áreas ambientalmente frágeis;
+
+
+IV –
+
+controlar os impactos gerados pelas atividades sobre o território do Município, permitindo a compatibilização dos usos habitacionais e não habitacionais;
+
+
+V –
+
+a complementação e o detalhamento dos parâmetros para ocupação do solo;
+
+
+VI –
+
+promover a justa distribuição dos benefícios e ônus decorrentes do processo da urbanização, recuperando e transferindo para a população a valorização imobiliária proveniente da ação do Poder Público;
+
+
+VII –
+
+prevenir distorções e abusos na utilização econômica da propriedade, coibindo o uso especulativo de imóveis urbanos como reserva de valor, que resulte na sua subutilização ou não utilização, de modo a assegurar o cumprimento da função social da cidade.
+
+
+Art. 4º.
+
+Para fins urbanísticos e administrativos, o perímetro urbano do Município de Brasilândia de Minas é constituído da seguinte forma:
+
+
+I –
+
+começa no ponto onde o córrego dos Canudos deságua no rio Paracatu, subindo pela margem direita até a divisa da área 74 com área a 33, margeando pelo fundo da área 74, virando a direita até encontrar com o fundo da área 72, seguindo até o fundo da área 24, virando a direita até encontrar com a rua Daniel César Neto, seguindo pelo lado esquerdo desta até encontrar com a rodovia MG-181, seguindo pelo lado es- querdo da Rodovia MG-181 até alcançar a divisa do lado direito da parcela nº 06 Granja Pau Ferro, seguindo sentido a serra do Boqueirão por 452,50m, virando a direita, se- guindo por 58.94m até o ponto onde faz ângulo de 150,55°, seguindo por 52,75m, vi- rando a direita e seguindo por 451,25m até o córrego Extrema, seguindo pela margem do córrego Extrema até encontrar os primeiros confrontantes da serra do Boqueirão, margeando pela margem direita a serra do Boqueirão até a divisa da área 21 com a 22, seguindo pela divisa até a Rodovia LMG-667, seguindo por sua margem esquerda até o córrego Canudos, descendo pela margem direita deste até a ponte sobre o córrego Canudos, virando a esquerda sobre a ponte até encontrar o ponto P1 (N 8.118.061,480 Me E 393.355,450M), seguindo margeando a estrada municipal por 662,51m até a divisa do Lote 42 com o Lote 40, virando a direita margeando o Lote 40 por 274,78m até a divisa do Lote 42 com o Late 41, virando a direita margeando o Lote 41 por 504,76m até o córrego Canudos, seguindo pela margem esquerda do córrego Canudos até sua foz no rio Paracatu, ponto que teve início esta descrição.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 749, de 26 de setembro de 2023.
+
+
+II –
+
+Considera-se Área Urbana, a área parcelada e compreendida no perímetro descrito no inciso I, deste artigo.
+
+
+III –
+
+Considera-se Área de Expansão Urbana, a parte ainda não parcelada do Perímetro Urbano, destinada a expansão.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação revogando-se as disposições em contrário.
+
+
+Prefeitura Municipal de Brasilândia de Minas-MG, 08 de outubro de 2020.
+
+**MARDEN JÚNIOR TELES PEREIRA DA COSTA**
+
+**PREFEITO MUNICIPAL**
+

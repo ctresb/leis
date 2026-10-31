@@ -1,0 +1,15 @@
+{
+  "host": "sapl.mercedes.pr.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.mercedes.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.mercedes.pr.leg.br/add28ce2a639eff44a6497c10a2734e8de0bb85dbb8dea9304de4eac75ac977e.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.mercedes.pr.leg.br/add28ce2a639eff44a6497c10a2734e8de0bb85dbb8dea9304de4eac75ac977e.meta.json"
+    }
+  ],
+  "total": 0
+}

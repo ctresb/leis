@@ -1,0 +1,556 @@
+Dispõe sobre o uso do Sistema Eletrônico de Controle das Transações Vinculadas a Processos e Documentos, desenvolvido pelo Tribunal de Contas do Distrito Federal e cedido à Prefeitura do Município de Porto Velho e–TCDF / e–PMPV, para utilização no âmbito do Poder Executivo incluindo os Órgãos e as Entidades da Administração direta e indireta e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe confere no inciso IV do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+**CONSIDERANDO** a necessidade de normatizar e implantar o uso do meio eletrônico de controle das transações vinculadas a processos e documentos no âmbito dos Órgãos e Entidades da Administração Direta e Indireta;
+
+**CONSIDERANDO** o objetivo de assegurar a eficiência, a transparência, a sustentabilidade e a efetividade das ações governamentais;
+
+**CONSIDERANDO** o objetivo estratégico de modernizar a estrutura de Tecnologia da Informação (TI) da Prefeitura Municipal de Porto Velho, contemplando desde a necessidade de modernização da tramitação de documentos na Administração Pública Municipal, buscando a diminuição da compra e fluxo de papel, tonner e suplementos de impressora, a economia de gastos com transporte e guarda de processos, a fácil rastreabilidade dos documentos, a segurança, a confiabilidade e a integridade da informação;
+
+**CONSIDERANDO** o interesse em utilizar as ferramentas de Tecnologia da Informação e Comunicação como estratégia para desburocratizar a Administração Pública e torná–la mais célere, buscando ganhos de produtividade, redução de despesas e otimização de resultados; e,
+
+**CONSIDERANDO** as condições de cessão e uso dos sistemas e–TCDF (Sistema de Protocolo e Acompanhamento Processual Eletrônico) e SIGA (Sistema de Gerenciamento de Acessos), definidos no Termo de Cooperação Técnica n.º 01/2019, firmado entre a Prefeitura do Município de Porto Velho e o Tribunal de Contas do Distrito Federal (TCDF),
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica instituído o Sistema Eletrônico de Controle das Transações Vinculadas a Processos e Documentos (e–TCDF), desenvolvido pelo Tribunal de Contas do Distrito Federal e cedido à Prefeitura do Município de Porto Velho, como sistema oficial de tramitação de documentos, correspondências oficiais e processos administrativos no âmbito deste Poder Executivo, incluído Órgãos e Entidades da Administração Direta e Indireta.
+
+
+§ 1º
+
+O Sistema Eletrônico de Controle das Transações Vinculadas a Processos e Documentos (e–TCDF) passa a ser denominado e–PMPV no âmbito do Município de Porto Velho, preservando–se os direitos relativos à criação e autoria inerentes ao Tribunal de Contas do Distrito Federal (TCDF).
+
+
+§ 2º
+
+A abrangência das matérias a serem tramitadas pelo sistema eletrônico, objeto deste decreto, no âmbito do Instituto de Previdência e Assistência dos Servidores de Porto Velho (IPAM) será regulada por portaria de seu Diretor–Presidente
+
+
+§ 3º
+
+O e–PMPV é de uso obrigatório na tramitação de documentos e processos administrativos, observadas as regras de transição estabelecidas neste Decreto.
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 2º.
+
+Para efeitos deste Decreto são adotadas as seguintes definições:
+
+
+I –
+
+Documento: unidade de registro de informações, independente do formato, do suporte ou da natureza;
+
+
+II –
+
+Documento digital: documento codificado em dígitos binários, acessível por meio de sistema computacional, somente por equipamentos eletrônicos, podendo ser:
+
+
+a)
+
+documento nato–digital: documento criado originalmente em meio eletrônico;
+
+
+b)
+
+documento digitalizado: documento obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital; ou,
+
+
+c)
+
+processo administrativo eletrônico: aquele em que os atos processuais são registrados e disponibilizados em meio eletrônico.
+
+
+III –
+
+Meio eletrônico: qualquer forma de armazenamento ou tráfego de documentos e arquivos digitais.
+
+
+Art. 3º.
+
+Para o atendimento ao disposto neste Decreto, os Órgãos e Entidades da Administração Direta e Indireta utilizarão o e–PMPV para a gestão e o trâmite de todos os documentos e processos administrativos eletrônicos, desde a etapa da produção, tramitação, utilização e arquivamento até sua destinação final.
+
+
+Parágrafo único
+
+A partir da implementação do e–PMPV, as unidades utilizarão numeração única de processos, gerada automaticamente pelo sistema, nos moldes definidos neste Decreto, observada a estrutura: 00600.NNNNNNNN/AAAA–DD–e, cuja composição deverá conter o número fixo (00600), o número sequencial do processo (NNNNNNNN), o ano de abertura (AAAA) e dígito verificador (DD).
+
+
+Art. 4º.
+
+É facultado às unidades migrar os documentos e processos físicos, tramitados e em tramitação, para o sistema e–PMPV, fazendo–se o registro do procedimento.
+
+
+§ 1º
+
+Os processos e documentos gerados serão inseridos no e–PMPV somente no formato “PDF” (Portable Document Format).
+
+
+§ 2º
+
+O processo migrado será a peça inicial de um novo processo eletrônico no e–PMPV, juntando–se em ambos, processo físico e digital, a certidão constante no Anexo Único deste Decreto.
+
+
+Art. 5º.
+
+Na operacionalização do e–PMPV deverão ser observadas, no que couber, a legislação vigente, inclusive as normas básicas sobre o processo administrativo (Lei Complementar Municipal n.º 745, de 19 de dezembro de 2018), a adoção da Lei Geral de Proteção de Dados (Lei Federal n.º 13.709, de 14 de agosto de 2018 e o Decreto Municipal n.º 18.310, de 1º de agosto de 2022) e as diretrizes do Conselho Nacional de Arquivos (CONARQ).
+
+
+Art. 6º.
+
+Os documentos e processos administrativos recebidos e produzidos no âmbito do Poder Executivo, Órgãos e Entidades da Administração Direta e Indireta, deverão ser cadastrados no e–PMPV, de acordo com os seguintes níveis de acesso:
+
+
+I –
+
+visível na internet (público);
+
+
+II –
+
+visível somente na intranet;
+
+
+III –
+
+sigiloso (requer perfil);
+
+
+IV –
+
+restrito (requer carga); e,
+
+
+V –
+
+sigiloso e restrito.
+
+
+Art. 7º.
+
+O processo eletrônico dispensa a realização de procedimentos formais típicos de processo em papel, tais como: capeamento, criação de volumes, numeração de folhas, carimbos e a aposição de etiquetas.
+
+
+Parágrafo único
+
+Os documentos e processos eletrônicos produzidos ou inseridos no e–PMPV dispensam a sua formação e tramitação física.
+
+
+#### CAPÍTULO II — DAS COMPETÊNCIAS
+
+
+Art. 8º.
+
+Fica instituído o Comitê Gestor do Sistema Eletrônico de Controle das Transações Vinculadas a Processos e Documentos (e–PMPV) ao qual compete:
+
+
+I –
+
+Zelar pela contínua adequação do e–PMPV à legislação de gestão documental, às necessidades da Administração Pública Municipal;
+
+
+II –
+
+Acompanhar a adequada utilização do e–PMPV, salvaguardando pela integridade e qualidade de informações nele contidas;
+
+
+III –
+
+Promover a capacitação, realizar suporte operacional e orientar os servidores municipais quanto a utilização do e–PMPV;
+
+
+IV –
+
+Orientar os usuários externos quanto à utilização do e–PMPV; e
+
+
+V –
+
+Propor revisões das normas afetas ao processo eletrônico.
+
+
+§ 1º
+
+O Comitê Gestor do e–PMPV será composto por membros representantes dos seguintes órgãos e entidades:
+
+
+I –
+
+Secretaria Geral de Governo (SGG);
+
+
+II –
+
+Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI);
+
+
+III –
+
+Procuradoria Geral do Município (PGM); e,
+
+
+IV –
+
+Controladoria Geral do Município (CGM).
+
+
+§ 2º
+
+Os membros do Comitê serão designados por portaria pelos respectivos titulares de cada uma das unidades setoriais que o compõem.
+
+
+§ 3º
+
+O Comitê se reunirá em caráter ordinário, bimestralmente, e extraordinário, por convocação de cada um de seus integrantes, podendo ocorrer presencialmente ou por videoconferência.
+
+
+§ 4º
+
+As reuniões do Comitê ocorrerão, em primeira convocação, com a presença da maioria simples de seus membros ou, quinze minutos após a hora estabelecida, em segunda convocação, com apresentação de, no mínimo, um terço de seus membros.
+
+
+§ 5º
+
+As deliberações do Comitê serão aprovadas pela maioria simples dos membros presentes e o Coordenador que, além do voto regular também terá o voto de desempate.
+
+
+§ 6º
+
+O Comitê poderá convidar representantes de outros órgãos ou entidades, para participarem das reuniões, sem direito a voto, com propósito de contribuir para o entendimento das soluções que visem melhorias na implementação do sistema.
+
+
+§ 7º
+
+Das reuniões será lavrada ata em que constará a pauta, inclusive suas deliberações.
+
+
+§ 8º
+
+As funções de membro do Comitê não serão remuneradas, mas consideradas como serviço público relevante.
+
+
+Art. 9º.
+
+Compete a cada Órgão e Entidade da Administração Pública Municipal Direta e Indireta do Poder Executivo disponibilizar servidores previamente capacitados para prestar atendimento acerca do uso do Sistema no âmbito de sua unidade, em observância às orientações e manuais a serem disponibilizados em sítio eletrônico específico para tal.
+
+
+Art. 10.
+
+Compete à Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) manter o sistema operando de forma adequada, de acordo com as especificações estabelecidas pelos órgãos responsáveis pelo desenvolvimento do e–PMPV.
+
+
+Art. 11.
+
+A Controladoria Geral do Município (CGM), como Órgão Central do Sistema de Controle Interno, poderá promover auditorias no e–PMPV, objetivando agregar valor e aperfeiçoar a eficácia dos processos de governança, de gestão de riscos e de controle no alcance pela Administração Pública Municipal.
+
+
+#### CAPÍTULO III — DO ACESSO AO e–PMPV
+
+
+Art. 12.
+
+O acesso ao e–PMPV será por meio de senha pessoal e intransferível, podendo ser exigida certificação digital para processos de acesso restrito e sigiloso.
+
+
+Art. 13.
+
+Serão cadastrados como usuários do e–PMPV todos os servidores, estagiários e colaboradores dos Órgãos e Entidades da Administração Direta e Indireta, sendo atribuído a cada um o perfil de acesso adequado as atividades desempenhadas, conforme requisitado pela unidade.
+
+
+Art. 14.
+
+Os usuários externos, mediante credenciamento, poderão:
+
+
+I –
+
+Acompanhar o trâmite dos processos de seu interesse legal, mediante autorização da unidade responsável pela informação;
+
+
+II –
+
+Receber notificações; e
+
+
+III –
+
+Assinar eletronicamente documentos.
+
+
+Art. 15.
+
+O credenciamento de usuário externo dar–se–á com o deferimento de acesso pela autoridade competente, que será provocada via protocolização de petição de cadastro e acesso, que será disponibilizada no sítio oficial do sistema e–PMPV, em conjunto com a documentação que necessariamente deverá acompanhar a petição, a ser definida por meio de portaria da Secretaria Geral de Governo (SGG).
+
+
+#### CAPÍTULO IV — DA ABERTURA PROCESSUAL, CRIAÇÃO E DIGITALIZAÇÃO DE DOCUMENTOS
+
+
+Art. 16.
+
+O responsável pela abertura do processo deverá:
+
+
+I –
+
+escolher o tipo de processo adequado ao assunto, conforme nomenclatura existente no e–PMPV; e
+
+
+II –
+
+cadastrar as informações obrigatórias requeridas pelo e–PMPV.
+
+
+Art. 17.
+
+Os documentos administrativos do Poder Executivo serão elaborados no e–PMPV utilizando–se preferencialmente os modelos disponibilizados.
+
+
+Art. 18.
+
+Os documentos produzidos no e–PMPV serão assinados eletronicamente por meio de usuário e senha, ou certificado digital, observadas as normas de segurança e controle de uso.
+
+
+§ 1º
+
+A assinatura eletrônica é de uso pessoal e intransferível, sendo responsabilidade do titular o seu sigilo, cabendo à Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) adotar medidas de segurança que impeçam o hackeamento das senhas e usuários, por meio de ataques, invasões, vazamentos e softwares maliciosos, conforme dotações orçamentárias a serem previstas.
+
+
+§ 2º
+
+A assinatura realizada na forma do *caput* será considera válida para todos os efeitos legais, salvo apresentada prova em contrário no sentido de demonstrar cabalmente que houve uma violação da segurança do sistema.
+
+
+§ 3º
+
+O Prefeito, os titulares de órgãos e entidades e demais ordenadores de despesa, para fins de assinatura, poderão optar em realizá–la quando em trânsito, sem prejuízo de outras tarefas atribuídas ao seu substituto legal.
+
+
+§ 4º
+
+O disposto no § 3º, deste artigo, não se aplica nos casos em que o titular da assinatura estiver de férias ou outros afastamentos legais.
+
+
+Art. 19.
+
+O documento digital e o documento digitalizado a partir de documento original, capturados pelo e–PMPV, serão considerados válidos e produzirão todos os efeitos legais.
+
+
+Art. 20.
+
+Os formatos, extensões e tamanhos de arquivos admitidos pelo e–PMPV serão definidos pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI).
+
+
+Parágrafo único
+
+A Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) manterá suporte técnico para apresentar soluções de conversão de formatos/extensões não admitidos, bem como, de tamanhos de arquivos que por sua magnitude não possam ser carregados no e–TCDF/e–PMPV, disponibilizando suporte técnico presencial sempre que solicitada pelos titulares das unidades setoriais da Prefeitura de Porto Velho.
+
+
+Art. 21.
+
+O serviço de protocolo, após receber documentos externos em meio físico, ficará responsável por sua digitalização e inclusão no e–PMPV e arquivamento a critério da unidade.
+
+
+Parágrafo único
+
+O documento cuja digitalização seja tecnicamente inviável será:
+
+
+I –
+
+Identificado e a situação do documento certificada no e–PMPV;
+
+
+II –
+
+Incluído o resumo de seu conteúdo no e–PMPV; e
+
+
+III –
+
+Armazenado na unidade administrativa responsável pelo assunto, observada a tabela de temporalidade.
+
+
+#### CAPÍTULO V — DA TRAMITAÇÃO SIGILOSA OU RESTRITA
+
+
+Art. 22.
+
+O usuário que abrir o processo eletrônico sigiloso ou restrito deverá observar as disposições legais para a atribuição desta classificação.
+
+
+§ 1º
+
+A credencial de acesso poderá ser cassada pelo usuário que a concedeu ou renunciada pelo próprio usuário
+
+
+§ 2º
+
+A pessoa que tomar conhecimento de documento ou assunto sigiloso fica responsável pela manutenção do sigilo.
+
+
+#### CAPÍTULO VI — DOS DEVERES E DAS RESPONSABILIDADES
+
+
+Art. 23.
+
+São deveres dos usuários do e–PMPV:
+
+
+I –
+
+Utilizar adequadamente o sistema em sua unidade, abstendo–se de utilizá–lo para troca de mensagens, recados ou assuntos sem relação com as atividades institucionais.
+
+
+II –
+
+Guardar sigilo sobre fato ou informação de qualquer natureza de que tenha conhecimento por força de suas atribuições, ressalvadas aquelas de acesso público;
+
+
+III –
+
+Manter a cautela necessária na utilização do e–PMPV, a fim de evitar que pessoas não autorizadas pratiquem atos no sistema;
+
+
+IV –
+
+Quando viável, desde que não prejudique a saúde e produtividade, preferir trabalhar em meio digital ao invés de produzir impressões, contribuindo com a economicidade e sustentabilidade;
+
+
+V –
+
+Participar dos programas de capacitação referentes ao e–PMPV;
+
+
+VI –
+
+Disseminar em sua unidade o conhecimento adquirido nas ações de capacitação relacionados ao e–PMPV; e
+
+
+VII –
+
+Cumprir os regulamentos e manuais, dentre outros, que tratem de procedimentos específicos quanto à utilização do e–PMPV.
+
+
+Parágrafo único
+
+O uso inadequado do e–PMPV ensejará a responsabilização em consonância à legislação aplicável.
+
+
+#### CAPÍTULO VII — DA INCLUSÃO DOS DOCUMENTOS DIGITALIZADOS NO SISTEMA e–TCDF
+
+
+Art. 24.
+
+A inclusão dos documentos digitalizados no sistema e–PMPV compreende as seguintes etapas:
+
+
+I –
+
+verificação da conformidade entre as imagens presentes no arquivo digital e os documentos constantes do processo físico;
+
+
+II –
+
+preenchimento e inclusão da Certidão de Encerramento de Tramitação Física de Processo, conforme disposto no Anexo Único deste Decreto;
+
+
+III –
+
+inclusão do arquivo digital para cada volume do processo principal, do seu apenso e do seu anexo no sistema e–PMPV, conforme o caso, por meio da operação de captura;
+
+
+IV –
+
+autenticação dos documentos digitalizados com o uso de assinatura eletrônica.
+
+
+Art. 25.
+
+A inclusão dos documentos digitalizados no sistema e–PMPV pode ocorrer por volume ou peça, mediante a fragmentação do arquivo digital e identificação, à critério do titular de cada unidade setorial da Prefeitura de Porto Velho.
+
+
+#### CAPÍTULO VIII — DO ENCERRAMENTO DA TRAMITAÇÃO DO PROCESSO FÍSICO
+
+
+Art. 26.
+
+O encerramento da tramitação do processo físico se dá com a inclusão da Certidão de Encerramento de Tramitação Física de Processo no sistema e–PMPV, Anexo Único deste Decreto, devendo sua cópia ser juntada aos autos físicos.
+
+
+Art. 27.
+
+Após o encerramento da tramitação do processo físico, ele deve ser armazenado de acordo com os prazos de guarda estabelecidos pela Tabela de Temporalidade, definidos no sistema pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI).
+
+
+Art. 28.
+
+O processo físico encaminhado e apensado ao processo físico autuado pela Unidade Administrativa, após a juntada da Certidão de Encerramento de Tramitação Físico de Processo, deve ser devolvido à origem.
+
+
+Art. 29.
+
+Os documentos físicos eventualmente recebidos ou expedidos após o encerramento da tramitação do processo físico devem ser incluídos no sistema e–PMPV e preservados de acordo com os prazos de guarda estabelecidos pela Tabela de Temporalidade definidos no sistema pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI).
+
+
+#### CAPÍTULO IX — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 30.
+
+Em caso de falha ou inoperância do sistema e–PMPV, total ou parcial, os prazos administrativos que vencerem no dia da ocorrência serão automaticamente considerados como prorrogados para o primeiro dia útil seguinte.
+
+
+Parágrafo único
+
+A Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI) é o órgão responsável por atestar as falhas no funcionamento do e–PMPV.
+
+
+Art. 31.
+
+A não obtenção de acesso ou credenciamento no e–PMPV, bem como eventual defeito de transmissão ou recepção de dados e informações não imputáveis à falha do sistema, não servirão de escusa para o descumprimento de obrigações e prazos legais.
+
+
+Art. 32.
+
+Em caso de impossibilidade técnica de produção de documentos no e–PMPV, estes poderão ser produzidos em papel, com assinatura da autoridade competente, devendo ser, posteriormente, digitalizados, inseridos no e–PMPV e arquivados a critério da unidade.
+
+
+Art. 33.
+
+Os casos omissos serão resolvidos pela Comitê Gestor do Sistema Eletrônico de Controle das Transações Vinculadas a Processos e Documentos (e–PMPV).
+
+
+Art. 34.
+
+O e–PMPV entra em funcionamento, obrigatoriamente e para todas as unidades setoriais da Prefeitura de Porto Velho, 10 (dez) dias a partir da data publicação deste Decreto.
+
+
+Art. 35.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+***HILDON CHAVES LIMA***
+
+Prefeito
+
+
+## Anexo I — CERTIDÃO DE ENCERRAMENTO DE TRÂMITAÇÃO FÍSICA DE PROCESSO
+
+Certifico e dou fé que no dia / \_/ procedeu–se à migração do processo/documento n.º \_, com ( \_) volumes, para o Sistema Eletrônico de Controle das Transações Vinculadas a Processos e Documentos (e–PMPV), sob o n.º , conforme § 2º, do artigo 4º, do Decreto nº /2023, sendo a presente Certidão juntada em ambos os Processos.
+
+Certifico, ainda, que com a conversão, tramitação, transmissão de dados e prática de atos processuais, passam a ocorrer exclusivamente via e–TCDF/e–PMPV, sendo vedada a juntada de novos documentos físicos ao feito.
+
+Local e data.
+
+Unidade responsável.
+
+*Nome completo, assinatura e matrícula.*

@@ -1,0 +1,1257 @@
+{
+  "estado": "indice_completo",
+  "total": 120,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/2/leic8_14-anexoxiii.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/2/leic8_14-anexoxiii.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/3/lc7-anexoi.pdf da norma Lei Complementar nº 7, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/3/lc7-anexoi.pdf",
+      "ano": 2014,
+      "norma": 6921
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/4/lc7-anexoii.pdf da norma Lei Complementar nº 7, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/4/lc7-anexoii.pdf",
+      "ano": 2014,
+      "norma": 6921
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/5/lc7-anexoiii.pdf da norma Lei Complementar nº 7, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/5/lc7-anexoiii.pdf",
+      "ano": 2014,
+      "norma": 6921
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/6/lc7-anexoiv.pdf da norma Lei Complementar nº 7, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/6/lc7-anexoiv.pdf",
+      "ano": 2014,
+      "norma": 6921
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/7/lc7-anexov.pdf da norma Lei Complementar nº 7, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/7/lc7-anexov.pdf",
+      "ano": 2014,
+      "norma": 6921
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/8/lc7-anexovi.pdf da norma Lei Complementar nº 7, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/8/lc7-anexovi.pdf",
+      "ano": 2014,
+      "norma": 6921
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/9/lc7-anexovii.pdf da norma Lei Complementar nº 7, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/9/lc7-anexovii.pdf",
+      "ano": 2014,
+      "norma": 6921
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/10/lei_62-15_anexo_do_pme_-_atualizado_03.06.2019.pdf da norma Lei Ordinária nº 62, de 18 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2015/10/lei_62-15_anexo_do_pme_-_atualizado_03.06.2019.pdf",
+      "ano": 2015,
+      "norma": 7001
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/lei118_19anexo.pdf da norma Lei Ordinária nº 118, de 22 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2019/11/lei118_19anexo.pdf",
+      "ano": 2019,
+      "norma": 7982
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/lei153_19anexo.pdf da norma Lei Ordinária nº 153, de 05 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2019/14/lei153_19anexo.pdf",
+      "ano": 2019,
+      "norma": 8064
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/lei156_19anexo.pdf da norma Lei Ordinária nº 156, de 05 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2019/15/lei156_19anexo.pdf",
+      "ano": 2019,
+      "norma": 8065
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/lei155_19anexo.pdf da norma Lei Ordinária nº 155, de 05 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2019/16/lei155_19anexo.pdf",
+      "ano": 2019,
+      "norma": 8077
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/17/02_perimetro_-_sede.pdf da norma Lei Complementar nº 4, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/17/02_perimetro_-_sede.pdf",
+      "ano": 2014,
+      "norma": 6918
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/18/03_perimetro_-_pirapo.pdf da norma Lei Complementar nº 4, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/18/03_perimetro_-_pirapo.pdf",
+      "ano": 2014,
+      "norma": 6918
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/19/04_perimetro_-_vila_reis.pdf da norma Lei Complementar nº 4, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/19/04_perimetro_-_vila_reis.pdf",
+      "ano": 2014,
+      "norma": 6918
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/20/05_perimetro_-_correia_de_freitas.pdf da norma Lei Complementar nº 4, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/20/05_perimetro_-_correia_de_freitas.pdf",
+      "ano": 2014,
+      "norma": 6918
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/21/06_perimetro_-_caixa_de_sao_pedro.pdf da norma Lei Complementar nº 4, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/21/06_perimetro_-_caixa_de_sao_pedro.pdf",
+      "ano": 2014,
+      "norma": 6918
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/22/07_perimetro_-_sao_domingos.pdf da norma Lei Complementar nº 4, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/22/07_perimetro_-_sao_domingos.pdf",
+      "ano": 2014,
+      "norma": 6918
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/23/plc_03_-_pd_-_01_macrozoneamento.pdf da norma Lei Complementar nº 3, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/23/plc_03_-_pd_-_01_macrozoneamento.pdf",
+      "ano": 2014,
+      "norma": 6917
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/24/plc_03_-_pd_-_02_macro_-_sede.pdf da norma Lei Complementar nº 3, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/24/plc_03_-_pd_-_02_macro_-_sede.pdf",
+      "ano": 2014,
+      "norma": 6917
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/25/plc_03_-_pd_-_03_macro_-_pirapo.pdf da norma Lei Complementar nº 3, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/25/plc_03_-_pd_-_03_macro_-_pirapo.pdf",
+      "ano": 2014,
+      "norma": 6917
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/26/plc_03_-_pd_-_04_macro_-_vila_reis.pdf da norma Lei Complementar nº 3, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/26/plc_03_-_pd_-_04_macro_-_vila_reis.pdf",
+      "ano": 2014,
+      "norma": 6917
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/27/plc_03_-_pd_-_05_macro_-_correia_de_freitas.pdf da norma Lei Complementar nº 3, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/27/plc_03_-_pd_-_05_macro_-_correia_de_freitas.pdf",
+      "ano": 2014,
+      "norma": 6917
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/28/plc_03_-_pd_-_06_macro_-_caixa_de_sao_pedro.pdf da norma Lei Complementar nº 3, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/28/plc_03_-_pd_-_06_macro_-_caixa_de_sao_pedro.pdf",
+      "ano": 2014,
+      "norma": 6917
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/29/plc_03_-_pd_-_07_macro_-_sao_domingos.pdf da norma Lei Complementar nº 3, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/29/plc_03_-_pd_-_07_macro_-_sao_domingos.pdf",
+      "ano": 2014,
+      "norma": 6917
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/30/plc_005_anexo_i_tabelas_de_uso_e_ocupacao_final.pdf da norma Lei Complementar nº 5, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/30/plc_005_anexo_i_tabelas_de_uso_e_ocupacao_final.pdf",
+      "ano": 2014,
+      "norma": 6919
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/31/plc_05_-_us_-_02_uso_do_solo_-_sede.pdf da norma Lei Complementar nº 5, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/31/plc_05_-_us_-_02_uso_do_solo_-_sede.pdf",
+      "ano": 2014,
+      "norma": 6919
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/32/plc_05_-_us_-_03_uso_do_solo_-_pirapo.pdf da norma Lei Complementar nº 5, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/32/plc_05_-_us_-_03_uso_do_solo_-_pirapo.pdf",
+      "ano": 2014,
+      "norma": 6919
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/33/plc_05_-_us_-_04_uso_do_solo_-_vila_reis.pdf da norma Lei Complementar nº 5, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/33/plc_05_-_us_-_04_uso_do_solo_-_vila_reis.pdf",
+      "ano": 2014,
+      "norma": 6919
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/34/plc_05_-_us_-_05_uso_do_solo_-_correia_de_freitas.pdf da norma Lei Complementar nº 5, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/34/plc_05_-_us_-_05_uso_do_solo_-_correia_de_freitas.pdf",
+      "ano": 2014,
+      "norma": 6919
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/35/plc_05_-_us_-_06_uso_do_solo_-_caixa_de_sao_pedro.pdf da norma Lei Complementar nº 5, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/35/plc_05_-_us_-_06_uso_do_solo_-_caixa_de_sao_pedro.pdf",
+      "ano": 2014,
+      "norma": 6919
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/36/plc_05_-_us_-_07_uso_do_solo_-_sao_domingos.pdf da norma Lei Complementar nº 5, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/36/plc_05_-_us_-_07_uso_do_solo_-_sao_domingos.pdf",
+      "ano": 2014,
+      "norma": 6919
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/37/plc_008_anexo_xiii_gabarito_das_vias_final.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/37/plc_008_anexo_xiii_gabarito_das_vias_final.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/38/plc_08_-_sv_-_01_hierarquia_-_sede.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/38/plc_08_-_sv_-_01_hierarquia_-_sede.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/39/plc_08_-_sv_-_02_hierarquia_-_pirapo.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/39/plc_08_-_sv_-_02_hierarquia_-_pirapo.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/40/plc_08_-_sv_-_03_hierarquia_-_vila_reis.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/40/plc_08_-_sv_-_03_hierarquia_-_vila_reis.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/41/plc_08_-_sv_-_04_hierarquia_-_correias_de_freitas.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/41/plc_08_-_sv_-_04_hierarquia_-_correias_de_freitas.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/42/plc_08_-_sv_-_05_hierarquia_-_caixa_de_sao_pedro.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/42/plc_08_-_sv_-_05_hierarquia_-_caixa_de_sao_pedro.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/43/plc_08_-_sv_-_06_hierarquia_-_sao_domingos.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/43/plc_08_-_sv_-_06_hierarquia_-_sao_domingos.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/44/plc_08_-_sv_-_07_diretrizes_-_sede.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/44/plc_08_-_sv_-_07_diretrizes_-_sede.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/45/plc_08_-_sv_-_08_diretrizes_-_pirapo.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/45/plc_08_-_sv_-_08_diretrizes_-_pirapo.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/46/plc_08_-_sv_-_09_diretrizes_-_vila_reis.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/46/plc_08_-_sv_-_09_diretrizes_-_vila_reis.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/47/plc_08_-_sv_-_10_diretrizes_-_correia_de_freitas.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/47/plc_08_-_sv_-_10_diretrizes_-_correia_de_freitas.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/48/plc_08_-_sv_-_11_diretrizes_-_caixa_de_sao_pedro.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/48/plc_08_-_sv_-_11_diretrizes_-_caixa_de_sao_pedro.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/49/plc_08_-_sv_-_12_diretrizes_-_sao_domingos.pdf da norma Lei Complementar nº 8, de 19 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2014/49/plc_08_-_sv_-_12_diretrizes_-_sao_domingos.pdf",
+      "ano": 2014,
+      "norma": 6922
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/50/lei33_20anexo.pdf da norma Lei Ordinária nº 33, de 03 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2020/50/lei33_20anexo.pdf",
+      "ano": 2020,
+      "norma": 8251
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/51/anexo.pdf da norma Lei Ordinária nº 126, de 20 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/1995/51/anexo.pdf",
+      "ano": 1995,
+      "norma": 1477
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/52/lei70_20anexo.pdf da norma Lei Ordinária nº 70, de 26 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Demonstração da Receita e Despesa Segundo as Categorias Econômicas",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2020/52/lei70_20anexo.pdf",
+      "ano": 2020,
+      "norma": 8345
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/53/lei73_20anexo.pdf da norma Lei Ordinária nº 73, de 26 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Anexo de Metas Fiscais",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2020/53/lei73_20anexo.pdf",
+      "ano": 2020,
+      "norma": 8346
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/54/lei26_96errata.pdf da norma Lei Ordinária nº 26, de 15 de maio de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/1996/54/lei26_96errata.pdf",
+      "ano": 1996,
+      "norma": 976
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/56/pl50_21anexol.pdf da norma Lei Ordinária nº 94, de 09 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Estimativa das Receitas",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2021/56/pl50_21anexol.pdf",
+      "ano": 2021,
+      "norma": 8645
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/57/pl50_21anexoll.pdf da norma Lei Ordinária nº 94, de 09 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Programas Governamentais - Objetivos / Indicadores / Custos",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2021/57/pl50_21anexoll.pdf",
+      "ano": 2021,
+      "norma": 8645
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/58/pl50_21anexolll.pdf da norma Lei Ordinária nº 94, de 09 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Estrutura de Órgãos, Unidades Orçamentárias e Executoras",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2021/58/pl50_21anexolll.pdf",
+      "ano": 2021,
+      "norma": 8645
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/59/pl50_21anexolv.pdf da norma Lei Ordinária nº 94, de 09 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Metas das Ações dos Programas de Governo",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2021/59/pl50_21anexolv.pdf",
+      "ano": 2021,
+      "norma": 8645
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/60/pl50_21anexov.pdf da norma Lei Ordinária nº 94, de 09 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Identificação das Ações",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2021/60/pl50_21anexov.pdf",
+      "ano": 2021,
+      "norma": 8645
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/61/pl146_21anexo.pdf da norma Lei Ordinária nº 119, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2021/61/pl146_21anexo.pdf",
+      "ano": 2021,
+      "norma": 8693
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1969/62/projeto_de_lei.pdf da norma Lei Ordinária nº 44, de 22 de outubro de 1969",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/1969/62/projeto_de_lei.pdf",
+      "ano": 1969,
+      "norma": 3155
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1969/63/publicacao.pdf da norma Lei Ordinária nº 44, de 22 de outubro de 1969",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/1969/63/publicacao.pdf",
+      "ano": 1969,
+      "norma": 3155
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/64/lei112_17_-_anexoi.pdf da norma Lei Ordinária nº 112, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/64/lei112_17_-_anexoi.pdf",
+      "ano": 2017,
+      "norma": 7545
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/65/lei112_17_-_anexoii_-_qdd.pdf da norma Lei Ordinária nº 112, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/65/lei112_17_-_anexoii_-_qdd.pdf",
+      "ano": 2017,
+      "norma": 7545
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/66/lei112_17_-_anexoiii.pdf da norma Lei Ordinária nº 112, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/66/lei112_17_-_anexoiii.pdf",
+      "ano": 2017,
+      "norma": 7545
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/67/lei112_17_-_anexoiv.pdf da norma Lei Ordinária nº 112, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/67/lei112_17_-_anexoiv.pdf",
+      "ano": 2017,
+      "norma": 7545
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/68/lei111_17_anexo1.pdf da norma Lei Ordinária nº 111, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativo da Estimativa da Receita",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/68/lei111_17_anexo1.pdf",
+      "ano": 2017,
+      "norma": 7544
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/69/lei111_17_anexo2.pdf da norma Lei Ordinária nº 111, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Descrição dos Programas de Governo",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/69/lei111_17_anexo2.pdf",
+      "ano": 2017,
+      "norma": 7544
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/70/lei111_17_anexo3.pdf da norma Lei Ordinária nº 111, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Programas de Governo",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/70/lei111_17_anexo3.pdf",
+      "ano": 2017,
+      "norma": 7544
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/71/lei111_17_anexo4.pdf da norma Lei Ordinária nº 111, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Estrutura de Órgãos, Unidades Orçamentárias e Executoras",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/71/lei111_17_anexo4.pdf",
+      "ano": 2017,
+      "norma": 7544
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/lei37_22anexo.pdf da norma Lei Ordinária nº 37, de 30 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Anexo de Metas Fiscais",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2022/72/lei37_22anexo.pdf",
+      "ano": 2022,
+      "norma": 8772
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/73/dl10_22oficios.pdf da norma Decreto Legislativo nº 10, de 28 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Envio do Decreto Legislativo 10/22 - Reprovação de constas municipais - Exercício 2005",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2022/73/dl10_22oficios.pdf",
+      "ano": 2022,
+      "norma": 8784
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/74/lei17_17errata.pdf da norma Lei Ordinária nº 17, de 11 de abril de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/74/lei17_17errata.pdf",
+      "ano": 2017,
+      "norma": 7299
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/75/lei120_17anexo.pdf da norma Lei Ordinária nº 120, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2017/75/lei120_17anexo.pdf",
+      "ano": 2017,
+      "norma": 7536
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/77/ato_41_tabela_de_vencimentos.pdf da norma Atos da Presidência nº 41, de 24 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2023/77/ato_41_tabela_de_vencimentos.pdf",
+      "ano": 2023,
+      "norma": 8923
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/78/carta_de_servicos_ao_cidadao_2023-.pdf da norma Atos da Presidência nº 39, de 23 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2023/78/carta_de_servicos_ao_cidadao_2023-.pdf",
+      "ano": 2023,
+      "norma": 8921
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/79/anexo_lei_i.pdf da norma Lei Ordinária nº 90, de 16 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2023/79/anexo_lei_i.pdf",
+      "ano": 2023,
+      "norma": 9382
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/80/anexo_lei_ii.pdf da norma Lei Ordinária nº 90, de 16 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2023/80/anexo_lei_ii.pdf",
+      "ano": 2023,
+      "norma": 9382
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/81/anexo_lei_iii.pdf da norma Lei Ordinária nº 90, de 16 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2023/81/anexo_lei_iii.pdf",
+      "ano": 2023,
+      "norma": 9382
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/82/anexo_lei_iv.pdf da norma Lei Ordinária nº 90, de 16 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2023/82/anexo_lei_iv.pdf",
+      "ano": 2023,
+      "norma": 9382
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/83/lei_no_187_05.pdf da norma Lei Ordinária nº 187, de 23 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2005/83/lei_no_187_05.pdf",
+      "ano": 2005,
+      "norma": 4349
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/84/carta_de_servico_ao_cidadao.pdf da norma Atos da Presidência nº 116, de 26 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/84/carta_de_servico_ao_cidadao.pdf",
+      "ano": 2025,
+      "norma": 9928
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/85/carta_de_servicos_ao_cidadao.pdf da norma Atos da Presidência nº 116, de 26 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/85/carta_de_servicos_ao_cidadao.pdf",
+      "ano": 2025,
+      "norma": 9928
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/86/lei_67_anexos_2.pdf da norma Lei Ordinária nº 67, de 26 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/86/lei_67_anexos_2.pdf",
+      "ano": 2025,
+      "norma": 9932
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/87/pr02-2025anexo.pdf da norma Resolução nº 2, de 15 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Descrição e especificações dos cargos de provimento em comissão.",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/87/pr02-2025anexo.pdf",
+      "ano": 2025,
+      "norma": 9712
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/90/ata_junta_eleitoral.pdf da norma Atos da Presidência nº 152, de 14 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/90/ata_junta_eleitoral.pdf",
+      "ano": 2025,
+      "norma": 10004
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/91/ata_junta_eleitoral.pdf da norma Atos da Presidência nº 153, de 14 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/91/ata_junta_eleitoral.pdf",
+      "ano": 2025,
+      "norma": 10005
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/93/port_271_2025_ams.pdf da norma Atos da Presidência nº 164, de 31 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/93/port_271_2025_ams.pdf",
+      "ano": 2025,
+      "norma": 10025
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/94/lei_68_25.pdf da norma Lei Ordinária nº 68, de 09 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/94/lei_68_25.pdf",
+      "ano": 2025,
+      "norma": 9979
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/95/pub._leg.__errata_resolucao_no_02_25.pdf da norma Resolução nº 2, de 15 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/95/pub._leg.__errata_resolucao_no_02_25.pdf",
+      "ano": 2025,
+      "norma": 9712
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/96/pub._legal_leis_69_a_71_25.pdf da norma Lei Ordinária nº 69, de 13 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/96/pub._legal_leis_69_a_71_25.pdf",
+      "ano": 2025,
+      "norma": 9968
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/97/pub._legal_leis_69_a_71_25.pdf da norma Lei Ordinária nº 70, de 13 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/97/pub._legal_leis_69_a_71_25.pdf",
+      "ano": 2025,
+      "norma": 9969
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/98/pub._legal_leis_69_a_71_25.pdf da norma Lei Ordinária nº 71, de 13 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/98/pub._legal_leis_69_a_71_25.pdf",
+      "ano": 2025,
+      "norma": 9980
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/99/pub._leg._lei_72_25.pdf da norma Lei Ordinária nº 72, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/99/pub._leg._lei_72_25.pdf",
+      "ano": 2025,
+      "norma": 9967
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/100/pub._leg._lc_06_25.pdf da norma Lei Complementar nº 6, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/100/pub._leg._lc_06_25.pdf",
+      "ano": 2025,
+      "norma": 9984
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/101/pub._leg._resolucoes_22_e_23_25.pdf da norma Resolução nº 22, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/101/pub._leg._resolucoes_22_e_23_25.pdf",
+      "ano": 2025,
+      "norma": 9958
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/102/pub._leg._resolucoes_22_e_23_25.pdf da norma Resolução nº 23, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/102/pub._leg._resolucoes_22_e_23_25.pdf",
+      "ano": 2025,
+      "norma": 9959
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/103/pub._leg._leis_74_e_76_25.pdf da norma Lei Ordinária nº 74, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/103/pub._leg._leis_74_e_76_25.pdf",
+      "ano": 2025,
+      "norma": 9972
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/104/pub._leg._leis_73_e_75_25.pdf da norma Lei Ordinária nº 73, de 18 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/104/pub._leg._leis_73_e_75_25.pdf",
+      "ano": 2025,
+      "norma": 9981
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/105/pub._leg._leis_73_e_75_25.pdf da norma Lei Ordinária nº 75, de 18 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/105/pub._leg._leis_73_e_75_25.pdf",
+      "ano": 2025,
+      "norma": 9982
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/106/pub._leg._leis_74_e_76_25.pdf da norma Lei Ordinária nº 76, de 18 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/106/pub._leg._leis_74_e_76_25.pdf",
+      "ano": 2025,
+      "norma": 9983
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/107/lei_o_78_25.pdf da norma Lei Ordinária nº 78, de 23 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/107/lei_o_78_25.pdf",
+      "ano": 2025,
+      "norma": 9971
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/108/lei_no_77_25.pdf da norma Lei Ordinária nº 77, de 16 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/108/lei_no_77_25.pdf",
+      "ano": 2025,
+      "norma": 9970
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/109/lei_no_80_25.pdf da norma Lei Ordinária nº 80, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/109/lei_no_80_25.pdf",
+      "ano": 2025,
+      "norma": 9973
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/110/lei_no_79_25.pdf da norma Lei Ordinária nº 79, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/110/lei_no_79_25.pdf",
+      "ano": 2025,
+      "norma": 9974
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/111/pub._leg._resolucoes_26_e_27_25.pdf da norma Resolução nº 26, de 28 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/111/pub._leg._resolucoes_26_e_27_25.pdf",
+      "ano": 2025,
+      "norma": 10020
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/112/pub._leg._resolucoes_26_e_27_25.pdf da norma Resolução nº 27, de 28 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/112/pub._leg._resolucoes_26_e_27_25.pdf",
+      "ano": 2025,
+      "norma": 10021
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/113/regimento_interno_escola_do_legislativo.pdf da norma Resolução nº 27, de 28 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Danylo Fernando Acioli Machado:071.490.469-40 2",
+                [
+                  "2025-08-18T17:58:56-03:00",
+                  "MUNICIPIO DE APUCARANA"
+                ]
+              ],
+              [
+                "Eliana de Lourdes Lima Rocha:993.413.799-20 3",
+                [
+                  "2025-08-18T18:02:30-03:00",
+                  "MUNICIPIO DE APUCARANA"
+                ]
+              ],
+              [
+                "Guilherme Mercadante Livoti:063.903.399-76 1",
+                [
+                  "2025-08-18T17:30:11-03:00",
+                  "MUNICIPIO DE APUCARANA"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/113/regimento_interno_escola_do_legislativo.pdf",
+      "ano": 2025,
+      "norma": 10021
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/114/lei147_26-a1.pdf da norma Lei Ordinária nº 147, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/114/lei147_26-a1.pdf",
+      "ano": 2026,
+      "norma": 10331
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/115/lei147_26-a2.pdf da norma Lei Ordinária nº 147, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/115/lei147_26-a2.pdf",
+      "ano": 2026,
+      "norma": 10331
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/116/lei147_26-a3.pdf da norma Lei Ordinária nº 147, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/116/lei147_26-a3.pdf",
+      "ano": 2026,
+      "norma": 10331
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/117/lei147_26-a4.pdf da norma Lei Ordinária nº 147, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/117/lei147_26-a4.pdf",
+      "ano": 2026,
+      "norma": 10331
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/118/lei148_26-a1.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/118/lei148_26-a1.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/119/lei148_26-a2.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/119/lei148_26-a2.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/120/lei148_26-a3.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/120/lei148_26-a3.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/121/lei148_26-a4.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/121/lei148_26-a4.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/122/lei148_26-a5.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/122/lei148_26-a5.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/123/lei148_26-a6.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/123/lei148_26-a6.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/124/lei148_26-a7.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/124/lei148_26-a7.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/125/lei148_26-a8.pdf da norma Lei Ordinária nº 148, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2026/125/lei148_26-a8.pdf",
+      "ano": 2026,
+      "norma": 10332
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/126/carta_de_servicos_ao_cidadao_2026.pdf da norma Atos da Presidência nº 116, de 26 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "Carta de serviços ao cidadão de 2026",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2025/126/carta_de_servicos_ao_cidadao_2026.pdf",
+      "ano": 2025,
+      "norma": 9928
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/127/lei_219_de_2026_-_correcao_do_cnpj.pdf da norma Lei Ordinária nº 86, de 10 de setembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "O número do CNPJ estava incorreto, foi feita a devida correção.",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/2004/127/lei_219_de_2026_-_correcao_do_cnpj.pdf",
+      "ano": 2004,
+      "norma": 1122
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1984/128/lei_68_ciccak.pdf da norma Lei Ordinária nº 23, de 23 de maio de 1984",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "ALTERAÇÃO DA DENOMINAÇÃO ATRAVÉS DA LEI 68/2007.",
+      "anexo_arquivo": "http://sapl.apucarana.pr.leg.br/media/sapl/public/anexonormajuridica/1984/128/lei_68_ciccak.pdf",
+      "ano": 1984,
+      "norma": 2213
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.apucarana.pr.leg.br/c43545895f187b2b528c0dc4ae7e4b699cd0e39e20e18a145285bfef0ca1131d.json",
+      "url": "https://sapl.apucarana.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.apucarana.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a6d3ab4768b7609f5fc9840e8c483fec20aba1264e4d12301ac24372ac80d134",
+      "bytes": 40581,
+      "capturado_em": "2026-10-27T16:46:50.121852-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.apucarana.pr.leg.br/cad69da341fc4b55859696841501fea19a9d31fde98fa18539a6b49c4b671bbb.json",
+      "url": "https://sapl.apucarana.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "url_final": "https://sapl.apucarana.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "685a90093be610a325e760c790f4962ac10817aa2e465dd5f16777b1e6a8579e",
+      "bytes": 8576,
+      "capturado_em": "2026-10-27T16:46:50.862744-03:00"
+    }
+  ]
+}

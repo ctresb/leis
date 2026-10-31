@@ -1,0 +1,44 @@
+---
+titulo: "DECRETO Nº 020/GPMU DE 02 DE JANEIRO DE 2026."
+uf: "AM"
+municipio: "URUCURITUBA"
+tipo: "Decreto"
+numero: "020"
+data: 2026-01-02
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/01/2026"
+data_publicacao: 2026-01-12
+codigo_identificador: "32DDBC3A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118772_2026-01-09_c2bddf12eb6966e53a35316cdbaaa435.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 020/GPMU DE 02 DE JANEIRO DE 2026.
+
+DECRETO Nº 020/GPMU DE 02 DE JANEIRO DE 2026.
+Dispõe sobre a nomeação de servidora em cargo de
+provimentos em comissão, na forma que indica e
+adota outras providencias.
+O PREFEITO MUNICIPAL DE URUCURITUBA, Estado do
+Amazonas, por eleição constitucional, usando de atribuições
+conferidas pelo Art. 71, Inciso III,da Lei Orgânica do Município.
+CONSIDERANDO o disposto na Lei nº 26 de março de 2020 e Lei
+Municipal nº 15 de 29/11/1993;
+CONSIDERANDO, que os cargos de provimentos em comissão são
+de livre nomeação e exoneração, constante no Art. 37, inciso II da
+Constituição Federal;
+R E S O L V E:
+Art. 1º - NOMEAR na forma da Lei, a senhora, WALESCA DE
+CASTRO GOMES, inscrita no CPF nº ***.799.652**, para exercer
+o cargo em comissão de ASSISTENTE TÉCNICO da Ouvidoria da
+Prefeitura Municipal de Urucurituba-Am.
+Art. 2º - Este decreto entrará em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+GABINETE DO PREFEITO MUNICIPAL DE URUCURITUBA,
+em Urucurituba-Am, 02 de Janeiro de 2026.
+LEONCIO ANTONIO TUNDIS CARVALHO
+Prefeito Municipal
+Publicado no quadro de aviso da Prefeitura Municipal de Urucurituba.
+Publicado por:
+Francisco Carlos Dos Santos

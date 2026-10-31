@@ -1,0 +1,118 @@
+---
+titulo: "DECRETO Nº 2.731/2026. DE 27 DE AGOSTO DE 2026."
+uf: "RO"
+municipio: "RIO CRESPO"
+tipo: "Decreto"
+numero: "2731"
+data: 2026-08-27
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 28/08/2026"
+data_publicacao: 2026-08-28
+codigo_identificador: "EEFEB5AC"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116140_2026-08-27_e35df92daa7d53a835bceca847d38d1a.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 2.731/2026. DE 27 DE AGOSTO DE 2026.
+
+DECRETO Nº 2.731/2026. DE 27 DE AGOSTO DE 2026.
+―Abre no orçamento vigente crédito adicional especial e da outras providências.‖
+DECRETA:
+Art. 1º - Fica aberto no orçamento vigente um Crédito Adicional Suplementar por Superávit Financeiro, no valor de R$ 1.500.000,00 (um milhão e
+quinhentos mil reais), destinado à Secretaria Municipal de Saúde, visando à suplementação parcial das dotações orçamentárias necessárias ao
+atendimento das despesas com pessoal, conforme as dotações e elementos de despesa discriminados abaixo:
+Suplementação ( + ) 1.500.000,00
+Superávit Financeiro
+02 10 01 Secretaria Municipal de Saúde
+401
+
+10.301.0008.2049.0000
+
+SAÚDE PARA TODOS – ACESSO, QUALIDADE E HUMANIZAÇ
+OPERACIONALIDADE DA ATENÇÃO PRIMÁRIA UBS
+
+www.diariomunicipal.com.br/arom
+
+230.000,00
+F.R.: 15 2 500
+
+259
+
+Rondônia , 28 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4308
+
+402
+
+3.1.90.11.00
+2
+003 500
+10.301.0008.2049.0000
+
+403
+
+3.1.90.13.00
+2
+003 500
+10.302.0008.2050.0000
+
+404
+
+3.1.90.11.00
+2
+003 500
+03.302.0008.2050.0000
+
+405
+
+3.1.90.11.00
+2
+003 500
+10.302.0008.2050.0000
+3.3.90.48.00
+2
+003 500
+
+VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+Recursos de Exercícios Anteriores
+Recursos não Vinculados de Impostos
+SAÚDE PARA TODOS – ACESSO, QUALIDADE E HUMANIZAÇ
+OPERACIONALIDADE DA ATENÇÃO PRIMÁRIA UBS
+OBRIGAÇÕES PATRONAIS
+Recursos de Exercícios Anteriores
+Recursos não Vinculados de Impostos
+SAÚDE PARA TODOS – ACESSO, QUALIDADE E HUMANIZAÇ
+ATENÇÃO ESPECIALIZADA SERVIÇOS MÉDICOS HOSPITALA
+VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+Recursos de Exercícios Anteriores
+Recursos não Vinculados de Impostos
+SAÚDE PARA TODOS – ACESSO, QUALIDADE E HUMANIZAÇ
+ATENÇÃO ESPECIALIZADA SERVIÇOS MÉDICOS HOSPITALA
+VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL
+Recursos de Exercícios Anteriores
+Recursos não Vinculados de Impostos
+SAÚDE PARA TODOS – ACESSO, QUALIDADE E HUMANIZAÇ
+ATENÇÃO ESPECIALIZADA SERVIÇOS MÉDICOS HOSPITALA
+OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS
+Recursos de Exercícios Anteriores
+Recursos não Vinculados de Impostos
+
+210.000,00
+F.R.: 15 2 500
+
+715.000,00
+F.R.: 15 2 500
+
+220.000,00
+F.R.: 15 2 500
+
+125.000,00
+F.R.: 15 2 500
+
+Art. 2º - O crédito aberto na forma do artigo anterior será coberto com recursos provenientes de:
+Superávit Financeiro: 1.500.000,00
+Art. 3º - Este Decreto entra em vigor na data de sua publicação.
+Rio Crespo - RO, 27 de agosto de 2026.
+EDER DA SILVA
+Prefeito Municipal de Rio Crespo – RO
+Publicado por:
+Edilaine Pereira Rodrigues

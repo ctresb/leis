@@ -1,0 +1,417 @@
+{
+  "estado": "indice_completo",
+  "total": 40,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/publicacao_amm_-_emenda_lei_organica.pdf da norma Emenda à Lei Orgânica nº 13, de 07 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação AMM.",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2020/1/publicacao_amm_-_emenda_lei_organica.pdf",
+      "ano": 2020,
+      "norma": 1984
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/revoga_ato.pdf da norma Ato do Presidente nº 14, de 03 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Revoga o Ato do Presidente nº 14/2021, datado de 03 de agosto de 2021, publicado na edição do dia 05 de agosto de 2021 na AMM, e dia 06 de agosto no TCE.",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2021/2/revoga_ato.pdf",
+      "ano": 2021,
+      "norma": 2649
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/4/publicacao_elom_07.pdf da norma Emenda à Lei Orgânica nº 7, de 31 de agosto de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2011/4/publicacao_elom_07.pdf",
+      "ano": 2011,
+      "norma": 2481
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/5/publicacao_elom_09.pdf da norma Emenda à Lei Orgânica nº 9, de 08 de maio de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2012/5/publicacao_elom_09.pdf",
+      "ano": 2012,
+      "norma": 2022
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/plano_anual_de_auditoria_interna_000634.pdf da norma Ato do Presidente nº 1, de 17 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/6/plano_anual_de_auditoria_interna_000634.pdf",
+      "ano": 2022,
+      "norma": 2711
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/7/diario_eletronico_de_contas_resolucao_254-2022.pdf da norma Resolução nº 254, de 30 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Publicação no TCE-MT",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/7/diario_eletronico_de_contas_resolucao_254-2022.pdf",
+      "ano": 2022,
+      "norma": 2760
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/8/publicacao_regimento_interno.pdf da norma Resolução nº 255, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/8/publicacao_regimento_interno.pdf",
+      "ano": 2022,
+      "norma": 2785
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/9/publicacao_emenda_lei_organica.pdf da norma Emenda à Lei Orgânica nº 14, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/9/publicacao_emenda_lei_organica.pdf",
+      "ano": 2022,
+      "norma": 2784
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/10/carta_de_servicos_ao_cidadao.pdf da norma Ato do Presidente nº 7, de 24 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/10/carta_de_servicos_ao_cidadao.pdf",
+      "ano": 2022,
+      "norma": 2794
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/11/reavaliacao_atuarial_2022_-_canarana-mt_1.pdf da norma Lei Ordinária nº 1.659, de 10 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Reavaliação Atuarial 2022",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/11/reavaliacao_atuarial_2022_-_canarana-mt_1.pdf",
+      "ano": 2022,
+      "norma": 2831
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/12/fluxograma.pdf da norma Resolução nº 261, de 22 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Fluxograma",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/12/fluxograma.pdf",
+      "ano": 2022,
+      "norma": 2878
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/13/portaria_174_2019.pdf da norma Lei Ordinária nº 903, de 21 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2009/13/portaria_174_2019.pdf",
+      "ano": 2009,
+      "norma": 824
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/14/lei_1.908-2025_estabele_indice_de_revisao_geral_do_poder_legislativo.pdf da norma Lei Ordinária nº 1.908, de 24 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Lei assinada pelo Prefeito.",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/14/lei_1.908-2025_estabele_indice_de_revisao_geral_do_poder_legislativo.pdf",
+      "ano": 2025,
+      "norma": 3305
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/15/lei_1.907-2025_atualiza_piso_salarial_para_os_profissionais_da_educacao.pdf da norma Lei Ordinária nº 1.907, de 24 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Lei assinada pelo Prefeito.",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/15/lei_1.907-2025_atualiza_piso_salarial_para_os_profissionais_da_educacao.pdf",
+      "ano": 2025,
+      "norma": 3304
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/lei_1.906-2025_estabelece_o_indice_de_revisao_geral_na_remuneracao_dos_servidores_do_poder_executivo.pdf da norma Lei Ordinária nº 1.906, de 24 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Lei assinada pelo Prefeito.",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/16/lei_1.906-2025_estabelece_o_indice_de_revisao_geral_na_remuneracao_dos_servidores_do_poder_executivo.pdf",
+      "ano": 2025,
+      "norma": 3303
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/17/emenda__lei_organica.pdf da norma Lei Orgânica Municipal nº 1, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Texto Original",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/17/emenda__lei_organica.pdf",
+      "ano": 2022,
+      "norma": 2788
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/18/resolucao_no_255-2022_regimento_interno.pdf da norma Resolução nº 255, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Texto Original",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2022/18/resolucao_no_255-2022_regimento_interno.pdf",
+      "ano": 2022,
+      "norma": 2785
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/19/lei_1.909-2025_nomina_complexo__esportivo_municipal_gyancarlo_carneiro_dos_santos.pdf da norma Lei Ordinária nº 1.909, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/19/lei_1.909-2025_nomina_complexo__esportivo_municipal_gyancarlo_carneiro_dos_santos.pdf",
+      "ano": 2025,
+      "norma": 3319
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/20/lei_1.911-2025_dispoe_sobre_a_vedacao_de_execucao_de_musicas_apologia_ao_crime_unidades_escolares.pdf da norma Lei Ordinária nº 1.911, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/20/lei_1.911-2025_dispoe_sobre_a_vedacao_de_execucao_de_musicas_apologia_ao_crime_unidades_escolares.pdf",
+      "ano": 2025,
+      "norma": 3320
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/lei_1.913-2025_inclusao_canarana__portal_do_xingu.pdf da norma Lei Ordinária nº 1.913, de 12 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/21/lei_1.913-2025_inclusao_canarana__portal_do_xingu.pdf",
+      "ano": 2025,
+      "norma": 3327
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/lei_1.915-2025_autoriza_o_poder_executivo_alienar_areas_publicas_pragramas_habitacionais.pdf da norma Lei Ordinária nº 1.915, de 14 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/22/lei_1.915-2025_autoriza_o_poder_executivo_alienar_areas_publicas_pragramas_habitacionais.pdf",
+      "ano": 2025,
+      "norma": 3328
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/lei_1.916-2025_dispoe_sobre_a_criacao_de_programa_de_incentivos_a_projetos_habitacionais.pdf da norma Lei Ordinária nº 1.916, de 14 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/23/lei_1.916-2025_dispoe_sobre_a_criacao_de_programa_de_incentivos_a_projetos_habitacionais.pdf",
+      "ano": 2025,
+      "norma": 3329
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/24/lei_1.917-2025_autoriza_o_executivo_firmar_termo_ifmt.pdf da norma Lei Ordinária nº 1.917, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/24/lei_1.917-2025_autoriza_o_executivo_firmar_termo_ifmt.pdf",
+      "ano": 2025,
+      "norma": 3330
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/25/lei_1.918-2025_autoriza_o_executivo_cessao_unican.pdf da norma Lei Ordinária nº 1.918, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/25/lei_1.918-2025_autoriza_o_executivo_cessao_unican.pdf",
+      "ano": 2025,
+      "norma": 3331
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/lei_1.919-2025_dispoe_sobre_alteracao_no_brasao.pdf da norma Lei Ordinária nº 1.919, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/26/lei_1.919-2025_dispoe_sobre_alteracao_no_brasao.pdf",
+      "ano": 2025,
+      "norma": 3332
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/27/lei_1.920-2025_autoriza_o_executivo_aderir_consorcio_amm.pdf da norma Lei Ordinária nº 1.920, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/27/lei_1.920-2025_autoriza_o_executivo_aderir_consorcio_amm.pdf",
+      "ano": 2025,
+      "norma": 3333
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/28/lei_complementar_236-2025_gratificacao_especial_especialidades_medicas.pdf da norma Lei Complementar nº 236, de 18 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/28/lei_complementar_236-2025_gratificacao_especial_especialidades_medicas.pdf",
+      "ano": 2025,
+      "norma": 3336
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/29/lei_1.923-2025_dispoe_sobre_a_verba_indenizatoria_legislativo.pdf da norma Lei Ordinária nº 1.923, de 24 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/29/lei_1.923-2025_dispoe_sobre_a_verba_indenizatoria_legislativo.pdf",
+      "ano": 2025,
+      "norma": 3335
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/30/lei_1.922-2025_dispoe_sobre_a_concessao_de_diaria_legislativo.pdf da norma Lei Ordinária nº 1.922, de 24 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/30/lei_1.922-2025_dispoe_sobre_a_concessao_de_diaria_legislativo.pdf",
+      "ano": 2025,
+      "norma": 3334
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/31/lei_1.921-2025_dispoe_sobre_a_lteracao_e_atualizacao_diaria_-_tabela_a.pdf da norma Lei Ordinária nº 1.921, de 24 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/31/lei_1.921-2025_dispoe_sobre_a_lteracao_e_atualizacao_diaria_-_tabela_a.pdf",
+      "ano": 2025,
+      "norma": 3337
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/32/lei_complementar_235-2025_dispoe_sobre_a_autorizacao_do_poder_executivo_cenceder_incentivo_nilo.pdf da norma Lei Complementar nº 235, de 12 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/32/lei_complementar_235-2025_dispoe_sobre_a_autorizacao_do_poder_executivo_cenceder_incentivo_nilo.pdf",
+      "ano": 2025,
+      "norma": 3343
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/33/lei_1.928_autoriza_o_executivo_abriri_credito_5.565.25665_superavit.pdf da norma Lei Ordinária nº 1.928, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/33/lei_1.928_autoriza_o_executivo_abriri_credito_5.565.25665_superavit.pdf",
+      "ano": 2025,
+      "norma": 3342
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/34/lei_1.927-2024_autoriza_o_municipio_de_canarana_implantar_eficiencia_energetica_fotovotaica.pdf da norma Lei Ordinária nº 1.927, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/34/lei_1.927-2024_autoriza_o_municipio_de_canarana_implantar_eficiencia_energetica_fotovotaica.pdf",
+      "ano": 2025,
+      "norma": 3341
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/35/lei_1.926-2024_autoriza_o_executivo_firmar_termo_agerbarra.pdf da norma Lei Ordinária nº 1.926, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/35/lei_1.926-2024_autoriza_o_executivo_firmar_termo_agerbarra.pdf",
+      "ano": 2025,
+      "norma": 3340
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/36/lei_1.925-2024_autoriza_abrir_credito_80.00000-_educacao.pdf da norma Lei Ordinária nº 1.925, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/36/lei_1.925-2024_autoriza_abrir_credito_80.00000-_educacao.pdf",
+      "ano": 2025,
+      "norma": 3339
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/37/lei_complementar_239-2025_dispoe_sobre_criacao_de_cargo_em_comissao_camara.pdf da norma Lei Complementar nº 239, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/37/lei_complementar_239-2025_dispoe_sobre_criacao_de_cargo_em_comissao_camara.pdf",
+      "ano": 2025,
+      "norma": 3338
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/lei_1.930-2025_dispoe_sobre_revogacao_alteracao_da_lei_1.853_politica_publica_de_assistencia_social.pdf da norma Lei Ordinária nº 1.930, de 23 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/38/lei_1.930-2025_dispoe_sobre_revogacao_alteracao_da_lei_1.853_politica_publica_de_assistencia_social.pdf",
+      "ano": 2025,
+      "norma": 3359
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/lei_1.931-2025_denomina_monumento_cuia_e_chaleira_guido_afonso_rauber_removed.pdf da norma Lei Ordinária nº 1.931, de 23 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/39/lei_1.931-2025_denomina_monumento_cuia_e_chaleira_guido_afonso_rauber_removed.pdf",
+      "ano": 2025,
+      "norma": 3360
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/40/lei_1.929-2024_institui_semana_municipal_de_conscientizacao_do_autismo_e_da_outras_providencias_assinada.pdf da norma Lei Ordinária nº 1.929, de 08 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2025/40/lei_1.929-2024_institui_semana_municipal_de_conscientizacao_do_autismo_e_da_outras_providencias_assinada.pdf",
+      "ano": 2025,
+      "norma": 3358
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/declaracao_de_renuncia_do_subsidio.pdf da norma Ato do Presidente nº 6, de 28 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canarana.mt.leg.br/media/sapl/public/anexonormajuridica/2026/41/declaracao_de_renuncia_do_subsidio.pdf",
+      "ano": 2026,
+      "norma": 3523
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canarana.mt.leg.br/9562371075e485d504333f66406430b1abdff2dc99543f258f7bb35f7cc403e0.json",
+      "url": "https://sapl.canarana.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "115d3d003561cdd9bf93f3449e1d558271ddd8215e137b6b42beaaee95012c30",
+      "capturado_em": "2026-10-20T20:50:36.950889",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.canarana.mt.leg.br/9562371075e485d504333f66406430b1abdff2dc99543f258f7bb35f7cc403e0.json"
+    }
+  ]
+}

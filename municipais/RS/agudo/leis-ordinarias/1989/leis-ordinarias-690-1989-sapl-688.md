@@ -1,0 +1,56 @@
+---
+titulo: "Lei nº 690, de 15 de agosto de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "690"
+data: "1989-08-15"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/688"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1513/text"
+sha256_fonte: "e65dff8e7eaac382ed52801c27096d89cbd8a6c99f8fc93596b62e8eb0201779"
+sha256_texto: "d0f25086ffe208e552e5b038c8c52e43384a3b8edcaefc73b9d37be9845b094d"
+capturado_em_fonte: "2026-10-27T21:44:52.099872-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 690, de 15 de agosto de 1989
+
+DISPÕE SOBRE O REAJUSTE SALARIAL DO QUADRO DE EMPREGOS, QUADRO PERMANENTE DE CARGOS, CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS, MAGISTÉRIO PÚBLICO MUNICIPAL, QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS.
+
+
+PEDRO ÁLVARO MÜLLER, PREFEITO MUNICIPAL DE AGUDO, ESTADO DO RIO GRANDE DO SUL, no uso das atribuições legais que me são conferidas pela Lei Orgânica do Município, FAÇO SABER, que a Câmara Municipal de Vereadores aprovou e eu sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder um aumento a todo o Funcionalismo Público Municipal, indistintamente de classe ou padrão, na ordem de trinta por cento (30%).
+
+
+Art. 2º.
+
+Esta lei entrará em vigor, retroativamento, a partir do dia 1º de agosto de 1989, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, em 15 de agosto de 1989.
+
+Dr. PEDRO ÁLVARO MÜLLER  
+Prefeito Municipal.
+
+Registre-se e Publique-se
+
+DORI LAURA MÜLLER PAUL  
+Sec. da Administração.
+
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup span="3"></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td> </td><td colspan="8">TABELA DE REAJUSTE SALARIAL</td><td> </td></tr><tr><td>A -</td><td colspan="8">QUADRO DE EMPREGO DO MAGISTÉRIO PÚBLICO MUNICIPAL</td><td> </td></tr><tr><td> </td><td colspan="6">Valor Básico ……………………………...…………………….….… Ncz$</td><td colspan="2">243,52</td><td> </td></tr><tr><td>B -</td><td colspan="8">QUADRO DE EMPREGO PÚBLICO</td><td> </td></tr><tr><td> </td><td> </td><td>A</td><td> </td><td>B</td><td> </td><td>C</td><td> </td><td>D</td><td> </td></tr><tr><td>1…</td><td>……….</td><td>342,76</td><td>……….</td><td>349,30</td><td>……….</td><td>367,02</td><td>……….</td><td>385,16</td><td>……</td></tr><tr><td>2…</td><td>……….</td><td>613,03</td><td>……….</td><td>643,59</td><td>……….</td><td>675,71</td><td>……….</td><td>709,29</td><td>……</td></tr><tr><td>C -</td><td colspan="8">QUADRO PERMANENTE DE CARGOS</td><td> </td></tr><tr><td> </td><td> </td><td>0</td><td> </td><td>1</td><td> </td><td>2</td><td> </td><td>3</td><td> </td></tr><tr><td>1…</td><td>……….</td><td>342,76</td><td>……….</td><td>349,30</td><td>……….</td><td>367,02</td><td>……….</td><td>385,16</td><td>……</td></tr><tr><td>2…</td><td>……….</td><td>613,03</td><td>……….</td><td>643,59</td><td>……….</td><td>675,71</td><td>……….</td><td>709,29</td><td>……</td></tr><tr><td>3…</td><td>……….</td><td>719,98</td><td>……….</td><td>756,03</td><td>……….</td><td>793,77</td><td>……….</td><td>834,59</td><td>……</td></tr><tr><td>4…</td><td>……….</td><td>874,95</td><td>……….</td><td>918,59</td><td>……….</td><td>964,80</td><td>……….</td><td>1.012,82</td><td>……</td></tr><tr><td>5…</td><td>……….</td><td>1.063,40</td><td>……….</td><td>1.116,65</td><td>……….</td><td>1.173,03</td><td>……….</td><td>1.232,82</td><td>……</td></tr><tr><td>D -</td><td colspan="8">CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS</td><td> </td></tr><tr><td> </td><td colspan="2">CC1 ……………..……</td><td>324,14</td><td> </td><td colspan="3">FG1 ….……….………………</td><td>162,07</td><td>…</td></tr><tr><td> </td><td colspan="2">CC2 ……………..……</td><td>462,63</td><td> </td><td colspan="3">FG2 ….……….………………</td><td>231,31</td><td>…</td></tr><tr><td> </td><td colspan="2">CC3 ……………..……</td><td>739,71</td><td> </td><td colspan="3">FG3 ….……….………………</td><td>369,85</td><td>…</td></tr><tr><td> </td><td colspan="2">CC4 ……………..……</td><td>1.109,72</td><td> </td><td colspan="3">FG4 ….……….………………</td><td>554,85</td><td>…</td></tr><tr><td> </td><td colspan="2">CC5 ……………..……</td><td>1.291,82</td><td> </td><td colspan="3">FG5 ….……….………………</td><td>645,91</td><td>…</td></tr><tr><td>E -</td><td colspan="8">QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS</td><td> </td></tr><tr><td> </td><td colspan="2">Referência Salarial</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="7">1…………………………………………………………………………………………</td><td>222,21</td><td>…</td></tr><tr><td> </td><td colspan="7">2…………………………………………………………………………………………</td><td>247,88</td><td>…</td></tr><tr><td> </td><td colspan="7">3…………………………………………………………………………………………</td><td>255,01</td><td>…</td></tr><tr><td> </td><td colspan="7">4…………………………………………………………………………………………</td><td>285,64</td><td>…</td></tr><tr><td> </td><td colspan="7">5…………………………………………………………………………………………</td><td>308,59</td><td>…</td></tr><tr><td> </td><td colspan="7">6…………………………………………………………………………………………</td><td>342,76</td><td>…</td></tr><tr><td> </td><td colspan="7">7…………………………………………………………………………………………</td><td>409,18</td><td>…</td></tr><tr><td> </td><td colspan="7">8…………………………………………………………………………………………</td><td>540,89</td><td>…</td></tr><tr><td> </td><td colspan="7">9…………………………………………………………………………………………</td><td>567,57</td><td>…</td></tr><tr><td> </td><td colspan="7">10……………………………………………………………………………………..…</td><td>705,28</td><td>…</td></tr><tr><td> </td><td colspan="7">11……………………………………………………………………..…………………</td><td>785,80</td><td>…</td></tr></tbody></table>
+
+Agudo, 15 de agosto de 1989.
+
+<table><tbody><tr><td><br>Registre-se e Publique-se</td><td>Dr. PEDRO ÁLVARO MÜLLER<br>Prefeito Municipal.</td></tr><tr><td><br>DORI LAURA MÜLLER PAUL<br>Sec. da Administração.</td><td> </td></tr></tbody></table>
+

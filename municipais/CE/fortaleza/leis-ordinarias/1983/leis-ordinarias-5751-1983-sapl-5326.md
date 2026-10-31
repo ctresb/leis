@@ -1,0 +1,153 @@
+---
+titulo: "Lei Ordinária nº 5.751, de 08 de novembro de 1983"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "5751"
+data: "1983-11-08"
+municipio: "Fortaleza"
+uf: "CE"
+codigo_ibge: "2304400"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2009-07-17; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fortaleza.ce.leg.br/norma/5326"
+fonte_texto: "https://sapl.fortaleza.ce.leg.br/ta/1474/text"
+sha256_fonte: "d2d043e6c8e900aa78ba7e5b214ca102acf68444b71a9ab2d4bd789a59afabd0"
+sha256_texto: "fd714472c2485aa1bb1547a43429de600d33fb046afbf427439d543bb9cfc1e5"
+capturado_em_fonte: "2026-10-21T05:33:37.483863-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária nº 5.751, de 08 de novembro de 1983
+
+Institui a Taxa de propaganda e publicidade em Veículos de Aluguel e Transporte Coletivos de Fortaleza e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica instituída a Taxa de propaganda e Publicidade, devida pela prévia licença da Prefeitura para colocação de publicidade na parte externa dos veículos de aluguel de Fortaleza, bem como para a publicidade de que trata o artigo 1º da Lei 5.704, de 15 de junho de 1983.
+
+
+§ 1º
+
+A licença de que trata o "caput" deste artigo será expedida pela Secretária de Transporte do Município, após o pagamento da taxa pelo proprietário do Veículo em que for aposta a publicidade.
+
+
+§ 2º
+
+O valor da Taxa prevista neste artigo será de 04 (quatro) unidades Fiscais do Município por Veículo de Transporte Coletivo e de 01 (uma) Unidade Fiscal do Município por Veículo de Aluguel, quando utilizado todo o espaço destinado à Publicidade.
+
+
+§ 3º
+
+O valor da taxa a ser paga pelos Veículos de Aluguel Autônomos, será de meia Unidade Fiscal do Município, quando utilizado todo o espaço destinado à Publicidade.
+
+
+§ 4º
+
+Na hipótese de utilização parcial da área destinada à Publicidade, a Taxa será cobrada proporcionalmente ao espaço para o qual for permitida.
+
+
+§ 5º
+
+A Publicidade de que trata esta Lei não poderá ser colocada senão nos locais e formas nela previstos e será fiscalizada pela Secretaria de Transporte do Município.
+
+
+Art. 2º.
+
+O prazo da validade da licença de que trata o artigo é de 180 (cento e oitenta) dias, renovável por igual período, a critério da autoridade competente, desde que paga a nova Taxa.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 9º. - Lei Ordinária nº 9.488, de 17 de julho de 2009.
+
+
+Art. 4º.
+
+O Chefe do Poder Executivo disciplinará, mediante Decreto a Publicidade nos Transportes Coletivos e Veículos de Aluguel no Município de Fortaleza.
+
+
+Art. 5º.
+
+Fica criado o FUNDO DE DESENVOLVIMENTO DE TRANSPORTE URBANO DE FORTALEZA, destinado a melhoria do sistema de Transporte Urbano no Município de Fortaleza.
+
+
+Parágrafo único
+
+Os recursos do fundo ora criado podem ser aplicados na implantação, manutenção, gerencia e operação do sistema de transporte urbano de Fortaleza.
+
+
+Art. 6º.
+
+Constituem recursos do Fundo de Desenvolvimento do Transporte Urbano de Fortaleza:
+
+
+I –
+
+O produto da arrecadação da Taxa instituída pelo artigo 1º desta Lei;
+
+
+II –
+
+O produto da arrecadação das multas por infrações às obrigações decorrentes da presente Lei e sua regulação;
+
+
+III –
+
+Outros recursos a serem posteriormente previstos em ato de Chefe do Poder Executivo Municipal.
+
+
+Art. 7º.
+
+Os recursos oriundos do Fundo de Desenvolvimento de Transporte Urbano de Fortaleza serão depositados em conta bancária vinculada à Secretaria de Finanças do Município e sua aplicação será gerenciada pela Secretaria de Transporte do Município, em programas e projetos, previamente autorizados pelo Chefe do Poder Executivo Municipal.
+
+
+Art. 8º.
+
+Será passível da penalidade de:
+
+
+I –
+
+02 (duas) a 08 (oito) Unidades Fiscais do Município, o contribuinte que inciar ou praticar ato sujeito à licença de que trata o art. 1º desta Lei, sem que esta lhe tenha sido concedia ou renovada nos prazos regulamentares, além da remoção e apreensão da publicidades;
+
+
+II –
+
+02 (duas) a 08 (oito) Unidades Fiscais do Município, o contribuinte que utilizar o espaço licenciado para publicidade e mensagens não permitidas, conforme dispuser o Decreto do Chefe do Poder Executivo Municipal, além da cassação da licença.
+
+
+Parágrafo único
+
+Compete à Secretaria de Transportes do Município a aplicação das penalidades previstas neste artigo.
+
+
+Art. 9º.
+
+Fica revogada a alínea "d" do artigo 660 da Lei nº 5.530, de 17 de dezembro de 1981.
+
+
+Art. 10.
+
+O chefe do Poder Executivo baixará Decretos que se fizerem necessárias à execução desta Lei
+
+
+Art. 11.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA EM 08 DE NOVEMBRO DE 1993.**  
+  
+  
+  
+Engº Cesar Cals de Oliveira Neto  
+Prefeito - Municipal
+

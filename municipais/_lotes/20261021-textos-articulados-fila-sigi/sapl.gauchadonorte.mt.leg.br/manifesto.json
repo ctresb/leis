@@ -1,0 +1,42 @@
+{
+  "host": "sapl.gauchadonorte.mt.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gauchadonorte.mt.leg.br/0620abd427b4529a028c30ffe1b811e676a0d038b3fc0eb49135226477e7f5e9.json",
+    "url": "https://sapl.gauchadonorte.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.gauchadonorte.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T12:40:58.661508-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gauchadonorte.mt.leg.br/7a5b8dc351339d0d732e7a00f0d7b4c535f49280d42a67af02cc66f52f0efb7a.json",
+    "url": "https://sapl.gauchadonorte.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.gauchadonorte.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d123831ae81a09ecbf3acf8a39d6cad6deffda6c5491bd1c36f3803248fe2e0f",
+    "bytes": 715,
+    "capturado_em": "2026-10-28T12:40:57.822126-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gauchadonorte.mt.leg.br/08b848c3bf017009d4368c73100f3d2556a47363037956c4dc589c1e08fba580.json",
+      "url": "https://sapl.gauchadonorte.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.gauchadonorte.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T12:41:00.652892-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

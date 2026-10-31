@@ -1,0 +1,192 @@
+{
+  "host": "sapl.corbelia.pr.leg.br",
+  "metadados_unicos_observados": 1548,
+  "total_api_declarado": 1548,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1506,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/ef1c56f93035e54056b409efedc0d168d536a0540afed3bc35e8697c7428c869.json",
+    "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f9f1b21ee7f7b3b62bb21c2be38e86a98db2bda10cf000f40d5ea02ec8abb287",
+    "bytes": 955,
+    "capturado_em": "2026-10-28T02:23:29.854627-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/60e568cbfdee5aa2028a0ada8d0d9ef757b71eef727bbfd93f2a0bfba8954f8b.json",
+    "url": "https://sapl.corbelia.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.corbelia.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8c9a22732900cbc83945bc4257567130a415ce1f5f2f47de5fd13462fb7903ce",
+    "bytes": 843,
+    "capturado_em": "2026-10-28T02:23:28.945667-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/85931a926859c907b01604664bb7df8f700f133e3c28c862ea970b07ecdb4dfa.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ade808eed93df9ab320dcef10b22ca6d997b8454e173f6b4bea4ff7f8d4ac524",
+      "bytes": 66470,
+      "capturado_em": "2026-10-28T02:23:31.846741-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/da37136e5ae8bfb5e5e7b801bf43ba0b0ab08defdd44c227b7d70030d60bcf04.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4b9ca691f443d6e122faffb1fdeb99ee118bafd8fce1917c2f0add0964dba45a",
+      "bytes": 64281,
+      "capturado_em": "2026-10-28T03:25:02.985162-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/e8bf16d0e3f3a8f65962e0bcd15d252b615208aa0ed2c8403c8b7c4712613fb4.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "15347c01f8374d367b359b287df7142a9181bf32153e85dd1b774aa40f4a4271",
+      "bytes": 65314,
+      "capturado_em": "2026-10-28T04:42:56.428174-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/f0a92e6746444d6725f3f849499522b1d8df959cd0af0771b45394fb9bd83aeb.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "75c07bd1d29f8ce6f62733152c4c16648bd872545941ca6be4eaf8ce2953654d",
+      "bytes": 64548,
+      "capturado_em": "2026-10-28T06:00:50.774415-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/761780062101039c965b409e7b691e03845bcf7caba230db7b137c32fa9c7954.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c1bbc53b2f731488a6478288f63b4c50af867b7eead6960242b617e40197d902",
+      "bytes": 62563,
+      "capturado_em": "2026-10-28T06:04:11.836646-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/d8fbcfcc3c4ca4c5977b8e737b9b6b520dcf94a4a6a3066828b06745ee7140b6.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0ce3ab9900d5600130d003e098cf74ae488a2a56d81f905cc18879bdbb2a9bc2",
+      "bytes": 60442,
+      "capturado_em": "2026-10-28T06:07:31.710882-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/3ba24da451a5cabfbc43f72969490123ef7f920535c8a5839f1ffbbc9d3c52cd.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "293c1f22084ce5cf7f2f45180b59abda4a71d41219aaea44de55e73d703304a0",
+      "bytes": 63674,
+      "capturado_em": "2026-10-28T06:10:57.170287-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/20d0c8dc5f43aec77017f2e4b25f583c871700bc4fe19aaa5a1e24d28ba66f66.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c50189622ca4fbd92ea6ffd4251baa2c7b2c4e468161be6cfb4a36305bd6dc40",
+      "bytes": 61701,
+      "capturado_em": "2026-10-28T06:27:54.601328-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/16438c2c2287371979cd466d9567cce255e8ea8041ebec4b9e5cf3097447a62c.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f01aff9c9dbfdc82200a8f44b7525cf83542289df8fc526214f20e39103f42b9",
+      "bytes": 60101,
+      "capturado_em": "2026-10-28T08:00:55.188370-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/9c28ebb6b73bc2b794162ee183cb76ca6efa43062236f837c0e5bd06e92f0f55.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "24099af474f919e1fb993a079125957d9bb20ef849135b7a181af55113b77777",
+      "bytes": 59882,
+      "capturado_em": "2026-10-28T09:02:14.639072-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/90ebdb2ec9c422456cfb7f4c84439591b23822c934333527214cedf513dd4fa9.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c736e58a7dce6c22e1ed224d67035a0d5b669a7415a0f014252f100d515a51e6",
+      "bytes": 60837,
+      "capturado_em": "2026-10-28T09:19:36.551057-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/0aab834df5aeddc9b2de7756ee0f9cf40a399a69197daad1c27c1f5409db76ff.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1bf22d12c6daa448d5b3207daf2ca9a384d0d04303accd28a2615450aab142d7",
+      "bytes": 57957,
+      "capturado_em": "2026-10-28T09:23:00.154529-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/9b374097bcb4fce228dbca34fc1bc83c4d09e96a58fe911199ec57497133fb14.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b48d987750df293e1c1050cbfa768c2439ea63855136bdd1a895b8fca64cb229",
+      "bytes": 58271,
+      "capturado_em": "2026-10-28T09:26:21.914408-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/befc5a1b8fd6b8c1293ed42b4985ea40da046d858e7acea6f5a81234b6ef57ef.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "09b59e80d2f9ad342e0b21225bd425c1c71257d3fb92eb4beba0d9009030a61f",
+      "bytes": 58703,
+      "capturado_em": "2026-10-28T09:29:47.449047-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/f137400597797989b877784c635b51e6e28e6ea49287e20edbf81d5f87b5bdbb.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "17f69a6126f8fd4d23f9bcb9366e5f8b8641b9873f67da997fdad578ea84cb64",
+      "bytes": 57689,
+      "capturado_em": "2026-10-28T09:33:15.184824-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corbelia.pr.leg.br/35826922811b752f2db8aeeab7604fc6e8443623cef6c38c0e3485fc4c5d1c85.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.corbelia.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6eb1e1a1aef730b2c6d5163c2622f488dbf00644e1215bb42a76f633468e88b0",
+      "bytes": 28659,
+      "capturado_em": "2026-10-28T09:36:36.487228-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

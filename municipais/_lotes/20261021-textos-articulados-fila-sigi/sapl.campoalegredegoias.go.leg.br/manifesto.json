@@ -1,0 +1,42 @@
+{
+  "host": "sapl.campoalegredegoias.go.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campoalegredegoias.go.leg.br/b71a4c971a51b71b334159d06a8833352be179e7173d50b0394d0d230086e74e.json",
+    "url": "https://sapl.campoalegredegoias.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.campoalegredegoias.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8da7aed17cb1acdc23c734780a26fdbf5c092cde665f9571573020399b91bd11",
+    "bytes": 952,
+    "capturado_em": "2026-10-27T22:21:30.129478-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campoalegredegoias.go.leg.br/41fdc5c827f9e21d0043047ff5610fb554da4fc4064756af050c958c774e2396.json",
+    "url": "https://sapl.campoalegredegoias.go.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.campoalegredegoias.go.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a996a605932bea8720b516a97cb3efb0338fd94e6a004606d89ffb06e7539485",
+    "bytes": 777,
+    "capturado_em": "2026-10-27T22:21:29.198542-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campoalegredegoias.go.leg.br/d390c28b9798c0ff4a77b0d5413afe663a64f92e78a1f717845d606e503acde5.json",
+      "url": "https://sapl.campoalegredegoias.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.campoalegredegoias.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ee6f874b6413f6b11c8cb2fb18dfdb5d68bf1db84513f08c549ddb91acea033f",
+      "bytes": 1283,
+      "capturado_em": "2026-10-27T22:21:32.140337-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

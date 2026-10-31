@@ -1,0 +1,42 @@
+{
+  "host": "sapl.angatuba.sp.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.angatuba.sp.leg.br/2d333ae8907223e89a488d38bfad1f54daa57d64fe8320dd08f35d5606aa1717.json",
+    "url": "https://sapl.angatuba.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.angatuba.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T16:44:00.028558-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.angatuba.sp.leg.br/a5ca524f1b7218f268a1d5c325e63feef9a75b439bf3894fcf48e44540a36326.json",
+    "url": "https://sapl.angatuba.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.angatuba.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "53cde9cf5d90ffb58cfd8c35490de54ea89e06a393979578d85d29d6436c9d5e",
+    "bytes": 722,
+    "capturado_em": "2026-10-27T16:43:59.265443-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.angatuba.sp.leg.br/7ee11d596f918c939d020a789f5c53667cdc7c16cd9f51b6c5469cd2f8f5e9d7.json",
+      "url": "https://sapl.angatuba.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.angatuba.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T16:44:02.053530-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,122 @@
+---
+titulo: "Lei Ordinária nº 4.110, de 13 de agosto de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4110"
+data: "2013-08-13"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2021-06-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3960"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/347/text"
+sha256_fonte: "84d2544dd2bc03140e932590eaacb94f57cb7bff05f9456c7b7549e008291ad2"
+sha256_texto: "cb89218cbecab1477c976e6decebbdf01e9ccd2e5ece496af7051b9a0074a6a8"
+capturado_em_fonte: "2026-10-27T17:58:34.746595-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.110, de 13 de agosto de 2013
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL APROVOU E EU PROMULGO A SEGUINTE:
+
+
+LEI Nº4110, DE 13 DE AGOSTO DE 2013.
+
+
+Dispõe sobre a acessibilidade dos portadores de necessidades especiais e aos idosos nos estacionamentos rotativos particulares já situados ou que futuramente venham a ser instalados no Município de Barra Mansa.
+
+
+Art. 1º.
+
+É garantido ao portador de necessidades especiais e aos idosos a acessibilidade nos estacionamentos rotativos particulares já situados ou que futuramente venham a ser instalados no Município, onde será reservado um por cento do total de vagas para veículos que transportem pessoas idosas, sendo assegurada vagas em locais próximos à entrada principal ou ao elevador, de fácil acesso à circulação de pedestres.
+
+
+§ 1º
+
+Considera-se deficiência, para efeitos desta Lei a perda ou anormalidade de uma estrutura ou função psicológica, fisiológica ou anatômica que gere incapacidade para o desempenho de atividade dentro do padrão considerado normal para o ser humano.
+
+
+§ 2º
+
+Considera-se idoso, para os efeitos desta Lei, a pessoa maior de sessenta anos de idade.
+
+
+§ 3º
+
+Entende-se como estacionamento rotativo particular todo estacionamento de uso coletivo situado em vias públicas do Município, seja ele dentro de supermercados, shoppings, bancos, universidades privadas ou públicas que venham a se instalar no Município e outros.
+
+
+Art. 2º.
+
+O Poder Executivo, por intermédio da Coordenadoria de Trânsito e Transporte (COORTRAN), promoverá o credenciamento das pessoas que solicitarem o benefício de que trata esta Lei, fornecendo o respectivo Cartão de Identificação do veículo.
+
+
+§ 1º
+
+As cópias dos documentos pessoais necessários para o fornecimento do Cartão de Identificação do Veiculo serão entregues uma Única vez pelo requerente e arquivada no setor responsável para ser utilizado na renovação do mesmo, salvo em caso de alteração de dados.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.918, de 15 de junho de 2021.
+
+
+§ 2º
+
+O Cartão de Identificação de veículo dará direito as vagas reservadas em estacionamentos existentes nos logradouros públicos, terá a validade de 7 (sete) anos.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.918, de 15 de junho de 2021.
+
+
+§ 3º
+
+O Cartão de Identificação de Veículos será entregue ao requerente no prazo máximo de 30 (trinta) dias depois de solicitado.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.918, de 15 de junho de 2021.
+
+
+§ 4º
+
+O Cartão de Identificação de Veículos poderá ter 3 (três) veículos registrados, quando comprovado a propriedade dos veículos.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.918, de 15 de junho de 2021.
+
+
+Art. 3º.
+
+Os veículos estacionados nas vagas reservadas deverão portar identificação a ser colocada em local de ampla visibilidade, expedido pelo COORTRAN, que disciplinará sobre suas características e condições de uso.
+
+
+Art. 4º.
+
+O não cumprimento desta Lei constituirá em multa de R$2.000,00 (dois mil reais) por estacionamento.
+
+
+§ 1º
+
+A sanção prevista neste artigo será aplicada pela autoridade administrativa, no âmbito de sua atribuição legal.
+
+
+§ 2º
+
+A multa que trata o caput deste artigo será revertida para o Centro de Referência do Idoso de Barra Mansa e/ou para CAPS Estação Mental de Barra Mansa.
+
+
+Art. 5º.
+
+Os estacionamentos rotativos particulares terão o prazo de 60(sessenta) dias contados da data de publicação deste Lei para se adaptarem a sua disposições.
+
+
+Art. 6º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 13 DE AGOSTO DE 2013.
+
+
+JOSÉ LUIZ VANELI
+
+PRESIDENTE
+

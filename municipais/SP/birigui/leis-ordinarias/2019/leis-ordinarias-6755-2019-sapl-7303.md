@@ -1,0 +1,85 @@
+---
+titulo: "Lei Ordinária nº 6.755, de 16 de agosto de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6755"
+data: "2019-08-16"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2020-09-11; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7303"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/899/text"
+sha256_fonte: "c5c060b8d2c3e6b488b9a6c2a9bb8c44f8052cb1bd334a11f7bf5604ab8aa2d2"
+sha256_texto: "64d2cfa8eee74423abec9564034e9a49c8875b6f8cd94c97300ad1cf87b71704"
+capturado_em_fonte: "2026-10-27T18:18:58.019762-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.755, de 16 de agosto de 2019
+
+ADOÇÃO DO NOME DO SENHOR FRANCISCO PUERTAS "KIKO" PARA DENOMINAR VIA PÚBLICA EM BIRIGUI.  
+Projeto de Lei n° 75/2019, de autoria do Vereador José Luis Buchalla.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Passa a denominar-se AVENIDA FRANCISCO PUERTAS SOBRINHO "KIKO", a Avenida Marginal 1, localizada no Residencial Vereador Reginaldo Liessi.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 6.926, de 11 de setembro de 2020.
+
+
+Parágrafo único
+
+A biografia do homenageado passa a fazer parte integrante desta Lei.
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos dezesseis de agosto de dois mil e dezenove.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+**SAULO GIAMPIETRO Secretário de Obras**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**TIAGO CONTADOR LOTTO Secretário de Expediente e Comunicações Administrativas**
+
+
+**JUSTIFICATIVA:**  
+Senhores Vereadores;  
+Senhora Vereadora;
+
+Francisco Puertas "Kiko", nasceu no dia 3 de novembro de 1.927, biriguiense de nascimento, contraiu matrimônio com a senhora Diná Bego Puertas, nascida no município de Jaú -SP, em 13 de março de 1.928. Kiko assim chamado carinhosamente pelos seus amigos e entes querido, era, homem simples, honrado, esposo, pai e avô exemplar, desta união nasceram os filhos Ana Maria, Adalgiza, Pedro Roberto e Vânia Regina.
+
+Durante toda a sua existência, sempre teve como princípio de vida o amor a Deus, a família e ao trabalho, ainda muito jovem, iniciou sua vida profissional como mecânico de veículos na empresa Ford do Brasil, já na empresa de Ônibus de Pedro Sanches que posteriormente foi adquirida pelo seu filho, Kiko trabalhou por vários anos, sempre estando sob a sua responsabilidade a parte mecânica dos veículos, pois o conforto, juntamente com a segurança dos passageiros sempre eram sua maior preocupação.
+
+Exímio motorista Francisco Puertas também se dedicou ao transporte de cargas como caminhoneiro pelas estradas do nosso país. Já prestes da aposentadoria Kiko trabalhou na empresa de revenda de Lages São Francisco, inclusive transportando este material para construção de inúmeros imóveis em vários loteamentos em nosso município e região, proporcionado assim comodidade para os clientes da empresa.
+
+Francisco Puertas o Kiko, sempre que solicitado atendia os mais carentes com transporte de mudanças, sem a cobrança do frete e a despesa do óleo diesel, ajudava pelo prazer de ajudar, sem esperar nada em troca.
+
+Nunca houve algo que desabonasse sua conduta ao longo de sua vida pessoal, familiar e profissional, homem simples, exerceu com honradez a vida que lhe foi concedida por Deus, aliás, como poucos. Francisco sempre foi respeitado e admirado por aqueles que o conheciam, graças a sua humildade, lealdade, sinceridade e dedicação ao trabalho e a família.
+
+Dedicou-se ao trabalho, ao lar, a esposa e aos filhos praticamente sua vida toda, face a sua simplicidade e inúmeras qualidades granjeou em toda sua existência um grande número de amigos, pois, sempre tinha uma palavra de conforto e carinho com os quais mantinha relação de amizade e afeto.
+
+Francisco Puertas o "KIKO", veio a falecer em 26 de dezembro de 2.006, sendo seu corpo velado por uma enorme quantidade de amigos que granjeou ao longo de sua honrada e proveitosa vida, sendo seu corpo sepultado no Cemitério da Consolação em Birigui.
+
+Este é uma síntese do esboço biográfico de **FRANCISCO PUERTAS, "KIKO"**, bastante para convalidar o objetivo desta proposição, que é o de dar seu saudoso e respeitado nome para denominar uma das vias públicas de nosso município, no caso presente a Rua Avenida Projetada 1 (um), localizada no Residencial Vereador Reginaldo Liessi, iniciativa para a qual pleiteamos a compreensão e o voto favorável unânime de nossos Dignos Pares.
+
+Câmara Municipal de Birigui,  
+Aos 21 de maio de 2.019.
+
+JOSÉ LUIS BUCHALLA,  
+VEREADOR.
+

@@ -1,0 +1,318 @@
+---
+titulo: "Lei Ordinária nº 322, de 22 de janeiro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "322"
+data: "2003-01-22"
+municipio: "Conceição do Coité"
+uf: "BA"
+codigo_ibge: "2908408"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2004-07-14; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodocoite.ba.leg.br/norma/427"
+fonte_texto: "https://sapl.conceicaodocoite.ba.leg.br/ta/243/text"
+sha256_fonte: "582004ec71592e0a4e0b92cfc19515eb82b5cc9eb58a83259ee538dc74db5564"
+sha256_texto: "0b545f00a8767a66561417548f1acdc06d64aa51057e61361846479f08abecfb"
+capturado_em_fonte: "2026-10-27T23:19:40.511470-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 322, de 22 de janeiro de 2003
+
+Dispõe sobre a contratação de pessoal por tempo determinado, nos termos ao art. 37, inciso IX, da Constituição Federal e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE CONCEIÇÃO DO COITÉ, ESTADO DA BAHIA,
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a contratar pessoal por tempo determinado, para atender a necessidade temporária de excepcional interesse público, nos termos do inciso IX do art. 37 da Constituição Federal.
+
+
+Art. 2º.
+
+As contratações a que se refere o art. 1º desta Lei somente poderão ocorrer nos seguintes casos:
+
+
+I –
+
+Calamidade pública;
+
+
+II –
+
+Inundações, enchentes, incêndios, epidemias e surtos;
+
+
+III –
+
+Campanhas de saúde pública;
+
+
+IV –
+
+Atender as necessidades de pessoal decorrentes da participação do Município em programa federal ou estadual;
+
+
+V –
+
+Prejuízo ou perturbações na prestação de serviços públicos essenciais;
+
+
+VI –
+
+Casos de emergência, quando caracterizada a urgência e inadiabilidade de atendimento de situações que possa comprometer a realização de eventos ou ocasionar prejuízos à segurança e à saúde de pessoas, obras e serviços, equipamentos e outros bens públicos ou particulares;
+
+
+VII –
+
+Atender a termos de convênios, acordo ou ajuste, para execução de obras ou prestação de serviços;
+
+
+VIII –
+
+Execução de Programas Especiais de Trabalho instituído por Decreto do Prefeito Municipal, para atender necessidades conjunturais que demandem a atuação da Prefeitura Municipal;
+
+
+IX –
+
+Necessidade de pessoal em decorrência de dispensa, demissão, exoneração, anulação de contrato de trabalho, falecimento e aposentadoria, nas unidades de prestação de serviços essenciais da Prefeitura Municipal ou da Câmara Municipal;
+
+
+X –
+
+Atender serviços eventuais na conservação de estradas e aguadas, na limpeza das vias públicas e em prédios municipais;
+
+
+XI –
+
+Atender as necessidades de pessoal decorrentes da organização e funcionamento do serviço Municipal de Saúde;
+
+
+XII –
+
+Atender as necessidades eventuais da Secretaria de Educação, no tocante aos profissionais de ensino.
+
+
+Art. 3º.
+
+As contratações serão feitas de acordo com as necessidades dos serviços específicos, sendo que as da área de saúde, decorrentes da implantação e funcionamento de seus programas, terão prazo idêntico ao da duração dos mesmos e, os restantes pelo prazo máximo de 24 (vinte e quatro) meses. (NR)
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 364, de 14 de julho de 2004.
+
+
+§ 1º
+
+É vedada a prorrogação de contrato, salvo se:
+
+
+a)
+
+Houver obstáculo judicial para a realização de concurso público;
+
+
+b)
+
+O prazo da contratação for inferior ao estipulado neste artigo, podendo a prorrogação ser efetuada até aquele limite.
+
+
+§ 2º
+
+É vedada a contratação da mesma pessoa, ainda que para serviços diferentes, pelo prazo de 01(um) ano, a contar do término do contrato.
+
+
+Art. 4º.
+
+As contratações serão sempre procedidas de processo na Secretaria de Administração, com prévia autorização do Prefeito Municipal, e na Secretaria da Câmara Municipal, com prévia autorização do seu Presidente.
+
+
+Parágrafo único
+
+Constarão obrigatoriamente das propostas de contratação:
+
+
+I –
+
+A justificativa, nos termos do art. 2º desta Lei;
+
+
+II –
+
+O prazo;
+
+
+III –
+
+A função a ser desempenhada;
+
+
+IV –
+
+A remuneração;
+
+
+V –
+
+A dotação orçamentária;
+
+
+VI –
+
+Demonstração da existência de recursos;
+
+
+VII –
+
+Habilidade exigida para a função.
+
+
+Art. 5º.
+
+As contratações serão feitas, observadas as seguintes condições:
+
+
+I –
+
+para funções que correspondam a cargos, com idêntica denominação e referência;
+
+
+II –
+
+Exigências do mesmo nível de escolaridade e demais requisitos de provimentos de cargos, em funções que exija capacitação escolar;
+
+
+III –
+
+Prestação de horas semanais de trabalho correspondente a prevista para as funções a serem desempenhadas.
+
+
+Art. 6º.
+
+Só poderão ser contratados, nos termos desta Lei, as pessoas que comprovarem os seguintes requisitos:
+
+
+I –
+
+Ser brasileiro;
+
+
+II –
+
+Estar em gozo dos direitos políticos;
+
+
+III –
+
+Gozar de boa saúde física e mental e não ser portador de deficiência incompatível com o exercício das funções;
+
+
+IV –
+
+Ter boa conduta;
+
+
+V –
+
+Possuir habilitação profissional para o exercício das funções, quando for o caso;
+
+
+VI –
+
+Atender às condições especiais, prescritas em Lei ou Decreto, para determinada funções.
+
+
+Art. 7º.
+
+As contratações com base nesta Lei serão feitas na forma prevista no art. 433, parágrafo 1º, da Consolidação das Leis do Trabalho e dependerão da existência de recursos orçamentários.
+
+
+Art. 8º.
+
+O salário do pessoal contratado no regime instituído por esta Lei será o mesmo fixado para cargos idênticos ou assemelhado, integrante do quadro de cargos e empregos do Município.
+
+
+Parágrafo único
+
+Na contratação de pessoal para cumprir jornada de trabalho diversa do pessoal efetivo do Município, os salários serão aumentados ou reduzidos na mesma proporção.
+
+
+Art. 9º.
+
+Os contratados nos termos da presente Lei terão os mesmos direitos e vantagens dos demais servidores públicos municipais, no que couber.
+
+
+Art. 10.
+
+Ocorrerá a rescisão contratual:
+
+
+I –
+
+A pedido do contratado;
+
+
+II –
+
+Pela conveniência da administração, a juízo da autoridade que procedeu a contratação;
+
+
+III –
+
+Quando o contratado incorrer em falta disciplinar.
+
+
+§ 1º
+
+Na hipótese dos incisos I e III do artigo anterior, o contratado terá direito a:
+
+
+I –
+
+13º salário proporcional ao tempo de serviço.
+
+
+§ 2º
+
+Na hipótese do inciso II do artigo anterior, o contratado terá direito a:
+
+
+I –
+
+13º salário proporcional ao tempo de serviço.
+
+
+Art. 11.
+
+É vedado atribuir ao contratado, encargos ou serviços diversos daqueles constantes do contrato, bem como designações especiais, nomeações para cargos em comissão, afastamentos de qualquer espécie, exceto os compatíveis com a natureza deste vínculo.
+
+
+Art. 12.
+
+É vedada a contratação para função correspondente a cargos em comissão, demissível ad-nutum.
+
+
+Art. 13.
+
+As despesas com execução desta Lei correrão por conta das dotações orçamentárias próprias.
+
+
+Art. 14.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal,
+
+Conceição do Coité, 22 de janeiro de 2003.
+
+WELLINGTON PASSOS DE ARAÚJO
+
+Prefeito Municipal
+

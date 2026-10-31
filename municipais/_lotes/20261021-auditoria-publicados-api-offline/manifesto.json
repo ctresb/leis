@@ -1,0 +1,30 @@
+{
+  "head": "606a8a142f8e34abe91ab81cb60a3435d88adb92",
+  "escopo": "Somente blobs municipais de normas no HEAD fixo; cache existente dos hosts explicitamente vinculados. Nenhuma consulta HTTP, índice ou status Git global.",
+  "contagens": {
+    "publicados": 15273,
+    "vinculo_sapl_identificavel": 4166,
+    "norma_com_cache_api": 4166,
+    "ta_usado_com_cache_api": 772,
+    "com_proposta_revisao": 0
+  },
+  "hosts": 341,
+  "caches_lidos": 10760,
+  "caches_ilegíveis": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/5f835735aaedf06a3f343c834003d20406d12024f049ecc51b46a62f715c177e.json",
+      "erro": "JSONDecodeError"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/15b89cc79f93b1635ab75e8d93db6afc9cb02f788dcdc89fc42b61fba8261843.json",
+      "erro": "JSONDecodeError"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/33891872a6e3bdfb3be1a82a0c715f69b0d6a4a1ef52f47018a4e7659b113333.json",
+      "erro": "JSONDecodeError"
+    }
+  ],
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "codigo_sha256": "919ba4a626a5229f670955de918d393398ce5755b96573eef499b17c00644999",
+  "limite": "Propostas não são declaração de invalidade nem contagem de atos incorretos. API pode conter erro cadastral ou versões conflitantes; exigir fonte literal e contexto antes de corrigir. Versão TA privada paralela não utilizada é ignorada. Ausência de cache/metadado permanece inconclusiva."
+}

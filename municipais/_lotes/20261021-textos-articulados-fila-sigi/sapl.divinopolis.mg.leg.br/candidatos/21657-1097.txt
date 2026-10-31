@@ -1,0 +1,184 @@
+Dispõe sobre os procedimentos e rotinas internas da Câmara Municipal de Divinópolis para a proposição, processamento, acompanhamento e fiscalização das emendas parlamentares impositivas à Lei Orçamentária Anual.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DE DIVINÓPOLIS, no uso de suas atribuições legais, regimentais e constitucionais, especialmente aquelas conferidas pela Lei Orgânica do Município e pelo Regimento Interno da Casa;
+
+CONSIDERANDO que a Constituição da República Federativa do Brasil, em seus artigos 37, caput, e 163-A, impõe à Administração Pública, de todos os Poderes e esferas, a estrita observância dos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência, bem como o dever de garantir a transparência, a rastreabilidade e a comparabilidade dos dados orçamentários e financeiros;
+
+CONSIDERANDO o novo regime jurídico das emendas parlamentares decorrente da decisão proferida pelo Supremo Tribunal Federal na Arguição de Descumprimento de Preceito Fundamental (ADPF) nº 854, que declarou a inconstitucionalidade das práticas que impeçam a plena identificação dos beneficiários e a rastreabilidade dos recursos públicos, determinando a adoção de medidas de conformidade e transparência em simetria ao modelo federal, aplicáveis a Estados e Municípios a partir de 1º de janeiro de 2026;
+
+CONSIDERANDO as disposições da Lei Complementar nº 210, de 21 de novembro de 2024, que estabelece regras de transparência, reserva de recursos e critérios de execução para as emendas parlamentares;
+
+CONSIDERANDO o teor da Instrução Normativa nº 05, de 10 de dezembro de 2025, do Tribunal de Contas do Estado de Minas Gerais (TCEMG), que estabelece normas cogentes para assegurar a transparência, a rastreabilidade e a conformidade constitucional das emendas parlamentares estaduais e municipais, exigindo a identificação precisa dos objetos, beneficiários e a apresentação prévia de planos de trabalho;
+
+CONSIDERANDO a Recomendação MPC-MG nº 01, de 18 de dezembro de 2025, expedida pelo Ministério Público de Contas do Estado de Minas Gerais, que orienta a implementação de medidas administrativas rigorosas para adequação das emendas parlamentares ao modelo de transparência e rastreabilidade, sob pena de responsabilização por infração à ordem orçamentária e financeira;
+
+CONSIDERANDO a edição do Decreto Municipal nº 17.130, de 13 de janeiro de 2026, pelo Poder Executivo de Divinópolis, que regulamenta o fluxo de execução das emendas impositivas no âmbito da Administração Municipal, estabelecendo prazos, fases de análise técnica e requisitos documentais para as entidades beneficiárias, o que demanda a necessária harmonização dos procedimentos legislativos internos para evitar a proposição de emendas tecnicamente inviáveis;
+
+CONSIDERANDO a necessidade imperiosa de estabelecer um rito processual interno que atribua responsabilidades claras aos parlamentares propositores quanto à viabilidade preliminar das indicações, bem como de fortalecer o papel fiscalizatório das Comissões Permanentes, em especial a Comissão de Fiscalização Financeira e Orçamentária (CFFO), no acompanhamento da execução e na análise da idoneidade das beneficiárias;
+
+RESOLVE baixar a seguinte Portaria:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS E OBJETIVOS
+
+
+Art. 1º.
+
+Esta Portaria regulamenta os procedimentos internos da Câmara Municipal de Divinópolis relativos à proposição, formalização, transparência e fiscalização das emendas parlamentares impositivas individuais ao Projeto de Lei Orçamentária Anual e aos projetos de créditos adicionais, com o objetivo de assegurar a integridade, a rastreabilidade e a efetividade na alocação dos recursos públicos, no âmbito das competências do Poder Legislativo e em conformidade com a Lei Complementar nº 210/2024.
+
+
+Art. 2º.
+
+Os procedimentos estabelecidos visam garantir que as emendas parlamentares apresentadas possuam condições técnicas e jurídicas mínimas de executabilidade, alinhando-se aos requisitos exigidos pela Constituição da República de 1988, da Lei Complementar nº 210/2024, Planos Plurianuais, Leis de Diretrizes Orçamentárias, Decretos Municipais nº 12.180/2016 e 17.130/2026 e pela Instrução Normativa TCEMG nº 05/2025, de modo a evitar o impedimento técnico na fase de execução.
+
+
+#### CAPÍTULO II — DO DEVER DE DILIGÊNCIA PRÉVIA E DA FORMALIZAÇÃO DAS PROPOSTAS
+
+
+Art. 3º.
+
+A prerrogativa parlamentar de apresentação de emendas impositivas ao orçamento municipal pressupõe o exercício do dever de diligência e responsabilidade fiscal, incumbindo obrigatoriamente a cada vereador, previamente à apresentação formal da emenda no sistema legislativo, realizar pesquisa detalhada e verificação documental sobre a existência, a regularidade jurídica e fiscal e a capacidade técnica das entidades do terceiro setor ou órgãos que pretendam indicar como beneficiários dos recursos.
+
+
+Parágrafo único
+
+O dever de diligência prévia de que trata o caput deste artigo compreende, minimamente, a verificação da regularidade do Cadastro Nacional de Pessoa Jurídica (CNPJ), a vigência dos mandatos da diretoria da entidade, a existência de declaração de utilidade pública quando exigível por lei municipal, e a compatibilidade entre o objeto da emenda pretendida e as finalidades estatutárias da instituição beneficiária, devendo o vereador abster-se de apresentar emenda destinada a entidade que notoriamente não preencha os requisitos para a celebração de parcerias com o Poder Público previstos na Lei Federal nº 13.019/2014, na Lei Complementar nº 210/2024 e no Decretos Municipais nº 12.180/2016 e 17.130/2026.
+
+
+Art. 4º.
+
+É de incumbência dos vereadores autores procederem ao preenchimento integral e correto dos formulários de especificação das emendas impositivas, utilizando-se rigorosamente dos modelos padronizados e disponibilizados pelo Poder Executivo Municipal, os quais deverão conter todos os dados necessários para a correta identificação do objeto, do beneficiário e do valor, em consonância com a classificação orçamentária vigente.
+
+
+§ 1º
+
+Os formulários de especificação e a respectiva emenda parlamentar deverão ser protocolados no sistema de processo legislativo eletrônico (Sapl) dentro dos prazos regimentalmente previstos para a apresentação de emendas ao projeto de lei orçamentária, sob pena de preclusão e não recebimento da proposição.
+
+
+§ 2º
+
+No ato de elaboração da emenda, o vereador deverá instruir o processo legislativo com a documentação preliminar que fundamenta a indicação, incluindo a identificação clara da política pública a ser atendida e, quando se tratar de repasse a organizações da sociedade civil, a indicação preliminar do objeto a ser pactuado, de forma a subsidiar a futura análise de viabilidade técnica pelo Poder Executivo e a análise de conformidade pela Comissão de Fiscalização Financeira e Orçamentária.
+
+
+#### CAPÍTULO III — DA TRANSPARÊNCIA NO PROCESSO LEGISLATIVO ORÇAMENTÁRIO
+
+
+Art. 5º.
+
+Durante toda a tramitação dos projetos de leis orçamentárias (Plano Plurianual, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual), as emendas impositivas apresentadas, bem como os respectivos formulários de especificação, justificativas, documentos anexos e pareceres das comissões, ficarão integralmente disponíveis para acesso público irrestrito e em tempo real no Sistema de Apoio ao Processo Legislativo (SAPL).
+
+
+#### CAPÍTULO IV — DAS ATRIBUIÇÕES DA COMISSÃO DE FISCALIZAÇÃO FINANCEIRA E ORÇAMENTÁRIA (CFFO)
+
+
+Art. 6º.
+
+Compete à Comissão de Fiscalização Financeira e Orçamentária (CFFO), com o apoio técnico dos setores administrativos da Câmara, a responsabilidade integral pelo acompanhamento institucional das emendas impositivas, desde a sua fase de aprovação legislativa até a efetiva execução e prestação de contas, devendo reportar periodicamente ao Plenário as suas conclusões e os eventuais impedimentos identificados.
+
+
+Art. 7º.
+
+A Comissão de Fiscalização Financeira e Orçamentária (CFFO) será a responsável, no âmbito do Poder Legislativo, pela realização da análise técnica e jurídica prevista no art. 5º da Lei Municipal nº 5.207, de 23 de novembro de 2001.
+
+
+Parágrafo único
+
+O parecer da CFFO que concluir pela existência de inconsistências na documentação da entidade beneficiária nos termos da Lei nº 5.207/2001 deverá ser fundamentado e enviado imediatamente ao autor da emenda, ao Presidente da Câmara e à respectiva entidade, para que possa se manifestar sobre seu teor.
+
+
+Art. 8º.
+
+Incumbe ainda à Comissão de Fiscalização Financeira e Orçamentária (CFFO) a responsabilidade pela elaboração do relatório de gestão e execução das emendas parlamentares do Poder Legislativo.
+
+
+§ 1º
+
+Em sua análise, a CFFO deverá proceder ao confronto das informações de execução física e financeira com os planos de trabalho aprovados e com as indicações originais dos parlamentares.
+
+
+§ 2º
+
+Após a análise de toda a documentação das entidades, bem como dos dados disponibilizados pelo Poder Executivo, a CFFO elaborará o relatório previsto no caput, que deverá ser submetido ao Plenário da Câmara Municipal e publicado na sua página na internet.
+
+
+#### CAPÍTULO V — DA PUBLICIDADE DA EXECUÇÃO E DO CONTROLE SOCIAL
+
+
+Art. 9º.
+
+A Câmara Municipal de Divinópolis fará constar, em seção específica e de fácil acesso na sua página oficial da internet (Portal da Transparência), os dados consolidados e atualizados referentes à execução das emendas impositivas, utilizando como base de dados as informações disponibilizadas pelo Poder Executivo Municipal e os relatórios produzidos pela Comissão de Fiscalização Financeira e Orçamentária.
+
+
+§ 1º
+
+A divulgação de que trata este artigo deverá observar o padrão de dados abertos e garantir a rastreabilidade total dos recursos, informando, para cada emenda:
+
+
+I –
+
+o número da emenda e o ano do exercício financeiro;
+
+
+II –
+
+o nome do vereador autor;
+
+
+III –
+
+o objeto da despesa e o local de execução;
+
+
+IV –
+
+o beneficiário final (CNPJ e Razão Social);
+
+
+V –
+
+o valor orçado, o valor empenhado, o valor liquidado e o valor pago;
+
+
+VI –
+
+a situação atual da execução (em análise, aprovada, em execução, concluída ou com impedimento técnico);
+
+
+VII –
+
+o link para acesso à integra do processo de prestação de contas, quando disponível.
+
+
+§ 2º
+
+A atualização das informações no portal da Câmara Municipal deverá ocorrer com a periodicidade mínima necessária para garantir a contemporaneidade dos dados, em sincronia com os ciclos de liberação de recursos pelo Poder Executivo e com os relatórios de fiscalização da CFFO.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 10.
+
+Os casos omissos e as dúvidas na interpretação desta Portaria serão resolvidos pela Mesa Diretora, ouvida a Procuradoria Jurídica da Casa e a Comissão de Fiscalização Financeira e Orçamentária.
+
+
+Art. 11.
+
+Esta Portaria entra em vigor na data de sua publicação.
+
+
+Divinópolis, 29 de janeiro de 2026.
+
+***Vereador Israel Mendonça***
+
+**Presidente da Câmara Municipal de Divinópolis**
+
+
+**ATENÇÃO**
+
+**O SAPL tem cunho informativo e educativo, sendo a fonte de publicação eletrônica do Processo Legislativo da Câmara Municipal de Divinópolis, dada sua capacidade de abrangência. Porém, não dispensa a consulta aos textos oficiais para a prova da existência de direito, nos termos do art. 337 do Código de Processo Civil.**
+
+**A compilação tem por finalidade abreviar e facilitar a consulta às fontes de informação legislativa. A compilação de Leis do Município de Divinópolis é uma iniciativa mantida pela Secretaria Legislativa da Câmara, em respeito à sociedade e ao seu direito de acesso à informação, com finalidade de facilitar a pesquisa de leis e suas relações.**
+
+**Assim, dadas as limitações existentes, essa compilação é um facilitador de pesquisa, mas não resume todo o processo e não deve, no estágio atual, ser a única referência.**

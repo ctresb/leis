@@ -1,0 +1,98 @@
+{
+  "estado": "indice_completo",
+  "total": 8,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/anexos_loa_2019_lei_983-2018.pdf da norma Lei orçamentaria anual-PMCV nº 957, de 29 de novembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2017/1/anexos_loa_2019_lei_983-2018.pdf",
+      "ano": 2017,
+      "norma": 473
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/anexo_i.pdf da norma Lei Complementar nº 1.062, de 01 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo I – Quadro de Pessoal Comissionado",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2022/2/anexo_i.pdf",
+      "ano": 2022,
+      "norma": 627
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/anexo_ii.pdf da norma Lei Complementar nº 1.062, de 01 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo II – Quadro de Pessoal Efetivo",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2022/3/anexo_ii.pdf",
+      "ano": 2022,
+      "norma": 627
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/4/anexo_iii_477_01.2025.pdf da norma Lei Complementar nº 1.062, de 01 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Anexo III – Quadro de Progressão Horizontal e Vertical;",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2022/4/anexo_iii_477_01.2025.pdf",
+      "ano": 2022,
+      "norma": 627
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/5/anexo_iv.pdf da norma Lei Complementar nº 1.062, de 01 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV – Quadro de Correlação de Cargos;",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2022/5/anexo_iv.pdf",
+      "ano": 2022,
+      "norma": 627
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/anexo_v.pdf da norma Lei Complementar nº 1.062, de 01 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexo V – Descrição Detalhada dos Cargos comissionados",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2022/6/anexo_v.pdf",
+      "ano": 2022,
+      "norma": 627
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/7/anexo_vi.pdf da norma Lei Complementar nº 1.062, de 01 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI – Tabela de Vencimentos",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2022/7/anexo_vi.pdf",
+      "ano": 2022,
+      "norma": 627
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/8/anexo_vii.pdf da norma Lei Complementar nº 1.062, de 01 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo VII – Atribuições dos Cargos e Requisitos Mínimos",
+      "anexo_arquivo": "http://sapl.canaverde.mg.leg.br/media/sapl/public/anexonormajuridica/2022/8/anexo_vii.pdf",
+      "ano": 2022,
+      "norma": 627
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaverde.mg.leg.br/af103350ec7eb47b54ec4557907385da05896e84aa506526af0b1d11dc51d56b.json",
+      "url": "https://sapl.canaverde.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.canaverde.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d916766362c08c34d1060e1d1ff2d042515775d9d2e338ebdea056d025e0cd69",
+      "bytes": 3525,
+      "capturado_em": "2026-10-27T22:25:00.442123-03:00"
+    }
+  ]
+}

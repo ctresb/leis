@@ -1,0 +1,111 @@
+---
+titulo: "Lei Ordinária-EM nº 2.345, de 05 de maio de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2345"
+data: "2011-05-05"
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.canapolis.mg.leg.br/norma/1717"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2011/1717/lei_2345-2011_-_autoriza_o_poder_executivo_a_suplementar_a_dotacao_que_especifica.pdf"
+sha256_fonte: "5190b6d3375b400e5861803fbeb4c2c5b2aa77b7e5d1c7c37bbd1c360643ca38"
+sha256_texto: "6a934ce3e754fbce030566bd2571c6046be9c6aefe2089a727478b25571f06ad"
+baixado_em: "2026-10-16"
+---
+
+# Lei Ordinária-EM nº 2.345, de 05 de maio de 2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Canápolis
+
+LEI N° 2.345/2011 AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECÍFICA. O PREFEITO MUNICIPAL. Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte lei:
+
+**Art. 1°** - Fica o Poder Executivo Municipal, autorizado a suplementar as seguintes dotações.
+
+02.06.04-3.3.90.30.01-12.361.0007.2.0019
+
+R$ 20.000,00 02.06.04-3.3.90.39.01-12.361.0007.2.0019 OUTROS SERVIÇOS PESSOA JURIDICA
+
+R$ 10.000,00 02.07.01-3.3.90.30.01-10.122.0010.2.0110
+
+DE: CONSUMOS DIVERSOS
+
+R$ 16.995,11 02.07.01-3.3.90.39.01-10.122.0010.2.0110
+
+SERVIÇOS PESSOAS JURÍDICAS R$ 8.350,00
+
+02.08.00-3.3.90.30.01-15.122.0014.2.0039 CONSUMOS DIVERSOS
+
+R$ 65.756,39 SO SERVIÇOS
+
+02.08.00-3.3.90.39.01-15.122.0014.2.0059
+
+R$ 19.500,00
+
+Praça 19 de Março, 304 Centro 1 CEP 38380 000
+
+Canapolis 02.09.00-3.3.90.30.01-20.606.0015.2.0046
+
+R$ 18.500,00 OUTROS SERVIÇOS 02.09.00-3.3.90.39.01-20.606.0015.2.0046 PESSOA JURIDICA R$ 6.475,00
+
+TOTAL DAS SUPLEMENTAÇÕES: R$ 165.576,50
+
+Art. 2ª - Para atender as despesas decorrentes do artigo 1° serão utilizados recursos por anulação das seguintes Dotações Orçamentárias: DIREÇÃO POLÍTICA 02.01.00-3.1.90.11.03-04.122.0002.2.0008 GOVERNATENTAL R$ 32.800,00
+
+02.01.00-3.3.90.30.01-04.122.0002.2.0008
+
+R$ 40.300,00 001.001 - RECUSROS DO MUNICIPIO 02.04.00-3.2.90.21.02-28.123.0000.8.0001 JUROS DIV. CONTRAT 001.001 - RECUSROS DO MUNICÍPIO R$ 33.176,50 02.04.00-3.3.90.39.01-04.123.0006.2.0014 SERVIÇOS
+
+001.001 - RECUSROS DO MUÑICÍPIO R$ 20.000,00 CONTRATO 02.06.04-3.1.90.04.01-12.366.0007.2.0051Í TEMPORARIO R$ 5.500,00
+
+DESPESAS VARIÁVEIS 02.06.04-3.1.90.16.01-12.365.0007.2.0018 PREFEITURA MUNICIPAL SE CARAPOLIS MG 001.002 - EDUCAÇÃO 25% / Praça 19 de Março, 304 Centro | CEP 38380 000 Fone 34 3266 3500 1 Fax 34 3266 3501
+
+Canápolis DESPESAS VARIAVEIS 02.06.04-3.1.90.16.01-12.365.0007.2.0022 R$ 2.100,00
+
+COMBUSTÍVEL 02.07.01-3.3.90.30.05-10.122.0010.2.0111
+
+R$ 525,00 COMBUSTÍVEL 02.07.01-3.3.90.30.05-10.301.0010.2.0099
+
+R$ 525,00 COMBUSTÍVEL 02.07.01-3.3.90.30.05-10.301.0010.2.0100
+
+R$ 525,00 005.013 - PROGRAMA DE SAÚDE EM CASA R$ 525,00 COMBUSTÍVEL 02.07.01-3.3.90.30.05-10.303.0010.2.0109 005.009 - FARMÁCIA DE MINAS R$ 525,00 COMBUSTÍVEL 02.07.01-3.3.90.30.05-10.305.0010.2.0105
+
+R$ 5.250,00 005.006 - VIGILÂNCIA EPIDEMOLÓGICA R$ 525,00 COMBUSTIVEL 02.07.01-3.3.90.30.05-10.305.0010.2.0106
+
+R$ 525,00 R$ 1:000,00 005.007 - VIGILÂNCIA SANITÁRIA
+
+02.09.00-3.3.90.30.01-15.452.0015.2.0044
+
+R$ 4.200,00
+
+02.09.00-3.3.90.30.01-18.541.0012.2.0029
+
+R$ 6.300,00
+
+Praça 19 de Março, 304 Centro | CEP 38380 000
+
+Canapolis 02.09.00-3.3.90.36.01-15.452.0015.2.0044
+
+SERV. PESSOA FISICA
+
+R$ 2.100,00 02.09.00-3.3.90.36.01-20.606.0015.2.0076
+
+SERV. PESSOA FÍSICA
+
+R$ 1.000,00
+
+02.09.00-3.3.90.39.01-15.452.0015.2.0044 SERV.
+
+R$ 2.100,00 02.09.00-3.3.90.39.01-18.541.0012.2.0029
+
+SERV.
+
+R$ 2.500,00 PRO RURAL 02.09.00-3.3.90.39.04-20.606.0015.2.0082 R$ 1.475,00 001.005 - PRO RURAL R$ 165.576,50 TOTAL DAS ANULAÇOES:
+
+**Art. 3°** - Esta Lei entra em vigor na data de sua publicação Prefeitura Municipal de Canápolis/MG, 05 de maio de 2011. AES SANTANA SON Prefeito Municipal
+
+Praça 19 de Março, 304 Centro I CEP 38380 000
+

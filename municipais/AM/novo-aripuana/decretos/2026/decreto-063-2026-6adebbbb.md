@@ -1,0 +1,28 @@
+---
+titulo: "DECRETO Nº 063 DE 04 DE MAIO DE 2026."
+uf: "AM"
+municipio: "NOVO ARIPUANÃ"
+tipo: "Decreto"
+numero: "063"
+data: 2026-05-04
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 08/05/2026"
+data_publicacao: 2026-05-08
+codigo_identificador: "6ADEBBBB"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118854_2026-05-07_109a7f6ff03db964a111e15761d93d2d.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 063 DE 04 DE MAIO DE 2026.
+
+DECRETO Nº 063 DE 04 DE MAIO DE 2026.
+DISPÕE SOBRE A NOMEAÇÃO DO SENHOR
+EDGAR LOBO BOM JESUS, PARA EXERCER O
+CARGO DE PROVIMENTO EFETIVO DE VIGIA.
+
+MARIA OLIMPIA DOS SANTOS PASSOS
+Secretária Municipal de Administração
+Ciente:
+Publicado por:
+Maria Olímpia Dos Santos Passos

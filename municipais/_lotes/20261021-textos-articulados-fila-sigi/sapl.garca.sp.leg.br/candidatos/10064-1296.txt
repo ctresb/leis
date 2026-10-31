@@ -1,0 +1,1009 @@
+CÂMARA MUNICIPAL DE GARÇA
+
+ESTADO DE SÃO PAULO  
+  
+**ATO DA MESA Nº 13/2013 NORMATIZA E DISCIPLINA OS PROCEDIMENTOS OPERACIONAIS DE CONTROLE PATRIMONIAL DOS BENS DA CÂMARA MUNICIPAL DE GARÇA**  
+  
+A MESA DA CÂMARA MUNICIPAL DE GARÇA, Estado São Paulo, usando de suas atribuições que lhe são conferidas pelo artigo 25 da Lei Orgânica Municipal, resolve baixar o seguinte ATO.
+
+
+RESOLVE:
+
+
+Art. 1º.
+
+Este Ato estabelece normas administrativas visando ao controle da movimentação patrimonial dos bens móveis e imóveis pertencentes à Câmara Municipal de Garça.
+
+
+### TÍTULO I — DA ORGANIZAÇÃO PATRIMONIAL
+
+
+#### CAPÍTULO I — DOS CONCEITOS
+
+
+Art. 2º.
+
+Para fins deste Ato considera-se:
+
+
+I –
+
+Amortização: redução do valor aplicado na aquisição de direitos de propriedade e quaisquer outros, inclusive ativos intangíveis, com existência ou exercício de duração limitada, ou cujo objeto sejam bens de utilização por prazo legal ou contratualmente limitado;
+
+
+II –
+
+Apropriação: incorporação dos custos de um bem patrimonial fabricado ou construído pelo próprio órgão, realizada mediante a identificação precisa de seu valor, por meio da verificação de seu custo de produção ou fabricação;
+
+
+III –
+
+Bem ocioso: quando o bem, embora em perfeitas condições de uso, não estiver sendo aproveitado;
+
+
+IV –
+
+Depreciação: redução do valor dos bens tangíveis pelo desgaste ou perda de utilidade por uso, ação da natureza ou obsolescência;
+
+
+V –
+
+Incorporação: inclusão de um bem no acervo patrimonial do Município, bem como a adição do seu valor à conta do ativo imobilizado da Contadoria;
+
+
+VI –
+
+Laudo: peça na qual o perito, profissional habilitado, relata o que observou e dá as suas conclusões ou avalia o valor de coisas ou direitos, fundamentadamente;
+
+
+VII –
+
+Reavaliação: adoção do valor de mercado ou de consenso para bens do ativo, quando esse for superior ao valor líquido contábil;
+
+
+VIII –
+
+Recebimento: ato pelo qual o material solicitado é recepcionado, em local previamente designado, ocorrendo nessa oportunidade apenas a conferência quantitativa relativa à data de entrega, firmando-se, na ocasião, a transferência da responsabilidade pela guarda e conservação do bem, do fornecedor para o Município;
+
+
+IX –
+
+Redução ao valor recuperável (impairment): ajuste ao valor de mercado ou de consenso para bens do ativo, quando esse for inferior ao valor líquido contábil;
+
+
+X –
+
+Tombamento: formalização da inclusão física de um bem patrimonial no acervo do Município. Efetiva-se com a atribuição de um número de tombamento, com a marcação física e com o cadastramento de dados;
+
+
+XI –
+
+Transferência: modalidade de movimentação de material, com troca de responsabilidade, de uma unidade administrativa para outra, integrantes da mesma entidade;
+
+
+XII –
+
+Valor de mercado ou valor justo (fair value): valor pelo qual um ativo pode ser intercambiado em condições independentes e isentas ou conhecedoras do mercado;
+
+
+XIII –
+
+Valor recuperável: valor de mercado de um ativo, menos o custo para a sua alienação, ou o valor que a entidade do setor público espera recuperar pelo uso futuro desse ativo nas suas operações; o que for maior;
+
+
+XIV –
+
+Valor da reavaliação ou valor da redução do ativo a valor recuperável: diferença entre o valor líquido contábil do bem e o valor de mercado ou de consenso, com base em laudo técnico;
+
+
+XV –
+
+Valor residual: montante líquido que a entidade espera, com razoável segurança, obter por um ativo no fim de sua vida útil econômica, deduzidos os gastos esperados para sua alienação;
+
+
+XVI –
+
+Responsável pelo Patrimônio: Unidade Administrativa ou o servidor responsável pelo registro do ingresso, movimentação e baixa de bens de natureza permanente;
+
+
+XVII –
+
+Sistema Patrimonial: sistema informatizado destinado ao registro do ingresso, movimentação, baixa, valorizações e desvalorizações dos bens de natureza permanente;
+
+
+XVIII –
+
+Unidade Administrativa: todas as unidades e órgãos integrantes da estrutura da Administração Direta Municipal.
+
+
+#### CAPÍTULO II — DAS ROTINAS
+
+
+##### Seção I — Do Ingresso
+
+
+###### Subseção I — Das modalidades
+
+
+Art. 3º.
+
+O ingresso de bens patrimoniais ocorre mediante compra, doação, permuta, produção própria, reprodução (semoventes), reposição, reativação e afins.
+
+
+Parágrafo único
+
+Todos os bens permanentes ingressados no patrimônio da Câmara Municipal que, pelo princípio da racionalização do processo administrativo, devam ser controlados com número patrimonial, serão recebidos, quando necessário, de forma provisória e definitiva, e registrados no sistema informatizado patrimonial e etiquetados.
+
+
+###### Subseção II — Do recebimento provisório
+
+
+Art. 4º.
+
+O recebimento provisório ocorrerá para efeito de posterior verificação da conformidade do material com a sua especificação.
+
+
+Parágrafo 1º
+
+O recebimento provisório será formalizado mediante aposição, no comprovante de entrega do fornecedor do bem, do carimbo oficial de recebimento provisório, seguido da assinatura do recebedor e da data de recebimento.
+
+
+Parágrafo 2º
+
+Por ocasião do recebimento provisório, e na falta do carimbo oficial, deverá ser indicado no comprovante de entrega do fornecedor do bem, ainda que manualmente, que o recebimento ocorreu nessas condições.
+
+
+Parágrafo 3º
+
+O servidor que tiver sob sua responsabilidade bens recebidos provisoriamente comunicará, no prazo máximo de 1 (um) dia útil, o fato ao responsável pelo Patrimônio, que solicitará vistoria por servidor ou comissão designada pela autoridade competente.
+
+
+###### Subseção III — Do recebimento definitivo
+
+
+Art. 5º.
+
+O recebimento definitivo de bem permanente será realizado após a verificação da qualidade e quantidade do material e consequente aceitação, e deverá ser realizado mediante rigorosa conferência, sob pena de responsabilidade administrativa, sem prejuízo da civil e criminal no que couber.
+
+
+Art. 6º.
+
+O recebimento definitivo cujo valor seja superior ao limite previsto na alínea “a” do inciso II do art. 23, da Lei nº 8666/1993, será realizado por comissão específica.
+
+
+Parágrafo único
+
+Nas aquisições de equipamentos de grande vulto, o recebimento far-se-á mediante termo circunstanciado.
+
+
+Art. 7º.
+
+O responsável pelo recebimento definitivo deverá, no prazo máximo de 1 (um) dia útil, comunicar o fato ao responsável pelo Patrimônio, que providenciará o processo de tombamento.
+
+
+Art. 8º.
+
+O recebimento de bens patrimoniais móveis por doação deverá ser formalizado em processo devidamente autuado, dele constando a relação de bens recebidos, o documento fiscal e o Termo de Doação.
+
+
+##### Seção II — Das Responsabilidades Patrimoniais
+
+
+Art. 9º.
+
+É de responsabilidade de todo aquele, pessoa física ou jurídica, pública ou privada, que utilize, guarde, gerencie ou administre bem patrimonial, comunicar ao Responsável pelo Patrimônio qualquer avaria, extravio ou danos de qualquer bem patrimonial sob sua responsabilidade, que possa influenciar na efetividade do inventário, sob pena de responsabilidade administrativa.
+
+
+Art. 10.
+
+Todo responsável por bem patrimonial que identificar indícios de inservibilidade do bem, especialmente em função de estar ocioso ou em desuso, deverá comunicar o fato ao Diretor Geral e ao Responsável pelo Patrimônio, que, por sua vez, providenciará o Termo de Transferência e o encaminhará para Almoxarifado ou equivalente.
+
+
+Art. 11.
+
+Em caso de extravio da plaqueta patrimonial, o responsável pelo bem deverá comunicar o fato imediatamente ao Responsável pelo Patrimônio.
+
+
+Art. 12.
+
+Os responsáveis pelos setores têm o dever de zelar pela boa guarda e conservação dos bens sob sua responsabilidade e, nos casos de dano ou extravio, deverão adotar os procedimentos administrativos cabíveis.
+
+
+Art. 13.
+
+Também é de responsabilidade de todo aquele, pessoa física ou jurídica, pública ou privada, que utilize, guarde, gerencie ou administre bem patrimonial, mantê-lo em condições adequadas para o desenvolvimento normal dos trabalhos, ficando obrigado a assinar Termo de Responsabilidade e/ou Termo de Transferência, conforme anexos I e II deste Ato, respectivamente.
+
+
+Art. 14.
+
+São deveres do responsável por bem patrimonial, em relação àquele sob sua guarda:
+
+
+I –
+
+zelar pela guarda, segurança e conservação;
+
+
+II –
+
+mantê-lo devidamente identificado com a plaqueta de patrimônio;
+
+
+III –
+
+comunicar ao Responsável pelo Patrimônio a necessidade de reparos necessários ao adequado funcionamento;
+
+
+IV –
+
+informar ao Responsável pelo Patrimônio a relação de bens permanentes obsoletos, ociosos, irrecuperáveis ou subutilizados, para que sejam tomadas as providências cabíveis;
+
+
+V –
+
+solicitar ao Responsável pelo Patrimônio, sempre que necessário, a movimentação de bens, mediante solicitação do Termo de Transferência e vistoria dos mesmos;
+
+
+VI –
+
+comunicar ao Responsável pelo Patrimônio, por escrito e imediatamente após o conhecimento do fato, a ocorrência de extravio ou de danos resultantes de ação dolosa ou culposa de terceiro;
+
+
+Art. 15.
+
+O responsável pelos bens terá o prazo de 15 (quinze) dias úteis para a conferência da relação daqueles sob sua guarda, a contar da destinação do bem à sua Unidade Administrativa.
+
+
+Parágrafo único
+
+Caso a conferência prevista no "caput" deste artigo não seja efetuada no prazo nele estipulado, a relação dos bens será considerada aceita tacitamente.
+
+
+#### CAPÍTULO III — DA INCORPORAÇÃO
+
+
+##### Seção I — Dos Procedimentos Gerais
+
+
+Art. 16.
+
+O registro da incorporação far-se-á mediante cadastro no sistema informatizado de controle patrimonial, de forma analítica, e lançamento contábil pela Contabilidade, de forma sintética.
+
+
+Art. 17.
+
+A classificação orçamentária, o controle patrimonial e o reconhecimento do ativo seguem critérios distintos, devendo ser apreciados individualmente.
+
+
+Parágrafo 1º
+
+A classificação orçamentária obedecerá aos parâmetros de distinção entre material permanente e de consumo.
+
+
+Parágrafo 2º
+
+O controle patrimonial obedecerá ao princípio da racionalização do processo administrativo.
+
+
+Parágrafo 3º
+
+No reconhecimento do ativo, obedecidas às normas de contabilidade pública, devem-se considerar os bens e direitos que possam gerar benefícios econômicos ou potencial de serviço.
+
+
+Art. 18.
+
+Em se tratando de bens produzidos pelo próprio órgão, a incorporação terá por base a apuração de seu custo de produção.
+
+
+Art. 19.
+
+A Contabilidade é setor responsável pela classificação e identificação da necessidade de registro sintético e analítico dos bens de natureza permanente.
+
+
+Art. 20.
+
+Quando se tratar de ativos do imobilizado obtidos a título gratuito, o valor do ativo deve ser considerado pelo resultado da avaliação obtida com base em procedimento técnico ou conforme o valor constante no termo da doação.
+
+
+Art. 21.
+
+Na avaliação dos ativos do imobilizado obtidos a título gratuito a eventual impossibilidade de mensuração do valor deve ser evidenciada em nota explicativa.
+
+
+Art. 22.
+
+A incorporação do bem ocorrerá somente quando identificado, no respectivo documento de ingresso, o recebimento definitivo, realizado por servidor ou comissão devidamente designada.
+
+
+##### Seção II — Do Registro Analítico
+
+
+###### Subseção I — Do tombamento
+
+
+Art. 23.
+
+O tombamento dos bens de natureza permanente contemplará o cadastro, o emplaquetamento e a emissão do termo de responsabilidade.
+
+
+Art. 24.
+
+O cadastro dos bens permanentes será realizado mediante a alimentação dos dados no sistema informatizado.
+
+
+Parágrafo único
+
+O cadastro referido no caput é atribuição exclusiva do Responsável pelo Patrimônio, mediante a utilização de usuário e senha individualizados.
+
+
+Art. 25.
+
+Haverá registro analítico de todos os bens de caráter permanente, de forma que seja assegurada a perfeita caracterização de cada um deles.
+
+
+Art. 26.
+
+A perfeita caracterização dos bens móveis contemplará a indicação das características físicas do bem, das medidas, do modelo, do tipo, do número de série ou numeração de fábrica, quando existentes, das cores e, quando pertinente, do material de fabricação e demais informações específicas que se mostrem necessárias.
+
+
+Art. 27.
+
+Após o cadastro, o Responsável pelo Patrimônio providenciará a emissão do Termo de Responsabilidade, conforme Anexo I deste Ato, e destinará o bem à Unidade Administrativa requisitante.
+
+
+Parágrafo único
+
+O Termo de Responsabilidade deverá ser assinado, obrigatoriamente, pelo responsável pela guarda e uso do bem.
+
+
+Art. 28.
+
+O valor do ativo quando da aquisição compreenderá:
+
+
+I –
+
+o preço de compra ou valor da aquisição;
+
+
+II –
+
+os impostos não recuperáveis sobre a compra;
+
+
+III –
+
+os descontos comerciais na compra;
+
+
+IV –
+
+outros gastos inerentes ao processo de aquisição e necessários ao funcionamento do bem;
+
+
+V –
+
+os gastos posteriores com possibilidade de geração de benefícios econômicos futuros.
+
+
+###### Subseção II — Do emplaquetamento
+
+
+Art. 29.
+
+O emplaquetamento será realizado pelo Responsável pelo Patrimônio ou por comissão designada para essa finalidade.
+
+
+Art. 30.
+
+A plaqueta deverá ser afixada em local perfeitamente visível, sem sobreposição de informações contidas nas etiquetas de fábrica, como número de série e afins, e de forma que se evitem áreas que possam acelerar a sua deterioração.
+
+
+Art. 31.
+
+Identificada a impossibilidade ou inviabilidade de se afixar a plaqueta em razão do tamanho ou estrutura física do bem, a identificação poderá ser realizada mediante gravação, pintura, entalhes ou outros meios que se mostrem convenientes.
+
+
+Parágrafo único
+
+As formas de identificação que se mostrem alternativas às etiquetas padronizadas deverão ser relacionadas pelo Responsável pelo Patrimônio por meio de formulário específico, que conterá a descrição dos bens, o número patrimonial, o responsável, a localização e o tipo de plaqueta empregado.
+
+
+Art. 32.
+
+Não haverá mais de uma plaqueta por bem, salvo exceções expressamente consignadas em relatório específico pelo Responsável pelo Patrimônio.
+
+
+Art. 33.
+
+Identificado o extravio de plaqueta, o Responsável pelo Patrimônio deverá providenciar a sua substituição, mantendo inalterada a numeração de tombamento.
+
+
+Parágrafo único
+
+Não havendo etiquetas padronizadas para reposição, o Responsável pelo Patrimônio poderá providenciar, provisoriamente, a identificação do bem por meio de pintura, carimbo, marca física, entre outros que se mostrem convenientes.
+
+
+Art. 34.
+
+Após o processo de tombamento, o Responsável pelo Patrimônio fará constar, mediante aposição de carimbo específico ou manualmente, no documento fiscal de ingresso do bem, o termo “Tombado”, indicando a data de tombamento e a assinatura.
+
+
+##### Seção III — Do Registro Sintético
+
+
+Art. 35.
+
+A Contabilidade manterá registros sintéticos dos bens móveis.
+
+
+Art. 36.
+
+Os registros sintéticos serão realizados em conformidade com as normas de contabilidade pública vigentes.
+
+
+##### Seção IV — Da Integração
+
+
+Art. 37.
+
+A Contabilidade adequará seus registros em razão do controle analítico exercido pelo Responsável pelo Patrimônio.
+
+
+Art. 38.
+
+As incorporações, as baixas, os saldos anteriores, saldos atuais, as depreciações do mês, as depreciações acumuladas, os valores de reavaliação ou redução ao valor recuperável, deverão constar no Relatório de Movimentação Patrimonial, conforme Anexo V deste Ato, a ser encaminhado à Contabilidade, pelo Responsável pelo Patrimônio, até o 5º dia útil de cada mês.
+
+
+Art. 39.
+
+Sempre que a Contabilidade identificar qualquer inconsistência no sistema de controle interno patrimonial que possa prejudicar a fidedignidade das informações prestadas pelo Responsável pelo Patrimônio, deverão ser realizados testes de auditoria, proposição das medidas corretivas e acompanhamento dos resultados sugeridos.
+
+
+Parágrafo único
+
+Enquanto permanecerem as inconsistências previstas no caput, a Contabilidade não adequará os seus registros aos cadastros do Responsável pelo Patrimônio.
+
+
+Art. 40.
+
+A Contabilidade encaminhará ao Responsável pelo Patrimônio todos os documentos fiscais relativos a material permanente que não contenham, mediante aposição de carimbo específico ou manualmente, o termo “Tombado”, com a indicação da data de tombamento e da respectiva assinatura.
+
+
+Parágrafo único
+
+A Contabilidade terá o prazo de 10 (dez) dias úteis para o cumprimento do disposto no caput.
+
+
+#### CAPÍTULO IV — DO TERMO DE RESPONSABILIDADE E DO REPARO DE BENS
+
+
+##### Seção I — Do Termo de Responsabilidade
+
+
+Art. 41.
+
+Após o cadastro e emplaquetamento, o Responsável pelo Patrimônio destinará o bem ao setor requisitante e providenciará a emissão do Termo de Responsabilidade, conforme Anexo I deste Ato.
+
+
+Parágrafo único
+
+O Termo de Responsabilidade deverá ser assinado, obrigatoriamente, pelo responsável pela guarda e uso dos bens.
+
+
+##### Seção II — Do Reparo de Bens
+
+
+Art. 42.
+
+A saída de bens permanentes em virtude de conserto deverá acompanhar o Termo de Reparo Patrimonial, conforme Anexo IV deste Ato.
+
+
+Art. 43.
+
+O Termo de Reparo Patrimonial conterá a assinatura do responsável pelo setor detentor do bem, do Responsável pelo Patrimônio e do prestador de serviço.
+
+
+#### CAPÍTULO V — DA TRANSFERÊNCIA
+
+
+##### Seção I — Do Termo de Transferência
+
+
+Art. 44.
+
+O Termo de Transferência deverá ser assinado pelo responsável do setor que transfere o bem, pelo responsável do setor que recebe o bem e, por fim, pelo responsável pelo Responsável pelo Patrimônio.
+
+
+Art. 45.
+
+Compete ao Responsável pelo Patrimônio a emissão do termo de transferência.
+
+
+Art. 46.
+
+Todos os envolvidos no processo de transferência receberão 1 (uma) via do Termo de Transferência, conforme Anexo II deste Ato.
+
+
+##### Seção II — Dos Procedimentos e da Formalidade
+
+
+Art. 47.
+
+A transferência consiste na modalidade de movimentação de material, com troca de responsabilidade, de um setor para outro, integrantes da mesma Entidade.
+
+
+Art. 48.
+
+A transferência deverá ser registrada no sistema informatizado patrimonial, com a devida troca de responsabilidade, seguida da emissão e assinatura do Termo de Transferência, conforme Anexo II deste Ato.
+
+
+Art. 49.
+
+O registro da transferência tem por finalidade controlar a movimentação dos bens patrimoniais móveis de um setor para outro, sem alteração patrimonial quantitativa, resultando somente na troca de responsabilidade pela guarda e uso do bem.
+
+
+Art. 50.
+
+Todas as transferências patrimoniais deverão ser acompanhadas pelo Responsável pelo Patrimônio.
+
+
+Art. 51.
+
+A transferência entre setores de bens móveis permanentes depende do conhecimento tempestivo do Responsável pelo Patrimônio, que atualizará os seus registros.
+
+
+Art. 52.
+
+Após a transferência, o recebedor do bem será o responsável por sua guarda e uso, respondendo administrativamente pela sua conservação, sem prejuízo da responsabilização civil e criminal, no que couber.
+
+
+#### CAPÍTULO VI — DA BAIXA
+
+
+Art. 53.
+
+O registro da baixa tem por finalidade controlar a exclusão do bem móvel do patrimônio municipal quando verificado furto, extravio, sinistro, morte (semovente), alienações, alteração de enquadramento de elemento de despesa, sucateamento e outros, devendo ser feito por meio do Termo de Baixa, conforme Anexo III deste Ato, emitido e arquivado pelo Responsável pelo Patrimônio.
+
+
+Art. 54.
+
+A baixa de bem patrimonial móvel será formalizada mediante a emissão e assinaturas do termo de baixa, anexado ao laudo ou parecer técnico motivador da baixa.
+
+
+Parágrafo 1º
+
+O laudo técnico deverá ser emitido por comissão de servidores devidamente designada ou por pessoa física ou jurídica especializada, constando o valor de reavaliação dos bens, o estado de conservação e, tratando-se de bem inservível, a sua subclassificação.
+
+
+Parágrafo 2º
+
+O laudo de que trata este artigo deverá ser emitido com base em estudo técnico circunstanciado, padronizado e comprovável por meio de documentos.
+
+
+Art. 55.
+
+Na hipótese de furto, sinistro ou extravio de bem patrimonial móvel, sua baixa deverá ser acompanhada da ocorrência policial e da conclusão do processo de sindicância
+
+
+Art. 56.
+
+A baixa de bem patrimonial móvel motivada por alienação sempre deverá ser precedida de procedimento licitatório, exceto nos casos previstos em lei.
+
+
+Art. 57.
+
+A baixa de veículos automotores deverá obedecer às orientações contidas neste Ato e demais normas pertinentes, em especial às de trânsito.
+
+
+#### CAPÍTULO VII — DA DISPONIBILIDADE DOS BENS
+
+
+Art. 58.
+
+O Responsável pelo Patrimônio emitirá a Lista de Bens em Disponibilidade, dando conhecimento a todas os setores, concedendo o prazo de 10 (dez) dias úteis, contados a partir da data da emissão, para as Unidades manifestarem interesse por esses bens.
+
+
+Art. 59.
+
+O setor interessado pelo(s) bem(ns) em disponibilidade entrará em contato com o Responsável pelo Patrimônio dentro do prazo indicado no art. 58, que providenciará a emissão do Termo de Transferência e a sua destinação ao solicitante interessado.
+
+
+Art. 60.
+
+Decorrido o prazo estabelecido no art. 58 sem que haja interessado pelos bens em disponibilidade, o Responsável pelo Patrimônio encaminhará a relação desses bens ao setor competente, para que se proceda à alienação.
+
+
+Art. 61.
+
+Havendo necessidade extraordinária de desfazimento em tempo inferior ao estabelecido no art. 58, o Responsável pelo Patrimônio poderá encaminhar, formalmente, a todos os responsáveis pelos setores, a relação dos bens disponíveis, reduzindo o prazo aí estabelecido.
+
+
+#### CAPÍTULO VIII — DA REAVALIAÇÃO E DA REDUÇÃO AO VALOR DE MERCADO
+
+
+##### Seção I — Da Reavaliação
+
+
+Art. 62.
+
+Quando um item do ativo imobilizado é reavaliado, a depreciação acumulada na data da reavaliação deve ser eliminada contra o valor contábil bruto do ativo, atualizando-se o seu valor líquido pelo valor reavaliado
+
+
+Parágrafo único
+
+O registro previsto no caput será realizado nos registros analítico, Pelo Responsável pelo Patrimônio, e sintético, pela Contabilidade.
+
+
+Art. 63.
+
+Quando um item do ativo imobilizado é reavaliado, todo o grupo de contas do ativo imobilizado ao qual pertence esse ativo também deverá ser reavaliado.
+
+
+Art. 64.
+
+A reavaliação, que será feita de forma quadrienal, será realizada através da elaboração de um laudo técnico por perito ou entidade especializada, ou por meio de relatório de avaliação realizado por uma comissão de servidores, devidamente designada para essa finalidade.
+
+
+Art. 65.
+
+Constarão no laudo técnico previsto no artigo anterior:
+
+
+I –
+
+a documentação com a descrição detalhada referente a cada bem que esteja sendo avaliado;
+
+
+II –
+
+a identificação contábil do bem;
+
+
+III –
+
+os critérios utilizados para avaliação do bem e sua respectiva fundamentação;
+
+
+IV –
+
+a vida útil remanescente do bem, para que sejam estabelecidos os critérios de depreciação, a amortização ou a exaustão;
+
+
+V –
+
+a data de avaliação;
+
+
+VI –
+
+a identificação do responsável pela reavaliação.
+
+
+Art. 66.
+
+Poderão servir de fonte de informação para a avaliação do valor de um bem, além de outros meios que se mostrem convenientes:
+
+
+I –
+
+o valor de mercado apurado em pesquisa junto a empresas, por anúncios e outros meios;
+
+
+II –
+
+para os veículos, o valor previsto na tabela que expressa os preços médios de veículos efetivamente praticados no mercado brasileiro expedida pela Fundação Instituto de Pesquisas Econômicas, também conhecida como Tabela FIPE.
+
+
+Art. 67.
+
+Havendo a impossibilidade de se estabelecer o valor de mercado do ativo, pode-se defini-lo com base em parâmetros de referência que considerem bens com características, circunstâncias e localizações assemelhadas.
+
+
+Parágrafo 1º
+
+Para esta hipótese, serão adotados, como metodologia para reavaliação/avaliação de bens e atribuições de valores, os seguintes procedimentos:
+
+
+a)
+
+apuração do preço corrente de mercado do bem;
+
+
+b)
+
+identificação do estado de conservação do bem;
+
+
+c)
+
+atribuição de percentuais ao valor corrente do bem, considerando o estado de conservação e decorrente depreciação, que será desenvolvida com base na tabela e fórmulas de cálculo a seguir:
+
+
+<table><tbody><tr><td><strong>Fatores de Influência para Efeito de Reavaliação</strong></td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>Estado de Conservação do Bem - EC</strong></td><td><strong>Período de Vida Útil do Bem (já utilizado) PVU</strong></td><td><strong>Período de Utilização Futura do Bem (previsão) PUB</strong></td></tr></tbody></table>
+
+<table><tbody><tr><td><div>Conceito</div></td><td><div>Pontos</div></td><td><div> </div></td><td><div>Conceito</div></td><td><div>Pontos</div></td><td><div> </div></td><td><div>Conceito</div></td><td><div>Pontos</div></td><td><div> </div></td></tr><tr><td><div>Excelente</div><div>Bom</div><div>Regular</div><div>Péssimo</div></td><td><div>10</div><div>8</div><div>5</div><div>2</div></td><td> </td><td><div>10 anos ou mais</div><div>9 anos</div><div>8 anos</div><div>7 anos</div><div>6 anos</div><div>5 anos</div><div>4 anos</div><div>3 anos</div><div>2 anos</div><div>1 ano</div></td><td><div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>10</div></td><td> </td><td><div>10 anos ou mais</div><div>9 anos</div><div>8 anos</div><div>7 anos</div><div>6 anos</div><div>5 anos</div><div>4 anos</div><div>3 anos</div><div>2 anos</div><div>1 ano</div></td><td><div>1</div><div>2</div><div>3</div><div>4</div><div>5</div><div>6</div><div>7</div><div>8</div><div>9</div><div>10</div></td><td><div> </div></td></tr></tbody></table>
+
+Fator de Reavaliação = **4 EC + 6 PVU – 3 PUB**  
+  
+Valor Reavaliado = Valor do bem novo x Fator de reavaliação  
+100
+
+
+Parágrafo 2º
+
+O valor residual do bem é o montante líquido que, com razoável segurança, se espera obter por um ativo no fim de sua vida útil econômica, deduzidos os gastos esperados para sua alienação, que terá como avaliação os critérios da tabela seguinte:
+
+
+<table><tbody><tr><td><strong>ITEM</strong></td><td><strong>CATEGORIA</strong></td><td><strong>VIDA ÚTIL FUTURADA</strong></td><td><strong>TAXA ANUAL</strong></td></tr><tr><td><strong>01</strong></td><td>Cadeiras e poltronas</td><td>10 anos</td><td>10%</td></tr><tr><td><strong>02</strong></td><td>Móveis em geral</td><td>10 anos</td><td>10%</td></tr><tr><td><strong>03</strong></td><td>Computadores e Periféricos</td><td>05 anos</td><td>20%</td></tr><tr><td><strong>04</strong></td><td>Equipamentos eletroeletrônicos, máquinas e utensílios</td><td>10 anos</td><td>10%</td></tr><tr><td><strong>05</strong></td><td>Sistema de Som</td><td>10 anos</td><td>10%</td></tr><tr><td><strong>06</strong></td><td>Sistema de Telefonia</td><td>10 anos</td><td>10%</td></tr><tr><td><strong>07</strong></td><td>Veículos</td><td>05 anos</td><td>20%</td></tr><tr><td><strong>08</strong></td><td>Itens Diversos</td><td>10 anos</td><td>10%</td></tr><tr><td><strong>09</strong></td><td>Imóveis</td><td>25 anos</td><td>4%</td></tr></tbody></table>
+
+
+Parágrafo 3º
+
+O bem imóvel será avaliado por profissional competente.
+
+
+Parágrafo 4º
+
+A tabela de vida útil econômica, estabelecida no § 2º deste artigo, deverá ser revisada, pelo menos, no final de cada exercício, quando as expectativas diferirem das estimadas anteriormente.
+
+
+Parágrafo 5º
+
+Depois de efetuada a reavaliação, o Responsável pelo Patrimônio extrairá cópia das relações de reavaliação e atualizará os registros do sistema patrimonial e enviará ao Setor Contábil para atualizar os registros.
+
+
+##### Seção II — Da Redução ao Valor Recuperável
+
+
+Art. 68.
+
+A obtenção do valor recuperável deverá considerar o maior valor entre o valor justo menos os custos de alienação de um ativo e o seu valor em uso.
+
+
+Parágrafo único
+
+Valor justo é aquele pelo qual o ativo pode ser trocado, existindo amplo conhecimento por parte dos envolvidos no negócio, em uma transação sem favorecimentos.
+
+
+Art. 69.
+
+Na obtenção do preço de mercado, será priorizado o preço atual de cotação. Caso o preço atual não esteja disponível, será utilizado o preço da transação mais recente, devendo ser justificado o motivo pelo qual não se obteve o preço atual.
+
+
+Art. 70.
+
+Na realização do teste de imparidade será considerado, além do valor de mercado, o valor em uso do ativo.
+
+
+Art. 71.
+
+Identificada e aplicada a perda por irrecuperabilidade, deve-se avaliar e indicar a vida útil remanescente do bem e do seu valor residual.
+
+
+#### CAPÍTULO IX — DA DEPRECIAÇÃO
+
+
+Art. 72.
+
+O registro da depreciação será realizado de forma analítica, pelo Responsável pelo Patrimônio, e sintética, pela Contabilidade.
+
+
+Art. 73.
+
+Na definição das taxas de depreciação considerar-se-á a deterioração física do bem, assim como o seu desgaste com uso e a sua obsolescência.
+
+
+Parágrafo 1º
+
+Os critérios indicados no caput também serão utilizados para se definir a necessidade de depreciação de determinado bem ou de grupo de ativo.
+
+
+Parágrafo 2º
+
+Adotar-se-á a seguinte tabela para fixação da taxa de depreciação dos bens adquiridos, de acordo com o enquadramento dos mesmos na respectiva categoria:
+
+
+<table><tbody><tr><td><div><strong>ITEM</strong></div></td><td><div><strong>CATEGORIA</strong></div></td><td><div><strong>VIDA ÚTIL FUTURA</strong></div></td><td><div><strong>TAXA ANUAL</strong></div></td><td><div><strong>VALOR RESIDUAL</strong></div></td></tr><tr><td><div><strong>01</strong></div></td><td>Cadeiras poltronas</td><td>10 anos</td><td>10%</td><td>10%</td></tr><tr><td><div><strong>02</strong></div></td><td>Móveis em geral</td><td>10 anos</td><td>10%</td><td>10%</td></tr><tr><td><div><strong>03</strong></div></td><td>Computadores e Periféricos</td><td>05 anos</td><td>20%</td><td>10%</td></tr><tr><td><div><strong>04</strong></div></td><td>Equipamentos eletroeletrônicos, máquinas e utensílios</td><td>10 anos</td><td>10%</td><td>10%</td></tr><tr><td><div><strong>05</strong></div></td><td>Sistema de Som</td><td>10 anos</td><td>10%</td><td>10%</td></tr><tr><td><div><strong>06</strong></div></td><td>Sistema de Telefonia</td><td>10 anos</td><td>10%</td><td>10%</td></tr><tr><td><div><strong>07</strong></div></td><td>Veículos</td><td>05 anos</td><td>20%</td><td>10%</td></tr><tr><td><div><strong>08</strong></div></td><td>Itens Diversos</td><td>10 anos</td><td>10%</td><td>10%</td></tr><tr><td><div><strong>09</strong></div></td><td>Imóveis</td><td>25 anos</td><td>4%</td><td>10%</td></tr></tbody></table>
+
+
+Art. 74.
+
+O registro da depreciação é mensal, devendo os dados estar disponíveis a qualquer momento pelo Responsável pelo Patrimônio.
+
+
+Art. 75.
+
+A depreciação cessará ao término do período de vida útil do bem e desde que o seu valor contábil seja igual ao valor residual.
+
+
+Art. 76.
+
+A definição da vida útil será realizada, para os bens novos, pelo Setor de Contabilidade, e, para os bens sujeitos a nova avaliação, pela comissão de servidores ou especialista responsável pelo processo.
+
+
+Parágrafo único
+
+Todos os fatores considerados para a determinação do tempo de vida útil do bem serão documentados, indicando os parâmetros e índices que tenham sido utilizados, bem como as normas ou laudos técnicos.
+
+
+Art. 77.
+
+O registro da depreciação terá como método a linha reta, ou cotas constantes, em que se utiliza de taxa de depreciação constante durante a vida útil do ativo, caso o seu valor residual não se altere.
+
+
+Art. 78.
+
+A depreciação inicia-se no mês seguinte à colocação do bem em condições de uso, não havendo depreciação em fração menor que um mês.
+
+
+Parágrafo único
+
+Tendo em vista que a sistemática de depreciação não era utilizada pela Câmara Municipal de Garça, fica estabelecida a data inicial de colocação dos bens em condições de uso para 01/01/2014.
+
+
+Art. 79.
+
+Caso o bem a ser depreciado já tenha sido usado anteriormente à sua posse pela Administração Pública, a Contabilidade poderá estabelecer como novo prazo de vida útil para o bem, de forma optativa:
+
+
+I –
+
+metade do tempo de vida útil dessa classe de bens;
+
+
+II –
+
+resultado de uma avaliação técnica que defina o tempo de vida útil pelo qual o bem ainda poderá gerar benefícios para o ente;
+
+
+III –
+
+restante do tempo de vida útil do bem, levando em consideração a primeira instalação desse bem.
+
+
+#### CAPÍTULO X — DO INVENTÁRIO
+
+
+Art. 80.
+
+A realização do “Inventário Geral dos Bens Patrimoniais Móveis” deve atender ao disposto na Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 81.
+
+O Inventário Geral dos Bens Patrimoniais Móveis deverá ser encaminhado, anualmente à Contabilidade, até 3 (três) dias úteis após o encerramento do exercício contábil, que ocorre em 31 de dezembro.
+
+
+Art. 82.
+
+O Inventário Geral dos Bens Patrimoniais Móveis será realizado pelo responsável pelo setor de Patrimônio ou por comissão específica devidamente designada
+
+
+Art. 83.
+
+Durante o período de realização do Inventário, sem que haja em processo manifestação expressa do Responsável pelo Patrimônio, não poderá, em relação à Unidade Administrativa em vistoriamento:
+
+
+I –
+
+a Contabilidade liquidar despesas que se relacionem com aquisição, confecção, reforma e conservação de bens móveis;
+
+
+II –
+
+o Almoxarifado distribuir ou baixar bens móveis;
+
+
+III –
+
+haver transferências internas.
+
+
+Art. 84.
+
+Os responsáveis por cada setor serão comunicadas pelo Responsável pelo Patrimônio da realização do inventário, em, pelo menos, 15 (quinze) dias que antecedem o seu início.
+
+
+Art. 85.
+
+Após o recebimento dos inventários analíticos, a Contabilidade procederá à análise e aos ajustamentos necessários à apresentação do Balanço Geral, dentro do prazo estabelecido na legislação vigente.
+
+
+Parágrafo único
+
+Quando houver diferença entre os assentamentos contábeis e o inventário, a Contabilidade poderá realizar auditoria específica com o objetivo de apurar as divergências.
+
+
+#### CAPÍTULO XI — DO ARQUIVAMENTO
+
+
+Art. 86.
+
+O Responsável pelo Patrimônio manterá arquivadas as vias originais dos termos de responsabilidade e dos termos de transferência.
+
+
+Art. 87.
+
+Quando do arquivamento, os processos de bens patrimoniais móveis deverão conter, entre outros, os seguintes documentos:
+
+
+I –
+
+na incorporação: via original e assinada do termo de responsabilidade, conforme Anexo I deste Ato;
+
+
+II –
+
+na transferência: via original e assinada do Termo de Transferência, conforme Anexo II deste Ato;
+
+
+III –
+
+na baixa: via original e assinada do Termo de Baixa, conforme anexo III deste Ato.
+
+
+Art. 88.
+
+As plaquetas retiradas quando do processo de desfazimento ou alienação de bens serão arquivadas junto ao processo de baixa
+
+
+### TÍTULO II — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 89.
+
+O Responsável pelo Patrimônio encaminhará à Contadoria, até o 5º (quinto) dia útil de cada mês, o Formulário de Movimentação Patrimonial, que relacionará, de forma analítica, todas as incorporações e baixas de bens patrimoniais.
+
+
+Art. 90.
+
+Os anexos apresentados neste Ato são de uso obrigatório por todos os setores, não podendo sofrer nenhum tipo de alteração, salvo por disposição normativa.
+
+
+Parágrafo único
+
+A confecção dos impressos correspondentes aos anexos deste Ato é de responsabilidade do Responsável pelo Patrimônio, sendo facultada a utilização de sistema informatizado.
+
+
+Art. 91.
+
+É vedada a utilização de chancela, carbono ou assemelhados na assinatura dos anexos deste Ato.
+
+
+Art. 92.
+
+Os formulários deverão ser preenchidos sem erros, rasuras ou emendas.
+
+
+Art. 93.
+
+Fica facultado ao responsável pelo setor delegar a guarda e responsabilidade dos bens patrimoniais móveis, se a respectiva estrutura organizacional o comportar, sem prejuízo do disposto no art. 13.
+
+
+Art. 94.
+
+As dúvidas e casos omissos relacionados à matéria tratada neste Ato serão resolvidos pela Diretoria Geral.
+
+
+Art. 95.
+
+Este Ato entrará em vigor na data de sua publicação.
+
+
+Art. 96.
+
+Revogam-se todas as disposições em contrário.
+
+
+Câmara Municipal de Garça, 18 de dezembro de 2013.  
+  
+**FRANCISCO CHRISTÓFORO JÚNIOR PRESIDENTE**
+
+<table><tbody><tr><td><strong>ANTONIO F. SANTOS "BACANA"</strong><br><strong>VICE - PRESIDENTE</strong></td><td><strong>VANDERLEI FERREIRA</strong><br><strong>SECRETÁRIO</strong></td><td><strong>LINEU GUIMARÃES FILHO</strong><br><strong>2º SECRETÁRIO</strong></td></tr></tbody></table>
+
+Registrado e Publicado na Secretaria da Câmara Municipal de Garça, na data supra.  
+  
+**ALEXANDRE DE ARAÚJO LAMATTINA DIRETOR GERAL**

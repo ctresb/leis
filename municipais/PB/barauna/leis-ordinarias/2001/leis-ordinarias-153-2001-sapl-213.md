@@ -1,0 +1,1353 @@
+---
+titulo: "LEI ORDINÁRIA nº 153, de 31 de outubro de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "153"
+data: "2001-10-31"
+municipio: "Baraúna"
+uf: "PB"
+codigo_ibge: "2501534"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.barauna.pb.leg.br/norma/213"
+fonte_texto: "https://sapl.barauna.pb.leg.br/media/sapl/public/normajuridica/2001/213/lei_no153.pdf"
+sha256_fonte: "7ba8ee94f16ecfe8f15e0bf35becfd1ee2f412bcfa89bdc12c176c4478419899"
+sha256_texto: "b4cba920e8480dafcd0a60aa02a3fec4587841e66ee7622ae09a471f041cdd94"
+baixado_em: "2026-10-20"
+---
+
+# LEI ORDINÁRIA nº 153, de 31 de outubro de 2001
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+25 - ENERGIA
+
+752 - ENERGIA ELETRICA
+
+2008 - MANUT. DAS ATIV. DA SECRETARIA PROJETO/ATIVIDADE - 1008 - Obras e Instalações 1009 - EQUIPAMENTOS - MANTER AS ATIV ENERGIA
+
+3.0.00.00.00 50.000 50.000
+
+Salário Familia 3.1.90.09.00 3.1.90.11.00 Vencimentos e Vantagens Fixas 3.1.90.13.00
+
+3.1.90.14.00
+
+3 8.90.04.00
+
+90.30.00
+
+3.3.90.33.00
+
+3.3.90.36.00
+
+3.3.90.39.00 40.000 3.3.90.92.00
+
+4.0.00.00.00 DESPESA DE CAPITAL
+
+4.4.90.52.00
+
+50.000 50.000 50.000 |
+
+UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DE ASSISTENCIA SOCIAL
+
+09 - PREVIDENCIA SOCIAL
+
+271 - PREVIDENCIA BASICA PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA
+
+• MANTER AS ATIV. PREVIDENCIA SOCIAL
+
+3.0.00.00.00 DESPESA CORRENTE 35.000
+
+35.000 3.1.80.09.00 Salário Familla Vencimentos e Vantagens Fixas 3.1.90.11.00 3.1.90.13.00
+
+3.1.90.14.00
+
+3.8.90.04.00
+
+3.3.90.30.00
+
+3.3.90.33.00 3.3.90.36.00 Outros Serviços de Terceros - Pessoa Fisica
+
+3^ 90.39.00
+
+00.81.00 Distribuição de Receita 15 000 Decpesa do Exercicio Anterior 3.3.90.92.00
+
+35.000 35.000 35.000
+
+UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DE ASSISTENCIA SOCIAL
+
+08 - ASSISTENCIA SOCIAL SEMOSTRATIVO DA NATUREZA DA DESPESA
+
+244 - ASSISTENCIA CUMUNITARIA PROJETO/ATIVIDADE 2008 - MANUT. DAS ATIV. DA SECRETARIA 1009 - EQUIPAMENTOS
+
+- MANTER AS ATIV. COMUNIDADE
+
+3.0.00.00.00 DESPESA CORRENTE 65.000
+
+65.000 3.1.90.09.00 Salário Familia 3.1.90.11.00
+
+Vencimentos e Vantagens Fixas
+
+3.1.90.13.00
+
+3.1.90.14.00
+
+3.3.90.04.00
+
+30.000
+
+3.3.90.30.0łą 3.3.90.33.00
+
+3.3.90.36.00
+
+00.39.00
+
+3.. 00.92.00
+
+1.0.00.00.00 DESPESA DE CAPITAL
+
+4.4.90.52.00
+
+65.000
+
+65.000 65.000 |
+
+40.000 40.000 40.000 |
+
+.4.90.52.00 Obras e Instalações .4.90.51.00łą
+
+1.4.00.00.00
+
+0.00.00.00
+
+3.3.90.92.00 Outros Serviços de Terceiros - Pessoa Jurídica
+
+J.3.90.39.00
+
+3.2 36.00
+
+3.3.90.33.00
+
+3.3.90.30.00
+
+3.3.90.04.00
+
+3.1.90.14.00
+
+3.1.90.13.00
+
+Vencimentos e Vantagens Fixas 3.1.90.11.00 Salário Familia 3.1.90.09.00 40.000
+
+40.000
+
+0.00.00.00
+
+$ = 1,00
+
+- MANTER AS ATIV. TRANSPORTE
+
+1009 - EQUIPAMENTOS 1008 - Obras e instalações 2008 - MANUT. DAS ATIV. DA SECRETARIA PROJETO/ATIVIDADE - 782 - TRANSPORTE RODOVIARIO
+
+REMOSTRATIVO DA NATUREZA DA DESPESA 26 - TRANSPORTE
+
+RÇAMENTO PROGRAMA - EXERCICIO 2002 UNID. ORÇAMENTARIA 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA ORÇAMENTO PROGRAMA ¿EXERCICIO 2002
+
+25 - ENERGIA
+
+752 - ENERGIA ELETRICA PROJETO/ATIVIDADE 2008 - MANUT. DAS ATIV. DA SECRETARIA 1008 - Obras e Instalações 1009 - EQUIPAMENTOS
+
+- MANTER AS ATIV. ENERGIA
+
+3.0.00.00.00
+
+50.000
+
+50.000 3.1.90.09.00 Salário Familla Vencimentos e Vantagens Fixas 3.1.90.11.00 3.1.90.13.00
+
+3.1.90.14.00 Diárias Pessoal Chil 3.3.90.04.00
+
+3.3.90.30.00
+
+3-3.90.33.00îŚ
+
+90.36.00
+
+3.3.90.39.00 40.000 3.3.90.92.00 Despesa do Exercicio Anterior. 4.0.00.00.00
+
+4.4.90.52.00
+
+50.000 50.000 50.000 |
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-EL TRUTURA
+
+24 - COMUNICAÇÕES
+
+722 - TELECOMUNICAÇÃO 2008 - MANUT. DAS ATIV. DA SECRETARI, c PROJETO/ATIVIDADE - 1009 - EQUIPAMENTOS
+
+- MANTER AS ATIV. TELECOMUNICAÇÃO
+
+3.0.00.00.0ąźł
+
+60.000
+
+3.1.90.09.00 Salário Familia 60.000 3.1.90.11.00 Vencimentos e Vantagens Fixas 3.1.90.13.00
+
+3.1.90.14.00 2.000
+
+3.$.90.04.00
+
+3.3.90.30.00
+
+° 3.90.33.00
+
+3.90.36.00
+
+3.000 3.3.90.39.00ł
+
+3.3.90.92.00 30.00źł
+
+4.0.00.00.00 DESPESA DE CAPITAL
+
+4.4.90.52.00
+
+60.000 60.000 60.000
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+15 - URBANISMO
+
+451 - INFRA-ESTRUTURA URBANA PROJETO/ATIVIDADE 2008 - MANUT. DAS ATIV. DA SECRETARIA 1008 - Obras e Instalações 1009 - EQUIPAMENTOS
+
+• MANTER AS ATIV. URBANISTICAS
+
+3.0.00.00.00 DESPESA CORRENTE
+
+3.1.90.09.00 Salário Familia
+
+3.1.80.11.00 Vencimentos • Vantagens Fbcas A 3.1.80.13.00
+
+3.1.90.14.00 Daras Pessoal Civil 3.3.80.04.00
+
+9.30.00 3.. 0.33.00
+
+3.3.80.36.00
+
+3.3.80.39.00
+
+3.3.80.92.00
+
+1.0.00.00.00
+
+240.000
+
+4.4.80.51.00 Obras • Instalações 240.000 4.4.80.52.09
+
+220.000
+
+250.000 .250.000 250.000
+
+PREFI ITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA 2.08.00 - SECRETARIA DA EDUCAÇÃO
+
+12 - EDUCAÇÃO
+
+392 - DIFUSÃO CULTURAL PROJETO/ATIVIDADE 2007 - MANUT. DAS ATIV. DA SECRETARIA 1007 - OBRAS E INSTALAÇÕES 1008 - EQUIPAMENTOS
+
+• MANTER AS ATIVID DIFUSÃO CULTURAL
+
+1,00
+
+3.0.00.00.00
+
+3.1.80.09.00 Salário Famila 3.1.90.11.00 Vencimentos • Vantagens Fbcas
+
+3.1.80.13.00
+
+3.1.80.14.00 Diárias Pessoal CMi
+
+3.8.80.04.00 Matertal de Consumo 00.30.00
+
+3.3.80.33.00
+
+3.3.90.35.00 Serviço de Consultoria 3.3.80.36.00
+
+3.3.80.39.00
+
+3.3.90.92.00
+
+4.0.00.00.00 30.000 4,4.00.00.00
+
+30.000 4.4.90.51.00 Obras e Instalações 25.000 4.4.90.52.00 Equip, e Material Permanente 6.000
+
+50.000 50.000 50.000
+
+UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DA EDUCAÇÃO - ORÇAMENTO PROGRAMA - EXERCICIO 2002
+
+12 - EDUCAÇÃO
+
+365 - EDUCAÇÃO INFANTIL PROJETO/ATIVIDADE 2007 - MANUT. DAS ATIV. DA SECRETARIA 1007 - OBRAS E INSTALAÇÕES 1008 - EQUIPAMENTOS
+
+- MANTER AS ATIV EDUCAÇÃO INFANTIL - 1,00
+
+3.0.00.00.00 40.000
+
+40.000 Salário Famila 3.1.80.09.00 Vencimentos e Vantagens Fbcas 3.1.80.11.00
+
+3.1.80.13.00
+
+Diárias Pessoal Chi 3.1.80.14.00 3.8.90.04.00
+
+10.30.0ął
+
+3.3.80.33.00
+
+3.3.80.35.00 Serviço de Consultoria 3.3.80.38.00
+
+Outros Serviços de Tercelros - Pessoa Juridica 3.3.90.38.00
+
+3.3.90.92.00
+
+4.0.00.00.00
+
+4.4.80.51.00 Obras e Instalações 4.4.80.52.00
+
+40.000 40.000 40.000
+
+UNID. ORÇAMENTARIA
+
+- 2.08.00 - SECRETARIA DA EDUCAÇÃO
+
+DEMOSTRAȚIVO DA NATUREZA DA DESPESA 12 - EDUCAÇÃO
+
+361 - ENSINO FUNDAMENTAL PROJETO/ATIVIDADE 2007 - MANUT. DAS ATIV. DA SECRETARIA 1007 - OBRAS E INSTALAÇÕES 1008 - EQUIPAMENTOS
+
+- MANTER AS ATIV. ENSINO FUNDAMENTAL
+
+3.0.00.00.00
+
+790.000
+
+3.1.80.09.00 Salário Famila 790.000 3.1.80.11.00 Vencimentos e Vantagens Fbas 3.1.80.13.00 250.000 Obrigações Patronals
+
+3.1.80.14.00 Diárias Pessoal Chil 3.8.80.04.00 3.000
+
+3.3.80.18.00 2.000 Auxilio Financeiro a Estudantes 3.3,90.30.00 Matertal de Consumo 30.32.00 100.000 Material de Distribuição Gratuita 3.3.80.33.00 15.000 Passagem • Despesa com Locomoção 3.3.80.35.00 Serviço de Consultoria
+
+3.3.90.36.00
+
+3.3.80.39.00 100.000
+
+3.3.80.81.00
+
+Distribuição de Receitas 280.00ął 3.3.80.92.00
+
+4.0.00.00.00
+
+4.4.80.51.00 Obras e Instalações
+
+4.4.80.52.00
+
+810.000 810.000 810.000 .....
+
+- PREFEITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA
+
+2.05.00 - SECRETARIA DA SAUDE
+
+10 - SAUDE
+
+305 - VIGILANCIA EPIDEMIOLOGICA PROJETO/ATIVIDADE 2000 - MANUT. DAS ATIV. DA SECRETARIA 1007 - EQUIPAMENTOS
+
+• MANTER AS ATIV. EPIDEMIA - 1,00
+
+3.0.00.00.00
+
+50.000
+
+3.1.90.09.00 50 000 Salário Familia 3.1.80.11.00 Vencimentos e Vantagens Fbcas
+
+3.1.80.13.00
+
+2.000 3.1.90.14.00 Diárias Possoal Civil 3.฿.90.04.00
+
+3.3.90.30.00
+
+1.33.00
+
+3.000 .3.3.60.35.00 Serviço de Consultoria
+
+Outros Serviços de Terceiros - Peseoa Fisica 3.3.80.36.00
+
+: 3.3.80.39.00
+
+3.3.90.92.00
+
+1.0.00.00.00
+
+4.4.90.52.00 Equip. • Material Permanente
+
+50.000 50.000 50.000
+
+1 PREFEITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA - 2.05.00 - SECRETARIA DA SAUDE
+
+10 - SAUDE
+
+304 - VIGILANCIA SANITARIA ATENÇÃO BASICA PROJETO/ATIVIDADE 2008 - MANUT. DAS ATIV. DA SECRETARIA 1007 - EQUIPAMENTOS
+
+- MANTER AS ATIV. VIGILANCIA
+
+3.0.00.00.00
+
+50.000
+
+50.000 3.1.90.09.00 Salário Familia 3.1.80.11.00 Vencimentos e Vantagens Fbcas
+
+3.1.90.13.00
+
+3.1.80.14.00
+
+3.3.80.04.00
+
+3.3.90.30.00
+
+3.3 90.33.00
+
+3. 0.35.00 Serviço de Consultoria \* 3.3.80.36.00îę
+
+3.3.80.39.00 Outros Serviços de Tercelos - Pessoa Juridica
+
+3.3.80.92.00
+
+A.0.00.00.00
+
+4.4.80.52.00 Equip. • Material Permanente
+
+50.000 | 50.000 50.000
+
+UNID. ORÇAMENTARIA - 2.05.00 - SECRETARIA DA SAUDE
+
+10 - SAUDE
+
+302 - ASSIST.HOSP. E AMBULATORIAL PROJETO/ATIVIDADE 2006 - MANUT. DAS ATIV. DA SECRETARIA 1006 - OBRAS E INSTALAÇÕES 1007 - EQUIPAMENTOS
+
+- MANTER AS ATIV. HOSPITALARES 1-
+
+SUB ELEMENTO 3.0.00.00.00
+
+380.000
+
+3.1.80.09.00 Salárto Familla 380.000 3.1.80.11.00 Vencimentos • Vantagens Fbcas 120.000 3.1.80.13.00
+
+3.1.80.14.00
+
+3.3.90.04.00
+
+3.3.80.30.00
+
+90.33.0ął 80.000
+
+3.3.80.35.00
+
+Serviço de Consultoria 3.3.80.36.00
+
+3.3.90.39.00
+
+80.000 3.3.90.92.00
+
+20 000 3.3.99.43.00 Subvenções Sociais 40.000 .10.000 4.0.00.00.00
+
+4.4.90.51.00 Obras o Instalações 20 000 4.4.90.52.00
+
+400.000 400.000 400.000
+
+....
+
+UNID. ORÇAMENTARIA - 2.04.00 - SECRETARIA DA AGRICULTURA
+
+20 - AGRICULTURA
+
+606 - EXTENÇÃO RURAL PROJETO/ATIVIDADE - 2005 - MANUT. DAS ATIV. DA SECRETARIA 1005 - OBRAS E INSTALAÇÕES 1006 - EQUIPAMENTOS
+
+- MANTER AS ATIV. RURAIS
+
+3.0.00.00.00
+
+150.000
+
+3.1.90.09.0ął Salário Familia 150.000 3.1.90.11.00 Vencimentos e Vantagens Fixas 3.1.90.13.00
+
+3.1.90.14.00
+
+S.3.90.04.00
+
+2.000 3.3.90.30.00
+
+3.000 3.3.90.33.00 50.000
+
+90.35.00 Serviço de Consultoria
+
+3.3.90.36.00
+
+3.3.90.39.00 50.000
+
+3.3.90.92.00ąłą
+
+4.0.00.00.00
+
+50.000
+
+4.4.90.51.00 Obras e Instalações 50.000 4.4.90.52.00
+
+40.000
+
+200.000 | 200.000 | 200.000
+
+80.000 80.000 |
+
+80.000 |
+
+4.4.90.52.00
+
+4.0.00.00.00
+
+3.3.90.92.00
+
+3.3.90.39.00
+
+3.3.90.36.00 Serviço de Consultoria
+
+3.90.35.00
+
+3.3.90.33.00ł
+
+3.3.90.30.00
+
+2.000 3.1.90.04.00 3.000ł
+
+3.1.90.14.00
+
+3.1.90.13.00 Vencimentos e Vantagens Fixas 30.000 3.1.90.11.00 Salário Familla 3.1.90.09.00 80.000
+
+80.000 3.0.00.00.00
+
+- MANTER AS ATIV. DA TESOURARIA
+
+1004 - EQUIPAMENTOS 2004 - MANUT. DAS ATIV. DA SECRETARIA PROJETO/ATIVIDADE - 123 - ADM. FINANCEIRA
+
+04 - ADMINISTRAÇÃO
+
+UNID. ORÇAMENTARIA - 2.03.00 - SECRETARIA DE FINANÇAS
+
+UNID. ORÇAMENTARIA - 2.02.00 - SECRETARIA ADM. E PLANEJAMENTO
+
+04 - ADMINISTRAÇÃO
+
+122 - ADMINISTRAÇÃO GERAL PROJETO/ATIVIDADE 2003 - MANUT. DAS ATIV. DA SECRETARIA 1003 - EQUIPAMENTOS
+
+- MANTER AS ATIV. DA SEC. DE ADMINISTRAÇÃO
+
+3.0.00.00.00 240.000
+
+210 000 3.1.90.09.00 Salário Famila 3.1.90.11.00 Vencimentos e Vantagens Fbcas 120 000 3.1.90.13.00
+
+3.1.80.14.00 Diárias Pessoal Chi
+
+3.3.80.04.00
+
+3.3.80.30.00 30.000 Passagem • Despesa com Locomoção $ 90.33.00
+
+30.35.00 Serviço de Consutorta 3.3.90.36.00 Outros Serviços de Teroeiros - Pessoa Fisica 40.000 3.3.90.39.00
+
+10 000 3.3.80.92.00 Desposa do Exercicio Anterior
+
+4.0.00.00.00
+
+10 000 4.4.80.52.00
+
+250.000 | 250.000 250.000 ........
+
+UNID. ORÇAMENTARIA - 2.01.00 - GABINETE DO PREFEITO
+
+04 - ADMINISTRAÇÃO
+
+122 - ADMINISTRAÇÃO GERAL PROJETO/ATIVIDADE 2002 - MANUT. DAS ATIV. GABINETE 1002 - EQUIPAMENTOS
+
+- MANTER AS ATIV. DO GABINETE
+
+R$¿ẠỌ¿$1,00
+
+3.0.00.00.00 195.000
+
+195.000 Salário Familia 3.1.80.09.00 90 000 3.1.80.11.00 Vencimentos e Vantagens Fbcas 3.1.80.13.00
+
+8.000 3.1.80.14.00 12.000 Diarias Possoal Civil
+
+3.3.90.04.00
+
+3.3.80.30.00
+
+30.000 3.3.80.38.00 Outros Serviços de Tercelros - Pessoa Fisica
+
+3.90.39.00 Outros Serviços de Tercetros - Pessoa Juridica 15 000
+
+3.3.80.02.0ął
+
+4.0.00.00.00
+
+4.4.90.52.00 Equip. • Material Permanente
+
+200.000
+
+200.000 200.000 /-//////
+
+.01.00 - CAMARA MUNICIPAL UNID. ORÇAMENTARIA
+
+01 - LEGISLATIVO
+
+031 - AÇÃO LEGISLATIVA
+
+PROJETO/ATIVIDADE 2001 - MANUT. DAS ATIV. LEGISLATIVA 1001 - EQUIPAMENTOS - MANTER AS ATIV. DO PODER LEGISLATIVO
+
+3.0.00.00.00 DESPESA CORRENTE 170.000 170.000
+
+Salário Familia 3.1.90.08.00 100.000 Vencimentos e Vantagens Fbcas 3.1.80.11.00
+
+3.1.90.13.00
+
+3.1.80.14.00 20 000 3.3.80.30.00
+
+15.000
+
+3.3.90.38.00
+
+15.000 3.3.80.39.00
+
+3.3.90.92.00 4.0.00.00.00
+
+4.4.90.52.00 170.000 170.000 170.000
+
+..........
+
+UNID. ORÇAMENTARIA - 2.04.00 - SECRETARIA DA AGRICULTURA
+
+20 - AGRICULTURA
+
+606 - EXTENÇÃO RURAL
+
+PROJETO/ATIVIDADE - 2005 - MANUT. DAS ATIV. DA SECRETARIA 1005 - OBRAS E INSTALAÇÕES 1008 - EQUIPAMENTOS
+
+- MANTER AS ATIV. RURAIS
+
+3.0.00.00.00 DESPESA CORRENTE 150.000
+
+150.000 0.09.00 Salário Familia Vencimentos e Vantagens Fbcas
+
+3.1.80.11.00
+
+3.1.80.13.00
+
+3.1.80.14.00 2.000 Diartas Pessoal CiVil 3.3.90.04.00 . 3.000
+
+50.000 3.3.90.30.00
+
+3.3.90.33.00
+
+3.3.80.35.00 Serviço de Consultoria 3.3.80.36.00
+
+50.000 3.3.80.39.00 Outros Serviços de Tercetros - Pessoa Juridica
+
+3.3.90.92.00
+
+4.0.00.00.00
+
+50.000
+
+50.000
+
+24.90.51.00 40.000 Obras e Instalações 4.4.90.52.00
+
+200.000 000002 200.000 ¡ | | |
+
+\_PREFEITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA - 2.03.00 - SECRETARIA DE FINANÇAS 04 - ADMINISTRAÇÃO
+
+123 - ADM. FINANCEIRA
+
+PROJETO/ATIVIDADE - 2004 - MANUT. DAS ATIV. DA SECRETARIA 1004 - EQUIPAMENTOS - MANTER AS ATIV. DA TESOURARIA
+
+3.0.00.00.00
+
+80.000 80.000 0.00.00
+
+3.1.90.09.00 Salário Familta 3.1.90.11.00 Vencimentos e Vantagens Fbcas 30.000 3.1.90.13.00
+
+3.000 3.1.90.14.00 3. .90.04.00
+
+2.000 3.3.80.30.00 Matertal de Consumo
+
+3.3.80.33.00
+
+3.3.80.35.00 Serviço de Consuitorta
+
+3.3.80.36.00
+
+3.3.80.39.00
+
+3.3.80.92.00
+
+4.0.00.00.00
+
+4.4.90.52.00
+
+80.000 80.000 80.000
+
+UNID. ORÇAMENTARIA - 2.05.00 - SECRETARIA DA SAUDE
+
+10 - SAUDE
+
+EMOSTRATIVO DA NATUREZA DA DESPESA 302 - ASSIST.HOSP. E AMBULATORIAL PROJETO/ATIVIDADE - 2006 - MANUT. DAS ATIV. DA SECRETARIA 1006 - OBRAS E INSTALAÇÕES 1007 - EQUIPAMENTOS - MANTER AS ATIV. HOSPITALARES
+
+к$ = 1,00
+
+9.0.00.00.00
+
+380.000
+
+380.000
+
+Salário Familia 3.1.90.08.00 120.000 3.1.80.11.00 Vencimentos e Vantagens Fbcas 3.1.80.13.00
+
+~ 3.1.80.14.0ął
+
+Diarias Pessoal Civi
+
+3.3.90.04.00 80.000 3.3.80.30.00ł
+
+3.3.80.33.00
+
+3.3.80.35.00 Serviço de Consultoria 3.3.80.36.00 80.000
+
+3.3.90.39.00
+
+3.3.80.92.00
+
+40.000 13.3.99.43.00
+
+Subvenções Soctais 4.0.00.00.00
+
+4.4.90.51.00
+
+Obras e Instalações
+
+4.4.90.52.00
+
+400.000
+
+400.000 | 00000%
+
+REFEITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA - 2.02.00 - SECRETARIA ADM. E PLANEJAMENTO
+
+04 - ADMINISTRAÇÃO
+
+122 - ADMINISTRAÇÃO GERAL
+
+PROJETO/ATIVIDADE - 2003 - MANUT. DAS ATIV. DA SECRETARIA 1003 - EQUIPAMENTOS - MANTER AS ATIV. DA SEC. DE ADMINISTRAÇÃO
+
+$ = 1,00
+
+.0.00.00.00 240.000
+
+J.00.00 240.000 Salário Familla • 3.1.90.09.00 120.000 Vencimentos e Vantagens Focas 3.1.90.11.00
+
+3.1.80.13.00 3.1.80.14.00
+
+3.3.80.04.00 30.000 3.3.80.30.00
+
+3.3.80.33.00
+
+Serviço de Consultorta 3.3.80.35.00 40.000
+
+3.3.80.36.00 3.3.80.39.00
+
+3.3.80.92.00
+
+4.0.00.00.00
+
+4.4.80.52.00
+
+250.000 250.000 250.000
+
+UNID. ORÇAMENTARIA - 2.01.00 - GABINETE DO PREFEITO 'PREFEITURA MUNICIPAL DE BARAUNA 04 - ADMINISTRAÇÃO
+
+122 - ADMINISTRAÇÃO GERAL
+
+PROJETO/ATIVIDADE - 2002 - MANUT. DAS ATIV. GABINETE 1002 - EQUIPAMENTOS - MANTER AS ATIV. DO GABINETE
+
+3.0.00.00.00
+
+195.000 3...00.00.00 185.000
+
+Salário Famila 3.1.80.09.00 Vencimentos e Vantagens Fbcas 90.000 3.1.80.11.00 8.000 3.1.80.13.00
+
+3.1.80.14.00
+
+12.000
+
+3.3.90.04.00
+
+30.000 3.3.80.30.00 Outros Serviços de Tercelros - Pessoa Fisica
+
+3.3.80.36.00 15.000 3.3.90.39.00
+
+3.3.90.92.00
+
+4.0.00.00.00
+
+4.4.90.52.00
+
+200.000 200.000 200.000
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+25 - ENERGIA
+
+752 - ENERGIA ELETRICA PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA 1008 - Obras e Instalações 1009 - EQUIPAMENTOS
+
+- MANTER AS ATIV. ENERGIA
+
+A0.00.00
+
+50.000
+
+50.000 3.1.80.09.00 Salário Familia Vencimentos e Vantagens Fbas 3.1.90.11.00
+
+3.1.90.13.00 3.1.90.14.00
+
+3.3.80.04.00
+
+3.3.90.30.00 Matertal de Consumo 3.3.90.33.00
+
+3.3.90.36.00
+
+40.000 3.3.90.39.00
+
+).3.90.92.00 4.0.00.00.00
+
+4.4.90.52.00
+
+50.000 50.000 50.000
+
+REFEITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA - 2.05.00 - SECRETARIA DA SAUDE
+
+10 - SAUDE 304 -VIGILANCIA SANITARIA ATENÇÃO BÁSICA
+
+¿MOSTRATIVO DA NATUREZA DA DESPESA 2006 - MANUT. DAS ATIV. DA SECRETARIA PROJETO/ATIVIDADE - 1007 - EQUIPAMENTOS - MANTER AS ATIV. VIGILANCIA
+
+= 1,00
+
+0.0.00.00.00
+
+50.000
+
+50.000 3.1.-..00.00 3.1.90.09.00 Salário Familia 3.1.90.11.00 Vencimentos e Vantagens Fbas
+
+3.1.90.13.00 3.1.80.14.00
+
+3.3.80.04.0ął
+
+3.3.90.30.00
+
+\*3.3.90.33.00 3.3.80.35.0ął
+
+Serviço de Consultoria
+
+3.3.90.36.00
+
+3.3.90.39.00
+
+3.3.90.92.00
+
+10.00.00.00
+
+4.4.80.52.00
+
+50.000 50.000
+
+50.000
+
+(PREFEITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA - 2.05.00 - SECRETARIA DA SAUDE
+
+10 - SAUDE
+
+305 - VIGILANCIA EPIDEMIOLOGICA JEMOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA 1007 - EQUIPAMENTOS - MANTER AS ATIV. EPIDEMIA
+
+1 = 1,00
+
+3.0.00.00.00
+
+50.000 3.1.v0.00.00
+
+50.000 Salário Familia 3.1.90.09.00 Vencimentos e Vantagens Fbcas
+
+3.1.80.11.00
+
+2.000 3.1.90.13.00 Diárias Pessoal Civi 3.1.80.14.00 3.8.90.04.00
+
+3.3.80.30.00
+
+3.3.90.33.00 3.000
+
+3.3.90.35.00
+
+Serviço de Consultoria
+
+3.3.90.36.00 Outros Serviços de Terceiros - Pessoa Física
+
+3.3.80.39.00 Despesa do Exercicio Antertor 3.3.90.92.00
+
+1.0.00.00.00
+
+4.4.90.52.00 50.000
+
+50.000 50.000
+
+UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DA EDUCAÇÃO REFEITURA MUNICIPAL DE BARAUNA 12 - EDUCAÇÃO
+
+361 - ENSINO FUNDAMENTAL
+
+JEMOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE - 2007 - MANUT. DAS ATIV. DA SECRETARIA 1007 - OBRAS E INSTALAÇÕES 1008 - EQUIPAMENTOS - MANTER AS ATIV. ENSINO FUNDAMENTAL
+
+€ = 1,00
+
+3.0.00.00.00 790.000
+
+790.000
+
+3.1.90.09.00 Salário Famila 250.000 Vencimentos e Vantagens Focas 3.1.80.11.00
+
+3.1.80.13.00 3.1.80.14.00
+
+3.000 3.9.80.04.00
+
+2.000 3.3.80.18.00 Auxilio Financeiro a Estudantes 3.3.90.30.00 Matertal de Consumo 100.000 3.3.80.32.00 Matertal de Distribuição Gratuita 15.000 3.3.80.33.00
+
+3.3.90.35.00 Serviço de Consutoria
+
+3.3.80.36.00 100.000 Outros Serviços de Tercetros - Pessoa Fisica 3.3.80.39.00 Outros Serviços de Tercelros - Pessoa Juridica
+
+280.000 Distribuição de Receitas 3.3.80.81.00
+
+3.3.80.92.00 4.0.00.00.00
+
+4,600.51.00
+
+Obras e Instalações -J.52.00
+
+810.000 810.000
+
+810.000
+
+UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DA EDUCAÇÃO REFEITURA MUNICIPAL DE BARAUNA 12 - EDUCAÇÃO
+
+365 - EDUCAÇÃO INFANTIL
+
+UEMOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE - 2007 - MANUT. DAS ATIV. DA SECRETARIA 1007 - OBRAS E INSTALAÇÕES 1008 - EQUIPAMENTOS - MANTER AS ATIV. EDUCAÇÃO INFANTIL
+
+40.000 3.0 9.00.00
+
+40.000
+
+() 3.1.90.09.00 Salário Familia
+
+3.1.90.11.00 Vencimentos e Vantagens Ficas
+
+3.1.90.13.00
+
+3.1.90.14.00
+
+3.1.90.04.00
+
+3.3.90.30.00
+
+3.3.80.33.00 Serviço de Consultorta 3.3.80.35.00 3.3.80.36.00
+
+3.3.90.39.00
+
+3.3.80.92.00
+
+4.0.00.00.00
+
+4.4.80.51.00 Obras e Instalações 4.4.90.52.00
+
+40.000
+
+40.000 40.000
+
+UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DA EDUCAÇÃO REFEITURA MUNICIPAL DE BARAUNA 12 - EDUCAÇÃO
+
+392 - DIFUSÃO CULTURAL JEMOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE - 2007 - MANUT. DAS ATIV. DA SECRETARIA 1007 - OBRAS E INSTALAÇÕES 1008 - EQUIPAMENTOS - MANTER AS ATIVID. DIFUSÃO CULTURAL
+
+9.00.00 13.f
+
+3.1.90.09.00 Salário Familia
+
+Veneimentos e Vantagene Fbcas 3.1.80.11.00 3.1.90.13.00
+
+3.1.90.14.00 Diárias Pessoal CIvil 3.8.80.04.00
+
+3.3.90.30.00 3.3.80.33.00
+
+3.3.80.35.00 Serviço de Consultoria
+
+3.3.80.36.00
+
+3.3.80.39.00
+
+3.3.90.92.00
+
+₩ 4.0.00.00.00
+
+30.000
+
+30.000
+
+25.000 4.4.90.51.00 Obras e Instalações 4.4.80.52.00
+
+50.000 50.000 50.000
+
+CECE
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+15 - URBANISMO
+
+451 - INFRA-ESTRUTURA URBANA
+
+PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA 1008 - Obras e Instalações 1008 - EQUIPAMENTOS
+
+- MANTER AS ATIV. URBANISTICAS
+
+0.00.00 DESPESA CORRENTE
+
+3.1.80.09.00 Salário Familia Vencimentos e Vantagens Ficas 3.1.90.11.00
+
+3.1.80.13.00
+
+3.1:80.14.00
+
+3.3.80.04.00
+
+3.3.80.30.00 Matertal de Consumo
+
+3.3.80.33.00
+
+3.3.80.36.00 3.3.80.39.00
+
+3.3.80.92.00 4.0.00.00.00 DESPESA DE CAPITAL 240.000
+
+240.000 ENVESTIMENTOS 4.4.80.51.00 Obras e Instalações 220.000
+
+4.4.80.52.00
+
+250.000 250.000 250.000
+
+OREFEITURA MUNICIPAL DE BARAUNA UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-EL
+
+24 - COMUNICAÇÕES
+
+722 - TELECOMUNICAÇÃO •DEMOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARI 1009 - EQUIPAMENTOS - MANTER AS ATIV. TELECOMUNICAÇÃO
+
+3.0.00.00.00 DESPESA CORRENTE 60.000 60.000 3.1.60.00.00
+
+3.1.80.09.00 Salário Familia
+
+Vencimentos e Vantagens Ficas 3.1.80.11.00 2.000
+
+3.1.80.13.00 3.1.80.14.00
+
+3.3.80.04.0ął
+
+3.3.80.30.00 3.000
+
+3.3.90.33.00
+
+3.3.80.36.00 30.000
+
+3.3.90.39.00 3.3.80.92.00
+
+4.0.00.00.00
+
+4.4.90.52.00
+
+60.000 60.000 60.000
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+25 - ENERGIA
+
+ORÇAMENTO PROGRAMA®ẠEXERCICIO 2002
+
+752 - ENERGIA ELETRICA
+
+2008 - MANUT. DAS ATIV. DA SECRETARIA PROJETO/ATIVIDADE - 1008 - Obras e Instalações 1009 - EQUIPAMENTOS
+
+- MANTER AS ATIV. ENERGIA
+
+3.0 20.00.00
+
+50.000 50.000
+
+3.1.80.09.00 Salário Familta 3.1.90.11.00 Vencimentos e Vantagens Fbcas 3.1.80.13.00
+
+3.1.80.14.00
+
+3.3.80.04.00 Matertal de Consumo 3.3.80.30.00
+
+3.3.80.33.00
+
+3.3.80.36.00
+
+3.3.90.39.00 40.000 3.3.90.92.00
+
+\*4.0.00.00.00 DESPESA DE CAPITAL
+
+4.4.80.52.00
+
+50.000 50.000 50.000
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+26 - TRANSPORTE \*ORÇAMENTO PROGRAMA - EXERCICIO 2002
+
+782 - TRANSPORTE RODOVIARIO
+
+PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA 1008 - Obras e Instalações 1009 - EQUIPAMENTOS
+
+- MANTER AS ATIV. TRANSPORTE
+
+= 1,00
+
+3.9.00.00.00 40.000 40.000
+
+3.1.90.09.00 Salário Familla Vencimentos e Vantagens Ficas
+
+3.1.80.11.00 3.1.80.13.00
+
+3.1.80.14.00 Diárias Pessoal Chil
+
+3.3.80.04.00
+
+3.3.90.30.00
+
+3.3.90.33.00
+
+3.3.90.36.00 3.3.90.39.00
+
+3.3.90.92.00
+
+4.0.00.00.00
+
+4.4.90.51.00 Obras e Instalações 4.4.80.52.00
+
+40.000
+
+40.000 40.000
+
+UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DE ASSISTENCIA SOCIAL REFEITURA MUNICIPAL DE BARAUNA 08 - ASSISTENCIA SOCIAL
+
+244 - ASSISTENCIA CUMUNITARIA JEMOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA 1009 - EQUIPAMENTOS
+
+- MANTER AS ATIV. COMUNIDADE $ = 1.00
+
+3.0.00.00.00 DESPESA CORRENTE 65.000 3.1.90.00.00 65.000
+
+.09.00 Salário Familia 3.1.
+
+Vencimentos e Vantagens Fixas 3.1.90.11.00
+
+3.1.90.13.0ł 3.1.90.14.00
+
+3.3.90.04.00
+
+30.000 3.3.90.30.00 3.3.90.33.00
+
+3.3.90.36.00
+
+3.3.90.39.00
+
+3.3.90.92.00 1.0.00.00.00 DESPESA DE CAPITAL
+
+4.4.90.52.00
+
+65.000 65.000
+
+65.000
+
+.... UNID. ORÇAMENTARIA - 2.08.00 - SECRETARIA DE ASSISTENCIA SOCIAL REFEITURA MUNICIPAL DE BARAUNA
+
+ARÇAMENTO PROGRAMA - EXERCICIO 2002 09 - PREVIDENCIA SOCIAL
+
+271 - PREVIDENCIA BASICA JEMOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA - MANTER AS ATIV. PREVIDENCIA SOCIAL
+
+= 1,00
+
+,0.00.00.00 DESPESA CORRENTE 35.000 35.000
+
+03.1/ Salário Familla 09.00 Vencimentos e Vantagens Ficas 3.1. .11.00
+
+3.1.80.13.00 3.1.80.14.00 Diártas Pessoal Civil 3.8.80.04.00
+
+3.3.90.30.00
+
+3.3.90.33.00
+
+3.3.80.36.00
+
+3.3.80.39.00 Distribuição de Receita 3.3.90.81.0ął 15.000 3.3.80.92.00
+
+35.000 35.000 35.000
+
+0000000000000000
+
+UNID. ORÇAMENTARIA - 1.01.00 - CAMARA MUNICIPAL
+
+01 - LEGISLATIVO UNÇAMENTO PROGRAMA - EXERCICIO 2002 031 - AÇÃO LEGISLATIVA
+
+MOSTRATIVO DA NATUREZA DA DESPESA PROJETO/ATIVIDADE 2001 - MANUT. DAS ATIV. LEGISLATIVA 1001 - EQUIPAMENTOS - MANTER AS ATIV. DO PODER LEGISLATIVO
+
+RS = 1,00
+
+0.00.00.00 DESPESA CORRENTE 170.000 170.000
+
+Salário Familia .1.90.09.00 3.1.90.11.00ł Vencimentos e Vantagens Fixas 100.000
+
+.90.13.00 1.90.14.00
+
+3 3.90.30.00
+
+15.000 a.3.90.36.00 .3.90.39.00
+
+15.000
+
+3.3.90.92.00 0.00.00.00 | DESPESA DE CAPITAL
+
+14.90.52.00 ¡Equip. e Material Permanente 170.000
+
+170.000 170.000
+
+UNID. ORÇAMENTARIA - 2.07.00 - SECRETARIA DE INFRA-ESTRUTURA
+
+25 - ENERGIA
+
+752 - ENERGIA ELETRICA PROJETO/ATIVIDADE - 2008 - MANUT. DAS ATIV. DA SECRETARIA 1008 - Obras e instalações 1009 - EQUIPAMENTOS - MANTER AS ATIV. ENERGIA
+
+3.0.00.00.00 DESPESA CORRENTE 50.000
+
+3.1.00.00.0ł 50.000 3.1.90.09.00 Salário Familia Vencimentos e Vantagens Fixas 3.1.90.11.00
+
+3.1.90.13.00 3.1.90.14.00
+
+3.$.90.04.00
+
+3.90.30.00
+
+3.3.90.33.00
+
+3.3.90.36.00
+
+3.3.90.39.00 40.000 3.3.90.92.00
+
+4.0.00.00.00 DESPESA DE CAPITAL
+
+4.4.90.52.00
+
+50.000 50.000 50.000
+
+ESTADO DA PA PREFEITURA MUNICIPA CGC.: 01.612.512 BARAUNA Rua Getúlio Vargas, DEMONSTRATIVO DA RECEITA E DESPESA SEGUNDO DESPESAS RECEITA R$ R$ 2.060.000 RECEITAS CORRENTES DESPESAS CORRENTES Despesa de Custeio Receita Tributária 50.000 Juros e Encargos da dívida Receita de Contribuição Receita Patrimonial Receita Agropecuária Receita Industrial Receita de Serviços Transf. Correntes 2.005.000 Outras Receitas Correntes
+
+2.060.000 TOTAL RECEITA DE CAPITAL
+
+740.000 Investimentos Operações de Crédito Invessões Financeira Alienação de Bens
+
+Amortização de Dívida Amortização de Empréstimos Transf. De Capital 730.000 Outras Receitas de Capital TOTAL 2.800.000
+
+ESTADO DA P PREFEITURA MUNICIP CGC.: 01.612.51 BARAUNA Rua Getúlio Vargas, Continuação RECEITA RESUMO 2.060.000 Receitas e Despesas Correntes 740.000 Receitas e Despesas Capital Superávit Orçamentária TOTAL 2.800.000
+
+ESTADO DA PARAIBA FREPEITURA MUNICIPAL DE BARAUNA PROGRAMA DE TRABALHO DO GOVERNO, DANONSTRAÇÃO DE FUNÇOSS, SUBFUMOES, FROGRAMAS POR PROJETOS E ATIVIDADES EX ENCICLO ZUUR A 2o 07, da lei nº 4 320/64 TOTAL ATIVIDADES PROS STOS / ESPECIFICAÇÃO
+
+Legislativa
+
+Ação Legislativa
+
+170 000,00 170 000,00 Manutenção da Camara Municipal 2011 Administração
+
+Administração Geral 12 2 Apoio Administrativo 2002 450 000,00 435 000,00 hanutenção da Secretaria Geral 15 000,00 2010 Administração Financeira 12 3 00 000,00 60.000,00 hanutenção da decretaria de Finanças Agricultura
+
+Extensão Rural 60 6 Manutenção da Secretaria de Agri 2005 150 000,00 200 000,00 50 000,00 cu.t ura Saude
+
+Assist Hosp.e Ambulatorial
+
+Manutenção da Secretria 500 000,00 400 000,00 20 000,00 2006 \*ducação
+
+Ensino Fundamental 36 1 610 000,00 790 000,00 20 000,00 Manutenção da Atividade 2007 Educação Infantil 36 5 40 000,00 40 000,00 Manutenção de atividade 2007 Difusão Cultural > 2 50.000,00 Manutenção das atividades 20 000,00 30 000,00 2007 Urbanismo
+
+Infra-Estrutura Urbana
+
+manutenção das atividades 250 000,00 10 000,00 240 000,00 2008 comunicações
+
+Telecomunicação 72 2 60 000,00 Manutenção das atividades 60 000,00 2008
+
+mergia AUTENTICAÇÃO Inergia Elétrica 75 2 Manutenção des Atividade Autentico e dou fé, que o presente o 50 000,00 000,00 2008 documento confere co:: o original.
+
+Transporte Picuí, 18 de Junho de 200000 40 000,00 000, 0ął †ransporte Rodoviário
+
+usarlene Macedo de Pra Assistência Social
+
+Marlene Nucede de Aradja 100 000,00 100.000,00 Assistência Comunitária
+
+2ª Tabeliã l'ública 2 800 000,00 375. 000,00 2 42 000,00 TOTAL Bel. Sebastião Aloir da Sil- CBC - 4447 - PB. 2° TABELIONATO PÚBLICO Marlene Macedo de Araújo 2a Tabeliã - CPF 568.203.054 - 00 Comator de Dia
+
+ESTADO DA PARAÍBA PREFEITURA MUNICIPAL DE BARAÚNA CGC.: 01.612.512/0001-71 BARAUNA Rua Getúlio Vargas, s/n - Centro RECEITA SEGUNDO AS CATEGORIAS ECONÔMICAS Especificação Fonte Código Categoria Desdobramento Econômica Receita Corrente 2.060.000 1000.00.00 50.000 Receita Tributária 1100.00.00 Imposto 1110.00.00 1112.02.00
+
+IPTU 1.000 ITBI 1112.07.00
+
+ISS 1113.05.00 9.000 Taxas 1120.00.00 Contribuições 1130.00.00 Rec. de Contribuições 1200.00.00 Rec. Patrimoniais 1300.00.00 Rec. Agropecuária 1400.00.00 1500.00.00 Rec. Industrial Receita de Serviços 1600.00.00 Transf. Correntes 1700.00.00 1710.00.00 2.010.000 Transf. Intergovernamentais Transf. da União 1711.01.00 1721.01.02 Cota-parte FPM 1.236.000 1721.01.03 Cota- Parte Fundo Especial
+
+Imp. Sobre a Renda Retido na fonte 1721.01.04
+
+ITR 1721.01.05 IPI-EXP. 1.000 1721.01.12 1721.01.31 1.000 FE- Petrobrás 1721.01.09 Compl.do FUNDEF 200.000 Outras transf. da União 1721.09.00 ICMS Exp. Lei 87/96
+
+1721.09.01 1721.09.99 Outras Transferências 100.000 Transf. do Estado 1722.00.00 Cota-parte ICMS 220.00ął 1722.01.01 1722.01.02 Cota- parte IPVA
+
+1722.01.07 Outras Transf. do Estado 100.000 FUNDEF 1724.00.00 Transf. de Inst. Privadas 1730.00.00 Transf. de Convênios 1760.00.00 206.900 1761.00.00 Convênios com a União 190.000 Convênios com Estados 1762.00.00 11.900 1763.00.00 Convênios com outros municípios Outras Receitas Correntes 1900.00.00 1900.06.00 Outras Receitas Diversas
+
+2000.00.00 Receita de Capital 740.000 740.00 2100.00.00 Operações de Créditos Alien. De Bens Mov. Imov. 2200.00.00
+
+2300.00.00 Amortização de empresto Transf. de Capital 2400.00.00 Transf. Intergovernamentais 2420.00.00 2421.00.00 Cota-parte PPM 200.000 2460.00.00 Transf. de Convênios 2461.00.00 Convênio com a União 530.000 TOTAL 2.800,000
+
+ESTADO DA PARAÍBA PREFEITURA MUNICIPAL DE BARAÚNA CGC.: 01.612.512/0001-71 BARAUNA Rua Getúlio Vargas, s/n - Centro
+
+**Art. 5°** - Para a execução do orçamento de que trata esta Lei fica o Poder Executivo autorizado a: Parágrafo Unico - Abrir Créditos Suplementares até o limite de 40% (Quarenta Porcento) do total da despesa fixada nesta Lei, mediante Decreto do Poder Executivo, contendo justificativa em consonância com a Lei de Responsabilidade Fiscal.
+
+**Art. 6°** - Esta Lei entra em vigor na data de sua publicação;
+
+**Art. 7°** - Revogam-se as disposições em contrário. Arder de Desado Prefeito Constitucional
+
+ESTADO DA PARAÍBA PREFEITURA MUNICIPAL DE BARAÚNA CGC.: 01.612.512/0001-71 BARAUNA Rua Getúlio Vargas, s/n - Centro
+
+I - DEMONSTRAÇÃO POR UNIDADE ORÇAMENTÁRIA 170.000,00 Câmara Municipal R$ R$ Gabinete do Prefeito 200.000,00 Secretaria de Adm. e Planejamento 250.000,00 R$ Secretaria de Finanças 80.000,00 R$ 200.000,00 Secretaria de Agricultura R$ Secretaria de Saúde 500.000,00 R$ 10.000,00 Secretaria de Assistência Social R$ 2.800,000,00 TOTAL R$
+
+II - POR FUNÇÕES DE GOVERNO LEGISLATIVO 170.000,00 R$ ADMINISTRAÇÃO E PLANEJAMENTO 530.000,00 R$ AGRICULTURA 200.000,00 R$ COMUNICAÇÃO 60.000,00 R$ EDUCAÇÃO E CULTURA 900.000,00 R$ HABITAÇÃO E URBANISMO 250.000,00 R$ SAÚDE E SANEAMENTO R$ 500.000,00 ASSISTÊNCIA E PREVIDÊNCIA 100.000,00 R$ TRANSPORTE 40.000,00 R$ ELETRIFICAÇÃO ELÉTRICA 50.000,00 R$ TOTAL R$ 2.800,000,00
+
+**Art. 4°** - A execução da despesa é condicionada a existência de recursos financeiros suficientes, cabendo ao Poder Executivo tomar as providências necessárias para ajustar o fluxo dos dispêndios dos ingressos dos recursos. Parágrafo Unico - Para efeito de ajuste de que trata o caput desse artigo deverão ser utilizados instrumentos de limitação de empenho, executando se as despesas constitucionais obrigatórias.
+
+Онет Инйо с Ткавово ESTADO DA PARAÍBA PREFEITURA MUNICIPAL DE BARAÚNA CGC.: 01.612.512/0001-71 BARAUNA Rua Getúlio Vargas, s/n - Centro Baraúna - PB, 31 de outubro de 2001.
+
+Lei n° 153/01. ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE BARAÚNA, PARA O EXERCÍCIO FINANCEIRO DE 2002, E DÁ OUTRAS PROVIDÊNCIAS. O Prefeito Constitucional de Baraúna - PB; Faço saber, que a Câmara Municipal de Baraúna - PB, aprovou e eu sanciono a seguinte lei:
+
+**Art. 1°** - Fica aprovado o Orçamento do Município de Baraúna, Estado da Paraíba, para o exercício financeiro para 2002, discriminados em anexos integrantes desta lei que estima a Receita em R$ 2.800,000 ( Dois Milhões e Oitocentos Mil Reis) e fixa a despesa em igual valor;
+
+**Art. 2°** - A Receita será realizada mediante arrecadação de tributos, contribuições, transferências e outras receitas na forma de legislação vigente de conformidade com desdobramento seguinte: RECEITAS CORRENTES Receita Tributária R$ 50.000,00 Receita Patrimonial Transferências Correntes R$ 2.000,000,00ł Outras Transferências Correntes R$ 10.000,00 Receita de Capital 740.000,00 R$ TOTAL R$ 2.800,000,0ął
+
+**Art. 3°** - A despesa será realizada na forma dos Quadros Analíticos, dentro dos limites e conforme a seguir:
+

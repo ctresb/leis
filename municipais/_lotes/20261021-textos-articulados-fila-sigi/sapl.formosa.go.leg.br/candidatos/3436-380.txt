@@ -1,0 +1,439 @@
+Institui os Processos Administrativo e Legislativo Eletrônicos no âmbito da Câmara Municipal de Formosa-GO.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA – GOIÁS, no uso da atribuição legal, que lhe confere o art. 69, inciso III, da Lei Municipal nº. 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam instituídos os Processos Administrativo e Legislativo Eletrônicos no âmbito da Câmara Municipal de Formosa-GO.
+
+
+Art. 2º.
+
+São objetivos desta Lei:
+
+
+I –
+
+atender às determinações da Lei n.º 12.527/11 - Lei de Acesso à Informação - quanto as normas e procedimentos que assegurem a:
+
+
+a)
+
+gestão transparente da informação;
+
+
+b)
+
+proteção da informação, garantindo sua disponibilidade, autenticidade, integridade e primariedade;
+
+
+II –
+
+assegurar a eficiência, a eficácia e a efetividade das ações do Poder Legislativo Municipal;
+
+
+III –
+
+promover a utilização de meios eletrônicos para a realização dos Processos Administrativo e Legislativo com segurança, transparência e economicidade;
+
+
+IV –
+
+ampliar a sustentabilidade ambiental com o uso da tecnologia da informação e da comunicação;
+
+
+V –
+
+facilitar o acesso do cidadão às informações do Poder Legislativo.
+
+
+Art. 3º.
+
+Para o disposto nesta lei, consideram-se as definições:
+
+
+I –
+
+processo administrativo eletrônico: aquele em que os atos processuais são registrados e disponibilizados em meio eletrônico;
+
+
+II –
+
+processo legislativo eletrônico: aquele em que os documentos são registrados, tramitados e disponibilizados em meio eletrônico;
+
+
+III –
+
+documento: unidade de registro de informações, independentemente do formato, do suporte ou da natureza;
+
+
+IV –
+
+documento digital: informação registrada, codificada em dígitos binários, acessível e interpretável por meio de sistema computacional, podendo ser:
+
+
+a)
+
+documento nato-digital: documento criado originariamente em meio eletrônico;
+
+
+b)
+
+documento digitalizado: documento obtido a partir da conversão de um documento não digital, gerando uma fiel representação em código digital;
+
+
+V –
+
+Sistema de Apoio ao Processo Legislativo – SAPL: sistema desenvolvido e mantido pelo Programa Interlegis. Permite a automação completa do Processo Legislativo Municipal;
+
+
+VI –
+
+E-mail institucional: consiste em uma conta de correio eletrônico exclusivamente de cunho institucional, com a extensão “@camaraformosa.go.gov.br”, ou “@formosa.go.gov.br”;
+
+
+VII –
+
+Programa Interlegis: Programa executado pelo Instituto Legislativo Brasileiro (ILB). Objetiva fortalecer o Poder Legislativo por meio do estímulo à modernização, integração e cooperação das casas legislativas nas esferas Federal, Estadual e Municipal. Para isso disponibiliza, gratuitamente os Produtos: SAPL, Portal Modelo, dentre outros;
+
+
+VIII –
+
+Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil): cadeia hierárquica e de confiança que viabiliza a emissão de Certificados Digitais. Primeira autoridade da cadeia de Certificação;
+
+
+IX –
+
+Certificado Digital: identidade digital da pessoa física ou jurídica no meio eletrônico. Garante autenticidade, confiabilidade, integridade e não repúdio nas operações que são realizadas por meio dele, atribuindo validade jurídica ao documento;
+
+
+X –
+
+Assinatura Digital: modalidade de assinatura eletrônica, resultado de uma operação matemática que utiliza algoritmos de criptografia assimétrica e permite aferir, com segurança, a origem e a integridade do documento.
+
+
+Art. 4º.
+
+Serão utilizados sistemas informatizados para a gestão e o trâmite de documentos nos Processos Administrativo e Legislativo Eletrônicos da Câmara Municipal de Formosa.
+
+
+§ 1º
+
+O Processo Administrativo Eletrônico será feito via e-mail institucional, ou por Sistema de Gerenciamento de Documentos.
+
+
+§ 2º
+
+O Processo Legislativo Eletrônico ocorrerá exclusivamente por meio do Sistema de Apoio ao Processo Legislativo – SAPL.
+
+
+Art. 5º.
+
+Nos Processos Administrativo e Legislativo Eletrônicos, os atos processuais deverão ser realizados exclusivamente em meio eletrônico e com assinatura digital, exceto nas situações em que este procedimento for inviável ou em caso de indisponibilidade do meio eletrônico cujo prolongamento cause dano relevante à celeridade do processo.
+
+
+Parágrafo único.
+
+No caso das exceções previstas no caput, os atos processuais poderão ser praticados segundo as regras aplicáveis aos processos em papel, desde que posteriormente os documentos sejam digitalizados, conforme procedimento previsto no Art. 10.
+
+
+Art. 6º.
+
+A autoria, autenticidade e a integridade dos documentos e das assinaturas, nos Processos Administrativo e Legislativo Eletrônicos, serão obtidas por meio de Certificado Digital emitido no âmbito da Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil, observados os padrões definidos por essa infraestrutura.
+
+
+Parágrafo único.
+
+O disposto neste artigo não se aplica às situações que permitam identificação simplificada do interessado ou nas hipóteses legais de anonimato.
+
+
+Art. 7º.
+
+Os documentos nato-digitais e assinados eletronicamente na forma do Art. 6º são considerados originais para todos os efeitos legais.
+
+
+Parágrafo único.
+
+Fica dispensada a impressão dos documentos produzidos de forma integralmente eletrônica, com assinatura digital e em conformidade com o padrão ICP-Brasil. Nesse caso deverá ser adotado rigoroso procedimento de backup dos documentos.
+
+
+Art. 8º.
+
+O protocolo de documentos observará os critérios:
+
+
+I –
+
+no Processo Administrativo Eletrônico considerar-se-á a data de envio do e-mail ao destinatário;
+
+
+II –
+
+para o Processo Legislativo Eletrônico será considerada a data e horário de recebimento pelo Sistema de Apoio ao Processo Legislativo - SAPL.
+
+
+Parágrafo único.
+
+Nenhuma proposição será recebida no SAPL sem a devida assinatura digital do autor.
+
+
+Art. 9º.
+
+A tramitação de documentos entre os Poderes Executivo e Legislativo será feita através dos e-mails institucionais.
+
+
+§ 1º
+
+O Prefeito Municipal indicará ao Secretário Geral da Câmara, a relação dos e-mails e servidores responsáveis pelo recebimento dos documentos encaminhados pelo Poder Legislativo.
+
+
+§ 2º
+
+Vetado
+
+
+I –
+
+Vetado
+
+
+II –
+
+Vetado
+
+
+§ 3º
+
+Os e-mails serão redigidos com clareza e atenderão aos seguintes critérios:
+
+
+I –
+
+no campo assunto deverão constar:
+
+
+a)
+
+tipo do documento;
+
+
+b)
+
+número de ordem;
+
+
+c)
+
+ano;
+
+
+d)
+
+resumo do documento;
+
+
+II –
+
+o corpo da mensagem conterá:
+
+
+a)
+
+identificação do responsável pelo envio do documento;
+
+
+b)
+
+informações que facilitem a identificação dos arquivos anexados;
+
+
+III –
+
+Vetado
+
+
+IV –
+
+Vetado
+
+
+Art. 10.
+
+O processo de digitalização será realizado de forma a manter a integridade e a autenticidade do documento digital, com o emprego de Certificado Digital emitido no âmbito da Infraestrutura de Chaves Públicas Brasileira - ICP - Brasil.
+
+
+§ 1º
+
+Compete aos setores da Câmara a digitalização de todos documentos sob sua custódia.
+
+
+§ 2º
+
+Os servidores poderão adotar os seguintes procedimentos:
+
+
+I –
+
+proceder à digitalização imediata do documento apresentado e devolvê-lo ao interessado;
+
+
+II –
+
+determinar que a protocolização de documento original seja acompanhada de cópia simples, hipótese em que o protocolo atestará a conferência da cópia com o original, devolverá o documento original imediatamente ao interessado e descartará a cópia simples após a sua digitalização;
+
+
+III –
+
+receber o documento em papel para posterior digitalização, considerando que:
+
+
+a)
+
+os documentos em papel recebidos que sejam originais ou cópias autenticadas em cartório devem ser devolvidos ao interessado, preferencialmente, ou ser mantidos sob guarda do setor;
+
+
+b)
+
+os documentos em papel recebidos que sejam cópias autenticadas administrativamente ou cópias simples podem ser descartados após realizada a sua digitalização.
+
+
+Art. 11.
+
+Impugnada a integridade do documento digitalizado, mediante alegação motivada e fundamentada de adulteração, deverá ser instaurada diligência para a verificação do documento objeto de controvérsia.
+
+
+Art. 12.
+
+Deverão ser associados elementos descritivos aos documentos digitais que integram os Processos Administrativo e Legislativo Eletrônicos, a fim de apoiar sua identificação, sua indexação, sua presunção de autenticidade, sua preservação e sua interoperabilidade.
+
+
+Art. 13.
+
+O Setor de Informática da Câmara estabelecerá políticas, estratégias e ações que garantam o acesso e o uso contínuo dos documentos digitais e sua preservação a longo prazo, sendo obrigatórios:
+
+
+I –
+
+procedimentos rotineiros de cópias de segurança (backup), dentre os quais:
+
+
+a)
+
+armazenamento no servidor de arquivos;
+
+
+b)
+
+backup em nuvem;
+
+
+c)
+
+armazenamento em mídias removíveis;
+
+
+II –
+
+uso de sistema de indexação que permita a localização dos documentos digitais;
+
+
+III –
+
+adoção de medidas contra a deterioração e a obsolescência de equipamentos e programas.
+
+
+Art. 14.
+
+Compete ao Secretário Geral da Câmara:
+
+
+I –
+
+implementação e definição das rotinas a serem adotadas nos Processos Administrativo e Legislativo Eletrônicos;
+
+
+II –
+
+administração do Sistema de Apoio ao Processo Legislativo – SAPL.
+
+
+Art. 15.
+
+Torna-se obrigatória a renovação anual dos Certificados Digitais dos parlamentares e dos servidores da Câmara:
+
+
+I –
+
+Chefe do Controle Interno;
+
+
+II –
+
+Chefe do Departamento de Recursos Humanos;
+
+
+III –
+
+membros da Comissão Permanente de Licitação:
+
+
+a)
+
+Presidente;
+
+
+b)
+
+Pregoeiro;
+
+
+c)
+
+Secretário;
+
+
+d)
+
+Membro;
+
+
+IV –
+
+Secretário Geral;
+
+
+V –
+
+Tesoureiro.
+
+
+§ 1º
+
+A critério do Presidente, poderão ser concedidos Certificados Digitais a outros servidores do quadro de pessoal da Câmara.
+
+
+§ 2º
+
+Compete ao Secretário Geral, com auxílio do Setor de Informática, prestar o apoio para a criação, revogação, utilização e controle do prazo de expiração dos Certificados Digitais.
+
+
+Art. 16.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 5 de março de 2018.
+
+Ernesto Roller
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+....................................................................  
+Iany Macêdo Troncha  
+Assessora Jurídica  
+Decreto nº. 054/17, de 06 de janeiro de 2017.

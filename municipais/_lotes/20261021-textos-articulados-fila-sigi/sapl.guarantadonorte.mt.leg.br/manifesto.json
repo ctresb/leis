@@ -1,0 +1,42 @@
+{
+  "host": "sapl.guarantadonorte.mt.leg.br",
+  "metadados_unicos_observados": 31,
+  "total_api_declarado": 31,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guarantadonorte.mt.leg.br/e22d2f13d06af4144367a4efc3a03b5c8b5c415124b794301aa598ef3bb3e8d9.json",
+    "url": "https://sapl.guarantadonorte.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.guarantadonorte.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "adc6c782436ec31a4d49df2cb67b1b13bb13be08fca69669ecf8fb2fa8fd39e0",
+    "bytes": 953,
+    "capturado_em": "2026-10-28T13:26:39.979581-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guarantadonorte.mt.leg.br/43bc0706c4b719d198b4bcc257408ab9e87a33fbf81f335d38b59caadc257d30.json",
+    "url": "https://sapl.guarantadonorte.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.guarantadonorte.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "97946f866784dea6fbdd94b490abc31f7dfa7f42640bb5a8b9d836f021940b58",
+    "bytes": 815,
+    "capturado_em": "2026-10-28T13:26:39.174690-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guarantadonorte.mt.leg.br/30c5e5fb97df9d1870986abf7fc973230166eb2cd0e009491aa7399ba2fcbe79.json",
+      "url": "https://sapl.guarantadonorte.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.guarantadonorte.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6917dd9701da611a8e8773f8c27fc3a0cb18838ba24c91fb2bd05ab07ab2b8f5",
+      "bytes": 19824,
+      "capturado_em": "2026-10-28T13:26:42.131554-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

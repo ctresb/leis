@@ -1,0 +1,198 @@
+---
+titulo: "Lei Ordinária nº 845, de 15 de fevereiro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "845"
+data: "2023-02-15"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2024-08-19; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/4952"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/2083/text"
+sha256_fonte: "bfe59f291c4424a3467bca3d1fd26117dd124606f92b6861a55fb6fa1429931f"
+sha256_texto: "f5db8ef8588af28cc69071d27987dd7593319ed41127577787d1f56e62cc7577"
+capturado_em_fonte: "2026-10-28T11:16:03.114801-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 845, de 15 de fevereiro de 2023
+
+Dispõe sobre a criação da Campanha de Conscientização e de Reconhecimento do Cordão de Girassol, no âmbito do Município de Formosa.
+
+
+Projeto de Lei Ordinária nº 103/22, de autoria do Vereador João Batista Cordeiro Mororo Junior, aprovado em 08 de fevereiro de 2023.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída a campanha de conscientização e de reconhecimento do Cordão de Girassol e do Cartão de identificação como instrumentos auxiliares para identificação de pessoas com deficiência e/ou transtornos ocultos, em Formosa.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.003, de 19 de agosto de 2024.
+
+
+§ 1º
+
+Para efeito desta lei, o Cordão de Girassol consiste em uma faixa estreita de tecido ou material equivalente, na cor verde, estampada com desenhos de girassóis na cor amarela, acompanhada de um cartão com informações úteis, tais como detalhes sobre a deficiência e o transtorno, devidamente autorizado e assinado pelo Secretário Municipal de Saúde ou responsável, a critério do indivíduo que possui uma deficiência e/ou transtornos ocultos, ou de seus responsáveis.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.003, de 19 de agosto de 2024.
+
+
+I –
+
+a autorização e assinatura do Secretário Municipal de Saúde ou responsável no cartão de identificação basear-se-á em documentações oficiais, tais como laudo ou relatório médico;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.003, de 19 de agosto de 2024.
+
+
+II –
+
+o cartão de identificação mencionado servirá como suporte para evitar questionamentos sobre as deficiências e/ou transtornos ocultos dos indivíduos que façam uso do Cordão de Girassol.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.003, de 19 de agosto de 2024.
+
+
+§ 2º
+
+Considera-se pessoa com deficiência oculta, àquela cuja deficiência, ou condição neurológica, não é identificada de maneira imediata, por não ser fisicamente evidente, tais como:
+
+
+I –
+
+transtorno do Espectro Autista;
+
+
+II –
+
+síndrome de Tourette;
+
+
+III –
+
+transtorno de Déficit de Atenção e Hiperatividade (TDAH);
+
+
+IV –
+
+doença de Crohn;
+
+
+V –
+
+visão monocular;
+
+
+VI –
+
+deficiência intelectual;
+
+
+VII –
+
+transtornos psiquiátricos;
+
+
+VIII –
+
+entre outras.
+
+
+Art. 2º.
+
+O uso do cordão de girassol é facultado aos indivíduos que tenham deficiências e/ou transtornos ocultos, bem como a seus acompanhantes e atendentes pessoais.
+
+
+Art. 3º.
+
+As pessoas com deficiências e/ou transtornos ocultos terão assegurados os direitos a atenção especial necessária, fazendo o uso do Cordão de Girassol e do Cartão de identificação, garantindo assim, o seu atendimento prioritário e mais humanizado, nos termos desta Lei, considerando que as doenças ocultas são impossíveis de serem detectadas tão somente pela aparência física.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.003, de 19 de agosto de 2024.
+
+
+Art. 4º.
+
+Os estabelecimentos públicos e privados devem orientar seus funcionários e colaboradores quanto à identificação de pessoas com deficiências e/ou transtornos ocultos, a partir do uso do Cordão de Girassol e do cartão de identificação com informações úteis, bem como aos procedimentos que possam ser adotados para atenuar as dificuldades destas pessoas.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.003, de 19 de agosto de 2024.
+
+
+Parágrafo único.
+
+Entende-se por estabelecimentos privados:
+
+
+I –
+
+supermercados;
+
+
+II –
+
+bancos;
+
+
+III –
+
+farmácias;
+
+
+IV –
+
+bares;
+
+
+V –
+
+restaurantes;
+
+
+VI –
+
+lojas em geral;
+
+
+VII –
+
+similares.
+
+
+Art. 4º-A.
+
+A não apresentação do cartão de identificação com informações úteis, junto ao Cordão de Girassol, não desobrigará os estabelecimentos de atender os indivíduos com deficiências e/ou transtornos ocultos, bem como não impedirá que estes recebam atendimento prioritário e mais humanizado, nos termos desta lei.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 1.003, de 19 de agosto de 2024.
+
+
+Art. 5º.
+
+As campanhas de que se trata o caput desta Lei, poderão ser promovidas pelas Secretarias Municipais de Saúde, de Desenvolvimento Social e da Educação, em parcerias com o Terceiro Setor e as Instituições de Ensino Superior e Técnico, com o intuito de difundir informações sobre a relevância da mobilização, sensibilização e a participação efetiva da sociedade sobre as deficiências e/ou transtornos ocultos, bem como o reconhecimento do Cordão de Girassol como instrumento auxiliar para identificação desse público.
+
+
+Art. 6º.
+
+A aquisição do Cordão de Girassol, será de total responsabilidade da pessoa com deficiência e/ou transtornos ocultos, ou seu responsável, sem, portanto, gerar nenhuma oneração aos cofres públicos.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 15 de fevereiro de 2023.
+
+Gustavo Marques de Oliveira  
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+.......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 21, de 04 de janeiro de 2021.
+

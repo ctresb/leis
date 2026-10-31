@@ -1,0 +1,78 @@
+{
+  "estado": "indice_completo",
+  "total": 6,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/ato_de_promulgacao_1-2022_da_lei_352-2022_revisao_subsidios_vereadorese.pdf da norma Lei nº 352, de 09 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "\"Promulga proposição legislativa sancionada tacitamente, em virtude do silêncio de sanção ou veto, pelo Prefeito Municipal, no tempo hábil previsto no art. 45, & 2º da Lei Orgânica do Município\".",
+      "anexo_arquivo": "http://sapl.afonsocunha.ma.leg.br/media/sapl/public/anexonormajuridica/2022/1/ato_de_promulgacao_1-2022_da_lei_352-2022_revisao_subsidios_vereadorese.pdf",
+      "ano": 2022,
+      "norma": 48
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/promulgacao_da_lei_354-2022_ldo-2023.pdf da norma LEI ORDINÁRIA-ARQ nº 1, de 07 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ATO DE PROMULGAÇÃO Nº 2/2022\r\n“Promulga Lei Ordinária, em virtude da derrubada do Veto Parcial do Poder Executivo e a não publicação da Lei pelo Prefeito Municipal, nos termos da Lei Orgânica Municipal e Regimento Interno”.",
+      "anexo_arquivo": "http://sapl.afonsocunha.ma.leg.br/media/sapl/public/anexonormajuridica/2022/2/promulgacao_da_lei_354-2022_ldo-2023.pdf",
+      "ano": 2022,
+      "norma": 58
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/ata_da_sessao_ordinaria_de_20-04-2018_230529_154753.pdf da norma Resolução-MD nº 1, de 25 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ATA DA SESSÃO ORDINÁRIA DE DELIBERAÇÃO EM1º TURNO DO PROJETO DE RESOLUÇÃO 01/2018, REALIZADA NO DIA 20/04/2018",
+      "anexo_arquivo": "http://sapl.afonsocunha.ma.leg.br/media/sapl/public/anexonormajuridica/2018/3/ata_da_sessao_ordinaria_de_20-04-2018_230529_154753.pdf",
+      "ano": 2018,
+      "norma": 57
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/ata_da_sessao_extraordinaria_de_25-04-2018_230529_154907.pdf da norma Resolução-MD nº 1, de 25 de abril de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ATA DA SESSÃO EXTRAORDINÁRIA DE DELIBERAÇÃO EM 2º TURNO DO PROJETO DE RESOLUÇÃO Nº 01/2018, REALIZADA NO DIA 25/04/2018",
+      "anexo_arquivo": "http://sapl.afonsocunha.ma.leg.br/media/sapl/public/anexonormajuridica/2018/4/ata_da_sessao_extraordinaria_de_25-04-2018_230529_154907.pdf",
+      "ano": 2018,
+      "norma": 57
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/5/projeto_de_lei_07-2023_piso_enfermagem.pdf da norma Lei-ARQ nº 358, de 14 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "cópia projeto de lei 07/2023",
+      "anexo_arquivo": "http://sapl.afonsocunha.ma.leg.br/media/sapl/public/anexonormajuridica/2023/5/projeto_de_lei_07-2023_piso_enfermagem.pdf",
+      "ano": 2023,
+      "norma": 69
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/6/certidao_de_atestado_de_publicacao_de_lei_281-2015_perimetro_urbano_do_municipio.pdf da norma Lei nº 281, de 12 de março de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "CERTIDÃO DE PUBLICAÇÃO DA LEI NA CÂMARA MUNICIPAL",
+      "anexo_arquivo": "http://sapl.afonsocunha.ma.leg.br/media/sapl/public/anexonormajuridica/2015/6/certidao_de_atestado_de_publicacao_de_lei_281-2015_perimetro_urbano_do_municipio.pdf",
+      "ano": 2015,
+      "norma": 70
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.afonsocunha.ma.leg.br/21776d769bae09fc7ab6efef2bcc5bba09732c0882704f318ba49c70fda2f7f7.json",
+      "url": "https://sapl.afonsocunha.ma.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.afonsocunha.ma.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "49bc9d162260e9c1eaea7be75a7579d5a915ce04dd8c9df8169e48f349f3447d",
+      "bytes": 3803,
+      "capturado_em": "2026-10-21T04:59:38.866114-03:00"
+    }
+  ]
+}

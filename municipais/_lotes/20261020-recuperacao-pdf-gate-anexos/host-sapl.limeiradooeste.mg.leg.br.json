@@ -1,0 +1,936 @@
+{
+  "host": "sapl.limeiradooeste.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/parecerjuridico-pontoeletronicoadvogado-c.pdf da norma Portaria nº 13, de 22 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Em atendimento a solicitação de Vossa Excelência, e considerando dúvidas existentes, venho esclarecer no tocante ao \"Registro de Frequência em Ponto Eletrônico\", precisamente a Portaria nº 13, de 22 de abril de 2019.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/5/parecerjuridico-pontoeletronicoadvogado-c.pdf",
+      "ano": 2019,
+      "norma": 1802
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/6/of208-2019-gp-respof131-c.pdf da norma Lei Ordinária nº 27, de 27 de maio de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Contrato de concessão para exploração de serviços de esgoto de limeira do oeste.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/1993/6/of208-2019-gp-respof131-c.pdf",
+      "ano": 1993,
+      "norma": 580
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/termoderenuncia-zaca-c.pdf da norma Portaria nº 38, de 12 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Termo de Renuncia, Vereador José Rodrigues Barbosa.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/7/termoderenuncia-zaca-c.pdf",
+      "ano": 2019,
+      "norma": 1862
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/8/limeira_do_oeste_-_copasa.pdf da norma Lei Ordinária nº 26, de 27 de maio de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/1993/8/limeira_do_oeste_-_copasa.pdf",
+      "ano": 1993,
+      "norma": 578
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/10/cemig-anexoport46-c.pdf da norma Portaria nº 46, de 27 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Contrato de condições comercial e técnicas para execução de obras no sistema elétrico de distribuição.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/10/cemig-anexoport46-c.pdf",
+      "ano": 2019,
+      "norma": 1886
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/termoconfcaixa-c.pdf da norma Portaria nº 50, de 30 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/11/termoconfcaixa-c.pdf",
+      "ano": 2019,
+      "norma": 1894
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/of0048-2020-caixa-emater-c.pdf da norma Lei Ordinária nº 796, de 05 de outubro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2017/12/of0048-2020-caixa-emater-c.pdf",
+      "ano": 2017,
+      "norma": 1663
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/13/acordao_10000200662922000_10666322020_1.pdf da norma Lei Complementar nº 73, de 14 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/13/acordao_10000200662922000_10666322020_1.pdf",
+      "ano": 2020,
+      "norma": 1932
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/14/of4540-2020-adi-lc73-c.pdf da norma Lei Complementar nº 73, de 14 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/14/of4540-2020-adi-lc73-c.pdf",
+      "ano": 2020,
+      "norma": 1932
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/adim-fogos-20-11-2020-c.pdf da norma Lei Ordinária nº 874, de 02 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA INCONST N° 1.0000.19.166161-0/000\r\nACÓRDÃO\r\nVistos etc, acorda, em Turma, o ÓRGÃO ESPECIAL do Tribunal de Justiça do Estado de Minas Gerais, na conformidade da ata dos julgamentos, em INDEFERIR A CAUTELAR\r\nDESA. MÁRCIA MILANEZ\r\nRELATORA.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/15/adim-fogos-20-11-2020-c.pdf",
+      "ano": 2019,
+      "norma": 1877
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/16/anexos-loa-2021-retificados-c.pdf da norma Lei Ordinária nº 910, de 18 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/16/anexos-loa-2021-retificados-c.pdf",
+      "ano": 2020,
+      "norma": 1992
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/17/of2204-2020-adi-lc73-c.pdf da norma Lei Complementar nº 73, de 14 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Ref.: solicita informações para instruir a Ação Direta de Inconstitucionalidade n° 1.0000.20.066292-2I000.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/17/of2204-2020-adi-lc73-c.pdf",
+      "ano": 2020,
+      "norma": 1932
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/18/of4617-2020-adi-lc73-c.pdf da norma Lei Complementar nº 73, de 14 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Solicita informações para instruir a Ação Direta de Inconstitucionalidade\r\nn° 1.0000.20.066292-2/O00.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/18/of4617-2020-adi-lc73-c.pdf",
+      "ano": 2020,
+      "norma": 1932
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/19/pedidonegacao-adim-fogos-c.pdf da norma Lei Ordinária nº 874, de 02 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "PRESTAR INFORMAÇÕES sobre o ato normativo impugnado, e ainda, sobre o pedido de suspensão cautelar,",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/19/pedidonegacao-adim-fogos-c.pdf",
+      "ano": 2019,
+      "norma": 1877
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/20/of38-2021-gp-decreto_5969-regulamenta_art._67-lei313-c.pdf da norma Lei Ordinária nº 313, de 09 de agosto de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "REGULAMENTA OS ARTIGOS 67 E SEGUINTES, DA LEI MUNICIPAL N” 313/2002 - ESTATUTO DOS SERVIDORES PÚBLICOS DO MUNICÍPIO DE LIMEIRA DO OESTE, QUE DISPÕEM SOBRE A CONCESSÃO DE ADICIONAIS DE PERICULOSIDADE, PENOSIDADE, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2002/20/of38-2021-gp-decreto_5969-regulamenta_art._67-lei313-c.pdf",
+      "ano": 2002,
+      "norma": 502
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/21/certidaoobito-azulao-c.pdf da norma Lei Ordinária nº 210, de 29 de maio de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Certidão de Óbito.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/1998/21/certidaoobito-azulao-c.pdf",
+      "ano": 1998,
+      "norma": 771
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/22/acao_direta_de_inconstitucionalidade-c.pdf da norma Lei Ordinária nº 874, de 02 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Defesa sobre o ato normativo impugnado, e ainda, no prazo legal, apresentando os fatos e fundamentos jurídicos que permitem e acolhem a constitucionalidade da Lei Municipal n. 874/2019",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/22/acao_direta_de_inconstitucionalidade-c.pdf",
+      "ano": 2019,
+      "norma": 1877
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/23/acordao_-_licenca_maternidade.pdf da norma Lei Complementar nº 73, de 14 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "A C Ó R D Ã O\r\nVistos etc., acorda, em Turma, o ÓRGÃO ESPECIAL do Tribunal de Justiça do Estado de Minas Gerais, na conformidade da ata dos julgamentos, em JULGAR PROCEDENTE O PEDIDO.\r\nDES. EDILSON OLÍMPIO FERNANDES\r\nRELATOR.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/23/acordao_-_licenca_maternidade.pdf",
+      "ano": 2020,
+      "norma": 1932
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/24/16-2021-adi-lc73-c.pdf da norma Lei Complementar nº 73, de 14 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "SUSPENDE A LEI COMPLEMENTAR Nº 73/2020 (LICENÇA MATERNIDADE 180 DIAS) EM FUNÇÃO DOS EFEITOS DO JULGAMENTO PROCEDENTE DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE - ADI 1.0000.20.066292-2/000 PELO ÓRGÃO ESPECIAL DO TJMG.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/24/16-2021-adi-lc73-c.pdf",
+      "ano": 2020,
+      "norma": 1932
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/acordao_-_lei_fogos_de_artificio.pdf da norma Lei Ordinária nº 874, de 02 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "A C Ó R D Ã O\r\nVistos etc., acorda, em Turma, o ÓRGÃO ESPECIAL do Tribunal de Justiça do Estado de Minas Gerais, na conformidade da ata dos julgamentos, em JULGAR IMPROCEDENTE A REPRESENTAÇÃO.\r\nDESA. MÁRCIA MILANEZ\r\nRELATORA",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2019/25/acordao_-_lei_fogos_de_artificio.pdf",
+      "ano": 2019,
+      "norma": 1877
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/26/anexos-aaclo.pdf da norma Lei Ordinária nº 105, de 28 de novembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "ESTATUTO, CADASTRO REGISTRO, ATESTADO DE FUNCIONAMENTO, LEI 2334/87 DO MUNICÍPIO DE ITURAMA E CGC.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/1994/26/anexos-aaclo.pdf",
+      "ano": 1994,
+      "norma": 656
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/27/anexosport-38.pdf da norma Portaria nº 38, de 30 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "CERTIDÃO DE INVENTÁRIO FÍSICO E FINANCEIRO DOS VALORES.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2021/27/anexosport-38.pdf",
+      "ano": 2021,
+      "norma": 2119
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/28/anexosport-35.pdf da norma Portaria nº 35, de 30 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "TERMO DE CONFERÊNCIA DE VALORES EM CAIXA.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2021/28/anexosport-35.pdf",
+      "ano": 2021,
+      "norma": 2116
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/29/anexoresol_28-orcamento.pdf da norma Resolução nº 28, de 28 de outubro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Demonstração da Receita e Despesas Segundo as Categorias Econômicas Exercício de 1995.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/1994/29/anexoresol_28-orcamento.pdf",
+      "ano": 1994,
+      "norma": 2199
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/30/transicaoadministrativa7ap8a_legislatura-2020-21_opt.pdf da norma Portaria nº 33, de 19 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "PROCEDIMENTO DE INSTITUCIONALIZAÇÃO DA TRANSIÇÃO DA CÂMARA MUNICIPAL DE LIMEIRA DO OESTE DA 7ª LEGISLATURA\r\n(2017/2020) PARA A 8ª LEGISLATURA (2021/2024) E PREPARATIVOS DA POSSE DOS ELEITOS.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2020/30/transicaoadministrativa7ap8a_legislatura-2020-21_opt.pdf",
+      "ano": 2020,
+      "norma": 1984
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/31/anexosldo-2023-texto.pdf da norma Lei Ordinária nº 997, de 02 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2022/31/anexosldo-2023-texto.pdf",
+      "ano": 2022,
+      "norma": 2252
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/32/mapa_dos_setores.pdf da norma Lei Complementar nº 83, de 03 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2021/32/mapa_dos_setores.pdf",
+      "ano": 2021,
+      "norma": 2092
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/33/anexos_-_orcamento_2023_-_loa.pdf da norma Lei Ordinária nº 1.013, de 22 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2022/33/anexos_-_orcamento_2023_-_loa.pdf",
+      "ano": 2022,
+      "norma": 2287
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/34/of44-2023-gp-processolicitatorio-125-2022.pdf da norma Portaria nº 8, de 14 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2023/34/of44-2023-gp-processolicitatorio-125-2022.pdf",
+      "ano": 2023,
+      "norma": 2325
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/35/anexoport18-_quinquenio_anexo_i-1.pdf da norma Portaria nº 18, de 07 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "INFORMATIVO – ANEXO I - PREVISÃO DO BENEFICIO DE ADICIONAL POR TEMPO DE SERVIÇO - (Art. 66, Lei nº 313/2002).",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2023/35/anexoport18-_quinquenio_anexo_i-1.pdf",
+      "ano": 2023,
+      "norma": 2362
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/36/anexos-ldo-2024.pdf da norma Lei Ordinária nº 1.050, de 24 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Anexos LDO-2024",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2023/36/anexos-ldo-2024.pdf",
+      "ano": 2023,
+      "norma": 2380
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/37/anexos_-__loa_-_2024.pdf da norma Lei Ordinária nº 1.072, de 21 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Art. 5°. É parte integrante da presente Lei, os Anexos e Quadros discriminativo da Receita e Despesa em conformidade com as normas vigentes.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2023/37/anexos_-__loa_-_2024.pdf",
+      "ano": 2023,
+      "norma": 2429
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/38/decisao_autos_50062081020238130344_tjmg.pdf da norma Portaria nº 10, de 20 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Trata-se de “ação civil pública cominatória de obrigação de fazer” ajuizada pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS em face do PODER LEGISLATIVO DO MUNICÍPIO DE LIMEIRA DO OESTE/MG.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/38/decisao_autos_50062081020238130344_tjmg.pdf",
+      "ano": 2024,
+      "norma": 2462
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/39/1a_reuniaointerna-19-02-2024-1.pdf da norma Decretos do Legislativo nº 91, de 21 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "William Oliveira Bozza",
+                [
+                  "2024-02-28T11:05:06-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ATA DA 1ª REUNIÃO INTERNA DA CÂMARA MUNICIPAL DE LIMEIRA DO OESTE, ESTADO DE MINAS GERAIS.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2023/39/1a_reuniaointerna-19-02-2024-1.pdf",
+      "ano": 2023,
+      "norma": 2407
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/40/listapresenca-ata20022024.pdf da norma Decretos do Legislativo nº 91, de 21 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE PRESENÇA REUNIÃO 20/02/2024 CÂMARA MUNICIPAL DE LIMEIRA DO OESTE MG.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2023/40/listapresenca-ata20022024.pdf",
+      "ano": 2023,
+      "norma": 2407
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/41/simp_-_juntadadocsprestacaocontas2020s.pdf da norma Decretos do Legislativo nº 91, de 21 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Protocolo eletrônico de juntadas dos documentos junto ao Ministério Público de Contas, através do SIMP, referente à Prestação de Contas 2020.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2023/41/simp_-_juntadadocsprestacaocontas2020s.pdf",
+      "ano": 2023,
+      "norma": 2407
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/42/decreto_no_6.742-04-2024_-_regulamenta_o_reajuste_do_auxilio_alimentacao.pdf da norma Portaria nº 20, de 14 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "REGULAMENTA O REAJUSTE DO AUXÍLIO ALIMENTAÇÃO DOS SERVIDORES PÚBLICOS MUNICIPAIS PREVISTO NA LEI Nº 963, DE 14 DE MARÇO DE 2022.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/42/decreto_no_6.742-04-2024_-_regulamenta_o_reajuste_do_auxilio_alimentacao.pdf",
+      "ano": 2024,
+      "norma": 2500
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/43/_certidao_tcemg_para_fins_de_celebracao_de_operacoes_de_credito.pdf da norma Portaria nº 32, de 15 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "CERTIDÃO Nº 7000024440/2024/LRF",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/43/_certidao_tcemg_para_fins_de_celebracao_de_operacoes_de_credito.pdf",
+      "ano": 2024,
+      "norma": 2524
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/44/decreto_no_6.828-08-2024__-_vedacao_de_atos_que_resultem_em_aumento_de_despesa.doc da norma Portaria nº 32, de 15 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "APLICA O MECANISMO DE AJUSTE FISCAL DE VEDAÇÃO DE ATOS QUE RESULTEM EM AUMENTO DE DESPESA, CONFORME ART. 167-A DA CONSTITUIÇÃO FEDERAL, E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/44/decreto_no_6.828-08-2024__-_vedacao_de_atos_que_resultem_em_aumento_de_despesa.doc",
+      "ano": 2024,
+      "norma": 2524
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/45/modelo_resolucao_no.docx da norma Portaria nº 32, de 15 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "APLICA O MECANISMO DE AJUSTE FISCAL DE VEDAÇÃO DE ATOS QUE RESULTEM EM AUMENTO DE DESPESA, CONFORME ART. 167-A DA CONSTITUIÇÃO FEDERAL E DÁ OUTRAS PROVIDÊNCIAS",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/45/modelo_resolucao_no.docx",
+      "ano": 2024,
+      "norma": 2524
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/46/42-2024-devolucaonumerarios-8.31258_2-5.pdf da norma Portaria nº 42, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Informações complementares à Portaria",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/46/42-2024-devolucaonumerarios-8.31258_2-5.pdf",
+      "ano": 2024,
+      "norma": 2597
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/47/anexos-loa-2025.pdf da norma Lei Ordinária nº 1.122, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Natureza da Receita e Despesa Segundo as Categorias Econômicas\r\nLei 4.320/64 - Anexo 1 - Adendo II - Portaria SOF no 8 de 04/02/1985\r\nConsolidado Geral - 2025",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/47/anexos-loa-2025.pdf",
+      "ano": 2024,
+      "norma": 2605
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/48/emendas_impositivas-2025.pdf da norma Lei Ordinária nº 1.122, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Emenda Impositivas Vereadores para o exercício de 2025.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/48/emendas_impositivas-2025.pdf",
+      "ano": 2024,
+      "norma": 2605
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/49/of1066-2024-1cafes.pdf da norma Lei Complementar nº 10, de 13 de outubro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Ofício nº 1066/2024, para conhecimento e providências cabíveis, encaminho a Vossa Excelência cópia do acórdão referente à ADI em epígrafe.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2003/49/of1066-2024-1cafes.pdf",
+      "ano": 2003,
+      "norma": 286
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/2025-homologacaoconcurso.pdf da norma Portaria nº 38, de 15 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "LISTA DE CLASSIFICAÇÃO FINAL",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/50/2025-homologacaoconcurso.pdf",
+      "ano": 2025,
+      "norma": 2727
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/29.1._anexo_i_-_lei_ordinaria_nc2ba_1154_de_26_de_agosto_de_2025_-_ldo_assinado.pdf da norma Lei Ordinária nº 1.154, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "William Oliveira Bozza",
+                [
+                  "2025-08-26T16:18:44-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ANEXO DE METAS FISCAIS-2026",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/51/29.1._anexo_i_-_lei_ordinaria_nc2ba_1154_de_26_de_agosto_de_2025_-_ldo_assinado.pdf",
+      "ano": 2025,
+      "norma": 2731
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/29.2._anexo_ii_-_lei_ordinaria_nc2ba_1154_de_26_de_agosto_de_2025_-_ldo_assinado.pdf da norma Lei Ordinária nº 1.154, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "William Oliveira Bozza",
+                [
+                  "2025-08-26T16:27:52-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ANEXO DE RISCOS FISCAIS-2026",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/52/29.2._anexo_ii_-_lei_ordinaria_nc2ba_1154_de_26_de_agosto_de_2025_-_ldo_assinado.pdf",
+      "ano": 2025,
+      "norma": 2731
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/53/29.3._anexo_iii-_projeto_de_lei_ordinaria_nc2ba_12_-_resultado_primario_28129_assinado.pdf da norma Lei Ordinária nº 1.154, de 26 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "William Oliveira Bozza",
+                [
+                  "2025-08-26T16:29:31-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Anexo III - Resultado Primário\r\nLEI DE DIRETRIZES ORÇAMENTARIAS\r\nMETODOLOGIA E MEMÓRIA DE CÁLCULO DAS METAS ANUAIS",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/53/29.3._anexo_iii-_projeto_de_lei_ordinaria_nc2ba_12_-_resultado_primario_28129_assinado.pdf",
+      "ano": 2025,
+      "norma": 2731
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/54/nf_-_02.16.0344.0282834.2025.56_-_encerramento-2025-11-03.pdf da norma Decretos do Legislativo nº 93, de 20 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "PROMOVO O ARQUIVAMENTO desta Notícia de Fato , nos termo s do art. 4º, I, art. 4º, I, da Resolução CNMP nº 174, de 04 de julho de 2017.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/54/nf_-_02.16.0344.0282834.2025.56_-_encerramento-2025-11-03.pdf",
+      "ano": 2025,
+      "norma": 2745
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/55/anexo-53-2025-nomeia_ouvidor_2-5.pdf da norma Portaria nº 53, de 14 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Informo para os devidos fins que não existe norma que regulamenta a Ouvidoria no âmbito da Câmara Municipal de Limeira do Oeste.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/55/anexo-53-2025-nomeia_ouvidor_2-5.pdf",
+      "ano": 2025,
+      "norma": 2752
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/56/34.1._anexos-ppa2026-2029.pdf da norma Lei Ordinária nº 1.159, de 02 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Anexos do PPA 2026-2029",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/56/34.1._anexos-ppa2026-2029.pdf",
+      "ano": 2025,
+      "norma": 2768
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/57/anexos_loa_2026.pdf da norma Lei Ordinária nº 1.165, de 19 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Anexos Lei Orçamentária 2026",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/57/anexos_loa_2026.pdf",
+      "ano": 2025,
+      "norma": 2781
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/58/protocolo_tce_-_enedino.pdf da norma Decretos do Legislativo nº 94, de 01 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Protocolo TCE",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/58/protocolo_tce_-_enedino.pdf",
+      "ano": 2025,
+      "norma": 2757
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/protocolo_-_tce_-_pedro.pdf da norma Decretos do Legislativo nº 95, de 01 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Protocolo TCE",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/59/protocolo_-_tce_-_pedro.pdf",
+      "ano": 2025,
+      "norma": 2758
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/2025-10-07-emals-rh_controladoria.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "2025-10-07-Emals-RH_Controladoria",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/60/2025-10-07-emals-rh_controladoria.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/2025-10-10-req_waldir_sebastiao.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "2025-10-10-Req_Waldir_Sebastiao",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/61/2025-10-10-req_waldir_sebastiao.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/62/2025-10-10-resp_sebastiao-waldir.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "2025-10-10-Resp_Sebastiao-Waldir",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/62/2025-10-10-resp_sebastiao-waldir.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/63/2025-11-03-despacho_presidente.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "2025-11-03-Despacho_Presidente",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/63/2025-11-03-despacho_presidente.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/64/2025-11-04-2025-parecer_juridico_leila-valeria.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "2025-11-04-2025-Parecer_Jurídico_Leila - Valeria",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/64/2025-11-04-2025-parecer_juridico_leila-valeria.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/65/2025-12-05-req_wiver_proprio_punho.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "2025-12-05-Req_Wiver_Proprio_Punho",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/65/2025-12-05-req_wiver_proprio_punho.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/66/2025-12-15-despacho_sebastiao.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "2025-12-15-Despacho_Sebastiao",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/66/2025-12-15-despacho_sebastiao.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/67/2025-12-15-req_desconsideracao-waldir.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "2025-12-15-Req_Desconsideracao-Waldir",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/67/2025-12-15-req_desconsideracao-waldir.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/69/2025-12-19-despacho-indeferimento_req_waldir.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "2025-12-19-Despacho-Indeferimento_Req_Waldir",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/69/2025-12-19-despacho-indeferimento_req_waldir.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/70/2025-12-19-termo_remessa_sebastiao_mauro.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "2025-12-19-Termo_Remessa_Sebastiao_Mauro",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/70/2025-12-19-termo_remessa_sebastiao_mauro.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/71/2026-01-07-req_parentesco.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "2026-01-07-Req_Parentesco",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/71/2026-01-07-req_parentesco.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/72/2026-01-13-especificacao_grau_parentesco_3-4.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "2026-01-13-Especificacao_Grau_Parentesco_3-4",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/72/2026-01-13-especificacao_grau_parentesco_3-4.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/73/2026-01-15-presta_informacao_req_parentesco_5-6.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "2026-01-15-Presta_Informacao_Req_Parentesco_5-6",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/73/2026-01-15-presta_informacao_req_parentesco_5-6.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/74/2026-02-02-despacho_e_parecer_parentesco.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "2026-02-02-Despacho_e_Parecer_Parentesco",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/74/2026-02-02-despacho_e_parecer_parentesco.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/75/2026-02-05-of02-cpe-hierarquia.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "2026-02-05-OF02-CPE-Hierarquia",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/75/2026-02-05-of02-cpe-hierarquia.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/76/2026-03-20-parecer_juridico_-_dr._wiver.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "2026-03-20-PARECER JURÍDICO - DR. WIVER",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/76/2026-03-20-parecer_juridico_-_dr._wiver.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/77/2026-03-20-parecer_juridico_-_dra_leila_e_valeria.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "2026-03-20-PARECER JURÍDICO - DRA LEILA E VALÉRIA",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/77/2026-03-20-parecer_juridico_-_dra_leila_e_valeria.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/78/2026-03-20-parecer_juridico_-_waldir_afastamento.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "2026-03-20-PARECER JURÍDICO - WALDIR AFASTAMENTO",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/78/2026-03-20-parecer_juridico_-_waldir_afastamento.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/79/2026-04-07-relatorio_final-apresentado_pelo_dr._pedro_henrique.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "2026-04-07-Relatorio_Final-Apresentado_pelo_Dr. Pedro Henrique",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/79/2026-04-07-relatorio_final-apresentado_pelo_dr._pedro_henrique.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/80/2026-04-10-of03-2026-cpe-reiteracao_servidores_impedidos.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "2026-04-10-OF03-2026-CPE-Reiteracao_Servidores_Impedidos+",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/80/2026-04-10-of03-2026-cpe-reiteracao_servidores_impedidos.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/81/lei_comp_54-2017_-_processodisciplinar.pdf da norma Portaria nº 59, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Lei Comp 54-2017 - ProcessoDisciplinar",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2025/81/lei_comp_54-2017_-_processodisciplinar.pdf",
+      "ano": 2025,
+      "norma": 2774
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/82/envio_de_documentos_-_2024_-_1188734.jpg.pdf da norma Decretos do Legislativo nº 96, de 06 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "Print envio de documentos simp.tce.mg",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/82/envio_de_documentos_-_2024_-_1188734.jpg.pdf",
+      "ano": 2026,
+      "norma": 2842
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/83/boletim-n.-8_2019.pdf da norma Portaria nº 47, de 31 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "O Boletim SICOM é um instrumento de divulgação que visa a orientar o jurisdicionado\r\nacerca do envio de informações ocorridas por meio do sistema, sendo publicado em versão\r\ndigital e disponibilizado no Portal do TCEMG.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2024/83/boletim-n.-8_2019.pdf",
+      "ano": 2024,
+      "norma": 2618
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/84/10.1._anexo_i_-_metas_fiscais.odt da norma Autógrafo - Lei Ordinária nº 18, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - METAS FISCAIS-2027\r\nLimeira do Oeste-MG",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/84/10.1._anexo_i_-_metas_fiscais.odt",
+      "ano": 2026,
+      "norma": 2891
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/85/10.2._anexo_ii-_riscos_fiscais.odt da norma Autógrafo - Lei Ordinária nº 18, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "ANEXO DE RISCOS FISCAIS-2027\r\nLimeira do Oeste-MG",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/85/10.2._anexo_ii-_riscos_fiscais.odt",
+      "ano": 2026,
+      "norma": 2891
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/86/10.3._anexo3resultadoprimario.pdf da norma Autógrafo - Lei Ordinária nº 18, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Resultado Primário\r\nLEI DE DIRETRIZES ORÇAMENTARIAS\r\nMETODOLOGIA E MEMÓRIA DE CÁLCULO DAS METAS ANUAIS",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/86/10.3._anexo3resultadoprimario.pdf",
+      "ano": 2026,
+      "norma": 2891
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/87/10.4._listagemprogramaacoesprioritarias.pdf da norma Autógrafo - Lei Ordinária nº 18, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Programas e Ações Prioritárias\r\nLEI DE DIRETRIZES ORÇAMENTÁRIAS - EXERCÍCIO DE 2027\r\nANEXO DE METAS E PRIORIDADES",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/87/10.4._listagemprogramaacoesprioritarias.pdf",
+      "ano": 2026,
+      "norma": 2891
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/88/1.182_._anexo_i_-_metas_fiscais.pdf da norma Lei Ordinária nº 1.182, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Metas Fiscais.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/88/1.182_._anexo_i_-_metas_fiscais.pdf",
+      "ano": 2026,
+      "norma": 2898
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/89/1.182_._anexo_ii-_riscos_fiscais.pdf da norma Lei Ordinária nº 1.182, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "Riscos Fiscais.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/89/1.182_._anexo_ii-_riscos_fiscais.pdf",
+      "ano": 2026,
+      "norma": 2898
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/90/anexo3resultadoprimario_1.pdf da norma Lei Ordinária nº 1.182, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Resultado Primário",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/90/anexo3resultadoprimario_1.pdf",
+      "ano": 2026,
+      "norma": 2898
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/91/listagemprogramaacoesprioritarias_7.pdf da norma Lei Ordinária nº 1.182, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "Programas e Ações Prioritárias",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/91/listagemprogramaacoesprioritarias_7.pdf",
+      "ano": 2026,
+      "norma": 2898
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/92/of415-2026-gp-decretos_ref.lei_ordinaria_1174.pdf da norma Lei Ordinária nº 1.174, de 23 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Encaminha os Decreto nº 7.234, de 01 de junho de 2026, Decreto nº 7.235, de 01 de junho de 2026, Decreto nº 7.236, de 01 de Junho de 2026 e o Decreto nº 7. 240 de08 de junho de 2026.",
+      "anexo_arquivo": "http://sapl.limeiradooeste.mg.leg.br/media/sapl/public/anexonormajuridica/2026/92/of415-2026-gp-decretos_ref.lei_ordinaria_1174.pdf",
+      "ano": 2026,
+      "norma": 2856
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.limeiradooeste.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.limeiradooeste.mg.leg.br/aeaf099ccca60eea42641aa92a3f737a6028988e9c071c781bb17a47f838c930.json",
+      "sha256": "af26b54bdf64cb95341abf2069d2bbeaea2d37214005160bc497adb510bb3110",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.limeiradooeste.mg.leg.br/aeaf099ccca60eea42641aa92a3f737a6028988e9c071c781bb17a47f838c930.meta.json"
+    }
+  ],
+  "total": 86
+}

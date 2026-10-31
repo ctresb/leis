@@ -1,0 +1,1607 @@
+{
+  "host": "sapl.cmm.am.gov.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/lei_2535_de_14_11_2019.pdf da norma Lei Ordinária nº 2.391, de 04 de janeiro de 2019",
+      "metadata": {},
+      "assunto_anexo": "Estrutura do Executivo Municipal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2019/1/lei_2535_de_14_11_2019.pdf",
+      "ano": 2019,
+      "norma": 36
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/decreto_legislativo_505_-_2.3.2020.pdf da norma Decreto Legislativo nº 505, de 02 de março de 2020",
+      "metadata": {},
+      "assunto_anexo": "Parecer de Redação e texto publicado no E-DOLM.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2020/2/decreto_legislativo_505_-_2.3.2020.pdf",
+      "ano": 2020,
+      "norma": 78
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/lei_n_2275_de_14_dez_2017_dom.pag_2-3.pdf da norma Lei Ordinária nº 2.275, de 14 de dezembro de 2017",
+      "metadata": {},
+      "assunto_anexo": "CRIA os componentes do Sistema Nacional de Segurança Alimentar e Nutricional (Sisan), do município de Manaus, estado do Amazonas, e define os parâmetros para elaboração e implementação do Plano Municipal de Segurança Alimentar e Nutricional.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2017/6/lei_n_2275_de_14_dez_2017_dom.pag_2-3.pdf",
+      "ano": 2017,
+      "norma": 2304
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/7/lei_n_1118_de_01_de_set_1971_lei_diario_republciado.pdf da norma Lei Ordinária nº 2.274, de 14 de dezembro de 2017",
+      "metadata": {},
+      "assunto_anexo": "Estatuto dos Servidores Públicos do Município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2017/7/lei_n_1118_de_01_de_set_1971_lei_diario_republciado.pdf",
+      "ano": 2017,
+      "norma": 2305
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/8/lei_n_1118_de_01_de_set_1971_lei_diario.pdf da norma Lei Ordinária nº 2.274, de 14 de dezembro de 2017",
+      "metadata": {},
+      "assunto_anexo": "Estatuto dos Servidores Públicos do Município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2017/8/lei_n_1118_de_01_de_set_1971_lei_diario.pdf",
+      "ano": 2017,
+      "norma": 2305
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/lei_n_3022_de_20_mar_2023_dom.pdf da norma Lei Ordinária nº 3.022, de 20 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Auxílio-alimentação aos servidores da Diretoria de Rede Pré-Hospitalar Móvel e Sanitária.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/9/lei_n_3022_de_20_mar_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6903
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/10/lei_n_3021_de_14_mar_2023_dom.pdf da norma Lei Ordinária nº 3.021, de 14 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Operação de crédito com o Banco do Brasil S.A., com a garantia da União.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/10/lei_n_3021_de_14_mar_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6898
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1971/13/lei_n_1118_de_01_de_set_1971_doe.pdf da norma Lei Ordinária nº 1.118, de 01 de setembro de 1971",
+      "metadata": {},
+      "assunto_anexo": "Estatuto do Servidor Público de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/1971/13/lei_n_1118_de_01_de_set_1971_doe.pdf",
+      "ano": 1971,
+      "norma": 700
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1971/14/lei_n_1118_de_01_de_set_1971_errata_doe.pdf da norma Lei Ordinária nº 1.118, de 01 de setembro de 1971",
+      "metadata": {},
+      "assunto_anexo": "Aposentadoria dos Servidores Público de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/1971/14/lei_n_1118_de_01_de_set_1971_errata_doe.pdf",
+      "ano": 1971,
+      "norma": 700
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/15/decreto_legislativo_n_595_de_29_mar_2023_e-dolm.pdf da norma Decreto Legislativo nº 595, de 29 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Medalha de Ouro Altair Ferreira Thury ao Sr. Rafael Lins Bertazzo",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/15/decreto_legislativo_n_595_de_29_mar_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6908
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/16/lei_n_1229_de_02_abr_2008_dom.pdf da norma Lei Ordinária nº 1.229, de 02 de abril de 2008",
+      "metadata": {},
+      "assunto_anexo": "Estrutura Administrativa da Secretaria Municipal de Educação (SEMED), Escolas Municipais e CMEI’s",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2008/16/lei_n_1229_de_02_abr_2008_dom.pdf",
+      "ano": 2008,
+      "norma": 4718
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/lei_n_3027_de_05_abr_2023_dom.pdf da norma Lei Ordinária nº 3.027, de 05 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Altera o nome da Escola Pré-Escolar Gabriela dos Santos, da Zona Leste II, R. Jackson Cabral, n.  01 – Jorge Teixeira, para CMEI Prof.ª Cacilda Pinto de Lima.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/17/lei_n_3027_de_05_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6916
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/lei_n_3028_de_11_abr_2023.pdf da norma Lei Ordinária nº 3.028, de 11 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Plano de Cargos, Carreiras e Remuneração dos Profissionais do Magistério do Município.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/18/lei_n_3028_de_11_abr_2023.pdf",
+      "ano": 2023,
+      "norma": 6917
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/lei_n_3030_de_13_abr_2023_dom.pdf da norma Lei Ordinária nº 3.030, de 13 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Dia da Procuradora e do Procurador Municipal, comemorado, anualmente, no dia 17 de dezembro. Calendário oficial.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/19/lei_n_3030_de_13_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6919
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/lei_n_3031_de_13_abr_2023_dom.pdf da norma Lei Ordinária nº 3.031, de 13 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Programa Bolsa Idiomas – PBI, estudante de baixa renda.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/20/lei_n_3031_de_13_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6920
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/decreto_legislativo_n_597_de_03_abr_2023_e-dolm.pdf da norma Decreto Legislativo nº 597, de 03 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Comenda, Diploma de Cidadão de Manaus ao senhor Alberto Barros Cavalcante Neto.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/21/decreto_legislativo_n_597_de_03_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6922
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/22/decreto_legislativo_n_598_de_05_abr_2023_e-dolm.pdf da norma Decreto Legislativo nº 598, de 05 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Comenda, Medalha de Ouro Cidade de Manaus à senhora Maria do Carmo Seffair Lins de Albuquerque.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/22/decreto_legislativo_n_598_de_05_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6923
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/23/decreto_legislativo_n_596_de_03_abr_2023_e-dolm.pdf da norma Decreto Legislativo nº 596, de 03 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Comenda, Medalha de Ouro Garcitylzo do Lago Silva ao Sr. Ricardo José da Silva Lins.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/23/decreto_legislativo_n_596_de_03_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6921
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/24/decreto_legislativo_n_594_de_27_mar_2023_e-dolm.pdf da norma Decreto Legislativo nº 594, de 27 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Comenda, Medalha de Ouro Pastor Frederick Orr ao Pastor Jonatas Câmara e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/24/decreto_legislativo_n_594_de_27_mar_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6907
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/25/decreto_legislativo_n_593_de_20_mar_2023_e-dolm.pdf da norma Decreto Legislativo nº 593, de 20 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Comenda, Medalha de Ouro Cidade de Manaus ao Excelentíssimo Senhor Wilson Miranda Lima, Governador do Estado do Amazonas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/25/decreto_legislativo_n_593_de_20_mar_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6904
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/26/decreto_legislativo_n_592_de_15_mar_2023_e-dolm.pdf da norma Decreto Legislativo nº 592, de 15 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Comenda, Medalha de Ouro Cidade de Manaus ao senhor Wellington Lins de Albuquerque.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/26/decreto_legislativo_n_592_de_15_mar_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6902
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/27/emenda_a_loman_n_108_de_03_abr_2023_e-dolm.pdf da norma Emenda à Loman nº 108, de 03 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Isenção de pagar tarifas nos transportes coletivos urbanos.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/27/emenda_a_loman_n_108_de_03_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6924
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/28/lei_n_3036_de_18_abr_2023_dom.pdf da norma Lei Ordinária nº 3.036, de 18 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Gratificação de Atividade Técnica, Gratificação de Salário Produtividade, Adicional de Insalubridade e Periculosidade, Gratificação pela Prestação de Serviço Extraordinário e do Adicional Noturno",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/28/lei_n_3036_de_18_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6929
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/29/lei_n_3035_de_18_abr_2023_dom.pdf da norma Lei Ordinária nº 3.035, de 18 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Dia Municipal dos Grupos de Jovens Cristãos de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/29/lei_n_3035_de_18_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6928
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/30/lei_n_3034_de_18_abr_2023_dom.pdf da norma Lei Ordinária nº 3.034, de 18 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Mês do Laço Branco – Homens pelo Fim da Violência contra Mulher – no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/30/lei_n_3034_de_18_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6927
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/31/lei_n_3033_de_17_abr_2023_dom.pdf da norma Lei Ordinária nº 3.033, de 17 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI o quarto domingo de julho como o Dia Municipal do Motorista de Transporte Especial, de Fretamento, Rodoviário e de Cargas na cidade de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/31/lei_n_3033_de_17_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6926
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/32/lei_n_3032_de_17_abr_2023.pdf da norma Lei Ordinária nº 3.032, de 17 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Estabelecido como permanente, no município de Manaus, o Programa Sinal Vermelho, de prevenção e socorro a mulheres em situação de violência.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/32/lei_n_3032_de_17_abr_2023.pdf",
+      "ano": 2023,
+      "norma": 6925
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/33/lei_n_3037_de_19_abr_2023_dom.pdf da norma Lei Ordinária nº 3.037, de 19 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Divulgação de fotos e/ou informações, nos terminais e paradas de ônibus do município de Manaus, de crianças e adolescentes desaparecidos.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/33/lei_n_3037_de_19_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6930
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/34/decreto_legislativo_n_601_de_24_abr_2023_e-dolm.pdf da norma Decreto Legislativo nº 601, de 24 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Diploma de Cidadão de Manaus ao Sr. Alberto Rodrigues do Nascimento Júnior.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/34/decreto_legislativo_n_601_de_24_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6933
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/35/decreto_legislativo_n_600_de_24_abr_2023_e-dolm.pdf da norma Decreto Legislativo nº 600, de 24 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Diploma de Cidadão de Manaus ao Sr. Ricardo Queiroz de Paiva.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/35/decreto_legislativo_n_600_de_24_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6932
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/36/decreto_legislativo_n_599_de_17_abr_2023_e-dolm.pdf da norma Decreto Legislativo nº 599, de 17 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Diploma de Cidadão de Manaus ao Deputado Estadual Dan Câmara.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/36/decreto_legislativo_n_599_de_17_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6931
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/37/lei_n_3029_de_12_abr_2023_republicada_dom.pdf da norma Lei Ordinária nº 3.029, de 12 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Concessão de auxílio financeiro para manutenção, modernização e desenvolvimento da atividade econômica dos empreendedores do transporte complementar de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/37/lei_n_3029_de_12_abr_2023_republicada_dom.pdf",
+      "ano": 2023,
+      "norma": 6918
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/38/lei_n_3026_de_03_abr_2023_dom.pdf da norma Lei Ordinária nº 3.026, de 03 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Obrigatoriedade de os funcionários da rede de educação pública e privada, no âmbito do município de Manaus, realizarem comunicação de maus-tratos sofridos por menores.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/38/lei_n_3026_de_03_abr_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6915
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/39/lei_n_3025_de_31_mar_2023_dom.pdf da norma Lei Ordinária nº 3.025, de 31 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Funções de confiança, servidor público, cargo efetivo, percentual mínimo, cargos em comissão, atribuições de direção, chefia e assessoramento.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/39/lei_n_3025_de_31_mar_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6914
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/40/lei_n_3023_de_30_mar_2023_dom.pdf da norma Lei Ordinária nº 3.023, de 30 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Dia Municipal do Nordestino, a ser comemorado anualmente no dia 8 de outubro.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/40/lei_n_3023_de_30_mar_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6912
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/41/lei_n_3020_de_01_mar_2023_dom.pdf da norma Lei Ordinária nº 3.020, de 01 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Semana Municipal de Conscientização e Orientação sobre a Síndrome de Rett.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/41/lei_n_3020_de_01_mar_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6897
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/42/lei_n_3019_de_24_fev_2023_dom.pdf da norma Lei Ordinária nº 3.019, de 24 de fevereiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Composição remuneratória dos servidores públicos efetivos investidos em cargo em comissão, no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/42/lei_n_3019_de_24_fev_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6896
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/43/lei_n_3018_de_17_fev_2023_dom.pdf da norma Lei Ordinária nº 3.018, de 17 de fevereiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Incentivo à igualdade de direitos e oportunidades no esporte entre os gêneros no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/43/lei_n_3018_de_17_fev_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6895
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/44/lei_n_3017_de_18_jan_2023_dom.pdf da norma Lei Ordinária nº 3.017, de 18 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Orçamento, LOA, Lei Orçamentária Anual, Receita e Despesa, Orçamentos Fiscal e da Seguridade Social, créditos adicionais suplementares, Programa de Apoio Administrativo, estrutura administrativa do Município, despesas com pessoal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/44/lei_n_3017_de_18_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6892
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/45/lei_n_3016_de_13_jan_2023_dom.pdf da norma Lei Ordinária nº 3.016, de 13 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Plano Plurianual, PPA, revisão, demonstrativos, metas físicas, previsão das receitas, leis orçamentárias, créditos adicionais, programas e\r\nações, atributos, reavaliação da realidade social, econômica e financeira do Município, reestruturação.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/45/lei_n_3016_de_13_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6891
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/46/lei_n_3015_de_11_jan_2023_dom.pdf da norma Lei Ordinária nº 3.015, de 11 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Campanha de Combate à Importunação Sexual nas principais avenidas destinadas a lazer esportivo de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/46/lei_n_3015_de_11_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6890
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/47/lei_n_3014_de_11_jan_2023_dom.pdf da norma Lei Ordinária nº 3.014, de 11 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Programa de Fomento de Startups sediadas no município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/47/lei_n_3014_de_11_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6889
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/48/lei_n_3013_de_11_jan_2023_dom.pdf da norma Lei Ordinária nº 3.013, de 11 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Calendário Oficial da Cidade de Manaus, o Dia da Poesia, a ser comemorado em 4 de setembro.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/48/lei_n_3013_de_11_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6888
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/49/lei_n_3012_de_11_jan_2023_dom.pdf da norma Lei Ordinária nº 3.012, de 11 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Obrigatoriedade de instalação de porta giratória, com detector de metal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/49/lei_n_3012_de_11_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6887
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/50/lei_n_3011_de_10_jan_2023_dom.pdf da norma Lei Ordinária nº 3.011, de 10 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Semana Municipal do Empoderamento das Meninas e das Adolescentes, no Calendário Oficial da Cidade de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/50/lei_n_3011_de_10_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6886
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/51/lei_n_3010_de_09_jan_2023_republicada_dom.pdf da norma Lei Ordinária nº 3.010, de 09 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Campanha Gestante Saudável: Avança Manaus, destinada às medidas de proteção, conscientização e sensibilização à saúde da mulher grávida, em face da pandemia de Covid-19 e outros agravos, no município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/51/lei_n_3010_de_09_jan_2023_republicada_dom.pdf",
+      "ano": 2023,
+      "norma": 6885
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/52/lei_n_3009_de_09_jan_2023_dom.pdf da norma Lei Ordinária nº 3.009, de 09 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Semana Municipal de Incentivo ao Programa Família Acolhedora no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/52/lei_n_3009_de_09_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6884
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/53/lei_n_3008_de_09_jan_2023_dom.pdf da norma Lei Ordinária nº 3.008, de 09 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Processo Administrativo Tributário do Município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/53/lei_n_3008_de_09_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6883
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/54/lei_n_3007_de_09_jan_2023_dom.pdf da norma Lei Ordinária nº 3.007, de 09 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Inclusão, no programa de publicidade do Poder Executivo, da divulgação dos eventos culturais, artísticos, esportivos, festivais, datas comemorativas e semanas alusivas que estejam no Calendário Oficial da Cidade de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/54/lei_n_3007_de_09_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6882
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/55/lei_n_3006_de_06_jan_2023_dom.pdf da norma Lei Ordinária nº 3.006, de 06 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Utilidade Pública o Instituto Filhos e Amigos da Amazônia sem Fronteiras.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/55/lei_n_3006_de_06_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6881
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/56/lei_n_3005_de_06_jan_2023_dom.pdf da norma Lei Ordinária nº 3.005, de 06 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Utilidade Pública, Instituto Social Mãos da Amazônia.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/56/lei_n_3005_de_06_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6880
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/57/lei_n_3004_de_06_jan_2023_dom.pdf da norma Lei Ordinária nº 3.004, de 06 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Utilidade Pública a Associação Força amigos do Brasil - FAB.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/57/lei_n_3004_de_06_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6879
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/58/lei_n_3003_de_06_jan_2023_dom.pdf da norma Lei Ordinária nº 3.003, de 06 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Utilidade Pública, Instituto Carlos Augusto (ICA).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/58/lei_n_3003_de_06_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6878
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/59/lei_n_3002_de_06_jan_2023_dom.pdf da norma Lei Ordinária nº 3.002, de 06 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Manutenção periódica de aparelhos esfigmomanômetros utilizados nos sistemas de saúde do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/59/lei_n_3002_de_06_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6877
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/60/lei_n_3001_de_06_jan_2023_dom.pdf da norma Lei Ordinária nº 3.001, de 06 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Fornecimento gratuito de absorventes higiênicos nas escolas públicas municipais do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/60/lei_n_3001_de_06_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6876
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/61/lei_n_3000_de_02_jan_2023_dom.pdf da norma Lei Ordinária nº 3.000, de 02 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Disponibilização de as concessionárias de serviços públicos oferecerem a opção de pagamento antes da suspensão do serviço, no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/61/lei_n_3000_de_02_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6875
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/62/lei_n_2999_de_02_jan_2023_dom.pdf da norma Lei Ordinária nº 2.999, de 02 de janeiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei Orçamentária, reserva destinada às emendas parlamentares, recursos do Tesouro Municipal, receita corrente líquida.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/62/lei_n_2999_de_02_jan_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6874
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/63/lei_n_2998_de_29_dez_2022_dom.pdf da norma Lei Ordinária nº 2.998, de 29 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Campanha municipal de conscientização Criança não Namora! Nem de Brincadeira!",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/63/lei_n_2998_de_29_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6873
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/64/lei_n_2997_de_29_dez_2022_dom.pdf da norma Lei Ordinária nº 2.997, de 29 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Programa de fornecimento de banheiros químicos nas feiras livres regulamentadas do Município.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/64/lei_n_2997_de_29_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6872
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/lei_n_2996_de_28_dez_2022_dom.pdf da norma Lei Ordinária nº 2.996, de 28 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Calendário Oficial da Cidade de Manaus, a Semana de Acompanhamento Psicológico e Terapêutico de Crianças e Adolescentes das Escolas Públicas e Comunidades Próximas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/65/lei_n_2996_de_28_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6871
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/66/lei_n_2995_de_28_dez_2022_dom.pdf da norma Lei Ordinária nº 2.995, de 28 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Projeto voluntário Ajude o Amigo, que disponibilizará atendimento psicossocial por meio de assistente social e psicólogo nas escolas da rede pública e particular do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/66/lei_n_2995_de_28_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6870
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/67/lei_n_2994_de_27_dez_2022_dom.pdf da norma Lei Ordinária nº 2.994, de 27 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Patrimônio Cultural Imaterial do município de Manaus a ornamentação realizada no período de Copa do Mundo nas Ruas 24 de Agosto – Morro da Liberdade, Santa Isabel – Praça 14 de Janeiro, Professora Isaura Barroncas – Alvorada I e Leonardo Malcher – Ap",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/67/lei_n_2994_de_27_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6869
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/68/lei_n_2992_de_26_dez_2022_dom.pdf da norma Lei Ordinária nº 2.992, de 26 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Dia do Hip-Hop no município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/68/lei_n_2992_de_26_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6866
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/69/lei_n_2991_de_22_dez_2022_dom.pdf da norma Lei Ordinária nº 2.991, de 22 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Reestruturação do Regime Próprio de Previdência do Município de Manaus, contribuições previdenciárias, autarquias e fundações.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/69/lei_n_2991_de_22_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6860
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/lei_n_2990_de_22_dez_2022_republicada_dom.pdf da norma Lei Ordinária nº 2.990, de 23 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Indices de reajuste dos servidores públicos da Secretaria Municipal de Finanças e Tecnologia da Informação (Semef), atribui o valor do ponto fazendário.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/70/lei_n_2990_de_22_dez_2022_republicada_dom.pdf",
+      "ano": 2022,
+      "norma": 6859
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/71/lei_n_2989_de_22_dez_2022_dom.pdf da norma Lei Ordinária nº 2.989, de 22 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Indice de reajuste dos servidores públicos da Procuradoria-Geral do Município (PGM).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/71/lei_n_2989_de_22_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6858
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/lei_n_2988_de_21_dez_2022_dom.pdf da norma Lei Ordinária nº 2.988, de 21 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Ações de controle e prevenção da tuberculose no município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/72/lei_n_2988_de_21_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6857
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/73/lei_n_2987_de_20_dez_2022_dom.pdf da norma Lei Ordinária nº 2.987, de 20 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Licitação, pregoeiro, Estrutura do Executivo Municipal, comissão ordinária e específica, presencial, eletrônico, gratificação, reuniões mensais ordinárias, extraordinariamente.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/73/lei_n_2987_de_20_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6856
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/74/lei_n_2986_de_20_dez_2022_dom.pdf da norma Lei Ordinária nº 2.986, de 20 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Controle da poluição sonora proveniente de veículos automotores no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/74/lei_n_2986_de_20_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6855
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/75/lei_n_2985_de_19_dez_2022_dom.pdf da norma Lei Ordinária nº 2.985, de 19 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Obrigatoriedade de as instituições bancárias disponibilizarem espaço físico para descanso de pessoas idosas e pessoas com deficiência física na área dos caixas eletrônicos.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/75/lei_n_2985_de_19_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6854
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/76/lei_n_2984_de_19_dez_2022_dom.pdf da norma Lei Ordinária nº 2.984, de 19 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Dia Municipal da Sensibilização à Causa das Crianças Cardiopatas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/76/lei_n_2984_de_19_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6853
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/77/lei_n_2983_de_16_dez_2022_dom.pdf da norma Lei Ordinária nº 2.983, de 16 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "escola, Pré-Escolar Frei Mario Monacelli de Grello, R. Rua São Francisco, n. 4 – Colônia Antônio Aleixo, Escola Municipal Frei Mario Monacelli de Grello",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/77/lei_n_2983_de_16_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6852
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/78/lei_n_2982_de_16_dez_2022_dom.pdf da norma Lei Ordinária nº 2.982, de 16 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Estrutura básica da Educação do Município, as unidades de ensino, escola.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/78/lei_n_2982_de_16_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6851
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/79/lei_n_2981_de_15_dez_2022_dom.pdf da norma Lei Ordinária nº 2.981, de 15 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Fundação Municipal de Cultura, Turismo e Eventos, Manauscult, fiscalização.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/79/lei_n_2981_de_15_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6850
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/80/lei_n_2980_de_15_dez_2022_dom.pdf da norma Lei Ordinária nº 2.980, de 15 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Reajuste aos servidores ocupantes de cargos em comissão e funções gratificadas no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/80/lei_n_2980_de_15_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6849
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/81/lei_n_2979_de_14_dez_2022_dom.pdf da norma Lei Ordinária nº 2.979, de 14 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Estrutura organizacional da Secretaria Municipal de Saúde (Semsa).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/81/lei_n_2979_de_14_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6848
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/82/lei_n_2978_de_14_dez_2022_dom.pdf da norma Lei Ordinária nº 2.978, de 14 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Composição remuneratória dos servidores públicos municipais efetivos investidos em cargo em comissão.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/82/lei_n_2978_de_14_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6847
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/83/lei_n_2977_de_12_dez_2022_dom.pdf da norma Lei Ordinária nº 2.977, de 12 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Estrutura organizacional da Controladoria-Geral do Município (CGM).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/83/lei_n_2977_de_12_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6846
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/84/lei_n_534_de_17_abr_2023_e-dolm.pdf da norma Lei Ordinária (Promulgada) nº 534, de 17 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Atividades de malabarismo com facas e fogo nos cruzamentos e semáforos das vias urbanas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/84/lei_n_534_de_17_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6934
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/85/lei_n_535_de_17_abr_2023.pdf da norma Lei Ordinária (Promulgada) nº 535, de 17 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Instalação de câmeras de monitoramento de segurança nas creches públicas municipais e escolas públicas municipais.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/85/lei_n_535_de_17_abr_2023.pdf",
+      "ano": 2023,
+      "norma": 6935
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/86/lei_n_536_de_27_abr_2023_e-dolm.pdf da norma Lei Ordinária (Promulgada) nº 536, de 27 de abril de 2023",
+      "metadata": {},
+      "assunto_anexo": "Obrigatoriedade de instalação de câmeras de monitoramento em clínicas públicas e privadas que tratem de pessoas com deficiência no município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/86/lei_n_536_de_27_abr_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6936
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/87/lei_n_3039_de_05_mai_2023_dom.pdf da norma Lei Ordinária nº 3.039, de 05 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Dia Municipal do Técnico Agrícola, a ser comemorado anualmente no dia 5 de novembro.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/87/lei_n_3039_de_05_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6939
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/88/decreto_legislativo_n_602_de_03_mai_2023_e-dolm.pdf da norma Decreto Legislativo nº 602, de 03 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Medalha de Ouro Cidade de Manaus ao Sr. Jalil Fraxe Campos.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/88/decreto_legislativo_n_602_de_03_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6938
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/89/lei_complementar_n_19_de_16_set_2022_dom.pdf da norma Lei Complementar nº 19, de 16 de setembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Equipamento e mobiliário urbano, implantados nos logradouros públicos ou privados, de natureza utilitária ou de interesse urbanístico, paisagístico, simbólico ou cultural, superpostos ou adicionados aos elementos da urbanização ou da edificação.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/89/lei_complementar_n_19_de_16_set_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6814
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/90/lei_complementar_n_20_de_12_dez_2022_dom.pdf da norma Lei Complementar nº 20, de 12 de dezembro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Procedimento de licenciamento urbanístico denominado Alvará de Construção Mais Fácil, na modalidade declaratória, no âmbito do município de\r\nManaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/90/lei_complementar_n_20_de_12_dez_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6940
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/91/lei_complementar_n_18_de_06_jul_2022_dom.pdf da norma Lei Complementar nº 18, de 06 de julho de 2022",
+      "metadata": {},
+      "assunto_anexo": "Deixar, nas vias e demais logradouros públicos do município de Manaus, sucatas, veículos e equipamentos de qualquer finalidade e de partes \r\ndesses em estado de abandono.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/91/lei_complementar_n_18_de_06_jul_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6779
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/92/lei_complementar_n_17_de_01_jun_2022_dom.pdf da norma Lei Complementar nº 17, de 01 de junho de 2022",
+      "metadata": {},
+      "assunto_anexo": "Procedimento para a instalação de infraestrutura de suporte para Estação Rádio-Base (ERB) autorizada e/ou homologada pela Agência Nacional de Telecomunicações (Anatel) no município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/92/lei_complementar_n_17_de_01_jun_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6727
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/93/lei_complementar_n_016_de_21_dez_2021_republicada_dompdf.pdf da norma Lei Complementar nº 16, de 21 de dezembro de 2021",
+      "metadata": {},
+      "assunto_anexo": "Estatuto da Guarda Municipal de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2021/93/lei_complementar_n_016_de_21_dez_2021_republicada_dompdf.pdf",
+      "ano": 2021,
+      "norma": 3148
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/94/lei_n_3070_de_07_jun_2023_dom.pdf da norma Lei Ordinária nº 3.070, de 07 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "serviço extraordinário, horas extras, servidor público, situações excepcionais e temporárias",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/94/lei_n_3070_de_07_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6956
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/95/lei_n_3069_de_07_jun_2023_dom.pdf da norma Lei Ordinária nº 3.069, de 07 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "sucessão governamental, transição do Governo Eleito, comissão de Coordenador da Equipe de Transição e Membro da Equipe de Transição, cargos em comissão, Regime de Transição Governamental,",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/95/lei_n_3069_de_07_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6955
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/96/lei_n_3068_de_07_jun_2023_dom.pdf da norma Lei Ordinária nº 3.068, de 07 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Código Ambiental do Município de Manaus, Tucunaré-Açu e Tucunaré-Paca, Pesca Esportiva, espécies Cichla temensis, local de conservação,",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/96/lei_n_3068_de_07_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6954
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/97/lei_n_3067_de_01_jun_2023_dom.pdf da norma Lei Ordinária nº 3.067, de 01 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Estrutura do Executivo, servidor público, cargo de Secretário de Articulação Institucional, subsídio, assessorar o Prefeito, acompanhamento de ações políticas estratégicas",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/97/lei_n_3067_de_01_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6953
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/98/lei_n_3066_de_01_jun_2023_dom.pdf da norma Lei Ordinária nº 3.066, de 01 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Servidor público, Serviço de Atendimento e Proteção ao Consumidor, Estrutura do Executivo Municipal, servidor público, Serviço de Atendimento e Proteção ao Consumidor",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/98/lei_n_3066_de_01_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6952
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/99/lei_n_3065_de_01_jun_2023_dom.pdf da norma Lei Ordinária nº 3.065, de 01 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Secretaria Municipal de Habitação e Assuntos Fundiários (Semhaf), Estrutura do Executivo, implementar a política habitacional e fundiária do Município",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/99/lei_n_3065_de_01_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6951
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/100/lei_n_3064_de_01_jun_2023_republicada_dom_1.pdf da norma Lei Ordinária nº 3.064, de 01 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Política de Desjudicialização, Administração Pública, reduzir litigio, solução de controvérsias, solução consensual dos conflitos",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/100/lei_n_3064_de_01_jun_2023_republicada_dom_1.pdf",
+      "ano": 2023,
+      "norma": 6950
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/101/lei_n_3063_de_31_mai_2023_dom.pdf da norma Lei Ordinária nº 3.063, de 31 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI o dia 26 de julho como o Dia Municipal do Tradutor e do Intérprete da Língua Brasileira de Sinais",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/101/lei_n_3063_de_31_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6949
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/102/lei_n_3062_de_31_mai_2023_dom.pdf da norma Lei Ordinária nº 3.062, de 31 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI a Campanha Energia Limpa, de incentivo à utilização de energia solar, no âmbito municipal",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/102/lei_n_3062_de_31_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6948
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/103/lei_n_3061_de_30_mai_2023_dom.pdf da norma Lei Ordinária nº 3.061, de 30 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "ensino de temas transversais de educação, escolas da rede pública municipal, ensino de música",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/103/lei_n_3061_de_30_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6946
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/104/lei_n_3060_de_30_mai_2023_dom.pdf da norma Lei Ordinária nº 3.060, de 30 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI, no âmbito do município de Manaus, o Mês de Conscientização sobre a Doença de Parkinson, denominado Tulipa Vermelha, a ser realizado anualmente no mês de abril",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/104/lei_n_3060_de_30_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6945
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/105/lei_n_3059_de_29_mai_2023_dom.pdf da norma Lei Ordinária nº 3.059, de 29 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI o Dia Municipal do Motorista do Transporte Coletivo",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/105/lei_n_3059_de_29_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6944
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/106/lei_n_3058_de_29_mai_2023_dom.pdf da norma Lei Ordinária nº 3.058, de 29 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI o Plano Municipal de Cultura do município de Manaus, estado do Amazonas, para o decênio 2023 – 2033,",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/106/lei_n_3058_de_29_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6943
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/107/lei_n_3057_de_26_mai_2023_dom.pdf da norma Lei Ordinária nº 3.057, de 26 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "CRIA a Comissão de Estudo Integrado sobre a Estrutura Organizacional da Administração Pública Municipal",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/107/lei_n_3057_de_26_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6942
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/108/lei_n_3056_de_26_mai_2023_dom.pdf da norma Lei Ordinária nº 3.056, de 26 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Criação do sistema virtual de inscrição de pessoas com deficiência para ingresso no mercado de trabalho",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/108/lei_n_3056_de_26_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6941
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/109/lei_n_3055_de_25_mai_2023_dom.pdf da norma Lei Ordinária nº 3.055, de 25 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Escolas, estrutura básica da Rede Pública Municipal de Ensino de Manaus, as unidades de ensino.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/109/lei_n_3055_de_25_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6972
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/110/lei_n_3054_de_25_mai_2023_dom.pdf da norma Lei Ordinária nº 3.054, de 25 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Utilidade Pública o Oásis Adultos e Famílias (Abrigo Oásis)",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/110/lei_n_3054_de_25_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6971
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/111/lei_n_3053_de_25_mai_2023_dom.pdf da norma Lei Ordinária nº 3.053, de 25 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "CRIA Conselho Tutelar na zona norte do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/111/lei_n_3053_de_25_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6970
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/112/lei_n_3052_de_24_mai_2023_dom.pdf da norma Lei Ordinária nº 3.052, de 24 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "CONSIDERA de Utilidade Pública o Instituto Graças.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/112/lei_n_3052_de_24_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6969
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/113/lei_n_3051_de_24_mai_2023_dom.pdf da norma Lei Ordinária nº 3.051, de 24 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Obrigatoriedade de inserção do símbolo do transtorno do espectro autista (TEA) na indicação de assentos preferenciais do transporte público de Manaus",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/113/lei_n_3051_de_24_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6968
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/114/lei_n_3050_de_23_mai_2023_dom.pdf da norma Lei Ordinária nº 3.050, de 23 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "CONSIDERA de Utilidade Pública a Associação Semeando Integração à Cidadania (ASIC).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/114/lei_n_3050_de_23_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6967
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/115/lei_n_3049_de_23_mai_2023_dom.pdf da norma Lei Ordinária nº 3.049, de 23 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Doação dos alimentos excedentes pelos estabelecimentos comerciais de gêneros alimentícios a pessoas físicas ou jurídicas sem necessidade de licença prévia ou autorização do Executivo Municipal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/115/lei_n_3049_de_23_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6966
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/116/lei_n_3048_de_22_mai_2023_dom.pdf da norma Lei Ordinária nº 3.048, de 22 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI o Dia Municipal de Conscientização sobre os Riscos do Aborto no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/116/lei_n_3048_de_22_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6965
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/117/lei_n_3047_de_22_mai_2023_dom.pdf da norma Lei Ordinária nº 3.047, de 22 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "NSTITUI, no Calendário Oficial da Cidade de Manaus, o Dia Municipal do Artista de Rua.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/117/lei_n_3047_de_22_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6964
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/118/lei_n_3046_de_22_mai_2023_dom.pdf da norma Lei Ordinária nº 3.046, de 22 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Conciliação, transação e desistência nas causas que envolvam o Município de Manaus, regulamenta o art. 8.º da Lei Federal n. 12.153, de 22 de dezembro de 2009",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/118/lei_n_3046_de_22_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6963
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/119/lei_n_3045_de_18_mai_2023_dom.pdf da norma Lei Ordinária nº 3.045, de 18 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "DECLARA, como Patrimônio Cultural Imaterial do município de Manaus, o Festival Folclórico Marquesiano.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/119/lei_n_3045_de_18_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6962
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/120/lei_n_3044_de_18_mai_2023_dom.pdf da norma Lei Ordinária nº 3.044, de 18 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI o primeiro domingo de junho como o Dia Municipal do Cristão.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/120/lei_n_3044_de_18_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6961
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/121/lei_n_3043_de_15_mai_2023_dom.pdf da norma Lei Ordinária nº 3.043, de 15 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "INSTITUI o Dia Municipal do Contador, a ser comemorado anualmente no dia 22 de setembro.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/121/lei_n_3043_de_15_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6960
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/122/lei_n_3042_de_12_mai_2023_dom.pdf da norma Lei Ordinária nº 3.042, de 12 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Criação do Dia do Combate ao Racismo no Esporte, no Âmbito do Município de Manaus",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/122/lei_n_3042_de_12_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6959
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/123/lei_n_3041_de_10_mai_2023_dom.pdf da norma Lei Ordinária nº 3.041, de 10 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Calendário Oficial da Cidade de Manaus, o Dia Municipal do Técnico em Radiologia, a ser celebrado anualmente no dia 8 de setembro,",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/123/lei_n_3041_de_10_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6958
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/124/lei_n_3040_de_09_mai_2023_dom.pdf da norma Lei Ordinária nº 3.040, de 09 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Execução fiscal, débitos inscritos em Dívida Ativa, Procuradoria-Geral, tributo imobiliário, mercantis, execuções fiscais de débitos inscritos em Dívida Ativa",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/124/lei_n_3040_de_09_mai_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6957
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/125/lei_n_3024_de_31_mar_2023_dom.pdf da norma Lei Ordinária nº 3.024, de 31 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Empresa concessionária ou permissionária de energia elétrica, serviço público, alinhamento e retirada dos fios inutilizados nos postes, suporte de cabeamentos de internet e TV a cabo, instalação de sistemas de medição de energia elétrica, poluição",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/125/lei_n_3024_de_31_mar_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6913
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/126/decreto_legislativo_n_608_de_5_jun_2023_e-dolm.pdf da norma Decreto Legislativo nº 608, de 05 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Medalha de Ouro Cidade de Manaus ao senhor Jean Cleuter Simões Mendonça.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/126/decreto_legislativo_n_608_de_5_jun_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6979
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/127/decreto_legislativo_n_607_de_29_mai_2023_e-dolm.pdf da norma Decreto Legislativo nº 607, de 29 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Medalha de Ouro Cidade de Manaus ao senhor Walfran de Souza Torres.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/127/decreto_legislativo_n_607_de_29_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6978
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/128/decreto_legislativo_n_606_de_22_mai_2023_e-dolm.pdf da norma Decreto Legislativo nº 606, de 22 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Diploma de Cidadão de Manaus ao senhor André da Silva Alves.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/128/decreto_legislativo_n_606_de_22_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6977
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/129/decreto_legislativo_n_605_de_22_mai_2023_e-dolm.pdf da norma Decreto Legislativo nº 605, de 22 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Diploma de Cidadão de Manaus ao Excelentíssimo Senhor Lafayette Carneiro Vieira, Desembargador do Tribunal de Justiça do Amazonas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/129/decreto_legislativo_n_605_de_22_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6976
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/130/decreto_legislativo_n_604_de_22_mai_2023_e-dolm.pdf da norma Decreto Legislativo nº 604, de 22 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Medalha de Ouro Cidade de Manaus ao senhor Samuel Barros de Queiroz.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/130/decreto_legislativo_n_604_de_22_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6975
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/131/decreto_legislativo_n_603_de_08_mai_2023_e-dolm.pdf da norma Decreto Legislativo nº 603, de 08 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Medalha de Ouro Joaquina Marinho ao Pastor Thiago Jonatas Ferreira Câmara.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/131/decreto_legislativo_n_603_de_08_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6974
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/132/lei_n_537_de_31_mai_2023_e-dolm.pdf da norma Lei Ordinária (Promulgada) nº 537, de 31 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Portal da Transparência Social.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/132/lei_n_537_de_31_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6973
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/133/lei_n_3074_de_16_jun_2023_dom.pdf da norma Lei Ordinária nº 3.074, de 16 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Dia Municipal de Conscientização e Combate ao Cyberbullying, a ser realizado anualmente no dia 3 de agosto.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/133/lei_n_3074_de_16_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6983
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/134/lei_n_3073_de_16_jun_2023_dom.pdf da norma Lei Ordinária nº 3.073, de 16 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Promoção do Serviço de Estimulação Pedagógica Precoce para crianças com necessidades educacionais especiais, no município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/134/lei_n_3073_de_16_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6982
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/135/lei_n_3072_de_15_jun_2023_dom.pdf da norma Lei Ordinária nº 3.072, de 15 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Unificação da data-base dos servidores públicos municipais.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/135/lei_n_3072_de_15_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6981
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/136/lei_n_3071_de_15_jun_2023_dom.pdf da norma Lei Ordinária nº 3.071, de 15 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Lei de Gestão de Bens Imóveis Públicos Municipais.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/136/lei_n_3071_de_15_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6980
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/137/lei_n_1970_de_30_mar_2015_dom.pdf da norma Lei Ordinária nº 1.970, de 30 de março de 2015",
+      "metadata": {},
+      "assunto_anexo": "Campanha permanente de conscientização contra o “Cyberbullying”, no âmbito do município de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2015/137/lei_n_1970_de_30_mar_2015_dom.pdf",
+      "ano": 2015,
+      "norma": 2482
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/138/resolucao_n_161_de_19_jun_2023_e-dolm.pdf da norma Resolução nº 161, de 19 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Regimento Interno da Câmara Municipal de Manaus, instituição de Medalha Leo Blair Halliwell.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/138/resolucao_n_161_de_19_jun_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6985
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/139/lei_n_3076_de_20_jun_2023_dom.pdf da norma Lei Ordinária nº 3.076, de 20 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Concede o direito real de uso de uma área de 1.190,60 m² e perímetro de 159,06 metros lineares, localizada na Rua 73, Quadra 154, Bairro Cidade Nova, à Fundação Amazonas de Alto Rendimento (FAAR).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/139/lei_n_3076_de_20_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6987
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/140/lei_n_3075_de_20_jun_2023_dom.pdf da norma Lei Ordinária nº 3.075, de 20 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Institui no Calendário Oficial da Cidade de Manaus, a Semana Esportiva do Motocross, a ser realizada anualmente na última semana do mês de julho.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/140/lei_n_3075_de_20_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6986
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/141/lei_n_3078_de_21_jun_2023_dom.pdf da norma Lei Ordinária nº 3.078, de 21 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Plano de Cargos, Carreiras e Remuneração (PCCR) dos servidores públicos efetivos da Área Não Específica do Poder Executivo Municipal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/141/lei_n_3078_de_21_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6989
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/142/lei_n_3079_de_23_jun_2023_dom.pdf da norma Lei Ordinária nº 3.079, de 23 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Criação de serviço telefônico para o encaminhamento de denúncias de maus-tratos a animais na estrutura da Prefeitura da cidade de Manaus, denominado Disque Proteção Animal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/142/lei_n_3079_de_23_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6990
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/143/lei_n_3077_de_21_jun_2023_dom.pdf da norma Lei Ordinária nº 3.077, de 21 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Competência privativa da Procuradoria-Geral do Município - PGM.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/143/lei_n_3077_de_21_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6988
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/144/lei_n_1015_de_14_jul_2006_dom.pdf da norma Lei Ordinária nº 1.015, de 14 de julho de 2006",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE sobre a Procuradoria Geral do Município – PGM, define sua competência e a dos órgãos que compõem sua estrutura básica, dispõem sobre seu funcionamento,",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2006/144/lei_n_1015_de_14_jul_2006_dom.pdf",
+      "ano": 2006,
+      "norma": 72
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/145/lei_n_2928_de_07_jul_2022_dom.pdf da norma Lei Ordinária nº 2.928, de 07 de julho de 2022",
+      "metadata": {},
+      "assunto_anexo": "Plano de Cargos, Carreiras e Remuneração (PCCR) dos servidores públicos efetivos da Área Não Específica do Poder Executivo Municipal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/145/lei_n_2928_de_07_jul_2022_dom.pdf",
+      "ano": 2022,
+      "norma": 6775
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/146/lei_n_3085_de_30_jun_2023_dom.pdf da norma Lei Ordinária nº 3.085, de 30 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Semana Municipal de Prevenção, Combate e Controle da Hipertensão Arterial.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/146/lei_n_3085_de_30_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7000
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/147/lei_n_3084_de_29_jun_2023_dom.pdf da norma Lei Ordinária nº 3.084, de 29 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Prioridade para o atendimento de urgência e emergência, marcação de consultas eletivas e exames de pacientes com lúpus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/147/lei_n_3084_de_29_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6996
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/148/lei_n_3083_de_28_jun_2023_dom.pdf da norma Lei Ordinária nº 3.083, de 28 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Calendário Oficial da Cidade de Manaus, o Dia Municipal da Jovem Advocacia, a ser comemorado no dia 3 de fevereiro.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/148/lei_n_3083_de_28_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6995
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/149/lei_n_3082_de_28_jun_2023_dom.pdf da norma Lei Ordinária nº 3.082, de 28 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Concessão de auxílio financeiro para manutenção, modernização e desenvolvimento da atividade econômica dos permissionários de galerias e shopping populares de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/149/lei_n_3082_de_28_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6994
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/150/lei_n_3081_de_27_jun_2023_dom.pdf da norma Lei Ordinária nº 3.081, de 27 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Plano de Cargos, Carreira e Remuneração do Servidor Público da Área Previdenciária.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/150/lei_n_3081_de_27_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6993
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/151/lei_n_3080_de_26_jun_2023_dom.pdf da norma Lei Ordinária nº 3.080, de 26 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Campanha Check-up Feminino no município de Manaus, para orientação e prevenção de doenças.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/151/lei_n_3080_de_26_jun_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 6992
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/152/resolucao_n_165_de_28_jun_2023_e-dolm.pdf da norma Resolução nº 165, de 28 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Criação, no âmbito da Câmara Municipal de Manaus, da Frente Parlamentar de Relações Exteriores.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/152/resolucao_n_165_de_28_jun_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6999
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/153/resolucao_n_163_de_26_jun_2023_e-dolm.pdf da norma Resolução nº 163, de 26 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Frente Parlamentar de Apoio às Empresas do Mercado Imobiliário de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/153/resolucao_n_163_de_26_jun_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6998
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/154/resolucao_n_162_de_21_jun_2023_e-dolm.pdf da norma Resolução nº 162, de 21 de junho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Relatório Final da Comissão Parlamentar de Inquérito instalada para apurar as supostas práticas abusivas cometidas pela empresa concessionária de serviço público na cidade de Manaus, Águas de Manaus – CPI da Águas de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/154/resolucao_n_162_de_21_jun_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6997
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/155/resolucao_n_160_de_08_mai_2023_e-dolm.pdf da norma Resolução nº 160, de 08 de maio de 2023",
+      "metadata": {},
+      "assunto_anexo": "Regimento Interno da Câmara Municipal de Manaus para criar a Medalha de Ouro Amazonino Armando Mendes.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/155/resolucao_n_160_de_08_mai_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6947
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/156/resolucao_n_159_de_29_mar_2023_e-dolm.pdf da norma Resolução nº 159, de 29 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Programação de Investimentos da Prefeitura de Manaus para o exercício de 2023.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/156/resolucao_n_159_de_29_mar_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6910
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/157/resolucao_n_158_de_29_mar_2023_e-dolm.pdf da norma Resolução nº 158, de 29 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Marco temporal de transição dos regimes jurídicos de contratações públicas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/157/resolucao_n_158_de_29_mar_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6909
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/158/resolucao_n_157_de_22_mar_2023_e-dolm.pdf da norma Resolução nº 157, de 22 de março de 2023",
+      "metadata": {},
+      "assunto_anexo": "Câmara Cidadã",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/158/resolucao_n_157_de_22_mar_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6906
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/159/resolucao_n_156_de_15_fev_2023_e-dolm.pdf da norma Resolução nº 156, de 15 de fevereiro de 2023",
+      "metadata": {},
+      "assunto_anexo": "Ponto facultativo, horário especial de trabalho, antecipação do décimo terceiro salário e fixa critérios para recebimento de auxílio-funeral dos servidores do Poder Legislativo Municipal.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/159/resolucao_n_156_de_15_fev_2023_e-dolm.pdf",
+      "ano": 2023,
+      "norma": 6894
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/160/resolucao_n_155_de_06_jun_2022_e-dolm.pdf da norma Resolução nº 155, de 06 de junho de 2022",
+      "metadata": {},
+      "assunto_anexo": "Criação, no âmbito da Câmara Municipal de Manaus, da Frente Parlamentar de Cuidados e Prevenção à Depressão, ao Suicídio e às Drogas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/160/resolucao_n_155_de_06_jun_2022_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6743
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/161/resolucao_n_154_de_11_abr_2022_e-dolm.pdf da norma Resolução nº 154, de 12 de abril de 2022",
+      "metadata": {},
+      "assunto_anexo": "Criação, no âmbito da Câmara Municipal de Manaus, da Frente Parlamentar em Defesa da Assistência Social.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/161/resolucao_n_154_de_11_abr_2022_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6648
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/162/resolucao_n_153_de_4_abr_2022_republicada_e-dolm.pdf da norma Resolução nº 153, de 04 de abril de 2022",
+      "metadata": {},
+      "assunto_anexo": "Planejamento Estratégico 2023 a 2027.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/162/resolucao_n_153_de_4_abr_2022_republicada_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6647
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/163/resolucao_n_152_de_4_abr_2022_e-dolm.pdf da norma Resolução nº 152, de 04 de abril de 2022",
+      "metadata": {},
+      "assunto_anexo": "Programação de Investimentos do Executivo Municipal para o exercício de 2022.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/163/resolucao_n_152_de_4_abr_2022_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6646
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/164/resolucao_n_151_de_14_mar_2022_e-dolm.pdf da norma Resolução nº 151, de 14 de março de 2022",
+      "metadata": {},
+      "assunto_anexo": "Criação e outorga da Medalha de Ouro Nestor José Soeiro do Nascimento.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/164/resolucao_n_151_de_14_mar_2022_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6613
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/165/resolucao_n_150_de_14_mar_2022_e-dolm.pdf da norma Resolução nº 150, de 14 de março de 2022",
+      "metadata": {},
+      "assunto_anexo": "Regimento Interno da Câmara Municipal de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/165/resolucao_n_150_de_14_mar_2022_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6612
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/166/resolucao_n_149_de_09_mar_2022_e-dolm.pdf da norma Resolução nº 149, de 09 de março de 2022",
+      "metadata": {},
+      "assunto_anexo": "Galeria das Vereadoras na Câmara Municipal de Manaus.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/166/resolucao_n_149_de_09_mar_2022_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6608
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/167/resolucao_n_148_de_23_fev_2022_e-dolm.pdf da norma Resolução nº 148, de 23 de fevereiro de 2022",
+      "metadata": {},
+      "assunto_anexo": "Indicação do senhor Elson Andrade Ferreira Júnior para o cargo de Diretor-Presidente da Agência Reguladora dos Serviços Públicos Delegados do Município de Manaus (Ageman).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/167/resolucao_n_148_de_23_fev_2022_e-dolm.pdf",
+      "ano": 2022,
+      "norma": 6595
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/168/lei_n_3086_de_03_jul_2023_dom.pdf da norma Lei Ordinária nº 3.086, de 03 de julho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Prestar socorro, pelo atropelador, aos animais atropelados",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/168/lei_n_3086_de_03_jul_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7001
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/169/lei_n_3087_de_03_jul_2023_dom.pdf da norma Lei Ordinária nº 3.087, de 03 de julho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Calendário Oficial da Cidade de Manaus, Dia do Conservadorismo.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/169/lei_n_3087_de_03_jul_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7002
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/170/lei_n_3092_de_05_jul_2023_dom.pdf da norma Lei Ordinária nº 3.092, de 05 de julho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Calendário Oficial da Cidade de Manaus, o Dia Municipal do Entretenimento, a ser comemorado em 15 de março.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/170/lei_n_3092_de_05_jul_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7008
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/171/lei_n_3091_de_05_jul_2023_dom.pdf da norma Lei Ordinária nº 3.091, de 05 de julho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Semana Municipal de Segurança Pública.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/171/lei_n_3091_de_05_jul_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7007
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/172/lei_n_3090_de_04_jul_2023_dom.pdf da norma Lei Ordinária nº 3.090, de 04 de julho de 2023",
+      "metadata": {},
+      "assunto_anexo": "projeto Escola que Cuida.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/172/lei_n_3090_de_04_jul_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7006
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/173/lei_n_3089_de_04_jul_2023_dom.pdf da norma Lei Ordinária nº 3.089, de 04 de julho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Campanha Municipal Permanente de Combate ao Abandono Afetivo de Pessoas Idosas.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/173/lei_n_3089_de_04_jul_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7005
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/174/lei_n_3088_de_04_jul_2023_dom.pdf da norma Lei Ordinária nº 3.088, de 04 de julho de 2023",
+      "metadata": {},
+      "assunto_anexo": "Índices de reajuste das remunerações dos profissionais da educação da Secretaria Municipal de Educação (Semed).",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/174/lei_n_3088_de_04_jul_2023_dom.pdf",
+      "ano": 2023,
+      "norma": 7004
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/175/adin_n_4007834-32.2022.8.04.0000__lei_n_2754_2021.pdf da norma Lei Ordinária nº 2.754, de 29 de junho de 2021",
+      "metadata": {},
+      "assunto_anexo": "Ação Direta de Inconstitucionalidade n. 4007834-32.2022.8.04.0000.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2021/175/adin_n_4007834-32.2022.8.04.0000__lei_n_2754_2021.pdf",
+      "ano": 2021,
+      "norma": 2572
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/176/adin_lei_n_2210_de_13_jan_2017.pdf da norma Lei Ordinária nº 2.210, de 13 de janeiro de 2017",
+      "metadata": {},
+      "assunto_anexo": "Incidente de Arguição de Inconstitucionalidade Cível n. 0004177-53.2022.8.04.0000. Acordão do Tribunal Pleno de Justiça do Estado do Amazonas, de 26.04.2024. Sendo Relatora, a Desembargadora Vânia Marques Marinho.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2017/176/adin_lei_n_2210_de_13_jan_2017.pdf",
+      "ano": 2017,
+      "norma": 2350
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/177/lei_n_552_de_14_dez_2023_republicada.pdf da norma Lei Consolidada nº 552, de 14 de dezembro de 2023",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE sobre o Plano de Cargos, Carreiras e Remuneração dos Servidores da Câmara Municipal de Manaus e dá outras providências. (Sem Consolidação)",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/177/lei_n_552_de_14_dez_2023_republicada.pdf",
+      "ano": 2023,
+      "norma": 7192
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/178/lei_n_552_de_14_dez_2023_consolidada.pdf da norma Lei Ordinária (Promulgada) nº 552, de 14 de dezembro de 2023",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE sobre o Plano de Cargos, Carreiras e Remuneração dos Servidores da Câmara Municipal de Manaus e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2023/178/lei_n_552_de_14_dez_2023_consolidada.pdf",
+      "ano": 2023,
+      "norma": 7945
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/179/lei_n_169_de_13_dez_2005_consolidada_lei_192_.pdf da norma Lei Consolidada nº 169, de 13 de dezembro de 2005",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE sobre o Plano de Cargos, Carreiras e Vencimentos dos servidores da Câmara Municipal de Manaus e dá outras providências.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2005/179/lei_n_169_de_13_dez_2005_consolidada_lei_192_.pdf",
+      "ano": 2005,
+      "norma": 7968
+    },
+    {
+      "id": 180,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/180/mensagem_de_veto_parcial_ao_pl_n_044_2025.pdf da norma Lei Ordinária nº 3.625, de 10 de abril de 2026",
+      "metadata": {},
+      "assunto_anexo": "VETO PARCIAL ao Projeto de Lei n. 044/2025, de autoria do Vereador Ubirajara Rosses do Nascimento Júnior que “INSTITUI o Dia do Auxiliar de Serviços Gerais.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2026/180/mensagem_de_veto_parcial_ao_pl_n_044_2025.pdf",
+      "ano": 2026,
+      "norma": 8368
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/181/adi_n_0004701-08.2025.8.04.9001_lei_2898_2022.pdf da norma Lei Ordinária nº 2.898, de 09 de junho de 2022",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE. TRANSPORTE COMPLEMENTAR. TRANSFERÊNCIA CAUSA MORTIS DE PERMISSÃO DE SERVIÇO PÚBLICO.\r\nPROCEDÊNCIA DA ADI PELO TJAM COM FUNDAMENTO NA ADI Nº 5.337/DF DO STF. NATUREZA PERSONALÍSSIMA DA PERMISSÃO.",
+      "anexo_arquivo": "http://sapl.cmm.am.gov.br/media/sapl/public/anexonormajuridica/2022/181/adi_n_0004701-08.2025.8.04.9001_lei_2898_2022.pdf",
+      "ano": 2022,
+      "norma": 6729
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.cmm.am.gov.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/950e2c63cf69acbe87eae6c989f13025d73437d68de39848f85ba5efce3fd3d7.json",
+      "sha256": "4a5761c50e949462719f8ff7c41960b69153be03a2803b3d3d73cb7d850db985",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/950e2c63cf69acbe87eae6c989f13025d73437d68de39848f85ba5efce3fd3d7.meta.json"
+    },
+    {
+      "url": "https://sapl.cmm.am.gov.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/1d9fe9056a49a428f75a6b517d96f3ef9be6661c2499863e9c2bd1d17427f12a.json",
+      "sha256": "9f509efc13f3a7f37f9ac9655c30b48cbd84e03d3874b52dda0b6f240c52b3ec",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.cmm.am.gov.br/1d9fe9056a49a428f75a6b517d96f3ef9be6661c2499863e9c2bd1d17427f12a.meta.json"
+    }
+  ],
+  "total": 176
+}

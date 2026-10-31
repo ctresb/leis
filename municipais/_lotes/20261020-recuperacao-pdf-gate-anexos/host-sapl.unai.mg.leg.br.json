@@ -1,0 +1,56 @@
+{
+  "host": "sapl.unai.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/1/decreto-3351-2006-unai-mg.pdf da norma Lei Complementar nº 3-A, de 16 de outubro de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A NOVA IDENTIFICAÇÃO DA NUMERAÇÃO DA LEI COMPLEMENTAR QUE ESPECIFICA.",
+      "anexo_arquivo": "http://sapl.unai.mg.leg.br/media/sapl/public/anexonormajuridica/1991/1/decreto-3351-2006-unai-mg.pdf",
+      "ano": 1991,
+      "norma": 9397
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/2/decreto-3351-2006-unai-mg.pdf da norma Lei Complementar nº 3, de 14 de junho de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "DISPÕE SOBRE A NOVA IDENTIFICAÇÃO DA NUMERAÇÃO DA LEI COMPLEMENTAR QUE ESPECIFICA.",
+      "anexo_arquivo": "http://sapl.unai.mg.leg.br/media/sapl/public/anexonormajuridica/1991/2/decreto-3351-2006-unai-mg.pdf",
+      "ano": 1991,
+      "norma": 2970
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/3/anexos2562.pdf da norma Lei nº 2.562, de 07 de julho de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "LEI DE DIRETRIZES ORÇAMENTÁRIAS 2009",
+      "anexo_arquivo": "http://sapl.unai.mg.leg.br/media/sapl/public/anexonormajuridica/2008/3/anexos2562.pdf",
+      "ano": 2008,
+      "norma": 3001
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/4/tabela_de_depreciacao.pdf da norma  Portaria do Legislativo nº 2.705, de 27 de novembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "TABELA DE DEPRECIAÇÃO\r\nMétodo de Depreciação: Linear pelo critério Taxa Constante.",
+      "anexo_arquivo": "http://sapl.unai.mg.leg.br/media/sapl/public/anexonormajuridica/2012/4/tabela_de_depreciacao.pdf",
+      "ano": 2012,
+      "norma": 6482
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.unai.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.unai.mg.leg.br/4efeeb715e5acccf3982113574e5a883644f3768a835bac0b3d0b69dc3ee7987.json",
+      "sha256": "9d50c9be728c0a65b635c928c643dec3c2d4cbb0b2c520b0f335c9305677db55",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.unai.mg.leg.br/4efeeb715e5acccf3982113574e5a883644f3768a835bac0b3d0b69dc3ee7987.meta.json"
+    }
+  ],
+  "total": 4
+}

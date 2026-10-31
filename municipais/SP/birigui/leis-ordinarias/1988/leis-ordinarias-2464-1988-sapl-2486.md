@@ -1,0 +1,76 @@
+---
+titulo: "Lei Ordinária nº 2.464, de 09 de março de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2464"
+data: "1988-03-09"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/2486"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3449/text"
+sha256_fonte: "0dc8eca6118085c8c41f654debba609df995b7563e027bbef7515fb95488fa9f"
+sha256_texto: "172de65569f29117d246b7f70ac045f907e43b9f8d88267cbc81430cdbb9683b"
+capturado_em_fonte: "2026-10-27T18:33:47.815114-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.464, de 09 de março de 1988
+
+AUTORIZA O PODER EXECUTIVO A CONTRATAR OPERAÇÕES DE CRÉDITO, PRESTAR GARANTIA, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eu, **DR. FLORIVAL CERVELATI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a contratar com o **BANCO DO ESTADO DE SÃO PAULO S.A.**, operação de crédito até o montante de Cz$ 60.000.000,00 (sessenta milhões de cruzados), corrigíveis monetariamente, correspondente nesta data a 73.133,27 OTN’s, acrescida dos encargos contratuais, cujo prazo máximo para amortização não poderá ser superior a 60 (sessenta) meses, observadas as condições operacionais de Agência Especial de Financiamento Industrial – FINAME, operação essa destinada à aquisição de máquinas rodoviárias e caminhões basculantes.
+
+
+Art. 2º.
+
+Fica, outrossim, permitido ao Executivo vincular ao instrumento contratual respectivo, para cumprimento das obrigações previstas no artigo anterior, o produto da arrecadação do Imposto sobre Circulação de Mercadorias e/ou de outro, que venha porventura substituí-lo cabíveis ao Município, suficientes para responder pelo débito e demais encargos contratuais decorrentes do financiamento, bem como autorizar o Banco do Estado de São Paulo S.A. (BANESPA) a reter, receber e/ou compensar, diretamente ou nos órgãos ou estabelecimentos competentes, aqueles recursos, até o limite das obrigações vencidas, conferindo-lhe, para tanto, poderes especiais no contrato que for assinado ou em instrumento separado.
+
+
+Art. 3º.
+
+O orçamento do Município consignará, para cada exercício, dotações suficientes ao pagamento do principal, correção monetária, juros, comissões e encargos financeiros decorrentes da operação de crédito programada e realizada em consonância com a presente lei.
+
+
+§ 1º
+
+O orçamento Plurianual de Investimentos do Município consignará as dotações correspondentes à operação de crédito e à execução dos programas e projetos previstos nesta lei.
+
+
+§ 2º
+
+As despesas decorrentes da presente lei serão cobertas com dotações próprias do atual orçamento, suplementadas se necessário.
+
+
+Art. 4º.
+
+Fica o Chefe do Poder Executivo autorizado a firmar contratos, aditivos, termos e outros instrumentos públicos ou particulares necessários à efetivação da operação de crédito e à outorga de garantias e poderes de que trata a presente lei.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos nove de março de mil novecentos e oitenta e oito.
+
+**DR. FLORIVAL CERVELATI Prefeito Municipal**
+
+**NELSON GIARDINO Diretor do Departamento de Planejamento e Finanças**
+
+Publicada na Divisão de Expediente da Prefeitura Municipal de Birigui, aos nove de março de mil novecentos e oitenta e oito, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Chefe da Divisão de Expediente**
+

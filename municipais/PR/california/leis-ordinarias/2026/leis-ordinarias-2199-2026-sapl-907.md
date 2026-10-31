@@ -1,0 +1,198 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.199, de 31 de março de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2199"
+data: "2026-03-31"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/907"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/871/text"
+sha256_fonte: "5c9432895e6920c9efe8e30929adbf72485e9582dc173c006356439cf0dc55d9"
+sha256_texto: "b4b8448a32e9c8a0ca152c91ea2650ab365e6a449427bda0fbeb84121e046f79"
+capturado_em_fonte: "2026-10-27T22:15:53.737869-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.199, de 31 de março de 2026
+
+Institui o Programa Municipal de Incentivo à Denúncia de Infrações Ambientais Urbanas no Município de Califórnia/PR, estabelece recompensa ao denunciante, prevê punição à má-fé e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CALIFÓRNIA, Estado do Paraná, aprovou, e o Prefeito Municipal sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município de Califórnia/PR, o Programa Municipal de Incentivo à Denúncia de Infrações Ambientais Urbanas, destinado a incentivar a participação da população na fiscalização e combate a condutas que violem a legislação ambiental municipal relativa ao manejo e descarte irregular de resíduos sólidos.
+
+
+Parágrafo único
+
+Para os fins desta Lei, consideram-se infrações ambientais urbanas, dentre outras previstas na legislação municipal vigente:
+
+
+I –
+
+descarte de lixo em vias e logradouros públicos;
+
+
+II –
+
+descarte irregular de entulho ou resíduos de construção civil;
+
+
+III –
+
+deposição de resíduos em áreas verdes, áreas públicas ou de preservação;
+
+
+IV –
+
+lançamento de resíduos em bueiros, galerias pluviais, cursos d’água ou terrenos baldios;
+
+
+V –
+
+quaisquer outras infrações relacionadas ao manejo inadequado de resíduos sólidos urbanos.
+
+
+Art. 2º.
+
+O cidadão que auxiliar na identificação do infrator, mediante denúncia fundamentada acompanhada de elementos mínimos de prova, fará jus ao recebimento de 20% (vinte por cento) do valor da multa efetivamente arrecadada pelo Município.
+
+
+§ 1º
+
+Consideram-se elementos mínimos de prova, entre outros:
+
+
+I –
+
+fotografia ou vídeo do fato;
+
+
+II –
+
+identificação do veículo, quando houver;
+
+
+III –
+
+indicação precisa do local, data e horário da infração.
+
+
+§ 2º
+
+O pagamento da recompensa somente será devido após:
+
+
+I –
+
+regular apuração administrativa;
+
+
+II –
+
+constituição definitiva do crédito decorrente da multa;
+
+
+III –
+
+efetivo recolhimento do valor pelo infrator.
+
+
+§ 3º
+
+Não caberá qualquer adiantamento ou antecipação de valores.
+
+
+Art. 3º.
+
+O denunciante poderá optar pelo sigilo de sua identidade, garantida a confidencialidade de seus dados pessoais, nos termos da legislação vigente.
+
+
+Art. 4º.
+
+A denúncia deverá ser apresentada por meio de canais oficiais disponibilizados pelo Poder Executivo, inclusive meios eletrônicos, telefônicos ou presenciais, ouvidoria, com efetivo registro da denúncia e número de protocolo.
+
+
+Art. 5º.
+
+O denunciante que agir de má-fé, mediante apresentação de denúncia sabidamente falsa, fraudulenta ou com o objetivo de prejudicar terceiros, ficará sujeito:
+
+
+I –
+
+à perda do direito à recompensa;
+
+
+II –
+
+à aplicação de multa correspondente a até 50% (cinquenta por cento) do valor previsto para a infração indevidamente denunciada, assegurado o contraditório e a ampla defesa;
+
+
+III –
+
+à responsabilização civil e criminal, quando cabível.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará esta Lei no que couber, especialmente quanto:
+
+
+I –
+
+aos procedimentos de recebimento e análise das denúncias;
+
+
+II –
+
+aos critérios de validação das provas apresentadas;
+
+
+III –
+
+às regras de proteção de dados e sigilo do denunciante;
+
+
+IV –
+
+à forma e ao procedimento para pagamento da recompensa;
+
+
+V –
+
+aos limites orçamentários e operacionais do programa.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, podendo ser suplementadas, se necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura do Município de Califórnia, em 31 de março de 2026.
+
+***PAULO SÉRGIO CHILEIDE***
+
+Prefeito
+
+**Publicado por:**  
+Neuzeli Federovicz  
+**Código Identificador:**9C916A73
+
+Matéria publicada no Diário Oficial dos Municípios do Paraná no dia 06/04/2026. Edição 3503  
+A verificação de autenticidade da matéria pode ser feita informando o código identificador no site:  
+https://www.diariomunicipal.com.br/amp/
+

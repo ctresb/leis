@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/decreto_no_26_de_12_de_marco_de_2020.pdf da norma LEI ORDINÁRIA nº 1.118, de 26 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "REGULAMENTA O ARTIGO 6º DA LEI Nº 1118/2018",
+      "anexo_arquivo": "http://sapl.corumbiara.ro.leg.br/media/sapl/public/anexonormajuridica/2018/1/decreto_no_26_de_12_de_marco_de_2020.pdf",
+      "ano": 2018,
+      "norma": 1303
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/anexo_-_lei_complementar_114-2022_2.pdf da norma LEI COMPLEMENTAR-GPRE nº 114, de 07 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.corumbiara.ro.leg.br/media/sapl/public/anexonormajuridica/2022/2/anexo_-_lei_complementar_114-2022_2.pdf",
+      "ano": 2022,
+      "norma": 1619
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.corumbiara.ro.leg.br/4a3afa5660ecdaaf2be634f7fa8c051691f11544943d8d24fe7543b3259b5fcd.json",
+      "url": "https://sapl.corumbiara.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.corumbiara.ro.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0290cce671d1e7f43ac6e10ddc2371f6de28ba78f22cbf6aa5ab66fd621c4a86",
+      "bytes": 1073,
+      "capturado_em": "2026-10-28T09:22:03.298817-03:00"
+    }
+  ]
+}

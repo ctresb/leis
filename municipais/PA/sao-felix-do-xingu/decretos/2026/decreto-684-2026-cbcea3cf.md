@@ -1,0 +1,50 @@
+---
+titulo: "DECRETO Nº 684/2026, DE 14 DE JANEIRO DE 2026. DISPÕE"
+uf: "PA"
+municipio: "SÃO FÉLIX DO XINGU"
+tipo: "Decreto"
+numero: "684"
+data: 2026-01-14
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 28/01/2026"
+data_publicacao: 2026-01-28
+codigo_identificador: "CBCEA3CF"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117006_2026-01-27_1930ff423cff3b6ceda0a6835645db80.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 684/2026, DE 14 DE JANEIRO DE 2026. DISPÕE
+
+DECRETO Nº 684/2026, DE 14 DE JANEIRO DE 2026. DISPÕE
+SOBRE A NOMEAÇÃO PARA O CARGO EM COMISSÃO DE
+GESTORA ESCOLAR, E DÁ OUTRAS PROVIDÊNCIAS.
+
+DECRETA:
+Art. 1º Fica nomeada a Sra. RUTH BARBOSA BATISTA, eleita
+por meio de gestão democrática, para exercer o cargo em comissão
+de Gestora Escolar AE-II (Graduação) da Escola Municipal de
+Ensino Infantil Jardim da Infância Celeste, classificada como
+Escola de Nível I, com lotação na Secretaria Executiva Municipal
+de Educação - SEMED, a quem competirá responder pelos atos
+administrativos do referido órgão até posterior deliberação.
+Art. 2º No ato da posse, a nomeada deverá apresentar,
+obrigatoriamente, todos os documentos exigidos para o exercício do
+cargo.
+
+DECRETO Nº 684/2026, DE 14 DE JANEIRO DE 2026.
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+DISPÕE SOBRE A NOMEAÇÃO PARA O CARGO
+EM COMISSÃO DE GESTORA ESCOLAR, E DÁ
+OUTRAS PROVIDÊNCIAS.
+O PREFEITO DO MUNICÍPIO DE SÃO FÉLIX DO XINGUESTADO DO PARÁ, no uso de suas atribuições constitucionais e
+com base no artigo 90, IX e XII da Lei Orgânica do Município de São
+Félix do Xingu-PA,
+
+REGISTRE-SE, PUBLIQUE-SE E CUMPRA-SE.
+Gabinete do Prefeito de São Félix do Xingu-Estado do Pará, 14 de
+janeiro de 2026.
+FABRÍCIO BATISTA FERREIRA
+Prefeito do Município de São Félix do Xingu/PA
+Publicado por:
+Livia Leandra Ribeiro Gomes

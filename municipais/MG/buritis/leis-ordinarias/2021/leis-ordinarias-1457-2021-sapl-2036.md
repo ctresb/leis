@@ -1,0 +1,133 @@
+---
+titulo: "Lei nº 1.457, de 13 de maio de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1457"
+data: "2021-05-13"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2036"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1856/text"
+sha256_fonte: "245610ae53c9c966c1e6ffefc15e45c9a03b89c543ee1315b0a3c6b01a2f1bb1"
+sha256_texto: "1585fde0786d658b771e06be0696670d54352158c4844d4bc1207ba6c9a3774c"
+capturado_em_fonte: "2026-10-27T19:50:29.584813-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.457, de 13 de maio de 2021
+
+Institui o Fundo de Municipal dos Direitos da pessoa idosa do Município de Buritis e dá outras providências.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais por seus representantes aprovou, e eu, PREFEITO MUNICIPAL, usando da atribuição que lhe confere o inciso VIII, do artigo 105 da Lei Orgânica Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Fundo Municipal dos Direitos da Pessoa Idosa, instrumento de natureza contábil, tendo por finalidade a captação, o repasse e a aplicação de recursos destinados à proporcionar o devido suporte financeiro na implantação, na manutenção e no desenvolvimento de programas, projetos e ações voltados à pessoa idosa no âmbito municipal.
+
+
+Art. 2º.
+
+O Fundo Municipal dos Direitos da Pessoa Idosa será gerenciado pela Secretaria Municipal a que se vincula o Conselho Municipal dos Direitos do Idoso, sendo de competência deste a liberação sobre a aplicação dos recursos em programas, projetos e ações voltadas à pessoa idosa.
+
+
+Art. 3º.
+
+Constituem-se fontes de recursos do Fundo Municipal dos Direitos da Pessoa Idosa:
+
+
+I –
+
+as transferências e repasses da união, do Estado, por órgãos e entidades da administração direta e indireta, bem como de seus Fundos;
+
+
+II –
+
+as transferências e repasses do Município;
+
+
+III –
+
+os auxílios, legados, valores, contribuições e doações, inclusive de bens móveis е imóveis, que lhe forem destinados por pessoas físicas ou jurídicas públicas ou privadas, nacionais ou internacionais;
+
+
+IV –
+
+produtos de aplicações financeiras dos recursos disponíveis;
+
+
+V –
+
+os valores das multas previstas no Estatuto do Idoso (Lei nº 10.741, de 01 de outubro de 2003);
+
+
+VI –
+
+as doações feitas por pessoas física ou jurídicas deduzidas do Imposto sobre а Renda, conforme Lei Federal nº 12.213/2010;
+
+
+VII –
+
+outras receitas destinadas ao referido Fundo, e;
+
+
+VIII –
+
+as receitas estipuladas em Lei.
+
+
+§ 1º
+
+Os recursos que compões o Fundo, serão depositados em conta especial, sob a denominação "Fundo Municipal dos Direitos da Pessoa Idosa", e sua destinação será deliberada por meio de atividades, projetos e programas aprovados pelo Conselho Municipal dos Direitos do Idoso, sem isentar a Administração Municipal de previsão e provisão de recursos necessários para as ações destinadas à pessoa idosa, conforme a legislação pertinente.
+
+
+§ 2º
+
+Os recursos de responsabilidade do Município, destinados ao Fundo Municipal dos Direitos da Pessoa Idosa, serão programados de acordo com a Lei Orçamentária do respectivo exercício financeiro, para promover ações de proteção e promoção da pessoa idosa, conforme regulamentação desta Lei.
+
+
+§ 3º
+
+É vedado o pagamento de servidores ou empregados públicos federais, estaduais, distritais ou municipais com recursos provenientes do Fundo Municipal da Pessoa Idosa.
+
+
+Art. 4º.
+
+A Secretaria Municipal de Ação Social ou órgão municipal gestor, prestará constas mensalmente ao Conselho Municipal do Idoso, sobre o Fundo Municipal dos Direitos da Pessoa Idosa, dará vistas e prestará informações quando for solicitado pelo Conselho.
+
+
+Art. 5º.
+
+O Chefe do Poder Executivo Municipal, mediante Decreto, no prazo de 30 dias da publicação desta Lei, estabelecerá as normas referentes a organização e operacionalização do Fundo Municipal dos Direitos da Pessoa Idosa.
+
+
+Art. 6º.
+
+Para o primeiro ano do exercício financeiro, o Prefeito Municipal remeterá a Câmara Municipal Projeto de Lei específica do Orçamento do Fundo Municipal dos Direitos da Pessoa Idosa.
+
+
+Parágrafo único
+
+A partir do exercício do primeiro ano financeiro, o Poder Executivo providenciará a inclusão das receitas e das despesas autorizadas por Lei, no Orçamento do Município.
+
+
+Art. 7º.
+
+Fica incluído o parágrafo único no art. 8º da Lei Municipal 778/98, de 06/10/1998, que estabelece a Política Municipal do Idoso, Cria o Conselho Municipal do idoso e dá outras providências.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Ref. Proposição de Lei 08/2021, de autoria do Executivo Municipal.
+

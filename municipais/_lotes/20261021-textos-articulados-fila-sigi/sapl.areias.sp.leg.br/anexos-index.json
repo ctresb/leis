@@ -1,0 +1,118 @@
+{
+  "estado": "indice_completo",
+  "total": 10,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/2/doc_288065872.pdf da norma Lei Ordinária nº 984, de 12 de novembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2004/2/doc_288065872.pdf",
+      "ano": 2004,
+      "norma": 158
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/doc_305371826.pdf da norma Lei Complementar nº 21, de 10 de maio de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2018/3/doc_305371826.pdf",
+      "ano": 2018,
+      "norma": 548
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/4/acordao_acao_direta_iconstitucionalidade.pdf da norma Lei Ordinária nº 1.158, de 29 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ACORDÃO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE.",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2011/4/acordao_acao_direta_iconstitucionalidade.pdf",
+      "ano": 2011,
+      "norma": 345
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/acordao_acao_direta_incosntitucionalidade.pdf da norma Lei Complementar nº 22, de 16 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "ACORDÃO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE.",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2018/5/acordao_acao_direta_incosntitucionalidade.pdf",
+      "ano": 2018,
+      "norma": 623
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/anexo_lei_1488_2025.pdf da norma Lei Ordinária nº 1.488, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Plano Diretor de Turismo.",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2025/6/anexo_lei_1488_2025.pdf",
+      "ano": 2025,
+      "norma": 1173
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/anexo_loa_2026.pdf da norma Lei Ordinária nº 1.494, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo Lei Orçamentária Anual-2026.",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2025/7/anexo_loa_2026.pdf",
+      "ano": 2025,
+      "norma": 1179
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/anexo_ppa_2026-2029.pdf da norma Lei Ordinária nº 1.493, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Plano Plurianual 2026-2029.",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2025/8/anexo_ppa_2026-2029.pdf",
+      "ano": 2025,
+      "norma": 1178
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/anexo_ldo_2025.pdf da norma Lei Ordinária nº 1.471, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo Lei de Diretrizes Orçamentárias.",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2025/9/anexo_ldo_2025.pdf",
+      "ano": 2025,
+      "norma": 1149
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/11/anexo_ple_10_2026_ldo.pdf da norma Lei Ordinária nº 1.511, de 17 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2026/11/anexo_ple_10_2026_ldo.pdf",
+      "ano": 2026,
+      "norma": 1207
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/declaracao_adequacao.pdf da norma Ato da Mesa nº 3, de 18 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.areias.sp.leg.br/media/sapl/public/anexonormajuridica/2026/12/declaracao_adequacao.pdf",
+      "ano": 2026,
+      "norma": 1216
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.areias.sp.leg.br/9df84750b5fe552408a6c81ee7ce316922486b1311fac9657ad2368b27e669d3.json",
+      "url": "https://sapl.areias.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.areias.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "96259f1409ef2b1de897dfde7667851fa358d17cf9d0275df0ab242ac1a9922c",
+      "bytes": 4385,
+      "capturado_em": "2026-10-27T16:58:06.592177-03:00"
+    }
+  ]
+}

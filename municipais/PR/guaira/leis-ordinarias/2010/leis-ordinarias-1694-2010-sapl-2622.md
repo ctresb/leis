@@ -1,0 +1,150 @@
+---
+titulo: "Lei Ordinária nº 1.694, de 29 de setembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1694"
+data: "2010-09-29"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2011-10-18; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/2622"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/956/text"
+sha256_fonte: "f642b1aa956363d82f5dc158d90106b33ff97103c544dc862041b779f877a0dd"
+sha256_texto: "6034af79021e1b37bddbabb429c436b9b526d350d559f4ecb675a43cdf1d9ef9"
+capturado_em_fonte: "2026-10-28T13:21:42.876759-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.694, de 29 de setembro de 2010
+
+Dispõe sobre a instituição do "Concurso Leitura em Destaque aos Docentes da Rede Municipal de Ensino", concede as respectivas premiações e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído no Município de Guaíra, através da Secretaria Municipal de Educação e Cultura, o "Concurso Leitura em Destaque aos docentes da rede municipal de ensino" - com o objetivo primordial de estimular e fomentar a leitura, seu papel na educação e reconhecer boas práticas de leitura, e conjuntamente, premiar as modalidades de participantes estabelecidas nesta Lei.
+
+
+Art. 2º.
+
+Poderão se inscrever todos os Professores, Diretores, Bibliotecários ou Coordenadores das Escolas da Rede Municipal de Ensino.
+
+
+Art. 3º.
+
+O julgamento será realizado através de uma Comissão Julgadora, a ser nomeada pelo Executivo Municipal, que considerará os seguintes critérios:
+
+
+a)
+
+Clareza entre os objetivos e os resultados alcançados;
+
+
+b)
+
+Adequação do trabalho à faixa etária do público alvo;
+
+
+c)
+
+Pertinência da ação desenvolvida com as características da comunidade a que se destina;
+
+
+d)
+
+Criatividade, dinamismo da ação de leitura e protagonismo da experiência na comunidade;
+
+
+e)
+
+Qualidade e abrangência dos resultados alcançados; e
+
+
+f)
+
+Potencial de replicabilidade.
+
+
+Parágrafo único
+
+O concurso será três fases consecutivas de seleção:
+
+
+a)
+
+Primeira fase: habilitação dos participantes;
+
+
+b)
+
+Segunda fase: Comissão de selecionadores indicará os três (3) trabalhos finalistas;
+
+
+c)
+
+Terceira fase: escolha do vencedor.
+
+
+Art. 4º.
+
+Só fazem parte do processo de seleção os trabalhos que estão em andamento ou que foram concluídos nos prazos estabelecidos nesta lei.
+
+
+Parágrafo único
+
+A data e local de inscrição dos interessados em participar no concurso serão divulgados pela Secretaria Municipal de Educação e Cultura, de acordo com o regulamento que será editado anualmente através de Decreto do Prefeito Municipal.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.741, de 18 de outubro de 2011.
+
+
+Art. 5º.
+
+Os organizadores anunciarão em novembro de 2010, pela imprensa e pelo site oficial do Município o vencedor e os indicados para a menção honrosa.
+
+
+Art. 6º.
+
+A premiação ao vencedor é de R$ 2.000,00 (dois mil reais), diploma e troféu e aos demais finalista a premiação é de R$ 1.000,00 (hum mil reais).
+
+Alteração feita pelo Art. 3º. - Lei Ordinária nº 1.741, de 18 de outubro de 2011.
+
+
+Art. 7º.
+
+Aos trabalhos indicados da menção honrosa serão concedidos diploma e medalha.
+
+
+Art. 8º.
+
+Os trabalhos vencedores e os de menção honrosa receberão seus respectivos prêmios em cerimônia do PRÊMIO EDUCAÇÃO NOTA 10, em data e local a ser divulgado pela Secretaria Municipal de Educação e Cultura.
+
+Alteração feita pelo Art. 4º. - Lei Ordinária nº 1.741, de 18 de outubro de 2011.
+
+
+Art. 9º.
+
+A Comissão Organizadora será nomeada pelo Senhor Prefeito Municipal através de Decreto.
+
+
+Art. 10.
+
+Para atender as despesas referentes à aquisição das premiações de que trata a presente lei, serão utilizados os recursos provenientes do Plano Plurianual - PPA, Lei de Diretrizes Orçamentárias - LDO e Lei Orçamentária Anual - LOA.
+
+
+Art. 11.
+
+sta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Guaíra - PR, em 29 de setembro de 2010.  
+  
+Dr. MANOEL KUBA  
+Prefeito Municipal
+

@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/publicacao_da_lei_no_795.2018.pdf da norma Lei Ordinária nº 795, de 23 de agosto de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.colniza.mt.leg.br/media/sapl/public/anexonormajuridica/2018/1/publicacao_da_lei_no_795.2018.pdf",
+      "ano": 2018,
+      "norma": 1039
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/publicacao_da_lei_no_796.2018.pdf da norma Lei Ordinária nº 796, de 23 de agosto de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.colniza.mt.leg.br/media/sapl/public/anexonormajuridica/2018/2/publicacao_da_lei_no_796.2018.pdf",
+      "ano": 2018,
+      "norma": 1040
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/publicacao_da_lei_no_797.2018_na_amm.pdf da norma Lei Ordinária nº 797, de 23 de agosto de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.colniza.mt.leg.br/media/sapl/public/anexonormajuridica/2018/3/publicacao_da_lei_no_797.2018_na_amm.pdf",
+      "ano": 2018,
+      "norma": 1041
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.colniza.mt.leg.br/d711b4b7329a1aa6dcf2b4b020c65582e683c8ae40c4581eac7a1cdc1b322cfe.json",
+      "url": "https://sapl.colniza.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.colniza.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "db489c78d95cd7dc3f9ea59a3525df00fbb52598924f3fdc63c02aba925b06e1",
+      "bytes": 1391,
+      "capturado_em": "2026-10-27T22:51:02.041085-03:00"
+    }
+  ]
+}

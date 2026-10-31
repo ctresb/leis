@@ -1,0 +1,413 @@
+---
+titulo: "LEI ORDINÁRIA-GPRE nº 1.568, de 11 de abril de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1568"
+data: "2025-04-11"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2025-08-06; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1984"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/71/text"
+sha256_fonte: "03f58d4b1c307a3a3baaaeb7e64cc75fbe1b3a5e88f97b703b938cc6eea695d0"
+sha256_texto: "dee8b42f54d70a50b411933299fca0fd3f98ecca393e1660959b92aa730d7568"
+capturado_em_fonte: "2026-10-28T09:23:20.531016-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# LEI ORDINÁRIA-GPRE nº 1.568, de 11 de abril de 2025
+
+O PREFEITO DO MUNICÍPIO DE CORUMBIARA, ESTADO DE RONDÔNIA, no uso de suas atribuições que lhe são conferidas pela Constituição Federal e Lei Orgânica do Município de Corumbiara, faz saber que a Câmara Municipal de Vereadores aprovou e, ele sanciona e pública a seguinte:
+
+
+LEI:
+
+
+Art. 1º.
+
+**Art. 1º** Poderá o Executivo qualificar como organizações sociais pessoas jurídicas de direito privado, sem fins lucrativos, cujas atividades sejam dirigidas ao ensino, à pesquisa científica, ao desenvolvimento tecnológico, à proteção e preservação do meio ambiente, à cultura e à saúde, atendidos aos requisitos previstos nesta Lei.
+
+
+Art. 2º.
+
+**Art. 2º** São requisitos específicos para que as entidades privadas referidas no artigo anterior habilitem-se à qualificação como organização social:
+
+
+I –
+
+Comprovar o registro de seu ato constitutivo, dispondo sobre:
+
+
+a)
+
+Natureza social de seus objetivos relativos à respectiva área de atuação;
+
+
+b)
+
+finalidade não-lucrativa, com a obrigatoriedade de investimento de seus excedentes financeiros no desenvolvimento das próprias atividades;
+
+
+c)
+
+Previsão expressa de a entidade ter, como órgãos de deliberação superior e de direção, conselho de administração e diretoria nos termos do estatuto, assegurada a composição e as atribuições normativas e de controle básicas previstas nesta Lei;
+
+
+d)
+
+Previsão de participação, no órgão colegiado de deliberação superior, de representantes do Poder Público e de membros da comunidade, de notória capacidade profissional e idoneidade moral;
+
+
+e)
+
+Composição e atribuições da diretoria;
+
+
+f)
+
+obrigatoriedade de publicação anual, no Diário Oficial do Município, dos relatórios financeiros e do relatório de execução do contrato de gestão;
+
+
+g)
+
+no caso de associação civil, a aceitação de novos associados, na forma do estatuto;
+
+
+h)
+
+Proibição de distribuição de bens ou de parcela do patrimônio líquido em qualquer hipótese, inclusive em razão de desligamento, retirada ou falecimento de associado, ou membro da entidade; e
+
+
+i)
+
+Previsão de incorporação integral do patrimônio, dos legados ou das doações que lhe foram destinados, bem como dos excedentes financeiros decorrentes de suas atividades, em caso de extinção ou desqualificação, ao patrimônio de outra organização social qualificada no âmbito da União, da mesma área de atuação, ou ao patrimônio da União, dos Estados, do Distrito Federal ou dos Municípios, na proporção dos recursos e bens por estes alocados.
+
+
+II –
+
+Haver aprovação, quanto à conveniência e oportunidade de sua qualificação como organização social, do titular de órgão supervisor ou regulador da área de atividade correspondente ao seu objeto social; e
+
+
+III –
+
+Haver comprovação de, no mínimo, 3 (três) anos de funcionamento.
+
+
+##### Seção II — Do Conselho de Administração
+
+
+Art. 3º.
+
+O conselho de administração deve estar estruturado nos termos que dispuser o respectivo estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes critérios básicos:
+
+
+I –
+
+ser composto por:
+
+
+a)
+
+20 a 40% (vinte a quarenta por cento) de membros natos representantes do Poder Público, definidos pelo estatuto da entidade;
+
+
+b)
+
+20 a 30% (vinte a trinta por cento) de membros natos representantes de entidades da sociedade civil, definidos pelo estatuto;
+
+
+c)
+
+Até 10% (dez por cento), no caso de associação civil, de membros eleitos dentre os membros ou os associados;
+
+
+d)
+
+10 a 30% (dez a trinta por cento) de membros eleitos pelos demais integrantes do conselho, dentre pessoas de notória capacidade profissional e reconhecida idoneidade moral; e
+
+
+e)
+
+Até 10% (dez por cento) de membros indicados ou eleitos na forma estabelecida pelo estatuto.
+
+
+II –
+
+os membros eleitos ou indicados para compor o Conselho devem ter mandato de quatro anos, admitida uma recondução;
+
+
+III –
+
+Os representantes de entidades previstos nas alíneas "a" e "b" do inciso I devem corresponder a mais de 50% (cinquenta por cento) do Conselho;
+
+
+IV –
+
+o primeiro mandato de metade dos membros eleitos ou indicados deve ser de dois anos, segundo critérios estabelecidos no estatuto;
+
+
+V –
+
+O dirigente máximo da entidade deve participar das reuniões do conselho, sem direito a voto;
+
+
+VI –
+
+O Conselho deve reunir-se ordinariamente, no mínimo, três vezes a cada ano e, extraordinariamente, a qualquer tempo;
+
+
+VII –
+
+Os conselheiros não devem receber remuneração pelos serviços que, nesta condição, prestarem à organização social, ressalvada a ajuda de custo por reunião da qual participem; e
+
+
+VIII –
+
+os conselheiros eleitos ou indicados para integrar a diretoria da entidade devem renunciar ao assumirem funções executivas.
+
+
+Art. 4º.
+
+Para os fins de atendimento dos requisitos de qualificação, devem ser atribuições privativas do Conselho de Administração, dentre outras:
+
+
+I –
+
+fixar o âmbito de atuação da entidade, para consecução do seu objeto;
+
+
+II –
+
+aprovar a proposta de contrato de gestão da entidade;
+
+
+III –
+
+aprovar a proposta de orçamento da entidade e o programa de investimentos;
+
+
+IV –
+
+designar e dispensar os membros da diretoria;
+
+
+V –
+
+fixar a remuneração dos membros da diretoria;
+
+
+VI –
+
+aprovar e dispor sobre a alteração dos estatutos e a extinção da entidade por maioria, no mínimo, de dois terços de seus membros;
+
+
+VII –
+
+aprovar o regimento interno da entidade, que deve dispor, no mínimo, sobre a estrutura, forma de gerenciamento, os cargos e respectivas competências;
+
+
+VIII –
+
+aprovar por maioria, no mínimo, de dois terços de seus membros, o regulamento próprio contendo os procedimentos que deve adotar para a contratação de obras, serviços, compras e alienações e o plano de cargos, salários e benefícios dos empregados da entidade;
+
+
+IX –
+
+aprovar e encaminhar, ao órgão supervisor da execução do contrato de gestão, os relatórios gerenciais e de atividades da entidade, elaborados pela diretoria; e
+
+
+X –
+
+fiscalizar o cumprimento das diretrizes e metas definidas e aprovar os demonstrativos financeiros e contábeis e as contas anuais da entidade, com o auxílio de auditoria externa.
+
+
+##### Seção III — Do Contrato de Gestão
+
+
+Art. 5º.
+
+O contrato de gestão, elaborado de comum acordo entre o órgão ou entidade supervisora e a organização social, discriminará as atribuições, responsabilidades e obrigações do Poder Público e da organização social.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA-GPRE nº 1.585, de 06 de agosto de 2025.
+
+
+Art. 6º.
+
+Para os efeitos desta Lei, entende-se por contrato de gestão o instrumento firmado entre o Poder Público e a entidade qualificada como organização social, com vistas à formação de parceria entre as partes para fomento e execução de atividades relativas às áreas a que se refere o caput do artigo 1º desta Lei.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA-GPRE nº 1.585, de 06 de agosto de 2025.
+
+
+§ 1º
+
+A organização social da saúde deverá observar os princípios do Sistema Único de Saúde, expressos no art. 198 da Constituição da República Federativa do Brasil de 1988 e no art. 7º da Lei nº 8.080, de 19 de setembro de 1990.
+
+
+§ 2º
+
+2º A celebração dos contratos de que trata o caput deste artigo, com dispensa da realização de licitação na forma da Lei Federal 9.637, de 15 de maio de 1998, será precedida de publicação da minuta do contrato de gestão e de convocação pública das organizações sociais, através do Diário Oficial do Município, para que todas as interessadas em celebrá-lo possam se apresentar.
+
+
+Art. 7º.
+
+Na elaboração do contrato de gestão, devem ser observados os princípios da legalidade, impessoalidade, moralidade, publicidade, economicidade e, também, os seguintes preceitos:
+
+
+I –
+
+especificação do programa de trabalho proposto pela organização social, a estipulação das metas a serem atingidas e os respectivos prazos de execução, bem como previsão expressa dos critérios objetivos de avaliação de desempenho a serem utilizados, mediante indicadores de qualidade e produtividade; e
+
+
+II –
+
+a estipulação dos limites e critérios para despesa com remuneração e vantagens de qualquer natureza a serem pagas aos dirigentes e aos empregados das organizações sociais, no exercício de suas funções.
+
+
+Parágrafo único
+
+As autoridades supervisoras da área de atuação da entidade devem definir as demais cláusulas dos contratos de gestão de que sejam signatários.
+
+
+##### Seção IV — Da Execução e Fiscalização do Contrato de Gestão
+
+
+Art. 8º.
+
+A execução do contrato de gestão celebrado por organização social será fiscalizada pelo órgão ou entidade supervisora da área de atuação correspondente à atividade fomentada.
+
+
+§ 1º
+
+A entidade qualificada apresentará a entidade ou órgão do Poder Público supervisor signatário do contrato, ao término de cada exercício ou a qualquer momento, conforme recomende o interesse público, relatório pertinente à execução do contrato de gestão, contendo comparativo específico das metas propostas com os resultados alcançados, acompanhado da prestação de contas correspondente ao exercício financeiro.
+
+
+§ 2º
+
+Os resultados atingidos com a execução do contrato de gestão devem ser analisados, periodicamente, por comissão de avaliação, indicada pela autoridade supervisora da área correspondente.
+
+
+§ 3º
+
+A comissão deve encaminhar à autoridade supervisora relatório conclusivo sobre a avaliação procedida.
+
+
+Art. 9º.
+
+Os responsáveis pela fiscalização da execução do contrato de gestão, ao tomarem conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública por organização social, dela darão ciência à autoridade supervisora da respectiva área de atuação que deverá adotar mediadas para sanar o que for indicado, sob pena de responsabilidade solidária.
+
+
+Parágrafo único
+
+Não sendo sanadas as irregularidades ou ilegalidades apontadas, os responsáveis pela fiscalização deverão dar conhecimento ao Ministério Público e ao Tribunal de Contas.
+
+
+Art. 10.
+
+Qualquer cidadão, partido político, associação ou entidade sindical é parte legítima para denunciar irregularidades cometidas pelas organizações sociais ao Tribunal de Contas ou a Câmara Municipal de Vereadores.
+
+
+##### Seção V — Do Fomento às Atividades Sociais
+
+
+Art. 11.
+
+As entidades qualificadas como organizações sociais são declaradas como entidades de interesse social e utilidade pública, para todos os efeitos legais.
+
+
+Art. 12.
+
+Às organizações sociais poderão ser destinados recursos orçamentários e bens públicos necessários ao cumprimento do contrato de gestão.
+
+
+§ 1º
+
+São assegurados às organizações sociais os créditos previstos no orçamento e as respectivas liberações financeiras, de acordo com o cronograma de desembolso previsto no contrato de gestão.
+
+
+§ 2º
+
+Poderá ser adicionada aos créditos orçamentários destinados ao custeio do contrato de gestão parcela de recursos para compensar desligamento de servidor cedido, desde que haja justificativa expressa da necessidade pela organização social.
+
+
+§ 3º
+
+Os bens de que trata este artigo serão destinados às organizações sociais, mediante permissão de uso, consoante cláusula expressa do contrato de gestão.
+
+
+Art. 13.
+
+Os bens móveis públicos permitidos para uso poderão ser permutados por outros de igual ou maior valor, condicionado a que os novos bens integrem o patrimônio do Município.
+
+
+Parágrafo único
+
+A permuta de que trata este artigo dependerá de prévia avaliação do bem e expressa autorização da Câmara Municipal de Vereadores.
+
+
+Art. 14.
+
+É facultada ao Poder Executivo a cessão especial de servidor para as organizações sociais, com ônus para a origem.
+
+
+§ 1º
+
+Não será incorporada aos vencimentos ou à remuneração de origem do servidor cedido qualquer vantagem pecuniária que vier a ser paga pela organização social.
+
+
+§ 2º
+
+Não será permitido o pagamento de vantagem pecuniária permanente por organização social a servidor cedido com recursos provenientes do contrato de gestão, ressalvada a hipótese de adicional relativo ao exercício de função temporária de direção e assessoria.
+
+
+§ 3º
+
+O servidor cedido perceberá as vantagens do cargo a que fizer jus no órgão de origem, quando ocupante de cargo de primeiro ou de segundo escalão na organização social.
+
+
+Art. 15.
+
+São extensíveis, no âmbito do Município, os efeitos dos arts. 11 e 12, § 3º desta Lei, para as entidades qualificadas como organizações sociais pela União, Estados e pelo Distrito Federal, quando houver reciprocidade e desde que a legislação local não contrarie os preceitos desta Lei e a legislação específica de âmbito federal.
+
+
+##### Seção VI — Da Desqualificação
+
+
+Art. 16.
+
+O Poder Executivo poderá proceder à desqualificação da entidade como organização social, quando constatado o descumprimento das disposições contidas no contrato de gestão.
+
+
+§ 1º
+
+A desqualificação será precedida de processo administrativo, assegurado o direito de ampla defesa, respondendo os dirigentes da organização social, individual e solidariamente, pelos danos ou prejuízos decorrentes de sua ação ou omissão.
+
+
+§ 2º
+
+A desqualificação importará reversão dos bens permitidos e dos valores entregues à utilização da organização social, sem prejuízo de outras sanções cabíveis.
+
+
+#### CAPÍTULO II — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 17.
+
+A organização social fará publicar, no prazo máximo de 90 (noventa) dias contado da assinatura do contrato de gestão, regulamento próprio contendo os procedimentos que adotará para a contratação de obras e serviços, bem como para compras com emprego de recursos provenientes do Poder Público.
+
+
+Art. 18.
+
+Esta Lei será regulamentada por Decreto do Chefe do Poder Executivo.
+
+
+Art. 19.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Corumbiara - RO, 11 de abril de 2025.
+

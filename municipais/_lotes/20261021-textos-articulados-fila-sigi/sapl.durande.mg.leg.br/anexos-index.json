@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/projeto_de_lei_-_no_029_-_25_avaliacao_desempenho_professores.docx da norma Projeto de Lei Ordinaria-PREF nº 19, de 24 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.durande.mg.leg.br/media/sapl/public/anexonormajuridica/2025/1/projeto_de_lei_-_no_029_-_25_avaliacao_desempenho_professores.docx",
+      "ano": 2025,
+      "norma": 3
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/43cc6d4fe3d3cfdbc939c308bf3729c1503c0ade09d6b0eb5d5bfc880ddbe359.json",
+      "url": "https://sapl.durande.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.durande.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "40cb1a85f4ffac28dcf4a232d521f5180cfcaa545983aadb642ae84bdb81e8e3",
+      "bytes": 649,
+      "capturado_em": "2026-10-28T10:25:22.406856-03:00"
+    }
+  ]
+}

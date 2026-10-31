@@ -1,0 +1,1313 @@
+{
+  "estado": "indice_completo",
+  "total": 53,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/doem_-_no_947_-_09-10-2025.pdf da norma Portaria Diária-CMDI nº 70, de 29 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-09T17:08:30-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/1/doem_-_no_947_-_09-10-2025.pdf",
+      "ano": 2025,
+      "norma": 78
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/doem_-_no_949_-_15-10-2025.pdf da norma Portaria Diária-CMDI nº 71, de 24 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-15T16:57:02-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/2/doem_-_no_949_-_15-10-2025.pdf",
+      "ano": 2025,
+      "norma": 121
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/doem_-_no_958_-_30-10-2025.pdf da norma Portaria-CMDI nº 75, de 27 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-29T17:23:30-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/3/doem_-_no_958_-_30-10-2025.pdf",
+      "ano": 2025,
+      "norma": 122
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/doem_-_no_958_-_30-10-2025.pdf da norma Portaria-CMDI nº 76, de 27 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-29T17:23:30-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/4/doem_-_no_958_-_30-10-2025.pdf",
+      "ano": 2025,
+      "norma": 123
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/doem_-_no_958_-_30-10-2025.pdf da norma Portaria Diária-CMDI nº 72, de 20 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-29T17:23:30-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/5/doem_-_no_958_-_30-10-2025.pdf",
+      "ano": 2025,
+      "norma": 124
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/doem_-_no_958_-_30-10-2025.pdf da norma Portaria Diária-CMDI nº 73, de 20 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-29T17:23:30-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/6/doem_-_no_958_-_30-10-2025.pdf",
+      "ano": 2025,
+      "norma": 125
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/doem_-_no_958_-_30-10-2025.pdf da norma Portaria Diária-CMDI nº 74, de 21 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-29T17:23:30-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/7/doem_-_no_958_-_30-10-2025.pdf",
+      "ano": 2025,
+      "norma": 126
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/doem_-_no_960_-_05-11-2025.pdf da norma Portaria Diária-CMDI nº 77, de 03 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-10-29T18:14:13-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/8/doem_-_no_960_-_05-11-2025.pdf",
+      "ano": 2025,
+      "norma": 127
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/doem_-_no_963_-_10-11-2025.pdf da norma Portaria Diária-CMDI nº 78, de 04 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Geciran Saraiva Silva",
+                [
+                  "2025-11-11T11:35:25-03:00",
+                  "ICP-Brasil - Certificado PF A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/9/doem_-_no_963_-_10-11-2025.pdf",
+      "ano": 2025,
+      "norma": 128
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/doem_-_no_968_-_17-11-2025.pdf da norma Portaria-CMDI nº 79, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-11-17T17:37:16-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/10/doem_-_no_968_-_17-11-2025.pdf",
+      "ano": 2025,
+      "norma": 129
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/doem_-_no_968_-_17-11-2025.pdf da norma Portaria-CMDI nº 80, de 11 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-11-17T17:37:16-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/11/doem_-_no_968_-_17-11-2025.pdf",
+      "ano": 2025,
+      "norma": 130
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/12/doem_-_no_976_-_01-12-2025.pdf da norma Portaria Diária-CMDI nº 81, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-12-01T17:47:09-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/12/doem_-_no_976_-_01-12-2025.pdf",
+      "ano": 2025,
+      "norma": 132
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/13/doem_-_no_976_-_01-12-2025.pdf da norma Portaria Diária-CMDI nº 82, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-12-01T17:47:09-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/13/doem_-_no_976_-_01-12-2025.pdf",
+      "ano": 2025,
+      "norma": 133
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/14/doem_-_no_981_-_08-12-2025.pdf da norma Portaria-CMDI nº 83, de 04 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-12-08T16:06:19-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/14/doem_-_no_981_-_08-12-2025.pdf",
+      "ano": 2025,
+      "norma": 134
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/doem_-_no_984_-_12-12-2025.pdf da norma Portaria-CMDI nº 84, de 05 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-12-12T16:45:53-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/16/doem_-_no_984_-_12-12-2025.pdf",
+      "ano": 2025,
+      "norma": 135
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/17/doem_-_no_986_-_16-12-2025.pdf da norma Decreto-PMDI nº 147, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-12-16T17:55:32-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/17/doem_-_no_986_-_16-12-2025.pdf",
+      "ano": 2025,
+      "norma": 136
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/18/doem_-_no_988_-_18-12-2025.pdf da norma Portaria-CMDI nº 86, de 17 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-12-18T17:06:51-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/18/doem_-_no_988_-_18-12-2025.pdf",
+      "ano": 2025,
+      "norma": 137
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/19/doem_-_no_989_-_19-12-2025.pdf da norma Decreto-PMDI nº 148, de 19 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2025-12-19T17:37:26-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2025/19/doem_-_no_989_-_19-12-2025.pdf",
+      "ano": 2025,
+      "norma": 138
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/20/doem_-_no_1003_-_21-01-2026.pdf da norma Portaria Diária-CMDI nº 3, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-01-21T17:09:02-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/20/doem_-_no_1003_-_21-01-2026.pdf",
+      "ano": 2026,
+      "norma": 140
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/21/doem_-_no_1003_-_21-01-2026.pdf da norma Portaria Diária-CMDI nº 4, de 12 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-01-21T17:09:02-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/21/doem_-_no_1003_-_21-01-2026.pdf",
+      "ano": 2026,
+      "norma": 141
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/22/doem_-_no_1016_-_09-02-2026.pdf da norma Portaria Diária-CMDI nº 6, de 26 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-09T18:48:16-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/22/doem_-_no_1016_-_09-02-2026.pdf",
+      "ano": 2026,
+      "norma": 142
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/23/doem_-_no_1016_-_09-02-2026.pdf da norma Portaria Diária-CMDI nº 7, de 30 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-09T18:48:16-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/23/doem_-_no_1016_-_09-02-2026.pdf",
+      "ano": 2026,
+      "norma": 143
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/24/doem_-_no_1016_-_09-02-2026.pdf da norma Portaria Diária-CMDI nº 9, de 03 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-09T18:48:16-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/24/doem_-_no_1016_-_09-02-2026.pdf",
+      "ano": 2026,
+      "norma": 144
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/25/doem_-_no_1016_-_09-02-2026.pdf da norma Portaria Diária-CMDI nº 10, de 03 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-09T18:48:16-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/25/doem_-_no_1016_-_09-02-2026.pdf",
+      "ano": 2026,
+      "norma": 145
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/26/doem_-_no_1020_-_13-02-2026.pdf da norma Portaria-CMDI nº 17, de 12 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-13T16:47:41-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/26/doem_-_no_1020_-_13-02-2026.pdf",
+      "ano": 2026,
+      "norma": 147
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/27/doem_-_no_1025_-_25-02-2026.pdf da norma Portaria Diária-CMDI nº 12, de 05 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-25T18:27:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/27/doem_-_no_1025_-_25-02-2026.pdf",
+      "ano": 2026,
+      "norma": 148
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/28/doem_-_no_1025_-_25-02-2026.pdf da norma Portaria Diária-CMDI nº 13, de 09 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-25T18:27:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/28/doem_-_no_1025_-_25-02-2026.pdf",
+      "ano": 2026,
+      "norma": 149
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/doem_-_no_1025_-_25-02-2026.pdf da norma Portaria Diária-CMDI nº 15, de 09 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-25T18:27:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/29/doem_-_no_1025_-_25-02-2026.pdf",
+      "ano": 2026,
+      "norma": 151
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/30/doem_-_no_1025_-_25-02-2026.pdf da norma Portaria Diária-CMDI nº 16, de 09 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-25T18:27:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/30/doem_-_no_1025_-_25-02-2026.pdf",
+      "ano": 2026,
+      "norma": 152
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/31/doem_-_no_1025_-_25-02-2026.pdf da norma Portaria Diária-CMDI nº 17, de 09 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-25T18:27:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/31/doem_-_no_1025_-_25-02-2026.pdf",
+      "ano": 2026,
+      "norma": 153
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/32/doem_-_no_1025_-_25-02-2026.pdf da norma Portaria Diária-CMDI nº 18, de 19 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-25T18:27:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/32/doem_-_no_1025_-_25-02-2026.pdf",
+      "ano": 2026,
+      "norma": 154
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/33/doem_-_no_1025_-_25-02-2026.pdf da norma Portaria Diária-CMDI nº 19, de 18 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-02-25T18:27:40-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/33/doem_-_no_1025_-_25-02-2026.pdf",
+      "ano": 2026,
+      "norma": 155
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/34/retificacao_da_portaria_n_019_de_18_de_fevereiro_de_2026.pdf da norma Portaria Diária-CMDI nº 19, de 18 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/34/retificacao_da_portaria_n_019_de_18_de_fevereiro_de_2026.pdf",
+      "ano": 2026,
+      "norma": 155
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/35/doem_-_no_1043_-_24-03-2026.pdf da norma Portaria-CMDI nº 32, de 23 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-03-24T15:43:47-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/35/doem_-_no_1043_-_24-03-2026.pdf",
+      "ano": 2026,
+      "norma": 157
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/36/doem_-_no_1047_-_30-03-2026.pdf da norma Portaria-CMDI nº 34, de 30 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-03-30T17:27:58-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/36/doem_-_no_1047_-_30-03-2026.pdf",
+      "ano": 2026,
+      "norma": 159
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/37/doem_-_no_1056_-_15-04-2026.pdf da norma Portaria Diária-CMDI nº 37, de 10 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-04-15T18:18:35-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/37/doem_-_no_1056_-_15-04-2026.pdf",
+      "ano": 2026,
+      "norma": 169
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/38/doem_-_no_1057_-_16-04-2026.pdf da norma Portaria-CMDI nº 38, de 16 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-04-16T17:26:23-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/38/doem_-_no_1057_-_16-04-2026.pdf",
+      "ano": 2026,
+      "norma": 170
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/39/doem_-_no_1065_-_30-04-2026.pdf da norma Portaria Diária-CMDI nº 39, de 24 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-04-30T17:12:22-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/39/doem_-_no_1065_-_30-04-2026.pdf",
+      "ano": 2026,
+      "norma": 171
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/40/doem_-_no_1065_-_30-04-2026.pdf da norma Portaria Diária-CMDI nº 40, de 24 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-04-30T17:12:22-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/40/doem_-_no_1065_-_30-04-2026.pdf",
+      "ano": 2026,
+      "norma": 172
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/doem_-_no_1065_-_30-04-2026.pdf da norma Portaria Diária-CMDI nº 41, de 24 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-04-30T17:12:22-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/41/doem_-_no_1065_-_30-04-2026.pdf",
+      "ano": 2026,
+      "norma": 173
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/42/portaria_n_045_de_14_de_maio_de_2026.pdf da norma Portaria Diária-CMDI nº 45, de 14 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/42/portaria_n_045_de_14_de_maio_de_2026.pdf",
+      "ano": 2026,
+      "norma": 175
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/43/doem_-_no_1083_-_01-06-2026.pdf da norma Portaria Diária-CMDI nº 46, de 21 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-06-01T18:05:06-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/43/doem_-_no_1083_-_01-06-2026.pdf",
+      "ano": 2026,
+      "norma": 176
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/44/doem_-_no_1084_-_02-06-2026.pdf da norma Portaria-CMDI nº 47, de 02 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-06-02T16:34:57-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/44/doem_-_no_1084_-_02-06-2026.pdf",
+      "ano": 2026,
+      "norma": 177
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/45/doem_-_no_1087_-_09-06-2026.pdf da norma Portaria-CMDI nº 50, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-06-09T17:26:29-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/45/doem_-_no_1087_-_09-06-2026.pdf",
+      "ano": 2026,
+      "norma": 178
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/46/doem_-_no_1090_-_15-06-2026.pdf da norma Portaria-CMDI nº 48, de 01 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-06-15T17:44:27-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/46/doem_-_no_1090_-_15-06-2026.pdf",
+      "ano": 2026,
+      "norma": 179
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/47/doem_-_no_1090_-_15-06-2026.pdf da norma Portaria-CMDI nº 49, de 01 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-06-15T17:44:27-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/47/doem_-_no_1090_-_15-06-2026.pdf",
+      "ano": 2026,
+      "norma": 180
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/48/doem_-_no_1099_-_30-06-2026.pdf da norma Portaria-CMDI nº 52, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-06-30T17:15:15-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/48/doem_-_no_1099_-_30-06-2026.pdf",
+      "ano": 2026,
+      "norma": 181
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/49/doem_-_no_1099_-_30-06-2026.pdf da norma Portaria-CMDI nº 53, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-06-30T17:15:15-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/49/doem_-_no_1099_-_30-06-2026.pdf",
+      "ano": 2026,
+      "norma": 182
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/50/doem_-_no_1134_-_03-09-2026.pdf da norma Portaria-CMDI nº 69, de 03 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-09-03T17:14:22-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Diário Oficial do Município nº 1134 de 03 de setembro de 2026",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/50/doem_-_no_1134_-_03-09-2026.pdf",
+      "ano": 2026,
+      "norma": 198
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/51/doem_-_no_1137_-_10-09-2026.pdf da norma Portaria Diária-CMDI nº 67, de 27 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-09-10T17:49:04-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/51/doem_-_no_1137_-_10-09-2026.pdf",
+      "ano": 2026,
+      "norma": 199
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/52/doem_-_no_1137_-_10-09-2026.pdf da norma Portaria Diária-CMDI nº 68, de 27 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-09-10T17:49:04-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/52/doem_-_no_1137_-_10-09-2026.pdf",
+      "ano": 2026,
+      "norma": 200
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/53/doem_-_no_1157_-_13-10-2026.pdf da norma Portaria Diária-CMDI nº 72, de 05 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-10-13T16:33:54-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/53/doem_-_no_1157_-_13-10-2026.pdf",
+      "ano": 2026,
+      "norma": 201
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/54/doem_-_no_1157_-_13-10-2026.pdf da norma Portaria Diária-CMDI nº 73, de 07 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Dois Irmaos do Tocantins",
+                [
+                  "2026-10-13T16:33:54-03:00",
+                  "ICP-Brasil - Certificado PJ A1"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaosdotocantins.to.leg.br/media/sapl/public/anexonormajuridica/2026/54/doem_-_no_1157_-_13-10-2026.pdf",
+      "ano": 2026,
+      "norma": 202
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doisirmaosdotocantins.to.leg.br/81a05ff5bfd97fc83f445bcef43a0f5e3954a01b98f769025c9998004238c0ab.json",
+      "url": "https://sapl.doisirmaosdotocantins.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.doisirmaosdotocantins.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1afb6410ceef54a387e977cd49fd129f4dba70618e1425eefe25718db44edef0",
+      "bytes": 30174,
+      "capturado_em": "2026-10-28T09:48:20.441200-03:00"
+    }
+  ]
+}

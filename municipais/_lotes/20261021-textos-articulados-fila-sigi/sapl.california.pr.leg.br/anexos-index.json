@@ -1,0 +1,167 @@
+{
+  "estado": "indice_completo",
+  "total": 15,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/anexo_lei_1759_de_2019.pdf da norma Lei Ordinária Municipal nº 1.759, de 18 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Questionário sobre o comportamento usual da criança.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2019/1/anexo_lei_1759_de_2019.pdf",
+      "ano": 2019,
+      "norma": 364
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/ato_3_de_2022_pubicacao.pdf da norma Atos da Presidência nº 3, de 08 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Publicação.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2022/2/ato_3_de_2022_pubicacao.pdf",
+      "ano": 2022,
+      "norma": 553
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/pme_revisado_-_anexo_lei_1970.pdf da norma Lei Ordinária Municipal nº 1.970, de 11 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal de Educação",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2022/3/pme_revisado_-_anexo_lei_1970.pdf",
+      "ano": 2022,
+      "norma": 619
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/publicacao_dl_022020.pdf da norma Decreto Legislativo nº 2, de 01 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Plublicação no Diário Oficial dos Município do Paraná.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2020/4/publicacao_dl_022020.pdf",
+      "ano": 2020,
+      "norma": 443
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/integra_pdl_022020.pdf da norma Decreto Legislativo nº 2, de 01 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Íntegra do processo legislativo.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2020/5/integra_pdl_022020.pdf",
+      "ano": 2020,
+      "norma": 443
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/6/publicacao_dl_012022.pdf da norma Decreto Legislativo nº 1, de 09 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial dos Municípios do Paraná.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2022/6/publicacao_dl_012022.pdf",
+      "ano": 2022,
+      "norma": 592
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/7/integra_dl_012022.pdf da norma Decreto Legislativo nº 1, de 09 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Íntegra do processo legislativo.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2022/7/integra_dl_012022.pdf",
+      "ano": 2022,
+      "norma": 592
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/8/decreto_legislativo_02_de_2023_publicacao.pdf da norma Decreto Legislativo nº 2, de 04 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial dos municípios do Paraná.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2023/8/decreto_legislativo_02_de_2023_publicacao.pdf",
+      "ano": 2023,
+      "norma": 662
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/9/anexo_i_lei_2012_de_2023.pdf da norma Lei Ordinária Municipal nº 2.012, de 23 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2023/9/anexo_i_lei_2012_de_2023.pdf",
+      "ano": 2023,
+      "norma": 671
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/10/anexo_2_lei_2012_de_2023.pdf da norma Lei Ordinária Municipal nº 2.012, de 23 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2023/10/anexo_2_lei_2012_de_2023.pdf",
+      "ano": 2023,
+      "norma": 671
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/11/prublicacao_da_lei_830_de_2001.pdf da norma Lei Ordinária Municipal nº 830, de 18 de maio de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Publicação",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2001/11/prublicacao_da_lei_830_de_2001.pdf",
+      "ano": 2001,
+      "norma": 702
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/portaria_05_2024_publicacao.pdf da norma Portaria Legislativa nº 5, de 16 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial dos Municípios do Paraná da Portaria nº 05, de 16 de agosto de 2024, no dia 20/8/2024. Edição 3092.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2024/12/portaria_05_2024_publicacao.pdf",
+      "ano": 2024,
+      "norma": 748
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/portaria_05_2024_requerimento.pdf da norma Portaria Legislativa nº 5, de 16 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Requerimento de férias da servidora NAIR FEDEROVICZ MENDES DOS SANTOS.",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2024/13/portaria_05_2024_requerimento.pdf",
+      "ano": 2024,
+      "norma": 748
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/anexosloa2025.pdf da norma Lei Ordinária Municipal nº 2.110, de 17 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Relatórios da LOA para 2025",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2024/14/anexosloa2025.pdf",
+      "ano": 2024,
+      "norma": 771
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/15/lei_ordinaria_n_2208_de_2026_ldo_2027_anexos.pdf da norma Lei de Diretrizes Orçamentária nº 2.208, de 07 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.california.pr.leg.br/media/sapl/public/anexonormajuridica/2026/15/lei_ordinaria_n_2208_de_2026_ldo_2027_anexos.pdf",
+      "ano": 2026,
+      "norma": 920
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/40739a76e40ba1b69738d56ded5d04fd3471bc338b3be6c4946b7459b9f9cb7e.json",
+      "url": "https://sapl.california.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2f8b65851a538f30b1b14cc066d1c31eca0e696820725a04cc426df888c03910",
+      "capturado_em": "2026-10-20T20:50:33.017364",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.california.pr.leg.br/40739a76e40ba1b69738d56ded5d04fd3471bc338b3be6c4946b7459b9f9cb7e.json"
+    }
+  ]
+}

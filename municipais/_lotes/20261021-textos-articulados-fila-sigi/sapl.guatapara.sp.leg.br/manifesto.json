@@ -1,0 +1,42 @@
+{
+  "host": "sapl.guatapara.sp.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guatapara.sp.leg.br/af7c015972bfcffa9845a0f98115b8c98e6725be33a4c667de6ce0bf6e6a31be.json",
+    "url": "https://sapl.guatapara.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.guatapara.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ad64747805996dcbde6d82498cf2c77e5ae4f5261a573e5566bd6b0033c8c50f",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T13:42:10.142882-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guatapara.sp.leg.br/c7544cb0841b127e843f92b7b54077e1154c0bb0e2a38527899d8f0f6fad7ce0.json",
+    "url": "https://sapl.guatapara.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.guatapara.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fbad9fd572f2059927ef646c94165b5b38a47da3efde4067e74c440cb91c1219",
+    "bytes": 753,
+    "capturado_em": "2026-10-28T13:42:09.726885-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guatapara.sp.leg.br/a338c6e9326f109a112bba3c359b936736dc90098477986286eb3c663ccce12f.json",
+      "url": "https://sapl.guatapara.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.guatapara.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T13:42:11.936264-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

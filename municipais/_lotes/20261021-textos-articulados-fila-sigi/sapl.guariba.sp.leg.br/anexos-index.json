@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/convenio-funeraria-baldan.pdf da norma Resolução nº 3, de 18 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "CONTRATO PRIVADO DE PRESTAÇÃO DE SERVIÇOS DE ASSISTÊNCIA FUNERÁRIA.",
+      "anexo_arquivo": "http://sapl.guariba.sp.leg.br/media/sapl/public/anexonormajuridica/2018/1/convenio-funeraria-baldan.pdf",
+      "ano": 2018,
+      "norma": 3808
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/ata-portaria-14-2020.pdf da norma Portaria nº 14, de 05 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ATA DA COMISSÃO INSTAURADA PELA PORTARIA Nº 14/2020 - PARA AVALIAÇÃO E DEPRECIAÇÃO DE BENS INSERVÍVEIS DE PROPRIEDADE DA CÂMARA MUNICIPAL DE GUARIBA.",
+      "anexo_arquivo": "http://sapl.guariba.sp.leg.br/media/sapl/public/anexonormajuridica/2020/2/ata-portaria-14-2020.pdf",
+      "ano": 2020,
+      "norma": 4019
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guariba.sp.leg.br/27cc18151a3ed8f118954a97a7ae3bf9d789614b2dd050c27e19b924ca1d03a0.json",
+      "url": "https://sapl.guariba.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "86f27fe0268714c5499f28eb7b52c03bf63bd506da1c6adbc3eed3f1914808b5",
+      "capturado_em": "2026-10-20T20:50:48.600951",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.guariba.sp.leg.br/27cc18151a3ed8f118954a97a7ae3bf9d789614b2dd050c27e19b924ca1d03a0.json"
+    }
+  ]
+}

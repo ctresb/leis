@@ -1,0 +1,179 @@
+---
+titulo: "Resolução-CMB nº 1, de 18 de maio de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1"
+data: "2026-05-18"
+municipio: "Brejinho"
+uf: "RN"
+codigo_ibge: "2401800"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.brejinho.rn.leg.br/norma/4"
+fonte_texto: "https://sapl.brejinho.rn.leg.br/media/sapl/public/normajuridica/2026/4/pub._minuta_resolucao_-_regulamenta_a_lai_pr_no001-2026.pdf"
+sha256_fonte: "d75144804d0d92b8744922ccf3ef98122593d28778b5fe6ceb5c202693789bd7"
+sha256_texto: "b4449c877033cab5adbef25af699f2a2151ff298a0575c9a0f1726ccf749ba15"
+baixado_em: "2026-10-16"
+---
+
+# Resolução-CMB nº 1, de 18 de maio de 2026
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+CÂMARA MUNICIPAL DE BREJINHO - RESOLUÇÃO
+
+RESOLUÇÃO DE N.º 001/2026, DE 18 DE MAIO DE 2026. REGULAMENTA, NO ÂMBITO DA CÂMARA MUNICIPAL BREJINHO, A LEI FEDERAL Nº 12.527, DE 18 DE NOVEMBRO DE 2011, QUE DISPOE SOBRE O ACESSO AOS DADOS, INFORMAÇÕES E DOCUMENTOS DE INTERESSE DA SOCIEDADE E DO ESTADO
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE BREJINHO, ESTADO DO RIO GRANDE DO NORTE, no uso de suas atribuições legais, com base no Regimento Interno, e, Considerando que os princípios da publicidade, moralidade e transparência devem nortear a atividade administrativa estatal, conforme estabelece o art. 37 da Constituição Federal; Considerando o disposto na Lei n° 12.527, de 18 de novembro de 2011, que regula o acesso a informações previsto no inciso XXXIII do art. 5°, no inciso Il do § 3° do art. 37 e no § 2º do art. 216 da Constituição Federal; Considerando a necessidade de regulamentar a aplicação da citada Lei no âmbito da Câmara Municipal Brejinho; RESOLVE:
+
+#### CAPÍTULO I DISPOSIÇÕES GERAIS
+
+**Art. 1º.** Este Ato dispõe sobre o acesso aos dados, informações e documentos de interesse da sociedade e do Estado e à respectiva salvaguarda dos direitos individuais no que diz respeito ao acervo informacional da Câmara Municipal Brejinho.
+
+**Parágrafo único** O Poder Legislativo atuará de maneira a facilitar o acesso aos dados, informações e documentos de interesse coletivo ou geral, produzidos ou sob sua guarda, pautando-se pela transparência e publicidade em todos os seus atos, observadas as normas constitucionais e legais.
+
+**Art. 2º.** Para os efeitos desta Resolução, considera-se: 1 - informação: dados, processados ou não, que podem ser utilizados para produção e transmissão de conhecimento, contidos em qualquer meio, suporte ou formato;
+
+II - documento: unidade de registro de informações, qualquer que seja o suporte ou formato;
+
+III - informação sigilosa: aquela submetida temporariamente à restrição de acesso público em função de sua imprescindibilidade para a segurança da sociedade e do Estado;
+
+IV - informação pessoal: aquela relacionada à pessoa natural identificada ou identificável.
+
+**Art. 3º.** Os procedimentos previstos nesta Resolução se destinam a assegurar o direito fundamental de acesso à informação e devem ser executados em conformidade com as seguintes diretrizes: 1 - observância da publicidade como preceito geral e do sigilo como exceção;
+
+II - divulgação de informações de interesse público, independentemente de solicitações;
+
+III - utilização de meios de comunicação viabilizados pela tecnologia da informação;
+
+IV - desenvolvimento do controle social;
+
+V - garantia ao direito de acesso à informação, que será franqueada, mediante procedimentos objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão.
+
+#### CAPÍTULO II DO ACESSO À INFORMAÇÃO NA CÂMARA MUNICIPAL
+
+**Art. 4º.** Caberá ao responsável pela Controladoria do Legislativo a função de autoridade responsável pela implantação e supervisão dos serviços de acesso à informação no âmbito da Câmara Municipal, com as seguintes atribuições: 1 - assegurar o cumprimento das normas relativas ao acesso à informação, de forma eficiente e adequada aos objetivos da Lei n° 12.527/2011;
+
+II - deliberar e decidir sobre os pedidos de acesso à informação, garantindo-se aos interessados o direito ao recurso;
+
+III - monitorar a implementação do disposto na lei e apresentar relatórios periódicos sobre o seu cumprimento;
+
+IV - recomendar as medidas indispensáveis à implementação e ao aperfeiçoamento das normas e procedimentos necessários ao correto cumprimento do disposto na referida lei;
+
+V - orientar as respectivas unidades técnicas no que se refere ao cumprimento do disposto na lei e em seus regulamentos;
+
+VI - promover campanha interna de esclarecimento e fomento à cultura da transparência na administração pública e conscientização do direito fundamental de acesso à informação;
+
+VII - propor a capacitação dos servidores no que se refere ao desenvolvimento de práticas relacionadas à transparência na administração pública.
+
+**Art. 5º.** O acesso às informações públicas será assegurado por todos os meios e instrumentos legítimos à disposição da Câmara Municipal Brejinho, mediante: 1 - transparência ativa: divulgação e disponibilização obrigatória de informações à sociedade através de sítio oficial na rede mundial de computadores (Internet), independentemente de solicitação de qualquer interessado;
+
+II - transparência passiva: apresentação de pedido de acesso à informação por qualquer interessado, utilizando-se formulário próprio disponibilizado por meio físico ou eletrônico;
+
+III - criação do Serviço de Informação ao Cidadão -SIC, composto por todas as unidades produtoras de informação e documentação, sob a coordenação da Controladoria, com o objetivo de dar efetividade ao disposto no art. 9º, inciso I, da Lei n° 12.527/2011.
+
+**Parágrafo único** As informações de divulgação obrigatória deverão ser disponibilizadas através do Portal da Transparência, atendendo os princípios e normas de acessibilidade vigentes, sempre que possível.
+
+**Art. 6º.** Todos os órgãos da Câmara Municipal deverão assegurar o acesso à informação por meio da adoção dos procedimentos definidos neste Ato, relativamente à recepção, instrução e resposta aos pedidos de informação, propiciando meios para a divulgação de informações públicas de sua competência.
+
+**Parágrafo único** A garantia de acesso de que trata este Ato abrange as informações públicas acerca de atos, fatos, documentos ou informações que sejam próprios das competências do Poder Legislativo, excetuando-se as de natureza pessoal, ou, ainda, as sigilosas, nos termos da lei e da Constituição Federal.
+
+**Art. 7º.** A autoridade que indevidamente se recusar a responder pedido de informação estará sujeita às responsabilidades descritas na Lei n° 12.527/2011.
+
+**Art. 8º.** Compete à Secretaria Administrativa e Financeira prestar auxílio técnico- operacional às atribuições da Controladoria, especialmente no que se refere ao atendimento presencial de que trata o inciso | do art. 9° da Lei n° 12.527/2011.
+
+**Art. 9º.** Será assegurada a confidencialidade referente aos dados pessoais fornecidos nos pedidos de informação e nas manifestações enviadas pelos interessados.
+
+**Parágrafo único** A confidencialidade mencionada no caput deste artigo não se aplica às manifestações que oferecerem risco à segurança das autoridades ou instituições, que deverão ser encaminhadas à autoridade policial para as devidas providências.
+
+#### CAPÍTULO III DAS FORMAS DE ATENDIMENTO
+
+**Art. 10.** Qualquer pessoa tem direito de apresentar pedido de acesso a informações à Câmara Municipal Brejinho. Parágrafo 1º O pedido de acesso a informações deve conter a devida identificação do requerente, mediante o fornecimento de nome completo e número de documento de identidade expedido com valor legal, dados para contato e a especificação objetiva da informação requerida. Parágrafo 2º A pessoa jurídica deverá apresentar os documentos comprobatórios da sua existência e também do representante legal que apresentou o pedido, a dos seus respectivos poderes. Parágrafo 3º Sem prejuízo da proteção das informações e do cumprimento da legislação aplicável, a Câmara oferecerá meios para que o próprio requerente possa pesquisar a informação de que necessitar, principalmente quando a obtenção da informação solicitada demandar trabalhos adicionais. Parágrafo 4° Não serão atendidos pedidos de acesso à informação genéricos, desproporcionais, desarrazoados, ou que exijam trabalhos adicionais de análise, interpretação ou consolidação de dados ou informações. Parágrafo 5º Caso a informação solicitada esteja disponível ao público em formato impresso, eletrônico ou em qualquer outro meio de acesso universal, inclusive de transparência ativa, o requerente será verbalmente informado do lugar e forma pela qual poderá ser consultada, obtida ou reproduzida. Parágrafo 6º Não sendo possível autorizar ou conceder o acesso imediato à informação, a autoridade respectiva deverá promover a recepção do pedido, com sua inserção no Serviço de Informação ao Cidadão -SIC, para que seja respondido após os trâmites previstos neste Ato. Parágrafo 7º As informações deverão ser prestadas no prazo de 20 (vinte) dias, prorrogáveis por mais 10 (dez) dias, mediante justificativa expressa.
+
+**Art. 11.** Todo pedido de informação ou de copta de documentação encaminhado à Câmara Municipal será registrado no SIC, recebendo numeração protocolar que será informada ao requerente.
+
+**Parágrafo único** O pedido de informação autuado por qualquer dos canais de atendimento ao cidadão será encaminhado ao órgão detentor do documento ou informação e, em seguida, remetido para deliberação da Controladoria.
+
+**Art. 12.** Após análise do pedido de informação, a Câmara decidirá a respeito, devendo: 1 - comunicar a data, local e modo para se realizar a consulta, efetuar a reprodução ou obter a certidão relativa à informação;
+
+II - indicar as razões de fato ou de direito da recusa, total ou parcial, do acesso pretendido; ou
+
+III - comunicar que não possui a informação e indicar, se for do seu conhecimento, o órgão ou a entidade que a detém; Parágrafo 1º Se a informação ou documento puder ser disponibilizado através cópia impressa, caberá ao interessado promover a reprodução às suas expensas, sendo obrigatoriamente acompanhado por um servidor da Casa para realizar a extração em local apropriado. Parágrafo 2° As cópias reprográficas de documentos somente serão autenticadas, recebendo o carimbo de "confere com o original", caso haja pedido expresso do requerente neste sentido, no momento do requerimento inicial. Parágrafo 3º A informação armazenada em formato digital será fornecida desse modo, cabendo ao requerente disponibilizar mídia adequada para seu recebimento (CD, DVD, Pen Drive ou dispositivo similar).
+
+**Art. 13.** O serviço de fornecimento da informação é gratuito, salvo nas hipóteses de reprodução de documentos, situação em que deverá o interessado promove-lo às suas expensas.
+
+**Parágrafo único** Estará isento dos custos previstos neste artigo todo aquele cuja situação econômica não lhe permita fazê-lo sem prejuízo do sustento próprio ou da família, declarada nos termos da Lei n° 7.115, de 29 de agosto de 1983.
+
+**Art. 14.** Quando se tratar de informação contida em documento cuja manipulação possa prejudicar sua integridade, será oferecida à consulta cópia com certificação de que confere com o original.
+
+**Parágrafo único** Na impossibilidade de obtenção de cópias, o interessado poderá solicitar que, às suas expensas e sob supervisão de servidor público, a reprodução seja feita por outro meio que não ponha em risco a conservação do documento original.
+
+**Art. 15.** Havendo dúvida sobre o caráter ostensivamente público da informação ou documento, ou quanto à exequibilidade do atendimento do pedido, a Controladoria encaminhará consulta à Assessoria Jurídica . Parágrafo 1º Recebido o pedido de acesso a informação de natureza sigilosa, a autoridade competente para deliberar sobre ele poderá declarar, incidentalmente, mediante decisão circunstanciada, o caráter sigiloso da informação, cujo prazo de sigilo passará a ser contado desde sua produção. Parágrafo 2º Quando não for autorizado o acesso por se tratar de informação total ou parcialmente sigilosa, o requerente deverá ser informado sobre a possibilidade de recurso,
+
+prazos e condições para sua interposição, devendo, ainda, ser-lhe indicada a autoridade competente para sua apreciação. Parágrafo 3º O requerente tem o direito de obter o inteiro teor da decisão denegatória de acesso, por certidão ou cópia.
+
+**Art. 16.** Quando o pedido de acesso se referir a informação classificada, o requerente será informado sobre a limitação de acesso.
+
+**Parágrafo único** O pedido de desclassificação deverá ser registrado por algum dos canais de atendimento ao cidadão, observado o disposto no art. 10, e será encaminhado à autoridade classificadora, que decidirá fundamentadamente.
+
+#### CAPÍTULO IV DOS RECURSOS
+
+**Art. 17.** Na hipótese de indeferimento de acesso à informação, o interessado poderá interpor recurso contra a decisão por meio de protocolo próprio, no prazo de 1 O ( dez) dias a contar da sua ciência.
+
+**Art. 18.** O recurso contra decisão de indeferimento de acesso à informação será recebido, registrado e deliberado pelo Presidente da Câmara. CAPITULO V DAS RESTRIÇÕES DE ACESSO À INFORMAÇÃO
+
+##### Seção I Disposições Gerais
+
+**Art. 19.** O acesso aos dados, informações e documentos respeitará os direitos constitucionais de proteção à intimidade e privacidade, as hipóteses de sigilo de correspondência, fiscal, financeiro, telefônico, de comunicação de dados, de segredo de justiça, e as de segredo industrial ou comercial porventura sob a guarda da Câmara Municipal Brejinho, bem como as previstas no Regime Jurídico Único dos Servidores Municipais, no Regimento Interno da Câmara e demais normas e regulamentos da Edilidade.
+
+##### Seção II Da Classificação da Informação quanto ao Grau e Prazos de Sigilo
+
+**Art. 20.** Atendido o disposto no inciso XXXJI1 do Art. 5° da Constituição Federal, no art. 23 da Lei n° 12.527/11, bem como no Regimento Interno da Câmara, os dados, informações e documentos sigilosos produzidos ou sob a guarda do Poder Legislativo, observado o seu teor, poderão ser classificados como ultrassecretos, secretos ou reservados.
+
+**Parágrafo único** As informações e documentos produzidos no âmbito da Câmara , relativas ao exercício do mandato, estão salvaguardadas nos termos Municipal Brejinho
+
+art. 53, § 6º, da Constituição Federal.
+
+**Art. 21.** A Secretaria Administrativa realizará, nos termos desta norma, os estudos e levantamentos necessários à especificação e detalhamento dos critérios de enquadramento em cada um dos graus de sigilo.
+
+**Art. 22.** O grau de sigilo dos documentos produzidos ou sob a guarda da Câmara Municipal Brejinho será declarado pelo Presidente da Casa.
+
+**Art. 23.** Os prazos máximos de restrição de acesso aos dados, às informações e aos documentos sigilosos, conforme a classificação, vigoram a partir da data de sua produção e são os seguintes:
+
+I - ultrassecreto: 25 (vinte e cinco) anos;
+
+II - secreto: 15 (quinze) anos; e
+
+III - reservado: 5 (cinco) anos. Parágrafo 1° Alternativamente aos prazos previstos neste artigo, poderá ser estabelecida como termo final de restrição de acesso a ocorrência de determinado evento, desde que este ocorra antes do transcurso do prazo máximo de classificação. Parágrafo 2º Transcorrido o prazo de classificação ou consumado o evento que defina o termo final, a informação tornar-se-á, automaticamente, de acesso público.
+
+##### Seção III Da Proteção e do Controle de Informações
+
+**Art. 24.** É dever da Câmara Municipal Brejinho controlar o acesso e a divulgação de dados, documentos e informações sigilosos produzidos ou sob sua guarda, assegurando sua proteção. Parágrafo 1º O acesso, a divulgação e o tratamento de informação classificada como sigilosa ficarão restritos a pessoas que tenham necessidade de conhecê-la e que sejam devidamente credenciadas, sem prejuízo das atribuições dos agentes públicos autorizados por lei. Parágrafo 2º O acesso à informação classificada como sigilosa cria a obrigação para aquele que a obteve de resguardar o sigilo. Parágrafo 3º A Edilidade respeitará a classificação e prazos de restrição de acesso dos dados, informações e documentos sigilosos recebidos.
+
+**Art. 25.** O Poder Legislativo adotará as providências necessárias para divulgação das normas, medidas e procedimentos de segurança para tratamento de informações sigilosas.
+
+**Parágrafo único** A pessoa física ou jurídica que, em função de qualquer vínculo com a Câmara Municipal, executar atividades de tratamento de informações sigilosas, adotará as providências necessárias para que seus empregados, prepostos ou representantes observem as medidas e procedimentos de segurança das informações resultantes da aplicação deste Ato, inclusive mediante a assinatura de termo de ciência de obrigação de manutenção do sigilo, sob pena de responsabilização civil e criminal.
+
+##### Seção IV Das Informações Pessoais
+
+**Art. 26.** O tratamento das informações pessoais respeitará a intimidade, vida privada, honra e imagem das pessoas, bem como as liberdades e garantias individuais, e atenderá ao seguinte: 1 - as informações de que trata o caput deste artigo terão seu acesso restrito, independentemente de classificação de sigilo e pelo prazo máximo de 1 00 (cem) anos a contar da sua data de produção, a agentes públicos legalmente autorizados e à pessoa a que elas se referirem; e
+
+II - a divulgação ou acesso por terceiros poderá ser autorizado diante de previsão legal ou consentimento expresso da pessoa a que elas se referirem. Parágrafo 1º Aquele que obtiver acesso às informações de que trata este artigo será responsabilizado por seu uso indevido. Parágrafo 2º O consentimento referido neste artigo não será exigido quando as informações forem necessárias: 1 - à prevenção e diagnóstico médico, quando a pessoa estiver físico ou legalmente incapaz, e para utilização única e exclusivamente para o tratamento médico;
+
+Il - à realização de estatísticas e pesquisas científicas de evidente interesse público ou geral, previstos em lei, sendo vedada a identificação da pessoa a que as informações se referirem;
+
+III - ao cumprimento de ordem judicial;
+
+IV - à defesa de direitos humanos; ou
+
+V - à proteção do interesse público e geral preponderante. Parágrafo 3º A restrição de acesso à informação relativa à vida privada, honra e imagem de pessoa não poderá ser invocada com o intuito de prejudicar processo de apuração
+
+de irregularidades em que o titular das informações estiver envolvido, bem como em ações voltadas para a recuperação de fatos históricos de maior relevância.
+
+#### CAPÍTULO VI DAS DISPOSIÇÕES FINAIS
+
+**Art. 27.** O responsável pela Controladoria expedirá os atos complementares necessários à presente regulamentação.
+
+**Art. 28.** Esta Resolução entra em vigor na data de sua publicação. JOSÉ EDNAILSON DO NASCIMENTO Presidente FRANCISCO CARLOS CUSTÓDIO DA SILVA Vice-Presidente VERA LÚCIA DA SILVA NASCIMENTO 1ª Secretária FRANCISCO CANINDÉ GUIMARÃES CARVALHO 2° Secretário
+
+Publicado por: JOSE EDNAILSON DO NASCIMENTO Código Identificador: 58721361 FECAM Federação das Câmaras Municipais do RN - Rua da Saudade, 1877 - Lagoa Nova - Natal/RN - Tel.: (84) 3211-0845
+

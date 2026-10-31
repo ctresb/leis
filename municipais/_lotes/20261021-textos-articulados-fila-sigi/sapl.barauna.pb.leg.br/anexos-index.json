@@ -1,0 +1,83 @@
+{
+  "estado": "indice_completo",
+  "total": 5,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/diario-oficial-certificado-edicao-01188-2025-02-28.pdf da norma DECRETO LEGISLATIVO-GPRES nº 1, de 28 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Municipio de Barauna",
+                [
+                  "2025-02-28T00:20:01-03:00",
+                  "ICP-Brasil - videoconferencia"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barauna.pb.leg.br/media/sapl/public/anexonormajuridica/2025/1/diario-oficial-certificado-edicao-01188-2025-02-28.pdf",
+      "ano": 2025,
+      "norma": 2
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/pub._da__lei__no._669-20025_-_prog._educador_social_volutario.pdf da norma LEI ORDINÁRIA-EXEC nº 669, de 12 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Publicação",
+      "anexo_arquivo": "http://sapl.barauna.pb.leg.br/media/sapl/public/anexonormajuridica/2025/2/pub._da__lei__no._669-20025_-_prog._educador_social_volutario.pdf",
+      "ano": 2025,
+      "norma": 4
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/lei_no._670-2025._publicacao_plo4.pdf da norma LEI ORDINÁRIA-EXEC nº 670, de 25 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barauna.pb.leg.br/media/sapl/public/anexonormajuridica/2025/3/lei_no._670-2025._publicacao_plo4.pdf",
+      "ano": 2025,
+      "norma": 19
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/lei_no._671-2025._publicacao_plo5.pdf da norma LEI ORDINÁRIA-EXEC nº 671, de 25 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.barauna.pb.leg.br/media/sapl/public/anexonormajuridica/2025/4/lei_no._671-2025._publicacao_plo5.pdf",
+      "ano": 2025,
+      "norma": 20
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/anexado_res01.2026.pdf da norma EMENDA AO REGIMENTO INTERNO nº 3, de 22 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexado no mural da Câmara Municipal de baraúna",
+      "anexo_arquivo": "http://sapl.barauna.pb.leg.br/media/sapl/public/anexonormajuridica/2024/5/anexado_res01.2026.pdf",
+      "ano": 2024,
+      "norma": 405
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barauna.pb.leg.br/909407e6bbdcfb2efebd00ea82e5d164897796222e6ffd49f5d98cf044501553.json",
+      "url": "https://sapl.barauna.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.barauna.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2ebe635f83515e3f9533c718e5425de226511aa00e955ed5bd4104e16f503b5b",
+      "bytes": 2524,
+      "capturado_em": "2026-10-27T17:10:00.536872-03:00"
+    }
+  ]
+}

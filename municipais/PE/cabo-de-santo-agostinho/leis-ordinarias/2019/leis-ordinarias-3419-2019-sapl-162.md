@@ -1,0 +1,157 @@
+---
+titulo: "Lei Ordinária nº 3.419, de 09 de janeiro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3419"
+data: "2019-01-09"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-04-02; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/162"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/165/text"
+sha256_fonte: "2978bf9f5e73318e14db752bc65f6418e775cca7669820458012c6de4752f128"
+sha256_texto: "01988ad97128f02a09c7da686d3fc6d1f566762735e76e9b346c2b5699c636a4"
+capturado_em_fonte: "2026-10-27T21:38:16.115449-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.419, de 09 de janeiro de 2019
+
+Institui o auxílio alimentação no âmbito da Câmara Municipal do Cabo de Santo Agostinho.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.618, de 14 de julho de 2021.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DO CABO DE SANTO AGOSTINHO PROMULGA A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica Instituído o auxílio-alimentação aos servidores e parlamentares da Câmara Municipal do Cabo de Santo Agostinho.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.964, de 02 de abril de 2025.
+
+
+§ 1º
+
+Aos guardas de patrimônio, que trabalham em escala 12x36, será concedido o valor em dobro.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.602, de 17 de fevereiro de 2021.
+
+
+§ 2º
+
+O auxílio-alimentação destina-se a subsidiar as despesas com a refeição do servidor efetivo, sendo concedido em pecúnia mediante pagamento mensal, a ser incluído em folha de pagamento correspondente.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.602, de 17 de fevereiro de 2021.
+
+
+§ 3º
+
+Será pago quando o servidor se encontrar em licença para tratamento de saúde, em licença por motivo de doença em pessoa da família, em licença prêmio, em licença maternidade, em licença paternidade e férias.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.602, de 17 de fevereiro de 2021.
+
+
+§ 4º
+
+O valor máximo previsto para o auxílio-alimentação individual aos servidores, observada a existência de dotação orçamentária, fica estabelecido em R$ 500 (quinhentos reais), devendo ser atualizado através de Resolução
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.680, de 08 de fevereiro de 2022.
+
+
+§ 5º
+
+O valor do auxílio-alimentação para os parlamentares será fixado inicialmente em R$1.568 (um mil, quinhentos e sessenta e oito reais) devendo ser atualizado mediante resolução.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.680, de 08 de fevereiro de 2022.
+
+
+§ 6º
+
+Aos cargos lotados no Gabinete da Presidência poderá ser concedido ou suprimido o auxílio-alimentação disposto nesta lei, desde que haja disponibilidade financeira e orçamentária mediante discussão pela Mesa Diretora e publicado mediante portaria.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 3.964, de 02 de abril de 2025.
+
+
+Art. 2º.
+
+O valor do auxílio-alimentação, de que trata esta Lei, poderá ser atualizado anualmente, havendo disponibilidade orçamentária e financeira, de acordo com a variação do Índice de Preços ao Consumidor Amplo – IPCA - do Instituto Brasileiro de Geografia e Estatística – IBGE, ou outro que vier a substituí-lo.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.680, de 08 de fevereiro de 2022.
+
+
+Art. 3º.
+
+O auxílio alimentação instituído por esta Lei:
+
+
+§ 1º
+
+não tem natureza salarial ou remuneratória;
+
+
+§ 2º
+
+não se incorporará, para quaisquer efeitos, aos vencimentos ou proventos, bem como sobre ele não incidirá vantagem alguma a que faça jus o servidor;
+
+
+§ 3º
+
+Não será acumulável, sob qualquer forma, para cálculo simultâneo como os que importem em acréscimo de outra vantagem em pecúnia, como diárias, ajuda de custo, verbas indenizatórias, etc;
+
+
+§ 4º
+
+no mês em que houver acúmulo com as vantagens previstas no § 3º deste artigo, o pagamento será feito de forma proporcional aos dias em que não incidirem as vantagens previstas no parágrafo anterior;
+
+
+§ 5º
+
+será pago nas férias dos servidores
+
+
+§ 6º
+
+É vedado o seu pagamento nas licenças e afastamentos. Contudo, no mês em que houver licença ou afastamento em prazo menor que 30 dias, o pagamento será feito de forma proporcional aos dias trabalhados;
+
+
+§ 7º
+
+não será computado para efeito de décimo terceiro salário;
+
+
+§ 8º
+
+Não constituirá base de cálculo das contribuições ao Regime Próprio de Previdência Social do Município do Cabo de Santo Agostinho – Caboprev e não se configurará como rendimento tributável
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 3.602, de 17 de fevereiro de 2021.
+
+
+§ 9º
+
+(Revogado)
+
+Revogado pelo Art. 5º. - Lei Ordinária nº 3.618, de 14 de julho de 2021.
+
+
+Art. 4º.
+
+As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabo de Santo Agostinho, 09 de janeiro de 2019
+
+**VICENTE MENDES SILVA NETO**
+
+**Presidente**
+

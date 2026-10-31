@@ -1,0 +1,930 @@
+“DISPÕE SOBRE NORMAS PARA A IMPLANTAÇÃO E COMPARTILHAMENTO DE INFRAESTRUTURAS DE SUPORTE DE TELECOMUNICAÇÕES”.
+
+
+JOSÉ RICARDO RODRIGUES MATTAR, Prefeito Municipal de Igarapava, Estado de São Paulo, no uso de suas atribuições legais. FAZ SABER que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I
+
+#### CAPÍTULO I - DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica regulado, no âmbito do Município de Igarapava/SP, o licenciamento das infraestruturas de suporte e das Estações transmissoras de Radiocomunicação para Telecomunicações (ETR´s) pelas Detentoras, observada a competência municipal em matéria urbanística e ambiental e ainda o disposto na legislação federal pertinente.
+
+
+Parágrafo único
+
+Não estão sujeitos às prescrições previstas nesta Lei os radares militares e civis, com propósito de defesa ou controle de tráfego aéreo, bem como as infraestruturas de rádio navegação aeronáutica e as de telecomunicações aeronáuticas, fixas e móveis, destinadas a garantir a segurança das operações aéreas, cujos funcionamentos deverão obedecer à regulamentação própria.
+
+
+Art. 2º.
+
+Para os fins de aplicação desta Lei, e em conformidade com a regulamentação expedida pela Agência Nacional de Telecomunicações – ANATEL, considera-se:
+
+
+I –
+
+Antena: dispositivo para irradiar ou capturar ondas eletromagnéticas no espaço
+
+
+II –
+
+Detentora: pessoa física ou jurídica que detém, administra ou controla, direta ou indiretamente, uma infraestrutura de suporte;
+
+
+III –
+
+Estação transmissora de radiocomunicação (ETR): conjunto de equipamentos ou aparelhos, dispositivos e demais meios necessários à realização de comunicação, incluindo seus acessórios e periféricos, que emitem radiofrequências, possibilitando a prestação dos serviços de telecomunicações;
+
+
+IV –
+
+Estação transmissora de radiocomunicação móvel (ETR Móvel): ETR implantada para permanência temporária com a finalidade de cobrir demandas emergenciais e/ou específicas, tais como eventos, situações calamitosas ou de interesse público;
+
+
+V –
+
+Estação transmissora de radiocomunicação de pequeno porte (ETR de Pequeno Porte): conjunto de equipamentos de radiofrequência destinado a prover ou aumentar a cobertura ou capacidade de tráfego de transmissão de sinais de telecomunicações para a cobertura de determinada área, apresentando dimensões físicas reduzidas e que seja apto a atender aos critérios de baixo impacto visual, assim considerados aqueles que observam os requisitos definidos no art. 15 do Decreto Federal nº 10.480, de 1º de setembro de 2020;
+
+
+VI –
+
+Instalação externa: instalação em locais não confinados, tais como torres, postes, totens, topo de edificações, fachadas, caixas d'água etc.;
+
+
+VII –
+
+Instalação interna: instalação em locais internos, tais como no interior de edificações, centros comerciais, centros de convenção, etc;
+
+
+VIII –
+
+Infraestrutura de suporte: meios físicos fixos utilizados para dar suporte a redes de telecomunicações, entre os quais postes, torres, mastros, armários, estruturas de superfície e estruturas suspensas;
+
+
+IX –
+
+Poste: infraestrutura vertical cônica e autosuportada, de concreto ou constituída por chapas de aço, instalada para suportar as ETRs;
+
+
+X –
+
+Poste de energia ou poste de iluminação pública: infraestrutura de madeira, cimento, ferro ou aço destinada a sustentar linhas de transmissão e/ou distribuição de energia elétrica e iluminação pública, que pode suportar ETRs;
+
+
+XI –
+
+Prestadora: pessoa jurídica que detém concessão, permissão ou autorização para exploração de serviços de telecomunicações;
+
+
+XII –
+
+Torre: infraestrutura vertical transversal triangular ou quadrada, treliçada, que pode ser do tipo autosuportada ou estaiada; e
+
+
+XIII –
+
+Radiocomunicação: telecomunicação que utiliza frequências radioelétricas não confinadas a fios, cabos ou outros meios físicos.
+
+
+Art. 3º.
+
+As Infraestruturas de Suporte para Estação Transmissora de Radiocomunicação – ETR, ETR móvel e ETR de pequeno porte, ficam enquadradas na categoria de equipamento urbano e são considerados bens de utilidade pública e relevante interesse social, conforme disposto na Lei Federal nº 13.116/2015 – Lei Geral de Antenas, podendo ser implantadas em todas as zonas ou categorias de uso, desde que atendam exclusivamente ao disposto nesta Lei, além de observar os gabaritos de altura estabelecidos na Portarias do DECEA nº 145, nº146 e 147/DGCEA de 3 de agosto de 2020, do Comando Aeronáutica, ou outra que vier a substituí-la.
+
+
+§ 1º
+
+Em bens privados, é permitida a instalação de Infraestrutura de Suporte para Estação Transmissora de Radiocomunicação – ETR, ETR móvel e ETR de pequeno porte, mediante a devida autorização do proprietário do imóvel ou, quando não for possível, do possuidor do imóvel, observados os procedimentos previstos nas regras urbanísticas locais.
+
+
+§ 2º
+
+Nos bens públicos de todos os tipos, é permitida a instalação de Infraestrutura de Suporte para Estação Transmissora de Radiocomunicação – ETR, ETR móvel e ETR de pequeno porte, mediante Permissão de Uso ou Concessão de Direito Real de Uso, que será outorgada pelo órgão competente, da qual deverão constar as cláusulas convencionais e o atendimento aos parâmetros de ocupação dos bens públicos.
+
+
+§ 3º
+
+Nos bens públicos de uso comum do povo, a Permissão de Uso ou Concessão de Direito Real de Uso para implantação da Infraestrutura de Suporte para Estação Transmissora de Radiocomunicação – ETR, ETR móvel e ETR de pequeno porte, será outorgada pelo órgão competente a título não oneroso, nos termos da legislação federal.
+
+
+§ 4º
+
+Os equipamentos que compõem a Infraestrutura de Suporte e Estação Transmissora de Radiocomunicação – ETR, a ETR móvel e a ETR de pequeno porte, não são considerados áreas construídas ou edificadas para fins de aplicação do disposto na legislação de uso e ocupação do solo.
+
+
+§ 5º
+
+Será considerada de pequeno porte a infraestrutura de redes de telecomunicações que atender, cumulativamente, aos seguintes requisitos:
+
+
+I –
+
+Seja instalada em edificação ou estrutura existente e que não amplie sua altura em mais de três metros ou em mais de dez por cento, o que for menor;
+
+
+II –
+
+Possuir estrutura irradiante com volume total de até trinta decímetros cúbicos; e
+
+
+III –
+
+Possuir demais equipamentos associados com volume total de até trezentos decímetros cúbicos e com altura máxima de um metro.
+
+
+Art. 4º.
+
+O limite máximo de emissão de radiação eletromagnética, considerada a soma das emissões de radiação de todos os sistemas transmissores em funcionamento em qualquer localidade do Município, será aquele estabelecido em legislação e regulamentação federal para exposição humana aos campos elétricos, magnéticos ou eletromagnéticos.
+
+
+Parágrafo único
+
+Os órgãos municipais deverão oficiar à ANATEL, órgão regulador federal de telecomunicações competente para fiscalização, no caso de eventuais indícios de irregularidades quanto aos limites legais de exposição humana a campos elétricos, magnéticos e eletromagnéticos
+
+
+Art. 5º.
+
+A instalação de novas infraestruturas de suporte levará em conta a redução do impacto urbanístico, bem como observará as condições de compartilhamento de infraestruturas previstas nas regulamentações federais pertinentes.
+
+
+§ 1º
+
+A expedição da licença para instalação de nova infraestrutura de suporte será precedida de avaliação de eventual capacidade excedente nas infraestruturas existentes no entorno do local da pretendida instalação.
+
+
+§ 2º
+
+É obrigatório o compartilhamento da capacidade excedente de infraestruturas de suporte existentes, exceto quando houver justificado motivo técnico.
+
+
+§ 3º
+
+A construção e a ocupação de infraestruturas de suporte devem ser planejadas e executadas com vistas a permitir seu compartilhamento pelo maior número possível de prestadoras.
+
+
+#### CAPÍTULO II — DAS RESTRIÇÕES DE INSTALAÇÃO E OCUPAÇÃO DO SOLO
+
+
+Art. 6º.
+
+Visando à proteção da paisagem urbana, a instalação externa das infraestruturas de suporte deverá atender às seguintes disposições para viabilizar as ETR:
+
+
+I –
+
+Em relação à instalação de torres, metragem mínima a ser estabelecida em regulamento próprio do município, e
+
+
+II –
+
+Os equipamentos volumétricos instalados em postes devem observar a metragem de altura livre e as medidas superiores a serem estabelecidas em regulamento próprio do município.
+
+
+§ 1º
+
+Poderá ser autorizada a implantação de infraestrutura de suporte sem observância das limitações previstas neste artigo, nos casos de impossibilidade técnica para sua implantação, devidamente justificada junto aos órgãos Municipais competentes pelo interessado, mediante laudo que justifique a necessidade de sua instalação e indique os eventuais prejuízos caso não seja realizado.
+
+
+§ 2º
+
+As restrições estabelecidas nos incisos I e II não se aplicam aos demais itens da infraestrutura de suporte, tais como: containers, esteiramento, entre outros.
+
+
+§ 3º
+
+As restrições estabelecidas no inciso II, deste artigo, não se aplicam aos postes, edificados ou a edificar, em bens públicos de uso comum.
+
+
+Art. 7º.
+
+Poderá ser admitida a instalação de abrigos de equipamentos da ETR nos limites do terreno, desde que:
+
+
+I –
+
+Não exista prejuízo para a ventilação do imóvel vizinho; e
+
+
+II –
+
+Não seja aberta janela voltada para a edificação vizinha.
+
+
+Art. 8º.
+
+A instalação dos equipamentos de transmissão, contêineres, antenas, cabos e mastros no topo e fachadas de edificações é admitida desde que sejam garantidas condições de segurança previstas nas normas técnicas e legais aplicáveis.
+
+
+Art. 9º.
+
+Os equipamentos que compõem a ETR deverão receber, se necessário, tratamento acústico para que o ruído não ultrapasse os limites máximos permitidos e estabelecidos em legislação pertinente, quando possível
+
+
+Art. 10.
+
+Implantação das infraestruturas de suporte para as ETR’s deverá observar as seguintes diretrizes:
+
+
+I –
+
+Redução do impacto paisagístico, sempre que tecnicamente possível e economicamente viável, nos termos da legislação federal;
+
+
+II –
+
+Priorização da utilização de equipamentos de infraestrutura já implantados, como redes de iluminação pública, sistemas de videomonitoramento público, distribuição de energia e mobiliário urbano; e
+
+
+III –
+
+priorização do compartilhamento de infraestrutura no caso de implantação em torres de telecomunicação e sistema rooftop.
+
+
+#### CAPÍTULO III — DO LICENCIAMENTO
+
+
+Art. 11.
+
+O licenciamento municipal para a instalação das infraestruturas de suporte e das ETR´s terá por base as informações prestadas pelos requerentes em seus projetos, com a respectiva Anotação de Responsabilidade Técnica (ART) ou Registro de Responsabilidade Técnica, bem como a autorização expedida pela Anatel, quando for o caso.
+
+
+Parágrafo único
+
+O licenciamento de que trata o caput deste artigo refere-se à autorização do órgão municipal competente para a instalação das infraestruturas de suporte e ETRs, tendo por base as informações prestadas pelos requerentes e o disposto na legislação local aplicável ao caso.
+
+
+Art. 12.
+
+O prazo para emissão da Licença é de até 60 dias, contados da data do protocolo do requerimento com apresentação integral dos documentos, além do comprovante do recolhimento da taxa de licenciamento, conforme o disposto na legislação tributária local.
+
+
+§ 1º
+
+Considera-se como data do protocolo para fins de início da contagem do prazo para emissão da Licença a do último requerimento contendo a apresentação integral da documentação necessária para análise técnica.
+
+
+§ 2º
+
+O prazo de que trata o caput fica suspenso quando:
+
+
+I –
+
+Houver necessidade de manifestação de órgão ou entidade de outro ente federativo, pelo período compreendido entre o envio dos autos ao órgão ou entidade demandada e sua recepção no órgão demandante;
+
+
+II –
+
+Houver necessidade de cumprimento de exigências por parte do requerente, pelo período compreendido entre o recebimento da notificação e o protocolo de documentação com cumprimento das exigências.
+
+
+Art. 13.
+
+Transcorrido o prazo estabelecido no art. 12 sem emissão da Licença, observadas as hipóteses de suspensão, considera-se realizado o licenciamento tácito, devendo o requerente solicitar do órgão responsável a certificação do transcurso do prazo.
+
+
+§ 1º
+
+O licenciamento tácito é precário e não exime o responsável pela infraestrutura de dar prosseguimento ao processo administrativo e atender aos requisitos e condicionantes estabelecidos no decorrer do processo de licenciamento, bem como às adequações necessárias, sob pena de incorrer nas infrações e penalidades estabelecidas, inclusive remoção da infraestrutura.
+
+
+§ 2º
+
+O arquivamento do processo administrativo, por inércia do requerente, implicará na nulidade do licenciamento tácito de que trata o caput.
+
+
+Art. 14.
+
+A Licença das infraestruturas de suporte e para as ETRs terá validade de 10 anos, contados da publicação do extrato da licença, e pode ser renovada por iguais e sucessivos períodos.
+
+
+Art. 15.
+
+A renovação da Licença das infraestruturas de suporte e para as ETRs deverá ser requerida pelo interessado mediante a apresentação de:
+
+
+I –
+
+Requerimento, na forma de regulamento;
+
+
+II –
+
+Apresentação de Anotação de Responsabilidade Técnica –ART., de manutenção das estruturas de sustentação dos equipamentos registrada no Conselho Regional de Engenharia e Agronomia, com prazo de vigência dez anos.
+
+
+III –
+
+cópia do projeto de locação da infraestrutura, em formato estabelecido pelo ente local
+
+
+IV –
+
+Fotografia atual do local de implantação, mostrando a infraestrutura instalada; e
+
+
+VI - Cópia do Contrato Social ou Estatuto, CNPJ e Cadastro Fiscal no Município;
+
+
+Parágrafo único
+
+O órgão responsável do Município pode solicitar, de forma justificada, documentos adicionais, além dos previstos no caput deste artigo.
+
+
+Art. 16.
+
+O compartilhamento da capacidade excedente da infraestrutura de telecomunicações deve observar a legislação específica e em especial as normas regulatórias vigentes.
+
+
+Art. 17.
+
+A dispensa de licenciamento fica condicionada ao prévio cadastramento da infraestrutura de telecomunicações no órgão responsável do Município e se aplica aos casos expressos no artigo 3º, §5° desta Lei, observando o que segue:
+
+
+I –
+
+Para as ERBs de Pequeno Porte: Procedimento Simplificado autorizativo para a Instalação de Infraestrutura para ERBs de Pequeno Porte;
+
+
+II –
+
+Para as demais ERBs:
+
+
+a)
+
+Alvará de Instalação de Infraestrutura de Suporte para ERB, mediante aprovação do respectivo projeto;
+
+
+b)
+
+Certificado de Conclusão de Obra ou Habite-se.
+
+
+c)
+
+Legislações correlatas
+
+
+§ 1º
+
+Quando se tratar de ETR de pequeno porte em área pública, necessariamente deverá haver autorização ou permissão de uso expedida pelo Executivo Municipal.
+
+
+§ 2º
+
+O compartilhamento de infraestruturas que implique em aumento de área da infraestrutura implantada deve ser submetido à análise técnica e aprovação, para aditamento da licença emitida para infraestrutura compartilhada e, se em área pública, aditamento do respectivo contrato de concessão de uso.
+
+
+§ 3º
+
+A dispensa prevista no caput se aplica exclusivamente a Licença, sem prejuízo dos demais procedimentos e autorizações necessárias à implantação da infraestrutura de telecomunicações.
+
+
+Art. 18.
+
+O requerimento para o cadastramento deve ser apresentado pelo responsável pela infraestrutura ou pelo equipamento a ser instalado, contendo, quando couber:
+
+
+I –
+
+Requerimento padrão, na forma do regulamento;
+
+
+II –
+
+\- Comprovante de pagamento da Taxa de Cadastramento;
+
+
+III –
+
+Autorização do concessionário, permissionário, órgão ou entidade responsável, e indicação da portaria conjunta de aprovação do modelo, quando localizado em mobiliário urbano;
+
+
+IV –
+
+Autorização do proprietário do imóvel ou possuidor do imóvel, acompanhada de documento hábil que ateste a posse, concessão ou propriedade, quando localizado em propriedade privada ou em terras públicas de propriedade do Município;
+
+
+V –
+
+Licença de funcionamento do conjunto de equipamentos e aparelhos componentes da infraestrutura de telecomunicações expedida pela Agência Nacional de Telecomunicações – Anatel; e
+
+
+VI –
+
+Autorização para compartilhamento da infraestrutura de suporte, emitida pela empresa detentora, em favor da empresa compartilhante.
+
+
+§ 1º
+
+Nos casos de compartilhamento de infraestrutura de suporte já licenciada, além da apresentação do requerimento padrão definido em regulamento, o cadastramento de que trata o caput deste artigo será realizado mediante a apresentação de:
+
+
+I –
+
+Autorização para compartilhamento da infraestrutura de suporte, emitida pela empresa detentora em favor da empresa compartilhante, ou contrato de compartilhamento firmado entre as partes, se o caso;
+
+
+II –
+
+Cópia da Licença e do Contrato de Concessão, se for o caso;
+
+
+III –
+
+Projetos de implantação dos equipamentos a serem instalados na infraestrutura de suporte já licenciada;
+
+
+IV –
+
+Memorial descritivo dos equipamentos;
+
+
+V –
+
+Anotação de Responsabilidade Técnica - ART ou Registro de Responsabilidade Técnica - RRT de projeto; e
+
+
+VI –
+
+Anotação de Responsabilidade Técnica - ART ou Registro de Responsabilidade Técnica - RRT de instalação ou montagem dos equipamentos.
+
+
+§ 2º
+
+O órgão gestor responsável do Município pode solicitar, de forma justificada, documentos adicionais, além dos previstos no presente artigo.
+
+
+Art. 19.
+
+Será objeto de novo licenciamento, as modificações de infraestruturas de telecomunicações com padrões e características técnicas equiparadas às anteriores já licenciadas, nos casos de alteração de características técnicas que aumentem a área da infraestrutura implantada, mesmo que decorrentes do processo de remanejamento, substituição ou modernização tecnológica.
+
+
+Art. 20.
+
+Nos casos de dispensa da Licença, após aprovação técnica do requerimento do interessado, o órgão gestor responsável do Município deve emitir Certificado de Cadastramento, observado o modelo constante em regulamento próprio.
+
+
+Art. 21.
+
+O órgão gestor responsável do Município deve manter banco de dados atualizado das infraestruturas dispensadas de licenciamento para fins de fiscalização pelo órgão competente.
+
+
+Art. 22.
+
+Sem prejuízo da aplicação das sanções previstas nesta Lei, constatada ilegalidade insanável no processo de emissão da Licença, o ato será anulado pela autoridade competente, assegurado o direito de ampla defesa ao interessado.
+
+
+Parágrafo único
+
+A anulação da Licença decorrente de vício de legalidade insanável não gera direito de indenização ao particular e produz o mesmo efeito no Contrato de Concessão de Uso celebrado, quando for o caso.
+
+
+Art. 23.
+
+O órgão gestor responsável do Município pode revogar a Licença por razões de oportunidade e conveniência, desde que devidamente motivado em interesse público.
+
+
+§ 1º
+
+O órgão competente perante o qual tramita o processo administrativo deve notificar o interessado para ciência da revogação e das eventuais diligências necessárias à formalização do ato.
+
+
+§ 2º
+
+A notificação do interessado deve ser efetuada por ciência nos autos do processo, ou por qualquer outro meio que assegure a certeza da ciência da decisão.
+
+
+§ 3º
+
+A decisão que concluir pela revogação da Licença deve observar os direitos do interessado decorrentes do ato de licenciamento até a data da revogação.
+
+
+Art. 24.
+
+O processo de licenciamento ambiental e a aprovação nos órgãos de proteção do patrimônio, quando for necessário, ocorrerá de maneira integrada observando a legislação ambiental federal, estadual e municipal aplicada à atividade.
+
+
+#### CAPÍTULO IV — DA FISCALIZAÇÃO E DAS SANÇÕES
+
+
+Art. 25.
+
+
+I –
+
+Realizar a fiscalização, a qualquer tempo, das infraestruturas de suporte e para as ETR´s no território do Município, a fim de verificar a adequação ao projeto aprovado, a regularidade da respectiva licença e o estado de conservação das estruturas;
+
+
+II –
+
+Adotar as providências cabíveis no caso de descumprimento desta Lei e demais legislações aplicáveis;
+
+
+III –
+
+\- Acionar, em caso de risco ou danos a terceiros, a Defesa Civil do Município e o Corpo de Bombeiros da região;
+
+
+IV –
+
+Manter, em banco de dados próprio, o controle de validade e as eventuais renovações das licenças;
+
+
+V –
+
+Efetuar a remoção os equipamentos instalados em área pública em desacordo com a legislação vigente; e
+
+
+VI –
+
+Aplicar as sanções previstas nesta Lei
+
+
+Art. 26.
+
+Considera-se infração toda conduta omissiva ou comissiva, que resulte em descumprimento aos parâmetros estabelecidos nesta Lei.
+
+
+Art. 27.
+
+Considera-se infrator, a pessoa física ou jurídica, de direito público ou privado, que se omitir ou praticar ato em desacordo com esta Lei, ou que induzir, auxiliar ou constranger alguém a fazê-lo.
+
+
+Art. 28.
+
+Para fins dessa Lei, a prática de infração especificada na forma do Art. 26, é punível com as seguintes sanções:
+
+
+I –
+
+Advertência;
+
+
+II –
+
+Multa;
+
+
+III –
+
+Embargo parcial ou total da obra de implantação de infraestrutura de telecomunicações;
+
+
+IV –
+
+Interdição parcial ou total da obra de implantação de infraestrutura de telecomunicações; e
+
+
+V –
+
+Remoção da infraestrutura instalada.
+
+
+Parágrafo único
+
+As sanções especificadas no caput podem ser aplicadas de forma cumulativa, sem prejuízo de sanções civis, penais e administrativas, quando for o caso.
+
+
+Art. 29.
+
+A advertência é a sanção pela qual o infrator é advertido pelo cometimento de infração verificada na obra de implantação ou na infraestrutura já implantada e em que se estabelece prazo para sanar a irregularidade, aplicada apenas nos casos em que a irregularidade é passível de regularização.
+
+
+Art. 30.
+
+Constatada a existência de infração sujeita à penalidade de advertência, o órgão de fiscalização do Município realizará a notificação, devendo o interessado providenciar a adequação necessária, sob pena de aplicação das demais penalidades previstas no art. 28 desta Lei.
+
+
+§ 1º
+
+Caso a infração constatada seja uma das condutas previstas no art. 34, a advertência deve ser acompanhada de aplicação de multa.
+
+
+§ 2º
+
+Fica estabelecido o prazo de 90 dias, a contar do recebimento da advertência, para adequação da implantação da infraestrutura de telecomunicações ao disposto nesta Lei.
+
+
+§ 3º
+
+A notificação deve conter a descrição da irregularidade verificada, o prazo para adequação e, se houver, o valor da multa aplicada, nos termos deste Decreto.
+
+
+§ 4º
+
+Caso não realize a adequação necessária no prazo do §2º, o responsável pela infraestrutura deverá ser notificado do embargo da obra ou infraestrutura de telecomunicações.
+
+
+Art. 31.
+
+O embargo da obra ou da infraestrutura de telecomunicações é aplicado:
+
+
+I –
+
+No descumprimento da advertência, após expirado o prazo consignado para correção das irregularidades;
+
+
+II –
+
+Imediatamente, quando não for passível de regularização.
+
+
+Parágrafo único
+
+Admite-se o embargo parcial, quando não acarretar riscos a operários e terceiros.
+
+
+Art. 32.
+
+A interdição da obra ou da infraestrutura de telecomunicações é aplicada:
+
+
+I –
+
+Em casos de descumprimento de embargo;
+
+
+II –
+
+Imediatamente, sempre que a obra ou a infraestrutura apresente situação de risco iminente a operários ou terceiros.
+
+
+§ 1º
+
+Admite-se a interdição parcial quando não acarrete riscos a operários ou terceiros.
+
+
+§ 2º
+
+No descumprimento da interdição, o responsável pela infraestrutura de telecomunicações será notificado para a remoção da infraestrutura no prazo de 90 dias, às suas expensas, sem prejuízo de, em caso de inércia do responsável, remoção por parte do órgão de fiscalização de atividades urbanas, às custas do infrator.
+
+
+Art. 33.
+
+Para efeito de aplicação da sanção de multa, as infrações são classificadas como de natureza leve, média, grave e gravíssima.
+
+
+§ 1º
+
+São infrações de natureza leve:
+
+
+I –
+
+Não adotar as medidas necessárias à mitigação do impacto visual negativo e das interferências com o meio ambiente natural e construído; dispostos nas normas locais de maneira específica para as ETRs.
+
+
+II –
+
+Desobedecer às normas e resoluções de sinalização, estabelecidas pela ABNT.
+
+
+§ 2º
+
+São infrações de natureza média:
+
+
+I –
+
+Não realizar as adequações solicitadas pelo órgão competente, no prazo estabelecido nesta Lei;
+
+
+II –
+
+Deixar de respeitar a visibilidade da sinalização de trânsito na implantação de infraestrutura de suporte para redes de telecomunicações;
+
+
+III –
+
+Deixar de manter permanentemente disponível para a fiscalização a documentação referente à aprovação e ao licenciamento; e
+
+
+§ 3º
+
+São infrações de natureza grave:
+
+
+I –
+
+Implantar infraestrutura de telecomunicações sem o devido licenciamento ou que não atenda aos parâmetros de dispensa deste;
+
+
+II –
+
+Impedir ou embaraçar a atividade de fiscalização;
+
+
+III –
+
+não retirar a infraestrutura de telecomunicações, no prazo máximo de 180 dias após o término de validade da licença, respeitados os em processo de renovação;
+
+
+IV –
+
+Obstruir a circulação de veículos, pedestres ou ciclistas;
+
+
+V –
+
+Prejudicar o uso de praças e parques;
+
+
+VI –
+
+Desrespeitar os projetos urbanísticos e paisagísticos da área previstos e indicados;
+
+
+VII –
+
+Desrespeitar as restrições urbanísticas e ambientais;
+
+
+VIII –
+
+Interferir na visualização e no acesso às edificações tombadas e suas respectivas áreas de entorno, assim declaradas pela legislação específica;
+
+
+IX –
+
+Implantar a infraestrutura de telecomunicações em desconformidade com a Licença ou com o certificado de cadastramento;
+
+
+X –
+
+Impedir ou embaraçar o compartilhamento da infraestrutura; e
+
+
+XI –
+
+Deixar de recuperar outras redes eventualmente afetadas e a área pública danificada, nos mesmos padrões de qualidade, quando houver dano gerado pela implantação da infraestrutura de telecomunicações, no prazo máximo de 30 dias.
+
+
+§ 4º
+
+São infrações gravíssimas:
+
+
+I –
+
+Apresentar documentos e declarações falsas no processo de licenciamento, cadastramento e fiscalização;
+
+
+II –
+
+Deixar de observar as normas de segurança aplicáveis aos equipamentos e infraestruturas implantados e às respectivas obras de implantação, gerando risco potencial a terceiros e a edificações vizinhas;
+
+
+III –
+
+Não garantir que a implantação da infraestrutura de telecomunicações ocorra sob a responsabilidade de profissional habilitado e após o devido licenciamento;
+
+
+IV –
+
+Deixar de observar a capacidade de carga do solo, da estrutura da edificação ou da infraestrutura de telecomunicações; e
+
+
+Art. 34.
+
+As multas serão aplicadas com base em valores de referência:
+
+
+I –
+
+Infração leve: R$ 5.000,00;
+
+
+II –
+
+Infração média: R$ 10.000,00;
+
+
+III –
+
+Infração grave: R$ 15.000,00; e
+
+
+IV –
+
+Infração gravíssima: R$ 20.000,00.
+
+
+Art. 35.
+
+Nos casos de reincidência ou de infração continuada, aplicam-se em dobro as sanções.
+
+
+Art. 36.
+
+A sanção de multa deve ser aplicada sem prejuízo das demais obrigações necessárias à correção das irregularidades constatadas.
+
+
+Art. 37.
+
+A remoção da infraestrutura de telecomunicações é imposta quando não for possível a regularização da infraestrutura ou quando descumpridos os termos da interdição.
+
+
+Parágrafo único
+
+O pagamento das despesas, a impugnação administrativa das sanções aplicadas e a devolução dos materiais eventualmente apreendidos atendem aos procedimentos estabelecidos na legislação local específica.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 38.
+
+Todas as Estações Transmissora de Radiocomunicação que se encontrem em operação na data de publicação desta Lei ficam sujeitas à verificação do atendimento aos limites estabelecidos nesta Lei, através da apresentação da Licença Para Funcionamento de Estação expedida pela Agência Nacional de Telecomunicações - ANATEL, sendo que as licenças já emitidas continuam válidas.
+
+
+§ 1º
+
+Fica concedido o prazo de cento e oitenta dias, contados da publicação desta Lei, podendo ser prorrogado por igual período a critério do Poder Executivo, para que as prestadoras apresentem a Licença para Funcionamento de Estação expedida pela Agência Nacional de Telecomunicações para as Estações Rádio Base referidas no caput deste artigo e requeiram a expedição de documento comprobatório de sua regularidade perante o Município.
+
+
+§ 2º
+
+O prazo para análise do pedido referido no parágrafo acima será de 60 dias contados da data de apresentação do requerimento acompanhado da Licença para Funcionamento de Estação expedida pela Agência Nacional de Telecomunicações para a Estação transmissora de radiocomunicação.
+
+
+§ 3º
+
+Findo o prazo estabelecido no §2º, se o órgão licenciador municipal não houver finalizado o processo de expedição de documento comprobatório de regularidade, a empresa requerente estará habilitada a continuar operando a Estação Transmissora de Radiocomunicação de acordo com as condições estabelecidas na licença para funcionamento da ANATEL, até que o documento seja expedido.
+
+
+§ 4º
+
+Após as verificações ao disposto neste artigo, e com o cumprimento dos prazos estabelecidos e apresentação da Licença Para Funcionamento de Estação expedida pela Agência Nacional de Telecomunicações, cabe ao Poder Público emitir Termo de Regularidade da Estação transmissora de radiocomunicação.
+
+
+Art. 39.
+
+As infraestruturas de suporte para equipamentos de telecomunicações que estiverem implantadas até a data de publicação desta Lei, e que não estejam ainda devidamente licenciadas perante o Município nos termos desta Lei, ficam sujeitas à verificação do atendimento aos requisitos aqui estabelecidos.
+
+
+§ 1º
+
+Fica concedido o prazo de 180 (cento e oitenta) dias, contado da publicação desta lei, podendo ser renovado por igual período a critério do poder executivo municipal, para que as detentoras requeiram a expedição de documento comprobatório de sua regularidade perante o Município.
+
+
+§ 2º
+
+º Nos casos de não cumprimento dos parâmetros da presente lei, será concedido o prazo de até 10 anos para adequação das infraestruturas de suporte mencionadas no caput.
+
+
+§ 3º
+
+Em casos de eventual impossibilidade de total adequação, essa será dispensada mediante apresentação de laudo ou documento equivalente que demonstre a necessidade de permanência da infraestrutura devido aos prejuízos causados pela falta de cobertura no local.
+
+
+§ 4º
+
+Durante os prazos dispostos nos §1º, §2º acima, não poderão ser aplicadas sanções administrativas às detentoras de infraestrutura de suporte para Estação transmissora de radiocomunicação mencionadas no caput motivadas pela falta de cumprimento da presente Lei.
+
+
+§ 5º
+
+Após os prazos dispostos nos §1º, §2º acima, no caso da não obtenção pela detentora do documento comprobatório da regularidade da Estação perante o Município ou apresentação do laudo técnico ou documento similar que demonstre a necessidade da permanência da infraestrutura, será aplicada multa de R$ 30.000,00.
+
+
+Art. 40.
+
+Em casos eventuais de necessidade de remoção de uma Estação Transmissora de Radiocomunicação, a detentora terá o prazo de cento e oitenta dias, contados a partir da comunicação da necessidade de remoção pelo Poder Público, para protocolar o pedido de autorização urbanística para a infraestrutura de suporte que irá substituir a Estação a ser remanejada.
+
+
+§ 1º
+
+A remoção da Estação Transmissora de Radiocomunicação deverá ocorrer em no máximo cento e oitenta dias a partir da emissão das licenças de infraestrutura da Estação que irá a substituir.
+
+
+§ 2º
+
+O prazo máximo para a remoção de Estação Transmissora de Radiocomunicação não poderá ser maior do que 1 anos a partir do momento da notificação da necessidade de remoção pelo Poder Público.
+
+
+Art. 41.
+
+A contagem dos prazos estabelecidos nesta Lei se dará em dias corridos.
+
+
+Art. 42.
+
+Esta Lei entra em vigor na data de sua publicação, revogando todas as disposições em contrário.
+
+
+GOVERNO DO MUNICÍPIO DE IGARAPAVA
+
+Aos quatro de maio de 2022
+
+**JOSÉ RICARDO RODRIGUES MATTAR**
+
+**PREFEITO MUNICIPAL DE IGARAPAVA**
+
+**REGISTRADA.** Publicada e arquivada em livro próprio, data supra.  
+  
+**GILCÉLIO DE SOUZA SIMÕES CHEFE DE GABINETE**

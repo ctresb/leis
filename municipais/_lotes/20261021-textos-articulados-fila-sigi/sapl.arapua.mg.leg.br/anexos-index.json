@@ -1,0 +1,78 @@
+{
+  "estado": "indice_completo",
+  "total": 6,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/ccf_000198.pdf da norma Lei Municipal-EM nº 747, de 13 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "AUTORIZA O PODER EXECUTIVO MUNICIPAL A FIRMAR CONVÉNIO COM OS MUNICÍPIOS DE MATUTINA E TIROS, E DÁ OUTRAS PROVIDÊNCIAS",
+      "anexo_arquivo": "http://sapl.arapua.mg.leg.br/media/sapl/public/anexonormajuridica/2021/1/ccf_000198.pdf",
+      "ano": 2021,
+      "norma": 124
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/proposta_de_emendas_impositivas.pdf da norma Lei-EM nº 821, de 20 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Emendas Parlamentares Impositivas N°01/2024",
+      "anexo_arquivo": "http://sapl.arapua.mg.leg.br/media/sapl/public/anexonormajuridica/2024/2/proposta_de_emendas_impositivas.pdf",
+      "ano": 2024,
+      "norma": 217
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/proposta_de_emenda_n1_projeto_n_1-2025.pdf da norma Lei Complementar-EM nº 17, de 14 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Emenda ao Projeto de Lei Complementar N° 01/2025",
+      "anexo_arquivo": "http://sapl.arapua.mg.leg.br/media/sapl/public/anexonormajuridica/2025/3/proposta_de_emenda_n1_projeto_n_1-2025.pdf",
+      "ano": 2025,
+      "norma": 219
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/proposta_de_emenda_de_redacao_final_ao_projeto_n_1-2025.pdf da norma Lei Complementar-EM nº 17, de 14 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Emenda de Redação Final ao Projeto de Lei Complementar N° 01/2025",
+      "anexo_arquivo": "http://sapl.arapua.mg.leg.br/media/sapl/public/anexonormajuridica/2025/4/proposta_de_emenda_de_redacao_final_ao_projeto_n_1-2025.pdf",
+      "ano": 2025,
+      "norma": 219
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/proposta_emenda_n1_projeto_n2-2025.pdf da norma Lei Complementar-EM nº 18, de 14 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Emenda N° 01, ao Projeto de Lei Complementar N°02/2025",
+      "anexo_arquivo": "http://sapl.arapua.mg.leg.br/media/sapl/public/anexonormajuridica/2025/5/proposta_emenda_n1_projeto_n2-2025.pdf",
+      "ano": 2025,
+      "norma": 220
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/proposta_de_emenda_de_redacao_final_projeto_n2-2025.pdf da norma Lei Complementar-EM nº 18, de 14 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Proposta de Emenda de Redação Final do Projeto de Lei complementar N°02/2025",
+      "anexo_arquivo": "http://sapl.arapua.mg.leg.br/media/sapl/public/anexonormajuridica/2025/6/proposta_de_emenda_de_redacao_final_projeto_n2-2025.pdf",
+      "ano": 2025,
+      "norma": 220
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.arapua.mg.leg.br/16fdf2346dd7ba03ecc60923e0c15a171ded90451ed536646b9bbc4b0f51ed90.json",
+      "url": "https://sapl.arapua.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.arapua.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f4aec147efa0cd70e3c9adf86a174816dd59cc09fb99c7cce62d71f927c63224",
+      "bytes": 3171,
+      "capturado_em": "2026-10-27T16:55:45.063870-03:00"
+    }
+  ]
+}

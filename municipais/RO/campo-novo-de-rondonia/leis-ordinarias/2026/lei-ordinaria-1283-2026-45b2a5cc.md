@@ -1,0 +1,427 @@
+---
+titulo: "LEI Nº 1.283, DE 10 DE MARÇO DE 2026"
+uf: "RO"
+municipio: "CAMPO NOVO DE RONDÔNIA"
+tipo: "Lei Ordinária"
+numero: "1283"
+data: 2026-03-10
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 11/03/2026"
+data_publicacao: 2026-03-11
+codigo_identificador: "45B2A5CC"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116020_2026-03-10_e40090e0b5959b3b32cfb871bdd4f865.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1.283, DE 10 DE MARÇO DE 2026
+
+LEI Nº 1.283, DE 10 DE MARÇO DE 2026
+AUTORIZA O PODER EXECUTIVO MUNICIPAL ABRIR CRÉDITO ADICIONAL ESPECIAL POR SUPERÁVIT
+FINANCEIRO E POR ANULAÇÃO DE DOTAÇÃO NO ORÇAMENTO DO MUNICÍPIO DE CAMPO NOVO DE RONDÔNIA
+PARA O EXERCÍCIO DE 2026.
+O PREFEITO DO MUNICÍPIO DE CAMPO NOVO DE RONDÔNIA, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou
+e eu sanciono e promulgo a seguinte Lei:
+Art. 1º Fica o Poder Executivo Municipal autorizado a abrir Crédito Adicional Especial por Excesso de Arrecadação e por Anulação de Dotação no
+valor deR$ 644.855,46 (seiscentos e quarenta e quatro mil, oitocentos e cinquenta e cinco reais e quarenta e seis centavos), para atender ao
+desdobro da despesa especificada abaixo:
+I – Dotações a criar:
+a)
+
+www.diariomunicipal.com.br/arom
+
+197
+
+Rondônia , 11 de Março de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4189
+02.04
+02.04.04
+12
+306
+0006
+2079
+2.552
+XXX - 3.3.90.30
+b)
+02.04
+02.04.04
+12
+361
+0004
+2030
+2.599
+XXX - 4.4.90.52
+c)
+02.04
+02.04.04
+12
+361
+0004
+2030
+2.540
+XXX - 3.1.90.11
+d)
+02.04
+02.04.04
+12
+361
+0004
+2030
+2.543
+XXX - 4.4.90.52
+e)
+02.04
+02.04.04
+12
+361
+0004
+2030
+2.546
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Alimentação e Nutrição
+Alimentação Escolar
+Manutenção da Merenda Escolar
+Transferências de Recursos do FNDE referentes ao Programa Nacional de Alimentação Escolar (PNAE) (Exerc.Anterior)
+Material De Consumo
+
+5.681,12
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Outros Recursos Vinculados à Educação (Exerc.Anterior)
+Equipamento e Material Permanente
+
+15.287,85
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Transferências do FUNDEB - Impostos e Transferências de Impostos (Exerc.Anterior)
+Vencimentos e Vantagens Fixas - Pessoal Civil
+
+59.445,08
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Transferências do FUNDEB - Complementação da União - VAAR (Exerc.Anterior)
+Equipamento e Material Permanente
+
+11.861,61
+
+XXX - 3.3.90.30
+f)
+02.04
+02.04.04
+12
+361
+0004
+2030
+2.546
+XXX - 4.4.90.52
+g)
+02.04
+02.04.04
+12
+361
+0004
+2030
+2.501
+XXX - 3.3.90.39
+h)
+02.04
+02.04.04
+12
+361
+0005
+2029
+2.553
+XXX - 3.3.90.39
+i)
+02.04
+02.04.04
+12
+361
+0005
+2029
+2.550
+XXX - 3.3.90.39
+j)
+02.04
+02.04.04
+12
+364
+0007
+2084
+2.500
+
+Material De Consumo
+
+41.439,78
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Transferências do FUNDEB - Complementação da União – ETI (Exerc.Anterior)
+Equipamento e Material Permanente
+
+17.759,90
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Outros Recursos não Vinculados (Exerc.Anteior)
+Outros Serviços de Terceiros - Pessoa Jurídica
+
+16.269,62
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Administração Geral
+Manutenção das Atividades do Transporte Escolar
+Transferências de Recursos do FNDE Referentes ao Programa Nacional de Apoio ao Transporte Escolar (PNATE) (Exerc.Anterior)
+Outros Serviços de Terceiros - Pessoa Jurídica
+
+3.949,49
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Administração Geral
+Manutenção das Atividades do Transporte Escolar
+Transferência do Salário-Educação (Exerc.Anterior)
+Outros Serviços de Terceiros - Pessoa Jurídica
+
+166.280,14
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Transferências do FUNDEB - Complementação da União – ETI (Exerc.Anterior)
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Superior
+Apoio aos Universitários
+Apoio Financeiro a Universitários
+Recursos não Vinculados de Impostos (Exerc.Anterior)
+
+www.diariomunicipal.com.br/arom
+
+198
+
+Rondônia , 11 de Março de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4189
+XXX - 3.3.50.43
+k)
+02.04
+02.04.04
+12
+365
+0004
+1016
+2.500
+XXX - 4.4.90.51
+l)
+02.04
+02.04.04
+12
+365
+0027
+2032
+2.546
+
+Subvenções Sociais
+
+42.891,60
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Educação Infantil
+Sustentabilidade Previdenciária
+Construção, Ampliação e Reforma de Espaço Educativo Tipo II
+Recursos não Vinculados de Impostos (Exerc.Anterior)
+Obras e Instalações
+
+232.416,15
+
+XXX - 3.3.90.30
+m)
+02.04
+02.04.04
+12
+365
+0027
+2032
+2.546
+XXX - 4.4.90.52
+n)
+02.04
+02.04.04
+12
+361
+0004
+2030
+1.546
+XXX - 3.3.90.30
+o)
+02.04
+02.04.04
+12
+361
+0004
+2030
+1.546
+XXX - 4.4.90.52
+p)
+02.04
+02.04.04
+12
+365
+0027
+2032
+1.546
+XXX - 3.3.90.30
+q)
+02.04
+02.04.04
+12
+365
+0027
+2032
+1.546
+XXX - 4.4.90.52
+
+Material De Consumo
+
+22.101,18
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Educação Infantil
+Educação de Qualidade
+Manutenção e Desenvolvimentodo Ensino Infantil
+Transferências do FUNDEB - Complementação da União – ETI (Exerc.Anterior)
+Equipamento e Material Permanente
+
+9.471,94
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Educação Infantil
+Educação de Qualidade
+Manutenção e Desenvolvimentodo Ensino Infantil
+Transferências do FUNDEB - Complementação da União – ETI (Exerc.Anterior)
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Transferências do FUNDEB - Complementação da União - ETI
+Material De Consumo
+
+7.312,93
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Sustentabilidade Previdenciária
+Manutenção de Outras Ações da Educação Básica
+Transferências do FUNDEB - Complementação da União - ETI
+Equipamentos e Material Permanente
+
+3.134,12
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Educação Infantil
+Educação de Qualidade
+Manutenção e Desenvolvimentodo Ensino Infantil
+Transferências do FUNDEB - Complementação da União - ETI
+Material De Consumo
+
+3.900,18
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Educação Infantil
+Educação de Qualidade
+Manutenção e Desenvolvimentodo Ensino Infantil
+Transferências do FUNDEB - Complementação da União - ETI
+Equipamento e Material Permanente
+
+1.671,50
+
+Art. 2º Para cobertura dos créditos especificados no art. 1º será utilizada a seguinte fonte:
+I – Superávit financeiro:
+a) Conta: 11.032-9 – Agência 8291-0 – PNAE - R$ 5.681,12
+b) Conta: 11.177-5 – Agência 8291-0 – Complementação Investimento FUNDEB R$ 15.287,85
+c) Conta: 11.176-7 – Agência 8291-0 – FUNDEB - R$ 162.079,49
+d) Conta: 11.134-1 – Agência 8291-0 – PNATE - R$ 3.949,49
+e) Conta: 8139-6 – Agência 8291-0 – Salário Educação- R$ 166.280,14
+f) Conta: 1517-2 – Agência 8291-0 – Pref. Mun. Campo Novo Recursos Livres - R$ 291.577,37
+Anulação de Dotação:
+a)
+02.04
+02.04.04
+12
+361
+0027
+2027
+1.546
+454 - 3.1.90.11
+
+Secretaria Municipal de Educação
+Secretaria Municipal de Educação
+Educação
+Ensino Fundamental
+Educação de Qualidade
+Remuneração dos Profissionais da Educação Básica
+Transferências do FUNDEB - Complementação da União - ETI
+Vencimentos e Vantagens Fixas - Pessoal Civil
+
+www.diariomunicipal.com.br/arom
+
+16.018,73
+
+199
+
+Rondônia , 11 de Março de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4189
+Art. 3º Esta Lei entrará em vigor na data de sua publicação.
+[Documento Assinado Eletronicamente]
+ADEILSON CORREIA DA SILVA
+Prefeito
+Publicado por:
+João Felipe Marques Cordeiro de Oliviera

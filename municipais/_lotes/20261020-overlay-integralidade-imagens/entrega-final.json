@@ -1,0 +1,23 @@
+{
+  "obtido_em": "2026-10-20T20:30:54.681067",
+  "controle_integral": "municipais/_lotes/20261020-overlay-integralidade-pdf",
+  "sha256_controle_integral": "67d45131ede14857a5ad32b8115c1d0881b7454f386f7ea623fe79d5fd4e8f5e",
+  "aprovados": 1453,
+  "retidos": 15392,
+  "criterio": "Passou controle integral e proveniência anterior; PDF só aprovado se não contém imagem embutida. Imagens sem revisão, OCR e outras divergências seguem retidos.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/aprovados.paths.txt",
+      "sha256": "662073d495fc91dbda65bd01c28f057770448d20b55238810d25ce87dca536f5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/resultados.jsonl",
+      "sha256": "97d16f01e9b2bf0cd311b01d238ee5cbbb0c29f12f86aa3b9cb666055f7cc3c8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-imagens/retidos.paths.txt",
+      "sha256": "0301bd532f796ca77a79b067729dbdf1c74c7bb5742afa224ea2cebda153b22d"
+    }
+  ],
+  "script_sha256": "765b112281ef4a9da8a72dfca1266c5f3b222f53a041c7c2151eadf20b8e8f8e"
+}

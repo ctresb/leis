@@ -1,0 +1,42 @@
+{
+  "host": "sapl.acrelandia.ac.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acrelandia.ac.leg.br/4ca03dfec051ad6d587cde1c89a573e1e35772350d382ff351a1208645c89fd2.json",
+    "url": "https://sapl.acrelandia.ac.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.acrelandia.ac.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-21T04:59:16.464035-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acrelandia.ac.leg.br/933fcdae81246b5a8ce9bc7ac0171beeceb87d44346caac781614c1502c562af.json",
+    "url": "https://sapl.acrelandia.ac.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.acrelandia.ac.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ee242e44fbe28b35fc372dab13b24dff54cd7edc32c146a98e1fd0286e7abd29",
+    "bytes": 839,
+    "capturado_em": "2026-10-21T04:59:15.051455-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acrelandia.ac.leg.br/757c2f2251b09d2ce1b34099b17bc493beabc3ef58d5dd7815c2a55d6dafaf08.json",
+      "url": "https://sapl.acrelandia.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.acrelandia.ac.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-21T04:59:19.052023-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

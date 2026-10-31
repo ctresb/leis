@@ -1,0 +1,223 @@
+---
+titulo: "Lei nº 211, de 08 de outubro de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "211"
+data: "1985-10-08"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2144"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/369/text"
+sha256_fonte: "3a24698544dc696ec7a859980c2f9d416e6961a5d422871d49be44f73f49ec92"
+sha256_texto: "57f812dc1c537f59a348faddcd252cabc403fd360cc23924932904793a1ba859"
+capturado_em_fonte: "2026-10-28T13:53:54.293563-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 211, de 08 de outubro de 1985
+
+Concede isenção do Imposto Sobre Serviço de Qualquer Natureza – ISS – As Microempresas e dá outras providencias
+
+
+**JOSE VICENTE ZEZITO FALCI**, Prefeito do Município de Ibiúna, usando de suas atribuições legais,
+
+**FAÇO SABER**, que a Câmara Municipal de Ibiúna decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Os prestadores de serviços constituídos sob a forma de microempresa ficam isentos do Imposto Sobre Serviço de Qualquer Natureza- ISS.
+
+
+Art. 2º.
+
+Consideram-se microempresas as pessoas jurídicas e as firmas individuais que tiverem receita bruta e anual igual ou inferior ao valor nominal de CR$ 1.350 (mil trezentos e cinqüenta) obrigações reajustáveis do tesouro nacional – ORTNs, tornando-se por referencia o seu valor do mês de janeiro do ano base.
+
+
+Parágrafo único
+
+Para efeito dessa lei, entende-se:
+
+
+a)
+
+receita bruta, como sendo totalidade das receitas, inclusive as não operacionadas sem quaisquer deduções, mesmo as permitidas para o recolhimento do ISS, percebidas durante o ano-base;
+
+
+b)
+
+ano-base, como sendo o ano que antecede ao benefício isencional.
+
+
+Art. 3º.
+
+As microempresas poderão, no primeiro ano de atividade, usufruir do benefício previsto nesta lei, estimando-se como receita bruta a calculada de forma proporcional ao número de meses decorridos entre o mês da sua constituição de 31 de dezembro do mesmo ano.
+
+
+Parágrafo único
+
+A estimativa aludida no “caput” deste artigo será sujeita com base em declaração do interessado a autoridade competente, conforme estabelecido no regulamento.
+
+
+Art. 4º.
+
+Não inclui no regime desta lei as empresas.
+
+
+I –
+
+constituídas como forma de sociedade por ações;
+
+
+II –
+
+em que o titular ou sócio seja pessoa jurídica, ou, ainda, pessoa física domiciliada no exterior;
+
+
+III –
+
+que executem serviço relativo a:
+
+
+a)
+
+administração de imóveis;
+
+
+b)
+
+armazenamento de depósitos de produtos de terceiros;
+
+
+c)
+
+publicidade e propaganda, excluídos os veículos de comunicação;
+
+
+IV –
+
+que prestem serviços profissionais de médico, engenheiro, advogado, dentista, veterinário, economista, despachante, contador e outros serviços que lhe possam assemelhar.
+
+
+Art. 5º.
+
+O registro da microempresa já constituída e em constituição obedecerá as formalidades constantes do capítulo III da Lei Federal nº 7256, de 27 de novembro de 1984.
+
+
+Parágrafo único
+
+A microempresa deverá prestar autoridade competente as declarações necessárias ao seu enquadramento ao regime desta lei, nos termos do prazo regulamentares.
+
+
+Art. 6º.
+
+Deixando de atender as exigências necessárias ao enquadramento nesta lei, deverá a microempresa comunicar a ocorrência do fato no prazo de 30 (trinta) dias, contados desde a sua efetivação, a autoridade competente.
+
+
+Art. 7º.
+
+As microempresas cuja receita bruta exceder o limite fixado no “caput” do artigo 2º perderão automaticamente os benefícios previstos nesta legislação, e se sujeitarão ao pagamento integral do tributo incidente sobre o excesso, até o último dia útil do mesmo de fevereiro do exercício seguinte ao fato.
+
+
+Parágrafo único
+
+Caso ocorra o excesso de receita, cumpre ao contribuinte comunicá-lo a autoridade ate o dia 31 de janeiro do ano seguinte ao da ocorrência.
+
+
+Art. 8º.
+
+Os fatos geradores ocorridos posteriormente ao desenquadramento da microempresa implicarão o recolhimento integral do tributo correspondente.
+
+
+Art. 9º.
+
+A isenção prevista no artigo 1º desta lei não implica dispensa a microempresa de recolher a parcela correspondente ao ISS devido por terceiros e por ela retido.
+
+
+Art. 10.
+
+A microempresa que se favorece dos benefícios desta lei sem observar s requisitos nela inseridos sujeitar-se-á ao pagamento do tributo devido enquanto perdurar a situação irregular, acrescido de juros de mora, correção monetária e multa de 20% (vinte por cento) sobre o valor corrigido.
+
+
+Parágrafo único
+
+Caso a microempresa tenha agido com dolo ou fraude, a multa será aplicada em dobro.
+
+
+Art. 11.
+
+Em caso de descumprimento ao disposto nesta lei, a exceção previsto no artigo anterior, será microempresa passível das seguintes penalidades:
+
+
+I –
+
+Multa de 3,0 ORTNs vigentes no mês da autuação, ao que deixar de prestar, no prazo fixado, as declarações previstas no artigo 5º e seu parágrafo, bem como no parágrafo único do artigo 7º;
+
+
+II –
+
+Recolhimento do tributo a que se refere o artigo 7º, “caput”, acrescidos de juros de mora, correção monetária e multa de 20% (vinte por cento) sobre o valor corrigido;
+
+
+III –
+
+Recolhimento do imposto aludido no artigo 9º, acrescidos de juros de mora, correção monetária e multa de 20% (vinte por cento) sobre o valor corrigido;
+
+
+Art. 12.
+
+A pessoa jurídica e a firma individual que, sem observância dos requisitos desta lei, pleitear seu enquadramento ou seu ou se mantiver enquadrada como microempresa estará sujeita as seguintes conseqüências e penalidades:
+
+
+I –
+
+Cancelamento de oficio do seu registro como microempresa;
+
+
+II –
+
+Pagamento de todos os tributos e contribuições devidos, como se isenção alguma houvesse existido, acrescidos de juros moratórios e correção monetária, contados desde a data em que tais tributos ou contribuições deveriam ter sido pagos ate a data do seu efetivo pagamento;
+
+
+III –
+
+Multa Punitiva equivalente á:
+
+
+a)
+
+100% (cem por cento) do valor atualizado do tributo devido, em caso de dolo, fraude ou simulação e, especialmente, nos casos de falsidade das declarações ou informações prestadas, por si ou seus sócios, as autoridades competentes;
+
+
+b)
+
+50% (cinqüenta por cento) do valor atualizado do tributo, nos demais casos.
+
+
+Art. 13.
+
+O Poder Executivo regulamentara a presente lei no prazo de 90 (noventa dias).
+
+
+Art. 14.
+
+Esta lei entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 08 DIAS DO MÊS DE OUTUBRO DE 1985.
+
+**JOSÉ VICENTE ZEZITO FALCI**
+
+**Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 08 de outubro de 1985.
+
+**DR. JOÃO BENEDICTO DE MELLO JUNIOR**
+
+**Secretário Geral da Administração**
+

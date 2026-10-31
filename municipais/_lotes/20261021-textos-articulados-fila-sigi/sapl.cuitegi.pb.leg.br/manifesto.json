@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cuitegi.pb.leg.br",
+  "metadados_unicos_observados": 8,
+  "total_api_declarado": 8,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cuitegi.pb.leg.br/df6a9e55b2d2ceeb6969c57015587612a478f547462c7f60860f8d54d3444777.json",
+    "url": "https://sapl.cuitegi.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cuitegi.pb.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d49f48f45de5331aecb7e4212ec15efab0a3cc7d55639e7ae1c37327099483ca",
+    "bytes": 951,
+    "capturado_em": "2026-10-28T09:33:58.044264-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cuitegi.pb.leg.br/743a3172bc1e31e665d4249bb290dc6a0aacf6ab8d624d84d0167dac92328367.json",
+    "url": "https://sapl.cuitegi.pb.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cuitegi.pb.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2eee8c73be3651a3260e5643625504c2233d07f153f78ad9951c490a2d4f4c28",
+    "bytes": 809,
+    "capturado_em": "2026-10-28T09:33:57.168253-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cuitegi.pb.leg.br/a8c5966671eaf89fdac52718c2eae841c30da4a727d3d9225d047630d59be55d.json",
+      "url": "https://sapl.cuitegi.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cuitegi.pb.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e46cd58658a69df4975057bcfedebeca6cbe22bf94540fb11d895780fd81dd1b",
+      "bytes": 5809,
+      "capturado_em": "2026-10-28T09:34:00.076996-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

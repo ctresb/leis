@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/emenda_da_lei_organica_n_32_.pdf da norma Emenda à Lei Orgânica nº 32, de 18 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Altera a Lei Orgânica do Município de Gurupi, cria e altera dispositivos e regulamenta o modelo de eleições da Universidade de Gurupi e dá outras providências.",
+      "anexo_arquivo": "http://sapl.gurupi.to.leg.br/media/sapl/public/anexonormajuridica/2024/2/emenda_da_lei_organica_n_32_.pdf",
+      "ano": 2024,
+      "norma": 1602
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/projeto_de_lei_no_70.pdf da norma Lei Ordinária nº 2.751, de 15 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre atribuição de nome á praça localizada na Avenida Raimundo Corrêa, Esquina com a Rua Florianópolis, Setor Industrial , Gurupi_TO.",
+      "anexo_arquivo": "http://sapl.gurupi.to.leg.br/media/sapl/public/anexonormajuridica/2025/3/projeto_de_lei_no_70.pdf",
+      "ano": 2025,
+      "norma": 1638
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gurupi.to.leg.br/5557fe55966b58c1a8b453936932ce562146e7e9b4b4d997f3de56a5a96b6679.json",
+      "url": "https://sapl.gurupi.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.gurupi.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "df0e93af1688bbed5b3dc084230dda1eed15a40f4bb1c597a316107eefb5b8eb",
+      "bytes": 1334,
+      "capturado_em": "2026-10-28T13:42:14.132312-03:00"
+    }
+  ]
+}

@@ -1,0 +1,2443 @@
+---
+titulo: "Lei Municipal-Pref nº 440, de 14 de dezembro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Municipal"
+numero: "440"
+data: "2018-12-14"
+municipio: "Bom Jesus do Araguaia"
+uf: "MT"
+codigo_ibge: "5101852"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/454"
+fonte_texto: "https://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/normajuridica/2018/454/lei_no_440-2018_-_dospoe_sobre_alteracao_do_plano_plurianual_e_da_outras_providencias.pdf"
+sha256_fonte: "554791b33ae2088c392a3d426cd2160d3d578a5d05e5b3e229e04b032b40681f"
+sha256_texto: "60c960d5d73c60407a9e54e32b90b118728120f2ac60597a28c45ba9a2d6a4f3"
+baixado_em: "2026-10-20"
+---
+
+# Lei Municipal-Pref nº 440, de 14 de dezembro de 2018
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA MUNICIPAL DE BOM BOM JESUB08103A RAGUAIA JESUS DO ARAGUAIA 29/09/1999 CNPJ: 04.173.952/0001-68
+
+LEI MUNICIPAL N° 440 DE 14 DE DEZEMBRO DE 2018 Dispõe sobre alteração do Plano Plurianual e dá outras providências. RONALDO ROSA DE OLIVEIRA, Prefeito Municipal Interino de Bom Jesus do Araguaia, Estado de Mato Grosso, no uso de suas atribuições legais; faço saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+**Art. 1°** Ficam alterados os Anexos do Plano Plurianual para o quadriênio 2018- 2021, estabelecidos pela Lei Municipal n° 416/2017, de acordo com o conteúdo dos respectivos anexos desta lei, ficando alterado as correspondentes Órgãos e Unidades: Anexo I, Funções e Subfunções : Anexo II, Programas de Governo:
+
+Anexo III, Ações: Anexo IV
+
+**Art. 2°** Esta Lei entra em vigor na data de sua publicação e seus afeitos serão aplicados a partir de 01 de Janeiro de 2019, revogando-se todas as disposições em contrário. Bom Jesus do Araguaia - MT, 14 de Dezembro de 2018. RONALDO ROSA DE OLIVEIRA PREFEITO MUNICIPAL PUBLICADO NO MURAL NO PERIODO DE SANCIONADOY 14/12/20/8 1410/12024 EM:\_14 Preletura de Bom Jesus do Araguala Ronaldo ARE Er Oliveira VISTO DO FUNCIONARIO Prefeito Municipal® Antonio Fernando Ferreira Secretario de Administração Portaria Nº 293/2018 Avenida Jose Humarcio Carlos Ferreiras, sn - Centro - Bom Jesus do Araguaia - MT CEP: 78.678-000 - Telefone: (066) 3538 1201
+
+9.261,00
+
+9261 Meta 2021 Page 1 of 99 1595752.01 2021 8.820,00 2020
+
+8820 1262822 2019 Meta 2020 2020 8.400,00
+
+2019 1170000 DATA 11 112 12012
+
+1°TURNO 2° TURNO.
+
+8400 2018 Meta 2019 EM 18 1120018 APROVADO EM \*° TURNO
+
+20.000,00 2018
+
+20000 Unid. Meta 2018
+
+Ind. Recente Ind. Futuro
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO
+
+4 DESPESAS DE CAPITAL
+
+Entidade Unid Orçam, ProjAtiv Função SubFun, FonGr. FonCod. Categoria Bem/Produto/Serviço
+
+Unidade de Medida 010101 CAMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA 1001 AMPLIAÇÃO DA CAMARA MUNICIPAL Real 031 Ação Legislativa
+
+R$ CAMARA MUNICIPAL DE BOM JESUS DO ARAGU Programa: 0001 Processo Legislativo EN. 19/12 120181 01 Legislativa APROVADO POR UNANIMIDADE
+
+Público Alvo: Atendimento ao Publico Camara Municipal Indicador
+
+Metas Real
+
+Ações
+
+120.837.00 30.000.00 120837 30000
+
+Lei: 416, Data: 30/08/2017 Page 2 of 99 11.025,00 19.845,00
+
+12012 CNPJ: 04.235.199/0001-98- 1°TURNQ. --2° TURNO 11025 18.900,00 10.500,00
+
+DATA!/ 18900 10500 APROVADO EM TURNO 11212018 120.837.00 30.000,00
+
+Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. 120837 30000 R$ DESPESAS DE CAPITAL
+
+4 DESPESAS DE CAPITAL
+
+eEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO BOM JESUS BO ARAGUAIA
+
+AQUISIÇÃO DE EQUIPAMETO E MATERIAL PERMANENTE
+
+CAMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA CAMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA 031 Ação Legislativa
+
+Ação Legislativa
+
+1016 AQUISIÇÃO DE VEICULO CAMARA MUNICIPAL DE BOM JESUS DO ARAGU CAMARA MUNICIPAL DE BOM JESUS DO ARAGU Programa: 0001 Processo Legislativo Legislativa Legislativa
+
+Público Alvo: Atendimento ao Publico APROVADO POR UNANIMIDADE Camara Municipal 12/2018 1003 EM: 19 010101 010101
+
+52.092.00 60.000,00
+
+5209źŚę 60000 Page 3 of 99 49.612,00 60.000,00
+
+CNPJ: 04.235.199/0001-28
+
+49619 60000
+
+35.250,00 50.000,00 DATA. 35250 50000 52.092,00 423.562,01 19/2018 APROVADO EM TO TURNO
+
+52092 Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. 123562,01 MANUT. E CUSTEIO DAS ATIVIDADES DO GABINETE DO PRESIDENTE
+
+3 DESPESAS CORRENTES
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - N T SUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO BONJESUS DO ARAGUAIA
+
+CAMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA CAMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA 2111 DESPESAS COM PUBLICIDADE Ação Legislativa
+
+031 Ação Legislativa
+
+CAMARA MUNICIPAL DE BOM JESUS DO ARAGU CAMARA MUNICIPAL DE BOM JESUS DO ARAGU Programa: 0001 Processo Legislativo 01 Legislativa 01 Legislativa
+
+Público Alvo: Atendimento ao Publico APROVADO POR UNANIMIDADE 5219018 Camara Municipal 2001 EM 19 010101 010101
+
+1.100.000.00 1.372.190,00 1100000 Fiorilli SC Ltda • Software Lei: 416, Data: 30/08/2017 Page 4 of 99 1.050.000,00 1.199.302.00 1050000
+
+12 1201₴ CNPJ: 04.235.199/0001-38 2° TURNO
+
+1.046.960,00 1.170.010.00
+
+1°TURNO DATA L 1046960 1.002.302,64 1.648.793,65
+
+002302,64 EM 1111210018
+
+Total Geral Financeiro APROVADO EM 1° TURNO APROVADO POR UNANIMIDADE
+
+MANUTENÇÃO E ENCARGOS DAS ATIVIDADES DA SEC
+
+EM: 7 1 CAMARA MUNICIPAL DE BOM JESUS DO ARAGUAIA CEP 78678-000 BOM JESUS DO ARAGUAIA • MT
+
+RUA ASSEMBLÉIA DE DEUS SIN\* • CENTRO Ação Legislativa
+
+CAMARA MUNICIPAL DE BOM JESUS DO ARAGU Programa: 0001 Processo Legislativo Legislativa
+
+Público Alvo: Atendimento ao Publico Camara Municipal
+
+2112
+
+010101
+
+10.000,00 10000
+
+Meta 2021 Page 5 of 99 4800 2021 8.000,00 2020
+
+DATA 11 1/2 12018.
+
+8000 ¡OTURNO 2° TURNO 2020 4400 Meta 2020 2019 5.000,00 2019 5000 2018 Meta 2019 10.000,00 2018 11212018 APROVADO POR UNANIMIDADE Unid. Meta 2018 10000 Ind.Recente Ind. Futuro MANUTENÇÃO E ANCARGOS COM O GABINETE DO PREFEITO MUNICPAL, E SEU GABINETE. EM. 11 DESPESAS DE CAPITAL EM 1111212018Ś ProjAty Função SubFun, Fonor, Foncad, Categoria Bem/Produto/Serviço
+
+APROVADO EM \*° TURNO
+
+Recursos do Exercicio Corrente
+
+AQUISIÇÃO DE MOVEIS E EQUIPAMENTO Unidade de Medida Real 122 Administração Geral
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT R$ RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+→ PREFEITURA MUNICIPAL DE BOM JESUS DO AR Administração
+
+Programa: 0003 Administração Geral GABINETE DO PREFEITO GABINETE DO PREFEITO
+
+Público Alvo: GABINETE PREFEITO
+
+1005 Entidade Unid Orçam. Indicador 020201
+
+Metas reais
+
+Ações
+
+2.400,00 707.000,00
+
+2400 707000 Page 6 of 99 APROVADO POR UNANIMIDADE EM 11 11212018 2.200.00 707.000,00
+
+2200 707000 2.000,00 607.500,00 EM 11/12 190D APROVADO EM \*° TURNO 2000 607500 DATAS 112-19009
+
+2° TURNO 2.400,00 707.000,00
+
+2400 707000 1°TURNO Justificativa: MANUTENÇÃO E ANCARGOS COM O GABINETE DO PREFEITO MUNICPAL, E SEU GABINETE. CEP 78678-000 BOM JESUS DO ARAGUAIA • MT 04.235.199/0001-98Ś RUA ASSEMBLÉIA DE DEUS S/N° • CENTRO
+
+3 DESPESAS CORRENTES 3 DESPESAS CORRENTES
+
+MANUTEÇÃO E ENCARGOS C/ GABINETE DO PREFEITO
+
+122 Administração Geral APOIO A POLICIA MILITAR E CIVIL 122 Administração Geral
+
+2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR Administração Programa: 0003 Administração Geral Judiciária GABINETE DO PREFEITO
+
+GABINETE DO PREFEITO GABINETE DO PREFEITO Público Alvo: GABINETE PREFEITO
+
+0102 2003 020201 020201
+
+2.400,00 721.800.00
+
+Fiorilli SC Lida - Software
+
+2400
+
+Page 7 of 99 DATA II / 19 2.200,00 719.400,00 ASSINA
+
+2200 2.000,00 616.500,00 2000 EM 1S 14912018: 2.400,00 721.800,00 2400 Justificativa: MANUTENÇÃO E ANCARGOS COM O GABINETE DO PREFEITO MUNICPAL, E SEU GABINETE. Total Geral Financeiro EM: 11/4212038 APROVADO EM \*° TURNO 3 DESPESAS CORRENTES
+
+DEFESA DO INTERESSE PUBLICO JUDICIARIO Administração Gerai CEP 78678-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. Programa: 0003 Administração Geral GABINETE DO PREFEITO Judiciária
+
+GABINETE DO PREFEITO
+
+Público Alvo: GABINETE PREFEITO 2016 020201
+
+6.000,00
+
+6000 2020 Meta 2021
+
+Page 8 of 99 12018
+
+¡TURNO 20 TORNO
+
+19939314.47 2021 5.500,00
+
+5500 2019 Meta 2020 18681968.92 2020 DATA LI 0,00 2019 17982500 APROVADO POR UNANIMIDADE 2018 Meta 2019 EM: 11 119 120 6.000,00 0 12766446,0ćł 2018
+
+6000 Unid. Meta 2018
+
+Ind. Recente Ind.Futuro
+
+EM 11119 10008 APROVADO EM \*° TURNO DESPESAS DE CAPITAL m ProjAtv Função SubFun, FonGr, FonCód, Categoria Bem/Produto/Serviço
+
+AQUISIÇÃO DE MOVEIS E EQUIPAMENTO Unidade de Medida Real 122 Administração Gerai
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT Programa: 0004 Planejamento Governamental RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+R$ PREFEITURA MUNICIPAL DE BOM JESUS DO AR Administração GABINETE DO PREFEITO
+
+Público Alvo: População e Geral Sentencas Judicial
+
+1005 Entidade Unid. Orçam. Indicador 020201ł Metas
+
+Real
+
+45.000,00 140.000,00
+
+DATA 11 119 / 9018 -CÂMARA MUNICIPAL DE
+
+45000 140000
+
+Page 9 of 99 42.000.00 0.00
+
+42000 40.000,00 APROVADO POR UNANIMIDADE 0,00 EM: 1111912018 40000 45.000,00 140.000,00
+
+45000
+
+140000 EM 11.112.12058 APROVADO EM \*° TURNO 3 DESPESAS CORRENTES
+
+DESPESAS DE CAPITAL
+
+→ 122 Administração Geral
+
+122 Administração Geral CEP 78678-000 BOM JESUS DO ARAGUALA • MT Programa: 0004 Planejamento Governamental RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+SERVIÇO DE PUBLICIDADE
+
+AQUISIÇÃO DE VEICULO 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFEITURA MUNICIPAL DE BOM JESUS DO AR 04 Administração Administração
+
+GABINETE DO PREFEITO GABINETE DO PREFEITO Público Alvo: População e Geral Sentencas Judicial 2004 020201 020201
+
+100.000.00 140.000.00 100000 130.000.00 140000 Page 10 of 99 Fionili SC Ltda - Software 100.000,00ł
+
+APROVADO POR UNANIMIDADE 100000 130000 1012018 89.800,00 120.000,00 EM 11 120000ł 89800 APROVADO EM \*° TURNO 0,00 EM 21/32.12058 100.000,0łął
+
+100000
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT 3 DESPESAS CORRENTES
+
+RUA ASSEMBLÉIA DE DEUS S/N\* • CENTRO
+
+REAL MANUT, E ENC. PROCURADORIA JURIDICA 122 Administração Geral Administração Geral Programa: 0004 Planejamento Governamental
+
+CHEFIA DE GABINETE 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. - PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 04 Administração Administração GABINETE DO VICE-PREFEITO
+
+PROCURADORIA JURIDICA Público Alvo: População e Geral Sentencas Judicial
+
+2146 2113
+
+2° TURNO 1°TURNO
+
+02020šŚ 020202 1912018
+
+DATA J
+
+95.000.00 95.000,00 EM: 11/12/2018 APROVADO POR UNANIMIDADE 95000 95000
+
+Page 11 of 99 90.000,00 90.000,00
+
+90000 90000 80.000.00 80.000,00
+
+80000 80000 DATA 1/ 119 12018
+
+CNPJ: 04.235.199/0001-98ł 2° TURNO 0.00 0,00
+
+1°TURNO
+
+Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios R$ APROVADO EM \*\* TURNO
+
+REAL MANUT. E ENC. C/ASSESSORIA DE PLANEJAMENTO REAL MANUT. E ENC. C/ ASSESSORIA JURIDICA 122 Administração Geral Administração Geral Programa: 0004 Planejamento Governamental
+
+CEP 78578-000 BOM JESUS 00 ARAGUAIA TWT RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+ASSESSORIA DE PLANEJAMENTO
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR 04 Administração Administração
+
+ASSESSORIA JURIDICA Sentencas Judicial Público Alvo: População e Geral 2148 2147
+
+020205 02020ął
+
+135.000,00 86.000.00 135000 86000 EM: 1111212018
+
+Lei: 416, Data: 30/08/2017 Page 12 of 99 APROVADO POR UNANIMIDADE 130.000,00 86.000.00 86000 130000 120.000,00 66.000.00
+
+DATA 11 112/2058 66000 120000
+
+- 2° TURNO 11219018 APROVADO EM \*° TURNO
+
+0.00 0,00 1°TURNO -
+
+EM: 13
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+3 DESPESAS CORRENTES
+
+REAL REAL MANUT. E ENC. C/ CONTROLADORIA INTERNA 122 Administração Geral 122 Administração Geral
+
+Programa: 0004 Planejamento Governamenta
+
+MANUT. E ENC. DISTRITAL PREFEITURA MUNICIPAL DE BOM JESUS DO AR DISTRITO DA NOVA CONQUISTA PREFEITURA MUNICIPAL DE BOM JESUS DO AR. Administração Administração CONTROLADORIA INTERNA
+
+Sentencas Judicial População e Geral
+
+2150 2149 Público Alvo: 020207
+
+020206
+
+~
+
+115.000,00 86.000,00 86000 11500ęł Page 13 of 99
+
+110.000.00 86.000,00 APROVADO POR UNANIMIDADE 2058
+
+110000 86000 100.000,00 66.000.00 100000 66000
+
+DATA 11 119 [9O18
+
+0.00 0,00 ASSINÂTURA
+
+APROVADO EM ¿TURNO
+
+EM 31/12 R$
+
+3 DESPESAS CORRENTES
+
+REAL REAL
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+122 Administração Geral Administração Geral Programa: 0004 Planejamento Governamental
+
+020209 DISTRITO DE CAMPINAS DO ARAGUAIA MANUT. E ENC. DISTRITAL DISTRITO DE PLANALTO DO ARAGUAIA MANUT. E ENC. DISTRITAL PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 04 Administração Administração
+
+Público Alvo: População e Geral Sentencas Judicial 2150 2150
+
+020208
+
+65.000.00 60.000.00 65000
+
+60000 Page 14 of 99 62.000.00 59.006.86ł
+
+62000 59006.86 0.00 60.000.00
+
+DATA II TIR 120/17
+
+12018 APROVADO EM \*° TURNO
+
+60000 0,00 60.000.00 EM 111
+
+Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. 60000
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+3 DESPESAS CORRENTES
+
+DESPESAS DE CAPITAL
+
+rEAL GABINETE DA SECRETARIA DE ADM. PLANEJAMENTO GABINETE DA SECRETARIA DE ADM. PLANEJAMENTO MANUT. E ENC. C/GAB. SEC. ADM. 122 Administração Geral Administração Geral Programa: 0004 Planejamento Governamental
+
+AQUISIÇÃO DE VEICULO PREFEITURA MUNICIPAL DE BOM JESUS DO AR 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. Administração Administração
+
+Público Alvo: População e Geral Sentencas Judicial
+
+2152 1088 020301 020301ł
+
+80.000,00 20 006 00 80000 20000 Page 15 of 99 1.200,00 65.000.00 EM: 19/921201šęšŚ
+
+APROVADO POR UNA 1200 65000 60.000.00 1.000,00 APROVADO POR UNA \*\* 1000 60000 EM 9811212088 APROVADO EM \*° TURNO EM: 80.000.00 20.000,00
+
+20000 80000 R$
+
+DESPESAS DE CAPITAL
+
+- CENTRO
+
+CEP 78678-000 BOM JESUS DO ARAT RUA ASSEMELÉIA DE DEUS SIN°
+
+DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO LEGALIZAÇÃO DO TERRENO DA VILA 122 Administração Geral 122 Administ/acão Geral Programa: 0004 Planejamento Governamental AQUISIÇÃO DE EQUIPAMENTO
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFEITURA MUNICIPAL DE BOM JESUS DO AR Administração Administração
+
+Sentencas Judicial Público Alvo: População e Geral 1038 1037 AMARA MUNICIPAL DE •JESUS DO ARAGUAIA - MT
+
+02U302 020302ł 2° TURNO 1°TURNO
+
+DATA S
+
+200.000.00 1.200.00 200000 1200
+
+Page 16 of 99 186.819,69 1.100,00
+
+245.567.24 186819.69
+
+1100 DATA 1$ 112 12050
+
+1.000,00
+
+200.000.00 245567.24 1000 EM 1111212018 APROVADO EM \*° TURNO 1.200,00
+
+200000
+
+1200 R$
+
+CEP 79678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+CÂMARA MUNIGIPALDE
+
+Recursos do Exercicio Corrente
+
+APOIAR ORGAOS - SEMA, IBAMA EMPAER ETC DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO 122 Administração Geral Administração Geral Programa: 0004 Planejamento Governamental
+
+CONTRIBUIÇÃO AO PASEP PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR Administração Administração
+
+Sentencas Judicial Público Alvo: População e Geral 2009 1039 020302
+
+020302
+
+100.000.00 1.942.000.00
+
+DATA 111 1212018ł
+
+1°TURNO - --2° TURNO 10000 1942000ł Fiorilli SC Ltda • Software Lei: 416, Data: 30/08/2017 Page 17 of 99
+
+1.700,00 1.930.000,00 1700 1930000 1.500,00 1.922.000,00 EM 11 112120186 APROVADO POR UNANIMIDADE 1500 1922000 2.569.317,48 100.000.00 EM 1111212018Ś APROVADO EM \*\* TURNO
+
+100000 R$ 569317,48
+
+CEP 788254 EUM DESUS DO ARAGUAIA. ANT 3 DESPESAS CORRENTES
+
+MANUTENÇÃO E ENCARGOS C/ DEPART. ADM. E PLANEJAMENTO
+
+Recursos do Exercicio Corrente
+
+MANUTENÇÃO E ENCARGOS C/ DPTO DE TERRA DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO Administração Geral 122 Administração Geral Programa: 0004 Planejamento Governamental
+
+2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 04 Administração 04 Administração
+
+Sentencas Judicial Público Alvo: População e Geral 2018 2014 020302 020302
+
+60.000,00 30.000,00 60000 30000 Lei: 416, Data: 30/08/2017 Page 18 of 99 Fiorilli SC Lida • Software
+
+11/12/2018
+
+\*°TURNO. 2º TURNO 55.000,00 25.000.00 ASSÍNATURA 55000 25000 DATA 50.000.00 20.000,00 EM 11/19/2018 20000 50000 APROVADO EM¿ TURNO 30.000.00- 60.000,00
+
+30000 60000
+
+BOM JESUS BO ARAGUAIA
+
+3 DESPESAS CORRENTES 3 DESPESAS CORRENTES
+
+Recursos do Exercicio Corrente
+
+Recursos Ordinarios POTO PRECATORIAS E SENTENÇAS JUDICIAIS DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO DEPARTAMENTO DE ADMINSITRAÇÃO E PLANEJAMENTO REALIZAÇÃO DE CONCURSO PUBLICO 122. Administração Geral Administração Geral Programa: 0004 Planejamento Governamental
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR 04 Administração Administração
+
+Sentencas Judicial Público Alvo: População e Geral 2050 2059 020302
+
+020302
+
+80.000.06 80000 Page 19 of 99
+
+DATA 11 (12 12018
+
+TOTURNO - - 2° TURNO 110.000.00 65.000.00
+
+110000 65000 54.500.00 100.000.00 EM 2111212018ęŚ APROVADO EM \*° TURNO 0,00 • 100000 54500 80.000,00
+
+80000\* Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios R$
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO
+
+3 DESPESAS CORRENTES
+
+MANUTENÇÃO E ENCARGOS COM O DEPARTAMENTO PESSOAL
+
+MANUT. E ENC. C/DEPART. DE LICITAÇÃO E CONTRATOS
+
+Recursos do Exercicio Corrente
+
+en Recursos Ordinários REAL DEPARTAMENTO DE LICITAÇÃO E CONTRATOS 122 Administração Geral Administração Geral Programa: 0004 Planejamento Governamental DEPARTAMENTO DE RECURSOS HUMANO
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 04 Administração Administração
+
+População e Geral Sentencas Judicial
+
+2153 2099 Público Alvo: 020304ął 020303ł
+
+฿5.000.00 65.000,00 Fiorilli SC Ltda • Software 65000 Page 20 of 99
+
+DATA S11 1219018
+
+$2.000.00 62.000,00 явл ASSIKATURA
+
+62000 62000 60.000.00 60.000,00
+
+RUA ASSEMBLÉIA DE DEUS SIN° - CENTRO
+
+60000 60000 CEP 78678-000 BOM JESUS DO ARAGUAI 0,00 0,00
+
+2155 MANUT. E ENC. C/DEPART. DE CONVENIO E PRESTAÇÃO DE CONTAS 3 DESPESAS CORRENTES APROVADO EM \*\* TURNO EM DA 119 1.2023
+
+REAL REAL DEPARTAMENTO DE CONVENIO E PRESTAÇÃO DE CONTAS MANUT. E ENC. C/DEPART. DE COMPRAS 122 Administração Geral Administração Geral
+
+Programa: 0004 Planejamento Governamental
+
+PREFEITURA MUNICIPAL DE BOMJESUS DO AR Administração PREFEITURA MUNICIPAL DE BOM JESUS DO AR DEPARTAMENTO DE COMPRAS 04 Administração
+
+Público Alvo: População e Geral Sentencas Judicial 2154 020307
+
+020306
+
+34.728,00 190.000.00
+
+190000 Page 21 of 99
+
+DATAIL 122 TÖSE 33.075.00 180.000,00
+
+eito
+
+33075 180000 0.00 177.350,00 0,00 177350 34.728,00
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO
+
+DESPESAS DE CAPITAL
+
+AQUISIÇÃO DE MOVEIS E EQUIPAMENTO PERMANENTES Recursos do Exercicio Corrente
+
+Recursos do Exercicio Corrente
+
+APROVADO EM \*° TURNO 12018 REAL MANUT. E ENC. C/GAB. SEC. DA FAZENDA 122 Administração Gerai Administração Geral Programa: 0004 Planejamento Governamental
+
+020402 DEPARTAMENTO DE CONTABILIDADE PREFEITURA MUNICIPAL DE BON JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR Administração Administração GABINETE DO SECRETARIO
+
+Sentencas Judicial Público Aivo: População e Geral 1004 2156 020401
+
+88.500.00 560.000,00 68000
+
+560000 Page 22 of 99
+
+DATA 11 (12 12018
+
+55.000,00 10TURNO 2° TURNO 540.000,0ął
+
+55000 540000 53.500,00 538.500,00ł 68.500.00 53500 538500 0,00 -
+
+MUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO CEP 78678-000 BOM JESUS DO ARAGUAIA -
+
+66500
+
+3 DESPESAS CORRENTES
+
+MANUTENÇÃO E ENCARGOS C/ DPTO DE CONTABILIDADE
+
+TURNO Recursos Ordinátios 12018 MANUTENÇÃO E ENCARGOS COM A TESQURARIA APROVADO EM Administração Geral Administração Geral Programa: 0004 Planejamento Govemamental
+
+020402 DEPARTAMENTO DE CONTABILIDADE DEPARTAMENTO DE CONTABILIDADE PREHEITURA MUNICIRAL DE BOMJESUS DO AR 04 Administração PREFEITURA MUNICIPAL DE BOM JESUS DO AR Administração
+
+Público Alvo: População e Geral Sentencas Judicial 2010 2013
+
+02040ÍÍŘ
+
+210.000,00ł
+
+210000 Page 23 of 99
+
+DATA 11412190D 200.000.00
+
+200000 197.000,0łął 170.000.00 197000
+
+170000. Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. CEP 767800 BOM DEUS DO AE SAIA: MT
+
+Total Geral Financeiro
+
+MANUTENÇÃO E ENCARGOS C/ DPTO DE TRIBUTAÇÃO
+
+R$ - Rea!
+
+APROVADO EM \*° TURNO 122 Administração Geral Programa: 0004 Planejamento Governamental
+
+Dure PREFEITURA MUNICIPAL DE BOM JESUS DO AR DEPARTAMENTO DE TRIBUTOS Administração
+
+Público Alvo: População e Geral Sentencas Judicial
+
+2017 020403
+
+2.000.00 Neta 2027 Page 24 of 99
+
+2058 65800 2021
+
+CNP.L: 04.235.199/0001-98
+
+7.718.00
+
+2020 2019 Meta 2020 7718 DATA\_ 0.00 2C18: 2ste 2018 2018 2.000.00 APROVADO EMẠTURNO
+
+Unid. Meta 20-18 Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios Ind.Recente Ind.Futu:o
+
+Entidade Unid Gram Ficav Furnas Sutfun Acror FonCod, Calagoria, Sem/Produto/Serviço DESPESAS DE CAPITAL
+
+PS - Reai
+
+. 04.235.199/0001-98
+
+AQUISIÇÃO DE ACERVO PARA BIBLIOTECA PUBLICA CEP78678-000 BOM JESUS DO ARAGUAIA - NTł BOM JESUS DO ARAGUAI RUA ASSEMBLÉIA DE DEUS SIN - CENTRO
+
+Unidade de Medida Reai
+
+392 Difusão Cultural
+
+PREFEITURA MUNICIDAL DE BOM JESUS DO AR. DEPARTAMENTO DE CULTURA Programa: 0048 Cultura para Todos 04173952/0001-68ź 13 Cultura Público Alvo: População em Geral Cultura para Todos Indicador
+
+020803 Metas REAL
+
+157.837.50 2.156,00 15783ZšŚ 2156 Lei: 416, Data: 30/08/2017 Page 25 of 99 Fiorilli SC Ltda • Software 250.000.00 11:577.00
+
+DATA 11 139 12018
+
+¡TURNO 2° TURNO 250000 : 157łą
+
+120.000,00 0,00 157.837.00 - 120000 2.156,00
+
+2156 . Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. 157837 R$ • ÁPROVADO EM \*° TURNO
+
+3 DESPESAS CORRENTES COMEMORAÇÃO DE DATAS FESTIVAS E PROMOÇÃO DE EVENTO DESPESAS DE CAPITAL
+
+PS - Real
+
+Recursos Ordinárica CONSTRUÇÃO DE 01 CENTRO COMUNITARIAO
+
+Difusão Culrural
+
+Difusão Culturai CEP 78678-000 BONJESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR.. FREFEITURA MUNICIPAL DE BOM JESUS DO AF. Programa: 0048 Cultura para Todos DEPARTAMENTO DE CULTURA DEPARTAMENTO DE CULTURA 04173952/0001-68Śš
+
+Cultura Cuitura
+
+Público Alvo: População em Geral Cultura para Todos 1137 020803 020803
+
+30.000,00
+
+30000 Lei: 416, Data: 30/08/2017 Page 26 of 99 14.332,00
+
+203.627.00 DATA 11 119 12018
+
+14332îŚš 44.000,00 164.000,00 44000 30.000,00 191.993.00
+
+30000
+
+APROVADO EMẠTURNO R$ Total Geral Financeiro
+
+Recursos do Exercicio Corrente
+
+MANUTENÇÃO E ENCARGOS COM DEPART. CULTURA
+
+CEM 18508 BOM JESUS DO ARAGUAIA: AT
+
+Difusão Cultural
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR. DEPARTAMENTO DE CULTURA Programa: 0048 Cultura para Todos
+
+Cultura
+
+Público Alvo: População em Geral Cultura para Todos 2049 020803
+
+20. 1 10 000 00 10000 2020 Me: 42621Ś Page 27 of 99
+
+707000 2021 110.000,00
+
+DATA 11 (12/9018
+
+2020 110000
+
+2019 Meta 2020 100.000,00łśł 2019 100000 201e: Meta 2019 10 000.00 2018
+
+APROVADO EM \*° TURNO Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios 10000 Una. Mata 2018 Ind. Recente Ind. Futuro Receita de Impostos e de Transferências de Impos EMI
+
+Entidade Unid Orçam, ProjA, Função SubFu, ENG. PonCód. Categoia BerProduto/Servico DESPESAS DE CAPITAL
+
+Programa: 0105 Apoio ao Serviço de Saude Publica do Municipio
+
+Assistência Hospitalar e Ambulatorial Unidade de Medida 04.235.199/0001-98š CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N\* • CENTRO Apoio ao Serviço de Saude Publica do Municipio Real
+
+AQUISIÇÃO DE AMEULANCIA R$ PREFEITURA MUNICIPAL DE BOM JESUS DO AR 020602 FUNDO MUNICIPAL DE SAUDE
+
+3C2 Saúde Público Alvo: População em Geral Indicador
+
+Metas
+
+75 000.00 12.000.00 12000 75000 Lei: 416, Data: 30/08/2017 Page 28 of 99
+
+112 1 901 2° TURNO 70.000.00 12.000,00
+
+DATA 11 1°TURNO 12000 70000 65.000,00 12.000.00 75.000.00, 65000 12000 2.700,00 APROVADO EM \*° TURNO
+
+75000 2700. R$ Receita de Impostos e de Transferências de Impos Receita de Impostos e de Transferências de Impos 3 DESPESAS CORRENTES
+
+Programa: 0105 Apoio ao Serviço de Saude Publica do Municipio
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA • MT
+
+R$ - Reai Recursos do Exercicio Corrente
+
+RUA ASSEMBLÉIA DE DEUS SIN° • CENTRO
+
+AQUISIÇÃO E DISTRIBUIÇÃO DE MEDICAMENTO Suporte Profilático e Terapéutico AÇÕES BASICAS DE VIGILANCIA SANITARIA Apoio ao Serviço de Saude Publica do Municipio Vigiláncia Sanitária
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR • PREFEITURA MUNICIPAL DE BOM JESUS DO AR. FUNDO MUNICIPAL DE SAUDE FUNDO MUNICIPAL DE SAUDE
+
+Saúde Saúde Público Alvo: População em Geral
+
+2038 203€
+
+020602. 020602
+
+42.000.00 130.000 de Fiorilli SC Ltda • Software 42000 Page 29 of 99 40.000.00 232.000.00
+
+40000
+
+DATA 1111919018ł
+
+39.000,00 216.000.0¢ł
+
+39000 42.000.00 129.700;00
+
+42000 Receita de Impostos e de Transferências de Impos Total Geral Finand APROVADO EM \*° TURNO
+
+PROG. TETO FINANCEIRO E COMBATE A DOENÇA RFECO Programa: 0105 Apoio ao Serviço de Saude Publica do Municipio Recursos do Exercicio Corrente R$ - Reai EMi Vigilância Epidemiológica Apoio ao Serviço de Saude Publica do Municipio CEP 78678-000 BOM JESUS DO ARAGUAIA • MT
+
+RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR FUNDO MUNICIPAL DE SAUDE
+
+Saúde População em Geral 2040 Público Alvo: 020602
+
+92.003.00
+
+2018 Lei: 416, Data: 30/08/2017 Page 30 of 99 90001 Nets 202 \_CÂMARA MUNICIPAL DE Fiorilli SC Ltda • Software
+
+1880000 2021 DATA11 / 19, 2020 90.000.00
+
+2020 2019 Meta 2020 90000 80.000.00 2019
+
+CEF 90/J-000 BOM JESUS DO ARAGUAIA • MT ASSEMBLÉIA DE DEUS SIN\* - CENTRO
+
+2016 Mata 2019 83000 APROVADO EM \*° TURNO 2.227.317.48 •
+
+227317 48:
+
+Urid. Nieta 2010 Ind Recente Ind Futuro RS Receita de Impostos e de Transferências de Impos
+
+3 DESPESAS CORRENTES Melhorar a renda e a qualidade de vida do produto e do trabalhador rural.
+
+MANUTENÇÃO E ENCARGOS COM A SECRETARIA DE SAUDE Programa: 0106 Assistencia Médica Hospitalar democ. e Universal
+
+P.S - Real Unidade de Medida Real Foik od
+
+301 Atenção Básica 020601 GABINETE DO SECRETARIA DE SAUDE 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+10 Saúde Público Alvo: Produtor rural 2029 Indicador
+
+Metas REAL
+
+Apber Brotad
+
+13.000,00 10.000.00
+
+13000 10000 Page 31 of 99 DATA 11 (12/9019
+
+CNPJ: 04.235.199/0001-98 -
+
+130.000,00 12.000,00
+
+130000 12000 11.000,00 120.000.00 10.009.00 120000 11000 13.000,00 APROVADO EM \*° TURNO
+
+10000 13000 EM
+
+DESPESAS DE CAPITAL
+
+DESPESAS DE CAPITAL Melhorar a renda e a qualidade de vida do produto e do trabalhador rural. CEP 78678-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO Programa: 0106 Assistencia Médica Hospitalar democ. e Universal BOM JESUS DO ARAQUATA AQUISIÇÃO DE EQUIPAMENTO E MATERIAL PERMANTENTE
+
+R$ - Rea! Recursos do Exercicio Corrente
+
+Assistência Hospitalar e Ambulatorial CONSTRUÇÃO DE POSTOS DE SAUDE
+
+Atenção Básica
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AP: PREFEITURA MUNICIRAL DE BOM JESUS DO AR FUNDO MUNICIPAL DE SAUDE FUNDO MUNICIPAL DE SAUDE
+
+Saúde Saúde Público Alvo: Produtor rural 1018
+
+020602 020602 P
+
+50.000.00 30.000:00
+
+DATA 11112/9012 30000 50000 Page 32 of 99 Forilk SC Ltda • Software CNPJ: 04:235:199/0001-98 .
+
+2° TURNO 200.000.0ćł 30.000.00
+
+1°TURNO 200000 30000 200.000.00ł 30.000,00 200000 30000 APROVADO EM \*° TURNO .700,00 12.000.00
+
+12000.
+
+R$ - Receita de Impostos e de Transferências de Impos Receita de Impostos e de Transterências de Impos
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+4 DESPESAS DE CAPITAL DESPESAS DE CAPITAL Melhorar a renda e a qualidade de vida do produto e do trabalhador rural.
+
+Programa: 0106 Assistencia Médica Hospitalar democ. e Universal R$ - Reai Recursos do Exercicio Corrente
+
+Recursos do Exercicio Corrente Assistência Hospitalar e Ambulatorial Suporte Profilático e Terapéutico CONSTRUÇÃO DE UM HOSPITAL MUNICIPAL CONSTRUÇÃO DA FARMACIA BASICA
+
+PFEFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR FUNDO MUNICIPAL, DE SAUDE FUNDO MUNICIPAL DE SAUDE
+
+Saúde
+
+Saúde Produtor rural 1 073 1041 Público Alvo:
+
+020802ł 020602ÍŚ
+
+10.000,00 30.000.00 30005 10000 Page 33 of 99
+
+DATA 11 1 19/2058
+
+110.000.00 47.000.00 ASSIÑATURA
+
+110000 47000 100.000.00źł 45.000.00 100000 45000 APROVADO EM \*° TURNO 10.000/00 30.000.00
+
+300GG
+
+10009, Receita de Impostos e de Transferências de Impos Receita de Impostos e de Transferências de Impos
+
+DESPESAS DE CAPITAL DESPESAS DE CAPITAL Melhorar a renda e a qualidade de vida do produto e do trabalhador rural.
+
+CEP 78676-000 BOM JESUS DO ARAGUAIA - MT Programa: 0106 Assistencia Médica Hospitalar democ. e Universal RUA ASSEMBLÉIA DE DEUS SIN° • CENTRO
+
+Recursos do Exercicio Corrente
+
+REFORMA E MANUT DAS UNIDADE BASICA DE SAUDE 301 Atencão Básica Atenção Básica
+
+AQUISIÇÃO DE VEICULO PREFEITURA MUNICIPAL DE BOM JESUS DO AR: PREFEITURA MUNICIPAL DE BOM JESUS DO AR FUNDO MUNICIPAL DE SAUDE FUNDO MUNICIPAL DE SAUDE
+
+Saúde
+
+Público Alvo: Produtor rural 1156 1101 020602 020602
+
+270.000.00 340 060.00 270000 34000c Lei: 416, Data: 30/08/2017 Page 34 of 99
+
+DATA 11/121201D
+
+260.000.00
+
+330.000,00
+
+260000 330000 258.000,00ł 320.000.00 2580CO 32000ął 109.523.97. 266.766,57 APROVADO EM \*\* TURNO
+
+R$ 169523,9; ,ą
+
+:68766,57 Receita de Impostos e de Transferências de Impos Receita de Impostos e de Transferências de Impos
+
+3 DESPESAS CORRENTES Melhorar a renda e a qualidade de vida do produto e do trabaihador rural.
+
+CEP 78678-000 SON: JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO Programa: 0106 Assistencia Médica Hospitalar democ. e Universal
+
+PROGRAMA AGENTE COMUNNITARIO DE SAUDE - PACS
+
+Recursos do Exercicio Corrente Recursos do Exercício Conente
+
+Atenção Básica 301 Atenção Básica 02.
+
+PISO DE ATENÇÃO BASICA PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFEITURA MUNISIPAL DE BOM JESUS DO AR FUNDO MUNICIPAL DE SAUDE FUNDO MUNICIPAL DE SAUDE
+
+Saúde
+
+Saúde Público Alvo: Produtor rural 2003 2024 020602
+
+020602
+
+850.000,00 18.000.00 850000 18000 Lei: 416, Data: 30/08/2017 Page 35 of 99
+
+2018
+
+2° TURNO 1.300.000,00 17.000.00 ASSIN 1°TURNO 17000 1300000 DATA\_I 1.273.000.00 15.000,00 15000 1273000 850.000.00 18.000.00 APROVADO EMỗẠỌẠTURNO
+
+18000 850000 R$ Receita de Impostos e de Transferências de Impos Receita de Impostos e de Transferências de Impos 3 DESPESAS CORRENTES
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA • MT Melhorar a renda e a qualidade de vida do produto e do trabalhador rural.
+
+RUA ASSEMBLÉIA DE DEUS S/N° • CENTRO
+
+Programa: 0106 Assistencia Médica Hospitalar democ. e Universal
+
+PROGRAMA DE SAUDE DA FAMILIA - PSF PROGRAMA DA SAUDE BUCAL - ESB Atenção Básica
+
+Atenção Básica 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR FUNDO MUNICIPAL DE SAUDE FUNDO MUNICIPAL DE SAUDE
+
+Saúde Saúde
+
+Público Alvo: Produtor rural 2036 2034
+
+020602 02060îŘšÍ
+
+200.000,00 48 000,00 200000 48000 Lei: 416, Data: 30/08/2017 Page 36 of 99
+
+Fiorilli SC Ltda • Software DATA 11112 19018
+
+240.000,00 0.00
+
+240000 234.000,00łśł 44.000,00 234000 44000 200.000,00 48.000.00
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN\* • CENTRO
+
+48000 200000 Receita de Impostos e de Transferências de Impos Receita de Impostos e de Transferências de Impos
+
+3 DESPESAS CORRENTES
+
+Melhorar a renda e a qualidade de vida do produto e do trabalhador rural.
+
+Programa: 0106 Assistencia Médica Hospitalar democ. e Universal
+
+Recursos do Exercicio Corrente Recursos do Exercicio Corrente PROGRAMA DE APOIA A SAUDE A FAMILIA PASCAR Assistência Hospitalar e Ambulatorial APROVADO EMẠỌ&TURNO
+
+Atenção Básica
+
+MANUTENÇÃO DO CISMA 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR FUNDO MUNICIPAL DE SAUDE FUNDO MUNICIPAL DE SAUDE =M
+
+Saúde Saúde
+
+Público Alvo: Produtor rural 2037 2090
+
+020602 020602
+
+920.000,00ł 2.879.000,00
+
+9018
+
+920000
+
+Page 37 of 99 ASSINAT 900.000,00ł 3.666.000.00
+
+DATA 31 900000 880.000,00 3.610.000.00 880000 APROVADO EM \*\* TURNO 300.000,00 4.157.308,02
+
+300000 Receita de Impostos e de Transferências de Impos Total Geral Financeiro
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+Melhorar a renda e a qualidade de vida do produto e do trabalhador rural.
+
+Programa: 0106 Assistencia Médica Hospitalar democ. e Universal.
+
+Assistência Hospitalar e Ambulatorial MANUTENÇÃO DA FARMACIA BASICA
+
+2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. FUNDO MUNICIPAL DE SAUDE
+
+Saúde
+
+Público Alvo: Produtor rural 2118 020602
+
+700,0ł 2021
+
+DATA 11L3212018 CNPJ: 04.235.199/0007-98 -
+
+Meta 2021 Page 38 of 99
+
+175000 2021 600.00
+
+2020 2019 Meta 2020
+
+500,00 2019 2300ł 2018 Meta 2019 APROVADO EM \*\* TURNO 700.00 2018
+
+Unid. Meta 2018 Ind. Recente Ind.Futuro EM R$ CEP 78679-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO
+
+FonGi. FonCód. Calegoria Bem/Produto/Serviço
+
+DESPESAS DE CAPITAL
+
+OBRA REST. AMPL. REDE ABST. AGUA NA SEDE Unidade de Medida 512 Saneamento Básico Urbano Real DEPARTAMENTO DE SERVIÇOS URBANOS
+
+R$ Programa: 0107 Abastecimento de Agua 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR ProjAtiv Função SubFun Saneamento 04173952/0001-68ź Abastecimento de Agua População em Geral 1033 Indicador Público Alvo: 021003
+
+Metas Real
+
+Entidade
+
+1.600,00 25.000.00 27.300.00
+
+DATA {1 119 19018 25000 1600 Page 39 of 99
+
+ASSINATURA - Software
+
+1.500,00 20.000.00 22.100,00
+
+20000 1500 20.000.00 1.000,00 21.500,00
+
+20000 1.600,00ł 1.700,00 4.000.00 APROVADO EM \*\* TURNO
+
+1700 1600 Total Geral Financeiro EM
+
+3 DESPESAS CORRENTES DESPESAS DE CAPITAL
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA • MT RUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO
+
+MANUTENÇÃO E ENCARGOS COM S.A.A.E Saneamento Básico Urbano Saneamento Básico Urbano PERFURAÇÃO DE POÇO ARTESIANO DEPARTAMENTO DE SERVIÇOS URBANOS DEPARTAMENTO DE SERVIÇOS URBANOS
+
+Programa: 0107 Abastecimento de Agua PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR. Saneamento Saneamento
+
+Abastecimento de Agua Público Alvo: População em Geral
+
+1034 2041
+
+021003 021003
+
+85.000.00 Meta 2021- 85000 Page 40 of 99
+
+12018 250000 2021
+
+2020 85.000.00
+
+DATA {1 / 11
+
+2020 2019 Meta 2020 85000 81.350.00 2019 2018 Meta 2019 81350 0.00 2018 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. APROVADO EM \*\* TURNO Unid. Meta 2018
+
+Ind. Recente Ind. Futuro
+
+MANUT. E ENC. COM GABINETE DO SEC. ASSISTENCIA SOCIAL
+
+Entidade Unid Orçam, ProjAtiv Função SubFun, FonGr. FonCód. Categoria Bem/Produto/S
+
+CEP 7867S-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO
+
+REAL
+
+Programa: 0108 Gestao de Sistema de Assistencia Social Unidade de Medida GABINETE DA SECRETARIA DE PROMOÇÃO SOCIAL 244 Assistência Comunitária Real Gestao de Sistema de Assistencia Social
+
+Assistência Social 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+População em Geral 2143 Indicador Público Alvo: 020701ł
+
+Metas REAL
+
+Ações
+
+36.465.00 11.576.00ł 11576 36465 Page 41 of 99 Fiorilli SC Ltda • Software
+
+34.729.00 11.025.00
+
+CNPJ: 04.235.199/0001-38
+
+2° TURNO 34729 11025 ASSIN 1°TURNO 0.00 5.000.00 DATA 5000 APROVADO EM \*° TURNO 36.465,00 11.576,00 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+11576 36465 EM:. R$
+
+CEP 7867B-000 BOM JESUS DO ARAGUAIA • MT RUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO
+
+3 DESPESAS CORRENTES 4 DESPESAS DE CAPITAL
+
+AQUISIÇÃO DE CESTAS BASICAS MATERIAL DE CONSTRUÇÃO
+
+Recursos do Exercicio Corrente
+
+Programa: 0108 Gestao de Sistema de Assistencia Social AQUISIÇÃO DE MAQUINAS E EQUIPAMENTO 244 Assistência Comunitária Assistência Comunitária FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL Gestao de Sistema de Assistencia Social
+
+Assistência Social Assistência Social PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 04173952/0001-68ź
+
+População em Geral 1015 Público Alvo:
+
+020702ł 020702
+
+25.000,00 56.884.00ł 56884 25000 Page 42 of 99 Fiorilli SC Ltda • Software
+
+DATA 11 17219018 TOTURNO - - 2° TURNO
+
+25.000,00 55.125.00
+
+25000 55125 120.000.00 25.000.00 25000 120000 APROVADO EM \* TURNO 56.884.00 11.576,00 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+56884 11576 EM R$
+
+CEP 76678•00G BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° • CENTRO
+
+4 DESPESAS DE CAPITAL 4 DESPESAS DE CAPITAL
+
+Recursos do Exercicio Corrente
+
+CONSTRUÇÃO DO PREDIO ASSISTENCIA SOCIAL Programa: 0108 Gestao de Sistema de Assistencia Social CONSTRUÇÃO E AMPLIAÇÃO DO CEMITERIO 244 Assistência Comunitária Assistência Comunitária FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL 020702 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL Gestao de Sistema de Assistencia Social
+
+08 Assistência Social Assistência Social PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+População em Geral
+
+1042 1053 Público Alvo: 020702
+
+8.000,00 600.000.00
+
+DATA 11 / 19 19018
+
+CNPJ: 04.235.199/0001-98. 600000 8000 Page 43 of 99
+
+Fiorilli SC Ltda • Software
+
+600.000,0ął 0,00
+
+600000 599.000,00 0,00 599000 ABREVADO EM \*\* TURNO 260.000,00 8.000.00 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+8000 260000
+
+3 DESPESAS CORRENTES 5 DESPESAS CORRENTES MANUTENÇÃO E ENCARGOS COM A SEC. ASSSISTENCIA SOCIAL CEP 78678-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS SIN° - CENTRO
+
+Recursos do Exercicio Corrente
+
+243 Assistência à Criança e ao Adolescente PROGRAMA DE ATENDIMENTO A CRIANÇA -PAC Programa: 0108 Gestao de Sistema de Assistencia Social Assistência Comunitária FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL Gestao de Sistema de Assistencia Social
+
+Assistência Social 08 Assistência Sociai PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+Público Alvo: População em Geral
+
+2027 2022 020702
+
+020702
+
+~
+
+84.000,00 60.000,00
+
+DATA 9111919018 84000 60000
+
+Page 44 of 99
+
+84.000,00 60.000,00
+
+84000 60000 84.000,00 60.000.00 84000 60000 75.000.00 27.000,00 APROVADO EM \*\* TURNO Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. 75000
+
+27000 R$
+
+CEP 787-00 OM DESUS DO ARAGUAIA MT
+
+AQUISIÇÃO DE CESTAS BASICAS ALIMENTOS DIS GRATUITA
+
+Recursos do Exercicio Corrente
+
+MANUTENÇÃO COM ATIVIDADES DE CURSOS Programa: 0108 Gestao de Sistema de Assistencia Social 244 Assistência Comunitária Assistência Comunitária 020702 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+Gestao de Sistema de Assistencia Social
+
+08 Assistência Social Assistência Social PREFEITURA MUNICIPAL DE BOM JESUS DO AR 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+Público Alvo: População em Geral 2062 2031 020702
+
+165.000,00ł 10.000.00
+
+DATA 1] (39 19018 165000 10000
+
+Page 45 of 99 2° TURNO 80.000,00
+
+0.00
+
+1°TURNO 80000 80.000.00 0,00 80000 APROVADO EM \*\* TURNO 165.000,00 10.000.00 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. 165000
+
+10000 R$ 3 DESPESAS CORRENTES
+
+HLTS-400 BOM JESUS DO ARAGUAIA - MT E ASSEMALÉIA DE DEUS SIN° • CENTRO
+
+Programa: 0108 Gestao de Sistema de Assistencia Social MANUTENÇÃO E ENCARGOS COM CRAS 244 Assistência Comunitária Assistência Comunitária FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL AUXILIO PESSOAS CARENTES Gestao de Sistema de Assistencia Social
+
+08 Assistência Social Assistência Social PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. DEPARTAMENTO DO CRAS
+
+População em Geral
+
+2083 2077 Público Alvo: 02070zšź 020702
+
+0,00 80.770.00
+
+DATA 11/12/2018
+
+80770 CNPJ: 04:235.199/0001.98
+
+Page 46 of 99
+
+0.00 80.000,00
+
+80000 0,00 80.000,00 80000 500,00 APROVADO EM \*° TURNO 80.770,00 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. 80770 RS 3 DESPESAS CORRENTES MANUTENÇÃO CONSELHO TUTELAR DOS DIR. CRIANÇAS ADOLESC
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - PT
+
+RUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO
+
+R$ - Reai
+
+243 Assistência à Criariça e ao Adolescente Programa: 0108 Gestao de Sistema de Assistencia Social CONSELHO MUNICIPAL DA CRIANÇA E DO ADOLESCENTE 1129 AQUIIÇÃO DE UM ACADEMIA P/ IDOSO 241 Assistência ao Idoso
+
+Gestao de Sistema de Assistencia Social
+
+08 Assistencia Social CONSELHO MUNICIPAL DO IDOSO Assistência Social PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+População em Geral 2026 020705 020704 Público Alvo:
+
+40.000.00 35.000.00 1.297.695.00 40000
+
+35000 1212058 Page 47 of 99
+
+Fiorilli SC Ltda
+
+2° TURNO 40.000,00 1.154.879.00 0,00
+
+1°TURNO DATAYL 40000 40.000,00 1.174.350.00 0,00 40000 0.00 35.000.00 777.771,00ł APROVADO EM \*\* TURNO Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. 35000
+
+Total Geral Financeiro R$ EM 3 DESPESAS CORRENTES
+
+CEP 78678-000 SOM JESUS DO ARAGUAIA - MT Recursos do Exercicio Corrente RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO
+
+Real Manut. e Encargos com o Cons. Municipal do Idoso Programa: 0108 Gestao de Sistema de Assistencia Social Assistência Comunitária Assistência ao Idoso
+
+ATENÇÃO A TERCEIRA IDADE
+
+Gestao de Sistema de Assistencia Social
+
+Assistência Social CONSELHO MUNICIPAL DO IDOSO Assistência Social CONSELHO MUNICIPAL DO IDOSO PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFEITURA MUNICIPAL DE BOM JESUS DO AR.
+
+Público Alvo: População em Geral 2157 2023 020705 020705
+
+~
+
+Programa: 0109 Morar Melhor
+
+Público Alvo: População em Geral PREFEITURA MUNICIPAL DE BOM JESUS DO AR REAL Metas Indicador 020702
+
+Morar Melhor
+
+FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+1067 CONSTRUÇÃO DE CASA POPULAR 1€ Habitação
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO Habitação Urbana
+
+Unidade de Medida
+
+Real
+
+DESPESAS DE CAPITAL RS - Real Total Geral Financeiro nd.Recente Ind. Futuro EM\_ APROVADO EM \*° TURNO Unid. Meta 2078 2000 2.000,00 2.000,00 120000 2018 2918 Mete 200 2019 Lei: 416, Data: 30/08/2017 Page 48 of 99 120.000.00 120.000.00 2019 Meta 2020
+
+DATA-
+
+2020 150000 1311212017 SSINATURA 150.000,00 150.000,00
+
+2020 Meta 2021 50000 2021 15000šîšŚ 150.000.00 150.000.00
+
+Programa: 0110 Gestao de Sistema de Assistencia Social: Ações
+
+Publico Alvo: População em Geral PREFEITURA MUNICIPAL DE BOM JESUS DO AR 025702 Metas Real Indicador FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalno. Gestao de Sistema de Assistencia Social 1067
+
+CONSTRUÇÃO DE CASA POPULAR Assistência Social 244 Assistência Comunitária
+
+R$ Unidade de Medida
+
+Real
+
+Categoria Pen Pro do/Sorvico DESPESAS DE CAPITAL Ind. Recente Ind Futuro APROVADO EM \* TURNO Meta 2012 50000 50.000.00 2018 Meta 2019: 2019 Lei: 416, Data: 30/08/2017 Page 49 of 99
+
+2019 Meta 2020 0,00 50000 DATA 11112/2018
+
+2020
+
+suo 50.000.00 Fionlli SC Ltda - Software 2020: Meta 21,2ął 165500 2021 50000 50.000,00
+
+Programa: 0110 Gestao de Sistema de Assistencia Social Público Alvo: População em Geral
+
+PRESEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 020702 020702Śš FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+Gestao de Sistema de Assistencia Social FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL 2027 1157
+
+CEP 7861 RUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO
+
+PROGRAMA DE ATENDIMENTO A CRIANÇA -PAC CONSTRUÇAO DA CASA DO INDIO
+
+Assistência Sociai Assistência Sociai
+
+Assistência à Criança e ao Adolescente Assistência Comunitária JESUS DO ARAGUAIA - N
+
+Recursos do Exercicio Corrente
+
+DESPESAS DE CAPITAL Real R$ - Rea! EM APROVADO EM \*° TURNO 50000 50.000.00
+
+0,00 0,00
+
+DATA 1) (12(2018
+
+50000 3000
+
+50.000,00 Fibrilli SC Ltda - Software 3.000,00 Page 50 of 99 50000 50.000,00 0,00
+
+Programa: 0110 Gestao de Sistema de Assistencia Social
+
+Público Alvo: População em Geral PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR 020702 020702 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+Gestao de Sistema de Assistencia Social FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL
+
+2063 2077 MANUTENÇÃO ENCARGOS CREAS 08 Assistência Socia! AUXILIO PESSOAS CARENTES Assistência Social 244 Assistência Comunitária 244 Assistência Comunitária EM APROVADO EM \*° TURNO
+
+Recursos do Exercicio Corrente
+
+CEP 78578-000 BOM JESUS DO ARAQUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS SIN° - CENTRO R$
+
+15000 15.000.00 0,00 Lei: 416, Data: 30/08/2017 Page 51 of 99 0,00 0,00
+
+DATA 11
+
+1°TURNO- - •2° TURNO 30000
+
+30.000,00
+
+0,00 12018ął 15000 15.000,00 0,00
+
+Programa: 0110 Gestao de Sistema de Assistencia Social Público Alvo: População em Geral
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR 020703 020702 FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+Gestao de Sistema de Assistencia Social DEPARTAMENTO DO CRAS
+
+2116 2085 MANUTENÇÃO E ENCARGOS COM ATIVIDADES CEMITERIO
+
+MANUTENÇÃO E ENCARGOS COM CRAS Assistência Social Assistênca Social 244 Assistência Comunitária 244 Assistência Comunitária EM APROVADO EM \*° TURNO Recursos do Exercicio Corrente
+
+₴ Recursos Ordinanos
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+CAMARA MUNICIPAL DE
+
+0,00. 0,00
+
+0,00 0,00 DATA J
+
+CNPJ: 04.235.199/0001-98ął 1°TURNO 165000 2000 ASSINAT 165.000.00 2° TURNO 2.000,00 Page 52 of 99
+
+0055 0,00 0,00
+
+Programa: 0110 Gestao de Sistema de Assistencia Social
+
+Público Alvo: População em Geral
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 020703 020704ł
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. Gestao de Sistema de Assistencia Social DEPARTAMENTO DO CRAS CONSELHO MUNICIPAL DA CRIANÇA E DO ADOLESCENTE
+
+2083 08 Assistencia Social MANUTENÇÃO E ENCARGOS COM CRAS MANUTENÇÃO CONSELHO TUTELAR DOS DIR CRIANÇAS ADOLESC Assistência Social 244 Assistência Comunitária 243 Assistência à Criança e ao Adolescente Recursos do Exercicio Corrente APROVADO EM \*\* TURNO Recursos do Exercicio Corrente
+
+Recursos Ordinarios
+
+DESPESAS DE CAPITAL
+
+R$ CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N\* - CENTRO
+
+0,00 . 0,00
+
+0,00 0,00 DATA 11/19 19018
+
+CNPJ: 04.235.199/0001-98Ś 1°TURNO 16000 88770
+
+16.000.00 ¿° TURNO 88.770,00
+
+Page 53 of 99 0,00 0,00
+
+Programa: 0110 Gestao de Sistema de Assistencia Social
+
+Objetivo. Público Alvo: População em Geral PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BOM JESUS DO AR. 020705 02070šŘš
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. Gestao de Sistema de Assistencia Social CONSELHO MUNICIPAL DO IDOSO CONSELHO MUNICIPAL DO IDOSO
+
+1050 1129 CONSTRUÇÃO DO LAR IDOSO AQUIÇÃO DE UM ACADEMIA P/ IDOSO Assistência Social APROVADO EM \*° TURNO Assistência Sociai 244 Assisiência Comunitária
+
+Assistência ao Idoso
+
+DESPESAS DE CAPITAL DESPESAS DE CAPITAL R$ - Reai R$ - Reai
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLEIA DE DEUS S/N' • CENTRO
+
+CAMARA MUNICIPAL DE Total Geral Financeiro R$ 50000 165.000,00 50.000,00 0,00 Lei: 416, Data: 30/08/2017 Page 54 of 99 0,00 0,00 0,00
+
+DATA-
+
+50000
+
+1°TURNO 11/12/2058 ASSINATURSC Lida - Sofiware 454.770,00 50.000,00 2° TURNO 0,00 50000 165.500,00 50.000,00 500,90
+
+Programa: 0111 Revit. Manut e Desenv. do Ensino Fundamental e Infantil
+
+Objetivo. Público Alvo: Servidores públicos municipais PREFEITURA MUNICIPAL DE BOM JESUS DO AR Metas REAL ndicador 02050ł inic Orce Por C222aa 200212000
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+GABINETE DO SECRETARIA DE EDUCAÇÃO
+
+2047 MANUTENÇÃO E ENC. C/ GAB SECRETARIA DE EDUCAÇÃO
+
+Educação
+
+Ensino Fundamenta! Pontar TorCod, Categona Ser/Produto/se Unidade de Medida
+
+...... Real Receita de Impostos e de Transferências de Impos
+
+APROVADO EM \*° TURNO R$ - Rea! EM: Ind. Recente Ind. Futuro Unid. Meta 2318 RS 04.235.199/0001-98--.. CEP 79678-000 SOM JESUS DO ARAGUI CÂMARA MUNICIPAL DE RUA ASSEMBLÉIA DE DEUS S/N° - CENTRO
+
+2018 2029 Meta 2019 0,00 115350 Lei: 416, Data: 30/08/2017 Page 55 of 99 2019 115.350,00
+
+2019, Meta 2020 DATA 11/1212018
+
+120000 2020
+
+·ett 120.000.00 2027810,92
+
+2021 12000₴šŚ 120.000.02
+
+Programa: 0111 Revit. Manut, e Desenv, do Ensino Fundamental e Infantil PREFEITUPA MUNICIPAL DE POM JESUS DO ARE Público Alvo: Servidores públicos municipais
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR 020502 020502 DEPAR TAMENTO DE ENSINO
+
+DEPARTAMENTO DE ENSINO
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+1078 1023
+
+CONSTRUÇÃO DE QUADRAS POLIESPORTIVAS. CONSTRUÇÃO E AMPLIAÇÃO DE UNIDADE ESCOLARES Educação Educação
+
+Ensino Fundamenta: Ensino Fundamental Recursos do Exercicio Corrente
+
+Racurens do Exercicio Comente o: CEP 78678-000 BOM ROM ASSEMBLÉIA DE DEUS SI
+
+Receite de Impostos e de Transferências de impos
+
+Receita de Impostos e de Transferencias de Impos DESPESAS DE CAPITAL DESPESAS DE CAPITAL RS - Rea!
+
+CENTRO R$ 239459 20000. APROVADO EM EM: 239.459.00 20 000.0Łął TURNO 13000
+
+DATAIS 112 10018 13.000,00
+
+0,00 275675 ASSINÁTURA Доли Fionili SC Ltda - Software 275.675,00 0.00 Page 56 of 99 239459 2009 239.459,00ł 20.000.00
+
+Programa: 0111 Revit. Manut. a Desenv. do Ensino Fundamental e Infantil
+
+Público Alvo: Servidores públicos municipais FREFEITURA MUNICIPAL DE BOM JESUS LY) A.P. PREFEITURA MUNICIPAL DE BOM JESUS DO AR 020502îŘŚę 020502 DEPARTAMENTO DE ENSINO
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalno.
+
+DEPARTAMENTO DE ENSINO. 2046
+
+MANUTENÇÃO E ENCARGOS COM DEPTO DE ENSINO QUALIFICAÇÕES DE PROFESSOR Educaçac Educação 361 Ensino Fundamental
+
+Ensino Fundamental Recursos do Exercicio Corrente Recursos do Exercicio Corrente Receila de Impostos e de Transferências de Impos Receita de Impostos e de Transferências de Impos APROVADO EM \*\* TURNO EM\_
+
+REAL R$ : Reai 11577 :
+
+CEP 78678-000 SOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SINA BEM JESUS DO ARAGUAIABOM JESUS DO ARAGUAIA - MT
+
+811.411.22 176234,50 11.577,00 10500
+
+1.475.234,59 10.500,00 DATA 11/32/2018 CAMARA MUNICIPAL DE
+
+800000 11025
+
+Fiorilli SC Ltda • Software 11.025,00 Page 57 of 99 11577 11.577,00
+
+Programa: 0111 Revit. Manut. e Deseny, do Ensino Fundamental e Infantil 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+Público Alvo: Servidores públicos municipais objetivo: PREFETURA COMOPAL DE BOM RESTO DO AR/ 020502 020593
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+DEPARTAMENTO DE ENSINO DEPARTAMENTO DE ENSINO
+
+2058 3005 MANUTENÇÃO E ENC. C/ CRECHE CONN TRUÇÃO ESCOL A MUN. INDIGENA MARATSEDE Educação Educação 361 Ensino Fundamental Educação Interdit Recursos de Exercicio Coments
+
+Recrita de Impostos e de Travoreréncias de Impos Receita de Impostos e de Transferências de Impos
+
+CEP 78678-000 50M JESUS DO ARAGUAIA - MT QUA ASSEMBLÉIA DE DEUS SIN\* • CENTRO DESPESAS DE CAPITAL
+
+RS - Real R$ REAL R$ẠỊi 110250 110.250.00 173000 1.000,00 APROVADO EMỊẠỊẠ
+
+TURNO 173.000,00 0,00 110250
+
+10000 DATA I] (10
+
+1°TURNO 110.250,00 10.000.09
+
+Page 58 of 99 2° TURNO 110200 12058 110.250,00
+
+Programa: 0111 Revit, Manut, e Desenv. do Ensino Fundamental e Infantil 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR -
+
+Público Alvo: Servidores públicos municipais
+
+PREFETURA MUNCIAL DE BOMMERUS DOARD 020502 020503 PI
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+Aquisição de Equipamento e Material Permanente para Modernização e moihorar as condições de trabalho. DEPARTAMENTO DE ENSINO FUNDO MUNICIPAL DE ROUCAÇÃO FME
+
+3004 2070 12 Educação CONSTRUÇÃO DA ESCOLA MUN. PLANALTO DO ARAGUAIA. SALARIO EDUCAÇÃO Educação
+
+Engino Fandamental Ensino Fundamental Recerena do Exercido Corrente Recursos so Exercido Corrente
+
+Regela de Impostos e de Transferencias de Impos Receita de impostos e de Transferências de Impos APROVADO EMỗẠỌẠTURNO EM. DESPESAS DE CAPITAL
+
+R$ REAL 5.2 - Rea M2 1000
+
+CEP 78971 BOM OCOUS DO ARAGUAIA
+
+25762007 05000 1.000,00. - RIA DE SEUS S-N DO ARAGUMA • NT Lei: 416, Data: 30/08/2017 Page 59 of 99 35.000,00 0,00
+
+DATA 1111919018
+
+90250
+
+90.250,00 Forilli SC Ltda - Software 0,00 1000 1.000.0G
+
+Programa: 0111 Revit. Manut. e Desenv. do Ensino Fundamental e Infantil.
+
+Publico Alvo: Servidores públicos municipais
+
+PREFEITUPA MUNICIPAL DE BOM JESUE DO A PREFEITURA MUNICIPAL DE SOM JESUS DO AR. 02050A FUNDE 020504 FUNDEB
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+2015 2042
+
+MANUTENÇÃO COM O FUNDES FUNDAMENTAL REMUN. DOS PROF DE MAGIS. EDU. BASICA FUNDAMENTAL Educação Educaçãc 3€1 Ensino Fundamental Ensino Fundamenta: Artursos de Exercício Corrente
+
+Transferências do FUNDEB 40% Transferências do FUNDE8 6054 CEP 78678-000 BOM JESUS DO ARAGUAIA - MT ROMASSEMBLÊIA DE DEUS SIN\* - CENTRO
+
+, RS - Ras! • R$ - Real 1900000 5680007 EM\_ APROVADO EM \*\* TURNO 1.900.000.00 524123,42 598/000.00: 148/48.25ł
+
+2.524.123,42 016402,97
+
+DATA 11 (19/9018 370505.85 CAMARA MUNICIPAL DE
+
+2.016.402,97 870.605,80 Fiorili SC Ltda - Software Page 60 of 99 2100000Śš 2.100.000,00
+
+Programa: 0111 Revit. Manut. e Desenv. do Ensino Fundamental e Infantil Justifiattive: Objetivo. Público Alvo: Servidores públicos municipais PREFEITURA MUNICIPAL DE BOM JESUS DO.AR PRERATURA UUNOA EDE BOM JESUS DO AL 020504 020509 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+FUNDAD 2030: REMUN. DOS PROF DE MAGIS EDU. BASICA INFANTIL. MANUTENÇÃO DE ENCARGOS FUNDE INFANTIL Educação Educação Educação infanti Educação Infanti APROVADO EM \*° TURNO Recursos do Exercicio Corrente Recursos do Exercicio Corrente Transteréncias de FUNDEB 60% Transferências do FUNDEB 40%
+
+R$. - Real - Real Total Geral Financeiro
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA • MT R$ 274351,58, RUA ASSEMBLÊIA DE DEUS SIN\* - CENTRO
+
+9310 274.351,5₴î 4.041.820,80 9.310,00 Lei: 416, Data: 30/08/2017 Page 61 of 99 5.795.956,25 • 0,00 0,00
+
+DATA 19 / 12/9018
+
+4.304.108,82
+
+0,00 Fiorilli SC Ltda • Software 0,00 3.749.048,00 0,00
+
+Programa: 0112 Apoio Educacional
+
+Público Alvo: Alunos ensino Fundamental
+
+PREFEITURA MUNISFAL DE COM JESUS DO ARA Indicados: 020501 REAL Aquisição de Equipamento e Material Permanente para Modernização e molhorar as condições de trabalho Apoio Educacional
+
+GABINETE DO SECRETARIA DE EDUCAÇÃO 1054
+
+AQUISIÇÃO DE MEDULO 12 Educação 251 Ensino Surdementel
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN° - CENTRO Iniatte de Medida
+
+Real Receita de Impostos e de Transferencias de Impos DESPESAS DE CAPITAL
+
+Ind. Recente Ind. Futuro 14729/1 APROVADO EM \*° TURNO EM i 14.729.00: 43000
+
+Lei: 416, Data: 30/08/2017 Page 62 of 99
+
+43.000,00 DATA 11 119 19058 2619 Meia 2020 CAMARA MUNICIPAL DE
+
+43000- ASSÍNATURA 43.000.0C
+
+931000 2021
+
+Programa: 0112 Apoio Educacional Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. Público Alvo: Aiunos ensino Fundamental
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNOPAL DE SONJESUS DAR 020502 020502 Apoio Educacional
+
+DEPARTAMENTO DE ENSINO DEPARTAMENTO DE ENSINO
+
+1021 1132 AQUISIÇÃO DE VEICULO P/ TRANSPORTE ESCOLAR AQUISIÇÃO DE MATERIAIS E EQUIPAMENTOS Educação Educação
+
+361 Ensino Fundamental
+
+Ensino Fundamentel
+
+NOSCHALEIA DE DEUS SIN° • CENTRO 1-000 SOM JESUS DO ARAS! Recurcos do Exercico Curiene Recursos es Exorcicio Comente Enceto de impostos e de Trensternales de impos Receita de Impostos e de Transferências de impas DESPESAS DE CAPITAL DESPESAS DE CAPITAL R$ - Reai EM: APROVADO EM \* 15,500 E TURNO ,1-550,0Q - 180000
+
+180.000,00 110 000,00
+
+CÂMARA MUNICIPAL-DE DATA 1S /12/9018
+
+190000. 33075
+
+190.000,00 33.075,20ł
+
+Page 63 of 99 200000 3472: 200.000.00 22901
+
+Programa: 0112 Apoio Educacional Justificativa.
+
+Público Alvo: Alunos ensino Fundamental PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PRESEITURA MUNICIAL DE SOMPECUS DOLAR E 020505 020503
+
+FUNDO MUNICIPAL DE EDUCAÇÃO-FME Apoio Educacional FUNDO MUNOIPAL DE EDERAÇÃO EMO
+
+04173952/0001-58 1128
+
+MANUTENÇÃO DE TRAMSPORTE ESCOLAR 12 Educação MANUTENÇÃO DO PNAC
+
+Educação зет
+
+Ensino Fundamenta, Ensino Fundamental APROVADO EM \*° TURNO EM: Recursos do Exercicio Corrente Recursos do Exercicio Corrente Recena de Impostos e de Trans intencias de Impos Receita de Impostos e de Transferências de impos
+
+•R$ - Real R$ - Reai
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSENBLETA DE DEUS SHA SENTRO.
+
+234725. 450000m 234.729,00 450,000,000 1197000 20000
+
+1107.000.00zł 20.000,00
+
+DATA I CAMARA MUNICIPAL DE 41800łŘŚŘŚ
+
+33075
+
+415.000,00 33.075,00
+
+Page 64 of 99 91900 234729 234./29.00
+
+Programa: 0112 Apoio Educacional PREFEITURA MUNICIPAL DE BOM JESUS DO AR. Público Alvo: Alunos ensino Fundamental
+
+PREFEITURA MUNICIPAL DE BOMJESUS DO ARA 020503 020503 Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios Apoio Educacional
+
+FUNDO MUNICIPAL DE EDUCAÇÃO FME FUNDO MUNICIPAL DE EDUCAÇÃO-FME
+
+2052 2061 FORNECIMENTO DE MERENDA ESCOLAR PNAE PROGRAMA DINHEIRO DIRETO NA ESCOLA PODE 12 Educação Educação 36 !
+
+Ensino Fundainentai Ensino Fundamental Recursos de Exercicio Comente
+
+Receita de Imposice e de Transferências de Impos Receita de Impostos e de Transferências de Impos CAMARA MUNICIPAL DE
+
+R$ - Ree
+
+SUS DO ARAGUAIA HT : .PS 46427 57813 APROVADO EM \*° TURNO EM. 05:420:00ł 5.787,00 768000 8000 Lei: 416, Data: 30/08/2017 Page 65 of 99 768.000,003 8.000,00 8 500000 DATA IS 119 19018
+
+9000 500 000.00 38060
+
+9.000,00
+
+10000 T80.060,00ạẠi 10.000,00
+
+Programa: 0112 Apoio Educacional
+
+Público Alvo: Alunos ensino Fundamental PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREPETURA MORTOPAL DE COM JESUS DO AR 020503 020503 Apoio Educacional Aquisição de Equipamento e Material Permanente para Modernização e molhorar as condições de trabalho
+
+FUNDO MUNICIPAL DE EDUCAÇÃO-FME
+
+FUNDO MUNICIPAL DE EDOCAÇÃO-FME
+
+2064 2078 MANTER AS ATIVIDADES ESSENCIAIS A MANUTENÇÃO DO PDD 12 Educação FORMECIMENTO DEMERENDA ESCOLAR Educeção
+
+Ensino Fundamentel Ensino Fundamental Recursos no P'rercisio Corrente Recursos de Exercício Corrente
+
+Ra seta de Impostos e de Transferências de Impos Receita de Impostos e de Transferências de Imposs
+
+CEP 79878-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLEIA DE DEUS SINẠỊ CENTRO RO - Reel
+
+CÂMARA MUNICIPAL Total Geral Financeiro 343020 578710 1.136.754,00 343.020.00- 5.787:00 :ęŚł 87000 EM\_ APROVADO EN¿ ¿TURNO
+
+2.413.000,00 87.000,00
+
+0,00 DATA 11
+
+CNPJ: 04.235.19970001-98 97000
+
+11212018ł 1.323.150.00 2° TURNO 97.000.00 Page 66 01 90
+
+0,00 97000 1.626.458,00 97.000.06
+
+Programa: 0113 Reforma e Ampliação da Creches Municipais Objetivo. Justificativa. Público Alvo: Crianção de 0 a 6 anos PRETEITURA MUNICIPAL DE BOM JESUS DO AR Metas REAL Indicador 020502 Reforma e Ampliação da Creches Municipais Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+FUNDO MUNICIPAL DE EDUCAÇÃO FME
+
+1136 / REFORMA E AMPLAÇÃO DE CRSCHES MUNICIPAIS Educaces 365 Educação Inianti! Unidade de Medida
+
+Real Receita de Impostos e de Transferências de impos DESPESAS DE CAPITAL
+
+CEP 78878-000 BOM JESUS DO ARAGUAIA - MT
+
+RUA ASSEMBLÉIA DE DEUS SIN CERIMO- BEM JESUS DO ARAGUAIA
+
+Ind. Recente Ind: Futuro 68 < 3720.67 3.700.57 Lei: 416, Data: 30/08/2017 Page 67 of 99 2019ł =M\_\_ APROVADO EM \* 0,00 . BOM JESUS DO ARAGUATA - MT DATA 1I - CNPJ: 04.235.199/0001-98 CAMARA MUNICIPAL DE
+
+2020 ILHASSH 112 19018 179620
+
+Programa: 0113 Reforma e Ampliação da Creches Municipais
+
+Público Alvo: Crianção de 0 a 6 anos PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFETURA MUNICIPAL DE ROM JESUS DO AR D 020503 Reforma e Ampliação da Creches Municipais Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. FUNDO MUNICIPAL DE EDUCAÇÃO-FME
+
+FUNDO MUNICIPAL DZ EDUCAÇÃOPME
+
+1165 1:55 REFORMA E AMPLIAÇÃO DE ESCOLA PUBLICA 12 Educação CONSTRUÇÃO DE UMA P-PUTECA EG.CAgRO
+
+Enucação Infant Edi cacto Infant Perarca do Exercido corrente Recursos de Exercício Corrente Parar de Impostos e de Transferências de Impos Receita de Imposios e de Transferências de Impos DESPESAS DE CAPITAL APROVADO EM \* TURNO DESPESAS DE CAPITAL
+
+Total Geral Financeiro R$ 04.235.199/0001-9 CÂMARA MUNICIPAL DE 1000% CÂMARA MUNICIPAL O BOM JESUS DO ARAGUAIA - MT 100 BOM JESUS DO A SUS DO ARA 9.429.57 1.000:00..- EIA DE OCUS SI GUAIA - MT1°TURNO 2° TURNO UAIA CNPJ: 04.235.199/0001-98 CENTRO Lei: 416, Data: 30/08/2017 Page 68 of 99 DATA I1 11919018 0,00 0.00
+
+86290. 170.468,40 86.250,00 33.075,00
+
+9 429,57 1.000.00
+
+Programa: 0114 Esporte e Lazer Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios.
+
+Público Alvo: População em Geral PREFEITURA MUNIOPAL DE BOM JESUS DO AR 12080 \* REAL Indicador Metas Esporte e Lazer Aquisição de Equipamento e Material Permanente para Modernização e molhorar as condições de trabalho SEORETARIA DO GABINETE DE ESPORTE, LAZEN E CULTURA
+
+MANUTENÇÃO COMA SECRETARIA DESPORTOS E LAZER Desporo e Lazer
+
+Desporto Comunitero Ca Reaąłą R$ Unidade de Medida: Recursos de Exercicio Corrante
+
+Recursos Ordinanos
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SINA CENTRO
+
+BOMJESUS DO ARAGUAIA
+
+R° - Raal Ind Recente Ind Futuro EM: APROVADO EM \*° TURNO • 5,00 89350 Lei: 416, Data: 30/08/2017 Page 69 of 99 69.350,00
+
+DATA {1 11219018
+
+70000 2020. ASSINATURA sC Lida - Software 70.000,00 118974,02 2021:
+
+Programa: 0114 Esporte e Lazer Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios.
+
+Público Alvo: População em Geral PREFEITURA MUNICIPAL DE BOM JESUS DO AR.. PREFEITURA MUNICIPAL DE DOM PESUS DO AS 020802 020802 Esporte e Lazer
+
+DEPARTAMENTO DE ESPORTE E LAZER DEPARTAMENTO DE ESPORTE F LAZER
+
+1025 1102 CONSTRUÇÃO APLIACAO DE GINASIO DE ESPORTES E MINI ESTADIO AQUISIÇÃO DE MOVEIS E EQUIPAMENTO PERMANENTE
+
+Desporto e Lazer Desporto e Lazar 812 Desponto Comunał
+
+Desporto Comunitáno Recureos do Exercicio Cortante
+
+Recursos Ordinanos
+
+APROVADO EM \*\* TURNO EM: DESPESAS DE CAPITAL DESPESAS DE CAPITAL R$ • Reai
+
+CEP 78678-000 BOM JESU6-D0 ARAQUAIA - MT RUA ASSEMBLÉIA DE DEUS S/N° • CENTRO
+
+34739: 11576 34 /39,00 1.573.00 31500
+
+31.500,00 10.500.00
+
+DATA 11 119 12018
+
+CNPJ: 04.235.19970001-98
+
+33075
+
+Buo 33.075.00 Fiorill: SC Ltda - Software Page 70 of 99 34708 34.739,00 И 570002
+
+Programa: 0114 Esporte e Lazer Público Alvo: População em Geral
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFEITURA MUNICIPAL DE POM JESUS DO AR C20802
+
+Esporte e Lazer DEPARTAMENTO DE ESPORTE E LAZER DEPARTAMENTO DE ESPORTE L LAZER
+
+2055
+
+PROMOÇÃO E EVENTOS ESPORTIVOS MANUTENÇÃO COM A SECRETARIA DESPORTOS E LAZER Desporto e Lazer Desporto e Lazer
+
+812 Desporto Comunitário Despurto Comentario APROVADO EM \*° TURNO Recursos do Exercinio Corrente Recursos do Exercicio Corrente
+
+Rocureos Ordinados
+
+R$ - Reai P$ - Real Total Geral Financeiro 04.235.199/000 CEP 75678-000 BOM JESUS DO ARAGUAIA - MT
+
+CAMARA MUNICIPAL DE ÉIA DE DEUS S/N° • CENTRO 115762. 115672 277:749,00 115.762,00 115.072,00, 105000 -98 105000 Lei: 416, Data: 30/08/201 321.350,00 105.000,00 105.000,00
+
+DATA 21 CAMARA MUNICIPAL DE 110250 CNPJ: 04.235.199/0001-38
+
+116250
+
+334.600,00 110.250,00 140.250,00 Page 71 of 99 Ada - Software 11576zîŘŚ 52.749.00 115.762.00
+
+Programa: 0116 Gestao do Serviços de Obras do Municipio Publico Alvo: População em Geral Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios.
+
+PREFEITERA NONORAL DE BOR JESUS DO AR A M 02 10t8ąłą Indicador Micte s REAL Aquisição de Equipamento e Material Permanente para Modernização e molhorar as condições de trabaiho. Gestao do Serviços de Obras do Municipio GABIRSTE DA SECRETAPIA DE OFTAS E SERVIÇOS PUBLICOS
+
+MANUTENÇAS DAS ATIMIDADES DA SECRETARIA DE OBRAS Untariamo
+
+Serviços Urbenos APROVADO EM \*\* TURNO Unidade de Medida EM: R$ Recursos do Exercico Corrente Real Recusos Ordinenos:
+
+PS + Real Ind Becente Ind. Futuro
+
+CEP 78676-000 BOM JESUS DO ARAGUAIA - MT OLA ASCE/AL BIA DE DEUS SIN' , CENTRO
+
+80000 Lei: 416, Data: 30/08/2017 Page 72 of 99 60.000,00
+
+2020 DATA 11112 19018
+
+CNPJ: 04.235.199/0001-38 1°TURNO- 2° TURNO 62.000,00
+
+Tato 864200
+
+Programa: 0116 Costao do Serviços de Obras do Municipio 2. PREFEITURA MUNICIPAL DE BOM JESUS DOAR..
+
+Público Alvo: População em Geral Objetivo. PAPER URA MUNICIPAL DE BOM JESUS DO AR 021002 031002 DEPARTAMENTO DE OGRAS Manutençac e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. Aquisição de Equipamento e Materia! Permanente para Modernização e molhorar as condições de trabalho. DEPARTAMENTO DE OBRAS Gestao do Serviços de Obras do Municipio 1007 1627
+
+AQUISIÇÃO DE MAQUINAS E EQUIPAMENTOS RODOVIARIO 04 Administração CONSTRUÇÃO DO PAÇO MUNICIPAL Grbantamo 452 Serviços Urbanos 120 Administação perar Racursos do Exercicio Contente, Escuros de Exercicio Comente
+
+Roc irsos Ordinéripa .
+
+CEP 78678-01 RUA ASSEMBLÉIA DE DEUS S/N° • CENTRO
+
+DESPESAS DE CAPITAL
+
+DESPESAS DE CAPITAL R$ - Regi
+
+R$ RS 12273175. 1.227.31//60 142002 196640 193.646.00 EM\_ APROVADO EMẠTURNO 178500
+
+178.500,00 142.001.00 10225956
+
+DATA 1111219018 • 134425
+
+CNPJ: 04.235.199/0001-38
+
+108.269,5€ 134.425,00 Fiorilli SC Ltda - Sofiware Page 73 of 99 193046 193.545.00šŘł 400 050.57
+
+Programa: 0116 Gestao do Serviços de Obras do Municipio Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios.
+
+Público Alvo: População em Geral PREFEITURA MUNICIPAL DE BOM JESUS DO AR M100: ANUNCIAT DE BON JESUS DO AL TEMARTAVEL TO DE DESVIÇOE OBTIOS Aquisição de Equipamento e Materia! Permanente para Modernização e molhorar as condições de trabalho. Gestao do Serviços de Obras do Municipio DEPARTAMENTO DE OBRAS 2009 1022 04173952/0001-68źŚš
+
+DRENAGEM NAS PAS E AVENIDA DA SEDE DO MUNICIPIO MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE OBRAS 15 Urbanismo Administração <152 122 Administração Geral serviços d canos Recursos do Exercicio Corrente Recursos do Exercicio Corrente Recursos Cromanos Recursos Oruinárica DESPESAS DE CAPITAL
+
+CEP 18678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEVELÉIA DE DEUS S/N\* - CENTRO SOM JESUS DO ARAGUAIA.
+
+PS. - Reg CAMARA MUNICIPAL DE R$ A R$ 398753;55 A 1.898.793,65: 105000 1050000 1.050.000.00 1147650ł EM \_ APROVADO EM \*\*
+
+TURNO 1.147.850,00 105.000,00 950000
+
+DATA fI
+
+CNPJ: 04.235.199/0001-38ł
+
+950.000,00 110 250,00
+
+Page 74 of 99
+
+1050000 1.050.000,00
+
+Programa: 0116 Gestao do Serviços de Obras do Municipio 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR Público Alvo: População em Geral Justincativa ObJetivo: PREFETURA NAMITIPAL DE DOM JESUS DO AR 021003 DEPARTAMENTO DE SERVIÇOS URBANOS 021005
+
+Gestao do Serviços de Obras do Municipio DEPARTAMENTO DE SERVIÇOS URBANOS
+
+Anexo V - Programas, Metas e Ações - (PPA Inicial)
+
+1020 :043 PREFEITO 15 Urbanismo CONSTRUÇÃO E AMPLIAÇÃO DO AEROPORTO AMPLIAÇÃO DO GALPAD DA OFICINA EM: SANCIONAD
+
+Serviços Urbanes Services Urbanes
+
+Recursos do Exercicio Corrente
+
+Decursos O dinários Recursos Ordinarios
+
+DESPESAS DE CAPITAL DESPESAS DE CAPITAL BALÉIA DE DEUS SIN R$ - Reai RS - Pea! 100000- E M. APROVADO EM \* TURNO 100.002.00.: 1.000,00 10500\* 5250
+
+10.500.00 5.250,00 11025
+
+DATA II /
+
+CNPJ: 04.235.199/0001.38.
+
+11.025,00 5.512,60
+
+Page 75 of 99
+
+• 100:00 202052 1000 1 000,00
+
+Programa: 0116 Gestao do Serviços de Obras do Municipio Objetivo.
+
+Público Alvo: População em Geral FREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIRAL DE BOM JESUS DO AR 021003 021003
+
+Manutenção e encargos das alividades administrativas e aperfeiçoamento de servidores do municipios. Gestao do Serviços de Obras do Municipio DEPARTAMENTO DE SERVIÇOS URBANOS DEPARTAMENTO DE DERVIÇOS URBANOS
+
+1047 CONSTRUÇÃO DA FEIRA MUNICIPAL 04 Administraçeo AQUIDIÇÃO DE MAQUINAS E EQUIPAMENTOS SANCION Urbanismo
+
+Administração Geral Serviços Urbanos
+
+CEP 78078-0 Recursos do Exercício Comente RUA AS Recursos do Exercicio Corrente BOM Pecursos Oruinános
+
+ESUS DO ARAS BLÉIA DE DEUS S/N\* - CENTRO RAMLL DESPESAS DE CAPITAL DESPESAS DE CAPITAL RS - Reai
+
+IS DO ARAGUAIA - MT UAIA 157622 APROVADO EM 15.762,00 105000 O0000 TURNO 10500
+
+105.000.00 10.500.00
+
+DATA 11<1912013 CÂMARA MUNICIFAL DE CNPJ: 04.235.199/0001-38
+
+110250
+
+110.250,00 11.025.0€ Fiorilli SC Ltda • Software Page 76 of 99 157 07 6900 16.762,00 S7.00 01
+
+Programa: 0116 Gestao do Serviços de Obras do Municipio Público Alvo: População em Geral
+
+PREFE TUFA MUNICIPAL DE BOM JESUS DO AE PREFEITURA MUNICIPAL DE BOM JESUS DO AR 021003 12 00S DEPARTAMENTO DE SERVIÇOS URSANOS
+
+Gestao do Serviços de Obras do Municipio DEPARTAMENTO DE SERVIÇOS URBANOS
+
+1052 1059 CONSTRUÇÃO DO PAPQUE DE EXPOSIÇÃO 15 Urbanismo AQUISIÇÃO DE TERRENOS Urbanismo 452 Sentiços Urbanos Serviços Urbanos Recursos de Exercicio Corrente Recursos de Exercício Corrente
+
+CEP 78678-000 BOM JESUS DO ARAGO
+
+RUR ASSEN
+
+DESPESAS DE CAPITAL DESPESAS DE CAPITAL
+
+-ALA DE DEUS SIN° • CENTRO 57881 2387 m APROVADO EM \* TURNO EM. 57.881.00 23.077 W0.. 52500 21000
+
+52.500,00
+
+21.000,00 DATA 11 L 12 19018
+
+CNPJ: 04.235.199/0001-98-
+
+55125 MO TURA 55.125,00
+
+57681 57.881.00
+
+Programa: 0116 Gestao do Serviços de Obras do Municipio Objetivo.
+
+Púbiico Alvo: População em Geral PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREPEITURA MUNICICAL DE BOM JESUS DO AR 021003 021030 DEPARTAMENTO DE SERVIÇOS URBANOS
+
+Gestao do Serviços de Obras do Municipio
+
+DEPARTAMENTO DE SERVIÇOS OPBANOS
+
+2054 2153 MANUTENÇÃO DAS ATIVIDADES DA SECRETARIA DE OBRAS MANUT. E ENC. COM RECUESO DO FETHAD Transports Urbanisino
+
+782 Transporte Rodoviánic Servicos Urbanes Rastreos do Exercício Corrente Recursos do Exercicio Corrente
+
+APROVADO EM EM: Renursos Ordinários
+
+P$ - Real TURNO R$
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RORASSEMECEA DE DEUS SINCENTRO
+
+1 000 539900 0,00 50000
+
+60.000,00 539.980.00
+
+• CÂMARA MUNICIPAL DE DATA 13 112L2008 CNPJ: 04.235.199/0001-38 1°TURNO. --2° TURNO - 62000 000009
+
+62.000.00 ₴00.000.00 Page 78 of 99
+
+85000 702009 06.000,00 700 0€5,00ł
+
+Programa: 0116 Gestao do Serviços de Obras do Municipio 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+Público Alvo: Popalação em Geral
+
+021004 DEPARTAMENTO DE TRANSITO PREFEITO Aquisição de Equipamento e Material Permanente para Modernização e moihorar as condições de trabalho. Gestao do Serviços de Obras do Municipio
+
+2144 EM: SANCIONA MANUT. E ENC. COM DEPART. DE TRANSITO 23 Transporte
+
+CEP 78678-000 BOM JESUS DO ARAGL RUA ASSEMBLÉIA DE DEUS SIN 125 Mormatização a Fiscalizaçho
+
+Recursos do Exercicio Corrente Recursos Didmarios
+
+REAL FRO Total Geral Financeiro APROVADO EM \*° TURNO EM: 4.623.07 0,00 60000 BOM JESUS DO ARAGUAIA - MI
+
+2.498.081;00 DATA 1) (19<2018 60.000.00
+
+CNPJ: 04.235.199/0001-3%
+
+62000 2.304.421,56 62.000,00€ Page 79 of 99 Fiorilli SC Lida • Software 63000 3.042 900 07 €5.000.00
+
+Programa: 0117 Cidade Bonita
+
+Público Alvo: População em geral
+
+PREFLITUZO 021003 Metas Real Indicador A UNCISAL DE HO: Aquisição de Equipamento e Material Permanente para Modemização e molhorar as condições de trabalho.
+
+Cidade Bonita DE 2 TAMENTO DE SERVIOS LERANOS
+
+04173952/0001-68îš PAVIMEDAÇÃO DE RIDAS E AVENIDAS DA SECE Orbensin DESUS DO
+
+Prina Estrutura Urbana
+
+Unidade de Medida R$ BERZABZ6-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN\* • CENTRO
+
+Recursos de Exercício Corrente
+
+Real
+
+4 DESPESAS DE CAPITAL R$ • Rea Ind Recente Ind Futuro RE 47280L APROVADO EM \* TURNO EM \_ 47:23,.00 915000 2019 Lei: 416, Data: 30/08/2017 Page 80 of 99
+
+315.000.00îŘš DATA L
+
+CNPJ: 04.235.199/0001-38 2018: Mete 2020ą 1°TURNO 330750
+
+2° TURNO 330./59.05 Ficrilli SC Ltda - Software - 570000 2021
+
+Programa: 0117 Cidade Bonita
+
+Público Alvo: Popalação em geral
+
+PREFEITURA MUNICIPAL DE SOM JESUS DO ARO PREFEITURA MUNICIRAL DE POM JESUS DO AR 021023 021003
+
+DEPARTAMENTO DE SERVIÇOS URBANOS Cidade Bonita DEPARTAMENTO DE SERVIÇOS URBANOS 1078 1093
+
+04173952/0001-68źŚŘš
+
+15 Urbanismo IMPL. DE GUIAS E SARJETASE CONSTRUÇÃO CONSTRUÇÃO DE PARQUES, PRAÇAS E JARDINS, Urbanismo 557. 451 Infra-Esbutura Urbana infa escuteia Urbana Rapursos do Es ericio Comenta Recursos do Exercido Corrente
+
+DESPESAS DE CAPITAL DESPESAS DE CAPITAL BLÉIA DE DEUS SIN° - CENTRO
+
+Ra Real NA - MT 34729 EM \_ APROVADO EM \*° TURNO 34.729.00 34 229.00 31500
+
+31.500,00 31.500.00 DATA.
+
+1°TURNO 33075 2° TURNO 33.075,00
+
+Page 81 of 99 34729 34.729.00ął
+
+Programa: 0117 Cidade Bonita
+
+Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. Público Alvo: População em geral
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR PRERATURA MUNICIPAL DE BOM JESUS DO AR 021003 221008 DEPARTAMENTO DE SERVIÇOS URBANOS
+
+DEPARTAMENTO DE SERVICOS URE-NOS Cidade Bonita
+
+2055
+
+PATROLAMENTO, NIVELAMENTO E ENCARSC. RUAS E AVENIDAS 15 Urbanismo CONSERV, MANUT REDE ILUMINAÇÃO PUBLICA
+
+Urbanismo 451 Infa-Estrutura Urbans Infra-Estratura Urbana Recursos de Exercício Comente Recursos de Exercicio Corrente
+
+CEP TRBTB-B00 BOM JESUS DO ARAGUAIA - MT PULASOMBLÉIA DE DEUS SIN°- CENTRO ECOLLESUS DO ARAGUAIA
+
+Recortos Ordinanos
+
+P2 - Fies! R$ 28 : 57881 APROVADO EM \* 57,881;00: 132500
+
+132.500,00 DATA 1S 11919018
+
+55125
+
+33075 55.125,00
+
+Page 82 of 99 57051 57:881.00zŘșę
+
+Programa: 0117 Cidade Bonita 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR. Público Alvo: População em geral
+
+021003
+
+Cidade Bonita
+
+DEPARTAMENTO DE SERVIÇOS URBANOS
+
+2142 CONVERVAÇÃO E MANUTENÇÃO DE REDE DE CALÇADA
+
+Urbanismo 451- Infra Estrutura Urbana Erosos no Enereicio Contente
+
+CEP 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSES PLÉIA DE DEUS SIN° - CENTRO
+
+Recursos Orinários OFSPESAS CORRENTES
+
+Total Geral Financeiro
+
+DATA11 119/9018 APROVADO EM \*° TURNO
+
+EM - CNPJ: 04.235.199/0001-38
+
+715 142.00. 5.76% 00
+
+Явш 5250 Lei: 416, Data: 30/08/2017 Page 83 of 99 547.250.00 5.250,00 5512 490.812,00 5.512.00ł
+
+5787 5 142 c0 5.787.00
+
+Programa: 0119 Estradas Vicinais Publico Aivo. População em Geral
+
+REVERTURA MUNICIPAL DE BOM JESUS DO AR REAL 021002 hietas Ridicador
+
+Estradas Vicinais DEPARTAMENTO DE OBRAS
+
+ABERTURA DE ESTRADAS Transporte 782 Transporte Rodoviário Unidede de Medias,
+
+Real CEP 78078-000 80M 8200S Recursos do Exercicio Corrente RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO
+
+Recursos Ordinérios ... DESPESAS DE CAPITAL RS - Reai ARAGILIA - 6T Ind. Recento Ind Futuro,
+
+APROVADO EM \* TURNO EM: oi DATA 11 112/2038
+
+CNPJ: 04.235.199/0001-38
+
+52500 2019 Lei: 416, Data: 30/08/2017 Page 84 of 99 52.500.00 58125. 2010 Mata 202 -58.125.00 Forilli SC Ltda - Software 746408,25 2021 10060
+
+Programa: 0119 Estradas Vicinais
+
+Público Alvo: População em Geral
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFEITORA MUNDIPAL DE BOM JESUS DO AR 021002 021C02 Aquisição de Equipamento e Material Permanente para Modernização e molhorar as condições de trabaiho.
+
+Estradas Vicinais DEPARTAMENTO DE OBRAS DEPARTAMENTO DE OBRAS
+
+2021 1030 26 Transporte CONSERV. MANUT. DA MALHA VICINAL RURAL CONST. PONTES POTILHOES E BUEIROS Transporte
+
+Transporte Rodoviário Transporte Rodoviário Recursas de Exercicio Corrento Recursos do Exercicio Corrente
+
+Recurso: Orde Jo:
+
+23. DESPESAS DE CAFITAL
+
+BŞ - ReaI R$ - Reai S DO ARAGUAIA - MT Total Geral Financeiro 0001-98Ś GUAIA L DE R$ 250000 50000R. APROVADO EMiỊẠỊ EM: 850.000.00 250.000,00 388500 503.00 BOM JESUS DO ARAGUAIA - M CNPJ: 04.235.199/0001-38 DATA 1$ 112,2018
+
+Lel: 416, Data: 30/08/2017 Page 85 of 99
+
+577.500,00 388.500,00 etit 407925 609.375.00 407.925,00 123.325.00 Fiorilli SC Ltda • Software 250000 850.000,00 250.000,00ł
+
+Programa: 0120 Fomento a Produção Rural
+
+Público Alvo: Produtor Rural
+
+PREFEITUPA MUNICIRAL DE BOM JESUS DO AR Metas indicador REAL Fomento a Produção Rural
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. SECRETARIA DE CARINETE AGRICULTURA, IND, COM. E MAIO AMBIENT
+
+2145 MANOT. E ENC. COM GAR. DO SEC AGRICULTURA, IND.COM. E MEIO AMBIENTE Cestão Ambientai 541 Preservação e Conservação Ambiental 04.235.199/0001.98 -0 78678-000 RUA AL Unicade de Medida BOM
+
+MARA Reai SUS DO ARAGUAIA BOM JESUS DO ARAGUAIA • MT
+
+EIA DE DEUS S/N° - CENTRO AUNIC
+
+REAL DE Ind Recente Ind Futuro EMI APROVADO EM \*\* TURNO 1.0.00
+
+\*\* CÂMARA MUNICIPAL-BE Lei: 416, Data: 30/08/2017 Page 86 of 99 DATA- 2019 CNPJ: 04.235.199/0001-08
+
+60.000,00 ASSINATUBA 119 19008 fela 020 82000 62.000.00
+
+255100 2021
+
+Programa: 0120 Fomento a Produção Rural Público Alvo: Produtor Rural
+
+PPETEITURA MUMICIPAL DE ROM JESUS DO ARI PREFENTURA MUNICIPAL DE BOM JESUS DO AR 02390źęŘę 020902 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+Fomento a Produção Rural DEPARTAMENTO DE AGRICULTURA INDUS IRIA E COMERCIO DEPARTAMENTO DE AGRICULTURA, INDUSTRIA E COMERCIO 1003 1009 04173952/0001-68ł
+
+20 Agricultine 18 Cestão Ambientai AQUISIÇÃO DE MAQUINAS E EQUIPAMENTOS AQUISIÇÃO DE MAQUINAS E EQUIPAMENTOS eCe Extensão Rural Preservação, e Conservação, Amulontal Recursos do Exercicio Corrente Recursos do Exarcidio Contenta CEP 78678-000 BOM JESUS DO ARAGUAIA • MT
+
+Recursos 01a na osł Recursos Ordinános RUA ASSEBBLÉIA DE DEUS S/N° - CENTRO
+
+DESPESAS DE CAPITAL DESPESAS DE CAPITAL R$ - Reai R$ = Rea! APROVADO EM \*° TURNO EM\_ €.000,00 BOM JESUS DO ARAGUATA - MT DATAIS 119 Lei: 416, Data: 30/08/2017 Page 87 of 99
+
+CNPJ: 04.235.199/0001-35
+
+0.500,G0 0,00
+
+1102šŚ бей 0008 Fiorilli SC Ltda • Software 0,00 b0Co 6.000,009-
+
+Programa: 0120 Fomento a Produção Rural 2 PREFEITURA MUNICIPAL DE BOM JESUS DO AR
+
+Público Alvo: Produtor Rural PRETEITURA MUNICIPAL DE ROM JESUS DO AR 020902 020902
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. DEPARTAMENTO DE AGRICULTURA, INDUSTRIA E COMERCIO Fomento a Produção Rural DEPARTAMENTO DE AGRICULTURA, INDUSTRIA E COMERCIO
+
+1016
+
+1026 AQUISIÇÃO DE PATRULHA MECANIZADA AQUISIÇÃO DE VEICULO 18 Gestão Ambiental 20 Agricultura 60C 541 Preservação e Conservação Ambiental Extensão Rural Recursos do Exercicio Corrente Recursos do Exercicio Corrente 00 Recursos Ordinarios
+
+Recursos Ordinarios
+
+DESPESAS DE CAPITAL DESPESAS DE CAPITAL
+
+DEUS SIN\* - CENTRO 43150. 58877 43.150.00 : 58.837.900 APROVADO EM 1
+
+52500 DATA II
+
+CNPJ: 04.235.193/0001-38 1°TURNO \* TURNO
+
+52.500,00
+
+0,00 2° TURNO 55.121,00
+
+Page 88 of 99 0,00 43150 43 150,00
+
+Programa: 0120 Fomento a Produção Rural Público Alvo: Produtor Rural
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFEITURA MUNICIPAL DE BOM JESUS DO AMA 020902 URA02 Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios -DEPARTAMENTO DE A ORIGE TURA, INDOSTRIA E COMERCIO Fomento a Produção Rural DEPARTAMENTO DE AGRICULTURA, INDUSTRIA E COMERCIO
+
+1131 2028 MANUTENÇÃO E ENCARGOS CA SEC. AGRICULTURA E MEIO AMBIENTE AQUISIÇÃO DE MOVEIS E EQUIPAMENTO PERMANENTES
+
+Gestão Ambiental Agricultura
+
+506 Extensão Rural Prescivação e Conservação Ambiental
+
+Recursos de Exercício Corrente - Recursos Ordinários
+
+DESPESAS DE CAPITAL
+
+R$ 1000000 19787 APROVADO EM \*° TURNO = 11/19/2018ł 100.020 00 128000 19.787,00. 5250
+
+126:000.00 DATA 9A (1212018 5.250,00 CAMARA MUNICIPAL DE -CNPJ: 04.235.199/0001-38
+
+ASSINAFORA 5512 5.512,00
+
+Page 89 of 99 5787 19.787.50
+
+Programa: 0120 Fomento a Produção Rural Objetivo.
+
+Público Alvo: Produtor Rural PREFEITURA MUNICIPAL DE BOM JESUS DO AR PROPEN URA MUNICIPAL DE BORNESOS DO AS 020903 020903 DEPARTAMENTO DE MEIO AMBIENTE DEPARTAMENTO DE MEIO AMBIENTE Fomento a Produção Rural
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho.
+
+1010 IOT! CONSTRUÇÃO DE ATERRO SANITARIO 16 Gestão Ambientale CONSTRUÇÃO DE AÇUDES Gestão Ambiental 541 Preservação e Conservação Ambiental 541 Freservação e Conservação Ambiental Reguraca do Exercicio corrente
+
+CEP 78678-030 = RURASTEMB Recursos Ordinarios Recureos Ordinários BOM JESUS DO / CÂMARA MUNI 4 DESPESAS DE CAPITAL DESFESAS DE CAPITAL R$ - Reai
+
+AL DE GUAIA ENTRO R$ 3787.: APROVADO EM \*\* TURNO 3.7,87,00 : $ 797.00 BOM JESUS DO ARAGUAIA. - MT 5250 DATA 11 11219018 CAMARA MUNICIFAL DE 5250 CNP.J: 04.235.199/0001-98 1°TURNO Lei: 416, Data: 30/08/2017 Page 90 of 99 5.250,00 5.250.00 2° TURNO 5512 5.512,00 5.512,00
+
+5707 3.767,00
+
+Programa: 0120 Fomento a Produção Rural
+
+Público Alvo: Produtor Rural PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREPETTURA MUNICIPAL DE BOM JESUS DO AE 020905 020903 DEPARTAMENTO DE MEIO AMBIENTE
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. Fomento a Produção Rural
+
+DEPARTAMENTO DE MEIO AMBIENTE
+
+2011 2138 INCENTIVO A PRODUÇÃO RURAL 20 Agricultura MANUTENÇÃO COM A SECRETARIA MEIO AMBIENTE Gestão Ambiental 54: Preservação e Conservação Ambiental Exteneão Rural Recursos de Exercicio Corrente Recursos do Exercicio Corrente:
+
+3 DESPESAS CORRENTES
+
+CEC YH678-000 SOM JESUS DO ARAGUAIA - MT RIA ASSEMBLÉIA DE DEUS SIN\* • CENTRO
+
+R$ - Reai
+
+26. 110299 115767 EM 11/12/9018ÍŚ APROVADO EM \*\* TURNO 110.250.00 11.576.00
+
+DATA 11112/2018
+
+CNPJ: 04.235.199/0001-38 10500 1°TURNO - - 2° TURNO - 59260
+
+10.500,00 59.250.00 11025 110250 11.025.00 010.250;00 Page 91 of 99
+
+• 11570 11.576,00 L10 22050
+
+Programa: 0120 Fomento a Produção Rurai 2. PREFEITURA MUNICIPAL DE BOM JESUS DO AR...
+
+justificativa: Público Alvo: Produtor Rural 020903 Fomento a Produção Rural
+
+Aquisição de Equipamento e Material Permanente para Modernização e melhorar as condições de trabalho. DEPARTAMENTO DE MEIO AMBIENTE
+
+3006 CONSTRUÇÃO DE VIVEIROS DE MUDAS E PLANTAS NATIVAS Gestão Ambiental 541 Preservação e Conservação Ambiental
+
+CFF 78678-000 BOM JESUS DO ARAGUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN° • GENTRO
+
+Recursos Ordir ários DESPESAS DE CAPITAL R$ - REAL Total Geral Financeiro 132000. EM 11/12/2018 APROVADO EM \*° TURNO 500.790 c0 132.000,00 \*
+
+DATA 71
+
+CNPJ: 04.235.199/0001-38
+
+Lei: 416, Data: 30/08/2017 Page 92 of 99 334.600.00 0,00 12018 398.257.0ął
+
+0.00 132000ł 132.000,00
+
+Programa: 0121 Gestao do Sistema Administrativa e Finaceiro
+
+Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. Publico Alvo: População em GEral PRLFEITURA MUNICIPAL DE SOMMESUS DO AP endicador REAL 020505 Garantir o tratamento odontologico do trabalhador rural, assentados e população não atendidas pelo programa da saúde basica.
+
+DEPARTAMENTO DE PAT PIMONIO E ALMOXAR FADO
+
+2015 MANUTENÇÃO E ENCARGOS COM DEPARTAMENTO PATRIMONIO 04 Adminieiração 122 Administração Geral Unidade de Medida
+
+Real
+
+CEP 78678-000 SOM JESUS DO ARADUAIA - MT RUA ASSEMBLÉIA DE DEUS SIN\* - CENTRO BOM JESUS DO ARAQUAIA
+
+PS - 8680 Ind Recente Ing Furo 966100ł EM 11189/9018 APROVADO EM \*° TURNO 06.010:09 2018
+
+DATA 19 112120S7 63000
+
+CNPJ: 04.235:199/6001-98
+
+229192 Lei: 416, Data: 30/08/2017 Page 93 of 99
+
+63.000.00 Ortt 2019 Meta 2020 2020 88200 88.200.00 Frorilli SC Ltda - Software 35000 2021
+
+Programa: 0121 Gestao do Sistema Administrativa e Finaceiro: Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios.
+
+Público Alvo: População em GEral PREFEITURA MUNICIPAL DE BOM JESUS DO AR. PREFETURA MUNCIPAL DE BOM JESUS DO AR. 02002 DEPARTAMENTO DE CONTABILIDADE 020401 Garantir o tratamento odontologico do trabalhador rural, assentados e população não atendidas pelo programa da saúde basica.
+
+GABINETE DO SECRETARIO 2012
+
+1016
+
+04 Administração ENCARGOS COM A AMM - ASSOCIAÇÃO MAT. MUNICIPIOS AQUISIÇÃO DE VEICULO Administração 123 Administração Financeira Administração Geral Recursos de Exercicio Corrente Recursos de Exercicio Corrente 1.235.199/0001-98 AMARA MU
+
+Recursos Ordinanos: DESPESAS DE CAPITAL SUS DO ARAR
+
+ON JE FIA DE - R$ - Real R$ - Rea! S DO AR. PAL DE - 257 60000 APROVADO EM \* TURNO 11/12/9018
+
+60,000,00 20.000.00 DATA 2] (19 CAMARA MUNICIPAL DE CNPJ: 04.235.199/0001-38 1°TURNO 80000
+
+Lei: 416, Data: 30/08/2017 Page 94 of 99 2 TURNO 80.000,00 19017 0,00 90000: 80 000 CH
+
+0,0G 60000 100 00002 60.000,00
+
+Programa: 0121 Gestao do Sistema Administrativa e Finaceiro
+
+Publico Alvo: População em GEral PREFEITURA MUNICIPAL DE BOM JESUS DO AR PREFEITURA MUNICIPAL DE BORVESUS DO AR. 020402 020102 DEPARTAMENTO DE CONTABILIDADE Garantir o tratamento odontologico do trabalhador rural, assentados e população não atendidas pelo programa da saúde basica.
+
+Aquisição de Equipamento e Material Permanente para Modernização e molhorar as condições de trabalho DEPARTAMENTO DE CONTABILIDADE
+
+3001 3002 JUROS DA DIVIDA INTERNA 04 Administração 04 Administração AMORTIZAÇAO DA DIVIDA INTERNA 122 Administração Geral 122 Administração Geral Recure as do Exercicio Corrente Recursos do Exercicio Corrente
+
+CEP 78678-080 BOM JESUS DO ARADURA • NT RUA ASSEMBLÉIA DE DEUS SIN° - CENTRO Recursos Ordinanos
+
+DESPESAS DE CAPITAL
+
+D0CcO 9000: EM\_ APROVADO EM \*° TURNO BOM JESUS DO ARAGUA 9.000,00 DATA LI CÂMARA MUNICIFAL I CNPJ: 04.235.159/0001.: 1°TURNO 120G00 ISSINATURA Lei: 416, Data: 30/08/2017 Page 95 of 99 2° TURNO 120.000.00 12018 0,00 140000 140.000.09
+
+0,00 9000 9.000,00
+
+Programa: 0121 Gestao do Sistema Administrativa e Finaceiro Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. Público Alvo: População em GEral
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO AR 021004 DEPARTAMENTO DE TRANSITO Garantir o tratamento odontologico do trabalhador rurai, assentados e população não atendidas pelo programa da saude basica. Aquisição de Equipamento e Material Permanente para Iiodernização e molhorar as condições de trabalho.
+
+3007 04 Administraçao CONSTRUÇÃO DA SEDE DO DETRAN Administração Caral Recursos co Exercicio Conente APROVADO EM \*° TURNO Recurene nd marios DESPESAS DE GAPITAS REAL Total Geral Financ
+
+BOM JESUS DO A CAMARA MUN 10000: • 15.618.00 10.000.00
+
+GUAIA AL DE DATAIS 112 19018
+
+CNPJ: 04.235.199/0001-38
+
+263.000.00 0,00 Fiorill: SC Ltda - Software Page 96 of 99 0,00 10000 375.610.0 10.000,00
+
+rograma: 1000 CONTROLADORIA INTERNA
+
+Público Alvo: CONTROLADORES INTERNOS
+
+PREFEITURA MUNICIPAL DE BOM JESUS DO ARI DATA 11 112/2018 Metas Rea! Indicador 020206
+
+CONTROLADORIA INTERNA CRIAR CONDIÇÕES FISICAS E FINANCEIRAS PARA EXECUÇÃO DO CONTROLE INTERNO MUNICIPAL O sistema de controle municipal deve ter independencia, para atuar na fiscalização e orientação.
+
+3005 MANUTENÇÃO ENCARGO CONTROLADORIA 04 Administração 124 Contole Interno Unidade de Medida Recursos do Exercício Comente Real APROVADO EM \*° TURNO EM\_ Recursos Ordinarios
+
+R$ REAL Total Geral Financeiro ind Recente Ind Fuvro
+
+100000: CEP 78878-000 BOM JESUS DO ARAGUAIA - MT RUA ASSERIA
+
+100.000.00 100.020.00 LÉIA DE DEUS SIN° - CEN 2013 122013 Lei: 416, Data: 30/08/2017 Page 97 of 99 0,00 0,00 65950 2020 - 65.950.00 €5.950.30 Fronti SC Ltda - Software 100000 2021 1000€0 100.000.00 109.500.4
+
+Programa: 9999 Reserva de Contingência Justificativa: Manutenção e encargos das atividades administrativas e aperfeiçoamento de servidores do municipios. Objetivo. Público Alvo: População em geral REFEITURA MUNICIPAL DE BOM JESUS DC AR
+
+Metas Real moiceaor 020301 DATA 12/19 12018 - CNPJ: 04.235.199/0001-38
+
+Reserva de Contingência GABINFTE DA SECRSTARIA DE ADM, PLANEJAMENTO
+
+RESERVA DE CONTINGÊNCIA Reserva de Contingencia 999 Reserva de Contingência Unidade de Medida R.S
+
+Real
+
+RESERVA DE CONTINGENCIA R3 - Rea: SUS DO ARAGUAIA OM JESUS DO ARAGUAIA • MT IA DE DEUS S/N° - CEMTRO Total Geral Financeiro Ind. Recente Ind. Futuro 400000\* APROVADO EM \* TURNO EM \_\_ 400.000.00 400:000,00 350000 2018 350000
+
+2019 350.000.00 350.000.00 380000 380000 2020 380.000,00 380.000.02ł Page 98 of 99
+
+400000 2021 2100200 400.000.00 400 000.02
+
+DATA 12/12 12012
+
+CNPJ: 04.235.199/0001-38
+
+RUA ASSEMOLÉIA DE DEUS SIN° - CENTRO
+
+Resumo Gerai Total Geral por Anto Total Geral do PPA 94.940.919,06 24.019 063,67 APROVADO EM \*\* TURNO 2018 24,556.714 Lei: 416, Data: 30/08/2017 Page 99 of 99 2019 23.144.622.33 2026 Fiorill: SC Ltda - Software 23.223.090.
+

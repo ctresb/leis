@@ -1,0 +1,32 @@
+---
+titulo: "LEI Nº 1.925/2026 DE 23 DE JUNHO DE 2026. AUTORIZA O"
+uf: "RO"
+municipio: "GOVERNADOR JORGE TEIXEIRA"
+tipo: "Lei Ordinária"
+numero: "1925"
+data: 2026-06-23
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 24/06/2026"
+data_publicacao: 2026-06-24
+codigo_identificador: "7B7B4F95"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116093_2026-06-23_0853e508f653dfcfd0bf8dc2d04f8bf0.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 1.925/2026 DE 23 DE JUNHO DE 2026. AUTORIZA O
+
+LEI Nº 1.925/2026 DE 23 DE JUNHO DE 2026. AUTORIZA O
+PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL
+ESPECIAL POR ANULAÇÃO DE DOTAÇÃO, NA UNIDADE
+ORÇAMENTÁRIA: SECRETARIA MUNICIPAL DE
+EDUCAÇÃO.
+
+Governador Jorge Teixeira, 23 de junho de 2026.
+LEI Nº 1.925/2026
+DE 23 DE JUNHO DE 2026.
+
+GILMAR TOMAZ DE SOUZA
+Prefeito Municipal
+Publicado por:
+Lilian Dos Santos Damacena

@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cachoeirodeitapemirim.es.leg.br/2e46438cc6778aa814e6294f5f2150c321e1330fcdb8ebe839da349d65ba44b3.json",
+      "url": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cachoeirodeitapemirim.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T21:04:14.810612-03:00"
+    }
+  ]
+}

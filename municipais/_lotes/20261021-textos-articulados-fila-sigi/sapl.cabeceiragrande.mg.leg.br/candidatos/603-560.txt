@@ -1,0 +1,2652 @@
+**Institui a Política Municipal de Saneamento Básico e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+### TÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+#### CAPÍTULO I — DO OBJETO E DO ÂMBITO DE APLICAÇÃO
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Saneamento Básico do Município de Cabeceira Grande.
+
+
+Parágrafo único
+
+Estão sujeitos às disposições desta Lei todos os órgãos e entidades do Município, bem como os demais agentes públicos ou privados que desenvolvam serviços e ações de saneamento básico no âmbito do território do Município de Cabeceira Grande, Estado de Minas Gerais.
+
+
+#### CAPÍTULO II — DAS CONCEITUAÇÕES BÁSICAS
+
+
+Art. 2º.
+
+Para os efeitos desta Lei consideram-se:
+
+
+I –
+
+planejamento: as atividades atinentes à identificação, qualificação, quantificação, organização e orientação de todas as ações, públicas e privadas, por meio das quais o serviço público deve ser prestado ou colocado à disposição dos cidadãos de forma adequada;
+
+
+II –
+
+regulação: todo e qualquer ato que discipline ou organize determinado serviço público, incluindo suas características, padrões de qualidade, impacto socioambiental, direitos e obrigações dos usuários e dos responsáveis por sua oferta ou prestação, bem como a política de cobrança pela prestação ou disposição do serviço, inclusive as condições e processos para a fixação, revisão e reajuste do valor de taxas e tarifas e outros preços públicos;
+
+
+III –
+
+normas administrativas de regulação: as instituídas pelo Chefe do Poder Executivo por meio de decreto e outros instrumentos jurídico-administrativos e as editadas por meio de resolução por órgão ou entidade de regulação do Município ou a que este tenha delegado competências para esse fim;
+
+
+IV –
+
+fiscalização: atividades de acompanhamento, monitoramento, controle ou avaliação, no sentido de garantir o cumprimento de normas e regulamentos editados pelo poder público e a utilização, efetiva ou potencial, do serviço público;
+
+
+V –
+
+órgão ou entidade de regulação ou regulador: autarquia ou agência reguladora, consórcio público, autoridade regulatória, ente regulador, ou qualquer outro órgão ou entidade de direito público, inclusive organismo colegiado instituído pelo Município, ou contratada para esta finalidade dentro dos limites da unidade da federação que possua competências próprias de natureza regulatória, independência decisória e não acumule funções de prestador dos serviços regulados;
+
+
+VI –
+
+prestação de serviço público de saneamento básico: atividade, acompanhada ou não de execução de obra, com objetivo de permitir aos usuários acesso a serviço público de saneamento básico com características e padrões de qualidade determinados pela legislação, planejamento ou regulação;
+
+
+VII –
+
+controle social: conjunto de mecanismos e procedimentos que garantem à sociedade informações, representações técnicas e participação nos processos de formulação de políticas, de planejamento e de avaliação relacionados aos serviços públicos de saneamento básico;
+
+
+VIII –
+
+titular dos serviços públicos de saneamento básico: o Município de Cabeceira Grande;
+
+
+IX –
+
+prestador de serviço público: o órgão ou entidade, inclusive empresa:
+
+
+a)
+
+do Município, ao qual a lei tenha atribuído competência de prestar serviço público; ou
+
+
+b)
+
+a que o titular tenha delegado a prestação dos serviços por meio de contrato.
+
+
+X –
+
+gestão associada: associação voluntária de entes federados, por convênio de cooperação ou consórcio público, conforme disposto no artigo 241 da Constituição Federal;
+
+
+XI –
+
+prestação regionalizada: a realizada diretamente por consórcio público, por meio de delegação coletiva outorgada por consórcio público, ou por meio de convênio de cooperação entre titulares do serviço, em que um único prestador atende a dois ou mais titulares, com uniformidade de fiscalização e regulação dos serviços, inclusive de sua remuneração, e com compatibilidade de planejamento;
+
+
+XII –
+
+serviços públicos de saneamento básico: conjunto dos serviços públicos de limpeza urbana e manejo de resíduos sólidos, de abastecimento de água, de esgotamento sanitário e de drenagem e manejo de águas pluviais urbanas, incluídas as respectivas infraestruturas e instalações operacionais vinculadas a cada um destes serviços;
+
+
+XIII –
+
+universalização: ampliação progressiva do acesso ao saneamento básico de todos os domicílios e edificações urbanas permanentes onde houver atividades humanas continuadas;
+
+
+XIV –
+
+subsídios: instrumento econômico de política social para viabilizar manutenção e continuidade de serviço público com objetivo de universalizar acesso ao saneamento básico, especialmente para populações e localidades de baixa renda;
+
+
+XV –
+
+subsídios diretos: quando destinados diretamente a determinados usuários;
+
+
+XVI –
+
+subsídios indiretos: quando destinados indistintamente aos usuários por meio do prestador do serviço público;
+
+
+XVII –
+
+subsídios internos: aqueles que se processam internamente ao sistema de cobrança pela prestação ou disposição dos serviços de saneamento básico no âmbito territorial de cada titular;
+
+
+XVIII –
+
+subsídios entre localidades: aqueles que se processam mediante transferências ou compensações entre localidades, de recursos gerados ou vinculados aos respectivos serviços, nas hipóteses de gestão associada e prestação regional;
+
+
+XIX –
+
+subsídios tarifários: quando integrarem a estrutura tarifária;
+
+
+XX –
+
+subsídios fiscais: quando decorrerem da alocação de recursos orçamentários, inclusive por meio de subvenções;
+
+
+XXI –
+
+aviso: informação dirigida a usuário determinado pelo prestador dos serviços, com comprovação de recebimento, que tenha como objetivo notificar qualquer ocorrência de seu interesse;
+
+
+XXII –
+
+comunicação: informação dirigida a usuários e ao regulador, inclusive por meio de veiculação em mídia impressa ou eletrônica;
+
+
+XXIII –
+
+água potável: água para consumo humano cujos parâmetros microbiológicos, físicos e químicos atendam ao padrão de potabilidade estabelecido pelas normas do Ministério da Saúde;
+
+
+XXIV –
+
+soluções individuais: quaisquer soluções alternativas aos serviços públicos de saneamento básico que atendam a apenas um usuário, inclusive condomínio privado constituído conforme a Lei Federal n.º. 4.591, de 16 de dezembro de 1964, desde que implantadas e operadas diretamente ou sob sua responsabilidade e risco;
+
+
+XXV –
+
+edificação permanente urbana: construção de caráter não transitório destinada a abrigar qualquer atividade humana ou econômica;
+
+
+XXVI –
+
+ligação predial: ramal de interligação da rede de distribuição de água, de coleta de esgotos ou de drenagem pluvial, independente de sua localização, até o ponto de entrada da instalação predial;
+
+
+XXVII –
+
+delegação onerosa de serviço público: a que inclui qualquer modalidade ou espécie de pagamento ou de benefício econômico ao titular, com ônus sobre a prestação do serviço público, pela outorga do direito de sua exploração econômica ou pelo uso de bens e instalações reversíveis a ele vinculadas, exceto no caso de ressarcimento ou assunção de eventuais obrigações de responsabilidade do titular, contraídas em função do serviço;
+
+
+XXVIII –
+
+Salubridade Ambiental: estado de qualidade ambiental capaz de prevenir a ocorrência de doenças relacionadas ao meio ambiente e de promover as condições ecológicas favoráveis ao pleno gozo da saúde e do bem-estar da população urbana, rural e indígena;
+
+
+XXIX –
+
+Saneamento Ambiental: conjunto de ações que visam alcançar níveis crescentes de salubridade ambiental, por meio do abastecimento de água potável, coleta e disposição sanitária de resíduos líquidos, sólidos e gasosos, promoção da disciplina sanitária do uso e ocupação do solo, prevenção e controle do excesso de ruídos, drenagem urbana, controle de vetores de doenças transmissíveis demais serviços e obras especializados;
+
+
+XXX –
+
+Saneamento Básico: conjunto de ações compreendendo o abastecimento de água em quantidade suficiente para assegurar a higiene adequada e o conforto e com qualidade compatível com os padrões de potabilidade; coleta, tratamento e disposição adequada dos esgotos e dos resíduos sólidos, drenagem urbana das águas pluviais e controle ambiental;
+
+
+XXXI –
+
+Resíduos Sólidos: material, substância, objeto ou bem descartado resultante de atividades humanas em sociedade, a cuja destinação final se procede, se propõe proceder ou se está obrigado a proceder, nos estados sólidos ou semissólido, bem como gases contidos em recipientes e líquidos cujas particularidade tornem inviável o seus lançamento na rede pública de esgotos ou em corpos d’água, ou exijam para isso soluções técnica ou economicamente inviáveis em face da melhor tecnologia disponível; e
+
+
+XXXII –
+
+Responsabilidade Compartilhada pelo Ciclo de Vida dos Produtos são conjunto de atribuições individualizadas e encadeadas dos fabricantes, importadores, distribuidores e comerciantes, dos consumidores e dos titulares dos serviços públicos de limpeza urbana e de manejo dos resíduos sólidos, para minimizar o volume de resíduos sólidos e rejeitos gerados, bem como para reduzir os impactos causados à saúde humana e à qualidade ambiental decorrentes do ciclo de vida dos produtos, nos termos desta Lei.
+
+
+§ 1º
+
+Não constituem serviço público:
+
+
+I –
+
+as ações de saneamento básico executadas por meio de soluções individuais, desde que o usuário não dependa compulsoriamente de terceiros para operar os serviços, sem prejuízo do cumprimento das normas sanitárias e ambientais pertinentes, inclusive as que tratam da qualidade da água para consumo humano; e
+
+
+II –
+
+as ações e serviços de saneamento básico de responsabilidade privada, incluído o manejo de resíduos de responsabilidade do gerador e o manejo de águas pluviais de responsabilidade dos proprietários, titulares do domínio útil ou possuidores a qualquer título de imóveis urbanos.
+
+
+§ 2º
+
+São considerados serviços públicos e ficam sujeitos às disposições desta Lei, de seus regulamentos e das normas de regulação:
+
+
+I –
+
+os serviços de saneamento básico, ou atividades a eles vinculadas, cuja prestação o Município autorizar para cooperativas ou associações organizadas por usuários sediados na sede do mesmo, em bairros isolados da sede, em distritos ou em vilas e povoados rurais, onde o prestador não esteja autorizado ou obrigado a atuar, ou onde outras formas de prestação apresentem custos de operação e manutenção incompatíveis com a capacidade de pagamento dos usuários; e
+
+
+II –
+
+a fossa séptica e outras soluções individuais de esgotamento sanitário, cuja operação esteja sob a responsabilidade do prestador deste serviço público.
+
+
+§ 3º
+
+Para os fins do disposto no inciso IX do caput deste artigo, consideram-se também prestadoras do serviço público de manejo de resíduos sólidos as associações ou cooperativas, formadas por pessoas físicas de baixa renda reconhecidas pelo Poder Público como catadores de materiais recicláveis, autorizadas ou contratadas para a execução da coleta, processamento e comercialização de resíduos sólidos urbanos recicláveis ou reutilizáveis.
+
+
+### TÍTULO II — DA POLÍTICA MUNICIPAL DE SANEAMENTO BÁSICO
+
+
+#### CAPÍTULO I — DOS PRINCÍPIOS FUNDAMENTAIS
+
+
+Art. 3º.
+
+Os serviços públicos de saneamento básico possuem caráter essencial, competindo ao Poder Público Municipal o seu provimento integral e a garantia do acesso universal a todos os cidadãos, independente de suas condições sociais e capacidade econômica.
+
+
+Art. 4º.
+
+A Política Municipal de Saneamento Básico observará os seguintes princípios:
+
+
+I –
+
+universalização do acesso aos serviços no menor prazo possível e garantia de sua permanência;
+
+
+II –
+
+integralidade, compreendida como o conjunto dos componentes em todas as atividades de cada um dos diversos serviços de saneamento básico, propiciando à população o acesso na conformidade de suas necessidades e maximizando a eficácia das ações e resultados;
+
+
+III –
+
+equidade, entendida como a garantia de fruição em igual nível de qualidade dos benefícios pretendidos ou ofertados, sem qualquer tipo de discriminação ou restrição de caráter social ou econômico, salvo os que visem priorizar o atendimento da população de menor renda ou em situação de riscos sanitários ou ambientais;
+
+
+IV –
+
+regularidade, concretizada pela prestação dos serviços, sempre de acordo com a respectiva regulação e outras normas aplicáveis;
+
+
+V –
+
+continuidade, consistente na obrigação de prestar os serviços públicos sem interrupções, salvo nas hipóteses previstas nas normas de regulação e nos instrumentos contratuais, nos casos de serviços delegados a terceiros;
+
+
+VI –
+
+eficiência, compreendendo a prestação dos serviços de forma racional e quantitativa e qualitativamente adequada, conforme as necessidades dos usuários e com a imposição do menor encargo socioambiental e econômico possível;
+
+
+VII –
+
+segurança, consistente na garantia de que os serviços sejam prestados dentro dos padrões de qualidade operacionais e sanitários estabelecidos, com o menor risco possível para os usuários, os trabalhadores que os prestam e à população em geral;
+
+
+VIII –
+
+atualidade, compreendendo a modernidade das técnicas, dos equipamentos e das instalações e sua conservação, bem como a melhoria contínua dos serviços, observadas a racionalidade e eficiência econômica, a capacidade de pagamento dos usuários e a adoção de soluções graduais e progressivas, quando necessário;
+
+
+IX –
+
+cortesia, traduzida no atendimento aos cidadãos de forma correta e educada, em tempo adequado e disposição de todas as informações referentes aos serviços de interesse dos usuários e da coletividade;
+
+
+X –
+
+modicidade dos custos para os usuários, mediante a instituição de taxas, tarifas e outros preços públicos cujos valores sejam limitados aos efetivos custos da prestação ou disposição dos serviços em condições de máxima eficiência econômica;
+
+
+XI –
+
+eficiência e sustentabilidade, mediante adoção de mecanismos e instrumentos que garantam a efetividade da gestão dos serviços e a eficácia duradoura das ações de saneamento básico, nos aspectos jurídico-institucionais, econômicos, sociais, ambientais, administrativos e operacionais;
+
+
+XII –
+
+intersetorialidade, mediante articulação com as políticas de desenvolvimento urbano e regional, de habitação, de combate à pobreza e de sua erradicação, de proteção ambiental, de recursos hídricos, de promoção da saúde e outras de relevante interesse social, voltadas para a melhoria da qualidade de vida, para as quais o saneamento básico seja fator determinante ou relevante;
+
+
+XIII –
+
+transparência das ações mediante a utilização de sistemas de levantamento e divulgação de informações, mecanismos de participação social e processos decisórios institucionalizados;
+
+
+XIV –
+
+cooperação com os demais entes da Federação mediante participação em soluções de gestão associada de serviços de saneamento básico e a promoção de ações que contribuam para a melhoria das condições de salubridade ambiental;
+
+
+XV –
+
+participação da sociedade na formulação e implementação das políticas e no planejamento, regulação, fiscalização e avaliação da prestação dos serviços por meio de instrumentos e mecanismos de controle social;
+
+
+XVI –
+
+promoção da educação sanitária e ambiental, fomentando os hábitos higiênicos, o uso sustentável dos recursos naturais, a redução de desperdícios e a correta utilização dos serviços, observado o disposto na Lei Federal nº. 9.795, de 27 de abril de 1999;
+
+
+XVII –
+
+promoção e proteção da saúde, mediante ações preventivas de doenças relacionadas à falta, ao uso incorreto ou à inadequação dos serviços públicos de saneamento básico, observadas as normas do Sistema Único de Saúde – SUS;
+
+
+XVIII –
+
+preservação e conservação do meio ambiente, mediante ações orientadas para a utilização dos recursos naturais de forma sustentável e a reversão da degradação ambiental, observadas as normas ambientais e de recursos hídricos e as disposições do plano de recursos hídricos da bacia hidrográfica em que se situa o Município;
+
+
+XIX –
+
+promoção do direito à cidade;
+
+
+XX –
+
+conformidade do planejamento e da execução dos serviços com as exigências fundamentais de ordenação da cidade expressas no plano diretor;
+
+
+XXI –
+
+respeito às identidades culturais das comunidades, às diversidades locais e regionais e a flexibilidade na implementação e na execução das ações de saneamento básico;
+
+
+XXII –
+
+promoção e defesa da saúde e segurança do trabalhador nas atividades relacionadas aos serviços;
+
+
+XXIII –
+
+respeito e promoção dos direitos básicos dos usuários e dos cidadãos;
+
+
+XXIV –
+
+fomento da pesquisa científica e tecnológica e a difusão dos conhecimentos de interesse para o saneamento básico, com ênfase no desenvolvimento de tecnologias apropriadas; e
+
+
+XXV –
+
+promoção de ações e garantia dos meios necessários para o atendimento da população rural dispersa com serviços de saneamento básico, mediante soluções adequadas e compatíveis com as respectivas situações geográficas e ambientais, e condições econômicas e sociais.
+
+
+§ 1º
+
+O serviço público de saneamento básico será considerado universalizado no Município quando assegurar, no mínimo, o atendimento das necessidades básicas vitais, sanitárias e higiênicas de todas as pessoas, independentemente de sua condição socioeconômica, em todas as edificações permanentes urbanas independentemente de sua situação fundiária, inclusive local de trabalho e de convivência social da sede municipal e dos atuais e futuros distritos, vilas e povoados, de modo ambientalmente sustentável e de forma adequada às condições locais.
+
+
+§ 2º
+
+Excluem-se do disposto no parágrafo 1º deste artigo as edificações localizadas em áreas cuja permanência ocasione risco à vida ou à integridade física e em áreas de proteção ambiental permanente, particularmente as faixas de preservação dos cursos d’água, cuja desocupação seja determinada pelas autoridades competentes ou por decisão judicial.
+
+
+§ 3º
+
+A universalização do saneamento básico e a salubridade ambiental poderão ser alcançadas gradualmente, conforme metas estabelecidas no Plano Municipal de Saneamento Básico.
+
+
+#### CAPÍTULO II — DOS SERVIÇOS PÚBLICOS DE SANEAMENTO BÁSICO
+
+
+##### Seção I — Dos Serviços Públicos de Abastecimento de Água
+
+
+Art. 5º.
+
+Considera-se serviço público de abastecimento de água o seu fornecimento por meio de rede pública de distribuição e ligação predial, incluídos os instrumentos de medição, bem como, quando vinculadas a esta finalidade, as seguintes atividades:
+
+
+I –
+
+reservação de água bruta;
+
+
+II –
+
+captação de água bruta;
+
+
+III –
+
+adução de água bruta;
+
+
+IV –
+
+tratamento de água;
+
+
+V –
+
+adução de água tratada; e
+
+
+VI –
+
+reservação de água tratada.
+
+
+Parágrafo único
+
+O sistema público de abastecimento de água é composto pelo conjunto de infraestruturas, obras civis, materiais, equipamentos e demais instalações, destinado à produção e à distribuição canalizada de água potável, sob a responsabilidade do Poder Público.
+
+
+Art. 6º.
+
+A gestão dos serviços públicos de abastecimento de água observará também as seguintes diretrizes:
+
+
+I –
+
+abastecimento público de água tratada prioritário para o consumo humano e a higiene nos domicílios residenciais, nos locais de trabalho e de convivência social, e secundário para utilização como insumo ou matéria prima para atividades econômicas e para o desenvolvimento de atividades recreativas ou de lazer;
+
+
+II –
+
+garantia do abastecimento em quantidade suficiente para promover a saúde pública e com qualidade compatível com as normas, critérios e padrões de potabilidade estabelecidos conforme o previsto na norma federal vigente e nas condições previstas no regulamento desta Lei;
+
+
+III –
+
+promoção e incentivo à preservação, à proteção e à recuperação dos mananciais, ao uso racional da água, à redução das perdas no sistema público e nas edificações atendidas e à minimização dos desperdícios; e
+
+
+IV –
+
+promoção das ações de educação sanitária e ambiental, especialmente o uso sustentável e racional da água e a correta utilização das instalações prediais de água.
+
+
+§ 1º
+
+A prestação dos serviços públicos de abastecimento de água deverá obedecer ao princípio da continuidade, podendo ser interrompida pelo prestador somente nas hipóteses de:
+
+
+I –
+
+situações que possam afetar a segurança de pessoas e bens, especialmente as de emergência e as que coloquem em risco a saúde da população ou de trabalhadores dos serviços de saneamento básico;
+
+
+II –
+
+manipulação indevida da ligação predial, inclusive medidor, ou de qualquer outro componente da rede pública por parte do usuário;
+
+
+III –
+
+necessidade de efetuar reparos, modificações ou melhorias nos sistemas por meio de interrupções programadas; ou
+
+
+IV –
+
+após aviso ao usuário, com comprovação do recebimento e antecedência mínima de 30 (trinta) dias da data prevista para a suspensão, nos seguintes casos:
+
+
+a)
+
+negativa do usuário em permitir a instalação de dispositivo de medição da água consumida;
+
+
+b)
+
+inadimplemento pelo usuário do pagamento devido pela prestação do serviço de abastecimento de água;
+
+
+c)
+
+construção em situação irregular perante o órgão municipal competente, desde que desocupada;
+
+
+d)
+
+interdição judicial; ou
+
+
+e)
+
+imóvel demolido ou abandonado sem utilização aparente.
+
+
+§ 2º
+
+As interrupções programadas serão previamente comunicadas ao regulador e aos usuários no prazo estabelecido na norma de regulação não inferior a 48h (quarenta e oito horas).
+
+
+§ 3º
+
+A interrupção ou a restrição do fornecimento de água por inadimplência, a estabelecimentos de saúde, a instituições educacionais e de internação coletiva de pessoas e a usuário residencial de baixa renda beneficiário de tarifa social, deverá obedecer a prazos e critérios que preservem condições essenciais de saúde das pessoas atingidas, observado o disposto no inciso II do caput deste artigo e o regulamento desta Lei.
+
+
+§ 4º
+
+A adoção de regime de racionamento pelo prestador, por período contínuo superior a 15 (quinze) dias, depende de prévia autorização do Poder Executivo, baseada em manifestação do órgão ou entidade de regulação, que lhe fixará prazo e condições, observadas as normas relacionadas aos recursos hídricos.
+
+
+Art. 7º.
+
+O fornecimento de água para consumo humano e higiene pessoal e doméstica deverá observar os parâmetros e padrões de potabilidade, bem como os procedimentos e responsabilidades relativos ao controle e vigilância da qualidade estabelecidos pelo Ministério da Saúde.
+
+
+§ 1º
+
+A responsabilidade do prestador dos serviços públicos sobre o controle da qualidade da água não prejudica a vigilância da qualidade da água para consumo humano por parte da autoridade de saúde pública.
+
+
+§ 2º
+
+O prestador de serviços de abastecimento de água deve informar e orientar a população sobre os procedimentos a serem adotados em caso de situações de emergência que ofereçam risco à saúde pública, atendidas as orientações fixadas pela autoridade competente.
+
+
+Art. 8º.
+
+Excetuados os casos previstos no regulamento desta Lei e conforme norma do órgão ou entidade de regulação, toda edificação permanente urbana deverá ser conectada à rede pública de abastecimento de água nos logradouros em que o serviço esteja disponível.
+
+
+§ 1º
+
+Na ausência de redes públicas de abastecimento de água, serão admitidas soluções individuais, observadas as normas de regulação do serviço e as relativas às políticas ambiental, sanitária e de recursos hídricos.
+
+
+§ 2º
+
+Salvo as situações excepcionais, disciplinadas pelo regulamento desta Lei e pelas normas administrativas de regulação, todas as ligações prediais de água deverão ser dotadas de hidrômetros, para controle do consumo e para cálculo da cobrança, inclusive do serviço de esgotamento sanitário.
+
+
+§ 3º
+
+Os imóveis que utilizarem soluções individuais de abastecimento de água, exclusiva ou conjuntamente com o serviço público, e que estiverem ligados ao sistema público de esgotamento sanitário, ficam obrigados a instalar hidrômetros nas respectivas fontes.
+
+
+§ 4º
+
+O condomínio residencial ou misto, cuja construção seja iniciada a partir da publicação desta Lei, deverá instalar hidrômetros individuais nas unidades autônomas que o compõem, para efeito de rateio das despesas de água fornecida e de utilização do serviço de esgoto, sem prejuízo da responsabilidade de sua administração pelo pagamento integral dos serviços prestados ao condomínio, mediante documento único de cobrança.
+
+
+§ 5º
+
+Na hipótese do parágrafo 4º deste artigo, e nos termos das normas administrativas de regulação, o prestador dos serviços poderá cadastrar individualmente as unidades autônomas e emitir contas individuais ou “borderô” de rateio da conta geral do condomínio, para que a administração do mesmo possa efetuar a cobrança dos respectivos condôminos de forma mais justa.
+
+
+Art. 9º.
+
+A instalação hidráulica predial ligada à rede pública de abastecimento de água não poderá ser alimentada por outras fontes, sujeitando-se o infrator às penalidades e sanções previstas nesta Lei, na legislação e nas normas de regulação específicas, inclusive a responsabilização civil no caso de contaminação da água da rede pública ou do próprio usuário.
+
+
+§ 1º
+
+Entende-se como instalação hidráulica predial mencionada no caput deste artigo a rede ou tubulação desde o ponto de ligação de água da prestadora até o reservatório de água do usuário, inclusive este.
+
+
+§ 2º
+
+Sem prejuízo do disposto no caput deste artigo, serão admitidas instalações hidráulicas prediais para aproveitamento da água de chuva ou para reuso de águas servidas ou de efluentes de esgotos tratados, observadas as normas pertinentes.
+
+
+##### Seção II — Dos Serviços Públicos de Esgotamento Sanitário
+
+
+Art. 10.
+
+Consideram-se serviços públicos de esgotamento sanitário os serviços constituídos por uma ou mais das seguintes atividades:
+
+
+I –
+
+coleta e afastamento dos esgotos sanitários por meio de rede pública, inclusive a ligação predial;
+
+
+II –
+
+quando sob responsabilidade do prestador público deste serviço, a coleta e transporte, por meio de veículos automotores apropriados, de:
+
+
+a)
+
+Efluentes e lodos gerados por soluções individuais de tratamento de esgotos sanitários, inclusive fossas sépticas; e
+
+
+b)
+
+Chorume gerado por unidades de tratamento de resíduos sólidos integrantes do respectivo serviço público e de soluções individuais, quando destinado ao tratamento em unidade do serviço de esgotamento sanitário.
+
+
+III –
+
+tratamento dos esgotos sanitários; e
+
+
+IV –
+
+disposição final dos efluentes e dos lodos originários da operação de unidades de tratamento, inclusive soluções individuais.
+
+
+§ 1º
+
+O sistema público de esgotamento sanitário é composto pelo conjunto de infraestruturas, obras civis, materiais, equipamentos e demais instalações, destinado à coleta, afastamento, transporte, tratamento e disposição final dos esgotos sanitários e dos lodos gerados nas unidades de tratamento, sob a responsabilidade do Poder Público.
+
+
+§ 2º
+
+Para os fins deste artigo, também são considerados como esgotos sanitários os efluentes industriais cujas características sejam semelhantes às do esgoto doméstico.
+
+
+Art. 11.
+
+A gestão dos serviços públicos de esgotamento sanitário observará ainda as seguintes diretrizes:
+
+
+I –
+
+adoção de solução adequada para a coleta, o transporte, o tratamento e a disposição final dos esgotos sanitários, visando promover a saúde pública e prevenir a poluição das águas superficiais e subterrâneas, do solo e do ar;
+
+
+II –
+
+promoção do desenvolvimento e adoção de tecnologias apropriadas, seguras e ambientalmente adequadas de esgotamento sanitário, para o atendimento de domicílios localizados em situações especiais, especialmente em áreas com urbanização precária e bairros isolados, vilas e povoados rurais com ocupação dispersa;
+
+
+III –
+
+incentivo ao reuso da água, inclusive a originada do processo de tratamento, e à eficiência energética, nas diferentes etapas do sistema de esgotamento, observadas as normas de saúde pública e de proteção ambiental;
+
+
+IV –
+
+promoção de ações de educação sanitária e ambiental sobre a correta utilização das instalações prediais de esgoto e dos sistemas de esgotamento e o adequado manejo dos esgotos sanitários, principalmente nas soluções individuais, incluídos os procedimentos para evitar a contaminação dos solos, das águas e das lavouras.
+
+
+§ 1º
+
+Excetuados os casos previstos no regulamento desta Lei e conforme norma do órgão regulador, toda edificação permanente urbana deverá ser conectada à rede pública de esgotamento sanitário nos logradouros em que o serviço esteja disponível.
+
+
+§ 2º
+
+Na ausência de redes públicas de esgotamento sanitário, serão admitidas soluções individuais, observadas as normas editadas pelo órgão regulador e pelos órgãos responsáveis pelas políticas ambiental, sanitária e de recursos hídricos.
+
+
+§ 3º
+
+A prestação dos serviços públicos de esgotamento sanitário deverá obedecer ao princípio da continuidade, vedada a interrupção ou restrição física do acesso aos serviços em decorrência de inadimplência do usuário, sem prejuízo das ações de cobrança administrativa ou judicial.
+
+
+§ 4º
+
+O Plano Municipal de Saneamento Básico deverá prever as ações e o órgão regulador deverá disciplinar os procedimentos para resolução ou mitigação dos efeitos de situações emergenciais ou contingenciais relacionadas à operação dos sistemas de esgotamento sanitário que possam afetar a continuidade dos serviços ou causar riscos sanitários.
+
+
+##### Seção III — Dos Serviços Públicos de Limpeza Urbana e Manejo de Resíduos Sólidos Urbanos
+
+
+Art. 12.
+
+Consideram-se serviços públicos de limpeza urbana e manejo de resíduos sólidos as atividades de limpeza urbana, coleta e transbordo, transporte, triagem para fins de reutilização ou reciclagem, tratamento, inclusive por compostagem, e disposição final dos:
+
+
+I –
+
+resíduos domésticos;
+
+
+II –
+
+resíduos originários de atividades comerciais, industriais e de serviços, em quantidade e qualidade similares às dos resíduos domésticos, os quais, conforme as normas de regulação específicas sejam considerados resíduos sólidos urbanos, desde que tais resíduos não sejam de responsabilidade de seu gerador nos termos da norma legal ou administrativa, de decisão judicial ou de termo de ajustamento de conduta; e
+
+
+III –
+
+resíduos originários dos serviços públicos de limpeza urbana, tais como:
+
+
+a)
+
+varrição, capina, roçada, poda de árvores e atividades correlatas em vias e logradouros públicos;
+
+
+b)
+
+asseio de logradouros, instalações e equipamentos públicos;
+
+
+c)
+
+raspagem e remoção de terra, areia e quaisquer materiais depositados pelas águas pluviais em logradouros públicos;
+
+
+d)
+
+desobstrução e limpeza de bueiros, bocas de lobo e correlatos; e
+
+
+e)
+
+limpeza de logradouros públicos onde se realizem feiras públicas e outros eventos públicos de acesso aberto à comunidade.
+
+
+Parágrafo único
+
+O sistema público de limpeza urbana e manejo de resíduos sólidos urbanos é composto pelo conjunto de infraestruturas, obras civis, materiais, máquinas, equipamentos, veículos e demais componentes, destinado à coleta, transbordo, transporte, triagem, tratamento, inclusive por compostagem, e disposição final dos resíduos caracterizados neste artigo, sob a responsabilidade do Poder Público.
+
+
+Art. 13.
+
+A gestão dos serviços públicos de limpeza urbana e manejo dos resíduos sólidos observará também as seguintes diretrizes:
+
+
+I –
+
+adoção do manejo planejado, integrado e diferenciado dos resíduos sólidos urbanos, com ênfase na utilização de tecnologias limpas, visando promover a saúde pública e prevenir a poluição das águas superficiais e subterrâneas, do solo e do ar;
+
+
+II –
+
+incentivo e promoção:
+
+
+a)
+
+da não geração, redução, separação dos resíduos na fonte geradora para as coletas seletivas, reutilização, reciclagem, inclusive por compostagem, e aproveitamento energético do biogás, objetivando a utilização adequada dos recursos naturais e a sustentabilidade ambiental e econômica;
+
+
+b)
+
+da inserção social dos catadores de materiais reutilizáveis e recicláveis nas ações de gestão, mediante apoio à sua organização em associações ou cooperativas de trabalho e prioridade na contratação destas para a prestação dos serviços de coleta, processamento e comercialização desses materiais;
+
+
+c)
+
+da recuperação de áreas degradadas ou contaminadas devido à disposição inadequada dos resíduos sólidos;
+
+
+d)
+
+da adoção de padrões sustentáveis de produção e consumo de bens e serviços geradores de resíduos; e
+
+
+e)
+
+das ações de criação e fortalecimento de mercados locais de comercialização ou consumo de materiais reutilizáveis, recicláveis ou reciclados.
+
+
+III –
+
+promoção de ações de educação sanitária e ambiental, especialmente dirigidas para:
+
+
+a)
+
+a difusão das informações necessárias à correta utilização dos serviços, especialmente os dias, os horários das coletas e as regras para embalagem e apresentação dos resíduos a serem coletados;
+
+
+b)
+
+a adoção de hábitos higiênicos relacionados ao manejo adequado dos resíduos sólidos;
+
+
+c)
+
+a orientação para o consumo preferencial de produtos originados de materiais reutilizáveis ou recicláveis; e
+
+
+d)
+
+a disseminação de informações sobre as questões ambientais relacionadas ao manejo dos resíduos sólidos e sobre os procedimentos para evitar desperdícios.
+
+
+§ 1º
+
+É vedada a interrupção de serviço de coleta em decorrência de inadimplência do usuário residencial, sem prejuízo das ações de cobrança administrativa ou judicial, exigindo-se a comunicação prévia quando alteradas as condições de sua prestação.
+
+
+§ 2º
+
+O Plano Municipal de Saneamento Básico deverá conter prescrições para manejo dos resíduos sólidos urbanos referidos no artigo 12 desta Lei, bem como dos resíduos originários de construção e demolição, dos serviços de saúde e demais resíduos de responsabilidade dos geradores, observadas as normas da Lei Federal n.º 12.305, de 2 de agosto de 2010.
+
+
+##### Seção IV — Dos Serviços Públicos de Drenagem e Manejo de Águas Pluviais Urbanas
+
+
+Art. 14.
+
+Consideram-se serviços públicos de drenagem e manejo das águas pluviais urbanas os constituídos por uma ou mais das seguintes atividades:
+
+
+I –
+
+drenagem urbana;
+
+
+II –
+
+adução ou transporte de águas pluviais urbanas por meio de dutos e canais;
+
+
+III –
+
+detenção ou retenção de águas pluviais urbanas para amortecimento de vazões de cheias ou aproveitamento, inclusive como elemento urbanístico; e
+
+
+IV –
+
+tratamento e aproveitamento ou disposição final de águas pluviais urbanas.
+
+
+Parágrafo único
+
+O sistema público de drenagem e manejo das águas pluviais urbanas é composto pelo conjunto de infraestruturas, obras civis, materiais, equipamentos e demais instalações, destinado à drenagem, adução ou transporte, detenção ou retenção, tratamento, aproveitamento e disposição final das águas pluviais urbanas, sob a responsabilidade do Poder Público.
+
+
+Art. 15.
+
+A gestão dos serviços públicos de drenagem e manejo das águas pluviais observará também as seguintes diretrizes:
+
+
+I –
+
+integração das ações de planejamento, de implantação e de operação do sistema de drenagem e manejo de águas pluviais urbanas com as do sistema de esgotamento sanitário, visando racionalizar a gestão destes serviços;
+
+
+II –
+
+adoção de soluções e ações adequadas de drenagem e de manejo das águas pluviais urbanas visando promover a saúde, a segurança dos cidadãos e do patrimônio público e privado e reduzir os prejuízos econômicos decorrentes de inundações e de outros eventos relacionados;
+
+
+III –
+
+desenvolvimento de mecanismos e instrumentos de prevenção, minimização e gerenciamento de enchentes, e redução ou mitigação dos impactos dos lançamentos na quantidade e qualidade da água à jusante da bacia hidrográfica urbana;
+
+
+IV –
+
+incentivo à valorização, à preservação, à recuperação e ao uso adequado do sistema natural de drenagem do sítio urbano, em particular dos seus cursos d’água, com ações que priorizem:
+
+
+a)
+
+incentivo à valorização, à preservação, à recuperação e ao uso adequado do sistema natural de drenagem do sítio urbano, em particular dos seus cursos d’água, com ações que priorizem:
+
+
+b)
+
+as alternativas de tratamento de fundos de vale de menor impacto ambiental, inclusive a recuperação e proteção das áreas de preservação permanente e o tratamento urbanístico e paisagístico das áreas remanescentes;
+
+
+c)
+
+a redução de áreas impermeáveis nas vias e logradouros e nas propriedades públicas e privadas;
+
+
+d)
+
+o equacionamento dos impactos negativos na qualidade das águas dos corpos receptores em decorrência de lançamentos de esgotos sanitários e de outros efluentes líquidos no sistema público de manejo de águas pluviais; e
+
+
+e)
+
+a inibição de lançamentos ou deposição de resíduos sólidos de qualquer natureza, inclusive por assoreamento, no sistema público de manejo de águas pluviais.
+
+
+V –
+
+adoção de medidas, inclusive de benefício ou de ônus financeiro, de incentivo à adoção de mecanismos de detenção ou retenção de águas pluviais urbanas para amortecimento de vazões de cheias ou aproveitamento das águas pluviais pelos proprietários, titulares do domínio útil ou possuidores a qualquer título de imóveis urbanos; e
+
+
+VI –
+
+promoção das ações de educação sanitária e ambiental como instrumento de conscientização da população sobre a importância da preservação e ampliação das áreas permeáveis e o correto manejo das águas pluviais.
+
+
+Parágrafo único
+
+São de responsabilidade dos proprietários, titulares do domínio útil ou possuidores a qualquer título de imóveis urbanos, inclusive condomínios privados verticais ou horizontais, as soluções individuais de manejo de águas pluviais intralotes vinculadas a quaisquer das atividades referidas no artigo 14 desta Lei, observadas as normas e códigos de posturas pertinentes e a regulação específica.
+
+
+#### CAPÍTULO III — DO EXERCÍCIO DA TITULARIDADE
+
+
+Art. 16.
+
+Compete ao Município a organização, o planejamento, a regulação, a fiscalização e a prestação dos serviços públicos de saneamento básico de interesse local.
+
+
+§ 1º
+
+Consideram-se de interesse local todos os serviços públicos de saneamento básico ou suas atividades elencados nos artigos 5º, 10, 12 e 14 desta Lei, cujas infraestruturas ou operação atendam exclusivamente ao Município, independente da localização territorial destas infraestruturas.
+
+
+§ 2º
+
+Os serviços públicos de saneamento básico de titularidade municipal serão prestados, preferencialmente, por órgão ou entidade da Administração direta ou indireta do Município, devidamente organizados e estruturados para este fim.
+
+
+§ 3º
+
+No exercício de suas competências constitucionais o Município poderá delegar atividades administrativas de organização, de regulação e de fiscalização, bem como, mediante contrato, a prestação integral ou parcial de serviços públicos de saneamento básico de sua titularidade, observadas as disposições desta Lei e a legislação pertinente a cada caso, particularmente Lei Federal n.º 8.987, de 13 de fevereiro de 1995, a Lei Federal n.º 11.079, de 30 de dezembro de 2004, e a Lei Federal n.º 11.107, de 6 de abril de 2005.
+
+
+§ 4º
+
+São condições de validade dos contratos que tenham por objeto a prestação de serviços públicos de saneamento básico o cumprimento das diretrizes previstas no artigo 11, da Lei Federal n.º 11.445, de 2007 e, no que couberem, as disposições desta Lei.
+
+
+§ 5º
+
+O Poder Executivo Municipal poderá, ouvido o órgão regulador, intervir e retomar a prestação dos serviços delegados nas hipóteses previstas nas normas legais, regulamentares ou contratuais.
+
+
+Art. 17.
+
+Fica proibida, sob pena de nulidade, qualquer modalidade e forma de delegação onerosa da prestação integral ou de quaisquer atividades dos serviços públicos municipais de saneamento básico referidos no parágrafo 1º deste artigo.
+
+
+#### CAPÍTULO IV — DOS INSTRUMENTOS
+
+
+Art. 18.
+
+A Política Municipal de Saneamento Básico será executada por intermédio dos seguintes instrumentos:
+
+
+I –
+
+Plano Municipal de Saneamento Básico – PMSB;
+
+
+II –
+
+Controle Social;
+
+
+III –
+
+Sistema Municipal de Gestão do Saneamento Básico – SMSB;
+
+
+IV –
+
+Fundo Municipal de Saneamento Básico – FMSB;
+
+
+V –
+
+Sistema Municipal de Informações em Saneamento Básico – Simisa; e
+
+
+VI –
+
+Legislação, regulamentos, normas administrativas de regulação, contratos e outros instrumentos jurídicos relacionados aos serviços púbicos de saneamento básico.
+
+
+##### Seção I — Do Plano Municipal de Saneamento Básico
+
+
+Art. 19.
+
+Fica instituído o Plano Municipal de Saneamento Básico do Município de Cabeceira Grande, identificado pela sigla PMSB, disposto no Anexo Único desta Lei, sendo destinado a articular, integrar e coordenar recursos tecnológicos, humanos, econômicos e financeiros, constituindo-se no instrumento essencial para o alcance de níveis crescentes de salubridade ambiental e de desenvolvimento.
+
+
+Art. 20.
+
+O Plano Municipal de Saneamento Básico será revisado e conterá, dentre outros, os seguintes elementos:
+
+
+I –
+
+diagnóstico situacional sobre a salubridade ambiental do Município e de todos os serviços de saneamento, por meio de indicadores sanitários, epidemiológicos, ambientais, sociais, econômicos e de gestão;
+
+
+II –
+
+definição de diretrizes gerais, através de planejamento integrado, considerando outros planos setoriais e regionais;
+
+
+III –
+
+estabelecimento de metas e ações emergenciais, de curto, médio e longo prazo;
+
+
+IV –
+
+definição dos recursos financeiros necessários, das fontes de financiamento e cronograma de aplicação, quando possível; e
+
+
+V –
+
+programa de investimento em obras e outras medidas relativas à utilização, recuperação, conservação e proteção dos sistemas de saneamento.
+
+
+Art. 21.
+
+O Plano Municipal de Saneamento Básico será avaliado a cada 4 (quatro) anos, durante a realização do Fórum de Saneamento Básico e Meio Ambiente tomando por base os relatórios sobre a Gestão de Saneamento Básico.
+
+
+§ 1º
+
+Os relatórios referidos no caput deste artigo serão publicados até 28 de fevereiro de cada 4 (quatro) anos pelos Comsab, reunidos sob o título “Situação do Saneamento Básico do Município”.
+
+
+§ 2º
+
+O relatório “Situação de Saneamento Básico do Município” conterá dentre outros elementos:
+
+
+I –
+
+avaliação da salubridade ambiental das zonas urbana e rural;
+
+
+II –
+
+avaliação do cumprimento dos programas previstos no Plano Municipal de Saneamento Básico; e
+
+
+III –
+
+proposição de possíveis ajustes dos programas, cronogramas de obras e serviços e das necessidades financeiras previstas.
+
+
+Art. 22.
+
+Os investimentos previstos para cumprimento de metas do Plano Municipal de Saneamento Básico deverão estar de acordo com Plano Plurianual assim como na Lei de Diretrizes Orçamentária e na Lei Orçamentária Anual.
+
+
+##### Seção II — Do Controle Social
+
+
+Art. 23.
+
+As atividades de planejamento, regulação e prestação dos serviços de saneamento básico estão sujeitas ao controle social, em razão do que poderão ser considerados nulos, a critério do Prefeito:
+
+
+I –
+
+os atos, regulamentos, normas ou resoluções emitidos pelo órgão regulador que não tenham sido submetidos à consulta pública, garantido prazo mínimo de 15 (quinze) dias para divulgação das propostas e apresentação de críticas e sugestões;
+
+
+II –
+
+a instituição e as revisões de tarifas e taxas e outros preços públicos sem a prévia manifestação do órgão regulador e sem a realização de consulta pública;
+
+
+III –
+
+PMSB ou planos específicos e suas revisões elaborados sem o cumprimento das fases previstas no art. 20 desta Lei; e
+
+
+IV –
+
+os contratos de delegação da prestação de serviços cujas minutas não tenham sido submetidas à apreciação do órgão regulador e à audiência ou consulta pública.
+
+
+§ 1º
+
+O controle social dos serviços públicos de saneamento básico será exercido mediante, entre outros, os seguintes mecanismos:
+
+
+I –
+
+debates e audiências públicas;
+
+
+II –
+
+consultas públicas;
+
+
+III –
+
+conferências de políticas públicas; e
+
+
+IV –
+
+participação em órgãos colegiados de caráter consultivo ou deliberativo na formulação da política municipal de saneamento básico, no seu planejamento e avaliação e representação no organismo de regulação e fiscalização, especialmente o Conselho Municipal de Saneamento Básico – Comsab de que trata a Lei Municipal n.º 465, de 18 de maio de 2015, que exercerá a função de órgão regulador até a organização formal do mesmo.
+
+
+§ 2º
+
+As audiências públicas mencionadas no inciso I do parágrafo 1º deste artigo devem se realizar de modo a possibilitar o acesso da população, podendo ser realizadas de forma regionalizada.
+
+
+§ 3º
+
+As consultas públicas devem ser promovidas de forma a possibilitar que qualquer do povo, independentemente de interesse, tenha acesso às propostas e estudos e possa se manifestar por meio de críticas e sugestões a propostas do Poder Público, devendo tais manifestações ser adequadamente respondidas.
+
+
+§ 4º
+
+São assegurados aos usuários de serviços públicos de saneamento básico:
+
+
+I –
+
+conhecimento dos seus direitos e deveres e das penalidades a que podem estar sujeitos, nos termos desta Lei, do seu regulamento e demais normas aplicáveis;
+
+
+II –
+
+acesso:
+
+
+a)
+
+a informações de interesse individual ou coletivo sobre os serviços prestados;
+
+
+b)
+
+aos regulamentos e manuais técnicos de prestação dos serviços elaborados ou aprovados pelo organismo regulador; e
+
+
+c)
+
+a relatórios regulares de monitoramento e avaliação da prestação dos serviços editados pelo organismo regulador e fiscalizador.
+
+
+§ 5º
+
+O documento de cobrança pela prestação ou disposição de serviços de saneamento básico observará modelo instituído ou aprovado pelo organismo regulador e deverá:
+
+
+I –
+
+explicitar de forma clara e objetiva os serviços e outros encargos cobrados e os respectivos valores, conforme definidos pela regulação, visando o perfeito entendimento e o controle direto pelo usuário final; e
+
+
+II –
+
+conter informações sobre a qualidade da água entregue aos consumidores, em cumprimento ao disposto no inciso I do artigo 5º do Anexo do Decreto Federal n.º 5.440, de 4 de maio de 2005.
+
+
+##### Seção III — Do Sistema Municipal de Gestão do Saneamento Básico
+
+
+Art. 24.
+
+O Sistema Municipal de Gestão do Saneamento Básico, identificado pela sigla SMSB, coordenado pelo Prefeito Municipal, é composto dos seguintes organismos e agentes institucionais:
+
+
+I –
+
+Conselho Municipal de Saneamento Básico – Comsab;
+
+
+II –
+
+Órgão Regulador;
+
+
+III –
+
+Prestadores dos serviços; e
+
+
+IV –
+
+Secretarias municipais com atuação em áreas afins ao saneamento básico.
+
+
+###### Subseção I — Do Conselho Municipal de Saneamento Básico – Comsab
+
+
+Art. 25.
+
+Ao Conselho Municipal de Saneamento Básico – Comsab incumbe o desempenho das competências determinadas pela Lei Municipal n.º 465, de 18 de maio de 2015, atuar como órgão regulador até sua organização formal e ainda será assegurada competência relativa ao saneamento básico para manifestar-se sobre:
+
+
+I –
+
+propostas de revisões de taxas, tarifas e outros preços públicos formuladas pelo órgão regulador;
+
+
+II –
+
+o PMSB ou os planos específicos e suas revisões; e
+
+
+III –
+
+propostas de normas legais e administrativas de regulação dos serviços.
+
+
+###### Subseção II — Do Órgão de Regulação
+
+
+Art. 26.
+
+Compete ao Executivo Municipal o exercício das atividades administrativas de regulação, inclusive organização, e de fiscalização dos serviços de saneamento básico, que poderão ser executadas:
+
+
+I –
+
+diretamente, por órgão ou entidade da Administração Municipal, inclusive consórcio público do qual o Município participe; ou
+
+
+II –
+
+mediante delegação, por meio de convênio de cooperação, a órgão ou entidade de outro ente da Federação ou a consórcio público do qual não participe, constituído dentro do limite do respectivo Estado, instituído para gestão associada de serviços públicos.
+
+
+§ 1º
+
+Optando o Poder Executivo Municipal pelo exercício das atividades administrativas de regulação e fiscalização dos serviços por intermédio de Consórcio Público do qual participe ou por entidade reguladora de outro ente federado, deverá ser estabelecido em instrumento de convênio administrativo apropriado o prazo de outorga, a forma de atuação e a abrangência das atividades a ser desempenhadas pelas partes envolvidas.
+
+
+§ 2º
+
+Os termos e condições do instrumento de que trata o parágrafo 1º observarão as disposições desta Lei, do seu regulamento e de eventual contrato de consórcio público resultante da ratificação do Protocolo de Intenções de sua constituição, aprovado por lei especial.
+
+
+§ 3º
+
+As atividades administrativas de regulação e de fiscalização dos serviços públicos de saneamento básico será exercida por órgão regulador a ser criado e organizado por lei especial, funcionando o Comsab como órgão regulador até a concretização dessa providência.
+
+
+§ 4º
+
+Sem prejuízo de suas competências o órgão regulador poderá obter apoio técnico de instituições públicas de regulação ou de entidades de ensino e pesquisa para as atividades administrativas de regulação e fiscalização dos serviços, mediante termo de cooperação específico, que explicitará o prazo e a forma de atuação, as atividades a serem desempenhadas pelas partes e demais condições.
+
+
+###### Subseção III — Dos Prestadores dos Serviços
+
+
+Art. 27.
+
+O serviço público de abastecimento de água é prestado pelo Serviço Autônomo de Saneamento de Cabeceira Grande – Sanecab, autarquia municipal regida pela Lei n.º 40, de 21 de junho de 1998 e suas alterações, que diligenciará no sentido de implantar a prestação do serviço público de esgotamento sanitário.
+
+
+§ 1º
+
+Sem prejuízo das atribuições que lhe foram conferidas pela Lei referida no caput deste artigo, compete ao Sanecab:
+
+
+I –
+
+planejar, projetar, executar, operar e manter os serviços de abastecimento de água e de esgotamento sanitário, incluídas todas as atividades descritas nos artigos 5º e 10 desta Lei;
+
+
+II –
+
+realizar pesquisas e estudos sobre os sistemas de abastecimento de água, de esgotamento sanitário;
+
+
+III –
+
+realizar ações de recuperação e preservação e estudos de aproveitamento dos mananciais situados no Município, visando ao aumento da oferta de água para atender as necessidades da comunidade;
+
+
+IV –
+
+elaborar e rever periodicamente os Planos Diretores dos serviços de sua competência, em consonância com o PMSB;
+
+
+V –
+
+celebrar convênios, contratos ou acordos específicos com entidades públicas ou privadas para desenvolver as atividades sob sua responsabilidade, observadas a legislação pertinente;
+
+
+VI –
+
+cobrar taxas, contribuições de melhoria, tarifas e outros preços públicos referentes à prestação ou disposição dos serviços de sua competência, bem como arrecadar e gerir as receitas provenientes dessas cobranças;
+
+
+VII –
+
+gerenciar os recursos do Fundo Municipal de Saneamento Básico - FMSB;
+
+
+VIII –
+
+realizar operações financeiras de crédito destinadas exclusivamente à realização de obras e outros investimentos necessários para a prestação dos serviços de sua competência;
+
+
+IX –
+
+incentivar, promover e realizar ações de educação sanitária e ambiental;
+
+
+X –
+
+elaborar e publicar mensal e anualmente os balancetes financeiros e patrimoniais;
+
+
+XI –
+
+organizar e manter atualizado o cadastro e a contabilidade patrimonial de todos os seus bens e o cadastro técnico de todas as infraestruturas físicas imóveis vinculadas aos serviços de sua competência, inclusive: ramais de ligações prediais; redes de adução e distribuição de água; redes coletoras, coletores-tronco e emissários de esgotos; redes e subestações de energia; e redes de dados;
+
+
+XII –
+
+exercer fiscalização técnica das atividades de sua competência; e
+
+
+XIII –
+
+aplicar penalidades previstas nesta Lei e em seus regulamentos.
+
+
+§ 2º
+
+No âmbito de suas competências, o Sanecab poderá:
+
+
+I –
+
+contratar terceiros, no regime da Lei n.º. 8.666, de 21 de junho de 1993, para execução de atividades de seu interesse; e
+
+
+II –
+
+celebrar convênios administrativos com cooperativas ou associações de usuários para a execução de atividades de sua competência, sob as condições previstas no parágrafo 2º do artigo 2º desta Lei e no parágrafo 2º do artigo 10 da Lei Federal n.º 11.445, de 6 de janeiro de 2007.
+
+
+Art. 28.
+
+Os serviços de limpeza urbana e manjo de resíduos sólidos são prestados diretamente pela Secretaria Municipal de Obras, Infraestrutura, Trânsito e Serviços Urbanos ou outro órgão que venha a ser criado, competindo-lhe o exercício de todas as atividades indicadas no artigo 12 desta Lei, conforme os regulamentos de sua organização e funcionamento e o disposto no parágrafo 2º do artigo 27 desta Lei.
+
+
+Art. 29.
+
+Os serviços de drenagem e manejo de água pluviais urbanas são prestados diretamente pela Secretaria Municipal de Obras, Infraestrutura, Trânsito e Serviços Urbanos ou outro órgão que venha ser criado, competindo-lhe o exercício de todas as atividades indicadas no artigo 14 desta Lei, conforme os regulamentos de sua organização e funcionamento e o disposto no parágrafo 2º do artigo 27 desta Lei.
+
+
+§ 1º
+
+O Poder Executivo Municipal deverá promover a integração do planejamento e da prestação dos serviços referidos no caput com os serviços de esgotamento sanitário e de abastecimento de água.
+
+
+§ 2º
+
+Para o cumprimento do disposto no parágrafo 1º deste artigo, fica o Poder Executivo Municipal autorizado a transferir as referidas funções, total ou parcialmente para o Sanecab, bem como a promover sua eventual reestruturação administrativa para este fim.
+
+
+##### Seção IV — Do Fundo Municipal de Saneamento Básico – FMSB
+
+
+Art. 30.
+
+Fica criado o Fundo Municipal de Saneamento Básico, identificado pela sigla FMSB, de natureza contábil, vinculado ao Sanecab, tendo por finalidade concentrar os recursos para a realização de investimentos em ampliação, expansão, substituição, melhoria e modernização das infraestruturas operacionais e em recursos gerenciais necessários para a prestação dos serviços de saneamento básico do Município de (nome do Município), visando a sua disposição universal, integral, igualitária e com modicidade dos custos.
+
+
+Art. 31.
+
+O FMSB será gerido pelo Comsab.
+
+
+§ 1º
+
+Ao Comsab, enquanto órgão gestor do FMSB, compete:
+
+
+I –
+
+estabelecer e fiscalizar a política de aplicação dos recursos do FMSB, observadas as diretrizes básicas e prioritárias da política e do plano municipal de saneamento básico;
+
+
+II –
+
+elaborar o Plano Orçamentário e de Aplicação dos recursos do FMSB, em consonância com a Lei de Diretrizes Orçamentárias;
+
+
+III –
+
+aprovar as demonstrações mensais de receitas e despesas do FMSB;
+
+
+IV –
+
+encaminhar as prestações de contas anuais do FMSB ao Poder Executivo e à Câmara Municipal, juntamente com as contas gerais do Sanecab;
+
+
+V –
+
+deliberar sobre questões relacionadas ao FMSB, em consonância com as normas de gestão financeira e os interesses do Município.
+
+
+§ 2º
+
+A gestão administrativa do FMSB será exercida pela unidade de gestão financeira e contábil do Sanecab.
+
+
+Art. 32.
+
+Constituem receitas do FMSB:
+
+
+I –
+
+recursos provenientes de dotações orçamentárias do Município;
+
+
+II –
+
+recursos vinculados às receitas de taxas, tarifas e preços públicos dos serviços de saneamento básico, conforme o disposto no artigo 45 desta Lei e seu regulamento;
+
+
+III –
+
+transferências voluntárias de recursos do Estado de Minas Gerais ou da União, ou de instituições vinculadas aos mesmos, destinadas a ações de saneamento básico do Município;
+
+
+IV –
+
+recursos provenientes de doações ou subvenções de organismos e entidades nacionais e internacionais, públicas ou privadas;
+
+
+V –
+
+rendimentos provenientes de aplicações financeiras dos recursos disponíveis do FMSB;
+
+
+VI –
+
+repasses de consórcios públicos ou provenientes de convênios celebrados com instituições públicas ou privadas para execução de ações de saneamento básico no âmbito do Município; e
+
+
+VII –
+
+doações em espécie e outras receitas.
+
+
+§ 1º
+
+As receitas do FMSB serão depositadas obrigatoriamente em conta especial, a ser aberta e mantida em agência de estabelecimento oficial de crédito.
+
+
+§ 2º
+
+As disponibilidades de recursos do FMSB não vinculadas a desembolsos de curto prazo ou a garantias de financiamentos deverão ser investidas em aplicações financeiras com prazos e liquidez compatíveis com o seu programa de execução.
+
+
+§ 3º
+
+O saldo financeiro do FMSB apurado ao final de cada exercício será transferido para o exercício seguinte, a crédito do mesmo Fundo.
+
+
+§ 4º
+
+Constituem passivos do FMSB as obrigações de qualquer natureza que venha a assumir para a execução dos programas e ações previstos no Plano Municipal de Saneamento Básico e no Plano Plurianual, observada a Lei de Diretrizes Orçamentárias.
+
+
+§ 5º
+
+O orçamento do FMSB integrará o orçamento do Sanecab, em obediência ao princípio da unidade.
+
+
+§ 6º
+
+A contabilidade do FMSB será organizada de forma a permitir o seu pleno controle e a gestão da sua execução orçamentária.
+
+
+§ 7º
+
+A ordenação das despesas previstas no respectivo Plano Orçamentário e de Aplicação do FMSB caberá ao Diretor-Geral do Sanecab.
+
+
+Art. 33.
+
+Fica vedada a utilização de recursos do FMSB para:
+
+
+I –
+
+cobertura de déficits orçamentários e para pagamento de despesas correntes de quaisquer órgãos e entidades do Município, inclusive do Sanecab;
+
+
+II –
+
+execução de obras e outras intervenções urbanas integradas ou que afetem ou interfiram nos sistemas de saneamento básico, em montante superior à participação proporcional destes serviços nos respectivos investimentos.
+
+
+Parágrafo único
+
+A vedação prevista no inciso I do caput não se aplica ao pagamento de:
+
+
+I –
+
+amortizações, juros e outros encargos financeiros relativos a financiamentos de investimentos em ações de saneamento básico previstos no Plano Orçamentário e de Aplicação do FMSB;
+
+
+II –
+
+despesas adicionais decorrentes de aditivos contratuais relativos a investimentos previstos no Plano Orçamentário e de Aplicação do FMSB;
+
+
+III –
+
+despesas com investimentos emergenciais nos serviços de saneamento básico aprovadas pelo órgão regulador e pelo Comsab; e
+
+
+IV –
+
+contrapartida de investimentos com recursos de transferências voluntárias da União, do Estado de Minas Gerais ou de outras fontes não onerosas, não previstos no Plano Orçamentário e de Aplicação do FMSB, cuja execução deva ser realizada no mesmo exercício financeiro.
+
+
+Art. 34.
+
+A organização administrativa e o funcionamento do FMSB serão disciplinados em regulamento desta Lei.
+
+
+##### Seção V — Do Sistema Municipal de Informações em Saneamento Básico – Simisa
+
+
+Art. 35.
+
+O Poder Executivo Municipal deverá instituir e gerir, diretamente ou por intermédio do órgão regulador ou do Comsab, o Sistema Municipal de Informações em Saneamento Básico, identificado pela sigla Simisa, com os objetivos de:
+
+
+I –
+
+coletar e sistematizar dados relativos às condições da prestação dos serviços públicos de saneamento básico;
+
+
+II –
+
+disponibilizar estatísticas, indicadores e outras informações relevantes para o monitoramento e avaliação sistemática dos serviços;
+
+
+III –
+
+cumprir com a obrigação prevista no artigo 9º, inciso VI, da Lei Federal n.º 11.445, de 2007.
+
+
+§ 1º
+
+O Simisa poderá ser instituído como sistema autônomo ou como módulo integrante de sistema de informações gerais do Município ou órgão regulador.
+
+
+§ 2º
+
+As informações do Simisa serão públicas cabendo ao seu gestor disponibilizá-las, preferencialmente, no sítio que mantiver na internet ou por qualquer meio que permita o acesso a todos, independente de manifestação de interesse.
+
+
+#### CAPÍTULO V — DOS ASPECTOS ECONÔMICOS FINANCEIROS
+
+
+##### Seção I — Da Política de Cobrança
+
+
+Art. 36.
+
+Os serviços públicos de saneamento básico terão sua sustentabilidade econômico-financeira assegurada, sempre que possível, mediante remuneração que permita a recuperação dos custos econômicos dos serviços prestados em regime de eficiência.
+
+
+§ 1º
+
+A instituição de taxas ou tarifas e outros preços públicos para remuneração dos serviços de saneamento básico observará as seguintes diretrizes:
+
+
+I –
+
+prioridade para atendimento das funções essenciais relacionadas à saúde pública;
+
+
+II –
+
+ampliação do acesso dos cidadãos e localidades de baixa renda aos serviços;
+
+
+III –
+
+geração dos recursos necessários para realização dos investimentos, visando o cumprimento das metas e objetivos do planejamento;
+
+
+IV –
+
+inibição do consumo supérfluo e do desperdício de recursos;
+
+
+V –
+
+recuperação dos custos incorridos na prestação do serviço, inclusive despesas de capital, em regime de eficiência;
+
+
+VI –
+
+remuneração adequada do capital investido pelos prestadores dos serviços contratados, ou com recursos rotativos do FMSB;
+
+
+VII –
+
+estímulo ao uso de tecnologias modernas e eficientes, compatíveis com os níveis exigidos de qualidade, continuidade e segurança na prestação dos serviços; e
+
+
+VIII –
+
+incentivo à eficiência dos prestadores dos serviços.
+
+
+§ 2º
+
+Poderão ser adotados subsídios tarifários e não tarifários para usuários determinados ou para sistemas isolados de saneamento básico no âmbito municipal sem escala econômica suficiente ou cujos usuários não tenham capacidade de pagamento para cobrir o custo integral dos serviços, bem como para viabilizar a conexão, inclusive a intradomiciliar, dos usuários de baixa renda.
+
+
+§ 3º
+
+O sistema de remuneração e de cobrança dos serviços poderá levar em consideração os seguintes fatores:
+
+
+I –
+
+capacidade de pagamento dos usuários;
+
+
+II –
+
+quantidade mínima de consumo ou de utilização do serviço, visando à garantia de objetivos sociais, como a preservação da saúde pública, o adequado atendimento dos usuários de menor renda e a proteção do meio ambiente;
+
+
+III –
+
+custo mínimo necessário para disponibilidade do serviço em quantidade e qualidade adequadas;
+
+
+IV –
+
+categorias de usuários, distribuídas por faixas ou quantidades crescentes de utilização ou de consumo;
+
+
+V –
+
+ciclos significativos de aumento da demanda dos serviços, em períodos distintos; e
+
+
+VI –
+
+padrões de uso ou de qualidade definidos pela regulação.
+
+
+§ 4º
+
+Conforme disposições do regulamento desta Lei e das normas de regulação, grandes usuários dos serviços poderão negociar suas tarifas ou preços públicos com o prestador dos serviços, mediante contrato específico, ouvido previamente o órgão regulador, e desde que:
+
+
+I –
+
+as condições contratuais não prejudiquem o atendimento dos usuários preferenciais;
+
+
+II –
+
+os preços contratados sejam superiores à tarifa média de equilíbrio econômico- financeiro dos serviços; e
+
+
+III –
+
+no caso do abastecimento de água, haja disponibilidade hídrica e capacidade operacional do sistema.
+
+
+###### Subseção I — Dos Serviços de Abastecimento de Água e de Esgotamento Sanitário
+
+
+Art. 37.
+
+Os serviços de abastecimento de água e de esgotamento sanitários serão remunerados mediante a cobrança de:
+
+
+I –
+
+tarifas, pela prestação dos serviços de fornecimento de água e de coleta e tratamento de esgotos para os imóveis ligados às respectivas redes públicas e em situação ativa, que poderão ser estabelecidas para cada um dos serviços ou para ambos conjuntamente;
+
+
+II –
+
+preços públicos específicos, pela execução de serviços técnicos e administrativos, complementares ou vinculados a estes serviços, os quais serão definidos e disciplinados no regulamento desta Lei e nas normas técnicas de regulação;
+
+
+III –
+
+taxas, pela disposição dos serviços de fornecimento de água ou de coleta e tratamento de esgotos para os imóveis, edificados ou não, não ligados às respectivas redes públicas, ou cujos usuários estejam na situação de inativos, conforme definido em regulamento dos serviços.
+
+
+§ 1º
+
+As tarifas pela prestação dos serviços de abastecimento de água serão calculadas com base no volume consumido de água e poderão ser progressiva, em razão do consumo, sendo obrigatória a hidrometragem, salvo o disposto no parágrafo 2º deste artigo.
+
+
+§ 2º
+
+O volume de água fornecido deve ser aferido por meio de hidrômetro, exceto nos casos em que isto não seja tecnicamente possível, nas ligações temporárias e em outras situações especiais de abastecimento definidas no regulamento dos serviços.
+
+
+§ 3º
+
+As tarifas de fornecimento de água para ligações residenciais sem hidrômetro serão fixadas com base
+
+
+I –
+
+em quantidade mínima de consumo ou de utilização do serviço para o atendimento das necessidades sanitárias básicas dos usuários de menor renda; ou
+
+
+II –
+
+em volume presumido contratado nos demais casos.
+
+
+Art. 38.
+
+As tarifas pela prestação dos serviços de esgotamento sanitário serão calculadas com base no volume de água fornecido pelo sistema público, inclusive nos casos de ligações sem hidrômetros, acrescido do volume de água medido ou estimado proveniente de solução individual, se existente.
+
+
+§ 1º
+
+As tarifas dos serviços de esgotamento sanitário dos imóveis residenciais não atendidos pelo serviço público de abastecimento de água serão calculadas com base:
+
+
+I –
+
+em quantidade mínima de utilização do serviço para o atendimento das necessidades sanitárias básicas dos usuários de menor renda; ou
+
+
+II –
+
+em volume presumido contratado nos demais casos.
+
+
+§ 2º
+
+Para os grandes usuários dos serviços, de qualquer categoria, que utilizam água como insumo, em processos operacionais, em atividades que não geram efluentes de esgotos ou que possuam soluções de reuso da água, as tarifas pela utilização dos serviços de esgotamento sanitário poderão ser calculadas com base em volumes definidos por meio de laudo técnico anual aprovado pelo Sanecab, nas condições estabelecidas em contrato e conforme as normas técnicas de regulação aprovadas pelo Órgão Regulador.
+
+
+###### Subseção II — Dos Serviços de Limpeza Urbana e Manejo de Resíduos Sólidos Urbanos
+
+
+Art. 39.
+
+Os serviços de limpeza urbana e manejo de resíduos sólidos urbanos serão remunerados mediante a cobrança de:
+
+
+I –
+
+taxas, que terão como fato gerador a utilização efetiva ou potencial dos serviços convencionais de coleta domiciliar, inclusive transporte e transbordo, e de tratamento e disposição final de resíduos domésticos ou equiparados postos à disposição pelo Poder Público Municipal;
+
+
+II –
+
+tarifas ou preços públicos específicos, pela prestação mediante contrato de serviços especiais de coleta, inclusive transporte e transbordo, e de tratamento e disposição final de resíduos domésticos ou equiparados e de resíduos especiais; e
+
+
+III –
+
+preços públicos específicos, pela prestação de outros serviços de manejo de resíduos sólidos e serviços de limpeza de logradouros públicos em eventos de responsabilidade privada, quando contratados com o prestador público.
+
+
+§ 1º
+
+A remuneração pela prestação de serviço público de manejo de resíduos só- lidos urbanos deverá considerar a adequada destinação dos resíduos coletados e poderá considerar:
+
+
+I –
+
+o nível de renda da população da área atendida;
+
+
+II –
+
+as características dos lotes urbanos e áreas neles edificadas;
+
+
+III –
+
+o peso ou volume médio coletado por habitante ou por domicílio; e
+
+
+IV –
+
+mecanismos econômicos de incentivo à minimização da geração de resíduos, à coleta seletiva, reutilização e reciclagem, inclusive por compostagem, e ao aproveitamento energético do biogás.
+
+
+§ 2º
+
+Os serviços regulares de coleta seletiva de materiais recicláveis ou reaproveitáveis serão subsidiados (ou não serão cobrados) para os usuários que aderirem a programas específicos instituídos pelo Município para este fim, na forma do disposto em regulamento e nas normas técnicas específicas de regulação.
+
+
+###### Subseção III — Dos Serviços de Drenagem e Manejo de Águas Pluviais Urbanas
+
+
+Art. 40.
+
+Os serviços de drenagem e manejo de águas pluviais urbanas poderão ser remunerados mediante a cobrança de tributos, inclusive taxas, em conformidade com o regime de prestação do serviço ou de suas atividades.
+
+
+§ 1º
+
+Caso a gestão dos serviços de drenagem e manejo de águas pluviais urbanas seja integrada com os serviços de esgotamento sanitário, poderá ser adotado sistema integrado de remuneração destes serviços, mediante regime de tarifas, conforme o regulamento específico destes serviços.
+
+
+§ 2º
+
+No caso de instituição de taxa para a remuneração dos serviços referidos no caput deste artigo, a mesma terá como fato gerador a utilização efetiva ou potencial das infraestruturas públicas do sistema de drenagem e manejo de águas pluviais, mantidas pelo Poder Público municipal e postas à disposição do proprietário, titular do domínio útil ou possuidor a qualquer título de imóvel, edificado ou não, situado em vias ou logradouros públicos urbanos.
+
+
+Art. 41.
+
+Qualquer forma de remuneração pela prestação do serviço público de manejo de águas pluviais urbanas que venha a ser instituída pelo Município deverá levar em conta, em cada lote urbano, o percentual de área impermeabilizada e a existência de dispositivos de amortecimento ou de retenção da água pluvial, bem como poderá considerar:
+
+
+I –
+
+nível de renda da população da área atendida; e
+
+
+II –
+
+características dos lotes urbanos e as áreas que podem ser neles edificadas.
+
+
+##### Seção II — Das Taxas, Tarifas e Outros Preços Públicos
+
+
+Art. 42.
+
+As taxas, tarifas e outros preços públicos pela prestação ou disposição dos serviços públicos de saneamento básico terão seus valores fixados com base no custo econômico, garantido aos entes responsáveis pela prestação dos serviços, sempre que possível, a recuperação integral dos custos incorridos, inclusive despesas de capital e remuneração adequada dos investimentos realizados.
+
+
+§ 1º
+
+Os prestadores dos serviços públicos de saneamento básico não poderão conceder isenção ou redução de taxas, contribuições de melhoria, tarifas ou outros preços públicos por eles praticados, ou a dispensa de multa e de encargos acessórios pelo atraso ou falta dos respectivos pagamentos, inclusive a órgãos ou entidades da administração pública estadual e federal.
+
+
+§ 2º
+
+Observados o regulamento desta Lei e as normas administrativas de regulação dos serviços, ficam excluídos do disposto no parágrafo 1º deste artigo os seguintes casos:
+
+
+I –
+
+isenção ou descontos concedidos aos usuários beneficiários de programas e subsídios sociais, conforme as normas legais e de regulação específicas;
+
+
+II –
+
+redução de valores motivada por revisões de cobranças dos serviços de abastecimento de água e esgotamento sanitário de correntes de:
+
+
+a)
+
+erro de medição;
+
+
+b)
+
+defeito do hidrômetro comprovado mediante aferição em laboratório do Sanecab, ou de instituição credenciada pelo mesmo, ou por meio de equipamento móvel apropriado certificado pelo Instituto Nacional de Metrologia – Inmetro;
+
+
+c)
+
+ocorrências de vazamentos ocultos de água nas instalações prediais situadas após o hidrômetro, comprovadas, em vistoria realizada pelo prestador por sua iniciativa ou por solicitação do usuário, ou comprovadas por este, no caso de omissão, falha ou resultado inconclusivo do prestador; e
+
+
+d)
+
+mudança de categoria, grupo ou classe de usuário, ou por inclusão do mesmo em programa de subsídio social.
+
+
+###### Subseção I — Disposições Gerais
+
+
+Art. 43.
+
+As taxas, tarifas e outros preços públicos serão fixados de forma clara e objetiva e deverão ser tornados públicos com antecedência mínima de trinta dias com relação à sua vigência, inclusive os reajustes e as revisões, observadas para as taxas as normas legais específicas.
+
+
+Parágrafo único
+
+. No ato de fixação ou de revisão das taxas incidentes sobre os serviços públicos de saneamento básico, os valores unitários da respectiva estrutura de cobrança, apurados conforme as diretrizes do artigo 45 desta Lei e seus regulamentos poderão ser convertidos e expressos em Unidades Fiscais do Município – UFM se o município adotar.
+
+
+Art. 44.
+
+As taxas e tarifas poderão ser diferenciadas segundo as categorias de usuários, faixas ou quantidades crescentes de utilização ou de consumo, ciclos de demanda, e finalidade ou padrões de uso ou de qualidade dos serviços ofertados definidos pela regulação e contratos, assegurando-se o subsídio dos usuários de maior para os de menor renda.
+
+
+§ 1º
+
+A estrutura do sistema de cobrança observará a distribuição das taxas ou tarifas conforme os critérios definidos no caput, de modo que o respectivo valor médioobtido possibilite o equilíbrio econômico-financeiro da prestação dos serviços, em regime de eficiência.
+
+
+§ 2º
+
+Para efeito de enquadramento da estrutura de cobrança, os usuários serão classificados, nas seguintes categorias: residencial, comercial, industrial e pública, as quais poderão ser subdivididas em grupos, de acordo com as características socioeconômicas, de demanda ou de uso, sendo vedada, dentro de um mesmo grupo, a discriminação de usuários que tenham as mesmas condições de utilização dos serviços.
+
+
+###### Subseção II — Do Custo Econômico dos Serviços
+
+
+Art. 45.
+
+O custo dos serviços, a ser computado na determinação da taxa ou tarifa, deve ser o mínimo necessário à adequada prestação dos serviços e à sua viabilização econômico-financeira.
+
+
+§ 1º
+
+Para os efeitos do disposto no caput deste artigo, na composição do custo econômico dos serviços poderão ser considerados os seguintes elementos:
+
+
+I –
+
+despesas correntes ou de exploração correspondentes a todas as despesas administrativas, de operação e manutenção, comerciais, fiscais e tributárias;
+
+
+II –
+
+despesas com o serviço da dívida, correspondentes a amortizações, juros e outros encargos financeiros de empréstimos para investimentos, inclusive do FMSB;
+
+
+III –
+
+despesas de capital relativas a investimentos, inclusive contrapartidas a empréstimos, realizadas com recursos provenientes de receitas próprias;
+
+
+IV –
+
+despesas patrimoniais de depreciação ou de amortização de investimentos vinculados aos serviços de saneamento básico relativos a:
+
+
+a)
+
+ativos imobilizados, intangíveis e diferidos existentes na data base de implantação do regime de custos de que trata este artigo, tendo como base os valores dos respectivos saldos líquidos contábeis, descontadas as depreciações e amortizações, ou apurados em laudo técnico de avaliação contemporânea, se inexistentes os registros contábeis patrimoniais, ou se estes forem inconsistentes ou monetariamente desatualizados; e
+
+
+b)
+
+ativos imobilizados e intangíveis realizados com recursos não onerosos de qualquer fonte, inclusive do FMSB, ou obtidos mediante doações.
+
+
+V –
+
+provisões de perdas líquidas no exercício financeiro com devedores duvidosos;
+
+
+VI –
+
+remuneração adequada dos investimentos realizados com capital próprio tendo como base o saldo líquido contábil ou os valores apurados conforme a alínea “a” do inciso IV deste parágrafo, a qual deverá ser no mínimo igual à taxa de inflação estimada para o período de vigência das taxas e tarifas, medida pelo Índice Nacional de Preços ao Consumidor Amplo – IPCA.
+
+
+§ 2º
+
+Alternativamente às parcelas de amortizações de empréstimos e às despesas de capital previstas nos incisos II e III do parágrafo 1º deste artigo, a regulação poderá considerar na composição do custo dos serviços as cotas de depreciação ou de amortização dos respectivos investimentos.
+
+
+§ 3º
+
+As disposições deste artigo deverão ser disciplinadas no regulamento desta Lei e em normas técnicas do órgão regulador dos serviços.
+
+
+###### Subseção III — Dos Reajustes e Revisões das Taxas e Tarifas e Outros Preços Públicos
+
+
+Art. 46.
+
+As taxas e tarifas poderão ser atualizadas ou revistas periodicamente, em intervalos mínimos de doze meses, observadas as disposições desta Lei e, no caso de serviços delegados, os contratos e os seus instrumentos de regulação específica.
+
+
+Art. 47.
+
+Os reajustes dos valores monetários de taxas, tarifas e outros preços públicos dos serviços de saneamento básico prestados diretamente por órgão ou entidade do Município, têm como finalidade a manutenção do equilíbrio econômico-financeiro de sua prestação ou disposição, e deverão ser aprovados e publicados até 30 (trinta) dias antes de sua vigência, exceto nos anos em que ocorrer suas revisões, tendo como fator de reajuste a variação acumulada do IPCA nos doze meses anteriores, observando-se para as taxas o disposto no parágrafo único do artigo 43 desta Lei.
+
+
+Parágrafo único
+
+Os reajustes serão processados e aprovados previamente pelo órgão regulador dos serviços e serão efetivados mediante ato do Poder Executivo Municipal.
+
+
+Art. 48.
+
+As revisões compreenderão a reavaliação das condições da prestação e seus reflexos nos custos dos serviços e nas respectivas taxas, tarifas e de outros preços públicos praticados, que poderão ter os seus valores aumentados ou diminuídos, e poderão ser:
+
+
+I –
+
+periódicas, em intervalos de pelo menos 4 (quatro) anos, preferencialmente coincidentes com as revisões do PMSB, objetivando a recomposição do equilíbrio econômico-financeiro dos serviços e a apuração e distribuição com os usuários dos ganhos de eficiência, de produtividade ou decorrentes de externalidades; ou
+
+
+II –
+
+extraordinárias, quando se verificar a ocorrência de situações fora do controle do prestador dos serviços e que afetem suas condições econômico-financeiras, entre outras:
+
+
+a)
+
+fatos não previstos em normas de regulação ou em contratos;
+
+
+b)
+
+fenômenos da natureza ou ambientais;
+
+
+c)
+
+fatos do príncipe, entre outros, a instituição ou aumentos extraordinários de tributos, encargos sociais, trabalhistas e fiscais; ou
+
+
+d)
+
+aumentos extraordinários de tarifas ou preços públicos regulados ou de preços de mercado de serviços e insumos utilizados nos serviços de saneamento básico.
+
+
+§ 1º
+
+As revisões de taxas, tarifas e outros preços públicos terão suas pautas definidas e processos conduzidos pelo órgão regulador, ouvidos os prestadores dos serviços, os demais órgãos e entidades municipais interessados e os usuários, e os seus resultados serão submetidos à apreciação do Comsab e a consulta pública.
+
+
+§ 2º
+
+Os processos de revisões poderão estabelecer mecanismos econômicos de indução à eficiência na prestação e, particularmente, no caso de serviços delegados a terceiros, à antecipação de metas de expansão e de qualidade dos serviços, podendo ser adotados para esse fim fatores de produtividade e indicadores de qualidade referenciados a outros prestadores do setor ou a padrões técnicos consagrados e amplamente reconhecidos.
+
+
+§ 3º
+
+Observado o disposto no parágrafo 4º deste artigo, as revisões de taxas, tarifas e outros preços públicos que resultarem em alteração da estrutura de cobrança ou em alteração dos respectivos valores, para mais ou para menos, serão efetivadas, após sua aprovação pelo órgão regulador, mediante ato do Poder Executivo Municipal.
+
+
+§ 4º
+
+O aumento superior à variação do IPCA, apurada no período revisional, dos valores das taxas dos serviços públicos de saneamento básico resultantes de revisões, será submetido à aprovação prévia do Legislativo Municipal, nos termos da legislação vigente.
+
+
+###### Subseção IV — Do Lançamento, da Cobrança e Penalidade por Atraso ou Falta de Pagamento
+
+
+Art. 49.
+
+O lançamento de taxas, contribuições de melhoria, tarifas e outros preços públicos devidos pela disposição ou prestação dos serviços públicos de saneamento básico e respectiva arrecadação poderão ser efetuados separadamente ou em conjunto, mediante documento único de cobrança, para os serviços cuja prestação estiver sob responsabilidade de um único órgão ou entidade ou de diferentes órgãos ou entidades por meio de acordos firmados entre eles.
+
+
+§ 1º
+
+O disposto neste artigo não se aplica a serviços delegados a terceiros mediante contrato, que somente poderão efetuar o lançamento e arrecadação das suas respectivas tarifas e preços públicos.
+
+
+§ 2º
+
+O atraso ou a falta de pagamento dos débitos relativos à prestação ou disposição dos serviços de saneamento básico sujeitará o usuário ao pagamento de multa de 2% (dois por cento) calculada sobre o respectivo valor, além de juros moratórios de 1% (um por cento) ao mês, mais atualização monetária correspondente à variação do IPCA, salvo disposição diversa da legislação específica.
+
+
+##### Seção III — Do Regime Contábil Patrimonial
+
+
+Art. 50.
+
+Independente que quem as tenha adquirido ou construído, as infraestruturas e outros bens vinculados aos serviços públicos de saneamento básico constituem patrimônio público do Município, afetados aos órgãos ou entidades municipais responsáveis pela sua gestão, e são impenhoráveis e inalienáveis sem prévia autorização legislativa, exceto materiais inservíveis e bens móveis obsoletos ou improdutivos.
+
+
+Art. 51.
+
+Os valores investidos em bens reversíveis pelos prestadores dos serviços contratados sob qualquer forma de delegação, apurados e registrados conforme a legislação e as normas contábeis brasileiras constituirão créditos perante o Município, a serem recuperados mediante exploração dos serviços, nos termos contratuais e dos demais instrumentos de regulação.
+
+
+§ 1º
+
+Não gerarão crédito perante o titular os investimentos feitos sem ônus para o prestador contratado, tais como os decorrentes de exigência legal aplicável à implantação de empreendimentos imobiliários, os provenientes de subvenções ou transferências fiscais voluntárias e as doações.
+
+
+§ 2º
+
+Os investimentos realizados, os valores amortizados, a depreciação e os respectivos saldos serão anualmente auditados e certificados pelo órgão regulador.
+
+
+§ 3º
+
+Os créditos decorrentes de investimentos devidamente certificados poderão constituir garantia de empréstimos, destinados exclusivamente a investimentos nos sistemas de saneamento objeto do respectivo contrato.
+
+
+§ 4º
+
+Salvo nos casos de serviços contratados sob o regime da Lei federal n.º 8.666, de 1993, os prestadores contratados, organizados sob a forma de empresa regida pelo direito privado, deverão constituir empresa subsidiária de propósito específico para a prestação dos serviços delegados pelo Município a qual terá contabilidade própria e segregada de outras atividades exercidas pelos seus controladores.
+
+
+#### CAPÍTULO VI — DAS DIRETRIZES PARA A REGULAÇÃO E FISCALIZAÇÃO DOS SERVIÇOS
+
+
+##### Seção I — Dos Objetivos da Regulação
+
+
+Art. 52.
+
+São objetivos gerais da regulação:
+
+
+I –
+
+estabelecer padrões e normas para a adequada prestação dos serviços e para a satisfação dos usuários;
+
+
+II –
+
+garantir o cumprimento das condições, objetivos e metas estabelecidas; e
+
+
+III –
+
+prevenir e limitar o abuso de atos discricionários pelos gestores municipais e o abuso do poder econômico de eventuais prestadores dos serviços contratados, ressalvada a competência dos órgãos integrantes do sistema nacional de defesa da concorrência.
+
+
+##### Seção II — Do Exercício da Função de Regulação
+
+
+Art. 53.
+
+O exercício da função de regulação atenderá aos seguintes princípios:
+
+
+I –
+
+capacidade e independência decisória;
+
+
+II –
+
+transparência, tecnicidade, celeridade e objetividade das decisões; e
+
+
+III –
+
+no caso dos serviços contratados, autonomia administrativa, orçamentária e financeira da entidade de regulação.
+
+
+§ 1º
+
+Ao órgão regulador deverão ser asseguradas entre outras as seguintes competências:
+
+
+I –
+
+apreciar ou propor ao Executivo Municipal projetos de lei e de regulamentos que tratem de matérias relacionadas à gestão dos serviços públicos de saneamento básico;
+
+
+II –
+
+editar normas de regulação técnica e instruções de procedimentos necessários para execução das leis e regulamentos que disciplinam a prestação dos serviços de saneamento básico, que abrangerão, pelo menos, os aspectos listados no artigo 23 da Lei Federal n.º 11.445, de 2007;
+
+
+III –
+
+acompanhar e auditar as informações contábeis, patrimoniais e operacionais dos prestadores dos serviços;
+
+
+IV –
+
+definir a pauta e conduzir os processos de análise e apreciação bem como deliberar, mediante parecer técnico conclusivo, sobre proposições de reajustes ou de revisões periódicas de taxas, tarifas e outros preços públicos dos serviços de saneamento básico;
+
+
+V –
+
+instituir ou aprovar regras e critérios de estruturação do sistema contábil e respectivo plano de contas e dos sistemas de informações gerenciais adotados pelos prestadores dos serviços, visando o cumprimento das normas de regulação, controle e fiscalização;
+
+
+VI –
+
+coordenar os processos de elaboração e de revisão periódica do PMSB ou dos planos específicos dos serviços, inclusive sua consolidação, bem como monitorar e avaliar sistematicamente a sua execução;
+
+
+VII –
+
+apreciar e opinar sobre as propostas orçamentárias anuais e plurianuais relativas à prestação dos serviços;
+
+
+VIII –
+
+apreciar e deliberar conclusivamente sobre recursos interpostos pelos usuários, relativos a reclamações que, a juízo dos mesmos, não tenham sido suficientemente atendidas pelos prestadores dos serviços;
+
+
+IX –
+
+apreciar e emitir parecer conclusivo sobre estudos e planos diretores ou suas revisões, relativos aos serviços de saneamento básico, bem como fiscalizar a execução dos mesmos; e
+
+
+X –
+
+assessorar o Poder Executivo Municipal em ações relacionadas à gestão dos serviços de saneamento básico.
+
+
+§ 2º
+
+A composição do órgão regulador deverá contemplar a participação de pelo menos uma entidade representativa dos usuários e de uma entidade técnico-profissional.
+
+
+§ 3º
+
+Compreendem-se nas atividades de regulação dos serviços de saneamento básico a interpretação e a fixação de critérios para execução dos contratos e dos serviços e para correta administração de subsídios.
+
+
+Art. 54.
+
+Os prestadores de serviços públicos de saneamento básico deverão fornecer ao órgão regulador todos os dados e informações necessários para o desempenho de suas atividades.
+
+
+Parágrafo único
+
+Incluem-se entre os dados e informações a que se refere o caput aqueles produzidos por empresas ou profissionais contratados para executar serviços ou fornecer materiais e equipamentos.
+
+
+##### Seção III — Da Publicidade dos Atos de Regulação
+
+
+Art. 55.
+
+Deverá ser assegurada publicidade aos relatórios, estudos, decisões e instrumentos equivalentes que se refiram à regulação ou à fiscalização dos serviços, bem como aos direitos e deveres dos usuários e prestadores, a eles podendo ter acesso qualquer cidadão, independentemente da existência de interesse direto.
+
+
+§ 1º
+
+Excluem-se do disposto no caput os documentos considerados sigilosos em razão de interesse público relevante, mediante prévia e motivada decisão do órgão regulador.
+
+
+§ 2º
+
+A publicidade a que se refere o caput deste artigo deverá se efetivar, preferencialmente, por meio de sítio mantido na internet.
+
+
+#### CAPÍTULO VII — DOS DIREITOS E OBRIGAÇÕES DOS USUÁRIOS
+
+
+Art. 56.
+
+Sem prejuízo do disposto na Lei federal n.º 8.078, de 11 de setembro de 1990, são direitos dos usuários efetivos ou potenciais dos serviços de saneamento básico:
+
+
+I –
+
+garantia do acesso a serviços, em quantidade suficiente para o atendimento de suas necessidades e com qualidade adequada aos requisitos sanitários e ambientais;
+
+
+II –
+
+receber do regulador e do prestador informações necessárias para a defesa de seus interesses individuais ou coletivos;
+
+
+III –
+
+recorrer, nas instâncias administrativas, de decisões e atos do prestador que afetem seus interesses, inclusive cobranças consideradas indevidas;
+
+
+IV –
+
+ter acesso a informações sobre a prestação dos serviços, inclusive as produzidas pelo regulador ou sob seu domínio;
+
+
+V –
+
+participar de consultas e audiências públicas e atos públicos realizados pelo órgão regulador e de outros mecanismos e formas de controle social da gestão dos serviços; e
+
+
+VI –
+
+fiscalizar permanentemente, como cidadão e usuário, as atividades do prestador dos serviços e a atuação do órgão regulador.
+
+
+Art. 57.
+
+Constituem-se obrigações dos usuários efetivos ou potenciais e dos proprietários, titulares do domínio útil ou possuidores a qualquer título de imóveis beneficiários dos serviços de saneamento básico:
+
+
+I –
+
+cumprir e fazer cumprir as disposições legais, os regulamentos e as normas administrativas de regulação dos serviços;
+
+
+II –
+
+zelar pela preservação da qualidade e da integridade dos bens públicos por meio dos quais lhes são prestados os serviços;
+
+
+III –
+
+pagar em dia as taxas, tarifas e outros preços públicos decorrentes da disposição e prestação dos serviços;
+
+
+IV –
+
+levar ao conhecimento do prestador e do regulador as eventuais irregularidades na prestação dos serviços de que tenha conhecimento;
+
+
+V –
+
+cumprir os códigos e posturas municipais, estaduais e federais, relativos às questões sanitárias, a edificações e ao uso dos equipamentos públicos afetados pelos serviços de saneamento básico;
+
+
+VI –
+
+executar, por intermédio do prestador, as ligações do imóvel de sua propriedade ou domínio às redes públicas de abastecimento de água e de coleta de esgotos, nos logradouros dotados destes serviços, nos termos desta Lei e seus regulamentos;
+
+
+VII –
+
+responder, civil e criminalmente, pelos danos que, direta ou indiretamente, causar às instalações dos sistemas públicos de saneamento básico;
+
+
+VIII –
+
+permitir o acesso do prestador e dos agentes fiscais às instalações hidrossanitárias do imóvel, para inspeções relacionadas à utilização dos serviços de saneamento básico, observado o direito à privacidade;
+
+
+IX –
+
+utilizar corretamente e com racionalidade os serviços colocados à sua disposição, evitando desperdícios e uso inadequado dos equipamentos e instalações;
+
+
+X –
+
+comunicar quaisquer mudanças das condições de uso ou de ocupação dos imóveis de sua propriedade ou domínio;
+
+
+XI –
+
+responder pelos débitos relativos aos serviços de saneamento básico de que for usuário, ou, solidariamente, por débitos relativos à imóvel de locação do qual for proprietário, titular do domínio útil, possuidor a qualquer título ou usufrutuário.
+
+
+#### CAPÍTULO VIII — DAS INFRAÇÕES E PENALIDADES
+
+
+##### Seção I — Das Infrações
+
+
+Art. 58.
+
+Sem prejuízo das demais disposições desta Lei e das normas de posturas pertinentes, as seguintes ocorrências constituem infrações dos usuários efetivos ou potenciais dos serviços:
+
+
+I –
+
+intervenção de qualquer modo nas instalações dos sistemas públicos de saneamento básico;
+
+
+II –
+
+violação ou retirada de hidrômetros, de limitador de vazão ou do lacre de suspensão do fornecimento de água da ligação predial;
+
+
+III –
+
+utilização da ligação predial de esgoto para esgotamento conjunto de outro imóvel sem autorização e cadastramento junto ao prestador do serviço;
+
+
+IV –
+
+lançamento de águas pluviais ou de esgoto não doméstico de característica incompatível nas instalações de esgotamento sanitário;
+
+
+V –
+
+ligações prediais clandestinas de água ou de esgotos sanitários nas respectivas redes públicas;
+
+
+VI –
+
+disposição de recipientes de resíduos sólidos domiciliares para coleta no passeio, na via pública ou em qualquer outro local destinado à coleta fora dos dias e horários estabelecidos;
+
+
+VII –
+
+disposição de resíduos sólidos de qualquer espécie, acondicionados ou não, em qualquer local não autorizado, particularmente, via pública, terrenos públicos ou privados, cursos d’água, áreas de várzea, poços e cacimbas, mananciais e respectivas áreas de drenagem;
+
+
+VIII –
+
+lançamento de esgotos sanitários diretamente na via pública, em terrenos lindeiros ou em qualquer outro local público ou privado, ou a sua disposição inadequada no solo ou em corpos de água sem o devido tratamento;
+
+
+IX –
+
+incineração a céu aberto, de forma sistemática, de resíduos domésticos ou de outras origens em qualquer local público ou privado urbano, inclusive no próprio terreno, ou a adoção da incineração como forma de destinação final dos resíduos através de dispositivos não licenciados pelo órgão ambiental;
+
+
+X –
+
+contaminação do sistema público de abastecimento de água através de interconexão de outras fontes com a instalação hidráulica predial ou por qualquer outro meio.
+
+
+§ 1º
+
+A notificação espontânea da situação infracional ao prestador do serviço ou ao órgão fiscalizador permitirá ao usuário, quando cabível, obter prazo razoável para correção da irregularidade, durante o qual ficará suspensa sua autuação, sem prejuízo de outras medidas legais e da reparação de danos eventualmente causados às infraestruturas do serviço público, a terceiros ou à saúde pública.
+
+
+§ 2º
+
+Responderá pelas infrações quem por qualquer modo as cometer, concorrer para sua prática, ou delas se beneficiar.
+
+
+Art. 59.
+
+As infrações previstas no artigo 58 desta Lei, disciplinadas nos regulamentos e normas administrativas de regulação dela decorrentes, serão classificadas em leves, graves e gravíssimas, levando-se em conta:
+
+
+I –
+
+a intensidade do dano, efetivo ou potencial;
+
+
+II –
+
+as circunstâncias atenuantes ou agravantes;
+
+
+III –
+
+os antecedentes do infrator.
+
+
+§ 1º
+
+Constituem circunstâncias atenuantes para o infrator:
+
+
+I –
+
+ter bons antecedentes com relação à utilização dos serviços de saneamento básico e ao cumprimento dos códigos de posturas aplicáveis;
+
+
+II –
+
+ter o usuário, de modo efetivo e comprovado:
+
+
+a)
+
+procurado evitar ou atenuar as consequências danosas do fato, ato ou omissão; e
+
+
+b)
+
+comunicado, em tempo hábil, o prestador do serviço ou o órgão de regulação e fiscalização sobre ocorrências de situações motivadoras das infrações.
+
+
+III –
+
+ser o infrator primário e a falta cometida não provocar consequências graves para a prestação do serviço ou suas infraestruturas ou para a saúde pública;
+
+
+IV –
+
+omissão ou atraso do prestador na execução de medidas ou no atendimento de solicitação do usuário que poderiam evitar a situação infracional.
+
+
+§ 2º
+
+Constituem circunstâncias agravantes para o infrator:
+
+
+I –
+
+reincidência ou prática sistemática no cometimento de infrações;
+
+
+II –
+
+prestar informações inverídicas, alterar dados técnicos ou documentos;
+
+
+III –
+
+ludibriar os agentes fiscalizadores nos atos de vistoria ou fiscalização;
+
+
+IV –
+
+deixar de comunicar de imediato, ao prestador do serviço ou ao órgão de regulação e fiscalização, ocorrências de sua responsabilidade que coloquem em risco a saúde ou a vida de terceiros ou a prestação do serviço e suas infraestruturas;
+
+
+V –
+
+ter a infração consequências graves para a prestação do serviço ou suas infraestruturas ou para a saúde pública;
+
+
+VI –
+
+deixar de atender, de forma reiterada, exigências normativas e notificações do prestador do serviço ou da fiscalização;
+
+
+VII –
+
+adulterar ou intervir no hidrômetro com o fito de obter vantagem na medição do consumo de água; e
+
+
+VIII –
+
+praticar qualquer infração prevista no artigo 58 durante a vigência de medidas de emergência disciplinadas conforme o artigo 61, ambos desta Lei.
+
+
+##### Seção II — Das Penalidades
+
+
+Art. 60.
+
+A pessoa física ou jurídica, de direito público ou privado, que infringir qualquer dispositivo do artigo 58 desta Lei, ficará sujeita às seguintes penalidades, nos termos dos regulamentos e normas administrativas de regulação, independente de outras medidas legais e de eventual responsabilização civil ou criminal por danos diretos e indiretos causados ao sistema público e a terceiros:
+
+
+I –
+
+advertência por escrito, em que o infrator será notificado para fazer cessar a irregularidade, sob pena de imposição das demais sanções previstas neste artigo;
+
+
+II –
+
+multa com valor fixado em ato próprio do Comsab, com a homologação por decreto do Prefeito;
+
+
+III –
+
+suspensão total ou parcial das atividades, até a correção das irregularidades, quando aplicável;
+
+
+IV –
+
+perda ou restrição de benefícios sociais concedidos, atinentes aos serviços públicos de saneamento básico;
+
+
+V –
+
+embargo ou demolição da obra ou atividade motivadora da infração, quando aplicável.
+
+
+§ 1º
+
+A multa prevista no inciso II do caput deste artigo será:
+
+
+a)
+
+aplicada em dobro nas situações agravantes previstas nos incisos I, V e VII, do parágrafo 2º, artigo 59 desta Lei;
+
+
+b)
+
+acrescida de 50% (cinquenta por cento) nas demais situações agravantes previstas no parágrafo 2º do artigo 59 desta Lei;
+
+
+c)
+
+reduzida em 50% (cinquenta por cento) nas situações atenuantes previstas no parágrafo 1º do artigo 59 desta Lei, ou quando se tratar de usuário beneficiário de tarifa social.
+
+
+§ 2º
+
+Das penalidades previstas neste artigo caberá recurso junto ao órgão regulador, que deverá ser protocolado no prazo de dez dias a contar da data da notificação.
+
+
+§ 3º
+
+Os recursos provenientes da arrecadação das multas previstas neste artigo constituirão receita do FMSB.
+
+
+### TÍTULO III — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 61.
+
+Fica o Poder Executivo autorizado a instituir medidas de emergência em situações críticas que possam afetar a continuidade ou qualidade da prestação dos serviços públicos de saneamento básico ou iminente risco para vidas humanas ou para a saúde pública relacionado aos mesmos.
+
+
+Parágrafo único
+
+As medidas de emergência de que trata este artigo vigorarão por prazo determinado, e serão estabelecidas conforme a gravidade de cada situação e pelo tempo necessário para saná-las satisfatoriamente.
+
+
+Art. 62.
+
+No que não conflitarem com as disposições desta Lei, aplicam-se aos serviços de saneamento básico as demais normas legais do Município, especialmente as legislações tributária, de uso e ocupação do solo, de obras, sanitária e ambiental.
+
+
+Art. 63.
+
+Até que seja regulamentada e implantada a política de cobrança pela disposição e prestação dos serviços de saneamento básico prevista nos artigos 36 a 48 desta Lei, permanecem em vigor as atuais taxas, tarifas e outros preços públicos praticados.
+
+
+Parágrafo único
+
+Aplica-se às atuais taxas, tarifas e outros preços públicos os critérios de reajuste previstos no artigo 47 desta Lei.
+
+
+Art. 64.
+
+O Plano Municipal de Saneamento Básico, na forma do Anexo Único, é parte integrante desta Lei, com padronização, textualização e configurações próprias.
+
+
+Art. 65.
+
+Os órgãos e entidades municipais da área de saneamento básico serão reorganizados para atender o disposto nesta Lei.
+
+
+Art. 66.
+
+O Poder Executivo regulamentará esta Lei, caso necessário, no prazo de 180 (cento e oitenta dias), a partir de sua publicação.
+
+
+Art. 67.
+
+As despesas decorrentes da execução da presente Lei correrão por conta das dotações consignadas no orçamento vigente e/ou constituintes do Fumgec, suplementadas se necessárias.
+
+
+Art. 68.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 14 de outubro de 2015; 19º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**DAILTON GERALDO RODRIGUES GONÇALVES**
+
+**Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.**
+
+**"Este texto não substitui o original"**
+
+
+Anexo Único
+
+A QUE SE REFERE A LEI N.º 477, DE 14 DE OUTUBRO DE 2015.
+
+
+**PLANO MUNICIPAL DE SANEAMENTO BÁSICO DO MUNICÍPIO DE CABECEIRA GRANDE (MG) PMSB**
+
+PMSB

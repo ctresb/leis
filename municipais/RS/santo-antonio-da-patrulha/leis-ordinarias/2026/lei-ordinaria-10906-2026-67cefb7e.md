@@ -1,0 +1,85 @@
+---
+titulo: "LEI N° 10.906, DE 3 DE FEVEREIRO DE 2026"
+uf: "RS"
+municipio: "SANTO ANTÔNIO DA PATRULHA"
+tipo: "Lei Ordinária"
+numero: "10906"
+data: 2026-02-03
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 04/02/2026"
+data_publicacao: 2026-02-04
+codigo_identificador: "67CEFB7E"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117773_2026-02-03_78919fd88869b5943d99e04cd947ad40.pdf"
+baixado_em: 2026-10-16
+---
+# LEI N° 10.906, DE 3 DE FEVEREIRO DE 2026
+
+LEI N° 10.906, DE 3 DE FEVEREIRO DE 2026
+Abre Crédito Especial por Superávit Financeiro, no
+Orçamento Municipal, altera as Leis Municipais nº
+10.622/2025, que dispõe sobre o Plano Plurianual do
+Município para 2026 a 2029, Lei Municipal nº
+10.737/2025 que dispõe sobre a Lei de Diretrizes
+Orçamentárias para o exercício de 2026 e Lei
+Municipal n° 10.811/2025 que dispõe sobre a Lei
+Orçamentária Anual e suas alterações.
+O PREFEITO MUNICIPAL de Santo Antônio da Patrulha, no uso das
+atribuições que lhe confere o art. 53, inciso IV, da Lei Orgânica do
+Município,
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono e
+promulgo a seguinte Lei:
+Art. 1° Fica autorizada a abertura de Crédito Especial por Superávit
+Financeiro, no valor de R$ 188.571,43, conforme descrição:
+08 - SECRETARIA MUNICIPAL DA AGRICULTURA E MEIO
+AMBIENTE
+03 - DEPARTAMENTO DE MEIO AMBIENTE
+18 - GESTÃO AMBIENTAL
+542 - CONTROLE AMBIENTAL
+0002 - Gestão do Poder Executivo
+1095 - Conv. 2685/2025 Usina Fotovoltaica
+4.4.90- APLICAÇÕES DIRETAS – R$ 188.570,43
+3.3.30- TRANSFERÊNCIAS A ESTADOS E AO DISTRITO
+FEDERAL – R$ 1,00
+TOTAL – R$ 188.571,43
+Art. 2°Servirá de recurso para cobrir a abertura do Crédito Especial
+previsto no artigo anterior, o Superávit Financeiro do exercício de
+2025, Recurso:
+2701 - Outras Transf Convênios ou Instr Congêneres dos Estados 0000000 - Livre, no valor de R$ 188.571,43.
+Art. 3° Esta Lei entra em vigor na data de sua publicação.
+
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono e
+promulgo a seguinte Lei:
+Art. 1°Fica autorizada a abertura de Crédito Especial por Redução, no
+valor de R$ 26.000,00, conforme descrição:
+04 - SECRETARIA MUNICIPAL DO TRABALHO E
+DESENVOLVIMENTO SOCIAL
+01 - FMAS - FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08 - ASSISTÊNCIA SOCIAL
+244 - ASSISTÊMCIA COMUNITÁRIA
+0002 - Gestão do Poder Executivo
+2029 - Gestão do Bols Família
+3.1.90 - APLICAÇÕES DIRETAS - R$ 26.000,00
+TOTAL R$ 26.000,00
+Art. 2.° Servirá de recurso para cobrir a abertura do Crédito Especial
+previsto no artigo anterior, a redução do seguinte crédito orçamentário
+conforme descrição:
+04 - SECRETARIA MUNICIPAL DO TRABALHO E
+DESENVOLVIMENTO SOCIAL
+01 - FMAS - FUNDO MUNICIPAL DA ASSISTÊNCIA SOCIAL
+08 - ASSISTÊNCIA SOCIAL
+244 - ASSISTÊMCIA COMUNITÁRIA
+0002 - Gestão do Poder Executivo
+2029 - Gestão do Bols Família
+3.1.90 - APLICAÇÕES DIRETAS - R$ 20.000,00
+3.3.90- APLICAÇÕES DIRETAS- R$ 6.000,00
+TOTAL R$ 26.000,00
+Santo Antônio da Patrulha, 3 de fevereiro de 2026.
+RODRIGO GOMES MASSULO
+Prefeito Municipal
+Registre-se e publique-se
+CLÉIA JUÇARA AIROLDI
+Secretária da Administração e Finanças
+Publicado por:
+Ana Cristina Salazar

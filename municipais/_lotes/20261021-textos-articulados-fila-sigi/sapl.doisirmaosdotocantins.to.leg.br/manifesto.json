@@ -1,0 +1,42 @@
+{
+  "host": "sapl.doisirmaosdotocantins.to.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doisirmaosdotocantins.to.leg.br/567c0ddce20f161ad7cebd9d1023d665c15693121d9b51330c947e90af408d5c.json",
+    "url": "https://sapl.doisirmaosdotocantins.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.doisirmaosdotocantins.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "96c42d0dabe68dc251d1955f440200fdbe5038ed0c34fbbe3ca167c1187758a5",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:48:19.266265-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doisirmaosdotocantins.to.leg.br/031d0d057d7f65299db921ae90278a429c3ad2379798a797f20fdf6889e74f77.json",
+    "url": "https://sapl.doisirmaosdotocantins.to.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.doisirmaosdotocantins.to.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d8497f32e1645e0d12e8f6cdc0b7dde95c1ade1fa7db1557005ad2eb3de985dd",
+    "bytes": 815,
+    "capturado_em": "2026-10-28T09:48:18.355922-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doisirmaosdotocantins.to.leg.br/f77b547d0ac148786a227dfca5d9cb5694f1030f245d4ec880d95210f654049a.json",
+      "url": "https://sapl.doisirmaosdotocantins.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.doisirmaosdotocantins.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d83fbcca07fb1714c6c32ba2a18f6787e29e20ba3c028ef414a8a54c1f9385ff",
+      "bytes": 718,
+      "capturado_em": "2026-10-28T09:48:21.295499-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

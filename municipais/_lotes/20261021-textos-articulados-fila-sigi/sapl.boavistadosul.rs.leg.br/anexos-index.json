@@ -1,0 +1,328 @@
+{
+  "estado": "indice_completo",
+  "total": 31,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/1/anexo_a_lei_577.pdf da norma Lei Ordinária nº 577, de 21 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Atribuições do Cargo de Engenheiro Civil.",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2009/1/anexo_a_lei_577.pdf",
+      "ano": 2009,
+      "norma": 620
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/2/anexo_da_lei_464.pdf da norma Lei Ordinária nº 464, de 23 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2005/2/anexo_da_lei_464.pdf",
+      "ano": 2005,
+      "norma": 507
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/3/lei-00418-2004_anexo_1.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/3/lei-00418-2004_anexo_1.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/4/lei-00418-2004_anexo_2_despesa_geral.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/4/lei-00418-2004_anexo_2_despesa_geral.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/5/lei-00418-2004_anexo_2_despesa_orgao.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/5/lei-00418-2004_anexo_2_despesa_orgao.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/6/lei-00418-2004_anexo_2.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/6/lei-00418-2004_anexo_2.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/7/lei-00418-2004_anexo_6.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/7/lei-00418-2004_anexo_6.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/8/lei-00418-2004_anexo_7.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/8/lei-00418-2004_anexo_7.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/9/lei-00418-2004_anexo_8.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/9/lei-00418-2004_anexo_8.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/10/lei-00418-2004_anexo_9.doc da norma Lei Ordinária nº 418, de 09 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2004/10/lei-00418-2004_anexo_9.doc",
+      "ano": 2004,
+      "norma": 461
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/11/lei-0304_-_altera_lei_006.doc da norma Lei Ordinária nº 304, de 06 de junho de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2001/11/lei-0304_-_altera_lei_006.doc",
+      "ano": 2001,
+      "norma": 347
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/12/anexo_ii_lei_316_ldo_2002.doc da norma Lei Ordinária nº 316, de 12 de novembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2001/12/anexo_ii_lei_316_ldo_2002.doc",
+      "ano": 2001,
+      "norma": 359
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/13/anexo_lei_0262.doc da norma Lei Ordinária nº 262, de 02 de agosto de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2000/13/anexo_lei_0262.doc",
+      "ano": 2000,
+      "norma": 305
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/14/anexo_lei_0263.doc da norma Lei Ordinária nº 263, de 16 de agosto de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2000/14/anexo_lei_0263.doc",
+      "ano": 2000,
+      "norma": 306
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/15/anexo_lei_311_-_ppa_2002-2005.doc da norma Lei Ordinária nº 311, de 06 de setembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2001/15/anexo_lei_311_-_ppa_2002-2005.doc",
+      "ano": 2001,
+      "norma": 354
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/ldo_2023_anexo_v_alteracoes_ppa-ldo.pdf da norma Lei Ordinária-PE nº 1.187, de 08 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/16/ldo_2023_anexo_v_alteracoes_ppa-ldo.pdf",
+      "ano": 2023,
+      "norma": 1264
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/ldo_2024_anexo_de_metas_fiscais_-_copia.pdf da norma Lei Ordinária-PE nº 1.187, de 08 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/17/ldo_2024_anexo_de_metas_fiscais_-_copia.pdf",
+      "ano": 2023,
+      "norma": 1264
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/ldo_2024_metas_-_ldo.pdf da norma Lei Ordinária-PE nº 1.187, de 08 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/18/ldo_2024_metas_-_ldo.pdf",
+      "ano": 2023,
+      "norma": 1264
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/1187_-_anexo_iii.pdf da norma Lei Ordinária-PE nº 1.187, de 08 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/19/1187_-_anexo_iii.pdf",
+      "ano": 2023,
+      "norma": 1264
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/1187_-_tabelas.pdf da norma Lei Ordinária-PE nº 1.187, de 08 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/20/1187_-_tabelas.pdf",
+      "ano": 2023,
+      "norma": 1264
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/1141.pdf da norma Lei Ordinária-PE nº 1.188, de 16 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "ALTERA A LEI MUNICIPAL 1.141, DE 10 DE JANEIRO DE 2023, QUE AUTORIZA O PODER EXECUTIVO A CONTRATAR PESSOAL, EM CARATER TEMPORÁRIO, POR EXCEPCIONAL INTERESSE PÚBLICO",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/21/1141.pdf",
+      "ano": 2023,
+      "norma": 1265
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/22/ldo_2024_anexo_de_metas_fiscais_-_copia.pdf da norma Lei Ordinária-PE nº 1.189, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/22/ldo_2024_anexo_de_metas_fiscais_-_copia.pdf",
+      "ano": 2023,
+      "norma": 1266
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/23/ldo_2024_metas_-_ldo.pdf da norma Lei Ordinária-PE nº 1.189, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/23/ldo_2024_metas_-_ldo.pdf",
+      "ano": 2023,
+      "norma": 1266
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/24/626.pdf da norma Lei Ordinária-PE nº 1.191, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/24/626.pdf",
+      "ano": 2023,
+      "norma": 1268
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/25/1185_-_anexo.pdf da norma Lei Ordinária nº 1.185, de 11 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2023/25/1185_-_anexo.pdf",
+      "ano": 2023,
+      "norma": 1262
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/26/ato_de_promulgacao_no_01-2024.pdf da norma Lei Ordinária nº 1.221, de 03 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2024/26/ato_de_promulgacao_no_01-2024.pdf",
+      "ano": 2024,
+      "norma": 1299
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/oficio_executivo_056_-_veto_parcial_ao_pll_05-24.pdf da norma Lei Ordinária nº 1.221, de 03 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2024/27/oficio_executivo_056_-_veto_parcial_ao_pll_05-24.pdf",
+      "ano": 2024,
+      "norma": 1299
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/28/oficio_022-2024_-_veto_1.pdf da norma Lei Ordinária nº 1.221, de 03 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2024/28/oficio_022-2024_-_veto_1.pdf",
+      "ano": 2024,
+      "norma": 1299
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/29/oficio_023-2024_-_promulgacao_da_parte_vetada.pdf da norma Lei Ordinária nº 1.221, de 03 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2024/29/oficio_023-2024_-_promulgacao_da_parte_vetada.pdf",
+      "ano": 2024,
+      "norma": 1299
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/30/anexos_1.233_-_loa.pdf da norma Lei Ordinária nº 1.233, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2024/30/anexos_1.233_-_loa.pdf",
+      "ano": 2024,
+      "norma": 1311
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/31/anexos_loa-1.233.pdf da norma Lei Ordinária nº 1.233, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.boavistadosul.rs.leg.br/media/sapl/public/anexonormajuridica/2024/31/anexos_loa-1.233.pdf",
+      "ano": 2024,
+      "norma": 1311
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.boavistadosul.rs.leg.br/28fb953483c536df2df7907afde9ef2fd2bcb3b075dc0d83e2e41769a7e3bef8.json",
+      "url": "https://sapl.boavistadosul.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.boavistadosul.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e0d6bb38bc8abc3bc40d4e03dc68d64a44854ef662be17150da62fd8f9a4f21a",
+      "bytes": 12813,
+      "capturado_em": "2026-10-27T19:07:39.907566-03:00"
+    }
+  ]
+}

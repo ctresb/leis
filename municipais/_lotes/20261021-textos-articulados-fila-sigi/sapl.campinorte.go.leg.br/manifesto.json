@@ -1,0 +1,42 @@
+{
+  "host": "sapl.campinorte.go.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinorte.go.leg.br/dd60135140ced1158f92ba5205772016422e7b1c3216050e6bd3b5b5abc73c40.json",
+    "url": "https://sapl.campinorte.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.campinorte.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3bf36ca949f220558bec4c35111dc5cb8d0723bf5a14bf41b95348df76e4a632",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:21:26.769258-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinorte.go.leg.br/9eaa2bdb8fae7d19888b4b93e430db0a0be4eea92922b571f898075ca5b615f3.json",
+    "url": "https://sapl.campinorte.go.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.campinorte.go.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fd6b72bce331d33a8297643f0e7b4b0e8530a0abf4a765b2016614000792cf0f",
+    "bytes": 661,
+    "capturado_em": "2026-10-27T22:21:25.640955-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinorte.go.leg.br/d329e363ede7ca87732dd7d3a1aa00668d0f9946a15057285d1847baed119b59.json",
+      "url": "https://sapl.campinorte.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.campinorte.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d660062d4aa7726292dec704291adbb4097435158ec27d0c5ad0cc8b78225d89",
+      "bytes": 746,
+      "capturado_em": "2026-10-27T22:21:28.800443-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

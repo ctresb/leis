@@ -1,0 +1,65 @@
+---
+titulo: "Lei nº 941, de 14 de novembro de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "941"
+data: "2012-11-14"
+municipio: "Horizonte"
+uf: "CE"
+codigo_ibge: "2305233"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.horizonte.ce.leg.br/norma/1022"
+fonte_texto: "https://sapl.horizonte.ce.leg.br/ta/2/text"
+sha256_fonte: "fcfe3799d7d73ccf3e73da7d1bc8a0918b14d9c4d43c90aaae1721a74fed93c9"
+sha256_texto: "4232765f6e2ac70f902dd97a928d0a7f7e5d3bc6818e22ec9b156cec34268221"
+capturado_em_fonte: "2026-10-28T13:43:16.917763-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 941, de 14 de novembro de 2012
+
+Autoriza o Poder Executivo a doar o imóvel que indica e adota outras providencias.
+
+
+**O PREFEITO DE HORIZONTE Faço saber que a Câmara Municipal decretou e eu sanciono a seguinte LEI:**
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo expressamente autorizado, com dispensa de licitação, em face da ocorrência de interesse publico devidamente justificado na mensagem que encaminhou o respectivo Projeto de Lei, a doar terreno de propriedade da Prefeitura de Horizonte, situado na Rua Hermes Silva Assunção, Bairro Jenipapeiro, na cidade de Horizonte - CE, à empresa R&R; LIMA INDÚSTRIA E COMERCIO DE MÓVEIS LTDA-ME, portadora do CNPJ/MF 10.704.113/0001-21, com a finalidade de abrigar um empreendimento destinado à fabricação de moveis com predominância de madeira.
+
+
+Art. 2º.
+
+A área doada, avaliada em R$-39.223,15 (trinta e nove mil, duzentos e vinte e três reais e quinze centavos), será de 9.826,00 m² (nove mil, oitocentos e vinte e seis metros quadrados), conforme determina o art. 17, inciso I, da Lei Federal 8.666/93, para nela ser instalada a empresa R&R; LIMA INDÚSTRIA E COMERCIO DE MÓVEIS LTDA-ME, portadora do CNPJ/MF 10.704.113/0001-21, imóvel de propriedade da Prefeitura Municipal de Horizonte, situado Rua Hermes Silva Assunção, Bairro Jenipapeiro, na cidade de Horizonte - CE, de acordo com a matrícula de nº 0061, do Cartório do Registro de Imóveis da Comarca de Horizonte – CE (Cartório Pio Ramos), na seguinte forma e com as seguintes confrontações: a OESTE (frente), no sentido Norte-Sul, por onde mede. do p1 ao p2, 90m90cm (noventa e metros e noventa centímetros), limitando-se a Rua Hermes Silva Assunção; ao SUL (lado direito), no sentido Oeste-Leste, por onde mede, do P2 ao P3, 108m16cm (cento e oito metros e dezesseis centímetros), limitando-se com terras de propriedade da Prefeitura Municipal de Horizonte; a LESTE (fundos), no sentido Sul-Norte, por onde mede, do P3 ao P4, 91m08cm (noventa e um metros e oito centímetros), limitando- se terras de propriedade de Francisco Gadelha da Silveira; ao NORTE (lado esquerdo), no sentido Leste-Oeste, por onde mede, do p4 ao p1, 115m00cm (cento e quinze metros), limitando-se com terras do Distrito Industrial de propriedade da Prefeitura Municipal de Horizonte; perfazendo assim uma área territorial total de 9.826,00 m² (nove mil, oitocentos e vinte e seis metros quadrados), área esta que está sendo doada. A empresa pretende investir R$ 350.000,00 (trezentos e cinquenta mil reais) neste projeto, com a criação de 56 empregos diretos, prevendo um faturamento anual de R$ 2.000.000,00 (dois milhões de reais).
+
+
+Art. 3º.
+
+O imóvel ora doado não poderá ser alienado sem a prévia autorização do Poder Público Municipal, por um período de 12 (doze) anos, a partir da data da vigência desta Lei, a fim de que se resguarde a finalidade da presente doação, podendo, entretanto, no mesmo período, ser objeto de garantia real, desde que o financiamento pertinente á garantia tenha vínculos com os objetivos sociais da empresa e, para tanto, haja permissão explícita do Chefe o Poder Executivo.
+
+
+Parágrafo único
+
+Em não sendo concluída a instalação da empresa, na área aqui doada, no prazo de dois anos, a partir da data da escritura pública de doação, devidamente averbada, a doação em tela será considerada nula de pleno direito, voltando o imóvel ao patrimônio público municipal, nos termos da Lei 641/2008.
+
+
+Art. 4º.
+
+O eventual descumprimento dos termos expostos na doação explicitada nesta Lei ensejará a reversão do bem doado ao Patrimônio do Município de Horizonte, dentro dos ditames da pré-citada Lei 641, de 04 de fevereiro de 2008.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA DE HORIZONTE**, aos 14 (quatorze) de novembro de 2012
+
+***Manoel Gomes de Farias Neto***
+
+Prefeito de Horizonte
+

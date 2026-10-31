@@ -1,0 +1,58 @@
+“Estima a Receita e Fixa a Despesa do Município para o Exercício de 2003.”
+
+
+O povo do Município de CLARAVAL, por seus representantes aprova e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei estima a receita e fixa a despesa do Município para о exercício de 2003 em R$4.319.000,00 ( quatro milhões e trezentos e dezenove mil reais), conforme quadros demonstrativos abaixo:
+
+
+§ 1º
+
+Discriminação da Receita por subcategoria:
+
+
+<table><tbody><tr><td><p>ADMINISTRAÇÃO DIRETA</p></td><td><p> </p></td><td><p>4.770.500,00</p></td></tr><tr><td><p>RECEITAS CORRENTES</p></td><td><p> </p></td><td><p>4.105.500,00</p></td></tr><tr><td><p>RECEITA TRIBUTARIA</p></td><td><p>92.000,00</p></td><td><p> </p></td></tr><tr><td><p>RECEITA DE CONTRIBUIÇÕES</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>RECEITA PATRIMONIAL</p></td><td><p>18.000,00</p></td><td><p> </p></td></tr><tr><td><p>RECEITA AGROPECUARIA</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>RECEITA INDUSTRIAL</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>RECEITA DE SERVICOS</p></td><td><p>35.000,00</p></td><td><p> </p></td></tr><tr><td><p>TRANSFERENCIAS CORRENTES</p></td><td><p>3.772.000,00</p></td><td><p> </p></td></tr><tr><td><p>OUTRAS RECEITAS CORRENTES</p></td><td><p>188.500,00</p></td><td><p> </p></td></tr><tr><td><p>RECEITAS DE CAPITAL</p></td><td><p> </p></td><td><p>665.000,00</p></td></tr><tr><td><p>OPERACOES DE CREDITO</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>ALIENAÇÃO DE BENS</p></td><td><p>55.000,00</p></td><td><p> </p></td></tr><tr><td><p>AMORTIZACAO DE EMPRESTIMOS</p></td><td><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>TRANSFERENCIAS DE CAPITAL</p></td><td><p>610.000,00</p></td><td><p> </p></td></tr><tr><td><p>OUTRAS RECEITAS DE CAPITAL</p></td><td><p>0,00</p></td><td><p> </p></td></tr></tbody></table>
+
+
+<table><tbody><tr><td><p>TOTAL DAS RECEITAS</p></td><td><p>4.770.500,00</p></td></tr><tr><td><p>(-) DEDUCOES DA RECEITA PARA FORMACAO DO FUNDEF</p></td><td><p>-451.500,00</p></td></tr><tr><td><p>TOTAL GERAL DAS RECEITAS</p></td><td><p>4.319.000,00</p></td></tr></tbody></table>
+
+
+§ 2º
+
+Discriminação da Despesa por Funções:
+
+
+<table><tbody><tr><td colspan="2"><p>FUNÇÕES DE GOVERNO</p></td><td><p>ADM. DIRETA</p></td><td colspan="3"><p>ADM. INDIRETA</p></td></tr><tr><td><p>01</p></td><td><p>LEGISLATIVA</p></td><td><p>0,00</p></td><td colspan="2"><p>220.000,00</p></td><td><p> </p></td></tr><tr><td><p>02</p></td><td><p>JUDICIARIA</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>03</p></td><td><p>ESSENCIAL A JUSTICA</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>04</p></td><td><p>ADMINISTRAÇÃO</p></td><td><p>1.120.500,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>05</p></td><td><p>DEFESA NACIONAL</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>06</p></td><td><p>SEGURANÇA PUBLICA</p></td><td><p>28.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>07</p></td><td><p>RELAÇÕES EXTERIORES</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>08</p></td><td><p>ASSISTENCIA SOCIAL</p></td><td><p>311.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>09</p></td><td><p>PREVIDENCIA SOCIAL</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>10</p></td><td><p>SAUDE</p></td><td><p>689.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>11</p></td><td><p>TRABALHO</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>12</p></td><td><p>EDUCAÇÃO</p></td><td><p>1.060.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>13</p></td><td><p>CULTURA</p></td><td><p>65.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>14</p></td><td><p>DIREITOS DE CIDADANIA</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>15</p></td><td><p>URBANISMO</p></td><td><p>333.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>16</p></td><td><p>HABITAÇÃO</p></td><td><p>130.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>17</p></td><td><p>SANEAMENTO</p></td><td><p>20.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>18</p></td><td><p>GESTÃO AMBIENTAL</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>19</p></td><td><p>CIENCIA E TECNOLOGIA</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>20</p></td><td><p>AGRICULTURA</p></td><td><p>45.500,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>21</p></td><td><p>ORGANIZAÇÃO AGRARIA</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>22</p></td><td><p>INDÚSTRIA</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>23</p></td><td><p>COMERCIO E SERVIÇOS</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>24</p></td><td><p>COMUNICAÇÕES</p></td><td><p>0,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>25</p></td><td><p>ENERGIA</p></td><td><p>40.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>26</p></td><td><p>TRANSPORTE</p></td><td><p>30.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>27</p></td><td><p>DESPORTO E LAZER</p></td><td><p>69.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td><p>28</p></td><td><p>ENCARGOS ESPECIAIS</p></td><td><p>158.000,00</p></td><td colspan="2"><p>0,00</p></td><td><p> </p></td></tr><tr><td colspan="2"><p>RESERVA DE CONTINGENCIA</p></td><td><p>0,00</p></td><td><p>0,00</p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="2"><p>TOTAL</p></td><td><p>4.099.000,00</p></td><td><p>220.000,00</p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="3"><p>TOTAL GERAL DAS DESPESAS</p></td><td><p>4.319.000,00</p></td><td colspan="2"><p> </p></td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+§ 3º
+
+Discriminação da Despesa por Unidades Orçamentárias:
+
+
+<table><tbody><tr><td><p> </p></td><td><p>ADMINISTRAÇÃO DIRETA</p></td><td><p>4.099.000,00</p></td></tr><tr><td><p>01</p></td><td><p>CAMARA MUNICIPAL</p></td><td><p>0,00</p></td></tr><tr><td><p>01</p></td><td><p>CAMARA MUNICIPAL</p></td><td><p>0,00</p></td></tr><tr><td><p>02</p></td><td><p>PREFEITURA MUNICIPAL</p></td><td><p>4.099.000,00</p></td></tr><tr><td><p>01</p></td><td><p>GABINETE DO PREFEITO</p></td><td><p>251.500,00</p></td></tr><tr><td><p>02</p></td><td><p>ADMINSTRAÇÃO E FINANCAS</p></td><td><p>640.500,00</p></td></tr><tr><td><p>03</p></td><td><p>EDUCAÇÃO, CULTURA, ESPORTE E LAZER</p></td><td><p>1.194.000,00</p></td></tr><tr><td><p>04</p></td><td><p>SAUDE E AÇÃO SOCIAL</p></td><td><p>1.130.000,00</p></td></tr><tr><td><p>05</p></td><td><p>SERVIÇOS MUNICIPAIS</p></td><td><p>883.000,00</p></td></tr><tr><td colspan="2"><p>ADM. INDIRETA, CAMARA E FUNDOS AUTONOMOS</p></td><td><p>220.000,00</p></td></tr><tr><td colspan="2"><p>CAMARA MUNICIPAL DE CLARAVAL</p></td><td><p>220.000,00</p></td></tr><tr><td colspan="2"><p>TOTAL GERAL DAS DESPESAS</p></td><td><p>4.319.000,00</p></td></tr></tbody></table>
+
+
+a)
+
+realizar operações de credito por antecipação de receita, com a finalidade de manter o equilíbrio orçamentário e financeiro do Município, observados os preceitos legais aplicáveis à matéria;
+
+
+b)
+
+abrir créditos suplementares ate о limite de 35% (trinta e cinco por cento) do montante dos respectivos orçamentos, utilizando-se dos recursos estabelecidos no art. 43 da Lei Federal nº 4320/64.
+
+
+Art. 3º
+
+Revogadas as disposições em contrário, esta Lei entra em vigor no dia 1º de janeiro de 2003.
+
+
+Claraval, 17 de dezembro de 2002.
+
+JUSCELINO BATISTA BORGES
+
+Prefeito Municipal

@@ -1,0 +1,7082 @@
+---
+titulo: "Lei Complementar nº 111, de 26 de dezembro de 2000"
+tipo: "Código tributário"
+tipo_na_fonte: "Lei Complementar"
+numero: "111"
+data: "2000-12-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2004-12-21; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/112"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/293/text"
+sha256_fonte: "84d9c8c470f2755a8da815f1d625584a8b01ebf60c76ffcaa4f1fec5152c8fda"
+sha256_texto: "577429a5287edfd094fe483743fc6a437525fae7333d656725ef3bc341bea76b"
+capturado_em_fonte: "2026-10-27T21:48:21.805432-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 111, de 26 de dezembro de 2000
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+CAPÍTULO ÚNICO
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+CAPÍTULO ÚNICO
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+CAPÍTULO ÚNICO
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 9º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 10.
+
+REVOGADO
+
+
+Art. 11.
+
+REVOGADO
+
+
+Art. 12.
+
+REVOGADO
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 19
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+1
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+2
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+3
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+4
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+5
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+6
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+7
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+8
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+9
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+10
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+11
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+12
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+13
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+14
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+15
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+16
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+17
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+18
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+19
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+20
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+21
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+22
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+23
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+24
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+25
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+26
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+27
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+28
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+29
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+30
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+31
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+32
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+33
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+34
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+35
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+36
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+37
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+38
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+39
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+40
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+41
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+42
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+43
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+44
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+45
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+46
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+47
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+48
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+49
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+50
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+51
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+52
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+53
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+54
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+55
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+56
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+57
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+58
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+59
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+60
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+61
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+62
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+63
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+64
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+65
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+66
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+67
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+68
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+69
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+70
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+71
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+72
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+73
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+74
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+75
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+76
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+77
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+78
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+79
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+80
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+81
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+82
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+83
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+84
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+85
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+86
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+87
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+88
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+89
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+90
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+91
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+92
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+93
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+94
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+95
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+96
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+97
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+1
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+2
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XVII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XVIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XIX –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XX –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XXI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+XXII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 68.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 69.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 70.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 71.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 72.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 73.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 74.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 75.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 76.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 77.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 78.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 79.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 80.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 81.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 82.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 83.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 84.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 85.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 86.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 87.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 88.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 89.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 90.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 91.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 92.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 93.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 94.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 95.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 96.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 97.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 98.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 99.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 100.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 101.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 102.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 103.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 104.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 105.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 106.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 107.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 108.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 109.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 110.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 111.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 112.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 113.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 114.
+
+REVOGADO
+
+
+Art. 115.
+
+REVOGADO
+
+
+Art. 116.
+
+REVOGADO
+
+
+Art. 117.
+
+REVOGADO
+
+
+Art. 118.
+
+REVOGADO
+
+
+Art. 119.
+
+REVOGADO
+
+
+Art. 120.
+
+REVOGADO
+
+
+Art. 121.
+
+REVOGADO
+
+
+Art. 122.
+
+REVOGADO
+
+
+Art. 123.
+
+REVOGADO
+
+
+Art. 124.
+
+REVOGADO
+
+
+Art. 125.
+
+REVOGADO
+
+
+Art. 126.
+
+REVOGADO
+
+
+Art. 127.
+
+REVOGADO
+
+
+Art. 128.
+
+REVOGADO
+
+
+Art. 129.
+
+REVOGADO
+
+
+Art. 130.
+
+REVOGADO
+
+
+Art. 131.
+
+REVOGADO
+
+
+Art. 132.
+
+REVOGADO
+
+
+Art. 133.
+
+REVOGADO
+
+
+Art. 134.
+
+REVOGADO
+
+
+Art. 135.
+
+REVOGADO
+
+
+Art. 136.
+
+REVOGADO
+
+
+Art. 137.
+
+REVOGADO
+
+
+Art. 138.
+
+REVOGADO
+
+
+### TÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 139.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 140.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 141.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 142.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 143.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 144.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 145.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 146.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 147.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 148.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 149.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 150.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 151.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 152.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 153.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+1
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+2
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 154.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 155.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 156.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 157.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 158.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 159.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO VIII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 160.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 161.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 162.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 163.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 164.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 165.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 166.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 167.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 168.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 169.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 170.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 171.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 172.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 173.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 174.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 175.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 176.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 177.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 178.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 179.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 180.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 181.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 182.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 183.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 184.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 185.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 186.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+###### Subseção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 187.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 188.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+###### Subseção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 189.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+###### Subseção III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 190.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+###### Subseção IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 191.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO IX
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 192.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 193.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 194.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 195.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 196.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 197.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 198.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 199.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 200.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 201.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO X
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 202.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 203.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 204.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 205.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 206.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 207.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 208.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 209.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 210.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 211.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 212.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 213.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 214.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 215.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 216.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 217.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 218.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 219.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 220.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 221.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 222.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 223.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 224.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 225.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 226.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 227.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 228.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 229.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 230.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 231.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 232.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 233.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção V
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 234.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 235.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 236.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 237.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 238.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 239.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 240.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 241.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 242.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 243.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 244.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 245.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 246.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 247.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 248.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 249.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+##### Seção X
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 250.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 251.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 252.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+CAPÍTULO ÚNICO
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 253.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 254.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 255.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 256.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 257.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 258.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 259.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 260.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XIII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 261.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 262.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 263.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XIV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 264.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 265.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 266.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 267.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 268.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 269.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 270.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 271.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 272.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XVI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 273.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 274.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 275.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 276.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XVII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 277.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 278.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 279.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 280.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 281.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 282.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XVIII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 283.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 284.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 285.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 286.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 287.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 288.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 289.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 290.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 291.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 292.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+### TÍTULO XIX
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 293.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 294.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 295.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 296.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 297.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 298.
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 299.
+
+REVOGADO
+
+
+Art. 300.
+
+REVOGADO"
+
+
+Art. 2º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+Art. 3º
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA I
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA II
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA III
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA IV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA V
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA VI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA VII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA VIII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA IX
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA X
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA XI
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA XII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA XIII
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+
+
+TABELA XIV
+
+(Revogado)
+
+Revogado pelo Art. 288. - Lei Complementar nº 199, de 21 de dezembro de 2004.
+

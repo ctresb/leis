@@ -1,0 +1,18 @@
+{
+  "aprovados_adicionais": 28,
+  "retidos_restantes": 211,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-qualificacao-contextual/aprovados.paths.txt",
+      "sha256": "28fdd04e662562b27dcf5b85971e4805b5b16a2486fce3e4f3f97eb5ed98c699"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-qualificacao-contextual/overlay.json",
+      "sha256": "94194e6c936111c6222fe5fad1dca27b8f40ebfb04197b329ba0c83391ae5c15"
+    },
+    {
+      "path": "municipais/_lotes/20261020-gate-anexos-qualificacao-contextual/retidos.paths.txt",
+      "sha256": "8a01f815bf1c0535cd4f56efb08a7a8472417be98dec1a1181b388211de2e07a"
+    }
+  ]
+}

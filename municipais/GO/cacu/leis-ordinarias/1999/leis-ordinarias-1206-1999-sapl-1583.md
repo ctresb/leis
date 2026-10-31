@@ -1,0 +1,608 @@
+---
+titulo: "Lei Ordinária nº 1.206, de 22 de dezembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1206"
+data: "1999-12-22"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2005-08-11; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1583"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/145/text"
+sha256_fonte: "b618ff6f84d643a0a4eccd4c954494380f65c9822343b0cf1f94fe2658ea1657"
+sha256_texto: "6c0eb1ea354524bd6871e6ef6f9b4c44b1031e6683347d78a18012477e2df594"
+capturado_em_fonte: "2026-10-27T21:39:18.708099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.206, de 22 de dezembro de 1999
+
+Dispõe sobre a criação do Fundo Municipal do Meio Ambiente e dos Recursos Hídricos - FMRH e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE CAÇU**: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — Das Disposições Preliminares
+
+
+Art. 1º.
+
+Fica criado o Fundo Municipal do Meio Ambiente e dos Recursos Hídricos - FMRH.
+
+
+#### CAPÍTULO II — Dos Objetivos
+
+
+Art. 2º.
+
+O Fundo Municipal do Meio Ambiente e dos Recursos Hídricos -FMRH objetiva proporcionar suporte financeiro à execução da Política Municipal do Meio Ambiente e dos Recursos Hídricos, através:
+
+
+I –
+
+da elaboração e/ou execução de planos, programas e projetos que visem o desenvolvimento sustentável do Município e região;
+
+
+II –
+
+do apoio à pesquisa e à busca de novas tecnologias, como instrumento de defesa do meio ambiente;
+
+
+III –
+
+do apoio a entidades governamentais e não governamentais, visando a proteção e defesa do meio ambiente e dos recursos hídricos;
+
+
+IV –
+
+da ordenação do uso racional e sustentável dos recursos naturais do Município;
+
+
+V –
+
+do apoio ao mini e pequeno produtor em regime familiar, no sentido de compatibilizar a produção com a proteção e/ou recuperação do meio ambiente e dos recursos hídricos;
+
+
+VI –
+
+do apoio a novas alternativas de produção, que visem a recuperação e preservação dos recursos naturais;
+
+
+VII –
+
+do apoio ao crescimento e desenvolvimento de atividades econômicas urbanas de forma racional e sustentável;
+
+
+VIII –
+
+do apoio à preservação e recuperação do meio ambiente e dos recursos hídricos, dando maior segurança ao futuro.
+
+
+#### CAPÍTULO III — Dos Recursos do Fundo
+
+
+Art. 3º.
+
+Constituirão Receitas do Fundo:
+
+
+I –
+
+dotações orçamentárias a ele especificamente destinadas;
+
+
+II –
+
+créditos adicionais suplementares;
+
+
+III –
+
+produto de multas impostas por infrações à legislação ambiental;
+
+
+IV –
+
+doações de pessoas físicas ou jurídicas;
+
+
+V –
+
+doações de entidades nacionais e internacionais;
+
+
+VI –
+
+acordos, contratos, consócios e convênios;
+
+
+VII –
+
+preços público cobrados pela análise de projetos ambientais e informações requeridas ao cadastro de bancos de dados ambientais gerados pela Secretaria Municipal do Meio Ambiente;
+
+
+VIII –
+
+rendimentos obtidos com aplicação de seu próprio patrimônio;
+
+
+IX –
+
+indenizações decorrentes de cobranças judiciais e extrajudiciais de áreas verdes, devidas em razão de parcelamento, irregular ou clandestino do solo;
+
+
+X –
+
+outras receitas eventuais.
+
+
+§ 1º
+
+As receitas descritas neste artigo, serão depositadas em conta específica do Fundo, mantida em agência de estabelecimento oficial de crédito, instalada no Município e que celebre convênio com o mesmo.
+
+
+§ 2º
+
+Quando não estiverem sendo utilizados nas finalidades próprias, os recursos do Fundo poderão ser aplicados no mercado de capitais, de acordo com a posição financeira fornecida pelo Presidente do Conselho Deliberativo, objetivando o aumento das receitas do Fundo, cujos resultados a ele se reverterão.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 1.441, de 11 de agosto de 2005.
+
+
+#### CAPÍTULO V — Da Operacionalização do Fundo
+
+
+Art. 6º.
+
+O Fundo Municipal do Meio Ambiente e dos Recursos Hídricos ficará subordinado, operacionalmente, à Secretaria Municipal do Meio Ambiente e gerido pelo Secretário da Pasta, em consonância com o Conselho Municipal do Meio Ambiente.
+
+
+Art. 7º.
+
+São atribuições do Secretário Municipal do Meio Ambiente:
+
+
+I –
+
+gerir o Fundo Municipal do Meio Ambiente e dos Recursos Hídricos e estabelecer política de aplicação dos recursos em conjunto com o Conselho Deliberativo Municipal do Meio Ambiente e Recursos Hídricos;
+
+
+II –
+
+acompanhar e avaliar a realização das ações previstas na Política Municipal do Meio Ambiente e dos Recursos Hídricos, em consonância com as diretrizes do conselho Municipal do Meio Ambiente, voltadas para o setor;
+
+
+III –
+
+submeter ao Conselho Municipal do Meio Ambiente, em consonância com a Política Municipal do Meio Ambiente e dos Recursos Hídricos, o Plano de Aplicação, mencionado no artigo 5º da presente Lei, que estará a cargo do FMRH;
+
+
+IV –
+
+submeter, mensalmente ao Conselho Municipal do Meio Ambiente ou quando solicitado, demonstração da receita e da despesa do Fundo;
+
+
+V –
+
+assinar cheques em conjunto com o Tesoureiro;
+
+
+VI –
+
+ordenar empenhos e pagamentos das despesas do Fundo;
+
+
+VII –
+
+manter os controles necessários à execução orçamentária do Fundo, referentes a empenhos e pagamento das despesas e aos recebimentos das receitas do Fundo;
+
+
+VIII –
+
+encaminhar à contabilidade geral do Município os seguintes documentos:
+
+
+a)
+
+mensalmente, demonstração da receita e da despesa;
+
+
+b)
+
+semestralmente, inventário de bens móveis e imóveis e o Balanço Geral do Fundo;
+
+
+c)
+
+anualmente, inventário de bens móveis e imóveis e o Balanço Geral do Fundo.
+
+
+IX –
+
+confirmar com o responsável pelos controles da execução orçamentária as demonstrações mencionadas anteriormente;
+
+
+X –
+
+providenciar, junto a contabilidade geral do Município, as demonstrações mencionadas anteriormente;
+
+
+XI –
+
+firmar convênios e contratos para a execução das ações constantes na Política Municipal do Meio Ambiente e dos Recursos Hídricos, em consonância com o Conhelho Municipal do Meio Ambiente;
+
+
+XII –
+
+manter os contratos necessários a execução das receitas e das despesas do Fundo;
+
+
+XIII –
+
+manter o controle dos contratos e convênios, firmados com instituições governamentais e não governamentais;
+
+
+XIV –
+
+tomar conhecimento e dar cumprimento às obrigações definidas em convênios e/ou contratos firmados pela Prefeitura Municipal, no tocante à Política Municipal do Meio Ambiente e dos Recursos Hídricos.
+
+
+#### CAPÍTULO VI — Da Execução Orçamentária
+
+
+Art. 8º.
+
+Imediatamente, após a publicação da Lei Orçamentária, o Secretário Municipal do Meio Ambiente apresentará ao Conselho Deliberativo a proposta de aplicação dos recursos do Fundo, para apoiar os programas e projetos contemplados no Plano de Ação.
+
+
+Art. 9º.
+
+Nenhuma despesa será realizada sem a necessária autorização orçamentária.
+
+
+Parágrafo único
+
+Para os casos de insuficiência e omissões orçamentárias poderão ser utilizados os créditos adicionais suplementares e especiais, autorizados por Lei e abertos por Decreto do Executivo.
+
+
+Art. 10.
+
+As despesas do Fundo Municipal do Meio Ambiente e dos Recursos Hídricos se constituirão de:
+
+
+I –
+
+controle, fiscalização e defesa do meio ambiente;
+
+
+II –
+
+aquisição de material permanente, de consumo, peças de reposição e de outros insumos necessários a consecução da Política Municipal do Meio Ambiente e dos Recursos Hídricos;
+
+
+III –
+
+desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações constantes na Política Municipal do Meio Ambiente e dos Recursos Hídricos;
+
+
+IV –
+
+desenvolvimento de programas de capacitação e aperfeiçoamento de recursos humanos, para serem empregados na presente Política;
+
+
+V –
+
+pagamento de gratificações à mão-de-obra dos órgãos e entidades municipais da Administração Direta e Indireta, colocada à disposição da Pasta gestora da presente Política, para consecução das ações mencionadas pelo artigo 2º desta Lei;
+
+
+VI –
+
+pagamento de gratificações à mão-de-obra, colocada à disposição da Pasta Gestora da presente Política, então provenientes de órgãos de outra esfera de governo que desenvolvem convênios com o Município, para a consecução de ações constantes da Política Municipal do Meio Ambiente e dos Recursos Hídricos;
+
+
+VII –
+
+pagamento pela prestação de serviços e/ou despesas com transporte, estadia e alimentação à pessoa física, jurídica ou entidades de direito público ou privado, segundo a legislação pertinente, para execução de determinados programas ou projetos, constantes na Política Municipal do Meio Ambiente e dos Recursos Hídricos;
+
+
+VIII –
+
+construção, reforma, ampliação ou locação de imóveis destinados a viabilizar a presente Política;
+
+
+IX –
+
+aquisição, locação e contratação de móveis, veículos, máquinas, implementos e prestação e serviços, de acordo com a legislação pertinente, para a execução de programas e projetos constantes da Política Municipal do Meio Ambiente e dos Recursos Hídricos;
+
+
+X –
+
+contribuição, através de convênios, a empresas e entidades públicas e privadas, nacionais e internacionais, para o desenvolvimento de Programas e Projetos necessários a execução da presente Política;
+
+
+XI –
+
+realização de pesquisas e a busca de novas tecnologias necessárias ao desenvolvimento do Município;
+
+
+XII –
+
+obrigações constantes de acordos, ajustes, contratos e convênios firmados entre o Município e instituições públicas e privadas, nacionais e internacionais, municipais, estaduais e federais.
+
+
+Parágrafo único
+
+Deverá ser priorizado as despesas com medidas de recuperação e preservação da fauna, flora e dos recursos hídricos do Município.
+
+
+#### CAPÍTULO VII — Dos Ativos do Fundo
+
+
+Art. 11.
+
+Constituem ativos do Fundo Municipal do Meio Ambiente e dos Recursos Hídricos - FMRH:
+
+
+I –
+
+disponibilidades monetárias em bancos, oriundas das receitas específicas;
+
+
+II –
+
+direitos que porventura vier a constituir;
+
+
+III –
+
+bens móveis, imóveis, máquinas, implementos e ferramentas doadas, com ou sem ônus, para a execução dos programas e projetos constantes da Política Municipal do Meio Ambiente e dos Recursos Hídricos.
+
+
+Parágrafo único
+
+Anualmente, se processará o inventário dos bens e direitos vinculados ao Fundo.
+
+
+#### CAPÍTULO VIII — Dos Passivos do Fundo
+
+
+Art. 12.
+
+Constituem passivos do Fundo Municipal do Meio Ambiente e Recursos Hídricos - FMRH, as obrigações de quaisquer natureza que porventura o Município venha assumir para a execução das ações constantes na Política Municipal do Meio Ambiente e dos Recursos Hídricos.
+
+
+#### CAPÍTULO IX — Das Disposições Finais
+
+
+Art. 13.
+
+Do Convênio de que trata o § 1º, do artigo 3º, da presente Lei, constará cláusula de apoio da instituição à Política Municipal do Meio Ambiente e dos Recursos Hídricos.
+
+
+Art. 14.
+
+Todos os Convênios existentes e que tenham relação direta ou indireta com a Política Municipal do Meio Ambiente e dos Recursos Hídricos, poderão ser refeitos a partir de 1º de janeiro de 2000, após avaliação e anuência do Conselho Municipal do Meio Ambiente.
+
+
+Art. 15.
+
+Fica o Poder Executivo Municipal, juntamente com o Presidente do FMRH, autorizado a firmar convênio com a FEMAGO, ou sua sucessora, para a descentralização das suas funções.
+
+
+Art. 16.
+
+Fica o Poder Executivo Municipal autorizado, mediante decreto, criar os instrumentos necessários para fazer cumprir os objetivos da presente Lei.
+
+
+Art. 17.
+
+O saldo positivo do FMRH, apurado em balanço será transferido para o exercício seguinte a crédito do presente Fundo.
+
+
+Art. 18.
+
+Fica autorizado o Poder Executivo a abrir os créditos necessários para custear a instalação e Operacionalização do Fundo Municipal do Meio Ambiente e dos Recursos Hídricos - FMRH, até 31/12/2000.
+
+
+Art. 19.
+
+O orçamento do Fundo Municipal do Meio Ambiente e dos Recursos Hídricos observará, quando da elaboração e de sua contabilidade, os padrões normas estabelecidas pela legislação pertinente.
+
+
+Art. 20.
+
+O Fundo Municipal do Meio Ambiente e dos Recursos Hídricos - FMRH terá vigência ilimitada, podendo ser extinto, através de Decreto do Poder Executivo, com antecedência mínima de noventa dias, após a aprovação de 2/3 (dois terços) do Conselho Municipal do Meio Ambiente, porém, suas atividades encerrarão após a liquidação geral de suas obrigações.
+
+
+Art. 21.
+
+Os aspectos e normatizações, pertinentes ao Fundo Municipal do Meio Ambiente e dos Recursos Hídricos, não enfocados nesta Lei, serão regulamentados através de Decreto do Executivo, após ouvir o Conselho Municipal do Meio Ambiente, podendo ser modificado por solicitação de 2/3 do mesmo.
+
+
+Art. 22.
+
+Dos recursos do Fundo, 25% (vinte e cinco por cento) será utilizado para a manutenção do Fundo e 75% (setenta e cinco por cento) destinar-se-á ao custeio de projetos específicos, mediante aprovação do Conselho Municipal do Meio Ambiente.
+
+
+Art. 23.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PREFEITURA MUNICIPAL DE CAÇU,** Estado de Goiás, em 22 de dezembro de 1999.
+
+
+**RUI ALVES MARTINS**
+
+**Prefeito Municipal**
+
+**IVAIR ANTÔNIO FREITAS GUIMARÃES**
+
+**Secretário da Administração**
+

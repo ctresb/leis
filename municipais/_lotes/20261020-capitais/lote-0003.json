@@ -1,0 +1,28 @@
+{
+  "aprovados": 1,
+  "path": "municipais/SP/sao-paulo/decretos/2026/decreto-65599-2026.md",
+  "sha256": "01bc9730d8c6071390d3565c304da61fabd36c901908f772c915082b6db97649",
+  "criterio": "Decreto individual e Anexo Único232p aprovado por ele.146958tokens na íntegra, só232fólios físicos sequenciais excluídos; formatação preformatada preserva tabelas. É decreto de consolidação, não lei tributária original nem edição diária.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-capitais/lote-0003.paths.txt",
+      "sha256": "3376c9d2972ffc82215ca96d757d48d5847ea18bff8dd4cf45288ef443ee4f43"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais/lote-0003.auditoria-municipal.json",
+      "sha256": "87acbe0dbd77d02df91d8daef2a87fecbd82cc4deb8e46ef037975a590490f2d"
+    },
+    {
+      "path": "municipais/_fonte/capitais/sao-paulo/decreto-65599-2026.manifesto.json",
+      "sha256": "254b515d350d78fe2fd6334741f8e7a76307349cb69f260a8b35c4887ccd9566"
+    },
+    {
+      "path": "municipais/_fonte/capitais/sao-paulo/decreto-65599-2026.qa-final.json",
+      "sha256": "c77527e6f8bd06cf9ff0808e2d39b337346a0876211776732ec0ae2cb0162691"
+    }
+  ],
+  "revisao_visual": [
+    "municipais/_referencias/capitais/sao-paulo/tributaria-2026/pagina-1.png",
+    "municipais/_referencias/capitais/sao-paulo/tributaria-2026/pagina-232.png"
+  ]
+}

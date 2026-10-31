@@ -1,0 +1,42 @@
+{
+  "host": "sapl.cruzeirodoiguacu.pr.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzeirodoiguacu.pr.leg.br/3d143efdbe00143bb7ad470f79c8bf689eda24ae7266b999436a1a21975dc9a1.json",
+    "url": "https://sapl.cruzeirodoiguacu.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.cruzeirodoiguacu.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:30:05.119290-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzeirodoiguacu.pr.leg.br/9b61f0ed85b1fa512511065361ef1e8312318dcec6a872cd0d0767a1782359de.json",
+    "url": "https://sapl.cruzeirodoiguacu.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.cruzeirodoiguacu.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b6d41c0d502ef499b6c3c8c4c5082469527d9701bb8309e85f9b648513da0067",
+    "bytes": 763,
+    "capturado_em": "2026-10-28T09:30:04.271708-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cruzeirodoiguacu.pr.leg.br/b85a107ec95c90c1ddd90d8e302c7a1552011fdf5b2e076cc0618a39180af176.json",
+      "url": "https://sapl.cruzeirodoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.cruzeirodoiguacu.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-28T09:30:07.128039-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,68 @@
+---
+titulo: "DECRETO N.º 133/GP-PMT DE 17 DE MARÇO DE 2026"
+uf: "AM"
+municipio: "TABATINGA"
+tipo: "Decreto"
+numero: "133"
+data: 2026-03-17
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 18/03/2026"
+data_publicacao: 2026-03-18
+codigo_identificador: "D0FBA35A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118819_2026-03-17_ef0e7fd0f5e4beaecb3fe18532057d1c.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N.º 133/GP-PMT DE 17 DE MARÇO DE 2026
+
+DECRETO N.º 133/GP-PMT DE 17 DE MARÇO DE 2026
+DISPÕE SOBRE A EXONERAÇÃO A PEDIDO DE
+SERVIDOR DO QUADRO EFETIVO DA
+PREFEITURA MUNICIPAL DE TABATINGA E
+DÁ OUTRAS PROVIDÊNCIAS.
+O EXCELENTÍSSIMO SENHOR PLINIO SOUZA DA CRUZ,
+M.D. PREFEITO DE TABATINGA/AM, no uso de suas
+atribuições legais, ex vi, tendo em vista o que dispõe o Art. 72 e inciso
+VI e IX do Art. 73 da Lei Orgânica do Município de Tabatinga;
+CONSIDERANDO, o Art. 123. Da Lei Municipal 473/2007, de 08 de
+junho de 2007, Estatuto dos Servidores Públicos Municipais de
+Tabatinga-Amazonas,
+CONSIDERANDO, o Memorando n.º 070/2026-GCMT, de 16 de
+março de 2026.
+CONSIDERANDO,
+o
+Memorando
+n.º
+203/2026GB/SMSPDS/TBT/AM, de 16 de março de 2026.
+CONSIDERANDO, as disposições legais, previstas no artigo 37 da
+Constituição Federal, e o poder de discricionariedade do
+administrador público.
+DECRETA
+Art. 1º - EXONERAR a pedido, a Senhora LUIZA RENATA
+PEREIRA CHAVES, do cargo de GUARDA CIVIL MUNICIPAL,
+EFETIVA, matrícula 10203-2 com a Lotação na Secretaria Municipal
+de Segurança Pública e Defesa Social-SMSPDS.
+Art. 2º - Este Decreto entra em vigor na data de sua publicação,
+revogando-se as disposições em contrário, com efeito retroativo ao dia
+16 de março 2026.
+Art. 3º - Comunique-se, publique-se e cumpra-se.
+
+www.diariomunicipal.com.br/aam
+
+151
+
+Amazonas , 18 de Março de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4067
+GABINETE DO PREFEITO DE TABATINGA/AM, em 17 de
+março de 2026.
+PLINIO SOUZA DA CRUZ
+Prefeito Municipal de Tabatinga/AM
+DADO CIÊNCIA, REGISTRADO E PUBLICADO NO
+SERVIÇO DE DECRETO DESTA PREFEITURA MUNICIPAL,
+NA DATA SUPRA, EM OBEDIÊNCIA AO DISPOSTO NO
+ART. 100 DA LEI ORGÂNICA DO MUNICÍPIO DE
+TABATINGA.
+BÁRBARA JUVENTINO DA SILVA
+Secretária Municipal de Administração
+Publicado por:
+Sabrina do Nascimento Ramos

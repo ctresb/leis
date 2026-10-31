@@ -1,0 +1,89 @@
+---
+titulo: "Lei Ordinária-EM nº 2.264, de 31 de março de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2264"
+data: "2010-03-31"
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.canapolis.mg.leg.br/norma/783"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2010/783/lei_2264-2010_-_autoriza_o_poder_executivo_a_suplementar_a_dotacao_que_especifica.pdf"
+sha256_fonte: "4ee4fc008dee19ccc71d4287f5541fd9bf207479a2d9c6be61e956e84f5c5fbf"
+sha256_texto: "08895d701c1045ec6cce4ad282c6d2029814ff8958de11ad6a11ce38e341b1c2"
+baixado_em: "2026-10-16"
+---
+
+# Lei Ordinária-EM nº 2.264, de 31 de março de 2010
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI 2.264/2010 AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECIFICA. O PREFEITO MUNICIPAL, Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte lei:
+
+**Art. 1°** - Fica o Poder Executivo Municipal, autorizado a suplementar a seguinte dotação. OBRASE E INSTALAÇÕES 02.08.00-4.4.90.51.01-15.452.0014.1.0020
+
+R$ 459.054,00
+
+**Art. 2°** - Para atender as despesas decorrentes do artigo 1° serão utilizados recursos por anulação das seguintes Dotações Orçamentárias: OUTROS SERVIÇOS PESSOA 02.01.00-3.3.90.39.01-04.122.0002.2.0009 JURÍDICA
+
+R$ 20.000,00 02.01.00-4.4.90.52.01-04.122.0002.2.0008
+
+02.02.00-4.4.90.52.01-02.061.0003.2.0012
+
+HDANDO COM O BRAS
+
+02.03.00-4.4.90.52.01-04.121.0004.2.0013
+
+R$ 4.000,00 AQUISIÇÃO DE IMÓVEIS 02.03.00-4.5.90.61.01-04.121.0004.2.0013
+
+R$ 3.000,00
+
+02.04.00-4.4.90.52.01-04.123.0006.2.0014
+
+RSERVA DE CONTIGÊNCIA 02.04.00-9.9.99.98.01-99.999.9999.9.0999
+
+R$ 80.000,00 OBRIGAÇÕES TRIBUTARIAS E 02.05.00-3.3.90.47.01-04.122.0005.2.0016 CONTRIBUIÇÕES R$ 60.000,00
+
+02.05.00-4.4.90.52.01-04.122.0005.2.0016
+
+R$ 8.000,00 OUTROS SERVIÇOS PESSOA FISICA 02.06.01-3.3.90.36.01-12.361.0007.2.0024 R$ 70.000,00 002.002 - FUNDEB 40% OUTROS SERVIÇOS PESSOA 02.06.01-3.3.90.39.01-12.361.0007.2.0024 JURÍDICA R$ 10.000,00 002.002 - FUNDEB 40%
+
+02.06.01-4.4.90.52.01-12.361.0007.2.0024
+
+Canapo Is
+
+CANDO COM gERAR! 002.002 - FUNDEB 40% R$ 10.000,00 OBRAS E INSTALAÇÕES 02.06.02-4.4.90.51.01-27.812.0009.2.0025
+
+R$ 6.000,00
+
+02.06.02-4.4.90.52.01-27.812.0009.2.0025
+
+OBRAS E INSTALAÇÕES 02.06.03-4.4.90.51.01-13.392.0008.2.0050
+
+R$ 16.500,00
+
+02.06.03-4.4.90.52.01-13.392.0008.2.0050
+
+R$ 2.000,00 OBRIGAÇÕES PATRONAIS 02.07.01-3.1.90.13.01-10.301.0010.2.0102
+
+R$ 50.000,00 OBRIGAÇÕES PATRONAIS 02.07.01-3.1.90.13.01-10.302.0010.2.0103
+
+R$ 10.000,00 OBRIGAÇÕES PATRONAIS 02.07.01-3.1.90.13.01-10.303.0010.2.0108
+
+02.07.01-3.1.90.13.01-10.303.0010.2.0109 OBRIGAÇÕES PATRONAIS
+
+R$ 6.000,00 02.07.01-3.3.90.30.01-10.122.0010.2.0111 MATERIAIS DE CONSUMO DIVERSO
+
+R$ 8.000,00 MATERIAIS DE CONSUMO DIVERSO 02.07.01-3.3.90.30.01-10.122.0010.2.0112
+
+R$ 8.000,00 Praça 19 de Março, 304 - Centro - CEP: 38380-000 - Tel:(34)3266-3500
+
+COM gERAL 02.07.01-3.3.90.30.01-10.301.0010.2.0099 MATERIAIS DE CONSUMO DIVERSO 005.001 - ATENÇÃO BASICA R$ 15.000,00 MATERIAIS DE CONSUMO DIVERSO 02.07.01-3.3.90.30.01-10.301.0010.2.0101 005.003 - AGENTE COMUNITARIO DE SAÚDE R$ 15.000,00 COMBUSTÍVEL 02.07.01-3.3.90.30.05-10.122.0010.2.0110
+
+R$ 9.059,00 COMBUSTIVEL 02.07.01-3.3.90.30.05-10.122.0010.2.0112
+
+R$ 23.495,0Oł
+
+**Art. 3°** - Esta Lei entra em vigor na data de sua publicação. Canápolis/MG, 31 de Março de 2010. EDILSON ALVES SANTANA Prefeito Municipal
+

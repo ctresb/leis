@@ -1,0 +1,229 @@
+{
+  "criterio": "Preserva toda a camada nativa por página, sem heurísticas de margem ou números.\n\nSomente candidatos explícitos. Confere layout e palavras por coordenadas antes\nde substituir o Markdown, mantendo backup e prova compacta de cada fonte.\n",
+  "script_sha256": "a551ed22a083974691de91b059996a302ab4f7f26bf10525ac955904ae53fabb",
+  "lista_sha256": "f9e7be9f26f46656f965bc21a1b0c0b969ea94ebc22f0d3c7d86a82c659a1b84",
+  "resultados": [
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-476-2025-sapl-46.md",
+      "sha256_anterior": "e1be8db8ef3857e09d2ca67041be71d1c0b2cd7d10ec5f0985ebcef016b279ea",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/cca264065af9be1d696c43d7bbd6f1ccaebb7395b4b1335447796f931021cce7.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-478-2025-sapl-48.md",
+      "sha256_anterior": "be76e256e0f78a5cd7574339b03863a21a85dd0a0ecb761c2328772d87baa299",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/a36e359f56d1a5e5c2ec7c36b019a7d068f94eb19218e55b991477a28ce8df4e.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-453-2024-sapl-78.md",
+      "sha256_anterior": "73bfdaf6d6ba07dd564eda8bd9506fd97eb3bc134cbe6adf9ca8551eafd99b0d",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 1"
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-668.md",
+      "sha256_anterior": "2521e90015656e0ed1b5e8e52ad53ff012c7b5db1c4c24202e01fc6f5b98d2c3",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 1"
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2024/resolucoes-50-2024-sapl-789.md",
+      "sha256_anterior": "eb8c8df1be08110765170c446ae01496654beabc76697150e364c4624b200118",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 3"
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-66-2026-sapl-910.md",
+      "sha256_anterior": "82d1fcfd899b5b0820bba9605026c22661d835db9887d23907f20f55549196ab",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 20"
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-68-2026-sapl-766.md",
+      "sha256_anterior": "c11afe823e52c1ef21d560954db5b6533e226074e0a00f3371e53b6db1657729",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 5"
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-69-2026-sapl-774.md",
+      "sha256_anterior": "3c21387eb727b4aac79cd42a89f6b8e165d97cf2833b7d3ede8dc6b202bacaaa",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/517f1fdb8ea13752aa060ed0ac29ba8f028b8a18aa873d5b9369ae4cd3af8909.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-70-2026-sapl-911.md",
+      "sha256_anterior": "d636583df150e7834077d5a39206913576c9b29bab934d335d28371c46fa1c96",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 1"
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2018/leis-complementares-541-2018-sapl-696.md",
+      "sha256_anterior": "2c6fe8ad356d657953b56d5d50c12c6fd18e7ae3f5f43a626ff1bd64f6360e84",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 1"
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-592-2021-sapl-704.md",
+      "sha256_anterior": "d8e4f4ce7089b7471430dda223bd6a469cd47f1d6bd97d3c6e8c0f9f0566dea9",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/54ee319025e3456a7e0214b7fefc109a4a1ac3f3e50495cc35ac2b4c336a9396.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-616-2021-sapl-708.md",
+      "sha256_anterior": "43c3a79d2286f69895b09fb1784dae27b3cbd666d3cf417aab4b5790f45862f4",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 1"
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-653-2023-sapl-720.md",
+      "sha256_anterior": "4d7f1bc7cc5a70486ddfea387c6ddfeff27d9f759bb801fdee6a51380d25759c",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/de5a8dbd5b65b8452afbcc28601665a62f0af70502530f193116ae9ed60f40c9.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2024/leis-complementares-669-2024-sapl-715.md",
+      "sha256_anterior": "5ddef789d87bacec1deafb9db1e17f0495bf479b016918c069a63fb53242d08e",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/2d19bd8c1e12772254b6b1d9ccadda4d7c4258ab6c9f35fddab1c03d4d6d43ce.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-674-2025-sapl-716.md",
+      "sha256_anterior": "eddaf9b479e1353464047ea2bba885250c54cb9f69d72c948b7dabb7bcc83eae",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/b0ce2be427b16853f37ced20d8d98e022af2ac7eff885a7fbf8a65281e20d2fe.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-675-2025-sapl-717.md",
+      "sha256_anterior": "1a5f703ef8f29002bed8d7a75991395852da37ccb7937382010e45df0951927e",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/271e18e2c653b3af0d811ca194b274e69590a98409ddaa50bdf3630dde1a2b3e.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-678-2025-sapl-719.md",
+      "sha256_anterior": "0c1c00b5dd13135c171e6393a609ad42ceb43463f6916cf1eb14039383fca427",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/c8bd84ee08be31e05eb99a755567ae2cae5ebf4b9dbd2433520cd2106636700b.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-702-2025-sapl-725.md",
+      "sha256_anterior": "92c11fa4d6025393965be6f9311d5b6de34940bf6ef165166bc631467a667339",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/3ca676bd4042ca30aaf2d42a444963444595190ad38f7836d44662f3996b72fa.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-705-2025-sapl-726.md",
+      "sha256_anterior": "d8fb8dac510513d449cd866e60a1d917d3f5ae15349a065c9dc60443e9df50f2",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/e5ad02807cee8560bd7a72ed8d71d6d09b520a4eddb279e25ab1a0aa48447002.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-708-2025-sapl-727.md",
+      "sha256_anterior": "b723d58ba2267e462b31d86cdeaedb3735329af17c4549b7c45ab770c59503a1",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/6d5e1f0d74975c0b3853a9f97c3d4739000adca63693c70aef88515c6d439cb0.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-716-2025-sapl-660.md",
+      "sha256_anterior": "53a83829fa9edf3ac522f3b610e63e6fac65cbe5225005258ad2b8262127b7c7",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/552f09c5c47f2d4f2c0cf6390878138b59df6755a7b2824eff8234daa28287c4.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-470-2013-sapl-440.md",
+      "sha256_anterior": "c7635a2b5a6aeafa02640dfd413740cf1a9431ab960d737a94bb49b7a45714eb",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/7d0c51695b603e1739570683f95c999afeea98514396c2a729af5a21bc6c1e4f.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1995/resolucoes-1-1995-sapl-763.md",
+      "sha256_anterior": "a1131a62255d4c6738b07ad8e4866ef9c247bcc47e313cb276f60b3e11505d08",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/3f2f310f9d119cd77778bf055c331d61e27bcc00644cd97bb1a59d55f35c6a97.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1996/resolucoes-1-1996-sapl-746.md",
+      "sha256_anterior": "8c749eba9cf19ec0449d66fa5c6cebb1ee553bda6a91a06aadd272201464043a",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/7c92ab816f0483212bef03ef24cb4e3a60955c6742ac9e1204fc5b18ec5aec70.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-2-1997-sapl-755.md",
+      "sha256_anterior": "0e4d9149e2caa2da22f7a2cb10e8b141d50819bf25f415caf66d8d732798c998",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/799fc01a3ce05c0606e7a97e40b94e95e35a1f883ea6dda027970c5b703fcf41.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-4-1997-sapl-757.md",
+      "sha256_anterior": "969632ea3529daf61ada1d3b0ffef2329082bd381e01e59ed0758a017c5e63dc",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/da0c1462a3d1a127a90b8a92f4d74b043ea70f926146513af829b11427f665d1.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2004/resolucoes-2-2004-sapl-754.md",
+      "sha256_anterior": "31042882ed313c8e043d2ae97e7f82e3340aaadf1c24a7249f81edc77a2cff87",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/a87254ea434514c5fcc8669dae9c42d5922a7ea9488af580755a7790d4eaae3f.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1-2006-sapl-751.md",
+      "sha256_anterior": "c2592a964c73e8300d2e6ba612de0b680d4de03c424206aa4d368c2b633f81ad",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/7d47ce52fde6c7c0dfd907d54e5baaf6ec495ac24690af18c0ab35275b602615.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2010/resolucoes-1-2010-sapl-752.md",
+      "sha256_anterior": "34eab56178736a85882fbdcb4de861ee9da8f8444f7175e09758d4e105be24af",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/2042e24155a1080473bb0094d5fecddf49c69b163f47af87f4a36729164e533d.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-2-2021-sapl-753.md",
+      "sha256_anterior": "6089562c8c9083d71839614d54ce54ceb62dc471bef1991ed4fe7365aceb6843",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/21c85a1884037a68438c7ae410595d04f566681b34c430296e169f18ae55d42d.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3-2021-sapl-756.md",
+      "sha256_anterior": "d439593c2b8fc37a832d32430fd43cbe4ac1e47c24944a594741715ed7ec263a",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 2"
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-5-2021-sapl-758.md",
+      "sha256_anterior": "ed5f14b0fe53e1618994fe7eec75c39fcad81ea96cc782c498a948fbf26fd2d8",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/bbbf1eda288d8d546a3462c66a67d7bd058f8ee37f60f2b78600a968a5f06cc8.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-6-2022-sapl-759.md",
+      "sha256_anterior": "37d6aef62669a118a51efc584ecc045da83af030ff090e3a057813f6775666ed",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/43d2eab7001ead5f8a7f196a4ef8e0bccd64825efc3cb830cff576b094a8f3ad.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-10-2024-sapl-765.md",
+      "sha256_anterior": "5034daff1b5dd0c82996b2978f4af1408d0ab2f91032b34367c1588a24dffffd",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/0afee862f0dd4fd57d6eb5452897c1803482d7848c957cbeb46089fb0532f48c.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8-2024-sapl-761.md",
+      "sha256_anterior": "f667a0723d3cad90e735bc53657690bf8300c94beb57c42c01b205cfd49385ea",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/edd8fb7bc100a2c590e1bb28542dd8975bb5d9461729d23ea3c9ebc4210763bf.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-9-2024-sapl-764.md",
+      "sha256_anterior": "0d5ce0c3c88f1adb725b6f1c6f9d66d3261cba45cdff50dc23f916fa8ab912ad",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/715ffe8d7bb578ec02d9d5a0af77b312f49286a080f8c0c1f719231ea4e01896.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2026/resolucoes-1-2026-sapl-750.md",
+      "sha256_anterior": "71dd54cd25c6fa831267012075e4e62a6c1d56d11d92efef1c19ab9e7e32e953",
+      "aprovado": false,
+      "pendencia": "'municipais/_lotes/20261020-escala-sapl-0002-layout-integral/a045961912b9c447e297718a4c7c865b1d5acaeda34a9ab8b4088e84fdd80c81.anterior.md' is not in the subpath of '/Volumes/ExternalSSD/GitHub/constituicao' OR one path is relative and the other is absolute."
+    }
+  ]
+}

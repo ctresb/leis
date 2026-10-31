@@ -1,0 +1,55 @@
+{
+  "atualizado_em": "2026-10-20T19:53:48.417546",
+  "coordenacao": "Não usar Git. Não tocar plano/WORKLOG/relatórios. Main publica listas exatas. Continuar lotes seguintes sem esperar.",
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "entregas": [
+    {
+      "registro": "municipais/_lotes/entrega-sapl-20261020-15458.json",
+      "arquivos": 15458
+    },
+    {
+      "lista": "municipais/_lotes/20261020-sapl-novos/entrega-1386.paths.txt",
+      "arquivos": 1386
+    },
+    {
+      "lista": "jurisprudencia/_lotes/20261020-stm/lote-0001.paths.txt",
+      "arquivos": 15
+    },
+    {
+      "lista": "jurisprudencia/_lotes/20261020-bnp-stf/lote-0001.paths.txt",
+      "arquivos": 1745
+    },
+    {
+      "lista": "jurisprudencia/_lotes/20261020-bnp-outros/lote-0001.paths.txt",
+      "arquivos": 386
+    },
+    {
+      "lista": "municipais/_lotes/20261020-capitais/lote-0001.paths.txt",
+      "arquivos": 1
+    }
+  ],
+  "ativos": [
+    {
+      "pid": 27663,
+      "comando": "python3 -I scripts/fila_organicas_sapl.py --modo legislacao --trabalhadores4",
+      "log": "_log_organicas_legislacao_continuacao_20261020.txt"
+    },
+    {
+      "pid": 32825,
+      "comando": "Python bundled -I scripts/fila_reconciliacao_municipal.py --inventario municipais/_indice/inventario-continuacao-20261020.json --saida municipais/_indice/_reconciliacao-continuacao-20261020 --trabalhadores2",
+      "log": "_log_reconciliacao_continuacao_20261020.txt"
+    },
+    {
+      "pid": 40696,
+      "comando": "python3 -I scripts/baixar_organicas_sapl.py --host sapl.cmm.am.gov.br --modo organicas --rps1",
+      "log": "_log_organicas_capital_manaus_continuacao_20261020.txt"
+    }
+  ],
+  "pendentes": [
+    "Auditar próximos arquivos SAPL inéditos excluindo baseline e todas listas entregues; snapshot inicial é /tmp/municipal-pendentes-iniciais-20261020.txt.",
+    "Manaus: fonte oficial atual sapl.cmm.am.gov.br; tipo Loman/Emenda à Loman reconhecido. Revisar data/identidade do registro6591 assim que capturar (cadastroLoman2de18/01/2005; não inferir promulgação original).",
+    "Diários: somente preparação nesta fase; sem aplicação nem publicação de candidatos pendentes;1333PDFs com calendário,450sem calendário retidos. Geometria alerta para rotação/colunas/tabelas e classificador cobra ano explícito. Não alterar scriptsfingerprintados enquanto filaativa.",
+    "TSE portal oficial retornou403 ao cliente normal; não contornar. Há índice paginado webvisível mas sem arquivo bruto obtido. Evidência em jurisprudencia/_fonte/tse/bloqueio-http-20261020.json.",
+    "Recife compilação2024obtida oficialmente via Transparência;142p/39249tokens idênticos após margens; data04/04/1990comprovada na capa. Fonteprincipal403 registrado. Não afirmar atualizado2026."
+  ]
+}

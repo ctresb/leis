@@ -1,0 +1,176 @@
+---
+titulo: "Lei Ordinária nº 1.569, de 27 de agosto de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1569"
+data: "1990-08-27"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4908"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4991/text"
+sha256_fonte: "0d36ddf99f0f1efcc68eec7e9533675bb6a3bc13ec67b6451d4ae336bb1fd3cc"
+sha256_texto: "6b2ffb00072dfd7f2639bb1b4ecfdb01bd53ed67d26361d76b79a6b5b67b9a96"
+capturado_em_fonte: "2026-10-27T21:57:49.682136-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.569, de 27 de agosto de 1990
+
+ABRE CRÉDITO SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DO CABO, ESTADO DE PERNAMBUCO, SR. ERONIDES FRANCISCO SOARES, NO USO DE SUAS ATRIBUIÇÕES LEGAIS;
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI.
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir Crédito Suplementar no valor de CR$ 54.900.000,00 (Cinquenta e Quatro Milhões e Novecentos Mil Cruzeiros) para atender às seguintes Dotações Orçamentárias:
+
+
+**1000 - CÂMARA MUNICIPAL**
+
+**01010012.0.1** - Manutenção dos Serviços da Câmara
+
+**3.1.2.0** - Material de Consumo – CR$ 350.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 1.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 500.000,00
+
+**15814862.08** - Proventos a Inativos
+
+**3.2.5.1** - Inativos – CR$ 200.000,00
+
+**1100 - GABINETE DO PREFEITO**
+
+**03070202.12** - Manutenção dos Serviços do Gabinete
+
+**3.1.1.1** - Pessoal Civil – CR$ 2.000.000,00
+
+**1103 - DISTRITO DE JUÇARAL E SANTO AGOSTINHO**
+
+**03070212.17** - Manutenção da Administração Distrital
+
+**3.1.1.1** - Pessoal Civil – CR$ 2.000.000,00
+
+**1300 - PROCURADORIA JURÍDICA**
+
+**02040142.21** - Manutenção dos Serviços de Procuradoria
+
+**3.1.1.1** - Pessoal Civil – CR$ 200.000,00
+
+**1600 - SECRETARIA DE SAÚDE E ASSISTÊNCIA SOCIAL**
+
+**10603261.21** - Construção, Reforma e Ampliação de Cemitérios
+
+**4.1.1.0** - Obras e Instalações – CR$ 8.000.000,00
+
+**13754262.31** - Manutenção dos Serviços da Secretaria
+
+**3.1.2.0** - Material de Consumo – CR$ 3.600.000,00
+
+**1700 - SECRETARIA DE OBRAS PÚBLICAS**
+
+**05221341.26** - Construção de Prédio P/ Func. de Serviços de Telefonistas nos Distritos
+
+**4.1.1.0** - Obras e Instalações – CR$ 300.000,00
+
+**10583231.28** - Construção de Escadarias e Muros de Arrimo
+
+**4.1.1.0** - Obras e Instalações – CR$ 5.000.000,00
+
+**10583232.33** - Manutenção dos Serviços da Secretaria
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 1.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 500.000,00
+
+**10603271.31** - Iluminação de Diversos Distritos e no Município
+
+**4.1.1.0** - Obras e Instalações – CR$ 750.000,00
+
+**10603281.32** - Reforma ou Construção de Praças e Jardins
+
+**4.1.1.0** - Obras e Instalações – CR$ 2.000.000,00
+
+**1800 - SECRETARIA DE TRANSPORTES E SERVIÇOS URBANOS**
+
+**10603252.35** - Manutenção dos Serviços da Secretaria
+
+**3.1.2.0** - Material de Consumo – CR$ 1.000.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 1.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 6.000.000,00
+
+**2000 - SECRETARIA DE TURISMO, CULTURA E ESPORTES**
+
+**03070212.37** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 1.080.000,00
+
+**2100 - SECRETARIA DE ADMINISTRAÇÃO**
+
+**03070212.40** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 3.000.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 500.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 2.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 500.000,00
+
+**03070211.63** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 950.000,00
+
+**15824922.43** - Contribuição P/ a Previdência Social, IAPAS, FGTS, IPSEP
+
+**3.1.1.3** - Obrigações Patronais – CR$ 2.000.000,00
+
+**2200 - SECRETARIA DE FINANÇAS**
+
+**03080302.46** - Manutenção dos Serviços da Secretaria
+
+**3.1.2.0** - Material de Consumo – CR$ 50.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 6.000.000,00
+
+**03080332.48** - Encargos da Dívida Interna
+
+**3.2.6.2** - Outros Encargos da Dívida Contratada – CR$ 2.000.000,00
+
+**03080332.49** - Pagamento de Dívida Contratada
+
+**4.3.5.1** - Amortização de Dívida Contratada – CR$ 2.000.000,00
+
+**TOTAL:** CR$ 54.900.000,00
+
+
+Art. 2º.
+
+Para abertura do Crédito de que trata o artigo anterior, serão utilizados os recursos do Excesso de Arrecadação.
+
+
+Pelo Excesso: CR$ 54.900.000,00
+
+
+Art. 3º.
+
+Esta LEI entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 27 de Agosto de 1990.
+
+ERONIDES FRANCISCO SOARES
+
+PREFEITO
+

@@ -1,0 +1,93 @@
+---
+titulo: "Lei Ordinária nº 7.138, de 01 de junho de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7138"
+data: "2022-06-01"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7762"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/68/text"
+sha256_fonte: "e9190214f10632f65cf99711f3957caba4e52ffc4da7993f1106594885712faa"
+sha256_texto: "3b2400138cc7c215184a8129e5ed761e844ec336d56ce9a64502af311f329eb1"
+capturado_em_fonte: "2026-10-27T18:05:37.290606-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.138, de 01 de junho de 2022
+
+DISPÕE SOBRE A INCLUSÃO DE PARÁGRAFO 3º AO ARTIGO 1º E §§ 1º, 2º, 3º e 4º AO ARTIGO 2º DA LEI MUNICIPAL N° 7.106, DE 23 DE MARÇO DE 2022, NOS TERMOS EM QUE ESPECIFICA
+
+Projeto de Lei n° 63/2022, de autoria do Prefeito Municipal
+
+
+Eu, **LEANDRO MAFFEIS MILANI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Acrescenta o parágrafo 3º ao artigo 1º da Lei Municipal nº 7.106, de 23 de março de 2022, que vigorará com a seguinte redação:
+
+
+Art. 2º.
+
+Ficam acrescidos os §§ 1º, 2º, 3º e 4º ao artigo 2º da Lei Municipal nº 7.106, de 23 de março de 2022, que vigorará com a seguinte redação:
+
+
+Art. 3º.
+
+Para cobertura das despesas decorrentes da execução desta Lei fica o Poder Executivo autorizado a abrir por decreto, crédito adicional suplementar na Lei n° 7.077/2.021 - Lei Orçamentária de 2022, no valor de R$ 1.910.400,00 (Um milhão, novecentos e dez mil e quatrocentos reais), com a seguinte classificação contábil.  
+02.00.00 - PODER EXECUTIVO  
+02.03.00 - SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+FUNÇÃO: 04 - Administração  
+SUB-FUNÇÃO: 122 - Administração Geral  
+PROGRAMA: 0006 - Gestão Administrativa da Secretaria de Administração  
+ATIVIDADE: 2.016 - Encargos Gerais do Município  
+Elemento Econômico: 3.3.90.08.00 - Outros Benefícios Assistenciais do Servidor e do Militar  
+Ficha: 96
+
+
+Art. 4º.
+
+O crédito adicional suplementar de que se trata o artigo 3° desta Lei, correrá à conta de recursos especificados no art. 43, § 1°, inciso III, da Lei Federal n° 4.320, de 17 de março de 1.964, mediante anulação parcial da dotação da Prefeitura Municipal, abaixo, consubstanciada no orçamento corrente:  
+SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+02.03.00 04.122.0006.2.016 / 3.3 .90.46.00 Ficha n° 99 Fonte: 01 1.910.400,00
+
+
+Art. 5º.
+
+Em conformidade com o artigo 5º, da Lei nº 7.067, de 26/11/2021, as alterações constantes neste Decreto, serão efetuadas concomitantemente no P.P.A. - Plano Plurianual e L.D.O. - Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, em primeiro de junho de dois mil e vinte e dois.
+
+**LEANDRO MAFFEIS MILANI**
+
+**Prefeito Municipal**
+
+**RUTH FERRAZ**
+
+**Secretária Adjunta de Administração**
+
+**ANTÔNIA LUCILENE FERREIRO JARDIM**
+
+**Secretária Municipal de Planejamento e Finanças**
+
+Publicado na Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, em primeiro de junho de dois mil e vinte e dois, por afixação no local de costume.
+
+**VICTÓRIA ZOCANTE DOS ANJOS**
+
+**Secretária Adjunta de Governo**
+

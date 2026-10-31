@@ -1,0 +1,85 @@
+---
+titulo: "DECRETO Nº 072 DE 04 DE MAIO DE 2026."
+uf: "AM"
+municipio: "NOVO ARIPUANÃ"
+tipo: "Decreto"
+numero: "072"
+data: 2026-05-04
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 07/05/2026"
+data_publicacao: 2026-05-07
+codigo_identificador: "F88E3BED"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118853_2026-05-06_bc89b4973b3ef844e25afe128d7968e3.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 072 DE 04 DE MAIO DE 2026.
+
+DECRETO Nº 072 DE 04 DE MAIO DE 2026.
+DISPÕE SOBRE A NOMEAÇÃO DO SENHOR
+JOÃO PAULO WECKNER GONÇALVES, PARA
+EXERCER O CARGO DE PROVIMENTO
+EFETIVO DE PEDAGOGO.
+O PREFEITO MUNICIPAL DE NOVO ARIPUANÃ, ESTADO
+DO AMAZONAS, o Senhor RAYMUNDO LOPES DE
+ALBUQUERQUE SOBRINHO, no uso de suas atribuições legais,
+conferidas pela Lei Orgânica Municipal;
+CONSIDERANDO o disposto no artigo 09, parágrafo único, da Lei
+Municipal nº 003 de 14 de maio de 2015, que dispõe sobre o plano de
+cargo, carreira e remuneração do Servidores em Educação do
+Município de Novo Aripuanã;
+CONSIDERANDO o resultado final do Concurso Público da
+Secretaria Municipal de Educação – SEMED, Edital nº 001-2022 da
+Prefeitura Municipal de Novo Aripuanã, homologado por meio do
+Decreto nº 021-2023 de 03 de março de 2023 e Publicado no Diário
+Oficial dos Municípios no dia 06 de março de 2023;
+
+O PREFEITO MUNICIPAL DE NOVO ARIPUANÃ, ESTADO
+DO AMAZONAS, o Senhor RAYMUNDO LOPES DE
+ALBUQUERQUE SOBRINHO, no uso de suas atribuições legais,
+conferidas pela Lei Orgânica Municipal;
+CONSIDERANDO o disposto no artigo 09, parágrafo único, da Lei
+Municipal nº 003 de 14 de maio de 2015, que dispõe sobre o plano de
+cargo, carreira e remuneração do Servidores em Educação do
+Município de Novo Aripuanã;
+CONSIDERANDO o resultado final do Concurso Público da
+Secretaria Municipal de Educação – SEMED, Edital nº 001-2022 da
+Prefeitura Municipal de Novo Aripuanã, homologado por meio do
+Decreto nº 021-2023 de 03 de março de 2023 e Publicado no Diário
+Oficial dos Municípios no dia 06 de março de 2023;
+DECRETA
+Art. 1º - Nomear o senhor ROBERTO PIMENTA GOMES, para
+exercer o Cargo de Provimento Efetivo de Professor de Ciências PROF-LPL - 20 horas, Zona Urbana, pertencente ao Quadro de
+Pessoal da Secretaria Municipal de Educação, em decorrência de sua
+aprovação no Concurso Público da Prefeitura Municipal de Novo
+Aripuanã, Edital nº 001-2022 -, conforme o disposto no artigo 9, §
+único, da Lei Municipal nº 003/2015.
+Art. 2°. Determinar a Secretaria Municipal de Administração que
+adote as medidas cabíveis para o fiel cumprimento deste Decreto.
+
+DECRETA
+
+Art. 3°. Este Decreto entra em vigor na data de sua publicação.
+
+Art. 1º - Nomear o senhor JOÃO PAULO WECKNER
+GONÇALVES, para exercer o Cargo de Provimento Efetivo de
+Pedagogo PED-LPL - 20 horas, pertencente ao Quadro de Pessoal da
+Secretaria Municipal de Educação, em decorrência de sua aprovação
+no Concurso Público da Prefeitura Municipal de Novo Aripuanã,
+
+CIENTIFIQUE-SE, CUMPRA-SE E PUBLIQUE-SE.
+GABINETE DO PREFEITO MUNICIPAL DE NOVO
+ARIPUANÃ, ESTADO DO AMAZONAS, aos quatro dias do mês
+de maio do ano de dois mil e vinte e seis.
+
+www.diariomunicipal.com.br/aam
+
+86
+
+Amazonas , 07 de Maio de 2026 • Diário Oficial Eletrônico dos Municípios do Estado do Amazonas • ANO XVII | Nº 4100
+RAYMUNDO LOPES DE ALBUQUERQUE SOBRINHO
+Prefeito Municipal
+
+Publicado por:
+Maria Olímpia Dos Santos Passos

@@ -1,0 +1,616 @@
+{
+  "host": "sapl.laranjalpaulista.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/anexo_lo_3286.pdf da norma Lei Ordinária nº 3.286, de 15 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2019/1/anexo_lo_3286.pdf",
+      "ano": 2019,
+      "norma": 4012
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/lei_3.287_-_altera_ppa.pdf da norma Lei Ordinária nº 3.287, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2019/2/lei_3.287_-_altera_ppa.pdf",
+      "ano": 2019,
+      "norma": 4013
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/lei_3.288-altera_ldo.pdf da norma Lei Ordinária nº 3.288, de 10 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2019/3/lei_3.288-altera_ldo.pdf",
+      "ano": 2019,
+      "norma": 4014
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/untitled_20200604_101908.pdf da norma Ato da Presidência nº 5, de 04 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2020/4/untitled_20200604_101908.pdf",
+      "ano": 2020,
+      "norma": 4070
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/anexo_lo_3309-2020.pdf da norma Lei Ordinária nº 3.309, de 24 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexos III, IV e V",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2020/5/anexo_lo_3309-2020.pdf",
+      "ano": 2020,
+      "norma": 4089
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/6/anexo_ii_-_lo_3310-2020.pdf da norma Lei Ordinária nº 3.310, de 24 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - LDO 2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2020/6/anexo_ii_-_lo_3310-2020.pdf",
+      "ano": 2020,
+      "norma": 4090
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/7/anexo_3315.pdf da norma Lei Ordinária nº 3.315, de 23 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2020/7/anexo_3315.pdf",
+      "ano": 2020,
+      "norma": 4099
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/8/anexo_3316.pdf da norma Lei Ordinária nº 3.316, de 23 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2020/8/anexo_3316.pdf",
+      "ano": 2020,
+      "norma": 4100
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/anexo_3317.pdf da norma Lei Ordinária nº 3.317, de 23 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2020/9/anexo_3317.pdf",
+      "ano": 2020,
+      "norma": 4101
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/10/anexo_3184.pdf da norma Lei Ordinária nº 3.184, de 09 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexos - PPA 2018/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2017/10/anexo_3184.pdf",
+      "ano": 2017,
+      "norma": 3721
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/anexo_3319.pdf da norma Lei Ordinária nº 3.319, de 09 de fevereiro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexos I a IV - Lei 3319/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/11/anexo_3319.pdf",
+      "ano": 2021,
+      "norma": 4110
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/12/publicacao_ato_6_2021.pdf da norma Ato nº 6, de 30 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/12/publicacao_ato_6_2021.pdf",
+      "ano": 2021,
+      "norma": 4146
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/13/publicacao_dl_2_2021.pdf da norma Decreto Legislativo nº 2, de 27 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/13/publicacao_dl_2_2021.pdf",
+      "ano": 2021,
+      "norma": 4143
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/14/publicacao_dl_3_2021.pdf da norma Decreto Legislativo nº 3, de 27 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/14/publicacao_dl_3_2021.pdf",
+      "ano": 2021,
+      "norma": 4144
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/15/publicacao_dl_4_2021.pdf da norma Decreto Legislativo nº 4, de 27 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/15/publicacao_dl_4_2021.pdf",
+      "ano": 2021,
+      "norma": 4145
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/16/doem_-_ano_i_-_ed._17.pdf da norma Resolução nº 4, de 11 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Publicação no DOEM",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/16/doem_-_ano_i_-_ed._17.pdf",
+      "ano": 2021,
+      "norma": 4149
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/17/publicacao_doem.pdf da norma Lei Ordinária nº 3.342, de 16 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/17/publicacao_doem.pdf",
+      "ano": 2021,
+      "norma": 4157
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/18/publicacao_doem_-_emenda_lom_8.pdf da norma Emenda à Lei Orgânica nº 8, de 10 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Pg. 4, Ano I, Ed. 46",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/18/publicacao_doem_-_emenda_lom_8.pdf",
+      "ano": 2021,
+      "norma": 4159
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/19/publicacao_doem_-_resolucao_5.pdf da norma Resolução nº 5, de 10 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Pg. 4, Ano I, Ed. 46",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/19/publicacao_doem_-_resolucao_5.pdf",
+      "ano": 2021,
+      "norma": 4160
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/20/publicacao_resolucao_6.pdf da norma Resolução nº 6, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico do Município",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/20/publicacao_resolucao_6.pdf",
+      "ano": 2021,
+      "norma": 4163
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/21/publicacao_dl_5.pdf da norma Decreto Legislativo nº 5, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico do Município",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/21/publicacao_dl_5.pdf",
+      "ano": 2021,
+      "norma": 4161
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/22/publicacao_dl_6.pdf da norma Decreto Legislativo nº 6, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico do Município",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/22/publicacao_dl_6.pdf",
+      "ano": 2021,
+      "norma": 4162
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/23/publica_doem_lo_3344.pdf da norma Lei Ordinária nº 3.344, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/23/publica_doem_lo_3344.pdf",
+      "ano": 2021,
+      "norma": 4164
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/24/publica_doem_lo_3345.pdf da norma Lei Ordinária nº 3.345, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/24/publica_doem_lo_3345.pdf",
+      "ano": 2021,
+      "norma": 4165
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/25/publica_doem_lo_3346.pdf da norma Lei Ordinária nº 3.346, de 24 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/25/publica_doem_lo_3346.pdf",
+      "ano": 2021,
+      "norma": 4166
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/26/publica_doem_lo_3347.pdf da norma Lei Ordinária nº 3.347, de 25 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/26/publica_doem_lo_3347.pdf",
+      "ano": 2021,
+      "norma": 4167
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/27/publica_doem_lo_3348.pdf da norma Lei Ordinária nº 3.348, de 25 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/27/publica_doem_lo_3348.pdf",
+      "ano": 2021,
+      "norma": 4168
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/28/publicacao_doem_lc_251.pdf da norma Lei Complementar nº 251, de 13 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Edição 17/09/2021, Ano I, Edição 59",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/28/publicacao_doem_lc_251.pdf",
+      "ano": 2021,
+      "norma": 4169
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/29/publicacao_doem_lc_250.pdf da norma Lei Complementar nº 250, de 15 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Edição 17/09/2021, Ano I, Edição 59",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/29/publicacao_doem_lc_250.pdf",
+      "ano": 2021,
+      "norma": 4156
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/30/publicacao_doem_lo_3349.pdf da norma Lei Ordinária nº 3.349, de 13 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Edição 17/09/2021, Ano I, Edição 59",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/30/publicacao_doem_lo_3349.pdf",
+      "ano": 2021,
+      "norma": 4170
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/31/publicacao_doem_lo_3350.pdf da norma Lei Ordinária nº 3.350, de 13 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Edição 17/09/2021, Ano I, Edição 59",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/31/publicacao_doem_lo_3350.pdf",
+      "ano": 2021,
+      "norma": 4171
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/32/publicacao_doem_lo_3351.pdf da norma Lei Ordinária nº 3.351, de 13 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Edição 17/09/2021, Ano I, Edição 59",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/32/publicacao_doem_lo_3351.pdf",
+      "ano": 2021,
+      "norma": 4172
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/33/publicacao_doem_lo_3352.pdf da norma Lei Ordinária nº 3.352, de 13 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Edição 17/09/2021, Ano I, Edição 59",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/33/publicacao_doem_lo_3352.pdf",
+      "ano": 2021,
+      "norma": 4173
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/34/publicacao.doem.pre7.pdf da norma Resolução nº 7, de 28 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Ed. 63, Ano I, 29/09/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/34/publicacao.doem.pre7.pdf",
+      "ano": 2021,
+      "norma": 4174
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/35/publicacao.doem.dl.7.pdf da norma Decreto Legislativo nº 7, de 27 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Ed. 63, Ano I, 29/09/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/35/publicacao.doem.dl.7.pdf",
+      "ano": 2021,
+      "norma": 4175
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/36/publicacao.doem.dl.10.pdf da norma Decreto Legislativo nº 10, de 28 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Ed. 63, Ano I, 29/09/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/36/publicacao.doem.dl.10.pdf",
+      "ano": 2021,
+      "norma": 4178
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/37/publicacao.doem.dl.9.pdf da norma Decreto Legislativo nº 9, de 28 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Ed. 63, Ano I, 29/09/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/37/publicacao.doem.dl.9.pdf",
+      "ano": 2021,
+      "norma": 4177
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/publicacao.doem.dl.8.pdf da norma Decreto Legislativo nº 8, de 28 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Ed. 63, Ano I, 29/09/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/38/publicacao.doem.dl.8.pdf",
+      "ano": 2021,
+      "norma": 4176
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/39/publicacao_doem.pdf da norma Lei Ordinária nº 3.353, de 04 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Publicação no DOEM - 08 de outubro de 2021, Ano I | Edição 67",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/39/publicacao_doem.pdf",
+      "ano": 2021,
+      "norma": 4182
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/40/publicacao_doem_.pdf da norma Lei Ordinária nº 3.354, de 14 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal - Ano I, Edição 70",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/40/publicacao_doem_.pdf",
+      "ano": 2021,
+      "norma": 4184
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/41/publicacao_doem.pdf da norma Lei Complementar nº 252, de 14 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/41/publicacao_doem.pdf",
+      "ano": 2021,
+      "norma": 4183
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/42/publicacao_doem_-_lo_3357.pdf da norma Lei Ordinária nº 3.357, de 26 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/42/publicacao_doem_-_lo_3357.pdf",
+      "ano": 2021,
+      "norma": 4187
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/43/publicacao_doem_-_lo_3358.pdf da norma Lei Ordinária nº 3.358, de 26 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/43/publicacao_doem_-_lo_3358.pdf",
+      "ano": 2021,
+      "norma": 4188
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/44/publicacao_doem_-_lo_3359.pdf da norma Lei Ordinária nº 3.359, de 26 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/44/publicacao_doem_-_lo_3359.pdf",
+      "ano": 2021,
+      "norma": 4189
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/49/publicacao_doem_-_em._9_lom.pdf da norma Emenda à Lei Orgânica nº 9, de 05 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/49/publicacao_doem_-_em._9_lom.pdf",
+      "ano": 2021,
+      "norma": 4186
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/51/publicacao_lei_3360_-_ldo.pdf da norma Lei Ordinária nº 3.360, de 26 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal, incluindo os Anexos da Lei",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/51/publicacao_lei_3360_-_ldo.pdf",
+      "ano": 2021,
+      "norma": 4190
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/52/publicacao_lei_3361_-_ppa.pdf da norma Lei Ordinária nº 3.361, de 26 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal, incluindo os Anexos da Lei",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/52/publicacao_lei_3361_-_ppa.pdf",
+      "ano": 2021,
+      "norma": 4191
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/53/publicacao_doem.pdf da norma Lei Complementar nº 253, de 26 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal - Ano I, Ed. 78, de 11/11/2021",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/53/publicacao_doem.pdf",
+      "ano": 2021,
+      "norma": 4192
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/54/publicacao_doem.pdf da norma Decreto Legislativo nº 11, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Quarta-feira, 24 de novembro de 2021 Ano I | Edição 83",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/54/publicacao_doem.pdf",
+      "ano": 2021,
+      "norma": 4195
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/55/publicacao_doem.pdf da norma Lei Ordinária nº 3.362, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/55/publicacao_doem.pdf",
+      "ano": 2021,
+      "norma": 4196
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/56/anexo_lei_3368.pdf da norma Lei Ordinária nº 3.368, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Anexos - Planilhas",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/56/anexo_lei_3368.pdf",
+      "ano": 2021,
+      "norma": 4205
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/57/publicacao_doem.pdf da norma Decreto Legislativo nº 12, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/57/publicacao_doem.pdf",
+      "ano": 2021,
+      "norma": 4203
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/58/publicacao_doem_-_vaexec.pdf da norma Lei Complementar nº 254, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal - Ano II, Ed. 95, de 04/01/2022.",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/58/publicacao_doem_-_vaexec.pdf",
+      "ano": 2021,
+      "norma": 4204
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/59/publicacao_doem_-_der.pdf da norma Lei Ordinária nº 3.369, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal - Ano II, Ed. 95, de 04/01/2022.",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/59/publicacao_doem_-_der.pdf",
+      "ano": 2021,
+      "norma": 4206
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/60/publicacao_doem_-_loa.pdf da norma Lei Ordinária nº 3.368, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico Municipal - Ano II, Ed. 95, de 04/01/2022.",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2021/60/publicacao_doem_-_loa.pdf",
+      "ano": 2021,
+      "norma": 4205
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/61/publicacao_doem.pdf da norma Decreto Legislativo nº 1, de 24 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - Segunda-feira, 24 de janeiro de 2022  | Edição 104, Ano II, p. 2",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2022/61/publicacao_doem.pdf",
+      "ano": 2022,
+      "norma": 4218
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/62/publicacao_doem.pdf da norma Lei Ordinária nº 3.370, de 24 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Oficial Eletrônico Municipal - 28 de janeiro de 2022, Ano II, Edição 108",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2022/62/publicacao_doem.pdf",
+      "ano": 2022,
+      "norma": 4220
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/63/publicacao_doem..pdf da norma Lei Complementar nº 255, de 24 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico Oficial - 28 de janeiro de 2022, Ano II, Edição 108",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2022/63/publicacao_doem..pdf",
+      "ano": 2022,
+      "norma": 4219
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/64/publicacao_doem.pdf da norma Lei Complementar nº 256, de 02 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico - Edição 114, de 7 de fevereiro de 2022, Ano II",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2022/64/publicacao_doem.pdf",
+      "ano": 2022,
+      "norma": 4225
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/publicacao_doem.pdf da norma Lei Complementar nº 257, de 02 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial Eletrônico - Edição 114, de 7 de fevereiro de 2022, Ano II",
+      "anexo_arquivo": "http://sapl.laranjalpaulista.sp.leg.br/media/sapl/public/anexonormajuridica/2022/65/publicacao_doem.pdf",
+      "ano": 2022,
+      "norma": 4226
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.laranjalpaulista.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.laranjalpaulista.sp.leg.br/55b46d3acb39653c69fc166d9f9c0e6f5947c1686f114993cd63800e069695a4.json",
+      "sha256": "40743ab2dba331ac9cd624ce5ad8634979b9643aab9faa547b9cb84e1924ec72",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.laranjalpaulista.sp.leg.br/55b46d3acb39653c69fc166d9f9c0e6f5947c1686f114993cd63800e069695a4.meta.json"
+    }
+  ],
+  "total": 60
+}

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.baraodecotegipe.rs.leg.br",
+  "metadados_unicos_observados": 7,
+  "total_api_declarado": 7,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baraodecotegipe.rs.leg.br/5b5f36627523e8bb4dd6ae963ef80d0413228ace1ff7e648d47a0cc764fec963.json",
+    "url": "https://sapl.baraodecotegipe.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.baraodecotegipe.rs.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3bf36ca949f220558bec4c35111dc5cb8d0723bf5a14bf41b95348df76e4a632",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:09:55.193166-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baraodecotegipe.rs.leg.br/98af94e9ecad2cfec2b03fd127ab7326ea473c5a7e2d90a0868b4836dd69b1a1.json",
+    "url": "https://sapl.baraodecotegipe.rs.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.baraodecotegipe.rs.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "4da96b26bbabe37ca0892431c51d03bdb8be223d15bb4c2125b7f8ac4c3fbc3f",
+    "bytes": 804,
+    "capturado_em": "2026-10-27T17:09:54.279688-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baraodecotegipe.rs.leg.br/c4600949ec13be796f828c949c92f7954e76f687ceb317a70bd77d81afee35ca.json",
+      "url": "https://sapl.baraodecotegipe.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.baraodecotegipe.rs.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d8f2bcb18566f652dcfe34a8b0d8d2d72c8a38c6c35a2ba34f3f4ca75c07e9bb",
+      "bytes": 5226,
+      "capturado_em": "2026-10-27T17:09:58.224562-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

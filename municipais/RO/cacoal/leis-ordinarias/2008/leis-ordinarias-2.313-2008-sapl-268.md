@@ -1,0 +1,376 @@
+---
+titulo: "Lei Ordinária-PMC nº 2.313, de 21 de maio de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.313"
+data: "2008-05-21"
+municipio: "Cacoal"
+uf: "RO"
+codigo_ibge: "1100049"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2021-11-30; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacoal.ro.leg.br/norma/268"
+fonte_texto: "https://sapl.cacoal.ro.leg.br/ta/48/text"
+sha256_fonte: "77c5cde76ac9f881920c8e942aac25cd337fc87ca80f36d4e624e32f546bd0bb"
+sha256_texto: "a5f41f5af678d3cc766d7784021e192bdd07a87220995055c776dbc2281af6e4"
+capturado_em_fonte: "2026-10-27T21:12:43.602682-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária-PMC nº 2.313, de 21 de maio de 2008
+
+CRIA O CONSELHO MUNICIPAL DA JUVENTUDE E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**A PREFEITA MUNICIPAL DE CACOAL,** no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal aprovou e ela sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — Do Conselho Municipal da Juventude
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal da Juventude em Cacoal, como órgão colegiado de caráter consultivo, deliberativo, permanente, com a finalidade de assegurar o pleno exercício dos direitos individuais e sociais da juventude.
+
+
+Art. 2º.
+
+Ao Conselho Municipal da Juventude compete:
+
+
+I –
+
+estudar, discutir, propor, aprovar planos, programas, projetos, formular e articular Políticas Públicas para a Juventude no âmbito do município;
+
+
+II –
+
+debater a realidade social, econômica, política e cultural de interesse da Juventude;
+
+
+III –
+
+sugerir ao Poder Público propostas de Políticas Públicas, projetos de lei e outras iniciativas que visem assegurar e ampliar os direitos da juventude;
+
+
+IV –
+
+propor e acompanhar políticas globais e localizadas para a juventude a fim de garantir o efetivo e pleno exercício da cidadania;
+
+
+V –
+
+analisar o cumprimento da legislação voltada a juventude na implementação de políticas de juventude;
+
+
+VI –
+
+debater a promoção de intercâmbio com entidades similares, públicas ou privadas, com objetivos de implantar programas e convênios relacionados a juventude;
+
+
+VII –
+
+elaborar seu Regimento Interno.
+
+
+Parágrafo único
+
+O Regimento Interno de que trata o inciso VII deste artigo, será elaborado no prazo de sessenta dias, após a constituição da primeira composição do Conselho Municipal da Juventude.
+
+
+#### CAPÍTULO II — Da Composição do Conselho
+
+
+Art. 3º.
+
+O Conselho Municipal da Juventude será composto por 14 membros e respectivos suplentes, com mandato de dois anos, permitida uma recondução, assim distribuídos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+I –
+
+07 (sete) representantes do Poder Público Municipal, sendo:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+a)
+
+01 (um) representante da Secretaria Municipal de Educação – SEMED;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+b)
+
+01 (um) representante da Secretaria Municipal de Saúde – SEMUSA;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+c)
+
+01(um) representante da Fundação Cultural de Cacoal – FUNCAL;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+d)
+
+01 (um) representante da Secretaria Municipal de Assistência Social e Trabalho – SEMAST
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+e)
+
+01(um) representante da Secretaria Municipal de Planejamento – SEMPLAN;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+f)
+
+01(um) representante do Serviço Autônomo de Água e Esgoto de Cacoal - SAAE
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+g)
+
+01 (um) representante da Autarquia Municipal de Esportes de Cacoal - AMEC.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+II –
+
+07 (sete) representantes da Sociedade Civil Organizada, sendo:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+a)
+
+01 (um) representante da Pastoral da Juventude – PJ;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+b)
+
+01 (um) representante do STTR – Sindicato dos Trabalhadores e Trabalhadoras de Cacoal;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+c)
+
+01(um) representante da URES – União Rondoniense dos Estudantes Secundaristas;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+d)
+
+01 (um) representante do Grupo Arco Íris de Rondônia – GAYRO;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+e)
+
+01 (um) representante da Comunidade Indígena – Associação Fórum das Organizações do Povo Paiter Suruí;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+f)
+
+01 (um) representante de Estudantes do Ensino Superior;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+g)
+
+01 (um) representante da OAB/RO Jovem;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 4.916, de 30 de novembro de 2021.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+j)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 2.816, de 10 de junho de 2011.
+
+
+Art. 4º.
+
+Os representantes eleitos e ou indicados, titulares e suplentes, serão nomeados pelo Poder Executivo Municipal respeitando as eleições e ou indicações das entidades e instituições, sendo homologados e nomeados através de decreto.
+
+
+Art. 5º.
+
+A função de membro do Conselho Municipal da Juventude será considerada serviço público relevante e não será remunerada.
+
+
+#### CAPÍTULO III — Do funcionamento do Conselho Municipal da Juventude
+
+
+Art. 6º.
+
+O Conselho Municipal da Juventude possuirá a seguinte estrutura:
+
+
+I –
+
+Comissão Executiva;
+
+
+a)
+
+Presidente;
+
+
+b)
+
+Vice-Presidente;
+
+
+c)
+
+Secretário Geral;
+
+
+d)
+
+Secretário de Comunicação;
+
+
+e)
+
+Comissões constituídas pelo plenário, nos termos do Regimento Interno;
+
+
+f)
+
+Plenário.
+
+
+§ 1º
+
+A Comissão Executiva de que trata o inciso I deste artigo será eleita em votação aberta entre seus pares;
+
+
+§ 2º
+
+O Conselho Municipal da Juventude se reunirá ordinariamente, de forma mensal, convocado pelo presidente ou podendo ser convocado extraordinariamente, por solicitação de no mínimo 50% (cinqüenta por cento) de seus membros ou pelo presidente.
+
+
+#### CAPÍTULO IV — Da Conferência Municipal da Juventude
+
+
+Art. 7º.
+
+O Conselho Municipal da Juventude realizará a cada 02 (dois) anos sob sua coordenação, a sua conferência, para avaliar e propor atividades e políticas da área a serem implementadas ou já efetivadas no Município de Cacoal, garantindo sua ampla divulgação.
+
+
+§ 1º
+
+A Conferência Municipal da Juventude terá sua organização e suas normas de funcionamento definida em regimento próprio, aprovado pelo Conselho Municipal da Juventude.
+
+
+§ 2º
+
+Os representantes da sociedade civil e do Poder Público, candidatos ao Conselho Municipal da Juventude, deverão preencher os seguintes requisitos:
+
+
+I –
+
+ser portador de título de eleitor;
+
+
+II –
+
+residir em Cacoal há pelo menos um ano
+
+
+III –
+
+ter idade igual ou inferior a 29 anos (vinte e nove) anos, no momento da postulação ao cargo;
+
+
+Art. 8º.
+
+As decisões do Conselho Municipal da Juventude serão tomadas por maioria simples, exigida a presença da metade mais um de seus membros para deliberar;
+
+
+Art. 9º.
+
+O Poder Executivo proporcionará ao Conselho Municipal da Juventude suporte técnico, administrativo e financeiro necessários, garantindo-lhe condições para seu pleno e regular funcionamento.
+
+
+Art. 10.
+
+Esta lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Cacoal, 21 de maio de 2008.
+
+SUELI ARAGÃO MARCELO VAGNER PENA CARVALHO  
+Prefeita Municipal Procurador-Geral do Município OAB/RO-1171
+

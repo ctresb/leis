@@ -1,0 +1,236 @@
+A Câmara Municipal de Buritis, Estado de Minas Gerais por seus representantes aprovou, e eu, PREFEITO MUNICIPAL, usando da atribuição que lhe confere o inciso VIII, do artigo 105 da Lei Orgânica Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam criados os seguintes cargos de provimento em comissão, com os respectivos vencimentos e número de vagas na Lei Complementar nº 92 de 30.12.2013 e alterações posteriores:
+
+
+I –
+
+Coordenador de Projetos Agrícolas com vencimento de R$ 2.000,00 (dois mil reais) com 01 (uma) vaga;
+
+
+II –
+
+Coordenador dos mecânicos, com vencimento de R$ 2.000,00 (dois mil reais) com 01 (uma) vaga;
+
+
+III –
+
+Técnico de Referência do Sistema Único de Assistência Social, com vencimento de R$ 2.900,00 (dois mil e novecentos reais) com 01 (uma) vaga;
+
+
+IV –
+
+Diretor de Proteção Social especial, com vencimento de R$ 1.800,00 (hum mil e oitocentos reais) e 01 (uma) vaga;
+
+
+V –
+
+Assessor Técnico da Secretaria Executiva do SUAS, com vencimento de R$ 2.000,00 (dois mil reais) com 01 (uma) vaga;
+
+
+VI –
+
+Coordenador de Trabalho, Emprego e Renda do SUAS, com vencimento de R$ 2.000,00 (dois mil reais) e 01 (uma) vaga;
+
+
+VII –
+
+Coordenador de Convênio com a Receita Federal do Brasil, com vencimento de R$ 3.000,00 (três mil reais) e 01 (uma) vaga;
+
+
+VIII –
+
+Assessor de alimentação de Dados do Programa SUS, com vencimento de R$ 1.800,00 (mil e oitocentos reais) e 01 (uma) vaga;
+
+
+IX –
+
+Coordenador do COMPDEC - Coordenador Municipal da Defesa Civil, com 01 (uma) vaga e vencimento de R$ 2.200,00 (dois mil e duzentos reais).
+
+
+Parágrafo único
+
+As atribuições dos cargos descritos nos incisos I ao VIII e o IX estão descritos no anexo I.
+
+
+Art. 2º.
+
+Fica criada a função gratificada no quadro geral FGQG, Responsável Técnico de Laboratório, com uma vaga no valor de R$ 2.000,00 (dois mil reais).
+
+
+Art. 3º.
+
+Em virtude das alterações propostas na presente Lei ficam alterados no anexo I da Lei Complementar nº 92 de 10.12.2013 os itens 1.2 Direção e Assessoramento Superior - DAS, 1.3 Direção e Coordenação Educacional - DCE, 1.4 - Gestão Assessoramento e Chefia - GAC, 2.1 Funções de Confiança Geral - FCG, que passam a vigorar da seguinte forma:
+
+
+1.2. Direção e Assessoramento Superior - DAS
+
+<table><thead><tr><td><strong>Código</strong></td><td><strong>CARGOS EM COMISSÃO</strong></td><td><strong>VAGA</strong></td><td><strong>VENC. R$</strong></td></tr></thead><tbody><tr><td>DAS1</td><td>Chefe Dep. Obras</td><td>1</td><td>2.243,55</td></tr><tr><td>DAS2</td><td>Chefe Dep. Informática</td><td>1</td><td>2.300,00</td></tr><tr><td>DAS3</td><td>Chefe Dep. Tributos E Arrecadação</td><td>1</td><td>2.492,85</td></tr><tr><td>DAS4</td><td>Chefe Centro De Reabilitação</td><td>1</td><td>2.500,00</td></tr><tr><td>DAS5</td><td>Chefe Do Ambulatório</td><td>1</td><td>2.600,00</td></tr><tr><td>DAS6</td><td>Chefe da Regulação</td><td>1</td><td>2.800,00</td></tr><tr><td>DAS7</td><td>Chefe Dep. Financeiro</td><td>1</td><td>2.916,00</td></tr><tr><td>DAS8</td><td>Coordenador de Convênios com a Receita Federal do Brasil</td><td>1</td><td>3.000,00</td></tr><tr><td>DAS9</td><td>Chefe Dep. Recursos Humanos</td><td>1</td><td>3.200,00</td></tr><tr><td>DAS10</td><td>Controlador E Ouvidor Geral</td><td>1</td><td>3.303,02</td></tr><tr><td>DAS11</td><td>Chefe Dep. Compras E Licitações</td><td>1</td><td>3.800,00</td></tr><tr><td>DAS12</td><td>Chefe De Gabinete</td><td>1</td><td>3.863,91</td></tr><tr><td>DAS12</td><td>Assessor De Gabinete</td><td>1</td><td>3.863,91</td></tr><tr><td>DAS12</td><td>Assessor Jurídico</td><td>2</td><td>3.863,91</td></tr><tr><td>DAS12</td><td>Chefe Dep. Projetos</td><td>1</td><td>3.863,91</td></tr><tr><td>DAS13</td><td>Chefe Da Unidade Mista De Saúde</td><td>1</td><td>4.000,00</td></tr><tr><td>DAS14</td><td>Chefe Da Assessoria Jurídica</td><td>1</td><td>6.400,00</td></tr><tr><td>DAS14</td><td>Chefe Dep. Contabilidade</td><td>1</td><td>6.400,00</td></tr></tbody></table>
+
+
+1.4. Gestão Assessoramento e Chefia - GAC
+
+<table><thead><tr><td><strong>Código</strong></td><td><strong>Cargos Em Comissão</strong></td><td><strong>VAGA</strong></td><td><strong>VENC. R$</strong></td></tr></thead><tbody><tr><td>GAC1</td><td>Assessor De Secretaria</td><td>9</td><td>1.212,00</td></tr><tr><td>GAC2</td><td>Chefe do Suporte Técnico</td><td>1</td><td>1.392,99</td></tr><tr><td>GAC3</td><td>Secretaria De Gabinete</td><td>2</td><td>1.500,00</td></tr><tr><td>GAC3</td><td>Coord. De Fomento À Produção</td><td>1</td><td>1.500,00</td></tr><tr><td>GAC4</td><td>Chefe Dep. Limpeza Urbana</td><td>1</td><td>1.600,00</td></tr><tr><td>GAC4</td><td>Supervisor de Estoque</td><td>1</td><td>1.600,00</td></tr><tr><td>GAC4</td><td>Assessor De Zoonoses</td><td>3</td><td>1.600,00</td></tr><tr><td>GAC4</td><td>Chefe Dep. Cultura</td><td>1</td><td>1.600,00</td></tr><tr><td>GAC4</td><td>Chefe Dep. Almoxarifado</td><td>1</td><td>1.600,00</td></tr><tr><td>GAC4</td><td>Chefe Dep. Meio Ambiente</td><td>1</td><td>1.600,00</td></tr><tr><td>GAC4</td><td>Chefe Dep. Pecuário</td><td>1</td><td>1</td></tr><tr><td>GAC5</td><td>Chefe Dep. Agricultura Familiar</td><td>1</td><td>1.670,21</td></tr><tr><td>GAC6</td><td>Coord. de Controle de Material Farmacêutico e Hospitalar</td><td>2</td><td>1.700,00</td></tr><tr><td>GAC7</td><td>Assessor de Alimentação de Dados do Pro. SUS</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Assessor de Relações Públicas da Secretaria Municipal de Transporte</td><td>1</td><td>1.800,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>GAC7</td><td>Assessor de Contabilidade</td><td>2</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Assessor de Tesouraria</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Assessor De Imprensa E Rel. Inst</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Assessor de Turismo</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Chefe Dep. Patrimônio</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Chefe Dep. Proteção Social Básica</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Coord. Da Central De Zoonoses</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC7</td><td>Diretor de Proteção Social Especial</td><td>1</td><td>1.800,00</td></tr><tr><td>GAC8</td><td>Chefe Dep. Eventos</td><td>1</td><td>1.807,31</td></tr><tr><td>GAC8</td><td>Coord. Do Pav</td><td>1</td><td>1.807,31</td></tr><tr><td>GAC9</td><td>Chefe Dep. Cadastro Único</td><td>1</td><td>1.994,28</td></tr><tr><td>GAC9</td><td>Chefe Do Siat</td><td>1</td><td>1.994,28</td></tr><tr><td>GAC10</td><td>Assessor Técnico da Secretaria Executiva do SUAS</td><td>1</td><td>2.000,00</td></tr><tr><td>GAC10</td><td>Coordenador de Trabalho, Emprego e Renda do SUAS</td><td>1</td><td>2.000,00</td></tr><tr><td>GAC10</td><td>Chefe Dep. Segurança Alimentar/Udap</td><td>1</td><td>2.000,00</td></tr><tr><td>GAC10</td><td>Supervisor de Iluminação Pública Urbana E Rural</td><td>1</td><td>2.000,00</td></tr><tr><td>GAC10</td><td>Coordenador de Projetos Agrícolas</td><td>1</td><td>2.000,00</td></tr><tr><td>GAC10</td><td>Coordenador dos Mecânicos</td><td>1</td><td>2.000,00</td></tr><tr><td>GAC11</td><td>Assessor de Sisvan E Acs</td><td>1</td><td>2.200,00</td></tr><tr><td>GAC11</td><td>Coordenador Municipal da Defesa Civil</td><td>1</td><td>2.200,00</td></tr><tr><td>GAC12</td><td>Assistente Judiciário</td><td>2</td><td>2.181,24</td></tr><tr><td>GAC13</td><td>Chefe Dep. Esportes</td><td>1</td><td>2.243,55</td></tr><tr><td>GAC14</td><td>Coord. De Ambulância e Veículo Saúde</td><td>1</td><td>2.500,00</td></tr><tr><td>GAC14</td><td>Supervisor de Acompanhamento de Obras Públicas</td><td>1</td><td>2.500,00</td></tr><tr><td>GAC14</td><td>Chefe Dep. Parques e Jardins</td><td>1</td><td>2.500,00</td></tr><tr><td>GAC14</td><td>Coord. do Serviço de Convivência e Fortalecimento de Vínculos - Scfv/Pav</td><td>1</td><td>2.500,00</td></tr><tr><td>GAC15</td><td>Administrador Regional</td><td>3</td><td>2.679,81</td></tr><tr><td>GAC16</td><td>Coord. do Centro de Ref. em Assistência Social – Cras</td><td>1</td><td>2.700,00</td></tr><tr><td>GAC16</td><td>Coord. Do Centro de Referência Em Segurança Alimentar E Nutricional Sustentável – Cresans</td><td>1</td><td>2.700,00</td></tr><tr><td>GAC16</td><td>Coord. Do Centro de Referência Especializado Em Assistência Social – Creas</td><td>1</td><td>2.700,00</td></tr><tr><td>GAC16</td><td>Coord. Do Centro de Referência da Mulher – Crm</td><td>1</td><td>2.700,00</td></tr><tr><td>GAC16</td><td>Coord. Da Unidade De Acolhimento Institucional</td><td>1</td><td>2.700,00</td></tr><tr><td>GAC17</td><td>Coord. De Rede Primária a Saúde</td><td>1</td><td>2.800,00</td></tr><tr><td>GAC18</td><td>Técnico de Referência do SUAS</td><td>1</td><td>2.900,00</td></tr><tr><td>GAC18</td><td>Inspetor De Animais</td><td>2</td><td>2.900,00</td></tr><tr><td>GAC19</td><td>Diretor Administrativo de Programas e Projetos Sociais</td><td>1</td><td>2.991,42</td></tr><tr><td>GAC19</td><td>Coord. De Assist. Farmacêutica</td><td>1</td><td>2.991,42</td></tr><tr><td>GAC19</td><td>Coord. De Odontologia</td><td>1</td><td>2.991,42</td></tr><tr><td>GAC21</td><td>Coord. Garagem</td><td>1</td><td>3.178,38</td></tr></tbody></table>
+
+<table><tbody><tr><td>GAC21</td><td>Dir. Dep. De Atenção Prim. A Saúde</td><td>1</td><td>3.178,38</td></tr><tr><td>GAC21</td><td>Dir. Dep. De Gestão E Planej.</td><td>1</td><td>3.178,38</td></tr><tr><td>GAC22</td><td>Dir. Dep. De Administração</td><td>2</td><td>3.200,00</td></tr><tr><td>GAC23</td><td>Dir. Dep. Vigilância Em Saúde</td><td>1</td><td>4.000,00</td></tr><tr><td>GAC23</td><td>Dir. De Atenção Em Saúde</td><td>1</td><td>4.000,00</td></tr><tr><td>GAC23</td><td>Coord. de Vigilância Sanitária</td><td>1</td><td>4.000,00</td></tr></tbody></table>
+
+
+2.1. Funções de Confiança Geral - FCG
+
+<table><thead><tr><td><strong>CÓDIGO</strong></td><td><strong>DENOMINAÇÃO</strong></td><td><strong>VAGAS</strong></td><td><strong>GRATIFICAÇÃO</strong></td></tr></thead><tbody><tr><td>FCG1</td><td>Coord. De Serviço Nível I</td><td>7</td><td>R$ 400,00</td></tr><tr><td>FCG2</td><td>Coord. De Serviço Nível II</td><td>12</td><td>R$ 500,00</td></tr><tr><td>FCG3</td><td>Coord. De Ativ. Compl. Nível I</td><td>2</td><td>R$ 600,00</td></tr><tr><td>FCG4</td><td>Coord. De Ativ. Compl. Nível II</td><td>2</td><td>R$ 750,00</td></tr><tr><td>FCG5</td><td>Coord. De Ativ. Compl. Nível III</td><td>1</td><td>R$ 1.500,00</td></tr><tr><td>FCG6</td><td>Coord. de Atividade dos Recursos Humanos</td><td>1</td><td>R$ 1.800,00</td></tr><tr><td>FCG7</td><td>Pregoeiro</td><td>2</td><td>R$ 2.000,00</td></tr><tr><td>FCG8</td><td>Resp. Técnico do Laboratório Municipal</td><td>1</td><td>R$ 2.000,00</td></tr><tr><td>FCG9</td><td>Coordenador de Regulação</td><td>1</td><td>R$ 3.000,00</td></tr></tbody></table>
+
+
+Art. 4º.
+
+As despesas decorrentes desta lei correrão à conta de dotações próprias do orçamento de 2022 e exercícios seguintes.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal de Buritis**
+
+Ref. ao Proposição de Lei Complementar nº 03/2022. De autoria do Executivo Municipal.
+
+
+## Anexo I
+
+ATRIBUIÇÕES DOS CARGOS COMISSIONADOS DO QUADRO GERAL CRIADOS POR ESTA LEI.
+
+
+**I- Coordenador de Projetos Agrícolas**
+
+**I.I - Atribuições:** Assessorar e executar os serviços de aração, gradagem, curva de nível e outros serviços necessários ao plantio da safra dos pequenos produtores rurais; Estabelecer um cronograma de atendimento às regiões do Município; Articular-se com a Administração Regional para estabelecer políticas de atendimento ao pequeno produtor rural; Executar outras atividades correlatas;
+
+**I.II - Escolaridade:** Nível Fundamental
+
+**I. III - Carga Horária:** Dedicação Integral
+
+**I.IV - Forma de recrutamento:** Amplo
+
+
+**II - Coordenador dos Mecânicos**
+
+**II.I - Atribuições:** Assessorar diretamente o chefe da garagem municipal e os secretários municipais que possuam veículos e máquinas lotados no seu patrimônio; deliberar juntamente com todos os mecânicos as demandas dos serviços agilizando a manutenção preventiva e corretiva dos veículos e máquinas do município. Realizar outras tarefas correlatas.
+
+**II.II- Escolaridade:** Ensino Médio
+
+**II.III - Carga Horária:** Dedicação Integral
+
+**II.IV - Forma de recrutamento:** Amplo
+
+
+**III - Técnico de Referência do Sistema Único de Assistência Social**
+
+**III.I Atribuições:** Orientar e apoiar a coordenação das Programas e Projetos vinculados a SEMAS e ao SUAS; Auxiliar as entidades socioassistenciais no monitoramento dos sistemas da rede SUAS; Programar e contribuir com a elaboração, execução, monitoramento e a avaliação de projetos de assistência social; Elaborar o Diagnóstico Socioassistencial; Elaborar o Plano Municipal de Assistência Social, definindo ações, bem como os programas, projetos, serviços e benefícios que visem a execução das ações da Política de Assistência Social; Prestar informações e preencher documentos que subsidiem o acompanhamento estadual e federal da gestão municipal; Realizar a gestão do cadastro de unidades da rede socioassistencial privada no CadSUAS; Coordenar, em âmbito municipal, o processo de preenchimento dos questionários do Censo SUAS, zelando pela qualidade das informações coletadas; Apoiar efetivamente as atividades de planejamento, gestão, monitoramento, avaliação e execução dos serviços socioassistenciais, imprimindo caráter técnico à tomada de decisão e a produção e disseminação de informações, possibilitando conhecimentos que contribuam para a efetivação do caráter preventivo e proativo da política de assistência social, assim como para a redução dos agravos, fortalecendo a função de proteção social do SUAS; Elaborar e atualizar periodicamente diagnósticos socioterritoriais que devem ser compatíveis com os limites territoriais dos respectivos entes federados e devem conter as informações especiais referentes às vulnerabilidades e aos riscos dos territórios e da consequente demanda por serviços socioassistenciais de Proteção Social Básica, Proteção Social Especial e de benefícios e ao tipo, ao volume e à qualidade das ofertas disponíveis e efetivas à população; Contribuir com as áreas de gestão e de proteção social básica e especial na elaboração de diagnósticos, planos e outros; Orientar quanto aos procedimentos de registro das informações referentes aos atendimentos realizados pelas unidades da rede socioassistencial, zelando pela padronização e qualidade dos mesmos; Coordenar e acompanhar a alimentação dos sistemas de informação que provêm dados sobre a rede socioassistencial e sobre os atendimentos por ela realizados, mantendo diálogo permanente com as áreas de Proteção Social Básica e de Proteção Social Especial, que são diretamente responsáveis pela provisão dos dados necessários à alimentação dos sistemas específicos da Rede SUAS; Realizar a gestão do cadastro de unidades da rede socioassistencial pública no CadSUAS; Responsabilizar-se pela gestão e alimentação de outros sistemas de informação que provêm dados sobre a rede socioassistencial e sobre os atendimentos por ela realizados, quando estes não forem específicos de um programa, serviço ou benefício; Analisar periodicamente os dados dos sistemas de informação do SUAS, utilizando-os como base para a produção de estudos e indicadores; Coordenar o processo de realização anual das Prestações de contas nos âmbitos Federal e Estadual, zelando pela qualidade das informações coletadas; Estabelecer, com base nas normativas existentes e no diálogo com as demais áreas técnicas, padrões de referência para avaliação da qualidade dos serviços ofertados pela rede socioassistencial e monitorá-lo por meio de indicadores; Elaborar e atualizar, relatório anual de atividades da gestão.
+
+**III.II Escolaridade:** nível superior completo em Serviço Social ou Psicologia;
+
+**III.III Carga Horária:** Dedicação Integral
+
+**III.IV Forma de recrutamento:** Amplo
+
+
+**IV - Diretor da Proteção Social Especial**
+
+**IV.I Atribuições:** Organizar e coordenar a rede de serviços de Proteção Social Especial no âmbito do SUAS; Articular a rede socioassistencial de Proteção Social Especial governamental e da sociedade civil; Articular a rede socioassistencial da Proteção Social Especial com a Proteção Social Básica e demais Políticas Sociais; Manter junto com os CREAS os dados atualizados do Diagnóstico Social no Município no âmbito do SUAS na Proteção Social Especial; Dar Suporte técnico à rede socioassistencial no que se refere ao SUAS na Proteção Social Especial; Articular e coordenar o mapeamento dos usuários da rede socioassistencial na Proteção Social Especial no Município; Participar do processo de Monitoramento е Avaliação do SUAS no âmbito municipal da Proteção Social Especial de Média e Alta Complexidade; Acompanhar a execução dos serviços de Proteção Social Especial da rede socioassistencial governamental; Participar da avaliação de casos junto com a equipe da Proteção Social Especial de Alta Complexidade e Ministério Público, Vara da Infância e Juventude e Serviço Auxiliar da Infância; Responder legalmente pelos serviços da Proteção Social Especial juntamente com Coordenadores dos CREAS, da Unidade de Acolhimento e programas municipais; Participar/Acompanhar as reuniões dos Conselhos de Direito: CMAS, CMDCA, CMDI; Coordenar as reuniões com Coordenadores e Técnicos dos CREAS, CRM e Abrigos, mensalmente; Proteção Social Básica e Especial, bimestralmente; Experiência em Equipamento da Proteção Social Especial.
+
+**IV.II Escolaridade:** Nível superior completo;
+
+**IV.III CARGA HORÁRIA:** Dedicação Integral
+
+**IVI.IV Forma de recrutamento:** Amplo
+
+
+**V - Assessor Técnico da Secretaria Executiva do SUAS;**
+
+**V.I Atribuições:** Participar da elaboração de notas técnicas; Elaborar respostas de ofícios e notificações; Elaborar Resoluções, Decretos e demais normativas dos SUAS e Conselhos Municipais; Agendar as reuniões mensais dos conselhos municipais; Atendimento de entidades e de organizações para orientações sobre legislações, que norteiam seus programas e projetos para inscrições nos conselhos; Os processos para registro e inscrição de entidades e serviços, além dos programas e projetos do Conselho Municipal de Assistência Social, Conselho Municipal dos Direitos da Criança e do Adolescente, Conselho Municipal do Idoso e demais Conselhos que vierem a ser instituídos na estrutura da Secretaria Municipal de Ação Social - SEMAS; Apoiar a Secretaria Executiva dos Conselhos que tem entre suas ações a elaboração de documentos (ofícios, resoluções, editais, etc.) relacionados às deliberações e encaminhamentos das reuniões ordinárias, extraordinárias e de comissões dos conselhos municipais; Arquivar toda documentação dos conselhos; Acompanhamento junto a gestão dos Fundos Municipais, bem como apoio às conferências municipais, auxiliando diretamente nos processos de eleições, posses e alterações dos conselhos municipais e do Conselho Tutelar (juntamente com o Conselho Municipal dos Direitos da Criança e do Adolescente), fazendo visitas de fiscalização e de monitoramentos aos projetos e entidades cadastradas junto aos conselhos municipais, além do cadastro das entidades cadastradas junto aos conselhos municipais.
+
+**V.II Escolaridade:** nível superior completo em Direito, Serviço Social ou Psicologia;
+
+**V.III Carga Horária:** Dedicação Integral
+
+**V.IV Forma de recrutamento:** Amplo
+
+
+**VI - Coordenador de Trabalho, Emprego e Renda do SUAS**
+
+**VI.I - Atribuições:** Promover, coordenar e incentivar políticas públicas de geração de emprego e renda; Promover cursos de capacitação para usuários dos serviços da Proteção Social Básica e Especial; Organizar turmas e cronogramas das capacitação e cursos que serão ministrados no âmbito do SUAS; Acompanhar a execução dos cursos; Providenciar relatório mensais do que é executado е ministrado nos cursos; Acompanhamento e fiscalizar a sistemática e cumprimento das etapas dos cursos; Acolher, inscrever e orientar as participantes dos cursos; Coordenar, sistematizar e encaminhar as listas para aquisição de materiais; Zelar pelos equipamentos e notificar possíveis reparos nas máquinas; Coordenar a confecção das fraldas.
+
+**V.II - Escolaridade:** Nível médio
+
+**V. III - Carga Horária:** Dedicação Integral
+
+**V.IV - Forma de recrutamento:** Amplo
+
+
+**VII - Coordenador de Convênios com Receita Federal do Brasil**
+
+**VII.I Atribuições:** Assessorar os servidores da Secretaria Municipal da Fazenda, nos convênios celebrados com a Receita Federal do Brasil, tais como PADI- Programa de Atendimento Virtual, de Cooperação Técnico Fiscal e COTEC - Coordenação Geral de Tecnologia da Informação, além de outros convênios em negociação; Negociar pendências dos órgãos da Administração Municipal; Orientar os contribuintes municipais no trâmite de consultas ou processo na Receita Federal do Brasil.
+
+**VII.II Escolaridade:** Formação em Direito, com a carteira da OAB;
+
+**VII.III Carga Horária:** 40H (quarenta horas) semanais;
+
+**VII.IV Forma de Recrutamento:** Amplo
+
+
+**VIII - Assessor de Alimentação de Dados do Programa SUS:**
+
+**VIII.I Atribuições:** Assessorar no sistema de informação em saúde, afim de garantir a transformação de dados enviados pelos profissionais para selecionar, coletar, classificar, armazenar, analisar, divulgar e recuperar dados com informações necessárias as ações de saúde, em consonância com as diretrizes da política nacional de saúde, realizar outras tarefas correlatas.
+
+**VIII.II Escolaridade:** Nível médio
+
+**VIII. III Carga Horária:** Dedicação Integral
+
+**VIII.IV Forma de recrutamento:** Amplo
+
+
+**XI - Coordenador Municipal da Defesa Civil**
+
+**IX.I Atribuições:** São as constantes do art. 8ª da Lei Federal n° 12.608, de abril de 2012 que dispõe sobre a Política Nacional de Proteção e Defesa Civil a saber:
+
+I - executar a PNPDEC em âmbito local;
+
+II - coordenar as ações do SINPDEC no âmbito local, em articulação com a e os Estados;
+
+III - incorporar as ações de proteção e defesa civil no planejamento municipal;
+
+IV - identificar e mapear as áreas de risco de desastres;
+
+V - promover a fiscalização das áreas de risco de desastre e vedar novas ocupações nessas áreas;
+
+VI - declarar a situação de emergência e estado de calamidade pública;
+
+VII - vistoriar edificações e áreas de risco e promover, quando for o caso, a intervenção preventiva e a evacuação da população das áreas de alto risco ou das edificações vulneráveis;
+
+VIII - organizar e administrar abrigos provisórios para assistência à população em situação de desastre, em condições adequadas de higiene e segurança;
+
+IX - manter a população informada sobre áreas de risco e ocorrência de eventos extremos, bem como sobre protocolos de prevenção e alerta e sobre as ações emergenciais em circunstâncias de desastres;
+
+X - mobilizar e capacitar os radioamadores para atuação na ocorrência de desastre;
+
+XI - realizar regularmente exercícios simulados, conforme Plano de Contingência de Proteção e Defesa Civil;
+
+XII - promover a coleta, a distribuição e o controle de suprimentos em situações de desastre;
+
+XIII - proceder à avaliação de danos e prejuízos das áreas atingidas por desastres;
+
+XIV - manter a União e o Estado informados sobre a ocorrência de desastres e as atividades de proteção civil no Município;
+
+XV - estimular a participação de entidades privadas, associações de voluntários, clubes de serviços, organizações não governamentais e associações de classe e comunitárias nas ações do SINPDEC e promover o treinamento de associações de voluntário para atuação conjunta com as comunidades apoiadas; e
+
+XVI - prover solução de moradia temporária às famílias atingidas por desastres.
+
+**IX.II Escolaridade:** Nível médio.
+
+**IX.III Carga Horária:** Dedicação Integral.
+
+**IX.IV Forma de recrutamento:** Amplo

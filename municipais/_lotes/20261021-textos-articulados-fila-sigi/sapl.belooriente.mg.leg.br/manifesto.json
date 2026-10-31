@@ -1,0 +1,42 @@
+{
+  "host": "sapl.belooriente.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belooriente.mg.leg.br/0e4aaf4cecd47ffb0cdde52ed5c4add9d32d47b93bb565423fa2c714bce33c11.json",
+    "url": "https://sapl.belooriente.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.belooriente.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:19:26.385025-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belooriente.mg.leg.br/3dc1bb731f2511592fe8488f7a377d6a603538ca633d280f5435943eaa42491f.json",
+    "url": "https://sapl.belooriente.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.belooriente.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "1f6e8c4fb00eb0bf41b388fcb09cad99fb98d8ea6da6911ca216b5064b4fd4d3",
+    "bytes": 773,
+    "capturado_em": "2026-10-27T17:19:25.335362-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belooriente.mg.leg.br/8d77d26cb329ebbcb6e867944d24d4c8ddccd5a684efb502712d176a2fa14798.json",
+      "url": "https://sapl.belooriente.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.belooriente.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T17:19:28.385937-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

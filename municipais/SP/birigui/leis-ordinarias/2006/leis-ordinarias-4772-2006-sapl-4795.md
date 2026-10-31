@@ -1,0 +1,207 @@
+---
+titulo: "Lei Ordinária nº 4.772, de 03 de julho de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4772"
+data: "2006-07-03"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2025-06-06; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/4795"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1072/text"
+sha256_fonte: "9c42f51dfc1907e058980a260eef5f2a096b9d94dd310765fe7ed587dafc7bcf"
+sha256_texto: "c3394a39b3978c824836d08dfd16dad6d9249eac75503acea5fb7771392e7576"
+capturado_em_fonte: "2026-10-27T18:26:17.901938-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.772, de 03 de julho de 2006
+
+DISPÕE SOBRE O CONSELHO MUNICIPAL DA CONDIÇÃO FEMININA E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 106/06, de autoria do Prefeito Municipal
+
+
+Eu, **WILSON CARLOS RODRIGUES BORINI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei.  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado junto à Secretaria de Serviço Social, o CONSELHO MUNICIPAL DA CONDIÇÃO FEMININA.
+
+
+Art. 2º.
+
+São objetivos do Conselho Municipal da Condição Feminina, com as seguintes atribuições:
+
+
+I –
+
+Propor medidas e atividades que visem a garantia dos direitos da mulher e a eliminação das discriminações que afligem a sua plena inserção na vida econômica, política, social e cultural;
+
+
+II –
+
+Colaborar com órgãos da Administração Municipal no que se refere ao planejamento e execução de ações referentes à mulher;
+
+
+III –
+
+Desenvolver projetos que promovam a participação da mulher em todos os níveis de atividades;
+
+
+IV –
+
+Sugerir ao Executivo e ao Legislativo Municipal a elaboração de projetos de leis ou outras iniciativas que visem assegurar ou ampliar os direitos da mulher e a eliminar da legislação disposições discriminatórias;
+
+
+V –
+
+Fiscalizar e tomar providências para o cumprimento da Legislação favorável aos direitos da mulher;
+
+
+VI –
+
+Apoiar realizações concernentes à mulher e promover entedimentos e intercâmbio com organizações nacionais ou internacionais afins;
+
+
+VII –
+
+Elaborar e aprovar seu Regimento Interno.
+
+
+Art. 3º.
+
+O Conselho Municipal dos Direitos da Mulher será constituído por 14 (quatorze) membros, cada membro composto por um titular e seu suplente, sendo 7 (sete) membros da Sociedade Civil e 7 (sete) membros do Poder Público, assim distribuídos:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+a)
+
+Dois representantes de Organização da Sociedade Civil;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.519, de 16 de fevereiro de 2012.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.519, de 16 de fevereiro de 2012.
+
+
+h)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 5.213, de 08 de outubro de 2009.
+
+
+i)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 4.842, de 15 de março de 2007.
+
+
+a)
+
+Um representante da Secretaria Municipal de Assistência Social;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+d)
+
+Um representante da Secretaria de Desenvolvimento Econômico;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 4.842, de 15 de março de 2007.
+
+
+e)
+
+Um representante da Secretaria Municipal de Educação;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+f)
+
+um representante da Secretaria Municipal de Esportes; e
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+g)
+
+Um representante da Secretaria Municipal de Segurança Pública.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+§ 2º
+
+Em caso de vacância na indicação de algum dos membros descritos no inciso I, da Sociedade Civil, proceder-se-á com a substituição por outro representante da Sociedade Civil, preferencialmente da alínea “a” ou “c”.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.551, de 06 de junho de 2025.
+
+
+Art. 4º.
+
+As funções dos membros do Conselho serão gratuitas e consideradas como serviço público relevante.
+
+
+Art. 5º.
+
+O Conselho Municipal da Condição Feminina contará com uma mesa Diretora que será composta por uma Presidente, uma Vice-Presidente, Primeira Secretária e Segunda Secretária, que serão eleitas pelas representantes titulares da Sociedade Civil e do Poder Público.
+
+
+Art. 6º.
+
+O mandato da Mesa Diretora será de 2 (dois) anos, sendo permitida 1 (uma) recondução, se reeleito.
+
+
+Art. 7º.
+
+As representantes do Conselho Municipal da Condição Feminina, bem como sua Mesa Diretora, serão empossadas pela Secretária Municipal de Serviço Social no ato da Assembléia.
+
+
+Art. 8º.
+
+Cabe ao Governo Municipal assegurar ao Conselho Municipal da Condição Feminina — CMCF, os meios necessários ao exercício de suas competências, incluindo suporte administrativo, técnico e recursos financeiros assegurados no orçamento municipal.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se em especial a Lei nº 4.038, de 08 de março de 2002 e demais disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos três de julho de dois mil e seis.
+
+**WILSON CARLOS RODRIGUES BORINI Prefeito Municipal**
+
+**GENI ALBANI BORINl Secretária de Serviço Social**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**EURICO POMPEU SOBRINHO Secretário de Expediente e Comunicações Administrativas**
+

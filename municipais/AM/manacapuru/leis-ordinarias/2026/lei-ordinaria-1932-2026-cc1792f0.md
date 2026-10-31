@@ -1,0 +1,26 @@
+---
+titulo: "LEI MUNICIPAL Nº 1.932 DE 06 DE ABRIL DE 2026."
+uf: "AM"
+municipio: "MANACAPURU"
+tipo: "Lei Ordinária"
+numero: "1932"
+data: 2026-04-06
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 08/04/2026"
+data_publicacao: 2026-04-08
+codigo_identificador: "CC1792F0"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118834_2026-04-07_52b6865aa263be89d77ebb2fc3f1dfc4.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 1.932 DE 06 DE ABRIL DE 2026.
+
+LEI MUNICIPAL Nº 1.932 DE 06 DE ABRIL DE 2026.
+
+GABINETE DA PREFEITA MUNICIPAL DE MANACAPURU, 06
+de abril de 2026.
+VALCILEIA FLORES MACIEL
+Prefeita Municipal de Manacapuru
+Publicado por:
+Evelyn Melo Campos

@@ -1,0 +1,2159 @@
+---
+titulo: "Lei nº 1.224, de 20 de outubro de 1995"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1224"
+data: "1995-10-20"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2001-12-28; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4516"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/464/text"
+sha256_fonte: "cc369a930ede646fcef135d5e5ed30e7a4e96281519df920e0dc23968e1270f4"
+sha256_texto: "78f50c09d58261e5a01b58758362c0f7c82b8e4d187f61682e33d2b5be96d5c6"
+capturado_em_fonte: "2026-10-27T21:59:38.816046-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.224, de 20 de outubro de 1995
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+### TÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+### TÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XVII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XVIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XIX –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XX –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XXI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XXII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XXIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XXIV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XXV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XXVI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XXVII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+### TÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+### TÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+### TÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+
+
+(Revogado)
+
+Revogado pelo Art. 319. - Lei Complementar nº 138, de 28 de dezembro de 2001.
+

@@ -1,0 +1,6 @@
+Inventário privado, offline e sem promoção.
+União por path/ID de retenções com motivo literal corpo difere da reextração integral da API em todos os recibos rfb-cache*.json capturados. Cada entrada registra origem, SHA da preimagem atual, SHA bruto/descomprimido da API, ID e identidades de fonte/cabeçalho. As fontes não foram copiadas em massa; são referências SHA ao cache existente.
+São 11.316 paths e IDs distintos; 1.420 também aparecem aceitos em algum recibo RFB, sem afirmar que estejam publicados hoje. Restam 9.896 sem esse aceite nos recibos conhecidos. Nenhum passa exatamente extrair_literal da proposta original. Motivos são a primeira exclusão lançada pelo helper, não uma contagem exaustiva de todos os riscos de cada documento.
+Os três protótipos iniciais não pertencem às retenções por corpo divergente e já aparecem aceitos em recibos. Assim, o modo literal não é uma solução demonstrada para a população retida. Não foi relaxado após este resultado.
+Reprodução em diretório novo: python3 -I scripts/inventariar_sijut_literal_proposta.py --saida /tmp/sijut-inventario-replay-novo
+Os resultados refletem SHA atuais no instante do inventário; futuras alterações de cache ou preimagem devem produzir novo inventário. Nenhum auditor vivo, MD, cache de fonte ou coletor foi modificado.

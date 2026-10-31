@@ -1,0 +1,68 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/lei_1521_2023.pdf da norma Lei nº 1.521, de 11 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Pedro dos Santos Moreira",
+                [
+                  "2023-07-11T14:38:08-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Lei n.º 1.521/2023",
+      "anexo_arquivo": "http://sapl.bomjesusdoamparo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/1/lei_1521_2023.pdf",
+      "ano": 2023,
+      "norma": 75
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/retificacao.pdf da norma Lei nº 1.521, de 11 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Pedro dos Santos Moreira",
+                [
+                  "2023-07-12T17:18:29-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Retificação da Lei n.º 1.521/2023",
+      "anexo_arquivo": "http://sapl.bomjesusdoamparo.mg.leg.br/media/sapl/public/anexonormajuridica/2023/2/retificacao.pdf",
+      "ano": 2023,
+      "norma": 75
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bomjesusdoamparo.mg.leg.br/d1fa43d16df6d50390c551e8db718d9d3426be95b054cf8cd413eb7d34bd8775.json",
+      "url": "https://sapl.bomjesusdoamparo.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bomjesusdoamparo.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7f4aa6e94bab71d7730e1581f7de1d017bd455086ac93c3a04611d6690aa0694",
+      "bytes": 1210,
+      "capturado_em": "2026-10-27T19:35:12.895712-03:00"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+---
+titulo: "DECRETO Nº 11.127 DE 20 DE FEVEREIRO DE 2.026. LEI"
+uf: "RO"
+municipio: "VALE DO PARAÍSO"
+tipo: "Decreto"
+numero: "11127"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 27/02/2026"
+data_publicacao: 2026-02-27
+codigo_identificador: "F4C5BBDD"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116012_2026-02-26_0b1ad063c041539a77bf628a5d598434.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 11.127 DE 20 DE FEVEREIRO DE 2.026. LEI
+
+DECRETO Nº 11.127 DE 20 DE FEVEREIRO DE 2.026. LEI
+2.494 DE 10 DE DEZEMBRO 2.025
+ACRÉSCIMOS
+LOCAL: 02PODER EXECUTIVO
+020600SECRETARIA MUNICIPAL DE SAUDE
+Ficha:57310.302.1112.2092.0000SAUDE UM ATENDIMENTO
+COMPL5.065,76
+4.4.90.52.00EQUIPAMENTOS E MATERIAL PER
+
+25610.302.1112.2092.0000SAUDE
+UM
+ATENDIMENTO
+COMPLETO E ACESSIVEL -2.842,61
+ASSISTENCIA HOSPITALAR E AMBULATORIAL F.R. Grupo: 0
+1500
+4.4.90.52.00EQUIPAMENTOS E MATERIAL PERMANENTE
+1Recursos do Exercício Corrente
+010 001 Receita de Imp. e Transf - SAUDE 15%
+Anulação ( - ) -2.842,61
+Art.3º. Este Decreto entra em vigor na data de sua publicação.
+Vale do Paraíso, 20 de fevereiro de 2.026.
+CHARLES LUIS PINHEIRO GOMES
+Prefeito Municipal
+
+TOTAL DAS SUPLEMENTAÇÕES 5.065,76
+REDUÇÕES
+LOCAL:02PODER EXECUTIVO
+020600SECRETARIA MUNICIPAL DE SAUDE
+Ficha:22110.301.1112.2091.0000SAUDE UM ATENDIMENTO
+COMPLE
+-5.065,76
+3.3.90.39.00OUTROS SERVIÇOS DE TERCEIROS
+
+Publicado por:
+Lucimar Cristina Rech

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.chacara.mg.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chacara.mg.leg.br/e93f6becb8e9c8b9994c416002c453a3d1f16b0339e64bbd0035427e4f20cfe6.json",
+    "url": "https://sapl.chacara.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.chacara.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:39:51.978167-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chacara.mg.leg.br/05915b76119db5f42cb36826b207448c18f2bdb63356c78821826d13c1646eb6.json",
+    "url": "https://sapl.chacara.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.chacara.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8e2229f57f0c08aeca64902e9057e49c06101438501bd1677d9587a0aee17817",
+    "bytes": 703,
+    "capturado_em": "2026-10-27T22:39:50.966509-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chacara.mg.leg.br/dfa1d7cbb05c4dbc1b92bc64abb5b7d22975a9c9790344c265ad64a491af4482.json",
+      "url": "https://sapl.chacara.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.chacara.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T22:39:53.962855-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

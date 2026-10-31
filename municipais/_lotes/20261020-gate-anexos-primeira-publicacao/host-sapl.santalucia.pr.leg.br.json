@@ -1,0 +1,316 @@
+{
+  "host": "sapl.santalucia.pr.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/1/lei_050_1994_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_para_o_ano_1995_1.pdf da norma LEI ORDINÁRIA-EM nº 50, de 02 de setembro de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1994/1/lei_050_1994_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_para_o_ano_1995_1.pdf",
+      "ano": 1994,
+      "norma": 77
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/2/lei_036_1993_institue_o_codigo_tributario_do_munivcipio_de_santa_lucia.pdf da norma LEI ORDINÁRIA-EM nº 36, de 17 de dezembro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1993/2/lei_036_1993_institue_o_codigo_tributario_do_munivcipio_de_santa_lucia.pdf",
+      "ano": 1993,
+      "norma": 64
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/3/lei_062_1995_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia__exercicio_1996.pdf da norma LEI ORDINÁRIA-EM nº 62, de 16 de junho de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1995/3/lei_062_1995_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia__exercicio_1996.pdf",
+      "ano": 1995,
+      "norma": 89
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/4/lei_072_1995_institue_o_hino_municipal_e_da_outras_providencias.pdf da norma LEI ORDINÁRIA-EM nº 72, de 07 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1995/4/lei_072_1995_institue_o_hino_municipal_e_da_outras_providencias.pdf",
+      "ano": 1995,
+      "norma": 98
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/5/anexo_i_da_lei_72-1995.pdf da norma LEI ORDINÁRIA-EM nº 72, de 07 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1995/5/anexo_i_da_lei_72-1995.pdf",
+      "ano": 1995,
+      "norma": 98
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/6/anexo_ii_da_lei_72-1995.pdf da norma LEI ORDINÁRIA-EM nº 72, de 07 de dezembro de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1995/6/anexo_ii_da_lei_72-1995.pdf",
+      "ano": 1995,
+      "norma": 98
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/7/anexo_i_da_lei_81-1996.pdf da norma LEI ORDINÁRIA-EM nº 81, de 11 de junho de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1996/7/anexo_i_da_lei_81-1996.pdf",
+      "ano": 1996,
+      "norma": 106
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/8/lei_093_1997_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_ano_1998.pdf da norma LEI ORDINÁRIA-EM nº 93, de 02 de julho de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1997/8/lei_093_1997_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_ano_1998.pdf",
+      "ano": 1997,
+      "norma": 117
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/9/anexos_lei.pdf da norma LEI ORDINÁRIA-EM nº 115, de 12 de maio de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1998/9/anexos_lei.pdf",
+      "ano": 1998,
+      "norma": 139
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/10/anexo_i_lei_117.pdf da norma LEI ORDINÁRIA-EM nº 117, de 01 de julho de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1998/10/anexo_i_lei_117.pdf",
+      "ano": 1998,
+      "norma": 141
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/11/anexo_i_da_lei_127-1999.pdf da norma LEI ORDINÁRIA-EM nº 127, de 01 de julho de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/1999/11/anexo_i_da_lei_127-1999.pdf",
+      "ano": 1999,
+      "norma": 151
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/12/anexo_i_da_lei_142-2000.pdf da norma LEI ORDINÁRIA-EM nº 142, de 03 de julho de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2000/12/anexo_i_da_lei_142-2000.pdf",
+      "ano": 2000,
+      "norma": 166
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/13/convenio_001-2001.pdf da norma LEI ORDINÁRIA-EM nº 159, de 20 de julho de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2001/13/convenio_001-2001.pdf",
+      "ano": 2001,
+      "norma": 183
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/14/anexo_i_da_lei_164-2001.pdf da norma LEI ORDINÁRIA-EM nº 164, de 10 de dezembro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2001/14/anexo_i_da_lei_164-2001.pdf",
+      "ano": 2001,
+      "norma": 188
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/16/lei_177_2002_dispoe_sobre_as_diretrizes_para_a_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_exercicio_de_2003_1.pdf da norma LEI ORDINÁRIA-EM nº 177, de 03 de julho de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2002/16/lei_177_2002_dispoe_sobre_as_diretrizes_para_a_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_exercicio_de_2003_1.pdf",
+      "ano": 2002,
+      "norma": 201
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/17/lei_182_2002_institui_no_municipio_de_santa_lucia_a_contribuicao_para_custeio_de_iluminacao_publica_no_art.149-a_da_constituicao_federal_1.pdf da norma LEI ORDINÁRIA-EM nº 182, de 26 de dezembro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2002/17/lei_182_2002_institui_no_municipio_de_santa_lucia_a_contribuicao_para_custeio_de_iluminacao_publica_no_art.149-a_da_constituicao_federal_1.pdf",
+      "ano": 2002,
+      "norma": 206
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/18/demonstrativo_de_excesso_de_arredacacao_lei_213-2005.pdf da norma LEI ORDINÁRIA-EM nº 213, de 22 de fevereiro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2005/18/demonstrativo_de_excesso_de_arredacacao_lei_213-2005.pdf",
+      "ano": 2005,
+      "norma": 234
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/19/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias_1.pdf da norma LEI ORDINÁRIA-EM nº 204, de 18 de junho de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/19/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias_1.pdf",
+      "ano": 2004,
+      "norma": 226
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/20/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias_2.pdf da norma LEI ORDINÁRIA-EM nº 204, de 18 de junho de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/20/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias_2.pdf",
+      "ano": 2004,
+      "norma": 226
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/21/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias-36.pdf da norma LEI ORDINÁRIA-EM nº 204, de 18 de junho de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/21/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias-36.pdf",
+      "ano": 2004,
+      "norma": 226
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/22/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias-35.pdf da norma LEI ORDINÁRIA-EM nº 204, de 18 de junho de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/22/lei_204_2004_dispoe_sobre_as_diretrizes_para_elaboracao_do_orcamento_do_municipio_de_santa_lucia_para_o_exercicio_financeiro_de_2005_e_da_outras_providencias-35.pdf",
+      "ano": 2004,
+      "norma": 226
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/23/lei_208_2004_autoriza_a_abertura_de_um_credito_adicional_suplementar_no_valor_de_r_174.00000_cento_e_setenta_e_quatro_mil_reais_para_reforco_de_dotacao_1.pdf da norma LEI ORDINÁRIA-EM nº 208, de 05 de agosto de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/23/lei_208_2004_autoriza_a_abertura_de_um_credito_adicional_suplementar_no_valor_de_r_174.00000_cento_e_setenta_e_quatro_mil_reais_para_reforco_de_dotacao_1.pdf",
+      "ano": 2004,
+      "norma": 230
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/24/lei_208_2004_autoriza_a_abertura_de_um_credito_adicional_suplementar_no_valor_de_r_174.00000_cento_e_setenta_e_quatro_mil_reais_para_reforco_de_dotacao_2.pdf da norma LEI ORDINÁRIA-EM nº 208, de 05 de agosto de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/24/lei_208_2004_autoriza_a_abertura_de_um_credito_adicional_suplementar_no_valor_de_r_174.00000_cento_e_setenta_e_quatro_mil_reais_para_reforco_de_dotacao_2.pdf",
+      "ano": 2004,
+      "norma": 230
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/25/lei_208_2004_autoriza_a_abertura_de_um_credito_adicional_suplementar_no_valor_de_r_174.00000_cento_e_setenta_e_quatro_mil_reais_para_reforco_de_dotacao_3.pdf da norma LEI ORDINÁRIA-EM nº 208, de 05 de agosto de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/25/lei_208_2004_autoriza_a_abertura_de_um_credito_adicional_suplementar_no_valor_de_r_174.00000_cento_e_setenta_e_quatro_mil_reais_para_reforco_de_dotacao_3.pdf",
+      "ano": 2004,
+      "norma": 230
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/26/lei_210_2004_autoriza_o_executivo_municipal_a_abrir_credito_especial_no_orcamento_vigente_no_valor_de_rs_25.00000_vinte_e_cinco_mil_reais_e_da_outras_providencias_1.pdf da norma LEI ORDINÁRIA-EM nº 210, de 08 de outubro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/26/lei_210_2004_autoriza_o_executivo_municipal_a_abrir_credito_especial_no_orcamento_vigente_no_valor_de_rs_25.00000_vinte_e_cinco_mil_reais_e_da_outras_providencias_1.pdf",
+      "ano": 2004,
+      "norma": 231
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/27/lei_211_2004_estima_a_receita_e_fixa_a_despesa_do_municipio_de_santa_lucia_-_pr_para_o_exercicio_financeiro_de_2005_1.pdf da norma LEI ORDINÁRIA-EM nº 211, de 03 de dezembro de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2004/27/lei_211_2004_estima_a_receita_e_fixa_a_despesa_do_municipio_de_santa_lucia_-_pr_para_o_exercicio_financeiro_de_2005_1.pdf",
+      "ano": 2004,
+      "norma": 232
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/28/demonstrativo_de_excesso_de_arrecadacao_lei_233-2006.pdf da norma LEI ORDINÁRIA-EM nº 233, de 05 de abril de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2006/28/demonstrativo_de_excesso_de_arrecadacao_lei_233-2006.pdf",
+      "ano": 2006,
+      "norma": 254
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/29/resumo_da_acoes_por_orgao_-_lei_238-2006.pdf da norma LEI ORDINÁRIA-EM nº 238, de 20 de julho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2006/29/resumo_da_acoes_por_orgao_-_lei_238-2006.pdf",
+      "ano": 2006,
+      "norma": 257
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/30/anexo_de_metas_fiscais_-_lei_238-2006.pdf da norma LEI ORDINÁRIA-EM nº 238, de 20 de julho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2006/30/anexo_de_metas_fiscais_-_lei_238-2006.pdf",
+      "ano": 2006,
+      "norma": 257
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/31/lei_214_2005_autoriza_o_executivo_municipal_a_abrir_um_credito_especial_no_1.pdf da norma LEI ORDINÁRIA-EM nº 214, de 18 de maio de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.santalucia.pr.leg.br/media/sapl/public/anexonormajuridica/2005/31/lei_214_2005_autoriza_o_executivo_municipal_a_abrir_um_credito_especial_no_1.pdf",
+      "ano": 2005,
+      "norma": 235
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.santalucia.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.santalucia.pr.leg.br/ecec0995a52ac0d8d715794ee3796afb4b5b831725a040b10e2507dd16c29ae4.json",
+      "sha256": "321fbb9874b912f7be78799acc4df08a2eecc8b4d8b3c196eb983a0a0fe88ec6",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.santalucia.pr.leg.br/ecec0995a52ac0d8d715794ee3796afb4b5b831725a040b10e2507dd16c29ae4.meta.json"
+    }
+  ],
+  "total": 30
+}

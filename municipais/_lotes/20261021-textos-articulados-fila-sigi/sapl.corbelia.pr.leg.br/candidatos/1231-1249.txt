@@ -1,0 +1,223 @@
+Autoriza o Poder Executivo a abrir crédito adicional suplementar no orçamento do Município, com base em excesso de arrecadação, no valor de R$ 5.195.000,00 (cinco milhões, cento e noventa e cinco mil reais), na forma em que especifica abaixo.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+O Poder Executivo Municipal fica autorizado a abrir crédito adicional suplementar, com base em excesso de arrecadação, no valor de R$ 5.195.000,00 (cinco milhões, cento e noventa e cinco mil reais), para reforço no exercício financeiro de 2022 das seguintes dotações orçamentárias:
+
+
+**Suplementação:**
+
+SECRETARIA DA FAZENDA E COORDENAÇÃO GERAL  
+Unidade Orçamentária: 03.005 - DIVISÃO DE FINANÇAS E TESOURARIA  
+Funcional Programática: 03.005.0028.0843.0000.2160  
+Atividade: AMORTIZAÇÃO, ENCARGOS E REFINANCIAMENTO DA DÍVIDA CONTRATADA E CONFESSADA  
+Elemento de Despesa: 4690710000 - Principal da dívida contratual resgatado  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 300.000,00
+
+SECRETARIA DA FAZENDA E COORDENAÇÃO GERAL  
+Unidade Orçamentária: 03.005 - DIVISÃO DE FINANÇAS E TESOURARIA  
+Funcional Programática: 03.005.0004.0123.0050.2150  
+Atividade: MANUTENÇÃO DIVISÃO DE FINANÇAS E TESOURARIA  
+Elemento de Despesa: 3390470000 - Obrigações tributárias e contributivas  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 120.000,00
+
+SECRETARIA DE DESENVOLVIMENTO ECONÔMICO  
+Unidade Orçamentária: 04.003 - FUNDO AMBIENTAL E DO DESENVOLVIMENTO RURAL  
+Funcional Programática: 04.003.0017.0512.0300.2913  
+Atividade: MANUTENÇAO DO PROGRAMA COLETA SELETIVA  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 200.000,00
+
+SECRETARIA DE ESPORTES E LAZER  
+Unidade Orçamentária: 09.002 - DEPARTAMENTO DE ESPORTES DE RENDIMENTO  
+Funcional Programática: 09.002.0027.0811.0260.2380  
+Atividade: MANUTENÇÃO ATIVIDADES DO DEPARTAMENTO DE ESPORTE E RENDIMENTO  
+Elemento de Despesa: 3390300000 - Material de consumo  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 10.000,00
+
+SECRETARIA DE ESPORTES E LAZER  
+Unidade Orçamentária: 09.002 - DEPARTAMENTO DE ESPORTES DE RENDIMENTO  
+Funcional Programática: 09.002.0027.0811.0260.2380  
+Atividade: MANUTENÇÃO ATIVIDADES DO DEPARTAMENTO DE ESPORTE E RENDIMENTO  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 160.000,00
+
+SECRETARIA DE SAÚDE  
+Unidade Orçamentária: 07.002 - FUNDO MUNICIPAL DE SAÚDE  
+Funcional Programática: 07.002.0010.0301.0130.2527  
+Atividade: MANUTENÇAO DO DEPARTAMENTO - ATENÇÃO PRIMARIA SAÚDE (PREVINE BRASIL)  
+Elemento de Despesa: 3390300000 - Material de consumo  
+Fonte de Recurso: 01494 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE  
+Valor: R$ 20.000,00  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01494 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE  
+Valor: R$ 880.000,00
+
+SECRETARIA DE SAÚDE  
+Unidade Orçamentária: 07.002 - FUNDO MUNICIPAL DE SAÚDE  
+Funcional Programática: 07.002.0010.0303.0370.2505  
+Atividade: MANUTENÇÃO DO PROGRAMA DE ASSISTENCIA FARMACEUTICA - CAF  
+Elemento de Despesa: 3390300000 - Material de consumo  
+Fonte de Recurso: 01494 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE  
+Valor: R$ 50.000,00
+
+SECRETARIA DE SAÚDE  
+Unidade Orçamentária: 07.002 - FUNDO MUNICIPAL DE SAÚDE  
+Funcional Programática: 07.002.0010.0304.0360.2520  
+Atividade: EXECUÇÃO DO PROGRAMA DE VIGILÂNCIA EM SAUDE  
+Elemento de Despesa: 3190110000 - Vencimentos e vantagens fixas - pessoal civil  
+Fonte de Recurso: 01494 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE  
+Valor: R$ 70.000,00
+
+SECRETARIA DE SAÚDE  
+Unidade Orçamentária: 07.002 - FUNDO MUNICIPAL DE SAÚDE  
+Funcional Programática: 07.002.0010.0302.0140.2530  
+Atividade: MANUTENÇÃO DA ASSIST. HOSPITALAR E AMBULATORIAL-CAPS II/ PAM / CEO  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 200.000,00
+
+SECRETARIA DE SAÚDE  
+Unidade Orçamentária: 07.002 - FUNDO MUNICIPAL DE SAÚDE  
+Funcional Programática: 07.002.0010.0302.0140.2530  
+Atividade: MANUTENÇÃO DA ASSIST. HOSPITALAR E AMBULATORIAL-CAPS II/ PAM / CEO  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01303 - Saúde - Receitas Vinc (EC 29/00 - 15%) Exercício Corrente  
+Valor: R$ 300.000,00
+
+SECRETARIA DE SAÚDE  
+Unidade Orçamentária: 07.002 - FUNDO MUNICIPAL DE SAÚDE  
+Funcional Programática: 07.002.0010.0302.0140.2310  
+Atividade: MANUTENÇÃO DE CONSÓRCIO DE SAÚDE - CISOP E INTERGESTOTES  
+Elemento de Despesa: 3371700000 - Rateio pela participação em consórcio público  
+Fonte de Recurso: 01303 - Saúde - Receitas Vinc (EC 29/00 - 15%) Exercício Corrente  
+Valor: R$ 600.000,00
+
+SECRETARIA DE SAÚDE  
+Unidade Orçamentária: 07.002 - FUNDO MUNICIPAL DE SAÚDE  
+Funcional Programática: 07.002.0010.0301.0130.2480  
+Atividade: EXECUÇÃO DO PROGRAMA DE SAÚDE BUCAL  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01494 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE  
+Valor: R$ 280.000,00
+
+SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS  
+Unidade Orçamentária: 05.002 - DEPARTAMENTO RODOVIÁRIO MUNICIPAL  
+Funcional Programática: 05.002.0026.0782.0330.2205  
+Atividade: MANUTENÇÃO DEPARTAMENTO RODOVIÁRIO MUNICIPAL  
+Elemento de Despesa: 3390300000 - Material de consumo  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 100.000,00
+
+SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS  
+Unidade Orçamentária: 05.003 - DEPARTAMENTO DE INFRA-ESTRUTURA, OBRAS E SERVIÇOS URBANOS  
+Funcional Programática: 05.003.0020.0606.0270.2211  
+Atividade: MANUTENÇÃO DA INFRAESTRUTURA RURAL  
+Elemento de Despesa: 3390300000 - Material de consumo  
+Fonte de Recurso: 31843 - CONVÊNIO ITAIPU Nº 4500047125  
+Valor: R$ 100.000,00
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+Unidade Orçamentária: 06.006 - DEPARTAMENTO DE AÇÃO CULTURAL  
+Funcional Programática: 06.006.0013.0392.0230.2275  
+Atividade: MANUTENÇÃO DEPARTAMENTO DE AÇÃO CULTURAL  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 80.000,00
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+Unidade Orçamentária: 06.003 - DEPARTAMENTO DE ENSINO FUNDAMENTAL  
+Funcional Programática: 06.003.0012.0361.0220.2250  
+Atividade: MANUTENÇÃO DEPARTAMENTO DE ENSINO FUNDAMENTAL  
+Elemento de Despesa: 3390300000 - Material de consumo  
+Fonte de Recurso: 01103 - 10% Sobre Transf Constitucionais - Exercício Corre  
+Valor: R$ 100.000,00
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+Unidade Orçamentária: 06.003 - DEPARTAMENTO DE ENSINO FUNDAMENTAL  
+Funcional Programática: 06.003.0012.0361.0220.2250  
+Atividade: MANUTENÇÃO DEPARTAMENTO DE ENSINO FUNDAMENTAL  
+Elemento de Despesa: 3390390000 - Outros serviços de terceiros - pessoa jurídica  
+Fonte de Recurso: 01104 - 25% s/demais impostos vinc à Educação - Exercício Corrente  
+Valor: R$ 100.000,00
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+Unidade Orçamentária: 06.002 - FUNDEB - FUNDO DE DESENVOLVIMENTO DA EDUCAÇÃO  
+Funcional Programática: 06.002.0012.0365.0200.2585  
+Atividade: FUNDEB 70% - MAGISTÉRIO  
+Elemento de Despesa: 3190110000 - Vencimentos e vantagens fixas - pessoal civil  
+Fonte de Recurso: 01101 - Transf. FUNDEB 60% / Fundeb mínimo 70% - inciso XI do art. 212-A da CF  
+Valor: R$ 350.000,00
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+Unidade Orçamentária: 06.002 - FUNDEB - FUNDO DE DESENVOLVIMENTO DA EDUCAÇÃO  
+Funcional Programática: 06.002.0012.0361.0180.2235  
+Atividade: FUNDEB 30% - ATIVIDADES ESCOLARES  
+Elemento de Despesa: 3190110000 - Vencimentos e vantagens fixas - pessoal civil  
+Fonte de Recurso: 01102 - Transf. FUNDEB 40% / Fundeb máximo 30% - inciso XI do art. 212-A da CF  
+Valor: R$ 150.000,00
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+Unidade Orçamentária: 06.002 - FUNDEB - FUNDO DE DESENVOLVIMENTO DA EDUCAÇÃO  
+Funcional Programática: 06.002.0012.0361.0180.2230  
+Atividade: FUNDEB 70% - MAGISTÉRIO  
+Elemento de Despesa: 3190110000 - Vencimentos e vantagens fixas - pessoal civil  
+Fonte de Recurso: 01101 - Transf. FUNDEB 60% / Fundeb mínimo 70% - inciso XI do art. 212-A da CF  
+Valor: R$ 1.000.000,00
+
+SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+Unidade Orçamentária: 06.001 - GABINETE DO SECRETÁRIO DE EDUCAÇÃO E CULTURA  
+Funcional Programática: 06.001.0012.0364.0190.2225  
+Atividade: SUBSÍDIO AO TRANSPORTE ESCOLAR DO ENSINO SUPERIOR  
+Elemento de Despesa: 3350430000 - Subvenções sociais  
+Fonte de Recurso: 01000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE  
+Valor: R$ 25.000,00
+
+**VALOR TOTAL DA SUPLEMENTAÇÃO: R$ 5.195.000,00**
+
+
+Art. 2º.
+
+Para dar cobertura aos créditos indicados no artigo anterior serão utilizados recursos provenientes do excesso de arrecadação das receitas: 1113031101 - Imposto sobre a renda - retido na fonte - trabalho - Prefeitura, 1114511300 - Imposto sobre serviços de qualquer natureza - ISSQN - dívida ativa, 1713501100 - Transferências de recursos do bloco de manutenção das ações e serviços públicos de saúde atenção primária - principal, 1713502100 - Transferências de recursos do bloco de manutenção das ações e serviços públicos de saúde atenção especializada - principal, 1713503102 - OUTROS PROGRAMAS VIGILANCIA EM SAUDE, 1721500100 - Cota-parte do ICMS - principal, 1721510100 - Cota-parte do IPVA - principal, 1751500101 - FUNDEB - 60/40%, 1759990101 - Demais Transferências de Outras Instituições Públicas - Conv. Itaipu Binacional da fonte 1000 - RECURSOS ORDINÁRIOS - EXERCÍCIO CORRENTE, 1101 - Transf. FUNDEB 60% / Fundeb mínimo 70% - inciso XI do art. 212-A da CF, 1104 - 25% s/demais impostos vinc à Educação - Exercício Corrente, 1303 - Saúde - Receitas Vinc (EC 29/00 - 15%) Exercício Corrente, 1494 - BLOCO DE CUSTEIO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE, 31843 - CONVÊNIO ITAIPU Nº 4500047125 nos termos do inciso II, § 1º, artigo 43, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Face ao crédito fica inserido no Anexo I da Lei Municipal nº 1.131 de 13 de julho de 2021, que dispõe sobre a Lei de Diretrizes Orçamentárias para o exercício de 2022.
+
+
+Art. 4º.
+
+Face ao crédito fica inserido no Anexo I da Lei Municipal nº 1.151 de 21 de dezembro de 2021, que dispõe sobre o Plano Plurianual para o período de 2022 a 2025.
+
+
+Art. 5º.
+
+O crédito adicional suplementar, a ser aberto na conformidade desta lei, terá vigência até 31 de dezembro de 2022.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 11 de outubro de 2022, 62º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1659 de 11/10/2022, pág. 33-37.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1231/ta

@@ -1,0 +1,158 @@
+---
+titulo: "Lei nº 1.442, de 27 de agosto de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1442"
+data: "2002-08-27"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/1435"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1085/text"
+sha256_fonte: "713a67d53bd4a9c09cc01475951b24c2166c4e1f82bc57ed011935b5873f7fa7"
+sha256_texto: "2235144672b014f18c153fef5a3b1d253ceeb5526087a71438a2791948ae241e"
+capturado_em_fonte: "2026-10-27T20:55:55.708900-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.442, de 27 de agosto de 2002
+
+AUTORIZA O PODER EXECUTIVO A DISPONIBILIZAR SERVIÇO DE TELEFONIA MÓVEL ÀS COMUNIDADES DO INTERIOR DO MUNICÍPIO, CÂMARA MUNICIPAL E ASERMA E REVOGA A LEI Nº 1.336/2000.
+
+
+LAURO REINOLDO REETZ, PREFEITO MUNICIPAL DE AGUDO, FAÇO SABER, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+O Poder Executivo fica autorizado a disponibilizar às comunidades do interior do Município, Câmara Municipal e Associação dos Servidores Municipais de Agudo-ASERMA, serviço de telefonia mediante cessão de aparelhos celulares previamente habilitados junto à concessionária, regido pelo disposto nesta Lei.
+
+
+Art. 2º.
+
+Serão beneficiadas pelo serviço autorizado nesta Lei as comunidades interioranas, a Câmara Municipal e os Servidores Municipais associados da ASERMA.
+
+
+Art. 3º.
+
+O serviço está disponibilizado mediante a permissão de uso de aparelho celular à comunidade, na pessoa do Presidente da respectiva Associação ou de representante indicado pela maioria dos respectivos membros, quando inexistir entidade constituída.
+
+
+Parágrafo primeiro.
+
+O presidente da entidade poderá indicar outro membro da comunidade para receber a permissão de uso do aparelho e prestar serviço aos demais interessados, devendo a escolha recair em pessoa residente em ponto estratégico, que permita o atendimento de maior número de pessoas, com a menor distância para deslocamento.
+
+
+Parágrafo segundo.
+
+Para o caso de telefones disponibilizados para a Câmara Municipal e ASERMA, os mesmos terão critérios estabelecidos pelos respectivos órgãos.
+
+
+Art. 4º.
+
+O serviço de atendimento aos demais membros da comunidade caracterizar-se-á como prestação de serviço voluntário, nos termos da Lei Federal nº 9.608, de 18 de fevereiro de 1998, a ser formalizada mediante assinatura de termo de adesão, no qual deverá constar o objeto da prestação e as condições de seu exercício. Para os órgãos da Câmara Municipal e ASERMA, não se aplica o presente artigo e seu parágrafo único.
+
+
+Parágrafo único.
+
+O membro da comunidade que prestar o serviço voluntário de atendimento aos demais fará jus à ajuda de custo correspondente ao valor de até 02 (duas) passagens mensais, ida-e-volta da localidade até a sede do Município.
+
+
+Art. 5º.
+
+Os serviços de telefonia utilizados pelos membros da comunidade, incluído o que mantiver a posse e guarda do aparelho, serão pagos pelo usuário, segundo tabela de preços da concessionária, diretamente ao detentor do aparelho, que fará seu recolhimento à Tesouraria do Município, mensalmente.
+
+
+Parágrafo único.
+
+O pagamento dos serviços de telefonia disponibilizados para a Câmara Municipal e ASERMA serão de sua inteira responsabilidade.
+
+
+Art. 6º.
+
+Para fins de escolha das comunidades a serem beneficiadas com o serviço de que trata esta Lei, o Poder Executivo publicará Edital de Chamamento Público, com prazo de 15 (quinze) dias para habilitação, devendo o instrumento convocatório conter as seguintes condições:
+
+
+I –
+
+apresentação, pelas entidades constituídas, do Estatuto e seu registro no órgão competente, assim como da Ata de eleição do Presidente;
+
+
+II –
+
+apresentação, pelas comunidades que não possuírem associação representativa, de abaixo-assinado subscrito pela maioria de seus membros, indicando a pessoa credenciada a receber o aparelho, ou de ata da reunião em que tenha sido indicado membro para esse fim;
+
+
+III –
+
+apresentação do rol de interessados em cada comunidade, na utilização do serviço de telefonia celular móvel/fixo;
+
+
+IV –
+
+declaração do Presidente da entidade, por este credenciado ou pelo membro indicado, de que aceita prestar o serviço em caráter voluntário;
+
+
+V –
+
+número máximo de aparelhos telefônicos celulares que serão disponibilizados.
+
+
+Parágrafo primeiro.
+
+Na hipótese de maior número de comunidades habilitadas do que os aparelhos disponibilizados, terão prioridade as que apresentarem maior número de pessoas interessadas ou que ainda não possuírem o sistema de telefonia em questão, procedendo-se sorteio no caso de empate. Para a Câmara Municipal e ASERMA, não se aplica o presente artigo.
+
+
+Parágrafo segundo.
+
+O número de aparelhos a serem disponibilizados para a Câmara Municipal e ASERMA, será previamente acordado.
+
+
+Art. 7º.
+
+A entrega do aparelho será formalizada mediante Termo de Permissão de Uso, obrigando-se o permissionário a zelar pela guarda e conservação do equipamento e a observar as demais condições previstas nesta Lei.
+
+
+Parágrafo primeiro.
+
+A entrega dos aparelhos para a Câmara Municipal e ASERMA será feita mediante Termo de Convênio específico, pelo período de 01 (um) ano, podendo ser renovado pelo mesmo período.
+
+
+Parágrafo segundo.
+
+O rompimento do Convênio por qualquer uma das partes poderá ser feito a qualquer momento, mediante prévia comunicação, por escrito, com antecedência mínima de 30(trinta) dias.
+
+
+Art. 8º.
+
+O Poder Executivo regulamentará, no que couber, esta Lei.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 10.
+
+Revogam-se as disposições em contrário, especialmente a Lei nº 1.336/2000..
+
+
+GABINETE DO PREFEITO MUNICIPAL, aos 27 de agosto de 2002; 144º da Colonização e 43º da Emancipação.
+
+LAURO REINOLDO REETZ
+
+Prefeito Municipal
+
+ARNILDO ARCI KEGLER  
+Sec.Mun.de Ind.Comércio e Turismo  
+  
+Registre-se e publique-se.  
+  
+HASSO HARRAS BRÄUNIG  
+Sec. Mun. de Administração
+

@@ -1,0 +1,441 @@
+---
+titulo: "Lei Ordinária nº 1.570, de 28 de setembro de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1570"
+data: "1990-09-28"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4909"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4992/text"
+sha256_fonte: "0e5921813c5938db2522dfbc3429a0df5c836af3f43558ce76e0e00cf1bc20a4"
+sha256_texto: "8342a76593056ef41666cbd6b05ab4c94a189587e9654b3be5af0d6b5efca911"
+capturado_em_fonte: "2026-10-27T21:57:47.922588-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.570, de 28 de setembro de 1990
+
+ABRE CRÉDITO SUPLEMENTAR E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DO CABO, ESTADO DE PERNAMBUCO, SR. ERONIDES FRANCISCO SOARES, NO USO DE SUAS ATRIBUIÇÕES LEGAIS,
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI.
+
+
+Art. 1º.
+
+Fica aberto Crédito Suplementar no valor de CR$ 735.345.000,00 (Setecentos e Trinta e Cinco Milhões, Trezentos e Quarenta e Cinco Mil Cruzeiros), para atender às seguintes dotações orçamentárias:
+
+
+**1000 - CÂMARA MUNICIPAL**
+
+**01010012.01** - Manutenção dos Serviços da Câmara
+
+**3.1.1.1** - Pessoal Civil – CR$ 15.000.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 2.600.000,00
+
+**3.1.3.1** - Remuneração dos Serviços Pessoais – CR$ 8.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 3.000.000,00
+
+**01010011.01** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 2.500.000,00
+
+**01010011.02** - Construção de 02 Galpões para Gabinete
+
+**4.1.1.0** - Obras e Instalações – CR$ 5.300.000,00
+
+**01010012.04** - Auxílio a Diversas Entidades
+
+**3.2.3.1** - Subvenções Sociais – CR$ 30.000,00
+
+**01010012.05** - Auxílio a Pessoas Carentes
+
+**3.2.5.9** - Outras Transferências a Pessoas – CR$ 30.000,00
+
+**13754282.07** - Despesas Médico-Hospitalar Com Vereadores e Servidores
+
+**3.2.5.5** - Assistência Médico-Hospitalar – CR$ 80.000,00
+
+**15818862.08** - Proventos a Inativos
+
+**3.2.5.1** - Inativos – CR$ 800.000,00
+
+**15814362.09** - Encargos com Salário Família
+
+**3.2.5.3** - Salário Família – CR$ 5.000,00
+
+**1100 - GABINETE DO PREFEITO**
+
+**03070202.12** - Manutenção dos Serviços do Gabinete
+
+**3.1.1.1** - Pessoal Civil – CR$ 10.050.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 500.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 200.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 500.000,00
+
+**03070202.13** - Ajuda Financeira a Diversas Entidades
+
+**3.2.3.1** - Subvenções Sociais – CR$ 200.000,00
+
+**03070202.14** - Auxílio a Pessoas Carentes
+
+**3.2.5.9** - Outras Transferências a Pessoas – CR$ 200.000,00
+
+**03070201.03** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 500.000,00
+
+**1101 - DISTRITO DE PONTE DOS CARVALHOS**
+
+**03070212.15** - Manutenção da Administração Distrital
+
+**3.1.1.1** - Pessoal Civil – CR$ 14.600.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 100.000,00
+
+**1103 - DISTRITO DE JUÇARAL E SANTO AGOSTINHO**
+
+**03070212.17** - Manutenção da Administração dos Distritos
+
+**3.1.1.1** - Pessoal Civil – CR$ 4.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 100.000,00
+
+**1104 - ADMINISTRAÇÃO URBANA**
+
+**03070212.18** - Manutenção da Administração Urbana
+
+**3.1.2.0** - Material de Consumo – CR$ 100.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 100.000,00
+
+**1200 - SECRETARIA DE GOVERNO**
+
+**03090402.19** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 6.800.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 400.000,00
+
+**3.1.3.1** - Remuneração dos Serviços Pessoais – CR$ 350.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 600.000,00
+
+**03090402.20** - Ajuda Financeira a Diversas Entidades
+
+**3.2.3.1** - Subvenções Sociais – CR$ 400.000,00
+
+**1300 - PROCURADORIA JURÍDICA**
+
+**02040142.21** - Manutenção dos Serviços de Procuradoria
+
+**3.1.1.1** - Pessoal Civil – CR$ 3.200.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 400.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 400.000,00
+
+**02040141.09** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 100.000,00
+
+**02040142.22** - Encargos com Decisões Judiciais
+
+**3.1.9.1** - Sentenças Judiciais – CR$ 1.000.000,00
+
+**1400 - SECRETARIA DE PLANEJAMENTO**
+
+**03090402.23** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 10.000.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 200.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 800.000,00
+
+**03090401.10** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 100.000,00
+
+**03090401.11** - Reforma do Prédio da Secretaria
+
+**4.1.1.0** - Obras e Instalações – CR$ 3.500.000,00
+
+**10583231.12** - Empresa de Urbanização e Desenvolvimento Integrado do Cabo - URB
+
+**4.3.1.2** - Contribuições para Despesas de Capital – CR$ 25.000.000,00
+
+**1500 - SECRETARIA DE EDUCAÇÃO**
+
+**08070202.25** - Manutenção dos Serviços da Secretaria
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 5.700.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 1.400.000,00
+
+**08070202.26** - Ajuda a Entidades Educacionais
+
+**3.2.3.1** - Subvenções Sociais – CR$ 1.500.000,00
+
+**08070202.27** - Ajuda a Escolas Comunitárias
+
+**3.2.3.1** - Subvenções Sociais – CR$ 5.700.000,00
+
+**08070201.13** - Ampliação e Reforma do Prédio da Secretaria
+
+**4.1.1.0** - Obras e Instalações – CR$ 700.000,00
+
+**08070201.14** - Construção, Ampliação, Conservação e Reforma de Unidades Escolares
+
+**4.1.1.0** - Obras e Instalações – CR$ 2.700.000,00
+
+**08070201.15** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 4.500.000,00
+
+**1501 - ENSINO DO PRIMEIRO GRAU**
+
+**08421881.15** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 800.000,00
+
+**08421382.28** - Manutenção do Ensino do Primeiro Grau
+
+**3.1.2.0** - Material de Consumo – CR$ 950.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 1.200.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 1.000.000,00
+
+**1502 - ENSINO DO SEGUNDO GRAU**
+
+**08431971.18** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.4.0** - Equipamentos e Material Permanente – CR$ 200.000,00
+
+**08431972.29** - Manutenção do Ensino do Segundo Grau
+
+**3.1.1.1** - Pessoal Civil – CR$ 200.000.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 400.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 500.000,00
+
+**1503 - ENSINO SUPLETIVO**
+
+**08452131.19** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 100.000,00
+
+**08452132.30** - Manutenção do Ensino de Pessoas Adultas
+
+**3.1.2.0** - Material de Consumo – CR$ 200.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 500.000,00
+
+**1600 - SECRETARIA DE SAÚDE E ASSISTÊNCIA SOCIAL**
+
+**10603261.21** - Construção, Reforma e Ampliação de Cemitérios
+
+**4.1.1.0** - Obras e Instalações – CR$ 4.000.000,00
+
+**13754282.31** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 53.500.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 4.400.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 10.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 1.000.000,00
+
+**13754281.22** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 10.000.000,00
+
+**13754281.23** - Construção, Reforma e Ampliação de Unidades Médicas
+
+**4.1.1.0** - Obras e Instalações – CR$ 12.000.000,00
+
+**13754282.32** - Auxílio a Pessoas Carentes
+
+**3.2.5.9** - Outras Transferências a Pessoas – CR$ 1.000.000,00
+
+**1700 - SECRETARIA DE OBRAS PÚBLICAS**
+
+**03070211.24** - Reforma, Ampliação e Conservação de Prédios Públicos
+
+**4.1.1.0** - Obras e Instalações – CR$ 700.000,00
+
+**05221341.26** - Construção de Prédio para Funcionamento de Serviços de Telefonia
+
+**4.1.1.0** - Obras e Instalações – CR$ 200.000,00
+
+**10583232.33** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 25.000.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 1.500.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 1.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 1.000.000,00
+
+**13764481.34** - Construção de Galerias, Bueiros, Saneamento Condominial e Fossas Coletivas
+
+**4.1.1.0** - Obras e Instalações – CR$ 1.000.000,00
+
+**16885341.36** - Construção de Obras D'Artes nas Estradas Vicinais
+
+**4.1.1.0** - Obras e Instalações – CR$ 900.000,00
+
+**16915751.39** - Reposição e Pavimentação de Diversas Ruas do Município
+
+**4.1.1.0** - Obras e Instalações – CR$ 21.000.000,00
+
+**1800 - SECRETARIA DE TRANSPORTES E SERVIÇOS URBANOS**
+
+**10603252.35** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 41.000.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 8.000.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 3.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 20.000.000,00
+
+**1900 - SECRETARIA DE AGRICULTURA, INDÚSTRIA E COMÉRCIO**
+
+**03090402.36** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 7.200.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 1.300.000,00
+
+**04140311.52** - Desenvolvimento e Expansão Agrícola
+
+**4.1.3.0** - Investimento em regime de Execução Especial – CR$ 300.000,00
+
+**04150881.53** - Programa de Desenvolvimento e Expansão da Pecuária, Caprinocultura, Suinocultura e Apicultura
+
+**4.1.3.0** - Investimento em Regime de Execução Especial – CR$ 800.000,00
+
+**04150891.54** - Programa de Desenvolvimento da Pesca e da Piscicultura
+
+**4.1.3.0** - Investimento em Regime de Execução Especial – CR$ 800.000,00
+
+**04160991.55** - Programa Alternativo de Abastecimento
+
+**4.1.3.0** - Investimento em Regime de Execução Especial – CR$ 200.000,00
+
+**11633531.57** - Construção, Reforma e Ampliação de Mercados Públicos
+
+**4.1.1.0** - Obras e Instalações – CR$ 200.000,00
+
+**2000 - SECRETARIA DE TURISMO, CULTURA E ESPORTES**
+
+**03070212.37** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 3.800.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 2.400.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 3.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 6.000.000,00
+
+**08462232.38** - Ajuda a Diversas Entidades Esportivas
+
+**3.2.3.1** - Subvenções Sociais – CR$ 350.000,00
+
+**08482461.59** - Ampliação e Conservação do Patrimônio Histórico
+
+**4.1.1.0** - Obras e Instalações – CR$ 1.000.000,00
+
+**08482472.39** - Ajuda a Entidades Culturais
+
+**3.2.3.1** - Subvenções Sociais – CR$ 300.000,00
+
+**08482471.62** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 3.000.000,00
+
+**2100 - SECRETARIA DE ADMINISTRAÇÃO**
+
+**03070242.40** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 39.100.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 18.500.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 7.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 17.500.000,00
+
+**15824922.43** - Contribuição P/ Previdência Social (IAPAS, FGTS, IPSEP)
+
+**3.1.1.3** - Obrigações Patronais – CR$ 11.000.000,00
+
+**15824952.44** - Encargos Cominativos a Pensionistas
+
+**3.2.5.2** - Pensionistas – CR$ 1.600.000,00
+
+**2200 - SECRETARIA DE FINANÇAS**
+
+**03080302.46** - Manutenção dos Serviços da Secretaria
+
+**3.1.1.1** - Pessoal Civil – CR$ 23.000.000,00
+
+**3.1.2.0** - Material de Consumo – CR$ 2.000.000,00
+
+**3.1.3.1** - Remuneração de Serviços Pessoais – CR$ 1.000.000,00
+
+**3.1.3.2** - Outros Serviços e Encargos – CR$ 4.000.000,00
+
+**03080301.65** - Aquisição de Equipamentos e Material Permanente
+
+**4.1.2.0** - Equipamentos e Material Permanente – CR$ 1.000.000,00
+
+**03080332.48** - Encargos de Dívida Interna
+
+**3.2.6.2** - Outros Encargos da Dívida Contratada – CR$ 3.000.000,00
+
+**3.2.0.5** - Juros de Outras Dívidas – CR$ 1.000.000,00
+
+**03080332.49** - Pagamento da Dívida Interna
+
+**4.3.5.1** - Amortização da Dívida Contratada – CR$ 5.000.000,00
+
+**TOTAL:** CR$ 735.345.000,00
+
+
+Art. 2º.
+
+Para abertura do Crédito de que trata o artigo anterior, serão utilizados recursos do Excesso de Arrecadação.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 28 de Setembro de 1990.
+
+ERONIDES FRANCISCO SOARES
+
+PREFEITO.
+

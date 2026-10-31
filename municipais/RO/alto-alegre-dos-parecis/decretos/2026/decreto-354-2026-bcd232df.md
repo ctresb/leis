@@ -1,0 +1,137 @@
+---
+titulo: "DECRETO Nº 354/2026"
+uf: "RO"
+municipio: "ALTO ALEGRE DOS PARECIS"
+tipo: "Decreto"
+numero: "354"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 26/08/2026"
+data_publicacao: 2026-08-26
+codigo_identificador: "BCD232DF"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116138_2026-08-25_3039b5f6e9c0ae8d0136b84a32247e2a.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 354/2026
+
+DECRETO Nº 354/2026
+DECRETO Nº 354/2026
+ALTO ALEGRE DOS PARECIS/RO, 25 DE AGOSTO DE 2026
+
+O Prefeito Municipal de Alto Alegre dos Parecis, Estado de Rondônia,
+no uso de suas atribuições que lhe confere a Lei Orgânica deste
+Município e autorização contida na Lei Municipal nº 2301, de 25 de
+agosto de 2026.
+D E C R E T A:
+
+―ABRE CRÉDITO ADICIONAL ESPECIAL, NO
+ORÇAMENTO
+PROGRAMA
+DE
+2026,
+AUTORIZADO LEI ORDINÁRIA Nº 2300/2026 E
+DÁ OUTRAS PROVIDÊNCIAS‖.
+O Prefeito Municipal de Alto Alegre dos Parecis, Estado de Rondônia,
+no uso de suas atribuições que lhe confere a Lei Orgânica deste
+Município e autorização contida na Lei Municipal nº 2300, de 25 de
+agosto de 2026.
+D E C R E T A:
+Artigo 1º - Fica aberto no corrente exercício no valor de R$ 47.733,17
+(quarenta e sete mil e setecentos e trinta e três reais e dezessete
+centavos), para a(s) seguinte(s) dotação(ões) orçamentárias:
+05.000 - SAAE ALTO ALEGRE DOS PARECIS
+05.001 - SISTEMA AUTONOMO DE ÁGUA E ESGOTO-SAAE
+05.001 – 17.512.25.2.107 – 337 - 3.3.90.39.00.00.00.00 - OUTROS
+SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA – R$ 47.733,17
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+Artigo 2º - Para atendimento da Alteração Orçamentária que trata o
+artigo anterior serão utilizados recursos provenientes de:
+05.000 - SAAE ALTO ALEGRE DOS PARECIS
+05.001 - SISTEMA AUTONOMO DE ÁGUA E ESGOTO-SAAE
+05.001 – 17.512.3.2.106 – 334 - 3.1.90.94.00.00.00.00 –
+INDENIZAÇÕES E RESTITUIÇÕES TRABALHISTAS – R$
+17.000,00
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+05.001 – 17.512.25.2.107 – 335 - 3.3.90.14.00.00.00.00 – DIÁRIAS –
+CIVIL – R$ 10.000,07
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+05.001 – 17.512.25.2.108 – 339 - 4.4.90.52.00.00.00.00 EQUIPAMENTOS E MATERIAL PERMANENTE – R$ 20.733,10
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+Artigo 3º - Este decreto entra em vigor na data de sua publicação,
+revogada as disposições em contrário.
+GABINETE DO PREFEITO MUNICIPAL, 25 de agosto de 2026
+DENAIR PEDRO DA SILVA
+***.***.712_**
+Prefeito
+
+Artigo 1º - Fica aberto no corrente exercício no valor de R$ 96.000,00
+(noventa e seis mil reais), para a(s) seguinte(s) dotação(ões)
+orçamentárias:
+02.000 - PODER EXECUTIVO
+02.006 – SECRETARIA MUNICIPAL DE INFRAESTRUTURA E
+SERV. URBANOS
+02.006 – 15.452.14.2.054 – 186 - 3.3.90.30.00.00.00.00 - MATERIAL
+DE CONSUMO – R$ 46.000,00
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+02.006 – 15.452.14.2.054 – 187 - 3.3.90.39.00.00.00.00 - OUTROS
+SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA – R$ 50.000,00
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+Artigo 2º - Para atendimento da Alteração Orçamentária que trata o
+artigo anterior serão utilizados recursos provenientes de:
+02.000 - PODER EXECUTIVO
+02.004 - SECRETARIA MUNICIPAL DE ESPORTE CULTURA E
+TURISMO
+02.004 – 27.812.12.2.041 - 121 - 4.4.90.52.00.00.00.00 EQUIPAMENTOS E MATERIAL PERMANENTE – R$ 19.999,99
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+02.000 - PODER EXECUTIVO
+02.005 - SECRETARIA MUNICIPAL DE FINANÇAS E
+ADMINISTRAÇAO
+02.005 – 4.123.2.2.044 - 146 - 4.4.90.51.00.00.00.00 - OBRAS E
+INSTALAÇÕES – R$ 9.999,99
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+02.005 – 4.123.2.2.044 - 147 - 4.4.90.52.00.00.00.00 EQUIPAMENTOS E MATERIAL PERMANENTE – R$ 20.000,00
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+02.005 – 4.123.3.2.047 – 160 - 4.4.90.52.00.00.00.00 EQUIPAMENTOS E MATERIAL PERMANENTE – R$ 14.999,99
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+02.000 - PODER EXECUTIVO
+02.008 - SECRETARIA MUN. DE PLANEJ., ORÇAMENTO E
+GESTAO
+02.008 – 4.121.16.2.061 - 199 - 4.4.90.52.00.00.00.00 EQUIPAMENTOS E MATERIAL PERMANENTE – R$ 31.000,03
+1.500.0000.0000 - RECURSOS NÃO VINCULADOS DE
+IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+www.diariomunicipal.com.br/arom
+
+9
+
+Rondônia , 26 de Agosto de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4306
+Artigo 3º - Este decreto entra em vigor na data de sua publicação,
+revoga o documento ID. 2.519.C42_-_DECRETO_-_ Nº 355_2026 25_08_2026_LEI ORDINÁRIA Nº 2302_2026.
+
+ALTO ALEGRE DOS PARECIS/RO, 25 DE AGOSTO DE 2026
+―ABRE CRÉDITO ADICIONAL ESPECIAL, NO
+ORÇAMENTO
+PROGRAMA
+DE
+2026,
+AUTORIZADO LEI ORDINÁRIA Nº 2303/2026 E
+DÁ OUTRAS PROVIDÊNCIAS‖.
+
+GABINETE DO PREFEITO MUNICIPAL, 25 de agosto de 2026
+DENAIR PEDRO DA SILVA
+***.***.712_**
+Prefeito
+Publicado por:
+Regina Celia Scarpati

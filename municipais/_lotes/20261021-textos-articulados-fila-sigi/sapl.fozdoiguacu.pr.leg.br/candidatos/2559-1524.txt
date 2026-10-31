@@ -1,0 +1,50 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Suplementar, no valor de R$ 80.372.000,00 (oitenta milhões, trezentos e setenta e dois mil reais) o Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a proceder à abertura de um Crédito Adicional Suplementar ao Orçamento Geral do Município, no valor de R$ 80.372.000,00 (oitenta milhões, trezentos e setenta e dois mil reais), para reforço de dotações, na forma especificada no Anexo I desta Lei.
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º., na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, conforme Anexo II desta Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 23 de maio de 2025.  
+  
+Joaquim Silva e Luna  
+Prefeito Municipal  
+  
+Larissa Ferreira  
+Secretária Municipal da Administração e Recursos Humanos  
+  
+Eduardo Castanheira Garrido Alves  
+Secretário Municipal de Finanças e Orçamento  
+  
+Fábio de Mello  
+Responsável pela Secretaria Municipal da Saúde
+
+
+## Anexo I — CRÉDITO ADICIONAL SUPLEMENTAR
+
+
+<table><tbody><tr><td>Órgão</td><td>10</td><td>SECRETARIA MUNICIPAL DA SAÚDE</td><td>TOTAL</td></tr><tr><td>Unidade</td><td>01</td><td>FUNDO MUNICIPAL DE SAÚDE</td><td> </td></tr><tr><td>Funcional Programática</td><td>10.302.0570.2095</td><td>MANUTENÇÃO DA UNIDADE HOPITALAR MUNICIPAL - HMPGL</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.50.85</td><td>Contrato de Gestão</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente....</td><td>21.437.450,00</td></tr><tr><td>Fonte de Recursos</td><td>1.1064</td><td>Assistência financeira da União destinada a complementação ao pagamento dos pisos salariais para profissionais da enfermagem....</td><td>2.854.550,00</td></tr><tr><td>Fonte de Recursos</td><td>1.496</td><td>Atenção de Média e Alta Complexidade Ambul. e Hospitalar....</td><td>20.500.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.50.85</td><td>Contrato de Gestão</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente....</td><td>8.120.000,00</td></tr><tr><td>Fonte de Recursos</td><td>1.002</td><td>DRM-Desvinculação das Receitas dos Municípios E.C. nº 93/2016....</td><td>14.600.000,00</td></tr><tr><td>Fonte de Recursos</td><td>1.496</td><td>Atenção de Média e Alta Complexidade Ambul. e Hospitalar....</td><td>12.480.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.50.85</td><td>Contrato de Gestão</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.000</td><td>Recursos Ordinários (Livres) - Exercício Corrente....</td><td>380.000,00</td></tr><tr><td colspan="4">Justificativa: Adequação orçamentária para recompor o orçamento do Hospital Municipal.</td></tr><tr><td colspan="3">TOTAL DA SUPLEMENTAÇÃO</td><td>80.372.000,00</td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO
+
+
+<table><tbody><tr><td>Órgão</td><td>34</td><td>AUTARQUIA MUNICIPAL DE SAÚDE DE FOZ DO IGUAÇU-AMS</td><td>VALOR</td></tr><tr><td>Unidade</td><td>01</td><td>AUTARQUIA MUNICIPAL DE SAÚDE - AMS</td><td> </td></tr><tr><td>Funcional Programática</td><td>10.302.0570.2290</td><td>Manutenção e Gestão da Autarquia Municipal de Saúde</td><td> </td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.11</td><td>Vencimentos e Vantagens Fixas - Pessoal Civil</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>16.257.450,00</td></tr><tr><td>Fonte de Recursos</td><td>1.1064</td><td>Assistência financeira da União destinada a complementação ao pagamento dos pisos salariais para profissionais da enfermagem....</td><td>2.854.550,00</td></tr><tr><td>Fonte de Recursos</td><td>1.496</td><td>Atenção de Média e Alta Complexidade Ambul. e Hospitalar....</td><td>20.500.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.1.90.13</td><td>Obrigações Patronais</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>190.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.1.91.13</td><td>Obrigações Patronais</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>4.990.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.30</td><td>Material de Consumo</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>1.990.000,00</td></tr><tr><td>Fonte de Recursos</td><td>1.002</td><td>DRM-Desvinculação das Receitas dos Municípios E.C. nº 93/2016....</td><td>6.800.000,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>Fonte de Recursos</td><td>1.496</td><td>Atenção de Média e Alta Complexidade Ambul. e Hospitalar....</td><td>6.490.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.36</td><td>Outros Serviços de Terceiros - Pessoa Física</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>60.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.39</td><td>Outros Serviços de Terceiros - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>3.890.000,00</td></tr><tr><td>Fonte de Recursos</td><td>1.002</td><td>DRM-Desvinculação das Receitas dos Municípios E.C. nº 93/2016....</td><td>7.800.000,00</td></tr><tr><td>Fonte de Recursos</td><td>1.496</td><td>Recursos Ordinários (Livres) - Exercício Corrente....</td><td>5.990.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.40</td><td>Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>190.000,00</td></tr><tr><td>Natureza da Despesa</td><td>3.3.90.46</td><td>Auxílio-Alimentação</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>1.990.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.51</td><td>Obras e Instalações</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>190.000,00</td></tr><tr><td>Natureza da Despesa</td><td>4.4.90.52</td><td>Equipamentos e Material Permanente</td><td> </td></tr><tr><td>Fonte de Recursos</td><td>1.001</td><td>Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>190.000,00</td></tr><tr><td colspan="4">Justificativa: Adequação orçamentária para recompor o orçamento do Hospital Municipal.</td></tr><tr><td colspan="3">TOTAL DA ANULAÇÃO</td><td>80.372.000,00</td></tr></tbody></table>
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

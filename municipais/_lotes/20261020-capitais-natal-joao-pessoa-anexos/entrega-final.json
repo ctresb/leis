@@ -1,0 +1,28 @@
+{
+  "aprovados": 1,
+  "retidos": 1,
+  "hosts": 2,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-anexos/aprovados.paths.txt",
+      "sha256": "da0fd84d0d49b203af2e1d414ba915a149daa3e109a3d058b0c49f995b449cc0"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-anexos/host-sapl.joaopessoa.pb.leg.br.json",
+      "sha256": "fa8b64ad52e64760f1fada87f1745cfa910831124bf502f1a6c572d1144fd3e5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-anexos/host-sapl.natal.rn.leg.br.json",
+      "sha256": "95837820808362d51ac2cc2df21bbcee8ad55f399e4d0ca36dce10ec1dd2e923"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-anexos/overlay.json",
+      "sha256": "49cff552dd2661db0cee45a22722cd799f4ea5226b1b817150266107ed5efaec"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-anexos/retidos.paths.txt",
+      "sha256": "a1d80b6342433e84112884bf280cc1616b0b9e66dbfcd6446f025120fbfc5227"
+    }
+  ],
+  "script_sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362"
+}

@@ -1,0 +1,51 @@
+---
+titulo: "LEI COMPLEMENTAR Nº 02/2026"
+uf: "PA"
+municipio: "MONTE ALEGRE"
+tipo: "Lei Complementar"
+numero: "02"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 20/08/2026"
+data_publicacao: 2026-08-20
+codigo_identificador: "F456F4A8"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117150_2026-08-19_9ecf9f0d85517ab41e4c895de7bd8aa0.pdf"
+baixado_em: 2026-10-15
+---
+# LEI COMPLEMENTAR Nº 02/2026
+
+LEI COMPLEMENTAR Nº 02/2026
+LEI COMPLEMENTAR Nº 02/2026
+De 11 de agosto de 2026.
+DISPÕE SOBRE O PARCELAMENTO E O
+REPARCELAMENTO DAS CONTRIBUIÇÕES
+PREVIDENCIÁRIAS E DOS DEMAIS DÉBITOS
+DO MUNICÍPIO DE MONTE ALEGRE,
+INCLUÍDAS
+SUAS
+AUTARQUIAS
+E
+FUNDAÇÕES, E DO PODER LEGISLATIVO
+MUNICIPAL, COM O REGIME PRÓPRIO DE
+PREVIDÊNCIA
+SOCIAL
+–
+RPPS,
+ADMINISTRADO
+PELO
+INSTITUTO
+DE
+PREVIDÊNCIA DO MUNICÍPIO DE MONTE
+ALEGRE/PA – IPMMA, DE QUE TRATAM OS
+ARTS. 115 E 117 DO ATO DAS DISPOSIÇÕES
+CONSTITUCIONAIS TRANSITÓRIAS – ADCT,
+COM A REDAÇÃO CONFERIDA PELA EMENDA
+CONSTITUCIONAL Nº 136, DE 9 DE SETEMBRO
+DE 2025, E DÁ OUTRAS PROVIDÊNCIAS.
+
+Ciente:________________
+Data: _____/_______/__________
+Publicado por:
+Felisberto Abreu Dias Filho

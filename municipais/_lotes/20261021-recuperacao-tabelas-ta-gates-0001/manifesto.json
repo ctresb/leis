@@ -1,0 +1,191 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 1000,
+  "aprovados_nestes_gates": 699,
+  "fontes": [
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.acari.rn.leg.br.prefixo.jsonl",
+      "sha256": "f4268b22246093b666b46c6be6f6691a4964edff1bda094d808befb3b98b4626",
+      "bytes": 130950
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.acari.rn.leg.br.tipos.json",
+      "url": "https://sapl.acari.rn.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4f88396d20e68fb7c5044a1f5d63c0caa43fc6bf2314f48672db2fd3924c5bb2"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.acari.rn.leg.br.anexos.json",
+      "sha256": "4662f5e4915f65729807fce4dd9b97ab0ed3d1be5a4b61d65d5470e0f38c1f47"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.agudo.rs.leg.br.prefixo.jsonl",
+      "sha256": "8b33f537514e818a618bbfe7c32304ff5a22f58b9d5c296dc0231d56e10af8d5",
+      "bytes": 50630
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.agudo.rs.leg.br.tipos.json",
+      "url": "https://sapl.agudo.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b057e0780b8e70fb396b5b733022f17c7a2a434f848534ea30a256ec8653882d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.agudo.rs.leg.br.anexos.json",
+      "sha256": "0bb5a98fd2ba2cec0c0675f55f0d9bc26f1fd2b89e7dc9bb616f83cb6004aa7d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alpinopolis.mg.leg.br.prefixo.jsonl",
+      "sha256": "8a50ea8c2abb1b73368650bfcced5c117e75587e65caf851bf06ed9a1661b45b",
+      "bytes": 9283
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alpinopolis.mg.leg.br.tipos.json",
+      "url": "https://sapl.alpinopolis.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d28f23313129670d400eb6bfd055a7739d524d445ec20cb6bfee8c8cb32826cb"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alpinopolis.mg.leg.br.anexos.json",
+      "sha256": "fd79c3d82197da8ec51c540b78bca482fbf1b0b10e5a931e6b557116c9b7166b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.altogarcas.mt.leg.br.prefixo.jsonl",
+      "sha256": "6f905a6c5d26e54947f56c7fe2c3379461c8b34150f37859e37a79bb7db30b58",
+      "bytes": 80903
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.altogarcas.mt.leg.br.tipos.json",
+      "url": "https://sapl.altogarcas.mt.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "2436c0910933dff9a31e24312e5c59f9d16a301d687c444e9bba4557faa1ec9b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.altogarcas.mt.leg.br.anexos.json",
+      "sha256": "2ec06e8e0b9c66d839742022b4650c6e2c2ca6b373c01d5c085497709ce7ac0d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alvaresmachado.sp.leg.br.prefixo.jsonl",
+      "sha256": "11722a8ce17fb5190c308bf442c2c688405294e0cadc161fe3a135748c79ce11",
+      "bytes": 3150
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alvaresmachado.sp.leg.br.tipos.json",
+      "url": "https://sapl.alvaresmachado.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "74be1e2d3c254f009b295aa9d8f5a3450e61103f9f1161ee6f1f091188c1861d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alvaresmachado.sp.leg.br.anexos.json",
+      "sha256": "4719352e417a35a6481cc94d686232076d116a6d2d2ddc857f0a0136c53d3f19"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alvoradadonorte.go.leg.br.prefixo.jsonl",
+      "sha256": "475bfab1134963eaffaea632edebeda8b856b9ea540ac052f0ef1c8e05f284f5",
+      "bytes": 32561
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alvoradadonorte.go.leg.br.tipos.json",
+      "url": "https://sapl.alvoradadonorte.go.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "339abf4de215bf1ca4c528692682ff38c4f3d8829f8b88ec4d85494ba6b60931"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.alvoradadonorte.go.leg.br.anexos.json",
+      "sha256": "807f5bee40e7917931ca28fc6fc8c944964ca126a78c1785582a8fd75a48605f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.amontada.ce.leg.br.prefixo.jsonl",
+      "sha256": "405514c2c5c051c71e112c1e778ebc0825efb5052b120fe06a4035ea97a518a7",
+      "bytes": 175531
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.amontada.ce.leg.br.tipos.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4769e996a4cfdc2946b5c0f02b3621e95e8cbdf9a0a0c35c77252a3a8cd05490"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.amontada.ce.leg.br.anexos.json",
+      "sha256": "e33c36b1aae5e0af16e6623654340c826323bf3bc0266b476b7e48e51366bcee"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.boavista.rr.leg.br.prefixo.jsonl",
+      "sha256": "60adad7b9eddfeeebd51ff5c69daacb67f4fbde3776ed35300845c92926a2252",
+      "bytes": 3168
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.boavista.rr.leg.br.tipos.json",
+      "url": "https://sapl.boavista.rr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0c320af5e9ee32450223096d99ab63c27e761a50a1a3f6deaa94d492a011553b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.boavista.rr.leg.br.anexos.json",
+      "sha256": "9266d89b4a6994e8f7c6b62357456f9f111b639de9dca5491c63170a72f871c8"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.erechim.rs.leg.br.prefixo.jsonl",
+      "sha256": "1c07663fe0167465fe4649a22f5dc0776f55920f1d81af93f79c13fc520cff66",
+      "bytes": 61060
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.erechim.rs.leg.br.tipos.json",
+      "url": "https://sapl.erechim.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "54baddcc16776318bee730a3df6816bdc839a504211f37d2080b78a6e7f27fbf"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.erechim.rs.leg.br.anexos.json",
+      "sha256": "20f50de24f24030b12ab268ef5fc24f9887eba212a8746d4dcf2636bfa4becd9"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.fortaleza.ce.leg.br.prefixo.jsonl",
+      "sha256": "7daff624ca67c90272edb00288e92bfcce7fb1f11574fbb6e750a58c01b60493",
+      "bytes": 226929
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.fortaleza.ce.leg.br.tipos.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "cc738081c5fd74d82ed6686ffa44e0e160436b11c6323dbcd36a28572346971b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.fortaleza.ce.leg.br.anexos.json",
+      "sha256": "a404a71cb9e4081b89f11098f51838393d94c7f4d858994fd33a58b33d60ef7f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "c7b93fe3a558253f8219fa1886374892fa506d4d5dbc92b14ad0b03a95ac5164",
+      "bytes": 2316141
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.riobranco.ac.leg.br.prefixo.jsonl",
+      "sha256": "3e23def1d0480c79b4915a8403fbebe46dae5289feea29f5b255bcda200c7d9a",
+      "bytes": 173015
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.riobranco.ac.leg.br.tipos.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d88103444ba7b6fabeb2820cdb47f6d84fd27bbbe7387809c6679e0c79f030d4"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.riobranco.ac.leg.br.anexos.json",
+      "sha256": "811dbc9f2a1456cb674e4f4873263f5544aea621139491f88d6cef96c55fcc7a"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.santarem.pa.leg.br.prefixo.jsonl",
+      "sha256": "ce78be04d510e096dd6d334d45fc4c70c31fc9d6ee455652dae21cf2f9681809",
+      "bytes": 3244
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.santarem.pa.leg.br.tipos.json",
+      "url": "https://sapl.santarem.pa.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5152aa4acf6d603340ef2bd834b112c332d7824b079c1b39f65d7670f03a3b37"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/sapl.santarem.pa.leg.br.anexos.json",
+      "sha256": "8d592bf21838e5ca92ded42ba536ea4786f58e0fcceb8651ba7b45366929d57d"
+    }
+  ],
+  "script_sha256": "42d64b82eb456961d2286de0137e948be779fda35fdca13e0479e89cca1c62d1",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

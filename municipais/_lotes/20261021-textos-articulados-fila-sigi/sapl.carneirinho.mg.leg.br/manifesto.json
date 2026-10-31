@@ -1,0 +1,272 @@
+{
+  "host": "sapl.carneirinho.mg.leg.br",
+  "metadados_unicos_observados": 2335,
+  "total_api_declarado": 2335,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 29,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/1f99c626b5846c3bcfc3fe1e4e22b2312f01b4e84abdbf46ad95c13f6a27031a.json",
+    "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "11e9ac2f583d9ba1b8b1261baa7643d9bda4bc92e2bac3accbcaaa3b94f1b177",
+    "bytes": 957,
+    "capturado_em": "2026-10-27T22:36:38.800311-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/af902e3d35f379fcd9b3f77a2a296fed4de2368795c4002d10d5167942a46cd7.json",
+    "url": "https://sapl.carneirinho.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.carneirinho.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "07e8e392f620e89c976c71a1a807fed9b35475f55182b15cde6b727cc559f6d8",
+    "bytes": 850,
+    "capturado_em": "2026-10-27T22:36:38.038182-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/cf9bd6725e52641ff16f2cba3156ad1b392c6a4557ba37d7d7b01aa2bd663307.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "05a38d3a57513ce6e55d6e9ca20b2ceff857e68f1b562efb059207a33a643358",
+      "bytes": 70885,
+      "capturado_em": "2026-10-27T22:36:41.415739-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/ecf8941050a658b6af1bd6afc55090d7e1abb9bcbe33f514bdae3c118d5f936a.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "645e7dca9b6d9096314c72675b9ace23722530cf4618e461aacc76f17e94fd94",
+      "bytes": 76960,
+      "capturado_em": "2026-10-27T22:36:44.378935-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/b5d33cb6ac1ef1af5d3b7cfe1f24668673a59bc5839b618523f2dcd01cdded34.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ff828dd7b351b54047387e069a8867cb16286d56d90f980c445d34c32de0a5cc",
+      "bytes": 66794,
+      "capturado_em": "2026-10-27T22:36:45.384760-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/8e75f43c2f389aabf738d5cb25e1865419349d247568ee842a411ef6bb85c317.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "309ef54c8deb0c2270bf29b03bb6f5e2d18dd457778f454589fa618ba17b381c",
+      "bytes": 72222,
+      "capturado_em": "2026-10-27T22:36:46.333620-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/a205c4ec07746ef54d3d023ddd96439dbc5bc7bcd10a3f2c64427aaf5921b3ae.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2530b4f20f981ffbe73869c45278bcf99e50b47fa726042e52aa0189ec519085",
+      "bytes": 67252,
+      "capturado_em": "2026-10-27T22:36:47.604041-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/f68b4111eac36a41c8edb4711dc0eaa967e195e9737da40107855ef46868fd76.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ba7108966c044e5b95ba51298cf41209e56b700459ba1ff971389e8596551d7a",
+      "bytes": 68734,
+      "capturado_em": "2026-10-27T22:36:48.330800-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/f1672ef83faabf536d6b4f647c6c45dc459605d7a93d1bfb9c2641b921d9679a.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "baf13a2c03670884a60ef886b30b8d672f99e41cd0d2c808895f8110362d1c2c",
+      "bytes": 67799,
+      "capturado_em": "2026-10-27T22:36:53.714763-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/76191e8a716226a486938caeca06b9e91aef5f7a077f810f7a55cf6b6b1589f9.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "64ab0527852e360b4679bc64369d2bbcac4a1a8e73c39a5558b04621ef4e9de9",
+      "bytes": 72150,
+      "capturado_em": "2026-10-27T22:36:54.704492-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/f2fef2782aa9fdea13b3c2641b18623a0815fee6a147bf59c6e5f56b684efa0e.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8126be6f23dbcf3ed8203bfd1b3c8686f760d7d8dd3963f8e1f2222f271aeea3",
+      "bytes": 71051,
+      "capturado_em": "2026-10-27T22:36:55.815601-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/a7901d8688508fb2d97de876fcc06fd0f02d7dff3d58ab46c9f9787fd4c75c92.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ed0802119c8627ccf5f035fff6e45e15a60b3e3f20f891c4003f63b1e8df6459",
+      "bytes": 63597,
+      "capturado_em": "2026-10-27T22:36:56.715970-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/9339d98cec92517eb025de87e655db095dede7c43ae68ffb08d018b23e6a3794.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0e14052f31a9f87ba0ee6e8055940d2b1315f07bd005f602ee04c249b1777277",
+      "bytes": 62408,
+      "capturado_em": "2026-10-27T22:36:57.759858-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/37ab732db1da81eb4c4cd46ee672fb1e4c89278bee8a4064cdf9f911cae18238.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "83eecc20ed4f5b996a7f3d2bdf8977120a9db1b301f8b2f396f7014b6c084374",
+      "bytes": 64276,
+      "capturado_em": "2026-10-27T22:36:58.884443-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/47843d9dd1b0da881cff9856ea6a3cbb253a19dbd5b679554a3b3d6e39ac88e5.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "072079bb2278b4a04d5896f8033480e5a03ddeb0972efb0fc6729762bb2b8d68",
+      "bytes": 61064,
+      "capturado_em": "2026-10-27T22:36:59.756900-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/114f405322f0e433d105a9083ac3dc689c55e2514ed5137d2208220dc9d7136f.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "049a9de73e30eec5bad2cb11e4a9445bece5b5cd139d64b99feef9d94a7b37bc",
+      "bytes": 61496,
+      "capturado_em": "2026-10-27T22:37:00.719434-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/9d1f2816bde0951c473a6788e0cd6ca2372b9483934ecdcd939d6d8335852520.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b722e6a1a2bc7d6310b270b069060ca87a7be37450e8ceb54c3c150b8d4af1cd",
+      "bytes": 62831,
+      "capturado_em": "2026-10-27T22:37:01.803025-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/584e40777ea09f6e898b73f676e1025177ca14c174567cfe50235ce6cae5a13e.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f69b66c204e5076758596e6d69b95db8a6a79fa6b95d7f52b71f440d75a2e383",
+      "bytes": 60474,
+      "capturado_em": "2026-10-27T22:37:05.009999-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/ff7b5f00a415ed1b5cde1bcd4dd7d3e3e37c8f1687d0dc0cb45ecf80b396fdd9.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8465075ea5d0d8918ef0386e91e5abd2f20cbd7aeaa9a13403d4a51f1e7c4e7f",
+      "bytes": 67045,
+      "capturado_em": "2026-10-27T22:37:05.999539-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/00c9e8ae298fe58837a8988eef28fa7ee63d266f2b137a1e7198d52e519ce84a.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "df9e913d9b2df31b90c7ef1c3fd80a4236af634020bdc9c745ebfa43e6357999",
+      "bytes": 64178,
+      "capturado_em": "2026-10-27T22:37:06.771655-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/6d4afeb7b4994809a2377d169c761b3206c7607fbda3344f631cc9d8538ac065.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "dfef7bd12bf26c978daba44c3b7ab4c566a0836ddc8952ddf490a3702e748458",
+      "bytes": 66877,
+      "capturado_em": "2026-10-27T22:37:07.972959-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/341e8dfbb89cfcac5809dcb0bd76449afd6dc3b3458be395025fc187aa292372.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "934b0d7a17d9fa74fc92725d92d3242a3942c0f1ae0bd87b7bf1ea0bb50ce31f",
+      "bytes": 64576,
+      "capturado_em": "2026-10-27T22:37:09.101204-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/18f3551970c5b7f96615777800247c41d9a824c2f0bd286832242304d4a5e6ac.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bdd5b0694ed459a677019a9e00389e95fe2ea1c8610db02a2fe2cff8bdd35e00",
+      "bytes": 68887,
+      "capturado_em": "2026-10-27T22:37:09.795344-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/fea0af6cf8bf08f943fcb3f30235695eeb7b31b5d4ec0874863b88fd927202e8.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "71437d504e8704ba94e4e4f12778b2d871e90e7c8913c7b8b15114384a6b0b0e",
+      "bytes": 65693,
+      "capturado_em": "2026-10-27T22:37:13.190990-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/68d38bc8174c00aac06b7f8c4a7b1425cf74d4c4cc18b207ccee9034c6625da0.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0a3eef38c5e34ce90c8a3f461034eddce2449e5082c80aa631c1780f51e78164",
+      "bytes": 63856,
+      "capturado_em": "2026-10-27T22:37:13.946502-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carneirinho.mg.leg.br/e8bc96eeacc84b1f7ac2ef1096654d1a816390cc7f05ee2c29c5c9c26448511f.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.carneirinho.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4bcdd6db3de8291112f4ec1cbde14ffa58fc8c2133164bbe52031d6720eb304f",
+      "bytes": 21262,
+      "capturado_em": "2026-10-27T22:37:22.852673-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.comodoro.mt.leg.br",
+  "metadados_unicos_observados": 3,
+  "total_api_declarado": 3,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comodoro.mt.leg.br/4584285304ffefde147357110ceb546a7abbc940e0337e2b104d9134b1845414.json",
+    "url": "https://sapl.comodoro.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.comodoro.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9f1eb094e0dbb920255404fef2c2db8bcc3fba00df309cb21bed162b28c72309",
+    "bytes": 956,
+    "capturado_em": "2026-10-27T23:07:14.493645-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comodoro.mt.leg.br/5cbf2bf98b1ed8852d89292594653cf3658c7480cf49224e6f6784a6a9065e3b.json",
+    "url": "https://sapl.comodoro.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.comodoro.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "76830a00d068f61d370c5cb177ae50fb666507488a7b2d0b0f58a910bbf173d4",
+    "bytes": 653,
+    "capturado_em": "2026-10-27T23:07:13.682928-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.comodoro.mt.leg.br/a125f237b96a18cbec15d25ed3ce446d1e0daa8efc066ef216066dc5263d9ed2.json",
+      "url": "https://sapl.comodoro.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.comodoro.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a671061bd041872a57185dc8fe2fbd5f9a4c932bfb32ca42dbce07de17ed0145",
+      "bytes": 2333,
+      "capturado_em": "2026-10-27T23:07:16.581823-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

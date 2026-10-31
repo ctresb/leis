@@ -1,0 +1,108 @@
+{
+  "estado": "indice_completo",
+  "total": 9,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/publicacao_do_decreto_no_003-2023_-_julga_as_contas_de_governo_exercicio_financeiro_2021.pdf da norma Decreto Legislativo-CM nº 3, de 08 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Decreto Legislativo que julgou as Contas de Governo da Prefeitura Municipal de Campo Grande do Piauí, exercício financeiro de 2021.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2023/1/publicacao_do_decreto_no_003-2023_-_julga_as_contas_de_governo_exercicio_financeiro_2021.pdf",
+      "ano": 2023,
+      "norma": 158
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/2/pecasprocesso0201252021.pdf da norma Decreto Legislativo-CM nº 2, de 21 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Processo do TCE-PI, que julgou as prestações de contas da Prefeitura Municipal de Campo Grande do Piauí, exercício financeiro de 2022.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2024/2/pecasprocesso0201252021.pdf",
+      "ano": 2024,
+      "norma": 14
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/3/pecasprocesso0201252021.pdf da norma Decreto Legislativo-CM nº 3, de 08 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Processo TC/020125/2021, que julgou as Contas de Governo da Prefeitura Municipal de Campo Grande do Piauí, Exercício Financeiro de 2021.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2023/3/pecasprocesso0201252021.pdf",
+      "ano": 2023,
+      "norma": 158
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/publicacao_decreto_legislativo_no_02-2024_e_parecer.pdf da norma Decreto Legislativo-CM nº 2, de 21 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Decreto Legislativo nº 02/2024, que julgou as Contas de Governo da Prefeitura Municipal de Campo Grande do Piauí, Exercício Financeiro de 2022.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2024/4/publicacao_decreto_legislativo_no_02-2024_e_parecer.pdf",
+      "ano": 2024,
+      "norma": 14
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/publicacao_decreto_legislativo_002-2025.pdf da norma Decreto Legislativo-CM nº 2, de 06 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Decreto Legislativo nº 002/2025",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2025/5/publicacao_decreto_legislativo_002-2025.pdf",
+      "ano": 2025,
+      "norma": 163
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/publicacao_decreto_legislativo_003-2025.pdf da norma Decreto Legislativo-CM nº 3, de 06 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Decreto Legislativo nº 003/2025.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2025/6/publicacao_decreto_legislativo_003-2025.pdf",
+      "ano": 2025,
+      "norma": 164
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/publicacao_da_lei_348-2025.pdf da norma Lei Ordinária-PM nº 348, de 06 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Lei nº 348/2025.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2025/7/publicacao_da_lei_348-2025.pdf",
+      "ano": 2025,
+      "norma": 161
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/publicacao_da_lei_349-2025.pdf da norma Lei Ordinária-PM nº 349, de 06 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Lei nº 348/2025.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2025/8/publicacao_da_lei_349-2025.pdf",
+      "ano": 2025,
+      "norma": 162
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/publicacao_da_resolucao_001-25.pdf da norma Resolução-CM nº 1, de 04 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Nomeia membros das Comissões Permanentes que especifica.",
+      "anexo_arquivo": "http://sapl.campograndedopiaui.pi.leg.br/media/sapl/public/anexonormajuridica/2025/9/publicacao_da_resolucao_001-25.pdf",
+      "ano": 2025,
+      "norma": 155
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campograndedopiaui.pi.leg.br/790cc5ed1bdf6d656365f3d2654f67db1c0017bc876ee78fa317e89a5b8b2707.json",
+      "url": "https://sapl.campograndedopiaui.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.campograndedopiaui.pi.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b18323b187c6b3b8d78bae30e8963f3341c52b93b875c4552002bf47c2d2b189",
+      "bytes": 4969,
+      "capturado_em": "2026-10-27T22:21:40.892096-03:00"
+    }
+  ]
+}

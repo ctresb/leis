@@ -1,0 +1,27 @@
+---
+titulo: "Lei Ordinária nº 2.159, de 09 de dezembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2159"
+data: "2024-12-09"
+municipio: "Jambeiro"
+uf: "SP"
+codigo_ibge: "3524907"
+versao_texto: "texto integral anexado no SAPL municipal; Dispoe sobre alteração dos anexos Lei de Diretrizes orçamentárias numero 2142 de 24 de junho de 2024 para o exercicio financeiro de 2025"
+fonte: "https://sapl.jambeiro.sp.leg.br/norma/1515"
+fonte_texto: "https://sapl.jambeiro.sp.leg.br/media/sapl/public/normajuridica/2024/1515/lei_municipal_no2159.pdf"
+sha256_fonte: "8232f87a9489851869393c369668c28293fbf9821b57a37b9ae5ba328e505d79"
+sha256_texto: "94d285e4755ef3ee88afb542703e0dd0872ae790f2ea91d499cca422856c32da"
+baixado_em: "2026-10-20"
+---
+
+# Lei Ordinária nº 2.159, de 09 de dezembro de 2024
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Prefeitura Municipal de Jambeiro
+
+LEI NÚMERO 2159 DE 09 DE DEZEMBRO DE 2024. DISPÕE SOBRE ALTERAÇÃO DOS ANEXOS LEI DE DIRETRIZES ORÇAMENTÁRIAS NÚMERO 2142 DE 24 DE JUNHO DE 2024 PARA O EXERCÍCIO FINANCEIRO DE 2025. CARLOS ALBERTO DE SOUZA, PREFEITO MUNICIPAL DE JAMBEIRO, ESTADO DE SÃO PAULO, FAZ SABER QUE A CÂMARA MUNICIPAL APROVOU E ELA SANCIONA E PROMULGA A SEGUINTE LEI: ARTIGO 1° - EM CUMPRIMENTO AOS DISPOSITIVOS ESPECÍFICOS CONTIDOS NA CONSTITUIÇÃO FEDERAL, NA CONSTITUIÇÃO ESTADUAL, NA LEI ORGÂNICA MUNICIPAL, NA LEI 4.320/64 E NA LEI 101/2000, FICAM ALTERADOS OS ANEXOS DA LEI DE DIRETRIZES ORÇAMENTÁRIAS - L.D.O. - PARA O EXERCÍCIO FINANCEIRO DE 2025, COM OS VALORES ESTABELECIDOS EM CONSONÂNCIA COM A LEI DO PLANO PLURIANUAL. ARTIGO 3° - OS DEMAIS ARTIGOS DA LEI MUNICIPAL 2142 DE 27 DE JUNHO DE 2024, PERMANECEM INALTERADOS.
+
+ART. 4° - A PRESENTE LEI ENTRA EM VIGOR NA DATA DE SUA PUBLICAÇÃO, REVOGADAS AS DISPOSIÇÕES EM CONTRÁRIO. JAMBEIRO, 09 DE DEZEMBRO DE 2024. CARLOS ALBERTO DE SOUZA PREFEITO MYNICIPAL
+

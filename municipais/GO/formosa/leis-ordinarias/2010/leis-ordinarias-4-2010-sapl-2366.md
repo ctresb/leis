@@ -1,0 +1,175 @@
+---
+titulo: "Lei Promulgada nº 4, de 25 de outubro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Promulgada"
+numero: "4"
+data: "2010-10-25"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/2366"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1781/text"
+sha256_fonte: "3ed22d3b83ff8d93078acf93b878d7151d5175fd99db9dffe458a88ccff20668"
+sha256_texto: "9c2d0f51f9eae9cdb61076b27ee52b39c7602e3a3e1107d2b0e3f8ed13de766d"
+capturado_em_fonte: "2026-10-28T11:58:11.180746-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Promulgada nº 4, de 25 de outubro de 2010
+
+Autoriza o Poder Público a instituir, no âmbito do Município de Formosa, o Programa “Doe Seu Medicamento” e dá outras providências.
+
+
+Faço saber que a CÂMARA MUNICIPAL DE FORMOSA, Estado de Goiás, aprovou, e eu, nos termos do Art. 49, §7º, da Lei Orgânica do Município, promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Autoriza o Poder Público a instituir, no âmbito da cidade de Formosa, o Programa Doe Seu Medicamento, visando captar doações de medicamentos e promover sua distribuição através de entidades assistenciais, sem fins lucrativos, que poderão ser previamente cadastradas junto a Secretaria Municipal de Assistência Social e/ou a Secretaria Municipal de Saúde, conforme dispositivo do Poder Executivo.
+
+
+Parágrafo único.
+
+O programa de que trata o caput desta Lei consiste na elaboração de estratégias para levar meios de se arrecadar medicamentos e conceder um tratamento médico completo e de forma gratuita para quem realmente necessite, através de ações.
+
+
+Art. 2º.
+
+O Programa Municipal de Formosa “Doe Seu Medicamento” terá como principais objetivos:
+
+
+I –
+
+arrecadar remédios junto à população formosense, consultórios médicos, indústrias, laboratórios farmacêuticos e distribuidoras de medicamentos, desde que os produtos doados estejam dentro do prazo de validade estabelecido pelo Laboratório Farmacêutico responsável por sua fabricação;
+
+
+II –
+
+proporcionar acesso mais fácil à população carente do município de obter o devido medicamento prescrito pelo médico;
+
+
+III –
+
+reduzir o fluxo de pessoas no Hospital Municipal de Formosa e Farmácias;
+
+
+IV –
+
+desenvolver em praças públicas atividades que estimulem a população formosense sobre o ato de doar medicamentos para os órgãos encarregados do desenvolvimento deste programa;
+
+
+V –
+
+promover o devido cuidado para que não haja perda de remédios que estão perto do prazo de validade;
+
+
+VI –
+
+entre outros objetivos que serão alcançados no decorrer do Programa.
+
+
+Art. 3º.
+
+Para fins desta Lei, poderão ser elaboradas ações como:
+
+
+I –
+
+montagem de postos móveis em locais públicos para o recolhimento de medicamentos que estejam dentro da validade prescrita, podendo ser doador pessoa física ou jurídica que quiser praticar o ato e sem qualquer encargo para o Poder Público;
+
+
+II –
+
+organizar mutirões em espaços estratégicos da cidade para recolher de casa em casa o que o munícipe puder doar de medicamentos que não será mais utilizado e promover em espaços públicos de grande circulação de pessoas o recolhimento de doações de medicamentos da população em geral ao Poder Público Municipal;
+
+
+III –
+
+posicionar barracas informativas em locais públicos que disponibilizem informações relacionadas ao Programa Doe Seu Medicamento, motivando-os sobre este ato solidário que irá ajudar pessoas necessitadas a ter pelo menos o mínimo dos medicamentos que necessita para uma vida saudável.
+
+
+Art. 4º.
+
+De acordo com tal Programa será recebido, a título de doação, em qualquer quantidade, todo e qualquer medicamento, com exceção dos medicamentos controlados e medicamentos líquidos abertos.
+
+
+§ 1º
+
+Os medicamentos doados deverão ser etiquetados, sendo aos mesmos afixado um selo com os seguintes dizeres: “PROIBIDA A COMERCIALIZAÇÃO”.
+
+
+§ 2º
+
+Os medicamentos doados deverão estar acompanhados de bula, de marcação de seu prazo de validade e número do lote de fabricação.
+
+
+Art. 5º.
+
+Poderão também participar deste Programa pessoas físicas, clínicas, farmácias, estabelecimentos de manipulações farmacêuticas e consultórios médicos, também quaisquer estabelecimentos que recebam amostra grátis de medicamento, das indústrias, laboratórios farmacêuticos e distribuidoras de medicamentos.
+
+
+Art. 6º.
+
+O Poder Executivo, através dos Postos de Saúde e locais pré-determinados, poderá promover a coleta de medicamentos doados, confiando sua guarda a profissionais qualificados e habilitando-os à manutenção, separação por tipo de medicação e posterior distribuição às Secretarias Municipais competentes para executar o referido Programa desta Lei.
+
+
+Parágrafo único.
+
+Os medicamentos cadastrados nas entidades de distribuição serão retirados somente com a devida comprovação de que o beneficiário do medicamento é pessoa carente, ou seja, receba até 02 (dois) salários mínimos e apresente o respectivo receituário médico.
+
+
+I –
+
+o receituário médico será requerido somente nos casos de medicamentos que exigirem a sua apresentação.
+
+
+Art. 7º.
+
+O Poder Executivo poderá desenvolver campanhas de esclarecimentos e estímulo à doação de medicamentos, redução do desperdício dos medicamentos e divulgar os locais de coleta.
+
+
+Art. 8º.
+
+O Município de Formosa poderá celebrar convênios e parcerias com a União, Estado, outros Municípios, entidades da sociedade civil e elaborar parcerias público-privadas, além de parcerias com Universidades e Faculdades a fim de possibilitar aos acadêmicos da área de saúde contato direto com a população, sempre visando à consecução dos objetivos do Programa Doe Seu Medicamento.
+
+
+Art. 9º.
+
+A partir de sua publicação, o Poder Executivo Municipal poderá regulamentar a presente Lei no que lhe couber, em especial poderá incorporar o seguinte dispositivo:
+
+
+I –
+
+decretar qual(is) o(s) órgão(s) municipal(is) que terá(ão) a competência para executar o Programa Doe Seu Medicamento.
+
+
+Art. 10.
+
+As despesas decorrentes com a execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, ficando revogada a lei promulgada nº 003/2006, de 15 de dezembro de 2006.
+
+
+Gabinete da Presidência da Câmara Municipal de Formosa, 25 de outubro de 2010.
+
+Ver. DIVINO RAMOS DA SILVA
+
+Presidente da Câmara
+
+Registrada as fls. do Livro próprio.
+
+Publicado no Placard da Câmara.
+
+Data supra.
+
+PAULO NATALINO DUTRA
+
+Secretário Geral
+

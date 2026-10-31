@@ -1,0 +1,102 @@
+{
+  "host": "sapl.bicas.mg.leg.br",
+  "metadados_unicos_observados": 620,
+  "total_api_declarado": 620,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 528,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/59a47ea8fd2d265e996479053ba36a06d5b4e14d989e2570ddb824fcbe8c0dd8.json",
+    "url": "https://sapl.bicas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "4fbf273c3b41182df12dd0a69187dfeb1cb7be36e46ef127c533fe8397b440bb",
+    "bytes": 1243,
+    "capturado_em": "2026-10-27T17:20:48.239162-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/53e59ffcdb9db3049dfa05f5ea2d6fc4d0e4632f77e6784a2758afec883edca5.json",
+    "url": "https://sapl.bicas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bicas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ace2c0d2ecda85af5c0d3ebcf09d825f6ad54bda5f952dc97c97a4b8237923f4",
+    "bytes": 705,
+    "capturado_em": "2026-10-27T17:20:47.393967-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/3fc90e146162896bb396846fddc5f666c0e73692f4dd9ac8eee57013f4885a46.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2300d76b02ed379e34a1c69a40e8fc17977a1473fcdfd901d4bde4dd2d077f3e",
+      "bytes": 58924,
+      "capturado_em": "2026-10-27T17:20:50.690465-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/7d8dfa0947701adee48f758f233c589ab3b385285c7d9a6785492d9deb5220f0.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "878e225be072ca290a26e13dd45f894ae7f01f597643251575ce9635285bab53",
+      "bytes": 52746,
+      "capturado_em": "2026-10-27T17:21:41.962938-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/41d79d5c6be9e830cd58da8baf4ff2509a590fad1cd884275c30a4cff16da363.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8e98329656fa9872c60f42db7b9bd90aafa5fa546f24d313d1fc90a779f98fc3",
+      "bytes": 52721,
+      "capturado_em": "2026-10-27T17:24:57.471825-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/3f7f0c0a8f827f744792118dba4f6de87b0912e2823d88c4059e7717eecec33e.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "573071ffe804b318c9f52ed621a01070536d75e0cf453a52f9fc579349b843e6",
+      "bytes": 52752,
+      "capturado_em": "2026-10-27T17:28:15.824909-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/47ab3ae58ce092ebbcbbb4551f27969f11c934fd924533c275bd6de97f37a01f.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0afe2894f2887b8ee78f22c0f3f4657c36cfe922f14e6f8f3003797a73cc29ac",
+      "bytes": 52572,
+      "capturado_em": "2026-10-27T17:34:31.357243-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/d1afe3f1acf6ca404e233eda831d2517cc1b31fc574c976a67e0b91c7845c631.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0561108ef0251d415695743e43584ec282ad0bacc2cd752f6e928f902c6710a6",
+      "bytes": 51780,
+      "capturado_em": "2026-10-27T17:37:53.985209-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/00140fc1406564295875afdedc49322fd5b6fcd9d2497c21a5a89c6a08681689.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1151743db16a8f94dc87560e433f1725781b3f8535589d59e0d7a7e78222e91d",
+      "bytes": 10123,
+      "capturado_em": "2026-10-27T17:41:11.555894-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,292 @@
+{
+  "host": "sapl.formosa.go.leg.br",
+  "metadados_unicos_observados": 2542,
+  "total_api_declarado": 2542,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2523,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/811dbb0980945654819271872bff6e891e1ca942d722c3f86cd15fcd2c05db3e.json",
+    "url": "https://sapl.formosa.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fefe614b0a3f6b34a77843908f3a5ab6c1993c61bc0dad8f57aa9b07e0591fe7",
+    "bytes": 3998,
+    "capturado_em": "2026-10-28T10:59:40.996425-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/15beba9535b3e0c1079d2c5754146546c17e8293daf194fe05b19097fc406348.json",
+    "url": "https://sapl.formosa.go.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.formosa.go.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8d6545d8fc7aceffc6b8a6b439f240e7ef2a6d42aed04bb18ae5c17e68c0ff4",
+    "bytes": 752,
+    "capturado_em": "2026-10-28T10:59:40.235170-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/e28cbe35145e1ea0aaa1c4af2473292a3a61f547057ccbb194a92ed1c365bd5c.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ecbf9ee7170a6265188a498e2b83770e49d21aa761b40d5bf7fd5fc93bcfb1b9",
+      "bytes": 65585,
+      "capturado_em": "2026-10-28T10:59:42.467286-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/cb6ce75f96a3510d0a9bf123912b05125af01d13a30821b6b641b17bba2a0d68.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "149baa5f99aae5b92c8944ed3a055393282900f006086dcee05f52469446c19b",
+      "bytes": 64602,
+      "capturado_em": "2026-10-28T11:03:05.189806-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/0287d2acf0e1c55dd5bc37434a0ca585fab4cbb02c682385805327ca18e001bd.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ff90211374cfc7ae42271f516a79d06c78801b0a8668982265f79ca8dd29aec7",
+      "bytes": 62916,
+      "capturado_em": "2026-10-28T11:07:07.610579-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/b22a954f720c4192239e4643f789b72079b93967dccf71f6dee9a726cd5588d9.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4b01762c31f613b8048b4fecf6137b9075a3e575d8fd34b27453aff1172c6378",
+      "bytes": 61775,
+      "capturado_em": "2026-10-28T11:10:34.582021-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/29e8fef6622e9e9c59090585ba29653ae4bfaa1a3a2d400c7132af875ce8aec2.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e4a915046008a809e4fb30cc699abb97a4ba3c060f2c929cbf0428f840413810",
+      "bytes": 63929,
+      "capturado_em": "2026-10-28T11:15:28.936613-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/5781769da23f96d96a5ba41d211c42c0b7d4f88bfca2e79ef2917c11c493c7b3.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ceeb5e18e041b6ca7bd7505a8c1a43c86bddd9deb09764f689b7705bed49b627",
+      "bytes": 61960,
+      "capturado_em": "2026-10-28T11:18:53.608413-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/b91167c7fbafb2f35cbacf2a31c5a10a7f7105870faffe79d8760b9f54be9217.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "850ddcc98cd7f947ba71645b15cf1212ad9fb7cff76926f18757d414ebed5301",
+      "bytes": 63328,
+      "capturado_em": "2026-10-28T11:22:17.302609-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/a1024cd4605469eac31be083934d76201600584b4bfa980de6457a3df544158d.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "67fd6d98c288964da80d0a83681b125b3860fbe3154e6625c3d6956df7c94915",
+      "bytes": 64685,
+      "capturado_em": "2026-10-28T11:25:47.360976-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/b242150f0dc6eeae0ca76e36fd7fbbef010edae7ae3b0ed2a0543184eed9fda3.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "eb4efc00e1480d7e71656d940060999dca72be294d4bc5f3c1c8f2f5b4bef0be",
+      "bytes": 63517,
+      "capturado_em": "2026-10-28T11:29:11.621209-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/7dbd20f34fd7238fe8a5151a9a5a8578428cbdbf33103e775023bc7dad618278.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d57f1e9282257454a99eab642bb8ed8f9335e983c9f74f1352d15f4425fa77e2",
+      "bytes": 62817,
+      "capturado_em": "2026-10-28T11:32:38.504554-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/076eb3cfffb303c861541ab2ad1bcfa5d5ff2aee36bb661ee1c3c4db7d73290f.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "dade6690cf3063591e72bb50cd81b68e59a3f4182fd51395c20d4aad4369970e",
+      "bytes": 61884,
+      "capturado_em": "2026-10-28T11:36:01.841517-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/ed038d8fbd3bfe543dfdf8a8330af25111733ab4aca3d739824a63e9002de78c.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "939a914fcd0cddc71355fcde979c6ce19e1cd9882f8e51de98254d3a2e985d7c",
+      "bytes": 62857,
+      "capturado_em": "2026-10-28T11:39:23.527654-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/d615b8ac03bb1ce9e2ab0844f0cc6efc305fe8010daf5d8c21b0369667ee84ed.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "74f861b3fb3a864f1eab1a3175ff9b5ba56a35ece81444063301f58a2df471b8",
+      "bytes": 60419,
+      "capturado_em": "2026-10-28T11:42:47.963489-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/0b866365d3ea23ff3a1220ac2a06a920c234a015aee8fdcc066a14fc6b1e1108.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7a285b6aeb631516b9ce09e571182093ca1c5821ed096cc819614f746237c73e",
+      "bytes": 61353,
+      "capturado_em": "2026-10-28T11:46:31.323999-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/5b674276c4f5a9e7162eea7eb6eafa27dbb90f31b208086b91d3434fd9fe2048.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "387d3813146b5fa4c586766231f14dee003cf3fea7945d8bb8d7bbab8414366a",
+      "bytes": 60651,
+      "capturado_em": "2026-10-28T11:49:58.085439-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/8f8fe02dc7f250f24052084a398b9700ead65f6b392a87f745502934fb83df37.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9c3e5e8086c252a8a5f1f6efba067ca619b0491e28aae0d31ce1a8598fec6725",
+      "bytes": 58864,
+      "capturado_em": "2026-10-28T11:53:27.657562-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/4b930297c665c31deb74a6deb9a9731febb1041435e80ead30810f0fadaf6d87.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fd7f00b01d17d86c931ee6652e4026a76a3d5e00e17d53ff6e832edaee7e80a0",
+      "bytes": 61102,
+      "capturado_em": "2026-10-28T11:56:50.259593-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/cb652520e2d1d862bdbe3ba2dc37f688ad24634e69d749cd6c26d6a659a295a2.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "125e8516d1fd1fff8780fd2e562b9d1b850a2d917617451cbac91d0e49aa5106",
+      "bytes": 59512,
+      "capturado_em": "2026-10-28T12:00:14.255433-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/3c22fa3c42e6b3203ed888c70f9a5a8aa01908ea2b0f1e9cf32ae1f0b4e0f019.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=19",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bdaa378cf2249638314d8738209c86e3bbb316f5c7151f169435b96df98d7fe0",
+      "bytes": 59631,
+      "capturado_em": "2026-10-28T12:03:45.193761-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/ebbbcc9924cddcd7fd5ae9159570fe1391d61b958311ab28cb89a30c599dc995.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=20",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b525e1d2ee410154757e5316456112b522b4f1e258e05778c180326841754ee7",
+      "bytes": 59050,
+      "capturado_em": "2026-10-28T12:07:13.982328-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/2085c7087a1fb6fd7f4fe5814ab575a25543d696be58179ff9a40fd06a0b81a2.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=21",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c1c24babb20675efc8e2627055a5e28987f841305d24cb6a7242f54d8ba7e5b3",
+      "bytes": 58119,
+      "capturado_em": "2026-10-28T12:10:45.312558-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/022098debf17b5e3637ba00ba80dd108b59afd0f6f758c3a0f2b968bb7fa5987.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4080351df3b7d18008ac12f2953713d5dc413a96f76952224e5b640309f76fc1",
+      "bytes": 57811,
+      "capturado_em": "2026-10-28T12:14:33.318910-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/2994c5acf742841e4361a33656ff5d18f44d64c9381c168817a490f70c0e6e45.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=23",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fbf0f48eba74d365e392899a7bd1b91c917cadcc1ac8d04b25e90e185e7c0aa7",
+      "bytes": 57305,
+      "capturado_em": "2026-10-28T12:18:10.612610-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/ea6bb20fe66324ac89ba68a781f82748e2d0844690d7ab07d319420decf78ea2.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a18af87556f94416181bc9e158e4808abd280ef029db392a4d44012c3928f8ef",
+      "bytes": 55445,
+      "capturado_em": "2026-10-28T12:21:33.839665-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/ac568db631f32ae013eb38cccc87be0239a29c025e91fa0fb4f589fc766f0167.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=25",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bfb487d7c55a9d9138d0695d078b0a5bbb7b04ec6ac4f81b0cd4b4d87d03792d",
+      "bytes": 55869,
+      "capturado_em": "2026-10-28T12:24:56.845162-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.formosa.go.leg.br/2e7c6af32fb166e8d262acd790d4a720e083faad66e1712ab317723219ea0eb4.json",
+      "url": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "url_final": "https://sapl.formosa.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=26",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5207be673d0e9c65278f346c54f45b3ad7f404087d9bf57a14c04088a08e2fb6",
+      "bytes": 22923,
+      "capturado_em": "2026-10-28T12:28:19.653525-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,518 @@
+---
+titulo: "Lei Ordinária-PMEPF nº 1.624, de 15 de dezembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1624"
+data: "2022-12-15"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2023-09-27; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/1418"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/653/text"
+sha256_fonte: "d9f5d740bab26d9f9d53700c00cbef4062b4266f9b3b80dc74d2246bde5729a0"
+sha256_texto: "485f14d84be8917ab96cdaf7a6497d54e0151b7b664d4bdb9d07145487ab9a7a"
+capturado_em_fonte: "2026-10-28T10:43:54.375042-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-PMEPF nº 1.624, de 15 de dezembro de 2022
+
+Dispõe sobre a criação do Conselho Municipal da Juventude e do Fundo Municipal da Juventude.
+
+
+José Emmanoel Rodrigues Artemenko, Prefeito Municipal de Paulo de Frontin, Estado do Rio de Janeiro, FAÇO SABER, que a Câmara Municipal de Vereadores aprovou e eu sanciono a seguinte
+
+
+#### CAPÍTULO I — DOS OBJETIVOS
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a criação do Conselho Municipal da Juventude e do Fundo Municipal da Juventude, entidades de caráter permanente, que tem por finalidade a organização da juventude e das políticas públicas de juventude
+
+
+Art. 2º.
+
+O Conselho Municipal da Juventude e o Fundo Municipal da Juventude têm por objetivo fomentar o desenvolvimento integral dos jovens, a fim de prepará-los para assumir plenamente suas responsabilidades, se incorporarem ao mercado de trabalho e aos processos sociais, como fator de mudança, dentro de princípios de justiça e liberdade
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E DAS DIRETRIZES
+
+
+Art. 3º.
+
+O Conselho Municipal da Juventude rege-se pelos seguintes princípios e diretrizes:
+
+
+I –
+
+Assessorar o Governo Municipal na determinação e avaliação das Políticas Públicas em relação à juventude;
+
+
+II –
+
+Promover e coordenar programas em favor da juventude que realizem as diversas dependências e organismos da Administração Pública, Autarquias e afins;
+
+
+III –
+
+realizar, sistematizar e difundir estudos sobre juventude e de seus interesses;
+
+
+IV –
+
+Estimular a criação de serviços que promovam o desenvolvimento dos jovens e estimulem sua participação nos processos sociais, entre eles, programas de cultura juvenil que favoreçam a identificação e o mútuo conhecimento entre os jovens;
+
+
+V –
+
+Propiciar a harmonia dos planos e a coordenação das ações que, em favor dos jovens, se realizem nos organismos públicos e privados, destinados a este fim;
+
+
+VI –
+
+Formular e propor as instituições correspondentes, planos e iniciativas tendentes a resolver os problemas dos jovens e realizá-los em suas áreas;
+
+
+VII –
+
+Fomentar programas para o desenvolvimento da juventude e apoiar os que os próprios jovens realizam de acordo com os objetivos propostos;
+
+
+VIII –
+
+Criação do Centro de Informação para Juventude, sendo o braço executivo deste conselho, visando abrir canais adequados a um processo de comunicação rápida e útil com os jovens, tendo em vista dar respostas as suas questões nas diversas áreas e apresentar um leque, o mais abrangente possível, das atividades ao seu alcance.
+
+
+#### CAPÍTULO III — DO CONSELHO MUNICIPAL DA JUVENTUDE
+
+
+Art. 4º.
+
+O Conselho Municipal da Juventude é órgão deliberativo de caráter permanente cuja composição é formada pelo governo municipal e sociedade civil organizada, responsável pela deliberação da Política Municipal da Juventude e controlador das ações na área da juventude.
+
+
+Art. 5º.
+
+O Conselho Municipal da Juventude - CMJ será constituído por até 14 (quatrorze) membros titulares, e respectivos suplentes, sendo:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-PMEPF nº 1.639, de 27 de setembro de 2023.
+
+
+I –
+
+50% de entidades de representantes do Governo, correspondendo a um total de até 07 (sete) vagas, sendo o (a) Coordenador (a) Municipal da Juventude membro nato, ocupando uma das vagas destinadas ao segmento de representantes dos Gestores Públicos;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-PMEPF nº 1.639, de 27 de setembro de 2023.
+
+
+a)
+
+01 (um) representante da Secretaria de Governo;
+
+
+b)
+
+01 (um) representante da Secretaria de Turismo Cultura;
+
+
+c)
+
+01 (um) representante da Secretaria Municipal de Desenvolvimento Econômico, Trabalho, Renda, Ciência e Tecnologia; Assistência Social;
+
+
+d)
+
+01 (um) representante da Secretaria de Educação;
+
+
+e)
+
+01 (um) representante da Secretaria da Saúde;
+
+
+f)
+
+01 (um) representante da Secretaria de Promoção Social;
+
+
+II –
+
+50% de entidades representantes de segmento de Sociedade Civil (órgãos não governamentais: associações, grêmios, grupos jovens religiosos, etc...) correspondendo a um total de até 07 (sete) vagas;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-PMEPF nº 1.639, de 27 de setembro de 2023.
+
+
+a)
+
+01 (um) representante dos portadores de deficiência física;
+
+
+b)
+
+02 (dois) representantes dos Estudantes de Ensino Médio e Profissionalizante;
+
+
+c)
+
+01 (um) representante de Relações Raciais e Étnicas;
+
+
+d)
+
+02 (dois) representantes dos Estudantes de Ensino Superior;
+
+
+e)
+
+01 (um) representante da Juventude Ecumênica;
+
+
+f)
+
+01 (um) representante dos segmentos de Cultura e Arte;
+
+
+g)
+
+01 (um) representante dos segmentos organizados da sociedade, não previsto nos incisos anteriores.
+
+
+**§ 1º** - Os membros titulares e suplentes representantes do Poder Público e da Sociedade Civil organizada serão indicados pelos órgãos que representam e nomeados pelo Prefeito Municipal.
+
+
+**§ 2º** - O Município elaborará edital de chamamento às entidades, que compõem o Conselho, para indicação de nomes.
+
+
+**§ 3º** - Havendo mais de uma entidade do mesmo segmento, interessada em participar do Conselho, o nome do titular e do respectivo suplente será decidido pelo voto, em data e local definida pelo Secretário de Governo.
+
+
+**§ 4º** - O Conselho Municipal da Juventude contará com uma Diretoria Executiva a qual terá sua estrutura conforme abaixo e disciplinada em Regimento Interno:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-PMEPF nº 1.639, de 27 de setembro de 2023.
+
+
+**§ 5º** - O presidente, o vice-presidente e o secretário serão escolhidos e designados pelo conselho entre os membros efetivos.
+
+
+**§ 6º** - Os membros do Conselho Municipal da Juventude e seus respectivos suplentes terão mandatos de 02 (dois) anos, sendo permitida uma recondução.
+
+
+**§ 7º** - Os membros do Conselho Municipal da Juventude exercerão seus mandatos gratuitamente, e a função de conselheiro será considerada serviço público relevante. Poderá o município custear as despesas com transporte, estada e alimentação, mediante apresentação de comprovantes pelo membro do conselho, quando em missão oficial definida pela Diretoria Executiva ou pelo Conselho Municipal da Juventude, e esta não será considerada como remuneração.
+
+
+**§ 8º** - O quadro de pessoal auxiliar e de assessoramento técnico do Conselho será o mesmo da Secretaria de Governo.
+
+
+Art. 6º.
+
+Compete ao Conselho Municipal da Juventude:
+
+
+I –
+
+Deliberar sobre os recursos financeiros do Fundo Municipal da Juventude, destinado ao Conselho Municipal da Juventude, mediante critérios estabelecidos em Regimento Interno;
+
+
+II –
+
+Requisitar junto as Secretarias Municipais de Governo, de Educação, da Saúde, do Trabalho, e Promoção Social, o apoio técnico e assessoramento necessários visando efetivar os princípios e diretrizes do Conselho Municipal da Juventude;
+
+
+III –
+
+Prestar serviços assistenciais que visem melhoria da qualidade de vida dos jovens carentes e cujas ações, voltadas para as necessidades básicas, observe os objetivos, princípios e diretrizes estabelecidas na legislação vigente;
+
+
+IV –
+
+Deliberar sobre o Plano Municipal da Juventude;
+
+
+V –
+
+Participar do planejamento integrado e orçamentário do Município, formulando as prioridades a serem incluídas no mesmo, no que se refere ou possa afetar as condições de vida da população;
+
+
+VI –
+
+Acompanhar e controlar a execução da Política Municipal de Juventude bem como dos programas e projetos aprovados pelo Conselho Municipal da Juventude;
+
+
+VII –
+
+Estabelecer, em ação conjunta com a Secretaria Municipal da Juventude, a realização de eventos, estudos e pesquisas integradas no campo da Juventude;
+
+
+VIII –
+
+Elaborar e aprovar o seu Regimento Interno;
+
+
+IX –
+
+Manter comunicação com os Conselhos da Juventude do Estado do Rio de Janeiro, da União e de outros municípios, bem como com organismos nacionais e internacionais que atuam na área da juventude, propondo ao Município convênio(s) de mútua cooperação, na forma da Lei;
+
+
+X –
+
+Participar de reuniões com conselhos deliberativos existentes no município;
+
+
+XI –
+
+Deliberar sobre a política da captação e aplicação de recursos do Fundo Municipal da Juventude destinados a este Conselho Municipal da Juventude;
+
+
+XII –
+
+Manter cadastro de todas as ações, projetos, planos, entidades, relatórios, pesquisa, estudos e outros que tenham relação direta ou indireta, as suas competências e atribuições, preferencialmente pela instrumentalização da informática;
+
+
+XIII –
+
+Reunir-se ordinariamente e extraordinariamente conforme dispuser o regimento interno.
+
+
+#### CAPÍTULO IV — DA COMPETÊNCIA DO MUNICÍPIO
+
+
+Art. 7º.
+
+Compete ao Município:
+
+
+I –
+
+Prestar os serviços assistenciais de caráter eventual que visem a melhoria da qualidade de vida dos jovens e cujas ações, voltadas para as necessidades básicas, observe os objetivos, princípios e diretrizes estabelecidas na Lei do Conselho Municipal da Juventude, respeitada a legislação e limitação orçamentária e financeira;
+
+
+II –
+
+Formação de convênios;
+
+
+III –
+
+Formação de consórcios.
+
+
+#### CAPÍTULO V — DO ÓRGÃO COORDENADOR E EXECUTOR E DE SUAS COMPETÊNCIAS
+
+
+Art. 8º.
+
+O órgão coordenador e executor de Política Municipal de Juventude é a Secretaria Municipal de Governo.
+
+
+Parágrafo único
+
+A Política Municipal de Juventude será executada em sistema descentralizado.
+
+
+Art. 9º.
+
+Compete ao órgão executor da Política da Juventude:
+
+
+I –
+
+Oferecer infraestrutura e pessoal necessário para o funcionamento do Conselho Municipal de Juventude;
+
+
+II –
+
+Estabelecer programa de aperfeiçoamento e atualização dos servidores públicos municipais que estejam diretamente ligados á execução da Política Municipal de Juventude;
+
+
+III –
+
+Difundir as políticas sociais básicas e proteção integral;
+
+
+IV –
+
+executar programas de geração de rendas;
+
+
+V –
+
+Implantar o Centro de Informação para Juventude.
+
+
+#### CAPÍTULO VI — DA CRIAÇÃO DO FUNDO MUNICIPAL DA JUVENTUDE E DO SEU FINANCIAMENTO
+
+
+Art. 10.
+
+Fica criado o Fundo Municipal da Juventude cujo objetivo é criar condições financeiras e de gerência dos recursos destinados ao desenvolvimento das ações de âmbito juvenil, executados ou gerenciados pelo Conselho Municipal da Juventude.
+
+
+Art. 11.
+
+O Fundo Municipal da Juventude, mecanismo captador e aplicador de recursos a serem utilizados, segundo diretrizes e deliberações do Conselho Municipal da Juventude, tem na Secretaria Municipal de Governo sua estrutura de execução e controle.
+
+
+Art. 12.
+
+O financiamento dos benefícios, serviços, programas e projetos estabelecidos nesta Lei e os futuros, far-se-á com recursos da União, do Estado, do Município, doações, auxílios, contribuições, promoções, subvenções e transferências de entidades nacionais e internacionais, através do Fundo Municipal da Juventude, conforme prevista no artigo 195 da Constituição Federal.
+
+
+#### CAPÍTULO VII — DO GERENCIADOR DO FUNDO
+
+
+Art. 13.
+
+O Gestor do Fundo Municipal da Juventude será o Secretário Municipal de Governo.
+
+
+Art. 14.
+
+São atribuições do Gestor do Fundo:
+
+
+I –
+
+preparar as demonstrações mensais da receita e despesas a ser encaminhadas ao Prefeito Municipal;
+
+
+II –
+
+registrar os recursos orçamentários próprios do Município ou a ele transferidos pelo Estado e pela União para área de assistência social;
+
+
+III –
+
+manter os controles necessários do Fundo referentes a empenhos, liquidação e pagamento das despesas e aos recebimentos das receitas do Fundo;
+
+
+IV –
+
+manter, em coordenação com o Setor de Patrimônio do Município, os controles necessários sobre os bens patrimoniais com carga ao Fundo;
+
+
+V –
+
+registrar os recursos captados pelo Município e destinados através de convênios ou por doações ao Fundo;
+
+
+VI –
+
+aplicar os recursos a ser utilizados em benefícios da juventude nos termos das resoluções do Conselho Municipal da Juventude;
+
+
+VII –
+
+ordenar empenhos e pagamentos das despesas do Fundo;
+
+
+VIII –
+
+encaminhar ao Conselho Municipal da Juventude:
+
+
+a)
+
+mensalmente, as demonstrações de receitas e despesas, a avaliação da situação econômica e financeira do fundo e os relatórios de realizações na área de assistência social para análise e parecer, os quais serão encaminhados ao Chefe do Poder Executivo;
+
+
+b)
+
+anualmente, o inventário dos bens, móveis e imóveis e o balanço geral do Fundo Municipal da Juventude.
+
+
+IX –
+
+firmar, em conjunto com o responsável pelos controles da execução orçamentária, as demonstrações mencionadas anteriormente;
+
+
+X –
+
+manter o controle necessário sobre convênios ou contratos de prestação de serviços pelo setor privado e dos empréstimos feitos para o Fundo Municipal da Juventude;
+
+
+XI –
+
+encaminhar mensalmente à Diretoria Executiva do Conselho relatórios de acompanhamento e avaliação da produção de serviços prestados pelo setor privado na forma mencionada no inciso anterior.
+
+
+#### CAPÍTULO VIII — DOS RECURSOS DO FUNDO
+
+
+Art. 15.
+
+São receitas do fundo:
+
+
+I –
+
+o produto de convênio firmado com outras entidades financiadoras;
+
+
+II –
+
+os rendimentos e os juros provenientes de aplicações financeiras;
+
+
+III –
+
+dotação configurante anualmente na lei orçamentária municipal;
+
+
+IV –
+
+doações, auxílios, contribuições, subvenções, transferências e legados de entidades nacionais, internacionais, governamentais e não governamentais;
+
+
+V –
+
+produtos de aplicações dos recursos disponíveis e vendas de materiais, publicações e eventos realizados;
+
+
+VI –
+
+até 10% (dez por cento) do orçamento da Secretaria Municipal de Governo;
+
+
+VII –
+
+recursos oriundos da sociedade civil.
+
+
+#### CAPÍTULO IX — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+
+Art. 16.
+
+A organização e estrutura do Conselho Municipal da Juventude e seu funcionamento, serão estabelecidos em regimento interno, elaborado e aprovado pelo Conselho e homologado, através de Decreto, pelo Chefe do Poder Executivo.
+
+
+Art. 17.
+
+O Conselho Municipal terá o prazo de 180 (cento e oitenta) dias para elaborar o seu regimento interno, que disporá sobre seu funcionamento e atribuições.
+
+
+Art. 18.
+
+O presidente do Conselho Municipal da Juventude solicitará aos órgãos competentes, 60 (sessenta) dias antes do término dos mandatos, a indicação dos novos membros.
+
+
+Parágrafo único
+
+A Sociedade Civil organizada será informada por edital, sessenta dias antes do término dos mandatos dos conselheiros, do prazo para indicação de nomes para a composição do Conselho Municipal da Juventude.
+
+
+Art. 19.
+
+Esta Lei entra em vigor na data de sua publicação revogando dispositivos em contrário, em especial a Lei Municipal nº 1068 de 05 de dezembro de 2011.
+
+
+Engenheiro Paulo de Frontin, 15 de dezembro de 2022.
+
+**JOSÉ EMMANOEL RODRIGUES ARTEMENKO**  
+Prefeito Municipal
+

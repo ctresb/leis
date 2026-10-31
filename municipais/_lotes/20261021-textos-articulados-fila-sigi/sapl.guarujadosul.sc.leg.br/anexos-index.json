@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/1/tabela_metas_e_estrategias.docx da norma Lei Ordinária nº 2.436, de 18 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Tabela pertencente ao item nº. 7 de Metas, referente ao Anexo de Metas e Estratégias da Lei 2.436, de 18 de junho de 2015.",
+      "anexo_arquivo": "http://sapl.guarujadosul.sc.leg.br/media/sapl/public/anexonormajuridica/2015/1/tabela_metas_e_estrategias.docx",
+      "ano": 2015,
+      "norma": 879
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1991/2/hino_de_guaruja_do_sul.pdf da norma Lei Ordinária nº 1.031, de 05 de setembro de 1991",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "HINO OFICIAL DE GUARUJÁ DO SUL",
+      "anexo_arquivo": "http://sapl.guarujadosul.sc.leg.br/media/sapl/public/anexonormajuridica/1991/2/hino_de_guaruja_do_sul.pdf",
+      "ano": 1991,
+      "norma": 1326
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/anexo_i___mapa.pdf da norma Lei Ordinária nº 2.647, de 19 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Mapa do Perímetro Urbano.",
+      "anexo_arquivo": "http://sapl.guarujadosul.sc.leg.br/media/sapl/public/anexonormajuridica/2019/3/anexo_i___mapa.pdf",
+      "ano": 2019,
+      "norma": 2590
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guarujadosul.sc.leg.br/72632e4ee090211d1c5445e8dde31d23d065242632a8591cd451d90122aa6caa.json",
+      "url": "https://sapl.guarujadosul.sc.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.guarujadosul.sc.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "aeedbc5b26bf798b93663b449e2da904c26d99dc42ec8c19b7e5324f0325f12c",
+      "bytes": 1549,
+      "capturado_em": "2026-10-28T13:28:45.356975-03:00"
+    }
+  ]
+}

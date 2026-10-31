@@ -1,0 +1,246 @@
+---
+titulo: "Lei Ordinária nº 1.950, de 08 de outubro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1950"
+data: "2015-10-08"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2015-12-22; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/198"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/606/text"
+sha256_fonte: "624f83b808db4ba0bfd7bdf480b4624b47fc2abab1c9a6f44d98760772b3d392"
+sha256_texto: "02a5f331bba805ec02ba4cc033040fcad6f394ceaa59503aa5362c8f6035ce2b"
+capturado_em_fonte: "2026-10-28T13:16:27.525626-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 1.950, de 08 de outubro de 2015
+
+Dispõe sobre a concessão de cartão auxílio-alimentação aos servidores públicos municipais do Município de Guaíra que menciona e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou e eu Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a fornecer a todos os servidores públicos municipais, ativos e pensionistas, que percebam até três (03) salários mínimos nacionais mensais, o cartão auxílio-alimentação, cujo valor será de R$ 160,00 (cento e sessenta e reais), reajustado pelo índice de reajuste fixado na data base de negociação e revisão salarial do funcionalismo municipal, nos termos da Lei Municipal nº 1.246 de 03/12/2003.
+
+
+Art. 2º.
+
+O benefício que trata o Artigo 1º desta Lei, consiste no fornecimento do cartão magnético, informatizado, de caráter pessoal e intransferível, destinando-se à aquisição diretamente pelos servidores/beneficiários, em estabelecimentos comerciais credenciados, de gêneros alimentícios, produtos de limpeza e higiene pessoal.
+
+
+Parágrafo único
+
+É vedada a aquisição com o cartão auxílio-alimentação de bebidas alcóolicas, cigarros e quaisquer outros produtos que não estejam contemplados no caput.
+
+
+Art. 3º.
+
+O valor do cartão auxílio-alimentação não pode ser fracionado e só será concedido ao servidor que admitido ou desligado do quadro da administração tiver laborado, no mínimo, 2/3 da carga horária respectiva, no mês de competência.
+
+
+§ 1º
+
+Perderá o direito ao recebimento do cartão auxílio-alimentação:
+
+
+I –
+
+No mês, o servidor que faltar injustificadamente ao serviço por 05 (cinco) dias, ininterruptos ou não.
+
+
+II –
+
+Durante o período de afastamento ou cedência, o servidor:
+
+
+a)
+
+licenciado ou afastado com prejuízo da remuneração;
+
+
+b)
+
+cedido a outro órgão ou entidade que não a municipalidade, sem ônus para o Município;
+
+
+c)
+
+suspenso.
+
+
+§ 2º
+
+Os servidores que possuem 02 (dois) vínculos funcionais com o Município terão direito a receber apenas 01 (um) cartão auxílio-alimentação, desde que à soma das remunerações não ultrapassem o limite do caput do Art. 1º desta Lei.
+
+
+§ 3º
+
+Receberão integralmente o benefício, excetuando-se os casos previstos no § 1º deste Artigo:
+
+
+I –
+
+as ausências legais previstas no artigo 473, da Consolidação das Leis do Trabalho (CLT) e Lei Municipal nº 1.246/2003;
+
+
+II –
+
+o afastamento por licença paternidade e maternidade;
+
+
+III –
+
+o afastamento em que o servidor perceber auxílio-doença e/ou por acidente no trabalho pago pelo Instituto Nacional da Seguridade Social (INSS);
+
+
+IV –
+
+o afastamento em que o servidor perceber aposentadoria por invalidez pago pelo Instituto Nacional da Seguridade Social (INSS), mas ainda com vínculo empregatício com o Município;
+
+
+V –
+
+por motivo de doença ou acidente de trabalho, devidamente comprovados por atestado médico;
+
+
+VI –
+
+no gozo de férias.
+
+
+VII –
+
+no gozo de licença especial da seguinte forma:
+
+
+Art. 4º.
+
+A operacionalização do cartão auxílio-alimentação será formalizada
+
+
+I –
+
+será organizado pelo Departamento Pessoal cadastro dos servidores com direito ao cartão alimentação, que será revisado, a cada mês, nele incluindo-se e excluindo-se eventuais beneficiários;
+
+
+II –
+
+a cada mês, no dia 20, com base nos dados cadastrais, serão realizados créditos nos respectivos cartões, nos valores e nas condições estabelecidas por esta Lei;
+
+
+III –
+
+os créditos, desde que não utilizados pelos respectivos titulares dos cartões, ou ainda no caso de sua utilização parcial, serão acumulados;
+
+
+IV –
+
+o titular do cartão poderá realizar, livremente, em estabelecimentos comerciais credenciados despesas até o limite do crédito disponibilizado;
+
+
+V –
+
+com base nas despesas realizadas pelos titulares, a administradora do cartão providenciará os respectivos pagamentos aos estabelecimentos comerciais e, ainda, manterá controle sobre os saldos de eventuais créditos remanescentes, individualmente.
+
+
+Art. 5º.
+
+Os créditos mensais a serem realizados pela administradora do cartão estarão condicionados ao repasse pelo Município dos valores correspondentes com base no cadastro atualizado de beneficiários a que se refere o inc. I do Art. 4º desta Lei.
+
+
+Art. 6º.
+
+Para consecução das disposições estabelecidas por esta Lei, o Poder Executivo Municipal pode promover licitação, em conformidade com a Lei nº 8.666/93, tendo por objeto a administração, interação das operações decorrentes do uso do cartão auxílio-alimentação, bem como a prestação de serviços como intermediadora na relação de compras.
+
+
+Parágrafo único
+
+A contratação mencionada no "caput" não pode acarretar nenhum ônus, direto ou indireto, ao servidor público municipal beneficiário.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.971, de 22 de dezembro de 2015.
+
+
+Art. 7º.
+
+Para efeitos desta lei, o cartão auxílio-alimentação não será:
+
+
+I –
+
+incorporados, para quaisquer efeitos, aos vencimentos ou proventos, bom como sobre não incidirá vantagem alguma a que faça jus o servidor, vedada, assim, sua utilização, sob qualquer forma, para cálculo simultâneo que importe em acréscimo de outra vantagem pecuniária, sendo considerado de caráter indenizatório;
+
+
+II –
+
+caracterizado como salário utilidade ou prestação salarial in natura;
+
+
+III –
+
+entendido como rendimento tributável do servidor; e
+
+
+IV –
+
+computado para efeito de cálculo do 13º (décimo terceiro) salário;
+
+
+V –
+
+base de cálculo das contribuições devidas ao Regime Geral de Previdência Social - RGPS e ao Imposto de Renda Retido na Fonte-IRPF.
+
+
+Art. 8º.
+
+O Poder Executivo regulamentará a presente lei, no que couber, através de Decreto, se necessário.
+
+
+Art. 9º.
+
+As despesas decorrentes desta Lei correrão à conta de dotações orçamentárias próprias do Departamento de Pessoal na Secretaria Municipal de Administração, ou outra que vier a substitui-las, fica o Prefeito Municipal autorizado a criar e suplementar o valor na dotação abaixo discriminados:  
+  
+ÓRGÃO 04 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+UNIDADE 01 DEPARTAMENTO DE PESSOAL  
+FUNÇÃO 04 ADMINISTRAÇÃO  
+SUB-FUNÇÃO 122 ADMINISTRAÇÃO GERAL  
+PROGRAMA 0018 SISTEMA MUNICIPAL AOS RECURSOS HUMANOS  
+PROJETO/ATIVIDADE 2.017 MANUTENÇÃO DAS ATIVIDADES DEPARTAMENTO DE PESSOAL  
+Fonte 1505 ROYALTIES TRATADO DE ITAIPU  
+33.90.46.00 Auxílio Alimentação........................................................R$ 400.000,00
+
+
+Art. 10.
+
+Os recursos necessários à execução do contido no Art. 12º decorrerão da anulação orçamentária, a saber:  
+  
+ÓRGÃO 04 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+UNIDADE 01 DEPARTAMENTO DE PESSOAL  
+FUNÇÃO 04 ADMINISTRAÇÃO  
+SUB-FUNÇÃO 122 ADMINISTRAÇÃO GERAL  
+PROGRAMA 0018 SISTEMA MUNICIPAL AOS RECURSOS HUMANOS  
+PROJETO/ATIVIDADE 2.017 MANUTENÇÃO DAS ATIVIDADES DEPARTAMENTO DE PESSOAL  
+Fonte 1505 ROYALTITES TRATADO DE ITAIPU  
+33.90.32.00 Material, bem ou serviço para distribuição gratuita........................R$ 400.000,00
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário, em especial, a Lei nº 1.170/2000.
+
+
+Gabinete do Prefeito Municipal de Guaíra, Estado do Paraná, em 8 de outubro de 2015.  
+  
+FABIAN PERSI VENDRUSCOLO  
+Prefeito Municipal
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

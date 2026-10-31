@@ -1,0 +1,645 @@
+---
+titulo: "Lei Ordinária nº 661, de 11 de dezembro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "661"
+data: "1980-12-11"
+municipio: "Guaíra"
+uf: "PR"
+codigo_ibge: "4108809"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guaira.pr.leg.br/norma/1519"
+fonte_texto: "https://sapl.guaira.pr.leg.br/ta/138/text"
+sha256_fonte: "06763920b00a037bbf871af7063db61d8f91d564097f1b5f04efc5154cb7b720"
+sha256_texto: "089b921e26f6e943662f09fad65fad2af941abb4b00812b31256cd7b465b0af5"
+capturado_em_fonte: "2026-10-28T13:41:24.365030-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 661, de 11 de dezembro de 1980
+
+Aprova a lei de loteamentos do Município de Guaíra e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+A presente lei se destina a disciplinar os projetos de arruamentos, loteamentos, desmembramentos e incorporações de terrenos no Município de Guaíra, cuja execução depende sempre de prévia licença e fiscalização da Prefeitura, obedecidas as normas aqui consignadas e demais disposições da lei nº 6766 de 19/12/1979 e as demais aplicáveis à matéria.
+
+
+§ 1º
+
+Compreende-se por arruamento a abertura de qualquer via ou logradouro destinado à circulação ou à utilização pública.
+
+
+§ 2º
+
+Compreende-se por loteamentos a subdivisão da gleba em lotes destinados â edificação com abertura de novas vias de circulação, de logradouros públicos ou o prolongamento, modificação ou ampliação das vias existentes.
+
+
+§ 3º
+
+Compreende-se por desmembramento a subdivisão da gleba em lotes destinados a edificação, com aproveitamento do sistema viário existente, desde que não implique na abertura de novas vias e logradouros públicos, nem no planejamento, modificação ou ampliação dos já existentes.
+
+
+§ 4º
+
+Serão consideradas unificações ou incorporações a junção de dois ou mais lotes para formarem apenas um imóvel, respeitadas as dimensões previstas em lei.
+
+
+§ 5º
+
+A construção de mais de uma economia autônoma dentro de um mesmo lote não constitui desmembramento e este só será admitido se daí resultarem lotes edificáveis, de acordo com a lei.
+
+
+Art. 2º.
+
+As disposições da presente lei obrigam não só os arruamentos, loteamentos, desmembramentos ou incorporações realizadas para a venda ou melhor aproveitamento de imóveis, como também os arruamentos, loteamentos, desmembramentos ou incorporações efetuadas em inventário, por divisão amigável ou judicial para extinção da comunhão de bens ou a qualquer outro título.
+
+
+#### CAPÍTULO II — ARRUAMENTO
+
+
+##### Seção I — Diretrizes Básicas
+
+
+Art. 3º.
+
+Os planos de arruamento deverão ser executados de modo a se obter a melhor disposição para os logradouros públicos, estradas, avenidas, ruas, praças, jardins, parques e para os lotes, em função de sua localização, destino, uso, edificação e conforme as exigências do Plano Diretor.
+
+
+Parágrafo único
+
+Fica sempre a critério da Prefeitura, qualquer que seja o caso da abertura de logradouros por iniciativa particular, sua zona de localização ou categoria, a aceitação ou recusa integral do anteprojeto ou de qualquer de seus detalhes, podendo ainda, o Poder Público Municipal, tendo em vista as diretrizes básicas do Plano Diretor, as conveniências de viação e desenvolvimento provável da região interessada, ou outro motivo de interesse da cidade, impor exigências no sentido de melhorar os arruamentos projetados.
+
+
+Art. 4º.
+
+O interessado em qualquer arruamento deverá requerer inicialmente que a Prefeitura forneça esquematicamente as diretrizes a serem obedecidas na elaboração do projeto de arruamento, juntando para isso os seguintes documentos:
+
+
+I –
+
+prova de domínio sobre o terreno a arruar;
+
+
+II –
+
+planta de situação do terreno, na escala de 1:10.000, assinalando as áreas limítrofes que já estejam arruadas;
+
+
+III –
+
+planta do perímetro do terreno, na escala de 1:1.000, que consiste:
+
+
+a)
+
+orientação magnética ou verdadeira;
+
+
+b)
+
+relevo do solo por meio de curvas de nível de altitude equidistante de um metro;
+
+
+c)
+
+cursos d`água, bosques, partes alagadiças, mananciais, construções, linhas de transmissão de energia, adutoras e mais obras ou instalações existentes e as demais indicações topográficas que interessarem;
+
+
+d)
+
+arruamentos existentes nas áreas confinantes.
+
+
+§ 1º
+
+Quando o arruador for proprietário de maior área e se dispuser a arruar semente parte da mesma, as plantas referidas nos itens II e III deverão abranger a totalidade do terreno.
+
+
+§ 2º
+
+As plantas anteriormente referidas devem ser juntas em três (3) vias, sendo uma delas em papel heliográfico vegetal (copiativo) obedecidas as normas da ABNT.
+
+
+Art. 5º.
+
+Para fins de estudo de diretrizes, sempre que se fizer necessário, poderá o órgão competente exigir a extensão do levantamento altimétrico ao longo de uma ou mais divisas de áreas arruada numa faixa externa até o limite de cinquenta metros (50m).
+
+
+Art. 6º.
+
+As diretrizes serão fornecidas pelo órgão competente da Municipalidade.
+
+
+Art. 7º.
+
+A tramitação dos processos pedindo diretrizes para arruamento, estão disciplinadas no capítulo V.
+
+
+##### Seção II — Arruamento - Projeto Definitivo
+
+
+Art. 8º.
+
+Elaborado o projeto definitivo, com os elementos fornecidos pelo órgão competente e fixados os marcos delimitadores das quadras, o interessado pedirá sua provação, juntando os seguintes documentos:
+
+
+I –
+
+cópia autenticada da planta de diretrizes;
+
+
+II –
+
+certidão do registro de imóveis que prove o domínio do interessado sobre o imóvel;
+
+
+III –
+
+certidões negativas de impostos municipais, em caso de pessoa jurídica, provando não estar o terreno onerado com impostos;
+
+
+IV –
+
+caderneta de campo e cópia autenticada do levantamento topográfico efetuado;
+
+
+V –
+
+cálculo analítico do levantamento topográfico;
+
+
+VI –
+
+caderneta de campo e cópia autenticada no nivelamento dos eixos dos logradouros, feitos de 20 em 20 metros, com referência à RN fornecida pela Prefeitura;
+
+
+VII –
+
+memorial descritivo do terreno a arruar, mencionando a sua denominação, a área total do terreno, as áreas das vias públicas, dos espaços livres e as destinadas a edifícios públicos e remanescentes, os limites, situação e confrontes, além das demais características que interessarem;
+
+
+VIII –
+
+planta de arruamento na escala de 1:1.000, em quatro (4) vias, sendo uma em papel vegetal, indicando:
+
+
+a)
+
+orientação magnética e verdadeira;
+
+
+b)
+
+relevo do solo por meio de curvas de nível, de altitude equidistantes de um (1) metro;
+
+
+c)
+
+cursos d`água, áreas alagadiças, mananciais, sistema de escoamento das águas pluviais e das servidas;
+
+
+d)
+
+marcos do alinhamento das vias públicas;
+
+
+e)
+
+largura das vias públicas;
+
+
+f)
+
+bosques e construções existentes;
+
+
+g)
+
+áreas destinadas a edifícios públicos;
+
+
+h)
+
+espaços vazios e devidamente cotados;
+
+
+i)
+
+comprimento das quadras;
+
+
+j)
+
+zoneamento, uso e utilização das áreas remanescentes;
+
+
+k)
+
+quadro estatístico contendo área do terreno, áreas das vias públicas, dos espaços livres, as destinadas a edifícios públicos e a remanescente loteável;
+
+
+l)
+
+rede de distribuição de iluminação pública e domiciliar;
+
+
+m)
+
+outras indicações que interessarem.
+
+
+IX –
+
+perfis longitudinais da topografia do terreno, tirados na linha dos eixos de cada via pública do plano, referidos na mesma RN em três (3) vias, sendo uma de papel vegetal milimetrado, nas escalas de 1:500 horizontal e 1:100 vertical;
+
+
+X –
+
+anteprojeto, em duas (2) vias, da rede de escoamento das águas pluviais e superficiais, canalização em galerias ou canal aberto, com indicação das obras de arte (muros de arrimo, pontilhões) quando exigidas e necessárias a conservação dos novos logradouros;
+
+
+XI –
+
+anteprojeto da rede de distribuição de iluminação pública e particular.
+
+
+§ 1º
+
+Para os terrenos de maior dimensão, a planta a que se refere o inciso IX será dividida em pranchas que não excedam de um metro, devendo neste caso, ser apresentada com superposição de 10% e uma planta de conjunto em escala mais reduzida.
+
+
+§ 2º
+
+As convenientes pranchas do projeto devem obedecer às características indicadas pela ABNT (Associação Brasileira de Normas Técnicas).
+
+
+§ 3º
+
+Todas as peças do projeto, serão assinadas pelo responsável técnico, mencionando seu registro no CREA desta Região e na Prefeitura. O proprietário assinará as plantas referidas no inciso VIII deste artigo. O original da planta deverá ter as firmas do proprietário e do responsável técnico reconhecidas em tabelião.
+
+
+Art. 9º.
+
+O prazo mínimo para aprovação dos projetos e expedição do alvará de licença para o início das obras é de cento e vinte (120) dias a contar da aceitação do plano definitivo elaborado em conformidade com os artigos 8º e 10.
+
+
+§ 1º
+
+O alvará de licença será precedido de estudo dos elementos fornecidos pelo interessado e da verificação "in loco" da fixação dos marcos delimitadores das quadras.
+
+
+§ 2º
+
+Findo este prazo o arruador poderá dar início às obras mediante comunicação dirigida ao Diretor do Departamento de Obras e Urbanismo.
+
+
+§ 3º
+
+O arruador deverá atender, no prazo de quinze (15) dias a pedido de esclarecimento ou apresentação de elementos elucidativos, formulados pela repartição competente, no curso do processo, salvo prorrogação concedida por motivo justificado.
+
+
+§ 4º
+
+O não atendimento do pedido a que se refere o parágrafo anterior importará no arquivamento do processo, por abandono, mediante despacho do Diretor do Departamento de Obras e Urbanismo e semente poderá ter novo andamento mediante requerimento do Prefeito, pagos novamente os emolumentos de lei.
+
+
+Art. 10.
+
+O arruamento de terrenos baixos, alagadiços ou sujeitos a inundações semente será aprovado depois de aterrados e drenados conforme exige a Prefeitura, respeitadas as faixas de Fundo de Vale e obedecido o que contiver a lei federal.
+
+
+Art. 11.
+
+Os marcos delimitadores de quadras serão de pedra ou de concreto, com seção de 15 x 15 centímetros e comprimento mínimo de 0,60m.
+
+
+Art. 12.
+
+E facultado ao arruador solicitar o comprovante de aprovação e mais três (3) vias além das indicadas no item VIII do artigo 8º.
+
+
+Art. 13.
+
+A tramitação dos processos pedindo diretrizes básicas para arruamento definitivo, está disciplinada no capítulo IV da presente lei.
+
+
+##### Seção III — Arruamento - Normas Técnicas
+
+
+Art. 14.
+
+O Município de Guaíra é dividido em áreas urbanas, áreas de expansão urbana e área rural, entendendo-se por ÁREA URBANA aquela definida como tal no zoneamento de uso do solo, em face da edificação e dos serviços públicos existentes; por ÁREA DE EXPANSÃO URBANA aquela que o Plano indica como futuramente urbana e por ÁREA RURAL, o restante do solo do Município, não destinado a fins urbanos.
+
+
+Art. 15.
+
+Na zona urbana, as vias públicas guardarão entre si, considerados os alinhamentos mais próximos, uma distância não inferior a sessenta (60) metros, nem superior a trezentos (300) metros, salvo casos excepcionais de planejamento ou de ordem técnica, que tomem impossível a obediência a esses limites.
+
+
+Art. 16.
+
+Na área urbana, as seções transversais das ruas terão:
+
+
+I –
+
+vinte (20) metros no mínimo quando expressas ou de grande comunicação (coletoras);
+
+
+II –
+
+dezesseis (16) metros no mínimo quando de tráfego apenas para escoamento local;
+
+
+III –
+
+quatorze (14) metros no mínimo em casos excepcionais e quando tratar-se de ruas de interesse exclusivamente local, iniciando em ruas de seção transversal máxima de dezesseis (16) metros, podendo terminar em balão de retomo que permita inscrever uma circunferência de diâmetro mínimo igual a uma vez e meia a seção transversal da rua e comprimento máximo de 300 (trezentos) metros.
+
+
+Art. 17.
+
+As ruas poderão terminar na divisa do terreno a arruar, quando o seu prolongamento estiver previsto no plano ou ainda, quando interessar a esse plano, podendo ser adotado balão de retorno, provisoriamente.
+
+
+##### Seção IV — Arruamento - Aprovação
+
+
+Art. 18.
+
+Por ocasião da aprovação da planta de arruamento (loteamento) o proprietário obrigar-se-á:
+
+
+I –
+
+Executar a terraplenagens e pavimentação de todas as ruas, conforme especificação do Departamento de Obras e Urbanismo;
+
+
+II –
+
+Executar as obras de consolidação e arrimo para a boa conservação dessas ruas, bueiros, pontilhões ali necessários, sempre que as obras mencionadas forem consideradas indispensáveis à vista das condições viárias e sanitárias dos terrenos a arruar.
+
+
+III –
+
+Executar as galerias de águas pluviais quando for constatada a absoluta impossibilidade de se obter o seu escoamento superficial ao longo das ruas projetadas;
+
+
+IV –
+
+As obras de que cogita o presente artigo e seus itens deverão ser previamente aprovadas pelas repartições municipais competentes;
+
+
+V –
+
+Desde que os planos acima estejam de acordo com as posturas municipais, o projeto de arruamento será aprovado e o interessado poderá iniciar os trabalhos que deverão estar concluídos dentro de um prazo de três (3) anos a contar da data de escritura pública mencionada no artigo 23, expedindo o alvará de licença necessário.
+
+
+Art. 19.
+
+Uma vez aprovado o plano de armamento e deferido o processo, a Prefeitura baixará um decreto de aprovação, no qual deverão constar condições em que o arruamento é autorizado, as obras a serem realizadas, o prazo para execução, as áreas caucionadas cano garantia de pavimentação e obras complementares, bem como as áreas cedidas ao domínio público por força do artigo 25.
+
+
+Art. 20.
+
+Como garantia da execução das obras mencionadas nos Itens I, II e III do artigo 18, será caucionada xma área de terreno a ser arruado, de valor correspondente ao custo dos trabalhos a serem realizados, a juízo do Departamento de Obras e Urbanismo.
+
+
+Parágrafo único
+
+A caução da área constará expressamente de escritura em que forem cedidas ao Município as áreas necessárias a passagem de ruas, logradouros públicos, bem como a área líquida, para fins de utilidade pública.
+
+
+Art. 21.
+
+Uma vez realizadas as obras de que tratam os itens I, II e III do artigo 18, a Prefeitura, a requerimento do interessado e após competente vistoria, liberará as áreas caucionadas.
+
+
+Parágrafo único
+
+A liberação das áreas caucionadas não poderá ser parcial e somente ocorrerá quando todas as obras estiverem realizadas.
+
+
+Art. 22.
+
+Findo o prazo de três (3) anos a cantar da data da escritura, caso não tenham sido realizados, o Município executará as obras julgadas necessárias e promoverá a ação competente para adjudicar ao seu patrimônio as áreas caucionadas.
+
+
+Parágrafo único
+
+Essas áreas se constituirão em bens dominiais do Município que poderá usá-las livremente nos casos e na forma que a lei prescrever.
+
+
+Art. 23.
+
+A área destinada a praças, jardins, parques, bosques e uso institucional, que corresponderá, no mínimo a 10% (dez por cento) da área total do terreno a ser loteado, será determinada pelo órgão competente, por ocasião do pedido de diretrizes básicas, obedecido o Plano Diretor, deduzida a área utilizada pelas vias públicas e as necessárias às obras de saneamento, fundo de vale, dutos e alta tensão.
+
+
+Parágrafo único
+
+A somatória das áreas destinadas a parques, jardins, de uso institucional, a área de ruas não poderá ser inferior a 35% (trinta e cinco por cento) da área bruta, não se computando para tanto a área destinada ao fundo de vale.
+
+
+Art. 24.
+
+A responsabilidade por diferença constatada de área existente nos lotes, em desacordo com a planta aprovada, será exclusivamente do loteador.
+
+
+Art. 25.
+
+Os bens dominiais incluídos entre os de uso público, semente poderão essa qualidade mediante lei que lhes indique a nova destinação.
+
+
+##### Seção V — Arruamento - Modificação do Plano
+
+
+Art. 26.
+
+Depois de aprovado o arruamento e durante o prazo de vigência do mesmo, o arruador poderá requerer modificação total ou parcial dos planos de arruamento.
+
+
+§ 1º
+
+Em se tratando de simples alteração de perfis ou medidas resultantes em consequência da locação definitiva, e não se modificando o traçado e a localização das ruas, o loteador apresentará as novas plantas, de conformidade com o disposto nesta lei, para que lhe seja fornecido novo alvará de licença, pelo Departamento de Obras e Urbanismo.
+
+
+§ 2º
+
+Quando houver modificação substancial do plano, o projeto será examinado, no todo ou na parte alterada, observando todas as disposições desta lei, expedindo-se então o novo alvará e baixando-se novo decreto de aprovação.
+
+
+Art. 27.
+
+Toda e qualquer modificação, total ou parcial, secundaria ou substancial, no plano de arruamento, durante a vigência do alvará de licença para execução, dependerá de prévia anuência dos titulares de direitos sobre lotes vendidos ou compromissados à venda.
+
+
+#### CAPÍTULO III
+
+
+##### Seção I — LOTEAMENTOS
+
+
+Art. 28.
+
+O interessado em lotear terrenos já arruados, é obrigado a requerer a provação do projeto, mencionando sempre a planta de que faz parte o terreno e juntando os seguintes documentos:
+
+
+I –
+
+Planta de arruamento aprovada pela Prefeitura;
+
+
+II –
+
+Prova de domínio, constante de certidão de registro de imóveis;
+
+
+III –
+
+Planta de loteamento em quatro (4) vias, sendo uma delas em papel vegetal desenhado a nanquim em escala de 1:1000.
+
+
+§ 1º
+
+As peças de desenho obedecerão as características técnicas indicadas pela ABNT.
+
+
+§ 2º
+
+As peças de desenho serão assinadas pelo proprietário e pelo responsável técnico, mencionando este seu registro no CREA desta região e na Prefeitura, trazendo no original as firmas reconhecidas por tabelião.
+
+
+Art. 29.
+
+O prazo mínimo para aprovação do projeto de loteamento é de quinze (15) dias, a contar da data da sua apresentação no protocolo geral, não se computando aí o prazo que o interessado levar para atender qualquer solicitação da Prefeitura, ou por motivo de força maior devidamente justificado no próprio processo.
+
+
+Parágrafo único
+
+O não atendimento, por parte do interessado, das notificações feitas pela Prefeitura, determinará o arquivamento do processo, por abandono.
+
+
+Art. 30.
+
+Para lotear terrenos já arruados em função de leis anteriores e dos quais não tenham sido reservados 15% (quinze por cento) de área liquida para áreas verdes ou edifícios públicos, bem como áreas caucionadas para garantia de pavimentação e obras complementares, fica o interessado sujeito a essas exigências, que são imprescindíveis para a aprovação do loteamento, de acordo com a presente lei.
+
+
+Art. 31.
+
+Caso os terrenos a lotear não estejam arruados, o interessado deverá primeiramente cumprir as exigências desta lei; no que concerne ao arruamento, podendo, já na ocasião da provação do projeto definitivo de arruamento, apresentar, conjuntamente, o Plano de Loteamento, observadas as disposições contidas na Seção IV, Capítulo II.
+
+
+Art. 32.
+
+Em todos os loteamentos ou desmembramentos de terrenos a serem constituídos neste Município, os lotes deverão possuir dimensões mínimas previstas na legislação de zoneamento.
+
+
+Art. 33.
+
+Aprovado o loteamento, será baixado decreto na forma prevista pelo art. 19.
+
+
+Art. 34.
+
+Nas vias públicas em que se exija recuo de construção os lotes que se situarem nas esquinas deverão ter as testadas mínimas acrescidas da metragem correspondente a este afastamento.
+
+
+Art. 35.
+
+Para lotes de esquina inferiores a 14,00m (quatorze metros) será concedido um abono para o recuo frontal de 0,50m (cinquenta centímetros) para cada metro ou fração de diferença até um recuo mínimo de 3,50m (três metros e cinquenta centímetros). Ex. 14,00m recuo 5,00m/13,50m - recuo 4,50 etc.
+
+
+##### Seção II — Loteamentos - Modificação do Projeto
+
+
+Art. 36.
+
+Em qualquer tempo poderá ser requerida modificação do loteamento, devendo o pedido, além dos documentos exigidos pelo artigo 31, ser acompanhado de cópia da planta primitiva.
+
+
+Parágrafo único
+
+No caso de o loteador não ser mais o proprietário ou ter compromissado lotes que venham a ser atingidos pela modificação do loteamento, o pedido dependerá de prévia anuência, por escrito, dos titulares de direitos sobre os lotes vendidos ou prometidos à venda.
+
+
+#### CAPÍTULO IV — DESMEMBRAMENTOS
+
+
+Art. 37.
+
+Todos os desmembramentos de terreno no Município, a qualquer título, deverão ser previamente aprovados pela Prefeitura, através do Departamento de Obras e Urbanismo.
+
+
+§ 1º
+
+Aos desmembramentos não se aplicam as disposições do artigo 23, desta lei.
+
+
+§ 2º
+
+O pedido de licença mencionará sempre a planta de que faz parte o lote e será instruído com os seguintes documentos:
+
+
+I –
+
+Prova de domínio, compreendendo certidão de registro de imóveis;
+
+
+II –
+
+Prova de quitação com a Fazenda Municipal; e,
+
+
+III –
+
+Planta do desmembramento, em quatro (4) vias, sendo uma delas em papel tela desenhado a nanquim, em escala de 1:500.
+
+
+§ 3º
+
+As peças de desenho deverão obedecer as características indicadas pela ABNT.
+
+
+§ 4º
+
+As peças do projeto de desmembramento serão assinadas pelo proprietário e pelo responsável técnico, mencionando este o seu registro no CREA desta região e na Prefeitura, trazendo no original as firmas reconhecidas por tabelião.
+
+
+#### CAPÍTULO V — DISPOSIÇÕES FINAIS
+
+
+Art. 38.
+
+A Prefeitura Municipal, sempre que necessário regulamentará as disposições desta lei, através de decreto.
+
+
+Art. 39.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 40.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+EDIFÍCIO DA PREFEITURA MUNICIPAL DE GUAÍRA, EM 11 DE DEZEMBRO DE 1980.  
+  
+KURT WALTHER HASPER  
+Prefeito Municipal  
+  
+BRASIL ANDRADE HOLSBACH  
+Secretário da Prefeitura
+
+*Nota: Este texto não substitui o original publicado no Diário Oficial.*
+

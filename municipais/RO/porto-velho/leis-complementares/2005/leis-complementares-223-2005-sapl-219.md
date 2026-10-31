@@ -1,0 +1,271 @@
+---
+titulo: "Lei Complementar nº 223, de 26 de julho de 2005"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "223"
+data: "2005-07-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2007-09-26; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/219"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1801/text"
+sha256_fonte: "159a4a0b3586804c5bc17578bed7db1f83a98ba2c62c840111a8b6263f5960d4"
+sha256_texto: "d9bfb292ac9e1a0feb66ca5cef4ba6b019b79f186adb9d1a88a4032b2e404696"
+capturado_em_fonte: "2026-10-27T21:35:28.122442-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 223, de 26 de julho de 2005
+
+“Dispõe sobre a concessão de anistia de multa e juros, e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV do artigo 87 da Lei Orgânica do Município de Porto Velho,
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**L E I C O M P L E M E N T A R :**
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder anistia de multa e juros aos créditos de natureza tributária e não tributária, inscritos ou não em dívida ativa, ajuizados ou não, com protesto extrajudicial, inclusive objeto de parcelamento, cujo fato gerador tenha ocorrido até 31 de dezembro de 2004, relacionados com:
+
+
+a)
+
+Imposto Predial e Territorial Urbano – IPTU;
+
+
+b)
+
+Taxa de Coleta de Lixo e Taxa de Coleta de Resíduo Sólido Domiciliar – TRSD;
+
+
+c)
+
+Auto de Infração do Imposto Predial;
+
+
+d)
+
+Imposto sobre Serviço de Qualquer Natureza – ISSQN;
+
+
+e)
+
+Auto de Infração de ISSQN;
+
+
+f)
+
+Alvará de Localização e Funcionamento – Licença de Funcionamento;
+
+
+g)
+
+Taxa de Uso de Bem Público;
+
+
+h)
+
+Foros.
+
+
+Art. 2º.
+
+A anistia a que se refere o art. 1º desta Lei Complementar, terá inicio a partir da data de sua publicação, estendendo-se conforme a seguir:
+
+
+I –
+
+70% (setenta por cento) aos contribuintes que pagarem seu débito até 31 de dezembro de 2007, na modalidade à vista;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 287, de 26 de setembro de 2007.
+
+
+II –
+
+50% (cinqüenta por cento) aos contribuintes que pagarem seu débito até o dia 31 de julho de 2008, na modalidade de pagamento por parcelamento ou à vista.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 287, de 26 de setembro de 2007.
+
+
+Art. 3º.
+
+SUPRIMIDO.
+
+
+Art. 4º.
+
+O contribuinte que optar pela modalidade de pagamento por parcelamento, deverá aderir ao programa até a data de 31 de julho de 2008, atendendo as seguintes condições:
+
+Alteração feita pelo Art. 2º. - Lei Complementar nº 287, de 26 de setembro de 2007.
+
+
+I –
+
+Para o Imposto Predial Urbano – IPTU e Taxa de Resíduo Sólido Domiciliar – TRSD, deverá o imóvel estar com o cadastro fiscal atualizado para o proprietário atual;
+
+
+II –
+
+O imposto Predial Urbano e Taxa de Resíduo Sólido Domiciliar – TRSD, do ano em curso do parcelamento deverá estar quitado;
+
+
+III –
+
+O parcelamento de Auto de Infração – ISSQN, dependerá de formalização de requerimento do contribuinte, concedido mediante deferimento do Secretário Municipal de Fazenda;
+
+
+IV –
+
+O parcelamento de Imposto sobre Serviços de Qualquer Natureza – ISSQN, referente ao exercício em curso deverá estar quitado.
+
+
+§ 1º
+
+O número de parcelas permitido, está condicionada ao prazo do vencimento da última parcela prevista para 31 de dezembro de 2006.
+
+
+§ 2º
+
+O valor mínimo de cada parcela será de 01 (uma) UPF/Municipal;
+
+
+§ 3º
+
+O crédito tributário será consolidado para parcelamento, considerando o somatório do crédito tributário principal mais correção monetária até a data do efetivo parcelamento, excluídos a multa e juros moratórios incidentes sobre o tributo;
+
+
+§ 4º
+
+Cada parcela mensal será acrescida, por ocasião do pagamento, de juros não cumulativos, no percentual de 1% (um por cento) ao mês;
+
+
+§ 5º
+
+O vencimento da primeira parcela ocorrerá quando do efetivo acordo do parcelamento, ficando condicionada a ratificação do acordo após a confirmação do pagamento da respectiva parcela;
+
+
+§ 6º
+
+O vencimento das demais parcelas ocorrerá nas datas subseqüentes ao vencimento da primeira parcela;
+
+
+§ 7º
+
+O não pagamento da parcela na data do vencimento prevista no § 5º, acarretará multa de 2% (dois por cento) do valor da parcela e juros moratórios de 0,5 (meio por cento) ao mês de atraso;
+
+
+§ 8º
+
+O inadimplemento de 02 (duas) parcelas, consecutivas ou não, implicará na exclusão do sujeito passivo do parcelamento em curso, no vencimento antecipado do saldo do parcelamento e na perda do benefício da redução da multa e dos juros de mora, referentes às parcelas não pagas.
+
+
+§ 9º
+
+Os pagamentos efetuados amortizarão os créditos tributários, objeto do parcelamento, na proporção das parcelas pagas em relação às não pagas.
+
+
+§ 10
+
+O saldo remanescente dos créditos tributários sofrerão acréscimos de multa e juros, a contar da data de vencimento dos respectivos créditos parcelados e serão objeto de cobrança administrativa ou cobrança judicial, não cabendo mais a concessão do benefício de pagamento na modalidade de parcelamento.
+
+
+§ 11
+
+O parcelamento dos créditos tributários inscritos em dívida ativa, ajuizadas ou não, serão processadas em separado dos não inscritos.
+
+
+§ 12
+
+É defeso incluir no mesmo processo de parcelamento, créditos tributários de diferentes modalidades;
+
+
+Art. 5º.
+
+Os créditos objeto de cobrança extrajudicial, com restrição de protesto, deverão ser liquidados na modalidade de pagamento à vista,com beneficio da anistia de juros e multa, não sendo permitida a modalidade de parcelamento.
+
+
+Art. 6º.
+
+A inclusão de créditos tributários e não tributários parcelados até 31 de dezembro de 2004, para fins de gozo da anistia de multa e juros, deverão ter seus pagamentos efetuados nas seguintes condições:
+
+
+I –
+
+Os parcelamentos que se encontram com todas as parcelas vencidas poderão ser revogados, a pedido da parte, e aplicado a anistia de multae juros no percentual no art. 2º desta Lei, sob os créditos tributários e não tributários objeto do parcelamento;
+
+
+II –
+
+Nos parcelamentos que possuem parcelas vencidas e a vencer, poderão, as parcelas vencidas, serem pagas com anistia dos juros incidentes nas respectivas parcelas nos percentuais previsto no art. 2º desta Lei;
+
+
+III –
+
+Os parcelamentos que possuem parcelas vencidas e a vencer, poderão, mediante pedido do contribuinte, serem objeto de revogação para fins de quitação plena de todos os créditos objeto de parcelamento nos percentuais previsto no artigo 2º desta Lei;
+
+
+IV –
+
+Os parcelamentos que possuem parcelas a vencer poderão, mediante pedido do contribuinte, serem objeto de revogação para fins de quitação plena de todos os créditos, objeto de parcelamento nos percentuais previsto no art. 2º desta Lei.
+
+
+Art. 7º.
+
+Poderão os parcelamentos efetivados até 31 de dezembro de 2004 serem objeto de novo parcelamento nas condições prevista no art. 4º desta Lei.
+
+
+Art. 8º.
+
+Os parcelamentos efetivados no exercício em curso, cujos créditos tributários reportam-se a fatos geradores ocorridos até 31 de dezembro de 2004, poderão ser objeto de novo parcelamento com benefício de anistia de multa e juros, nas condições previstas no art. 4º desta Lei Complementar.
+
+
+Art. 9º.
+
+O disposto nesta Lei Complementar não se aplica aos créditos tributários lançados de ofício decorrentes de:
+
+
+I –
+
+infrações praticadas com dolo, fraude ou simulação;
+
+
+II –
+
+de isenção ou imunidade concedidas ou reconhecidas em processo eivados de vicio.
+
+
+Art. 10.
+
+Para fins de pagamento dos créditos tributários e não tributários na forma do art. 1º da presente Lei, fica o Poder Executivo, por intermédio da Secretaria Municipal de Fazenda, autorizado a emitir os boletos de cobrança bancária em nome dos contribuintes devedores, bem como notifica-los para o pagamento à vista.
+
+
+Art. 11.
+
+Fica autorizado o Poder Executivo a regulamentar a presente Lei Complementar no que for necessário ao seu fiel cumprimento.
+
+
+Art. 12.
+
+Esta Lei Complementar entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito do Município
+
+**MÁRIO JONAS FREITAS GUTERRES**
+
+Procurador Geral do Município
+
+**MIRIAN SALDAÑA PERES**
+
+Secretária Municipal de Fazenda
+

@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/acao_direta_de_incostitucionalidade.pdf da norma Lei Ordinária nº 2.373, de 05 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "cópia de acórdáo proferido em ADl. para ciêncras e providências\r\n\r\nRelativo a decisão da ADI (ação direta de inconstitucionalidade) ajuizada pelo MP/AC  em face da Lei municipal n° 2.373/2020",
+      "anexo_arquivo": "http://sapl.riobranco.ac.leg.br/media/sapl/public/anexonormajuridica/2020/1/acao_direta_de_incostitucionalidade.pdf",
+      "ano": 2020,
+      "norma": 913
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/requerimento__mocao_de_aplausos_francisca_sonia_da_silva_bezerra_.pdf da norma Lei Complementar nº 172, de 20 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "fhgjhhvhvh",
+      "anexo_arquivo": "http://sapl.riobranco.ac.leg.br/media/sapl/public/anexonormajuridica/2022/2/requerimento__mocao_de_aplausos_francisca_sonia_da_silva_bezerra_.pdf",
+      "ano": 2022,
+      "norma": 1093
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.riobranco.ac.leg.br/8da926a5ffc9a5289d243ba1dd3eba3c8d0bc7160c1d2bad90dddae05d49d070.json",
+      "url": "https://sapl.riobranco.ac.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.riobranco.ac.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b0e8084784c880b682cf577b26d50db3d871e4322de99b26eb071b086987d2a0",
+      "bytes": 1315,
+      "capturado_em": "2026-10-21T03:32:24.527034-03:00"
+    }
+  ]
+}

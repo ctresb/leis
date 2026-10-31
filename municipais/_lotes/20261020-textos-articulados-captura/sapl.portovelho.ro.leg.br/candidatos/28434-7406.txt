@@ -1,0 +1,45 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.240, de 27 de dezembro de 2024, a fim de proceder às adequações orçamentárias no exercício 2025,
+
+Considerando o Ofício n.º 59/SEMTEL/GAB/DA, de 10 de setembro de 2025, pelo qual a Secretaria Municipal de Turismo, Esporte e Lazer - SEMTEL solicita movimentação de recursos referente a Elaboração do Plano Municipal de Turismo de Porto Velho 2025-2030 e desenvolvimento de ações voltadas à inserção da Reserva Extrativista Lago do Cuniã,
+
+**D E C R E T A:**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 257.020,00 (duzentos e cinquenta e sete mil e vinte reais).
+
+
+Art. 2º.
+
+A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVI do Artigo o 6º da Lei nº 3.193, de 27 de junho de 2024 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>13.00 - SECRETARIA MUNICIPAL DE TURISMO, ESPORTE E LAZER - SEMTEL</strong></td></tr><tr><td colspan="7"><strong>13.01 - SECRETARIA MUNICIPAL DE TURISMO, ESPORTE E LAZER - SEMTEL</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESPERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>TRANSPÕE R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td rowspan="2">13.01.04.122.007.2.001</td><td rowspan="2">Administração da Unidade</td><td rowspan="2">FIS</td><td>3.3.90.30</td><td>1.500.0000.0000.0000</td><td>115.916,97</td><td>-</td></tr><tr><td>4.4.90.52</td><td>1.500.0000.0000.0000</td><td>99.500,00</td><td>-</td></tr><tr><td>13.01.23.695.351.2.184</td><td>Realização de workshops, eventos e seminários voltados ao fomento do turismo municipal</td><td>FIS</td><td>3.3.90.39</td><td>1.500.0000.0000.0000</td><td>41.583,03</td><td>-</td></tr><tr><td>13.01.23.695.351.2.190</td><td>Divulgação e promoção das atividades turísticas do município</td><td>FIS</td><td>3.3.50.41</td><td>1.500.0000.0000.0000</td><td>-</td><td>257.000,00</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>257.000,00</strong></td><td><strong>257.000,00</strong></td></tr><tr><td colspan="7"><p><strong>02.00 - SECRETARIA DE GOVERNO - SGOV</strong></p></td></tr><tr><td colspan="7"><p><strong>02.71 - SUPERINTENDÊNCIA MUNICIPAL  DE DISTRITOS - SMD</strong></p></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESPERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>TRANSPÕE R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td>02.71.04.122.286.2.746</td><td>Plano de Desenvolvimento Distrital</td><td>FIS</td><td>4.4.90.47</td><td>1.500.0000.0000.0000</td><td>20,00</td><td>-</td></tr><tr><td>02.71.04.122.286.2.692</td><td>Manutenção das sedes administrativas</td><td>FIS</td><td>3.3.90.47</td><td>1.500.0000.0000.0000</td><td>-</td><td>20,00</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>20,00</strong></td><td><strong>20,00</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>20,00</strong></td><td><strong>20,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 20.737, de 27 de dezembro de 2024 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 20.738, de 27 de dezembro de 2024.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+**LEONARDO BARRETO DE MORAES**  
+Prefeito do Município
+
+**WAGNER GARCIA DE FREITAS**  
+Secretário Municipal de Economia
+
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral do Município

@@ -1,0 +1,140 @@
+Dispõe sobre os procedimentos para verificação da validade jurídica de Nota Fiscal Eletrônica (NF-e), na aquisição de mercadorias, bens e serviços, pela Câmara Municipal de Carmo do Paranaíba.
+
+
+A Mesa Diretora da Câmara Municipal de Carmo do Paranaíba, Estado de Minas Gerais, nos termos do inciso I do art. 69 da Lei Orgânica Municipal, inciso XII do art. 45 e art. 54 do Regimento Interno, promulga a seguinte Resolução.
+
+
+Art. 1º.
+
+A verificação da validade jurídica da NF-e, na aquisição de mercadorias ou bens pela Câmara Municipal de Carmo do Paranaíba, Estado de Minas Gerais, será feita mediante consulta ao Portal Estadual da NF-e ou ao Portal Nacional da NF-e.
+
+
+§ 1º
+
+A verificação da autorização de uso do documento fiscal eletrônico por meio do Portal Estadual da NF-e, no endereço http://www.portalnfe.fazenda.mg.gov.br/consultas.html, será realizada da seguinte forma:
+
+
+I –
+
+acessar o link “consultas por chave de acesso” do Ambiente de Produção;
+
+
+II –
+
+seguir as instruções constantes na página para preenchimento dos campos;
+
+
+III –
+
+após inserção dos dados, clicar em “Consulta detalhada”;
+
+
+IV –
+
+verificar se o uso da NF-e foi autorizado pela Secretaria de Estado de Fazenda.
+
+
+§ 2º
+
+A verificação de autorização de uso do documento fiscal eletrônico por meio do Portal Nacional da NF-e, no endereço http://www.nfe.fazenda.gov.br/portal/, será realizada da seguinte forma:
+
+
+I –
+
+no quadro “Serviços”, acessar “Consultar NF-e completa”;
+
+
+II –
+
+seguir as instruções constantes na página para preenchimento dos campos;
+
+
+III –
+
+após inserção dos dados, clicar em “Continuar”;
+
+
+IV –
+
+verificar se o uso da NF-e foi autorizado pela Secretaria de Estado da Fazenda.
+
+
+§ 3º
+
+Além do protocolo de autorização, deverá ser verificada a correspondência entre os dados impressos no Documento Auxiliar da Nota Fiscal Eletrônica – DANFE e os dados apresentados na consulta.
+
+
+§ 4º
+
+No respectivo DANFE, deverá ser atestado que foi feita a consulta de verificação da autorização de uso do documento fiscal eletrônico, mediante a seguinte expressão, conforme modelo constante do Anexo I. “Atesto que a presente NF-e teve sua autorização verificada no ato de seu recebimento”.
+
+
+Art. 2º.
+
+O recebimento da mercadoria, bem ou serviço, conforme respectiva NF-e está condicionado à efetiva verificação da autorização de uso de que trata o artigo 1º por parte do órgão responsável pelo recebimento das referidas mercadorias, bens ou serviços.
+
+
+Art. 3º.
+
+A verificação da validade jurídica da NFe na aquisição de serviços pela Câmara Municipal de Carmo do Paranaíba, será feita mediante consulta ao Portal da nota fiscal eletrônica de serviços.
+
+
+§ 1º
+
+A verificação da autorização de uso do documento fiscal eletrônico, emitida no município será da seguinte forma:
+
+
+I –
+
+acessar o endereço http://www.carmodoparanaiba.mg.gov.br;
+
+
+II –
+
+acessar o link “Validar NFe”;
+
+
+III –
+
+seguir as instruções constantes na página para preenchimento dos campos;
+
+
+IV –
+
+verificar se a nota fiscal eletrônica está devidamente autorizada. No corpo da NFe não poderá possuir mensagem de “substituída” ou “cancelada”.
+
+
+§ 2º
+
+Na respectiva NFe, deverá ser atestado que foi feita a consulta de verificação da autorização de uso do documento fiscal eletrônico, mediante a seguinte expressão, conforme modelo constante do Anexo I. “Atesto que a presente NF-e teve sua autorização verificada no ato de seu recebimento”.
+
+
+Art. 4º.
+
+Toda NF-e emitida para a Câmara Municipal de Carmo do Paranaíba na aquisição de mercadorias, bens e serviços deverá ter sua validade jurídica verificada no ato de seu recebimento.
+
+
+Parágrafo único
+
+No caso de NF-e de serviços emitidas em outros municípios, a validade jurídica da mesma deverá ser feita através de consulta ao portal de origem da mesma.
+
+
+Art. 5º.
+
+Esta resolução entra em vigor na data da sua publicação, surtindo os seus efeitos a partir do dia 1º de janeiro de 2017.
+
+
+Câmara Municipal de Carmo do Paranaíba, MG, 16 de novembro de 2016.
+
+
+**Romis Antônio dos Santos**
+
+\- Presidente da Câmara -
+
+**Jader Quintino Alves**
+
+\- Vice-Presidente -
+
+**Maira Bethânia Braz de Queiroz**
+
+-Secretária-

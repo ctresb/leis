@@ -1,0 +1,119 @@
+---
+titulo: "LEI ORDINÁRIA nº 563, de 18 de outubro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "563"
+data: "2021-10-18"
+municipio: "Baraúna"
+uf: "PB"
+codigo_ibge: "2501534"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.barauna.pb.leg.br/norma/604"
+fonte_texto: "https://sapl.barauna.pb.leg.br/media/sapl/public/normajuridica/2021/604/lei_municipal_no_563-2021.pdf"
+sha256_fonte: "d79a386bf3427fa036d76f338531ac928f9e90b5710841adc78f08b9b90ab6fb"
+sha256_texto: "d01dcfd5200d9e618739166614f734d2176acc196639255a1b2eee8870b6afa2"
+baixado_em: "2026-10-20"
+---
+
+# LEI ORDINÁRIA nº 563, de 18 de outubro de 2021
+
+LEI N°563/2021 Baraúna —PB, em 18 de outubro de 2021. ~ ~ "Abre crédito especial no valor de R$ 339.000,00 (Trezentos e Trinta e Nove Mil o Reais), e dá outras providências."
+
+r-
+
+O PREFEITO CONSTITUCIONAL DO MUNICIPIO DE BARAÚNA-PB, \* ESTADO DA PARAIBA, no uso de suas atribuições conferidas por Lei;
+
+Faço saber que a Câmara Legislativa do Município de Baraúna-PB, APROVA, e eu sanciono a seguinte Lei:
+
+Considerando que no orçamento de 2021 não foi previsto despesa com Obras — construção de Garagem Municipal e o Municipio pretende iniciar a obra em 2021.
+
+RESOLVE:
+
+**Art. 1°** - Abrir Crédito Especial no valor de R$ 339.000,00(Trezentos e Trinta e Nove Mil Reais), utilizando as dotações orçamentárias abaixo discriminadas:
+
+11.00 Sec. De serv. Públicos, transporte e estradas. 451 Infraestruturas urbana 2014 Infraestrutura urbana • 1005 Construir garagem municipal. r 44.90.51.01 Obras e instalações r$ 339.000,00 001.000001 Recursos ordinários
+
+**Art. 2°** - Fica autorizado para a cobertura deste crédito especial, a anulação no valor de R$ R$ 339.000,00 (Trezentos e Trinta e Nove Mil Reais), das dotações orçamentárias abaixo discriminadas.
+
+01.00 GABINETE DO PREFEITO
+
+~ 04.122.1002.1002 - ADQUIRIR EQUIPAMENTOS P/GAB. DO PREFEITO ~ 001.00 Recursos ordinários 4.4.90.52.01 EQUIPAMENTOS E MATERIAL PERMAN ENTE R$ 5.000,00 a ~ 03.00 SEC. DE FINANÇAS
+
+r 04.123.1002.2007 - MANTER ATIVIDADES DA SEC. DAS FINANÇAS
+
+~ ~
+
+O e
+
+\_
+
+^ ESTADO DA PARAÍBA
+
+3.3.90.92.01 DESPESAS DE EXERCÍCIOS ANTERIORES R$ 1.000,00 3.3.90.93.01 INDENIZAÇÕES E RESTITUIÇÕES R$ 1.000,00
+
+28.843.0001.0001 - CUMPRIMENTO DE SENTENÇAS JUDICIAIS
+
+r. 3.3.90.91.01 SENTENÇAS JUDICIAIS R$ 6.000,00
+
+28.843.0001.0002 - CUMPRIR PARCELAMENTO DE DÍVIDAS DO MUNICÍPIO
+
+4.6.90.71.01 PRINCIPAL DA DÍVIDA CONTRATUAL RESGATADO R$ 5.000,00
+
+28.846.0001.0004- CONTRIBUIR PARA A FORMAÇÃO DO PASEP n 001.00 Recursos ordinários 3.3.90.47.01 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS R$ 20.000,00
+
+0500 - SEC. DE AGRICULTURA E DESENVOLVIMENTO RURAL
+
+20.606.2011.2009 - MANTER ATIVIDADES DA SECRETARIA DE AGRICULTURA
+
+0 3.3.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 20.000,00 O 0600 - SEC. DE EDUCAÇÃO
+
+12.361.2009.2043 - MANTER ATIVIDADE TRANSPORTE ESCOLAR - CONVÊNIO 125.002 Transf.de convênios — educação (corrente estado) 3.3.90.30.01 MATERIAL DE CONSUMO R$ 6.000,00 O 3.3.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 3.000,00 3.3.90.39.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA JURIDICA R$ 14.000,00 r- \_ 3.3.90.93.01 INDENIZAÇÕES E RESTITUIÇÕES R$ 2.000,00
+
+12.361.2010.1033 - MODERNIZAR, EQUIPAR E MOBILIAR UNIDADES DE ENSINO A 125.002 Transf.de convênios — educação (corrente estado) 4.4.90.52.01 EQUIPAMENTOS E MATERIAL PERMANENTE R$ 31.000,00 I' ~„~ 12.361.2010.2014 - MANUTENÇÃO DAS ATIVIDADES DA EDUCAÇÃO BÁSICA - MDE 111.001 Receitas de Impostos e de Transf. De impostos — educação • 3.1.90.04.01 CONTRATAÇÃO POR TEMPO DETERMINADO R$ 18.000,00 O 3.1.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 50.000,00 t 12.361.2010.2047 - MANTER ATIVIDADES DE AÇÕES EDUCATIVAS - OUTROS REC 124.001 Outras transferências de recursos do FNDE 0 3.3.90.93.01 INDENIZAÇÕES E RESTITUIÇÕES R$ 45.000,00
+
+• 12.365.2010.1035 - AQUISIÇÃO DE EQUIPAMENTOS PARA EDUCAÇÃO INFANTIL • 115.001 Transf. Do FUNDEB — complementação da União 4.4.90.52.01 EQUIPAMENTOS E MATERIAL PERMANENTE R$ 4.000,00
+
+12.365.2010.2020 - MANTER ATIVIDADES DA EDUCAÇÃO INFANTIL 111.001 Receitas de Impostos e de Transf. De impostos — educação 3.1.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 10.000,00
+
+0800 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL - S.M.A.S.
+
+08.243.2005.2031 - MATER ATIV SERVIÇO CONVIVÊNCIA FORT VINCULOS (PET) 311.001 Transf. de recursos do fundo nacional de assistência social 3.3.90.30.01 MATERIAL DE CONSUMO R$ 15.000,00 3.3.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 2.000,00
+
+08.243.2005.2056 - MANTER PROGRAMA CRIANÇA FELIZ 311.001 Transf. de recursos do fundo nacional de assistência social 3.3.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 1.000,00
+
+r. 08.244.2004.2033 - MANTER ATIVIDADES DA SECRETARIA DE ASSIST. SOCIAL
+
+® 3.3.90.93.01 INDENIZAÇÕES E RESTITUIÇÕES R$ 1.000,00 .
+
+08.244.2004.2036 MANTER PROG. BOLSA FAMÍLIA r- 311.001 Transf. de recursos do fundo nacional de assistência social r, 3.3.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 1.000,00
+
+08.244.2004.2050 - MANTER ATIV DO PROGRAMA IGD SUAS 311.001 Transf. de recursos do fundo nacional de assistência social 3.3.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 1.000,00
+
+r. 08.244.2004.2057 - MANUTENÇÃO DO CONSELHO TUTELAR
+
+3.3.90.36.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA FÍSICA R$ 1.000,00
+
+r 08.244.2005.2035- MANTER PROGRAMA DE APOIO INTEGRAL A FAMÍLIA - PAIF 311.001 Transf. de recursos do fundo nacional de assistência social 4.4.90.52.01 EQUIPAMENTO E MATERIAL PERMANENTE R$ 10.000,00 390.001 outros recursos vinculados a assistência social 3.3.90.39.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA JURIDICA R$ 10.000,00
+
+r.- 0900 - SEC. DE CULTURA, ESPORTE E TURISMO 27.812.2003.1040 - CONST/REFORM QUADRAS E GINÁSIOS DE ESPORTES
+
+4.4.90.51.01 OBRAS E INSTALAÇÕES R$ 1.000,00 O 27.812.2003.1057 - REVITALIZAR O ESTADIO DE FUTEBOL 001.00 RECURSOS ORDINÁRIOS
+
+f`
+
+~
+
+4.4.90.51.01 OBRAS E INSTALAÇÕES R$ 1.000,00 n 510 OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU CONTRATOS DE REPASSE DA ^ UNIÃO. 4.4.90.91.01 OBRAS E INSTALAÇÕES R$ 20.000,00 3.3.90.93.01 INDENIZAÇÕES E RESTITUIÇÕES R$ 1.000,00 r^,
+
+27.812.2003.2024 - MANTER ATIVIDADES DE APOIO AO ESPORTE E TURISMO 001.00 RECURSOS ORDINÁRIOS 3.1.90.11.01 VENCIMENTOS E VANTAGENS FIXAS PESSOAL CIVIL R$ 20.000,00
+
+^ 1000 - FUNDO MUNICIPAL DE CULTURA 13.392.2016.2023 - MANTER ATIVIDADES DO FUNDO MUN DE CULTURA 001.00 RECURSOS ORDINÁRIOS 3.1.90.04.01 CONTRATAÇÃO POR TEMPO DETERMINADO R$ 1.000,00 3.1.90.11.01 VENCIMENTOS E VANTAGENS FIXAS PESSOAL CIVIL R$ 1.000,00 3.3.90.39.01 OUTROS SERVIÇOS DE TERCEIROS PESSOA JURIDICA R$ 10.000,00 3.3.90.47.01 OBRIGAÇÕES TRIBUTARIAS E CONTRIBUTIVAS R$ 1.000,00 fr
+
+e TOTAL R$ 339.000,00
+
+• Art. 3° - Ficam revogadas as disposições em contrário. ~
+
+**Art. 4°** - Havendo necessidade de suplementação será utilizado o mesmo percentual da Lei ® l,..., Orçamentária Anual;
+
+**Art. 5°** - Esta Lei entrará em vigor na data de sua publicação. ~ ~ ~ Baraúna - PB, 18 de outubro de 2021 ~ ~ ~ ~ ~ ~ MANASSES GOMES DANTAS ~ -Prefeito Municipal- ~ ~ ~ ~ ~ ~ ~ ~
+

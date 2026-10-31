@@ -1,0 +1,228 @@
+{
+  "estado": "indice_completo",
+  "total": 21,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/ata_da_71a_sessao_extraordinaria_-_15-09-2022.pdf da norma Decreto Legislativo nº 11, de 15 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão de deliberação das Contas do Poder Executivo Municipal, relativas ao exercício financeiro de 2015.",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2022/1/ata_da_71a_sessao_extraordinaria_-_15-09-2022.pdf",
+      "ano": 2022,
+      "norma": 1313
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/ata_da_40a_sessao_ordinaria_-_21-09-2021.pdf da norma Decreto Legislativo nº 3, de 21 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão de deliberação das Contas do Poder Executivo Municipal, relativas ao exercício financeiro de 2017.",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2021/2/ata_da_40a_sessao_ordinaria_-_21-09-2021.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/ata_da_22a_sessao_ordinaria_08-06-2021.pdf da norma Decreto Legislativo nº 1, de 08 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão de deliberação das Contas do Poder Executivo Municipal, relativas ao exercício financeiro de 2019.",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2021/3/ata_da_22a_sessao_ordinaria_08-06-2021.pdf",
+      "ano": 2021,
+      "norma": 1131
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/41.atada41asessaoextraordinaria08-09-2020..pdf da norma Decreto Legislativo nº 12, de 08 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão de deliberação das Contas do Poder Executivo Municipal, relativas ao exercício financeiro de 2012.",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2020/4/41.atada41asessaoextraordinaria08-09-2020..pdf",
+      "ano": 2020,
+      "norma": 727
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/35.atada35asessaoextraordinaria13_08_2020..pdf da norma Decreto Legislativo nº 11, de 13 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão de deliberação das Contas do Poder Executivo Municipal, relativas ao exercício financeiro de 2018.",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2020/5/35.atada35asessaoextraordinaria13_08_2020..pdf",
+      "ano": 2020,
+      "norma": 726
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/6/anexodec17265.doc da norma Decreto Executivo nº 17.265, de 01 de agosto de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2006/6/anexodec17265.doc",
+      "ano": 2006,
+      "norma": 2189
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/7/altera_ppa_-_anexos_lei_3.794.pdf da norma Lei Ordinária nº 3.794, de 23 de março de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2011/7/altera_ppa_-_anexos_lei_3.794.pdf",
+      "ano": 2011,
+      "norma": 3179
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/8/3941_loa_anexos_compressed.pdf da norma Lei Ordinária nº 3.941, de 22 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2011/8/3941_loa_anexos_compressed.pdf",
+      "ano": 2011,
+      "norma": 2584
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/9/3858_anexos.pdf da norma Lei Ordinária nº 3.858, de 29 de julho de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2011/9/3858_anexos.pdf",
+      "ano": 2011,
+      "norma": 3449
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/anexo-lei-ordinaria-5622-2025-foz-do-iguacu-pr-1-anexo.pdf da norma Lei Ordinária nº 5.622, de 11 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2025/10/anexo-lei-ordinaria-5622-2025-foz-do-iguacu-pr-1-anexo.pdf",
+      "ano": 2025,
+      "norma": 3512
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/11/198_-anexo_i.pdf da norma Lei Complementar nº 198, de 11 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2012/11/198_-anexo_i.pdf",
+      "ano": 2012,
+      "norma": 3687
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/adin_-_0079539_86_2026_8_16_0000.pdf da norma Lei Ordinária nº 5.660, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº. 0079539-86.2026.8.16.0000 ADI – ÓRGÃO ESPECIAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2026/12/adin_-_0079539_86_2026_8_16_0000.pdf",
+      "ano": 2026,
+      "norma": 3609
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/13/oficio_no_14297_-_adin_-_stf_-_da_lei_2666.pdf da norma Lei Ordinária nº 2.666, de 03 de outubro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Decisão: O Tribunal, por unanimidade, converteu o exame da medida cautelar em julgamento de mérito e julgou procedente o pedido, para declarar a inconstitucionalidade da Lei nº 2.666/2002, de Foz do Iguaçu",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2002/13/oficio_no_14297_-_adin_-_stf_-_da_lei_2666.pdf",
+      "ano": 2002,
+      "norma": 4078
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/14/ata_assinada.pdf da norma Decreto Legislativo nº 7, de 25 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Julgamento que aprova, com ressalvas, as Contas do Poder Executivo Municipal, relativas ao exercício financeiro de 2024.",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2026/14/ata_assinada.pdf",
+      "ano": 2026,
+      "norma": 4153
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/15/ata_da_57a_sessao_extraordinaria_-_14-10-2025.pdf da norma Decreto Legislativo nº 14, de 14 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Ata Eletrônica da 57ª Sessão Extraordinária da 1ª Sessão Legislativa da 19ª Legislatura",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2025/15/ata_da_57a_sessao_extraordinaria_-_14-10-2025.pdf",
+      "ano": 2025,
+      "norma": 3269
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/16/ata_da_16a_sessao_extraordinaria_-_14-04-2025.pdf da norma Decreto Legislativo nº 2, de 14 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Ata Eletrônica da 16ª Sessão Extraordinária da 1ª Sessão Legislativa da 19ª Legislatura",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2025/16/ata_da_16a_sessao_extraordinaria_-_14-04-2025.pdf",
+      "ano": 2025,
+      "norma": 2432
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/ata_da_88a_sessao_extraordinaria_-_16-09-2024_para_aprovacao.pdf da norma Decreto Legislativo nº 15, de 16 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Ata Eletrônica da 88ª Sessão Extraordinária da 4ª Sessão Legislativa da 18ª Legislatura",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2024/17/ata_da_88a_sessao_extraordinaria_-_16-09-2024_para_aprovacao.pdf",
+      "ano": 2024,
+      "norma": 1996
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/ata_da_81a_sessao_extraordinaria_-_27-11-2023_para_aprovacao.pdf da norma Decreto Legislativo nº 20, de 27 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Ata Eletrônica da 81ª Sessão Extraordinária da 3ª Sessão Legislativa da 18ª Legislatura",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2023/18/ata_da_81a_sessao_extraordinaria_-_27-11-2023_para_aprovacao.pdf",
+      "ano": 2023,
+      "norma": 1628
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/ata_da_69a_sessao_extraordinaria_-_11-10-2023_para_aprovacao.pdf da norma Decreto Legislativo nº 15, de 11 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Ata Eletrônica da 69ª Sessão Extraordinária da 3ª Sessão Legislativa da 18ª Legislatura",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2023/19/ata_da_69a_sessao_extraordinaria_-_11-10-2023_para_aprovacao.pdf",
+      "ano": 2023,
+      "norma": 1623
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/ata_da_59a_sessao_extraordinaria_-_15-09-2023_para_aprovacao.pdf da norma Decreto Legislativo nº 9, de 15 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Ata Eletrônica da 59ª Extraordinária da 3ª Sessão Legislativa da 18ª Legislatura",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2023/20/ata_da_59a_sessao_extraordinaria_-_15-09-2023_para_aprovacao.pdf",
+      "ano": 2023,
+      "norma": 1617
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/09.ata_da_9a_sessao_extraordinaria_21_03_19.pdf da norma Decreto Legislativo nº 3, de 21 de março de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Ata da 9ª Sessão Extraordinária da 3ª Sessão Legislativa da 17ª Legislatura",
+      "anexo_arquivo": "http://sapl.fozdoiguacu.pr.leg.br/media/sapl/public/anexonormajuridica/2019/21/09.ata_da_9a_sessao_extraordinaria_21_03_19.pdf",
+      "ano": 2019,
+      "norma": 106
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fozdoiguacu.pr.leg.br/e8ec564f62e45bf6723dc313041dc4daee1e09b7515224995a0c5147adf6997d.json",
+      "url": "https://sapl.fozdoiguacu.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.fozdoiguacu.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "95aea3336382be971cb62c95c9bc7cfec1bb1321bf828264a2c88b61d1b48cc9",
+      "bytes": 11187,
+      "capturado_em": "2026-10-28T11:16:05.164814-03:00"
+    }
+  ]
+}

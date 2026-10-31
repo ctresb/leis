@@ -1,0 +1,58 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 0407/2026"
+uf: "PA"
+municipio: "ITAITUBA"
+tipo: "Decreto"
+numero: "0407"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 29/06/2026"
+data_publicacao: 2026-06-29
+codigo_identificador: "BCA8D5B7"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117112_2026-06-26_e003d06fd7a071466ec89a05ddc62ef4.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 0407/2026
+
+DECRETO MUNICIPAL Nº 0407/2026
+
+www.diariomunicipal.com.br/famep
+
+56
+
+Pará , 29 de Junho de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 4035
+NICODEMOS ALVES DE AGUIAR, Prefeito Municipal de
+Itaituba, Estado do Pará, no uso de suas atribuições legais e
+Constitucionais, etc.,
+Considerando o que dispõe a Lei Municipal nº 2682/13, de 10 de
+outubro de 2013, e suas alterações, que dispõe sobre o Plano de
+Cargos, Carreira e Remuneração dos Servidores da Assistência
+Pública à Saúde do Município de Itaituba;
+
+Artigo 2º - Este Decreto entrará em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+Dê-se Ciência,
+Publique-se,
+Cumpra-se.
+GABINETE DO PREFEITO MUNICIPAL DE ITAITUBA,
+ESTADO DO PARÁ, em 22 de maio de 2026.
+
+D E C R E T A:
+Artigo 1º - NOMEAR, a partir de 03 de junho de 2026, em caráter
+efetivo, para exercer as funções do cargo de ENFERMEIRO DA
+FAMILIA - ZONA URBANA, Classe/Nível: A/VI, do V - Grupo
+Ocupacional Especialista da Saúde, do quadro permanente do Plano
+de Cargos, Carreira e Remuneração dos Servidores da Assistência
+Pública à Saúde do Município de Itaituba, com lotação na
+SECRETARIA MUNICIPAL DE SAÚDE, face a habilitação em
+Concurso Público Edital nº 001/2024.
+Classificados:
+
+NICODEMOS ALVES DE AGUIAR
+Prefeito Municipal
+DIEGO JOSÉ MOTA FREITAS
+Secretário Municipal de Administração
+Publicado por:
+Diego William Oliveira Nascimento

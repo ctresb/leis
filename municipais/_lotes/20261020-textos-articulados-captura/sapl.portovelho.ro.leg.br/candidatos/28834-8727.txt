@@ -1,0 +1,29 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+Considerando o Ofício n.° 51/2026/DCONT/DA/GAB/FUNCULTURAL, de 22 de janeiro de 2026, pelo qual a Fundação Cultural de Porto Velho - FUNCULTURAL solicita movimentação de recursos para cobertura de despesas com o Calendário Cultural de 2026 - Carnaval 2026,
+
+**DECRETA:**
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 480.000,00 (quatrocentos e oitenta mil reais).
+
+**Art. 2º** - Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei n.º 3.348, de 27 de novembro de 2025 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>02.00 - SECRETARIA GERAL DE GOVERNO - SGOV</strong></td></tr><tr><td colspan="7"><strong>02.01 - SECRETARIA GERAL DE GOVERNO - SGOV</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DA DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>REMANEJA R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td>02.01.04.122.007.2.001 </td><td>Administração da Unidade </td><td>FIS</td><td>3.3.90.33</td><td>1.500.0000.0000.0000</td><td>280.00,00</td><td>-</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>280.00,00</strong></td><td>-</td></tr><tr><td colspan="7"><strong>07.00 - SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - SEMAD</strong></td></tr><tr><td colspan="7"><strong>07.01 - SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - SEMAD</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DA DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>REMANEJA R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td>07.01.04.122.007.1.069  </td><td>Construção, Ampliação e Reforma de Bens Imóveis </td><td>FIS</td><td>4.4.90.51</td><td>1.500.0000.0000.0000</td><td>200.000,00</td><td>-</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>200.000,00</strong></td><td>-</td></tr><tr><td colspan="7"><strong>02.00 - SECRETARIA GERAL DE GOVERNO - SGG</strong></td></tr><tr><td colspan="7"><strong>02.21 - FUNDAÇÃO CULTURAL DE PORTO VELHO - FUNCULTURAL</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>  NATUREZA DA DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><strong>REMANEJA R$</strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td rowspan="2">02.21.13.392.047.2.923 </td><td rowspan="2">Promoção, produção de eventos artísticos culturais </td><td rowspan="2">FIS</td><td>3.3.90.36</td><td>1.500.0000.0000.0000</td><td>-</td><td>96.871,75</td></tr><tr><td>3.3.90.39</td><td>1.500.0000.0000.0000</td><td>-</td><td>383.128,25</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>-</strong></td><td><strong>480.000,00</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>480.000,00</strong></td><td><strong>480.000,00</strong></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+**LEONARDO BARRETO DE MORAES**  
+Prefeito do Município
+
+**WAGNER GARCIA DE FREITAS**  
+Secretário Municipal de Economia
+
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral do Município

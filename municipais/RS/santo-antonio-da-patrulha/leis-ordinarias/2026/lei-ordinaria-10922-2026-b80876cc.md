@@ -1,0 +1,83 @@
+---
+titulo: "LEI N° 10.922, DE 11 DE FEVEREIRO DE 2026"
+uf: "RS"
+municipio: "SANTO ANTÔNIO DA PATRULHA"
+tipo: "Lei Ordinária"
+numero: "10922"
+data: 2026-02-11
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/02/2026"
+data_publicacao: 2026-02-12
+codigo_identificador: "B80876CC"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_117779_2026-02-11_7c0001ae9e83e59195d7c64cf340edce.pdf"
+baixado_em: 2026-10-16
+---
+# LEI N° 10.922, DE 11 DE FEVEREIRO DE 2026
+
+LEI N° 10.922, DE 11 DE FEVEREIRO DE 2026
+
+O PREFEITO MUNICIPAL de Santo Antônio da Patrulha, no uso das
+atribuições que lhe confere o art. 53, inciso IV, da Lei Orgânica do
+Município,
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono e
+promulgo a seguinte Lei:
+Art. 1°Fica autorizada a abertura de Crédito Especial por Excesso de
+Arrecadação, no valor de R$ 1.595.027,95, conforme descrição:
+05 - SECRETARIA MUNICIPAL DA EDUCAÇÃO
+01 - DEPARTAMENTO PEDAGÓGICO
+12 - EDUCAÇÃO
+361 - ENSINO FUNDAMENTAL
+0010 - EducaSAP
+2065 - Atendimento em Tempo Integral
+3.1.90 - APLICAÇÕES DIRETAS - R$ 900.000,00
+05 - SECRETARIA MUNICIPAL DA EDUCAÇÃO
+01 - DEPARTAMENTO PEDAGÓGICO
+12 - EDUCAÇÃO
+365 - EDUCAÇÃO INFANTIL
+0015 - Qualifica E.I.
+2065 - Atendimento em Tempo Integral
+3.1.90 - APLICAÇÕES DIRETAS - R$ 695.027,95
+TOTAL R$ 1.595.027,95
+Art. 2.° Servirá de recurso para cobrir a abertura do Crédito Especial
+previsto no artigo anterior, o Excesso de Arrecadação da Receita
+1.7.5.1.50.0.1.03.00.00 -Transferências do FUNDEB - Impostos e
+Transferências -0540 (0031), no valor de R$ 1.595.027,95.
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+Santo Antônio da Patrulha, 11 de fevereiro de 2026.
+RODRIGO GOMES MASSULO
+Prefeito Municipal
+Registre-se e publique-se
+CLÉIA JUÇARA AIROLDI
+Secretária da Administração e Finanças
+
+Art. 2.° Servirá de recurso para cobrir a abertura do Crédito Especial
+previsto no artigo anterior, o Excesso de Arrecadação da Receita
+1.7.5.1.50.0.1.03.00.00 -Transferências do FUNDEB - Impostos e
+Transferências -0540 (0031), no valor de R$ 1.595.027,95.
+
+RODRIGO GOMES MASSULO
+Prefeito Municipal
+
+CLÉIA JUÇARA AIROLDI
+Secretária da Administração e Finanças
+
+Abre Crédito Especial por Excesso de Arrecadação,
+no Orçamento Municipal, altera as Leis Municipais nº
+10.622/2025, que dispõe sobre o Plano Plurianual do
+Município para 2026 a 2029, Lei Municipal nº
+10.737/2025 que dispõe sobre a Lei de Diretrizes
+Orçamentárias para o exercício de 2026 e Lei
+Municipal n° 10.811/2025 que dispõe sobre a Lei
+Orçamentária Anual e suas alterações
+
+Santo Antônio da Patrulha, 11 de fevereiro de 2026.
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+Santo Antônio da Patrulha, 11 de fevereiro de 2026.
+
+Registre-se e publique-se
+
+Publicado por:
+Ana Cristina Salazar

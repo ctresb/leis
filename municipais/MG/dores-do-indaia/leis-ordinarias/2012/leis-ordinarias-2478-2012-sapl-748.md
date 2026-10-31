@@ -1,0 +1,303 @@
+---
+titulo: "Lei Ordinária nº 2.478, de 20 de dezembro de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2478"
+data: "2012-12-20"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2013-08-21; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/748"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/561/text"
+sha256_fonte: "d41b8ebe8a3d3af58602ec609596e6388fd906bfd59252a9b979d99ea202fc86"
+sha256_texto: "7dec71f5cd3df3b59c00f06ca063c563394db434080261cc03dbf57b62571c86"
+capturado_em_fonte: "2026-10-28T10:18:20.731836-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.478, de 20 de dezembro de 2012
+
+**TEXTO ORIGINAL EM PDF**
+
+
+AUTORIZA CONCESSÃO DE SUBVENÇÕES SOCIAIS CONTRIBUIÇÕES E AUXIÍLIOS FINANCEIROS PARA O EXERCÍCIO DE 2013
+
+
+O Prefeito do Município:
+
+Faço saber que a Câmara Municipal de Dores do Indaiáaprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a conceder subvenções  
+sociais, contribuições e auxílios financeiros, às seguintes entidades:
+
+
+I –
+
+APAE, no valor de R$ 74.000,00;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.485, de 21 de maio de 2013.
+
+
+II –
+
+Dispensário-dos pobres de Dores do Indaiá, no valor de R$ 50.000,00;
+
+
+III –
+
+Liga Municipal de Desportos de Dores do Indaiá, no valor de  
+R$10.000,00;
+
+
+IV –
+
+Associação/Comissões dos Congadeiros de Dores do Indaiá, no  
+valor de até R$ 40.000,00
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.497, de 11 de julho de 2013.
+
+
+V –
+
+Sindicato Rural de Dores do Indaiá, no valor de até R$ 80.000, 00;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.490, de 10 de junho de 2013.
+
+
+VI –
+
+Circuito Turístico Caminhos do Indaiá, no valor de R$ 4.800,00;
+
+
+VII –
+
+Comunidade Terapêutica Francisco.de Assis, no valor de R$3.000,00;
+
+
+VIII –
+
+Associação de Proteção aos Animais Orcino Guimarães Esperança Animal, no valor de R$3.000,00;
+
+
+IX –
+
+Associação de Combate ao Câncer do Centro Oeste de Minas, no valor de R$ 18.000,00;
+
+
+X –
+
+Santa Casa de Misericórdia Dr. Zacarias, no valor de R$ 838.000,00;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.485, de 21 de maio de 2013.
+
+
+XI –
+
+Zacarias Futebol Clube, no valor R$6.000,00;
+
+
+XII –
+
+Dorense Futebol Clube, no valor de R$6.000,00;
+
+
+XIII –
+
+Paróquia Nossa Senhora das Dores, no valor de até R$ 10.000,00;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.505, de 21 de agosto de 2013.
+
+
+XIV –
+
+Vila Nova Futebol Clube, no valor de R$ 6.000,00
+
+
+XV –
+
+Associação dos Estudantes Universitários de Dores do Indaiá, no valor de R$ 36.000,00.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 2.485, de 21 de maio de 2013.
+
+
+Art. 2º.
+
+As subvenções sociais, contribuições e auxílios financeiros  
+autorizados no art. 1°, serão concedidos, exclusivamente, a entidades que  
+comprovem prestar serviços essenciais na área de saúde, educação, assistência  
+social, cultura, desporto amador, e que atendam às seguintes condições:
+
+
+I –
+
+não tenha fins lucrativos;
+
+
+II –
+
+atenda direto à população,de forma gratuita;
+
+
+III –
+
+comprove regular funcionamento;
+
+
+IV –
+
+comprove regularidade do mandatode sua diretoria;
+
+
+V –
+
+seja declarada de utilidade pública.
+
+
+Art. 3º.
+
+Os. repasses relativos às subvenções e auxílios financeiros  
+autorizados nesta lei, observarão:
+
+
+I –
+
+a existência de recursos orçamentários e financeiros;
+
+
+II –
+
+aprovação do plano de aplicação;
+
+
+III –
+
+celebração de Convênio
+
+
+Art. 4º.
+
+As transferências de recursos do Município, consignadas na lei  
+orçamentária anual, a título de cooperação, auxílio ou assistência financeira, a  
+União, Estado ou outro Município, fica condicionada a:
+
+
+I –
+
+existência de dotação específica;
+
+
+II –
+
+celebração de convênio.
+
+
+Art. 5º.
+
+Fica o Executivo Municipal autorizado a conceder auxílio financeiro  
+e benefícios eventuais a pessoas carentes para:
+
+
+I –
+
+Assistência médica e hospitalar: transporte para tratamento médico fora  
+do domicílio, medicamentos, óculos, serviços médicos e hospitalares, e afins;
+
+
+II –
+
+Assistência social: cestas básicas, auxílio-natalidade, auxílio-funeral,  
+outros benefícios eventuais, melhorias habitacionais, tais como: areia, tijolos e  
+outros materiais de construção.
+
+
+Parágrafo único
+
+Os auxílios financeiros e benefícios eventuais  
+autorizados no art. 5°, observarão:
+
+
+I –
+
+a existência de recursos orçamentários e financeiros;
+
+
+II –
+
+análise sócio-econômica da pessoa carente;
+
+
+III –
+
+cadastramento na Secretaria ou departamento competente.
+
+
+Art. 6º.
+
+A destinação de recursos direta ou indiretamente para pessoas  
+físicas deverá atender a pelo menos uma dascondiçôes abaixo:
+
+
+I –
+
+renda familiar ser definida em regulamentação específica;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 2.497, de 11 de julho de 2013.
+
+
+II –
+
+ser atleta amador representando o Município em competições oficiais  
+forado Município;
+
+
+III –
+
+ser artesão ou cidadão eleito como representante do Município em  
+Feiras, Congressos, Concursos ou similares;
+
+
+IV –
+
+grupos teatrais,folclóricos e músicos amadores e outras pessoas  
+físicas representando e divulgando. o município em Feiras, Congressos e  
+similares.
+
+
+Art. 7º.
+
+As entidades privadas beneficiadas com recursos públlcos.. na  
+forma desta Lei, submeter-se-ão à fiscalização do poder concedente, mediante  
+apresentação de prestação de contas ao órgão competente, no prazo estabelecido  
+no Convênio.
+
+
+Parágrafo único
+
+A prestação de contas deverá comprovar o cumprimento  
+das metas. e objetivos do plano de aplicação.
+
+
+Art. 8º.
+
+Como recursos às despesas autorizadas nesta Lei, utilizar-se-ão  
+dotações do orçamento, inclusive decorrentes de créditos adicionais.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor a partir de 1° de janeiro de 2013.
+
+
+Prefeitura Municipal de Dores do Indaiá, 20 de dezembro de 2012
+
+Joaquim Ferreira da Cruz
+
+Prefeito Municipal
+

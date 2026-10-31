@@ -1,0 +1,55 @@
+---
+titulo: "DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°"
+uf: "PA"
+municipio: "JACAREACANGA"
+tipo: "Decreto"
+numero: "006"
+data: 
+ano: "2024"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 03/09/2026"
+data_publicacao: 2026-09-03
+codigo_identificador: "6C4CBD7C"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117160_2026-09-02_5ec90805ea1cfdb4a4b51b9f2ee39380.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°
+
+DECRETO MUNICIPAL N° 006/2024, DECRETO MUNICIPAL N°
+007/2024 e DECRETO MUNICIPAL N° 009/2024
+Partes: SECRETÁRIA MUNICIPAL DE SAUDE DO
+MUNICIPIO DE JACAREACANGA/FMS inscrita no CNPJ/MF
+sob o nº 11.462.638/0001-60 E EMPRESA G T FERNANDES
+COMERCIO E SERVICOS LTDA inscrito(a) no CNPJ/MF sob o
+nº 35.990.980/0001-00
+Objeto: REGISTRO DE PREÇOS PARA FUTURA E
+EVENTUAL
+CONTRATAÇÃO
+DE
+EMPRESA
+ESPECIALIZADA NO FORNECIMENTO DE MATERIAIS E
+EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL – EPIs,
+DESTINADOS
+À
+PROTEÇÃO,
+SEGURANÇA,
+BIOSSEGURANÇA E PREVENÇÃO DE RISCOS NAS
+ATIVIDADES
+LABORAIS,
+OPERACIONAIS,
+ADMINISTRATIVAS, ASSISTENCIAIS, EDUCACIONAIS, DE
+MANUTENÇÃO, TRANSPORTE, SERVIÇOS GERAIS E
+DEMAIS FRENTES DE ATUAÇÃO DA PREFEITURA
+MUNICIPAL, SECRETARIAS E FUNDOS DO MUNICÍPIO DE
+JACAREACANGA-PA
+Valor do Contrato: R$30.107,70 (trinta mil cento e sete reais e
+setenta centavos).
+Vigência: 26/08/2026 a 31/12/2026.
+Data de Assinatura: 26 de Agosto de 2026.
+Ordenador Responsável: Ledioneta de Sousa Silva
+Endereço da contratada: Av. Brigadeiro Haroldo Coimbra Veloso,
+S/Nº Bairro Centro, CEP: 68.195-000, no município de
+Jacareacanga/PA
+Publicado por:
+Maria Elizete Campos do Nascimento

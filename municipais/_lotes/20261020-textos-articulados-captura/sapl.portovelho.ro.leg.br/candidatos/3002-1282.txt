@@ -1,0 +1,1062 @@
+“Dispõe sobre os procedimentos para a aprovação de projetos arquitetônicos e para a execução de obras e serviços necessários para a minimização de impacto no Sistema Viário decorrente da implantação ou reforma de edificações e da instalação de atividades – Polo Gerador de Tráfego, altera artigos da Lei Complementar n° 097 de 29 de dezembro de 1999 e dá outras providências.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Para fins de aplicação desta legislação, são adotadas as seguintes definições:
+
+
+I –
+
+Acesso: é toda a interligação para veículos ou pedestres entre:
+
+
+a)
+
+Logradouro público e propriedade privada
+
+
+b)
+
+Logradouro público e espaços de uso comum em condomínio
+
+
+II –
+
+Área de acúmulo de veículos: área livre reservada dentro do imóvel para acúmulo da entrada de veículos, com inclinação máxima de 5%, de forma a não intervir na via de acesso ao PGT, sendo aceita como área de acúmulo a rampa de acesso de veículos, quando o controle de acesso estiver em outro pavimento.
+
+
+III –
+
+Área crítica de influência do empreendimento: aquela em que se observa impacto sobre o sistema viário, de forma direta ou indireta.
+
+
+IV –
+
+Área de influência direta – AID: região geográfica delimitada pelo sistema viário influenciada diretamente pela implantação do PGT;
+
+
+V –
+
+Área de influência indireta – AII: região Geográfica delimitada pelo sistema viário influenciada indiretamente pela implantação do PGT;
+
+
+VI –
+
+Comunique-se: documento expedido pelo analista quando houver necessidade de obtenção de dados e informações adicionais, inerentes ao empreendimento, para o prosseguimento da análise do projeto do “Polo Gerador de Tráfego (PGT)” para notificar o empreendedor ou o seu preposto devidamente autorizado;
+
+
+VII –
+
+Distribuição Espacial: porcentagem de usuários oriundos de cada um dos principais acessos ao PGT, referente à distribuição do fluxo de usuários que utilizam as principais vias de acesso ao PGT, seja para chegada ou saída;
+
+
+VIII –
+
+Divisão Modal: modelo ou modo de transporte utilizado pelos usuários do PGT, incluindo pedestres, passageiros do transporte coletivo e passageiros do transporte individual;
+
+
+IX –
+
+Distribuição Temporal: curva de distribuição ao longo do dia para chegada e saída dos usuários do PGT;
+
+
+X –
+
+Espaço de manobra: área destinada à manobra de veículos para acesso às vagas, tanto de frente quanto de ré;
+
+
+XI –
+
+Faixa de Aceleração ou Desaceleração: área extra pavimentada, de largura constante ou variada, colocada paralelamente à via principal, em continuação a uma via de entrada para facilitar aos veículos a entrada para a via principal (aceleração) ou antes de uma via de saída para facilitar a saída dos veículos da via principal (desaceleração), a qual deve ser incorporada ao patrimônio por meio de doação.
+
+
+XII –
+
+Grau de Saturação – GS: fator entre o volume de veículos no horário de pico e os fluxos de saturação, cujo cálculo leva em conta o número de faixas de cada aproximação de uma interseção e o tempo efetivo de verde, sendo determinado em uma escala que varia entre 0 e 100%.
+
+
+XIII –
+
+Impactos no Trânsito: alteração significativa nas condições de circulação de pessoas e veículos no sistema viário das áreas adjacentes aos PGTs, bem como no padrão das viagens em sua região de influência, através da atração ou produção de grande número de viagens, em certos casos, prejudicando a acessibilidade de toda a região, além de agravar as condições de segurança de veículos e pedestres;
+
+
+XIV –
+
+Instrução Técnica: documento emitido pela Secretaria Municipal de Trânsito, Mobilidade e Transporte - SEMTRAN que estabelece os parâmetros a serem seguidos no projeto de edificação, instruindo na elaboração do Relatório de Impacto sobre o Tráfego - RIT
+
+
+XV –
+
+Macroacessibiidade: sistema viário do entorno para acesso ao PGT, tais como as vias expressas, arteriais, coletoras e locais que servem de acesso ao PGT, tanto de pedestres quanto de veículos;
+
+
+XVI –
+
+Microacessibilidade: dispositivos de acessos imediatos ao PGT, tais como acessos de pedestre, de veículos leves, de carga, às áreas de embarque e desembarque, de veículos de emergência, de serviço, etc;
+
+
+XVII –
+
+Nível de serviço: fator entre o volume de veículos no horário de pico e a capacidade dos trechos de vias ou aproximações de interseções, utilizando para avaliar as condições operacionais de tráfego;
+
+
+XVIII –
+
+Polos Geradores de Tráfego (PGT) – o empreendimento que, pela concentração da oferta de bens ou serviços, gere afluxo de população, com substancial interferência no tráfego do entorno, necessitando de grandes espaços para estacionamento, carga e descarga, ou movimentação de embarque e desembarque;
+
+
+XIX –
+
+População Fixa: usuários diários do PGT correspondentes aos funcionários do empreendimento e proprietários das unidades habitacionais, comerciais ou de serviços, com frequência de entrada e saída definida;
+
+
+XX –
+
+População Flutuante: usuários eventuais do PGT correspondentes aos clientes ou visitantes do empreendimento, cuja frequência varia no tempo;
+
+
+XXI –
+
+Rampa de veículos: é o plano inclinado, o declive ou aclive destinado a superar os desníveis dos pavimentos destinados às garagens;
+
+
+XXII –
+
+Relatório de Impacto sobre o Tráfego – RIT: estudo do impacto gerado pelo empreendimento no sistema viário do entorno;
+
+
+XXIII –
+
+Termo de Recebimento e Aceitação Parcial (TRAD) ou Termo de Recebimento e Aceitação Definitivo (TRAP): documentos emitidos pela Secretaria Municipal de Transportes e Trânsito –SEMTRAN, por meio da Divisão de Fiscalização de Obras e Polos Geradores de Tráfego - DPGT, que atesta o cumprimento integral das obras/serviços condicionados a uma das etapas da edificação ou para todo o empreendimento conforme especificado na pré análise e análise técnica no que se refere às medidas mitigadoras de impacto no tráfego.
+
+
+XXIV –
+
+Tráfego futuro: fluxos de tráfego atuais acrescidos com a taxa de crescimento do tráfego;
+
+
+XXV –
+
+Uso do Solo Lindeiro: zoneamento do entorno e atividades predominantes existentes e lindeiras ao PGT, tais como áreas institucionais, escolares, de serviços, comércio, saúde, etc;
+
+
+XXVI –
+
+Vaga de gaveta: vagas estabelecidas em fila, com um veículo estacionado atrás do outro.
+
+
+XXVII –
+
+Viagens de Automóvel no Horário de Pico – VAHP: estimativa do número de viagens de automóveis no horário de pico geradas pelo PGT, tais como chegada ou saída, nos períodos da manhã, tarde ou noite, incluindo população fixa e flutuante e aqueles que utilizarão o transporte privado;
+
+
+XXVIII –
+
+Viagens de Automóvel por Dia – VAD: estimativa do número de viagens de automóveis geradas por dia pelo PGT, incluindo a população fixa e flutuante e aqueles que utilizarão o transporte privado;
+
+
+XXIX –
+
+Viagens Diárias de Pessoas – VDP: estimativa do número de viagens de pessoas geradas por dia pelo PGT, incluindo a população fixa e flutuante e aqueles que utilizarão o transporte público ou privado, bem como os pedestres.
+
+
+Art. 2º.
+
+O procedimento para a aprovação de projetos arquitetônicos e para a execução de obras e serviços necessários para a minimização de impacto no trânsito decorrente da implantação, acréscimo ou reforma de edificações e da instalação de atividades no Município de Porto Velho seguirá o disposto nesta lei e na Lei de Uso e Ocupação do Solo.
+
+
+Art. 3º.
+
+Serão analisados na Secretaria Municipal de Regularização Fundiária, Habitação e Urbanismo – SEMUR os empreendimentos classificados como P1;
+
+
+Art. 4º.
+
+Serão analisados na Secretaria Municipal de Trânsito, Mobilidade e Transporte - SEMTRAN, para a emissão dos Documentos Técnicos, os projetos de Polos Geradores de Tráfego – classificados como P2 e P3 sob dois aspectos:
+
+
+I –
+
+Projeto arquitetônico da edificação, no que diz respeito às características geométricas e localização dos acessos, disposição e dimensionamento de vagas, vias internas de circulação, raios horizontais e declividades transversais em rampas e acessos, dimensionamento de pátios de carga e descarga etc;
+
+
+II –
+
+Sistema viário de acesso, em função do impacto sobre a circulação e segurança dos veículos e pedestres, padronização de calçadas, da possibilidade de ocorrência de congestionamento e acidentes nas vias de acesso e da oferta de vagas de estacionamento;
+
+
+III –
+
+A Instrução Técnica será emitida pela SEMTRAN para casos de P2 e P3, e poderá conter exigências quanto ao projeto arquitetônico propriamente dito e quanto a melhorias para compensação ou mitigação dos impactos gerados pelo empreendimento, a serem providenciadas e custeadas pelo empreendedor.
+
+
+Art. 5º.
+
+A Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN, na análise dos projetos de arquitetura apresentados, deverá indicar:
+
+
+I –
+
+as características e o dimensionamento dos dispositivos de acesso de veículos e pedestres, incluídas as respectivas áreas de acumulação e acomodação;
+
+
+II –
+
+as características e o dimensionamento das áreas de embarque e desembarque de passageiros, incluindo ônibus fretados, e de carga e descarga de mercadorias;
+
+
+III –
+
+as características do estacionamento, o dimensionamento, sinalização e a disposição das vagas de estacionamento internas à edificação, incluídos os espaços de circulação e manobra e o tipo de vaga, inclusive no que tange ao número mínimo de vagas reservadas a idosos e pessoas com deficiência física, nos termos da legislação aplicável;
+
+
+IV –
+
+se serão permitidas vagas de gaveta apenas a empreendimentos residenciais.
+
+
+V –
+
+a determinação e análise do impacto do Polo Gerador de Tráfego sobre a operação do Sistema Viário e de Transportes; e
+
+
+VI –
+
+a relação das medidas mitigadoras, conforme Anexo I desta Lei.
+
+
+Art. 6º.
+
+As atividades e os respectivos portes adotados para enquadramento como PGT estão estabelecidos na Tabela do Anexo II desta Lei, conforme disposto no art. 108, art. 111 e § 3º do art. 113 da Lei Complementar nº 97 de 29 de dezembro de 1999.
+
+
+§ 1º
+
+Além dos casos previstos no Anexo II desta Lei, serão classificados como P1 os empreendimentos comerciais com área total construída de até 750 m².
+
+
+§ 2º
+
+Serão considerados para o enquadramento e classificação de PGT as construções novas e as ampliações de construções já existentes, desde que a área construída seja compatível com o PGT.
+
+
+§ 3º
+
+Para os casos de ampliação DE EMPREENDIMENTOS REGULARIZADOS, as vagas serão computadas pelo total de área construída, exigido o acréscimo do número de vagas apenas para a diferença de antes e depois da ampliação.
+
+
+§ 4º
+
+Para casos de alteração de uso, será computado o número mínimo de vagas de acordo com a área total.
+
+
+Art. 7º.
+
+Os empreendimentos classificam-se em relação ao seu porte, atividade(s) que será(ão) desenvolvida(s) e à região em que está inserido. Ficam estabelecidas as seguintes definições para os polos geradores de tráfego:
+
+
+I –
+
+Polo de Baixa Geração de Impacto – P1: Empreendimentos ou estabelecimentos que se caracterizam por exercer atividades com influência local, devendo a sua inclusão como polo gerador minimizar a demanda de vagas na via pública, bem como as perturbações sobre o sistema causadas pelas operações de carga e descarga e/ou embarque e desembarque.
+
+
+II –
+
+Polo Gerador de Médio Impacto – P2: Empreendimentos ou estabelecimentos que se caracterizam por possuir uma capacidade de atrair viagens em uma área de maior abrangência, gerando sobrecarga no viário do entorno.
+
+
+III –
+
+Polo Gerador de Alto Impacto – P3: Empreendimentos ou estabelecimentos que se caracteriza pela capacidade de atrair viagens de todo o município, gerando sobrecarga no sistema de acesso e no sistema estrutural de trânsito e transporte.
+
+
+§ 1º
+
+Os polos geradores deverão atender às exigências estabelecidas no Anexo II desta Lei, para a categoria em que se enquadram, respectivamente, polo gerador de baixo, médio e alto impacto.
+
+
+§ 2º
+
+Serão consideradas como áreas não computáveis para o uso da tabela no Anexo II desta Lei:
+
+
+I –
+
+A superfície ocupada por escadas e circulação, em todos os pavimentos, e os demais compartimentos necessários ao atendimento dos dispositivos de segurança previstos nas normas técnicas brasileiras;
+
+
+II –
+
+Áreas edificadas destinadas ao gerenciamento de equipamentos técnicos, tais como: varanda técnica, poço de elevador, casa de máquinas, caixa d’água, casa de bombas, central de gás, central elétrica (de transformadores), pavimento técnico, depósito, copa, banheiro e vestiário.
+
+
+III –
+
+Áreas de estacionamentos com cobertura de veículos, motocicletas e bicicletas, bem como suas áreas para manobra;
+
+
+IV –
+
+Áreas edificadas que por suas características, sejam considerados não computáveis pela Lei de Parcelamento, Uso e Ocupação do Solo, leis complementares e decretos.
+
+
+§ 3º
+
+As exigências mínimas de vagas de estacionamento, para os estabelecimentos conforme uso e atividade, estão estabelecidas no Anexo III, que é parte integrante desta Lei.
+
+
+Art. 8º.
+
+Os empreendimentos de categoria Uso Especiais serão classificados como Polos Geradores de Alto Impacto.
+
+
+Art. 9º.
+
+Os empreendimentos classificados como Polo Gerador de Baixo Impacto não necessitam ser submetidos a análise de projeto e emissão do TRAD ou TRAP pela Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN.
+
+
+Art. 10.
+
+Os empreendimentos classificados como Polo Gerador de Tráfego de Alto Impacto - P3, nos termos do Art. 07º, inciso III desta Lei, deverá apresentar à Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN, Relatório de Impacto sobre o Tráfego Urbano - RIT para fins de análise antes da concessão dos alvarás de construção.
+
+
+§ 1º
+
+O RIT deverá identificar os impactos gerados pela implantação do empreendimento ao sistema viário do entorno, ficando sob responsabilidade da Secretaria de Trânsito, Mobilidade e Transportes – SEMTRAN a análise e definição das medidas mitigadoras a serem implantadas a fim minimizar tais impactos.
+
+
+§ 2º
+
+O Roteiro mínimo e os parâmetros para elaboração do RIT estão discriminados no Anexo IV desta Lei, que poderá ser atualizado periodicamente, pela Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN.
+
+
+§ 3º
+
+O conteúdo do RIT deverá observar o Manual de Procedimentos para o Tratamento de Polos Geradores de Tráfego do Departamento Nacional de Trânsito – DENATRAN, as Resoluções do Conselho Nacional de Trânsito – CONTRAN, as Resoluções do Conselho Nacional do Meio Ambiente – CONAMA, e Anexo IV desta Lei.
+
+
+§ 4º
+
+Caso o RIT apresentado seja julgado insuficiente pela SEMTRAN, o responsável técnico pelo empreendimento deverá reapresentá-lo no prazo máximo de 30 dias corridos, sob pena do indeferimento do pedido e arquivamento do processo.
+
+
+§ 5º
+
+Para casos omissos ou que não seja possível à associação por equivalência dos usos e parâmetros indicados, o empreendedor deverá apresentar justificativa técnica, devidamente fundamentada em parâmetros baseados em estudos específicos e referências bibliográficas decorrentes de estudos similares de outras municipalidades brasileiras, os quais serão analisados pela SEMTRAN.
+
+
+§ 6º
+
+Os empreendimentos classificados como P1 e P2 ficam dispensados da elaboração de Relatório de Impacto Sobre o Tráfego Urbano – RIT.
+
+
+Art. 11.
+
+Nos casos em que a análise do projeto apresentado indicar a necessidade de implantação de medidas mitigadoras no sistema viário, inseridas ou não dentro da propriedade do empreendimento, considerando inclusive as áreas objeto de doação, ficam a cargo do empreendedor os custos do projeto, da implantação e de execução das medidas necessárias à qualificação da estrutura urbana, que poderá envolver o trânsito, a mobilidade e o transporte, para instalação do uso requerido.
+
+
+§ 1º
+
+O custo das melhorias para qualificação da estrutura urbana a serem executadas pelo empreendedor representará 1% (um por cento) a 5% (cinco por cento) do custo total do empreendimento, de acordo com as medidas mitigadoras estabelecidas no Relatório de Impacto sobre o Tráfego urano (RIT).
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+§ 2º
+
+O custo das melhorias para qualificação urbana será estabelecido com base em orçamento detalhado, elaborado e apresentado pelo empreendedor, conforme as tabelas oficiais utilizadas pelo Município de Porto Velho, que deverá indicar:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+I –
+
+o custo total das melhorias para qualificação urbana viária, com a descrição detalhada dos preços de cada item;
+
+
+II –
+
+o custo total do empreendimento; e
+
+
+III –
+
+a equivalência entre o orçamento das melhorias viárias e o custo total do empreendimento.
+
+
+§ 3º
+
+Se o custo das melhorias para qualificação urbana ultrapassar o limite estabelecido neste artigo, a Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN, deverá eleger de forma expressa, dentre aquelas inicialmente previstas, as que deseja que devam ser executadas pelo empreendedor, que ficará desonerado em relação às demais obrigações que superem o limite mencionado no § 1º supra.
+
+
+§ 4º
+
+Para realização de projetos específicos para qualificação urbana viária, os empreendimentos classificados como Polos Geradores de Tráfego de alto impacto (P3) deverão recolher ao Fundo Municipal de Trânsito, nos seguintes casos:
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+I –
+
+quando não seja imediatamente necessária nenhuma obra viária ou serviço, o valor variável entre o mínimo de 1% (um por cento) e o máximo de 5% (cinco por cento) do custo total do empreendimento, conforme as medidas mitigadoras estabelecidas pelo Relatório de Impacto sobre o Tráfego urano (RIT);
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+II –
+
+quando o valor das obras e serviços realizados não atingir o valor correspondente a 1% (um por cento) do custo total do empreendimento, o valor remanescente deverá ser recolhido ao Fundo Municipal de Trânsito;
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+III –
+
+Os empreendimentos classificados como Polos Geradores de Tráfego de baixo impacto – P1 ficam isentos de pagamento ao Fundo Municipal de Trânsito.
+
+
+§ 5º
+
+O custo estimado do empreendimento é calculado com base na Tabela de Custo Unitário Básico de Rondônia – CUB/RO por metro quadrado, editada e divulgada nos termos do art. 54 da Lei federal nº 4.591, de 16 de dezembro de 1964, aplicado sobre a área total de construção a ser informada no projeto arquitetônico.
+
+
+§ 6º
+
+A obrigatoriedade da execução de obras e serviços relacionados à qualificação urbana viária e do recolhimento do valor referido no § 4º deste artigo independem de se tratar de empreendimento aprovado por meio de adesão a operação urbana e de ter havido o pagamento de outorga onerosa, vinculação de Certificados de Potencial Adicional de Construção para aprovação do projeto ou qualquer outra forma de contrapartida relacionada à utilização de regras urbanísticas diferenciadas.
+
+
+Art. 12.
+
+As medidas mitigadoras estabelecidas na aprovação do Relatório de Impacto sobre o Tráfego urbano – RIT deverão estar diretamente relacionadas com o Impacto gerado no Trânsito pelo empreendimento.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+§ 1º
+
+As medidas mitigadoras e os itens de projeto estão estabelecidos no Anexo I desta Lei, conforme tipo de impacto gerado por cada empreendimento caracterizado como PGT, podendo o Relatório de Impacto sobre o Tráfego Urbano apontar outras intervenções necessárias para mitigação e impacto do empreendimento.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+§ 2º
+
+A execução das medidas mitigadoras deverá estar vinculada ao cronograma de execução da edificação apresentado pelo empreendedor, devendo ser entregues até a conclusão da obra.
+
+Alteração feita pelo Art. 1º. - Lei Complementar nº 824, de 30 de setembro de 2020.
+
+
+§ 3º
+
+A obtenção da Carta de HABITE-SE ficará condicionada à conclusão da medida mitigadora, conforme a emissão do TRAD/TRAP.
+
+
+§ 4º
+
+Para os empreendimentos compostos por mais de uma edificação, a Análise Técnica poderá, a pedido do empreendedor, condicionar a cada uma destas edificações as medidas mitigadoras pertinentes, desde que tecnicamente possível.
+
+
+Art. 13.
+
+No caso de empreendimentos compostos por mais de uma edificação ou por uma única edificação com usos distintos e conclusão independente, a Análise Técnica poderá definir as medidas mitigadoras para cada uma destas etapas e a Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN poderá emitir um Termo de Recebimento e Aceitação Parcial – TRAP atestando o cumprimento parcial da Análise Técnica.
+
+
+Art. 14.
+
+No caso da impossibilidade do cumprimento das exigências estabelecidas na Análise Técnica por fatores alheios à sua atuação, o empreendedor poderá apresentar pedido autônomo à Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN, contendo os elementos justificativos de inviabilidade, a solicitação de novo prazo e a indicação de garantias de aporte financeiro para a execução das obras necessárias.
+
+
+§ 1º
+
+O pedido apresentado pelo empreendedor será analisado pela Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN, que poderá emitir o Termo de Recebimento e Aceitação Parcial – TRAP, oficiando à Secretaria Municipal de Fazenda – SEMFAZ para a adoção das providências necessárias.
+
+
+§ 2º
+
+As garantias mencionadas no "caput" deste artigo serão efetuadas através de caução em dinheiro ou fiança bancária, no dobro do valor da obra ou serviço a ser executado pelo interessado.
+
+
+§ 3º
+
+Sanados os motivos impeditivos da realização das medidas mitigadoras, a Secretaria Municipal de Trânsito, Mobilidade e Transporte - SEMTRAN deverá notificar o empreendedor para a realização imediata dos serviços, sob pena da revogação do Termo de Recebimento e Aceitação Parcial - TRAP e documentos subsequentes e da perda integral da garantia apresentada em favor do Fundo Municipal de Trânsito.
+
+
+§ 4º
+
+Quando a impossibilidade do cumprimento das exigências contidas na Análise Técnica perdurar por mais de 12 (doze) meses, a Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN deverá retificar a Análise Técnica, sem prejuízo da permanência da garantia oferecida.
+
+
+Art. 15.
+
+A expedição de Instrução de pré-análise Técnica para um determinado empreendimento é documento obrigatório para o empreendedor obter a emissão da licença de obras junto à SEMUR.
+
+
+Art. 16.
+
+Nos casos de regularização de obra existente não residenciais, poderão atender às exigências quanto à quantidade mínima de vagas, por meio de construção de estacionamento ou garagem em lotes distintos, localizados em uma distância de até 200 m (duzentos metros) considerando a rota do pedestre.
+
+
+§ 1º
+
+A distância a que se refere o caput, deverá ser calculado entre o limite do acesso da edificação e o limite do acesso ao lote onde se localiza o estacionamento ou garagem.
+
+
+§ 2º
+
+As vagas acessíveis deverão preferencialmente estar no lote principal do empreendimento ou obrigatoriamente a no máximo 50 m de distância, e corresponder à 5 % (cinco por cento) do total para idoso e 2 % (dois por cento) para PCD – Pessoa com Deficiência, arredondado para baixo, conforme Resoluções, Leis e Normas referentes à promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida, em especial a Lei 10.098, de 19 de dezembro de 2000, Decreto nº 5.296 de 2 de dezembro de 2004, Norma Brasileira de Referência (NBR) 9050 da ABNT, e respectivas alterações.
+
+
+§ 3º
+
+O projeto aprovado do estacionamento ou garagem, descrito pelo caput, deverá ser vinculado ao empreendimento relacionado e ao lote onde acede, por meio de escritura pública registrada em cartório de imóveis.
+
+
+§ 4º
+
+O lote a que se refere o caput deverá ser destinado exclusivamente a esta finalidade, sendo vedada nova construção de edificações e o exercício de novas atividades que impactem em redução do número de vagas.
+
+
+§ 5º
+
+Nos casos em que os imóveis pertencerem a proprietários distintos, deverá ser utilizado o instrumento do Direito de Superfície, nos termos do artigo 21 da Lei no 10.257, de 10 de julho de 2001, vinculado ao Habite-se e ao alvará de funcionamento.
+
+
+§ 6º
+
+Para fins de adequação ao regime urbanístico, os índices de cada lote serão calculados de forma individual e isolada.
+
+
+§ 7º
+
+Fica vedada a execução de acesso direto entre lotes não adjacentes destinado à edificação principal e o lote destinado ao estacionamento por meio de dispositivos de trânsito, passarelas, galerias e túneis, exceto quando a SEMTRAN julgue necessário, através da análise do RIT.
+
+
+Art. 17.
+
+O acesso aos polos geradores de tráfego deve atender, além das prescrições desta Lei, àquelas do Código de Obras e Edificações e Lei Parcelamento, Uso e Ocupação do Solo de Porto Velho e, ainda, às indicações de pré análise quanto às áreas de acumulação e às faixas de aceleração e desaceleração.
+
+
+Art. 18.
+
+O acesso de veículos aos imóveis, se Polos Geradores de Tráfego, deve ser independente do acesso para pedestres.
+
+
+Art. 19.
+
+Disposição Transitória – O artigo 114 da Lei Complementar nº 97 de 29 de dezembro de 1999, passa a vigorar com a seguinte redação:
+
+
+Art. 20.
+
+O artigo 108 da Lei Complementar nº 97 de 29 de dezembro de 1999, passa a vigorar com a seguinte redação:
+
+
+Art. 21.
+
+O espaço mínimo necessário para cada vaga de estacionamento destinado a automóveis e motocicletas, além da área de manobra exigida, serão executados de acordo com os critérios dos artigos 109 e 109-A da Lei Complementar 097/1999, alterados pela Lei Complementar Nº 622/2016.
+
+
+Art. 22.
+
+Os empreendimentos, quando necessário à sua operação a realização de cargas e descargas de materiais, insumos e mercadorias, terão áreas destinadas a carga e descarga dentro do imóvel de modo que nenhuma etapa da operação seja feita nem logradouro público.
+
+
+Art. 23.
+
+As Licenças de Obras e os HABITE-SE, para os quais a Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN tenha fixado diretrizes, conterão a exigência de cumprimento total ou parcial da execução dos serviços e obras necessários à adequação do Sistema Viário para o funcionamento do empreendimento.
+
+
+Art. 26.
+
+A regularização da edificação e/ou a obtenção do Certificado de Conclusão da Edificação – "HABITE-SE" estará condicionada à implantação integral das obras e serviços estabelecidos na Análise Técnica, atestados pela Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN, através do TRAD e/ou TRAP.
+
+
+§ 1º
+
+Caso o empreendedor não tenha iniciado ou concluído a implantação das obras e serviços estabelecidos na Análise Técnica por fatores alheios à sua atuação, a regularização da edificação e/ou a obtenção do Certificado de Conclusão da Edificação - "HABITE-SE" estará condicionada à prestação de garantias de aporte financeiro para a execução das obras ainda necessárias e desde que atendidas as demais exigências legais não relacionadas à minimização dos impactos causados de forma direta ao Sistema Viário tratada nesta Lei.
+
+
+§ 2º
+
+O pedido de prestação de garantias será apresentado à Secretaria Municipal de Trânsito, Mobilidade e Transportes - SEMTRAN e será deferido desde que sejam apresentados os elementos justificadores da inviabilidade e a indicação de garantias de aporte financeiro para a execução das obras necessárias.
+
+
+§ 3º
+
+As garantias mencionadas no § 1º deste artigo serão efetuadas através de caução em dinheiro ou fiança bancária, no dobro do valor da obra ou serviço a ser executado pelo interessado.
+
+
+§ 4º
+
+Sanados os motivos impeditivos da realização das medidas mitigadoras, a Secretaria Municipal de Trânsito, Mobilidade e Transportes - SEMTRAN deverá notificar o empreendedor para a realização imediata dos serviços, sob pena da perda imediata da garantia apresentada.
+
+
+Art. 27.
+
+Para as edificações ou atividades já implantadas, em que haja interesse do proprietário em promover qualquer alteração relacionada à operação do Sistema Viário, o pedido deverá ser formulado à Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN e, caso deferido, as despesas com a execução correrão por conta do interessado.
+
+
+Art. 28.
+
+Para eventos ou empreendimentos temporários de Impacto, cuja duração não ultrapasse 90 dias, as ações mitigadoras devem limitar-se a contrapartida financeira das despesas com a guarda e a sinalizações necessárias geradas pelo fluxo.
+
+
+§ 1º
+
+Os valores referentes aos custos operacionais e de sinalização deverão ser recolhidos aos cofres públicos do Fundo Municipal de Trânsito - FMT em rubrica específica com, no mínimo 5 (cinco) dias úteis anteriores a realização do evento, conforme portaria interna a ser expedida pela Secretaria Municipal de Trânsito, Mobilidade e Transportes - SEMTRAN.
+
+
+§ 2º
+
+Caso seja enquadrado na portaria mencionada no parágrafo anterior como sendo necessário, caberá ao organizador do evento difundir junto aos meios de comunicação, com quarenta e oito horas de antecedência, qualquer interdição de via ou alteração de trajeto, indicando caminhos alternativos a serem utilizados.
+
+
+Art. 29.
+
+Deverá ser apresentado, à época da aprovação do Projeto Arquitetônico o estudo preliminar de impacto de trânsito com a anuência da Secretaria Municipal de Trânsito, Mobilidade e Transporte - SEMTRAN, desde que sejam projetados para uma das atividades estabelecidas segundo esta lei.
+
+
+Art. 30.
+
+É indispensável para o fornecimento da licença de obras, no caso de Polos Geradores de Tráfego classificados como P3, que seja entregue o relatório de impactos de trânsito – RIT, com aprovação da Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN, e que sejam executadas e implantadas as medidas mitigadoras, observadas as etapas previstas no RIT e na análise técnica expedida pelo órgão.
+
+
+Art. 31.
+
+Serão destinados ao Fundo Municipal de Trânsito, incorporados ao Patrimônio Público e para emprego exclusivo ao Sistema de Trânsito previsto no EIT/RIT, os valores das contrapartidas, a implantação, execução e fornecimento de materiais e equipamentos necessários às obras previstas nas medidas mitigadoras.
+
+
+Art. 32.
+
+A elaboração do RIT para empreendimentos públicos e privados ficará a cargo do empreendedor, que disponibilizará equipe técnica multidisciplinar, sem subordinação administrativa aos promotores das mesmas ressalvadas as possibilidades de parcerias previstas na Lei Complementar 410 de 27 de dezembro de 2010.
+
+
+§ 1º
+
+Os custos de elaboração do RIT, da implantação e de execução das ações neles previstas serão às expensas do empreendedor, ressalvadas as possibilidades de parcerias público-privado, conforme previsto na Lei Complementar n.º 410 de 27 de dezembro de 2010.
+
+
+Art. 31.
+
+A elaboração do RIT não substituirá a elaboração e a necessária aprovação do Estudo de Impacto de Vizinhança e respectivo Relatório de Impacto de Vizinhança – EIV/RIV, Estudo de Impacto Ambiental e respectivo Relatório de Impacto Ambiental – EIA/RIMA, Plano de Gestão Ambiental – PGA e Plano de Controle Ambiental – PCA, dentre outros, exigidos nos termos da Legislação Ambiental Federal e Estadual e Lei Complementar n.º 171, que dispõe sobre o Plano Diretor de Porto Velho.
+
+
+Art. 32.
+
+Pelo descumprimento das disposições previstas nas Leis: Lei 9.503/1997, Lei Complementar nº 336/2009 e seus regulamentos e demais atos normativos complementares e sem prejuízo de outras estabelecidas em leis especiais, poderão ser aplicadas aos infratores as seguintes sanções pela SEMTRAN:
+
+
+I –
+
+advertência, com prazo de 30 (trinta) dias para a regularização da situação, nos casos de primeira infração, quando não haja motivo relevante que justifique a imediata aplicação da penalidade de multa, multa diária, interdição, embargo ou demolição;
+
+
+II –
+
+multa, pelo simples cometimento de infração, em função de sua natureza, observado o disposto no § 1° deste artigo;
+
+
+III –
+
+multa diária 12,2 e 18,2 do valor da UPF, por metro quadrado, em caso de não cumprimento da regularização, no prazo fixado pela Secretaria Municipal de Trânsito, Mobilidade e Transporte – SEMTRAN;
+
+
+IV –
+
+interdição de atividades, temporária ou definitiva, para os casos de infração continuada;
+
+
+V –
+
+embargo de obra ou edificação, total ou parcial, iniciada sem aprovação ou em desacordo com os projetos aprovados, respondendo o infrator pelos danos e despesas a que der causa, direta ou indireta;
+
+
+§ 1º
+
+A pena de multa simples consiste na aplicação de sanção em dinheiro a ser paga pelo infrator, no prazo que lhe for fixado, classificando-se da seguinte forma:
+
+
+I –
+
+Classe P1 – de 1,5997 a 31,9947 em UPF;
+
+
+II –
+
+Classe P2 – de 3,1995 a 799,8669 em UPF;
+
+
+III –
+
+Classe P3 – de 7,9987 a 1366,9465 em UPF;
+
+
+§ 2º
+
+A multa, simples ou diária, será imposta em função da natureza e amplitude da inflação, combinadas com a dimensão da área do imóvel onde tenha sido praticada, incluindo-se a área construída, quando for o caso.
+
+
+§ 3º
+
+A multa simples e a advertência poderão ser aplicadas simultaneamente.
+
+
+§ 4º
+
+A multa diária será devida por todo o período compreendido desde sua imposição até a correção da irregularidade, devidamente comprovada pela autoridade administrativa competente.
+
+
+Art. 33.
+
+O Poder Executivo deverá regulamentar a presente lei dentro do prazo de 60 (sessenta dias) contados da publicação desta Lei Complementar.
+
+
+Art. 34.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 35.
+
+Revogam-se as disposições em contrário, em especial a Lei Complementar nº 336, de 02 de janeiro de 2009, Lei Complementar n. 731/2018 e o Decreto n.12.324 de 23 de agosto de 2011.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+
+
+## Anexo I
+
+**Roteiro de verificação de itens de projeto e indicação inicial de medidas mitigadoras por tipo de PGT:**
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><p><strong>PGT</strong></p></td><td><p><strong>TIPO DE IMPACTO </strong></p></td><td><p><strong>ITENS DE PROJETO </strong></p></td><td><p><strong>MEDIDAS MITIGADORAS </strong></p></td></tr><tr><td><p>Instituições de ensino maternal,</p><p>fundamental, médio e profissionalizante</p></td><td><p>Conflito/congestionamentos na via de acesso nos horários de entrada/saída por disputa de espaço para</p><p>embarque/desembarque, insegurança para pedestres. </p></td><td><p>Pista interna de embarque/desembarque, acesso pedestre, pátio de estacionamento. </p></td><td><p>Projeto de segurança externo para pedestres. </p></td></tr><tr><td><p>Instituições de ensino superior, curso</p><p>preparatório e supletivo</p></td><td rowspan="4"><p>Conflito/congestionamentos nas vias de acesso nos horários de entrada/saída (ou pico da atividade) para</p><p>embarque/desembarque e estacionamento, ocupação do</p><p>meio-fio ao redor, estacionamento irregular, insegurança para pedestres, sobrecarga dos pontos de</p><p>embarque/desembarque de transporte coletivo, insegurança na circulação de veículos. </p></td><td><p>Pista interna embarque/desembarque, acesso pedestre, pátio de estacionamento. </p></td><td><p>Projeto externo segurança pedestres, verif. Pontos de parada e oferta de</p><p>transporte coletivo, soluções pontos críticos sistema viário. </p></td></tr><tr><td><p>Auditórios, teatro, cinema e igrejas</p></td><td><p>Pista interna embarque/desembarque, acesso pedestre, pátios de estacionamento. </p></td><td><p>Projeto externo de segurança de pedestres e soluções de pontos de conflito. </p></td></tr><tr><td><p>Restaurantes, bares, casas de música, boates e cantinas</p></td><td><p>Área para embarque/desembarque, carga/descarga e estacionamento. </p></td><td><p>Projeto de segurança externo para pedestres. </p></td></tr><tr><td><p>Casas de espetáculos, show e eventos,</p><p>pavilhão de feiras, museus e bibliotecas</p></td><td><p>Área de embarque/desembarque, acesso pedestres</p></td><td><p>Projeto de segurança para pedestres e pontos críticos sistema viário. </p></td></tr><tr><td><p>Instituições de saúde – postos, clínicas sem internação e</p><p>laboratórios de análise</p></td><td><p>Conflitos na via de acesso em qualquer horário para embarque/desembarque e estacionamento, ocupação do meio-fio ao redor, estacionamento irregular, carga/descarga irregular. </p></td><td><p>Área de embarque/desembarque, acesso pedestre, vaga veículo emergência</p></td><td><p>Projeto de segurança externo para pedestres. </p></td></tr><tr><td><p>Instituições de saúde – hospitais e maternidades</p></td><td><p>Conflito/congestionamento nas vias ao redor em qualquer horário para embarque/desembarque, estacionamento</p><p>irregular, ocupação de meio-fio ao redor, carga/descarga</p><p>irregular, insegurança de pedestres, sobrecarga de pontos de embarque/desembarque de transporte coletivo. </p></td><td><p>Área interna de embarque/desembarque, carga/descarga, veíc. Emergência, acesso pedestre, estacionamentos. </p></td><td><p>Projeto de segurança para pedestres, verificar pontos de ônibus, pontos críticos sistema viário. </p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><p><strong>PGT</strong></p></td><td><p><strong>TIPO</strong><strong>DE</strong><strong>IMPACTO</strong></p></td><td><p><strong>ITENS DE PROJETO </strong></p></td><td><p><strong>MEDIDAS</strong><strong>MITIGADORAS</strong></p></td></tr><tr><td><p>Comércio de materiais de construção e</p><p>equipamentos de grande porte /</p><p>Concessionária de veículos</p></td><td rowspan="2"><p>Conflito nas vias de acesso por circulação intensa de veículos de carga e de grande porte, carga/descarga</p><p>irregular, ocupação de passeios por veículos, insegurança de pedestres e do trânsito em geral. </p></td><td rowspan="2"><p>Pátios para mercadoria, área de carga/descarga, área de estacionamento, acesso pedestre. </p></td><td rowspan="2"><p>Interferências pedestres X caminhões, pontos de conflito no sistema viário. </p></td></tr><tr><td><p>Comércio atacadista</p></td></tr><tr><td><p>Oficinas</p></td><td><p>Conflitos na via de acesso por estacionamento irregular, ocupação dos passeios por veículos, carga/descarga irregular, insegurança para pedestres. </p></td><td><p>Área interna de recepção de veículos, área carga/descarga, verificação guia rebaixada</p></td><td><p>Preservar caminhamento do pedestre, preservar segurança da via.</p></td></tr><tr><td><p>Hotéis, apart. Hotéis e motéis</p></td><td><p>Conflito/congestionamento nas vias de acesso pela movimentação de embarque/desembarque, de táxi e ônibus fretados, ocupação de passeios por veículos, estacionamento irregular, insegurança para pedestres </p></td><td><p>Pista interna embarque/desembarque, vaga carga/descarga, baia ônibus, estacionamento, acesso pedestre. </p></td><td><p>Projeto de segurança para pedestre, soluções pra ponto crítico sistema viário. </p></td></tr><tr><td><p>Garagens e estacionamentos</p></td><td><p>Conflito na via de acesso por filas de veículos na entrada do empreendimento, ocupação do passeio por veículos, insegurança para pedestres. </p></td><td><p>Dimensionamento de área de acumulação, verificação de guia rebaixada, geometria de acessos.</p></td><td><p>Preservar caminhamento do pedestre, preservar segurança da via.</p></td></tr><tr><td><p>Comércio varejista e diversificado, shopping</p><p>center</p></td><td><p>Conflito/congestionamento nas vias de acesso pro movimento de entrada/saída de veículos principalmente</p><p>em finais de semana, estacionamento irregular, ocupação do meio-fio ao redor, insegurança para pedestres,</p><p>sobrecarga de pontos de embarque/desembarque de transporte coletivo, carga/descarga irregular.</p></td><td><p>Geometria dos acessos, áreas de acumulação, número e disposição de bagas de estacionamento, área de carga/descarga, acesso de pedestres. </p></td><td><p>Projeto de circulação e segurança de pedestres, verificação de pontos de</p><p>parada e oferta de ônibus, solução para pontos críticos no sistema viário. </p></td></tr><tr><td><p>Academia de ginástica, escola de esportes, dança, música e arte</p></td><td><p>Conflito/congestionamento na via de acesso por movimentação de embarque/desembarque e entrada/saída de estacionamentos, ocupação do passeio por veículos, estacionamento irregular, insegurança para pedestres. </p></td><td><p>Área de embarque/desembarque, estacionamento, circulação e acesso de pedestres. </p></td><td><p>Projeto para circulação e segurança de pedestres, verificação de pontos críticos no sistema viário. </p></td></tr><tr><td><p>Escritórios, consultórios, ateliês e</p><p>prestação de serviços diversificados</p></td><td><p>Conflito nas vias de acesso por movimentação de entrada/saída de veículos, principalmente nos horários de pico (manhã/tarde), carga/descarga irregular, intensa movimentação de pedestres nos horários de pico, insegurança para pedestres. </p></td><td><p>Áreas de acumulação, de vagas de estacionamento, área de carga/descarga, acesso de pedestres. </p></td><td><p>Verificação de segurança de pedestres e solução para pontos críticos no sistema viário. </p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col></colgroup><tbody><tr><td><p><strong>PGT</strong></p></td><td><p><strong>TIPO</strong><strong>DE</strong><strong>IMPACTO</strong></p></td><td><p><strong>ITENS DE PROJETO </strong></p></td><td><p><strong>MEDIDAS</strong><strong>MITIGADORAS</strong></p></td></tr><tr><td><p>Indústria</p></td><td><p>Conflito nas vias de acesso por movimentação de entrada/saída de veículos leves, de carga e ônibus fretados,</p><p>carga/descarga irregular, insegurança para pedestres e para o trânsito pela movimentação nos horários de entrada/saída de turnos. </p></td><td><p>Geometria dos acessos, áreas de acumulação/espera, circulação interna veículos de carga/veículos leves, área ônibus fretados, acesso pedestres. </p></td><td><p>Projeto para circulação e segurança pedestres, verificar oferta de</p><p>transporte coletivo, solucionar pontos críticos no sistema viário. </p></td></tr><tr><td><p>Galpões de armazenagem /</p><p>distribuição</p></td><td><p>Conflito nas vias de acesso pela movimentação intensa de veículos de cargas e filas de veículos para entrar, insegurança para pedestres e trânsito em geral, estacionamento irregular de veículos de carga. </p></td><td><p>Geometria dos acessos, pontos de controle, estacionamento, áreas de espera. </p></td><td><p>Projeto para circulação/segurança de pedestres, solução de pontos críticos sistema viário. </p></td></tr><tr><td><p>Conjuntos residenciais</p></td><td><p>Conflito nas vias de acesso pela movimentação de entrada/saída e veículos, carga/descarga no meio-fio e irregular, ocupação do meio-fio ao redor. </p></td><td><p>Geometria dos acessos, acesso pedestres, área carga/descarga, vagas visitantes. </p></td><td><p>Projeto para circulação/segurança de pedestre, solução de pontos críticos sistema viário. </p></td></tr><tr><td><p>Residência Multifamiliar </p></td><td><p>Conflito nas vias de acesso pela movimentação de embarque/desembarque, carga/descarga no meio-fio e irregular. </p></td><td><p>Área para carga/descarga, circulação pedestres X acesso veículos. </p></td><td><p>Verificação/solução de pontos de conflito na via de acesso. </p></td></tr></tbody></table>
+
+
+## Anexo II
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td colspan="5"><p>ANEXO II – CLASSIFICAÇÃO DOS EMPREENDIMENTOS</p></td></tr><tr><td><p>USO</p></td><td><p>ATIVIDADES </p></td><td><p>P1</p></td><td><p>P2</p></td><td><p>P3</p></td></tr><tr><td rowspan="3"><p>RESIDENCIAL</p></td><td><p>HABITAÇÃO UNIFAMILIAR </p></td><td><p> </p></td><td><p>- </p></td><td><p>- </p></td></tr><tr><td><p>HABITAÇÃO GEMINADA E KITNET</p></td><td><p> </p></td><td><p>- </p></td><td><p>- </p></td></tr><tr><td><p>HABITAÇÕES COLETIVAS</p></td><td><p>ATÉ 50 UNIDADES</p></td><td><p>DE 50 A 100 UNIDADES</p></td><td><p>ACIMAS DE 100 UNIDADES</p></td></tr><tr><td rowspan="6"><p>COMERCIAL</p></td><td><p>COMÉRCIO VAREJISTA E DIVERSIFICADO </p></td><td><p>ATÉ 300 M²</p></td><td><p>DE 301 A 1.000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>COMÉRCIO ATACADISTA</p></td><td><p> </p></td><td><p> </p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>SHOPPING CENTER</p></td><td><p> </p></td><td><p> </p></td><td><p>ACIMA DE 2.500 M²</p></td></tr><tr><td><p>COMÉRCIO DE MATERIAIS DE </p><p>CONSTRUÇÃO E EQUIPAMENTOS DE GRANDE PORTE </p></td><td><p>ATÉ 300 M²</p></td><td><p>DE 301 A 1.000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>CONCESSIONÁRIAS DE VEÍCULOS</p></td><td><p>ATÉ 300 M²</p></td><td><p>ACIMA DE 300 M²</p></td><td><p>- </p></td></tr><tr><td><p>RESTAURANTES, BARES, CASAS DE MÚSICA, BOATES E CANTINAS</p></td><td><p>ATÉ 300 M²</p></td><td><p>DE 301 A 500 M²</p></td><td><p>ACIMA DE 500 M²</p></td></tr><tr><td rowspan="8"><p>SERVIÇO</p></td><td><p>ACADEMIA DE GINÁSTICA, ESCOLA </p><p>DE ESPORTES, DANÇA, MÚSICA E ARTE</p></td><td><p>- </p></td><td><p>- </p></td><td><p>ACIMA DE 500 M²</p></td></tr><tr><td><p>BANCOS</p></td><td><p>ATÉ 500 M²</p></td><td><p>DE 501 A 1.000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>ESCRITÓRIOS, CONSULTÓRIOS E ATELIERS</p></td><td><p>ATÉ 250 M²</p></td><td><p>DE 251 A 1.000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>FARMÁCIAS E DROGARIAS</p></td><td><p>ATÉ 300 M²</p></td><td><p>ACIMA DE 300 M²</p></td><td><p>- </p></td></tr><tr><td><p>HOTÉIS, APARTAMENTOS, HOTÉIS</p></td><td><p>- </p></td><td><p>ATÉ 2.000 M²</p></td><td><p>ACIMA 2.000 M²</p></td></tr><tr><td><p>MOTÉIS</p></td><td><p>- </p></td><td><p>ATÉ 5.000 M²</p></td><td><p>ACIMA DE 5.000 M²</p></td></tr><tr><td><p>OFICINAS</p></td><td><p>ATÉ 500 M²</p></td><td><p>ACIMA DE 501 M²</p></td><td><p>- </p></td></tr><tr><td><p>PRESTAÇÃO DE SERVIÇOS DIVERSIFICADOS</p></td><td><p>ATÉ 500 M²</p></td><td><p>DE 501 A 1.000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td rowspan="9"><p>INSTITUCIONAL</p></td><td><p>INSTITUIÇÕES DE ENSINO MATERNAL</p></td><td><p>ATÉ 250 M²</p></td><td><p>DE 251 A 1000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>INSTITUIÇÕES DE ENSINO </p><p>FUNDAMENTAL, MÉDIO E </p><p>PROFISSIONALIZANTE</p></td><td><p>ATÉ 500 M²</p></td><td><p>DE 501 A 2.000 M²</p></td><td><p>ACIMA DE 2.000 M²</p></td></tr><tr><td><p>INSTITUIÇÕES DE ENSINO </p><p>SUPERIOR, CURSO </p><p>PREPARATÓRIO E SUPLETIVO</p></td><td><p>- </p></td><td><p>ATÉ 2.500 M²</p></td><td><p>ACIMA DE 2.500 M²</p></td></tr><tr><td><p>INSTITUIÇÕES DE SAÚDE – </p><p>POSTOS, CLÍNICA SEM </p><p>INTERNAÇÃO E LABORATÓRIOS DE </p><p>ANÁLISE</p></td><td><p>ATÉ 250 M²</p></td><td><p>DE 250 A 1000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>INSTITUIÇÕES DE SAÚDE – </p><p>HOSPITAIS E MATERNIDADES</p></td><td><p>- </p></td><td><p>ATÉ 2.000 M²</p></td><td><p>ACIMA 2.000 M²</p></td></tr><tr><td><p>AUDITÓRIOS, TEATRO E CINEMA.</p></td><td><p>ATÉ 100 LUGARES</p></td><td><p>DE 101 A 300 </p><p>LUGARES</p></td><td><p>ACIMA DE 300 LUGARES</p></td></tr><tr><td><p>GINÁSIO DE ESPORTES</p></td><td><p>- </p></td><td><p>ATÉ 2.000 M²</p></td><td><p>ACIMA DE 2.000 M²</p></td></tr><tr><td><p>CASA DE ESPETÁCULOS, SHOW E EVENTOS, PAVILHÃO DE FEIRAS, MUSEUS E BIBLIOTECAS.</p></td><td><p>- </p></td><td><p>ATÉ 2.000 M²</p></td><td><p>ACIMA DE 2.000 M²</p></td></tr><tr><td><p>TEMPLOS E IGREJAS</p></td><td><p>- </p></td><td><p>ATÉ 1.000 M²</p></td><td><p>ACIMA DE 1.000 M²</p></td></tr><tr><td><p>USO ESPECIAL</p></td><td><p>DRIVE-IN, CEMITÉRIO, </p><p>CREMATÓRIO, PARQUE DE </p><p>EXPOSIÇÕES, CIRCO, PARQUE DE </p><p>DIVERSÕES, QUARTEL, CORPO DE </p><p>BOMBEIROS, PENITENCIÁRIA, </p><p>CENTRAL DE ABASTECIMENTO, </p><p>CENTRO DE CONVENÇÕES, </p><p>TERMINAL DE TRANSPORTE </p><p>AEROVIÁRIO, FERROVIÁRIO E </p><p>RODOVIÁRIO, DENTRE OUTROS </p><p>CONSIDERADOS ATIVIDADES </p><p>MODIFICADORAS DO MEIO </p><p>AMBIENTE E/OU VINCULADOS A ESTUDOS ESPECÍFICOS DE LOCALIZAÇÃO.</p></td><td><p>X</p></td><td><p>X</p></td><td><p>QUALQUER ÁREA CONSTRUÍDA</p></td></tr></tbody></table>
+
+1 Por habitação kitnet entende-se apartamentos de até 45m²
+
+
+## Anexo III
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="15"><p><strong>ANEXO III – VAGAS PARA ESTACIONAMENTO</strong></p></td></tr><tr><td rowspan="2"><p><strong>USO</strong></p></td><td rowspan="2"><p><strong>ATIVIDADES </strong></p></td><td colspan="3"><p><strong>P1</strong></p></td><td colspan="3"><p><strong>P2</strong></p></td><td colspan="5"><p><strong>P3</strong></p></td><td colspan="2"><p><strong>OBSERVAÇÕES</strong></p></td></tr><tr><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBAR-</strong></p><p><strong>QUE E DESEMBARQUE</strong></p></td><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="2"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="3"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td><p> </p></td></tr><tr><td rowspan="3"><p>RESIDENCIAL</p></td><td><p>HABITAÇÃO UNIFAMILIAR</p></td><td><p>1 VAGA / UNIDADE. </p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>HABITAÇÃO GEMINADA E KITNET</p></td><td><p>1 VAGA / 3 </p><p>UNIDADES</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 2 </p><p>UNIDADES</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>HABITAÇÕES COLETIVAS</p></td><td><p>1 VAGA / UNIDADE</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / UNIDADE</p></td><td><p>1</p></td><td><p> </p></td><td><p>1 VAGA / UNIDADE</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>2</p></td><td><p>SALVO CONJUNTO </p><p>HABITACIONAL DE </p><p>INTERESSE SOCIAL</p></td></tr><tr><td rowspan="6"><p>COMERCIAL</p></td><td><p>COMÉRCIO VAREJISTA E DIVERSIFICADO </p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 90 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>3</p></td><td colspan="3"><p>-</p></td><td><p>* QUANDO CARGA E DESCARGA EM VIA </p><p>PÚBLICA, OCORRER </p><p>COM HORÁRIO PRÉESTABELECIDO </p><p>NOTURNO FORA DO </p><p>HORÁRIO DE PICO</p></td></tr><tr><td><p>COMÉRCIO ATACADISTA</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>3</p></td><td colspan="3"><p>-</p></td><td><p>QUANDO P3 MAIOR </p><p>QUE 7.000 M² – 5 </p><p>VAGAS TÁXI E 1 </p><p>BERÇO DE ÔNIBUS</p></td></tr><tr><td><p>SHOPPING CENTER</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>3</p></td><td colspan="3"><p>2</p></td><td><p>Obrigatório P3 – 5 </p><p>VAGAS TÁXI E 2 </p><p>BERÇOS DE ÔNIBUS</p></td></tr><tr><td><p>COMÉRCIO DE MATERIAIS DE </p><p>CONSTRUÇÃO E EQUIPAMENTOS DE GRANDE PORTE</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 90 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>3</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>CONCESSIONÁRIAS DE VEÍCULOS</p></td><td><p>1 VAGA / 35 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>-</p></td><td><p>1 VAGA / 35 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>RESTAURANTES, BARES, CASAS DE MÚSICA, BOATES E CANTINAS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45</p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>-</p></td><td><p>1 VAGA / 45</p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>1</p></td><td><p> </p></td></tr><tr><td rowspan="2"><p><strong>USO</strong></p></td><td rowspan="2"><p><strong>ATIVIDADES </strong></p></td><td colspan="3"><p><strong>P1</strong></p></td><td colspan="3"><p><strong>P2</strong></p></td><td colspan="5"><p><strong>P3</strong></p></td><td colspan="2"><p><strong>OBSERVAÇÕES</strong></p></td></tr><tr><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBAR-</strong></p><p><strong>QUE E DESEMBARQUE</strong></p></td><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="2"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="3"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td><p> </p></td></tr><tr><td rowspan="8"><p>SERVIÇO</p></td><td><p>ACADEMIA DE GINÁSTICA, ESCOLA </p><p>DE ESPORTES, DANÇA, MÚSICA E </p><p>ARTE</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 50 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>3</p></td><td><p> </p></td></tr><tr><td><p>BANCOS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 M²</p></td><td><p>1</p></td><td><p> </p></td><td><p>1 VAGA / 35 M²</p></td><td colspan="2"><p>2</p></td><td colspan="3"><p> </p></td><td><p> </p></td></tr><tr><td><p>ESCRITÓRIOS E ATELIERS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 35 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>FARMÁCIAS E DROGARIAS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 40 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td><p>1</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>HOTÉIS, APART. HOTÉIS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 3 </p><p>QUARTOS </p><p>OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>1</p></td><td><p>1 VAGA / 3 </p><p>QUARTOS </p><p>OU FRAÇÃO</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>1</p></td><td><p>Obrigatório P3 – 3 </p><p>VAGAS TÁXI E 1 </p><p>BERÇO DE ÔNIBUS</p></td></tr><tr><td><p>MOTÉIS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / UNIDADE</p></td><td><p>1</p></td><td><p>-</p></td><td><p>1 VAGA / UNIDADE</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>OFICINAS</p></td><td><p>1 VAGA / 45 M²</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>PRESTAÇÃO DE SERVIÇOS DIVERSIFICADOS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 35 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td rowspan="4"><p>INSTITUCIONAL</p></td><td><p>INSTITUIÇÕES DE ENSINO MATERNAL</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td><td><p>1 VAGA / 60 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>3</p></td><td><p> </p></td></tr><tr><td><p>INSTITUIÇÕES DE ENSINO </p><p>FUNDAMENTAL, MÉDIO E </p><p>PROFISSIONALIZANTE</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1</p></td><td><p>-</p></td><td><p>-</p></td><td><p>2</p></td><td><p>1 VAGA / 60 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>3</p></td><td><p>ACIMA DE 5.000 M² – </p><p>5 VAGAS DE </p><p>EMBARQUE E </p><p>DESEMBARQUE</p></td></tr><tr><td><p>INSTITUIÇÕES DE ENSINO </p><p>SUPERIOR, CURSO PREPARATÓRIO </p><p>E SUPLETIVO</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 90 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>1</p></td><td><p>1 VAGA / 50 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>2</p></td><td><p>ACIMA DE 5.000 M² – </p><p>5 VAGAS DE </p><p>EMBARQUE E </p><p>DESEMBARQUE</p></td></tr><tr><td><p>INSTITUIÇÕES DE SAÚDE – POSTOS, </p><p>CLÍNICA SEM INTERNAÇÃO E </p><p>LABORATÓRIOS DE ANÁLISE</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 50 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td rowspan="2"><p><strong>USO</strong></p></td><td rowspan="2"><p><strong>ATIVIDADES </strong></p></td><td><p> </p></td><td><p><strong>P1</strong></p></td><td><p> </p></td><td colspan="3"><p><strong>P2</strong></p></td><td colspan="3"><p><strong>P3</strong></p></td><td colspan="3"><p> </p></td><td><p><strong>OBSERVAÇÕES</strong></p></td></tr><tr><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBAR-</strong></p><p><strong>QUE E DESEMBARQUE</strong></p></td><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="2"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="3"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td><p> </p></td></tr><tr><td rowspan="5"><p>INSTITUCIONAL</p></td><td><p>INSTITUIÇÕES DE SAÚDE – </p><p>HOSPITAIS E MATERNIDADES</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 50 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td><p>1</p></td><td><p>1 VAGA / 100 LEITOS</p></td><td colspan="2"><p>2</p></td><td colspan="3"><p>2</p></td><td><p>ATÉ 50 LEITOS - 1 </p><p>VAGA / 1 LEITO. DE </p><p>51 A 200 LEITOS – 1 </p><p>VAGA / 1,5 LEITO </p><p>ACIMA DE 200 – 1 </p><p>VAGA / 2 LEITOS</p></td></tr><tr><td><p>AUDITÓRIOS, TEATRO E CINEMA</p></td><td><p>1 VAGA / 40 M²</p></td><td><p>-</p></td><td><p>1</p></td><td><p>1 VAGA / 40 M²</p></td><td><p>-</p></td><td><p>2</p></td><td><p>1 VAGA / 40 M²</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>3</p></td><td><p>ACIMA DE 1.000 M² – </p><p>5 VAGAS DE </p><p>EMBARQUE E </p><p>DESEMBARQUE</p></td></tr><tr><td><p>GINÁSIO DE ESPORTES</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 40 M²</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>5</p></td><td><p>Obrigatório P3 – 5 </p><p>VAGAS TÁXI, 5 </p><p>BERÇO DE ÔNIBUS E </p><p>2 BERÇOS DE FRETADOS</p></td></tr><tr><td><p>CASA DE ESPETÁCULOS, SHOW E EVENTOS, PAVILHÃO DE FEIRAS, MUSEUS E BIBLIOTECAS.</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 60 M²</p></td><td><p>-</p></td><td><p>5</p></td><td><p>1 VAGA / 60 M²</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>5</p></td><td><p>Obrigatório P3 – 5 </p><p>VAGAS TÁXI E 2 </p><p>BERÇO DE ÔNIBUS</p></td></tr><tr><td><p>TEMPLOS RELIGIOSOS</p></td><td><p>-</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 45 M²</p></td><td><p>-</p></td><td><p>-</p></td><td><p>1 VAGA / 35 M²</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td><p> </p></td></tr><tr><td><p>ESPECIAL USO</p></td><td><p>DRIVE-IN, CEMITÉRIO, CREMATÓRIO, </p><p>PARQUE DE EXPOSIÇÕES, CIRCO, </p><p>PARQUE DE DIVERSÕES, QUARTEL, </p><p>CORPO DE BOMBEIROS, </p><p>PENITENCIÁRIA, CENTRAL DE </p><p>ABASTECIMENTO, CENTRO DE </p><p>CONVENÇÕES, TERMINAL DE </p><p>TRANSPORTE AEROVIÁRIO, </p><p>FERROVIÁRIO E RODOVIÁRIO, </p><p>DENTRE OUTROS CONSIDERADOS </p><p>ATIVIDADES MODIFICADORAS DO </p><p>MEIO AMBIENTE E/OU VINCULADOS A ESTUDOS ESPECÍFICOS DE LOCALIZAÇÃO.</p></td><td><p> </p></td><td><p> </p></td><td colspan="6"><p>CONFORME RELATÓRIO DE IMPACTO NO TRÂNSITO – RIT</p></td><td colspan="2"><p> </p></td><td colspan="3"><p> </p></td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col><col></colgroup><colgroup><col><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><tbody><tr><td colspan="4"><p> </p></td><td colspan="11"><p><strong>ANEXO 03 – VAGAS PARA ESTACIONAMENTO</strong></p></td><td colspan="3"><p> </p></td><td colspan="4"><p> </p></td></tr><tr><td rowspan="2"><p><strong>USO</strong></p></td><td rowspan="2"><p><strong>ATIVIDADES </strong></p></td><td><p> </p></td><td colspan="3"><p><strong>P1</strong></p></td><td colspan="4"><p><strong>P2</strong></p></td><td colspan="3"><p> </p></td><td colspan="3"><p><strong>P3</strong></p></td><td colspan="3"><p> </p></td><td colspan="3"><p><strong>OBSERVAÇÕES</strong></p></td></tr><tr><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="2"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="2"><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="2"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="3"><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="3"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="3"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="2"><p> </p></td></tr><tr><td rowspan="3"><p>RESIDENCIAL</p></td><td><p>HABITAÇÃO UNIFAMILIAR</p></td><td><p>1 VAGA / UNIDADE. </p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>HABITAÇÃO GEMINADA E KITNET</p></td><td><p>1 VAGA / 3 </p><p>UNIDADES</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 2 </p><p>UNIDADES</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>HABITAÇÕES COLETIVAS</p></td><td><p>1 VAGA / UNIDADE</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / UNIDADE</p></td><td><p>1</p></td><td colspan="2"><p> </p></td><td colspan="3"><p>1 VAGA / UNIDADE</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>2</p></td><td colspan="2"><p>SALVO CONJUNTO </p><p>HABITACIONAL DE </p><p>INTERESSE SOCIAL</p></td></tr><tr><td rowspan="3"><p>COMERCIAL</p></td><td><p>COMÉRCIO VAREJISTA E DIVERSIFICADO </p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 90 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>45 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>3</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p>* QUANDO CARGA E DESCARGA EM VIA </p><p>PÚBLICA, OCORRER </p><p>COM HORÁRIO PRÉESTABELECIDO </p><p>NOTURNO FORA DO </p><p>HORÁRIO DE PICO</p></td></tr><tr><td><p>COMÉRCIO ATACADISTA</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>45 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>3</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p>QUANDO P3 MAIOR </p><p>QUE 7.000 M² – 5 </p><p>VAGAS TÁXI E 1 </p><p>BERÇO DE ÔNIBUS</p></td></tr><tr><td><p>SHOPPING CENTER</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>45 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>3</p></td><td colspan="3"><p>2</p></td><td colspan="2"><p>Obrigatório P3 – 5 </p><p>VAGAS TÁXI E 2 </p><p>BERÇOS DE ÔNIBUS</p></td></tr><tr><td rowspan="3"><p> </p></td><td><p>COMÉRCIO DE MATERIAIS DE </p><p>CONSTRUÇÃO E EQUIPAMENTOS </p><p>DE GRANDE PORTE</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 90 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>45 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>3</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>CONCESSIONÁRIAS DE VEÍCULOS</p></td><td><p>1 VAGA / 35 </p><p>M² OU </p><p>FRAÇÃO</p></td><td colspan="2"><p>1</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 35 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>RESTAURANTES, BARES, CASAS DE MÚSICA, BOATES E CANTINAS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 45</p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>45 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>1</p></td><td colspan="2"><p> </p></td></tr><tr><td rowspan="2"><p><strong>USO</strong></p></td><td rowspan="2"><p><strong>ATIVIDADES </strong></p></td><td colspan="5"><p><strong>P1</strong></p></td><td colspan="5"><p><strong>P2</strong></p></td><td colspan="9"><p><strong>P3</strong></p></td><td><p><strong>OBSERVAÇÕES</strong></p></td></tr><tr><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="2"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="2"><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="2"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="3"><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="3"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="3"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="2"><p> </p></td></tr><tr><td rowspan="8"><p>SERVIÇO</p></td><td><p>ACADEMIA DE GINÁSTICA, ESCOLA </p><p>DE ESPORTES, DANÇA, MÚSICA E </p><p>ARTE</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>50 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>3</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>BANCOS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 45 M²</p></td><td><p>1</p></td><td colspan="2"><p> </p></td><td colspan="3"><p>1 VAGA / 35 M²</p></td><td colspan="3"><p>2</p></td><td colspan="3"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td><p>ESCRITÓRIOS E ATELIERS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>35 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>FARMÁCIAS E DROGARIAS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 40 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>HOTÉIS, APART. HOTÉIS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 3 </p><p>QUARTOS </p><p>OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>1 VAGA / 3 </p><p>QUARTOS </p><p>OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>1</p></td><td colspan="2"><p>Obrigatório P3 – 3 </p><p>VAGAS TÁXI E 1 </p><p>BERÇO DE ÔNIBUS</p></td></tr><tr><td><p>MOTÉIS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / UNIDADE</p></td><td><p>1</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / UNIDADE</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>OFICINAS</p></td><td><p>1 VAGA / 45 M²</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>45 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>PRESTAÇÃO DE SERVIÇOS DIVERSIFICADOS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 45 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>35 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p> </p></td><td><p>INSTITUIÇÕES DE ENSINO MATERNAL</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>1</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>2</p></td><td colspan="3"><p>1 VAGA / </p><p>60 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>3</p></td><td colspan="2"><p> </p></td></tr><tr><td rowspan="3"><p>INSTITUCIONAL</p></td><td><p>INSTITUIÇÕES DE ENSINO </p><p>FUNDAMENTAL, MÉDIO E </p><p>PROFISSIONALIZANTE</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>1</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>2</p></td><td colspan="3"><p>1 VAGA / </p><p>60 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>3</p></td><td colspan="2"><p>ACIMA DE 5.000 M² – 5 </p><p>VAGAS DE EMBARQUE E DESEMBARQUE</p></td></tr><tr><td><p>INSTITUIÇÕES DE ENSINO </p><p>SUPERIOR, CURSO </p><p>PREPARATÓRIO E SUPLETIVO</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 90 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>1 VAGA / </p><p>50 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>2</p></td><td colspan="2"><p>ACIMA DE 5.000 M² – 5 </p><p>VAGAS DE EMBARQUE E DESEMBARQUE</p></td></tr><tr><td><p>INSTITUIÇÕES DE SAÚDE – </p><p>POSTOS, CLÍNICA SEM </p><p>INTERNAÇÃO E LABORATÓRIOS </p><p>DE ANÁLISE</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / </p><p>50 M² OU </p><p>FRAÇÃO</p></td><td colspan="3"><p>1</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td rowspan="2"><p><strong>USO</strong></p></td><td rowspan="2"><p><strong>ATIVIDADES </strong></p></td><td colspan="5"><p><strong>P1</strong></p></td><td colspan="5"><p><strong>P2</strong></p></td><td colspan="9"><p><strong>P3</strong></p></td><td><p><strong>OBSERVAÇÕES</strong></p></td></tr><tr><td><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="2"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="2"><p><strong>VAGAS MÍNIMAS</strong></p></td><td><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="2"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="3"><p><strong>VAGAS MÍNIMAS</strong></p></td><td colspan="3"><p><strong>VAGAS </strong></p><p><strong>CARGA E </strong></p><p><strong>DESCARGA</strong></p></td><td colspan="3"><p><strong>VAGAS EMBARQUE E </strong></p><p><strong>DESEMBARQUE</strong></p></td><td colspan="2"><p> </p></td></tr><tr><td rowspan="5"><p>INSTITUCIONAL</p></td><td><p>INSTITUIÇÕES DE SAÚDE – </p><p>HOSPITAIS E MATERNIDADES</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 50 </p><p>M² OU </p><p>FRAÇÃO</p></td><td><p>1</p></td><td colspan="2"><p>1</p></td><td colspan="3"><p>1 VAGA / </p><p>100 LEITOS</p></td><td colspan="3"><p>2</p></td><td colspan="3"><p>2</p></td><td colspan="2"><p>ATÉ 50 LEITOS - 1 </p><p>VAGA / 1 LEITO. DE 51 </p><p>A 200 LEITOS – 1 VAGA </p><p>/ 1,5 LEITO ACIMA DE </p><p>200 – 1 VAGA / 2 LEITOS</p></td></tr><tr><td><p>AUDITÓRIOS, TEATRO E CINEMA</p></td><td><p>1 VAGA / 40 M²</p></td><td colspan="2"><p>-</p></td><td><p>1</p></td><td colspan="2"><p>1 VAGA / 40 M²</p></td><td><p>-</p></td><td colspan="2"><p>2</p></td><td colspan="3"><p>1 VAGA / 40 M²</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>3</p></td><td colspan="2"><p>ACIMA DE 1.000 M² – 5 </p><p>VAGAS DE EMBARQUE E DESEMBARQUE</p></td></tr><tr><td><p>GINÁSIO DE ESPORTES</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / 40 M²</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>5</p></td><td colspan="2"><p>Obrigatório P3 – 5 </p><p>VAGAS TÁXI, 5 BERÇO </p><p>DE ÔNIBUS E 2 </p><p>BERÇOS DE </p><p>FRETADOS</p></td></tr><tr><td><p>CASA DE ESPETÁCULOS, SHOW E EVENTOS, PAVILHÃO DE FEIRAS, MUSEUS E BIBLIOTECAS.</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 60 M²</p></td><td><p>-</p></td><td colspan="2"><p>5</p></td><td colspan="3"><p>1 VAGA / 60 M²</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>5</p></td><td colspan="2"><p>Obrigatório P3 – 5 </p><p>VAGAS TÁXI E 2 </p><p>BERÇO DE ÔNIBUS</p></td></tr><tr><td><p>TEMPLOS RELIGIOSOS</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td><p>-</p></td><td colspan="2"><p>1 VAGA / 45 M²</p></td><td><p>-</p></td><td colspan="2"><p>-</p></td><td colspan="3"><p>1 VAGA / 35 M²</p></td><td colspan="3"><p>-</p></td><td colspan="3"><p>-</p></td><td colspan="2"><p> </p></td></tr><tr><td><p>ESPECIAL USO</p></td><td><p>DRIVE-IN, CEMITÉRIO, </p><p>CREMATÓRIO, PARQUE DE </p><p>EXPOSIÇÕES, CIRCO, PARQUE DE </p><p>DIVERSÕES, QUARTEL, CORPO DE </p><p>BOMBEIROS, PENITENCIÁRIA, </p><p>CENTRAL DE ABASTECIMENTO, </p><p>CENTRO DE CONVENÇÕES, </p><p>TERMINAL DE TRANSPORTE </p><p>AEROVIÁRIO, FERROVIÁRIO E </p><p>RODOVIÁRIO, DENTRE OUTROS </p><p>CONSIDERADOS ATIVIDADES </p><p>MODIFICADORAS DO MEIO </p><p>AMBIENTE E/OU VINCULADOS A ESTUDOS ESPECÍFICOS DE LOCALIZAÇÃO.</p></td><td colspan="20"><p>CONFORME RELATÓRIO DE IMPACTO NO TRÂNSITO – RIT</p></td></tr></tbody></table>
+
+
+## Anexo IV
+
+**INSTRUÇÃO TÉCNICA PARA ELABORAÇÃO DO RIT**  
+  
+O presente roteiro dispõe sobre a elaboração do Relatório de Impacto no Trânsito – RIT, nos termos da LC XXX de XXX de 2018.  
+Seu principal objetivo é apresentar instruções que permitam uma melhor compreensão dos dados necessários à elaboração e apresentação dos estudos pelos consultores, visando maior agilidade na análise dos relatórios pela equipe técnica da Divisão de Polos Geradores de Tráfego - DPGT.  
+O Relatório de Impacto no Trânsito – RIT oferece um referencial sobre o impacto gerado pelo empreendimento permitindo aos técnicos envolvidos, conhecer, avaliar, quantificar e delimitar o alcance dos impactos gerados pela implantação do empreendimento no sistema viário. Ele deve incluir as medidas mitigadoras dos impactos negativos, necessárias para garantir a qualidade da circulação urbana no local ou, se for o caso, as medidas compensatórias.  
+O roteiro proposto é um guia de referência. Nele são apresentadas as informações que deverão fazer parte do RIT, com uma breve orientação sobre o conteúdo necessário em cada item, cabendo ao responsável pela elaboração do relatório efetuar os devidos ajustes, observadas as especificidades de cada atividade e o porte do empreendimento.  
+  
+**ROTEIRO 1.CAPA 1.CAPA**  
+2.1 Título: Relatório de Impacto no Trânsito - RIT  
+2.2 Nome do Empreendimento (o mesmo constante do projeto)  
+2.3 Empresa e/ou responsável técnico pela elaboração do RIT  
+2.4 Empreendedor  
+2.5 Data (de conclusão do RIT)  
+  
+2. IDENTIFICAÇÃO - LOCALIZAÇÃO DO EMPREENDIMENTO  
+2. **IDENTIFICAÇÃO - LOCALIZAÇÃO DO EMPREENDIMENTO 2.1 IDENTIFICAÇÃO DO EMPREENDEDOR E DOS RESPONSÁVEIS TÉCNICOS**  
+2.1.1 Nome da Empresa  
+2.1.2 CNPJ  
+2.1.3 Nome do Responsável Legal pelo Empreendimento  
+2.1.4 Endereço (completo com CEP)  
+2.1.5 Telefones (comercial e celular)  
+2.1.6 e-mail.  
+**2.2 RELATÓRIO DE IMPACTO NO TRÂNSITO**  
+2.2.1 Nome da empresa  
+2.2.2 Responsável Técnico – RT (nome / formação / registro profissional CAU/CREA)  
+2.2.4 Endereço (completo com CEP)  
+2.2.5 Telefones (comercial e celular)  
+2.2.6 e-mail  
+**2.3 PROJETO ARQUITETÔNICO**  
+2.3.1. Nome da empresa  
+2.3.2. Responsável Técnico – RT (nome / formação / registro profissional (CAU/CREA)  
+2.3.4. Equipe técnica (nome / formação / registro profissional)  
+2.3.5. Endereço (completo com CEP)  
+2.3.6. Telefones (comercial e celular)  
+2.3.7. e-mail  
+**2.4 IDENTIFICAÇÃO DO EMPREENDIMENTO**  
+2.4.1. Nome do Empreendimento / Razão Social (constante do projeto).  
+2.4.2. Nome Fantasia.  
+2.4.3. Categoria de Uso / Tipologia (residencial, comercial, serviços e institucional).  
+2.4.4. Objeto (construção, ampliação, instalação de novo uso, em funcionamento).  
+2.4.5. Fase do Licenciamento (LP – Licença Prévia).  
+**2.5 LOCALIZAÇÃO DO EMPREENDIMENTO**  
+2.5.1. Endereço completo (rua, número e bairro).  
+2.5.2. Lote(s) ou gleba(s) ocupado(s).  
+2.5.3. Quarteirão(s).  
+2.5.4. Mapa do Zoneamento (Ocupação e Uso do Solo – Lei 097/1999 e alterações).  
+2.5.5. Mapa de situação ou foto aérea que abrange as principais vias de acesso ao empreendimento (Escala 1:10.000 ou 1:5.000).  
+2.5.6 . Fotografias do empreendimento (em funcionamento) ou da área (novos empreendimentos).  
+  
+3. PERFIL DO EMPREENDIMENTO - DESCRIÇÃO DAS ATIVIDADES  
+**PERFIL DO EMPREENDIMENTO - DESCRIÇÃO DAS ATIVIDADES**  
+3.1 Área do(s) terreno(s).  
+3.2 Área total construída.  
+3.3 Área líquida1 total.  
+3.4 Descrição das atividades desenvolvidas ou previstas, com breve histórico para empreendimentos existentes.  
+3.5 Quadro resumo contendo as atividades desenvolvidas ou previstas e as respectivas áreas utilizadas, discriminando cada bloco (ou edificação) e pavimento, conforme modelo a seguir:
+
+1 Área Líquida – definição da área a ser computada conforme art. XX da Lei XXX de XX de XXXX de 2018.
+
+<table><tbody><tr><td colspan="4"><strong>Quadro distribuição de atividaes e áreas</strong></td></tr><tr><td><strong>Pavimento</strong></td><td><strong>Atividades desenvolvidas</strong></td><td><strong>Área Bruta (m²)</strong></td><td><strong>Área Líquida (m²)</strong></td></tr><tr><td>1º Subsolo</td><td> </td><td> </td><td> </td></tr><tr><td>1º Pavimento / Térreo</td><td> </td><td> </td><td> </td></tr><tr><td>2º Pavimento</td><td> </td><td> </td><td> </td></tr><tr><td>3º Pavimento</td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td><strong>Total:</strong></td><td><strong>Total:</strong></td></tr></tbody></table>
+
+3.6 Áreas e dados específicos que fazem referência às atividades desenvolvidas no empreendimento, considerando as respectivas tipologias:  
+3.6.1 Centro comercial e Shopping Center:  
+Área Bruta Locável – ABL (a área de vendas bem como os espaços de armazenagem e escritórios adectos aos estabelecimentos) 3.6.2 Comércio Varejista e diversificado / comércio atacadista:
+
+Área de Vendas
+
+Área de Depósito
+
+3.6.3 Comércio de materiais de construção, equipamentos de grande porte e concessionárias de veículos
+
+Área de Vendas
+
+Área de Depósito
+
+Área de administração
+
+3.6.4 Prestação de serviços diversificados:
+
+Área líquida dos pavimentos utilizados pelos escritórios, salas de reuniões, salas multiúso.
+
+3.6.5 Restaurantes, bares, casas de música, boates e cantinas:
+
+Área de uso público
+
+Capacidade
+
+3.6.6 Casa de espetáculos, show e eventos, pavilhão de feiras, museus e bibliotecas:
+
+Capacidade de Assentos
+
+Área de uso público  
+  
+Capacidade
+
+3.6.7 Edifícios Residenciais:
+
+Número de unidades residenciais por bloco e total
+
+Número de blocos / edifícios
+
+Área dos apartamentos tipo / número de quartos
+
+Classe social e faixa de renda familiar (em salários mínimos)  
+  
+3.6.8 Hotéis, Apart-hotéis e Motéis:
+
+Número de apartamentos  
+  
+Área dos apartamentos
+
+3.6.9. Auditórios, Teatros, Cinema e Igreja:
+
+Capacidade de Assentos  
+3.6.10. Ginásio de Esportes:
+
+Capacidade de Lotação  
+3.6.11 Bancos:
+
+Área líquida dos pavimentos utilizados pelos escritórios, salas de reuniões, salas multiúso.
+
+Área de uso público
+
+3.6.12 Hospitais, Maternidades e Clínicas:
+
+Número de leitos total e para cada especialidade (de internação em apartamentos e enfermaria; isolados; CTI; observação, emergência, etc.).
+
+Número de atendimentos/mês (no pronto socorro, cirurgias, internações, consultas ambulatoriais, exames, etc.).
+
+Tipo de atendimento (particular, SUS, convênios).
+
+3.6.13 Escolas (ensino médio, fundamental e profissionalizante), cursos preparatórios e supletivos e faculdades:
+
+Número de salas de aula
+
+Área das salas de aula
+
+Capacidade de cada sala e total
+
+3.7 . Apresentar memória de cálculo das áreas (área líquida, ABL, área de vendas, etc.) com a representação gráfica do contorno da referida área sobre o projeto arquitetônico.  
+4. INFORMAÇÕES OPERACIONAIS/FUNCIONAIS  
+4.1 Data do início da operação do empreendimento.  
+4.2 Empreendimentos existentes: data de início da atividade.  
+4.3 Empreendimentos novos: data de previsão de inauguração e cronograma(parcial e total).  
+4.4 Horário de funcionamento do empreendimento durante a semana, fim de semana e informações sobre a existência ou previsão de turnos de trabalho.  
+4.5 Informações sobre a possibilidade de expansão futura e de funcionamento de outras atividades ou eventos.  
+4.6 Caracterização e quantificação da movimentação de pessoas e mercadorias:  
+4.7 Empreendimentos existentes: Apresentação de dados reais a serem obtidos através da realização de pesquisas (conforme diretrizes constantes do item 5 a seguir), considerando:
+
+População Fixa: funcionários (terceirizados ou não ), alunos, professores, etc. (com os respectivos turnos de trabalho).
+
+População Flutuante: clientes, fornecedores, visitantes, pacientes, etc.
+
+Movimentação de mercadorias: descrição da logística a de movimentação dos caminhões, número de viagens por dia, horários, dias da semana, rotas utilizadas e caracterização dos veículos utilizados (tipo e dimensões).
+
+4.8. Empreendimentos novos: Apresentação de estimativas a serem obtidas através da realização de pesquisas em empreendimentos similares (conforme diretrizes constantes do item 5a seguir). Caso não seja possível a execução da pesquisa, desde que justificada, podem ser utilizadas metodologias reconhecidas e comprovadas em trabalhos técnicos. Os estudos devem compreender:
+
+População Fixa: funcionários (terceirizados ou não), alunos, professores, etc. (com os respectivos turnos de trabalho).
+
+População Flutuante: clientes, fornecedores, visitantes, pacientes, etc.
+
+Movimentação de cargas: número de viagens por dia, horários de chegada e de saída e número de veículos de carga acumulados, dias da semana de maior pico e caracterização dos veículos utilizados (tipo e dimensões).  
+5. ÁREA DE INFLUÊNCIA  
+5.1 A delimitação da área de vizinhança dependerá do tamanho do empreendimento, da atividade que será desenvolvida e do local de implantação, podendo ser reduzida a três diferentes áreas:
+
+extensão das vias públicas que circunscrevem o empreendimento considerado, para avaliação de impactos sobre as redes de serviços públicos;
+
+extensão das vias públicas que circunscrevem o empreendimento considerado e a extensão das vias de acesso até os “nós” de tráfego mais próximos, para avaliação de impactos sobre os sistemas viário e de transporte público;
+
+quadra do empreendimento, mais as vias públicas lindeiras e os imóveis lindeiros a estas vias públicas, para avaliação de impactos sobre paisagem, sobre atividades humanas instaladas, e sobre os recursos naturais.
+
+5.2 Deve ser identificada a área de influência diretamente afetada pelos impactos do empreendimento em mapa, em escala adequada, contendo a rede viária e os sentidos de circulação.  
+5.3 A delimitação dos limites propostos para a área de influência deve ser justificada com a apresentação dos critérios adotados e levar em consideração o porte do empreendimento, as atividades nele instaladas, o número de viagens produzidas e as rotas de acesso.  
+6. GERAÇÃO DE VIAGENS  
+6.1 . Número de viagens geradas (produzidas e atraídas) por dia e nos horários de pico do empreendimento e do sistema viário da área de influência:
+
+Empreendimentos existentes: Apresentação de dados reais a serem obtidos através da realização de pesquisas (conforme diretrizes constantes do item 5) da movimentação de pessoas e veículos (inclusive veículos de carga).
+
+Empreendimentos novos: Apresentação de estimativas a serem obtidas através da realização de pesquisas em empreendimentos similares ( conforme diretrizes do item 5) ou através da utilização de metodologias reconhecidas e comprovadas em trabalhos técnicos.
+
+6.2 . Divisão modal das viagens: identificação dos meios de transporte que os usuários utilizam para acessar o empreendimento (em porcentagem).
+
+Empreendimentos existentes: Apresentação de dados reais a serem obtidos através da realização de pesquisas com aplicação de questionários (conforme diretrizes do item 5).
+
+Empreendimentos novos: Apresentação de estimativas a serem obtidas através da realização de pesquisas em empreendimentos similares ( conforme diretrizes do item 5) ou através da utilização de metodologias reconhecidas e comprovadas em trabalhos técnicos.
+
+PESQUISA - DIRETRIZES GERAIS  
+7.1 Pesquisa de contagem volumétrica de veículos.  
+7.1.1 Descrição da metodologia adotada.  
+7.1.2 Período da realização das pesquisas: no horário de funcionamento do empreendimento, durante uma semana (incluindo final de semana, dependendo da tipologia). Períodos menores de realização da pesquisa podem ser admitidos em comum acordo com a SEMTRAN.  
+7.1.3 A pesquisa de contagem de veículos deve ser realizada em todos os acessos da Área de Influência, contabilizando a entrada e a saída. Nos acessos de veículos deve ser identificado o número de pessoas por veículo.  
+7.1.4 Os resultados coletados devem ser apresentados de hora em hora, com totalizações parciais de 15 em 15 minutos.  
+7.1.5 Apresentação do formulário utilizado para realização das pesquisas.  
+Apresentar os resultados das pesquisas de forma conclusiva destacando os valores absolutos e percentuais.  
+8. MACRO ACESSIBILIDADE  
+8.1 Este item deve conter a descrição, caracterização e o mapeamento das principais rotas de chegada e saída do empreendimento, partindo do sistema viário principal e/ou corredores de comércio de Porto Velho, próximos ao empreendimento. Para tanto, devem ser apresentados:
+
+8.1.1 Mapas de circulação viária, contendo:
+
+Rotas de chegada.
+
+Rotas de saída.
+
+Sentido de circulação das vias no entorno do empreendimento.
+
+Classificação viária no entorno do empreendimento.
+
+Descrição e caracterização da área de influência com informações sobre: condições físicas: sentido de circulação; seção transversal - com largura da pista, do canteiro central e das calçadas; número de faixas de tráfego por sentido; estado de conservação da sinalização e do pavimento e condições operacionais: segurança, capacidade e fluidez.
+
+8\. MICRO ACESSIBILIDADE  
+8.1 Este item deve conter a identificação e caracterização dos acessos imediatos ao empreendimento. Para tanto, devem ser apresentados:  
+8.1 . Figura (planta de situação ou planta do nível térreo) contendo a identificação e a especificação dos usos de todos os acessos ao empreendimento:
+
+Acesso de pedestres.
+
+Acesso de veículos leves.
+
+Acesso de veículos de carga.
+
+Acesso às áreas de embarque e desembarque.
+
+Acesso de veículos de emergência, de serviço, etc.  
+  
+8.2 Outras informações sobre a utilização dos acessos, tais como: horário de funcionamento, tipo de controle utilizado (porteiro, cancela eletrônica, cancela manual, etc.), tipo de usuário que o utiliza,condições de acessibilidade, altura do portão, etc.  
+8.3 Registro fotográfico de todos os acessos (para empreendimentos existentes).
+
+ATENDIMENTO POR TRANSPORTE COLETIVO/TRANSPORTE ESCOLAR  
+9.1 Transporte Coletivo por ônibus:
+
+Mapa contendo o itinerário das linhas do transporte coletivo na área de influência e a localização dos pontos de embarque e desembarque de passageiros (PEDs) que atendem o empreendimento. A legenda do mapa deve conter o número e o nome das linhas.
+
+Quadro descritivo e levantamento fotográfico da avaliação das condições da operação dos PEDs que atendem o empreendimento: localização, linhas atendidas, se tem abrigo, condições do pavimento das calçadas e informações sobre a área disponível para acomodação de passageiros.  
+  
+9.2 Transporte Escolar (no caso de escolas e faculdades):
+
+Localização e capacidade das áreas utilizadas para embarque e desembarque de escolares.
+
+Número e tipo de veículos utilizados (ônibus, micro-ônibus, vans).
+
+10\. ANÁLISE DA CAPACIDADE VIÁRIA E DO NÍVEL DE SERVIÇO - SITUAÇ O diagnóstico das condições físico-operacionais do sistema viário deve se basear no estudo de capacidade de tráfego e do nível de serviço nas interseções, semaforizadas ou não, das rotas de acesso na área de influência do empreendimento.  
+A análise de capacidade viária deve ser realizada a partir de pesquisas de contagem volumétrica classificada de veículos, realizadas nas principais interseções das rotas de acesso na área de influência, na hora de pico do empreendimento e do sistema viário.  
+Deve ser apresentado croqui de cada interseção estudada, com o número de faixas de trânsito, a identificação dos movimentos permitidos e os respectivos volumes de tráfego na hora pico do empreendimento e do sistema viário devidamente identificados. Devem ser apresentadas ainda informações sobre a largura das aproximações e sobre a existência de faixas de estacionamento, ponto de embarque e desembarque de passageiros do transporte coletivo ou declividades e demais interferências que possam interferir nos fluxos de saturação.  
+Para empreendimentos existentes, além das pesquisas citadas, deve ser identificada a parcela de volume gerado na hora pico do empreendimento e do sistema viário, em cada rota de acesso na área de influência, e apresentados estudos de capacidade para a situação atual e para uma situação hipotética, sem o empreendimento, ou seja, considerando a retirada da parcela de volume de tráfego gerado pelo empreendimento e avaliando, desta forma, o impacto que o mesmo tem causado.  
+  
+11. PREVISÃO DE DEMANDA FUTURA  
+Os estudos de demanda de tráfego envolvem quatro etapas principais: geração (ver item 5), distribuição das viagens, divisão modal e alocação do tráfego, que cumprem as funções de estimar a demanda de tráfego gerado e distribuí-la nas rotas de acesso ao empreendimento.  
+Para empreendimentos novos ou em ampliação deve ser feita uma projeção de crescimento do tráfego atual para o horizonte do ano de início da operação ( inauguração) ou da ampliação, adotando-se a taxa média de crescimento anual da região (fonte IBGE).  
+Para a avaliação do grau de saturação e do nível de serviço para todas as situações e horizontes, deve-se apresentar o método utilizado e a demonstração dos cálculos realizados. Para interseções que operam com semáforos deve-se utilizar a relação entre o volume de tráfego e a capacidade de escoamento no local. No entanto, estudos de impacto realizados para licenciamento de empreendimentos de grande porte devem ser enriquecidos tecnicamente com a apresentação de redes de simulação, utilizando softwares específicos para avaliação das condições do tráfego, nos diferentes cenários estudados.  
+  
+12. ALOCAÇÃO DAS VIAGENS GERADAS  
+A alocação das viagens geradas é o carregamento das interseções das rotas de acesso (semaforizadas ou não), na hora de pico do empreendimento e do sistema viário, com o volume de tráfego total, ou seja, o volume de tráfego no ano de início da operação do empreendimento, somado ao volume gerado pelo empreendimento.  
+A distribuição das viagens geradas no sistema viário da área de influência (vias principais de acesso e vias adjacentes ao empreendimento) é feita a partir das rotas de chegada e saída, distribuindo-se entre elas os volumes (em Unidade de Veículo Padrão - UVP/h) gerados pelo empreendimento, de acordo com percentuais definidos. Partindo da premissa de que os futuros usuários do empreendimento irão utilizar as rotas de chegada e de saída com a mesma lógica de deslocamento do tráfego atual do entorno, definem-se os percentuais para a alocação do tráfego, com base nos volumes identificados nas pesquisas de contagem volumétrica de veículos e na importância das respectivas rotas.  
+  
+13. AVALIAÇÃO DOS IMPACTOS NO SISTEMAS VIÁRIO DE TRANSPORTE  
+  
+A partir da análise comparada da capacidade viária e do nível de serviço nas interseções estudadas das rotas de acesso (semaforizadas ou não), na hora de pico do empreendimento e do sistema viário, nos horizontes sem e com o empreendimento, deve-se identificar os trechos viários e aproximações de interseção significativamente impactadas pelo tráfego adicional e apresentar conclusões sobre os impactos gerados, considerando as condições de acesso e de circulação de veículos e de pedestres na área de influência e levando-se em conta as interferências dos fluxos gerados pelo empreendimento nos padrões vigentes de fluidez e segurança de tráfego. A partir dos estudos das demandas geradas pelo empreendimento deve-se avaliar a necessidade de alterações nos serviços de transporte coletivo (adequação do itinerário, ajustes em quadro de horários ou implantação de novo PED), táxi e transporte escolar, buscando sempre a internalização dos conflitos gerados.  
+  
+14. CONCLUSÕES E PROPOSIÇÕES DE MEDIDAS MITIGADORAS  
+  
+Neste tópico, devem ser descritas as medidas a serem tomadas pelo empreendedor para minimizar os impactos causados pelo empreendimento. As medidas a serem adotadas dependerão dos impactos causados pelo empreendimento na infraestrutura urbana de circulação e, portanto, nem todos os itens desse tópico serão utilizados.  
+  
+14.1. Apresentação gráfica (layout) das adequações propostas no sistema viário, tais como:
+
+Plano de circulação.
+
+Implantação e alargamento de vias.
+
+Implantação de obras de arte.
+
+Implantação de alterações geométricas.
+
+Implantação de melhorias de pavimentação.
+
+Implantação/manutenção de sinalização horizontal, vertical ou semafórica.
+
+Ajustes na programação semafórica.
+
+Implantação de medidas moderadoras de tráfego.
+
+Tratamento para pedestres, ciclistas e pessoas com deficiência ou mobilidade reduzida  
+  
+14.2. Apresentação de propostas de adequação do transporte coletivo, escolar e do serviço de táxi.  
+14.3. Apresentação de propostas de ações complementares :
+
+Operacionais.
+
+Educativas.
+
+Divulgação.
+
+Monitoramento.
+
+Plano de gestão da mobilidade.**CONSIDERAÇÕES FINAIS**
+
+O RIT deverá ser elaborado por equipe que se responsabilizará pelas informações, resultados e conclusões apresentadas através de Anotação de Responsabilidade Técnica – ART ou Registro de Responsabilidade Técnica - RRT.  
+Caso o empreendimento seja passível de apresentação de EIV, o RIT poderá integrar o mesmo.  
+Deverão ser entregues no Departamento de Mobilidade e Polos Geradores de Tráfego da SETMRAN, duas cópias impressas e uma digital, com todos os arquivos em formato PDF, para disponibilização no site da SEMTRAN.
+
+**Porto Velho, XX de XXX de 2018.**

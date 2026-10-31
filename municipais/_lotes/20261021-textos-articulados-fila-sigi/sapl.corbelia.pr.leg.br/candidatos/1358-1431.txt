@@ -1,0 +1,1049 @@
+Dispõe sobre Sistema Viário da Sede e dos distritos do Município de Corbélia.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei, parte integrante do Plano Diretor Municipal, estabelece as diretrizes para atender as funções principais das vias, e define a estrutura básica do Sistema Viário Municipal de Corbélia, assegurando a observância das normas relativas à matéria e zelando pelos interesses do município no que diz respeito ao seu pleno desenvolvimento.
+
+
+Art. 2º.
+
+A presente Lei tem por objetivos:
+
+
+I –
+
+classificar o Sistema Viário Municipal;
+
+
+II –
+
+definir os parâmetros geométricos das vias oficiais;
+
+
+III –
+
+fixar as condições necessárias para que as vias de circulação possam desempenhar adequadamente suas funções e dar vazão ao seu volume de tráfego;
+
+
+IV –
+
+garantir a continuidade futura da malha urbana, inclusive nas áreas periféricas ao perímetro urbano.
+
+
+#### CAPÍTULO II — DAS DEFINIÇÕES
+
+
+Art. 3º.
+
+Para efeito da aplicação da presente lei, serão adotadas as seguintes definições:
+
+
+I –
+
+ABNT: Associação Brasileira de Normas Técnicas;
+
+
+II –
+
+Caixa de Rolamento: É a faixa da via destinada à circulação de veículos, sendo a distância dentro da qual serão implantadas as faixas de rolamento, excluídos os passeios;
+
+
+III –
+
+Caixa Total da Via: É a distância definida no projeto entre os dois alinhamentos em oposição;
+
+
+IV –
+
+Canteiro Central: Obstáculo físico construído como separador de duas pistas de rolamento, eventualmente substituído por marcas viárias;
+
+
+V –
+
+Ciclofaixa: A parte da pista de rolamento destinada à circulação de ciclos, delimitada por sinalização específica;
+
+
+VI –
+
+Ciclovia: Pista de uso exclusivo de bicicletas e outros ciclos, com segregação física do tráfego comum
+
+
+VII –
+
+CTB - Código de Trânsito Brasileiro: Conjunto das normas que disciplinam a utilização das vias de circulação;
+
+
+VIII –
+
+DER: Departamento de Estradas de Rodagem;
+
+
+IX –
+
+DNIT: Departamento Nacional de Infraestrutura de Transportes;
+
+
+X –
+
+Faixa de Acesso: Consiste no espaço de passagem da área pública para o lote. Serve para acomodar a rampa de acesso aos lotes lindeiros sob autorização do município para edificações já construídas;
+
+
+XI –
+
+Faixa de Domínio: Conjunto de áreas, declarada de utilidade pública, destinadas a construção e operação da rodovia, dispositivo de acessos, postos de serviços complementares, pistas de rolamento, acostamento, canteiro central e faixas lindeiras, destinadas a acomodar os taludes de corte, aterro e elementos de drenagem, como também área de escape;
+
+
+XII –
+
+Faixa de Estacionamento: É o espaço público ou privado destinado à guarda ou estacionamento de veículos, constituído pelas áreas de vagas e circulação;
+
+
+XIII –
+
+Faixa de Rolamento: Área longitudinal da pista destinada à circulação de uma corrente de tráfego de veículos, podendo ser identificada por meio de pintura no pavimento;
+
+
+XIV –
+
+Faixa de Serviço: Destinada a acomodar o mobiliário urbano, a arborização urbana e os postes de iluminação ou sinalização;
+
+
+XV –
+
+Faixa Livre: Destinada exclusivamente à circulação de pedestres, devendo ser livre de qualquer obstáculo, ser revestida com pavimento de superfície regular e antiderrapante e ter continuidade entre os lotes;
+
+
+XVI –
+
+Logradouro Público: Área disponível reservada pelo setor público ao trânsito ou paragem de veículos, ou à movimentação de pedestres: jardins, parques, passeios, avenidas, ruas, alamedas, áreas de lazer, calçadões, praças, largos e viadutos;
+
+
+XVII –
+
+Passeio público, Calçada ou Via de Pedestres: Parte da calçada ou da pista de rolamento, neste último caso segregada por pintura, nível ou elemento físico, destinada à circulação de pedestres, locação de mobiliário, vegetação e placas de sinalização;
+
+
+XVIII –
+
+PBT - Peso Bruto Total: Peso máximo do veículo constituído da soma de carga e tara;
+
+
+XIX –
+
+SENATRAN: Secretaria Nacional de Trânsito;
+
+
+XX –
+
+Sinalização Horizontal: Subsistema da sinalização viária que se utiliza de linhas, marcações, símbolos e legendas, pintados ou apostos sobre o pavimento das vias;
+
+
+XXI –
+
+Sinalização Tátil, Direcional e de Alerta: Piso com superfície de relevo acentuado e cores vivas para auxiliar quem possui alguma dificuldade motora ou sensorial a se locomover com segurança e agilidade;
+
+
+XXII –
+
+Sinalização Vertical: Subsistema da sinalização viária que se utiliza de placas, onde o meio de comunicação (sinal) está na posição vertical, fixado ao lado ou suspenso sobre a pista, transmitindo mensagens de caráter permanente ou, eventualmente, variáveis, mediante símbolos e/ou legendas preestabelecidas e legalmente instituídas;
+
+
+XXIII –
+
+Tráfego Leve: Tráfego característico de passagem regular de veículos leves;
+
+
+XXIV –
+
+Tráfego Médio: Tráfego característico de passagem regular de veículos leves, ônibus e caminhões;
+
+
+XXV –
+
+Tráfego Pesado: Tráfego característico de passagem intensa de veículos leves, ônibus e caminhões;
+
+
+XXVI –
+
+Tráfego: Circulação, movimento, fluxo de automóveis no trânsito.
+
+
+#### CAPÍTULO III — DAS DEFINIÇÕES DAS VIAS
+
+
+Art. 4º.
+
+As vias que compõe a estrutura básica do Sistema Viário do Município de Corbélia ficam classificadas, para efeito desta Lei, considerando seus aspectos estruturais, uso do solo e circulação, conforme segue:
+
+
+I –
+
+Via Marginal: São vias paralelas à pista principal de uma rodovia, de um ou ambos os lados, com o objetivo de atender ao tráfego local, longitudinal à rodovia e pertinente à área urbanizada adjacente, e permitir o disciplinamento dos locais de ingresso e egresso da rodovia;
+
+
+II –
+
+Via Arterial: São vias que conectam bairros e regiões urbanas, representando fluxo preferencial de tráfego;
+
+
+III –
+
+Via Coletora: Desempenham o papel de distribuição ou coleta do tráfego gerado em bairros ou em vias arteriais;
+
+
+IV –
+
+Via Local: Destinadas à distribuição do tráfego internamente ao bairro, com acesso local de interesse limitado aos moradores;
+
+
+V –
+
+Via Especial para Tráfego Pesado: Destinadas para veículos de grande porte, com finalidade de desviar o fluxo de caminhões da área central da sede do município;
+
+
+VI –
+
+Via Rural: Refere-se a estradas, pavimentadas ou não, localizadas na macrozona rural, classificadas em:
+
+
+a)
+
+estradas principais: destinam-se a transportar grandes volumes de tráfego nas principais ligações do município, dando acesso às localidades;
+
+
+b)
+
+estradas secundárias: são as vias de acesso das propriedades às estradas principais e que permitem o acesso opcional entre as localidades;
+
+
+c)
+
+estradas vicinais e caminhos: são as vias de acesso aos locais de produção e moradia na área rural, interligando-os com as estradas secundárias.
+
+
+#### CAPÍTULO IV — DO SISTEMA VIÁRIO BÁSICO DO MUNICÍPIO
+
+
+Art. 5º.
+
+A Hierarquia Viária Urbana do Município de Corbélia é composta pela seguinte ordem hierárquica:
+
+
+I –
+
+via marginal;
+
+
+II –
+
+via arterial;
+
+
+III –
+
+via coletora;
+
+
+IV –
+
+via local;
+
+
+V –
+
+via especial para tráfego pesado.
+
+
+Art. 6º.
+
+A Hierarquia Viária Rural do Município de Corbélia é composta pela seguinte ordem hierárquica
+
+
+I –
+
+estradas principais;
+
+
+II –
+
+estradas secundarias;
+
+
+III –
+
+estradas vicinais e caminhos.
+
+
+Art. 7º.
+
+O Sistema Viário do Município de Corbélia subdivide-se em:
+
+
+I –
+
+Sistema Viário Urbano: compreendido pelas vias existentes ou projetadas dentro do perímetro urbano;
+
+
+II –
+
+Sistema Viário Rural: compreendido pelas vias e estradas existentes ou projetadas fora do perímetro urbano, exceto as rodovias federais e estaduais.
+
+
+Art. 8º.
+
+As vias urbanas subdividem-se em:
+
+
+I –
+
+Vias existentes: vias já implantadas e em uso;
+
+
+II –
+
+vias projetadas: ainda não implantadas, mas definidas na presente Lei como prolongamentos ou alargamento de vias existentes.
+
+
+Art. 9º.
+
+As vias existentes que compõem o Sistema Viário básico da área urbana de Corbélia, constantes no Anexo I desta lei, recebem classificação de acordo com o disposto no Art. 5º da presente legislação.
+
+
+Art. 10.
+
+As diretrizes viárias, compreendendo o prolongamento e/ou alargamento das vias projetadas do Sistema Viário básico estão constantes no Anexo II desta Lei.
+
+
+§ 1º
+
+As vias urbanas projetadas se constituem em diretrizes e estarão sujeitas a ajuste no traçado proposto, desde que devidamente justificado por levantamento planialtimétrico e/ou estudo hidrológico da área, aprovados pelo Conselho de Desenvolvimento Municipal de Corbélia - CONCIDADE, vinculado à Secretaria Municipal de Obras e Urbanismo do Poder Executivo Municipal.
+
+
+§ 2º
+
+Para as vias previstas em diretrizes oficiais e/ou em parcelamentos aprovados, com prazos vigentes e não implantadas, em caso de caducidade de autorização concedida, nova autorização somente será expedida com base na presente Lei.
+
+
+#### CAPÍTULO V — DAS CONDIÇÕES GERAIS
+
+
+##### Seção I — Dos Parâmetros Geométricos
+
+
+Art. 11.
+
+As dimensões mínimas adotadas para cada tipo de via são:
+
+
+I –
+
+para a Via Marginal, e seu prolongamento projetado, conforme Anexo III:
+
+
+a)
+
+para a Via Marginal, e seu prolongamento projetado, conforme Anexo III:
+
+
+b)
+
+Caixa de Rolamento: 6,00 m (seis metros);
+
+
+c)
+
+Faixa de Estacionamento: 3,00 m (três metros);
+
+
+d)
+
+Passeio Público: 3,00 m (três metros) de um lado da via.
+
+
+II –
+
+para a Via Arterial, e seu prolongamento projetado, conforme Anexo IV:
+
+
+a)
+
+Caixa Total da Via: 30,00 m (trinta metros);
+
+
+b)
+
+Caixa de Rolamento: 15,00 m (quinze metros);
+
+
+c)
+
+Faixa de Rolamento I: 7,50 m (sete metros e cinquenta centímetros);
+
+
+d)
+
+Faixa de Rolamento II: 7,50 m (sete metros e cinquenta centímetros);
+
+
+e)
+
+Faixa de Estacionamento: 2,50 m (dois metros e cinquenta centímetros) de cada lado da via;
+
+
+f)
+
+Passeio Público: 3,00 m (três metros) de cada lado da via;
+
+
+g)
+
+Canteiro Central: 4,00 m (quatro metros).
+
+
+III –
+
+para a Via Coletora, e seu prolongamento projetado, conforme Anexo V:
+
+
+a)
+
+Caixa Total da Via: 20,00 m (vinte metros);
+
+
+b)
+
+Caixa de Rolamento: 9,00 m (nove metros);
+
+
+c)
+
+Faixa de Rolamento I: 4,50 m (quatro metros e cinquenta centímetros);
+
+
+d)
+
+Faixa de Rolamento II: 4,50 m (quatro metros e cinquenta centímetros);
+
+
+e)
+
+Faixa de Estacionamento: 2,50 m (dois metros e cinquenta centímetros) de cada lado da via;
+
+
+f)
+
+Passeio Público: 3,00 m (três metros) de cada lado da via.
+
+
+IV –
+
+para a Via Local, e seu prolongamento projetado, conforme Anexo VI:
+
+
+a)
+
+Caixa Total da Via: 14,00 m (quatorze metros);
+
+
+b)
+
+Caixa de Rolamento: 9,00 m (nove metros);
+
+
+c)
+
+Passeio Público: 2,50 m (dois metros e cinquenta centímetros) de cada lado da via.
+
+
+Art. 12.
+
+O Anexo VII apresenta os parâmetros geométricos inerentes a cada via, conforme estabelecido no Art. 10, bem como a velocidade atribuída a cada uma, em conformidade com as disposições da presente Lei.
+
+
+§ 1º
+
+É de competência do município determinar a velocidade de tráfego permitida para as vias urbanas, bem como fiscalizar o cumprimento das velocidades estabelecidas.
+
+
+§ 2º
+
+A implementação de dispositivos redutores de velocidade, como lombadas e faixas elevadas, requer autorização expressa do órgão ou entidade executivos de trânsito com jurisdição sobre a via. Essa autorização deve ser precedida pela apresentação de um estudo técnico de viabilidade.
+
+
+##### Seção II — Das Estradas Municipais Rurais
+
+
+Art. 13.
+
+São denominadas Estradas Municipais Rurais as estradas existentes no território do município situadas fora do perímetro urbano e que servem ao trânsito público na área rural, excluídas as integrantes do sistema rodoviário federal e estadual.
+
+
+Art. 14.
+
+Para as estradas municipais rurais, ficam estabelecidas as seguintes dimensões:
+
+
+I –
+
+Estradas principais: faixa carroçável de 8 a 10 m (oito a dez metros), com faixa lateral de domínio de 5,00 m (cinco metros);
+
+
+II –
+
+Estradas secundárias: faixa carroçável de 6 a 8 m (seis a oito metros), com faixa lateral de domínio de 3,00 m (três metros);
+
+
+III –
+
+Estradas vicinais e caminhos: faixa carroçável de domínio de 3 a 6 m (três a seis metros), com faixa lateral de domínio de 2,00 m (dois metros).
+
+
+Parágrafo único
+
+O mapa das estradas municipais rurais está representado Anexo VIII, parte integrante desta Lei.
+
+
+Art. 15.
+
+As proibições, notificações, sanções, construções e obrigações de manutenção nas estradas municipais rurais, encontram-se devidamente delineadas nas normativas estabelecidas pela Lei Municipal nº 317, de 17 de junho de 1993, e pela Lei Municipal nº 1.000, de 24 de maio de 2018, ou outros atos normativos que vier a substituir.
+
+
+Art. 16.
+
+Para abertura de estradas de uso público no território municipal, constituindo frente de glebas ou terrenos, é obrigatória prévia autorização do Município.
+
+
+§ 1º
+
+Na abertura de estradas municipais, é fundamental observar as regulamentações estabelecidas pelo DNIT, DER bem como as disposições do Ministério da Agricultura, Pecuária e Abastecimento.
+
+
+§ 2º
+
+Fica reservada a municipalidade o direito de exercer fiscalização dos serviços e obras de construção da estrada projetada, aprovada e oficializada.
+
+
+Art. 17.
+
+Para mudança, dentro dos limites do seu terreno, de qualquer estrada ou caminho público, deverá o respectivo proprietário requerer a necessária permissão à Prefeitura, juntando ao pedido, projeto do trecho a modificar-se e memorial justificativo da necessidade e vantagens.
+
+
+Parágrafo único
+
+Concedida a permissão, o requerente fará a modificação à sua custa, sem interromper o trânsito, não lhe assistindo direito a qualquer indenização.
+
+
+Art. 18.
+
+São partes integrantes das estradas quaisquer obras nelas executadas pelo Poder Público ou por particulares devidamente autorizados.
+
+
+##### Seção III — Da Implantação
+
+
+Art. 19.
+
+A abertura de qualquer via ou demais logradouros públicos dependerá de aprovação do projeto e licença prévia do órgão competente do município.
+
+
+Art. 20.
+
+Qualquer arruamento a ser implantado deve articular-se com as vias oficiais adjacentes assegurando a continuidade do Sistema Viário básico existente e projetado, conforme apresentado nos Anexo I e Anexo II, respectivamente.
+
+
+Art. 21.
+
+As vias deverão acompanhar as curvas de nível do terreno e evitar a transposição de linhas de drenagem natural ou córregos.
+
+
+Art. 22.
+
+Deve ser evitado a remoção de vegetação e a implantação de obras de terraplanagem junto a córregos e linhas de drenagem natural.
+
+
+Parágrafo único
+
+Entende-se por linhas de drenagem natural as feições topográficas em que ocorre uma concentração do fluxo das águas pluviais, independentemente de o fluxo ter caráter permanente ou não.
+
+
+Art. 23.
+
+É vedada a construção de vias públicas sem saída, salvo quando:
+
+
+I –
+
+inexistir solução técnica apropriada, segundo parecer do Conselho de Desenvolvimento Municipal de Corbélia - CONCIDADE, vinculado à Secretaria Municipal de Obras e Urbanismo do Poder Executivo Municipal;
+
+
+II –
+
+atendidas as exigências específicas do órgão competente da Secretaria Municipal de Obras e Urbanismo.
+
+
+Parágrafo único
+
+Quando aprovadas, as vias sem saída não poderão ultrapassar a 100 m (cem metros) de comprimento, devendo obrigatoriamente conter em seu final, um bolsão de retorno, ou praça de retorno, cuja forma e dimensões permitam a inscrição de um círculo de diâmetro mínimo de 20 m (vinte metros).
+
+
+Art. 24.
+
+As vias já implantadas e pavimentadas permanecerão com as dimensões existentes, salvo quando:
+
+
+I –
+
+representem prejuízo à circulação, segurança ou fluidez do tráfego;
+
+
+II –
+
+constituírem parte ou prolongamento das vias sujeitas a expansão.
+
+
+Parágrafo único
+
+Existindo necessidade de interligação viária entre bairros, cujo dimensionamento da via seja inferior ao disposto no Art. 10, este poderá ser feito ajustando ao perfil existente para o seu prolongamento por meio da aprovação do Conselho de Desenvolvimento Municipal de Corbélia - CONCIDADE, vinculado à Secretaria Municipal de Obras e Urbanismo do Poder Executivo Municipal.
+
+
+##### Seção IV — Dos Passeios Públicos ou Calçadas
+
+
+Art. 25.
+
+Os passeios públicos devem ser contínuos e não possuir degraus, rebaixamentos, buracos ou obstáculos que prejudiquem a circulação de pedestres seguindo ABNT NBR 9050:2020 e suas atualizações.
+
+
+Parágrafo único
+
+A manutenção dos passeios públicos será de responsabilidade dos proprietários dos lotes, cabendo ao Executivo Municipal efetuar a fiscalização de acordo com o Código de Obras.
+
+
+Art. 26.
+
+Nas esquinas, após o ponto de tangência da curvatura, deverá ser instalada rampa de acesso, conforme as normas especificadas pela ABNT NBR 9050:2020 e suas atualizações.
+
+
+Art. 27.
+
+Os passeios públicos deverão seguir a configuração geométrica, conforme o Anexo IX, seguindo a NBR 9050:2020 e demais exigências legais vigentes, contendo no mínimo:
+
+
+I –
+
+Faixa de serviço: dimensão mínima de 0,70 m (setenta centímetros), sendo preferencialmente revestida com grama;
+
+
+II –
+
+Faixa livre: inclinação transversal máxima de 3% (três por cento) e dimensão mínima de 1,20 m (um metro e vinte centímetros);
+
+
+III –
+
+Faixa de acesso: esta faixa é possível apenas em passeios públicos/calçadas com largura superior a 2,00 m (dois metros).
+
+
+Art. 28.
+
+A faixa livre deve conter sinalização tátil direcional e de alerta, conforme estabelecido na norma ABNT NBR 16537:2024 suas atualizações ou outra norma que vier a substituir.
+
+
+##### Seção V — Das Ciclovias ou Ciclofaixas
+
+
+Art. 29.
+
+A Administração Pública Municipal poderá instituir ou incentivar a implantação de ciclovias e/ou ciclofaixas nos trechos urbanos, de interesse turístico, nos acessos às zonas industriais, comerciais e institucionais, quando houver demanda existente e viabilidade técnica.
+
+
+Art. 30.
+
+No perímetro urbano, as ciclovias e ciclofaixas deverão prioritariamente ser implantadas ao longo das vias arteriais, vias coletoras e vias locais.
+
+
+§ 1º
+
+Compete ao município a responsabilidade pelo estudo destinado à implementação de ciclovias ou ciclofaixas em sua jurisdição;
+
+
+§ 2º
+
+A instalação da infraestrutura cicloviária poderá ocorrer ao longo da borda da via, integrada à faixa de rolamento ou inserida nos canteiros centrais.
+
+
+§ 3º
+
+A previsão de retirada dos estacionamentos de veículos dos canteiros centrais e sua substituição por ciclovias nas vias arteriais existentes serão regulamentadas por meio de decreto do Poder Executivo Municipal.
+
+
+Art. 31.
+
+largura mínima de cada ciclovia ou ciclofaixa deverá ser de:
+
+
+I –
+
+1,20 m (um metro e vinte centímetros) para pistas de sentido único de circulação;
+
+
+II –
+
+2,50 m (dois metros e cinquenta centímetros) para pistas de sentido duplo de circulação.
+
+
+Parágrafo único
+
+Admite-se largura útil de 0,80 m (oitenta centímetros) em pistas de sentido único e de 1,60 m (um metro e sessenta centímetros) em sentido duplo para os casos de interferências, tais como:
+
+
+I –
+
+obstáculos físicos fixos (árvores, postes de iluminação e outros);
+
+
+II –
+
+estreitamento de pista em pequenos trechos, desde que devidamente justificados por estudos de engenharia.
+
+
+Art. 32.
+
+Caso seja necessário, o Poder Público Municipal poderá incluir novas diretrizes de infraestrutura cicloviária a serem implantadas, com especial atenção para a interligação os bairros mais afastados ao centro da cidade.
+
+
+##### Seção VI — Das Rotatórias
+
+
+Art. 33.
+
+Na interseção de vias arteriais, deverá ser implantada uma rotatória de tráfego, cujas características permitam facilitar o tráfego de veículos em conformidade com as normas e disposições expressas pela Secretaria Nacional de Trânsito - SENATRAN.
+
+
+Parágrafo único
+
+A execução de rotatórias poderá ser dispensada, a critério Conselho de Desenvolvimento Municipal de Corbélia - CONCIDADE, vinculado à Secretaria Municipal de Obras e Urbanismo, em casos excepcionais, em que não seja possível a execução das mesmas, dada a existência de vias já consolidadas que inviabilizam tal benfeitoria.
+
+
+Art. 34.
+
+Fica determinado que as rotatórias devem apresentar um diâmetro externo inscrito, compreendido no intervalo de 30 a 40 m (trinta a quarenta metros), para as ilhas centrais.
+
+
+Parágrafo único
+
+O diâmetro inscrito mínimo de que trata o artigo poderá ser reduzido mediante comprovação técnica que ateste a perfeita funcionalidade da rotatória.
+
+
+Art. 35.
+
+Nas rotatórias deverão ser implantados os seguintes serviços:
+
+
+I –
+
+ajardinamento do interior das ilhas centrais;
+
+
+II –
+
+iluminação das ilhas centrais.
+
+
+Art. 36.
+
+O rebaixamento de guias destinado à entrada e saída de veículos em rotatórias só poderá ocorrer mediante autorização do órgão competente do Poder Executivo municipal após análise da finalidade da edificação, fluxo viário, dimensão da via, entre outros.
+
+
+##### Seção VII — Da Pavimentação das Vias
+
+
+Art. 37.
+
+A pavimentação das vias do Sistema Viário Urbano deverá atender as recomendações e normas do DER, DNIT e ABNT.
+
+
+Parágrafo único
+
+Fica vedada a pavimentação de vias desprovidas de sistema adequado de drenagem de águas pluviais.
+
+
+Art. 38.
+
+Para efeito de subsidiar a elaboração de projetos de pavimentação, as vias de circulação no Município, segundo a hierarquia estabelecida no Art. 4º desta Lei, correspondem à seguinte classificação quanto ao volume de tráfego:
+
+
+I –
+
+Tráfego Leve: Para as vias locais e rurais;
+
+
+II –
+
+Tráfego Médio: Para as vias coletoras;
+
+
+III –
+
+Tráfego Pesado: Para as vias arteriais, marginais e especiais.
+
+
+##### Seção VIII — Do Tráfego de Caminhões de Carga
+
+
+Art. 39.
+
+Fica terminantemente proibido o tráfego de veículos pesados, tais como caminhões, carretas, caminhões-tratores, treminhões e similares, carregados ou vazios, na região central do Município de Corbélia.
+
+
+§ 1º
+
+A proibição, prevista neste artigo, não alcança o tráfego de veículos pesados em missão exclusiva de entrega de produtos e mercadorias nos estabelecimentos comerciais da cidade.
+
+
+§ 2º
+
+Excetuam-se, também, da proibição contida neste artigo, os veículos pesados que, estiverem em busca de socorro mecânico ou de outro tipo de atendimento emergencial.
+
+
+Art. 40.
+
+Fica proibido o estacionamento em quaisquer vias públicas e ruas do perímetro urbano do Município de Corbélia, de veículo pesados que possuam mais de 14 m (quatorze metros) de comprimento, independentemente do Peso Bruto Total - PBT.
+
+
+Parágrafo único
+
+Os veículos pesados de estacionamento permitido, deverão estacionar respeitando uma distância mínima de 15 m (quinze metros) de cada esquina.
+
+
+Art. 41.
+
+Ficam criadas as denominadas “Rotas Alternativas para Veículos Pesados”, conforme Anexo X desta legislação, estabelecendo os caminhos permitidos para o tráfego de veículos proibidos de circular nas vias urbanas do município.
+
+
+Parágrafo único
+
+O Poder Público Municipal deverá fomentar a ação para a implantação de anel viário para desvio do fluxo pesado das rodovias que passam pelo Centro da cidade para fora da área central, conforme diretriz de traçado apresentada no Anexo X, devendo ser realizado estudo para implantação do projeto geométrico.
+
+
+##### Seção IX — Da Sinalização
+
+
+Art. 42.
+
+As vias urbanas do Município de Corbélia deverão ser sinalizadas obedecendo à ordem hierárquica, conforme disposto no Art. 4º no Mapa da Hierarquia Viária, Anexo I, integrante desta Lei.
+
+
+Art. 43.
+
+Em relação a sinalização viária, é necessário implementar:
+
+
+I –
+
+sinalização vertical e horizontal nos cruzamentos onde não houver semáforos indicando a preferência em relação às vias de hierarquias diferentes;
+
+
+II –
+
+sinalização vertical indicando as principais vias de acesso aos bairros, às saídas da cidade, aos terminais de ônibus urbanos e aos pontos de interesse turístico e econômico;
+
+
+III –
+
+sinalização horizontal, independentemente da existência de semáforos, indicando os pontos de travessia de pedestres.
+
+
+Art. 44.
+
+A sinalização das vias públicas é de responsabilidade do município, como estabelece o Código de Trânsito Brasileiro.
+
+
+§ 1º
+
+Toda e qualquer via pavimentada no município deverá receber sinalização de trânsito, segundo as exigências da legislação pertinente em vigor.
+
+
+§ 2º
+
+Nos novos loteamentos, a sinalização horizontal das vias pavimentadas será de responsabilidade dos loteadores, sendo executada conforme projeto previamente aprovado pelo órgão municipal competente.
+
+
+§ 3º
+
+O sentido de tráfego das vias será definido individualmente, dependendo do volume de tráfego
+
+
+##### Seção X — Da Iluminação Pública
+
+
+Art. 45.
+
+O projeto e a execução das instalações de iluminação pública, deverão obedecer, além das normas das concessionárias de energia elétrica e normas da Associação Brasileira de Normas Técnicas – ABNT, a regulamentação específica municipal sobre a Iluminação Pública em LED e/ou suas atualizações.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 46.
+
+As vias de circulação de novos loteamentos deverão garantir a continuidade do traçado das vias existentes nas adjacências da gleba, conforme diretrizes expedidas pelo Poder Público Municipal.
+
+
+Parágrafo único
+
+Antes da elaboração do projeto de loteamento, o interessado deverá solicitar as diretrizes ao Poder Público Municipal.
+
+
+Art. 47.
+
+As vias dos loteamentos deverão obedecer à hierarquia definida nesta Lei.
+
+
+Art. 48.
+
+Faz parte integrante desta Lei os seguintes anexos:
+
+
+I –
+
+Anexo I: Mapa da Hierarquia Viária;
+
+
+II –
+
+Anexo II: Mapa das Diretrizes Viárias;
+
+
+III –
+
+Anexo III: Modelo Perfil Via Marginal;
+
+
+IV –
+
+Anexo IV: Modelo Perfil Via Arterial;
+
+
+V –
+
+Anexo V: Modelo Perfil Via Coletora;
+
+
+VI –
+
+Anexo VI: Modelo Perfil Via Local;
+
+
+VII –
+
+Anexo VII: Parâmetros Geométricos das Vias;
+
+
+VIII –
+
+Anexo VIII: Mapa das Estradas Municipais Rurais;
+
+
+IX –
+
+Anexo IX: Configuração Geométrica dos Passeios Públicos;
+
+
+X –
+
+Anexo X: Mapa das Rotas Alternativas para Tráfego Pesado.
+
+
+Art. 49.
+
+Esta Lei entrará em vigor na data de sua publicação
+
+
+Art. 50.
+
+Revoga-se:
+
+
+I –
+
+o Art. 3º da Lei Municipal nº 317, de 1993;
+
+
+II –
+
+a Lei Municipal nº 779, de 09 de agosto de 2012.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 20 de dezembro de 2024, 64º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2186 de 20/12/2024, pág. 155-183.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1358/ta
+
+
+## Anexo I — MAPA DA HIERARQUIA VIÁRIA
+
+
+SEDE DO MUNICÍPIO DE CORBÉLIA
+
+
+DISTRITO DE NOSSA SENHORA DA PENHA
+
+Alteração feita pelo I - 04 - Lei Ordinária nº 1.330, de 22 de julho de 2025.
+
+
+DISTRITO DE OURO VERDE DO PIQUIRI
+
+Alteração feita pelo II - 04 - Lei Ordinária nº 1.330, de 22 de julho de 2025.
+
+
+## Anexo II — MAPA DAS DIRETRIZES VIÁRIAS
+
+
+SEDE DO MUNICÍPIO DE CORBÉLIA
+
+
+DISTRITO DE NOSSA SENHORA DA PENHA
+
+
+DISTRITO DE OURO VERDE DO PIQUIRI
+
+
+## Anexo III — MODELO PERFIL VIA MARGINAL
+
+
+## Anexo IV — MODELO PERFIL VIA ARTERIAL
+
+
+## Anexo V — MODELO PERFIL VIA COLETORA
+
+
+## Anexo VI — MODELO PERFIL VIA LOCAL
+
+
+## Anexo VII — PARÂMETROS GEOMÉTRICOS DAS VIAS
+
+
+<table><tbody><tr><td rowspan="2"><p><strong>Classificação das Vias</strong></p></td><td rowspan="2"><p><strong>Caixa Total da Via (m)</strong></p></td><td colspan="2"><p><strong>Caixa de Rolamento (m)</strong></p></td><td rowspan="2"><p><strong>Faixa de Estacionamento (m)</strong></p></td><td rowspan="2"><p><strong>Passeio Público (calçada) (m)</strong></p></td><td rowspan="2"><p><strong>Canteiro Central (m)</strong></p></td><td rowspan="2"><p><strong>Velocidade Máxima permitida (km/h)</strong></p></td></tr><tr><td><p><strong>Faixa de Rolamento I (m)</strong></p></td><td><p><strong>Faixa de Rolamento II (m)</strong></p></td></tr><tr><td><p>Marginal</p></td><td><p>12,0</p></td><td colspan="2"><p>6,0</p></td><td><p>3,0</p></td><td><p>3,0 de um lado da via</p></td><td><p>-</p></td><td><p>60</p></td></tr><tr><td><p>Arterial</p></td><td><p>30,0</p></td><td><p>7,5</p></td><td><p>7,5</p></td><td><p>2,5 de cada lado da via</p></td><td><p>3,0 de cada lado da via</p></td><td><p>4,0</p></td><td><p>40 para área central</p><p>60 fora da área central</p></td></tr><tr><td><p>Coletora</p></td><td><p>20,0</p></td><td><p>4,5</p></td><td><p>4,5</p></td><td><p>2,5 de cada lado da via</p></td><td><p>3,0 de cada lado da via</p></td><td><p>-</p></td><td><p>40</p></td></tr><tr><td><p>Local</p></td><td><p>14,0</p></td><td colspan="2"><p>9,0</p></td><td><p>-</p></td><td><p>2,5 de cada lado da via</p></td><td><p>-</p></td><td><p>30</p></td></tr><tr><td><p>Via Especial para Tráfego Pesado</p></td><td colspan="7"><p>De acordo com a classificação das respectivas vias </p></td></tr><tr><td colspan="8"><p><strong>VIA RURAL</strong></p></td></tr><tr><td><p><strong>Classificação das vias</strong></p></td><td colspan="4"><p><strong>Faixa Carroçável (m)</strong></p></td><td colspan="3"><p><strong>Faixa Lateral de Domínio (m)</strong></p></td></tr><tr><td><p>Estrada Principal</p></td><td colspan="4"><p>8,0 a 10,0</p></td><td colspan="3"><p>5,0</p></td></tr><tr><td><p>Estrada secundária</p></td><td colspan="4"><p>6,0 a 8,0</p></td><td colspan="3"><p>3,0</p></td></tr><tr><td><p>Estrada Vicinal e caminho</p></td><td colspan="4"><p>3,0 a 6,0</p></td><td colspan="3"><p>2,0</p></td></tr></tbody></table>
+
+
+## Anexo VIII — MAPA DAS ESTRADAS MUNICIPAIS RURAIS
+
+
+## Anexo IX — CONFIGURAÇÃO GEOMÉTRICA DOS PASSEIOS PÚBLICOS
+
+
+## Anexo X — MAPA DAS ROTAS ALTERNATIVAS PARA TRÁFEGO PESADOS

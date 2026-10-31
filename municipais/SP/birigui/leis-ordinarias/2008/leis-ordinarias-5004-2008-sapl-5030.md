@@ -1,0 +1,84 @@
+---
+titulo: "Lei Ordinária nº 5.004, de 13 de março de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "5004"
+data: "2008-03-13"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/5030"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1245/text"
+sha256_fonte: "94d41b015f1e7b6e4dfd3e74455cc15183c8e47669dd76239c512732c58803b6"
+sha256_texto: "4a46609decf68d15f0d59dd97988e6b82862614041fccb38d45514df362768db"
+capturado_em_fonte: "2026-10-27T18:25:28.832433-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 5.004, de 13 de março de 2008
+
+INSTITUI PRÊMIO POR ASSIDUIDADE E COMPORTAMENTO DO SERVIDOR DA CÂMARA MUNICIPAL DE BIRIGÜI, NOS TERMOS QUE ESPECIFICA.  
+Projeto de Lei nº 13/08. de autoria da Mesa Diretora da Câmara Municipal de Birigüi.
+
+
+Eu, **WILSON CARLOS RODRIGUES BORINI**, Prefeito Municipal de Birigüi, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o prêmio por assiduidade e comportamento ao Servidor da Câmara Municipal de Birigüi, a ser outorgado ao servidor legislativo que, durante o período de 12 (doze) meses de efetivo exercício, registrar atuação assídua, pontual e ilibada, nos termos desta Lei.
+
+
+Art. 2º.
+
+Não fará jus ao prêmio, mediante abatimento proporcional de seu valor ao número de meses em que se verificar a ocorrência, o funcionário que incidir em qualquer uma das seguintes hipóteses:
+
+
+I –
+
+incorrer em falta justificada ou injustificada ao trabalho, de qualquer espécie e sob qualquer alegação, inclusive as decorrentes de convocação, caso fortuito ou força maior, e licenças de qualquer espécie, exceto as licenças médicas;
+
+
+II –
+
+incorrer em atrasos não compensados dentro da respectiva jornada laboral;
+
+
+III –
+
+sofrer qualquer penalidade administrativa.
+
+
+Art. 3º.
+
+O período de aquisição do prêmio respectivo, dentro do qual serão aferidos os requisitos a serem cumpridos para sua integral fruição, corresponderá a 1º de dezembro de um ano até 30 de novembro do ano seguinte.
+
+
+Art. 4º.
+
+O prêmio será calculado a base de R$ 15,00 (quinze reais) por mês, perfazendo em 12 (doze) meses o valor total de R$ 180,00 (cento e oitenta reais), a ser pago sob a forma de vale alimentação no mês de dezembro do cada ano.
+
+
+Art. 5º.
+
+O valor do prêmio será apurado de forma proporcional, considerando o número de meses em que o funcionário cumprir os requisitos estabelecidos para a obtenção do beneficio.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a 1º de dezembro de 2.007.
+
+
+Prefeitura Municipal de Birigüi, aos treze de março de dois mil e oito.
+
+**WILSON CARLOS RODRIGUES BORlNl Prefeito Municipal**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigüi, na data supra, por afixação no local de costume.
+
+**EURICO POMPEU SOBRlNHO Secretário de Expediente e Comunicações Administrativas**
+

@@ -1,0 +1,70 @@
+---
+titulo: "Decreto nº 17.246, de 12 de abril de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.246"
+data: "2021-04-12"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/12941"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10695/text"
+sha256_fonte: "79663e2271f5df50527d8cb4f50f48fa1b51e6ca0a470dcf4ea344a0c4194718"
+sha256_texto: "10ed5e48e944b18171c4c5142314f6d76c564df3e4babe533ec376bb011cf2f5"
+capturado_em_fonte: "2026-10-27T20:34:19.345831-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 17.246, de 12 de abril de 2021
+
+*Abre no Orçamento do Município de Porto Velho para o exercício 2021, Crédito Adicional Extraordinário em favor da Secretaria Municipal de Saúde – SEMUSA, para fins de prevenção e enfrentamento à pandemia causada pelo novo Coronavírus – COVID-19.*
+
+
+**CONSIDERANDO** o artigo 167, § 3º da Constituição Federal de 1988 e o artigo 41, inciso III da Lei Federal n.º 4.320, de 17 de março de 1964, relativos aos procedimentos de abertura de crédito adicional extraordinário no âmbito da Administração Pública;
+
+**CONSIDERANDO** a Lei Federal n.º 13.979, de 6 de fevereiro de 2020, que “*Dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do novo Coronavírus*”, regulamentada pela Portaria n.º 356, de 11 de março de 2020, do Ministério da Saúde;
+
+**CONSIDERANDO** a Portaria n.º 188, de 3 de fevereiro de 2020, do Ministério da Saúde, que “Declara Emergência em Saúde Pública de importância Nacional (ESPIN) em decorrência da Infecção Humana pelo novo Coronavírus (2019-nCoV).
+
+**CONSIDERANDO** o Projeto de Decreto Legislativo PDL n° 182/20 de iniciativa do Governo do Estado de Rondônia e aprovado pela Assembléia Legislativa do Estado de Rondônia dia 17 de dezembro de 2020, que “*prorroga a decretação do estado de calamidade pública para até 30 de junho de 2021, para fins de prevenção e enfrentamento à pandemia causada pelo novo coronavírus, bem como o permissivo contido no artigo 65 da Lei de Responsabilidade Fiscal*”;
+
+**CONSIDERANDO** o Decreto Estadual nº. 25.782 de 30 de Janeiro de 2021, que “institui o Sistema de Distanciamento Social Controlado para fins de prevenção e de enfrentamento à epidemia causada pelo novo coronavírus – COVID-19, no âmbito do Estado de Rondônia, reitera a declaração de estado de calamidade pública em todo o território estadual e revoga os Decretos nº. 25.470, de 21 de outubro de 2020 de nº. 25.754, de 26 de Janeiro de 2021”; e o Decreto Estadual n.º 25.784 de 01 de Fevereiro de 2021, que “altera e acresce dispositivos ao Decreto nº 25.782/2021, que instituiu o Sistema de Distanciamento Social Controlado para fins de prevenção e de enfrentamento à epidemia causada pelo novo coronavírus - COVID-19, no âmbito do Estado de Rondônia, e dá outras providências”;
+
+**CONSIDERANDO** o Decreto Municipal n.º 17.168, de 09 de fevereiro de 2021, onde fica mantido *o disposto no art. 1° no Decreto n° 16.612, de 23 de março de 2020, que “ Declara Estado de Calamidade Pública em todo o território do município de Porto Velho para fins de prevenção e enfrentamento à pandemia causada pelo novo Coronavírus Covid-19, alterado pelo Decreto n° 16.620 de 06 de abril de 2020” e Decreto n° 16.673, de 06 de maio de 2020;*
+
+**CONSIDERANDO** o Ofício n° 1357/CFMS/GAB/SEMUSA, de 05 de Abril de 2021, o qual solicita a realocação orçamentária para atender as despesas com folha de pagamento emergencial e insalubridade;
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO,** no uso das atribuições que lhe confere os incisos IV do art. 87, da Lei Orgânica do Município de Porto Velho,
+
+**DECRETA:**
+
+**Art. 1º.** Fica aberto no Orçamento do Município de Porto Velho para o exercício 2020, Crédito Adicional Extraordinário no valor de **R$ 5.935.794,00 (cinco milhões, novecentos e trinta e cinco mil, setecentos e noventa e quatro reais)**, em favor da Secretaria Municipal de Saúde - SEMUSA, conforme a seguinte classificação orçamentária:
+
+<table><tbody><tr><td colspan="6"><p><strong>08.00 – SECRETARIA MUNICIPAL DE SAÚDE</strong></p></td></tr><tr><td colspan="6"><p><strong>08.31 – FUNDO MUNICIPAL DE SAÚDE</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA </strong><strong>R$</strong></p></td></tr><tr><td rowspan="5"><p>08.31.10.122.329.2.236</p></td><td rowspan="5"><p>Enfrentamento da Calamidade Pública decorrente do Coronavírus – COVID 19.</p></td><td rowspan="5"><p>SEG</p></td><td><p>3.1.90.04</p></td><td><p>1.002</p></td><td><p>1.228.794,00</p></td></tr><tr><td><p>3.1.90.11</p></td><td><p>1.002</p></td><td><p>4.070.000,00</p></td></tr><tr><td><p>3.1.90.13</p></td><td><p>1.002</p></td><td><p>430.000,00</p></td></tr><tr><td><p>3.3.90.46</p></td><td><p>1.002</p></td><td><p>143.000,00</p></td></tr><tr><td><p>3.3.90.49</p></td><td><p>1.002</p></td><td><p>64.000,00</p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>5.935.794,00</strong></p></td></tr></tbody></table>
+
+**Art. 2º.** Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Anulação de recursos no valor de R$ R$ 5.935.794,00 (Cinco milhões, novecentos e trinta e cinco mil, setecentos e noventa e quatro reais), Fonte de Recursos 1.002,observado os preceitos do Inciso III, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, conforme a seguinte classificação orçamentária:
+
+<table><tbody><tr><td colspan="6"><p><strong>08.00 – SECRETARIA MUNICIPAL DE SAÚDE</strong></p></td></tr><tr><td colspan="6"><p><strong>08.31 – FUNDO MUNICIPAL DE SAÚDE</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>ANULA R$</strong></p></td></tr><tr><td><p>08.31.10.122.336.2.217</p></td><td><p>Remuneração de Pessoal Ativo e Encargos Sociais</p></td><td><p>SEG</p></td><td><p>3.1.90.11</p></td><td><p>1.002</p></td><td><p><strong>5.935.794,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>5.935.794,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º.** Este Decreto entra em vigor na data da publicação.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

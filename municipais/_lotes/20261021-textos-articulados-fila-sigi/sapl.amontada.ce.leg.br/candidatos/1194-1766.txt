@@ -1,0 +1,49 @@
+Autoriza a abrir Crédito Adicional Especial ao vigente orçamento para os fins que indica e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA ESTADO DO CEARÁ.**  
+Faço saber que a Câmara Municipal de Amontada decretou e eu sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo Municipal autorizado abrir ao vigente Orçamento Geral do Município, o crédito adicional especial no valor de R$ 567.000,00 (quinhentos e sessenta e sete mil reais) destinado a atender despesas da Autarquia Municipal de Trânsito e Transporte Rodoviário e Urbano do Município de Amontada, distribuídos na forma do Anexo I, parte integrante da presente lei.
+
+
+Art. 2º.
+
+A fonte de recursos compensatória para abertura de Crédito Adicional Especial objeto do art. 1º desta Lei, em atendimento ao disposto no art. 177, V, da Constituição da República de 1988, será a anulação parcial de dotação orçamentária na forma do disposto no art. 43, § 1º. III da Lei No. 4.320/1964, na forma do Anexo II da presente Lei.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada, Estado do Ceará aos 14 dias do mês de maio do ano de dois mil e dezenove [2019].
+
+**VALDIR HERBSTER FILHO Prefeito Municipal**
+
+
+## Anexo I — CREDITO ESPECIAL
+
+
+**PARA: Autarquia Municipal de Trânsito e Transporte Rodoviário e Urbano de Amontada - AMTT**
+
+<table><tbody><tr><td><strong>Dotação Orçamentária </strong></td><td colspan="3"><strong>Descrição</strong></td></tr><tr><td>2501</td><td colspan="3"><strong>Autarquia Municipal de Trânsito e Transporte Rodoviário e Urbano de Amontada - AMTT</strong><br></td></tr><tr><td>26</td><td colspan="3">Transporte</td></tr><tr><td>122</td><td colspan="3">Administração Geral</td></tr><tr><td>2501.26.122.0100.2.078</td><td colspan="3">Manutenção das Atividades da Autarquia Municipal de Trânsito e Transporte - AMTT</td></tr><tr><td>3.0.00.00.00</td><td colspan="3">Despesas Correntes</td></tr><tr><td>3.1.00.00.00</td><td colspan="3">Pessoal e Encargos Sociais</td></tr><tr><td>3.1.90.00.00</td><td colspan="3">Aplicações Diretas</td></tr><tr><td>3.1.90.04.00</td><td>Contratação por Tempo Determinado</td><td>FONTE 1001000000</td><td>193.000,00</td></tr><tr><td>3.1.90.11.00</td><td>Vencimentos e Vantagens Fixas Pessoal Civil</td><td>FONTE 1001000000</td><td>180.000,00</td></tr><tr><td>3.1.90.13.00</td><td>Obrigações Patronais</td><td>FONTE 1001000000</td><td>38.600,00</td></tr><tr><td>3.1.91.00.00</td><td colspan="3">Aplicações Dir. entre Órgãos Integr. do Orçamento.</td></tr><tr><td>3.1.91.13.00</td><td>Obrigações Patronais</td><td>FONTE 1001000000</td><td>35.400,00</td></tr><tr><td>3.3.00.00.00</td><td colspan="3">Outras Despesas Correntes</td></tr><tr><td>3.3.90.00.00</td><td colspan="3">Aplicações Diretas</td></tr><tr><td>3.3.90.14.00</td><td>Diárias - Civil </td><td>FONTE 1001000000</td><td>5.000,00</td></tr><tr><td>3.3.90.30.00</td><td>Material de Consumo</td><td>FONTE 1001000000</td><td>10.000,00</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serv. de Terceiros Pessoa Física</td><td>FONTE 1001000000</td><td>10.000,00</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serv. de Terceiros Pessoa Jurídica</td><td>FONTE 1001000000</td><td>30.000,00</td></tr><tr><td>3.3.90.40.00</td><td>Serv. Tecnologia da Informação/Comunic. - PJ</td><td>FONTE 1001000000</td><td>5.000,00</td></tr><tr><td>3.3.90.47.00</td><td>Obrigações Tributárias e Contributivas</td><td>FONTE 1001000000</td><td>5.000,00</td></tr><tr><td>4.0.00.00.00</td><td colspan="3">Despesas de Capital</td></tr><tr><td>4.4.00.00.00</td><td colspan="3">Investimentos</td></tr><tr><td>4.4.90.00.00</td><td colspan="3">Aplicações Diretas</td></tr><tr><td>4.4.90.52.00</td><td>Equipamentos e Material Permanente</td><td>FONTE 1001000000</td><td>55.000,00</td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td><strong>FONTE 1001000000</strong></td><td><strong>567.000,00</strong></td></tr></tbody></table>
+
+
+## Anexo II — ANULAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA
+
+
+**DA: Secretaria das Obras e da Infraestrutura Urbana**
+
+<table><tbody><tr><td><strong>Dotação Orçamentária </strong></td><td colspan="3"><strong>Descrição</strong></td></tr><tr><td>1201</td><td colspan="3"><strong>Secretaria das Obras e da Infraestrutura Urbana</strong><br></td></tr><tr><td>1201.15.451.1002.1015</td><td colspan="3">Construção/Reforma/Ampliação de Infraestrutura Urbanística.</td></tr><tr><td>4.4.90.51.00</td><td>Obras e Instalações</td><td>FONTE 1001000000</td><td>100.000,00</td></tr><tr><td>1201.15.452.0900.1018</td><td colspan="3">Construção/Reforma/Ampliação de Cemitérios</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serv. de Terc. Pessoa Jurídica</td><td>FONTE 1001000000</td><td>55.000,00</td></tr><tr><td>1201.26.451.1002.1.029</td><td colspan="3">Construção e Ampliação de Vias Urbanas</td></tr><tr><td>4.4.90.51.00</td><td>Obras e Instalações</td><td>FONTE 1001000000</td><td>100.000,00</td></tr><tr><td>1201.26.782.1801.1.030</td><td colspan="3">Construção e Ampliação de Sistema Viário do Município</td></tr><tr><td>4.4.90.51.00</td><td>Obras e Instalações</td><td>FONTE 1001000000</td><td>150.000,00</td></tr><tr><td>1201.04.122.0100.2.058</td><td colspan="3"> Manutenção das Atividades de Secretaria de Infraestrutura e Serviços Publicos</td></tr><tr><td>3.3.90.35.00</td><td>Serviços de Consultoria </td><td>FONTE 1001000000</td><td>25.000.00</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e Restituições</td><td>FONTE 1001000000</td><td>10.000,00</td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td><strong>FONTE 1001000000</strong></td><td><strong>440.000,00</strong><br></td></tr></tbody></table>
+
+
+**DA: Secretaria da Cultura, Esporte e Lazer**
+
+<table><tbody><tr><td><strong>Dotação Orçamentária </strong></td><td colspan="3"><strong>Descrição</strong></td></tr><tr><td>2301</td><td colspan="3"><strong>Secretaria da Cultura, Esporte e Lazer</strong><br></td></tr><tr><td>2301.13.391.0700.1.037</td><td colspan="3">Construção, Reforma, Manutenção e Ampliação de Espaços Culturais</td></tr><tr><td>3.3.90.30.00</td><td>Material de Consumo</td><td>FONTE 1001000000</td><td>5.000,00</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serv. de Terc. Pessoa Física</td><td>FONTE 1001000000</td><td>17.000,00</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serv. de Terc. Pessoa Jurídica</td><td>FONTE 1001000000</td><td>20.000,00</td></tr><tr><td>4.4.90.52.00</td><td>Equipamentos e Material Permanente</td><td>FONTE 1001000000</td><td>10.000,00</td></tr><tr><td>4.4.90.61.00 </td><td>Aquisição de Imóveis</td><td>FONTE 1001000000</td><td>10.000,00</td></tr><tr><td>2301.04.122.0100.2.073</td><td colspan="3">Manutenção das Atividades de Secretaria da Cultura, do Esporte e do Lazer</td></tr><tr><td>3.3.90.31.00</td><td>Premiações Culturais, Artísticas, Cientificas e Outras</td><td>FONTE 1001000000</td><td>40.000,00</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e Restituições</td><td>FONTE 1001000000</td><td>10.000,00</td></tr><tr><td>2301.27.122.0100.2.075</td><td colspan="3">Apoio as Ações de Incentivo ao Esporte<br></td></tr><tr><td>3.3.90.31.00</td><td>Premiações Culturais, Artísticas, Cientificas e Outras</td><td>FONTE 1001000000</td><td>10.000,00</td></tr><tr><td>3.3.90.33.00</td><td>Passagens e Despesas com Locomoção</td><td>FONTE 1001000000</td><td>5.000,00</td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td><strong>FONTE 1001000000</strong></td><td><strong>567.000,00</strong><br></td></tr></tbody></table>
+
+
+**VALDIR HERBSTER FILHO Prefeito Municipal**

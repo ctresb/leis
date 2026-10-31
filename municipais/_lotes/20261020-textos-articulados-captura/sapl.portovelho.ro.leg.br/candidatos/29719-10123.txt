@@ -1,0 +1,1701 @@
+Institui o Marco Legal de Liberdade Econômica do Município de Porto Velho, estabelece normas para os atos públicos de liberação de atividades econômicas, dispõe sobre a fiscalização integrada de policiamento urbano, e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO** usando da atribuição que lhe é conferida no inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho.
+
+Faço saber que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI COMPLEMENTAR:**
+
+
+### TÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+#### CAPÍTULO I — DO OBJETO E DO ÂMBITO DE APLICAÇÃO
+
+
+Art. 1º.
+
+Esta Lei Complementar institui o Marco Legal de Liberdade Econômica do Município de Porto Velho, estabelecendo normas gerais e procedimentos de fiscalização de poder de polícia urbanístico, ambiental e sanitário e de licenciamento de atividades econômicas, com ou sem fins lucrativos, exercidas em caráter permanente ou temporário no território do Município.
+
+
+§ 1º
+
+O disposto nesta Lei aplica-se a todos os órgãos e entidades da Administração Pública Municipal direta e indireta envolvidos nos processos de licenciamento e fiscalização de policiamento urbano, incluindo, mas não se limitando, às áreas de posturas urbanas, meio ambiente, vigilância sanitária, obras e transportes, e nas demais áreas do ordenamento urbano e de ordem pública.
+
+
+§ 2º
+
+As legislações municipais de policiamento urbano, notadamente os códigos de meio ambiente, de vigilância sanitária, de posturas, de obras e demais códigos de poder de polícia, bem como suas alterações posteriores à vigência desta Lei Complementar, deverão observar as normas gerais e os procedimentos previstos nesta Lei Complementar, que constitui a base regulatória orientadora para o licenciamento e a fiscalização integrados no Município.
+
+
+§ 3º
+
+Esta Lei Complementar e as legislações municipais devem ainda observar a Lei Estadual de Rondônia nº 5.918, de 26 de novembro de 2024, que institui a Declaração de Direitos de Liberdade Econômica do Estado de Rondônia, e seu regulamento, assim como devem observar a Lei Federal nº 13.874, de 20 de setembro de 2019, que institui a Declaração de Liberdade Econômica e estabelece garantias de livre mercado em âmbito nacional, e seu regulamento.
+
+
+§ 4º
+
+Aplicam-se subsidiariamente a esta Lei Complementar, no que couber e não conflitar com suas disposições, a Lei Federal nº 11.598, de 3 de dezembro de 2007 (REDESIM) e as resoluções do Comitê para Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (CGSIM) e do Comitê Municipal para a Simplificação do Registro e da Legalização de Empresas, Negócios e Atividades de Porto Velho (COMSIM), inclusive aquelas editadas após a vigência desta Lei.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E DIRETRIZES
+
+
+Art. 2º.
+
+O licenciamento e a fiscalização de policiamento urbano no Município de Porto Velho reger-se-ão pelos seguintes princípios e diretrizes:
+
+
+I –
+
+da liberdade econômica como garantia no exercício de atividades econômicas no Município;
+
+
+II –
+
+da presunção de boa-fé do empreendedor e do cidadão perante o poder público municipal;
+
+
+III –
+
+da intervenção subsidiária e excepcional do Município sobre o exercício de atividades econômicas;
+
+
+IV –
+
+do reconhecimento da vulnerabilidade do particular perante o Município;
+
+
+V –
+
+da simplificação e desburocratização dos processos de licenciamento e fiscalização;
+
+
+VI –
+
+da unicidade e da celeridade procedimental no licenciamento e na fiscalização integrados;
+
+
+VII –
+
+da fiscalização orientadora e da primazia da regularização sobre a sanção;
+
+
+VIII –
+
+do licenciamento plenamente vinculado à legislação e com discricionariedade controlada;
+
+
+IX –
+
+da previsibilidade e da segurança jurídica;
+
+
+X –
+
+da proporcionalidade e da razoabilidade dos atos de fiscalização e das sanções aplicadas;
+
+
+XI –
+
+da análise de impacto regulatório para novas obrigações;
+
+
+XII –
+
+da concentração e codificação normativa em códigos temáticos;
+
+
+XIII –
+
+do tratamento diferenciado, simplificado e favorecido para o Microempreendedor Individual (MEI), a Microempresa (ME) e a Empresa de Pequeno Porte (EPP), em conformidade com a Lei Complementar Municipal nº 739, de 7 de dezembro de 2018;
+
+
+XIV –
+
+da inovação tecnológica e da digitalização como padrão nos procedimentos de licenciamento e fiscalização;
+
+
+XV –
+
+do prazo como direito do empreendedor, com ônus da inércia recaindo sobre a Administração Pública.
+
+
+Parágrafo único
+
+A fiscalização terá caráter predominantemente preventivo e orientador, priorizando a educação, a regularização e a cooperação, sem prejuízo da responsabilização por condutas que causem danos à saúde, ao meio ambiente ou à ordem urbanística.
+
+
+#### CAPÍTULO III — DAS DEFINIÇÕES
+
+
+Art. 3º.
+
+Para os fins desta Lei Complementar, considera-se:
+
+
+I –
+
+Atividade Econômica: toda atividade, com ou sem fins lucrativos, exercida por pessoa física ou jurídica, devidamente classificada pelo Concla/IBGE;
+
+
+II –
+
+Alvará de Funcionamento: documento que atesta a conformidade legal e autoriza o funcionamento da atividade econômica;
+
+
+III –
+
+Atos Públicos de Liberação: as licenças, autorizações, permissões e os alvarás exigidos pela legislação municipal para o exercício de atividade econômica ou para construção, habitação, instalação, operação e demais modalidades de licenças, autorizações e permissões;
+
+
+IV –
+
+Classificação de Risco: o critério utilizado para definir o nível de intervenção estatal necessário para o início e a manutenção de uma atividade econômica, classificada como de baixo, médio ou alto risco;
+
+
+V –
+
+Licenciamento Integrado Municipal (LIM): o conjunto de regras e procedimentos que integram os órgãos e entidades municipais responsáveis pelo licenciamento de atividades econômicas;
+
+
+VI –
+
+Plataforma Tecnológica de Integração: o sistema informatizado que integra e centraliza todos os procedimentos de licenciamento e fiscalização de policiamento urbano no território municipal, inclusive o contencioso administrativo e os demais serviços afetos à ordem urbana;
+
+
+VII –
+
+Policiamento Urbano: o conjunto de atividades administrativas de fiscalização e controle exercidas pelo Município, no exercício do poder de polícia administrativa sobre a ordem urbana, nos termos desta Lei Complementar;
+
+
+VIII –
+
+SUFIS: a Superintendência Municipal de Fiscalização Integrada, órgão central do LIM, integrante da Administração Direta Municipal, vinculado à Secretaria de Governo (SGOV), com competências definidas em lei específica;
+
+
+IX –
+
+Consulta Prévia de Viabilidade Locacional: procedimento gratuito e automatizado que permite ao empreendedor verificar a compatibilidade de sua atividade com a zona de uso definida na legislação municipal de uso e ocupação do solo;
+
+
+X –
+
+Autodeclaração de Responsabilidade: declaração firmada pelo empreendedor, e, quando exigido, por profissional técnico, atestando o conhecimento e o cumprimento das exigências legais para o exercício de sua atividade, com efeito autorizativo nos casos previstos nesta Lei Complementar; e
+
+
+XI –
+
+Autorização de Funcionamento Condicionada (AFC): modalidade de ato público de liberação emitido para atividades exercidas em edificação com pendência de regularização edilícia e fundiária, sujeito às condições e ao prazo previstos nesta Lei Complementar.
+
+
+### TÍTULO II — DO LICENCIAMENTO INTEGRADO MUNICIPAL (LIM)
+
+
+#### CAPÍTULO I — DO SISTEMA DE LICENCIAMENTO INTEGRADO
+
+
+##### Seção I — Da Coordenação e da Gestão do Sistema
+
+
+Art. 4º.
+
+Fica instituído o Licenciamento Integrado Municipal (LIM), sob a responsabilidade e coordenação da Superintendência Municipal de Fiscalização Integrada (SUFIS), com o objetivo de integrar, simplificar e agilizar os processos de licenciamento e de fiscalização de atividades econômicas e de ordem urbana.
+
+
+§ 1º
+
+A SUFIS atuará como órgão central do LIM, responsável pela coordenação e execução do licenciamento e da fiscalização integrados, pela resolução de conflitos de competência e pela operacionalização da plataforma tecnológica.
+
+
+§ 2º
+
+As vistorias em processos de licenciamento e as ações de fiscalização de policiamento urbano serão executadas pelos fiscais municipais lotados na SUFIS, de forma integrada e multidisciplinar.
+
+
+§ 3º
+
+A análise técnica documental e a instrução dos processos de licenciamento serão realizadas, preferencialmente de forma automatizada, com a supervisão ou validação pelos analistas setoriais lotados na SUFIS, observadas as normas técnicas de cada área de competência e a responsabilidade técnica do respectivo órgão.
+
+
+##### Seção II — Da Plataforma Tecnológica de Integração
+
+
+Art. 5º.
+
+O LIM será operacionalizado por meio de uma plataforma tecnológica de integração, que centralizará todos os requerimentos, análises, infrações e penalidades, recursos, comunicações e emissões de atos públicos de liberação e de fiscalização e demais atos e procedimentos de policiamento urbano.
+
+
+§ 1º
+
+A plataforma tecnológica será gerida tecnicamente pela Superintendência Municipal de Tecnologia da Informação e Pesquisa (SMTI), sob a coordenação operacional e funcional da SUFIS, que definirá fluxos, prazos automatizados, regras de silêncio positivo e requisitos de integração plena com a REDESIM, garantindo emissão automática de alvarás para atividades de baixo e médio risco e, quando couber, na de alto risco.
+
+
+§ 2º
+
+A plataforma deverá ser integrada ao sistema da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (REDESIM), ao sistema de Georreferenciamento Municipal, ao Sistema Tributário Municipal e aos demais sistemas pertinentes ao bom funcionamento da plataforma.
+
+
+§ 3º
+
+Todas as empresas, negócios e atividades estabelecidas no Município cujo contrato social, estatuto ou documento equivalente deva ser registrado na Junta Comercial do Estado de Rondônia (JUCER), e todas as sociedades de advogados cujo registro se dê pela Ordem dos Advogados do Brasil (OAB), bem como registrados nos cartórios, devem, necessariamente, solicitar a abertura, a alteração ou a baixa de suas atividades ou negócios exclusivamente por meio do Sistema Integrador, ou outro que vier a substituí-lo.
+
+
+§ 4º
+
+O empreendedor e o cidadão realizarão todas as solicitações e acompanharão os processos de licenciamento e fiscalização exclusivamente por meio da plataforma, que servirá como canal único de comunicação com a Administração Pública Municipal.
+
+
+§ 5º
+
+A plataforma deverá prover ao empreendedor e ao cidadão, de forma transparente, objetiva e inequívoca, informações sobre a classificação de risco de sua atividade, os requisitos a serem cumpridos, os prazos, os custos, o andamento de seus processos e demais informações necessárias.
+
+
+§ 6º
+
+A análise dos processos de licenciamento na plataforma seguirá um fluxo automatizado e, quando depender de intervenção humana, será realizada pelos analistas setoriais lotados na SUFIS, que não possuem poder de polícia fiscalizatória.
+
+
+§ 7º
+
+Nos casos em que a atividade depender de múltiplas licenças ou autorizações municipais, a plataforma poderá emitir documento único digital com QR Code de autenticidade, consolidando todos os atos de liberação, na forma definida em regulamento.
+
+
+#### CAPÍTULO II — DOS ATOS CONSULTIVOS E PREPARATÓRIOS
+
+
+##### Seção I — Da Consulta Prévia de Viabilidade Locacional
+
+
+Art. 6º.
+
+É assegurado ao empreendedor o direito de realizar, de forma gratuita, prévia e automatizada, consulta de viabilidade locacional para verificar a compatibilidade da atividade pretendida com a zona de uso definida na legislação municipal de uso e ocupação do solo, antes do requerimento de qualquer ato público de liberação.
+
+
+§ 1º
+
+A consulta será realizada exclusivamente por meio da plataforma tecnológica, mediante o cruzamento entre a atividade exercida no local e o zoneamento vigente, e demais dados pertinentes, e deverá ser respondida automaticamente pelo sistema ou, nos casos que exigirem análise humana, em até 5 (cinco) dias úteis.
+
+
+§ 2º
+
+O resultado favorável da consulta de viabilidade locacional vincula a Administração Municipal pelo prazo de 12 (doze) meses, durante o qual não poderá ser invocada, em desfavor do empreendedor, incompatibilidade locacional superveniente decorrente de ato do próprio Poder Público.
+
+
+§ 3º
+
+A atividade econômica exercida em residência por meios exclusivamente virtuais ou intelectuais é considerada compatível com qualquer zona de uso definida na legislação de uso e ocupação do solo, independentemente da categoria de uso atribuída ao CNAE, quando compatível, desde que:
+
+
+I –
+
+não haja atendimento presencial de clientes;
+
+
+II –
+
+ão haja recebimento, estocagem, expedição ou produção de mercadorias;
+
+
+III –
+
+não haja manipulação de substâncias ou materiais sujeitos a controle sanitário ou ambiental, salvo se enquadradas como atividades de baixo risco;
+
+
+IV –
+
+a atividade não gere ruído, odor ou vibração perceptíveis além dos limites do imóvel.
+
+
+§ 4º
+
+Nos casos previstos no § 3º deste artigo, o exercício da atividade não configura alteração de uso do imóvel para fins da legislação urbanística, sendo dispensada a consulta de viabilidade locacional.
+
+
+§ 5º
+
+Os casos omissos referentes à análise de viabilidade de que trata esta Lei Complementar e demais legislações pertinentes deverão ser apreciados pela SUFIS, ouvido o COMSIM.
+
+
+##### Seção II — Da Classificação de Risco das Atividades Econômicas
+
+
+Art. 7º.
+
+As atividades econômicas são classificadas, quanto ao grau de risco, em:
+
+
+I –
+
+Baixo Risco (Nível I): atividades que, por sua natureza, não geram impacto significativo à segurança, à saúde, ao meio ambiente e à ordem urbanística, dispensadas de atos públicos de liberação para o seu funcionamento;
+
+
+II –
+
+Médio Risco (Nível II): atividades que, por sua natureza, permitem o início da operação mediante a apresentação de autodeclaração de responsabilidade, sujeitas à fiscalização posterior;
+
+
+III –
+
+Alto Risco (Nível III): atividades que, por sua natureza, exigem vistoria prévia e análise documental para a obtenção de atos públicos de liberação antes do início das atividades, observadas as regras de mitigação de risco previstas nesta Lei.
+
+
+§ 1º
+
+A classificação de risco das atividades econômicas será definida com ampla participação da sociedade civil organizada, observadas as resoluções do CGSIM e as deliberações do Comitê Municipal para a Simplificação de Registro e da Legalização de Empresas, Negócios e Atividades (COMSIM) do Município de Porto Velho.
+
+
+§ 2º
+
+É vedada a utilização da classificação de risco como critério para a instituição, majoração ou exigência de tributos ou preços públicos, devendo a classificação ter finalidade exclusivamente regulatória de proteção à saúde, ao meio ambiente e à segurança.
+
+
+Art. 8º.
+
+A matriz de classificação de risco das atividades econômicas será regulamentada por decreto do Poder Executivo, no prazo de 90 (noventa) dias contados da publicação desta Lei Complementar, observando:
+
+
+I –
+
+critérios quantitativos e estatísticos para aferição do grau de risco, conforme exigido pelo art. 4º do Decreto Federal nº 10.178, de 18 de dezembro de 2019;
+
+
+II –
+
+as resoluções do Comitê para Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios (CGSIM);
+
+
+III –
+
+as deliberações do Comitê Municipal para a Simplificação de Registro e da Legalização de Empresas, Negócios e Atividades (COMSIM);
+
+
+IV –
+
+a publicidade da metodologia empregada e da lista de atividades classificadas por grau de risco, em portal de dados abertos;
+
+
+V –
+
+a meta de dispensa de atos públicos de liberação para, no mínimo, 50% (cinquenta por cento) das atividades econômicas classificadas pelo CNAE exercidas no Município.
+
+
+§ 1º
+
+A matriz de risco será revisada anualmente pelo COMSIM, mediante consulta pública, com base em dados estatísticos de fiscalização e sinistralidade.
+
+
+§ 2º
+
+Para as atividades econômicas não contempladas na matriz de risco municipal, aplicar-se-á subsidiariamente a classificação de risco definida nas resoluções do CGSIM ou na legislação estadual, adotando-se a que for mais favorável ao empreendedor.
+
+
+§ 3º
+
+A revisão anual de que trata o § 1º deste artigo considerará as atualizações das classificações federal e estadual como subsídio técnico, sem vinculação automática, preservada a autonomia municipal na definição dos critérios locais.
+
+
+§ 4º
+
+A matriz de classificação de risco integrará o LIM e será determinada pela convergência das classificações dos órgãos municipais competentes, observadas as seguintes regras:
+
+
+I –
+
+as atividades econômicas que não se enquadrem no âmbito de competência da vigilância sanitária nem da fiscalização ambiental são presumidas de baixo risco, dispensadas de atos públicos de liberação;
+
+
+II –
+
+o grau de risco final da atividade corresponderá à classificação mais elevada dentre as atribuídas pelos órgãos municipais competentes;
+
+
+III –
+
+na existência de diversidade de graus de risco entre as atividades exercidas no mesmo estabelecimento, prevalecerá a de maior grau de risco para fins de licenciamento integral, sendo permitido, contudo, o início imediato das atividades de baixo e médio risco.
+
+
+#### CAPÍTULO III — DOS ATOS PÚBLICOS DE LIBERAÇÃO
+
+
+##### Seção I — Da Dispensa para Atividades de Baixo Risco
+
+
+Art. 9º.
+
+As atividades classificadas como de baixo risco estão dispensadas de todos os atos públicos de liberação para o seu pleno e contínuo funcionamento, com emissão imediata e automática do respectivo ato de dispensa pela plataforma tecnológica, na forma definida em regulamento.
+
+
+§ 1º
+
+A dispensa de que trata o caput não desobriga o empreendedor de cumprir as normas urbanísticas, ambientais, sanitárias e de segurança aplicáveis, sujeitando se à fiscalização permanente, nem dispensa ou isenta de pagamentos de tributos ou tarifas quando previstos na legislação pertinente.
+
+
+§ 2º
+
+A dispensa municipal de que trata o caput não substitui nem desobriga o empreendedor do cumprimento das exigências de segurança contra incêndio e pânico previstas na legislação estadual, de competência do Corpo de Bombeiros Militar do Estado de Rondônia.
+
+
+§ 3º
+
+Para o Microempreendedor Individual (MEI), a dispensa prevista no caput é vinculada automaticamente ao Portal do Empreendedor do Governo Federal, dispensando requerimento adicional junto ao Município.
+
+
+##### Seção II — Do Funcionamento para Atividades de Médio Risco
+
+
+Art. 10.
+
+Para as atividades classificadas como de médio risco, o funcionamento da atividade será imediato, com emissão do ato público de liberação de forma automática pela plataforma tecnológica, mediante o aceite de termo de autodeclaração de responsabilidade e a respectiva aprovação do Corpo de Bombeiros Militar do Estado de Rondônia.
+
+
+§ 1º
+
+Na autodeclaração, o empreendedor atesta o conhecimento e o cumprimento das exigências legais para o exercício de sua atividade, sobretudo as obrigações ambientais, sanitárias e de segurança, sob as penas da lei, ficando sujeito à fiscalização permanente.
+
+
+§ 2º
+
+Para atividades de médio risco exercidas em estabelecimento fixo cuja área edificada destinada ao exercício da atividade econômica seja igual ou inferior àquela definida para o processo simplificado do Corpo de Bombeiros Militar do Estado de Rondônia, o empreendedor poderá, alternativamente, apresentar laudo atestando as condições de segurança, acessibilidade e salubridade do imóvel, com a respectiva Anotação de Responsabilidade Técnica (ART) ou Registro de Responsabilidade Técnica (RRT) de profissional legalmente habilitado.
+
+
+§ 3º
+
+A apresentação do laudo de que trata o § 2º não exime o empreendedor de obter os atos públicos de liberação de atividade relativos ao Corpo de Bombeiros Militar do Estado de Rondônia.
+
+
+§ 4º
+
+A não obtenção do ato público de liberação de que tratam os §§ 2º e § 3º deste artigo enseja a cassação do Alvará de Funcionamento, sem prejuízo das medidas administrativas aplicáveis.
+
+
+§ 5º
+
+O ato público de liberação emitido para atividade de médio risco possui caráter condicionado, perdendo automaticamente a eficácia caso o estabelecimento seja interditado ou tenha seu licenciamento indeferido pelo órgão estadual competente em matéria de segurança contra incêndio e pânico.
+
+
+§ 6º
+
+Para o Microempreendedor Individual (MEI), a emissão do ato público de liberação é automática, vinculada ao Portal do Empreendedor do Governo Federal, dispensando requerimento adicional junto ao Município.
+
+
+§ 7º
+
+O profissional legalmente habilitado que subscrever laudo técnico com informação falsa ou gravemente inexata responde solidariamente pelos danos causados, devendo a SUFIS comunicar de ofício o respectivo conselho profissional para apuração de responsabilidade disciplinar, sem prejuízo das sanções administrativas, civis e penais cabíveis.
+
+
+##### Seção III — Do Funcionamento para Atividades de Alto Risco
+
+
+Art. 11.
+
+Para as atividades classificadas como de alto risco, observadas as regras de mitigação previstas nesta Lei, todos os atos públicos de liberação deverão ser obtidos previamente ao início da operação, após a análise documental e a realização de vistorias.
+
+
+§ 1º
+
+A tramitação das análises técnicas dar-se-á de forma paralela e simultânea na plataforma tecnológica, vedada a exigência de conclusão de uma etapa como condição para o início de outra, salvo dependência técnica objetivamente justificada.
+
+
+§ 2º
+
+Os prazos máximos para análise e decisão em processos de alto risco são:
+
+
+I –
+
+45 (quarenta e cinco) dias para atividades de alta complexidade técnica;
+
+
+II –
+
+20 (vinte) dias para renovações de alvarás já concedidos.
+
+
+§ 3º
+
+Decorrido o prazo previsto no § 2º sem manifestação conclusiva da Administração, atestada por recibo específico da plataforma, o empreendedor poderá iniciar suas atividades mediante autodeclaração de responsabilidade, não podendo ser penalizado enquanto não houver vistoria e manifestação conclusiva sobre seu processo.
+
+
+Art. 12.
+
+Fica instituída a Autorização de Funcionamento Condicionada (AFC), modalidade de ato público de liberação que permite o funcionamento de atividade econômica em edificação com pendência de regularização edilícia ou fundiária, desde que a atividade seja compatível com a zona de uso e a edificação não apresente risco estrutural.
+
+
+§ 1º
+
+O AFC poderá ser concedido mediante:
+
+
+I –
+
+laudo de segurança estrutural com Anotação de Responsabilidade Técnica (ART) ou Registro de Responsabilidade Técnica (RRT) de engenheiro ou arquiteto legalmente habilitado;
+
+
+II –
+
+comprovação de que o processo de regularização edilícia ou fundiária está em andamento perante o órgão competente;
+
+
+III –
+
+atendimento a todas as demais exigências de licenciamento aplicáveis à atividade.
+
+
+§ 2º
+
+O AFC terá validade de 2 (dois) anos, renovável por igual período uma única vez, mediante comprovação da continuidade do processo de regularização.
+
+
+§ 3º
+
+O AFC será cassado nas seguintes hipóteses:
+
+
+I –
+
+constatação de risco estrutural pela SUFIS ou por órgão técnico competente;
+
+
+II –
+
+abandono ou arquivamento do processo de regularização edilícia ou fundiária sem justificativa;
+
+
+III –
+
+expiração do prazo máximo de vigência sem obtenção da regularização definitiva.
+
+
+#### CAPÍTULO IV — DA VALIDADE E RENOVAÇÃO DO ALVARÁ DE FUNCIONAMENTO
+
+
+Art. 13.
+
+O Alvará de Funcionamento e os demais atos públicos de liberação vinculados ao exercício contínuo de atividade econômica terão prazo de validade correspondente ao maior prazo dentre as licenças ambientais ou sanitárias exigidas para a atividade, nos termos definidos em regulamento.
+
+
+§ 1º
+
+Para atividades de baixo risco, o ato de dispensa tem validade indeterminada, cessando seus efeitos apenas em caso de alteração das condições essenciais de seu deferimento.
+
+
+§ 2º
+
+Os atos públicos de liberação perderão sua validade e deverão ser solicitados novamente caso ocorra a expiração do seu prazo ou quando ocorra alteração das condições essenciais de seu deferimento, tais como na atividade exercida, no endereço, no tipo de unidade, na forma de atuação e nas demais condições que alteram a natureza do funcionamento.
+
+
+§ 3º
+
+A renovação dos atos públicos de liberação para atividades de médio risco será processada de forma automatizada pela plataforma tecnológica, condicionada à adimplência tributária e à ausência de penalidades administrativas definitivas de natureza grave ou gravíssima nos últimos 2 (dois) anos.
+
+
+§ 4º
+
+requerer a renovação pela plataforma tecnológica, observado o procedimento regular de licenciamento para atividades de médio risco, com emissão do ato público de liberação mediante autodeclaração de responsabilidade, ressalvada a exigência de regularização prévia dos débitos tributários vencidos ou do cumprimento integral das penalidades aplicadas.
+
+
+§ 5º
+
+A renovação automática de que trata o § 3º não dispensa o cumprimento de condicionantes periódicas previstas na legislação ambiental ou sanitária aplicável, devendo a plataforma tecnológica alertar o empreendedor sobre as obrigações pendentes e condicionar a emissão do ato renovado à comprovação do seu atendimento.
+
+
+### TÍTULO III — DA FISCALIZAÇÃO DE POLICIAMENTO URBANO
+
+
+#### CAPÍTULO I — DA FISCALIZAÇÃO ORIENTADORA E DA AÇÃO FISCAL
+
+
+Art. 14.
+
+A fiscalização de policiamento urbano terá caráter orientador, buscando a regularização e a conformidade com a legislação.
+
+
+§ 1º
+
+A ação fiscal será exercida de forma integrada e conjunta pelos fiscais municipais lotados na SUFIS, que detêm o poder para aplicar as sanções previstas em lei, como multas, interdições, apreensões, embargos e outras penalidades, mediante prévia e válida designação da autoridade competente da SUFIS, com definição do escopo das ações.
+
+
+§ 2º
+
+A aplicação de restrição ao direito de funcionar, por qualquer das fiscalizações de poder de polícia de que trata esta Lei Complementar, deverá ser precedida de intimação preliminar, com prazo suficiente, não inferior a 30 (trinta) dias, para sanar as irregularidades, salvo nos casos de iminente risco à coletividade.
+
+
+§ 3º
+
+Nos casos de iminente risco à coletividade, a interdição sumária será admitida exclusivamente em situações de risco imediato e grave à saúde pública, à segurança das pessoas ou ao meio ambiente, devidamente comprovado por elementos técnicos objetivos e documentados, tais como laudos, relatórios, registros fotográficos ou audiovisuais, elaborados por profissional legalmente habilitado.
+
+
+§ 4º
+
+Excepcionalmente, dispensa-se a comprovação por profissional legalmente habilitado apenas quando a situação de risco for iminente, grave, manifesta e perceptível, e comprovada por registro audiovisual objetivo, devendo o laudo técnico confirmatório ser emitido no prazo máximo de 12 (doze) horas pelo setor ou órgão técnico competente, sob pena de invalidação da interdição, sem prejuízo da responsabilização funcional.
+
+
+§ 5º
+
+O ato de interdição sumária deverá indicar expressamente a situação de risco constatada, o fundamento legal aplicado e a extensão dos efeitos sobre as áreas físicas atingidas e de poder de polícia envolvidas.
+
+
+Art. 15.
+
+A fiscalização de atividades econômicas observará o critério da dupla visita, sendo a primeira de caráter exclusivamente orientador, devidamente formalizada, intimada e cientificada para saneamento da irregularidade.
+
+
+§ 1º
+
+Na primeira visita, o fiscal municipal orientará, nos termos do caput deste artigo, o empreendedor sobre as irregularidades constatadas, concedendo-lhe prazo razoável para sua correção, não inferior a 30 (trinta) dias, salvo situação de risco iminente, com registro padronizado na plataforma tecnológica mediante checklist específico.
+
+
+§ 2º
+
+A aplicação de penalidades somente poderá ocorrer após a segunda visita, quando verificada a persistência das irregularidades apontadas e desde que a causa da irregularidade seja imputável à conduta comissiva ou omissiva do empreendedor.
+
+
+§ 3º
+
+Não constitui irregularidade imputável ao empreendedor a pendência de ato público de liberação cuja concessão dependa de análise, vistoria ou manifestação da SUFIS ou de órgão da Administração Pública Municipal, Estadual ou Federal, desde que o empreendedor comprove ter formulado o respectivo requerimento tempestivamente e atendido a todas as exigências documentais ao seu alcance.
+
+
+§ 4º
+
+A inobservância do critério de dupla visita implica nulidade da penalidade aplicada, exceto nas hipóteses de:
+
+
+I –
+
+risco iminente à coletividade;
+
+
+II –
+
+reincidência específica no período de 24 (vinte e quatro) meses;
+
+
+III –
+
+fraude, resistência ou embaraço à fiscalização, em decisão administrativa irrecorrível;
+
+
+IV –
+
+existência de ordem judicial determinando a autuação.
+
+
+§ 5º
+
+O prazo mínimo previsto no § 1º deste artigo aplica-se às irregularidades cujo saneamento dependa de providência material, documental ou de requerimento perante a Administração, não alcançando as obrigações de mera exibição, afixação ou identificação, para as quais prevalecem os prazos previstos na legislação setorial.
+
+
+§ 6º
+
+Para os fins do inciso III do § 4º, considera-se embaraço à fiscalização a criação de obstáculos ao exercício da função fiscalizadora, caracterizada pela recusa em apresentar à fiscalização os documentos autorizadores do funcionamento da atividade, pelo impedimento de acesso do agente fiscal às dependências internas do estabelecimento ou pela conduta que dificulte a fiscalização ou constranja física ou moralmente o agente, sem prejuízo da tipificação prevista nos códigos setoriais.
+
+
+#### CAPÍTULO II — DA FISCALIZAÇÃO INTEGRADA DE POLICIAMENTO URBANO
+
+
+Art. 16.
+
+As ações de fiscalização de policiamento urbano serão executadas de forma integrada pela SUFIS, observando os seguintes princípios operacionais:
+
+
+I –
+
+Unicidade da ação fiscalizatória: sempre que possível, uma única visita resolverá todas as pendências do estabelecimento em todas as áreas de poder de polícia;
+
+
+II –
+
+Interdisciplinaridade: atuação conjunta de fiscais de diferentes especialidades na mesma ação;
+
+
+III –
+
+Eficiência operacional: otimização de recursos humanos, materiais e logísticos;
+
+
+IV –
+
+Uniformidade procedimental: padronização de rotinas, documentos e prazos;
+
+
+V –
+
+Fiscalização orientadora: priorização da educação, orientação e regularização;
+
+
+VI –
+
+Compartilhamento de informações: alimentação integrada da plataforma tecnológica por todos os fiscais;
+
+
+VII –
+
+Transparência e publicidade: registro e divulgação de todas as ações fiscalizatórias.
+
+
+Parágrafo único
+
+A organização administrativa, a estrutura e os procedimentos operacionais da fiscalização integrada serão definidos na legislação específica.
+
+
+Art. 17.
+
+No exercício da fiscalização integrada de policiamento urbano, serão observadas as seguintes condições de conformidade interfederativa:
+
+
+I –
+
+a SUFIS comporá o Sistema Nacional de Meio Ambiente (SISNAMA), instituído pela Lei Federal nº 6.938, de 31 de agosto de 1981, e o Sistema Nacional de Vigilância Sanitária (SNVS), instituído pela Lei Federal nº 9.782, de 26 de janeiro de 1999, na qualidade de entidade executora de licenciamento e fiscalização;
+
+
+II –
+
+as secretarias setoriais mantêm a condição de órgãos ambiental e sanitário capacitados para fins de integração ao SISNAMA e ao SNVS, preservando a competência de formulação de políticas públicas, normatização e emissão de normas técnicas em suas respectivas áreas de atuação;
+
+
+III –
+
+o Município manterá o cadastramento da estrutura de vigilância sanitária no Sistema de Cadastro Nacional de Estabelecimentos de Saúde (SCNES) e a alimentação do Sistema de Informação Ambulatorial (SIA/SUS), conforme portarias do Ministério da Saúde;
+
+
+IV –
+
+os fiscais municipais lotados na SUFIS permanecem como servidores efetivos do Município, na mesma carreira (GFISC), no mesmo regime previdenciário (RPPS/IPAM) e na mesma estrutura remuneratória;
+
+
+V –
+
+as secretarias setoriais terão representação assegurada nos colegiados consultivos previstos na lei de criação da SUFIS.
+
+
+#### CAPÍTULO III — DAS INFRAÇÕES E PENALIDADES
+
+
+Art. 18.
+
+As infrações e as penalidades de poder de polícia serão definidas nos códigos setoriais de cada área e nos dispositivos remanescentes da Lei Complementar nº 906, de 7 de julho de 2022, observadas as normas gerais desta Lei, sendo sua aplicação de competência dos fiscais municipais lotados na SUFIS.
+
+
+§ 1º
+
+As normas definidoras de infrações e penalidades deverão:
+
+
+I –
+
+classificar as infrações segundo a gravidade, estabelecendo critérios objetivos para enquadramento como leves, médias, graves e gravíssimas;
+
+
+II –
+
+graduar as penalidades de forma proporcional à gravidade da infração, aos antecedentes do infrator e às circunstâncias do caso concreto;
+
+
+III –
+
+prever a extensão e os efeitos das sanções restritivas de direito, especialmente interdição e cassação, exigindo fundamentação expressa e comprovação objetiva dos fatos;
+
+
+IV –
+
+assegurar ao administrado a oportunidade de regularização para conformidade previamente à aplicação de qualquer penalidade, ressalvadas as hipóteses de medidas cautelares urgentes.
+
+
+§ 2º
+
+É vedada a aplicação de penalidade sem a devida instauração de processo administrativo, garantido ao administrado o acesso aos autos e a oportunidade de defesa.
+
+
+Art. 19.
+
+A aplicação de penalidade administrativa depende de adequada instrução probatória, cabendo à autoridade fiscalizadora documentar a infração por meio de:
+
+
+I –
+
+descrição circunstanciada dos fatos, com indicação precisa da conduta, do local, da data e hora da constatação;
+
+
+II –
+
+registro fotográfico, audiovisual ou por outros meios tecnológicos, sempre que a natureza da infração permitir;
+
+
+III –
+
+indicação das normas legais e regulamentares violadas;
+
+
+IV –
+
+identificação de eventuais testemunhas;
+
+
+V –
+
+juntada de documentos, laudos técnicos ou outros elementos de prova pertinentes.
+
+
+§ 1º
+
+O registro visual ou audiovisual será obrigatório para a aplicação de penalidades restritivas de direito, tais como interdição, apreensão, embargo e cassação, salvo impossibilidade técnica devidamente justificada no auto.
+
+
+§ 2º
+
+A ausência de registro visual ou audiovisual, quando obrigatório, não impede a lavratura do auto, devendo ser suprida no prazo de 24 (vinte e quatro) horas, sob pena de nulidade da penalidade restritiva aplicada, sem prejuízo da apuração de eventual multa pecuniária.
+
+
+§ 3º
+
+A penalidade regularmente aplicada goza de presunção de legitimidade, que poderá ser elidida por prova em contrário produzida pelo interessado.
+
+
+Art. 20.
+
+O contencioso administrativo decorrente do exercício do poder de polícia será processado e julgado pelo órgão recursal competente, na forma definida na legislação da SUFIS e em seu regulamento.
+
+
+Parágrafo único
+
+Excluem-se da competência do órgão recursal de que trata o caput:
+
+
+I –
+
+o contencioso administrativo tributário;
+
+
+II –
+
+as penalidades de trânsito tipificadas na Lei Federal nº 9.503, de 23 de setembro de 1997 — Código de Trânsito Brasileiro;
+
+
+III –
+
+o processo administrativo disciplinar;
+
+
+IV –
+
+as sanções previstas na Lei Federal nº 14.133, de 1º de abril de 2021.
+
+
+#### CAPÍTULO IV — DA PRESCRIÇÃO DA AÇÃO PUNITIVA E EXECUTÓRIA
+
+
+##### Seção I — Das Disposições Gerais sobre Prescrição
+
+
+Art. 21.
+
+O disposto neste Capítulo não se aplica às infrações de natureza funcional e aos processos e procedimentos de natureza tributária.
+
+
+Parágrafo único
+
+Aplicam-se subsidiariamente ao disposto neste Capítulo as disposições da Lei Federal nº 9.873, de 23 de novembro de 1999, e do Código Civil Brasileiro.
+
+
+##### Seção II — Da Prescrição da Ação Punitiva
+
+
+Art. 22.
+
+Prescreve em 5 (cinco) anos a ação punitiva da Administração Pública Municipal, direta e indireta, no exercício do poder de polícia não tributária, objetivando apurar infração à legislação em vigor, contados:
+
+
+I –
+
+da data da prática do ato ou, no caso de infração permanente ou continuada, do dia em que tiver cessado;
+
+
+II –
+
+da data em que o fato se tornou conhecido, quando a infração, por sua natureza, somente puder ser detectada mediante procedimento específico de fiscalização.
+
+
+§ 1º
+
+Incide a prescrição no procedimento administrativo paralisado por mais de três anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade funcional decorrente da paralisação.
+
+
+§ 2º
+
+Quando o fato objeto da ação punitiva também constituir crime, a prescrição reger-se-á pelo prazo previsto na lei penal.
+
+
+##### Seção III — Da Interrupção e da Suspensão
+
+
+Art. 23.
+
+Interrompe-se a prescrição da ação punitiva:
+
+
+I –
+
+pela notificação ou citação do infrator, inclusive por meio eletrônico ou por edital; fato;
+
+
+II –
+
+por qualquer ato inequívoco da Administração que importe apuração do
+
+
+III –
+
+pela decisão condenatória recorrível. Parágrafo único. Interrompido o prazo, recomeça a correr da data do ato interruptivo, reduzindo-se à metade quando a interrupção decorrer de decisão condenatória recorrível não impugnada.
+
+
+Art. 24.
+
+Suspende-se a prescrição durante a tramitação de recurso administrativo interposto pelo infrator.
+
+
+##### Seção IV — Da Prescrição da Ação Executória
+
+
+Art. 25.
+
+Constituído definitivamente o crédito não tributário, após o término regular do processo administrativo, prescreve em 5 (cinco) anos a ação de execução da Administração Pública Municipal relativa a crédito decorrente da aplicação de multa por infração à legislação em vigor.
+
+
+Art. 26.
+
+Interrompe-se a prescrição da ação executória:
+
+
+I –
+
+pelo despacho do juiz que ordenar a citação em execução fiscal;
+
+
+II –
+
+pelo protesto judicial;
+
+
+III –
+
+por qualquer ato judicial que constitua em mora o devedor;
+
+
+IV –
+
+por qualquer ato inequívoco, ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
+
+
+Art. 27.
+
+Suspende-se a prescrição da ação executória:
+
+
+I –
+
+durante a vigência de acordo de parcelamento administrativo do débito, voltando a correr pelo prazo restante a partir da data do inadimplemento;
+
+
+II –
+
+durante a tramitação de ação judicial que discuta a exigibilidade do crédito.
+
+
+### TÍTULO IV — DA PROTEÇÃO À LIBERDADE ECONÔMICA E DA DESBUROCRATIZAÇÃO
+
+
+#### CAPÍTULO I — DAS MEDIDAS DE SIMPLIFICAÇÃO E DESBUROCRATIZAÇÃO
+
+
+##### Seção I — Da Mitigação de Risco para Atividades de Alto Risco
+
+
+Art. 28.
+
+Ficam estabelecidas as seguintes medidas de mitigação de risco para atividades classificadas como de alto risco:
+
+
+I –
+
+quando a atividade for exercida em unidade auxiliar ou fora daquela unidade, o licenciamento seguirá o rito simplificado previsto para atividades de médio risco;
+
+
+II –
+
+o empreendedor que atender aos critérios do Cadastro do Bom Empreendedor, nos termos do art. 31 desta Lei, terá prioridade na análise de seu processo e poderá obter o ato público de liberação mediante a assinatura de termo de responsabilidade para o cumprimento de exigências a posteriori;
+
+
+III –
+
+decorrido o prazo previsto no art. 11, § 2º, sem manifestação conclusiva da Administração, o empreendedor poderá iniciar suas atividades mediante autodeclaração de responsabilidade, nos termos daquele artigo.
+
+
+§ 1º
+
+O direito previsto no inciso III do caput constitui garantia contra a inércia administrativa e não configura aprovação tácita ou dispensa de vistoria, devendo a SUFIS realizar a vistoria no menor prazo possível.
+
+
+§ 2º
+
+Excepcionalmente, o direito previsto no inciso III não se aplicará quando a atividade:
+
+
+I –
+
+envolver manipulação, fabricação ou comercialização de produtos controlados, explosivos, armas, munições ou substâncias tóxicas de alto risco;
+
+
+II –
+
+depender de licenciamento ambiental prévio para atividades de alto impacto ambiental;
+
+
+III –
+
+envolver procedimentos médicos invasivos, cirúrgicos ou hospitalares que exijam habilitação específica prévia.
+
+
+§ 3º
+
+O agente público que deixar de cumprir os prazos estabelecidos nesta Lei deverá justificar formalmente o atraso e adotar providências imediatas para conclusão da análise, podendo o empreendedor representar ao Canal de Avaliação do Empreendedor.
+
+
+##### Seção II — Do Licenciamento Edilício Automático
+
+
+Art. 29.
+
+O Poder Executivo concederá a modalidade autodeclaratória para a Licença de Obra, nos termos da legislação específica, mediante Termo de Responsabilidade Técnica e Declaração de Responsabilidade assinada pelo interessado, pelo técnico responsável pela elaboração do projeto e do responsável pela execução da obra, conforme modelo disponibilizado pelo órgão municipal competente, dispensada vistoria prévia municipal nos limites de área e nas condições definidas em regulamento.
+
+
+Parágrafo único
+
+O regulamento de que trata o caput disporá sobre as condições de aplicabilidade do regime autodeclaratório, os requisitos do laudo técnico, a responsabilidade solidária do profissional habilitado e as hipóteses de fiscalização posterior.
+
+
+##### Seção III — Dos Critérios Operacionais de Licenciamento
+
+
+Art. 30.
+
+Para fins de licenciamento, mitigação e priorização de análise de risco, o LIM observará o cotejo dos seguintes critérios operacionais e demais critérios definidos no regulamento:
+
+
+I –
+
+Tipo de Unidade:
+
+
+a)
+
+Produtiva: unidade operacional que exerce atividade de produção ou venda de bens e/ou serviços destinados a terceiros.
+
+
+b)
+
+Auxiliar: quando servir apenas à própria empresa, exercendo exclusivamente funções gerenciais ou de apoio administrativo, técnico ou logístico, direcionadas à criação das condições necessárias para o exercício das atividades operacionais dos demais estabelecimentos, não desenvolvendo atividade de produção ou de venda de mercadorias ou prestação de serviços.
+
+
+II –
+
+Local de Exercício:
+
+
+a)
+
+Exercida no Local Informado: produção ou comercialização de bens e serviços no endereço informado.
+
+
+b)
+
+Não Exercida no Local Informado: atividade desenvolvida fora do estabelecimento informado.
+
+
+III –
+
+Forma de Atuação: o modo pelo qual a atividade é exercida, incluindo, mas não se limitando a estabelecimento fixo, internet, correios, televendas, porta a porta, postos móveis, ambulantes, máquinas automáticas, em domicílio ou no local do cliente ou de terceiros.
+
+
+§ 1º
+
+Na abertura de unidade que funciona exclusivamente como tipo auxiliar, as atividades exercidas deverão constar como "não exercidas no local informado", não carecendo constar atividades relativas a serviços combinados de escritório e suporte administrativo para a caracterização de domicílio fiscal da atividade, classificando-se como atividade de baixo risco.
+
+
+§ 2º
+
+As autorizações municipais para as unidades do tipo auxiliar não admitem o exercício de atividades produtivas no endereço informado, sendo permitidas, exclusivamente, funções gerenciais ou de apoio administrativo, técnico ou logístico.
+
+
+§ 3º
+
+A autorização municipal para as atividades desenvolvidas exclusivamente fora do estabelecimento informado não necessitará de comprovação do cumprimento de exigências relativas aos CNAEs de sua atividade produtiva, independentemente do grau de risco, devendo o empreendedor informar e comprovar a forma de atuação compatível com as atividades a serem desenvolvidas.
+
+
+§ 4º
+
+Na existência de diversidade de graus de risco entre as atividades exercidas no mesmo estabelecimento, prevalecerá a de maior grau de risco para fins de licenciamento, sendo permitido, contudo, o início imediato das atividades de baixo e médio risco, mediante cumprimento das condicionantes do art. 10 desta Lei Complementar.
+
+
+§ 5º
+
+Os códigos da Classificação Nacional de Atividades Econômicas (CNAE) contidos nas autorizações municipais deverão ser os mesmos contidos no respectivo órgão de registro, observado o grau de risco das atividades econômicas exercidas.
+
+
+§ 6º
+
+Nos casos de atividades desenvolvidas em outro estabelecimento ou extensão declaradas como "não exercidas no local informado", do tipo unidade produtiva, constarão no registro e cadastro das atividades econômicas da empresa, negócio ou atividade, apenas para fins de indicação do exercício de atividade pela pessoa jurídica, não produzindo efeitos de autorização da atividade.
+
+
+§ 7º
+
+As atividades exercidas em outro estabelecimento que porventura vierem a ser exercidas no endereço informado, deverão ser objeto de alteração do registro para fazer constar que as respectivas atividades serão exercidas no local, carecendo de novo licenciamento.
+
+
+§ 8º
+
+A autorização municipal correspondente deverá ser individualizada, quando existir mais de um tipo de unidade da mesma pessoa jurídica no Município, devendo ser expedida licença ou autorização para cada unidade informada.
+
+
+§ 9º
+
+O fato de a atividade econômica prevista no registro do estabelecimento ser executada, total ou parcialmente, por terceiro contratado pelo titular não impede a obtenção dos respectivos atos públicos de liberação, desde que comprovada a vinculação entre o titular e o terceiro, conforme definido no Regulamento.
+
+
+§ 10
+
+atividade econômica exercida no interior de estabelecimento já licenciado, em modelo de operação compartilhada, exigirá licenciamento pró
+
+
+I –
+
+as condicionantes de licenciamento já atendidas pelo estabelecimento hospedeiro e que abranjam o espaço ocupado pelo hospedado consideram-se satisfeitas para fins do licenciamento deste, dispensada a duplicidade de comprovação, especialmente quanto às exigências de segurança estrutural, segurança contra incêndio e pânico, acessibilidade e habite-se;
+
+
+II –
+
+o hospedado deverá cumprir autonomamente as condicionantes de licenciamento específicas de sua atividade econômica que não estejam cobertas pelos atos públicos de liberação do hospedeiro, especialmente nas áreas de vigilância sanitária, meio ambiente e demais exigências setoriais vinculadas à natureza da atividade;
+
+
+III –
+
+o grau de risco do hospedado será aferido exclusivamente em relação à sua própria atividade, podendo resultar em classificação superior à do hospedeiro;
+
+
+IV –
+
+o estabelecimento hospedeiro deverá possuir atos públicos de liberação válidos e em situação regular como condição para a concessão do licenciamento simplificado ao hospedado;
+
+
+V –
+
+o titular do estabelecimento hospedeiro responde solidariamente pelas condições de segurança, acessibilidade e salubridade do espaço compartilhado.
+
+
+§ 11
+
+O regulamento disporá sobre os procedimentos específicos para o licenciamento de que trata o § 10 deste artigo, incluindo os requisitos de comunicação à SUFIS, a documentação comprobatória da relação entre hospedeiro e hospedado e os critérios de aferição das condicionantes aplicáveis.
+
+
+##### Seção IV — Do Cadastro do Bom Empreendedor
+
+
+Art. 31.
+
+Fica instituído o Cadastro do Bom Empreendedor, para fins de concessão dos benefícios previstos nesta Lei.
+
+
+§ 1º
+
+Será considerado Bom Empreendedor a pessoa física ou jurídica que, nos últimos 5 (cinco) anos, não tenha sofrido penalidade de interdição ou multa de poder de polícia, de natureza grave ou gravíssima, em decisão administrativa definitiva, em qualquer de seus empreendimentos no Município.
+
+
+§ 2º
+
+Para fins de aplicação do benefício a uma pessoa jurídica, a análise do histórico considerará o CNPJ do estabelecimento requerente, bem como o CPF de seus sócios-administradores.
+
+
+§ 3º
+
+O Bom Empreendedor fará jus, adicionalmente, a:
+
+
+I –
+
+renovação automática dos atos públicos de liberação, dispensada vistoria prévia;
+
+
+II –
+
+desconto de 50% (cinquenta por cento) sobre o valor de eventuais multas não graves;
+
+
+III –
+
+prioridade no atendimento e análise de processos.
+
+
+##### Seção V — Do Encerramento Simplificado de Atividades
+
+
+Art. 32.
+
+O encerramento de atividade econômica no âmbito municipal observará procedimento eletrônico simplificado, na forma desta Lei.
+
+
+§ 1º
+
+A baixa da atividade econômica perante os órgãos municipais será processada de forma automática e integrada ao sistema da REDESIM, produzindo efeitos imediatos quanto à dispensa de novas obrigações de licenciamento e fiscalização.
+
+
+§ 2º
+
+É dispensada a apresentação de certidões negativas setoriais para fins de encerramento, sem prejuízo da cobrança de débitos tributários ou não tributários existentes.
+
+
+§ 3º
+
+Para o Microempreendedor Individual (MEI), o encerramento da atividade perante os órgãos municipais será processado automaticamente a partir da baixa no Portal do Empreendedor do Governo Federal.
+
+
+§ 4º
+
+Proceder-se-á à baixa de ofício da atividade econômica perante os órgãos municipais quando o MEI permanecer inativo perante a Receita Federal por período superior a 12 (doze) meses, sem prejuízo dos débitos existentes.
+
+
+##### Seção VI — Das Áreas Especiais Incentivadas
+
+
+Art. 33.
+
+O Poder Executivo poderá instituir, por decreto, Áreas Especiais Incentivadas para a instalação e o funcionamento de atividades econômicas, com o objetivo de incentivar a ocupação de imóveis comerciais vagos e promover a reativação econômica de regiões do Município com baixa ocupação comercial, subutilização de imóveis ou interesse estratégico para o desenvolvimento urbano.
+
+
+§ 1º
+
+O decreto de que trata o caput definirá:
+
+
+I –
+
+a delimitação geográfica das áreas incentivadas, observada a compatibilidade com o Plano Diretor e a legislação de uso e ocupação do solo;
+
+
+II –
+
+os benefícios aplicáveis, que poderão incluir, isolada ou cumulativamente: isenção ou redução de taxas de licenciamento, prazos diferenciados de análise, regime simplificado de abertura, prioridade na emissão de atos públicos de liberação e incentivos urbanísticos;
+
+
+III –
+
+o prazo de vigência dos incentivos, que não poderá exceder 5 (cinco) anos, admitida prorrogação por igual período, mediante avaliação de resultados;
+
+
+IV –
+
+os indicadores de monitoramento e avaliação da política.
+
+
+§ 2º
+
+O COMSIM poderá propor ao Poder Executivo a instituição de novas áreas incentivadas, com base em dados de ocupação econômica e indicadores de desenvolvimento urbano.
+
+
+§ 3º
+
+Os incentivos de isenção ou redução tributária observarão a legislação tributária aplicável.
+
+
+##### Seção VII — Dos Ambientes Experimentais de Inovação
+
+
+Art. 34.
+
+O Poder Executivo poderá instituir, por decreto, programa de ambientes experimentais de inovação, no modelo Sandbox Regulatório, destinado à testagem temporária de produtos, serviços e modelos de negócio inovadores no território do Município, com flexibilização controlada de normas municipais de licenciamento e fiscalização, nos termos da Lei Complementar Federal nº 182, de 1º de junho de 2021.
+
+
+§ 1º
+
+O programa de que trata o caput terá como objetivos:
+
+
+I –
+
+fomentar a inovação em escala urbana, mediante ciclos experimentais com prazo determinado, em áreas definidas pelo Poder Executivo;
+
+
+II –
+
+orientar empreendedores sobre questões regulatórias durante o desenvolvimento das experimentações;
+
+
+III –
+
+reduzir custos e tempo de validação inerentes ao desenvolvimento de soluções inovadoras escaláveis para a cidade;
+
+
+IV –
+
+ampliar a segurança jurídica necessária à atração de capital investidor para projetos de inovação no Município.
+
+
+§ 2º
+
+O decreto regulamentador definirá a governança do programa, incluindo a composição e as atribuições do comitê gestor do Sandbox, os critérios de seleção dos projetos, os procedimentos de monitoramento e avaliação dos ciclos experimentais e as condições de encerramento.
+
+
+§ 3º
+
+A flexibilização de que trata o caput não poderá alcançar normas de proteção à saúde pública, à segurança das pessoas, ao meio ambiente e aos direitos do consumidor, devendo o decreto estabelecer os limites intransponíveis para cada ciclo experimental.
+
+
+§ 4º
+
+O COMSIM será ouvido antes da abertura de cada ciclo experimental, devendo o comitê gestor do Sandbox submeter-lhe a proposta com a indicação das normas municipais objeto de flexibilização, os critérios de seleção dos projetos e os limites intransponíveis aplicáveis, e receberá relatório circunstanciado de resultados ao término de cada ciclo, podendo recomendar ao Poder Executivo a incorporação, a adaptação ou a rejeição das soluções testadas para fins de regulamentação definitiva.
+
+
+§ 5º
+
+As soluções inovadoras testadas com êxito nos ambientes experimentais poderão ser incorporadas ao ordenamento jurídico municipal, mediante proposta fundamentada do comitê gestor do Sandbox ao Poder Executivo.
+
+
+#### CAPÍTULO II — DA PROTEÇÃO AO EMPREENDEDOR E DO PAPEL DO COMSIM
+
+
+Art. 35.
+
+Fica assegurado ao empreendedor e ao cidadão o direito de ser tratado com respeito e dignidade pelos agentes públicos, sendo vedada a exigência de documentos não previstos em lei ou a imposição de dificuldades infundadas para o licenciamento e o funcionamento de sua atividade.
+
+
+Art. 36.
+
+Os documentos, os requisitos e as condicionantes exigidos para a obtenção, renovação ou alteração de atos públicos de liberação serão exclusivamente previstos nesta Lei Complementar, nos códigos temáticos setoriais, nos dispositivos remanescentes da Lei Complementar nº 906, de 7 de julho de 2022, em decreto regulamentador ou na legislação federal e estadual aplicável.
+
+
+§ 1º
+
+É vedada a formulação de exigências documentais pelo agente público que não encontrem fundamento expresso em norma vigente, sob pena de nulidade do ato e apuração de responsabilidade funcional.
+
+
+§ 2º
+
+A plataforma tecnológica manterá lista pública e atualizada de todas as exigências documentais aplicáveis a cada atividade, discriminadas por origem normativa, assegurando ao empreendedor pleno conhecimento prévio dos requisitos.
+
+
+§ 3º
+
+Quando a legislação federal ou estadual condicionar o exercício de determinada atividade à prévia autorização de órgão de outra esfera de governo, a comprovação dessa exigência poderá ser incluída como condicionante do licenciamento municipal, ainda que não prevista na legislação municipal, devendo ser registrada na plataforma com indicação do fundamento legal.
+
+
+§ 4º
+
+O agente público que identificar necessidade de exigência documental não constante da lista pública deverá submeter a questão, fundamentadamente, à autoridade superior da SUFIS, que decidirá no prazo de 5 (cinco) dias úteis, determinando a atualização da lista em caso de procedência ou o prosseguimento sem a exigência em caso de improcedência.
+
+
+Art. 37.
+
+Fica instituído o Canal de Avaliação do Empreendedor, vinculado à Ouvidoria Municipal, para que o empreendedor possa relatar o tratamento recebido durante o processo de licenciamento e fiscalização, bem como denunciar abusos de autoridade.
+
+
+Parágrafo único
+
+A Ouvidoria Municipal será responsável por acompanhar as demandas registradas no Canal de Avaliação e por adotar as providências necessárias para a resolução dos problemas, comunicando os resultados ao empreendedor e aos órgãos de controle.
+
+
+Art. 38.
+
+O Comitê Municipal para a Simplificação de Registro e da Legalização de Empresas, Negócios e Atividades (COMSIM), instituído pela Lei Complementar nº 739, de 7 de dezembro de 2018, é o órgão permanente de desburocratização e melhoria do ambiente de negócios do Município de Porto Velho. § 1º No exercício de suas atribuições e das que lhe são conferidas por esta Lei, compete ao COMSIM:
+
+
+I –
+
+revisar anualmente a matriz de classificação de risco, com base em dados estatísticos de fiscalização e sinistralidade, propondo ao Poder Executivo as atualizações necessárias;
+
+
+II –
+
+emitir enunciados técnicos com caráter orientador sobre a classificação de atividades econômicas e os procedimentos de licenciamento;
+
+
+III –
+
+monitorar os indicadores de desempenho do LIM, incluindo tempo médio de emissão de alvarás, índice de satisfação dos empreendedores, taxa de atividades dispensadas, entre outros;
+
+
+IV –
+
+propor medidas de simplificação normativa e procedimental ao Poder Executivo e à Câmara Municipal;
+
+
+V –
+
+exercer as demais atribuições previstas na Lei Complementar nº 739, de 7 de dezembro de 2018. § 2º Nenhum órgão ou entidade municipal poderá instituir, majorar ou modificar tributos ou quaisquer receitas vinculados ao licenciamento sem prévia manifestação favorável da Secretaria Executiva da Receita Municipal da Secretaria Municipal de Economia (SEMEC), nos termos da Lei Complementar nº 1.000, de 7 de janeiro de 2025.
+
+
+Art. 39.
+
+Na abertura de empresas, negócios e atividades, as taxas de vistoria, de autorização e de fiscalização e controle terão vencimento diferido para após 12 (doze) meses contados da data de abertura, assegurado o pleno funcionamento da atividade durante esse período.
+
+
+§ 1º
+
+O diferimento previsto no caput tem por finalidade incentivar a livre iniciativa, reduzir barreiras econômicas ao início das atividades e atrair investimentos para o território de Porto Velho.
+
+
+§ 2º
+
+O diferimento de que trata o caput alcança os processos de licenciamento em curso na data de publicação desta Lei Complementar.
+
+
+§ 3º
+
+Aqueles que se encontrarem em desconformidade e iniciarem seu licenciamento, nos termos desta Lei Complementar, farão jus ao diferimento do vencimento das taxas de vistoria, autorização e fiscalização de funcionamento para após 6 (seis) meses, contados da data do protocolo do requerimento de licenciamento ou regularização.
+
+
+§ 4º
+
+O Poder Executivo poderá instituir, por decreto, programas temporários de incentivo à regularização de atividades econômicas em funcionamento sem os respectivos atos públicos de liberação, com condições especiais de prazo, custo e procedimento simplificado, durante o período de vigência do programa.
+
+
+§ 5º
+
+Durante o período de diferimento de que tratam o caput e o § 3º, a quitação das taxas ali referidas não constitui condição para a expedição ou a renovação do ato público de liberação, não se aplicando, nesse período, o art. 120 e a parte final do § 1º do art. 121 da Lei Complementar nº 873, de 16 de dezembro de 2021.
+
+
+Art. 40.
+
+Aplicam-se os dispositivos desta Lei, no que couber, ao licenciamento e fiscalização de obras e sua regularização.
+
+
+Art. 41.
+
+O Poder Executivo apresentará à Câmara Municipal, no prazo de 180 (cento e oitenta) dias contados da publicação desta Lei Complementar, projeto de lei de atualização e adequação de toda a legislação municipal de poder de polícia às disposições desta Lei Complementar, incluindo, dentre outros:
+
+
+I –
+
+Código de Meio Ambiente;
+
+
+II –
+
+Código de Posturas Urbanas;
+
+
+III –
+
+Código de Vigilância Sanitária;
+
+
+IV –
+
+Código de Obras e Edificações;
+
+
+V –
+
+demais códigos e normas sobre ordem urbana, liberdade econômica e tratamento diferenciado a micro e pequenos negócios.
+
+
+§ 1º
+
+As disposições desta Lei Complementar terão aplicação imediata e prevalecerão sobre as normas específicas dos códigos setoriais e sobre os dispositivos remanescentes da Lei Complementar nº 906, de 7 de julho de 2022, que com ela conflitarem, até a aprovação das respectivas atualizações legislativas.
+
+
+§ 2º
+
+Durante o período de adequação legislativa, os órgãos e entidades da Administração Pública Municipal deverão aplicar as regras de desburocratização, simplificação e mitigação de risco estabelecidas nesta Lei Complementar, independentemente de disposições contrárias constantes nas legislações específicas e nos dispositivos remanescentes da Lei Complementar nº 906, de 2022.
+
+
+§ 3º
+
+A inobservância do prazo previsto no caput não impede a aplicação plena das normas gerais estabelecidas nesta Lei Complementar.
+
+
+§ 4º
+
+O projeto de lei de que trata o caput disporá sobre a revogação integral da Lei Complementar nº 906, de 7 de julho de 2022, mediante a absorção das matérias remanescentes:
+
+
+I –
+
+pelo Código de Posturas Urbanas, quanto às dispensas de licenciamento, à suspensão e à reativação de atividades, ao regime do Escritório Virtual, ao dever de inscrição do Microempreendedor Individual, às atividades exercidas em residência e ao acesso independente em imóvel de uso misto;
+
+
+II –
+
+pelo Código Tributário Municipal, quanto à suspensão da inscrição municipal e à atualização cadastral.
+
+
+Art. 42.
+
+As normas municipais de poder de polícia devem ser consolidadas em códigos temáticos, organizados por área de atuação, observando-se o princípio da concentração normativa.
+
+
+§ 1º
+
+Os códigos temáticos de que trata o caput são, dentre outros, aqueles descritos no art. 41 desta Lei Complementar.
+
+
+§ 2º
+
+As normas infralegais sobre licenciamento e policiamento urbano observarão as seguintes regras:
+
+
+I –
+
+terão caráter regulamentar, devendo limitar-se a detalhar procedimentos operacionais, estabelecer especificações técnicas e disciplinar matérias de organização interna, em conformidade com a legislação vigente;
+
+
+II –
+
+não poderão instituir novas exigências documentais, condicionantes ou requisitos para o licenciamento de atividades econômicas que não estejam previstos nesta Lei Complementar, nos códigos temáticos setoriais ou na legislação federal e estadual aplicável e nos regulamentos dessas normas;
+
+
+III –
+
+deverão ser compatibilizadas com o LIM e internalizadas na plataforma tecnológica.
+
+
+§ 3º
+
+É vedada a criação de obrigações, infrações ou penalidades por meio de atos normativos infralegais, sob pena de nulidade.
+
+
+§ 4º
+
+O Poder Executivo promoverá, no prazo de 12 (doze) meses contados da publicação desta Lei Complementar, a consolidação das normas infralegais vigentes editadas pelos órgãos municipais de poder de polícia, revogando expressamente as que conflitarem com os respectivos códigos temáticos ou com as disposições desta Lei, ouvidos os órgãos setoriais competentes e a SUFIS.
+
+
+Art. 43.
+
+Os procedimentos de fiscalização integrada e de licenciamento estabelecidos em decreto e em instrução normativa da SUFIS prevalecem, no que for incompatível, sobre os ritos de fiscalização e licenciamento previstos na legislação setorial municipal, ressalvados o rito do contencioso administrativo e as normas de competência julgadora, de prazos e de recursos estabelecidos em lei complementar.
+
+
+Art. 44.
+
+O Poder Executivo regulamentará esta Lei Complementar no prazo de 90 (noventa) dias, a contar da data de sua publicação, devendo o regulamento dispor, dentre outros temas:
+
+
+I –
+
+a regra geral de procedimentos operacionais padronizados de licenciamento e fiscalização integrados;
+
+
+II –
+
+os critérios para funcionamento do Canal de Avaliação do Empreendedor;
+
+
+III –
+
+os requisitos e o procedimento para concessão da Autorização de Funcionamento Condicionada (AFC);
+
+
+IV –
+
+as espécies, denominações e os modelos dos atos públicos de liberação previstos nesta Lei, podendo o Executivo unificá-los, simplificá-los ou substituí-los, observados os regimes jurídicos aqui estabelecidos;
+
+
+V –
+
+a definição das categorias de área para fins de licenciamento e os critérios de aferição aplicáveis.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 45.
+
+A plena operacionalização do LIM, a instalação da SUFIS e do órgão recursal e a transição das competências dos colegiados setoriais dar-se-ão na forma e nos prazos definidos na lei complementar que criar aqueles órgãos.
+
+
+§ 1º
+
+Até o início do funcionamento efetivo da SUFIS, as competências a ela atribuídas por esta Lei Complementar serão exercidas pelos órgãos e entidades da Administração Pública Municipal competentes em razão da matéria, permanecendo os fiscais municipais lotados em suas respectivas secretarias de origem, observadas as normas de integração procedimental estabelecidas nesta Lei.
+
+
+§ 2º
+
+São válidos e eficazes os atos de licenciamento, análise técnica, vistoria, fiscalização, notificação, intimação, autuação e aplicação de penalidades praticados na forma do § 1º, não constituindo vício de competência a sua prática por órgão ou agente diverso da SUFIS enquanto esta não estiver em funcionamento efetivo.
+
+
+§ 3º
+
+A designação prévia de que trata o § 1º do art. 14 e a competência para a aplicação de penalidades de que trata o art. 18 serão exercidas, até o início do funcionamento efetivo da SUFIS, pela autoridade competente do órgão setorial de lotação do fiscal municipal.
+
+
+§ 4º
+
+As referências feitas nesta Lei Complementar à SUFIS entendem-se dirigidas, até o início do seu funcionamento efetivo, ao órgão competente na forma do § 1º, e as referências ao órgão recursal entendem-se dirigidas, até a sua instalação, aos colegiados setoriais competentes, na forma da legislação vigente.
+
+
+§ 5º
+
+A coordenação provisória do LIM será exercida por órgão designado por ato do Poder Executivo, até o início do funcionamento efetivo da SUFIS.
+
+
+Art. 46.
+
+Durante o período de transição entre o regime instituído por esta Lei Complementar e a plena operacionalização da plataforma tecnológica do Licenciamento Integrado Municipal, permanecem aplicáveis os procedimentos operacionais de licenciamento e de fiscalização vigentes na Administração Municipal, notadamente os previstos na Lei Complementar nº 873, de 16 de dezembro de 2021, inclusive o Alvará da Licença de Localização e Funcionamento em sua modalidade provisória, de que tratam os arts. 121 e 122 daquela Lei Complementar, aplicável às atividades de médio risco, observada, em qualquer caso, a cláusula de prevalência prevista no art. 41, §§ 1º e 2º, desta Lei Complementar.
+
+
+§ 1º
+
+É vedado, durante o período de transição de que trata o caput, qualquer ato da Administração Municipal que importe em restrição, suspensão, indeferimento ou retardamento do exercício de atividade econômica em razão de incompatibilidade entre o sistema vigente e o novo regime, ainda em fase de parametrização, devendo o empreendedor ser atendido pelos procedimentos disponíveis e idôneos, sob pena de responsabilização funcional do agente público que der causa ao prejuízo.
+
+
+§ 2º
+
+O período de transição de que trata o caput encerra-se com a publicação do decreto regulamentador previsto no art. 44 desta Lei Complementar e a operacionalização da plataforma tecnológica do Licenciamento Integrado Municipal, o que ocorrer por último, cabendo ao Poder Executivo, mediante ato administrativo motivado, atestar a operacionalidade plena da plataforma e a consequente cessação do regime transitório.
+
+
+Art. 47.
+
+Ficam revogados os seguintes dispositivos da Lei Complementar nº 906, de 7 de julho de 2022:
+
+
+I –
+
+os arts. 1º a 28, 30, 33 a 37, 44, 46 a 48, 50, 52 a 62, 64 a 76 e 78 a 80;
+
+
+II –
+
+o inciso I do art. 29;
+
+
+III –
+
+o inciso II do § 2º do art. 32;
+
+
+IV –
+
+o inciso II do parágrafo único do art. 49;
+
+
+V –
+
+o inciso IV do art. 63.
+
+
+§ 1º
+
+As matérias disciplinadas pela Lei Complementar nº 906, de 2022, não alcançadas pelo caput, notadamente as dispensas dos incisos II a VII do art. 29, a suspensão e a reativação de atividades dos arts. 31 e 32, o regime do Escritório Virtual dos arts. 38 a 43, o dever de inscrição do Microempreendedor Individual do art. 45, as atividades exercidas em residência dos arts. 49 e 51, o acesso independente em imóvel de uso misto do art. 53, a suspensão de inscrição municipal do art. 63 e a atualização cadastral do art. 77, permanecem em vigor, aplicadas em conformidade com as normas gerais desta Lei Complementar, até a conclusão do programa de adequação legislativa de que trata o art. 41.
+
+
+§ 2º
+
+Preservam-se as revogações expressas efetivadas pelo art. 82 da Lei Complementar nº 906, de 2022, sobre dispositivos da Lei Complementar nº 873, de 16 de dezembro de 2021, e da Lei Complementar nº 698, de 18 de dezembro de 2017, não se restaurando a vigência das normas por ele revogadas, nos termos do § 3º do art. 2º do Decreto-Lei nº 4.657, de 4 de setembro de 1942, Lei de Introdução às Normas do Direito Brasileiro.
+
+
+Art. 48.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito

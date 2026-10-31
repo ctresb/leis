@@ -1,0 +1,120 @@
+---
+titulo: "LEI MUNICIPAL Nº1380-2026"
+uf: "RO"
+municipio: "VALE DO ANARI"
+tipo: "Lei Ordinária"
+numero: "1380"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 25/06/2026"
+data_publicacao: 2026-06-25
+codigo_identificador: "B3F5545A"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116094_2026-06-24_9cb0021d26cd264bbbbc3be2149e0029.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº1380-2026
+
+LEI MUNICIPAL Nº1380-2026
+
+LEI MUNICIPAL Nº 1380/2026
+DE 01 DE JUNHO DE 2026
+―ALTERA O ART. 33 E O ANEXO II DA LEI
+MUNICIPAL Nº 602/2012, QUE INSTITUI O
+PLANO
+DE
+CARREIRA,
+CARGOS
+E
+REMUNERAÇÃO DOS SERVIDORES PÚBLICOS
+DA SECRETARIA MUNICIPAL DE SAÚDE E
+VIGILÂNCIA SANITÁRIA DO MUNICÍPIO DE
+VALE
+DO
+ANARI,
+E
+DÁ
+OUTRAS
+PROVIDÊNCIAS.‖
+O PREFEITO DO MUNICÍPIO DE VALE DO ANARI, Estado de
+Rondônia, no uso das atribuições que lhe confere a Lei Orgânica
+Municipal, faz saber que a Câmara Municipal aprovou e ele sanciona
+a seguinte:
+LEI
+Art. 1º O art. 33 da Lei Municipal nº 602, de 24 de janeiro de 2012,
+passa a vigorar com a seguinte redação:
+―Art. 33. Fica instituída gratificação por desempenho aos servidores
+vinculados à Secretaria Municipal de Saúde – SEMUSA, que atuarem
+no apoio às atividades de transporte intermunicipal de pacientes, no
+valor mensal correspondente a 10 (dez) Unidades Padrão Fiscal do
+Estado de Rondônia– UPF/RO.
+§ 1º Farão jus à gratificação os servidores designados para atuar nas
+atividades previstas no caput, conforme escala elaborada pelo Chefe
+Imediato, considerando a necessidade do serviço, ficando o
+pagamento condicionado à efetiva prestação do serviço e ao respectivo
+atesto pela Secretaria Municipal de Saúde.
+§ 2º A gratificação não será devida nos períodos em que o servidor
+estiver afastado de suas funções, salvo durante férias regulamentares.
+§ 3º É vedada a percepção cumulativa da gratificação de que trata este
+artigo com:
+I – pagamento de horas extraordinárias;
+II – diárias decorrentes de deslocamento intermunicipal de pacientes;
+III – remuneração por plantão referente à mesma jornada de trabalho.
+§ 4º O valor da gratificação poderá ser pago de forma integral ou
+proporcional, conforme a efetiva participação do servidor nas
+atividades previstas neste artigo, mediante justificativa da Secretaria
+Municipal de Saúde.
+§ 5º A concessão da gratificação observará o interesse público e a
+necessidade do serviço, podendo ser revista, suspensa ou cancelada a
+qualquer tempo, mediante justificativa da Administração.
+§ 6º A gratificação de que trata este artigo possui natureza transitória,
+não se incorpora ao vencimento, remuneração, provento ou pensão, e
+não servirá de base de cálculo para quaisquer outras vantagens, salvo
+disposição legal expressa em contrário.‖ (NR)
+Art. 2º O Anexo II da Lei Municipal nº 602, de 24 de janeiro de 2012,
+passa a vigorar, no que se refere aos cargos abaixo indicados, com os
+seguintes quantitativos:
+ANEXO II
+Quadro Demonstrativo por Quantitativo – Estrutura de Pessoal
+Cargo/Função
+(...)
+Enfermeiro generalista – 40 hs.
+(...)
+Recepcionista – 40 hs.
+(...)
+Técnico em Radiologia (Raios-X) – 40 hs.
+(...)
+Vigia – 40 hs.
+(...)
+
+Total de vagas
+(...)
+10
+(...)
+07
+(...)
+07
+(...)
+10
+(...)
+
+Art. 3º As despesas decorrentes da execução desta Lei correrão à
+conta das dotações orçamentárias próprias da Secretaria Municipal de
+Saúde, observada a disponibilidade orçamentária e financeira, bem
+como os limites e condições estabelecidos na Lei Complementar nº
+101/2000.
+Art. 4º Esta Lei entra em vigor na data de sua publicação, revogadas
+as disposições em contrário.
+GABINETE DO PREFEITO DO MUNICÍPIO DE VALE DO
+ANARI, AO PRIMEIRO DIA DO MÊS DE JUNHO DE 2026.
+CLEONE LIMA RIBEIRO
+Prefeito
+
+www.diariomunicipal.com.br/arom
+
+177
+
+Rondônia , 25 de Junho de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4262
+Publicado por:
+Gleicia de Oliveira Souza

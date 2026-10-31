@@ -1,0 +1,42 @@
+{
+  "host": "sapl.buritis.ro.leg.br",
+  "metadados_unicos_observados": 21,
+  "total_api_declarado": 21,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.ro.leg.br/d4dd64d257425023839359e0ecc5a16397788616a62768d726f86a32faf70736.json",
+    "url": "https://sapl.buritis.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.buritis.ro.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "538bbac6a84abf487a886dfea2b2d649412983c7bc42b6cac8e780b8fe713030",
+    "bytes": 952,
+    "capturado_em": "2026-10-27T20:07:58.773843-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.ro.leg.br/7094f3a388ecb7d596bc862facc24f9395edef6c07f2ff71186b730570f5ec40.json",
+    "url": "https://sapl.buritis.ro.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.buritis.ro.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "b352292ca0dbc4dd24c69996f3dcb4be7df52c3e7c2876c2f1cf6c54f110c851",
+    "bytes": 821,
+    "capturado_em": "2026-10-27T20:07:57.713924-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.ro.leg.br/3d7e872d1428f35188a394ba0300123327e6a331de3cb9c164c888021086d7aa.json",
+      "url": "https://sapl.buritis.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.buritis.ro.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "847402f27768f185437e17ed83b78901c47e92867b2ef504ea5b99ec3876e640",
+      "bytes": 14161,
+      "capturado_em": "2026-10-27T20:08:00.895290-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

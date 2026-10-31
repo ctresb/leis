@@ -1,0 +1,236 @@
+---
+titulo: "Resolução nº 1, de 22 de abril de 2020"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1"
+data: "2020-04-22"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2023-05-15; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1298"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/302/text"
+sha256_fonte: "0f65841b7a8e185c238f975e55462126106257061bfe17341e83b153e93cc7e7"
+sha256_texto: "3cb8176edc55273852cc9600f150ae76ec3637ad1df1d7e308cd0fe4c5452716"
+capturado_em_fonte: "2026-10-27T21:31:46.908669-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 1, de 22 de abril de 2020
+
+“Cria normas sobre o expediente administrativo, acompanhamento da frequência dos Servidores do quadro de pessoal efetivo e comissionado da Câmara Municipal de Caçu e institui o sistema de compensação de horários”.
+
+
+**A MESA DIRETORA DA CÂMARA MUNICIPAL DE CAÇU,** Estado de Goiás, no uso de suas atribuições legais, faz saber que o Plenário da Câmara Municipal aprovou e ela PROMULGA a seguinte Resolução.
+
+
+Art. 1º.
+
+Instituir e regulamentar o sistema de registro eletrônico biométrico de ponto para controle da jornada de trabalho dos servidores da Câmara Municipal de Caçu/GO.
+
+
+Art. 2º.
+
+O Departamento de Recursos Humanos é o setor responsável pelo controle, programação, armazenamento e gestão das informações referentes à frequência dos servidores.
+
+
+Art. 3º.
+
+O controle eletrônico de frequência ao trabalho é obrigatório a todos os servidores, efetivos e comissionados.
+
+
+§ 1º
+
+Quando se deslocar da sede da Câmara a serviço do Poder Legislativo, o servidor deverá, obrigatoriamente, apresentar ao Departamento de Recursos Humanos declaração datada, carimbada e assinada pelo responsável pelo órgão/empresa/pessoa em que esteve presente.
+
+
+§ 2º
+
+Somente serão abonadas as faltas e justificáveis os atrasos se apresentados os respectivos documentos.
+
+
+§ 3º
+
+Todos os registros de ponto eletrônico são de total responsabilidade do Servidor, não sendo justificáveis e abonáveis os esquecimentos.
+
+
+Art. 4º.
+
+O controle de frequência eletrônico dos Vereadores é facultativo.
+
+
+Art. 5º.
+
+A não submissão ao controle de jornada previsto no artigo 3º, não torna o Servidor imune a qualquer tipo de fiscalização quanto a sua jornada de trabalho para o bom desempenho quantitativo e qualitativo de suas funções.
+
+
+Art. 6º.
+
+A tolerância para os atrasos em toda a jornada de trabalho será de 10 (dez) minutos diários, considerando-se entrada e saída, sem prejuízo da remuneração.
+
+
+Art. 7º.
+
+Quaisquer intercorrências ou falhas no funcionamento do equipamento de controle de frequência eletrônico, deverão ser comunicados ao Departamento de Recursos Humanos, que providenciará lavratura de ata para registro do fato, e manterá relatório com controle manual de frequência até que o funcionamento do ponto eletrônico seja restabelecido.
+
+
+Parágrafo único
+
+O aparelho onde deverão os servidores cadastrar e apor cotidianamente a digital, ficará instalado nas dependências internas da sede da Câmara Municipal, local de acesso irrestrito a todos os obrigados ao controle eletrônico de frequência.
+
+
+Art. 8º.
+
+O uso do controle de frequência eletrônico não é comprovação absoluta de frequência do Servidor, devendo o Chefe imediato acompanhar o exercício do servidor e tomar as providências cabíveis na ocorrência de qualquer irregularidade e ausência.
+
+
+Art. 9º.
+
+Ressalvado os direitos à licença ou afastamentos previstos na Legislação específica, o servidor que deixar de registrar o ponto eletrônico em qualquer um dos horários de entrada e/ou saída sofrerá o desconto da remuneração diária.
+
+
+§ 1º
+
+O registro de ponto de saída além do limite de tolerância previsto no artigo 6º não será considerado como horas extraordinárias, sem prejuízo do disposto no caput deste artigo.
+
+
+§ 2º
+
+A ausência de registro ao ponto eletrônico por força maior, quando for o caso, deverá ser justificada perante o Chefe imediato do Servidor, e este deverá comunicar por escrito ao Departamento de Recursos Humanos.
+
+
+Art. 10.
+
+A jornada de trabalho é de 40 (quarenta) horas semanais, com início às 08h00min e término às 17h00min (com 02h00min de intervalo), de segunda a sexta-feira, para todos os servidores em provimento efetivo e comissionado, com as seguintes exceções:
+
+
+§ 1º
+
+Os servidores efetivos ocupantes do cargo de Vigilante deverão cumprir jornada de trabalho no horário de 19h00min às 05h00min do dia seguinte, em escala de dias alternados.
+
+
+§ 2º
+
+Os servidores efetivos no cargo de Motorista cumprirão sua jornada de forma idêntica aos demais servidores, exceto quando solicitados para viagens, devendo ser este fato devidamente justificado no Departamento de Recursos Humanos.
+
+
+§ 3º
+
+Os servidores poderão ser convocados a prestar serviços fora do horário regulamentar quando da realização de Sessões Solenes, Sessões Ordinárias e Sessões Extraordinárias, dentre outras ocorrências.
+
+
+§ 4º
+
+Os servidores efetivos ocupantes do cargo de Auxiliar de Serviços Gerais, deverão cumprir a seguinte jornada de trabalho, em rodízio diário igualitário, determinado pela Secretaria Geral da Câmara Municipal:
+
+Inclusão feita pelo Art. 1º. - Resolução nº 5, de 15 de maio de 2023.
+
+
+I –
+
+um servidor: entrada às 7h00min e término às 16h00m, com 02h00m de intervalo;
+
+Inclusão feita pelo Art. 1º. - Resolução nº 5, de 15 de maio de 2023.
+
+
+II –
+
+um servidor: entrada às 7h00min e término às 17h00m, com 03h00m de intervalo.
+
+Inclusão feita pelo Art. 1º. - Resolução nº 5, de 15 de maio de 2023.
+
+
+Art. 11.
+
+O servidor efetivo, pelo serviço prestado em horário extraordinário, terá direito à compensação por folga mediante a compensação de horários, nos termos desta Resolução.
+
+
+Parágrafo único
+
+É vedada a prorrogação da jornada de trabalho dos servidores comissionados que importem em acúmulo de horas extraordinárias, exceto daqueles que atuarem nas sessões legislativas de qualquer espécie.
+
+
+Art. 12.
+
+Fica instituído o regime de compensação de horas extras, por trabalho extraordinário, devendo respeitar a normatização desta Resolução.
+
+
+Art. 13.
+
+O horário do servidor poderá ser prorrogado, de acordo com a necessidade do Poder Legislativo e comunicação pela Secretaria Administrativa.
+
+
+Art. 14.
+
+As horas excedentes serão computadas como horas créditos, sendo compensadas em folgas pela correspondente diminuição em dias subsequentes caso excedam a 25 (vinte e cinco) horas por mês.
+
+
+Parágrafo único
+
+A regra do caput tem fundamento no fato de que o labor diário do servidor, constante do artigo 10 desta Resolução, não atinge a carga horária de 40 (quarenta) horas semanais previstas na Lei 1.952/2014 e (Resolução 04/1999 - Revogada) Resolução nº 01/2023.
+
+
+Art. 15.
+
+A compensação de horas prevista nesta norma deverá ocorrer no prazo de noventa dias após a execução das horas excedentes, podendo ocorrer por redução da jornada diária de trabalho, observado o ciclo de acumulação e expiração de horas, de igual prazo, assim como o disposto no Art. 11.
+
+Alteração feita pelo Art. 1º. - Resolução nº 5, de 15 de maio de 2023.
+
+
+Parágrafo único
+
+Os fluxos de compensação de horário serão regulados pela Secretaria Administrativa.
+
+
+Art. 16.
+
+Os atestados médicos, declarações e demais documentos que justifiquem a falta do Servidor deverão ser protocolados, e posteriormente encaminhados ao Departamento de Recursos Humanos até as 17h do 1º dia útil subsequente ao da sua ocorrência.
+
+
+§ 1º
+
+O não cumprimento do prazo previsto no caput pelo Servidor dará causa ao desconto da remuneração do dia não trabalhado.
+
+
+§ 2º
+
+O não cumprimento do prazo por parte de quem recebeu o documento acarretará a responsabilidade deste pela indenização ao Servidor.
+
+
+Art. 17.
+
+Além do Departamento de Recursos Humanos, a Secretaria Administrativa conferirá, mensalmente, o relatório do ponto eletrônico e demais ocorrências que resultarem em perda remuneratória, o qual ficará disponível para consulta e ajustes até o 5º quinto dia útil de cada mês.
+
+
+Parágrafo único
+
+O desconto na remuneração do servidor ocorrerá no mês subsequente ao da verificação de falta passível de perda remuneratória.
+
+
+Art. 18.
+
+Fica delegado ao Presidente da Câmara o estabelecimento de regras complementares para viabilizar a implantação das normas desta Resolução, o que se dará através de Portaria.
+
+
+Art. 19.
+
+Esta Resolução entrará em vigor na data de sua publicação.
+
+
+Art. 20.
+
+Ficam revogadas as disposições em contrário.
+
+
+**GABINETE DA PRESIDÊNCIA DA CÂMARA MUNICIPAL DE CAÇU,** Estado de Goiás, aos 22 dias do mês de abril de 2020.
+
+
+**Ver. Edivaldo Fernandes de Carvalho**  
+PRESIDENTE
+
+**Ver. Luiz Carlos Sabino Júnior**  
+1º SECRETÁRIO
+

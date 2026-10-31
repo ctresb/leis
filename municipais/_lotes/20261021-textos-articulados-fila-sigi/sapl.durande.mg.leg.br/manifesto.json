@@ -1,0 +1,42 @@
+{
+  "host": "sapl.durande.mg.leg.br",
+  "metadados_unicos_observados": 27,
+  "total_api_declarado": 27,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 21,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/1d81f16533a422e9517f61d9d4476d216b47c5980b9548edc91802894a564358.json",
+    "url": "https://sapl.durande.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.durande.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "924f74b0408175cef554587556fef32ec2f28891079913ce8a113d80090a498c",
+    "bytes": 955,
+    "capturado_em": "2026-10-28T10:25:21.437086-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/f00e307dea0daa507ef2af243f037dbcd9d184cd38306cc839176e8623005a2e.json",
+    "url": "https://sapl.durande.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.durande.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a47bdb2c1b2dd94c35e59f681406570360d4c84afdcd50156e274e7448adea18",
+    "bytes": 761,
+    "capturado_em": "2026-10-28T10:25:20.470586-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/b9f434ec0466c9a9d5d07b9b499d8c1f84e4d1023d8339fd8c48dc1e5e2adab1.json",
+      "url": "https://sapl.durande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.durande.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d43c57bcbfeb54d5c904988c51b864c7c5dac8d49206dd809de6a40e8ca8ac10",
+      "bytes": 18107,
+      "capturado_em": "2026-10-28T10:25:23.556466-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

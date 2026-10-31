@@ -1,0 +1,80 @@
+---
+titulo: "DECRETO N. 93/2026 DE 11 DE MARÇO DE 2026"
+uf: "RO"
+municipio: "URUPÁ"
+tipo: "Decreto"
+numero: "93"
+data: 2026-03-11
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/03/2026"
+data_publicacao: 2026-03-12
+codigo_identificador: "CDC1ABDD"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116021_2026-03-11_843dc72db4265bffca78ff396e143f38.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO N. 93/2026 DE 11 DE MARÇO DE 2026
+
+DECRETO N. 93/2026 DE 11 DE MARÇO DE 2026
+MUNICIPIO DE URUPA
+ESTADO DO: RO
+Exercício: 2026
+Decreto n° 93/2026 de 11/03/2026
+Ementa: Abre Crédito Adicional Especial e da outras providências.
+O Prefeito Municipal de MUNICIPIO DE URUPA, RO, no uso de suas atribuições legais e das que lhe foram conferidas pela Lei Específica nº
+1173/2025 de 29/10/2025.
+Decreta:
+Art. 1º - Fica aberto no corrente Exercício o Crédito Adicional Especial, no Orçamento Geral do Município, no valor de R$6.310,61 (seis mil e
+trezentos e dez reais e sessenta e um centavos), destinado ao reforço das seguintes Dotações Orçamentárias.
+Suplementação
+02
+02.008
+02.008.20.782.0012.2.127
+206 - 3.3.90.39.00.00
+Total Suplementação:
+
+15000000
+
+MUNICIPIO DE URUPA
+SECRETARIA DE AGRICULTURA
+RECUPERAÇÃO DE ESTRADAS VICINAIS - TERMO DE CONVÊNIO N.
+327/2025/PGE-DERADM
+OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA
+6.310,61
+6.310,61
+
+Art 2º - Para atender o disposto no Artigo 1° deste Decreto, utilizar-se-á os recursos resultantes de Anulação de dotações, de acordo com o Artigo n°
+43 da Lei Federal n° 4.320/64, conforme descriminação abaixo:
+Redução
+02
+02.002
+02.002.04.999.0002.9.999
+41 - 9.9.99.99.00.00
+Total Redução:
+
+15000000
+
+MUNICIPIO DE URUPA
+SECRETARIA DE ADMINISTRACAO E PLANEJAMENTO
+RESERVA DE CONTINGÊNCIA
+RESERVA DE CONTINGENCIA
+
+6.310,61
+6.310,61
+
+Art 3º - Este Projeto Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+Edifício da Prefeitura Municipal de MUNICIPIO DE URUPA, Estado do RO, em 11 de Março de 2026.
+Prefeito
+
+www.diariomunicipal.com.br/arom
+
+244
+
+Rondônia , 12 de Março de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVII | Nº 4190
+FONTE: Sistema Elotech Gestão Pública Unidade Responsável MUNICIPIO DE URUPA
+
+11/03/2026 - 17:11:15
+
+Publicado por:
+Juciane Gonçalves Maia

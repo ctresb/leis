@@ -1,0 +1,42 @@
+{
+  "host": "sapl.canaadoscarajas.pa.leg.br",
+  "metadados_unicos_observados": 59,
+  "total_api_declarado": 59,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaadoscarajas.pa.leg.br/6b2cf64c482023f7bd02f374ba93caf03f77e5ca75a6e000a3cae74029316163.json",
+    "url": "https://sapl.canaadoscarajas.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.canaadoscarajas.pa.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2b1d766f22bbe81f79c5a17f3e64b31eaec83c1722ccdbdf0669f4b8922e5f3e",
+    "bytes": 957,
+    "capturado_em": "2026-10-27T22:24:27.369891-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaadoscarajas.pa.leg.br/5844c71e024f08b6fe4f9488cecf9f398fb006d6880ecd4424636d967f46c84c.json",
+    "url": "https://sapl.canaadoscarajas.pa.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.canaadoscarajas.pa.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9b213883fb45ad2b56ea5aca1be2520d6a1353d256877a4fca8d430bb1f133fd",
+    "bytes": 860,
+    "capturado_em": "2026-10-27T22:24:26.649955-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canaadoscarajas.pa.leg.br/05665db8dc1d2446fc2c1e2e80eb5a178e4809547344bdbdc074342d72b2c1d4.json",
+      "url": "https://sapl.canaadoscarajas.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.canaadoscarajas.pa.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "119172d2352a99962f841ac38413a4f78b04f5a7f588a68aabd91096cb6636d4",
+      "bytes": 38918,
+      "capturado_em": "2026-10-27T22:24:29.840243-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

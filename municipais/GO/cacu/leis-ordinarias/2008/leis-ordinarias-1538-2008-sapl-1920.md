@@ -1,0 +1,292 @@
+---
+titulo: "Lei Ordinária nº 1.538, de 19 de maio de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1538"
+data: "2008-05-19"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2008-10-17; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1920"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/190/text"
+sha256_fonte: "47f1e564a7703b5ac881611e65f52069735899eeb316e9e3f4cba65024c009ce"
+sha256_texto: "4c80d89e5a3d29a3ebdcfeea7bf4700894fdd1ce2d73ee2407ec9e445c7de501"
+capturado_em_fonte: "2026-10-27T21:37:30.913177-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.538, de 19 de maio de 2008
+
+Cria o Fundo Municipal de Habitação de Interesse Social – FMHIS e institui o Conselho-Gestor do FMHIS.
+
+
+**O PREFEITO MUNICIPAL DE CAÇU:**  
+Faço saber que a Câmara Municipal aprovou e eu, Prefeito Municipal sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado no Município de Caçu, Estado de Goiás o Fundo Municipal de Habitação de Interesse Social – FMHIS e institui o Conselho-Gestor do FMHIS.
+
+
+#### CAPÍTULO I — DO FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL
+
+
+##### Seção I — Objetivos e Fontes
+
+
+Art. 2º.
+
+Fica criado o Fundo Municipal de Habitação de Interesse Social – FMHIS, de natureza contábil, com o objetivo de centralizar e gerenciar recursos orçamentários para os programas destinados a implementar políticas habitacionais direcionadas à população de menor renda.
+
+
+Art. 3º.
+
+O FMHIS é constituído por:
+
+
+I –
+
+dotações do Orçamento Geral da União, do Estado ou Município, classificadas na função de habitação;
+
+
+II –
+
+outros fundos ou programas que vierem a ser incorporados ao FMHIS;
+
+
+III –
+
+recursos provenientes de empréstimos externos e internos para programas de habitação;
+
+
+IV –
+
+contribuições e doações de pessoas físicas ou jurídicas, entidades e organismos de cooperação nacionais ou internacionais;
+
+
+V –
+
+receitas operacionais e patrimoniais de operações realizadas com recursos do FMHIS;
+
+
+VI –
+
+outros recursos que lhe vierem a ser destinados;
+
+
+VII –
+
+dotação proveniente do orçamento geral do município, classificada na função de habitação;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+VIII –
+
+recurso do FNHIS, que lhe vierem a ser destinado.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+##### Seção II — Do Conselho-Gestor do FMHIS
+
+
+Art. 4º.
+
+O FMHIS será gerido por um Conselho-Gestor.
+
+
+Art. 5º.
+
+O Conselho Gestor é um órgão de caráter deliberativo e será composto por representantes de entidades públicas e privadas, bem como por segmentos da sociedade ligados a área de habitação, tendo como garantia o princípio democrático de escolha de seus representantes e a proporção de ¹/4 das vagas aos representantes de movimentos populares, cujas entidades serão especificadas a seguir:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+I –
+
+três integrantes do poder público municipal, sendo 01 (um) destes indicado ou reservado ao Poder Legislativo; 01 (um) a Secretaria da Administração e 01 (um) a Secretaria de Ação e Promoção Social;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+II –
+
+dois integrantes a entidades privadas: 01 (um) a Associação Comercial e Industrial e 01 (um) ao Sindicato Rural;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+III –
+
+um representante da sociedade ligada a área de habitação: 01 (um) ao Departamento de Engenharia do Município;
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+IV –
+
+dois representantes dos movimentos populares: 02 (dois) a Presidentes de Bairros.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+V –
+
+um integrante dos trabalhadores representado por suas entidades sindicais.(
+
+
+§ 1º
+
+A Presidência do Conselho-Gestor do FMHIS será exercida pelo integrante do Poder Público Municipal, sendo este, responsável pela área habitacional.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+§ 2º
+
+O Presidente do Conselho-Gestor do FMHIS exercerá o voto de desempate.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+§ 3º
+
+Competirá ao Presidente proporcionar ao Conselho-Gestor os meios necessários ao exercício de suas competências.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+§ 4º
+
+A composição, as atribuições e o regulamento do Conselho Gestor será estabelecido pelo Poder Executivo.”
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 1.553, de 17 de outubro de 2008.
+
+
+##### Seção III — Das Aplicações dos Recursos do FMHIS
+
+
+Art. 6º.
+
+As aplicações dos recursos do FMHIS serão destinadas a ações vinculadas aos programas de habitação de interesse social que contemplem:
+
+
+I –
+
+aquisição, construção, conclusão, melhoria, reforma, locação social e arrendamento de unidades habitacionais em áreas urbanas e rurais;
+
+
+II –
+
+produção de lotes urbanizados para fins habitacionais;
+
+
+III –
+
+urbanização, produção de equipamentos comunitários, regularização fundiária e urbanística de áreas caracterizadas de interesse social;
+
+
+IV –
+
+implantação de saneamento básico, infra-estrutura e equipamentos urbanos, complementares aos programas habitacionais de interesse social;
+
+
+V –
+
+aquisição de materiais para construção, ampliação e reforma de moradias;
+
+
+VI –
+
+recuperação ou produção de imóveis em áreas encortiçadas ou deterioradas, centrais ou periféricas, para fins habitacionais de interesse social;
+
+
+VII –
+
+outros programas e intervenções na forma aprovada pelo Conselho-Gestor do FMHIS.
+
+
+Parágrafo único
+
+Será admitida a aquisição de terrenos vinculada à implantação de projetos habitacionais.
+
+
+##### Seção IV — Das Competências do Conselho Gestor do FMHIS
+
+
+Art. 7º.
+
+Ao Conselho Gestor do FMHIS compete:
+
+
+I –
+
+estabelecer diretrizes e fixar critérios para a priorização de linhas de ação, alocação de recursos do FMHIS e atendimento dos beneficiários dos programas habitacionais, observado o disposto nesta Lei, a política e o plano municipal de habitação;
+
+
+II –
+
+aprovar orçamentos e planos de aplicação e metas anuais e plurianuais dos recursos do FMHIS;
+
+
+III –
+
+fixar critérios para a priorização de linhas de ações;
+
+
+IV –
+
+deliberar sobre as contas do FMHIS;
+
+
+V –
+
+dirimir dúvidas quanto à aplicação das normas regulamentares, aplicáveis ao FMHIS, nas matérias de sua competência;
+
+
+§ 1º
+
+As diretrizes e critérios previstos no inciso I do caput deste artigo deverão observar ainda as normas emanadas do Conselho Gestor do Fundo Nacional de Habitação de Interesse Social, de que trata a Lei Federal no 11.124, de 16 de junho de 2005, nos casos em que o FMHIS vier a receber recursos federais.
+
+
+§ 2º
+
+O Conselho Gestor do FMHIS promoverá ampla publicidade das formas e critérios de acesso aos programas, das modalidades de acesso à moradia, das metas anuais de atendimento habitacional, dos recursos previstos e aplicados, identificados pelas fontes de origem, das áreas objeto de intervenção, dos números e valores dos benefícios e dos financiamentos e subsídios concedidos, de modo a permitir o acompanhamento e fiscalização pela sociedade.
+
+
+§ 3º
+
+O Conselho Gestor do FMHIS promoverá audiências públicas e conferências, representativas dos segmentos sociais existentes, para debater e avaliar critérios de alocação de recursos e programas habitacionais existentes.
+
+
+#### CAPÍTULO II — DISPOSIÇÕES GERAIS, TRANSITÓRIAS E FINAIS
+
+
+Art. 8º.
+
+Esta Lei será implementada em consonância com a Política Nacional de Habitação e com o Sistema Nacional de Habitação de Interesse Social.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 10.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete do Prefeito de Caçu, Estado de Goiás, em 19 de maio de 2008.
+
+
+**GILMAR JOSÉ DE FREITAS GUIMARÃES**
+
+Prefeito Municipal
+

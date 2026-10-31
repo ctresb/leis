@@ -1,0 +1,214 @@
+Autoriza o Chefe do Poder Executivo Municipal a proceder à abertura de um Crédito Adicional Especial, no valor de R$ 6.664.518,45 (seis milhões, seiscentos e sessenta e quatro mil, quinhentos e dezoito reais e quarenta e cinco centavos) ao Orçamento Geral do Município.
+
+
+A Câmara Municipal de Foz do Iguaçu, Estado do Paraná, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a proceder à abertura de um Crédito Adicional Especial ao Orçamento Geral do Município, no valor de R$ 6.664.518,45 (seis milhões, seiscentos e sessenta e quatro mil, quinhentos e dezoito reais e quarenta e cinco centavos), na forma abaixo especificada:
+
+
+<table><tbody><tr><td><strong>01</strong></td><td colspan="2"><strong>- CÂMARA MUNICIPAL</strong></td></tr><tr><td> 01</td><td colspan="2">- CÂMARA MUNICIPAL</td></tr><tr><td> 01 031 0001 2.002</td><td colspan="2">- Coordenação, Supervisão e Administração Geral</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente</td><td> 20.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>04</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</strong></td></tr><tr><td> 04</td><td colspan="2">- DIRETORIA DE GESTÃO DE PESSOAS</td></tr><tr><td> 04 122 0030 2.019</td><td colspan="2">- Aquisição de Vale Transporte</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 400.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>10</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA SAÚDE</strong></td></tr><tr><td> 01</td><td colspan="2">- FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td> 10 122 0100 2.090</td><td colspan="2">- Manutenção e Ampliação das Atividades de Gestão em Saúde</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.303</td><td>- Saúde - Receitas Vinculadas (EC 29/00 - 15%) - Exercício Corrente....</td><td> 180.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 10 304 0580 2.097</strong></td><td colspan="2"><strong>- Manutenção das Ações Vigilância Sanitária</strong></td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.497</td><td>- Vigilância em Saúde....</td><td> 10.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>12</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA EDUCAÇÃO</strong></td></tr><tr><td> 01</td><td colspan="2">- GABINETE DO SECRETÁRIO</td></tr><tr><td> 12 361 0600 2.112</td><td colspan="2">- Manutenção do Transporte Escolar</td></tr><tr><td> 3.3.91.33</td><td colspan="2">- Passagens e Despesas com Locomoção</td></tr><tr><td> 1.131</td><td>- PMFI/SEED - Transporte Escolar....</td><td> 1.000.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>02</strong></td><td colspan="2"><strong>- DIRETORIA DE ENSINO FUNDAMENTAL</strong></td></tr><tr><td> 12 361 0600 2.114</td><td colspan="2">- Manutenção do Ensino Fundamental</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente....</td><td> 120.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE EDUCAÇÃO INFANTIL</strong></td></tr><tr><td> 12 365 0600 2.102</td><td colspan="2">- Manutenção da Educação Infantil</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente....</td><td> 120.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>31</strong></td><td colspan="2"><strong>- FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</strong></td></tr><tr><td> 01</td><td colspan="2">- FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td></tr><tr><td> 13 392 0310 2.180</td><td colspan="2">- Manutenção e Gestão da Fundação Cultural</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td> 5.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>32</strong></td><td colspan="2"><strong>- INSTITUTO DE TRANSPORTES E TRÂNSITO DE FOZ DO IGUAÇU - FOZTRANS</strong></td></tr><tr><td> 01</td><td colspan="2">- FOZTRANS</td></tr><tr><td> 26 453 0710 2.280</td><td colspan="2">- Regime Emergencial de Operação e Custeio do Transporte Coletivo</td></tr><tr><td> 3.3.90.93</td><td colspan="2">- Indenizações e Restituições</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 986.181,45</td></tr><tr><td colspan="3"> </td></tr><tr><td> 26 453 0710 2.284</td><td colspan="2">- Operação e Custeio do Transporte Coletivo</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td> 934.749,00</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 2.888.585,00</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 1,00</td></tr><tr><td> 3.3.90.93</td><td>- Indenizações e Restituições</td><td> </td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 1,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>33</strong></td><td colspan="2"><strong>- INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU - FOZHABITA</strong></td></tr><tr><td> 01</td><td colspan="2">- FOZHABITA - INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU</td></tr><tr><td> 16 482 0700 2.193</td><td colspan="2">- Manutenção do FOZHABITA</td></tr><tr><td> 3.3.91.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td> 1,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>- TOTAL DO CRÉDITO ADICIONAL ESPECIAL </strong></td><td><strong> 6.664.518,45</strong></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Servirá de recurso para cobertura do crédito de que trata o art. 1º, na forma do art. 43, parágrafo 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, os resultantes de anulação parcial ou total de dotações orçamentárias, ou de créditos adicionais, autorizados em lei, e a seguir especificados:
+
+
+<table><tbody><tr><td><strong>01</strong></td><td colspan="2"><strong>- CÂMARA MUNICIPAL</strong></td></tr><tr><td>01</td><td colspan="2">- CÂMARA MUNICIPAL</td></tr><tr><td>01 031 0001 2.002</td><td colspan="2">- Coordenação, Supervisão e Administração Geral</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente....</td><td>20.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>02</strong></td><td colspan="2"><strong>- GABINETE DO PREFEITO</strong></td></tr><tr><td> 01</td><td>- DIRETORIA DE GABINETE</td><td> </td></tr><tr><td> 04 122 0010 2.003</td><td colspan="2">- Manutenção do Gabinete do Prefeito</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 7.000,00</td></tr><tr><td> </td><td colspan="2"> </td></tr><tr><td> 02</td><td>- DIRETORIA DE ASSUNTOS INTERNACIONAIS</td><td> </td></tr><tr><td> 04 122 0010 2.005</td><td colspan="2">- Manutenção da Diretoria de Assuntos Internacionais</td></tr><tr><td> 4.4.90.52</td><td>- Equipamentos e Material Permanente</td><td> </td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 5.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>03</strong></td><td colspan="2"><strong>- PROCURADORIA GERAL DO MUNICÍPIO</strong></td></tr><tr><td> 01</td><td>- GABINETE DO PROCURADOR GERAL</td><td> </td></tr><tr><td> 04 122 0020 2.006</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 12.500,00</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 36.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>04</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 04 122 0030 2.010</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 10.000,00</td></tr><tr><td> </td><td colspan="2"> </td></tr><tr><td> 04 126 0030 1.005</td><td colspan="2">- Sistema Informatizado de Gestão</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 9.650,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>02</strong></td><td colspan="2"><strong>- DIRETORIA DE ADMINISTRAÇÃO</strong></td></tr><tr><td> 04 122 0030 2.012</td><td colspan="2">- Manutenção do Prédio Sede e Sub-Sedes da Administração Municipal e Locação de Imóveis</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 13.000,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 12.500,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>04</strong></td><td colspan="2"><strong>- DIRETORIA DE GESTÃO DE PESSOAS</strong></td></tr><tr><td> 04 122 0030 2.019</td><td colspan="2">- Aquisição de Vale Transporte</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 400.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>04 128 0030 2.015</strong></td><td colspan="2"><strong>- Formação de Recursos Humanos</strong></td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 5.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE PATRIMÔNIO E ALMOXARIFADO</strong></td></tr><tr><td> 04 122 0030 2.013</td><td colspan="2">- Controle e Administração Patrimonial</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 24.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>06</strong></td><td colspan="2"><strong>- DIRETORIA DE SAÚDE OCUPACIONAL</strong></td></tr><tr><td> 04 122 0030 2.022</td><td colspan="2">- Manutenção da Diretoria de Saúde Ocupacional</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 86.000,00</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td> 05</td><td colspan="2">- CONTROLADORIA GERAL DO MUNICÍPIO</td></tr><tr><td> 01</td><td>- GABINETE DO CONTROLADOR GERAL</td><td> </td></tr><tr><td> 04 124 0030 2.025</td><td colspan="2">- Controle Interno</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 9.250,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>06</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE SEGURANÇA PÚBLICA</strong></td></tr><tr><td> 04</td><td>- DIRETORIA DE LOGÍSTICA</td><td> </td></tr><tr><td> 04 122 0500 1.007</td><td colspan="2">- Aquisição de Armas</td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 27.750,00</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 11.250,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>04 122 0500 2.032</strong></td><td colspan="2"><strong>- Manutenção das Atividades Operacionais de Patrulhamento, Vigilância e Sede da SMSP</strong></td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 30.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>07</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA FAZENDA</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 23 695 0030 2.042</td><td colspan="2">- Integralização de Capital do Centro de Convenções</td></tr><tr><td> 4.5.90.65</td><td colspan="2">- Constituição ou Aumento de Capital de Empresas</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 220.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>05</strong></td><td><strong>- DIRETORIA DE GESTÃO ORÇAMENTÁRIA</strong></td><td> </td></tr><tr><td> 04 122 0030 2.053</td><td colspan="2">- Manutenção da Diretoria de Gestão Orçamentária</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 20.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>09</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE ESPORTE E LAZER</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 27 812 0540 1.020</td><td colspan="2">- Aquisição de Materiais e Equipamentos Esportivos</td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 60.000,00</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 60.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 27 812 0540 1.021</strong></td><td colspan="2"><strong>- Construção, Reforma e Ampliação de Praças Desportivas</strong></td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 25.000,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 15.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>02</strong></td><td colspan="2"><strong>- DIRETORIA DE PLANEJAMENTO DO ESPORTE E LAZER</strong></td></tr><tr><td> 27 812 0540 2.083</td><td colspan="2">- Manutenção, Reparos e Reformas da Infra-Estrutura Desportiva</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 50.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>10</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA SAÚDE</strong></td></tr><tr><td> 01</td><td colspan="2">- FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td> 10 122 0100 2.090</td><td colspan="2">- Manutenção e Ampliação das Atividades de Gestão em Saúde</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.303</td><td>- Saúde - Receitas Vinculadas (EC 29/00 - 15%) - Exercício Corrente</td><td> 180.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 10 304 0580 2.097</strong></td><td colspan="2"><strong>- Manutenção das Ações Vigilância Sanitária</strong></td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.497</td><td>- Vigilância em Saúde</td><td> 10.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>11</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DO TRABALHO, JUVENTUDE E CAPACITAÇÃO</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 11 334 0110 2.200</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 12.500,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>12</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA EDUCAÇÃO</strong></td></tr><tr><td> 01</td><td colspan="2">- GABINETE DO SECRETÁRIO</td></tr><tr><td> 12 361 0600 2.112</td><td colspan="2">- Manutenção do Transporte Escolar</td></tr><tr><td> 3.3.90.33</td><td colspan="2">- Passagens e Despesas com Locomoção</td></tr><tr><td> 1.131</td><td>- PMFI/SEED - Transporte Escolar</td><td> 1.000.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>02</strong></td><td colspan="2"><strong>- DIRETORIA DE ENSINO FUNDAMENTAL</strong></td></tr><tr><td> 12 361 0600 2.114</td><td colspan="2">- Manutenção do Ensino Fundamental</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td> 120.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE EDUCAÇÃO INFANTIL</strong></td></tr><tr><td> 12 365 0600 2.102</td><td colspan="2">- Manutenção da Educação Infantil</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.104</td><td>- 25% sobre demais impostos vinculados à educação - Exercício Corrente</td><td> 120.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>13</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE TURISMO E PROJETOS ESTRATÉGICOS</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 23 695 0130 2.134</td><td colspan="2">- Manutenção da Estrutura da SMTU</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 8.750,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>03</strong></td><td><strong>- DIRETORIA DE PROMOÇÃO, MARKETING E EVENTOS DO TURISMO</strong></td><td> </td></tr><tr><td> 23 695 0620 2.149</td><td colspan="2">- Manutenção do Observatório Econômico</td></tr><tr><td> 4.4.50.42</td><td colspan="2">- Auxílios</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 100.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 23 695 0620 2.168</strong></td><td colspan="2"><strong>- Manutenção das Ações e Atividades do Centro Municipal de Inovação</strong></td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 100.000,00</td></tr><tr><td> 3.3.90.35</td><td colspan="2">- Serviços de Consultoria</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 100.000,00</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 300.000,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 50.002,45</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 23 695 0620 2.210</strong></td><td colspan="2"><strong>- Manutenção da Agência Municipal de Desenvolvimento, Turismo e da Inovação - AMD</strong></td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 10.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 23 695 0620 2.211</strong></td><td colspan="2"><strong>- Manutenção do Fundo Municipal de Desenvolvimento, Turismo e da Inovação - FMD</strong></td></tr><tr><td> 3.3.60.45</td><td colspan="2">- Subvenções Econômicas</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 80.000,00</td></tr><tr><td> 3.3.90.35</td><td colspan="2">- Serviços de Consultoria</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 100.000,00</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.000</td><td>- Recursos Ordinários (Livres) - Exercício Corrente</td><td> 154.749,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 23 695 0620 2.212</strong></td><td colspan="2"><strong>- Manutenção das Ações de Captação, Fomento e Incentivo a Novos Investimentos</strong></td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 10.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>14</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DA TECNOLOGIA DA INFORMAÇÃO</strong></td></tr><tr><td> 03</td><td>- DIRETORIA DE TELECOMUNICAÇÕES</td><td> </td></tr><tr><td> 04 722 0060 2.152</td><td colspan="2">- Gestão de Infraestrutura de Telecomunicações</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 50.000,00</td></tr><tr><td> 3.3.90.40</td><td colspan="2">- Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 97.500,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>04</strong></td><td><strong>- DIRETORIA DE ENGENHARIA DE SOFTWARE</strong></td><td> </td></tr><tr><td> 04 126 0060 2.153</td><td colspan="2">- Gestão de Engenharia de Software</td></tr><tr><td> 3.390.40</td><td colspan="2">- Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 94.466,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>15</strong></td><td><strong>- SECRETARIA MUNICIPAL DE OBRAS</strong></td><td> </td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 15 122 0150 2.137</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 5.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>02</strong></td><td><strong>- DIRETORIA DE OBRAS</strong></td><td> </td></tr><tr><td> 04 122 0150 2.136</td><td colspan="2">- Manutenção de Próprios Públicos Municipais</td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 45.000,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 25.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>03</strong></td><td><strong>- DIRETORIA DE SERVIÇOS E MANUTENÇÃO</strong></td><td> </td></tr><tr><td>04 122 0150 2.138</td><td colspan="2">- Manutenção da Central de Veículos</td></tr><tr><td>3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td>1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td>112.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 15 452 0150 2.140</strong></td><td colspan="2"><strong>- Manutenção de Galerias em Vias Urbana</strong></td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 182.000,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 25.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>05</strong></td><td><strong>- DIRETORIA DE PAVIMENTAÇÃO</strong></td><td> </td></tr><tr><td> 15 451 0640 2.144</td><td colspan="2">- Infra-Estrutura Urbana</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 243.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>06</strong></td><td><strong>- DIRETORIA DE PRODUÇÃO ASFÁLTICA</strong></td><td> </td></tr><tr><td> 15 451 0640 2.143</td><td colspan="2">- Usina de Asfalto - Manutenção de Pavimentação Asfáltica e Poliédrica</td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 119.500,00</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 47.500,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 25.000,00</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 25.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>16</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE PLANEJAMENTO E CAPTAÇÃO DE RECURSOS</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 04 127 0160 2.150</td><td colspan="2">- Manutenção do Gabinete do Secretário</td></tr><tr><td> 3.3.90.40</td><td colspan="2">- Serviços de Tecnologia da Informação e Comunicação - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 125.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>18</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE MEIO AMBIENTE</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 18 122 0650 2.160</td><td colspan="2">- Manutenção das Atividades de Gestão da Política do Meio Ambiente</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 18.750,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>20</strong></td><td colspan="2"><strong>- SECRETARIA MUNICIPAL DE DESENVOLVIMENTO COMERCIAL, INDUSTRIAL E AGROPECUÁRIO</strong></td></tr><tr><td> 01</td><td>- GABINETE DO SECRETÁRIO</td><td> </td></tr><tr><td> 23 122 0660 2.170</td><td colspan="2">- Manutenção e Gestão das Atividades e Serviços de Apoio Administrativo</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 37.500,00</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 37.500,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>02</strong></td><td><strong>- DIRETORIA DE AGROPECUÁRIA</strong></td><td> </td></tr><tr><td> 20 606 0660 1.113</td><td colspan="2">- Modernização e Manutenção do Banco de Alimentos</td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 25.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 20 606 0660 2.175</strong></td><td colspan="2"><strong>- Manutenção e Adequação das Estradas Rurais</strong></td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 325.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 20 608 0660 2.171</strong></td><td colspan="2"><strong>- Apoio ao Produtor Rural</strong></td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 62.000,00</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 250.000,00</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 50.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong> 04 22 661 0660 2.129</strong></td><td colspan="2"><strong>- DIRETORIA DE COMÉRCIO, INDÚSTRIA E SERVIÇOS - Manutenção dos Distritos Industriais e Parques de Serviços</strong></td></tr><tr><td> 3.3.90.30</td><td colspan="2">- Material de Consumo</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 10.000,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 10.000,00</td></tr><tr><td> 4.4.90.52</td><td colspan="2">- Equipamentos e Material Permanente</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 7.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>23 691 0660 1.077</strong></td><td colspan="2"><strong>- Revitalização e Manutenção das Feiras</strong></td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 12.500,00</td></tr><tr><td> 4.4.90.51</td><td colspan="2">- Obras e Instalações</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional....</td><td> 12.500,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>05</strong></td><td colspan="2"><strong>- DIRETORIA DE DESENVOLVIMENTO SOCIECONÔMICO</strong></td></tr><tr><td> 23 691 0660 2.147</td><td colspan="2">- Manutenção do Programa Juro Zero</td></tr><tr><td> 3.3.60.45</td><td colspan="2">- Subvenções Econômicas</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 200.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>06</strong></td><td><strong>- DIRETORIA DE BEM ESTAR ANIMAL</strong></td><td> </td></tr><tr><td> 20 605 0660 2.279</td><td colspan="2">- Programa de Castração de Cães e Gatos</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 250.550,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>31</strong></td><td colspan="2"><strong>- FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</strong></td></tr><tr><td> 01</td><td colspan="2">- FUNDAÇÃO CULTURAL DE FOZ DO IGUAÇU</td></tr><tr><td> 13 392 0310 2.180</td><td colspan="2">- Manutenção e Gestão da Fundação Cultural</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente</td><td> 5.000,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>32</strong></td><td colspan="2"><strong>- INSTITUTO DE TRANSPORTES E TRÂNSITO DE FOZ DO IGUAÇU - FOZTRANS</strong></td></tr><tr><td> 01</td><td colspan="2">- FOZTRANS</td></tr><tr><td> 26 453 0710 2.280</td><td colspan="2">- Regime Emergencial de Operação e Custeio do Transporte Coletivo</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.505</td><td>- Royalties Tratado de Itaipu Binacional</td><td> 444.282,00</td></tr></tbody></table>
+
+
+<table><tbody><tr><td><strong>33</strong></td><td colspan="2"><strong>- INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU - FOZHABITA</strong></td></tr><tr><td> 01</td><td colspan="2">- FOZHABITA - INSTITUTO DE HABITAÇÃO DE FOZ DO IGUAÇU</td></tr><tr><td> 16 482 0700 2.193</td><td colspan="2">- Manutenção do FOZHABITA</td></tr><tr><td> 3.3.90.39</td><td colspan="2">- Outros Serviços de Terceiros - Pessoa Jurídica</td></tr><tr><td> 1.001</td><td>- Recursos do Tesouro (Descentralizados) Exercício Corrente</td><td> 1,00</td></tr></tbody></table>
+
+<table><tbody><tr><td><strong>- TOTAL DA ANULAÇÃO </strong></td><td><strong> 6.664.518,45</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 19 de maio de 2023.
+
+Francisco Lacerda Brasileiro  
+Prefeito Municipal  
+  
+Nilton Aparecido Bobato  
+Secretário Municipal da Administração  
+  
+Salete Aparecida de Oliveira Horst  
+Responsável pela Secretaria Municipal da Fazenda
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

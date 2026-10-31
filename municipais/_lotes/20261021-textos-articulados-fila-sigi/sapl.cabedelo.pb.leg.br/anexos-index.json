@@ -1,0 +1,478 @@
+{
+  "estado": "indice_completo",
+  "total": 46,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/1/lei_no_1.517_2010_-_loa_2011_-_qdd.pdf da norma Lei Ordinária nº 1.517, de 30 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Q.D.D. - Quadro Detalhado da Despesa Fixada por Unidade Orçamentária.",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2010/1/lei_no_1.517_2010_-_loa_2011_-_qdd.pdf",
+      "ano": 2010,
+      "norma": 1223
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/2/lei_no_1.517_2010_-_loa_2011_-_qdd.pdf da norma Lei Ordinária nº 1.517, de 30 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Q.D.D. - Quadro Detalhado da Despesa Fixada por Unidade Orçamentária.",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2010/2/lei_no_1.517_2010_-_loa_2011_-_qdd.pdf",
+      "ano": 2010,
+      "norma": 1223
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/3/lei_no_1.550_2011_-_loa_2012-qdd.pdf da norma Lei Ordinária nº 1.550, de 30 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Quadro de Defesa Simplificado.",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2011/3/lei_no_1.550_2011_-_loa_2012-qdd.pdf",
+      "ano": 2011,
+      "norma": 578
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/4/lei_no_1.595_2012_-_qdd-loa_2013.pdf da norma Lei Ordinária nº 1.595, de 28 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Orçamento-Programa de 2013\r\nQ.D.D. - Quadro Detalhado da Despesa Fixada por Unidade Orçamentária",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2012/4/lei_no_1.595_2012_-_qdd-loa_2013.pdf",
+      "ano": 2012,
+      "norma": 545
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/5/lei_no_1.671_2013-loa_2014-qdd.pdf da norma Lei Ordinária nº 1.671, de 26 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Orçamento-Programa de 2014\r\nQ.D.D. - Quadro Detalhado da Despesa Fixada por Unidade Orçamentária",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2013/5/lei_no_1.671_2013-loa_2014-qdd.pdf",
+      "ano": 2013,
+      "norma": 130
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/6/lei_no_1.670_2013-ppa_2014-2017_-_anexos.pdf da norma Lei Ordinária nº 1.670, de 26 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei n° 1.670.",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2013/6/lei_no_1.670_2013-ppa_2014-2017_-_anexos.pdf",
+      "ano": 2013,
+      "norma": 129
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/7/lei_no_1.714_2014-ldo_2015-emendas_01-12.pdf da norma Lei Ordinária nº 1.714, de 18 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "LDO - Emendas (01-25)",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2014/7/lei_no_1.714_2014-ldo_2015-emendas_01-12.pdf",
+      "ano": 2014,
+      "norma": 174
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/8/lei_no_1.714_2014-ldo_2015-emendas_13-25.pdf da norma Lei Ordinária nº 1.714, de 18 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "LDO - Emendas (13-25)",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2014/8/lei_no_1.714_2014-ldo_2015-emendas_13-25.pdf",
+      "ano": 2014,
+      "norma": 174
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/9/lei_no_1.714_2014-ldo_2015-emendas_26-38.pdf da norma Lei Ordinária nº 1.714, de 18 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "LDO - Emendas (26-38)",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2014/9/lei_no_1.714_2014-ldo_2015-emendas_26-38.pdf",
+      "ano": 2014,
+      "norma": 174
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/10/lei_no_1.714_2014-ldo_2015-emendas_39-44.pdf da norma Lei Ordinária nº 1.714, de 18 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "LDO - Emedas (39-44)",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2014/10/lei_no_1.714_2014-ldo_2015-emendas_39-44.pdf",
+      "ano": 2014,
+      "norma": 174
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/11/lei_no_1.732_2014-loa_2015-emendas.pdf da norma Lei Ordinária nº 1.732, de 09 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Emendas",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2014/11/lei_no_1.732_2014-loa_2015-emendas.pdf",
+      "ano": 2014,
+      "norma": 192
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/12/lei_no_1.750_2015-plano_municipal_de_educacao_-_anexo.pdf da norma Lei Ordinária nº 1.750, de 12 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei n° 1.750.",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2015/12/lei_no_1.750_2015-plano_municipal_de_educacao_-_anexo.pdf",
+      "ano": 2015,
+      "norma": 209
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/13/lei_no_1.752_2015-ldo_2016-emendas.pdf da norma Lei Ordinária nº 1.752, de 27 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Emendas",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2015/13/lei_no_1.752_2015-ldo_2016-emendas.pdf",
+      "ano": 2015,
+      "norma": 212
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/14/lei_no_1.780_2015-loa_2016_-_anexos.pdf da norma Lei Ordinária nº 1.780, de 29 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2015/14/lei_no_1.780_2015-loa_2016_-_anexos.pdf",
+      "ano": 2015,
+      "norma": 239
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/15/lei_no_1.780_2015-loa_2016-emendas_parlamentares.pdf da norma Lei Ordinária nº 1.780, de 29 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Emendas",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2015/15/lei_no_1.780_2015-loa_2016-emendas_parlamentares.pdf",
+      "ano": 2015,
+      "norma": 239
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/16/lei_no_1.780_2015-loa_2016-qdd.pdf da norma Lei Ordinária nº 1.780, de 29 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Quadro Detalhado da Despesa",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2015/16/lei_no_1.780_2015-loa_2016-qdd.pdf",
+      "ano": 2015,
+      "norma": 239
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/17/lei_no_1.869_2017-loa-2018-emendas_qdd.pdf da norma Lei Ordinária nº 1.869, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Emendas QDD",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2017/17/lei_no_1.869_2017-loa-2018-emendas_qdd.pdf",
+      "ano": 2017,
+      "norma": 730
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/18/lei_no_1.869_2017-loa-2018-anexos.pdf da norma Lei Ordinária nº 1.869, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2017/18/lei_no_1.869_2017-loa-2018-anexos.pdf",
+      "ano": 2017,
+      "norma": 730
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/19/lc_no_006_1999-codigo_de_zoneamento_promulgada.pdf da norma Lei Complementar nº 6, de 14 de julho de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Promulgada",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/1999/19/lc_no_006_1999-codigo_de_zoneamento_promulgada.pdf",
+      "ano": 1999,
+      "norma": 277
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/20/lei_no_1.595_2012_-_loa_2013.pdf da norma Lei Ordinária nº 1.595, de 28 de dezembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "LOA",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2012/20/lei_no_1.595_2012_-_loa_2013.pdf",
+      "ano": 2012,
+      "norma": 545
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/lei_no_1.954_2019_-_anexo_1_loa.pdf da norma Lei Ordinária nº 1.954, de 14 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 1.954 2019 - Anexo 1 LOA",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2019/21/lei_no_1.954_2019_-_anexo_1_loa.pdf",
+      "ano": 2019,
+      "norma": 2544
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/22/lei_no_1.954_2019_-_anexo_2_loa.pdf da norma Lei Ordinária nº 1.954, de 14 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 1.954 2019 - Anexo 2 LOA",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2019/22/lei_no_1.954_2019_-_anexo_2_loa.pdf",
+      "ano": 2019,
+      "norma": 2544
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/23/lei_no_1.954_2019_-_anexo_3_loa.pdf da norma Lei Ordinária nº 1.954, de 14 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 1.954 2019 - Anexo 3 LOA",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2019/23/lei_no_1.954_2019_-_anexo_3_loa.pdf",
+      "ano": 2019,
+      "norma": 2544
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/24/lei_no_1.954_2019_-_anexo_4_loa.pdf da norma Lei Ordinária nº 1.954, de 14 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 1.954 2019 - Anexo 4 LOA",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2019/24/lei_no_1.954_2019_-_anexo_4_loa.pdf",
+      "ano": 2019,
+      "norma": 2544
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/25/lei_no_1.954_2019_-_anexo_5_loa.pdf da norma Lei Ordinária nº 1.954, de 14 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 1.954 2019 - Anexo 5 LOA",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2019/25/lei_no_1.954_2019_-_anexo_5_loa.pdf",
+      "ano": 2019,
+      "norma": 2544
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/26/lei_no_1.954_2019_-_anexo_6_loa.pdf da norma Lei Ordinária nº 1.954, de 14 de janeiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Lei nº 1.954 2019 - Anexo 6 LOA",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2019/26/lei_no_1.954_2019_-_anexo_6_loa.pdf",
+      "ano": 2019,
+      "norma": 2544
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/27/resolucao_no_023_a_1994.pdf da norma Resolução nº 23, de 16 de maio de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO Nº 23-A/94\r\nALTERA DOTAÇÕES DO ORÇAMENTO VIGENTE DA CÂMARA MUNICIPAL DE CABEDELO E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/1994/27/resolucao_no_023_a_1994.pdf",
+      "ano": 1994,
+      "norma": 2752
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/28/resolucao_no_04_1993.pdf da norma Resolução nº 4, de 10 de fevereiro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO Nº 04-A/93\r\nALTERA DOTAÇÕES DO ORÇAMENTO VIGENTE DA CÂMARA MUNICIPAL DE CABEDELO E DÁ OUTRAS PROVIDÊNCIAS",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/1993/28/resolucao_no_04_1993.pdf",
+      "ano": 1993,
+      "norma": 2766
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/29/resolucao_no_03_1990.pdf da norma Resolução nº 3, de 07 de dezembro de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO Nº 03-A/90\r\nCONCEDE REAJUSTE DE VENCIMENTOS AOS SERVIDORES DA SECRETARIA DA CÂMARA MUNICIPAL DE CABEDELO-PB, E ADOTA OUTRAS PROVIDÊNCIAS",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/1990/29/resolucao_no_03_1990.pdf",
+      "ano": 1990,
+      "norma": 2795
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1987/30/resolucao_no_21_1987_a.pdf da norma Resolução nº 21, de 28 de outubro de 1987",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "RESOLUÇÃO Nº 21-A/1987\r\nDISPÕE SOBRE A CONCESSÃO DE AJUDA DE CUSTO PARA PARTICIPAR DO XXIV CONGRESSO DE VEREADORES NA CIDADE DE NATAL, NOS DIAS 04, 05, 06 E 07 DE NOVEMBRO DE 1987.",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/1987/30/resolucao_no_21_1987_a.pdf",
+      "ano": 1987,
+      "norma": 2837
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/31/lei_no_2.050_2020_-_loa_2020_-_2o_arquivo.pdf da norma Lei Ordinária nº 2.050, de 10 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2020/31/lei_no_2.050_2020_-_loa_2020_-_2o_arquivo.pdf",
+      "ano": 2020,
+      "norma": 3031
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/32/lei_no_2.050_2020_-_loa_2020_-_3o_arquivo.pdf da norma Lei Ordinária nº 2.050, de 10 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2020/32/lei_no_2.050_2020_-_loa_2020_-_3o_arquivo.pdf",
+      "ano": 2020,
+      "norma": 3031
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/33/lei_no_2.050_2020_-_loa_2020_-_4o_arquivo.pdf da norma Lei Ordinária nº 2.050, de 10 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2020/33/lei_no_2.050_2020_-_loa_2020_-_4o_arquivo.pdf",
+      "ano": 2020,
+      "norma": 3031
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/34/lei_no_2.050_2020_-_loa_2020_-_5o_arquivo.pdf da norma Lei Ordinária nº 2.050, de 10 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2020/34/lei_no_2.050_2020_-_loa_2020_-_5o_arquivo.pdf",
+      "ano": 2020,
+      "norma": 3031
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/35/lei_no_2.050_2020_-_loa_2020_-_6o_arquivo.pdf da norma Lei Ordinária nº 2.050, de 10 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2020/35/lei_no_2.050_2020_-_loa_2020_-_6o_arquivo.pdf",
+      "ano": 2020,
+      "norma": 3031
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/36/lei_no_2.050_2020_-_loa_2020_-_7o_arquivo.pdf da norma Lei Ordinária nº 2.050, de 10 de janeiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2020/36/lei_no_2.050_2020_-_loa_2020_-_7o_arquivo.pdf",
+      "ano": 2020,
+      "norma": 3031
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/37/lei_no_2.084_2020_-_anexo_ldo_2021.pdf da norma Lei Ordinária nº 2.084, de 21 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Anexo LDO 2021",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2020/37/lei_no_2.084_2020_-_anexo_ldo_2021.pdf",
+      "ano": 2020,
+      "norma": 3074
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/38/regimento_interno_da_camara_municipal_-_resolucao_no_158_2006.pdf da norma Regimento Interno nº 158, de 15 de março de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Regimento Interno Original",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2006/38/regimento_interno_da_camara_municipal_-_resolucao_no_158_2006.pdf",
+      "ano": 2006,
+      "norma": 43
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1985/40/dl_no_003_1985_-atualiza-remuneracao-prefeito.pdf da norma Decreto Legislativo nº 3, de 04 de março de 1985",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Decreto Legislativo nº 03-A, de 08/04/1985\r\nAtualiza a remuneração do Prefeito Municipal de Cabedelo e revogam-se as disposições em contrário",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/1985/40/dl_no_003_1985_-atualiza-remuneracao-prefeito.pdf",
+      "ano": 1985,
+      "norma": 3544
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1985/41/dl_no_004_1985_-atualiza-remuneracao-prefeito.pdf da norma Decreto Legislativo nº 4, de 08 de abril de 1985",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Atualiza a remuneração do Prefeito Municipal de Cabedelo e revogam-se as disposições em contrário",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/1985/41/dl_no_004_1985_-atualiza-remuneracao-prefeito.pdf",
+      "ano": 1985,
+      "norma": 3546
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/42/lei_no_2.228_2022-anexos_ldo_2023.pdf da norma Lei Ordinária nº 2.228, de 06 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Anexos LDO 2023",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2022/42/lei_no_2.228_2022-anexos_ldo_2023.pdf",
+      "ano": 2022,
+      "norma": 3629
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/43/lei_no_2.390-2024-anexo__plano_municipal_de_gestao_integrada_residuos_solidos.pdf da norma Lei Ordinária nº 2.390, de 15 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei Municipal nº  -2.390/2024 - Plano Municipal de Gestão Integrada de Resíduos Sólidos de Cabedelo -PB",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2024/43/lei_no_2.390-2024-anexo__plano_municipal_de_gestao_integrada_residuos_solidos.pdf",
+      "ano": 2024,
+      "norma": 3848
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/44/lei_no_2.402_2024-_ldo_2025_anexos.pdf da norma Lei Ordinária nº 2.402, de 10 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Anexos LDO 2025",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2024/44/lei_no_2.402_2024-_ldo_2025_anexos.pdf",
+      "ano": 2024,
+      "norma": 3864
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/45/lei_no_2.514_2025-_dia_de_combate_ao_etarismo.pdf da norma Lei Ordinária nº 2.514, de 14 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2025/45/lei_no_2.514_2025-_dia_de_combate_ao_etarismo.pdf",
+      "ano": 2025,
+      "norma": 4047
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/46/resolucao_no_276_2025-_do_presidente_da_cmc-_presenca_remota.pdf da norma Resolução nº 276, de 03 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Resolução nº 276/2025, publicada em 04/04/2025",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2025/46/resolucao_no_276_2025-_do_presidente_da_cmc-_presenca_remota.pdf",
+      "ano": 2025,
+      "norma": 4070
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/47/lei_no_2.563_2025-_prefeito_municipal_-_abertura_de_credito.pdf da norma Lei Ordinária nº 2.563, de 23 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.cabedelo.pb.leg.br/media/sapl/public/anexonormajuridica/2025/47/lei_no_2.563_2025-_prefeito_municipal_-_abertura_de_credito.pdf",
+      "ano": 2025,
+      "norma": 4116
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabedelo.pb.leg.br/e55bc18a68d5c081079419700b55a18be4034d6cf401646ca5767522a6bf50d0.json",
+      "url": "https://sapl.cabedelo.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.cabedelo.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "22768e9de53aa7e126090ae7a54219b126c38711e1f7f3d54dd90b77e85af4a1",
+      "bytes": 21808,
+      "capturado_em": "2026-10-27T20:45:02.742866-03:00"
+    }
+  ]
+}

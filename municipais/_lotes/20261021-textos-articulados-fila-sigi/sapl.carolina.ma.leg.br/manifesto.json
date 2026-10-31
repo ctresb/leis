@@ -1,0 +1,42 @@
+{
+  "host": "sapl.carolina.ma.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carolina.ma.leg.br/89efe92b6e7a54fe025c833ec6139067ed9b747cf69645ba255f367efacc695f.json",
+    "url": "https://sapl.carolina.ma.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.carolina.ma.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7e1b603c836b07c085767090cf9813bcea3fdd7d0c4abb30b480a418f8dee103",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:38:06.256924-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carolina.ma.leg.br/99eab5813889ec8382dca2e5cdf500bc52809144873034c61d89403360d93644.json",
+    "url": "https://sapl.carolina.ma.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.carolina.ma.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f9dab7f34887d1a3b2488eef7b01e7e491fc1bcae05102b50b4d25eebe62aa9a",
+    "bytes": 753,
+    "capturado_em": "2026-10-27T22:38:05.528993-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carolina.ma.leg.br/997e055882be04f8b7339d2eae1f0d3d94cfde1a30716c6dbac7964f7c4d97ee.json",
+      "url": "https://sapl.carolina.ma.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.carolina.ma.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fefaeaa81ba2c826a7e09a6603b74ed74d6f00fe60dadb0e9c8e86738256e9f1",
+      "bytes": 1226,
+      "capturado_em": "2026-10-27T22:38:08.263203-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,113 @@
+---
+titulo: "DECRETO Nº 190/GAB/PMS/2026"
+uf: "RO"
+municipio: "SERINGUEIRAS"
+tipo: "Decreto"
+numero: "190"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 24/09/2026"
+data_publicacao: 2026-09-24
+codigo_identificador: "ED51CD8E"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116158_2026-09-24_daa577355dc6c72211fe2c56490fd6fd.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 190/GAB/PMS/2026
+
+DECRETO Nº 190/GAB/PMS/2026
+Decreto nº 190/GAB/PMS/2026 Seringueiras, 23 de setembro de
+2026.
+Institui a Agenda Transversal da Criança e do
+Adolescente no âmbito do Município de
+SERINGUEIRAS/RO, no contexto das ações
+vinculadas ao Selo UNICEF,e dá outras providências.
+O PREFEITO DO MUNICÍPIO DE SERINGUEIRAS, Estado do
+Rondônia, no uso das atribuições que lhe conferem a Constituição
+Federal e a Lei Orgânica do Município, especialmente os arts. 7º, 8º,
+incisos I, XIX e XXI, 12 e 54 da Lei Orgânica Municipal;
+CONSIDERANDO o disposto no art. 227 da Constituição Federal,
+que estabelece ser dever da família, da sociedade e do Estado
+assegurar à criança e ao adolescente, com absoluta prioridade, os
+direitos à vida, à saúde, à educação, à dignidade, ao respeito e à
+convivência familiar e comunitária;
+CONSIDERANDO disposto na Lei nº 8.069, de 13 de julho de 1990
+– Estatuto da Criança e do Adolescente, que estabelece a necessidade
+de articulação das políticas públicas voltadas à proteção integral da
+criança e do adolescente;
+CONSIDERANDO a necessidade de integração e coordenação das
+políticas públicas municipais voltadas à infância e à adolescência,
+especialmente nas áreas de saúde, educação e assistência social;
+CONSIDERANDO
+a
+participação
+do
+Município
+de
+SERINGUEIRAS/RO nas ações relacionadas ao Selo UNICEF,
+iniciativa que visa fortalecer políticas públicas voltadas à garantia dos
+direitos de crianças e adolescentes;
+DECRETA:
+Art. 1º Fica instituída, no âmbito do Município de Seringueiras, a
+Agenda Transversal da Criança e do Adolescente, instrumento de
+articulação intersetorial destinado ao planejamento, à execução e ao
+monitoramento das políticas públicas voltadas à promoção e proteção
+dos direitos da infância e da adolescência.
+Art. 2º A Agenda Transversal da Criança e do Adolescente tem por
+objetivos:
+I – promover a integração das políticas públicas municipais voltadas à
+infância e adolescência;
+II – fortalecer a articulação entre os órgãos da administração pública
+municipal responsáveis pelas políticas de saúde, educação e
+assistência social;
+III – estabelecer metas, indicadores e estratégias destinadas ao
+acompanhamento das ações voltadas à garantia dos direitos da criança
+e do adolescente;
+IV – aprimorar o monitoramento das políticas públicas relacionadas à
+infância e adolescência no âmbito municipal.
+Art. 3º A Agenda Transversal da Criança e do Adolescente será
+implementada de forma articulada entre os órgãos da administração
+pública municipal, especialmente:
+I – Secretaria Municipal de Assistência Social;
+II – Secretaria Municipal de Educação;
+III – Secretaria Municipal de Saúde.
+
+www.diariomunicipal.com.br/arom
+
+193
+
+Rondônia , 24 de Setembro de 2026 • Diário Oficial dos Municípios do Estado de Rondônia • ANO XVIII | Nº 4326
+Parágrafo único. Outros órgãos e entidades da administração pública
+municipal poderão participar da execução das ações previstas na
+Agenda Transversal, conforme necessidade administrativa.
+Art. 4º A Agenda Transversal deverá contemplar, entre outros
+elementos:
+I – objetivos estratégicos;
+II – eixos de atuação das políticas públicas;
+III – indicadores de monitoramento;
+IV – metas a serem alcançadas;
+V – mecanismos de acompanhamento e avaliação das ações
+desenvolvidas.
+Art. 5º Fica instituído a necessidade de criação do Comitê
+Intersetorial de Acompanhamento da Agenda Transversal da Criança e
+do Adolescente, responsável pela articulação, acompanhamento e
+monitoramento das ações previstas neste Decreto.
+Art. 6º. A composição, o funcionamento e as atribuições do Comitê
+Intersetorial poderão ser disciplinados por ato próprio do Poder
+Executivo.
+Art. 7º A implementação das ações previstas neste Decreto deverá
+observar a compatibilidade com os instrumentos de planejamento e
+orçamento do Município, especialmente:
+I – Plano Plurianual – PPA;
+II – Lei de Diretrizes Orçamentárias – LDO;
+III – Lei Orçamentária Anual – LOA.
+Art. 8º A Agenda Transversal da Criança e do Adolescente integra o
+presente Decreto na forma de Anexo, contendo os eixos estratégicos,
+objetivos, indicadores e metas das políticas públicas municipais
+voltadas à infância e à adolescência.
+Art. 9º Este Decreto entra em vigor na data de sua publicação.
+ARMANDO BERNARDO DA SILVA
+Prefeito Municipal
+Publicado por:
+Dayane Tavares de Oliveira

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.canta.rr.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canta.rr.leg.br/0651252ec1e60be7a2473592954ebc7213a78722b1384975503e3c16fa01792f.json",
+    "url": "https://sapl.canta.rr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.canta.rr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ee182414880c76b66e0acdd47b4936a1e6c6d4681475d38f7d07ab6e8b1691f3",
+    "bytes": 934,
+    "capturado_em": "2026-10-27T22:30:01.065195-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canta.rr.leg.br/0fc5c31e31d34f87717fd5f010a0a06d99619b818fd01237092f9dbc44f672a2.json",
+    "url": "https://sapl.canta.rr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.canta.rr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5405feea97386af2acca6af7649771d3d19a6106ff4f515246f3c5faff76711c",
+    "bytes": 704,
+    "capturado_em": "2026-10-27T22:30:00.411605-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.canta.rr.leg.br/a0625b9bc6a48f55d2eab5667a0954d21fc151e6f7456fced3d9990d03079443.json",
+      "url": "https://sapl.canta.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.canta.rr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e4bf30a09aa384d511d78bba43114b540bb7213112e865460d5151b36da4f893",
+      "bytes": 1056,
+      "capturado_em": "2026-10-27T22:30:03.066788-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

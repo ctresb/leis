@@ -1,0 +1,893 @@
+{
+  "criterio": "Confere números literais de epígrafes anteriores ao artigo inicial.\n\nSufixos alfabéticos são parte da identidade. Uma API com 1B e PDF com 01\npermanece pendente. Ausência de epígrafe clara não confirma o número nem a data.\n",
+  "script_sha256": "9306bbe75c4d05f82fbf21472ae522d78f2f2e8e2bdff1b3028cb14cbd41026d",
+  "resultados": [
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-476-2025-sapl-46.md",
+      "sha256": "e1be8db8ef3857e09d2ca67041be71d1c0b2cd7d10ec5f0985ebcef016b279ea",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR",
+          "numero": "476",
+          "numero_normalizado": "476",
+          "trecho": "\n\n\n\n                              LEI COMPLEMENTAR N.º 476 DE 25 DE NOVEMBRO DE 2025.\n\n                              DISPOE SOBRE A ALTERACAO DA LEI COMPLEMENTAR N° 425 DE 07 DE O"
+        }
+      ],
+      "numero_metadado": "476",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/764e8483060670e6cb27ee26832a0bceca23d509746406821584281131c62153.json.gz",
+        "sha256": "37712f2a1a4ca602326632195784b05a9577c3ae63ff01f4e0eda3d8284ff915",
+        "sha256_layout": "02e8263d719c3386479de325232c54abe7f19047936d3e5f0df1bafb46098d98",
+        "sha256_bbox": "1d973c19a8de393b6d53875862e174979a8b82ba0261269e56b2a36c758f9c59"
+      }
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-478-2025-sapl-48.md",
+      "sha256": "be76e256e0f78a5cd7574339b03863a21a85dd0a0ecb761c2328772d87baa299",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR",
+          "numero": "478",
+          "numero_normalizado": "478",
+          "trecho": "\n\n\n\n            LEI COMPLEMENTAR N.º478 DE 25 DE NOVEMBRO DE 2025.\n\n                  ALTERA O ART. 87 DA LEI COMPLEMENTAR N.º 222/2010, DE 24 DE\n              "
+        }
+      ],
+      "numero_metadado": "478",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2c1ec069889477d3cce35eeea5f9450c764b4e872d14756a6c73156a23294ff5.json.gz",
+        "sha256": "32ad8b00167653d0c59401ecc3613700c47a2ef3af844dfeeeea452c9fdf58ab",
+        "sha256_layout": "c771cc08dc062a79732b4679c71a8692117f953e21186b92187b74e30691df34",
+        "sha256_bbox": "fe808f18ef94dd9d562742d82a09aa2c251c598e1f3fb5f23383ae95bab79a5a"
+      }
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-453-2024-sapl-78.md",
+      "sha256": "73bfdaf6d6ba07dd564eda8bd9506fd97eb3bc134cbe6adf9ca8551eafd99b0d",
+      "epigrafes": [
+        {
+          "tipo": "LEI",
+          "numero": "453",
+          "numero_normalizado": "453",
+          "trecho": "\n\n\n\n                               LEI Nº 453 DE 01 DE JULHO DE 2024.\n\n\n                              DISPOE SOBRE AUTORIZACAO PARA ABERTURA DE CREDITO ADICIONAL MODA"
+        }
+      ],
+      "numero_metadado": "453",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/88aa647782a9203de268d78a2a14028dfa90e4c226da8958eaf1979d8df35f19.json.gz",
+        "sha256": "388abe6a3c64767cb3155764981888edba0b5b7512d79978b2e3d7f198436ad9",
+        "sha256_layout": "9c5a132369b8c3c20cd47b10f388d5d8df67cb73dabc4ea1035b345d41169efd",
+        "sha256_bbox": "173b6fdccbe5397bf4f7adf4d9cb53821e12004ea90878641a1ea4132fa445b0"
+      }
+    },
+    {
+      "path": "municipais/MS/sidrolandia/leis-complementares/2023/leis-complementares-182-2023-sapl-12.md",
+      "sha256": "92c5d443f09d6806005377e7feee1239e9b3eb3d96b2771544f32817b92df28b",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR",
+          "numero": "182",
+          "numero_normalizado": "182",
+          "trecho": "\n                LEI COMPLEMENTAR N.º 182, DE 6 DE NOVEMBRO DE 2023.\n\n“INSTITUI O CODIGO MUNICIPAL DE RESIDUOS SOLIDOS E DISCIPLINA A LIMPEZA\nURBANA NO MUNICIPIO"
+        }
+      ],
+      "numero_metadado": "182",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/01e55eb42b9de2dc16271cc39b3abf875f92070cb4b6a4dbbee605b6212b6363.json.gz",
+        "sha256": "157ded59468b381ee246aa36d5716bb08260ed9b670696646124f9d0cc783921",
+        "sha256_layout": "61f4a0d110ceb0da6976d0b9f7eca91ab3e3618beb998df7ce855f9053632058",
+        "sha256_bbox": "a49f19fd2679e6cbd1786de7df5db5afe2610107da473e43700dc19889094efd"
+      }
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-668.md",
+      "sha256": "2521e90015656e0ed1b5e8e52ad53ff012c7b5db1c4c24202e01fc6f5b98d2c3",
+      "epigrafes": [
+        {
+          "tipo": "DECRETO LEGISLATIVO",
+          "numero": "001",
+          "numero_normalizado": "1",
+          "trecho": "\nDECRETO LEGISLATIVO N.º 001/2026.\nEM 12 DE JANEIRO DE 2026.\n\n\n                                          “FIXA OS DIAS EM QUE SERAO REALIZADAS AS SE"
+        }
+      ],
+      "numero_metadado": "1",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/06aece21513d26e56e6f430d2b05f25bfe750fc7160876517447b00f4424b956.json.gz",
+        "sha256": "9e1219fb24a3e4a4aa09df69feffef53a12bc22ee762b000e1398cb7a1305c01",
+        "sha256_layout": "f298c62b0fc54f4ed124ce12169e9e8bd9246bed2d722222f41b200762780e37",
+        "sha256_bbox": "60c9e663bcfb99f32c47f65dd65f96b6770eb7ebaed70912bd145a68069c9cdf"
+      }
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2024/resolucoes-50-2024-sapl-789.md",
+      "sha256": "eb8c8df1be08110765170c446ae01496654beabc76697150e364c4624b200118",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "050",
+          "numero_normalizado": "50",
+          "trecho": "\nRESOLUCAO Nº 050, DE 24 DE JANEIRO DE 2024.\n\n\n\n\n                                             “INSTITUI O PROGRAMA VEREADOR MIRIM NA CAMA"
+        }
+      ],
+      "numero_metadado": "50",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0b09481598263e36f66bf5d88c6c17c428eb940567a1217e6818e7fcf4425361.json.gz",
+        "sha256": "28a9d46ef9c7f7e9067688b83b3d4837f33ae47a7abbd08838c167f7877fca61",
+        "sha256_layout": "10507d1d77bb76af8714e5c52536c029200d28c4d3609a4e926d906ba4f58088",
+        "sha256_bbox": "1d48d289553de54553b7ceff96e9804f8fcdb848ab886d5ce2d5a8c240bbde34"
+      }
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-66-2026-sapl-910.md",
+      "sha256": "82d1fcfd899b5b0820bba9605026c22661d835db9887d23907f20f55549196ab",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "066",
+          "numero_normalizado": "66",
+          "trecho": "\n\nRESOLUCAO Nº 066, DE 16 DE JUNHO DE 2026 DE AUTORIA DO\nLEGISLATIVO.\n\n                                         REGULAMENTA      A   APLIC"
+        }
+      ],
+      "numero_metadado": "66",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8d3d709e04329be3017637e695f99bfa90bbc48a38fb3815342992c6be7101c6.json.gz",
+        "sha256": "561c6ec318249ad0f49b2c1cba9ea033ea63398b76b4cc63c2d46e5b6ed52188",
+        "sha256_layout": "05500f6bae8c780651545ceed526140d718ab9c9f071b0a5539e037cf7c001fb",
+        "sha256_bbox": "88b751adc2c0521fbc7eea8fd4710adcf021808a8eb3431df5ae1fb51831edf7"
+      }
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-68-2026-sapl-766.md",
+      "sha256": "c11afe823e52c1ef21d560954db5b6533e226074e0a00f3371e53b6db1657729",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "068",
+          "numero_normalizado": "68",
+          "trecho": "\nRESOLUCAO Nº 068, DE 16 DE JUNHO DE 2026 DE AUTORIA DO\nLEGISLATIVO.\n\n\n\n\n                            “REGULAMENTA O PROGRAMA DE GOVERNANC"
+        }
+      ],
+      "numero_metadado": "68",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ceb41bb4cb9b28dc28b4e9f0678101fe88dc1248b46b5ab2cc287b8041d22f01.json.gz",
+        "sha256": "fdd93211837f5d1b87a36a807e536152ffa6f5c45b5d60f1bdf4493012ad049f",
+        "sha256_layout": "e05d6600a6d25b106bc387dcfa2c3dec9c942dd48aa15061b6e6dac596f840ce",
+        "sha256_bbox": "e747286fdb2bf04cf75974d165c4eb5b22c3ff83602fbd578feb5d622a50d6c0"
+      }
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-69-2026-sapl-774.md",
+      "sha256": "3c21387eb727b4aac79cd42a89f6b8e165d97cf2833b7d3ede8dc6b202bacaaa",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "069",
+          "numero_normalizado": "69",
+          "trecho": "\n\nRESOLUCAO Nº 069, DE 16 DE JUNHO DE 2026 DE AUTORIA DO\nLEGISLATIVO.\n\n\n\n\n                           “DISPOE SOBRE A APLICACAO DA LEI FEDE"
+        }
+      ],
+      "numero_metadado": "69",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e970bc585a7090b75adc729ec86d965714f064c98fc88db2104141a183638351.json.gz",
+        "sha256": "d2b7648f7dd4658ce33bf91cefbac315fe42170e1e606624a60bec502452ba1c",
+        "sha256_layout": "2ee4c5794bc4466a5fa9138401c886b06a35bb60dc817565e949876be70e19ff",
+        "sha256_bbox": "1be2ba8a840b31bd00c252fc82ae13e0a32aac43467754575e1fce18648d6899"
+      }
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-70-2026-sapl-911.md",
+      "sha256": "d636583df150e7834077d5a39206913576c9b29bab934d335d28371c46fa1c96",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "070",
+          "numero_normalizado": "70",
+          "trecho": "\n\nRESOLUCAO Nº 070, DE 22 DE JULHO DE 2026 DE AUTORIA DO\nLEGISLATIVO.\n\n\n\n\n                                 INSTITUI   O    AUXILIO-ALIMENT"
+        }
+      ],
+      "numero_metadado": "70",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ffc8d3e436b90d85faa8c677edfd4c1d7332e68c57964d99a985fd787f9157d1.json.gz",
+        "sha256": "77de46f45ac2aabe1cfc382af806b917e1e7b5be1e4b81981299b39f1aeed3c6",
+        "sha256_layout": "854709bd4ff055f3b60330d9ded64c58034f06e7640c6f39278c34ea5e4823a7",
+        "sha256_bbox": "8405d771cf9a5ab5686826788fed064616cda2039c781fb2ff3a103efb29a295"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2018/leis-complementares-541-2018-sapl-696.md",
+      "sha256": "2c6fe8ad356d657953b56d5d50c12c6fd18e7ae3f5f43a626ff1bd64f6360e84",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "541",
+          "numero_normalizado": "541",
+          "trecho": "\n\n\n                 LEI COMPLEMENTAR MUNICIPAL Nº 541,\n                      DE 15 DE FEVEREIRO DE 2018\n                                           ALTERA DISPOSITIVO DO CODI"
+        }
+      ],
+      "numero_metadado": "541",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5edb1fda782687516993cac492995870001bcf93ccaa5a20e32e2e1a88b4cc77.json.gz",
+        "sha256": "afc6bf8dc5258d66b194c4127c59070b6945087110e4fed4e55eb18f40ad1374",
+        "sha256_layout": "debfc56c5c8232d7670523b12ce64e0f54dd4d253fe17538bc4e288b98f6d296",
+        "sha256_bbox": "94c48105c0d00c5a9207ba02ac98120528ef462c3f6ea66100d50c51181f426e"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-592-2021-sapl-704.md",
+      "sha256": "d8e4f4ce7089b7471430dda223bd6a469cd47f1d6bd97d3c6e8c0f9f0566dea9",
+      "epigrafes": [],
+      "numero_metadado": "592",
+      "numero_literal_confirmado": false,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/15c535bbeafdff13886e23a6ba086ef3745e4e71c180ecc82a3e59948902ac1c.json.gz",
+        "sha256": "b357fd4e692398ec2a2bf131f31909ad646a6f41ee05fcf561e1f62d0fe78423",
+        "sha256_layout": "4b66145480a46d9e063b9241699985d8282bc6ffb7f0b8ec4cf9de040b9e16da",
+        "sha256_bbox": "9d188a69b98a5b32a3f0de96162f15bab18e61b661dd84af5aea9df89f6cd354"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-616-2021-sapl-708.md",
+      "sha256": "43c3a79d2286f69895b09fb1784dae27b3cbd666d3cf417aab4b5790f45862f4",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "616",
+          "numero_normalizado": "616",
+          "trecho": "\n\n\n              LEI COMPLEMENTAR MUNICIPAL Nº 616,\n                   DE 16 DE DEZEMBRO DE 2021\n                                        ALTERA A LEI COMPLEMENTAR NO 423/"
+        }
+      ],
+      "numero_metadado": "616",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ccf139a38b781211b5cd7902e665517c1814b26c8737a8739329ecd4416a9f7c.json.gz",
+        "sha256": "c552ea1eb299cbf87c21295bb56617957d322447a96225a47faf0631fe396e1d",
+        "sha256_layout": "d719eb3672cf3e94cf8a0f50e84a00e6d9363fb7a19accc8f9fb67692b16ad73",
+        "sha256_bbox": "2e61fb9ebefa8cf9ae939f99df806054d38ddb1e6014605ca8460e3ff39cd032"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-653-2023-sapl-720.md",
+      "sha256": "4d7f1bc7cc5a70486ddfea387c6ddfeff27d9f759bb801fdee6a51380d25759c",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "653",
+          "numero_normalizado": "653",
+          "trecho": "\n\n\n     LEI COMPLEMENTAR MUNICIPAL Nº 653, DE 06 DE\n                DEZEMBRO DE 2023\n                                        ALTERA A LEI Nº 517, DE 25 DE MAIO D"
+        }
+      ],
+      "numero_metadado": "653",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/33491d03b85e42d0f1629cbc1d7cd7afc61fb8118e6491daa7de130afa14a635.json.gz",
+        "sha256": "6676f0119c23bf9988793cff2a819233a414d1465cf76484162a82fe11236c4e",
+        "sha256_layout": "d55811782ab65c76da14857e9554a50dbe63274e720ff052b552bd04952dccdb",
+        "sha256_bbox": "068ac07f0d5ae410fb04420ec8604d13819cf7abcc48a36819dbe48faa66fc89"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2024/leis-complementares-669-2024-sapl-715.md",
+      "sha256": "5ddef789d87bacec1deafb9db1e17f0495bf479b016918c069a63fb53242d08e",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "669",
+          "numero_normalizado": "669",
+          "trecho": "\n\n\n        LEI COMPLEMENTAR MUNICIPAL Nº 669, DE 10 DE\n                   DEZEMBRO DE 2024\n                                           ALTERA O        CODIGO        "
+        }
+      ],
+      "numero_metadado": "669",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4b27ab236c939962011faf9702c9d53a516c6e68c33f0c67541e4936e8644141.json.gz",
+        "sha256": "b57c9122286463c74b4f59fc033d4550cb1933e758b0db27c491e16a9c00115e",
+        "sha256_layout": "affc3fc0a26908e49b68c3aa4f9d1ad3803d3a8e190b23da2bf029e1dbbc817f",
+        "sha256_bbox": "753e2825a5e6c7b6c0385df7bdd03d22544b0915d42d768b40664444427652d3"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-674-2025-sapl-716.md",
+      "sha256": "eddaf9b479e1353464047ea2bba885250c54cb9f69d72c948b7dabb7bcc83eae",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "674",
+          "numero_normalizado": "674",
+          "trecho": "\n\n\n              LEI COMPLEMENTAR MUNICIPAL Nº 674,\n                   DE 21 DE FEVEREIRO DE 2025\n                                        DISPOE SOBRE A CRIACAO DE GRATIF"
+        }
+      ],
+      "numero_metadado": "674",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/71edc0ece2f30f9cb19e72b51a18fdb4b0de5d615645c9bc57929a2f6eccbd45.json.gz",
+        "sha256": "20886dd8b07db45a8ab58c8cdfae9d793e41faec1fff2ccefb5f6118a61e571b",
+        "sha256_layout": "64662d51d1d0164f759b274bd29530d74bec939d794bdd373c3465db34c066cf",
+        "sha256_bbox": "84a62705b03d7ee8f0858446e0b1825656e714a5d36e878728135d8930cfa30b"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-675-2025-sapl-717.md",
+      "sha256": "1a5f703ef8f29002bed8d7a75991395852da37ccb7937382010e45df0951927e",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "675",
+          "numero_normalizado": "675",
+          "trecho": "\n\n\n    LEI COMPLEMENTAR MUNICIPAL Nº 675, DE 21 DE\n                FEVEREIRO DE 2025\n                                       DISPOE SOBRE CRIACAO DO AUXILIO ALIM"
+        }
+      ],
+      "numero_metadado": "675",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/dbc714c3ceea8ccb3fc1019a48af0258415348cf1f279c736538701b0c930063.json.gz",
+        "sha256": "7edf6b49b6808efe7d06f9e2363d469ca084c890c5b2d458f3f39bfbd70fac2e",
+        "sha256_layout": "aa5adbd55d05c6e5be8a593f23c54a2dadb77dff76c03f0216b98d2c0c69bbf5",
+        "sha256_bbox": "39c9b084e9e3a45ff63406fcbad793c16b6839b969471fc2b985346b21fa1798"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-678-2025-sapl-719.md",
+      "sha256": "0c1c00b5dd13135c171e6393a609ad42ceb43463f6916cf1eb14039383fca427",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "678",
+          "numero_normalizado": "678",
+          "trecho": "\n\n\n               LEI COMPLEMENTAR MUNICIPAL Nº 678,\n                     DE 12 DE MARCO DE 2025\n                                                   DISPOE SOBRE A ALTERACA"
+        }
+      ],
+      "numero_metadado": "678",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d56d548341089364b5b438917ea2b91abf7a608f5a7062708c06194536d6f9a2.json.gz",
+        "sha256": "7785680f0bcd9e4a09e3d7f9e7db53b4bd1031208bf1f0f7f77d6f6cc71936ab",
+        "sha256_layout": "2c3933278495cbab8a57fa78b8d87695c43bb1e8ae53bdbaab0acf1b0737e910",
+        "sha256_bbox": "2847afa370b78dfce40c5c3cf5b571eb1cc74363052d8f7884c24bbec870c2c9"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-702-2025-sapl-725.md",
+      "sha256": "92c11fa4d6025393965be6f9311d5b6de34940bf6ef165166bc631467a667339",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "702",
+          "numero_normalizado": "702",
+          "trecho": "\n\n\n                 LEI COMPLEMENTAR MUNICIPAL Nº 702,\n                       DE 16 DE OUTUBRO DE 2025\n                                                 ALTERA A LEI Nº. 390/"
+        }
+      ],
+      "numero_metadado": "702",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ff419eec9eb0fce44f8739e7eda1a34813060374043f48dbad8d67d92631e1b1.json.gz",
+        "sha256": "a8a3ceba159870c6ab35fae8d7d4b109cfcd0340fece1f06cfb8d80aff318dd4",
+        "sha256_layout": "193bf185fbf0be67a0dcd46df1f0ec559c6f367e053a56a43479e768bfb59ae3",
+        "sha256_bbox": "aff4592b4d8f728bd8ca135b55ab5afe431d175073631fd837c2fe212e10dd77"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-705-2025-sapl-726.md",
+      "sha256": "d8fb8dac510513d449cd866e60a1d917d3f5ae15349a065c9dc60443e9df50f2",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "705",
+          "numero_normalizado": "705",
+          "trecho": "\n\n\n                 LEI COMPLEMENTAR MUNICIPAL Nº 705,\n                       DE 30 DE OUTUBRO DE 2025\n                                                  ALTERA A LEI Nº. 503"
+        }
+      ],
+      "numero_metadado": "705",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/cfc581ce6dff29e4a792d8d20bb665de9e149cb99ef6f25161c9a7f5a6163256.json.gz",
+        "sha256": "83c89ed4e16a3e17421476a49a2e794b0907767d8f962be15d4325bf7527f622",
+        "sha256_layout": "2985bcfd5d0120ec853ea8d5010300d0e67be043925cfc08e50bfbe0cd1a1b3b",
+        "sha256_bbox": "3857c728b2672d4afd569313a5cf6539001e9d3488a6082549ba1ab942d6f69f"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-708-2025-sapl-727.md",
+      "sha256": "b723d58ba2267e462b31d86cdeaedb3735329af17c4549b7c45ab770c59503a1",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "708",
+          "numero_normalizado": "708",
+          "trecho": "\n\n\n              LEI COMPLEMENTAR MUNICIPAL Nº 708,\n                    DE 30 DE OUTUBRO DE 2025\n                                        ALTERA A LEI Nº. 517/2017, QUE DI"
+        }
+      ],
+      "numero_metadado": "708",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a638449f69289d2a870540dfb2d64ae0d071753a9db2c9e049760744b693cd34.json.gz",
+        "sha256": "cbfd1241d3325a047be209ba04fbf6ddc36f80858237cc9f1e5ddfb42f69eed6",
+        "sha256_layout": "167417981cd57dd1ca4908ab06f1f92e705d37d19b9680d1d21f245569819cd3",
+        "sha256_bbox": "0b2db018c6d7368d391a1e30675cdf6addcc34dea9f52fd4c58cb79287757b55"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-716-2025-sapl-660.md",
+      "sha256": "53a83829fa9edf3ac522f3b610e63e6fac65cbe5225005258ad2b8262127b7c7",
+      "epigrafes": [
+        {
+          "tipo": "LEI COMPLEMENTAR MUNICIPAL",
+          "numero": "716",
+          "numero_normalizado": "716",
+          "trecho": "\n\n\n              LEI COMPLEMENTAR MUNICIPAL Nº 716,\n                   DE 26 DE NOVEMBRO DE 2025\n                                        RETIFICA A ALINEA B) DO ART. 14 D"
+        }
+      ],
+      "numero_metadado": "716",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7d6806fd0f258972178d05d16dcce6e04c0e3fc9fe2286c3e25305269622ff8f.json.gz",
+        "sha256": "bc3a0577d12ab59ccd5403fff339122ebfdce8c829879384f1561d654ab1bff0",
+        "sha256_layout": "f2b8bf87cdbb1eac464a0f82213a20915ec422d5b5028eb1046e388b94f15ff6",
+        "sha256_bbox": "3b9baadb0704225b38af049d949da53796b92fdd4b251bd7c7d60a87057a854b"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-470-2013-sapl-440.md",
+      "sha256": "c7635a2b5a6aeafa02640dfd413740cf1a9431ab960d737a94bb49b7a45714eb",
+      "epigrafes": [
+        {
+          "tipo": "LEI MUNICIPAL",
+          "numero": "470",
+          "numero_normalizado": "470",
+          "trecho": "\n\n\n     LEI MUNICIPAL Nº 470, DE 25 DE MARCO DE 2013\n\n                                        AUTORIZA O PODER EXECUTIVO MUNICIPAL A CRIAR O PROGRAM"
+        }
+      ],
+      "numero_metadado": "470",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2fa203f29abcc04214b14c2e7c4567523c6262fb190fd13e6517cc7aba9fbe01.json.gz",
+        "sha256": "ae07c4c830a28f2eec8173dbd1473e075c1b47fb839bfb914df534e84c59d891",
+        "sha256_layout": "3c6baa2153db9cf03327f197191c6ae8aae347446fe587aee71b772e6ba32975",
+        "sha256_bbox": "d662e6557b2c711c6bdcc6aa701750ad581b2b9857df60022b054d69ee6d8554"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1995/resolucoes-1-1995-sapl-763.md",
+      "sha256": "a1131a62255d4c6738b07ad8e4866ef9c247bcc47e313cb276f60b3e11505d08",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "01",
+          "numero_normalizado": "1",
+          "trecho": "\n\n\n             RESOLUCAO Nº 01, DE 16 DE MAIO DE 1995\n                                             DISPOE SOBRE A CONCESSAO DE DIARIAS PARA OS OCUPANT"
+        }
+      ],
+      "numero_metadado": "1",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/66890ec8e05ad544aef8c84f21942e9c41545947c1a6044588e0e2b7cdd0ffa2.json.gz",
+        "sha256": "25ce2673a3a5d47432fdc145a6446dddcf743a277a9c74e8adc2630682e2fe52",
+        "sha256_layout": "97cc4bcb6bebbc10b3fe1f241fe975be66df430695e060d746258139e807682c",
+        "sha256_bbox": "48221cf0ce5c3ccd310c2e77045e6fcf0eb4b73b022776118724b77f6e02c1bf"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1996/resolucoes-1-1996-sapl-746.md",
+      "sha256": "8c749eba9cf19ec0449d66fa5c6cebb1ee553bda6a91a06aadd272201464043a",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "001",
+          "numero_normalizado": "1",
+          "trecho": "\n\n\n           RESOLUCAO Nº 001, DE 14 DE MAIO DE 1996\n                                        FIXA A REMUNERACAO MENSAL DO VEREADOR PARA A LEGISLATURA"
+        }
+      ],
+      "numero_metadado": "1",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e200bad931b432bc5688f4275a4b931c8549ecb296e1a3bcdc84cbd48b1a8ac1.json.gz",
+        "sha256": "500b3a5a1a5320f4ee7e0da069b25db13631de04cae3abcb95c13db825f722b2",
+        "sha256_layout": "487ad27dca37ccc97b55c9e84055d6c2b95481319cdc9c44ed3744e5db92e02b",
+        "sha256_bbox": "05b3cca97ca361cea54e4f3a44dd03ffaf1a21317787f9c66f9a3f026982805f"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-2-1997-sapl-755.md",
+      "sha256": "0e4d9149e2caa2da22f7a2cb10e8b141d50819bf25f415caf66d8d732798c998",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "002",
+          "numero_normalizado": "2",
+          "trecho": "\n\n\n          RESOLUCAO Nº 002, DE 20 DE MAIO DE 1997\n                                       CONCEDER TITULO DE CIDADAO SAOJOSEENSE AOS SENHORES: DR.\n"
+        }
+      ],
+      "numero_metadado": "2",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/906ca064f6397cdfb34474723e44ee2cecc0331a7610830c67ba6eb6ef17853e.json.gz",
+        "sha256": "dede6337bee395bd464ff7c21331aa1165e5d857f0c76df7bb6cca869cc54b90",
+        "sha256_layout": "28e9883871b0d5c9bbb861335531f20d7c0c9fc77584c57cb476aa794c12d533",
+        "sha256_bbox": "8e575e830d40769d9e8620847453cb2459376042b19e3711a465f451b0885b0e"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-4-1997-sapl-757.md",
+      "sha256": "969632ea3529daf61ada1d3b0ffef2329082bd381e01e59ed0758a017c5e63dc",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "004",
+          "numero_normalizado": "4",
+          "trecho": "\n\n\n        RESOLUCAO Nº 004, DE 19 DE AGOSTO DE 1997\n                                       CONCEDER TITULO DE CIDADAO SAOJOSEENSE AO SENHOR: MINIS"
+        }
+      ],
+      "numero_metadado": "4",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9686e0f19148cea86f48acc7a90d20122267a685db518a8e71df85ddce689774.json.gz",
+        "sha256": "8bdb9ce55dc442af73807169559d4ede4163a97123387f7b69b7d43bae0fa6ef",
+        "sha256_layout": "584705f97be9a2806892e24c278c8b31646d37dd1a22ea05500501d801701ad6",
+        "sha256_bbox": "1290e3a909c675e12bacf5244a9a495714a98b1a6c1fdef0e7668ad456457bed"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2004/resolucoes-2-2004-sapl-754.md",
+      "sha256": "31042882ed313c8e043d2ae97e7f82e3340aaadf1c24a7249f81edc77a2cff87",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "002",
+          "numero_normalizado": "2",
+          "trecho": "\n\n\n           RESOLUCAO Nº 002, DE 18 DE MAIO DE 2004\n                                        CONCEDE TITULO DE CIDADAO E DA OUTRAS PROVIDENCIAS.\n\n\n\nO"
+        }
+      ],
+      "numero_metadado": "2",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/73672359ed2ccb5f8e69147e1d4ae46100f1057dac4d838e4a6504f911290319.json.gz",
+        "sha256": "34d8021b126f695fa0ac64008d418ba9c22673127d733b97d6e99591dc0e3b10",
+        "sha256_layout": "942a679a2f39c86a10e9b7b0290e5a178bdb11d7a5af58c8f55f44c88e4b004d",
+        "sha256_bbox": "3507294b72b3e52042846061e3874eaa422cd22c2259dafb2e1da2d6e291ff87"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1-2006-sapl-751.md",
+      "sha256": "c2592a964c73e8300d2e6ba612de0b680d4de03c424206aa4d368c2b633f81ad",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "01",
+          "numero_normalizado": "1",
+          "trecho": "\n\n\n          RESOLUCAO Nº 01, DE 02 DE JANEIRO DE 2006\n\n                                                 CONCEDE TITULO DE CIDADAO SAOJOSEENSE E DA "
+        }
+      ],
+      "numero_metadado": "1",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/665c41d412546d25523a144018628f00dc7e08bddad6ff15772c17b5a30464ee.json.gz",
+        "sha256": "22ef1c74f7dadd21b3ffa13b33db11fdcf7f738ac03f76a6911f573fbe146eb6",
+        "sha256_layout": "6da4c6248568cc5e873f330c8b58068f56f52aa6090c5b34950fd6fab0a8303a",
+        "sha256_bbox": "978370ba787f88d025891c13837f50a425aea3b77d7d1bd4d18184390c64102c"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1b-2006-sapl-769.md",
+      "sha256": "94f0234ac9b3f07dba47ccb6acfdf266f54b2d82c4d08671015252b4091cfae6",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "01",
+          "numero_normalizado": "1",
+          "trecho": "\n\n\n       RESOLUCAO Nº 01, DE 20 DE DEZEMBRO DE 2006\n                                               CONCEDE TITULO DE CIDADAO SAO JOSEENSE E DA O"
+        }
+      ],
+      "numero_metadado": "1B",
+      "numero_literal_confirmado": false,
+      "divergencias": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "01",
+          "numero_normalizado": "1",
+          "trecho": "\n\n\n       RESOLUCAO Nº 01, DE 20 DE DEZEMBRO DE 2006\n                                               CONCEDE TITULO DE CIDADAO SAO JOSEENSE E DA O"
+        }
+      ],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7084cbf642d9a0ad952ceb3fd16124ec9fd925b7a1bedb5a9675d791113cec76.json.gz",
+        "sha256": "cf4e2eaebd14ae196d4287d45cd6b7c677a79173dfb0f917ec2b01a7ba06ccd7",
+        "sha256_layout": "ea0f885e2ba0e8aa8fe73c1b33c16212d54ed75d473853749f7573b3df43e287",
+        "sha256_bbox": "b5b23fad99a1a2e674c4c6c92e8ec6d15b1355d9a3680ced8e6dc544eb1214b6"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2010/resolucoes-1-2010-sapl-752.md",
+      "sha256": "34eab56178736a85882fbdcb4de861ee9da8f8444f7175e09758d4e105be24af",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "01",
+          "numero_normalizado": "1",
+          "trecho": "\n\n\n           RESOLUCAO Nº 01, DE 27 DE ABRIL DE 2010\n                                         “DETERMINA O NOME DO PLENARIO E DO AUDITORIO DA CAMARA"
+        }
+      ],
+      "numero_metadado": "1",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/dcef416c2fa99d9f32dee02fe3f6a1938d2fd0267d06254eb4c37cc3aad36b5b.json.gz",
+        "sha256": "df04dcffdc7eec5ae858cf9c4ec985648c101c11f6ad80fb1a0bda47f0465c03",
+        "sha256_layout": "63648fa61282ddef9ed4487c1d54a54dfdc73eb8035ca9141ff25c7ca0ba739f",
+        "sha256_bbox": "79aadb89d9764bcf19984e9d1c65fb9f04986b62233f590ce07885592e1e0cb9"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-2-2021-sapl-753.md",
+      "sha256": "6089562c8c9083d71839614d54ce54ceb62dc471bef1991ed4fe7365aceb6843",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "002",
+          "numero_normalizado": "2",
+          "trecho": "\n\n\n    RESOLUCAO Nº 002, DE 10 DE NOVEMBRO DE 2021.\n                                       ALTERA O ARTIGO 100 DO REGIMENTO INTERNO DA CAMARA\n "
+        }
+      ],
+      "numero_metadado": "2",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/45fbfa8d0f76e5e70c1933dc3b245f58aadd95200fbfa96fe17556bf8dd8ef2b.json.gz",
+        "sha256": "d46d1ceb53205668f4b9d8f0821d05b0decabe59de0768815be6e4b78ccf3b97",
+        "sha256_layout": "4648c547434d2ec6fb4629522ea4f9e07be5612cd9d5c6edc980196b3e756dfa",
+        "sha256_bbox": "27ef0f8f9b3064422030574bffc911328126361bdf9dd44472cd1196637c6902"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3-2021-sapl-756.md",
+      "sha256": "d439593c2b8fc37a832d32430fd43cbe4ac1e47c24944a594741715ed7ec263a",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "003",
+          "numero_normalizado": "3",
+          "trecho": "\n\n\n     RESOLUCAO Nº 003, DE 29 DE NOVEMBRO DE 2021\n\n\n                                       DISPOE SOBRE O ORCAMENTO DA CAMARA MUNICIPAL DE SAO"
+        }
+      ],
+      "numero_metadado": "3",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/b81ebd6310d608f6b27ef600d2e6adb0764827e9a3c5f80586e32bc7a64dfcee.json.gz",
+        "sha256": "1bf60223f2c6fefaa81f79dd9ce901a7f0fb55d8c0356cda5dff8134ba2461c8",
+        "sha256_layout": "af247f57116936044b59cb55b1fba86760401c7afd5a5c745767cbcadb461493",
+        "sha256_bbox": "f910e28aaa29754f88e409e861e4f1a7006c6e07c38f11c5a31f5d1c2c50eed2"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-5-2021-sapl-758.md",
+      "sha256": "ed5f14b0fe53e1618994fe7eec75c39fcad81ea96cc782c498a948fbf26fd2d8",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "005",
+          "numero_normalizado": "5",
+          "trecho": "\n\n\n     RESOLUCAO Nº 005, DE 10 DE DEZEMBRO DE 2021\n                                        ALTERA O PARAGRAFO UNICO DO ART. 4º E ACRESCENTA O §"
+        }
+      ],
+      "numero_metadado": "5",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/feb56df3a4dd9dc06d276befd3da48c3d26241fece2ee1476f42e8e39001250c.json.gz",
+        "sha256": "3946e0b494a061466797691b71d6cf8bdc5dcb0899dff2125c7989bfa60936ad",
+        "sha256_layout": "01d1e41049e31281b5daf012098017e04f8605d7e02cab2f3de31d6fe3214895",
+        "sha256_bbox": "c261bc376d4e60ef4c4736dba2cc24285150b2a97f63188150442b9a2b324a07"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-6-2022-sapl-759.md",
+      "sha256": "37d6aef62669a118a51efc584ecc045da83af030ff090e3a057813f6775666ed",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "006",
+          "numero_normalizado": "6",
+          "trecho": "\n\n\n      RESOLUCAO Nº 006, DE 03 DE FEVEREIRO DE 2022\n                                        INSTITUI O DIARIO OFICIAL ELETRONICO DO PODER LEGIS"
+        }
+      ],
+      "numero_metadado": "6",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746.json.gz",
+        "sha256": "5b81966d76b9856adaa59cc6c778d3f33b9f6a0e6536cc77104d7fcc63fe5fc7",
+        "sha256_layout": "6bf70a7d7c6d9226b8638dc44ad4e4074515a02d9f9f330e2c92970fa468ad4e",
+        "sha256_bbox": "f964aa0173e2a2d137e267bd4a0be5c88e355b140f6d240496babda156a1cb61"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-10-2024-sapl-765.md",
+      "sha256": "5034daff1b5dd0c82996b2978f4af1408d0ab2f91032b34367c1588a24dffffd",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "010",
+          "numero_normalizado": "10",
+          "trecho": "\n\n\n     RESOLUCAO Nº 010, DE 26 DE NOVEMBRO DE 2024\n                                       REVOGA EXPRESSAMENTE A RESOLUCAO Nº 004/2021, QUE DIS"
+        }
+      ],
+      "numero_metadado": "10",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/307256c7e71ee31198273c1357685be6c5f8b14b83d132ff72f9ecd44548f42b.json.gz",
+        "sha256": "7e88a73742de14dcbd369a490c274ed836cde9154a2b09d52bc7d21002c54dec",
+        "sha256_layout": "9d81ddcc55a078a762a0cfbc6f6a5b47f52e9f2d1bc9e5d230248365288dfa2f",
+        "sha256_bbox": "4b749dd78ab0a299a53d6550dc326d47e4948ab8926af267456daa59f8fc536e"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8-2024-sapl-761.md",
+      "sha256": "f667a0723d3cad90e735bc53657690bf8300c94beb57c42c01b205cfd49385ea",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "008",
+          "numero_normalizado": "8",
+          "trecho": "\n\n\n         RESOLUCAO Nº 008, DE 01 DE JANEIRO DE 2024\n                                        FIXA O SUBSIDIO DOS AGENTES POLITICOS DO PODER LEGISL"
+        }
+      ],
+      "numero_metadado": "8",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/90b77897729fa8cf269a936a96d487ea2a17104526beeaa03faf01be10f66d68.json.gz",
+        "sha256": "6d58c4290c4744da0a572344f148381c32091021f51fe4837ded58f50f7346c0",
+        "sha256_layout": "1c88368a9ac4e310314db259e4dad7df3b7efc5d95e7f57749b136d350a9301a",
+        "sha256_bbox": "d8a910e7d101fec539551945dff82e5ad95d5ae86067a4bfe6de055dcc382e66"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8b-2024-sapl-774.md",
+      "sha256": "89321c6f86616b2588a31a1992e0ed25ab55bc28f447dc80be24b829064fcb7c",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "008",
+          "numero_normalizado": "8",
+          "trecho": "\n\n\n          RESOLUCAO Nº 008, DE 18 DE JUNHO DE 2024\n                                        FIXA O SUBSIDIO DOS AGENTES POLITICOS DO PODER LEGISLAT"
+        }
+      ],
+      "numero_metadado": "8B",
+      "numero_literal_confirmado": false,
+      "divergencias": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "008",
+          "numero_normalizado": "8",
+          "trecho": "\n\n\n          RESOLUCAO Nº 008, DE 18 DE JUNHO DE 2024\n                                        FIXA O SUBSIDIO DOS AGENTES POLITICOS DO PODER LEGISLAT"
+        }
+      ],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/22a0a787092a3ea6dc7db72e8264b637b831efa201f2afef53f4325020d4d6fa.json.gz",
+        "sha256": "f20648eeefc5c7c48e8d7885df6bb0d34c0ae2fbe76821c14f8684101788e196",
+        "sha256_layout": "487cfbcea0e4eb44a21dad7fc547394ca72cf0925aff8a421f4e4957714e6896",
+        "sha256_bbox": "21d357d6cfcac86100442161d230082344c036567940728f46cd6bcb4d18191d"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-9-2024-sapl-764.md",
+      "sha256": "0d5ce0c3c88f1adb725b6f1c6f9d66d3261cba45cdff50dc23f916fa8ab912ad",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "009",
+          "numero_normalizado": "9",
+          "trecho": "\n\n\n          RESOLUCAO Nº 009, DE 18 DE JUNHO DE 2024\n                                        CRIA, NO AMBITO DO PODER LEGISLATIVO MUNICIPAL, A POLIT"
+        }
+      ],
+      "numero_metadado": "9",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/82cf11fe26bab0e32f58a3258bcf297991ed284d3933995ef8326b64ff39e9d5.json.gz",
+        "sha256": "323c1bb7955248691ea3f028d7a9a1a70bfb6a7ae3988a7e0702dd441a4a0718",
+        "sha256_layout": "f5a3a84ed356cb29193c6b76b15a07b905723330feccf0953d86437853fb600a",
+        "sha256_bbox": "eb211b4985ac4045daf693398af6fcc282ea6100510a8230b7412958be1851b5"
+      }
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2026/resolucoes-1-2026-sapl-750.md",
+      "sha256": "71dd54cd25c6fa831267012075e4e62a6c1d56d11d92efef1c19ab9e7e32e953",
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "001",
+          "numero_normalizado": "1",
+          "trecho": "\n\n             RESOLUCAO Nº 001, 25 DE MARCO DE 2026\n                                            REGULAMENTA A FILIACAO DA CAMARA MUNICIPAL\n           "
+        }
+      ],
+      "numero_metadado": "1",
+      "numero_literal_confirmado": true,
+      "divergencias": [],
+      "limite": "Data e tipo completo continuam sujeitos aos demais controles; ausência não confirma identidade.",
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e9afb3c5da2e92a4ec2b0c7bd5cbb4774b53a1fee08d732343cc41340f0e6d6b.json.gz",
+        "sha256": "6f7b381baf5efee442dc93ffa690dec7bdcd237e7fab0529104a6ddc84e6e691",
+        "sha256_layout": "c72c76949b169042a049786acf02774805435f8151b12d4e0d9704af195051a6",
+        "sha256_bbox": "9be6b66de60bbf803b54e2199a9b8913aa6bafc4f69c03b95bc2a2e3e09adffe"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/parecer_02_2025_julgamento_das_contas_referente_aos_exercicio_2023.pdf da norma Decreto Legislativo-SLEG nº 4, de 15 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Parecer Favorável as Contas do Poder Executivo 2023",
+      "anexo_arquivo": "http://sapl.coroneldomingossoares.pr.leg.br/media/sapl/public/anexonormajuridica/2025/1/parecer_02_2025_julgamento_das_contas_referente_aos_exercicio_2023.pdf",
+      "ano": 2025,
+      "norma": 32
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.coroneldomingossoares.pr.leg.br/b7a3e963b28db5f3b5ad07d58de1a74e43471501cda5ef9d2375aec9ed2ffa75.json",
+      "url": "https://sapl.coroneldomingossoares.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.coroneldomingossoares.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1c7439c95b8e112c0880d747a3dedfa5d8c8d4cae84d234d482192e343acb798",
+      "bytes": 721,
+      "capturado_em": "2026-10-28T09:21:47.305347-03:00"
+    }
+  ]
+}

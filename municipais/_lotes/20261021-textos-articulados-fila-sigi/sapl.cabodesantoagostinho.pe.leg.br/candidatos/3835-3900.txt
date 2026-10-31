@@ -1,0 +1,1386 @@
+**O PRESIDENTE DA CÂMARA MUNICIPAL DO CABO DE SANTO AGOSTINHO/PE**, no uso das atribuições previstas na Lei Orgânica Municipal, bem como no Regimento Interno da Casa; e,
+
+**CONSIDERANDO** a necessidade de regulamentar, no âmbito da Câmara Municipal do Cabo de Santo Agostinho, a aplicação da Lei Federal nº 14.133, de 1º de abril de 2021, que dispõe sobre licitações e contratos administrativos;
+
+**CONSIDERANDO** que a Lei Federal nº 14.133/2021 estabelece normas gerais sobre licitações e contratos administrativos, aplicáveis à Administração Pública direta, autárquica e fundacional da União, dos Estados, do Distrito Federal e dos Municípios;
+
+**CONSIDERANDO** a necessidade de adequar os procedimentos internos da Câmara Municipal do Cabo de Santo Agostinho às disposições da Lei Federal nº 14.133/2021, conferindo maior segurança jurídica, padronização, eficiência, transparência e controle aos processos de contratação pública;
+
+**RESOLVE:**
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta portaria regulamenta, no âmbito da Câmara Municipal do Cabo de Santo Agostinho, a aplicação da Lei Federal nº 14.133, de 1º de abril de 2021, que dispõe sobre licitações e contratos administrativos.
+
+
+Art. 2º.
+
+Esta portaria estabelece regras, diretrizes e procedimentos para a atuação dos agentes públicos responsáveis pelas fases de planejamento, seleção do fornecedor, contratação, gestão, fiscalização e execução dos contratos administrativos no âmbito do Poder Legislativo Municipal.
+
+
+Art. 3º.
+
+Subordinam-se ao regime desta portaria todas as contratações realizadas pela Câmara Municipal do Cabo de Santo Agostinho, inclusive as licitações, contratações diretas, procedimentos auxiliares, instrumentos contratuais, atas de registro de preços e demais atos administrativos relacionados à Lei Federal nº 14.133/2021.
+
+
+Art. 4º.
+
+Para fins desta portaria, além das definições previstas na Lei Federal nº 14.133/2021, considera-se:
+
+
+I –
+
+**autoridade competente:** agente público com poder de decisão formalmente indicado para autorizar licitações, contratações diretas, contratos, despesas e demais atos administrativos no âmbito da Câmara Municipal;
+
+
+II –
+
+**requisitante:** agente, setor ou unidade responsável por identificar a necessidade administrativa e solicitar a contratação de bens, serviços, obras, locações ou soluções de tecnologia da informação;
+
+
+III –
+
+**área técnica:** agente, setor ou unidade com conhecimento técnico-operacional sobre o objeto demandado, responsável por subsidiar a instrução da contratação;
+
+
+IV –
+
+**Documento de Formalização da Demanda – DFD:** documento que evidencia e detalha a necessidade da contratação;
+
+
+V –
+
+**Plano de Contratações Anual – PCA:** documento que consolida as demandas que a Câmara Municipal pretende contratar no exercício subsequente, quando elaborado;
+
+
+VI –
+
+**Estudo Técnico Preliminar – ETP:** documento constitutivo da fase preparatória que evidencia o problema a ser resolvido, a melhor solução para atendimento da necessidade administrativa e a viabilidade da contratação;
+
+
+VII –
+
+**Termo de Referência – TR:** documento necessário para a contratação de bens e serviços, contendo os elementos essenciais à definição do objeto e à execução contratual;
+
+
+VIII –
+
+**gestor do contrato:** agente público responsável pela coordenação das atividades de gestão da execução contratual;
+
+
+IX –
+
+**fiscal do contrato:** agente público responsável pelo acompanhamento e fiscalização da execução do objeto contratado.
+
+
+Parágrafo único
+
+Os papéis de requisitante e de área técnica poderão ser exercidos pelo mesmo agente público, setor ou unidade, desde que detenha conhecimento técnico-operacional suficiente sobre o objeto demandado.
+
+
+#### CAPÍTULO II — DOS AGENTES PÚBLICOS
+
+
+Art. 5º.
+
+Para os fins desta portaria, são considerados agentes públicos com atuação nos processos de contratação, especialmente:
+
+
+I –
+
+Agente de Contratação;
+
+
+II –
+
+Pregoeiro;
+
+
+III –
+
+membros da Comissão de Contratação;
+
+
+IV –
+
+membros da Equipe de Apoio;
+
+
+V –
+
+Gestor de Contrato;
+
+
+VI –
+
+Fiscal de Contrato;
+
+
+VII –
+
+demais servidores ou agentes designados para atuar nas fases interna, externa, contratual ou de fiscalização das contratações públicas.
+
+
+Art. 6º.
+
+Compete ao Presidente da Câmara Municipal do Cabo de Santo Agostinho designar, mediante ato próprio, o Agente de Contratação, o Pregoeiro, os membros da Comissão de Contratação, os integrantes da Equipe de Apoio, bem como os gestores e fiscais de contratos.
+
+
+Art. 7º.
+
+Os agentes públicos designados para atuar nos processos de contratação deverão preencher os seguintes requisitos:
+
+
+I –
+
+ser, preferencialmente, servidor efetivo integrante do quadro permanente da Câmara Municipal do Cabo de Santo Agostinho, ressalvada a exigência específica prevista no art. 8º desta portaria quanto ao Agente de Contratação;
+
+
+II –
+
+possuir atribuições relacionadas a licitações e contratos ou formação compatível com as atividades a serem desempenhadas;
+
+
+III –
+
+possuir qualificação atestada por curso de capacitação, certificação profissional ou experiência compatível com as funções, sempre que possível;
+
+
+IV –
+
+não ser cônjuge, companheiro ou parente, em linha reta, colateral ou por afinidade, até o terceiro grau, de licitantes ou contratados habituais da Administração;
+
+
+V –
+
+ão possuir vínculo de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com licitantes ou contratados habituais da Administração que comprometa a imparcialidade de sua atuação.
+
+
+Parágrafo único
+
+Fica vedada a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, em observância ao princípio da segregação de funções, de modo a reduzir a possibilidade de ocultação de erros, fraudes ou irregularidades.
+
+
+#### CAPÍTULO III — DO AGENTE DE CONTRATAÇÃO, DO PREGOEIRO, DA EQUIPE DE APOIO E DA COMISSÃO DE CONTRATAÇÃO
+
+
+Art. 8º.
+
+O **Agente de Contratação** será servidor efetivo do quadro permanente da Câmara Municipal do Cabo de Santo Agostinho, designado pela autoridade competente para tomar decisões, acompanhar o trâmite da licitação ou da contratação direta, dar impulso ao procedimento e executar quaisquer outras atividades necessárias ao regular andamento do certame até a homologação.
+
+
+§ 1º
+
+Nas licitações realizadas na modalidade pregão, o Agente de Contratação será designado **Pregoeiro.**
+
+
+§ 2º
+
+O Agente de Contratação será auxiliado por Equipe de Apoio, respondendo individualmente pelos atos que praticar, salvo quando induzido a erro pela atuação da equipe.
+
+
+§ 3º
+
+O Agente de Contratação poderá solicitar manifestação técnica da assessoria jurídica, do controle interno ou de outros setores da Câmara Municipal, a fim de subsidiar suas decisões.
+
+
+§ 4º
+
+A atuação do Agente de Contratação na fase preparatória deverá se limitar ao acompanhamento da instrução processual e à promoção de diligências necessárias ao regular fluxo do procedimento, ficando desobrigado da elaboração de estudos técnicos preliminares, termos de referência, projetos, anteprojetos, pesquisas de preços e, preferencialmente, minutas de editais, sem prejuízo das atribuições dos setores requisitantes, técnicos e administrativos responsáveis pela elaboração dos documentos da contratação.
+
+
+§ 5º
+
+A autoridade competente poderá designar, em ato motivado, mais de um Agente de Contratação, devendo dispor sobre a forma de coordenação e de distribuição dos trabalhos entre eles.
+
+
+Art. 9º.
+
+Caberá ao Agente de Contratação, dentre outras atribuições:
+
+
+I –
+
+tomar decisões necessárias à boa condução da licitação e dar impulso ao procedimento licitatório;
+
+
+II –
+
+acompanhar os trâmites da licitação, promovendo diligências, quando necessário, para o regular andamento do processo;
+
+
+III –
+
+demandar aos setores requisitantes, técnicos ou administrativos o saneamento da fase preparatória, quando verificar a necessidade de complementação, correção ou esclarecimento de informações;
+
+
+IV –
+
+conduzir e coordenar a sessão pública da licitação;
+
+
+V –
+
+receber, examinar e decidir impugnações e pedidos de esclarecimentos ao edital e aos seus anexos, podendo requisitar subsídios formais aos responsáveis pela elaboração dos documentos;
+
+
+VI –
+
+verificar a conformidade da proposta mais bem classificada com os requisitos estabelecidos no edital;
+
+
+VII –
+
+negociar, quando cabível, condições mais vantajosas com o licitante melhor classificado;
+
+
+VIII –
+
+verificar e julgar as condições de habilitação;
+
+
+IX –
+
+sanear erros ou falhas que não alterem a substância das propostas;
+
+
+X –
+
+encaminhar à Comissão de Contratação, quando for o caso, os documentos de habilitação em relação aos quais se verifique a possibilidade de saneamento de erros ou falhas que não alterem a substância dos documentos e sua validade jurídica;
+
+
+XI –
+
+encaminhar à Comissão de Contratação, quando for o caso, os documentos relativos aos procedimentos auxiliares previstos na Lei Federal nº 14.133/2021;
+
+
+XII –
+
+indicar o vencedor do certame;
+
+
+XIII –
+
+conduzir os trabalhos da Equipe de Apoio;
+
+
+XIV –
+
+receber recursos, apreciar sua admissibilidade e, caso não reconsidere sua decisão, encaminhá-los à autoridade competente;
+
+
+XV –
+
+encaminhar o processo devidamente instruído, após encerradas as fases de julgamento e habilitação e exauridos os recursos administrativos, à autoridade competente para adjudicação e homologação.
+
+
+Art. 10.
+
+Caberá à **Equipe de Apoio** auxiliar o Agente de Contratação, o Pregoeiro ou a Comissão de Contratação no exercício de suas atribuições.
+
+
+§ 1º
+
+A Equipe de Apoio será integrada por agentes públicos designados pela autoridade competente.
+
+
+§ 2º
+
+Os integrantes da Equipe de Apoio deverão observar os requisitos previstos no art. 7º desta portaria.
+
+
+§ 3º
+
+A Equipe de Apoio poderá contar com o auxílio de terceiros contratados, observadas as vedações previstas no art. 9º da Lei Federal nº 14.133/2021, sem transferência de atribuições decisórias próprias dos agentes públicos.
+
+
+Art. 11.
+
+A **Comissão de Contratação** poderá ser designada em caráter permanente ou especial, sendo composta por, no mínimo, 3 (três) agentes públicos, para receber, examinar e julgar documentos relativos às licitações, aos procedimentos auxiliares e às demais hipóteses previstas na Lei Federal nº 14.133/2021, devendo ser presidida por servidor efetivo do quadro permanente da Câmara Municipal.
+
+
+§ 1º
+
+Nas licitações que envolvam bens ou serviços especiais, o Agente de Contratação poderá ser substituído por Comissão de Contratação, nos termos da Lei Federal nº 14.133/2021.
+
+
+§ 2º
+
+Em licitação que envolva bens ou serviços especiais, cujo objeto não seja rotineiramente contratado pelo Poder Público Municipal, a Comissão de Contratação poderá contar com serviço de empresa ou de profissional especializado, devidamente contratado pela Administração Pública, para assessoria na condução da licitação.
+
+
+§ 3º
+
+A Comissão de Contratação responderá solidariamente pelos atos praticados, ressalvado o membro que expressar posição individual divergente, devidamente fundamentada e registrada em ata.
+
+
+§ 4º
+
+A licitação na modalidade diálogo competitivo será conduzida por Comissão de Contratação composta por, no mínimo, 3 (três) servidores efetivos do quadro permanente da Câmara Municipal, admitida a contratação de profissionais para assessoramento técnico.
+
+
+§ 5º
+
+A Comissão de Contratação poderá solicitar manifestação técnica da assessoria jurídica, do controle interno ou de outros setores da Câmara Municipal, a fim de subsidiar suas decisões.
+
+
+Art. 12.
+
+Na modalidade concurso e nas licitações que utilizem os critérios de julgamento de melhor técnica, conteúdo artístico ou técnica e preço, a avaliação das propostas técnicas ou artísticas poderá ser realizada por banca ou comissão especial designada para esse fim, composta por, no mínimo, 3 (três) membros, servidores efetivos do quadro permanente da Câmara Municipal ou profissionais contratados por conhecimento técnico, experiência ou renome na avaliação dos quesitos especificados em edital, observadas as disposições da Lei Federal nº 14.133/2021.
+
+
+Parágrafo único
+
+Quando houver participação de profissionais contratados, seus trabalhos deverão ser supervisionados por agentes públicos designados na forma da Lei Federal nº 14.133/2021.
+
+
+Art. 13.
+
+A Câmara Municipal poderá providenciar capacitação prévia ou continuada dos agentes públicos designados para atuar nas contratações, conforme a natureza e a complexidade do objeto.
+
+
+#### CAPÍTULO IV — DA GESTÃO E FISCALIZAÇÃO DOS CONTRATOS
+
+
+Art. 14.
+
+As atividades de gestão e fiscalização da execução contratual compreendem o conjunto de ações destinadas a aferir o cumprimento dos resultados previstos pela Administração, verificar a regularidade das obrigações contratuais e subsidiar os procedimentos relativos a pagamento, alteração, prorrogação, reequilíbrio econômico-financeiro, aplicação de sanções, extinção contratual e demais providências necessárias.
+
+
+Art. 15.
+
+São diretrizes da gestão e fiscalização dos contratos no âmbito da Câmara Municipal do Cabo de Santo Agostinho:
+
+
+I –
+
+observância dos princípios constitucionais e das normas legais aplicáveis à Administração Pública;
+
+
+II –
+
+fiscalização constante do cumprimento das obrigações pactuadas;
+
+
+III –
+
+adequada aplicação dos recursos públicos;
+
+
+IV –
+
+registro formal e completo dos atos e fatos relevantes ocorridos na execução contratual;
+
+
+V –
+
+aperfeiçoamento contínuo dos processos de contratação e dos instrumentos contratuais;
+
+
+VI –
+
+utilização de rotinas administrativas claras, simples e compatíveis com a boa gestão contratual.
+
+
+Art. 16.
+
+As atividades de gestão e fiscalização da execução contratual deverão ser realizadas de forma preventiva, rotineira e sistemática, podendo ser exercidas por servidor, equipe de fiscalização ou comissão designada pela autoridade competente, assegurada, sempre que possível, a distinção das atividades de gestão e fiscalização.
+
+
+##### Seção I — Do Gestor do Contrato
+
+
+Art. 17.
+
+O Gestor do Contrato será o agente público designado pela autoridade competente para coordenar as atividades relacionadas à gestão da execução contratual, desde sua formalização até sua extinção.
+
+
+Art. 18.
+
+Caberá ao Gestor do Contrato, dentre outras atribuições:
+
+
+I –
+
+coordenar as atividades relacionadas à fiscalização técnica, administrativa e setorial, quando houver;
+
+
+II –
+
+acompanhar a execução contratual, zelando pelo cumprimento das cláusulas pactuadas;
+
+
+III –
+
+emitir decisões sobre solicitações e reclamações relacionadas à execução dos contratos, nos limites de sua competência;
+
+
+IV –
+
+acompanhar os registros realizados pelos fiscais sobre ocorrências relacionadas à execução do contrato e as medidas adotadas, informando à autoridade superior aquelas que ultrapassarem sua competência;
+
+
+V –
+
+acompanhar a manutenção das condições de habilitação da contratada, para fins de empenho, liquidação e pagamento;
+
+
+VI –
+
+coordenar os atos preparatórios à instrução de procedimentos de prorrogação, alteração, reequilíbrio econômico-financeiro, pagamento, aplicação de sanções, extinção contratual e demais providências;
+
+
+VII –
+
+manter atualizado o processo de acompanhamento e fiscalização do contrato, com os registros formais da execução;
+
+
+VIII –
+
+gerir os prazos de vigência contratual e de execução do objeto;
+
+
+IX –
+
+comunicar tempestivamente à autoridade competente a proximidade do término da vigência contratual, quando houver necessidade de prorrogação ou nova contratação;
+
+
+X –
+
+elaborar relatório final de execução contratual, quando cabível, contendo informações úteis ao aprimoramento de futuras contratações;
+
+
+XI –
+
+coordenar a atualização do relatório de riscos durante a gestão do contrato, quando cabível, com apoio dos fiscais técnico, administrativo e setorial;
+
+
+XII –
+
+tomar providências para a formalização de processo administrativo de responsabilização, quando houver indícios de infração contratual ou administrativa;
+
+
+XIII –
+
+sugerir providências necessárias ao bom andamento e à adequada execução do contrato.
+
+
+##### Seção II — Do Fiscal do Contrato
+
+
+Art. 19.
+
+O Fiscal do Contrato será o agente público designado pela autoridade competente para acompanhar e fiscalizar a execução do objeto contratado.
+
+
+§ 1º
+
+Poderá ser designado mais de um fiscal para o mesmo contrato, conforme a complexidade do objeto.
+
+
+§ 2º
+
+A fiscalização poderá ser técnica, administrativa ou setorial, conforme as características do contrato.
+
+
+§ 3º
+
+A fiscalização não exclui nem reduz a responsabilidade da contratada pela adequada execução do objeto, inclusive perante terceiros, por vícios, defeitos, irregularidades ou desconformidades.
+
+
+§ 4º
+
+Nos contratos de obras e serviços de engenharia, o fiscal deverá, quando cabível, manter controle dos projetos, ARTs ou RRTs, cronograma físico-financeiro, medições, diário de obras, registros fotográficos, relatórios técnicos e demais documentos necessários ao adequado acompanhamento da execução.
+
+
+Art. 20.
+
+Caberá ao Fiscal do Contrato, conforme a natureza da fiscalização para a qual for designado, dentre outras atribuições:
+
+
+I –
+
+prestar apoio técnico e operacional ao Gestor do Contrato;
+
+
+II –
+
+acompanhar a execução do objeto, verificando sua conformidade com o contrato, edital, termo de referência, projeto básico, proposta da contratada e demais documentos pertinentes;
+
+
+III –
+
+aferir quantidade, qualidade, tempo e modo de execução do objeto contratado;
+
+
+IV –
+
+anotar em registro próprio todas as ocorrências relacionadas à execução contratual;
+
+
+V –
+
+determinar a regularização de falhas, defeitos ou desconformidades observadas;
+
+
+VI –
+
+expedir notificações, quando cabível, para correção de rotinas, falhas ou irregularidades constatadas;
+
+
+VII –
+
+comunicar ao Gestor do Contrato situações que demandem decisão ou providência superior;
+
+
+VIII –
+
+comunicar imediatamente ao Gestor do Contrato quaisquer ocorrências que possam inviabilizar a execução do contrato nas datas estabelecidas;
+
+
+IX –
+
+atestar, quando cabível, notas fiscais relativas aos serviços prestados ou materiais fornecidos;
+
+
+X –
+
+examinar, quando aplicável, a regularidade de obrigações fiscais, trabalhistas e previdenciárias;
+
+
+XI –
+
+acompanhar prazos, garantias, ordens de serviço, entregas, medições e demais atos de execução contratual;
+
+
+XII –
+
+propor ao Gestor do Contrato, quando cabível, a abertura de procedimento administrativo para apuração de responsabilidade;
+
+
+XIII –
+
+auxiliar o Gestor do Contrato com informações necessárias à elaboração de relatórios;
+
+
+XIV –
+
+participar da atualização do relatório de riscos durante a fase de gestão contratual, quando cabível.
+
+
+Art. 21.
+
+O gestor e o fiscal do contrato deverão ser cientificados formalmente de sua indicação e das respectivas atribuições antes da formalização do ato de designação.
+
+
+Art. 22.
+
+O encargo de gestor ou fiscal de contrato não poderá ser recusado pelo agente público, salvo em caso de impedimento legal ou limitação técnica devidamente justificada à autoridade competente.
+
+
+Parágrafo único
+
+O servidor designado deverá comunicar formalmente eventual deficiência, limitação técnica ou situação que possa comprometer o adequado desempenho da função.
+
+
+Art. 23.
+
+Será facultada a contratação de terceiros para assistir ou subsidiar as atividades de fiscalização técnica, desde que justificada a necessidade de assistência especializada.
+
+
+§ 1º
+
+A empresa ou profissional contratado para auxiliar a fiscalização assumirá responsabilidade civil objetiva pela veracidade e precisão das informações prestadas, firmará termo de compromisso de confidencialidade e não poderá exercer atribuição própria e exclusiva de fiscal de contrato.
+
+
+§ 2º
+
+A contratação de terceiros não eximirá de responsabilidade o fiscal do contrato, nos limites das informações recebidas do terceiro contratado.
+
+
+#### CAPÍTULO V — DO RECEBIMENTO PROVISÓRIO E DEFINITIVO
+
+
+Art. 24.
+
+O recebimento provisório do objeto contratual ficará a cargo do Fiscal do Contrato, técnico, administrativo ou setorial, conforme o caso, mediante termo detalhado.
+
+
+Art. 25.
+
+O recebimento definitivo ficará a cargo do Gestor do Contrato ou de comissão designada pela autoridade competente, mediante termo detalhado que comprove o atendimento das exigências contratuais.
+
+
+Art. 26.
+
+O recebimento provisório ou definitivo não excluirá a responsabilidade da contratada por vícios, defeitos, incorreções, desconformidades, solidez, segurança e perfeita execução do objeto, nos limites estabelecidos pela legislação aplicável ou pelo contrato.
+
+
+#### CAPÍTULO VI — DA AUTORIDADE COMPETENTE
+
+
+Art. 27.
+
+Caberá ao Presidente da Câmara Municipal do Cabo de Santo Agostinho, ou a quem este delegar:
+
+
+I –
+
+designar o Agente de Contratação, o Pregoeiro, os membros da Comissão de Contratação e da Equipe de Apoio, bem como gestores e fiscais de contrato;
+
+
+II –
+
+autorizar a abertura do processo licitatório;
+
+
+III –
+
+autorizar a contratação direta, quando cabível;
+
+
+IV –
+
+decidir recursos contra atos do Agente de Contratação, Pregoeiro ou Comissão de Contratação, quando estes mantiverem suas decisões;
+
+
+V –
+
+adjudicar o objeto da licitação;
+
+
+VI –
+
+homologar o resultado da licitação;
+
+
+VII –
+
+celebrar contratos, atas de registro de preços e demais instrumentos congêneres;
+
+
+VIII –
+
+autorizar a abertura e decidir, quando de sua competência, o processo administrativo de responsabilização, na forma da Lei Federal nº 14.133/2021 e desta portaria;
+
+
+IX –
+
+decidir sobre a aplicação de sanções administrativas, observados o contraditório, a ampla defesa e as competências estabelecidas na Lei Federal nº 14.133/2021 e nesta portaria;
+
+
+X –
+
+praticar os demais atos atribuídos pela Lei Federal nº 14.133/2021 e por esta portaria.
+
+
+Parágrafo único
+
+A autorização para abertura do processo licitatório será o último ato da fase preparatória anterior à divulgação do edital.
+
+
+#### CAPÍTULO VII — DO DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA
+
+
+Art. 28.
+
+O Documento de Formalização da Demanda – DFD deverá ser elaborado pelo setor requisitante e servirá como instrumento inicial de formalização da necessidade administrativa, podendo subsidiar a elaboração do Plano de Contratações Anual – PCA e a instrução dos processos de contratação.
+
+
+Art. 29.
+
+O DFD deverá conter, no mínimo, quando cabível:
+
+
+I –
+
+justificativa da necessidade da contratação;
+
+
+II –
+
+descrição sucinta do objeto;
+
+
+III –
+
+quantidade estimada a ser contratada;
+
+
+IV –
+
+estimativa preliminar do valor da contratação;
+
+
+V –
+
+indicação da disponibilidade ou necessidade de previsão orçamentária;
+
+
+VI –
+
+prazo pretendido para fornecimento, execução ou início da prestação do serviço;
+
+
+VII –
+
+indicação, quando possível, dos servidores que poderão atuar na gestão e fiscalização do futuro contrato;
+
+
+VIII –
+
+identificação do setor requisitante e do responsável pela demanda.
+
+
+Parágrafo único
+
+A complexidade do DFD deverá ser compatível com a natureza, o valor, o risco e a complexidade da contratação pretendida.
+
+
+#### CAPÍTULO VIII — DO ESTUDO TÉCNICO PRELIMINAR
+
+
+Art. 30.
+
+O Estudo Técnico Preliminar – ETP é documento constitutivo da primeira etapa do planejamento da contratação, destinado a caracterizar o interesse público envolvido, evidenciar o problema a ser resolvido, indicar a melhor solução para atendimento da necessidade administrativa e subsidiar a elaboração do anteprojeto, do termo de referência ou do projeto básico, quando se concluir pela viabilidade da contratação.
+
+
+Parágrafo único
+
+O Estudo Técnico Preliminar deverá evidenciar o problema a ser resolvido e a melhor solução, de modo a permitir a avaliação da viabilidade técnica, econômica, socioeconômica e ambiental da contratação, conforme a natureza e a complexidade do objeto.
+
+
+Art. 31.
+
+No âmbito da Câmara Municipal do Cabo de Santo Agostinho, a elaboração de Estudo Técnico Preliminar – ETP aplica-se, em regra, à aquisição de bens e à contratação de serviços, obras, locações e soluções de tecnologia da informação.
+
+
+Art. 32.
+
+A elaboração do Estudo Técnico Preliminar poderá ser dispensada nos seguintes casos, mediante justificativa nos autos:
+
+
+I –
+
+contratação de obras, serviços, compras e locações cujos valores se enquadrem nos limites dos incisos I e II do art. 75 da Lei Federal nº 14.133/2021, desde que devidamente justificada a desnecessidade do ETP em razão da natureza, do valor e da baixa complexidade do objeto;
+
+
+II –
+
+dispensas de licitação previstas nos incisos VII e VIII do art. 75 da Lei Federal nº 14.133/2021;
+
+
+III –
+
+contratação de remanescente de obra, serviço ou fornecimento, nos termos dos §§ 2º a 7º do art. 90 da Lei Federal nº 14.133/2021;
+
+
+IV –
+
+alterações contratuais realizadas por meio de termo aditivo ou apostilamento, inclusive acréscimos quantitativos, supressões e prorrogações contratuais relativas a serviços contínuos.
+
+
+Parágrafo único
+
+A dispensa do Estudo Técnico Preliminar não afasta a necessidade de adequada motivação da contratação, justificativa da necessidade administrativa, demonstração da compatibilidade do preço, análise da solução pretendida e observância dos demais documentos exigidos pela Lei Federal nº 14.133/2021 e por esta portaria.
+
+
+#### CAPÍTULO IX — DO TERMO DE REFERÊNCIA
+
+
+Art. 33.
+
+O Termo de Referência – TR é o documento necessário para a contratação de bens e serviços, inclusive nas contratações diretas, devendo conter os elementos suficientes à definição do objeto, à seleção do fornecedor e à adequada execução contratual.
+
+
+Art. 34.
+
+O Termo de Referência deverá conter, no que couber:
+
+
+I –
+
+definição do objeto, incluídos sua natureza, quantitativos, prazo do contrato e, se for o caso, possibilidade de prorrogação;
+
+
+II –
+
+fundamentação da contratação;
+
+
+III –
+
+descrição da solução como um todo, considerado todo o ciclo de vida do objeto;
+
+
+IV –
+
+requisitos da contratação;
+
+
+V –
+
+modelo de execução do objeto;
+
+
+VI –
+
+modelo de gestão e fiscalização do contrato;
+
+
+VII –
+
+critérios de medição e pagamento;
+
+
+VIII –
+
+forma e critérios de seleção do fornecedor;
+
+
+IX –
+
+estimativa do valor da contratação, acompanhada dos preços unitários referenciais, das memórias de cálculo e dos documentos que lhe dão suporte, quando cabível; X – adequação orçamentária.
+
+
+Art. 35.
+
+O Termo de Referência será elaborado pelo setor requisitante ou pela área técnica competente e aprovado pela autoridade competente ou por agente público formalmente designado.
+
+
+Art. 36.
+
+O Termo de Referência deverá ser divulgado como anexo do edital ou do aviso de contratação direta, quando cabível, observadas as hipóteses legais de sigilo.
+
+
+#### CAPÍTULO X — DA CONTRATAÇÃO DIRETA
+
+
+Art. 37.
+
+O processo de contratação direta, compreendendo os casos de inexigibilidade e dispensa de licitação, deverá observar o disposto nos arts. 72 a 75 da Lei Federal nº 14.133/2021, bem como as disposições desta portaria.
+
+
+Art. 38.
+
+O processo de contratação direta deverá ser instruído, no mínimo, com os seguintes documentos:
+
+
+I –
+
+Documento de Formalização da Demanda – DFD;
+
+
+II –
+
+Estudo Técnico Preliminar, Análise de Riscos, Termo de Referência, Projeto Básico ou Projeto Executivo, quando cabível;
+
+
+III –
+
+estimativa de despesa, calculada na forma do art. 23 da Lei Federal nº 14.133/2021;
+
+
+IV –
+
+parecer jurídico e pareceres técnicos, quando cabíveis;
+
+
+V –
+
+demonstração da compatibilidade da previsão de recursos orçamentários com o compromisso a ser assumido;
+
+
+VI –
+
+comprovação de que o contratado preenche os requisitos de habilitação e qualificação mínima necessários;
+
+
+VII –
+
+razão da escolha do contratado;
+
+
+VIII –
+
+justificativa do preço;
+
+
+IX –
+
+autorização da autoridade competente.
+
+
+Art. 39.
+
+As contratações diretas deverão, preferencialmente, ser realizadas de forma eletrônica, observados os princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência, isonomia, competitividade, planejamento, transparência, economicidade e interesse público.
+
+
+Art. 40.
+
+Para aferição dos limites das dispensas de licitação previstas nos incisos I e II do art. 75 da Lei Federal nº 14.133/2021, deverá ser observado:
+
+
+I –
+
+o somatório do que for despendido no exercício financeiro pela unidade gestora;
+
+
+II –
+
+o somatório das despesas realizadas com objetos de mesma natureza, entendidos como aqueles relativos a contratações no mesmo ramo de atividade.
+
+
+Parágrafo único
+
+Os valores legais de dispensa deverão observar as atualizações promovidas na forma da legislação federal aplicável, vedada a fixação de valores desatualizados em ato interno.
+
+
+Art. 41.
+
+As contratações de pequeno valor fundamentadas nos incisos I e II do art. 75 da Lei Federal nº 14.133/2021 serão, preferencialmente, precedidas de divulgação de aviso em sítio eletrônico oficial, pelo prazo mínimo de 3 (três) dias úteis, com especificação do objeto pretendido e manifestação de interesse da Administração em obter propostas adicionais de eventuais interessados, devendo ser selecionada a proposta mais vantajosa.
+
+
+Art. 42.
+
+A análise jurídica poderá ser dispensada nas hipóteses previamente definidas em ato da assessoria jurídica da Câmara Municipal, especialmente em contratações de baixa complexidade, de pequeno valor, com objeto padronizado e sem instrumento contratual complexo, desde que observadas as disposições da Lei Federal nº 14.133/2021 e devidamente justificada a dispensa nos autos.
+
+
+#### CAPÍTULO XI — DA PUBLICIDADE, DO PNCP E DA EFICÁCIA DOS CONTRATOS
+
+
+Art. 43.
+
+A divulgação no Portal Nacional de Contratações Públicas – PNCP é condição indispensável para a eficácia dos contratos administrativos e de seus aditamentos, devendo observar os prazos e condições previstos na Lei Federal nº 14.133/2021.
+
+
+§ 1º
+
+A divulgação no PNCP deverá ocorrer em até 20 (vinte) dias úteis, no caso de contratação decorrente de licitação, e em até 10 (dez) dias úteis, no caso de contratação direta, contados da data de assinatura do contrato ou de seus aditamentos.
+
+
+§ 2º
+
+A divulgação no PNCP não afasta a possibilidade de publicação no diário oficial, no sítio eletrônico oficial da Câmara Municipal e em outros meios oficiais de publicidade, conforme o caso.
+
+
+§ 3º
+
+Os contratos celebrados em caso de urgência terão eficácia a partir de sua assinatura e deverão ser divulgados no PNCP nos prazos previstos no § 1º deste artigo, sob pena de nulidade.
+
+
+§ 4º
+
+Em caso de indisponibilidade técnica comprovada do sistema ou impossibilidade operacional devidamente justificada, deverão ser adotadas medidas alternativas de publicidade, com posterior regularização no PNCP, quando cabível.
+
+
+Art. 44.
+
+Nos contratos de obras, a Câmara Municipal divulgará em sítio eletrônico oficial, nos termos da Lei Federal nº 14.133/2021:
+
+
+I –
+
+em até 25 (vinte e cinco) dias úteis após a assinatura do contrato, os quantitativos e os preços unitários e totais contratados;
+
+
+II –
+
+em até 45 (quarenta e cinco) dias úteis após a conclusão do contrato, os quantitativos executados e os preços praticados.
+
+
+#### CAPÍTULO XII — DAS PEQUENAS COMPRAS E DO PRONTO PAGAMENTO
+
+
+Art. 45.
+
+Poderão ser realizadas, no âmbito da Câmara Municipal do Cabo de Santo Agostinho, pequenas compras e prestações de serviços de pronto pagamento, inclusive mediante contrato verbal, quando inviável ou desarrazoada a formalização escrita prévia, desde que observados o limite previsto no art. 95, § 2º, da Lei Federal nº 14.133/2021, suas atualizações legais e as disposições desta portaria.
+
+
+Parágrafo único
+
+O valor previsto no caput acompanhará as atualizações promovidas na forma do art. 182 da Lei Federal nº 14.133/2021.
+
+
+Art. 46.
+
+Consideram-se pequenas compras e prestações de serviços de pronto pagamento as despesas de baixo valor, de caráter excepcional, eventual e de necessidade imediata, que não possam se subordinar, de forma oportuna e eficiente, ao procedimento ordinário de licitação, dispensa ou inexigibilidade, em razão da essencialidade da demanda e da necessidade de pronta resposta administrativa.
+
+
+§ 1º
+
+O procedimento previsto neste Capítulo não se confunde com as hipóteses de dispensa de licitação em razão do valor previstas no art. 75, incisos I e II, da Lei Federal nº 14.133/2021.
+
+
+§ 2º
+
+A utilização do procedimento de pronto pagamento dependerá de justificativa expressa e circunstanciada quanto:
+
+
+I –
+
+à necessidade de atendimento imediato;
+
+
+II –
+
+à impossibilidade de submissão da despesa ao procedimento ordinário de contratação;
+
+
+III –
+
+ao caráter excepcional e não rotineiro da despesa;
+
+
+IV –
+
+ao interesse público envolvido.
+
+
+Art. 47.
+
+As pequenas compras e a prestação de serviços de pronto pagamento somente poderão ser realizadas até o limite previsto no art. 95, § 2º, da Lei Federal nº 14.133/2021, considerado o valor vigente à época da despesa, conforme atualização por ato normativo federal.
+
+
+§ 1º
+
+Para aferição do limite referido no caput, deverão ser observados, como boa prática de controle, o somatório das despesas de mesma natureza no exercício financeiro e a vedação ao fracionamento indevido da despesa, nos termos da lógica extraída do art. 75, § 1º, da Lei Federal nº 14.133/2021.
+
+
+§ 2º
+
+É vedado o fracionamento da despesa com o propósito de enquadrá-la artificialmente no limite de que trata este artigo.
+
+
+Art. 48.
+
+O procedimento de pronto pagamento será operacionalizado por meio do regime de adiantamento ou suprimento de fundos, observada a legislação financeira aplicável, especialmente o art. 68 da Lei Federal nº 4.320/1964.
+
+
+Art. 49.
+
+Não se admitirá a utilização do procedimento previsto neste Capítulo para:
+
+
+I –
+
+despesas planejáveis ou previsíveis;
+
+
+II –
+
+despesas rotineiras ou permanentes;
+
+
+III –
+
+locações;
+
+
+IV –
+
+obras e serviços de arquitetura e engenharia;
+
+
+V –
+
+quaisquer hipóteses em que seja viável a adoção do procedimento regular de contratação.
+
+
+Art. 50.
+
+A instrução mínima do procedimento deverá conter, no que couber:
+
+
+I –
+
+solicitação da unidade demandante, com descrição suficiente do objeto;
+
+
+II –
+
+justificativa circunstanciada da necessidade de pronto pagamento;
+
+
+III –
+
+indicação do servidor responsável pela execução da despesa, quando cabível;
+
+
+IV –
+
+estimativa simplificada de preços ou justificativa da impossibilidade de sua obtenção prévia, quando a dinâmica da situação assim exigir;
+
+
+V –
+
+documento fiscal idôneo, emitido em nome da Câmara Municipal do Cabo de Santo Agostinho;
+
+
+VI –
+
+comprovação da efetiva entrega do bem ou da prestação do serviço;
+
+
+VII –
+
+prestação de contas da despesa realizada, com os documentos pertinentes.
+
+
+Art. 51.
+
+A pesquisa de preços, quando cabível, poderá ser realizada de forma simplificada, compatível com a natureza excepcional da contratação, sem prejuízo da necessidade de demonstração mínima da razoabilidade do valor contratado.
+
+
+Art. 52.
+
+Nas pequenas compras e prestações de serviços de pronto pagamento fundadas neste Capítulo, poderá ser dispensada a análise jurídica, desde que se trate de despesa de baixa complexidade, sem instrumento contratual formal e sem controvérsia jurídica relevante, observadas as orientações da assessoria jurídica da Câmara Municipal.
+
+
+Art. 53.
+
+Compete à autoridade administrativa competente autorizar, controlar e fiscalizar a utilização do procedimento de pronto pagamento, zelando pela sua estrita observância, pela motivação dos atos e pela vedação ao uso indevido do instituto.
+
+
+Art. 54.
+
+O servidor responsável pela realização da despesa em regime de adiantamento ou suprimento de fundos ficará obrigado à respectiva prestação de contas, na forma da legislação aplicável e das normas internas da Câmara Municipal do Cabo de Santo Agostinho, respondendo por eventual irregularidade, desvio de finalidade ou ausência de comprovação adequada.
+
+
+Art. 55.
+
+Todas as despesas realizadas com fundamento neste Capítulo deverão observar os deveres de transparência, publicidade e controle, inclusive mediante disponibilização das informações exigidas pela legislação pertinente.
+
+
+#### CAPÍTULO XIII — DA PADRONIZAÇÃO DAS COMPRAS E DA VEDAÇÃO À AQUISIÇÃO DE BENS DE LUXO
+
+
+Art. 56.
+
+A Câmara Municipal poderá elaborar catálogo eletrônico de compras, serviços e obras, contendo especificações padronizadas, documentos e procedimentos próprios, com vistas à racionalização, eficiência e economicidade das contratações.
+
+
+Art. 57.
+
+Os itens de consumo adquiridos pela Câmara Municipal deverão ser de qualidade comum, vedada a aquisição de bens de luxo.
+
+
+Art. 58.
+
+Para fins desta portaria, considera-se:
+
+
+I –
+
+bem de consumo: todo material destinado a satisfazer as necessidades da Administração, que atenda a critérios de durabilidade, fragilidade, perecibilidade, incorporabilidade, transformabilidade ou consumo imediato;
+
+
+II –
+
+bem de qualidade comum: bem de consumo com padrão de qualidade suficiente ao atendimento da necessidade administrativa, com preço compatível com o mercado;
+
+
+III –
+
+bem de luxo: bem de consumo com qualidade, especificidade, requinte ou preço superior ao necessário para o adequado funcionamento da Câmara Municipal, identificável por características de ostentação, opulência, forte apelo estético ou requinte excessivo.
+
+
+Art. 59.
+
+Não será enquadrado como bem de luxo aquele que:
+
+
+I –
+
+for adquirido por preço equivalente ou inferior ao preço de bem de qualidade comum da mesma natureza;
+
+
+II –
+
+possuir características superiores devidamente justificadas em razão da necessidade institucional, da segurança, da durabilidade, da economicidade ou da estrita atividade desempenhada pela Câmara Municipal.
+
+
+Art. 60.
+
+É vedada a aquisição de bens de consumo enquadrados como bens de luxo.
+
+
+#### CAPÍTULO XIV — DA PESQUISA DE PREÇOS E DO VALOR ESTIMADO
+
+
+Art. 61.
+
+A pesquisa de preços deverá observar os parâmetros previstos no art. 23 da Lei Federal nº 14.133/2021, aplicáveis conforme a natureza do objeto e as condições de mercado.
+
+
+Art. 62.
+
+A pesquisa de preços será materializada em documento próprio, contendo, sempre que possível:
+
+
+I –
+
+descrição do objeto a ser contratado;
+
+
+II –
+
+identificação dos responsáveis pela pesquisa;
+
+
+III –
+
+fontes consultadas;
+
+
+IV –
+
+série de preços coletados;
+
+
+V –
+
+metodologia utilizada para definição do valor estimado;
+
+
+VI –
+
+justificativa para desconsideração de valores inexequíveis, inconsistentes ou excessivamente elevados;
+
+
+VII –
+
+memória de cálculo;
+
+
+VIII –
+
+documentos de suporte;
+
+
+IX –
+
+justificativa da escolha dos fornecedores consultados, no caso de pesquisa direta.
+
+
+Art. 63.
+
+A obtenção do preço estimado deverá considerar, sempre que possível, o mínimo de 3 (três) preços, podendo ser utilizada média, mediana, menor preço ou outro critério devidamente justificado.
+
+
+§ 1º
+
+Poderão ser desconsiderados preços inexequíveis, inconsistentes ou excessivamente elevados, mediante justificativa formal.
+
+
+§ 2º
+
+Excepcionalmente, será admitida a determinação do preço estimado com base em menos de 3 (três) preços, desde que devidamente justificada.
+
+
+§ 3º
+
+Na pesquisa direta com fornecedores, deverão ser registrados os fornecedores consultados, as respostas recebidas e, sempre que possível, as ausências de resposta.
+
+
+Art. 64.
+
+Nas contratações diretas por inexigibilidade ou dispensa, quando não for possível estimar o valor do objeto pelos parâmetros ordinários, a justificativa de preço poderá ser demonstrada por meio de notas fiscais, contratos anteriores, propostas, tabelas, publicações especializadas ou outros meios idôneos que evidenciem compatibilidade com os preços praticados no mercado.
+
+
+Art. 65.
+
+Desde que justificado, o orçamento estimado da contratação poderá ter caráter sigiloso até o momento adequado de divulgação, observado o disposto na Lei Federal nº 14.133/2021.
+
+
+#### CAPÍTULO XV — DO SISTEMA DE REGISTRO DE PREÇOS
+
+
+Art. 66.
+
+A Câmara Municipal poderá adotar o Sistema de Registro de Preços para contratação de bens e serviços, inclusive serviços comuns de engenharia, quando cabível, observadas as disposições da Lei Federal nº 14.133/2021.
+
+
+Art. 67.
+
+A Ata de Registro de Preços terá prazo de validade de até 1 (um) ano, podendo ser prorrogada por igual período, desde que comprovada a vantajosidade dos preços registrados.
+
+
+Art. 68.
+
+A utilização do Sistema de Registro de Preços deverá ser precedida de justificativa quanto à conveniência administrativa, economicidade, previsibilidade da demanda e compatibilidade do objeto com esse procedimento.
+
+
+#### CAPÍTULO XVI — DO CREDENCIAMENTO
+
+
+Art. 69.
+
+Credenciamento é o processo administrativo de chamamento público em que a Câmara Municipal convoca interessados em prestar serviços ou fornecer bens para que, preenchidos os requisitos necessários, credenciem-se para executar o objeto quando convocados.
+
+
+Art. 70.
+
+A Câmara Municipal poderá utilizar o credenciamento quando houver inviabilidade de competição em razão da possibilidade de contratação de todos os interessados que atendam às condições previamente estabelecidas
+
+
+Parágrafo único
+
+O credenciamento do interessado não se confunde com a contratação, a qual somente ocorrerá mediante procedimento próprio, nos termos da Lei Federal nº 14.133/2021.
+
+
+Art. 71.
+
+O credenciamento será divulgado por meio de edital de chamamento público, contendo as condições gerais para ingresso dos interessados, critérios de seleção, forma de convocação, valores, prazos, obrigações e demais regras necessárias.
+
+
+§ 1º
+
+A Câmara Municipal fixará o preço a ser pago ao credenciado, bem como os critérios de reajuste, quando cabíveis.
+
+
+§ 2º
+
+A escolha do credenciado poderá ser realizada por terceiro beneficiário direto do serviço, quando essa sistemática for compatível com o objeto.
+
+
+§ 3º
+
+Quando a escolha couber à Câmara Municipal, o edital deverá estabelecer critérios objetivos e impessoais de distribuição da demanda.
+
+
+#### CAPÍTULO XVII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 72.
+
+Os casos omissos serão resolvidos pela autoridade competente, com fundamento na Lei Federal nº 14.133/2021, nos princípios da Administração Pública e, quando necessário, mediante manifestação da assessoria jurídica ou do controle interno.
+
+
+Art. 73.
+
+A Câmara Municipal poderá editar atos complementares, manuais ou modelos padronizados para a execução desta portaria.
+
+
+Art. 74.
+
+Aplicam-se subsidiariamente a esta portaria as normas gerais da Lei Federal nº 14.133/2021 e demais legislações correlatas.
+
+
+Art. 75.
+
+Esta portaria entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Cabo de Santo Agostinho/PE, 29 de maio de 2026.
+
+***MÁRIO ANDERSON DA SILVA BARRETO***  
+Presidente
+
+**Publicado por:**  
+Jose Carlos Amorim de Araujo  
+**Código Identificador:**DE98D4EA

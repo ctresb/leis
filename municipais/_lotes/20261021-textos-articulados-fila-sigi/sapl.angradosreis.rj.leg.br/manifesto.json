@@ -1,0 +1,42 @@
+{
+  "host": "sapl.angradosreis.rj.leg.br",
+  "metadados_unicos_observados": 5,
+  "total_api_declarado": 5,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.angradosreis.rj.leg.br/fd26e5bad2af67f7af945bb0f097a0f8abb5b9138ca6bbaaf7efa7d5c8725c18.json",
+    "url": "https://sapl.angradosreis.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.angradosreis.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c2fc6de42c26ba81210cf5d90dada846e88981d3d21b802156bebfd384776a69",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T16:44:09.813804-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.angradosreis.rj.leg.br/1923b98475bc2d684c97284a7f0e1ad9a7bcf3362a6a393baeedb9c35ec50bfe.json",
+    "url": "https://sapl.angradosreis.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.angradosreis.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ffeebe3475db90b9222f587f72dae23b62dfe05db9428b47d813279aa176d3e3",
+    "bytes": 750,
+    "capturado_em": "2026-10-27T16:44:09.012191-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.angradosreis.rj.leg.br/94851c0797f141dd19e84990719a04dcfb24b3ca15982a80056be2f85a1b8e3d.json",
+      "url": "https://sapl.angradosreis.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.angradosreis.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7ba4d03e13d91c74db37e59ddde14f65da4e628cd11ede1d3eff993e833f80f7",
+      "bytes": 3120,
+      "capturado_em": "2026-10-27T16:44:11.914710-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

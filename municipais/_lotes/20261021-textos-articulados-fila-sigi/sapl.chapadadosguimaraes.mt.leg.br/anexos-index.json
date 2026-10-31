@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/decreto_no_090-2020_-_cria_o_conselho_deliberativo_do_distrito_turistico_de_paraiso_do_manso_2.pdf da norma LEI MUNICIPAL COMPLEMENTAR nº 87, de 23 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Decreto que cria o Conselho Deliberativo do Distrito Turístico do Paraíso do Manso.",
+      "anexo_arquivo": "http://sapl.chapadadosguimaraes.mt.leg.br/media/sapl/public/anexonormajuridica/2020/1/decreto_no_090-2020_-_cria_o_conselho_deliberativo_do_distrito_turistico_de_paraiso_do_manso_2.pdf",
+      "ano": 2020,
+      "norma": 32
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/decreto_no_091-2020_-_cria_o_conselho_deliberativo_do_distrito_turistico_de_joao_carro..pdf da norma LEI MUNICIPAL COMPLEMENTAR nº 88, de 09 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Cria o Conselho Deliberativo do distrito turístico de João Carro.",
+      "anexo_arquivo": "http://sapl.chapadadosguimaraes.mt.leg.br/media/sapl/public/anexonormajuridica/2020/2/decreto_no_091-2020_-_cria_o_conselho_deliberativo_do_distrito_turistico_de_joao_carro..pdf",
+      "ano": 2020,
+      "norma": 33
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadadosguimaraes.mt.leg.br/d5545e84700cf4d5586b3653c405db914329a615c9abbed1c170f239dde25e3c.json",
+      "url": "https://sapl.chapadadosguimaraes.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.chapadadosguimaraes.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f6109b08db0c96e870b1f69060ed6628a9efbf61bcbc6de6ceeb6c794d03a810",
+      "bytes": 1428,
+      "capturado_em": "2026-10-27T22:40:06.427418-03:00"
+    }
+  ]
+}

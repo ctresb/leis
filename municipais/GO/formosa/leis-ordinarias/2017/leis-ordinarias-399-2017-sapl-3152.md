@@ -1,0 +1,233 @@
+---
+titulo: "Lei Ordinária nº 399, de 17 de maio de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "399"
+data: "2017-05-17"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/3152"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/676/text"
+sha256_fonte: "0d97100886bcf389c68912213708e77c4ee4d5347a5cc4df2eac69cf18e7b369"
+sha256_texto: "1d2f59890c2f29d721557b181625ad26ee51b5ccd4fe5990a483b34e463f3aaa"
+capturado_em_fonte: "2026-10-28T11:33:22.426242-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 399, de 17 de maio de 2017
+
+Dispõe sobre a criação do Centro Municipal de Apoio e Inclusão – CMAI, na forma que especifica e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA – GOIÁS, no uso das atribuições que lhes são conferidas pelo cargo,
+
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Centro Municipal de Apoio e Inclusão - CMAI para atendimento à Rede Pública Municipal de Ensino e dá outras providências.
+
+
+**DA IMPLANTAÇÃO E DA COMPOSIÇÃO**
+
+
+Art. 2º.
+
+A Secretaria Municipal de Educação é o órgão próprio da Rede Pública Municipal de Ensino e exerce atribuições do Poder Público Municipal no âmbito da Educação Básica, competindo-lhe a implantação e a manutenção do Centro Municipal de Apoio e Inclusão - CMAI, primando em:
+
+
+I –
+
+garantir espaço físico adequado e exclusivo para o funcionamento do Centro Municipal de Apoio e Inclusão - CMAI;
+
+
+II –
+
+assegurar profissionais com habilitação adequada para atendimento especializado;
+
+
+III –
+
+viabilizar e disponibilizar profissionais de apoio nas salas regulares de ensino para os alunos com laudo médico, que passaram por avaliação do Centro Municipal de Apoio e Inclusão - CMAI, mediante adequação curricular atualizada.
+
+
+Art. 3º.
+
+O Centro Municipal de Apoio e Inclusão – CMAI é constituído por servidores públicos municipais do Poder Executivo, divididos em dois segmentos, sendo:
+
+
+I –
+
+administrativo:
+
+
+a)
+
+coordenador - profissional com Graduação em Pedagogia, Especialização na área, com a carga horária de 40 (quarenta) horas semanais e com a incumbência de coordenar e gerir todas as atividades inerentes ao funcionamento do Centro Municipal de Apoio e Inclusão - CMAI;
+
+
+b)
+
+secretário - profissional graduado, comprovada experiência em rotinas administrativas, com carga horária semanal de 40 (quarenta) horas, diretamente subordinado à coordenação e à Secretaria Municipal de Educação;
+
+
+II –
+
+operacional:
+
+
+a)
+
+psicólogo - profissional graduado em Psicologia com a atribuição de realizar psicodiagnósticos e psicoterapia atendendo alunos e profissionais da educação;
+
+
+b)
+
+psicopedagogo - profissional com Graduação em Pedagogia e Especialização em Psicopedagogia Clínica e Institucional, com carga horária de trabalho de 40 (quarenta) horas semanais, diretamente subordinado à coordenação e à Secretaria Municipal de Educação;
+
+
+c)
+
+fonoaudiólogo - profissional graduado em Fonoaudiologia com a atribuição de realizar atendimento aos alunos da Rede Pública Municipal de Ensino;
+
+
+d)
+
+fisioterapeuta - profissional graduado em Fisioterapia com a atribuição de realizar atendimento aos alunos da Rede Pública Municipal de Ensino;
+
+
+e)
+
+professor com formação em libras ou braile - profissional com Graduação em Nível Superior em qualquer área de formação, com carga horária de trabalho de 40 (quarenta) horas semanais, diretamente subordinado à coordenação e à Secretaria Municipal de Educação;
+
+
+f)
+
+nutricionista - profissional graduado em Nutrição com a atribuição de realizar atendimento aos alunos da Rede Pública Municipal de Ensino;
+
+
+g)
+
+recreador - deve estar cursando Nível Superior em curso de Licenciatura Plena em Pedagogia.
+
+
+**DO CARÁTER E DA MISSÃO**
+
+
+Art. 4º.
+
+O Centro Municipal de Apoio e Inclusão - CMAI incumbir-se-á de promover o processo psicossocial, pedagógico, cultural, filosófico, estético e político de ações educativas e administrativas voltadas para a inclusão, o acesso, a permanência, o sucesso e a terminalidade dos alunos da Rede Pública Municipal de Ensino.
+
+
+Art. 5º.
+
+Os serviços especializados de caráter educacional apresentam-se de modo complementar aos ofertados pelas unidades de ensino, para atender aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação.
+
+
+Parágrafo único.
+
+Os profissionais que integram o Centro Municipal de Apoio e Inclusão - CMAI devem ser habilitados e/ou especialistas, conforme a área de atuação.
+
+
+**DAS ATRIBUIÇÕES**
+
+
+Art. 6º.
+
+Dentre as atribuições do Centro Municipal de Apoio e Inclusão - CMAI, constam obrigatoriamente:
+
+
+I –
+
+participar do encaminhamento e remanejamento dos profissionais de apoio às unidades escolares;
+
+
+II –
+
+acompanhar e orientar o processo de instalação e funcionamento das Salas de Recursos Multifuncionais e adaptações arquitetônicas;
+
+
+III –
+
+orientar os professores do Atendimento Educacional Especializado e demais envolvidos no processo da educação inclusiva;
+
+
+IV –
+
+criar e atualizar o banco de dados com o quantitativo de educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação matriculados na Rede Pública Municipal de Ensino;
+
+
+V –
+
+orientar e verificar a documentação da Educação Inclusiva;
+
+
+VI –
+
+oferecer atendimento psicopedagógico, psicológico, fonoaudiológico, fisioterápico, estimulação precoce, prioritariamente, aos educandos com deficiência, transtornos globais do desenvolvimento, altas habilidades ou superdotação.
+
+
+**DISPOSIÇÕES FINAIS**
+
+
+Art. 7º.
+
+Por meio da Secretaria Municipal de Educação o Centro Municipal de Apoio e Inclusão - CMAI firmará convênios com instituições públicas e/ou privadas nas áreas de educação, saúde, trabalho, esporte, cultura e lazer, visando a qualidade no atendimento ao público-alvo da educação especial no âmbito da educação inclusiva, prioritariamente:
+
+
+I –
+
+Secretaria Municipal de Saúde numa perspectiva multidisciplinar com especialistas como: neurologista, otorrino, psiquiatra, psicólogo, pediatra, neuropediatra, fonoaudiólogo, fisioterapeuta, entre outros;
+
+
+II –
+
+Secretaria de Desenvolvimento Social e Trabalho com a finalidade de dar suporte à inclusão social dos educandos e das famílias.
+
+
+Art. 8º.
+
+A estrutura e o funcionamento do Centro Municipal de Apoio e Inclusão – CMAI serão estabelecidos em Regimento aprovado pelo Conselho Municipal de Educação.
+
+
+Parágrafo único.
+
+A promulgação do Regimento deverá se processar dentro do prazo de até 60 (sessenta) dias a contar da publicação desta Lei.
+
+
+Art. 9º.
+
+Revogam-se as disposições em contrário, em especial a Lei Municipal n.º 604/12, de 28 de agosto de 2012 e suas alterações.
+
+
+Art. 10.
+
+Esta Lei entra em vigor a partir da data de sua publicação, para que surtam todos os seus jurídicos e legais efeitos.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 17 de maio de 2017.
+
+ERNESTO ROLLER
+
+PREFEITO MUNICIPAL
+
+Afixado no "placard" de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+....................................................................
+
+IANY MACÊDO TRONCHA
+
+Assessora Jurídica
+
+Decreto nº. 054/17, de 06 de janeiro de 2017.
+

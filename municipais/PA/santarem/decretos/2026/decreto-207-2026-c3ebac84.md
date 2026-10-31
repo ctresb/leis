@@ -1,0 +1,44 @@
+---
+titulo: "DECRETO Nº 207/2026 – GAP/PMS, DE 10 DE FEVEREIRO"
+uf: "PA"
+municipio: "SANTARÉM"
+tipo: "Decreto"
+numero: "207"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 12/02/2026"
+data_publicacao: 2026-02-12
+codigo_identificador: "C3EBAC84"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117017_2026-02-11_bc4606208796be74c5c7e68d5116bb3a.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 207/2026 – GAP/PMS, DE 10 DE FEVEREIRO
+
+DECRETO Nº 207/2026 – GAP/PMS, DE 10 DE FEVEREIRO
+DE 2026.
+DISPÕE SOBRE NOMEAÇÃO DE CARGO EM
+COMISSÃO DE SEÇÃO DE ADMINISTRAÇÃO
+DO MERCADO VILA ARIGÓ, DA SECRETARIA
+MUNICIPAL DE AGRICULTURA E PESCA.
+
+Art. 2º Este Decreto entra em vigor da sua publicação, retroagindo
+seus efeitos a 02/02/2026.
+
+O Prefeito Municipal de Santarém, usando de suas atribuições legais.
+Gabinete do Prefeito Municipal de Santarém, em 10 de fevereiro de
+2026.
+JOSÉ MARIA TAPAJÓS
+Prefeito Municipal de Santarém
+Publicado
+no
+Diário
+Oficial
+dos
+Municípios
+(www.diariomunicipal.com.br/famep) e na página oficial da Prefeitura
+Municipal de Santarém-PA (www.santarem.pa.gov.br/Portal da
+Transparência).
+Publicado por:
+Ayla Jayane de Lima Brazão

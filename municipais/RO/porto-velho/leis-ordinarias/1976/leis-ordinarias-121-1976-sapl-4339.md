@@ -1,0 +1,95 @@
+---
+titulo: "Lei nº 121, de 20 de setembro de 1976"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "121"
+data: "1976-09-20"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4339"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1105/text"
+sha256_fonte: "b8c8ab7402be9960af9d50562a4f242265137d976fb795be7adb4dd6f5fec078"
+sha256_texto: "7a39a5a74aa58ebc78e18baf3b905e17fcf6b324682ac3b9f6a99f4dab9a27b2"
+capturado_em_fonte: "2026-10-27T22:41:13.190811-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 121, de 20 de setembro de 1976
+
+Modifica o Plano Urbanístico Básico do Plano de Ação Imediata do Município de Porto Velho e dá outras providencias.
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, no uso das atribuições que lhe são conferidas por Lei,  
+  
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO, aprovou e eu sanciono a seguinte  
+  
+LEI:
+
+
+Art. 1º.
+
+A área localizada na parte Norte da cidade de Porto Velho, destinada no Plano Urbanístico Básico do Plano de Ação Imediata do Município de Porto Velho, aprovado pela Lei Municipal n° 60, de 22 de março de 1973, a área industrial, fica reservada para o fim de ocupação residencial.
+
+
+Art. 2º.
+
+Referida área deverá ser demarcada pelo Departamento de Planejamento da Prefeitura Municipal após a publicação desta Lei, respeitando-se os seguintes limites:
+
+
+–
+
+Ao Norte com a área ora ocupada pelo Governo do Território, a qual está destinada ao DNPVN, até o conjunto, do IPASE e casas residenciais do Governo e Pe. Chiquinho , respeitando ambas as marcas.
+
+
+–
+
+Ao Leste com a Av. Kennedy, a Oeste com a Av. Major Amarante e ao Sul com a área residencial da cidade.
+
+
+Art. 3º.
+
+Deverá a Prefeitura Municipal, através do Departamento de Planejamento, promover estudos imediatos no sentido de redefinir a ocupação da área industrial, para o fim de adequar convenientemente os objetivos do ítem 4.1.4 e seus diversos incisos, aos fins a que se destina esta Lei, tendo em vista que a área ora definida passa a ter ocupação de características residenciais, portanto diversa da parte restante daquela área.
+
+
+Art. 4º.
+
+Fica a Prefeitura do Município de Porto Velho, autorizada a regularizar as ocupações existentes na área expedindo Alvará de Construção e Habite-se, quando for o caso, definindo os respectivos lotes de terras e expedindo as correspondentes licenças de Ocupações.
+
+
+Art. 5º.
+
+As providencias de que trata o artigo anterior deverão ser concluidas no prazo de 60 (SESSENTA) dias a contar do término do prazo estabelecido no artigo 2º desta Lei.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+\- Eng° LUIZ GONZAGA FARIAS FERREIRA -  
+Prefeito Municipal  
+  
+- Téc. Adm. SÉRGIO BAFFI -  
+Diretor do Departamento de Administração  
+  
+- Econ. JOSÉ BERNARDO PEREIRA -  
+Diretor do Departamento de Finanças
+
+\- Econ. JURANDY FERREIRA BRANDÃO -
+
+Diretor do Departamento de Planejamento  
+  
+- Engº. SEBASTIÃO ASSEF VALLADARES  
+Diretor do Departamento de Obras  
+  
+- Dr. FLÁVIO CRUZ ARRUDA -  
+Resp. p/ Dep. de Saúde e Promoção Social  
+  
+- Prof. CARMEN ENEIDA RIELLA BENITES -  
+Diretora do Departamento de Educação e Cultura
+

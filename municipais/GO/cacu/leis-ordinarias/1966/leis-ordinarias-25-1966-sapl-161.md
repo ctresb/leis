@@ -1,0 +1,341 @@
+---
+titulo: "Lei Ordinária nº 25, de 10 de novembro de 1966"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "25"
+data: "1966-11-10"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1970-12-11; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/161"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/580/text"
+sha256_fonte: "ea79348f1e7eb054b94437ac8ad83e7d74336a0487cb3cecc1be2241dbe384a0"
+sha256_texto: "a3e028942cc134dbe2eea7767b2921f42a33dfb710bc00221baf3b8a797388d7"
+capturado_em_fonte: "2026-10-27T22:13:26.644099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 25, de 10 de novembro de 1966
+
+Reorganiza a estrutura administrativa da Prefeitura Municipal de Caçu e dá outras providências.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu aprovou e eu sanciono a seguinte lei:
+
+
+#### CAPÍTULO I — DA ORGANIZAÇÃO BÁSICA DA PREFEITURA
+
+
+Art. 1º.
+
+O sistema administrativo da Prefeitura Municipal de Caçu é constituído dos seguintes órgãos:
+
+
+I –
+
+Órgãos de administração Geral
+
+
+1
+
+Secretaria;
+
+
+2
+
+Serviço de Fazenda.
+
+
+II –
+
+Órgãos de administração especifica:
+
+
+1
+
+Serviço de Saúde;
+
+
+2
+
+Serviço de Obras e Viação;
+
+
+3
+
+Serviço de Educação e Cultura;
+
+
+4
+
+Serviços Urbanos;
+
+
+5
+
+Serviços de água e Esgoto;
+
+
+6
+
+Serviço de Energia Elétrica.
+
+
+#### CAPÍTULO II — DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS BÁSICOS DA PREFEITURA
+
+
+##### Seção I — DA SECRETARIA
+
+
+Art. 2º.
+
+A Secretaria é o órgão que tem por finalidade exercer as atividades de coordenação político-administrativa da Prefeitura com os munícipes, entidades e associações de classes; de divulgação e de relações públicas da Prefeitura, de preparação, registro, publicação expedição dos atos do Prefeito; de recrutamento, seleção, treinamento, regime jurídico, controles funcionais e demais atividades de pessoal; de padronização, aquisição, guarda, distribuição e controle de todo material utilizado na Prefeitura; de tombamento, registro, inventario, proteção e conservação dos bens móveis, imóveis e semoventes; de manutenção da frota de veículos e do equipamento de uso geral da administração, bem como sua guarda e conservação; de recebimento, distribuição, controle do andamento e arquivamento definitivo dos papeis da Prefeitura, móveis e instalações, atuando, ainda, como órgão de assessoramento do Prefeito na supervisão, na coordenação e no controle dos serviços públicos municipais.
+
+
+##### Seção II — DO SERVIÇO DE FAZENDA
+
+
+Art. 3º.
+
+O Serviço de Fazenda é o órgão encarregado de executar a política econômica e financeira do Município; das atividades referentes ao lançamento, fiscalização e arrecadação dos tributos e vendas municipais; do recebimento pagamento, guarda e movimentação dos dinheiros e outros valores do município; da elaboração da proposta orçamentária e controle e escrituração contábil da Prefeitura; e do assessoramento geral e assuntos fazendários.
+
+
+Art. 4º.
+
+O Serviço de Fazenda compõe-se das seguintes unidades de serviço, imediatamente subordinadas ao respectivo titular:
+
+
+I –
+
+Setor de Tributação;
+
+
+II –
+
+Tesouraria;
+
+
+III –
+
+Contadoria.
+
+
+##### Seção III — DO SERVIÇO DE OBRAS E VIAÇÃO
+
+
+Art. 5º.
+
+O Serviço de Obras e Viação é o órgão incumbido de executar as atividades concernentes à elaboração de projetos, construção e conservação das obras públicas municipais, assim como dos próprios da municipalidade, ao licenciamento e à fiscalização de obras particulares; à pavimentação de ruas e abertura de novas artérias e logradouros públicos; à construção e conservação de estradas e caminhos municipais integrantes do sistema rodoviário do Município; e à fiscalização de contratos que se relacionem com serviços a seu cargo.
+
+
+##### Seção IV — DO SERVIÇO DE SAÚDE
+
+
+Art. 6º.
+
+O Serviço de Saúde é o órgão encarregado de promover os serviços de assistência médico-social à população do Município; de promover o atendimento de necessitados que se dirijam à Prefeitura em busca de ajuda; de encaminhar a postos de saúde, hospitais e outros serviços assistenciais as pessoas que necessitam dessa providência; de promover o levantamento de recursos da comunidade que possam ser utilizados no socorro e assistência a necessitados; de fiscalizar a aplicação das subvenções consignadas no orçamento para entidades de assistência social; de promover inspeções de saúde dos servidores municipais; e de realizar os serviços de fiscalização sanitária, de acordo com a legislação respectiva.
+
+
+##### Seção V — DO SERVIÇO DE EDUCAÇÃO E CULTURA
+
+
+Art. 7º.
+
+O serviço de Educação e Cultura é o órgão responsável pelas atividades relativas à Educação primária e secundária, a instalação e manutenção e estabelecimentos municipais de ensino à elaboração e execução do Plano Municipal de Educação; a manutenção da biblioteca, à difusão Cultural e a execução de programas recreativos e desportivos.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 17, de 11 de dezembro de 1970.
+
+
+Parágrafo único
+
+Integram o Serviço de Educação e Cultura as unidades escolares.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 17, de 11 de dezembro de 1970.
+
+
+##### Seção VI — DOS SERVIÇOS URBANOS
+
+
+Art. 8º.
+
+Aos serviços Urbanos compete executar as atividades relativas à manutenção da limpeza pública da cidade; à administração dos cemitérios; à manutenção dos parques, jardins e da arborização; à manutenção dos serviços públicos municipais de abastecimento, como mercados, feiras e matadouros; à fiscalização dos serviços públicos concedidos ou permitidos; e à manutenção da Guarda Municipal.
+
+
+Art. 9º.
+
+Os Serviços Urbanos compõem-se das seguintes unidades de serviço, imediatamente subordinadas ao respectivo titular:
+
+
+I –
+
+Setor de Limpeza Pública;
+
+
+II –
+
+Setor de Parques e Jardins;
+
+
+III –
+
+Mercado Municipal;
+
+
+IV –
+
+Matadouro Municipal;
+
+
+V –
+
+Cemitério Municipal;
+
+
+VI –
+
+Guarda Municipal.
+
+
+##### Seção VII — DO SERVIÇO DE ÁGUA E ESGOTO
+
+
+Art. 10.
+
+O Serviço de Água e Esgoto é o órgão encarregado de operar, manter, conservar e explorar os serviços de abastecimento de água e de esgotos mantidos pelo Município.
+
+
+##### Seção VIII — DO SERVIÇO DE ENERGIA ELÉTRICA
+
+
+Art. 11.
+
+O Serviço de Energia Elétrica é o órgão encarregado de operar, manter, conservar e explorar os serviços de energia elétrica mantidos pelo Município, bem como administrar os serviços de iluminação pública.
+
+
+##### Seção IX — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 12.
+
+Ficam criados todos os órgãos competentes e complementares da organização básica da Prefeitura mencionados nesta lei, os quais serão instalados de acordo com as necessidades e conveniências da administração.
+
+
+Parágrafo único
+
+O Prefeito complementará, mediante decreto, a organização administrativa da Prefeitura, criando os órgãos de nível inferior ao de serviço, observados os princípios gerais estabelecidos na presente lei e a existência de recursos orçamentários para atender às despesas com o provimento das respectivas chefias.
+
+
+Art. 13.
+
+O Prefeito, baixará, no prazo de 90 (noventa) dias, o Regimento Interno da Prefeitura, no qual constarão:
+
+
+I –
+
+Atribuições gerais das diferentes unidades administrativas da Prefeitura;
+
+
+II –
+
+Atribuições especificas e comuns dos servidores investidos nas funções de supervisão e chefia;
+
+
+III –
+
+Normas de trabalho que, pela sua própria natureza, não devam constituir objeto de disposição em separado;
+
+
+IV –
+
+Outras disposições julgadas necessárias.
+
+
+Art. 14.
+
+No Regimento Interno de que trata o artigo anterior, o Prefeito poderá delegar competência às diversas chefias para proferir despachos decisórios, podendo, a qualquer momento, avocar a si, segundo seu único critério, a competência delegada.
+
+
+Parágrafo único
+
+è delegável a competência decisória do Prefeito nos seguintes casos, sem prejuízo de outros que os atos normativos indicarem:
+
+
+I –
+
+autorização de despesa após o limite de 5 (cinco) vezes i salário mínimo vigente no Município.
+
+
+II –
+
+nomeação, admissão, contratação de servidor, a qualquer título e qualquer que seja sua categoria, e sua exoneração, demissão, dispensa, suspensão, revisão e rescisão de contrato;
+
+
+III –
+
+concessão e cassação de aposentadoria;
+
+
+IV –
+
+decretação de prisão administrativa;
+
+
+V –
+
+aprovação de concorrência pública, qualquer que seja sua finalidade;
+
+
+VI –
+
+concessão de exploração de serviços públicos ou de utilidade pública;
+
+
+VII –
+
+permissão de serviço público ou de utilidade pública a titulo precário;
+
+
+VIII –
+
+alienação de bens imóveis pertencentes ao patrimônio municipal, depois de autorizada pela Câmara Municipal;
+
+
+IX –
+
+aquisição de bens imóveis por compra ou permuta;
+
+
+X –
+
+aprovação de loteamentos e subdivisão de terrenos.
+
+
+Art. 15.
+
+As unidades administrativas da atual estrutura da Prefeitura serão automaticamente extintas à medida que forem sendo instalados os órgãos previstos nesta lei.
+
+
+Art. 16.
+
+A Prefeitura dará atenção especial ao treinamento de seus servidores, fazendo-os, na medida das disponibilidades, financeiras do Município e da conveniência dos serviços, freqüentar cursos e estágios especiais de treinamento e aperfeiçoamento.
+
+
+Art. 17.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 18.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete da Prefeitura Municipal de Caçu, em 10 de novembro de 1966.
+
+
+**Jerônymo Damasceno Ribeiro - Prefeito Municipal -**
+

@@ -1,0 +1,144 @@
+---
+titulo: "Lei Ordinária nº 7.634, de 03 de março de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7634"
+data: "2026-03-03"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2026-09-03; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8417"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3601/text"
+sha256_fonte: "6001ac3c4e13ff92e69383840e5e4c4a44493bb7775174269e6e14911c281ee3"
+sha256_texto: "959465332db0d2155656f12ff1d9818d337fc16c6aced06b5fbf9f3e6473f238"
+capturado_em_fonte: "2026-10-27T17:44:26.488317-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.634, de 03 de março de 2026
+
+INSTITUI O USO DO “CORDÃO DE GIRASSOL” COMO INSTRUMENTO AULIXIAR DE ORIENTAÇÃO E IDENTIFICAÇÃO DE PESSOAS COM DEFICIÊNCIA OCULTA, NO MUNICÍPIO DE BIRIGUI.  
+Projeto de Lei nº 6/2026, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, no uso das atribuições que lhe são conferidas por lei,
+
+FAÇO SABER que a Câmara Municipal aprova e eu sanciono a presente Lei:
+
+
+Art. 1º.
+
+Fica instituído o uso do *Cordão de Girassol* como instrumento auxiliar de orientação e identificação de pessoas com deficiência oculta, no município de Birigui.
+
+
+Art. 2º.
+
+Para os fins desta lei considera-se:
+
+
+I –
+
+Pessoa com deficiência oculta: aquela cuja deficiência, ou condição neurológica, não é identificada de maneira imediata, por não ser fisicamente evidente;
+
+
+II –
+
+Cordão de girassol: faixa estreita de tecido ou material equivalente, na cor verde, estampada com desenhos de girassóis, podendo ter um crachá com informações úteis, a critério do portador ou de seus responsáveis.
+
+
+Art. 3º.
+
+O uso do cordão de girassol é facultado às pessoas que tenham deficiências ocultas, bem como a seus acompanhantes e atendentes pessoais.
+
+
+Parágrafo único
+
+O uso do cordão de girassol não constitui fator condicionante para o gozo de direitos assegurados à pessoa com deficiência.
+
+
+Art. 4º.
+
+O processo de cadastramento, emissão de Carteira de identificação e autorização para retirada do cordão de girassol será realizado pela Secretaria Municipal de Saúde, mediante, se necessária, articulação com outras secretarias municipais e demais órgãos e repartições públicas em geral.
+
+
+Parágrafo único
+
+Fica assegurada a distribuição do cordão de girassol, sem a necessidade de novo processo de cadastramento, aos munícipes que já possuam a Carteira de Identificação.
+
+
+Art. 5º.
+
+A carteira de identificação e o cordão de girassol serão expedidos, sem custo, mediante solicitação formal junto à Secretaria Municipal de Saúde, por meio de protocolo administrativo, instruída com documentos de identificação do beneficiário e laudo médico firmado por médico regularmente inscrito no Conselho Regional de Medicina, contendo o diagnóstico e, sempre que possível, o código da Classificação Internacional de Doenças (CID).
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.683, de 03 de setembro de 2026.
+
+
+§ 1º
+
+Verificada a conformidade do pedido com o disposto nesta Lei, será emitida a carteira de identificação e disponibilizado o cordão de girassol para retirada na Secretaria Municipal de Saúde no prazo de até 90 (noventa) dias.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.683, de 03 de setembro de 2026.
+
+
+§ 2º
+
+A carteira de identificação terá validade por prazo indeterminado nos casos de deficiência permanente, assim reconhecida em laudo médico.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 7.683, de 03 de setembro de 2026.
+
+
+§ 3º
+
+Nos casos de deficiência de caráter temporário, a validade da carteira observará o prazo indicado no laudo médico e, na ausência de previsão expressa, será fixada pelo prazo máximo de 5 (cinco) anos.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 7.683, de 03 de setembro de 2026.
+
+
+Art. 6º.
+
+O cordão de girassol é de uso pessoal e intransferível, sendo vedado o empréstimo, a cessão ou a sua utilização por terceiros.
+
+
+Art. 7º.
+
+Os estabelecimentos públicos e privados devem orientar seus funcionários e colaboradores quanto à identificação de pessoas com deficiências ocultas, a partir do uso do cordão de girassol, bem como aos procedimentos que possam ser adotados para atenuar as dificuldades destas pessoas.
+
+
+Art. 8º.
+
+O cordão de girassol constitui instrumento de identificação e acolhimento das pessoas com deficiência oculta, não gerando, por si só, direito automático a atendimento prioritário ou a benefícios não previstos em lei.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 7.683, de 03 de setembro de 2026.
+
+
+Parágrafo único
+
+Nas unidades de saúde, o atendimento observará os protocolos de classificação de risco, sendo a prioridade definida com base em critérios técnicos de gravidade.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 7.683, de 03 de setembro de 2026.
+
+
+Art. 9º.
+
+As despesas decorrentes da aplicação desta Lei correrão à conta das dotações próprias consignadas no orçamento, suplementadas se necessário.
+
+
+Art. 10.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos três de março de dois mil e vinte e seis.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**PATRÍCIA GOMES FERREIRA SILVA Secretária Municipal de Saúde**
+
+Publicada na secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**JAQUELINE MORAES SILVA FERNANDES Secretária Adjunta de Governo**
+

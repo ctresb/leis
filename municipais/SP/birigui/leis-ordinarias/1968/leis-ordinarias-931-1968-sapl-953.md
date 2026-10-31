@@ -1,0 +1,327 @@
+---
+titulo: "Lei Ordinária nº 931, de 20 de agosto de 1968"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "931"
+data: "1968-08-20"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1985-12-27; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/953"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1526/text"
+sha256_fonte: "293458624a21cf18cf6791d856c1b9a8a24a398f90e22c2f5a4edaad754020d1"
+sha256_texto: "508587e389d7deeae15019e2d4e38ccfe23575921c09d9b672c0fa47cc3a27a9"
+capturado_em_fonte: "2026-10-27T19:25:02.110231-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 931, de 20 de agosto de 1968
+
+DISPÕE SOBRE A ORGANIZAÇÃO ADMINISTRATIVA DA PREFEITURA DE BIRIGUI E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eu, **MARIO CRÊM DOS SANTOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+### TÍTULO I — DOS PRINCÍPIOS NORTEADORES DA AÇÃO ADMINISTRATIVA
+
+
+Art. 1º.
+
+A prefeitura adotará o planejamento como instrumento de ação para o desenvolvimento físico-territorial, econômico, social e cultural da comunidade bem como para a aplicação dos recursos humanos, materiais e financeiros do Governo Municipal.
+
+
+Art. 2º.
+
+O planejamento compreenderá a elaboração dos seguintes instrumentos básicos:
+
+
+I –
+
+Plano Diretor de Desenvolvimento Integrado - (Lei Orgânica dos Municípios, Artigo 79);
+
+
+II –
+
+Plano Plurianual de Investimentos (Constituição do Brasil, Artigo 63, Parágrafo único - Lei Federal nº 4.320/64, Artigo 23);
+
+
+III –
+
+Programa Anual de Trabalho (Lei Federal nº 4.320/64, Artigo 26);
+
+
+IV –
+
+Orçamento-Programa (Lei Federal nº 4.320/64, Artigo 27 - Lei Orgânica dos Municípios, Artigo 70);
+
+
+V –
+
+Programação Financeira Anual da Despesa (Lei Orgânica dos Municípios, Artigo 71).
+
+
+Art. 3º.
+
+As atividades de administração municipal, e especialmente a execução de planos e programas de governo, serão objeto de permanente coordenação.
+
+
+Art. 4º.
+
+A coordenação será exercida em todos os níveis da administração, mediante atuação das chefias individuais, realização sistemática de reuniões com a participação das chefias subordinadas e a instituição e funcionamento de comissões de coordenação em cada nível administrativo.
+
+
+Art. 5º.
+
+A Prefeitura recorrerá, para a execução de obras e serviços especializados, sempre admissível e aconselhável, mediante contrato, concessão, permissão ou convênio, a pessoas ou entidades do setor privado, de forma a alcançar melhor rendimento, evitando novos encargos permanentes e ampliação desnecessária do quadro de servidores.
+
+
+Art. 6º.
+
+A administração municipal, além dos controles formais concernentes à obediência a preceitos legais e regulamentares, deverá dispor de instrumentos de acompanhamento e avaliação de resultados da atuação dos seus diversos órgãos e agentes.
+
+
+Art. 7º.
+
+Os serviços municipais deverão ser permanentemente atualizados, visando à modernização e racionalização dos métodos de trabalho, com o objetivo de proporcionar melhor atendimento ao público, através de rápidas decisões, sempre que possível com execução imediata.
+
+
+Art. 8º.
+
+Para a execução de seus programas a Prefeitura poderá utilizar-se de recursos colocados à sua disposição por entidades públicas e privadas, nacionais e estrangeiras ou consorciar-se com outras entidades para a solução de problemas comuns e melhor aproveitamento de recursos financeiros e técnicos.
+
+
+Art. 9º.
+
+A administração municipal deverá promover a integração da comunidade na vida político-administrativa do Município, através de órgãos coletivos, compostos de servidores municipais, representantes de outras esferas de governo e munícipes com atuação destacada na coletividade ou com conhecimento específico de problemas locais.
+
+
+Art. 10.
+
+A prefeitura procurará elevar a produtividade dos seus servidores - evitando o crescimento do seu quadro de pessoal através da seleção rigorosa de novos servidores e do treinamento e aperfeiçoamento dos servidores existentes, a fim de possibilitar o estabelecimento de níveis adequados de remuneração e a ascenção sistemática a funções superiores.
+
+
+Art. 11.
+
+Na elaboração e execução de seus programas, a Prefeitura estabelecerá o critério de prioridade, segundo a essencialidade da obra ou serviço e o atendimento do interesse coletivo.
+
+
+### TÍTULO II — DA ESTRUTURA
+
+
+Art. 12.
+
+A estrutura administrativa da Prefeitura compõe-se dos seguintes órgãos:
+
+
+I –
+
+GABINETE DO PREFEITO;
+
+
+II –
+
+SERVIÇO DE ADMINISTRAÇÃO E EXPEDIENTE;
+
+
+III –
+
+SERVIÇO DE FINANÇAS;
+
+
+IV –
+
+ASSESSORIA DE PLANEJAMENTO;
+
+
+V –
+
+PROCURADORIA;
+
+
+VI –
+
+OBRAS E SERVIÇOS PÚBLICOS;
+
+
+VII –
+
+SERVIÇO DE ÁGUAS E ESGOTOS;
+
+
+VIII –
+
+SERVIÇO DE MATERIAL, ALMOXARIFADO E MANUTENÇÃO DE MÁQUINAS E VEÍCULOS;
+
+
+IX –
+
+SERVIÇOS INDUSTRIAIS;
+
+
+X –
+
+DEPARTAMENTO DE EDUCAÇÃO;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.116, de 13 de abril de 1983.
+
+
+XI –
+
+DEPARTAMENTO DE SAÚDE E PROMOÇÃO SOCIAL;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.325, de 27 de dezembro de 1985.
+
+
+XII –
+
+DEPARTAMENTO DE CULTURA;
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 2.116, de 13 de abril de 1983.
+
+
+XIII –
+
+DEPARTAMENTO DE ESPORTES.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 2.116, de 13 de abril de 1983.
+
+
+XIV –
+
+DEPARTAMENTO DE AGRICULTURA E ABASTECIMENTO.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.237, de 12 de fevereiro de 1985.
+
+
+XV –
+
+DEPARTAMENTO DE HABITAÇÃO E DESENVOLVIMENTO URBANO – DEHAD.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 2.288, de 17 de setembro de 1985.
+
+
+### TÍTULO III — DA COMPETÊNCIA
+
+
+Art. 13.
+
+O Gabinete do Prefeito é o órgão de assistência do Prefeito para as funções políticas, atendimento de municípios e de ligação com demais poderes e autoridades, assim como de relações públicas, inclusive as de representação e divulgação.
+
+
+Art. 14.
+
+O Serviço de Administração e Expediente é o órgão incumbido de exercer as atividades ligadas à administração geral da Prefeitura, no que concerne a funcionários, expediente e arquivo, atuando, ainda como órgão de assessoramento do Prefeito na supervisão, na coordenação e no controle dos serviços públicos municipais.
+
+
+Art. 15.
+
+O Serviço de Finanças é o órgão encarregado da execução da política financeira e fiscal do Município, bem como das atividades relativas a lançamento de tributos e arrecadação de rendas municipais; fiscalização dos contribuintes; recebimento, guarda e movimentação de valores; despesa, contabilidade e patrimônio; elaboração do orçamento e controle de sua execução,e assessoramento do Prefeito em assuntos econômico-financeiros.
+
+
+Art. 16.
+
+A Assessoria de Planejamento é o órgão de planejamento governamental, competindo-lhe coordenar e assistir à elaboração e acompanhar a execução de planos e programas pelos órgãos da administração municipal, coordenar a elaboração do orçamento-programa do Município, e controlar a execução do orçamento de investimentos e do Plano Diretor de Desenvolvimento Integrado.
+
+
+Art. 17.
+
+A Procuradoria é o órgão responsável pelas atividades de consultoria nos assuntos jurídicos da Prefeitura, arrecadação judicial da dívida ativa, redação de normas legais, competindo-lhe pronunciar-se sobre toda matéria jurídica que lhe for submetida pelo Prefeito e demais órgãos do Executivo.
+
+
+Art. 18.
+
+O Setor de Obras e Serviços Públicos é o órgão responsável pela execução e conservação das obras municipais; abertura, pavimentação, guias e sarjetas e conservação de vias e logradouros públicos; limpeza pública; licenciamento e fiscalização de obras particulares; cemitérios; matadouros; mercados e feiras; parques e jardins; construção e conservação de estradas e caminhos municipais; conservação da rede telefônica rural, bem como de contratos que se relacionem com serviços a seu cargo.
+
+
+Art. 19.
+
+O Serviço de Águas e Esgotos é o órgão que tem por finalidade a execução das atividades ligadas a estudo, projeto, administração, operação e manutenção dos serviços de abastecimento de água à população e bem assim o de esgotos sanitários do Município.
+
+
+Art. 20.
+
+Ao Serviço de Material, Almoxarifado e Manutenção de Maquinárias e Veículos compete providenciar sobre a aquisição de todo o material necessário aos serviços da Administração Municipal, guardando-o, conservando-o e fornecendo-o, quando requisitado, bem como sobre a manutenção e reparações das maquinárias e veículos pertencentes ao Município.
+
+
+Art. 21.
+
+Ao órgão de Serviços Industriais compete a fabricação, a estocagem e a distribuição dos produtos por ele manufaturados.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 8º. - Lei Ordinária nº 2.116, de 13 de abril de 1983.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 6º. - Lei Ordinária nº 2.325, de 27 de dezembro de 1985.
+
+
+### TÍTULO IV — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 24.
+
+O Prefeito Municipal deverá regulamentar a presente lei o prazo no de 90 (noventa) dias, aprovando, por Decreto-lei, o Regulamento Interno da Prefeitura, que discriminará a estrutura administrativa interna dos órgãos constantes do Artigo 12, suas atribuições e das respectivas sub-unidades administrativas.
+
+
+Art. 25.
+
+Na regulamentação da presente lei dever-se-á observar as normas da Lei Orgânica dos Municípios.
+
+
+Art. 26.
+
+Fica instituída a Comissão Municipal de Planejamento, órgão consultivo e de assessoramento do Prefeito, competindo-lhe opinar sobre as atividades relacionadas com o planejamento municipal e coordenar a elaboração do Plano Diretor de Desenvolvimento Integrado do Município.
+
+
+Art. 27.
+
+Na medida em que forem instalados os órgãos que compõem a estrutura administrativa da Prefeitura Municipal, prevista nesta lei, serão extintos automaticamente os atuais órgãos, ficando o Prefeito Municipal autorizado a promover as necessárias transferências de pessoal, verbas, atribuições e instalações.
+
+
+Art. 28.
+
+As unidades administrativas municipais devem funcionar perfeitamente articuladas em regime de mútua colaboração.
+
+
+Parágrafo único
+
+A subordinação hierárquica define-se no enunciado das competências de cada órgão administrativo.
+
+
+Art. 29.
+
+A Prefeitura dará atenção especial ao treinamento dos seus servidores, fazendo-os, na medida das disponibilidades financeiras no Município e da conveniência dos serviços, frequentar cursos e estágios especiais de treinamento e aperfeiçoamento.
+
+
+Art. 30.
+
+As despesas decorrentes de execução desta lei serão atendidas, no corrente exercício, por conta das dotações próprias consignadas no orçamento vigente, e ainda de créditos especiais a serem oportunamente abertos.
+
+
+Art. 31.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte de agosto de mil novecentos e sessenta e oito.
+
+**MARIO CRÊM DOS SANTOS Prefeito Municipal**
+
+Publicada na Seção do Expediente e do Pessoal da Prefeitura, aos vinte de agosto de mil novecentos e sessenta e oito, e por Edital, afixado no local de costume.
+
+**ERONDINA DA SILVA RAMOS Assistente Administrativo Substituto da Seção de Expediente e do Pessoal da Prefeitura**
+

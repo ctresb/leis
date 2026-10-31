@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/errata_emenda_art._19-otimizado_1.pdf da norma Lei Orgânica Municipal-CMBG nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Errata a Emenda a Lei Orgânica - Artigo 19.",
+      "anexo_arquivo": "http://sapl.baixoguandu.es.leg.br/media/sapl/public/anexonormajuridica/1990/1/errata_emenda_art._19-otimizado_1.pdf",
+      "ano": 1990,
+      "norma": 288
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/2/promulga_art._19-otimizado_1.pdf da norma Lei Orgânica Municipal-CMBG nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Promulgação errata Artigo 19.",
+      "anexo_arquivo": "http://sapl.baixoguandu.es.leg.br/media/sapl/public/anexonormajuridica/1990/2/promulga_art._19-otimizado_1.pdf",
+      "ano": 1990,
+      "norma": 288
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.baixoguandu.es.leg.br/3658eb9c5cf1cb4002c0cbe1f1d5eff66de6c3c1409baebbcbbad4bbb3ef98b4.json",
+      "url": "https://sapl.baixoguandu.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.baixoguandu.es.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "22bec12cca00794126b80096bb05e14d8703de74f7ff676ea27b9afebdc202c6",
+      "bytes": 1098,
+      "capturado_em": "2026-10-27T17:02:08.468462-03:00"
+    }
+  ]
+}

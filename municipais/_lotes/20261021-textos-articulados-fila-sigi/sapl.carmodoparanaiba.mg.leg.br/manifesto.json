@@ -1,0 +1,42 @@
+{
+  "host": "sapl.carmodoparanaiba.mg.leg.br",
+  "metadados_unicos_observados": 92,
+  "total_api_declarado": 92,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 60,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmodoparanaiba.mg.leg.br/45130901debb676a41b4515a68fae6bc427fdbdd6ec98c2eebba57140f39e953.json",
+    "url": "https://sapl.carmodoparanaiba.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.carmodoparanaiba.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2b1d766f22bbe81f79c5a17f3e64b31eaec83c1722ccdbdf0669f4b8922e5f3e",
+    "bytes": 957,
+    "capturado_em": "2026-10-27T22:33:21.854940-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmodoparanaiba.mg.leg.br/8d1ba5d6d3dfc568c8f9ac7bfb9e2e2a8d369bb4b729772080cdbeca83d00f9b.json",
+    "url": "https://sapl.carmodoparanaiba.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.carmodoparanaiba.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9670f45417bfbd18b2dbc9c1e37ae4849a9532ed38a106f00e16da6efd7a4eca",
+    "bytes": 805,
+    "capturado_em": "2026-10-27T22:33:20.928777-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmodoparanaiba.mg.leg.br/3b42e31bd42491b572351f2c6ae08d06d373ef263c7c72d9aa2e1f7ad7fee1b6.json",
+      "url": "https://sapl.carmodoparanaiba.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.carmodoparanaiba.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "083a80ad561eca3005a909035f1cea64239e30e1672a711b7a95228cfd4ca05a",
+      "bytes": 59879,
+      "capturado_em": "2026-10-27T22:33:24.250570-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

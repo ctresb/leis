@@ -1,0 +1,372 @@
+DISPÕE SOBRE O USO DE CERTIFICADO DIGITAL NA ASSINATURA DE DOCUMENTOS PÚBLICOS NA FORMA ELETRÔNICA NO ÂMBITO DO PODER LEGISLATIVO E ESTABELECE OUTRAS PROVIDÊNCIAS.  
+Projeto de Resolução nº 4/2021, de autoria da Mesa Diretora.
+
+
+O Presidente da Câmara Municipal de Birigüi:
+
+**FAÇO SABER** que a Câmara Municipal aprovou e eu promulgo a seguinte Resolução:
+
+
+Art. 1º.
+
+Fica autorizada a assinatura digital de documentos públicos, bem como a utilização de certificação digital, de modo a garantir a autenticidade, a integralidade e a validade jurídica de documentos em forma eletrônica, a serem implantados de acordo com as tecnologias previstas na Medida Provisória nº 2.200-2/2001, Medida Provisória nº 983/2020 e na Lei Federal nº 12.682/2012.
+
+
+Art. 2º.
+
+Para os efeitos desta lei, entende-se por:
+
+
+I –
+
+Usuário Interno - autoridade ou servidor ativo do Poder Legislativo que tenha acesso, de forma autorizada, a informações e documentos produzidos ou custodiados pelo Poder Legislativo;
+
+
+II –
+
+Documento Eletrônico - documento armazenado sob a forma de arquivo eletrônico, inclusive aquele resultante de digitalização;
+
+
+III –
+
+Assinatura Eletrônica - registro realizado eletronicamente por usuário identificado de modo inequívoco com vistas a firmar determinado documento com sua assinatura;
+
+
+IV –
+
+Autoridade Emissora - entidade autorizada pelo Poder Legislativo a emitir, suspender, renovar ou revogar certificados digitais, bem como a emitir lista de certificados revogados e manter registros de suas operações;
+
+
+V –
+
+Certificado Digital - arquivo eletrônico que contém dados de uma pessoa ou instituição e um par de chaves criptográficas utilizadas para comprovar identidade em ambiente computacional;
+
+
+VI –
+
+Certificado Digital do tipo A1 – é um documento eletrônico que normalmente possui extensão PFX ou P12, instalado diretamente no computador e não depende de SmartCards ou tokens para ser transportado.
+
+
+VII –
+
+Certificado Digital do tipo A3 - certificado em que a geração e o armazenamento das chaves criptográficas são feitos em mídias do tipo cartão inteligente ou token, observando-se que as mídias devem ter capacidade de geração de chaves a ser protegidas por senha ou hardware criptográfico aprovado pela infraestrutura de chaves públicas Brasileira (ICP-Brasil);
+
+
+VIII –
+
+Mídia de armazenamento do Certificado Digital - dispositivos portáteis - como os tokens - que contém o certificado digital e são inseridos no computador para efetivar a assinatura digital.
+
+
+Art. 3º.
+
+Os documentos eletrônicos produzidos pelo Poder Legislativo terão o mesmo valor probatório do documento original, para todos os fins de direito e terão garantia de autoria, autenticidade e integridade asseguradas nos termos da lei. mediante utilização de assinatura eletrônica baseada em certificado digital, auto assinado, emitido a partir de um certificado com Infraestrutura de Chaves Públicas Brasileira / ICP-Brasil.
+
+
+§ 1º
+
+uso de certificado digital é obrigatório para assinaturas de documentos produzidos em meio eletrônico, para autenticação de documento eletrônico resultante de digitalização e para outros procedimentos que necessitem de comprovação de autoria por meio de certificação digital e integridade em ambiente externo ao Município.
+
+
+§ 2º
+
+É permitida a aposição de mais de uma assinatura digital a um documento.
+
+
+§ 3º
+
+O certificado digital a ser utilizado nos termos do parágrafo anterior deve ser emitido pela autoridade emissora.
+
+
+§ 4º
+
+Os documentos poderão ser produzidos em papel e assinados de próprio punho pela pessoa competente, podendo a versão assinada ser digitalizada. de forma a manter a integridade. a autenticidade com o emprego de certificado digital emitido no âmbito da Infraestrutura de Chaves Públicas Brasileira - ICP - Brasil.
+
+
+§ 5º
+
+Quando necessária à impressão física dos documentos assinados digitalmente, estes deverão ser preservados de acordo com o disposto na legislação pertinente, se houver
+
+
+§ 6º
+
+Os documentos gerados e assinados digitalmente cuja existência ocorra somente em meio digital devem ser armazenados de forma a protegê-los de acesso, uso, alteração, reprodução e destruição não autorizados.
+
+
+§ 7º
+
+Os servidores ativos autorizados poderão certificar documentos eletrônicos oriundos da digitalização. quando solicitado, mediante uso da assinatura eletrônica descrita no caput deste artigo.
+
+
+Art. 4º.
+
+Poderá ser utilizado certificado digital dos tipos A1 e A3 para assinatura eletrônica dos seguintes documentos no âmbito do Poder Legislativo:
+
+
+I –
+
+Correspondências oficiais;
+
+
+II –
+
+Atos processuais;
+
+
+III –
+
+Processos licitatórios e contratos eletrônicos;
+
+
+IV –
+
+Atos administrativos;
+
+
+V –
+
+Atas;
+
+
+VI –
+
+Pareceres;
+
+
+VII –
+
+Despachos;
+
+
+VIII –
+
+Emendas;
+
+
+IX –
+
+Substitutivos;
+
+
+X –
+
+Autógrafos de lei;
+
+
+XI –
+
+Redação final;
+
+
+XII –
+
+Projeto de Lei Ordinária;
+
+
+XIII –
+
+Projeto de Resolução;
+
+
+XIV –
+
+Projeto de Decreto Legislativo;
+
+
+XV –
+
+Projeto de Emenda à Lei Orgânica;
+
+
+XVI –
+
+Projeto de Lei Complementar;
+
+
+XVII –
+
+Portarias;
+
+
+XVIII –
+
+Ordens de Serviços;
+
+
+XIX –
+
+Instruções normativas;
+
+
+XX –
+
+Termo de empréstimo de plenário;
+
+
+XXI –
+
+Moção;
+
+
+XXII –
+
+Requerimento;
+
+
+XXIII –
+
+Recurso;
+
+
+XXIV –
+
+Indicação;
+
+
+XXV –
+
+Pedido de Providência;
+
+
+XXVI –
+
+Pedido de Informação;
+
+
+XXVII –
+
+Resolução de Mesa;
+
+
+XXVIII –
+
+Decreto Legislativo;
+
+
+XXIX –
+
+Emenda à Lei Orgânica;
+
+
+XXX –
+
+Lei Ordinária;
+
+
+XXXI –
+
+Lei Complementar;
+
+
+XXXII –
+
+Resolução;
+
+
+XXXIII –
+
+Demais matérias que vierem a tramitar no sistema eletrônico da Câmara Municipal de Vereadores.
+
+
+Art. 5º.
+
+Mesa Diretora, como Órgão diretivo, proverá os usuários internos de certificado digital e respectiva mídia de armazenamento.
+
+
+§ 1º
+
+A critério da Mesa Diretora, a distribuição de certificados digitais será realizada na medida da necessidade e da implantação das funcionalidades tecnológicas que exijam o seu uso.
+
+
+§ 2º
+
+Poder Legislativo promoverá a remissão do certificado digital sempre que houver a expiração do respectivo prazo de validade.
+
+
+Art. 6º.
+
+O detentor de certificado digital é responsável por sua utilização, guarda e conservação, respondendo pelos custos de reposição no caso de perda, extravio ou mau uso da mídia de armazenamento.
+
+
+Parágrafo único
+
+O certificado digital é de uso pessoal, intransferível e hábil a produzir efeitos legais em todos os atos nos quais vier a ser utilizado, desde que coadune com a finalidade do Poder Legislativo.
+
+
+Art. 7º.
+
+Na hipótese de o certificado digital perder a validade, as assinaturas digitais anteriormente efetuadas permanecem válidas, podendo, também, ser verificadas a autoria e a integridade dos documentos já assinados.
+
+
+Art. 8º.
+
+Compete ao usuário interno detentor de certificado digital:
+
+
+I –
+
+apresentar-se tempestivamente, à autoridade emissora ou, quando for o caso, ao setor competente do Poder Legislativo, com a documentação necessária à emissão do certificado digital, após a autorização de aquisição pelo Departamento de Compras;
+
+
+II –
+
+estar de posse do certificado digital para o desempenho de atividades profissionais que requeiram o uso deste;
+
+
+III –
+
+solicitar, de acordo com procedimentos definidos para esse fim, a imediata revogação do certificado em caso de inutilização;
+
+
+IV –
+
+alterar imediatamente a senha de acesso ao certificado em caso de suspeita de seu conhecimento por terceiro;
+
+
+V –
+
+observar as diretrizes definidas para criação e utilização de senhas de acesso ao certificado;
+
+
+VI –
+
+manter a mídia de armazenamento dos certificados digitais em local seguro e com proteção física contra acesso indevido, descargas eletromagnéticas, calor excessivo e outras condições ambientais que representam risco à integridade destes;
+
+
+VII –
+
+solicitar o fornecimento de nova mídia ou certificado digital nos casos de inutilização. revogação ou expiração da validade do certificado;
+
+
+VIII –
+
+verificar periodicamente a data de validade do certificado e solicitar tempestivamente a emissão de novo certificado, conforme orientações publicadas para esse fim.
+
+
+Parágrafo único
+
+A prática de atos assinados eletronicamente importará aceitação das normas regulamentares sobre o assunto e da responsabilidade pela utilização indevida da assinatura eletrônica, conforme legislação federal pertinente e termo de acesso e uso de assinatura eletrônica a ser firmado com a Autoridade Emissora.
+
+
+Art. 9º.
+
+O uso inadequado do certificado digital fica sujeito a apuração de responsabilidade penal, civil e administrativa, na forma da legislação em vigor.
+
+
+Art. 10.
+
+As despesas correrão por conta da seguinte dotação orçamentária — Dotação a ser onerada: 01.00 — Câmara Municipal — 01.031 - Ação Legislativa - 01.031.0001-Manutenção do Legislativo - 01.031.0001 0001 2001 0000-Manutenção do Legislativo.
+
+
+Art. 11.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Birigui,  
+Em 2 de junho de 2021.
+
+**CESAR PANTAROTTO JUNIOR, PRESIDENTE.**
+
+Publicada na Secretaria da Câmara Municipal, na data supra, por afixação no local de costume.
+
+**MARINEUVA ALVES DE SOUZA, DIRETORA-GERAL DA CÂMARA.**

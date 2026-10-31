@@ -1,0 +1,472 @@
+---
+titulo: "Resolução nº 4, de 01 de junho de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "4"
+data: "2026-06-01"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2026-08-18; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/3584"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1372/text"
+sha256_fonte: "30a8531a655362ec8f4f56c8dbe8f35fdc9a365b77191904eed342ee6fed36fe"
+sha256_texto: "b36dc6305858d98a0d4f9e816385a581ab0f56bd88c743341a4843d9aa863afb"
+capturado_em_fonte: "2026-10-21T05:40:47.914142-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Resolução nº 4, de 01 de junho de 2026
+
+Institui o Programa Parlamento Jovem no âmbito da Câmara Municipal de Amontada, revoga a Resolução nº 13/2023 e dá outras providências.
+
+
+O **PRESIDENTE DA CÂMARA MUNICIPAL DE AMONTADA**, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e eu promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica instituído, no âmbito da Câmara Municipal de Amontada, o Programa Parlamento Jovem, destinado à formação política, cidadã e legislativa dos estudantes do Município, mediante participação em atividades parlamentares educativas e apresentação de proposições legislativas.
+
+
+Art. 2º.
+
+O Programa Parlamento Jovem tem por objetivos:
+
+
+I –
+
+promover a educação política e cidadã dos estudantes;
+
+
+II –
+
+aproximar a juventude do Poder Legislativo Municipal;
+
+
+III –
+
+incentivar a participação democrática e o protagonismo juvenil;
+
+
+IV –
+
+estimular a elaboração de proposições voltadas ao interesse público;
+
+
+V –
+
+fortalecer a consciência cidadã e os valores democráticos;
+
+
+VI –
+
+incentivar a participação dos grêmios estudantis nas atividades de formação política e legislativa.
+
+
+Art. 3º.
+
+O Parlamento Jovem possuirá caráter exclusivamente educacional, cívico, cultural e institucional, vedada qualquer finalidade político-partidária, eleitoral ou de promoção pessoal.
+
+
+#### CAPÍTULO II — DA PARTICIPAÇÃO
+
+
+Art. 4º.
+
+Poderão participar do Programa Parlamento Jovem estudantes regularmente matriculados nas instituições de ensino públicas e privadas do Município de Amontada, cursando do 6º ano do Ensino Fundamental ao 3º ano do Ensino Médio.
+
+
+Art. 5º.
+
+A Câmara Municipal publicará Edital disciplinando as normas de participação, os critérios de avaliação, os prazos, o cronograma e demais procedimentos necessários à execução do Programa.
+
+
+§ 1º
+
+O cronograma anual do Programa será elaborado pela Mesa Diretora da Câmara Municipal em conjunto com a Comissão Permanente de Educação, observando o calendário escolar e legislativo.
+
+
+§ 2º
+
+A divulgação do Programa Parlamento Jovem será realizada pela Câmara Municipal em conjunto com as escolas participantes.
+
+
+Art. 6º.
+
+O cadastramento dos estudantes participantes e das proposições legislativas será realizado pelas instituições de ensino participantes.
+
+
+§ 1º
+
+Caberá às escolas promover seleção interna das proposições apresentadas pelos estudantes.
+
+
+§ 2º
+
+Após a seleção interna, as escolas encaminharão as proposições escolhidas à Câmara Municipal, observando os prazos e critérios definidos em Edital.
+
+
+§ 3º
+
+Os grêmios estudantis atuarão como articuladores e incentivadores da participação dos estudantes no Programa.
+
+
+#### CAPÍTULO III — DAS PROPOSIÇÕES E DA SELEÇÃO
+
+
+Art. 7º.
+
+Os estudantes participantes poderão apresentar:
+
+
+I –
+
+projetos de lei;
+
+
+II –
+
+projetos de resolução;
+
+
+III –
+
+projetos de decreto legislativo.
+
+
+§ 1º
+
+As proposições deverão tratar de matérias de interesse público, educacional, cultural, social ou institucional em benefício da municipalidade, especialmente temas voltados:
+
+
+I –
+
+à juventude;
+
+
+II –
+
+à iniciação política;
+
+
+III –
+
+ao fortalecimento da democracia e da cidadania.
+
+
+§ 2º
+
+Nas proposições apresentadas pelos estudantes fica vedada a utilização de cores, símbolos, logomarcas, slogans ou quaisquer elementos que possam caracterizar influência ou vinculação partidária.
+
+
+Art. 8º.
+
+As proposições apresentadas pelos estudantes serão avaliadas por Comissão Avaliadora composta por representantes:
+
+
+I –
+
+da Escola do Legislativo da Câmara Municipal;
+
+Alteração feita pelo Art. 1º. - Resolução nº 10, de 18 de agosto de 2026.
+
+
+II –
+
+do Conselho Municipal de Educação;
+
+
+III –
+
+da Secretaria Municipal da Juventude e Esporte;
+
+
+IV –
+
+da Secretaria Municipal da Educação.
+
+
+§ 1º
+
+A Comissão Avaliadora observará critérios de relevância social, interesse público, criatividade, viabilidade e adequação legislativa.
+
+
+§ 2º
+
+O número de membros do Parlamento Jovem será equivalente ao número de Vereadores da Câmara Municipal de Amontada, conforme definido em Edital.
+
+
+§ 3º
+
+Serão selecionadas as proposições melhor avaliadas, cujos autores exercerão o mandato de Jovem Vereador do Município de Amontada.
+
+
+§ 4º
+
+Poderá ser escolhido somente 1 (um) jovem vereador por escola.
+
+
+#### CAPÍTULO IV — DA IMPLEMENTAÇÃO DO PROGRAMA
+
+
+Art. 9º.
+
+O Presidente da Câmara Municipal nomeará Comissão Legal, composta por servidores do Poder Legislativo Municipal, encarregada de implementar todos os procedimentos necessários à efetivação do Programa Parlamento Jovem, na forma estabelecida nesta Resolução.
+
+
+Parágrafo único
+
+Os trabalhos da Comissão Legal serão supervisionados pela Mesa Diretora da Câmara Municipal de Amontada.
+
+
+#### CAPÍTULO V — DO MANDATO DOS JOVENS VEREADORES
+
+
+Art. 10.
+
+Após a divulgação do resultado final e logo após a posse dos Jovens Vereadores, em sessão solene, serão definidos os Parlamentares padrinhos de cada Jovem Vereador, dentre os Vereadores em exercício do mandato legislativo.
+
+
+§ 1º
+
+O parlamentar padrinho acompanhará e orientará o Jovem Vereador durante o exercício do mandato.
+
+
+§ 2º
+
+O acompanhamento previsto neste artigo terá caráter institucional, pedagógico e orientativo, vedada qualquer utilização político-partidária da participação dos estudantes.
+
+
+Art. 11.
+
+Os candidatos escolhidos tomarão posse mediante compromisso prestado em Sessão Solene a ser realizada, preferencialmente, no mês de agosto, em data fixada pela Mesa Diretora da Câmara Municipal, conforme cronograma estabelecido em Edital.
+
+
+§ 1º
+
+No ato da posse, os Jovens Vereadores prestarão compromisso nos termos estabelecidos pelo Regimento Interno da Câmara Municipal, no que couber.
+
+
+§ 2º
+
+O mandato dos Jovens Vereadores encerrar-se-á na última sessão ordinária da Câmara Municipal de cada ano legislativo.
+
+
+Art. 12.
+
+Na Sessão Solene de posse será realizada a eleição da Mesa Diretora do Parlamento Jovem, responsável pela condução dos trabalhos legislativos do Parlamento Jovem de Amontada durante o respectivo mandato.
+
+
+Parágrafo único
+
+A composição, atribuições e funcionamento da Mesa Diretora do Parlamento Jovem observarão, subsidiariamente e no que couber, o Regimento Interno da Câmara Municipal.
+
+
+Art. 13.
+
+Os Jovens Vereadores poderão participar de:
+
+
+I –
+
+sessões simuladas;
+
+
+II –
+
+debates temáticos;
+
+
+III –
+
+audiências públicas;
+
+
+IV –
+
+atividades de formação política e cidadã;
+
+
+V –
+
+apresentação e discussão de proposições legislativas.
+
+
+Art. 14.
+
+As proposições elaboradas pelos Jovens Vereadores possuirão caráter pedagógico e formativo.
+
+
+§ 1º
+
+Durante o exercício do mandato, caso a proposição apresentada pelo Jovem Vereador seja considerada viável e pertinente pelo parlamentar padrinho, este poderá protocolá-la formalmente perante a Câmara Municipal.
+
+
+§ 2º
+
+Na hipótese do parágrafo anterior, o Jovem Vereador poderá realizar a defesa da matéria na Tribuna da Câmara Municipal, durante sessão ordinária, observadas as disposições regimentais aplicáveis.
+
+
+§ 3º
+
+Protocolada a matéria, esta seguirá a tramitação legislativa regular da Câmara Municipal.
+
+
+§ 4º
+
+Nas justificativas da proposição deverá constar referência à autoria originária do pré-projeto apresentado no âmbito do Parlamento Jovem.
+
+
+#### CAPÍTULO VI — DO PRÊMIO JOVEM VEREADOR DESTAQUE
+
+
+Art. 15.
+
+Fica instituído, no âmbito do Programa Parlamento Jovem da Câmara Municipal de Amontada, o “Prêmio Jovem Vereador Destaque”, destinado a reconhecer e valorizar as proposições legislativas de maior relevância apresentadas pelos Jovens Vereadores durante o exercício do mandato.
+
+
+Art. 16.
+
+O Prêmio Jovem Vereador Destaque será concedido anualmente durante a Sessão Solene de encerramento do mandato dos Jovens Vereadores.
+
+
+Parágrafo único
+
+Serão premiados os projetos classificados em 1º, 2º e 3º lugares.
+
+
+Art. 17.
+
+Poderão concorrer ao Prêmio Jovem Vereador Destaque as proposições:
+
+
+I –
+
+elaboradas pelos Jovens Vereadores no exercício do mandato;
+
+
+II –
+
+acolhidas pelo parlamentar padrinho;
+
+
+III –
+
+apresentadas e protocoladas nos meses de agosto e setembro do respectivo exercício;
+
+
+IV –
+
+defendidas pelo Jovem Vereador na Tribuna da Câmara Municipal.
+
+
+§ 1º
+
+Não haverá limite para protocolo de proposições elaboradas pelos Jovens Vereadores durante o mandato.
+
+
+§ 2º
+
+Somente poderão participar da premiação as proposições efetivamente protocoladas pelo Vereador padrinho.
+
+
+Art. 18.
+
+A escolha das proposições vencedoras ocorrerá no mês de outubro de cada ano, mediante votação pública realizada através das redes sociais oficiais da Câmara Municipal de Amontada, conforme critérios definidos pela Mesa Diretora.
+
+
+§ 1º
+
+A Câmara Municipal divulgará previamente as proposições concorrentes e os procedimentos de votação.
+
+
+§ 2º
+
+A votação terá caráter exclusivamente institucional, educativo e participativo.
+
+
+Art. 19.
+
+A premiação dos Jovens Vereadores Destaque ocorrerá na Sessão Solene de encerramento do Programa Parlamento Jovem.
+
+
+Parágrafo único
+
+Os estudantes premiados receberão certificado ou homenagem específica expedida pela Câmara Municipal de Amontada.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 20.
+
+Ao final do mandato, cada Jovem Vereador deverá apresentar relatório conclusivo de suas atividades, em duas vias, contendo:
+
+
+I –
+
+as impressões acerca da experiência vivenciada;
+
+
+II –
+
+os conhecimentos adquiridos durante o exercício do mandato;
+
+
+III –
+
+sugestões para aperfeiçoamento das futuras edições do Programa Parlamento Jovem.
+
+
+§ 1º
+
+Uma via do relatório será destinada à instituição de ensino do estudante.
+
+
+§ 2º
+
+A outra via será arquivada na Câmara Municipal de Amontada.
+
+
+Art. 21.
+
+Ao final do mandato, os Jovens Vereadores receberão Diploma de Jovem Vereador em reconhecimento à participação no Programa Parlamento Jovem.
+
+
+Parágrafo único
+
+As instituições de ensino dos estudantes participantes também serão homenageadas pela Câmara Municipal em razão do incentivo à formação cidadã e democrática da juventude.
+
+
+Art. 22.
+
+As despesas decorrentes da execução desta Resolução correrão por conta das dotações orçamentárias próprias da Câmara Municipal, suplementadas se necessário.
+
+
+Art. 23.
+
+Os casos omissos serão regulamentados pela Mesa Diretora da Câmara Municipal.
+
+
+Art. 24.
+
+Fica revogada a Resolução nº 13/2023, de 19 de setembro de 2023.
+
+
+Art. 25.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Paço da Câmara Municipal de Amontada, em 1º de junho de 2026.
+
+**Marcos Caio Magalhães Rodrigues**  
+- Presidente do Poder Legislativo -
+

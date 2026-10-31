@@ -1,0 +1,490 @@
+---
+titulo: "LEI Nº 14.133, DE 1º DE ABRIL DE 2021:"
+uf: "RO"
+municipio: "MONTE NEGRO"
+tipo: "Lei Ordinária"
+numero: "14133"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 19/05/2026"
+data_publicacao: 2026-05-19
+codigo_identificador: "F17FFCBA"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116067_2026-05-18_d44f69586fae2b9428a792b33395b3af.pdf"
+baixado_em: 2026-10-15
+---
+# LEI Nº 14.133, DE 1º DE ABRIL DE 2021:
+
+LEI Nº 14.133, DE 1º DE ABRIL DE 2021:
+Art. 84. O prazo de vigência da ata de registro de preços será de 1 (um) ano e poderá ser prorrogado, por igual período, desde que comprovado o
+preço vantajoso. Parágrafo único. O contrato decorrente da ata de registro de preços terá sua vigência estabelecida em conformidade com as
+disposições nela contidas.
+LEI MUNICIPAL Nº 1.559, DE 11 DE ABRIL DE 2024:
+Art. 234. A ata de registro de preços terá validade de 1 (um) ano, podendo ser renovada por igual período, e, ao final desse prazo, o quantitativo
+inicial será restabelecido, vedado o acúmulo de itens entre os períodos.
+§1º. Na prorrogação da ata de registro de preços, poderão ser integrados ao novo período os órgãos e entidades aderentes e seus respectivos
+quantitativos, bem como os órgãos que manifestarem seu interesse em participar da ata de registro de preços até a data da prorrogação, desde que
+haja concordância do fornecedor melhor classificado na ata de registro de preços
+§2º. Esgotados os quantitativos da ata de registro de preços antes do escoamento do seu prazo de vigência, a prorrogação poderá ser antecipada,
+com o restabelecimento do quantitativo inicial
+§3º. Será admitido o remanejamento do saldo de quantidades da ata de registro de preços entre os órgãos participantes.
+3. DA GERÊNCIA DA PRESENTE ATA DE REGISTRO DE PREÇOS
+3.1. Caberá à Prefeitura Municipal a condução do conjunto de procedimentos do certame para registro de preços e gerenciamento da Ata dele
+recorrente Lei Municipal nº
+1.559 de 11 de abril de 2024. No entanto, a alocação de recursos, empenhamento, análise do mérito das quantidades adquiridas, bem como a
+finalidade pública na utilização dos materiais são de responsabilidade exclusiva do ordenador de despesas do órgão requisitante.
+4. DA GARANTIA
+4.1. A empresa vencedora ficará obrigada a garantir os padrões de qualidade de acordo com as normas estabelecidas pelos órgãos responsáveis, em
+cada item especificado neste instrumento convocatório.
+4.2. Os equipamentos fornecidos deverão possuir garantia mínima de 12 (doze) meses, contados a partir do recebimento definitivo, sem prejuízo da
+garantia legal prevista na Lei nº 8.078/1990 – Código de Defesa do Consumidor, aplicável no que couber.
+4.2.1. No caso de constatação de vícios, defeitos de fabricação ou quaisquer irregularidades, a Administração notificará formalmente a Contratada,
+mediante relatório técnico, para que sejam adotadas as providências corretivas necessárias, sem ônus adicional.
+www.diariomunicipal.com.br/arom
+
+185
+
+Rondônia , 19 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Rondônia •
+
+ANO XVII | Nº 4235
+
+4.2.2. A garantia deverá observar as condições estabelecidas pelo fabricante, abrangendo mão de obra, peças e componentes necessários à correção
+de falhas durante o período de cobertura.
+4.2.3. Durante o período de garantia, a Contratada deverá assegurar assistência técnica adequada, dentro dos prazos definidos pela fiscalização,
+garantindo o pleno funcionamento dos equipamentos.
+4.2.4. É vedado o fornecimento de equipamentos usados, recondicionados, remanufaturados ou que apresentem desgaste incompatível com bens
+novos, devendo todos os itens ser entregues em perfeitas condições de uso e funcionamento.
+4.3. A garantia prevista para o objeto compreende a assistência técnica, manutenção corretiva e substituição de peças/equipamentos defeituosos, sem
+ônus adicional para a Administração.
+4.3.1 Os chamados relativos à garantia serão feitos pelo Contratante, por escrito por correio eletrônico, por telefone e ou pelo correio postal nacional,
+obrigando-se a empresa Contratada atendê-la no prazo máximo de 24 (vinte e quatro) horas, em perfeitas condições de uso e sob as mesmas
+condições prevista no edital;
+4.4. Os equipamentos ofertados deverão atender aos dispositivos da Lei nº. 8.078/90 (Código de Defesa do Consumidor) e às demais legislações
+pertinentes.
+4.4. DA GARANTIA DO OBJETO.
+4.5. O início do período da garantia dar-se-á na data da emissão do Termo de Recebimento Definitivo do objeto;
+4.6. Sendo evidenciado defeito em prazo igual ou inferior a 4 (quatro) dias corridos, o bem deverá ser substituído pelo contratado, no prazo de até 5
+dias úteis. Sendo evidenciado defeito em prazo superior a 4 (quatro) dias, o problema será sanado pela assistência técnica;
+4.7. Toda e qualquer despesa decorrente da execução das condições de garantia ficará inteiramente a cargo da empresa fornecedora, bem como a
+responsabilidade, arcando com quaisquer danos.
+4.8. A garantia não será válida sobre defeitos causados pelo mau uso ou acidentes causados pelos seus Usuários;
+4.9. Os atendimentos relativos à assistência técnica deverão ser iniciados em até 24 (vinte e quatro) horas;
+4.10. A substituição de equipamentos ou realização de reparos deverá ocorrer no prazo máximo de até 05 (cinco) dias úteis.
+5. CRITÉRIO PARA ACEITAÇÃO DO OBJETO
+5.1 Os produtos serão recebidos provisoriamente, de forma sumária, no ato da entrega, juntamente com a nota fiscal ou instrumento de cobrança
+equivalente, pelo(a) responsável pelo acompanhamento e fiscalização do contrato, para efeito de posterior verificação de sua conformidade com as
+especificações constantes neste TR e na proposta;
+5.2 O recebimento provisório dos produtos não implica a aceitação definitiva dos mesmos;
+5.3 A atestação final de conformidade do fornecimento cabe às SECRETARIAS;
+5.4 Caso os itens estejam em desacordo com as especificações exigidas neste TR ou apresentarem vício, serão recusados e devolvidos parcial ou
+totalmente, conforme o caso, mediante Termo de Recusa, ficando a CONTRATADA obrigada a substituí-los no prazo máximo de até 05 (cinco) dias
+úteis, contados do recebimento da notificação, sem ônus para o contratante, sob pena de incorrer em atraso quanto ao prazo de execução;
+5.5 Somente após a verificação do enquadramento dos produtos com as especificações definidas neste TR, dar-se-á o recebimento definitivo por
+servidor responsável, no prazo máximo de 15 (quinze) dias úteis a contar do recebimento provisório, após a verificação da conformidade com as
+especificações e demais exigências estabelecidas nesta contratação, atestando no documento de entrega, o recebimento em condições satisfatórias,
+em termos de quantidade e qualidade, conforme o inciso II, alínea b, do art. 140 da Lei 14.133/2021;
+5.6 Será recusado produto deteriorado, alterado, adulterado, avariado, corrompido, fraudado, bem como aquele em desacordo com as normas
+regulamentares de fabricação, distribuição e apresentação;
+5.7 O servidor designado como fiscal poderá solicitar a substituição de um produto por outro em caso de defeito, no prazo máximo de 05 (cinco) dias
+úteis, contados a partir do recebimento daquele que foi devolvido, sem prejuízo para o disposto nos artigos 441 a 446 do Código Civil;
+5.8 O recebimento definitivo não exclui a responsabilidade da CONTRATADA pelo perfeito estado do produto fornecido, cabendo-lhe sanar
+quaisquer irregularidades detectadas quando da sua utilização;
+5.9 A Administração poderá solicitar testes dos produtos junto aos seus fabricantes, para verificar a legitimidade do produto. A recusa da
+CONTRATADA a substituir os produtos reprovados nos testes será considerada descumprimento contratual, sujeitando a mesma à aplicação da
+penalidade.
+6. DO PRAZO, LOCAL DE ENTREGA, HORÁRIOS E EXECUÇÃO
+6.1. Do Prazo e Local de Entrega
+6.1.1. A entrega dos equipamentos deverá ser realizada no prazo máximo de 30 (trinta) dias consecutivos, contados a partir do recebimento da Nota
+de Empenho, podendo ser prorrogado, excepcionalmente, a critério da Administração, mediante justificativa formal apresentada pela Contratada e
+devidamente aceita.
+6.1.2. Caso não seja possível a entrega no prazo estabelecido, a Contratada deverá comunicar formalmente a Administração, com antecedência
+mínima de 05 (cinco) dias úteis, apresentando as razões do impedimento, para fins de análise de eventual prorrogação, ressalvadas as hipóteses de
+caso fortuito ou força maior, devidamente comprovadas.
+6.1.3. A entrega dos equipamentos será realizada em locais indicados pelas Secretarias requisitantes, situados no Município de Monte Negro/RO, em
+horário previamente acordado com a fiscalização, ficando a cargo da Contratada todas as despesas com transporte, carga, descarga e seguro.
+6.4. Local de entrega:
+Secretaria Municipal de Gestão em Turismo, Esporte, Cultura e Recreação - SETUR;
+Prédio da Prefeitura, localizado na Rua Juscelino Kubitschek, nº 2272, Setor 02, Monte Negro/ RO.
+Secretaria Municipal de Gestão em Obras e Serviços Públicos – SEMOSP;Garagem da SEMOSP, no endereço; rua Castelo Branco, n° 2045 Setor
+01, Monte Negro/ RO
+7. DAS CONDIÇÕES DE PAGAMENTO
+7.1 Liquidação
+7.1.1 Para fins de liquidação, o setor competente deverá verificar se a nota fiscal apresentada expressa os elementos necessários e essenciais do
+documento, tais como:
+a) o prazo de validade;
+b) a data da emissão;
+c) os dados do contrato e do órgão contratante;
+d) o período respectivo de execução do contrato;
+e) o valor a pagar; e
+f) eventual destaque do valor de retenções tributárias cabíveis.
+
+www.diariomunicipal.com.br/arom
+
+186
+
+Rondônia , 19 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Rondônia •
+
+ANO XVII | Nº 4235
+
+7.1.2 Havendo erro na apresentação da nota fiscal ou circunstância que impeça a liquidação da despesa, esta ficará sobrestada até que o contratado
+providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação da regularização da situação, sem ônus ao contratante;
+7.1.3 A nota fiscal deverá ser obrigatoriamente acompanhada da comprovação da regularidade fiscal, social e trabalhista constatada por meio da
+documentação prevista no art. 68 da Lei 14.133/2021;
+7.1.4 Constatando-se situação de irregularidade do contratado, será providenciada sua notificação, por escrito, para que, no prazo de 5 (cinco) dias
+úteis, regularize sua situação ou, no mesmo prazo, apresente sua defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério do
+contratante.
+7.1.5 Não havendo regularização ou sendo a defesa considerada improcedente, o contratante deverá comunicar aos órgãos responsáveis pela
+fiscalização da regularidade fiscal quanto à inadimplência do contratado, bem como quanto à existência de pagamento a ser efetuado, para que sejam
+acionados os meios pertinentes e necessários para garantir o recebimento de seus créditos.
+7.1.6 Persistindo a irregularidade, o contratante deverá adotar as medidas necessárias à rescisão contratual nos autos do processo administrativo
+correspondente, assegurada ao contratado a ampla defesa.
+7.1.7 Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela rescisão do contrato, caso o
+contratado não regularize sua situação.
+7.2 Prazo do pagamento
+7.2.1 A CONTRATANTE pagará à CONTRATADA pelos produtos adquiridos, em até 30 (trinta) dias consecutivos, após a apresentação da Nota
+Fiscal/Fatura correspondente, caso haja a aceitabilidade dos produtos, cabendo a contratada comprovar sua regularidade fiscal conforme solicitado
+para a habilitação no certame licitatório;
+7.2.2 AS SECRETARIAS poderão deduzir do pagamento importâncias que a qualquer título lhe forem devidos pela CONTRATADA, em
+decorrência de descumprimento de suas obrigações;
+7.3 Forma de pagamento
+7.3.1 O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente indicados pelo contratado.
+7.3.2 Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+7.3.3 Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+7.3.3.1 Independentemente do percentual de tributo inserido na planilha, quando houver, serão retidos na fonte, quando da realização do pagamento,
+os percentuais estabelecidos na legislação vigente.7.3.4 O contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar
+nº 123/2006, não sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o pagamento ficará
+condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao tratamento tributário favorecido previsto na referida
+Lei Complementar
+8. DAS DOTAÇÕES ORÇAMENTÁRAS POR SECRETARIA
+8.1. As despesas decorrentes da presente Ata de Registro de Preços correrão por conta dos recursos consignados na dotação orçamentárias, conforme
+segue abaixo:
+SETUR
+Função Programática: 02.007 - Secretaria Municipal de Gestão em Turismo, Esporte, Cultura e Recreação – Setur Dotação Orçamentária:
+4.122.0005.1.007 – AQUIS. DE TRATOR CORTADOR DE GRAMA – CV.555/2025/PGE-SEJUCEL
+Valor Total de: R$50.279,75 (cinquenta mil, duzentos e setenta e nove reais e setenta e cinco centavos) Elemento de Despesa: 4.4.90-52 –
+Equipamentos e Material Permanente
+D.R: 0.2.701.0000.0005
+Desp: 437
+Valor R$: 50.000,00 (cinquenta mil reais).
+Elemento de Despesa: 4.4.90-52 – Equipamentos e Material Permanente D.R: 0.1.500.0000.0000 Desp: 437
+Valor R$: 279,75 (duzentos e setenta e nove reais e setenta e cinco centavos)
+SEMOSP
+UNIDADE: 02.004 SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS PÚBLICOS
+04.122.0002.2006 - MANUTENÇÃO DAS ATIVIDADES DA SEMOSP
+Desp. 105 - 4.4.90.52.00.00.00.00 - EQUIPAMENTOS E MATERIAL PERMANENTE 1.500.0000.0000 - RECURSOS NÃO VINCULADOS
+DE IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS.
+E demais que vierem a surgir.
+9. DAS PENALIDADES
+9.1 O descumprimento da Ata de Registro de Preços ensejará aplicação de penalidades, conforme as infrações previstas no art. 155 da Lei nº 14.133,
+de 2021, quais sejam:
+9.1.1 Dar causa à inexecução parcial do contrato;
+9.1.2 Dar causa à inexecução parcial do contrato que cause grave dano à Administração, ao funcionamento dos serviços públicos ou ao interesse
+coletivo;
+9.1.3 Dar causa à inexecução total do contrato;
+9.1.4 Deixar de entregar a documentação exigida para o certame;
+9.1.5 Não manter a proposta, salvo em decorrência de fato superveniente devidamente justificado;
+9.1.6 Não celebrar o contrato ou não entregar a documentação exigida para a contratação, quando convocado dentro do prazo de validade de sua
+proposta;
+9.1.7 Ensejar o retardamento da execução ou da entrega do objeto da licitação sem motivo justificado;
+9.1.8 Apresentar declaração ou documentação falsa exigida para o certame ou prestar declaração falsa durante a dispensa eletrônica ou a execução do
+contrato;
+9.1.9 Fraudar a dispensa eletrônica ou praticar ato fraudulento na execução do contrato;
+9.1.10 Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+9.1.10.1 Considera-se comportamento inidôneo, entre outros, a declaração falsa quanto às condições de participação, quanto ao enquadramento como
+ME/EPP ou o conluio entre os fornecedores, em qualquer momento da dispensa, mesmo após o encerramento da fase de lances;
+9.1.11 Praticar atos ilícitos com vistas a frustrar os objetivos deste certame;
+9.1.12 Praticar ato lesivo previsto no art. 5º da Lei 12.846/2013.
+9.2 O fornecedor que cometer qualquer das infrações discriminadas nos subitens anteriores ficará sujeito, sem prejuízo da responsabilidade civil e
+criminal, às seguintes sanções:a) Advertência, quando não se justificar a imposição de penalidade mais grave;
+
+www.diariomunicipal.com.br/arom
+
+187
+
+Rondônia , 19 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Rondônia •
+
+ANO XVII | Nº 4235
+
+b) Multa, calculada na forma do contrato, com base no total do valor da contratação realizada de forma direta e será aplicada ao responsável por
+qualquer das infrações administrativas previstas no Termo de Referência, no percentual de até 20% (vinte por cento), a depender da situação;
+b.1) O valor da multa poderá ser descontado das faturas devidas à CONTRATADA;
+b.2) A multa pode ser aplicada isoladamente ou juntamente com as penalidades definidas nos itens “c” e “d” abaixo:
+c) Impedimento de licitar e contratar no âmbito da Administração Pública direta e indireta do ente federativo que tiver aplicado a sanção, pelo prazo
+máximo de 03 (três) anos, quando não se justificar a imposição de penalidade mais grave;
+d) Declaração de inidoneidade para licitar ou contratar, que impedirá o responsável de licitar ou contratar no âmbito da Administração Pública direta
+e indireta de todos os entes federativos, pelo prazo mínimo de 03 (três) anos e máximo de 06 (seis) anos;
+9.3 Na aplicação das sanções serão considerados:
+9.3.1 A natureza e a gravidade da infração cometida;
+9.3.2 As peculiaridades do caso concreto;
+9.3.3 As circunstâncias agravantes ou atenuantes;
+9.3.4 Os danos que dela provierem para a Administração Pública;
+9.3.5 A implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de controle.
+9.4 Se a multa aplicada e as indenizações cabíveis forem superiores ao valor de pagamento eventualmente devido pela Administração à
+CONTRATADA, além da perda desse valor, a diferença será descontada da garantia prestada ou será cobrada judicialmente;
+9.5 A aplicação de qualquer das penalidades previstas realizar-se-á em processo administrativo que assegurará o contraditório e a ampla defesa ao
+fornecedor/adjudicatário, observando-se o rito procedimental previsto no Capítulo I do Título IV da Lei 14.133/2021 – Das Infrações e Sanções
+Administrativas.
+9.6 As sanções também se aplicam aos integrantes do cadastro de reserva no registro de preços que, convocados, não honrarem o compromisso
+assumido injustificadamente após terem assinado a ata.
+9.7 É da competência do gerenciador a aplicação das penalidades decorrentes do descumprimento do pactuado nesta ata de registro de preço, exceto
+nas hipóteses em que o descumprimento disser respeito às contratações dos órgãos ou entidade participante, caso no qual caberá ao respectivo órgão
+participante a aplicação da penalidade.
+10. DA ADESÃO À ATA DE REGISTRO DE PREÇOS
+10.1. Durante a vigência da ata, os órgãos e entidades municipais poderão aderir à ata de registro de preços na condição de não participantes,
+observados os seguintes requisitos:
+10.1.1. consulta e aceitação prévia do órgão ou da entidade gerenciadora: e
+10.1.2. consulta e aceitação prévia do do fornecedor.
+10.2. A autorização do órgão ou entidade gerenciadora apenas será realizada após a aceitação da adesão pelo fornecedor.
+10.2.1. O órgão ou entidade gerenciadora poderá rejeitar adesões caso elas possam acarretar prejuízo à execução de seus próprios contratos, à sua
+capacidade de gerenciamento, aos quantitativos destinados aos órgãos participantes ou aos itens vinculados ao Convênio nº 555/2025/PGESEJUCEL.
+10.3. Após a autorização do órgão ou da entidade gerenciadora, o órgão ou entidade não participante deverá efetivar a aquisição ou a contratação
+solicitada em até noventa dias, observado o prazo de vigência da ata.
+10.4. O prazo de que trata o subitem anterior, relativo à efetivação da contratação, poderá ser prorrogado excepcionalmente, mediante solicitação do
+órgão ou da entidade não participante aceita pelo órgão ou pela entidade gerenciadora, desde que respeitado o limite temporal de vigência da ata de
+registro de preços.
+10.5. O órgão ou a entidade poderá aderir a item da ata de registro de preços da qual seja integrante, na qualidade de não participante, para aqueles
+itens para os quais não tenha quantitativo registrado, observados os requisitos do item 4.1
+Dos limites para as adesões
+10.6. As aquisições ou contratações adicionais não poderão exceder, por órgão ou entidade, a cinquenta por cento dos quantitativos dos itens do
+instrumento convocatório registrados na ata de registro de preços para o gerenciador e para os participantes.
+10.7. O quantitativo decorrente das adesões não poderá exceder, na totalidade, ao dobro do quantitativo de cada item registrado na ata de registro de
+preços para o gerenciador e os participantes, independentemente do número de órgãos ou entidades não participantes que aderirem à ata de registro
+de preços.
+11. VALIDADE, FORMALIZAÇÃO DA ATA DE REGISTRO DE PREÇOS E CADASTRO RESERVA
+11.1. A validade da Ata de Registro de Preços será de 1 (um) ano, contado a partir do primeiro dia útil subsequente à data de divulgação no PNCP,
+podendo ser prorrogada por igual período, mediante a anuência do fornecedor, desde que comprovado o preço vantajoso.
+11.2. O contrato decorrente da ata de registro de preços terá sua vigência estabelecida no próprio instrumento contratual e observará no momento da
+contratação e a cada exercício financeiro a disponibilidade de créditos orçamentários, bem como a previsão no plano plurianual, quando ultrapassar 1
+(um) exercício financeiro.
+11.3. Na formalização do contrato ou do instrumento substituto deverá haver a indicação da disponibilidade dos créditos orçamentários respectivos.
+11.4. A contratação com os fornecedores registrados na ata será formalizada pelo órgão ou pela entidade interessada por intermédio de instrumento
+contratual, emissão de nota de empenho de despesa, autorização de compra ou outro instrumento hábil, conforme o art. 95 da Lei nº 14.133, de 2021.
+11.4.1. O instrumento contratual deverá ser assinado no prazo de validade da ata de registro de preços.
+11.5. Os contratos decorrentes do sistema de registro de preços poderão ser alterados, observado o art. 124 da Lei nº 14.133, de 2021.
+11.6. Após a homologação da licitação ou da contratação direta, deverão ser observadas as seguintes condições para formalização da ata de registro
+de preços:
+11.6.1. Serão registrados na ata os preços e os quantitativos do adjudicatário, devendo ser observada a possibilidade de o licitante oferecer ou não
+proposta em quantitativo inferior ao máximo previsto no edital ou no aviso de contratação direta e se obrigar nos limites dela;
+11.6.2. Será incluído na ata, na forma de anexo, o registro dos licitantes ou dos fornecedores que:
+11.6.2.1. Aceitarem cotar os bens, as obras ou os serviços com preços iguais aos do adjudicatário, observada a classificação da licitação; e
+11.6.2.2. Mantiverem sua proposta original.
+11.6.3. Será respeitada, nas contratações, a ordem de classificação dos licitantes ou dos fornecedores registrados na ata.
+11.7. O registro dos licitantes ou dos fornecedores tem por objetivo a formação de cadastro de reserva para o caso de impossibilidade de atendimento
+pelo signatário da ata.
+11.8. Para fins da ordem de classificação, os licitantes ou fornecedores que aceitarem reduzir suas propostas para o preço do adjudicatário
+antecederão aqueles que mantiverem sua proposta original.
+11.9. A habilitação dos licitantes que comporão o cadastro de reserva somente será efetuada quando houver necessidade de contratação dos licitantes
+remanescentes, nas seguintes hipóteses:
+www.diariomunicipal.com.br/arom
+
+188
+
+Rondônia , 19 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Rondônia •
+
+ANO XVII | Nº 4235
+
+11.9.1. Quando o licitante vencedor não assinar a ata de registro de preços, no prazo e nas condições estabelecidos no edital ou no aviso de
+contratação direta; e
+11.9.2. Quando houver o cancelamento do registro do licitante ou do registro de preços.
+11.10. O preço registrado com indicação dos licitantes e fornecedores será divulgado no PNCP e ficará disponibilizado durante a vigência da ata de
+registro de preços.
+11.11. Após a homologação da licitação ou da contratação direta, o licitante mais bem classificado ou o fornecedor, no caso da contratação direta,
+será convocado para assinar a ata de registro de preços, no prazo e nas condições estabelecidos no edital de licitação ou no aviso de contratação
+direta, sob pena de decair o direito, sem prejuízo das sanções previstas na Lei nº 14.133, de 2021.
+11.11.1. O prazo de convocação poderá ser prorrogado 1 (uma) vez, por igual período, mediante solicitação do licitante ou fornecedor convocado,
+desde que apresentada dentro do prazo, devidamente justificada, e que a justificativa seja aceita pela Administração.
+11.12. A ata de registro de preços será assinada por meio de assinatura digital e disponibilizada no Sistema de Registro de Preços.
+11.13. Quando o convocado não assinar a ata de registro de preços no prazo e nas condições estabelecidos no edital ou no aviso de contratação, fica
+facultado à Administração convocar os licitantes remanescentes do cadastro de reserva, na ordem de classificação, para fazê-lo em igual prazo e nas
+condições propostas pelo primeiro classificado.
+11.14. Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do item anterior, a Administração, observados o valor estimado e sua
+eventual atualização nos termos do edital ou do aviso de contratação direta, poderá:
+11.15. Convocar para negociação os demais licitantes ou fornecedores remanescentes cujos preços foram registrados sem redução, observada a
+ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário; ou
+11.16. Adjudicar e firmar o contrato nas condições ofertadas pelos licitantes ou fornecedores remanescentes, atendida a ordem classificatória, quando
+frustrada a negociação de melhor condição.
+11.17. A existência de preços registrados implicará compromisso de fornecimento nas condições estabelecidas, mas não obrigará a Administração a
+contratar, facultada a realização de licitação específica para a contratação pretendida, desde que devidamente justificada.
+12. ALTERAÇÃO OU ATUALIZAÇÃO DOS PREÇOS REGISTRADOS
+12.1. Os preços registrados poderão ser alterados ou atualizados em decorrência de eventual redução dos preços praticados no mercado ou de fato
+que eleve o custo dos bens, das obras ou dos serviços registrados, nas seguintes situações:
+12.2. Em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências
+incalculáveis, que inviabilizem a execução da ata tal como pactuada, nos termos da alínea “d” do inciso II do caput do art. 124 da Lei nº 14.133, de
+2021;
+12.3. Em caso de criação, alteração ou extinção de quaisquer tributos ou encargos legais ou a superveniência de disposições legais, com comprovada
+repercussão sobre os preços registrados;
+12.4. Na hipótese de previsão no edital ou no aviso de contratação direta de cláusula de reajustamento ou repactuação sobre os preços registrados,
+nos termos da Lei nº 14.133, de 2021.
+12.5. No caso do reajustamento, deverá ser respeitada a contagem da anualidade e o índice previstos para a contratação;
+12.6. No caso da repactuação, poderá ser a pedido do interessado, conforme critérios definidos para a contratação.
+13. NEGOCIAÇÃO DE PREÇOS REGISTRADOS
+13.1. Na hipótese de o preço registrado tornar-se superior ao preço praticado no mercado por motivo superveniente, o órgão ou entidade gerenciadora
+convocará o fornecedor para negociar a redução do preço registrado.
+13.1.1. Caso não aceite reduzir seu preço aos valores praticados pelo mercado, o fornecedor será liberado do compromisso assumido quanto ao item
+registrado, sem aplicação de penalidades administrativas.
+13.1.2. Na hipótese prevista no item anterior, o gerenciador convocará os fornecedores do cadastro de reserva, na ordem de classificação, para
+verificar se aceitam reduzir seus preços aos valores de mercado e não convocará os licitantes ou fornecedores que tiveram seu registro cancelado.
+13.1.3. Se não obtiver êxito nas negociações, o órgão ou entidade gerenciadora procederá ao cancelamento da ata de registro de preços, adotando as
+medidas cabíveis para obtenção de contratação mais vantajosa.
+13.1.4. Na hipótese de redução do preço registrado, o gerenciador comunicará aos órgãos e às entidades que tiverem firmado contratos decorrentes
+da ata de registro de preços para que avaliem a conveniência e a oportunidade de diligenciarem negociação com vistas à alteração contratual,
+observado o disposto no art. 124 da Lei nº 14.133, de 2021.
+13.2. Na hipótese de o preço de mercado tornar-se superior ao preço registrado e o fornecedor não poder cumprir as obrigações estabelecidas na ata,
+será facultado ao fornecedor requerer ao gerenciador a alteração do preço registrado, mediante comprovação de fato superveniente que supostamente
+o impossibilite de cumprir o compromisso.
+13.2.1. Neste caso, o fornecedor encaminhará, juntamente com o pedido de alteração, a documentação comprobatória ou a planilha de custos que
+demonstre a inviabilidade do preço registrado em relação às condições inicialmente pactuadas.
+13.2.2. Não hipótese de não comprovação da existência de fato superveniente que inviabilize o preço registrado, o pedido será indeferido pelo órgão
+ou entidade gerenciadora e o fornecedor deverá cumprir as obrigações estabelecidas na ata, sob pena de cancelamento do seu registro, nos termos do
+item 15, sem prejuízo das sanções previstas na Lei nº 14.133, de 2021, e na legislação aplicável.
+13.2.3. Na hipótese de cancelamento do registro do fornecedor, nos termos do item anterior, o gerenciador convocará os fornecedores do cadastro de
+reserva, na ordem de classificação, para verificar se aceitam manter seus preços registrados, observado o disposto no item 5.7.
+13.2.4. Se não obtiver êxito nas negociações, o órgão ou entidade gerenciadora procederá ao cancelamento da ata de registro de preços e adotará as
+medidas cabíveis para a obtenção da contratação mais vantajosa.
+13.2.5. Na hipótese de comprovação da majoração do preço de mercado que inviabilize o preço registrado, o órgão ou entidade gerenciadora
+atualizará o preço registrado, de acordo com a realidade dos valores praticados pelo mercado.
+13.2.6. O órgão ou entidade gerenciadora comunicará aos órgãos e às entidades que tiverem firmado contratos decorrentes da ata de registro de
+preços sobre a efetiva alteração do preço registrado, para que avaliem a necessidade de alteração contratual, observado o disposto no art. 124 da Lei
+nº 14.133, de 2021
+14. REMANEJAMENTO DAS QUANTIDADES REGISTRADAS NA ATA DE REGISTRO DE PREÇOS
+14.1. As quantidades previstas para os itens com preços registrados nas atas de registro de preços poderão ser remanejadas pelo órgão ou entidade
+gerenciadora entre os órgãos ou as entidades participantes e não participantes do registro de preços.
+14.2. O remanejamento somente poderá ser feito:
+14.2.1. De órgão ou entidade participante para órgão ou entidade participante; ou
+14.2.2. De órgão ou entidade participante para órgão ou entidade não participante.
+
+www.diariomunicipal.com.br/arom
+
+189
+
+Rondônia , 19 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Rondônia •
+
+ANO XVII | Nº 4235
+
+14.3. O órgão ou entidade gerenciadora que tiver estimado as quantidades que pretende contratar será considerado participante para efeito do
+remanejamento.
+14.4. Na hipótese de remanejamento de órgão ou entidade participante para órgão ou entidade não participante.
+14.5. Competirá ao órgão ou à entidade gerenciadora autorizar o remanejamento solicitado, com a redução do quantitativo inicialmente informado
+pelo órgão ou pela entidade participante, desde que haja prévia anuência do órgão ou da entidade que sofrer redução dos quantitativos informados.
+14.6. Caso o remanejamento seja feito entre órgãos ou entidades dos Estados, do Distrito Federal ou de Municípios distintos, caberá ao fornecedor
+beneficiário da ata de registro de preços, observadas as condições nela estabelecidas, optar pela aceitação ou não do fornecimento decorrente do
+remanejamento dos itens.
+14.7. Na hipótese da compra centralizada, não havendo indicação pelo órgão ou pela entidade gerenciadora, dos quantitativos dos participantes da
+compra centralizada, nos termos do item 3
+(https://dv7rs78smtpx8.cloudfront.net/reports/pregao/107691/completo_relatorio_ata_registro_preco_completo_95009861517.html#gerenciador_esti
+mador_%C3%A9_partic_ a distribuição das quantidades para a execução descentralizada será por meio do remanejamento.
+15. CANCELAMENTO DO REGISTRO DO LICITANTE VENCEDOR E DOS PREÇOS REGISTRADOS
+15.1. O registro do fornecedor será cancelado pelo gerenciador, quando o fornecedor:
+15.1.1. Descumprir as condições da ata de registro de preços, sem motivo justificado;
+15.1.2. Não retirar a nota de empenho, ou instrumento equivalente, no prazo estabelecido pela Administração sem justificativa razoável.
+15.1.3. Não aceitar manter seu preço registrado mesmo que não haja comprovação da existência de fato superveniente que inviabilize o preço
+registrado; ou
+15.1.4. Sofrer sanção prevista nos incisos III ou IV do caputdo art. 156 da Lei nº 14.133, de 2021.
+15.1.4.1. Na hipótese de aplicação de sanção prevista nos incisos III ou IV do caputdo art. 156 da Lei nº 14.133, de 2021, caso a penalidade aplicada
+ao fornecedor não ultrapasse o prazo de vigência da ata de registro de preços, poderá o órgão ou a entidade gerenciadora poderá, mediante decisão
+fundamentada, decidir pela manutenção do registro de preços, vedadas contratações derivadas da ata enquanto perdurarem os efeitos da sanção.
+15.2. O cancelamento de registros nas hipóteses previstas no item 1
+(https://dv7rs78smtpx8.cloudfront.net/reports/pregao/107691/completo_relatorio_ata_registro_preco_completo_95009861517.html#cancelamento_d
+o_fornecedor)será formalizado por despacho do órgão ou da entidade gerenciadora, garantidos os princípios do contraditório e da ampla defesa.
+15.3. Na hipótese de cancelamento do registro do fornecedor, o órgão ou a entidade gerenciadora poderá convocar os licitantes que compõem o
+cadastro de reserva, observada a ordem de classificação.
+15.4. O cancelamento dos preços registrados poderá ser realizado pelo gerenciador, em determinada ata de registro de preços, total ou parcialmente,
+nas seguintes hipóteses, desde que devidamente comprovadas e justificadas:
+15.4.1. Por razão de interesse público;
+15.4.2. A pedido do fornecedor, decorrente de caso fortuito ou força maior; ou
+15.4.3. Se não houver êxito nas negociações, nas hipóteses em que o preço de mercado tornar-se superior ou inferior ao preço registrado, nos termos
+dos artigos 26, § 3º e 27, § 4º, ambos do Decreto nº 11.462, de 2023.
+16. DAS OBRIGAÇÕES DA DETENTORA DO REGISTRO
+16.1. Constituem obrigações da empresa detentora da Ata de Registro de Preços, sem prejuízo de outras previstas na legislação aplicável, no edital e
+na Ata:
+16.1.1. Fornecer os equipamentos objeto deste Termo de Referência de acordo com as especificações técnicas, prazos, condições e quantidades
+estabelecidas, sempre que formalmente solicitada pela Administração;
+16.1.2. Entregar os equipamentos novos, sem uso anterior, em perfeitas condições de funcionamento, acompanhados de manuais técnicos e demais
+documentos exigidos;
+16.1.3. Cumprir rigorosamente os prazos de entrega estabelecidos, contados a partir do recebimento da Nota de Empenho ou instrumento
+equivalente;
+16.1.4. Arcar com todas as despesas decorrentes do fornecimento, incluindo transporte, carga, descarga, seguro, tributos, encargos trabalhistas,
+previdenciários, fiscais e comerciais, não sendo admitida qualquer cobrança adicional;
+16.1.5. Responsabilizar-se integralmente por danos causados à Administração ou a terceiros, decorrentes de culpa ou dolo na execução do objeto;
+16.1.6. Substituir, sem ônus adicional e no prazo estabelecido pela fiscalização, quaisquer equipamentos que apresentem defeitos, vícios de
+fabricação, avarias ou desconformidade com as especificações deste Termo de Referência;
+16.1.7. Prestar assistência técnica durante o período de garantia, incluindo mão de obra, peças e componentes necessários à correção de falhas, sem
+qualquer custo adicional para a Administração;
+16.1.8. Manter, durante toda a vigência da Ata de Registro de Preços, as condições de habilitação e qualificação exigidas no procedimento licitatório;
+16.1.9. Não subcontratar, total ou parcialmente, o objeto da Ata de Registro de Preços, salvo se houver autorização expressa da Administração,
+quando admitido;
+16.1.10. Atender prontamente às solicitações da Administração e às determinações da fiscalização, adotando as medidas necessárias à regular e fiel
+execução do objeto;
+16.1.11. Comunicar formalmente à Administração qualquer fato superveniente que possa comprometer a execução do fornecimento, especialmente
+situações que caracterizem caso fortuito ou força maior.
+17. DAS OBRIGAÇÕES DOS ÓRGÃOS REQUISITANTES
+17.1. São obrigações da Contratante:
+17.1.1. Compete à Administração Contratante, por meio das Secretarias Municipais de Gestão em Turismo, Esporte, Cultura e Recreação – SETUR e
+de Gestão em Obras e Serviços Públicos – SEMOSP:
+17.1.2. Acompanhar e fiscalizar a execução do objeto, por intermédio de servidor(es) formalmente designado(s), nos termos da Lei nº 14.133/2021;
+17.1.3. Emitir a Nota de Empenho ou instrumento equivalente, de acordo com a necessidade administrativa e observadas as disposições da Ata de
+Registro de Preços;
+17.1.4. Prestar à empresa detentora da Ata todas as informações e esclarecimentos necessários à correta execução do fornecimento;
+17.1.5. Receber os equipamentos fornecidos, observadas as condições de recebimento provisório e definitivo, verificando a conformidade com as
+especificações técnicas estabelecidas neste Termo de Referência;
+17.1.6. Rejeitar, no todo ou em parte, os equipamentos entregues em desacordo com as especificações técnicas, prazos ou condições estabelecidas;
+17.1.7. Notificar formalmente a empresa detentora da Ata acerca de quaisquer irregularidades constatadas na execução do objeto, fixando prazo para
+saneamento, quando couber;
+17.1.8. Efetuar o pagamento devido, nas condições, prazos e valores estabelecidos no edital, na Ata de Registro de Preços e nos instrumentos dela
+decorrentes, desde que comprovado o adimplemento das obrigações pela Contratada;
+www.diariomunicipal.com.br/arom
+
+190
+
+Rondônia , 19 de Maio de 2026 • Diário Oficial dos Municípios do Estado de Rondônia •
+
+ANO XVII | Nº 4235
+
+17.1.9. Aplicar as penalidades previstas, quando constatado o descumprimento das obrigações contratuais ou legais, assegurados o contraditório e a
+ampla defesa
+18. DOS ÓRGÃOS PARTICIPANTES
+18.1. Os órgãos participantes desta Ata de Registro de Preços são os constantes do TERMO DE REFERÊNCIA.
+19. DO ACOMPANHAMENTO E FISCALIZAÇÃO
+19.1. A fiscalização da contratação decorrente caberá à secretaria requisitante, a qual designará servidores nomeados através de portaria/decreto
+conforme indicação do atual gestor da pasta para fiscalizar e acompanhar o objeto da presente licitação, esses servidores determinarão o que for
+necessário para regularizar faltas ou defeitos, nos termos da Portaria 65/2026 de 19/01/2026.
+19.2. Caberá aos fiscais, juntamente com a superintendência de licitações e equipe de apoio, o controle e a administração dos preços registrados,
+devendo:
+19.3. Gerenciar a ata de registro de preços;
+19.4. Conduzir eventuais renegociações dos preços registrados;
+19.5. Aplica, garantida a ampla defesa e o contraditório, as penalidades decorrentes do descumprimento do pactuado na ata de registro de preços ou
+do descumprimento das obrigações contratuais, em relação as suas próprias contratações;
+19.6. Anotar em registro próprio todas as ocorrências relacionadas com a execução da ata de registro de preço, indicando dia, mês e ano, bem como o
+nome dos funcionários eventualmente envolvidos, determinando o que for necessário à regularização das faltas ou defeitos observados e
+encaminhando os apontamentos à autoridade competente para as providências cabíveis
+20. DA ASSINATURA DA ATA DE REGISTRO DE PREÇO
+20.1. A empresa vencedora terá o prazo de 3 (três) dias úteis para assinar a Ata de Registro de Preços, caso não assine poderá sofrer as sanções
+previstas.
+21. DA SUBCONTRATAÇÃO CESSÃO E/OU TRANSFERÊNCIA
+21.1. É vedada a subcontratação total ou parcial do objeto, salvo autorização expressa da Administração, nos limites legalmente admitidos
+22. DISPOSIÇÕES GERAIS
+22.1. A existência de preços registrados não obriga a Administração a firmar as contratações de que deles poderão advir, facultada a realização de
+licitação específica para a contratação pretendida, sendo assegurada à Detentora do registro de preços a preferência em igualdade de condições.
+22.2. Fica a Detentora ciente que a publicidade da ata de registro de preços na imprensa oficial terá efeito de compromisso nas condições ofertadas e
+pactuadas na proposta apresentada à licitação.
+22.3. Fazem parte integrante desta Ata, para todos os efeitos legais: o Edital de Licitação e seus anexos, bem como, o ANEXO ÚNICO desta ata que
+contém os preços registrados e respectivos detentores.
+22.4. Aplica-se à presente ARP, ao disposto na Lei Federal nº 14.133/2021, Lei Municipal nº 1.559/2024, CF/1988, bem como a LC nº 123/2006 e
+suas alterações, Código de Defesa do Consumidor e demais normas legais cabíveis, independente de transcrição.
+A presente Ata de Registro de Preços, após lida e achada conforme, é assinada pelas partes.
+A presente Ata de Registro de Preços, após lida e achada conforme, é assinada pelas partes.
+IVAIR JOSÉ FERNANDES
+Prefeito Municipal
+FEITOZAM COMERCIO DE MAQUINAS E EQUIPAMENTOS LTDA
+48.475.333/0001-01
+Assinado de forma digital por:
+IVAIR JOSÉ FERNANDES
+677.***.***-**
+Dados: 15/05/2026 12:22:47
+Assinado de forma digital por:
+Marcos Antonio Pinheiro Feitoza
+010.***.***-**
+Dados: 15/05/2026 11:38:21
+Publicado por:
+Andre Luis Trevizan

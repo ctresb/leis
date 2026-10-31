@@ -1,0 +1,42 @@
+{
+  "host": "sapl.aquiraz.ce.leg.br",
+  "metadados_unicos_observados": 72,
+  "total_api_declarado": 72,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 41,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aquiraz.ce.leg.br/dfc0dde61a0e5c98b649327ad940b6ba35e257fba8aa81c834433d2922aa7eb6.json",
+    "url": "https://sapl.aquiraz.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.aquiraz.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c335f906498b19899eb7775a9854ce68125a1796bc1375443c822cd3629bbc71",
+    "bytes": 953,
+    "capturado_em": "2026-10-27T16:50:20.333489-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aquiraz.ce.leg.br/f72dc4b64b0ec01956504f2966d3aa4459f63068ecbf6b4513819cb987fb5f05.json",
+    "url": "https://sapl.aquiraz.ce.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.aquiraz.ce.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ac8a21064a3db1c3cae5022a0cc4a4b8cacb504ca7ba6367d451b89bd9a06739",
+    "bytes": 726,
+    "capturado_em": "2026-10-27T16:50:19.513383-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aquiraz.ce.leg.br/ade5ff74de2b1e4a4fcbf68d2750323c063977fa731ed00cdaaad0d5dc130baa.json",
+      "url": "https://sapl.aquiraz.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.aquiraz.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "45d803d55e2a51eab3a7045281ebd34e896023ee7656c5dc472fb680608d2fae",
+      "bytes": 44771,
+      "capturado_em": "2026-10-27T16:50:22.699910-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

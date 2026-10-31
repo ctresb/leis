@@ -1,0 +1,1690 @@
+INSTITUI A PLANTA GENÉRICA DE VALORES DO MUNICÍPIO DE BOFETE, ESTABELECE OS VALORES UNITÁRIOS, AS ZONAS FISCAIS, OS FATORES DE CORREÇÃO, OS PADRÕES CONSTRUTIVOS E OS CRITÉRIOS DE APURAÇÃO DO VALOR VENAL DOS IMÓVEIS URBANOS PARA FINS DE LANÇAMENTO DO IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA – IPTU, DISCIPLINA A ATUALIZAÇÃO MONETÁRIA, A INTEGRAÇÃO DO CADASTRO IMOBILIÁRIO MUNICIPAL COM O CADASTRO IMOBILIÁRIO BRASILEIRO – CIB E COM O SISTEMA NACIONAL DE GESTÃO DE INFORMAÇÕES TERRITORIAIS – SINTER, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+EUGENIO CARLOS ALVES, Prefeito do Município de Bofete, Estado de São Paulo, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei Complementar:
+
+
+### TÍTULO I — DAS DISPOSIÇÕES GERAIS E DA BASE DE CÁLCULO DO IPTU
+
+
+Art. 1º.
+
+Esta Lei Complementar institui a Planta Genérica de Valores - PGV do Município de Bofete e estabelece os valores unitários, as zonas fiscais, os fatores de correção, os padrões construtivos e os critérios de apuração do valor venal dos imóveis urbanos para fins de lançamento do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU.
+
+
+§ 1º
+
+A base de cálculo do IPTU é o valor venal do imóvel, apurado mediante aplicação dos critérios, valores, fatores e fórmulas estabelecidos nesta Lei Complementar e em seus Anexos.
+
+
+§ 2º
+
+O valor venal corresponde ao valor estimado do imóvel em condições normais de mercado, considerado de forma objetiva e padronizada para fins de avaliação tributária em massa.
+
+
+§ 3º
+
+Na apuração do valor venal não serão considerados:
+
+
+I –
+
+os bens móveis mantidos no imóvel, em caráter permanente ou temporário;
+
+
+II –
+
+os ônus reais que recaiam sobre o imóvel;
+
+
+III –
+
+o estado de comunhão da propriedade;
+
+
+IV –
+
+as vinculações restritivas do direito de propriedade, ressalvadas as limitações físicas, urbanísticas ou ambientais expressamente consideradas pelos fatores previstos nesta Lei Complementar;
+
+
+V –
+
+o valor meramente subjetivo, afetivo ou especulativo atribuído pelo proprietário, possuidor ou terceiro;
+
+
+VI –
+
+as construções provisórias que possam ser removidas sem destruição ou alteração substancial do imóvel, quando não incorporadas permanentemente ao solo.
+
+
+§ 4º
+
+A avaliação tributária em massa não se confunde com avaliação individual destinada à compra, venda, desapropriação, garantia, inventário, financiamento ou outra finalidade específica.
+
+
+§ 5º
+
+A inscrição no Cadastro Imobiliário Municipal e a atribuição de valor venal não constituem reconhecimento de propriedade, domínio útil, posse legítima, regularidade urbanística ou titularidade registral.
+
+
+Art. 2º.
+
+O valor venal do terreno, edificado ou não, será apurado mediante multiplicação de sua área ou fração ideal pelo valor unitário de referência do metro quadrado correspondente à zona fiscal ou área especial em que estiver localizado, aplicados os fatores de correção previstos no Anexo II.
+
+
+§ 1º
+
+O valor venal territorial será calculado pela fórmula constante do Anexo II.
+
+
+§ 2º
+
+Nos condomínios edilícios, loteamentos com frações ideais ou outras situações de propriedade comum, a parcela territorial atribuída a cada unidade será apurada de acordo com a fração ideal registrada ou cadastrada.
+
+
+§ 3º
+
+Quando não houver fração ideal registrada ou quando houver incompatibilidade manifesta entre a fração registrada e a realidade física do empreendimento, a Administração poderá adotar provisoriamente a fração apurada com base na área privativa e nas áreas comuns, mediante procedimento fundamentado e assegurado o direito de impugnação.
+
+
+§ 4º
+
+A zona fiscal será determinada pela localização do terreno, independentemente da destinação residencial, comercial, industrial, de prestação de serviços ou mista da edificação.
+
+
+§ 5º
+
+A atualização dos valores unitários observará exclusivamente o disposto nos arts. 5º, 23 e 24 desta Lei Complementar.
+
+
+Art. 3º.
+
+Para fins de apuração do valor venal territorial, o território urbano do Município de Bofete fica dividido nas seguintes zonas fiscais:
+
+
+I –
+
+Zona 1 - Rosa: correspondente à Praça da Matriz, ao Centro e às áreas centrais tecnicamente delimitadas no Cadastro Imobiliário Municipal;
+
+
+II –
+
+Zona 2 - Amarela: correspondente ao segundo conjunto de quadras contado a partir da Praça da Matriz, conforme delimitação técnica mantida no Cadastro Imobiliário Municipal;
+
+
+III –
+
+Zona 3 - Azul: correspondente ao terceiro conjunto de quadras contado a partir da Praça da Matriz, conforme delimitação técnica mantida no Cadastro Imobiliário Municipal;
+
+
+IV –
+
+Zona 4 - Verde: correspondente ao quarto conjunto de quadras contado a partir da Praça da Matriz, conforme delimitação técnica mantida no Cadastro Imobiliário Municipal;
+
+
+V –
+
+Zona 5 - Vermelha: correspondente ao Distrito de São Roque Novo, conforme delimitação técnica mantida no Cadastro Imobiliário Municipal;
+
+
+VI –
+
+Zona 6 - Roxa: correspondente aos bairros CDHU I, CDHU II, CDHU III, Siriemas, Jardim Cordeiro e Vila Nova, conforme delimitação técnica mantida no Cadastro Imobiliário Municipal.
+
+
+§ 1º
+
+As cores previstas neste artigo constituem referências cadastrais e cartográficas das respectivas zonas fiscais.
+
+
+§ 2º
+
+A delimitação cartográfica das zonas fiscais e a vinculação das inscrições imobiliárias serão realizadas e mantidas pelo Cadastro Imobiliário Municipal, observadas as regiões, bairros e valores unitários definidos nesta Lei Complementar.
+
+
+§ 3º
+
+Os mapas, setores, quadras, logradouros, faces de quadra e demais elementos georreferenciados constituem instrumentos técnicos de execução cadastral e poderão ser aprovados e atualizados por ato do Poder Executivo, desde que não impliquem criação de zona fiscal, alteração de valor unitário ou transferência de bairro para zona diversa daquela estabelecida nesta Lei Complementar.
+
+
+§ 4º
+
+A criação ou extinção de zona fiscal, a alteração de seu valor unitário e a transferência de bairro ou região para zona fiscal diversa dependerão de lei.
+
+
+§ 5º
+
+A correção de erro material na vinculação de imóvel a bairro ou zona fiscal poderá ser promovida de ofício pelo Cadastro Imobiliário Municipal, mediante procedimento fundamentado, assegurado ao contribuinte o direito de impugnação.
+
+
+§ 6º
+
+Quando o imóvel possuir frente para logradouros situados em zonas fiscais distintas, será considerado o valor correspondente à face de quadra onde estiver localizado seu acesso principal.
+
+
+§ 7º
+
+A classificação da edificação como residencial, comercial, industrial, de prestação de serviços ou mista não altera a zona fiscal territorial, determinada pela localização do terreno.
+
+
+Art. 4º.
+
+O valor venal do imóvel edificado será obtido pela soma:
+
+
+I –
+
+do valor venal do terreno - VT, apurado na forma do art. 2º. e do Anexo II;
+
+
+II –
+
+do valor venal da edificação - VE, apurado conforme sua área construída, destinação, padrão construtivo e estado de conservação, na forma do Anexo III.
+
+
+§ 1º
+
+O valor venal total do imóvel edificado será calculado pela seguinte fórmula:
+
+
+VVI - = VT + VE  
+  
+Em que:
+
+VVI - = valor venal total do imóvel;  
+  
+VT = valor venal do terreno;  
+  
+VE = valor venal da edificação.
+
+
+§ 2º
+
+Quando houver, no mesmo imóvel, edificações ou áreas construídas com tipos, padrões, destinações ou estados de conservação distintos, cada área será avaliada separadamente, somando-se os respectivos resultados.
+
+
+§ 3º
+
+As dependências, garagens, áreas de apoio e construções acessórias integradas funcionalmente à edificação principal seguirão, em regra, o mesmo tipo e padrão construtivo desta, ressalvada a existência de características próprias que justifiquem avaliação separada.
+
+
+§ 4º
+
+A área construída será aquela constante do Cadastro Imobiliário Municipal, sem prejuízo de sua revisão mediante vistoria, levantamento técnico, imagens, documentos de obra ou outros elementos idôneos.
+
+
+§ 5º
+
+A inclusão ou alteração de área construída, tipo, padrão construtivo ou estado de conservação que resulte em aumento do valor venal deverá ser fundamentada e comunicada ao contribuinte por ocasião do lançamento, assegurado o direito de impugnação.
+
+
+§ 6º
+
+As construções em ruínas, em demolição, condenadas, interditadas ou sem condições de utilização serão avaliadas conforme suas características físicas efetivamente existentes, observado o Fator de Conservação previsto no Anexo III.
+
+
+§ 7º
+
+Os imóveis não cadastrados ou sem enquadramento específico serão avaliados na forma do art. 6º.
+
+
+Art. 5º.
+
+Os valores unitários de referência do metro quadrado dos terrenos e das edificações serão expressos em moeda corrente nacional e atualizados anualmente, exclusivamente para recomposição da perda do poder aquisitivo da moeda.
+
+
+§ 1º
+
+A atualização monetária será realizada pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística - IBGE, acumulado no período de 12 (doze) meses encerrado no mês de setembro do exercício anterior ao lançamento.
+
+
+§ 2º
+
+A atualização será promovida por decreto do Poder Executivo, editado antes do lançamento anual do IPTU, e produzirá efeitos exclusivamente para o exercício financeiro a que se referir.
+
+
+§ 3º
+
+A atualização exclusivamente monetária não constitui majoração de tributo, nos termos do art. 97, § 2º, do Código Tributário Nacional.
+
+
+§ 4º
+
+O decreto de atualização deverá indicar:
+
+
+I –
+
+o índice oficial utilizado;
+
+
+II –
+
+o período de apuração;
+
+
+III –
+
+o percentual acumulado;
+
+
+IV –
+
+os valores unitários anteriores;
+
+
+V –
+
+os valores unitários atualizados;
+
+
+VI –
+
+a memória de cálculo.
+
+
+§ 5º
+
+É vedada a utilização do decreto de atualização monetária para:
+
+
+I –
+
+promover aumento real dos valores unitários;
+
+
+II –
+
+criar, extinguir ou alterar zonas fiscais;
+
+
+III –
+
+transferir bairros ou regiões entre zonas fiscais;
+
+
+IV –
+
+modificar fatores, coeficientes, padrões construtivos, fórmulas ou critérios de avaliação;
+
+
+V –
+
+alterar alíquotas ou outros elementos da obrigação tributária reservados à lei.
+
+
+§ 6º
+
+Na hipótese de extinção do IPCA, será aplicado o índice oficial que vier a substituí-lo, preservada a finalidade exclusiva de correção monetária.
+
+
+§ 7º
+
+A primeira atualização monetária posterior à instituição desta Planta Genérica de Valores será aplicada somente a partir do exercício financeiro seguinte ao de sua primeira utilização no lançamento do IPTU.
+
+
+Art. 6º.
+
+Os imóveis, logradouros, loteamentos, condomínios, desmembramentos ou áreas urbanas que não possuam enquadramento definido nas zonas fiscais ou áreas especiais previstas no Anexo I serão avaliados provisoriamente mediante procedimento administrativo fundamentado.
+
+
+§ 1º
+
+O enquadramento provisório será realizado na zona fiscal ou área especial que apresente maior equivalência territorial, urbanística e econômica, considerando-se:
+
+
+I –
+
+a localização e a proximidade territorial;
+
+
+II –
+
+as características dos bairros e regiões contíguas;
+
+
+III –
+
+a infraestrutura e os serviços públicos disponíveis;
+
+
+IV –
+
+o uso e a ocupação predominantes;
+
+
+V –
+
+as restrições urbanísticas e ambientais;
+
+
+VI –
+
+os valores unitários das zonas e áreas especiais previstas no Anexo I;
+
+
+VII –
+
+os elementos disponíveis do mercado imobiliário local.
+
+
+§ 2º
+
+Nos novos loteamentos, condomínios, desmembramentos ou áreas de expansão urbana ainda não contemplados expressamente no Anexo I, será adotado provisoriamente o valor unitário da zona fiscal ou área especial com características mais semelhantes, vedada a criação administrativa de novo valor unitário.
+
+
+§ 3º
+
+A avaliação deverá ser instruída com laudo ou parecer técnico que contenha:
+
+
+I –
+
+a identificação e a descrição do imóvel;
+
+
+II –
+
+a zona fiscal ou área especial utilizada como referência;
+
+
+III –
+
+os imóveis ou regiões adotados como elementos de comparação;
+
+
+IV –
+
+as características territoriais, urbanísticas e econômicas consideradas;
+
+
+V –
+
+os fatores de correção aplicados;
+
+
+VI –
+
+a memória de cálculo;
+
+
+VII –
+
+a identificação do servidor ou profissional responsável.
+
+
+§ 4º
+
+A avaliação observará, quando aplicáveis, as normas técnicas de avaliação de imóveis urbanos e os critérios estabelecidos nesta Lei Complementar.
+
+
+§ 5º
+
+O valor unitário provisoriamente adotado não poderá ser superior ao da zona fiscal mais valorizada entre as áreas territorialmente contíguas ou urbanisticamente equivalentes, salvo quando houver justificativa técnica específica, fundamentada em elementos objetivos de mercado.
+
+
+§ 6º
+
+O enquadramento provisório:
+
+
+I –
+
+não poderá criar nova zona fiscal ou área especial;
+
+
+II –
+
+não poderá alterar os valores unitários constantes do Anexo I;
+
+
+III –
+
+produzirá efeitos somente para os imóveis expressamente identificados no procedimento;
+
+
+IV –
+
+permanecerá aplicável até que a respectiva região seja expressamente enquadrada por lei ou até que seja corrigido eventual erro cadastral.
+
+
+§ 7º
+
+O contribuinte será informado, por ocasião do lançamento, sobre:
+
+
+I –
+
+o enquadramento provisório realizado;
+
+
+II –
+
+a zona fiscal ou área especial adotada como referência;
+
+
+III –
+
+o valor unitário aplicado;
+
+
+IV –
+
+os fatores de correção utilizados;
+
+
+V –
+
+a memória de cálculo;
+
+
+VI –
+
+o prazo e a forma para apresentação de impugnação administrativa.
+
+
+§ 8º
+
+A impugnação apresentada no prazo de 30 (trinta) dias suspenderá a exigibilidade da parcela controvertida do crédito tributário até a decisão administrativa de primeira instância, sem prejuízo do pagamento da parte não impugnada.
+
+
+§ 9º
+
+Constatado erro material na localização ou no enquadramento cadastral, a Administração promoverá sua correção mediante decisão fundamentada, observadas as regras relativas à revisão do lançamento e os efeitos temporais previstos na legislação tributária.
+
+
+### TÍTULO II — DOS FATORES DE VALORIZAÇÃO E DESVALORIZAÇÃO
+
+
+Art. 7º.
+
+Na apuração do valor venal territorial serão aplicados exclusivamente os fatores de correção previstos no Anexo II desta Lei Complementar, conforme as características efetivamente constatadas no imóvel:
+
+
+I –
+
+Fator de Topografia - FT;
+
+
+II –
+
+Fator de Pedologia - FP;
+
+
+III –
+
+Fator de Situação - FS;
+
+
+IV –
+
+Fator de Melhorias Públicas - FMP;
+
+
+V –
+
+Fator de Profundidade - Fpdl;
+
+
+VI –
+
+Fator de Testada - Ftest;
+
+
+VII –
+
+Fator de Gleba - FG, quando cabível.
+
+
+Art. 8º.
+
+Os fatores de correção serão aplicados de forma objetiva e uniforme aos imóveis que apresentem características equivalentes, vedada:
+
+
+I –
+
+a aplicação de fator não previsto nesta Lei Complementar;
+
+
+II –
+
+a aplicação duplicada de fatores sobre a mesma característica;
+
+
+III –
+
+a aplicação cumulativa de percentuais previstos no corpo desta Lei com coeficientes do Anexo II referentes ao mesmo elemento de valorização ou desvalorização.
+
+
+Art. 9º.
+
+Os fatores de correção poderão ser aplicados ou revistos de ofício pela Administração Tributária ou mediante requerimento do contribuinte, desde que fundamentados em:
+
+
+I –
+
+vistoria técnica;
+
+
+II –
+
+levantamento cadastral ou georreferenciado;
+
+
+III –
+
+imagens aéreas, fotografias ou documentos técnicos;
+
+
+IV –
+
+laudo ou parecer emitido por servidor ou profissional habilitado;
+
+
+V –
+
+outros elementos idôneos que permitam comprovar as características do imóvel.
+
+
+Art. 10.
+
+A inclusão, exclusão ou alteração de fator de correção que produza aumento do valor venal deverá ser motivada e comunicada ao contribuinte por ocasião do lançamento, assegurado o direito de impugnação administrativa.
+
+
+Art. 11.
+
+Para fins de aplicação do Fator de Gleba - FG, considera-se gleba o imóvel urbano com área total igual ou superior a 1.000 m² (mil metros quadrados), independentemente da existência de edificação, observado o enquadramento cadastral vigente.
+
+
+§ 1º
+
+O Fator de Gleba incidirá exclusivamente sobre o valor venal do terreno, não alcançando o valor da edificação.
+
+
+§ 2º
+
+Para a primeira aplicação desta Lei Complementar, será preservado o Fator de Gleba já registrado no Cadastro Imobiliário Municipal, vedada sua retirada automática exclusivamente em razão da entrada em vigor da nova Planta Genérica de Valores.
+
+
+Art. 12.
+
+O Fator de Gleba - FG será aplicado de acordo com as faixas de área e os respectivos coeficientes estabelecidos no Anexo II desta Lei Complementar.
+
+
+Parágrafo único
+
+O Fator de Gleba incidirá exclusivamente sobre o valor venal do terreno, sendo considerado FG = 1,00 para os imóveis que não atendam aos requisitos estabelecidos no art. 11.
+
+
+Art. 13.
+
+As restrições ambientais, áreas sujeitas à inundação, terrenos encravados, lotes de fundo, declividades acentuadas, condições do solo e profundidade excessiva serão consideradas exclusivamente mediante aplicação dos fatores correspondentes previstos no Anexo II.
+
+
+Parágrafo único
+
+A restrição ambiental não implicará, por si só, exclusão automática da área da incidência do IPTU, devendo sua repercussão econômica ser apurada por meio dos fatores de correção e das limitações efetivamente incidentes sobre o imóvel.
+
+
+Art. 14.
+
+A fórmula de cálculo do valor venal territorial e os coeficientes dos fatores de correção constarão do Anexo II, vedada sua alteração por decreto, ressalvada a atualização monetária dos valores unitários autorizada pelo art. 5º.
+
+
+### TÍTULO III — DAS ALÍQUOTAS E DA INTEGRAÇÃO CADASTRAL
+
+
+Art. 15.
+
+O valor venal do imóvel edificado será obtido pela soma do valor venal do terreno com o valor venal da edificação, observado o Fator de Conservação constante do Anexo III.
+
+
+Parágrafo único
+
+O tipo, o padrão construtivo e o estado de conservação serão determinados conforme as características físicas e a destinação efetivamente constatadas no imóvel, observados os critérios estabelecidos no Anexo III.
+
+
+Art. 16.
+
+A idade da construção, isoladamente considerada, não acarretará redução ou aumento do valor venal da edificação, devendo sua condição física ser refletida pelo Fator de Conservação.
+
+
+Parágrafo único
+
+Reformas destinadas exclusivamente à manutenção, conservação ou substituição de materiais deteriorados não acarretarão reclassificação automática do padrão construtivo.
+
+
+Art. 17.
+
+Ficam estabelecidas as seguintes alíquotas do Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU:
+
+
+I –
+
+1% (um por cento) sobre o valor venal dos imóveis edificados;
+
+
+II –
+
+2% (dois por cento) sobre o valor venal dos terrenos não edificados.
+
+
+Art. 18.
+
+Nos edifícios e condomínios verticais, o valor venal de cada unidade imobiliária autônoma será composto:
+
+
+I –
+
+pelo valor venal da respectiva área construída privativa;
+
+
+II –
+
+pelo valor correspondente às áreas construídas de uso comum, distribuído de acordo com a fração ideal da unidade;
+
+
+III –
+
+pela parcela do valor venal do terreno correspondente à fração ideal atribuída à unidade.
+
+
+Parágrafo único
+
+Não será aplicado acréscimo genérico em razão exclusiva de o imóvel integrar edifício ou condomínio vertical, devendo a avaliação observar as áreas, o padrão construtivo, o estado de conservação e a fração ideal constantes do Cadastro Imobiliário Municipal.
+
+
+Art. 19.
+
+O Município poderá instituir, mediante lei específica:
+
+
+I –
+
+progressividade fiscal do IPTU em razão do valor do imóvel;
+
+
+II –
+
+alíquotas diferenciadas de acordo com a localização e o uso do imóvel;
+
+
+III –
+
+progressividade extrafiscal do IPTU no tempo, destinada a assegurar o cumprimento da função social da propriedade urbana.
+
+
+§ 1º
+
+A progressividade fiscal e as alíquotas diferenciadas previstas nos incisos I e II deverão observar:
+
+
+I –
+
+o art. 156, § 1º, da Constituição Federal;
+
+
+II –
+
+a capacidade contributiva;
+
+
+III –
+
+a isonomia entre imóveis em situações equivalentes;
+
+
+IV –
+
+a razoabilidade;
+
+
+V –
+
+a vedação ao efeito confiscatório;
+
+
+VI –
+
+os critérios e faixas expressamente estabelecidos em lei.
+
+
+§ 2º
+
+A progressividade extrafiscal no tempo somente poderá ser aplicada:
+
+
+I –
+
+em área incluída no Plano Diretor;
+
+
+II –
+
+após a edição de lei municipal específica para a área;
+
+
+III –
+
+ao proprietário de solo urbano não edificado, subutilizado ou não utilizado;
+
+
+IV –
+
+depois de regularmente exigido o parcelamento, a edificação ou a utilização compulsórios;
+
+
+V –
+
+após o descumprimento dos prazos e condições estabelecidos na legislação urbanística;
+
+
+VI –
+
+mediante procedimento administrativo e notificação do proprietário, observados o art. 182, § 4º, da Constituição Federal e a Lei Federal nº 10.257, de 10 de julho de 2001 - Estatuto da Cidade.
+
+
+§ 3º
+
+Na hipótese de progressividade extrafiscal, a alíquota poderá ser majorada anualmente pelo prazo de 5 (cinco) anos consecutivos, não podendo exceder a duas vezes o valor referente ao exercício anterior, respeitada a alíquota máxima de 15% (quinze por cento).
+
+
+§ 4º
+
+Caso a obrigação de parcelar, edificar ou utilizar não seja cumprida no prazo previsto, o Município poderá manter a cobrança pela alíquota máxima até o cumprimento da obrigação, assegurada a adoção das demais providências previstas no Estatuto da Cidade.
+
+
+§ 5º
+
+É vedada a concessão de isenção ou anistia relativa à tributação progressiva no tempo destinada ao cumprimento da função social da propriedade urbana.
+
+
+§ 6º
+
+A simples condição de terreno não edificado, isoladamente considerada, não autoriza a aplicação da progressividade extrafiscal no tempo sem o cumprimento prévio dos requisitos constitucionais, urbanísticos e procedimentais previstos neste artigo.
+
+
+§ 7º
+
+A alíquota territorial ordinária de 2% prevista no art. 17 não se confunde com a progressividade extrafiscal no tempo disciplinada neste artigo.
+
+
+Art. 20.
+
+Os fatores de correção, os padrões construtivos e os critérios de localização serão aplicados de maneira objetiva, uniforme e impessoal aos imóveis que apresentem características equivalentes, observadas as disposições desta Lei Complementar e de seus Anexos.
+
+
+§ 1º
+
+É vedada a adoção de critérios seletivos, discricionários ou não previstos nesta Lei Complementar que resultem em tratamento desigual entre imóveis em situações equivalentes.
+
+
+§ 2º
+
+A Administração Tributária poderá corrigir, de ofício ou mediante requerimento do interessado, erros ou divergências cadastrais relacionados à área, localização, destinação, padrão construtivo, estado de conservação ou fatores de correção do imóvel.
+
+
+§ 3º
+
+A correção cadastral que resulte em aumento do valor venal deverá ser fundamentada em elementos técnicos idôneos e comunicada ao contribuinte por ocasião do lançamento, assegurado o direito de impugnação administrativa.
+
+
+§ 4º
+
+A utilização de informações provenientes do CIB, do SINTER, de cartórios, de imagens aéreas, de levantamentos georreferenciados ou de outros bancos de dados não dispensa a validação pela Administração Municipal quando puder resultar em alteração do lançamento tributário.
+
+
+Art. 21.
+
+O Município promoverá a integração do Cadastro Imobiliário Municipal com o Cadastro Imobiliário Brasileiro - CIB e com o Sistema Nacional de Gestão de Informações Territoriais - SINTER, observadas a legislação federal, as normas expedidas pela Receita Federal do Brasil e as competências tributárias municipais.
+
+
+§ 1º
+
+A integração de que trata o caput compreenderá:
+
+
+I –
+
+a vinculação da inscrição imobiliária municipal ao código de identificação atribuído ao imóvel no CIB, sem prejuízo da manutenção do código cadastral próprio do Município;
+
+
+II –
+
+a adequação progressiva dos campos, conceitos, formatos e padrões do Cadastro Imobiliário Municipal aos requisitos nacionais de interoperabilidade;
+
+
+III –
+
+a transmissão das informações imobiliárias municipais nos formatos, prazos e condições estabelecidos pela legislação federal;
+
+
+IV –
+
+a recepção e utilização de informações cadastrais, registrais, fiscais e geoespaciais provenientes do CIB, do SINTER e das demais bases públicas legalmente acessíveis;
+
+
+V –
+
+a celebração de convênios, acordos de cooperação e instrumentos congêneres com a União, o Estado, cartórios de registro de imóveis e outros entes ou órgãos públicos.
+
+
+§ 2º
+
+As informações provenientes do CIB, do SINTER, dos cartórios e de outras bases externas constituirão elementos de prova e de atualização cadastral, mas não produzirão automaticamente alteração do lançamento tributário municipal quando divergirem dos dados existentes no Cadastro Imobiliário Municipal.
+
+
+§ 3º
+
+Quando a informação externa puder resultar em alteração da titularidade cadastral, área, destinação, padrão construtivo, valor venal, sujeito passivo ou responsabilidade tributária, deverá ser submetida à validação administrativa, com registro da fonte e da data da informação.
+
+
+§ 4º
+
+A alteração cadastral que resulte em aumento do valor venal ou do tributo deverá ser motivada e comunicada ao contribuinte por ocasião do lançamento, assegurado o direito de impugnação administrativa.
+
+
+§ 5º
+
+O compartilhamento, a recepção, o tratamento e a divulgação de informações observarão o sigilo fiscal, a proteção de dados pessoais, a segurança da informação e as restrições de acesso previstas na legislação.
+
+
+§ 6º
+
+O Poder Executivo poderá regulamentar os procedimentos técnicos e operacionais necessários à integração, vedada a modificação, por decreto, dos elementos da obrigação tributária reservados à lei.
+
+
+### TÍTULO IV — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 22.
+
+O Poder Executivo regulamentará os procedimentos necessários à execução desta Lei Complementar, especialmente:
+
+
+I –
+
+a operacionalização da Planta Genérica de Valores e de seus Anexos;
+
+
+II –
+
+os procedimentos de inscrição, atualização, revisão e correção do Cadastro Imobiliário Municipal;
+
+
+III –
+
+os procedimentos de vistoria, avaliação, enquadramento e impugnação dos valores venais;
+
+
+IV –
+
+a atualização exclusivamente monetária dos valores unitários, na forma do art. 5º.;
+
+
+V –
+
+a integração operacional do Cadastro Imobiliário Municipal com o Cadastro Imobiliário Brasileiro - CIB e com o Sistema Nacional de Gestão de Informações Territoriais - SINTER;
+
+
+VI –
+
+a organização e o funcionamento da Comissão Técnica e da Junta de Revisão da PGV.
+
+
+§ 1º
+
+A regulamentação não poderá criar ou extinguir zonas fiscais, alterar valores unitários acima da correção monetária autorizada, modificar fatores, coeficientes, padrões construtivos, alíquotas, fórmulas de cálculo ou critérios de avaliação estabelecidos nesta Lei Complementar.
+
+
+§ 2º
+
+Os mapas, setores, quadras, logradouros, faces de quadra e demais elementos georreferenciados poderão ser organizados e atualizados por ato técnico do Poder Executivo, desde que observadas as regiões, os bairros, as zonas fiscais e os valores definidos nesta Lei Complementar.
+
+
+§ 3º
+
+A Planta Genérica de Valores, seus Anexos e os decretos de atualização monetária serão disponibilizados no portal eletrônico oficial do Município, em formato que assegure sua consulta e compreensão pelos contribuintes.
+
+
+§ 4º
+
+Anualmente, o Poder Executivo divulgará relatório contendo o índice de correção monetária aplicado, o período de referência, a memória de cálculo e o impacto arrecadatório estimado da atualização.
+
+
+§ 5º
+
+A divulgação de mapas, tabelas, relatórios e dados cadastrais deverá observar o sigilo fiscal, a proteção de dados pessoais e as restrições de acesso previstas na legislação, vedada a publicação de informações que permitam identificar a situação fiscal ou patrimonial individual do contribuinte.
+
+
+§ 6º
+
+Os dados destinados à transparência pública deverão ser apresentados de forma agregada ou anonimizada, ressalvadas as informações que, por sua natureza, sejam legalmente públicas.
+
+
+Art. 23.
+
+A mesma variação monetária não poderá ser aplicada mais de uma vez sobre os valores unitários da Planta Genérica de Valores.
+
+
+§ 1º
+
+Os valores constantes dos Anexos I e III serão considerados valores iniciais já consolidados para o primeiro exercício de aplicação desta Lei Complementar.
+
+
+§ 2º
+
+É vedada a aplicação, no primeiro exercício, de correção monetária relativa a período já considerado na formação dos valores unitários constantes dos Anexos I e III.
+
+
+§ 3º
+
+A atualização anual prevista no art. 5º. incidirá somente sobre a variação monetária posterior ao período considerado na formação dos valores iniciais da PGV.
+
+
+§ 4º
+
+O decreto anual deverá demonstrar que não houve sobreposição de períodos, duplicidade de correção ou aplicação adicional do acréscimo previsto no art. 24.
+
+
+Art. 24.
+
+Os valores unitários de referência do metro quadrado dos terrenos e das edificações constantes dos Anexos I e III constituem a base inicial da Planta Genérica de Valores do Município.
+
+
+§ 1º
+
+Os valores das Zonas 1 - Rosa, 2 - Amarela, 3 - Azul e 4 - Verde, das áreas especiais expressamente relacionadas no Anexo I e das edificações constantes do Anexo III correspondem aos valores vigentes anteriormente à instituição desta Lei Complementar, acrescidos de 3% (três por cento).
+
+
+§ 2º
+
+Os valores de R$ 14,00 (quatorze reais) por metro quadrado para a Zona 5 - Vermelha e de R$ 16,00 (dezesseis reais) por metro quadrado para a Zona 6 - Roxa constituem valores unitários próprios fixados por esta Lei Complementar e não estão sujeitos ao acréscimo previsto no § 1º.
+
+
+§ 3º
+
+Os valores constantes dos Anexos I e III já incorporam os acréscimos ou valores próprios previstos neste artigo, vedada a aplicação adicional de 3% (três por cento) por ocasião do lançamento do IPTU.
+
+
+§ 4º
+
+Os valores unitários serão aplicados a partir do exercício financeiro estabelecido no art. 29 desta Lei Complementar.
+
+
+§ 5º
+
+A partir do exercício financeiro seguinte ao da primeira aplicação desta Lei Complementar, os valores unitários serão atualizados anualmente, exclusivamente por correção monetária, na forma do art. 5º.
+
+
+§ 6º
+
+A atualização monetária não poderá alterar zonas fiscais, bairros, valores em termos reais, padrões construtivos, fatores de correção, fórmulas ou critérios de avaliação, matérias cuja modificação dependerá de lei.
+
+
+Art. 25.
+
+O Imposto sobre a Propriedade Predial e Territorial Urbana - IPTU poderá ser pago em cota única ou em até 10 (dez) parcelas mensais, iguais e sucessivas, observadas as datas de vencimento estabelecidas em decreto do Poder Executivo.
+
+
+§ 1º
+
+O valor de cada parcela não poderá ser inferior a R$ 50,00 (cinquenta reais), ressalvada a hipótese prevista no § 3º.
+
+
+§ 2º
+
+Quando o valor total do crédito tributário não comportar o parcelamento em 10 (dez) parcelas de, no mínimo, R$ 50,00 (cinquenta reais) cada, o número de parcelas será reduzido automaticamente para a maior quantidade possível que respeite o valor mínimo estabelecido no § 1º.
+
+
+§ 3º
+
+Quando o valor total do crédito tributário for inferior a R$ 50,00 (cinquenta reais), o pagamento será efetuado em cota única.
+
+
+§ 4º
+
+Eventual diferença decorrente de arredondamento será incluída na última parcela.
+
+
+§ 5º
+
+O decreto anual de lançamento estabelecerá o calendário de vencimentos, as formas de pagamento e os demais procedimentos operacionais, vedada a alteração do número máximo de parcelas e do valor mínimo fixados neste artigo.
+
+
+§ 6º
+
+Poderá ser concedido desconto para pagamento em cota única, de até 20% (vinte por cento), observado o percentual e o prazo estabelecidos anualmente em decreto do Poder Executivo.
+
+
+Art. 26.
+
+Fica instituída a Comissão Técnica da Planta Genérica de Valores - PGV, de caráter consultivo e permanente, destinada a acompanhar a aplicação, a atualização monetária e as revisões gerais da Planta Genérica de Valores do Município.
+
+
+§ 1º
+
+A Comissão Técnica será composta por, no mínimo, 3 (três) membros titulares e respectivos suplentes, designados por ato do Poder Executivo, assegurada a participação de servidores ou representantes das seguintes áreas:
+
+
+I –
+
+Fazenda, Finanças ou Tributação;
+
+
+II –
+
+Cadastro Imobiliário, Engenharia, Obras, Planejamento Urbano ou Geoprocessamento;
+
+
+III –
+
+Procuradoria Jurídica ou órgão municipal de assessoramento jurídico.
+
+
+§ 2º
+
+Compete à Comissão Técnica:
+
+
+I –
+
+acompanhar a aplicação dos valores, fatores, padrões e fórmulas estabelecidos nesta Lei Complementar;
+
+
+II –
+
+verificar a memória de cálculo da atualização monetária anual;
+
+
+III –
+
+analisar os estudos técnicos elaborados para revisão geral da PGV;
+
+
+IV –
+
+avaliar amostras, dados de mercado, critérios cadastrais, mapas, setores, quadras, logradouros e demais elementos técnicos;
+
+
+V –
+
+emitir parecer técnico sobre propostas de alteração das zonas fiscais, dos valores unitários, dos fatores de correção, dos padrões construtivos ou da metodologia de avaliação;
+
+
+VI –
+
+propor medidas de aperfeiçoamento do Cadastro Imobiliário Municipal e de integração com o CIB e o SINTER;
+
+
+VII –
+
+elaborar ou validar relatórios técnicos relacionados à PGV;
+
+
+VIII –
+
+exercer outras atribuições de natureza técnica previstas em regulamento, desde que compatíveis com esta Lei Complementar.
+
+
+§ 3º
+
+Os pareceres da Comissão Técnica terão caráter opinativo e não poderão, isoladamente, criar ou alterar obrigação tributária, valores unitários, zonas fiscais, fatores, padrões construtivos ou fórmulas de cálculo.
+
+
+§ 4º
+
+A participação na Comissão será considerada serviço público relevante e não será remunerada, ressalvado o exercício das atribuições próprias do cargo ou função do servidor.
+
+
+§ 5º
+
+Fica instituída a Junta de Revisão da Planta Genérica de Valores, órgão administrativo colegiado competente para julgar, em segunda instância, os recursos interpostos contra decisões relativas:
+
+
+I –
+
+ao valor venal do imóvel;
+
+
+II –
+
+à zona fiscal ou área especial atribuída ao imóvel;
+
+
+III –
+
+à área territorial ou construída utilizada no lançamento;
+
+
+IV –
+
+ao tipo e ao padrão construtivo;
+
+
+V –
+
+ao estado de conservação da edificação;
+
+
+VI –
+
+aos fatores de correção aplicados;
+
+
+VII –
+
+aos demais elementos cadastrais que interfiram diretamente na apuração do IPTU.
+
+
+§ 6º
+
+A composição, o funcionamento, os mandatos, os impedimentos, as regras de convocação e o procedimento de julgamento da Junta de Revisão serão disciplinados em regulamento, assegurados:
+
+
+I –
+
+o contraditório e a ampla defesa;
+
+
+II –
+
+a motivação das decisões;
+
+
+III –
+
+o acesso do interessado aos elementos cadastrais e às memórias de cálculo;
+
+
+IV –
+
+a vedação à participação, no julgamento do recurso, de agente que tenha proferido a decisão recorrida ou atuado diretamente no procedimento que lhe deu origem;
+
+
+V –
+
+o prazo razoável para julgamento.
+
+
+§ 7º
+
+A impugnação será decidida, em primeira instância, pela autoridade administrativa competente definida na legislação tributária municipal, cabendo recurso à Junta de Revisão nos prazos e condições estabelecidos em regulamento.
+
+
+§ 8º
+
+A apresentação de impugnação ou recurso não dispensará o pagamento das parcelas vincendas não controvertidas e produzirá os efeitos estabelecidos na legislação tributária municipal.
+
+
+§ 9º
+
+A Comissão Técnica e a Junta de Revisão poderão solicitar diligências, vistorias, documentos, fotografias, levantamentos cadastrais, pareceres e outros elementos necessários à análise técnica ou ao julgamento do processo.
+
+
+Art. 27.
+
+A Planta Genérica de Valores será submetida à revisão geral, no mínimo, a cada 4 (quatro) anos, com o objetivo de verificar a adequação dos valores unitários, das zonas fiscais, dos fatores de correção e dos critérios de avaliação à realidade imobiliária e urbana do Município.
+
+
+§ 1º
+
+A revisão geral dependerá de lei e será fundamentada em estudo técnico elaborado de acordo com os critérios previstos no item 4 do Anexo IV.
+
+
+§ 2º
+
+O estudo técnico deverá contemplar, na medida da disponibilidade dos dados municipais:
+
+
+I –
+
+levantamento de valores praticados no mercado imobiliário local;
+
+
+II –
+
+análise das características de localização, infraestrutura, uso e ocupação das diferentes regiões;
+
+
+III –
+
+avaliação da adequação das zonas fiscais e dos valores unitários;
+
+
+IV –
+
+análise dos fatores de valorização e desvalorização;
+
+
+V –
+
+estimativa do impacto da revisão sobre os contribuintes e sobre a arrecadação municipal;
+
+
+VI –
+
+identificação das limitações, premissas e fontes de informação utilizadas.
+
+
+§ 3º
+
+A proposta de revisão geral será submetida à consulta ou audiência pública antes de seu encaminhamento definitivo ao Poder Legislativo, assegurada a divulgação prévia do estudo técnico e das principais alterações propostas.
+
+
+§ 4º
+
+A revisão deverá observar os princípios da legalidade, da impessoalidade, da capacidade contributiva, da transparência, da justiça tributária, da razoabilidade e da vedação ao tratamento desigual entre imóveis em situações equivalentes.
+
+
+§ 5º
+
+Quando a revisão geral puder produzir variação relevante e generalizada dos valores venais, o projeto de lei poderá estabelecer regras de transição, limitadores ou implantação gradual, desde que objetivos, gerais e aplicáveis de maneira uniforme.
+
+
+§ 6º
+
+A atualização exclusivamente monetária realizada anualmente na forma do art. 5º. não constitui revisão geral da PGV e independe dos procedimentos previstos neste artigo.
+
+
+§ 7º
+
+O decurso do prazo previsto no caput sem a realização de revisão geral não impedirá a atualização exclusivamente monetária dos valores unitários, nem autorizará alteração real da base de cálculo por decreto.
+
+
+Art. 28.
+
+A partir da produção dos efeitos desta Lei Complementar, ficam revogados:
+
+
+I –
+
+os arts. 11, 12, 13, 14, 39, 40, 41 e 42 da Lei Complementar Municipal nº 83, de 30 de dezembro de 2014;
+
+
+II –
+
+a Lei Municipal nº 940, de 11 de setembro de 1985;
+
+
+III –
+
+a Lei Municipal nº 1.722, de 27 de dezembro de 2001.
+
+
+§ 1º
+
+A partir da produção dos efeitos desta Lei Complementar, cessará a aplicação dos decretos e demais atos infralegais que tenham fixado valores unitários, fatores, padrões construtivos, fórmulas ou metodologias incompatíveis com as disposições desta Lei e de seus Anexos.
+
+
+§ 2º
+
+Permanecem regidos pela legislação vigente à época de sua constituição os lançamentos tributários relativos aos exercícios anteriores à produção dos efeitos desta Lei Complementar.
+
+
+§ 3º
+
+As referências, constantes da legislação municipal, aos dispositivos revogados pelo caput serão interpretadas, quando compatíveis, como referências às disposições correspondentes desta Lei Complementar.
+
+
+§ 4º
+
+A revogação prevista neste artigo não prejudica os atos cadastrais regularmente praticados, os créditos tributários já constituídos e os procedimentos administrativos relativos a exercícios anteriores.
+
+
+Art. 29.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+§ 1º
+
+Os valores unitários, as zonas fiscais, os fatores de correção, os padrões construtivos, as fórmulas de cálculo e as demais disposições que interfiram na apuração do valor venal e no lançamento do IPTU produzirão efeitos a partir de 1º de janeiro de 2027, desde que esta Lei Complementar seja publicada até 31 de dezembro de 2026, observado o princípio da anterioridade anual previsto no art. 150, inciso III, alínea "b", da Constituição Federal.
+
+
+§ 2º
+
+Caso esta Lei Complementar seja publicada após 31 de dezembro de 2026, as disposições referidas no § 1º produzirão efeitos somente a partir do primeiro dia do exercício financeiro seguinte ao de sua publicação.
+
+
+§ 3º
+
+As disposições de natureza exclusivamente administrativa, cadastral, procedimental, organizacional ou relativas à integração com o CIB e o SINTER terão aplicação imediata, desde que não resultem em aumento de tributo referente ao exercício em curso.
+
+
+§ 4º
+
+A atualização da base de cálculo do IPTU observará a exceção à anterioridade nonagesimal prevista no art. 150, § 1º, da Constituição Federal, sem prejuízo da obrigatoriedade de observância da anterioridade anual.
+
+
+Bofete, em 28 de setembro de 2026.  
+  
+EUGENIO CARLOS ALVES  
+PREFEITO MUNICIPAL
+
+
+## Anexo I — PLANTA GENÉRICA DE VALORES (PGV)
+
+TABELA DE VALORES POR METRO QUADRADO (Vm²) - TERRENOS
+
+
+<table><tbody><tr><td>Código</td><td>Zona fiscal</td><td>Área de referência</td><td>Valor unitário de referência por m²</td></tr><tr><td>Z1</td><td>Rosa</td><td>Praça da Matriz, Centro</td><td>R$ 81,18</td></tr><tr><td>Z2</td><td>Amarela</td><td>Segundo conjunto de quadras</td><td>R$ 37,70</td></tr><tr><td>Z3</td><td>Azul</td><td>Terceiro conjunto de quadras</td><td>R$ 21,82</td></tr><tr><td>Z4</td><td>Verde</td><td>Quarto conjunto de quadras</td><td>R$ 12,40</td></tr><tr><td>Z5</td><td>Vermelha</td><td>Bairro ou Distrito de São Roque Novo</td><td>R$ 14,00</td></tr><tr><td>Z6</td><td>Roxa</td><td>CDHU I, CDHU II, CDHU III, Siriemas, Jardim Cordeiro e Vila Nova</td><td>R$ 16,00</td></tr></tbody></table>
+
+Distritos, loteamentos e áreas especiais com valores unitários próprios.
+
+<table><tbody><tr><td>Distrito, loteamento ou área de expansão urbana</td><td>Valor unitário de referência por m²</td></tr><tr><td>Distrito de Santo Inácio</td><td>R$ 8,98</td></tr><tr><td>Recanto dos Pássaros I e II</td><td>R$ 8,98</td></tr><tr><td>Alpes do Castelo I e II</td><td>R$ 18,05</td></tr><tr><td>Luciagro Agrícola</td><td>R$ 39,25</td></tr><tr><td>Jardim Mont`Cristo</td><td>R$ 39,25</td></tr><tr><td>Portal das Colinas</td><td>R$ 39,25</td></tr><tr><td>Estância Ouro Verde</td><td>R$ 39,25</td></tr></tbody></table>
+
+Notas do Anexo I  
+  
+1. Os valores constantes deste Anexo constituem os valores unitários de referência do metro quadrado dos terrenos e integram a base inicial da Planta Genérica de Valores do Município.  
+2. Os valores das Zonas 1 - Rosa, 2 - Amarela, 3 - Azul e 4 - Verde, bem como das áreas especiais relacionadas neste Anexo, já incorporam o acréscimo de 3% (três por cento) previsto no art. 24.  
+3. Os valores de R$ 14,00 (quatorze reais) para a Zona 5 - Vermelha e de R$ 16,00 (dezesseis reais) para a Zona 6 - Roxa constituem valores unitários próprios fixados por esta Lei Complementar.  
+4. É vedada a aplicação de novo acréscimo de 3% (três por cento) sobre os valores constantes deste Anexo por ocasião do primeiro lançamento realizado com fundamento nesta Lei Complementar.  
+5. A partir do exercício financeiro seguinte ao da primeira aplicação desta Lei Complementar, os valores serão atualizados anualmente, exclusivamente por correção monetária, na forma do art. 5º.  
+6. A delimitação cartográfica e a vinculação das inscrições imobiliárias às respectivas zonas fiscais serão mantidas pelo Cadastro Imobiliário Municipal, observadas as regiões, bairros, códigos e valores estabelecidos nesta Lei Complementar.  
+7. A criação ou extinção de zona fiscal, a alteração de seu valor unitário e a transferência de bairro ou região para zona diversa dependerão de lei.
+
+
+## Anexo II — FATORES DE CORREÇÃO DO VALOR TERRITORIAL (FCT)
+
+
+1\. Fator de Topografia (FT)
+
+<table><tbody><tr><td>Situação do terreno</td><td>FT</td></tr><tr><td>Plano</td><td>1,00</td></tr><tr><td>Leve declive</td><td>0,95</td></tr><tr><td>Declive acentuado</td><td>0,80</td></tr><tr><td>Acidentado / Inundável</td><td>0,60</td></tr></tbody></table>
+
+2\. Fator de Pedologia (FP)
+
+<table><tbody><tr><td>Característica do solo</td><td>FP</td></tr><tr><td>Solo firme / seco</td><td>1,00</td></tr><tr><td>Solo argiloso</td><td>0,90</td></tr><tr><td>Solo arenoso</td><td>0,90</td></tr><tr><td>Solo rochoso</td><td>0,85</td></tr><tr><td>Solo alagadiço</td><td>0,75</td></tr></tbody></table>
+
+3\. Fator de Situação (FS)
+
+<table><tbody><tr><td>Situação do lote</td><td>FS</td></tr><tr><td>Terreno de esquina (uso comercial/misto)</td><td>1,10</td></tr><tr><td>Terreno de meio de quadra</td><td>1,00</td></tr><tr><td>Terreno encravado (sem acesso direto à via pública)</td><td>0,75</td></tr><tr><td>Lote de fundo com vão de acesso</td><td>0,90</td></tr></tbody></table>
+
+4\. Fator de Melhorias Públicas (FMP)
+
+<table><tbody><tr><td>Infraestrutura disponível</td><td>FMP</td></tr><tr><td>Asfalto, água, esgoto, drenagem e iluminação pública</td><td>1,00</td></tr><tr><td>Apenas 3 (três) melhorias públicas</td><td>0,90</td></tr><tr><td>Apenas 2 (duas) melhorias públicas</td><td>0,85</td></tr><tr><td>Apenas 1 (uma) melhoria pública</td><td>0,80</td></tr><tr><td>Nenhuma melhoria pública</td><td>0,70</td></tr></tbody></table>
+
+5\. Fator de Profundidade (Fpdl) e Fator de Testada (Ftest)
+
+<table><tbody><tr><td>Relação profundidade / testada</td><td>Fpdl</td></tr><tr><td>até 1,5</td><td>1,00</td></tr><tr><td>de 1,5 a 3,0</td><td>0,95</td></tr><tr><td>acima de 3,0</td><td>0,90</td></tr></tbody></table>
+
+<table><tbody><tr><td>Testada (m)</td><td>Ftest</td></tr><tr><td>até 10</td><td>0,90</td></tr><tr><td>de 10 a 20</td><td>1,00</td></tr><tr><td>acima de 20</td><td>1,00</td></tr></tbody></table>
+
+6\. Fator de Gleba - FG  
+  
+O Fator de Gleba será aplicado aos imóveis que atendam aos requisitos estabelecidos nos arts. 11 e 12 desta Lei Complementar, incidindo exclusivamente sobre o valor venal do terreno.
+
+<table><tbody><tr><td>Área total do imóvel</td><td>FG</td></tr><tr><td>De 1.000 m² até 2.000 m²</td><td>0,70</td></tr><tr><td>Acima de 2.000 m² até 3.000 m²</td><td>0,65</td></tr><tr><td>Acima de 3.000 m² até 4.000 m²</td><td>0,60</td></tr><tr><td>Acima de 4.000 m² até 5.000 m²</td><td>0,50</td></tr><tr><td>Acima de 5.000 m² até 7.500 m²</td><td>0,40</td></tr><tr><td>Acima de 7.500 m² até 10.000 m²</td><td>0,30</td></tr><tr><td>Acima de 10.000 m² até 15.000 m²</td><td>0,25</td></tr><tr><td>Acima de 15.000 m² até 20.000 m²</td><td>0,20</td></tr><tr><td>Acima de 20.000 m²</td><td>0,15</td></tr></tbody></table>
+
+Para os imóveis que não atendam aos requisitos de enquadramento como gleba, será considerado:  
+  
+FG = 1,00  
+  
+O Fator de Gleba será aplicado somente ao cálculo do valor venal territorial, não incidindo sobre o valor venal das edificações existentes no imóvel.  
+  
+7. Fórmula de cálculo do valor venal do terreno  
+  
+O valor venal do terreno será calculado pela seguinte fórmula:  
+  
+VT = AT × VU × FT × FP × FS × FMP × Fpdl × Ftest × FG  
+  
+Em que:  
+  
+VT = valor venal do terreno;  
+  
+AT = área total do terreno ou, quando cabível, a área correspondente à fração ideal, expressa em metros quadrados;  
+  
+VU = valor unitário de referência do metro quadrado do terreno, conforme a zona fiscal ou área especial em que estiver localizado o imóvel, nos termos do Anexo I;  
+  
+FT = Fator de Topografia;  
+  
+FP = Fator de Pedologia;  
+  
+FS = Fator de Situação;  
+  
+FMP = Fator de Melhorias Públicas;  
+  
+Fpdl = Fator de Profundidade;  
+  
+Ftest = Fator de Testada;  
+  
+FG = Fator de Gleba.  
+  
+8. Regras de aplicação dos fatores  
+1. Cada fator será aplicado conforme as características efetivamente constatadas no imóvel e os coeficientes previstos neste Anexo.  
+2. Quando determinado fator não incidir sobre o imóvel ou não houver característica especial que justifique sua aplicação, será utilizado o coeficiente neutro de 1,00.  
+3. É vedada a aplicação duplicada de fatores relativos à mesma característica física, territorial, ambiental ou cadastral.  
+4. A inclusão, exclusão ou alteração de fator que resulte em aumento do valor venal deverá ser fundamentada em procedimento cadastral e comunicada ao contribuinte por ocasião do lançamento, assegurado o direito de impugnação.  
+5. Para a primeira aplicação desta Lei Complementar, será preservado o Fator de Gleba já registrado no Cadastro Imobiliário Municipal, salvo quando comprovado erro cadastral mediante procedimento administrativo fundamentado.  
+6. A existência de edificação não impede a aplicação do Fator de Gleba sobre a parcela territorial do valor venal, permanecendo a edificação sujeita exclusivamente aos critérios e fatores previstos no Anexo III.
+
+
+## Anexo III — VALORES UNITÁRIOS DAS EDIFICAÇÕES E FATOR DE CONSERVAÇÃO
+
+
+A. Valores unitários de referência do metro quadrado das edificações  
+  
+A.1 - Edificações residenciais
+
+<table><tbody><tr><td>Tipo de construção</td><td>Padrão construtivo</td><td>Valor unitário de referência - Vm²E</td></tr><tr><td>Residencial</td><td>Precário</td><td>R$ 88,43</td></tr><tr><td>Residencial</td><td>Popular</td><td>R$ 214,52</td></tr><tr><td>Residencial</td><td>Médio</td><td>R$ 324,26</td></tr><tr><td>Residencial</td><td>Fino</td><td>R$ 565,18</td></tr></tbody></table>
+
+A.2 - Edificações comerciais, de prestação de serviços e industriais
+
+<table><tbody><tr><td>Tipo de construção</td><td>Padrão construtivo</td><td>Valor unitário de referência - Vm²E</td></tr><tr><td>Comercial, prestação de serviços ou industrial</td><td>Precário</td><td>R$ 59,75</td></tr><tr><td>Comercial, prestação de serviços ou industrial</td><td>Popular</td><td>R$ 102,73</td></tr><tr><td>Comercial, prestação de serviços ou industrial</td><td>Médio</td><td>R$ 254,56</td></tr><tr><td>Comercial, prestação de serviços ou industrial</td><td>Fino</td><td>R$ 565,18</td></tr></tbody></table>
+
+A.3 - Edificações mistas
+
+<table><tbody><tr><td>Tipo de construção</td><td>Padrão construtivo</td><td>Valor unitário de referência - Vm²E</td></tr><tr><td>Misto</td><td>Precário</td><td>R$ 66,48</td></tr><tr><td>Misto</td><td>Popular</td><td>R$ 134,27</td></tr><tr><td>Misto</td><td>Médio</td><td>R$ 259,88</td></tr><tr><td>Misto</td><td>Fino</td><td>R$ 565,18</td></tr></tbody></table>
+
+B. Classificação quanto ao tipo de construção  
+  
+Para fins de aplicação dos valores unitários previstos neste Anexo, as edificações serão classificadas segundo sua destinação predominante:
+
+I - residencial: a edificação destinada predominantemente à habitação, inclusive casas, sobrados, apartamentos e respectivas dependências;
+
+II - comercial, de prestação de serviços ou industrial: a edificação destinada predominantemente ao exercício de atividade comercial, industrial, profissional ou de prestação de serviços;
+
+III - mista: a edificação na qual coexistam usos residenciais e não residenciais, sem que seja possível determinar destinação claramente predominante.
+
+**§ 1º** As dependências, garagens, áreas de apoio e demais construções acessórias integradas funcionalmente à edificação principal seguirão, em regra, o mesmo tipo e padrão construtivo desta.
+
+**§ 2º** Quando houver, no mesmo imóvel, edificações autônomas ou áreas construídas com tipos, padrões ou destinações distintas, cada área será avaliada separadamente, conforme suas características próprias.
+
+**§ 3º** Para a primeira aplicação desta Lei Complementar, serão preservados o tipo, o padrão construtivo e o estado de conservação já registrados no Cadastro Imobiliário Municipal, vedada a reclassificação automática dos imóveis exclusivamente em razão da entrada em vigor da nova Planta Genérica de Valores.
+
+**§ 4º** A alteração posterior do tipo, do padrão construtivo ou do estado de conservação dependerá de vistoria, levantamento cadastral, imagem técnica, documento de obra ou outro elemento idôneo, devendo a modificação ser motivada e comunicada ao contribuinte, com indicação dos elementos que fundamentaram o novo enquadramento.
+
+C - Classificação do padrão construtivo  
+  
+Para fins de aplicação das tabelas constantes da Seção A deste Anexo, serão adotados os seguintes padrões construtivos:
+
+I - precário;
+
+II - popular;
+
+III - médio;
+
+IV - fino.
+
+**§ 1º** O enquadramento deverá considerar, conjuntamente, a estrutura, os materiais empregados, o revestimento, as instalações elétricas e hidráulicas, a cobertura, o piso, os acabamentos, as dependências, o estado geral da construção e as demais características físicas efetivamente constatadas no imóvel.
+
+**§ 2º** Nenhuma característica isolada será suficiente para determinar o padrão construtivo, devendo o enquadramento resultar da avaliação conjunta dos elementos da edificação.
+
+**§ 3º** Reformas destinadas exclusivamente à manutenção, conservação ou substituição de materiais deteriorados, sem alteração substancial do padrão da construção, não acarretarão reclassificação para padrão superior.
+
+**§ 4º** O Município manterá ficha técnica padronizada para o enquadramento das edificações, com critérios objetivos e pontuação uniforme, assegurada sua disponibilização ao contribuinte.  
+  
+D. Fator de Conservação - FC
+
+<table><tbody><tr><td>Estado de conservação</td><td>Fator de Conservação - FC</td></tr><tr><td>Boa</td><td>1,00</td></tr><tr><td>Regular</td><td>0,90</td></tr><tr><td>Má</td><td>0,80</td></tr></tbody></table>
+
+**§ 1º** O estado de conservação será aferido mediante análise das condições estruturais, da cobertura, dos revestimentos, das instalações, dos acabamentos e da necessidade de reparos da edificação.
+
+**§ 2º** Para a primeira aplicação desta Lei Complementar, será mantido o Fator de Conservação já registrado no Cadastro Imobiliário Municipal.
+
+**§ 3º** A alteração do Fator de Conservação dependerá de procedimento cadastral fundamentado, vedada sua modificação automática ou presumida exclusivamente em razão da idade da construção.  
+  
+E. Fórmula de cálculo do valor venal da edificação  
+  
+O valor venal da edificação será calculado pela seguinte fórmula:  
+  
+VE = AC × Vm²E × FC  
+  
+Em que:  
+  
+VE = valor venal da edificação;  
+  
+AC = área construída da edificação, expressa em metros quadrados;  
+  
+Vm²E = valor unitário de referência do metro quadrado da edificação, conforme seu tipo e padrão construtivo;  
+  
+FC = Fator de Conservação correspondente ao estado de conservação da edificação.  
+  
+O valor venal total do imóvel edificado será calculado pela seguinte fórmula:
+
+VVI - = VT + VE  
+  
+Em que:
+
+VVI - = valor venal total do imóvel;  
+  
+VT = valor venal do terreno;  
+  
+VE = valor venal da edificação.  
+  
+F. Atualização dos valores  
+  
+1. Os valores constantes deste Anexo constituem os valores unitários de referência do metro quadrado das edificações e já incorporam o acréscimo de 3% (três por cento) previsto no art. 24.  
+2. É vedada a aplicação de novo acréscimo de 3% (três por cento) sobre os valores constantes deste Anexo por ocasião do primeiro lançamento realizado com fundamento nesta Lei Complementar.  
+3. A partir do exercício financeiro seguinte ao da primeira aplicação desta Lei Complementar, os valores unitários serão atualizados anualmente, exclusivamente por correção monetária, na forma do art. 5º.  
+4. A atualização monetária não autoriza a modificação, por decreto, dos tipos de construção, padrões construtivos, fatores de conservação, fórmulas ou critérios de avaliação estabelecidos neste Anexo.
+
+
+## Anexo IV — DISPOSIÇÕES METODOLÓGICAS, CIB E SINTER
+
+
+1\. Base Normativa  
+  
+A integração cadastral e territorial prevista neste Anexo observará:
+
+I - a Constituição Federal de 1988, especialmente os arts. 145, 150, 156 e 182;
+
+II - a Emenda Constitucional nº 132, de 20 de dezembro de 2023;
+
+III - a Lei Federal nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional;
+
+IV - a Lei Federal nº 10.257, de 10 de julho de 2001 - Estatuto da Cidade;
+
+V - a Lei Complementar Federal nº 101, de 4 de maio de 2000 - Lei de Responsabilidade Fiscal;
+
+VI - a Lei Complementar Federal nº 214, de 16 de janeiro de 2025, e suas alterações;
+
+VII - a legislação complementar federal relativa ao Comitê Gestor do Imposto sobre Bens e Serviços e à integração das administrações tributárias;
+
+VIII - o Decreto Federal nº 11.208, de 26 de setembro de 2022, que dispõe sobre o Sistema Nacional de Gestão de Informações Territoriais - SINTER e sobre o Cadastro Imobiliário Brasileiro - CIB;
+
+IX - a Lei Federal nº 12.527, de 18 de novembro de 2011 - Lei de Acesso à Informação;
+
+X - a Lei Federal nº 13.709, de 14 de agosto de 2018 - Lei Geral de Proteção de Dados Pessoais;
+
+XI - as normas expedidas pela Receita Federal do Brasil relativas ao CIB, ao SINTER e à interoperabilidade cadastral;
+
+XII - a Lei Complementar Municipal nº 83, de 30 de dezembro de 2014 - Código Tributário Municipal de Bofete;
+
+XIII - o Plano Diretor, o Código de Posturas e a legislação urbanística do Município de Bofete;
+
+XIV - as normas técnicas aplicáveis à avaliação de imóveis urbanos, inclusive a ABNT NBR 14.653-2, quando pertinente.  
+  
+2. Cadastro Imobiliário Brasileiro - CIB  
+  
+O Cadastro Imobiliário Brasileiro - CIB constitui o cadastro de identificação dos imóveis urbanos e rurais integrado ao Sistema Nacional de Gestão de Informações Territoriais - SINTER, observadas a legislação federal e as normas expedidas pela Receita Federal do Brasil.  
+  
+Para fins de integração ao CIB, o Município deverá:
+
+a) manter o Cadastro Imobiliário Municipal e seu código próprio de identificação;
+
+b) promover a vinculação da inscrição imobiliária municipal ao código de identificação atribuído ao imóvel no CIB, sem prejuízo do código interno municipal;
+
+c) adequar progressivamente os campos, conceitos e formatos do Cadastro Imobiliário Municipal aos padrões nacionais de interoperabilidade;
+
+d) transmitir as informações imobiliárias nos prazos, formatos e condições definidos pela legislação federal;
+
+e) receber e integrar informações oriundas do CIB, submetendo-as à validação administrativa quando puderem alterar o lançamento tributário;
+
+f) manter registro da origem, da data e do procedimento de validação das informações utilizadas para atualização cadastral;
+
+g) assegurar ao contribuinte o acesso às informações cadastrais relativas ao seu imóvel e o direito de requerer sua correção mediante apresentação de documentação idônea.  
+  
+A atribuição do código CIB não extingue nem substitui automaticamente a inscrição imobiliária municipal e não modifica, por si só, a titularidade, a posse, o domínio, a área, o valor venal ou a responsabilidade tributária registrada pelo Município.  
+  
+3. Sistema Nacional de Gestão de Informações Territoriais - SINTER  
+  
+O Sistema Nacional de Gestão de Informações Territoriais - SINTER, disciplinado pelo Decreto Federal nº 11.208, de 26 de setembro de 2022, destina-se à integração e ao gerenciamento de informações cadastrais, registrais, fiscais e geoespaciais relativas aos imóveis urbanos e rurais.  
+  
+Para fins de integração ao SINTER, o Município deverá:
+
+a) observar os padrões técnicos, os níveis de acesso, os protocolos de segurança e os requisitos de interoperabilidade definidos pela Receita Federal do Brasil;
+
+b) transmitir os dados imobiliários municipais nos formatos, prazos e condições estabelecidos pela legislação federal;
+
+c) utilizar as informações recebidas como elementos auxiliares para atualização cadastral, fiscalização, lançamento tributário, planejamento urbano e gestão territorial;
+
+d) validar as informações externas que possam modificar elementos do lançamento tributário municipal;
+
+e) manter mecanismos de controle de acesso, rastreabilidade, integridade e segurança das informações;
+
+f) observar o sigilo fiscal, a proteção de dados pessoais e as demais restrições legais aplicáveis.  
+  
+A integração ao SINTER não autoriza a divulgação pública indiscriminada de dados cadastrais, fiscais ou patrimoniais individualizados, nem dispensa o procedimento administrativo municipal necessário à alteração do lançamento tributário.  
+  
+4. Metodologia de Revisão da Planta Genérica de Valores  
+  
+As revisões gerais da Planta Genérica de Valores que tenham por finalidade alterar, em termos reais, os valores unitários, as zonas fiscais, os fatores de correção ou a metodologia de avaliação imobiliária serão fundamentadas em estudo técnico, observado, no mínimo:
+
+I - utilização do Cadastro Imobiliário Municipal, preferencialmente apoiado em base cartográfica georreferenciada e Sistema de Informações Geográficas - SIG;
+
+II - levantamento de amostras do mercado imobiliário local, com identificação das fontes, do período pesquisado e dos critérios de seleção e tratamento dos dados;
+
+III - análise das características de localização, infraestrutura, uso, ocupação, dimensões, topografia, padrão construtivo e demais elementos relevantes para a formação do valor dos imóveis;
+
+IV - utilização de metodologia técnica compatível com a natureza e a disponibilidade dos dados municipais, observadas, quando aplicáveis, as normas técnicas de avaliação de imóveis urbanos;
+
+V - apresentação da memória de cálculo, das premissas adotadas, das limitações encontradas e dos resultados obtidos;
+
+VI - demonstração do impacto estimado da revisão sobre os imóveis e sobre a arrecadação municipal;
+
+VII - análise técnica pela Comissão prevista no art. 26 desta Lei Complementar;
+
+VIII - publicação das tabelas, critérios gerais, fórmulas e relatório técnico, observadas as regras de transparência, sigilo fiscal e proteção de dados pessoais.
+
+**§ 1º** A metodologia de avaliação em massa poderá utilizar modelos estatísticos, curvas de valores, fatores de homogeneização ou outros métodos tecnicamente reconhecidos, desde que compatíveis com a quantidade e a qualidade dos dados disponíveis.
+
+**§ 2º** A ausência de quantidade suficiente de dados para a utilização de modelo estatístico não impedirá a revisão da PGV, desde que os valores sejam fundamentados em metodologia técnica alternativa, amostras de mercado, avaliações comparativas e relatório circunstanciado.
+
+**§ 3º** A atualização exclusivamente monetária dos valores unitários, realizada na forma do art. 5º., não constitui revisão geral da PGV e não dependerá da elaboração dos estudos previstos neste item.
+
+**§ 4º** A atualização monetária anual deverá ser acompanhada apenas da identificação do índice utilizado, do período de apuração, do percentual aplicado e da respectiva memória de cálculo.  
+  
+5. Transparência e Controle Social  
+  
+O Poder Executivo assegurará transparência à Planta Genérica de Valores mediante publicação:
+
+I - dos valores unitários dos terrenos e das edificações;
+
+II - dos fatores, coeficientes e fórmulas de cálculo;
+
+III - dos decretos de atualização monetária e respectivas memórias de cálculo;
+
+IV - dos critérios gerais de enquadramento cadastral;
+
+V - dos relatórios da Comissão Técnica e da Junta de Revisão da PGV, ressalvadas as informações legalmente protegidas.  
+  
+Os dados disponibilizados ao público deverão ser apresentados de forma agregada ou anonimizada quando puderem revelar informações pessoais, fiscais ou patrimoniais individualizadas.  
+  
+A transparência da PGV não autoriza a divulgação de CPF, endereço pessoal de correspondência, situação fiscal, débitos, dados de propriedade não sujeitos à publicidade legal ou outras informações protegidas pelo sigilo tributário e pela legislação de proteção de dados pessoais.
+
+
+Bofete, em 28 de setembro de 2026.  
+  
+EUGENIO CARLOS ALVES  
+PREFEITO MUNICIPAL

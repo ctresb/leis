@@ -1,0 +1,42 @@
+{
+  "host": "sapl.belfordroxo.rj.leg.br",
+  "metadados_unicos_observados": 31,
+  "total_api_declarado": 31,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 24,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belfordroxo.rj.leg.br/7f67daa13d43ec18e6d4af5525130330578978f61bea7fa60f798af89ecd43ca.json",
+    "url": "https://sapl.belfordroxo.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.belfordroxo.rj.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fea424718c3f2c93e3cadeabbe42cef56e7040eb2afaeeb6ecddca9f00946df9",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T17:18:13.221188-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belfordroxo.rj.leg.br/091bb744042b38dfabda2544cf4eff0136b76c5a3779b21a245018fcf0720fcf.json",
+    "url": "https://sapl.belfordroxo.rj.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.belfordroxo.rj.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d3350ae92b7b72c6328013e9c8eb8781651fc797305b157d13409e31ff947ad5",
+    "bytes": 826,
+    "capturado_em": "2026-10-27T17:18:12.085783-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belfordroxo.rj.leg.br/6230dc1d551562a6fdda7845a997755c1d5904580faeafd41e8dbfaa313fd020.json",
+      "url": "https://sapl.belfordroxo.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.belfordroxo.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "72952f267042a3fae9ad4d275f310470efc340a2c649c7f6acbe4dd571dc7fdf",
+      "bytes": 20792,
+      "capturado_em": "2026-10-27T17:18:30.396835-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

@@ -1,0 +1,16 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cantagalo.rj.leg.br/be9fc21d8983058301e783b6e0493a8f08a6e99f3ee2f17a31f562b99c2c2d62.json",
+      "url": "https://sapl.cantagalo.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "capturado_em": "2026-10-20T21:01:31.179379",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.cantagalo.rj.leg.br/be9fc21d8983058301e783b6e0493a8f08a6e99f3ee2f17a31f562b99c2c2d62.json"
+    }
+  ]
+}

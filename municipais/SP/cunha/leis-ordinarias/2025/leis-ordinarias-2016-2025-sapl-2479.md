@@ -1,0 +1,677 @@
+---
+titulo: "Lei nº 2.016, de 17 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2016"
+data: "2025-12-17"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/2479"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/1169/text"
+sha256_fonte: "a1c9fd099e99bc46331545ebb53a07051d4c948be342169d1a605a6cb845b778"
+sha256_texto: "3235441a565d6231d5e0ace64dda64d03ac42e92758ee1ef4d8e93956a8108fb"
+capturado_em_fonte: "2026-10-28T09:35:19.647214-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 2.016, de 17 de dezembro de 2025
+
+RECRIA O CONSELHO MUNICIPAL DOS DIREITOS DA MULHER E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+RODRIGO SÉRGIO DO NASCIMENTO, PREFEITO DO MUNICÍPIO DE CUNHA, no uso de suas atribuições legais, faz saber que a Câmara aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Recria o Conselho Municipal dos Direitos da Mulher de Cunha – CMDM, nos termos desta Lei, com o objetivo de fortalecer sua atuação institucional, garantir a paridade entre o poder público e a sociedade civil, assegurar sua autonomia funcional, deliberativa e financeira, e promover a efetiva implementação das políticas públicas municipais voltadas à promoção da igualdade de gênero, raça e etnia, e ao combate de todas as formas de discriminação contra a mulher.
+
+
+Art. 2º.
+
+O Conselho Municipal dos Direitos da Mulher – CMDM é órgão colegiado, permanente, paritário, de natureza deliberativa, consultiva, propositiva, fiscalizadora e autônoma, com a finalidade de acompanhar, avaliar, monitorar e propor políticas públicas municipais dirigidas às mulheres, bem como formular diretrizes para a promoção da igualdade de gênero, raça, etnia, orientação sexual, identidade de gênero e geração, e combater toda e qualquer forma de discriminação e violência contra a mulher.
+
+
+§ 1º
+
+O CMDM possui autonomia funcional, deliberativa e financeira, assegurada a independência de suas decisões, observado o disposto nesta Lei.
+
+
+§ 2º
+
+O CMDM está vinculado administrativamente à Secretaria Municipal de Promoção Social, mantendo, contudo, articulação intersetorial com as demais Secretarias Municipais e órgãos públicos para a efetiva implementação das políticas para as mulheres.
+
+
+#### CAPÍTULO II — DA COMPETÊNCIA
+
+
+Art. 3º.
+
+Compete ao Conselho Municipal dos Direitos da Mulher de Cunha:
+
+
+I –
+
+Elaborar seu Regimento Interno, com o objetivo de orientar seu funcionamento;
+
+
+II –
+
+Monitorar, no âmbito do Município, o cumprimento das Leis Federais, Estaduais e Municipais que atendam aos interesses das mulheres;
+
+
+III –
+
+Formular diretrizes e promover políticas para a ação governamental visando à igualdade de gênero em todos os níveis da administração pública municipal direta e indireta;
+
+
+IV –
+
+Participar da elaboração do Plano Municipal de Políticas Públicas de Direitos da Mulher indicando as conclusões das Conferências Municipal/Estadual/Nacional, e buscando a convergência com os Planos e Programas contemplados no orçamento público;
+
+
+V –
+
+Indicar e aprovar critérios e parâmetros para a avaliação e monitoramento das ações e políticas públicas com a perspectiva do gênero, assegurando assim a defesa e ampliação dos direitos da mulher;
+
+
+VI –
+
+Estimular e promover estudos, debates, programas, projetos e pesquisas sobre a realidade da mulher, em parceria com órgãos governamentais e não governamentais, contribuindo na elaboração de propostas de políticas públicas que visem à eliminação de todas as formas de preconceitos e discriminações da mulher em todos os níveis e setores da atividade municipal;
+
+
+VII –
+
+Organizar, coordenar e realizar a Conferência Municipal de Políticas Públicas para as Mulheres, em parceria com o Executivo Municipal;
+
+
+VIII –
+
+Auxiliar e acompanhar os órgãos e entidades da Administração, no que se refere ao planejamento e execução de programas e ações referentes aos direitos das mulheres;
+
+
+IX –
+
+Propor e deliberar sobre os critérios de definição e aplicação dos recursos destinados às políticas para mulheres;
+
+
+X –
+
+Estabelecer e manter canais de relação com os movimentos de gênero, apoiando o desenvolvimento das atividades dos grupos autônomos;
+
+
+XI –
+
+Promover a articulação e debates com outros conselhos municipais sobre a política municipal voltada à promoção dos direitos das mulheres e a igualdade de gênero visando que as questões referentes a estas relações sejam incorporadas em todas as áreas e políticas públicas;
+
+
+XII –
+
+Realizar campanhas educativas de combate e conscientização sobre a violência contra a mulher, e estimular a criação de serviços de apoio às mulheres vítimas de violência;
+
+
+XIII –
+
+Monitorar os projetos, programas, serviços, planos e ações que compõem a política pública municipal de atendimento às mulheres;
+
+
+XIV –
+
+Prestar assessoria ao Poder Executivo, acompanhando a elaboração das políticas públicas, programas e ações dirigidas às mulheres especialmente nas áreas de:
+
+
+a)
+
+Atenção integral à saúde da mulher;
+
+
+b)
+
+Assistência social;
+
+
+c)
+
+Prevenção à violência contra a mulher;
+
+
+d)
+
+Educação;
+
+
+e)
+
+Trabalho;
+
+
+f)
+
+Lazer e cultura;
+
+
+XV –
+
+Acompanhar, opinar, sugerir e deliberar sobre projetos de leis municipais que visem assegurar ou ampliar os direitos das mulheres;
+
+
+#### CAPÍTULO III — DA CONSTITUIÇÃO E DA COMPOSIÇÃO
+
+
+Art. 4º.
+
+O Conselho Municipal dos Direitos da Mulher será composto por 12 (doze) membros titulares, e respectivas suplentes, respeitada a paridade entre o Poder Público Municipal e a Sociedade Civil Organizada, através das seguintes representações:
+
+
+I –
+
+06 representantes do Poder Público, indicados pelo Prefeito Municipal:
+
+
+a)
+
+01 representante da Secretaria de Promoção Social;
+
+
+b)
+
+01 representante da Secretaria Municipal de Saúde;
+
+
+c)
+
+01 representante da Secretaria Municipal de Educação;
+
+
+d)
+
+01 representante da Secretaria de Turismo e Cultura;
+
+
+e)
+
+01 representante da Polícia Civil;
+
+
+f)
+
+01 representante da Câmara Municipal de Vereadores.
+
+
+II –
+
+06 representantes da Sociedade Civil Organizada, indicadas pelas respectivas entidades e organizações:
+
+
+a)
+
+01 representante, advogado(a), indicado(a) pela OAB
+
+
+b)
+
+03 representantes de associação/grupo/coletivo de mulheres do Município, com organização formal com atuação no município;
+
+
+c)
+
+01 representante de associação/grupo/coletivo de mulheres do Município, com organização formal com atuação na área rural do município;
+
+
+d)
+
+01 representante da Santa Casa de Misericórdia de Cunha;
+
+
+§ 1º
+
+Cada Membro titular do Conselho Municipal dos Direitos da Mulher terá um Suplente, da mesma entidade/organização da sociedade civil e/ou de órgão de governo, que substituirá seu titular em eventuais afastamentos, impedimentos ou nos casos previstos pelo Regimento Interno.
+
+
+§ 2º
+
+Os (as) Conselheiros (as) de que trata o inciso I serão indicadas no prazo de 10 (dez) dias pelo Prefeito Municipal, e poderá ser substituído (a), a qualquer tempo, mediante nova indicação;
+
+
+§ 3º
+
+Os (as) Conselheiros (as) de que trata o inciso II deverão ser indicadas no prazo de 10 (dez dias) pela direção das entidades e/ou organizações que representam.
+
+
+Art. 5º.
+
+O mandato dos (as) Conselheiros (as) será de 02 (dois) anos, sendo permitida a reeleição por mais um período consecutivo.
+
+
+Parágrafo único
+
+Os (as) Conselheiros (as) não poderão ser destituídos sem o devido procedimento interno, salvo por razões que motivem a deliberação da maioria qualificada do Colegiado Pleno, ou por desistência, inatividade ou impedimento, devidamente previstas e regulamentadas no Regimento Interno.
+
+
+#### CAPÍTULO IV — DA ESTRUTURA E DO FUNCIONAMENTO
+
+
+Art. 6º.
+
+O Conselho reunir-se-á ordinariamente 1 (uma) vez por mês, ou extraordinariamente, por convocação de seu (sua) Presidente, por 2/3 (dois terços) de seus membros, ou por solicitação do Prefeito Municipal, sempre que necessário, e funcionará de acordo com o Regimento Interno, que definirá também o quórum mínimo para o caráter deliberativo das reuniões do Plenário.
+
+
+§ 1º
+
+A função de conselheiro (a) não será remunerada, sendo considerada de relevante interesse público, e sendo garantida sua dispensa do trabalho durante o período das reuniões, capacitações e ações específicas do Conselho Municipal dos Direitos da Mulher – CMDM;
+
+
+§ 2º
+
+O Executivo Municipal, por meio da Secretaria de Promoção Social, prestará o necessário apoio técnico, administrativo e financeiro para a efetivação das finalidades do Conselho Municipal dos Direitos da Mulher, bem como fornecerá os subsídios necessários para a representação deste Conselho nas instâncias e eventos para o qual for convocado ou quando sua participação for julgada indispensável pelo Colegiado Pleno.
+
+
+Art. 7º.
+
+Todas as reuniões do Conselho serão convocadas pelo (a) Presidente ou Secretário (a), com no mínimo 02 (dois) dias de antecedência.
+
+
+Parágrafo único
+
+O Conselho poderá convidar membros dos Poderes Executivo, Legislativo, Judiciário, e/ou do Ministério Público, bem como pessoas ou instituições qualificadas para participar das reuniões do Conselho em assuntos especiais.
+
+
+Art. 8º.
+
+O Conselho Municipal dos Direitos da Mulher de Cunha será formado:
+
+
+I –
+
+Pela Diretoria Executiva;
+
+
+II –
+
+Pelo Colegiado Pleno.
+
+
+Parágrafo único
+
+O Colegiado Pleno é órgão deliberativo e soberano do Conselho.
+
+
+Art. 9º.
+
+A Diretoria Executiva do Conselho será eleita pela maioria absoluta, do Colegiado Pleno, para mandato de 02 (dois) anos, permitida uma recondução consecutiva, e será composta por:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice-Presidente;
+
+
+III –
+
+Primeiro Secretário;
+
+
+IV –
+
+Segundo Secretário.
+
+
+§ 1º
+
+É recomendada a alternância, do governo e da sociedade civil, na Presidência e na Vice-Presidência, em cada mandato.
+
+
+§ 2º
+
+O (a) Vice-Presidente do Conselho substituirá o (a) Presidente em suas ausências e impedimentos, e em caso de ocorrência simultânea, a presidência será exercida pelo Conselheiro mais idoso.
+
+
+§ 3º
+
+O Conselho poderá criar Comissões Temáticas de Políticas Públicas e legislações, prevenção e combate à violência contra mulher, entre outras, de caráter permanente, e Grupos de Trabalho, de caráter temporário, para atender a uma necessidade pontual, ambos formados por Conselheiros (as), conforme atribuições estabelecidas pelo Colegiado Pleno e pelo Regimento Interno.
+
+
+Art. 10.
+
+Cada membro do Conselho Municipal dos Direitos da Mulher de Cunha terá direito a 1 (um) único voto na sessão plenária, em cada temática discutida, à exceção do Presidente, que exercerá o voto de minerva em caso de empate.
+
+
+Art. 11.
+
+As entidades não governamentais representadas no Conselho, perderão a representatividade quando ocorrer uma das seguintes situações:
+
+
+I –
+
+Advir a extinção de sua base territorial de atuação no município;
+
+
+II –
+
+Tornar-se irregular no seu funcionamento, de forma comprovada e incompatível à sua representação no Conselho;
+
+
+III –
+
+Ser penalizada com sanções administrativas de natureza grave, devidamente comprovada.
+
+
+Art. 12.
+
+Perderá automaticamente seu mandato, sendo substituído pelo respectivo Suplente, o (a) Conselheira que:
+
+
+I –
+
+Desvincular-se do órgão ou entidade de origem da sua representação;
+
+
+II –
+
+Deixar de comparecer em 3 (três) reuniões ordinárias consecutivas, ou em 6 (seis) alternadas durante o ano, desde que suas justificativas não sejam acolhidas pelo Colegiado Pleno, na forma do Regimento Interno;
+
+
+III –
+
+Apresentar pedido de renúncia à Diretoria Executiva, que será processada conforme regras do Regimento Interno;
+
+
+IV –
+
+Incorrer e/ou manter conduta incompatível ao desempenho das funções de Conselheira.
+
+
+Parágrafo único
+
+Os órgãos/entidades/organizações representados no Conselho, deverão ser comunicados das faltas de seus representantes a partir da segunda falta consecutiva ou da quarta intercalada.
+
+
+Art. 13.
+
+O Colegiado Pleno instituirá seus atos por meio de Resolução, aprovada pela maioria absoluta de seus membros, na forma do Regimento Interno.
+
+
+#### CAPÍTULO V — DO FUNDO MUNICIPAL DOS DIREITOS DAS MULHERES
+
+
+Art. 14.
+
+Fica criado o Fundo Municipal dos Direitos da Mulher, instrumento de captação, repasse e aplicação de recursos destinados a proporcionar suporte financeiro na implantação, manutenção e no desenvolvimento de programas e ações dirigidos à efetivação e promoção dos direitos da mulher no Município de Cunha-SP.
+
+
+Parágrafo único
+
+O Fundo Municipal dos Direitos da Mulher - FMDM visa assegurar recursos necessários para a efetivação das políticas públicas dedicadas à promoção da equidade de gênero, à garantia e à realização dos direitos da mulher, ao empoderamento da população feminina e ao combate à violência contra a mulher.
+
+
+Art. 15.
+
+O Fundo Municipal dos Direitos da Mulher será gerido pela Secretaria Municipal de Promoção Social, em regime de cogestão e controle compartilhado com o CMDM, conforme diretrizes aprovadas pelo Colegiado Pleno.
+
+
+§ 1º
+
+A aplicação dos recursos do FMDM será realizada exclusivamente em projetos, programas e atividades previamente aprovadas pelo Conselho Municipal dos Direitos da Mulher, em conformidade com o Plano Municipal de Políticas para as Mulheres.
+
+
+§ 2º
+
+A Secretaria responsável pela gestão do Fundo deverá garantir ampla transparência, mediante publicação dos relatórios de receitas e despesas em meio eletrônico oficial, possibilitando o acompanhamento público e o controle social.
+
+
+§ 3º
+
+O CMDM poderá propor prioridades de investimento, deliberar sobre a alocação de recursos e requisitar informações à Secretaria gestora sempre que necessário ao exercício de sua função fiscalizadora.
+
+
+Art. 16.
+
+Compete ao Fundo Municipal dos Direitos da Mulher, conforme resoluções do CMDM:
+
+
+I –
+
+Gerir os recursos captados pelo Município, através de convênios, ou por doações ao Fundo;
+
+
+II –
+
+Manter o controle escritural das aplicações financeiras, levadas a efeito no Município;
+
+
+III –
+
+Liberar os recursos a serem aplicados em benefício da Política Pública voltada às mulheres;
+
+
+IV –
+
+Administrar os recursos específicos para os programas de atendimento dos direitos da mulher.
+
+
+Art. 17.
+
+Constituem Receitas do Fundo Municipal dos Direitos das Mulheres:
+
+
+I –
+
+Dotações orçamentárias do Município, créditos especiais, transferências, repasses e outros recursos que lhe forem conferidos;
+
+
+II –
+
+Doações de pessoas físicas e jurídicas, de organismos governamentais e não governamentais, nacionais ou estrangeiras, legados, subvenções e outros recursos que lhe forem destinados;
+
+
+III –
+
+Recursos provenientes de convênios destinados ao fomento de atividades relacionadas aos Direitos da Mulher, celebrado com o Município;
+
+
+IV –
+
+Produto de operações de crédito, realizadas pelo Município, observadas a legislação pertinente e destinadas a este fim específico;
+
+
+V –
+
+Receitas de aplicações financeiras de recursos do fundo, realizadas na forma da lei;
+
+
+VI –
+
+Recursos provenientes da aplicação de penas pecuniárias ou de transação penal, no âmbito do Município de Cunha, concernentes aos direitos das mulheres;
+
+
+VII –
+
+Outras receitas legalmente constituídas, ou que vierem a ser destinadas ao Fundo.
+
+
+Art. 18.
+
+Os recursos do Fundo Municipal dos Direitos da Mulher, em consonância com os objetivos estabelecidos pelo Conselho Municipal dos Direitos da Mulher e com o Plano Municipal de Políticas para as Mulheres, deverão ser aplicados da seguinte forma:
+
+
+I –
+
+Financiamento total ou parcial, e promoção de programas, projetos e pesquisas direcionadas aos direitos da mulher visando a implementação de políticas públicas a serem executadas pela administração pública municipal;
+
+
+II –
+
+Apoio e promoção de eventos educacionais e de natureza socioeconômica relacionados aos direitos das mulheres;
+
+
+III –
+
+Programas e projetos de qualificação profissional destinados à inserção ou reinserção das mulheres no mercado de trabalho;
+
+
+IV –
+
+Programas e projetos destinados ao combate à violência contra as mulheres de todas as idades;
+
+
+V –
+
+Financiar programas de capacitação e de consultoria técnica às mulheres, incentivando a profissionalização, a independência financeira, o empreendedorismo feminino, a inserção e reinserção no mercado de trabalho;
+
+
+VI –
+
+Desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações destinadas à mulher, especialmente de pesquisas, estudos e levantamentos para definição de indicadores e dados municipais, e de ações de monitoramento e avaliação de programas e serviços de atendimento às mulheres no Município de Cunha;
+
+
+VII –
+
+Realização e promoção de campanhas educativas, simpósios, seminários, conferências e encontros específicos sobre os direitos da mulher, oportunizando processos de conscientização da sociedade, com relação aos direitos da mulher e à prevenção e erradicação da violência de gênero;
+
+
+VIII –
+
+Programas e atividades de interesse das mulheres, inclusive emergenciais, desde que estejam de acordo com o Plano Municipal de Políticas para as Mulheres.
+
+
+Parágrafo único
+
+Os recursos do Fundo Municipal dos Direitos das Mulheres serão aplicados mediante plano de aplicação de recursos aprovado pelo Colegiado Pleno do CMDM e pela Secretaria de Promoção Social.
+
+
+Art. 19.
+
+As movimentações dos recursos do Fundo Municipal dos Direitos da Mulher somente poderão ser efetivadas pela Secretaria de Promoção Social após ciência e aprovação do Conselho Municipal dos Direitos da Mulher, salvo situações de urgência e de mero expediente.
+
+
+Art. 20.
+
+Os demonstrativos financeiros e funcionamento do Fundo Municipal dos Direitos da Mulher obedecerão ao disposto na legislação vigente referente à Administração Direta Municipal.
+
+
+Art. 21.
+
+Compete ao Conselho Municipal dos Direitos da Mulher definir estratégias de captação de maiores recursos para a composição do Fundo, junto à sociedade civil e entidades governamentais.
+
+
+Art. 22.
+
+Será aberta conta bancária específica em instituição financeira oficial, sob a denominação “Fundo Municipal dos Direitos da Mulher”, para movimentação dos recursos financeiros do Fundo, sendo elaborado, mensalmente balancete demonstrativo da receita e da despesa, que deverá ser publicado na imprensa oficial, onde houver, ou dada ampla divulgação no caso de inexistência, após apresentação e aprovação do Conselho Municipal dos Direitos da Mulher.
+
+
+§ 1º
+
+A contabilidade do Fundo tem por objetivo evidenciar a sua situação financeira e patrimonial, observados os padrões e normas estabelecidas na legislação pertinente;
+
+
+§ 2º
+
+Os saldos positivos verificados no fim de cada exercício serão automaticamente transferidos para o exercício seguinte, a crédito do Fundo.
+
+
+§ 3º
+
+O exercício financeiro do Fundo coincidirá com o do ano civil.
+
+
+§ 4º
+
+A proposta orçamentária do Fundo Municipal dos Direitos da Mulher - FMDM constará no Orçamento Municipal.
+
+
+Art. 23.
+
+O repasse de recursos do Fundo Municipal dos Direitos da Mulher para as entidades devidamente cadastradas no Conselho Municipal dos Direitos da Mulher - CMDM observará os critérios estabelecidos pelo Conselho Municipal dos Direitos da Mulher através de ato normativo próprio e demais cominações legais pertinentes ao caso.
+
+
+Parágrafo único
+
+As transferências de recursos para organizações governamentais e não-governamentais se processarão mediante convênios, contratos, acordos, ajustes e/ou similares, obedecendo à legislação vigente sobre a matéria e de conformidade com a Política Pública Municipal implantada, os serviços, programas, projetos e pesquisas aprovados pelo Conselho Municipal dos Direitos da Mulher.
+
+
+Art. 24.
+
+O Conselho Municipal dos Direitos da Mulher – CMDM manterá portal eletrônico próprio ou seção específica no site oficial da Prefeitura Municipal de Cunha, destinado à publicação e divulgação de informações públicas referentes às suas atividades, decisões e composição.
+
+
+Parágrafo único
+
+O portal deverá conter, no mínimo:
+
+
+I –
+
+A composição atualizada dos (as) conselheiros (as) titulares e suplentes, com indicação de suas respectivas representações;
+
+
+II –
+
+As atas e resoluções aprovadas pelo Conselho;
+
+
+III –
+
+Os calendários e pautas das reuniões ordinárias e extraordinárias;
+
+
+IV –
+
+Os relatórios de gestão e de aplicação dos recursos do Fundo Municipal dos Direitos da Mulher; e
+
+
+V –
+
+Outros documentos e informações de interesse público, observada a legislação vigente sobre acesso à informação e proteção de dados pessoais.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 25.
+
+O Conselho Municipal dos Direitos da Mulher elaborará o seu Regimento Interno no prazo máximo de 90 (noventa) dias, a contar da data de sua instalação.
+
+
+Parágrafo único
+
+Considerar-se-á instalado o Conselho Municipal dos Direitos da Mulher com a publicação dos nomes de seus integrantes no órgão de imprensa oficial do município através de ato oficial.
+
+
+Art. 26.
+
+A presente Lei será regulamentada via Decreto, no que couber.
+
+
+Art. 27.
+
+As despesas com a execução da presente Lei correrão por conta de dotação orçamentária própria.
+
+
+Art. 28.
+
+Revoga-se as disposições em contrário, em especial a Lei Municipal nº 1. 751/2021.
+
+
+Art. 29.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cunha, 17 de dezembro de 2025.
+
+Rodrigo Sérgio do Nascimento  
+Prefeito Municipal
+

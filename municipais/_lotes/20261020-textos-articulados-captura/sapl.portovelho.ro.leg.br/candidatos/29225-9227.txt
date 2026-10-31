@@ -1,0 +1,34 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+Considerando o Ofício n.° 3460/2026/SEINFRA-DEA, de 18 de maio de 2026, pelo qual a Secretaria Municipal de Infraestrutura - SEINFRA, solicita a movimentação de recursos para cobertura de despesas com o Processo Administrativo n.° 019.000018/2025-79 - Contratação de serviços de limpeza urbana;
+
+Considerando o Ofício n.° 3591/2026/SEINFRA-DEA, de 20 de maio de 2026, pelo qual a Secretaria Municipal de Infraestrutura - SEINFRA, solicita a movimentação de recursos para cobertura de despesas com o Processo Administrativo n.° 019.001955/2026-22 - Manutenção da frota de veículos pertencentes à SEINFRA,
+
+**DECRETA:**
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 11.140.894,02 (onze milhões, cento e quarenta mil, oitocentos e noventa e quatro reais e dois centavos).
+
+**Art. 2º** - Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei n.º 3.348, de 27 de novembro de 2025 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>11.00 - SECRETARIA MUNICIPAL DE INFRAESTRUTURA - SEINFRA</strong></p></td></tr><tr><td colspan="7"><p><strong>11.31 - FUNDO MUNICIPAL DE LIMPEZA URBANA - FMLU</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>11.31.15.452.015.2.529</p></td><td><p>Realização de coleta, transporte tratamento e destinação final dos resíduos sólidos</p></td><td><p>FIS</p></td><td><p>3.3.67.83</p></td><td><p>1.709.0000.0000.0000</p></td><td><p>11.140.894,02</p></td><td><p>-</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>11.140.894,02</strong></p></td><td><p><strong>-</strong></p></td></tr><tr><td colspan="7"><p><strong>11.00 - SECRETARIA MUNICIPAL DE INFRAESTRUTURA - SEINFRA</strong></p></td></tr><tr><td colspan="7"><p><strong>11.01 - SECRETARIA MUNICIPAL DE INFRAESTRUTURA - SEINFRA</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td rowspan="2"><p>11.01.15.452.015.2.829</p></td><td rowspan="2"><p>Limpeza, manutenção e conservação de logradouros e cemitério públicos</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.709.0000.0000.0000</p></td><td><p>-</p></td><td><p>8.932.226,02</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>1.709.0000.0000.0000</p></td><td><p>-</p></td><td><p>2.208.668,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>-</strong></p></td><td><p><strong>11.140.894,02</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>11.140.894,02</strong></p></td><td><p><strong>11.140.894,02</strong></p></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito do Município
+
+***WAGNER GARCIA DE FREITAS***
+
+Secretário Municipal de Economia
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município

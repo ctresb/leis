@@ -1,0 +1,42 @@
+{
+  "host": "sapl.bonfinopolisdeminas.mg.leg.br",
+  "metadados_unicos_observados": 6,
+  "total_api_declarado": 6,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonfinopolisdeminas.mg.leg.br/d037565e8c647aacadc886db0d1a89253f51a29fc492e7e1bd1ae21c1eea6576.json",
+    "url": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T19:36:10.983111-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonfinopolisdeminas.mg.leg.br/56b4ecc7549f4e731a1696b921783c601ddbdf7fe70c595465b22f5340726520.json",
+    "url": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "8c2967750ee74c95a4c9f6caebb8f677556a259b7217de54a529a2fd5f7ef610",
+    "bytes": 827,
+    "capturado_em": "2026-10-27T19:36:09.917632-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonfinopolisdeminas.mg.leg.br/77a3571d38f925aafac72fe94d4852c4d61a587d23c767fef643a9db65b2c21b.json",
+      "url": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.bonfinopolisdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "40347c221a58763ce17da228c8b7222cf42b2574cd2325004dd4128b9d980e4d",
+      "bytes": 3511,
+      "capturado_em": "2026-10-27T19:36:11.864846-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

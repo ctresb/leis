@@ -1,0 +1,42 @@
+{
+  "host": "sapl.icaraima.pr.leg.br",
+  "metadados_unicos_observados": 21,
+  "total_api_declarado": 21,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 2,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icaraima.pr.leg.br/89d3b09079072372e5b99e26b5c0dad889728e4a6a6c8cf102dffd4aa4806576.json",
+    "url": "https://sapl.icaraima.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.icaraima.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a2233e636be85647ce510fcf00e81b2b9788476d776f701f351754411df8ec40",
+    "bytes": 957,
+    "capturado_em": "2026-10-28T14:06:20.391104-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icaraima.pr.leg.br/9ac30bf836784b08296fc88ecead190d8c5289f58a64750fc2c606c5c3fba48a.json",
+    "url": "https://sapl.icaraima.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.icaraima.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "23b11ebc843e2a691a34199f1207010665bba9abaacf51b30c2ff7847ca31b22",
+    "bytes": 829,
+    "capturado_em": "2026-10-28T14:06:19.581867-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icaraima.pr.leg.br/388fe4147aea55a69947ec8f3467a4e007a50036f078bb509a1b3417e73d588f.json",
+      "url": "https://sapl.icaraima.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.icaraima.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3e9e98f1a540735a5ece8fab695d63596e98672ee83e9830b7ece920317c0937",
+      "bytes": 12741,
+      "capturado_em": "2026-10-28T14:06:22.466933-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

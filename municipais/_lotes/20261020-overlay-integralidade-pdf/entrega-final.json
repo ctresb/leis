@@ -1,0 +1,35 @@
+{
+  "verificado_em": "2026-10-20T20:28:13.019262",
+  "listas_substituidas": [
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/aprovados.paths.txt",
+      "sha256": "7eb9110b267082a2916304b54b35b1f511dfb95f9b1c9b11ed630ddaa9b552d3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0001.paths.txt",
+      "sha256": "b9d4def6ba349c97330b02d326adbef45660f6f82acd0e4fb4bf7fc26361a5c3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-sapl-pos-overlay/lote-0002.paths.txt",
+      "sha256": "78948ed7e1583b6fbd11738535ebd4ce415d35fc2a47b2ced9b0c2ca0b18a168"
+    }
+  ],
+  "aprovados": 5210,
+  "retidos": 11635,
+  "criterio": "Confronto integral de tokens fonte/Markdown; somente margens repetidas com coordenadas e fólios sequenciais comprovados podem ser descontados; nenhuma norma é recortada.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-pdf/aprovados.paths.txt",
+      "sha256": "c1153af18da05d880d6bc0e00a2511a91faefd7ff4a5a19f70e9afbc61b38e44"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-pdf/resultados.jsonl",
+      "sha256": "72d545c3701520104cef2077699e8d79dc369e210d92fdb7f64e3a5762fa8412"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-integralidade-pdf/retidos.paths.txt",
+      "sha256": "bf7e2d2b69dcfdeb654d9391e502787f4d9d906a72320430d60eb9bca8ff4150"
+    }
+  ],
+  "script_sha256": "24a7d26e9ecc4de23a2b2ee01051c6023e7ec4ed3e9345fd0da63640f5f2adad"
+}

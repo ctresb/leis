@@ -1,0 +1,2750 @@
+{
+  "host": "sapl.piedade.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/2/anexo_-_portaria_2_2011.pdf da norma Portaria nº 2, de 16 de fevereiro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Ofício Seg. 23 2011",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/2/anexo_-_portaria_2_2011.pdf",
+      "ano": 2011,
+      "norma": 569
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/ple_2_-_11-4-2019_-_anexo.pdf da norma Lei nº 4.586, de 28 de maio de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Mapa",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/3/ple_2_-_11-4-2019_-_anexo.pdf",
+      "ano": 2019,
+      "norma": 1382
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/4/lei_4602_2019_anexo_i.pdf da norma Lei nº 4.602, de 30 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Quadro Geral de Pessoal da Câmara Municipal de Piedade",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/4/lei_4602_2019_anexo_i.pdf",
+      "ano": 2019,
+      "norma": 5181
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/5/lei_4602_2019_anexo_ii.pdf da norma Lei nº 4.602, de 30 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/5/lei_4602_2019_anexo_ii.pdf",
+      "ano": 2019,
+      "norma": 5181
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/6/anexo_i_lei_4578.pdf da norma Lei nº 4.578, de 19 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/6/anexo_i_lei_4578.pdf",
+      "ano": 2019,
+      "norma": 477
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/7/anexo_1.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Demonstração da receita e despesa segundo as categorias econômicas - Orçamento 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/7/anexo_1.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/8/anexo_2_categoria.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - Categoria econômica por Órgão - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/8/anexo_2_categoria.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/9/anexo_2_despesa.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - Categoria econômica por unidade orçamentária - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/9/anexo_2_despesa.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/10/anexo_2_receita.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - Resumo geral da receita - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/10/anexo_2_receita.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/anexo_2_resumo.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo 2 - Consolidação geral por categoria econômica - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/11/anexo_2_resumo.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/12/anexo_6.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexo 6 - Programa de trabalho por unidade orçamentária - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/12/anexo_6.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/13/anexo_7.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Anexo 07 - Programa de trabalho por funções, subfunções e programas - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/13/anexo_7.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/anexo_8.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexo 8 - Despesa por funções, subfunções e programas conf. vínculo com recurso - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/14/anexo_8.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/anexo_9.pdf da norma Lei nº 4.612, de 12 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Anexo 9 - Demonstrativo da despesa por orgãos e funções - Exercício 2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/15/anexo_9.pdf",
+      "ano": 2019,
+      "norma": 5208
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/16/lei_3759_2006_-_tabelas_wWxiCAy.pdf da norma Lei nº 3.759, de 18 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Tabelas de 1 a 17.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/16/lei_3759_2006_-_tabelas_wWxiCAy.pdf",
+      "ano": 2006,
+      "norma": 4630
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/17/lei_4619_2020_-_anexo_i.pdf da norma Lei nº 4.619, de 19 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Empreendimentos e atividades que causem ou possam causar impacto ambiental de âmbito local.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/17/lei_4619_2020_-_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 5219
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/18/lei_4619_2020_-_anexo_ii.pdf da norma Lei nº 4.619, de 19 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Cobranças de taxas de análises.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/18/lei_4619_2020_-_anexo_ii.pdf",
+      "ano": 2020,
+      "norma": 5219
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/19/lei_4625_2020_-_anexo_i.pdf da norma Lei nº 3.882, de 12 de fevereiro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2008/19/lei_4625_2020_-_anexo_i.pdf",
+      "ano": 2008,
+      "norma": 4604
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/20/lei_4625_2020_-_anexo_i.pdf da norma Lei nº 4.625, de 24 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/20/lei_4625_2020_-_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 5231
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/21/lei_4626_2020_compilada_-_anexo_vi.pdf da norma Lei nº 4.626, de 24 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI - Planejamento orçamentário - LDO.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/21/lei_4626_2020_compilada_-_anexo_vi.pdf",
+      "ano": 2020,
+      "norma": 5232
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/22/lei_4627_2020_-_anexo_iii.pdf da norma Lei nº 4.627, de 24 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Planejamento orçamentário - PPA.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/22/lei_4627_2020_-_anexo_iii.pdf",
+      "ano": 2020,
+      "norma": 5233
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/24/requerimento_comissao_-_covid-19.pdf da norma Ato nº 11, de 24 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Requerimento nº 1/2020.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/24/requerimento_comissao_-_covid-19.pdf",
+      "ano": 2020,
+      "norma": 5244
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/25/resposta_1_comissao_covid-19_-_ato_11_2020.pdf da norma Ato nº 11, de 24 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Resposta ao requerimento nº 1/2020 da comissão.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/25/resposta_1_comissao_covid-19_-_ato_11_2020.pdf",
+      "ano": 2020,
+      "norma": 5244
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/26/lei_4637_2020_-_anexos.pdf da norma Lei nº 4.637, de 24 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Anexos integrantes",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/26/lei_4637_2020_-_anexos.pdf",
+      "ano": 2020,
+      "norma": 5267
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/28/lei_4372_2015_-_anexo_i.pdf da norma Lei nº 4.372, de 30 de março de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - Organograma Estrutural",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/28/lei_4372_2015_-_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 205
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/29/lei_4372_2015_-_anexo_ii.pdf da norma Lei nº 4.372, de 30 de março de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - Cargos de provimento em comissão criados por esta lei - Agentes políticos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/29/lei_4372_2015_-_anexo_ii.pdf",
+      "ano": 2015,
+      "norma": 205
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/31/lei_4372_2015_-_anexo_iv.pdf da norma Lei nº 4.372, de 30 de março de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - Cargos de provimento em comissão criados por esta lei",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/31/lei_4372_2015_-_anexo_iv.pdf",
+      "ano": 2015,
+      "norma": 205
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/32/anexos_lei_4239_2012.pdf da norma Lei nº 4.239, de 17 de abril de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Anexos da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/32/anexos_lei_4239_2012.pdf",
+      "ano": 2012,
+      "norma": 21
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/33/lei_4655_2020_anexos.pdf da norma Lei nº 4.655, de 25 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Anexo da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2020/33/lei_4655_2020_anexos.pdf",
+      "ano": 2020,
+      "norma": 5319
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/34/lei_4598_2019_-_anexo_i.pdf da norma Lei nº 4.598, de 11 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Cargo e quantitativo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/34/lei_4598_2019_-_anexo_i.pdf",
+      "ano": 2019,
+      "norma": 5174
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/35/lei_4598_2019_-_anexo_ii.pdf da norma Lei nº 4.598, de 11 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/35/lei_4598_2019_-_anexo_ii.pdf",
+      "ano": 2019,
+      "norma": 5174
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/36/lei_4596_2019_anexo_vi.pdf da norma Lei nº 4.596, de 05 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI - Cargos permanentes, cargos em comissão e funções gratificadas.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/36/lei_4596_2019_anexo_vi.pdf",
+      "ano": 2019,
+      "norma": 4671
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/37/lei_4549_2018_anexo_i.pdf da norma Lei nº 4.549, de 28 de fevereiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2018/37/lei_4549_2018_anexo_i.pdf",
+      "ano": 2018,
+      "norma": 396
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/38/lei_4548_2018_anexo_i.pdf da norma Lei nº 4.548, de 28 de fevereiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Memorial descritivo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2018/38/lei_4548_2018_anexo_i.pdf",
+      "ano": 2018,
+      "norma": 395
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/39/lei_4558_2018_anexo_ii.pdf da norma Lei nº 4.548, de 28 de fevereiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Mapa",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2018/39/lei_4558_2018_anexo_ii.pdf",
+      "ano": 2018,
+      "norma": 395
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/41/lei_4413_2015_compilada_-_anexo_ii.pdf da norma Lei nº 4.413, de 14 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/41/lei_4413_2015_compilada_-_anexo_ii.pdf",
+      "ano": 2015,
+      "norma": 249
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/42/lei_2978_1998_anexo_i.pdf da norma Lei nº 2.978, de 02 de abril de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Quadro de servidores",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1998/42/lei_2978_1998_anexo_i.pdf",
+      "ano": 1998,
+      "norma": 3887
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/43/lei_4538_2017_demonstrativos.pdf da norma Lei nº 4.538, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "Demonstrativos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/43/lei_4538_2017_demonstrativos.pdf",
+      "ano": 2017,
+      "norma": 382
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/44/lei_4537_2017_anexos.pdf da norma Lei nº 4.537, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/44/lei_4537_2017_anexos.pdf",
+      "ano": 2017,
+      "norma": 381
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/45/lei_4413_2015_compilada_2_anexo_i.pdf da norma Lei nº 4.413, de 14 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Quadro Geral de Pessoal da Câmara Municipal de Piedade",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/45/lei_4413_2015_compilada_2_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 249
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/46/lei_4445_2016_compilada_anexo_i.pdf da norma Lei nº 4.445, de 29 de março de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Termo de Renúncia de Direitos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2016/46/lei_4445_2016_compilada_anexo_i.pdf",
+      "ano": 2016,
+      "norma": 286
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/47/lei_2977_1998_anexo_i.pdf da norma Lei nº 2.977, de 01 de abril de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Tabela de cargos e salários",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1998/47/lei_2977_1998_anexo_i.pdf",
+      "ano": 1998,
+      "norma": 3886
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/48/lei_2977_1998_anexo_ii.pdf da norma Lei nº 2.977, de 01 de abril de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Tabela de cargos e salários",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1998/48/lei_2977_1998_anexo_ii.pdf",
+      "ano": 1998,
+      "norma": 3886
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/49/lei_2977_1998_anexo_iii.pdf da norma Lei nº 2.977, de 01 de abril de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Cargos extintos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1998/49/lei_2977_1998_anexo_iii.pdf",
+      "ano": 1998,
+      "norma": 3886
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/50/lei_2977_1998_anexo_iv.pdf da norma Lei nº 2.977, de 01 de abril de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Organograma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1998/50/lei_2977_1998_anexo_iv.pdf",
+      "ano": 1998,
+      "norma": 3886
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/51/lei_2977_1998_anexo_iv.pdf da norma Lei nº 3.004, de 25 de junho de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV da lei municipal nº 2977, de 1º de abril de 1998.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1998/51/lei_2977_1998_anexo_iv.pdf",
+      "ano": 1998,
+      "norma": 4040
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/52/lei_3195_2000_anexo_iv.pdf da norma Lei nº 3.195, de 06 de julho de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV da lei municipal nº 2977, de 1º de abril de 1998",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2000/52/lei_3195_2000_anexo_iv.pdf",
+      "ano": 2000,
+      "norma": 4145
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/53/lei_3616_2005_anexos.pdf da norma Lei nº 3.616, de 14 de setembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Anexos I, II e III",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2005/53/lei_3616_2005_anexos.pdf",
+      "ano": 2005,
+      "norma": 4753
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/54/lei_3700_2006_anexo_i.pdf da norma Lei nº 3.700, de 19 de abril de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Classificação e súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/54/lei_3700_2006_anexo_i.pdf",
+      "ano": 2006,
+      "norma": 4723
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/56/lei_4230_2012_anexo_i.pdf da norma Lei nº 4.230, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/56/lei_4230_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 12
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/57/lei_4226_2012_anexo_i.pdf da norma Lei nº 4.226, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/57/lei_4226_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 8
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/58/lei_3851_2007_anexo_i.pdf da norma Lei nº 3.851, de 26 de dezembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições (Assistente Social)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2007/58/lei_3851_2007_anexo_i.pdf",
+      "ano": 2007,
+      "norma": 4827
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/59/lei_3851_2007_anexo_ii.pdf da norma Lei nº 3.851, de 26 de dezembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Súmula de atribuições (Psicólogo)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2007/59/lei_3851_2007_anexo_ii.pdf",
+      "ano": 2007,
+      "norma": 4827
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/63/lei_3696_2006_anexo_i.pdf da norma Lei nº 3.696, de 03 de abril de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/63/lei_3696_2006_anexo_i.pdf",
+      "ano": 2006,
+      "norma": 4641
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/64/lei_3397_2002_anexo_i.pdf da norma Lei nº 3.397, de 29 de outubro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Cargos permanentes - Regime estatutário",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2002/64/lei_3397_2002_anexo_i.pdf",
+      "ano": 2002,
+      "norma": 4443
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/65/lei_3397_2002_anexo_ii.pdf da norma Lei nº 3.397, de 29 de outubro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Requisitos para provimento dos cargos constantes no Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2002/65/lei_3397_2002_anexo_ii.pdf",
+      "ano": 2002,
+      "norma": 4443
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/66/lei_4512_2017_anexo_i.pdf da norma Lei nº 4.512, de 10 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Plano de Gerenciamento de Resíduos de Serviços de Saúde - PGRSS",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/66/lei_4512_2017_anexo_i.pdf",
+      "ano": 2017,
+      "norma": 356
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/67/lei_3515_2004_anexo_i.pdf da norma Lei nº 3.515, de 16 de março de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Planta",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2004/67/lei_3515_2004_anexo_i.pdf",
+      "ano": 2004,
+      "norma": 4424
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/68/lei_4501_2017_anexo_v.pdf da norma Lei nº 4.501, de 07 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - Planejamento orçamentário",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/68/lei_4501_2017_anexo_v.pdf",
+      "ano": 2017,
+      "norma": 345
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/69/lei_4501_2017_anexo_vi.pdf da norma Lei nº 4.501, de 07 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI - Planejamento orçamentário",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/69/lei_4501_2017_anexo_vi.pdf",
+      "ano": 2017,
+      "norma": 345
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/70/lei_4496_2017_anexo_i.pdf da norma Lei nº 4.496, de 15 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Organograma estrutural",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/70/lei_4496_2017_anexo_i.pdf",
+      "ano": 2017,
+      "norma": 340
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/71/lei_4496_2017_anexo_ii.pdf da norma Lei nº 4.496, de 15 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Organograma Secretaria de Saúde",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/71/lei_4496_2017_anexo_ii.pdf",
+      "ano": 2017,
+      "norma": 340
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/72/lei_4496_2017_anexo_iii.pdf da norma Lei nº 4.496, de 15 de maio de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Cargos de provimento em comissão",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/72/lei_4496_2017_anexo_iii.pdf",
+      "ano": 2017,
+      "norma": 340
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/73/lei_4177_2011_protocolo.pdf da norma Lei nº 4.177, de 25 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Protocolo de Intenções do consórcio Intermunicipal de Saneamento Básico da Bacia do Rio Sorocaba e Médio Tietê - CISAB.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/73/lei_4177_2011_protocolo.pdf",
+      "ano": 2011,
+      "norma": 5078
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/76/lei_4713_2021_anexo.pdf da norma Lei nº 4.713, de 27 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "Anexo da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/76/lei_4713_2021_anexo.pdf",
+      "ano": 2021,
+      "norma": 5417
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/77/anexos_-_plano_de_zoneamento.pdf da norma Lei nº 4.717, de 04 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/77/anexos_-_plano_de_zoneamento.pdf",
+      "ano": 2021,
+      "norma": 5422
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/78/anexo_i_-_plano_de_zoneamento.pdf da norma Lei nº 4.717, de 04 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Zoneamento urbano",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/78/anexo_i_-_plano_de_zoneamento.pdf",
+      "ano": 2021,
+      "norma": 5422
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/79/anexo_ii_-_plano_de_zoneamento.pdf da norma Lei nº 4.717, de 04 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Zoneamento",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/79/anexo_ii_-_plano_de_zoneamento.pdf",
+      "ano": 2021,
+      "norma": 5422
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/80/lei_4716_2021_anexo_i.pdf da norma Lei nº 4.716, de 04 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/80/lei_4716_2021_anexo_i.pdf",
+      "ano": 2021,
+      "norma": 5421
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/81/lei_4716_2021_anexo_ii.pdf da norma Lei nº 4.716, de 04 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/81/lei_4716_2021_anexo_ii.pdf",
+      "ano": 2021,
+      "norma": 5421
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/82/lei_4716_2021_anexo_iii.pdf da norma Lei nº 4.716, de 04 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "Anexo III",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/82/lei_4716_2021_anexo_iii.pdf",
+      "ano": 2021,
+      "norma": 5421
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/87/lei_4037_2009_anexo.pdf da norma Lei nº 4.037, de 29 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Tabela I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/87/lei_4037_2009_anexo.pdf",
+      "ano": 2009,
+      "norma": 4946
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/88/lei_4725_2021_anexos.pdf da norma Lei nº 4.725, de 13 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Anexos PPA",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/88/lei_4725_2021_anexos.pdf",
+      "ano": 2021,
+      "norma": 5438
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/90/lei_4726_2021_anexos.pdf da norma Lei nº 4.726, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Anexos LDO",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/90/lei_4726_2021_anexos.pdf",
+      "ano": 2021,
+      "norma": 5439
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/91/lei_4727_2021_anexos.pdf da norma Lei nº 4.727, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/91/lei_4727_2021_anexos.pdf",
+      "ano": 2021,
+      "norma": 5440
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/92/lei_4732_2021_anexos.pdf da norma Lei nº 4.732, de 21 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Plano Diretor de Turismo de Piedade",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/92/lei_4732_2021_anexos.pdf",
+      "ano": 2021,
+      "norma": 5445
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/93/anexoiiilei4471.pdf da norma Lei nº 4.471, de 14 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Planejamento orçamentário (inclusão)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2016/93/anexoiiilei4471.pdf",
+      "ano": 2016,
+      "norma": 315
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/94/anexoiiilei4471.pdf da norma Lei nº 4.310, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "Anexo III (Alterado pela lei nº 4471, de 14 de julho 2016).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/94/anexoiiilei4471.pdf",
+      "ano": 2013,
+      "norma": 141
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/96/lei_4416_2016_anexo_i.pdf da norma Lei nº 4.416, de 02 de fevereiro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2016/96/lei_4416_2016_anexo_i.pdf",
+      "ano": 2016,
+      "norma": 252
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/97/lei_4415_2015_anexo_i.pdf da norma Lei nº 4.415, de 16 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Plano Diretor de Desenvolvimento Turístico de Piedade.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/97/lei_4415_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 251
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/98/lei_3887_2008_anexo_i_compilado.pdf da norma Lei nº 3.887, de 19 de fevereiro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2008/98/lei_3887_2008_anexo_i_compilado.pdf",
+      "ano": 2008,
+      "norma": 4646
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/99/lei_4412_2015_anexo_i.pdf da norma Lei nº 4.412, de 14 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/99/lei_4412_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 248
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/100/lei_4411_2015_anexo_i.pdf da norma Lei nº 4.411, de 14 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/100/lei_4411_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 247
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/101/lei_4399_2015_anexo_i.pdf da norma Lei nº 4.399, de 24 de setembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Croqui do loteamento.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/101/lei_4399_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 235
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/102/lei_4397_2015_anexo_i.pdf da norma Lei nº 4.397, de 19 de agosto de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/102/lei_4397_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 233
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/103/lei_4396_2015_anexo_i.pdf da norma Lei nº 4.396, de 19 de agosto de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/103/lei_4396_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 232
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/104/lei_4755_2022_anexos.pdf da norma Lei nº 4.755, de 10 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "Anexos I a XII",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/104/lei_4755_2022_anexos.pdf",
+      "ano": 2022,
+      "norma": 5498
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/105/lei_4395_2015_anexo_i.pdf da norma Lei nº 4.395, de 19 de agosto de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/105/lei_4395_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 231
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/106/lei_4394_2015_anexo_i.pdf da norma Lei nº 4.394, de 19 de agosto de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/106/lei_4394_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 230
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/107/lei_4393_2015_anexo_i.pdf da norma Lei nº 4.393, de 12 de agosto de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Requerimento",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/107/lei_4393_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 229
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/108/lei_4393_2015_anexo_ii.pdf da norma Lei nº 4.393, de 12 de agosto de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Declaração",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/108/lei_4393_2015_anexo_ii.pdf",
+      "ano": 2015,
+      "norma": 229
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/109/lei_4391_2015_anexo_i.pdf da norma Lei nº 4.391, de 17 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Memorial descritivo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/109/lei_4391_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 227
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/110/lei_3947_2008_anexo_i.pdf da norma Lei nº 3.947, de 13 de agosto de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Das definições e conceitos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2008/110/lei_3947_2008_anexo_i.pdf",
+      "ano": 2008,
+      "norma": 4776
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/111/lei_4388_2015_anexo_i.pdf da norma Lei nº 4.388, de 17 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "Anexo I  - Planejamento orçamentário (estimativa de receitas)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/111/lei_4388_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 224
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/112/lei_4388_2015_anexo_ii.pdf da norma Lei nº 4.388, de 17 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "Anexo II  - Planejamento orçamentário (alteração)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/112/lei_4388_2015_anexo_ii.pdf",
+      "ano": 2015,
+      "norma": 224
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/113/lei_4388_2015_anexo_iii.pdf da norma Lei nº 4.388, de 17 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "Anexo III  - Planejamento orçamentário (alteração)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/113/lei_4388_2015_anexo_iii.pdf",
+      "ano": 2015,
+      "norma": 224
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/114/lei_4388_2015_anexo_iv.pdf da norma Lei nº 4.388, de 17 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV  - Planejamento orçamentário (estrutura de órgãos)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/114/lei_4388_2015_anexo_iv.pdf",
+      "ano": 2015,
+      "norma": 224
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/115/lei_4500_2017_anexo_ii.pdf da norma Lei nº 4.500, de 07 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Planejamento orçamentário (alteração)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/115/lei_4500_2017_anexo_ii.pdf",
+      "ano": 2017,
+      "norma": 344
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/116/lei_4500_2017_anexo_iii.pdf da norma Lei nº 4.500, de 07 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Planejamento orçamentário (inclusão)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/116/lei_4500_2017_anexo_iii.pdf",
+      "ano": 2017,
+      "norma": 344
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/117/lei_4500_2017_anexo_ii.pdf da norma Lei nº 4.310, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "Anexo II (Alterado pela lei nº 4500, de 7 de junho 2017).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/117/lei_4500_2017_anexo_ii.pdf",
+      "ano": 2013,
+      "norma": 141
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/118/lei_4500_2017_anexo_iii.pdf da norma Lei nº 4.310, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "Anexo III (Alterado pela lei nº 4500, de 7 de junho 2017).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/118/lei_4500_2017_anexo_iii.pdf",
+      "ano": 2013,
+      "norma": 141
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/119/lei_4388_2015_anexo_i.pdf da norma Lei nº 4.310, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "Anexo I (Alterado pela lei nº 4388, de 17 de julho 2015).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/119/lei_4388_2015_anexo_i.pdf",
+      "ano": 2013,
+      "norma": 141
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/120/lei_4388_2015_anexo_iii.pdf da norma Lei nº 4.310, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "Anexo III (Alterado pela lei nº 4388, de 17 de julho 2015).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/120/lei_4388_2015_anexo_iii.pdf",
+      "ano": 2013,
+      "norma": 141
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/121/lei_4388_2015_anexo_ii.pdf da norma Lei nº 4.310, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "Anexo II (Alterado pela lei nº 4388, de 17 de julho 2015).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/121/lei_4388_2015_anexo_ii.pdf",
+      "ano": 2013,
+      "norma": 141
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/122/lei_4388_2015_anexo_iv.pdf da norma Lei nº 4.310, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV (Alterado pela lei nº 4388, de 17 de julho 2015).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/122/lei_4388_2015_anexo_iv.pdf",
+      "ano": 2013,
+      "norma": 141
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/123/lei_4627_2020_anexo_iii.pdf da norma Lei nº 4.537, de 19 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "Anexo III (Alterado pela lei nº 4627, de 24 de março 2020).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2017/123/lei_4627_2020_anexo_iii.pdf",
+      "ano": 2017,
+      "norma": 381
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/124/lei_4626_2020_anexo_vi.pdf da norma Lei nº 4.590, de 16 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI (Alterado pela lei nº 4626, de 24 de março 2020).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2019/124/lei_4626_2020_anexo_vi.pdf",
+      "ano": 2019,
+      "norma": 1998
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/125/lei_4501_2017_anexo_v.pdf da norma Lei nº 4.470, de 14 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "Anexo V (Alterado pela lei nº 4501, de 7 de junho 2017).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2016/125/lei_4501_2017_anexo_v.pdf",
+      "ano": 2016,
+      "norma": 314
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/126/lei_4501_2017_anexo_vi.pdf da norma Lei nº 4.470, de 14 de julho de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI (Alterado pela lei nº 4501, de 7 de junho 2017).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2016/126/lei_4501_2017_anexo_vi.pdf",
+      "ano": 2016,
+      "norma": 314
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/127/lei_4387_2015_anexo_i.pdf da norma Lei nº 4.387, de 23 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "Anexo único",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/127/lei_4387_2015_anexo_i.pdf",
+      "ano": 2015,
+      "norma": 223
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/128/lei_3481_2003_anexo_i.pdf da norma Lei nº 3.481, de 23 de dezembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Plano Municipal de Educação (revogado pela Lei Municipal nº 4387, de 23 de junho de 2015).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2003/128/lei_3481_2003_anexo_i.pdf",
+      "ano": 2003,
+      "norma": 4519
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/129/lei_4361_2014_anexo_i.pdf da norma Lei nº 4.361, de 03 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições específicas de Monitor Escolar",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/129/lei_4361_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 193
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/130/lei_4361_2014_anexo_ii.pdf da norma Lei nº 4.361, de 03 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Atribuições específicas de Monitor de Transporte Escolar",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/130/lei_4361_2014_anexo_ii.pdf",
+      "ano": 2014,
+      "norma": 193
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/131/lei_4764_2022_anexo.pdf da norma Lei nº 4.764, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Planejamento orçamentário (inclusão)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/131/lei_4764_2022_anexo.pdf",
+      "ano": 2022,
+      "norma": 5513
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/132/lei_4765_2022_anexo.pdf da norma Lei nº 4.765, de 07 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "Anexos V e VI - Planejamento orçamentário (inclusão).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/132/lei_4765_2022_anexo.pdf",
+      "ano": 2022,
+      "norma": 5514
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/133/lei_4764_2022_anexo.pdf da norma Lei nº 4.725, de 13 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Planejamento orçamentário (alterado pela lei nº 4764, de 7 de junho de 2022)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/133/lei_4764_2022_anexo.pdf",
+      "ano": 2021,
+      "norma": 5438
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/134/lei_4766_2022_anexos.pdf da norma Lei nº 4.726, de 16 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "Anexos V e VI - Planejamento orçamentário (alterado pela lei nº 4765, de 7 de junho de 2022).",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2021/134/lei_4766_2022_anexos.pdf",
+      "ano": 2021,
+      "norma": 5439
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/135/lei_4363_2014_anexo_i.pdf da norma Lei nº 4.363, de 23 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Subvenções",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/135/lei_4363_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 195
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/136/lei_4338_2014_anexo_i.pdf da norma Lei nº 4.338, de 07 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições específicas",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/136/lei_4338_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 170
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/137/lei_4339_2014_anexo_i.pdf da norma Lei nº 4.339, de 28 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "Atribuições - Coordenador",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/137/lei_4339_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 171
+    },
+    {
+      "id": 138,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/138/lei_4339_2014_anexo_ii.pdf da norma Lei nº 4.339, de 28 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/138",
+      "metadata": {},
+      "assunto_anexo": "Atribuições - Psicólogo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/138/lei_4339_2014_anexo_ii.pdf",
+      "ano": 2014,
+      "norma": 171
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/139/lei_4337_2014_anexo_i.pdf da norma Lei nº 4.337, de 07 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "Atribuições - Coordenador",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/139/lei_4337_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 169
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/140/lei_4337_2014_anexo_ii.pdf da norma Lei nº 4.337, de 07 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "Atribuições - Psicólogo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/140/lei_4337_2014_anexo_ii.pdf",
+      "ano": 2014,
+      "norma": 169
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/141/lei_4331_2014_anexo_i.pdf da norma Lei nº 4.331, de 07 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "Atribuições - Trabalhador braçal",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/141/lei_4331_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 163
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/142/lei_4331_2014_anexo_ii.pdf da norma Lei nº 4.331, de 07 de maio de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "Atribuições - Lavador de veículos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/142/lei_4331_2014_anexo_ii.pdf",
+      "ano": 2014,
+      "norma": 163
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/143/lei_4769_2022_anexo_i.pdf da norma Lei nº 4.769, de 06 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Mapa do local",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/143/lei_4769_2022_anexo_i.pdf",
+      "ano": 2022,
+      "norma": 5607
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/144/lei_4325_2014_anexo_i.pdf da norma Lei nº 4.325, de 17 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "Ofício EP-23717 (Documento confidencial)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/144/lei_4325_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 156
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/145/lei_4323_2014_anexo_i.pdf da norma Lei nº 4.323, de 17 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/145/lei_4323_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 154
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/146/lei_4322_2014_anexo_i.pdf da norma Lei nº 4.322, de 17 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/146/lei_4322_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 153
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/147/lei_4321_2014_anexo_i.pdf da norma Lei nº 4.321, de 17 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo de Assistente Social",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/147/lei_4321_2014_anexo_i.pdf",
+      "ano": 2014,
+      "norma": 152
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/148/lei_4321_2014_anexo_ii.pdf da norma Lei nº 4.321, de 17 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Atribuições do cargo de Enfermeiro",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/148/lei_4321_2014_anexo_ii.pdf",
+      "ano": 2014,
+      "norma": 152
+    },
+    {
+      "id": 149,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/149/lei_4321_2014_anexo_iii.pdf da norma Lei nº 4.321, de 17 de março de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/149",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Atribuições do cargo de Terapeuta Ocupacional",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2014/149/lei_4321_2014_anexo_iii.pdf",
+      "ano": 2014,
+      "norma": 152
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/150/lei_4775_2022_anexos.pdf da norma Lei nº 4.775, de 20 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "Anexos da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/150/lei_4775_2022_anexos.pdf",
+      "ano": 2022,
+      "norma": 5614
+    },
+    {
+      "id": 151,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/151/mapa_lei_3128.pdf da norma Lei nº 3.128, de 17 de fevereiro de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/151",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2000/151/mapa_lei_3128.pdf",
+      "ano": 2000,
+      "norma": 3974
+    },
+    {
+      "id": 152,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/152/lei_4312_2013_anexo_i.pdf da norma Lei nº 4.312, de 20 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/152",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Subvenções",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/152/lei_4312_2013_anexo_i.pdf",
+      "ano": 2013,
+      "norma": 143
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/153/lei_4301_2013_anexo_i.pdf da norma Lei nº 4.301, de 27 de setembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/153/lei_4301_2013_anexo_i.pdf",
+      "ano": 2013,
+      "norma": 132
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/154/termo_aditivo_3968.pdf da norma Lei nº 4.290, de 27 de junho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "Termo aditivo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/154/termo_aditivo_3968.pdf",
+      "ano": 2013,
+      "norma": 121
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/155/termo_aditivo_3968.pdf da norma Lei nº 3.968, de 23 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "Termo aditivo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2008/155/termo_aditivo_3968.pdf",
+      "ano": 2008,
+      "norma": 4838
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/156/lei_3968_2008_anexo.pdf da norma Lei nº 3.968, de 23 de dezembro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "Convênio",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2008/156/lei_3968_2008_anexo.pdf",
+      "ano": 2008,
+      "norma": 4838
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/157/termo_de_cooperacao.pdf da norma Lei nº 4.284, de 19 de abril de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "Termo de cooperação",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/157/termo_de_cooperacao.pdf",
+      "ano": 2013,
+      "norma": 115
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/158/lei_4788_2022_anexo_i.pdf da norma Lei nº 4.788, de 01 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/158/lei_4788_2022_anexo_i.pdf",
+      "ano": 2022,
+      "norma": 5646
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/159/lei_4788_2022_anexo_ii.pdf da norma Lei nº 4.788, de 01 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/159/lei_4788_2022_anexo_ii.pdf",
+      "ano": 2022,
+      "norma": 5646
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/160/lei_4246_2012_anexo_iii.pdf da norma Lei nº 4.246, de 29 de maio de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "Anexo III",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/160/lei_4246_2012_anexo_iii.pdf",
+      "ano": 2012,
+      "norma": 27
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/161/lei_3542_2004_anexo_i.pdf da norma Lei nº 3.542, de 29 de julho de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Classe, cargo e atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2004/161/lei_3542_2004_anexo_i.pdf",
+      "ano": 2004,
+      "norma": 4536
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/162/lei_4235_2012_anexo_i.pdf da norma Lei nº 4.235, de 19 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/162/lei_4235_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 17
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/163/lei_4233_2012_anexo_i.pdf da norma Lei nº 4.233, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/163/lei_4233_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 15
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/164/lei_4232_2012_anexo_i.pdf da norma Lei nº 4.232, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/164/lei_4232_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 14
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/165/lei_4231_2012_anexo_i.pdf da norma Lei nº 4.231, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/165/lei_4231_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 13
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/166/lei_4793_2022_anexos.pdf da norma Lei nº 4.793, de 15 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2022/166/lei_4793_2022_anexos.pdf",
+      "ano": 2022,
+      "norma": 5661
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/167/lei_4229_2012_anexo_i.pdf da norma Lei nº 4.229, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/167/lei_4229_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 11
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/168/lei_4228_2012_anexo_i.pdf da norma Lei nº 4.228, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/168/lei_4228_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 10
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/169/lei_4227_2012_anexo_i.pdf da norma Lei nº 4.227, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/169/lei_4227_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 9
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/170/lei_4225_2012_anexo_i.pdf da norma Lei nº 4.225, de 02 de março de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2012/170/lei_4225_2012_anexo_i.pdf",
+      "ano": 2012,
+      "norma": 7
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/171/publicacao_-_ato_7_2011.pdf da norma Ato nº 7, de 23 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "Publicação.",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/171/publicacao_-_ato_7_2011.pdf",
+      "ano": 2011,
+      "norma": 5670
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/172/publicacao_-_ato_8_2011.pdf da norma Ato nº 8, de 23 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/172/publicacao_-_ato_8_2011.pdf",
+      "ano": 2011,
+      "norma": 5606
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/173/publicacao_-_ato_9_2011.pdf da norma Ato nº 9, de 23 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/173/publicacao_-_ato_9_2011.pdf",
+      "ano": 2011,
+      "norma": 5671
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/174/publicacao_-_ato_10_2011.pdf da norma Ato nº 10, de 23 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/174/publicacao_-_ato_10_2011.pdf",
+      "ano": 2011,
+      "norma": 5672
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/175/publicacao_-_ato_11_2011.pdf da norma Ato nº 11, de 23 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/175/publicacao_-_ato_11_2011.pdf",
+      "ano": 2011,
+      "norma": 5673
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/176/ato_8_-_18-4-2023_presidente_anexo_i_-_diagrama_do_processo_geral.pdf da norma Ato nº 8, de 18 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Diagrama do processo geral",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/176/ato_8_-_18-4-2023_presidente_anexo_i_-_diagrama_do_processo_geral.pdf",
+      "ano": 2023,
+      "norma": 5742
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/177/ato_8_-_18-4-2023_presidente_anexo_ii_-_diagrama_de_execucao_de_contratos.pdf da norma Ato nº 8, de 18 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Diagrama da execução contratual",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/177/ato_8_-_18-4-2023_presidente_anexo_ii_-_diagrama_de_execucao_de_contratos.pdf",
+      "ano": 2023,
+      "norma": 5742
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/178/ato_8_-_18-4-2023_presidente_anexo_iii_-_termo_de_confidencialidade.pdf da norma Ato nº 8, de 18 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Termo de confidencialidade",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/178/ato_8_-_18-4-2023_presidente_anexo_iii_-_termo_de_confidencialidade.pdf",
+      "ano": 2023,
+      "norma": 5742
+    },
+    {
+      "id": 179,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/179/lei_4813_2023_anexo_i.pdf da norma Lei nº 4.813, de 23 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/179",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/179/lei_4813_2023_anexo_i.pdf",
+      "ano": 2023,
+      "norma": 5762
+    },
+    {
+      "id": 181,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/181/lei_4372_2015_anexo_iii.pdf da norma Lei nº 4.372, de 30 de março de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/181",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III - Cargos de provimento em comissão criados por esta lei",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/181/lei_4372_2015_anexo_iii.pdf",
+      "ano": 2015,
+      "norma": 205
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/182/lei_4821_2023_anexos.pdf da norma Lei nº 4.821, de 27 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/182/lei_4821_2023_anexos.pdf",
+      "ano": 2023,
+      "norma": 5790
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/183/lei_4800_anexo.pdf da norma Lei nº 4.800, de 22 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/183/lei_4800_anexo.pdf",
+      "ano": 2023,
+      "norma": 5716
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/184/lei_4804_2023_anexos.pdf da norma Lei nº 4.804, de 12 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/184/lei_4804_2023_anexos.pdf",
+      "ano": 2023,
+      "norma": 5738
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/185/lei_4408_2015_subanexos.pdf da norma Lei nº 4.408, de 08 de dezembro de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "Subanexos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2015/185/lei_4408_2015_subanexos.pdf",
+      "ano": 2015,
+      "norma": 244
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1994/186/lei_2540_1994_anexo_i.pdf da norma Lei nº 2.540, de 25 de abril de 1994",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Projeto técnico",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1994/186/lei_2540_1994_anexo_i.pdf",
+      "ano": 1994,
+      "norma": 3481
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1987/187/lei_2540_1994_anexo_i.pdf da norma Lei nº 1.674, de 08 de junho de 1987",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Projeto técnico (alterado pela Lei Municipal nº 2540, de 25 de abril de 1994)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1987/187/lei_2540_1994_anexo_i.pdf",
+      "ano": 1987,
+      "norma": 2655
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/188/lei_4843_2023_anexos.pdf da norma Lei nº 4.843, de 19 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/188/lei_4843_2023_anexos.pdf",
+      "ano": 2023,
+      "norma": 5864
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/189/lei_4836_2023_anexo.pdf da norma Lei nº 4.836, de 01 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/189/lei_4836_2023_anexo.pdf",
+      "ano": 2023,
+      "norma": 5848
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/190/lei_4813_2023_anexo_ii.pdf da norma Lei nº 4.813, de 23 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2023/190/lei_4813_2023_anexo_ii.pdf",
+      "ano": 2023,
+      "norma": 5762
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/192/lei_4854_2024_anexos.pdf da norma Lei nº 4.854, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/192/lei_4854_2024_anexos.pdf",
+      "ano": 2024,
+      "norma": 5899
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/193/lei_4855_2024_anexos.pdf da norma Lei nº 4.855, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "Anexos I, II, III e IV",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/193/lei_4855_2024_anexos.pdf",
+      "ano": 2024,
+      "norma": 5900
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/194/lei_3994_2009_anexo_i.pdf da norma Lei nº 3.994, de 27 de abril de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/194/lei_3994_2009_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 4878
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/195/lei_4856_2024_anexos.pdf da norma Lei nº 4.856, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "Anexos I, II e III",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/195/lei_4856_2024_anexos.pdf",
+      "ano": 2024,
+      "norma": 5901
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/196/lei_3730_2006_anexo_i.pdf da norma Lei nº 3.730, de 11 de agosto de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/196/lei_3730_2006_anexo_i.pdf",
+      "ano": 2006,
+      "norma": 5019
+    },
+    {
+      "id": 197,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/197/lei_4857_2024_anexos.pdf da norma Lei nº 4.857, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/197",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/197/lei_4857_2024_anexos.pdf",
+      "ano": 2024,
+      "norma": 5902
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/199/lei_4858_2024_compilada_-_anexos.pdf da norma Lei nº 4.858, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/199/lei_4858_2024_compilada_-_anexos.pdf",
+      "ano": 2024,
+      "norma": 5903
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/200/lei_4861_2024_anexos.pdf da norma Lei nº 4.861, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/200/lei_4861_2024_anexos.pdf",
+      "ano": 2024,
+      "norma": 5906
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/201/lei_4859_2024_anexos.pdf da norma Lei nº 4.859, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/201/lei_4859_2024_anexos.pdf",
+      "ano": 2024,
+      "norma": 5904
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/202/lei_4860_2024_anexos.pdf da norma Lei nº 4.860, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "Anexos I e II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/202/lei_4860_2024_anexos.pdf",
+      "ano": 2024,
+      "norma": 5905
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/203/lei_4865_2024_anexo.pdf da norma Lei nº 4.865, de 04 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Tabela com os índices",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/203/lei_4865_2024_anexo.pdf",
+      "ano": 2024,
+      "norma": 5913
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/204/lei_4846_2024_compilada_-_anexo_i.pdf da norma Lei nº 4.846, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Especificações do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/204/lei_4846_2024_compilada_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 5883
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/205/lei_4846_2024_compilada_-_anexo_ii.pdf da norma Lei nº 4.846, de 06 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/205/lei_4846_2024_compilada_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 5883
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/206/lei_4209_2011_anexo_i.pdf da norma Lei nº 4.209, de 28 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2011/206/lei_4209_2011_anexo_i.pdf",
+      "ano": 2011,
+      "norma": 5132
+    },
+    {
+      "id": 207,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/207/lei_4876_2024_anexo.pdf da norma Lei nº 4.876, de 25 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/207",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/207/lei_4876_2024_anexo.pdf",
+      "ano": 2024,
+      "norma": 5961
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/208/lei_4862_2024_compilada_-_anexo_i.pdf da norma Lei nº 4.862, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/208/lei_4862_2024_compilada_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 5907
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/209/lei_4862_2024_anexo_ii.pdf da norma Lei nº 4.862, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/209/lei_4862_2024_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 5907
+    },
+    {
+      "id": 210,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/210/lei_4862_2024_anexo_iii.pdf da norma Lei nº 4.862, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/210",
+      "metadata": {},
+      "assunto_anexo": "Anexo III",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/210/lei_4862_2024_anexo_iii.pdf",
+      "ano": 2024,
+      "norma": 5907
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/211/lei_4862_2024_compilada_-_anexo_iv.pdf da norma Lei nº 4.862, de 20 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/211/lei_4862_2024_compilada_-_anexo_iv.pdf",
+      "ano": 2024,
+      "norma": 5907
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1989/212/lei_1858_anexo_i.pdf da norma Lei nº 1.858, de 04 de maio de 1989",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Quadro do Magistério",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1989/212/lei_1858_anexo_i.pdf",
+      "ano": 1989,
+      "norma": 2802
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/213/lei_3389_2002_anexo_i.pdf da norma Lei nº 3.389, de 27 de setembro de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Tabela de pontuação",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2002/213/lei_3389_2002_anexo_i.pdf",
+      "ano": 2002,
+      "norma": 4413
+    },
+    {
+      "id": 214,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/214/lei_3434_2003_anexo_i.pdf da norma Lei nº 3.434, de 12 de março de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/214",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Quadro de Pessoal de Suporte Pedagógico e Magistério do Ensino Fundamental - Cargos Permanentes - Regime Estatutário",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2003/214/lei_3434_2003_anexo_i.pdf",
+      "ano": 2003,
+      "norma": 4379
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/215/lei_3434_2003_anexo_ii.pdf da norma Lei nº 3.434, de 12 de março de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Quadro de Pessoal de Apoio - Ensino Fundamental - Quadro Permanente - Regime Estatutário",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2003/215/lei_3434_2003_anexo_ii.pdf",
+      "ano": 2003,
+      "norma": 4379
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/216/lei_3434_2003_anexo_iii.pdf da norma Lei nº 3.434, de 12 de março de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Módulo Escolar",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2003/216/lei_3434_2003_anexo_iii.pdf",
+      "ano": 2003,
+      "norma": 4379
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/217/lei_3666_2005_anexo_i.pdf da norma Lei nº 3.666, de 16 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Tabelas indicativas",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2005/217/lei_3666_2005_anexo_i.pdf",
+      "ano": 2005,
+      "norma": 5020
+    },
+    {
+      "id": 218,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/218/lei_3753_2006_anexo_i.pdf da norma Lei nº 3.753, de 05 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/218",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Ficha de avaliação para o bônus - Avaliação de diretor",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/218/lei_3753_2006_anexo_i.pdf",
+      "ano": 2006,
+      "norma": 5075
+    },
+    {
+      "id": 219,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/219/lei_3753_2006_anexo_ii.pdf da norma Lei nº 3.753, de 05 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/219",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Ficha de avaliação para o bônus - Avaliação de docente",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/219/lei_3753_2006_anexo_ii.pdf",
+      "ano": 2006,
+      "norma": 5075
+    },
+    {
+      "id": 220,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/220/lei_3753_2006_anexo_iii.pdf da norma Lei nº 3.753, de 05 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/220",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Ficha de avaliação para o bônus - Avaliação de funcionários de suporte pedagógico",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/220/lei_3753_2006_anexo_iii.pdf",
+      "ano": 2006,
+      "norma": 5075
+    },
+    {
+      "id": 221,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/221/lei_3808_2007_anexo_i.pdf da norma Lei nº 3.808, de 19 de julho de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/221",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Ficha de avaliação para o bônus - Avaliação de diretor",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2007/221/lei_3808_2007_anexo_i.pdf",
+      "ano": 2007,
+      "norma": 5077
+    },
+    {
+      "id": 222,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/222/lei_3808_2007_anexo_ii.pdf da norma Lei nº 3.808, de 19 de julho de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/222",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Ficha de avaliação para o bônus - Avaliação de docente",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2007/222/lei_3808_2007_anexo_ii.pdf",
+      "ano": 2007,
+      "norma": 5077
+    },
+    {
+      "id": 223,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/223/lei_3808_2007_anexo_iii.pdf da norma Lei nº 3.808, de 19 de julho de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/223",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Ficha de avaliação para o bônus - Avaliação de funcionários de suporte pedagógico",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2007/223/lei_3808_2007_anexo_iii.pdf",
+      "ano": 2007,
+      "norma": 5077
+    },
+    {
+      "id": 224,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/224/lei_3541_2004_anexos.pdf da norma Lei nº 3.541, de 23 de julho de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/224",
+      "metadata": {},
+      "assunto_anexo": "Anexos I, II e III - Tabelas explicativas",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2004/224/lei_3541_2004_anexos.pdf",
+      "ano": 2004,
+      "norma": 5996
+    },
+    {
+      "id": 225,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/225/lei_3714_2006_anexo_i.pdf da norma Lei nº 3.714, de 12 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/225",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Unidades escolares de educação básica",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/225/lei_3714_2006_anexo_i.pdf",
+      "ano": 2006,
+      "norma": 4910
+    },
+    {
+      "id": 226,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/226/lei_3714_2006_anexo_ii.pdf da norma Lei nº 3.714, de 12 de junho de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/226",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2006/226/lei_3714_2006_anexo_ii.pdf",
+      "ano": 2006,
+      "norma": 4910
+    },
+    {
+      "id": 227,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/227/autografo_46_-_18-12-2024_ple_21_-_anexo_i.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/227",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Demonstração da receita e despesa segundo as categorias econômicas",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/227/autografo_46_-_18-12-2024_ple_21_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 228,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/228/autografo_46_-_18-12-2024_ple_21_-_anexo_ii.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/228",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Categoria econômica por Órgão",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/228/autografo_46_-_18-12-2024_ple_21_-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 229,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/229/autografo_46_-_18-12-2024_ple_21_-_anexo_ii_a.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/229",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Categoria econômica por unidade orçamentária",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/229/autografo_46_-_18-12-2024_ple_21_-_anexo_ii_a.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 230,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/230/autografo_46_-_18-12-2024_ple_21_-_anexo_ii_b.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/230",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Consolidação geral por categoria econômica",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/230/autografo_46_-_18-12-2024_ple_21_-_anexo_ii_b.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 231,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/231/autografo_46_-_18-12-2024_ple_21_-_anexo_ii_c.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/231",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Resumo geral da receita",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/231/autografo_46_-_18-12-2024_ple_21_-_anexo_ii_c.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 232,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/232/autografo_46_-_18-12-2024_ple_21_-_anexo_vi.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/232",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI - Programa de trabalho por unidade orçamentária",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/232/autografo_46_-_18-12-2024_ple_21_-_anexo_vi.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 233,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/233/autografo_46_-_18-12-2024_ple_21_-_anexo_vii.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/233",
+      "metadata": {},
+      "assunto_anexo": "Anexo VII - Programa de trabalho por funções, subfunções e programas",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/233/autografo_46_-_18-12-2024_ple_21_-_anexo_vii.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 234,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/234/autografo_46_-_18-12-2024_ple_21_-_anexo_viii.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/234",
+      "metadata": {},
+      "assunto_anexo": "Anexo VIII - Despesa por funções, subfunções e programas conf. vínculo com recurso",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/234/autografo_46_-_18-12-2024_ple_21_-_anexo_viii.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 235,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/235/autografo_46_-_18-12-2024_ple_21_-_resumo_do_orcamento.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/235",
+      "metadata": {},
+      "assunto_anexo": "Resumo do orçamento das despesas por Projeto, Atividade, Operações Especiais e Reserva de Contingência",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/235/autografo_46_-_18-12-2024_ple_21_-_resumo_do_orcamento.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 236,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/236/autografo_46_-_18-12-2024_ple_21_-_resumo_ii.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/236",
+      "metadata": {},
+      "assunto_anexo": "Resumo do Orçamento das Receitas e Despesas por Funções de Governo (Sumário Geral)",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/236/autografo_46_-_18-12-2024_ple_21_-_resumo_ii.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 237,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/237/autografo_46_-_18-12-2024_ple_21_-_evolucao.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/237",
+      "metadata": {},
+      "assunto_anexo": "Evolução e projeção da receita",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/237/autografo_46_-_18-12-2024_ple_21_-_evolucao.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 238,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/238/autografo_46_-_18-12-2024_ple_21_-_anexo_ix.pdf da norma Lei nº 4.889, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/238",
+      "metadata": {},
+      "assunto_anexo": "Anexo IX - Demonstrativo da despesa por orgãos e funções",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/238/autografo_46_-_18-12-2024_ple_21_-_anexo_ix.pdf",
+      "ano": 2024,
+      "norma": 6010
+    },
+    {
+      "id": 239,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/239/lei_4900_2025_anexo_i.pdf da norma Lei nº 4.900, de 03 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/239",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Mapa do local",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/239/lei_4900_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6041
+    },
+    {
+      "id": 240,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/240/autografo_16_-_14-4-2025_pll_11_anexo_i.pdf da norma Lei nº 4.907, de 16 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/240",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Mapa do local",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/240/autografo_16_-_14-4-2025_pll_11_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6054
+    },
+    {
+      "id": 241,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/241/lei_4134__2010_anexo_i.pdf da norma Lei nº 4.134, de 25 de outubro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/241",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2010/241/lei_4134__2010_anexo_i.pdf",
+      "ano": 2010,
+      "norma": 5161
+    },
+    {
+      "id": 242,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/242/lei_4139_2010_anexo_i.pdf da norma Lei nº 4.139, de 07 de dezembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/242",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2010/242/lei_4139_2010_anexo_i.pdf",
+      "ano": 2010,
+      "norma": 5166
+    },
+    {
+      "id": 243,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/243/lei_4912_2025_anexos.pdf da norma Lei nº 4.912, de 11 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/243",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/243/lei_4912_2025_anexos.pdf",
+      "ano": 2025,
+      "norma": 6076
+    },
+    {
+      "id": 244,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/244/autografo_26_-_23-6-2025_ple_29_anexo_i.pdf da norma Lei nº 4.917, de 25 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/244",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/244/autografo_26_-_23-6-2025_ple_29_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6085
+    },
+    {
+      "id": 245,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/245/lei_3642_2005_anexo_i.pdf da norma Lei nº 3.642, de 11 de novembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/245",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Planilha de valores",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2005/245/lei_3642_2005_anexo_i.pdf",
+      "ano": 2005,
+      "norma": 4876
+    },
+    {
+      "id": 246,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/246/anexo_i_-_planilha_de_valores.pdf da norma Lei nº 3.664, de 16 de dezembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/246",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Planilha de valores",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2005/246/anexo_i_-_planilha_de_valores.pdf",
+      "ano": 2005,
+      "norma": 5012
+    },
+    {
+      "id": 247,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/247/lei_3664_2005_anexo_i.pdf da norma Lei nº 3.583, de 08 de abril de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/247",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Planilha de valores",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2005/247/lei_3664_2005_anexo_i.pdf",
+      "ano": 2005,
+      "norma": 4483
+    },
+    {
+      "id": 248,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/248/lei_2490_1993_anexo_i.pdf da norma Lei nº 2.490, de 18 de novembro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/248",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1993/248/lei_2490_1993_anexo_i.pdf",
+      "ano": 1993,
+      "norma": 3543
+    },
+    {
+      "id": 249,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/249/lei_2475_1993_anexo_i.pdf da norma Lei nº 2.475, de 19 de outubro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/249",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Quadro de Pessoal Permanente",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1993/249/lei_2475_1993_anexo_i.pdf",
+      "ano": 1993,
+      "norma": 3517
+    },
+    {
+      "id": 250,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/250/lei_2475_1993_anexo_ii.pdf da norma Lei nº 2.475, de 19 de outubro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/250",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Cargos em Comissão",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1993/250/lei_2475_1993_anexo_ii.pdf",
+      "ano": 1993,
+      "norma": 3517
+    },
+    {
+      "id": 251,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/251/lei_2475_1993_anexo_iii.pdf da norma Lei nº 2.475, de 19 de outubro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/251",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Cargos Extintos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1993/251/lei_2475_1993_anexo_iii.pdf",
+      "ano": 1993,
+      "norma": 3517
+    },
+    {
+      "id": 252,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/252/lei_2475_1993_anexo_iv.pdf da norma Lei nº 2.475, de 19 de outubro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/252",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Reenquadramento de servidores",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1993/252/lei_2475_1993_anexo_iv.pdf",
+      "ano": 1993,
+      "norma": 3517
+    },
+    {
+      "id": 253,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/253/lei_2475_1993_anexo_v.pdf da norma Lei nº 2.475, de 19 de outubro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/253",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - Organograma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1993/253/lei_2475_1993_anexo_v.pdf",
+      "ano": 1993,
+      "norma": 3517
+    },
+    {
+      "id": 254,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/254/lei_2004_1990_anexos.pdf da norma Lei nº 2.004, de 29 de outubro de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/254",
+      "metadata": {},
+      "assunto_anexo": "Anexos da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1990/254/lei_2004_1990_anexos.pdf",
+      "ano": 1990,
+      "norma": 2948
+    },
+    {
+      "id": 255,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1989/255/lei_1865_1989_anexos.pdf da norma Lei nº 1.865, de 05 de junho de 1989",
+      "link_detail_backend": "/norma/anexonormajuridica/255",
+      "metadata": {},
+      "assunto_anexo": "Anexos da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/1989/255/lei_1865_1989_anexos.pdf",
+      "ano": 1989,
+      "norma": 2816
+    },
+    {
+      "id": 256,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/256/resolucao_31_-_16-12-2024_anexo_unico_1.pdf da norma Resolução nº 31, de 16 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/256",
+      "metadata": {},
+      "assunto_anexo": "Anexo único",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2024/256/resolucao_31_-_16-12-2024_anexo_unico_1.pdf",
+      "ano": 2024,
+      "norma": 6008
+    },
+    {
+      "id": 257,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/257/lei_4919_2025_anexo_i.pdf da norma Lei nº 4.919, de 10 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/257",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/257/lei_4919_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6102
+    },
+    {
+      "id": 258,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/258/lei_4925_2025_anexo_i.pdf da norma Lei nº 4.925, de 07 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/258",
+      "metadata": {},
+      "assunto_anexo": "Protocolo de intenções",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/258/lei_4925_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6114
+    },
+    {
+      "id": 259,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/259/lei_4935_2025_anexo_i.pdf da norma Lei nº 4.935, de 19 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/259",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Mapa do local",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/259/lei_4935_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6134
+    },
+    {
+      "id": 260,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/260/lei_4939_2025_anexo_i.pdf da norma Lei nº 4.939, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/260",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/260/lei_4939_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6138
+    },
+    {
+      "id": 261,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/261/lei_4940_2025_anexo_i.pdf da norma Lei nº 4.940, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/261",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/261/lei_4940_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6139
+    },
+    {
+      "id": 262,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/262/lei_4934_2025_anexos.pdf da norma Lei nº 4.934, de 12 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/262",
+      "metadata": {},
+      "assunto_anexo": "Anexos da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/262/lei_4934_2025_anexos.pdf",
+      "ano": 2025,
+      "norma": 6130
+    },
+    {
+      "id": 263,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/263/lei_4932_2025_compilada.pdf da norma Lei nº 4.932, de 12 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/263",
+      "metadata": {},
+      "assunto_anexo": "Anexos da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/263/lei_4932_2025_compilada.pdf",
+      "ano": 2025,
+      "norma": 6128
+    },
+    {
+      "id": 264,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/264/anexo_19_-_quadro_de_pessoal_2025.pdf da norma Ato nº 29, de 01 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/264",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/264/anexo_19_-_quadro_de_pessoal_2025.pdf",
+      "ano": 2025,
+      "norma": 6141
+    },
+    {
+      "id": 266,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/266/lei_4947_2025_anexo_i.pdf da norma Lei nº 4.947, de 18 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/266",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/266/lei_4947_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6148
+    },
+    {
+      "id": 267,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/267/lei_4946_2025_anexos.pdf da norma Lei nº 4.946, de 17 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/267",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/267/lei_4946_2025_anexos.pdf",
+      "ano": 2025,
+      "norma": 6149
+    },
+    {
+      "id": 268,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/268/lei_4945_2025_anexo_i.pdf da norma Lei nº 4.945, de 17 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/268",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Mapa do local",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2025/268/lei_4945_2025_anexo_i.pdf",
+      "ano": 2025,
+      "norma": 6147
+    },
+    {
+      "id": 269,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/269/lei_4086_2010_anexo_ii.pdf da norma Lei nº 4.086, de 26 de fevereiro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/269",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2010/269/lei_4086_2010_anexo_ii.pdf",
+      "ano": 2010,
+      "norma": 1237
+    },
+    {
+      "id": 270,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/270/lei_4086_2010_anexo_i.pdf da norma Lei nº 4.086, de 26 de fevereiro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/270",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Quadro de Pessoal da Câmara Municipal",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2010/270/lei_4086_2010_anexo_i.pdf",
+      "ano": 2010,
+      "norma": 1237
+    },
+    {
+      "id": 271,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/271/lei_4957_2026_-_anexo_i.pdf da norma Lei nº 4.957, de 18 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/271",
+      "metadata": {},
+      "assunto_anexo": "Atribuições do cargo",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/271/lei_4957_2026_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6166
+    },
+    {
+      "id": 272,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/272/resolucao_38_-_16-3-2026_presidente_anexo_i.pdf da norma Resolução nº 38, de 16 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/272",
+      "metadata": {},
+      "assunto_anexo": "Relatório da CPI",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/272/resolucao_38_-_16-3-2026_presidente_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6167
+    },
+    {
+      "id": 273,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/273/lei_4959_2026_-_anexo_i.pdf da norma Lei nº 4.959, de 02 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/273",
+      "metadata": {},
+      "assunto_anexo": "Contrato de repasse",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/273/lei_4959_2026_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6172
+    },
+    {
+      "id": 274,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/274/lei_4294_2013_anexo.pdf da norma Lei nº 4.294, de 19 de julho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/274",
+      "metadata": {},
+      "assunto_anexo": "Anexo da norma",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2013/274/lei_4294_2013_anexo.pdf",
+      "ano": 2013,
+      "norma": 125
+    },
+    {
+      "id": 275,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/275/lei_4962_2026_-_anexo_i.pdf da norma Lei nº 4.962, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/275",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/275/lei_4962_2026_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6179
+    },
+    {
+      "id": 276,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/276/lei_4962_2026_-_anexo_ii.pdf da norma Lei nº 4.962, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/276",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/276/lei_4962_2026_-_anexo_ii.pdf",
+      "ano": 2026,
+      "norma": 6179
+    },
+    {
+      "id": 277,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/277/lei_4962_2026_-_anexo_iii.pdf da norma Lei nº 4.962, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/277",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/277/lei_4962_2026_-_anexo_iii.pdf",
+      "ano": 2026,
+      "norma": 6179
+    },
+    {
+      "id": 278,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/278/lei_4962_2026_-_anexo_iv.pdf da norma Lei nº 4.962, de 15 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/278",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/278/lei_4962_2026_-_anexo_iv.pdf",
+      "ano": 2026,
+      "norma": 6179
+    },
+    {
+      "id": 279,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/279/lei_4032_2009_anexo_i.pdf da norma Lei nº 4.032, de 14 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/279",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/279/lei_4032_2009_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 4940
+    },
+    {
+      "id": 280,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/280/lei_4030_2009_anexo_i.pdf da norma Lei nº 4.030, de 07 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/280",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/280/lei_4030_2009_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 4938
+    },
+    {
+      "id": 281,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/281/lei_4030_2009_anexo_ii.pdf da norma Lei nº 4.030, de 07 de outubro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/281",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/281/lei_4030_2009_anexo_ii.pdf",
+      "ano": 2009,
+      "norma": 4938
+    },
+    {
+      "id": 282,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/282/lei_4006_2009_anexo_i.pdf da norma Lei nº 4.006, de 22 de junho de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/282",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/282/lei_4006_2009_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 4897
+    },
+    {
+      "id": 283,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/283/lei_4965_2026_anexo_i.pdf da norma Lei nº 4.966, de 13 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/283",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Mapa do local",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/283/lei_4965_2026_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6195
+    },
+    {
+      "id": 284,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/284/lei_4002_2009_anexo_i.pdf da norma Lei nº 4.002, de 17 de junho de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/284",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/284/lei_4002_2009_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 4893
+    },
+    {
+      "id": 285,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/285/lei_4001_2009_anexo_i.pdf da norma Lei nº 4.001, de 28 de maio de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/285",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/285/lei_4001_2009_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 4891
+    },
+    {
+      "id": 286,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/286/lei_4000_2009_anexo_i.pdf da norma Lei nº 4.000, de 28 de maio de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/286",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2009/286/lei_4000_2009_anexo_i.pdf",
+      "ano": 2009,
+      "norma": 4890
+    },
+    {
+      "id": 287,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/287/lei_4968_2026_anexo_i.pdf da norma Lei nº 4.968, de 03 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/287",
+      "metadata": {},
+      "assunto_anexo": "Quadro geral de pessoal",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/287/lei_4968_2026_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6200
+    },
+    {
+      "id": 288,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/288/lei_4968_2026_anexo_ii.pdf da norma Lei nº 4.968, de 03 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/288",
+      "metadata": {},
+      "assunto_anexo": "Súmula de atribuições",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/288/lei_4968_2026_anexo_ii.pdf",
+      "ano": 2026,
+      "norma": 6200
+    },
+    {
+      "id": 289,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/289/lei_4969_2026_anexo_i.pdf da norma Lei nº 4.969, de 22 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/289",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/289/lei_4969_2026_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6205
+    },
+    {
+      "id": 290,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/290/lei_4970_2026_anexo_i.pdf da norma Lei nº 4.970, de 22 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/290",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/290/lei_4970_2026_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6206
+    },
+    {
+      "id": 291,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/291/lei_4974_2026_anexos.pdf da norma Lei nº 4.974, de 23 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/291",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/291/lei_4974_2026_anexos.pdf",
+      "ano": 2026,
+      "norma": 6222
+    },
+    {
+      "id": 292,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/292/lei_4977_2026_-_anexo_i.pdf da norma Lei nº 4.977, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/292",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Mapa do local",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/292/lei_4977_2026_-_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6233
+    },
+    {
+      "id": 293,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/293/lei_4981_2026_anexo_i.pdf da norma Lei nº 4.981, de 02 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/293",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.piedade.sp.leg.br/media/sapl/public/anexonormajuridica/2026/293/lei_4981_2026_anexo_i.pdf",
+      "ano": 2026,
+      "norma": 6239
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.piedade.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/5b4c163f6909c9c7e4ca1100cce11f2f15f5654e13a676f3fbab0b3f3cacb6f6.json",
+      "sha256": "cf5f042744596ea4d5122bc42a6fd4c12d68bb4d22a0bd33da84120d877d980f",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/5b4c163f6909c9c7e4ca1100cce11f2f15f5654e13a676f3fbab0b3f3cacb6f6.meta.json"
+    },
+    {
+      "url": "https://sapl.piedade.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/23265dba369bc85b6dca372d807ac4a7b756ae6fde6c87cc1a2a861b0214bfb7.json",
+      "sha256": "3d0062818067d6227e1124d9998a458d8ca4bac81aa6b2c23854bdd1cb982047",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/23265dba369bc85b6dca372d807ac4a7b756ae6fde6c87cc1a2a861b0214bfb7.meta.json"
+    },
+    {
+      "url": "https://sapl.piedade.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/508522d8b97956f73d3942e85384b4b65e30954ccd09bef70d6278af1fb4b837.json",
+      "sha256": "4ba84457e9b69252328708bf4976a35c9d3e6e27b104dd382e40e563f8caaa94",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.piedade.sp.leg.br/508522d8b97956f73d3942e85384b4b65e30954ccd09bef70d6278af1fb4b837.meta.json"
+    }
+  ],
+  "total": 272
+}

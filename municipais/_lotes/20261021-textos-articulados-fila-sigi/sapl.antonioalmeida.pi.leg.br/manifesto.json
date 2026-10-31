@@ -1,0 +1,42 @@
+{
+  "host": "sapl.antonioalmeida.pi.leg.br",
+  "metadados_unicos_observados": 19,
+  "total_api_declarado": 19,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 17,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.antonioalmeida.pi.leg.br/9f60db9c946748672320367f5099e62b3a3efffe001a27c18b1d8c087825186c.json",
+    "url": "https://sapl.antonioalmeida.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.antonioalmeida.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "7ce6b6e426761d319b61af161554e9838330af45cec8ed566c5d5fb529796dc2",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T16:45:55.991540-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.antonioalmeida.pi.leg.br/97b9416a0f60881e61c882bccee96636baab8285584f15f8a2817bfdb3775278.json",
+    "url": "https://sapl.antonioalmeida.pi.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.antonioalmeida.pi.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "3aaf5c4dbd6ecac563fc9d9f4ff64c7c7f299934ce5f43cca5969c96ab53a219",
+    "bytes": 795,
+    "capturado_em": "2026-10-27T16:45:55.244657-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.antonioalmeida.pi.leg.br/c7592f7f522e7f3ad9cff0568b7b98259cdcaf47597b0f6167f3d1895f70d4f8.json",
+      "url": "https://sapl.antonioalmeida.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.antonioalmeida.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "34c27142a1431bdace300baf15265e7eac3611b0d304ec3a84d1129acdb693de",
+      "bytes": 13033,
+      "capturado_em": "2026-10-27T16:45:58.101111-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

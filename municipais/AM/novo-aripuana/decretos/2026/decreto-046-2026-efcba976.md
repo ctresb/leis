@@ -1,0 +1,86 @@
+---
+titulo: "DECRETO Nº 046 DE 04 DE MAIO DE 2026."
+uf: "AM"
+municipio: "NOVO ARIPUANÃ"
+tipo: "Decreto"
+numero: "046"
+data: 2026-05-04
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 07/05/2026"
+data_publicacao: 2026-05-07
+codigo_identificador: "EFCBA976"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118853_2026-05-06_bc89b4973b3ef844e25afe128d7968e3.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 046 DE 04 DE MAIO DE 2026.
+
+DECRETO Nº 046 DE 04 DE MAIO DE 2026.
+DISPÕE SOBRE A NOMEAÇÃO DA SENHORA
+ANTONIA KESIA SILVA NUNES, PARA
+EXERCER O CARGO DE PROVIMENTO
+EFETIVO DE AGENTE ADMINISTRATIVO.
+O PREFEITO MUNICIPAL DE NOVO ARIPUANÃ, ESTADO
+DO AMAZONAS, o Senhor RAYMUNDO LOPES DE
+ALBUQUERQUE SOBRINHO, no uso de suas atribuições legais,
+conferidas pela Lei Orgânica Municipal;
+CONSIDERANDO o disposto no artigo 18 da Lei nº 025 de 01 de
+novembro de 2006 - Estatuto do Servidores Públicos do Município de
+Novo Aripuanã;
+CONSIDERANDO o resultado final do Concurso Público da
+Prefeitura Municipal de Novo Aripuanã, Edital nº 002-2022,
+homologado por meio do Decreto nº 022-2023 de 03 de março de
+2023 e Publicado no Diário Oficial dos Municípios no dia 06 de
+março de 2023;
+
+CONSIDERANDO o resultado final do Concurso Público da
+Prefeitura Municipal de Novo Aripuanã, Edital nº 002-2022,
+homologado por meio do Decreto nº 022-2023 de 03 de março de
+2023 e Publicado no Diário Oficial dos Municípios no dia 06 de
+março de 2023;
+DECRETA
+Art. 1º - Nomear o senhor MATEUS VALE PINTO, para exercer o
+Cargo de Provimento Efetivo de Agente Administrativo– 40 horas,
+pertencente ao Quadro de Pessoal da Prefeitura Municipal de Novo
+Aripuanã, em decorrência de sua aprovação no Concurso Público da
+Prefeitura Municipal de Novo Aripuanã, Edital nº 002-2022,
+conforme o disposto no artigo 18 da Lei Municipal nº 025/2006 Estatuto do Servidores Públicos do Município de Novo Aripuanã.
+Art. 2°. Determinar a Secretaria Municipal de Administração que
+adote as medidas cabíveis para o fiel cumprimento deste Decreto.
+Art. 3°. Este Decreto entra em vigor na data de sua publicação,
+revogando-se as disposições em contrário.
+
+DECRETA
+Art. 1º - Nomear a senhora ANTONIA KESIA SILVA NUNES, para
+exercer o Cargo de Provimento Efetivo de Agente Administrativo– 40
+horas, pertencente ao Quadro de Pessoal da Prefeitura Municipal de
+Novo Aripuanã, em decorrência de sua aprovação no Concurso
+Público da Prefeitura Municipal de Novo Aripuanã, Edital nº 0022022, conforme o disposto no artigo 18 da Lei Municipal nº 025/2006
+- Estatuto do Servidores Públicos do Município de Novo Aripuanã.
+Art. 2°. Determinar a Secretaria Municipal de Administração que
+adote as medidas cabíveis para o fiel cumprimento deste Decreto.
+Art. 3°. Este Decreto entra em vigor na data de sua publicação,
+revogando-se as disposições em contrário.
+
+CIENTIFIQUE-SE, CUMPRA-SE E PUBLIQUE-SE.
+GABINETE DO PREFEITO MUNICIPAL DE NOVO
+ARIPUANÃ, ESTADO DO AMAZONAS, aos quatro dias do mês
+de maio do ano de dois mil e vinte e seis.
+RAYMUNDO LOPES DE ALBUQUERQUE SOBRINHO
+Prefeito Municipal
+PUBLICAÇÃO:
+Atesto para os fins e efeitos legais que este Decreto foi publicado de
+acordo com a Lei Orgânica do Município de Novo Aripuanã, em 04
+de maio de 2026.
+
+CIENTIFIQUE-SE, CUMPRA-SE E PUBLIQUE-SE.
+GABINETE DO PREFEITO MUNICIPAL DE NOVO
+ARIPUANÃ, ESTADO DO AMAZONAS, aos quatro dias do mês
+de maio do ano de dois mil e vinte e seis.
+
+MARIA OLIMPIA DOS SANTOS PASSOS
+Secretária Municipal de Administração
+Ciente:
+Publicado por:
+Maria Olímpia Dos Santos Passos

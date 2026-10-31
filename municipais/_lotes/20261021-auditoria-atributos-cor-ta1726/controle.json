@@ -1,0 +1,5 @@
+{
+  "tas": 1730,
+  "achados": [],
+  "criterio": "Verificação suplementar somente leitura de atributos color/bgcolor em dispositivos ativos. Cores não permitem inferir vigência; o controle apenas identifica atributos que não usam a sintaxe CSS color: do primeiro gate."
+}

@@ -1,0 +1,41 @@
+---
+titulo: "Lei Complementar nº 69, de 03 de junho de 2013"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "69"
+data: "2013-06-03"
+municipio: "São José da Barra"
+uf: "MG"
+codigo_ibge: "3162948"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.saojosedabarra.mg.leg.br/norma/107"
+fonte_texto: "https://sapl.saojosedabarra.mg.leg.br/media/sapl/public/normajuridica/2013/107/lei_compl_69_2013.pdf"
+sha256_fonte: "50bc1627e6198e14bc072156318c3dec9d469e1ef66b1a41a1db28eddf404888"
+sha256_texto: "a63f261c190847b371f13f9818043113024ba5641389b3f1e4c21fc0768bbcaa"
+baixado_em: "2026-10-16"
+---
+
+# Lei Complementar nº 69, de 03 de junho de 2013
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI COMPLEMENTAR N° 069, de 03 de Junho de 2013 "ALTERA A ZONA URBANA DO MUNICÍPIO ESTABELECIDA NO PLANO DIRETOR E DÁ OUTRAS PROVIDÊNCIAS." A Câmara Municipal aprovou e eu, Prefeito do Município de São José da Barra, sanciono o seguinte Lei Complementar:
+
+**Art. 1°.** Passa a integrar a zona urbana do Município, a área constante do Anexo 1 desta Lei.
+
+**Art. 2°.** Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 3°.** Revogam-se as disposições em contrário. São José da Barra, 03 de junho de 2013 JOÃO ALVES PASSOS Prefeito Municipal PUBLICADO EM PARA SO POR AFIXAÇÃO NO QUADRO DE AVISOS DA PREFEITURA MUNICIPAL.
+
+Tels: (35) 3523-9118 - Tel/Fax: (35)3523-9200 - www.saojosedabarra.mg.gov.br
+
+ANEXO I - Uma sorte de terras de campos, situada no imóvel Grotão, denominado "Sítio Roda Branca", com a área de 17,20,00 has (dezessete hectares e vinte ares), Município de São José da Barra, transcrita no Cartório do Registro Geral de Imóveis de Alpinópolis na matrícula 7, registro 41, livro 2-T, com as seguintes confrontações: "Inicia-se no vértice denominado PT-V-0001, na cota 769 m, limite da área do reservatório hidrelétrico de Furnas e cerca de limites com os Sucessores de Manoel Ferreira Cardoso, daí, pela cota de desapropriação, segue sentido por aproximadamente 360 m, onde a direita encontra cerca de limites do imóvel, no vértice PT-V-0002, daí, a direita, segue com azimute de 205°26'29, até o vértice PT-V-0003 (N=7.706.897,24; E=381.327,47), em quina de cerca a beira da mata, daí, a esquerda, segue por cerca com azimutes e distâncias de: 121°57'53 - 57,09 m, até o vértice PT-V-0004 (N=7.706.867,02; E=381.375,90), 88°54'56 - 67,95 m, até o vértice PT-V-0005 (N=7.706.868,31; E=381.443,83), 171°48'25 - 29,24 m, até o vértice PT-V-0006 E=381.448,00), 156°32'47 - 52,03 m, até o vértice PT-V-0007 (N=7.706.839,37; E=381.468,70), 163°13'00 - 40,69 m, até o vértice PT-V-0008 (N=7.706.791,64; E=381.480,45); 54°33'58 - 39,05 m, até o vértice PT-V-0009 (N=7.706.752,69; (N=7.706.775,33; E-381.512,27), 18°42'15 - 30,96 m, até o vértice PT-V-0010 (N=7.706.804,65; E=381.522,20), e daí, com azimute de 35°04'11, até o vértice PT-V- 0011 novamente na cota 769 m de Furnas, daí, a direita, segue novamente pela cota, por aproximadamente 170,00 m, até o vértice PT-V-0012, encontrando a direita, cerca de limites do imóvel, por esta, sobe morro acima com azimute e distância de 244°46'58" - 143,58 m, até o vértice PT-V-0013 (N=7.706.685,68; E=381.546,56), e vira a esquerda azimute e distância de 175º09'18 - 65,75 m, até o vértice PT-V-0014 com (N=7.706.620,16; E=381.552,12), ponto este já a beira da estrada municipal que liga São José da Barra a Guapé, daí, a direita por esta, segue com azimute e distâncias de: 281°53'04 - 40,37 m, até o vértice PT-V-0015 (N=7.706.628,48; E=381.512,61), 264°58'21 - 72,80 m, até o vértice PT-V-0016 (N=7.706.622,10; E=381.440,09), 280°08'02i E=381.307,14), (N=7.706.645,86; 135,05 m, até o vértice PT-V-0017 (N=7.706.658.28; E=381.287,09), 301°46'23" 23,59 m, até o vértice PT-V-0018 E=381.195,40), 313°36'36i (N=7.706.745,62; 126,63 m, até o vértice PT-V-0019 125,61 m, até o vértice PT-V-0020 296°00'46i (N=7.706.800,71; E=381.082,52), m; até o vértice PT-V-0021 300°52'45 39,43 E=381.048,68), (N=7.706.820,95; m, até o vértice PT-V-0022 (N=7.706.841,14; E=381.001,86), 293°19'40 50,99 288°04'01i E=380.940,60), m, até o vértice PT-V-0023 64,44 (N=7.706.861,12; m, até o vértice PT-V-0024 E=380.917,17), 283°23'01i (N=7.706.866,70; 24,08 E=380.880,68), (N=7.706.867,25; 270°52'01i 36,49 m, até o vértice PT-V-0025 40,68 m, até o vértice PT-V-0026 277°57'17i (N=7.706.872,88; E=380.840,40), 280°36'41i 64,95 m, até o vértice PT-V-0027 (N=7.706.884,84; E=380.776,56), 285°40'02 - 11,42 m, até o vértice PT-V-0028 (N=7.706.887,92; E=380.765,56), ponto este onde a direita, encontra-se novamente divisas com os sucessores de Manoel Ferreira
+
+Tels: (35) 3523-9118 - Tel/Fax: (35)3523-9200 - www.saojosedabarra.mg.gov.br
+
+Cardoso, daí, por cerca, segue com azimute e distância de 22°35'57" - 46,56 m, até o vértice PT-V-0029 (IN=7.706.930,91; E=380.783,46), de onde continua por eixo de grota com azimutes e distância de: 51°48'17 - 180,00 m, até o vértice PT-V-0030 (N=7.707.042,21; E=380.924,92), 80°00'31 - 33,08 m, até o vértice PT-V-0031 (N=7.707.047,95; E=380.957,49), e finalmente azimute e distância de 55°35'57 - 77,02 m, até o início desta descrição, no vértice PT-V-0001 perfazendo uma área de 17,20,00 ha (dezessete hectares e vinte ares). Todas as coordenadas aqui descritas, assim como azimutes e distâncias foram referenciadas ao Fuso-23, do meridiano central 45° utilizando-se o Sistema de Coordenadas Planas SIRGAS 2000, conforme padrão do IBGE e calculados com base no Plano UTM de projeção cartográfica. É parte integrante deste anexo, o mapa incluso. São José da Barra, 03 de junho de 2013 JOÃO ALVES PASSOS Prefeito Municipal
+
+Teis: (35) 3523-9118 - Tel/Fax: (35)3523-9200 - www.saojosedabarra.mg.gov.br
+
+17.20.00 ha F-V-0012 Área Matriculada Fumas - Centrais Elétricas S.A. Matrícula R-41-7 (livro 2T - Folha 92) Marcos José de Oliveira N.V. -V-0014ął São José da Barra - MG Roda Branca -0010ł 1/4.000 Data 7704/2013 PT-V-0009 Moussis Mendonça PT-V-0013ął PT-V-001 PT-V-0008 CREA-MG 109278/D 0005 PT-Y-0007 PT-V--0006śłś Responsável Téorica Allan Vitor PT-V-0004 Proprietário Município -V-0017 Escala Imóvel -V-0018 Furnas - Centraia Elétricas S.A José da Barra 7.707.042.2Íš 7.J07.047,9ęął 7.70.894,4 7.700.7.92 7.700.001,1źŘŚ 7.708.72.85 7.700.820,96 7.708.820,16 7.708.022.10 7.708.008.2ŘŚ 7.708.745.02 7.700.1028,4šŘŚš 7.708.015.9ł 7.906.000,70 7.708.800.71 1.700.807.2. 300.957.16. 380.706,58ął 280.779,00 380.783,46 351.367.06Íșš 35L.195,4łąłął 391.100,00 381.062,53 100.840.A0 551.04680 380.817,1ł 381 367,1ŘșŘ 301-952, 12 301.001,00 380.910,00 361.512,61 33,00m 77.02m Sẵo 40,00m 64.85г 11.42m 40,50m 39,43m 60,99m 24,05m 135,05m 72,00m 23,50m 04.44m 38.40m 180,00m 128.63m 125,0 1m 40,37m Estrada Municipal de 285 40'02ồi 280/36'41i 301'48°23 2778717° 28€58'21° 29318 40łś 2235'57 313\*36'36i. 2852301° 19052'01° 50 55'67\* B00'31° 290'0'46" 288 401Ị 281'53'04ŘŚš 51°48'17" 280'8°02° 300'52'46" F7-4-0027 89-4-0030 PT-4-0031 F7-4-0001 PT-1-0020 F7-4-0915 PT-1-0018 F7-3-0017 57-4-0010 87-4-0010 F7-N-0024 F7-41-0021 P3-18-0022 P24-00ZșšŚ PT-4-0025 P7-4-000šęŚ PT-4-0028 F7-4-0029 PF-4-0029 PF-4-0018 PT-V-0023łć PF-1-0028 F7-4-0020 P7-4-0028Ś 87-4-0027 FT-1-002ął PT-·-0030ÍŚ P7-4-0018 77-4-0015 4-001ął PT-4-001ęŚšŘ PT-4-001ZŚ PF-X-0021 PT-V-0001 7900745 7.700.905,0 7.708.809.31 7.708.702,09/ 7.700.840. 7.708.775.39 7.708.804.05 381.327.47 7.704.289724 7.708.007.02 7.7088N,57 7.708.791,84 N (UTM) 7.70.$92.00 7.707.081.40 COORDENADAS 301.547.5ełż 381.480,/0 301 40470. 501.0700 1.510.,50 51.468.00šę 391.512.37 301.330.24 381.375,00š 991.AA383 351.021.0ł E (UTM) Perímetro do Imóvel - Área: 17.20.00 ha PT-V-0030 150,40m 68,75m 07.90m 143,50г 29,24m 40.60mł 39,06m 30,96m 44,15m 82,03m 360.51m 27,42m 57,00m Quadro de Coordenadas distâncias em linha reta 07019 24'4550šŘšŚ 1421 171'48'28" 208\*28\*29\* 121'87'83\* 158 32'47łś 183"13'00" 175'9\*18ŘŚ 00'54'50" 38'411° 54'35'65 128°5'00° 1189'15 AZIMUTE P†=V- PF-4-0016 85-4-001ęłŚł PT-V-0012ł PP-94-0019 57-4-0000 PT-4-0006 18-4-0007 1-0008 PT-X-000šŚ PF-X-0011 -V-0028 Pt-4-0002 PT-4-000îŚł PF-4-0001 VÉRTICES PT-V-0029ł 07-4-0010 PX-4-0012 FT-H-0013 FT-4-0918 FT-4-000šŚ F1-X-000îšŚł FF-Y-0003 PM-4-0005 07-4-0000îŚł PT 4 000ŘęŚš PF-4-0007 P1-4-0008 PF-Y-0001Śź
+

@@ -1,0 +1,228 @@
+{
+  "estado": "indice_completo",
+  "total": 21,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/emenda_a_lei_organiza_modificatica_01.pdf da norma Lei Ordinária nº 1, de 04 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Emenda Modificativa 01/17",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/1990/1/emenda_a_lei_organiza_modificatica_01.pdf",
+      "ano": 1990,
+      "norma": 95
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/2/publicacao_emenda_a_lei_organica_29_05_2017.pdf da norma Lei Ordinária nº 1, de 04 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Emenda Modificativa 01/17",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/1990/2/publicacao_emenda_a_lei_organica_29_05_2017.pdf",
+      "ano": 1990,
+      "norma": 95
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/3/publicacao_lei_organica.pdf da norma Lei Ordinária nº 1, de 04 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Lei Orgânica",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/1990/3/publicacao_lei_organica.pdf",
+      "ano": 1990,
+      "norma": 95
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/5/resolucao_03_legislativo_mudanca_regimento_sessao_horario.pdf da norma Resolução nº 2, de 31 de dezembro de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/1990/5/resolucao_03_legislativo_mudanca_regimento_sessao_horario.pdf",
+      "ano": 1990,
+      "norma": 94
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/6/emenda_aitiva_01_a_lei_organica.pdf da norma Lei Ordinária nº 1, de 04 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Emenda Aditiva 001/2021 à Lei Orgânica",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/1990/6/emenda_aitiva_01_a_lei_organica.pdf",
+      "ano": 1990,
+      "norma": 95
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/7/publicado_emenda_aditiva_01_a_lei_organica_25-08-2021.pdf da norma Lei Ordinária nº 1, de 04 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Emenda Aditiva 01/2021",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/1990/7/publicado_emenda_aditiva_01_a_lei_organica_25-08-2021.pdf",
+      "ano": 1990,
+      "norma": 95
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/8/publicado_autalizacao_da_tabela_plano_de_cargos_carreira_e_salario.pdf da norma Lei Ordinária nº 2.811, de 10 de abril de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Atualização da Tabela dos Valores ATUAIS",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2015/8/publicado_autalizacao_da_tabela_plano_de_cargos_carreira_e_salario.pdf",
+      "ano": 2015,
+      "norma": 81
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/9/publicado_atualizacao_da_tabela_da_lei_3248-2025_plano_de_cargos1.pdf da norma Lei Ordinária nº 2.702, de 05 de novembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Atualização da Tabela do Plano de Cargos, Carreira e Salário",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2013/9/publicado_atualizacao_da_tabela_da_lei_3248-2025_plano_de_cargos1.pdf",
+      "ano": 2013,
+      "norma": 90
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/101346407_acordao_de_parecer_previo_-_34-24_-_stp.pdf da norma RESOLUÇÃO - Prestação de Contas Poder Executivo nº 8, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Acórdão de Parecer Prévio 34/24",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/12/101346407_acordao_de_parecer_previo_-_34-24_-_stp.pdf",
+      "ano": 2024,
+      "norma": 870
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/13/081253272_acordao_-_1549-22_-_stp.pdf da norma RESOLUÇÃO - Prestação de Contas Poder Executivo nº 6, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Acórdão 1549/22",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/13/081253272_acordao_-_1549-22_-_stp.pdf",
+      "ano": 2024,
+      "norma": 868
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/080558787_acordao_de_parecer_previo_-_107-18_-_s1c.pdf da norma RESOLUÇÃO - Prestação de Contas Poder Executivo nº 6, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Acórdão de Parecer Prévio 107/18",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/14/080558787_acordao_de_parecer_previo_-_107-18_-_s1c.pdf",
+      "ano": 2024,
+      "norma": 868
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/15/095629701_acordao_-_762-24_-_stp.pdf da norma RESOLUÇÃO - Prestação de Contas Poder Executivo nº 7, de 21 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Acórdão 762/24",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/15/095629701_acordao_-_762-24_-_stp.pdf",
+      "ano": 2024,
+      "norma": 869
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/16/080558787_acordao_de_parecer_previo_-_107-18_-_s1c.pdf da norma Resolução nº 6, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Acórdão de Parecer Prévio 107/18",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/16/080558787_acordao_de_parecer_previo_-_107-18_-_s1c.pdf",
+      "ano": 2024,
+      "norma": 832
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/17/081253272_acordao_-_1549-22_-_stp.pdf da norma Resolução nº 6, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Acórdão 1549/22",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/17/081253272_acordao_-_1549-22_-_stp.pdf",
+      "ano": 2024,
+      "norma": 832
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/095439216_acordao_de_parecer_previo_-_465-23_-_s1c.pdf da norma Resolução nº 7, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Acórdão de Parecer Prévio 465/23",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/18/095439216_acordao_de_parecer_previo_-_465-23_-_s1c.pdf",
+      "ano": 2024,
+      "norma": 833
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/095629701_acordao_-_762-24_-_stp.pdf da norma Resolução nº 7, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Acórdão 762/24",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/19/095629701_acordao_-_762-24_-_stp.pdf",
+      "ano": 2024,
+      "norma": 833
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/20/101346407_acordao_de_parecer_previo_-_34-24_-_stp.pdf da norma Resolução nº 8, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Acórdão de Parecer Prévio 34/24",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2024/20/101346407_acordao_de_parecer_previo_-_34-24_-_stp.pdf",
+      "ano": 2024,
+      "norma": 834
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/21/sessao_ordinaria_no_25_-_01-09-2025.pdf da norma Resolução nº 8, de 09 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão Ordinária do dia 01/09/2025",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2025/21/sessao_ordinaria_no_25_-_01-09-2025.pdf",
+      "ano": 2025,
+      "norma": 874
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/22/sessao_ordinaria_no_26_-_08-09-2025.pdf da norma Resolução nº 8, de 09 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão Ordinária do dia 08/09/2025",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2025/22/sessao_ordinaria_no_26_-_08-09-2025.pdf",
+      "ano": 2025,
+      "norma": 874
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/sessao_ordinaria_no_25_-_01-09-2025.pdf da norma RESOLUÇÃO - Prestação de Contas Poder Executivo nº 8, de 09 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão Ordinária do dia 01/09/2025",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2025/23/sessao_ordinaria_no_25_-_01-09-2025.pdf",
+      "ano": 2025,
+      "norma": 875
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/24/sessao_ordinaria_no_26_-_08-09-2025.pdf da norma RESOLUÇÃO - Prestação de Contas Poder Executivo nº 8, de 09 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão Ordinária do dia 08/09/2025",
+      "anexo_arquivo": "http://sapl.centenariodosul.pr.leg.br/media/sapl/public/anexonormajuridica/2025/24/sessao_ordinaria_no_26_-_08-09-2025.pdf",
+      "ano": 2025,
+      "norma": 875
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.centenariodosul.pr.leg.br/524f63ef4b69d566154a12317b30adf2bc284cca500e1deb8e9e9d62cfaee9a3.json",
+      "url": "https://sapl.centenariodosul.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.centenariodosul.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4c89d7178bf4a24f59362763b983330abb2ad1bdce7471fc311d4ea50bb5bdee",
+      "bytes": 10499,
+      "capturado_em": "2026-10-27T22:39:40.845973-03:00"
+    }
+  ]
+}

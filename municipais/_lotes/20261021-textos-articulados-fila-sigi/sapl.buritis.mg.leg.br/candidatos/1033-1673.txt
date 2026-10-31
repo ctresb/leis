@@ -1,0 +1,38 @@
+Estima a Receita e fixa a Despesa para o exercício de 2000.
+
+
+A Câmara Municipal de Buritis-MG, aprova e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+A Receita do município de Buritis para o exercício de 2000, é estimado em R$ 11.000.000,00 (onze milhões de Reais), cuja realização se fará mediante a seguinte discriminação constante dos quadros próprios e anexos que fazem parte integrante da presente lei:
+
+<table><tbody><tr><td><p>RECEITA</p></td><td><p>R$</p></td><td><p>R$</p></td></tr><tr><td><p>RECEITAS CORRENTES</p></td><td> </td><td><p>9.697.380,00</p></td></tr><tr><td><p>Receita Tributária</p></td><td><p>1.220.630,00</p></td><td> </td></tr><tr><td><p>Receita de Contribuições</p></td><td><p>100.000,00</p></td><td> </td></tr><tr><td><p>Receita Patrimonial</p></td><td><p>13.520,00</p></td><td> </td></tr><tr><td><p>Receita Agropecuária</p></td><td><p>1.530,00</p></td><td> </td></tr><tr><td><p>Receita Industrial</p></td><td><p>6.320,00</p></td><td> </td></tr><tr><td><p>Receita de Serviços</p></td><td><p>14.620,00</p></td><td> </td></tr><tr><td><p>Transferências Correntes</p></td><td><p>8.291.760,00</p></td><td> </td></tr><tr><td><p>Outras Receitas Correntes</p></td><td><p>49.000,00</p></td><td> </td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>RECEITAS DE CAPITAL</p></td><td> </td><td><p>1.302.620,00</p></td></tr><tr><td><p>Operações de Crédito</p></td><td><p>277.500,00</p></td><td> </td></tr><tr><td><p>Alienação de Bens</p></td><td><p>67.230,00</p></td><td> </td></tr><tr><td><p>Amortização de Empréstimos</p></td><td><p>0,00</p></td><td> </td></tr><tr><td><p>Transferência de Capital</p></td><td><p>625.360,00</p></td><td> </td></tr><tr><td><p>Outras Receitas de Capital</p></td><td><p>332.530,00</p></td><td><p> </p></td></tr><tr><td><p>TOTAL RECEITAS ORÇAMENTÁRIAS</p></td><td><p> </p></td><td><p>11.000.000,00</p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+A Despesa do Município de Buritis para o Exercício financeiro de 2000 é fixada em R$ 11.000.000,00 (onze milhões de reais), que será realizada conforme discriminação em Funções de Governo e Unidades Orçamentárias, constantes dos quadros anexos que também fazem parte integrante desta Lei:
+
+DESPESAS POR FUNÇÕES DE GOVERNO
+
+<table><tbody><tr><td><p>ESPECIFICAÇÃO</p></td><td><p>R$</p></td><td><p>R$</p></td></tr><tr><td><p>01 - Legislativa</p></td><td><p>607.000,00</p></td><td><p>10.600.000,00</p></td></tr><tr><td><p>02 - Judiciária</p></td><td><p>5.620,00</p></td><td> </td></tr><tr><td><p>03 - Administração e Planejamento</p></td><td><p>2.601.141,00</p></td><td> </td></tr><tr><td><p>04 - Agricultura</p></td><td><p>445.440,00</p></td><td> </td></tr><tr><td><p>05 - Comunicações</p></td><td><p>0,00</p></td><td> </td></tr><tr><td><p>06 - Defesa Nacional e Seg. Pública</p></td><td><p>48.870,00</p></td><td> </td></tr><tr><td><p>07 - Desenvolvimento Regional</p></td><td><p>0,00</p></td><td> </td></tr><tr><td><p>08 - Educação e Cultura</p></td><td><p>3.652.568,00</p></td><td> </td></tr><tr><td><p>09 - Energia e Recursos Minerais</p></td><td><p>45.000,00</p></td><td> </td></tr><tr><td><p>10 - Habitação e Urbanismo</p></td><td><p>665.281,00</p></td><td> </td></tr><tr><td><p>11 - Indústria, Comércio e Serviços</p></td><td><p>10.000,00</p></td><td> </td></tr><tr><td><p>12 - Relações Exteriores</p></td><td><p>0,00</p></td><td> </td></tr><tr><td><p>13 - Saúde e Saneamento</p></td><td><p>1.916.990,00</p></td><td> </td></tr><tr><td><p>14 - Trabalho</p></td><td><p>0,00</p></td><td> </td></tr><tr><td><p>15 - Assistência e Previdência</p></td><td><p>459.600,00</p></td><td> </td></tr><tr><td><p>16 - Transporte</p></td><td><p>204.250,00</p></td><td> </td></tr><tr><td><p>Reserva de Contingência</p></td><td> </td><td><p>358.240,00</p></td></tr><tr><td><p>TOTAL DESPESAS ORÇAMENTÁRIAS</p></td><td> </td><td><p>11.000.000,00</p></td></tr></tbody></table>
+
+DESPESAS POR UNIDADES ORÇAMENTÁRIAS
+
+<table><tbody><tr><td><p>ESPECIFICAÇÃO</p></td><td><p>R$</p></td><td><p>R$</p></td></tr><tr><td><p>01 - Poder Legislativo</p></td><td> </td><td><p>607.000,00</p></td></tr><tr><td><p>01.01 - Gabinete e Sec. da Câmara</p></td><td><p>607.000,00</p></td><td> </td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>02 - Poder Executivo</p></td><td> </td><td> </td></tr><tr><td><p>02.01 - Gabinete e Sec. do Prefeito</p></td><td><p>427.500,00</p></td><td><p>9.993.000,00</p></td></tr><tr><td><p>02.02 - Secret. Mun. Adm. e Planejamento</p></td><td><p>696.041,00</p></td><td> </td></tr><tr><td><p>02.03 - Secret. Municipal da Fazenda</p></td><td><p>577.960,00</p></td><td> </td></tr><tr><td><p>02.04 - Secret. Mun. Educação, Esp. e Lazer</p></td><td><p>3.727.568,00</p></td><td> </td></tr><tr><td><p>02.05 - Secret. Municipal de Obras</p></td><td><p>1.287.021,00</p></td><td> </td></tr><tr><td><p>02.06 - Secret. Mun. de Transporte</p></td><td><p>391.050,00</p></td><td> </td></tr><tr><td><p>02.07 - Secret. Mun. Agric. e Meio Ambiente</p></td><td><p>635.590,00</p></td><td> </td></tr><tr><td><p>02.08 - Secret. Mun. Saúde e Fundo M. Saúde</p></td><td><p>1.629.500,00</p></td><td> </td></tr><tr><td><p>02.09 - Secret. Mun. Trab. Assist. Social,</p></td><td> </td><td> </td></tr><tr><td><p>Criança e Adolescente e Fundo Mun.</p></td><td><p>662.530,00</p></td><td> </td></tr><tr><td><p>02.10 - Reserva de Contingência</p></td><td><p>0,00</p></td><td> </td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>RESERVA DE CONTINGÊNCIA</p></td><td> </td><td><p>358.240,00</p></td></tr><tr><td><p>TOTAL</p></td><td> </td><td><p>11.000.000,00</p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, entrando esta lei em vigor a partir de 1º (primeiro) de janeiro de 2000.
+
+
+Buritis-MG, 13 de Dezembro de 1999
+
+**Pe. José Vicente Damasceno Prefeito Municipal**
+
+**Clarindo F. Filho Assessor Jurídico**
+
+Projeto Lei nº 018/99, de 30/09/99.

@@ -1,0 +1,13 @@
+{
+  "criterio": "Preserva toda a camada nativa por página, sem heurísticas de margem ou números.\n\nSomente candidatos explícitos. Confere layout e palavras por coordenadas antes\nde substituir o Markdown, mantendo backup e prova compacta de cada fonte.\n",
+  "script_sha256": "f47ba72fe7f5a53212611842a506cc9525b9b6f33417191e20049f7114e0bb3d",
+  "lista_sha256": "a69bbdae005ab524bca454f2242f852885ebbdadd6f69d8e255d124f2ba28ca6",
+  "resultados": [
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-2-2025-sapl-31.md",
+      "sha256_anterior": "2038bc017f0bc0c4178581f8a94da3cf3a3e93ef4c8ee78eb5166e5394023e81",
+      "aprovado": false,
+      "pendencia": "Ordem de palavras diverge na página 1"
+    }
+  ]
+}

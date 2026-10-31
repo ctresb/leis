@@ -1,0 +1,43 @@
+{
+  "sha256_catalogo": "a45effdf21bd7ed040024cec06220eaede23a784186ee568c28b79c4f2ae53a6",
+  "recortes_vistos": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "contatos_vistos": [
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-001.png",
+      "sha256": "cd8560a612402b889ac379c36219ac36d55e3d1746915453117bcce404ca9491"
+    },
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-002.png",
+      "sha256": "40a5a2d7ca893dc497c9547fc4bddeb1455ad47fd28791d602f61b6664712109"
+    },
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-003.png",
+      "sha256": "8141e0ea792081adab0d3d932530cce7bf449616eebc6d655624626701ab992e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-salvador-inspecao/recortes-cores/contato-004.png",
+      "sha256": "d636f4ae0657401d9271e38c192028957a2fb02f6e7e5fd1fa6c960e540b53e7"
+    }
+  ],
+  "criterio": "Todos os 19 recortes foram vistos com contexto. O PDF registra 22 caracteres com cor não preta: 20 espaços, um ponto final e a letra o. A página 64 também mostra pequeno sinal gráfico vermelho junto ao marcador do inciso I, preservado no recorte. Nenhuma decisão de vigência foi inferida da cor. Os caracteres e notas da edição serão mantidos e o mapa visual acompanha a transcrição."
+}

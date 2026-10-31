@@ -1,0 +1,42 @@
+{
+  "host": "sapl.belavistadacaroba.pr.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belavistadacaroba.pr.leg.br/f2529892fb4987df837bc51f3dc6c3204884e5011350506966d699823d7d3431.json",
+    "url": "https://sapl.belavistadacaroba.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.belavistadacaroba.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c2fc6de42c26ba81210cf5d90dada846e88981d3d21b802156bebfd384776a69",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:18:06.490127-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belavistadacaroba.pr.leg.br/f7ab031e33f067dd0d9a46f8bbff107cedf497283075014367cd5f505eb4f228.json",
+    "url": "https://sapl.belavistadacaroba.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.belavistadacaroba.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a2842909c7963031ccd84cd7d1af4181ad3ffb087e7499c0c467ee9b6e81901a",
+    "bytes": 800,
+    "capturado_em": "2026-10-27T17:18:05.472893-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.belavistadacaroba.pr.leg.br/a08d3869d5e9c362a54e0975a734daa0b0925b7f3f725124e46f6442936e1c0b.json",
+      "url": "https://sapl.belavistadacaroba.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.belavistadacaroba.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "77ec4575664ab4222984638412d8c9a83fbf3665c8c28ae672e2b5cab80da9b9",
+      "bytes": 1436,
+      "capturado_em": "2026-10-27T17:18:08.305651-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

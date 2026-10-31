@@ -1,0 +1,261 @@
+---
+titulo: "Lei Complementar nº 318, de 29 de dezembro de 2008"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "318"
+data: "2008-12-29"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/701"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/309/text"
+sha256_fonte: "1049e7fb1951840b12e0a338624bfcae1b80191ba69ca265e4ea6ca540fa844f"
+sha256_texto: "6593156173652f60571190db054cba1267bae2f40d152fdd093b007206fa22e5"
+capturado_em_fonte: "2026-10-27T21:23:43.037631-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 318, de 29 de dezembro de 2008
+
+“Dispõe sobre a cobrança extrajudicial de débitos tributários e não tributário, cria o Cadastro Informativo Municipal e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas nos incisos III e IV do art. 87, da Lei Orgânica do Município de Porto Velho,  
+  
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte  
+  
+**LEI**:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a:
+
+
+I –
+
+Proceder à cobrança administrativa de créditos tributários e não tributários vencidos, inscritos ou não em dívida ativa, por intermédio de instituição financeira oficial, mediante contrato ou convênio.
+
+
+II –
+
+Promover o protesto extrajudicial de créditos tributários e não tributários vencidos, inclusive nos casos de reembolsos de dispêndios, custos e/ou despesas decorrentes de execuções de obras e/ou serviços inscritos ou não em dívida ativa, através dos respectivos cartórios, mediante contrato ou convênio.
+
+
+§ 1º
+
+Os reembolsos de dispêndios, custos e/ou despesas decorrentes de execuções de obras e/ou serviços mencionados no inciso II deste artigo, referem-se às obras e/ou serviços que por determinação legal, originariamente, são de obrigação dos contribuintes.
+
+
+§ 2º
+
+Os termos do contrato ou convênio serão acordados entre o Município e a instituição financeira e o cartório, sendo referendado pela Procuradoria Geral do Município e a Secretaria Municipal de Fazenda.
+
+
+§ 3º
+
+Poderão ser eximidos de serem cobrados e protestados, conforme o disposto nos incisos I e II deste artigo, contribuintes com determinadas faixas de débitos, nos termos definidos por Ato do Secretário Municipal de Fazenda, respeitando-se os custos versus benefícios decorrentes das ações.
+
+
+§ 4º
+
+Os titulares de créditos tributários e não tributários vencidos, protestados e/ou cobrados por intermédio de instituição financeira oficial, terão seus nomes inscritos e negativados no Cadin-M, no Serviço de Proteção ao Crédito, Serasa ou em outro órgão de proteção e controle de devedores do mercado financeiro e comercial.
+
+
+§ 5º
+
+Para que ocorra a inscrição e negativação prevista no § 4° deste artigo deverão ser exauridas as etapas de notificação para cobrança pela instituição financeira, em não logrando êxito será enviada ao cartório de protesto que notificará o devedor para pagamento que em caso de não êxito processará o respectivo protesto.
+
+
+§ 6º
+
+Efetuado o pagamento a mesma instituição financeira oficial que promoveu a cobrança deverá no prazo de 48 (quarenta e oito) horas providenciar a exclusão do titular negativado do Cadin-M, SPC, Serasa ou de em outro órgão de proteção e controle de devedores do mercado financeiro e comercial.
+
+
+Art. 2º.
+
+Fica criado o Cadastro Informativo Municipal – Cadin-M, objetivando conter, em banco de dados informatizado, todas as informações de pendências de pessoas físicas e jurídicas perante órgãos e entidades da Administração Pública Direta e Indireta do Município de Porto Velho.
+
+
+Art. 3º.
+
+São consideradas pendências passíveis de inclusão no Cadin-M:
+
+
+I –
+
+as obrigações pecuniárias tributárias e/ou não tributárias vencidas e não pagas; e
+
+
+II –
+
+a ausência de prestação de contas, exigível em razão de disposição legal ou cláusulas de convênio, acordo ou contrato.
+
+
+Art. 4º.
+
+A existência de registro no Cadin-M impede os órgãos e entidades da Administração Municipal de realizarem os seguintes atos, com relação às pessoas físicas e jurídicas a que se refere:
+
+
+I –
+
+celebração de convênios, acordos, ajustes ou contratos que envolvam o desembolso, a qualquer título, de recursos financeiros;
+
+
+II –
+
+repasses de valores de convênios ou pagamentos referentes a contratos;
+
+
+III –
+
+concessão de auxílios e subvenções;
+
+
+IV –
+
+concessão de incentivos fiscais e financeiros.
+
+
+Parágrafo único
+
+O disposto neste artigo não se aplica às operações destinadas à composição e regularização das obrigações e deveres objeto de registro no Cadin Municipal, sem desembolso de recursos por parte do órgão ou da entidade credora.
+
+
+Art. 5º.
+
+A inclusão de pendências no Cadin-M deverá ser realizada no prazo de até 15 (quinze) dias, contados da inadimplência, pelas seguintes autoridades:
+
+
+I –
+
+Secretário Municipal, no caso de inadimplência com relação a deveres subordinados à respectiva Pasta;
+
+
+II –
+
+Superintendente, no caso de inadimplência com relação a deveres subordinados à respectiva Autarquia Municipal;
+
+
+III –
+
+Presidente, no caso de inadimplência com relação a deveres subordinados à respectiva Empresa Municipal;
+
+
+IV –
+
+Representante de Instituição Financeira Oficial no caso previsto no § 4°, do artigo 1°, desta Lei Complementar.
+
+
+§ 1º
+
+A atribuição prevista no "caput" deste artigo poderá ser delegada, pelas autoridades ali indicadas, a servidor lotado na respectiva Secretaria, Autarquia ou Empresa Municipal, mediante ato devidamente publicado no Diário Oficial do Município.
+
+
+§ 2º
+
+A inclusão no Cadin-M no prazo previsto no "caput" deste artigo somente será feita após a notificação por escrito, seja via postal ou telegráfica, ao devedor, no endereço indicado no instrumento que deu origem ao débito, considerando-se entregue após 15 (quinze) dias da respectiva expedição.
+
+
+§ 3º
+
+O Executivo poderá promover a notificação, mencionada no § 2º deste artigo, do contribuinte inadimplente por meio de edital publicado, uma única vez, no Diário Oficial do Município e/ou 02 (duas) vezes em jornal de grande circulação no Município.
+
+
+Art. 6º.
+
+O Cadin-M conterá as seguintes informações:
+
+
+I –
+
+identificação do devedor, na forma do regulamento;
+
+
+II –
+
+data da inclusão no cadastro;
+
+
+III –
+
+órgão responsável pela inclusão.
+
+
+Art. 7º.
+
+Os órgãos e entidades da Administração Municipal manterão registros detalhados das pendências incluídas no Cadin-M, permitindo irrestrita consulta pelos devedores aos seus respectivos registros, nos termos do regulamento.
+
+
+Art. 8º.
+
+A inexistência de registro no Cadin-M não configura reconhecimento de regularidade de situação, nem elide a apresentação dos documentos exigidos em lei, decreto e demais atos normativos.
+
+
+Art. 9º.
+
+O registro do devedor no Cadin-M ficará suspenso nas hipóteses em que a exigibilidade da pendência objeto do registro estiver suspensa, nos termos da lei.
+
+
+Parágrafo único
+
+A suspensão do registro não acarreta a sua exclusão do Cadin-M, mas apenas a suspensão dos impedimentos previstos no art. 4º desta lei.
+
+
+Art. 10.
+
+Uma vez comprovada a regularização da situação que deu causa à inclusão no Cadin-M, o registro correspondente deverá ser excluído no prazo de até 5 (cinco) dias úteis pelas autoridades indicadas no art. 5º desta lei.
+
+
+Art. 11.
+
+A inclusão ou exclusão de pendências no Cadin-M sem observância das formalidades ou fora das hipóteses previstas nesta lei, sujeitará o responsável às penalidades cominadas no Estatuto do Servidor ou na Consolidação das Leis Trabalhistas, conforme a quem se aplicar.
+
+
+Art. 12.
+
+A Secretaria Municipal de Fazenda será a gestora do Cadin-M e fiscalizadora dos procedimentos de inclusão e exclusão de registros, sem prejuízo da responsabilidade das autoridades indicadas no art. 5º desta lei.
+
+
+Art. 13.
+
+O descumprimento, pela autoridade administrativa ou por seu delegado, dos deveres impostos pelos arts. 5º e 10º desta lei será considerada falta de cumprimento dos deveres funcionais para fins de aplicação das penalidades previstas no estatuto de servidores públicos municipal.
+
+
+Parágrafo único
+
+A aplicação das penalidades previstas no estatuto de servidores públicos municipal, não exclui a responsabilidade do servidor por todos os prejuízos que seu ato ou sua omissão tenham eventualmente causado ao Município.
+
+
+Art. 14.
+
+As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 15.
+
+O Executivo regulamentará esta lei no prazo de até 30 (trinta) dias, contados da sua publicação.
+
+
+Art. 16.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 17.
+
+Revogam-se as disposições em contrário, especialmente a Lei Complementar nº. 162, de 08 de julho de 2003.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município**  
+  
+MÁRIO JONAS FREITAS GUTERRES  
+Procurador Geral do Município  
+  
+WILSON CORREIA DA SILVA  
+Secretário Municipal de Fazenda
+

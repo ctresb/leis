@@ -1,0 +1,64 @@
+Dispõe sobre a adequação na estrutura orçamentária e financeira do Exercício de 2018, quanto à classificação institucional instituídas pelas Leis Complementares 675 e 690/2017, e dá outras providências.
+
+
+**CONSIDERANDO** o princípio da eficiência, que rege a Administração Pública,
+
+**CONSIDERANDO** a promulgação da Leis Complementares Municipal n°s 675, de 29 de setembro de 2017 e 690, de 31 de outubro de 2017, que institui o Fundo Municipal de Iluminação Pública (FUMIP) e Fundo de Modernização, Desenvolvimento e Aperfeiçoamento da Administração Fazendária (FUMDAF) no âmbito da Prefeitura de Porto Velho, respectivamente.
+
+**CONSIDERANDO** a necessidade de adequação da estrutura orçamentária da Secretaria Municipal de Fazenda - SEMFAZ, de forma a lhe atribuir plena autonomia para o desempenho de suas funções legais institucionalizadas,
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO,** no uso das atribuições que lhe confere o inciso III e IV, do artigo 87, da Lei Orgânica do Município de Porto Velho, e tendo em vista o disposto na Lei Complementar n.º 648, de 06 de janeiro de 2017, na Lei Complementar n.º 650, de 08 de fevereiro de 2017, na Lei Municipal n.º 2.469, de 14 de dezembro de 2017 (LDO/2018) e na Lei Municipal n.º 2.475, de 21 de dezembro de 2017 (LOA/2018),
+
+D E C R E T A:
+
+
+Art. 1º.
+
+Fica integrado ao Orçamento Programa 2018 da Prefeitura do Munícipio de Porto Velho, consignado à Secretaria Municipal de Fazenda – SEMFAZ, estruturada em dois níveis hierárquicos (órgão e unidade orçamentária), o Fundo Municipal de Iluminação Pública - FUMIP e Fundo de Modernização, Desenvolvimento e Aperfeiçoamento da Administração Fazendária - FUMDAF, conforme definido nos artigos 8º da Lei Complementar nº 675/2017 e 1º da Lei Complementar nº 690/2017 respectivamente, garantindo-lhe gerir, ordenar e proceder apropriações contábeis da despesa pela codificação orçamentária na sequência detalhada:
+
+
+**Órgão – 06.00 – Secretaria Municipal de Fazenda Unidade Orçamentária – 06.31 – Fundo Municipal de Iluminação Pública - FUMIP Unidade Orçamentária – 06.32 – Fundo de Modernização, Desenvolvimento e Aperfeiçoamento da Administração Fazendária - FUMDAF**
+
+
+Art. 2º.
+
+Em razão das adequações na classificação institucional orçamentária os códigos abaixo elencados devem constar como DESATIVADO no sistema informatizado.
+
+
+05.01 – Secretaria Municipal de Planejamento, Orçamento e Gestão
+
+05.31 – Fundo Municipal de Iluminação Pública – FMIP
+
+
+Art. 3º.
+
+Ficam remanejados do orçamento consignado nas ações programáticas “Cidade Iluminada” da Secretaria Municipal de Planejamento, Orçamento e Gestão – 05.00 e “Gestão da Fazenda Municipal” da Secretaria Municipal de Fazenda – 06.00 os créditos para administração do Fundo Municipal de Iluminação Pública – FUMIP e o Fundo de Modernização, Desenvolvimento e Aperfeiçoamento da Administração Fazendária - FUMDAF, obedecendo-se a sequência detalhada no seguinte quadro:
+
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="8"><p><strong>05.00 – SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO</strong></p></td></tr><tr><td colspan="8"><p><strong>05.31 – FUNDO MUNICIPAL DE ILUMINAÇÃO PÚBLICA</strong></p></td></tr><tr><td colspan="2"><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA</strong></p><p><strong>R$</strong></p></td></tr><tr><td colspan="2"><p>05.31.15.452.014.2.168</p></td><td><p>Manutenção do Sistema de Iluminação Pública</p></td><td><p>FISCAL</p></td><td><p>3.3.90.39</p></td><td><p>01.10</p></td><td><p>12.589.008,00</p></td><td><p>-</p></td></tr><tr><td colspan="6"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>12.589.008,00</strong></p></td><td><p><strong>-</strong></p></td></tr><tr><td colspan="8"><p><strong>06</strong><strong>.00 – SECRETARIA MUNICIPAL DE FAZENDA</strong></p></td></tr><tr><td colspan="8"><p><strong>06</strong><strong>.01 – SECRETARIA MUNICIPAL DE FAZENDA</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td colspan="2"><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA</strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>06.01.04.122.032.1.907</p></td><td colspan="2"><p>Instituição do Fundo de Desenvolvimento da Administração Fazendária - FUMDAF</p></td><td><p>FISCAL</p></td><td><p>3.3.90.39</p></td><td><p>01.00</p></td><td><p>100,00</p></td><td><p>-</p></td></tr><tr><td colspan="6"><p><br></p></td><td><p><strong>100,00</strong></p></td><td><p><strong>-</strong></p></td></tr><tr><td colspan="8"><p><strong>06</strong><strong>.31 – </strong><strong>FUNDO MUNICIPAL DE ILUMINAÇÃO PÚBLICA</strong></p></td></tr><tr><td colspan="2"><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA</strong></p><p><strong>R$</strong></p></td></tr><tr><td colspan="2"><p>06.31.15.452.014.2.168</p></td><td><p>Manutenção do Sistema de Iluminação Pública</p></td><td><p>FISCAL</p></td><td><p>3.3.90.39</p></td><td><p>01.10</p></td><td><p>--</p></td><td><p>12.589.008,00</p></td></tr><tr><td colspan="6"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>-</strong></p></td><td><p><strong>12.589.008,00</strong></p></td></tr><tr><td colspan="8"><p><strong>06</strong><strong>.32 – FUNDO DE MODERNIZAÇÃO, DESENVOLVIMENTO E APERFEIÇOAMENTO DA ADMINISTRAÇÃO FAZENDÁRIA</strong></p></td></tr><tr><td colspan="2"><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA</strong></p><p><strong>R$</strong></p></td></tr><tr><td colspan="2"><p>06.32.04.122.032.1.907</p></td><td><p>Instituição do Fundo do Desenvolvimento da Administração Fazendária - FUMDAF</p></td><td><p>FISCAL</p></td><td><p>3.3.90.39</p></td><td><p>01.00</p></td><td><p>-</p></td><td><p>100,00</p></td></tr><tr><td colspan="6"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>-</strong></p></td><td><p><strong>100,00</strong></p></td></tr><tr><td colspan="6"><p><strong>TOTAL</strong></p></td><td><p><strong>12.589.108,00</strong></p></td><td><p><strong>12.589.108,00</strong></p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (quotas orçamentárias), estabelecido pelo Decreto n.º 14.991 de 21.12.2017 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 14.992 de 21.12.2017.
+
+
+Art. 5º.
+
+Este Decreto entra em vigor na data da sua publicação, com efeitos a partir de 01 de janeiro de 2018, revogando as disposições em contrário.
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito do Município de Porto Velho  
+  
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral Adjunto do Município  
+  
+**BORIS ALEXANDER GONÇALVES DE SOUZA**  
+Controlador Geral do Município  
+  
+**LUIZ GUILHERME ERSE DA SILVA**  
+Secretário Municipal de Planejamento, Orçamento e Gestão  
+  
+**JOÃO ALTAIR CAETANO DOS SANTOS**  
+Secretário Municipal de Fazenda

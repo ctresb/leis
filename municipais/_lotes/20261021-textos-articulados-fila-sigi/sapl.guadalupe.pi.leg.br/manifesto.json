@@ -1,0 +1,102 @@
+{
+  "host": "sapl.guadalupe.pi.leg.br",
+  "metadados_unicos_observados": 677,
+  "total_api_declarado": 677,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 651,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/c1ca50922e324e3cb42a4c36f6cd736cfe0682258987c689dc6883e9afe54d09.json",
+    "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "9b9dcdd4a77fd56988759f8a97d5f00fd52bf1297b2a66d2e119e83e8e675f75",
+    "bytes": 954,
+    "capturado_em": "2026-10-28T12:41:46.439263-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/8cac9003e03e3d0395d87feab560b663027d50fb8037076881757b68a1c0c96d.json",
+    "url": "https://sapl.guadalupe.pi.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.guadalupe.pi.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e46d1a55f44297987818e5e6ce1c295d65d85336d40e772de2dd9b8d99ba830b",
+    "bytes": 795,
+    "capturado_em": "2026-10-28T12:41:45.612063-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/7363b1b4b10ef419b76a261ce98af30a69d2c77c628d1e4a2b4e0debfea893ee.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "bf3aee580b84e2117be18c91a304f429cc36e03700894c374d35cf1b6604817b",
+      "bytes": 63732,
+      "capturado_em": "2026-10-28T12:41:48.894549-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/0cf643eb85c300dbf3359da62eed35d631cf2e9acbd4f96e19d5c654beec5203.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "55ae93b44a2e1e1695cafe7ba882ccd06a5264c18cf85c401297f16475bc2607",
+      "bytes": 65081,
+      "capturado_em": "2026-10-28T12:45:10.948605-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/1d9bae51de556cf2c37721a7858fe166e52051f45076902fa92e20ee6aae6aa8.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "761dff6dd64b8d57ea792bb7cd5495ecca5401aa90a46ee3d432ff72cb87d6f0",
+      "bytes": 59953,
+      "capturado_em": "2026-10-28T12:48:34.329101-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/9a478fc49c4fb2b5f47f1d84d8770741c67c0400243700248216c30c636b2294.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b5818566e342a51b7c3fb147318ec139a978c3d68f0012a05e900a34281bd6cc",
+      "bytes": 57727,
+      "capturado_em": "2026-10-28T12:51:56.245127-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/89717d8ccbcc2a47aaa1eaf23cacc6f8cb9a446992c96890a6094ff287a2635b.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "80373ac7e2d302f52d1380f58fc53dfb25cf403e8d2fab9cd86a4a1383e5da3b",
+      "bytes": 56227,
+      "capturado_em": "2026-10-28T12:55:22.502035-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/3df335209ddbd82ef9ab72b86f1dd2cf5b6560ee68077564c5460d68514465f4.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "01d2635a6710655f2e3a335ff71e1bf6723577e8d4157bfcda914ec4165febe3",
+      "bytes": 56315,
+      "capturado_em": "2026-10-28T12:58:50.983930-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guadalupe.pi.leg.br/395e458a70122d9fae9cdaa4e024f38da9d308c01443d50392bb9956b7f3336b.json",
+      "url": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.guadalupe.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e82d8c4febb7274ba5ebeeaa04b3bbe1d0125f79cfca99c6da0e13d9e2877ff3",
+      "bytes": 41944,
+      "capturado_em": "2026-10-28T13:02:13.148479-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

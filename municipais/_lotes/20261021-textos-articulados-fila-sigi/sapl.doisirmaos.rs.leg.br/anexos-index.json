@@ -1,0 +1,538 @@
+{
+  "estado": "indice_completo",
+  "total": 52,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/lei_4.630_ldo_anexos_parte_1.pdf da norma Lei Municipal nº 4.630, de 03 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2018/1/lei_4.630_ldo_anexos_parte_1.pdf",
+      "ano": 2018,
+      "norma": 4686
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_4.630_ldo_anexos_parte_2.pdf da norma Lei Municipal nº 4.630, de 03 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_4.630_ldo_anexos_parte_2.pdf",
+      "ano": 2018,
+      "norma": 4686
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/lei_4.630_ldo_anexos_parte_3.pdf da norma Lei Municipal nº 4.630, de 03 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2018/3/lei_4.630_ldo_anexos_parte_3.pdf",
+      "ano": 2018,
+      "norma": 4686
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/4/lei_4.630_ldo_anexos_parte_4.pdf da norma Lei Municipal nº 4.630, de 03 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2018/4/lei_4.630_ldo_anexos_parte_4.pdf",
+      "ano": 2018,
+      "norma": 4686
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/lei_4.630_ldo_anexos_parte_5.pdf da norma Lei Municipal nº 4.630, de 03 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2018/5/lei_4.630_ldo_anexos_parte_5.pdf",
+      "ano": 2018,
+      "norma": 4686
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/6/lei_4.630_ldo_anexos_parte_6.pdf da norma Lei Municipal nº 4.630, de 03 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2018/6/lei_4.630_ldo_anexos_parte_6.pdf",
+      "ano": 2018,
+      "norma": 4686
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/7/lei_4.630_ldo_anexos_parte_7.pdf da norma Lei Municipal nº 4.630, de 03 de outubro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2018/7/lei_4.630_ldo_anexos_parte_7.pdf",
+      "ano": 2018,
+      "norma": 4686
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/8/emenda_001_ao_pl_053.2020.pdf da norma Lei Municipal nº 4.848, de 06 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Emenda Modificativa nº 001",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2020/8/emenda_001_ao_pl_053.2020.pdf",
+      "ano": 2020,
+      "norma": 4980
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/anexos_ldo_2021.pdf da norma Lei Municipal nº 4.848, de 06 de outubro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexos à LDO",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2020/9/anexos_ldo_2021.pdf",
+      "ano": 2020,
+      "norma": 4980
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/10/anexos_loa_2021.pdf da norma Lei Municipal nº 4.858, de 08 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexos à LOA 2021",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2020/10/anexos_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 4996
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/lei_no_4.979.2021__ldo_2022_anexo_i.pdf da norma Lei Municipal nº 4.979, de 05 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/11/lei_no_4.979.2021__ldo_2022_anexo_i.pdf",
+      "ano": 2021,
+      "norma": 5133
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/12/lei_no_4.979.2021__ldo_2022_anexo_ii.pdf da norma Lei Municipal nº 4.979, de 05 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/12/lei_no_4.979.2021__ldo_2022_anexo_ii.pdf",
+      "ano": 2021,
+      "norma": 5133
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/13/lei_no_4.979.2021__ldo_2022_anexo_iii.pdf da norma Lei Municipal nº 4.979, de 05 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/13/lei_no_4.979.2021__ldo_2022_anexo_iii.pdf",
+      "ano": 2021,
+      "norma": 5133
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/14/lei_no_4.979.2021__ldo_2022_anexo_iv.pdf da norma Lei Municipal nº 4.979, de 05 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/14/lei_no_4.979.2021__ldo_2022_anexo_iv.pdf",
+      "ano": 2021,
+      "norma": 5133
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/15/lei_no_4.979.2021__ldo_2022_anexo_v.pdf da norma Lei Municipal nº 4.979, de 05 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/15/lei_no_4.979.2021__ldo_2022_anexo_v.pdf",
+      "ano": 2021,
+      "norma": 5133
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/16/lei_no_4.983.2021_anexo_i_-_macrozoneamento_-_mapa_1_-_mapa_do_macrozoneamento.pdf da norma Lei Municipal nº 4.983, de 14 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/16/lei_no_4.983.2021_anexo_i_-_macrozoneamento_-_mapa_1_-_mapa_do_macrozoneamento.pdf",
+      "ano": 2021,
+      "norma": 5138
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/17/lei_no_4.983.2021_anexo_ii_-_zoneamento_-_mapa_1_-_mapa_do_zoneamento_-_alteracoes_propostas-layout1.pdf da norma Lei Municipal nº 4.983, de 14 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/17/lei_no_4.983.2021_anexo_ii_-_zoneamento_-_mapa_1_-_mapa_do_zoneamento_-_alteracoes_propostas-layout1.pdf",
+      "ano": 2021,
+      "norma": 5138
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/18/lei_no_4.983.2021_anexo_iii_-_regime_urbanistico_-_quadro_1_-_regime_urbanistico.pdf da norma Lei Municipal nº 4.983, de 14 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/18/lei_no_4.983.2021_anexo_iii_-_regime_urbanistico_-_quadro_1_-_regime_urbanistico.pdf",
+      "ano": 2021,
+      "norma": 5138
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/19/lei_no_4.983.2021_anexo_iii_-_regime_urbanistico_-_quadro_3_-_padroes_de_estacionamento.pdf da norma Lei Municipal nº 4.983, de 14 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/19/lei_no_4.983.2021_anexo_iii_-_regime_urbanistico_-_quadro_3_-_padroes_de_estacionamento.pdf",
+      "ano": 2021,
+      "norma": 5138
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/20/lei_no_4.983.2021_anexo_v_-_sistema_viario_-_quadro_1_-_vias_principais_-_gabaritos_e_alargamentos_viarios.pdf da norma Lei Municipal nº 4.983, de 14 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/20/lei_no_4.983.2021_anexo_v_-_sistema_viario_-_quadro_1_-_vias_principais_-_gabaritos_e_alargamentos_viarios.pdf",
+      "ano": 2021,
+      "norma": 5138
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/21/lei_no_4.994.2021_loa_2022.anexos_parte_1.pdf da norma Lei Municipal nº 4.994, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/21/lei_no_4.994.2021_loa_2022.anexos_parte_1.pdf",
+      "ano": 2021,
+      "norma": 5153
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/22/lei_no_4.994.2021_loa_2022.anexos_parte_2.pdf da norma Lei Municipal nº 4.994, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/22/lei_no_4.994.2021_loa_2022.anexos_parte_2.pdf",
+      "ano": 2021,
+      "norma": 5153
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/23/lei_no_4.994.2021_loa_2022.anexos_parte_3.pdf da norma Lei Municipal nº 4.994, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/23/lei_no_4.994.2021_loa_2022.anexos_parte_3.pdf",
+      "ano": 2021,
+      "norma": 5153
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/24/lei_no_4.994.2021_loa_2022.anexos_parte_4_compressed.pdf da norma Lei Municipal nº 4.994, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/24/lei_no_4.994.2021_loa_2022.anexos_parte_4_compressed.pdf",
+      "ano": 2021,
+      "norma": 5153
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/25/lei_no_4.994.2021_loa_2022.anexos_parte_5.pdf da norma Lei Municipal nº 4.994, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/25/lei_no_4.994.2021_loa_2022.anexos_parte_5.pdf",
+      "ano": 2021,
+      "norma": 5153
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/26/anexos_parte_6_compressed.pdf da norma Lei Municipal nº 4.994, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/26/anexos_parte_6_compressed.pdf",
+      "ano": 2021,
+      "norma": 5153
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/27/lei_no_4.994.2021_loa_2022.anexos_parte_7_compressed.pdf da norma Lei Municipal nº 4.994, de 23 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2021/27/lei_no_4.994.2021_loa_2022.anexos_parte_7_compressed.pdf",
+      "ano": 2021,
+      "norma": 5153
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/28/anexo_1_e_2.docx da norma Resolução nº 10, de 21 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2022/28/anexo_1_e_2.docx",
+      "ano": 2022,
+      "norma": 5307
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/29/anexo_1_e_2.docx da norma Resolução nº 11, de 21 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2022/29/anexo_1_e_2.docx",
+      "ano": 2022,
+      "norma": 5308
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/30/anexo_1.pdf da norma Resolução nº 12, de 21 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2022/30/anexo_1.pdf",
+      "ano": 2022,
+      "norma": 5309
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/31/pl_095_anexos_ldo_2023.pdf da norma Lei Municipal nº 5.123, de 27 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2022/31/pl_095_anexos_ldo_2023.pdf",
+      "ano": 2022,
+      "norma": 5312
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/32/anexos_loa_2023.pdf da norma Lei Municipal nº 5.155, de 29 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2022/32/anexos_loa_2023.pdf",
+      "ano": 2022,
+      "norma": 5348
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/33/requerimento_32_2023.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Requerimento 032/2023",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/33/requerimento_32_2023.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/34/anexo_ao_requerimento_32_2023.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Anexo ao requerimento 32/2023",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/34/anexo_ao_requerimento_32_2023.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/35/requerimento_34_2023.doc da norma Resolução nº 5, de 11 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/35/requerimento_34_2023.doc",
+      "ano": 2023,
+      "norma": 5430
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/36/ata_no._01.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Ata da primeira reunião - Instalação da comissão e escolha de cargos.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/36/ata_no._01.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/37/ata_no._02.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Ata da segunda reunião - Apres. ideia de método a ser utilizado, com entidades.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/37/ata_no._02.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/38/ata_no._03.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "Ata da terceira reunião - Composição definitiva dos 3 grupos de trabalho e discussão de assuntos relevantes ao desenvolvimento dos trabalhos.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/38/ata_no._03.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/39/ata_no._04.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Ata da quarta reunião - Explanação Sec. Mun. de Trânsito e BM, divisão das tarefas de cada grupo e discussão de assuntos gerais relevantes ao desenvolvimento dos trabalhos.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/39/ata_no._04.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/40/ofcom_no._05.2023_-_sol._prorrogacao_com_especial_serventes.pdf da norma Resolução nº 5, de 11 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Solicitação de prorrogação de prazo para entrega do relatório.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/40/ofcom_no._05.2023_-_sol._prorrogacao_com_especial_serventes.pdf",
+      "ano": 2023,
+      "norma": 5430
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/41/decreto_no_4.368.2023_regulamenta_cod._de_obras_e_edificacoes_camara_tecnica.pdf da norma Lei Municipal nº 5.267, de 19 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/41/decreto_no_4.368.2023_regulamenta_cod._de_obras_e_edificacoes_camara_tecnica.pdf",
+      "ano": 2023,
+      "norma": 5492
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/42/decreto_no_4.369.2023_aprova_a_estrutura_tecnica_codigo_de_obras_compressed.pdf da norma Lei Municipal nº 5.267, de 19 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/42/decreto_no_4.369.2023_aprova_a_estrutura_tecnica_codigo_de_obras_compressed.pdf",
+      "ano": 2023,
+      "norma": 5492
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/43/decreto_no_4.370.2023_regulamenta_cod._de_obras_e_edificacoes_e_estabelece_definicoes_e_procedimentos_para_o_processo_de_aprovacoes_de_projetos.pdf da norma Lei Municipal nº 5.267, de 19 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/43/decreto_no_4.370.2023_regulamenta_cod._de_obras_e_edificacoes_e_estabelece_definicoes_e_procedimentos_para_o_processo_de_aprovacoes_de_projetos.pdf",
+      "ano": 2023,
+      "norma": 5492
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/44/decreto_no_4.371.2023_estabelece_os_procedimentos_administrativos_para_tramitacao_de_processos_de_regularizacao.pdf da norma Lei Municipal nº 5.267, de 19 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/44/decreto_no_4.371.2023_estabelece_os_procedimentos_administrativos_para_tramitacao_de_processos_de_regularizacao.pdf",
+      "ano": 2023,
+      "norma": 5492
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/45/lei_no_5.269.2023_ldo_2024_anexos.pdf da norma Lei Municipal nº 5.269, de 26 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/45/lei_no_5.269.2023_ldo_2024_anexos.pdf",
+      "ano": 2023,
+      "norma": 5495
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/46/lista_de_presencas_da_aud._pub._com._de_mobilidade_urbana.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Lista de presenças da Audiência Pública da Comissão Especial de Mobilidade Urbana, ocorrida em 16 de outubro de 2023, a partir das 18h.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/46/lista_de_presencas_da_aud._pub._com._de_mobilidade_urbana.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/47/relatorio_final_com._especial_serventes_de_escola.pdf da norma Resolução nº 5, de 11 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Relatório final da Comissão Especial de Serventes de Escola.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/47/relatorio_final_com._especial_serventes_de_escola.pdf",
+      "ano": 2023,
+      "norma": 5430
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/48/emenda_a_lei_organica_no._01.2023_promulgada.pdf da norma Emenda à Lei Orgânica Municipal nº 1, de 17 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Emenda assinada.",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/48/emenda_a_lei_organica_no._01.2023_promulgada.pdf",
+      "ano": 2023,
+      "norma": 5501
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/49/ata_no._05.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/49/ata_no._05.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/50/ata_no._06.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/50/ata_no._06.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/51/ata_no._07.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/51/ata_no._07.pdf",
+      "ano": 2023,
+      "norma": 5421
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/52/ata_no._08.pdf da norma Resolução nº 4, de 19 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.doisirmaos.rs.leg.br/media/sapl/public/anexonormajuridica/2023/52/ata_no._08.pdf",
+      "ano": 2023,
+      "norma": 5421
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.doisirmaos.rs.leg.br/b3617c55a3247c18cd4d46fb02a11b60d367bf19fbb0ee403ac8233eee504ded.json",
+      "url": "https://sapl.doisirmaos.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.doisirmaos.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "47a195b6412fc0a831e0608f7ca034f55fd29dde567ea9d13f39be271c297a3f",
+      "bytes": 23306,
+      "capturado_em": "2026-10-28T09:48:17.288435-03:00"
+    }
+  ]
+}

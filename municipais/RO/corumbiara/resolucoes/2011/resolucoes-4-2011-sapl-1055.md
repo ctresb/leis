@@ -1,0 +1,67 @@
+---
+titulo: "RESOLUÇÃO nº 4, de 05 de setembro de 2011"
+tipo: "Resolução"
+tipo_na_fonte: "RESOLUÇÃO"
+numero: "4"
+data: "2011-09-05"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1055"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/272/text"
+sha256_fonte: "445a278572a4675f291961822d66a0ab11367fe64a7ae5ec1c6842409e721a6d"
+sha256_texto: "24f52cae139b86f4517ca98608262e0eee9af67efddaed82c71166d8bad65160"
+capturado_em_fonte: "2026-10-28T09:25:23.324970-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# RESOLUÇÃO nº 4, de 05 de setembro de 2011
+
+DISPÕE SOBRE REVOGAÇÃO DA RESOLUÇÃO Nº 003/2009, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Mesa Diretora da Câmara Municipal de Corumbiara, Estado de Rondônia, usando de suas atribuições legais, considerando a decisão final do Tribunal de Contas do Estado de Rondônia, ao Processo nº 0599/2099 com o Parecer Prévio nº 09/10, pronunciamento nos autos nº 3505/2009, onde figura como Relator da matéria o Conselheiro Francisco Carvalho da Silva, faz saber que o Plenário aprovou e Ela promulga a seguinte
+
+**RESOLUÇÃO:**
+
+
+Art. 1º.
+
+Fica revogada a Resolução nº 003/2009 da Câmara Municipal de Corumbiara, com efeito repristinatório e retornando a vigência legal da Resolução nº 002/2008, estendendo-se até o final da legislatura de 2009 a 2012.
+
+
+Art. 2º.
+
+Fica autorizada a Câmara Municipal de Corumbiara a restituir ao Ex-Presidente Vereador Valter de Oliveira os valores descritos no item 15 do Relatório do TCE num total de R$ 4.578,00, incluindo-se o juro aplicado pelo TC; bem como a diferença dos valores da Verba de Representação de agosto a dezembro/09 no valor de R$ 2.620,00, e todo o exercício de 2010, no valor de R$ 6.288,00.
+
+
+Parágrafo único
+
+Para pagamento dos valores de restituição e indenização de que trata este artigo, deverão ser incluídas dotações orçamentárias próprias no orçamento de 2012, em não havendo condições de pagamento dentro do atual exercício de 2011.
+
+
+Art. 3º.
+
+Para o atual Presidente da Câmara se aplica a mesma regra da Resolução nº 002/2008, devendo ser indenizado com pagamento da diferença entre janeiro e agosto/12, no valor de 4.192,00 e que seja pago o valor integral nos termos da Resolução nº 002/08, de setembro a dezembro/12, e durante todo o exercício de 2012.
+
+
+Parágrafo único
+
+Em não havendo condições financeiras no atual orçamento, deverá ser prevista para o orçamento de 2012 a indenização também dos meses de setembro a dezembro/12.
+
+
+Art. 4º.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Corumbiara, 05 de setembro de 2011.
+
+**MESA DIRETORA DA CÂMARA:**
+
+<table><tbody><tr><td><strong>Galdino Raul de Sousa</strong><br>Ver. Presidente</td><td><strong>Marcelo C. do Nascimento</strong><br>Ver. Vice-Presidente</td></tr><tr><td><strong>Artêmio Piana Vieira</strong><br>Ver. 1º Secretário</td><td><strong>Moisés Pereira da Veiga</strong><br>Ver. 2º Secretário</td></tr></tbody></table>
+

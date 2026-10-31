@@ -1,0 +1,161 @@
+“Dispõe sobre o realinhamento anual dos vencimentos dos cargos do quadro de servidores públicos da Prefeitura do Município de Porto Velho e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe são conferidas pelos artigos 65, §1º, II, e 87, III, da Lei Orgânica do Município de Porto Velho,  
+  
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica concedido realinhamento de 5,91% (cinco virgula noventa e um por cento) sobre os vencimentos básicos dos cargos pertencentes ao quadro de servidores públicos do Município de Porto Velho, conforme anexos I, II, III, IV, V e VI desta Lei Complementar, nos seguintes termos:
+
+
+I –
+
+O anexo I, altera o Anexo I da Lei Complementar nº 163, de 08 de julho de 2003;
+
+
+II –
+
+O anexo II, altera o Anexo II da Lei Complementar nº 163, de 08 de julho de 2003;
+
+
+III –
+
+O anexo III, altera o Anexo II, da Lei Complementar 187, de 28 de maio de 2004;
+
+
+IV –
+
+O anexo IV, altera o Anexo IV, de que trata o inciso IV do art. 42 da Lei Complementar nº 360, de 04 de setembro de 2009;
+
+
+V –
+
+O anexo V, altera o Anexo II, da Lei Complementar 384, de 30 de junho de 2010;
+
+
+VI –
+
+O anexo VI, altera o Anexo II da Lei Complementar nº 390, de 02 de julho de 2010;
+
+
+Art. 2º.
+
+As despesas decorrentes desta Lei Complementar correrão por conta de recursos disponibilizados no orçamento vigente.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, com efeitos financeiros a partir de 1º de abril de 2011.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO**  
+Prefeito do Município  
+  
+**MÁRIO JONAS FREITAS GUTERRES**  
+Procurador Geral do Município
+
+
+## Anexo I
+
+<table><colgroup><col></colgroup><tbody><tr><td><p><strong>5,91% A PARTIR 01/04/2011</strong></p></td></tr><tr><td><p><strong>TABELA DE VENCIMENTO – PROCURADORIA GERAL DO MUNICÍPIO</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>QTDE</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr><tr><td rowspan="3"><p><strong>PROCURADOR</strong></p></td><td rowspan="3"><p>GOJ-NS-01</p></td><td rowspan="3"><p>50</p></td><td><p>A</p></td><td><p>2.144,17</p></td><td><p>2.680,21</p></td><td><p>3.350,25</p></td><td><p>4.187,82</p></td></tr><tr><td><p>B</p></td><td><p>4.606,59</p></td><td><p>5.758,23</p></td><td><p>7.197,79</p></td><td><p>8.997,23</p></td></tr><tr><td><p>C</p></td><td><p>9.896,95</p></td><td><p>12.371,19</p></td><td><p>15.463,98</p></td><td><p>19.329,97</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>QTDE</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr><tr><td rowspan="3"><p><strong>ADVOGADO</strong></p></td><td rowspan="3"><p>GOJ-NS-01</p></td><td rowspan="3"><p>3</p></td><td><p>A</p></td><td><p>1.876,15</p></td><td><p>2.345,20</p></td><td><p>2.931,48</p></td><td><p>3.664,35</p></td></tr><tr><td><p>B</p></td><td><p>4.030,80</p></td><td><p>5.038,49</p></td><td><p>6.298,12</p></td><td><p>7.872,65</p></td></tr><tr><td><p>C</p></td><td><p>8.659,91</p></td><td><p>10.824,89</p></td><td><p>13.531,11</p></td><td><p>16.913,90</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>QTDE</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr><tr><td rowspan="3"><p><strong>TECNICO JURIDICO</strong></p></td><td rowspan="3"><p>GOJ-EMC-01</p></td><td rowspan="3"><p>30</p></td><td><p>A</p></td><td><p>1.608,11</p></td><td><p>2.010,13</p></td><td><p>2.512,65</p></td><td><p>3.140,81</p></td></tr><tr><td><p>B</p></td><td><p>3.454,89</p></td><td><p>4.318,61</p></td><td><p>5.398,24</p></td><td><p>6.747,80</p></td></tr><tr><td><p>C</p></td><td><p>7.422,58</p></td><td><p>9.278,21</p></td><td><p>11.597,77</p></td><td><p>14.497,20</p></td></tr></tbody></table>
+
+
+## Anexo II
+
+<table><colgroup><col></colgroup><tbody><tr><td><p><strong>5,91% A PARTIR DE 01/04/2011</strong></p></td></tr><tr><td><p><strong>TABELA DE VENCIMENTO – CONTROLADORIA GERAL DO MUNICÍPIO</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>QTDE</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>AUDITOR</p></td><td rowspan="3"><p>GCI-NS-01</p></td><td rowspan="3"><p>18</p></td><td><p>A</p></td><td><p>2.144,17</p></td><td><p>2.680,21</p></td><td><p>3.350,26</p></td><td><p>4.187,82</p></td></tr><tr><td><p>B</p></td><td><p>4.606,59</p></td><td><p>5.758,23</p></td><td><p>7.197,80</p></td><td><p>8.997,23</p></td></tr><tr><td><p>C</p></td><td><p>9.896,95</p></td><td><p>12.371,19</p></td><td><p>15.463,98</p></td><td><p>19.329,97</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>QTDE</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>CONTADOR</p></td><td rowspan="3"><p>GCI-NS-02</p></td><td rowspan="3"><p>20</p></td><td><p>A</p></td><td><p>1.876,12</p></td><td><p>2.345,15</p></td><td><p>2.931,43</p></td><td><p>3.664,28</p></td></tr><tr><td><p>B</p></td><td><p>4.030,71</p></td><td><p>5.038,40</p></td><td><p>6.297,98</p></td><td><p>7.872,48</p></td></tr><tr><td><p>C</p></td><td><p>8.659,73</p></td><td><p>10.824,66</p></td><td><p>13.530,81</p></td><td><p>16.913,52</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>QTDE</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>TECNICO DE CONTROLE INTERNO</p></td><td rowspan="3"><p>GCI-NS-03</p></td><td rowspan="3"><p>10</p></td><td><p>A</p></td><td><p>1.742,12</p></td><td><p>2.177,66</p></td><td><p>2.722,07</p></td><td><p>3.402,59</p></td></tr><tr><td><p>B</p></td><td><p>3.742,83</p></td><td><p>4.678,53</p></td><td><p>5.848,16</p></td><td><p>7.310,19</p></td></tr><tr><td><p>C</p></td><td><p>8.041,22</p></td><td><p>10.051,51</p></td><td><p>12.564,39</p></td><td><p>15.705,47</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>QTDE</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>ASSISTENTE DE CONTROLE INTERNO</p></td><td rowspan="3"><p>GCI-EMC-01</p></td><td rowspan="3"><p>25</p></td><td><p>A</p></td><td><p>1.608,11</p></td><td><p>2.010,13</p></td><td><p>2.512,65</p></td><td><p>3.140,81</p></td></tr><tr><td><p>B</p></td><td><p>3.454,89</p></td><td><p>4.318,61</p></td><td><p>5.398,24</p></td><td><p>6.747,81</p></td></tr><tr><td><p>C</p></td><td><p>7.422,58</p></td><td><p>9.278,21</p></td><td><p>11.597,77</p></td><td><p>14.497,20</p></td></tr></tbody></table>
+
+
+## Anexo III
+
+<table><colgroup><col></colgroup><tbody><tr><td><p><strong>5,91% A PARTIR DE 01/04/2011</strong></p></td></tr><tr><td><p><strong>TABELA DE VENCIMENTO – GRUPO TAF</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td><p>AUXILIAR DE SERVIÇOS FISCAIS</p></td><td rowspan="3"><p>TAF-EMC-02 E 03</p></td><td><p>A</p></td><td><p>497,80</p></td><td><p>522,69</p></td><td><p>909,67</p></td><td><p>1.273,54</p></td></tr><tr><td><p>E</p></td><td><p>B</p></td><td><p>1.528,24</p></td><td><p>1.757,48</p></td><td><p>2.021,11</p></td><td><p>2.324,27</p></td></tr><tr><td><p>ASSISTENTE DE ARRECADAÇÃO</p></td><td><p>C</p></td><td><p>2.672,90</p></td><td><p>3.073,85</p></td><td><p>3.534,93</p></td><td><p>4.065,16</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col></colgroup><colgroup><col><col><col><col></colgroup><tbody><tr><td><p>FISCAL MUNICIPAL</p></td><td rowspan="3"><p>TAF-EMC-04, 05, 06, 07, 08, E 09</p></td><td><p>A</p></td><td><p>499,69</p></td><td><p>553,75</p></td><td><p>1.218,26</p></td><td><p>1.705,56</p></td></tr><tr><td><p>MEIO AMBIENTE, OBRAS, POSTURA, TRANSPORTE</p></td><td><p>B</p></td><td><p>2.046,69</p></td><td><p>2.353,68</p></td><td><p>2.706,73</p></td><td><p>3.112,74</p></td></tr><tr><td><p>TRIBUTOS E VIGILÂNCIA SANITÁRIA.</p></td><td><p>C</p></td><td><p>3.579,66</p></td><td><p>4.116,61</p></td><td><p>4.734,10</p></td><td><p>5.444,23</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>Cargo</p></td><td rowspan="3"><p>Código</p></td><td rowspan="3"><p>Classe</p></td><td colspan="4"><p>Vencimento</p></td></tr><tr><td colspan="4"><p>Nível</p></td></tr><tr><td><p>I</p></td><td><p>II</p></td><td><p>III</p></td><td><p>IV</p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="3"><p>AUDITOR DO TESOURO</p></td><td rowspan="3"><p>TAF-NS-01</p></td><td><p>A</p></td><td><p>622,56</p></td><td><p>684,82</p></td><td><p>1.507,93</p></td><td><p>2.111,08</p></td></tr><tr><td><p>B</p></td><td><p>2.533,31</p></td><td><p>2.913,31</p></td><td><p>3.350,31</p></td><td><p>3.852,87</p></td></tr><tr><td><p>C</p></td><td><p>4.430,79</p></td><td><p>5.095,39</p></td><td><p>5.859,72</p></td><td><p>6.738,67</p></td></tr></tbody></table>
+
+
+## Anexo IV
+
+<table><colgroup><col></colgroup><tbody><tr><td><p><strong>5,91% A PARTIR DE 01/04/2011</strong></p></td></tr><tr><td><p><strong>TABELA DE VENCIMENTO - FUNÇÕES DE MAGISTÉRIO</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>CARGO</p></td><td rowspan="2"><p>NIVEL</p></td><td colspan="18"><p>R E F E R Ê N C I A</p></td></tr><tr><td><p>01</p></td><td><p>02</p></td><td><p>03</p></td><td><p>04</p></td><td><p>05</p></td><td><p>06</p></td><td><p>07</p></td><td><p>08</p></td><td><p>09</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>16</p></td><td><p>17</p></td><td><p>18</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>40 HORAS SEMANAIS</strong></p></td><td><p> </p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>1.137,02</p></td><td><p>1.148,38</p></td><td><p>1.159,76</p></td><td><p>1.171,13</p></td><td><p>1.182,50</p></td><td><p>1.193,87</p></td><td><p>1.205,24</p></td><td><p>1.216,61</p></td><td><p>1.227,98</p></td><td><p>1.239,35</p></td><td><p>1.250,72</p></td><td><p>1.262,09</p></td><td><p>1.273,46</p></td><td><p>1.284,83</p></td><td><p>1.296,20</p></td><td><p>1.307,57</p></td><td><p>1.318,94</p></td><td><p>1.330,31</p></td></tr><tr><td><p>II</p></td><td><p>1.509,12</p></td><td><p>1.524,22</p></td><td><p>1.539,30</p></td><td><p>1.554,40</p></td><td><p>1.569,48</p></td><td><p>1.584,58</p></td><td><p>1.599,67</p></td><td><p>1.614,76</p></td><td><p>1.629,85</p></td><td><p>1.644,94</p></td><td><p>1.660,04</p></td><td><p>1.675,12</p></td><td><p>1.690,22</p></td><td><p>1.705,31</p></td><td><p>1.720,40</p></td><td><p>1.735,49</p></td><td><p>1.750,58</p></td><td><p>1.765,67</p></td></tr><tr><td><p>ESPECIALISTA EM EDUCAÇÃO</p></td><td><p>I</p></td><td><p>1.509,12</p></td><td><p>1.524,22</p></td><td><p>1.539,30</p></td><td><p>1.554,40</p></td><td><p>1.569,48</p></td><td><p>1.584,58</p></td><td><p>1.599,67</p></td><td><p>1.614,76</p></td><td><p>1.629,85</p></td><td><p>1.644,94</p></td><td><p>1.660,04</p></td><td><p>1.675,12</p></td><td><p>1.690,22</p></td><td><p>1.705,31</p></td><td><p>1.720,40</p></td><td><p>1.735,49</p></td><td><p>1.750,58</p></td><td><p>1.765,67</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>30 HORAS SEMANAIS</strong></p></td><td><p> </p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>852,77</p></td><td><p>861,30</p></td><td><p>869,82</p></td><td><p>878,36</p></td><td><p>886,88</p></td><td><p>895,41</p></td><td><p>903,93</p></td><td><p>912,47</p></td><td><p>920,99</p></td><td><p>929,52</p></td><td><p>938,05</p></td><td><p>946,58</p></td><td><p>955,10</p></td><td><p>963,63</p></td><td><p>972,16</p></td><td><p>980,69</p></td><td><p>989,21</p></td><td><p>997,74</p></td></tr><tr><td><p>II</p></td><td><p>1.131,84</p></td><td><p>1.143,16</p></td><td><p>1.154,47</p></td><td><p>1.165,79</p></td><td><p>1.177,12</p></td><td><p>1.188,43</p></td><td><p>1.199,75</p></td><td><p>1.211,07</p></td><td><p>1.222,38</p></td><td><p>1.233,70</p></td><td><p>1.245,03</p></td><td><p>1.256,34</p></td><td><p>1.267,66</p></td><td><p>1.278,98</p></td><td><p>1.290,29</p></td><td><p>1.301,62</p></td><td><p>1.312,94</p></td><td><p>1.324,25</p></td></tr><tr><td><p>ESPECIALISTA EM EDUCAÇÃO</p></td><td><p>I</p></td><td><p>1.131,84</p></td><td><p>1.143,16</p></td><td><p>1.154,47</p></td><td><p>1.165,79</p></td><td><p>1.177,12</p></td><td><p>1.188,43</p></td><td><p>1.199,75</p></td><td><p>1.211,07</p></td><td><p>1.222,38</p></td><td><p>1.233,70</p></td><td><p>1.245,03</p></td><td><p>1.256,34</p></td><td><p>1.267,66</p></td><td><p>1.278,98</p></td><td><p>1.290,29</p></td><td><p>1.301,62</p></td><td><p>1.312,94</p></td><td><p>1.324,25</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>25 HORAS SEMANAIS</strong></p></td><td><p> </p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>710,65</p></td><td><p>717,76</p></td><td><p>724,86</p></td><td><p>731,97</p></td><td><p>739,07</p></td><td><p>746,19</p></td><td><p>753,29</p></td><td><p>760,40</p></td><td><p>767,50</p></td><td><p>774,61</p></td><td><p>781,72</p></td><td><p>788,82</p></td><td><p>795,93</p></td><td><p>803,03</p></td><td><p>810,14</p></td><td><p>817,25</p></td><td><p>824,36</p></td><td><p>831,46</p></td></tr><tr><td><p>II</p></td><td><p>943,20</p></td><td><p>952,63</p></td><td><p>962,06</p></td><td><p>971,50</p></td><td><p>980,93</p></td><td><p>990,36</p></td><td><p>999,79</p></td><td><p>1.009,23</p></td><td><p>1.018,66</p></td><td><p>1.028,09</p></td><td><p>1.037,52</p></td><td><p>1.046,95</p></td><td><p>1.056,39</p></td><td><p>1.065,82</p></td><td><p>1.075,25</p></td><td><p>1.084,68</p></td><td><p>1.094,12</p></td><td><p>1.103,55</p></td></tr><tr><td><p>ESPECIALISTA EM EDUCAÇÃO</p></td><td><p>I</p></td><td><p>943,20</p></td><td><p>952,63</p></td><td><p>962,06</p></td><td><p>971,50</p></td><td><p>980,93</p></td><td><p>990,36</p></td><td><p>999,79</p></td><td><p>1.009,23</p></td><td><p>1.018,66</p></td><td><p>1.028,09</p></td><td><p>1.037,52</p></td><td><p>1.046,95</p></td><td><p>1.056,39</p></td><td><p>1.065,82</p></td><td><p>1.075,25</p></td><td><p>1.084,68</p></td><td><p>1.094,12</p></td><td><p>1.103,55</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>20 HORAS SEMANAIS</strong></p></td><td><p> </p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>PROFESSOR</p></td><td><p>I</p></td><td><p>568,52</p></td><td><p>574,21</p></td><td><p>579,89</p></td><td><p>585,58</p></td><td><p>591,26</p></td><td><p>596,94</p></td><td><p>602,63</p></td><td><p>608,32</p></td><td><p>614,00</p></td><td><p>619,69</p></td><td><p>625,37</p></td><td><p>631,05</p></td><td><p>636,74</p></td><td><p>642,43</p></td><td><p>648,12</p></td><td><p>653,80</p></td><td><p>659,48</p></td><td><p>665,17</p></td></tr><tr><td><p>II</p></td><td><p>754,57</p></td><td><p>762,11</p></td><td><p>769,66</p></td><td><p>777,20</p></td><td><p>784,75</p></td><td><p>792,30</p></td><td><p>799,84</p></td><td><p>807,38</p></td><td><p>818,25</p></td><td><p>822,48</p></td><td><p>830,03</p></td><td><p>837,57</p></td><td><p>845,11</p></td><td><p>852,66</p></td><td><p>860,21</p></td><td><p>867,75</p></td><td><p>875,29</p></td><td><p>882,84</p></td></tr><tr><td><p>ESPECIALISTA EM EDUCAÇÃO</p></td><td><p>I</p></td><td><p>754,57</p></td><td><p>762,11</p></td><td><p>769,66</p></td><td><p>777,20</p></td><td><p>784,75</p></td><td><p>792,30</p></td><td><p>799,84</p></td><td><p>807,38</p></td><td><p>818,25</p></td><td><p>822,48</p></td><td><p>830,03</p></td><td><p>837,57</p></td><td><p>845,11</p></td><td><p>852,66</p></td><td><p>860,21</p></td><td><p>867,75</p></td><td><p>875,29</p></td><td><p>882,84</p></td></tr></tbody></table>
+
+<table><colgroup><col></colgroup><tbody><tr><td><p><strong>5,91% A PARTIR 01/04/2011</strong></p></td></tr><tr><td><p><strong>TABELA DE VENCIMENTO - CARGOS COM FUNÇÕES AO ENSINO E APRENDIZAGEM</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td rowspan="2"><p>CARGO</p></td><td rowspan="2"><p>NIVEL</p></td><td colspan="18"><p>R E F E R Ê N C I A</p></td></tr><tr><td><p>01</p></td><td><p>02</p></td><td><p>03</p></td><td><p>04</p></td><td><p>05</p></td><td><p>06</p></td><td><p>07</p></td><td><p>08</p></td><td><p>09</p></td><td><p>10</p></td><td><p>11</p></td><td><p>12</p></td><td><p>13</p></td><td><p>14</p></td><td><p>15</p></td><td><p>16</p></td><td><p>17</p></td><td><p>18</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p> </p></td><td><p><strong>40 HORAS SEMANAIS</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td><p>CARGO NÍVEL FUNDAMENTAL</p></td><td><p>I</p></td><td><p>772,15</p></td><td><p>779,88</p></td><td><p>787,59</p></td><td><p>795,32</p></td><td><p>803,04</p></td><td><p>810,76</p></td><td><p>818,48</p></td><td><p>826,21</p></td><td><p>833,92</p></td><td><p>841,65</p></td><td><p>849,37</p></td><td><p>857,09</p></td><td><p>864,81</p></td><td><p>872,54</p></td><td><p>880,25</p></td><td><p>887,98</p></td><td><p>895,70</p></td><td><p>903,41</p></td></tr><tr><td><p>CARGO NÍVEL MÉDIO</p></td><td><p>II</p></td><td><p>845,63</p></td><td><p>854,09</p></td><td><p>862,54</p></td><td><p>871,00</p></td><td><p>879,45</p></td><td><p>887,91</p></td><td><p>896,36</p></td><td><p>904,82</p></td><td><p>913,28</p></td><td><p>921,74</p></td><td><p>930,20</p></td><td><p>938,65</p></td><td><p>947,11</p></td><td><p>955,57</p></td><td><p>964,02</p></td><td><p>972,48</p></td><td><p>980,93</p></td><td><p>989,39</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p> </p></td><td><p><strong>40 HORAS SEMANAIS</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td><p>INSTRUTOR DE ARTE</p></td><td><p>I</p></td><td><p>1.443,21</p></td><td><p>1.457,65</p></td><td><p>1.472,08</p></td><td><p>1.486,51</p></td><td><p>1.500,94</p></td><td><p>1.515,38</p></td><td><p>1.529,81</p></td><td><p>1.544,24</p></td><td><p>1.558,67</p></td><td><p>1.573,10</p></td><td><p>1.587,54</p></td><td><p>1.601,97</p></td><td><p>1.616,40</p></td><td><p>1.630,83</p></td><td><p>1.645,26</p></td><td><p>1.659,70</p></td><td><p>1.674,13</p></td><td><p>1.688,56</p></td></tr><tr><td><p>INSTRUTOR DE ARTE</p></td><td><p>II</p></td><td><p>1.659,70</p></td><td><p>1.676,30</p></td><td><p>1.692,89</p></td><td><p>1.709,49</p></td><td><p>1.726,08</p></td><td><p>1.742,68</p></td><td><p>1.759,28</p></td><td><p>1.775,87</p></td><td><p>1.792,47</p></td><td><p>1.809,06</p></td><td><p>1.825,67</p></td><td><p>1.842,27</p></td><td><p>1.858,86</p></td><td><p>1.875,46</p></td><td><p>1.892,05</p></td><td><p>1.908,65</p></td><td><p>1.925,25</p></td><td><p>1.941,84</p></td></tr></tbody></table>
+
+
+## Anexo V — 5,91% A PARTIR DE 01/04/2011
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td><p><strong>CLASSE</strong></p><p><strong>REFERÊNCIA</strong></p></td><td><p><strong>I</strong></p></td><td><p><strong>II</strong></p></td><td><p><strong>III</strong></p></td><td><p><strong>IV</strong></p></td><td><p><strong>V</strong></p></td><td><p><strong>VI</strong></p></td><td><p><strong>VII</strong></p></td><td><p><strong>VIII</strong></p></td><td><p><strong>IX</strong></p></td><td><p><strong>X</strong></p></td><td><p><strong>XI</strong></p></td><td><p><strong>XII</strong></p></td><td><p><strong>XIII</strong></p></td><td><p><strong>XIV</strong></p></td><td><p><strong>XV</strong></p></td></tr><tr><td><p>A</p></td><td><p>621,90</p></td><td><p>634,34</p></td><td><p>646,78</p></td><td><p>659,22</p></td><td><p>671,66</p></td><td><p>684,09</p></td><td><p>696,53</p></td><td><p>708,97</p></td><td><p>721,41</p></td><td><p>733,85</p></td><td><p>746,28</p></td><td><p>758,72</p></td><td><p>771,16</p></td><td><p>783,60</p></td><td><p>796,04</p></td></tr><tr><td><p>B</p></td><td><p>635,62</p></td><td><p>648,33</p></td><td><p>661,04</p></td><td><p>673,76</p></td><td><p>686,47</p></td><td><p>699,18</p></td><td><p>711,89</p></td><td><p>724,61</p></td><td><p>737,32</p></td><td><p>750,03</p></td><td><p>762,74</p></td><td><p>775,46</p></td><td><p>788,17</p></td><td><p>800,88</p></td><td><p>813,59</p></td></tr><tr><td><p>C</p></td><td><p>649,59</p></td><td><p>662,58</p></td><td><p>675,57</p></td><td><p>688,56</p></td><td><p>701,56</p></td><td><p>714,55</p></td><td><p>727,54</p></td><td><p>740,53</p></td><td><p>753,52</p></td><td><p>766,51</p></td><td><p>779,51</p></td><td><p>792,50</p></td><td><p>805,49</p></td><td><p>818,48</p></td><td><p>831,47</p></td></tr><tr><td><p>D</p></td><td><p>1.270,92</p></td><td><p>1.296,34</p></td><td><p>1.321,76</p></td><td><p>1.347,18</p></td><td><p>1.372,59</p></td><td><p>1.398,01</p></td><td><p>1.423,43</p></td><td><p>1.448,85</p></td><td><p>1.474,27</p></td><td><p>1.499,69</p></td><td><p>1.525,10</p></td><td><p>1.550,52</p></td><td><p>1.575,94</p></td><td><p>1.601,36</p></td><td><p>1.626,78</p></td></tr><tr><td><p>E</p></td><td><p>1.376,83</p></td><td><p>1.404,37</p></td><td><p>1.431,90</p></td><td><p>1.459,44</p></td><td><p>1.486,98</p></td><td><p>1.514,51</p></td><td><p>1.542,05</p></td><td><p>1.569,59</p></td><td><p>1.597,12</p></td><td><p>1.624,66</p></td><td><p>1.652,20</p></td><td><p>1.679,73</p></td><td><p>1.707,27</p></td><td><p>1.734,81</p></td><td><p>1.762,34</p></td></tr><tr><td><p>F</p></td><td><p>3.218,69</p></td><td><p>3.283,06</p></td><td><p>3.347,44</p></td><td><p>3.411,81</p></td><td><p>3.476,18</p></td><td><p>3.540,56</p></td><td><p>3.604,93</p></td><td><p>3.669,31</p></td><td><p>3.733,68</p></td><td><p>3.798,05</p></td><td><p>3.862,43</p></td><td><p>3.926,80</p></td><td><p>3.991,18</p></td><td><p>4.055,55</p></td><td><p>4.119,92</p></td></tr></tbody></table>
+
+
+## Anexo VI
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p><strong>5,91 A PARTIR DE 01/04/2011</strong></p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td colspan="12"><p><strong>TABELA DE VENCIMENTOS - PLANO SAÚDE</strong></p></td></tr></tbody></table>
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td><p><strong>CLASSE</strong></p><p><strong>REFERÊNCIA</strong></p></td><td><p><strong>I</strong></p></td><td><p><strong>II</strong></p></td><td><p><strong>III</strong></p></td><td><p><strong>IV</strong></p></td><td><p><strong>V</strong></p></td><td><p><strong>VI</strong></p></td><td><p><strong>VII</strong></p></td><td><p><strong>VIII</strong></p></td><td><p><strong>IX</strong></p></td><td><p><strong>X</strong></p></td><td><p><strong>XI</strong></p></td><td><p><strong>XII</strong></p></td><td><p><strong>XIII</strong></p></td><td><p><strong>XIV</strong></p></td><td><p><strong>XV</strong></p></td></tr><tr><td><p>A</p></td><td><p>609,94</p></td><td><p>622,13</p></td><td><p>634,33</p></td><td><p>646,53</p></td><td><p>658,73</p></td><td><p>670,93</p></td><td><p>683,13</p></td><td><p>695,33</p></td><td><p>707,53</p></td><td><p>719,72</p></td><td><p>731,92</p></td><td><p>744,12</p></td><td><p>756,32</p></td><td><p>768,52</p></td><td><p>780,72</p></td></tr><tr><td><p>B</p></td><td><p>678,90</p></td><td><p>692,48</p></td><td><p>706,06</p></td><td><p>719,64</p></td><td><p>733,22</p></td><td><p>746,79</p></td><td><p>760,37</p></td><td><p>773,95</p></td><td><p>787,53</p></td><td><p>801,11</p></td><td><p>814,69</p></td><td><p>828,26</p></td><td><p>841,84</p></td><td><p>855,42</p></td><td><p>869,00</p></td></tr><tr><td><p>C</p></td><td><p>1.616,45</p></td><td><p>1.648,78</p></td><td><p>1.681,11</p></td><td><p>1.713,44</p></td><td><p>1.745,77</p></td><td><p>1.778,10</p></td><td><p>1.810,43</p></td><td><p>1.842,75</p></td><td><p>1.875,08</p></td><td><p>1.907,41</p></td><td><p>1.939,74</p></td><td><p>1.972,07</p></td><td><p>2.004,40</p></td><td><p>2.036,73</p></td><td><p>2.069,06</p></td></tr><tr><td><p>D</p></td><td><p>3.177,30</p></td><td><p>3.240,85</p></td><td><p>3.304,39</p></td><td><p>3.367,94</p></td><td><p>3.431,48</p></td><td><p>3.495,03</p></td><td><p>3.558,58</p></td><td><p>3.622,12</p></td><td><p>3.685,67</p></td><td><p>3.749,21</p></td><td><p>3.812,76</p></td><td><p>3.876,31</p></td><td><p>3.939,85</p></td><td><p>4.003,40</p></td><td><p>4.066,94</p></td></tr><tr><td><p>E</p></td><td><p>3.336,17</p></td><td><p>3.402,89</p></td><td><p>3.469,61</p></td><td><p>3.536,33</p></td><td><p>3.603,06</p></td><td><p>3.669,78</p></td><td><p>3.736,50</p></td><td><p>3.803,23</p></td><td><p>3.869,95</p></td><td><p>3.936,67</p></td><td><p>4.003,40</p></td><td><p>4.070,12</p></td><td><p>4.136,84</p></td><td><p>4.203,57</p></td><td><p>4.270,29</p></td></tr><tr><td><p>F</p></td><td><p>5.983,92</p></td><td><p>6.103,59</p></td><td><p>6.223,27</p></td><td><p>6.342,95</p></td><td><p>6.462,63</p></td><td><p>6.582,31</p></td><td><p>6.701,98</p></td><td><p>6.821,66</p></td><td><p>6.941,34</p></td><td><p>7.061,02</p></td><td><p>7.180,70</p></td><td><p>7.300,38</p></td><td><p>7.420,05</p></td><td><p>7.539,73</p></td><td><p>7.659,41</p></td></tr></tbody></table>

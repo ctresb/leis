@@ -1,0 +1,202 @@
+---
+titulo: "Lei Ordinária nº 1.604, de 11 de setembro de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1604"
+data: "2009-09-11"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2010-12-10; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1986"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/424/text"
+sha256_fonte: "ae54bc87f05649a7e5f28c84e97908ce2c7d7272c2538b91c095f3d0aa485d62"
+sha256_texto: "7dc648ff145501c6ac42a070290859af0dde25884d784b801b3a6991294f49f9"
+capturado_em_fonte: "2026-10-27T21:37:07.043576-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.604, de 11 de setembro de 2009
+
+Institui o Programa de Incentivo ao Produtor Rural, Agroindústrias e outras Entidades Privadas de natureza pública estabelecidos no município de Caçu/GO e dá outras providências.
+
+
+O POVO DO MUNICÍPIO DE CAÇU, por seus representantes na CÂMARA MUNICIPAL, APROVA e eu, PREFEITO MUNICIPAL, no uso das atribuições conferidas pela Lei Orgânica Municipal – LOM, SANCIONO a seguinte LEI MUNICIPAL:
+
+
+Art. 1º.
+
+Fica instituído no âmbito do Município de Caçu, Estado de Goiás, o Programa de Incentivo ao Produtor Rural, Agroindústria e outras entidades privadas de natureza pública, que se constituirá em um programa destinado a fomentar e incentivar as atividades desenvolvidas por estes no município, a geração de empregos, o desenvolvimento do campo, a melhoria da produção e a melhoria da qualidade de vida.
+
+
+Art. 2º.
+
+O Município auxiliará, com máquinas, equipamentos, veículos, materiais, servidores e parcerias, para as pessoas físicas ou jurídicas, que desenvolvam ou venham a desenvolver atividades econômicas no município, sendo considerados de interesse público os serviços decorrentes dos auxílios previstos nesta Lei.
+
+
+Parágrafo único
+
+Serão considerados serviços de interesse público, para fins desta Lei, aqueles que demandarem movimentação e transporte de terras, pedras e materiais, escavações, terraplanagens, compactação, cascalhamento e outros serviços similares, além de fornecimento de materiais pré-moldados, à título de parceria, sendo estes para:
+
+
+I –
+
+a implantação de projetos de qualquer natureza, que importem em incremento à economia local;
+
+
+II –
+
+a melhoria dos acessos que servem para escoamento da produção, bem como os acessos de propriedades rurais e demais instalações;
+
+
+III –
+
+a correção de anormalidades e defecções causadas por fatores climáticos adversos, tais como chuvas de granizo, precipitação excessiva ou abundante de chuvas, vendavais e outros;
+
+
+IV –
+
+demais serviços não previstos nesta Lei e intrinsecamente ligados à proteção e ao desenvolvimento da economia local;
+
+
+V –
+
+outros serviços e fornecimentos de materiais voltados ao desenvolvimento da cultura, do desporto e do lazer.
+
+
+Art. 2º-A.
+
+Fica limitada a implementação deste Programa, quanto ao uso de tratores e outras máquinas, a proprietários rurais particulares deste Município que possuírem a totalidade máxima de 60,00ha (sessenta hectares) de terras no Município de Caçu, exceto em casos de alto grau de gravidade e urgência, até o seu controle.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.689, de 10 de dezembro de 2010.
+
+
+Parágrafo único
+
+Entende-se como de alto grau de gravidade e urgência os incêndios e os casos fortuitos que exageradamente exponham a integridade física de seres humanos e animais.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 1.689, de 10 de dezembro de 2010.
+
+
+Art. 3º.
+
+O referido incentivo dar-se-á da seguinte forma:
+
+
+I –
+
+a prestação de serviços na melhoria dos acessos que servem para escoamento da produção, bem como os acessos de propriedades rurais e demais instalações, quando estes demandarem o uso de máquinas, equipamentos, veículos e utilização de servidores;
+
+
+II –
+
+fornecimento de material pré-moldado produzidos pelo próprio município, à titulo de parceria, com a pessoa beneficiada;
+
+
+III –
+
+a implantação de projetos de qualquer natureza, que importem em incremento à economia nas atividades ligadas à agropecuária e agroindústria, que demandarem o uso de máquinas, equipamentos, veículos e transporte de materiais e utilização de servidores.
+
+
+Art. 4º.
+
+Os materiais pré-moldados especificados no inciso II, do artigo 3º, desta lei, produzidos pelo município são os seguintes:
+
+
+I –
+
+manilhas e suportes para instalação;
+
+
+II –
+
+peças para montagem de mata-burros;
+
+
+III –
+
+postes para instalação de redes elétricas;
+
+
+IV –
+
+bloquetes de diversas espessuras.
+
+
+Art. 5º.
+
+A parceria especificada no inciso II, do artigo 3º, desta lei, será realizada mediante solicitação expressa do interessado, especificando a quantidade de material a ser adquirido e o local a ser empregado, endereçado ao Departamento de Compras, que fará levantamento da matéria-prima a ser empregada na confecção do bem, e encaminhará o pedido à Comissão de Avaliação do Município, que designará preço final aos produtos, correspondente ao valor da matéria-prima e serviços empregados para confecção. Avaliado o preço final, a Secretaria de Obras e Serviços Urbanos atestará a necessidade da parceria, visitando o local indicado pelo interessado, e o Prefeito Municipal autorizará a confecção dos pré-moldados, ficando obrigado o beneficiado a fornecer, antecipadamente, matéria-prima para produção de pré-moldados no valor avaliado pela Comissão e de acordo com o solicitado pelo Departamento de Compras, sendo que, posteriormente, no prazo máximo de 60 (sessenta) dias, receberá o material solicitado em sua propriedade ou os retirará na fabrica municipal, firmando termo de entrega.
+
+
+Parágrafo único
+
+Caso não venha o beneficiado a empregar o material entregue no local especificado, no prazo máximo de 90 (noventa) dias, reverter-se-ão estes ao patrimônio público municipal, sem direito o beneficiado de qualquer indenização.
+
+
+Art. 6º.
+
+Nos incentivos concedidos na forma do inciso III, do artigo 3º, desta Lei, caso os projetos não se efetivarem num prazo de até 12 (doze) meses, a contar do término do serviço requerido ou houver desvio da finalidade para o qual foi concedido, o proprietário deverá recolher aos cofres públicos o montante decorrente de avaliação dos serviços concedido, devidamente corrigido de acordo com o índice apurado pelo INPC/IBGE.
+
+
+Art. 7º.
+
+Os serviços e demais benefícios constantes desta Lei, poderão ser requeridos pelo proprietário interessado perante o Departamento de Compras, devendo o solicitante atender às seguintes condições:
+
+
+a)
+
+ter o beneficiário, individualmente, ou em conjunto, com seus familiares ou dependentes, o domínio ou a posse da terra, em unidades isoladas ou contíguas, ou estabelecimento sediado neste município, comprovados por meio de documento público;
+
+
+b)
+
+apresentar prova de inscrição estadual;
+
+
+c)
+
+apresentar prova de inscrição municipal ou alvará de funcionamento, se for o caso;
+
+
+d)
+
+apresentar prova de regularidade junto aos entes federal, estadual e municipal;
+
+
+e)
+
+apresentar Memorial Descritivo sucinto do projeto a ser incentivado, com ART e quando necessário, o respectivo Licenciamento Ambiental, área a ser empregada a benfeitoria e estimativa de serviços ou material a serem beneficiados;
+
+
+Art. 8º.
+
+Os referidos benefícios dependem de aprovação do Chefe do Poder Executivo, ato este de natureza discricionária.
+
+
+Art. 9º.
+
+O cronograma de atendimento deverá observar os princípios da economicidade e do planejamento, de modo a não tornar o atendimento mais oneroso.
+
+
+Art. 10.
+
+Não poderão auferir os benefícios deste programa aqueles que estiverem em débito com as Fazendas Públicas.
+
+
+Art. 11.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 12.
+
+Revogam-se as disposições em contrário.
+
+
+**Gabinete do Prefeito Municipal de Caçu**, Estado de Goiás, em 11 de setembro de 2009.
+
+**ANDRÉ LUIZ GUIMARÃES VIEIRA Prefeito Municipal**
+

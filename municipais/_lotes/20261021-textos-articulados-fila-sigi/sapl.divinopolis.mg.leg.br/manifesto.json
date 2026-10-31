@@ -1,0 +1,162 @@
+{
+  "host": "sapl.divinopolis.mg.leg.br",
+  "metadados_unicos_observados": 1241,
+  "total_api_declarado": 1241,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 1185,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/8342be88be327f98e929bc4139483ac9a3a0721d65db25c4fed59ff8b3396631.json",
+    "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "12af76781b8f23e7704960bfab225d68ff7998c08a78745e7ac88969667528ed",
+    "bytes": 1213,
+    "capturado_em": "2026-10-28T09:46:14.589717-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/9dff528a31022d67dde0d253c45ad9f9ec9f425d1d71d3e6d30e51c1320e9227.json",
+    "url": "https://sapl.divinopolis.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.divinopolis.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "933348abbcf07c3820cb8812deb2fd45a87df38f400b0fecbe208df05b0f194b",
+    "bytes": 776,
+    "capturado_em": "2026-10-28T09:46:13.688593-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/191b882ca183f82ffaaa0b0549169298e07dfa02c676e972361bfa43cd376720.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d065e71fac37640091fc987de0f42f56502da6bfc217b79ccaab8efb00042939",
+      "bytes": 64860,
+      "capturado_em": "2026-10-28T09:46:56.159525-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/bd976340cb5f6e99247cb2608ba28c2657e536ed487312dd998445d229983f07.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "460d36f47bf8df89adc1ca91f50aef25e4103230d5c91b3553875e8b7de32a22",
+      "bytes": 64556,
+      "capturado_em": "2026-10-28T09:50:28.325361-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/8a49d7447d661edce836f071b097603eacd4b67066fb8c32941d1da8e42e14c0.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=3",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6670cf432fcc96aa9460e3973618e73a557e5b2d7e8938257c1300383c56092a",
+      "bytes": 63033,
+      "capturado_em": "2026-10-28T09:53:52.595197-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/9359efc45581e111848dae396f1cb424506c0d750a5db1c58818e11a36067ab5.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=4",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c1a78ae57fff3a8b3e46412ce5ae587fdd9955121df9a5b701efc78aa6853cdc",
+      "bytes": 64749,
+      "capturado_em": "2026-10-28T09:57:16.856349-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/5e609f37ebef2af6ccd160918c6c97431736b53cb8a320a6de877de6de86e5ab.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a2d7b173e10a78c932c0ebf957f1efacacc2c08b4824920f79b2579e294fe4e2",
+      "bytes": 63539,
+      "capturado_em": "2026-10-28T10:00:38.768575-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/7f1a1788d1ac1e929db2efd5fe90a4ae1b2e92f4ca842dbe99a258a2a102f1a6.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7ce18f6055f41bfebb9d0ca290eb0d12a688c7f786648d3d8226f81ab4cb3a91",
+      "bytes": 64005,
+      "capturado_em": "2026-10-28T10:04:03.987367-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/4871a8f4fd02c12bc1202478d7003f85eba239daf0bdc839f9318583ae1a526e.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=7",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9116c2f64fad3c7577a37e5259743d83c34347a22dd1f2a9cbed8858134524cd",
+      "bytes": 63158,
+      "capturado_em": "2026-10-28T10:07:24.982535-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/5eb2dea8397e42ed6e46be556a85a68cc693cfcffe463828391320a230c1761b.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=8",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "181bd42f2179a42851dcb71067c6a8f54800883477c2ffb171575b502fc981af",
+      "bytes": 62996,
+      "capturado_em": "2026-10-28T10:10:46.576628-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/dd8d745310fbc9348c6aa9f04202b13d30a5a6c67f4c8e095b9fa6fb15179213.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=9",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fbf01e7c3ee8547804d554764a2eeb508cc7d7153b8c47d94b921d60bb427d36",
+      "bytes": 65134,
+      "capturado_em": "2026-10-28T10:14:09.265442-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/e9f1c9d2092298297d7ebb4665d97f6579c03dbe3fbc602b9268288e1796b581.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=10",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8142926ca2e3c3f6dccb35dd9a877d49f3d0f432278ecb293a5642a178588bfa",
+      "bytes": 68952,
+      "capturado_em": "2026-10-28T10:17:29.388895-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/02e4fd22913f21a2cf0a2785543cb43d40357902a16b645bde797275acfedda1.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=11",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7a31ef860814720502a2c57bdfc26269e740e46946e872e8d74aa3407d37b7f6",
+      "bytes": 67431,
+      "capturado_em": "2026-10-28T10:20:11.029060-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/9844ad2539cda836fef372b24323e7b9e2e305f56f25c2fae6c3e890beafcfb0.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=12",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ffe82792e374a47b043695c2e1f5ddf56d2848d919dbdbddf3de13f1a014aff4",
+      "bytes": 65664,
+      "capturado_em": "2026-10-28T10:23:35.615413-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/ceaf3feba9f947451604c085c1a6a6740b9c798b16c942e0bb9281650fdb777c.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "url_final": "https://sapl.divinopolis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=13",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1e27e6ec55763a486008e59de891847183423ecbd5825539af52055c53d94cd7",
+      "bytes": 24808,
+      "capturado_em": "2026-10-28T10:26:42.774493-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

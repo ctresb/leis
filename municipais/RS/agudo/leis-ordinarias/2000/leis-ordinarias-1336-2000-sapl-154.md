@@ -1,0 +1,135 @@
+---
+titulo: "Lei nº 1.336, de 29 de novembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1336"
+data: "2000-11-29"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/154"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1150/text"
+sha256_fonte: "2975832de1ae4e52145076503c2d8f837f8d8f20874733027f33cfce3a9aea87"
+sha256_texto: "2e36d84cb06beca195bdf0cabfd72c0b686ebb9b92939ef7c46c71b5fe33a68f"
+capturado_em_fonte: "2026-10-27T21:01:53.767883-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.336, de 29 de novembro de 2000
+
+AUTORIZA O PODER EXECUTIVO A DISPONIBILIZAR SERVIÇO DE TELEFONIA CELULAR MÓVEL ÀS COMUNIDADES DO INTERIOR DO MUNICÍPIO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+LAURO REINOLDO REETZ, PREFEITO MUNICIPAL DE AGUDO, FAÇO SABER, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+O Poder Executivo fica autorizado a disponibilizar às comunidades do interior do Município serviço de telefonia, mediante cessão de aparelhos celulares previamente habilitados junto à concessionária, o qual se regerá pelo disposto nesta Lei.
+
+
+Art. 2º.
+
+Serão beneficiadas pelo serviço autorizado nesta Lei as comunidades interioranas que não dispuserem de serviço de telefonia convencional.
+
+
+Art. 3º.
+
+O serviço está disponibilizado mediante a cessão de uso de aparelho celular à comunidade, na pessoa do Presidente da respectiva Associação ou de representante indicado pela maioria dos respectivos membros, quando inexistir entidade constituída.
+
+
+Parágrafo único.
+
+O presidente da entidade poderá indicar outro membro da comunidade para receber a cessão de uso do aparelho e prestar serviço aos demais interessados, devendo a escolha recair em pessoa residente em ponto estratégico, que permita o atendimento de maior número de pessoas com a menor distância para deslocamento.
+
+
+Art. 4º.
+
+O serviço de atendimento aos demais membros da comunidade caracterizar-se-á como prestação do serviço voluntário, nos termos da Lei Federal nº 9.608, de 18 de fevereiro de 1998, a ser formalizada mediante assinatura de termo de adesão, no qual deverá constar o objeto da prestação e as condições de seu exercício.
+
+
+Parágrafo único.
+
+O membro da comunidade que prestar o serviço voluntário de atendimento aos demais fará jus à ajuda de custo correspondente ao valor de até 04 (quatro) passagens mensais, ida-e-volta da localidade até a sede do Município.
+
+
+Art. 5º.
+
+Os serviços de telefonia utilizados pelos membros da comunidade, incluído o que mantiver a posse e guarda do aparelho, serão pagos pelo usuário segundo tabela de preços da concessionária, diretamente ao detentor do aparelho, que fará seu recolhimento à Tesouraria do Município mensalmente.
+
+
+Parágrafo único.
+
+O Município responsabilizar-se-á apenas pelo pagamento da mensalidade relativa à habilitação dos aparelhos.
+
+
+Art. 6º.
+
+Para fins de escolha das comunidades a serem beneficiadas com o serviço de que trata esta Lei, o Poder Executivo publicará edital de chamamento público, com prazo de 15 (quinze) dias, para habilitação, devendo o instrumento convocatório conter as seguintes condições:
+
+
+I –
+
+apresentação, pelas entidades constituídas, do Estatuto o seu registro no ofício competente, assim como da ata de eleição do Presidente;
+
+
+II –
+
+apresentação, pelas comunidades que não possuírem associação representativa, de abaixo-assinado subscrito pela maioria de seus membros indicando a pessoa credenciada a receber o aparelho, ou de ata de reunião em que tenha sido indicado membro para esse fim;
+
+
+III –
+
+apresentação do rol de interessados, em cada comunidade, na utilização do serviço de telefonia celular móvel;
+
+
+IV –
+
+declaração do Presidente da entidade, por este credenciado ou pelo membro indicado, de que aceita prestar o serviço em caráter voluntário;
+
+
+V –
+
+número máximo de aparelhos telefônicos celulares que serão disponibilizados.
+
+
+Parágrafo único.
+
+Na hipótese de maior número de comunidades habilitadas do que os aparelhos disponibilizados, terão prioridade as que apresentarem maior número de pessoas interessada, procedendo-se a sorteio no caso de empate.
+
+
+Art. 7º.
+
+A entrega do aparelho será formalizada mediante termo de cessão de uso, obrigando-se o cessionário a zelar pela guarda e conservação do equipamento, e a observar as demais condições previstas nesta Lei.
+
+
+Art. 8º.
+
+O Poder Executivo regulamentará, no que couber, esta Lei.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 10.
+
+Revogam-se as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL, aos 29 de novembro de 2000.
+
+LAURO REINOLDO REETZ
+
+Prefeito Municipal
+
+Registre-se e publique-se.  
+  
+HASSO HARRAS BRÄUNIG  
+Sec. Mun. de Administração
+

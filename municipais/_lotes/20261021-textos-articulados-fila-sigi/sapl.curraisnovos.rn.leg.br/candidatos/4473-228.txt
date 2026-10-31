@@ -1,0 +1,896 @@
+Regulamenta, no âmbito do Poder Executivo Municipal, o processamento, a execução, a transparência ativa, a rastreabilidade e o controle interno das emendas parlamentares e das emendas impositivas municipais, institui o Núcleo de Gestão e Monitoramento de Emendas Impositivas – NUEI, e estabelece normas de governança e conformidade para prevenir apontamentos em auditorias e assegurar a regular execução orçamentária e financeira.
+
+
+**O PREFEITO DO MUNICÍPIO DE CURRAIS NOVOS/RN**, Estado do Rio Grande do Norte, no exercício das atribuições que lhe confere o artigo 56, inciso V, com base no artigo 3°, inciso XVI da Lei Orgânica Municipal;
+
+**CONSIDERANDO** que a Administração Pública direta e indireta de todos os entes federativos deve observar os princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência, devendo adotar mecanismos concretos de planejamento, transparência e controle dos gastos públicos;
+
+**CONSIDERANDO** que a Constituição Federal, em seu art. 163-A, incluído pela EC nº 108/2020, determina a disponibilização pelos entes federativos de informações e dados contábeis, orçamentários e fiscais em sistema integrado, de forma a garantir a rastreabilidade, a comparabilidade e a publicidade, com divulgação em meio eletrônico de amplo acesso público;
+
+**CONSIDERANDO** a Arguição de Descumprimento de Preceito Fundamental nº 854 (ADPF 854), relatada pelo Min. Flávio Dino, por meio da qual o Supremo Tribunal Federal firmou parâmetros nacionais obrigatórios de transparência, rastreabilidade e controle para a execução de emendas parlamentares, estendidos expressamente aos Estados e Municípios a partir do exercício de 2026, com eficácia erga omnes e efeito vinculante;
+
+**CONSIDERANDO** as determinações do STF na ADI 7697 (MC-Ref), que afirmou a incompatibilidade constitucional da execução de emendas sem critérios técnicos e sem observância dos deveres de eficiência, transparência e rastreabilidade, com requisitos mínimos de plano de trabalho prévio, compatibilidade com PPA e LDO, efetiva entrega de bens e serviços e observância de metas fiscais;
+
+**CONSIDERANDO** as disposições da Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal) relativas à transparência da gestão fiscal, ao acesso a informações de execução da despesa e à identificação individualizada de recursos vinculados;
+
+**CONSIDERANDO** as obrigações de transparência ativa e de divulgação de informações de interesse coletivo ou geral previstas na Lei nº 12.527/2011 (Lei de Acesso à Informação), bem como a disciplina das parcerias com organizações da sociedade civil estabelecida na Lei nº 13.019/2014;
+
+**CONSIDERANDO** a Resolução nº 034/2025 – TCE/RN, que estabelece normas de fiscalização e acompanhamento das emendas parlamentares estaduais e municipais, condiciona a execução no exercício de 2026 à comprovação de implementação integral das medidas de transparência e rastreabilidade, e exige a definição da unidade responsável pela governança das informações;
+
+**CONSIDERANDO** a necessidade de regulamentar rotinas administrativas internas, fixar responsabilidades claras, estabelecer trilhas auditáveis e consolidar padrões de transparência ativa que permitam o acompanhamento integral do ciclo das emendas, desde a sua origem até a entrega do bem ou serviço e a identificação do beneficiário final;
+
+**DECRETA:**
+
+
+#### CAPÍTULO I — Disposições Gerais
+
+
+Art. 1º.
+
+Fica regulamentado, no âmbito do Poder Executivo Municipal, o processamento, a execução, a rastreabilidade, a transparência ativa e o controle interno dos recursos públicos oriundos de emendas parlamentares e de emendas impositivas municipais, com o objetivo de assegurar conformidade constitucional, integridade do gasto público, controle social e prevenção de irregularidades.
+
+
+Art. 2º.
+
+Para fins deste Decreto, considera-se:
+
+
+I –
+
+emenda impositiva individual: ação orçamentária incluída por emenda individual de Vereador ao projeto de lei orçamentária anual, cuja execução é obrigatória nos termos da Lei Orgânica Municipal, da LDO e da LOA, ressalvados impedimentos de ordem técnica;
+
+
+II –
+
+emenda impositiva de bancada: ação orçamentária incluída por emenda de grupo de Vereadores, definida como bancada na forma do Regimento Interno da Câmara Municipal, de execução igualmente obrigatória nos termos da legislação municipal;
+
+
+III –
+
+emenda impositiva coletiva: ação orçamentária resultante da agregação de cotas individuais de dois ou mais Vereadores para viabilização de objeto de maior vulto, quando expressamente prevista na Lei Orgânica ou na LDO;
+
+
+IV –
+
+emendas parlamentares: recursos e programações decorrentes de emendas federais ou estaduais, inclusive transferências especiais, transferências com finalidade definida, modalidades fundo a fundo e demais instrumentos legalmente previstos;
+
+
+V –
+
+plano de trabalho: documento técnico prévio, elaborado pelo autor da emenda em conjunto com a entidade beneficiária (quando houver repasse) ou pela secretaria executora (quando houver aplicação direta), contendo descrição detalhada do objeto, justificativa, metas físicas, indicadores de resultado, cronograma físico-financeiro, plano de aplicação das despesas, classificação orçamentária e dados da conta bancária específica zerada;
+
+
+VI –
+
+custeio: despesas destinadas à manutenção de atividades e serviços já existentes, como aquisição de materiais de consumo, contratos de prestação de serviços continuados e demais gastos necessários ao funcionamento regular de uma organização ou serviço — em contraposição às despesas de capital, que visam à criação, aquisição ou ampliação de ativos permanentes;
+
+
+VII –
+
+aplicação direta: modalidade de execução em que a própria Prefeitura cumpre o objeto da emenda, sem repasse a entidade privada;
+
+
+VIII –
+
+repasse: modalidade de execução em que o valor da emenda é transferido a entidade privada sem fins lucrativos ou a conselho escolar para execução do objeto;
+
+
+IX –
+
+plataforma municipal de emendas: seção específica no Portal da Transparência, com dados abertos e identificadores que permitam rastrear cada emenda do planejamento à execução;
+
+
+X –
+
+identificador único de emenda: código padronizado atribuído a cada emenda, vinculado ao ato normativo orçamentário e a todos os registros contábeis, orçamentários, financeiros e administrativos;
+
+
+XI –
+
+NUEI: Núcleo de Gestão e Monitoramento de Emendas Impositivas, instituído por este Decreto.
+
+
+Art. 3º.
+
+Submetem-se às disposições deste Decreto: a Administração Direta do Município; a Administração Indireta, nos termos da legislação municipal; os fundos especiais municipais, inclusive os de saúde, assistência social e congêneres, quando executem recursos de emendas; e as organizações da sociedade civil e demais entidades privadas sem fins lucrativos beneficiárias de recursos de emendas, no que couber, em especial quanto às obrigações de transparência, rastreabilidade e prestação de contas.
+
+
+#### CAPÍTULO II — Restrições à Cumulação de Recursos em Custeio
+
+
+Art. 4º.
+
+As organizações da sociedade civil e demais entidades privadas sem fins lucrativos que receberem emendas impositivas municipais destinadas ao custeio de atividades não poderão, no mesmo exercício financeiro, receber outros convênios, termos de colaboração, termos de fomento ou instrumentos congêneres firmados com o Município que tenham o mesmo objeto ou finalidade da emenda recebida.
+
+
+§ 1º
+
+A vedação prevista no caput tem por objetivo evitar a duplicidade de recursos públicos para a mesma finalidade, assegurando eficiência, economicidade e rastreabilidade do gasto.
+
+
+§ 2º
+
+A restrição prevista no caput não se aplica às entidades cuja subsistência ou cujo funcionamento essencial dependa estruturalmente de múltiplas fontes de financiamento público, tais como: abrigos e casas de acolhimento para crianças e adolescentes; casas de acolhimento para idosos; entidades de atendimento a pessoas com deficiência; clínicas de reabilitação; organizações de prestação de serviços continuados no âmbito do SUS; e demais entidades que prestem serviços de natureza social insubstituível assim reconhecidas pela Secretaria executora competente, mediante motivação expressa no processo administrativo.
+
+
+§ 3º
+
+Nas hipóteses do § 2º, a entidade deverá demonstrar no plano de trabalho a complementaridade dos recursos, a ausência de sobreposição de objetos e a aplicação de cada fonte em finalidade distinta e identificada.
+
+
+§ 4º
+
+A acumulação de recursos nas hipóteses do § 2º depende de autorização expressa do Secretário Municipal competente, com anuência do NUEI, formalizada no processo administrativo.
+
+
+#### CAPÍTULO III — Obrigação de Devolução de Saldos e Rendimentos
+
+
+Art. 5º.
+
+Os recursos recebidos pela entidade beneficiária ou executados pela secretaria executora que não forem utilizados até o término da vigência do instrumento deverão ser devolvidos ao Município, sem prejuízo das responsabilidades legais cabíveis.
+
+
+§ 1º
+
+A obrigação de devolução abrange: o saldo financeiro não utilizado; os rendimentos de aplicação financeira incidentes sobre os valores depositados na conta bancária específica durante todo o período de vigência; e quaisquer valores recebidos e não aplicados na finalidade autorizada.
+
+
+§ 2º
+
+Os rendimentos de aplicação financeira da conta bancária específica pertencem ao Município e deverão constar da prestação de contas com extrato bancário integral, sendo restituídos junto com o saldo não utilizado.
+
+
+§ 3º
+
+A devolução deverá ser efetuada no prazo de 30 (trinta) dias após o término da vigência do instrumento, mediante depósito identificado na conta indicada pela Secretaria de Finanças.
+
+
+§ 4º
+
+O descumprimento da obrigação de devolução implicará a instauração de tomada de contas especial, a suspensão imediata de novos repasses à entidade e comunicação aos órgãos de controle competentes.
+
+
+#### CAPÍTULO IV — Plano de Trabalho, Modalidades de Execução e Objetos Permitidos
+
+
+Art. 6º.
+
+A execução das emendas impositivas municipais poderá ocorrer sob duas modalidades:
+
+
+I –
+
+aplicação direta: a Prefeitura, por meio da secretaria executora competente, executa o objeto da emenda sem repasse a entidade privada; neste caso, o plano de trabalho é elaborado internamente pela secretaria e submetido ao NUEI após a sanção da LOA;
+
+
+II –
+
+repasse a entidade: os recursos são transferidos a organização da sociedade civil ou entidade privada sem fins lucrativos para execução do objeto; neste caso, o plano de trabalho é elaborado pelo vereador autor da emenda em conjunto com a entidade beneficiária e anexado à emenda antes da votação da LOA na Câmara Municipal.
+
+
+§ 1º
+
+Na modalidade de repasse, o vereador deverá apresentar junto à emenda, ainda na fase da Câmara: o plano de trabalho assinado pelo representante legal da entidade e pelo próprio vereador; o CNPJ da entidade beneficiária; e a certidão de utilidade pública municipal, estadual ou federal atualizada.
+
+
+§ 2º
+
+A conta bancária específica zerada, de titularidade da entidade beneficiária, deverá ser indicada no plano de trabalho como condição de validade do instrumento.
+
+
+§ 3º
+
+Na modalidade de aplicação direta, a secretaria executora deverá elaborar e submeter ao NUEI o plano de trabalho interno no prazo de 60 (sessenta) dias após a sanção da LOA.
+
+
+§ 4º
+
+A aprovação do plano de trabalho pelo NUEI e pelo Secretário competente é condição obrigatória e prévia para: a abertura de qualquer procedimento licitatório ou contratação direta; a celebração de instrumento jurídico com entidade privada; e a realização de empenho — em qualquer modalidade de execução, direta ou por repasse, sem exceção.
+
+
+Art. 7º.
+
+São requisitos mínimos do plano de trabalho, além dos previstos no art. 2º, inciso V:
+
+
+I –
+
+descrição detalhada do objeto, com especificação do bem ou serviço a ser entregue e da localidade beneficiada;
+
+
+II –
+
+justificativa da necessidade e do interesse público;
+
+
+III –
+
+metas físicas mensuráveis e indicadores de resultado;
+
+
+IV –
+
+cronograma físico-financeiro com etapas, datas e valores;
+
+
+V –
+
+plano de aplicação das despesas, com indicação das naturezas de despesa (custeio ou capital);
+
+
+VI –
+
+classificação orçamentária completa (unidade orçamentária, ação, função, subfunção, programa, fonte de recurso);
+
+
+VII –
+
+dados da conta bancária específica zerada (banco, agência, conta), na modalidade de repasse;
+
+
+VIII –
+
+valor total, suficiente para a conclusão do objeto ou de etapa útil com funcionalidade para a sociedade no exercício financeiro.
+
+
+§ 1º
+
+Emenda apresentada sem plano de trabalho, ou com plano que não contenha os elementos mínimos previstos neste artigo, sujeitará o processo à declaração de impedimento técnico.
+
+
+§ 2º
+
+Obras e serviços de engenharia somente poderão ser objeto de emendas quando acompanhados de projeto técnico aprovado e cronograma de execução compatível com o exercício financeiro.
+
+
+§ 3º
+
+Na modalidade de aplicação direta, o plano de trabalho aprovado constituirá documento obrigatório do processo administrativo de contratação, integrando o respectivo termo de referência ou projeto básico e devendo ser juntado ao processo antes da abertura do procedimento licitatório ou da justificativa de contratação direta.
+
+
+Art. 8º.
+
+É permitida a alteração do plano de trabalho aprovado nas seguintes hipóteses, mediante requerimento fundamentado ao NUEI:
+
+
+I –
+
+variação de preços de mercado que torne necessária a adequação do cronograma físico-financeiro ou do plano de aplicação das despesas, desde que o objeto permaneça o mesmo e o valor total não ultrapasse o valor da emenda aprovada na LOA;
+
+
+II –
+
+ajuste de metas físicas decorrente de circunstâncias supervenientes devidamente comprovadas, sem alteração do objeto essencial;
+
+
+III –
+
+modificação do cronograma de execução por motivo de caso fortuito, força maior ou impedimento administrativo comprovado.
+
+
+§ 1º
+
+São vedadas as alterações de plano de trabalho que impliquem: mudança do objeto essencial da emenda; substituição do beneficiário; aumento do valor total acima do aprovado na LOA; ou desvio de finalidade incompatível com a destinação original.
+
+
+§ 2º
+
+A alteração por variação de preços será instruída com pesquisa de mercado atualizada, aprovada pelo NUEI e pelo Secretário competente, e publicada no Portal da Transparência.
+
+
+§ 3º
+
+Não se considera alteração de plano de trabalho o simples ajuste de especificações técnicas de menor relevância que não modifiquem o objeto, a finalidade, o beneficiário ou o valor da emenda.
+
+
+Art. 9º.
+
+As emendas impositivas municipais destinam-se prioritariamente a despesas de capital, observadas as seguintes regras:
+
+
+I –
+
+são objetos permitidos a título de despesas de capital:
+
+
+a)
+
+obras e reformas de equipamentos e instalações públicas, incluindo unidades de saúde, escolas, creches, quadras esportivas, praças, parques e vias públicas;
+
+
+b)
+
+aquisição de equipamentos, mobiliário e materiais permanentes para uso em serviços públicos;
+
+
+c)
+
+pavimentação, infraestrutura viária e obras de saneamento básico;
+
+
+d)
+
+aquisição de veículos para prestação de serviços públicos;
+
+
+e)
+
+obras de acessibilidade e adequação de espaços públicos;
+
+
+f)
+
+projetos de infraestrutura para entidades privadas sem fins lucrativos de utilidade pública que prestem serviços de saúde, educação, assistência social, cultura, esporte ou meio ambiente;
+
+
+II –
+
+são objetos permitidos a título de despesas de custeio, em caráter excepcional e desde que devidamente justificados no plano de trabalho:
+
+
+a)
+
+realização de eventos de cunho socioeducativo, cultural ou esportivo de interesse público, de natureza pontual e não recorrente, com objeto claramente delimitado;
+
+
+b)
+
+aquisição de materiais de consumo diretamente vinculados à execução do objeto de capital da mesma emenda, quando o custeio for acessório e não o objeto principal.
+
+
+§ 1º
+
+É vedada a destinação de recursos de emendas impositivas para:
+
+
+I –
+
+pagamento de despesas com pessoal ativo, inativo ou pensionistas, e encargos sociais sobre folha de pagamento;
+
+
+II –
+
+amortização ou pagamento de serviço da dívida pública;
+
+
+III –
+
+custeio ordinário de atividades e serviços que gerem obrigação continuada para o Município sem a devida e permanente fonte de custeio;
+
+
+IV –
+
+benefício a pessoa física, salvo nos casos expressamente previstos em lei e com critérios técnicos objetivos;
+
+
+V –
+
+destinação a entidade com fins lucrativos;
+
+
+VI –
+
+despesas que não atendam ao interesse público ou que violem o princípio da impessoalidade.
+
+
+§ 2º
+
+A destinação de emenda a custeio ordinário de entidade privada — assim entendido o financiamento de suas despesas correntes de manutenção e funcionamento habitual — é vedada, em observância à diretriz municipal de sustentabilidade e independência financeira das organizações da sociedade civil.
+
+
+§ 3º
+
+As áreas temáticas para as quais as emendas impositivas podem ser destinadas são: saúde; educação; assistência social e proteção social; infraestrutura e serviços urbanos; cultura; esporte e lazer; meio ambiente; desenvolvimento econômico e geração de trabalho e renda; trânsito e transporte; e demais áreas de competência municipal de relevante interesse público, conforme as políticas setoriais vigentes.
+
+
+#### CAPÍTULO V — Processamento, Análise e Impedimentos
+
+
+Art. 10.
+
+Após a sanção da LOA, o Executivo terá o prazo de 120 (cento e vinte) dias para analisar tecnicamente as emendas e declarar a aprovação do plano de trabalho ou a ocorrência de impedimento de ordem técnica.
+
+
+§ 1º
+
+O processamento compreende: a admissibilidade e compatibilidade da programação com o PPA e a LDO; a validação do plano de trabalho e de seus elementos mínimos; a verificação da regularidade da entidade beneficiária; e a viabilidade de execução no exercício.
+
+
+§ 2º
+
+Havendo necessidade de complementação ou ajuste do plano de trabalho, o NUEI notificará formalmente a entidade ou o vereador, que terá até 15 (quinze) dias para saneamento, dentro do prazo global de 120 dias.
+
+
+§ 3º
+
+Toda despesa cuja origem seja emenda impositiva deverá ter o identificador único da emenda registrado desde o primeiro ato do processo — inclusive no edital de licitação, no termo de referência, no projeto básico, na justificativa de contratação direta e na solicitação de empenho — sendo vedada a juntada posterior desses dados a processo já iniciado.
+
+
+Art. 11.
+
+Considera-se impedimento de ordem técnica, entre outras hipóteses, a ocorrência devidamente motivada e formalizada de:
+
+
+I –
+
+incompatibilidade com o PPA e/ou a LDO;
+
+
+II –
+
+incompatibilidade do objeto com a finalidade do programa, da ação orçamentária ou com as políticas públicas setoriais vigentes;
+
+
+III –
+
+ausência do plano de trabalho — tanto na modalidade de repasse quanto na de aplicação direta — ou plano que não contenha os elementos mínimos exigidos pelo art. 7º, não apresentado ou não sanado no prazo de 15 dias após a notificação;
+
+
+IV –
+
+recursos insuficientes para a conclusão do objeto ou de etapa útil com funcionalidade para a sociedade no exercício financeiro;
+
+
+V –
+
+obra ou serviço de engenharia sem projeto técnico aprovado;
+
+
+VI –
+
+objeto que cria, direta ou indiretamente, serviço público não instituído por lei ou despesa de caráter continuado para o Município;
+
+
+VII –
+
+emenda destinada a entidade com fins lucrativos;
+
+
+VIII –
+
+emenda destinada a entidade em situação de irregularidade cadastral, fiscal ou de prestação de contas anterior;
+
+
+IX –
+
+risco comprovado de descumprimento de limites fiscais ou vedação legal de aplicação do recurso na natureza de despesa indicada;
+
+
+X –
+
+insuficiência de dotação orçamentária ou inadequação do valor previsto para execução integral do objeto;
+
+
+XI –
+
+ausência de apresentação da conta bancária específica zerada, na modalidade de repasse;
+
+
+XII –
+
+destinação que não atenda ao interesse público ou que viole o princípio da impessoalidade;
+
+
+XIII –
+
+destinação a objeto de custeio ordinário vedado nos termos do art. 9º deste Decreto;
+
+
+XIV –
+
+qualquer outro fator que impeça o empenho ou o pagamento dentro do exercício financeiro, comprovado por relatório técnico fundamentado.
+
+
+§ 1º
+
+O impedimento técnico deve ser formalizado por relatório circunstanciado do órgão executor, conforme modelo do Anexo VII deste Decreto.
+
+
+§ 2º
+
+A comunicação do impedimento à Câmara Municipal deverá conter: identificador único da emenda, autor, objeto, valor, fundamentos técnicos, providências saneadoras possíveis e cronograma para eventual remanejamento.
+
+
+§ 3º
+
+A declaração de impedimento não exime o Executivo de propor ao Legislativo o remanejamento dos recursos a outra destinação compatível, quando tecnicamente viável.
+
+
+Art. 12.
+
+A execução de emendas observará, cumulativamente:
+
+
+I –
+
+compatibilidade com o PPA e com a LDO, e adequação à LOA vigente quanto à classificação institucional, funcional-programática, natureza da despesa, modalidade de aplicação e fonte de recursos;
+
+
+II –
+
+existência de dotação orçamentária suficiente, vedada a execução sem cobertura de saldo compatível com o objeto;
+
+
+III –
+
+formalização em processo administrativo próprio, com indicação obrigatória do identificador único de emenda desde o ato de solicitação de empenho;
+
+
+IV –
+
+observância das metas fiscais, limites legais e condicionantes regulamentares aplicáveis;
+
+
+V –
+
+aprovação prévia do plano de trabalho pelo NUEI e pelo Secretário executivo competente.
+
+
+Art. 13.
+
+O prazo para execução orçamentária das emendas impositivas é até 31 de dezembro do exercício financeiro vigente.
+
+
+§ 1º
+
+Admite-se a inscrição em restos a pagar de despesas não pagas até 31 de dezembro, desde que devidamente empenhadas e com lastro financeiro suficiente, com justificativa formal aprovada pelo Secretário de Finanças e pelo Prefeito, sendo o pagamento realizado até 20 de fevereiro do exercício seguinte.
+
+
+§ 2º
+
+A prestação de contas de emendas inscritas em restos a pagar deverá ser apresentada no prazo de 30 (trinta) dias após o pagamento final, não podendo ultrapassar 31 de março do exercício seguinte.
+
+
+§ 3º
+
+A inscrição em restos a pagar não elide a obrigação de devolução de saldo e rendimentos não utilizados prevista no art. 5º deste Decreto.
+
+
+Art. 14.
+
+Mediante requerimento fundamentado do responsável, apresentado antes do término da vigência original do instrumento, o NUEI poderá autorizar prorrogação de prazo por até 30 (trinta) dias, nas seguintes condições:
+
+
+I –
+
+o motivo da prorrogação seja devidamente justificado e documentado, configurando situação excepcional não imputável ao beneficiário;
+
+
+II –
+
+o objeto ainda seja tecnicamente exequível dentro do prazo prorrogado;
+
+
+III –
+
+a prorrogação não ultrapasse o exercício financeiro vigente, salvo na hipótese de inscrição em restos a pagar nos termos do art. 13 deste Decreto.
+
+
+Parágrafo único
+
+A autorização de prorrogação será formalizada por apostila ao instrumento original, publicada no Portal da Transparência no prazo de 5 (cinco) dias úteis.
+
+
+#### CAPÍTULO VI — Transparência, Rastreabilidade e Controle Contábil
+
+
+Art. 15.
+
+A plataforma municipal de emendas deverá disponibilizar, em transparência ativa, preferencialmente antes do início da execução, as seguintes informações:
+
+
+I –
+
+origem do recurso (federal, estadual ou municipal) e modalidade da emenda (individual, bancada ou coletiva);
+
+
+II –
+
+identificação do autor/proponente com nome completo e partido;
+
+
+III –
+
+identificador único da emenda e vinculação ao ato normativo orçamentário;
+
+
+IV –
+
+plano de trabalho aprovado, com descrição do objeto, finalidade, metas e cronograma;
+
+
+V –
+
+valor alocado, com histórico de alterações e reprogramações;
+
+
+VI –
+
+órgão executor e beneficiário final, com CNPJ quando aplicável;
+
+
+VII –
+
+localidade beneficiada;
+
+
+VIII –
+
+dados da execução: empenho, liquidação e pagamento, com referência aos documentos contábeis e ao processo de contratação;
+
+
+IX –
+
+evidências de execução: notas fiscais, atestes, medições, recibos, relatórios e fotografias, quando aplicáveis;
+
+
+X –
+
+saldo devolvido e comprovante de devolução de rendimentos, quando aplicável;
+
+
+XI –
+
+resultado final da prestação de contas (aprovado, aprovado com ressalvas ou reprovado).
+
+
+§ 1º
+
+As informações serão disponibilizadas em formato aberto, estruturado e passível de extração, em conformidade com a Resolução nº 034/2025 – TCE/RN.
+
+
+§ 2º
+
+É vedada a execução de despesas com recursos de emendas sem a prévia e adequada identificação da origem, finalidade e beneficiário final, com registro e publicação conforme este artigo.
+
+
+Art. 16.
+
+Para fins de rastreabilidade contábil, os sistemas orçamentários, contábeis e financeiros incorporarão:
+
+
+I –
+
+identificador específico de emenda associado a todos os registros do processo, do empenho ao pagamento;
+
+
+II –
+
+codificação padronizada no plano de contas e na classificação de fonte e destinação de recursos, de modo a vincular cada despesa executada à emenda que lhe deu origem;
+
+
+III –
+
+mecanismos de extração e cruzamento de dados que permitam auditoria, controle interno e prestação de contas com trilha de rastreamento completa.
+
+
+Parágrafo único
+
+A Secretaria de Finanças adotará, no prazo de 60 dias da publicação deste Decreto, codificação orçamentária padronizada equivalente a uma reserva parlamentar identificada, de modo que a origem de cada emenda seja rastreável desde a dotação até o pagamento.
+
+
+Art. 17.
+
+Para prevenir quebra de rastreabilidade, ficam vedados nas despesas custeadas por recursos de emendas:
+
+
+I –
+
+uso de conta bancária intermediária ou de passagem, quando houver conta específica exigida para o instrumento ou modalidade;
+
+
+II –
+
+saques em espécie;
+
+
+III –
+
+utilização de cheque nominativo quando possível a transferência eletrônica identificada;
+
+
+IV –
+
+qualquer mecanismo que impeça a identificação do fornecedor, prestador de serviço ou beneficiário final.
+
+
+#### CAPÍTULO VII — Núcleo de Gestão e Monitoramento de Emendas Impositivas - NUEI
+
+
+Art. 18.
+
+Fica instituído o Núcleo de Gestão e Monitoramento de Emendas Impositivas – NUEI, órgão colegiado de caráter operativo e consultivo, vinculado ao Gabinete do Prefeito, com a finalidade de coordenar, monitorar e assessorar a execução integral deste Decreto.
+
+
+§ 1º
+
+O NUEI não possui função de controle externo ou fiscalizatório autônomo, atribuições que permanecem exclusivas da Controladoria Geral do Município.
+
+
+§ 2º
+
+O NUEI será composto pelos seguintes membros:
+
+
+I –
+
+representante do Gabinete do Prefeito, indicado pelo Secretário Chefe de Gabinete, que exercerá a presidência do colegiado;
+
+
+II –
+
+Assessor Jurídico do Município ou servidor por ele indicado, para acompanhamento e análise da conformidade jurídica dos planos de trabalho e dos instrumentos firmados — adota-se a Assessoria Jurídica, e não a Procuradoria Geral, por ser aquela o órgão de função consultiva e de orientação jurídica aos atos administrativos, nos termos do art. 37 da Lei Municipal nº 3.984/2025, preservando-se a independência da Procuradoria para sua função de representação judicial e controle de legalidade em sentido amplo;
+
+
+III –
+
+representante da Secretaria Municipal de Administração, indicado pelo respectivo Secretário, controle processual e suporte administrativo;
+
+
+IV –
+
+representante da secretaria executora destinatária de cada emenda, indicado pelo respectivo Secretário, que atuará na análise técnica do objeto e no monitoramento da execução da emenda de sua pasta — cada secretaria indicará seu representante para cada processo específico;
+
+
+V –
+
+Servidor da Secretaria Municipal de Finanças e Planejamento, responsável pelo cadastramento, e acompanhamento da execução orçamentária, financeira e contábil.
+
+
+§ 3º
+
+A participação no NUEI é serviço de relevância pública e não enseja remuneração adicional.
+
+
+§ 4º
+
+O setor de cadastramento de emendas, formalmente vinculado do NUEI, será responsável pelo registro no sistema de transparência da Prefeitura Municipal de Currais Novos, e abertura de processos;
+
+
+§ 5º
+
+A contabilidade será responsável pela vinculação da emenda ao SIAFIC.
+
+
+Art. 19.
+
+Compete ao NUEI:
+
+
+I –
+
+coordenar o fluxo de recebimento, processamento e análise dos planos de trabalho, desde o protocolo até a aprovação ou declaração de impedimento;
+
+
+II –
+
+verificar, no ato do recebimento do plano de trabalho na modalidade de repasse, a apresentação da conta bancária específica zerada como condição de validade;
+
+
+III –
+
+verificar, no ato do recebimento do plano de trabalho na modalidade de repasse, a apresentação da conta bancária específica zerada como condição de validade;
+
+
+IV –
+
+padronizar e orientar o uso obrigatório do identificador único de emenda em todos os processos e documentos;
+
+
+V –
+
+monitorar o cumprimento dos prazos fixados no Anexo II deste Decreto e comunicar à autoridade competente qualquer atraso;
+
+
+VI –
+
+verificar a devolução de saldos e rendimentos ao final de cada instrumento, comunicando à Controladoria eventual inadimplência;
+
+
+VII –
+
+comunicar à Controladoria Geral indícios de irregularidade, descumprimento de prazos ou não aplicação dos recursos na finalidade autorizada;
+
+
+VIII –
+
+elaborar relatório semestral de execução das emendas, encaminhado ao Prefeito e disponibilizado no Portal da Transparência.
+
+
+IX –
+
+emitir, até 31 de março de cada exercício, certidão de regularidade ou certidão de pendência de prestação de contas a cada entidade que tenha sido beneficiária de emenda no exercício anterior, para fins do disposto no art. 21 deste Decreto;
+
+
+X –
+
+analisar e deliberar sobre requerimentos de alteração de plano de trabalho e prorrogação de prazo, nos termos dos arts. 8º e 14 deste Decreto.
+
+
+Art. 20.
+
+O NUEI reunir-se-á ordinariamente a cada mês, podendo ser semanalmente e, extraordinariamente, sempre que convocado pela presidência ou por solicitação de qualquer membro.
+
+
+Parágrafo único
+
+As deliberações serão registradas em ata e terão caráter vinculante para as secretarias executoras, podendo ser revisadas pelo Prefeito Municipal.
+
+
+#### CAPÍTULO VIII — Regularidade e Prestação de Contas
+
+
+Art. 21.
+
+As organizações da sociedade civil que tenham sido beneficiárias de recursos de emendas impositivas municipais em exercícios anteriores somente poderão ser contempladas com novas emendas ou receber novos repasses no exercício corrente mediante apresentação de certidão de regularidade emitida pelo NUEI, atestando a aprovação — ou aprovação com ressalvas sanadas — da prestação de contas do exercício anterior.
+
+
+§ 1º
+
+Para fins deste artigo, a certidão de regularidade será emitida pelo NUEI até 31 de março de cada exercício, com base na situação da prestação de contas do exercício imediatamente anterior.
+
+
+§ 2º
+
+Na hipótese de prestação de contas pendente, rejeitada ou não apresentada, ficará vedada: a celebração de novos instrumentos; a liberação de qualquer parcela de emenda; e a execução de quaisquer repasses em favor da entidade no exercício corrente, até a regularização formal da pendência.
+
+
+§ 3º
+
+A vedação prevista no § 2º aplica-se inclusive às emendas já aprovadas na LOA do exercício corrente, que ficarão suspensas até a regularização, sujeitando-se à declaração de impedimento técnico se a regularização não ocorrer dentro do prazo de análise do art. 10.
+
+
+§ 4º
+
+Entidade que regularizar a prestação de contas pendente após o prazo do § 1º poderá solicitar ao NUEI a emissão de certidão de regularidade superveniente, cuja expedição permitirá o reinício dos procedimentos de execução da emenda, desde que ainda haja tempo hábil no exercício.
+
+
+Art. 22.
+
+A Controladoria Geral do Município, sem prejuízo de suas atribuições legais, compete:
+
+
+I –
+
+estabelecer pontos de controle e validação interna dos processos de emendas, com trilhas de auditoria;
+
+
+II –
+
+acompanhar, fiscalizar e avaliar, de forma contínua, a conformidade dos processos e das publicações de transparência ativa;
+
+
+III –
+
+emitir recomendações e relatórios técnicos de monitoramento, com indicação de medidas corretivas;
+
+
+IV –
+
+comunicar à autoridade competente e, quando cabível, ao TCE/RN e ao Ministério Público de Contas, a ocorrência de indícios de irregularidade.
+
+
+#### CAPÍTULO IX — Disposições Finais
+
+
+Art. 23.
+
+O descumprimento das disposições deste Decreto sujeita o agente público responsável às medidas administrativas cabíveis e poderá ensejar comunicação aos órgãos de controle competentes, sem prejuízo de outras responsabilidades legais.
+
+
+Art. 24.
+
+Havendo necessidade, pode esse decreto ser regulamento por atos normativos internos, para melhor entendido dos procedimentos e padronização.
+
+
+Art. 25.
+
+Este Decreto entra em vigor na data de sua publicação, aplicando-se às emendas impositivas em execução no exercício de 2026 e seguintes.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito "Raul Macêdo", em 15 de maio de 2026.
+
+***LUCAS GALVÃO DA CRUZ***
+
+Prefeito Municipal

@@ -1,0 +1,505 @@
+---
+titulo: "LEI ORDINÁRIA nº 458, de 06 de abril de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "458"
+data: "2015-04-06"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2019-04-04; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/583"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/582/text"
+sha256_fonte: "180dd074873dcb235da111c7a8f87d8baa626b142ba1d46045b1141066afa116"
+sha256_texto: "64f01f4ec77f66d96e558e1b5a8338e0fd2e84c652ee90531e9c9e753e407701"
+capturado_em_fonte: "2026-10-27T20:24:08.943810-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 458, de 06 de abril de 2015
+
+**Reinstitui e reestrutura o Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE,**Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente, identificado pela sigla CMDCA e criado pela Lei n.º 63, de 14 de julho de 1999, passa a reger-se por esta Lei que promove sua reinstituição e reestruturação, em conformidade com o disposto na Lei Federal n.° 8.069, de 13 de julho de 1990, e com a Resolução n.° 105, de 15 de junho de 2005, do Conselho Nacional dos Direitos da Criança e do Adolescente – Conanda.
+
+
+Art. 2º.
+
+O CMDCA constitui-se como órgão deliberativo da política de promoção dos direitos da criança e do adolescente, controlador das ações de implementação desta mesma política, incumbindo-lhe, essencialmente, zelar pelo efetivo respeito ao princípio da prioridade absoluta à criança e ao adolescente, assegurando-se-lhe total autonomia decisória quanto as matérias de sua competência, conforme o previsto no artigo 4º, caput e parágrafo único, alíneas “b”, “c” e “d”, c/c os artigos 87, 88 e 259, parágrafo único, todos da Lei nº 8.069, de 1990, e no artigo 227, caput, da Constituição Federal.
+
+
+Art. 3º.
+
+O Poder Executivo diligenciará, tanto quanto possível, no sentido de fornecer recursos humanos e estrutura técnica, administrativa e institucional necessários ao adequado e ininterrupto funcionamento do CMDCA, devendo para tanto consignar nos próximos orçamentos dotação orçamentária específica que não onere o Fundo para Infância e Adolescência, se possível.
+
+
+§ 1º
+
+A dotação orçamentária a que se refere o caput deste artigo deverá contemplar os recursos necessários ao custeio das atividades desempenhadas pelo CMDCA, inclusive despesas com capacitação dos conselheiros.
+
+
+§ 2º
+
+O CMDCA deverá contar, tanto quanto possível, com espaço físico adequado ao seu pleno funcionamento, cuja localização será amplamente divulgada, e dotado de todos os recursos necessários ao seu regular funcionamento.
+
+
+#### CAPÍTULO II — DAS COMPETÊNCIAS DO CONSELHO
+
+
+Art. 4º.
+
+Compete, basicamente, ao CMDCA:
+
+
+I –
+
+acompanhar, monitorar e avaliar as políticas no seu âmbito de competência;
+
+
+II –
+
+divulgar e promover as políticas e práticas bem-sucedidas;
+
+
+III –
+
+difundir junto à sociedade local a concepção de criança e de adolescente como sujeitos de direitos e pessoas em situação especial de desenvolvimento, e o paradigma da proteção integral como prioridade absoluta;
+
+
+IV –
+
+conhecer a realidade de seu território e elaborar o seu plano de ação;
+
+
+V –
+
+definir prioridades de enfrentamento dos problemas mais urgentes;
+
+
+VI –
+
+propor e acompanhar o reordenamento institucional, buscando o funcionamento articulado em rede das estruturas públicas governamentais e das organizações da sociedade;
+
+
+VII –
+
+promover e apoiar campanhas educativas sobre os direitos da criança e do adolescente;
+
+
+VIII –
+
+propor a elaboração de estudos e pesquisas com vistas a promover, subsidiar e dar mais efetividade às políticas;
+
+
+IX –
+
+participar e acompanhar a elaboração, aprovação e execução do Plano Plurianual (PPA), Lei de Diretrizes Orçamentária (LDO) e Lei Orçamentária Anual (LOA) locais e suas execuções, indicando modificações necessárias à consecução dos objetivos da política dos direitos da criança e do adolescente;
+
+
+X –
+
+gerir o Fundo para Infância e Adolescência no sentido de definir a utilização dos respectivos recursos por meio de plano de aplicação;
+
+
+XI –
+
+acompanhar e oferecer subsídios na elaboração legislativa local relacionada à garantia dos direitos da criança e do adolescente;
+
+
+XII –
+
+fomentar a integração do Judiciário, Ministério Público, Defensoria e Segurança Pública na apuração dos casos de denúncias e reclamações formuladas por qualquer pessoa ou entidade que versem sobre ameaça ou violação de direitos da criança e do adolescente;
+
+
+XIII –
+
+atuar como instância de apoio no nível local nos casos de petições, denúncias e reclamações formuladas por qualquer pessoa ou entidade, participando de audiências ou ainda promovendo denúncias públicas quando ocorrer ameaça ou violação de direitos da criança e do adolescente, acolhendo-as e dando encaminhamento aos órgãos competentes;
+
+
+XIV –
+
+integrar-se com outros órgãos executores de políticas públicas direcionadas à criança e ao adolescente e demais Conselhos setoriais; e
+
+
+XV –
+
+exercer outras atribuições correlatas.
+
+
+#### CAPÍTULO III — DA COMPOSIÇÃO E MANDATO
+
+
+##### Seção I — Dos Representantes do Governo
+
+
+Art. 5º.
+
+Os representantes do Governo junto ao CMDCA deverão ser designados pelo Chefe do Executivo no prazo máximo de 30 (trinta) dias após à sua posse.
+
+
+§ 1º
+
+Observada a estrutura administrativa da Prefeitura de Cabeceira Grande, deverão ser designados, prioritariamente, representantes dos setores responsáveis pelas políticas sociais básicas, saúde, direitos humanos e finanças e planejamento.
+
+
+§ 2º
+
+Para cada titular deverá ser indicado um suplente, que substituirá aquele em caso de ausência ou impedimento, de acordo com o que dispuser o regimento interno do Conselho.
+
+
+§ 3º
+
+O exercício da função de conselheiro, titular e suplente, requer disponibilidade para efetivo desempenho de suas funções em razão do interesse publico e da prioridade absoluta assegurado aos direitos da criança e do adolescente.
+
+
+Art. 6º.
+
+O mandato do representante governamental no CMDCA será de 2 (dois) anos, permitida a recondução por uma única vez para o período subsequente.
+
+
+§ 1º
+
+O afastamento dos representantes do governo junto ao CMDCA deverá ser previamente comunicado e justificado para que não haja prejuízo das atividades do Conselho.
+
+
+§ 2º
+
+A autoridade competente deverá designar o novo conselheiro governamental no prazo máximo da assembléia ordinária subsequente ao afastamento a que alude o parágrafo 1º deste artigo.
+
+
+##### Seção II — Dos Representantes da Sociedade Civil Organizada
+
+
+Art. 7º.
+
+A representação da Sociedade Civil Organizada garantirá a participação da população por meio de organizações representativas e de representantes de adolescentes.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 627, de 04 de abril de 2019.
+
+
+§ 1º
+
+Poderão participar do processo de escolha organizações da sociedade civil constituídas há pelo menos 2 (dois) anos com atuação no âmbito territorial correspondente.
+
+
+§ 2º
+
+A representação da Sociedade Civil Organizada no CMDCA, diferentemente da representação governamental, não poderá ser previamente estabelecida, devendo submeter-se periodicamente a processo democrático de escolha.
+
+
+§ 3º
+
+O processo de escolha dos representantes da Sociedade Civil Organizada junto ao CMDCA deverá observar o seguinte:
+
+
+I –
+
+instauração pelo Conselho do referido processo, até 60 (sessenta) dias antes do término do mandato;
+
+
+II –
+
+designação de uma Comissão Eleitoral composta por representantes da Sociedade Civil Organizada para organizar e realizar o processo eleitoral ; e
+
+
+III –
+
+convocação de assembleia para deliberar exclusivamente sobre a escolha.
+
+
+§ 4º
+
+O mandato no CMDCA pertencerá à organização da sociedade civil eleita, que indicará um de seus membros para atuar como seu representante;
+
+
+§ 5º
+
+A eventual substituição dos representantes das organizações da sociedade civil no CMDCA deverá ser previamente comunicada e justificada para que não cause prejuízo algum às atividades do Conselho.
+
+
+§ 6º
+
+O Ministério Público deverá ser solicitado a acompanhar e fiscalizar o processo eleitoral de escolha dos representantes das organizações da sociedade civil.
+
+
+§ 7º
+
+Os representantes de adolescentes referidos no caput deste artigo poderão ser selecionados por meio de instituições de ensino.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 627, de 04 de abril de 2019.
+
+
+Art. 8º.
+
+É vedada a indicação de nomes ou qualquer outra forma de ingerência do poder público no processo de escolha dos representantes da sociedade civil junto ao CMDCA.
+
+
+Art. 9º.
+
+O mandato dos representantes da sociedade civil junto ao CMDCA será de 2 (dois) anos, permitida a reeleição por uma única vez para o período subsequente.
+
+
+##### Seção III — Dos Impedimentos, da Cassação e da Perda do Mandato
+
+
+Art. 10.
+
+Não deverão compor o CMDCA, no âmbito do seu funcionamento:
+
+
+I –
+
+conselhos de políticas públicas;
+
+
+II –
+
+representantes de órgão de outras esferas governamentais;
+
+
+III –
+
+ocupantes de cargo de confiança e/ou função comissionada do poder público, na qualidade de representante de organização da sociedade civil; e
+
+
+IV –
+
+conselheiros tutelares.
+
+
+Parágrafo único
+
+Também não deverão compor o CMDCA, na forma do disposto neste artigo, a autoridade judiciária, legislativa e o representante do Ministério Público e da Defensoria Pública, com atuação no âmbito do Estatuto da Criança e do Adolescente, ou em exercício na Comarca local.
+
+
+Art. 11.
+
+Os conselheiros do CMDCA terão seus mandatos suspensos ou cassados quando:
+
+
+I –
+
+for constatada a reiteração de faltas injustificadas às sessões deliberativas do CMDCA;
+
+
+II –
+
+for determinada a suspensão cautelar de dirigente da entidade, em conformidade com o disposto no artigo 191, parágrafo único, da Lei Federal n.º 8.069, de 1990, ou aplicada alguma das sanções previstas no artigo 97 do referido Diploma Legal, após procedimento de apuração de irregularidade cometida em entidade de atendimento, nos termos do disposto nos artigos 191 a 193 do mesmo Diploma Legal; ou
+
+
+III –
+
+for constatada a prática de ato incompatível com a função ou com os princípios que regem a administração pública, estabelecidas pelo artigo 4º da Lei Federal n.º 8.429, de 2 junho de 1992.
+
+
+Parágrafo único
+
+A cassação do mandato dos representantes do Governo e das organizações da sociedade civil junto ao CMDCA, em qualquer hipótese, demandará a instauração de procedimento administrativo específico, com a garantia do contraditório e ampla defesa, devendo a decisão ser tomada por maioria absoluta de votos dos integrantes do Conselho.
+
+
+##### Seção IV — Da Posse dos Representantes da Sociedade Civil Organizada
+
+
+Art. 12.
+
+Os representantes da Sociedade Civil Organizada junto ao CMDCA serão empossados no prazo máximo de 30 (trinta) dias após a proclamação do resultado da respectiva eleição, com a publicação dos nomes das organizações da sociedade civil e dos seus respectivos representantes eleitos, titulares e suplentes.
+
+
+#### CAPÍTULO IV — DO FUNCIONAMENTO DO CMDCA
+
+
+Seção Única
+
+Do Regimento Interno
+
+
+Art. 13.
+
+O CMDCA deverá elaborar o seu regimento interno, em consonância com o disposto nesta Lei, bem como nas resoluções do Conanda, definindo, entre outros, os seguintes itens:
+
+
+I –
+
+a estrutura funcional mínima composta por plenário, presidência, comissões e secretaria definindo suas respectivas atribuições;
+
+
+II –
+
+a forma de escolha dos membros da presidência do Conselho dos Direitos da Criança e do Adolescente, assegurando a alternância entre representantes do governo e da sociedade civil organizada;
+
+
+III –
+
+a forma de substituição dos membros da presidência na falta ou impedimento dos mesmos;
+
+
+IV –
+
+a forma de convocação das reuniões ordinárias e extraordinárias do Conselho, com comunicação aos integrantes do órgão, titulares e suplentes, de modo que se garanta a presença de todos os seus membros e permita a participação da população em geral;
+
+
+V –
+
+a forma de inclusão das matérias em pauta de discussão e deliberações com a obrigatoriedade de sua prévia comunicação aos conselheiros;
+
+
+VI –
+
+a possibilidade de discussão de temas que não tenham sido previamente incluídos em pauta;
+
+
+VII –
+
+o quorum mínimo necessário à instalação das sessões ordinárias e extraordinárias do CMDCA;
+
+
+VIII –
+
+as situações em que o quorum qualificado deve ser exigido no processo de tomada de decisões com sua expressa indicação quantitativa;
+
+
+IX –
+
+a criação de comissões e grupos de trabalho, que deverão ser compostos de forma paritária;
+
+
+X –
+
+a forma como ocorrerá a discussão das matérias colocadas em pauta;
+
+
+XI –
+
+a forma como se dará a participação dos presentes na assembléia ordinária;
+
+
+XII –
+
+a garantia de publicidade das assembléias ordinárias, salvo os casos expressos de obrigatoriedade de sigilo;
+
+
+XIII –
+
+a forma como serão efetuadas as deliberações e votações das matérias com a previsão de solução em caso de empate;
+
+
+XIV –
+
+a forma como será deflagrado e conduzido o procedimento administrativo com vista à exclusão de organização da sociedade civil ou de seu representante, quando da reiteração de faltas injustificadas e/ou prática de ato incompatível com a função, observada a legislação específica; e
+
+
+XV –
+
+a forma como será deflagrada a substituição do representante do órgão público, quando tal se fizer necessário.
+
+
+#### CAPÍTULO V — DO REGISTRO DAS ENTIDADES E PROGRAMAS DE ATENDIMENTO
+
+
+Art. 14.
+
+Na forma do disposto nos artigos 90, parágrafo único, e 91, da Lei Federal n.º 8.069, de 1990, cabe ao CMDCA:
+
+
+I –
+
+efetuar o registro das organizações da sociedade civil sediadas no âmbito do Município de Cabeceira Grande que prestem atendimento a crianças, adolescentes e suas respectivas famílias, executando os programas a que se refere o artigo 90, caput e. no que couber, as medidas previstas nos artigos 101, 112 e 129, todos da Lei Federal n.º 8.069, de 1990; e
+
+
+II –
+
+a inscrição dos programas de atendimento a crianças, adolescentes e suas respectivas famílias, em execução na sua base territorial por entidades governamentais e das organizações da sociedade civil.
+
+
+Parágrafo único
+
+O CMDCA deverá, ainda, realizar periodicamente, a cada 2 (dois) anos, no máximo, o recadastramento das entidades e dos programas em execução, certificando-se de sua contínua adequação à política de promoção dos direitos da criança e do adolescente traçada.
+
+
+Art. 15.
+
+O CMDCA deverá expedir resolução indicando a relação de documentos a serem fornecidos pela entidade para fins de registro, considerando o disposto no artigo 91 da Lei Federal n.º 8.069, de 1990.
+
+
+Parágrafo único
+
+Os documentos a serem exigidos visarão, exclusivamente, comprovar a capacidade da entidade de garantir a política de atendimento compatível com os princípios do Estatuto da Criança e do Adolescente.
+
+
+Art. 16.
+
+Quando do registro ou renovação, o CMDCA, com o auxílio de outros órgãos e serviços públicos, deverão certificar-se da adequação da entidade e/ou do programa, às normas e princípios estatutários, bem como a outros requisitos específicos que venha a exigir, por meio de resolução própria.
+
+
+§ 1º
+
+Será negado registro à entidade nas hipóteses relacionadas pelo artigo 91, parágrafo único, da Lei Federal n.º 8.069, de 1990 e em outras situações definidas pela mencionada resolução do Conselho dos Direitos da Criança e do Adolescente.
+
+
+§ 2º
+
+Será negado registro e inscrição do programa que não respeite os princípios estabelecidos pela Lei Federal n.º 8.069, de 1990 e/ou seja incompatível com a política de promoção dos direitos da criança e do adolescente traçada pelo CMDCA.
+
+
+§ 3º
+
+O CMDCA não concederá registros para funcionamento de entidades nem inscrição de programas que desenvolvam somente atendimento em modalidades educacionais formais de educação infantil, ensino fundamental e médio.
+
+
+§ 4º
+
+Verificada a ocorrência de alguma das hipóteses previstas nos parágrafos 1º a 3º deste artigo a qualquer momento poderá ser cassado o registro concedido à entidade ou programa, comunicando-se o fato à autoridade judiciária, Ministério Público e Conselho Tutelar.
+
+
+Art. 17.
+
+Caso alguma entidade ou programa esteja comprovadamente atendendo crianças ou adolescentes sem o devido registro no respectivo CMDCA, deverá o fato ser levado de imediato ao conhecimento da autoridade judiciária, Ministério Público e Conselho Tutelar para a tomada das medidas cabíveis, na forma do disposto nos artigos 95, 97, 191,192 e 193 da Lei Federal n.º 8.069, de 1990.
+
+
+Art. 18.
+
+O CMDCA expedirá ato próprio dando publicidade ao registro das entidades e programas que preencherem os requisitos exigidos, sem prejuízo de sua imediata comunicação ao Juízo da Infância e da Juventude e ao Conselho Tutelar, conforme previsto nos artigos 90, parágrafo único, e 91, caput, da Lei Federal n.º 8.069, de 1990.
+
+
+#### CAPÍTULO VI — DISPOSIÇÕES FINAIS
+
+
+Art. 19.
+
+Enquanto o CMDCA não for constituído em conformidade com o disposto nesta Lei, os registros, inscrições e alterações a que se referem os artigos 90, parágrafo único, e 91 da Lei Federal n.º 8.069, de 1990, serão efetuados pelos conselheiros do CMDCA cuja composição e constituição se deu antes da data de publicação desta Lei, que desempenhará normalmente as demais atribuições até o encerramento do seu mandato que coincidirá com o início do novo mandato a ser implementado com base no presente Diploma Legal.
+
+
+Art. 20.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 21.
+
+Ficam revogados os artigos 10 a 16, com seus respectivos desdobramentos, da Lei n.º 63, de 14 de julho de 1999.
+
+
+**Cabeceira Grande, 6 de abril de 2015; 19º da Instalação do Município.**
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**DAILTON GERALDO RODRIGUES GONÇALVES**
+
+**Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais**
+
+**"Este texto não substitui o original"**
+

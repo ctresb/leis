@@ -1,0 +1,460 @@
+{
+  "criterio": "Sinaliza atos alheios/identidade divergente em qualquer coluna do PDF nativo.\n\nSó produz suspeitos. Uma captura fiel de página inteira não prova granularidade.\nEpígrafes/avisos/datas ambíguos exigem revisão; ausência não certifica vigência.\n",
+  "script_sha256": "8795780d67c55f3c3bd6cc4772ac58932ae8852c076b62f7cd66c46aadb66422",
+  "listas": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003-integral/aprovados.paths.txt",
+      "sha256": "fd1d02252f2a79b315c8218c8a5d1061a224cffbf0023f17a764cbd799d036d6"
+    }
+  ],
+  "resultados": [
+    {
+      "path": "municipais/RJ/mendes/resolucoes/2026/resolucoes-3-2026-sapl-2889.md",
+      "sha256": "f0a4f4dbf6614e8accb0237319d6f2f2ab20e0dbc4440561555dc4dec3626aad",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2e6468e1f7c105fc28b53c6158bd01a63c3139fb1d08990f719e571e445619d2.json.gz",
+        "sha256": "8610271d2a4f6a6a868c5cd5f937474e217b7afbacd5391f77b79ee9c5281d78",
+        "sha256_layout": "c4f707d1a32082a57f1499cce958dd224c4b19028ac03fc0bb7a3bec40657ca4",
+        "sha256_bbox": "6032857dcf6a9e05028ed49b950441b4e42d33ba10577f46c3817c5f5d691246"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2013/resolucoes-1-2013-sapl-152.md",
+      "sha256": "840f01974450af4b9f16900f121f05504c15bc71d472b9d063645c93632e4852",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/b7e687563a3fed28fd23e3763eac28b9fd0755378484cf264577b09dad7a08cd.json.gz",
+        "sha256": "21834cc098f229e26e6b07279fe39bf203c3f48b82109fae027e93e0c7c5a278",
+        "sha256_layout": "2e62ddd7a05920bb015cba2eaf291066d7e8c1a969f64fb660b3ac11a04f8d41",
+        "sha256_bbox": "906b4b2dd0cd5189a55e1b3ae8b04795ecec98a5f9dad3c32557c963ec9afe41"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2022/resolucoes-1-2022-sapl-493.md",
+      "sha256": "4a2bf7f05cbf0a89d2d0e45fd4b9f4315246408dba7888b31e369ba996deb640",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f36e91cdad35c8d478085b4ed582a6edc97a6d0b568474abc8017cb513f53ae8.json.gz",
+        "sha256": "17ecf85c2eac922343256eb99bf61a008611d8289e39d312ecd15d853a474605",
+        "sha256_layout": "708da5b8e1d15ac78b1db427e482afe77a1a51af0f580553ef0bd578f9514f98",
+        "sha256_bbox": "e8c7cce645c19b7a2daea5cc6a9ff8414ab6be8e908c7cbe228e9c365a093cbd"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2013/resolucoes-4-2013-sapl-154.md",
+      "sha256": "c5aaba235a70f721aca29e0e388ae24f4ce5c254a76cb1469abc6b3848ca1d71",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/73279b256670fe40fb2adbc9b6d7fefe178aab67d7d386d8f66a6f3f93097a53.json.gz",
+        "sha256": "34d5b25aae92cd03be6e6b818b0a0e5e238fab1370e4915e503a842c0615e15a",
+        "sha256_layout": "4e8d324c3975af48d44bb1f0880404f828ad4336ce14642d6a7be25553e7eea6",
+        "sha256_bbox": "65c1d25e49db137e7457afcbec4b5acba92a590ab85ec5c59e404ad2c0d1cdcf"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2013/resolucoes-5-2013-sapl-155.md",
+      "sha256": "1d32799bf3856bc9c320bfddaad413d288d9cb41a9efcd0f75b5ee38ead6608a",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/be333924d75869f0ac97d3173ba9d8534ab3820236287c95141cfb51def99305.json.gz",
+        "sha256": "88b12eab8abb301deda5ee15c8c524de207c6e204b97823ff110041aea4d4ce8",
+        "sha256_layout": "7fa908ec6178ac075c15a4959add368a250ce68a1a3bbf7c33eb047e1c0e74e3",
+        "sha256_bbox": "ed8a0ac85f9ee16d5110859ecad034b23ca72f01b6417b38b322b6eff1a70629"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2014/resolucoes-1-2014-sapl-151.md",
+      "sha256": "c5b584db9622a4d437b8f2a90edf242624527bd2005fdc49376cb383e39c8586",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7c8a0991e54491d3614c9577b3b2ef93e3caedaa8a6bde0f34c2d805d7e09fe5.json.gz",
+        "sha256": "19ab8a5f88d80be633b41310c115fbf30d3bafe1c7dd0cdd271534967090b2bd",
+        "sha256_layout": "44088bcaaab94ca4071643910fa46aafc60f1f2e62af82e999363fe9c1376b07",
+        "sha256_bbox": "43bcba397ffaae81e77482b7984b1d41699c6e7ca4c80c5de09ca0614d1b3326"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-1-2024-sapl-482.md",
+      "sha256": "cb143db138979e1f63372cd194d72c91fa22e1e8df5a2662474d13692b4d4417",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/afae457089b340903ef84e51a7e2e479ca4c2d703cbef1c7ad858a9dc445ae46.json.gz",
+        "sha256": "aa134788eaa086441e735036f8b62f34b3dfa7774dc0fe5f1cb7852c6d339028",
+        "sha256_layout": "f1c5511a157a9dc21a45ec745f27e9fbe39449c6407a80f0ce0eb75c11eddcc1",
+        "sha256_bbox": "f8266dbff8ffdbecce34ca968e543bc0ea8d915a86278d5cabb1775d8a9f1a0a"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2018/resolucoes-1-2018-sapl-145.md",
+      "sha256": "fa802e23794d1692851dbd42cad228ced5b8d614c87b23c305044694ac9c06fe",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/53309d954c77741e5af547eb6598242a23127baac52df9fd33e29f481e3a7f1e.json.gz",
+        "sha256": "f74ccac4534eddfc8a8f694bec8ed2c69a359d6668156d39319d08c96c00a51c",
+        "sha256_layout": "adc7eee6f740cadb971d1996e50ad9da6a9ac3872f43badea6ead44eef823767",
+        "sha256_bbox": "606ec7f70da7ec763ebb6b149fd9a2d9f40ac94ffb9bca4c40ad8cb675afa50b"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-2-2024-sapl-483.md",
+      "sha256": "9e1e6bb673aa8562bf95223b80333c007bbaa42c80c7784bc0f947e73d474a38",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6923e1aecb8f931b2dcd454126c2af3bc9a81f30039d8cb7720ca9df0b38eaaa.json.gz",
+        "sha256": "ad4e1e956091d4a5f9fd865055bc82699cddf4e2a54cc9bf7583466ad8437f41",
+        "sha256_layout": "e438ae1e47b7edde145e619183c6498a288465ece04a3b861984a19ca1e85db8",
+        "sha256_bbox": "117c88800d3725ce735d8d963acb9d3a4c40239308100345c8c451407c19e155"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2018/resolucoes-3-2018-sapl-146.md",
+      "sha256": "c08493c96ba4ba179486d290ed14591709d03f3ea17cd80f700b4e869b5b02ed",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3e7bf8febab95574ab5ff92f123dd10a760167f616ba62bf66659397cf0fc6a3.json.gz",
+        "sha256": "2f1c0a58c49f929d4d423df938a3901b169f66b7f961c97f1d51ab8270e16d8a",
+        "sha256_layout": "96a2316579baa14e7ea56005ce31e4b920be2de2511b6fbfcf95cc3248d8c417",
+        "sha256_bbox": "08ce20942933b3701ba951837fec3d7e8fefc8057b3c1424c6452d1812339386"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-3-2024-sapl-484.md",
+      "sha256": "2c7cf38cccf409285bfe08f63fef5025035ef084ed3f2817539a1efc2fea3f8a",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/54986ae10830264bbe2db9356c02b17a276faef4dcd28054c73b69b8c4a689a0.json.gz",
+        "sha256": "37cac2882046b8e49cbf9d8d585eaec77eec6bf04ebb771935aaddd9450facf4",
+        "sha256_layout": "e74ffb1ec21870326bef1d33afc2fcce147c7ab562205538e8896340b8e7f2a9",
+        "sha256_bbox": "3a72b5d87535cd3cb9b5f573d101bd785607e0e2d74d5587077bc860fa31c528"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2020/resolucoes-1-2020-sapl-143.md",
+      "sha256": "d41654b6b63a19f072187eaa087836c0a1abc993cbd363e8002ea30acb95bf71",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5a6a40820d507bc858e8082ca74277a4e65a3034b13a5cf3df0e9202fbf49042.json.gz",
+        "sha256": "ff084c0b1bfff888a53bcc4824a9d788a3427139554d6b6c7a6bd2da29f01864",
+        "sha256_layout": "32a16ed3e9c8e79db98f3ab8223aa5c3edc24f4fdd4929639ce6490a8807c3d8",
+        "sha256_bbox": "a016473349c1688ae08be98278d18650167a96467cc6a40d513795346b5505b5"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-4-2024-sapl-485.md",
+      "sha256": "f0764fcff0f21d8718937ba98c4d98db183fce99564507d48d1cf2a0a9cb53b5",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ee073db599a57f3f5da74ee94d19defb44b7c1c468787e508b7af2cb6a028f9e.json.gz",
+        "sha256": "5d4317f57435bd970227bd9d6f0f31645a7db902cc0549f668d1fb8f59f0fe40",
+        "sha256_layout": "e22fd2457a476614a39177ef74ebffd0ac6288de78321acfbda46aacd9d8c714",
+        "sha256_bbox": "612cad91c03f6c34b5e2e34d6345afe97f97bd80881d15893949b3ff5ea96f06"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-1-2021-sapl-130.md",
+      "sha256": "fc24d5090bd181b9582ffb6cb707e01a130cd0a6ddb519b1d7d7f7fb0dc46311",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/16277e90c8b67660ae54a44c07a42dc34e368315445ac89205403ccc451d24a2.json.gz",
+        "sha256": "38ad10393d1a29e7d7cf39c018b0927c3d3311f6492c41757b06e69bafcb5fbd",
+        "sha256_layout": "3014d04b915755aeab12bab3d0f6b617fb5ef86170142cb6f533e4b8fb457ae1",
+        "sha256_bbox": "f446ee64206b7dade62823d153f6c52f89bd9104ddf2aaaef2b9ef406be97741"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-2-2021-sapl-131.md",
+      "sha256": "549b861a8d62dad680acb3761220f798746eb98d79dcb5fb7931b1a85300ebe8",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/600ad1ed05b307b399c3be48482c5dabc2cb4406b2f958de30e0d3c3d37066d6.json.gz",
+        "sha256": "c7426c3ff2b13dcc13bf51c20ff267792546e04442b7778b82ec8af29a68c4cb",
+        "sha256_layout": "bb2adb678053aff882665038cb5108c6a134cf1181647f84a5c38d3f2a15910d",
+        "sha256_bbox": "ab9c06ce34aae02bfeebeddcd23e9fbc3094075c67eba2029ed24909c7b8c9bd"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-3-2021-sapl-133.md",
+      "sha256": "6ff95e2e5a3b2c624961c2da7412d66095f70e00163ed0023c292fc77731a318",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2da795281ce13cfb013b856524461eafc13a16dbde8b4c41e0c2c4ed239975b6.json.gz",
+        "sha256": "6f7919947e1afe457af2514d7e0f416d4b2bb586f18547a536b44f51eb5edd47",
+        "sha256_layout": "cd37832e79a8875d06df3ac1f28ec69b87468289dbf9cbb065985e03ccf2a316",
+        "sha256_bbox": "4fd2251ebb42a7e1ccff16ec8dbc399845196daad46eb544fa83a5d1a99bf5fa"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-4-2021-sapl-134.md",
+      "sha256": "76f3b40cd4fb0f629bafb7c2155b976873e4a3f3a2cf81d4d23cf800b76a6df2",
+      "alertas": [
+        {
+          "regra": "data_epigrafe_divergente",
+          "offset": 65,
+          "trecho": "FEDERAÇÃO DAS CÂMARAS MUNICIPAIS DO RIO GRANDE DO NORTE - FECAMRN\n\n\n                     RESOLUÇÃO Nº 004/2021 DE 17 DE JUNHO DE 2021\n\n\n          Dispõe sobre a criação, no âmbito da Câmara Municipal de Parelhas – RN, da\n          Frente Parlamentar Representativa do abatedouro público Municipal, e dá\n          outras providências.\n          FAÇO SABER QUE A CÂMARA MUNICIP",
+          "data_metadado": "2021-07-17",
+          "data_epigrafe": "2021-06-17"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/709ecccf3f089b2f2ff13ead3a1a157e2b09f9c5000f56fadfcf2ae56f614863.json.gz",
+        "sha256": "030bd391a16a9494eeead61dde83a136124a3a77e2de040b43781dfdb26f9477",
+        "sha256_layout": "b8e997da3a08afa6cc7c6ec99a7be4d5aa72fb68756a5fc9e3d9040e73c8e02f",
+        "sha256_bbox": "9cef49d0962cf382df7cdebad3dd2c534bfa48e441b810bd985b73f1e7c171c5"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-1-2025-sapl-30.md",
+      "sha256": "d687a37bb756363dfa8421b5f2599e07576e27e40db69f9c3c08c24e069fdd2f",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/349a6747cc392edb079f1331a5401c6c440b514b8edb0df35a22bac6336f1776.json.gz",
+        "sha256": "8a0ae5f09d6d17da5ed3592bdb266e08d87e474c216c15d9fc943f3f59f6d875",
+        "sha256_layout": "e06a536e7ac061eae99d0f37d28d01873b71dda326a6203fd0ee3b0944b5d42d",
+        "sha256_bbox": "4da75bcc432c32d171ffe58beaa5f84741e2f71f137a0084ee7ccea3febd1487"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-2-2025-sapl-31.md",
+      "sha256": "2038bc017f0bc0c4178581f8a94da3cf3a3e93ef4c8ee78eb5166e5394023e81",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/850e23083cfca9af8903fb33431edfe8f55d549cf1dddf85779d75309aef10fe.json.gz",
+        "sha256": "5465fe99d1137b57b828fb47250efde3a42add67fa2dc5f1798b1fe6d15a5c1f",
+        "sha256_layout": "4fc0af8f9b1081032ddee6d1dba09eea015b9816c38e1e2a17a727b5bd2b4c5f",
+        "sha256_bbox": "4186915bba44d1d33848af26b972079b73ea4931d9a95c75754867b561756fd7"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-8-2021-sapl-141.md",
+      "sha256": "debf66b10eb1ae7cf4cfd5a54c3b9e1b3b1d134e1e26da167f8a5d39a27baa99",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/b9f37d264edd708ff42cd42e2650ccd7ff0ad66e92bf617d1680b591853dc33d.json.gz",
+        "sha256": "75ea60b757835b6b723f6a8e2a5166c25872437fa0d3a94af3562c9aa9281154",
+        "sha256_layout": "86af955eee1671895f9b5f6e61b8684fcfb0abb939280c1d3df4e32291647f56",
+        "sha256_bbox": "8b9862253ddd3383a504bb90a9e84a9f391ebec2813333d0a577f8729e74a1b7"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-9-2021-sapl-142.md",
+      "sha256": "3ee96d665849c67768ca66de54af1315448be40a41b77d3627a2dee57145f050",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f8c74872b116ff2f56ee756d43aafb1665813db2b38e616b86b8b12243a54340.json.gz",
+        "sha256": "ed7608447a4160a5eb280ba6bfeab6184a3fbd6906c83c4851fbf05a93c79444",
+        "sha256_layout": "b5e65290cb268f6cfaae6803b64df3d3d24818f6a9223e87907361c3777403ba",
+        "sha256_bbox": "928bce752cac65f8f9f734f36f6f95823760b1c9f73c7830b1ab6eaefdf5a6f7"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-4-2025-sapl-527.md",
+      "sha256": "522bfc176c57039b440dd67b707ddc0b6cbdb9cac6084c29bc8f91663656607d",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a41a1e859c8d04179ea269e14c026a821810a83a74208907e754424b79936087.json.gz",
+        "sha256": "aec5db00691cfef63b046da642d7be206d570c9f8f62ecb0153672555906c637",
+        "sha256_layout": "dec30917c5c6e099a574deee0907980921681a4173eac8b6718adcc5cdc6794a",
+        "sha256_bbox": "d02147fec7b2da05d54264236e1eb166b8bd6eba1a9c6573a597d7ba51774b22"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-1-2023-sapl-123.md",
+      "sha256": "30861ad3455a6d6e9e305cabd402b7ce0c548eb061dd26ad04d6fe4de1061991",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/969b4f947506148db2f0d3ad0e6efbd36c9eca27aa411f1a0027a0feb20dbb28.json.gz",
+        "sha256": "95051d13a38eb67723ff07cc724a77a41f64b06224890d45ddfaa5956ed20e9a",
+        "sha256_layout": "236310d3a9dbd3b35a7bc7ef2db35465835827a01bdd74f42e0973942191d2d3",
+        "sha256_bbox": "65f7a5db9288fa13b7c3d290386b90f51fc6aa33a739ae67ba19c18b52ef051c"
+      }
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2026/resolucoes-1-2026-sapl-642.md",
+      "sha256": "28db2c6ec25a1a530f5b8708055c0a603a6444e374abcc03da35c849a7616761",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3a6adf1966e0e4990ac1cae5b7a871963ba8f1fdb8c16a1e70980d598823d845.json.gz",
+        "sha256": "eeea6699ae2e96be4744ba0be07cf94f13d47c69806fc78fd4652b0490420598",
+        "sha256_layout": "2a87c7b2a0e43b2aa5e6e880a8a97292ef75c5df83ea5472c943dbbca9247251",
+        "sha256_bbox": "45251304729b3c07d8bca3eff8e8c8a958c7942fb955a6f20aefbd885cb6f357"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-3-2023-sapl-124.md",
+      "sha256": "34ea6e8a16cd995f41a7278f13535e73885f73809baf7036f538d5469ceac984",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4b0af24ef79424c651531ffdc750ab0141b19a93cb21bdce25233bc039658581.json.gz",
+        "sha256": "8f3c3ac857e7887daa89c11860844f2e442a1a2d35a97275d591491da9a4e024",
+        "sha256_layout": "c32944498a5389f2d71ec62c4a547ebbff151c51f3f230e229abffbf12a06bdc",
+        "sha256_bbox": "b98e17ca0894fb0c38d6efa70f5d625ed2b39ba339338f2c0a140463d1f628f9"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-4-2023-sapl-125.md",
+      "sha256": "f4a505aaf5035347ef8bb457db90952dc8a1da492c0a4fdc936174bf1f83ded7",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/615d9dd968552381c4d59ce42f177b06220c0007adabc43dd7da4862470c4a79.json.gz",
+        "sha256": "09a56116a1269f0d663a1c22ffb4f9316ef66516ad62ee8725c2e31245c7aabc",
+        "sha256_layout": "ed969db51b00188dacc73bfb0de941c6ba23452e6053c693316dbf0d1171cc3c",
+        "sha256_bbox": "0ac78a5dbcef00c55bfa497c721b2bcdb92c5ee1040980c5a7ad4041884aaea2"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-5-2023-sapl-126.md",
+      "sha256": "d967cb2f23a4c581af520b330bad42c4f7e3fc741bc77152e238dc39b915ad15",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4773187df44ee8b744f3693d8b23aad53b0eca304363b096d1fa44f699b2c837.json.gz",
+        "sha256": "3d75a3e9b82b912e95d2434cb9c1698991ab1cf01078eb7b91a5639945ba98c4",
+        "sha256_layout": "b4deae9aba3598c69f858c33a9abcc557e5a6181afa7c1d62a8c2df62e0e98d7",
+        "sha256_bbox": "805c7019c4ea4c539195fed30800e3d91ae9f34e1e67998d04fa1778d51e75e5"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-6-2023-sapl-127.md",
+      "sha256": "cadfdcd1bd9c65a6ffe0134a7f33d6e23e8e25a775acfdf8deb272e8a3839d33",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3e1cfa635e112b6809e17d721d57bb1b487c3ac1ecd707ddb3b696da896fbca5.json.gz",
+        "sha256": "70ea479a37a286f35f3171c474d07a86bbe7db541f8f61dfac46118719298fb2",
+        "sha256_layout": "b7babeb3d45f5d682cc76a31239eba6d1b6bf0a0767b5b2020a776ad15d41a5c",
+        "sha256_bbox": "25b03fae79b464e921aa0e9c9e34b57f3e2bac3fcfbaed0a94f54167ef1b3952"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-7-2023-sapl-128.md",
+      "sha256": "152c257b3d43fba7f33c07afc19f5faf534190b0ba87f17f5c6cdacc3763f686",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/176c7f8c91fbc9dcde9f61c7e70a38c89a5a5c251a6a8fa12a12330484c9d3d1.json.gz",
+        "sha256": "368f4e93a15c3ea3a1162b4d61e8022e5eea74b1be75f100dd45737a98f5c436",
+        "sha256_layout": "7266c3119d9233567554dabc26a956b17631b800879b90cbcda7ca4deb53fbb0",
+        "sha256_bbox": "ce47d8b46bef197b2f71530ac713430bf175817da1f1272a69b10eedd42b97ae"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-1-2024-sapl-120.md",
+      "sha256": "8e2517026c14bdee8d1b482a218682b318553b9b7c516b5483fb084098ffdda5",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0eb417a91d77be1a1595f91e5c027574268587c7bede62095baaca5e283b35b2.json.gz",
+        "sha256": "ca8c9770eeb82aea7477b089d4ef0eabe114115a931dc325377eb829f73efde1",
+        "sha256_layout": "c4701d6755027be0f60daf588ffbfa56a541bf050b99ccfa2e8fadcf45f51a55",
+        "sha256_bbox": "1b63e3fc510f65d33f3073e89aea215c3605a19b2ac688eb205d4d50137744aa"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-2-2024-sapl-121.md",
+      "sha256": "a8a4b10105c80bbba7ba2e835594c35c06960d5da5419ffbdc10a2ce66b2374c",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1fcaf06928305be5c17b132a24cb309e96c1d322db56bf31a8edbe6888cc03ee.json.gz",
+        "sha256": "624e17c1fc06e9c403a621ad404b1c038fe7d43836f89f7b1e92d97d03b1e09e",
+        "sha256_layout": "63313a39a868a679287ee0113eff094ffbf9db642868ae20ee1aafe20fa0a8f0",
+        "sha256_bbox": "dd130c7ce4bdf69ca9e4a9263ec075d87af2ba72fa02728314dc60250341f8b3"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-3-2024-sapl-122.md",
+      "sha256": "e95919cde17cd7bccb9aedc684d8d9da18c8b8723ef7c57a050ff0b692dfa68e",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/01ccae49646031ab018cb2d62be36c46aefc0c60a58f9328709168dd2e6387a3.json.gz",
+        "sha256": "3d178dfdea0b2f796da6cb67c7ed79638066323e514aea5cf2248c8d6e1a9f9c",
+        "sha256_layout": "335e81cefa17b48468775b33aff5c56ce674ed78f6cc962c42ac4f877723b872",
+        "sha256_bbox": "301113245b74b40ecdde708bfffa8b830fa7eb1d7ccd5810544ecbae5352696e"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-5-2024-sapl-5.md",
+      "sha256": "ff7631a6abd4969eda319c6c39f43e18368f613e110fdc84df16a7993826d44d",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3675d3461e732bfe7c693c211348d6b894aec0c9653fd19a5be17849f5520c6f.json.gz",
+        "sha256": "9e467dd57b2a4820bdb9e2439710586bc048ac754dd1e832d39e075d0f2631eb",
+        "sha256_layout": "c85806048daaa669e5a0fecb7c15b3927e7f19a43a580ec2b4d019f9079608fb",
+        "sha256_bbox": "bad5c973ba22724893b0a4ba583653823e2ffc67d6faf1ee7828ca438086304a"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2025/resolucoes-1-2025-sapl-144.md",
+      "sha256": "2bcb31d69e30c88f6140d42a0c9ccad178ffb14f38f64ec4dbd12a206c8e79aa",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/42de0f53a98df53516c6ab9cb30f16e71fb1ad24b592fab2391a72cddeed34d0.json.gz",
+        "sha256": "a5e9b4ee1154680b88afd74892f07c9d6208715da3f1d22c520f2db2ca1f7b10",
+        "sha256_layout": "3491c3385be9fe9a3779ea46f08ad303661d1090a60f311d9f989a77610e9799",
+        "sha256_bbox": "6fbb46c53d6956517ae9a1a16b43c3558dfa4da55193db05200f046d6df333cf"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2025/resolucoes-6-2025-sapl-158.md",
+      "sha256": "f54eeef9b07bdb9a297c6532a06a47e8a764cfa7eb54f9ac65b8675d26bfb6fa",
+      "alertas": [
+        {
+          "regra": "data_epigrafe_divergente",
+          "offset": 65,
+          "trecho": "FEDERAÇÃO DAS CÂMARAS MUNICIPAIS DO RIO GRANDE DO NORTE - FECAMRN\n\n                                                                              RESOLUÇÃO Nº 006/2025, DE 27 DE NOVEMBRO DE 2025\n\n\n          Altera a Resolução nº 002, de 29 de dezembro de 1992 - Regimento Interno da Câmara Municipal de Parelhas/RN, e dá outras providências.\n\n          Faço saber que a Câmara Municipal de Parelhas/RN aprovou e eu LEANDRO JOSÉ DA S",
+          "data_metadado": "2025-12-11",
+          "data_epigrafe": "2025-11-27"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/280f9578821f7dfcbb97f16dcb245251c827df11c6a623b0189a8aeede0f25d6.json.gz",
+        "sha256": "694210daf42c5535ff706d501fed2b17de492622915e54830bdf778bf0d5f99e",
+        "sha256_layout": "a5f53e0aed587db7da9cc63f9bfb2bd2cb91e0069d4b15daed88601de949274b",
+        "sha256_bbox": "ca72e00d80589e5897aea9b9383312e39416302a4fa4b4fb21b0f267de00b54d"
+      }
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2026/resolucoes-1-2026-sapl-159.md",
+      "sha256": "1ff9eafe6715791fa9dbb89bbe526c37d98a93ebf3f3049d9fcda62b5a3b0b0e",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6a464b181948c6fee10c78462294ce74e8948fac218222c9e55f869137d63cb0.json.gz",
+        "sha256": "37aed3fb4073ab44dd577b4341bbb92bd7071e3623e4698e7fd55572f39ccab8",
+        "sha256_layout": "39069e6ba645802bae2d2579575466ba47eee5675609d69a85d6a0e6449dbc1b",
+        "sha256_bbox": "f44a5b339bf3e9b1885c939f1702892f81fe85954dd9573bb1d4219ef084e7ae"
+      }
+    }
+  ]
+}

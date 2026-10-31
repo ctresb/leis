@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/lei_1305.pdf da norma Lei Ordinária-PEX nº 1.657, de 26 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Lei Municipal n.º 1.305/2013 (Semana de Combate à Violência e Abuso Sexual): Institui a \"Semana de Combate à Violência e o Abuso Sexual Contra Crianças e Adolescentes\"",
+      "anexo_arquivo": "http://sapl.bayeux.pb.leg.br/media/sapl/public/anexonormajuridica/2022/1/lei_1305.pdf",
+      "ano": 2022,
+      "norma": 5
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bayeux.pb.leg.br/ba3878aa1b5ce3226dfab3c92d727dd960c40d037f0decc00fa438b1260e3ede.json",
+      "url": "https://sapl.bayeux.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bayeux.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "012a26647df9b8aa53b9131ce5b1d83c1f530aee6754f01812fb8c5f82e57b4d",
+      "bytes": 735,
+      "capturado_em": "2026-10-27T17:16:32.385346-03:00"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/anexo_6758.18.pdf da norma LEI ORDINÁRIA nº 6.758, de 05 de janeiro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE CULTURA",
+      "anexo_arquivo": "http://sapl.natal.rn.leg.br/media/sapl/public/anexonormajuridica/2018/2/anexo_6758.18.pdf",
+      "ano": 2018,
+      "norma": 1
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/lei_6882.19.anexos.pdf da norma LEI ORDINÁRIA nº 6.882, de 05 de abril de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXOS À LEI Nº 6882/2019",
+      "anexo_arquivo": "http://sapl.natal.rn.leg.br/media/sapl/public/anexonormajuridica/2019/3/lei_6882.19.anexos.pdf",
+      "ano": 2019,
+      "norma": 268
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.natal.rn.leg.br/a7ba856ce897ee40c9a1c6616b55a7fa9af2c4cb77a686b8fb76f2adae6cfc02.json",
+      "url": "https://sapl.natal.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c8966bfe397380780f2d3951af4c0e41c783a9a9f9b54a17f28d0454aa3dc90f",
+      "capturado_em": "2026-10-20T21:43:46.042951",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.natal.rn.leg.br/a7ba856ce897ee40c9a1c6616b55a7fa9af2c4cb77a686b8fb76f2adae6cfc02.json"
+    }
+  ]
+}

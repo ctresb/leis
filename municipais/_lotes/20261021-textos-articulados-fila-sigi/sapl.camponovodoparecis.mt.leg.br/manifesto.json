@@ -1,0 +1,42 @@
+{
+  "host": "sapl.camponovodoparecis.mt.leg.br",
+  "metadados_unicos_observados": 60,
+  "total_api_declarado": 60,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 52,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camponovodoparecis.mt.leg.br/48119e59135fe5843eae57fdbfaa466241123d228220d5f24e4b1053b182b1af.json",
+    "url": "https://sapl.camponovodoparecis.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.camponovodoparecis.mt.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "ec9dce37fec5061e5c00ad16534117f73d66c7d2bdc77919f841158c7122c1f0",
+    "bytes": 951,
+    "capturado_em": "2026-10-27T22:21:58.730488-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camponovodoparecis.mt.leg.br/c6e31bb920064c55bc7a4b600c6bd46fa6cbcd3709de8d298fc4dcf5973f03be.json",
+    "url": "https://sapl.camponovodoparecis.mt.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.camponovodoparecis.mt.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "beba23a374a1fb2fe2b83097c630ccb522e6e32448acccfa825887811314d7a3",
+    "bytes": 803,
+    "capturado_em": "2026-10-27T22:21:58.044649-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.camponovodoparecis.mt.leg.br/4ed084b82c5c508cb6e0c0833328dc11addea3f10937e8ba56d964b58139b5c6.json",
+      "url": "https://sapl.camponovodoparecis.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.camponovodoparecis.mt.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f37c6e3d096c8c5303f560b156f13446a2a5689591b1ecf93df9509e95b455ce",
+      "bytes": 38816,
+      "capturado_em": "2026-10-27T22:22:12.356211-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

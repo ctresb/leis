@@ -1,0 +1,76 @@
+{
+  "host": "sapl.patu.rn.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/lei_municipal_no_626_2026_-_publicacao_femurn.pdf da norma LEI ORDINÁRIA nº 626, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.patu.rn.leg.br/media/sapl/public/anexonormajuridica/2026/1/lei_municipal_no_626_2026_-_publicacao_femurn.pdf",
+      "ano": 2026,
+      "norma": 15
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/lei_municipal_no_627_2026_-_publicacao_femurn.pdf da norma LEI ORDINÁRIA nº 627, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial",
+      "anexo_arquivo": "http://sapl.patu.rn.leg.br/media/sapl/public/anexonormajuridica/2026/2/lei_municipal_no_627_2026_-_publicacao_femurn.pdf",
+      "ano": 2026,
+      "norma": 16
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/lei_municipal_no_629_2026_-_publicacao_femurn.pdf da norma LEI ORDINÁRIA nº 629, de 23 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial da FEMURN",
+      "anexo_arquivo": "http://sapl.patu.rn.leg.br/media/sapl/public/anexonormajuridica/2026/3/lei_municipal_no_629_2026_-_publicacao_femurn.pdf",
+      "ano": 2026,
+      "norma": 18
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/4/lei_municipal_no_628_2026_-_publicacao_femurn.pdf da norma LEI ORDINÁRIA nº 628, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial da FEMURN",
+      "anexo_arquivo": "http://sapl.patu.rn.leg.br/media/sapl/public/anexonormajuridica/2026/4/lei_municipal_no_628_2026_-_publicacao_femurn.pdf",
+      "ano": 2026,
+      "norma": 17
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/5/lei_municipal_no_630_2026_-_publicacao_femurn.pdf da norma LEI ORDINÁRIA nº 630, de 29 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial da FEMURN",
+      "anexo_arquivo": "http://sapl.patu.rn.leg.br/media/sapl/public/anexonormajuridica/2026/5/lei_municipal_no_630_2026_-_publicacao_femurn.pdf",
+      "ano": 2026,
+      "norma": 19
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/6/lei_567_2023_-_estima_a_receita_e_fixa_a_despesa_do_municipio_de_patu_para_o_exercicio_de_2024_femurn.pdf da norma LEI COMPLEMENTAR nº 567, de 26 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE PATU, PARA O EXERCÍCIO DE 2024 E DÁ OUTRAS PROVIDÊNCIAS.",
+      "anexo_arquivo": "http://sapl.patu.rn.leg.br/media/sapl/public/anexonormajuridica/2023/6/lei_567_2023_-_estima_a_receita_e_fixa_a_despesa_do_municipio_de_patu_para_o_exercicio_de_2024_femurn.pdf",
+      "ano": 2023,
+      "norma": 171
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.patu.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.patu.rn.leg.br/5a952776890a4cdaee3ce554c3111e7fea55fbd3257030600dcaaa5098753c51.json",
+      "sha256": "43c5da7dfb02646679a649ac561610d07c3f3fa8ed49e30f98991036d6bda961",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.patu.rn.leg.br/5a952776890a4cdaee3ce554c3111e7fea55fbd3257030600dcaaa5098753c51.meta.json"
+    }
+  ],
+  "total": 6
+}

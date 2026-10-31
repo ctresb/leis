@@ -1,0 +1,106 @@
+{
+  "congelado_em": "2026-10-20T20:08:38.139288",
+  "aprovados": 15143,
+  "retidos": 1701,
+  "substitui_somente_as_listas": [
+    "municipais/_lotes/entrega-sapl-20261020-15458.json",
+    "municipais/_lotes/20261020-sapl-novos/entrega-1386.json"
+  ],
+  "limite": "Filtro conservador de epígrafes e proveniência. Não certifica fidelidade OCR nem integralidade de cada PDF. Referências e anexos citados podem gerar retenção para revisão; nenhum recorte automático.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/aprovados.paths.txt",
+      "sha256": "7eb9110b267082a2916304b54b35b1f511dfb95f9b1c9b11ed630ddaa9b552d3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/auditoria-municipal.json",
+      "sha256": "360b788da240ffe3ef1bbc373dd8994a5b0c1486a2f736109a3de24d01d8bf03"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0001.paths.txt",
+      "sha256": "d11f5459c56fe56d04c63c74bbbd16a395dd69b4b0308cf2067e13433a021e56"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0002.paths.txt",
+      "sha256": "0bd6e224693d36d92d677ec2b55943494bf7af64bfbf5424cb0ba744e516ed5b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0003.paths.txt",
+      "sha256": "b85224476773bd9fc34af0ead66d1b601aa94d911707d54c86a7b0a999203144"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0004.paths.txt",
+      "sha256": "0096a1a90dd6beb26c3d2e2fe70fa6b68ff122fc66661f28c9540a09ab463469"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0005.paths.txt",
+      "sha256": "ff6cb815e04d75a7cb3d3f5b1a549ef296fe246be792c2441b490788d54ca58f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0006.paths.txt",
+      "sha256": "157aa23b2aba5188f23226c5c3bec0bd679b18f5d99919b043c3aa2fc5f602ae"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0007.paths.txt",
+      "sha256": "49f1cd35524742da1a5e3a1d87f5c46ce2b102fa442d4ef4cd139b302203dedf"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0008.paths.txt",
+      "sha256": "3cc36296c38e64599f2efe1e2c23e296b03b3143d0ba062490c3d0464fc663bb"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0009.paths.txt",
+      "sha256": "146185cebbe95a05380fed67e8ad88f438927b6182e7c24a4067345253a3dfe1"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0010.paths.txt",
+      "sha256": "7879f0b15f925ed6fda151bc8703bde2489ccb41af3684fc6b9fb38979e2c5bb"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0011.paths.txt",
+      "sha256": "1d10bbf5fa9e5c8e84b1c6a5f927a0879087ef5e9ba548892ae934cb77553d3f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0012.paths.txt",
+      "sha256": "5848922425b5d907b238503cc92c786a60b05d33a8257d83dd9615226ebd1d12"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0013.paths.txt",
+      "sha256": "69543338cb2cb6159759eb4c77d114c4a06385d7c31e2536db2d003118317153"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0014.paths.txt",
+      "sha256": "e3e6891a4eef64ea70376a3dbd6f141fe48a8c3fc1f8a49034c82a267aee0c21"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0015.paths.txt",
+      "sha256": "aac6330411b06f57ccdb11708b325e4b1e322b68f46ac1815f40c8b23dc623e5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/lote-0016.paths.txt",
+      "sha256": "c2daaf9c75d33f8c58857e6d1bd733deb1fea2c158d2fdc9d05d6911a5d2fda4"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/overlay.json",
+      "sha256": "6e6caaa238f4a7b05aea118499854102359460fc12e4ae86dff3dea05d838435"
+    },
+    {
+      "path": "municipais/_lotes/20261020-overlay-granularidade-v2/retidos.paths.txt",
+      "sha256": "0402de4377d5a96b2484eb391f10322071abeee8defa1d06f14a976a2e2ebfea"
+    }
+  ],
+  "scripts": [
+    {
+      "path": "scripts/granularidade_sapl.py",
+      "sha256": "75153bf6c357d7acc5130c83941f032216b59321b10746c2cf7e55ce72d90a05"
+    },
+    {
+      "path": "scripts/auditar_overlay_sapl.py",
+      "sha256": "3860564815f78fb7e1e6db5786f8be252152d6e5898fe4a8005c55fddf1829ad"
+    },
+    {
+      "path": "scripts/test_granularidade_sapl.py",
+      "sha256": "ad5e5d1cc8915b134de99637c647a7985df964787a941774eec7e370330576d2"
+    }
+  ]
+}

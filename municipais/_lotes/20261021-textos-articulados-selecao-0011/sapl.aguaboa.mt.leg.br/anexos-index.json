@@ -1,0 +1,1288 @@
+{
+  "estado": "indice_completo",
+  "total": 126,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/1/parecer_juridico_a_portaria_no_019-2018.pdf da norma Portaria nº 19, de 10 de julho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Parecer Jurídico",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2018/1/parecer_juridico_a_portaria_no_019-2018.pdf",
+      "ano": 2018,
+      "norma": 1779
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/2/lei_complementar_no_132-2018.pdf da norma Lei Complementar nº 132, de 29 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2018/2/lei_complementar_no_132-2018.pdf",
+      "ano": 2018,
+      "norma": 1832
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/3/projeto_de_lei_complementar_no_145-2018.pdf da norma Lei Complementar nº 132, de 29 de novembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2018/3/projeto_de_lei_complementar_no_145-2018.pdf",
+      "ano": 2018,
+      "norma": 1832
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/5/lei_municipal_no_1365-2017.pdf da norma Lei Ordinária nº 1.230, de 10 de julho de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "\"Altera Artigo 1º, da Lei Municipal nº 1230/2014 e, dá outras providências.\"",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2014/5/lei_municipal_no_1365-2017.pdf",
+      "ano": 2014,
+      "norma": 1308
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1995/6/lei_municipal_no_1453-2019.pdf da norma Lei Ordinária nº 352, de 12 de junho de 1995",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Revoga-se a Lei Municipal nº 352/1995",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/1995/6/lei_municipal_no_1453-2019.pdf",
+      "ano": 1995,
+      "norma": 348
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/7/emenda_a_lei_organica_001-2019.pdf da norma Lei Orgânica nº 1, de 02 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "\"EMENDA À LEI ORGÂNICA DO MUNICÍPIO DE ÁGUA BOA Nº 002/2018\"",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/1990/7/emenda_a_lei_organica_001-2019.pdf",
+      "ano": 1990,
+      "norma": 1383
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/8/ccf_000016.pdf da norma Lei Complementar nº 47, de 08 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2009/8/ccf_000016.pdf",
+      "ano": 2009,
+      "norma": 1272
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/9/anexo_loa_2019_n1438.pdf da norma Lei Ordinária nº 1.438, de 05 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2018/9/anexo_loa_2019_n1438.pdf",
+      "ano": 2018,
+      "norma": 1841
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/10/anexos_ldo_2019_n_1415.pdf da norma Lei Ordinária nº 1.415, de 17 de julho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2018/10/anexos_ldo_2019_n_1415.pdf",
+      "ano": 2018,
+      "norma": 1783
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/12/anexos_ppa_2018_a_2021_lei_n_1.385-mesclado.pdf da norma Lei Ordinária nº 1.385, de 20 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2017/12/anexos_ppa_2018_a_2021_lei_n_1.385-mesclado.pdf",
+      "ano": 2017,
+      "norma": 1718
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/14/lei_de_diretrizes_orcamentarias_1.273_ldo_2016-mesclado.pdf da norma Lei Ordinária nº 1.273, de 24 de julho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2015/14/lei_de_diretrizes_orcamentarias_1.273_ldo_2016-mesclado.pdf",
+      "ano": 2015,
+      "norma": 1488
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/15/lei_n_1.163_-2012_ldo_-2013_anexos-mesclado.pdf da norma Lei Ordinária nº 1.163, de 24 de maio de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2012/15/lei_n_1.163_-2012_ldo_-2013_anexos-mesclado.pdf",
+      "ano": 2012,
+      "norma": 1160
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/16/ldo_2011_lei_n_1.083-mesclado.pdf da norma Lei Ordinária nº 1.083, de 03 de agosto de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2010/16/ldo_2011_lei_n_1.083-mesclado.pdf",
+      "ano": 2010,
+      "norma": 1080
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/17/ldo_2010_lei_n_1038-mesclado.pdf da norma Lei Ordinária nº 1.038, de 18 de agosto de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2009/17/ldo_2010_lei_n_1038-mesclado.pdf",
+      "ano": 2009,
+      "norma": 1035
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/18/lei_n_1.156_-2011_loa_2012_anexos_-mesclado-compactado.pdf da norma Lei Ordinária nº 1.156, de 08 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2011/18/lei_n_1.156_-2011_loa_2012_anexos_-mesclado-compactado.pdf",
+      "ano": 2011,
+      "norma": 1153
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/19/lei_municipal_n_933-_2007_loa_2008_1-mesclado-compactado.pdf da norma Lei Ordinária nº 933, de 19 de dezembro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2007/19/lei_municipal_n_933-_2007_loa_2008_1-mesclado-compactado.pdf",
+      "ano": 2007,
+      "norma": 930
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/20/lei_n_1054_-2009_loa_2010-mesclado.pdf da norma Lei Ordinária nº 1.054, de 08 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2009/20/lei_n_1054_-2009_loa_2010-mesclado.pdf",
+      "ano": 2009,
+      "norma": 1051
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/21/lei_n_967_-2008.pdf da norma Lei Ordinária nº 967, de 19 de maio de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2008/21/lei_n_967_-2008.pdf",
+      "ano": 2008,
+      "norma": 964
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/22/lei_n889_ao_exercicio_de_2007-mesclado-compactado.pdf da norma Lei Ordinária nº 889, de 19 de dezembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2006/22/lei_n889_ao_exercicio_de_2007-mesclado-compactado.pdf",
+      "ano": 2006,
+      "norma": 886
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/23/anexo_da_lei_1.221_-2013_ldo-mesclado.pdf da norma Lei Ordinária nº 1.221, de 17 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2013/23/anexo_da_lei_1.221_-2013_ldo-mesclado.pdf",
+      "ano": 2013,
+      "norma": 1218
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/24/anexos_da_lei_n_1220_de_2013_loa-mesclado.pdf da norma Lei Ordinária nº 1.220, de 17 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2013/24/anexos_da_lei_n_1220_de_2013_loa-mesclado.pdf",
+      "ano": 2013,
+      "norma": 1217
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/25/anexos_loa_2017_lei_n_1312-mesclado.pdf da norma Lei Ordinária nº 1.312, de 12 de setembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2016/25/anexos_loa_2017_lei_n_1312-mesclado.pdf",
+      "ano": 2016,
+      "norma": 1570
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/26/lei_n_968_-2008_loa-mesclado.pdf da norma Lei Ordinária nº 968, de 02 de junho de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2008/26/lei_n_968_-2008_loa-mesclado.pdf",
+      "ano": 2008,
+      "norma": 965
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/27/anexos_ppa_2014_a_2017_n_1219-mesclado.pdf da norma Lei Ordinária nº 1.219, de 17 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2013/27/anexos_ppa_2014_a_2017_n_1219-mesclado.pdf",
+      "ano": 2013,
+      "norma": 1216
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/28/anexos_ppa_2010_a_2013_n_1055.pdf da norma Lei Ordinária nº 1.055, de 08 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2009/28/anexos_ppa_2010_a_2013_n_1055.pdf",
+      "ano": 2009,
+      "norma": 1052
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/29/lei_complementar_n_123-mesclado-compactado.pdf da norma Lei Complementar nº 123, de 20 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2017/29/lei_complementar_n_123-mesclado-compactado.pdf",
+      "ano": 2017,
+      "norma": 1716
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/30/resolucao_no_002-2018.pdf da norma Resolução nº 2, de 18 de setembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2018/30/resolucao_no_002-2018.pdf",
+      "ano": 2018,
+      "norma": 1807
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/31/emenda_a_lei_organica_no_003-2019.pdf da norma Lei Orgânica nº 1, de 02 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/1990/31/emenda_a_lei_organica_no_003-2019.pdf",
+      "ano": 1990,
+      "norma": 1383
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/32/lei_organica.pdf da norma Emenda a Lei Orgânica nº 3, de 03 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2019/32/lei_organica.pdf",
+      "ano": 2019,
+      "norma": 1993
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/33/errata_portaria_no_005-2022.pdf da norma Portaria-GABP nº 5, de 03 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Errata da Portaria n° 005/2022.\r\n\r\nOnde se lê:\r\nSala da Presidência, 03 de fevereiro de 2021\r\n\r\nLeia-se:\r\nSala da Presidência, 03 de fevereiro de 2022",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/33/errata_portaria_no_005-2022.pdf",
+      "ano": 2022,
+      "norma": 2523
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/34/errata.decre.muni.n3608-2021.pdf da norma Decreto do Executivo-EXE nº 3.608, de 15 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "ERRATA DECRETO MUNICIPAL N°3608/2021",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2021/34/errata.decre.muni.n3608-2021.pdf",
+      "ano": 2021,
+      "norma": 2556
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/35/edital.notifi.n02.pdf da norma Decreto do Executivo-EXE nº 3.785, de 12 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "\"NOTIFICA CONTRIBUENTES DO IPTU REFERENTE AO EXERCÍCIO DE 2022, E DÁ OUTRAS PROVIDÊNCIAS. \"",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/35/edital.notifi.n02.pdf",
+      "ano": 2022,
+      "norma": 2570
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/36/of.gp.cm.ab-mt_no_078-2022.pdf da norma Decreto Legislativo-SECRCMAB nº 1, de 04 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Encaminhamento de Contas de Gestão Exercício Financeiro 2020.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/36/of.gp.cm.ab-mt_no_078-2022.pdf",
+      "ano": 2022,
+      "norma": 2609
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/37/errata_portaria_no_012-2022.pdf da norma Portaria nº 12, de 20 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Errata Portaria nº 012-2022.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/37/errata_portaria_no_012-2022.pdf",
+      "ano": 2022,
+      "norma": 2642
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/38/lei_n_1727.pdf da norma Lei Ordinária-EXE nº 1.727, de 02 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/38/lei_n_1727.pdf",
+      "ano": 2022,
+      "norma": 2663
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/39/anexo_lei_n_1753.pdf da norma Lei Ordinária-EXE nº 1.753, de 15 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "registro de imóvel",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/39/anexo_lei_n_1753.pdf",
+      "ano": 2022,
+      "norma": 2727
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/40/anexo_lei_comp._n_174.pdf da norma Lei Complementar-EXE nº 174, de 15 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/40/anexo_lei_comp._n_174.pdf",
+      "ano": 2022,
+      "norma": 2728
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/41/decreto_executivo_3984.pdf da norma Decreto do Executivo-EXE nº 3.984, de 05 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/41/decreto_executivo_3984.pdf",
+      "ano": 2022,
+      "norma": 2801
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/42/decreto_executivo_3987.pdf da norma Decreto do Executivo-EXE nº 3.987, de 05 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/42/decreto_executivo_3987.pdf",
+      "ano": 2022,
+      "norma": 2802
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/43/decreto_executivo_3989.pdf da norma Decreto do Executivo-EXE nº 3.989, de 05 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/43/decreto_executivo_3989.pdf",
+      "ano": 2022,
+      "norma": 2803
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/44/lc_179_-_promulgacao_tatica_-_plano_diretor_-_mapa_zoneamento_urbano.pdf da norma Lei Complementar-EXE nº 179, de 26 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Zoneamentos",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/44/lc_179_-_promulgacao_tatica_-_plano_diretor_-_mapa_zoneamento_urbano.pdf",
+      "ano": 2022,
+      "norma": 2834
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/45/lc_179_-_promulgacao_tatica_-_plano_diretor_-_mapa_eixos_viarios_planejados.pdf da norma Lei Complementar-EXE nº 179, de 26 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Viário",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/45/lc_179_-_promulgacao_tatica_-_plano_diretor_-_mapa_eixos_viarios_planejados.pdf",
+      "ano": 2022,
+      "norma": 2834
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/46/lc_179_-_promulgacao_tatica_-_plano_diretor_-_mapa_abairramento.pdf da norma Lei Complementar-EXE nº 179, de 26 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Abairramentos",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/46/lc_179_-_promulgacao_tatica_-_plano_diretor_-_mapa_abairramento.pdf",
+      "ano": 2022,
+      "norma": 2834
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/47/emenda_modificativa_no_011-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "Art. 13",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/47/emenda_modificativa_no_011-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/48/emenda_modificativa_no_012-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Art. 14",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/48/emenda_modificativa_no_012-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/49/emenda_aditiva_no_013-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Art. 14",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/49/emenda_aditiva_no_013-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/50/emenda_aditiva_no_014-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Art. 15\r\nArt. 16",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/50/emenda_aditiva_no_014-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/51/emenda_aditiva_no_015-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Art. 26",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/51/emenda_aditiva_no_015-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/52/emenda_aditiva_no_016-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Art. 26.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/52/emenda_aditiva_no_016-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/53/emenda_modificativa_no_017-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Art. 44.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/53/emenda_modificativa_no_017-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/54/emenda_de_redacao_no_018-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Art. 69.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/54/emenda_de_redacao_no_018-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/55/emenda_de_redacao_no_021-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Art. 101.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/55/emenda_de_redacao_no_021-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/56/emenda_aditiva_no_022-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Art. 102.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/56/emenda_aditiva_no_022-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/57/emenda_modificativa_no_023-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Art. 104",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/57/emenda_modificativa_no_023-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/58/emenda_substitutiva_no_024-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Art. 107",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/58/emenda_substitutiva_no_024-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/59/emenda_supressiva_no_025-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Seção VII - da Segurança Pública",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/59/emenda_supressiva_no_025-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/60/emenda_de_redacao_no_026-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Art. 113",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/60/emenda_de_redacao_no_026-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/61/emenda_modificativa_no_017-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Art. 117",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/61/emenda_modificativa_no_017-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/62/emenda_modificativa_no_028-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Art. 209",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/62/emenda_modificativa_no_028-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/63/emenda_aditiva_no_029-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Art. 120.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/63/emenda_aditiva_no_029-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/64/emenda_aditiva_no_030-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Art. 183",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/64/emenda_aditiva_no_030-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/65/emenda_aditiva_no_031-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Art. 192",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/65/emenda_aditiva_no_031-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/66/emenda_aditiva_no_030-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "Art. 196",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/66/emenda_aditiva_no_030-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/67/emenda_aditiva_no_033-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "Art. 197",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/67/emenda_aditiva_no_033-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/68/emenda_de_redacao_no_034-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Art. 210",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/68/emenda_de_redacao_no_034-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/69/emenda_modificativa_no_035-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Art. 211",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/69/emenda_modificativa_no_035-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/70/emenda_de_redacao_no_036-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Art. 213",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/70/emenda_de_redacao_no_036-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/71/emenda_de_redacao_no_037-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Art. 214",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/71/emenda_de_redacao_no_037-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/72/emenda_modificativa_no_038-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Art. 217\r\nInciso II",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/72/emenda_modificativa_no_038-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/73/emenda_modificativa_no_039-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Art. 218",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/73/emenda_modificativa_no_039-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/74/emenda_de_redacao_no_049-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "Art. 100\r\nArt. 104\r\nArt. 168\r\nArt. 193\r\nArt. 194\r\nArt. 198\r\nArt. 199 - Parágrafo Único",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/74/emenda_de_redacao_no_049-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/75/emenda__aditiva_no_050-2020.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "§ 5º do Art. 1º",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/75/emenda__aditiva_no_050-2020.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/76/emenda_modificativa_no_001-2021.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "\"artigo 154-A\"\r\n\"artigo 154-B\"",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/76/emenda_modificativa_no_001-2021.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/77/emenda_aditiva_no_001-2022.pdf da norma Lei Orgânica nº 2, de 03 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Art. 229\r\nParágrafo Único",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2020/77/emenda_aditiva_no_001-2022.pdf",
+      "ano": 2020,
+      "norma": 2229
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/78/errata_portaria_016.pdf da norma Portaria nº 16, de 06 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Onde se lê:\r\n“Exonera o Senhor Marcos Liell, da função de Agente de Contratação e, dá outras providências”\r\n\r\nLeia-se:\r\n“Exonera o Senhor Marcos Liell, da função de Fiscal de Contrato e, dá outras providências”",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/78/errata_portaria_016.pdf",
+      "ano": 2023,
+      "norma": 2867
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/79/anexos_-_loa-2023.pdf da norma Lei Ordinária-EXE nº 1.785, de 27 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/79/anexos_-_loa-2023.pdf",
+      "ano": 2022,
+      "norma": 2833
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/80/arldo_metas_anuais_orc_1_1_2-mesclado.pdf da norma Lei Ordinária-EXE nº 1.758, de 23 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2022/80/arldo_metas_anuais_orc_1_1_2-mesclado.pdf",
+      "ano": 2022,
+      "norma": 2754
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/81/anexo_plano_plurianual_-_ppa_2024-2025.pdf da norma Lei Ordinária-EXE nº 1.845, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/81/anexo_plano_plurianual_-_ppa_2024-2025.pdf",
+      "ano": 2023,
+      "norma": 3067
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/82/ppa_01.pdf da norma Lei Ordinária-EXE nº 1.845, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/82/ppa_01.pdf",
+      "ano": 2023,
+      "norma": 3067
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/83/anexo_lei_diretrizes_orcamentaria_-_ldo_2024.pdf da norma Lei Ordinária-EXE nº 1.846, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/83/anexo_lei_diretrizes_orcamentaria_-_ldo_2024.pdf",
+      "ano": 2023,
+      "norma": 3068
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/84/ldo.pdf da norma Lei Ordinária-EXE nº 1.846, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/84/ldo.pdf",
+      "ano": 2023,
+      "norma": 3068
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/85/ldo_01.pdf da norma Lei Ordinária-EXE nº 1.846, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/85/ldo_01.pdf",
+      "ano": 2023,
+      "norma": 3068
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/86/anexo_lei_orcamentaria_anual_-_loa_2024.pdf da norma Lei Ordinária-EXE nº 1.847, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/86/anexo_lei_orcamentaria_anual_-_loa_2024.pdf",
+      "ano": 2023,
+      "norma": 3069
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/87/loa_01.pdf da norma Lei Ordinária-EXE nº 1.847, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/87/loa_01.pdf",
+      "ano": 2023,
+      "norma": 3069
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/88/loa.pdf da norma Lei Ordinária-EXE nº 1.847, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/88/loa.pdf",
+      "ano": 2023,
+      "norma": 3069
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/89/emenda_modificativa_no_025-2023_ao_projeto_lei_1811_-_lei_1847-2023.pdf da norma Lei Ordinária-EXE nº 1.847, de 20 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2023/89/emenda_modificativa_no_025-2023_ao_projeto_lei_1811_-_lei_1847-2023.pdf",
+      "ano": 2023,
+      "norma": 3069
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/90/arcomparativo_receita_despesa_fonte_recurso_ppa.pdf da norma Lei Ordinária-EXE nº 1.902, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/90/arcomparativo_receita_despesa_fonte_recurso_ppa.pdf",
+      "ano": 2024,
+      "norma": 3333
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/91/ardespesa_categoria_economica_ppa_exe.pdf da norma Lei Ordinária-EXE nº 1.902, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/91/ardespesa_categoria_economica_ppa_exe.pdf",
+      "ano": 2024,
+      "norma": 3333
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/92/ardetalhamento_ppa_exe.pdf da norma Lei Ordinária-EXE nº 1.902, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/92/ardetalhamento_ppa_exe.pdf",
+      "ano": 2024,
+      "norma": 3333
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/93/arprograma_acao_funcao_subfuncao_ppa_exe.pdf da norma Lei Ordinária-EXE nº 1.902, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/93/arprograma_acao_funcao_subfuncao_ppa_exe.pdf",
+      "ano": 2024,
+      "norma": 3333
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/94/arreceita_categoria_economica_ppa_exe.pdf da norma Lei Ordinária-EXE nº 1.902, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/94/arreceita_categoria_economica_ppa_exe.pdf",
+      "ano": 2024,
+      "norma": 3333
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/95/publicacao_dos_anexos_no_d.o._amm.pdf da norma Lei Ordinária-EXE nº 1.902, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/95/publicacao_dos_anexos_no_d.o._amm.pdf",
+      "ano": 2024,
+      "norma": 3333
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/96/ardespesa_categoria_economica_ldo_exe.pdf da norma Lei Ordinária-EXE nº 1.903, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/96/ardespesa_categoria_economica_ldo_exe.pdf",
+      "ano": 2024,
+      "norma": 3334
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/97/ardetalhamento_anexo_meta_pri_ldo.pdf da norma Lei Ordinária-EXE nº 1.903, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/97/ardetalhamento_anexo_meta_pri_ldo.pdf",
+      "ano": 2024,
+      "norma": 3334
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/98/ardetalhamento_ldo_exe.pdf da norma Lei Ordinária-EXE nº 1.903, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/98/ardetalhamento_ldo_exe.pdf",
+      "ano": 2024,
+      "norma": 3334
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/99/arprograma_acao_funcao_subfuncao_ldo_exe.pdf da norma Lei Ordinária-EXE nº 1.903, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/99/arprograma_acao_funcao_subfuncao_ldo_exe.pdf",
+      "ano": 2024,
+      "norma": 3334
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/100/arreceita_categoria_economica_ldo__-_ldo.pdf da norma Lei Ordinária-EXE nº 1.903, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/100/arreceita_categoria_economica_ldo__-_ldo.pdf",
+      "ano": 2024,
+      "norma": 3334
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/101/publicacao_anexo_d.o._da_amm_-_06-01-2025.pdf da norma Lei Ordinária-EXE nº 1.903, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/101/publicacao_anexo_d.o._da_amm_-_06-01-2025.pdf",
+      "ano": 2024,
+      "norma": 3334
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/102/publicacao_dos_anexos_no_d.o._amm.pdf da norma Lei Ordinária-EXE nº 1.903, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/102/publicacao_dos_anexos_no_d.o._amm.pdf",
+      "ano": 2024,
+      "norma": 3334
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/103/aranexo_orcamento_1.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/103/aranexo_orcamento_1.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/104/aranexo_orcamento_2.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/104/aranexo_orcamento_2.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/105/aranexo_orcamento_2_1.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/105/aranexo_orcamento_2_1.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/106/aranexo_orcamento_6.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/106/aranexo_orcamento_6.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/107/aranexo_orcamento_7.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/107/aranexo_orcamento_7.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/108/aranexo_orcamento_8.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/108/aranexo_orcamento_8.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/109/aranexo_orcamento_9.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/109/aranexo_orcamento_9.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/110/arcomparativo_receita_despesa_fonte_recurso.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/110/arcomparativo_receita_despesa_fonte_recurso.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/111/arconferencia_receita_proposta_loa.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/111/arconferencia_receita_proposta_loa.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/112/ardemonstrativo_compatibilidade_programacao.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/112/ardemonstrativo_compatibilidade_programacao.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/113/ardemonstrativo_despesa_orcada_por_programa.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/113/ardemonstrativo_despesa_orcada_por_programa.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 114,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/114/arrdemonstrativo_despesa_funcao_subfuncao.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/114",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/114/arrdemonstrativo_despesa_funcao_subfuncao.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/115/arrelatorio_orcamento_1.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/115/arrelatorio_orcamento_1.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/116/arrelatorio_orcamento_2.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/116/arrelatorio_orcamento_2.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/117/arrelatorio_orcamento_3.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/117/arrelatorio_orcamento_3.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/118/arrelatorio_orcamento_5.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/118/arrelatorio_orcamento_5.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 119,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/119/arrelatorio_orcamento_7.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/119",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/119/arrelatorio_orcamento_7.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 120,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/120/arrelatorio_orcamento_8_1.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/120",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/120/arrelatorio_orcamento_8_1.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/121/publicacao_dos_anexos_no_d.o._amm.pdf da norma Lei Ordinária-EXE nº 1.904, de 30 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2024/121/publicacao_dos_anexos_no_d.o._amm.pdf",
+      "ano": 2024,
+      "norma": 3335
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/122/errata_da_lei_complementar_no235-2025.pdf da norma Lei Complementar-EXE nº 235, de 02 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "Errata  da Lei Complementar nº 235-2025",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2025/122/errata_da_lei_complementar_no235-2025.pdf",
+      "ano": 2025,
+      "norma": 3510
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/123/anexo_lei_1971.pdf da norma Lei Ordinária nº 1.971, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2026/123/anexo_lei_1971.pdf",
+      "ano": 2026,
+      "norma": 3551
+    },
+    {
+      "id": 125,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/125/anexo_lei_1973.pdf da norma Lei Ordinária nº 1.973, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/125",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2026/125/anexo_lei_1973.pdf",
+      "ano": 2026,
+      "norma": 3553
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/128/anexo_lei_1972_compressed.pdf da norma Lei Ordinária nº 1.972, de 09 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2026/128/anexo_lei_1972_compressed.pdf",
+      "ano": 2026,
+      "norma": 3552
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/129/publicaccao_do_decreto_legislastivo_no_004-2025.pdf da norma Decreto Legislativo-EXE nº 4, de 15 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Decreto Municipal nº 004-2025.",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2025/129/publicaccao_do_decreto_legislastivo_no_004-2025.pdf",
+      "ano": 2025,
+      "norma": 3542
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/130/ccf_000679.pdf da norma Lei Ordinária nº 1.992, de 27 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "Errata de numeração da Lei. \r\nLia-se: Lei nº 1988, de 27 de abril de 2026\r\nLeia-se: Lei nº 1992, de 27 de abril de 2026",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2026/130/ccf_000679.pdf",
+      "ano": 2026,
+      "norma": 3635
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/131/ccf_000681.pdf da norma Lei Ordinária nº 1.993, de 27 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "Errata de numeração da Lei. \r\nLia-se: Lei nº 1989, de 27 de abril de 2026\r\nLeia-se: Lei nº 1993, de 27 de abril de 2026",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2026/131/ccf_000681.pdf",
+      "ano": 2026,
+      "norma": 3636
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/132/errata_a_portaria_no_024-2026.pdf da norma Portaria-SECRCMAB nº 24, de 30 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "\"Altera dispositivo da Portaria nº 024/2026, que concede férias regulamentares à Servidora Claudia Paixão Iora, e dá outras providências.\"",
+      "anexo_arquivo": "http://sapl.aguaboa.mt.leg.br/media/sapl/public/anexonormajuridica/2026/132/errata_a_portaria_no_024-2026.pdf",
+      "ano": 2026,
+      "norma": 3658
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/5e05f39cab7e112bae7c253e1553442a856fc538b709bb375d6dc7d1adcd0149.json",
+      "url": "https://sapl.aguaboa.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.aguaboa.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1ac20a55c7b7aff5ab31888f108f5caedfd4e2ece89680c95497f19d2fbae2aa",
+      "bytes": 42763,
+      "capturado_em": "2026-10-21T04:59:51.784294-03:00"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aguaboa.mt.leg.br/eb810440af2b8ee64e3e8f8216611d577422d069472514cc34f5463acc41a989.json",
+      "url": "https://sapl.aguaboa.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "url_final": "https://sapl.aguaboa.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "21e2479157f1d77eec2984cdfb4d89e3a440290c6401d448c8572672e16b4de5",
+      "bytes": 11428,
+      "capturado_em": "2026-10-21T04:59:53.132952-03:00"
+    }
+  ]
+}

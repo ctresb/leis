@@ -1,0 +1,17 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.aliancadotocantins.to.leg.br/a7c1dcc5fb23194eb4e5fc724d56649b31fa9f786c4eef9fa90faa301aadb5ab.json",
+      "url": "https://sapl.aliancadotocantins.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.aliancadotocantins.to.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-21T05:24:09.537512-03:00"
+    }
+  ]
+}

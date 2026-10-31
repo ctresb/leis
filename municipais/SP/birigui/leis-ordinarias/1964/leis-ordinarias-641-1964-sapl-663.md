@@ -1,0 +1,129 @@
+---
+titulo: "Lei Ordinária nº 641, de 02 de dezembro de 1964"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "641"
+data: "1964-12-02"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/663"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1050/text"
+sha256_fonte: "4db23546bed49b78bf24826e7046bdbe81d74ebbff7d90b97ea726b6afadc30a"
+sha256_texto: "a75daa28f384de7a4aa40a006983428577f514092a9a4db1e4474fc51be110fb"
+capturado_em_fonte: "2026-10-27T19:34:48.941833-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 641, de 02 de dezembro de 1964
+
+DISPÕE SOBRE UM EMPRÉSTIMO DE Cr$ 74.085.220,00 A SER CONTRAÍDO COM A CAIXA ECONÔMICA DO ESTADO DE SÃO PAULO.
+
+
+Eu, **MARIO CRÊM DOS SANTOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Prefeitura Municipal autorizada a contrair com a Caixa Econômica do Estado de São Paulo, um empréstimo até a importância de Cr$ 74.085.220,00 (setenta e quatro milhões, oitenta e cinco mil, duzentos e vinte cruzeiros), destinado, parte constituída de Cr$ 55.000.000,00 (cinquenta e cinco milhões de cruzeiros) a execução do serviço de abastecimento de água da sede do Município, de acordo com os estudos e projetos elaborados sob a orientação técnica do Departamento de Obras Sanitárias, da Secretaria dos Serviços e Obras Publicas do Estado, e Cr$ 19.085.220,00 (dezenove milhões, oitenta e cinco mil, duzentos e vinte cruzeiros) ao custeio da taxa de expediente instituída pela Resolução nº CEESP.CA-6/64.
+
+
+Art. 2º.
+
+Fica expressamente autorizada a inclusão no contrato que for celebrado, de todas as cláusulas e condições adotadas em operações dessa natureza e, de modo especial, as seguintes:
+
+
+a)
+
+prazo máximo de 10 (dez) anos, com resgate em prestações mensais de juros e amortização pela Tabela-Price, vencendo-se a primeira prestação 30 (trinta) dias após a entrega da ultima parcela do empréstimo;
+
+
+b)
+
+juros de 12%,(doze por cento) ao ano, contados sobre as importâncias em debito, sujeites a majoração de 1% (um por cento) na falta de pagamento, nos prazos estipulados das prestações de juros ou de amortização do emprést1imo, vigorando o aumento durante o período de atraso;
+
+
+c)
+
+garantia das rendas provenientes das taxas dos serviços de abastecimento de água e das demais rendas do Município, inclusive o excesso de arrecadação devido pelo Estado, nos termos do Artigo 67 da Constituição do Estado de São Paulo, 50% (cinquenta por cento) da quota de que trata o Artigo 15, § 4º, da Constituição Federal, e as quotas do Imposto de Consumo a serem entregues pela União;
+
+
+d)
+
+multa de 19% (dez por cento) sobre o montante do débito, para atender às despesas de execução judicial, no caso de inadimplemento do contrato por qualquer das partes.
+
+
+Art. 3º.
+
+As leis orçamentárias consignarão verbas especiais para o pagamento de juros e amortização do financiamento, que será custeado com as rendas dos próprios serviços e subsidiariamente com as demais rendas municipais.
+
+
+Art. 4º.
+
+Para o efeito da garantia mencionada na alínea “c”, parte inicial, do Artigo 2º, são fixados acréscimos de taxas mensais que passarão a ser arrecadadas desde que os serviços sejam postos a disposição dos beneficiários e periodicamente ajustadas às necessidades do custeio e conservação, mediante estudo econômico e financeiro. A Prefeitura Municipal depositará na Agência local da Caixa Econômica do Estado de São Paulo, em conta aberta em nome do Município, o produto total da taxa de abastecimento de água em cada exercício, a medida que for sendo arrecadadas, liberando-se o que exceder aos encargos financeiros contratuais de cada exercício, creditando a Caixa os juros normais sobre os saldos eventualmente existentes e apurados mês a mês; a credora é autorizada a transferir da referida conta as importâncias necessárias para satisfação das prestações mensais de juros e de amortização do principal e juros, no dia imediato ao dos respectivos vencimentos.
+
+
+Parágrafo único
+
+A taxa média mensal remuneratória do serviço de abastecimento de água, cobrada com base nas leis municipais vigentes, deverá ser regulamentada por Decreto, pelo feder Executivo, no máximo até que se verifique a integralização do presente empréstimo, sendo acrescida de Cr$ 106,30 (cento e seis cruzeiros e trinta centavos) por ligação domiciliar.
+
+
+Art. 5º.
+
+Para cumprimento e efetivação da garantia de que trata a alínea “c”, partes média e final, do Artigo 2º, fica a Prefeitura Municipal autorizada a conferir à Caixa Econômica do Estado de São Paulo, em caráter irrevogável e exclusivo, os poderes necessários para o recebimento da contribuição de que trata o Artigo 67 da Constituição Estadual, a contribuição da quota de que trata o Artigo 15, § 4º, da Constituição Federal, e para o recebimento das quotas do Imposto de Consumo atribuídas pela União, devendo a Caixa entregar ao Município o total das quotas que receber, ou o saldo respectivo, na hipótese de atraso no pagamento das prestações do empréstimo.
+
+
+Art. 6º.
+
+Fica igualmente a Prefeitura Municipal autorizada a contratar a execução das obras, observadas as condições que forem estipuladas na escritura de concessão do empréstimo.
+
+
+Parágrafo único
+
+O contrato respectivo obedecerá à minuta adotada para os serviços dessa natureza, e as obras serão executadas sob a direção técnica e fiscalização do Departamento de Obras Sanitárias da Secretaria dos Serviços e Obras Públicas do Estado, em regime que melhor consulte os interesses do Município, obedecendo as especificações constantes do orçamento já elaborado.
+
+
+Art. 7º.
+
+Fica aberto na Contadoria Municipal um crédito especial de Cr$ 9.800.000,00 (nove milhões e oitocentos mil cruzeiros), com vigência de 13 (treze) meses para ocorrer as despesas de escritura e outras decorrentes da contratação do empréstimo autorizado no Artigo 1º, inclusive ao pagamento dos juros, sobre as importâncias que forem devidas à Caixa Econômica do Estado de São Paulo, referentes ao mesmo empréstimo.
+
+
+Parágrafo único
+
+O valor do presente crédito será coberto com o excesso de arrecadação a se verificar e operações de crédito que o Poder Executivo fica autorizado a efetuar.
+
+
+Art. 8º.
+
+Fica igualmente aberto na Contadoria Municipal, crédito especial de Cr$ 74.085.220,00 (setenta e quatro milhões, oitenta e cinco mil, duzentos e vinte cruzeiros), com vigência de 2 (dois) anos, a partir da assinatura do contrato de empréstimo autorizado pela presente lei.
+
+
+§ 1º
+
+O valor do presente crédito será empregado exclusivamente na execução do serviço de abastecimento de água e no custeio da “taxa de expediente”, nos termos do Artigo 1º desta lei.
+
+
+§ 2º
+
+O presente crédito será coberto com o recurso previsto na operação financeira autorizada pelo Artigo 1º da presente lei.
+
+
+Art. 9º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos dois de dezembro de mil novecentos e sessenta e quatro.
+
+**MARIO CRÊM DOS SANTOS Prefeito Municipal**
+
+Publicada na Seção do Expediente e do Pessoal da Prefeitura, aos (2) dois de dezembro de mil novecentos e sessenta e quatro (1964), e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Assistente Administrativo da Seção de Expediente e do Pessoal da Prefeitura**
+

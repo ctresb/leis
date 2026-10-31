@@ -1,0 +1,17 @@
+{
+  "lotes": [
+    {
+      "manifesto": "municipais/_lotes/20261020-sapl-decorativos-revisados-acumulados-004/lote-0001.json",
+      "sha256_manifesto": "e6182c107502091e70f0147b2b506e0cdca22593d24d27f2c2f4edf4f37b93a5",
+      "lista": "municipais/_lotes/20261020-sapl-decorativos-revisados-acumulados-004/lote-0001.paths.txt",
+      "sha256_lista": "d20d7f0887419457969e038b7e7fb715df282c53ec9517ecf777f9ce808428ed",
+      "aprovados": 938
+    }
+  ],
+  "aprovados": 938,
+  "retidos": 2793,
+  "criterio": "Libera só PDFs já integrais cujas imagens exatas receberam revisão visual.",
+  "sha256_controle_imagens": "6bb9b3e38ed1909270eb6dac4a4fa86316849977e1724388f459b72aa781e088",
+  "sha256_catalogo": "712573717d35712d2aedffc4e215f8237911135beb5dd313f35ba90b10aeffc3",
+  "script_sha256": "17def7e477a31485f466dfbb4debfb8ac3e5cf96f4a6d9be890cb63ef68abae1"
+}

@@ -1,0 +1,185 @@
+---
+titulo: "Lei Ordinária nº 3.502, de 09 de março de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3502"
+data: "2020-03-09"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2023-06-21; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/82"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/85/text"
+sha256_fonte: "27e384c416097ad59aafcbab306cba2004d6eae3649ecbfbafb621c3480cec8f"
+sha256_texto: "5b0bb149e58a503c594681cb6edce4fa3240cbe8948194839178b308d43e664b"
+capturado_em_fonte: "2026-10-27T21:34:56.315913-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.502, de 09 de março de 2020
+
+Dispõe sobre a criação do Programa Bolsa Cidadã, revoga a Lei nº 3.020 de 05 de novembro de 2014 e a Lei nº 3.221 de 11 de julho de 2017 e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica Instituído no âmbito do Município do Cabo de Santo Agostinho/PE, o Programa Bolsa Cidadã, a ser executado sob a coordenação, supervisão e avaliação da Secretaria Municipal de Programas Sociais – SMPROS, para famílias em situação de vulnerabilidade social e/ou situação de risco social e pessoal, e que comprovem residência no município de no mínimo 01 (um) ano.
+
+
+§ 1º
+
+O programa será monitorado por comissão formada pelas titulares das gerências de Benefícios Socioassistenciais e Transferência de Renda; Proteção Especial de Média e Alta Complexidade e Proteção Social Básica, nomeada através de portaria a ser expedida pela Secretaria Municipal de Programas Sociais – SMPROS.
+
+
+§ 2º
+
+A comissão terá por finalidade a operacionalização e acompanhamento do cumprimento das condicionalidades estabelecidas por esta lei para ingresso e permanência no programa.
+
+
+§ 3º
+
+O recadastramento das famílias ocorrerá periodicamente, sendo ao menos a cada 02 (dois) anos.
+
+
+Art. 2º.
+
+Todas as famílias a serem beneficiadas com o Programa, deverão estar devidamente inscritas no Cadastro Único de Assistência Social – CAD ÚNICO, mantendo-se atualizados seus dados cadastrais e cumprindo as condicionalidades exigidas.
+
+
+Art. 3º.
+
+O Programa Bolsa Cidadã, criado por esta Lei, tem como objetivos:
+
+
+I –
+
+Prestar assistência social às famílias do Cabo de Santo Agostinho/PE, que se encontram em situação de vulnerabilidade social e/ou situação de risco social e pessoal, de acordo com o Parecer e Relatório Social efetivado por técnicos sociais da Secretaria Municipal de Programas Sociais;
+
+
+II –
+
+Ampliar as possibilidades de elevação dos níveis de qualidade de vida e, consequentemente, de melhoria do índice de Desenvolvimento das Famílias no Cabo de Santo Agostinho/PE, por intermédio de transferência de renda;
+
+
+III –
+
+Minimizar os índices de evasão e repetência nas Escolas Públicas de Ensino Regular ou Supletivo; envolvendo os dependentes das famílias beneficiárias deste Programa;
+
+
+IV –
+
+Implementar as formas de incentivo e garantias, para que o cronograma de vacinação das crianças seja regularmente cumprido;
+
+
+V –
+
+Garantir a participação dos usuários nos equipamentos socioassistenciais do município, a fim de estimular a integração familiar e comunitária;
+
+
+VI –
+
+Construir mecanismos de monitoramento, participação e avaliação contínua do Programa envolvendo técnicos sociais e beneficiários.
+
+
+Art. 4º.
+
+Serão contemplados com a execução do Programa Bolsa Cidadã, por meio de concessão de transferência de renda, famílias residentes no Município do Cabo de Santo Agostinho, que se encontram em situação de vulnerabilidade social e/ou situação de risco social e pessoal, de acordo com relatório e parecer social, inseridos no Cadastro Único da Assistência Social do governo federal, que possuam renda per capita mensal de até ¼ (um quarto) do salário mínimo vigente.
+
+
+Art. 5º.
+
+O Programa atenderá até 2.000 (dois mil) famílias/mês, podendo o Poder Executivo reduzir o número de beneficiários, conforme disponibilidade orçamentária.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.610, de 20 de abril de 2021.
+
+
+Art. 6º.
+
+O valor do benefício a ser repassado pelo Programa Bolsa Cidadã será de R$ 250,00 (duzentos e cinquenta reais) por família, em situação de extrema pobreza, sendo vedado o acúmulo com outros benefícios assistenciais, quer seja municipal, estadual ou federal, respeitando os requisitos dispostos na Lei Orgânica da Assistência Social - LOAS Nº8.742/1993.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 3.854, de 21 de junho de 2023.
+
+
+Art. 7º.
+
+A Secretaria Municipal de Programas Sociais – SMPROS, realizará periodicamente recadastramento de todos os beneficiários, a fim de acompanhar e fiscalizar o preenchimento dos requisitos exigidos por esta Lei, sempre mediante Relatório Social.
+
+
+Art. 8º.
+
+O benefício será pago às famílias, mensalmente, por meio de cartão magnético a ser expedido por instituição financeira oficial.
+
+
+Parágrafo único
+
+A instituição financeira poderá expedir extratos bancários especificando os valores concedidos pela Prefeitura Municipal do Cabo de Santo Agostinho/PE.
+
+
+Art. 9º.
+
+As famílias beneficiárias do Programa Bolsa Cidadã deverão preencher os requisitos de permanência, que ficarão sujeitas às condicionalidades de educação, saúde e assistência social, sob pena de suspensão e cancelamento do benefício, de acordo com o que preconizam esta Lei e as demais normas regulamentadoras vigentes que permeiam a execução do referido Programa Municipal.
+
+
+§ 1º
+
+Nos casos em que o beneficiário tenha dependentes menores de 18 (dezoito) anos, deverá apresentar declaração de frequência escolar de no mínimo 75% (setenta e cinco por cento) e carteira de vacinação atualizada.
+
+
+§ 2º
+
+As famílias beneficiárias devem ser referenciadas e acompanhadas através do Serviço de Proteção e Atendimento Integral à Família - PAIF ou demais programas, projetos e serviços socioassistenciais desenvolvidos nos respectivos Centro de Referência da Assistência Social - CRAS de abrangência.
+
+
+Art. 10.
+
+O prazo de permanência no Programa Bolsa Cidadã será de 2 (dois) anos, podendo ser prorrogado por mais 2 (dois) anos em casos excepcionais, devidamente avaliados pela Secretaria de Programas Sociais – SMPROS, através de Relatório Social fundamentado.
+
+
+Parágrafo único
+
+Caso persista a situação de vulnerabilidade e/ou risco social e pessoal mencionados, o benefício poderá ser mantido a fim de garantir o acesso aos mínimos sociais, sempre mediante prévia avaliação e parecer social.
+
+
+Art. 11.
+
+Os recursos para a realização do Programa Bolsa Cidadã serão consignados na dotação do Órgão Orçamentário da Secretaria Municipal de Programas Sociais – SMPROS, da Unidade Orçamentária do Fundo Municipal de Assistência Social.
+
+
+Art. 12.
+
+Fica revogada as Leis nº 3.020 de 05 de novembro de 2014 e nº 3.221.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**Palácio Conde da Boa Vista, em 09 de março de 2020.**
+
+***LUIZ CABRAL DE OLIVEIRA FILHO***
+
+Prefeito
+
+Chancelas:
+
+***OSVIR GUIMARÃES THOMAZ***
+
+Secretário Municipal de Assuntos Jurídicos ( SMAJ ).
+
+***EDNA GOMES DA SILVA***
+
+Secretária Municipal de Programas Sociais (SMPROS)
+
+“Lei decorrente do Projeto de Lei à Sanção nº 016/2020 de autoria do Poder Executivo”.
+
+**Publicado por:**  
+Felipe Duque Sampaio  
+**Código Identificador:**ABE074B6
+

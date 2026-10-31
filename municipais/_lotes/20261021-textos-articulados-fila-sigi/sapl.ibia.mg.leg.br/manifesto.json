@@ -1,0 +1,42 @@
+{
+  "host": "sapl.ibia.mg.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibia.mg.leg.br/cc06609099f95df9ac5238abd3169cc8781ab9b54add6a307d78c908d9f22125.json",
+    "url": "https://sapl.ibia.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.ibia.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T13:43:31.245317-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibia.mg.leg.br/ece7f6209b385108d09aa3ee00f2605af8c748bef882b20eb667e622e078c75a.json",
+    "url": "https://sapl.ibia.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.ibia.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "e6f8c832d41b8395a76a3de0e29c82032f7b277cba42ded4f38599c3707e40b6",
+    "bytes": 702,
+    "capturado_em": "2026-10-28T13:43:30.314317-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.ibia.mg.leg.br/8008098d2a19510ea731a67a4a008fbfedaed51fc322371217355bc58e61e993.json",
+      "url": "https://sapl.ibia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.ibia.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a7cd00eba88a18d3a21cef256daebea4c464c6e105bc053dc6315b0b3987b275",
+      "bytes": 1337,
+      "capturado_em": "2026-10-28T13:43:33.252650-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

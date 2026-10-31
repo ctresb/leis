@@ -1,0 +1,74 @@
+---
+titulo: "DECRETO MUNICIPAL Nº 0062/2026 - NOMEAR, EM"
+uf: "PA"
+municipio: "ITAITUBA"
+tipo: "Decreto"
+numero: "0062"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 23/01/2026"
+data_publicacao: 2026-01-23
+codigo_identificador: "1BA1B2EE"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117003_2026-01-22_db97f167ef0428322d3141e760cb972b.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO MUNICIPAL Nº 0062/2026 - NOMEAR, EM
+
+DECRETO MUNICIPAL Nº 0062/2026 - NOMEAR, EM
+CARÁTER EFETIVO, PARA EXERCER AS FUNÇÕES DO
+CARGO DE CARGO: 057 – AUXILIAR DE SECRETARIA
+ESCOLAR – REGIÃO SANTARÉM/CUIABÁ, OS
+SERVIDORES CONFORME LISTAGEM ANEXA.
+DECRETO MUNICIPAL Nº 0062/2026
+NICODEMOS ALVES DE AGUIAR, Prefeito Municipal de
+Itaituba, Estado do Pará,no uso de suas atribuições legais e
+Constitucionais, etc.,
+Considerandoo que dispõe a Lei Municipal nº 2485/12, de 19 de
+setembro de 2012, e suas alterações, que dispõe sobre o Plano de
+Cargos, Carreiras e Remuneração dos Trabalhadores da Educação
+Pública do Município de Itaituba;
+
+www.diariomunicipal.com.br/famep
+
+60
+
+Pará , 23 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3928
+D E C R E T A:
+
+Cumpra-se.
+
+Artigo 1º - NOMEAR,a partir de 22 de janeiro de 2026, em caráter
+efetivo, para exercer as funções do cargo deCargo: 057 – Auxiliar de
+Secretaria Escolar – Região Santarém/Cuiabá,Classe/Nível: A/III,
+do GRUPO OCUPACIONAL DE APOIO ADMINISTRATIVO
+EDUCACIONAL, do quadro permanente do Plano de Cargos,
+Carreira e Remuneração dos Trabalhadores da Educação Pública do
+Município de Itaituba, com lotação naSECRETARIA MUNICIPAL
+DE EDUCAÇÃO,face a habilitação em Concurso Público Edital nº
+001/2024.
+
+GABINETE DO PREFEITO MUNICIPAL DE ITAITUBA,
+ESTADO DO PARÁ, em16 de janeiro de 2026.
+
+Classificados
+Aline Stefane de Sousa Albino
+Ana Maria Silva Queiroz
+
+Colocação
+1º
+2º
+
+Artigo 2º -Este Decreto entrará em vigor na data de sua publicação,
+revogadas as disposições em contrário.
+Dê-se Ciência,
+Publique-se,
+
+GABINETE DO PREFEITO MUNICIPAL DE ITAITUBA,
+ESTADO DO PARÁ, em16 de janeiro de 2026.
+NICODEMOS ALVES DE AGUIAR
+Prefeito Municipal
+
+Publicado por:
+Jane Eire Silva Botelho

@@ -1,0 +1,26 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "municipais/_lotes/20261021-acari1298-listas-nativas-diagnostico/diagnostico.json",
+      "sha256": "e6885e9eab16a2a63e519b1bf13d814eed28b7046e47d990bba14cf1d600f633",
+      "bytes": 3789
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-acari1298-listas-nativas-diagnostico/preimagem-retida.md",
+      "sha256": "6d69911ff5df17c21c4e75db1f0e787c84a6a6d589fab694b9b96d44dd8a6377",
+      "bytes": 49710
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/255139d65d07c0e84e7c01e9882c59edd5f3bfb2cb83a415b49c02e798f78e59.html",
+      "sha256": "ae3a05522146477c8c742dfcc21ff691aaa49e04f384ed146b9bb99bb3a358bc",
+      "bytes": 143615
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.acari.rn.leg.br/255139d65d07c0e84e7c01e9882c59edd5f3bfb2cb83a415b49c02e798f78e59.meta.json",
+      "sha256": "b1a8560b55b9b45386c3dcdf2c269b18fd98a8da8fe069239e8ae297b1a87e3a",
+      "bytes": 327
+    }
+  ],
+  "estado": "retido",
+  "normas_aptas": 0
+}

@@ -1,0 +1,641 @@
+O PREFEITO DO MUNICÍPIO DE GUARUJÁ DO SUL, Estado de Santa Catarina, no uso de suas atribuições legais que lhe são conferidas, faz saber a todos os habitantes deste Município que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica aprovado o Estudo Técnico Socioambiental - ETSA do Município de Guarujá do Sul/SC que compõe o Anexo único desta Lei, com o objetivo de delimitar as áreas urbanas consolidadas (AUC) e as áreas de risco, estabelecer medidas para a regularização ambiental e das edificações situadas em área urbana consolidada, nos moldes da Lei Federal nº 12.651 de 25 de maio de 2012 e da Lei Federal nº 14.285 de 29 de dezembro de 2021.
+
+
+Art. 2º.
+
+Para os fins desta Lei, considera-se:
+
+
+I –
+
+Estudo Técnico Socioambiental (ETSA): é o instrumento técnico capaz de proporcionar os dados necessários a um diagnóstico e a um prognóstico, constituindo-se como um pressuposto procedimental para a realização da regularização fundiária de determinada região, além de diagnosticar as condições socioambientais existentes, com embasamento técnico, prognosticará as medidas adequadas à melhoria da habitabilidade, à administração, correção ou eliminação de risco e à recuperação de áreas degradadas e daquelas não passíveis de regularização;
+
+
+II –
+
+Área de Preservação Permanente (APP): área protegida, coberta ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade, facilitar o fluxo gênico de fauna e flora, proteger o solo e assegurar o bem-estar das populações humanas;
+
+
+III –
+
+Área Urbana Consolidada (AUC): Área que atenda, de forma cumulativa, aos seguintes critérios:
+
+
+a)
+
+estar incluída no perímetro urbano ou em zona urbana pelo plano diretor ou por lei municipal específica;
+
+
+b)
+
+dispor de sistema viário implantado;
+
+
+c)
+
+estar organizada em quadras e lotes predominantemente edificados;
+
+
+d)
+
+apresentar uso predominantemente urbano, caracterizado pela existência de edificações residenciais, comerciais, industriais, institucionais, mistas ou direcionadas à prestação de serviços;
+
+
+e)
+
+dispor de, no mínimo, 2 (dois) dos seguintes equipamentos de infraestrutura urbana implantados:
+
+
+1
+
+Drenagem de águas pluviais;
+
+
+2
+
+Esgotamento sanitário;
+
+
+3
+
+Abastecimento de água potável;
+
+
+4
+
+Distribuição de energia elétrica e iluminação pública; e
+
+
+5
+
+Limpeza urbana, coleta e manejo de resíduos sólidos;
+
+
+IV –
+
+Curso d’água/Curso Hídrico: fluxo de água natural, não exclusivamente dependente do escoamento superficial da vizinhança imediata, com a presença de uma ou mais nascentes, correndo em leito entre margens visíveis, com vazão contínua, desembocando em curso de água maior, lago ou mar, podendo também desaparecer sob a superfície do solo. São também considerados cursos de água a corrente, o ribeirão, a ribeira, o regato, o arroio, o riacho, o córrego, o boqueirão, a sanga e o lajeado;
+
+
+V –
+
+Canalização (seção aberta e/ou fechada): modificação ou alteração da seção de um curso d’água, podendo ser a céu aberto (canais) ou de contorno fechado (galerias), normalmente com seções geométricas trapezoidal, retangular ou circular, e revestidos com terra, enrocamento (rachão), pedra argamassada, concreto, gabião, terra armada, entre outros;
+
+
+VI –
+
+Nascente - afloramento natural do lençol freático que apresenta perenidade e dá início a um curso d’água;
+
+
+VII –
+
+Calha do leito regular - largura de curso d’água, por onde correm regularmente as águas durante o ano;
+
+
+VIII –
+
+Construção - obra de engenharia civil visando a concepção de nova edificação, mediante projeto previamente aprovado e licença específica emitida por parte da Municipalidade;
+
+
+IX –
+
+Ampliação - obra de engenharia civil visando o aumento da área construída de edificação existente, mediante projeto previamente aprovado e licença específica emitida por parte da Municipalidade;
+
+
+X –
+
+Reforma - obra de engenharia civil em construção existente, sem ampliação da área construída, em que se alteram ou modificam os elementos geométricos e sistema estrutural, visando adaptação de novo uso, ou aumento de seu valor locativo, mediante alteração da posição dos cômodos, substituição dos materiais de acabamento ou remanejamento de estruturas, mediante projeto previamente aprovado e licença específica emitida por parte da Municipalidade;
+
+
+XI –
+
+Reparo - serviço de engenharia civil em construção existente que independe de licença expedida pela Municipalidade, visando reparar acabamentos ou conservar as instalações deterioradas em consequência do tempo, ação da natureza ou uso prolongado, em que não se alteram ou modificam os elementos geométricos e sistema estrutural. São exemplos de reparos os serviços de pintura, consertos em pisos, forros e paredes, substituição de esquadrias, rebaixamento de meio-fio e consertos de pavimentação;
+
+
+XII –
+
+Faixa não edificável - faixa vedada para edificação de qualquer construção, reforma e/ou ampliação, ao longo dos cursos d'água, lagos, lagoas e açudes;
+
+
+XIII –
+
+Área de risco - é aquela passível de ser atingida por processos naturais e/ou induzidos que causem efeito adverso, de forma que as pessoas que habitam essas áreas estão sujeitas a danos à integridade física, perdas materiais e patrimoniais;
+
+
+XIV –
+
+Projeto de Recuperação de Área Degradada ou alterada (PRAD) - instrumento de planejamento das ações de recuperação ou recomposição da vegetação nativa, contendo metodologias, cronogramas e insumos;
+
+
+XV –
+
+compensação ecológica - é um mecanismo que visa contrabalançar os impactos ambientais previstos ou já ocorridos na implantação das edificações; é uma espécie de reparação pela degradação realizada, retornando recursos naturais ao ambiente, ou como uma forma de prevenção ao dano ambiental; podendo ser aplicada na área de influência direta (interna ao lote) ou indireta (em área a ser sugerida pela Municipalidade);
+
+
+XVI –
+
+Medida mitigadora pecuniária - consiste na imposição de compensação financeira, visando mitigar os efeitos de um impacto negativo identificado, com objetivo de repor indiretamente bens socioambientais perdidos;
+
+
+XVII –
+
+Áreas de Restrição Ambiental - áreas de restrição à ocupação que objetivam a proteção dos mananciais e a preservação, conservação e recuperação dos recursos naturais;
+
+
+XVIII –
+
+Áreas Úmidas - pantanais e superfícies terrestres cobertas de forma periódica por águas, cobertas originalmente por florestas ou outras formas de vegetação adaptadas à inundação, que podem ou não ter a presença de nascentes difusas.
+
+
+#### CAPÍTULO II — DAS NOVAS ÁREAS DE PRESERVAÇÃO PERMANENTE – APPS
+
+
+Art. 3º.
+
+Consideram-se novas Área de Preservação Permanente (APPs) em Área Urbana Consolidada (AUC), para efeitos desta Lei, as faixas marginais de qualquer curso d’água natural, perene e intermitente, excluídos os efêmeros, desde a borda da calha do leito regular, em largura definida por meio de Estudo Técnico Socioambiental (ETSA), conforme segue:
+
+
+a)
+
+07 (sete) metros para os cursos d’água situados dentro do perímetro urbano, na Linha Pessegueiro;
+
+
+b)
+
+12 (doze) metros para os cursos d’água situados dentro do perímetro urbano, na Sede Urbana;
+
+
+c)
+
+23 (vinte e três) metros para os cursos d’água que possuam calha de leito regular maior do que 10 (dez) metros de largura, situados dentro do perímetro urbano, na Sede Urbana.
+
+
+§ 1º
+
+Quaisquer edificações localizadas de forma parcial ou total dentro dos limites das novas APPs, estabelecidas neste artigo, serão passíveis de regularização ambiental.
+
+
+§ 2º
+
+Construções, reformas e ampliações de edificações, bem como novas obras de engenharia em geral localizadas em área urbana consolidada (AUC), deverão respeitar as novas Áreas de Preservação Permanente estabelecidas.
+
+
+§ 3º
+
+A regularização ambiental de edificações prevista no § 1º deste artigo, não se aplica em áreas com nascentes ou olhos d'água, onde prevalecem as normas de proteção específicas estabelecidas pela legislação ambiental federal.
+
+
+Art. 4º.
+
+Excetuam-se do disposto no artigo 3º desta Lei:
+
+
+I –
+
+Nos loteamentos aprovados pelo Município, a faixa marginal da Área de Preservação Permanente (APP) seguirá as definições da licença ambiental;
+
+
+II –
+
+Nas áreas no entorno das nascentes e dos olhos de água perenes, qualquer que seja sua situação topográfica, no raio mínimo de 50 (cinquenta) metros;
+
+
+III –
+
+Nas áreas não situadas em Áreas Urbanas Consolidadas (AUC), sendo que estas permanecerão condicionadas às faixas de APP determinadas na Lei 12.651/2012;
+
+
+IV –
+
+Nas áreas de restrição ambiental, não são permitidas intervenções sem a devida autorização dos órgãos ambientais competentes, devendo esta ser obtida por meio de licenciamento ambiental e/ou estudo hidrogeológico.
+
+
+§ 1º
+
+Ficam vedadas novas construções, reformas e/ou ampliações em Área de Preservação Permanente (APP) em Área Urbana Consolidada (AUC), salvo os casos de utilidade pública, de interesse social ou de baixo impacto ambiental, desde que autorizados pelo órgão ambiental competente, conforme a Lei Federal n. 12.651/2012.
+
+
+§ 2º
+
+Ficam vedadas as ocupações das encostas ou partes destas, onde a declividade seja superior a 45º (quarenta e cinco graus), equivalente a 100% (cem por cento) na linha de maior declive.
+
+
+§ 3º
+
+Nos casos em que a APP tenha sido aprovada com metragem inferior ao mínimo exigido, no caso de loteamentos que possuem licenciamento ambiental, fica estabelecida a nova faixa de APP conforme o Art. 3º desta Lei.
+
+
+#### CAPÍTULO III — DAS ÁREAS DE RESTRIÇÃO AMBIENTAL
+
+
+Art. 5º.
+
+Para os fins desta Lei, consideram-se Áreas de Restrição Ambiental as seguintes áreas:
+
+
+I –
+
+úmidas ou alagadas;
+
+
+II –
+
+açudes;
+
+
+III –
+
+barramento de cursos hídricos.
+
+
+§ 1º
+
+Para os açudes e barramentos de cursos hídricos, as definições de intervenção dar-se-ão posteriormente à autorização pelos órgãos ambientais competentes (licenciamento ambiental).
+
+
+§ 2º
+
+Nas áreas identificadas como áreas úmidas, é necessário averiguar se ocorre aporte de água subterrânea e se o corpo hídrico em apreço se trata de “afloramento natural do lençol freático” através de caracterização hidrogeológica da área na qual se enquadram essas feições. Com elaboração de modelo hidrogeológico conceitual, será possível identificar os caminhos preferenciais de fluxo da água subterrânea e elucidar se existe uma relação direta entre essa e os corpos hídricos avaliados, possibilitando sua devida caracterização como nascente ou olho d’água. Para a caracterização hidrogeológica, é imprescindível a identificação do nível da água subterrânea por meio da realização de sondagens.
+
+
+Art. 6º.
+
+Nos casos em que o local for caracterizado como área úmida, conforme estabelecido no ETSA, e for identificada através de laudo hidrogeológico, a presença de nascentes difusas, são vedadas novas edificações em um perímetro de 50 (cinquenta) metros no entorno da área em questão, sendo consideradas para fins de regularização apenas as edificações existentes.
+
+
+Parágrafo único
+
+Para a regularização das edificações descritas no caput deste artigo, deverão ser obedecidos os critérios dispostos nos capítulos V e VI desta Lei.
+
+
+#### CAPÍTULO IV — DAS ÁREAS DE RISCO
+
+
+Art. 7º.
+
+As áreas de risco estão identificadas e mapeadas no ETSA, que é parte da presente Lei, conforme setores de risco a seguir identificados:
+
+
+I –
+
+Setor de risco 01, localizado na Estrada Linha Pessegueiro, Distrito de Pessegueiro, de Risco Médio e Alto, com risco de inundação e solapamento de margem, sendo aplicadas as seguintes providências:
+
+
+a)
+
+Execução periódica da limpeza do curso d’água e das galerias de passagem, a fim de evitar problemas de assoreamento e represamento da água, que podem causar o extravasamento das águas e inundações.
+
+
+b)
+
+Monitoramento do setor em épocas de elevado índice pluviométrico, a fim de promover a evacuação da área, caso seja necessário.
+
+
+II –
+
+Setor de risco 02, localizado na Rodovia BR-163 e Loteamento Mirassol, de Risco Médio e Alto, com risco de inundação e solapamento de margem, sendo aplicadas as seguintes providências:
+
+
+a)
+
+Execução periódica da limpeza do curso d’água e das galerias de passagem, a fim de evitar problemas de assoreamento e represamento da água, que podem causar o extravasamento das águas e inundações.
+
+
+b)
+
+Avaliar a possibilidade da realização da contenção da margem nos pontos com ocorrência de processos erosivos.
+
+
+c)
+
+Monitoramento do setor em épocas de elevado índice pluviométrico, a fim de promover a evacuação da área, caso seja necessário.
+
+
+III –
+
+Setor de risco 03, localizado nas quadras entre a Rua Rui Barbosa e Rua Antônio Dillmann, no trecho compreendido entre as proximidades da Rua Rio Grande do Sul até as proximidades da Rua Octávio Diehl, de Risco Médio, com risco de inundação e solapamento de margem, sendo aplicadas as seguintes providências:
+
+
+a)
+
+Execução periódica da limpeza do curso d’água e das galerias e tubulações, a fim de evitar problemas de assoreamento e represamento da água, que podem provocar inundações.
+
+
+b)
+
+Manutenção das contenções das margens nos pontos com ocorrência de danificações.
+
+
+c)
+
+Monitoramento do setor em épocas de elevado índice pluviométrico, a fim de promover a evacuação da área, caso seja necessário.
+
+
+IV –
+
+Setor de risco 04, localizado na Avenida João Pessoa e Rua Pedro Vargas de Macedo, de Risco Médio e Alto, com risco de deslizamento planar, sendo aplicadas as seguintes providências:
+
+
+a)
+
+Realização de estudo geotécnico específico para verificar a estabilidade dos taludes de corte verticalizados situados muito próximos das moradias, buscando avaliar a necessidade de intervenções, como a instalação de muros de contenção, para evitar a ocorrência de deslizamentos nesses pontos.
+
+
+b)
+
+Por se tratar de uma região de declividade acentuada, exige-se que a construção de novas moradias e edificações somente seja autorizada com projeto e acompanhamento de profissional técnico habilitado, a fim de não aumentar a instabilidade do local devido a intervenções inadequadas.
+
+
+V –
+
+Setor de risco 05, localizado na continuação da Rua Maranhão, de Risco Médio, com risco de deslizamento planar, sendo aplicadas as seguintes providências:
+
+
+a)
+
+Por se tratar de uma região de declividade acentuada, exige-se que a construção de novas moradias e edificações somente seja autorizada com projeto e acompanhamento de profissional técnico habilitado, a fim de não aumentar a instabilidade do local devido a intervenções inadequadas.
+
+
+VI –
+
+Setor de risco 06, localizado na Rua Professor Olavo e continuação da Avenida João Pessoa, de Risco Médio e Alto, com risco de inundação, solapamento de margem e deslizamento planar, sendo aplicadas as seguintes providências:
+
+
+a)
+
+Execução periódica da limpeza do curso d’água e das galerias de passagem, a fim de evitar problemas de assoreamento e represamento da água, que podem causar o extravasamento das águas e inundações.
+
+
+b)
+
+Avaliar a possibilidade de remoção da moradia situada na margem de alta declividade e realocação para local sem risco.
+
+
+c)
+
+Avaliar a possibilidade da realização da contenção da margem nos pontos com ocorrência de processos erosivos.
+
+
+d)
+
+Nos locais que atualmente não possuem moradias, mas pertencem a planície de inundação do Rio das Flores, sugere-se que não seja autorizada a ocupação, pois podem se tornar áreas de risco caso construções ou intervenções inadequadas sejam realizadas.
+
+
+e)
+
+Monitoramento do setor em épocas de elevado índice pluviométrico, a fim de promover a evacuação da área, caso seja necessário.
+
+
+Parágrafo único
+
+A partir da entrada em vigor da presente Lei, todas as novas edificações deverão observar as recomendações elencadas no ETSA, sendo de responsabilidade do particular e de seu responsável técnico a execução de quaisquer obras nestes locais.
+
+
+Art. 8º.
+
+Para acompanhamento das intervenções e execução das recomendações dos setores de risco, será instituída uma comissão mediante decreto específico.
+
+
+#### CAPÍTULO V — DA MEDIDA MITIGADORA PECUNIÁRIA E DA RECUPERAÇÃO AMBIENTAL
+
+
+Art. 9º.
+
+A regularização ambiental dos imóveis e/ou regularização das edificações que estejam situadas em nova Área de Preservação Permanente implica em medida mitigadora pecuniária e/ou compensação ecológica, e conforme o caso, cumulativa com a recuperação ambiental, desde que:
+
+
+I –
+
+as edificações sejam existentes na data de 19 de janeiro de 2023 - Datado conforme levantamento aerofotogramétrico de Guarujá do Sul;
+
+
+II –
+
+não estejam em Área classificada como Área de Risco Muito Alto.
+
+
+§ 1º
+
+O prazo para iniciar o procedimento da regularização dos imóveis situados dentro das novas áreas de preservação permanentes será de 02 (dois) anos, sob pena de demolição.
+
+
+§ 2º
+
+Os proprietários das edificações pendentes de regularização ambiental serão notificados, através de Aviso de Recebimento (AR), para que se adequem ao prazo estabelecido no §1º deste artigo.
+
+
+Art. 10.
+
+A medida mitigadora pecuniária consiste no pagamento do valor equivalente a 20 (vinte) Unidade Fiscal de Referência Municipal (UFRM), acrescidos de 10 (dez) (UFRM) por metro quadrado (m²) ou fração ideal de área construída, irregularmente ocupada dentro da nova faixa de Área de Preservação Permanente (APP), desde que respeitadas as áreas de inundação e solapamento apontadas no ETSA.
+
+
+§ 1º
+
+O valor poderá ser parcelado em até 48 (quarenta e oito) parcelas mensais, respeitando as parcelas mínimas de 15 UFRM.
+
+
+§ 2º
+
+Os recursos oriundos das medidas mitigadoras pecuniárias de que trata este artigo serão mantidos na conta do Fundo Municipal do Meio Ambiente e apreciados pelo Conselho Municipal de Defesa do Meio Ambiente (COMDEMA), sendo aplicados em ações voltadas à recuperação ambiental de matas ciliares nas áreas apontadas no ETSA, bem como medidas compensatórias ambientais, como o cercamento das áreas, dentre outras medidas.
+
+
+Art. 11.
+
+Fica dispensado o pagamento de medida mitigadora pecuniária para:
+
+
+a)
+
+A edificação residencial unifamiliar do proprietário com mais de 65 (sessenta e cinco) anos de idade, com renda mensal familiar de até dois salários mínimos, quando por ele ocupada como moradia;
+
+
+b)
+
+A edificação residencial unifamiliar do proprietário aposentado por invalidez ou pensionista, com renda mensal familiar de até dois salários mínimos, quando por ele ocupada como moradia;
+
+
+c)
+
+A edificação residencial unifamiliar de pessoa com deficiência física e/ou mental com renda mensal familiar de até dois salários mínimos, quando por ele ocupada como moradia;
+
+
+d)
+
+A edificação residencial unifamiliar cujo contribuinte tenha sob sua guarda e manutenção, portador(es) de deficiência física e/ou mental com renda mensal familiar de até dois salários mínimos;
+
+
+e)
+
+A edificação residencial unifamiliar pertencente a pai ou mãe solteira, com renda mensal familiar de até dois salários mínimos, quando por ele(a) ocupada como moradia.
+
+
+§ 1º
+
+A isenção do pagamento da medida mitigadora pecuniária será aplicada exclusivamente aos proprietários que possuírem um único imóvel registrado em seu nome.
+
+
+§ 2º
+
+A isenção do pagamento de medida mitigadora pecuniária não exime a obrigatoriedade de elaboração e execução do Plano de Regularização da Área Degradada (PRAD).
+
+
+Art. 12.
+
+Fica dispensado ainda, o pagamento de medida mitigadora pecuniária, quando se tratar de imóvel, em Área Urbana Consolidada, que, em momento anterior à vigência desta Lei, tenha obtido documento de Alvará de Construção ou Habite-se expedido pela Municipalidade.
+
+
+Parágrafo único
+
+Quaisquer edificações com acréscimos e/ou modificações em desacordo com o Alvará de Construção ou Habite-se emitidos serão objeto de pagamento de medida mitigadora pecuniária.
+
+
+Art. 13.
+
+O Plano de Recuperação de Área Degradada (PRAD) será obrigatório nos casos que estão enquadrados no ETSA (item 10.1, figura 223 - Cartograma ilustrando as áreas a serem recuperadas dentro de Área Urbana Consolidada na Sede Urbana), devendo ser observadas as recomendações contidas no referido instrumento técnico.
+
+
+Art. 14.
+
+A regularização da edificação dentro da nova Área de Preservação Permanente e o atendimento das medidas mitigadoras pecuniárias, não dispensam o proprietário à recuperação da área de preservação permanente remanescente localizada nos limites de seu imóvel.
+
+
+#### CAPÍTULO VI — DO PROCEDIMENTO PARA REGULARIZAÇÃO DAS EDIFICAÇÕES E DA REGULARIZAÇÃO AMBIENTAL
+
+
+Art. 15.
+
+É permitida a regularização de edificações às margens de cursos d’água, situadas em Nova Área de Preservação Permanente, incluídas em Área Urbana Consolidada (AUC) no Município de Guarujá do Sul, para fins exclusivos de obtenção de Habite-se, desde que a construção conste no ETSA como ocupação consolidada e respeite os requisitos elencados no art. 5º desta Lei.
+
+
+Art. 16.
+
+O pedido de regularização da edificação deverá ser protocolado eletronicamente pelo responsável técnico contratado pelo proprietário, por meio do portal oficial do Município de Guarujá do Sul, nos termos da Lei Complementar 66/2020, que estabelece critérios e procedimentos para regularização de construções irregulares e clandestinas, acompanhado da documentação ambiental pertinente e das informações listadas a seguir: a) Distância dos cursos d’água, canalizados ou não, mais próximos ou que atravessem o imóvel, mediante locação a ser efetuada pelo Responsável Técnico; b) Projeto de sistema individual de tratamento de esgoto, contendo no mínimo: pré tratamento, tratamento primário, tratamento complementar e unidade de disposição final, sendo esses dimensionados e executados em conformidade com as normas técnicas vigentes;
+
+
+Art. 17.
+
+Atendidos os requisitos desta Lei, o Município de Guarujá do Sul, através do Departamento de Engenharia, emitirá parecer quanto à regularidade ambiental e da edificação, que deverá indicar as condicionantes para aprovação do projeto. Parágrafo único. O parecer do Município possui natureza declaratória, não substituindo atos administrativos destinados à construção ou regularização de edificações (Alvará de Construção, de Reforma, de Ampliação e Habite-se), cuja emissão está condicionada ao pagamento de medida mitigadora pecuniária e/ou compensação ecológica.
+
+
+Art. 18.
+
+A compensação ecológica fica condicionada à apresentação, pelo interessado, de Projeto de Recuperação de Área Degradada (PRAD), nos termos da legislação vigente, que deverá ser aprovado pelo órgão ambiental competente e apresentado eletronicamente para o Departamento de Engenharia do Município.
+
+
+Art. 19.
+
+Tratando-se de edificação em área de risco, serão adotadas as seguintes providências:
+
+
+I –
+
+identificação da edificação, com sua localização precisa e caracterização de Área de Risco;
+
+
+II –
+
+A regularização das edificações existentes em áreas de risco se dará após atestada a eliminação e/ou redução dos riscos, e efetiva implementação das medidas mitigadoras, mediante análise particular de cada situação a ser realizada por comissão específica a ser designada.
+
+
+Art. 19-A.
+
+Em caráter excepcional, será admitida a utilização da faixa correspondente ao recuo frontal obrigatório para fins construtivos, para os lotes inseridos em perímetro urbano municipal, desde que:
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.940, de 29 de dezembro de 2025.
+
+
+I –
+
+o imóvel possua, comprovadamente, parcela igual ou superior a 50% (cinquenta por cento) de sua área total classificada como Área de Preservação Permanente (APP), conforme delimitado no Estudo Técnico Socioambiental (ETSA);
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.940, de 29 de dezembro de 2025.
+
+
+II –
+
+sejam respeitadas as demais exigências ambientais e urbanísticas previstas nesta Lei e em legislações municipais vigentes;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.940, de 29 de dezembro de 2025.
+
+
+III –
+
+a proposta de construção seja avaliada e aprovada pelo setor técnico municipal competente, mediante análise individualizada;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.940, de 29 de dezembro de 2025.
+
+
+IV –
+
+seja apresentada, em complemento ao projeto arquitetônico, declaração emitida por responsável técnico habilitado, contendo justificativa técnica fundamentada para a flexibilização do recuo, acompanhada de cálculo demonstrativo e comprobatório do atendimento ao inciso I;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.940, de 29 de dezembro de 2025.
+
+
+V –
+
+não haja prejuízo à ambiência urbana, à ventilação, à iluminação natural ou à segurança do espaço público;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.940, de 29 de dezembro de 2025.
+
+
+Parágrafo único
+
+A autorização prevista neste artigo não implica em qualquer permissão para edificação em áreas de preservação permanente, permanecendo vedada qualquer forma de intervenção em APPs, exceto nos casos expressamente autorizados por legislação ambiental.
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.940, de 29 de dezembro de 2025.
+
+
+#### CAPÍTULO VII — DISPOSIÇÕES FINAIS
+
+
+Art. 20.
+
+A existência do Estudo Técnico Socioambiental aprovado por esta lei não impede a realização de outros estudos técnicos posteriores, visando a regularização de áreas específicas pelos interessados, quando presentes os elementos determinados pela Lei Federal nº 13.465/2017, que disciplina a regularização fundiária rural e urbana.
+
+
+Art. 21.
+
+Os casos omissos desta Lei serão tratados pelo Conselho Municipal do Meio Ambiente (COMDEMA).
+
+
+Art. 22.
+
+Faz parte integrante desta Lei, como Anexo Único digital, o Estudo Técnico Socioambiental (ETSA).
+
+
+Art. 23.
+
+Para cobrir despesas decorrentes da execução desta Lei, serão utilizados recursos do orçamento municipal.
+
+
+Art. 24.
+
+Ficam revogadas as disposições em contrário.
+
+
+Art. 25.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, SC, em
+
+10 de dezembro de 2024.
+
+73º ano da Fundação e 62º ano de Instalação.
+
+Certifique-se. Registre-se. Cumpra-se.
+
+**Claudio Junior Weschenfelder**
+
+**Prefeito Municipal**
+
+Registrado e publicado no Diário Oficial dos Municípios – DOM.www.diariomunicipal.sc.gov.br

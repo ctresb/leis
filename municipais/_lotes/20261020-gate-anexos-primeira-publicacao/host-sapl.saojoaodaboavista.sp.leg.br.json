@@ -1,0 +1,176 @@
+{
+  "host": "sapl.saojoaodaboavista.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/plano_diretor_-_completmento_da_lei_5271.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.271, de 30 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Plano Diretor",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2024/1/plano_diretor_-_completmento_da_lei_5271.pdf",
+      "ano": 2024,
+      "norma": 11497
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/pl.executivo.02.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.399, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei que deu origem à norma.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/2/pl.executivo.02.pdf",
+      "ano": 2025,
+      "norma": 11682
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/autografo.01.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.399, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo encaminhado para sanção e promulgação pelo Poder Executivo.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/3/autografo.01.pdf",
+      "ano": 2025,
+      "norma": 11682
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/pl.executivo.03.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.400, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Projeto de lei que deu origem à norma.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/4/pl.executivo.03.pdf",
+      "ano": 2025,
+      "norma": 11683
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/autografo.02.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.400, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo encaminhado para a sanção e promulgação pelo Poder Executivo.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/5/autografo.02.pdf",
+      "ano": 2025,
+      "norma": 11683
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/pl.executivo.04.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.401, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Projeto de lei que deu origem à norma.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/6/pl.executivo.04.pdf",
+      "ano": 2025,
+      "norma": 11684
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/autografo.04.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.401, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo enviado para sanção e promulgação do Poder Executivo.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/7/autografo.04.pdf",
+      "ano": 2025,
+      "norma": 11684
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/pl.executivo.01_complementar.pdf da norma Lei Complementar-PMSJBVISTA nº 5.402, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Projeto de lei que deu origem à norma.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/8/pl.executivo.01_complementar.pdf",
+      "ano": 2025,
+      "norma": 11685
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/autografo.04.pdf da norma Lei Complementar-PMSJBVISTA nº 5.402, de 29 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo enviado para sanção e promulgação do Poder Executivo.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/9/autografo.04.pdf",
+      "ano": 2025,
+      "norma": 11685
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/pl.executivo.10.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.403, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei do Executivo que deu origem à norma.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/10/pl.executivo.10.pdf",
+      "ano": 2025,
+      "norma": 11687
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/autografo.05.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.403, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo encaminhado ao Prefeito Municipal após a aprovação do Projeto de Lei do Executivo nº 10/2025.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/11/autografo.05.pdf",
+      "ano": 2025,
+      "norma": 11687
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/12/pl.executivo.11.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.404, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei do Executivo que deu origem à norma.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/12/pl.executivo.11.pdf",
+      "ano": 2025,
+      "norma": 11688
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/13/autografo.06.pdf da norma Lei Ordinária-PMSJBVISTA nº 5.404, de 19 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Autógrafo encaminhado ao Prefeito Municipal para sanção, após a aprovação do Projeto de Lei.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2025/13/autografo.06.pdf",
+      "ano": 2025,
+      "norma": 11688
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/14/of.expediente.36.pdf da norma Lei Ordinária-CMSJBVISTA nº 5.276, de 09 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Declara a inconstitucionalidade da Lei Ordinária Municipal nº 5.276, de 09 de maio de 2024.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2024/14/of.expediente.36.pdf",
+      "ano": 2024,
+      "norma": 11513
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/proj.lei.legislativo.35.pdf da norma Lei Ordinária nº 4.527, de 21 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Projeto de Lei do Legislativo nº 35/2019.",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2019/16/proj.lei.legislativo.35.pdf",
+      "ano": 2019,
+      "norma": 10397
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/17/manual_de_emendas_impositivas_individuais.pdf da norma Resolução nº 6, de 19 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Manual de Procedimentos das Emendas Parlamentares Impositivas",
+      "anexo_arquivo": "http://sapl.saojoaodaboavista.sp.leg.br/media/sapl/public/anexonormajuridica/2026/17/manual_de_emendas_impositivas_individuais.pdf",
+      "ano": 2026,
+      "norma": 12091
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.saojoaodaboavista.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojoaodaboavista.sp.leg.br/ab1c0a3007dd8d9851b03da484bee38aaf2ee69f9356f943371d8d8eb4dd3aeb.json",
+      "sha256": "2c3f501cf3df96488a70d0ca750db0c84a09c7d57b0ba5aecec58472a8eb6d38",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.saojoaodaboavista.sp.leg.br/ab1c0a3007dd8d9851b03da484bee38aaf2ee69f9356f943371d8d8eb4dd3aeb.meta.json"
+    }
+  ],
+  "total": 16
+}

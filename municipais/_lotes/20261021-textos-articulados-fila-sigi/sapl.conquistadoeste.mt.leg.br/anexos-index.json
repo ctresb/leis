@@ -1,0 +1,58 @@
+{
+  "estado": "indice_completo",
+  "total": 4,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/ata_julgamento.pdf da norma Decreto Legislativo-CMCO nº 1, de 09 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Julgamento",
+      "anexo_arquivo": "http://sapl.conquistadoeste.mt.leg.br/media/sapl/public/anexonormajuridica/2024/1/ata_julgamento.pdf",
+      "ano": 2024,
+      "norma": 246
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/julga2023.pdf da norma Decreto Legislativo-CMCO nº 1, de 05 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de julgamento",
+      "anexo_arquivo": "http://sapl.conquistadoeste.mt.leg.br/media/sapl/public/anexonormajuridica/2023/2/julga2023.pdf",
+      "ano": 2023,
+      "norma": 212
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/3/julga2022.pdf da norma Decreto Legislativo-CMCO nº 2, de 08 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Ata da Sessão de Julgamento",
+      "anexo_arquivo": "http://sapl.conquistadoeste.mt.leg.br/media/sapl/public/anexonormajuridica/2022/3/julga2022.pdf",
+      "ano": 2022,
+      "norma": 165
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/4/julga2020.pdf da norma Decreto Legislativo-CMCO nº 1, de 05 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Ata da sessão de julgamento",
+      "anexo_arquivo": "http://sapl.conquistadoeste.mt.leg.br/media/sapl/public/anexonormajuridica/2022/4/julga2020.pdf",
+      "ano": 2022,
+      "norma": 27
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conquistadoeste.mt.leg.br/d80552f814ff9d98f2b590252bad39e4046943cf5688306250c79cc39dcab028.json",
+      "url": "https://sapl.conquistadoeste.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.conquistadoeste.mt.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "612b18cbceec7730e74bf123f55be3399ec6a45be4bc734399097fdc3789a908",
+      "bytes": 1802,
+      "capturado_em": "2026-10-28T00:50:00.461965-03:00"
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+Institui a Política Municipal de Ciência, Tecnologia e Inovação de Divinópolis e cria o Sistema Municipal de Ciência, Tecnologia e Inovação - SMCTI.
+
+
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Ciência, Tecnologia e Inovação – PMCTI, com o objetivo de promover o desenvolvimento sustentável, competitivo e inclusivo do Município, por meio da integração entre governo, universidades, setor produtivo e sociedade civil.
+
+
+Art. 2º.
+
+Constituem princípios da PMCTI:
+
+
+I –
+
+a inovação como instrumento de desenvolvimento social e econômico;
+
+
+II –
+
+a cooperação entre os setores público e privado;
+
+
+III –
+
+a transparência, a eficiência e o controle social;
+
+
+IV –
+
+o respeito à livre iniciativa e à livre concorrência;
+
+
+V –
+
+a sustentabilidade e a inclusão digital.
+
+
+Art. 3º.
+
+A execução da PMCTI observará a legislação federal e estadual aplicável, especialmente:
+
+
+I –
+
+Lei Federal nº 10.973/04 e Decreto Federal nº 9.283/18;
+
+
+II –
+
+Lei Complementar Federal nº 182/21 (Marco Legal das Startups);
+
+
+III –
+
+Lei Federal nº 14.133/21 (Nova Lei de Licitações);
+
+
+IV –
+
+Lei Federal nº 13.019/14 (parcerias com organizações da sociedade civil);
+
+
+V –
+
+Lei Complementar Federal nº 101/00 (Lei de Responsabilidade Fiscal).
+
+
+Art. 4º.
+
+Para os fins desta Lei, adotam-se as seguintes definições:
+
+
+I –
+
+*Startup*: empresa inovadora conforme Lei Complementar Federal nº 182/21;
+
+
+II –
+
+Instituição Científica, Tecnológica e de Inovação – ICT: órgão público ou entidade privada sem fins lucrativos que realize pesquisa científica ou tecnológica;
+
+
+III –
+
+Núcleo de Inovação Tecnológica – NIT: estrutura de gestão de políticas de inovação de ICTs;
+
+
+IV –
+
+Ambiente Promotor de Inovação: espaço físico ou virtual voltado à pesquisa, empreendedorismo e difusão tecnológica (parques tecnológicos, hubs, coworkings, laboratórios, entre outros);
+
+
+V –
+
+Ambiente Regulatório Experimental (Sandbox Regulatório): conjunto de condições especiais que permite testar soluções inovadoras mediante autorização temporária do poder público;
+
+
+VI –
+
+Inovação Aberta (Open Innovation): modelo de cooperação entre empresas, ICTs e governo para compartilhamento de conhecimento e recursos;
+
+
+VII –
+
+Propriedade Intelectual: direitos sobre criações do intelecto, incluindo patentes, marcas, desenhos industriais e direitos autorais;
+
+
+VIII –
+
+Transferência de Tecnologia: processo de compartilhamento de conhecimentos, habilidades, tecnologias ou métodos entre instituições;
+
+
+IX –
+
+Inovação Social: soluções inovadoras que atendem necessidades sociais e criam novas relações ou colaborações sociais;
+
+
+X –
+
+Ecossistema de Inovação: conjunto integrado de atores, instituições e recursos que interagem para promover a inovação.
+
+
+#### CAPÍTULO II — DOS OBJETIVOS E DIRETRIZES DA POLÍTICA MUNICIPAL
+
+
+Art. 5º.
+
+São objetivos da PMCTI:
+
+
+I –
+
+fomentar a pesquisa científica e tecnológica;
+
+
+II –
+
+apoiar startups e empreendimentos inovadores;
+
+
+III –
+
+atrair investimentos e novos negócios de base tecnológica;
+
+
+IV –
+
+fortalecer as vocações econômicas locais e regionais;
+
+
+V –
+
+ampliar a oferta de serviços públicos digitais;
+
+
+VI –
+
+desenvolver iniciativas de cidades inteligentes (smart cities);
+
+
+VII –
+
+promover a educação científica e tecnológica em todos os níveis;
+
+
+VIII –
+
+promover a internacionalização de empresas inovadoras locais;
+
+
+IX –
+
+estimular a economia circular e tecnologias verdes;
+
+
+X –
+
+fomentar a diversidade e inclusão no ecossistema de inovação;
+
+
+XI –
+
+desenvolver programas de capacitação em competências digitais e tecnológicas;
+
+
+XII –
+
+criar mecanismos de atração e retenção de talentos.
+
+
+Art. 6º.
+
+As diretrizes da PMCTI incluem:
+
+
+I –
+
+articulação interinstitucional e multissetorial;
+
+
+II –
+
+estímulo à transferência de tecnologia e à propriedade intelectual;
+
+
+III –
+
+promoção de políticas de inclusão digital e inovação social;
+
+
+IV –
+
+incentivo ao empreendedorismo, com foco em sustentabilidade e competitividade.
+
+
+#### CAPÍTULO III — DA GOVERNANÇA E GESTÃO
+
+
+Art. 7º.
+
+A governança da PMCTI será exercida pelo COMDES, por meio da Câmara Temática de Inovação, com caráter consultivo e propositivo.
+
+
+Art. 8º.
+
+Compete à Câmara Temática de Inovação:
+
+
+I –
+
+propor políticas e programas de inovação;
+
+
+II –
+
+emitir pareceres técnicos sobre projetos e instrumentos de fomento;
+
+
+III –
+
+sugerir critérios para bolsas, bônus tecnológicos e prêmios;
+
+
+IV –
+
+acompanhar a execução e avaliação de resultados da PMCTI;
+
+
+V –
+
+fomentar a integração entre os agentes do ecossistema.
+
+
+Art. 9º.
+
+O COMDES poderá criar grupos de trabalho temporários para apoiar temas específicos, observada a participação voluntária e a inexistência de remuneração.
+
+
+#### CAPÍTULO IV — DOS INSTRUMENTOS DE FOMENTO E INCENTIVO
+
+
+Art. 10.
+
+São instrumentos de incentivo e fomento à inovação:
+
+
+I –
+
+encomenda tecnológica e contratação pública para solução inovadora (CPSI), conforme arts. 75, inciso V, e 78 da Lei Federal nº 14.133/21;
+
+
+II –
+
+bônus tecnológico;
+
+
+III –
+
+bolsas de estímulo à pesquisa e à inovação;
+
+
+IV –
+
+prêmios de inovação;
+
+
+V –
+
+programas de aceleração e incubação;
+
+
+VI –
+
+*sandbox* regulatório municipal;
+
+
+VII –
+
+parcerias com instituições científicas e tecnológicas;
+
+
+VIII –
+
+compras públicas sustentáveis com critérios de inovação (margem de preferência para produtos inovadores locais);
+
+
+IX –
+
+programas de subvenção econômica para P&D;
+
+
+X –
+
+fundos municipais de investimento em inovação (FII);
+
+
+XI –
+
+incentivos fiscais municipais a serem instituídos para ambientes de inovação;
+
+
+XII –
+
+programas de mentoria e capacitação empresarial;
+
+
+XIII –
+
+*vouchers* de inovação para acesso a serviços especializados;
+
+
+XIV –
+
+convênios de cooperação técnica internacional.
+
+
+Art. 11.
+
+A concessão de incentivos dependerá de:
+
+
+I –
+
+previsão orçamentária e financeira na LDO e LOA;
+
+
+II –
+
+seleção pública mediante edital, com critérios de mérito e impacto;
+
+
+III –
+
+prestação de contas simplificada baseada em resultados;
+
+
+IV –
+
+observância da legislação fiscal e orçamentária vigente.
+
+
+Art. 12.
+
+O Município poderá celebrar parcerias com entidades privadas sem fins lucrativos ou ICTs, mediante termo de fomento, colaboração ou acordo de cooperação, conforme a Lei nº 13.019/14.
+
+
+Art. 13.
+
+O *Sandbox* Regulatório Municipal permitirá que empresas e startups testem produtos, serviços ou modelos de negócio inovadores sob condições especiais, observando-se:
+
+
+I –
+
+autorização temporária por até 24 (vinte e quatro) meses, prorrogável por igual período;
+
+
+II –
+
+definição clara de limites, condições e salvaguardas;
+
+
+III –
+
+monitoramento contínuo e relatórios periódicos;
+
+
+IV –
+
+participação de usuários/consumidores de forma voluntária e informada; V - regulamentação por decreto específico do Poder Executivo.
+
+
+Parágrafo único
+
+O Decreto regulamentador estabelecerá os requisitos de entrada, critérios de seleção, obrigações das empresas participantes e condições de encerramento do ambiente regulatório experimental.
+
+
+Art. 14.
+
+As contratações e parcerias previstas nesta Lei deverão observar integralmente os princípios da Lei Federal nº 14.133/21, especialmente quanto à publicidade, motivação, controle e avaliação de desempenho.
+
+
+#### CAPÍTULO V — DA PROPRIEDADE INTELECTUAL E TRANSFERÊNCIA DE TECNOLOGIA
+
+
+Art. 15.
+
+O Município apoiará a proteção da propriedade intelectual gerada no âmbito de projetos fomentados pela PMCTI, mediante:
+
+
+I –
+
+orientação técnica sobre registro de patentes, marcas e direitos autorais;
+
+
+II –
+
+apoio financeiro para custos de registro e manutenção de propriedade intelectual;
+
+
+III –
+
+parcerias com NITs de ICTs locais.
+
+
+Art. 16.
+
+A titularidade e os direitos de exploração comercial das criações desenvolvidas com recursos públicos municipais serão definidos em contrato, observando-se:
+
+
+I –
+
+a participação proporcional do Município quando houver aporte significativo de recursos;
+
+
+II –
+
+cláusulas de retorno social e reinvestimento em novas inovações;
+
+
+III –
+
+preferência para exploração por empresas sediadas no Município.
+
+
+Parágrafo único
+
+Os contratos de que trata este artigo deverão prever mecanismos de compartilhamento de benefícios econômicos resultantes da exploração comercial das inovações desenvolvidas.
+
+
+#### CAPÍTULO VI — DOS RECURSOS ORÇAMENTÁRIOS E FINANCEIROS
+
+
+Art. 17.
+
+O financiamento da PMCTI será realizado mediante:
+
+
+I –
+
+dotações específicas no orçamento municipal;
+
+
+II –
+
+recursos de convênios e parcerias com governos estadual e federal;
+
+
+III –
+
+recursos de organismos internacionais de fomento;
+
+
+IV –
+
+doações de pessoas físicas e jurídicas;
+
+
+V –
+
+retorno de investimentos bem-sucedidos realizados pelo poder público;
+
+
+VI –
+
+percentual de arrecadação de royalties de tecnologias desenvolvidas com apoio municipal.
+
+
+Parágrafo único
+
+O Município buscará alocar, progressivamente, os recursos do orçamento anual para ações de ciência, tecnologia e inovação.
+
+
+#### CAPÍTULO VII — DO MONITORAMENTO, AVALIAÇÃO E TRANSPARÊNCIA
+
+
+Art. 18.
+
+A PMCTI será objeto de avaliação contínua mediante:
+
+
+I –
+
+indicadores de desempenho definidos pelo COMDES;
+
+
+II –
+
+relatório anual de resultados, com dados sobre:
+
+
+a)
+
+número de projetos apoiados e valores investidos;
+
+
+b)
+
+*startups* criadas e empregos gerados;
+
+
+c)
+
+patentes depositadas e tecnologias transferidas;
+
+
+d)
+
+grau de satisfação dos usuários dos programas;
+
+
+III –
+
+avaliação de impacto socioeconômico a cada três anos.
+
+
+Art. 19.
+
+Os indicadores serão divulgados no Portal da Transparência e submetidos à apreciação da Câmara Municipal anualmente.
+
+
+Art. 20.
+
+Ficam reconhecidos como programas oficiais de fomento à inovação:
+
+
+I –
+
+Programa Acelera Divinópolis;
+
+
+II –
+
+Programa INOVEM;
+
+
+III –
+
+outros que venham a ser instituídos por ato do Executivo.
+
+
+Art. 21.
+
+O Poder Executivo deverá instituir plataforma pública denominada "Vitrine Tecnológica de Divinópolis", para divulgação de projetos, *startups* e tecnologias locais, respeitada a Lei Geral de Proteção de Dados (Lei Federal nº 13.709/18).
+
+
+Art. 22.
+
+Todos os editais, convênios, prêmios e contratos firmados no âmbito desta Lei deverão ser divulgados no Portal da Transparência Municipal, com dados abertos sobre resultados e valores aplicados.
+
+
+#### CAPÍTULO VIII — DO SISTEMA MUNICIPAL DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO (SMCTI)
+
+
+Art. 23.
+
+Fica criado o Sistema Municipal de Ciência, Tecnologia e Inovação – SMCTI, como rede colaborativa de atores públicos e privados comprometidos com o desenvolvimento científico e tecnológico de Divinópolis.
+
+
+Art. 24.
+
+Integram o SMCTI:
+
+
+I –
+
+o Conselho Municipal de Desenvolvimento Econômico Sustentável – COMDES, por meio de sua Câmara Temática de Inovação;
+
+
+II –
+
+o Poder Executivo Municipal, por intermédio da Secretaria Municipal de Desenvolvimento Econômico - SEMDE e/ou Secretaria Municipal de Planejamento, Gestão, Ciência e Tecnologia - SEPLAG;
+
+
+III –
+
+o Poder Legislativo Municipal;
+
+
+IV –
+
+instituições de ensino e pesquisa sediadas no município;
+
+
+V –
+
+associações empresariais e entidades representativas de classe;
+
+
+VI –
+
+incubadoras, aceleradoras, startups e empresas inovadoras locais;
+
+
+VII –
+
+demais instituições públicas e privadas reconhecidas pelo COMDES;
+
+
+VIII –
+
+organizações da sociedade civil (OSCs) com atuação em inovação e tecnologia;
+
+
+IX –
+
+representantes de fundos de investimento e venture capital com atuação regional;
+
+
+X –
+
+instituições financeiras de fomento;
+
+
+XI –
+
+laboratórios de inovação do setor público (GovTech Labs).
+
+
+Art. 25.
+
+O SMCTI será coordenado pelo COMDES, com apoio técnico da SEMDE, observada a participação paritária entre governo, academia e setor produtivo.
+
+
+#### CAPÍTULO IX — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 26.
+
+Os casos omissos serão regulamentados por decreto do Poder Executivo, observadas as normas federais e estaduais aplicáveis.
+
+
+Art. 27.
+
+A inovação constituirá eixo estruturante da política de desenvolvimento econômico, no âmbito do município de Divinópolis.
+
+
+Art. 28.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Divinópolis, 24 de novembro de 2025.
+
+***Gleidson Gontijo de Azevedo***
+
+**Prefeito Municipal**
+
+***Leandro Luiz Mendes***
+
+**Procurador-geral do Município**
+
+
+**ATENÇÃO**
+
+**O SAPL tem cunho informativo e educativo, sendo a fonte de publicação eletrônica do Processo Legislativo da Câmara Municipal de Divinópolis, dada sua capacidade de abrangência. Porém, não dispensa a consulta aos textos oficiais para a prova da existência de direito, nos termos do art. 337 do Código de Processo Civil.**
+
+**A compilação tem por finalidade abreviar e facilitar a consulta às fontes de informação legislativa. A compilação de Leis do Município de Divinópolis é uma iniciativa mantida pela Secretaria Legislativa da Câmara, em respeito à sociedade e ao seu direito de acesso à informação, com finalidade de facilitar a pesquisa de leis e suas relações.**
+
+**Assim, dadas as limitações existentes, essa compilação é um facilitador de pesquisa, mas não resume todo o processo e não deve, no estágio atual, ser a única referência.**

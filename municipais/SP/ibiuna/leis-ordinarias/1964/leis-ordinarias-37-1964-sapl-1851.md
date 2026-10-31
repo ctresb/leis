@@ -1,0 +1,120 @@
+---
+titulo: "Lei nº 37, de 05 de junho de 1964"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "37"
+data: "1964-06-05"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 1965-12-06; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/1851"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/71/text"
+sha256_fonte: "e4fd1fe0366fe469995994faa98ce929604863fcc09c7c3134b6a18b46a225dd"
+sha256_texto: "868569275bc5230ce74122447ec819b29ff660f7153e3e6af643c71bd3060fd1"
+capturado_em_fonte: "2026-10-28T14:03:41.610240-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 37, de 05 de junho de 1964
+
+Dispõe sobre nova redação aos art. 127 e 156 da Lei nº 14/60 de 30 de novembro de 1960.
+
+
+A Câmara Municipal de Ibiúna, decreta, e eu Prefeito Municipal, promulgo a seguinte lei:
+
+
+Art. 1º.
+
+O artigo 127 sobre ato da Economia do Município e o artigo 156, Taxa Funerária da Lei nº 12/60 (Código Tributário do Município) passa a vigorar com a seguinte redação:
+
+
+"O imposto sobre atos do Município (economia), ou assuntos de sua competência será arrecadado por conhecimento na ocasião em que os papéis a ele sujeitos forem protocolado, lavrados, expedidos visados anexados a processo desentranhados ou entregues ao contribuinte de acordo com a seguinte descriminação: I- Alinhamento: Para construção, reformas ou ampliação de prédios, muralhas ou obras semelhantes, nas testadas de logradouros. a) taxa fixa; CR$ 100,00 b) por metro linear de testada CR$ 5,00 II- Aprovação de Plantas de Prédios: a) requerida por um só interessado e referindo-se a um só tributo CR$ 100,00; b) Requerida por um só interessado por tributo que acrescer CR$ 30,00 c) Requerida por vários interessados referindo-se a um só tributo por interessado, além do primeiro mais CR$ 30,00. XII- Certidão de outra natureza, além de busca e rasa CR$ 150,00; XIV- Certificado ou alvará de licença: a) Expedidos ou revalidados em favor de contribuinte a ele sujeito CR$ 100,00. b) De construção em geral................CR$ 200,00 c) De vistoria.......................CR$ 500,00 XV- Concessão: De privilégios a indivíduos ou empresas pelo município CR$ 20%. XVI- Contrato: Com o município sobre o valor respectivo. XVII- Contribuições: a) contribuição de averbação e cadastro. 1)- Averbações de prédios sendo valor locativo de mais de CR$ 1.000,00 até CR$ 10.000,00- CR$100,00 Sendo mais de CR$ 10.000,00 até CR$ 20.000,00 CR$ 200,00 CR$ 20.000,00 até CR$ 50.000,00 CR$ 400,00 CR$ 50.000,00 até CR$ 100.000,00 CR$ 1.000,00 CR$ 100.000,00 até CR$ 200.000,00 CR$ 1.200,00 CR$ 200.000,00 até CR$ 300.000,00 CR$ 1.500,00 Mais de CR$ 300.000,00 até CR$ 500.000,00 CR$ 1.800,00 CR$ 500.000,00 em diante CR$ 2.000,00. 2)- Averbação de terreno sendo o valor da venda do mesmo igual ou inferior a: CR$ 10.000,00 CR$ 50,00 De mais de CR$ 10.000,00 até CR$ 20.000,00 CR$ 150,00 De mais de CR$ 20.000,00 ate CR$ 30.000,00 CR$ 200,00 De mais de CR$ 30.000,00 até CR$ 60.000,00 CR$ 250,00 De mais de CR$ 60,000,00 ate CR$ 100.000,00 CR$ 3000,00 De mais de CR$ 100.000,00 ate CR$ 200.000,00 CR$ 350,00 De mais de CR$ 200.000,00 ate CR$ 300.000,00 CR$ 400,00 De mais de CR$ 300.000,00 ate CR$ 50.000,00 CR$ 1.500,00 De mais de CR$ 500.000,00 CR$ 2.000,00. XVIII- Copia de planta arquivada pela copia: a) de exemplar não excedente de 0,50X0,50 centímetros CR$ 500,00 b) Por centímetros quadrados excedentes mais CR$ 5,00 XIX- Desentranhamento de papeis:- CR$ 100,00 Alem de busca e rasa. XX- Documentos ou folhas anexas a requerimento Exceto fornecido pela Prefeitura CR$ 20,00. XXI- Emolumentos: a) para a extração da certidão de Divida Ativa CR$ 100,00 b) para obtenção de projetos de habitação operaria CR$ 100,00 XXII- exame de documentos arquivados CR$ 50,00 XXIII- Inscrição: De contribuinte de Imposto de Indústrias e Profissões CR$ 100,00 XXIV- Matriculas: De engenheiros arquitetos e construtores, por ano CR$ 200,00 XXV- modificação de projetos Alem das taxas pagas inicialmente, as que correspondentes as modificações, no caso das , mesmas alterarem a área primitiva dos pavimentos, taxa fixa: CR$ 500,00. XXVI- Nivelamento Nivelamento de soleira para prédios e terrenos, taxa fixa de CR$ 200,00 XXVII- Rasos: a) Linhas manuscritas............................CR$ 5,00 b) Linhas datilografadas.........................CR$ 4,00 XXIX- Requerimento: a) Não especificados..........................................CR$ 100,00 b) De vistoria.......................................................CR$ 500,00 c) Abaixo assinado ou memorial.........................CR$ 100,00 d) Assinado por procuração, além do selo mais CR$ 150,00 XXX- Termos: a) De deposito e caução.............................CR$ 200,00 b) De depósito de mercadoria apreendida CR$ 500,00 c) Outros termos.........................................CR$ 200,00 XXXII- Vistorias a) Vistorias e abrimentos de prédios e terrenos afará custas de peritos que serão arbitradas pelo Prefeito..............................................CR$ 500,00 b) anual de casa de diversão de qualquer espécie CR$ 500,00 c) de motores e de serviços mecânicos: 1- Oficina e indústria de 1ª classe, anualmente..............CR$ 500,00 2- Oficina ou indústria de 2ª classe, anualmente...........CR$ 300,00 Para construção e reconstrução.......................................CR$ 500,00 III- Aprovação de plantas e terrenos para loteamento ate um hectare CR$ 1.500,00 ate cinco hectares CR$4.000,00. Alem de cinco hectares mais CR$ 5.000,00 IV- Arruamento e loteamento a) Até três mil metros quadrados, por m2........................CR$ 1,00 b) pelo que exceder de 30.000 até 5.000 m2...................CR$ 0,80 c) pelo que exceder de 50.000 até 100.000 m2...............CR$ 0,70 d) pelo que exceder de 100.000 m. por m2......................CR$ 0,50 V- Atos do Prefeito concedendo favores em virtudes das leis municipais. a) até o valor de CR$ 1.000,00 VI- Atestados quando requeridos. a) não especificados, passando por qualquer autoridade municipal CR$150,00; b) De vistoria CR$ 200,00 VII- Autuação IX- Busca em papeis, etc.(livros de arquivo municipal) a) Havendo indicação do ano I- ate cinco anos, por ano..........................................CR$ 20,00 II- até dez anos por ano (alem de cinco anos).......... CR$ 15,00 III- alem de vinte anos, alem de dez anos por ano... CR$ 10,00 IV- até trinta anos por ano alem de vinte anos..........CR$ 08,00 V- pelo que ultrapassar trinta anos por ano...............CR$06,00 b) Não havendo indicação do ano: I- Até cinco anos por ano.................................................CR$ 30,00 II- até 10 anos por ano, alem de 05 anos........................CR$ 25,00 III- Até 20 anos por ano, alem de 10 anos.......................CR$ 20,00 IV- Até 30 anos, alem de 20 anos....................................CR$ 15,00 V- Pelo que ultrapassar ano por ano................................CR$ 10,00 X- Capa de processo: Capa de processo quando declarada a autuação.............CR$ 50,00 Xl- Carta de Habitação (habitar-se) a) A carta de habitação para casas de taipas e telhas.......CR$ 200,00 b) Carta de habitação para casas de alvenaria..................CR$ 500,00 XII- Certidão e tributos municipais, dispensados acréscimos de buscas e rasa: 3- Oficina, ou indústria de terceira classe anualmente..........CR$ 200,00 4- oficina ou indústria de quarta classe anualmente..............CR$ 100,00 5- oficina ou indústria de quinta classe anualmente...............CR$ 70,00
+
+
+Art. 2º.
+
+O artigo 156: Taxa Funerária passa a ter a seguinte redação:
+
+
+I –
+
+Sepultura para enterramento de adulto, sepultura comum.....CR$ 2.000,00
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+II –
+
+Sepultura para enterramento de menor.............................CR$ 1.000,00
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+III –
+
+Aquisição para sepulturas perpetuas para adultos......................CR$ 30.000,00
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+IV –
+
+Aquisição para sepultura perpetuas menores........................CR$ 15.000,00
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+V –
+
+Alinhamento e construção de túmulos..................................CR$ 2.000,00
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+VI –
+
+exumações:
+
+
+a)
+
+Para o mesmo cemitério................................................CR$ 2.000,00
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+b)
+
+para cemitério fora do município....................................CR$ 6.000,00
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+VII –
+
+Exumação de ossos com procedência de outros municípios CR$ 8.000,00.
+
+Alteração feita pelo Art. 1º. - Lei nº 55, de 06 de dezembro de 1965.
+
+
+Art. 3º.
+
+Esta lei entrara em vigor na data de sua publicação, revogando-se as disposições em contrario.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIUNA AOS 05 DIAS DO MÊS DE JUNHO DE 1964.
+
+**SEME ISSA**
+
+**Prefeito Municipal**
+
+Publicado na Secretaria da Prefeitura Municipal, e afixado em edital no local de costume na data supra.
+
+**ABIGAIL DE MORAES ROSA**
+
+**Secretario**
+

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.carmopolisdeminas.mg.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmopolisdeminas.mg.leg.br/6a41a466087a2f413a54a08665de2590df42bd2bf283744cf29f435d550d4b88.json",
+    "url": "https://sapl.carmopolisdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.carmopolisdeminas.mg.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f8e57883297a02a8c05aa7a8a9c3455b451e4436ec1dc65b1102287aebf77543",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:35:39.120862-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmopolisdeminas.mg.leg.br/57e7bbc2d4d8b16933ba1b5c9ac86e835b79dbfc1939f9dae78aa4505ea544b8.json",
+    "url": "https://sapl.carmopolisdeminas.mg.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.carmopolisdeminas.mg.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "634a6872b249ab42159ca9a4e3c9f641b2915dc0860dbab8b0a02387a828434a",
+    "bytes": 802,
+    "capturado_em": "2026-10-27T22:35:38.395196-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carmopolisdeminas.mg.leg.br/1da76ced72aaf6bd797a30c7ed10eb544d6e6327a0d797d886abb1a2c77381d7.json",
+      "url": "https://sapl.carmopolisdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.carmopolisdeminas.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ec8c2adbf00a5584cdf7e081cee5ce598d27b49da3e8c1d6b108b04276aad0e4",
+      "bytes": 831,
+      "capturado_em": "2026-10-27T22:35:41.114050-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

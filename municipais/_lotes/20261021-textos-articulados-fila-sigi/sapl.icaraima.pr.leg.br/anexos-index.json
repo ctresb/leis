@@ -1,0 +1,148 @@
+{
+  "estado": "indice_completo",
+  "total": 13,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/1/prestacao_de_contas_do_poder_executivo_-_exercicio_financeiro_de_2020.pdf da norma Resolução nº 33, de 25 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Parecer Prévio das contas do Poder Executivo do Município de Icaraíma, exercício financeiro de 2020, emitido pelo TCE-PR.",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2023/1/prestacao_de_contas_do_poder_executivo_-_exercicio_financeiro_de_2020.pdf",
+      "ano": 2023,
+      "norma": 548
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/2/anexos_loa_2024_3.pdf da norma Lei nº 1.911, de 15 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2023/2/anexos_loa_2024_3.pdf",
+      "ano": 2023,
+      "norma": 560
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/emenda_a_lei_organica_no_004.2024_-_versao_assinada_e_com_publicacao.pdf da norma Emenda à Lei Orgânica nº 4, de 05 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Versão assinada.",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2024/3/emenda_a_lei_organica_no_004.2024_-_versao_assinada_e_com_publicacao.pdf",
+      "ano": 2024,
+      "norma": 612
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/resolucao_no_040.2024_-_altera_o_regimento_interno_-_versao_site.pdf da norma Resolução nº 40, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Resolução nº 40/2024 - Altera a Resolução nº 006/1991, Regimento Interno da Câmara Municipal de Icaraíma, incluindo a votação por chapa para eleição da Mesa.",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2024/4/resolucao_no_040.2024_-_altera_o_regimento_interno_-_versao_site.pdf",
+      "ano": 2024,
+      "norma": 622
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/5/resolucao_no_039.2024_-_aprova_o_parcer_previo_do_tribunal_de_contas_do_estado_do_parana_referente_as_contas_do_poder_executivo_-_2022_-_versao_site.pdf da norma Resolução nº 39, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Resolução nº 39/2024 - Aprova as contas do Poder Executivo do Município de Icaraíma, referente ao exercício de 2.022 e dá outras providências.",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2024/5/resolucao_no_039.2024_-_aprova_o_parcer_previo_do_tribunal_de_contas_do_estado_do_parana_referente_as_contas_do_poder_executivo_-_2022_-_versao_site.pdf",
+      "ano": 2024,
+      "norma": 623
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/resolucao_no_042.2025_-_alteracao_do_regimento_interno_-_apreciacao_de_vetos_-_versao_site.pdf da norma Resolução nº 42, de 29 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Dispõe sobre a alteração do Regimento Interno da Câmara Municipal de Icaraíma (Resolução nº 006/1991) para adequar o procedimento de apreciação de vetos do Prefeito à nova redação da Lei Orgânica Municipal, suprimindo a votação secreta.",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/6/resolucao_no_042.2025_-_alteracao_do_regimento_interno_-_apreciacao_de_vetos_-_versao_site.pdf",
+      "ano": 2025,
+      "norma": 635
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/prestacao_de_contas_do_poder_executivo_-_exercicio_financeiro_de_2023.pdf da norma Resolução nº 44, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Prestação de Contas do Poder Executivo Municipal - Exercício de 2023",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/7/prestacao_de_contas_do_poder_executivo_-_exercicio_financeiro_de_2023.pdf",
+      "ano": 2025,
+      "norma": 654
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/anexo_i_-_lei_complementar_no_2004-2025.pdf da norma Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - da Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/8/anexo_i_-_lei_complementar_no_2004-2025.pdf",
+      "ano": 2025,
+      "norma": 664
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/9/anexo_ii_-_lei_complementar_no_2004-2025.pdf da norma Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - da Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/9/anexo_ii_-_lei_complementar_no_2004-2025.pdf",
+      "ano": 2025,
+      "norma": 664
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/10/anexo_iii_-_lei_complementar_no_2004-2025.pdf da norma Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - da Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/10/anexo_iii_-_lei_complementar_no_2004-2025.pdf",
+      "ano": 2025,
+      "norma": 664
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/11/anexo_iv-_lei_complementar_no_2.004-2025.pdf da norma Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - da Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/11/anexo_iv-_lei_complementar_no_2.004-2025.pdf",
+      "ano": 2025,
+      "norma": 664
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/12/anexo_v-_lei_complementar_no_2.004-2025.pdf da norma Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - da Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/12/anexo_v-_lei_complementar_no_2.004-2025.pdf",
+      "ano": 2025,
+      "norma": 664
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/13/anexo_vi-_lei_complementar_no_2.004-2025.pdf da norma Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Anexo VI - da Lei Complementar nº 2.004, de 10 de dezembro de 2025",
+      "anexo_arquivo": "http://sapl.icaraima.pr.leg.br/media/sapl/public/anexonormajuridica/2025/13/anexo_vi-_lei_complementar_no_2.004-2025.pdf",
+      "ano": 2025,
+      "norma": 664
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.icaraima.pr.leg.br/905e8a12e8a1c5459b04c07b9caff2a2ec23e76227c385d1defa04439d986d1b.json",
+      "url": "https://sapl.icaraima.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.icaraima.pr.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c72cf23046aaeb4f1c262cdc5216dd0e747e35ee1669f5b5f71a2a75e559228a",
+      "bytes": 7574,
+      "capturado_em": "2026-10-28T14:06:21.403406-03:00"
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+Define parâmetros para regularização de edificações no município de Divinópolis.
+
+
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Diante do advento das Leis n° 9.330, de 03 de janeiro de 2024, que dispõe sobre o uso e ocupação do solo, e n° 9.350, de 19 de março de 2024, que dispõe sobre o Código de Obras e Edificações do Município de Divinópolis, e considerando que o sistema de georreferenciamento viabilizou os processos de atualização, reestruturação e modernização da base de dados imobiliários, voltados à gestão fiscal, territorial e tributária, no município de Divinópolis, fica o Poder Executivo autorizado a proceder à regularização de edificações concluídas e que se encontrem em situação irregular, ao tempo da entrada em vigência desta Lei, conforme parâmetros ora estabelecidos.
+
+
+#### CAPÍTULO II — DOS ENQUADRAMENTOS À APLICAÇÃO DESTA LEI
+
+
+##### Seção I — Definição de edificação em situação irregular
+
+
+Art. 2º.
+
+Para fins de aplicação desta Lei, considera-se edificação em situação irregular aquela já concluída ou com suas estruturas portantes implementadas, quaisquer sejam os tipos de destinação, porém, em desconformidade com as normas urbanísticas previstas no Código Municipal de Obras e Edificações do Município de Divinópolis (Lei 9.350/24) e/ou na Lei Municipal de Uso e Ocupação do Solo (Lei 9.330/24).
+
+
+Parágrafo único
+
+As desconformidades de que trata o *caput* são classificadas em:
+
+
+I –
+
+parâmetros construtivos;
+
+
+II –
+
+licenças urbanísticas.
+
+
+Art. 3º.
+
+As irregularidades referentes aos parâmetros construtivos serão calculadas de acordo com Anexo I desta Lei.
+
+
+Art. 4º.
+
+No caso de residência unifamiliar com área construída de até 100 m² (cem metros quadrados), as irregularidades constantes no item 6 e 10 do Anexo I desta Lei não serão computadas para efeito de multa, devendo, contudo, ser apresentadas no quantitativo de que trata o Anexo IV, cujo documento terá natureza de termo de ciência, para efeito de regularização.
+
+
+##### Seção II — Definição de edificação concluída e edificação com estrutura portante implementada
+
+
+Art. 5º.
+
+Para fins desta Lei considera-se:
+
+
+I –
+
+edificação concluída: aquela que contar com estrutura portante integralizada, com paredes erguidas, cobertura executada e que ostente plenas condições de habitabilidade, se de uso residencial, ou de funcionamento, se de uso não residencial, com todas as instalações elétricas, hidráulicas e sanitárias instaladas;
+
+
+II –
+
+edificação com estrutura portante implementada: refere-se ao estágio da obra em que todos os elementos estruturais principais, responsáveis por suportar cargas e garantir a estabilidade da construção, foram finalizados, incluindo:
+
+
+a)
+
+fundações (sapatas, blocos, estacas, radier etc.);
+
+
+b)
+
+pilares e vigas;
+
+
+c)
+
+lajes e pisos estruturais;
+
+
+d)
+
+paredes estruturais (se aplicável);
+
+
+e)
+
+cobertura estrutural (se faz parte da estrutura principal).
+
+
+##### Seção III — Requisito temporal
+
+
+Art. 6º.
+
+Esta Lei se aplica apenas a edificações em situação irregular que ostentem a condição de concluída ou com estrutura portante implementada, nos termos do art. 5º, na data da publicação desta Lei, devidamente comprovado, em conformidade com o Anexo V.
+
+
+##### Seção IV — Hipóteses de inaplicabilidade desta Lei
+
+
+Art. 7º.
+
+Não serão passíveis de regularização, nos termos estabelecidos nesta Lei, as seguintes edificações:
+
+
+I –
+
+localizadas em terrenos sem classificação de zoneamento, conforme Lei de Uso e Ocupação do Solo;
+
+
+II –
+
+situadas em Zonas de Ocupação Específica (ZOE), assim definidas na Lei de Uso e Ocupação do Solo;
+
+
+III –
+
+situadas em Áreas Especiais, assim definidas na Lei Complementar n° 169/14 - Plano Diretor;
+
+
+IV –
+
+situadas total ou parcialmente em áreas públicas, assim definidas pela Lei n° 2.429/88;
+
+
+V –
+
+em situação de risco, devidamente demonstrada por autoridade competente ou por laudo técnico emitido por profissional legalmente habilitado, com relação a habitabilidade e às edificações próximas ou vizinhas;
+
+
+VI –
+
+situadas em área declarada como de utilidade pública, faixas de domínio e/ou não edificável;
+
+
+VII –
+
+em desacordo com normas estaduais e/ou federais, como acessibilidade e outras;
+
+
+VIII –
+
+com uso não permitido no zoneamento definido para o imóvel;
+
+
+IX –
+
+construídas:
+
+
+a)
+
+sem respeitar a cota máxima de 3 (três) edificações unifamiliares em um mesmo lote, a não ser que respeite a cota mínima de 135 metros quadrados de terreno para cada unidade, conforme previsto no Plano Diretor - LC 169/14;
+
+
+b)
+
+com abertura de vãos de ventilação e/ou iluminação a menos de 1,50 m (um metro e cinquenta centímetros) da divisa, a não ser com a apresentação de termo de consentimento assinado pelos proprietários vizinhos envolvidos, ou de ordem judicial neste sentido;
+
+
+c)
+
+com balanços, beirais e/ou marquises que estejam construídos com altura inferior a 2,50 m (dois metros e cinquenta centímetros), em relação ao passeio público;
+
+
+§ 1º
+
+Nenhuma regularização será efetuada parcialmente dentro de uma mesma unidade imobiliária.
+
+
+§ 2º
+
+Por unidade imobiliária, entende-se cada unidade autônoma identificada por instrumento de instituição do condomínio.
+
+
+#### CAPÍTULO III — DO PROCESSO DE REGULARIZAÇÃO
+
+
+##### Seção I — Do requerimento e tramitação do processo
+
+
+Art. 8º.
+
+O processo para regularização de edificação irregular, nos termos desta Lei, dependerá da formulação de requerimento pelo interessado ao Poder Público Municipal, no prazo de vigência desta Lei, acompanhado da documentação exigida em regulamento do Código de Obras e Edificações do Município de Divinópolis.
+
+
+§ 1º
+
+São documentos necessários:
+
+
+I –
+
+documento oficial de identificação pessoal, com foto e CPF, para pessoa física; CNPJ, contrato social consolidado e documento de identidade do sócio administrador, se pessoa jurídica; do responsável proprietário ou possuidor da obra;
+
+
+II –
+
+projeto arquitetônico;
+
+
+III –
+
+levantamento topográfico do terreno, conforme regulamentado pelo Código de Obras;
+
+
+IV –
+
+ART, TRT ou RRT original devidamente assinada referente a:
+
+
+a)
+
+levantamento topográfico do terreno;
+
+
+b)
+
+autoria do projeto arquitetônico;
+
+
+c)
+
+laudo de estabilidade ou de execução da obra concluída;
+
+
+d)
+
+execução da obra com estrutura portante implementada;
+
+
+e)
+
+execução de muro de arrimo caso exista;
+
+
+V –
+
+certidão de registro imobiliário emitida pelo Cartório de Registro de Imóveis, referente ao respectivo terreno, atualizada em até 90 dias;
+
+
+VI –
+
+VETADO.
+
+
+VII –
+
+relatório fotográfico do imóvel;
+
+
+VIII –
+
+termo de responsabilidade do proprietário ou possuidor.
+
+
+§ 2º
+
+Para imóveis que compõem condomínio edilício, a regularização dependerá da apresentação da respectiva convenção de condomínio, devidamente registrada em Cartório de Registro de Imóveis, da ata da assembleia que autorizou a execução ou a regularização da edificação, bem como da ata da assembleia que elegeu o síndico e demais documentos pertinentes.
+
+
+§ 3º
+
+VETADO.
+
+
+Art. 9º.
+
+A análise de procedimento relativo a edificações enquadradas nas situações descritas abaixo, dependerá de prévia anuência ou autorização por parte do respectivo órgão competente:
+
+
+I –
+
+classificadas como Polo Gerador de Viagens (PGV);
+
+
+II –
+
+estabelecimentos de interesse sanitário;
+
+
+III –
+
+situadas em área de proteção dos mananciais, ambientais ou de preservação permanente, para as quais será exigido anuência do CODEMA;
+
+
+IV –
+
+estabelecimentos que demandem de licenças ambientais, para os quais será exigida a apresentação das licenças;
+
+
+V –
+
+estabelecimentos que demandem de licenciamento junto ao Corpo de Bombeiros Militar de Minas Gerais (CBMMG), para os quais será exigida a apresentação do comprovante de aprovação do Projeto de Segurança e Combate a Incêndio e Pânico (PSCIP);
+
+
+VI –
+
+imóveis tombados, contidos em perímetro de área tombada ou localizados no raio envoltório do bem tombado.
+
+
+###### Subseção I — Do Polo Gerador de Viagem (PGV)
+
+
+Art. 10.
+
+Os empreendimentos ou atividades classificadas como Polos Geradores de Viagens (PGVs) serão analisados pelas autoridades competentes, conforme as diretrizes viárias estabelecidas pela Secretaria Municipal de Trânsito, Segurança Pública e Mobilidade Urbana - SETTRANS, facultando-se ao interessado, para a regularização, optar por:
+
+
+I –
+
+executar as medidas de mitigação e/ou compensação dos impactos no sistema viário, conforme projeto aprovado pela SETTRANS, seguindo os critérios e valores estabelecidos nesta Lei;
+
+
+II –
+
+efetuar o pagamento do valor correspondente às medidas de mitigação e/ou compensação, por meio de guia de arrecadação, para o Fundo Municipal de Trânsito.
+
+
+§ 1º
+
+A análise técnica do PGV deverá considerar o impacto do empreendimento no sistema viário, incluindo a necessidade de implantação de medidas mitigadoras e/ou compensatórias, tanto no interior quanto no exterior do limite da propriedade.
+
+
+§ 2º
+
+As medidas mitigadoras e/ou compensatórias deverão ser proporcionais ao impacto gerado, visando garantir a fluidez do trânsito, a segurança dos pedestres e a acessibilidade universal.
+
+
+§ 3º
+
+O empreendedor será responsável pelos custos de elaboração e execução do projeto de medidas mitigadoras e/ou compensatórias.
+
+
+§ 4º
+
+A aprovação do projeto arquitetônico do PGV condiciona-se à apresentação do Termo de Compromisso firmado entre o empreendedor e a SETTRANS, que detalhará as medidas mitigadoras e/ou compensatórias a serem implementadas.
+
+
+§ 5º
+
+O Termo de Compromisso deverá incluir cronograma de execução das medidas mitigadoras e/ou compensatórias, o qual será acompanhado e fiscalizado pela SETTRANS.
+
+
+§ 6º
+
+Eventual descumprimento do Termo de Compromisso poderá acarretar sanções administrativas, como multas e interdição do empreendimento, além das sanções previstas na Lei de Parcelamento, Uso e Ocupação do Solo e impedimento à licença para funcionamento.
+
+
+§ 7º
+
+Para casos em que caracterizar Polo Gerador de Viagens já existentes na data de publicação desta Lei, que não possuam o Termo de Compromisso, este deverá ser formalizado junto à SETTRANS, no prazo de cento e oitenta dias, contados regulamentação desta Lei.
+
+
+§ 8º
+
+O valor das compensações será calculado com base na área total do empreendimento, conforme o Custo Unitário Básico (CUB/m²) vigente no Estado de Minas Gerais, aplicando-se percentuais definidos para cada tipo de vaga não atendida, conforme fórmula a seguir:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td colspan="3"><p><strong>CÁLCULO DAS IRREGULARIDADES REFERENTES AOS PARÂMETROS CONSTRUTIVOS, </strong></p><p>para definição dos valores das medidas compensatórias quanto ao não atendimento da Legislação.</p></td></tr><tr><td><p>Vagas para veículos leves</p></td><td><p>Vagas de carga e descarga</p></td><td><p>Área de embarque e desembarque</p></td></tr><tr><td><p>0,3% sobre o custo total da construção, a cada vaga faltante</p></td><td><p>2% sobre o custo total da construção, a cada vaga faltante</p></td><td><p>6% sobre o custo total da construção a cada vaga faltante</p></td></tr><tr><td colspan="3"><p>* Essas informações deverão constar no projeto arquitetônico apresentado para o termo de compromisso</p></td></tr><tr><td colspan="3"><p>** O cálculo da compensação é acumulativo, para cada requisito não atendido o empreendimento deverá compensar conforme a tabela.</p></td></tr><tr><td colspan="3"><p>Vmc = Aet x Cub/m2 x %Ct x Nvf</p><p>Vmc = Valor da Medida Compensatória em Reais</p><p>Aet = Área Total do empreendimento sem descontos</p><p>%Ct = Porcetagem sobre o custo total da obra conforme tabela</p><p>Nvf = Número de vagas Faltantes</p></td></tr></tbody></table>
+
+
+§ 9º
+
+O cálculo do valor da construção do empreendimento deverá seguir os seguintes critérios:
+
+
+I –
+
+para edificações residenciais e/ou de uso misto, será considerado o Custo Unitário Básico (CUB/m²) estadual, padrão Normal (R-8), conforme medição do Sinduscon/MG;
+
+
+II –
+
+para edificações comerciais, será considerado o CUB/m² estadual, padrão Normal - Comercial Salas e Lojas (CSL-8), conforme medição do Sinduscon/MG;
+
+
+III –
+
+para edificações industriais, será considerado o CUB/m² estadual, padrão Galpão Industrial (GI), conforme medição do Sinduscon/MG.
+
+
+Art. 11.
+
+Poderá ser admitida proposta de adequação para garantir o atendimento dos parâmetros previstos na Lei de Uso e Ocupação do Solo e Código de Obras, leis estaduais e federais e a outras leis específicas, simultaneamente ao enquadramento a esta Lei.
+
+
+§ 1º
+
+As adequações, na forma do *caput*, deverão estar indicadas seguindo os parâmetros de representação estabelecidos pelo Código de Obra e Edificações do Município de Divinópolis, para demolições e alvenarias a serem executadas.
+
+
+§ 2º
+
+Havendo demolição que resulte diferença na área edificada do imóvel, para a execução das obras de adequação, será exigido para a aprovação de projetos a apresentação do Alvará de Demolição.
+
+
+###### Subseção II — Da multa
+
+
+Art. 12.
+
+A regularização de edificações nos termos desta Lei condiciona-se ao recolhimento de multa referente aos parâmetros construtivos, a ser apurada na forma do Anexo I dessa Lei, levando-se em conta os seguintes fatores de correção relativos à edificação, conforme os Anexos II e III:
+
+
+I –
+
+natureza da ocupação;
+
+
+II –
+
+área construída;
+
+
+III –
+
+estado de conservação;
+
+
+IV –
+
+idade aparente;
+
+
+V –
+
+padrão de acabamento de edificação.
+
+
+Art. 13.
+
+O valor básico da multa será calculado em conformidade com Planilha de Cálculo disponibilizada no endereço eletrônico da Prefeitura Municipal de Divinópolis, na rede mundial de computadores.
+
+
+§ 1º
+
+A planilha de cálculo referida no caput será preenchida por profissional devidamente habilitado e as informações apresentadas serão verificadas pelo órgão municipal competente.
+
+
+§ 2º
+
+Para cada irregularidade haverá um campo a ser preenchido, onde serão automaticamente aplicados os valores, conforme o Anexo I e aplicados os fatores de correção previstos nos Anexos II e III.
+
+
+Art. 14.
+
+A multa poderá ser parcelada em até 12 (doze) vezes, quando o valor for superior a 5 (cinco) UPFMD.
+
+
+###### Subseção III — Da inspeção técnica local
+
+
+Art. 15.
+
+Para fins de licenciamento, o interessado deverá promover, por intermédio de profissional técnico habilitado, inspeção técnica na edificação objeto de regularização, sob exclusiva responsabilidade do respectivo profissional, não cabendo vistoria in loco por parte do corpo técnico da Administração Pública Municipal.
+
+
+Art. 16.
+
+A edificação poderá, em decorrência de diligências, amostragens ou denúncias, ser objeto de auditoria e/ou de ações fiscalizatórias, para constatação de possíveis alterações ou inconsistências na documentação apresentada, bem como omissões técnicas que, caso constatadas, serão notificadas aos órgãos interessados, inclusive, para aplicação das sanções cabíveis.
+
+
+##### Seção II — Da regularização do imóvel
+
+
+Art. 17.
+
+A edificação será considerada regularizada somente após a emissão do termo de habite-se ou certificado de conclusão de obras (CCO).
+
+
+Parágrafo único
+
+O habite-se/certificado de conclusão de obras (CCO) deverá ser requerido pelo interessado, conforme art. 93 da Lei n° 9.350/24, após a conclusão de toda e qualquer obra proposta no projeto arquitetônico aprovado, inclusive para as edificações enquadradas no aprazamento constante na Lei 8.770/20.
+
+
+Art. 18.
+
+Para os casos enquadrados nesta Lei em que a solicitação de termo de habite-se/CCO ocorrer no prazo máximo de 180 (cento e oitenta) dias a partir da emissão do alvará de licença para a execução de obras, haverá redução na taxa de emissão do termo de habite-se/CCO, conforme segue:
+
+
+I –
+
+50 % (cinquenta por cento) para imóveis construídos de acordo com a Lei n° 1.071/88 - Código Municipal de Obras - e com a Lei n° 2.418/88 - Lei de Uso e Ocupação do Solo (ambas já revogadas), porém sem aprovação do projeto;
+
+
+II –
+
+75% (setenta e cinco por cento) para imóveis construídos de acordo com a Lei n° 1.071/88 - Código Municipal de Obras - e com a Lei n° 2.418/88 - Lei de Uso e Ocupação do Solo (ambas já revogadas), porém em desacordo com o projeto aprovado.
+
+
+Art. 19.
+
+Haverá redução de 50% sobre a taxa prevista no artigo 155 da Lei Complementar n° 7/91 - Código Tributário e Fiscal do Município de Divinópolis, referente a punição por habitação, ocupação e utilização de imóveis antes da emissão do termo de habite-se.
+
+
+Parágrafo único
+
+Para fazer jus à redução prevista no caput, o proprietário da edificação terá prazo máximo de 90 (noventa) dias, a contar do final do prazo de vigência desta Lei, para solicitar o termo de habite-se.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 20.
+
+A existência de notificação, autuação ou multa anteriores, desde que cumpridas as obrigações geradas, não impede o interessado quanto ao gozo dos benefícios concedidos nesta Lei.
+
+
+Art. 21.
+
+Para efeitos desta Lei, somente profissionais habilitados e devidamente inscritos perante a Administração Pública Municipal, por meio do sistema digital e em situação regular junto aos respectivos conselhos profissionais, poderão assinar, como autores e/ou responsáveis técnicos, quaisquer peças referentes aos imóveis que serão submetidas à análise de enquadramento para as benesses concedidas nesta Lei.
+
+
+Art. 22.
+
+Para edificação concluída, de uso residencial unifamiliar de até um pavimento, com área construída cuja soma total das áreas edificadas em cada fração do lote não exceda a 69,99 m², e edificação cujo proprietário, devidamente inscrito no CadÚnico, ostente condição de vulnerabilidade social, assim tecnicamente atestado, bem como seja beneficiário de programa de transferência de renda, fica dispensado de:
+
+
+I –
+
+análise e aprovação de projeto arquitetônico;
+
+
+II –
+
+pagamento de multa decorrente de ocupação de imóvel residencial antes da emissão de habite-se ou irregularidades diante de normas contidas na Lei 1.071/73 ou Lei 2.418/88; III - emissão de CCO ou habite-se.
+
+
+§ 1º
+
+As edificações de que trata o caput serão considerados regulares se, no período de vigência desta Lei, solicitarem o lançamento da construção ou sua atualização no sistema de Cadastro Imobiliário da Prefeitura Municipal de Divinópolis, devendo o Município emitir a certidão correspondente, para fins de averbação da construção junto aos cartórios de registro, devendo-se apresentar os seguintes documentos:
+
+
+I –
+
+croqui de demarcação contendo:
+
+
+a)
+
+planta situação;
+
+
+b)
+
+planta de implantação da edificação;
+
+
+c)
+
+levantamento topográfico do terreno, conforme regulamentado pelo Código de Obras;
+
+
+II –
+
+ART, TRT ou RRT original devidamente assinada referente a:
+
+
+a)
+
+levantamento topográfico do terreno;
+
+
+b)
+
+autoria do projeto arquitetônico;
+
+
+c)
+
+laudo de estabilidade ou execução da obra;
+
+
+d)
+
+execução de muro de arrimo caso exista;
+
+
+III –
+
+certidão de registro imobiliário emitida pelo Cartório de Registro de Imóveis, referente ao respectivo terreno, atualizada em até 90 dias, no ato do protocolo;
+
+
+IV –
+
+VETADO.
+
+
+V –
+
+relatório fotográfico do imóvel;
+
+
+VI –
+
+Termo de Responsabilidade do Proprietário ou Possuidor.
+
+
+§ 2º
+
+VETADO.
+
+
+Art. 23.
+
+Quanto a edificações residenciais unifamiliares de até um pavimento, com área máxima de 150,00 m², haverá dispensa dos procedimentos de análise e aprovação de projetos arquitetônicos, e isenção de pagamento de multas por ocupação de imóvel residencial antes da emissão do termo de habite-se.
+
+
+§ 1º
+
+Para fins do previsto no *caput*, o interessado deverá apresentar a documentação descrita no § 1º do art. 8º, cuja análise competirá à Gerência de Fiscalização de Obras.
+
+
+§ 2º
+
+À Gerência de Cadastro competirá a emissão de certidão que possibilite a averbação da construção junto aos cartórios de registro competentes.
+
+
+Art. 24.
+
+Eventuais casos omissos deverão ser analisados pela Comissão de Uso e Ocupação do Solo, a qual deverá deliberar, de forma fundamentada.
+
+
+Art. 25.
+
+Esta Lei poderá ser regulamentada por decreto executivo, no que couber.
+
+
+Art. 26.
+
+Na hipótese de paralisação do processo de regularização por prazo superior a 30 (trinta) dias, por culpa do interessado, o processo será encaminhado aos setores competentes de cadastro imobiliário, para que se proceda o cadastramento da construção e a cobrança das multas devidas, em sua integralidade.
+
+
+Art. 27.
+
+As taxas incidentes, referentes aos trâmites de aprovação de projetos, serão lançadas conforme Lei nº 9.350/24 e Lei Complementar nº 007/91.
+
+
+Art. 28.
+
+Aprovado o projeto, o certificado de conclusão de obras deverá ser requerido nos termos da Lei 9.350/24.
+
+
+Art. 29.
+
+Para ser contemplado com os benefícios regulados nesta Lei, o interessado deverá requerer a regularização da edificação no prazo de até 48 (quarenta e oito) meses, a contar da publicação desta Lei, por meio de processo administrativo junto ao setor de planejamento urbano da Prefeitura Municipal de Divinópolis.
+
+
+Art. 30.
+
+Os prazos para análise e aprovação de projetos a que se refere esta Lei serão estabelecidos em regulamento executivo.
+
+
+Art. 31.
+
+Em caráter excepcional, promovida a regularização da edificação no prazo até 180 (cento e oitenta) dias, a contar da publicação desta Lei, a multa a que faz referência a Subseção II sofrerá um desconto automático e não condicionado de 30% (trinta por cento) sobre seu valor nominal.
+
+
+Parágrafo único
+
+Para o cumprimento desta Lei, observam-se as disposições relativas aos padrões construtivos constantes na Lei Complementar nº 236/2023.
+
+
+Art. 32.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Divinópolis, 17 de junho de 2025.
+
+***Gleidson Gontijo de Azevedo***
+
+**Prefeito Municipal**
+
+***Leandro Luiz Mendes***
+
+**Procurador-geral do Munícipio**
+
+
+## Anexo I — CÁLCULO DAS IRREGULARIDADES REFERENTES AOS PARÂMETROS CONSTRUTIVOS
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><p><strong>1.2. Parâmetros construtivos</strong></p></td><td colspan="2"><p><strong>Critério de Aplicação</strong></p></td></tr><tr><td rowspan="3"><p>1. Gabarito</p></td><td><p>Excesso de altura (em andares)</p></td><td><p>0,34 UPFMD por metro quadrado de área dos andares em excesso</p></td></tr><tr><td><p>Excesso de altura (em metros)</p></td><td><p>0,34 UPFMD por metro quadrado de área dos andares em excesso</p></td></tr><tr><td><p>Excesso de altura na divisa quando existirem gabaritos lateral</p></td><td><p>25% (vinte e cinco por cento) de acréscimo sobre o excesso de altura em andares e/ou em metros</p></td></tr><tr><td colspan="2"><p>2. Coeficiente de aproveitamento do terreno</p></td><td><p>0,34 UPFMD por metro quadrado de excesso</p></td></tr><tr><td colspan="2"><p>3. Taxa de ocupação</p></td><td><p>0,34 UPFMD por metro quadrado de excesso</p></td></tr><tr><td colspan="2"><p>4. Taxa de permeabilidade do terreno</p></td><td><p>0,34 UPFMD por metro quadrado de excesso</p></td></tr><tr><td rowspan="3"><p>5. Afastamentos</p></td><td><p>Frontal (a partir do alinhamento do terreno)</p></td><td><p>01 (uma) UPFMD por metro quadrado de afastamento não respeitado</p></td></tr><tr><td><p>Lateral (a partir das divisas laterais do terreno)</p></td><td><p>01 (uma) UPFMD por metro quadrado de afastamento não respeitado</p></td></tr><tr><td><p>Fundo (a partir da divisa de fundo do terreno)</p></td><td><p>01 (uma) UPFMD por metro quadrado de afastamento não respeitado</p></td></tr><tr><td rowspan="7"><p>6. Estacionamento1</p></td><td><p>Vaga de estacionamento veículos leves</p></td><td><p>2 UPFMD por vaga reduzidos do mínimo necessário</p></td></tr><tr><td><p>Vaga de estacionamento para motos para PGVs</p></td><td rowspan="6"><p> </p></td></tr><tr><td><p>Vaga de estacionamento</p></td></tr><tr><td><p>Vaga de estacionamento para bicicletas</p></td></tr><tr><td><p>Dimensionamento de área de manobra</p></td></tr><tr><td><p>Carga e descarga</p></td></tr><tr><td><p>Embarque e desembarque</p></td></tr><tr><td colspan="2"><p>7. Vão aberto a menos de 1,50 m (um metro e cinquenta centímetros) da divisa</p></td><td><p>0,5 UPFMD por vão</p></td></tr><tr><td colspan="2"><p>8. Substituição da área de pilotis (área de uso comum), por unidades residenciais (área privada)</p></td><td><p>0,34 UPFMD por metro quadrado de substituição</p></td></tr><tr><td colspan="2"><p>9. Insuficiência em áreas de iluminação e ventilação, não incidente em residências unifamiliares (fossos)</p></td><td><p>2,5 UPFMD por metro quadrado dos ambientes voltados para a área</p></td></tr><tr><td rowspan="13"><p>10. Outras irregularidades2</p></td><td><p>Concordância de alinhamentos nos cruzamentos de logradouros (chanfro)</p></td><td rowspan="13"><p>0,1 UPFMD para cada metro quadrado de área construída onde ocorrer a irregularidade</p></td></tr><tr><td><p>Altura de pés direitos</p></td></tr><tr><td><p>Vãos de iluminação e ventilação</p></td></tr><tr><td><p>Área mínima de iluminação menor que 6m² (seis metros quadrados)</p></td></tr><tr><td><p>Vergas</p></td></tr><tr><td><p>Escadas</p></td></tr><tr><td><p>Corredores</p></td></tr><tr><td><p>Configuração mínima de cômodos</p></td></tr><tr><td><p>Área mínima de cômodos</p></td></tr><tr><td><p>Intercomunicação de cômodos</p></td></tr><tr><td><p>Balanço</p></td></tr><tr><td><p>Marquises</p></td></tr><tr><td><p>Outros assemelhados</p></td></tr><tr><td colspan="2"><p>11. Por elemento construtivo ou decorativo da edificação avançado no recuo obrigatório do chanfro.</p></td><td><p>5,00 UPFMD</p></td></tr><tr><td colspan="2"><p>12. Mais de 03 (três) entradas em rampa por testada de lote, ou cuja a soma das larguras destas entradas ultrapassem 50% (cinquenta por cento) da respectiva testada</p></td><td><p>2,00 UPFMD por linear de excesso</p></td></tr></tbody></table>
+
+1Não incidente em residências unifamiliares até 100 m² (cem metros quadrados) de área construída.
+
+2Não incidente em residências unifamiliares até 100 m² (cem metros quadrados) de área construída.
+
+
+## Anexo II — FATORES DE CORREÇÃO
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>2.1. Fatores de correção - índices</strong></p></td></tr><tr><td colspan="2"><p><strong>2.1.1. Natureza da ocupação</strong></p></td></tr><tr><td><p>Residência Unifamiliar</p></td><td><p>0,8</p></td></tr><tr><td><p>Residência Multifamiliar</p></td><td><p>1,0</p></td></tr><tr><td><p>Comércio</p></td><td><p>1,2</p></td></tr><tr><td><p>Serviço</p></td><td><p>1,2</p></td></tr><tr><td><p>Centro de Compras e Serviços</p></td><td><p>1,2</p></td></tr><tr><td><p>Serviço de Uso Coletivo</p></td><td><p>0,8</p></td></tr><tr><td><p>Indústria</p></td><td><p>1,2</p></td></tr><tr><td><p>Atividades Especiais</p></td><td><p>1,2</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>2.1.2. Área construída</strong></p></td></tr><tr><td><p>Menor ou igual a 60m²</p></td><td><p>0,5</p></td></tr><tr><td><p>Maior que 60m² e menor ou igual a 100m²</p></td><td><p>0,8</p></td></tr><tr><td><p>Maior que 100m² e menor ou igual a 500 m²</p></td><td><p>1,0</p></td></tr><tr><td><p>Maior que 500m² e menor ou igual a 1.000 m²</p></td><td><p>1,1</p></td></tr><tr><td><p>Maior que 1.000 m²</p></td><td><p>1,3</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>2.1.3. Estado de conservação</strong></p></td></tr><tr><td><p>Muito boa</p></td><td><p>1,0</p></td></tr><tr><td><p>Boa</p></td><td><p>0,9</p></td></tr><tr><td><p>Regular</p></td><td><p>0,8</p></td></tr><tr><td><p>Má</p></td><td><p>0,6</p></td></tr><tr><td><p>Muito má</p></td><td><p>0,4</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p>2.1.4. Idade aparente</p></td></tr><tr><td><p>0 a 10 anos</p></td><td><p>1,0</p></td></tr><tr><td><p>11 a 20 anos</p></td><td><p>0,9</p></td></tr><tr><td><p>21 a 30 anos</p></td><td><p>0,8</p></td></tr><tr><td><p>31 a 40 anos</p></td><td><p>0,7</p></td></tr><tr><td><p>mais de 40 anos</p></td><td><p>0,6</p></td></tr></tbody></table>
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>2.1.5. Padrão de acabamento, deverá ser definido em conformidade com o Anexo III desta Lei.</strong></p></td></tr><tr><td><p>Alto</p></td><td><p>1,3</p></td></tr><tr><td><p>Médio</p></td><td><p>1,1</p></td></tr><tr><td><p>Econômico</p></td><td><p>1,0</p></td></tr><tr><td><p>Popular</p></td><td><p>0,8</p></td></tr><tr><td><p>Sub-Habitação</p></td><td><p>0,5</p></td></tr></tbody></table>
+
+2.2. - Fator de correção, determinado a partir do produto dos índices constantes no item "2.1."
+
+
+## Anexo III — CLASSIFICAÇÃO DO PADRÃO DE ACABAMENTO DOS IMÓVEIS
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>3.1. Padrão de acabamento - índices</strong></p></td></tr><tr><td colspan="2"><p><strong>3.1.1. Localização no terreno</strong></p></td></tr><tr><td><p>Frente…………………………………………………………………………………..</p></td><td><p>15 pontos</p></td></tr><tr><td><p>Fundo…………………………………………………………………………………..</p></td><td><p>05 pontos</p></td></tr><tr><td colspan="2"><p><strong>3.1.2. Estrutura</strong></p></td></tr><tr><td><p>Concreto……………………………………………………………………………….</p></td><td><p>30 pontos</p></td></tr><tr><td><p>Mista……………………………………………………………………………………</p></td><td><p>20 pontos</p></td></tr><tr><td><p>Tijolo……………………………………………………………………………………</p></td><td><p>15 pontos</p></td></tr><tr><td><p>Madeira………………………………………………………………………………..</p></td><td><p>10 pontos</p></td></tr><tr><td><p>Adobe…………………………………………………………………………………..</p></td><td><p>05 pontos</p></td></tr><tr><td colspan="2"><p><strong> 3.1.3. Fachada</strong></p></td></tr><tr><td><p>Parede emassada e revestimentos especiais……………………………………..</p></td><td><p>30 pontos</p></td></tr><tr><td><p>Parede emassada…………………………………………………………………….</p></td><td><p>20 pontos</p></td></tr><tr><td><p>Argamassa pintada…………………………………………………………………..</p></td><td><p>15 pontos</p></td></tr><tr><td><p>Massa grossa sem pintura…………………………………………………………..</p></td><td><p>10 pontos</p></td></tr><tr><td><p>Sem reboco……………………………………………………………………………</p></td><td><p>05 pontos</p></td></tr><tr><td colspan="2"><p><strong> 3.1.4. Paredes internas</strong></p></td></tr><tr><td><p>Argamassa e revestimentos especiais……………………………………………..</p></td><td><p>35 pontos</p></td></tr><tr><td><p>Emassada……………………………………………………………………………..</p></td><td><p> 25 pontos</p></td></tr><tr><td><p>Argamassa pintada…………………………………………………………………...</p></td><td><p>15 pontos</p></td></tr><tr><td><p>Reboco caiado………………………………………………………………………..</p></td><td><p>10 pontos</p></td></tr><tr><td><p> Sem reboco…………………………………………………………………………...</p></td><td><p>05 pontos</p></td></tr><tr><td colspan="2"><p><strong>3.1.5. Piso Interno</strong></p></td></tr><tr><td><p>Sintético, mármore, cerâmica……………………………………………………….</p></td><td><p>30 pontos</p></td></tr><tr><td><p> Tacos encerados, ladrilhos…………………………………………………………..</p></td><td><p>25 pontos</p></td></tr><tr><td><p>Cimento………………………………………………………………………………..</p></td><td><p> 15 pontos</p></td></tr><tr><td><p>Tijolo……………………………………………………………………………………</p></td><td><p>10 pontos</p></td></tr><tr><td><p>Chão batido……………………………………………………………………………</p></td><td><p>05 pontos</p></td></tr><tr><td colspan="2"><p><strong>3.1.6. Forro</strong></p></td></tr><tr><td><p>Laje……………………………………………………………………………………..</p></td><td><p>30 pontos</p></td></tr><tr><td><p>Friso de madeira……………………………………………………………………...</p></td><td><p>10 pontos</p></td></tr><tr><td><p>Vão livre……………………………………………………………………………….</p></td><td><p>05 pontos</p></td></tr><tr><td colspan="2"><p><strong>3.2. Padrão de acabamento - classificação,</strong> a partir do somatório dos índices constantes no item "3.1."</p></td></tr><tr><td colspan="2"><p>140 a 160 pontos……………………………………………………...………………………...Alto</p></td></tr><tr><td colspan="2"><p>120 a 140 pontos……………………………………………………...………………………Médio</p></td></tr><tr><td colspan="2"><p>70 a 120 pontos………………………………………………………...………………..Econômico</p></td></tr><tr><td colspan="2"><p>40 a 70 pontos………………………………………………………...……………………..Popular</p></td></tr><tr><td colspan="2"><p>0 a 40 pontos……………………………………………………………………...…Sub-habitação</p></td></tr></tbody></table>
+
+
+## Anexo IV — ANISTIA A EDIFICAÇÕES IRREGULARES (LEI Nº)
+
+<table><colgroup><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="9"><p>PLANILHA DE CÁLCULO DOS CUSTOS</p></td></tr><tr><td colspan="9"><p>1. Caracterização do Imóvel:</p></td></tr><tr><td colspan="9"><p>Dados Gerais:</p></td></tr><tr><td colspan="9"><p>Proprietário/possuidor:</p></td></tr><tr><td colspan="9"><p>Zona: Quadra: Lote:</p></td></tr><tr><td colspan="9"><p>Classificação ( art. 2º )</p></td></tr><tr><td colspan="9"><p> em desacordo c/ Leis 1.071/73, 2418/88, <strong>9330/2024 e 9350/2024 </strong>( I )</p></td></tr><tr><td colspan="9"><p>de acordo c/ Leis, em desacordo c/ projeto aprovado ( II )</p></td></tr><tr><td colspan="9"><p> de acordo c/ Leis, sem projeto aprovado ( III )</p></td></tr><tr><td colspan="9"><p>Natureza da(s) irregularidade(s) verificada (s): ( Tabela A )</p></td></tr><tr><td colspan="5"><p>Natureza</p></td><td colspan="2"><p>Unidade</p></td><td colspan="2"><p>Quantitativo</p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="5"><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><ol><ul><li><p>Área Construída Total: ( Tabela B ):</p></li></ul></ol></td></tr><tr><td colspan="9"><ol><ul><li><p>Padrão de Acabamento da edificação: ( Anexo II e Tabela C ):</p></li></ul></ol></td></tr><tr><td colspan="9"><ol><ul><li><p>Natureza da Ocupação: ( Tabela D):</p></li></ul></ol></td></tr><tr><td colspan="9"><ol><ul><li><p>Outras Observações:</p></li></ul></ol></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><p>2. Descontos, Valores e Coeficientes Apurados:</p></td></tr><tr><td colspan="9"><p>2.2. sem desconto ( I )</p></td></tr><tr><td colspan="9"><p> desconto 50% ( II )</p></td></tr><tr><td colspan="9"><p> desconto 25% ( III )</p></td></tr><tr><td colspan="9"><p> </p><p>2.3. Irregularidades</p></td></tr><tr><td><p>I</p></td><td><p>I</p></td><td><p>I</p></td><td><p>I</p></td><td colspan="2"><p>I</p></td><td colspan="2"><p>I</p></td><td><p>∑ I</p></td></tr><tr><td><p> </p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td><td><p> </p></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><p>2.4. ×</p></td></tr><tr><td colspan="9"><p>2.5. ×</p></td></tr><tr><td colspan="9"><p>2.6. ×</p></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><p>3. Cálculos das Multas Devidas:</p></td></tr><tr><td colspan="6"><p>* Valor Final da Multa = ∑ I × F.I.4 × F.I.5 × F.I.6 ( Ufir )</p></td><td colspan="2"><p> </p></td><td><p> </p></td></tr><tr><td colspan="4"><p>∑ I = Somatório das Irregularidades Apuradas no Item 2</p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td><td><p> </p></td></tr><tr><td colspan="4"><p>F = Fatores Apurados no Item 2</p></td><td colspan="2"><p> </p></td><td colspan="2"><p> </p></td><td><p> </p></td></tr><tr><td colspan="9"><p>Cálculo = V.A.3 = </p></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><p>4. Cálculo das Taxas de Aprovação * Valor Final da Taxa de Aprovação =</p></td></tr><tr><td colspan="9"><p> ( Valor Vigente p/ m² × Área Construída ) - ( Desconto Item 1.2)</p></td></tr><tr><td colspan="9"><p>Cálculo = V.A.4 = </p></td></tr><tr><td colspan="9"><p> </p></td></tr><tr><td colspan="9"><p>5. Cálculo Final dos Custos: * Custo Final = V.A.3 + V.A.4 =</p></td></tr><tr><td colspan="9"><p>V.A.3 = Valor Apurado no Item 3</p></td></tr><tr><td colspan="9"><p>V.A.4 = Valor Apurado no Item 4</p></td></tr><tr><td colspan="9"><p>Cálculo</p></td></tr><tr><td colspan="9"><p> </p></td></tr></tbody></table>
+
+
+## Anexo V — DECLARAÇÃO DE COMPROVAÇÃO DE EXISTÊNCIA/CONSTRUÇÃO
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p>EU,_____________________________________________,CPFNº_________________,RG Nº______________________, PROPRIETÁRIO DA CONSTRUÇÃO EDIFICADA NO LOTE _____ DA QUADRA _______, NA ZONA _________, SITUADA À_______________________________________BAIRRO_____________________, DIVINÓPOLIS/MG, CONJUNTAMENTE COM O RESPONSÁVEL TÉCNICO ABAIXO IDENTIFICADO, DECLARAMOS PARA FINS DE COMPROVAÇÃO JUNTO À PREFEITURA MUNICIPAL DE DIVINÓPOLIS, QUE A EDIFICAÇÃO ACIMA DESCRITA ENCONTRA-SE NA SEGUINTE FASE:</p><p>CONCLUÍDA</p><p>ESTRUTURA PORTANTE</p><p>DESTA FORMA, VALEMO-NOS DESTE INSTRUMENTO PARA DECLARAR A CONCLUSÃO DA OBRA E/OU ESTRUTURA PORTANTE EM DATA ANTERIOR À PUBLICAÇÃO DA LEI Nº X.XXX/2025</p><p>DECLARAMOS ESTAR CIENTES DA RESPONSABILIDADE PELA VERACIDADE DAS INFORMAÇÕES PRESTADAS, SOB PENA DE INCORRER NO ARTIGO 299¹ DO CÓDIGO PENAL BRASILEIRO.</p><p>RESPONSÁVEL TÉCNICO PELA EDIFICAÇÃO: ___________________________________</p><p>NÚMERO CREA/CAU/CFT: _________________ </p><p>NÚMERO DA ART/RRT/TRT: ______________________</p><p><br><br></p><p>DIVINÓPOLIS, ___ DE ____________ DE 20_______</p><p><br><br></p><p>______________________________________________</p><p>PROPRIETÁRIO DA EDIFICAÇÃO</p><p><br><br></p><p>___________________________________________________________</p><p>RESPONSÁVEL TÉCNICO</p><p><br><br></p><ul><li><p>A ESTE DOCUMENTO DEVERÁ SER ANEXADO RELATÓRIO FOTOGRÁFICO, QUE COMPROVEM AS CONDIÇÕES QUE SE ENCONTRA A EDIFICAÇÃO.</p></li></ul><p>__________________</p><p>1Falsidade ideológica</p><p><strong>Art. 299</strong>– Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante:</p><p><strong>Pena </strong>– reclusão, de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o documento é particular.</p><p><strong>Parágrafo único</strong>– Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, ou se a falsificação ou alteração é de assentamento de registro civil, aumenta-se a pena de sexta parte.</p></td></tr></tbody></table>
+
+
+**ATENÇÃO**
+
+**O SAPL tem cunho informativo e educativo, sendo a fonte de publicação eletrônica do Processo Legislativo da Câmara Municipal de Divinópolis, dada sua capacidade de abrangência. Porém, não dispensa a consulta aos textos oficiais para a prova da existência de direito, nos termos do art. 337 do Código de Processo Civil.**
+
+**A compilação tem por finalidade abreviar e facilitar a consulta às fontes de informação legislativa. A compilação de Leis do Município de Divinópolis é uma iniciativa mantida pela Secretaria Legislativa da Câmara, em respeito à sociedade e ao seu direito de acesso à informação, com finalidade de facilitar a pesquisa de leis e suas relações.**
+
+**Assim, dadas as limitações existentes, essa compilação é um facilitador de pesquisa, mas não resume todo o processo e não deve, no estágio atual, ser a única referência.**

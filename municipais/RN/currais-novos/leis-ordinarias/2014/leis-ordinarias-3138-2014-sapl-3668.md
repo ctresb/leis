@@ -1,0 +1,3550 @@
+---
+titulo: "Lei Ordinária-CMCN nº 3.138, de 14 de novembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3138"
+data: "2014-11-14"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2025-11-11; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/3668"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/5/text"
+sha256_fonte: "f9a1e45408419338a718f211af7f12ec4b79165058ca80a2cb3db8cc61ac2f24"
+sha256_texto: "eb4883a1e76d6b22f2bcf2b3da83a7e321cc3192c3254e7a4ac7a1c40153c30b"
+capturado_em_fonte: "2026-10-28T09:47:07.702222-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 3.138, de 14 de novembro de 2014
+
+**Institui o Código Municipal de Saúde, disciplinando os procedimentos a serem desenvolvidos no Município de Currais Novos/RN, na execução do Sistema de Vigilância Sanotária, e dá outras providências.**
+
+
+O Prefeito Municipal de Currais Novos, Estado do Rio Grande doo Norte, no uso das atribuições legais,
+
+Faço saber que a Câmara Municipal de Currais Novos/RN aprovou o Projeto de Lei Nº 014/2014 de autoria do Poder Executivo Municipal e EU sanciono a seguinte lei:
+
+
+### TÍTULO I — Das Disposições Preliminares
+
+
+Art. 1º.
+
+A saúde é um direito fundamental de todos e dever do Poder Público, assegurado mediante políticas sociais, econômicas e ambientais, que visam à redução do risco de doenças e de outros agravos, bem como o acesso universal e igualitário às ações e serviços de saúde para sua promoção, proteção e recuperação.
+
+
+Parágrafo único
+
+O dever do Poder Público não exclui o dever das pessoas, da família, das pessoas jurídicas de direito privado e da sociedade.
+
+
+Art. 2º.
+
+A saúde tem como fatores determinantes e condicionantes, entre outros, a alimentação, a moradia, o saneamento básico, o meio ambiente, o trabalho, a renda, a educação, o transporte, o lazer e o acesso aos bens e serviços essenciais, entre outros previstos em lei ou regulamento.
+
+
+### TÍTULO II — Do Sistema Municipal de Saúde
+
+
+#### CAPÍTULO I — Natureza e Finalidade
+
+
+Art. 3º.
+
+O Sistema Municipal de Saúde é constituído pelo conjunto de ações e serviços de saúde desempenhados por órgãos e instituições públicas de nível Federal, Estadual e Municipal da administração direta e indireta, situados no município.
+
+
+Parágrafo único
+
+A iniciativa privada poderá participar em caráter complementar ao Sistema Municipal de Saúde mediante contrato ou convênio, dando-se preferência às entidades sem fins lucrativos e filantrópicas.
+
+
+Art. 4º.
+
+As ações e os serviços de saúde, realizados no Município, compreendem uma estrutura regionalizada e hierarquizada em níveis de complexidade crescente, que compõe o Sistema Único de Saúde (SUS), e que visam à integralidade da assistência nas três esferas de poder observando as pactuações e responsabilidades de cada ente, dentre outros objetivos previstos em lei ou regulamento.
+
+
+I –
+
+a identificação e divulgação dos fatores condicionantes e determinantes de saúde;
+
+
+II –
+
+a assitência às pessoas através de ações de promoção, proteção e assistência à saúde;
+
+
+III –
+
+a instituir ações de prevenção de fatores que possam constituir-se em risco de doenças e/ou agravos à coletividade e ao indivíduo.
+
+
+Art. 5º.
+
+O município observará as diretrizes da Política Nacional e Estadual de Saúde, no planejamento e organização dos seus serviços.
+
+
+#### CAPÍTULO II — Das Competências e Atribuições
+
+
+Art. 6º.
+
+Cabe ao Município de Currais Novos, como suas atribuições na efetivação do Sistema Único de Saúde (SUS):
+
+
+I –
+
+planejar, organizar, controlar e avaliar as ações dos serviços de saúde, bem como gerir e executar os serviços públicos de saúde;
+
+
+II –
+
+planejar, programar e organizar a estrutura regionalizada e hierarquizada do SUS, em articulação com a direção estadual;
+
+
+III –
+
+cooperar na execução, controle e avaliação das ações relacionadas às condições e aos ambientes de trabalho;
+
+
+IV –
+
+planejar e executar as ações de vigilância sanitária, epidemiológica e ambiental, bem como participar daquelas ações de competência do Estado e da União que lhe sejam delegados pactuação, convênio, protocolo ou instrumento de delegação;
+
+
+V –
+
+controlar e fiscalizar, junto aos órgãos federais, estaduais e municipais, os procedimentos, produtos, substâncias, equipamentos, imunobiológicos, hemoderivados e outros insumos, e também agressões ao meio ambiente que acarretem malefícios à saúde humana;
+
+
+VI –
+
+promover assistência farmacêutica à população, conforme sua disponibilidade;
+
+
+VII –
+
+exercer o devido controle sobre a qualidade dos alimentos, água e bebidas destinados ao consumo humano;
+
+
+VIII –
+
+colaborar junto aos órgãos competentes de outras esferas do governo, na formulação da política e execução das ações de saneamento básico buscando sempre a proteção e recuperação do meio ambiente;
+
+
+IX –
+
+acompanhar, avaliar e divulgar o nível de saúde da população e das condições ambientais;
+
+
+X –
+
+estruturar e organizar as Coordenação em Vigilâncias como sistema de informação em saúde buscando obter dados que venham a contribuir com a promoção, proteção e recuperação da saúde;
+
+
+XI –
+
+participar da formulação da política e da execução das ações de saneamento básico e contribuir com os órgãos competentes de outras esferas de governo nas ações que visem à proteção e recuperação do meio ambiente;
+
+
+XII –
+
+colaborar com as autoridades estaduais e federais de saúde na formulação e execução de programas de controle e erradicação de endemias, zoonoses, de vigilância sanitária;
+
+
+XIII –
+
+colaborar com a União e o Estado na execução da vigilância sanitária;
+
+
+XIV –
+
+mobilizar, dentro das possibilidades, recursos financeiros e materiais necessários à prestação de ajuda às pessoas vítimas de calamidade pública e de situações de emergência que afetam a saúde da popilação;
+
+
+XV –
+
+participar da fiscalização e do controle da produção, transporte, guarda e utilização de substâncias e produtos psicoativos, tóxicos e radioativos;
+
+
+XVI –
+
+fiscalizar, de acordo com o que dispõem as normas técnicas e regulamentos pertinentes de âmbito municipal, estadual ou federal, postos, farmácias e drogarias, bares, restaurantes, lanchonetes, feiras livres e os estabelecimentos ou locais onde se fabrique, produza, manipule, exponha à venda, consuma, promova o transporte, a guarda, o armazenamento ou o depósito de alimentos destinados ao consumo humano, qualquer que seja o seu estado, origem ou procedência;
+
+
+XVII –
+
+exercer o controle e a fiscalização de todos os serviços de interesse à saúde, realizados por particulares, conveniados ou não, nos termos do disposto no parágrafo único do art. 3º, no âmbito do município;
+
+
+XVIII –
+
+participar da definição, traçado e aprovação de loteamentos urbanos com finalidade de extensão ou formação de núcleos habitacionais;
+
+
+XIX –
+
+incorporar progressivamente práticas alternativas de assistência à saúde, possibilitando ao usuário o direito de escolher a terapêutica preferida;
+
+
+XX –
+
+elaborar o orçamento anual do SUS, de acordo com o Plano Municipal de Saúde, e controlar e fiscalizar a aplicação dos recursos, inclusive os do Fundo Municipal de Saúde, em articulação com o Conselho Municipal de Saúde;
+
+
+XXI –
+
+as demais ações que integram ou venham a integrar o Sistema Único de Saúde, bem como todas aquelas previstas em Lei Orgânica do Município de Currais Novos.
+
+
+Art. 7º.
+
+O Pder Executivo Municipal de Currais Novos fica autorizado a coordenar e regular a forma do exercício das atribuições previstas no art. 6º, observadas as normas legais pertinentes.
+
+
+#### CAPÍTULO III — Da Organização da Direção e da Gestão
+
+
+Art. 8º.
+
+A execução das ações e serviços de saúde pelo Sistema Municipal de Saúde, seja diretamente por órgãos da administração direta ou indireta ou mediante a participação complementar da iniciativa privada, será organizada de forma regionalizada e hierarquizada em níveis crescentes de complexidade.
+
+
+Art. 9º.
+
+A direção do Sistema Municipal de Saúde é única, cabendo privativamente à Secretaria Municipal de Saúde, nos termos da lei.
+
+
+Parágrafo único
+
+A gestão do sistema, consistindo na execução das ações e diretrizes formuladas por sua direção, é atribuição do corpo diretor da Secretaria de Saúde e seus prepostos nos vários níveis de organização, sendo a autonomia gerencial de cada gestor funcionalmente determinada em lei.
+
+
+Art. 10.
+
+Os recursos destinados para as Coordenações em Vigilância deverão ser transferidas para uma conta própria, onde o secretário e os coordenadores definirão a melhor execução dos recursos.
+
+
+Art. 11.
+
+Para a ênfase na descentralização e na democratização da prestação dos serviços, poderá o Município organizar-se em Coordenações, de forma a integrar e articular recursos, técnicas e práticas voltadas para a cobertura total das ações de saúde.
+
+
+Art. 12.
+
+O município poderá constituir consórcios com outros Municípios do Estado, a fim de desenvolver em conjunto as ações e os serviços de saúde que lhes correspondam.
+
+
+#### CAPÍTULO IV — Da Participação Comunitária e Social
+
+
+Art. 13.
+
+Será garantido o caráter democrático da gestão administrativa do Sistema Municipal de Saúde através da participação direta da comunidade, do Conselho Municipal de Saúde, dos serviços de saúde e dos profissionais que os executam ou de suas entidades representativas, a qual atuará no estabelecimento de diretrizes da Política Municipal de Saúde e na fiscalização e controle da execução de suas ações.
+
+
+Art. 14.
+
+A participação da comunidade na gestão do Sistema de Saúde se dará:
+
+
+I –
+
+na fiscalização e controle das ações de saúde;
+
+
+II –
+
+no estabelecimento das diretrizes da Política Municipal de Saúde.
+
+
+Parágrafo único
+
+O Controle Social das Políticas Públicas de Saúde e sua formulação democrática com a participação da comunidade serão exercidos:
+
+
+I –
+
+por intermédio de representação paritária no Conselho Municipal de Saúde, na forma da legislação pertinente;
+
+
+II –
+
+do acesso à Conferência Municipal de Saúde.
+
+
+Art. 15.
+
+Será respeitada a autonomia dos movimentos populares, sindicais, organizações e entidades da área de saúde tanto no seu direito a auto-organização, quanto na indicação de seus representantes junto ao Conselho Municipal de Saúde.
+
+
+Art. 16.
+
+O Conselho Municipal de Saúde, no exercício de suas atribuições legais e regulamentares, poderá instituir conselhos locais e distritais, com o objetivo de incrementar o desempenho do Sistema Municipal de Saúde, observada as diretrizes do SUS.
+
+
+Art. 17.
+
+A instituição de quaisquer novos serviços de saúde, públicos ou privados, no âmbito do SUS, dependerá da apreciação do Conselho Municipal de Saúde que, para sua decisão levará em consideração o perfil epidemiológico, a cobertura, a demanda, a distribuição geográfica, o grau de complexidade e a articulação do SUS.
+
+
+Art. 18.
+
+A Conferência Municipal de Saúde contará com ampla representação da comunidade e terá como objetivo a avaliação da situação de saúde do Município, com vistas à definição de diretrizes e políticas de saúde de modo democrático e participativo.
+
+
+Parágrafo único
+
+A Conferência Municipal de Saúde reunir-se-á, ordinariamente, a cada 02 (dois) anos, por convocação do Prefeito do Município de Currais Novos e extraordinariamente por convocação do Conselho Municipal de Saúde.
+
+
+### TÍTULO III — Da Promoção e da Recuperação da Saúde
+
+
+#### CAPÍTULO I — Dos Serviços de Interesse à Saúde em Geral
+
+
+Art. 19.
+
+Consideram-se serviços de interesse da saúde todas as atividades que envolvam ações, em caráter genérico, de promoção, proteção e recuperação da saúde realizada por pessoas físicas e jurídicas, públicas e privadas, conveniadas ou não ao sistema.
+
+
+Art. 20.
+
+Os serviços de saúde serão estruturados em ordem de complexidade crescente, a partir dos mais simples, executados pela rede de serviços básicos de atenção à saúde, até os mais complexos, a cargo das unidades que prestam assistência diferenciada e especializada de saúde de que o município dispõe.
+
+
+Art. 21.
+
+O município, através da Secretaria Municipal de Saúde, articulada com os demais órgãos competentes, envidará esforços para estimular a participação da comunidade para que atue em prol dos objetivos e metas dos serviços de saúde postos à sua disposição.
+
+
+Art. 22.
+
+Incluem-se entre os serviços de interesse à saúde, dentre outros que venham a ser como tais reconhecidos pela Secretaria Municipal de Saúde:
+
+
+I –
+
+serviços médicos de saúde;
+
+
+II –
+
+serviços odontológicos;
+
+
+III –
+
+serviços de fisioterapia, terapia ocupacional e fonoaudiologia;
+
+
+IV –
+
+serviços de psicologia;
+
+
+V –
+
+serviços de apoio diagnóstico e terapêutico;
+
+
+VI –
+
+serviços de assistência veterinária.
+
+
+Parágrafo único
+
+Incluem-se ainda, entre os serviços de interesse à saúde:
+
+
+I –
+
+estabelecimentos de esteticismo e cosmética, tais como: cabeleireiros, barbearias, institutos de beleza, saunas, casas de banho e congêneres;
+
+
+II –
+
+locais destinados à hospedagem, tais como hotéis, motéis, pensões, hospedaria e assemelhados;
+
+
+III –
+
+estabelecimentos responsáveis pela produção, armazenamento e transporte de material radioativo ou equipamentos que contenham substâncias radioativas;
+
+
+IV –
+
+estabelecimentos que tenham por finalidade serviços de desinfecção, desinsetização, desratização e dedetização de modo geral.
+
+
+Art. 23.
+
+Os serviços de saúde e os de interesse à saúde, privados, de qualquer natureza, somente poderão funcionar mediante licença sanitária e presença de seu responsável técnico devidamente registrado nos Órgãos Sanitários competentes, nos termos da lei e dos regulamentos.
+
+
+Art. 24.
+
+O encerramento das atividades de serviço de saúde requer o cancelamento do respectivo registro junto aos órgãos Sanitários, de acordo com as normas regulamentares.
+
+
+#### CAPÍTULO II — Dos Serviços Básicos de Saúde
+
+
+Art. 25.
+
+São serviços básicos de saúde todos os prestados por estabelecimentos destinados a promover e proteger a saúde individual das doenças e agravos que acometam o indivíduo, prevenir e limitar os danos por eles causados e reabilitá-los quanto à capacidade física, psíquica e social de forma que não seja necessária maior complexidade e especialidade.
+
+
+Parágrafo único
+
+A fim de assegurar à população amplo acesso aos serviços básicos de saúde, a instalação dos mesmos terá preferência sobre quaisquer outros de maior complexidade.
+
+
+Art. 26.
+
+Os serviços básicos de saúde manterão entrosamento permanente com as unidades de maior complexidade mais próximas, para cuidados especializados.
+
+
+#### CAPÍTULO III — Da Assistência
+
+
+Art. 27.
+
+São serviços de assistência médico-hospitalar aqueles destinados a diagnosticar e tratar o indivíduo das doenças e agravos que o acometam, bem como limitar os danos causados e reabilitar quanto à capacidade física, psíquica ou social do indivíduo prestado nos seguintes estabelecimentos:
+
+
+I –
+
+de assistência ambulatorial exclusiva;
+
+
+II –
+
+de assistência de urgência, providos de leitos para repouso ou observação com limitação de tempo de permanência;
+
+
+III –
+
+estabelecimentos de assistência hospitalar, com leitos em regime de internação, e sem limitação de tempo de permanência.
+
+
+Art. 28.
+
+Os estabelecimentos de assistência médico-hospitalar somente poderá funcionar quando devidamente registrados nos órgãos médicos competentes da Secretaria de Saúde, os quais, após a respectiva vistoria, fornecerão o licenciamento sanitário que deverá ser renovado anualmente.
+
+
+Art. 29.
+
+A classificação e as exigências para funcionamento de estabelecimentos de assistência médico-hospitalar serão determinadas pelos órgãos competentes da Secretaria Municipal de Saúde de acordo com o previsto na legislação federal, estadual e municipal pertinentes.
+
+
+Art. 30.
+
+À Secretaria Municipal de Saúde compete ainda, fiscalizar o funcionamento dos estabelecimentos de assistência médico-hospitalar e determinar normas para sua construção, instalação e funcionamento.
+
+
+#### CAPÍTULO IV — Da Saúde da Mulher
+
+
+Art. 31.
+
+A Secretaria Municipal de Saúde prestará assistência à mulher, na sua condição feminina e como mãe, através de ações voltadas à sua integridade física e mental.
+
+
+Art. 32.
+
+Compete ao Município de Currais Novos, através da rede hospitalar do SUS, garantir assistência à mulher, de forma integral, inclusive nos casos de abortamento quando indicado na forma da lei.
+
+
+Parágrafo único
+
+Além da assistência à saúde prevista no caput deste livro, o município propiciará assistência jurídica à mulher, quando se fizer necessário.
+
+
+Art. 33.
+
+Todos os casos relacionados à morbidade e mortalidade materna serão acompanhados pela Secretaria Municipal de Saúde em conjunto com o Conselho Municipal de Saúde e o Comitê de Mortalidade Materna.
+
+
+Art. 34.
+
+Nenhuma medida será adotada em relação ao contingenciamento da prole, sem que haja a indicação médica correspondente, destinada à proteção da saúde materna e o assentimento obtido por livre manifestação de vontade das partes.
+
+
+Art. 35.
+
+As medidas de proteção à saúde do grupo materno-infantil terá sempre por princípio o fortalecimento da família, nos termos da Constituição Federal, e quaisquer ações nesse campo devem ser desenvolvidas em bases éticas e humanísticas.
+
+
+#### CAPÍTULO V — Da Saúde da Criança e do Adolescente
+
+
+Art. 36.
+
+A saúde da criança e do adolescente constitui prioridade entre as ações municipais a serem executadas no âmbito do SUS, abrangendo todas as fases, desde o nascimento da criança até à adolescência, visando ao seu desenvolvimento físico e mental.
+
+
+Art. 37.
+
+A Secretaria Municipal de Saúde, através do seu órgão competente, orientará à organização de proteção à infância e à adolescência, coordenando iniciativas neste sentido.
+
+
+Parágrafo único
+
+A cooperação técnica e material da Secretaria Municipal de Saúde, às instituições públicas de proteção e assistência à infância e à adolescência, será prestada mediante a elaboração de planos de organização e direção de normas e padrões assim como de protocolos de funcionamento de serviços.
+
+
+#### CAPÍTULO VI — Da Saúde Mental
+
+
+Art. 38.
+
+A Secretaria Municipal de Saúde, devidamente articulada com os órgãos estaduais e federais, participará das iniciativas no campo da saúde, no âmbito do município, que visem à prevenção, tratamento e reabilitação psicossocial das pessoas portadores de transtornos mentais.
+
+
+Art. 39.
+
+A Secretaria Municipal de Saúde promoverá a política sanitária municipal com referência à Saúde Mental em consonância com a Legislação e Diretrizes da Política Nacional e Estadual de Saúde, respeitando os princípios da Reforma Psiquiátrica, através de:
+
+
+I –
+
+orientações básicas para a execução do Programa de Saúde Mental, com vistas à prevenção, ao diagnóstico, ao tratamento e à reabilitação;
+
+
+II –
+
+prestação de assessoria técnica, material e financeira, dentro de suas possibilidades;
+
+
+III –
+
+estímulo e promoção de atividades de pesquisa e investigação epidemiológica sobre a prevalência e incidência dos transtornos mentais no município;
+
+
+IV –
+
+organização e estímulo para a criação de unidades extra-hospitalares, a fim de evitar o afastamento do paciente de sua comunidade e promover terapêutica de manutenção e reintegração social dos egressos.
+
+
+Art. 40.
+
+Paciente com transtorno psíquico só poderá ser internado em estabelecimento psiquiátrico depois de esgotados todos os recursos extra-hospitalares, mediante laudo médico circunstanciado que caracterize seus motivos;
+
+
+Parágrafo único
+
+São passíveis de cassação da licença de funcionamento, pelas autoridades sanitárias, os estabelecimentos psiquiátricos que procederem ao internamento de pacientes em desacordo com o disposto no caput deste Artigo.
+
+
+Art. 41.
+
+É vedada, quer nos estabelecimentos destinados à assistência aos portadores de transtornos mentais, quer fora deles, prática de quaisquer atos litúrgicos de religião, culto ou seita com finalidade terapêutica, ainda que a título filantrópico e exercida gratuitamente.
+
+
+Art. 42.
+
+É vedada a pessoas sem habilitação legal para o exercício da profissão a prática de técnicas capazes de influenciar o estado mental de indivíduos ou da coletividade, ainda que sem finalidade de proteção ou recuperação da saúde.
+
+
+Art. 43.
+
+A profilaxia das dependências e uso abusivo de substâncias psicoativas, bem como o tratamento e reabilitação dos usuários, devem obedecer às normas legais e regulamentares vigentes.
+
+
+Art. 44.
+
+Os serviços psiquiátricos dos estabelecimentos penais terão por objetivo a assistência médica dos reclusos que apresentarem distúrbios mentais, tendo por atribuição, também, propor medidas preventivas na área de psiquiatria aos demais reclusos.
+
+
+#### CAPÍTULO VII — Da Saúde Bucal
+
+
+Art. 45.
+
+A Secretaria Municipal de Saúde executará e/ou participará da execução de atividades em que se integram às funções de promoção, proteção e recuperação da saúde bucal da coletividade, especialmente da população em idade escolar.
+
+
+Art. 46.
+
+À autoridade sanitária municipal, através do setor especializado, compete incentivar a realização de estudos e de pesquisas na área da Saúde Bucal, formulando seus objetivos básicos.
+
+
+#### CAPÍTULO VIII — Da Saúde do Idoso
+
+
+Art. 47.
+
+A atenção à saúde do idoso compreende as ações individuais e coletivas desenvolvidas pelos serviços de saúde do SUS, com o objetivo de prolongamento da atividade ou da vida ativa, autônoma e independente, vinculada à família e à coletividade propiciando a potencialização de sua participação na vida da comunidade.
+
+
+#### CAPÍTULO IX — Da Saúde da Pessoa Portadora de Deficiência
+
+
+Art. 48.
+
+A atenção à saúde da pessoa portadora de deficiência compreende as ações individuais e coletivas desenvolvidas pelos serviços de saúde do SUS e incluirão obrigatoriamente:
+
+
+I –
+
+acesso a todas as ações, produtos e serviços de saúde com eliminação de barreiras, especialmente as arquitetônicas;
+
+
+II –
+
+direito à habilitação e reabilitação através de ações interprofissionais que levem em conta o desenvolvimento da potencialidade da pessoa portadora de deficiência reduzindo suas limitações.
+
+
+#### CAPÍTULO X — Das Doenças Sexualmente Transmissíveis e AIDS
+
+
+Art. 49.
+
+A Rede Municipal de Saúde, integrante do SUS, deverá obrigatoriamente desenvolver ações de prevenção e controle das doenças sexualmente transmissíveis, através de assistência integral e campanhas educativas.
+
+
+Art. 50.
+
+Atenção especial será dada às ações de prevenção e controle da AIDS, através da assistência integral e campanhas educativas visando o beneficiam dos portadores do vírus HIV.
+
+
+Art. 51.
+
+As ações referidas nos arts. 49 e 50 serão realizadas pela Secretaria Municipal de Saúde em articulação com os órgãos competentes do Estado e da União e com a participação da comunidade, observadas as normas legais e regulamentares pertinentes.
+
+
+Art. 52.
+
+As instituições de saúde pública ou privada que recusarem atendimento aos portadores do vírus HIV, ficarão sujeitos às sanções estabelecidas neste Código para infração de natureza gravíssima.
+
+
+### TÍTULO IV — Da Vigilência à Saúde
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 53.
+
+Pela interdependência de seu conteúdo e do desenvolvimento de suas ações, a Vigilância Sanitária, a Vigilância Epidemiológica, a Vigilância à Saúde do Trabalhador e a Saúde Ambiental são tratadas conceitualmente como Vigilância à Saúde, implicando compromisso solidário do Poder Público, do setor privado e da sociedade em geral na proteção e defesa da qualidade de vida e na prevenção articulada dos agravos à saúde pública.
+
+
+§ 1º
+
+No âmbito do município de Currais Novos, as ações de vigilância sanitária, vigilância epidemiológica, vigilância à saúde do trabalhador e saúde ambiental se darão de forma integrada e organizada.
+
+
+§ 2º
+
+A atuação de que fala este capítulo será realizada pelos órgãos e autoridades sanitárias competentes no âmbito municipal para exercer o controle, por meio do Poder de Policia, dentro do que lhes cabe constitucionalmente.
+
+
+Art. 54.
+
+Consideram-se autoridades sanitárias:
+
+
+I –
+
+o Secretário de Saúde;
+
+
+II –
+
+os Inspetores Sanitários;
+
+
+III –
+
+Coordenador de Vigilância Sanitária.
+
+
+Parágrafo único
+
+A função de Inspetor Sanitário deverá ser exercida por servidor com Técnico Completo e Superior.
+
+
+Art. 55.
+
+O inspetor sanitário, preferencialmente deverá ser concursado, podendo o Município nomear equipe de profissionais qualificados, quando não houver concurso público, para que a vigilância sanitária possa realizar as ações nesta. A Constituição Federal determina que o ingresso no serviço público deve ser através de aprovação em concurso público – esta é a regra, no caso de Cargos Comissionados, são exceções a regra credenciado com designação para atuar em inspeção, fiscalização, autuação e em outras atividades relacionadas ao poder de polícia, gozará das seguintes prerrogativas:
+
+
+I –
+
+livre acesso aos documentos e a quaisquer estabelecimentos públicos ou privados, onde sejam exercidas atividades sujeitas à Vigilância Sanitária, nos termos da lei;
+
+
+II –
+
+realizar inspeção de rotina, atendimento às denúncias, programas especiais de inspeção, programa de coleta de amostras para controle de qualidade, coleta de amostras para análise fiscal, investigação de surtos e/ou epidemias;
+
+
+III –
+
+elaborar laudos de inspeção sanitária;
+
+
+IV –
+
+fiscalizar e monitorar estabelecimentos e produtos de interesse à saúde, meio ambiente e saúde do trabalhador;
+
+
+V –
+
+analisar projetos arquitetônicos dos estabelecimentos sujeitos à fiscalização sanitária;
+
+
+VI –
+
+realizar inspeções conjuntas com órgãos afins;
+
+
+VII –
+
+verificar a procedência e as condições dos produtos quando expostos à venda, à utilização e ao consumo em quaisquer estabelecimentos sujeitos à fiscalização sanitária;
+
+
+VIII –
+
+interditar de imediato, como medida cautelar, parcial ou totalmente, os estabelecimentos industriais, comerciais, meios de transportes ou serviços de interesse à saúde onde for constatado risco iminente à saúde e inobservância à legislação sanitária vigente e às normas pertinentes pelo prazo máximo de 90 (noventa) dias, o que não exclui a interdição permanente em virtude de processo administrativo sanitário;
+
+
+IX –
+
+proceder à imediata inutilização do produto cuja adulteração ou deterioração seja flagrante, e à apreensão e interdição, do restante do lote ou partida, para análise fiscal;
+
+
+X –
+
+lavrar auto de infração para início do processo administrativo previsto em lei;
+
+
+XI –
+
+lavrar termo de apreensão/inutilização, interdição decorrente de fiscalização sanitária.
+
+
+Parágrafo único
+
+São vedadas as prerrogativas previstas neste art. a servidores que tenham sido condenados em processo penal ou sofrido punições em processo administrativo disciplinar, ou estejam sendo indiciados.
+
+
+Art. 56.
+
+É vedado, na forma da lei federal, o exercício ou contratação na Vigilância Sanitária ou outro órgão que exerça poder de polícia, de pessoal ou servidores que sejam sócios ou acionistas de empresas que exerçam atividades sujeitas à fiscalização sanitária.
+
+
+Art. 57.
+
+Os casos de ameaça à saúde pública que não constem no presente diploma legal, poderão ser objeto de disciplina de normas técnicas e regulamentares ou outros instrumentos normativos cabíveis.
+
+
+#### CAPÍTULO II — Da Saúde Ambiental
+
+
+Art. 58.
+
+A Secretaria Municipal de Saúde, através de seus órgãos competentes e em articulação com outros órgãos do Município ou Estado e da União, manterá fiscalização e controle de qualquer atividade desenvolvida no meio ambiente que, direta ou indiretamente, possa constituir risco à saúde do indivíduo e da coletividade.
+
+
+Art. 59.
+
+É de competência do município de Currais Novos, proteger o meio ambiente e combater à poluição em qualquer das suas formas.
+
+
+Art. 60.
+
+Constituem fatores ambientais de risco à saúde aqueles decorrentes de atividades industriais, domésticas, hospitalares, comerciais e agrícolas ou qualquer alteração do meio ambiente que ocasionem ou possam vir a ocasionar risco ou dano à saúde, à vida ou à qualidade de vida.
+
+
+Art. 61.
+
+A Secretaria Municipal de Saúde tem a obrigação de informar ou promover informação à população, inclusive em órgãos de comunicação de massa sobre situações e/ou substâncias presentes no meio ambiente, nele compreendido o trabalho, que constituam risco à saúde ou à qualidade de vida bem como as medidas adotadas de controle e/ou supressão daquelas situações e/ou substâncias.
+
+
+#### CAPÍTULO III — Do Saneamento Ambiental
+
+
+##### Seção I — Das Águas e Seus Usos, do Padrão de Potabilidade, da Desinfecção e Fluoretação
+
+
+Art. 62.
+
+A Secretaria Municipal de Saúde fará observar as normas técnicas emanadas dos órgãos competentes do Município, do Estado e da União sobre a proteção dos mananciais, dos serviços de abastecimento público de água destinada ao consumo humano assim como das instalações prediais.
+
+
+Art. 63.
+
+Qualquer serviço de abastecimento de água, afeto ou não à administração pública, ficará sujeito à regulamentação e à fiscalização municipal, em todos os aspectos que possam afetar à saúde pública.
+
+
+Art. 64.
+
+Nos projetos e obras de sistemas de abastecimento de água deverão ser obedecidos os seguintes princípios gerais, independentemente de outras exigências técnicas estabelecidas em normas e especificações:
+
+
+I –
+
+a água distribuída obedecerá aos padrões de potabilidade determinados pela autoridade competente, para cada tipo de consumo;
+
+
+II –
+
+as tubulações, peças especiais e juntas deverão ser de tipos e materiais aprovados pela ABNT, no sentido de conservar inalteradas as características da água transportada;
+
+
+III –
+
+para fins de desinfecção ou preservação de contaminações da água distribuída, deverá ser adicionado, obrigatoriamente, teor de cloro ou equivalente em seus compostos, a juízo da autoridade sanitária competente poderão ser adotados, com a mesma finalidade, outros produtos ou processos, desde que utilizados, para esse fim, processos e instrumentos técnicos apropriados;
+
+
+IV –
+
+a fluoretação da água distribuída obedecerá às normas técnicas expedidas pelos órgãos competentes;
+
+
+V –
+
+a fluoretação da água distribuída obedecerá às normas técnicas expedidas pelos órgãos competentes;
+
+
+VI –
+
+toda água, natural ou tratada, contida em reservatórios, casas de bombas, poços de sucção ou em outras partes, será convenientemente protegida contra respingos, infiltrações ou despejos, devendo tais estruturas ser construídas com materiais à prova de percolação e as aberturas de inspeção dotadas de dispositivos que impeçam a entrada de líquidos ou matérias estranhas;
+
+
+VII –
+
+não será permitida a interconexão de tubulações ligadas ao sistema de abastecimento público, com outras tubulações que contenham ou não água potável, ou proveniente de outras fontes de abastecimento.
+
+
+Art. 65.
+
+O abastecimento de água potável terá captação, adução e preservação adequadas a prevenir a sua contaminação.
+
+
+Parágrafo único
+
+Quando feito por meio de poços, estes deverão ser adequadamente protegidos contra infiltrações, queda de corpos estranhos e penetração de águas superficiais e serão dotados, pelo menos, de bomba manual para a retirada da água, não se permitindo outros processos que possam contaminar a água
+
+
+Art. 66.
+
+Os poços, as minas e as fontes cuja água seja considerada imprópria para o consumo humano e que não satisfaçam as exigências da lei emanadas dos órgãos estaduais ou federais competentes serão interditadas sumariamente quando esgotados os meios de recuperação.
+
+
+Art. 67.
+
+Todo prédio deverá ser abastecido de água potável em quantidade suficiente ao fim a que se destina.
+
+
+Parágrafo único
+
+Será obrigatória a construção de reservatórios em toda edificação com mais de dois pavimentos e em escolas, internatos, hotéis, motéis, pensões, quartéis, hospitais, unidades de saúde e estabelecimentos congêneres.
+
+
+Art. 68.
+
+Será obrigatória a limpeza e a desinfecção periódica dos reservatórios prediais, na forma indicada pela autoridade sanitária municipal.
+
+
+Art. 69.
+
+Os reservatórios terão a superfície lisa, impermeável e resistente; não deverão ser revestidos de material que possa prejudicar a qualidade da água e serão providos de:
+
+
+I –
+
+cobertura apropriada;
+
+
+II –
+
+torneira de boia na entrada da tubulação de alimentação;
+
+
+III –
+
+extravasor com diâmetro que ultrapasse o da tubulação de alimentação, protegido com tela, devendo desaguar em ponto perfeitamente visível e não nas calhas ou condutores de telhados;
+
+
+IV –
+
+canalização de limpeza funcionando por gravidade, ou por meio de elevação mecânica no caso de reservatórios inferiores.
+
+
+Parágrafo único
+
+A cobertura do reservatório deverá ser sempre mantida livre, sendo vedada sua utilização para qualquer outra finalidade inclusive a acumulação de objetos sobre a mesma.
+
+
+Art. 70.
+
+A capacidade mínima dos reservatórios prediais, adicional à exigência para combate a incêndios, será equivalente ao consumo do prédio durante vinte e quatro horas.
+
+
+Art. 71.
+
+Quando não houver rede de distribuição de água ou quando o abastecimento público for reconhecidamente irregular ou precário, será permitida a utilização de água de poços, desde que satisfaçam as seguintes condições:
+
+
+I –
+
+serem convenientemente afastados de focos de contaminação;
+
+
+II –
+
+terem paredes estanques no trecho em que possa infiltração de águas de superfície;
+
+
+III –
+
+terem as bordas superiores, no mínimo, a 40 cm (quarenta centímetros) acima da superfície do solo;
+
+
+IV –
+
+serem cobertos e terem a abertura protegida contra a entrada de água de superfície, insetos e substâncias estranhas;
+
+
+V –
+
+serem munidos de bombas.
+
+
+§ 1º
+
+Os poços deverão sempre estar situados em nível superior e distante, no mínimo, 10 m (dez metros) de fossas, atendidas as condições de impermeabilidade do solo.
+
+
+§ 2º
+
+Um poço de abastecimento de água servirá apenas a uma habitação, salvo no caso de existência de bomba, caixa de água e rede de distribuição.
+
+
+§ 3º
+
+A critério da autoridade competente em zonas com serviço regular de abastecimento de água poderão ser construídos poços para fins industriais ou para uso na agricultura.
+
+
+Art. 72.
+
+Sempre que os sistemas públicos não forem capazes do provimento, os conjuntos habitacionais e as unidades isoladas, deverão possuir sistemas de abastecimento de água aprovados pela autoridade competente.
+
+
+##### Seção II — Dos Esgotos Sanitários e do Destino Final dos Dejetos
+
+
+Art. 73.
+
+A toda população do Município de Currais Novos é assegurado o acesso a um sistema de coleta e tratamento adequado dos esgotos sanitários como instrumento de proteção e preservação da saúde pública.
+
+
+Art. 74.
+
+Com o objetivo de contribuir para a elevação dos níveis de saúde da população e reduzir a contaminação do meio ambiente, a Secretaria Municipal de Saúde participará do exame e aprovação da instalação das estações de tratamento e da rede de esgotos sanitários nas zonas urbanas e rurais bem como do controle dos afluentes
+
+
+Art. 75.
+
+Todo e qualquer serviço público ou privado de coleta, tratamento e dispersão de esgoto sanitário individual ou coletivo, inclusive sua manutenção, estará sujeito à fiscalização da Secretaria Municipal de Saúde nos aspectos que possam afetar a saúde pública.
+
+
+Art. 76.
+
+Os serviços coletivos de esgoto sanitário deverão satisfazer as seguintes condições:
+
+
+I –
+
+emprego, para coleta e transporte das águas residuais, de preferência, o sistema separador absoluto;
+
+
+II –
+
+manter as instalações e redes coletoras em perfeitas condições de funcionamento;
+
+
+III –
+
+operar sob responsabilidade de profissional habilitado.
+
+
+Art. 77.
+
+As águas residuais deverão ser coletadas, transportadas e ter destino final, através de instalações ou sistemas de esgoto sanitário que satisfaçam as seguintes condições:
+
+
+I –
+
+permitirem a coleta total de todos os resíduos líquidos;
+
+
+II –
+
+promoverem o pronto e eficiente escoamento dos materiais coletados;
+
+
+III –
+
+impedirem a emissão de gases que possam poluir o ar e prejudicar a saúde pública;
+
+
+IV –
+
+impedirem a poluição e, consequentemente, a contaminação das águas e dos alimentos;
+
+
+V –
+
+permitirem a fácil verificação, manutenção e reparo de seus dispositivos e canalizações.
+
+
+Art. 78.
+
+As águas residuais de qualquer natureza ou origem deverão ser submetidas a prévio tratamento por processo compatível com o corpo receptor, antes do destino final.
+
+
+Art. 79.
+
+É proibida:
+
+
+I –
+
+a introdução direta ou indireta de esgotos sanitários e outras águas residuais nas vias públicas e/ ou em galerias de águas pluviais;
+
+
+II –
+
+a introdução direta ou indireta de águas pluviais em canalizações de esgotos sanitários;
+
+
+III –
+
+o lançamento, na rede de coleta, de:
+
+
+a)
+
+gases tóxicos ou substâncias que os produzam;
+
+
+b)
+
+substâncias inflamáveis ou que produzam gases inflamáveis;
+
+
+c)
+
+resíduos ou materiais capazes de causar obstruções, incrustações ou danos às instalações;
+
+
+d)
+
+de coleta, transporte ou tratamento;
+
+
+e)
+
+substâncias que possam interferir nos processos de tratamento.
+
+
+Art. 80.
+
+Toda edificação terá um conjunto de canalizações e aparelhos sanitários que constituirá a instalação predial de esgoto sanitário destinado a coletar e a afastar todos os despejos domésticos ou industriais.
+
+
+Parágrafo único
+
+Todos os prédios situados em logradouros dotados de coletor de esgoto sanitário deverão ser ligados ao referido coletor.
+
+
+Art. 81.
+
+É vedada a instalação de tubulações de esgoto em locais onde possam representar risco de contaminação de água potável.
+
+
+Art. 82.
+
+A fossa séptica deverá atender, além das exigências da ABNT, as seguintes condições:
+
+
+I –
+
+receber todos os despejos domésticos ou qualquer outro despejo de características semelhantes;
+
+
+II –
+
+não receber águas pluviais nem resíduos industriais que possam prejudicar as condições de funcionamento;
+
+
+III –
+
+ter capacidade adequada ao número de pessoas a que servir;
+
+
+IV –
+
+ser construída de material com durabilidade e estanqueidade adequada ao fim a que se destina e resistente às agressões químicas e à abrasão provocada pelos despejos;
+
+
+V –
+
+ter facilidade de acesso, em vista da necessidade periódica de remoção do lodo digerido;
+
+
+VI –
+
+não ser localizada no interior das edificações e, sim, em áreas livres do terreno;
+
+
+VII –
+
+não estar situada em nível mais elevado nem a menos de 30m (trinta metros) de nascentes, poços ou outros mananciais que sejam utilizados para o abastecimento.
+
+
+Art. 83.
+
+Será permitido, a critério da autoridade sanitária competente, o funcionamento de empresas, devidamente registradas, que se destinem à construção, melhoria e limpeza de fossa.
+
+
+§ 1º
+
+Os materiais retirados das fossas só poderão ser transportados por veículos que apresentarem, além das demais condições exigidas, identificação fácil, através de dizeres exteriorizados, por caracteres bem visíveis.
+
+
+§ 2º
+
+As empresas deverão acatar rigorosamente o local designado a ser utilizado como destino final e conveniente dos efluentes retirados das fossas; lugar este determinado por órgãos envolvidos com a proteção do meio ambiente.
+
+
+Art. 84.
+
+Na zona rural, o destino dos dejetos será feito de modo a não contaminar o solo e as águas superficiais ou subterrâneas que sejam utilizadas para consumo.
+
+
+Parágrafo único
+
+Para efeitos deste artigo é exigida, no mínimo, a existência da privada com fossa séptica.
+
+
+##### Seção III — Das Habitações, Áreas de lazer e Outros Locais
+
+
+Art. 85.
+
+As habitações deverão obedecer, dentre outros, os requisitos de higiene e de segurança sanitária indispensáveis à proteção da saúde e bem-estar individual e coletivo.
+
+
+Art. 86.
+
+Todo proprietário, usuário ou responsável por construção destinada à habitação urbana ou por estabelecimento industrial, comercial ou agropecuário, de qualquer natureza, deve cumprir as exigências das Normas Técnicas pertinentes, visando à proteção da saúde pública e a evitar riscos à saúde ou à vida.
+
+
+Parágrafo único
+
+As disposições do *caput* deste artigo aplicam-se, também, a hotéis, motéis, pensões, albergues, dormitórios, pensionatos, internatos, escolas, asilos, creches, cárceres, quartéis, conventos e estabelecimentos de interesse à saúde sendo obrigatório a todos esse tipo de estabelecimentos, o licenciamento sanitário concedido pela Vigilância sanitária municipal.
+
+
+Art. 87.
+
+A Secretaria Municipal de Saúde adotará medidas necessárias à inspeção sanitária nos edifícios, construções ou terrenos urbanos, na forma e condições estabelecidas em Norma Técnica vigente, dentro dos limites constitucionais.
+
+
+Art. 88.
+
+Qualquer construção, reforma, ampliação ou adaptação de interesse à saúde obedecerá ao Código Municipal de Obras, à Lei de Uso e Ocupação do Solo municipal ou estadual.
+
+
+Art. 89.
+
+A Secretaria Municipal de Saúde, através de seus órgãos competentes e sempre que julgar necessário exercerá a fiscalização das instalações prediais de água e esgoto, incluindo destino final dos efluentes, em qualquer tipo de edificação.
+
+
+Art. 90.
+
+Nos locais onde houver rede pública de abastecimento de água e ou coleta de esgotos em condições de operação, as edificações novas ou mesmo as já existentes serão obrigatoriamente a ela interligadas.
+
+
+Art. 91.
+
+As edificações que abrigarem fontes geradoras de pressão de calor, de radiações ionizantes, de ruídos e de outras fontes de poluição e outras substâncias perigosas, devem ser convenientemente isoladas e protegidas de modo a não causar riscos à saúde e segurança do indivíduo, da coletividade e o incômodo à vizinhança, além de obedecer às Normas Técnicas Especiais da Secretaria Municipal de Saúde e outras normas emanadas dos órgãos competentes do Estado e da União.
+
+
+Art. 92.
+
+Toda edificação destinada a serviços de saúde deverá ser dotada de depósito destinada ao armazenamento de resíduos sólidos ou lixeiras, em local desimpedido e de fácil acesso, com capacidade adequada para armazenamento por 2 (dois) dias e além disso, deverá ser provida de reservatório de água potável com capacidade suficiente para garantir o consumo durante um prazo de 24 (vinte e quatro) horas, além da reserva destinada ao combate a incêndio.
+
+
+##### Seção IV — Dos Resíduos Sólidos
+
+
+Art. 93.
+
+Definem-se para efeito deste Regulamento como resíduos sólidos: materiais heterogêneos (inertes, minerais e orgânicos, etc.) resultantes de atividades da comunidade, de origem industrial, doméstica, hospitalar, comercial e agrícola.
+
+
+Art. 94.
+
+Compete à Secretaria Municipal de Saúde em articulação com os órgãos e entidades competentes do Município, definir processos de tratamento e destinação final dos resíduos sólidos coletados.
+
+
+Art. 95.
+
+A coleta, o transporte e o destino do lixo serão processados em condições que não acarretem malefícios ou inconvenientes à saúde, ao bem-estar público e à estética.
+
+
+Art. 96.
+
+Os resíduos hospitalares, os médicos, laboratórios, os de alto necrotérios, de órgão de pesquisa, ambulatórios, farmácias ou estabelecimentos similares deverão ser tratados de acordo com as normas aprovadas pela Secretaria Municipal de Saúde, respeitada a legislação estadual e/ou federal pertinente.
+
+
+Art. 97.
+
+É vedado depositar, dispor, descarregar, enterrar, infiltrar ou acumular no solo, seja em propriedade pública ou privada, resíduos em qualquer estado de matéria para evitar o surgimento ou disseminação de fenômenos que afetem a saúde do indivíduo ou da coletividade.
+
+
+Art. 98.
+
+A disposição final de resíduos de qualquer natureza, portadores de patogênicos de qualquer ordem ou toxidade, bem como produtos inflamáveis, nocivos e explosivos, deverá ser objeto de disciplina do órgão específico de ambiental do Município, respeitada a legislação estadual e/ou federal pertinente.
+
+
+Art. 99.
+
+Fica proibido alimentar animais destinados ao consumo humano, com restos alimentares provenientes de restaurantes, cozinhas industriais, copas, cozinhas, refeitórios de estabelecimentos prestadores de serviços de saúde ou quaisquer outros estabelecimentos ou serviços que produzam resíduos dessa natureza.
+
+
+Art. 100.
+
+Será permitida a utilização de restos alimentares como alimentação de animais, desde observadas as seguintes exigências:
+
+
+I –
+
+Os estabelecimentos manterão os restos alimentares em recipientes exclusivos, adequados a esta finalidade, dotados de tampa e mantidos em perfeita condição de higiene;
+
+
+II –
+
+O transporte até o local de utilização dos restos alimentares deverá ser feito de modo a não causar maus odores, nem sujar os logradouros públicos;
+
+
+III –
+
+Os restos alimentares deverão ser cozidos por 30 (trinta) minutos à temperatura mínima de 100ºC (cem graus Celsius) antes de serem utilizados, sendo de inteira responsabilidade do proprietário dos animais a realização desses procedimentos.
+
+
+Art. 101.
+
+É expressamente proibida a utilização, para quaisquer fins, dos restos alimentares provenientes de pacientes das unidades de internação de hospitais e outros estabelecimentos prestadores de serviços de saúde, que deverão ser devidamente identificados e separados.
+
+
+Parágrafo único
+
+Os restos alimentares provenientes de copas, cozinhas e refeitórios dos estabelecimentos referidos no *caput* deste artigo poderão ser utilizados na alimentação de animais, desde que observada a devida segregação e identificação desses resíduos, atendidas todas as exigências pertinentes.
+
+
+Art. 102.
+
+Os estabelecimentos geradores de resíduos deverão manter registro atualizado indicando a quantidade fornecida, endereço(s) do(s) local(is) onde serão processados os restos de alimentos e a data de retirada.
+
+
+Art. 103.
+
+Cabe à autoridade sanitária municipal verificar o cumprimento desta lei e de outras Normas Técnicas pertinentes.
+
+
+##### Seção V — Dos Necrotérios, Locais para Velórios, Cemitérios e Crematórios
+
+
+Art. 104.
+
+O sepultamento e cremação de cadáveres só poderão realizar-se em cemitérios licenciados pela Secretaria Municipal de Saúde.
+
+
+Art. 105.
+
+Os projetos para construção ou reforma de cemitérios deverão ser acompanhados de estudos especializados, comprovando a adequação do solo e o nível do lençol freático, sendo necessária para sua realização autorização da vigilância sanitária.
+
+
+Parágrafo único
+
+Para que a licença referida no *caput* seja concedida é fundamental que seja apresentado à Secretaria Municipal de Saúde requerimento constando das seguintes informações:
+
+
+I –
+
+localização do terreno com planta especificando dimensões, orientação, denominação e largura do logradouro público para o qual faz frente e distância da esquina do logradouro mais próximo;
+
+
+II –
+
+situação do terreno com plantas nas quais constem: área, orientação e distância das construções vizinhas;
+
+
+III –
+
+plantas de construção com especificações na escala 1:100 (um por cem).
+
+
+Art. 106.
+
+Nos cemitérios, deverá haver, pelo menos:
+
+
+I –
+
+local para administração e recepção;
+
+
+II –
+
+depósito de materiais e ferramentas;
+
+
+III –
+
+uso de equipamentos de proteção individual (EPI), destinados ao pessoal que trabalha na manipulação de cadáveres;
+
+
+IV –
+
+vestiários e instalação sanitária para os empregados;
+
+
+V –
+
+instalações sanitárias para o público, separadas para cada sexo.
+
+
+Art. 107.
+
+Os cemitérios serão construídos em áreas elevadas, na contra vertente das águas que possam alimentar poços e outras fontes de abastecimentos.
+
+
+Parágrafo único
+
+Em caráter excepcional, serão tolerados, a juízo da autoridade sanitária, cemitérios em regiões planas.
+
+
+Art. 108.
+
+As administrações dos cemitérios ficam obrigadas a cumprir as determinações dos órgãos competentes do Município, no tocante à higiene sanitária, zelando para evitar a ocorrência de acúmulo ou coleção de águas nas sepulturas, sepulturas, mausoléus, catacumbas e urnas funerárias, e não permitir a presença de vasos e ornamentos que possam conservar água e, consequentemente, propiciar a proliferação de mosquitos.
+
+
+Art. 109.
+
+O sepultamento, cremação, embalsamamento, exumação, transporte e exposição de cadáveres deverão obedecer às exigências sanitárias previstas em Normas Técnicas aprovadas pela Secretaria Municipal de Saúde.
+
+
+Art. 110.
+
+Nos cemitérios, o nível superior do lençol d’água deverá ficar a 2,00m (dois metros), no mínimo, da superfície do terreno.
+
+
+Parágrafo único
+
+O nível dos cemitérios em relação aos cursos de água vizinhos deverá ser suficientemente elevado para que as águas das enchentes não atinjam os fundos das sepulturas.
+
+
+Art. 111.
+
+Os crematórios, além da legislação em vigor, deverão atender às seguintes condições:
+
+
+I –
+
+estarem situados ou localizados em zona rural, afastados de habitações, escolas, fábricas, hospitais ou outras edificações do uso coletivo;
+
+
+II –
+
+serem construídos de alvenaria e atender a todas às exigências das habitações em geral no eu lhes for aplicável;
+
+
+III –
+
+disporem das seguintes instalações: sala de vigília com iluminação e ventilação adequadas e sala de descanso;
+
+
+IV –
+
+terem câmara crematória que assegure completa incineração;
+
+
+V –
+
+sanitários completos para ambos os sexos.
+
+
+Parágrafo único
+
+Será permitida a construção de velórios junto aos crematórios, desde que devidamente autorizados e com instalações próprias.
+
+
+Art. 112.
+
+Os necrotérios, salas de necropsia e locais destinados a velório deverão obedecer às normas legais e técnicas em vigor que lhes sejam pertinentes, fazendo cumpri-las a vigilância sanitária municipal.
+
+
+Art. 113.
+
+É proibido o uso de caixões metálicos, ou de madeira revestida, interna ou externamente, excetuando-se os destinados:
+
+
+I –
+
+aos embalsamados;
+
+
+II –
+
+aos exumados;
+
+
+III –
+
+aos cadáveres que não tenham de ser com eles enterrados, sendo obrigatória a desinfecção após o uso.
+
+
+##### Seção VI — Da Higiene das Vias Públicas
+
+
+Art. 114.
+
+Os serviços de limpeza de ruas, praças e logradouros públicos são de competência do Município de Currais Novos, sendo de responsabilidade direta da população a limpeza do passeio e sarjetas fronteiriças à sua residência.
+
+
+Art. 115.
+
+Para preservar de maneira geral a higiene pública, fica proibido:
+
+
+I –
+
+varrer lixo ou detritos sólidos de qualquer natureza para os logradouros privados;
+
+
+II –
+
+fazer varredura do interior dos prédios, dos terrenos e dos veículos para a via pública, assim como atirar papéis, reclames ou quaisquer detritos sobre o leito de logradouros públicos;
+
+
+III –
+
+lavar roupas em chafarizes, fontes ou tanques situados nas vias públicas;
+
+
+IV –
+
+permitir o escoamento de águas servidas das residências para as ruas;
+
+
+V –
+
+conduzir, sem as precauções devidas, quaisquer materiais que possam comprometer o asseio das vias públicas;
+
+
+VI –
+
+promover a retirada de materiais ou entulhos provenientes de construção ou demolição de prédios sem o uso de instrumentos adequados que evitem a queda dos referidos materiais nos logradouros ou vias públicas;
+
+
+VII –
+
+lançar nas vias públicas, nos terrenos baldios, várzeas, vales, bueiros, sarjetas, lixo de qualquer natureza e origem, entulhos, cadáveres de animais assim como qualquer material que possa ocasionar incômodo à população, pôr em risco a saúde pública, prejudicar o meio ambiente e/ou a estética da cidade;
+
+
+VIII –
+
+queimar em via pública, qualquer material ou substância que possa contaminar ou corromper a atmosfera ou prejudicar a saúde pública
+
+
+#### CAPÍTULO IV — Das Calamidades Públicas
+
+
+Art. 116.
+
+Na ocorrência de casos de agravos à saúde decorrente de calamidades públicas ou para o controle de epidemias e outras ações indicadas, a Secretaria Municipal de Saúde, devidamente articulada com os órgãos federais e estaduais competentes, promoverá a mobilização de todos os recursos considerados necessários.
+
+
+#### CAPÍTULO V — Do Controle de Zoonoses e de Populações Animais
+
+
+##### Seção I — Da Prevenção e Controle de Zoonoses
+
+
+Art. 117.
+
+Define-se como zoonose a infecção ou doença transmissível, naturalmente, entre animais vertebrados e o homem, vice-versa.
+
+
+Art. 118.
+
+É de competência da Secretaria Municipal de Saúde, coordenar e promover, quando necessário, ações de prevenção e controle de zoonoses no município, em articulação com outros órgãos competentes a nível federal, estadual e municipal.
+
+
+Art. 119.
+
+De acordo com a atribuição referida no art. anterior, a Secretaria Municipal de Saúde deverá promover ações permanentes de vigilância epidemiológica para zoonoses, bem como ações educativas de saúde direcionadas às comunidades, escolas, etc.
+
+
+Art. 120.
+
+Todo responsável ou proprietário de animais deverá observar as disposições legais e regulamentares pertinentes e adotar medidas indicadas pelas autoridades de saúde do Município de Currais Novos a fim de evitar a transmissão de zoonoses às pessoas.
+
+
+Art. 121.
+
+Fica obrigatória a vacinação dos animais contra as doenças especificadas pelo Ministério da Saúde.
+
+
+Art. 122.
+
+São obrigados à notificação compulsória de zoonoses a que se refere o Art. anterior:
+
+
+I –
+
+o profissional da área de saúde ciente do caso;
+
+
+II –
+
+laboratório que estabeleceu o diagnóstico;
+
+
+III –
+
+o proprietário ou responsável pelo animal doente.
+
+
+Parágrafo único
+
+Qualquer pessoa que tenha sofrido agressão de animal doente ou suspeito de ser portador de alguma zoonose ou ainda que tenha sido acometida de alguma enfermidade transmitida por animal, deverá notificar ao órgão competente da Secretaria Municipal de Saúde.
+
+
+Art. 123.
+
+É garantida a toda pessoa, vítima de agressão por animal doente ou suspeito de raiva, o tratamento adequado de acordo com as orientações da autoridade de saúde competente.
+
+
+##### Seção II — Da Localização dos Criatórios de Animais e suas Condições Higiênicas
+
+
+Art. 124.
+
+A instalação de chiqueiros ou pocilgas, estábulos, cocheiras, granjas avícolas e estabelecimentos congêneres, somente serão permitidos na zona rural em condições estabelecidas por norma técnica ou regulamentar.
+
+
+Art. 125.
+
+Os locais destinados à criação e abrigo de animais devem atender além das exigências sanitárias pertinentes, àquelas concernentes ao bem estar dos mesmos e à garantia de que não acarretem prejuízo à saúde pública e incômodo à vizinhança.
+
+
+Art. 126.
+
+As dimensões das instalações destinadas à criação de animais deverão ser proporcionais à quantidade de animais a serem abrigados de modo a não permitir aglomeração que lhes possa acarretar mal estar e danos físicos.
+
+
+Art. 127.
+
+Além das demais exigências que emanam da Lei Municipal vigente ficam estabelecidas que os resíduos sólidos resultantes de pocilgas, estábulos, cocheiras, granjas avícolas e estabelecimentos congêneres deverão ter destino adequado, de forma a não comprometer as condições sanitárias dos serviços de saúde e do solo.
+
+
+Art. 128.
+
+É proibido manter quaisquer animais que por sua espécie, quantidade ou instalações inadequadas, possam ser causa de insalubridade ou de incômodo à vizinhança.
+
+
+##### Seção III — Das Populações Animais
+
+
+Art. 129.
+
+Todo possuidor ou proprietário de animais fica obrigado a registrá-los na forma estabelecida pela Secretaria Municipal de Saúde, bem como mantê-los em adequadas condições de alojamento, alimentação, saúde, higiene e bem estar.
+
+
+Art. 130.
+
+O trânsito de animais em logradouros públicos somente será permitido quando não ofereçam riscos à saúde e à segurança de pessoas e estejam devidamente contidos, vacinados e acompanhados dos proprietários ou possuidores.
+
+
+Parágrafo único
+
+É proibido o trânsito de animais nas ruas do Município, bem como sua permanência em locais públicos de qualquer natureza, mesmo atendidas às exigências contidas no *caput* deste Art.
+
+
+Art. 131.
+
+Os animais não poderão sofrer maus tratos de espécie alguma por parte de seus proprietários, possuidores ou terceiros, constituindo tal prática em infração grave, como definida neste código.
+
+
+Art. 132.
+
+Cabe à norma técnica ou regulamentar da Secretaria Municipal de Saúde, normatizar as condições de higiene, exposição de animais vivos, sua comercialização em feiras livres ou outros locais, condições de salubridade e segurança dos criatórios, bem como a forma e as condições de registro e as demais que se refiram ao bem estar e saúde dos animais.
+
+
+Art. 133.
+
+O proprietário ou possuidor de animal fica obrigado a permitir o acesso de agentes públicos fiscalizadores, autorizados pela Secretaria Municipal de Saúde, aos locais em que são mantidos ou abrigados os animais, a fim de realizar a devida inspeção verificadora do cumprimento das normas sanitárias.
+
+
+Art. 134.
+
+Será apreendido todo e qualquer animal:
+
+
+I –
+
+encontrado solto, em logradouros ou em outros locais de livre acesso ao público, desobedecendo ao estabelecido em norma legal ou regulamentar;
+
+
+II –
+
+suspeito ou comprovadamente acometido por zoonose;
+
+
+III –
+
+que seja ou tenha sido submetido a maus tratos, nos termos do Art. 127 deste diploma legal;
+
+
+IV –
+
+que seja mantido em condições inadequadas de vida ou alojamento.
+
+
+Art. 135.
+
+Os animais apreendidos ficarão à disposição dos respectivos proprietários ou possuidores, que somente poderão resgatá-los mediante pagamento de taxa à Secretaria Municipal de Saúde e confirmação de que têm resolvido o motivo da apreensão.
+
+
+§ 1º
+
+O prazo de resgate dos animais apreendidos é de 3 (três) dias para cães e gatos e 5 (cinco) dias para os demais animais, a contar da data da apreensão.
+
+
+§ 2º
+
+Se, após decorrido o prazo, nenhum proprietário, possuidor ou interessado efetuar o resgate, cabe à Secretaria Municipal:
+
+
+I –
+
+alienar o animal, mediante leilão administrativo, na forma da lei;
+
+
+II –
+
+doar o animal a pessoas físicas ou jurídicas que por eles se responsabilizarem, ou preferencialmente, a instituições de ensino e /ou pesquisas ligadas à área de saúde;
+
+
+III –
+
+sacrificar o animal, com o mínimo de sofrimento possível, quando nenhuma das providências anteriores se mostrarem possíveis. (Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária-CMCN nº 4.048, de 11 de novembro de 2025.
+
+
+Art. 136.
+
+O Município não responde por indenizações de qualquer espécie, caso o animal apreendido venha a sucumbir, como consequência de doenças preexistentes, comprovadas mediante laudos técnicos, bem como, por danos, roubos ou fuga de animais ocorridos em circunstâncias alheias à sua vontade.
+
+
+Art. 137.
+
+À Secretaria Municipal de Saúde, para efeitos de controle e aplicação de penalidade, é autorizada a aplicar, com finalidade, aos animais apreendidos, nos casos de reincidência, sem que lhe caiba qualquer responsabilidade por indenização aos proprietários ou responsáveis, sobre alegação ou modificação do valor estimativo ou pecuniário dos animais.
+
+
+##### Seção IV — Do Controle de Roedores e Outros Animais Sinantrópicos
+
+
+Art. 138.
+
+A Secretaria Municipal de Saúde promoverá ações de controle da população de roedores e outros animais sinantrópicos, com o objetivo de erradicar a transmissão de doenças causadas por esses animais.
+
+
+Parágrafo único
+
+Roedores e animais sinantrópicos são animais que convivem com o homem, em sua residência ou arredores e que lhe trazem incômodo ou prejuízos, e riscos à saúde.
+
+
+Art. 139.
+
+Para os efeitos deste Regulamento, consideram-se roedores de importância em saúde pública, os ratos e camundongos conhecidos como “ratos domésticos”, ou simplesmente “ratos” pertencentes às espécies:
+
+
+I –
+
+Rattus norvegicus;
+
+
+II –
+
+Rattus rattus;
+
+
+III –
+
+Rattus musculus.
+
+
+Art. 140.
+
+Na ação contra os roedores de importância sanitária, caberá:
+
+
+I –
+
+à Vigilância Ambiental as orientações técnicas, medidas de controle e atividades educativas;
+
+
+II –
+
+ao Município, a execução de ações adequadas para combater esses animais;
+
+
+III –
+
+aos proprietários de edifícios ou terrenos ou responsáveis por construção a adoção de medidas que visem manter aquelas áreas livres de roedores e de animais que causam prejuízos à saúde e ao bem estar do ser humano, independentemente de qual seja a finalidade ou o uso do imóvel.
+
+
+Parágrafo único
+
+Os proprietários ou responsáveis mencionados no item III deste Art. deverão impedir o acúmulo de lixo, restos alimentares ou de outros resíduos que possam ser utilizados como alimento ou abrigo a roedores, e adotar outras medidas a critério dos órgãos e entidades competentes do Município.
+
+
+Art. 141.
+
+Nos casos de epidemia ou surtos epidêmicos transmitidos ou relacionados com roedores e/ou animais sinantrópicos, as medidas de controle serão de responsabilidade da autoridade ambiental.
+
+
+Art. 142.
+
+Compete à Secretaria Municipal de Saúde realizar a fiscalização das empresas privadas que executam serviços de desratização e desinsetização no município, as quais ficam obrigadas a cumprir todas as exigências sanitárias e de segurança concernentes à estrutura física do prédio assim como ao armazenamento, à manipulação, à aplicação e ao destino final dos produtos utilizados para tal atividade.
+
+
+Art. 143.
+
+As empresas especializadas na manipulação ou aplicação de inseticidas e de raticidas somente poderão funcionar mediante registro ou licenciamento do órgão sanitário competente.
+
+
+Art. 144.
+
+Os estabelecimentos das empresas referidas no art. anterior, além de obedecer ao disposto para os estabelecimentos de trabalho, no que lhes for aplicável, deverão ter:
+
+
+I –
+
+local independente destinado à manipulação e preparo de formulações;
+
+
+II –
+
+local para armazenamento de matérias-primas e de produtos preparados;
+
+
+III –
+
+local para laboratório de controle;
+
+
+IV –
+
+instalações sanitárias dotadas de um chuveiro e demais acessórios necessários ao asseio adequado dos funcionários.
+
+
+Parágrafo único
+
+Os locais de que trata este Art. deverão ser isolados das demais dependências do estabelecimento.
+
+
+Art. 145.
+
+Só poderão ser utilizados os inseticidas registrados pelo órgão federal competente e que se destinem à pronta aplicação por quaisquer pessoas para fins domésticos ou à aplicação e manipulação por pessoa ou organização especializada para fins profissionais.
+
+
+Parágrafo único
+
+Somente poderão ser empregados, para fins domésticos, raticidas registrados pelo órgão federal competente e classificados como de baixa e média toxicidade.
+
+
+#### CAPÍTULO VI — Da Vigilência Epidemiológica
+
+
+##### Seção I — Das Disposições Gerais
+
+
+Art. 146.
+
+Define-se vigilância epidemiológica como um conjunto de ações que proporcionem o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual e coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças e agravos, na forma prevista da legislação do SUS.
+
+
+Art. 147.
+
+Compete à Secretaria Municipal de Saúde a organização e definição das atribuições dos serviços que executem ações de vigilância epidemiológica, promovendo sua implantação e coordenação de acordo com a legislação vigente.
+
+
+Parágrafo único
+
+As ações de Vigilância Epidemiológica serão efetuadas pelos órgãos de saúde, públicos e privados do Município, devidamente habilitados para tal.
+
+
+##### Seção II — Da Notificação Compulsória de Doenças e Agravos à Saúde
+
+
+Art. 148.
+
+Para os efeitos deste Regulamento e de suas Normas Técnicas Especiais, entende-se por investigação epidemiológica a comunicação da ocorrência de determinada doença ou agravo à saúde, feita à Secretaria de Saúde pelas unidades de saúde, por profissionais de saúde ou qualquer cidadão, para fins de adoção de medidas de intervenção pertinentes.
+
+
+Art. 149.
+
+São de notificação compulsória às autoridades sanitárias, os casos suspeitos ou confirmados de doenças e agravos à saúde que, devido à sua magnitude, transcendência e vulnerabilidade, sejam consideradas prioritárias pelos órgãos públicos responsáveis do Município, do Estado e da União.
+
+
+§ 1º
+
+As doenças e agravos de notificação compulsória serão definidos por meio de norma técnica ou regulamentar, sendo respeitadas as determinações das autoridades municipais, estaduais e federais.
+
+
+§ 2º
+
+A Secretaria Municipal de Saúde poderá exigir dos órgãos de saúde, públicos ou privados, a notificação negativa da ocorrência de doenças de notificação compulsória.
+
+
+Art. 150.
+
+É obrigatória a notificação à Secretaria Municipal de Saúde em ordem prioritária, por:
+
+
+I –
+
+médicos que forem chamados para prestar cuidados ao doente, mesmo que não assumam a direção do tratamento;
+
+
+II –
+
+responsáveis por hospitais ou estabelecimentos congêneres, organizações para - hospitalares e instituições médico – sociais de qualquer natureza;
+
+
+III –
+
+responsáveis por laboratórios que executem exames microbiológicos, sorológicos, anatomopatológicos ou radiológicos;
+
+
+IV –
+
+farmacêuticos, bioquímicos, veterinários, dentistas, enfermeiros, parteiras e pessoas que exerçam profissões afins;
+
+
+V –
+
+responsáveis por estabelecimentos de ensino, locais de trabalho ou habitações coletivas em que se encontre o doente;
+
+
+VI –
+
+responsáveis pelos serviços de verificação de óbitos;
+
+
+VII –
+
+responsáveis pelo automóvel, caminhão, ônibus, trem, avião, embarcação ou qualquer outro meio de transporte em que se encontre o doente.
+
+
+§ 1º
+
+É dever de todo cidadão comunicar à Secretaria Municipal de Saúde a ocorrência, comprovada ou presumível, de casos de doença transmissível nos termos do Art. anterior.
+
+
+§ 2º
+
+A notificação de qualquer das doenças referidas deve ser feita à simples suspeita e o mais precocemente possível, pessoalmente, por telefone, carta, impresso ou por outro meio de comunicação adequada.
+
+
+§ 3º
+
+O cartório de registro civil que registrar o óbito causado por moléstia transmissível, deverá comunicar o fato, dentro de 24 horas, à Secretaria Municipal de Saúde, que verificará se o caso foi notificado nos termos Regulamento.
+
+
+Art. 151.
+
+A notificação compulsória de casos de doenças e agravos à saúde tem caráter confidencial, devendo as informações serem mantidas sob sigilo absoluto, obrigando-se a Secretaria Municipal de Saúde a mantê-lo.
+
+
+Parágrafo único
+
+Excepcionalmente, a identificação do paciente fora do âmbito Médico – Sanitário poderá ser feita em caso de grande risco à comunidade, a critério da Secretaria Municipal de Saúde e com conhecimento prévio do paciente ou de seu responsável.
+
+
+##### Seção III — Da Investigação Epidemiológica
+
+
+Art. 152.
+
+Para os efeitos deste Regulamento e de suas Normas Técnicas, entende-se por investigação epidemiológica o conjunto de ações destinadas a identificar, a partir dos casos notificados, a fonte de infecção, as vias de transmissão, os comunicantes, outros possíveis casos e os suscetíveis de modo a permitir a aplicação de medidas adequadas de profilaxia.
+
+
+Art. 153.
+
+A Secretaria Municipal de Saúde, através do Sistema Municipal de Vigilância Epidemiológica, após receber a notificação, deverá proceder à investigação pertinente para elucidação do diagnóstico e averiguação da disseminação da doença na população sob risco, bem como deverá adotar prontamente as medidas de profilaxia indicadas para o controle da doença.
+
+
+§ 1º
+
+A Secretaria Municipal de Saúde poderá exigir e executar investigações, inquéritos e levantamentos epidemiológicos, junto a indivíduos e a grupos populacionais determinados, sempre que julgar oportuno, visando à proteção da saúde pública.
+
+
+§ 2º
+
+Quando houver indicação e conveniência, a Secretaria Municipal de Saúde poderá exigir provas imunológicas e coleta de material para exame de laboratório.
+
+
+##### Seção IV — Das Medidas de Controle e Profilaxia das Doenças
+
+
+Art. 154.
+
+adoção de medidas de controle e profilaxia das doenças de notificação compulsória e de outros agravos deverão se basear numa série de ações que visem a:
+
+
+I –
+
+suprimir ou diminuir o risco à coletividade representado pelos indivíduos e animais infectados;
+
+
+II –
+
+interromper ou dificultar a transmissão;
+
+
+III –
+
+proteger convenientemente os suscetíveis.
+
+
+Art. 155.
+
+A Secretaria Municipal de Saúde poderá exigir ou executar, de acordo com a doença, uma ou mais das seguintes medidas de profilaxia: tratamento, isolamento, desinfecção, quarentena, quimio-profilaxia e vacinação.
+
+
+§ 1º
+
+Entende-se por tratamento o uso de recursos terapêuticos destinados a impedir que o doente continue transmitindo a moléstia.
+
+
+§ 2º
+
+Entende-se por isolamento a separação de indivíduos afetados por doenças transmissíveis e, eventualmente, portadores de agentes infectantes, em locais adequados, de modo a evitar que suscetíveis venham a ser atingidos direta ou indiretamente pelo agente patogênico.
+
+
+§ 3º
+
+Entende-se por desinfecção a destruição dos agentes patogênicos fora do organismo por meios químicos ou físicos, podendo ser complementada ou substituída por medidas de combate aos vetores biológicos e seus reservatórios.
+
+
+§ 4º
+
+Entende-se por quarentena a restrição da liberdade de locomoção e o controle médico permanente dos comunicantes e dos indivíduos procedentes de áreas onde a moléstia ocorra de forma endêmica ou epidêmica, por intervalo de tempo de segurança ou pelo período máximo de incubação da doença.
+
+
+§ 5º
+
+Entende-se por quimioprofilaxia a administração de uma substância química, inclusive antibióticos, para prevenir uma infecção ou sua evolução para a forma ativa e manifesta de uma doença.
+
+
+§ 6º
+
+Os comunicantes, os indivíduos que de qualquer modo se expuserem ao risco de contrair uma doença transmissível, deverão ser protegidos por meio de vacinas, soros ou seus derivados, antibióticos, quimioterápicos ou outros agentes antimicrobianos adequados, sempre que houver indicação.
+
+
+Art. 156.
+
+Na simples suspeita de ocorrência de uma epidemia, a Secretaria Municipal de Saúde deverá imediatamente adotar medidas de controle que visem a:
+
+
+I –
+
+confirmar os casos clinicamente e por meio de provas laboratoriais;
+
+
+II –
+
+verificar se a incidência atual da moléstia é significativamente maior que a habitual;
+
+
+III –
+
+adotar as medidas de profilaxia indicadas.
+
+
+Parágrafo único
+
+Excepcionalmente, quando julgar necessário, a Secretaria Municipal de Saúde poderá acionar outros setores da administração pública e da sociedade civil, bem como o auxílio da autoridade policial local ou regional para a execução de medidas referentes à profilaxia de doenças.
+
+
+Art. 157.
+
+Entende-se por epidemia a ocorrência de determinada região de casos de uma determinada moléstia em número que ultrapasse significativamente a incidência normalmente esperada.
+
+
+Art. 158.
+
+O sepultamento de pessoas e animais vitimados por doenças transmissíveis somente poderá ser feito com observância das medidas e cautelas determinadas pela Secretaria Municipal de Saúde.
+
+
+Parágrafo único
+
+Havendo suspeita de que o óbito foi consequência de doença transmissível, a Secretaria Municipal de Saúde poderá exigir a necropsia para determinar a causa da morte.
+
+
+##### Seção V — Das Imunizações
+
+
+Art. 159.
+
+A Secretaria Municipal de Saúde é responsável pela coordenação das atividades de imunização de caráter obrigatório, no âmbito do Município de Currais Novos, de acordo com as normas definidas pelo Programa Nacional de Imunização – PNI.
+
+
+Art. 160.
+
+É dever de todo cidadão submeter-se à vacinação obrigatória, assim como os menores sob sua guarda ou responsabilidade
+
+
+Parágrafo único
+
+Só será dispensada da vacinação obrigatória a pessoa que apresentar atestado médico ou contra-indicação explícita da aplicação da vacina.
+
+
+Art. 161.
+
+Toda pessoa vacinada tem o direito de exigir o correspondente atestado comprobatório da vacina obrigatória recebida, a fim de satisfazer exigências legais ou regulamentares.
+
+
+Art. 162.
+
+As vacinas obrigatórias e seus respectivos atestados serão gratuitos, quando aplicados através do Sistema Municipal de Saúde.
+
+
+##### Seção VI — Do Controle de Doenças e Agravos à Saúde
+
+
+Art. 163.
+
+Compete ao Sistema Municipal de Vigilância Epidemiológica, em todos os níveis hierárquicos, central, distrital e local, a realização e atualização periódica do diagnóstico de saúde da população e sua área de abrangência identificando os principais problemas, riscos e agravos à saúde a que está submetida.
+
+
+§ 1º
+
+Para a realização e atualização do diagnóstico de saúde da população, a autoridade de vigilância à saúde municipal deverá valer-se de todos os dados e informações pertinentes e necessários para este fim, sejam eles de natureza demográfica, socioeconômica, ambiental, estatísticas de saúde ou outros.
+
+
+§ 2º
+
+Os dados referidos no parágrafo anterior, que serão utilizados para a realização do diagnóstico de saúde da população, poderão fazer parte de sistemas de informações já existentes ou serem colhidos através de estudos epidemiológicos especialmente planejados para este fim.
+
+
+#### CAPÍTULO VII — Da Vigilância Sanitária
+
+
+##### Seção I — Das Disposições Gerais
+
+
+Art. 164.
+
+Para efeito desta lei, a Vigilância Sanitária consiste em um conjunto de ações capazes de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse à saúde.
+
+
+Art. 165.
+
+O município fica autorizado a realizar articulações com órgãos federais, estaduais e municipais, objetivando, assim, o melhor cumprimento deste Código e seu Regulamento.
+
+
+Art. 166.
+
+A licença sanitária será concedida após inspeção das instalações pela autoridade sanitária municipal competente, somente se forem obedecidas às especificações deste Regulamento e da legislação vigente.
+
+
+Parágrafo único
+
+A licença sanitária deverá ser renovada anualmente, sem a qual o estabelecimento não poderá funcionar.
+
+
+##### Seção II — Da Vigilância Sanitária dos Alimentos
+
+
+Art. 167.
+
+Todo alimento destinado ao consumo humano, qualquer que seja a sua origem, estado ou procedência, produzido ou exposto à venda no Município de Currais Novos, sofrerão a ação fiscalizadora exercida pela equipe técnica da Vigilância Sanitária Municipal, devidamente habilitada para este fim, nos termos desta lei e da legislação federal vigente, que está inserida no Sistema Nacional de Vigilância Sanitária.
+
+
+Art. 168.
+
+Somente poderão ser expostos à venda alimentos, matérias primas alimentares e alimentos “in natura” que:
+
+
+I –
+
+tenham sido previamente registrados no órgão federal competente;
+
+
+II –
+
+tenham sido elaborados, embalados, transportados, importados ou vendidos por estabelecimentos que possuam licença sanitária;
+
+
+III –
+
+atendam, na sua composição, aos padrões de identidade e qualidade assim como aos requisitos de higiene, envasamento, rotulagem e embalagem estabelecidos em normas legais e regulamentares específicas;
+
+
+IV –
+
+estejam devidamente protegidos de poeira e de qualquer outra fonte de contaminação;
+
+
+V –
+
+estejam dentro do prazo de validade.
+
+
+Parágrafo único
+
+O registro de produtos artesanais será regulamentado através de Norma técnica Especial.
+
+
+Art. 169.
+
+Excepcionalmente, será permitida a venda de alimentos elaborados em caráter experimental e destinados à pesquisa de mercado, sem a necessidade de registro prévio.
+
+
+Parágrafo único
+
+A permissão a que se refere este parágrafo deverá ser solicitada pelo interessado, que submeterá à autoridade competente, informando, se autorizada, à Vigilância Sanitária municipal.
+
+
+Art. 170.
+
+É obrigatória a existência de aparelhos de refrigeração e/ou de congelamento nos estabelecimentos em que se produzam, fabriquem, preparem, beneficiem, manipulem, acondicionem, armazenem, depositem ou vendam produtos alimentícios perecíveis ou alteráveis.
+
+
+Art. 171.
+
+A maquinaria, os aparelhos, utensílios, recipientes, vasilhames e outros materiais que entrem em contato com alimentos, empregados no fabrico, manipulação, acondicionamento, transporte, conservação e venda dos mesmos deverão ser de material adequado, que assegure perfeita higienização, de modo a não contaminar, alterar ou diminuir o seu valor nutritivo.
+
+
+Parágrafo único
+
+A autoridade sanitária poderá apreender, temporariamente, por 90 (noventa) dias ou definitivamente, como sanção em consequência de processo administrativo, os materiais referidos neste Art., bem como interditar, pelo mesmo período, as instalações que não satisfaçam os requisitos técnicos e as exigências deste Regulamento e de suas Normas Técnicas Especiais e representarem ameaça gravosa à saúde pública, a seu critério diante do exposto em lei.
+
+
+Art. 172.
+
+É proibido manter no mesmo espaço ou transportar no mesmo compartimento de um veículo, alimentos e substâncias nocivas que possam contaminar ou alterar as suas características.
+
+
+§ 1º
+
+Excetuam-se da exigência deste artigo, os alimentos embalados em recipientes hermeticamente fechados, impermeáveis e resistentes.
+
+
+§ 2º
+
+Os veículos de transporte de gêneros alimentícios deverão possuir certificado de vistoria, o qual será concedido pela autoridade sanitária competente, após a devida inspeção.
+
+
+Art. 173.
+
+Só será permitido o comércio de saneantes, desinfetantes e produtos similares, em estabelecimentos de venda ou consumo de alimento, quando neles existir local apropriado separado, devidamente aprovado pela autoridade sanitária.
+
+
+Art. 174.
+
+A comercialização do água mineral e gelo estarão sujeitas à fiscalização da autoridade sanitária municipal, na qual serão observadas as normas emanadas da legislação federal específica.
+
+
+Art. 175.
+
+A água utilizada na preparação de bebidas, sucos de frutas, saladas de frutas e afins deverá ser potável.
+
+
+Parágrafo único
+
+O gelo destinado ao consumo humano deverá ser produzido com água potável.
+
+
+Art. 176.
+
+A autoridade sanitária municipal realizará ação fiscalizadora, para que seja observado o previsto em lei e em normas técnicas e regulamentares, sobre os alimentos e o pessoal que manipule, sobre os locais e instalações onde se fabrique, produza, beneficie, manipule, acondicione, conserve, deposite, armazene, transporte, distribua, venda ou consuma alimentos, produtos alimentícios, matéria-prima alimentar, alimentos “in natura”, alimentos enriquecidos, alimentos de fantasias, alimentos irradiados, aditivos intencionais e alimentos transgênicos, dentre outros.
+
+
+Parágrafo único
+
+A autoridade sanitária, quando devidamente credenciada e identificada pelo respectivo crachá, terá livre acesso a qualquer local mencionado no *caput* deste Art.
+
+
+Art. 177.
+
+No exercício das atribuições mencionadas no artigo anterior, a Secretaria Municipal de Saúde, por intermédio de seus órgãos competentes, levará em consideração, entre outros, os seguintes critérios:
+
+
+I –
+
+controlar possíveis contaminações de origens microbiológicas, físico, químicas, químicas e radioativas, de acordo com as normas técnicas pertinentes;
+
+
+II –
+
+observar todo procedimento de conservação, em geral;
+
+
+III –
+
+apresentação dos produtos em conformidade com a legislação e normas pertinentes;
+
+
+IV –
+
+o cumprimento das normas relativas ao espaço físico do estabelecimento.
+
+
+Art. 178.
+
+Compete à autoridade sanitária municipal realizar, periodicamente, ou quando necessário, a coleta de água, alimentos, matérias-primas para alimentos, aditivos, coadjuvantes, recipientes e de qualquer substância destinada ao consumo humano.
+
+
+Parágrafo único
+
+As amostras coletadas serão submetidas à análise laboratorial, de acordo com as normas dos órgãos competentes do Estado e da União, no que couber.
+
+
+Art. 179.
+
+A análise fiscal será realizada no laboratório de saúde pública oficial e os laudos deverão ser encaminhados à autoridade sanitária dentro de um prazo previamente estabelecido que não acarrete prejuízo ao andamento do processo sanitário.
+
+
+Art. 180.
+
+Todo alimento suspeito ou com indício de alteração, falsificação ou fraude, serão apreendidos e interditados pela autoridade sanitária e deles serão coletadas amostras destinadas à análise, de acordo com as normas técnicas presentes na legislação específica vigente.
+
+
+Parágrafo único
+
+Se o resultado da análise da amostra coletada comprovar a impropriedade, a autoridade sanitária municipal poderá efetuar a inutilização do alimento em questão, sem prejuízo de sanções ao infrator, pessoa física ou jurídica.
+
+
+Art. 181.
+
+O detentor ou responsável pelo alimento interditado fica proibido de entregá-lo ao consumo, desviá-lo ou substituí-lo, no todo ou em parte, até que ocorra a liberação da mercadoria pela autoridade sanitária municipal na forma prevista no artigo seguinte.
+
+
+Art. 182.
+
+Os alimentos manifestamente deteriorados e os alterados, de tal forma que a alteração constatada justifique considerá-los de pronto, impróprios para o consumo, serão apreendidos e inutilizados sumariamente pela autoridade sanitária municipal, mediante lavratura de laudo qual deverá ser especificado a natureza, marca, quantidade e qualidade do produto, o qual será assinado pelo infrator ou na recusa deste, por duas testemunhas, sem prejuízo das demais penalidades cabíveis.
+
+
+Art. 183.
+
+A análise condenatória de alimentos advindos de outros municípios do Estado será, obrigatoriamente, comunicado ao órgão competente do Município; quando advindos de outros Estados da Federação, a Secretaria de Saúde comunicará aos órgãos estaduais competentes e ao Ministério da Saúde.
+
+
+Art. 184.
+
+As pessoas físicas e jurídicas que desenvolvam atividades de produção, comercialização, industrialização de alimentos e produtos alimentícios, ficam sujeitos ao controle e fiscalização da Secretaria Municipal de Saúde, sem prejuízo da atendimento às exigências de outros órgãos e entidades competentes do Município, do Estado e da União.
+
+
+Art. 185.
+
+Nos locais e estabelecimentos onde se manipulem, beneficiem, ou fabriquem produtos alimentícios é proibida:
+
+
+I –
+
+fumar;
+
+
+II –
+
+varrer a seco;
+
+
+III –
+
+permitir a entrada ou permanência de quaisquer animais.
+
+
+§ 1º
+
+Os banheiros sanitários não deverão ter comunicação direta com os locais onde se preparem, sirvam ou depositem alimentos e deverão ser mantidos rigorosamente limpos, possuindo instalações em condições adequadas à higiene pessoal.
+
+
+§ 2º
+
+A estrutura física do prédio deverá apresentar-se de acordo com as normas técnicas específicas e com as normas emanadas da legislação Municipal.
+
+
+§ 3º
+
+As paredes e os forros serão de aspectos lisos, impermeável de cor clara e lavável de modo a não permitir a proliferação de mofo.
+
+
+Art. 186.
+
+Durante o armazenamento ou exposição dos alimentos, os mesmos deverão ser mantidos afastados das paredes.
+
+
+Parágrafo único
+
+Os alimentos secos como farinhas, açúcares e biscoitos devem ser guardados em prateleiras afastadas da parede, pelo menos 30 cm.
+
+
+Art. 187.
+
+Os alimentos deverão ser armazenados, depositados ou expostos sobre estrados, em prateleiras ou dependurados em suportes de forma que se evite o contato direto com o chão.
+
+
+Art. 188.
+
+Haverá, sempre que a autoridade sanitária municipal julgar necessário, torneiras e ralos reversíveis, dispostos de modo a facilitar a lavagem da parte industrial e comercial do estabelecimento.
+
+
+§ 1º
+
+Todos os estabelecimentos terão, obrigatoriamente, reservatório de água com capacidade mínima correspondente ao consumo diário, respeitado o mínimo absoluto de 1.000 litros.
+
+
+§ 2º
+
+As caixas d’água, quando subterrâneas, deverão ser devidamente protegidas contra infiltração de qualquer natureza.
+
+
+Art. 189.
+
+Os estabelecimentos de gêneros alimentícios deverão, de acordo com a legislação vigente, obedecer às seguintes exigências:
+
+
+I –
+
+piso de uso comum resistente, impermeável e com declividade para facilitar o escoamento de águas;
+
+
+II –
+
+portas e janelas em número suficiente, para permitir franca ventilação e devidamente gradeadas e providas de telas que impeçam a entrada de roedores e insetos;
+
+
+III –
+
+abastecimento de água e rede interna para escoamento de águas residuais e de lavagem.
+
+
+Art. 190.
+
+A critério da autoridade sanitária municipal, os estabelecimentos cuja natureza acarrete a longa permanência do público, deverão ter banheiros sanitários adequados à disposição de seus frequentadores.
+
+
+Art. 191.
+
+Os banheiros sanitários, além das outras exigências que emanam da legislação vigente e de Normas Técnicas pertinentes, deverão ter piso de material cerâmico, paredes revestidas até 2,00m, no mínimo, com material cerâmico vidrado, portas com molas, aberturas teladas e ralos escamoteados.
+
+
+Art. 192.
+
+Os açougues, entrepostos de carnes, casa de aves abatidas, peixarias e entrepostos de pescado terão:
+
+
+I –
+
+porta abrindo diretamente para logradouro público assegurando ampla ventilação;
+
+
+II –
+
+piso de material cerâmico ou impermeável;
+
+
+III –
+
+pia com água corrente;
+
+
+IV –
+
+instalação frigorífica;
+
+
+V –
+
+iluminação artificial, quando necessário, de natureza tal que não altere as características organolépticas do produto;
+
+
+VI –
+
+pintura, revestimento de paredes e forros de natureza tal que não alterem as características organolépticas do produto.
+
+
+Art. 193.
+
+Os açougues são destinados à venda de carnes, vísceras e miúdos frescos, resfriados ou congelados, não sendo permitido seu preparo ou manipulação para qualquer fim.
+
+
+Parágrafo único
+
+Será facultado aos açougues:
+
+
+I –
+
+a venda de carnes conservadas ou preparadas, exceto os enlatados, desde que convenientemente identificadas como procedentes de fábricas licenciadas e registradas;
+
+
+II –
+
+a venda de carne fresca moída, desde que a moagem seja, obrigatoriamente, feita na presença do comprador e o seu exclusivo pedido;
+
+
+III –
+
+a venda de pescado, industrializado e congelado procedente de fábricas licenciadas, desde que disponham de unidades frigoríficas próprias e exclusivas para sua boa conservação.
+
+
+Art. 194.
+
+É proibido o preparo ou o fabrico de conservas de peixe pelas peixarias.
+
+
+Art. 195.
+
+É proibida a venda de aves ou de outros animais vivos nos supermercados, mercadinhos e estabelecimentos congêneres.
+
+
+Art. 196.
+
+O armazenamento do lixo deverá ser realizado em local que não permita o contato direto com as demais dependências do estabelecimento.
+
+
+Art. 197.
+
+Não é permitido o abate ou preparo de aves e outros animais nos estabelecimentos que comercializam ovos e aves abatidas.
+
+
+Art. 198.
+
+Os depósitos de matéria-prima, adegas e despensas terão:
+
+
+I –
+
+paredes revestidas de material impermeável;
+
+
+II –
+
+pisos revestidos de material cerâmico ou equivalente;
+
+
+III –
+
+aberturas teladas;
+
+
+IV –
+
+portas com mola e com proteção, na parede inferior, à entrada de roedores.
+
+
+Art. 199.
+
+odas as pessoas que manipulem alimentos devem ser encaminhadas, semestralmente, a exame médico.
+
+
+Art. 200.
+
+Pessoas que constituam fonte de infecção de doenças infectocontagiosas ou transmissíveis, exceto quando houverem sido submetidas a tratamento e estejam em fase de recuperação, bem como as afetadas de dermatoses, exsudativas ou esfoliativas, não poderão exercer atividades que envolvam contato ou manipulação de gêneros alimentícios.
+
+
+Art. 201.
+
+Os empregados e operários dos estabelecimentos de gêneros alimentícios deverão obrigatoriamente:
+
+
+I –
+
+usar vestuário adequado à natureza do serviço, durante o trabalho, de forma a não permitir a contaminação dos alimentos;
+
+
+II –
+
+manter rigoroso asseio individual;
+
+
+III –
+
+evitar o uso de anéis, pulseiras, relógio e outros adereços, durante a preparação de alimentos;
+
+
+IV –
+
+uso de equipamentos de proteção individual.
+
+
+§ 1º
+
+O estabelecimento deverá dispor de procedimentos escritos, afixados em locais apropriados, sobre a correta lavagem das mãos.
+
+
+§ 2º
+
+Nas instalações sanitárias destinadas aos funcionários e empregados, será obrigatório lavatório com água corrente, sabão, e toalhas de papel.
+
+
+§ 3º
+
+As exigências deste Art. abrangem a todas as pessoas que, mesmo não sendo empregados ou operários registrados nos estabelecimentos de gêneros alimentícios, estejam vinculados de qualquer forma à fabricação, manipulação, venda ou armazenamento de gêneros alimentícios, em caráter habitual.
+
+
+##### Seção III — Da Vigilância Sanitária das Drogas, Medicamentos, Insumos Farmacêuticos, Fitoterápicos, Domissanitários e outros Produtos de Interesse da Saúde
+
+
+Art. 202.
+
+Definem-se para efeito deste Regulamento:
+
+
+I –
+
+Droga: Substância ou matéria-prima que tenha finalidade medicamentosa ou sanitária;
+
+
+II –
+
+Medicamento: produto farmacêutico obtido ou elaborado com finalidade profilática, curativa, paliativa ou de diagnóstico;
+
+
+III –
+
+Insumo Farmacêutico: Droga ou matéria-prima aditiva ou complementar de qualquer natureza utilizada em medicamentos ou em seu recipiente;
+
+
+IV –
+
+Correlato: Substância, produto, aparelho ou acessório como, por exemplo: gases, esparadrapos, equipamento macro, sonda uretral etc;
+
+
+V –
+
+Medicamento fitoterápico: medicamento farmacêutico obtido por processos tecnologicamente adequados, empregando-se exclusivamente matérias-primas vegetais, com finalidade profilática, curativa, paliativa ou para fins de diagnóstico. É caracterizado pelo conhecimento da eficácia e dos riscos de seu uso, assim como pela reprodutibilidade e constância de sua qualidade. Não se considera medicamento fitoterápico aquele que, na sua composição, inclua substâncias ativas isoladas, de qualquer origem, nem as associações destas com extratos vegetais, considerando:
+
+
+a)
+
+Medicamento fitoterápico novo: aquele cuja eficácia, segurança e qualidade, sejam comprovadas cientificamente junto ao órgão federal competente, por ocasião do registro, podendo servir de referência para o registro de similares;
+
+
+b)
+
+Medicamento fitoterápico tradicional: aquele elaborado a partir de planta medicinal de uso tradicional, sem evidências conhecidas ou informadas, como de risco à saúde do usuário, cuja eficácia é validada através de levantamentos etno-farmacológicos e de utilização, documentações técnico-científicas ou publicações indexadas;
+
+
+c)
+
+Medicamento fitoterápico similar: aquele que contém as mesmas matérias-primas vegetais, na mesma concentração de princípio ativo ou marcadores, utilizando a mesma via de administração, forma farmacêutica, posologia e indicação terapêutica de um medicamento fitoterápico considerado como referência;
+
+
+VI –
+
+Matéria-prima vegetal: planta fresca, droga vegetal ou seus derivados: extrato, tintura, óleo, cera, suco e outros;
+
+
+VII –
+
+Princípio ativo: substância ou grupo delas, quimicamente caracterizada, cuja ação farmacológica é conhecida e responsável, total ou parcialmente, pelos efeitos terapêuticos do medicamento fitoterápico;
+
+
+VIII –
+
+Adjuvante: substância adicionada ao medicamento com a finalidade de prevenir alterações, corrigir e/ou melhorar as características organolépticas, biofarmacotécnicas e tecnológicas do medicamento;
+
+
+IX –
+
+Droga vegetal: como planta ou suas partes, após processos de coleta, estabilização e secagem, podendo ser íntegra, rasurada, triturada ou pulverizada;
+
+
+X –
+
+Domissanitário: substância ou soluções destinadas à higienização, desinfecção domiciliar, ambientes coletivos ou públicos e tratamento de água;
+
+
+XI –
+
+Inseticidas: substância que combate, previne e controla a proliferação insetos em habitações, recintos e lugares públicos;
+
+
+XII –
+
+Raticidas: substância que combate, previne e controla a proliferação ratos e camundongos e outros roedores, sem riscos à saúde do homem, aplicados de acordo com as recomendações do produto;
+
+
+XIII –
+
+Desinfetantes: elimina seletivamente microrganismos em ambientes e objetos;
+
+
+XIV –
+
+Produtos de Interesse à Saúde: produtos de higiene de uso externo (sabonetes, desodorantes, xampus, cosméticos, perfumes, etc.) e de uso interno (dietéticos, corantes, aditivos, etc.).
+
+
+Art. 203.
+
+A Vigilância Sanitária Municipal exercerá o controle e a fiscalização dos produtos previstos no art. anterior, supracitados, aplicando-se as medidas administrativas previstas neste Código, combinadas com as normas técnicas pertinentes à vigilância sanitária.
+
+
+Art. 204.
+
+A seleção de plantas medicinais destinadas ao cultivo e à manipulação deverá ser fundamentada em estudos científicos realizados em centros de pesquisa e universidades brasileiras, certificando sua eficácia terapêutica e segurança quanto à toxicidade.
+
+
+##### Seção IV — Dos Estabelecimentos Farmacêuticos, Farmácia Pública, Privada ou Hospitalar, Drogaria, Postos de Medicamentos, Unidades Volantes e Dispensário de Medicamentos
+
+
+Art. 205.
+
+O órgão competente de Vigilância Sanitária Municipal exercerá o controle e a fiscalização sobre todo e qualquer estabelecimento que produzir, manipular, embalar, reembalar, acondicionar, comercializar, armazenar, distribuir, dispensar as substâncias e produtos medicamentosos e as referidas no art. 203, segundo a Legislação Federal e Estadual vigentes.
+
+
+Art. 206.
+
+Somente poderão realizar suas atividades, os estabelecimentos que tenham sido licenciados pelo órgão sanitário competente.
+
+
+Art. 207.
+
+Define-se para efeito deste Regulamento:
+
+
+I –
+
+Farmácia Pública/Privada: Estabelecimento prestador de serviços de saúde, entendidos como orientação sanitária, manipulação de fórmulas e oficinas alopáticas, comércio varejista de drogas, medicamentos alopáticos, insumos farmacêuticos e correlatos, quando a serviço da coletividade em geral ou em particular (empresas, órgãos públicos e afins);
+
+
+II –
+
+Drogaria: Estabelecimento prestador de serviço de saúde, entendida como orientação sanitária, dispensação e comércio de drogas, medicamentos alopáticos, insumos farmacêuticos e correlatos, todos em suas embalagens originais;
+
+
+III –
+
+Postos de Medicamentos: São estabelecimentos exclusivamente destinados à dispensação de medicamentos industrializados, em suas embalagens originais, excetuando-se os sujeitos a regime especial de controle;
+
+
+IV –
+
+Unidades Volantes: São unidades que realizam a disposição de medicamentos industrializados, em suas embalagens originais, excetuando-se os sujeitos a regime especial de controle, através de meios de transporte adequado, para atendimento a localidades desprovidas de farmácias, drogarias e postos de medicamentos;
+
+
+V –
+
+Dispensário de Medicamentos: São unidades de fornecimento de medicamentos industrializados, privativos de pequena Unidade Hospitalar ou equivalente;
+
+
+VI –
+
+Farmácia Hospitalar: Unidades tecnicamente aparelhadas para prover as clínicas e demais serviços dentro do Hospital, tendo um profissional farmacêutico integrado a todos os profissionais da saúde, para dispensação e uso adequado dos medicamentos e correlatos.
+
+
+Art. 208.
+
+O órgão competente de Vigilância Sanitária Municipal exercerá o controle e a fiscalização dos estabelecimentos supracitados, seguindo a Legislação Federal e Estadual vigentes.
+
+
+Art. 209.
+
+O local destinado para instalação de drogaria, além de satisfazer as exigências referentes às habitações e aos estabelecimentos de trabalho em geral, deverá ter piso de material antiderrapante, liso, resistente e impermeável e as paredes pintadas de cor clara, também de material liso, resistente e impermeável e teto de cor clara a critério da autoridade sanitária.
+
+
+Art. 210.
+
+As farmácias e as drogarias deverão possuir instalações que ofereçam segurança para o controle, escrituração e armazenagem de entorpecentes e de substâncias que produzam dependência física ou psíquica, e prover de livros ou fichas destinadas à escrituração do movimento de entrada, saída e estoque daqueles produtos, conforme modelos designados pelo órgão federal competente.
+
+
+Art. 211.
+
+Compete à autoridade sanitária a fiscalização dos laboratórios de medicamentos fitoterápicos e estabelecimentos congêneres no que diz respeito, inicialmente, à matéria-prima de hortas de produção e as chamadas “farmácia viva”.
+
+
+Art. 212.
+
+Todo laboratório fitoterápico deverá apresentar um ambiente apropriado para o recebimento e seleção da matéria-prima.
+
+
+Art. 213.
+
+Os estabelecimentos deverão, obrigatoriamente, dispor de responsável técnico (farmacêutico) legalmente habilitado que preste assistência técnica durante todo o período de funcionamento; além desta exigência, os estabelecimentos terão que possuir instalações e equipamentos conservados, e um exemplar da Farmacopéia Brasileira atualizado.
+
+
+Parágrafo único
+
+Ao Responsável Técnico é, ainda, tolerado o cumprimento da carga horária mínima estabelecida pelo Conselho Regional da classe.
+
+
+##### Seção V — Da Vigilância Sanitária Aos Estabelecimentos de Saúde
+
+
+Art. 214.
+
+Sem que haja prejuízo da ação das autoridades competentes da Secretaria Estadual de Saúde, ficam sujeitos à Vigilância Sanitária Municipal os estabelecimentos de interesse à saúde tais como:
+
+
+I –
+
+laboratórios de análise;
+
+
+II –
+
+bancos de sangue;
+
+
+III –
+
+creches;
+
+
+IV –
+
+casas de saúde, clínicas médicas, clínicas dentárias, prontos-socorros odontológicos e congêneres;
+
+
+V –
+
+laboratórios e oficinas de prótese dentária;
+
+
+VI –
+
+institutos e clínicas de fisioterapia;
+
+
+VII –
+
+locais onde se comercializem lentes oftalmológicas;
+
+
+VIII –
+
+outros estabelecimentos que desenvolvam serviços que, direta ou indiretamente, tenham interesse para as ações municipais de saúde.
+
+
+Parágrafo único
+
+Os estabelecimentos de saúde mencionados neste Art. deverão cumprir, dentre outras, as seguintes exigências:
+
+
+I –
+
+solicitar previamente a licença sanitária junto à Secretaria de Planejamento do Município para que possa entrar em funcionamento, a qual deverá ser renovada anualmente;
+
+
+II –
+
+dispor de Responsável Técnico devidamente registrado no conselho de classe, na forma da lei;
+
+
+III –
+
+ter condições compatíveis com as suas atividades, tudo de acordo com a legislação que emanam do nível federal e estadual supletiva de saúde e normas técnicas pertinentes.
+
+
+##### Seção VI — Da Vigilância Sanitária de Outros Estabelecimentos e Locais de Interesse à Saúde e sua Localização
+
+
+Art. 215.
+
+Será obrigatória a desinfecção do instrumental e utensílios destinados ao serviço, antes de serem usados, por meios aprovados pela legislação vigente, nas barbearias, cabeleireiros, salões, institutos de beleza e estabelecimentos congêneres.
+
+
+Art. 216.
+
+As roupas, utensílios e instalações dos hotéis, motéis, pensões, barbearias, cabeleireiros e congêneres deverão ser limpas e desinfetadas.
+
+
+Art. 217.
+
+As piscinas de uso público e as de uso coletivo restrito deverão utilizar água com características físicas, químicas e bacteriológicas adequadas, de acordo com as normas técnicas especiais e legislação vigente.
+
+
+§ 1º
+
+Os seus vestiários higiênicos, sanitários e chuveiros deverão ser conservados limpos e sua desinfecção será feita a critério da autoridade sanitária.
+
+
+§ 2º
+
+O teor de cloro na água da piscina deverá atender aos limites determinados pela Legislação vigente.
+
+
+Art. 218.
+
+As lavanderias públicas não poderão receber roupas que tenham sido usadas por doentes de hospitais ou estabelecimentos congêneres, ou provenientes de habitações particulares onde existam pessoas atacadas de doenças transmissíveis.
+
+
+Parágrafo único
+
+Somente lavanderias sob fiscalização da autoridade sanitária municipal poderão receber roupas que tenham sido usadas por doentes de hospitais e estabelecimentos congêneres ou de habitações particulares onde existam pessoas atacadas de doenças transmissíveis.
+
+
+Art. 219.
+
+É proibida a irrigação de plantações de hortaliças e frutas rasteiras com água contaminada, em particular as que contenham dejetos humanos.
+
+
+Parágrafo único
+
+Para efeito deste artigo, considera-se água contaminada a que contenha elementos em concentrações nocivas à saúde humana, tais como organismos patogênicos, substâncias tóxicas ou radioativas.
+
+
+Art. 220.
+
+Estendem-se, no que couberem, as determinações deste Regulamento, aos hotéis, motéis, pensões e estabelecimentos congêneres.
+
+
+Art. 221.
+
+A autoridade sanitária municipal poderá determinar outras medidas sobre saneamento do meio, para assegurar proteção à saúde, prevenindo a disseminação de doenças transmissíveis e incômodas a terceiros.
+
+
+##### Seção VII — Das Casas Funerárias, Inumações, Exumações, Trasladações e Cremações
+
+
+Art. 222.
+
+As casas funerárias só poderão exercer as suas atividades depois de licenciadas pela autoridade sanitária municipal.
+
+
+Parágrafo único
+
+A autorização é exigida para as filiais e em caso de mudança de endereço ou de formação de nova firma.
+
+
+Art. 223.
+
+O transporte de cadáver só poderá ser feito em veículos especialmente destinado a esse fim.
+
+
+Parágrafo único
+
+Os veículos deverão no lugar em que pousar o caixão fúnebre, ter revestimento de placa metálica ou de outro material impermeável e ser lavados e desinfectados após o uso.
+
+
+Art. 224.
+
+O prazo mínimo para a exumação será fixado em três anos, contados da data do óbito, sendo reduzido para dois anos, no caso de crianças até idade de seis anos.
+
+
+Art. 225.
+
+Nenhuma cremação ou inumação será realizada antes de se manifestarem no cadáver os primeiros sinais de decomposição orgânica.
+
+
+Art. 226.
+
+Ficará terminantemente proibida a inumação em igrejas, capelas, cruzeiros ou em qualquer outro local fora da área interna dos cemitérios.
+
+
+Art. 227.
+
+Nenhum sepultamento poderá ser feito sem a apresentação da certidão fornecida pelo oficial de registro civil, que a expedirá à vista da declaração de óbito firmada pelo médico ou, na falta deste, por duas pessoas qualificadas que tiverem presenciado ou verificado o óbito e pelo declarante nos casos de morte natural sem assistência.
+
+
+##### Seção VIII — Da Fiscalização de Entorpecentes e Psicotrópicos
+
+
+Art. 228.
+
+A Vigilância Sanitária Municipal deverá fiscalizar o comércio de substâncias tóxicas que geram dependência física e psíquica, competindo-o mesmo:
+
+
+I –
+
+examinar os livros de registros de medicamentos psicofármacos e substâncias sob controle especial nos estabelecimentos. Para os estabelecimentos farmacêuticos privados, este controle não é mais através de livros e sim através de um Sistema Nacional a nomenclatura é SNGPC;
+
+
+II –
+
+conferir receitas, notas fiscais, doações e devoluções de substâncias sob controle especial;
+
+
+III –
+
+apreender produtos que não constem nos livros ou sistema de registros de medicamentos, orientando neste sentido.
+
+
+Parágrafo único
+
+A Vigilância Sanitária Municipal deverá seguir as normas vigentes do Ministério da Saúde, que aprova o Regulamento Técnico sobre substâncias e medicamentos sujeitos a controle especial.
+
+
+##### Seção IX — Dos Estabelecimentos Veterinários e Congêneres
+
+
+Art. 229.
+
+Os hospitais, clínicas e consultórios veterinários, bem como os estabelecimentos de pensão e adestramento destinados ao atendimento de animais domésticos de pequeno porte, serão permitidos dentro do perímetro urbano, em local autorizado pela Secretaria Municipal de Agricultura, desde que satisfeitas as exigências deste regulamento e de suas Normas Técnicas Especiais.
+
+
+Art. 230.
+
+Os canis dos hospitais e clínicas deverão ser individuais, localizados em recinto fechado, providos de dispositivos destinados a evitar a exalação de odores e a propagação de ruídos incômodos, construídos de alvenaria com revestimento impermeável, podendo as gaiolas ser de ferro pintado ou material inoxidável, com piso removível.
+
+
+Art. 231.
+
+Nos estabelecimentos de pensão e adestramento, os canis poderão ser do tipo solário individual, devendo, neste caso, ser totalmente cercados e cobertos por tela de arame e providos de abrigo.
+
+
+Art. 232.
+
+Os canis devem ser providos de esgotos com destino adequado, dispor de água corrente e sistema apropriado de ventilação.
+
+
+##### Seção X — Do Controle das Fontes Ionizantes
+
+
+Art. 233.
+
+A Secretaria Municipal de Saúde participará das ações, a cargo dos órgãos competentes de outras esferas de governo, no controle e na fiscalização da produção, transporte, guarda, utilização de substâncias e produtos psicoativos, tóxicos e radioativos de acordo com as normas legais e regulamentares pertinentes e as resoluções da Comissão Nacional de Energia Nuclear.
+
+
+#### CAPÍTULO VIII — Da Saúde do Trabalhador
+
+
+Art. 234.
+
+Atenção à saúde do trabalhador compreende um conjunto de ações destinadas à proteção, recuperação e reabilitação dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho.
+
+
+Parágrafo único
+
+À Secretaria Municipal de Saúde, através do seu órgão competente, fiscalizará o ambiente de trabalho e, em Normas Técnicas Especiais, estabelecerá padrões de qualidade para promoção da saúde do trabalhador e disciplinará as ações que lhe são pertinentes, como direção e gestora do SUS no âmbito municipal.
+
+
+Art. 235.
+
+A atenção à saúde do trabalhador compreende as ações individuais de vigilância e assistência desenvolvidas pelos serviços de saúde e incluirão, obrigatoriamente:
+
+
+I –
+
+atendimento à totalidade da população trabalhadora, garantindo o acesso a todos os níveis de atenção com utilização de toda tecnologia possível;
+
+
+II –
+
+estabelecimento de instância de referência hierarquizada e especializada na atenção à saúde do trabalhador, individual e coletiva, através de procedimentos que visem identificar o nexo causal entre o quadro neurológico apresentado e as condições e organização do trabalho, de forma a chegar a diagnósticos e tratamentos adequados;
+
+
+III –
+
+garantia de diagnóstico e tratamento pela rede municipal, própria ou conveniada, a todos os suspeitos de doenças profissionais e de trabalho;
+
+
+IV –
+
+assistência integral a todas as vítimas de acidentes de trabalho;
+
+
+V –
+
+ações educativas visando à prevenção das doenças ocupacionais e dos acidentes do trabalho.
+
+
+Art. 236.
+
+É garantido o livre acesso da autoridade sanitária municipal em todos os ambientes de trabalho públicos e privados, inclusive, nos veículos de qualquer natureza dentro do município, a qualquer dia e hora, quando no exercício de suas atribuições.
+
+
+Parágrafo único
+
+É facultativo a autoridade sanitária documentar a fiscalização utilizando-se de meios audiovisuais que poderão ser anexados ao relatório da inspeção.
+
+
+Art. 237.
+
+A autoridade sanitária municipal investigará e fiscalizará:
+
+
+I –
+
+as condições sanitárias dos ambientes de trabalho;
+
+
+II –
+
+as condições do processo de produção, nele incluídos os objetos, as maquinarias, os instrumentos, a tecnologia, os produtos e a organização do trabalho;
+
+
+III –
+
+o uso de equipamentos de proteção individual e a adoção de outras medidas de controle de riscos e de proteção coletiva e individual;
+
+
+IV –
+
+as condições de saúde dos trabalhadores em suas várias conotações e formas de trabalho.
+
+
+Art. 238.
+
+Será objeto de ação de vigilância à saúde do trabalhador, entre outros, os seguintes fatores ligados à organização do trabalho:
+
+
+I –
+
+ritmo de trabalho;
+
+
+II –
+
+pausas e intervalos;
+
+
+III –
+
+regime de horário de trabalho;
+
+
+IV –
+
+duração da jornada de trabalho;
+
+
+V –
+
+formas de controle;
+
+
+VI –
+
+conteúdo das tarefas;
+
+
+VII –
+
+modo operativo.
+
+
+Art. 239.
+
+Em caráter complementar, a autoridade sanitária municipal terá a prerrogativa de adotar normas que emanam da legislação estadual e federal vigente referente à proteção da saúde dos trabalhadores.
+
+
+### TÍTULO V
+
+
+#### CAPÍTULO I — Do Sistema de Informação e Estatística para a Saúde
+
+
+Art. 240.
+
+A Secretaria Municipal de Saúde promoverá de modo sistemático e obrigatório, um sistema de estatísticas de interesse à saúde, fundamentando-se na coleta, processamento, análise e avaliação de dados vitais, tendo em vista à elaboração do diagnóstico de saúde, ao planejamento de ações de saúde e ao direcionamento de programas de saúde no Município.
+
+
+Parágrafo único
+
+De acordo com o exposto no caput deste Art., a atuação da Secretaria Municipal de Saúde dar-se-á através de seus órgãos competentes e em articulação com outros órgãos do Município.
+
+
+Art. 241.
+
+A Declaração de óbito é um documento indispensável à emissão de guia de sepultamento e de exclusiva responsabilidade do médico, na forma e condições estabelecidas na legislação pertinente.
+
+
+Parágrafo único
+
+É obrigação dos cartórios de registro civil enviar para a Secretaria Municipal de Saúde, cópia das Declarações de Óbitos de pessoas que estavam residentes no Município ou ocorridas dentro de seu território.
+
+
+Art. 242.
+
+É de competência da Secretaria Municipal de Saúde enviar aos estabelecimentos de saúde, profissionais da área de saúde e aos cartórios de registro civil, os formulários e documentos indispensáveis à elaboração das estatísticas vitais para a saúde pública, inclusive expedindo normas complementares, na forma deste Código respeitada a legislação vigente.
+
+
+Art. 243.
+
+Todo cidadão deve fornecer, em tempo hábil, e de forma verídica, as informações solicitadas pela autoridade sanitária municipal, contribuindo, deste modo, para a realização de estudos e pesquisas que possam permitir o conhecimento da realidade acerca da saúde da população e das condições do ambiente em que vivem, para que sejam promovidas ações visando à solução dos problemas existentes.
+
+
+Art. 244.
+
+Compete ao gestor municipal organizar o Sistema municipal de Informação em Saúde com o propósito de facilitar a formulação e avaliação de políticas, planos e programas de saúde, subsidiando o processo de tomada de decisão, com o objetivo de contribuir para melhoria da situação da população.
+
+
+#### CAPÍTULO II — Da Declaração de Nascidos-Vivos
+
+
+Art. 245.
+
+Os hospitais e maternidades da rede pública e privada são obrigados a fornecer aos pais ou responsáveis, a declaração de nascido vivo, devidamente preenchida, para todo recém-nascido assistido.
+
+
+§ 1º
+
+Define-se como nascimento vivo a expulsão completa do corpo da mãe, independentemente da duração da gravidez, de um produto de concepção que, depois da separação, respire ou apresente qualquer outro sinal de vida, como batimentos cardíacos, pulsações do cordão umbilical ou movimentos efetivos dos músculos de contração voluntária, estando ou não cortado o cordão umbilical e estando ou não desprendida a placenta. Cada produto de um nascimento que reúna essas condições se considera como uma criança viva.
+
+
+§ 2º
+
+O formulário impresso da declaração de óbito é um documento padronizado pelo Ministério da Saúde e distribuído pela Secretaria Municipal de Saúde.
+
+
+Art. 246.
+
+No momento da realização do registro civil de crianças nascidas no Município, será obrigatória a apresentação da Declaração de Nascidos-vivos devidamente preenchida por médico ou enfermeiro do estabelecimento de saúde onde aconteceu o nascimento ou que prestou assistência imediata ao recém-nascido.
+
+
+Parágrafo único
+
+Se o nascimento vivo não ocorrer dentro da rede hospitalar ou unidade de saúde ou mesmo sem assistência imediata de um profissional de saúde, a Declaração de Nascido Vivo será preenchida pelo cartório de registro civil.
+
+
+#### CAPÍTULO III — Da Declaração de Óbito
+
+
+Art. 247.
+
+A declaração de óbito é um documento indispensável para o sepultamento e deverá ser fornecido pelo médico que prestou assistência ao óbito legalmente habilitado ou pelo SVO ou IML.
+
+
+Parágrafo único
+
+O formulário impresso da declaração de óbito é um documento padronizado pelo Ministério da Saúde e distribuído pela Secretaria Municipal de Saúde.
+
+
+Art. 248.
+
+Para o óbito ocorrido sem atendimento médico ou por causas mal definidas e na inexistência de serviço de verificação de óbito e/ou instituto médico legal, o preenchimento da declaração de óbito poderá ser preenchida pelo oficial órgão de registro civil competente e firmado por duas pessoas que presenciaram o óbito, mediante a apresentação de documento de identificação o qual será mencionado na declaração.
+
+
+#### CAPÍTULO IV — Da Pesquisa e Investigação
+
+
+Art. 249.
+
+A Secretaria Municipal de Saúde promoverá o estímulo à pesquisa científica fundamentais e aplicadas, com objetivo prioritário de encontrar soluções para os problemas à nível de saúde pública, inclusive aos relacionados com o meio ambiente, zoonoses e outros fenômenos que possam acarretar agravos à saúde pública.
+
+
+Art. 250.
+
+Em articulação com órgãos das esferas estadual e federal, a Secretaria Municipal de Saúde desenvolverá ações de pesquisa e desenvolvimento de novas tecnologias, que possam, inclusive, servir à produção de medicamentos, matérias-primas, insumos e equipamentos, visando o controle e à prevenção de doenças e agravos, de acordo com suas disponibilidades de ordem técnica e financeira.
+
+
+#### CAPÍTULO V — Da Educação Sanitária
+
+
+Art. 251.
+
+A Secretaria Municipal de Saúde desenvolverá atividades de educação sanitária direcionadas, para todos os aspectos, à proteção da saúde pública com objetivo de eliminar os riscos de acidentes e/ou reduzir a mortalidade e morbidade por acidente.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Saúde, observadas as normas legais e regulamentares pertinentes, definirá as atribuições próprias do laboratório de saúde pública, de acordo com as diretrizes do Sistema Único de Saúde.
+
+
+### TÍTULO VI — Das Infrações e do Procedimento Administrativo
+
+
+#### CAPÍTULO I — Das Infrações e Penalidades
+
+
+Art. 252.
+
+Considera-se infração, para fins deste Código, a desobediência ou a inobservância ao disposto destas normas legais, regulamentares e outras que, por qualquer forma, se destinem à promoção, prevenção e recuperação da saúde, emanadas de fonte federal ou estadual.
+
+
+Art. 253.
+
+Responde pela infração quem por ação ou omissão lhe deu causa, ou concorreu para sua prática ou dela se beneficiou.
+
+
+Parágrafo único
+
+Exclui a imputação de infração a causa decorrente de força maior ou proveniente de eventos naturais ou circunstanciais imprevisíveis, que vier a determinar avaria deterioração ou alteração de produtos ou bens do interesse da saúde pública.
+
+
+Art. 254.
+
+As infrações sanitárias classificam-se em:
+
+
+I –
+
+leves, aquelas em que o infrator seja beneficiado por circunstância atenuante;
+
+
+II –
+
+graves aquelas em que for verificada uma circunstância agravante;
+
+
+III –
+
+gravíssimas aquelas em que for verificada a existência de duas ou mais circunstâncias agravantes.
+
+
+Art. 255.
+
+São circunstâncias atenuantes:
+
+
+I –
+
+a ação do infrator não ter sido fundamental para a consecução do evento;
+
+
+II –
+
+a errada compreensão da norma sanitária, admitida como escusável, quando patente a incapacidade do agente para entender o caráter ilícito do fato;
+
+
+III –
+
+o infrator, por espontânea vontade, imediatamente, procurar reparar ou minorar as consequências do ato lesivo à saúde pública que lhe for imputado;
+
+
+IV –
+
+ter o infrator sofrido coação, a que não podia resistir, para a prática do ato;
+
+
+V –
+
+a irregularidade cometida ser pouco significativa;
+
+
+VI –
+
+ser o infrator primário.
+
+
+Art. 256.
+
+São circunstâncias agravantes:
+
+
+I –
+
+ter o infrator agido com dolo, ainda que eventual fraude ou má-fé;
+
+
+II –
+
+ter o infrator cometido a infração para obter vantagem pecuniária decorrente de ação ou omissão que contraria o disposto na legislação sanitária;
+
+
+III –
+
+tendo conhecimento do ato ou fato lesivo à saúde pública, o infrator deixar de tomar as providências de sua alçada, tendentes a evitá-lo ou saná-lo;
+
+
+IV –
+
+ter o infrator coagir outrem para a execução material da infração;
+
+
+V –
+
+ter a infração consequências calamitosas à saúde pública;
+
+
+VI –
+
+ser, o infrator, reincidente.
+
+
+Art. 257.
+
+Para os efeitos deste Código (Regulamento e de suas Normas Técnicas Especiais), ficará caracterizada a reincidência específica quando o infrator, após decisão definitiva na esfera administrativa do processo que lhe houver imposto a penalidade, cometer nova infração do mesmo tipo ou permanecer em infração continuada, num período de cinco anos após o transito em julgado do primeiro processo.
+
+
+Parágrafo único
+
+A reincidência específica torna o infrator passível de enquadramento na penalidade máxima e a caracterização da infração em gravíssima.
+
+
+Art. 258.
+
+Para a imposição da pena e a sua graduação, a autoridade sanitária levará em conta:
+
+
+I –
+
+as circunstâncias atenuantes e agravantes;
+
+
+II –
+
+a gravidade do fato, tendo em vista as suas consequências para a saúde pública;
+
+
+III –
+
+os antecedentes do infrator quanto às normas sanitárias.
+
+
+Art. 259.
+
+
+I –
+
+advertência;
+
+
+II –
+
+multa;
+
+
+III –
+
+apreensão de produto;
+
+
+IV –
+
+inutilização de produto;
+
+
+V –
+
+interdição de produto;
+
+
+VI –
+
+suspensão de vendas e/ou fabricação de produto;
+
+
+VII –
+
+cancelamento de registro de produto;
+
+
+VIII –
+
+interdição parcial ou total do estabelecimento;
+
+
+IX –
+
+proibição de propaganda;
+
+
+X –
+
+cancelamento de autorização para funcionamento de empresa;
+
+
+XI –
+
+cancelamento de registro ou licenciamento do estabelecimento.
+
+
+Art. 260.
+
+Os estabelecimentos integrantes da Administração Pública ou por ela instituídos independem de licença para funcionamento ficando sujeitos, porém, às exigências pertinentes às instalações, aos equipamentos e à aparelhagem adequados e à assistência e responsabilidade técnicas.
+
+
+Art. 261.
+
+O desrespeito ou desacato ao servidor competente, em razão de suas atribuições legais, sujeitarão o infrator à penalidade de multa.
+
+
+Art. 262.
+
+Os valores das multas serão instituídos segundo o tipo de infração, leve, grave ou gravíssima, em norma regulamentar de competência do poder executivo.
+
+
+Parágrafo único
+
+Levar-se-á em conta, no julgamento da infração e seu apenamento com multa a capacidade econômica do infrator
+
+
+#### CAPÍTULO II — Do Procedimento Administrativo
+
+
+Art. 263.
+
+As infrações sanitárias serão apuradas em processo administrativo próprio, iniciado com a lavratura do auto de infração, observados o rito e os prazos estabelecidos neste Código, e nas leis federais e estaduais, quando houver alguma lacuna na lei sanitária municipal. Regulamento e legislações pertinentes, pela autoridade sanitária competente da Secretaria Municipal de Saúde.
+
+
+Art. 264.
+
+O auto de infração será lavrado na sede da Vigilância Sanitária Municipal, ou no local onde for verificada a infração.
+
+
+Art. 265.
+
+O auto de infração será lavrado em 03 (três) vias destinando-se a primeira ao autuado, a segunda aos arquivos da Secretaria Municipal de Saúde e a terceira à formação do processo administrativo e conterá:
+
+
+I –
+
+o nome da pessoa física ou denominação da entidade autuada, especificação de seu ramo de atividade e endereço;
+
+
+II –
+
+o ato ou fato constitutivo da infração e o local, a hora e a data respectivos;
+
+
+III –
+
+a disposição legal ou regulamentar transgredida;
+
+
+IV –
+
+indicação do dispositivo legal ou regulamentar que comina penalidade a que fica sujeito o infrator;
+
+
+V –
+
+o prazo de 15 (quinze) dias, para defesa ou impugnação do auto de infração;
+
+
+VI –
+
+nome e cargo legíveis da autoridade autuante e sua assinatura;
+
+
+VII –
+
+a assinatura do autuado ou, na sua ausência, de seu representante legal ou preposto, e em caso de recusa a consignação dessa circunstância pela autoridade autuante e a assinatura de duas testemunhas, quando possível;
+
+
+VIII –
+
+prazo para interposição de recurso, quando cabível.
+
+
+Parágrafo único
+
+Havendo recusa do infrator em assinar o auto, será feita, neste, a menção do fato.
+
+
+Art. 266.
+
+Contar-se-á, a partir da assinatura do auto de infração pelo autuado, o prazo de 15 (quinze) dias para que este apresente defesa fundamentada, no prédio da Vigilância Sanitária, assegurando-se o direito de ampla defesa.
+
+
+Art. 267.
+
+A apuração do ilícito, em se tratando de alimentos, produtos alimentícios, medicamentos, insumos farmacêuticos, produtos dietéticos, de higiene, cosméticos e correlatos, embalagens, saneantes, defensivos agrícolas e congêneres, utensílios e aparelhos que interessem à saúde pública ou individual, far-se-á mediante a apreensão de amostras para a realização de análises e de interdição, nas condições estabelecidas pela Secretaria Municipal de Saúde, em Normas Técnicas Especiais.
+
+
+Art. 268.
+
+O processo administrativo instaurado pelo servidor autuante, após regularmente instruído, deve ser encaminhado à chefia imediata, para parecer prévio, e em seguida, ao setor jurídico para demais providências e emissão de parecer conclusivo.
+
+
+Art. 269.
+
+Concluída a fase de instrução, o setor jurídico deve encaminhar o processo sanitário à autoridade competente para seu julgamento.
+
+
+Art. 270.
+
+O julgamento em primeiro grau será de competência do Coordenador de Vigilância Sanitária, cabendo recurso ao Secretário de Saúde no prazo de 30 (trinta) dias.
+
+
+Parágrafo único
+
+O recurso não será recebido em seu efeito suspensivo, com exceção à pena de multa.
+
+
+Art. 271.
+
+Imposta a pena e publicado o julgamento, o infrator terá 30 (trinta) dias para cumprir a obrigação.
+
+
+Parágrafo único
+
+Excepcionalmente, em razão de interesse público, poderá o julgador reduzir ou aumentar o tempo para o cumprimento da obrigação imposta, por meio de despacho bem fundamentado.
+
+
+Art. 272.
+
+Quando aplicada a pena de multa, no prazo de 30 (trinta) dias deverá o infrator realizar o seu pagamento, recolhendo à repartição fazendária municipal. Se for apresentado recurso, nesse prazo, aguardará o resultado de seu julgamento.
+
+
+Parágrafo único
+
+Se não realizar o recolhimento no prazo previsto, será o infrator inscrito no cadastro de dívida ativa do Município.
+
+
+Art. 273.
+
+A Secretaria Municipal de Saúde regulamentará o procedimento administrativo no que for omisso esse diploma legal.
+
+
+### TÍTULO VII — Das Disposições Finais e Transitórias
+
+
+Art. 274.
+
+Para o exercício de suas atribuições, a Secretaria Municipal de Saúde manterá, permanentemente, articulação com os demais órgãos e entidades do Município, do Estado e da União, visando ao funcionamento harmônico das ações municipais voltadas para a saúde pública.
+
+
+Art. 275.
+
+Caberá à Secretaria Municipal de Saúde antes da publicação de quaisquer normas técnicas especiais, levar ao conhecimento do Poder Legislativo Municipal, o seu inteiro teor, para sobre ele opinar.
+
+
+Art. 276.
+
+A Secretaria Municipal de Saúde, ouvidas as entidades profissionais da área de saúde, elaborará e/ou adotará normas técnicas e regulamentares, instituídas por decreto do Poder Executivo, com o fim de complementar e regulamentar o que está previsto neste Código.
+
+
+Art. 277.
+
+Serão fixados, anualmente, em Decreto do Poder Executivo, por proposta da Secretaria Municipal de Saúde, os valores das taxas em razão dos serviços de Vigilância Sanitária.
+
+
+Art. 278.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito "Raul Macêdo", em 14 de novembro de 2014.
+
+**JOSÉ VILTON DA CUNHA**
+
+Prefeito Municipal
+
+**JOÃO GUSTAVO COELHO GOMES GUIMARÃES**
+
+Vice-Prefeito
+
+Secretário Municipal de Saúde
+
+**RODOLFO BARROS LUCENA**
+
+Assessor Jurídico do Município
+
+Advogado - OAB/RN 10.522
+

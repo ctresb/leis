@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/1/lei_municipal_n._517-2022-anexos.pdf da norma LEI ORDINÁRIA-ARQ nº 517, de 22 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Planilha de Salários.",
+      "anexo_arquivo": "http://sapl.alvoradadonorte.go.leg.br/media/sapl/public/anexonormajuridica/2022/1/lei_municipal_n._517-2022-anexos.pdf",
+      "ano": 2022,
+      "norma": 4
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/2/lei_municipal_n._516-2022_-_anexos.pdf da norma LEI ORDINÁRIA-ARQ nº 516, de 22 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Planilha de salários.",
+      "anexo_arquivo": "http://sapl.alvoradadonorte.go.leg.br/media/sapl/public/anexonormajuridica/2022/2/lei_municipal_n._516-2022_-_anexos.pdf",
+      "ano": 2022,
+      "norma": 5
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/oficio_n024.pdf da norma LEI ORDINÁRIA nº 634, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "“Concede revisão dos Vencimentos dos Servidores Públicos Municipais, Agentes Políticos do Poder Executivo e Poder Legislativo do Município de Alvorada do Norte e dá outras providências”.",
+      "anexo_arquivo": "http://sapl.alvoradadonorte.go.leg.br/media/sapl/public/anexonormajuridica/2026/3/oficio_n024.pdf",
+      "ano": 2026,
+      "norma": 969
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alvoradadonorte.go.leg.br/6a85f7cdb27116cd7bb6f3012b47a37e4deab45403abfd4abc79e564bc8a9e3c.json",
+      "url": "https://sapl.alvoradadonorte.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.alvoradadonorte.go.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "76e03790040ab634c602094ebf5f4c86c88281e5e9c1c62c42aba2073e70f151",
+      "bytes": 1662,
+      "capturado_em": "2026-10-21T05:34:50.752254-03:00"
+    }
+  ]
+}

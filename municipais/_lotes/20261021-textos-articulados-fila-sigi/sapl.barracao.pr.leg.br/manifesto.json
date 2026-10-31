@@ -1,0 +1,42 @@
+{
+  "host": "sapl.barracao.pr.leg.br",
+  "metadados_unicos_observados": 0,
+  "total_api_declarado": 0,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barracao.pr.leg.br/51c5e302d9b68c8b55e481d0d19ff45cb19b09f74349157fe4ab6da6485fed0b.json",
+    "url": "https://sapl.barracao.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.barracao.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T17:10:16.194168-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barracao.pr.leg.br/8d4b1288b1c9d9a14353e13a495757d245ee97de176b72a0f2a78970b0b9292d.json",
+    "url": "https://sapl.barracao.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.barracao.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2ca758f30b821cf2ac5254f476b640213d124bfaab2a8656ad2e6fd483439284",
+    "bytes": 4290,
+    "capturado_em": "2026-10-27T17:10:15.364877-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barracao.pr.leg.br/6945c7f69b69d93391a7ebc7485d88df7f84c2d452f2307db151fbf1b31d472c.json",
+      "url": "https://sapl.barracao.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.barracao.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178,
+      "capturado_em": "2026-10-27T17:10:18.326383-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

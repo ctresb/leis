@@ -1,0 +1,26 @@
+{
+  "host": "sapl.jurema.pe.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1988/1/lei_033_1988.pdf da norma LEI ORDINÁRIA-GCPEM nº 33/1988, de 15 de julho de 1988",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.jurema.pe.leg.br/media/sapl/public/anexonormajuridica/1988/1/lei_033_1988.pdf",
+      "ano": 1988,
+      "norma": 10
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.jurema.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.jurema.pe.leg.br/c0d66df6615b172bc91fccb9c9bfb53c1c1ed28817651ddcd06e2d46a3431712.json",
+      "sha256": "ad1b60a4b1ea96f5adf2a0ad3eac0f9c75921770be3e4de44645475647049a51",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.jurema.pe.leg.br/c0d66df6615b172bc91fccb9c9bfb53c1c1ed28817651ddcd06e2d46a3431712.meta.json"
+    }
+  ],
+  "total": 1
+}

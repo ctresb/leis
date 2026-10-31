@@ -1,0 +1,39 @@
+---
+titulo: "LEI MUNICIPAL Nº 937/2026, DE 23 DE JANEIRO DE 2026"
+uf: "PA"
+municipio: "IGARAPÉ-AÇU"
+tipo: "Lei Ordinária"
+numero: "937"
+data: 2026-01-23
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 27/01/2026"
+data_publicacao: 2026-01-27
+codigo_identificador: "BAD0F289"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=329&i=publicado_117005_2026-01-26_a88a69c05de5bd0817d1128f8bd64829.pdf"
+baixado_em: 2026-10-15
+---
+# LEI MUNICIPAL Nº 937/2026, DE 23 DE JANEIRO DE 2026
+
+LEI MUNICIPAL Nº 937/2026, DE 23 DE JANEIRO DE 2026
+O PREFEITO MUNICIPAL Faço saber que a Câmara Municipal de
+Igarapé-Açu/PA decreta e eu sanciono a seguinte Lei:
+Art. 1º A Unidade Básica de Saúde localizada na Vila São Luisinho,
+Travessa do 16, zona rural de Igarapé-Açu, passa a ser denominada
+Unidade Básica de Saúde “MATEUS DE SOUZA RIBEIRO”.
+Art. 2º A Administração Municipal adotará as medidas cabíveis para
+oficializar a nova identificação do logradouro referido nesta lei.
+Art. 3º Esta lei entrará em vigor na data de sua publicação.
+Gabinete do Prefeito Municipal de Igarapé-Açu/PA, em 23 de janeiro
+de 2026.
+
+www.diariomunicipal.com.br/famep
+
+60
+
+Pará , 27 de Janeiro de 2026 • Diário Oficial dos Municípios do Estado do Pará • ANO XVII | Nº 3930
+MÁRCIO NOGUEIRA LOPES
+Prefeito Municipal de Igarapé-Açu
+Publicado por:
+Larissa Lima Dos Santos

@@ -1,0 +1,1913 @@
+---
+titulo: "Lei Complementar nº 17, de 10 de outubro de 2006"
+tipo: "Plano diretor"
+tipo_na_fonte: "Lei Complementar"
+numero: "17"
+data: "2006-10-10"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/5722"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1825/text"
+sha256_fonte: "5087ca083dde70843217ef9dd88b17aae5e206524c7a5a44035f51478c9a5689"
+sha256_texto: "97d2fc16dfa0e5fb6aa7070ed27fec71533bf7f18c011951a5846da0bffc74e2"
+capturado_em_fonte: "2026-10-27T18:26:07.909997-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 17, de 10 de outubro de 2006
+
+INSTITUI O PLANO DIRETOR PARTICIPATIVO DE BIRIGÜI E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei Complementar nº 2/2006, de autoria do Prefeito Municipal
+
+
+Eu, **WILSON CARLOS RODRIGUES BORINI**, Prefeito Municipal de Birigüi, do Estado de São Paulo, usando das atribuições que me são conferidas por lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+### TÍTULO I — DAS DIRETRIZES GERAIS E DOS PRINCÍPIOS FUNDAMENTAIS
+
+
+#### CAPÍTULO I — DAS DIRETRIZES GERAIS
+
+
+Art. 1º.
+
+O Município de Birigui deve observar a totalidade do território e aplicar as diretrizes gerais estabelecidas no artigo 2º da Lei Federal 10.257, de 10 de julho de 2001 e art. 73 da Lei Orgânica Municipal, bem como as seguintes diretrizes locais:
+
+
+I –
+
+Racionalização do uso do solo urbano, visando a ocupação dos vazios e a redução do custeio dos serviços públicos;
+
+
+II –
+
+Estímulo à produção de habitações de interesse social;
+
+
+III –
+
+Utilização do empreendedorismo como a fonte para o incremento ao trabalho e a renda da população;
+
+
+IV –
+
+Alocação adequada de espaços, equipamentos e serviços públicos para os habitantes e para as atividades econômicas em geral;
+
+
+V –
+
+Implementação do desenvolvimento ambiental sustentável;
+
+
+VI –
+
+Apoio ao crescimento e o fortalecimento das empresas locais;
+
+
+VII –
+
+Criação de áreas ele especial interesse social, urbanístico, histórico, ambiental e turístico;
+
+
+VIII –
+
+Facilitação de locomoção dos habitantes, com harmonia multimodal de circulação;
+
+
+IX –
+
+Manutenção permanente da qualidade dos serviços de saúde, educação, cultura, esportes e segurança pública para toda a população.
+
+
+#### CAPÍTULO II — DOS OBJETIVOS E DOS PRINCÍPIOS FUNDAMENTAIS
+
+
+Art. 2º.
+
+Os agentes públicos, privados e sociais responsáveis pelas políticas e normas explicitadas neste Plano Diretor devem observar e aplicar os seguintes princípios:
+
+
+I –
+
+Justiça social, erradicação da pobreza e exclusão social e redução das desigualdades sociais;
+
+
+II –
+
+Direito à cidade para todos, compreendendo a facilitação do acesso à terra urbana, a moradia digna, ao saneamento ambiental, a infra-estrutura urbana, ao transporte e serviços públicos, a mobilidade dos portadores de necessidades especiais, ao trabalho e ao lazer;
+
+
+III –
+
+Prioridade à mobilidade e ao transporte coletivo público;
+
+
+IV –
+
+Preservação e recuperação do ambiente natural;
+
+
+V –
+
+Fortalecimento do setor público, através da capacitação, investimento e valorização das funções de planejamento, fiscalização e controle;
+
+
+VI –
+
+Participação da população nos processos de decisão, planejamento e gestão da política urbana.
+
+
+### TÍTULO II — DAS FUNÇÕES SOCIAIS DA CIDADE E DA PROPRIEDADE
+
+
+#### CAPÍTULO I — DAS DIRETRIZES GERAIS E ESPECÍFICAS
+
+
+Art. 3º.
+
+O Município de Birigui cumprirá suas funções sociais empreendendo programas que possibilitem a todos os munícipes o acesso: à moradia; ao transporte coletivo e mobilidade urbana; ao saneamento ambiental; à energia elétrica; à iluminação pública; ao trabalho; à educação; à saúde; à cultura; ao lazer; à segurança; ao patrimônio cultural e ambiental; e ao culto religioso.
+
+
+Art. 4º.
+
+No sentido de garantir o cumprimento das funções sociais da cidade no município de Birigui, o Poder Público Municipal deverá atuar de maneira a:
+
+
+I –
+
+Promover políticas públicas mediante um processo permanente de gestão democrática da cidade;
+
+
+II –
+
+Ampliar a base de auto-sustentação econômica do município, gerando trabalho e renda para a população local;
+
+
+III –
+
+Estimular a oferta de moradias sociais, através da facilitação da ocupação dos lotes urbanos e do parcelamento das glebas ociosas ou subutilizadas;
+
+
+IV –
+
+Atender à demanda de serviços públicos e comunitários da população residente no município;
+
+
+V –
+
+Promover usos compatíveis com a preservação ambiental;
+
+
+VI –
+
+Criar locais de atratividade econômica e turística.
+
+
+### TÍTULO III — DA ORGANIZAÇÃO DO ESPAÇO
+
+
+#### CAPÍTULO I — DO MACROZONEAMENTO
+
+
+##### Seção I — DAS MACROZONAS
+
+
+Art. 5º.
+
+O território do Município fica dividido administrativamente em duas macrozonas complementares:
+
+
+I –
+
+Macrozona de Qualificação Urbana;
+
+
+II –
+
+Macrozona de Desenvolvimento Sustentado.
+
+
+Parágrafo único
+
+A delimitação das macrozonas está expressa no mapa do macrozoneamento.
+
+
+##### Seção II — DA MACROZONA DE QUALIFICAÇÃO URBANA
+
+
+Art. 6º.
+
+A Macrozona de Qualificação Urbana é a parte do território dedicada às ocupações urbanas, delimitada pelo perímetro urbano definido pela Lei Municipal nº 4099, de 23 de setembro de 2002 e pelas áreas de expansão urbana aqui nomeadas, tudo se subdividindo em cinco zonas especificas:
+
+
+Z1
+
+Zona Urbana de Uso Predominantemente Residencial;
+
+
+Z2
+
+Zona Urbana de Uso Predominantemente Comercial;
+
+
+Z3
+
+Zona Urbana de Ocupação Controlada;
+
+
+Z4
+
+Zona Urbana de Uso Misto;
+
+
+Z5
+
+Zona Urbana de Uso Predominantemente Industrial.
+
+
+Parágrafo único
+
+As delimitações de cada uma das zonas e das áreas de especial interesse estão descritas no mapa do zoneamento.
+
+
+Art. 7º.
+
+São objetivos para a Z1 - Zona Urbana de Uso Predominantemente Residencial:
+
+
+I –
+
+privilegiar a ocupação residencial, permitindo outros tipos de ocupações apenas quando garantidos condições de coexistência pacífica e segura;
+
+
+II –
+
+controlar a utilização não residencial dos imóveis nela contidos;
+
+
+III –
+
+impedir o estabelecimento ou manutenção de atividades industriais e comerciais que possam causar impacto ambiental, visual ou sonoro;
+
+
+IV –
+
+manter os limites dos índices máximos de ocupação a serem estabelecidas pela Lei do Uso e Ocupação do Solo Urbano;
+
+
+V –
+
+impedir a instalação de comércio e serviços, com atividades que gerem emissão de ruídos, vibração, odor, sobrecarga de tráfego, poluição do ar e da água e estacionamento de veículos pesados nas ruas do entorno;
+
+
+VI –
+
+limitar o funcionamento das atividades geradoras de incômodos e ruídos, durante a semana até ás 22h30min, e aos sábados e domingos, até às 24h.
+
+
+Art. 8º.
+
+São objetivos para a Z2 - Zona Urbana de Uso Predominantemente Comercial:
+
+
+I –
+
+Assegurar as condições propicias para o exercício das atividades comerciais e de serviços;
+
+
+II –
+
+dotar os logradouros de mobiliários urbanos e equipamentos de segurança;
+
+
+III –
+
+permitir a flexibilização do horário de funcionamento dos estabelecimentos incluídos em seu perímetro;
+
+
+IV –
+
+controlar a natureza da ocupação dos corredores comerciais, por se tratar de zona de transição.
+
+
+Art. 9º.
+
+São objetivos para a Z3 - Zona Urbana Ocupação Controlada:
+
+
+I –
+
+Permitir a ocupação de vazios urbanos, desde que equacionadas as deficiências de acesso e ou de infraestrutura;
+
+
+II –
+
+proteger a bacia do Ribeirão dos Baixotes e de seus afluentes, principalmente junto à área de captação de água pela SAEB;
+
+
+III –
+
+inibir a formação de novas áreas de expansão urbana além da Rodovia Marechal Rondon, no sentido sul e sudeste;
+
+
+IV –
+
+promover a implantação das faixas de proteção ambiental composta pelos parques lineares e pelas matas ciliares ao longo dos cursos d’água internos à Z3.
+
+
+Art. 10.
+
+São objetivos para a Z4 - Zona Urbana de Uso Misto:
+
+
+I –
+
+permitir a coexistência de diferentes modalidades de ocupação;
+
+
+II –
+
+vedar a instalação e funcionamento de atividades que prejudiquem a característica de equilíbrio do uso misto;
+
+
+III –
+
+propiciar a integração de modalidades complementares, embora de diferentes naturezas;
+
+
+IV –
+
+poderá existir a construção de residências, comércio e indústria.
+
+
+Art. 11.
+
+São objetivos para a Z5 - Zona Urbana de Uso Predominantemente Industrial:
+
+
+I –
+
+orientar os investimentos para estimular o desenvolvimento da atividade Industrial, de forma harmônica com as outras atividades exercidas no município;
+
+
+II –
+
+minimizar os impactos derivados da atividade industrial;
+
+
+III –
+
+requalificar a infra-estrutura existente;
+
+
+IV –
+
+melhorar a acessibilidade, assegurando a articulação das vias com o sistema viário central do Município;
+
+
+V –
+
+estimular a instalação de até 5 (cinco) minidistritos urbanos, para empresas totalmente compatíveis com o uso do entorno, que não gerem nenhum tipo de incomodo aos vizinhos, podendo ser iniciativa do Poder Público e/ou da iniciativa privada;
+
+
+VI –
+
+Projetar e implantar um novo distrito industrial para empresas cujas atividades não se conciliem com o uso domiciliar, podendo ser iniciativa do Poder Público e/ou da iniciativa privada.
+
+
+##### Seção III — DA MACROZONA DE DESENVOLVIMENTO SUSTENTADO
+
+
+Art. 12.
+
+A Macrozona de Desenvolvimento Sustentado é a parte do território que visa garantir o desenvolvimento sócio-econômico assegurando a preservação do patrimônio ambiental do município para a presente e as futuras gerações, sendo fisicamente compreendida por toda a superfície do Município, excluída a destinada a Macro zona de Qualificação Urbana descrita no Artigo 7, sendo subdividida em duas zonas especificas:
+
+
+a)
+
+Zona de Desenvolvimento Rural;
+
+
+b)
+
+Zona de Preservação Ambiental e Ocupação Restrita.
+
+
+Art. 13.
+
+A Zona de Desenvolvimento Rural é destinada a proteger a atividade agrícola no município de Birigui e permitir uma ocupação que combine atividades rurais com o desenvolvimento de atividades de agronegócios, turismo, lazer e cultura.
+
+
+Art. 14.
+
+São objetivos para a Zona de Desenvolvimento Rural:
+
+
+I –
+
+incrementar a exploração agropecuária, visando o uso de biotecnologias inovadoras;
+
+
+II –
+
+assegurar a ocupação do solo com baixas densidades: populacional e construída;
+
+
+III –
+
+preservar os recursos naturais e paisagísticos existentes;
+
+
+IV –
+
+fixar o homem no campo.
+
+
+Art. 15.
+
+A Zona de Preservação Ambiental e Ocupação Restrita compreende as áreas legalmente protegidas por legislação ambiental e é caracterizada pela predominância de patrimônio natural, constituindo elemento fundamental para a preservação da rede hidrográfica do Município e para o processo de desenvolvimento sustentável.
+
+
+Art. 16.
+
+São objetivos para a Zona de Preservação Ambiental e Ocupação Restrita:
+
+
+I –
+
+implementação de mecanismos que garantam a informação e a adequada gestão dos recursos naturais, evitando-se a degradação ambiental;
+
+
+II –
+
+incentivo às atividades de lazer e turismo, uso habitacional e setor primário, desde que sejam observadas as regras específicas de utilização do solo compatíveis com sua função no equilíbrio ambiental da Cidade e da região.
+
+
+##### Seção IV — DAS ÁREAS DE ESPECIAL INTERESSE
+
+
+Art. 17.
+
+Nas duas macrozonas existirão as AEI - Áreas de Especial Interesse, que compreendem as porções do território que exigem tratamento especial por destacar determinadas especificidades que as tornam diferentes do seu entorno.
+
+
+Art. 18.
+
+Ficam criadas as seguintes AEIs, devidamente delimitadas nos mapeamento do macrozoneamento:
+
+
+AEIA
+
+Área de Especial Interesse Ambiental
+
+
+AEIE
+
+Área de Especial Interesse Econômico
+
+
+AEII
+
+Área de Especial Interesse Institucional
+
+
+AEIH
+
+Área de Especial Interesse Histórico
+
+
+AEIR
+
+Área de Especial Interesse Rururbano
+
+
+AEIS
+
+Área de Especial Interesse Social
+
+
+AEIT
+
+Área de Especial Interesse Turístico
+
+
+Art. 19.
+
+A Área de Especial Interesse Ambiental – AEIA abrange as nascentes e cursos d’água, os parques lineares, a Porta Tietê e as reservas e parques ecológicos.
+
+
+Art. 20.
+
+A Área de Especial Interesse Econômico – AEIE se situa ao longo da Rodovia Marechal Rondon e se destina a disciplinar a instalação de atividades comerciais e de serviços, com autonomia sanitária (água e esgoto).
+
+
+Art. 21.
+
+A Área de Especial Interesse Institucional – AEII se destina a disciplinar a instalação de serviços de interesse público em área não urbana. Nela, serão instalados: o novo cemitério e o novo distrito industrial.
+
+
+Art. 22.
+
+A Área de Especial Interesse Histórico – AEIH objetiva a preservação da paisagem, urbana e rural; um dos seus projetos é o casario da época do café, existente no polígono de preservação, a saber: o espaço do Mamma Mia, o Paço Municipal, a Casa de Cultura, a Praça Dr. Gama e o antigo Terminal Rodoviário.
+
+
+I –
+
+Delimitação da área de preservação histórica (Polígono de Preservação);
+
+
+II –
+
+criar uma nova área especial de interesse histórico (AEIH) na antiga propriedade da família Nicolau da Silva Nunes (antiga casa do Sr. Nicolau), situada entre a Rua Nicolau da Silva Nunes, Rua Guarani e Rua Vicente Stephano Lamacchia;
+
+
+III –
+
+incluir Paço Municipal, Casa de Cultura, Praça Dr. Gama e o antigo Terminal Rodoviário;
+
+
+IV –
+
+incluir área do Mamma Mia e chácara Quinta do Silvares.
+
+
+Art. 23.
+
+A Área de Especial Interesse Rururbano – AEIR objetiva disciplinar a ocupação das áreas de transição e os núcleos residenciais não urbanos, como o Portal das Flores e o Guatambú.
+
+
+Art. 24.
+
+A Área de Especial Interesse Social – AEIS objetiva criar condições de produção de habitações populares e regularização fundiária dentro da zona urbana.
+
+
+Art. 25.
+
+A Área de Especial Interesse Turístico – AEIT objetiva disciplinar e incrementar os espaços destinados às atividades culturais e turísticas.
+
+
+### TÍTULO IV — DO USO E OCUPAÇÃO DO SOLO
+
+
+#### CAPÍTULO I — DAS DIRETRIZES GERAIS E ESPECÍFICAS
+
+
+Art. 26.
+
+O Poder Público Municipal fixará, através de lei específica, diretrizes que disciplinarão o uso e ocupação do solo, através da distribuição espacial das atividades socioeconômicas e da população, com objetivo de ordenar o pleno desenvolvimento das funções sociais da cidade, com sustentabilidade ambiental, garantindo o bem-estar e a qualidade de vida de seus cidadãos.
+
+
+Art. 27.
+
+As novas edificações nos terrenos urbanos manterão uma relação entre a área a ser construída e a área do terreno, denominada aproveitamento.
+
+
+§ 1º
+
+Todos os terrenos urbanos poderão ser edificados até o equivalente a seis vezes da área do terreno, correspondendo ao coeficiente básico de aproveitamento 6 (seis).
+
+
+§ 2º
+
+Todos os terrenos urbanos poderão ser edificados acima do coeficiente básico, desde que usando o instrumento da outorga onerosa do direito de construir.
+
+
+§ 3º
+
+Em qualquer dos aproveitamentos deverão ser respeitadas as normas do Código Sanitário Estadual.
+
+
+Art. 28.
+
+Fica estabelecida a testada mínima de 8,00 (oito) metros lineares para o parcelamento do solo urbano, sendo admitida apenas nas AEIS – Áreas de Especial Interesse Social que se pratique testada menor, a critério da Prefeitura, porém nunca inferior a 5,00 (cinco) metros lineares.
+
+
+Art. 29.
+
+Fica estabelecido que, para futuros parcelamentos, o empreendedor deverá edificar em área institucional do projeto, prédio que abrigue um equipamento público definido na diretriz do loteamento.
+
+
+Parágrafo único
+
+O porte do equipamento a ser instalado será definido no estudo de impacto de vizinhança ou, na ausência dele, por estudo do aumento de demanda efetuado pela Prefeitura.
+
+
+Art. 30.
+
+Fica estabelecido que todos os novos projetos de edificações devam prever obrigatoriamente mecanismos de reservação das águas pluviais oriundas da parte impermeabilizada dos terrenos onde serão construídas.
+
+
+Parágrafo único
+
+O Município regulamentará as especificações técnicas, por meio de lei, no prazo máximo de 180 dias.
+
+
+Art. 31.
+
+Todos os usos e atividades poderão se instalar no Município de Birigui, desde que observados os parâmetros e índices urbanísticos contidos na lei de uso e ocupação do solo, na legislação ambiental e demais legislações pertinentes.
+
+
+Art. 32.
+
+A exploração mineral no Município de Birigui fica condicionada a elaboração e aprovação dos estudos de impacto ambiental e de vizinhança pelo Poder Executivo Municipal mediante consulta pública à população afetada.
+
+
+Parágrafo único
+
+Aquele que explorar recursos minerais fica obrigado a recuperar o meio ambiente degradado, de acordo com solução técnica exigida pelo órgão público competente, na forma da lei.
+
+
+### TÍTULO V — DOS INSTRUMENTOS DE POLÍTICA URBANA
+
+
+#### CAPÍTULO I — DOS INSTRUMENTOS URBANÍSTICOS
+
+
+Art. 33.
+
+Para o cumprimento do objetivo da política urbana do pleno desenvolvimento das funções sociais da cidade no município de Birigui, adotar-se-á os instrumentos urbanísticos estabelecidos no Estatuto da Cidade, Lei Federal nº 10.257/01, em especial os seguintes:
+
+
+I –
+
+parcelamento, edificação ou utilização compulsórios e IPTU progressivo;
+
+
+II –
+
+desapropriação com pagamentos em títulos;
+
+
+III –
+
+consórcio imobiliário;
+
+
+IV –
+
+direito de preempção;
+
+
+V –
+
+outorga onerosa do direito de construir;
+
+
+VI –
+
+operações urbanas consorciadas;
+
+
+VII –
+
+transferência do potencial construtivo;
+
+
+VIII –
+
+estudo do impacto de vizinhança.
+
+
+##### Seção I — DO PARCELAMENTO, EDIFICAÇÃO OU UTILIZAÇÃO COMPULSÓRIOS, E DO IPTU PROGRESSIVO
+
+
+Art. 34.
+
+Ficam passíveis de parcelamento, edificação e utilização compulsórios, nos termos do art. 182, § 4º da Constituição Federal e do art. 5º do Estatuto da Cidade, os imóveis não edificados, subutilizados ou não utilizados, que não estejam cumprindo suas funções sociais.
+
+
+Art. 35.
+
+Para cumprir sua função social, a propriedade deve respeitar as funções sociais da cidade e atender, no mínimo, aos seguintes requisitos:
+
+
+I –
+
+ser utilizada e aproveitada para atividades ou usos de interesse urbano caracterizado como promotores da função social da cidade, em intensidade compatível com a oferta e capacidade de atendimento da infra-estrutura e dos equipamentos públicos e comunitários e serviços públicos;
+
+
+II –
+
+ter aproveitamento, uso e ocupação compatíveis com:
+
+
+a)
+
+a preservação do meio ambiente;
+
+
+b)
+
+o respeito ao direito de vizinhança;
+
+
+c)
+
+a segurança e a saúde de seus usuários e vizinhos.
+
+
+Art. 36.
+
+Qualquer propriedade será considerada como não cumprindo sua função social e, portanto passível da exigência do cumprimento desta função, enquanto:
+
+
+a)
+
+gleba com área superior a 10.000 (dez mil) metros quadrados, não parcelada, situada dentro do perímetro urbano e que esteja totalmente circundada por arruamentos;
+
+
+b)
+
+lote não edificado, situado na Zona 2 definida no Art. 9º, adquirido há mais dos 48 (quarenta e oito) meses que antecederam a notificação de ocupação compulsória a ser emitida pela Prefeitura;
+
+
+c)
+
+edificação em qualquer estado de conservação, situada em qualquer ponto do território municipal, abandonada ou sem utilização comprovada nos 48 (quarenta e oito) meses que antecederam a notificação de uso compulsório a ser emitida pela Prefeitura.
+
+
+§ 1º
+
+Para a aplicação do disposto no caput deste artigo, o Poder Executivo Municipal deverá expedir notificação acompanhada de laudo técnico que ateste a situação do imóvel não ter edificação, ser subutilizado ou não utilizado.
+
+
+§ 2º
+
+A notificação de que trata o Parágrafo anterior deverá ser averbada no Cartório de Registro de Imóveis, e far-se-á da seguinte forma:
+
+
+I –
+
+por funcionário do Poder Público Municipal, ao proprietário do imóvel ou, no caso de este ser pessoa jurídica, a quem tenha poderes de gerência geral ou administração;
+
+
+II –
+
+por edital quando frustrada, por três vezes, a tentativa de notificação na forma prevista pelo inciso anterior.
+
+
+Art. 37.
+
+Em caso de descumprimento das obrigações e dos prazos previstos nos artigos anteriores, o Município procederá á aplicação do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) progressivo no tempo, nos termos estabelecidos no Art. 7 do Estatuto da Cidade, Lei Federal nº 10.257/01.
+
+
+Parágrafo único
+
+A progressividade se dará pela duplicação da alíquota, anualmente, até atingir o limite de 15% (quinze por cento).
+
+
+##### Seção II — DA DESAPROPRIAÇÃO
+
+
+Art. 38.
+
+Decorridos 5 (cinco) anos de cobrança do IPTU progressivo sem que o proprietário tenha cumprido a obrigação de parcelamento, edificação ou utilização, o Município poderá proceder à desapropriação do imóvel, por seu valor venal, nos termos do Estatuto da Cidade, Lei Federal nº 10.257/01.
+
+
+##### Seção III — DO CONSÓRCIO IMOBILIÁRIO
+
+
+Art. 39.
+
+O Poder Executivo Municipal poderá facultar ao proprietário de área atingida pelas obrigações de que trata a Seção I deste Capítulo, a requerimento deste, o estabelecimento de consórcio imobiliário, nos termos do Estatuto da Cidade, Lei Federal nº 10.257/01.
+
+
+Parágrafo único
+
+Considera-se consórcio imobiliário a forma de viabilização de planos de urbanização ou edificação, por meio do qual o proprietário transfere ao Poder Público municipal o seu imóvel e, após a realização das obras, recebe como pagamento, unidades habitacionais devidamente urbanizadas ou edificadas.
+
+
+Art. 40.
+
+O consorcio imobiliário se processará na forma de SPE – Sociedade de Propósito Especifico, com personalidade jurídica e autonomia financeira, gerida independente da estrutura operacional da Prefeitura.
+
+
+§ 1º
+
+Cada consórcio imobiliário terá vida útil restrita ao tempo de duração da obra, extinguindo-se automaticamente com a conclusão da operação.
+
+
+§ 2º
+
+O Poder Executivo elaborará o estudo técnico-financeiro de cada empreendimento e o submeterá à Câmara Municipal para autorização.
+
+
+§ 3º
+
+Os eventuais superávits apurados com a conclusão do Consórcio Imobiliário serão consignados ao FUMDUB.
+
+
+##### Seção IV — DO DIREITO DE PREEMPÇÃO
+
+
+Art. 41.
+
+O direito de preempção confere ao Poder Público Municipal preferência para aquisição de imóvel urbano objeto de alienação onerosa entre particulares.
+
+
+§ 1º
+
+Lei municipal específica delimitará as áreas situadas no Município em que incidirá o direito de preempção, e fixará prazo de vigência, não superior a cinco anos, renovável a partir de um ano após o decurso do prazo inicial de vigência.
+
+
+§ 2º
+
+O direito de preempção previsto neste artigo fica assegurado durante o prazo de vigência fixado na forma do parágrafo anterior, independentemente do número de alienações referentes ao mesmo imóvel.
+
+
+Art. 42.
+
+O direito de preempção será exercido sempre que o Poder Público Municipal necessitar de áreas para:
+
+
+I –
+
+regularização fundiária;
+
+
+II –
+
+Execução de programas e projetos habitacionais de interesse social;
+
+
+III –
+
+constituição de reserva fundiária;
+
+
+IV –
+
+ordenamento e direcionamento da expansão urbana;
+
+
+V –
+
+implantação de equipamentos urbanos e comunitários;
+
+
+VI –
+
+criação de espaços públicos de lazer e áreas verdes;
+
+
+VII –
+
+criação de unidades de conservação ou proteção de outras áreas de interesse ambiental;
+
+
+VIII –
+
+proteção de áreas de interesse histórico, cultural ou paisagístico.
+
+
+Art. 43.
+
+O proprietário deverá notificar sua intenção de alienar o imóvel, para que o Município, no prazo máximo de trinta dias, manifeste por escrito seu interesse em comprá-lo.
+
+
+§ 1º
+
+À notificação mencionada no caput será anexada proposta de compra assinada por terceiro interessado na aquisição do imóvel, da qual constará preço, condições de pagamento e prazo de validade.
+
+
+§ 2º
+
+O Município fará publicar, em órgão oficial e em pelo menos um jornal local ou regional de grande circulação, edital de aviso da notificação recebida nos termos do *caput* e da intenção de aquisição do imóvel nas condições da proposta apresentada.
+
+
+§ 3º
+
+Transcorrido o prazo mencionado no caput sem manifestação, fica o proprietário autorizado a realizar a alienação para terceiros, nas condições da proposta apresentada.
+
+
+§ 4º
+
+Concretizada a venda à terceiro, o proprietário fica obrigado a apresentar ao Município, no prazo de trinta dias, cópia do instrumento público de alienação do imóvel.
+
+
+§ 5º
+
+A alienação processada em condições diversas da proposta apresentada é nula de pleno direito.
+
+
+§ 6º
+
+Ocorrida a hipótese prevista no Parágrafo quinto deste artigo, o Município poderá adquirir o imóvel pelo valor venal constante na Planta de Valores Genéricos ou pelo valor indicado na proposta apresentada, se este for inferior àquele.
+
+
+##### Seção V — DA OUTORGA ONEROSA DO DIREITO DE CONSTRUIR
+
+
+Art. 44.
+
+O Poder Executivo Municipal poderá outorgar, de forma onerosa, autorização para construir área superior àquela permitida pelo coeficiente de aproveitamento básico estabelecido nesta Lei, mediante contrapartida.
+
+
+Parágrafo único
+
+A implementação da outorga onerosa fica condicionada à elaboração de prévio estudo de impacto de vizinhança.
+
+
+Art. 45.
+
+O terreno fictício necessário para que um proprietário possa construir acima do coeficiente de aproveitamento básico e usufruir do instrumento de outorga onerosa do direito de construir denomina-se solo criado.
+
+
+Art. 46.
+
+O valor unitário do solo criado será o determinado pela Planta de Valores Genéricos vigente.
+
+
+Art. 47.
+
+Os recursos oriundos da outorga onerosa do direito de construir deverão ser depositados à conta do FUMDUB e aplicados de acordo com o estabelecido no Art. 60 desta Lei.
+
+
+##### Seção VI — DAS OPERAÇÕES URBANAS CONSORCIADAS
+
+
+Art. 48.
+
+A Prefeitura poderá se unir a outros órgãos de governo, a empresas e a pessoas fisicas, com o objetivo de construir ou operar empreendimentos que sejam considerados de interesse estratégico para o Município.
+
+
+Art. 49.
+
+As partes constituirão uma SPE – Sociedade de Propósito Especifico, com personalidade jurídica e autonomia financeira, gerida independente da estrutura operacional da Prefeitura.
+
+
+§ 1º
+
+Cada operação urbana terá vida útil restrita ao tempo de duração do empreendimento, extinguindo-se automaticamente com a conclusão da operação.
+
+
+§ 2º
+
+O Poder Executivo elaborará o estudo técnico-financeiro de cada empreendimento e o submeterá à Câmara Municipal para autorização.
+
+
+##### Seção VII — DA TRANSFERÊNCIA DO DIREITO DE CONSTRUIR
+
+
+Art. 50.
+
+Lei municipal poderá autorizar o proprietário de imóvel urbano, privado ou público, a exercer em outro local, ou alienar, mediante escritura pública, o direito de construir quando o referido imóvel for considerado necessário para fins de:
+
+
+I –
+
+implantação de equipamentos urbanos e comunitários;
+
+
+II –
+
+preservação, quando o imóvel for considerado de interesse histórico, ambiental, paisagístico, social ou cultural;
+
+
+III –
+
+servir a programas de regularização fundiária, urbanização de áreas ocupadas por população de baixa renda e habitação de interesse social.
+
+
+§ 1º
+
+A mesma faculdade poderá ser concedida ao proprietário que doar ao Poder Público Municipal seu imóvel, ou parte dele, para os fins previstos nos incisos I a III do *caput*.
+
+
+§ 2º
+
+A lei municipal referida no *caput* delimitará as áreas de implementação e estabelecerá as condições relativas à aplicação da transferência do direito de construir.
+
+
+##### Seção VIII — DO ESTUDO DE IMPACTO DE VIZINHANÇA
+
+
+Art. 51.
+
+Os projetos de implantação de empreendimentos, de iniciativa pública ou privada, que se situem em zonas de uso misto, e que tenham significativa repercussão no meio ambiente ou sobre a infraestrutura urbana, deverão vir acompanhados de prévio Estudo de Impacto de Vizinhança, nos termos do Estatuto da Cidade, Lei Federal nº 10.257/2001.
+
+
+Parágrafo único
+
+A exigência do Estudo de Impacto de Vizinhança (EIV) não substitui a elaboração e aprovação dos relatórios ambientais, especialmente o EIA-RIMA, requerido nos termos da legislação ambiental.
+
+
+Art. 52.
+
+São também considerados como empreendimentos impactantes, independente da área construída e da metragem do terreno, as seguintes atividades: conjuntos residenciais com mais de 200 unidades habitacionais; shopping centers; hipermercados; centrais de carga; centrais de abastecimento; terminais de transporte; estações de radio base (EBR); estações rodoviárias, estações ferroviárias, cemitérios; crematórios; incineradores; presídios; clubes recreativos, esportivos e de lazer; salões de festas, parques temáticos e assemelhados; postos de serviço com venda de combustíveis; depósitos de gás liquefeito de petróleo (GLP) - acima de classe 2; aterros sanitários; centrais de transbordo; casas de diversões noturnas, casas de dança e similares com música ao vivo ou mecânica, aeroportos e depósitos temporários de entulhos e resíduos de podas de árvores e jardins.
+
+
+Parágrafo único
+
+Lei específica poderá prever outros empreendimentos impactantes.
+
+
+Art. 53.
+
+O Estudo de Impacto de Vizinhança (EIV) será executado de forma a contemplar os efeitos positivos e negativos do empreendimento, durante e após a sua implantação, quanto á qualidade de vida da população usuária e residente na área e suas proximidades, incluindo a análise, no mínimo, das seguintes questões:
+
+
+I –
+
+adensamento populacional definitivo e temporário;
+
+
+II –
+
+efeitos sobre os equipamentos urbanos e comunitários;
+
+
+III –
+
+características de uso e ocupação do solo;
+
+
+IV –
+
+valorização imobiliária;
+
+
+V –
+
+geração de tráfego e demanda por transporte público;
+
+
+VI –
+
+efeitos sobre ventilação e iluminação natural;
+
+
+VII –
+
+efeitos sobre paisagem urbana e patrimônio natural e cultural.
+
+
+Art. 54.
+
+O Estudo de Impacto de Vizinhança (EIV) deverá conter informações conclusivas sobre:
+
+
+I –
+
+sobrecarga incidente na infra-estrutura urbana existente;
+
+
+II –
+
+alterações urbanísticas e ambientais causadas pelo empreendimento;
+
+
+III –
+
+interferências no entorno imediato e ampliado;
+
+
+IV –
+
+análise econômica e social;
+
+
+V –
+
+propostas para adequar o empreendimento ás limitações urbanísticas, em especial à capacidade da infra-estrutura urbana.
+
+
+§ 1º
+
+Os relatórios de Estudo de Impacto de Vizinhança (EIV) serão objeto de análise por uma equipe multidisciplinar composta por técnicos qualificados que discutirão os aspectos negativos e positivos do projeto, propondo soluções mitigadoras ou potencializadoras para os impactos.
+
+
+§ 2º
+
+Os relatórios e demais documentos que integram o Estudo de Impacto de Vizinhança (EIV) são públicos e estão disponíveis para consulta no órgão competente do Poder Executivo Municipal.
+
+
+Art. 55.
+
+Considera-se incomodidade o estado de desacordo de uso ou atividade com os condicionantes locais causando reação adversa sobre a vizinhança, tendo em vista suas estruturas físicas e vivências sociais.
+
+
+Art. 56.
+
+Os níveis de incomodidade serão definidos na Lei de Uso e Ocupação do Solo, mediante a apreciação dos seguintes fatores:
+
+
+I –
+
+poluição sonora: é a geração de impacto sonoro no entorno próximo pelo uso de máquinas, utensílios ruidosos, aparelhos sonoros ou similares, ou concentração de pessoas ou animais em recinto aberto ou fechado que seja ofensiva ou nociva à saúde, à segurança e ao bem estar da coletividade;
+
+
+II –
+
+poluição atmosférica: é o lançamento na atmosfera de partículas provenientes do uso de combustíveis nos processos de produção ou simplesmente lançamento de material particulado inerte na atmosfera acima do nível admissível para o meio ambiente e a saúde pública;
+
+
+III –
+
+poluição hídrica; é a geração de efluentes líquidos incompatíveis ao lançamento na rede hidrográfica ou sistema coletor de esgotos ou poluição do lençol freático;
+
+
+IV –
+
+geração de resíduos sólidos: é a produção, manipulação ou estocagem de resíduos sólidos, com riscos potenciais ao meio ambiente e a saúde pública;
+
+
+V –
+
+vibração: é o impacto provocado pelo uso de máquinas ou equipamentos que produzam choques repetitivos ou vibração sensível que cause riscos potenciais à propriedade, ao bem estar ou à saúde pública;
+
+
+VI –
+
+periculosidade: atividades que apresentem risco ao meio ambiente e à saúde, em função da produção, comercialização, uso ou estocagem de materiais perigosos, compreendendo: explosivos, gás liquefeito de petróleo - GLP, inflamáveis, tóxicos e equiparáveis, conforme norma técnicas e legislação municipal específica;
+
+
+VII –
+
+geração de tráfego pesado: pela operação ou atração de veículos pesados, ônibus, caminhões, carretas, máquinas ou similares, com ou sem utilização de cargas;
+
+
+VIII –
+
+geração de tráfego intenso: em razão do porte do estabelecimento, da concentração de pessoas e do número de vagas de estacionamento criados ou necessários.
+
+
+#### CAPÍTULO II — DOS INSTRUMENTOS FINANCEIROS
+
+
+Art. 57.
+
+Fica criado o FUMDUB – Fundo Municipal de Desenvolvimento Urbano de Birigui, com o objetivo de viabilizar recursos para a implantação dos planos, programas e projetos componentes do Plano Diretor de Desenvolvimento do Município.
+
+
+Art. 58.
+
+O FUMDUB será constituído por recursos provenientes de:
+
+
+I –
+
+Alienação de bens móveis e imóveis considerados inservíveis em processo administrativo próprio;
+
+
+II –
+
+Outorga onerosa do direito de construir;
+
+
+III –
+
+Alienação de ativos financeiros do Município;
+
+
+IV –
+
+Contribuição de Melhoria decorrente de obra pública, exceto as de pavimentação, realizadas dentro dos planos, programas e projetos estabelecidos no Plano Diretor;
+
+
+V –
+
+Multas e demais encargos recebidos em função da aplicação do estatuído no Plano Diretor;
+
+
+VI –
+
+Receita provinda de concessão urbanística;
+
+
+VII –
+
+Receita provinda da transferência do direito de construir;
+
+
+VIII –
+
+Receita provinda de superávits da conclusão dos Consórcios Imobiliários e das Operações Urbanas Consorciadas;
+
+
+IX –
+
+Dotações ou repasses de origem orçamentária da União ou do Estado de São Paulo, a ele destinado;
+
+
+X –
+
+Dotações orçamentárias municipais e créditos adicionais suplementares a ele destinados;
+
+
+XI –
+
+Empréstimos de operações de financiamento;
+
+
+XII –
+
+Contribuições ou doações de pessoas físicas ou jurídicas, nacionais ou internacionais;
+
+
+XIII –
+
+Outras receitas eventuais.
+
+
+Art. 59.
+
+Os recursos do FUMDUB serão depositados em conta corrente especial da Prefeitura, mantida em instituição financeira designada pela Secretaria Municipal de Finanças, não se caracterizando como receita tributária municipal.
+
+
+Art. 60.
+
+Os recursos do FUMDUB serão aplicados exclusivamente nos planos, programas e projetos do Plano Diretor.
+
+
+Art. 61.
+
+O FUMDUB não poderá ter sua finalidade desviada, sob pena de crime administrativo, mesmo que por necessidade imperiosa, sendo vedada a transferência de recursos para cobertura de qualquer despesa não proveniente diretamente dos objetivos do Plano Diretor.
+
+
+Art. 62.
+
+É vedada o uso de recursos do FUMDUB para doação, concessão de auxílios e quaisquer outras destinações assemelhadas.
+
+
+Parágrafo único
+
+O conselho deverá deliberar sobre toda a matéria, e sua aprovação dependerá de maioria absoluta.
+
+
+Art. 63.
+
+A Prefeitura será a gestora dos recursos do FUMDUB; o Conselho Municipal de Desenvolvimento – COMDE será o órgão controlador da aplicação dos recursos.
+
+
+### TÍTULO VI — DAS POLÍTICAS PÚBLICAS
+
+
+#### CAPÍTULO I — DOS OBJETIVOS E DAS DIRETRIZES GERAIS DO DESENVOLVIMENTO SÓCIO-ECONÔMICO
+
+
+Art. 64.
+
+A política municipal de desenvolvimento socioeconômico deve atender as seguintes diretrizes gerais:
+
+
+I –
+
+fomentar iniciativas visando atrair investimentos públicos ou privados, nacionais e estrangeiros, compatibilizando crescimento econômico com geração de empregos para a população local e preservação do equilíbrio ambiental;
+
+
+II –
+
+dinamizar a capacidade econômica de forma articulada com o potencial turístico, histórico e cultural do Município;
+
+
+III –
+
+incentivar e apoiar a produção agrícola, bem como as atividades turísticas e culturais;
+
+
+IV –
+
+incentivar o desenvolvimento tecnológico na área de informação, serviços e comunicação.
+
+
+Art. 65.
+
+A política municipal de desenvolvimento socioeconômico no campo do trabalho, emprego e renda têm por objetivo principal diminuir o desemprego, qualificar e requalificar a mão de obra, incentivar pequenos empreendedores e fortalecer as cadeias produtivas locais.
+
+
+##### Seção I — DO COMÉRCIO, INDÚSTRIA, SERVIÇOS E SETOR TERCIÁRIO
+
+
+Art. 66.
+
+O Poder Executivo Municipal deverá elaborar, mediante Lei especifica, o Plano Setorial de Desenvolvimento Socioeconômico, visando a atender aos seguintes objetivos:
+
+
+I –
+
+Instalação de atividades econômicas de forma a melhorar à qualidade de vida da população, evitando prejuízos ao ordenamento urbano e preservando á integralidade física da infra-estrutura urbana;
+
+
+II –
+
+Formação de cooperativas, associações e atividades desenvolvidas por meio de micro e pequenas empresas ou de estruturas familiares de produção;
+
+
+III –
+
+Garantia de critérios de multiplicidade de usos no território do Município, com condições de convivência harmônica, entre os tipos de atividades distintas, visando promover a função social da propriedade e o estimulo a instalação de atividades econômicas de pequeno e médio porte;
+
+
+IV –
+
+Fomento a programas de capacitação profissional, de forma a qualificar e requalificar a mão de obra local;
+
+
+V –
+
+Realização de convênios e parcerias, visando à implantação de Programas que estimulem a atração de investimentos, proporcionando empregos, geração de renda;
+
+
+VI –
+
+Requalificação dos principais eixos comerciais da cidade, através de intervenções urbanas, criando novas centralidades;
+
+
+VII –
+
+Estruturar um sistema de captação de incentivos fiscais dedutíveis do imposto sobre a renda das pessoas físicas de Birigui, com destinação compulsória à proteção dos menores e adolescentes em situação de risco;
+
+
+VIII –
+
+Criação de mecanismos de apoio às organizações do terceiro setor sediadas em Birigui, quer na forma de convênios e ajustes, que na forma de contratos;
+
+
+IX –
+
+Apoio aos microempresários oriundos da Incubadora de Empresas, através da instalação e funcionamento de um condomínio empresarial nos prédios do antigo CEAGESP, destinado a abrigar por dois anos, as microempresas pós-incubadas;
+
+
+X –
+
+Fomento ao turismo cultural, através de política pública de valorização das tradições locais. Organização e expansão dos eventos religiosos, folclóricos e temáticos;
+
+
+XI –
+
+Programas de incentivo ao sistema produtivo local, tanto no setor industrial quanto no setor comercial, no de serviços, no de agronegócios, especialmente no que concerne à aplicação de processos de “Arranjos Produtivos Locais”.
+
+
+Art. 67.
+
+O Poder Público Municipal e a iniciativa privada promoverão o desenvolvimento socioeconómico do Município, articulando mecanismos para instalação de um novo Distrito Industrial e com a implantação de cinco novos mini-distritos na zona urbana.
+
+
+##### Seção II — DA AGRICULTURA
+
+
+Art. 68.
+
+O Poder Executivo Municipal deverá elaborar, mediante Lei especifica, o Plano Municipal Rural, visando a atender aos seguintes objetivos:
+
+
+I –
+
+Promover a capacitação do empresano rural no que se refere ao uso racional dos insumos agrícolas e defensivos agrícolas; uso correto dos equipamentos de proteção individual – EPI; uso racional dos recursos hídricos – irrigação, manejo sustentável do solo e gerenciamento; comercialização e marketing dos produtos;
+
+
+II –
+
+Incentivar a permanência do homem no campo, criando mecanismos de melhorias na comercialização através da implantação de entreposto ou galpões de agronegócios, possibilitando a venda direta, agregando valor a sua produção, beneficiando o consumidor final pela não ingerência do intermediário;
+
+
+III –
+
+Promover a indução de equipamentos institucionais, lazer e segurança na zona rural, incentivando a permanência do homem no campo;
+
+
+IV –
+
+Promover ação articulada com as Secretarias envolvidas na gestão do território municipal, uma efetiva fiscalização, quanto à ocupação irregular na zona de produção agrícola, em especial nas abrangências das bacias do Rio Tietê e das microbacias do Ribeirão dos Baixotes e Baguaçu, conservando a sua aptidão produtiva;
+
+
+V –
+
+Estabelecer convênios e termos de cooperação com a Secretaria de Agricultura e Abastecimento do Estado, EMBRAPA, Empresa Brasileira de Pesquisa Agro Pecuária, Instituto Agronômico de Campinas – IAC e outras entidades afins;
+
+
+VI –
+
+Apoiar a formação e o desenvolvimento de agronegócios, através da agregação de valor na produção agropecuária;
+
+
+VII –
+
+Reativação do sistema de inspeção municipal.
+
+
+#### CAPÍTULO II — DOS OBJETIVOS DO DESENVOLVIMENTO SOCIAL E DA QUALIDADE DE VIDA
+
+
+##### Seção I — DA SAÚDE
+
+
+Art. 69.
+
+A política municipal de saúde deverá atender aos seguintes objetivos:
+
+
+I –
+
+Iniciar a mudança do modelo de gestão, valorizando as ações preventivas;
+
+
+II –
+
+Criar o Cadastro Único para todo o sistema de saúde, inclusive de terceiros, visando o provimento de medicamentos e alimentos sem duplicidade;
+
+
+III –
+
+Implementar unidades hospitalares móveis para viabilizar o maior acesso aos serviços de saúde;
+
+
+IV –
+
+Ampliar o Programa do Médico da Família.
+
+
+##### Seção II — DA EDUCAÇÃO
+
+
+Art. 70.
+
+A política municipal de Educação deverá atender ás seguintes diretrizes:
+
+
+I –
+
+Ofertar cursos especificas no ensino fundamental, regular e supletivo, no período noturno, no âmbito de sua competência;
+
+
+II –
+
+Assegurar a participação popular na elaboração e implementação da política municipal de educação e gestão democrática por meio do Conselho Municipal de Educação;
+
+
+III –
+
+Estabelecer normas para o funcionamento de escolas de ensino não formal (ensino livre), visando proteger os alunos e elevar a qualidade do ensino;
+
+
+IV –
+
+Cooperar intensamente com as instituições do Sistema S (SENAI, SENAC e SENAR) visando democratizar o acesso ao ensino técnico gratuito;
+
+
+V –
+
+Expandir a FATEB visando o atendimento das novas demandas educacionais da economia de Birigüi;
+
+
+VI –
+
+Promover, em parceria com a Secretaria Estadual de Ciência e Tecnologia, a transformação da ETE de Birigui em Faculdade de Tecnologia FATEC;
+
+
+VII –
+
+Enriquecer a merenda escolar, buscando soluções locais integradas com os produtores rurais.
+
+
+##### Seção III — DA CULTURA, LAZER E DOS ESPORTES
+
+
+Art. 71.
+
+São objetivos da política municipal cultural:
+
+
+I –
+
+Recuperação e proteção do patrimônio cultural, por meio de pesquisas, inventários, registros, vigilância e tombamento;
+
+
+II –
+
+Promoção de mecanismos que criem as condições operacionais do acesso à cultura pela comunidade dos bairros mais distantes do centro urbano;
+
+
+III –
+
+Cooperação com as organizações e instituições governamentais e não governamentais, a fim de otimizar as necessidades a promoção da cultura;
+
+
+IV –
+
+Estabelecer programas de cooperação técnica e financeira com instituições públicas e privadas, visando a estimular as iniciativas culturais.
+
+
+Art. 72.
+
+São objetivos da política municipal de Esportes e Lazer:
+
+
+I –
+
+Conscientizar a população dos benefícios e da diversidade das modalidades esportivas e atividades físicas;
+
+
+II –
+
+Valorizar as equipes esportivas por meio de incentivos e programas específicos;
+
+
+III –
+
+Promover a educação integral da criança e do adolescente através da prática de esportes;
+
+
+IV –
+
+Disseminar as práticas esportivas como direito de todos e o lazer promovendo a integração social;
+
+
+V –
+
+Participar da implantação dos parques lineares descritos no Mapa de Preservação, com inclusão de modalidades esportivas, elevando a inclusão de toda a população;
+
+
+VI –
+
+Articular ações governamentais e parcerias privadas para apoio ao esporte local.
+
+
+##### Seção IV — DA SEGURANÇA
+
+
+Art. 73.
+
+A atividade complementar municipal de zelar pela segurança coletiva tem como metas:
+
+
+I –
+
+Proteger o patrimônio público municipal;
+
+
+II –
+
+Desenvolver projetos voltados aos adolescentes e jovens adultos em condições de vulnerabilidade social, com o intuito de evitar sua inserção na criminalidade;
+
+
+III –
+
+Montar e operar a rede de monitoramento por câmeras localizadas no centro comercial e nas entradas da cidade;
+
+
+IV –
+
+Reposicionar os hidrantes municipais para os pontos estratégicos de combate de incêndios industriais, visando reduzir a apólice dos seguros;
+
+
+V –
+
+Integrar a Guarda Municipal com a rede de segurança do Estado e da União;
+
+
+VI –
+
+Instrumentalizar a Guarda Municipal a prestar primeiros socorros à população, até a chegada de ambulância ou do Corpo de Bombeiros.
+
+
+#### CAPÍTULO III — DAS DIRETRIZES GERAIS DO DESENVOLVIMENTO URBANO E AMBIENTAL
+
+
+##### Seção I — DA POLÍTICA HABITACIONAL
+
+
+Art. 74.
+
+As áreas apontadas como AEIS – Áreas de Especial Interesse Social terão prioridade para a implantação de conjuntos habitacionais.
+
+
+Art. 75.
+
+São objetivos da política municipal de habitação:
+
+
+I –
+
+articular a política de habitação de interesse social, com as políticas sociais, visando ampliar a inclusão social das famílias beneficiadas;
+
+
+II –
+
+promover o uso habitacional nas áreas consolidadas e dotadas de infra-estrutura, utilizando, entre outros recursos, os instrumentos constantes do Estatuto da Cidade;
+
+
+III –
+
+promover a requalificação urbanística e a regularização fundiária dos assentamentos precários existentes ocupados por população de baixa renda;
+
+
+IV –
+
+estimular a edificação nos lotes vazios localizados dentro da Z1 – Zona Urbana de Uso Predominantemente Residencial.
+
+
+##### Seção II — DA POLÍTICA DO MEIO AMBIENTE E SANEAMENTO AMBIENTAL
+
+
+Art. 76.
+
+O Poder Executivo deverá elaborar o Plano Diretor Ambiental, que será aprovado por Lei específica, conforme as diretrizes fixadas nesta Lei.
+
+
+Art. 77.
+
+São ações estratégicas da política municipal de saneamento ambiental:
+
+
+I –
+
+Captação e tratamento das águas superficiais oriundas dos mananciais locais, misturando-as ás águas profundas, para equalização química;
+
+
+II –
+
+Finalização do coletor tronco de esgoto da microbacia do Ribeirão dos Baixotes para fins de destinação do esgoto coletado à Estação de Tratamento;
+
+
+III –
+
+Estabelecimento de acordos formais com as Municipalidades de Araçatuba e Coroados, no sentido de um plano comum de proteção das margens do Baguaçu e Baixotes, respectivamente;
+
+
+IV –
+
+Elaboração do Plano Diretor de Macrodrenagem;
+
+
+V –
+
+Supressão das APPs de trechos urbanos dos rios e córregos que já tenham suas margens comprometidas pela ocupação descontrolada, podendo nesses locais serem implantadas as seguintes obras viárias: continuidade das Avenidas José Arruda Camargo, João Cernack, Paulo da Silva Nunes e Dr. Lino Nardin Filho; e implantação de avenida paralela ao Córrego Veadinho;
+
+
+VI –
+
+Monitoração para prevenir a ocupação das cabeceiras dos córregos e rios, garantindo o respeito às normas ambientais e a sustentabilidade dos cursos d’água;
+
+
+VII –
+
+Identificação dos pontos de lançamento de águas pluviais na rede coletora de esgotos, notificando os infratores e ajustando prazos para a correção. Informar que o procedimento é caracterizado como crime ambiental, portanto inafiançável.
+
+
+#### CAPÍTULO IV — DA MOBILIDADE URBANA E DO TRANSPORTE
+
+
+Art. 78.
+
+A Política de Mobilidade Urbana e Transportes têm como estratégia qualificar a circulação e o transporte urbano, proporcionando os deslocamentos na cidade e atendendo ás distintas necessidades da população, com os seguintes objetivos:
+
+
+I –
+
+Ampliar o Terminal Rodoviário, para também atender as funções de terminal urbano e terminal de turismo econômico (sacoleiras);
+
+
+II –
+
+Criação de um espaço urbano dos ônibus transportadores de operários, na faixa lateral da linha férrea;
+
+
+III –
+
+Fazer cumprir a legislação da acessibilidade;
+
+
+IV –
+
+Limitar a veículos distribuidores de médio porte o acesso de carga ao meio urbano;
+
+
+V –
+
+Assumir as calçadas públicas como parte integrante da mobilidade urbana, exigindo dos lindeiros a conservação adequada para o uso pelos pedestres;
+
+
+VI –
+
+Garantir ao usuário do transporte coletivo abrigos na espera e no embarque nos veículos.
+
+
+##### Seção I — DO SISTEMA VIÁRIO
+
+
+Art. 79.
+
+O Poder Executivo Municipal elaborará projetos de aperfeiçoamento do Sistema Viário, pautado nas seguintes propostas:
+
+
+I –
+
+hierarquização das vias no município;
+
+
+II –
+
+descaracterização da área central como principal articuladora do sistema viário municipal, reduzindo a intensidade de trafego de passagem na mesma e ordenando o trafego local;
+
+
+III –
+
+implantação da Rótula para restringir o tráfego pesado na malha urbana, sendo vedado na referida o tráfego de treminhões;
+
+
+IV –
+
+desenvolvimento de projetos setoriais para a adequação das calhas e de seus entorno, incluindo o atendimento às necessidades do transporte coletivo e circulação de pedestres;
+
+
+V –
+
+proteção do usuário de bicicletas através de pista própria para o deslocamento casa-trabalho (ciclovia).
+
+
+### TÍTULO VII — DO SISTEMA DE GESTÃO E PLANEJAMENTO
+
+
+#### CAPÍTULO I — DOS PRINCÍPIOS NORTEADORES
+
+
+Art. 80.
+
+O Plano Diretor é parte integrante de um processo contínuo de planejamento e gestão municipal, em que estão assegurados os objetivos e as diretrizes definidas nesta Lei, com participação popular na sua implementação ou revisão.
+
+
+Art. 81.
+
+O Poder Executivo Municipal implementará por decreto, o Sistema Municipal de Gestão e de Planejamento visando adequar a administração das ações e investimentos públicos, no âmbito de sua competência.
+
+
+#### CAPÍTULO II — DOS ORGANISMOS DE GESTÃO
+
+
+##### Seção I — DA GESTÃO INTERNA
+
+
+Art. 82.
+
+Competirá à Secretaria da Indústria, Comercio e Agronegocios a gestão interna do Plano Diretor Participativo de Birigui.
+
+
+##### Seção II — DO CONSELHO MUNICIPAL DE DESENVOLVIMENTO
+
+
+Art. 83.
+
+A Prefeitura promoverá a mudança no atual Condei, transformando-o no COMDE – Conselho Municipal de Desenvolvimento, que será composto por 11 (onze) membros representantes, sendo dois da Prefeitura, dois da Câmara Municipal, um do Conselho Regional de Engenharia e Arquitetura, um da Ordem dos Advogados do Brasil, um do Conselho Regional dos Corretores Imobiliários, dois das Associações Amigos de Bairros, um de Organizações Sindicais e um de entidade ambiental.
+
+
+Art. 84.
+
+Compete ao COMDE:
+
+
+I –
+
+Monitorar a gestão do Plano Diretor;
+
+
+II –
+
+Cuidar da questão industrial;
+
+
+III –
+
+Elaborar propostas, examinar e emitir pareceres nos temas que lhe forem afetos;
+
+
+IV –
+
+Acompanhar a elaboração e a regulamentação da legislação urbana e analisar, quando necessário, casos específicos;
+
+
+V –
+
+Supervisionar a aplicação dos Instrumentos de Indução da Política Urbana descritos nesta Lei;
+
+
+VI –
+
+Colaborar na política de saneamento e de preservação ambiental.
+
+
+### TÍTULO VIII — DAS DISPOSIÇÕES GERAIS, FINAIS E TRANSITÓRIAS
+
+
+Art. 85.
+
+A primeira revisão desta Lei será procedida após dois de sua publicação e as posteriores a cada quatro anos, a contar de cada lei revisora, respeitando-se os procedimentos estabelecidos no parágrafo 4º do Artigo 40, da Lei Federal nº 10.257, de 19 de julho de 2001.
+
+
+Art. 86.
+
+As normas referentes ao uso e ocupação do solo estabelecidas nesta Lei têm aplicação imediata.
+
+
+Art. 87.
+
+Os processos administrativos, inclusive os que tratam de uso e ocupação do solo, ainda sem despachos decisórios, protocolizados em data anteriores a da publicação desta Lei, serão decididos de acordo com a legislação anterior.
+
+
+Art. 88.
+
+A regulamentação, a gestão e a complementação deste Plano Diretor serão feitas por meio de um arcabouço no1mativo composto de Leis e Decretos Municipais que tratarão de:
+
+
+I –
+
+Código de Obras e Edificações;
+
+
+II –
+
+Lei de alteração do CONDEI;
+
+
+III –
+
+Lei de constituição do Fundo Municipal de Desenvolvimento Urbano;
+
+
+IV –
+
+Plano Diretor Ambiental;
+
+
+V –
+
+Lei do Uso e Ocupação do Solo;
+
+
+VI –
+
+Leis de implementação dos Instrumentos de Indução da Política Urbana;
+
+
+VII –
+
+Lei de Preservação do Patrimônio Histórico;
+
+
+VIII –
+
+Plano de Macrodrenagem Urbana;
+
+
+IX –
+
+Regulamentação da Lei de Impacto e de Incomodidade à Vizinhança.
+
+
+Art. 89.
+
+Ficam ressalvadas para todos os efeitos legais e de direito, as convenções quanto ao uso e ocupação do solo e as restrições relativas às edificações, discriminadas nos atos constitutivos de loteamentos devidamente registrados no Cartório de Registro de Imóveis da Comarca de Birigui, garantindo assim, os direitos adquiridos dos proprietários e possuidores desses imóveis.
+
+
+Art. 90.
+
+O Município de Birigui poderá firmar convênios com os Municípios da região visando viabilizar soluções comuns para a coleta, manejo, destinação final e tratamento de lixo domiciliar, industrial e outros considerados rejeitas especiais, com autorização prévia da Câmara Municipal de Birigui.
+
+
+Art. 91.
+
+O Município de Birigui poderá ingressar em consórcio intermunicipal com os Municípios vizinhos, visando garantir a manutenção das características hídricas e ambientais das bacias hidrográficas, com autorização prévia da Câmara Municipal de Birigüi.
+
+
+Art. 92.
+
+As Leis previstas no art. 88 deste Plano Diretor deverão ser elaboradas no prazo máximo de 180 (cento e oitenta) dias a contar de sua publicação e enviadas à Câmara Municipal, que terá o prazo em dobro, para discussão e votação, inclusive nos projetos de novos loteamentos para serem aprovados.
+
+
+Art. 93.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos dez de outubro de dois mil e seis.
+
+**WILSON CARLOS RODRIGUES BORINI Prefeito Municipal**
+
+**DR. GLAUCO PERUZZO GONÇALVES Secretário de Negócios Jurídicos**
+
+**MARCELO PARIZATI Secretário de Finanças**
+
+**ARQTO. MILTON LOT JUNIOR Secretário de Obras e Serviços Públicos**
+
+**ANTONIO LIRANÇO Secretário de Indústria, Comércio e Agronegócios**
+
+**PAULO BATISTA DE SOUZA Secretário de Educação**
+
+**DRA. MARCIA REGINA GUISSI Secretária de Saúde**
+
+**RONALDO MOCERINO Secretário de Esportes e Lazer**
+
+**VAGNER FREIRE Secretário de Segurança Pública Municipal**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigui, aos dez de outubro de dois mil e seisa, por afixação no local de costume.
+
+**EURICO POMPEU SOBRINHO Secretário de Expediente e Comunicações Administrativas**
+

@@ -1,0 +1,1204 @@
+Cria o Centro de Controle de Zoonoses – CCZ, e dá outras providências.
+
+
+Projeto de Lei Ordinária nº 19/22, de autoria do Poder Executivo, aprovado em 04 de julho de 2022.
+
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº 01/90, de 05 de abril de 1.990 – Lei Orgânica Municipal - LOM, faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica criado o Centro de Controle de Zoonoses - CCZ, órgão sanitário vinculado à Secretaria Municipal de Saúde.
+
+
+Art. 2º.
+
+A Secretaria Municipal de Saúde e a Secretaria Municipal de Meio Ambiente são responsáveis pelo desenvolvimento de ações objetivando o controle e a proteção de populações animais, bem como a prevenção e controle de zoonoses no Município de Formosa-GO.
+
+
+Parágrafo único.
+
+O Centro de Controle de Zoonoses funcionará em local determinado pela Secretaria Municipal de Saúde.
+
+
+Art. 3º.
+
+Para efeitos desta Lei e regulamentos posteriores entende-se por:
+
+
+I –
+
+abrigo: local onde são recolhidos ou guardados animais com o objetivo de alojamento temporário ou permanente, com intenção de proteção, cuidado e tratamento;
+
+
+II –
+
+agente etiológico de doença: microorganismo cuja presença pode, mediante contato efetivo com o hospedeiro susceptível, constituir estímulo para iniciar ou perpetuar um processo de doença e, com isso afetar a frequência com que a mesma ocorre numa população;
+
+
+III –
+
+agravos: danos causados à integridade física de indivíduos ou animais;
+
+
+IV –
+
+alojamento municipal de animais: dependências apropriadas do Centro de Controle de Zoonoses para alojamento e manutenção dos animais apreendidos;
+
+
+V –
+
+animais agressivos: animais que fazem vítimas ou apresentam potencial para tal, através de agravos físicos, tais como arranhaduras e mordeduras;
+
+
+VI –
+
+animais apreendidos: todo e qualquer animal capturado por servidor credenciado do Município, compreendendo desde o instante da captura, transporte, alojamentos nas dependências do Centro de Controle de Zoonoses e destinação final;
+
+
+VII –
+
+animal comunitário: aquele que, apesar de não ter proprietário definido e único, estabelece com a população do local onde vive vínculos de dependência e manutenção;
+
+
+VIII –
+
+animal contido: animal amarrado ou com restrição de movimento por barreira física;
+
+
+IX –
+
+animais de grande porte: bovinos, equinos, muares, asininos, bubalinos e outros de porte equivalente;
+
+
+X –
+
+animais de médio porte: suínos, caprinos, ovinos e outros de porte equivalente;
+
+
+XI –
+
+animais de pequeno porte: caninos, felinos e outros de porte equivalente;
+
+
+XII –
+
+animais domésticos: animais que apresentam características biológicas e comportamentais em estreita dependência do ser humano, tornando-os passíveis de coabitar com o mesmo;
+
+
+XIII –
+
+animais invasores: animal que invadiu a menos de dois dias local no qual não estão sendo oferecidas condições de abrigo e/ou alimento;
+
+
+XIV –
+
+animais sinantrópicos: as espécies que, indesejavelmente, convivem com o ser humano, trazendo incômodos ou prejuízos e riscos à saúde pública, tais como ratos, baratas, moscas, pernilongos e pulgas, dentre outros;
+
+
+XV –
+
+animais soltos: todo e qualquer animal errante, encontrado sem nenhum processo de contenção e sem o acompanhamento do proprietário e/ou responsável;
+
+
+XVI –
+
+autoridade zoosanitária: servidor público indicado pelo órgão competente para executar ações de controle de zoonoses e de fiscalização zoosanitária;
+
+
+XVII –
+
+bem estar animal: a garantia de atendimento às necessidades físicas, mentais e naturais do animal; a isenção de lesões, doenças, fome, sede, desconforto, dor, medo e estresse; a possibilidade de expressar seu comportamento natural, bem como a promoção e preservação da sua saúde;
+
+
+XVIII –
+
+coleção líquida: qualquer quantidade de água parada que propicie a criação e proliferação de vetores;
+
+
+XIX –
+
+criação: ação ou efeito de criar, gerando a propagação da espécie;
+
+
+XX –
+
+eutanásia: morte humanitária de um animal, executada por método que produza insensibilização e inconscientização rápida e subsequente morte por parada cardíaca sem evidência de dor ou agonia;
+
+
+XXI –
+
+exploração econômica: a compra, a venda ou o uso de animais com vantagens pecuniárias;
+
+
+XXII –
+
+fauna sinantrópica: conjunto de animais sinantrópicos de interesse à saúde;
+
+
+XXIII –
+
+guarda: ato ou efeito de guardar, cuidar e proteger animais domésticos;
+
+
+XXIV –
+
+laudo de periculosidade: documento emitido pelo médico veterinário, atestando a periculosidade do animal, independente da raça ou porte deste;
+
+
+XXV –
+
+manejo etológico: manipulação ou manejo, racional e sem violência, de um animal, considerando suas necessidades físicas, naturais e mentais;
+
+
+XXVI –
+
+maus tratos: toda e qualquer ação ou omissão praticada pelo ser humano, perpetrada contra a integridade física e/ou psicológica dos animais, que lhes acarrete ferimento, dor, ou sofrimento decorrente de negligência ou da prática do ato cruel ou abusivo;
+
+
+XXVII –
+
+mordedor compulsivo: animal que tenha histórico de ser causador de diversos agravos a pessoas ou a outros animais sem que tenham sido identificadas provocações ou causa aparente pela autoridade zoosanitária, mediante comprovação testemunhal, documental e/ou pericial, além de avaliação comportamental realizada por médico veterinário do Centro de Controle de Zoonoses;
+
+
+XXVIII –
+
+periculosidade: risco proveniente de animais treinados para ataque ou guarda, e/ou que tenham sido submetidos a maus tratos e/ou a ambientes inadequados para seu desenvolvimento saudável e que, consequentemente, não são capazes de conviver livremente no mesmo espaço com pessoas e outros animais, não permitindo a realização de atividades inerentes ao seu manejo - tal como fornecimento de alimentação, realização de limpeza de ambiente e do próprio animal e contenção - colocando em risco os expostos;
+
+
+XXIX –
+
+prontuário animal individual: ficha de acompanhamento de animal apreendido, contendo informações sobre o local do seu recolhimento, espécie, cor, porte e demais observações pertinentes;
+
+
+XXX –
+
+vetor: animal invertebrado que pode transmitir ao ser humano ou a outro animal organismo patogênico capaz de provocar doença;
+
+
+XXXI –
+
+visita zoosanitária: inspeção realizada pela autoridade zoosanitária em local solicitado por reclamante, para a verificação da irregularidade descrita por este;
+
+
+XXXII –
+
+zoonose: infecção ou doença infecciosa transmissível naturalmente do animal vertebrado para o ser humano ou vice-versa.
+
+
+#### CAPÍTULO II — DOS OBJETIVOS
+
+
+Art. 4º.
+
+Constituem objetivos básicos das ações de prevenção e controle de zoonoses:
+
+
+I –
+
+prevenir, reduzir e eliminar a morbidade e a mortalidade causadas pelas zoonoses;
+
+
+II –
+
+preservar a saúde da população, protegendo-a contra zoonoses e agressões de animais, mediante o emprego de conhecimentos especializados e experiências em Saúde Pública.
+
+
+Art. 5º.
+
+Constituem objetivos básicos das ações de controle e proteção das populações animais:
+
+
+I –
+
+prevenir, reduzir e eliminar a mortalidade e as causas de sofrimento dos animais;
+
+
+II –
+
+preservar a saúde e o bem estar da população humana, evitando-lhes danos ou incômodos causados por animais.
+
+
+#### CAPÍTULO III — DA PERMANÊNCIA, MANUTENÇÃO, TRÂNSITO E APREENSÃO DE ANIMAIS
+
+
+Art. 6º.
+
+É proibida a permanência, manutenção e livre trânsito dos animais domésticos, de cativeiro e/ou de estimação nos logradouros públicos e locais de livre acesso ao público, inclusive em casos de adestramento e/ou treinamento.
+
+
+Parágrafo único.
+
+Excetua-se da proibição prevista no "caput" deste artigo:
+
+
+I –
+
+o estabelecimento legal e adequadamente instalado para criação, manutenção, venda, exposição, competição, tratamento e internação de animais e os abatedouros, quando os transportarem e/ou conduzirem com suas devidas Guias de Trânsito Animal (GTA), licenciado pelo órgão competente;
+
+
+II –
+
+a permanência e o trânsito de animais em logradouros públicos quando:
+
+
+a)
+
+tratar-se de cães ou gatos vacinados, com coleira e registro atualizado, conduzidos com guia e/ou peitoral pelo proprietário ou responsável quando necessário, com idade e força física suficientes para controlar os movimentos do animal; e, no caso de cães perigosos, com focinheira tecnicamente recomendada;
+
+
+b)
+
+tratar-se de animais de tração ou montaria, providos dos necessários equipamentos e meios de contenção e conduzidos pelo proprietário ou responsável, com idade, força física e habilidade para controlar os movimentos do animal;
+
+
+c)
+
+tratar-se de cães-guias de pessoas deficientes visuais;
+
+
+d)
+
+tratar-se de animais utilizados pela Polícia Militar, Corpo de Bombeiros ou outra corporação de utilidade pública;
+
+
+e)
+
+quando se tratar de cão participante de programa da prefeitura (cão comunitário).
+
+
+Art. 7º.
+
+Serão apreendidos pelo Centro de Controle de Zoonoses os animais:
+
+
+I –
+
+soltos em via e logradouro público que, por sua periculosidade, possam promover agravo físico pelo qual possam ser disseminados agentes etiológicos de doença;
+
+
+II –
+
+soltos com sinais compatíveis com raiva ou outra zoonose;
+
+
+III –
+
+soltos em vias e logradouros públicos que estejam em sofrimento físico, apresentando dificuldade ou impossibilidade de locomoção, fratura recente, hemorragia, ferida extensa, debilidade física profunda e demais ocorrências constatadas por médico veterinário;
+
+
+IV –
+
+soltos em vias e logradouros públicos na condição de mordedores compulsivos;
+
+
+V –
+
+soltos em vias e logradouros públicos portando identificação do Centro de Controle de Zoonoses;
+
+
+VI –
+
+invasores de propriedade privada, que estejam colocando em risco os moradores por apresentarem comportamento agressivo ou pela possibilidade de transmissão de doenças;
+
+
+VII –
+
+invasores de propriedade pública que estejam colocando em risco os servidores ou usuários do local por apresentarem comportamento agressivo ou pela possibilidade de transmissão de doenças;
+
+
+VIII –
+
+soltos ou contidos em vias e logradouros públicos e desacompanhados do responsável, quando se tratar de animais de grande porte;
+
+
+IX –
+
+da espécie canina ou felina que vierem a óbito durante o período de 10 (dez) dias de observação, após acidente de mordedura;
+
+
+X –
+
+agressivos em domicílio, desde que exista laudo emitido por Médico Veterinário constatando a periculosidade do animal.
+
+
+Parágrafo único.
+
+A apreensão dos animais elencados no presente artigo fica condicionado à capacidade física do Centro de Controle de Zoonoses.
+
+
+#### CAPÍTULO IV — DA DESTINAÇÃO DOS ANIMAIS APREENDIDOS
+
+
+Art. 8º.
+
+Os animais apreendidos podem ter a seguinte destinação, a critério do Centro de Controle de Zoonoses:
+
+
+I –
+
+resgate pelo proprietário ou responsável legal;
+
+
+II –
+
+observação e quarentena;
+
+
+III –
+
+adoção por particular;
+
+
+IV –
+
+doação para entidade protetora de animais ou para instituição de ensino e pesquisa, conforme regulamentação específica;
+
+
+V –
+
+eutanásia, em casos de doença grave;
+
+
+VI –
+
+evolução ao local de recolhimento, conforme regulamentação específica.
+
+
+Parágrafo único.
+
+A doação para instituição de ensino e pesquisa de que trata o inciso IV deste artigo é vedada para a finalidade de experimentação animal ou vivissecção, exceto se cadáveres.
+
+
+Art. 9º.
+
+O animal apreendido pode ser resgatado pelo seu proprietário ou responsável legal, no prazo de 15 (quinze) dias úteis contados do dia seguinte ao do recolhimento, após ciência da infração e pagamento das taxas de apreensão, permanência e manutenção, com valores definidos através de Decreto.
+
+
+§ 1º
+
+Decorrido o prazo fixado no "caput" deste artigo sem resgate, pode o Centro de Controle de Zoonoses dar outra destinação ao animal, nos termos desta Lei.
+
+
+§ 2º
+
+Quando o termo final do prazo fixado no "caput" deste artigo recair em sábado, domingo, feriado ou outro dia em que não haja expediente no Centro de Controle de Zoonoses, será o mesmo prorrogado para o primeiro dia útil subsequente, sendo devida taxa de permanência de todo o período.
+
+
+§ 3º
+
+A taxa de permanência de que trata o "caput" deste artigo será proporcional ao período em que o animal permanecer sob a guarda do Centro de Controle de Zoonoses, sendo excluído o dia do recolhimento e incluído o dia do resgate.
+
+
+§ 4º
+
+As taxas de que trata o "caput" deste artigo são devidas pelo proprietário ou responsável legal independentemente da existência de penalidade.
+
+
+Art. 10.
+
+O animal que apresentar sinais clínicos de raiva e/ou outra zoonose será encaminhado para observação e quarentena, no Centro de Controle de Zoonoses ou em local autorizado pela autoridade zoosanitária, esta que determinará o período e os procedimentos a serem adotados.
+
+
+Art. 11.
+
+Podem ser destinados a adoção os cães e gatos apreendidos e não resgatados pelos proprietários, após período denominado de pré-adoção.
+
+
+§ 1º
+
+Antes de serem destinados à adoção os animais ficarão nas dependências do Centro de Controle de Zoonoses, em local destinado à pré-adoção, pelo prazo mínimo de 10 (dez) dias que poderá, a critério do médico veterinário responsável, ser estendido.
+
+
+§ 2º
+
+A fase de pré-adoção será utilizada para esterilização, vacinação antirrábica, aplicação de medicamentos para controle de parasitos, assistência veterinária e observação.
+
+
+Art. 12.
+
+É proibida a adoção de animal com finalidade de exploração econômica.
+
+
+Art. 13.
+
+O Município pode dispor do auxílio de organizações não-governamentais de proteção a animais ou de outras entidades públicas ou privadas para realização de exposições dos cães e gatos destinados à adoção.
+
+
+Parágrafo único.
+
+Os eventos de que trata o "caput" deste artigo devem ser realizados em local de livre acesso ao público, podendo ser utilizado qualquer meio de comunicação disponível.
+
+
+Art. 14.
+
+O animal apreendido pode ser submetido à eutanásia quando:
+
+
+I –
+
+agressivo com constatação de alta periculosidade, atestada a irreversibilidade do comportamento por Médico Veterinário;
+
+
+II –
+
+em sofrimento, apresentando fratura, hemorragia, impossibilidade de locomoção, ferida extensa ou profunda e demais ocorrências, com impossibilidade de tratamento em razão da condição geral do animal, constatada por Médico Veterinário;
+
+
+III –
+
+portador de enfermidade, sem possibilidade de tratamento em razão do comprometimento do bem-estar, da integridade física ou da vida do animal, constatado por Médico Veterinário;
+
+
+IV –
+
+portador de enfermidade infecto-contagiosa de caráter zoonótico, constatada por Médico Veterinário, com o devido exame laboratorial.
+
+
+Art. 15.
+
+O animal com doença ou lesão física grave e irreversível, agressivo, bem como sanitariamente comprometido, de forma a tornar inviável sua sobrevivência saudável, poderá sofrer processo de eutanásia de imediato, consubstanciada a decisão em laudo técnico emitido por Médico Veterinário do Centro de Controle de Zoonoses.
+
+
+Art. 16.
+
+A eutanásia do animal apreendido, quando indicada, deverá ser feita de forma individual, exclusivamente por Médico Veterinário.
+
+
+Art. 17.
+
+É vedada a eliminação de cães e gatos como método de controle populacional.
+
+
+Art. 18.
+
+O procedimento de eutanásia será realizado nos termos da legislação e normas pertinentes.
+
+
+#### CAPÍTULO V — DA PROPRIEDADE E RESPONSABILIDADE POR ANIMAIS
+
+
+Art. 19.
+
+Os animais devem estar alojados em locais onde fiquem impedidos de fugirem ou agredirem a terceiros.
+
+
+Parágrafo único.
+
+É de responsabilidade do proprietário ou responsável pelo cão, pessoa física ou jurídica, mantê-lo afastado de portões, campainhas, medidores de luz, de água e caixas de correspondência, garantindo que os funcionários das respectivas empresas prestadoras de serviços ou terceiros, não sofram ameaça ou agressão por parte desses animais.
+
+
+Art. 20.
+
+É proibido abandonar ou soltar cães e gatos em quaisquer vias ou logradouro público ou local privado.
+
+
+Parágrafo único.
+
+A destinação dos cães ou gatos não mais desejados por seus proprietários e/ou responsáveis é de inteira responsabilidade dos mesmos.
+
+
+Art. 21.
+
+Não são permitidas nas propriedades particulares urbanas e/ou rurais, ou condomínios, a criação ou alojamento de animais que por sua espécie, número ou manutenção causem risco à saúde, bem-estar e segurança da comunidade.
+
+
+Art. 22.
+
+É de responsabilidade do proprietário ou responsável pela guarda de um animal, pessoa física ou jurídica:
+
+
+I –
+
+buscar atendimento médico veterinário quando o animal necessitar;
+
+
+II –
+
+assegurar condições higiênico-sanitárias nos locais de alojamento do animal, assim como dimensões compatíveis com o porte e número de animais, de forma a minimizar o risco de transmissão de doenças e garantir sua integridade física;
+
+
+III –
+
+a remoção dos dejetos por eles deixados nas vias públicas, dando-lhes adequada destinação.
+
+
+Art. 23.
+
+Toda pessoa física ou jurídica responsável por animal agressor deverá submetê-lo à observação, isolamento e cuidados, em sua propriedade pelo período de 15 (quinze) dias.
+
+
+§ 1º
+
+Na impossibilidade de realização da observação de forma segura, na instalação do proprietário, o animal poderá ser encaminhado ao Centro de Controle de Zoonoses, permanecendo sob monitoramento por 15 (quinze) dias, sendo que, findado este prazo, o animal retornará ao seu endereço de origem.
+
+
+§ 2º
+
+Caso o animal seja encaminhado à outra instalação, o custo gerado em função da guarda para observação, ou qualquer outro procedimento dela originada, ocorrerá por conta do proprietário ou responsável legal.
+
+
+§ 3º
+
+Ocorrendo óbito do animal, o Centro de Controle de Zoonoses deverá ser notificado de imediato a fim de providenciar o envio de material para análise laboratorial para raiva, de forma gratuita.
+
+
+Art. 24.
+
+Toda pessoa física ou jurídica responsável por animal suspeito ou acometido de zoonose, deverá submetê-lo à observação, isolamento e cuidados, na forma determinada pela autoridade zoosanitária.
+
+
+Art. 25.
+
+Toda pessoa física ou jurídica responsável por animal é obrigada a vaciná-lo contra a raiva, observando o período de revacinação.
+
+
+Art. 26.
+
+O proprietário é obrigado a permitir, sempre que necessário, o acesso da autoridade zoosanitária no exercício de suas funções, às dependências do alojamento do animal para constatar se a manutenção está adequada, suspeita de doenças, bem como, acatar as determinações dele emanadas.
+
+
+Art. 27.
+
+Em caso de falecimento do animal, cabe ao proprietário ou responsável a disposição adequada do cadáver.
+
+
+§ 1º
+
+Ficará ao encargo da Secretaria Municipal de Meio Ambiente indicar o local e a destinação adequada do cadáver.
+
+
+§ 2º
+
+Em caso de falecimento por doenças de interesse da saúde pública ou de notificação compulsória, o cadáver do animal deverá ser encaminhado ao serviço estadual ou municipal competente.
+
+
+§ 3º
+
+Em caso de falecimento de animal sem proprietário ou responsável legal em vias públicas, fica a Secretaria Municipal de Meio Ambiente responsável pelo seu recolhimento e destinação.
+
+
+Art. 28.
+
+Em caso de óbito de proprietário de animais, a destinação destes é de inteira responsabilidade dos familiares e/ou herdeiros.
+
+
+Art. 29.
+
+Toda pessoa física ou jurídica responsável por animal deverá, obrigatoriamente, registrá-lo no Centro de Controle de Zoonoses ou em estabelecimentos veterinários devidamente credenciados por este órgão para esse fim.
+
+
+§ 1º
+
+O prazo máximo para a realização deste registro é de 180 (cento e oitenta) dias a partir data de publicação desta Lei.
+
+
+§ 2º
+
+Após o nascimento os cães e gatos deverão ser registrados entre o 3º (terceiro) e o 6º (sexto) mês de idade, recebendo, no ato do registro, a aplicação da vacina contra a raiva.
+
+
+Art. 30.
+
+O proprietário ou responsável por animal, pessoa física ou jurídica, é responsável pela destinação de filhotes provenientes de suas fêmeas.
+
+
+Parágrafo único.
+
+Deverá o proprietário ou responsável por animal planejar a reprodução deste ou evitá-la, de forma a prevenir o aumento da população animal.
+
+
+Art. 31.
+
+Toda pessoa física ou jurídica deverá manter seus animais dentro da sua propriedade, sendo proibida a permanência de animais soltos em vias e em logradouros públicos.
+
+
+Art. 32.
+
+Animais abandonados em terrenos e casas desocupadas são de responsabilidade do proprietário do imóvel.
+
+
+Art. 33.
+
+O tratamento, a remoção e a destinação de animais doentes são de inteira responsabilidade do seu proprietário ou responsável, ficando o Centro de Controle de Zoonoses isento de responsabilidade.
+
+
+Parágrafo único.
+
+Excetuam-se desse artigo as zoonoses de interesse epidemiológico.
+
+
+Art. 34.
+
+Os estabelecimentos veterinários devem notificar ao Centro de Controle de Zoonoses a ocorrência de zoonoses de relevância epidemiológica, conforme regulamentação.
+
+
+Art. 35.
+
+Qualquer animal que esteja evidenciando sinais clínicos de raiva, ou qualquer outra espécie de zoonose, constatada por médico veterinário, deverá ser encaminhado ao Centro de Controle de Zoonoses.
+
+
+Parágrafo único.
+
+Comprovada a infecção por zoonose, dependendo da gravidade e contagiosidade desta, o animal poderá ser submetido à eutanásia ou liberado para tratamento em clínica particular, por determinação do Médico Veterinário responsável.
+
+
+#### CAPÍTULO VI — DO CENTRO DE CONTROLE DE ZOONOSES
+
+
+Art. 36.
+
+O Centro de Controle de Zoonoses deve assegurar condições que visem o bem-estar dos animais alojados, mantendo as instalações limpas, arejadas, garantindo comodidades e proteção contra intempéries e com dimensões adequadas ao porte e número de animais.
+
+
+Art. 37.
+
+Compete ao Centro de Controle de Zoonoses dar a destinação adequada aos cadáveres de animais submetidos a procedimento de eutanásia ou que vierem a óbito em suas dependências, de acordo com o seu plano de gerenciamento de resíduos de saúde.
+
+
+Parágrafo único.
+
+Não é de competência do Centro de Controle de Zoonoses a responsabilidade técnica da remoção e destinação de animais mortos de outros estabelecimentos, setores, vias e logradouros públicos.
+
+
+Art. 38.
+
+Compete ao Centro de Controle de Zoonoses em conjunto com a Secretaria Municipal de Meio Ambiente, o planejamento e execução de programa permanente de controle reprodutivo de cães e gatos, conforme regulamentação específica.
+
+
+Art. 39.
+
+Compete ao Centro de Controle de Zoonoses a observação clínica, durante o período de 10 (dez) dias, de animais envolvidos em acidentes de mordedura e/ou arranhadura, quando estas ocorrerem em vias e logradouros públicos por cão ou gato cujo proprietário não seja identificado.
+
+
+Parágrafo único.
+
+A vítima de mordedura e/ou arranhadura deve identificar-se, e o acidente de que trata o "caput" deste artigo deve ser comprovado através de prova testemunhal, documental ou pericial.
+
+
+Art. 40.
+
+Em caso de foco de raiva animal do ciclo urbano, animais soltos poderão ser recolhidos pelo Centro de Controle de Zoonoses podendo, se necessário, serem encaminhados para eutanásia para fins de diagnóstico e/ou controle do foco.
+
+
+Parágrafo único.
+
+Quando se tratar de outras zoonoses de relevância epidemiológica deverá a Secretaria Municipal de Saúde e/ou outro órgão competente apresentar normas específicas para controle da doença.
+
+
+Art. 41.
+
+Compete ao Centro de Controle de Zoonoses o fornecimento gratuito e regular de vacina anti-rábica para cães e gatos.
+
+
+Art. 42.
+
+O Centro de Controle de Zoonoses deve promover programas de educação para zoonoses, fauna sinantrópica, guarda responsável de animais, comportamento animal e prevenção aos agravos.
+
+
+Parágrafo único.
+
+Para atender ao disposto no "caput" deste artigo pode o Centro de Controle de Zoonoses firmar parcerias com entidades públicas ou privadas.
+
+
+Art. 43.
+
+Ao Centro de Controle de Zoonoses compete proceder orientação técnica e educativa nos casos de presença de animais sinantrópicos, vetores ou peçonhentos em propriedade pública ou privada.
+
+
+Art. 44.
+
+O Centro de Controle de Zoonoses executará o controle de roedores nas vias públicas, imóveis públicos e áreas ou residências com notificação de casos de leptospirose humana e/ou animal.
+
+
+Art. 45.
+
+Não é de competência do Centro de Controle de Zoonoses a realização de atendimento clínico médico veterinário e/ou eutanásia de animais que possuam proprietário e/ou responsável.
+
+
+Art. 46.
+
+O Centro de Controle de Zoonoses não receberá em doação animais rejeitados ou abandonados por seus proprietários.
+
+
+#### CAPÍTULO VII — DA AUTORIDADE ZOOSANITÁRIA
+
+
+Art. 47.
+
+Compete a autoridade zoosanitária a execução das ações de controle de zoonoses e de fiscalização zoosanitária.
+
+
+Art. 48.
+
+A autoridade zoosanitária pode determinar a redução do número de animais em alojamento público ou privado.
+
+
+Art. 49.
+
+A autoridade zoosanitária, quando no exercício de suas funções, deve ter livre acesso às dependências do alojamento do animal.
+
+
+Parágrafo único.
+
+Para o cumprimento do disposto no "caput" deste artigo, quando do impedimento por parte do proprietário e/ou responsável pelo animal, pessoa física ou jurídica, pode a autoridade zoosanitária solicitar auxílio policial.
+
+
+#### CAPÍTULO VIII — DA MANUTENÇÃO DAS PROPRIEDADES EM RELAÇÃO AOS ANIMAIS SINANTRÓPICOS
+
+
+Art. 50.
+
+Ao Munícipe cabe a adoção de medidas necessárias para a manutenção de suas propriedades, habitadas ou não, para que estejam limpas e isentas de condições que propiciem a criação e proliferação de animais sinantrópicos.
+
+
+Parágrafo único.
+
+O controle de animais sinantrópicos em domicílio e em estabelecimento privado é de responsabilidade exclusiva do proprietário e/ou responsável pelo imóvel.
+
+
+Art. 51.
+
+É proibido o acúmulo de lixo, materiais inservíveis ou outros que propiciem a instalação e proliferação de roedores e outros animais sinantrópicos.
+
+
+Art. 52.
+
+Os estabelecimentos que estoquem ou comercializem pneumáticos e plantas são obrigados a mantê-los permanentemente livres de coleções líquidas, de forma a evitar a proliferação de insetos.
+
+
+Art. 53.
+
+Nas obras de construção civil é obrigatória a drenagem permanente de coleções líquidas, originadas ou não pelas chuvas, de forma a impedir a proliferação de insetos.
+
+
+Art. 54.
+
+As piscinas devem ser mantidas em perfeito estado de conservação, a fim de evitar a proliferação de insetos.
+
+
+Art. 55.
+
+Os responsáveis por cemitérios são obrigados a exercer rigorosa fiscalização em suas áreas, determinando a imediata retirada de quaisquer vasos ou recipientes que contenham ou retenham água em seu interior, permitindo apenas o uso daqueles que contenham terra, areia ou qualquer outro material ou artifício que não permita o acúmulo de água.
+
+
+Art. 56.
+
+Os proprietários, titulares ou herdeiros de jazigos são obrigados a mantê-los isentos de recipientes que propiciem o acúmulo de água.
+
+
+Parágrafo único.
+
+As lajes dos túmulos deverão ser construídas de forma a não acumular água.
+
+
+Art. 57.
+
+É proibido estimular a proliferação de pombos domésticos (Columba livia) ofertando alojamento e alimentação, a fim de evitar o descontrole populacional desta espécie e o consequente incômodo e risco à saúde pública.
+
+
+#### CAPÍTULO IX — DOS VEÍCULOS DE TRAÇÃO ANIMAL
+
+
+Art. 58.
+
+É proibido o uso de animais feridos, enfraquecidos ou doentes, em veículos de tração animal.
+
+
+Art. 59.
+
+É obrigatório sistema de frenagem nos veículos de tração animal.
+
+
+#### CAPÍTULO X — DAS INFRAÇÕES E SANÇÕES
+
+
+Art. 60.
+
+Constituem infrações zoossanitárias e contra os animais:
+
+
+I –
+
+manter animais alojados em locais que, pelo seu número e/ou condições de alojamento, favoreça a transmissão de doenças, a proliferação de vetores ou a reprodução animal sem controle;
+
+
+II –
+
+alojar animais em locais que permitam fugas ou coloquem em risco profissionais que necessitem aproximar-se dos limites da residência ou estabelecimento;
+
+
+III –
+
+não providenciar barreira física que impeça animais de fugirem e/ou agredirem terceiros e/ou outros animais;
+
+
+IV –
+
+permitir o livre acesso e a permanência de animais em vias e logradouros públicos sem o devido registro e cadastro junto ao Centro de Controle de Zoonoses;
+
+
+V –
+
+permitir a permanência em vias e logradouros públicos de fêmeas em período reprodutivo (cio) que venham a causar aglomeração de outros animais, favorecendo acidentes por mordedura e o aumento da população canina e felina;
+
+
+VI –
+
+abandonar cães e gatos em quaisquer vias, logradouro público ou local privado;
+
+
+VII –
+
+não permitir o acesso da autoridade zoosanitária às dependências do alojamento do animal;
+
+
+VIII –
+
+não comunicar, notificar ou buscar por assistência médica veterinária em caso de suspeita de zoonoses conforme disposto nesta Lei;
+
+
+IX –
+
+não vacinar cães e gatos para a raiva, especialmente quando estes residirem nas áreas de foco e perifoco da doença;
+
+
+X –
+
+deixar de comunicar o óbito de animal agressor dentro do período de 10 (dez) dias de observação para a raiva;
+
+
+XI –
+
+não manter restrito animal agressor durante o período de 15 dias de observação para a raiva;
+
+
+XII –
+
+não dar destinação adequada a carcaças de animais;
+
+
+XIII –
+
+deixar de registrar e identificar cães e gatos após o 6º (sexto) mês de vida;
+
+
+XIV –
+
+manter em propriedade privada acúmulo de lixo, coleções líquidas, materiais inservíveis, pneumáticos, sucatas, materiais de construção ou outros objetos que propiciem a instalação e proliferação de animais sinantrópicos;
+
+
+XV –
+
+manter em cemitérios quaisquer vasos ou recipientes que contenham ou retenham água em seu interior, bem como lajes construídas de forma a acumular água;
+
+
+XVI –
+
+manter nas edificações condições que propiciem a proliferação e permanência de animais sinantrópicos;
+
+
+XVII –
+
+estimular a proliferação de pombos domésticos (Columba livia) ofertando alojamento e alimentação;
+
+
+XVIII –
+
+o espancamento;
+
+
+XIX –
+
+o uso indevido ou excessivo de força;
+
+
+XX –
+
+mutilar órgãos ou membros;
+
+
+XXI –
+
+açoitar ou castigar;
+
+
+XXII –
+
+envenenar;
+
+
+XXIII –
+
+deixar o animal sem água e/ou comida por mais de um dia;
+
+
+XXIV –
+
+deixar o animal preso, sem condições de se proteger do sol e da chuva;
+
+
+XXV –
+
+deixar o animal em local insalubre;
+
+
+XXVI –
+
+expor, nos locais de venda, por mais de 12 horas, animais, sem a devida limpeza, privando-os de alimento e água.
+
+
+Art. 61.
+
+As penalidades previstas nesta Lei serão aplicadas aos proprietários e/ou responsáveis pela guarda do animal.
+
+
+Parágrafo único.
+
+Quando o ato danoso for cometido sob a guarda do preposto, estender-se-á a este a responsabilidade a que alude o presente artigo.
+
+
+Art. 62.
+
+Constatada existência de infração a autoridade zoosanitária pode aplicar as seguintes penalidades, de forma isolada ou cumulativa:
+
+
+I –
+
+advertência;
+
+
+II –
+
+pena educativa;
+
+
+III –
+
+multa;
+
+
+IV –
+
+apreensão do animal.
+
+
+Parágrafo único.
+
+As penalidades de que trata este artigo podem ser aplicadas independentemente de outras sanções decorrentes da legislação federal e/ou estadual.
+
+
+Art. 63.
+
+A pena educativa consiste na participação do infrator em:
+
+
+I –
+
+atividades educativas executadas pelo Centro de Controle de Zoonoses;
+
+
+II –
+
+campanhas de adoção de animais;
+
+
+III –
+
+atividades desenvolvidas pelo Centro de Controle de Zoonoses na comunidade;
+
+
+IV –
+
+atividades de registro e identificação de animais;
+
+
+V –
+
+atividades internas no Centro de Controle de Zoonoses.
+
+
+Art. 64.
+
+As infrações de natureza zoosanitária serão apuradas em processo administrativo próprio, observando-se a existência de circunstâncias atenuantes e/ou agravantes, que definirão a gravidade da infração, verificada pela autoridade zoosanitária.
+
+
+Art. 65.
+
+Serão aplicadas as seguintes multas a quem praticar infração, exemplificada ou não nos artigos anteriores, contra qualquer animal:
+
+
+I –
+
+leve: nos casos de infrações que não gerem lesões ou a morte do animal. Multa de R$ 1.000,00 (mil reais) a R$ 3.000,00 (três mil reais);
+
+
+II –
+
+média: nos casos de infrações praticadas dolosamente ou culposamente, que provoquem lesões ao animal, que não provoquem a morte do animal. Multa de R$ 3.000,00 (três mil reais) a R$ 6.000,00 (seis mil reais);
+
+
+III –
+
+grave: nos casos de abandono de animal sadio ou doente bem como infrações praticadas dolosamente ou culposamente, que provoquem a morte do animal. Multa de R$ 6.000,00 (seis mil reais) a R$ 8.000,00 (oito mil reais).
+
+
+Art. 66.
+
+Em caso de reincidência a multa será aplicada em dobro, após o cálculo nos termos dispostos no artigo anterior.
+
+
+Art. 67.
+
+São circunstâncias atenuantes:
+
+
+I –
+
+ser primário o infrator;
+
+
+II –
+
+não ter sido a ação do infrator fundamental para a ocorrência do evento; ou
+
+
+III –
+
+procurar o infrator, espontaneamente, reparar ou minimizar as consequências do ato lesivo a saúde pública, que lhe foi imputado.
+
+
+Art. 68.
+
+São circunstâncias agravantes:
+
+
+I –
+
+ter o infrator desrespeitado orientação da autoridade zoosanitária;
+
+
+II –
+
+ter o infrator agido com dolo.
+
+
+Art. 69.
+
+São consideradas infrações:
+
+
+I –
+
+leves: aquela em que exista circunstância atenuante;
+
+
+II –
+
+graves: aquela em que exista uma circunstância agravante;
+
+
+III –
+
+gravíssimas: aquela em que existam duas circunstâncias agravantes.
+
+
+Art. 70.
+
+A pena de multa não excluirá, conforme a natureza e a gravidade da infração, a aplicação de qualquer outra penalidade prevista nesta Lei.
+
+
+Art. 71.
+
+A reincidência da infração de mesma natureza autoriza, conforme o caso, a definitiva apreensão do animal, a interdição do local ou estabelecimento ou a cassação do alvará.
+
+
+Art. 72.
+
+As autoridades zoosanitárias são competentes para aplicação das penalidades previstas nesta Lei.
+
+
+Parágrafo único.
+
+O desrespeito ou desacato à autoridade zoosanitária, ou ainda, a obstaculização ao exercício de suas funções, sujeitarão o infrator à pena de multa, sem prejuízo das demais penas cabíveis.
+
+
+Art. 73.
+
+Sem prejuízo das penalidades previstas nesta Lei, o proprietário ou responsável pelo animal apreendido, ficará sujeito ao pagamento de despesas com transporte, de alimentação, e outras.
+
+
+#### CAPÍTULO XI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 74.
+
+O Município de Formosa-GO não responde por indenizações nos casos de:
+
+
+I –
+
+danos, lesões ou óbito do animal apreendido;
+
+
+II –
+
+danos materiais ou pessoais causados por animais durante o ato da apreensão;
+
+
+III –
+
+furto de animais;
+
+
+IV –
+
+acidentes causados por animais soltos em vias ou logradouros públicos, ou contidos em domicílio;
+
+
+V –
+
+danos causados ou acometimento de doença de animais adotados através do Centro de Controle de Zoonoses;
+
+
+VI –
+
+danos causados por animal comunitário.
+
+
+Art. 75.
+
+Os valores arrecadados em virtude da aplicação desta Lei reverterão ao Fundo Municipal do Meio Ambiente para controle de redução, palestras e outros mecanismos de conscientização, destinadas as causas animais.
+
+
+Parágrafo único.
+
+Será dada transparência, mensalmente, por meio do site da Prefeitura de Formosa, dos valores arrecadados em virtude da aplicação desta Lei.
+
+
+Art. 76.
+
+O Poder Executivo poderá regulamentar esta Lei no prazo de 120 (cento e vinte) dias, contados da data de sua publicação, se necessário for.
+
+
+Art. 77.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 20 de julho de 2022.
+
+Gustavo Marques de Oliveira
+
+Prefeito Municipal
+
+Afixado no "placard" de publicidade.  
+E encadernado em livro próprio.  
+Data supra  
+......................................................................................................  
+Iany Macêdo Troncha  
+Superint. Executiva de Documentação e Legislação  
+Decreto nº 21, de 04 de janeiro de 2021.

@@ -1,0 +1,28 @@
+{
+  "estado": "indice_completo",
+  "total": 1,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/1/anexo_da_lei_1340.pdf da norma Lei Ordinária nº 1.340, de 15 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bonito.pe.leg.br/media/sapl/public/anexonormajuridica/2024/1/anexo_da_lei_1340.pdf",
+      "ano": 2024,
+      "norma": 104
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bonito.pe.leg.br/569c85882b6bbc05b6cc7510cbf0a83bf49b5d94627a3e1a76745ded4d459b59.json",
+      "url": "https://sapl.bonito.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bonito.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "37ffc08e0e1d8c4870e4b15846153bce2f92567ea8699fe5d2e206de991aba8a",
+      "bytes": 557,
+      "capturado_em": "2026-10-27T19:36:17.291091-03:00"
+    }
+  ]
+}

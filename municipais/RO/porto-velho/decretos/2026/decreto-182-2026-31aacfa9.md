@@ -1,0 +1,35 @@
+---
+titulo: "DECRETO Nº 182/CMPV-2026"
+uf: "RO"
+municipio: "PORTO VELHO"
+tipo: "Decreto"
+numero: "182"
+data: 
+ano: "2026"
+revogada: false
+versao_texto: "publicação original"
+publicacao: "Diário Oficial de 20/04/2026"
+data_publicacao: 2026-04-20
+codigo_identificador: "31AACFA9"
+fonte: "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116048_2026-04-17_fb1088b970ba70e849c4918e480f6d0b.pdf"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 182/CMPV-2026
+
+DECRETO Nº 182/CMPV-2026
+
+NOME
+
+NOME
+DE
+Ketlen Caroline Ferreira Cavalcante Assessor
+Soares
+CC-37
+
+CC
+05
+
+FRANCISCO GEDEÃO BESSA HOLANDA DE NEGREIROS
+Presidente Da Câmara Municipal De Porto Velho
+Publicado por:
+Fernanda Santos Julio

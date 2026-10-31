@@ -1,0 +1,60 @@
+---
+titulo: "LEI ORDINÁRIA nº 190, de 19 de novembro de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "190"
+data: "2004-11-19"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/342"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/837/text"
+sha256_fonte: "5f6429ae86484d721a01136287036bdf34ff36e946cf75d6be73108f5dea3e95"
+sha256_texto: "28e12e8f2bf18410ba142d93792926d019417bbcc04b92217bef2b5b7ab1de21"
+capturado_em_fonte: "2026-10-27T20:35:40.489097-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 190, de 19 de novembro de 2004
+
+DENOMINA CENTRO DE SAÚDE PEDRO DA COSTA FILHO (BEU COSTA) NO BAIRRO CENTRO EM CABECEIRA GRANDE.
+
+
+**O PREFEITO MUNICIPAL DE CABECEIRA GRANDE (MG)**
+
+Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+É denominado Pedro da Costa Filho (Beu Costa) – o Centro de Saúde Municipal de Cabeceira Grande, localizado na Rua São José S/N, - Bairro Centro, na Sede do Município.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande (MG), 19 de novembro de 2004.
+
+**JOÃO BATISTA ROMUALDO DA SILVA**
+
+**Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+
+
+**Pedro da Costa Filho (Beu Costa)**
+
+Nasceu no dia 28 de junho de 1905, na fazenda Boa Vista em Cabeceira Grande - MG, filho de Pedro da Costa Vale e Carolina Caetana de Salles, seus irmãos: Ana Costa Vale, José da Costa Vale, Filomena da Costa Vale, Francisca da Costa Vale, Violanta da Costa Vale, Odete da Costa Vale, Abel da Costa Vale, Antônio da Costa Sobrinho, João da Costa Vale e Honorinha da Costa Vale. Estudou na fazenda Moreira com um professor particular o francês Paulo. Beu Costa como era popularmente conhecido foi um homem trabalhador, sério, honesto, inteligente e caprichoso com suas atividades comerciais. Beu Costa foi peão de boiadeiro do Sr. Delduque Pinheiro, que mais tarde, passou a gerenciar seus próprios negócios. Casou-se com Leonor Martins Costa e tiveram sete filhos, Dider da Costa Vale, Walter da Costa Vale, Vinício da Costa Vale, Célia da Costa Vale. Ficou viúvo na década de 40. Viveu com Amélia Barbosa com a qual teve um filho Pedro Olinto da Costa, em 1940 comprou a Fazenda São Bento. Após a morte de seus pais comprou todas as propriedades de seus irmãos, fazenda Bolívia denominada Baixão. Foi sócio do agrimensor Nemérsio trabalhando por vários anos. Assinou a ata de instalação do Município de Unaí no dia 01 de janeiro de 1944, sendo a 18ª assinatura. Do segundo casamento com Maria de Sousa Souto, vieram quatro filhos: Maria Vitória Costa, Maria Elena Costa, Maria Celestina Costa e Wilson Costa Vale. Em 1950 fez a doação de 38 hectares de terra à Prefeitura Municipal de Unaí em parceria com o Senhor Trajano Caetano que comprou duas glebas de terras uma de Valeriano Francisco das Neves e outras de Manuel Mariano de Oliveira Para que fosse ligada a terra doada por Pedro da Costa Filho e ali se formasse o Patrimônio. São José, hoje cidade de Cabeceira Grande - MG, cidade que nasceu do sonho e o esforço de dois amigos que não mediram esforços para realizar o sonho de fundar uma cidade, que passa a ser distrito de Unaí criado pela lei número 2764 em 30 de junho de 1962. Em 1959 juntamente com outros fazendeiros criaram a associação Rural de Unaí - MG, onde foi o quarto integrante dessa associação, que mais tarde tranformou-se em Sindicato Rural de Unaí, participou como expositor e gado Gir que era a sua grande paixão por seguidos anos. Representou Cabeceira Grande-MG em várias Exposições Agropecuárias como: Uberaba - MG, Ipameri - MG, Formosa - GO, Pedro Leopoldo e Unaí - MG. Em 24 de maio de 1964, juntamente com outros fazendeiros fundaram a Cooperativa Agropecuária de Unaí - MG onde foi sócio como grande produtor de leite. Era proprietário da fazenda Bolívia, Baixão, onde se destacou como produtor de leite, arroz , milho, feijão e café. Homem de coragem, trabalhador, inteligente e um grande articulador político de nossa região, doador majoritário das terras do município de Cabeceira Grande - MG, hoje seu nome não é lembrado, seu grande sonho era ver Cabeceira Grande emancipada, pois segundo ele tinha grande possibilidade de crescer devido a sua localização, sabia que Cabeceira Grande se tornaria uma Cidade hospitaleira e acolhedora como é hoje. Ele não assistiu nem participou do crescimento da Cidade que ele fundou pois teve pouco tempo de vida, um câncer no estômago lhe ceifou a vida em 15 de março de 1978, deixando um enorme vazio na vida dos amigos e familiares pois era líder, conselheiro e amigo de todos.
+
+Pedro da Costa Filho (Beu Costa)
+
+Nascimento: 28/06/1905
+
+Falecimento:15/03/1978
+

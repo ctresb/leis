@@ -1,0 +1,430 @@
+{
+  "criterio": "Consulta a relação oficial completa de anexos SAPL e sinaliza conteúdo omitido.\n\nCache imutável por URL, serialização por host com as travas dos coletores,1rps.\nNenhum erro/bloqueio significa ausência de anexo. Não altera documentos/lotes.\n",
+  "listas_substituidas_para_publicacao": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0003/pre-selecao.paths.txt",
+      "sha256": "df2def1cb07be4209bfa409531935da1131cb2b2bffbcaea377ec56ae0d3aec9"
+    }
+  ],
+  "aprovados": [
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2014/resolucoes-1-2014-sapl-151.md",
+      "sha256": "c5b584db9622a4d437b8f2a90edf242624527bd2005fdc49376cb383e39c8586",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/151",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "151",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2018/resolucoes-1-2018-sapl-145.md",
+      "sha256": "fa802e23794d1692851dbd42cad228ced5b8d614c87b23c305044694ac9c06fe",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/145",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "145",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2018/resolucoes-3-2018-sapl-146.md",
+      "sha256": "c08493c96ba4ba179486d290ed14591709d03f3ea17cd80f700b4e869b5b02ed",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/146",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "146",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-1-2021-sapl-130.md",
+      "sha256": "fc24d5090bd181b9582ffb6cb707e01a130cd0a6ddb519b1d7d7f7fb0dc46311",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/130",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "130",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-2-2021-sapl-131.md",
+      "sha256": "549b861a8d62dad680acb3761220f798746eb98d79dcb5fb7931b1a85300ebe8",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/131",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "131",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-3-2021-sapl-133.md",
+      "sha256": "6ff95e2e5a3b2c624961c2da7412d66095f70e00163ed0023c292fc77731a318",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/133",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "133",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-8-2021-sapl-141.md",
+      "sha256": "debf66b10eb1ae7cf4cfd5a54c3b9e1b3b1d134e1e26da167f8a5d39a27baa99",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/141",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "141",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2021/resolucoes-9-2021-sapl-142.md",
+      "sha256": "3ee96d665849c67768ca66de54af1315448be40a41b77d3627a2dee57145f050",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/142",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "142",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-1-2023-sapl-123.md",
+      "sha256": "30861ad3455a6d6e9e305cabd402b7ce0c548eb061dd26ad04d6fe4de1061991",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/123",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "123",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-3-2023-sapl-124.md",
+      "sha256": "34ea6e8a16cd995f41a7278f13535e73885f73809baf7036f538d5469ceac984",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/124",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "124",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-4-2023-sapl-125.md",
+      "sha256": "f4a505aaf5035347ef8bb457db90952dc8a1da492c0a4fdc936174bf1f83ded7",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/125",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "125",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-5-2023-sapl-126.md",
+      "sha256": "d967cb2f23a4c581af520b330bad42c4f7e3fc741bc77152e238dc39b915ad15",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/126",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "126",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-6-2023-sapl-127.md",
+      "sha256": "cadfdcd1bd9c65a6ffe0134a7f33d6e23e8e25a775acfdf8deb272e8a3839d33",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/127",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "127",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-2-2024-sapl-121.md",
+      "sha256": "a8a4b10105c80bbba7ba2e835594c35c06960d5da5419ffbdc10a2ce66b2374c",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/121",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "121",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-3-2024-sapl-122.md",
+      "sha256": "e95919cde17cd7bccb9aedc684d8d9da18c8b8723ef7c57a050ff0b692dfa68e",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/122",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "122",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-5-2024-sapl-5.md",
+      "sha256": "ff7631a6abd4969eda319c6c39f43e18368f613e110fdc84df16a7993826d44d",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/5",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "5",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2025/resolucoes-1-2025-sapl-144.md",
+      "sha256": "2bcb31d69e30c88f6140d42a0c9ccad178ffb14f38f64ec4dbd12a206c8e79aa",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/144",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "144",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2026/resolucoes-1-2026-sapl-159.md",
+      "sha256": "1ff9eafe6715791fa9dbb89bbe526c37d98a93ebf3f3049d9fcda62b5a3b0b0e",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/159",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "159",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2022/resolucoes-1-2022-sapl-493.md",
+      "sha256": "4a2bf7f05cbf0a89d2d0e45fd4b9f4315246408dba7888b31e369ba996deb640",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/493",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "493",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-1-2024-sapl-482.md",
+      "sha256": "cb143db138979e1f63372cd194d72c91fa22e1e8df5a2662474d13692b4d4417",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/482",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "482",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-2-2024-sapl-483.md",
+      "sha256": "9e1e6bb673aa8562bf95223b80333c007bbaa42c80c7784bc0f947e73d474a38",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/483",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "483",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-3-2024-sapl-484.md",
+      "sha256": "2c7cf38cccf409285bfe08f63fef5025035ef084ed3f2817539a1efc2fea3f8a",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/484",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "484",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2024/resolucoes-4-2024-sapl-485.md",
+      "sha256": "f0764fcff0f21d8718937ba98c4d98db183fce99564507d48d1cf2a0a9cb53b5",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/485",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "485",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-1-2025-sapl-30.md",
+      "sha256": "d687a37bb756363dfa8421b5f2599e07576e27e40db69f9c3c08c24e069fdd2f",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/30",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "30",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-2-2025-sapl-31.md",
+      "sha256": "2038bc017f0bc0c4178581f8a94da3cf3a3e93ef4c8ee78eb5166e5394023e81",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/31",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "31",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2025/resolucoes-4-2025-sapl-527.md",
+      "sha256": "522bfc176c57039b440dd67b707ddc0b6cbdb9cac6084c29bc8f91663656607d",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/527",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "527",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/sao-jose-do-serido/resolucoes/2026/resolucoes-1-2026-sapl-642.md",
+      "sha256": "28db2c6ec25a1a530f5b8708055c0a603a6444e374abcc03da35c849a7616761",
+      "fonte": "https://sapl.saojosedoserido.rn.leg.br/norma/642",
+      "host": "sapl.saojosedoserido.rn.leg.br",
+      "id": "642",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    }
+  ],
+  "retidos": [
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2013/resolucoes-1-2013-sapl-152.md",
+      "sha256": "840f01974450af4b9f16900f121f05504c15bc71d472b9d063645c93632e4852",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/152",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "152",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 2227,
+          "trecho": "elaborar relatórios, dentro outras que lhe forem atribuídas.\n\n**Art. 8°** - As remunerações dos cargos citados neste artigo são aquelas constantes do Anexo I da presente resolução.\n\n**Art. 9°** - A jornada de trabalho dos ocupantes dos cargos criados nesta resolução não poderá ser inferior a 30 (trinta) horas semanais.\n\n**Art. 10°** - A investidura em cargo criado por essa resolução cessa: a. Por exone"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2013/resolucoes-4-2013-sapl-154.md",
+      "sha256": "c5aaba235a70f721aca29e0e388ae24f4ce5c254a76cb1469abc6b3848ca1d71",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/154",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "154",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1001,
+          "trecho": "ento do Cronograma de Implementação das novas regras a serem aplicadas a Contabilidade Pública do Poder Legislativo Municipal de Parelhas, conforme o Anexo Único.\n\n**Art. 2°** - Esta Resolução entra em vigor na data de sua publicação.\n\nCâmara Municipal de Parelhas (RN), em 30 de agosto de 2013.\n\nMARIA DA GUIA DANTAS ARAÚJO Presidente\n\nMESSIAS MEDEIROS 1° Secretário\n\nPublicado por: FRANCIMARA ALVES DOS "
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2013/resolucoes-5-2013-sapl-155.md",
+      "sha256": "1d32799bf3856bc9c320bfddaad413d288d9cb41a9efcd0f75b5ee38ead6608a",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/155",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "155",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 6677,
+          "trecho": ", conforme necessidade ou a critério de seu superior;\n\n**Art. 5°** - As remunerações dos cargos citados nos artigos acima serão aquelas constantes do Anexo I da presente resolução.\n\n**Art. 6°** A jornada de trabalho dos ocupantes dos cargos criados nesta Resolução não poderá ser inferior a 30 (trinta) horas semanais.\n\n**Art. 7°** - A nomeação dos cargos criados nesta resolução, só poderá ser efetivada "
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2023/resolucoes-7-2023-sapl-128.md",
+      "sha256": "152c257b3d43fba7f33c07afc19f5faf534190b0ba87f17f5c6cdacc3763f686",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/128",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "128",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 2621,
+          "trecho": "revistas em Lei e no Regimento Interno desta Casa Legislativa:\n\nI - examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos anexos, quando encaminhados pelo agente de contratação, pregoeiro, ou Comissão de Contratação;\n\nII - autorizar a contratação direta por dispensa do procedimento licitatório ou sua inexigibilidade;\n\nIII - autorizar a abertura de procedimento licitatório e e"
+        },
+        {
+          "offset": 15266,
+          "trecho": "igatoriamente no Diário Oficial da FECAM/RN, bem como em jornal diário de grande circulação.\n\n**§3º** Será mantido o inteiro teor do edital e de seus anexos no site oficial da Câmara Municipal de Parelhas/RN.\n\n**§4º** Após a homologação do processo licitatório, serão disponibilizados no Portal Nacional de Contratações Públicas (PNCP) e também no sítio referido no § 3º deste artigo, os documentos elabora"
+        },
+        {
+          "offset": 15599,
+          "trecho": "P) e também no sítio referido no § 3º deste artigo, os documentos elaborados na fase preparatória que porventura não tenham integrado o edital e seus anexos, conforme art. 54, §3º da Lei nº 14.133/2021.\n\n##### Seção IV Dos Contratos Administrativos\n\n**Art. 20** Os contratos administrativos celebrados pela Câmara Municipal de Parelhas/RN, assim como os aditamentos respectivos, serão divulgados no Portal "
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/RN/parelhas/resolucoes/2024/resolucoes-1-2024-sapl-120.md",
+      "sha256": "8e2517026c14bdee8d1b482a218682b318553b9b7c516b5483fb084098ffdda5",
+      "fonte": "https://sapl.parelhas.rn.leg.br/norma/120",
+      "host": "sapl.parelhas.rn.leg.br",
+      "id": "120",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 3479,
+          "trecho": " uma única vez, por igual período.\n\n**§ 3º** - Após a resposta conclusiva, será encaminhado ao usuário, pesquisa de satisfação do serviço, conforme o anexo I da presente resolução.\n\n**Art. 4º** - A Ouvidoria Legislativa será composta por servidor designado para o cumprimento das atividades funcionais pertinentes, sob a coordenação de um Ouvidor-Geral, que será designado pelo Presidente da Câmara Munici"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    }
+  ]
+}

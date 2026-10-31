@@ -1,0 +1,197 @@
+{
+  "datas_claras_conferidas": 484,
+  "divergencias": [
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2004/emendas-lei-organica-10-2004-sapl-1275.md",
+      "sha256": "48bea605bddaf41fcc0c500260fb0df597c637942fb8185bfc03e269b287ac88",
+      "data_metadado": "2004-10-07",
+      "data_epigrafe": "2004-12-07",
+      "trecho": "                    EMENDA N.º 10, DE 7 DE DEZEMBRO DE 2004\n             À LEI ORGÂNICA DO MUNICÍPIO DE DOMINGOS MARTINS.\n\n                                              Altera, acrescenta e revoga dispositivos da Lei\n      ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6d42d67c5acf162b6d1bc01ce008887e8a6610594779df354b57a2cc434e3a00.json.gz"
+    },
+    {
+      "path": "municipais/MG/timoteo/emendas-lei-organica/2018/emendas-lei-organica-36-2018-sapl-5964.md",
+      "sha256": "dc99b3580408228c396e09b452911839d7885d7974c54a0e83857322e0a75639",
+      "data_metadado": "2018-12-02",
+      "data_epigrafe": "2018-12-03",
+      "trecho": "  EMENDA Nº 036, DE 3 DE DEZEMBRO DE 2018 , À LEI DE ORGANIZAÇÃO\n                       MUNICIPAL DE TIMÓTEO\n\n\n\n                                               Altera a redação do § 5º do art. 126 da\n      ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a0ef13b4478c2d41873b1f3a708392afd61d6b8f5d93fe3baa95ec7b79b8278a.json.gz"
+    },
+    {
+      "path": "municipais/MG/unai/emendas-lei-organica/1997/emendas-lei-organica-20-1997-sapl-4309.md",
+      "sha256": "f7ddb499f6af3a4a1c69a1dcf2da1587487e609d824beac53e3c7c1f3ab84a4e",
+      "data_metadado": "1997-12-09",
+      "data_epigrafe": "1999-12-09",
+      "trecho": "            EMENDA À LEI ORGÂNICA N. º 20, DE 9 DE DEZEMBRO DE 1999.\n\n\n\n\n                                                               Acrescenta dispositivo ao art. 221 da Lei Orgânica\n                                            ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/60e0127ed0bef17338addb11b415cdb246ed3e1a158b233100f99df2729639db.json.gz"
+    },
+    {
+      "path": "municipais/MG/luz/leis-ordinarias/2023/leis-ordinarias-2876-2023-sapl-357.md",
+      "sha256": "4823cd47ee429d86a7f49766c9d5340522f8efef8f52b94005e2ac84c8796b74",
+      "data_metadado": "2023-04-03",
+      "data_epigrafe": "2023-04-14",
+      "trecho": "                             LEI 2.876 DE 14 DE ABRIL DE 2023\n\n\n                                                     AUTORIZA             ABERTURA             DE   CRÉDITO\n                                              ESPECIAL\n\n ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e766ab0133d939223313909a328e1349aefc48ddadb58fbd9b73ce031c63f567.json.gz"
+    },
+    {
+      "path": "municipais/MG/luz/leis-ordinarias/2024/leis-ordinarias-2961-2024-sapl-212.md",
+      "sha256": "a7224dde246f16e1739ecd8843ed88936e842656bdb98f1c0ebbafcb59769326",
+      "data_metadado": "2024-12-19",
+      "data_epigrafe": "2024-09-19",
+      "trecho": "                  LEI Nº 2.961, DE 19 DE SETEMBRO DE 2024.\n\n                                     AUTORIZA O MUNICÍPIO A INDENIZAR LM\n                                     TRANSPORTES INTERESTADUAIS SERVIÇOS E\n            ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8b67cba5e3e0a3a3a123700c88667c1f6ed3dc17c3c6c95cce161f9b23aee698.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0002-2025-sapl-435.md",
+      "sha256": "e736a5b106986e6ff5db00678e09e6ea688246d20c80f985f281978a29f8ded7",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 02/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                                “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o Presiden",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1226bc4532d7eacfaa6b067907197f6271e706dd0e560f848493b40cc7e5f060.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0003-2025-sapl-436.md",
+      "sha256": "c83bd7cb361490a41ff11a29aea579338ead6e414b8ffc9c89ad2620acba341e",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 03/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                              “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o Presidente",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e006587f1c4094102f00e49c5f7004b5783bb59ca1f52a80fbf38bc83b5b82fb.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0004-2025-sapl-437.md",
+      "sha256": "064474709c8a161ae6a17d9a3097617d73a9266ba97e544472c90387d75c49f2",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 04/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                               “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o President",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/34a642cc304ed3b7249301dc863cd1a9a754139765fe2e761f8ea5d7bd60f93f.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0005-2025-sapl-438.md",
+      "sha256": "2888bf7ef6d407ed655d6e9707cda87737b1a99e54b3d12112ba62a1670c35d3",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 05/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                               “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o President",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/64f002813da4282e2f9386812ab9fe036b6c23f24fe52ba59df464c2a9a7fc74.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0006-2025-sapl-439.md",
+      "sha256": "f49e67b7cb95241d0ea7841d4c385ba99ea285fb37c8188a785efcea7929c942",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 06/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                              “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n        A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o\nPresiden",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/265ad51d6a2bd280a117616c74d22148dca3938c1464dca70ad75fd3194cfbf5.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0007-2025-sapl-440.md",
+      "sha256": "0f9b54c0c1fac4edb732f763e2b3e32a71ac54fbffc002e7bf393ce4619cb181",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 07/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                               “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o President",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9c10ff6f0b3c95091432ae7ce0a4955e3c7aec066f9aa46173d585c03a3145f8.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0008-2025-sapl-441.md",
+      "sha256": "8c32ac0539c836cd64c2749ccaaa34020dd9a469c48c0a28b21cd1737500327d",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 08/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                              “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o Presidente",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e5fd1d8f9d95121acd529bc9e3c2003e3a97ee9ced7e2c5066bca8685c3be2d5.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0009-2025-sapl-442.md",
+      "sha256": "241de7a42767b342ee7f65f513cc8d613b97094ed0b76087353421b9b0471b55",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "       DECRETO LEGISLATIVO Nº 09/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                               “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o President",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8253dabf30e6e2ca14a1278aad85b01b52c8267e9318650096477a675e05c215.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0010-2025-sapl-443.md",
+      "sha256": "077829fea7276d6d826b088c22f9792d5bbde951969e7e13443f99ee939a3c7a",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "      DECRETO LEGISLATIVO Nº 010/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                               “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o President",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/fbdcbba166abb9f02e11ca0b753f5d647bbab325665833f4c27e8cba7c829c8d.json.gz"
+    },
+    {
+      "path": "municipais/MG/perdizes/decretos-legislativos/2025/decretos-legislativos-0011-2025-sapl-444.md",
+      "sha256": "5319a3691fd8a598906200fb6a480fea616432b2b40620a4d0c66bc5bf466a1f",
+      "data_metadado": "2025-07-29",
+      "data_epigrafe": "2025-07-28",
+      "trecho": "      DECRETO LEGISLATIVO Nº 011/2025, DE 28 DE JULHO DE 2025.\n\n\n\n                               “CONCEDE TÍTULO DE CIDADÃO HONORÁRIO”.\n\n\n\n      A Câmara Municipal de Perdizes, Estado de Minas Gerais, aprovou e o President",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2f9779d9d30b8b4aff5a6ae68a19030c1b2b9bea6bb09b56d4ce03e4bbf5d1ad.json.gz"
+    },
+    {
+      "path": "municipais/MG/araguari/emendas-lei-organica/1996/emendas-lei-organica-3-1996-sapl-6.md",
+      "sha256": "2f74783cf738265aa2db20dba30ea46b934490bc0b337d07729a2954683217f8",
+      "data_metadado": "1996-06-28",
+      "data_epigrafe": "1996-06-02",
+      "trecho": "\n\n\n\n\n      EMENDA À LEI ORGÂNICA Nº 3, DE 02 DE JUNHO DE 1996.\n\n\n\n                                                CONTÉM EMENDA À LEI\n                                                ORGÂNICA        DESTE\n                       ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/475cbb33f605bd555ed301c2167a711e4040a6e35c0c62efc874ad3995a759fb.json.gz"
+    },
+    {
+      "path": "municipais/MG/araguari/emendas-lei-organica/1997/emendas-lei-organica-7-1997-sapl-10.md",
+      "sha256": "b61accedd1b488786aa5cd3d0a6c3fc6e556cc30bbec481f0070cc4eb24ce347",
+      "data_metadado": "1997-11-23",
+      "data_epigrafe": "1997-09-23",
+      "trecho": "\n\n\n\n\n EMENDA À LEI ORGÂNICA Nº 7, DE 23 DE SETEMBRO DE 1997.\n\n\n\n                                                CONTÉM EMENDA À LEI\n                                                ORGÂNICA       DESTE\n                     ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/664021e987a455cb14744a87edc45e0847d685f1b3e1f96550d6dce60eafb920.json.gz"
+    },
+    {
+      "path": "municipais/MG/araguari/emendas-lei-organica/2011/emendas-lei-organica-36-2011-sapl-39.md",
+      "sha256": "cb0b8e0d7d2abe66496293577c699006dbea64778860f4f5714490610ccd3d5d",
+      "data_metadado": "2011-11-20",
+      "data_epigrafe": "2011-09-20",
+      "trecho": "\n\n\n\n\n EMENDA À LEI ORGÂNICA Nº 36, DE 20 DE SETEMBRO DE 2011.\n\n\n\n                                                 ALTERA A REDAÇÃO DO\n                                                 ARTIGO      20,  DA LEI\n                ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ac2a38e17cfd17da59f5eec5ed2936d5458f3accf453a400682152e252f7d232.json.gz"
+    },
+    {
+      "path": "municipais/PR/tomazina/leis-ordinarias/2011/leis-ordinarias-312-2011-sapl-494.md",
+      "sha256": "fd1cbaa8bd993e63a0679ba6268d963d404f5ef22b8cea28c9a103ca3ca63ba3",
+      "data_metadado": "2011-11-18",
+      "data_epigrafe": "2011-05-18",
+      "trecho": "\n\n\n\n\n          LEI Nº 312/2011 de 18 de maio de 2011\n\n\n       SUMULA: Concede aumento salarial de 6,5 %, para todo\n               o funcionalismo público do Município de\n               Tomazina, excluindo-se os carg",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/208633bec66ce332124aa192ad203efa4ad36da6e82ab115afcea207364e3857.json.gz"
+    },
+    {
+      "path": "municipais/RS/xangri-la/emendas-lei-organica/2025/emendas-lei-organica-1-2025-sapl-4420.md",
+      "sha256": "45225abb798b7cd86f584f7af264c6ee5ad32f5ee6fbe797508abbb0b340c278",
+      "data_metadado": "2025-10-01",
+      "data_epigrafe": "2025-09-24",
+      "trecho": "\n\n                                    EMENDA À LEI ORGÂNICA Nº 01, DE 24 DE SETEMBRO DE\n                                    2025\n                                    “Altera dispositivos no artigo 11, da Lei Orgânica Municipal.”.\n                          ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a14a15a6ea6d99d36fcfb0840cb4d2851b348a637a786de93e3eae5f6fafa830.json.gz"
+    },
+    {
+      "path": "municipais/RS/xangri-la/emendas-lei-organica/2026/emendas-lei-organica-1-2026-sapl-4527.md",
+      "sha256": "91ce28d4931d7427a50c55d42491de222c6928d8e20153ebf5b6d17c7dcad0eb",
+      "data_metadado": "2026-01-07",
+      "data_epigrafe": "2026-01-06",
+      "trecho": "\n                                          EMENDA À LEI ORGÂNICA Nº 01, DE 06 DE JANEIRO DE 2026\n\n\n\n                                    ATO DE PROMULGAÇÃO Nº 01/2026\n\n                                                              “Promulga o Projeto de Emenda à",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/19809f75b837161bd95bc163f77f916e499544ae013fedf98d476e18370c8435.json.gz"
+    },
+    {
+      "path": "municipais/MG/luz/leis-ordinarias/2023/leis-ordinarias-2912-2023-sapl-259.md",
+      "sha256": "a6e416889f86b9503d11d4fc664ffe46902e205e6d684b46043ed4d8c3dbae3d",
+      "data_metadado": "2023-11-14",
+      "data_epigrafe": "2023-10-24",
+      "trecho": "                       LEI 2.912 DE 24 DE OUTUBRO DE 2023\n\n\n\n                                AUTORIZA ABERTURA DE CRÉDITO SUPLEMENTAR\n\n\n                                A Câmara Municipal de Luz, Estado de Minas Gerais,\napro",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/934b203792be0d72a70a4872bd42c6442c131517eea6f05202c4ecc19eef0f64.json.gz"
+    },
+    {
+      "path": "municipais/MG/araguari/emendas-lei-organica/2022/emendas-lei-organica-53-2022-sapl-68.md",
+      "sha256": "cade9958576cf027ce0028b4e2fae71e3a10edbfc4a5f26555666fe876820266",
+      "data_metadado": "2022-03-31",
+      "data_epigrafe": "2022-05-31",
+      "trecho": "\n\n\n        EMENDA À LEI ORGÂNICA Nº 53,\n        de 31 de maio de 2022.\n\n\n       “Transforma o parágrafo único em § 1º e acrescenta § 2º ao art. 7º, da Lei Orgânica\n       do Município de Araguari-MG, que dispõe sobre os símbolos",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/bd0edf3d19670eb4eda25ee77c676370e85f9d640c2c5af3a34802c9cc690c0e.json.gz"
+    },
+    {
+      "path": "municipais/MT/barra-do-garcas/emendas-lei-organica/2011/emendas-lei-organica-18-2011-sapl-195.md",
+      "sha256": "ef78ce56d83611ea465e152b4da33543feb5e667d425400207cc1668929bf00c",
+      "data_metadado": "2011-11-19",
+      "data_epigrafe": "2011-10-19",
+      "trecho": "\n\nEMENDA 018/2011, DE 19 DE OUTUBRO DE 2011, À LEI ORGÂNICA DO MUNICÍPIO DE\nBARRA DO GARÇAS.\nProposta de Emenda n.º002, de 09/08/2011, de autoria dos Vereadores da Câmara Municipal.\n\n\n\n\n                ",
+      "evidencia": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d10bcbb65e0204e27bb5ef66ced63943c9806acb3f6c4391ea259b8d668e0885.json.gz"
+    }
+  ]
+}

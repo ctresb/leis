@@ -1,0 +1,349 @@
+---
+titulo: "Lei Ordinária nº 168, de 08 de setembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "168"
+data: "1999-09-08"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2013-06-18; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/62"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1615/text"
+sha256_fonte: "900487646e8674697f5be6fecd1e049362fad55c7fd898b0790bb9787574260c"
+sha256_texto: "914a79bb63cf10621596ec7dc7ef34e5e36bf40aae9fe3f5b0ad59a7866a1995"
+capturado_em_fonte: "2026-10-28T12:18:17.318098-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 168, de 08 de setembro de 1999
+
+Institui o Conselho Municipal de Turismo - COMTUR e dá outras providências.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 19, de 28 de junho de 2005.
+
+
+A Câmara Municipal de Formosa, Estado de Goiás, aprovou e eu, JAIR GOMES DE PAIVA, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a instituir o Conselho Municipal de Turismo – COMTUR – de caráter consultivo de funcionamento permanente.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 44, de 18 de junho de 2013.
+
+
+Art. 2º.
+
+Ao Conselho Municipal de Turismo - COMTUR compete:
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 19, de 28 de junho de 2005.
+
+
+I –
+
+promover o entrosamento entre as atividades desenvolvidas pelo Poder Executivo Municipal, órgãos, entidades públicas e privadas voltadas para o desenvolvimento do turismo do município;
+
+
+II –
+
+apreciar o Plano Municipal de Turismo - PMT, e emitir parecer conclusivo atestando a sua viabilidade técnico-financeiro, a legitimidade das ações propostas em relações às demandas das formuladas pelos empregados e empregadores do ramo de Turismo, e recomendando a sua execução;
+
+
+III –
+
+exercer vigilâncias sobre as execuções das ações previstas no PMDT;
+
+
+IV –
+
+sugerir ao Poder Executivo Municipal e aos órgãos e entidades públicas e privadas que atuam no município ações que contribuam para a melhoria das condições do Turismo e para geração de emprego e renda no Município;
+
+
+V –
+
+sugerir políticas e diretrizes às ações do Poder Executivo Municipal, no que concerne à preservação do meio ambiente, ao desenvolvimento sustentável no setor agropecuário e industrial, à organizações dos segmentos produtivos e à regularidade no desenvolvimento urbano e rural do município;
+
+
+VI –
+
+assegurar a participação efetiva dos segmentos promotores e beneficiários das atividades do desenvolvimento no município;
+
+
+VII –
+
+promover articulações e compatibilizações entre as políticas municipais e as atuais e federais voltadas para desenvolvimento sustentável;
+
+
+VIII –
+
+acompanhar e avaliar execução do PMDT.
+
+
+Art. 3º.
+
+O Conselho Municipal de Turismo - COMTUR tem foro e sede no município de Formosa-GO.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 19, de 28 de junho de 2005.
+
+
+Art. 4º.
+
+O Mandato dos membros do Conselho Municipal de Turismo - COMTUR será de 02 (dois) anos, podendo ser prorrogado por igual período, e o exercício será sem ônus para os cofres públicos, sendo considerado serviço relevante prestado ao município.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 19, de 28 de junho de 2005.
+
+
+Art. 5º.
+
+Integram o Conselho Municipal de Turismo – COMTUR:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+I –
+
+05 (cinco) representantes das secretarias municipais designados pelo Prefeito Municipal:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+a)
+
+Secretaria de Turismo;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+b)
+
+Secretaria de Meio Ambiente;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+c)
+
+Secretaria de Cultura;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+d)
+
+Secretaria de Educação;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+e)
+
+Secretaria de Desenvolvimento Econômico;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+II –
+
+02 (dois) representantes de Órgãos Públicos Estadual e/ou Federal;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+III –
+
+01 (um) representante do Ensino Superior – Público;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+IV –
+
+01 (um) vereador representante da Câmara de Vereadores de Formosa;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+V –
+
+04 (quatro) representantes de Associações:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+a)
+
+Associação dos Hotéis, Bares e Restaurantes;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+b)
+
+Associação dos Guias Turísticos de Formosa;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+c)
+
+Associação dos Artesãos e Cultura Gastronômica de Formosa;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+d)
+
+Representante das Agências de Turismo de Formosa;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+VI –
+
+03 (três) representantes dos Empreendimentos Turísticos Rurais:
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+a)
+
+Região Indaiá;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+b)
+
+Região Itiquira;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+c)
+
+Região Bisnau;
+
+Inclusão feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+VII –
+
+01 (um) representante da Câmara de Dirigentes Lojistas;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+VIII –
+
+01 (um) representante dos comerciantes da Lagoa Feia;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+IX –
+
+01 (um) representante da Imprensa Local;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+X –
+
+01 (um) representante dos Atrativos Turísticos e Monumentos Naturais;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+XI –
+
+01 (um) representante dos organizadores de Esportes de Aventuras;
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+XII –
+
+01 (um) representante do Ensino Superior – Privado.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei Ordinária nº 45, de 18 de junho de 2013.
+
+
+Art. 6º.
+
+O Poder Executivo Municipal, através de seus órgãos e entidades da administração direta ou indireta, fornecerá as condições e as informações necessárias para o Conselho Municipal de Turismo - COMTUR, cumprir as suas atribuições.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 19, de 28 de junho de 2005.
+
+
+Art. 7º.
+
+O Conselho Municipal de Turismo - COMTUR, elaborará o seu Regimento Interno, para regular o seu funcionamento.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 19, de 28 de junho de 2005.
+
+
+Parágrafo único.
+
+O Prefeito do Município terá um prazo de 60 (sessenta) dias para colocar em funcionamento o COMTUR.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária nº 19, de 28 de junho de 2005.
+
+
+Art. 8º.
+
+A presente lei entrará em vigor na data de sua publicação.
+
+
+Art. 9º.
+
+Revogam-se as disposições em contrário.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, em 08 de setembro de 1999.
+
+JAIR GOMES DE PAIVA
+
+Prefeito Municipal
+
+Afixado no “placard” de publicidade.
+
+E encadernado em livro próprio.
+
+Data supra
+
+MARA CRISTINA A. R. MUNIZ
+
+Dir. Diretoria de Legislação e Documentação
+

@@ -1,0 +1,27 @@
+{
+  "verificado_em": "2026-10-20T21:43:46.079613",
+  "listas_substituidas": [
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-auditoria/candidatos.paths.txt",
+      "sha256": "69d2333f78064834116c7430ca9782f55e438b5d2afafcd19a69400396fa7e5b"
+    }
+  ],
+  "aprovados": 1,
+  "retidos": 1,
+  "criterio": "Confronto integral de tokens fonte/Markdown; somente margens repetidas com coordenadas e fólios sequenciais comprovados podem ser descontados; nenhuma norma é recortada.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-integral/aprovados.paths.txt",
+      "sha256": "da0fd84d0d49b203af2e1d414ba915a149daa3e109a3d058b0c49f995b449cc0"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-integral/resultados.jsonl",
+      "sha256": "7e235bf5617ff60e9eef728707c6eeff028f16b69b619131f74e1c97ef62e312"
+    },
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-integral/retidos.paths.txt",
+      "sha256": "a1d80b6342433e84112884bf280cc1616b0b9e66dbfcd6446f025120fbfc5227"
+    }
+  ],
+  "script_sha256": "24a7d26e9ecc4de23a2b2ee01051c6023e7ec4ed3e9345fd0da63640f5f2adad"
+}

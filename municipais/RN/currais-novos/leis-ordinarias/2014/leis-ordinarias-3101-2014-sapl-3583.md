@@ -1,0 +1,160 @@
+---
+titulo: "Lei Ordinária-CMCN nº 3.101, de 17 de janeiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3101"
+data: "2014-01-17"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2026-04-22; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/3583"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/178/text"
+sha256_fonte: "7e97fe9c633da73c38fcc943a5ba64b988d66b85f3ae9e517b4bc522ae4ae048"
+sha256_texto: "793910fa95e3204b7be94ffed720dae05369f902b250d0947b61662fc9242e2a"
+capturado_em_fonte: "2026-10-28T09:47:09.635457-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 3.101, de 17 de janeiro de 2014
+
+Dispõe sobre contratação temporária de pessoal para atender às necessidades por tempo limitado de excepcional interesse público, nos termos do art. 37, IX da Constituição Federal e art. 18, VI da Lei Orgânica do Município de Currais Novos.
+
+
+O PREFEITO MUNICIPAL DE CURRAIS NOVOS, ESTADO DO RIO GRANDE DO NORTE, no uso das atribuições legais,
+
+Faço saber que a Câmara Municipal de Currais Novos/RN, aprovou e EU sanciono a  
+seguinte lei:
+
+
+#### CAPÍTULO I — Das Disposições Gerais
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-CMCN nº 4.106, de 22 de abril de 2026.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 4º. - Lei Ordinária-CMCN nº 4.106, de 22 de abril de 2026.
+
+
+Art. 3º.
+
+A contratação pelo Regime Especial de Direito Administrativo (REDA) será precedida de seleção simplificada de candidatos, observadas as peculiaridades do cargo, quanto aos pré-requisitos para o exercício, os quais deverão ser criados por Decreto do Chefe do Executivo Municipal.
+
+
+§ 1º
+
+A forma da seleção simplificada observará ao princípio da impessoalidade sem o risco do prejuízo para os serviços necessários à administração pública quando houver a necessidade de avaliação curricular.
+
+
+§ 2º
+
+A duração dos contratos temporários definidos na forma desta Lei será de 06 (seis) meses.
+
+
+§ 3º
+
+Fica o Poder Executivo autorizado a realizar Concurso Público para o cargo de gari, tendo a sua convocação até o esgotamento do prazo previsto no parágrafo anterior ou a contratação conforme a Lei n° 8.666, de 21 de junho de 1993.
+
+
+Art. 4º.
+
+Será assegurado ao servidor contratado pelo REDA, os seguintes benefícios:
+
+
+I –
+
+salário compatível com o salário base inicial pago para o exercício de cargo que tenha identidade com cargo do quadro efetivo;
+
+
+II –
+
+décimo terceiro salário na forma definida pelo §3° do Artigo 39, combinado com o inciso VIII do Artigo 7° da Constituição Federal;
+
+
+III –
+
+salário nunca inferior ao mínimo, na forma prevista pelo inciso VII do Artigo 7° da Constituição Federal;
+
+
+IV –
+
+Adicionais de Insalubridade quando se tratar de ambientes insalubres, na forma do inciso XXVIII, do Artigo 7° da Constituição Federal.
+
+
+V –
+
+gozo de férias anuais remuneradas com um terço a mais do que o salário normal (§ 3° do Art. 39 combinado com o inciso XVIII do Art. 7° da Constituição Federal);
+
+
+VI –
+
+filiação ao Regime Geral de Previdência (INSS) e, respectivas seguridades sociais, na forma prevista na Lei Federal n° 8.213, de 24 de julho de 1991 e, nos incisos XVIII, XIX, XXIII e, XXVIII, do Artigo 7° da Constituição Federal.
+
+
+Parágrafo único
+
+Além dos benefícios sociais e trabalhistas previstos nos artigo anterior, fica assegurado aos contratados o fornecimento de fardamento apropriado, ferramentas e Equipamentos de Proteção Individual - EPI, conforme disposto na CLT e NR- 6 e 9 do Ministério do Trabalho.
+
+
+#### CAPÍTULO II — Do Processo Seletivo
+
+
+Art. 5º.
+
+O processo seletivo para, obedecerá à seguinte sistemática:
+
+
+I –
+
+convocação de candidatos, através de edital publicado nos murais dos órgãos municipais e, no veículo de comunicação oficial adotado pelo Município, com a antecedência mínima de 10 (dez) dias da data de apresentação para a seleção;
+
+
+II –
+
+processo de seleção através de avaliação curricular, entrevista e, exame de saúde através de unidades de saúde municipal, considerando a formação do candidato para as exigências necessárias para o exercício das atribuições do cargo;
+
+
+III –
+
+constituição de Comissão de Seleção Simplificada de Pessoal Temporário, composta de três servidores do quadro permanente, através de Ato do Prefeito no Poder Executivo;
+
+
+IV –
+
+criação e abertura de vagas temporárias através de Decreto, no Poder Executivo.
+
+
+#### CAPÍTULO III — Das Disposições Finais
+
+
+Art. 6º.
+
+Os contratos temporários pré-existentes, permanecerão válidos, até a data estabelecida para a sua validade, podendo ser renovados somente através do cumprimento do rito estabelecido por esta Lei.
+
+
+Art. 7º.
+
+O Chefe do Poder Executivo Municipal, no que couber, regulamentará a presente lei.
+
+
+Art. 8º.
+
+Esta Lei, com todos os efeitos jurídicos e financeiros pertinentes, entra em vigor a partir da data de sua publicação, revogadas expressa e tacitamente as disposições contrárias.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito "Raul Macêdo", em 17 de janeiro de 2014.
+
+**JOSÉ VILTON DA CUNHA**  
+Prefeito Municipal
+

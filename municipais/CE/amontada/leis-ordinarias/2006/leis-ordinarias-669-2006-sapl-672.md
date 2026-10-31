@@ -1,0 +1,2949 @@
+---
+titulo: "Lei nº 669, de 02 de junho de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "669"
+data: "2006-06-02"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2013-05-09; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/672"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1148/text"
+sha256_fonte: "c183ad1b093e382100581ff7b92941c7406f3cc7f87e060285c10ad64b9d2f77"
+sha256_texto: "db086353baea601b60b32e25e4a86a71ed09b1ae04c8c30f7ee6cf13be2cefc5"
+capturado_em_fonte: "2026-10-21T06:44:46.671669-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 669, de 02 de junho de 2006
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+TÍTULO ÚNICO
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO I
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 1º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 2º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO II
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 3º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 4º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 5º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 6º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 7º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 8º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 9º.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 10.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 11.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo Único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 12.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO III
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 13.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 14.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 15.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 675, de 17 de junho de 2006.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 1º. - Lei nº 694, de 16 de abril de 2007.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 16.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo Único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 17.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 18.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 19.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 20.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 21.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 22.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO IV
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 23.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 24.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 25.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 26.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 27.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XIV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XVI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XVII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO V
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 28.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+f)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+g)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção I
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 29.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+e)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+c)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+d)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VIII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IX –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+X –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+XIII –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 9º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 10
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção II
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 30.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção III
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 31.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção IV
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 32.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção VI
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 33.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 34.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção VII
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 35.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 36.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção VIII
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 37.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 38.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 39.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 40.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 41.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção IX
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 42.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 43.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 44.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 45.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 46.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 47.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 48.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 49.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+##### Seção X
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 50.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO VI
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 51.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO VII
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 52.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+a)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+b)
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 53.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 54.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 55.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO VIII
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 56.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO IX
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 57.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 4º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 5º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 6º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 7º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 8º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 9º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 10
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 11
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 12
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 58.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO X
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 59.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 60.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 61.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 62.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 63.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 64.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 65.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 66.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 67.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 68.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 3º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 69.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+VI –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 70.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 71.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 72.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 73.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO XI
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 74.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Parágrafo único
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 75.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 76.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+I –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+II –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+III –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+IV –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+V –
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+#### CAPÍTULO XII
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 77.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 78.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 79.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 80.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 81.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+Art. 82.
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+
+
+(Revogado)
+
+Revogado pelo Art. 122. - Lei nº 978, de 09 de maio de 2013.
+

@@ -1,0 +1,190 @@
+---
+titulo: "Lei nº 1.064, de 05 de janeiro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1064"
+data: "2015-01-05"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; 2015-09-23; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/1064"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1576/text"
+sha256_fonte: "42bb7c07e6eec58cb298f9aec46e67590103871981beb0c6cd76b715a91d77e1"
+sha256_texto: "13c7da0e2d56eea1dded62a096d6bc67a089ad9c5beb59cfd83cb27ba186f1aa"
+capturado_em_fonte: "2026-10-21T06:16:15.470906-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.064, de 05 de janeiro de 2015
+
+Institui o Programa de Recuperação Fiscal – REFIS – relativo aos débitos fiscais com o fisco municipal e dá outras providências.
+
+
+A Câmara Municipal de Amontada no Ceará aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS - no âmbito do Município de Amontada Ceará, destinado a promover a regularização dos créditos da Fazenda Pública Municipal, decorrentes de débitos fiscais de pessoas física e jurídica, inscritos ou não em dívida ativa, relativos à Imposto sobre Serviços- ISS, Imposto Predial e Territorial Urbano - IPTU, Alvarás e Taxas diversas de competência de criação e arrecadação do Município.
+
+
+Art. 2º.
+
+O REFIS abrange os créditos fiscais da Fazenda Pública Municipal, assim como multas aplicadas pela Corte de Contas - TCM, constituídos até 31 de dezembro de 2014, inscritos ou não, em dívida ativa, que se encontrem em fase de cobrança administrativa ou judicial, com exigibilidade suspensa ou não, inclusive aqueles que se encontram com parcelamento ativo, atrasados ou não, que poderão ser renegociados nos termos desta lei pelo restante que falta para pagamento.
+
+Alteração feita pelo Art. 1º. - Lei nº 1.093, de 23 de setembro de 2015.
+
+
+Art. 3º.
+
+Os contribuintes com débitos já parcelados administrativamente ou no bojo de execuções fiscais municipais, poderão aderir ao REFIS no que tange ao saldo remanescente, apurado de acordo com a porcentagem paga do valor devido, mediante pagamento à vista ou novo parcelamento.
+
+
+Art. 4º.
+
+Os créditos tributários regularizados através do REFIS, poderão ser pagos em até 12 (doze) parcelas mensais, iguais e sucessivas, acrescidas dos juros de 0,5% (meio por cento) ao mês.
+
+
+§ 1º
+
+O REFIS, beneficiará o contribuinte através da dispensa integral ou parcial dos encargos, juros, multas e correções monetárias acrescidos aos débitos tributários, que variará conforme a forma de pagamento, da seguinte forma:
+
+
+I –
+
+Para quitação integral no período entre 10 de julho de 2015 a 10 de setembro de 2015, o contribuinte será beneficiado com desconto de 100% (cem por cento) dos encargos, multas, juros e correções, as que optarem por fazer o pagamento de forma parcelada em 5 (cinco) com desconto de 30% (trinta por cento) dos encargos, multas, juros e correções que tiverem débitos superiores a R$ 1.500,00 com parcelamento em até 5 vezes previsto para o pagamento em dia, recolhendo apenas o valor líquido do respectivo tributo, desde que abrangido pelo REFIS.
+
+
+§ 2º
+
+O valor mínimo das parcelas será o seguinte:
+
+
+I –
+
+R$ 50,00 (cinquenta) para Pessoa Física;
+
+
+II –
+
+R$ 100,00 (cem reais) para Pessoa Jurídica;
+
+
+III –
+
+a vista 100% desconto de multa, juros e encargos;
+
+
+IV –
+
+em 12 vezes com desconto de 20%;
+
+
+V –
+
+em 6 vezes com desconto de 40%;
+
+
+VI –
+
+em 4 vezes com desconto de 60%;
+
+
+VII –
+
+em 2 vezes com desconto de 80%;
+
+
+Art. 5º.
+
+O ingresso no REFIS dar-se-á por opção do contribuinte em débito com o fisco municipal, seja pessoa física ou jurídica, que a partir da formalização da opção fará jus ao regime especial de consolidação e parcelamento descrito no artigo anterior.
+
+
+§ 1º
+
+O contribuinte terá até o dia 10 de julho de 2015 a 10 de setembro de 2015, para aderir ao REFIS municipal, podendo ser prorrogado na forma do art. 11 desta Lei.
+
+
+§ 2º
+
+O prazo final do parcelamento será dia 10 de julho de 2015.
+
+
+Art. 6º.
+
+A opção pelo REFIS municipal, implica ao contribuinte assumir as seguintes obrigações:
+
+
+I –
+
+Confissão irrevogável e irretratável da totalidade dos débitos fiscais abrangidos pelo programa;
+
+
+II –
+
+Aceitação plena e irretratável de todas as condições estabelecidas nesta Lei;
+
+
+III –
+
+Cumprimento regular das parcelas do débito consolidado;
+
+
+Parágrafo único
+
+A opção pelo REFIS exclui qualquer outra forma de parcelamento antes efetuado pelo contribuinte, seja administrativo ou judicial, de acordo com o montante faltante para pagamento, ressalvadas as parcelas já pagas.
+
+
+Art. 7º.
+
+Efetuada a negociação de débitos fiscais através do REFIS, o contribuinte beneficiado fica impedido de celebrar novo parcelamento administrativo até a total quitação das parcelas assumidas pelo programa.
+
+
+Art. 8º.
+
+Em caso de débito parcelado pelo REFIS, o atraso no pagamento de 02 (duas) parcelas sucessivas ou 03 (três) alternadas implicará no cancelamento automático do parcelamento, e na perda dos benefícios fiscais dispostos no §, 1º, inciso I, do artigo 4º, desta Lei, restabelecendo os valores e condições anteriores ao parcelamento, deduzindo-se os valores pagos até a data do cancelamento.
+
+
+§ 1º
+
+O cancelamento do parcelamento por culpa do contribuinte implicará na execução judicial do crédito remanescente, ou no prosseguimento da ação judicial em caso de execuções já ajuizadas, ou ainda, na inscrição em dívida ativa, caso ainda não tenha sido feito.
+
+
+§ 2º
+
+O atraso no pagamento de qualquer parcela provoca o acréscimo de multa no percentual de 0,1% (um centésimo por cento) por dia de atraso no valor da parcela, limitada ao percentual máximo de 3% (três por cento) ao mês, além de juros moratórios de 1% (um por cento) ao mês.
+
+
+Art. 9º.
+
+O gozo dos benefícios instituídos por esta Lei não confere direito à restituição ou compensação de importância já paga, seja a que título for, sendo que seus efeitos não retroagirão em hipótese alguma.
+
+
+Art. 10.
+
+Os débitos fiscais consolidados pelo REFIS serão recolhidos ao tesouro municipal através de boleto bancário para cobrança, emitido pela Secretaria Municipal de Finanças, através do Departamento competente, após a assinatura do Termos de Adesão ao Programa do REFIS, previamente disponibilizado pelo órgão responsável pelo programa.
+
+
+Art. 11.
+
+O prazo limite para adesão ao REFIS, poderá ser prorrogado caso o prazo estipulado no parágrafo 1º do artigo 5º desta lei, não seja suficiente para atender a demanda dos contribuintes interessados, sendo que, tal prorrogação fica limitada a 60 (sessenta) dias, mediante Decreto.
+
+
+Art. 12.
+
+As despesas decorrentes da execução do Programa REFIS serão suportadas por dotações orçamentárias próprias do Município e suplementadas caso seja necessário.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.
+
+
+**GABINETE DO PREFEITO MUNICIPAL DE AMONTADA-CE, aos 05 de janeiro de 2015.**
+
+**PAULO CESAR DOS SANTOS Prefeito Municipal**
+

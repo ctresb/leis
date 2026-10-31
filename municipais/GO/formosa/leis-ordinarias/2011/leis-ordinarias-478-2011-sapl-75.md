@@ -1,0 +1,143 @@
+---
+titulo: "Lei Ordinária nº 478, de 09 de setembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "478"
+data: "2011-09-09"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2012-02-17; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/75"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/1261/text"
+sha256_fonte: "6d5362d51ca7e121c4d577fd75c489b3cc51f4aec78e208a30fb1fdcf497f807"
+sha256_texto: "36ac9a1079c54c0287a37b26e432058edb0b071e574ac5c95ab12519f159b1cf"
+capturado_em_fonte: "2026-10-28T11:55:21.687970-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 478, de 09 de setembro de 2011
+
+Dispõe Sobre a Concessão de Honrarias Municipais pelo Prefeito Municipal e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE FORMOSA,
+
+Faço saber que a Câmara Municipal de Formosa, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a concessão de honrarias municipais ou de homenagens pelo Prefeito Municipal a pessoas que, reconhecidamente, tenham prestado relevantes serviços ao Município ou nele se tenha destacado pela atuação exemplar na vida pública ou particular.
+
+
+Art. 2º.
+
+São honrarias municipais a serem concedidas pelo Prefeito Municipal:
+
+
+I –
+
+Título de Mérito Formosa Imperatriz;
+
+
+II –
+
+Título de Mérito Municipal;
+
+
+III –
+
+Medalha de Mérito ao Servidor Municipal;
+
+
+IV –
+
+Medalha de Bravura Municipal.
+
+
+Art. 3º.
+
+Todas as Honrarias previstas no Art. 2° serão concedidas via Decreto Lei do Poder Executivo, os Títulos serão entregues na Forma de Diploma Municipal e as Medalhas acompanhadas de Certificado Municipal.
+
+
+Art. 4º.
+
+O título de “Mérito Formosa Imperatriz” será concedido às pessoas não nascidas no Município e o título de “Mérito Municipal” às pessoas nascidas no Município.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 556, de 17 de fevereiro de 2012.
+
+
+Parágrafo único.
+
+Os títulos de que trata esta lei serão outorgados a pessoas que tenham, reconhecidamente, prestado relevantes serviços ao Município de Formosa, que tenham um histórico de vida exemplar do qual constem atividades de cunho social, científico, artístico, cultural, político, esportivo, filantrópico ou ainda em outras áreas que evidenciem o homenageado.
+
+
+Art. 5º.
+
+A medalha de “Mérito ao Servidor Municipal” será concedida exclusivamente aos servidores municipais que se destacarem por atos ou ações, pelos relevantes serviços prestados ao município de Formosa no exercício de suas funções. A medalha de “Bravura Municipal” será concedida às pessoas que se destacarem por atos ou ações de reconhecida bravura no município de Formosa, com espírito de sacrifício em favor da coletividade formosense.
+
+
+Parágrafo único.
+
+Fica o Chefe do Poder Executivo autorizado a conceder benefícios pecuniários ao servidor, em seus vencimentos, desde que tenha sido contemplado com a medalha de Mérito ao servidor Municipal.
+
+
+Art. 6º.
+
+As pessoas a serem homenageadas deverão apresentar os seguintes documentos:
+
+
+I –
+
+biografia circunstanciada da pessoa a quem se deseja homenagear;
+
+
+II –
+
+relação dos trabalhos e serviços prestados ao município.
+
+
+Art. 7º.
+
+O Prefeito Municipal poderá conceder as honrarias previstas nos Incisos de I a III do Art. 2° desta Lei, uma vez por ano.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 556, de 17 de fevereiro de 2012.
+
+
+Art. 8º.
+
+A entrega das honrarias municipais previstas no Art. 2º desta lei será em solenidade, especialmente marcada pelo Prefeito Municipal para esse fim.
+
+
+Art. 9º.
+
+A definição das honrarias municipais previstas no Art. 2º desta lei será regulamentada por meio de Decreto Lei do Poder Executivo, sendo que nos diplomas e certificados deverá constar o Brasão e a Bandeira do município e será preenchido com o nome do agraciado, o número do Decreto e a data da concessão.
+
+
+Art. 10.
+
+As despesas com a execução desta lei correrão por conta das verbas orçamentárias próprias.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito, Prefeitura Municipal de Formosa, em 09 de setembro de 2011.
+
+PEDRO IVO DE CAMPOS FARIA
+
+PREFEITO MUNICIPAL
+
+Afixado no “placard” de publicidade.  
+E encadernado em livro próprio.  
+Data supra.  
+.............................................................................  
+RENATA PENETRA  
+Gestora de Contratos e Documentos
+

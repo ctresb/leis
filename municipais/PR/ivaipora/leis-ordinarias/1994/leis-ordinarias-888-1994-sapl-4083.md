@@ -1,0 +1,29 @@
+---
+titulo: "Lei Ordinária nº 888, de 07 de dezembro de 1994"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "888"
+data: "1994-12-07"
+municipio: "Ivaiporã"
+uf: "PR"
+codigo_ibge: "4111506"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.ivaipora.pr.leg.br/norma/4083"
+fonte_texto: "https://sapl.ivaipora.pr.leg.br/media/sapl/public/normajuridica/1994/4083/lei_no_888_de_7_de_dezembro_de_1994.pdf"
+sha256_fonte: "df785bca2778d1f420cab1e9c76c724cf7d4b52fe0cdd241c9233add74e95f79"
+sha256_texto: "79ded8cc1b252ab6d53bca47458ec7b074d2d9086f69932dbdc617526be59bbf"
+baixado_em: "2026-10-21"
+---
+
+# Lei Ordinária nº 888, de 07 de dezembro de 1994
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+PREFEITURA DO MUNICÍPIO DE IVAIPORA ESTADO DO PARANA
+
+LEI N° 888/94 EMENTA: AUTORIZA A CESSÃO DE TERRENO EM COMODATO. A CAMARA DE VEREADORES DE IVAIPORA, ESTADO DO PARANA, APRO- VOU E EU, PREFEITO MUNICIPAL, SANCIONO E PROMULGO A SEGUINTE LEI:
+
+ART. 1º - FICA O EXECUTIVO MUNICIPAL AUTORIZADO A CEDER, EM COMODATO, PARA OS FINS QUE SE FIZEREM NECESSÁRIOS, UMA ÁREA DE TERRAS COM 675,00 M2, PARTE DO LOTE N° 2-C, GLEBA LAJEADO - 1ª PARTE, COM ÁREA TOTAL DE 2.700,00M', NA LOCALIDADE DE ALTO LAJEADO, NESTE MUNICÍPIO. PARÁGRAFO UNICO - A ÁREA A SER CEDIDA NÃO CONTÉM QUALQUER BENFEITO- RIA E FAZ DIVISA COM OS LOTES N° 2 E 2-B.
+
+ART. 2° - REVOGADAS AS DISPOSIÇÕES EM CONTRÁRIO, A PRESENTE LEI ENTRARÁ EM VI GOR NA DATA DE SUA PUBLICAÇÃO. PAÇO MUNICIPAL "PREFEITO ADAIL BOLIVAR ROTHER", GABINETE DO PREFEI- TO, AOS SETE DIAS DO MÊS DE DEZEMBRO DO ANO DE MIL NOVECENTOS E NOVENTA E QUA TRO. DR. MELVIS MUCHIUTI PREFEITO MUNICIPAL
+

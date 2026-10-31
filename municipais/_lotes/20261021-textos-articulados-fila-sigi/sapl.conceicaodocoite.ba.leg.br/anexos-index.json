@@ -1,0 +1,1206 @@
+{
+  "estado": "indice_completo",
+  "total": 106,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/2/lom_compilada_2015_dezembro_ate_emenda_16.pdf da norma Lei Orgânica Municipal nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Lei Orgânica Municipal - Compilada até Emenda n. 16, de 28 de dezembro de 2015.",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1990/2/lom_compilada_2015_dezembro_ate_emenda_16.pdf",
+      "ano": 1990,
+      "norma": 1
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/4/lom_publicada_28122015compilada_ate_emenda_16.pdf da norma Lei Orgânica Municipal nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Lei Orgânica Municipal, publicada em 28/12/2015, compilada até Emenda 16/2015.",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1990/4/lom_publicada_28122015compilada_ate_emenda_16.pdf",
+      "ano": 1990,
+      "norma": 1
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/6/dleg_215_2014_cod_processo_legislativo_compilado.pdf da norma Decreto Legislativo nº 215, de 18 de dezembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Versão Compilada do Código de de Processo Legislativo até o Precedente Regimental n. 17/2021.",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2014/6/dleg_215_2014_cod_processo_legislativo_compilado.pdf",
+      "ano": 2014,
+      "norma": 62
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/decisao_liminar.pdf da norma Lei Ordinária nº 932, de 07 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "LIMINAR CONCEDIDA EM 06/05/2021 SUSPENDEU OS FEITOS DA LEI - PROCESSO N. 8001876-09.2021.8.05.0063\r\nO referido processo é um mandado de segurança impetrado pelo Município em razão da não aceitação de alguns vetos realizados pelo Presidente da Câmara.",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2021/7/decisao_liminar.pdf",
+      "ano": 2021,
+      "norma": 32
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/decisao_liminar.pdf da norma Lei Ordinária nº 933, de 07 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "LIMINAR CONCEDIDA EM 06/05/2021 SUSPENDEU OS FEITOS DA LEI - PROCESSO N. 8001876-09.2021.8.05.0063\r\nO referido processo é um mandado de segurança impetrado pelo Município em razão da não aceitação de alguns vetos realizados pelo Presidente da Câmara.",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2021/8/decisao_liminar.pdf",
+      "ano": 2021,
+      "norma": 33
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/9/decisao_liminar.pdf da norma Lei Ordinária nº 934, de 07 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "LIMINAR CONCEDIDA EM 06/05/2021 SUSPENDEU OS FEITOS DA LEI - PROCESSO N. 8001876-09.2021.8.05.0063\r\nO referido processo é um mandado de segurança impetrado pelo Município em razão da não aceitação de alguns vetos realizados pelo Presidente da Câmara.",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2021/9/decisao_liminar.pdf",
+      "ano": 2021,
+      "norma": 34
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/10/quadro_pessoal_pmcc_compilado.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE PESSOAL DA PMCC - COMPILADO POR CONSULTORIA LEGISLATIVA DA CÂMARA MUNICIPAL\r\nLeis Complementares n. 01/1996,",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/10/quadro_pessoal_pmcc_compilado.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/11/acordao_proc._8023116.pdf da norma Lei Ordinária nº 894, de 22 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Número: 8023116-83.2020.8.05.0000\r\nClasse: DIRETA DE INCONSTITUCIONALIDADE\r\nÓrgão julgador colegiado: Tribunal Pleno\r\nÓrgão julgador: Desa. Inez Maria Brito Santos Miranda Tribunal Pleno\r\nAssuntos: Inconstitucionalidade Material, Processo Legislativo",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2020/11/acordao_proc._8023116.pdf",
+      "ano": 2020,
+      "norma": 28
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/12/tre_-_despacho_2869570_com_oficio.pdf da norma Decreto Legislativo nº 270, de 04 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Despacho do Presidente do TRE - Bahia indeferindo a Consulta Popular sobre emancipação de Salgadália.",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2024/12/tre_-_despacho_2869570_com_oficio.pdf",
+      "ano": 2024,
+      "norma": 522
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/14/lei_798_29122016__codigo_de_limpeza_urbana-15-16.pdf da norma Lei Ordinária nº 798, de 29 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Anexo I .",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2016/14/lei_798_29122016__codigo_de_limpeza_urbana-15-16.pdf",
+      "ano": 2016,
+      "norma": 202
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/15/lei_1023_17052023_altera_lei_798_codigo_limpeza-_anexo.pdf da norma Lei Ordinária nº 1.023, de 17 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2023/15/lei_1023_17052023_altera_lei_798_codigo_limpeza-_anexo.pdf",
+      "ano": 2023,
+      "norma": 201
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/lei_1029_18072023_refis_2023-7-9_anexo_i.pdf da norma Lei Ordinária nº 1.029, de 18 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Anexo I, da Lei Nº 1029",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2023/16/lei_1029_18072023_refis_2023-7-9_anexo_i.pdf",
+      "ano": 2023,
+      "norma": 216
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/lei_1029_18072023_refis_2023-10-13_anexo_ii.pdf da norma Lei Ordinária nº 1.029, de 18 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Anexo II, da Lei 1029",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2023/17/lei_1029_18072023_refis_2023-10-13_anexo_ii.pdf",
+      "ano": 2023,
+      "norma": 216
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/18/lei_1078_22072024_cria_distrito_santa_rosa-2_-_anexo_i.pdf da norma Lei Ordinária nº 1.078, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2024/18/lei_1078_22072024_cria_distrito_santa_rosa-2_-_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 561
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/19/lei_1078_22072024_cria_distrito_santa_rosa-3-_anexo_ii.pdf da norma Lei Ordinária nº 1.078, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2024/19/lei_1078_22072024_cria_distrito_santa_rosa-3-_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 561
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/lei_1041_29082023_plano_municipal.pdf da norma Lei Ordinária nº 1.041, de 29 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Plano Municipal",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2023/20/lei_1041_29082023_plano_municipal.pdf",
+      "ano": 2023,
+      "norma": 234
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/21/lei_1080_22072024_refis_2024-7_anexo_i.pdf da norma Lei Ordinária nº 1.080, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2024/21/lei_1080_22072024_refis_2024-7_anexo_i.pdf",
+      "ano": 2024,
+      "norma": 559
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/lei_1080_22072024_refis_2024-9-11_anexo_ii.pdf da norma Lei Ordinária nº 1.080, de 22 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2024/22/lei_1080_22072024_refis_2024-9-11_anexo_ii.pdf",
+      "ano": 2024,
+      "norma": 559
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/23/anexo_i.pdf da norma Lei Ordinária nº 1.032, de 25 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2023/23/anexo_i.pdf",
+      "ano": 2023,
+      "norma": 220
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/24/anexo_ii.pdf da norma Lei Ordinária nº 1.032, de 25 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2023/24/anexo_ii.pdf",
+      "ano": 2023,
+      "norma": 220
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/25/lei_1077_01072024_ldo_2025-40-62_-_anexo.pdf da norma Lei Ordinária nº 1.077, de 01 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Ldo",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2024/25/lei_1077_01072024_ldo_2025-40-62_-_anexo.pdf",
+      "ano": 2024,
+      "norma": 533
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/26/lei_1008_2022_loa_2023_anexos.pdf da norma Lei Ordinária nº 1.008, de 07 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Loa 2023",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2022/26/lei_1008_2022_loa_2023_anexos.pdf",
+      "ano": 2022,
+      "norma": 576
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/27/ldo_2024_anexos.pdf da norma Lei Ordinária nº 1.039, de 28 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Anexos ldo",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2023/27/ldo_2024_anexos.pdf",
+      "ano": 2023,
+      "norma": 232
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/28/loa_2025_anexos.pdf da norma Lei Ordinária nº 1.093, de 29 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Anex da Loa",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2024/28/loa_2025_anexos.pdf",
+      "ano": 2024,
+      "norma": 617
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/29/anexo_i_leic_099.pdf da norma Lei Complementar nº 99, de 24 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Anexo I da Leic 99",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/29/anexo_i_leic_099.pdf",
+      "ano": 2025,
+      "norma": 637
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/30/anexo_ii_leic_099.pdf da norma Lei Complementar nº 99, de 24 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Anexo II Leic 99",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/30/anexo_ii_leic_099.pdf",
+      "ano": 2025,
+      "norma": 637
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/31/anexo_iii_leic_099.pdf da norma Lei Complementar nº 99, de 24 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Anexo II da Leic 99",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/31/anexo_iii_leic_099.pdf",
+      "ano": 2025,
+      "norma": 637
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/32/leic_006_01042002_altera_leic_001_plano_cargos_anexo_1.pdf da norma Lei Complementar nº 6, de 01 de abril de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I\r\n\r\nNOVA REDAÇÃO DO ANEXO IV da \r\nLEI COMPLEMENTAR N. 01",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2002/32/leic_006_01042002_altera_leic_001_plano_cargos_anexo_1.pdf",
+      "ano": 2002,
+      "norma": 170
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2002/33/leic_006_01042002_altera_leic_001_plano_cargos_anexo_2.pdf da norma Lei Complementar nº 6, de 01 de abril de 2002",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II\r\n\r\nDESCRIÇÃO DOS CARGOS DE PROVIMENTO EFETIVO",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2002/33/leic_006_01042002_altera_leic_001_plano_cargos_anexo_2.pdf",
+      "ano": 2002,
+      "norma": 170
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2001/34/leic_005_15012001_guarda_municipal_anexo_unico.pdf da norma Lei Complementar nº 5, de 15 de janeiro de 2001",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "ANEXO ÚNICO\r\n\r\nTABELA DE CARGOS E VENCIMENTOS\r\nGUARDA MUNICIPAL",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2001/34/leic_005_15012001_guarda_municipal_anexo_unico.pdf",
+      "ano": 2001,
+      "norma": 169
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/35/leic_004_15072001_altera_lc_001_cria_cargos.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Conceicao do Coite Camara de Vereadores",
+                [
+                  "2022-10-10T12:45:38-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "LEI COMPLEMENTAR Nº 04/2001 altera Complementar Nº01/1996.\r\nFicam criados 04 (quatro) cargos de Secretário Municipal.\r\nO cargo de Secretário fica denominado Secretário Municipal",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/35/leic_004_15072001_altera_lc_001_cria_cargos.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/36/leic_003_15071999_a_cria_cargos_cpl.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Conceicao do Coite Camara de Vereadores",
+                [
+                  "2022-10-10T12:45:11-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Lei Complementar n. 03/1999\r\nCria cargo CPL e extingue todos cargos do anexo VII da Lei Complementar 01/1996",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/36/leic_003_15071999_a_cria_cargos_cpl.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/37/leic_002_30061998_plano_carreira_magisterio_anexo_1.pdf da norma Lei Complementar nº 2, de 30 de junho de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1998/37/leic_002_30061998_plano_carreira_magisterio_anexo_1.pdf",
+      "ano": 1998,
+      "norma": 166
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/38/leic_002_30061998_plano_carreira_magisterio_anexo_2.pdf da norma Lei Complementar nº 2, de 30 de junho de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1998/38/leic_002_30061998_plano_carreira_magisterio_anexo_2.pdf",
+      "ano": 1998,
+      "norma": 166
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/39/leic_002_30061998_plano_carreira_magisterio_anexo_3.pdf da norma Lei Complementar nº 2, de 30 de junho de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1998/39/leic_002_30061998_plano_carreira_magisterio_anexo_3.pdf",
+      "ano": 1998,
+      "norma": 166
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/40/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_1.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I - GRUPOS OCUPACIONAIS - CLASSES / CARGOS",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/40/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_1.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/41/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_2.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II - GRUPO OCUPAVIONA DO MAGISTÉRIO - CLASSES / CARGOS",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/41/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_2.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/42/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_3.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III -  TABELA DE VENCIMENTOS",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/42/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_3.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/43/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_4.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "ANEXO IV - QUADRO DE PESSOAL",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/43/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_4.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/44/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_5.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "ANEXO V - DESCRIÇÃO DOS CARGOS EFETIVOS",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/44/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_5.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/45/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_6.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VI - TABELA DE CARGOS EM COMISSÃO",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/45/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_6.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/46/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_7.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "ANEXO VII - DISCRIMINAÇÃO DE QUANTITATIVOS, JORNADA DE TRABALHO E REMUNERAÇÃO",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/46/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_7.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/47/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_8.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "ANEXO - VIII - QUADRO PESSOAL CAIC",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/47/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_8.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1996/48/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_subprograma.pdf da norma Lei Complementar nº 1, de 18 de dezembro de 1996",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "ANEXO - SUBPROGRAMA CAIC",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1996/48/leic_001_18121996_plano_de_cargos_e_vencimentos_anexo_subprograma.pdf",
+      "ano": 1996,
+      "norma": 157
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/49/anexo_unico_lei_1101.pdf da norma Lei Ordinária nº 1.101, de 17 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Anexo Unico",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/49/anexo_unico_lei_1101.pdf",
+      "ano": 2025,
+      "norma": 641
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/50/lei_753_24062015_aprova_pme_anexo.pdf da norma Lei Ordinária nº 753, de 24 de março de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE EDUCAÇÃO\r\n2015-2025\r\nConceição do Coité\r\n2015",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2015/50/lei_753_24062015_aprova_pme_anexo.pdf",
+      "ano": 2015,
+      "norma": 659
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/51/area__do_acude_coite.pdf da norma Lei Ordinária nº 887, de 21 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2019/51/area__do_acude_coite.pdf",
+      "ano": 2019,
+      "norma": 675
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/52/anexos.pdf da norma Lei Ordinária nº 887, de 21 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2019/52/anexos.pdf",
+      "ano": 2019,
+      "norma": 675
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/53/anexo_i_leic_27.pdf da norma Lei Complementar nº 27, de 18 de março de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Anexo I da leic 27/2008",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2008/53/anexo_i_leic_27.pdf",
+      "ano": 2008,
+      "norma": 676
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/54/anexo_ii_leic_27.pdf da norma Lei Complementar nº 27, de 18 de março de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Anexo II da leic 27/2008",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2008/54/anexo_ii_leic_27.pdf",
+      "ano": 2008,
+      "norma": 676
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/55/anexo_i_leic_27.pdf da norma Lei Complementar nº 27, de 18 de março de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Anexo III da Leic 27/2008",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2008/55/anexo_i_leic_27.pdf",
+      "ano": 2008,
+      "norma": 676
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/56/anexo_unico_-_leic_37_-_modifica_anexo_iii_27.pdf da norma Lei Complementar nº 37, de 17 de fevereiro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Anexo Unico Lei 37- Modifica Anexo III da leic 27/2008",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2011/56/anexo_unico_-_leic_37_-_modifica_anexo_iii_27.pdf",
+      "ano": 2011,
+      "norma": 677
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/57/leic_047_21012013_altera_cargos_legislativo.pdf da norma Lei Complementar nº 47, de 21 de janeiro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Anexo Unico da Leic 47",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2013/57/leic_047_21012013_altera_cargos_legislativo.pdf",
+      "ano": 2013,
+      "norma": 678
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/58/anexo_unico_leic_031.pdf da norma Lei Complementar nº 31, de 14 de janeiro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Anexo Unico da Leic 31",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2009/58/anexo_unico_leic_031.pdf",
+      "ano": 2009,
+      "norma": 679
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/59/anexo_i_lei_1125.pdf da norma Lei Ordinária nº 1.125, de 30 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Anexo I da lei N. 1.125",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/59/anexo_i_lei_1125.pdf",
+      "ano": 2025,
+      "norma": 705
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/60/anexo_ii_lei_1125.pdf da norma Lei Ordinária nº 1.125, de 30 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "Anexo II da lei 1.125",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/60/anexo_ii_lei_1125.pdf",
+      "ano": 2025,
+      "norma": 705
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/61/anexo_iii_lei_1125.pdf da norma Lei Ordinária nº 1.125, de 30 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "Anexo III, da lei 1.125",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/61/anexo_iii_lei_1125.pdf",
+      "ano": 2025,
+      "norma": 705
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/62/leic_016_28092005_anexo.pdf da norma Lei Complementar nº 16, de 28 de setembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "Anexo I da Leic 16/2005",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2005/62/leic_016_28092005_anexo.pdf",
+      "ano": 2005,
+      "norma": 717
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/63/leic_016_28092005_anexo_ii.pdf da norma Lei Complementar nº 16, de 28 de setembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "Anexo II, Leic 16/2005",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2005/63/leic_016_28092005_anexo_ii.pdf",
+      "ano": 2005,
+      "norma": 717
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/64/leic_016_28092005_anexo_iii.pdf da norma Lei Complementar nº 16, de 28 de setembro de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "Aexo III, da leic 16/2005",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2005/64/leic_016_28092005_anexo_iii.pdf",
+      "ano": 2005,
+      "norma": 717
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/65/anexo_iv_leic_025_18102007_altera_leic_16.pdf da norma Lei Complementar nº 25, de 18 de outubro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei 25 incorporado na Leic 16",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2007/65/anexo_iv_leic_025_18102007_altera_leic_16.pdf",
+      "ano": 2007,
+      "norma": 718
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2007/66/anexo_v_leic_025_18102007_altera_leic_16.pdf da norma Lei Complementar nº 25, de 18 de outubro de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "Anexo V da lei 25 - Incorporada a Leic 16",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2007/66/anexo_v_leic_025_18102007_altera_leic_16.pdf",
+      "ano": 2007,
+      "norma": 718
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/67/anexo_unico_leic_039.pdf da norma Lei Complementar nº 39, de 28 de abril de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "Anexo Unico Leic 39",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2011/67/anexo_unico_leic_039.pdf",
+      "ano": 2011,
+      "norma": 719
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/68/anexo_i_lei_987.pdf da norma Lei Ordinária nº 987, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Lei 987",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2022/68/anexo_i_lei_987.pdf",
+      "ano": 2022,
+      "norma": 110
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/69/anexo_ii_lei_987.pdf da norma Lei Ordinária nº 987, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Lei 987",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2022/69/anexo_ii_lei_987.pdf",
+      "ano": 2022,
+      "norma": 110
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/anexo_iii_lei_987.pdf da norma Lei Ordinária nº 987, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Lei 987",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2022/70/anexo_iii_lei_987.pdf",
+      "ano": 2022,
+      "norma": 110
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/71/anexo_iv_lei_987.pdf da norma Lei Ordinária nº 987, de 18 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Lei 987",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2022/71/anexo_iv_lei_987.pdf",
+      "ano": 2022,
+      "norma": 110
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/72/anexo_i_limites_do_distrito_de_juazeirinho.pdf da norma Lei Ordinária nº 1.135, de 31 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Anexo I da Lei 1.135",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/72/anexo_i_limites_do_distrito_de_juazeirinho.pdf",
+      "ano": 2025,
+      "norma": 734
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/73/anexo_ii_mapa_distrito_de_juazeirinho.pdf da norma Lei Ordinária nº 1.135, de 31 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Anexo II da Lei 1.135",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/73/anexo_ii_mapa_distrito_de_juazeirinho.pdf",
+      "ano": 2025,
+      "norma": 734
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/74/anexos_lei_867_2019_-_loa.pdf da norma Lei Ordinária nº 867, de 28 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Francisco de Assis Alves dos Santos",
+                [
+                  "2019-08-29T15:26:01-03:00",
+                  "ICP-Brasil - 07917274000199"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "anexos da Lei 867",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2019/74/anexos_lei_867_2019_-_loa.pdf",
+      "ano": 2019,
+      "norma": 771
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1999/75/anexo_i.pdf da norma Lei Ordinária nº 234, de 31 de dezembro de 1999",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1999/75/anexo_i.pdf",
+      "ano": 1999,
+      "norma": 296
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2000/76/anexo_i.pdf da norma Lei Ordinária nº 241, de 24 de abril de 2000",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Conceicao do Coite Camara de Vereadores",
+                [
+                  "2022-10-05T10:44:26-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Anexo I da Lei",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2000/76/anexo_i.pdf",
+      "ano": 2000,
+      "norma": 312
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/77/anexo_i_da_lei_601.pdf da norma Lei Ordinária nº 601, de 01 de dezembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei N 601",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2011/77/anexo_i_da_lei_601.pdf",
+      "ano": 2011,
+      "norma": 838
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/78/lei_816_18062017_inclui_calendario_oficial_os_festejos_juninos_sao_joao..doc da norma Lei Ordinária nº 816, de 18 de junho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Inclui no calendário oficial do município de Conceição do Coité os festejos juninos do Distrito de São João",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2017/78/lei_816_18062017_inclui_calendario_oficial_os_festejos_juninos_sao_joao..doc",
+      "ano": 2017,
+      "norma": 832
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/79/lei_992_17082022_ldo_2023-37-58.pdf da norma Lei Ordinária nº 992, de 17 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Anexos da lei 992",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2022/79/lei_992_17082022_ldo_2023-37-58.pdf",
+      "ano": 2022,
+      "norma": 117
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/80/anexo_unico_plo_64.pdf da norma Lei Ordinária nº 1.144, de 18 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "Anexo Unico",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/80/anexo_unico_plo_64.pdf",
+      "ano": 2025,
+      "norma": 939
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/81/anexo_ppa.pdf da norma Lei Ordinária nº 1.150, de 28 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Anexo PPA",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/81/anexo_ppa.pdf",
+      "ano": 2025,
+      "norma": 1060
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/82/memorial_descritivo_lei_1151_29102025_altera_lei_1049-3-8.pdf da norma Lei Ordinária nº 1.151, de 29 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "Memorial Descritivo",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/82/memorial_descritivo_lei_1151_29102025_altera_lei_1049-3-8.pdf",
+      "ano": 2025,
+      "norma": 1061
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/83/anexo_plo_28_2025_ldo.pdf da norma Lei Ordinária nº 1.152, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/83/anexo_plo_28_2025_ldo.pdf",
+      "ano": 2025,
+      "norma": 1079
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/84/plo_65_2025_loa_anexos.pdf da norma Lei Ordinária nº 1.153, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "Anexo da lei",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/84/plo_65_2025_loa_anexos.pdf",
+      "ano": 2025,
+      "norma": 1080
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/85/leic_112_12022026_fixa_vencimentos_cargos-2-3_1.pdf da norma Lei Complementar nº 112, de 12 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Anexo I e II da Leic 112/2026",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/85/leic_112_12022026_fixa_vencimentos_cargos-2-3_1.pdf",
+      "ano": 2026,
+      "norma": 1096
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1998/86/lei_185_22051998_cmdr_-dig.pdf da norma Lei Ordinária nº 185, de 11 de maio de 1998",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Conceicao do Coite Camara de Vereadores",
+                [
+                  "2022-10-05T10:20:42-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Lei digitalizada",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/1998/86/lei_185_22051998_cmdr_-dig.pdf",
+      "ano": 1998,
+      "norma": 667
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/87/lei_797_29122016_dispoe_sobre_o_acesso_a_informacao_-dig.pdf da norma Lei Ordinária nº 797, de 29 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Conceicao do Coite Camara de Vereadores",
+                [
+                  "2022-10-10T12:02:48-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Lei digitalizada",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2016/87/lei_797_29122016_dispoe_sobre_o_acesso_a_informacao_-dig.pdf",
+      "ano": 2016,
+      "norma": 813
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/88/lei_802_23022017_estrutura_administrativa_procuradoria_juridica_-dig.pdf da norma Lei Ordinária nº 802, de 02 de março de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Conceicao do Coite Camara de Vereadores",
+                [
+                  "2022-10-10T12:05:11-03:00",
+                  "ICP-Brasil - Certificado PJ A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Lei digitalizada",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/88/lei_802_23022017_estrutura_administrativa_procuradoria_juridica_-dig.pdf",
+      "ano": 2025,
+      "norma": 818
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/89/leic_113_09032026_dispoe_vencimentos_servidores_legislativo.pdf da norma Lei Complementar nº 117, de 16 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Marcelo Passos de Araujo",
+                [
+                  "2026-03-10T16:49:06-03:00",
+                  "ICP-Brasil - Certificado PF A3"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Anexo Unico",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/89/leic_113_09032026_dispoe_vencimentos_servidores_legislativo.pdf",
+      "ano": 2026,
+      "norma": 1127
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/90/leic_115_17032026_altera_lei_103_tabela_vencimentos_-_anexo_unico.pdf da norma Lei Complementar nº 115, de 17 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Anexo Único",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/90/leic_115_17032026_altera_lei_103_tabela_vencimentos_-_anexo_unico.pdf",
+      "ano": 2026,
+      "norma": 1107
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/91/leic_113_09032026_irga_legislativo_-_anexo_unico.pdf da norma Lei Complementar nº 113, de 09 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "Anexo Único - Tabela Vencimentos",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/91/leic_113_09032026_irga_legislativo_-_anexo_unico.pdf",
+      "ano": 2026,
+      "norma": 1105
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/92/anexos_leic_040_02062011_consolida_carreira_do_magisterio.pdf da norma Lei Complementar nº 40, de 02 de junho de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Complementar 40/2011",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2011/92/anexos_leic_040_02062011_consolida_carreira_do_magisterio.pdf",
+      "ano": 2011,
+      "norma": 1143
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/93/anexo_ii_leic_028_07042008_revogada_altera_lc_024.pdf da norma Lei Complementar nº 28, de 07 de abril de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "Altera a Leic 24",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2008/93/anexo_ii_leic_028_07042008_revogada_altera_lc_024.pdf",
+      "ano": 2008,
+      "norma": 1146
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/94/anexo_da_leic_033_22092009_revogada_reajuste_magisterio.pdf da norma Lei Complementar nº 33, de 22 de setembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "Altera anexo 24",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2009/94/anexo_da_leic_033_22092009_revogada_reajuste_magisterio.pdf",
+      "ano": 2009,
+      "norma": 1147
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/95/anexo_iii_e_ii_leic_024_28062007_revogada_altera_carreira_magisterio.pdf da norma Lei Complementar nº 24, de 28 de junho de 2007",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "Anexo I, II e II da leic 24",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2008/95/anexo_iii_e_ii_leic_024_28062007_revogada_altera_carreira_magisterio.pdf",
+      "ano": 2008,
+      "norma": 1145
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/96/anexo_unico_leic_052_25072013_extingue_e_cria_cargos.pdf da norma Lei Complementar nº 52, de 25 de julho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "Anexo da leic",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2013/96/anexo_unico_leic_052_25072013_extingue_e_cria_cargos.pdf",
+      "ano": 2013,
+      "norma": 1150
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/97/anexos_da_leic_051_20062013_extingue_empregos_cria_cargos.pdf da norma Lei Complementar nº 51, de 20 de junho de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "Anexos da leic",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2013/97/anexos_da_leic_051_20062013_extingue_empregos_cria_cargos.pdf",
+      "ano": 2013,
+      "norma": 1149
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/98/anexos_da_leic_087_31102022_cargos_escola_militar-2-5.pdf da norma Lei Complementar nº 87, de 31 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "Anexos da leic 87",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2022/98/anexos_da_leic_087_31102022_cargos_escola_militar-2-5.pdf",
+      "ano": 2022,
+      "norma": 162
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2005/99/anexos_da_leic_015_11042005_revogada_altera_lc_001.pdf da norma Lei Complementar nº 15, de 11 de julho de 2005",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Leic 15/2005",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2005/99/anexos_da_leic_015_11042005_revogada_altera_lc_001.pdf",
+      "ano": 2005,
+      "norma": 1158
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/100/anexos_da_lei_lei_887_21112019__uso_e_ocupacao_do_solo.pdf da norma Lei Ordinária nº 887, de 21 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2019/100/anexos_da_lei_lei_887_21112019__uso_e_ocupacao_do_solo.pdf",
+      "ano": 2019,
+      "norma": 675
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/101/anexo_i_lei_1186.pdf da norma Lei Ordinária nº 1.186, de 07 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "Anexo I",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/101/anexo_i_lei_1186.pdf",
+      "ano": 2026,
+      "norma": 1180
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/102/anexos_loa_2021.pdf da norma Lei Ordinária nº 969, de 29 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2021/102/anexos_loa_2021.pdf",
+      "ano": 2021,
+      "norma": 86
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/103/anexos_ldo.pdf da norma Lei Ordinária nº 968, de 29 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LDO",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2021/103/anexos_ldo.pdf",
+      "ano": 2021,
+      "norma": 85
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/104/anexos_plc_08_2026_plano_carreira__professores.pdf da norma Lei Complementar nº 118, de 13 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Leic 118",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/104/anexos_plc_08_2026_plano_carreira__professores.pdf",
+      "ano": 2026,
+      "norma": 1186
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/105/anexos_da_lei_967_29122021_ppa_2022_2025.pdf da norma Lei Ordinária nº 967, de 29 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "Anexos da lei",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2021/105/anexos_da_lei_967_29122021_ppa_2022_2025.pdf",
+      "ano": 2021,
+      "norma": 84
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/106/anexos_da_lei_1191_01092026_refis.pdf da norma Lei Ordinária nº 1.191, de 01 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "Aexos da lei",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/106/anexos_da_lei_1191_01092026_refis.pdf",
+      "ano": 2026,
+      "norma": 1190
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/107/anexos__lei_945_2021_refis.pdf da norma Lei Ordinária nº 945, de 09 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "Anexos",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2021/107/anexos__lei_945_2021_refis.pdf",
+      "ano": 2021,
+      "norma": 52
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/108/leic_100_05022025_anexo_unico.pdf da norma Lei Complementar nº 100, de 05 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "ANEXO ÚNICO\r\nLEI COMPLEMENTAR N. 63/2015 - ANEXO III\r\nTABELA DE VENCIMENTOS\r\nDOS CARGOS DE PROVIMENTO EM COMISSÃO",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2025/108/leic_100_05022025_anexo_unico.pdf",
+      "ano": 2025,
+      "norma": 643
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/109/anexos_da_lei_1192_09092026.pdf da norma Lei Ordinária nº 1.192, de 09 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Norma",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/109/anexos_da_lei_1192_09092026.pdf",
+      "ano": 2026,
+      "norma": 1194
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/110/anexos_da_lei_1193_22092026_ldo.pdf da norma Lei Ordinária nº 1.193, de 22 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei 1193",
+      "anexo_arquivo": "http://sapl.conceicaodocoite.ba.leg.br/media/sapl/public/anexonormajuridica/2026/110/anexos_da_lei_1193_22092026_ldo.pdf",
+      "ano": 2026,
+      "norma": 1193
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/993121ee291803bd59502e0af5febdf92ef87b708644bd90fcaa1555476a60f1.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "40e7abdfdfff104b0d360a965807bc9dfb5b2f4a0061bac8bf77f61e415fe657",
+      "capturado_em": "2026-10-20T20:50:38.150591",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.conceicaodocoite.ba.leg.br/993121ee291803bd59502e0af5febdf92ef87b708644bd90fcaa1555476a60f1.json"
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.conceicaodocoite.ba.leg.br/026383168ed8b5ecac6c03257233cc32bad6178fe3cfea8145bcedc6ef41da0b.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9ed0bcc2b274336fac5e04a1c22f9c7fd552db1fd482ba01ea46bcc4177b41f7",
+      "capturado_em": "2026-10-20T20:50:38.604848",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.conceicaodocoite.ba.leg.br/026383168ed8b5ecac6c03257233cc32bad6178fe3cfea8145bcedc6ef41da0b.json"
+    }
+  ]
+}

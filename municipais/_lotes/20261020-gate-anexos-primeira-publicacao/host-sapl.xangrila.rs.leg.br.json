@@ -1,0 +1,1108 @@
+{
+  "host": "sapl.xangrila.rs.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/portaria_68-2019-_ferias_barbara.odt da norma Portaria nº 68, de 30 de julho de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Arquivo editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/1/portaria_68-2019-_ferias_barbara.odt",
+      "ano": 2019,
+      "norma": 2714
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/3/portaria_69-2019_-_interrupcao_ferias_evelise.odt da norma Portaria nº 69, de 05 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Documento editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/3/portaria_69-2019_-_interrupcao_ferias_evelise.odt",
+      "ano": 2019,
+      "norma": 2781
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/4/termo_de_posse_victor.pdf da norma Portaria nº 18, de 28 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse do Sr. Victor Fossá",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2010/4/termo_de_posse_victor.pdf",
+      "ano": 2010,
+      "norma": 2318
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/5/termo_de_posse_jose.pdf da norma Portaria nº 19, de 28 de junho de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse do Sr. José Mengue dos Santos",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2010/5/termo_de_posse_jose.pdf",
+      "ano": 2010,
+      "norma": 2319
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/6/termo_de_posse_juliete.pdf da norma Portaria nº 49, de 25 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse da Sra. Juliete Magnus de Camargo",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2013/6/termo_de_posse_juliete.pdf",
+      "ano": 2013,
+      "norma": 2528
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/7/termo_de_posse_vanessa.pdf da norma Portaria nº 50, de 25 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse da Sra. Vanessa da Silva Nunes",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2013/7/termo_de_posse_vanessa.pdf",
+      "ano": 2013,
+      "norma": 2529
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/8/termo_de_posse_lis.pdf da norma Portaria nº 51, de 25 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse da Sra. Lis Everty Carolina Garcia Viacava",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2013/8/termo_de_posse_lis.pdf",
+      "ano": 2013,
+      "norma": 2530
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/9/termo_de_posse_helio.pdf da norma Portaria nº 52, de 25 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse do Sr. Hélio de Souza Bogado Neto",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2013/9/termo_de_posse_helio.pdf",
+      "ano": 2013,
+      "norma": 2531
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2011/10/termo_de_posse_barbara.pdf da norma Portaria nº 32, de 25 de novembro de 2011",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Termo de Posse da Sra. Bárbara da Silva Alves",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2011/10/termo_de_posse_barbara.pdf",
+      "ano": 2011,
+      "norma": 2356
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/11/portaria_70-2019-_ferias_juliete.odt da norma Portaria nº 70, de 13 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Documento editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/11/portaria_70-2019-_ferias_juliete.odt",
+      "ano": 2019,
+      "norma": 2895
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/12/publicado.pdf da norma Resolução de Mesa nº 4, de 12 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/12/publicado.pdf",
+      "ano": 2019,
+      "norma": 2896
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/13/portaria_71-2019-_interrupcao_ferias_juliete.pdf da norma Portaria nº 71, de 15 de agosto de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Arquivo editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/13/portaria_71-2019-_interrupcao_ferias_juliete.pdf",
+      "ano": 2019,
+      "norma": 2897
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/14/portaria_72-2019-_ferias_jose.odt da norma Portaria nº 72, de 09 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "Documento Editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/14/portaria_72-2019-_ferias_jose.odt",
+      "ano": 2019,
+      "norma": 2900
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/15/portaria_73-2019_-_comissao_temporaria_de_inventario.odt da norma Portaria nº 73, de 13 de setembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "Documento editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/15/portaria_73-2019_-_comissao_temporaria_de_inventario.odt",
+      "ano": 2019,
+      "norma": 2911
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/16/portaria_74-2019-_ferias_rafael.odt da norma Portaria nº 74, de 01 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "Documento editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/16/portaria_74-2019-_ferias_rafael.odt",
+      "ano": 2019,
+      "norma": 2912
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/17/portaria_75-2019-_ferias_juliete.odt da norma Portaria nº 75, de 08 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Norma editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/17/portaria_75-2019-_ferias_juliete.odt",
+      "ano": 2019,
+      "norma": 2913
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/18/portaria_76-2019-_interrupcao_ferias_juliete.odt da norma Portaria nº 76, de 11 de outubro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Norma editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/18/portaria_76-2019-_interrupcao_ferias_juliete.odt",
+      "ano": 2019,
+      "norma": 2916
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/19/portaria_77-2019-_ferias_vanessa.odt da norma Portaria nº 77, de 18 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Norma editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/19/portaria_77-2019-_ferias_vanessa.odt",
+      "ano": 2019,
+      "norma": 2935
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/20/portaria_78-2019-_interrupcao_ferias_vanessa.odt da norma Portaria nº 78, de 26 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Norma editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/20/portaria_78-2019-_interrupcao_ferias_vanessa.odt",
+      "ano": 2019,
+      "norma": 2936
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/21/portaria_79-2019-_ferias_helio.odt da norma Portaria nº 79, de 29 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "Norma editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/21/portaria_79-2019-_ferias_helio.odt",
+      "ano": 2019,
+      "norma": 2937
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/22/portaria_80-2019-_ferias_edna.odt da norma Portaria nº 80, de 29 de novembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "Norma editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2019/22/portaria_80-2019-_ferias_edna.odt",
+      "ano": 2019,
+      "norma": 2938
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/23/publicado_10_02_2020.pdf da norma Decreto Legislativo nº 2, de 04 de fevereiro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Publicação no diário dos Municípios 10/02/2020.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/23/publicado_10_02_2020.pdf",
+      "ano": 2020,
+      "norma": 2989
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/24/parecer_17244.pdf da norma Decreto Legislativo nº 12, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Parecer 17244 do Processo de Contas do exercício de 2012.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2017/24/parecer_17244.pdf",
+      "ano": 2017,
+      "norma": 2990
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/25/parecer_19108.pdf da norma Decreto Legislativo nº 12, de 18 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "Parecer 19108 do Processo de Contas do exercício de 2012.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2017/25/parecer_19108.pdf",
+      "ano": 2017,
+      "norma": 2990
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/26/publicado_25_03_2020.pdf da norma Portaria nº 61, de 24 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/26/publicado_25_03_2020.pdf",
+      "ano": 2020,
+      "norma": 3019
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/27/publicado_24_03_2020.pdf da norma Portaria nº 59, de 23 de março de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/27/publicado_24_03_2020.pdf",
+      "ano": 2020,
+      "norma": 3017
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/28/publicado_06_04_2020.pdf da norma Portaria nº 64, de 03 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/28/publicado_06_04_2020.pdf",
+      "ano": 2020,
+      "norma": 3022
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/29/publicado_03_04_2020.pdf da norma Portaria nº 63, de 01 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Publicação Diário dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/29/publicado_03_04_2020.pdf",
+      "ano": 2020,
+      "norma": 3021
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/30/publicado_22_04_2020.pdf da norma Portaria nº 66, de 20 de abril de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Publicação diário dos Munícipios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/30/publicado_22_04_2020.pdf",
+      "ano": 2020,
+      "norma": 3024
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/31/publicado_04_06_2020.pdf da norma Resolução nº 1, de 01 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/31/publicado_04_06_2020.pdf",
+      "ano": 2020,
+      "norma": 3031
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/32/publicado_04_06_2020.pdf da norma Emenda à Lei Orgânica nº 1, de 01 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/32/publicado_04_06_2020.pdf",
+      "ano": 2020,
+      "norma": 3032
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/33/dl_07_16.doc da norma Decreto Legislativo nº 7, de 19 de dezembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "Documento editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2016/33/dl_07_16.doc",
+      "ano": 2016,
+      "norma": 94
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/34/publicado_26_06_2020.pdf da norma Emenda à Lei Orgânica nº 2, de 23 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/34/publicado_26_06_2020.pdf",
+      "ano": 2020,
+      "norma": 3037
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/35/portaria_74-2020_-_ferias_cristiano.odt da norma Portaria nº 74, de 01 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "Documento Editável.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/35/portaria_74-2020_-_ferias_cristiano.odt",
+      "ano": 2020,
+      "norma": 3038
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/36/publicado_09_07_2020.pdf da norma Resolução nº 2, de 07 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/36/publicado_09_07_2020.pdf",
+      "ano": 2020,
+      "norma": 3040
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/37/publicado_09_07_2020.pdf da norma Resolução nº 3, de 07 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/37/publicado_09_07_2020.pdf",
+      "ano": 2020,
+      "norma": 3041
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/38/anexos.pdf da norma Lei nº 2.170, de 25 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/38/anexos.pdf",
+      "ano": 2020,
+      "norma": 3113
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/39/publicado_13_11_2020.pdf da norma Decreto Legislativo nº 7, de 12 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/39/publicado_13_11_2020.pdf",
+      "ano": 2020,
+      "norma": 3138
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/40/publicado_19_11_2020.pdf da norma Portaria nº 94, de 17 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/40/publicado_19_11_2020.pdf",
+      "ano": 2020,
+      "norma": 3139
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/41/publicado_25_11_2020.pdf da norma Emenda à Lei Orgânica nº 3, de 19 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/41/publicado_25_11_2020.pdf",
+      "ano": 2020,
+      "norma": 3147
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/42/anexo.pdf da norma Lei nº 2.181, de 19 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/42/anexo.pdf",
+      "ano": 2020,
+      "norma": 3161
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/43/anexo.pdf da norma Lei nº 2.182, de 19 de novembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/43/anexo.pdf",
+      "ano": 2020,
+      "norma": 3162
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/44/publicado_19_12_2020.pdf da norma Decreto Legislativo nº 8, de 17 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/44/publicado_19_12_2020.pdf",
+      "ano": 2020,
+      "norma": 3157
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/45/parecer_tce_20436.pdf da norma Decreto Legislativo nº 9, de 28 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "Parecer 20436 do TCE/RS",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/45/parecer_tce_20436.pdf",
+      "ano": 2020,
+      "norma": 3165
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/46/parecer_tce_20504.pdf da norma Decreto Legislativo nº 10, de 28 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "Parecer 20504 do TCE/RS",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/46/parecer_tce_20504.pdf",
+      "ano": 2020,
+      "norma": 3166
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/47/anexo.pdf da norma Lei nº 2.185, de 03 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2020/47/anexo.pdf",
+      "ano": 2020,
+      "norma": 3168
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/48/publicado_resolucao_06_2021.pdf da norma Resolução de Mesa-MD nº 6, de 20 de maio de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2021/48/publicado_resolucao_06_2021.pdf",
+      "ano": 2021,
+      "norma": 3253
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/49/publicacao_lei_2242.pdf da norma Lei nº 2.242, de 11 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2021/49/publicacao_lei_2242.pdf",
+      "ano": 2021,
+      "norma": 3259
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/50/publiccao_res_08_2021.pdf da norma Resolução de Mesa nº 8, de 05 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "Publicação no diário Eletrônico dos Munícipios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2021/50/publiccao_res_08_2021.pdf",
+      "ano": 2021,
+      "norma": 3332
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/51/publicado_res_01_2021.pdf da norma Resolução nº 1, de 04 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2021/51/publicado_res_01_2021.pdf",
+      "ano": 2021,
+      "norma": 3342
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/52/publicacao_res_09_2021.pdf da norma Resolução de Mesa nº 9, de 13 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Munícipios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2021/52/publicacao_res_09_2021.pdf",
+      "ano": 2021,
+      "norma": 3365
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/53/publicacao_res-01_2022.pdf da norma Resolução de Mesa-PL nº 1, de 12 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/53/publicacao_res-01_2022.pdf",
+      "ano": 2022,
+      "norma": 3380
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1993/54/lom_2012.pdf da norma Lei Orgânica Municipal nº 1, de 04 de janeiro de 1993",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "Lei Orgânica Versão de 2012",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/1993/54/lom_2012.pdf",
+      "ano": 1993,
+      "norma": 425
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/55/publicado_res_03_2022.pdf da norma Resolução de Mesa-PL nº 3, de 16 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/55/publicado_res_03_2022.pdf",
+      "ano": 2022,
+      "norma": 3405
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/56/publicacao_decreto_03_2022.pdf da norma Decreto Legislativo nº 3, de 21 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/56/publicacao_decreto_03_2022.pdf",
+      "ano": 2022,
+      "norma": 3406
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/57/publicado_resolucao_mesa_02_2022.pdf da norma Resolução de Mesa nº 2, de 01 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/57/publicado_resolucao_mesa_02_2022.pdf",
+      "ano": 2022,
+      "norma": 3419
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/58/publicado_resolucao_mesa_06_2022.pdf da norma Resolução de Mesa nº 6, de 22 de agosto de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "Publicação no diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/58/publicado_resolucao_mesa_06_2022.pdf",
+      "ano": 2022,
+      "norma": 3555
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/59/publicacao_resolucao_mesa_07_2022.pdf da norma Resolução de Mesa nº 7, de 03 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/59/publicacao_resolucao_mesa_07_2022.pdf",
+      "ano": 2022,
+      "norma": 3578
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/60/contas_atualizado.pdf da norma Decreto Legislativo nº 6, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/60/contas_atualizado.pdf",
+      "ano": 2022,
+      "norma": 3598
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/61/contas_atualizado.pdf da norma Decreto Legislativo nº 7, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/61/contas_atualizado.pdf",
+      "ano": 2022,
+      "norma": 3599
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/62/contas_atualizado.pdf da norma Decreto Legislativo nº 8, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/62/contas_atualizado.pdf",
+      "ano": 2022,
+      "norma": 3600
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/63/contas_atualizado.pdf da norma Decreto Legislativo nº 9, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/63/contas_atualizado.pdf",
+      "ano": 2022,
+      "norma": 3601
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/64/contas_atualizado.pdf da norma Decreto Legislativo nº 10, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/64/contas_atualizado.pdf",
+      "ano": 2022,
+      "norma": 3602
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/publicado_dl_06_2022.pdf da norma Decreto Legislativo nº 6, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/65/publicado_dl_06_2022.pdf",
+      "ano": 2022,
+      "norma": 3598
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/66/publicado_dl_07_2022.pdf da norma Decreto Legislativo nº 7, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/66/publicado_dl_07_2022.pdf",
+      "ano": 2022,
+      "norma": 3599
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/67/publicado_dl_08_2022.pdf da norma Decreto Legislativo nº 8, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/67/publicado_dl_08_2022.pdf",
+      "ano": 2022,
+      "norma": 3600
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/68/publicado_dl_09_2022.pdf da norma Decreto Legislativo nº 9, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/68/publicado_dl_09_2022.pdf",
+      "ano": 2022,
+      "norma": 3601
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/69/publicado_dl_10_2022.pdf da norma Decreto Legislativo nº 10, de 06 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/69/publicado_dl_10_2022.pdf",
+      "ano": 2022,
+      "norma": 3602
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/publicado_res_mesa_08_2022.pdf da norma Resolução de Mesa nº 8, de 07 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/70/publicado_res_mesa_08_2022.pdf",
+      "ano": 2022,
+      "norma": 3617
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/71/publicado_res_mesa_09_2022.pdf da norma Resolução de Mesa nº 9, de 07 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/71/publicado_res_mesa_09_2022.pdf",
+      "ano": 2022,
+      "norma": 3618
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/publicado_res_mesa_10_2022.pdf da norma Resolução de Mesa nº 10, de 07 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/72/publicado_res_mesa_10_2022.pdf",
+      "ano": 2022,
+      "norma": 3619
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/73/publicado_res_mesa_11_2022.pdf da norma Resolução de Mesa nº 11, de 23 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/73/publicado_res_mesa_11_2022.pdf",
+      "ano": 2022,
+      "norma": 3620
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/74/publicado_resolucao_mesa_12_2022.pdf da norma Resolução de Mesa nº 12, de 07 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/74/publicado_resolucao_mesa_12_2022.pdf",
+      "ano": 2022,
+      "norma": 3656
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/75/publicado_resolucao_mesa_14_2022.pdf da norma Resolução de Mesa nº 14, de 28 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/75/publicado_resolucao_mesa_14_2022.pdf",
+      "ano": 2022,
+      "norma": 3671
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/76/publicado_resolucao_mesa_13_2022.pdf da norma Resolução de Mesa nº 13, de 15 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2022/76/publicado_resolucao_mesa_13_2022.pdf",
+      "ano": 2022,
+      "norma": 3657
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/77/publicado_resolucao_01_2023.pdf da norma Resolução de Mesa-DL nº 1, de 05 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/77/publicado_resolucao_01_2023.pdf",
+      "ano": 2023,
+      "norma": 3672
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/78/publicado_resolucao_02_2023.pdf da norma Resolução de Mesa-DL nº 2, de 05 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/78/publicado_resolucao_02_2023.pdf",
+      "ano": 2023,
+      "norma": 3673
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/79/publicado_res_mesa_03_2023.pdf da norma Resolução de Mesa-MD nº 3, de 06 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/79/publicado_res_mesa_03_2023.pdf",
+      "ano": 2023,
+      "norma": 3697
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/80/publicado_resolucao_mesa_04_2023.pdf da norma Resolução de Mesa-MD nº 4, de 07 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/80/publicado_resolucao_mesa_04_2023.pdf",
+      "ano": 2023,
+      "norma": 3710
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/81/publicado_resolucao_mesa_05_2023.pdf da norma Resolução de Mesa-DL nº 5, de 08 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/81/publicado_resolucao_mesa_05_2023.pdf",
+      "ano": 2023,
+      "norma": 3771
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/82/publicado_resolucao_mesa_06_2023.pdf da norma Resolução de Mesa-DL nº 6, de 08 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/82/publicado_resolucao_mesa_06_2023.pdf",
+      "ano": 2023,
+      "norma": 3772
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/83/dec-139-2023-xangrila-rs.pdf da norma Lei-DL nº 2.538, de 18 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "Decreto que Regulamenta a Lei 2538/2023.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/83/dec-139-2023-xangrila-rs.pdf",
+      "ano": 2023,
+      "norma": 3783
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/84/decreto23430-1974-rs.pdf da norma Lei-DL nº 2.515, de 16 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 23.430, DE 24 DE OUTUBRO DE 1974.\r\n\r\nAprova Regulamento que dispõe sobre a promoção, proteção e recuperação da Saúde Pública.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/84/decreto23430-1974-rs.pdf",
+      "ano": 2023,
+      "norma": 3716
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/85/publicado_site_camara.pdf da norma Decreto Legislativo nº 7, de 03 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Site da Câmara",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/85/publicado_site_camara.pdf",
+      "ano": 2023,
+      "norma": 3842
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/86/publicado_face_camara.pdf da norma Decreto Legislativo nº 7, de 03 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Facebook da câmara",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/86/publicado_face_camara.pdf",
+      "ano": 2023,
+      "norma": 3842
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/87/publicdo_decreto_07_2023.pdf da norma Decreto Legislativo nº 7, de 03 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/87/publicdo_decreto_07_2023.pdf",
+      "ano": 2023,
+      "norma": 3842
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/88/publicado_resolucao_15_2023.pdf da norma Resolução de Mesa-MD nº 15, de 07 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "Publicação no diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/88/publicado_resolucao_15_2023.pdf",
+      "ano": 2023,
+      "norma": 3859
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/89/publicado_resolucao_16_2023.pdf da norma Resolução de Mesa-MD nº 16, de 13 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "Publicação no diário Eletrônico dos Municípios",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2023/89/publicado_resolucao_16_2023.pdf",
+      "ano": 2023,
+      "norma": 3862
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/90/publicacao_res-04_2024.pdf da norma Resolução de Mesa nº 4, de 05 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Oficial dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2024/90/publicacao_res-04_2024.pdf",
+      "ano": 2024,
+      "norma": 3996
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/91/publicacao_emenda_lom_01_2024.pdf da norma Emenda à Lei Orgânica nº 1, de 16 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "Publicação da emenda no Diário Oficial dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2024/91/publicacao_emenda_lom_01_2024.pdf",
+      "ano": 2024,
+      "norma": 4011
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/92/publicado_rm_05_2024.pdf da norma Resolução de Mesa-DL nº 5, de 22 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "Publicação no Diário Eletrônico dos Municípios.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2024/92/publicado_rm_05_2024.pdf",
+      "ano": 2024,
+      "norma": 4015
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/93/ata_recomposicao_das_cp_31-03-2025_1.pdf da norma Portaria-PL nº 74, de 07 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Nome do Assinante Não Localizado.",
+                [
+                  "2025-04-03T14:19:54-03:00",
+                  "FlowDocs"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Ata de recomposição das Comissões",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/93/ata_recomposicao_das_cp_31-03-2025_1.pdf",
+      "ano": 2025,
+      "norma": 4243
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/94/resolucao_de_mesa_10-2025.pdf da norma Resolução de Mesa-MD nº 10, de 07 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "Publicado no Diário Oficial dos Municípios do Rio Grande do Sul - FAMURS no dia 12 de maio de 2025.",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/94/resolucao_de_mesa_10-2025.pdf",
+      "ano": 2025,
+      "norma": 4249
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/95/resolucao_de_mesa_no_09-2025.pdf da norma Resolução de Mesa-MD nº 9, de 08 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/95/resolucao_de_mesa_no_09-2025.pdf",
+      "ano": 2025,
+      "norma": 4250
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/96/resolucao_de_mesa_no_08-2025.pdf da norma Resolução de Mesa-MD nº 8, de 24 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/96/resolucao_de_mesa_no_08-2025.pdf",
+      "ano": 2025,
+      "norma": 4246
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/97/resolucao_de_mesa_no_07-2025.pdf da norma Resolução de Mesa-MD nº 7, de 25 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/97/resolucao_de_mesa_no_07-2025.pdf",
+      "ano": 2025,
+      "norma": 4240
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/98/resolucao_de_mesa_no_02-2025.pdf da norma Resolução de Mesa-MD nº 2, de 14 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/98/resolucao_de_mesa_no_02-2025.pdf",
+      "ano": 2025,
+      "norma": 4094
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/99/dom-famurs_-_resolucao_de_mesa_21-2025.pdf da norma Resolução de Mesa-MD nº 21, de 24 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "Publicada no DOM-FAMURS em 25/11/2025",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/99/dom-famurs_-_resolucao_de_mesa_21-2025.pdf",
+      "ano": 2025,
+      "norma": 4471
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/100/publicacao_resolucao_de_mesa_23-2025.pdf da norma Resolução de Mesa-MD nº 23, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "Extrato de publicação no Diário Oficial dos Municípios do RS - FAMURS",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/100/publicacao_resolucao_de_mesa_23-2025.pdf",
+      "ano": 2025,
+      "norma": 4489
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/101/resolucao_de_mesa_n_13-2025.pdf da norma Resolução de Mesa-MD nº 13, de 09 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "Extrato de publicação no DO",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/101/resolucao_de_mesa_n_13-2025.pdf",
+      "ano": 2025,
+      "norma": 4422
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/102/publicacao_resolucao_de_mesa_25-2025.pdf da norma Resolução de Mesa-MD nº 24, de 23 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "Extrato de publicação do Diário Oficial",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/102/publicacao_resolucao_de_mesa_25-2025.pdf",
+      "ano": 2025,
+      "norma": 4520
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/103/resolucao_de_mesa_n_14-2025_de_10_de_outubro_de_2025.pdf da norma Resolução de Mesa-MD nº 14, de 10 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/103/resolucao_de_mesa_n_14-2025_de_10_de_outubro_de_2025.pdf",
+      "ano": 2025,
+      "norma": 4424
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/104/resolucao_de_mesa_n_16-2025_de_24_de_outubro_de_2025.pdf da norma Resolução de Mesa-MD nº 16, de 10 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/104/resolucao_de_mesa_n_16-2025_de_24_de_outubro_de_2025.pdf",
+      "ano": 2025,
+      "norma": 4472
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/105/resolucao_de_mesa_n_15-2025_de_28_de_outubro_de_2025.pdf da norma Resolução de Mesa-MD nº 17, de 28 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/105/resolucao_de_mesa_n_15-2025_de_28_de_outubro_de_2025.pdf",
+      "ano": 2025,
+      "norma": 4469
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/106/resolucao_de_mesa_n_17-2025_de_28_de_outubro_de_2025.pdf da norma Resolução de Mesa-MD nº 18, de 28 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/106/resolucao_de_mesa_n_17-2025_de_28_de_outubro_de_2025.pdf",
+      "ano": 2025,
+      "norma": 4473
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/107/lei_n_2868_de_30_de_outubro_de_2025.pdf da norma Lei-PE nº 2.868, de 30 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2025/107/lei_n_2868_de_30_de_outubro_de_2025.pdf",
+      "ano": 2025,
+      "norma": 4465
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/108/publicacao_resolucao_mesa_02_2026.pdf da norma Resolução de Mesa-MD nº 2, de 27 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.xangrila.rs.leg.br/media/sapl/public/anexonormajuridica/2026/108/publicacao_resolucao_mesa_02_2026.pdf",
+      "ano": 2026,
+      "norma": 4617
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.xangrila.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/30c42a5fda96d4f7134d899660cb45237df0e6c2b8875e777607d8558d51488d.json",
+      "sha256": "b94243941ac96735cfe2e3d4325746f05781d7b01dafbfec9e61076e971ffb96",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/30c42a5fda96d4f7134d899660cb45237df0e6c2b8875e777607d8558d51488d.meta.json"
+    },
+    {
+      "url": "https://sapl.xangrila.rs.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/acc3a74101d71daa2e48cf88f41c82ea6cb6f43b039e701a2076dc058b7e6c7d.json",
+      "sha256": "7b11bdb473573b83b0a4f27b15fb2df180382320e2bdfd69e25379388edbd91e",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.xangrila.rs.leg.br/acc3a74101d71daa2e48cf88f41c82ea6cb6f43b039e701a2076dc058b7e6c7d.meta.json"
+    }
+  ],
+  "total": 107
+}

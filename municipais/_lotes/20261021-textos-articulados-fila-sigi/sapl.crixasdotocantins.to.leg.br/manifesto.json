@@ -1,0 +1,42 @@
+{
+  "host": "sapl.crixasdotocantins.to.leg.br",
+  "metadados_unicos_observados": 1,
+  "total_api_declarado": 1,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.crixasdotocantins.to.leg.br/1324d1b0d3838c96f9ad26a8859ad8a47f93f7fe3bae6a8c8d66de88d2625193.json",
+    "url": "https://sapl.crixasdotocantins.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.crixasdotocantins.to.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "a1a5e99cd9a87df018f605f736466418605ac8fdb59dcef2ad456a32e4382b6a",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:30:01.906664-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.crixasdotocantins.to.leg.br/76637191121f29b16f99c652f1c30d3204f72c3911d88019663436af3aad3c14.json",
+    "url": "https://sapl.crixasdotocantins.to.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.crixasdotocantins.to.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2569c65333b5c97b2fe1361c5ab51da4a9528894ac25c03c57cbf21f937038ac",
+    "bytes": 706,
+    "capturado_em": "2026-10-28T09:30:01.035133-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.crixasdotocantins.to.leg.br/c6e4e6563364d4c5db013b8ab61ccafc5ef65c06dec324fba7a805e588ddf705.json",
+      "url": "https://sapl.crixasdotocantins.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.crixasdotocantins.to.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "dac4013d7ff31231b3611f7fdbc62efe3c6d5ecebdf83e9b318d208be2622a96",
+      "bytes": 706,
+      "capturado_em": "2026-10-28T09:30:03.873843-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

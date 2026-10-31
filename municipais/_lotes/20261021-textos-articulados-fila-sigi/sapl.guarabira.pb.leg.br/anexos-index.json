@@ -1,0 +1,772 @@
+{
+  "estado": "indice_completo",
+  "total": 75,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/resolucao_01-2026.pdf da norma Resolução nº 1, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Publicação",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/1/resolucao_01-2026.pdf",
+      "ano": 2026,
+      "norma": 2
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/publicacao_resolucoes_02-05.pdf da norma Resolução nº 2, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/2/publicacao_resolucoes_02-05.pdf",
+      "ano": 2026,
+      "norma": 3
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/3/publicacao_resolucoes_02-05.pdf da norma Resolução nº 4, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/3/publicacao_resolucoes_02-05.pdf",
+      "ano": 2026,
+      "norma": 5
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/4/publicacao_resolucoes_02-05.pdf da norma Resolução nº 5, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/4/publicacao_resolucoes_02-05.pdf",
+      "ano": 2026,
+      "norma": 6
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/5/publicacao_resolucoes_02-05.pdf da norma Resolução nº 3, de 01 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/5/publicacao_resolucoes_02-05.pdf",
+      "ano": 2026,
+      "norma": 4
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/6/publicacao_resolucoes_7-18.pdf da norma Resolução nº 10, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/6/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 11
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/7/publicacao_resolucoes_7-18.pdf da norma Resolução nº 9, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/7/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 10
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/8/publicacao_resolucoes_7-18.pdf da norma Resolução nº 8, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/8/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 9
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/9/publicacao_resolucoes_7-18.pdf da norma Resolução nº 7, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/9/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 8
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/10/publicacao_resolucao_06.pdf da norma Resolução nº 6, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/10/publicacao_resolucao_06.pdf",
+      "ano": 2026,
+      "norma": 7
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/11/publicacao_resolucoes_7-18.pdf da norma Resolução nº 11, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/11/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 12
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/12/publicacao_resolucoes_7-18.pdf da norma Resolução nº 12, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/12/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 13
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/13/publicacao_resolucoes_7-18.pdf da norma Resolução nº 13, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/13/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 14
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/14/publicacao_resolucoes_7-18.pdf da norma Resolução nº 14, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/14/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 15
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/15/publicacao_resolucoes_7-18.pdf da norma Resolução nº 15, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/15/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 16
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/16/publicacao_resolucoes_7-18.pdf da norma Resolução nº 16, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/16/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 17
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/17/publicacao_resolucoes_7-18.pdf da norma Resolução nº 17, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/17/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 18
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/18/publicacao_resolucoes_7-18.pdf da norma Resolução nº 18, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/18/publicacao_resolucoes_7-18.pdf",
+      "ano": 2026,
+      "norma": 19
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/19/publicacao_resolucoes_19-35.pdf da norma Resolução nº 19, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/19/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 20
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/20/publicacao_resolucoes_19-35.pdf da norma Resolução nº 20, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/20/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 21
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/21/publicacao_resolucoes_19-35.pdf da norma Resolução nº 22, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/21/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 23
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/22/publicacao_resolucoes_19-35.pdf da norma Resolução nº 23, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/22/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 24
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/23/publicacao_resolucoes_19-35.pdf da norma Resolução nº 24, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/23/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 25
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/24/publicacao_resolucoes_19-35.pdf da norma Resolução nº 25, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/24/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 26
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/25/publicacao_resolucoes_19-35.pdf da norma Resolução nº 26, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/25/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 27
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/26/publicacao_resolucoes_19-35.pdf da norma Resolução nº 27, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/26/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 28
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/27/publicacao_resolucoes_19-35.pdf da norma Resolução nº 28, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/27/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 29
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/28/publicacao_resolucoes_19-35.pdf da norma Resolução nº 30, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/28/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 30
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/publicacao_resolucoes_19-35.pdf da norma Resolução nº 31, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/29/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 31
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/30/publicacao_resolucoes_19-35.pdf da norma Resolução nº 32, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/30/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 32
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/31/publicacao_resolucoes_19-35.pdf da norma Resolução nº 33, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/31/publicacao_resolucoes_19-35.pdf",
+      "ano": 2026,
+      "norma": 33
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/32/publicacoes.pdf da norma Resolução nº 34, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/32/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 34
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/33/publicacoes.pdf da norma Resolução nº 35, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/33/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 35
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/34/publicacoes.pdf da norma Resolução nº 36, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/34/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 36
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/35/publicacoes.pdf da norma Resolução nº 37, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/35/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 37
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/36/publicacoes.pdf da norma Resolução nº 38, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/36/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 38
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/37/publicacoes.pdf da norma Resolução nº 39, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/37/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 39
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/38/publicacoes.pdf da norma Resolução nº 40, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {}
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/38/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 40
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/39/publicacoes.pdf da norma Resolução nº 41, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/39/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 41
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/40/publicacoes.pdf da norma Resolução nº 42, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/40/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 42
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/41/publicacoes.pdf da norma Resolução nº 43, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/41/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 43
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/42/publicacoes.pdf da norma Resolução nº 44, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/42/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 44
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/43/publicacoes.pdf da norma Resolução nº 45, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/43/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 45
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/44/publicacoes.pdf da norma Resolução nº 46, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/44/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 46
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/45/publicacoes.pdf da norma Resolução nº 47, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/45/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 47
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/46/publicacoes.pdf da norma Resolução nº 48, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/46/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 48
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/47/publicacoes.pdf da norma Resolução nº 49, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/47/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 49
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/48/publicacoes.pdf da norma Resolução nº 50, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/48/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 50
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/49/publicacoes.pdf da norma Resolução nº 51, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/49/publicacoes.pdf",
+      "ano": 2026,
+      "norma": 51
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/50/publicacao_52-53.pdf da norma Resolução nº 52, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/50/publicacao_52-53.pdf",
+      "ano": 2026,
+      "norma": 52
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/51/publicacao_52-53.pdf da norma Resolução nº 53, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/51/publicacao_52-53.pdf",
+      "ano": 2026,
+      "norma": 53
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/52/publicacao_54-56.pdf da norma Resolução nº 54, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/52/publicacao_54-56.pdf",
+      "ano": 2026,
+      "norma": 54
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/53/publicacao_54-56.pdf da norma Resolução nº 55, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/53/publicacao_54-56.pdf",
+      "ano": 2026,
+      "norma": 55
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/54/dl_01-2026.pdf da norma Decreto Legislativo nº 1, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/54/dl_01-2026.pdf",
+      "ano": 2026,
+      "norma": 56
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/55/decreto_legislativo_02.pdf da norma Decreto Legislativo nº 2, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/55/decreto_legislativo_02.pdf",
+      "ano": 2026,
+      "norma": 57
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/56/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 3, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/56/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 58
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/57/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 4, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/57/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 59
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/58/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 5, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/58/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 60
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/59/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 6, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/59/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 61
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/60/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 7, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/60/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 62
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/61/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 8, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/61/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 63
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/62/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 9, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/62/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 64
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/63/publicacao_decretos_3-10.pdf da norma Decreto Legislativo nº 10, de 02 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/63/publicacao_decretos_3-10.pdf",
+      "ano": 2026,
+      "norma": 65
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/64/publicacao.pdf da norma Lei nº 2.434, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/64/publicacao.pdf",
+      "ano": 2026,
+      "norma": 67
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/65/publicacao.pdf da norma Lei nº 2.533, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/65/publicacao.pdf",
+      "ano": 2026,
+      "norma": 68
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/66/publicacao.pdf da norma Lei nº 2.435, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/66/publicacao.pdf",
+      "ano": 2026,
+      "norma": 69
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/67/publicacao.pdf da norma Lei nº 2.442, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/67/publicacao.pdf",
+      "ano": 2026,
+      "norma": 70
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/68/publicacao.pdf da norma Lei nº 2.443, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/68/publicacao.pdf",
+      "ano": 2026,
+      "norma": 71
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/69/publicacao.pdf da norma Lei nº 2.454, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/69/publicacao.pdf",
+      "ano": 2026,
+      "norma": 72
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/70/publicacao.pdf da norma Lei nº 2.532, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/70/publicacao.pdf",
+      "ano": 2026,
+      "norma": 73
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/71/publicacao.pdf da norma Lei nº 2.436, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/71/publicacao.pdf",
+      "ano": 2026,
+      "norma": 74
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/publicacao.pdf da norma Lei nº 2.437, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/72/publicacao.pdf",
+      "ano": 2026,
+      "norma": 75
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/73/publicacao.pdf da norma Lei nº 2.531, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/73/publicacao.pdf",
+      "ano": 2026,
+      "norma": 76
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/74/publicacao_54-56.pdf da norma Resolução nº 56, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/74/publicacao_54-56.pdf",
+      "ano": 2026,
+      "norma": 78
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/75/publicacao_57.pdf da norma Resolução nº 57, de 03 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guarabira.pb.leg.br/media/sapl/public/anexonormajuridica/2026/75/publicacao_57.pdf",
+      "ano": 2026,
+      "norma": 79
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guarabira.pb.leg.br/c7eae8679ac952d4bc03fabdd488f8f3f42bd6daa8db0c3ee7a6b3ba9daca80e.json",
+      "url": "https://sapl.guarabira.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.guarabira.pb.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e0c2838facf0d1e27accbd3179a7a35501afa315382b9902ee081d09ce7f7e61",
+      "bytes": 28762,
+      "capturado_em": "2026-10-28T13:26:34.347221-03:00"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "host": "sapl.florida.pr.leg.br",
+  "metadados_unicos_observados": 2,
+  "total_api_declarado": 2,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.florida.pr.leg.br/e1ff7c2f29172e498c820dca0654e570f9fc17690cb24f00ba7b28c2180c45b7.json",
+    "url": "https://sapl.florida.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.florida.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "32a4c3628b430079e9eba406d7f4766910ae3f76b5f66afe8178e5fae6c57eca",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:59:34.856994-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.florida.pr.leg.br/78f423147fb41272ffdbf3c30ce889226d809e15a46d75bbefef2b257b802e09.json",
+    "url": "https://sapl.florida.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.florida.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d4e5b56fd6bec25347b6e696ff84cfc1828e88af6c70062fd3f1f7e0cd80323f",
+    "bytes": 720,
+    "capturado_em": "2026-10-28T10:59:34.011110-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.florida.pr.leg.br/e2074fa2d2b7a110905c198d86def633c0e79f20c095c0509f0ee1d86d04099c.json",
+      "url": "https://sapl.florida.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.florida.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "29b395f6f2edbd49b7781a34d650e54de90377833d8f78da423e4f32f952fa8d",
+      "bytes": 1256,
+      "capturado_em": "2026-10-28T10:59:35.867582-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

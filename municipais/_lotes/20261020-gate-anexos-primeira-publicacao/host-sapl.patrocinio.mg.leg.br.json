@@ -1,0 +1,76 @@
+{
+  "host": "sapl.patrocinio.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/1/lei_republicada_5933.pdf da norma Lei Municipal nº 5.933, de 16 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Republique-se a Lei Municipal nº 5.933, de 16 de julho de 2026, com a devida correção em 24/08/2026.",
+      "anexo_arquivo": "http://sapl.patrocinio.mg.leg.br/media/sapl/public/anexonormajuridica/2026/1/lei_republicada_5933.pdf",
+      "ano": 2026,
+      "norma": 3106
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/lei_republicada_5934.pdf da norma Lei Municipal nº 5.934, de 16 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Republique-se a Lei Municipal nº 5.934, de 16 de julho de 2026, com a devida correção em 24/08/2026.",
+      "anexo_arquivo": "http://sapl.patrocinio.mg.leg.br/media/sapl/public/anexonormajuridica/2026/2/lei_republicada_5934.pdf",
+      "ano": 2026,
+      "norma": 3107
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/lei_complementar_no_250_de_28_de_marco_de_2025.pdf da norma Errata nº 250, de 28 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Publicação original com erro material de numeração.",
+      "anexo_arquivo": "http://sapl.patrocinio.mg.leg.br/media/sapl/public/anexonormajuridica/2025/3/lei_complementar_no_250_de_28_de_marco_de_2025.pdf",
+      "ano": 2025,
+      "norma": 3139
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/lei_complementar_no_250_de_28_de_marco_de_2025.pdf da norma Lei Complementar nº 249, de 27 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Publicação que havia sido originalmente publicada e a qual gerou a errata anexada nesta norma.",
+      "anexo_arquivo": "http://sapl.patrocinio.mg.leg.br/media/sapl/public/anexonormajuridica/2025/4/lei_complementar_no_250_de_28_de_marco_de_2025.pdf",
+      "ano": 2025,
+      "norma": 2870
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/5/anexo_lei_5956-26.pdf da norma Lei Municipal nº 5.956, de 28 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.patrocinio.mg.leg.br/media/sapl/public/anexonormajuridica/2026/5/anexo_lei_5956-26.pdf",
+      "ano": 2026,
+      "norma": 3142
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/anexos_lei_complementar_262-2025.pdf da norma Errata nº 262, de 08 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.patrocinio.mg.leg.br/media/sapl/public/anexonormajuridica/2025/6/anexos_lei_complementar_262-2025.pdf",
+      "ano": 2025,
+      "norma": 3124
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.patrocinio.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.patrocinio.mg.leg.br/54b5367ccb870ce138ecf3d117230c0205c6cf75ae9909d37fcfd2ecad47736c.json",
+      "sha256": "3a258572aa9151c26f5b0bfd421910f540920d511a7100058f908b32be2a2e79",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.patrocinio.mg.leg.br/54b5367ccb870ce138ecf3d117230c0205c6cf75ae9909d37fcfd2ecad47736c.meta.json"
+    }
+  ],
+  "total": 6
+}

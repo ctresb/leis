@@ -1,0 +1,88 @@
+{
+  "estado": "indice_completo",
+  "total": 7,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/1/anexos_-_ppa..pdf da norma Lei nº 1.093, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos - PPA.",
+      "anexo_arquivo": "http://sapl.guatapara.sp.leg.br/media/sapl/public/anexonormajuridica/2025/1/anexos_-_ppa..pdf",
+      "ano": 2025,
+      "norma": 400
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/anexos_-_ldo..pdf da norma Lei nº 1.094, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexos - LDO.",
+      "anexo_arquivo": "http://sapl.guatapara.sp.leg.br/media/sapl/public/anexonormajuridica/2025/2/anexos_-_ldo..pdf",
+      "ano": 2025,
+      "norma": 401
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/anexos-_loa..pdf da norma Lei nº 1.095, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexos - LOA.",
+      "anexo_arquivo": "http://sapl.guatapara.sp.leg.br/media/sapl/public/anexonormajuridica/2025/3/anexos-_loa..pdf",
+      "ano": 2025,
+      "norma": 402
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/parecer_ppa..pdf da norma Lei nº 1.093, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Parecer.",
+      "anexo_arquivo": "http://sapl.guatapara.sp.leg.br/media/sapl/public/anexonormajuridica/2025/4/parecer_ppa..pdf",
+      "ano": 2025,
+      "norma": 400
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/parecer_ldo..pdf da norma Lei nº 1.094, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Parecer.",
+      "anexo_arquivo": "http://sapl.guatapara.sp.leg.br/media/sapl/public/anexonormajuridica/2025/5/parecer_ldo..pdf",
+      "ano": 2025,
+      "norma": 401
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/parecer_loa..pdf da norma Lei nº 1.095, de 16 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Parecer.",
+      "anexo_arquivo": "http://sapl.guatapara.sp.leg.br/media/sapl/public/anexonormajuridica/2025/6/parecer_loa..pdf",
+      "ano": 2025,
+      "norma": 402
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/7/lei_1.105-2026.pdf da norma Lei nº 1.105, de 01 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.guatapara.sp.leg.br/media/sapl/public/anexonormajuridica/2026/7/lei_1.105-2026.pdf",
+      "ano": 2026,
+      "norma": 415
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.guatapara.sp.leg.br/20f8df391a399b834796a6c922ca1a71140e2b5b53619e6720cddbee2c2b7b88.json",
+      "url": "https://sapl.guatapara.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.guatapara.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a2f61a76fb6ed6c2cb60eeb3ce565d57c10fa0c42a76429dababda7c9d1d35ac",
+      "bytes": 2737,
+      "capturado_em": "2026-10-28T13:42:10.943514-03:00"
+    }
+  ]
+}

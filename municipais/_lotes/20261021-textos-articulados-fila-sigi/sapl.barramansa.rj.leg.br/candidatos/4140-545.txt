@@ -1,0 +1,127 @@
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº5038, DE 29 DE DEZEMBRO DE 2022.
+
+
+Estima a receita e fixa a despesa do Município de Barra Mansa para o exercício de 2023.
+
+
+Art. 1º.
+
+O Orçamento do Município de Barra Mansa para o exercício financeiro de 2023, discriminado pelos anexos integrantes desta Lei, estima a receita e fixa a despesa em R$ 730.000.000,00 (setecentos e trinta milhões de reais), inclusos no total referido os recursos dos órgãos da Administração Direta, Indireta, Fundos e Fundações, instituídos e mantidos pelo Poder Público e da Câmara Municipal, conforme resumo abaixo:
+
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td colspan="5">EXERCÍCIO DE 2023</td></tr><tr><td>ÓRGÃO</td><td>RECEITA</td><td colspan="3">DESPESA</td></tr><tr><td> </td><td> </td><td>REPASSES DA<br>PMBM</td><td>RECURSOS DO<br>ÓRGÃO</td><td>TOTAL</td></tr><tr><td>01 - CÂMARA</td><td>0,00</td><td>16.340.485,04</td><td>0,00</td><td>16.340.485,04</td></tr><tr><td>02 - PMBM</td><td>326.681.480,00</td><td>0,00</td><td>106.507.514,96</td><td>106.507.514,96</td></tr><tr><td>03 - F.M.S.</td><td>103.100.000,00</td><td>46.560.000,00</td><td>103.100.000,00</td><td>149.660.000,00</td></tr><tr><td>04 – FUNDAÇÃO DE CULTURA</td><td>5.000,00</td><td>1.395.000,00</td><td>5.000,00</td><td>1.400.000,00</td></tr><tr><td>05 - FUNDAMP</td><td>8.400.000,00</td><td>0,00</td><td>8.400.000,00</td><td>8.400.000,00</td></tr><tr><td>06 - SAAE</td><td>74.000.000,00</td><td>10.000.000,00</td><td>74.000.000,00</td><td>84.000.000,00</td></tr><tr><td>08 - FMAS</td><td>2.350.000,00</td><td>4.650.000,00</td><td>2.350.000,00</td><td>7.000.000,00</td></tr><tr><td>09 - FUNDO DE PREV. SOCIAL</td><td>77.982.000,00</td><td>62.254.000,00</td><td>77.982.000,00</td><td>140.236.000,00 </td></tr><tr><td>10 - F. MUN. DIR. DO IDOSO</td><td>1.000,00</td><td>0,00</td><td>1.000,00</td><td>1.000,00</td></tr><tr><td>11 - FUNCRIA</td><td>30.000,00</td><td>0,00</td><td>30.000,00</td><td>30.000,00</td></tr><tr><td>12 - FUNDO EDUCAÇÃO</td><td>130.100.000,00</td><td>72.580.000,00</td><td>130.100.000,00</td><td>202.680.000,00</td></tr><tr><td>13 - FUNDIP</td><td>7.350.000,00</td><td>0,00</td><td>7.350.000,00</td><td>7.350.000,00</td></tr><tr><td>16 - FUNCAM</td><td>520,00</td><td>6.204.480,00</td><td>520,00</td><td>6.205.000,00</td></tr><tr><td>17 - FUMPOD</td><td>0,00</td><td>10.000,00</td><td>0,00</td><td>10.000,00</td></tr><tr><td>18 - FUNDO DES. RURAL</td><td>0,00</td><td>20.000,00</td><td>0,00</td><td>20.000,00</td></tr><tr><td>19 - FUNDO PROCURADORES</td><td>0,00</td><td>100.000,00</td><td>0,00</td><td>100.000,00</td></tr><tr><td>20 - FUNDO HABITAÇÃO</td><td>0,00</td><td>20.000,00</td><td>0,00</td><td>20.000,00</td></tr><tr><td>21 - FUNDO DES. URBANO</td><td>0,00</td><td>20.000,00</td><td>0,00</td><td>20.000,00</td></tr><tr><td>12 - FUNDO DE CULTURA</td><td>0,00</td><td>20.000,00</td><td>0,00</td><td>20.000,00</td></tr><tr><td>TOTAL</td><td>730.000.000,00</td><td>220.173.965,04</td><td>509.826.034,96</td><td>730.000.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+A Receita será realizada mediante a arrecadação de tributos, rendas e outras receitas correntes e de capital na forma da legislação em vigor e das especificações do anexo 02 da Lei 4.320/64 (Quadro Demonstrativo da Receita por Fontes), com o seguinte desdobramento:
+
+
+RECEITA
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>RECEITAS CORRENTES</td><td>721.059.000</td></tr><tr><td>Impostos, Taxas e Contribuições de Melhoria</td><td>103.191.500</td></tr><tr><td>Contribuições</td><td>37.612.000</td></tr><tr><td>Receita Patrimonial</td><td>7.929.120</td></tr><tr><td>Receita de Serviços</td><td>74.558.600</td></tr><tr><td>Transferências Correntes</td><td>478.313.900</td></tr><tr><td>Outras Receitas Correntes</td><td>19.453.880</td></tr><tr><td>(-) Dedução p/ o FUNDEB</td><td>(-) 39.213.000</td></tr><tr><td colspan="2"> </td></tr><tr><td>RECEITAS DE CAPITAL</td><td>4.100.000</td></tr><tr><td>Alienação de Bens</td><td>100.000</td></tr><tr><td>Transferências de Capital</td><td>4.000.000</td></tr><tr><td colspan="2"> </td></tr><tr><td>RECEITAS CORRENTES INTRAORÇAMENTÁRIAS</td><td>44.054.000</td></tr><tr><td>Receitas Intraorçamentárias de Contribuições</td><td>44.054.000</td></tr><tr><td colspan="2">-------------------------------------------------------------------------------------------------------------</td></tr><tr><td>TOTAL GERAL</td><td>730.000.000</td></tr><tr><td colspan="2">-------------------------------------------------------------------------------------------------------------</td></tr></tbody></table>
+
+
+Art. 3º.
+
+A Despesa será realizada segundo discriminação dos Quadros “PROGRAMAS DE TRABALHO” e “NATUREZA DA DESPESA”, conforme Lei 4.320, de 17/03/1964, Port. MOG Nº 42 de 14/04/99 e Port. Interministerial nº 163 de 04/05/2001, que apresentam o seguinte desdobramento:
+
+
+2.1 – NATUREZA DA DESPESA
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2">DESPESAS CORRENTES</td></tr><tr><td>Pessoal e Encargos Sociais </td><td>400.013.600</td></tr><tr><td>Pessoal e Encargos Sociais </td><td>400.013.600</td></tr><tr><td>Juros e Encargos da Dívida </td><td>4.358.000</td></tr><tr><td>Outras Despesas Correntes </td><td>277.380.200</td></tr><tr><td colspan="2"> </td></tr><tr><td colspan="2">DESPESAS DE CAPITAL</td></tr><tr><td>Investimentos</td><td>25.092.600</td></tr><tr><td>Amortização da Dívida </td><td>20.155.600</td></tr><tr><td>Reserva de Contingência </td><td>3.000.000</td></tr><tr><td colspan="2">-------------------------------------------------------------------------------------------------------------</td></tr><tr><td>TOTAL GERAL</td><td>730.000.000</td></tr><tr><td colspan="2">-------------------------------------------------------------------------------------------------------------</td></tr></tbody></table>
+
+
+2.2 – DESPESA DA ADMINISTRAÇÃO POR UNIDADES ORÇAMENTÁRIAS
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2">UNIDADES GESTORAS</td></tr><tr><td>UNIDADES ORÇAMENTÁRIAS</td><td>VALOR</td></tr><tr><td>01 - LEGISLATIVO</td><td> </td></tr><tr><td>01 - Câmara Municipal</td><td>16.340.485,04</td></tr><tr><td colspan="2"> </td></tr><tr><td>02 - PREFEITURA MUNICIPAL DE BARRA MANSA</td><td> </td></tr><tr><td>01 - Gabinete do Prefeito</td><td>60.000,00</td></tr><tr><td>02 - Procuradoria Geral do Município</td><td>10.000,00</td></tr><tr><td>03 - Secretaria Municipal de Governo</td><td>2.170.000,00</td></tr><tr><td>04 - Secretaria Municipal de Ordem Pública</td><td>2.000.000,00</td></tr><tr><td>05 - Secretaria Municipal de Administração e Modernização do Serviço Público</td><td>55.000.000,00</td></tr><tr><td>06 - Secretaria Municipal de Finanças</td><td>28.917.514,96</td></tr><tr><td>07 - Secretaria Municipal de Planejamento Urbano</td><td>500.000,00</td></tr><tr><td>08 - Sec. Mun. de Meio Ambiente e Desenvolvimento Sustentável</td><td>50.000,00</td></tr><tr><td>09 - Secretaria Municipal de Desenvolvimento Econômico</td><td>200.000,00</td></tr><tr><td>10 - Secretaria Municipal de Desenvolvimento Rural</td><td>1.900.000,00</td></tr><tr><td>13 - Secretaria Municipal da Juventude, Esporte e Lazer</td><td>600.000,00</td></tr><tr><td>15 - Secretaria Municipal de Manutenção Urbana</td><td>12.000.000,00</td></tr><tr><td>14 - Controladoria Geral do Município</td><td>100.000,00</td></tr><tr><td>99 - Reserva de Contingência</td><td>3.000.000,00</td></tr><tr><td colspan="2"> </td></tr><tr><td>03.01 - FUNDO MUNICIPAL DE SAÚDE</td><td>149.660.000,00</td></tr><tr><td>04.01 - FUNDAÇÃO DE CULTURA DE BARRA MANSA</td><td>1.400.000,00</td></tr><tr><td>05.01 - FUNDAMP</td><td>8.400.000,00</td></tr><tr><td>06.01 - SAAE - SERVIÇO AUTONÔMO DE ÁGUA E ESGOTO</td><td>84.000.000,00</td></tr><tr><td>08.01 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL</td><td>7.000.000,00</td></tr><tr><td>09.01- FUNDO DE PREVIDÊNCIA SOCIAL DE BARRA MANSA</td><td>140.236.000,00</td></tr><tr><td>10.01 - FUNDO MUNICIPAL DOS DIREITOS DO IDOSO</td><td>1.000,00</td></tr><tr><td>11.01 - FUNCRIA - FUNDO MUN. DOS DIR. DA CRIANÇA E DO ADOLESCENTE</td><td>30.000,00</td></tr><tr><td>12.01 - FUNDO MUNICIPAL DE EDUCAÇÃO</td><td>202.680.000,00</td></tr><tr><td>13.01 - FUNDO ESPECIAL DE ILUMINAÇÃO PÚBLICA</td><td>7.350.000,00</td></tr><tr><td>16.01 - FUNDO MUNICIPAL DE CONSERVAÇÃO AMBIENTAL</td><td>6.205.000,00</td></tr><tr><td>17.01 - FUNDO MUNICIPAL DE POLÍTICAS PÚBLICAS SOBRE DROGAS</td><td>10.000,00</td></tr><tr><td>18.01 - FUNDO MUNICIPAL DE DESENVOLVIMENTO RURAL</td><td>20.000,00</td></tr><tr><td>19.01 - FUNDO ESPECIAL DOS PROCURADORES DO MUNICÍPIO</td><td>100.000,00</td></tr><tr><td>20.01 - FUNDO MUNICIPAL DE HABITAÇÃO</td><td>20.000,00</td></tr><tr><td>21.01 - FUNDURB - FUNDO MUNICIPAL DE DESENVOLVIMENTO URBANO</td><td>20.000,00</td></tr><tr><td>21.01 - FUNDO MUNICIPAL DE CULTURA</td><td>20.000,00</td></tr><tr><td>TOTAL GERAL</td><td>730.000.000,00</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Fica o Poder Executivo autorizado a:
+
+
+I –
+
+Abrir créditos adicionais suplementares até o limite de cinquenta por cento das dotações do Orçamento da Despesa, consignados nos Quadros da Natureza da Despesa (Anexo 02 – Despesa), em conformidade com § 8º do art. 165 da Constituição Federal e inciso I do art. 7º da Lei nº 4320/64;
+
+
+II –
+
+Realizar operações de crédito até o limite de vinte e cinco por cento da receita prevista, em conformidade com os diplomas legais citados no inciso I;
+
+
+III –
+
+Realizar operações de crédito por antecipação de receita orçamentária, nos limites e prazos estabelecidos pela legislação em vigor, em especial a Seção IV, Subseção I, da Lei Complementar 101/2000.
+
+
+Art. 5º.
+
+O Orçamento, elaborado de forma compatível com o Plano Plurianual, com a Lei de Diretrizes Orçamentárias e com as normas da Lei Complementar nº 101/2000 e Lei nº 4320/1964, contém:
+
+
+I –
+
+Demonstrativo da Compatibilidade da Programação dos Orçamentos com os objetivos e metas constantes do documento de que trata o § 1º do art. 4º, da Lei Complementar nº 101/2000;
+
+
+II –
+
+Demonstrativo regionalizado do efeito sobre as receitas e despesas, decorrentes de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia, bem como das medidas de compensação à renúncia de receita e ao aumento de despesas obrigatórias de caráter continuado, estabelecido no art. 165 § 6º da C.F. combinado com o art. 5º, inciso II, da Lei Complementar 101/00;
+
+
+III –
+
+Reserva de Contingência, cuja forma de utilização e montante, definido com base na receita corrente líquida, foram estabelecidos na Lei de Diretrizes Orçamentárias para atendimento de passivos contingentes e outros riscos fiscais imprevistos;
+
+
+IV –
+
+Quadro discriminativo da receita segundo as categorias econômicas;
+
+
+V –
+
+Quadros demonstrativos da receita e planos de aplicação dos fundos especiais;
+
+
+VI –
+
+Quadro demonstrativo dos investimentos incluídos no Orçamento de 2023, constantes do Plano Plurianual 2023;
+
+
+VII –
+
+Demonstrativo da Evolução da Dívida Consolidada, que será atendida nesta Lei, mediante a utilização de recursos provenientes das receitas por categoria econômica e por destinação da fonte de recursos próprios livres de aplicação, despesas de juros e encargos da dívida, bem como, com amortização, conforme estabelecido no § 1º do art. 5º da Lei Complementar 101/00;
+
+
+Art. 6º.
+
+Até 30 dias após a publicação dos orçamentos, o Poder Executivo estabelecerá a programação financeira e o cronograma de execução mensal de desembolso, bem como a arrecadação em metas bimestrais, estabelecida no art. 13 da Lei Complementar 101/00.
+
+
+Art. 7º.
+
+O Prefeito, no âmbito do Poder Executivo, poderá adotar parâmetros para utilização das dotações, de forma a compatibilizar as despesas à efetiva realização das receitas, para garantir as metas de resultado primário.
+
+
+Art. 8º.
+
+O Poder Executivo poderá abrir crédito adicional suplementar em favor do Poder Legislativo, em caso de eventual receita arrecadada a maior que a prevista na execução orçamentária de 2022, de modo que, no exercício de 2023, a dotação relativa à Câmara Municipal de Barra Mansa possa ser aumentada até o limite máximo estabelecido pela EC nº 58/09 que deu nova redação ao Art. 29-A, II, da Constituição Federal.
+
+
+Art. 9º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, DE 29 DE DEZEMBRO DE 2022.
+
+
+RODRIGO DRABLE COSTA  
+PREFEITO

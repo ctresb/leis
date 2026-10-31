@@ -1,0 +1,949 @@
+O PREFEITO MUNICIPAL DE ENGENHEIRO PAULO DE FRONTIN, no uso de suas atribuições legais, CONS IDERANDO a necessidade de padronização e eficiência nos processos de contratação pública por meio da Plataforma Contrata+ Brasil, CONS IDERANDO a necessidade de estabelecer um fluxo pagamento para a Plataforma Contrata+ Brasil mais célere, CONS IDERANDO a necessidade de aderir aos procedimentos, normas, pareceres e editais padrão do Governo Federal, DECRETA:
+
+
+#### CAPÍTULO I — DAS DIS POS IÇÕES GERAIS
+
+
+Art. 1º.
+
+Este Decreto tem por objetivo normatizar o fluxo de formalização e tramitação das demandas de contratação de bens e serviços por meio da Plataforma Contrata+Brasil.
+
+
+Art. 2º.
+
+Os processos de contratação devem observar os princípios da legalidade, eficiência, transparência, planejamento e economicidade, além das normas estabelecidas pelo Governo Federal, especialmente a Instrução Normativa SEGES/M GI nº 52/2025.
+
+
+#### CAPÍTULO II — DA FORMALIZAÇÃO DA DEMANDA
+
+
+Art. 3º.
+
+A formalização de demanda de contratação dar-se-á por meio do preenchimento do Documento de Formalização da Demanda da Plataforma Contrata+Brasil (DFD – Contrata+Brasil), que deverá conter obrigatoriamente:
+
+
+I –
+
+Data prevista de início e conclusão do processo;
+
+
+II –
+
+Serviço de manutenção e pequenos reparos, com código e descrição conforme CATSER e atividades passíveis de contratação pela Plataforma Contrata+Brasil;
+
+
+III –
+
+Identificação do órgão demandante;
+
+
+IV –
+
+Local de execução do serviço;
+
+
+V –
+
+Descrição detalhada da demanda, com especificações técnicas, memória de cálculo e justificativa;
+
+
+VI –
+
+Grau de prioridade;
+
+
+VII –
+
+Indicação de previsão ou não no Plano de Contratações Anual – PCA, com justificativa em caso negativo;
+
+
+VIII –
+
+Prazos: Execução do serviço; Envio das propostas; Prazo e forma de pagamento (PIX, transferência bancária, boleto, cartão de crédito, cartão de débito e empenho).
+
+
+IX –
+
+Justificativa da necessidade de contratação;
+
+
+X –
+
+Memória de Cálculo;
+
+
+XI –
+
+Fotos e documentos complementares, se for o caso.
+
+
+Art. 4º.
+
+A área requisitante deverá ainda indicar formalmente:
+
+
+I –
+
+O responsável pela demanda;
+
+
+II –
+
+O fiscal da contratação.
+
+
+III –
+
+O responsável pela elaboração do Documento de Formalização de Demanda.
+
+
+Art. 5º.
+
+Além das exigências estabelecidas pela Plataforma Contrata+Brasil e suas instruções, deverá o requisitante obedecer ao Fluxo do Processo de Contratação necessário para a contratação através da Plataforma Contrata+Brasil.
+
+
+I –
+
+Formalização de Processo Administrativo, com o DFD Contrata+Brasil preenchido e com o autorizo da Autoridade Competente;
+
+
+II –
+
+Reserva orçamentária prévia, até o limite de cada oportunidade possível a ser contratada na Plataforma Contrata+Brasil;
+
+
+III –
+
+Cadastro da Oportunidade na Plataforma Contrata+Brasil, com o devido autorizo da Autoridade Competente para a sua publicação.
+
+
+IV –
+
+Extrato das propostas apresentadas pelos fornecedores interessados, com a devida demonstração do atendimento as Condições de Participação dos Fornecedores, acompanhado do demonstrativo de prática usual dos preços ofertados no mercado de fornecimento para a administração pública;
+
+
+V –
+
+Parecer favorável da Procuradoria Geral do Município e da Secretaria Municipal de Controle Interno sobre o atendimento aos elementos mínimos e obrigatórios necessários a contratação pela Plataforma Contrata+Brasil;
+
+
+VI –
+
+Publicação do Aviso de Inexigibilidade de Licitação no Diário Oficial;
+
+
+VII –
+
+Declaração do vencedor na Plataforma Contrata+Brasil.
+
+
+Parágrafo único
+
+Como condição prévia para a utilização da Plataforma Contrata+Brasil, deverá o órgão ter em seu Quadro de Distribuição de Despesa a previsão orçamentária do Programa de Monitoramento da Execução dos Recursos da Plataforma Contrata+Brasil.
+
+
+#### CAPÍTULO III — DAS CONDIÇÕES DE PARTICIPAÇÃO DOS FORNECEDORES
+
+
+Art. 6º.
+
+A Prefeitura Municipal de Engenheiro Paulo de Frontin adere integralmente à Plataforma Contrata+Brasil, sendo obrigatória a observância dos seguintes requisitos:
+
+
+I –
+
+O envio de propostas deve ocorrer exclusivamente pela plataforma digital:
+
+
+II –
+
+O fornecedor deve estar habilitado no SICAF, nos níveis: Nível I – Credenciamento Nível II – Habilitação Jurídica Nível III – Regularidade Fiscal e Trabalhista Federal
+
+
+III –
+
+A visita técnica, quando permitida, poderá ser realizada sem necessidade de agendamento;
+
+
+IV –
+
+As dúvidas deverão ser apresentadas na área de perguntas da Plataforma, dentro do prazo de divulgação da oportunidade.
+
+
+#### CAPÍTULO IV — DA PRESTAÇÃO DOS SERVIÇOS E ENTREGA DOS PRODUTOS
+
+
+Art. 7º.
+
+A execução dos serviços deverá ocorrer conforme especificado no DFD e nos documentos técnicos, observando:
+
+
+I –
+
+Horário de execução: das 09h às 17h em dias úteis;
+
+
+II –
+
+Responsabilidade do fornecedor pela remoção das estruturas anteriores (quando aplicável) e entrega do serviço com pleno funcionamento;
+
+
+III –
+
+Entrega acompanhada de eventuais acessórios, quando pertinente.
+
+
+#### CAPÍTULO V — DO PROCES S O DE PAGAMENTO
+
+
+Art. 8º.
+
+O processo de pagamento será iniciado após a entrega do serviço e deverá observar os seguintes procedimentos:
+
+
+I –
+
+A contratada deve emitir Nota Fiscal com número do processo, número da nota de empenho e dados bancários;
+
+
+II –
+
+A documentação pode ser à Secretaria demandante ou à Sala do Empreendedor, mediante: Nota Fiscal; Documento de Empenho.
+
+
+III –
+
+Cabe ao servidor público conferente: Verificar a conformidade entre a Nota Fiscal e o Empenho; Consultar a situação do fornecedor no SICAF; Anexar o relatório de regularidade fiscal ao processo de pagamento;
+
+
+IV –
+
+A Nota Fiscal deverá ser atestada por dois servidores públicos da área requisitante.
+
+
+Art. 9º.
+
+O pagamento será realizado:
+
+
+I –
+
+Em até 15 (quinze) dias corridos após a entrega da Nota Fiscal e o cumprimento das condições contratuais;
+
+
+II –
+
+Exclusivamente via crédito em conta bancária da contratada;
+
+
+III –
+
+Com acréscimo de multa de 0,1% e compensação financeira de 0,033% ao dia, em caso de atraso por culpa da Administração;
+
+
+IV –
+
+Em novo prazo, contado a partir da reapresentação válida dos documentos, no caso de devolução para correções;
+
+
+V –
+
+Mesmo que a contratada esteja com situação irregular momentânea, desde que a obrigação tenha sido cumprida, conforme entendimento do TCU (Acórdão 964/2012 e similares), sendo assegurado prazo para regularização fiscal.
+
+
+#### CAPÍTULO VI — DAS DIS POS IÇÕES FINAIS
+
+
+Art. 10.
+
+O não atendimento às disposições deste Decreto poderá ensejar o indeferimento da solicitação, impedimento de pagamento ou responsabilização funcional.
+
+
+Art. 11.
+
+Os casos omissos serão resolvidos pela Secretaria Municipal de Controle Interno com apoio da Procuradoria Geral do Município e demais áreas envolvidas.
+
+
+Art. 12.
+
+Este Decreto entrará em vigor a partir da data de sua publicação, ficando revogadas as disposições contrárias.
+
+
+Eng. Paulo de Frontin (RJ), 27 de agosto de 2025.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+
+
+## ANEXO I
+
+
+MINUTA DOCUMENTO DE FORMALIZAÇÃO DA DEMANDA – DFD CONTRATAÇÕES A SEREM REALIZADAS PELA PLATAFORMA CONTRATA+BRASIL
+
+
+INFORMAÇÕES GERAIS Data prevista para conclusão do processo:
+
+
+Processo iniciado em: Conclusão estimada em:
+
+
+Informe o serviço desejado, de acordo com o CATSER:
+
+
+Clique AQUI e consulte as atividades passíveis de contratação pela Plataforma Contrata+Brasil.
+
+
+Clique AQUI e consulte o Catálogo de Serviços com a descrição padronizada.
+
+
+Código:
+
+
+Ocupação:
+
+
+Serviço:
+
+
+Descrição:
+
+
+Órgão demandante:
+
+
+Secretaria Municipal de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Do local de execução do serviço, com ponto de referência:
+
+
+Descrição da Demanda:
+
+
+Item Descrição Uni Qtde.
+
+
+Área Requisitante (Unidade/Setor/Depto):
+
+
+Responsável pela demanda:
+
+
+Nome:
+
+
+Matrícula: Cargo:
+
+
+Responsável pela fiscalização:
+
+
+Nome:
+
+
+Matrícula: Cargo:
+
+
+Responsável pela elaboração do Documento de Formalização de Demanda:
+
+
+Nome:
+
+
+Matrícula: Cargo:
+
+
+Urgência na contratação:
+
+
+( ) Não ( X ) Se sim, justifique:
+
+
+Há previsão desta contratação no PCA?
+
+
+Sim ( ) Não ( X ) Se não, justifique:
+
+
+Dos prazos:
+
+
+Prazo para execução do serviço, a partir da ordem de início: XX dias.
+
+
+Prazo para o envio das propostas na Plataforma Contrata+Brasil: XX dias.
+
+
+Do pagamento:
+
+
+Prazo de pagamento, após a abertura de processo de pagamento: Até 15 dias.
+
+
+Forma de pagamento: ( ) PIX ( ) Transferência eletrônica ( ) Boleto ( ) Cartão de Crédito ( ) Cartão de Débito ( ) Empenho
+
+
+JUSTIFICATIVA DA NECES S IDADE DA CONTRATAÇÃO
+
+
+MEMÓRIA DE CÁLCULO
+
+
+FOTOS E DOCUMENTOS COMPLEMENTARES
+
+
+IDENTIFICAÇÃO DA ÁREA REQUISITANTE E RES PONS ÁVEIS PELO PLANEJAMENTO
+
+
+DAS CONDIÇÕES PARA HABILITAÇÃO A Prefeitura Municipal de Engenheiro Paulo de Frontin adere integralmente a Plataforma Contrata+Brasil, a Instrução Normativa SEGES/M GI nº 52/2025, o Estudo Técnico Preliminar e o Edital de Credenciamento nº 03/2025 constituídos pelo Processo Administrativo n° 19973.001454/2025-95 disponíveis no Portal www.gov.br/contratamaisbrasil/pt-br Como condição de participação, é responsabilidade do Microempreendedor Individual proponente estar habilitado no SICAF – Sistema de Cadastro de Fornecedores, o que poderá ser feito pela Plataforma Contrata+Brasil, conforme da Área do Fornecedor: https://www.gov.br/contratamaisbrasil/ptbr/area-do-fornecedor A habilitação no SICAF será restrita ao Nível I – Credenciamento, Nível II – Habilitação Jurídica e o Nível III – Regularidade Fiscal e Trabalhista Federal.
+
+
+O envio de Propostas deverá ocorrer exclusivamente pela Plataforma Contrata+Brasil pelo endereço:
+
+
+Dúvidas sobre a oportunidade divulgada deverão ser apresentadas na área de perguntas dentro da Plataforma Contrata+Brasil, dentro da divulgação desta oportunidade.
+
+
+ORIENTAÇÕES PARA O FORNECEDOR SOBRE O FORNECIMENTO E O PROCES S O DE PAGAMENTO Após a prestação do serviço, é obrigação do fornecedor a Emissão de Nota Fiscal para formalização do processo de pagamento.
+
+
+A Sala do Empreendedor de Engenheiro Paulo de Frontin (localizada na R. Cel. Eurico de Castro, nº 14) está capacitada a orientar o Microempreendedor Individual sobre as rotinas para a emissão da nota fiscal.
+
+
+A nota fiscal/fatura emitida pela contratada deverá conter, em local de fácil visualização, a indicação do número do processo, número da nota de empenho e dados bancários, a fim de se acelerar o trâmite do recebimento dos materiais e posterior liberação do documento fiscal para pagamento.
+
+
+O processo de pagamento será formalizado mediante a entrega da nota fiscal para um servidor público da Secretaria demandante ou ainda na Sala do Empreendedor, mediante a apresentação dos seguintes documentos pelo fornecedor: Nota Fiscal e Empenho.
+
+
+Para a formalização do processo administrativo, deverá o servidor público verificar se os serviços descritos na nota fiscal estão condizentes com o detalhamento contido no Empenho. Caberá ainda a este servidor público, antes da formalização do processo administrativo, consultar o SICAF do fornecedor visando identificar a Situação do Fornecedor quanto a validade das certidões demonstradas no Nível III – Regularidade Fiscal e Trabalhista Federal, anexando tal relatório ao processo de pagamento. Caso tais condições não sejam cumpridas, o processo de pagamento não poderá ser formalizado.
+
+
+A nota fiscal deverá ser atestada por 02 (dois) servidores públicos municipais integrantes da requisitante.
+
+
+O pagamento será efetuado até o 15º (décimo) dia corrido, após entrega e respectiva Nota Fiscal, a contar da data final do período de adimplemento da obrigação, cumpridas as formalidades legais e atividades da contratação previstas, e comprovada as regularidades fiscais e trabalhistas, exclusivamente mediante crédito em conta corrente da contratada.
+
+
+Ocorrendo atraso no pagamento das obrigações e desde que este atraso decorra de culpa da CONTRATANTE, o valor devido será acrescido de 0,1% (um décimo por cento) a título de multa, além de 0,033% (trinta e três milésimos por cento) por um dia de atraso, a título de compensação financeira a FLUXO PROCEDIMENTOS- CONTRATA+BRASIL Instrução Normativa SEGES/MGI nº 52/2025/ Decreto Municipal nº xxxx/2025
+
+
+ETAPA AÇÃO ÓRGÃO/UNIDADE RESPONSÁVEL DOCUMENTO SISTEMA PRAZO
+
+
+1\. CONTRATAÇÃO
+
+
+1.1 ELABORAR O DFD SECRETARIA REQUISITANTE DFD MODELO CONTRATA+BRASIL
+
+
+WORD 0
+
+
+1.2 AUTORIZAR DFD SECRETÁRIO REQUISITANTE AUTORIZO NO DFD ASSINATURA E CARIMBO NO
+
+
+DFD
+
+
+1.3 AUTORIZAR NA DFD SECRETARIA DE GOVERNO AUTORIZO NO DFD ASSINATURA E CARIMBO NO
+
+
+DFD
+
+
+1.4 RESERVA ORÇAMENTÁRIA SECRETARIA DE PLANEJAMENTO RESERVA ORÇAMENTÁRIA
+
+
+ANEXADA NO PROCESSO
+
+
+BETHA 1
+
+
+1.5 CADASTRAR A OPORTUNIDADE NA PLATAFORMA CONTRATA+BRASIL
+
+
+DEMCOMPRAB (SECRETARIAS
+
+
+DEMANDANTES)
+
+
+ALIMENTAÇÃO DO
+
+
+FORMULÁRIO NO CONTRATA+BRASIL, COM A
+
+
+INSERÇÃO DO DFD COMO
+
+
+## Anexo II
+
+## ANEXO
+
+
+PLATAFORMA CONTRATA +
+
+
+BRASIL
+
+
+1.6 AUTORIZAR A PUBLICAÇÃO DA
+
+
+OPORTUNIDADE
+
+
+AUTCOMPRAB (SECRETARIAS –
+
+
+ORDENADORES DE DESPESA) AUTORIZO NA PLATAFORMA PLATAFORMA CONTRATA +
+
+
+BRASIL
+
+
+1.7 OPORTUNIDADE PÚBLICADA PARA O
+
+
+RECEBIMENTO DAS PROPOSTAS
+
+
+RESPONDER OS QUESTIONAMENTOS
+
+
+DEMCOMPRAB (SECRETARAIS
+
+
+DEMANDANTES)
+
+
+PROPOSTAS ENVIADAS PELA
+
+
+PLATAFORMA E
+
+
+RESPONDENDO O CAMPO DE
+
+
+PERGUNTAS
+
+
+PLATAFORMA CONTRATA+BRASIL 3(mínimo recomendado)
+
+
+1.8 SELECIONAR A PROPOSTA MAIS VANTAJOSA (Preço e Condições)
+
+
+DEMCOMPRAB (SECRETARAIS
+
+
+DEMANDANTES)
+
+
+PESQUISA DE PREÇOS 1º Pesquisa de Preço 2º Atas e Contratos 3º Preços de Referência 4º Condições da Proposta
+
+
+PLATAFORMA CONTRATA+BRASIL
+
+
+COMPRAS.GOV.BR
+
+
+1.9 SELECIONAR A PROPOSTA MAIS VANTAJOSA (Histórico e Documentos)
+
+
+DEMCOMPRAB (SECRETARAIS
+
+
+DEMANDANTES) PDF da Plataforma SICAF (Consultar Situação do Fornecedor Situação do Fornecedor Ocorrências Ativas - Ocorrências Impeditivas Vígentes)
+
+
+PLATAFORMA CONTRATA+BRASIL SICAF
+
+
+1.10 ENCAMINHA PARA A PROCURADORIA DEMCOMPRAB (SECRETARAIS
+
+
+DEMANDANTES)
+
+
+DESPACHO PROCESSO FÍSICO
+
+
+NUMERADO
+
+
+1.11 EMITE O PARECER DE CONFORMIDADE PROCURADORIA DESPACHO PROCESSO FÍSICO
+
+
+NUMERADO
+
+
+1.12 ENCAMINHA PARA O CONTROLE INTERNO PROCURADORIA DESPACHO PROCESSO FÍSICO
+
+
+NUMERADO
+
+
+1.13 EMITE O PARECER DE CONFORMIDADE CONTROLADORIA DESPACHO PROCESSO FÍSICO
+
+
+NUMERADO
+
+
+1.14 ENCAMINHA PARA A SECRETARIA
+
+
+DEMANDANTE
+
+
+CONTROLADORIA DESPACHO SECRETARIA DE FAZENDA 0
+
+
+1.15 GERAR O TERMO DE INEXIGIBILIDADE E SOLICITA A PUBLICIDADE NO D.O. Nota: A Secretaria requisitante elabora o Termo de Autorizo de Inexigibilidade e, o Ordenador de Despesa assina o Termo, envia para a Secretaria de Planejamento.
+
+
+AUTCOMPRAB/SE-CRETARIA
+
+
+DEMANDANTE
+
+
+TERMO DE AUTORIZO DE
+
+
+INEXIGIBILIDADE
+
+
+PROCESSO FÍSICO
+
+
+NUMERADO
+
+
+1.16 PUBLICA O TERMO DE INEXIGIBILIDADE E
+
+
+LANÇAMENTO PRÉVIO NO SIGFIS
+
+
+SECRETARIA DE PLANEJAMENTO ANEXAR O EXTRATO NO
+
+
+SIGFIS, PORTAL DA
+
+
+TRANSPARÊNCIA E BOLETIM
+
+
+OFICIAL
+
+
+BETHA COMPRAS / SIGFIS 1
+
+
+1.16 ENCAMINHAR O PROCESSO PARA O DEP. DE
+
+
+PUBLICAÇÃO PARA CADASTRO PRÉVIO NO SIGFIS Na Sec. de Planejamento (SIGFIS)
+
+
+SECRETARIA DE PLANEJAMENTO ANEXAR O EXTRATO NO
+
+
+SIGFIS, PORTAL DA
+
+
+TRANSPARÊNCIA E BOLETIM
+
+
+OFICIAL
+
+
+BETHA COMPRAS / SIGFIS 1
+
+
+1.17 ENCAMINHA PARA SECRETARIA DE
+
+
+FAZENDA PARA SOLICITAÇÃO DE
+
+
+EMPENHO.
+
+
+SECRETARIA DE PLANEJAMENTO DESPACHO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA serem calculados sobre a parcela devida.
+
+
+No caso de erro nos documentos de faturamento ou cobrança, estes serão devolvidos à CONTRATADA para retificação ou substituição, passando o prazo de pagamento a fluir, então, a partir da reapresentação válida desses documentos.
+
+
+Não será retido pagamento por perda provisória de condição e habilitação da Contratada, devendo a Fiscalização ou a Autoridade competente, conforme o caso, determinar o pagamento regular abrindo prazo razoável e proporcional para que a Contratada proceda ao ajuste de condutas necessário para sua regularização, tudo mediante processo administrativo próprio, o que tem por base o Princípio da Vedação do Enriquecimento Sem Causa interpretado conforme a Constituição no Princípio da Moralidade dentre outros, o que se assenta em posição consolidada na jurisprudência superior e vinculante, a exemplo do no Acórdão 964/2012 do Plenário do TCU, assim como outros de idêntica natureza.
+
+
+## ANEXO II
+
+
+1.18 ELABORAÇÃO DE EMPENHO SECRETARIA DE FAZENDA EMPENHO BETHA (CONTABIL) 1
+
+
+1.19 ENCAMINHA O PROCESSO PARA A
+
+
+SECRETARIA DEMANDANTE PARA A
+
+
+SELEÇÃO NA PLATAFORMA
+
+
+SECRETARIA DE FAZENDA FLUXO NO SISTEMA PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+1.20 SELECIONAR O FORNECEDOR NA PLATAFORMA CONTRATA+BRASIL
+
+
+DEMCOMPRAB (SECRETARAIS
+
+
+DEMANDANTES)
+
+
+SELECIONAR O FORNECEDOR
+
+
+NA PLATAFORMA CONTRATA+BRASIL,
+
+
+JUSTIFICANDO SE FOR O CASO
+
+
+PLATAFORMA CONTRATA+BRASIL
+
+
+1.21 ENCAMINHAR O PROCESSO PARA
+
+
+AUTCOMPRAB AUTORIZAR A SELEÇÃO
+
+
+DEMCOMPRAB (SECRETARAIS
+
+
+DEMANDANTES)
+
+
+FLUXO NO SISTEMA PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+1.22 AUTORIZAR A SELEÇÃO DO FORNECEDOR NA PLATAFORMA CONTRATA+BRASIL
+
+
+AUTCOMPRAB (SECRETARIAS –
+
+
+ORDENADORES DE DESPESA)
+
+
+GERA O ATO DE
+
+
+AUTORIZAÇÃO DE
+
+
+INEXIGIBILIDADE NA
+
+
+PLATAFORMA CONTRATA+BRASIL
+
+
+PLATAFORMA CONTRATA+BRASIL PNCP
+
+
+1.23 ENCAMINHAR O PROCESSO PARA A
+
+
+SECRETARIA REQUERENTE
+
+
+SMA FLUXO NO SISTEMA PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+1.24 DAR CIÊNCIA AO SECRETARIO
+
+
+REQUISITANTE PARA INÍCIO DO SERVIÇO
+
+
+SECRETARIA REQUISITANTE DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2\. PAGAMENTO
+
+
+2.1 RECEBIMENTO DA NF E COM SICAF E
+
+
+CERTIDÕES ATUALIZADAS
+
+
+SECRETARIA REQUISITANTE DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.2 ATESTE DA N.F. POR UM SERVIDOR E PELO GESTOR. Envia para a Secretaria de Governo.
+
+
+SECRETARIA REQUISITANTE DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.3 SECRETARIA REQUISITANTE
+
+
+(AUTORIDADES COMPETENTE) AVALIA NA PLATAFORMA. Logo após, envia para pagamento (Sec. de Governo)
+
+
+SECRETARIA REQUISITANTE DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.4 AUTORIZAR O PAGAMENTO SECRETARIA DE GOVERNO ASSINA A AUTORIZAÇÃO E
+
+
+DESPACHO NO PROCESSO
+
+
+PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.5 ENVIA PROCESSO PARA ANÁLISE DE
+
+
+CONFORMIDADE PROCESSUAL
+
+
+CONTABILIDADE DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.6 CONTROLADORIA VERIFICA
+
+
+CONFORMIDADE
+
+
+CONTROLADORIA GERAL DO MUNICÍPIO DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.7 ENVIA PROCESSO PARA CONTABILIDADE
+
+
+PARA LIQUIDAÇÃO
+
+
+CONTROLADORIA GERAL DO MUNICÍPIO DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.8 CONTABILIDADE REALIZA A LIQUIDAÇÃO
+
+
+DO EMPENHO
+
+
+CONTABILIDADE NOTA DE LIQUIDAÇÃO BETHA (CONTABIL) 1
+
+
+2.9 ENCAMINHA PARA A TESOURARIA CONTABILIDADE DESPACHO NO PROCESSO PROCESSO FÍSICO
+
+
+NUMERADO ACOMPANHA
+
+
+PELO BETHA
+
+
+2.10 EFETUA O PAGAMENTO TESOURARIA NOTA DE PAGAMENTO E
+
+
+COMPROVANTE BANCÁRIO
+
+
+BETHA TESOURARIA 0
+
+
+2.11 ARQUIVAMENTO ARQUIVO - - 1 Publicado por:
+
+
+Daniel Dos Santos da Silva Código Identificador:C5BD52A8 Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 28/08/2025. Edição 3948 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site:

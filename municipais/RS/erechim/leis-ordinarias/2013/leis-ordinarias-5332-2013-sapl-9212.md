@@ -1,0 +1,205 @@
+---
+titulo: "Lei Ordinária Municipal nº 5.332, de 16 de abril de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "5332"
+data: "2013-04-16"
+municipio: "Erechim"
+uf: "RS"
+codigo_ibge: "4307005"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.erechim.rs.leg.br/norma/9212"
+fonte_texto: "https://sapl.erechim.rs.leg.br/ta/681/text"
+sha256_fonte: "6f72a8055c2c9ea3a571d8d1e6298d652503dc734f8fff8a8129a5199569ff87"
+sha256_texto: "437e99b214ca3a6cb16a9eebe38413ede1aa95b8b682b9f72ca2ccb49b4fa9f4"
+capturado_em_fonte: "2026-10-21T03:40:54.641855-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 5.332, de 16 de abril de 2013
+
+Inclui metas no PPA 2010/2013, LDO 2013 e LOA 2013, em razão da criação da Secretaria Municipal de Comunicação Social e dá outras providências.
+
+
+O Prefeito Municipal de Erechim, Estado do Rio Grande do Sul, no uso de atribuições conferidas pelo Artigo 64, Inciso V da Lei Orgânica do Município:
+
+
+Faço saber que o Poder Legislativo aprovou, e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Para atendimento das despesas decorrente da criação da Secretaria Municipal de Comunicação Social, bem como das alterações realizadas nas Secretarias de Cidadania e Planejamento na Lei nº 4.420/2009, fica autorizada a abertura dos seguintes Créditos Especiais:
+
+
+03 - SECRETARIA MUNICIPAL DE COORDENAÇÃO E PLANEJAMENTO  
+01 - COORDENAÇÃO E PLANEJAMENTO  
+04.121.0002.2.133 - Orçamento Participativo  
+3190.11.00.00.00 - Vencimentos e Vantagens Fixas-Pessoal Civil................. R$ 258.100,00  
+3190.16.00.00.00-0utras Despesas Variáveis-Pessoal Civil............................... R$ 1.000,00  
+3190.96.00.00.00 - Ressarcimento de Despesas de Pessoal Requisitado... R$ 5.000,00  
+3390.14.00.00.00 - Diárias-Pessoal Civil.................................................................. R$ 2.000,00  
+3390.30.00.00.00 - Material de Consumo ............................................................ R$ 28.900,00  
+3390.33.00.00.00 - Passagens e Despesas com Locomoção.......................... R$ 1.000,00  
+3390.36.00.00.00 - Outros Serviços de Terceiros-Pessoa Física..................... R$ 2.000,00  
+3390.39.00.00.00 - Outros Serviços de Terceiros-Pessoa Jurídica................ R$ 27.700,00  
+4450.42.00.00.00 - Auxílios......................................................................................... R$ 2.800.000,00  
+4490.51.00.00.00 - Obras e Instalações................................................................. R$ 800.500,00  
+4490.52.00.00.00 - Equipamentos e Material Permanente............................ R$ 1.200,00
+
+
+10 - SECRETARIA MUNICIPAL DE CIDADANIA  
+01 - UNIDADE DE GESTÃO E ADMINISTRAÇÃO DA ASSISTÊNCIA SOCIAL  
+08.244.0031.2.134 - Coordenadoria da Mulher  
+3190.11.00.00.00 - Vencimentos e Vantagens Fixas-Pessoal Civil............. R$ 86.900,00  
+3390.14.00.00.00 - Diárias-Pessoal CiviL .............................................................R$ 2.000,00  
+3390.30.00.00.00 - Material de Consumo............................................................R$ 4.400,00  
+3390.33.00.00.00 - Passagens e Despesas co omoção....................................R$ 1.000,00  
+3390.36.00.00.00 - Outros Serviços de Terceiros-Pessoa Física.................. R$ 2.000,00  
+3390.39.00.00.00 - Outros Serviços de Terceiros-Pessoa Jurídica.............. R$ 21.200,00  
+4490.52.00.00.00 - Equipamentos e Material Permanente............................R$ 3.000,00
+
+
+17 - SECRETARlA MUNICIPAL DE COMUNICAÇÃO SOCIAL  
+01 - SECRETARlA MUNICIPAL DE COMUNICAÇÃO SOCIAL  
+04.131.0010.2.135 - Manutenção da Secretaria de Comunicação Social  
+3190.08.00.00.00 - Outros Benefícios Assistenciais.................................................... R$ 5.000,00  
+3190.11.00.00.00 - Vencimentos e Vantagens Fixas-Pessoal Civil......................... R$ 183.300,00  
+3190.13.00.00.00 - Obrigações Patronais....................................................................... R$ 50.000,00  
+3190.16.00.00.00 - Outras Despesas Variáveis-Pessoal Civil................................... R$ 1.000,00  
+3390.14.00.00.00 - Diárias-Pessoal Civil.......................................................................... R$ 1.800,00  
+3390.30.00.00.00 - Material de Consumo...................................................................... R$ 6.000,00  
+3390.33.00.00.00 - Passagens e Despesas com Locomoção.................................. R$ 800,00  
+3390.36.00.00.00 - Outros Serviços de Terceiros-Pessoa Física............................ R$ 1.000,00  
+3390.39.00.00.00 - Outros Serviços de Terceiros-Pessoa Jurídica........................ R$ 100.800,00  
+4490.52.00.00.00 - Equipamentos e Material Permanente.................................... R$ 5.000,00
+
+
+Art. 2º.
+
+O crédito autorizado através do Artigo anterior, será atendido com a redução das seguintes dotações orçamentárias:
+
+
+02 - GABINETE DO PREFEITO  
+01 -GABINETE DO PREFEITO E SERVIÇOS DE APOIO  
+04.122.0002.2.004 - Orçamento Participativo  
+3190.11.00.00.00 - Vencimentos e Vantagens Fixas-Pessoal Civil................................... R$ 198.100,00  
+3190.96.00.00.00 - Ressarcimento de Despesas de Pessoal Requisitado..................... R$ 65.000,00  
+3390.14.00.00.00 - Diárias-Pessoal Civil.................................................................................... R$ 2.000,00  
+3390.30.00.00.00 - Material de Consumo................................................................................ R$ 29.900,00  
+3390.33.00.00.00 - Passagens e Despesas com Locomoção............................................ R$ 1.000,00  
+3390.36.00.00.00 - Outros Serviços de Terceiros-Pessoa Física....................................... R$ 2.000,00  
+3390.39.00.00.00 - Outros Serviços de Terceiros-Pessoa Jurídica................................... R$ 27.700,00  
+4450.42.00.00.00 - Auxílios............................................................................................................ R$ 2.800.000,00  
+4490.51.00.00.00 - Obras e Instalações.................................................................................... R$ 800.500,00  
+4490.52.00.00.00 - Equipamentos e Material Permanente.................................................R$ 1.200,00
+
+
+04.122.0004.2.005 - Administração, Coordenação e Execução da Política Administrativa  
+3190.13.00.00.00 - Obrigações Patronais........................................................ R$ 50.000,00
+
+
+04.122.0004.2.007 - Coordenadoria da Mulher  
+3190.11.00.00.00 - Vencimentos e Vantagens Fixas-Pessoal Civil...................................... R$ 86.900,00  
+3390.14.00.00.00 - Diárias-Pessoal Civil....................................................................................... R$ 2.000,00  
+3390.30.00.00.00 - Material de Consumo.................................................................................... R$ 4.400,00  
+3390.33.00.00.00 - Passagens e Despesas com Locomoção................................................ R$ 1.000,00  
+3390.36.00.00.00 - Outros Serviços de Terceiros-Pessoa Física........................................... R$ 2.000,00  
+3390.39.00.00.00 - Outros Serviços de Terceiros-Pessoa Jurídica...................................... R$ 21.200,00  
+4490.52.00.00.00 - Equipamentos e Material Permanente................................................... R$ 3.000,00
+
+
+04.122.0010.2.008 - Procuradoria Jurídica do Município
+
+3190.11.00.00.00 - Vencimentos e Vantagens Fixas-Pessoal Civil...................................... R$ 60.000,00
+
+
+04.122.0010.2.009 - Assessoria de Comunicação Social  
+3190.11.00.00.00 - Vencimentos e Vantagens Fixas-Pessoal Civil........................................ R$ 129.300,00  
+3390.14.00.00.00 - Diárias-Pessoal Civil......................................................................................... R$ 1.800,00  
+3390.30.00.00.00 - Material de Consumo...................................................................................... R$ 6.000,00  
+3390.33.00.00.00 - Passagens e Despesas com Locomoção.................................................. R$ 800,00  
+3390.36.00.00.00 - Outros Serviços de Terceiros-Pessoa Física............................................. R$ 1.000,00  
+3390.39.00.00.00 - Outros Serviços de Terceiros-Pessoa Jurídica........................................ R$ 100.800,00  
+4490.52.00.00.00 - Equipamentos e Material Permanente.................................................... R$ 5.000,00
+
+
+Art. 3º.
+
+Ficam alteradas na Lei Orçamentária Anual, Lei nº 5.262 de 27/11/2012 as Ações Prioritárias e Metas constantes no Órgão 02 - Gabinete do Prefeito, Atividade 2.004 - Orçamento Participativo para o órgão 03 - Secretaria Municipal de Coordenação e Planejamento, Atividade 2.133 - Orçamento Participativo.
+
+
+Art. 4º.
+
+Ficam alteradas na Lei Orçamentária Anual, Lei nº 5.262 de 27/11/2012 as Ações Prioritárias e Metas constantes no Órgão 02 - Gabinete do Prefeito, Atividade 2.007 - Coordenadoria da Mulher para o órgão 10- Secretaria Municipal de Cidadania, Atividade 2.134 - Coordenadoria da Mulher.
+
+
+Art. 5º.
+
+Ficam alteradas na Lei Orçamentária Anual, Lei nº 5.262 de 27/1112012 as Ações Prioritárias e Metas constantes no Órgão 02 - Gabinete do Prefeito, Atividade 2.009 - Assessoria de Comunicação Social para o órgão 17 - Secretaria Municipal de Comunicação Social, Atividade 2.135 - Manutenção da Secretaria de Comunicação Social.
+
+
+Art. 6º.
+
+Ficam alteradas na Lei de Diretrizes Orçamentárias de 2013, Lei nº 5.246 de 28.08.2012 as ações constantes no ANEXO I - METAS E PRIORIDADES, Órgão de Governo 02-- Gabinete do Prefeito, Programa 0002 - Planejamento Governamental para o Órgão de Governo 03 - Secretaria Municipal de Coordenação e Planejamento, Programa 0002 - Planejamento Governamental.
+
+
+Art. 7º.
+
+Fica incluída na Lei de Diretrizes Orçamentárias de 2013, Lei nº 5.246 de 28.08.2012
+
+o seguinte Órgão, Programa, Ação e Meta:
+
+
+Art. 8º.
+
+Fica incluída na Lei de Diretrizes Orçamentárias de 2013, Lei nº 5.246 de 28.08.2012
+
+o seguinte Órgão, Programa, Ação e Meta:
+
+
+Art. 9º.
+
+Ficam alteradas no Plano Plurianual - 2010/2013, Lei n.º 4.510 de 14.07.2009 as ações constantes no Programa 0002 - Planejamento Governamental do Órgão de Governo 02 - Gabinete do Prefeito, Projeto/Atividade: Orçamento Participativo para o Órgão de Governo 03 - Secretaria Municipal de Coordenação e Planejamento, Programa 0002 - Planejamento Governamental, Projeto/Atividade: Orçamento Participativo.
+
+
+Art. 10.
+
+Ficam alteradas no Plano Plurianual - 2010/2013, Lei nº 4.510 de 14.07.2009 as ações constantes no Programa 0030 - Assistência Social Geral do Órgão de Governo 02 - Gabinete do Prefeito, Projeto/Atividade: Coordenadoria da Mulher para o Órgão de Governo 10 - Secretaria Municipal de Cidadania, Programa 0031 - Assistência Social Comunitária, Projeto/Atividade: Coordenadoria da Mulher.
+
+
+Art. 11.
+
+Fica incluído no PPA - Plano Plurianual 2010 - 2013, Lei nº 4.510 de 14.07.2009, o seguinte órgão de governo:
+
+
+Art. 12.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Muncipal de Erechim/RS, 16 de Abril de 2013.  
+  
+  
+  
+  
+Paulo Alfredo Polis  
+Prefeito Municipal de Erechim
+
+
+Registre-se e Publique-se  
+Data supra  
+  
+  
+  
+Renato Alencar Toso  
+Secretário Municipal de Administração
+

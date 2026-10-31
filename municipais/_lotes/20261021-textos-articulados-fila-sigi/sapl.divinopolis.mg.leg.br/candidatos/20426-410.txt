@@ -1,0 +1,1389 @@
+Disciplina o serviço de transporte individual de passageiros em veículos de aluguel, na modalidade Táxi, no Município de Divinópolis.
+
+
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O Transporte Individual de Passageiros por Táxi, no município de Divinópolis, é reconhecido como serviço de utilidade pública, em conformidade com o art. 12 da Lei Federal nº 12.587/13, que institui a Política Nacional de Mobilidade Urbana.
+
+
+Parágrafo único
+
+A prestação do serviço previsto no caput será delegada pelo Município, respeitando as diretrizes estabelecidas na Lei Federal nº 9.503/97 e demais regulamentos pertinentes, competindo ao Órgão Gestor planejar, organizar, dirigir, coordenar, executar, fiscalizar e supervisionar a prestação dos serviços.
+
+
+Art. 2º.
+
+Para os fins desta Lei, considera-se:
+
+
+I –
+
+Permissão: ato administrativo discricionário e unilateral pelo qual o Município de Divinópolis autoriza um terceiro a operar o serviço de Transporte Individual de Passageiros por Táxi;
+
+
+II –
+
+permissionário: pessoa física ou MEI detentora da Permissão;
+
+
+III –
+
+permitente: Município de Divinópolis;
+
+
+IV –
+
+órgão gestor: entidade municipal responsável pela fiscalização e organização do serviço de táxi;
+
+
+V –
+
+condutor principal: motorista permissionário de atividade profissional, registrado no Cadastro de Condutores de Táxi do Órgão Gestor;
+
+
+VI –
+
+condutor auxiliar: motorista de atividade profissional, vinculado ao permissionário;
+
+
+VII –
+
+veículo: automóvel registrado no Cadastro de Táxi do Órgão Gestor;
+
+
+VIII –
+
+bandeira 1 e bandeira 2: modalidades de tarifas diferenciadas em dias e/ou horários específicos;
+
+
+IX –
+
+táxi convencional: automóvel de características originais de fábrica;
+
+
+X –
+
+táxi acessível: automóvel de características originais de fábrica, equipado conforme especificações do Órgão Gestor;
+
+
+XI –
+
+taxímetro: instrumento que calcula a tarifa a ser paga com base na distância percorrida e no tempo de utilização do táxi;
+
+
+XII –
+
+reserva de permissão: autorização para afastamento temporário do veículo do serviço de táxi, mantendo a permissão em nome do permissionário;
+
+
+XIII –
+
+permuta: troca de veículos entre permissionários;
+
+
+XIV –
+
+substituição: troca de veículo pelo permissionário;
+
+
+XV –
+
+autorização de transporte: documento emitido pelo Órgão Gestor que habilita o veículo a operar como táxi;
+
+
+XVI –
+
+ponto de táxi: local regulamentado para espera de passageiros;
+
+
+XVII –
+
+número do veículo: identificação emitida pelo Órgão Gestor;
+
+
+XVIII –
+
+crachá de identificação: documento emitido pelo Órgão Gestor que comprova a aptidão do condutor para prestar o serviço;
+
+
+XIX –
+
+desistência da permissão: devolução voluntária da permissão;
+
+
+XX –
+
+cassação da permissão: revogação compulsória da permissão;
+
+
+XXI –
+
+Custo de Gerenciamento Operacional (CGO): remuneração pago a administração do serviço de transporte por táxi em Divinópolis;
+
+
+XXII –
+
+chamada a distância: solicitação do serviço por telefone;
+
+
+XXIII –
+
+aplicativo: plataforma digital que facilita a solicitação de serviços de táxi;
+
+
+XXIV –
+
+UPFMD: Unidade Padrão Fiscal do Município de Divinópolis ou equivalente fiscal;
+
+
+XXV –
+
+CADARIT: Comissão Administrativa de Defesa de Autuação de Trânsito e de Recurso de Infração de Transportes, vinculada ao Órgão Gestor;
+
+
+XXVI –
+
+COMUTRAN: Conselho Municipal de Transportes Coletivos e Táxis de Divinópolis.
+
+
+Art. 3º.
+
+O Serviço de Transporte Individual de Passageiros por Táxi no município de Divinópolis é gerenciado pela Secretaria Municipal de Trânsito, Segurança Pública e Mobilidade Urbana - SETTRANS, sendo executado por terceiros, mediante contrato de permissão, nos termos da Lei Federal nº 12.587/12, delegado exclusivamente pelo Município.
+
+
+#### CAPÍTULO II — DA PERMISSÃO
+
+
+Art. 4º.
+
+A outorga de permissão será concedida por intermédio de processo licitatório.
+
+
+§ 1º
+
+O COMUTRAN aprovará a realização de licitações para permissões de táxis, observando a proporção de 01 (um) veículo para cada 2.000 (dois mil) habitantes, limitado a 20% (vinte por cento) da frota existente no momento da licitação.
+
+
+§ 2º
+
+As condições de habilitação para a licitação serão definidas no edital correspondente.
+
+
+§ 3º
+
+O permissionário terá 45 (quarenta e cinco) dias, a partir do Termo de Permissão, para adequar o veículo de acordo com as condições estabelecidas nesta Lei, sob pena de rescisão automática da permissão, sem necessidade de notificação ou decisão adicional.
+
+
+§ 4º
+
+O prazo estipulado no § 3º poderá ser prorrogado por igual período, em casos de força maior, reconhecidos pela autoridade competente.
+
+
+§ 5º
+
+As permissões devolvidas, canceladas, cassadas ou expiradas serão revertidas ao Município e licitadas conforme decisão do Órgão Gestor.
+
+
+§ 6º
+
+O ex-permissionário deverá aguardar no mínimo 02 (dois) anos após a revogação da permissão antes de se candidatar a uma nova outorga.
+
+
+Art. 5º.
+
+Cada permissionário receberá apenas uma única permissão, sendo vedado o compartilhamento a outrem.
+
+
+Parágrafo único
+
+A permissão concedida ao permissionário permitirá o cadastro de um único veículo, com possibilidade de substituição.
+
+
+Art. 6º.
+
+O permissionário que desejar devolver sua permissão ao Órgão Gestor deverá apresentar pedido formal de cancelamento.
+
+
+§ 1º
+
+A devolução e cancelamento da permissão só serão efetivados após a exclusão dos registros, conforme o art. 25.
+
+
+§ 2º
+
+O cancelamento será irreversível, e a permissão retornará imediatamente ao Permitente.
+
+
+Art. 7º.
+
+A permissão será concedida para operar exclusivamente no município de Divinópolis.
+
+
+Art. 8º.
+
+Fica proibida a troca de permissões entre pontos de táxi, sendo vedada a emissão de autorizações com este propósito pelo Órgão Gestor.
+
+
+#### CAPÍTULO III — DO SERVIÇO
+
+
+Art. 9º.
+
+Os táxis serão operados pelo permissionário ou por seu(s) condutor(es) auxiliar(es) durante o exercício efetivo da atividade.
+
+
+§ 1º
+
+É responsabilidade primordial do permissionário a prestação direta do serviço, enquanto o condutor auxiliar complementa e mantém a continuidade do serviço prestado pelo permissionário.
+
+
+§ 2º
+
+Considera-se exercício efetivo da atividade a prestação direta e eficaz do serviço pelo permissionário, por no mínimo 20 (vinte) horas semanais, excetuando-se os casos de aposentadoria, doença, afastamento médico ou férias do permissionário, devidamente comprovados por documentação.
+
+
+Art. 10.
+
+Qualquer forma de arrendamento, subcontratação, sublocação ou acordos similares que descaracterizem a natureza pessoal da permissão são proibidos.
+
+
+Art. 11.
+
+A instalação de mobiliário urbano nos pontos de táxi requer autorização prévia do Órgão Gestor, sem prejuízo das demais permissões concedidas por demais órgãos públicos.
+
+
+Art. 12.
+
+O permissionário tem opção de solicitar Reserva de Permissão para interromper temporariamente o serviço, por até 180 (cento e oitenta) dias, nos casos de substituição, roubo, furto, acidente grave ou perda total do veículo.
+
+
+§ 1º
+
+As circunstâncias a que se fundamentar a solicitação na forma do *caput* deverão ser comprovadas documentalmente, de forma idônea e própria.
+
+
+§ 2º
+
+O prazo mencionado no *caput* poderá ser prorrogado pelo Órgão Gestor, motivadamente.
+
+
+Art. 13.
+
+O Órgão Gestor reserva o direito de suspender temporariamente a atividade a qualquer momento, por razões de segurança ou para garantir a qualidade do transporte, quando:
+
+
+I –
+
+o veículo for considerado inseguro ou inadequado para o serviço;
+
+
+II –
+
+ocorrerem irregularidades no cadastro;
+
+
+III –
+
+houver variação que indique mudanças na saúde física ou mental do condutor.
+
+
+§ 1º
+
+A duração da suspensão será determinada pelo Órgão Gestor, de acordo com cada situação, motivadamente.
+
+
+§ 2º
+
+Na hipótese do inciso III do *caput*, o Órgão Gestor poderá solicitar laudo médico especializado, admitindo-se acompanhamento assistencial, quando indicado.
+
+
+#### CAPÍTULO IV — DO EXERCÍCIO DA ATIVIDADE
+
+
+Art. 14.
+
+A atuação como condutor de táxi, pelo permissionário ou pelo condutor auxiliar, está sujeita à ausência de condenação por crime contra a vida, a dignidade sexual, roubo, furto, estelionato, receptação, sequestro, extorsão, tráfico ilícito de drogas, posse ou comércio de armas de fogo e munição, bem como considerado hediondo, salvo se formalizada a reabilitação criminal.
+
+
+Art. 15.
+
+Em caso de condenação que impeça o exercício da atividade de condutor de táxi, como descrito no artigo 14, durante a outorga de permissão de táxi, esta será suspensa, enquanto não ocorrer a reabilitação criminal, extinguindo-se a permissão com o termo final do prazo de outorga.
+
+
+Art. 16.
+
+Durante o serviço, o táxi só pode ser dirigido pelo permissionário ou pelo condutor auxiliar devidamente registrado no Órgão Gestor.
+
+
+Art. 17.
+
+É permitido ao permissionário atuar como condutor auxiliar de outro permissionário, conforme mencionado no artigo 10 desta Lei, mediante a obtenção prévia de autorização do Órgão Gestor, por prazo de até 90 (noventa) dias.
+
+
+Art. 18.
+
+É proibido ao permissionário exercer atividades incompatíveis, incluindo o emprego público na administração direta ou indireta ou serviço militar.
+
+
+#### CAPÍTULO V — DO CADASTRAMENTO
+
+
+Art. 19.
+
+Como requisito mínimo para operar no sistema, o permissionário e o condutor auxiliar, bem como os veículos, devem ser cadastrados junto ao Órgão Gestor.
+
+
+Art. 20.
+
+Cada permissionário pode cadastrar até 03 (três) condutores auxiliares.
+
+
+Art. 21.
+
+Compete ao permissionário efetuar, manter atualizado e dar baixa em qualquer cadastro, inclusive nos de seus condutores auxiliares.
+
+
+§ 1º
+
+O permissionário deve comunicar ao Órgão Gestor, em até 48 (quarenta e oito) horas, a desvinculação do condutor auxiliar, devolvendo o respectivo crachá, para atualização de cadastro.
+
+
+§ 2º
+
+A qualquer momento, o condutor auxiliar pode solicitar a baixa de seu cadastro junto ao Órgão Gestor, sem a necessidade de autorização do permissionário.
+
+
+Art. 22.
+
+Caso o condutor auxiliar deseje prestar serviços para outro permissionário, deverá solicitar a alteração de seu cadastro mediante pagamento da taxa correspondente a 1 (uma) UPFMD, limitada a três pedidos por período de renovação cadastral.
+
+
+Art. 23.
+
+O cadastro de veículos e condutores para a obtenção das autorizações regulares será realizado pelo Órgão Gestor, com a renovação anual, agendada para o mês de agosto, com a apresentação dos seguintes documentos:
+
+
+I –
+
+para condutores:
+
+
+a)
+
+cópia da Carteira Nacional de Habilitação - categoria mínima “B”, com a observação "Exerce Atividade Remunerada (EAR)" ou observação equivalente;
+
+
+b)
+
+atestados médicos de sanidade física e de sanidade mental, emitidos por clínico geral ou médico especialista, renovados anualmente;
+
+
+c)
+
+cópia do comprovante de inscrição no INSS como taxista autônomo, conforme Lei Federal nº 12.468/11, ou Certificado de Microempreendedor Individual - MEI, com atividade principal de taxista;
+
+
+d)
+
+cópia da Declaração de Regularidade junto ao INSS;
+
+
+e)
+
+cópia da Inscrição como condutor autônomo no ISS quando for cadastro de pessoa física;
+
+
+f)
+
+certidão de regularidade fiscal junto à Fazenda Municipal;
+
+
+g)
+
+cópia do Certificado de aprovação em cursos de Relações Humanas, Direção Defensiva, Primeiros Socorros, Mecânica Básica e Elétrica Básica, conforme a Lei Federal nº 12.468/11, e Resolução do CONTRAN 456/13, renováveis a cada 5 (cinco) anos;
+
+
+h)
+
+cópia do Comprovação de endereço;
+
+
+i)
+
+uma foto 3x4 recente;
+
+
+j)
+
+certidão criminal que demonstra ausência de condenação em quaisquer dos crimes descritos no art. 14;
+
+
+k)
+
+certidão ou comprovante de consulta de pontuação nos últimos 12 (doze) meses, sem atingir a contagem prevista no § 1º do art. 261 da Lei Federal nº 9.503/97 - CTB;
+
+
+l)
+
+cópia da Apólice de Seguro ou Proteção Veicular, com cobertura para caso de sinistro envolvendo terceiro, contemplando danos físicos e materiais, no mínimo.
+
+
+II –
+
+para o veículo:
+
+
+a)
+
+cópia do Certificado de Registro e Licenciamento do Veículo - CRLV, com seguro obrigatório quitado, em nome do permissionário;
+
+
+b)
+
+Laudo de Inspeção Veicular Anual emitido por empresa de inspeção veicular credenciada junto ao Inmetro e homologada pelo Denatran, atendendo às resoluções do Contran, Conama, portarias do Denatran, normas da ABNT e regulamentos técnicos do Inmetro;
+
+
+c)
+
+Certificado de Aferição do Taxímetro ou comprovante de troca de memória dos dados.
+
+
+§ 1º
+
+O Órgão Gestor pode, a seu critério, exigir a apresentação de outros documentos ou a revalidação dos já apresentados.
+
+
+§ 2º
+
+Os condutores acima de 60 (sessenta) anos devem apresentar os atestados de sanidade física e de sanidade mental atualizados semestralmente.
+
+
+Art. 24.
+
+Após o cadastro ou renovação, a Autorização de Transporte e o crachá de identificação dos condutores serão emitidos e disponibilizados em formato digital pelo Órgão Gestor para confecção pelos próprios condutores e permissionários.
+
+
+Parágrafo único
+
+Sem prejuízo da multa prevista, o permissionário que deixar de renovar o cadastro ou não submeter o veículo à vistoria será suspenso por 60 (sessenta) dias a partir da data da constatação.
+
+
+Art. 25.
+
+Na baixa definitiva dos cadastros, serão exigidos os seguintes procedimentos:
+
+
+I –
+
+para o permissionário:
+
+
+a)
+
+requerimento junto ao Órgão Gestor, devidamente assinado;
+
+
+b)
+
+devolução do crachá de identificação do condutor.
+
+
+II –
+
+para o veículo:
+
+
+a)
+
+liquidação de todas as obrigações junto ao Órgão Gestor;
+
+
+b)
+
+saída do veículo.
+
+
+#### CAPÍTULO VI — DOS VEÍCULOS
+
+
+Art. 26.
+
+Os veículos dos permissionários devem estar licenciados no município de Divinópolis.
+
+
+Art. 27.
+
+A inspeção dos veículos de táxi (automóveis) deve ser realizada por empresa de inspeção veicular credenciada junto ao Órgão Estadual de Trânsito, em conformidade com a lei e atos normativos pertinentes.
+
+
+Art. 28.
+
+Para operar o serviço, os veículos devem possuir as seguintes características:
+
+
+I –
+
+modelos da espécie automóvel, com capacidade máxima de 7 (sete) passageiros, obrigatoriamente com 4 (quatro) portas;
+
+
+II –
+
+permanecer com as características originais de fábrica, em conformidade com o Código de Trânsito Brasileiro e legislação pertinente, considerando aspectos de segurança e conforto, conforme avaliação do Órgão Gestor.
+
+
+§ 1º
+
+Os veículos utilizados na prestação do serviço de táxi deverão possuir a cor prata como padrão principal, sendo admitida, de forma regulamentada, a cor branca como segunda opção oficial, mediante aprovação do Órgão Gestor e deliberação do COMUTRAN, observadas as demais exigências legais e regulamentares.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 9.639, de 17 de dezembro de 2025.
+
+
+§ 2º
+
+Veículos esportivos não são permitidos.
+
+
+§ 3º
+
+Para condutores portadores de deficiência física, veículos adaptados podem ser aceitos, desde que aprovados pelo Órgão Estadual de Trânsito.
+
+
+§ 4º
+
+A adoção da cor branca como segunda opção para os veículos de táxi deverá observar os padrões de identificação visual estabelecidos em regulamento próprio, podendo ser utilizados adesivos, faixas ou outros elementos padronizados que garantam a adequada identificação dos veículos.
+
+Inclusão feita pelo Art. 2º. - Lei Ordinária nº 9.639, de 17 de dezembro de 2025.
+
+
+Art. 29.
+
+Sem prejuízo da documentação exigida, os veículos devem estar equipados com os seguintes itens:
+
+
+I –
+
+taxímetro aferido e lacrado pelo órgão competente;
+
+
+II –
+
+caixa luminosa com a legenda "TÁXI" sobre o teto;
+
+
+III –
+
+selo de vistoria, se o veículo tiver mais de 2 (dois) anos de fabricação;
+
+
+IV –
+
+tabela oficial de tarifas vigente;
+
+
+V –
+
+autorização de transporte;
+
+
+VI –
+
+certificado de aferição do taxímetro ou comprovante de troca de memória dos dados.
+
+
+§ 1º
+
+O Órgão Gestor pode, a qualquer momento, determinar outros equipamentos de uso obrigatório, concedendo prazo para adequação pelos permissionários.
+
+
+§ 2º
+
+Os itens mencionados nos incisos IV e V devem estar visíveis no interior do veículo para fins de fiscalização ou consulta.
+
+
+Art. 30.
+
+Os veículos com mais de 24 (vinte e quatro) meses da emissão da Nota Fiscal de fabricação, na renovação anual, devem passar por vistoria.
+
+
+Art. 31.
+
+A identificação do veículo e do condutor deve seguir as diretrizes estabelecidas em ato normativo do Órgão Gestor.
+
+
+Art. 32.
+
+Os permissionários podem explorar publicidade de empresas no vidro traseiro do veículo, em material em conformidade com a legislação de trânsito, vedada propaganda político-partidária; de cunho religioso; de cigarros, bebidas alcoólicas e outras substâncias que possam causar dependência física ou psíquica.
+
+
+Art. 33.
+
+Para retirar o veículo de operação, o permissionário deve comunicar ao Órgão Gestor a baixa ou substituição.
+
+
+Art. 34.
+
+A substituição deve ser realizada nos seguintes prazos:
+
+
+I –
+
+veículos convencionais: até 31 de Dezembro do ano em que completarem 12 (doze) anos de fabricação;
+
+
+II –
+
+veículos adaptados para pessoas com deficiência: até 31 de Dezembro do ano em que completarem 15 (quinze) anos de fabricação.
+
+
+Art. 35.
+
+Em casos de acidentes que causem pequenas avarias no veículo, sem comprometer a dirigibilidade ou segurança, o permissionário deve informar ao Órgão Gestor as medidas adotadas e o prazo estimado para o reparo, sujeito a multa de 01 (uma) UPFMD.
+
+
+#### CAPÍTULO VII — DO SERVIÇO DE TÁXI ADAPTADO
+
+
+Art. 36.
+
+O serviço de táxi adaptado é destinado ao transporte especial de passageiros, atendendo às necessidades de deslocamento de pessoas com deficiência física, temporária ou permanente, necessidades especiais ou restrições de mobilidade, como idosos, gestantes e obesos.
+
+
+Parágrafo único
+
+O serviço na forma do caput não é exclusivo.
+
+
+Art. 37.
+
+O serviço de táxi adaptado deve ser prestado por veículos equipados com rampa, fixador de cadeira de rodas, plataforma elevatória ou outra tecnologia regulamentada pelo Poder Executivo. Os veículos devem ser identificados com o símbolo internacional de acesso e ter capacidade para transportar, no mínimo, 2 (dois) acompanhantes, além do motorista.
+
+
+Art. 38.
+
+O serviço de táxi adaptado é tarifado da mesma forma que o táxi convencional.
+
+
+Art. 39.
+
+A permissão para o serviço de táxi adaptado não pode ser convertida em permissão para o táxi convencional, e vice-versa.
+
+
+Art. 40.
+
+Os veículos licenciados para o serviço de táxi adaptado podem prestar o serviço de táxi convencional, priorizando o transporte de pessoas com deficiência ou mobilidade reduzida.
+
+
+#### CAPÍTULO VIII — DOS PONTOS DE TÁXI
+
+
+Art. 41.
+
+Os pontos de táxi serão regulamentados pelo Órgão Gestor, levando em consideração o interesse público, a conveniência técnico-operacional e quaisquer condições especiais de operação, mediante determinação do número de vagas em cada ponto.
+
+
+§ 1º
+
+As especificações dos pontos de táxi podem ser alteradas sempre que necessário, em consonância com o interesse público e a conveniência técnico-operacional.
+
+
+§ 2º
+
+No caso de criação, desmembramento ou unificação de pontos de táxi, observar-se-á a distância mínima de 200 (duzentos) metros entre os pontos.
+
+
+Art. 42.
+
+Os veículos em serviço podem aguardar passageiros somente nos pontos de táxi regulamentados pelo Órgão Gestor e em áreas de estacionamento permitido, seguindo a regulamentação municipal e o Código de Trânsito Brasileiro.
+
+
+Parágrafo único
+
+Táxis de outros municípios não podem utilizar os pontos de táxi regulamentados pelo Órgão Gestor do Município de Divinópolis.
+
+
+Art. 43.
+
+Nos pontos de táxi, os veículos devem respeitar a ordem de chegada para atender aos usuários, exceto em caso de solicitações feitas por telefone ou aplicativo.
+
+
+Parágrafo único
+
+A pedido explícito do usuário no local da fila de espera, um veículo pode sair sem obedecer à ordem de chegada.
+
+
+#### CAPÍTULO IX — DA UTILIZAÇÃO DE APLICATIVO
+
+
+Art. 44.
+
+A critério do Permitente, poderá ser autorizado o uso de aplicativo para solicitação de corridas de táxi, exclusivamente por permissionários e condutores de táxi autorizados pelo Poder Executivo.
+
+
+Parágrafo único
+
+A plataforma mencionada no *caput* será determinada pelo Órgão Gestor, que pode delegar a responsabilidade de definição ao Sindicato dos Condutores Autônomos ou a outra entidade representativa estabelecida, relativa à classe de permissionários.
+
+
+Art. 45.
+
+A utilização de aplicativo para prestação de serviços de táxi visa a:
+
+
+I –
+
+oferecer alternativa adicional de mobilidade de forma segura, moderna e eficiente aos cidadãos;
+
+
+II –
+
+garantir transparência na prestação de serviços pelos taxistas aos usuários;
+
+
+III –
+
+fomentar a competitividade no setor de táxi;
+
+
+IV –
+
+proporcionar melhores condições de trabalho aos taxistas.
+
+
+Art. 46.
+
+As tarifas das corridas serão calculadas pelo taxímetro, e os condutores podem conceder descontos aos usuários, desde que devidamente registrados.
+
+
+§ 1º
+
+Para fins de estimativa do valor da corrida, as tabelas de tarifas prefixadas oficiais, definidas pelo Poder Público, devem ser utilizadas.
+
+
+§ 2º
+
+O pagamento pode ser efetuado em dinheiro, cartão de débito ou crédito, diretamente ao taxista.
+
+
+Art. 47.
+
+A adesão de taxistas a aplicativos será opcional.
+
+
+#### CAPÍTULO X — DA REMUNERAÇÃO DOS SERVIÇOS
+
+
+Art. 48.
+
+Será cobrada dos permissionários a remuneração pelos serviços listados abaixo, vertidas ao Fundo Municipal de Trânsito e Transportes, com valores equivalentes a:
+
+
+I –
+
+Certificado de Gestão de Operações: 05 (cinco) UPFMD ao ano por veículo;
+
+
+II –
+
+cadastro de condutor auxiliar: 0,5 (meia) UPFMD, quando a solicitação ocorrer em prazo inferior ao estabelecido no art. 22;
+
+
+III –
+
+autorização para placa de aluguel: 0,5 (meia) UPFMD.
+
+
+#### CAPÍTULO XI — DAS TARIFAS
+
+
+Art. 49.
+
+As tarifas cobradas dos usuários do sistema serão definidas e ajustadas anualmente no mês de Outubro pelo Órgão Gestor, visando garantir remuneração justa para os investimentos e os custos operacionais.
+
+
+Art. 50.
+
+Não será aplicada tarifa adicional pelos equipamentos de locomoção de portadores de deficiência física ou com necessidades especiais.
+
+
+Art. 51.
+
+Compete ao Prefeito Municipal ou seu delegatário a aprovação de:
+
+
+I –
+
+metodologia de cálculo das tarifas;
+
+
+II –
+
+planilha de coeficientes para atualização tarifária;
+
+
+III –
+
+critérios de cobrança dos valores das tarifas.
+
+
+Parágrafo único
+
+A elaboração, confecção e distribuição das tabelas de tarifas são de competência exclusiva do Órgão Gestor, que pode, a seu critério, atribuir a uma das entidades representativas dos operadores a função de criar e distribuir essas tabelas.
+
+
+Art. 52.
+
+A utilização da Bandeira 2 fica restrita aos seguintes horários:
+
+
+I –
+
+segunda a sexta-feira, das 22 h (vinte e duas horas) às 06 h (seis horas);
+
+
+II –
+
+sábados, das 12 h (doze horas) às 23h59 (vinte e três horas e cinquenta e nove minutos);
+
+
+III –
+
+domingos e feriados, da 0 h (zero hora) às 06 h (seis horas) do dia subsequente.
+
+
+Parágrafo único
+
+Durante o mês de Dezembro é permitido aplicar a Bandeira 2 a qualquer momento.
+
+
+Art. 53.
+
+Respeitando a legislação de trânsito e a capacidade do veículo, os taxistas são obrigados a transportar a bagagem dos passageiros, sem cobrança adicional.
+
+
+#### CAPÍTULO XII — DA VISTORIA
+
+
+Art. 54.
+
+Os veículos devem passar por vistoria anual no mês de Agosto, realizada por empresa credenciada, nos termos desta Lei, objetivando-se verificar a segurança, conservação, conforto, higiene, equipamentos e características, conforme normas do CONTRAN e legislação aplicável.
+
+
+Parágrafo único
+
+A vistoria deve ser realizada durante o período de renovação cadastral, com laudo emitido com data não superior a 30 (trinta) dias, o qual fará parte da documentação apresentada necessária ao processo de renovação.
+
+
+#### CAPÍTULO XIII — DA FISCALIZAÇÃO
+
+
+Art. 55.
+
+A fiscalização consiste na supervisão constante da operação do serviço, com o objetivo de garantir o cumprimento das disposições da legislação federal, estadual e municipal.
+
+
+Art. 56.
+
+A fiscalização do serviço de táxi é realizada por Fiscais de Transportes designados pelo Órgão Gestor.
+
+
+Art. 57.
+
+O Órgão Gestor tem competência para exercer o Poder de Polícia Administrativa, incluindo a apuração de infrações e a aplicação de penalidades, garantindo o direito de defesa.
+
+
+#### CAPÍTULO XIV — DAS CONDUTAS, DEVERES E PROIBIÇÕES E DAS PENALIDADES
+
+
+##### Seção I — Das Condutas, Deveres e Proibições
+
+
+Art. 58.
+
+Constitui infração a ação ou omissão que resulte no não cumprimento das normas estabelecidas nesta lei e em outras normas e instruções complementares por parte dos permissionários ou condutores auxiliares.
+
+
+Art. 59.
+
+Dependendo da natureza ou tipificação, as infrações podem ser identificadas pela fiscalização em campo, sistemas próprios e/ou nos registros do Órgão Gestor.
+
+
+###### Subseção I — Dos Deveres dos Condutores
+
+
+Art. 60.
+
+Além das disposições do Código de Trânsito Brasileiro e legislação pertinente, sob pena de sanção em caso de descumprimento, os condutores, no exercício da prestação do serviço de táxi, devem observar os seguintes deveres:
+
+
+I –
+
+obedecer às regras de conduta, traje e higiene pessoal, conforme estabelecido na Portaria do Órgão Gestor;
+
+
+II –
+
+aguardar o usuário apenas nos limites do ponto de táxi ou em áreas de estacionamento permitido, respeitando a regulamentação;
+
+
+III –
+
+renovar o atestado médico de sanidade física e mental quando exigido pelo Órgão Gestor, conforme o art. 13, III;
+
+
+IV –
+
+conduzir o passageiro até seu destino final, sem interrupção voluntária da viagem, exceto em situações de desrespeito ou risco ao condutor ou ao serviço;
+
+
+V –
+
+tratar passageiros e o público com urbanidade e polidez, evitando o uso de palavras ofensivas;
+
+
+VI –
+
+acomodar e transportar a bagagem do passageiro com segurança;
+
+
+VII –
+
+fornecer troco ao passageiro;
+
+
+VIII –
+
+aproximar o veículo da guia da calçada sempre que possível para embarque e desembarque de passageiros;
+
+
+IX –
+
+devolver objetos esquecidos no veículo ao Órgão Gestor em até 02 (dois) dias úteis, mediante recibo;
+
+
+X –
+
+facilitar a realização de atos de fiscalização pelo pessoal credenciado do Órgão Gestor;
+
+
+XI –
+
+manter comportamento moral e ético;
+
+
+XII –
+
+prestar atendimento personalizado, de acordo com o interesse do passageiro;
+
+
+XIII –
+
+abster-se de praticar atos que propaguem preconceito de raça, gênero, religião, partido, esporte ou qualquer outra natureza;
+
+
+XIV –
+
+manter o porta-malas limpo e com espaço mínimo para bagagem do passageiro;
+
+
+XV –
+
+assegurar que o interior do veículo esteja livre de odores que afetem o conforto do passageiro.
+
+
+Parágrafo único
+
+O descumprimento de qualquer dever a que se referem os incisos do *caput* implica a penalidade de multa no valor de 1,0 (uma) UPFMD.
+
+
+###### Subseção II — Dos Deveres dos Permissionários
+
+
+Art. 61.
+
+Além das disposições do Código de Trânsito Brasileiro e legislação pertinente, sob pena de sanção em caso de descumprimento, os permissionários da prestação do serviço de táxi devem observar os seguintes deveres:
+
+
+I –
+
+manter e atualizar cadastros, incluindo os de condutores auxiliares, em até 15 (quinze) dias;
+
+
+II –
+
+apresentar ou renovar documentos conforme exigido nesta Lei;
+
+
+III –
+
+comunicar sinistros de trânsito envolvendo o veículo em até 05 (cinco) dias úteis a partir da ocorrência;
+
+
+IV –
+
+portar os documentos exigidos conforme art. 29, incisos IV, V e VI;
+
+
+V –
+
+facilitar estudos e fiscalizações realizados pelo pessoal credenciado do Órgão Gestor;
+
+
+VI –
+
+equipar os veículos com os equipamentos especificados no art. 29, incisos I, II e III;
+
+
+VII –
+
+renovar cadastros e submeter veículos a vistorias, conforme determinado pelo Órgão Gestor, nos prazos estabelecidos, exceto por justificativa formal acatada.
+
+
+Parágrafo único
+
+O descumprimento dos deveres descritos nos incisos do *caput* acarreta multa na seguinte forma:
+
+
+I –
+
+nos casos dos incisos I, II, III e IV: multa no valor de 1,0 (uma) UPFMD;
+
+
+II –
+
+no caso do inciso V: multa no valor de 2,0 (duas) UPFMD;
+
+
+III –
+
+nos casos dos incisos VI e VII: multa no valor de 4,0 (quatro) UPFMD, além da apreensão da autorização de tráfego pelo Permitente e suspensão da prestação do serviço.
+
+
+###### Subseção III — Das Proibições
+
+
+Art. 62.
+
+Sem prejuízo do disposto no Código de Trânsito Brasileiro e legislação pertinente, os permissionários e condutores são proibidos de:
+
+
+I –
+
+colocar inscrições, legendas ou publicidade nas partes internas e externas do veículo sem prévia autorização do Órgão Gestor, exceto o previsto no art. 32;
+
+
+II –
+
+prestar serviço em condições precárias de higiene e conservação;
+
+
+III –
+
+alterar as características do veículo determinadas na regulamentação municipal;
+
+
+IV –
+
+trocar veículos sem prévia autorização do Órgão Gestor;
+
+
+V –
+
+permitir que condutores não autorizados dirijam o veículo em serviço;
+
+
+VI –
+
+circular com veículo com vida útil vencida, exceto em casos previstos nesta Lei;
+
+
+VII –
+
+prestar serviço com veículo em condições inadequadas de funcionamento e segurança;
+
+
+VIII –
+
+recusar atendimento a passageiros, incluindo pessoas com deficiência ou necessidades especiais;
+
+
+IX –
+
+recusar passageiros, exceto em casos de embriaguez, uso de substâncias entorpecentes ou que ofereçam riscos ao veículo ou ao motorista;
+
+
+X –
+
+dirigir em situações que coloquem a segurança de passageiros ou terceiros em risco;
+
+
+XI –
+
+cobrar tarifa superior à fixada na tabela;
+
+
+XII –
+
+seguir itinerário mais longo ou desnecessário, exceto com autorização do passageiro ou por interrupções no trânsito;
+
+
+XIII –
+
+prestar serviço sem utilizar o taxímetro, exceto em situações em que o deslocamento do táxi seja maior que a corrida com passageiro;
+
+
+XIV –
+
+utilizar a Bandeira 2 de maneira indevida.
+
+
+Parágrafo único
+
+O descumprimento dos deveres descritos nos incisos do *caput* acarreta multa na seguinte forma:
+
+
+I –
+
+nos casos dos incisos I e II: advertência e multa no valor de 1,0 (uma) UPFMD, além da apreensão da autorização de transporte;
+
+
+II –
+
+no caso do inciso III: multa no valor de 2,0 (duas) UPFMD e apreensão da autorização de tráfego;
+
+
+III –
+
+nos casos dos incisos IV, V, VI e VII: multa no valor de 4,0 (quatro) UPFMD e apreensão da autorização de tráfego;
+
+
+IV –
+
+nos casos dos incisos VIII, IX, X, XI, XII, XIII e XIV: multa no valor de 4,0 (quatro) UPFMD, apreensão da autorização de tráfego e suspensão da prestação do serviço.
+
+
+##### Seção II — Das Penalidades
+
+
+Art. 63.
+
+Ao constatar a infração, o Fiscal de Transportes lavrará a autuação, entregando a Notificação de Autuação de Infração de Transportes no momento da lavratura, salvo impossibilidade, hipótese em que a notificação será enviada via sistema ou meio digital.
+
+
+§ 1º
+
+O Órgão Gestor terá o prazo de 30 (trinta) dias para expedir a notificação ao infrator, sob pena de arquivamento do Auto de Infração.
+
+
+§ 2º
+
+Na hipótese de entrega da notificação pessoalmente pelo fiscal ao permissionário ou motorista auxiliar, eventual recusa em assinar ou receber o documento será assim consignada e não afetará os prazos para apresentação de recurso, nem impedirá a aplicação da penalidade.
+
+
+§ 3º
+
+Havendo necessidade, a notificação será publicada no Diário Oficial do Município, contendo o número da infração, a identificação do veículo, o código da infração cometida e o prazo para defesa ou recurso.
+
+
+Art. 64.
+
+O auto de infração deverá conter:
+
+
+I –
+
+nome do permissionário autuado;
+
+
+II –
+
+dispositivo infringido;
+
+
+III –
+
+data da autuação;
+
+
+IV –
+
+matrícula do fiscal;
+
+
+V –
+
+local, dia e horário da infração;
+
+
+VI –
+
+valor da multa.
+
+
+Parágrafo único
+
+Se houver abordagem, os dados do condutor devem ser registrados no auto de infração.
+
+
+Art. 65.
+
+O permissionário é responsável pelo pagamento das multas aplicadas, inclusive, aquelas decorrentes das infrações cometidas por condutor auxiliar.
+
+
+Art. 66.
+
+O valor das multas será calculado com base na UPFMD vigente à época do lançamento.
+
+
+§ 1º
+
+Em caso de reincidência de uma mesma infração no período de 01 (um) ano antes da última infração, o valor da multa será duplicado.
+
+
+§ 2º
+
+As multas são cumulativas, quando várias infrações forem cometidas simultaneamente.
+
+
+#### CAPÍTULO XV — DOS RECURSOS
+
+
+Art. 67.
+
+A contar da notificação de autuação de infração, facultar-se-á ao interessado, permissionário ou condutor auxiliar apresentar defesa perante o Órgão Gestor, no prazo de até 30 (trinta) dias, mediante protocolo.
+
+
+Parágrafo único
+
+A defesa deverá ser apreciada em até 30 (trinta) dias, notificando-se o interessado quanto à respectiva decisão e eventual penalidade.
+
+
+Art. 68.
+
+Caberá recurso à CADARIT contra a penalidade imposta pelo Órgão Gestor, mediante protocolo no prazo de até 30 (trinta) dias a partir da data da notificação válida.
+
+
+Parágrafo único
+
+Os recursos terão efeito suspensivo durante a análise do processo.
+
+
+Art. 69.
+
+Para fins desta lei, na contagem de prazos observar-se-á o seguinte:
+
+
+I –
+
+os prazos serão contados excluindo o dia do começo e incluindo o dia do vencimento;
+
+
+II –
+
+os dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte, se coincidirem com dia sem expediente municipal.
+
+
+#### CAPÍTULO XV — DA CASSAÇÃO
+
+
+Art. 70.
+
+A cassação do registro do condutor auxiliar e/ou da permissão ocorrerá se:
+
+
+I –
+
+exercer a atividade em estado de embriaguez ou sob efeito de substâncias entorpecentes ou alucinógenas;
+
+
+II –
+
+exercer a atividade proibida, conforme o art. 18;
+
+
+III –
+
+prestar serviço estando suspenso;
+
+
+IV –
+
+expuser ou usar indevidamente arma de qualquer tipo durante o serviço;
+
+
+V –
+
+deixar exclusivamente o condutor auxiliar a prestação do serviço, no caso do permissionário, exceto em situações de impossibilidade do permissionário ou por decisão judicial.
+
+
+Parágrafo único
+
+Se o infrator não cumprir as determinações do Órgão Gestor para a cassação da permissão, o veículo será apreendido.
+
+
+Art. 71.
+
+Para obter nova permissão, quando a cassação não for relacionada a infrações penais, o permissionário deve aguardar o período de 24 (vinte e quatro) meses.
+
+
+Art. 72.
+
+A cassação das permissões e/ou registros de condutor será sempre precedida de processo administrativo correspondente.
+
+
+#### CAPÍTULO XVI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 73.
+
+A existência de pendências junto ao Órgão Gestor impedirá a tramitação de quaisquer requerimentos.
+
+
+Art. 74.
+
+Os casos omissos serão resolvidos pela autoridade máxima do Órgão Gestor, ouvido o COMUTRAN, mediante reunião com registo em ata própria.
+
+
+Art. 75.
+
+Não é permitida a transferência da outorga do serviço de táxi a terceiro ou a sucessor do permissionário.
+
+
+Art. 76.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 77.
+
+Fica revogada a Lei nº 3.955, de 1º de março de 1996.
+
+
+Parágrafo único
+
+As delegações de permissão concedidas sob vigência da Lei 3.955 de 1996 deverão ser mantidas, sob regência dessa norma, até o término do prazo da respectiva permissão.
+
+
+Divinópolis, 15 de outubro de 2024.
+
+**GLEIDSON GONTIJO DE AZEVEDO**
+
+Prefeito Municipal
+
+**LEANDRO LUIZ MENDES**
+
+Procurador-geral do Município
+
+
+**ATENÇÃO**
+
+**O SAPL tem cunho informativo e educativo, sendo a fonte de publicação eletrônica do Processo Legislativo da Câmara Municipal de Divinópolis, dada sua capacidade de abrangência. Porém, não dispensa a consulta aos textos oficiais para a prova da existência de direito, nos termos do art. 337 do Código de Processo Civil.**
+
+**A compilação tem por finalidade abreviar e facilitar a consulta às fontes de informação legislativa. A compilação de Leis do Município de Divinópolis é uma iniciativa mantida pela Secretaria Legislativa da Câmara, em respeito à sociedade e ao seu direito de acesso à informação, com finalidade de facilitar a pesquisa de leis e suas relações.**
+
+**Assim, dadas as limitações existentes, essa compilação é um facilitador de pesquisa, mas não resume todo o processo e não deve, no estágio atual, ser a única referência.**

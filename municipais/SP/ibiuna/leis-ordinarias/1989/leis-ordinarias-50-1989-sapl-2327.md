@@ -1,0 +1,142 @@
+---
+titulo: "Lei nº 50, de 22 de novembro de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "50"
+data: "1989-11-22"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2327"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/553/text"
+sha256_fonte: "02f9d2db5b6c3b9d8a52c4ab7c4f129bb887abebf0bb56653ff5f0232c60351a"
+sha256_texto: "c27199412a2a5687bda1bf3573e01321ddeb41340d6928b53f24a2b3af73617d"
+capturado_em_fonte: "2026-10-28T13:49:16.456653-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 50, de 22 de novembro de 1989
+
+Dispõe sobre as diretrizes orçamentárias para o ano de 1990 e dá outras providencias
+
+
+**JONAS DE CAMPOS**, Prefeito do Município de Ibiúna, no uso de suas atribuições legais, que lhe são conferidas por lei
+
+**FAÇO SABER**, que a Câmara Municipal de Ibiúna aprovou e eu sanciono seguinte lei:
+
+
+Art. 1º.
+
+O Orçamento Anual do Município abrangerá o Poder Executivo e Legislativo, seus fundos, órgãos e entidades da Administração Direta.
+
+
+Art. 2º.
+
+A elaboração da proposta orçamentária do Município para o Exercício de 1990 obedecerá as seguintes diretrizes gerais, sem prejuízo das normas financeiras estabelecidas pela legislação federal.
+
+
+§ 1º
+
+O montante das despesas não deverá ser superior aos das receitas.
+
+
+§ 2º
+
+As unidades orçamentárias projetarão suas despesas correntes até o limite fixado para o exercício em curso, corrigidos monetariamente, considerando-se o aumento ou diminuição dos serviços prestados.
+
+
+§ 3º
+
+Na estimativa das receitas considerar-se-á a tendência do presente exercício e os efeitos das modificações na legislação tributária.
+
+
+§ 4º
+
+O pagamento do serviço de dívida, de pessoal e encargos terá prioridade sobre as ações de expansão.
+
+
+§ 5º
+
+Os projetos em fase de execução terão prioridade sobre novos projetos.
+
+
+§ 6º
+
+O Município aplicará 25% de sua receita resultante de impostos, conforme dispõe o artigo 212 da Constituição Federal, prioritariamente na manutenção e desenvolvimento do ensino de primeiro grau e pré-escolar.
+
+
+Art. 3º.
+
+O Poder Executivo, tendo em vista a capacidade financeira do Município, procederá a seleção das prioridades estabelecidas no Plano Plurianual, a serem incluídas na proposta orçamentária, podendo, se necessário, incluir programas não elencados, desde que financiados com recursos de outras esferas de governo.
+
+
+Art. 4º.
+
+O Poder Executivo poderá firmar convênios com outras esferas de governo para desenvolver programas nas áreas de educação, cultura, saúde e assistência social.
+
+
+Art. 5º.
+
+As despesas com pessoal de Administração direta e indireta ficam limitadas a 50% de receita corrente.
+
+
+§ 1º
+
+Entende-se como receitas correntes para efeitos de limite do presente artigo o somatório das receitas correntes da Administração direta, excluídas as receitas de convênios, com exceção do SUDS.
+
+
+§ 2º
+
+O limite estabelecido para as despesas de pessoal que se trata este artigo abrange os gastos com:
+
+\- Salários;
+
+\- Obrigações Patronais;
+
+\- Proventos de Aposentadorias e Pensões;
+
+\- Remuneração do Prefeito e do Vice- Prefeito;
+
+\- Remuneração dos Vereadores.
+
+
+§ 3º
+
+A concessão de qualquer vantagem ou aumento de remuneração além dos índices inflacionários, a criação de cargos ou alteração de estrutura de carreira, bem como a admissão de pessoal, a qualquer título, pelos órgãos e entidades da Administração direta, autarquias, só poderá ser feita se houver prévia dotação orçamentária, suficiente para atender às projeções de despesas até o final do exercício, obedecido o limite no “caput”.
+
+
+Art. 6º.
+
+O Município poderá conceder subvenção às seguintes entidades:
+
+\- Casa Santa Rita de Ibiúna – Ncz$. 10.000,00.
+
+\- Associação de Pais e Amigos dos Excepcionais – APAE – Ncz$. 10.000,00.
+
+
+Art. 7º.
+
+A estrutura do orçamento anual obedecerá à estrutura organizacional aprovada por decreto e acrescida dos fundos criados por lei, e da empresa pública municipal.
+
+
+Art. 8º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 22 DIAS DO MÊS DE NOVEMBRO DE 1989.
+
+**JONAS DE CAMPOS**
+
+**Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 22 de novembro de 1989.
+
+**JOSÉ UBIRAJARA DE CAMPOS**
+
+**Secretário Geral da Administração**
+

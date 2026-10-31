@@ -1,0 +1,51 @@
+“Dispõe sobre o realinhamento anual dos vencimentos dos cargos dos servidores ocupantes do Grupo GOJ e do Grupo GCI instituído pela Lei nº 163 de 08 de julho de 2003”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe são conferidas pelos artigos 65, §1º, II, e 87, III, da Lei Orgânica do Município de Porto Velho,  
+  
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI COMPLEMENTAR:**
+
+
+Art. 1º.
+
+Fica concedido realinhamento de 0,5 (zero virgula cinco por cento) sobre os vencimentos básicos dos servidores públicos do Município de Porto Velho, ocupantes dos cargos do Grupo Ocupacional de Representação e Consultoria Jurídica – GOJ e do Grupo Ocupacional de Controle Interno – GCI, conforme anexos I e II desta Lei Complementar.
+
+
+Parágrafo único
+
+O Anexo I e II, altera respectivamente os Anexos I e II da Lei Complementar nº 163, de 08 de julho de 2003.
+
+
+Art. 2º.
+
+Esta lei entrará em vigor na data de sua publicação, com efeitos retroativos a 08 de abril de 2009.
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito do Município
+
+**MARIO JONAS FREITAS GUTERRES**
+
+Procurador Geral do Município
+
+
+## Anexo I — LEI COMPLEMENTAR Nº 353 DE 05 DE MAIO DE 2009
+
+<table><colgroup span="5"></colgroup><colgroup span="2"></colgroup><tbody><tr><td colspan="8"><strong>TABELA DE VENCIMENTO – PROCURADORIA GERAL DO MUNICÍPIO</strong></td></tr><tr><td colspan="8"><strong>0,5% A PARTIR DE ABRIL/2009</strong></td></tr></tbody></table>
+
+<table><colgroup></colgroup><colgroup span="5"></colgroup><colgroup span="2"></colgroup><tbody><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">QTDE</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3"><strong>PROCURADOR</strong></td><td rowspan="3">GOJ-NS-01</td><td rowspan="3">35</td><td>A</td><td>2.014,45</td><td>2.518,06</td><td>3.147,56</td><td>3.934,45</td></tr><tr><td>B</td><td>4.327,89</td><td>5.409,86</td><td>6.762,32</td><td>8.452,90</td></tr><tr><td>C</td><td>9.298,19</td><td>11.622,73</td><td>14.528,42</td><td>18.160,52</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">QTDE</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3"><strong>ADVOGADO</strong></td><td rowspan="3">GOJ-NS-01</td><td rowspan="3">4</td><td>A</td><td>1.762,65</td><td>2.203,31</td><td>2.754,13</td><td>3.442,66</td></tr><tr><td>B</td><td>3.786,94</td><td>4.733,66</td><td>5.917,08</td><td>7.396,36</td></tr><tr><td>C</td><td>8.135,99</td><td>10.169,99</td><td>12.712,49</td><td>15.890,62</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">QTDE</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3"><strong>TECNICO JURIDICO</strong></td><td rowspan="3">GOJ-EMC-01</td><td rowspan="3">30</td><td>A</td><td>1.510,82</td><td>1.888,52</td><td>2.360,64</td><td>2.950,80</td></tr><tr><td>B</td><td>3.245,87</td><td>4.057,33</td><td>5.071,65</td><td>6.339,56</td></tr><tr><td>C</td><td>6.973,51</td><td>8.716,89</td><td>10.896,11</td><td>13.620,13</td></tr></tbody></table>
+
+
+## Anexo II — LEI COMPLEMENTAR Nº 353 DE 05 DE MAIO DE 2009
+
+<table><colgroup span="5"></colgroup><colgroup span="2"></colgroup><tbody><tr><td colspan="8"><strong>TABELA DE VENCIMENTO – CONTROLADORIA GERAL DO MUNICÍPIO</strong></td></tr><tr><td colspan="8"><strong>0,5% A PARTIR DE ABRIL/2009</strong></td></tr></tbody></table>
+
+<table><colgroup></colgroup><colgroup span="3"></colgroup><colgroup span="4"></colgroup><tbody><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">QTDE</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3">AUDITOR</td><td rowspan="3">GCI-NS-01</td><td rowspan="3">18</td><td>A</td><td>2.014,45</td><td>2.518,06</td><td>3.147,57</td><td>3.934,45</td></tr><tr><td>B</td><td>4.327,89</td><td>5.409,86</td><td>6.762,33</td><td>8.452,90</td></tr><tr><td>C</td><td>9.298,19</td><td>11.622,73</td><td>14.528,42</td><td>18.160,52</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">QTDE</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3">CONTADOR</td><td rowspan="3">GCI-NS-02</td><td rowspan="3">20</td><td>A</td><td>1.762,62</td><td>2.203,27</td><td>2.754,08</td><td>3.442,60</td></tr><tr><td>B</td><td>3.786,86</td><td>4.733,58</td><td>5.916,96</td><td>7.396,20</td></tr><tr><td>C</td><td>8.135,82</td><td>10.169,77</td><td>12.712,20</td><td>15.890,26</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">QTDE</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3">TECNICO DE CONTROLE INTERNO</td><td rowspan="3">GCI-NS-03</td><td rowspan="3">10</td><td>A</td><td>1.636,72</td><td>2.045,91</td><td>2.557,39</td><td>3.196,73</td></tr><tr><td>B</td><td>3.516,39</td><td>4.395,48</td><td>5.494,35</td><td>6.867,93</td></tr><tr><td>C</td><td>7.554,73</td><td>9.443,40</td><td>11.804,25</td><td>14.755,30</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="3">Cargo</td><td rowspan="3">Código</td><td rowspan="3">QTDE</td><td rowspan="3">Classe</td><td colspan="4">Vencimento</td></tr><tr><td colspan="4">Nível</td></tr><tr><td>I</td><td>II</td><td>III</td><td>IV</td></tr><tr><td rowspan="3">ASSISTENTE DE CONTROLE INTERNO</td><td rowspan="3">GCI-EMC-01</td><td rowspan="3">25</td><td>A</td><td>1.510,82</td><td>1.888,52</td><td>2.360,64</td><td>2.950,80</td></tr><tr><td>B</td><td>3.245,87</td><td>4.057,33</td><td>5.071,65</td><td>6.339,57</td></tr><tr><td>C</td><td>6.973,51</td><td>8.716,89</td><td>10.896,11</td><td>13.620,13</td></tr></tbody></table>

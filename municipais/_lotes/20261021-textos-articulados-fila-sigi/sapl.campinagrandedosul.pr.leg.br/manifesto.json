@@ -1,0 +1,42 @@
+{
+  "host": "sapl.campinagrandedosul.pr.leg.br",
+  "metadados_unicos_observados": 4,
+  "total_api_declarado": 4,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinagrandedosul.pr.leg.br/7ed958ded68e3274d9ca20ebdd7ffe521df14fce7f4a215e9bae715d83db1121.json",
+    "url": "https://sapl.campinagrandedosul.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.campinagrandedosul.pr.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "80725f3f4de2a3c6c08726aec7980b3db6998d70a276caba338c618ca7ba77fa",
+    "bytes": 949,
+    "capturado_em": "2026-10-27T22:20:52.405587-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinagrandedosul.pr.leg.br/a466258955c95e7a6c5f6cfbd240b4cc21b54c61beba27e86105682a0081438b.json",
+    "url": "https://sapl.campinagrandedosul.pr.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.campinagrandedosul.pr.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "fed209bc0c922757e02c2d24b17b8f3c6c203fbf3fed12231f9818b1530dc4db",
+    "bytes": 813,
+    "capturado_em": "2026-10-27T22:20:51.567001-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.campinagrandedosul.pr.leg.br/7ddd559c0876703c7043d18688ec28624b308ff3fee927cc96b34041b370a36a.json",
+      "url": "https://sapl.campinagrandedosul.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.campinagrandedosul.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a293d5c56d1d4af46768bcf31a7fab804997b6430c01e99ccdbe928f3c6d4732",
+      "bytes": 2747,
+      "capturado_em": "2026-10-27T22:20:54.429269-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

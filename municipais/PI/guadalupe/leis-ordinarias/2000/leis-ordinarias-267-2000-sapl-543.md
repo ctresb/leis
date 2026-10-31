@@ -1,0 +1,361 @@
+---
+titulo: "Lei Ordinária nº 267, de 25 de outubro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "267"
+data: "2000-10-25"
+municipio: "Guadalupe"
+uf: "PI"
+codigo_ibge: "2204501"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2000-12-18; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guadalupe.pi.leg.br/norma/543"
+fonte_texto: "https://sapl.guadalupe.pi.leg.br/ta/539/text"
+sha256_fonte: "906f26a2a95cb77f03186313fd47ccd6f4c860c798859a915023e7c1ce2d93a7"
+sha256_texto: "f4c650d4bb40bd6eb0d3e4eaf3ae23f28f0f6c82015673a6f481177fe48ee2a9"
+capturado_em_fonte: "2026-10-28T12:55:35.018988-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 267, de 25 de outubro de 2000
+
+Dispõe sobre o Conselho Municipal de Alimentação Escolar - COMAE e dá outras providências
+
+
+O Prefeito Municipal de Guadalupe, Estado do Piauí, considerando as especificações contidas na Medida Provisória nº 1.979-19, de 02 de junho de 2000 e a Resolução nº 15, de 25 de Agosto de 2000, faço saber que a Câmara Municipal de Vereadores de Guadalupe aprovou e eu sanciono a seguinte lei:
+
+
+#### CAPÍTULO I — Da Finalidade
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Alimentação Escolar com a finalidade de assessorar o Governo Municipal na execução do programa de assistência e educação alimentar junto aos estabelecimentos de educação pré-escolar e do ensino fundamentalmantidos pelo município, motivando a participação de órgãos públicos e da comunidade na consecução de seus objetivos competindo-lhe, especificamente:
+
+
+I –
+
+acompanhar a aplicação dos recursos federais transferidos à conta do PNAE;
+
+
+II –
+
+zelar pela qualidade dos produtis, em todos os níveis, desde a sua aquisição até à distribuição, observando sempre as boas práticas higiênicas e sanitárias;
+
+
+III –
+
+receber a analisar a prestação de contas do PNAE enviada pela EE e remeter ao FNDE, com parecer conclusivo, apenas o Demonstrativo Sintético Anual da Execução Físico-Financeiro de que trata a Medida Provisória nº 1.979-19, de 02 de junho de 2000;
+
+
+IV –
+
+Orientar sobre o armazenamento dos gêneros alimentícios nos depósitos e/ou escolas;
+
+
+V –
+
+Comunicar à Entidade Executora a ocorrência de irregularidade com os gêneros alimentícios (tais como: vencimento no prazo de validade, deterioração, desvio e furtos) para que sejam tomadas as devidas providências;
+
+
+VI –
+
+apreciar e votar, anualmente, o plano de ação do PNAE a ser apresentado pela EE;
+
+
+VII –
+
+divulgar em locais públicos os recursos financeiros do PNAE transferido à EE;
+
+
+VIII –
+
+apresentar relatórios de atividades ao FNDE, quando solicitados;
+
+
+IX –
+
+comunicar ao FNDE o descumprimento das disposições previstas nos parágrafos e caput do art. 6º da REsolução nº 015 de 25 de Agosto de 2000.
+
+
+X –
+
+sugerir medidas aos órgãos dos Poderes Executivo e Legislativo do Município, na fases de elaboração e tramitação do plano Plurianual, da Lei de Diretrizes Orçamento Municipal visando:
+
+
+a)
+
+as metas a serem alcançadas;
+
+
+b)
+
+a aplicação dos recursos previstos na Legislação nacional;
+
+
+c)
+
+o enquadramento das dotações orçamentárias especificas para alimentação escolar;
+
+
+XI –
+
+articular-se com os órgãos ou serviços governamentais nos âmbitos estadual e federal e com outros órgãos da administração pública ou privada, a fim de obter colaboração ou assistência técnica para melhoria da alimentação escolar distribuída nas escolas municipais;
+
+
+XII –
+
+fixar critérios para distribuição da Merenda Escolar no estabelecimentos de ensino fundamental;
+
+
+XIII –
+
+articular-se com as escolas municipais conjuntamente com os órgãos de educação do município, motivando-se na criação de hortas, granjas e de pequenos animais de corte para fins de enriquecimento da alimentação escolar;
+
+
+XIV –
+
+realizar campanhas de esclarecimento sobre alimentação;
+
+
+XV –
+
+realizar estudos a respeito dos hábitos alimentares locais, levando-se em conta quando da eloaboração dos cardápios para a merenda escolar;
+
+
+XVI –
+
+promover a realização de cursos de culinária, noções de nutrição, conservação de utensílios e material, junto às escolas municipais.
+
+
+#### CAPÍTULO II — DA COMPOSIÇÃO DO CONSELHO DE ALIMENTAÇÃO ESCOLAR
+
+
+Art. 2º.
+
+O COMAE será constituido por 07 (sete) membros, com a seguinte composição:
+
+
+I –
+
+01 (um) representante do Poder Executivo, indicado pelo chefe desse poder;
+
+
+II –
+
+01 (um) representante do Poder Legislativo, indicadop pela Mesa Diretora desse poder;
+
+
+III –
+
+02 (dois) representantes dos professores, indicados pelos respctivos órgãos de classe;
+
+
+IV –
+
+02 (dois) representantes de pais de alunos indicados pelos conselhos escolares, associações de pais e mestres ou entidades similares;
+
+
+V –
+
+01 (um) representante de outro seguimento da sociedade.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 270, de 18 de dezembro de 2000.
+
+
+§ 1º
+
+Cada membro titular do COMAE terá 01 (um) suplente da mesma categoria.
+
+
+§ 2º
+
+Na Entidade Executora com mais de 100 (cem) escolas do ensino fundamental, a composição do COMAE poderá ser de até 03 (três) vezes o nº de membros estipulados no caput deste artigo, obedecida a prporcionalidade ali definida.
+
+
+§ 3º
+
+Os membros do COMAE terão mandato de 02 (dois) anos, podendo ser reconduzidos uma única vez.
+
+
+§ 4º
+
+O exercício do mandato de conselheiro do COMAE é considerado serviço público relevante e não será remunerado.
+
+
+§ 5º
+
+A nomeação dos conselheiros do COMAE é deverá ser feita por ato legal de acordo com a Lei Orgânica do Município, observadas as disposições previstas no art. 9º, inciso I, da Resolução nº. 015, de 25 de agosto de 2000.
+
+
+Art. 3º.
+
+Sem prejuízo das competências previstas no artigo 1º, o funcionamento, a forma e o quorum das deliberações do COMAE serão estabalecidas em Regimento Interno, observadas as seguintes disposições:
+
+
+I –
+
+O COMAE terá 01 (um) Presidente e seu respecitvo Vice, com mandatos de 02 (dois) anos, podendo ser reeleitos uma única vez.
+
+
+II –
+
+O presidente será eleito e destituído pelo voto 2/3 (dois terços) do conselheiros do COMAE presentes em Assembléia Geral especificamente convocada para tal fim;
+
+
+III –
+
+são atribuições do presidente ressalvadas as previstas no Regime Interno do COMAE, as seguintes:
+
+
+a)
+
+coordenar todas as atividades inerentes às competências do conselho;
+
+
+b)
+
+representar o conselho no âmbito da administração pública na comunidade;
+
+
+c)
+
+presidir reuniões;
+
+
+d)
+
+convocar extraordinariamente o conselho e exercer discussões de resoluções, o voto de minerva;
+
+
+e)
+
+decidir, com o Conselho, todas as medidas que devem ser sugeridas ao Poder Executivo, objetivando a consecução dos seus fins.
+
+
+IV –
+
+as atribuições dos membros serão definidas do Regimento Interno do COMAE;
+
+
+V –
+
+as resoluções dos conselheiros do COMAE serão tomadas em Assembléia Geral;
+
+
+VI –
+
+haverá anualmente durante o mês de fevereiro, a Assembléia Ordinária para análise e emissão de parecer conclusivo dobre a prestação de contas do PNAE, apresentada peloa Entidade Executora;
+
+
+VII –
+
+A Assembléia Geral Extraordinária realizar-se-á por iniciatica do presidente ou membros do COMAE que representam, no mínimo, 1/4 (um quarto) dos conselheiros.
+
+
+VIII –
+
+as convocações para Assembléia Geral serão feitas por carta ou entregue pessoalmente aos conselheiros, sob protocolo simples, com 05 (cinco) dias de antecedência;
+
+
+IX –
+
+as Assembléias se instalarão em primeira convocação, com 51% (cinquenta e um por cento) dos votos totais dos conselheiros, e em segunda convocação, com qualquer número, podendo ser realizada no mesmo dia, decorrido, no mínimo, 30 (trinta) minutos após o horário marcado para a primeira convocação, desde que tenha sido convocada neste termos;
+
+
+X –
+
+a aprovação ou as medificaçãoes no Regimento Interno do COMAE só poderão ocorrer pelo voto de, no mínimo, 2/3 (dois terços) dos conselheiros.
+
+
+§ 1º
+
+O Regimento Interno do COMAE deverá ser ajustado ao disposto na Medida Provisória nº. 1.979-19 e resolução nº 015, de 25 de agosto de 2000.
+
+
+§ 2º
+
+O COMAE, no âmbito de suas competências, a comunidade escolar e a sociedade civil deverão formalizar denúncia de qualquer irregularidade identificada na execução do programa, ao FNDE, à Secretaria Federal de Controle do Ministério da Fazenda, ao Ministério Público e ao Tribunal de Contas da União e dos Estados.
+
+
+Art. 4º.
+
+O Conselho terá como sede, provisoriamente, as dependências da Secretaria Municipal de Educação.
+
+
+#### CAPÍTULO III — Dos Recursos
+
+
+Art. 5º.
+
+O programa de alimentação escolar será executado com:
+
+
+I –
+
+recursos próprios do Município consignados no orçamento anual;
+
+
+II –
+
+recursos transferidos pela União;
+
+
+III –
+
+recursos financeiros ou de produtos doados por entidades particulares, ONGs, instituições estrangeiras ou internacionais.
+
+
+#### CAPÍTULO IV — Do Controle de Qualidade do Programa
+
+
+Art. 6º.
+
+Os produtos a serem adquiridos para a clientela do PNAE deverão ser previamente submetifdos à Secretária de Saúde do Município para avaliação e deliberação quanto ao padrão de identidade e qualidade do alimento, nos termos estabelecidos na portaria nº 1.428, de 26 de novembro de 1993, do Ministério da Saúde.
+
+
+§ 1º
+
+As Entidades Executoras deverão prever em edital de licitação a obrigatoriedade do fornecedor apresentar a ficha técnica, com laudo de laboratório qualificado e/ou laudo de inspeção sanitária dos produtos, como forma de garantir a qualidade dos alimentos oferecidos aos alunos beneficiados.
+
+
+§ 2º
+
+As Entidades Executoras aplicarão, nos alunos beneficiados, teste de aceitabilidade dos produtos a serem adquiridos, quando ocorrer a introdução de novo alimento na composição dos cardápios.
+
+
+§ 3º
+
+A metodologia do teste de aceitabilidade será definida pela EE, observando parâmentros técnicos, científicos e sensoriais reconhecidos. Contudo, o índice de aceitabilidade não poderá ser inferior a 70% (setenta por cento).
+
+
+§ 4º
+
+Nas aquisições feitas pelo municípios, quando receber até R$ 6.000,00 por parcela ou R$ 60.000,00/ano e naquelas realizadas pela própria escola, o controle de qualidade será feito pelo método sensorial, isto é, pelas características, cor, sabor, odor e textura do alimento, aplicando sempre, previamente, o atestado de aceitabilidade conforme dispõe o parágrafo segundo deste artigo.
+
+
+Disposições Finais
+
+
+Art. 7º.
+
+Cumpre ao Conselho elaborar o Regimento Interno após a publicação desta lei, documento que será baixado por Decreto do Poder Executivo.
+
+
+Art. 8º.
+
+O Regimento Interno, de que trata o art. anterior, deverá está de acordo com as disposições previstas na Medida Provisória nº 1.979-19 de 02 de julho de 2000 e Resolução nº 015 de 25 de Agosto de 2000.
+
+
+Art. 9º.
+
+Esta lei entra em vigor na data de sua publicação, revogando a Lei nº 210/95 e as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Guadalupe - Piauí aos vinte e cinco de Outubro de dois mil.  
+  
+Georgiano Fernandes Lima Filho  
+Prefeito Municipal
+

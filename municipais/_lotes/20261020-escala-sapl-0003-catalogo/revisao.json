@@ -1,0 +1,18 @@
+{
+  "catalogo_sha256": "e3e6afe34bf59e3b927d50fff492f7522a043d133b1eb456984a3cd084dfb1c1",
+  "criterio": "Brasão de São José do Seridó visto diretamente nesta revisão; o outro SHA é idêntico à marca institucional já vista no lote anterior. Nenhum texto normativo ou tabela nas duas imagens. Outros controles continuam necessários.",
+  "imagens": [
+    {
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b7e687563a3fed28fd23e3763eac28b9fd0755378484cf264577b09dad7a08cd/1/imagem-000.png",
+      "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/850e23083cfca9af8903fb33431edfe8f55d549cf1dddf85779d75309aef10fe/1/imagem-000.png",
+      "sha256": "46743f59e04bef7054d63faaa975b0041234a09baa0aaf36cb745b6364ca0456",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    }
+  ]
+}

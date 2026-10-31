@@ -1,0 +1,76 @@
+DECLARA COMO ZONA ESPECIAL DE INTERESSE TURÍSTICO (ZEIT) A ÁREA DE TERRAS QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DE AGUDO, ESTADO DO RIO GRANDE DO SUL, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no Art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+Art. 1º.
+
+Fica declarada como de Zona Especial de Interesse Turístico (ZEIT) a área de área super- ficial de 12.090,00 m2 (doze mil e noventa metros quadrados), localizada na Linha Teutônia.
+
+
+Parágrafo único.
+
+A área de que trata o caput é aquela definida no mapa e memorial descritivo, em anexo, os quais integram a presente lei.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO, 15 de agosto de 2023; 164º da Colonização e 64º da Emancipação.
+
+LUÍS HENRIQUE KITTEL  
+Prefeito de Agudo
+
+Registre-se e publique-se.
+
+JEAN CARLOS BUSKE  
+Secretário de Administração e Gestão Subtituto
+
+
+MEMORIAL DESCRITIVO
+
+
+Imóvel: Sem denominação.  
+Requerente: Prefeitura Municipal de Agudo.  
+Área Total: 1,2090 ha.  
+Perímetro (m): 784,84 m.  
+Comarca: Registro Geral de Serviço Registral de Agudo/RS.  
+Responsável Técnico: Marcelo Ivan Mentges – CREA-RS155757.
+
+1\. Requerente:  
+- Prefeitura Municipal de Agudo, inscrita no CGC/MF sob nº 87.531.976/0001-79, com sede nesta cidade de Agudo/RS.
+
+2\. Finalidade:  
+O presente trabalho tem por finalidade o levantamento topográfico/geodésico planimétrico da área pretendida para a utilização da Associação Agudense de Voo Livre.
+
+3\. Descrição do imóvel:  
+Uma fração de terras, localizada na Linha Teutônia, neste município de Agudo, com a área superficial de 12.090,00 m² (doze mil e noventa metros quadrados). A descrição desse perímetro se inicia no vértice P-01 (coordenadas N 6.713.416,160 m, E 285.823,440 m e Altitude de 520,55 m); deste, segue com os seguintes azimutes e distâncias: 146°05' e 44,82 m até o vértice P-02 (coordenadas N 6.713.379,440 m, E 285.849,150 m e Altitude de 520,58 m); 240°12' e 55,11 m até o vértice P-03 (coordenadas N 6.713.351,160 m, E 285.801,830 m e Altitude de 526,20 m); 140°15' e 59,92 m até o vértice P-04 (coordenadas N 6.713.305,830 m, E 285.841,040 m e Altitude de 529,49 m); 163°33' e 53,46 m até o vértice P-05 (coordenadas N 6.713.254,860 m, E 285.857,160 m e Altitude de 531,47 m); 209°27' e 93,39 m até o vértice P-06 (coordenadas N 6.713.172,640 m, E 285.812,780 m e Altitude de 522,86 m); 350°51' e 82,06 m até o vértice P-07 (coordenadas N 6.713.253,410 m, E 285.798,200 m e Altitude de 530,77 m); 08°19' e 67,94 m até o vértice P-08 (coordenadas N 6.713.320,810 m, E 285.806,740 m e Altitude de 527,62 m); 330°09' e 30,14 m até o vértice P-09 (coordenadas N 6.713.346,670 m, E 285.791,250 m e Altitude de 525,90 m); 260°13' e 102,04 m até o vértice P-10 (coordenadas N 6.713.327,400 m, E 285.691,030 m e Altitude de 512,81 m); 15°31' e 31,25 m até o vértice P-11 (coordenadas N 6.713.357,690 m, E 285.698,830 m e  
+Altitude de 506,93 m); 36°28' e 45,95 m até o vértice P-12 (coordenadas N 6.713.395,150 m, E 285.725,420 m e Altitude de 513,52 m); 138°06' e 27,10 m até o vértice P-13 (coordenadas N 6.713.375,320 m, E 285.743,920 m e Altitude de 521,67 m); 80°49' e 33,63 m até o vértice P-14 (coordenadas N 6.713.381,320 m, E 285.777,000 m e Altitude de 523,93 m); 54°12' e 58,03 m até o vértice P-01, ponto inicial da descrição deste perímetro, formando um poligono irregular com área de 1,2090 ha (um hectares, vinte ares e noventa centiares).
+
+4\. Equipamentos  
+- Receptor GNSS RTK, modelo Zenith 16, marca GeoMax.  
+- Software MÉTRICA TOPO.
+
+5\. Data do levantamento de campo:  
+- 09 de Fevereiro de 2023;  
+- os limites da área de interesse da Associação Agudense de Voo Livre foram indicadas pelo senhor Robson Léo Pachaly (CPF nº 024.884.360-54).
+
+6\. Informações de Coordenadas
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro tendo como datum o SIRGAS2000. Todos os azimutes foram calculados pela fórmula do Problema Geodésico Inverso (Puissant). Perímetro e Distâncias foram calculados pelas coordenadas cartesianas geocêntricos.
+
+Observações:  
+- A planta anexa é parte integrante deste memorial descritivo;  
+- durante os levantamentos realizados, não foram encontradas evidências técnicas (especialmente marcos) que pudessem confirmar se a área de interesse da Associação Agudense de Voo Livre está de fato localizada no interior da área pertencente ao omóvel rural de Matrícula nº 6.544 do Livro nº 2 – Registro Geral da Comarca de Agudo/RS, de propriedade do senhor Luiz Francisco Genro Schorn, uma vez que, durante levantamento complementar de informações (realizado em 15 de fevereiro de 2023) junto a propriedades próximas do local pretendido pela AAVL, em que  
+participaram os senhores Robson Léo Pachaly (CPF nº 024.884.360-54) e Paulo Roberto Batista da Silva (CPF nº 485.518.010-87), foi indicada a possibilidade de fração ou toda a rampa pertencer ao imóvel (Matrícula não informada) da senhora Ledi Dalva Boeck Cavalheiro.  
+- levantamentos mais detalhados, com a quantificação das áreas lindeiras indicadas serão, salvo melhor entendimento, necessários para uma adequada averiguação da propriedade da área de interesse da Associação Agudense de Voo Livre.
+
+Agudo/RS, 17 de Fevereiro de 2023.
+
+Marcelo Ivan Mentges  
+Engenheiro Agrônomo  
+CREA-RS155757  
+RT nº 12424030

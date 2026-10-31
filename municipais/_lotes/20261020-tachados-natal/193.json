@@ -1,0 +1,4819 @@
+{
+  "pdf": "municipais/_fonte/organicas-sapl/sapl.natal.rn.leg.br/193.bin",
+  "sha256_fonte": "41c3a5e75035541559086faa1ade980903177a90162fe5834247179d3b15e44d",
+  "paginas": [
+    {
+      "pagina": 4,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 461.614,
+          "y": 713.37996,
+          "texto": "XI-organizarosquadroseestabeleceroregimejurídicoúnicodeseusservidores",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 461.614,
+          "y": 713.98,
+          "texto": "XI-organizarosquadroseestabeleceroregimejurídicoúnicodeseusservidores",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 7,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 395.234,
+          "y": 435.64998999999995,
+          "texto": "Art.19–CâmaraMunicipalécompostadevinteeumVereadores.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 395.234,
+          "y": 436.24999999999994,
+          "texto": "Art.19–CâmaraMunicipalécompostadevinteeumVereadores.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 448.86999,
+          "texto": "Parágrafoúnico–AalteraçãodonúmerodeVereadoresseráfeitaporResoluçãovotadaum",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 449.46999999999997,
+          "texto": "Parágrafoúnico–AalteraçãodonúmerodeVereadoresseráfeitaporResoluçãovotadaum",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 491.854,
+          "y": 462.06998999999996,
+          "texto": "anoantesdotérminodalegislatura,observadasasdisposiçõesconstitucionaisaplicáveis",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 491.854,
+          "y": 462.66999999999996,
+          "texto": "anoantesdotérminodalegislatura,observadasasdisposiçõesconstitucionaisaplicáveis",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 413.834,
+          "y": 475.26998999999995,
+          "texto": "Art.19-ACâmaraMunicipaldoNatalécompostade21Vereadores.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 413.834,
+          "y": 475.86999999999995,
+          "texto": "Art.19-ACâmaraMunicipaldoNatalécompostade21Vereadores.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 501.78999,
+          "texto": "ParágrafoÚnico-AalteraçãodonúmerodeVereadores,seráfeita,combaseproporcionalà",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 502.39,
+          "texto": "ParágrafoÚnico-AalteraçãodonúmerodeVereadores,seráfeita,combaseproporcionalà",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 461.13399999999996,
+          "y": 514.99002,
+          "texto": "populaçãodoMunicípio,observadososlimitesprevistosnaConstituiçãoFederal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 461.13399999999996,
+          "y": 515.5899999999999,
+          "texto": "populaçãodoMunicípio,observadososlimitesprevistosnaConstituiçãoFederal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 406.514,
+          "y": 607.5100199999999,
+          "texto": "Art.20-ACâmaraMunicipaltemsedenoPalácioPadreMiguelinho.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 406.514,
+          "y": 608.1099999999999,
+          "texto": "Art.20-ACâmaraMunicipaltemsedenoPalácioPadreMiguelinho.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 8,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 369.5300199999999,
+          "texto": "Art.21–CompeteàCâmaraMunicipal,comasançãodoPrefeito,legislarsobretodasas",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 370.12999999999994,
+          "texto": "Art.21–CompeteàCâmaraMunicipal,comasançãodoPrefeito,legislarsobretodasas",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 362.714,
+          "y": 382.72999,
+          "texto": "matériasdecompetênciadoMunicípio,especialmentesobre:",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 362.714,
+          "y": 383.33,
+          "texto": "matériasdecompetênciadoMunicípio,especialmentesobre:",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 113.54,
+          "x1": 510.33000000000004,
+          "y": 686.98002,
+          "texto": "aprovaçãodeatodeconcessãooupermissãodeserviçopúblico,inclusivedetransporte",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 113.54,
+          "x1": 510.33000000000004,
+          "y": 687.5799999999999,
+          "texto": "aprovaçãodeatodeconcessãooupermissãodeserviçopúblico,inclusivedetransporte",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 237.284,
+          "y": 700.18002,
+          "texto": "coletivoedecemitérioparticular",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 237.284,
+          "y": 700.78,
+          "texto": "coletivoedecemitérioparticular",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 361.75399999999996,
+          "y": 713.37996,
+          "texto": "Art.22–ÉdecompetênciaexclusivadaCâmaraMunicipal:",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 361.75399999999996,
+          "y": 713.98,
+          "texto": "Art.22–ÉdecompetênciaexclusivadaCâmaraMunicipal:",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 320.594,
+          "y": 726.5799599999999,
+          "texto": "Art.22-ÉdecompetênciadaCâmaraMunicipal:",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 320.594,
+          "y": 727.18,
+          "texto": "Art.22-ÉdecompetênciadaCâmaraMunicipal:",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 9,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 200.204,
+          "y": 171.13999,
+          "texto": "V–fixararemuneração:",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 200.204,
+          "y": 171.74,
+          "texto": "V–fixararemuneração:",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.33998999999994,
+          "texto": "a)dosVereadores,aofinaldecadalegislatura,paravigorarnaseguinte,estabelecendoa",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.93999999999994,
+          "texto": "a)dosVereadores,aofinaldecadalegislatura,paravigorarnaseguinte,estabelecendoa",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 197.54000999999994,
+          "texto": "remuneração,aformaeaperiodicidadedeseureajusteparafazerfaceàperdadopoder",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 198.14,
+          "texto": "remuneração,aformaeaperiodicidadedeseureajusteparafazerfaceàperdadopoder",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 180.98399999999998,
+          "y": 210.73998999999992,
+          "texto": "aquisitivodamoeda;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 180.98399999999998,
+          "y": 211.33999999999992,
+          "texto": "aquisitivodamoeda;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 224.05998999999997,
+          "texto": "b)doPrefeito,doVice-Prefeito,dosSecretáriosMunicipaisedoProcuradorGeraldo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 224.65999999999997,
+          "texto": "b)doPrefeito,doVice-Prefeito,dosSecretáriosMunicipaisedoProcuradorGeraldo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 378.43399999999997,
+          "y": 237.26000999999997,
+          "texto": "Município,anualmente,observadaapartefinaldoitemanterior;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 378.43399999999997,
+          "y": 237.86,
+          "texto": "Município,anualmente,observadaapartefinaldoitemanterior;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 382.72999,
+          "texto": "VI-decidirsobreaperdademandatodeVereadorpelovotosecretoedamaioriaabsolutade",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 383.33,
+          "texto": "VI-decidirsobreaperdademandatodeVereadorpelovotosecretoedamaioriaabsolutade",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 309.044,
+          "y": 395.92999,
+          "texto": "seusmembros,nashipótesesprevistasnestaLei;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 309.044,
+          "y": 396.53,
+          "texto": "seusmembros,nashipótesesprevistasnestaLei;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 409.12998999999996,
+          "texto": "VI–decidirsobreaperdademandatodeVereadorpelovotodamaioriaabsolutadeseus",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 409.72999999999996,
+          "texto": "VI–decidirsobreaperdademandatodeVereadorpelovotodamaioriaabsolutadeseus",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 279.644,
+          "y": 422.44998999999996,
+          "texto": "membros,nashipótesesprevistanestaLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 279.644,
+          "y": 423.04999999999995,
+          "texto": "membros,nashipótesesprevistanestaLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 620.86002,
+          "texto": "XIII-concedertítulohonoríficoapessoasquetenham,reconhecidamente,prestadoserviços",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 621.4599999999999,
+          "texto": "XIII-concedertítulohonoríficoapessoasquetenham,reconhecidamente,prestadoserviços",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 634.06002,
+          "texto": "relevantesaoMunicípio,aoEstadoouàNação,emdeliberaçãotomadapormaioriadedois",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 634.66,
+          "texto": "relevantesaoMunicípio,aoEstadoouàNação,emdeliberaçãotomadapormaioriadedois",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 194.804,
+          "y": 647.25996,
+          "texto": "terçosdeseusmembros",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 194.804,
+          "y": 647.86,
+          "texto": "terçosdeseusmembros",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 121.1,
+          "x1": 510.33000000000004,
+          "y": 713.37996,
+          "texto": "referendarconvênio,acordo,convençãoouqualqueroutroinstrumentojurídico",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 121.1,
+          "x1": 510.33000000000004,
+          "y": 713.98,
+          "texto": "referendarconvênio,acordo,convençãoouqualqueroutroinstrumentojurídico",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 726.5799599999999,
+          "texto": "celebradocomaUnião,comoEstado,comoutrosMunicípios,comEntidadesPúblicosou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 727.18,
+          "texto": "celebradocomaUnião,comoEstado,comoutrosMunicípios,comEntidadesPúblicosou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 507.214,
+          "y": 739.7800199999999,
+          "texto": "comInstituiçõesPrivadas,quandoresultaremencargosnãoprevistosnaleideorçamento",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 507.214,
+          "y": 740.3799999999999,
+          "texto": "comInstituiçõesPrivadas,quandoresultaremencargosnãoprevistosnaleideorçamento",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 10,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 124.82,
+          "x1": 510.33,
+          "y": 448.86999,
+          "texto": "resolverdefinitivamentesobrecontrato,acordo,ajusteeconvênioqueacarrete",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 124.82,
+          "x1": 510.33,
+          "y": 449.46999999999997,
+          "texto": "resolverdefinitivamentesobrecontrato,acordo,ajusteeconvênioqueacarrete",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 472.054,
+          "y": 462.06998999999996,
+          "texto": "encargooucompromissogravosoaopatrimôniomunicipalouàssuasfinanças,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 472.054,
+          "y": 462.66999999999996,
+          "texto": "encargooucompromissogravosoaopatrimôniomunicipalouàssuasfinanças,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 477.22,
+          "x1": 510.34000000000003,
+          "y": 462.06998999999996,
+          "texto": "ouque",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 477.22,
+          "x1": 510.34000000000003,
+          "y": 462.66999999999996,
+          "texto": "ouque",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 401.714,
+          "y": 475.26998999999995,
+          "texto": "comprometaomeioambienteouaqualidadedevidadapopulação.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 401.714,
+          "y": 475.86999999999995,
+          "texto": "comprometaomeioambienteouaqualidadedevidadapopulação.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 129.14,
+          "x1": 510.33,
+          "y": 501.78999,
+          "texto": "AutorizaroMunicípioàcontrataçãodeserviçosdeterceirosdemododiretoe",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 129.14,
+          "x1": 510.33,
+          "y": 502.39,
+          "texto": "AutorizaroMunicípioàcontrataçãodeserviçosdeterceirosdemododiretoe",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 514.99002,
+          "texto": "indireto,bemcomoarenovaçãodetodososcontratosjáassinados,excetuando-seoscasos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 515.5899999999999,
+          "texto": "indireto,bemcomoarenovaçãodetodososcontratosjáassinados,excetuando-seoscasos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 190.244,
+          "y": 528.19002,
+          "texto": "decalamidadepública",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 190.244,
+          "y": 528.79,
+          "texto": "decalamidadepública",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 11,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 303.40999,
+          "texto": "§2º-Adecisãosobreaperdademandato,precedidasempredeampladefesa,serátomada",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 304.01,
+          "texto": "§2º-Adecisãosobreaperdademandato,precedidasempredeampladefesa,serátomada",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 316.6099899999999,
+          "texto": "pormaioriaabsolutadosmembrosdaCâmara,emvotaçãosecreta,deofíciooumediante",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 317.2099999999999,
+          "texto": "pormaioriaabsolutadosmembrosdaCâmara,emvotaçãosecreta,deofíciooumediante",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 329.81002,
+          "texto": "representação,noscasosdosincisosI,II,eIV,poriniciativadaMesa,departidopolíticoou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 330.40999999999997,
+          "texto": "representação,noscasosdosincisosI,II,eIV,poriniciativadaMesa,departidopolíticoou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 193.48399999999998,
+          "y": 343.00998999999996,
+          "texto": "deeleitornoMunicípio",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 193.48399999999998,
+          "y": 343.60999999999996,
+          "texto": "deeleitornoMunicípio",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 462.06998999999996,
+          "texto": "I–investidoemcargodeSecretáriodeEstadooudoMunicípio,deDiretorequivalentede",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 462.66999999999996,
+          "texto": "I–investidoemcargodeSecretáriodeEstadooudoMunicípio,deDiretorequivalentede",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 475.26998999999995,
+          "texto": "autarquiaoufundaçãopública,ouainda,emcargodeDelegadooudeRepresentanteRegional",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 475.86999999999995,
+          "texto": "autarquiaoufundaçãopública,ouainda,emcargodeDelegadooudeRepresentanteRegional",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 488.58998999999994,
+          "texto": "deórgãodaadministraçãofederal,direta,indiretaoufundacional,devendofazeropçãode",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 489.18999999999994,
+          "texto": "deórgãodaadministraçãofederal,direta,indiretaoufundacional,devendofazeropçãode",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 144.504,
+          "y": 501.78999,
+          "texto": "remuneração;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 144.504,
+          "y": 502.39,
+          "texto": "remuneração;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.18002,
+          "texto": "Art.28-AremuneraçãodoVereador,nuncaexcedentedaremuneraçãodoPrefeito,éfixada",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.78,
+          "texto": "Art.28-AremuneraçãodoVereador,nuncaexcedentedaremuneraçãodoPrefeito,éfixada",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.37996,
+          "texto": "antesdopleitodecadalegislatura,determinando-seovaloremmoedacorrentenopaís,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.98,
+          "texto": "antesdopleitodecadalegislatura,determinando-seovaloremmoedacorrentenopaís,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 213.524,
+          "y": 726.5799599999999,
+          "texto": "vedadaqualquervinculação",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 213.524,
+          "y": 727.18,
+          "texto": "vedadaqualquervinculação",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 739.7800199999999,
+          "texto": "Art.28-AremuneraçãodoVereadoréfixadaantesdopleitoqueantecedecadalegislatura,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 740.3799999999999,
+          "texto": "Art.28-AremuneraçãodoVereadoréfixadaantesdopleitoqueantecedecadalegislatura,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 753.09602,
+          "texto": "paraneleviger,determinadoseuvaloremmoedacorrenteevedadaqualquervinculação,não",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 753.6959999999999,
+          "texto": "paraneleviger,determinadoseuvaloremmoedacorrenteevedadaqualquervinculação,não",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 12,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 277.844,
+          "y": 78.4799999999999,
+          "texto": "podendoexcederàdoPrefeitoMunicipal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 277.844,
+          "y": 79.07999999999993,
+          "texto": "podendoexcederàdoPrefeitoMunicipal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.13999,
+          "texto": "§1º-AremuneraçãodoVereadorédivididaempartefixaepartevariável,vedadoacréscimo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.74,
+          "texto": "§1º-AremuneraçãodoVereadorédivididaempartefixaepartevariável,vedadoacréscimo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 160.584,
+          "y": 184.33998999999994,
+          "texto": "aqualquertítulo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 160.584,
+          "y": 184.93999999999994,
+          "texto": "aqualquertítulo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 263.68998999999997,
+          "texto": "§2º-PelonãocomparecimentoefetivonemjustificadodoVereadorenãoparticipaçãona",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 264.28999999999996,
+          "texto": "§2º-PelonãocomparecimentoefetivonemjustificadodoVereadorenãoparticipaçãona",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 449.37399999999997,
+          "y": 276.88999,
+          "texto": "votação,éfeitoodescontocorrespondenteaumtrintaavospordiadeausência",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 449.37399999999997,
+          "y": 277.49,
+          "texto": "votação,éfeitoodescontocorrespondenteaumtrintaavospordiadeausência",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.20998999999995,
+          "texto": "§2º-Apartevariávelcorrespondenteàremuneraçãopelocomparecimentoàssessõese",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.80999999999995,
+          "texto": "§2º-Apartevariávelcorrespondenteàremuneraçãopelocomparecimentoàssessõese",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 303.40999,
+          "texto": "participaçõesnasvotações,sendofeitoodescontocorrespondentea1/30(umtrintaavos)da",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 304.01,
+          "texto": "participaçõesnasvotações,sendofeitoodescontocorrespondentea1/30(umtrintaavos)da",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 252.524,
+          "y": 316.6099899999999,
+          "texto": "partevariável,pordiadeausência",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 252.524,
+          "y": 317.2099999999999,
+          "texto": "partevariável,pordiadeausência",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 343.00998999999996,
+          "texto": "§2º-Porsessãoextraordináriaaquecomparecereparticipar,oVereadorperceberá1/30(um",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 343.60999999999996,
+          "texto": "§2º-Porsessãoextraordináriaaquecomparecereparticipar,oVereadorperceberá1/30(um",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 356.32998999999995,
+          "texto": "trintaavos)dototaldosubsídio,parcelaindenizatória,nãopodendosersuperioraovalordo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 356.92999999999995,
+          "texto": "trintaavos)dototaldosubsídio,parcelaindenizatória,nãopodendosersuperioraovalordo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 369.5300199999999,
+          "texto": "subsídiomensalquepercebecadaVereador,nostermosdo§7ºdoartigo57daConstituição",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 370.12999999999994,
+          "texto": "subsídiomensalquepercebecadaVereador,nostermosdo§7ºdoartigo57daConstituição",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 267.404,
+          "y": 382.72999,
+          "texto": "Federal,alteradopelaEmendanº19/98",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 267.404,
+          "y": 383.33,
+          "texto": "Federal,alteradopelaEmendanº19/98",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 462.06998999999996,
+          "texto": "§3º-Searemuneraçãonãoforfixadanoprazodequetrataocaputdesteartigo,ovalordela",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 462.66999999999996,
+          "texto": "§3º-Searemuneraçãonãoforfixadanoprazodequetrataocaputdesteartigo,ovalordela",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 465.93399999999997,
+          "y": 475.26998999999995,
+          "texto": "corresponderáàimportânciaquetiversidofixadanoúltimomêsdomandatofindo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 465.93399999999997,
+          "y": 475.86999999999995,
+          "texto": "corresponderáàimportânciaquetiversidofixadanoúltimomêsdomandatofindo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 686.98002,
+          "texto": "Art.30-ACâmaraMunicipalreune-se,anualmente,dequinzedefevereiroatrintadejunho",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 687.5799999999999,
+          "texto": "Art.30-ACâmaraMunicipalreune-se,anualmente,dequinzedefevereiroatrintadejunho",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.18002,
+          "texto": "edeprimeirodeagostoaquinzededezembro,transferidasparaodiaútilimediatoassessões",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.78,
+          "texto": "edeprimeirodeagostoaquinzededezembro,transferidasparaodiaútilimediatoassessões",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 358.274,
+          "y": 713.37996,
+          "texto": "quandorecaíremessesdiasemsábado,domingoouferiado.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 358.274,
+          "y": 713.98,
+          "texto": "quandorecaíremessesdiasemsábado,domingoouferiado.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 13,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.13999,
+          "texto": "Art.31-AssessõesdaCâmarasãopúblicas,dividindo-seemordinárias,extraordináriase",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.74,
+          "texto": "Art.31-AssessõesdaCâmarasãopúblicas,dividindo-seemordinárias,extraordináriase",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.33998999999994,
+          "texto": "solenes,conformedispuseroRegimentoInterno,devendoserrealizadasemsuasede,salvo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.93999999999994,
+          "texto": "solenes,conformedispuseroRegimentoInterno,devendoserrealizadasemsuasede,salvo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 494.734,
+          "y": 197.54000999999994,
+          "texto": "deliberaçãoemcontráriodedoisterçosdeseusmembrosouimpedimentoincontornável.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 494.734,
+          "y": 198.14,
+          "texto": "deliberaçãoemcontráriodedoisterçosdeseusmembrosouimpedimentoincontornável.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 276.88999,
+          "texto": "ParágrafoÚnico-PordisposiçãodestaLeioupordeliberaçãodesuamaioriaabsoluta,as",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 277.49,
+          "texto": "ParágrafoÚnico-PordisposiçãodestaLeioupordeliberaçãodesuamaioriaabsoluta,as",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 382.154,
+          "y": 290.20998999999995,
+          "texto": "deliberaçõesdaCâmarapoderãosertomadasemvotaçãosecreta.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 382.154,
+          "y": 290.80999999999995,
+          "texto": "deliberaçõesdaCâmarapoderãosertomadasemvotaçãosecreta.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 391.75399999999996,
+          "y": 356.32998999999995,
+          "texto": "Art.32-AconvocaçãoextraordináriadaCâmaraMunicipaldá-se:",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 391.75399999999996,
+          "y": 356.92999999999995,
+          "texto": "Art.32-AconvocaçãoextraordináriadaCâmaraMunicipaldá-se:",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 435.64998999999995,
+          "texto": "I-peloseuPresidente,atendendoadeliberaçãodamesaouarequerimentodeumterçodos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 436.24999999999994,
+          "texto": "I-peloseuPresidente,atendendoadeliberaçãodamesaouarequerimentodeumterçodos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 137.54399999999998,
+          "y": 448.86999,
+          "texto": "Vereadores;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 137.54399999999998,
+          "y": 449.46999999999997,
+          "texto": "Vereadores;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 211.724,
+          "y": 501.78999,
+          "texto": "II-peloPrefeitoMunicipal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 211.724,
+          "y": 502.39,
+          "texto": "II-peloPrefeitoMunicipal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 541.3900199999999,
+          "texto": "ParágrafoÚnico-Aconvocaçãoéfeitasempreporprazocertoparaapreciaçãoexclusiva",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 541.99,
+          "texto": "ParágrafoÚnico-Aconvocaçãoéfeitasempreporprazocertoparaapreciaçãoexclusiva",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 193.124,
+          "y": 554.7099599999999,
+          "texto": "damatériadeterminada",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 193.124,
+          "y": 555.31,
+          "texto": "damatériadeterminada",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 739.7800199999999,
+          "texto": "Art.35-AMesaDiretoratemmandatodedoisanos,vedadaareconduçãoparaomesmo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 740.3799999999999,
+          "texto": "Art.35-AMesaDiretoratemmandatodedoisanos,vedadaareconduçãoparaomesmo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 110.78399999999999,
+          "y": 753.09602,
+          "texto": "cargo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 110.78399999999999,
+          "y": 753.6959999999999,
+          "texto": "cargo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 14,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 78.4799999999999,
+          "texto": "Art.35-AMesaDiretoratemmandadodedoisanos,permitidaasuarecondução,aindaque",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 79.07999999999993,
+          "texto": "Art.35-AMesaDiretoratemmandadodedoisanos,permitidaasuarecondução,aindaque",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 343.394,
+          "y": 91.81998999999996,
+          "texto": "paraoexercíciodosmesmoscargos,porumaúnicavez.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 343.394,
+          "y": 92.41999999999996,
+          "texto": "paraoexercíciodosmesmoscargos,porumaúnicavez.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 461.37399999999997,
+          "y": 118.21999999999991,
+          "texto": "Art.35-AMesaDiretoratemmandatodedoisanos,permitidaasuarecondução",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 461.37399999999997,
+          "y": 118.81999999999994,
+          "texto": "Art.35-AMesaDiretoratemmandatodedoisanos,permitidaasuarecondução",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.13999,
+          "texto": "§1º-AcomposiçãodaMesaDiretoraedascomissõespermanentesedeinquéritoserá",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.74,
+          "texto": "§1º-AcomposiçãodaMesaDiretoraedascomissõespermanentesedeinquéritoserá",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.33998999999994,
+          "texto": "reguladapeloRegimentoInterno,assegurando-sesempre,tantoquantopossível,a",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.93999999999994,
+          "texto": "reguladapeloRegimentoInterno,assegurando-sesempre,tantoquantopossível,a",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 197.54000999999994,
+          "texto": "representaçãoproporcionaldospartidospolíticosedosblocosparlamentarescomassentona",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 198.14,
+          "texto": "representaçãoproporcionaldospartidospolíticosedosblocosparlamentarescomassentona",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 120.98400000000001,
+          "y": 210.73998999999992,
+          "texto": "Câmara.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 120.98400000000001,
+          "y": 211.33999999999992,
+          "texto": "Câmara.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 276.88999,
+          "texto": "§2º-AeleiçãodaMesaDiretoraparaasegundametadedalegislaturaéfeitanoúltimodia",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 277.49,
+          "texto": "§2º-AeleiçãodaMesaDiretoraparaasegundametadedalegislaturaéfeitanoúltimodia",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.20998999999995,
+          "texto": "dereuniãodosegundoperíodolegislativo,ocorrendoapossedoseleitosnoprimeirodiado",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.80999999999995,
+          "texto": "dereuniãodosegundoperíodolegislativo,ocorrendoapossedoseleitosnoprimeirodiado",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 143.064,
+          "y": 303.40999,
+          "texto": "anoseguinte.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 143.064,
+          "y": 304.01,
+          "texto": "anoseguinte.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 316.6099899999999,
+          "texto": "§2º-AeleiçãodaMesaDiretoraparaasegundametadedalegislaturaéfeitaatéoúltimo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 317.2099999999999,
+          "texto": "§2º-AeleiçãodaMesaDiretoraparaasegundametadedalegislaturaéfeitaatéoúltimo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 329.81002,
+          "texto": "diadereuniãodosegundoperíodolegislativo,ocorrendoapossedoseleitosnoprimeirodia",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 330.40999999999997,
+          "texto": "diadereuniãodosegundoperíodolegislativo,ocorrendoapossedoseleitosnoprimeirodia",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 156.744,
+          "y": 343.00998999999996,
+          "texto": "doanoseguinte.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 156.744,
+          "y": 343.60999999999996,
+          "texto": "doanoseguinte.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 409.12998999999996,
+          "texto": "§3º-ÉvedadaareeleiçãodoPresidenteedemaismembrosdaMesaDiretoraparaosmesmo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 409.72999999999996,
+          "texto": "§3º-ÉvedadaareeleiçãodoPresidenteedemaismembrosdaMesaDiretoraparaosmesmo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 422.44998999999996,
+          "texto": "cargos,naeleiçãoimediatamentesubseqüente.(RedaçãoconferidapelaEmendaàLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 423.04999999999995,
+          "texto": "cargos,naeleiçãoimediatamentesubseqüente.(RedaçãoconferidapelaEmendaàLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 267.284,
+          "y": 435.64998999999995,
+          "texto": "Orgânicanº24-A/2009,de02.09.2009)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 267.284,
+          "y": 436.24999999999994,
+          "texto": "Orgânicanº24-A/2009,de02.09.2009)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 382.274,
+          "y": 647.25996,
+          "texto": "Art.37-ALeiOrgânicapodeseremendadamedianteproposta.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 382.274,
+          "y": 647.86,
+          "texto": "Art.37-ALeiOrgânicapodeseremendadamedianteproposta.",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 323.234,
+          "y": 660.4599599999999,
+          "texto": "I-deumterçodosmembrosdaCâmaraMunicipal;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 323.234,
+          "y": 661.06,
+          "texto": "I-deumterçodosmembrosdaCâmaraMunicipal;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 156.38400000000001,
+          "y": 673.66002,
+          "texto": "II-doPrefeito;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 156.38400000000001,
+          "y": 674.26,
+          "texto": "II-doPrefeito;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 488.614,
+          "y": 686.98002,
+          "texto": "III-detrêsporcentodoeleitoradodoMunicípioregistradonaúltimaeleiçãorealizada.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 488.614,
+          "y": 687.5799999999999,
+          "texto": "III-detrêsporcentodoeleitoradodoMunicípioregistradonaúltimaeleiçãorealizada.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.18002,
+          "texto": "§1º-NãopodeseremendadaaLeiOrgânicaduranteavigênciadeintervençãodoEstadoou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.78,
+          "texto": "§1º-NãopodeseremendadaaLeiOrgânicaduranteavigênciadeintervençãodoEstadoou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 344.594,
+          "y": 713.37996,
+          "texto": "dequalquermedidaderestriçãodasliberdadespúblicas.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 344.594,
+          "y": 713.98,
+          "texto": "dequalquermedidaderestriçãodasliberdadespúblicas.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 726.5799599999999,
+          "texto": "§2º-Apropostadeemendaédiscutidaevotadaemdoisturnos,comintervalodedezdias",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 727.18,
+          "texto": "§2º-Apropostadeemendaédiscutidaevotadaemdoisturnos,comintervalodedezdias",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 739.7800199999999,
+          "texto": "úteis,sendoaprovadaquandoobtiver,emambasasvotações,doisterçosdevotosdos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 740.3799999999999,
+          "texto": "úteis,sendoaprovadaquandoobtiver,emambasasvotações,doisterçosdevotosdos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 459.214,
+          "y": 753.09602,
+          "texto": "Vereadores,nãosendopermitidooregimedeurgênciaoudispensadeinterstício.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 459.214,
+          "y": 753.6959999999999,
+          "texto": "Vereadores,nãosendopermitidooregimedeurgênciaoudispensadeinterstício.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 15,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 78.4799999999999,
+          "texto": "§3º-Amatériaconstantedepropostadeemendarejeitadaouhavidaporprejudicadanão",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 79.07999999999993,
+          "texto": "§3º-Amatériaconstantedepropostadeemendarejeitadaouhavidaporprejudicadanão",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 376.274,
+          "y": 91.81998999999996,
+          "texto": "podeserobjetodenovapropostanomesmoperíodolegislativo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 376.274,
+          "y": 92.41999999999996,
+          "texto": "podeserobjetodenovapropostanomesmoperíodolegislativo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 501.78999,
+          "texto": "Art.39-AiniciativadosprojetosdeleicabeaqualquerVereador,aoPrefeitoeacincopor",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 502.39,
+          "texto": "Art.39-AiniciativadosprojetosdeleicabeaqualquerVereador,aoPrefeitoeacincopor",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 303.644,
+          "y": 514.99002,
+          "texto": "centodoeleitoradoregistradonaúltimaeleição",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 303.644,
+          "y": 515.5899999999999,
+          "texto": "centodoeleitoradoregistradonaúltimaeleição",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 567.90996,
+          "texto": "§1º-ÉdecompetênciaprivativadoPrefeitoainiciativadeprojetosdeleiquedisponham",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 568.51,
+          "texto": "§1º-ÉdecompetênciaprivativadoPrefeitoainiciativadeprojetosdeleiquedisponham",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 498.454,
+          "y": 581.11002,
+          "texto": "sobreasmatériasconstantesdosincisosI,II,III,VI,VIII,IXeX,doartigo21,destaLei.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 498.454,
+          "y": 581.71,
+          "texto": "sobreasmatériasconstantesdosincisosI,II,III,VI,VIII,IXeX,doartigo21,destaLei.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.37996,
+          "texto": "§3º-Ainiciativapopulardeprojetosdeleiseráexercidamedianteasubscriçãode,no",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.98,
+          "texto": "§3º-Ainiciativapopulardeprojetosdeleiseráexercidamedianteasubscriçãode,no",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 726.5799599999999,
+          "texto": "mínimo,cincoporcentodoeleitoradodomunicípio,dacidadeoudobairro,conformeo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 727.18,
+          "texto": "mínimo,cincoporcentodoeleitoradodomunicípio,dacidadeoudobairro,conformeo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 254.56400000000002,
+          "y": 739.7800199999999,
+          "texto": "interesseouabrangênciadaproposta",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 254.56400000000002,
+          "y": 740.3799999999999,
+          "texto": "interesseouabrangênciadaproposta",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 16,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 263.68998999999997,
+          "texto": "I-criação,transformaçãoouextinçãodecargoedefunçãodeseusserviços,fixandoou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 264.28999999999996,
+          "texto": "I-criação,transformaçãoouextinçãodecargoedefunçãodeseusserviços,fixandoou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 328.874,
+          "y": 276.88999,
+          "texto": "alterandoseuquantitativo,vencimentosevantagens;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 328.874,
+          "y": 277.49,
+          "texto": "alterandoseuquantitativo,vencimentosevantagens;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 514.99002,
+          "texto": "Art.43-Concluídaavotaçãodoprojetodelei,aMesaDiretoraoremeteaoPrefeito",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 515.5899999999999,
+          "texto": "Art.43-Concluídaavotaçãodoprojetodelei,aMesaDiretoraoremeteaoPrefeito",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 269.204,
+          "y": 528.19002,
+          "texto": "Municipalque,aquiescendo,osanciona",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 269.204,
+          "y": 528.79,
+          "texto": "Municipalque,aquiescendo,osanciona",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 541.3900199999999,
+          "texto": "Art.43-Concluídaavotaçãodoprojetodelei,aMesaDiretoraoremeteaoPrefeito",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 541.99,
+          "texto": "Art.43-Concluídaavotaçãodoprojetodelei,aMesaDiretoraoremeteaoPrefeito",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 269.204,
+          "y": 554.7099599999999,
+          "texto": "Municipalque,aquiescendo,osanciona",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 269.204,
+          "y": 555.31,
+          "texto": "Municipalque,aquiescendo,osanciona",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 686.98002,
+          "texto": "§3º-OvetoéapreciadopelaCâmaradentrodetrintadiascontadosdeseurecebimento,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 687.5799999999999,
+          "texto": "§3º-OvetoéapreciadopelaCâmaradentrodetrintadiascontadosdeseurecebimento,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 460.894,
+          "y": 700.18002,
+          "texto": "podendoserrejeitadopelamaioriaabsolutadeseusmembros,emvotaçãosecreta",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 460.894,
+          "y": 700.78,
+          "texto": "podendoserrejeitadopelamaioriaabsolutadeseusmembros,emvotaçãosecreta",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.37996,
+          "texto": "§3º-OvetoéapreciadopelaCâmaradentrodetrintadiascontadosdeseurecebimento,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.98,
+          "texto": "§3º-OvetoéapreciadopelaCâmaradentrodetrintadiascontadosdeseurecebimento,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 385.99399999999997,
+          "y": 726.5799599999999,
+          "texto": "podendoserrejeitadopelamaioriaabsolutadeseusmembros.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 385.99399999999997,
+          "y": 727.18,
+          "texto": "podendoserrejeitadopelamaioriaabsolutadeseusmembros.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 17,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 157.93998999999997,
+          "texto": "§6º-Omitindo-seoPrefeitoempromulgarprojetodelei,nahipótesedoparágrafo5º,o",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 158.53999999999996,
+          "texto": "§6º-Omitindo-seoPrefeitoempromulgarprojetodelei,nahipótesedoparágrafo5º,o",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.13999,
+          "texto": "mesmoépromulgadopeloPresidentedaCâmara;nãoofazendoeste,cabeaseusubstituto",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.74,
+          "texto": "mesmoépromulgadopeloPresidentedaCâmara;nãoofazendoeste,cabeaseusubstituto",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 201.524,
+          "y": 184.33998999999994,
+          "texto": "fazê-lo,obrigatoriamente",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 201.524,
+          "y": 184.93999999999994,
+          "texto": "fazê-lo,obrigatoriamente",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 329.81002,
+          "texto": "Art.44-Semprejuízodasatribuiçõesdeferidasàcomissãopermanente,afiscalização",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 330.40999999999997,
+          "texto": "Art.44-Semprejuízodasatribuiçõesdeferidasàcomissãopermanente,afiscalização",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 343.00998999999996,
+          "texto": "contábil,financeira,orçamentária,operacionalepatrimonialdoMunicípioedasentidadesda",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 343.60999999999996,
+          "texto": "contábil,financeira,orçamentária,operacionalepatrimonialdoMunicípioedasentidadesda",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 356.32998999999995,
+          "texto": "administraçãodiretaeindireta,quantoàlegalidade,àlegitimidade,àeconomicidade,à",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 356.92999999999995,
+          "texto": "administraçãodiretaeindireta,quantoàlegalidade,àlegitimidade,àeconomicidade,à",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 369.5300199999999,
+          "texto": "aplicaçãodesubvençõeseàrenúnciadereceitaséexercidapelaCâmaramediantecontrole",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 370.12999999999994,
+          "texto": "aplicaçãodesubvençõeseàrenúnciadereceitaséexercidapelaCâmaramediantecontrole",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 344.954,
+          "y": 382.72999,
+          "texto": "externoepelosistemadecontroleinternodacadaPoder.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 344.954,
+          "y": 383.33,
+          "texto": "externoepelosistemadecontroleinternodacadaPoder.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 660.4599599999999,
+          "texto": "Art.47-AscontasdoMunicípio,compreendendoasdosórgãosdaadministraçãodiretae",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 661.06,
+          "texto": "Art.47-AscontasdoMunicípio,compreendendoasdosórgãosdaadministraçãodiretae",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 673.66002,
+          "texto": "indireta,inclusivefundações,devemserapresentadasatéodiatrintademarçodecadaanoà",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 674.26,
+          "texto": "indireta,inclusivefundações,devemserapresentadasatéodiatrintademarçodecadaanoà",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 686.98002,
+          "texto": "CâmaraMunicipal,ficandoàdisposiçãodequalquercontribuinte,paraexameeimpugnação,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 687.5799999999999,
+          "texto": "CâmaraMunicipal,ficandoàdisposiçãodequalquercontribuinte,paraexameeimpugnação,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.18002,
+          "texto": "apartirdodiatrintaeumdemarço,peloprazodesessentadias,juntocomasdaCâmara",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.78,
+          "texto": "apartirdodiatrintaeumdemarço,peloprazodesessentadias,juntocomasdaCâmara",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.37996,
+          "texto": "Municipal.Findoesseprazo,ascontasserãoremetidasaoTribunaldeContasdoEstadopara",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.98,
+          "texto": "Municipal.Findoesseprazo,ascontasserãoremetidasaoTribunaldeContasdoEstadopara",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 464.014,
+          "y": 726.5799599999999,
+          "texto": "emitirparecer,inclusivepronunciando-sesobreeventuaisimpugnaçõesoferecidas",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 464.014,
+          "y": 727.18,
+          "texto": "emitirparecer,inclusivepronunciando-sesobreeventuaisimpugnaçõesoferecidas",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 739.7800199999999,
+          "texto": "Art.47–AscontasprestadaspeloMunicípio,compreendendoasdoPoderExecutivo,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 740.3799999999999,
+          "texto": "Art.47–AscontasprestadaspeloMunicípio,compreendendoasdoPoderExecutivo,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 753.09602,
+          "texto": "Legislativo,AutarquiaseFundaçõesPúblicasMunicipais,devemserapresentadasatéodia",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 753.6959999999999,
+          "texto": "Legislativo,AutarquiaseFundaçõesPúblicasMunicipais,devemserapresentadasatéodia",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 766.29602,
+          "texto": "30(trinta)deabrildecadaanoàCâmaraMunicipal,ficandoàdisposiçãodequalquer",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 766.896,
+          "texto": "30(trinta)deabrildecadaanoàCâmaraMunicipal,ficandoàdisposiçãodequalquer",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 18,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 78.4799999999999,
+          "texto": "contribuinte,paraexameeimpugnação,apartirdoprimeirodiaútilsubsequente,peloprazo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 79.07999999999993,
+          "texto": "contribuinte,paraexameeimpugnação,apartirdoprimeirodiaútilsubsequente,peloprazo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 91.81998999999996,
+          "texto": "de60(sessenta)dias.Findoesseprazo,ascontasserãoremetidasaoTribunaldeContasdo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 92.41999999999996,
+          "texto": "de60(sessenta)dias.Findoesseprazo,ascontasserãoremetidasaoTribunaldeContasdo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 105.01999999999998,
+          "texto": "Estadoparaemitirparecer,inclusivepronunciando-sesobreeventuaisimpugnações",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 105.62,
+          "texto": "Estadoparaemitirparecer,inclusivepronunciando-sesobreeventuaisimpugnações",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 132.38400000000001,
+          "y": 118.21999999999991,
+          "texto": "oferecidas.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 132.38400000000001,
+          "y": 118.81999999999994,
+          "texto": "oferecidas.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 19,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 78.4799999999999,
+          "texto": "Art.53-AremuneraçãodoPrefeitoedoVice-PrefeitoéestabelecidapelaCâmara,emcada",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 79.07999999999993,
+          "texto": "Art.53-AremuneraçãodoPrefeitoedoVice-PrefeitoéestabelecidapelaCâmara,emcada",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 225.764,
+          "y": 91.81998999999996,
+          "texto": "legislatura,paraasubsequente",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 225.764,
+          "y": 92.41999999999996,
+          "texto": "legislatura,paraasubsequente",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.13999,
+          "texto": "ParágrafoÚnico-AverbaderepresentaçãodoPrefeitoéfixadaconcomitantementeà",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.74,
+          "texto": "ParágrafoÚnico-AverbaderepresentaçãodoPrefeitoéfixadaconcomitantementeà",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 320.354,
+          "y": 184.33998999999994,
+          "texto": "remuneraçãoenãopodeexcederadoisterçosdesta.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 320.354,
+          "y": 184.93999999999994,
+          "texto": "remuneraçãoenãopodeexcederadoisterçosdesta.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 343.00998999999996,
+          "texto": "II-nomeareexonerarSecretárioMunicipal,Diretordeautarquiaededepartamento,alémde",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 343.60999999999996,
+          "texto": "II-nomeareexonerarSecretárioMunicipal,Diretordeautarquiaededepartamento,alémde",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 388.034,
+          "y": 356.32998999999995,
+          "texto": "titulardeinstituiçãodequeparticipeoMunicípio,naformadalei;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 388.034,
+          "y": 356.92999999999995,
+          "texto": "titulardeinstituiçãodequeparticipeoMunicípio,naformadalei;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 20,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 120.62,
+          "x1": 510.33,
+          "y": 303.40999,
+          "texto": "Tratando-sedeparentesdoChefedoExecutivoatéo3ºgrau,paraqueocorra",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 120.62,
+          "x1": 510.33,
+          "y": 304.01,
+          "texto": "Tratando-sedeparentesdoChefedoExecutivoatéo3ºgrau,paraqueocorra",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 440.974,
+          "y": 316.6099899999999,
+          "texto": "efetivamenteanomeação,sefaznecessárioaratificaçãodoPoderLegislativo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 440.974,
+          "y": 317.2099999999999,
+          "texto": "efetivamenteanomeação,sefaznecessárioaratificaçãodoPoderLegislativo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 116.18,
+          "x1": 510.33,
+          "y": 343.00998999999996,
+          "texto": "Aratificaçãoseráfeitamedianteaprovação,pelamaioriaabsolutadosmembrosdo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 116.18,
+          "x1": 510.33,
+          "y": 343.60999999999996,
+          "texto": "Aratificaçãoseráfeitamedianteaprovação,pelamaioriaabsolutadosmembrosdo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 312.914,
+          "y": 356.32998999999995,
+          "texto": "PoderLegislativoMunicipal,emvotaçãosecreta.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 312.914,
+          "y": 356.92999999999995,
+          "texto": "PoderLegislativoMunicipal,emvotaçãosecreta.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 111.86,
+          "x1": 510.33000000000004,
+          "y": 382.72999,
+          "texto": "Antesdavotaçãodoprocessodenomeação,seráomesmosubmetidoaparecerexarado",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 111.86,
+          "x1": 510.33000000000004,
+          "y": 383.33,
+          "texto": "Antesdavotaçãodoprocessodenomeação,seráomesmosubmetidoaparecerexarado",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 395.92999,
+          "texto": "pelaComissãodeLegislaçãoeJustiça,destePoder,quedaránoprazomáximode5(cinco)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 396.53,
+          "texto": "pelaComissãodeLegislaçãoeJustiça,destePoder,quedaránoprazomáximode5(cinco)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 399.914,
+          "y": 409.12998999999996,
+          "texto": "dias,significandoaextrapolaçãodesteprazoemconcordânciatácita.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 399.914,
+          "y": 409.72999999999996,
+          "texto": "dias,significandoaextrapolaçãodesteprazoemconcordânciatácita.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 115.82,
+          "x1": 510.33,
+          "y": 435.64998999999995,
+          "texto": "Duranteoperíododerecesso,aCâmaraterádeserconvocadaextraordinariamente,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 115.82,
+          "x1": 510.33,
+          "y": 436.24999999999994,
+          "texto": "Duranteoperíododerecesso,aCâmaraterádeserconvocadaextraordinariamente,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 448.86999,
+          "texto": "semremuneraçãodosseusintegrantes,paraapreciaçãodamatériaquetratao“caput”deste",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 449.46999999999997,
+          "texto": "semremuneraçãodosseusintegrantes,paraapreciaçãodamatériaquetratao“caput”deste",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 112.104,
+          "y": 462.06998999999996,
+          "texto": "artigo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 112.104,
+          "y": 462.66999999999996,
+          "texto": "artigo.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 128.06,
+          "x1": 510.33,
+          "y": 488.58998999999994,
+          "texto": "Nenhumservidorpoderáresponderinterinamenteporqualquerdoscargos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 128.06,
+          "x1": 510.33,
+          "y": 489.18999999999994,
+          "texto": "Nenhumservidorpoderáresponderinterinamenteporqualquerdoscargos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 507.574,
+          "y": 501.78999,
+          "texto": "especificadosnoIncisoII,desteArtigo,porperíodosuperiora30(trinta)dias,nãorenovável",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 507.574,
+          "y": 502.39,
+          "texto": "especificadosnoIncisoII,desteArtigo,porperíodosuperiora30(trinta)dias,nãorenovável",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 21,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.13999,
+          "texto": "Art.60-ArepresentaçãojudicialeextrajudicialeaConsultoriaJurídicadoMunicípiosão",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 171.74,
+          "texto": "Art.60-ArepresentaçãojudicialeextrajudicialeaConsultoriaJurídicadoMunicípiosão",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.33998999999994,
+          "texto": "exercidaspelaProcuradoriaGeraldoMunicípio,instituiçãoessencialàadministraçãodo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 184.93999999999994,
+          "texto": "exercidaspelaProcuradoriaGeraldoMunicípio,instituiçãoessencialàadministraçãodo",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 411.914,
+          "y": 197.54000999999994,
+          "texto": "Município,vinculadaaoPrefeitoedotadadeautonomiaadministrativa.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 411.914,
+          "y": 198.14,
+          "texto": "Município,vinculadaaoPrefeitoedotadadeautonomiaadministrativa.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 22,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 250.4600099999999,
+          "texto": "Art.68-OMunicípiodeveorganizarasuaadministraçãoeplanejarassuasatividades",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 251.05999999999995,
+          "texto": "Art.68-OMunicípiodeveorganizarasuaadministraçãoeplanejarassuasatividades",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 263.68998999999997,
+          "texto": "atendendoaointeresselocaleaosprincípiostécnicosconvenientesaodesenvolvimento",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 264.28999999999996,
+          "texto": "atendendoaointeresselocaleaosprincípiostécnicosconvenientesaodesenvolvimento",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 497.614,
+          "y": 276.88999,
+          "texto": "integraldacomunidade,mantendoatualizadososplanoseosprogramasdogovernolocal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 497.614,
+          "y": 277.49,
+          "texto": "integraldacomunidade,mantendoatualizadososplanoseosprogramasdogovernolocal",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 292.37,
+          "x1": 439.06,
+          "y": 501.78999,
+          "texto": "noâmbitodeummesmoPoder",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 292.37,
+          "x1": 439.06,
+          "y": 502.39,
+          "texto": "noâmbitodeummesmoPoder",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 24,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 303.40999,
+          "texto": "Art.76–OMunicípioadotaoregimeestatutárioparaoservidordaadministraçãodiretae",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 304.01,
+          "texto": "Art.76–OMunicípioadotaoregimeestatutárioparaoservidordaadministraçãodiretae",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 316.6099899999999,
+          "texto": "dasautarquias,instituindoplanosdecarreiraesalarialparaoservidordaadministraçãodireta",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 317.2099999999999,
+          "texto": "dasautarquias,instituindoplanosdecarreiraesalarialparaoservidordaadministraçãodireta",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 251.92399999999998,
+          "y": 329.81002,
+          "texto": "eindireta,assegurando-seatodoele",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 251.92399999999998,
+          "y": 330.40999999999997,
+          "texto": "eindireta,assegurando-seatodoele",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 132.86,
+          "x1": 510.33000000000004,
+          "y": 343.00998999999996,
+          "texto": "OMunicípioadotaoregimeestatutárioparaoservidordaadministraçãodiretae",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 132.86,
+          "x1": 510.33000000000004,
+          "y": 343.60999999999996,
+          "texto": "OMunicípioadotaoregimeestatutárioparaoservidordaadministraçãodiretae",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 356.32998999999995,
+          "texto": "dasautarquias,instituindoplanosdecarreiraesalarialparaoservidordaAdministração",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 356.92999999999995,
+          "texto": "dasautarquias,instituindoplanosdecarreiraesalarialparaoservidordaAdministração",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 282.644,
+          "y": 369.5300199999999,
+          "texto": "DiretaeIndireta,assegurando-seatodoele",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 282.644,
+          "y": 370.12999999999994,
+          "texto": "DiretaeIndireta,assegurando-seatodoele",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 488.58998999999994,
+          "texto": "III-queintegremcomovantagensindividuaisosvencimentosouaremuneraçãodos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 489.18999999999994,
+          "texto": "III-queintegremcomovantagensindividuaisosvencimentosouaremuneraçãodos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 487.054,
+          "y": 501.78999,
+          "texto": "servidores,aquelaspercebidas,aqualquertítulo,apartirdosextoanodesuapercepção",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 487.054,
+          "y": 502.39,
+          "texto": "servidores,aquelaspercebidas,aqualquertítulo,apartirdosextoanodesuapercepção",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 514.99002,
+          "texto": "III–queintegremcomovantagensindividuaisaosvencimentosouaremuneraçãodos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 515.5899999999999,
+          "texto": "III–queintegremcomovantagensindividuaisaosvencimentosouaremuneraçãodos",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 528.19002,
+          "texto": "servidoresmunicipais,aquelaspercebidasemrazãodoexercíciodecargoemcomissãoena",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 528.79,
+          "texto": "servidoresmunicipais,aquelaspercebidasemrazãodoexercíciodecargoemcomissãoena",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 541.3900199999999,
+          "texto": "formadegratificaçãodefunção,apartirdo6º(sexto)anodesuapercepção,àrazãode1/5",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 541.99,
+          "texto": "formadegratificaçãodefunção,apartirdo6º(sexto)anodesuapercepção,àrazãode1/5",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 554.7099599999999,
+          "texto": "(umquinto)porano,atéolimitede5/5(cincoquintos).(RedaçãoconferidapelaEmendaà",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 555.31,
+          "texto": "(umquinto)porano,atéolimitede5/5(cincoquintos).(RedaçãoconferidapelaEmendaà",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 273.404,
+          "y": 567.90996,
+          "texto": "LeiOrgânicanº08/1994,de11.10.1994)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 273.404,
+          "y": 568.51,
+          "texto": "LeiOrgânicanº08/1994,de11.10.1994)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 594.31002,
+          "texto": "a)aremuneraçãoaserincorporadaédocargooufunçãoaquesejaatribuídomaiornívelde",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 594.91,
+          "texto": "a)aremuneraçãoaserincorporadaédocargooufunçãoaquesejaatribuídomaiornívelde",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 607.5100199999999,
+          "texto": "remuneração,desdequeexercidoporperíododetemponãoinferiora12(doze)meses,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 608.1099999999999,
+          "texto": "remuneração,desdequeexercidoporperíododetemponãoinferiora12(doze)meses,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 498.214,
+          "y": 620.86002,
+          "texto": "continuados;(RedaçãoconferidapelaEmendaàLeiOrgânicanº08/1994,de11.10.1994)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 498.214,
+          "y": 621.4599999999999,
+          "texto": "continuados;(RedaçãoconferidapelaEmendaàLeiOrgânicanº08/1994,de11.10.1994)",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 647.25996,
+          "texto": "b)aincorporaçãoserádeferidanosmesmostermosemqueofuncionáriotenhapercebidoa",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 647.86,
+          "texto": "b)aincorporaçãoserádeferidanosmesmostermosemqueofuncionáriotenhapercebidoa",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 660.4599599999999,
+          "texto": "remuneraçãodocargoemcomissãooufunçãogratificada;(RedaçãoconferidapelaEmenda",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 661.06,
+          "texto": "remuneraçãodocargoemcomissãooufunçãogratificada;(RedaçãoconferidapelaEmenda",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 277.604,
+          "y": 673.66002,
+          "texto": "àLeiOrgânicanº08/1994,de11.10.1994",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 277.604,
+          "y": 674.26,
+          "texto": "àLeiOrgânicanº08/1994,de11.10.1994",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.18002,
+          "texto": "c)nomeadoparaocargoemcomissãooudesignadoparaexercerfunçãogratificadaou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 700.78,
+          "texto": "c)nomeadoparaocargoemcomissãooudesignadoparaexercerfunçãogratificadaou",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.37996,
+          "texto": "equivalente,ofuncionárionãopoderáacumularavantagemincorporadacomaremuneração",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 713.98,
+          "texto": "equivalente,ofuncionárionãopoderáacumularavantagemincorporadacomaremuneração",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 726.5799599999999,
+          "texto": "decorrentedanovainvestidura,devendooptarporcontinuarpercebendoavantagemjá",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 727.18,
+          "texto": "decorrentedanovainvestidura,devendooptarporcontinuarpercebendoavantagemjá",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 739.7800199999999,
+          "texto": "incorporadaouaremuneraçãodonovocargooudanovafunção,naformaporquedisponha",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 740.3799999999999,
+          "texto": "incorporadaouaremuneraçãodonovocargooudanovafunção,naformaporquedisponha",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 753.09602,
+          "texto": "oEstatutodosFuncionáriosPúblicosdoMunicípio;(RedaçãoconferidapelaEmendaàLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 753.6959999999999,
+          "texto": "oEstatutodosFuncionáriosPúblicosdoMunicípio;(RedaçãoconferidapelaEmendaàLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 251.324,
+          "y": 766.29602,
+          "texto": "Orgânicanº08/1994,de11.10.1994",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 251.324,
+          "y": 766.896,
+          "texto": "Orgânicanº08/1994,de11.10.1994",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 25,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 91.81998999999996,
+          "texto": "d)aremuneraçãoconcedidaatítulodeprodutividade,seráincorporadaproporcionalmente,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 92.41999999999996,
+          "texto": "d)aremuneraçãoconcedidaatítulodeprodutividade,seráincorporadaproporcionalmente,",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 105.01999999999998,
+          "texto": "desdequeoservidortenhamaisde05(cinco)anosàdatadesuavigência,apartirdo6º",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 105.62,
+          "texto": "desdequeoservidortenhamaisde05(cinco)anosàdatadesuavigência,apartirdo6º",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 118.21999999999991,
+          "texto": "(sexto)ano,arazãode20%(vinteporcento).(RedaçãoconferidapelaEmendaàLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 118.81999999999994,
+          "texto": "(sexto)ano,arazãode20%(vinteporcento).(RedaçãoconferidapelaEmendaàLei",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 251.324,
+          "y": 131.41998999999998,
+          "texto": "Orgânicanº08/1994,de11.10.1994",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 251.324,
+          "y": 132.01999999999998,
+          "texto": "Orgânicanº08/1994,de11.10.1994",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 422.44998999999996,
+          "texto": "XV-licençaàgestante,semprejuízodoempregoedosalário,comduraçãodecentoevinte",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 423.04999999999995,
+          "texto": "XV-licençaàgestante,semprejuízodoempregoedosalário,comduraçãodecentoevinte",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 435.64998999999995,
+          "texto": "dias,extensivaàservidoraquetomarporadoção,naformadalei,criançanafaixaetáriade",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 436.24999999999994,
+          "texto": "dias,extensivaàservidoraquetomarporadoção,naformadalei,criançanafaixaetáriade",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 168.50400000000002,
+          "y": 448.86999,
+          "texto": "zeroadozemeses;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 168.50400000000002,
+          "y": 449.46999999999997,
+          "texto": "zeroadozemeses;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 462.06998999999996,
+          "texto": "XV-licençaagestante,semprejuízodoempregoedosalário,comduraçãodecentoevinte",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 462.66999999999996,
+          "texto": "XV-licençaagestante,semprejuízodoempregoedosalário,comduraçãodecentoevinte",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 475.26998999999995,
+          "texto": "dias,extensivaàservidoraquetomarporadoção,naformadalei,criançanafaixaetáriade",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 475.86999999999995,
+          "texto": "dias,extensivaàservidoraquetomarporadoção,naformadalei,criançanafaixaetáriade",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 178.464,
+          "y": 488.58998999999994,
+          "texto": "zeroadozemeses;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 178.464,
+          "y": 489.18999999999994,
+          "texto": "zeroadozemeses;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 581.11002,
+          "texto": "XVI–licença-paternidade,nostermosfixadosemlei,extensivaaservidorquetomarpor",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 581.71,
+          "texto": "XVI–licença-paternidade,nostermosfixadosemlei,extensivaaservidorquetomarpor",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 324.914,
+          "y": 594.31002,
+          "texto": "adoçãocriançanafaixaetáriadezeroadozemeses;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 324.914,
+          "y": 594.91,
+          "texto": "adoçãocriançanafaixaetáriadezeroadozemeses;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 26,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 237.26000999999997,
+          "texto": "XXVI-ascensãofuncionalcompatívelcomograudediplomação,apósaconclusãodocurso;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 237.86,
+          "texto": "XXVI-ascensãofuncionalcompatívelcomograudediplomação,apósaconclusãodocurso;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 276.88999,
+          "texto": "XXVII-aposentadoriacomproventoscorrespondentesàremuneraçãodocargodeclasse",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 277.49,
+          "texto": "XXVII-aposentadoriacomproventoscorrespondentesàremuneraçãodocargodeclasse",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.20998999999995,
+          "texto": "imediatamentesuperiorou,quandoocupantedecargodaúltimaclassedarespectivacarreira",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.80999999999995,
+          "texto": "imediatamentesuperiorou,quandoocupantedecargodaúltimaclassedarespectivacarreira",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 312.914,
+          "y": 303.40999,
+          "texto": "oudecargoisolado,acrescidodevinteporcento;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 312.914,
+          "y": 304.01,
+          "texto": "oudecargoisolado,acrescidodevinteporcento;",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 27,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 78.4799999999999,
+          "texto": "ParágrafoÚnico-Havendocompatibilidadedehorários,perceberáaremuneraçãodocargo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 79.07999999999993,
+          "texto": "ParágrafoÚnico-Havendocompatibilidadedehorários,perceberáaremuneraçãodocargo",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 194.44400000000002,
+          "y": 91.81998999999996,
+          "texto": "eainerenteaomandato",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 194.44400000000002,
+          "y": 92.41999999999996,
+          "texto": "eainerenteaomandato",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 28,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 224.05998999999997,
+          "texto": "Art.83-OsConselhosMunicipaisserãocompostosporumnúmeroímpardemembros,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 224.65999999999997,
+          "texto": "Art.83-OsConselhosMunicipaisserãocompostosporumnúmeroímpardemembros,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 237.26000999999997,
+          "texto": "observando-searepresentatividadedaadministração,dasentidadespúblicas,dasclassistase",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 237.86,
+          "texto": "observando-searepresentatividadedaadministração,dasentidadespúblicas,dasclassistase",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 250.4600099999999,
+          "texto": "dasociedadecivilorganizada,excetuadososcasosdeórgãosinternosdaadministração,que",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 251.05999999999995,
+          "texto": "dasociedadecivilorganizada,excetuadososcasosdeórgãosinternosdaadministração,que",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 287.684,
+          "y": 263.68998999999997,
+          "texto": "secomporão,exclusivamente,deservidores",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 287.684,
+          "y": 264.28999999999996,
+          "texto": "secomporão,exclusivamente,deservidores",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 31,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 105.01999999999998,
+          "texto": "Art.94-A-AsEmendasParlamentaresaoProjetodeLeiOrçamentáriaAnual,aprovadas",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 105.62,
+          "texto": "Art.94-A-AsEmendasParlamentaresaoProjetodeLeiOrçamentáriaAnual,aprovadas",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 118.21999999999991,
+          "texto": "pelaCâmaraMunicipal,serãonolimiteglobalde02%(doisporcento)dareceitacorrente",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 118.81999999999994,
+          "texto": "pelaCâmaraMunicipal,serãonolimiteglobalde02%(doisporcento)dareceitacorrente",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 211.00400000000002,
+          "y": 131.41998999999998,
+          "texto": "líquidaprevistanoprojeto",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 211.00400000000002,
+          "y": 132.01999999999998,
+          "texto": "líquidaprevistanoprojeto",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 197.54000999999994,
+          "texto": "§1º-Éobrigatóriaaexecuçãoorçamentáriaefinanceira,deformaisonômicaeimpositiva,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 198.14,
+          "texto": "§1º-Éobrigatóriaaexecuçãoorçamentáriaefinanceira,deformaisonômicaeimpositiva,",
+          "fontes": [
+            "TimesNewRomanPS-BoldMT",
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 210.73998999999992,
+          "texto": "daprogramaçãoincluídaemLeiOrçamentáriaporEmendasParlamentas,emmontante",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 211.33999999999992,
+          "texto": "daprogramaçãoincluídaemLeiOrçamentáriaporEmendasParlamentas,emmontante",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 224.05998999999997,
+          "texto": "correspondentea02%(doisporcento)dareceitacorrentelíquidarealizadanoexercício",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 224.65999999999997,
+          "texto": "correspondentea02%(doisporcento)dareceitacorrentelíquidarealizadanoexercício",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 120.98400000000001,
+          "y": 237.26000999999997,
+          "texto": "anterior.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 120.98400000000001,
+          "y": 237.86,
+          "texto": "anterior.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    },
+    {
+      "pagina": 38,
+      "suspeitas": [
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 178.7,
+          "x1": 510.33,
+          "y": 250.4600099999999,
+          "texto": "Acomercializaçãodepassagens,a“inteira”,“valetransporte”,a“com",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 178.7,
+          "x1": 510.33,
+          "y": 251.05999999999995,
+          "texto": "Acomercializaçãodepassagens,a“inteira”,“valetransporte”,a“com",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 263.68998999999997,
+          "texto": "abatimento”seráoperadapeloPoderExecutivoMunicipal,podendoestaatividadeser",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 264.28999999999996,
+          "texto": "abatimento”seráoperadapeloPoderExecutivoMunicipal,podendoestaatividadeser",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 276.88999,
+          "texto": "delegadaàsentidadesrepresentativasdascategoriasdosetordetransportecoletivode",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 277.49,
+          "texto": "delegadaàsentidadesrepresentativasdascategoriasdosetordetransportecoletivode",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.20998999999995,
+          "texto": "passageirosporônibusedotransportedepassageirosopcionaldeNatal,assegurando-sea",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 290.80999999999995,
+          "texto": "passageirosporônibusedotransportedepassageirosopcionaldeNatal,assegurando-sea",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 303.40999,
+          "texto": "unificaçãodousodasreferidaspassagensjuntoaosistemaautomatizadodebilhetagem",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 510.334,
+          "y": 304.01,
+          "texto": "unificaçãodousodasreferidaspassagensjuntoaosistemaautomatizadodebilhetagem",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 178.704,
+          "y": 316.6099899999999,
+          "texto": "eletrônicadeNatal.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        },
+        {
+          "tipo": "linha_cruza_caracteres",
+          "x0": 85.104,
+          "x1": 178.704,
+          "y": 317.2099999999999,
+          "texto": "eletrônicadeNatal.",
+          "fontes": [
+            "TimesNewRomanPSMT"
+          ]
+        }
+      ]
+    }
+  ],
+  "total_paginas": 76
+}

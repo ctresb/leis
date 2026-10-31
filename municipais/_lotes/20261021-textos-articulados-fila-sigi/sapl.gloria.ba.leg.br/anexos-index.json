@@ -1,0 +1,38 @@
+{
+  "estado": "indice_completo",
+  "total": 2,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/1/retificacao_lei_no_573_2019_-_aquisicao_de_terreno.pdf da norma Lei nº 573, de 20 de fevereiro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "RETIFICAÇÃO LEI N.º 573/2019 DE 20 DE FEVEREIRO DE 2019.",
+      "anexo_arquivo": "http://sapl.gloria.ba.leg.br/media/sapl/public/anexonormajuridica/2019/1/retificacao_lei_no_573_2019_-_aquisicao_de_terreno.pdf",
+      "ano": 2019,
+      "norma": 88
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/2/qdd2020.pdf da norma Lei nº 587, de 20 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "DECRETO Nº 061/2019 , DE 20 DE DEZEBRO DE 2019 “Aprova o QUADRO DE DETALHAMENTO DA DESPESA - QDD para o exercício\r\nfinanceiro de 2020 e dá outras providências.”",
+      "anexo_arquivo": "http://sapl.gloria.ba.leg.br/media/sapl/public/anexonormajuridica/2019/2/qdd2020.pdf",
+      "ano": 2019,
+      "norma": 106
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.gloria.ba.leg.br/a2e934662097f5108325bc7006666c5cc5be90b543cbfe3e49d3945c1c402a34.json",
+      "url": "https://sapl.gloria.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.gloria.ba.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8cbbc338ec26c4e73c58bfacd93b6957da2d45cfec62c9b968bedce970ddd30f",
+      "bytes": 1208,
+      "capturado_em": "2026-10-28T12:41:06.077426-03:00"
+    }
+  ]
+}

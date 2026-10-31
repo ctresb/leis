@@ -1,0 +1,42 @@
+{
+  "host": "sapl.eusebio.ce.leg.br",
+  "metadados_unicos_observados": 77,
+  "total_api_declarado": 77,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 61,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/8fd1018bd823a1a6575df4bb08b979a68ed1385fa7b1580a214b4d4a3678906a.json",
+    "url": "https://sapl.eusebio.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.eusebio.ce.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "417258f85ddac15a82efb32efc86d88e0ab2820edc07cbdd4c2a77d427748384",
+    "bytes": 952,
+    "capturado_em": "2026-10-28T10:29:35.812806-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/0137197902e669fa6477963489911e20c737978a690c6e15fb1b712cb17d16fe.json",
+    "url": "https://sapl.eusebio.ce.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.eusebio.ce.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "2930c8eae7a38d6dc2f92f5e5ef0f0474b75f18fd3225694f88e1ae2bb7ae0ff",
+    "bytes": 763,
+    "capturado_em": "2026-10-28T10:29:34.926385-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/12f1f1ec9a6101af9a0bff65d112ce14759d05446003143352b52ea3236bd811.json",
+      "url": "https://sapl.eusebio.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.eusebio.ce.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0c0efa4bdd67e699aff27d43a666654affc817d3dbe7137c638fe09c7f3dcea3",
+      "bytes": 45779,
+      "capturado_em": "2026-10-28T10:29:37.181969-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

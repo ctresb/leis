@@ -1,0 +1,2739 @@
+APROVA O REGULAMENTO DA LEI Nº 3.596, DE 30 DE SETEMBRO DE 2009, QUE AUTORIZA O CHEFE DO PODER EXECUTIVO A CONCEDER A EXPLORAÇÃO DOS SERVIÇOS DE TRANSPORTE COLETIVO NO MUNICÍPIO DE FOZ DO IGUAÇU, MEDIANTE PROCEDIMENTO LICITATÓRIO.
+
+
+O Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, no uso das atribuições legais que lhe são conferidas pelas alíneas "a" e "j", inciso I, do art. 86 da Lei Orgânica do Município, e de acordo com o disposto no art. 20, da Lei nº 3.596, de 30 de setembro de 2009, DECRETA:
+
+
+Art. 1º.
+
+Fica aprovado o Regulamento que Autoriza o Chefe do Poder Executivo a conceder a exploração dos serviços de transporte coletivo no Município de Foz do Iguaçu, mediante procedimento licitatório, conforme disposto na Lei nº 3.596, de 30 de setembro de 2009, na forma dos Anexos a este Decreto.
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Foz do Iguaçu, Estado do Paraná, em 29 de outubro de 2009.
+
+Paulo Mac Donald Ghisi  
+Prefeito Municipal  
+  
+Lincoln Barros de Sousa  
+Secretário Municipal da Administração  
+  
+Ailton José de Faria  
+Diretor Superintendente do Instituto de Transportes e Trânsito de Foz do Iguaçu - FOZTRANS
+
+
+## Anexo I — REGULAMENTO DOS SERVIÇOS DE TRANSPORTE COLETIVO DE PASSAGEIROS DO MUNICÍPIO DE FOZ DO IGUAÇU
+
+
+### TÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+#### CAPÍTULO I — DO OBJETO
+
+
+Art. 1º.
+
+Este Regulamento tem por objeto disciplinar as condições para a exploração e execução dos Serviços de Transporte Coletivo de Passageiros na cidade de Foz do Iguaçu, Estado do Paraná, a que se refere Lei nº 3.596, de 30 de setembro de 2.009,
+
+
+#### CAPÍTULO II — DAS DEFINIÇÕES
+
+
+Art. 2º.
+
+Para efeito de interpretação deste Regulamento entende-se por:
+
+
+I –
+
+Área de estoque: Área reservada, nos terminais ou em suas proximidades, para que o equipamento aguarde seu horário de início de viagem;
+
+
+II –
+
+Área de Operação: Área geograficamente limitada no Município à qual se vincula parte da rede de transporte coletivo;
+
+
+III –
+
+Concessionária: Pessoa jurídica, estabelecida no ramo de transporte coletivo de passageiros por ônibus que, mediante concessão do Poder Público Municipal, explora o serviço de Transporte Coletivo;
+
+
+IV –
+
+Custo: Valor apurado na planilha de cálculo tarifário e que servirá de base para reajuste da tarifa do serviço de Transporte Coletivo Urbano;
+
+
+V –
+
+Despesas: Os gastos diretamente decorrentes da operação dos serviços de transporte coletivo;
+
+
+VI –
+
+Equipamento: os veículos utilizados no transporte coletivo, com seus respectivos acessórios de controle de tráfego e arrecadação;
+
+
+VII –
+
+Estação de Transferência: Terminal fechado sem acesso externo às pessoas e permite apenas transbordo de passageiros;
+
+
+VIII –
+
+Faixas exclusivas de ônibus: São faixas de tráfego reservadas para o uso exclusivo ou prioritário de ônibus, demarcadas por linha divisória contínua e por dispositivos, tipo tachão, que desestimulem a invasão da faixa;
+
+
+IX –
+
+Garagem: Conjunto de instalações e equipamentos destinados à guarda, fiscalização do Órgão Gestor, limpeza e manutenção preventiva e corretiva, fixa ou volante, do equipamento e acessórios;
+
+
+X –
+
+Horário: Hora pré-estabelecida para início de cada viagem;
+
+
+XI –
+
+Infraestrutura: a estrutura básica para operação do transporte coletivo, incluindo garagens, terminais, estações de integração, sistema viário, fontes e redes de abastecimento ou alimentação, pontos de parada, etc;
+
+
+XII –
+
+Integração: é a possibilidade do passageiro utilizar mais de um veículo que opera no sistema para seu deslocamento dentro da rede, pagando apenas uma passagem;
+
+
+XIII –
+
+Itinerário: Rota pré-determinada para percurso do equipamento, entre um par de origem/destino;
+
+
+XIV –
+
+Linha Comum: Linha que observa todos os pontos de parada no seu itinerário, poder ser troncal, alimentadora, circular, radial ou diametral;
+
+
+XV –
+
+Linha Expressa - Linha que não tem parada, a não ser nos pontos terminais;
+
+
+XVI –
+
+Linha Semi-Expressa: Linha que utiliza parte dos pontos de parada no seu itinerário;
+
+
+XVII –
+
+Linha: É o serviço regular, executado segundo regras operacionais próprias, com equipamento, terminais e pontos de parada e final preestabelecidos;
+
+
+XVIII –
+
+Lote de Serviço: Conjunto de frota, quilometragem e/ou linhas, podendo eventualmente incluir frações destes;
+
+
+XIX –
+
+Órgão Gestor: É o órgão do Poder Executivo Municipal responsável pelo transporte e trânsito no Município;
+
+
+XX –
+
+Pessoal de administração: Os recursos humanos da concessionária alocados à administração do transporte coletivo, em todos os níveis;
+
+
+XXI –
+
+Pessoal de gerenciamento: Os recursos humanos que o poder concedente alocar na gerência do Sistema de Transporte Coletivo;
+
+
+XXII –
+
+Pessoal de manutenção: Todo pessoal relacionado à manutenção preventiva e corretiva do equipamento, bem como à sua guarda e limpeza;
+
+
+XXIII –
+
+Pessoal de operação: Pessoal pertencente às concessionárias relacionado à operação do transporte coletivo, compreendendo motoristas, cobradores, escalantes, despachantes, chefes de tráfego, auxiliares e fiscais;
+
+
+XXIV –
+
+Ponto de parada: Local da via pública especificamente destinada à parada do equipamento para embarque e desembarque de passageiros;
+
+
+XXV –
+
+Ponto final: Ponto de parada que permite o estacionamento do equipamento, no aguardo do horário determinado para partida, localizado nas extremidades de cada linha;
+
+
+XXVI –
+
+Produção de Transporte Realizada: A produção de transporte efetivamente registrada na prestação de serviço;
+
+
+XXVII –
+
+Produção de Transporte: O produto da extensão da linha pelo número de passageiros transportados, registrados nas catracas do equipamento;
+
+
+XXVIII –
+
+Produção do Equipamento: O quociente entre a produção de transporte e a produção quilométrica;
+
+
+XXIX –
+
+Produção Quilométrica Realizada: A produção quilométrica efetivamente registrada na prestação do serviço;
+
+
+XXX –
+
+Produção Quilométrica: O produto da extensão das linhas pelo número de viagens;
+
+
+XXXI –
+
+Receita de Créditos (Receita de Passes): A receita oriunda da venda de créditos, sob responsabilidade da administradora do Sistema de Bilhetagem Eletrônica - SBE;
+
+
+XXXII –
+
+Receita de Equipamento: A receita sob responsabilidade da concessionária, arrecadada nas catracas do equipamento;
+
+
+XXXIII –
+
+Receita de Terminais: A receita arrecadada nas catracas ali existentes ou que venham a existir;
+
+
+XXXIV –
+
+Receitas: A receita proveniente da tarifa, por cobrança direta, ou por créditos recebidos do Sistema de Bilhetagem Eletrônica (SBE) e outras fontes vinculadas ao Sistema de Transporte Coletivo;
+
+
+XXXV –
+
+Rede de Transporte Coletivo: O conjunto das linhas do transporte coletivo;
+
+
+XXXVI –
+
+Serviço Especial: É o serviço particular do transporte coletivo urbano de passageiros como turismo, transporte de estudantes e transporte fretado;
+
+
+XXXVII –
+
+Serviço Experimental: É o serviço Público executado em caráter provisório, para verificação de viabilidade antes de sua implantação definitiva;
+
+
+XXXVIII –
+
+Serviço Extraordinário: É o serviço executado para atender às necessidades excepcionais de transporte, causadas por fatos eventuais ou por falta de atendimento da prestação do serviço regular;
+
+
+XXXIX –
+
+Serviço regular: É o serviço público básico do Sistema de Transporte Coletivo, executado de forma contínua e permanente, obedecendo às tabelas de horários e itinerários;
+
+
+XL –
+
+Sistema de Bilhetagem Eletrônica - SBE: é a cobrança automática do preço da respectiva passagem, por meio do uso de cartões inteligentes, sem contato, que permitem o acesso dos passageiros e a respectiva liberação das catracas eletrônicas, tanto na frota operacional de ônibus como em eventuais estações ou terminais, com ou sem acesso externo, assim como integração entre linhas do sistema;
+
+
+XLI –
+
+Sistema de Transporte Coletivo: Conjunto de recursos materiais, imateriais e humanos, necessários à operação do transporte coletivo de pessoas, incluindo equipamento, garagens, terminais, pontos de parada, pessoal de operação, manutenção, administração e gerenciamento, receitas e despesas, itinerários, horários, etc;
+
+
+XLII –
+
+Terminal: Área e instalações especificamente destinadas à chegada, partida e movimentação do equipamento, com instalações e facilidades para o apoio operacional e embarque, desembarque e transbordo de passageiros, com acesso externo fechado ou aberto;
+
+
+XLIII –
+
+Transporte Coletivo: Serviço Público de Transporte Coletivo Urbano de Passageiros; e
+
+
+XLIV –
+
+Viagem: Deslocamento em sentido único entre pontos inicial e final de cada linha.
+
+
+#### CAPÍTULO III — DA COMPETÊNCIA
+
+
+Art. 3º.
+
+Compete ao Órgão Gestor - Instituto de Transportes e Trânsito de Foz do Iguaçu - FOZTRANS, a regulação, o gerenciamento, o controle, a supervisão, a operação, o planejamento e a fiscalização do Sistema de Transporte Coletivo de Passageiros do Município de Foz do Iguaçu.
+
+
+#### CAPÍTULO IV — DO PLANEJAMENTO DO SISTEMA
+
+
+Art. 4º.
+
+O Transporte Coletivo de Passageiros no Município de Foz do Iguaçu fica organizado, dentre outras, sob as seguintes diretrizes:
+
+
+I –
+
+planejamento adequado às alternativas tecnológicas convergentes com o interesse público, principalmente no que tange os seguintes aspectos:
+
+
+a)
+
+atendimento à demanda: tendo em conta as flutuações horárias, semanais e sazonais, bem como as linhas de deslocamento dos usuários e a cobertura adequada da área do Município, considerando o Plano do uso do Solo;
+
+
+b)
+
+funcionalidade: pela racionalização dos itinerários, eliminação de transbordos desnecessários, agilidade no embarque, constante acompanhamento à evolução da demanda e contínuos ajustes necessários;
+
+
+c)
+
+economicidade: pela minimização dos custos operacionais e de investimentos, de modo a minimizar a tarifa;
+
+
+d)
+
+flexibilidade: tendo em conta as necessidades de ajustes nas características do Sistema, de modo a mantê-lo rotineiramente adequado à demanda;
+
+
+e)
+
+facilidade de implantação: visando imprimir às decisões tomadas a necessária agilidade requerida pelo transporte coletivo;
+
+
+f)
+
+confiabilidade: assegurado rigoroso cumprimento de horários e itinerários, bem como a minimização das panes em serviço;
+
+
+g)
+
+segurança: na condução do equipamento, pelos itinerários mais seguros e na velocidade adequada;
+
+
+h)
+
+conforto: entendido como características adequadas do equipamento, facilidade de embarque, limpeza e asseio;
+
+
+i)
+
+apresentação: entendida como uma boa programação visual do equipamento, dos terminais e pontos de parada e boa apresentação do pessoal de operação; e
+
+
+j)
+
+informação ao usuário: proporcionando aos passageiros diversas fontes de informação quanto ao Sistema de Transporte Coletivo, de modo a ganhar funcionalidade e aumento do nível da qualidade do serviço prestado.
+
+
+II –
+
+planejamento global da cidade, notadamente na área de uso e ocupação do solo e ao sistema viário básico;
+
+
+III –
+
+universalidade de atendimento, respeitados os direitos e obrigações dos usuários;
+
+
+IV –
+
+acessibilidade objetivando a facilitação ao acesso do serviço particularmente para as pessoas com deficiência, idosos e gestantes;
+
+
+V –
+
+prioridade do transporte coletivo sobre o individual;
+
+
+VI –
+
+integração com os diferentes modais de transportes;
+
+
+VII –
+
+redução das diversas formas de poluição ambiental, conforme as prescrições das normas técnicas e dos padrões de emissão de poluentes;
+
+
+VIII –
+
+transparência e participação social no planejamento, controle e avaliação da política de mobilidade urbana;
+
+
+IX –
+
+estímulo à produtividade e qualidade através de avaliações de indicadores estabelecidos;
+
+
+X –
+
+busca da isonomia da operacionalidade adequada às metas de qualidade, do planejamento operacional do sistema e do equilíbrio econômico financeiro das contratadas aos sistemas remunerados pela tarifa, independente da forma de remuneração; e
+
+
+XI –
+
+estímulo à participação do usuário no acompanhamento da prestação dos serviços delegados.
+
+
+Art. 5º.
+
+A região urbana, cuja densidade demográfica viabilize a implantação do serviço, será considerada atendida sempre que a sua população não esteja sujeita ao deslocamento médio superior a 500 (quinhentos) metros.
+
+
+Parágrafo único
+
+Para a zona rural, será considerada atendida sempre que sua população não esteja sujeita ao deslocamento médio superior a 1.000 (mil) metros.
+
+
+Art. 6º.
+
+No exercício das competências relativas ao Sistema de Transporte Coletivo Público de Passageiros, a Administração Pública poderá celebrar convênios, contratos e outros instrumentos legais com entes públicos ou privados, visando à cooperação técnica e financeira na organização, sustentabilidade e planejamento do transporte público de passageiros.
+
+
+Art. 7º.
+
+Tanto quanto possível, o planejamento do sistema preverá a evolução tecnológica do setor, diligenciando no sentido de facilitar a introdução futura dos avanços tecnológicos.
+
+
+Art. 8º.
+
+Para efeito de planejamento e operação dos serviços de transporte coletivo, o Município será dividido em lotes de serviço, e sua operação compreende a disponibilidade de frota de veículos operacionais e reserva técnica, recursos humanos e materiais necessários para a adequada prestação do serviço.
+
+
+§ 1º
+
+A cada área de operação será vinculada parte da rede de transporte coletivo.
+
+
+§ 2º
+
+A divisão dos lotes é efetuada como forma de aperfeiçoar a operação e reduzir os custos, bem como facilitar a fiscalização por parte do Órgão Gestor e não implicará em exclusividade de cada concessionária sobre as linhas.
+
+
+§ 3º
+
+Haverá exclusividade das linhas que:
+
+
+I –
+
+Fizerem a ligação de sua área de concessão com a área central; e
+
+
+II –
+
+Tiverem origem e destino na sua respectiva área de concessão, inclusive quando estas adentrarem em outra área ou na área central.
+
+
+§ 4º
+
+Os lotes poderão ser, tanto quanto possível, idênticos entre si no que se refere a rentabilidade econômico-financeira.
+
+
+### TÍTULO II — DA EXPLORAÇÃO DOS SERVIÇOS
+
+
+#### CAPÍTULO I — DA DELEGAÇÃO
+
+
+Art. 9º.
+
+O Transporte Coletivo, serviço público municipal, pode ser explorado:
+
+
+I –
+
+Diretamente pela Administração Municipal ou por entidade que lhe seja vinculada;
+
+
+II –
+
+Por delegação, mediante autorização ou concessão.
+
+
+Art. 10.
+
+Nos casos de delegação, serão observadas as seguintes diretrizes:
+
+
+I –
+
+Os serviços regulares serão explorados pelo regime de concessão, e os especiais, preferencialmente, observadas as normas legais vigentes; e
+
+
+II –
+
+Os serviços experimentais e os extraordinários serão explorados mediante autorização Municipal.
+
+
+#### CAPÍTULO II — DO REGIME JURÍDICO
+
+
+##### Seção I — Da Concessão
+
+
+Art. 11.
+
+A exploração dos serviços de transporte coletivo no Município de Foz do Iguaçu será concedida pelo prazo máximo de 10 (dez) anos, sendo possível a prorrogação, justificada pelo Poder Público e em conformidade com as condições previstas no edital de licitação.
+
+
+Art. 12.
+
+A concessão será outorgada, sempre mediante licitação, à pessoa jurídica ou consórcio de empresas brasileiras, constituído para o procedimento licitatório.
+
+
+Art. 13.
+
+Os serviços delegados somente poderão ser executados por empresas contratadas pelo Município de Foz do Iguaçu e deverão ser executados em conformidade com as condições estabelecidas no instrumento jurídico de contratação, com o presente Regulamento, e com outras determinações estabelecidas formalmente pelo Órgão Gestor.
+
+
+Art. 14.
+
+É vedada a sub-concessão dos serviços contratados.
+
+
+Art. 15.
+
+A contratada poderá transferir o contrato e o controle societário, bem como realizar fusões, incorporações e cisões, desde que com a anuência prévia da Administração Pública, sob pena de caducidade do contrato.
+
+
+Parágrafo único
+
+Para fins da anuência de que trata o "caput" deste artigo, o pretendente deverá:
+
+
+I –
+
+atender integralmente às exigências estabelecidas no procedimento licitatório que precedeu a contratação, em especial às exigências de capacidade técnica, idoneidade financeira e regularidade jurídica, fiscal e previdenciária necessárias à assunção do serviço;
+
+
+II –
+
+comprometer-se formalmente a cumprir todas as cláusulas do contrato em vigor, se sub-rogando em todos os direitos e obrigações do cedente e prestando todas as garantias exigidas.
+
+
+##### Seção II — Da Autorização
+
+
+Art. 16.
+
+Os serviços experimentais e extraordinários serão explorados mediante autorização, em situações excepcionais e não poderão ter caráter permanente.
+
+
+Parágrafo único
+
+A autorização será dada, preferencialmente, às entidades municipais ou às empresas operadoras regulares do Município.
+
+
+Art. 17.
+
+As autorizações para serviços experimentais e extraordinários constituirão de Ordens de Serviços ou Memorandos, circunstanciando o objeto da autorização, prazo de validade e condições gerais e específicas do transporte autorizado.
+
+
+### TÍTULO III — DAS CONCESSIONÁRIAS
+
+
+#### CAPÍTULO I — DAS OBRIGAÇÕES
+
+
+Art. 18.
+
+É condição necessária para exploração do Serviço de Transporte Coletivo que a concessionária tenha infraestrutura adequada no município de acordo com as normas e critérios estabelecidos pelo Órgão Gestor.
+
+
+Art. 19.
+
+A Concessionária deverá manter em ordem e atualizados seus registros no Órgão Gestor, na forma que lhe for determinada e nos demais órgãos competentes.
+
+
+Art. 20.
+
+São ainda obrigações da concessionária:
+
+
+I –
+
+manter atualizados e em perfeitas condições, segundo as normas do Órgão Gestor, o controle de passageiros transportados, receita arrecadada, quilometragem percorrida, apropriação de custos, planos de contas e viagens realizadas;
+
+
+II –
+
+cumprir rigorosamente as Ordens de Serviços emitidas pelo Órgão Gestor;
+
+
+III –
+
+fazer chegar ao Órgão Gestor, dentro dos prazos estabelecidos, os relatórios, dados e informações, rotineiros ou extraordinários, contendo as informações solicitadas de ordem administrativa, financeira, técnica ou operacional;
+
+
+IV –
+
+manter-se sempre acima das exigências mínimas de capacidade técnica, operacional, administrativa e financeira exigidas, bem como de idoneidade;
+
+
+V –
+
+informar previamente ao Órgão Gestor as alterações de localização de quaisquer instalações da empresa;
+
+
+VI –
+
+arquivar no registro comercial todas as alterações de seus atos constitutivos e estatutos, encaminhando cópia ao Instituto de Transporte e Trânsito de Foz do Iguaçu, dentro de 10 (dez) dias;
+
+
+VII –
+
+manter treinamento mínimo ao pessoal de operação e manutenção, na forma especificada pelo Poder Concedente;
+
+
+VIII –
+
+atender rigorosa e prontamente as determinações do Órgão Gestor quanto à aplicação de penalidades ao pessoal de operação;
+
+
+IX –
+
+permitir o acesso de fiscais credenciados do Órgão Gestor, na forma por este determinada, aos seus veículos e instalações, independentemente de prévio aviso;
+
+
+X –
+
+permitir o acesso de fiscais designados pelo Órgão Gestor para examinar a escrituração e proceder à tomada de suas contas e parâmetros operacionais, independente de aviso prévio, bem como manter atualizada e à mão a documentação correspondente;
+
+
+XI –
+
+manter reserva de pessoal de operação, suficiente para que as penalidades impostas a esses não prejudiquem o cumprimento das Ordens de Serviços;
+
+
+XII –
+
+submeter previamente ao Órgão Gestor qualquer alteração em qualquer item de seu Registro no Município;
+
+
+XIII –
+
+manter o pessoal de operação devidamente uniformizado, na forma e padrões definidos pelo Órgão Gestor;
+
+
+XIV –
+
+impedir a afixação de cartazes, avisos ou mensagens de qualquer natureza, sem a prévia e expressa autorização do Órgão Gestor;
+
+
+XV –
+
+exercer rigorosa observação no funcionamento das catracas e validadores, não permitindo em hipótese alguma a operação com equipamentos defeituosos;
+
+
+XVI –
+
+somente substituir catracas e validadores na presença de um fiscal do Órgão Gestor;
+
+
+XVII –
+
+liberar funcionários para comparecer ao Órgão Gestor, quando por este solicitado;
+
+
+XVIII –
+
+encaminhar ao Órgão Gestor no prazo de 24 (vinte e quatro) horas, relatórios detalhados, circunstanciando ocorrências que determinaram interrupção, atraso ou cancelamento de viagens, bem como os acidentes ou quaisquer outras ocorrências de natureza policial envolvendo seu equipamento, infraestrutura e pessoal de operação;
+
+
+XIX –
+
+cumprir as normas e determinações de operação e arrecadação, inclusive as atinentes à cobrança de tarifa;
+
+
+XX –
+
+operar somente com pessoal devidamente capacitado e habilitado, cadastrado no Órgão Gestor, mediante contratações regidas pelo direito privado e legislação trabalhista, assumindo todas as obrigações delas decorrentes, não se estabelecendo qualquer relação jurídica entre os terceiros e o contratante;
+
+
+XXI –
+
+utilizar somente veículos que preencham os requisitos de operação, conforme previsto nas normas regulamentares ou gerais pertinentes;
+
+
+XXII –
+
+promover a atualização e o desenvolvimento tecnológico das instalações, equipamentos e sistemas, com vistas a assegurar a melhoria da qualidade do serviço e a preservação do meio ambiente, nos termos da legislação pertinente;
+
+
+XXIII –
+
+garantir a segurança e a integridade física dos usuários e trabalhadores do Sistema de Transporte Público de Foz do Iguaçu, instituindo mecanismos de monitoramento, controle, cumprimento das determinações do Órgão Gestor, vigilância, logística, tecnologia e cobertura de acidentes pessoais adequados aos custos tarifários;
+
+
+XXIV –
+
+executar os serviços com rigoroso cumprimento de viagens e horários programados, características da frota, tarifa, itinerário, pontos de paradas, iniciais, intermediários e finais ou terminais de integração, definidos pelo Órgão Gestor;
+
+
+XXV –
+
+submeter-se à fiscalização do Órgão Gestor, facilitando-lhe a ação e cumprindo as suas determinações;
+
+
+XXVI –
+
+zelar pela preservação da originalidade dos veículos e equipamentos urbanos sob sua responsabilidade;
+
+
+XXVII –
+
+apresentar periodicamente os seus veículos para inspeção técnica programada, em local na garagem com infraestrutura adequada para realização dos serviços, limpos e com seus sistemas funcionais elétricos, pneumáticos, mecânicos e outros equipamentos ou acessórios em perfeitas condições de uso, sanando imediatamente as irregularidades que possam comprometer o conforto e a segurança do transporte de passageiros, para a obtenção do certificado de vistoria e cadastro;
+
+
+XXVIII –
+
+apresentar, sempre que solicitado, os seus veículos para inspeções técnicas eventuais, sanando as irregularidades que possam comprometer o conforto e a segurança do transporte de passageiros, em 72 (setenta e duas) horas, sujeitando-se ao afastamento de tráfego dos veículos, os quais deverão ser substituídos por outros, com as mesmas características, de forma que o atendimento dos serviços de nenhum modo possa ser prejudicado;
+
+
+XXIX –
+
+apresentar, sempre que solicitado, os veículos para inspeções veiculares, medição de níveis de poluição, e outros testes mecânicos, ambientais e operacionais necessários para manutenção da qualidade do sistema;
+
+
+XXX –
+
+preservar o funcionamento e inviolabilidade dos equipamentos obrigatórios e/ou instrumentos obrigatórios, tais como: contador de passageiros, validador de cartão transporte, tacógrafo, Sistema de Posicionamento Georeferenciado - GPS, sistema de mensagens, sistema de segurança de porta e outros;
+
+
+XXXI –
+
+manter diariamente os veículos, para início de operação, em adequado estado de conservação e limpeza;
+
+
+XXXII –
+
+manter em serviços apenas empregados cadastrados no Órgão Gestor, salvo empregados de atividades passíveis de terceirização;
+
+
+XXXIII –
+
+comunicar ao Órgão Gestor, na data em que tiver ciência, a ocorrência de acidentes, informando também, as providências adotadas e a assistência que for devida aos usuários e prepostos;
+
+
+XXXIV –
+
+preencher guias e formulários referentes a dados de operação e de custos, cumprindo prazos e normas fixadas pelo Órgão Gestor;
+
+
+XXXV –
+
+tomar imediatas providências no caso de interrupção de viagem, para não prejudicar o usuário;
+
+
+XXXVI –
+
+reabastecer e fazer manutenção dos veículos em local apropriado, sem passageiros a bordo;
+
+
+XXXVII –
+
+não operar com veículos que estejam derramando combustível ou pingando óleos lubrificantes na via pública;
+
+
+XXXVIII –
+
+afixar cartazes de utilidade pública na frota de veículos, conforme solicitado pelo Órgão Gestor;
+
+
+XXXIX –
+
+disponibilizar nos veículos, os adesivos, legendas, placas ou dispositivos informativos, internos e/ou externos, determinados pelo Órgão Gestor, em adequado estado de conservação e funcionamento;
+
+
+XL –
+
+disponibilizar os veículos e colaborar com a instalação de material e equipamentos para exploração de publicidade comercial, institucional ou de informações aos usuários;
+
+
+XLI –
+
+desenvolver ações que visem coibir invasões de usuários sem o pagamento da tarifa e vandalismo nos veículos e terminais de integração;
+
+
+XLII –
+
+desenvolver, executar ou participar em conjunto com o Órgão Gestor, de campanhas educativas aos usuários do transporte coletivo;
+
+
+XLIII –
+
+manter garagem fechada com área de estacionamento, abastecimento, manutenção, inspeção e administração suficiente para toda sua frota e equipamentos adequados às exigências técnicas do Órgão Gestor, bem como à legislação legal pertinente, principalmente de uso do solo e meio ambiente;
+
+
+XLIV –
+
+garantir ao contratante, o livre acesso às suas instalações operacionais e veículos, para os exercícios de suas atividades de gerenciamento do serviço de transporte coletivo;
+
+
+XLV –
+
+apresentar ao Órgão Gestor, anualmente, balanço demonstrativo de resultados;
+
+
+XLVI –
+
+orientar adequadamente os operadores sobre determinações operacionais definidas pelo Órgão Gestor;
+
+
+XLVII –
+
+responsabilizar-se pela obtenção das licenças e autorizações necessárias para desenvolvimento de suas atividades; e
+
+
+XLVIII –
+
+providenciar, durante a operação, a limpeza de matérias estranhas que comprometam a higiene nos veículos e terminais sob sua responsabilidade.
+
+
+Parágrafo único
+
+Na hipótese de deficiências no sistema, decorrentes de caso fortuito ou força maior, a prestação do serviço, a critério do Órgão Gestor, poderá ser atribuída a outros operadores, que responderão por sua continuidade, na forma estabelecida.
+
+
+### TÍTULO IV — DO ÓRGÃO GESTOR
+
+
+#### CAPÍTULO I — DAS ATRIBUIÇÕES
+
+
+Art. 21.
+
+Na forma do artigo 3º, deste Regulamento, constituem atribuições do Órgão Gestor:
+
+
+I –
+
+fixar itinerários e pontos de parada;
+
+
+II –
+
+fixar horários, frequência e frota de cada linha;
+
+
+III –
+
+determinar terminais de integração e sua operação;
+
+
+IV –
+
+organizar, programar, controlar e fiscalizar o sistema;
+
+
+V –
+
+implantar e extinguir linhas e extensões;
+
+
+VI –
+
+estabelecer intercâmbio com entidades técnicas e acadêmicas;
+
+
+VII –
+
+firmar, quando necessário, convênios com órgãos de segurança pública, com o objetivo de promover condições de segurança aos usuários, funcionários e à operação dos serviços, objeto deste Regulamento;
+
+
+VIII –
+
+estabelecer a metodologia de cálculo que defina o valor da tarifa;
+
+
+IX –
+
+elaborar e fiscalizar a aplicação dos cálculos tarifários;
+
+
+X –
+
+cadastrar, controlar e estabelecer normas de pessoal das empresas contratadas;
+
+
+XI –
+
+determinar local e procedimentos para inspeções veiculares, níveis de poluição, bem assim da captação de coordenadas do GPS dos veículos;
+
+
+XII –
+
+vistoriar os veículos, garagens, instalações e demais veículos das contratadas;
+
+
+XIII –
+
+fixar e aplicar penalidades;
+
+
+XIV –
+
+estabelecer as normas de operação; e
+
+
+XV –
+
+implementar medidas efetivas no controle e atualização da metodologia tarifária, a partir da verificação dos custos, investimentos e outras despesas das contratadas;
+
+
+XVI –
+
+proceder ao cadastramento do pessoal das contratadas, usuários e veículos do transporte coletivo, necessários para atender este Regulamento ou outras legislações pertinentes;
+
+
+XVII –
+
+definir a padronização das características dos veículos;
+
+
+XVIII –
+
+estimular o aumento da qualidade e da produtividade dos serviços e da preservação do meio ambiente;
+
+
+XIX –
+
+implantar mecanismos permanentes de informação sobre os serviços prestados para facilitar o seu acesso aos usuários.
+
+
+Parágrafo único
+
+Para o exercício das atribuições dispostas neste artigo, o Órgão Gestor poderá contratar serviços especializados, obedecida a legislação pertinente.
+
+
+### TÍTULO V — DA OPERAÇÃO DOS SERVIÇOS DE TRANSPORTE
+
+
+#### CAPÍTULO I — DAS ORDENS DE SERVIÇO
+
+
+Art. 22.
+
+A prestação dos serviços de transporte coletivo pela empresa contratada se dará segundo as Ordens de Serviço emitidas pelo Órgão Gestor.
+
+
+§ 1º
+
+As Ordens de Serviço terão seu modelo definido pelo Órgão Gestor, devendo ser rigorosamente cumpridas pela concessionária.
+
+
+§ 2º
+
+A Ordem de Serviço será sempre acompanhada de Ficha Técnica da Linha, que dela fará parte integrante e conterá todos os dados operacionais exigidos e necessários à exploração da linha a que se referir a Ordem de Serviço.
+
+
+Art. 23.
+
+Em função do melhor atendimento ao público usuário ou da economicidade do Sistema, o Órgão Gestor poderá alterar as exigências operacionais, caso em que será expedida nova Ordem de Serviço, em substituição à anterior.
+
+
+#### CAPÍTULO II — DAS FICHAS TÉCNICAS DA LINHA
+
+
+Art. 24.
+
+As Fichas Técnicas da Linha tem caráter normativo e conterão sempre, no mínimo, as seguintes exigências operacionais:
+
+
+I –
+
+nome da concessionária;
+
+
+II –
+
+número e denominação da linha;
+
+
+III –
+
+categoria do serviço;
+
+
+IV –
+
+classificação da linha;
+
+
+V –
+
+itinerários;
+
+
+VI –
+
+frota operacional;
+
+
+VII –
+
+tabelas de horário da linha;
+
+
+VIII –
+
+tabelas de horário de cada veículo;
+
+
+IX –
+
+extensão da linha;
+
+
+X –
+
+data de início da operação;
+
+
+XI –
+
+letreiros; e
+
+
+XII –
+
+outros dados operacionais.
+
+
+#### CAPÍTULO III — DA OPERAÇÃO
+
+
+Art. 25.
+
+O Órgão Gestor poderá criar, alterar, extinguir, fundir, seccionar, substituir linhas, alterar tipo de veículos, alterar categoria do serviço, redimensionar a oferta, bem como implantar serviços conforme a necessidade e conveniência dos usuários do sistema de transporte, considerando a região de influência, a quilometragem não produtiva e os indicadores de qualidade para definição da concessionária quando necessário, preservando a liberdade gerencial da contratante para efeito de planejamento e racionalização do sistema.
+
+
+§ 1º
+
+O Órgão Gestor poderá realizar atendimentos específicos, exclusivos ou pontuais, com tarifas diferenciadas se necessário, para atendimento a locais de concentração de demanda.
+
+
+§ 2º
+
+O Órgão Gestor poderá criar linhas de característica especiais com tarifas diferenciadas, obedecidos os devidos procedimentos legais.
+
+
+Art. 26.
+
+Os serviços deverão ser executados conforme padrão técnico e operacional, características básicas da infraestrutura, dos equipamentos e dos veículos mais adequados para a execução do objeto do contrato, estabelecidos pelo Órgão Gestor.
+
+
+#### CAPÍTULO IV — DO PESSOAL DA OPERAÇÃO
+
+
+Art. 27.
+
+O pessoal de operação deverá cumprir as normas operacionais e determinações estabelecidas pelo Órgão Gestor.
+
+
+Art. 28.
+
+São deveres do pessoal de operação:
+
+
+I –
+
+tratar os passageiros com educação, cordialidade e respeito;
+
+
+II –
+
+manter atitudes condizentes com sua função e apresentar-se ao trabalho asseado;
+
+
+III –
+
+apresentar-se corretamente uniformizado e identificado em serviço;
+
+
+IV –
+
+não permanecer na entrada e/ou saída do veículo dificultando o embarque e/ou desembarque de passageiros;
+
+
+V –
+
+não fumar no interior do veículo, ou posto de trabalho;
+
+
+VI –
+
+não ingerir bebida alcoólica em serviço ou quando estiver próximo de assumi-lo;
+
+
+VII –
+
+não fazer leitura de livros, revistas, jornais ou publicações em seu posto de trabalho, que comprometa o desempenho da função;
+
+
+VIII –
+
+não ocupar sentado lugar de passageiros nos veículos;
+
+
+IX –
+
+não portar em serviço arma de qualquer natureza;
+
+
+X –
+
+não desacatar, ameaçar, agredir ou constranger os funcionários do Órgão Gestor;
+
+
+XI –
+
+não permitir embarque de usuário que venha comprometer a higiene do veículo e terminais e/ou de seus ocupantes;
+
+
+XII –
+
+tomar as medidas necessárias para a manutenção da ordem no interior dos veículos e terminais;
+
+
+XIII –
+
+tomar as medidas necessárias para impedir atos de vandalismo nos veículos e terminais;
+
+
+XIV –
+
+impedir a atividade de vendedores ambulantes, pedintes ou pessoas fazendo panfletagem no interior dos veículos e terminais;
+
+
+XV –
+
+impedir a presença de pessoa embriagada no interior dos veículos e terminais, desde que comprometa a ordem e o bom andamento do serviço;
+
+
+XVI –
+
+não permitir o transporte de produtos inflamáveis, explosivos, lâmpadas fluorescentes ou televisores;
+
+
+XVII –
+
+não permitir o transporte de animais de qualquer espécie, exceto cão guia, conforme legislação específica ou determinação do Órgão Gestor;
+
+
+XVIII –
+
+não permitir o transporte de qualquer material ou carga que possa causar risco à segurança ou integridade física do usuário;
+
+
+XIX –
+
+não permitir o transporte de passageiro sem o pagamento da tarifa;
+
+
+XX –
+
+proceder a correta identificação de usuário com direito a isenção tarifária;
+
+
+XXI –
+
+fazer a apreensão de "Cartão Isento" falsificado ou que não esteja sendo utilizado pelo seu titular;
+
+
+XXII –
+
+não se apropriar de receita do sistema;
+
+
+XXIII –
+
+preencher corretamente os documentos solicitados pelo Órgão Gestor;
+
+
+XXIV –
+
+providenciar transporte para os passageiros no caso de interrupção de viagem;
+
+
+XXV –
+
+cumprir as orientações ou determinações dos agentes de fiscalização do Órgão Gestor, na operação do sistema;
+
+
+XXVI –
+
+não abandonar o posto de trabalho sem motivo justificado;
+
+
+XXVII –
+
+não utilizar durante a jornada de trabalho, qualquer dispositivo sonoro ou audiovisual, que prejudique o desempenho de sua função;
+
+
+XXVIII –
+
+não expor ou divulgar no local de trabalho, material político, religioso e materiais inadequados à moral e aos bons costumes; e
+
+
+XXIX –
+
+auxiliar o embarque e desembarque de pessoas com mobilidade reduzida, inclusive na utilização dos equipamentos destinados para este fim.
+
+
+Art. 29.
+
+Sem prejuízo do cumprimento dos demais deveres previstos na legislação de trânsito e neste Regulamento, o motorista deve:
+
+
+I –
+
+dirigir o veículo adequadamente obedecendo às regras de circulação, conduta e sinalização de trânsito, de modo a proporcionar segurança, conforto e regularidade de viagem aos passageiros;
+
+
+II –
+
+não movimentar ou transitar com o veículo com as portas abertas;
+
+
+III –
+
+não movimentar o veículo com passageiros embarcando e/ou desembarcando;
+
+
+IV –
+
+não abrir a(s) porta(s) com o veículo em movimento;
+
+
+V –
+
+obedecer à velocidade estipulada para as vias e terminais.
+
+
+VI –
+
+atender ao sinal de parada para embarque e desembarque dos passageiros, nos pontos marcados;
+
+
+VII –
+
+parar o veículo corretamente, no ponto inicial e final de linha, determinado pelo Órgão Gestor;
+
+
+VIII –
+
+parar o veículo nos pontos de parada, próximo ao meio-fio e corretamente;
+
+
+IX –
+
+não desviar o itinerário ou interrompê-lo antes do seu ponto final sem motivo justificado;
+
+
+X –
+
+cumprir, nas linhas de transporte coletivo, os horários programados pelo Órgão Gestor;
+
+
+XI –
+
+não disputar "corridas" com outros veículos do transporte coletivo com o intuito de chegar primeiro em determinado ponto; e
+
+
+XII –
+
+não permanecer parado nos pontos de parada aguardando passageiros.
+
+
+Art. 30.
+
+Sem prejuízo do cumprimento dos demais deveres previstos neste Regulamento, o cobrador deve:
+
+
+I –
+
+colaborar com o motorista em tudo quanto diga respeito à segurança dos passageiros, orientando-o nas manobras do veículo, no embarque e/ou desembarque de passageiros, quando necessário;
+
+
+II –
+
+cobrar corretamente a tarifa;
+
+
+III –
+
+devolver pronta e corretamente o troco;
+
+
+IV –
+
+não comercializar créditos transporte; e
+
+
+V –
+
+impedir a comercialização de créditos transporte no seu posto de trabalho.
+
+
+Art. 31.
+
+São requisitos para o exercício da função de motorista:
+
+
+I –
+
+atender as exigências previstas do Código de Trânsito Brasileiro - CTB - e suas resoluções em vigor;
+
+
+II –
+
+não ter deficiência física incompatível com a função;
+
+
+III –
+
+não ser portador de doença infecto-contagiosa grave;
+
+
+IV –
+
+apresentar certidões negativas pertinentes expedidas pelo Distribuidor Criminal.
+
+
+Parágrafo único
+
+Cumpridas as exigências deste artigo, o Órgão Gestor fará o cadastro, emitindo identificação funcional, ficando o motorista considerado apto para a função.
+
+
+Art. 32.
+
+São requisitos para o exercício da função de cobrador:
+
+
+I –
+
+ser maior de 16 (dezesseis) anos;
+
+
+II –
+
+ter concluído o ensino fundamental;
+
+
+III –
+
+possuir certificado de participação em Curso de Capacitação para Cobrador, ministrado pelo SEST/SENAT, ou outro órgão equivalente;
+
+
+IV –
+
+não ter deficiência física incompatível com a função;
+
+
+V –
+
+não ser portador de doença infecto-contagiosa grave;
+
+
+VI –
+
+apresentar certidões negativas pertinentes expedidas pelo Distribuidor Criminal.
+
+
+§ 1º
+
+Os cobradores cadastrados no sistema até a data da publicação deste Regulamento e que não atenderam ao disposto do inciso III, deste artigo, poderão ser admitidos e/ou mantidos pelas contratadas.
+
+
+§ 2º
+
+Cumprindo as exigências deste artigo, o Órgão Gestor fará o cadastro, emitindo identificação funcional, ficando o cobrador considerado apto para a função.
+
+
+§ 3º
+
+No mínimo, a cada 5 (cinco) anos, os cobradores deverão participar de curso de atualização a que se refere o inciso III, deste artigo.
+
+
+Art. 33.
+
+Os funcionários das empresas contratadas, para ingressar no sistema, deverão se apresentar na sede do Sistema de Bilhetagem Eletrônica para cadastro e emissão da identificação funcional.
+
+
+Art. 34.
+
+A empresa contratada deverá entregar mensalmente ao Órgão Gestor cópia da relação mensal de admissões e demissões de seus funcionários, conforme documento entregue ao Ministério do Trabalho, até o dia 10 (dez) do mês subsequente ao mês vencido, com as respectivas identificações funcionais emitidas pelo Órgão Gestor.
+
+
+Parágrafo único
+
+As demissões de todos os funcionários deverão ser comunicadas ao Órgão Gestor no prazo de 24 (vinte e quatro) horas após a data de demissão.
+
+
+Art. 35.
+
+A empresa contratada deverá ter 10% (dez por cento) de seus motoristas e cobradores com fluência verbal na língua inglesa para operarem nas linhas com grande fluxo de turistas.
+
+
+#### CAPÍTULO V — DA FISCALIZAÇÃO
+
+
+Art. 36.
+
+A fiscalização do serviço de que trata este Regulamento será exercida pelo Órgão Gestor, através de seus agentes fiscais e agentes auxiliares credenciados pelo Órgão Gestor.
+
+
+Art. 37.
+
+Compete aos agentes de fiscalização, intervir, relatar e emitir registro de ocorrência, quando houver infringência ao estabelecido neste Regulamento ou em determinações relativas às questões de operação, arrecadação da receita, postura dos operadores, condições da frota e comportamento dos usuários.
+
+
+Art. 38.
+
+Competem aos agentes de fiscalização, as providências e encaminhamentos necessários às situações atípicas e emergenciais, para garantir a correta operação e continuidade do transporte coletivo de passageiros, nos veículos e equipamentos urbanos do sistema.
+
+
+Art. 39.
+
+Os agentes de fiscalização poderão determinar o afastamento imediato, em caráter preventivo, de operador que tenha incorrido em violação grave de dever previsto neste Regulamento.
+
+
+Art. 40.
+
+Caberá aos agentes de fiscalização a retenção do veículo e a determinação de seu recolhimento, nos casos previstos neste Regulamento.
+
+
+Art. 41.
+
+Os agentes de fiscalização deverão atuar na operacionalização do transporte coletivo em eventos, conforme definição das unidades competentes.
+
+
+Art. 42.
+
+Os agentes de fiscalização poderão solicitar aos usuários do transporte coletivo, que estejam utilizando o sistema, a apresentação de credencial de isenção, cartão transporte ou outro comprovante de pagamento da tarifa.
+
+
+Art. 43.
+
+Os agentes de fiscalização deverão portar identificação especial, que os credencie a livre trânsito no Sistema de Transporte Coletivo.
+
+
+#### CAPÍTULO VI — DOS VEÍCULOS
+
+
+Art. 44.
+
+Somente poderão ser vinculados ao Serviço de Transporte Coletivo os veículos que:
+
+
+I –
+
+atenderem às especificações estabelecidas pelo Órgão Gestor;
+
+
+II –
+
+estiverem registrados no Órgão Gestor; e
+
+
+III –
+
+estiverem com Certificado de Vistoria em dia.
+
+
+Art. 45.
+
+Os veículos em operação deverão ser mantidos em perfeito estado de funcionamento, conservação e asseio, sendo submetidos às vistorias periódicas pelo Órgão Gestor, o qual poderá retirar do tráfego qualquer veículo que não atenda os requisitos mínimos de segurança ou conforto.
+
+
+Parágrafo único
+
+O veículo afastado do serviço, por qualquer motivo, poderá assim permanecer por um prazo máximo de 30 (trinta) dias, findo os quais deverá ser imediatamente substituído por outro.
+
+
+Art. 46.
+
+A frota de cada contratada deverá ser composta de veículos em número suficiente, fixada pelo Órgão Gestor, para atender À demanda máxima de passageiros das linhas sob sua responsabilidade operacional, mais a frota reserva equivalente a um mínimo de 10% (dez por cento) e a um máximo de 20% (vinte por cento) da frota operacional.
+
+
+§ 1º
+
+A renovação da frota deverá fazer-se mediante autorização expressa do Órgão Gestor.
+
+
+§ 2º
+
+Quando da expansão do serviço, a complementação da frota deverá ser feita no prazo fixado pelo Órgão Gestor, que levará em conta a disponibilidade de veículos no mercado.
+
+
+§ 3º
+
+O número de veículos da frota reserva de cada contratada, dentro da vida útil, será estabelecido pelo Órgão Gestor.
+
+
+Art. 47.
+
+Não poderão ser veiculados nos veículos e terminais, cartazes informativos com propaganda política, religiosa, filosófica ou ideológica.
+
+
+Parágrafo único
+
+Poderão ser veiculados cartazes informativos, desde que seu conteúdo seja de interesse público, autorizados pelo Órgão Gestor.
+
+
+Art. 48.
+
+O Órgão Gestor poderá explorar propaganda no interior ou exterior dos veículos e equipamentos urbanos do transporte coletivo, obedecendo à legislação e regulamentação pertinentes.
+
+
+Art. 49.
+
+Todos os veículos e terminais deverão operar, dependendo de cada caso, com tacógrafo ou similar de registro diário aferido, validador de cartão eletrônico e contador de passageiros lacrado, iluminação interna e externa, iluminação de letreiros indicativos, campainha, extintor de incêndio, silenciador de ruído do escapamento, nível de emissão de poluentes e sonorização interna, dentro dos padrões legais ou determinados e, ainda, sistema de posicionamento georeferenciado, sistema de transmissão de informações, câmeras de monitoramento e outros equipamentos obrigatórios que vierem a ser determinados pelo Órgão Gestor, todos em condições perfeitas de funcionamento.
+
+
+Parágrafo único
+
+Os equipamentos de controle e informações aos usuários serão estendidos para os equipamentos urbanos.
+
+
+Art. 50.
+
+Todos os veículos em operação deverão ser registrados no Órgão Gestor, de acordo com as normas, características e especificações técnicas fixadas pela mesma, bem como satisfazer às normas do Código de Trânsito Brasileiro - CTB, Conselho Nacional de Trânsito - CONTRAN, Instituto Nacional de Metrologia - INMETRO e Associação Brasileira de Normas Técnicas - ABNT.
+
+
+#### CAPÍTULO VII — DA GARAGEM
+
+
+Art. 51.
+
+A garagem deverá ter dimensões, instalações e equipamentos compatíveis ao adequado desempenho das funções de guarda, estacionamento, limpeza, manutenção preventiva e corretiva da frota, conforme Edital.
+
+
+#### CAPÍTULO VIII — DAS ALTERAÇÕES E OCORRÊNCIAS
+
+
+Art. 52.
+
+Ocorrendo interrupção de viagem por pane, acidente, ou qualquer outro motivo, ficará caracterizado o não cumprimento da Ordem de Serviço, devendo a concessionária providenciar a imediata substituição do equipamento avariado e o transporte dos passageiros, sem ônus adicionais até o primeiro horário subsequente.
+
+
+Art. 53.
+
+O não cumprimento de qualquer item da Ordem de Serviço, por qualquer motivo, ainda que fora do alcance da concessionária ou por inadequação da Ficha Técnica, deverá obrigatoriamente ser comunicado ao Órgão Gestor, no prazo de 24 (vinte e quatro) horas a partir da ocorrência.
+
+
+§ 1º
+
+A comunicação de que trata o caput deste artigo se fará através de relatório, circunstanciando a ocorrência, os motivos e as medidas tomadas pela concessionária.
+
+
+§ 2º
+
+A comunicação referida no parágrafo anterior não isenta a concessionária das penalidades eventualmente cabíveis ao caso.
+
+
+§ 3º
+
+Independentemente do motivo da ocorrência e da ação ou omissão da concessionária constituir ou não infração, o não cumprimento da comunicação de que trata o caput deste artigo, na forma e prazo estipulados, constituirá infração pela qual a concessionária será penalizada, ainda que cumulativamente.
+
+
+Art. 54.
+
+O desempenho dos serviços será continuamente avaliado pelo Órgão Gestor, que determinará as medidas preventivas e corretivas que julgar adequadas.
+
+
+Art. 55.
+
+É dever da concessionária encaminhar ao Órgão Gestor sugestões para melhoria dos serviços ou para sua economicidade.
+
+
+Parágrafo único
+
+Constitui obrigação do Órgão Gestor analisar detalhadamente as sugestões da concessionária acolhendo-as ou não, caso em que circunstanciará os motivos do indeferimento.
+
+
+### TÍTULO VI — DA ARRECADAÇÃO TARIFÁRIA
+
+
+#### CAPÍTULO I — DA TARIFA
+
+
+Art. 56.
+
+A tarifa cobrada dos usuários constitui receita das contratadas do Sistema de Bilhetagem Eletrônica e será recolhida e distribuída por quem compete.
+
+
+Art. 57.
+
+O Poder Executivo fixará a tarifa com base na planilha de custos do sistema, procedida de proposta do Órgão Gestor, podendo a tarifa ser única, variável ou exclusiva, de acordo com o serviço contratado.
+
+
+Parágrafo único
+
+Os serviços de atendimentos especiais poderão ter as tarifas exclusivas, de acordo com os seus custos.
+
+
+Art. 58.
+
+O custo dos serviços de transporte contratados, resultado do processo licitatório, relacionado aos passageiros pagantes equivalentes do Sistema de Transporte Coletivo, definirá uma tarifa técnica, que será a base principal do equilíbrio econômico do sistema.
+
+
+Art. 59.
+
+São itens da planilha para efeito da remuneração das contratadas:
+
+
+I –
+
+Custo Operacional;
+
+
+II –
+
+Custo de Capital;
+
+
+III –
+
+Custo de Administração;
+
+
+IV –
+
+Justa Remuneração do Capital; e
+
+
+V –
+
+Custo Tributário.
+
+
+§ 1º
+
+Considera-se Custo Operacional, os custos com combustível, lubrificantes, rodagem, peças e acessórios, pessoal vinculado à operação do serviço, arrecadação automática de tarifas, serviços de terceiros relativos à guarda, conservação e manutenção, incluindo materiais empregados na manutenção e higienização de veículos, pessoal de manutenção, pessoal de tráfego e apoio operacional, encargos e benefícios sociais, impostos, taxas e uniformes, dentre outros.
+
+
+§ 2º
+
+Considera-se Custo de Capital, a remuneração e depreciação do capital investido na frota de veículos, em equipamentos de acessibilidade, prédios, máquinas, ferramentas e instalações, almoxarifado, atualização tecnológica, aquisição de sistemas e equipamentos de informática, inclusive embarcados em veículos da frota e demais infraestrutura da seguinte forma:
+
+
+I –
+
+A remuneração do capital será mensal e incidirá sobre o valor remanescente do capital aplicado em veículos, máquinas, equipamentos, ferramentas, almoxarifados, prédios e instalações, sendo que para o caso dos veículos serão deduzidos 10% (dez por cento) do valor a título de valor residual.
+
+
+II –
+
+A base referencial para a remuneração do capital será o juro oficial vigente na data da apuração dos custos que implicarem na revisão do cálculo tarifário.
+
+
+III –
+
+A depreciação deverá ser suficiente para provisionar a reposição dos bens imobilizados na prestação dos serviços ao longo da vida útil do mesmo.
+
+
+IV –
+
+O valor residual deverá ser definido em função dos ordenamentos tributários e contábeis vigentes.
+
+
+§ 3º
+
+Considera-se Custo de Administração as despesas e demais gastos decorrentes do desempenho das funções administrativas, metodológicas, organizacionais e de gestão necessárias à plena execução dos serviços, dentre outras despesas afins, bem como os gastos com veículos de apoio, segurança patrimonial, consultorias, assessorias, seguros, pessoal administrativo, honorários da diretoria, assistência e comunicação social.
+
+
+§ 4º
+
+Inclui-se como Custo de Administração, também aquelas decorrentes do processo de comercialização, distribuição e controle dos meios de acesso aos serviços públicos de transporte coletivo, bem como do monitoramento operacional, gestão de riscos e segurança do passageiro.
+
+
+§ 5º
+
+Considera-se Custo Tributário, os tributos que efetivamente incidirem sobre a prestação dos serviços públicos de transporte coletivo urbano e nas receitas geradas pelo mesmo.
+
+
+Art. 60.
+
+Da receita da exploração do sistema, 99% (noventa e nove por cento) serão destinados à conta específica para remuneração dos Concessionários e 1% (um por cento) será destinado a conta específica, em nome do Órgão Gestor, à título de administração do sistema para ser investido em melhorias e aperfeiçoamento do Sistema de Transporte Coletivo.
+
+
+Parágrafo único
+
+Serão apropriados em conta específica os valores oriundos de penalidades pecuniárias impostas às Concessionárias e outros recursos, especificamente para a melhoria do sistema.
+
+
+### TÍTULO VII — DOS CONTRATOS, REGISTRO E DESISTÊNCIA DAS CONTRATADAS
+
+
+#### CAPÍTULO I — DOS CONTRATOS
+
+
+Art. 61.
+
+Os contratos para a execução dos serviços de que trata este Regulamento devem estabelecer, com clareza e precisão, as condições para sua execução expressas em cláusulas que definam os direitos, obrigações e responsabilidades das partes, em conformidade com os termos da licitação e das propostas a que se vinculam, sendo cláusulas necessárias as previstas no art. 23, da Lei Federal nº 8.987, de 13 de fevereiro de 1995, bem como as a seguir arroladas:
+
+
+I –
+
+objeto, seus elementos característicos, e prazos da concessão;
+
+
+II –
+
+regime de execução ou a forma de fornecimento;
+
+
+III –
+
+critério de fixação do valor da remuneração e as condições de pagamento;
+
+
+IV –
+
+os direitos, garantias e obrigações da Administração Pública e dos operadores, em relação às alterações e expansões a serem realizadas no futuro, para garantir a continuidade da prestação do serviço;
+
+
+V –
+
+os direitos dos usuários, notadamente aqueles referentes à qualidade do serviço e da segurança dos mesmos;
+
+
+VI –
+
+os prazos de início de etapas de execução, conforme o caso;
+
+
+VII –
+
+as garantias oferecidas para assegurar sua plena execução, quando exigidas;
+
+
+VIII –
+
+as penalidades contratuais e administrativas a que se sujeita a contratada e sua forma de aplicação;
+
+
+IX –
+
+os critérios e as fórmulas de cálculo das amortizações e depreciações de investimentos que se fizerem necessários;
+
+
+X –
+
+os bens de uso exclusivo nos serviços de transporte coletivo de passageiros;
+
+
+XI –
+
+os casos de rescisão;
+
+
+XII –
+
+a legislação aplicável à execução do contrato e especialmente aos casos omissos;
+
+
+XIII –
+
+a obrigação da contratada de manter, durante toda a sua execução, em compatibilidade com as obrigações por ela assumidas, todas as condições de habilitação e qualificação exigidas na licitação;
+
+
+XIV –
+
+o estabelecimento de que os casos omissos serão decididos pelo Órgão Gestor, após manifestação das contratadas;
+
+
+XV –
+
+o estabelecimento de que para dirimir as questões oriundas do contrato, o foro competente será o da comarca de Foz do Iguaçu, Estado do Paraná.
+
+
+Art. 62.
+
+Incumbe à contratada a execução do serviço delegado, cabendo-lhe responder por todos os prejuízos causados, por dolo ou culpa, devidamente comprovados em processo administrativo, à Administração Pública, aos usuários ou a terceiros, sem que a fiscalização exercida pelo órgão competente exclua ou atenue essa responsabilidade.
+
+
+§ 1º
+
+Sem prejuízo da responsabilidade a que se refere o "caput" deste artigo, a contratada poderá pactuar com terceiros o desenvolvimento de atividades inerentes, acessórias ou complementares ao serviço concedido, bem como a implementação de projetos associados, desde que previamente autorizados pelo Órgão Gestor.
+
+
+§ 2º
+
+Os contratos celebrados entre a contratada e terceiros a que se refere o parágrafo anterior reger-se-ão pelas normas do direito privado, não se estabelecendo qualquer relação jurídica entre os terceiros e a Administração Pública.
+
+
+§ 3º
+
+A execução das atividades contratadas com terceiros pressupõe o cumprimento das normas estabelecidas neste Regulamento ou em outras normas complementares emitidas pelo Órgão Gestor.
+
+
+#### CAPÍTULO II — DA DESISTÊNCIA DE OPERAÇÃO PELA CONTRATADA
+
+
+Art. 63.
+
+Caso a empresa contratada não demonstre interesse em prosseguir com a operação das linhas, deverá notificar o Órgão Gestor com antecedência mínima de 90 (noventa) dias.
+
+
+Art. 64.
+
+O Poder Concedente poderá requisitar a frota, equipamentos e instalações da empresa desistente até novo processo licitatório, a partir da data da notificação, caso necessário, a fim de evitar a solução de continuidade dos serviços.
+
+
+Art. 65.
+
+O Poder Concedente e a empresa desistente estabelecerão em instrumento próprio as obrigações operacionais, administrativas e financeiras, para o período que perdurar a imissão de posse.
+
+
+Parágrafo único
+
+O disposto neste artigo aplica-se a qualquer caso de imissão de posse pela Administração Pública.
+
+
+#### CAPÍTULO III — DA ASSUNÇÃO PELO PODER PÚBLICO
+
+
+Art. 66.
+
+O serviço público de transporte coletivo de passageiros será prestado sem solução de continuidade, cabendo ao Poder Concedente assumir o serviço ocorrido ou havendo receio de que venha ocorrer sua interrupção, suspensão ou diminuição, e ainda, nos casos de guerra, perturbação da ordem ou calamidade pública.
+
+
+§ 1º
+
+Considera-se interrupção do serviço a superveniência de evento que signifique a paralisação da metade ou mais dos meios utilizados pela Concessionária na prestação dos serviços, sem previsão de retorno à normalidade ou decidida impossibilidade de retorno à normalidade.
+
+
+§ 2º
+
+Considera-se suspensão do serviço a superveniência de evento que signifique a paralisação de metade ou mais dos meios utilizados pelas Concessionárias na prestação do serviço com prazo estimado para retorno à normalidade.
+
+
+§ 3º
+
+Considera-se diminuição do serviço a respectiva prestação com o emprego de menos de 90% (noventa por cento) dos meios previstos para sua operação, tais como definidos em atos legais do Poder Concedente.
+
+
+Art. 67.
+
+A assunção do serviço prevista no art. 66 será decidida pelo Prefeito Municipal por proposta do chefe do Órgão Gestor.
+
+
+§ 1º
+
+O Poder Concedente, na hipótese de assunção do serviço, poderá utilizar meios próprios ou de terceiros contratados, ou ainda, os meios utilizados pela Concessionária na respectiva prestação.
+
+
+§ 2º
+
+Os meios a que se refere o § 1º deste artigo, incluem os bens materiais, imateriais e os serviços de quaisquer natureza necessários à operação do transporte coletivo.
+
+
+§ 3º
+
+Os meios indispensáveis que a Concessionária utilizar na prestação do serviço, tais como ônibus, garagem, estoques, pessoal e outros, ficam, necessariamente, vinculados à prestação do serviço e à permanente disposição do Poder Público para fins deste artigo.
+
+
+Art. 68.
+
+Para os efeitos do art. 68 deste Regulamento, a Concessionária está obrigada a incluir, em todos os contratos que celebrar com terceiros, e que tenham por objeto ou se relacione de qualquer modo com os meios utilizados ou que serão destinados à prestação do serviço, cláusula que expresse a ciência desse terceiro contratante quanto à vinculação de tais meios à prestação do serviço público de transporte coletivo do Município.
+
+
+Art. 69.
+
+A ocorrência de caso fortuito ou força maior não inibe o Poder Público de assumir o serviço para assegurar sua continuidade, produzindo efeitos apenas quanto à faculdade de considerar ou não rescindidos o contrato de concessão.
+
+
+Art. 70.
+
+Ocorrendo a assunção dos serviços por parte do Município, a Concessionária não terá direito a qualquer indenização, quer pela rescisão do contrato de concessão, quer pela utilização de seus meios pelo Município.
+
+
+§ 1º
+
+O Município, assumindo o serviço, assume também o seu custeio, ficando responsável pelo pagamento das despesas e encargos estritamente necessários à continuidade da sua prestação, ainda que lançados em nome da Concessionária.
+
+
+§ 2º
+
+O Município não responde por obrigações da Concessionária, ainda que decorrentes da prestação do serviço, desde que anterior ou posterior àquele em que o serviço for operado pelo Município.
+
+
+§ 3º
+
+Fica vedado ao Município o pagamento de qualquer importância, ainda que caracterizada como obrigação da Concessionária, a seus sócios, empregados e outros quaisquer, que não sejam essenciais para a operação do serviço por parte do Município, mesmo que a Concessionária tenha se obrigado em decorrência da operação do serviço.
+
+
+### TÍTULO VIII — DAS PENALIDADES E EXTINÇÃO CONTRATUAIS
+
+
+Art. 71.
+
+Extingue-se o contrato nos seguintes casos:
+
+
+I –
+
+advento do termo do contrato;
+
+
+II –
+
+encampação;
+
+
+III –
+
+caducidade;
+
+
+IV –
+
+rescisão;
+
+
+V –
+
+anulação; e
+
+
+VI –
+
+falência da contratada, sua extinção, ou, a critério exclusivo do Órgão Gestor, abertura de processo de recuperação.
+
+
+§ 1º
+
+Extinto o contrato, retornam à Administração Pública todos os bens reversíveis, direitos e privilégios transferidos à contratada, conforme previsto no edital e estabelecido no contrato.
+
+
+§ 2º
+
+Não são considerados bens reversíveis para efeito deste Regulamento:
+
+
+I –
+
+os veículos e a frota de ônibus, salvo veículos cuja configuração técnica exigir operação exclusiva dentro das exigências do Sistema de Transporte Coletivo de Foz do Iguaçu;
+
+
+II –
+
+a garagem, incluindo terreno, benfeitorias e pátio de estacionamento, utilizados pela contratada que não forem de propriedade do Poder Concedente;
+
+
+III –
+
+prédios, instalações e equipamentos mobilizados pela contratada, para uso direto ou indireto na execução dos serviços, que não forem de propriedade do Poder Concedente.
+
+
+Art. 72.
+
+Pelo não cumprimento das disposições constantes neste Regulamento e das demais normas legais aplicáveis, bem como do edital e do contrato, observado o disposto na Lei Federal nº 8.987/1995, serão aplicadas aos contratados do sistema, as seguintes penalidades:
+
+
+I –
+
+advertência escrita;
+
+
+II –
+
+multa contratual;
+
+
+III –
+
+apreensão ou retenção do veículo;
+
+
+IV –
+
+intervenção, no caso de concessão; e
+
+
+V –
+
+rescisão do contrato.
+
+
+Art. 73.
+
+Cometidas 2 (duas) ou mais infrações, independentemente de sua natureza, aplicar-se-ão concomitantemente as penalidades correspondentes a cada uma delas.
+
+
+Art. 74.
+
+A autuação não desobriga o infrator de corrigir a falta que lhe deu origem.
+
+
+Art. 75.
+
+Aplicam-se subsidiariamente ao processo administrativo de imposição de multas, as normas que regem o processo administrativo fiscal do Município de Foz do Iguaçu, no que couber.
+
+
+Art. 76.
+
+Em todos os processos de aplicação de penalidades assegurar-se-á defesa e contraditório ao acusado de infração.
+
+
+Art. 77.
+
+A penalidade de advertência escrita para a empresa contratada conterá determinações das providências necessárias para o saneamento da irregularidade que lhe deu origem.
+
+
+Art. 78.
+
+A penalidade de multa está fixada em valor correspondente a determinado número de Unidades Fiscais do Município de Foz do Iguaçu, conforme definido neste Regulamento.
+
+
+Parágrafo único
+
+Os valores das multas dados em Unidades Fiscais serão transformados em moeda corrente na data de sua cobrança.
+
+
+Art. 79.
+
+A penalidade de apreensão ou retenção do veículo ou a determinação do seu recolhimento será aplicada sem prejuízo da multa cabível, quando:
+
+
+I –
+
+estiver o motorista dirigindo alcoolizado ou sob o efeito de substância tóxica;
+
+
+II –
+
+o veículo não oferecer condições de segurança, colocando em perigo iminente, passageiros ou terceiros;
+
+
+III –
+
+não estiver funcionando o dispositivo de controle de passageiros;
+
+
+IV –
+
+o veículo estiver operando com o lacre do dispositivo de controle de passageiros violado;
+
+
+V –
+
+o veículo estiver operando sem a devida licença do Órgão Gestor;
+
+
+VI –
+
+o veículo estiver operando com vazamento de combustível ou óleo lubrificante na via;
+
+
+VII –
+
+o veículo estiver operando com níveis de emissão de fumaça acima dos limites definidos em legislação; e
+
+
+VIII –
+
+o veículo estiver operando, depois de notificado, diferentemente do estabelecido pela Ordem de Serviço.
+
+
+Parágrafo único
+
+Nos casos previstos nos incisos I e II, a apreensão do veículo se fará em qualquer ponto do itinerário da linha, enquanto que no caso dos incisos III, IV, V, VI, VII e VIII, a retenção será efetivada nos pontos de controle de horário, devendo o veículo ser recolhido ao Pátio Municipal de Recolhimento de Veículos para serem tomadas as providências cabíveis.
+
+
+Art. 80.
+
+Do ato da intervenção deverá constar:
+
+
+I –
+
+os motivos da intervenção e sua necessidade;
+
+
+II –
+
+prazo da intervenção;
+
+
+III –
+
+as instruções e regras que orientarão a intervenção; e
+
+
+IV –
+
+o nome do interventor que, representando a Administração Pública, coordenará a intervenção.
+
+
+Art. 81.
+
+No período de intervenção, a Administração Pública assumirá total ou parcialmente o serviço passando a controlar os meios materiais e humanos que a contratada utiliza, assim entendidos o pessoal, os veículos, as garagens, as oficinas e todos os demais meios empregados, necessários à operação.
+
+
+Art. 82.
+
+Cessada a intervenção, se não for extinto o contrato, a administração do serviço será devolvida à contratada, precedida de prestação de contas pelo interventor, que responderá pelos atos praticados durante a sua gestão.
+
+
+Art. 83.
+
+Sob pena de rescisão de contrato, às contratadas não serão permitidas ameaças de interrupção, nem a solução de continuidade ou a deficiência grave na prestação do Serviço de Transporte Coletivo Público de Passageiros, que deverá estar permanentemente à disposição do usuário.
+
+
+Parágrafo único
+
+Para assegurar a adequada prestação do serviço ou para sanar deficiência grave na respectiva prestação, bem como o fiel cumprimento das normas contratuais regulamentares e legais pertinentes, o Órgão Gestor poderá intervir na operação do serviço.
+
+
+Art. 84.
+
+Considera-se deficiência grave na prestação do serviço para efeito deste Regulamento:
+
+
+I –
+
+a reiterada inobservância dos dispositivos contidos na regulamentação do serviço, tais como os concernentes ao itinerário ou horário determinado, salvo por motivo de força maior;
+
+
+II –
+
+o não atendimento de notificação expedida pela Administração Pública para retirar de circulação veículo considerado em condições inadequadas para o serviço;
+
+
+III –
+
+o descumprimento da legislação, de modo a comprometer a continuidade dos serviços executados;
+
+
+IV –
+
+o descumprimento pela contratada de suas obrigações tributárias, previdenciárias e trabalhistas;
+
+
+V –
+
+a ocorrência de irregularidades contábeis, fiscais e administrativas, que possam interferir na execução dos serviços prestados;
+
+
+VI –
+
+a ocorrência de fatos e situações que violem os direitos dos usuários;
+
+
+VII –
+
+a falta de controle interno, produzindo entre outras irregularidades a evasão de receita;
+
+
+VIII –
+
+o reiterado não pagamento das multas emitidas pelo Órgão Gestor após seu trânsito em julgado;
+
+
+IX –
+
+a perda dos requisitos de capacidade técnica ou administrativa;
+
+
+X –
+
+a realização de "lockout", ainda que parcial;
+
+
+XI –
+
+entrar em processo de dissolução legal;
+
+
+XII –
+
+a retenção indevida quantias da arrecadação pública;
+
+
+XIII –
+
+a transferência da operação dos serviços sem prévio e expresso consentimento do Órgão Gestor;
+
+
+XIV –
+
+o descumprimento reiterado das determinações do Órgão Gestor,
+
+
+XV –
+
+o descumprimento das determinações estabelecidas na advertência escrita; e
+
+
+XVI –
+
+deixar de tomar medidas necessárias para colocar em operação a quantidade mínima de veículos em período de greve, estabelecido legalmente para serviços essenciais.
+
+
+Art. 85.
+
+Executada a rescisão de contrato, o Poder Concedente poderá imitir-se na posse dos bens objeto do contrato, até novo processo licitatório.
+
+
+Art. 86.
+
+Na hipótese de rescisão por interesse da administração, caberá à contratada, indenização na forma do disposto pelos § 3º a 6º, do art. 42, da Lei nº 8.987, de 13 de fevereiro de 1995, com a nova redação que lhe foi dada pelo art. 58, da Lei nº 11.445, de 5 de janeiro de 2007.
+
+
+Art. 87.
+
+A execução de qualquer serviço de transporte de passageiros, sem a devida delegação ou autorização do Poder Concedente, tipifica ato ilegal e clandestino, sujeitando seu autor às sanções legais.
+
+
+### TÍTULO IX — DAS INFRAÇÕES, DO PROCESSO DE MULTA E DEMAIS PROCEDIMENTOS
+
+
+#### CAPÍTULO I — DAS INFRAÇÕES
+
+
+Art. 88.
+
+As infrações cometidas pelos motoristas serão classificadas conforme o disposto no Anexo II, Tabela A, deste Decreto.
+
+
+Art. 89.
+
+As infrações cometidas pelos cobradores serão classificadas conforme o disposto no Anexo II, Tabela B, deste Decreto.
+
+
+Art. 90.
+
+As infrações cometidas pelos fiscais da empresa concessionária serão classificadas conforme o disposto no Anexo II, Tabela C, deste Decreto.
+
+
+Art. 91.
+
+As infrações cometidas pela empresa concessionária serão classificadas conforme o disposto no Anexo II, Tabela D, deste Decreto.
+
+
+#### CAPÍTULO II — DA FORMALIZAÇÃO
+
+
+Art. 92.
+
+O procedimento para a aplicação de penalidade de multa iniciar-se-á por auto de infração, lavrado pelo Órgão Gestor, com base nos registros de ocorrência emitidos pelos seus agentes de fiscalização.
+
+
+Parágrafo único
+
+O auto de infração será lavrado, contendo as seguintes informações:
+
+
+I –
+
+o número de ordem do auto de infração;
+
+
+II –
+
+a indicação da empresa contratada infratora;
+
+
+III –
+
+o número da comunicação emitida pelo agente de fiscalização;
+
+
+IV –
+
+o local, data e hora da infração;
+
+
+V –
+
+o número de ordem do veículo ou do dispositivo de controle de passageiros;
+
+
+VI –
+
+o dispositivo legal violado e a descrição sumária da infração cometida;
+
+
+VII –
+
+o referencial de valor de multa; e
+
+
+VIII –
+
+a assinatura do representante credenciado do Órgão Gestor.
+
+
+Art. 93.
+
+Formalizado o auto de infração encaminhar-se-á uma cópia do mesmo à contratada infratora, com prova de recebimento, para que a referida, querendo, ofereça a competente defesa.
+
+
+Parágrafo único
+
+A Órgão Gestor deverá remeter o auto de infração à contratada no prazo máximo de 30 (trinta) dias após a constatação do ato infracional.
+
+
+#### CAPÍTULO III — DAS PENALIDADES
+
+
+Art. 94.
+
+Para aplicação de penalidades das infrações dos artigos deste Regulamento, deverá ser observada a seguinte codificação:
+
+
+I –
+
+M: Motorista;
+
+
+II –
+
+C: Cobrador;
+
+
+III –
+
+F: Fiscal da Empresa Concessionária;
+
+
+IV –
+
+O: Empresa Concessionária;
+
+
+V –
+
+A: Infração correspondente: 01 UFFI´s;
+
+
+VI –
+
+B: Infração correspondente: 03 UFFI´s; e
+
+
+VII –
+
+C: Infração correspondente: 05 UFFI´s.
+
+
+#### CAPÍTULO IV — DA DEFESA, PRAZOS E RECURSOS
+
+
+Art. 95.
+
+Para a apresentação da defesa por escrito de autos de infração, deverá ser formalizado processo, protocolado no Órgão Gestor, seguindo os seguintes procedimentos:
+
+
+I –
+
+o número máximo de autos de infração por processo é de 30 (trinta), devendo as infrações iguais serem agrupadas no mesmo processo; e
+
+
+II –
+
+os autos de infração deverão ser juntados em rigorosa ordem numérica crescente, ordem essa que deverá ser a mesma no discriminativo da defesa;
+
+
+III –
+
+poderão ser juntados documentos, se comprovarem as justificativas da defesa.
+
+
+Art. 96.
+
+O autuado poderá apresentar defesa por escrito, ao Diretor de Transportes Públicos do Órgão Gestor, em primeira instância, no prazo máximo de 15 (quinze) dias, contados a partir do dia subsequente à data em que tomar ciência do auto de infração.
+
+
+§ 1º
+
+Apresentada a defesa, a Órgão Gestor promoverá as diligências necessárias aos esclarecimentos dos fatos, proferindo afinal o julgamento, no prazo máximo de 6 (seis) meses.
+
+
+§ 2º
+
+Julgado improcedente o auto de infração, arquivar-se-á o processo.
+
+
+§ 3º
+
+Julgado procedente o auto de infração, cabe recurso ao Diretor Superintendente, em segunda instância, no prazo de 15 (quinze) dias, contados a partir do dia subsequente à data em que for cientificado da decisão.
+
+
+§ 4º
+
+Caberá recurso em segunda instância apenas se apresentado fato novo. Promovidas as diligências necessárias, será proferido afinal o julgamento no prazo máximo de 6 (seis) meses.
+
+
+Art. 97.
+
+O infrator terá um prazo de 15 (quinze) dias para o pagamento das multas, a partir do dia subsequente:
+
+
+I –
+
+ao do recebimento do auto de infração, quando não houver apresentação de defesa;
+
+
+II –
+
+ao do conhecimento da decisão que não acolher defesa se não apresentar recurso;
+
+
+III –
+
+ao do conhecimento da decisão que não acolher recurso.
+
+
+Parágrafo único
+
+A contratada pode repassar aos seus empregados as multas consignadas como responsabilidade destes.
+
+
+Art. 98.
+
+O não recolhimento das multas dentro do prazo previsto implicará em 50% (cinquenta porcento) sobre o valor da infração, sem prejuízo da aplicação das demais penalidades definidas neste Regulamento.
+
+
+#### CAPÍTULO V — DA INTERDIÇÃO DO VEÍCULO
+
+
+Art. 99.
+
+O veículo será interditado, por até 30 (trinta) dias, nos seguintes casos:
+
+
+I –
+
+substituir catracas sem a presença do fiscal do Órgão Gestor;
+
+
+II –
+
+prestar serviço com veículo não registrado no Órgão Gestor;
+
+
+III –
+
+prestar serviço com selo de vistoria adulterado;
+
+
+IV –
+
+prestar serviço com veículo sem condições de segurança; e
+
+
+V –
+
+prestar serviço com veículo abalroado.
+
+
+#### CAPÍTULO VI — DA SUSPENSÃO DA EMPRESA OU LINHA
+
+
+Art. 100.
+
+A empresa Concessionária poderá ser suspensa por até 60 (sessenta) dias nos seguintes casos:
+
+
+I –
+
+deixar de manter atualizados e em perfeitas condições, segundo as normas do Órgão Gestor, o controle de passageiros transportados, receita arrecadada, quilometragem percorrida, apropriação de custos, planos de contas e viagens realizadas;
+
+
+II –
+
+deixar de informar previamente ao Órgão Gestor as alterações de localização de quaisquer instalações da empresa;
+
+
+III –
+
+reincidência na infração O.B. 02;
+
+
+IV –
+
+reincidência na infração O.B. 05;
+
+
+V –
+
+reincidência na infração O.C. 06; e
+
+
+VI –
+
+observado alto nível de reincidência de infrações.
+
+
+§ 1º
+
+No caso da suspensão prevista no inciso V, a mesma incidirá sobre a linha cuja Ordem de Serviço não está sendo cumprida.
+
+
+§ 2º
+
+Nos casos de suspensão o Poder Concedente autorizará, durante o período de suspensão, outra empresa a operar as linhas suspensas.
+
+
+#### CAPÍTULO VII — DA CASSAÇÃO
+
+
+Art. 101.
+
+O Município de Foz do Iguaçu procederá a cassação da empresa Concessionária que:
+
+
+I –
+
+deixar de efetivar a escrituração contábil, ou de elaborar e apresentar os mapas e demonstrativos que lhe forem exigidos;
+
+
+II –
+
+deixar de manter as exigências mínimas de capacidade técnica, operacional, administrativa e financeira exigidas, bem como, de idoneidade;
+
+
+III –
+
+deixar de arquivar no Registro Comercial todas as alterações de seus atos constitutivos e estatutos ou deixar de encaminhar cópias das mesmas ao Órgão Gestor dentro de 10 (dez) dias; e
+
+
+IV –
+
+deixar de submeter previamente ao Órgão Gestor quaisquer alterações em qualquer item de seu cadastro registrado junto ao Poder Concedente.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 102.
+
+A empresa Concessionária é responsável pelas infrações cometidas por seus funcionários.
+
+
+Art. 103.
+
+No caso de reincidência a penalidade será dobrada e cumulativa.
+
+
+Art. 104.
+
+Cabe ao Órgão Gestor a competência para a imposição de multa ou interdição do equipamento, em face às comunicações feitas pelos fiscais, pelas autoridades ou pelos usuários.
+
+
+§ 1º
+
+Cabe ao Diretor Superintendente do Órgão Gestor a determinação da suspensão da empresa Concessionária.
+
+
+§ 2º
+
+Cabe ao Prefeito Municipal a determinação da cassação da empresa Concessionária.
+
+
+### TÍTULO X — DOS DIREITOS E DEVERES DOS USUÁRIOS
+
+
+Art. 105.
+
+São direitos dos usuários do transporte coletivo:
+
+
+I –
+
+receber o serviço adequado;
+
+
+II –
+
+ser conduzido com segurança e urbanidade;
+
+
+III –
+
+ser tratado com respeito pelas contratadas, através de seus prepostos e funcionários, bem como pelos funcionários do Órgão Gestor;
+
+
+IV –
+
+ter o preço das tarifas compatíveis com a qualidade do serviço ofertado;
+
+
+V –
+
+ser transportado em ônibus ou outro modal em boas condições de manutenção e limpeza;
+
+
+VI –
+
+utilizar o transporte coletivo dentro dos horários fixados pelo Órgão Gestor;
+
+
+VII –
+
+ter prioridade, por ocasião do planejamento do sistema de tráfego nas vias públicas, sobre o transporte individual, por meio de faixas exclusivas aos ônibus;
+
+
+VIII –
+
+ter serviço à sua disposição em conformidade com o art. 5º e seu parágrafo; e
+
+
+IX –
+
+ter os direitos estabelecidos em legislações específicas respeitados pelo Órgão Gestor, contratadas e demais usuários.
+
+
+Art. 106.
+
+Para garantir o conforto e a segurança do sistema, as linhas do transporte coletivo serão dimensionadas, admitindo-se passageiros em pé, até o limite de 6 (seis) por metro quadrado.
+
+
+Art. 107.
+
+O Órgão Gestor manterá serviço de atendimento aos usuários para reclamações, sugestões e informações, objetivando a melhoria e o aperfeiçoamento do sistema de transporte.
+
+
+Parágrafo único
+
+Todas as reclamações referentes ao pessoal de operação serão encaminhadas às contratadas e deverão ser atendidas com prazo máximo de 10 (dez) dias, contados do recebimento destas, com resposta ao Órgão Gestor contendo a ciência do responsável pela ocorrência.
+
+
+Art. 108.
+
+São deveres do usuário:
+
+
+I –
+
+contribuir para manter em boas condições os equipamentos urbanos e os veículos através dos quais lhes são prestados os serviços;
+
+
+II –
+
+portar-se de modo adequado, respeitando os demais usuários, fiscais e operadores, mantendo a ordem e bons costumes nos veículos e terminais;
+
+
+III –
+
+pagar a tarifa devida corretamente;
+
+
+IV –
+
+identificar-se quando usuário isento, conforme legislação vigente;
+
+
+V –
+
+contribuir, informando ao Órgão Gestor e ou órgão de segurança quaisquer atos dos operadores ou usuários que venham em prejuízo à sustentabilidade do Sistema, bem como quaisquer atos de vandalismo que possam causar prejuízos ao Sistema de Transporte;
+
+
+VI –
+
+apresentar o cartão transporte ou outro comprovante de passagem à fiscalização do Órgão Gestor, quando solicitado;
+
+
+VII –
+
+não comercializar, panfletar ou pedir esmolas no interior dos veículos, pontos de ônibus e terminais de integração;
+
+
+VIII –
+
+não utilizar o sistema de modo que venha comprometer a higiene dos veículos, terminais ou seus ocupantes; e
+
+
+IX –
+
+não transportar produtos que comprometam a segurança e conforto dos demais usuários.
+
+
+### TÍTULO XI — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+
+Art. 109.
+
+O troco máximo obrigatório será definido para um valor de aproximadamente 10 (dez) vezes o valor da tarifa vigente.
+
+
+Art. 110.
+
+O Órgão Gestor poderá, a qualquer tempo, com base em critérios técnicos e no interesse público, alterar, suprimir ou criar linhas.
+
+
+§ 1º
+
+Os valores máximos de ampliação de linhas em cada lote serão de 25% (vinte e cinco por cento) no tocante ao acréscimo de quilometragem e frota inicialmente contratados, conforme disposto no edital de licitação.
+
+
+§ 2º
+
+Na criação de novos serviços, serão atendidos os critérios da real necessidade técnica em função da demanda e a operação das respectivas linhas será distribuída levando-se em conta a divisão de lotes disposta na licitação.
+
+
+Art. 111.
+
+A qualquer tempo, com base em critérios técnicos e interesse público, o Município poderá determinar a mudança de tecnologia do Sistema de Transporte Coletivo, facultando, porém, prazo hábil para capacitação e habilitação das empresas Concessionárias.
+
+
+Art. 112.
+
+Sem prejuízo da aplicação imediata de todos os dispositivos deste Regulamento, o Órgão Gestor poderá baixar instruções complementares e adicionais, para a execução do presente Regulamento.
+
+
+Art. 113.
+
+Aplicam-se às relações jurídicas previstas neste Regulamento, subsidiariamente as normas de Direito Público, ou as normas de Direito Civil, quando e conforme for o caso.
+
+
+Art. 114.
+
+Os casos omissos serão resolvidos pelas partes envolvidas, ouvido eventualmente, o Conselho Municipal de Transporte.
+
+
+Art. 115.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 116.
+
+Ficam revogadas as disposições em contrário, em especial o Decreto nº 10.460, de 16 de fevereiro de 1996.
+
+
+## Anexo II — Tabelas A, B, C e D
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>TABELA "A" - INFRAÇÕES COMETIDAS PELOS MOTORISTAS</strong></p></td></tr><tr><td><p><strong>Código</strong></p></td><td><p><strong>Descrição da Infração</strong></p></td></tr><tr><td><p>M.A. 01</p></td><td><p>Fumar no interior do veículo</p></td></tr><tr><td><p>M.A. 02</p></td><td><p>Conversar durante o decorrer da viagem</p></td></tr><tr><td><p>M.A. 03</p></td><td><p>Transportar passageiros pendurados nas portas</p></td></tr><tr><td><p>M.A. 04</p></td><td><p>Permitir o transporte de volumes com dimensões superiores a 50x30x12cm</p></td></tr><tr><td><p>M.A. 05</p></td><td><p>Consentir ou fazer uso de aparelhos sonoros no interior do veículo</p></td></tr><tr><td><p>M.A. 06</p></td><td><p>Movimentar o veículo sem receber o sinal do cobrador</p></td></tr><tr><td><p>M.A. 07</p></td><td><p>Estacionar o veículo afastado do meio-fio para embarque e/ou desembarque de passageiros sem motivo justificado</p></td></tr><tr><td><p>M.A. 08</p></td><td><p>Colocar o veículo em movimento com as portas abertas</p></td></tr><tr><td><p>M.A. 09</p></td><td><p>Fazer uso de luz alta dos faróis em vias providas de iluminação pública</p></td></tr><tr><td><p>M.A. 10</p></td><td><p>Dirigir o veículo sem acionar o limpador do para-brisas em dias de chuva</p></td></tr><tr><td><p>M.A. 11</p></td><td><p>Dar sinal de partida com passageiros ainda embarcando</p></td></tr><tr><td><p>M.A. 12</p></td><td><p>Permitir o comércio de ambulantes no interior do veículo</p></td></tr><tr><td><p>M.A. 13</p></td><td><p>Permitir o acesso de pessoas embriagadas ou sob efeitos de substâncias tóxicas no interior do veículo</p></td></tr><tr><td><p>M.B. 01</p></td><td><p>Interromper o itinerário retornando antes do ponto final</p></td></tr><tr><td><p>M.B. 02</p></td><td><p>Faltar com a limpeza dos veículos nos pontos finais e iniciais</p></td></tr><tr><td><p>M.B. 03</p></td><td><p>Provocar discussões com passageiros ou com pessoal de fiscalização</p></td></tr><tr><td><p>M.B. 04</p></td><td><p>Abastecer o veículo com passageiros embarcados</p></td></tr><tr><td><p>M.B. 05</p></td><td><p>Permitir o transporte de animais, exceto cães-guias</p></td></tr><tr><td><p>M.B. 06</p></td><td><p>Parar fora do ponto de embarque/desembarque</p></td></tr><tr><td><p>M.B. 07</p></td><td><p>Não se apresentar devidamente uniformizado</p></td></tr><tr><td><p>M.B. 08</p></td><td><p>Abandonar o veículo sem causa justificada</p></td></tr><tr><td><p>M.C. 01</p></td><td><p>Portar arma de qualquer espécie ou guardá-la no interior do veículo</p></td></tr><tr><td><p>M.C. 02</p></td><td><p>Desobedecer ou opor-se à fiscalização</p></td></tr><tr><td><p>M.C. 03</p></td><td><p>Apresentar-se embriagado ou sob efeito de substâncias tóxicas</p></td></tr><tr><td><p>M.C. 04</p></td><td><p>Deixar de atender sinal de parada</p></td></tr><tr><td><p>M.C. 05</p></td><td><p>Estacionar o veículo fora do ponto final ou inicial, sem motivo justificável</p></td></tr><tr><td><p>M.C. 06</p></td><td><p>Permitir o transporte de material que de alguma forma possa pôr em risco a segurança dos passageiros ou o bem-estar dos mesmos</p></td></tr><tr><td><p>M.C. 07</p></td><td><p>Desenvolver velocidade acima do previsto para a via ou incompatível com o estado de conservação da mesma</p></td></tr><tr><td><p>M.C. 08</p></td><td><p>Disputar corrida com outros veículos do transporte para chegar primeiro em pontos de embarque/desembarque</p></td></tr></tbody></table>
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>TABELA "B" - INFRAÇÕES COMETIDAS PELOS COBRADORES</strong></p></td></tr><tr><td><p><strong>Código</strong></p></td><td><p><strong>Descrição da Infração</strong></p></td></tr><tr><td><p>C.A. 01</p></td><td><p>Fumar no interior do veículo</p></td></tr><tr><td><p>C.A. 02</p></td><td><p>Dar sinal para partida com passageiros embarcando</p></td></tr><tr><td><p>C.A. 03</p></td><td><p>Trabalhar sem a devida atenção</p></td></tr><tr><td><p>C.A. 04</p></td><td><p>Provocar discussões com passageiros ou com pessoal de operação</p></td></tr><tr><td><p>C.A. 05</p></td><td><p>Faltar com a limpeza no interior do veículo nos pontos iniciais e finais</p></td></tr><tr><td><p>C.A. 06</p></td><td><p>Não se apresentar devidamente uniformizado</p></td></tr><tr><td><p>C.A. 07</p></td><td><p>Abandonar seu local de serviço</p></td></tr><tr><td><p>C.A. 08</p></td><td><p>Permitir que outras pessoas utilizem os assentos prioritários, salvo se não houver pessoas que dele necessitem</p></td></tr><tr><td><p>C.C. 01</p></td><td><p>Portar armas de qualquer espécie ou guardá-la no interior do veículo</p></td></tr><tr><td><p>C.C. 02</p></td><td><p>Desobedecer ou se opor à fiscalização</p></td></tr><tr><td><p>C.C. 03</p></td><td><p>Recusar Cartão de Isento</p></td></tr><tr><td><p>C.C. 04</p></td><td><p>Deixar de verificar se a identificação dos detentores dos Cartões Isento, Sênior e Estudante corresponde à pessoa que está utilizando</p></td></tr><tr><td><p>C.C. 05</p></td><td><p>Apresentar-se embriagado ou sob efeito de substâncias tóxicas quando em serviço</p></td></tr><tr><td><p>C.C. 06</p></td><td><p>Cobrar passagem diferente da tabela ou não devolver o troco</p></td></tr></tbody></table>
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>TABELA "C" - INFRAÇÕES COMETIDAS PELOS FISCAIS DA EMPRESA CONCESSIONÁRIA</strong></p></td></tr><tr><td><p><strong>Código</strong></p></td><td><p><strong>Descrição da Infração</strong></p></td></tr><tr><td><p>F.A. 01</p></td><td><p>Pessoal de operação ocupar o local de passageiros no veículo</p></td></tr><tr><td><p>F.A. 02</p></td><td><p>Deixar de manter a ordem entre o pessoal de tráfego nos pontos iniciais ou finais</p></td></tr><tr><td><p>F.A. 03</p></td><td><p>Colocar o veículo em tráfego sem cobradores para atender o serviço</p></td></tr><tr><td><p>F.A. 04</p></td><td><p>Provocar discussões com passageiros, pessoal de operação ou fiscalização</p></td></tr><tr><td><p>F.C. 01</p></td><td><p>Portar arma de qualquer espécie ou guardá-la no interior do veículo</p></td></tr><tr><td><p>F.C. 02</p></td><td><p>Desobedecer ou se opor à fiscalização</p></td></tr><tr><td><p>F.C. 03</p></td><td><p>Apresentar-se embriagado ou sob efeito de substâncias tóxicas quando em serviço</p></td></tr></tbody></table>
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td colspan="2"><p><strong>TABELA "D" - INFRAÇÕES COMETIDAS PELA EMPRESA CONCESSIONÁRIA</strong></p></td></tr><tr><td><p><strong>Código</strong></p></td><td><p><strong>Descrição da Infração</strong></p></td></tr><tr><td><p>O.A.01</p></td><td><p>Falta de iluminação interna ou externa, ou iluminação com defeito</p></td></tr><tr><td><p>O.A.02</p></td><td><p>Falta de extintor de incêndio, em ordem no interior do veículo</p></td></tr><tr><td><p>O.A.03</p></td><td><p>Falta de iluminação no indicador do itinerário ou iluminação defeituosa</p></td></tr><tr><td><p>O.A.04</p></td><td><p>Transitar com placas ilegíveis ou parcialmente encobertas</p></td></tr><tr><td><p>O.A.05</p></td><td><p>Usar descarga livre, bem como silencioso de explosão do motor insuficiente ou defeituoso</p></td></tr><tr><td><p>O.A.06</p></td><td><p>Transitar com defeitos em qualquer dos equipamentos obrigatórios ou a sua falta</p></td></tr><tr><td><p>O.A.07</p></td><td><p>Transitar derramando combustível ou lubrificante em vias públicas</p></td></tr><tr><td><p>O.A.08</p></td><td><p>Transitar com a falta de elementos internos ou defeituosos, como campainha, etc.</p></td></tr><tr><td><p>O.B.01</p></td><td><p>Alterar o itinerário sem prévio consentimento ou sem justificativa</p></td></tr><tr><td><p>O.B.02</p></td><td><p>Executar serviços de transporte de passageiros remunerado sem autorização do Município</p></td></tr><tr><td><p>O.B.03</p></td><td><p>Falta de legenda interna obrigatória ou a existência de inscrição não autorizada</p></td></tr><tr><td><p>O.B.04</p></td><td><p>Transitar com o veículo em mau estado de conservação</p></td></tr><tr><td><p>O.B.05</p></td><td><p>Não entregar ao Órgão Gestor dentro dos prazos estabelecidos, os relatórios, dados e informações rotineiras ou extraordinárias, contendo as informações solicitadas de ordem administrativa, financeira, técnica ou operacional</p></td></tr><tr><td><p>O.B.06</p></td><td><p>Não comunicar ao Órgão Gestor as alterações no quadro de pessoal de operação</p></td></tr><tr><td><p>O.C.01</p></td><td><p>Deixar de comprovar a apólice de seguros em favor de terceiros por danos corporais</p></td></tr><tr><td><p>O.C.02</p></td><td><p>Alterar os pontos de parada sem autorização</p></td></tr><tr><td><p>O.C.03</p></td><td><p>Manter em tráfego veículo cuja retirada de tráfego tenha sido exigida</p></td></tr><tr><td><p>O.C.04</p></td><td><p>Transitar sem nova vistoria depois de reparo ou consequência de acidente grave</p></td></tr><tr><td><p>O.C.05</p></td><td><p>Colocar em tráfego veículo não aprovado em vistoria</p></td></tr><tr><td><p>O.C.06</p></td><td><p>Não cumprir rigorosamente às ordens de serviços emitidas pelo Órgão Gestor</p></td></tr><tr><td><p>O.C.07</p></td><td><p>Deixar de submeter previamente ao Órgão Gestor qualquer alteração na frota ou nas características de cada veículo individualmente</p></td></tr><tr><td><p>O.C.08</p></td><td><p>Deixar de manter treinamento mínimo ao pessoal de operação e manutenção, na forma especificada pelo Órgão Gestor</p></td></tr><tr><td><p>O.C.09</p></td><td><p>Deixar de atender prontamente às determinações do Órgão Gestor, quando da aplicação de penalidades ao pessoal de operação</p></td></tr><tr><td><p>O.C.10</p></td><td><p>Não permitir o acesso de fiscais credenciados pelo Órgão Gestor, aos seus veículos e instalações</p></td></tr><tr><td><p>O.C.11</p></td><td><p>Não permitir o acesso de fiscais designados pelo Órgão Gestor para examinar a escrituração e proceder a tomada de suas contas e parâmetros operacionais, independentemente de aviso prévio, bem como, manter à mão a documentação correspondente</p></td></tr><tr><td><p>O.C.12</p></td><td><p>Deixar de manter reserva de pessoal de operação devidamente uniformizado, na forma definida pela norma complementar do Órgão Gestor</p></td></tr><tr><td><p>O.C.13</p></td><td><p>Transitar com veículo sujo</p></td></tr><tr><td><p>O.C.14</p></td><td><p>Afixar cartazes, avisos ou mensagens de qualquer natureza, no interior do veículo, sem a prévia e expressa autorização do Órgão Gestor</p></td></tr><tr><td><p>O.C.15</p></td><td><p>Operar com catracas ou validadores defeituosas</p></td></tr><tr><td><p>O.C.16</p></td><td><p>Deixar de encaminhar ao Órgão Gestor, no prazo de 24 (vinte e quatro) horas, relatórios detalhados circunstanciando ocorrências que determinam interrupção, atraso ou cancelamento de viagens, bem como os acidentes e outras ocorrências de natureza policial envolvendo seus equipamentos, infra-estrutura ou pessoal de operação</p></td></tr><tr><td><p>O.C.17</p></td><td><p>Para cada viagem regular que seja suspensa ou não cumprida, salvo motivos de força maior devidamente justificados</p></td></tr><tr><td><p>O.C.18</p></td><td><p>Para cada viagem regular atrasada ou adiantada sem motivos justificados</p></td></tr></tbody></table>
+
+***Nota: Este texto não substitui o original publicado no Diário Oficial.***

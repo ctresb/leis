@@ -1,0 +1,42 @@
+{
+  "host": "sapl.espiritosantodoturvo.sp.leg.br",
+  "metadados_unicos_observados": 7,
+  "total_api_declarado": 7,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.espiritosantodoturvo.sp.leg.br/10029b4b6b61b2ef8ef51999242b5d332f34f6d81731a7ebdb5341e2b2a3f227.json",
+    "url": "https://sapl.espiritosantodoturvo.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.espiritosantodoturvo.sp.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "c2fc6de42c26ba81210cf5d90dada846e88981d3d21b802156bebfd384776a69",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T10:29:19.419740-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.espiritosantodoturvo.sp.leg.br/ccb775e667c92e9f2962f41c5a7437b419a240a163e5f176de038b8a8bc8f9fb.json",
+    "url": "https://sapl.espiritosantodoturvo.sp.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.espiritosantodoturvo.sp.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "950f91840860e3b9d4352682970d24732fa599c7fb42f59f3826739493f56a7f",
+    "bytes": 821,
+    "capturado_em": "2026-10-28T10:29:18.368777-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.espiritosantodoturvo.sp.leg.br/b341b12a87e87c0e2674f500ba214d7c32a4b8528dd3bf6b5ded0759d0a2159a.json",
+      "url": "https://sapl.espiritosantodoturvo.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.espiritosantodoturvo.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d8265a2be5ac646049314024e2a9396586b9bd0c3445f948a799a655439edb96",
+      "bytes": 4257,
+      "capturado_em": "2026-10-28T10:29:21.428949-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

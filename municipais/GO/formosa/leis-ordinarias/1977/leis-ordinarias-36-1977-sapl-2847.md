@@ -1,0 +1,85 @@
+---
+titulo: "Lei Ordinária nº 36, de 16 de novembro de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "36"
+data: "1977-11-16"
+municipio: "Formosa"
+uf: "GO"
+codigo_ibge: "5208004"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 1988-04-20; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.formosa.go.leg.br/norma/2847"
+fonte_texto: "https://sapl.formosa.go.leg.br/ta/421/text"
+sha256_fonte: "18a9ee5d941b61c16dc256542c7c640bb1fc92656ecdf7cab0a684a18fbfbfe6"
+sha256_texto: "e8629365d93d9d50676e470ae2f5be162bb896e2600688d73d90cbc2196fadbc"
+capturado_em_fonte: "2026-10-28T12:28:08.983607-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 36, de 16 de novembro de 1977
+
+Autoriza a concessão do serviço público, referente ao transporte coletivo de passageiros, em todo território do Município de Formosa.
+
+
+A CÂMARA MUNICIPAL DE FORMOSA, Estado de Goiás, decretou, e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Nos termos do artigo 41, item XI da nova Lei Orgânica dos Municípios do Estado de Goiás, fica o Chefe do Poder Executivo do Município de Formosa, autorizado a fazer concessão do serviço público, referente à exploração do transporte coletivo de passageiros, em todo o território do Município de Formosa, inclusive, na cidade Formosa, no Distrito da Vila de Santa Rosa e nos Povoados localizados na zona rural.
+
+
+Art. 2º.
+
+A concessão do serviço público e atividades do mesmo de que fala o artigo primeiro desta lei, tem a duração de dez (10) anos, contados, a partir da assinatura do instrumento contratual, pelas partes interessadas.
+
+
+Art. 3º.
+
+No contrato de concessão a ser firmado, com o concessionário, após a necessária licitação pública, o Chefe do Poder Executivo do Município de Formosa, especificará as condições e cláusulas necessárias, com a finalidade de dar perfeito cumprimento à execução dos objetivos autorizados pela presente lei.
+
+
+Parágrafo único.
+
+A minuta do contrato a que se refere este artigo deverá acompanhar à documentação, que ficará à disposição das partes interessadas, para consultas e esclarecimentos.
+
+
+Art. 4º.
+
+Ao concessionário do serviço público de transporte coletivo de passageiros, dentro do território do Município de Formosa, fica reservado o direito de renovação do respectivo contrato de dez em dez anos, sem licitação, caso tenha cumprido com retidão todas as obrigações e cláusulas contratuais.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 114, de 20 de abril de 1988.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 6º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Formosa, Gabinete do Prefeito, na cidade Formosa, em 16 de novembro de 1977.
+
+BACHAREL SEVERIANO BATISTA FILHO
+
+Prefeito Municipal  
+  
+  
+SINVAL GONÇALVES DE OLIVEIRA
+
+Assessor Administrativo
+
+Registrada às fls. do livro próprio.  
+Afixada no “placard” de publicidade.  
+Data Supra  
+  
+  
+EVANDINA GOMES PUGLIANI  
+Aux. de Administração – AD-02
+

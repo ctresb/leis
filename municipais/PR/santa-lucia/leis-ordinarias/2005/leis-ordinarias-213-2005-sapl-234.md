@@ -1,0 +1,167 @@
+---
+titulo: "LEI ORDINÁRIA-EM nº 213, de 22 de fevereiro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "213"
+data: "2005-02-22"
+municipio: "Santa Lúcia"
+uf: "PR"
+codigo_ibge: "4123824"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.santalucia.pr.leg.br/norma/234"
+fonte_texto: "https://sapl.santalucia.pr.leg.br/media/sapl/public/normajuridica/2005/234/lei_213_2005_autoriza_o_executivo_municipal_abrir_credito_especial_no.pdf"
+sha256_fonte: "9d198fe4da01bb93796cf4f78e916ccd1ae35433f3efc54ea1acdfd03d9d73cc"
+sha256_texto: "63443a76d4c23065c00b0abc70e07303848bdbcf5a5aa8e34369753dcfdc1363"
+baixado_em: "2026-10-20"
+---
+
+# LEI ORDINÁRIA-EM nº 213, de 22 de fevereiro de 2005
+
+. PREFEITURA MUNICIPAL DE SANTA LÚCIA ESTADO DO PARANÁ CNPJ 95.594.776/0001-93 Avenida do Rosário, 228 Fone(0\*\*45)2881144 CEP 85795-000 Santa Lúcia - Pr
+
+LEI N° 213/2005 DATA: 22.02.2005. SUMULA: Autoriza o Executivo Municipal abrir Crédito Especial no Orçamento Vigente, no valor R$ 48.000,00(Quarenta e Oito Mil Reais) e dá outras Providencias.
+
+O Prefeito Municipal de Santa Lúcia, Estado do Paraná, faz saber que, a Câmara Municipal aprovou e ele sanciona a seguinte.
+
+LEI
+
+**Art. 1°** - Fica o chefe do Poder Executivo Municipal, autorizado a abrir um Crédito Especial, no Orçamento Geral do Município, no valor de RS 48.000,00 (Quarenta e Oito Mil Reais) na seguinte dotação Orçamentaria:
+
+UNIDADE ORÇAMENTARIA 08.03 FUNDO MUNICIPAL DE SAÚDE Função 10.301.04012-014 - Administração do Depto de Saúde Cat.Econ.2135-^1490.52.00.00 O l 311-EQUIPAMENTO E MAT PERMANENTE 48.000,00
+
+**Art. 2°** - Para cobertura do crédito a ser aberto em conformidade com o Artigo Anterior serão utilizados recursos proveniente do Excesso de Arrecadação conforme demonstrativo em anexo e integrante desta lei de acordo com o inciso II do artigo 43 da Lei Federal 4320/64, a ocorrer na sub alínea 247101010000 - TRANSF CONV UNIÃO PARA SUS- UNIDADE MÓVEL, correspondente documentação em anexo, referente ao Convénio com o Ministério de Saúde.
+
+**Art. 3°** - Esta Lei entra em vigor a partir da sua publicação revogadas as disposições em contrario.
+
+Gabinete do^refeito Municipal de Santa Lúcia, Estado do Paraná em 22 de Fevereiro de 2005.
+
+Renat n dei Prcfei nicipal
+
+.í
+
+PREFEITURA MUNICIPAL DE SANTA LÚCIA ESTADO DO PARANÁ CNP J 95.594.776/0001-93 Avenida do Rosário, 228 Fone(0\*\*45)2881144 CEP 85795-000 Santa Lúcia - Pr
+
+DEMONSTRATIVO DE EXCESSO DE ARRECADAÇÃO Inciso II do Art. 43 da Lei n° 4320/64 de 17 de Março de 1964
+
+A) Base de Tendência
+
+Arrecadação prevista Receita 247101010000-Transf Conv União para SUS-UNID MÓVEL R$ 0,00
+
+B) Demonstrativo do Excesso
+
+- Valor repassado pelo Ministério R$ 48.000,00
+
+- Valor do Excesso de Arrecadação verificado R$ 48.000,00
+
+Santa Lúcia-Pr, em 22 de Fevereiro
+
+Clodoaldo A. Dallazen \*onidandel Dirctor Divisão Contábil Contá CRC-PR 035451/O-0
+
+•\*,-\*\* •
+
+MINISTÉRIO DA SAÚDE SECRETARIA EXECUTIVA FUNDO NACIONAL DE SAÚDE NÚCLEO ESTADUAL DO PARANÁ
+
+OFÍCIO N.° 1896/DICON/Sl-IIAP
+
+Curitiba, 05 uV outubro de 200-1
+
+Senhor Prefeito,
+
+Consta em nosso sistema que o pré-projcto n.° 955947760001000-01 cnconira-se aprovado c concluído, com senha n.° 7H9UYD. Após a verificação, observou-sc que o projclo ainda nílo foi entregue. Portanto, estamos encaminhando os anexos IV.V c VI já imprimidos no sitio w\w\'.fiis,s<iiiiic,£ny,br c os anexos VIII c IX para serem preenchidos c assinados pelo Sr. Prefeito, cm anexo, check list assinalado com o restante dos documentos que deverão completar o projclo. A ausência de rcsposla do interessado no.nrazo.de 5 íçjncoldías úlcjs após o recebimento deste, implicará cm prejuízo na liberação de recurso para este município. Para qualquer esclarecimento ou orientação a respeito do projeto, favor contactar o Sctor de Habilitação e Análise de Projctos pelos lelcfoncs (41) 310.8236 ou 310.8237, ou no endereço: Rua Cândido Lopes, 208 - sala 306- Centro - Curitiba/PR - CEP 80.020-060.
+
+Atenciosamente,
+
+Angelo Chefe da Divisão de Convénios c Gcstao/MS/PR
+
+limo. Sr. ALD1NO DALBEN Prefeito Municipal Avenida do Rosário, 228 - Ccnlro 85795-000 - SANTA LÚCIA - PR
+
+Rua Cândido Lopes, 208 - 3" andar - salas 306/307 - Centro - CEP: SÓ. 020-060 - Curitiba/PR Fone: (41) 310.8236 - 310.8237
+
+PLANO DE TRABALHO MINISTÉRIO DA PROPOSTA ASSISTENCIAL PARA
+
+ANEXO VIII ESTABELECIMENTO ASSISTENCIAL SAÚDE DE SAÚDE (EAS)
+
+01 - NOME DO ÓRGÃO OU ENTIDADE CONVENCNTE, conforme )2- PROCESSO N. °: contido no Cartão do CNPJ. PREFEITURA MUNICIPAL DE SANTA LÚCIA
+
+03-1DENTIFICAÇÃO DO EAS 04-CNPJ DO CAS CENTRO MUNICIPAL DE SAÚDE 95.594.77G/0001-93
+
+05-ENDEREÇO OG. EA 07. TIPO 08. NUMERO DC LEITOS no FAS Existentes Ativndos ~SUS~" Av.Amérlco Mantovani, sn centro SANTA LÚCIA-PR 3 4 >—.—
+
+09 - ÁREA DE ABRANGÉNCIA DO EAS 09.1 - MUNICÍPIOS 09.2 - NUM. PESSOAS 09.3. NUM. LEITOS DO MUNICICIO ITEM NOME ATENDIDAS EXISTENTES SUS 1 SANTA LÚCIA 3.500 18 Ifi
+
+10. IDENTIFICAÇÃO DOS ESPECIALISTAS CARGA MORARIA TIPO DE PROFISSIONAL QUANTIDADE Semanal M<Mi"Wil MÉDICO 01 40
+
+ENFERMEIRA 02 40
+
+MOTORISTA 01 40
+
+MEDICO 01 20
+
+1. AVALIAÇAODA SITUAÇÃO ATUAL DOS SERVIÇOS DE SAÚDE
+
+PRECÁRIA DEFICIENTE RAZOÁVEL SATISFATÓRIA
+
+1.1. OBS.:
+
+FALTA VEICULO PARA TRANSPORTES EMERGENCIAIS 2 AÇPES/ATIVIUAPES PREVISTAS
+
+TRANSPORTE DE PACIENTES DE SANTA LÚCIA A CASCAVEL
+
+ATENDIMENTO GEHAL DE PACIENTES DO MUNICÍPIO E VIAJANTES! PUT-163)
+
+14. AUTENTICAÇÃO
+
+M\_/\_07\_/ 04 AL.miNO DALDEN DATA" NOME DO DIRIGENTE OU DO REPRESENTANTE LEGAL ASSINATURA DO DIRIGENTE OU DO RCPRrSrfJTANTT l TCAL
+
+PLANO DE TRABALHO PROPOSTA DE AQUISIÇÃO DE MINISTÉRIO DA SAÚDE EQUIPAMENTOS E MATERIAL ANEXO IX PERMANENTE POR AMBIENTE E UNIDADE MÓVEL DE SAÚDE ÕT - NOMÊ~DCM!JRGA~Õ OU ENTIDADE PROPONENTE, corrfoime contido no Cailào do CNPJ '2. P H OC L'S 50 N PREFEITURA MUNICIPAL DE SANTA LÚCIA
+
+03. IDENTIFICAÇÃO DO EAS BENEFICIÁRIO" 04 AMHIrNTE CENTRO MUNICIPAL DE SAÚDE EXTERNO TRANSPORTE PAClfNTrS
+
+M RR ACAO PÔS EQUIPAMENTOS E MATERIAL PERMANENTE POR AMDIENTE E UNIDADE M VEL DE SAÚDE nE NOMF E ESPECIFICAÇÃO DO EQUIPAMENTO QUANTIDADE VAI OU IIMIlAlllO Al (III KHAI M
+
+01 NIDADE MÓVEL DE SAÚDE(VEÍCULO TIPO MINIVAN) 1 1.840,00 0-10.00
+
+06. SUBTOTAL /TOTAL 51 IMO (to
+
+07. MANUTENÇÃO PREVENTIVA E CORRETIVA DOS EQUIPAMENTOS A SEREM ADQUIRIDOS, PESSOAL CAPACITADO, ARtA FÍSICA
+
+REALIZAÇÃO PERMANENTE E CONSTANTE DO VEICULO, JUNTO A CONCESSIONÁRIA AUTORIZADA DAS REVISTES NFCtSSAmAS PARA MANTrn FM nrnrriIAr, CONDIÇÕES DE USO, VISTO QUE SERÁ UTILIZADO PARA TRANSPORTES EMERGÊNCIAS DF PACIENTES FM ESTAOO GRAVE Al f M DAS MANUIFN(,OF S NUS EQUIPAMENTOS QUE IRÃO COMPOR A UNIDADE MÓVEL. TAIS COMO( 0ALAO DE OXIGÉNIO. MACAS. E TC )
+
+08- AUTENTICAÇÃO
+
+\_ 04 \_\_ AIJ)INO I)AI4H:N DATA NOME DO DIRIGENTE OU DO REPRESENTANTE LEGAL ASSINATURA DO DIRIGENTE OU DO RCPHESEH1 AflTr
+
+MINISTÉRIO DA PLANO DE TRABALHO
+
+ANEXO IV DESCRIÇÃO DO PROJETO SAÚDE 01 - NOME DO ÓRGÃO OU ENTIDADE 02- CNPJ 03- EXERCÍCIO 04- UF CONVENENTE, conforme contido no Cartfto do 95.594.776/0001- PR CNP3. 93 PREF MUN SANTA LÚCIA 05 - CONDIÇÃO DE GEST\*O DO ESTADO OU MUNICÍPIO 06- DDD 07- FONE 06- FAX 09- E-MAIL 45 208.1144 208.1144 pmsluciaíiícertto com br 10- CONTA CORRENTE 11- BANCO CONVENXADO 12- AGÊNCIA 13- PRAÇA DE 14- UF 001 005312 PAGAMENTO PR 15 - RECURSO ORÇAMENTARIO 16- EMENDA N.°. 17- PARTÍCIPE 18- CNPJ DO
+
+EMENDA 31760018 PARTÍCIPE
+
+19- PROGRAMA 20- ÓRGÃO FINANCIADOR ATENÇÃO BÁSICA EM SAÚDE FNS 21- DESCRIÇÃO SINTÉTICA DO OBJETO AQUISIÇÃO DE UNIDADE MÓVEL DE SAÚDE 22- JUSTIFICATIVA DA PROPOSIÇÃO O NOSSO MUNICÍPIO E PEQUENO E NECESSITAMOS DIARIAMENTE ENVIAR PACIENTES PARA TRATAMENTO DE SAÚDE AO MUNICÍPIO VIZINHO DE CASCAVEL ONDE FAZEMOS PARTE DO CISOPCONSORCIO INTERMUNICIPAL DE SAÚDE DO OESTE DO PARANÁ QUE TRATA DE DIVERSAS ESPECIALIDADES OCORRE QUE NÃO POSSIMOS VEICULO PRÓPRIO DESTINADO AO TRANSPORTE DESTE PACIENTES NECESSITANDO DA LIBERAÇÃO DESTE RECURSOS PARA AQUISIÇÃO DE UM VEICULO PRÓPRIO PARA TRANSPORTE DESTE PACIENTES COM SEGURANÇA E CONFORTOINFORMAMOS QUE A DISTANCIA ENTRE SANTA LÚCIA E CASCAVEL E DE APROXIMADAMENTE 60KMNUMERO APROXIMADAO DE PACIENTES DIÁRIOS 15 A 20 PACIENTES 23- POPULAÇÃO DO MUNICÍPIO («ogundo o último Cen«o do IBGE) 3864
+
+24 -AUTENTICAÇÃO SS \*S ^ ^s&^S f<^ ij Ca Lucia-1'i 18 / Ivj Q 4 s&\* LOCAL DATA ASSINATURA DO DIRIGENTE OU DO SEU REPRESENTANTE LEGAL
+
+,
+
+PLANO DE TRABALHO MINISTÉRIO DA SAÚDE CRONOGRAMA DE EXECUÇÃO E PLANO DE APLICAÇÃO ANEXO V PRÉ-PROJETO: FNS - 95594.776000/1000-01
+
+01 - NOME DO ÓRGÃO OU ENTIDADE PROPONENTE, conforme contido no Cartão do CNPJ. 0 2 - Açáo 0 3 - PROCESSO N.° PREF MUN SANTA LÚCIA
+
+07- INDICADOR FÍSICO 08- PREVISÃO DE EXECUÇÃO 04- META 05- ETAPA/FASE 06- ESPECIFICAÇÃO UNIDADE DE MEDIDA QTD. INÍCIO TÉRMINO 1 1 VEICULQ(MINIVAN) PARA TRANSPORTE DE PACIENTES UNIDADE 1 07/2004 12/2004
+
+PLANO DE APLICAÇÃO 11- 12- 13- SUBTOTAL POR NATUREZA DE GASTO 9- NATUREZA DA DESPESA 10- ESPECIFICAÇÃO CONCEDENTE PROPONENTE (EM RS 1,00) CAPITAL EQUIPAMENTO E MATERIAL PERMANENTE 48.000,00 3.640,00 51.840,00 14- TOTAIS dos valores das despesas correntes e de capital referente\* à 3,840,00 48.000,00 51.840,00 concedente e ao proponente.
+
+15 -AUTENTICAÇÃO ^ ^7 , ^ o.- / - —f - A—^iiil; JJA-O-L.i S&f\*-—"" •<-' " DATA NOME DO DIRIGENTE OU DO SEU REPRESENTANTE LEGAL ASSINATURA DO DIRIGENTE OU DO SEU REPRESENTANTE LEGAL
+
+PLANO DE TRABALHO MINISTÉRIO DA SAÚDE 4f CRONOGRAMA DE DESEMBOLSC^fc ANEXO VI PRÉ-PROJETO: FNS - 95594. 776000/10UO-01
+
+01- NOME DO ÓRGÃO OU ENTIDADE PROPONENTE, conforme contido no Cartão do CNPJ. 02- A cão 03- PROCESSO N.° ?REF MUN SANTA LÚCIA
+
+CONCEDENTE EM (R$ 1,00) 4- ANO 5- META 6- M ÉS TOTAL 2004 1 Julho 48.000,00 TOTAL ACUMULADO DE RECURSOS DA CONCEDENTE (EM R\* 1,00) 48.000,00
+
+PROPONENTE EM (R$ 1,00) 4- ANO 5- META 6- MÊS VALOR 2004 1 Julho 3.840,00 TOTAL ACUMULADO DE RECURSOS DO PROPONENTE (EM R$ 1,00) 3.S40,00
+
+TOTAL GERAL DOS RECURSOS (EM R$ 1,00) 51.440,00
+
+15 -AUTENTICAÇÃO ^/^ /^x. ^^- \_•\_ / \_-/ „- A--.'-.!. C J ^u-B^-Ii s\*Z\* ~\* —— ^c\*- -\* DATA NOME DO DIRIGENTE OU DO SEU REPRESENTANTE LEGAL ASSINATURA DO DIRIGENTE OU DO SEU REPRESENTANTE LEGAL
+

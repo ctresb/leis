@@ -1,0 +1,237 @@
+{
+  "estado": "indice_completo",
+  "total": 22,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/2/anexo_-_lei_municipal_no_1110-2013.pdf da norma Lei Ordinária-PMEPF nº 1.110, de 07 de janeiro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Ordinária-PMEPF nº 1.110, de 07 de janeiro de 2013",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2013/2/anexo_-_lei_municipal_no_1110-2013.pdf",
+      "ano": 2013,
+      "norma": 987
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/3/lei_municipal_no_1178-2015.pdf da norma Lei Ordinária-PMEPF nº 1.178, de 29 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "PLANO MUNICIPAL DE EDUCAÇÃO DE ENGENHEIRO PAULO DE FRONTIN",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2015/3/lei_municipal_no_1178-2015.pdf",
+      "ano": 2015,
+      "norma": 779
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/4/lei_municipal_no_1266-2017.pdf da norma Lei Ordinária-PMEPF nº 1.266, de 15 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei 1.266, de 15 de dezembro de 2017",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2017/4/lei_municipal_no_1266-2017.pdf",
+      "ano": 2017,
+      "norma": 705
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/5/lei_municipal_no_1287-2018.pdf da norma Lei Ordinária-PMEPF nº 1.287, de 19 de junho de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Lei 1287/2018",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2018/5/lei_municipal_no_1287-2018.pdf",
+      "ano": 2018,
+      "norma": 604
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/6/lei_municipal_no_1265-2017.pdf da norma Lei Ordinária-PMEPF nº 1.265, de 15 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Segue anexo da lei nº 1265 de 15 de dezembro de 2017.",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2017/6/lei_municipal_no_1265-2017.pdf",
+      "ano": 2017,
+      "norma": 704
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/7/lei_municipal_no_1250-2017.pdf da norma Lei Ordinária-PMEPF nº 1.250, de 21 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexo da Norma Juridica (Lei Ordinária-PMEPF nº 1.250, de 21 de agosto de 2017).",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2017/7/lei_municipal_no_1250-2017.pdf",
+      "ano": 2017,
+      "norma": 684
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2018/8/lei_municipal_1318_de_17_de_dezembro_de_2018_-_loa_2019.pdf da norma Lei Ordinária-PMEPF nº 1.318, de 17 de dezembro de 2018",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2018/8/lei_municipal_1318_de_17_de_dezembro_de_2018_-_loa_2019.pdf",
+      "ano": 2018,
+      "norma": 637
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/9/lei_municipal_no_1422_de_05_de_maio_de_2020.pdf da norma Lei Ordinária-PMEPF nº 1.422, de 05 de maio de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Aprova o Plano Municipal de Cultura do município de Engenheiro Paulo de Frontin/RJ",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2020/9/lei_municipal_no_1422_de_05_de_maio_de_2020.pdf",
+      "ano": 2020,
+      "norma": 6
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/10/lei_municipal_947_de_29_de_dezembro_de_2009.pdf da norma Lei Ordinária-PMEPF nº 947, de 29 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2009/10/lei_municipal_947_de_29_de_dezembro_de_2009.pdf",
+      "ano": 2009,
+      "norma": 1218
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2009/11/lei_municipal_946_de_29_de_dezembro_de_2009.pdf da norma Lei Ordinária-PMEPF nº 946, de 29 de dezembro de 2009",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2009/11/lei_municipal_946_de_29_de_dezembro_de_2009.pdf",
+      "ano": 2009,
+      "norma": 1217
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/12/lei_1646-2023_-_anexo_1_-_demonstrativo_da_receita_e_despesa_segundo_categorias_economicas.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/12/lei_1646-2023_-_anexo_1_-_demonstrativo_da_receita_e_despesa_segundo_categorias_economicas.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/13/lei_1646-2023_-_anexo_2_-_natureza_da_despesa_por_categoria_economica.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/13/lei_1646-2023_-_anexo_2_-_natureza_da_despesa_por_categoria_economica.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/14/lei_1646-2023_-_anexo_5_-_funcoes_e_subfuncoes_de_governo.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/14/lei_1646-2023_-_anexo_5_-_funcoes_e_subfuncoes_de_governo.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/15/lei_1646-2023_-_anexo_7_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_atividades_e_operacoes_especiais.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/15/lei_1646-2023_-_anexo_7_-_demonstrativo_de_funcoes_subfuncoes_e_programas_por_projetos_atividades_e_operacoes_especiais.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/lei_1646-2023_-_anexo_8_-_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_vinculo_com_os_recursos.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/16/lei_1646-2023_-_anexo_8_-_demonstrativo_da_despesa_por_funcoes_subfuncoes_e_programas_conforme_vinculo_com_os_recursos.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/lei_1646-2023_-_anexo_9_-_demonstrativo_da_despesa_por_orgaos_e_funcoes.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/17/lei_1646-2023_-_anexo_9_-_demonstrativo_da_despesa_por_orgaos_e_funcoes.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/lei_1646-2023_-_g2_-_rreo_anexo_08_-_demonstrativo_das_receitas_e_despesas_com_manutencao_e_desenvolvimento_do_ensino_-_mde.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/18/lei_1646-2023_-_g2_-_rreo_anexo_08_-_demonstrativo_das_receitas_e_despesas_com_manutencao_e_desenvolvimento_do_ensino_-_mde.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/lei_1646-2023_-_g3_-_rreo_anexo_12_-_demonstrativo_das_receitas_e_despesas_com_acoes_e_servicos_publicos_de_saude.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/19/lei_1646-2023_-_g3_-_rreo_anexo_12_-_demonstrativo_das_receitas_e_despesas_com_acoes_e_servicos_publicos_de_saude.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/lei_1646-2023_-_g4_-_rgf_anexo_01_-_demonstrativo_da_despesa_com_pessoal.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/20/lei_1646-2023_-_g4_-_rgf_anexo_01_-_demonstrativo_da_despesa_com_pessoal.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/lei_1646-2023_-_anexo_2_-_receita_por_categoria_economica.pdf da norma Lei Ordinária-PMEPF nº 1.646, de 27 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2023/21/lei_1646-2023_-_anexo_2_-_receita_por_categoria_economica.pdf",
+      "ano": 2023,
+      "norma": 1454
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/quadro_das_dotacoes_por_orgao_do_governo_e_da_administracao_anexo_a_lei_municipal_no_1648-2024.pdf da norma Lei Ordinária-PMEPF nº 1.648, de 09 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2024/22/quadro_das_dotacoes_por_orgao_do_governo_e_da_administracao_anexo_a_lei_municipal_no_1648-2024.pdf",
+      "ano": 2024,
+      "norma": 1456
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/23/lei_municipal_no_1730_de_18_de_agosto_de_2025.pdf da norma Lei Ordinária-PMEPF nº 1.730, de 18 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.engenheiropaulodefrontin.rj.leg.br/media/sapl/public/anexonormajuridica/2025/23/lei_municipal_no_1730_de_18_de_agosto_de_2025.pdf",
+      "ano": 2025,
+      "norma": 2408
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/376ae12b715fd830bf2388993b95b8ffc609855508c38079f03777c3f1d6e063.json",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8d9872ab532af3e6f4940769c9f4681c932798f8aef5457efee810e161bc5396",
+      "capturado_em": "2026-10-20T20:50:41.717203",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/376ae12b715fd830bf2388993b95b8ffc609855508c38079f03777c3f1d6e063.json"
+    }
+  ]
+}

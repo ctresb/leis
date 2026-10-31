@@ -1,0 +1,112 @@
+{
+  "head": "606a8a142f8e34abe91ab81cb60a3435d88adb92",
+  "propostas_individuais": 0,
+  "contagens": {
+    "publicados": 15273,
+    "vinculo_sapl_identificavel": 4166,
+    "norma_com_cache_api": 4166,
+    "ta_usado_com_cache_api": 772,
+    "com_proposta_revisao": 0
+  },
+  "criterio": "Auditoria offline estritamente municipal de HEAD fixo e caches existentes. Ausência de API não constitui erro; cache de versão privada paralela não utilizada é ignorado. Nenhuma alteração canônica, índice ou HTTP adicional.",
+  "limite": "Sem diagnóstico de API para 11.107 arquivos sem vínculo identificável; não certifica vigência, integralidade ou granularidade. Não confundir ausência de achado com certificação do corpus.",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/5f835735aaedf06a3f343c834003d20406d12024f049ecc51b46a62f715c177e.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fortaleza.ce.leg.br/5f835735aaedf06a3f343c834003d20406d12024f049ecc51b46a62f715c177e.meta.json",
+      "sha256": "1bca38b021a9daed30dc7521832f1de503593a3a7d8cf7bfe286269ca30f4f09",
+      "bytes": 343
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/15b89cc79f93b1635ab75e8d93db6afc9cb02f788dcdc89fc42b61fba8261843.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/15b89cc79f93b1635ab75e8d93db6afc9cb02f788dcdc89fc42b61fba8261843.meta.json",
+      "sha256": "f58278c6dac83d689bba2babc1797e2ab03da75388f309af58780aad2707d5cb",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/33891872a6e3bdfb3be1a82a0c715f69b0d6a4a1ef52f47018a4e7659b113333.json",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/33891872a6e3bdfb3be1a82a0c715f69b0d6a4a1ef52f47018a4e7659b113333.meta.json",
+      "sha256": "76c966e349f63960690bb11be653d3df86f9d64386da543549958011f1210d6b",
+      "bytes": 343
+    },
+    {
+      "arquivo": "municipais/_indice/ibge-municipios.json",
+      "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "bytes": 2470036
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/LEIA.txt",
+      "sha256": "e385289ae77b727e6c8536681b8b49096d4c89ef23c188085cf4e23e6de6ce16",
+      "bytes": 1417
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/artefatos.paths.txt",
+      "sha256": "897cc16b6274eec9aabce0a3e9913e8d7d12f1a7788742b8936f65f736f2bf99",
+      "bytes": 1554
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/caches-ilegíveis-contexto.json",
+      "sha256": "462e5e183e7eef48ee3f7927acd8ac38a09b4432433c0627b57764cc3638ed52",
+      "bytes": 2062
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/caches-lidos.jsonl",
+      "sha256": "5d60b73e9379b77c4a5fe73f7095d98258f9bc9279a22eb83a9db9c15c6a0879",
+      "bytes": 2885304
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/cobertura.jsonl",
+      "sha256": "4b548b23a94fa1d122160856a85ccc85c4a49ccc678667e0fe97311ac1a378a7",
+      "bytes": 5022536
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/manifesto.json",
+      "sha256": "914d77fb1e1fad468ba11002f306c74cb945cc7a68135ca1d121b0d12f19a6b6",
+      "bytes": 1567
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/propostas.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-auditoria-publicados-api-offline/publicados.paths.txt",
+      "sha256": "124d422feafa7cca06e98475f48a2c204ca9760bcca2936ec16474ac9073f380",
+      "bytes": 1195434
+    },
+    {
+      "arquivo": "scripts/auditar_municipais_head_api_offline.py",
+      "sha256": "919ba4a626a5229f670955de918d393398ce5755b96573eef499b17c00644999",
+      "bytes": 13091
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/test_auditoria_municipal_head_api.py",
+      "sha256": "992ae3d3128730b292ec0ba807aade81afc69192ffa234179f63e836f5987a67",
+      "bytes": 2515
+    }
+  ],
+  "bytes": 11624444,
+  "lista": "municipais/_lotes/20261021-auditoria-publicados-api-offline/artefatos.paths.txt"
+}

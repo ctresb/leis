@@ -1,0 +1,199 @@
+Aprova a Instrução Normativa Conjunta SEMFAZ/SEMPOG nº 001/2024 que normatiza, no âmbito do Município, o Ementário da Receita Pública e a padronização das fontes ou destinações de recursos, em conformidade com as Portarias da Secretaria de Orçamento Federal – SOF, Secretaria do Tesouro Nacional – STN e a Portaria n.º 24/GABPRES/2023 (e alterações), do Tribunal de Contas do Estado de Rondônia (TCE/RO), e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas no inciso IV do artigo 87, da Lei Orgânica do Município de Porto Velho, e
+
+**CONSIDERANDO** a Portaria Conjunta STN/SOF n.º 20, de 23 de fevereiro de 2021 que estabelece a padronização das fontes ou destinações de recursos a ser observada no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, bem como a Portaria STN n.º 925, de 08 de julho de 2021, que inclui no Anexo I da Portaria STN n.º 710, de 25 de fevereiro de 2021, as classificações por fonte ou destinação de recursos, consolidada até a Portaria STN n.º 1307, de 19 de agosto de 2024;
+
+**CONSIDERANDO** a Portaria nº 163, de 4 de maio de 2001, atualizada pela Portaria Conjunta STN/SOF n.º 103 de 5 de outubro de 2021 e Anexo I atualizado pela Portaria Conjunta STN/SOF n.º 16, de 18 de julho de 2024, que dispõe sobre as codificações da classificação por natureza da receita orçamentária ,no âmbito dos Estados, Distrito  
+Federal e Municípios;
+
+**CONSIDERANDO** a Portaria n.º 24/GABPRES/2023, do Tribunal de Contas do Estado de Rondônia – TCE-RO, que atualiza as tabelas de codificação e de layouts definidas no Manual de regras e orientações anexo à Resolução n.º 328/2020-TCE-RO, referentes à geração e transmissão das remessas mensais, nos termos da Instrução Normativa  
+nº 72/TCER/2020;
+
+**CONSIDERANDO** a Lei n.º 3.193, de 27 de junho de 2024 - Lei de Diretrizes Orçamentárias (LDO) para o Exercício 2025,
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica aprovada a Instrução Normativa Conjunta SEMFAZ/SEMPOG n.º 001/2024 que normatiza, no âmbito do Município, o Ementário da Receita Pública e a padronização das fontes ou destinações de recursos em conformidade com as Portarias das Secretarias SOF/STN, e a Portaria n.º 24/GABPRES/2023 do Tribunal de Contas do Estado de Rondônia (TCE/RO).
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 3º.
+
+Revogam-se as disposições contrárias, em especial o Decreto n.º 17.921, de 16 de fevereiro de 2022.
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito  
+**JOÃO ALTAIR CAETANO DOS SANTOS**  
+Secretário Municipal de Fazenda – SEMFAZ  
+**SÉRGIO LUIZ PACÍFICO**  
+Secretário Municipal de Planejamento, Orçamento e Gestão –  
+SEMPOG
+
+
+**INSTRUÇÃO NORMATIVA CONJUNTA SEMFAZ/SEMPOG N° 001/2024**
+
+Estabelece e normatiza, no âmbito do Município, o Ementário da Receita Pública e a padronização das fontes ou destinações de recursos em conformidade com as Portarias da Secretaria de Orçamento Federal – SOF, Secretaria do Tesouro Nacional – STN e Portaria n.º 24/GABPRES/2023 do Tribunal de Contas do Estado de Rondônia (TCE/RO), e dá outras providências.
+
+**A Secretaria Municipal de Planejamento, Orçamento e Gestão e a Secretaria Municipal de Fazenda,** no uso de suas competências legais, por meio da Subsecretaria de Orçamento – SUORÇAM e Coordenadoria Geral de Contabilidade CGC/SEMFAZ, resolvem expedir a presente Instrução Normativa, nos seguintes termos:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Instrução Normativa estabelece e normatiza a implantação do Ementário da Receita Pública e a Padronização das Fontes ou Destinações de Recursos em conformidade com as Portarias da Secretaria de Orçamento Federal – SOF / Secretaria do Tesouro Nacional STN e Portaria n.º 24GABPRES/2023 (e suas alterações) do Tribunal de Contas do Estado de Rondônia (TCE/RO) no âmbito do Município de Porto Velho.
+
+
+Art. 2º.
+
+Para fins desta Instrução Normativa, considera-se:
+
+
+**CLASSIFICAÇÃO DA RECEITA POR NATUREZA** é o agrupamento que identifica a origem dos recursos, se orçamentários ou extra-orçamentários. Busca identificar a origem dos recursos segundo o fato gerador;
+
+**COMPLEMENTO (Código de Acompanhamento da Execução Orçamentária)** tem como objetivo a identificação de informações que complementam a classificação por Fonte de Recursos e que podem estar associadas às várias classificações de fontes existentes, na fase de execução da despesa ou da receita, quando se aplicar; DESPESA PÚBLICA é o conjunto de gastos realizados pelos entes públicos para custear os serviços públicos prestados à sociedade ou para a realização de investimentos;
+
+**DETALHAMENTO** são códigos adicionais aos códigos padronizados (STN), estabelecidos pelos entes para melhor planejamento e acompanhamento da execução do orçamento nos sistemas orçamentários e financeiros;
+
+**EMENTÁRIO DA RECEITA** visa subsidiar os entes da Federação no processo de planejamento e execução do orçamento, propiciando o adequado registro contábil das receitas orçamentárias;
+
+**FONTES DE RECURSO** são determinados agrupamentos de naturezas de receitas, atendendo a uma determinada regra de destinação legal, e servem para indicar como são financiadas as despesas orçamentárias. Entende-se por fonte de recursos a origem ou a procedência dos recursos que devem ser gastos com uma determinada finalidade;
+
+**RECEITA PÚBLICA** é o montante de dinheiro recolhido pelo tesouro municipal, incorporado ao patrimônio do município, que serve para custear as despesas e investimentos públicos;
+
+**UNIDADE GESTORA** é a unidade responsável por administrar dotações orçamentárias e financeiras próprias ou descentralizadas.
+
+
+#### CAPÍTULO II — EMENTÁRIO DA RECEITA
+
+
+Art. 3º.
+
+A partir do Exercício 2025, o Ementário da Natureza da Receita e a tabela de códigos aplicados no âmbito municipal, devem seguir o estabelecido pela Secretaria de Orçamento Federal – SOF e Secretaria do Tesouro Nacional – STN, na Portaria nº 163, de 4 de maio de 2001, atualizadapela Portaria Conjunta STN/SOF nº 103, de 5 de outubro de 2021e Anexo I atualizado pela Portaria Conjunta STN/SOF nº 16, de 18 de julho de 2024.
+
+
+Parágrafo único
+
+A codificação da natureza da receita será composta por 8 (oito) dígitos (a.b.c.d.dd.d.e), sendo, 1° dígito categoria econômica da receita, 2° dígito corresponde a origem do recurso, 3° dígito identifica a espécie, 4°,5°,6º e 7° dígitos correspondem ao  
+desdobramento da receita, que permite a identificação de peculiaridades ou necessidades gerenciais de cada natureza de receita, e por último, 8° dígito definindo o tipo de receita.
+
+
+#### CAPÍTULO III — FONTES DE RECURSOS
+
+
+Art. 4º.
+
+A identificação dos códigos da fonte de recursos deve seguir o disposto no Anexo Único - Tabela Consolidada das Fontes de Recursos desta Instrução Normativa, discriminado de forma separada, sendo: Quadro 1 – Codificação do 1° dígito (identificação do exercício), Quadro 2 – Classificação por Fonte ou Destinação de Recursos, Quadro 3 – Variável da fonte (TCE), Quadro 4 – Complemento (Código de Acompanhamento da Execução Orçamentária) identificação de despesa para fins de comprovação da aplicação e Quadro 5 - Detalhamento da fonte de recursos.
+
+
+§ 1º
+
+A codificação da fonte de recursos, na elaboração e publicação do Orçamento, será composta por 12 (doze) dígitos (A.FFF.VVVV.COMP), sendo o 1° dígito correspondente ao grupo da fonte de recurso, que identificará o exercício do recurso, 2°,3º e 4º dígitos representam a especificação da fonte com codificação padronizada da classificação por fonte de recursos, 5°,6°,7°e 8° correspondem à parte variável e 9º,10, 11 e 12 ao Complemento da Fonte (COMP)
+
+
+§ 2º
+
+Para fins de elaboração e publicação do Orçamento (LOA), no caso de emendas parlamentares municipais e desvinculação de receitas municipais (DRM), as despesas que contenham detalhamentos definidos ocuparão a disposição dos dígitos referentes ao Complemento-CO (A.FFF.VVVV.DETA).
+
+
+§ 3º
+
+O nível de codificação da Fonte de Recursos terá a seguinte estrutura:
+
+
+**Codificação Completa da Fonte (16 dígitos): A.FFF.VVVV.COMP.DETA**
+
+**Codificação de 12 dígitos para publicação do Orçamento: A.FFF.VVVV.COMP**
+
+AAno - 1 dígito  
+FFF Fonte Principal - 3 dígitos  
+VVVV Variável - 4 dígitos (informação exclusiva TCERO)  
+COMP CO - 4 dígitos¹
+
+Ex.: 1.500.0025.1001 (TCERO) ²
+
+**Codificação de 16 dígitos no cadastro do Sistema do Orçamento: A.FFF.VVVV.COMP.DETA**
+
+AAno - 1 dígito  
+FFF Fonte Principal - 3 dígitos  
+VVVV Variável - 4 dígitos (informação exclusiva TCERO)  
+COMP CO - 4 dígitos ¹  
+DETA Detalhamento (Opcional ente) - 4 dígitos
+
+Ex.: 1.500.0025.1001.0000
+
+**STN/MSC**
+
+Ex.: 1.500.1001 (MSC) ³
+
+¹Os 04 dígitos referentes a COMP serão preenchidos no sistema nos  
+campos de preenchimento obrigatório denominados "\*Complemento"  
+para CO de número 1001 a 3220, e "\*Complemento TCE" para  
+número 7001 a 7006 quando da identificação de Emendas  
+Parlamentares Municipais, conforme Anexo Único desta Instrução  
+Normativa Conjunta;  
+² Recurso para execução da despesa com educação para cômputo do  
+limite constitucional (TCERO);  
+³Codificação da fonte de recursos para fins de envio da Matriz de  
+Saldos Contábeis para a STN.
+
+
+§ 4º
+
+No sistema informatizado, o usuário deve constatar, tanto na receita como na despesa, se o campo “Fonte de Recursos” está preenchido com a identificação do exercício e codificação da fonte adequada.
+
+
+#### CAPÍTULO IV — DAS CONSIDERAÇÕES GERAIS
+
+
+Art. 5º.
+
+A Secretaria Municipal de Planejamento, Orçamento e Gestão – SEMPOG e a Secretaria Municipal de Fazenda – SEMFAZ, devem promover os ajustes necessários nos sistemas informatizados do Município, de forma a adequar o aparelho Orçamentário, Contábil,  
+Financeiro e Patrimonial do ente às regras estabelecidas nas Portarias da Secretaria de Orçamento Federal/SOF, Secretaria do Tesouro Nacional – STN e do Tribunal de Contas do Estado de Rondônia (TCE/RO).
+
+
+Art. 6º.
+
+Fica autorizada a utilização automática das alterações do Ementário da Receita e das fontes ou destinação de recursos realizadas pela SOF/STN, no decorrer da execução do Orçamento, independente da atualização desta Instrução Normativa.
+
+
+Art. 7º.
+
+Esta Instrução Normativa entra em vigor na data de sua publicação, com efeitos a partir de 1º de janeiro de 2025.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário, em especial a Instrução Normativa Conjunta SEMFAZ/SEMPOG nº 001/2022.
+
+
+Porto Velho, 25 de novembro de 2024.
+
+**LUIZ HENRIQUE GONÇALVES**  
+Coordenador Geral de Contabilidade – CGC
+
+**LETÍCIA AGNES GONÇALVES BARROS**  
+Subsecretária de Orçamento – SEMPOG
+
+**Colaboração dos técnicos SEMFAZ/SEMPOG:**
+
+Flávio Silva Lima  
+Lucas Fernando Balbinot  
+Morys Albert de Oliveira Santos  
+Nadya Karolina de Melo  
+Rafael Figueiredo Martins Dias  
+Rita Ferreira Lima  
+Rosane da Silva Cruz
+
+**Esta Instrução Normativa Conjunta SEMFAZ/SEMPOG N.º 001/2024, com seu Anexo Único, pode ser acessada em Portal da Transparência – Planejamento/Orçamentos – Orçamento Municipal.**

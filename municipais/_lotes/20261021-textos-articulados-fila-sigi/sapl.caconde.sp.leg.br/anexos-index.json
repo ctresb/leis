@@ -1,0 +1,98 @@
+{
+  "estado": "indice_completo",
+  "total": 8,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2004/1/anexo_lei_2209.doc da norma Lei Ordinária nº 2.209, de 29 de junho de 2004",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "PROJETOS EM ANDAMENTO – Lei das Diretrizes Orçamentárias de 2004.",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2004/1/anexo_lei_2209.doc",
+      "ano": 2004,
+      "norma": 329
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2016/2/lei_2640_anexo_v.doc da norma Lei Ordinária nº 2.640, de 08 de setembro de 2016",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2016/2/lei_2640_anexo_v.doc",
+      "ano": 2016,
+      "norma": 763
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/3/anexo_iv_projeto_de_lei_maio_2017.pdf da norma Lei Ordinária nº 2.188, de 30 de setembro de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2003/3/anexo_iv_projeto_de_lei_maio_2017.pdf",
+      "ano": 2003,
+      "norma": 309
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/proj014-anexo-vi-ldo-2022.pdf da norma Lei Ordinária-EM nº 2.789, de 29 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "Unidades Executoras e Ações voltadas ao desenvolvimento",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2021/4/proj014-anexo-vi-ldo-2022.pdf",
+      "ano": 2021,
+      "norma": 23
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/proj014-anexo-v-ldo-2022.pdf da norma Lei Ordinária-EM nº 2.789, de 29 de junho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Descrição dos Programas Governamentais/Metas/Custos",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2021/5/proj014-anexo-v-ldo-2022.pdf",
+      "ano": 2021,
+      "norma": 23
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/mat_49_2021_docacessorios.pdf da norma Lei Ordinária nº 2.826, de 14 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei Orçamentária Anual (LOA)",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2021/6/mat_49_2021_docacessorios.pdf",
+      "ano": 2021,
+      "norma": 60
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/mat_34_2021_docacessorios.pdf da norma Lei Ordinária nº 2.825, de 17 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexos Plano Plurianual 2022-2025 PPA",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2021/7/mat_34_2021_docacessorios.pdf",
+      "ano": 2021,
+      "norma": 59
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/8/anexos_ldo_2023.pdf da norma Lei Ordinária nº 2.848, de 07 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.caconde.sp.leg.br/media/sapl/public/anexonormajuridica/2022/8/anexos_ldo_2023.pdf",
+      "ano": 2022,
+      "norma": 1068
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caconde.sp.leg.br/7efe21f6a53bb16be36abe9d9161f4b33a77b51188ce127015300604ced79bde.json",
+      "url": "https://sapl.caconde.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.caconde.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "981ece98ebbfa7060bef1db7a53e4a36808bdd339e5c874033b1130a2b60e24c",
+      "bytes": 3573,
+      "capturado_em": "2026-10-27T21:15:06.373345-03:00"
+    }
+  ]
+}

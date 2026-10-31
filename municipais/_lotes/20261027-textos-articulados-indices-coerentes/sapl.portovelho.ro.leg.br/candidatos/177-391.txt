@@ -1,0 +1,93 @@
+Altera dispositivos do Código Tributário Municipal - lei nº 1.008/91, alterada pela LC nº 111/00, LC nº 154/02 e LC nº 165/03, Fixando os valores básicos unitários de construções e terrenos para a apuração do valor venal de lançamento e cobrança do Imposto Predial e Territorial Urbano no Município de Porto Velho, no exercício de 2.004, e dá providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe confere o artigo 65 e seguintes da Lei Orgânica do Município de Porto Velho.  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou e eu sanciono a seguinte,  
+  
+**LEI COMPLEMENTAR**:
+
+
+Art. 1º.
+
+Altera a Seção II, Da Metodologia, Base de Cálculo e Alíquotas, integrante do Título IV – Do Imposto Sobre a Propriedade Predial e Territorial Urbana, Capítulo I – Da Obrigação Principal, do Código Tributário Municipal, Lei nº 1.008 de 30 de Dezembro de 1991, alterada pela LC nº 111/00, LC nº 154/02 e LC nº 165/03, cujo conteúdo é do art. 13 ao art. 18, passa a vigorar com a seguinte redação:
+
+
+Art. 2º.
+
+Altera o Parágrafo 2º, do Artigo 144, inserido na Seção III, Da Base de Cálculo e Alíquotas, do Capítulo I, Da Obrigação Principal, do Título VII – Do Imposto Sobre a Transmissão Inter-Vivos de Bens Imóveis e de Direitos a Eles Relativos – ITBI, do Código Tributário Municipal, Lei nº 1.008 de 30 de Dezembro de 1991, alterada pela LC nº 111/00, LC nº 154/02 e LC nº 165/03, que passa a vigorar com a seguinte redação:
+
+
+Art. 3º.
+
+As Tabelas I, V, VI, VII, VIII, IX, X, XI, XII, XIII e XIV, integrantes do atual Código Tributário do Município de Porto Velho, Lei Complementar nº 111/00 ficam revogadas.
+
+
+Art. 4º.
+
+Da Seção III, Do Sujeito Passivo, do Código Tributário do Município de Porto Velho, o artigo 19 e seguintes ficam seqüencialmente re-numerados, a partir do numero 31, seguindo-se seqüencialmente até o ultimo artigo do Código, observando-se as alterações havidas.
+
+
+Art. 5º.
+
+Revogadas todas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação, produzindo seus efeitos a partir de 1º de janeiro de 2.004.
+
+
+**CARLOS ALBERTO DE AZEVEDO CAMURÇA**  
+Prefeito do Município  
+  
+**RANILSON DE PONTES GOMES**  
+Procurador Geral do Município
+
+
+## Anexo I — TABELAS DE AVALIAÇÃO DE TERRENOS
+
+TABELA **A** - ZONA HOMOGÊNEA
+
+Nota: Tabela com frente de referência e profundidade mínima e máxima, estabelecida como zona homogênea da cidade:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td rowspan="2"><p><strong>Frente de referência (F</strong><sub><strong>r</strong></sub><strong>)</strong></p></td><td colspan="2"><p><strong>Profundidade</strong></p></td></tr><tr><td><p><strong>Mínima (P</strong><sub><strong>mi</strong></sub><strong>)</strong></p></td><td><p><strong>Máxima (P</strong><sub><strong>ma</strong></sub><strong>)</strong></p></td></tr><tr><td><p><strong>10,00</strong></p></td><td><p><strong>25,00</strong></p></td><td><p><strong>50,00</strong></p></td></tr></tbody></table>
+
+TABELA **B** - COEFICIENTES DE SITUAÇÃO NA QUADRA.
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Situação</strong></p></td><td><p><strong>C</strong><sub><strong>s</strong></sub></p></td></tr><tr><td><p>Terreno de meio de quadra com uma só frente </p></td><td><p><strong>1,00</strong></p></td></tr><tr><td><p>Terreno com mais de uma frente ou de esquina </p></td><td><p><strong>1,10</strong></p></td></tr><tr><td><p>Terreno encravado </p></td><td><p><strong>0,50</strong></p></td></tr><tr><td><p>Terreno situado em vila </p></td><td><p><strong>0,80</strong></p></td></tr><tr><td><p>Terreno que abrange a própria quadra </p></td><td><p><strong>1,20</strong></p></td></tr></tbody></table>
+
+TABELA **C** - FATORES DE TOPOGRAFIA
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Terreno</strong></p></td><td><p><strong>F</strong><sub><strong>t</strong></sub></p></td></tr><tr><td><p>Plano</p></td><td><p>1,00</p></td></tr><tr><td><p>Aclive</p></td><td><p>0,95</p></td></tr><tr><td><p>Declive</p></td><td><p>0,90</p></td></tr><tr><td><p>Irregular</p></td><td><p>0,80</p></td></tr></tbody></table>
+
+TABELA **D** - FATORES DE PEDOLOGIA
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Terreno</strong></p></td><td><p><strong>F</strong><sub><strong>e</strong></sub></p></td></tr><tr><td><p>Seco</p></td><td><p>1,00</p></td></tr><tr><td><p>Inundável</p></td><td><p>0,70</p></td></tr><tr><td><p>Alagado</p></td><td><p>0,50</p></td></tr></tbody></table>
+
+
+## Anexo II — TABELAS DE AVALIAÇÃO DE EDIFICAÇÕES
+
+TABELA **E** - FATORES DE SITUAÇÃO
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Situação</strong></p></td><td><p><strong>F</strong><sub><strong>s</strong></sub></p></td></tr><tr><td><p>Frente</p></td><td><p>1,00</p></td></tr><tr><td><p>Fundos</p></td><td><p>0,85</p></td></tr><tr><td><p>Superposta de frente</p></td><td><p>0,95</p></td></tr><tr><td><p>Superposta de fundo</p></td><td><p>0,90</p></td></tr><tr><td><p>Galeria</p></td><td><p>0,80</p></td></tr></tbody></table>
+
+TABELA **F** - FATORES DE POSIÇÃO
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Posição</strong></p></td><td><p><strong>F</strong><sub><strong>p</strong></sub></p></td></tr><tr><td><p>Isolada</p></td><td><p>1,00</p></td></tr><tr><td><p>Conjugada</p></td><td><p>0,90</p></td></tr><tr><td><p>Geminada</p></td><td><p>0,80</p></td></tr></tbody></table>
+
+TABELA **G** - FATORES DE ALINHAMENTO
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Posição em relação ao alinhamento</strong></p></td><td><p><strong>F</strong><sub><strong>a</strong></sub></p></td></tr><tr><td><p>Alinhada</p></td><td><p>0,90</p></td></tr><tr><td><p>Recuada</p></td><td><p>1,00</p></td></tr></tbody></table>
+
+TABELA **H** - FATORES DE PADRÃO DE CONSTRUÇÃO
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td colspan="3"><p>Coeficiente de estrutura (C<sub>est</sub>)</p></td></tr><tr><td><p>1</p></td><td><p>Alvenaria</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Concreto</p></td><td><p>1,20</p></td></tr><tr><td><p>3</p></td><td><p>Madeira</p></td><td><p>0,60</p></td></tr><tr><td><p>4</p></td><td><p>Metálica</p></td><td><p>1,10</p></td></tr><tr><td><p>5</p></td><td><p>Taipa</p></td><td><p>0,50</p></td></tr><tr><td colspan="3"><p> </p></td></tr><tr><td colspan="3"><p>Coeficiente de cobertura (C<sub>cob</sub>)</p></td></tr><tr><td><p>1</p></td><td><p>Telha fibro-cimento</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Telha de barro</p></td><td><p>1,20</p></td></tr><tr><td><p>3</p></td><td><p>Laje</p></td><td><p>1,30</p></td></tr><tr><td><p>4</p></td><td><p>Palha</p></td><td><p>0,50</p></td></tr><tr><td><p>5</p></td><td><p>Alumínio</p></td><td><p>1,30</p></td></tr><tr><td><p>6</p></td><td><p>Plástico sintético</p></td><td><p>1,50</p></td></tr><tr><td><p>7</p></td><td><p>Madeira/cavaco</p></td><td><p>1,00</p></td></tr><tr><td><p>8</p></td><td><p>Especial</p></td><td><p>2,00</p></td></tr><tr><td colspan="3"><p> </p></td></tr><tr><td colspan="3"><p>Coeficiente de piso (C<sub>pis</sub>)</p></td></tr><tr><td><p>1</p></td><td><p>Precário, cimentado</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Ardósia, taco/carpete, marmorite e plástico</p></td><td><p>1,10</p></td></tr><tr><td><p>3</p></td><td><p>Cerâmica, carpete especial</p></td><td><p>1,20</p></td></tr><tr><td><p>4</p></td><td><p>Tábua corrida, borracha</p></td><td><p>1,20</p></td></tr><tr><td><p>5</p></td><td><p>Mármore, granito</p></td><td><p>1,50</p></td></tr><tr><td colspan="3"><p> </p></td></tr><tr><td colspan="3"><p>Coeficiente de revestimento externo (C<sub>rex</sub>)</p></td></tr><tr><td><p>1</p></td><td><p>Precário, ausente</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Pintura, óleo, madeira, emboço/reboco</p></td><td><p>1,05</p></td></tr><tr><td><p>3</p></td><td><p>Tijolo à vista</p></td><td><p>1,20</p></td></tr><tr><td><p>4</p></td><td><p>Cerâmica, pedra, concreto</p></td><td><p>1,50</p></td></tr><tr><td><p>5</p></td><td><p>Mármore, granito</p></td><td><p>2,00</p></td></tr><tr><td colspan="3"><p> </p></td></tr><tr><td colspan="3"><p>Coeficiente de revestimento interno (C<sub>rin</sub>)</p></td></tr><tr><td><p>1</p></td><td><p>Ausente, precário</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Pintura, papel, óleo, madeira, emboço/reboco</p></td><td><p>1,05</p></td></tr><tr><td><p>3</p></td><td><p>Cerâmica, pedra, concreto, fórmica, plástico</p></td><td><p>1,20</p></td></tr><tr><td><p>4</p></td><td><p>Espelho, mármore, granito</p></td><td><p>1,50</p></td></tr><tr><td colspan="3"><p> </p></td></tr><tr><td colspan="3"><p>Coeficiente de forro (C<sub>for</sub>)</p></td></tr><tr><td><p>1</p></td><td><p>Ausente, precário</p></td><td><p>1,00</p></td></tr><tr><td><p>2</p></td><td><p>Plástico, gesso, fórmica</p></td><td><p>1,10</p></td></tr><tr><td><p>3</p></td><td><p>Metálico, madeira, alumínio flexibilizado</p></td><td><p>1,15</p></td></tr><tr><td><p>4</p></td><td><p>Laje</p></td><td><p>1,20</p></td></tr></tbody></table>
+
+TABELA **I** - FATORES DE CONSERVAÇÃO
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Estado de conservação</strong></p></td><td><p><strong>F</strong><sub><strong>cons</strong></sub></p></td></tr><tr><td><p>Bom</p></td><td><p>1,00</p></td></tr><tr><td><p>Regular</p></td><td><p>0,80</p></td></tr><tr><td><p>Ruim</p></td><td><p>0,60</p></td></tr></tbody></table>
+
+
+## Anexo III — TABELA DE VALORES UNITÁRIOS DE EDIFICAÇÕES
+
+<table><colgroup><col><col></colgroup><tbody><tr><td><p><strong>Tipo (Caracterização)</strong></p></td><td><p><strong>Valor (R$/m²)</strong></p></td></tr><tr><td><p>Casa</p></td><td><p>120,00</p></td></tr><tr><td><p>Apartamento</p></td><td><p>205,00</p></td></tr><tr><td><p>Loja</p></td><td><p>215,00</p></td></tr><tr><td><p>Sala comercial</p></td><td><p>200,00</p></td></tr><tr><td><p>Barraco/Favela</p></td><td><p>0,00</p></td></tr><tr><td><p>Galpão</p></td><td><p>80,00</p></td></tr><tr><td><p>Indústria</p></td><td><p>165,00</p></td></tr><tr><td><p>Telheiro</p></td><td><p>40,00</p></td></tr><tr><td><p>Posto de gasolina</p></td><td><p>100,00</p></td></tr><tr><td><p>Arquitetura especial</p></td><td><p>180,00</p></td></tr></tbody></table>
+
+Nota: Valores unitários de cada tipo de edificação, calculados para a seguinte situação paradigma:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><p><strong>Item</strong></p></td><td><p><strong>Material</strong></p></td><td><p><strong>Coeficiente</strong></p></td></tr><tr><td><p>1. Estrutura</p></td><td><p>Alvenaria</p></td><td><p>1,00</p></td></tr><tr><td><p>2. Cobertura</p></td><td><p>Telhas de fibrocimento</p></td><td><p>1,00</p></td></tr><tr><td><p>3. Piso</p></td><td><p>Precário, cimentado</p></td><td><p>1,00</p></td></tr><tr><td><p>4 Revestimento externo</p></td><td><p>Precário, ausente</p></td><td><p>1,00</p></td></tr><tr><td><p>5. Revestimento interno</p></td><td><p>Precário, ausente</p></td><td><p>1,00</p></td></tr><tr><td><p>6. Forro</p></td><td><p>Precário, ausente</p></td><td><p>1,00</p></td></tr></tbody></table>

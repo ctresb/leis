@@ -1,0 +1,42 @@
+{
+  "host": "sapl.demervallobao.pi.leg.br",
+  "metadados_unicos_observados": 7,
+  "total_api_declarado": 7,
+  "catalogo_numericamente_consistente": true,
+  "candidatos": 0,
+  "publicados": 0,
+  "prova_tipos": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.demervallobao.pi.leg.br/047788a53fd289a0bb3677ec4e54abcf1bb814ea4ae2fe91b343b303e495e4bf.json",
+    "url": "https://sapl.demervallobao.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "url_final": "https://sapl.demervallobao.pi.leg.br/api/compilacao/tipotextoarticulado/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f03f5b623c2836ad77cc7788298f3d6132cc90b1e10a392acca56dddb267a13c",
+    "bytes": 949,
+    "capturado_em": "2026-10-28T09:45:46.482426-03:00"
+  },
+  "prova_casa_ibge": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.demervallobao.pi.leg.br/427b6c79898479c27150a8b3bb4326dd574884caaff66161681c30c388ca5a81.json",
+    "url": "https://sapl.demervallobao.pi.leg.br/api/base/casalegislativa/",
+    "url_final": "https://sapl.demervallobao.pi.leg.br/api/base/casalegislativa/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "d738b07caab5a616d19f81bb2845d4c63cf7bf4c1a46d236072aac07ac378b76",
+    "bytes": 762,
+    "capturado_em": "2026-10-28T09:45:45.609576-03:00"
+  },
+  "paginas": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.demervallobao.pi.leg.br/7d1239670c65899f6d3f23f8b09acb370d1be066d52a68648661bc815e2c323d.json",
+      "url": "https://sapl.demervallobao.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "url_final": "https://sapl.demervallobao.pi.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "f65844e74d884306e400846f844e274fe0ebfb441b483253f48e04ee29b7734d",
+      "bytes": 4579,
+      "capturado_em": "2026-10-28T09:45:48.680009-03:00"
+    }
+  ],
+  "script_sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+  "limite": "Captura e transcrição candidata; contagem não prova integralidade do universo, vigência ou aptidão para publicação."
+}

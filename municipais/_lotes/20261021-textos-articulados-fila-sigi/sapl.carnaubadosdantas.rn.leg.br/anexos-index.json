@@ -1,0 +1,1255 @@
+{
+  "estado": "indice_completo",
+  "total": 71,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/1/anexo_lei_complementar_039.pdf da norma Lei Complementar nº 39, de 29 de dezembro de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Tabelas",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2017/1/anexo_lei_complementar_039.pdf",
+      "ano": 2017,
+      "norma": 70
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/axexo_4.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/2/axexo_4.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/axexo_5.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/3/axexo_5.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/4/axexo_6.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/4/axexo_6.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/axexo_8.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/5/axexo_8.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/axexo_9.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/6/axexo_9.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/axexo_10.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/7/axexo_10.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/axexo_11.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/8/axexo_11.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/9/axexo_12.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/9/axexo_12.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/razoes_do_veto_proj_038.pdf da norma Lei Ordinária nº 1.117, de 08 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/10/razoes_do_veto_proj_038.pdf",
+      "ano": 2021,
+      "norma": 955
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/anexo__02_a.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/11/anexo__02_a.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/12/anexo_02.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/12/anexo_02.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/13/anexo_06.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/13/anexo_06.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/14/anexo_08.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/14/anexo_08.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/15/anexo_09.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/15/anexo_09.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/16/consolidacao.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/16/consolidacao.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/17/despesa_por_funcao.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/17/despesa_por_funcao.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/18/despesa_por_orgao.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/18/despesa_por_orgao.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/19/detalhamento.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/19/detalhamento.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/20/sumario_geral.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/20/sumario_geral.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/21/sumario.pdf da norma Lei Ordinária nº 1.134, de 28 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/21/sumario.pdf",
+      "ano": 2021,
+      "norma": 1152
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/22/tabela_subsidios_camara_municipal_-_corrigido.pdf da norma Lei Ordinária nº 1.130, de 29 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2021/22/tabela_subsidios_camara_municipal_-_corrigido.pdf",
+      "ano": 2021,
+      "norma": 1148
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/24/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.348, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-04-24T10:08:29-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/24/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1712
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/25/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.349, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-04-24T10:08:29-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/25/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1713
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/26/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.350, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-04-24T10:08:29-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/26/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1714
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/27/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.351, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-04-24T10:08:29-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/27/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1715
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/28/lei_1352_de_23_de_abril_de_2025.pdf da norma Lei Ordinária nº 1.352, de 23 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/28/lei_1352_de_23_de_abril_de_2025.pdf",
+      "ano": 2025,
+      "norma": 1716
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/29/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.353, de 23 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-04-24T10:08:29-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/29/oficio_123_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1717
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/30/oficio_178_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.359, de 24 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-06-26T11:34:10-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/30/oficio_178_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1803
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/31/oficio_178_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.360, de 24 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-06-26T11:34:10-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/31/oficio_178_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1804
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/32/oficio_178_2025_-_envio_de_lei_sancionada_para_camara.pdf da norma Lei Ordinária nº 1.361, de 24 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-06-26T11:34:10-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/32/oficio_178_2025_-_envio_de_lei_sancionada_para_camara.pdf",
+      "ano": 2025,
+      "norma": 1805
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/33/plc_0062025_-_cargos_executivo.pdf da norma Lei Complementar nº 53, de 24 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2025-04-07T17:43:25-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/33/plc_0062025_-_cargos_executivo.pdf",
+      "ano": 2025,
+      "norma": 1913
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/34/4_diretrizes_setoriais_ppa_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/34/4_diretrizes_setoriais_ppa_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/35/5_-_demonstrativo_das_receitas_por_categoria_economica_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/35/5_-_demonstrativo_das_receitas_por_categoria_economica_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/36/6_-_programas_e_acoes_de_govereno_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/36/6_-_programas_e_acoes_de_govereno_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/37/7_-_demonstrativo_de_impactos_no_planejamento_ppa_-_receitas_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/37/7_-_demonstrativo_de_impactos_no_planejamento_ppa_-_receitas_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/38/8_-_demonstrativo_de_impactos_no_planejamento_ppa_-_despesas_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/38/8_-_demonstrativo_de_impactos_no_planejamento_ppa_-_despesas_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/39/9_-_demonstrativo_das_receitas_do_ppa_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/39/9_-_demonstrativo_das_receitas_do_ppa_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/40/10_-_demonstrativo_das_despesas_do_ppa_por_acoes_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/40/10_-_demonstrativo_das_despesas_do_ppa_por_acoes_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/41/11_-_quadro_de_detalhamento_das_despesas_2026_a_2029_-_publicacao.pdf da norma Lei Ordinária nº 1.382, de 08 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/41/11_-_quadro_de_detalhamento_das_despesas_2026_a_2029_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1945
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/42/anexo_01_4320_receitas_e_despesas_categ_economica_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/42/anexo_01_4320_receitas_e_despesas_categ_economica_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/43/anexo_02_4320_consolidacao_geral_das_despesas_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/43/anexo_02_4320_consolidacao_geral_das_despesas_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/44/anexo_02_4320_natureza_da_despesas_por_orgao_unidade_seguridade_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/44/anexo_02_4320_natureza_da_despesas_por_orgao_unidade_seguridade_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/45/anexo_02_4320__receitas_por_categoria_economica_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/45/anexo_02_4320__receitas_por_categoria_economica_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/46/anexo_02_4320_natureza_da_despesas_por_orgao_unidade_fiscal_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/46/anexo_02_4320_natureza_da_despesas_por_orgao_unidade_fiscal_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/47/a_04_sumario_geral_de_receitas_e_despesas_por_funcoes_de_governo_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/47/a_04_sumario_geral_de_receitas_e_despesas_por_funcoes_de_governo_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/48/a_05_quadro_das_dotacoes_por_orgao_unidade_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/48/a_05_quadro_das_dotacoes_por_orgao_unidade_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/49/anexo_06_4320_despesas_por_programa_de_trabalho_orgao_unidade_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/49/anexo_06_4320_despesas_por_programa_de_trabalho_orgao_unidade_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/50/anexo_07_4320_despesas_por_funcoes_programa_proj_atividades_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/50/anexo_07_4320_despesas_por_funcoes_programa_proj_atividades_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/51/anexo_08_4320_despesas_funcoes_programa_por_vinculos_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/51/anexo_08_4320_despesas_funcoes_programa_por_vinculos_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/52/demonstrativo_da_compatibilidade_da_programacao_dos_orcamentos_ppa_ldo_loa_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/52/demonstrativo_da_compatibilidade_da_programacao_dos_orcamentos_ppa_ldo_loa_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/53/quadro_de_detalhamento_das_despesas_por_acao_de_governo_sem_fontes_2026_-_publicacao.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/53/quadro_de_detalhamento_das_despesas_por_acao_de_governo_sem_fontes_2026_-_publicacao.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/54/quadro_4.pdf da norma Lei Ordinária nº 1.383, de 09 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "QUADRO DE DETALHAMENTO DAS DESPESAS (POR AÇÃO DE GOVERNO) FONTES 2026",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2025/54/quadro_4.pdf",
+      "ano": 2025,
+      "norma": 1946
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/57/02_-metodologia_e_memoria_de_calculo_ldo_2027_-_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T11:00:37-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "METODOLOGIA E MEMÓRIA DE CÁLCULO LDO 2027.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/57/02_-metodologia_e_memoria_de_calculo_ldo_2027_-_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/58/xiii_demonstrativo_de_metodologia_e_memoria_de_calculo_v_-_divida_publica_2027_-_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T11:11:39-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:34:14-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T10:21:56-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "METODOLOGIA E MEMÓRIA DE CÁLCULO DAS METAS ANUAIS MONTANTE DA DÍVIDA PÚBLICA EXERCÍCIO DE 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/58/xiii_demonstrativo_de_metodologia_e_memoria_de_calculo_v_-_divida_publica_2027_-_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/59/xii_demonstrativo_de_metodologia_e_memoria_de_calculo_i_-_despesas_2027_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:41:51-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:19:03-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:47:45-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Demonstrativo de Metodologia e Memória de Cálculo II - Despesas 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/59/xii_demonstrativo_de_metodologia_e_memoria_de_calculo_i_-_despesas_2027_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/60/xi_demonstrativo_de_metodologia_e_memoria_de_calculo_i_-_receitas_2027_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:40:51-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:18:43-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:47:07-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "Demonstrativo de Metodologia e Memória de Cálculo I - RECEITAS 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/60/xi_demonstrativo_de_metodologia_e_memoria_de_calculo_i_-_receitas_2027_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/61/02_-metodologia_e_memoria_de_calculo_ldo_2027_-_publicacao.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "METODOLOGIA E MEMÓRIA DE CÁLCULO LDO 2027 - PUBLICAÇÃO.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/61/02_-metodologia_e_memoria_de_calculo_ldo_2027_-_publicacao.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/62/x_-_metas_e_prioridades_2027_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:39:40-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:18:21-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:46:28-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "LEI DE DIRETRIZES ORÇAMENTÁRIAS - 2027 ANEXO 1 - METAS E PRIORIDADES",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/62/x_-_metas_e_prioridades_2027_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/63/i_amf_metas_anuais_2027_-_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:19:59-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:13:14-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:40:16-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "I AMF METAS ANUAIS 2027.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/63/i_amf_metas_anuais_2027_-_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/64/viii_amf_margem_de_expansao_de_despesas_obrigatorias_de_carater_continuado_2027_-_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T10:35:04-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:33:31-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T10:19:40-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "MARGEM DE EXPANSÃO DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/64/viii_amf_margem_de_expansao_de_despesas_obrigatorias_de_carater_continuado_2027_-_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/65/vii_estimativa_e_compensacao_da_renuncia_de_receita_2027_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:35:59-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:17:06-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:44:56-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/65/vii_estimativa_e_compensacao_da_renuncia_de_receita_2027_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/66/i_amf_metas_anuais_2027_-_publicacao.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "I AMF METAS ANUAIS 2027 - PUBLICAÇÃO.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/66/i_amf_metas_anuais_2027_-_publicacao.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/67/vii_estimativa_e_compensacao_da_renuncia_de_receita_2027_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:35:59-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:17:06-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:44:56-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/67/vii_estimativa_e_compensacao_da_renuncia_de_receita_2027_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/68/v_amf_origem_e_aplicacao_de_recursos_obtidos_com_alienacao_de_ativos_2027_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:34:41-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:16:46-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:44:04-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "ORIGEM E APLICAÇÃO DOS RECURSOS OBTIDOS COM A ALIENAÇÃO DE ATIVOS 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/68/v_amf_origem_e_aplicacao_de_recursos_obtidos_com_alienacao_de_ativos_2027_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/69/i_arf_anexo_de_riscos_fiscais_2027_-_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:21:50-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:13:31-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:41:15-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "I ARF ANEXO DE RISCOS FISCAIS 2027.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/69/i_arf_anexo_de_riscos_fiscais_2027_-_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/70/iv_amf_evolucao_do_patrimonio_liquido_2027_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T07:33:54-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:16:25-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T08:43:34-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/70/iv_amf_evolucao_do_patrimonio_liquido_2027_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/71/iii_amf_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores_2027_-_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T10:33:09-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:33:08-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T10:20:39-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES 2027",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/71/iii_amf_metas_fiscais_atuais_comparadas_com_as_fixadas_nos_tres_exercicios_anteriores_2027_-_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/72/i_arf_anexo_de_riscos_fiscais_2027_-_publicacao.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "I ARF ANEXO DE RISCOS FISCAIS 2027 - PUBLICAÇÃO.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/72/i_arf_anexo_de_riscos_fiscais_2027_-_publicacao.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/73/ii_amf_avaliacao_do_cumprimentos_das_metas_fiscais_do_exerecicio_anterior_2027_-_assinado.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Everson dos Santos Gomes",
+                [
+                  "2026-05-08T10:32:05-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Kleyton Medeiros Dantas",
+                [
+                  "2026-05-08T09:32:46-03:00",
+                  "ICP-Brasil - AC SyngularID Multipla"
+                ]
+              ],
+              [
+                "Maria Lucineide Dantas de Carvalho",
+                [
+                  "2026-05-08T10:21:20-03:00",
+                  "Gov-Br"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "II AMF AVALIAÇÃO DO CUMPRIMENTOS DAS METAS FISCAIS DO EXERCICIO ANTERIOR 2027.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/73/ii_amf_avaliacao_do_cumprimentos_das_metas_fiscais_do_exerecicio_anterior_2027_-_assinado.pdf",
+      "ano": 2026,
+      "norma": 2286
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/74/ii_amf_avaliacao_do_cumprimentos_das_metas_fiscais_do_exerecicio_anterior_2027_-_publicacao.pdf da norma Lei Ordinária nº 1.412, de 08 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "II AMF AVALIAÇÃO DO CUMPRIMENTO DAS METAS FISCAIS DO EXERCICIO ANTERIOR 2027 - PUBLICAÇÃO.",
+      "anexo_arquivo": "http://sapl.carnaubadosdantas.rn.leg.br/media/sapl/public/anexonormajuridica/2026/74/ii_amf_avaliacao_do_cumprimentos_das_metas_fiscais_do_exerecicio_anterior_2027_-_publicacao.pdf",
+      "ano": 2026,
+      "norma": 2286
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.carnaubadosdantas.rn.leg.br/8a4ad0198ee94be83fa05d95555f5952232196c4776afbe41494a8a0b490454e.json",
+      "url": "https://sapl.carnaubadosdantas.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.carnaubadosdantas.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "c1c7f8a6ad691a2c21dbaf2098ef40207bd084d831a59a74df3b1b8927a06f68",
+      "bytes": 39228,
+      "capturado_em": "2026-10-27T22:35:43.735973-03:00"
+    }
+  ]
+}

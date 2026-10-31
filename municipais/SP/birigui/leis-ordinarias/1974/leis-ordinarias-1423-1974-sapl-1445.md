@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 1.423, de 08 de março de 1974"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1423"
+data: "1974-03-08"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1445"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2077/text"
+sha256_fonte: "8d040b52e3e99d7897f9417191bae86ce390e3c84e01f78caf114d9ff7fbbf8e"
+sha256_texto: "4e5db730f00db5d2c3501d2694817659fe129ca62bd1ac0bb635f916bd24264f"
+capturado_em_fonte: "2026-10-27T19:08:32.695099-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.423, de 08 de março de 1974
+
+DISPÕE SOBRE ABERTURA DE CRÉDITO ESPECIAL DE Cr$ 3.500,00.
+
+
+Eu, **DR. FRANCISCO ANTONIO DE LIMA**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto, no Serviço de Finanças – Setor de Contabilidade, um crédito especial de Cr$ 3.500,00 (três mil e quinhentos), com vigência até 31 de dezembro de 1974, para cobertura de despesas de locação e outras correlatas, de máquina xerográfica para uso da Secretaria da Câmara Municipal de Birigui.
+
+
+Art. 2º.
+
+O crédito a que se refere o Artigo anterior será coberto com os recursos provenientes da anulação parcial das verbas seguintes do orçamento municipal vigente:
+
+
+<table><tbody><tr><td colspan="2">0 - GOVERNO E ADMINISTRAÇÃO GERAL</td></tr><tr><td colspan="2">I - PODER LEGISLATIVO</td></tr><tr><td colspan="2">a) Presidência da Câmara</td></tr><tr><td colspan="2">3-0 / 3.1.3.0.0.0 - Serviços de Terceiros</td></tr><tr><td>03-Mensalidades de luz e telefone </td><td>Cr$ 500,00</td></tr><tr><td>05-Para despesas de viagens e estadas </td><td>Cr$ 1.500,00</td></tr><tr><td>06-Para conserto e reforma de máquinas </td><td>Cr$ 500,00</td></tr><tr><td colspan="2">4-0 / 3.1.4.0.0.0 - Encargos Diversos</td></tr><tr><td>01-Para recepções, homenagens e hospedagens </td><td>Cr$ 1.000,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos oito de março de mil novecentos e setenta e quatro.
+
+**DR. FRANCISCO ANTONIO DE LIMA Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos oito de março de mil novecentos e setenta e quatro, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

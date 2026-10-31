@@ -1,0 +1,48 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/2/anexo_i_requerimento_do_uso_do_veiculo_portaria_03.pdf da norma Portaria-GAB nº 3, de 21 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "ANEXO I: REQUERIMENTO DO USO DO VEÍCULO",
+      "anexo_arquivo": "http://sapl.chapadagaucha.mg.leg.br/media/sapl/public/anexonormajuridica/2025/2/anexo_i_requerimento_do_uso_do_veiculo_portaria_03.pdf",
+      "ano": 2025,
+      "norma": 1294
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/3/anexo_ii_controle_de_agendamento_de_uso_de_veiculos_oficiais_portaria_03.pdf da norma Portaria-GAB nº 3, de 21 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "ANEXO II: CONTROLE DE AGENDAMENTO DE USO DE VEÍCULOS OFICIAIS",
+      "anexo_arquivo": "http://sapl.chapadagaucha.mg.leg.br/media/sapl/public/anexonormajuridica/2025/3/anexo_ii_controle_de_agendamento_de_uso_de_veiculos_oficiais_portaria_03.pdf",
+      "ano": 2025,
+      "norma": 1294
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/4/anexo_iii_diario_de_bordo_de_veiculo_oficial_portaria_03.pdf da norma Portaria-GAB nº 3, de 21 de janeiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "ANEXO III: DIÁRIO DE BORDO DE VEÍCULO OFICIAL",
+      "anexo_arquivo": "http://sapl.chapadagaucha.mg.leg.br/media/sapl/public/anexonormajuridica/2025/4/anexo_iii_diario_de_bordo_de_veiculo_oficial_portaria_03.pdf",
+      "ano": 2025,
+      "norma": 1294
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.chapadagaucha.mg.leg.br/dafb2343a4648d28846ead94b775627e682f1201b4ea81ad33a6df5b2203ce7c.json",
+      "url": "https://sapl.chapadagaucha.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.chapadagaucha.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5e5ed1cf1e57ad5ff885d7e69c31d24100c010ee9ed2add1b50bddf53710cc63",
+      "bytes": 1721,
+      "capturado_em": "2026-10-27T22:40:10.007024-03:00"
+    }
+  ]
+}

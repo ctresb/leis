@@ -1,0 +1,653 @@
+Institui diretrizes e normas de gestão do arquivo, e cria a Tabela de Temporalidade dos Arquivos no âmbito do Poder Legislativo Municipal de Guaíra, Estado do Paraná, e dá outras providências.
+
+
+A Câmara Municipal de Guaíra, Estado do Paraná, aprovou, e eu, Presidente da Câmara, promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Ficam instituídas as diretrizes e normas aplicáveis ao Poder Legislativo de Guaíra, Estado do Paraná, para:
+
+
+I –
+
+a digitalização de documentos e processos legislativos e administrativos;
+
+
+II –
+
+a gestão de documentos e processos digitalizados.
+
+
+Art. 2º.
+
+Para fins desta Resolução, consideram-se os seguintes conceitos:
+
+
+I –
+
+avaliação: processo de análise de documentos de arquivo, que estabelece os prazos de guarda e a destinação, de acordo com os valores primário e secundário, que lhes são atribuídos;
+
+
+II –
+
+classificação: organização física e/ou lógica dos documentos de acordo com um plano de classificação;
+
+
+III –
+
+digitalização: conversão da fiel imagem de um documento físico para código digital;
+
+
+IV –
+
+documento digital: informação registrada, codificada em dígitos binários, acessível e interpretável por meio de sistema computacional, podendo ser nato-digital ou digitalizado;
+
+
+V –
+
+documento digitalizado: representante digital resultante do procedimento de digitalização do documento físico associado a seus metadados;
+
+
+VI –
+
+documento nato-digital: aquele criado originariamente em meio eletrônico;
+
+
+VII –
+
+indexação: método pelo qual documentos ou seu conteúdo são representados por termos, palavras-chave ou descritores, propiciando a recuperação da informação;
+
+
+VIII –
+
+metadado: dado estruturado, que permite classificar, descrever e gerenciar documentos e processos;
+
+
+IX –
+
+seleção: separação dos documentos de valor permanente daqueles passíveis de eliminação, mediante critérios e técnicas previamente estabelecidos em tabela de temporalidade (anexo I) e em outros instrumentos de gestão documental;
+
+
+X –
+
+seleção antecipada: separação, após a digitalização, dos documentos de valor permanente daqueles passíveis de eliminação, em caráter excepcional, com o propósito de promover o descarte desses em momento anterior ao cumprimento da temporalidade originalmente prescrita.
+
+
+#### CAPÍTULO II — DA DIGITALIZAÇÃO
+
+
+Art. 3º.
+
+A digitalização deverá observar a existência de eventuais políticas federais e estaduais de gestão documental e de preservação digital, podendo incidir sobre documentos textuais, cartográficos e iconográficos, avulsos ou integrantes de processos administrativos ou legislativos.
+
+
+##### Seção I — Das Diretrizes
+
+
+Art. 4º.
+
+Constituem diretrizes da digitalização de documentos e processos legislativos e administrativos:
+
+
+I –
+
+o planejamento e a execução das atividades com observância das políticas de gestão documental e de memória do órgão;
+
+
+II –
+
+a eficiência, a economicidade, a sustentabilidade e o uso adequado de recursos humanos e materiais;
+
+
+III –
+
+a adoção de tecnologias e de padrões técnicos de digitalização com os objetivos de garantir a segurança, a preservação, a qualidade da imagem, a legibilidade e o uso do documento digitalizado;
+
+
+IV –
+
+a preferência pelo uso de tecnologias de reconhecimento de caracteres, tais como Reconhecimento Óptico de Caracteres (OCR) e (Reconhecimento Inteligente de Caracteres) ICR;
+
+
+V –
+
+a acessibilidade;
+
+
+VI –
+
+a garantia de manutenção da integridade e da confiabilidade do documento digitalizado;
+
+
+VII –
+
+a rastreabilidade e a auditabilidade dos procedimentos;
+
+
+VIII –
+
+a garantia da confidencialidade e da proteção de dados pessoais constantes nos documentos quando aplicável;
+
+
+IX –
+
+a preservação de documentos e da parte física de processos digitalizados com destinação de guarda permanente, que constituem Patrimônio cultural arquivístico do Poder Legislativo e/ou do Município;
+
+
+X –
+
+a interoperabilidade entre sistemas informatizados;
+
+
+XI –
+
+a garantia de preservação digital a longo prazo da documentação digitalizada em Repositório Digital Confiável.
+
+
+Art. 5º.
+
+O documento arquivístico digitalizado será equiparado ao documento físico para todos os efeitos legais e para a comprovação de qualquer ato, mediante as seguintes condições:
+
+
+I –
+
+digitalização em conformidade com o disposto nesta Resolução e em outras legislações eventualmente existentes;
+
+
+II –
+
+conferência com o original e assinatura eletrônica por servidor da Câmara para garantia da autoria da digitalização, de sua integridade e de seus metadados.
+
+
+Parágrafo único
+
+Ressalva-se o direito de interessado alegar motivadamente a adulteração do documento ou falsidade do original.
+
+
+Art. 6º.
+
+Cabe à Presidência:
+
+
+I –
+
+aprovar o planejamento de digitalização;
+
+
+II –
+
+definir os critérios de valor secundário dos documentos e processos digitalizados, zelando por sua aplicação;
+
+
+III –
+
+orientar as unidades responsáveis pela digitalização quanto aos procedimentos;
+
+
+IV –
+
+analisar e aprovar os editais de eliminação;
+
+
+V –
+
+autorizar a contratação, mediante procedimento legal, de empresa especializada na eliminação e/ou digitalização de documentos.
+
+
+Parágrafo único
+
+Para cumprimento do contido nos incisos do caput, a Presidência poderá delegar poderes à Direção Administrativa.
+
+
+Art. 7º.
+
+Na hipótese de execução do serviço por meio de contratação ou convênios com agentes externos ao Poder Legislativo, deverão constar as seguintes condições de pactuação:
+
+
+I –
+
+a responsabilidade do contratado ou conveniado por danos decorrentes do serviço prestado perante a Câmara e o terceiro prejudicado;
+
+
+II –
+
+os requisitos de segurança e de proteção de informações e dados pessoais, nos termos da legislação vigente;
+
+
+III –
+
+os requisitos técnicos previstos nesta Resolução e em outras normativas existentes.
+
+
+Art. 8º.
+
+Os procedimentos de digitalização de documentos nos órgãos da Câmara poderão ser executados por equipe qualificada e capacitada, ou mediante contratação de terceiros, em espaços físicos adequados, mediante a utilização de infraestrutura computacional, sistemas e equipamentos especializados.
+
+
+§ 1º
+
+Devem ser adotadas ações de capacitação e orientação dos servidores e/ou terceirizados envolvidos na digitalização a fim de que as atividades e os procedimentos observem a legislação e os normativos aplicáveis.
+
+
+§ 2º
+
+Quando a digitalização tiver de se realizar através de terceiros, estes poderão, sob sua responsabilidade, retirar o acervo documental do prédio da Câmara, mas não poderão os levar para outro município.
+
+
+##### Seção II — Da Conversão De Suporte Para Tramitação Eletrônica
+
+
+Art. 9º.
+
+Na digitalização de processos físicos administrativos e legislativos para tramitação nos sistemas eletrônicos utilizados pela Câmara, serão observados os seguintes requisitos:
+
+
+I –
+
+a existência de eventual política de gestão documental e de preservação digital vigente, em conformidade com as normas do Conarq eventualmente aplicáveis;
+
+
+II –
+
+a manutenção da organização do processo físico originário nos autos digitalizados, preferencialmente com a indexação de seus documentos principais;
+
+
+III –
+
+a classificação do processo eletrônico, em que a documentação digitalizada será inserida, com observância das normas de Classificação e Tabela de Temporalidade de Documentos da Câmara;
+
+
+IV –
+
+a preservação da parte física de processos digitalizados, conforme Tabela de Temporalidade;
+
+
+V –
+
+a vinculação sistêmica entre os autos digitais e a parte física digitalizada ou anotação de relacionamento entre ambos;
+
+
+VI –
+
+a inclusão de metadados obrigatórios;
+
+
+VII –
+
+a inclusão de registros relacionados a segredo de justiça, sigilo e confidencialidade e das classificações (ultrassecreta, secreta ou reservada), constantes dos originais nos documentos e processos digitalizados.
+
+
+Art. 10.
+
+Os metadados de documentos e de processos digitalizados para tramitação eletrônica serão registrados nos respectivos sistemas, garantindo-se, na conversão de suporte, os seguintes:
+
+
+I –
+
+identificador do documento: sinal distintivo atribuído ao documento no ato de sua captura para o sistema informatizado;
+
+
+II –
+
+classificação: especificação do elemento de organização do documento em conformidade com o plano de classificação referido no art. 9º, inciso III;
+
+
+III –
+
+data e hora da digitalização;
+
+
+IV –
+
+pessoa física executora da digitalização: usuário responsável pela conversão;
+
+
+V –
+
+referência ao documento originário: identificação do documento objeto da conversão;
+
+
+VI –
+
+hash (checksum) da imagem: código que garante a integridade dos dados após sua transmissão ou armazenamento.
+
+
+##### Seção III — Da Digitalização Parcial
+
+
+Art. 11.
+
+Excepcionalmente, é admitida a digitalização parcial de processos administrativos e legislativos para continuidade de tramitação em formato híbrido, atendidas as seguintes condições:
+
+
+I –
+
+digitalização de todas as peças processuais essenciais ao andamento do processo em meio digital, prevenindo a necessidade de carga dos autos físicos para a tramitação regular;
+
+
+II –
+
+disponibilização do processo físico originário para consulta aos interessados, na unidade;
+
+
+III –
+
+observância, para a parte física, da temporalidade e a destinação da parte digital, sendo vedadas sua seleção e eliminação antecipadas.
+
+
+#### CAPÍTULO III — DA DIGITALIZAÇÃO DE PROCESSOS E DOCUMENTOS LEGISLATIVOS
+
+
+Art. 12.
+
+Os processos legislativos, após sua conclusão e encerramento, serão destinados à guarda permanente, devendo ser mantidos em arquivo por prazo indeterminado, em meio físico e/ou digital, vedada sua eliminação, independentemente de sua natureza, espécie ou matéria.
+
+
+§ 1º
+
+Não se enquadram no conceito de “processo legislativo” os ofícios, Requerimentos, indicações e outros de cunho estritamente político e sem relevante necessidade de guarda.
+
+
+§ 2º
+
+Para os fins desta Lei, consideram-se de cunho estritamente político os documentos que tiveram por finalidade exclusiva e/ou preponderante registrar a atuação político-institucional dos Vereadores e da Câmara Municipal, incluindo manifestações, posicionamentos, pedidos, deliberações, articulações, entendimentos e decisões, ainda que, em razão desses atos, tenham surtido efeitos concretos na sociedade.
+
+
+§ 3º
+
+A eliminação de cada arquivo ficará condicionada à prévia análise e aprovação por Comissão composta por 05 (cinco) membros, entre servidores da Câmara Municipal e Vereadores, a serem designados pela Presidência.
+
+
+Art. 13.
+
+Na digitalização de documentos para a juntada em processos legislativos eletrônicos, devem ser observados os seguintes requisitos:
+
+
+I –
+
+a indexação dos documentos para inserção no processo deverá ser feita previamente, de forma a facilitar o exame dos autos;
+
+
+II –
+
+o apresentante do documento deverá zelar pela sua autenticidade, integridade e legibilidade;
+
+
+Art. 14.
+
+No caso de conversão de suporte de processos legislativos físicos para continuidade de tramitação em meio eletrônico, devem ser observados os requisitos do art. 9°e os seguintes:
+
+
+I –
+
+os envolvidos serão notificados para que verifiquem a regularidade da digitalização dos processos convertidos, constando o prazo mínimo de 05 (cinco) dias para alegação de eventual desconformidade com os autos físicos;
+
+
+II –
+
+os documentos originais de identificação pessoal, de natureza previdenciária, os títulos de crédito e os registros públicos originais, que tenham sido juntados aos autos físicos, após a digitalização:
+
+
+a)
+
+serão devolvidos ao interessado, com prévia intimação para retirada no prazo de 15 (quinze) dias;
+
+
+b)
+
+serão mantidos como anexo físico vinculado ao processo eletrônico digitalizado, caso decorrido o prazo sem a retirada pelo interessado.
+
+
+Parágrafo único
+
+Os documentos mantidos como anexo físico serão objeto de registro no processo eletrônico, seguindo a temporalidade e a destinação estabelecidas na respectiva tabela.
+
+
+Art. 15.
+
+O documento, cuja digitalização seja tecnicamente inviável devido ao grande volume, tamanho, formato ou por ilegibilidade, deverá permanecer no setor processante, com o registro cabível em certidão padronizada inserida no processo eletrônico, garantindo-se amplo acesso a seu conteúdo.
+
+
+#### CAPÍTULO IV — DA DIGITALIZAÇÃO DE PROCESSOS E DOCUMENTOS ADMINISTRATIVOS
+
+
+Art. 16.
+
+Na digitalização de processos administrativos, observar-se-á as mesmas regras aplicáveis aos processos legislativos, exceto no que se referir à eliminação e temporalidade.
+
+
+#### CAPÍTULO V — DA SELEÇÃO E ELIMINAÇÃO
+
+
+Art. 17.
+
+A Câmara poderá realizar, diretamente ou através de terceiros, a seleção e eliminação antecipadas dos processos físicos, antes ou após a digitalização, desde que observados os requisitos e condições estabelecidos na presente Resolução e na Tabela de Temporalidade.
+
+
+Art. 18.
+
+A seleção e eliminação, antecipada ou não, são vedadas nas seguintes hipóteses:
+
+
+I –
+
+processos legislativos;
+
+
+II –
+
+todos os processos e/ou documentos relacionados a Recursos Humanos;
+
+
+III –
+
+processos e/ou documentos que a Mesa Diretiva defina como de guarda permanente, mediante justificativa;
+
+
+IV –
+
+processos e/ou documentos relacionados a processos judiciais, do Ministério Público, fiscalizações, auditorias ou investigações.
+
+
+Art. 19.
+
+Na seleção e eliminação dos processos físicos após a digitalização, além dos requisitos e condições indicados no art. 18, serão observados os seguintes:
+
+
+I –
+
+certificação de conformidade dos autos digitais com aqueles físicos por servidor ou terceiros, mediante assinatura eletrônica, preferencialmente por meio de certificado digital reconhecido pelo ICP – Brasil;
+
+
+II –
+
+observância da temporalidade cabível.
+
+
+Art. 20.
+
+A eliminação antecipada da parte física de processos digitalizados para prosseguimento de tramitação ocorrerá sob supervisão do setor em que o processo tramita.
+
+
+Art. 21.
+
+Qualquer eliminação observará, além de outras regras cabíveis:
+
+
+I –
+
+elaboração de edital de eliminação de documentos, cujo extrato será publicado no diário oficial do órgão e o inteiro teor no respectivo sítio eletrônico;
+
+
+II –
+
+informação ao Ministério Público, Poder Judiciário Estadual e Federal, Tribunal de Contas do Paraná e Poder Executivo Municipal;
+
+
+III –
+
+abertura do prazo de 45 (quarenta e cinco) dias para a manifestação de interessados, que poderão formular requerimento para obtenção dos originais, às suas expensas;
+
+
+IV –
+
+aprovação pela Comissão mista prevista no § 3° do artigo 12 desta Resolução;
+
+
+V –
+
+observância de critérios de sustentabilidade social, ambiental e econômica;
+
+
+VI –
+
+fragmentação manual ou mecânica, com garantia de que a descaracterização dos documentos não possa ser revertida;
+
+
+VII –
+
+reciclagem do material.
+
+
+#### CAPÍTULO VI — DA DIGITALIZAÇÃO DOS DOCUMENTOS DE GUARDA PERMANENTE
+
+
+Art. 22.
+
+Os processos e/ou documentos administrativos e legislativos de guarda permanente, inalienáveis e imprescritíveis, constituem patrimônio arquivístico da Câmara e serão digitalizados, diretamente ou por terceiros, para possibilitar o amplo acesso, a difusão, a pesquisa e a salvaguarda dos originais físicos, observados os seguintes requisitos:
+
+
+I –
+
+os originais deverão ser mantidos no suporte em que foram produzidos e serão adotadas ações de conservação dos acervos, com o escopo de garantir sua preservação;
+
+
+II –
+
+os documentos antigos e aqueles em frágil estado de conservação serão digitalizados mediante alimentador manual ou dispositivo não automatizado, a fim de mitigar riscos e garantir a integridade do suporte original;
+
+
+III –
+
+o preparo e manuseio da documentação original deverão ser feitos com a observância de medidas de prevenção e corretivas de riscos, com higienização prévia à digitalização, sob supervisão e orientação da Direção ou de servidor por ela designado;
+
+
+IV –
+
+os originais deverão ser gerenciados de forma correlacionada com os representantes digitais, por via dos metadados de gestão arquivística;
+
+
+V –
+
+deverá ser mantida a compatibilidade de suporte e de formato, além da disponibilidade de documentação técnica adequada para processamento e estruturação dos dados do documento de guarda permanente;
+
+
+VI –
+
+deverão ser adotadas medidas que permitam a identificação do documento e o controle no momento de seu recolhimento para fins de preservação digital permanente;
+
+
+VII –
+
+a documentação de caráter permanente, após digitalizada, deverá ser armazenada em mídia ou ambiente digital adequado, assegurando-se o acesso irrestrito aos agentes públicos da Câmara, bem como a disponibilidade integral das informações, de modo a garantir sua preservação e recuperação em eventual substituição ou atualização da tecnologia, dos sistemas ou das soluções de informática adotadas;
+
+
+VIII –
+
+deverá ser assegurada a possibilidade de futura migração dos dados entre sistemas, observados padrões e requisitos de preservação digital, integridade, autenticidade, disponibilidade e acessibilidade das informações, visando à sua conservação e ao acesso em longo prazo.
+
+
+Parágrafo único
+
+O processo de digitalização e a gestão do acervo documental digital da Câmara devem assegurar a perenidade, a disponibilidade integral e a independência tecnológica a longo prazo, observando obrigatoriamente as seguintes diretrizes:
+
+
+I –
+
+Padrões Abertos e Não Proprietários: Os documentos digitalizados e seus respectivos metadados estruturados devem ser gerados, armazenados e mantidos em formatos abertos e de amplo reconhecimento arquivístico (tais como PDF/A para os arquivos textuais e formatos padronizados para imagens e bases de dados), vedando-se a adoção de soluções que utilizem tecnologias proprietárias restritivas que dificultem o acesso futuro.
+
+
+II –
+
+Integridade e Dicionário de Metadados: Todo o sistema ou repositório de armazenamento deve garantir a preservação da totalidade das informações, acompanhado da respectiva documentação técnica e dicionário de dados, de modo a assegurar a clareza sobre a estrutura relacional das informações indexadas.
+
+
+III –
+
+Migração e Sucessão Tecnológica: A arquitetura do sistema e o formato de guarda dos dados devem garantir a plena viabilidade técnica para eventual substituição de tecnologias, soluções de informática ou prestadores de serviços, assegurando a portabilidade integral e a importação desimpedida de todo o banco de dados para novas plataformas que venham a ser adotadas pela Câmara.
+
+
+#### CAPÍTULO VII — DA GESTÃO DE DOCUMENTOS DIGITALIZADOS
+
+
+Art. 23.
+
+Os documentos digitalizados estão sujeitos ao regramento de gestão documental aplicável aos documentos natodigitais.
+
+
+Art. 24.
+
+O documento digitalizado deve ser inserido em sistema de gestão, que permita sua manutenção desde a captura, pelo tempo necessário, de forma a garantir a integridade, a autenticidade, a confidencialidade, a disponibilidade e a preservação, observados os seguintes requisitos:
+
+
+I –
+
+o armazenamento com garantia de proteção contra alteração, destruição, acesso e reprodução não autorizados;
+
+
+II –
+
+a indexação de metadados que possibilitem a localização e o gerenciamento do documento digitalizado e a conferência do procedimento de digitalização adotado;
+
+
+III –
+
+a adoção de regras e procedimentos de tratamento de informações e controle de acesso em razão de restrição e sigilo.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 25.
+
+Os casos omissos serão decididos pela Presidência da Câmara, com possibilidade de Recurso à Mesa Diretiva.
+
+
+Art. 26.
+
+A Câmara poderá licitar todo o processo relacionado à seleção, catalogação, eliminação, digitalização, guarda etc. de seus documentos.
+
+
+Art. 27.
+
+A Tabela de Temporalidade dos Documentos da Câmara consta no anexo I desta Resolução.
+
+
+Art. 28.
+
+Esta Resolução entra em vigor na data da sua publicação.
+
+
+Edifício da Câmara Municipal de Guaíra, Estado do Paraná, em 29 de setembro de 2026.
+
+***TEREZA CAMILO DOS SANTOS***
+
+Presidente – Gestão/2025-2026
+
+***KEILA MARTA INOJOSA DA SILVA FRANCISCO***
+
+Vice-Presidente
+
+***GILMAR SOARES DA FONSECA***
+
+Secretário
+
+
+## Anexo I — TABELA DE TEMPORALIDADE DE DOCUMENTOS
+
+
+<table><tbody><tr><td><p><strong>Código</strong></p></td><td><p><strong>Área / Atividade</strong></p></td><td><p><strong>Espécie / Tipo documental</strong></p></td><td><p><strong>Prazo de guarda</strong></p></td><td><p><strong>Destinação final</strong></p></td><td><p><strong>Digitalização / Observações</strong></p></td></tr><tr><td><p>01</p></td><td><p>Atividade legislativa</p></td><td><p>Ofícios de natureza estritamente política</p></td><td><p>10 anos</p></td><td><p>Eliminação, após avaliaçãoe digitalização</p></td><td><p>Digitalização integral e catalogação; eliminação após aprovação da Comissão Mista</p></td></tr><tr><td><p>02</p></td><td><p>Atividade legislativa</p></td><td><p>Indicações de natureza estritamente política</p></td><td><p>10 anos</p></td><td><p>Eliminação, após avaliação e digitalização</p></td><td><p>Digitalização integral e catalogação; eliminação após aprovação da Comissão Mista</p></td></tr><tr><td><p>03</p></td><td><p>Atividade legislativa</p></td><td><p>Requerimentos de natureza estritamente política</p></td><td><p>10 anos</p></td><td><p>Eliminação, após avaliação e digitalização</p></td><td><p>Digitalização integral e catalogação; eliminação após aprovação da Comissão Mista</p></td></tr><tr><td><p>04</p></td><td><p>Atividade legislativa</p></td><td><p>Processos Legislativos</p></td><td><p>Permanente</p></td><td><p>Guarda permanente</p></td><td><p>Digitalização integral e catalogação; preservação do original sem eliminação posterior</p></td></tr><tr><td><p>05</p></td><td><p>Atividade Legislativa</p></td><td><p>Publicações em jornal, diário, etc.</p></td><td><p>Permanente</p></td><td><p>Guarda Permanente</p></td><td><p>Digitalização integral e catalogação; preservação do original sem eliminação posterior</p></td></tr><tr><td><p>06</p></td><td><p>Recursos Humanos</p></td><td><p>Portarias de nomeação, exoneração e movimentação funcional</p></td><td><p>Permanente</p></td><td><p>Guarda permanente</p></td><td><p>Digitalização integral e catalogação; preservação do original sem eliminação posterior</p></td></tr><tr><td><p>07</p></td><td><p>Recursos Humanos</p></td><td><p>Decretos e demais atos funcionais</p></td><td><p>Permanente</p></td><td><p>Guarda permanente</p></td><td><p>Digitalização integral e catalogação; preservação do original sem eliminação posterior</p></td></tr><tr><td><p>08</p></td><td><p>Recursos Humanos</p></td><td><p>Registros funcionais</p></td><td><p>Permanente</p></td><td><p>Guarda permanente</p></td><td><p>Digitalização integral e catalogação; preservação do original sem eliminação posterior</p></td></tr><tr><td><p>09</p></td><td><p>Recursos Humanos</p></td><td><p>Registros contábeis relacionados à vida funcional</p></td><td><p>Permanente</p></td><td><p>Guarda permanente</p></td><td><p>Digitalização integral e catalogação; preservação do original sem eliminação posterior</p></td></tr><tr><td><p>10</p></td><td><p>Recursos Humanos</p></td><td><p>Demais documentos relevantes de Recursos Humanos</p></td><td><p>Permanente</p></td><td><p>Guarda permanente</p></td><td><p>Digitalização integral e catalogação; preservação do original sem eliminação posterior</p></td></tr><tr><td><p>11</p></td><td><p>Compras e Contratações</p></td><td><p>Documentos de compras e contratações</p></td><td><p>Até 10 anos</p></td><td><p>Eliminação, após avaliação e digitalização</p></td><td><p>Digitalização integral e catalogação; eliminação após aprovação da Comissão Mista</p></td></tr><tr><td><p>12</p></td><td><p>Todas as áreas</p></td><td><p>Documentos que a Mesa Diretiva defina como de guarda permanente</p></td><td><p>Permanente</p></td><td><p>Guarda permanente</p></td><td><p>Não podem ser eliminados em razão da existência de cópia digital</p></td></tr><tr><td><p>13</p></td><td><p>Todas as áreas</p></td><td><p>Documentos relacionados a processos judiciais, administrativos, fiscalizações, auditorias ou investigações</p></td><td><p>Até o encerramento da circunstância que justifique a guarda, além do prazo aplicável</p></td><td><p>Avaliação posterior</p></td><td><p>Não eliminar enquanto houver circunstância que recomende sua manutenção</p></td></tr><tr><td><p>14</p></td><td><p>Todas as áreas</p></td><td><p>Documentos com valor histórico, probatório ou informacional relevante</p></td><td><p>Permanente ou conforme avaliação</p></td><td><p>Guarda permanente / preservação</p></td><td><p>Avaliação individual ou do conjunto documental antes da eliminação</p></td></tr></tbody></table>

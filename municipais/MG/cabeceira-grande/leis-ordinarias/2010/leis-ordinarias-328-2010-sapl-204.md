@@ -1,0 +1,720 @@
+---
+titulo: "LEI ORDINÁRIA nº 328, de 24 de junho de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "328"
+data: "2010-06-24"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 2019-04-17; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/204"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/706/text"
+sha256_fonte: "f0f9c2122a03067d00f76fe11f4218e4a16ae4f9a7eae621d233fb9435c1923e"
+sha256_texto: "14c80b46d492bb3d9c0a7bbafa2be168e33f19efe737fd9e43bfe5e2ff7861c8"
+capturado_em_fonte: "2026-10-27T20:29:25.960581-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 328, de 24 de junho de 2010
+
+DISPÕE SOBRE O CONTROLE DE ZOONOSES E DE VETORES NO ÂMBITO DO MUNICÍPIO DE CABECEIRA GRANDE E DÁ OUTRAS PROVIDÊN¬CIAS.
+
+
+O PREFEITO MUNICIPAL DE CABECEIRA GRANDE (MG)
+
+Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+O desenvolvimento de ações objetivando o controle das popula¬ções animais, bem como a prevenção e o controle das zoonoses no Município de Cabeceira Grande, passam a ser regulados pela presente lei.
+
+
+Art. 2º.
+
+Para efeito desta lei, entende-se por:
+
+
+I –
+
+ZOONOSE: infecção ou doença infecciosa transmissível naturalmente entre animais vertebrados e o homem, e vice-versa;
+
+
+II –
+
+AGENTE SANITÁRIO: visitador sanitário de nível técnico, vinculado à Secretaria Municipal de Saúde, cuja função é a realização de visitas e fiscaliza¬ções;
+
+
+III –
+
+ORGÃO SANITÁRIO RESPONSÁVEL: o órgão de controle de zoono¬ses vinculado à Secretaria Municipal de Saúde;
+
+
+IV –
+
+ANIMAIS DE USO ECONÔMICO: as espécies domésticas, criadas, utilizadas ou destinadas à produção econômica;
+
+
+V –
+
+ANIMAIS SINANTRÓPICOS: as espécies que, indesejavelmente, coabi¬tam com o homem, tais como roedores, morcegos, baratas, as moscas, os perni¬longos, as pulgas, pombos e outros;
+
+
+VI –
+
+ANIMAIS SOLTOS: todo e qualquer animal errante encontrado sem qualquer processo de contenção;
+
+
+VII –
+
+ANIMAIS APREENDIDOS: todo e qualquer animal capturado por servido¬res da Secretaria Municipal de Saúde, compreendendo desde o instante de sua captura, durante seu transporte, seu alojamento nas dependências dos depósitos municipais de animais e sua destinação final;
+
+
+VIII –
+
+ANIMAIS DOADOS: os animais não mais desejados por seus proprietá¬rios, encaminhados pelos mesmos ao órgão de controle de zoonoses, sendo que, a partir deste momento, não terão mais direitos sobre os mesmos, onde será verificado se o animal oferece risco a saúde pública ou não;
+
+
+IX –
+
+ANIMAIS EM OBSERVAÇÃO: os cães e gatos suspeitos de raiva ou outro elemento de risco, mantidos em canis e gatis individuais, para observação da raiva ou fator de risco, pelo período de dez (10) dias;
+
+
+X –
+
+DEPÓSITOS MUNICIPAIS DE ANIMAIS: as dependências apropriadas do órgão de controle de zoonoses da Secretaria Municipal de Saúde, destinadas ao alojamento e manutenção dos animais apreendidos;
+
+
+XI –
+
+CANIS E GATIS COLETIVOS: recinto destinado ao alojamento de cães ou gatos apreendidos, não suspeitos de raiva ou de fatores de risco, de forma coletiva;
+
+
+XII –
+
+CANIS E GATIS INDIVIDUAIS: recinto destinado ao isolamento de cães ou gatos, respectivamente;
+
+
+XIII –
+
+CÃES AGRESSORES: os causadores de mordeduras em pessoas ou em outros animais em logradouros públicos, de forma repetida;
+
+
+XIV –
+
+MAUS TRATOS: toda e qualquer ação voltada contra os animais que impliquem em crueldade, especialmente em ausência de alimentação mínima ne¬cessária, excesso de peso de carga, tortura, uso de animais feridos, submissão à experiências pseudo científicas e o que mais dispõe o Decreto Federal nº 24.645, de 10 de julho de 1934, que estabelece medidas de proteção aos animais;
+
+
+XV –
+
+CONDIÇÕES INADEQUADAS: a manutenção de animais em contato direto ou indireto com outros animais portadores de doenças infecciosas ou zoo¬noses, ou ainda, em alojamento de dimensões inapropriadas à sua espécie ou porte;
+
+
+XVI –
+
+FAUNA EXÓTICA: animais de espécies estrangeiras;
+
+
+XVII –
+
+ANIMAIS UNGULADOS: os mamíferos com os dedos revestidos de cascos;
+
+
+XVIII –
+
+EUTANÁSIA: o abate de animais através de processos que evite ao máximo a submissão ao sofrimento;
+
+
+XIX –
+
+COLEÇÕES LÍQUIDAS: Qualquer quantidade de água parada.
+
+
+Art. 3º.
+
+Constituem objetivos básicos das ações de prevenção e controle de zoonoses:
+
+
+I –
+
+prevenir, reduzir e eliminar a morbidade e a mortalidade, bem como sofri¬mentos humanos causados pelas zoonoses urbanas prevalecentes;
+
+
+II –
+
+preservar a saúde da população, mediante emprego dos conhecimentos especializados e experiência da Saúde Pública Veterinária;
+
+
+Art. 4º.
+
+Constituem objetivos básicos das ações de controle das popula¬ções animais:
+
+
+I –
+
+preservar a saúde e o bem estar da população humana, evitando danos ou incômodos causados por animais;
+
+
+II –
+
+preservar os animais, reduzir e eliminar as suas causas de sofrimento;
+
+
+III –
+
+firmar convênios com instituições de ensino para o controle de natali¬dade de animais.
+
+
+#### CAPÍTULO II — DA APREENSÃO DE ANIMAIS
+
+
+Art. 5º.
+
+Fica expressamente proibida a permanência de animais soltos nas vias e logradouros públicos ou locais de livre acesso ao público, sem prejuízo do cometimento de crimes tipificados na legislação pertinente, bem como de eventuais responsabilidades civis.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+Art. 6º.
+
+Da mesma forma, fica expressamente proibido o passeio de cães nas vias e logradouro públicos, exceto com o uso adequado da coleira e guia e desde que conduzido por pessoas com idade e força suficiente para controlar os movimentos do animal.
+
+
+Parágrafo único
+
+Os cães mordedores e bravios somente poderão sair às ruas com o uso adequado da focinheira.
+
+
+Art. 7º.
+
+Serão apreendidos os cães agressores, condição esta constatada pela população, por agente sanitário, médico veterinário do órgão de controle de zoonoses ou mediante boletim de ocorrência policial.
+
+
+Art. 8º.
+
+Será apreendido todo e qualquer animal:
+
+
+I –
+
+encontrado solto nas vias e logradouros públicos ou locais de livre acesso ao público;
+
+
+II –
+
+suspeito de raiva ou outra zoonose;
+
+
+III –
+
+submetido a maus tratos por seu proprietário ou preposto deste;
+
+
+IV –
+
+mantido em condições inadequadas de vida ou alojamento;
+
+
+V –
+
+cuja criação, uso ou manuseio sejam vedados pela presente Lei.
+
+
+Parágrafo único
+
+Os animais apreendidos por força do disposto neste artigo somente poderão ser resgatados se constatado por agente sanitário, não mais subsistirem as causas ensejadoras da apreensão.
+
+
+Art. 8º-A.
+
+A apreensão será efetuada por cuidador de animais, após notificação feita pelo agente sanitário.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 628, de 17 de abril de 2019.
+
+
+Art. 9º.
+
+O animal, seja ele cão, gato, eqüino ou outra espécie, no momento da apreensão será avaliado pelo agente sanitário ou médico veterinário do órgão de controle de zoonoses, quando estiver em situações de atropelamento ou em estado que impossibilite sua remoção, no sentido de se evitar o agravo à saúde ou ao sofrimento do animal.
+
+
+Parágrafo único
+
+Os animais apreendidos por força do disposto neste artigo somente poderão ser resgatados se constatado por agente sanitário, não mais subsistirem as causas ensejadoras da apreensão.
+
+
+Art. 10.
+
+A prefeitura Municipal de Cabeceira Grande não responde por inde¬nização nos casos de:
+
+
+I –
+
+dano ou óbito do animal apreendido;
+
+
+II –
+
+eventuais danos materiais ou pessoais causados pelo animal durante o ato da apreensão.
+
+
+##### Seção I — Da destinação dos animais apreendidos
+
+
+Art. 11.
+
+Os animais apreendidos poderão sofrer as seguintes destinações, a critério do Órgão Sanitário Responsável:
+
+
+I –
+
+resgate;
+
+
+II –
+
+leilão, em hasta pública, na forma de procedimento simplificado;
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+III –
+
+adoção;
+
+
+IV –
+
+doação;
+
+
+V –
+
+doação;
+
+
+§ 1º
+
+Os valores arrecadados com o leilão do animal, deduzidas as importâncias despendidas pela Prefeitura com seu transporte, sua guarda, alimentação e tratamento, com as multas e taxas previstas nesta Lei, será entregue ao proprietário, obedecidas as formalidades legais.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 2º
+
+Em caso de o produto da alienação, em leilão, não cobrir as despesas efetuadas pela Prefeitura, inclusive decorrentes das multas e taxas previstas nesta Lei, a diferença será inscrita em dívida ativa, em nome do respectivo proprietário, para as providências subsequentes, inclusive de caráter executório.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+##### Seção II — Da destinação de cães e gatos
+
+
+Art. 12.
+
+Todo cão apreendido ficará alojado em canil coletivo, à disposição do proprietário, pelo período de 05 (cinco) dias, a contar do dia da apreensão, aguardando o seu resgate por parte de seu proprietário
+
+
+Parágrafo único
+
+Os animais não resgatados, após avaliação feita por mé¬dico veterinário do órgão de controle de Zoonoses, serão destinados à adoção ou à eutanásia.
+
+
+Art. 13.
+
+Animais doados ao órgão de controle de zoonoses, sejam eles cães, gatos, bovinos e eqüinos, após a devida avaliação feita por médico veteriná¬rio, serão destinados à adoção ou à eutanásia.
+
+
+Parágrafo único
+
+Os proprietários, no momento da doação, ficarão cientes das possíveis destinações dos animais.
+
+
+Art. 14.
+
+Todo animal em observação deverá ser retirado pelo seu proprietá¬rio, no prazo de 48 horas (quarenta e oito horas) após a conclusão do período de observação.
+
+
+Parágrafo único
+
+A não retirada do animal neste período implica na sua desti¬nação à adoção ou à eutanásia, conforme avaliação do médico veterinário do órgão de controle de zoonoses.
+
+
+Art. 15.
+
+Os animais destinados à adoção permanecerão em canis e gatis individuais pelo período de dez (10) dias, à disposição de pessoas interessadas.
+
+
+Parágrafo único
+
+Os animais não adotados serão destinados à eutanásia.
+
+
+Art. 16.
+
+Os animais destinados à eutanásia poderão ser doados a entidades protetoras dos animais, desde que atendam as exigências a serem regulamentadas pelo órgão sanitário responsável pelo animal e tenha havido a tentativa frustrada de adoção.
+
+
+Art. 17.
+
+Em caso de liberação serão cobrados dos proprietários, por animal, independentemente de sua espécie, sem prejuízo das demais despesas previstas nesta Lei:
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+I –
+
+multa equivalente a R$ 80,00 (oitenta reais), pela apreensão;
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+II –
+
+Taxa de Liberação equivalente a R$ 100,00 (cem reais); e
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+III –
+
+Taxa de Cobertura Diversa – TCD, para acorrer despesas com guarda, permanência, alimentação, exames e cuidados diários, equivalente a R$ 40,00 (quarenta reais) por dia.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 1º
+
+As despesas previstas nos incisos II e III deste artigo se aplicam, também, no caso de adoção.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 2º
+
+As despesas previstas nos incisos I a III deste artigo serão dobradas a partir da segunda apreensão do animal e, assim, sucessivamente a cada reincidência.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 3º
+
+Os valores previstos neste artigo serão atualizados, anualmente, com base no índice oficial adotado pelo Município. (NR/AC)
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+Art. 18.
+
+Por ocasião do resgate ou adoção o animal, cão ou gato, deverá ser imunizado contra raiva, recebendo um comprovante de vacinação, ficando dispensado desta imunização caso o interessado ou o proprietário apresente o comprovante de vacinação devidamente atualizado.
+
+
+##### Seção III — Da destinação de animais de grande e médio porte
+
+
+Art. 19.
+
+Os animais de grande e médio porte, bovinos, equinos, suínos, caprinos, ovinos, muares e assemelhados, permanecerão alojados, pelo período de 4 (quatro) dias corridos, a contar do dia da apreensão, em dependências apropriadas, destinadas pela Prefeitura de Cabeceira Grande e sob os cuidados do órgão de controle de zoonoses ou de pessoa contratada para essa finalidade, ou sob a forma de permissão ou concessão, à disposição de seus proprietários para resgate, aplicando-se as despesas previstas no artigo 17 desta Lei.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 1º
+
+(Revogado)
+
+Revogado pelo II - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 2º
+
+(Revogado)
+
+Revogado pelo II - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+Art. 20.
+
+Os animais de grande e médio porte a que se refere o artigo 19, não resgatados irão a leilão em hasta pública em local apropriado, podendo ser eutanasiados caso tal providência seja recomendada pelo médico veterinário do órgão de controle de zoonoses ou se mostre frustrada a tentativa de leilão.
+
+
+#### CAPÍTULO III — DA RESPONSABILIDADE DO PROPRIETÁRIO DE ANIMAIS
+
+
+Art. 21.
+
+Os atos danosos cometidos pelos animais são de inteira e exclusiva responsabilidade de seus proprietários.
+
+
+Parágrafo único
+
+Quando o ato danoso for cometido sob a guarda de preposto, estender-se-á a este a responsabilidade a que alude o presente artigo, respondendo solidariamente os proprietários e os prepostos pelos danos causados.
+
+
+Art. 22.
+
+É de responsabilidade dos proprietários a manutenção dos animais em perfeitas condições de alojamento, alimentação, saúde e bem estar, bem como as providências pertinentes à remoção dos dejetos por eles deixados nas vias públicas.
+
+
+Parágrafo único
+
+É vedado a qualquer pessoa praticar ou permitir que se pratique maus tratos contra animais.
+
+
+Art. 23.
+
+É proibido abandonar animais em qualquer área pública ou privada de acesso ao público.
+
+
+Art. 24.
+
+O proprietário fica obrigado a permitir o acesso do Agente Sanitário, quando no exercício de suas funções, às dependências de alojamento do animal, sempre que necessário, bem como a acatar as determinações dele emanadas.
+
+
+Art. 25.
+
+A manutenção de animais em edifícios condomínios será regulamentada pelas respectivas convenções.
+
+
+Art. 26.
+
+Todo proprietário de animal é obrigado a manter seu cão ou gato permanentemente imunizado contra a raiva.
+
+
+Art. 27.
+
+Em caso de morte do animal cabe ao proprietário a disposição adequada da carcaça ou seu encaminhamento ao órgão sanitário municipal, caso haja suspeita de raiva ou outro fator de risco.
+
+
+Art. 28.
+
+Fica expressamente proibida a criação e a manutenção de animais das espécies suína, eqüina, bovina, caprina, ovina, e muares em zona urbana.
+
+
+Art. 29.
+
+Somente será permitida a exibição artística ou circense de animais após a concessão de Laudo Específico, emitido pelo órgão sanitário responsável.
+
+
+Parágrafo único
+
+O laudo mencionado neste artigo apenas será concedido após vistoria técnica efetuada pelo Agente Sanitário, em que serão examinadas as condições de alojamento e manutenção dos animais, e mediante aprovação do médico veterinário do órgão de controle de zoonoses.
+
+
+Art. 30.
+
+Qualquer animal que esteja evidenciando sintomatologia clínica de raiva, constatada por médico veterinário, deverá ser prontamente isolado para observação durante 10 (dez) dias e, em caso de morte, seu cérebro deverá ser encaminhado a um laboratório oficial, para a confirmação do diagnóstico.
+
+
+Art. 31.
+
+Não são permitidas em residências particulares a criação e a manutenção de mais de 10 (dez) animais no total, das espécies canina ou felina, com idade superior a 90 (noventa) dias, exceto na situação de associados, observando-se o disposto nos parágrafos seguintes.
+
+
+§ 1º
+
+A criação, o alojamento e a manutenção de animais, em quantidade superior ao estabelecido neste artigo, caracterizará o canil de propriedade privada, sujeito ao disposto na legislação específica aplicável ao caso.
+
+
+§ 2º
+
+Os canis de propriedade privada somente poderão funcionar, após vistoria técnica efetuada pelo Agente Sanitário, momento em que serão examinadas as condições de alojamento e manutenção dos animais para fins de expedição de Laudo pelo Órgão Sanitário Responsável, o qual deverá ser renovado anualmente.
+
+
+Art. 32.
+
+É proibida a exibição de toda e qualquer espécie de animal bravio ou selvagem, ainda que domesticado em vias, logradouros públicos ou locais de livre acesso ao público.
+
+
+Art. 33.
+
+Os estabelecimentos de comercialização de animais vivos, com fins não alimentícios ficam sujeitos, além do disposto na legislação específica aplicável ao caso, à obtenção de Laudo de Vistoria favorável a ser renovado anualmente pelo setor sanitário responsável.
+
+
+Parágrafo único
+
+O laudo mencionado neste artigo apenas será concedido após vistoria técnica efetuada pelo Agente Sanitário, em que serão examinadas as condições sanitárias de alojamento e manutenção dos animais.
+
+
+Art. 34.
+
+É obrigatório o uso de sistema independente de frenagem, a ser acionado especialmente quando da descida de ladeiras com veículos de tração animal.
+
+
+#### CAPÍTULO IV — DOS ANIMAIS SINANTRÓPICOS
+
+
+Art. 35.
+
+Ao munícipe compete a adoção de medidas necessárias para a manutenção de suas propriedades limpas e isentas de animais da fauna sinantrópica.
+
+
+Art. 36.
+
+É proibido o acúmulo de lixo, materiais inservíveis como latas, garrafas, pneus e similares e outros materiais como vasos com água e manutenção de fossas e poços em más condições de conservação e que propiciam a instalação e proliferação de roedores e mosquitos ou outros animais sinantrópicos.
+
+
+Art. 37.
+
+Os estabelecimentos que estoquem ou comercializem pneumáticos, materiais de construção ou sucatas, são obrigados a mantê-los permanentemente cobertos e isentos de coleções hídricas, de forma a evitar a proliferação de mosquitos.
+
+
+Art. 38.
+
+Nas obras de construção civil é obrigatória a drenagem permanente de coleções líquidas, originadas ou não pelas chuvas, de formas a impedir a proliferação de mosquitos.
+
+
+Parágrafo único
+
+Os tambores e outros recipientes com água necessária para o desenvolvimento da obra, deverão estar permanentemente cobertos e a água deverá ser trocada semanalmente, impedindo deste modo à proliferação de larvas de mosquitos nessas coleções hídricas.
+
+
+#### CAPÍTULO V — DAS SANÇÕES
+
+
+Art. 39.
+
+Verificada a infração a qualquer dispositivo desta Lei, os Agentes Sanitários, independentemente de outras sanções cabíveis decorrentes da legislação federal e estadual, poderão aplicar as seguintes penalidades:
+
+
+I –
+
+multa;
+
+
+II –
+
+apreensão do animal;
+
+
+III –
+
+interdição total ou parcial, temporária ou permanente, de locais ou estabelecimentos;
+
+
+IV –
+
+cassação de alvará.
+
+
+Art. 40.
+
+A pena de multa será variável de acordo com a gravidade da infração, como segue:
+
+
+I –
+
+para infração de natureza leve: R$ 50,00 (cinquenta reais);
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+II –
+
+para infração de natureza grave: R$ 150,00 (cento e cinquenta reais); e
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+III –
+
+para infração de natureza gravíssima: R$ 300,00 (trezentos reais).
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 1º
+
+Para os efeitos previstos neste artigo e no artigo anterior, o Poder Executivo caracterizará as infrações de acordo com a sua gravidade.
+
+
+§ 2º
+
+Em caso de reincidência, a multa será aplicada em dobro em relação à penalidade anterior.
+
+
+§ 3º
+
+A pena de multa não excluirá, conforme a natureza e a gravidade da infração, a aplicação de qualquer outra das penalidades previstas no artigo 39 e demais dispositivos desta Lei.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+§ 4º
+
+Os valores previstos neste artigo serão atualizados, anualmente, com base no índice oficial adotado pelo Município.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+Art. 41.
+
+Os agentes sanitários, inclusive os Fiscais de Controle Sanitário e Fiscais de Posturas e Obras, são competentes para a aplicação das penalidades previstas nesta Lei e para adoção dos procedimentos fiscalizatórios aqui previstos, observado o âmbito de atribuição e de competência de cada profissional.
+
+Alteração feita pelo Art. 1º. - LEI ORDINÁRIA nº 628, de 17 de abril de 2019.
+
+
+Parágrafo único
+
+O desrespeito ou o desacato ao Agente Sanitário, ou ainda, a obstaculização ao exercício de suas funções, sujeitarão o infrator, de imediato, à penalidade de multa, sem prejuízo das demais sanções cabíveis.
+
+
+Art. 41-A.
+
+Fica autorizada a contratação de Médico Veterinário e de Cuidador de Animais para a plena execução desta Lei.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+Art. 41-B.
+
+A Prefeitura poderá, por procedimento licitatório próprio, concessionar, a terceiros, os serviços de apreensão, recolhimento, tratamento e destinação de animais, na forma desta Lei, sendo que até a concretização do certame, poderá, por decreto, outorgar permissão de uso, de natureza precária e temporária, para essa finalidade.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 611, de 10 de dezembro de 2018.
+
+
+Art. 41-C.
+
+Fica autorizada a outorga, pelo Prefeito, de permissão de uso, em caráter precário, por ato próprio, do espaço público – a ser utilizado para apreensão de animais na forma desta Lei –, a particulares que desejarem constituir e instalar baias ou estruturas congêneres para acomodação, às suas expensas, de animais de médio e grande porte, desde que sem quaisquer custos adicionais para o Município, devendo as estruturas das baias ser removíveis, sem quaisquer direitos a indenizações, posses e benfeitorias aos permissionários.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 628, de 17 de abril de 2019.
+
+
+§ 1º
+
+A construção das baias utilizará estruturas móveis, segundo as especificações contidas em projeto padrão elaborado pelo setor de engenharia da Prefeitura Municipal.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 628, de 17 de abril de 2019.
+
+
+§ 2º
+
+Decreto, a ser expedido pelo Prefeito, poderá regulamentar os procedimentos de outorga de permissão de uso a que se refere o caput deste artigo.
+
+Inclusão feita pelo Art. 1º. - LEI ORDINÁRIA nº 628, de 17 de abril de 2019.
+
+
+Art. 42.
+
+As despesas decorrentes da execução da presente lei correrão por conta de dotações próprias, consignadas no orçamento vigente e a serem consignadas nos orçamentos futuros.
+
+
+Art. 43.
+
+Esta Lei entra em vigor oito meses após a sua publicação.
+
+
+**Cabeceira Grande-MG, 24 de junho de 2010.**
+
+**Antônio Nazaré Santana Melo**
+
+**Prefeito Municipal**
+
+**"Este texto não substitui o original"**
+

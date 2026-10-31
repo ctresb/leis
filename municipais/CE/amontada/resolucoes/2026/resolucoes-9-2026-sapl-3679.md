@@ -1,0 +1,287 @@
+---
+titulo: "Resolução nº 9, de 18 de agosto de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "9"
+data: "2026-08-18"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/3679"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/1673/text"
+sha256_fonte: "c7c2aa01ed0c8d0bee749b58389dca3115082bf80fbd7ae43cf71d66bedb5b06"
+sha256_texto: "b77198711723b1e03d47604e95296a7566263f3a6963bf4a7ed2c729eb58a042"
+capturado_em_fonte: "2026-10-21T05:38:39.200064-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Resolução nº 9, de 18 de agosto de 2026
+
+Institui o Programa Permanente Câmara em Defesa do Consumidor, estabelece a Ação Institucional Dia do Consumidor no âmbito da Câmara Municipal de Amontada e dá outras providências.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE AMONTADA**, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e eu promulgo a seguinte Resolução:
+
+
+#### CAPÍTULO I — DO PROGRAMA
+
+
+Art. 1º.
+
+Fica instituído, no âmbito da Câmara Municipal de Amontada, o Programa Permanente Câmara em Defesa do Consumidor, destinado à promoção da educação para o consumo, da cidadania, da prevenção de conflitos nas relações de consumo, da defesa dos direitos do consumidor e da aproximação entre o Poder Legislativo e a sociedade.
+
+
+Parágrafo único
+
+O Programa será desenvolvido de forma contínua pela Câmara Municipal, por intermédio do PROCON Câmara e dos demais órgãos administrativos e institucionais envolvidos.
+
+
+Art. 2º.
+
+O Programa tem por objetivos:
+
+
+I –
+
+fortalecer a proteção e defesa dos direitos do consumidor;
+
+
+II –
+
+ampliar o acesso da população à informação e aos serviços de orientação consumerista;
+
+
+III –
+
+estimular o consumo consciente e a educação financeira;
+
+
+IV –
+
+incentivar a solução consensual dos conflitos decorrentes das relações de consumo;
+
+
+V –
+
+desenvolver ações educativas voltadas à cidadania;
+
+
+VI –
+
+promover a integração entre a Câmara Municipal e a comunidade;
+
+
+VII –
+
+incentivar a atuação preventiva nas relações de consumo;
+
+
+VIII –
+
+fortalecer as políticas públicas de proteção ao consumidor no Município.
+
+
+#### CAPÍTULO II — DA AÇÃO INSTITUCIONAL DIA DO CONSUMIDOR
+
+
+Art. 3º.
+
+A Ação Institucional Dia do Consumidor constitui a principal atividade anual do Programa Câmara em Defesa do Consumidor.
+
+
+§ 1º
+
+A ação será realizada, preferencialmente, durante o mês de março de cada ano, em alusão ao Dia Mundial dos Direitos do Consumidor.
+
+
+§ 2º
+
+A Presidência da Câmara definirá, anualmente, a data, o local e a programação do evento.
+
+
+Art. 4º.
+
+Durante a realização da Ação Dia do Consumidor poderão ser desenvolvidas, dentre outras, as seguintes atividades:
+
+
+I –
+
+orientação jurídica e administrativa aos consumidores;
+
+
+II –
+
+atendimento especializado pelo PROCON Câmara;
+
+
+III –
+
+abertura e encaminhamento de reclamações;
+
+
+IV –
+
+audiências e sessões de conciliação;
+
+
+V –
+
+palestras, oficinas, cursos e ações educativas;
+
+
+VI –
+
+distribuição de cartilhas e material informativo;
+
+
+VII –
+
+ações de educação financeira;
+
+
+VIII –
+
+prestação de serviços de cidadania;
+
+
+IX –
+
+atendimentos itinerantes em bairros, distritos e comunidades rurais;
+
+
+X –
+
+campanhas educativas;
+
+
+XI –
+
+demais ações relacionadas à promoção da cidadania e dos direitos do consumidor.
+
+
+#### CAPÍTULO III — DAS AÇÕES PERMANENTES
+
+
+Art. 5º.
+
+Além da Ação Dia do Consumidor, o Programa poderá desenvolver, durante todo o exercício:
+
+
+I –
+
+palestras em escolas;
+
+
+II –
+
+campanhas educativas;
+
+
+III –
+
+mutirões de atendimento;
+
+
+IV –
+
+ações itinerantes;
+
+
+V –
+
+capacitações;
+
+
+VI –
+
+eventos temáticos;
+
+
+VII –
+
+pesquisas e levantamentos sobre as relações de consumo;
+
+
+VIII –
+
+outras iniciativas compatíveis com os objetivos desta Resolução.
+
+
+#### CAPÍTULO IV — DA COORDENAÇÃO
+
+
+Art. 6º.
+
+Compete ao PROCON Câmara coordenar o Programa, sob supervisão da Presidência da Câmara Municipal.
+
+
+Art. 7º.
+
+Poderão participar da execução das atividades:
+
+
+I –
+
+Escola do Legislativo;
+
+
+II –
+
+Balcão do Cidadão;
+
+
+III –
+
+Procuradoria Especial da Mulher;
+
+
+IV –
+
+Ouvidoria;
+
+
+V –
+
+Comissões Permanentes;
+
+
+VI –
+
+demais unidades administrativas da Câmara.
+
+
+#### CAPÍTULO V — DAS PARCERIAS
+
+
+Art. 8º.
+
+A Câmara Municipal poderá celebrar acordos de cooperação e parcerias com órgãos públicos, entidades privadas, instituições de ensino, organizações da sociedade civil e integrantes do Sistema Nacional de Defesa do Consumidor para a execução das ações previstas nesta Resolução.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 9º.
+
+As despesas decorrentes desta Resolução correrão por conta das dotações orçamentárias próprias da Câmara Municipal.
+
+
+Art. 10.
+
+A Presidência expedirá os atos complementares necessários à execução desta Resolução.
+
+
+Art. 11.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Paço da Câmara Municipal de Amontada, em 18 de agosto de 2026.
+
+**Marcos Caio Magalhães Rodrigues**  
+- Presidente do Poder Legislativo -
+

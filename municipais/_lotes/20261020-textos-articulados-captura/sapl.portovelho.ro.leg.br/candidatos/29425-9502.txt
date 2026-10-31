@@ -1,0 +1,50 @@
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.351, de 15 de dezembro de 2025, a fim de proceder às adequações orçamentárias no exercício 2026;
+
+
+Considerando o Ofício n° 580/2026/FUNCULTURAL-DCONT, de 02 de julho de 2026, pelo qual a Fundação Cultural de Porto Velho - FUNCULTURAL solicita a suplementação de recursos para cobertura de despesas com manutenção das atividades administrativas dessa FUNCULTURAL,
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 2.142.000,00 (dois milhões, cento e quarenta e dois mil reais).
+
+
+Art. 2º.
+
+Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei n.º 3.348, de 27 de novembro de 2025 - Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+
+<table><tbody><tr><td colspan="7"><p><strong>04.00 - PROCURADORIA GERAL DO MUNICÍPIO - PGM</strong></p></td></tr><tr><td colspan="7"><p><strong>04.01 - PROCURADORIA GERAL DO MUNICÍPIO - PGM</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>04.01.28.846.000.0.225</p></td><td><p>Sentenças Judiciais - Precatórios</p></td><td><p>FIS</p></td><td><p>3.3.90.91</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>2.142.000,00</p></td><td><p>-</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>2.142.000,00</strong></p></td><td><p><strong>-</strong></p></td></tr><tr><td colspan="7"><p><strong>02.00 - SECRETARIA DE GOVERNO - SGG</strong></p></td></tr><tr><td colspan="7"><p><strong>02.21 - FUNDAÇÃO CULTURAL DE PORTO VELHO - FUNCULTURAL</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td rowspan="4"><p>02.21.13.392.047.2.923</p></td><td rowspan="4"><p>Promoção, produção de eventos artísticos culturais</p></td><td rowspan="4"><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>-</p></td><td><p>750.000,00</p></td></tr><tr><td><p>3.3.90.31</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>-</p></td><td><p>62.000,00</p></td></tr><tr><td><p>3.3.90.36</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>-</p></td><td><p>50.000,00</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500.0000.0000.0000</p></td><td><p>-</p></td><td><p>1.280.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>2.142.000,00</strong></p></td><td><p><strong>2.142.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>2.142.000,00</strong></p></td><td><p><strong>2.142.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 21.684, de 23 de dezembro de 2025 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 21.685, de 23 de dezembro de 2025.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***LEONARDO BARRETO DE MORAES***
+
+Prefeito do Município
+
+***WAGNER GARCIA DE FREITAS***
+
+Secretário Municipal de Economia
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral do Município

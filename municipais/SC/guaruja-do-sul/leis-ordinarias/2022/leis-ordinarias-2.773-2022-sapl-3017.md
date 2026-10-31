@@ -1,0 +1,242 @@
+---
+titulo: "Lei Ordinária-GPREF nº 2.773, de 22 de novembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.773"
+data: "2022-11-22"
+municipio: "Guarujá do Sul"
+uf: "SC"
+codigo_ibge: "4206603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; 2025-08-18; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.guarujadosul.sc.leg.br/norma/3017"
+fonte_texto: "https://sapl.guarujadosul.sc.leg.br/ta/1634/text"
+sha256_fonte: "66145412a072880a8805672ee3ad8e622bf860b6b1b1a2c8ae0b8709537b75bf"
+sha256_texto: "76616012cacb5d378f170a3d1b16ce2152297f86796aeff7203f1988192aa13b"
+capturado_em_fonte: "2026-10-28T13:37:51.136233-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-GPREF nº 2.773, de 22 de novembro de 2022
+
+Art. 1º.
+
+Esta Lei revoga o prêmio assiduidade previsto na Lei n. 1.807/2006, institui o abono assiduidade e estende seu alcance a todos os servidores públicos municipais ocupantes de cargo de provimento efetivo e aos empregados públicos, admitidos em caráter temporário contratados pelo regime da Consolidação das Leis do trabalho.
+
+
+Art. 2º.
+
+O abono assiduidade será concedido ao servidor público efetivo e ao empregado público que, no período aquisitivo de dois meses, tiver comprovada 100% (cem por cento) de frequência ao trabalho.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.908, de 18 de agosto de 2025.
+
+
+§ 1º
+
+O abono assiduidade, observados os valores e critérios de atualização disposto na Lei, corresponde a R$ 219,54 (duzentos e dezenove reais e cinquenta e quatro centavos) para cada período de dois meses ininterruptos de serviço prestado com assiduidade integral.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.908, de 18 de agosto de 2025.
+
+
+§ 2º
+
+O abono assiduidade será concedido de forma proporcional ao tempo de serviço prestado, na proporção de R$ 109,77 (cento e nove reais e setenta e sete centavos) para cada mês de efetivo exercício com frequência integral.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.908, de 18 de agosto de 2025.
+
+
+§ 3º
+
+No primeiro período mínimo de um mês a que se refere o § 2º deste artigo será excluída qualquer contagem de tempo de serviço fictício, considerando-se apenas o mês/competência trabalhado integralmente.
+
+
+§ 4º
+
+Além das regras previstas nos §§ 1º e 3º deste artigo, o valor do abono assiduidade será devido de acordo com a carga horária exercida, sendo R$ 219,54 (duzentos e dezenove reais e cinquenta e quatro centavos) para carga horaria de 40 (quarenta) horas semanais, calculando-se proporcionalmente em casos de carga horária inferior
+
+Alteração feita pelo Art. 1º. - Lei Ordinária-GPREF nº 2.908, de 18 de agosto de 2025.
+
+
+Art. 3º.
+
+Computar-se-á como ausência a falta ao trabalho, ainda que justificada ou decorrente de licença ou concessão de qualquer natureza, exceto as ausências, a seguir relacionadas, que serão computadas como tempo de serviço:
+
+
+I –
+
+atendimento a convocação da Justiça Eleitoral durante o período eletivo;
+
+
+II –
+
+servir ao Tribunal do Júri;
+
+
+III –
+
+férias;
+
+
+IV –
+
+licenças:
+
+
+a)
+
+Prêmio;
+
+
+b)
+
+à gestante, adotante e paternidade;
+
+
+c)
+
+para tratamento da própria saúde, desde que o afastamento não seja superior a um dia no período aquisitivo, e,
+
+
+d)
+
+da licença por acidente em serviço.
+
+
+V –
+
+afastamentos:
+
+
+a)
+
+por um dia no semestre para doação de sangue;
+
+
+b)
+
+por oito dias consecutivos em razão do falecimento de cônjuge companheiro, pais, madrasta ou padrasto, filhos, enteados, menor sob sua guarda ou tutela e irmãos;
+
+
+c)
+
+para realização de cursos de capacitação autorizados pela administração;
+
+
+d)
+
+por um dia no período aquisitivo para acompanhamento em consulta ou procedimento médico de filho, pai, mãe, cônjuge ou convivente.
+
+
+Parágrafo único
+
+As ausências mencionadas neste artigo serão consideradas como falta excludente da aquisição do direito se ocorridas no primeiro mês/competência de trabalho, conforme preconiza o § 3º do artigo 2º desta Lei.
+
+
+Art. 4º.
+
+Somente será computado para fins de concessão do benefício mencionado no artigo 2º desta Lei, o tempo de serviço prestado por:
+
+
+I –
+
+servidor público municipal efetivo, assim considerado aquele admitido por concurso, ainda que em estágio probatório;
+
+
+II –
+
+empregado público, admitido em caráter temporário, vinculado ao regime da Consolidação das Leis do Trabalho.
+
+
+Parágrafo único
+
+O servidor efetivo nomeado para cargo comissionado não fará jus ao adicional durante o comissionamento, nem contará esse tempo para concessão futura.
+
+
+Art. 5º.
+
+Não se concederá abono-assiduidade ao servidor que, no período aquisitivo sofrer penalidade disciplinar em qualquer de suas modalidades.
+
+
+Art. 6º.
+
+Aos membros do magistério público municipal atualmente em exercício fica assegurado o direito ao premio assiduidade relativo ao período aquisitivo de janeiro a dezembro de 2022, seguindo a contagem do tempo de serviço até 31/12/2022 para esta finalidade.
+
+
+Art. 7º.
+
+Ficam estabelecidas as seguintes datas como marcos finais e iniciais das concessões:
+
+
+I –
+
+para os membros do magistério público, efetivos, atualmente contemplados com o prêmio assiduidade previsto na Lei n. 1.807, de 24 de abril de 2006:
+
+
+a)
+
+até 30 de abril de 2023 será pago o último prêmio assiduidade referente ao período aquisitivo de 1º de janeiro a 31 de dezembro de 2022;
+
+
+b)
+
+até 31 de julho de 2023 será pago o abono assiduidade referente ao período aquisitivo de 1º de janeiro a 30 de junho de 2023;
+
+
+c)
+
+a partir de 1º de julho de 2023 será computado o período aquisitivo para a próxima aquisição semestral que será paga juntamente com todos os servidores e empregados beneficiados, conforme alínea c do inciso II deste artigo.
+
+
+II –
+
+para os servidores e empregados públicos municipais em geral:
+
+
+a)
+
+até 31 de julho de 2023 será pago o abono assiduidade referente ao período aquisitivo de 1º de janeiro a 30 de junho de 2023;
+
+
+b)
+
+até 31 de janeiro de 2024 será pago o abono assiduidade referente ao período aquisitivo de 1º de julho a 31 de dezembro de 2023.
+
+
+Parágrafo único
+
+Vencidos os prazos fixados neste artigo, o abono assiduidade será pago sempre juntamente com as folhas de pagamento dos meses de janeiro, março, maio, julho, setembro e novembro de cada ano, relativo ao bimestre imediatamente anterior, exceto para os admitidos em caráter temporário que poderão receber o abono juntamente com as verbas rescisórias.
+
+Alteração feita pelo Art. 2º. - Lei Ordinária-GPREF nº 2.908, de 18 de agosto de 2025.
+
+
+Art. 8º.
+
+O abono-assiduidade terá seu valor revisado anualmente pelo Índice de Preços ao Consumidor Amplo – IPCA, acumulado dos últimos doze meses.
+
+
+Art. 9º.
+
+Para cobrir as despesas decorrentes da execução da presente Lei serão utilizados recursos do orçamento municipal vigente em cada exercício ocorrente.
+
+
+Art. 10.
+
+Ficam revogados o inciso V do artigo 19 e o artigo 24 da Lei n. 1.807, de 24 de abril de 2006, bem como as demais disposições em contrário.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data da sua publicação para ser aplicada a partir de 1º de janeiro de 2023.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE GUARUJÁ DO SUL, SC, em,  
+22 de novembro de 2022 .  
+71º ano da Fundação e 60º ano da Instalação
+
+Certifique-se. Publique-se.
+
+Claudio Junior Weschenfelder  
+Prefeito Municipal
+

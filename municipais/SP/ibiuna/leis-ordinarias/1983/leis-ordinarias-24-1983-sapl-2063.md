@@ -1,0 +1,163 @@
+---
+titulo: "Lei nº 24, de 02 de setembro de 1983"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "24"
+data: "1983-09-02"
+municipio: "Ibiúna"
+uf: "SP"
+codigo_ibge: "3519709"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.ibiuna.sp.leg.br/norma/2063"
+fonte_texto: "https://sapl.ibiuna.sp.leg.br/ta/288/text"
+sha256_fonte: "f77376c1584c96fefca49493f3e9f62826e3b12f63b98ead0744a376ddec2058"
+sha256_texto: "33bc85fe783dae8db5b7b7ac681dcbd49b144d861819b1f64a7654611f345361"
+capturado_em_fonte: "2026-10-28T13:56:27.277371-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 24, de 02 de setembro de 1983
+
+Institui o Plano Comunitário para execução de obras e pavimentação
+
+
+**JOSÉ VICENTE ZEZITO FALCI**, Prefeito do Município de Ibiúna, usando de suas atribuições legais,
+
+**FAÇO SABER** que a Câmara Municipal de Ibiúna decretou e eu promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Plano Comunitário para execução de obras de pavimentação, que se regerá pelo dispositivo nesta lei.
+
+
+Art. 2º.
+
+Para realização do Plano Comunitário, as firmas empreiteiras especializadas, devidamente registradas no órgão competente da Prefeitura do município, e por conta de particulares, obras de pavimentação, serviços preliminares, captações, galerias de águas pluviais e obras complementares, sob as seguintes condições:
+
+
+a)
+
+possuírem capital social, realizado e registrado, igual ou superior a 250 (duzentos e cinqüenta) Obrigações reajustáveis do Tesouro Nacional – ORTNs;
+
+
+b)
+
+responsabilizarem-se pela totalidade do custo da obra segundo previsão feita pela Prefeitura;
+
+
+c)
+
+requererem, e modelo aprovado, a autorização para realizar a obra, juntamente com os proprietários de imóveis cujas testadas somadas sejam iguais ou superior a 75% (setenta e cinco por cento) da testada total a ser beneficiada;
+
+
+d)
+
+depositarem, antecipadamente e depois de aprovado o projeto pela Prefeitura, caução igual a 10% (dez por cento) do valor da obra, com base em orçamento feito pela Prefeitura;
+
+
+e)
+
+possuírem equipamento compatível com o tipo e volume da obra, a critério da Prefeitura;
+
+
+f)
+
+descreverem com precisão, no requerimento o local que vai ser pavimentado, a área beneficiada e o tipo de serviço a executar;
+
+
+g)
+
+apresentarem projeto técnico das obras a serem executadas de acordo com as normas exigidas pela Prefeitura;
+
+
+h)
+
+assinarem, junto a Prefeitura, termo de compromisso, no qual são fixadas as responsabilidades da firma empreiteira, especialmente quanto ao prazo de duração das obras;
+
+
+i)
+
+iniciarem a cobrança de quotas dos interessados somente após o recebimento provisório da obra;
+
+
+j)
+
+obedecerem os contratos celebrados com os proprietários, consoante modelo aprovado pela Prefeitura, onde figurará obrigatoriamente, a tabela de Financiamento, que será observada para concessão de prazos para pagamento das obras e serviços;
+
+
+k)
+
+Não utilizaram alínea "k"
+
+
+l)
+
+apresentarem, com pelo menos 03 (três) dias de antecedência da data da lavratura e assinatura do Termo de Compromisso de que trata a letra “h” deste artigo, minuta de contratos a serem firmados com cada um dos proprietários dos imóveis lindeiros a via pública, cuja pavimentação é objeto dos mesmos, de acordo com o modelo estabelecido pela Prefeitura e onde figure o custo total da obra, já fixada em importância certa e inalterável, definitivamente avançada e rateada entre todos os proprietários anuentes;
+
+
+m)
+
+provarem ter executado, nos 03 (três) anos anteriores ao requerimento de autorização para a obra, o mínimo de 10.000 m2 de pavimentação;
+
+
+n)
+
+apresentarem demonstração do cálculo relativo ao rateio do custo total das obras entre os proprietários anuentes.
+
+
+Art. 3º.
+
+O custo total das obras não poderá ultrapassar o valor correspondente ao orçamento da Prefeitura, acrescido de 31% (trinta e um por cento), incluídas nesse acréscimo as despesas com promoção de vendas, cobranças, impostos e eventuais.
+
+
+Art. 4º.
+
+A Prefeitura aprovará, antecipadamente, a tabela de financiamento dos serviços, de acordo com as taxas vigentes no mercado da Capitais.
+
+
+Art. 5º.
+
+O projeto deverá obedecer, rigorosamente, as especificações da Prefeitura.
+
+
+Art. 6º.
+
+A aprovação do projeto e a fiscalização das obras não eximirá a firma empreiteira das responsabilidades previstas no art.1.245 do Código Civil Brasileiro.
+
+
+Art. 7º.
+
+A devolução da caução somente ocorrerá após o recebimento definitivo das obras e pagamento de dívidas decorrentes de multas e quaisquer outras despesas acarretadas a Prefeitura pelo empreiteiro.
+
+
+Art. 8º.
+
+O atraso no início ou na conclusão da obra, assim como sua interrupção, implicarão na aplicação de multas diárias de, no mínimo, 0,1 (um décimo por cento) do valor do contrato e, as demais infrações contratuais, na aplicação de multas correspondentes, no mínimo, a metade do valor da caução.
+
+
+Art. 9º.
+
+A Prefeitura não interferirá nas reclamações ou recursos relacionados com a responsabilidade das dívidas dos proprietários para com a firma empreiteira.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE IBIÚNA, AOS 02 DIAS DO MÊS DE SETEMBRO DE 1983.
+
+**JOSÉ VICENTE ZEZITO FALCI**
+
+**Prefeito Municipal**
+
+Publicada na Secretaria da Prefeitura Municipal e afixada no local de costume em 02 de setembro de 1983.
+
+**DR. JOÃO BENEDICTO DE MELLO JUNIOR**
+
+**Secretário Geral da Administração**
+

@@ -1,0 +1,77 @@
+---
+titulo: "Lei Ordinária-EM nº 2.350, de 24 de maio de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2350"
+data: "2011-05-24"
+municipio: "Canápolis"
+uf: "MG"
+codigo_ibge: "3111804"
+versao_texto: "texto integral anexado no SAPL municipal; "
+fonte: "https://sapl.canapolis.mg.leg.br/norma/714"
+fonte_texto: "https://sapl.canapolis.mg.leg.br/media/sapl/public/normajuridica/2011/714/lei_2350-2011_-_autoriza_o_poder_executivo_a_suplementar_a_dotacao_que_especifica.pdf"
+sha256_fonte: "86527df42edc78b50e38f419c1139fc76511331219b3a11fa0c8a5d0ea461df8"
+sha256_texto: "5f9af352e0faea0b590849f9665fc0be15be2c6cbc41aa06b4c215905617c007"
+baixado_em: "2026-10-16"
+---
+
+# Lei Ordinária-EM nº 2.350, de 24 de maio de 2011
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LHO
+
+LEI N° 2.350/2011 AUTORIZA O PODER EXECUTIVO A SUPLEMENTAR A DOTAÇÃO QUE ESPECÍFICA. O PREFEITO MUNICIPAL, Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte lei:
+
+**Art. 1°** - Fica o Poder Executivo Municipal, autorizado a suplementar as seguintes dotações:
+
+005.008 - ZOONOSES TOTAL DAS SUPLEMENTAÇÕES:
+
+**Art. 2°** -- Para atender as despesas decorrentes do artigo 1° serão utilizados recursos por anulação das seguintes Dotações Orçamentárias: MATERIAIS 02.07.01-3.3.90.30.01-10.305.0010.2.0105 DE CONSUMO DIVERSOS
+
+R$ 672,64 DE MATERIAIS 02.07.01-3.3.90.30.01-10.305.0010.2.0106 CONSUMO DIVERSOS
+
+R$ 2.945,83 DE 02.07.01-3.3.90.30.01-10.305.0010.2.0107 MATERIAIS CONSUMO DIVERSOS 005.008 - ZOONOSES R$ 2.750,00
+
+02. 07.01-3.3.90.30.05-10.305.0010.2.0106
+
+R$ 1.100,00 PREFEITURA MUNICIPAL DE CANAPOLIS MG Praça 19 de Março, 304 Centro | CEP 38380 000 Fore: 34 3266 3500 | Fax 34 3266 3501
+
+02. 07.01-3.3.90.30.05-10.305.0010.2.0107 005:008 - ZOONOSES
+
+02:07.01-3.3.90.30.06-10.305.0010.2.0105 MEDICAMENTOS
+
+MEDICAMENTOS 02.07.01-3.3.90.30.06-10.305.0010.2.0107
+
+02:07.01-3.3.90.36.01-10.305.0010.2.0105 OUTROS SERV.PESSOA FÍSICA
+
+02.07.01-3.3.90.36.01-10.305.0010.2.0106 OUTROS SERV.PESSOA FÍSICA 005.007- VIGILÂNCIA SANITÁRIA
+
+02.07.01-3.3.90.36.01-10.305.0010.2.0107 OUTROS SERV.PESSOA FISICA R$ 3.150,00 005.008-ZOONOSES OUTROS 02.07.01-3.3.90.39.01-10.305.0010.2.0105 SERV.PESSOA JURIDICA
+
+OUTROS 02.07.01-3.3.90.39.01-10.305.0010.2.0106 SERV. PESSOA JURIDICA
+
+SERV. 02.07.01-3.3.90.39.01-10.305.0010.2.0107 OUTROS PESSOA JURÍDICA
+
+005.008- ZOONOSES PREFEITURA MUNIÇIPAL DE CANÁPOLIS MG Praça 19 de Março, 304 Centro I CEP 38380 000 Fone 34 3266 3500 | Fax 34 3266 3501
+
+Canapolis 02.07.01-4.4.90.51.01-10.305.0010.2.0105 OBRAS E INSTALAÇÕES 005:006 - VIGILANCIA EPIDEMIOLOGICA
+
+02:07-01-4:4.90.51.01-10.305.0010.2:0106 OBRAS E INSTALAÇÕES 005.007 - VIGILANCIA SANITARIA
+
+:02.07:01-4.4.90.51.01-10.305.0010.2.0107 OBRAS E INSTALAÇÕES
+
+02.07.01-4.4.90.52.01-10.305.0010.2.0105 MAT, PERMANENTE R$ 3.460,19 001.001 - RECURSOS DO MUNICIPIO :005.006 - VIGILÂNCIA EPIDEMIOLOGICA
+
+E
+
+02.07.01-4.4.90.52.01-10.305.0010.2.0106
+
+R$ $25,00 001.001 - RECURSOS DO MUNICIPIO 005.007 - VIGILANCIA SANITARIA R$ 5.250,00
+
+E
+
+R$ 5.250,00 \* 001.001 - RECURSOS DO MUNICIPIO TOTAL DAS ANULAÇÕES:
+
+**Art. 3°** - Esta Lei entra en gor na data de sua publicação. Canápolis/MG, 24 de Maio de 201 ONALVES SANTANA Preteito Municipal PREFE/TURA MUNICIPAL DE CANAPOLIS MG -Praça 19 de Março, 304 Centro | CEP 38380 000 Fone 34 3266 3500 ! Fax 34 3266 3501
+

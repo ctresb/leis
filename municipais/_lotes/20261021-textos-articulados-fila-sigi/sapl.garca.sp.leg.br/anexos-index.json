@@ -1,0 +1,366 @@
+{
+  "estado": "indice_completo",
+  "total": 32,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/1/proposta_lom_1990.pdf da norma Lei Orgânica Municipal nº 1, de 05 de abril de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Câmara Municipal de Garça\r\nSessão Solene de Instalação da Assembléia Constituinte Municipal \r\nRealizada em 25 de Outubro de 1989",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/1990/1/proposta_lom_1990.pdf",
+      "ano": 1990,
+      "norma": 5448
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/2/regimento_interno-original.pdf da norma Regimento Interno nº 1, de 14 de julho de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2017/2/regimento_interno-original.pdf",
+      "ano": 2017,
+      "norma": 5444
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2006/3/resolucao_0315-2006.pdf da norma Resolução nº 315, de 21 de setembro de 2006",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2006/3/resolucao_0315-2006.pdf",
+      "ano": 2006,
+      "norma": 4768
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/4/5366_anexos_ldo_2021.pdf da norma Lei nº 5.366, de 03 de julho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2020/4/5366_anexos_ldo_2021.pdf",
+      "ano": 2020,
+      "norma": 100409
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/5/5368_anexo_i.pdf da norma Lei nº 5.368, de 12 de agosto de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2020/5/5368_anexo_i.pdf",
+      "ano": 2020,
+      "norma": 100413
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/laudo_de_avaliacao_imovel.pdf da norma Portaria-CMG nº 1.427, de 28 de abril de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "Laudo de Avaliação do Imóvel",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2021/6/laudo_de_avaliacao_imovel.pdf",
+      "ano": 2021,
+      "norma": 101324
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/7/anexos_loa_2021.pdf da norma Lei nº 5.382, de 02 de dezembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "Anexos da LOA",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2020/7/anexos_loa_2021.pdf",
+      "ano": 2020,
+      "norma": 100441
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/8/anexo_i_-_termo_de_responsabilidade.pdf da norma Ato da Mesa nº 13, de 18 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "Anexo I - Modelo de Termo de Responsabilidade",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2013/8/anexo_i_-_termo_de_responsabilidade.pdf",
+      "ano": 2013,
+      "norma": 10064
+    },
+    {
+      "id": 9,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/9/anexo_ii_-_termo_de_transferencia.pdf da norma Ato da Mesa nº 13, de 18 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/9",
+      "metadata": {},
+      "assunto_anexo": "Anexo II - Modelo de Termo de Transferência entre Unidades",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2013/9/anexo_ii_-_termo_de_transferencia.pdf",
+      "ano": 2013,
+      "norma": 10064
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/10/anexo_iii_-_termo_de_baixa.pdf da norma Ato da Mesa nº 13, de 18 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "Anexo III - Modelo de Termo de Baixa",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2013/10/anexo_iii_-_termo_de_baixa.pdf",
+      "ano": 2013,
+      "norma": 10064
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/11/anexo_iv_-_termo_de_manutencao.pdf da norma Ato da Mesa nº 13, de 18 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "Anexo IV - Modelo de Termo de Reparo de bem",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2013/11/anexo_iv_-_termo_de_manutencao.pdf",
+      "ano": 2013,
+      "norma": 10064
+    },
+    {
+      "id": 12,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/12/anexo_v_-_termo_de_registro_contabil.pdf da norma Ato da Mesa nº 13, de 18 de dezembro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/12",
+      "metadata": {},
+      "assunto_anexo": "Anexo V - Modelo de Termo de Solicitação de Registro Contábil",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2013/12/anexo_v_-_termo_de_registro_contabil.pdf",
+      "ano": 2013,
+      "norma": 10064
+    },
+    {
+      "id": 13,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1997/13/decisao_-_tjsp-_garca_-_taxa_de_lixo.pdf da norma Lei nº 3.220, de 23 de dezembro de 1997",
+      "link_detail_backend": "/norma/anexonormajuridica/13",
+      "metadata": {},
+      "assunto_anexo": "Decisão - TJSP- Garça - Taxa de Lixo",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/1997/13/decisao_-_tjsp-_garca_-_taxa_de_lixo.pdf",
+      "ano": 1997,
+      "norma": 5121
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/14/anexos_ldo_2023.pdf da norma Lei nº 5.480, de 06 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2022/14/anexos_ldo_2023.pdf",
+      "ano": 2022,
+      "norma": 101530
+    },
+    {
+      "id": 15,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/15/anexos_ldo_2022.pdf da norma Lei nº 5.421, de 21 de julho de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/15",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2021/15/anexos_ldo_2022.pdf",
+      "ano": 2021,
+      "norma": 101382
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/16/5538-2023_promulgada_pela_camara.pdf da norma Lei nº 5.538, de 10 de maio de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2023/16/5538-2023_promulgada_pela_camara.pdf",
+      "ano": 2023,
+      "norma": 101653
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/17/20231027_atestado_medico.pdf da norma Portaria-CMG nº 1.532, de 30 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "Atestado médico",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2023/17/20231027_atestado_medico.pdf",
+      "ano": 2023,
+      "norma": 101737
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/18/diario_oficial_do_municipio_-_garca_-_edicao_2230.pdf da norma Portaria-CMG nº 1.532, de 30 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "Publicação de extrato",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2023/18/diario_oficial_do_municipio_-_garca_-_edicao_2230.pdf",
+      "ano": 2023,
+      "norma": 101737
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/19/diario_oficial_do_municipio_-_garca_-_edicao_2230.pdf da norma Ato da Mesa nº 7, de 30 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Ato da Mesa",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2023/19/diario_oficial_do_municipio_-_garca_-_edicao_2230.pdf",
+      "ano": 2023,
+      "norma": 101739
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/20/diario_oficial_do_municipio_-_garca_-_edicao_2230.pdf da norma Ato da Mesa nº 6, de 30 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "Publicação do Ato da Mesa",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2023/20/diario_oficial_do_municipio_-_garca_-_edicao_2230.pdf",
+      "ano": 2023,
+      "norma": 101738
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/21/anexos_atualizados.pdf da norma Lei nº 5.626, de 14 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2023/21/anexos_atualizados.pdf",
+      "ano": 2023,
+      "norma": 101787
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/22/ldo_2025_anexos.pdf da norma Lei nº 5.732, de 02 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2024/22/ldo_2025_anexos.pdf",
+      "ano": 2024,
+      "norma": 101943
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/23/diario_oficial_do_municipio_-_garca_-_edicao_2458.pdf da norma Portaria-CMG nº 1.562, de 03 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Portaria",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2024/23/diario_oficial_do_municipio_-_garca_-_edicao_2458.pdf",
+      "ano": 2024,
+      "norma": 101959
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/24/diario_oficial_do_municipio_-_garca_-_edicao_2458.pdf da norma Portaria-CMG nº 1.561, de 03 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "Publicação da Portaria",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2024/24/diario_oficial_do_municipio_-_garca_-_edicao_2458.pdf",
+      "ano": 2024,
+      "norma": 101960
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/25/59_-_autografo_140-2024-_pl_147-2024_com_emendas.pdf da norma Lei nº 5.760, de 12 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {
+        "signs": {
+          "anexo_arquivo": {
+            "admin": [],
+            "autores": [
+              [
+                "Antonio Marcos Pereira",
+                [
+                  "2024-11-29T16:32:15-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Fabio Augusto dos Santos",
+                [
+                  "2024-11-29T16:31:48-03:00",
+                  "ICP-Brasil"
+                ]
+              ],
+              [
+                "Rodrigo Gutierres",
+                [
+                  "2024-11-29T16:31:21-03:00",
+                  "ICP-Brasil"
+                ]
+              ]
+            ]
+          }
+        }
+      },
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2024/25/59_-_autografo_140-2024-_pl_147-2024_com_emendas.pdf",
+      "ano": 2024,
+      "norma": 101993
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/26/lei_4273_2008.doc da norma Lei nº 4.273, de 15 de outubro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2008/26/lei_4273_2008.doc",
+      "ano": 2008,
+      "norma": 4249
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/27/lei_5674_2024.doc da norma Lei nº 5.674, de 04 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2024/27/lei_5674_2024.doc",
+      "ano": 2024,
+      "norma": 101862
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/28/5844_anexo.pdf da norma Lei nº 5.844, de 22 de dezembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2025/28/5844_anexo.pdf",
+      "ano": 2025,
+      "norma": 102182
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/5889.pdf da norma Lei nº 5.889, de 22 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "Lei assinada",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2026/29/5889.pdf",
+      "ano": 2026,
+      "norma": 102276
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/30/48_-_anexos_com_emendas.pdf da norma Lei nº 5.889, de 22 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2026/30/48_-_anexos_com_emendas.pdf",
+      "ano": 2026,
+      "norma": 102276
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/31/diario_oficial_do_municipio_-_garca_-_edicao_2916.pdf da norma Ato da Mesa-CMG nº 16, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "Publicação no DOEM",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2026/31/diario_oficial_do_municipio_-_garca_-_edicao_2916.pdf",
+      "ano": 2026,
+      "norma": 102284
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/32/0600088-49.2026.6.26.0000_3_1.pdf da norma Ato da Mesa-CMG nº 16, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "Oficio comunicando decisão",
+      "anexo_arquivo": "http://sapl.garca.sp.leg.br/media/sapl/public/anexonormajuridica/2026/32/0600088-49.2026.6.26.0000_3_1.pdf",
+      "ano": 2026,
+      "norma": 102284
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.garca.sp.leg.br/d8aaad21e9c78d5e3614a8ef6505a61aa9de7d72d2c0e7064494ed195c3ba74c.json",
+      "url": "https://sapl.garca.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "142685ae152b2e07aec42bb248a48adba2aa88e997b070b87385e1a20a57abc4",
+      "capturado_em": "2026-10-20T20:50:47.418241",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.garca.sp.leg.br/d8aaad21e9c78d5e3614a8ef6505a61aa9de7d72d2c0e7064494ed195c3ba74c.json"
+    }
+  ]
+}

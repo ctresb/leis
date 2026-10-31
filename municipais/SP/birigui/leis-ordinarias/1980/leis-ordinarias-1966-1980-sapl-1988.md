@@ -1,0 +1,208 @@
+---
+titulo: "Lei Ordinária nº 1.966, de 22 de outubro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1966"
+data: "1980-10-22"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; 1988-01-01; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/1988"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2833/text"
+sha256_fonte: "c3434f0a747018ca108a3f879a99691b7ad9e88b77aa52e1817845e3a75f2fef"
+sha256_texto: "4a8b8352cdb42f137d91ea145a63f219f4312d33839c1f8cba773030842f87aa"
+capturado_em_fonte: "2026-10-27T18:50:24.724801-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.966, de 22 de outubro de 1980
+
+DISPÕE SOBRE A INSTITUIÇÃO DA FUNDAÇÃO BIRIGUIENSE DE BEM-ESTAR SOCIAL DE BIRIGUI – FUBEM.
+
+
+Eu, **ODEYR RAMOS**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por lei, etc.
+
+FAÇO SABER que a Câmara Municipal decreta e eu promulgo a seguinte lei:
+
+
+Art. 1º.
+
+É autorizada a instituição da **FUNDAÇÃO BIRIGUIENSE DE BEM-ESTAR SOCIAL – FUBEM**, com fins, objetivos e administração conforme esta Lei, o Decreto que a regulamentar e os Estatutos.
+
+
+Art. 2º.
+
+A Fundação, com sede e Foro na cidade de Birigui, gozará de autonomia financeira e administrativa, e adquirirá personalidade jurídica a partir da inscrição de seu ato constitutivo no registro civil das pessoas jurídicas, do qual serão partes integrantes esta Lei, os Estatutos, e o Decreto que os aprovar.
+
+
+§ 1º
+
+O Prefeito Municipal será o representante do Município nos atos constitutivos da Fundação.
+
+
+§ 2º
+
+Os atos referidos no parágrafo anterior compreenderão o tombamento, a avaliação e todos os que se relacionarem com a interação, mediante escritura pública, no patrimônio da Fundação, sem ônus para esta, dos bens e direitos enumerados no artigo 5º desta lei.
+
+Alteração feita pelo I - Lei Ordinária nº 1.976, de 05 de dezembro de 1980.
+
+
+Art. 3º.
+
+Os Estatutos da Fundação serão aprovador por Decreto do Executivo, após ter sido submetido ao órgão do Ministério Público.
+
+
+Parágrafo único
+
+Os Estatutos poderão ser modificados pela mesma forma prevista para sua elaboração.
+
+
+Art. 4º.
+
+São fins da Fundação Biriguiense de Bem-Estar Social – FUBEM, a realização e o desenvolvimento dos serviços públicos e privados relacionados com o **BEM-ESTAR SOCIAL**.
+
+
+§ 1º
+
+Na consecução dos seus fins, a Fundação manterá diretamente todos os serviços pertinentes aos seus objetivos naturais, ou mediante convênio com entidades públicas ou privadas.
+
+
+§ 2º
+
+A Fundação se empenhará, ainda, no estudo dos problemas relacionados com o desenvolvimento sócio-econômico da comunidade local, na medida de suas possibilidades ou em colaboração com entidades públicas ou privadas.
+
+
+Art. 5º.
+
+O patrimônio da Fundação será constituído:
+
+
+I –
+
+do veículo Ford Corcel “Belina”, ambulância, de propriedade do Município (Certificado nº 6.456.790, expedido em 03 de outubro de 1980, pela Delegacia de Polícia de Birigui).
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 1.994, de 27 de abril de 1981.
+
+
+II –
+
+dos bens imóveis e móveis que, por qualquer forma, adquirir;
+
+
+III –
+
+das doações e ajudas financeiras que lhe venham a ser feitas ou concedidas pelo Município ou por outras entidades públicas ou privadas;
+
+
+IV –
+
+das contribuições previstas em convênios;
+
+
+V –
+
+de outras incorporações que resultem dos trabalhos realizados pela Fundação.
+
+
+§ 1º
+
+Os bens e direitos da Fundação serão utilizados ou aplicados exclusivamente na consecução dos seus objetivos, podendo, para tal fim, ser alienados, com exceção do mencionado no inciso I do artigo.
+
+
+§ 2º
+
+No caso de extinguir-se a Fundação, o remanescente dos seus bens e direitos será destinado a entidade congênere, com sede e atividades preponderantes no Estado de São Paulo e registrada no Conselho Nacional de Serviço Social.
+
+Alteração feita pelo II - Lei Ordinária nº 1.976, de 05 de dezembro de 1980.
+
+
+Art. 6º.
+
+O orçamento próprio da Fundação será executado plano de aplicação, elaborado sob a forma de orçamento-programa, sujeito à aprovação do Conselho Consultivo.
+
+
+Parágrafo único
+
+A Contabilidade e a realização das receitas e despesas da Fundação obedecerão às normas federais pertinentes, obrigando-se ela à remessa de seus balancetes mensais do Tribunal de Contas do Estado de São Paulo, a quem deverá ser remetido, até 31 de março do ano seguinte ao do encerramento do exercício, o balanço anual.
+
+
+Art. 7º.
+
+O Município concederá mensalmente, à FUBEM, subvenção correspondente a 150 (cento e cinquenta) OTN’s – OBRIGAÇÕES DO TESOURO NACIONAL, atualizadas por suas variações.
+
+Alteração feita pelo Art. 1º. - Lei Ordinária nº 2.456, de 30 de dezembro de 1987.
+
+
+Parágrafo único
+
+A subvenção objeto do artigo será encaminhada à Fundação em duodécimos, pagos até o dia 30 (trinta) de cada mês.
+
+Inclusão feita pelo III - Lei Ordinária nº 1.976, de 05 de dezembro de 1980.
+
+
+Art. 8º.
+
+A fundação será administrada por uma Diretoria composta de: um Presidente, um Secretário e um Tesoureiro.
+
+
+§ 1º
+
+Além da Diretoria Executiva, a Fundação terá um Conselho Consultivo, cujo número de membros e forma de constituição será fixado nos Estatutos.
+
+
+§ 2º
+
+Os cargos da Diretoria Executiva serão preenchidos por nomeação do Prefeito Municipal e seus mandatos terão a duração do mandato deste.
+
+Alteração feita pelo IV - Lei Ordinária nº 1.976, de 05 de dezembro de 1980.
+
+
+§ 3º
+
+Os membros do Conselho Consultivo e seus suplentes serão nomeados pelo Prefeito, “ad referendum” da Câmara Municipal, e seus mandatos terão a duração de 2 (dois) anos.
+
+
+§ 4º
+
+Os membros da Diretoria Executiva e do Conselho Consultivo e seus suplentes, pelo exercício de suas funções, não receberão remuneração a qualquer título.
+
+Inclusão feita pelo V - Lei Ordinária nº 1.976, de 05 de dezembro de 1980.
+
+
+Art. 9º.
+
+O pessoal técnico, administrativo e auxiliar da Fundação será admitido no regime da legislação do trabalho e demais normas legais sobre a matéria.
+
+
+Parágrafo único
+
+O quadro de pessoal será elaborado pela Presidência, ouvido o Conselho Consultivo.
+
+
+Art. 10.
+
+O Município poderá designar servidores do seu quadro para prestarem serviços à Fundação, aplicando-se a eles as disposições da sua relação jurídica para com a Prefeitura.
+
+
+Art. 11.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Art. 12.
+
+No dia da inscrição dos atos constitutivos da Fundação Biriguiense de Bem-Estar Social, no registro civil das pessoas jurídicas, ficarão revogadas as disposições em contrário, notadamente as da Lei Municipal nº 1.890, de 1º de outubro de 1979.
+
+
+Prefeitura Municipal de Birigui, aos vinte e dois de outubro de mil novecentos e oitenta.
+
+**ODEYR RAMOS Prefeito Municipal**
+
+Publicada no Serviço de Administração e Expediente da Prefeitura Municipal de Birigui, aos vinte e dois de outubro de mil novecentos e oitenta, e por Edital, afixado no local de costume.
+
+**IRMGARD A. P. STUHR CORADAZZI Respondendo pelo Serviço de Administração e Expediente**
+

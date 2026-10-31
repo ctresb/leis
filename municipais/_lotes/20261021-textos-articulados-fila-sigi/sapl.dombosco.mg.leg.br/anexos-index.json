@@ -1,0 +1,47 @@
+{
+  "estado": "indice_completo",
+  "total": 3,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/anexos_ldo_2021.pdf da norma Lei nº 397, de 29 de junho de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Anexos LDO 2021.",
+      "anexo_arquivo": "http://sapl.dombosco.mg.leg.br/media/sapl/public/anexonormajuridica/2020/1/anexos_ldo_2021.pdf",
+      "ano": 2020,
+      "norma": 409
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2015/2/lei_339_2015_anexo.pdf da norma Lei nº 339, de 24 de junho de 2015",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Anexos da Lei 339/2015 LDO",
+      "anexo_arquivo": "http://sapl.dombosco.mg.leg.br/media/sapl/public/anexonormajuridica/2015/2/lei_339_2015_anexo.pdf",
+      "ano": 2015,
+      "norma": 421
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/3/anexos_loa_2025_pos_emendas_1.pdf da norma Lei nº 515, de 19 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Anexos LOA",
+      "anexo_arquivo": "http://sapl.dombosco.mg.leg.br/media/sapl/public/anexonormajuridica/2024/3/anexos_loa_2025_pos_emendas_1.pdf",
+      "ano": 2024,
+      "norma": 554
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.dombosco.mg.leg.br/d30599b469d86d77b9aaa1ba402b0f8023266917189a9f4ead1f7266d041b1f5.json",
+      "url": "https://sapl.dombosco.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "33eb5fe7c766a615e68d53dad1f139e05e7420922ad24c30f1e30fca41a43936",
+      "capturado_em": "2026-10-20T20:50:40.854407",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.dombosco.mg.leg.br/d30599b469d86d77b9aaa1ba402b0f8023266917189a9f4ead1f7266d041b1f5.json"
+    }
+  ]
+}

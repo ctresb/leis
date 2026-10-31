@@ -1,0 +1,88 @@
+{
+  "estado": "indice_completo",
+  "total": 7,
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/1/31.docx da norma Lei nº 1.960, de 17 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "Memorial Descritivo",
+      "anexo_arquivo": "http://sapl.bicas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/1/31.docx",
+      "ano": 2020,
+      "norma": 2052
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2020/2/31.docx da norma Lei nº 1.959, de 17 de setembro de 2020",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "Memorial descritivo",
+      "anexo_arquivo": "http://sapl.bicas.mg.leg.br/media/sapl/public/anexonormajuridica/2020/2/31.docx",
+      "ano": 2020,
+      "norma": 2051
+    },
+    {
+      "id": 3,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/3/errata.docx da norma Lei Orgânica do Município nº 2, de 20 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/3",
+      "metadata": {},
+      "assunto_anexo": "Errata de Publicação",
+      "anexo_arquivo": "http://sapl.bicas.mg.leg.br/media/sapl/public/anexonormajuridica/2021/3/errata.docx",
+      "ano": 2021,
+      "norma": 2164
+    },
+    {
+      "id": 4,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/4/acordao_100002216874860002024595305.pdf da norma Ação Declaratória de Inconstitucionalidade nº 1, de 22 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/4",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bicas.mg.leg.br/media/sapl/public/anexonormajuridica/2024/4/acordao_100002216874860002024595305.pdf",
+      "ano": 2024,
+      "norma": 2566
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/5/anexo_i_valores_das_diarias_1.pdf da norma Resolução nº 329, de 24 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "Valores das diárias",
+      "anexo_arquivo": "http://sapl.bicas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/5/anexo_i_valores_das_diarias_1.pdf",
+      "ano": 2025,
+      "norma": 2605
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/6/levantamento_de_precos_criterios_para_fixacao_de_valores_1.pdf da norma Resolução nº 329, de 24 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "critérios de fixação",
+      "anexo_arquivo": "http://sapl.bicas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/6/levantamento_de_precos_criterios_para_fixacao_de_valores_1.pdf",
+      "ano": 2025,
+      "norma": 2605
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/_processo_judicial_eletronico_-_1o_grau_melissa.pdf da norma Decreto Legislativo nº 539, de 12 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.bicas.mg.leg.br/media/sapl/public/anexonormajuridica/2025/7/_processo_judicial_eletronico_-_1o_grau_melissa.pdf",
+      "ano": 2025,
+      "norma": 2629
+    }
+  ],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bicas.mg.leg.br/e280421585f6463843fee61a55bc750a1a09f55d3821a96abb43c3573c179c41.json",
+      "url": "https://sapl.bicas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "url_final": "https://sapl.bicas.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3a8ae8a404f896f65161306df061b9b360cddb1c070b5096873599e953fda274",
+      "bytes": 3097,
+      "capturado_em": "2026-10-27T17:20:49.421402-03:00"
+    }
+  ]
+}

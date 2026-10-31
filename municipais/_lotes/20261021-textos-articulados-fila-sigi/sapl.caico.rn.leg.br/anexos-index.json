@@ -1,0 +1,16 @@
+{
+  "estado": "indice_completo",
+  "total": 0,
+  "anexos": [],
+  "evidencias": [
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.caico.rn.leg.br/638bf08d442872e08e0c7d3c9819600fe54d78d58aa90e51325909950f8edba4.json",
+      "url": "https://sapl.caico.rn.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "capturado_em": "2026-10-20T22:40:45.953182",
+      "cache_origem": "municipais/_fonte/auditorias/anexos-sapl/sapl.caico.rn.leg.br/638bf08d442872e08e0c7d3c9819600fe54d78d58aa90e51325909950f8edba4.json"
+    }
+  ]
+}
